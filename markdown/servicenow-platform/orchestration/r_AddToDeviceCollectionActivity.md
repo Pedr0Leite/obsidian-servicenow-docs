@@ -16,9 +16,9 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 The Add to Device Collection activity adds the specified device into a Microsoft System Center Configuration Manager \(SCCM\) device collection.
 
-The Add to Device Collection activity uses the [Powershell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to add a specified device to an SCCM device collection. The activity is configured to use a [[mid-server-landing|MID Server]] with Powershell capabilities and to run a MID Server script called AddToDeviceCollection.ps1 to edit the collection.
+The Add to Device Collection activity uses the [Powershell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to add a specified device to an SCCM device collection. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called AddToDeviceCollection.ps1 to edit the collection.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
 
 **Note:** The Add to Device Collection activity does not use pre-processing or post-processing scripts.
 
@@ -46,7 +46,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

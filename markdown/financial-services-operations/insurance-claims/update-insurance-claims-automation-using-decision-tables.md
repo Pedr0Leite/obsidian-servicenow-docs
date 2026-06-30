@@ -14,7 +14,7 @@ breadcrumb: [Automating claims processes using decision tables, Configure, Insur
 
 # Use claim automation decision tables
 
-Use decision tables to define the claim automation rules in the [[insurance-claims-flow|Insurance claims]] application. You can review and update these rules to suit your claims workflow.
+Use decision tables to define the claim automation rules in the Insurance claims application. You can review and update these rules to suit your claims workflow.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ If you add new input parameters, you can also add or modify the corresponding su
 
 4.  Review and update the conditions in the decision table as required.
 
-## Related
 
-- [[insurance-claims-flow|Insurance claims]]

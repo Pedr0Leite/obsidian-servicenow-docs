@@ -14,7 +14,7 @@ breadcrumb: [Set up access to Google Cloud billing and usage data, Configure Clo
 
 # Cancel a Google Cloud Billing download job
 
-A Billing download job obtains billing and usage data from each payer account for Google Cloud. The Rightsizing, [[um-cloudin|Unused resources]], and [[bh-cloudin|Business hours]] processes use billing and usage data when generating recommendations. You can cancel any Billing download job individually.
+A Billing download job obtains billing and usage data from each payer account for Google Cloud. The Rightsizing, Unused resources, and Business hours processes use billing and usage data when generating recommendations. You can cancel any Billing download job individually.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Roles required:insights\_admin
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Billing download jobs**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Billing download jobs**.
 
 2.  Select the **Google** tab.
 
@@ -30,8 +30,4 @@ Roles required:insights\_admin
 
 4.  On the Google Billing Download page, select **Cancel execution** or **Cancel**.
 
-## Related
 
-- [[um-cloudin|Unused resources]]
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

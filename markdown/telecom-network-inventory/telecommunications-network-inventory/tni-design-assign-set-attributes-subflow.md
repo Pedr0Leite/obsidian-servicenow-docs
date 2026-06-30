@@ -14,7 +14,7 @@ breadcrumb: [Subflows, Reference, Telecommunications Network Inventory]
 
 # Design Assign Set Attributes subflow
 
-The TNI Design Assign Set Attributes subflow enables you to update the TNI CI attribute record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this flow action to configure the activities in a [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook for logical connection.
+The TNI Design Assign Set Attributes subflow enables you to update the TNI CI attribute record in the Telecommunications Network Inventory application. You can use this flow action to configure the activities in a Design and Assign playbook for logical connection.
 
 The TNI Design Assign Set Attributes subflow updates the TNI CI attributes that are associated with a logical connection and updates them in a change task. This subflow functions are as follows.
 
@@ -73,7 +73,3 @@ The TNI Design Assign Set Attributes subflow output are as follows.
 
 [Design Assign Number Element Validation subflow]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

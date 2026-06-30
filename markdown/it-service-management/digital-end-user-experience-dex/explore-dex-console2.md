@@ -14,11 +14,11 @@ breadcrumb: [Digital End-User Experience, IT Service Management]
 
 # Exploring Digital End-User Experience
 
-The [[dex-landing|Digital End-User Experience]] \(DEX\) suite provides proactive visibility to help you understand and improve the end-user experience across your organization. It includes Application and Device Health, DEX Content Playbook, Desktop Assistant, [[dexscr-digital-experience-score|Digital Experience Score​]], and [[proactive-engagement-landing-page|Proactive Engagement]] to help diagnose and address negative experiences.
+The Digital End-User Experience \(DEX\) suite provides proactive visibility to help you understand and improve the end-user experience across your organization. It includes Application and Device Health, DEX Content Playbook, Desktop Assistant, Digital Experience Score​, and Proactive Engagement to help diagnose and address negative experiences.
 
 ## Digital End-User Experience overview
 
-The Digital End-User Experience \(DEX\) provides end-to-end visibility into the health of [[dex-workspace-application-tab|applications]], networks, and end-user [[dex-workspace-devices-tab|devices]]. DEX provides such features as application, user, and device navigation, trend analysis, and various useful metrics. With DEX you can identify the root cause of an issue instead of addressing only its effects.
+The Digital End-User Experience \(DEX\) provides end-to-end visibility into the health of applications, networks, and end-user devices. DEX provides such features as application, user, and device navigation, trend analysis, and various useful metrics. With DEX you can identify the root cause of an issue instead of addressing only its effects.
 
 ## Digital End-User Experience users
 
@@ -159,15 +159,15 @@ Having a positive digital experience can lead to the following benefits:
 
 -   **[DEX for Service Desk Agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/features-of-investigation-tab.md)**
 
-    As a Service Desk agent, navigate to the DEX [[user-health-card|device health page]] from the ServiceNow Core UI incident experience or from the Investigate tab within the Incident experience in Service Operations Workspace \(SOW\). Configure a computer Configuration Item \(CI\) and install the DEX plugin for the ability to analyze device metrics from within the platform, getting valuable insights for effective issue investigation.
+    As a Service Desk agent, navigate to the DEX device health page from the ServiceNow Core UI incident experience or from the Investigate tab within the Incident experience in Service Operations Workspace \(SOW\). Configure a computer Configuration Item \(CI\) and install the DEX plugin for the ability to analyze device metrics from within the platform, getting valuable insights for effective issue investigation.
 
-    Use [[dex-diagnostics-guided-resolutions|incident investigation with DEX]] to review device health, detected issues, and suggested resolutions. Implement resolutions and remedial actions directly from your workspace and monitor the status of actions. For more information, see [Incident investigation with DEX](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-diagnostics-guided-resolutions.md).
+    Use incident investigation with DEX to review device health, detected issues, and suggested resolutions. Implement resolutions and remedial actions directly from your workspace and monitor the status of actions. For more information, see [Incident investigation with DEX](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-diagnostics-guided-resolutions.md).
 
-    Use the [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]] to resolve detected issues with automated root cause analysis, targeted resolution plans, and documentation of resolution summary in incident records. For more information, see [DEX issue diagnosis and resolution agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
+    Use the DEX issue diagnosis and resolution agentic workflow to resolve detected issues with automated root cause analysis, targeted resolution plans, and documentation of resolution summary in incident records. For more information, see [DEX issue diagnosis and resolution agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
 
 -   **[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_SoftwareAssetMgmt.md)**
 
-    Unifying the experience of DEX application with Software [[c_AssetManagement|Asset Management]] \(SAM\) software enables you to access SAM-normalized software content. This integration provides software metering data from DEX to integrate with SAM for software licensing reclamation and, in turn, reduce software license costs. For more information, see [Using DEX or SAM for application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/using-dex-or-sam-for-app-monitoring.md).
+    Unifying the experience of DEX application with Software Asset Management \(SAM\) software enables you to access SAM-normalized software content. This integration provides software metering data from DEX to integrate with SAM for software licensing reclamation and, in turn, reduce software license costs. For more information, see [Using DEX or SAM for application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/using-dex-or-sam-for-app-monitoring.md).
 
 
 ## What to explore next
@@ -180,14 +180,3 @@ To learn more about configuring and using Digital End-User Experience, see:
 -   [Get information about the DEX Workspace administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md).
 -   [Tracking digital experience using Digital Experience Score​ dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-using-dex-score.md).
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[user-health-card|Device health page]]
-- [[dex-diagnostics-guided-resolutions|Incident investigation with DEX]]
-- [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]]
-- [[c_AssetManagement|Asset Management]]

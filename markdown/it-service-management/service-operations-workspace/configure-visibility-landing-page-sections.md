@@ -14,7 +14,7 @@ breadcrumb: [Landing page configurations in Service Operations Workspace for ITS
 
 # Configure the visibility of landing page sections
 
-Configure if few sections of the [[dex-workspace-dashboard-tab|landing page]] should be visible or hidden. For example, **Quick links** and **Upcoming** sections.
+Configure if few sections of the landing page should be visible or hidden. For example, **Quick links** and **Upcoming** sections.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

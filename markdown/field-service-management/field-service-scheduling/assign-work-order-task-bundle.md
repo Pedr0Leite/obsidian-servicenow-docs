@@ -28,7 +28,7 @@ Changing the **Assign to** field value on a bundle changes the assignment of all
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -39,6 +39,3 @@ Changing the **Assign to** field value on a bundle changes the assignment of all
 
 The tasks in the bundle are added to the agent's queue to accept or reject.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -15,11 +15,11 @@ breadcrumb: [Use generative AI skills, Now Assist, Common GRC features, Governan
 
 # Summarize an issue using Now Assist for Integrated Risk Management \(IRM\)
 
-Summarize an issue by using the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] application. Use a summary to get quick context and awareness about an issue.
+Summarize an issue by using the Now Assist for Integrated Risk Management \(IRM\) application. Use a summary to get quick context and awareness about an issue.
 
 ## Before you begin
 
-**Note:** The [[issue-summarization-skill|Issue Summarization skill]] is activated by default, unless you manually deactivate it. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-na-skills-in-irm.md).
+**Note:** The Issue Summarization skill is activated by default, unless you manually deactivate it. For more information, see [Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-na-skills-in-irm.md).
 
 Role required: sn\_grc\_genai.issue\_user and sn\_irm\_gen\_ai.user
 
@@ -29,7 +29,7 @@ The intelligence of Now Assist analyzes the issue records including the descript
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Risk Workspace**.
 
 2.  Navigate to Issues and open any New, In progress, or Closed issue.
 
@@ -112,8 +112,3 @@ If you think that data might have changed after you viewed the summary, select t
 
 A summary is generated for the issue through the issue summarization skill.
 
-## Related
-
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]
-- [[issue-summarization-skill|Issue Summarization skill]]
-- [[risk-workspace|risk workspace]]

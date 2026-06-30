@@ -12,19 +12,19 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Major issue management overview
 
-Major issue management enables [[customer-communication|customer communication]] for issues that impact a wider audience. Use this application to proactively identify impacted customers, provide information to these customers, and manage the resolution process.
+Major issue management enables customer communication for issues that impact a wider audience. Use this application to proactively identify impacted customers, provide information to these customers, and manage the resolution process.
 
 This application enables you to efficiently manage the communication and resolution process for issues that impact multiple customers. With major issue management, you can identify impacted customers who have not yet reported an issue and proactively create cases for these customers.
 
 Major issue management introduces the concept of a major case which contains the details about a particular issue. Child cases can easily be created for a major case, with one child case created for each customer affected by the issue. These child cases contain the customer-specific information.
 
-Identify affected customers by creating a recipients list of accounts or consumers and attaching it to the major case. Create this list using the [[c_TargetedCommunications|Targeted Communications]] application. Build a recipients list by identifying dynamic conditions, running a script, or importing customer information into a template. Once attached to a major case, use the recipients list to create a child case for each customer included in the list.
+Identify affected customers by creating a recipients list of accounts or consumers and attaching it to the major case. Create this list using the Targeted Communications application. Build a recipients list by identifying dynamic conditions, running a script, or importing customer information into a template. Once attached to a major case, use the recipients list to create a child case for each customer included in the list.
 
-Install the [[major-issue-management-application|Major issue management]] application from the ServiceNow® Store.
+Install the [Major issue management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-management-application.md) application from the ServiceNow® Store.
 
 A major case is created in one of two ways:
 
--   A customer service manager can [[create-major-case|create a major case]].
+-   A customer service manager can create a major case.
 -   A customer service manager or major issue manager can promote a major case candidate.
 
 Major case candidates are created either by promoting an existing customer service case \(for customer reported issues\) or by creating a candidate case directly \(for non-customer reported issues\). Candidate cases require approval before being promoted to major cases.
@@ -39,7 +39,7 @@ Major Issue Management menu can be used in the ServiceNow AI Platform interface 
 
 Customer service agents, managers, and major issue managers can use the following process to identify potential issues, create major cases, and identify impacted customers.
 
-1.  [[create-major-case-candidate|Create a major case candidate]] or flag an existing customer service case as a major case candidate.
+1.  Create a major case candidate or flag an existing customer service case as a major case candidate.
 2.  Review the major case candidate and either approve it as a major case or reject it.
     -   If approved, the candidate case becomes a child case of the major case.
     -   If rejected, the candidate case returns to a normal case.
@@ -50,10 +50,3 @@ Customer service agents, managers, and major issue managers can use the followin
     -   Update the major case as needed, which automatically updates the child cases.
     -   Close the major case when the issue is resolved. Closing the major case automatically closes all the child cases.
 
-## Related
-
-- [[major-issue-management-application|Install the Major Issue Management application]]
-- [[customer-communication|Customer communication]]
-- [[c_TargetedCommunications|Targeted communications]]
-- [[create-major-case|Create a major case]]
-- [[create-major-case-candidate|Create a major case candidate]]

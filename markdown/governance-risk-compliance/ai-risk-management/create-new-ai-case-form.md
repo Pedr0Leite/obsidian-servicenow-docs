@@ -14,7 +14,7 @@ breadcrumb: [Create an AI case, Use, AI Risk and Compliance, Governance, Risk, a
 
 # Create New AI case form
 
-Use the Create New AI case form in the [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]] to report an AI case with the necessary details.
+Use the Create New AI case form in the AI Risk and Compliance workspace to report an AI case with the necessary details.
 
 See the following table for a description of the field values.
 
@@ -64,7 +64,7 @@ Sub-type
 
 </td><td>
 
-Subtype of the case. For example, Adversarial attacks \(Deliberate manipulation of [[ai-model-airc|AI models]] to produce incorrect results\).
+Subtype of the case. For example, Adversarial attacks \(Deliberate manipulation of AI models to produce incorrect results\).
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ Source
 
 </td><td>
 
-Source of the AI case creation. This field is automatically set to Manual when the case is manually created. If the case is reported from the [[employee-center|Employee Center]], the field displays the source as Employee Center.
+Source of the AI case creation. This field is automatically set to Manual when the case is manually created. If the case is reported from the Employee Center, the field displays the source as Employee Center.
 
 </td></tr><tr><td>
 
@@ -422,8 +422,3 @@ Additional information about the request that you want to share with your custom
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an AI case in the AI Risk and Compliance workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-ai-case-in-the-ai-risk-and-compliance-workspace.md)
 
-## Related
-
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[ai-model-airc|AI models]]
-- [[employee-center|employee center]]

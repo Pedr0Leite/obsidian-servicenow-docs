@@ -14,7 +14,7 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # Radware Alteon load balancer discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about Alteon load balancers.
+Discovery identifies and classifies information about Alteon load balancers.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -81,6 +81,3 @@ The following data is collected on the DNS \[cmdb\_ci\_dns\_name\] table.
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

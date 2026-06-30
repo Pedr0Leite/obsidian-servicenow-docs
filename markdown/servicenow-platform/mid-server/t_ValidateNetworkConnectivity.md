@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Test MID Server connectivity
 
-Confirm that the [[mid-server-landing|MID Server]] host is able to communicate with the instance. Resolve any issues with the network connectivity such as conflicts with firewalls, access control lists, and routing errors. Successful communication is necessary for automatic upgrades.
+Confirm that the MID Server host is able to communicate with the instance. Resolve any issues with the network connectivity such as conflicts with firewalls, access control lists, and routing errors. Successful communication is necessary for automatic upgrades.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ The computer that hosts the MID Server must be able to access one of these URLs 
 
 2.  If no ping response is returned, use TRACEROUTE to see where traffic might be stopped \(traceroute&lt;host&gt;\).
 
-3.  Use TELNET to [[c_Connect|connect]] to any of the TCP ports \(telnet&lt;host&gt; &lt;port&gt;\).
+3.  Use TELNET to connect to any of the TCP ports \(telnet&lt;host&gt; &lt;port&gt;\).
 
 4.  Use an SNMP scanning tool to determine if a potential network device is responsive.
 
@@ -65,7 +65,3 @@ The computer that hosts the MID Server must be able to access one of these URLs 
 
 This concludes the installation of a single MID Server. If necessary, continue to [deploy multiple MID Servers from a single host](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallMultplMIDSvrOnASingleSys.md) in your network. Otherwise, begin [configuring your MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md).
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

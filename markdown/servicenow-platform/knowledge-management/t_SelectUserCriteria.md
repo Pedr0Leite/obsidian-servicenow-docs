@@ -24,7 +24,7 @@ Role required: knowledge\_manager, knowledge\_admin, or admin
 
 ## About this task
 
-You can assign user criteria to control read or contribute access. For example, you could enable all users in your Support department to have contribute access to a knowledge base by creating a user criteria record with the required department set to Support, and then including the user criteria record in the Can Contribute user criteria. For more information, see [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md). Try to use only user criteria, which were introduced in [[knowledge-management|Knowledge Management]] v3, to control access to knowledge bases. Roles were used for this purpose in Knowledge Management v2.
+You can assign user criteria to control read or contribute access. For example, you could enable all users in your Support department to have contribute access to a knowledge base by creating a user criteria record with the required department set to Support, and then including the user criteria record in the Can Contribute user criteria. For more information, see [Managing access to knowledge bases and knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/user-access-knowledge.md). Try to use only user criteria, which were introduced in Knowledge Management v3, to control access to knowledge bases. Roles were used for this purpose in Knowledge Management v2.
 
 **Note:**
 
@@ -73,6 +73,3 @@ After you add user criteria, you can use the user criteria diagnostics feature t
 
 [Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

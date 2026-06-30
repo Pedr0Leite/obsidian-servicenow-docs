@@ -14,7 +14,7 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 
 # Using Discovery
 
-Run [[r-discovery|Discovery]] schedules and execute Discovery probes, sensors and patterns to find your IT resources and add them to the CMDB.
+Run Discovery schedules and execute Discovery probes, sensors and patterns to find your IT resources and add them to the CMDB.
 
 -   [Running discoveries in your network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/running-discoveries.md)
 -   [Discovery probes and sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryProbesAndSensors.md)
@@ -22,6 +22,3 @@ Run [[r-discovery|Discovery]] schedules and execute Discovery probes, sensors an
 -   [Discovery resource utilization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-resource-utilization.md)
 -   [Discovery monitoring and issue resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryTroubleshooting.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

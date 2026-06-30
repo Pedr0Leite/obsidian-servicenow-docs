@@ -18,7 +18,7 @@ The Get F5 Pool Member activity returns the pool members and verifies the pool's
 
 Use this activity to verify that a pool member was created properly.
 
-This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## REST settings
 
@@ -36,7 +36,7 @@ This activity was built using the [REST web service activity template](https://r
 
 |Variable|Description|
 |--------|-----------|
-|MembersArray|Array for the returned pool member [[ip-address|IP address]] and port, such as 192.168.2.19:80.|
+|MembersArray|Array for the returned pool member IP address and port, such as 192.168.2.19:80.|
 |status\_code|The HTTP status code.|
 |error|The REST error.|
 |result|Success or failure.|
@@ -51,7 +51,3 @@ This activity was built using the [REST web service activity template](https://r
 
 **Parent Topic:**[F5 Network Management activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchF5LoadBalancerActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

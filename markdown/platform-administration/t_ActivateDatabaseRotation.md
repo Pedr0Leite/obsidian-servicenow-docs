@@ -22,7 +22,7 @@ Role required: admin
 
 There are two database rotation plugins.
 
--   The Database Rotations \(com.snc.db.rotation\) plugin activates [[c_TableRotation|Table Rotation]] and [[table-extension|Table Extension]] without any tables automatically included.
+-   The Database Rotations \(com.snc.db.rotation\) plugin activates Table Rotation and Table Extension without any tables automatically included.
 -   The Database Rotations Default Tables \(com.snc.db.rotation\_default\_tables\) plugin applies Table Rotation and Extension to specific tables.
 
     **Note:** Deployment of this plugin should be executed in partnership with a ServiceNow representative.
@@ -42,14 +42,14 @@ For new instances, database rotation is active by default. If you are upgrading 
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
 Do not activate the Database Rotations Default Tables \(com.snc.db.rotation\_default\_tables\) plugin. Instead, specify the tables manually, after consulting a ServiceNow representative.
 
-**Parent Topic:**[[c_DatabaseRotation|Applying database rotation techniques]]
+**Parent Topic:**[Applying database rotation techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseRotation.md)
 
 **Related topics**  
 
@@ -58,9 +58,3 @@ Do not activate the Database Rotations Default Tables \(com.snc.db.rotation\_def
 
 [Table extension]()
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[c_DatabaseRotation|Applying database rotation techniques]]
-- [[c_TableRotation|Table rotation]]
-- [[table-extension|Table extension]]

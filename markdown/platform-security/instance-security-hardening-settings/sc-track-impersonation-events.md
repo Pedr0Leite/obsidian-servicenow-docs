@@ -18,7 +18,7 @@ Enable impersonation event tracking using a system property.
 
 Use the **glide.audit.track\_impersonation** system property to enable the tracking of impersonation events in the Audit \[sys\_audit\] table. When set to `true`, any actions performed via impersonation are recorded as a reference in the sys\_audit.user column, providing a clear and traceable audit. When set to `false`, actions performed via impersonation appear to have been performed by the user being impersonated.
 
-Ensure the **glide.audit.track\_impersonation** system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to a value of `true`.
+Ensure the **glide.audit.track\_impersonation** system property exists in the System Properties \[sys\_properties\] table and is set to a value of `true`.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,7 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

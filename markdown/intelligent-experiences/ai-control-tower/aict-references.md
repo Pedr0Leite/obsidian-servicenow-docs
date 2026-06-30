@@ -15,8 +15,5 @@ breadcrumb: [AI Control Tower, Enable AI experiences]
 
 # AI Control Tower reference
 
-Reference topics for [[ai-control-tower-landing|AI Control Tower]].
+Reference topics for AI Control Tower.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]

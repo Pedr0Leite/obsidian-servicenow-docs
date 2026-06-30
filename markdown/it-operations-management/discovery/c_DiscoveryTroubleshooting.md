@@ -15,7 +15,7 @@ breadcrumb: [Using Discovery, Discovery, ITOM Visibility, IT Operations Manageme
 
 # Discovery monitoring and issue resolution
 
-Learn how to monitor the progress of your discoveries and how to configure the system to aggregate performance metrics that are important to you. Find descriptions of the error messages you see, as well as possible steps you can take to solve problems. The Now Support Knowledge Base on Hi contains several articles to help you troubleshoot [[r-discovery|discovery]] issues.
+Learn how to monitor the progress of your discoveries and how to configure the system to aggregate performance metrics that are important to you. Find descriptions of the error messages you see, as well as possible steps you can take to solve problems. The Now Support Knowledge Base on Hi contains several articles to help you troubleshoot discovery issues.
 
 <table id="table_j4y_rf1_wgb"><tbody><tr><td>
 
@@ -28,7 +28,7 @@ Learn how to monitor the progress of your discoveries and how to configure the s
 </td></tr></tbody>
 </table>-   **[Discovery Admin Workspace Diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-diagnostics.md)**
 
-    Prioritize and address Discovery errors and anomalies from a centralized view in [[discovery-admin-workspace|Discovery Admin Workspace]]. Use the Error Framework to identify root causes and take [[ccg-remediation|remediation]] actions directly from error records. For more information, see [Error Framework in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/error-framework-daw.md).
+    Prioritize and address Discovery errors and anomalies from a centralized view in Discovery Admin Workspace. Use the Error Framework to identify root causes and take remediation actions directly from error records. For more information, see [Error Framework in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/error-framework-daw.md).
 
 -   **[Discovery Home Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-home-page.md)**
 
@@ -54,8 +54,4 @@ Learn how to monitor the progress of your discoveries and how to configure the s
 
     View performance metrics on probe/pattern and sensor processing times. You can use the roll-up data to monitor the performance of specific discoveries or to compare performance between versions after an upgrade.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[ccg-remediation|Remediation]]

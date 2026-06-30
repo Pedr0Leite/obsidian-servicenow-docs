@@ -33,9 +33,9 @@ Role required: admin
 
     **Note:** The following configurations are needed only if the push certificate has expired or if you didn't configure these in your original request. Push notification certificates typically expire every 13 months. Our system sends multiple email notifications alerting you when your push certificate will expire.
 
-    -   Set up [[sg-mobile-security-push-notif|push notifications]] by downloading the Apple push certificate \(`p12` file\) from your app's **Build History** and upload it to your app's push application record:
+    -   Set up push notifications by downloading the Apple push certificate \(`p12` file\) from your app's **Build History** and upload it to your app's push application record:
         1.  Access the Push Applications table on your instance by navigating to **All** &gt; **Push Application**.
-        2.  Configure your push applications. For instructions, see [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]].
+        2.  Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-push-setup-ios.md).
 
             **Note:** The push certificate password is sent in the email from Apple TestFlight that contains a link to test your branded app.
 
@@ -49,7 +49,7 @@ Role required: admin
     -   **Approve** the build to move forward with publishing the app to your end users.
 4.  Customize your app's workflows:
 
-    Use Mobile App Builder to customize your app. See [[mab-concept|Mobile App Builder]] for detailed information about how you can customize your branded app.
+    Use Mobile App Builder to customize your app. See [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md) for detailed information about how you can customize your branded app.
 
 5.  After you have tested your app, set it up, customized its workflows, and approved it, you are ready to publish your branded iOS app for private distribution.
 
@@ -64,15 +64,8 @@ Role required: admin
     -   If you are using the BlackBerry MAM, see [KB0821154](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0821154) for information about adding your iOS branded app to BlackBerry.
 6.  Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features.
 
-    For more information, see [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]].
+    For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
 
-**Parent Topic:**[[update-branded-app|Update a branded app]]
+**Parent Topic:**[Update a branded app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/update-branded-app.md)
 
-## Related
-
-- [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]]
-- [[update-branded-app|update branded app]]
-- [[sg-mobile-security-push-notif|Push notifications]]

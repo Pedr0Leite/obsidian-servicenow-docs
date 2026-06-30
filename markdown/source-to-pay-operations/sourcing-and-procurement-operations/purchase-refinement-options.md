@@ -20,14 +20,14 @@ You can refine your purchases through filtering, sorting, searching, and perform
 
 You can filter your orders by:
 
--   **Open**: All [[purchase-lines|purchase lines]] that are not in the state Closed Rejected, Closed Canceled, Closed Complete, or Closed No Decision, and the parent [[sourcing-request|sourcing request]], negotiation, [[purchase-requisition|purchase requisition]] not in any of the respective closed states. This option is default.
--   **[[supplier|Supplier]] Evaluation**: All active purchase lines associated to an active sourcing request.
+-   **Open**: All purchase lines that are not in the state Closed Rejected, Closed Canceled, Closed Complete, or Closed No Decision, and the parent sourcing request, negotiation, purchase requisition not in any of the respective closed states. This option is default.
+-   **Supplier Evaluation**: All active purchase lines associated to an active sourcing request.
 
     **Note:** Active purchase lines refer to those that are not in the state Closed No Decision, Closed Rejected, or Closed Canceled. Whereas active sourcing requests refer to those not in the state Closed No Decision or Closed Complete.
 
 -   **Processing Purchase**: All active purchase lines associated to a purchase requisition that are in the state Pending Review, Pending Approval, Awaiting Task Completion, or Final Review.
--   **Purchased**: All [[purchase-order-lines|purchase order lines]] that are not in the state Closed Complete, Closed Paid, or Closed Canceled.
--   **Pre-approved Purchases**: All lines associated with a purchase requisition or [[purchase-order-table|purchase order]] that has an order type of blanket, and is not in the state Closed Canceled or Closed Rejected. Where a purchase order line exists, the corresponding purchase line is not visible.
+-   **Purchased**: All purchase order lines that are not in the state Closed Complete, Closed Paid, or Closed Canceled.
+-   **Pre-approved Purchases**: All lines associated with a purchase requisition or purchase order that has an order type of blanket, and is not in the state Closed Canceled or Closed Rejected. Where a purchase order line exists, the corresponding purchase line is not visible.
 -   **Closed**:
     -   All purchase order lines that are in the state Closed Complete, Closed Paid, or Closed Canceled.
     -   All purchase lines that are in the state Closed Rejected, Closed Canceled, Closed Complete, or Closed No Decision.
@@ -96,11 +96,3 @@ This list of actions changes based on the state of the order.
 
 [Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[purchase-lines|Purchase lines]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]

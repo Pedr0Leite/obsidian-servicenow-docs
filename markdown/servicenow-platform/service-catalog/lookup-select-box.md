@@ -14,7 +14,7 @@ breadcrumb: [Types of service catalog variables, Service catalog variables, Serv
 
 # Lookup select box
 
-The lookup select box variable creates a choice list using data queried from a table. Its functionality is similar to the [[lookup-multiple-choice|lookup multiple choice]] variable, which creates radio buttons from queried data.
+The lookup select box variable creates a choice list using data queried from a table. Its functionality is similar to the lookup multiple choice variable, which creates radio buttons from queried data.
 
 For attributes supported by this variable, see [variable attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/variable-attributes.md).
 
@@ -22,8 +22,8 @@ To create the lookup select box, enter the following values when creating the va
 
 -   **Lookup from table**: `Incident [incident]`
 -   **Lookup value field**: `Sys ID`
--   **Lookup [[label|label]] field**: `number, category, priority`
--   **[[reference|Reference]] qual**: `caller_id=javascript:gs.getUserID()^active=true`
+-   **Lookup label field**: `number, category, priority`
+-   **Reference qual**: `caller_id=javascript:gs.getUserID()^active=true`
 
 **Note:**
 
@@ -87,8 +87,3 @@ To create the lookup select box, enter the following values when creating the va
 
 [Variable support in various channels]()
 
-## Related
-
-- [[lookup-multiple-choice|Lookup multiple choice]]
-- [[label|Label]]
-- [[reference|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Data Kit, Now Assist Data Kit, Enable AI experienc
 
 # Generate synthetic data
 
-Create synthetic data using the Standard data generator in [[now-assist-data-kit-landing|Now Assist Data Kit]]. Use synthetic data to imitate real-world records so you can run evaluations or create training for a test model without using production data.
+Create synthetic data using the Standard data generator in Now Assist Data Kit. Use synthetic data to imitate real-world records so you can run evaluations or create training for a test model without using production data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_data\_kit.admin
 
 1.  Navigate to **All** &gt; **Now Assist Data Kit** &gt; **Home**.
 
-2.  On the **Synthetic [[ai-datasets|datasets]]** tab, select **Generate dataset**.
+2.  On the **Synthetic datasets** tab, select **Generate dataset**.
 
     The **Select a generator type** dialog opens.
 
@@ -83,7 +83,3 @@ When generation completes, the dataset detail page shows three tabs:
 
 Select **Save as Template** to save the generator configuration for reuse, or **Add to data asset** to make the dataset available for use in data collections.
 
-## Related
-
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[ai-datasets|Datasets]]

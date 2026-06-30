@@ -15,11 +15,11 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Components installed with Now Assist in Document Intelligence
 
-Components are installed with the activation of [[docintel-nowassist-landing|Now Assist in Document Intelligence]].
+Components are installed with the activation of Now Assist in Document Intelligence.
 
 ## Roles installed
 
-There are no roles installed with Now Assist in Document Intelligence. It uses the same roles included with the [[document-intelligence-landing|Document Intelligence]] application.
+There are no roles installed with Now Assist in Document Intelligence. It uses the same roles included with the Document Intelligence application.
 
 For more information, see [Components installed with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/installed-with-document-intelligence.md).
 
@@ -34,7 +34,7 @@ For more information, see [Components installed with Document Intelligence](http
 **Related topics**  
 
 
-[Data extraction modes in [[platform-now-assist-landing|Now Assist]] in Document Intelligence]()
+[Data extraction modes in Now Assist in Document Intelligence]()
 
 [Document and visual insights AI agent]()
 
@@ -50,8 +50,3 @@ For more information, see [Components installed with Document Intelligence](http
 
 [Languages supported by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]

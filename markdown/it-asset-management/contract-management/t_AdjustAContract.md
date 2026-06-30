@@ -18,7 +18,7 @@ After creating a contract, you can change the start date, end date, or payment a
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## About this task
 
@@ -26,10 +26,10 @@ To adjust a contract, the **State** should be **Active**. If the end date of a c
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract in the **Active** state.
 
@@ -49,7 +49,7 @@ To adjust a contract, the **State** should be **Active**. If the end date of a c
 -   **[Renew a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_RenewAContract.md)**  
 After you have created a contract or the contract has expired, you can renew the contract.
 -   **[Cancel a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_CancelAContract.md)**  
-You can [[t_CancelAContract|cancel a contract]] when the **State** is **Active**.
+You can cancel a contract when the **State** is **Active**.
 
 **Parent Topic:**[Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_Contracts.md)
 
@@ -68,10 +68,3 @@ You can [[t_CancelAContract|cancel a contract]] when the **State** is **Active**
 
 [Monitor a contract]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[contract-mgmt-view-am|Contract management view]]
-- [[t_CancelAContract|Cancel a contract]]

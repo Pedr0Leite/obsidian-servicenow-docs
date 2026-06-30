@@ -21,7 +21,7 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Initiate an interaction in the workspace.
 
@@ -58,12 +58,12 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 The interaction is closed.
 
-**Parent Topic:**[[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
+**Parent Topic:**[Using Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-agentic-contact-center-for-banking.md)
 
 **Related topics**  
 
 
-[[interaction-workspace-for-agentic-contact-center-for-banking|Interaction page for Agentic Contact Center for Banking]]
+[Interaction page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interaction-workspace-for-agentic-contact-center-for-banking.md)
 
 [Summarize banking customer interaction context in the Interaction page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-customer-context-fso.md)
 
@@ -73,8 +73,3 @@ The interaction is closed.
 
 [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md)
 
-## Related
-
-- [[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
-- [[interaction-workspace-for-agentic-contact-center-for-banking|Interaction page for Agentic Contact Center for Banking]]
-- [[fso-overview|Financial Services]]

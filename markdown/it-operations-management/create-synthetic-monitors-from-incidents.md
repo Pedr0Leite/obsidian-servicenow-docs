@@ -18,7 +18,7 @@ Create synthetic monitors from incidents to proactively track endpoint failures 
 
 Role required: sn\_sow\_synthetics.synthetics\_editor or sn\_sow\_synthetics.synthetics\_admin
 
--   Recommended Action for ITSM and [[synthetic-monitoring-landing-page|Synthetic monitoring]] application is installed on your ServiceNow® instance
+-   Recommended Action for ITSM and Synthetic monitoring application is installed on your ServiceNow® instance
 -   The incident should have a valid configuration item \(CI\) and a service associated with it
 -   At least one execution location \(\[Omitted image "recommendations-icon.png"\] Alt text: mid server location self hosted MID Server\) is available and configured
 
@@ -32,7 +32,7 @@ While creating these synthetic monitors from a post-incident recommended action,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**, and to the incidents page.
+1.  Navigate to **All** &gt; **Service Operations Workspace**, and to the incidents page.
 
 2.  Select the incident that has a valid configuration item \(CI\) and a service associated with the incident.
 
@@ -60,14 +60,8 @@ While creating these synthetic monitors from a post-incident recommended action,
 
     **Note:** If you select the same endpoints and click **Create monitor** again, the application prevents duplicate monitors from being created.
 
-7.  Select the link on the success message to view the monitors created in [[ref-synthetic-monitoring-landing-page|Synthetic monitoring landing page]].
+7.  Select the link on the success message to view the monitors created in Synthetic monitoring landing page.
 
 
-**Parent Topic:**[[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
-## Related
-
-- [[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[ref-synthetic-monitoring-landing-page|Synthetic monitoring Landing Page]]

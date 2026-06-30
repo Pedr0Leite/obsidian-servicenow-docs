@@ -32,7 +32,7 @@ This table shows field types and corresponding MySQL database types. Typically, 
 |Choice| |string|VARCHAR\(40\)|
 |Suggestion| |string|VARCHAR\(40\)|
 |Journal| |journal|MEDIUMTEXT|
-|Reference|&lt;[[reference-email-admin|reference]] table&gt;|reference|VARCHAR\(32\)|
+|Reference|&lt;reference table&gt;|reference|VARCHAR\(32\)|
 |List| |glide\_list|MEDIUMTEXT|
 |Url| |url|MEDIUMTEXT|
 |Image| |user\_image|VARCHAR\(40\)|
@@ -44,6 +44,3 @@ This table shows field types and corresponding MySQL database types. Typically, 
 -   A string field defined in the platform with a max length of x, where x = 41-255 characters, inclusive → VARCHAR\(x\) \[examples: String 42 is VARCHAR\(42\) and String 211 is VARCHAR\(211\)\].
 -   A string field defined in the platform with a max length of 256 and upwards → MEDIUMTEXT.
 
-## Related
-
-- [[reference-email-admin|Reference]]

@@ -12,14 +12,14 @@ breadcrumb: [Email and SMS notifications, System notifications, Notifications, C
 
 # Domain separation and Notifications
 
-Domain separation is supported in the [[notifications|Notifications]] application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the Notifications application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
 -   Includes all aspects of **Basic** level support.
 -   Application properties are domain-aware as needed.
 -   Business logic: The service provider \(SP\) creates or modifies processes per customer. The use cases reflect proper use of the application by multiple SP customers in a single instance.
--   The instance owner must configure the minimum viable product \(MVP\) business logic and data [[r_DirectJDBCProbeParameters|parameters]] per tenant as expected for the specific application.
+-   The instance owner must configure the minimum viable product \(MVP\) business logic and data parameters per tenant as expected for the specific application.
 
 Sample use case: An admin must be able to make comments required when a record closes for one tenant, but not for another.
 
@@ -27,9 +27,9 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview
 
-Domain separation is specifically supported in Notifications but not in [[c_EmailAccounts|email accounts]]. Notifications are not data-separated but they are process-separated. Notifications are also triggered by specific actions.
+Domain separation is specifically supported in Notifications but not in email accounts. Notifications are not data-separated but they are process-separated. Notifications are also triggered by specific actions.
 
-**Note:** [[c_SubscriptionBasedNotifications|Subscription-based notifications]] are not domain aware and cannot support domain-specific settings.
+**Note:** Subscription-based notifications are not domain aware and cannot support domain-specific settings.
 
 ## How domain separation works in Notifications
 
@@ -50,9 +50,9 @@ There are two basic components of domain separation and Notifications.
 Domain separation is not supported in email accounts for these reasons:
 
 1.  Sending mail: There is only one SMTP sender per account. This prohibits providing domains for each account, and they are not configurable.
-2.  For receiving Inbound mail: You can set up multiple email accounts but cannot meaningfully set the domain of an [[ia-inbound-email-il|inbound email]] action. Inbound Actions are processed in the domain of the user who sent the email. For example: User\_A in Domain A sends an email to a ServiceNow email account which executes the “Create an incident” inbound email action. The resulting new incident created by the inbound action is in Domain A.
+2.  For receiving Inbound mail: You can set up multiple email accounts but cannot meaningfully set the domain of an inbound email action. Inbound Actions are processed in the domain of the user who sent the email. For example: User\_A in Domain A sends an email to a ServiceNow email account which executes the “Create an incident” inbound email action. The resulting new incident created by the inbound action is in Domain A.
 
-To learn more see [[c_InboundEmailActions|Inbound email actions]].
+To learn more see [Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md).
 
 **Note:** If the number of email accounts exceeds 20, reception of email slows down.
 
@@ -62,7 +62,7 @@ If an instance is using the [Domain separation plugin](https://raw.githubusercon
 
 Solution: Set the \[sys\_overrides\] field on the notification that belongs to the domain so it overrides the setting on global. For more information, see [Delegated administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DelegatedAdministration.md).
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -91,12 +91,3 @@ Solution: Set the \[sys\_overrides\] field on the notification that belongs to
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_InboundEmailActions|Inbound email actions]]
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[notifications|Notifications]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[c_EmailAccounts|Email accounts]]
-- [[c_SubscriptionBasedNotifications|Subscription-based notifications]]
-- [[ia-inbound-email-il|Inbound email]]

@@ -14,12 +14,12 @@ breadcrumb: [Administration tasks in Learning Core, Configuring Learning Core, L
 
 # Create a source for a learning system
 
-Create a source record for the third-party [[exploring-learning-exp|learning]] system that you want to integrate with your ServiceNow instance.
+Create a source record for the third-party learning system that you want to integrate with your ServiceNow instance.
 
 ## Before you begin
 
 -   Role required: learning\_admin
--   [[learning-core_overview|Learning Core]] integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal , and Saba learning systems by default. Activate only the learning system that you to plan use. For more information, see [Integrating Learning Core with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/setup-learning-third-party-1.md).
+-   Learning Core integrates with Cornerstone OnDemand, Pluralsight, Udemy, Sumtotal , and Saba learning systems by default. Activate only the learning system that you to plan use. For more information, see [Integrating Learning Core with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/setup-learning-third-party-1.md).
 
 ## Procedure
 
@@ -121,7 +121,3 @@ Configuration set to push a record when the previous push fails.**Note:** This f
 
 **Parent Topic:**[Administration tasks in Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-administration.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]

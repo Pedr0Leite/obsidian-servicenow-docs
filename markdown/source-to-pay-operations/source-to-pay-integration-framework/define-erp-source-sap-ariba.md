@@ -14,7 +14,7 @@ breadcrumb: [Configure, Source-to-Pay integration with SAP Ariba, Integration wi
 
 # Define ERP source configuration for SAP Ariba
 
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the SAP Ariba tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the SAP Ariba tables.
 
 ## Before you begin
 
@@ -73,7 +73,3 @@ Role required: sn\_fcms\_intg.admin
 
 [Look up primary data in SAP Ariba]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

@@ -37,7 +37,7 @@ Enabling personal authentication introduces a hybrid model where the create, con
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **GRC Properties**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **GRC Properties**.
 
 2.  Set the file sharing service property.
 
@@ -96,6 +96,3 @@ After enabling personal authentication, verify that:
 -   Verify that the system credential user \(service account\) has sharing access to the documents in SharePoint or Google Drive. Document access permission grants and content sync operations always run under the system account credentials, even when personal authentication is enabled. If the system credential user does not have access, document access and update operations will fail.
 -   Users who will perform policy authoring operations have active Microsoft O365 or Google accounts associated with their ServiceNow login.
 
-## Related
-
-- [[Administration|Administration]]

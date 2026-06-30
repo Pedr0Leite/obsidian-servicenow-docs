@@ -17,9 +17,9 @@ breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Age
 
 Agent Client Collector File-Based Discovery \(FBD\) scans file systems on managed endpoints to discover installed software and track file inventories.
 
-FBD runs as a lightweight background process within the existing [[acc-landing-page|Agent Client Collector]] agent. It is configured and controlled entirely from the ServiceNow instance. Administrators define which directories to scan, which files to look for, and how often to scan. The agent discovers matching files, collects metadata such as name, path, size, and version, and sends the results back to the instance where they are stored in the appropriate CMDB and application tables.
+FBD runs as a lightweight background process within the existing Agent Client Collector agent. It is configured and controlled entirely from the ServiceNow instance. Administrators define which directories to scan, which files to look for, and how often to scan. The agent discovers matching files, collects metadata such as name, path, size, and version, and sends the results back to the instance where they are stored in the appropriate CMDB and application tables.
 
-To activate FBD, navigate to the [[c_DiscoveryConfigurationConsole|Discovery Configuration Console]] \(**All** &gt; **[[r-discovery|Discovery]] Definition** &gt; **Configuration Console**\) and in the **File Based Discovery** section, activate the **Enable File Based Discovery** toggle switch.
+To activate FBD, navigate to the Discovery Configuration Console \(**All** &gt; **Discovery Definition** &gt; **Configuration Console**\) and in the **File Based Discovery** section, activate the **Enable File Based Discovery** toggle switch.
 
 \[Omitted image "DiscoConfigConsole.png"\] Alt text: Discovery Configuration Console
 
@@ -35,7 +35,7 @@ FBD supports the following operating systems:
 
 ## Required plugins
 
-The following plugins are required for [[file-based-discovery|File-Based Discovery]] on Agent Client Collector:
+The following plugins are required for File-Based Discovery on Agent Client Collector:
 
 -   **File-based Discovery** \(com.snc.discovery.file\_based\_discovery\)
 -   **Software Asset Management - File Signature Normalization** \(com.snc.file\_signature\_normalization\) — Activated automatically once the File-based Discovery plugin is active
@@ -70,14 +70,7 @@ For each file found inside an archive, the agent applies the same filtering rule
 For filtering rules and performance safeguards, see [Archive file scanning filtering rules and limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/archive-file-scanning-reference.md).
 
 -   **[Running process-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/running-process-based-discovery.md)**  
-[[running-process-based-discovery|Running process-based discovery]] extends File-Based Discovery \(FBD\) with process-based path detection, enabling the Agent Client Collector for Visibility - Content agent to detect software running outside of standard configured scan directories.
+Running process-based discovery extends File-Based Discovery \(FBD\) with process-based path detection, enabling the Agent Client Collector for Visibility - Content agent to detect software running outside of standard configured scan directories.
 
 **Parent Topic:**[Deploying Agent Client Collector on endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-endpoint-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[c_DiscoveryConfigurationConsole|Discovery Configuration Console]]
-- [[r-discovery|Discovery]]
-- [[file-based-discovery|File-based Discovery]]
-- [[running-process-based-discovery|Running process-based discovery]]

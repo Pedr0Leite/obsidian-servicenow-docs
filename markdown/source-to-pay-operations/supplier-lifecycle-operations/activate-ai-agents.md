@@ -15,7 +15,7 @@ breadcrumb: [AI driven supplier onboarding, Use, Now Assist for SLO, Supplier Li
 
 # Activate AI agents
 
-Activate AI agents individually that you want to make available for the AI driven [[supplier|supplier]] onboarding.
+Activate AI agents individually that you want to make available for the AI driven supplier onboarding.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
     -   Supplier data steward AI agent
     -   Supplier data validator AI agent
     -   Supplier approval AI agent
-    -   [[supplier-document-strategy-generator-ai-agent|Supplier document strategy generator AI agent]]
+    -   Supplier document strategy generator AI agent
     For example, let's assume that you select the **Supplier data steward AI agent**.
 
 3.  In the Describe and instruct page, select **Continue**.
@@ -65,7 +65,3 @@ After agents are activated, agentic workflow must also be activated separately.
 
 [Supplier document strategy generator AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-document-strategy-generator-ai-agent.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-document-strategy-generator-ai-agent|Supplier document strategy generator AI agent]]

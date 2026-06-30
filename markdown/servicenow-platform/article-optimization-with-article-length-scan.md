@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Use Article Length Scan results under Article Optimization for articles to optimize your [[knowledge-center|knowledge center]] articles.
+Use Article Length Scan results under Article Optimization for articles to optimize your knowledge center articles.
 
 The configuration and script for running the scan follow default settings.
 
@@ -59,6 +59,4 @@ The scan evaluates articles against two length‑based criteria:
 
     Once the article length is brought within the acceptable range and saved, the card is automatically removed.
 
-## Related
 
-- [[knowledge-center|Knowledge Center]]

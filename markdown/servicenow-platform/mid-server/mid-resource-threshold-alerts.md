@@ -14,7 +14,7 @@ breadcrumb: [Resolving MID Server issues, MID Server reference, MID Server, Mana
 
 # MID Server resource threshold alerts
 
-The instance displays warnings when a [[mid-server-landing|MID Server]] breaches its resource thresholds for CPU and JVM memory usage, enabling users to create [[email|email]] notifications or custom scripts when a breach occurs.
+The instance displays warnings when a MID Server breaches its resource thresholds for CPU and JVM memory usage, enabling users to create email notifications or custom scripts when a breach occurs.
 
 The MID Server Issue \[ecc\_agent\_issue\] table warns users when a MID Server exceeds configured thresholds of its allocated CPU and memory resources. These warnings are published before the MID Server experiences performance degradation or an out-of-memory error, enabling the administrator to increase resources and avoid downtime. Administrators can use a registered event to send email notification to selected recipients, advising them of any threshold breaches, or to create a custom script to do some other type of work. The instance continues to update the MID Server Issue \[ecc\_agent\_issue\] table to keep unresolved issues current.
 
@@ -59,7 +59,7 @@ Administrators have the opportunity to resolve any resource issues with a MID Se
 -   **JVM memory**:
     -   Allocate more max memory to the MID Server. For more information, see [Set the MID Server JVM memory size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_MIDServerOptionalConfiguration.md).
     -   Add additional MID Servers to share the workload. For more information, see [MID Server clusters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ConfigureAMIDServerCluster.md).
-    -   Reduce the amount of concurrent processing for the MID Server. This includes segmenting [[ip-address|IP Address]] ranges into smaller segments for a Discovery schedule or loading smaller segments of data within an import job.
+    -   Reduce the amount of concurrent processing for the MID Server. This includes segmenting IP Address ranges into smaller segments for a Discovery schedule or loading smaller segments of data within an import job.
 -   **CPU**: Reduce the activity on the host or migrate the MID Server to a new host with more available resources.
 
     **Note:** MID Server can create a resource usage spike during Discovery, especially discovering against a large number of targets or executing multiple Power Shell sessions concurrently. The MID Server host’s resource utilization automatically returns to normal after the Discovery execution successfully stops. To decrease CPU utilization, host the MID Server on a dedicated machine. If you encounter resource usage issues, make sure only one MID Server is run on each dedicated host machine. If the MID Server is hosted on a public cloud, add more CPU resources and avoid the noisy neighbor issue. For more information, see [High CPU Usage on Host with MID Server\(s\) \[KB0597639\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597639).
@@ -181,8 +181,3 @@ The [MID Server dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceN
 
 **Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[email|Email]]
-- [[ip-address|IP Address]]

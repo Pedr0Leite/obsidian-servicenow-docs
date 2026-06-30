@@ -20,7 +20,7 @@ Role required: dynamic\_schema\_writer
 
 ## About this task
 
-For some dynamic attributes, you might want to limit the possible values that are accepted. You can define a choice set that holds a fixed set of choices, and then [[add-dynamic-attributes|create a dynamic attribute]] whose values are limited to the choices defined in the choice set.
+For some dynamic attributes, you might want to limit the possible values that are accepted. You can define a choice set that holds a fixed set of choices, and then create a dynamic attribute whose values are limited to the choices defined in the choice set.
 
 Dynamic choice sets aren't associated with a specific namespace. After you define a dynamic choice set, you can use it in any dynamic namespace.
 
@@ -28,7 +28,7 @@ For example, you can define a choice set for colors, with red, blue, and green a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Choice Sets**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Choice Sets**.
 
 2.  Select **New**.
 
@@ -50,10 +50,5 @@ For example, you can define a choice set for colors, with red, blue, and green a
 
 ## What to do next
 
-[[add-choices-choice-set|Add choices to a dynamic choice set]]
+[Add choices to a dynamic choice set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-choices-choice-set.md)
 
-## Related
-
-- [[add-choices-choice-set|Add choices to a dynamic choice set]]
-- [[add-dynamic-attributes|Create a dynamic attribute]]
-- [[dynamic-schema|Dynamic Schema]]

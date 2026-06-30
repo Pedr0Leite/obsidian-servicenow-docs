@@ -12,7 +12,7 @@ breadcrumb: [Implement Intelligence, Configure, Customer Service Management]
 
 # Machine learning solutions for Customer Service Management
 
-Machine learning in [[c_CustomerServiceManagement|Customer Service Management]] helps with case creation, assignment, and resolution.
+Machine learning in Customer Service Management helps with case creation, assignment, and resolution.
 
 <table id="table_s3b_qjf_p1c"><thead><tr><th>
 
@@ -24,18 +24,18 @@ Machine learning in [[c_CustomerServiceManagement|Customer Service Management]] 
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-task-intelligence|Task Intelligence for Customer Service]]
+[Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
 </td><td>
 
-Use the following AI capabilities to automate several routine tasks across the case life cycle and enable agents to focus on complex case resolution.-   [[case-categorization-overview|Record categorization]]
--   [[case-sentiment-analysis|Sentiment analysis]]
--   [[case-language-detection|Language detection]]
--   Document [[intelligence-csm|intelligence]]
+Use the following AI capabilities to automate several routine tasks across the case life cycle and enable agents to focus on complex case resolution.-   Record categorization
+-   Sentiment analysis
+-   Language detection
+-   Document intelligence
 
 </td></tr><tr><td>
 
-[[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
+[Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Use predictive intelligence solution definitions to assist agents with a variety
 
 </td></tr><tr><td>
 
-[[trending-case-topics|Trending case topics]]
+[Trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/trending-case-topics.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Identify clusters of cases with similar issues and pinpoint factors that drive u
 
 </td></tr><tr><td>
 
-[[customer-service-similar-cases|Similar case recommendations]]
+[Similar case recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-similar-cases.md)
 
 </td><td>
 
@@ -59,7 +59,7 @@ Enable customer service agents to easily find similar cases that can provide hel
 
 </td></tr><tr><td>
 
-[[ettr|Estimated time to resolve a case]]
+[Estimated time to resolve a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Predict the estimated time to resolve a case based on attributes such as the cas
 
 </td></tr><tr><td>
 
-[[agent-intelligence-case-mgmt|Predictive Intelligence for case management]]
+[Predictive Intelligence for case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-intelligence-case-mgmt.md)
 
 </td><td>
 
@@ -75,7 +75,7 @@ Predict values for a case, such as the category, priority, and assignment group,
 
 </td></tr><tr><td>
 
-[[config-auto-responder|Auto-responder notifications]]
+[Auto-responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder.md)
 
 </td><td>
 
@@ -83,18 +83,3 @@ Use auto-responder notifications to share relevant content in email notification
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
-- [[trending-case-topics|Trending case topics]]
-- [[customer-service-similar-cases|Similar case recommendations]]
-- [[ettr|Estimated time to resolve a case]]
-- [[agent-intelligence-case-mgmt|Predictive Intelligence for case management]]
-- [[config-auto-responder|Configure Auto-Responder notifications]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-categorization-overview|Record categorization]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[case-language-detection|Language detection]]
-- [[intelligence-csm|Intelligence]]

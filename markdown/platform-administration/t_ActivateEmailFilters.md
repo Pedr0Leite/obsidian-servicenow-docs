@@ -12,7 +12,7 @@ breadcrumb: [Activate email administration, Configure, Email Administration, Not
 
 # Activate email filters
 
-Administrators can activate the [[c_EmailFilters|Email Filters]] plugin \(com.glide.email\_filter\).
+Administrators can activate the Email Filters plugin \(com.glide.email\_filter\).
 
 ## Before you begin
 
@@ -30,18 +30,12 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
-[[t_CreateAnEmailFilter|Create an email filter]]
+[Create an email filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAnEmailFilter.md)
 
-**Parent Topic:**[[activate-email-admin|Activate email administration]]
+**Parent Topic:**[Activate email administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-email-admin.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[t_CreateAnEmailFilter|Create an email filter]]
-- [[activate-email-admin|Activate email administration]]
-- [[c_EmailFilters|Email filters]]

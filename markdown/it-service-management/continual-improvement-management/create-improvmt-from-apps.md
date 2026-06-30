@@ -14,7 +14,7 @@ breadcrumb: [Create an improvement request, Continual Improvement Management, IT
 
 # Create improvement initiatives from integrated applications
 
-Create improvement initiatives from [[cim-integration|applications integrated with Continual Improvement Management]] to enable planning, implementation, monitoring, and impact assessment of improvements in a centralized framework.
+Create improvement initiatives from applications integrated with Continual Improvement Management to enable planning, implementation, monitoring, and impact assessment of improvements in a centralized framework.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_cim.improvement\_requester
 
 1.  Navigate to the application's records list.
 
-    For example, navigate to **All** &gt; **[[benchmarks-landing|Benchmarks]]** &gt; **Recommendation Setup** &gt; **All** to open the Benchmarks records list.
+    For example, navigate to **All** &gt; **Benchmarks** &gt; **Recommendation Setup** &gt; **All** to open the Benchmarks records list.
 
 2.  Find and open the record from which you want to create an improvement.
 
-    **Note:** Records of [[dex-workspace-application-tab|applications]] integrated with CIM display the **Create Improvement Initiative** link in the Related Links section.
+    **Note:** Records of applications integrated with CIM display the **Create Improvement Initiative** link in the Related Links section.
 
 3.  Select **Create Improvement Initiative** in the Related Links section.
 
@@ -45,8 +45,3 @@ The improvement initiative is created and UI changes display on the source appli
 
 **Parent Topic:**[Create an improvement request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-cim-request.md)
 
-## Related
-
-- [[cim-integration|Applications integrated with Continual Improvement Management]]
-- [[benchmarks-landing|Benchmarks]]
-- [[dex-workspace-application-tab|Applications]]

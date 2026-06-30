@@ -46,7 +46,7 @@ Pattern name
 
 </td><td>
 
-Name of the discovery pattern contributing [[ham-landing-page|Hardware Asset Management]] \(HAM\) data.
+Name of the discovery pattern contributing Hardware Asset Management \(HAM\) data.
 
 </td><td>
 
@@ -280,6 +280,3 @@ Once all data integration checks are complete:
 -   Attribute coverage across integrations supports your HAM business outcome.
 -   CMDB records for hardware assets are accurate and complete.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]

@@ -13,7 +13,7 @@ breadcrumb: [ServiceNow Store, Administering applications, Get started, Administ
 
 # Reviewing apps
 
-Reviewing apps, products, and integrations on the [[servicenow-store|ServiceNow Store]] lets providers know what's working well and what future updates customers want to see.
+Reviewing apps, products, and integrations on the ServiceNow Store lets providers know what's working well and what future updates customers want to see.
 
 ## Overview of reviewing apps
 
@@ -23,16 +23,10 @@ You can view published reviews by selecting **Ratings and Reviews** from the app
 
 Reviews left on an application only show up in the environment where the review was made. For example, reviews made from the commercial ServiceNow Store are only visible on the commercial ServiceNow Store. Reviews made from a regulated regional or federal instance of the ServiceNow Store are only visible to users in the same instance of the ServiceNow Store.
 
--   **[[review-an-app|Review an app]]**  
+-   **[Review an app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/review-an-app.md)**  
 Use your Now Support credentials to log in to the ServiceNow Store and leave a review on any app or integration you have used.
--   **[[submit-a-guest-review|Submit a guest review]]**  
+-   **[Submit a guest review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/submit-a-guest-review.md)**  
 Submit a guest review to leave feedback on an app or integration if you aren't logged in.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[review-an-app|Review an app]]
-- [[submit-a-guest-review|Submit a guest review]]
-- [[administering-applications|Administering applications]]
-- [[servicenow-store|ServiceNow Store]]

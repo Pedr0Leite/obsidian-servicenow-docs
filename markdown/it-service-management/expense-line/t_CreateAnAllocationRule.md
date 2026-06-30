@@ -41,7 +41,7 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
     |Allocation field|The field on the table to populate with the expense allocation.|
     |Inherited|Check box that indicates whether the expense allocation is inherited.|
     |Active|Check box that indicates whether the expense allocation is available to use.|
-    |Percentage|The percentage of the [[c_ExpenseLine|expense line]] allocated to the table and field combination. Not available if the **Advanced** check box is selected.|
+    |Percentage|The percentage of the expense line allocated to the table and field combination. Not available if the **Advanced** check box is selected.|
     |Summary type|The expense allocation category: **Grow Business**, **Run Business**, or **Transform Business**. Categorizing expense allocations can be useful for reporting.|
     |Condition|The condition under which the expense allocation is applied. Not available if the **Advanced** check box is selected.|
     |Advanced|Check box that indicates whether to display the **Script** field.|
@@ -67,6 +67,3 @@ Role required: admin, financial\_mgmt\_admin, or financial\_mgmt\_user
 
 [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

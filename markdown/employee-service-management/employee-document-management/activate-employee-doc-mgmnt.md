@@ -14,7 +14,7 @@ breadcrumb: [Configure, Employee Document Management, HR Documents, HR Service D
 
 # Activate Employee Document Management
 
-You can activate the [[hr-employee-doc-management|Employee Document Management]] \[com.sn\_employee\_document\_management\] plugin with the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Employee Document Management \[com.sn\_employee\_document\_management\] plugin with the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -142,6 +142,3 @@ Select the date and time to activate the plugin.
 
 [List of plugins \(Madrid\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]

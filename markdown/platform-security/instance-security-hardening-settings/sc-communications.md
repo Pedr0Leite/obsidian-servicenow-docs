@@ -14,14 +14,14 @@ breadcrumb: [Hardening settings, Platform Security]
 
 # Communications
 
-This control ensures proper [[encryption-landing|encryption]] using strong algorithms and ciphers. This includes ensuring the recommended version of TLS is used for client connectivity, use of strong cipher suites, use of trusted and signed [[c_Certificates|certificates]], ensuring connections are encrypted between components and logging of connection failures.
+This control ensures proper encryption using strong algorithms and ciphers. This includes ensuring the recommended version of TLS is used for client connectivity, use of strong cipher suites, use of trusted and signed certificates, ensuring connections are encrypted between components and logging of connection failures.
 
--   **[Enforce certificate trust \[Updated in [[sec-center-v2|Security Center]] 1.3, removed in 2.0, added in 7.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-certificate-trust.md)**  
-Use [[ca-system-properties|system properties]] to ensure that certificate expiration and trust are checked for certificates received from outbound HTTPS call endpoints when host verification is not performed.
+-   **[Enforce certificate trust \[Updated in Security Center 1.3, removed in 2.0, added in 7.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-certificate-trust.md)**  
+Use system properties to ensure that certificate expiration and trust are checked for certificates received from outbound HTTPS call endpoints when host verification is not performed.
 -   **[Disable outbound SSLv2/SSLv3 connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disabling-sslv2-sslv3.md)**  
 Use the **glide.outbound.sslv3.disabled** property to force the MID Server to use TLS when making outbound connections, such as REST and SOAP requests. Normally, outbound connections from an instance are forced to use TLS instead of SSL.
 -   **[Do not use demo certificates for active SAML configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-do-not-use-demo-certificates-active-saml-configurations-plugin.md)**  
-Control whether demo certificates are used in production [[c_SAML2.0WebBrowserSSOProfile|SAML]] configurations.
+Control whether demo certificates are used in production SAML configurations.
 -   **[Disable deprecated TLS versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-deprecated-tls-versions.md)**  
 Avoid loss or leakage of sensitive data by disabling deprecated TLS versions.
 -   **[Enforce OCSP check on network error](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-ocsp-check-on-network-error.md)**  
@@ -33,10 +33,3 @@ The **com.glide.communications.httpclient.verify\_revoked\_certificate** propert
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_Certificates|Certificates]]
-- [[sec-center-v2|Security Center]]
-- [[ca-system-properties|System properties]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

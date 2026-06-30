@@ -34,29 +34,21 @@ You select fallout records to review in CSM Configurable Workspace. You can also
 
 4.  Select the fallout record you want to view.
 
-    For information about field descriptions, see the Fallout workspace [[fields|fields]] section in [[fields-create-fallout-form|Fallout form fields]].
+    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields-create-fallout-form.md).
 
 5.  To view the associated order line item, select **Open Context Record**.
 
 
 ## What to do next
 
-[[review-update-selected-order-fallout-records|Update a fallout record]]
+[Update a fallout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/review-update-selected-order-fallout-records.md)
 
-**Parent Topic:**[[fallout-management-overview|Managing order fallout]]
+**Parent Topic:**[Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[fields-create-fallout-form|Fallout form fields]]
-- [[review-update-selected-order-fallout-records|Update a fallout record]]
-- [[fallout-management-overview|Managing order fallout]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

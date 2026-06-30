@@ -12,7 +12,7 @@ breadcrumb: [Health and Status Dashboard, Code Signing, Platform Security]
 
 # Overview Dashboard
 
-The Overview dashboard provides a centralized view of your [[code-signing-landing|Code Signing]] environment, offering real-time insights into key components and their status.
+The Overview dashboard provides a centralized view of your Code Signing environment, offering real-time insights into key components and their status.
 
 The Overview dashboard displays the following reports:
 
@@ -38,7 +38,7 @@ Text field
 
 </td><td>
 
-Status of essential plug-ins and [[ca-system-properties|system properties]] required for Code Signing functionality. **Enterprise plugin** displays the core plugin needed for signing operations.
+Status of essential plug-ins and system properties required for Code Signing functionality. **Enterprise plugin** displays the core plugin needed for signing operations.
 
 </td></tr><tr><td>
 
@@ -50,7 +50,7 @@ Text field
 
 </td><td>
 
-[[sc-configuration|Configuration]] flag that enables Code Signing capabilities.
+Configuration flag that enables Code Signing capabilities.
 
 **Note:** This setting must be **Active** to confirm that code signing functions according to the specific requirement.
 
@@ -137,11 +137,5 @@ Distribution of signed records across different application modules, showing the
 -   **Others**: Percentage of signed records in all other application modules.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[code-signing-health-and-status-dashboard|Code Signing Health and Status Dashboard]]
+</table>**Parent Topic:**[Code Signing Health and Status Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-health-and-status-dashboard.md)
 
-## Related
-
-- [[code-signing-health-and-status-dashboard|Code Signing Health and Status Dashboard]]
-- [[code-signing-landing|Code Signing]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

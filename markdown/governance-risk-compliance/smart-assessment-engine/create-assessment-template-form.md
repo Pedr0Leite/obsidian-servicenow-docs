@@ -14,7 +14,7 @@ breadcrumb: [Create an assessment template, Use template designer, Manage, Smart
 
 # Create assessment template form
 
-Learn about the fields of the **Create Assessment Template** form. Use this form to [[sae-asmnt-template-create|create an assessment template]].
+Learn about the fields of the **Create Assessment Template** form. Use this form to create an assessment template.
 
 <table id="table_krg_p53_2yb"><thead><tr><th>
 
@@ -70,7 +70,3 @@ Table records that are selected to be assessed — the assessment's scope items.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sae-asmnt-template-create|Create an assessment template]]

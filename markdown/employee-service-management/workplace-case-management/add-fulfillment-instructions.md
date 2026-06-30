@@ -26,7 +26,7 @@ Add instructions for fulfilling a workplace case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Fulfillment instructions**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Fulfillment instructions**.
 
 2.  Select **New**.
 
@@ -143,6 +143,3 @@ The fulfillment instruction is added. The instruction is displayed in the workpl
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

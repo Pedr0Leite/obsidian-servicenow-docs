@@ -44,11 +44,11 @@ Live feed
 
 </td><td>
 
-Checkbox that automatically creates Live Feed groups for newly generated [[c_assessable-records|assessable records]] of this type.
+Checkbox that automatically creates Live Feed groups for newly generated assessable records of this type.
 
 </td></tr><tr><td>
 
-[[notify-landing-page|Notify]] manager if overdue
+Notify manager if overdue
 
 </td><td>
 
@@ -60,7 +60,7 @@ Scale factor
 
 </td><td>
 
-Scale value for all [[r_AssessmentResults|assessment results]].
+Scale value for all assessment results.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to enable the distribution of this assessment to recipients.
+Check box to enable the distribution of this assessment to recipients.
 
 </td></tr><tr><td>
 
@@ -212,7 +212,7 @@ User field
 
 </td><td>
 
-User field from the table specified in the **Conditions** tab. The assessment will be assigned to all users of this user field in the table.When you save the assessment and click **Generate Assessable Records**, an assessable record is created for each unique user of the user field. This is applicable for Scheduled and [[c_OnDemandAssessments|On-demand assessments]].
+User field from the table specified in the **Conditions** tab. The assessment will be assigned to all users of this user field in the table.When you save the assessment and click **Generate Assessable Records**, an assessable record is created for each unique user of the user field. This is applicable for Scheduled and On-demand assessments.
 
  For an on-demand assessment, each assessor assesses all assessable records. For a scheduled assessment, each assessor assesses only the corresponding assessable record.
 
@@ -280,19 +280,10 @@ Improvement Initiatives
 Displays improvement initiatives associated with the survey.**Note:** This related list is available only when there is at least one improvement initiative record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[assessment-reference|Assessments reference]]
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[[configure-assessment|Configure an assessment]]
+[Configure an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-assessment.md)
 
-## Related
-
-- [[assessment-reference|Assessments reference]]
-- [[configure-assessment|Configure an assessment]]
-- [[c_assessable-records|Assessable records]]
-- [[notify-landing-page|Notify]]
-- [[r_AssessmentResults|Assessment results]]
-- [[check-box|Check box]]
-- [[c_OnDemandAssessments|On-demand assessments]]

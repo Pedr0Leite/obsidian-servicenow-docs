@@ -12,15 +12,15 @@ breadcrumb: [Configure descriptive elements, Data sources, Configure an input fo
 
 # Configure a card descriptive element for input form screens
 
-Add a card descriptive element before an input ﬁeld, within an [[parameter-input-screen|input form screen]]. This additional on-screen information provides a context to your users, enabling them to better understand what is required as they enter data into an input form.
+Add a card descriptive element before an input ﬁeld, within an input form screen. This additional on-screen information provides a context to your users, enabling them to better understand what is required as they enter data into an input form.
 
 ## Before you begin
 
-**Note:** Card descriptive elements are configured in the ServiceNow AI Platform, whereas image, text and rich text descriptive elements are configured in the [[mab-concept|Mobile App Builder]]. For the configuration of image, text, or rich text descriptive elements see, [[descriptive-elements-script|Configure descriptive elements for input form screens]].
+**Note:** Card descriptive elements are configured in the ServiceNow AI Platform, whereas image, text and rich text descriptive elements are configured in the Mobile App Builder. For the configuration of image, text, or rich text descriptive elements see, [Configure descriptive elements for input form screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/descriptive-elements-script.md).
 
 Role required: admin
 
-To use a mobile card within a descriptive element, a mobile card must be configured. For more information, see [[mobile-card-builder|Mobile Card Builder]].
+To use a mobile card within a descriptive element, a mobile card must be configured. For more information, see [Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-card-builder.md).
 
 When using a preconfigured mobile card, consider the following:
 
@@ -73,9 +73,4 @@ You can add card descriptive elements to input ﬁelds, sections that contain in
     4.  Paste the sys\_id into the **Value** column.
 11. Select **Update**.
 
-## Related
 
-- [[descriptive-elements-script|Configure descriptive elements for input form screens]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]

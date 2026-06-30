@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-After installing [[cncore-now-assit-landing|Now Assist in Contract Management]], index the data for getting search results.
+After installing Now Assist in Contract Management, index the data for getting search results.
 
 ## Procedure
 
@@ -41,6 +41,3 @@ After installing [[cncore-now-assit-landing|Now Assist in Contract Management]],
 
 The contract repository tables are indexed for AI Search.
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

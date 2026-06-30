@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Assign a remediation task or record to yourself in the IT Remediation Workspace
 
-Assign a remediation task \(VUL, AVUL, CVUL, or CRG\) or record \(VIT, AVIT, CVIT, or TR\) to yourself from the [[itr-ws-list-page|List page in the IT Remediation Workspace]] workspace.
+Assign a remediation task \(VUL, AVUL, CVUL, or CRG\) or record \(VIT, AVIT, CVIT, or TR\) to yourself from the List page in the IT Remediation Workspace workspace.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[it-remediation-workspace-landing-page|IT Remediation Workspace]]** &gt; **List** &gt; **Remediation tasks** &gt; **Assigned to my group**.
+1.  Navigate to **Workspaces** &gt; **IT Remediation Workspace** &gt; **List** &gt; **Remediation tasks** &gt; **Assigned to my group**.
 
 2.  Open a remediation task \(VUL, AVUL, CVUL or CRG\) from the Remediation tasks list.
 
@@ -41,7 +41,4 @@ Role required:
 
     The **Assign to me** button is only available if the record is not already assigned to you.
 
-## Related
 
-- [[itr-ws-list-page|List page in the IT Remediation Workspace]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

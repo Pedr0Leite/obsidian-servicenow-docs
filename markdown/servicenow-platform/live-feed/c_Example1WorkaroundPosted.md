@@ -17,7 +17,7 @@ breadcrumb: [Live Feed table notification examples, Live Feed table notification
 This example demonstrates a table notification that generates an automatic message on Live Feed whenever a workaround is added to an open problem.
 
 -   **Table**: Problem \[problem\]
--   **Active**: Select the [[check-box|check box]].
+-   **Active**: Select the check box.
 -   **Update**: Select the check box.
 -   **Post to Live Feed**: Select the check box.
 -   **Conditions**: \[State\] \[is\] \[Open\]
@@ -44,6 +44,3 @@ This example demonstrates a table notification that generates an automatic messa
 
 [Live Feed table notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_SetUpLiveFeedTableNotifications.md)
 
-## Related
-
-- [[check-box|Check box]]

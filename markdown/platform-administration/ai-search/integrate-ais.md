@@ -14,7 +14,7 @@ breadcrumb: [AI Search, Search administration, Configure core features, Administ
 
 # Integrating AI Search into other ServiceNow AI Platform applications
 
-[[ia-ai-search|AI Search]] integrates with other ServiceNow AI Platform applications. Populate your UI Builder pages with search components and customize display of search [[hs-results|results]] and [[genius-results-ais|Genius Results]] with EVAM [[clone-exclusions-preservers-cleanupscripts|definitions]]. Improve incident deflection in Service Portal by [[configuring-ais|configuring AI Search]] Assist for record producers.
+AI Search integrates with other ServiceNow AI Platform applications. Populate your UI Builder pages with search components and customize display of search results and Genius Results with EVAM definitions. Improve incident deflection in Service Portal by configuring AI Search Assist for record producers.
 
 ## UI Builder search components
 
@@ -33,7 +33,7 @@ For details on adding components to your pages in UI Builder, see [Add and confi
 
 Entity View Action Mapping \(EVAM\) is a ServiceNow AI Platform application that standardizes how different data sources display records in cards and lists.
 
-AI Search provides EVAM [[clone-configurations-tab|configurations]] that you can use to customize display of search results and Genius Results in Service Portal and your UI Builder pages.
+AI Search provides EVAM configurations that you can use to customize display of search results and Genius Results in Service Portal and your UI Builder pages.
 
 You can customize EVAM settings to display AI Search results as a card grid view or as a list view. Users can page through large data sets of search results and see different views based on filtering.
 
@@ -41,7 +41,7 @@ For details on EVAM definitions, configurations, templates, and configuration bu
 
 ## Service Portal record producer integration
 
-AI Search Assist is a Service Portal widget that uses AI Search to improve incident deflection by displaying the most relevant set of related search results within a record producer. You can use AI Search Assist instead of [[c_ContextualSearch|Contextual Search]].
+AI Search Assist is a Service Portal widget that uses AI Search to improve incident deflection by displaying the most relevant set of related search results within a record producer. You can use AI Search Assist instead of Contextual Search.
 
 For more details on the AI Search Assist widget, see [AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md).
 
@@ -50,12 +50,3 @@ AI Search Assist is a Service Portal widget that uses AI Search to improve incid
 
 **Parent Topic:**[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[genius-results-ais|Genius Results]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[configuring-ais|Configuring AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_ContextualSearch|Contextual search]]

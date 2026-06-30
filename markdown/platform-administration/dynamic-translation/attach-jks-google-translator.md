@@ -14,7 +14,7 @@ breadcrumb: [Set up the Google Cloud Translator Service spoke, Google Cloud Tran
 
 # Attach a Java KeyStore certificate to Google Cloud Translator Service spoke
 
-Enable the JWT client authentication by attaching a valid Java KeyStore \(JKS\) certificate to [[google-translator-spoke|Google Cloud Translator Service spoke]].
+Enable the JWT client authentication by attaching a valid Java KeyStore \(JKS\) certificate to Google Cloud Translator Service spoke.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Enable the JWT client authentication by attaching a valid Java KeyStore \(JKS\) 
 
 **Next topic:**[Create a JWT signing key for Google Cloud Translator Service spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/create-jwtkey-google.md)
 
-## Related
-
-- [[google-translator-spoke|Google Cloud Translator Service Spoke]]

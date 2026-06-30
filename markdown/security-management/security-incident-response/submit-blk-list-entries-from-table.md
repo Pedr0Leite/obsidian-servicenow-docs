@@ -14,7 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Submit block list entries directly from the Block List Entry Table
 
-For [[c_Observables|observables]] determined to be malicious, and not associated with a specific Now Platform security incident, you submit [[cs-fal-insight-block-list-entries|Block List entries]] from the block list.
+For observables determined to be malicious, and not associated with a specific Now Platform security incident, you submit Block List entries from the block list.
 
 ## Before you begin
 
@@ -100,7 +100,7 @@ Source
 
 </td><td>
 
-Source that performs a [[tisc-threat-lookup|threat lookup]] on the Block List entry, for example, ThreatCrowd, etc
+Source that performs a threat lookup on the Block List entry, for example, ThreatCrowd, etc
 
 </td></tr><tr><td>
 
@@ -152,8 +152,4 @@ Cancels the override. At this point, you can change the value for the **Expirati
 
     The entry is now ready for approval.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[tisc-threat-lookup|Threat Lookup]]

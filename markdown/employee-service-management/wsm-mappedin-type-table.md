@@ -12,9 +12,9 @@ breadcrumb: [Configure Mappedin, Configure, Workplace Space Mapping, Workplace S
 
 # Convert Mappedin data to Workplace Space Mapping data
 
-Use the **Mappedin Type Mappings** table to convert data from Mappedin to [[wsm-mappedin-admin|Workplace Space Mapping]] data.
+Use the **Mappedin Type Mappings** table to convert data from Mappedin to Workplace Space Mapping data.
 
-The **Mappedin Type Mappings** table has configurations to convert the Type and Subtype data used in a Mappedin map to **Table** and **Space type** used in [[workplace-safety-mgmt-hr|Workplace Core]].
+The **Mappedin Type Mappings** table has configurations to convert the Type and Subtype data used in a Mappedin map to **Table** and **Space type** used in Workplace Core.
 
 ## Terms
 
@@ -56,20 +56,12 @@ To ensure your locations move to the correct Space \(sn\_wsd\_core\_space\) or R
 
 You can import a Mappedin building \(single floor building\) and the 14 locations go to the correct tables and have the correct types.
 
--   **[[wsm-mappedin-type-mappings|Maintain type mappings]]**  
+-   **[Maintain type mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-type-mappings.md)**  
 Use **Type mappings** to convert the Type and Subtype locations in Mappedin to the Table and Space type used in Workplace Space Mapping.
--   **[[wsm-mappedin-import-building|Import a new building - Mappedin]]**  
+-   **[Import a new building - Mappedin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-import-building.md)**  
 Use **Import a new building** to import the Mappedin map and define the building details.
--   **[[wsm-mappedin-import-existing-bldg|Import an existing building - Mappedin]]**  
+-   **[Import an existing building - Mappedin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-import-existing-bldg.md)**  
 Follow these steps to import an existing building for a Mappedin map.
 
-**Parent Topic:**[[mappedin-integration-topics|Configure Mappedin]]
+**Parent Topic:**[Configure Mappedin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mappedin-integration-topics.md)
 
-## Related
-
-- [[wsm-mappedin-type-mappings|Maintain type mappings]]
-- [[wsm-mappedin-import-building|Import a new building - Mappedin]]
-- [[wsm-mappedin-import-existing-bldg|Import an existing building - Mappedin]]
-- [[mappedin-integration-topics|Configure Mappedin]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

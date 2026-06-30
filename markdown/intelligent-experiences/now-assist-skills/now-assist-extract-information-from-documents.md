@@ -15,17 +15,13 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Now Assist extract information from documents
 
-The extract information from documents skill allows you to use [[platform-now-assist-landing|Now Assist]] predictions to extract information from document and image files.
+The extract information from documents skill allows you to use Now Assist predictions to extract information from document and image files.
 
 Now Assist uses generative AI capabilities to extract values from the document based on the fields, tables, and questions defined in the skill’s use case. The extracted information is turned into structured data that can be used in the platform.
 
-Agents can use the [[document-intelligence-landing|Document Intelligence]] workspace to review and confirm the extracted information.
+Agents can use the Document Intelligence workspace to review and confirm the extracted information.
 
 \[Omitted image "na-review-extracted-information.png"\] Alt text: Document Intelligence workspace showing the extracted information on the document image.
 
 For more information, see [Review extracted information in the Document Intelligence workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/review-extracted-information.md).
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

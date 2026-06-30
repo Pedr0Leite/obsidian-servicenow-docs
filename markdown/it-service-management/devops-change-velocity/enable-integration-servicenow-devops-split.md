@@ -22,7 +22,7 @@ Role required: admin in Split organization
 
 ## Procedure
 
-1.  In Split tool marketplace, navigate to **Admin [[settings-mobile|Settings]] &gt; Integrations**.
+1.  In Split tool marketplace, navigate to **Admin Settings &gt; Integrations**.
 
 2.  Add ServiceNow DevOps in the **Integration Name** field, and select **Save**.\[Omitted image "split-admin-settings.png"\] Alt text: ServiceNow admin settings in Split tool
 
@@ -37,6 +37,3 @@ Role required: admin in Split organization
 
 **Parent Topic:**[Split.io integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/split-integration-devops-classic.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

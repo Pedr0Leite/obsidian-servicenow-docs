@@ -12,7 +12,7 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 # Surveys in Service Portal and the Now Mobile app
 
-If you've installed Service Portal, you can use the My [[assessments-surveys-landing-page|Assessments and Surveys]] widget in Service Portal. Users can view [[r_SurveyManagementLandingPage|surveys]] in Service Portal. Service Portal also supports surveys for users on mobile devices that have the Now Mobile app installed. The My Assessments and Surveys widget is available by default on the Service Portal home page.
+If you've installed Service Portal, you can use the My Assessments and Surveys widget in Service Portal. Users can view surveys in Service Portal. Service Portal also supports surveys for users on mobile devices that have the Now Mobile app installed. The My Assessments and Surveys widget is available by default on the Service Portal home page.
 
 ## Surveys in Service Portal
 
@@ -49,13 +49,13 @@ Title of the widget
 Text that appears in the title bar of the surveys widget.Default: **My Assessments and Surveys**
 
 </td></tr></tbody>
-</table>\[Omitted image "ecs-my-[[r_Assessments|assessments]]-surveys-widget.png"\] Alt text: My Assessments and Surveys page.
+</table>\[Omitted image "ecs-my-assessments-surveys-widget.png"\] Alt text: My Assessments and Surveys page.
 
 ## Surveys in the Now Mobile app
 
 Users can view and take the surveys on mobile devices using the My Assessments and Surveys applet launcher that is available by default in the Now Mobile app.
 
-When you assign a survey to a user an [[email|email]] notification about taking the survey is sent to the user. If users have installed the Now Mobile app, a mobile push notification is also sent on mobile devices. Tapping the notification opens an introduction page for a survey in the Mobile Employee Service Portal in the Now Mobile app. The page shows a **Get started** link. The introduction page and the **Get started** link are available only if the related settings are enabled. Users can tap the link to view and take the survey. You can activate push notifications by setting the **glide.sg.universal\_links.enabled** system property to **true**.
+When you assign a survey to a user an email notification about taking the survey is sent to the user. If users have installed the Now Mobile app, a mobile push notification is also sent on mobile devices. Tapping the notification opens an introduction page for a survey in the Mobile Employee Service Portal in the Now Mobile app. The page shows a **Get started** link. The introduction page and the **Get started** link are available only if the related settings are enabled. Users can tap the link to view and take the survey. You can activate push notifications by setting the **glide.sg.universal\_links.enabled** system property to **true**.
 
 **Note:** A push notification doesn't apply for a triggered survey. For a triggered survey, an event is inserted in the event queue. The event can be configured to determine whether to send a notification or not.
 
@@ -67,13 +67,13 @@ When users open a survey either in Service Portal or the Now Mobile app, the sur
 
 -   A survey page shows breadcrumb navigation on the Service Portal. Users can click the links in the breadcrumb to navigate to previous pages or a home page. For example, clicking the **My Surveys** link in the breadcrumb navigates users to a page, which shows a list of all the surveys.
 -   When the survey is in progress, the progress bar, which is available on each page of the survey, shows the progress in percentage. The percentage of completion is based on the pages on the survey. For example, suppose that there are three pages of a survey. The third page shows 66% completion of the survey. But giving a response to one of the questions on the third page opens a new question on a separate page, which is the fourth page. The fourth page shows the progress of the survey as 75% completed, which affects the overall progress and page indicators. Users can see the pagination \(total number of pages\) for the entire survey as well as the current page that the users are on. To hide or show this progress bar, you can use the **sn\_portal\_surveys.sp\_survey.show\_progress\_bar** property.
--   Each user response is saved automatically when users move to the next page in the survey. If users don't answer the required [[c_SurveyQuestion|survey questions]] before clicking **Next**, the page shows an error message at the top for all required and unanswered questions. This error message helps users find the exact location of the unanswered and required question. Any question that is not required and is not responded to before clicking **Next** is considered answered. The question is counted as completed.
+-   Each user response is saved automatically when users move to the next page in the survey. If users don't answer the required survey questions before clicking **Next**, the page shows an error message at the top for all required and unanswered questions. This error message helps users find the exact location of the unanswered and required question. Any question that is not required and is not responded to before clicking **Next** is considered answered. The question is counted as completed.
 -   When the details of a survey question contain more than four or five lines of text, the text after these lines disappears. In such cases, users can see the complete details by clicking the **Show more** link. Users can go back to the default behavior by clicking the **Show less** link.
 -   For a question that has the answer options of **Yes**, **No**, and **Not Applicable**, the **Not Applicable** option appears last in the list of options. The **Not Applicable** option can be configured while creating a question.
 
 -   When the survey users leave the survey without submitting it, they can start the survey later from the same page where they left off in the previous session.
 
-**Note:** For mobile users, the pagination is always by question for surveys. For more information about pagination settings, see [[t_ConfigSurveyInSurveyDesgnr|Configure a survey in the survey designer]].
+**Note:** For mobile users, the pagination is always by question for surveys. For more information about pagination settings, see [Configure a survey in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigSurveyInSurveyDesgnr.md).
 
 ## One Click survey
 
@@ -84,7 +84,7 @@ A One Click survey has no introduction page in Service Portal. This survey doesn
 -   The One Click Survey is not supported in the mobile device view.
 -   The **One Click Survey** field should be selected in the survey definition.
 -   When the public access is enabled for a One Click survey, a user can submit the survey without having to log in.
--   When the public access is enabled for a survey, you can't configure a signature or an [[attachment|attachment]] for the survey.
+-   When the public access is enabled for a survey, you can't configure a signature or an attachment for the survey.
 -   For a published public survey, the Signature field is hidden and you can’t add an attachment.
 
 A kiosk survey is a One Click survey with only one question of any of the following types:
@@ -92,8 +92,8 @@ A kiosk survey is a One Click survey with only one question of any of the follow
 -   Image Scale
 -   Choice
 -   Likert Scale
--   [[numeric-scale|Numeric Scale]]
--   [[yes-no|Yes/No]]
+-   Numeric Scale
+-   Yes/No
 
 When users click the answer for the kiosk survey question in Service Portal, the survey is submitted, and the end note is displayed on the same page that contains the survey questions. The kiosk survey becomes read-only after it's clicked.
 
@@ -114,7 +114,7 @@ Pass these URI parameters through the createAssessment\(\) API to store their va
 |**sysparm\_trigger\_id**|Location sys\_id that is stored as the **Trigger ID** field in the asmt\_assessment\_instance table. For example, sysparm\_trigger\_id=1c741bd70b2322007518478d83673af3.|
 |**sysparm\_kiosk**|When set to **true**, both the sysparm\_trigger\_table and sysparm\_trigger\_id parameters should be specified. This parameter is required for kiosk requests. For example, sysparm\_kiosk=true.|
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -155,20 +155,7 @@ Pass these URI parameters through the createAssessment\(\) API to store their va
 
 [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md)
 
-[[c_SurveyDesigner|Survey designer]]
+[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 [Configure a survey in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigSurveyInSurveyDesgnr.md)
 
-## Related
-
-- [[t_ConfigSurveyInSurveyDesgnr|Configure a survey in the survey designer]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Assessments|Assessments]]
-- [[email|Email]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[attachment|Attachment]]
-- [[numeric-scale|Numeric scale]]
-- [[yes-no|Yes/No]]

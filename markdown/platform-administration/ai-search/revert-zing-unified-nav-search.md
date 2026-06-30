@@ -14,24 +14,24 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Revert to Zing as the Unified Navigation search engine
 
-Revert to using [[c_ZingTextSearch|Zing text indexing and search engine]] for the Unified Navigation search field in Next Experience.
+Revert to using Zing text indexing and search engine for the Unified Navigation search field in Next Experience.
 
 ## Before you begin
 
-The [[ais-next-experience-app|AI Search for Next Experience]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ais-next-experience-app.md).
+The AI Search for Next Experience ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-ais-next-experience-app.md).
 
 Role required: ais\_admin
 
 ## About this task
 
-You can undo the configuration changes you made to [[enable-ais-next-exp-app|enable AI Search for Next Experience]]. This may be for either of the following reasons:
+You can undo the configuration changes you made to enable AI Search for Next Experience. This may be for either of the following reasons:
 
 -   You prefer to use Zing text indexing and search engine for Unified Navigation in Next Experience.
 -   You plan to disable Next Experience and revert to the legacy UI. \(The legacy UI only supports the Zing engine for global search and workspace search.\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search for Next Experience** &gt; **Guided Setup for Zing to AI Search Migration**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search for Next Experience** &gt; **Guided Setup for Zing to AI Search Migration**.
 
 2.  In the **Complete migration to AI Search** category, select **Edit**.
 
@@ -54,9 +54,3 @@ Notify all users of your instance that they need to log out and back in before t
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[c_ZingTextSearch|Zing text indexing and search engine]]
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[enable-ais-next-exp-app|Enable AI Search for Next Experience]]
-- [[ia-ai-search|AI Search]]

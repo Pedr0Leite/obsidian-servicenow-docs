@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 # Manage cloud budgets
 
-Define and monitor custom budget plans for managing your cloud spend by using the [[budget-view-ws|Budget view]] in the [[ci-workspace|Cloud Cost Management Workspace]].
+Define and monitor custom budget plans for managing your cloud spend by using the Budget view in the Cloud Cost Management Workspace.
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
@@ -34,7 +34,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 ### About this task
 
-You must select one of the [[cloud-insights-landing-page|Cloud Cost Management]] application scopes to create or update a budget policy.
+You must select one of the Cloud Cost Management application scopes to create or update a budget policy.
 
 ### Procedure
 
@@ -53,8 +53,3 @@ You must select one of the [[cloud-insights-landing-page|Cloud Cost Management]]
 
 After you create or modify a budget policy, the policies get displayed on the **All Budgets** page in the Budgets view. Find the details of the budget such as overrun, surplus, or invalid budgets. You can view only the overrun budgets by toggling the **Show overrun budget only** toggle button. Search a budget by its name, owner, or provider.
 
-## Related
-
-- [[budget-view-ws|Budget view]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

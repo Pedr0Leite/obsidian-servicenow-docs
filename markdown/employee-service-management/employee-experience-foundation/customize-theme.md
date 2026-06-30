@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[employee-center-landing-page|Employee Center]] application ships a default **EC theme** that has the best visual design experience. The EC theme provides a consistent experience across all portal pages.
+Employee Center application ships a default **EC theme** that has the best visual design experience. The EC theme provides a consistent experience across all portal pages.
 
 ## Procedure
 
@@ -58,6 +58,3 @@ Role required: admin
 
 [Configure portal branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_BrandingEditor.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

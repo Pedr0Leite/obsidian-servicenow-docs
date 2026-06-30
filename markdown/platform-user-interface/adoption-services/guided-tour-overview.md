@@ -14,9 +14,9 @@ breadcrumb: [Use Guided Tours, Guided Tours, Adoption services, Configure user e
 
 # Guided Tours dashboard
 
-The [[guided-tours|Guided Tours]] Overview dashboard provides statistics related to guided tour usage.
+The Guided Tours Overview dashboard provides statistics related to guided tour usage.
 
-To access the Guided Tours dashboard, navigate to **[[guided-tours-designer|Guided Tour Designer]]** &gt; **Guided Tours Overview**. The dashboard features two tabs:
+To access the Guided Tours dashboard, navigate to **Guided Tour Designer** &gt; **Guided Tours Overview**. The dashboard features two tabs:
 
 -   User Engagement: This tab shows the number of users actively engaging with the Guided Tours and highlights trends over time.
 -   Tour Statistics: This tab shows trends and patterns in user engagement. It enables you to analyze tour completions and failures, helping you create more successful tours.
@@ -107,7 +107,3 @@ Shows the 10 tours that are dismissed most frequently.
 
 **Parent Topic:**[Using Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/using-guided-tours.md)
 
-## Related
-
-- [[guided-tours|Guided Tours]]
-- [[guided-tours-designer|Guided Tour Designer]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Service Portfolio Management, IT Service Management]
 
 # View Service Level Agreement \(SLA\) results in Service Portfolio Management
 
-[[SPM2-landing-page|Service Portfolio Management]] leverages the [[service-level-mgmt-landing-page|Service Level Management]] application and includes a module to manage your Service Level Agreement \(SLA\) definitions and results.
+Service Portfolio Management leverages the Service Level Management application and includes a module to manage your Service Level Agreement \(SLA\) definitions and results.
 
 You can view, modify, or create SLA definitions from the Service Portfolio Management application. You can also view, modify, or create SLA results. Refer to [Service Level Agreement \(SLA\) definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLADefinitions.md) and [Create an SLA definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_CreateAnSLADefinition.md) for information about SLA definitions and configuration. For complete detailed information about SLAs, refer to [Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-mgmt-landing-page.md).
 
@@ -44,7 +44,3 @@ To view the SLA results, navigate to **Service Portfolio Management** &gt; **Ser
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[service-level-mgmt-landing-page|Service Level Management]]

@@ -12,16 +12,16 @@ breadcrumb: [Working in Core UI, Configure UIs and portals, Configure user exper
 
 # Working in the classic environment
 
-In the classic environment, use [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]] to get your work done.
+In the classic environment, use lists and forms to get your work done.
 
-**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [[workspace-landing-page|Configurable Workspace interface]]. You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as [[c_UI16|Core UI]] \(formerly known as UI16\).
+**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md). You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI \(formerly known as UI16\).
 
--   **[[c_UseLists|Lists in the classic environment]]**  
+-   **[Lists in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)**  
 A list displays a set of records from a table.
--   **[[c_UsingForms|Forms in the classic environment]]**  
+-   **[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)**  
 A form displays information from one record in a data table.
 
-**Parent Topic:**[[working-in-ui16-and-ui15|Working in Core UI]]
+**Parent Topic:**[Working in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-ui16-and-ui15.md)
 
 **Related topics**  
 
@@ -36,12 +36,3 @@ A form displays information from one record in a data table.
 
 [User interface configuration]()
 
-## Related
-
-- [[workspace-landing-page|Configurable Workspace UI]]
-- [[c_UseLists|Lists in the classic environment]]
-- [[c_UsingForms|Forms in the classic environment]]
-- [[working-in-ui16-and-ui15|Working in Core UI]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]

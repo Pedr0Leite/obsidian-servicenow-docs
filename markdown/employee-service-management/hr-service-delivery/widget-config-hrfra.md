@@ -14,12 +14,9 @@ breadcrumb: [Enterprise Service Management Integrations Framework reference, Ent
 
 # Widgets to display tasks from a third-party system
 
-The **HRSD Framework Integration** and **HRSD Integration Framework Complete** pre-configured widgets help to display tasks from a third-party system to the To-dos page in [[employee-center-landing-page|Employee Center]].
+The **HRSD Framework Integration** and **HRSD Integration Framework Complete** pre-configured widgets help to display tasks from a third-party system to the To-dos page in Employee Center.
 
 These widgets are available only when the Human Resources Scoped App: Core \[com.sn\_hr\_core\] application is activated. For more information on these widgets, navigate to **Employee Service Center** &gt; **To-dos Configuration**.
 
 **Parent Topic:**[Enterprise Service Management Integrations Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ent-service-mgmt-int-framework-reference.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

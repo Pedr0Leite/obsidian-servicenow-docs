@@ -14,18 +14,18 @@ breadcrumb: [Exploring Edge Encryption, Edge Encryption, Encryption]
 
 # Key management for Edge Encryption
 
-You are responsible for providing and managing the [[encryption-landing|encryption]] keys used by [[edge-encryption|Edge Encryption]].
+You are responsible for providing and managing the encryption keys used by Edge Encryption.
 
-This topic refers to keys for the Edge Encryption product. If you are looking for information on the [[encryption|Key Management Framework]], which can be used with [[field-encryption|Field Encryption]], see [Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/understanding-kmf.md).
+This topic refers to keys for the Edge Encryption product. If you are looking for information on the Key Management Framework, which can be used with Field Encryption, see [Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/understanding-kmf.md).
 
 When obtaining and creating encryption keys to support the encryption types used by Edge Encryption, consider the following:
 
 -   Whether to use AES 128-bit or AES 256-bit. You must define a default AES 128-bit encryption key, even if it is not used.
 -   Whether to use file system, Java KeyStore, or Enterprise Key Management \(EKM\).
--   When to [[c_EncryptionKeyRotation|rotate encryption keys]].
+-   When to rotate encryption keys.
 -   When and if to use a mass encryption job to re-encrypt data using the new key.
 
-Before removing a key from the proxy [[sc-configuration|configuration]] files and the keystore, it is critical that you decrypt all data on the instance that uses the key. You can do this by adding a new encryption key and scheduling a mass key rotation job.
+Before removing a key from the proxy configuration files and the keystore, it is critical that you decrypt all data on the instance that uses the key. You can do this by adding a new encryption key and scheduling a mass key rotation job.
 
 ## Keystores
 
@@ -55,11 +55,3 @@ Use SafeNet key versioning to simplify changing keys. Instead of creating an ali
 
 **Parent Topic:**[Exploring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionOverview.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[encryption|Key Management Framework]]
-- [[field-encryption|Field Encryption]]
-- [[c_EncryptionKeyRotation|Rotate encryption keys]]
-- [[sc-configuration|Configuration]]

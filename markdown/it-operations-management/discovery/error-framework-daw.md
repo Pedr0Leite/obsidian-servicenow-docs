@@ -14,7 +14,7 @@ breadcrumb: [Discovery Admin Workspace Diagnostics, Discovery Admin Workspace, E
 
 # Error Framework in Discovery Admin Workspace
 
-[[discovery-admin-workspace|Discovery Admin Workspace]] uses the Error Framework to surface actionable [[r-discovery|Discovery]] errors. You can review errors, understand their causes, and take steps to resolve them directly from the Diagnostics page.
+Discovery Admin Workspace uses the Error Framework to surface actionable Discovery errors. You can review errors, understand their causes, and take steps to resolve them directly from the Diagnostics page.
 
 ## Benefits
 
@@ -22,7 +22,7 @@ The Error Framework in Discovery Admin Workspace provides the following benefits
 
 -   A centralized view of Discovery errors grouped by category and severity.
 -   Contextual details for each error, including affected devices and Discovery schedule.
--   Solution-focused error records that guide you to the root cause and [[ccg-remediation|remediation]] steps first.
+-   Solution-focused error records that guide you to the root cause and remediation steps first.
 -   Actions you can trigger directly from an error record to help resolve the issue.
 -   AI-powered insights that prioritize your errors and surface high-impact items and quick wins.
 -   Aggregated error statistics to identify patterns across discovery runs.
@@ -106,8 +106,3 @@ The following are required to use Error Framework features in Discovery Admin Wo
 -   Australia Patch 3.
 -   Discovery Admin Workspace v1.17.0.
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]

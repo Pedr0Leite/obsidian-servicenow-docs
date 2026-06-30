@@ -14,7 +14,7 @@ breadcrumb: [Use feeds in Live Feed, Using Live Feed, Live Feed Core UI, Manage 
 
 # View the activity stream in record feeds
 
-When you view [[c_RecordFeeds|record feeds]], Live Feed displays the activity stream for the document.
+When you view record feeds, Live Feed displays the activity stream for the document.
 
 For example, for an incident feed, the screen displays recent activity for the incident. The activity stream is updated whenever anything is changed in the associated record.
 
@@ -22,6 +22,3 @@ For example, for an incident feed, the screen displays recent activity for the i
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]

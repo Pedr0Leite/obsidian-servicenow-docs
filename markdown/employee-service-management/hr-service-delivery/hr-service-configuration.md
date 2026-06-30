@@ -14,9 +14,9 @@ breadcrumb: [HR services, HR Administration, Configure, Case and Knowledge Manag
 
 # HR service configuration
 
-[[hr-service-administration|HR services]] are the requests and assistance an HR organization provides its employees. You can [[configure-hr-service|configure an HR service]] to define the request to fulfillment process for that case type.
+HR services are the requests and assistance an HR organization provides its employees. You can configure an HR service to define the request to fulfillment process for that case type.
 
-You can [[configure-hr-case-template|configure an HR case template]] to automatically populate fields on the HR case form when a request for that service is made. And if you need to make an existing HR service available for employee self-service, you can [[wsd-create-record-producer|configure a record producer]] to make the service available as an HR catalog item in the HR service catalog.
+You can configure an HR case template to automatically populate fields on the HR case form when a request for that service is made. And if you need to make an existing HR service available for employee self-service, you can configure a record producer to make the service available as an HR catalog item in the HR service catalog.
 
 For best results, do not configure multiple record producers to invoke a single HR service.
 
@@ -24,8 +24,8 @@ For best results, do not configure multiple record producers to invoke a single 
 
 -   The categorization of HR catalog items are employee-facing only, and have no relation to the categorization of HR services under the HR Centers of Excellence \(COEs\) data model.
 -   If you are creating a new HR service and plan to make it available for employee self-service, see [HR catalog item configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-catalog-item-configuration.md) instead. Creating a new HR catalog item automatically creates a corresponding HR service, and you can avoid creating duplicate services.
--   If you have an existing HR service that you want to make available for employee self-service, do not [[create-hr-catalog-item|create an HR catalog item]]. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
--   The [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] is highly configurable for HR agents. It supports the same functionality in the Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace.
+-   If you have an existing HR service that you want to make available for employee self-service, do not create an HR catalog item. \(Creating a HR catalog item automatically creates a corresponding HR service.\) Instead, see [Configure a record producer for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-record-producer.md) to add the existing service as an HR catalog item in the HR service catalog.
+-   The Agent Workspace for HR Case Management is highly configurable for HR agents. It supports the same functionality in the Classic HR Service Delivery Agent Workspace.
 
 1.  [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md)  
 Create or modify an HR service to define the request to fulfillment process for that case type. Examples of HR services include benefits enrollment, direct deposit setup, and background check requests by third-party providers.
@@ -36,12 +36,3 @@ Make an existing HR service available for employee self-service by adding it to 
 
 **Parent Topic:**[HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[configure-hr-service|Configure an HR service]]
-- [[configure-hr-case-template|Configure an HR case template]]
-- [[wsd-create-record-producer|Configure a Record producer]]
-- [[create-hr-catalog-item|Create an HR catalog item]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]

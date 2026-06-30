@@ -20,7 +20,7 @@ Create the unique key that CyberArk can use to identify specific credentials in 
 
 Role required: admin
 
-Before starting this procedure, ensure that the [[c_ExternalCredentialStorage|External Credential Storage]] plugin is activated, and the [com.snc.use\_external\_credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md) system property is set to true.
+Before starting this procedure, ensure that the External Credential Storage plugin is activated, and the [com.snc.use\_external\_credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md) system property is set to true.
 
 ## Procedure
 
@@ -63,6 +63,3 @@ Before starting this procedure, ensure that the [[c_ExternalCredentialStorage|Ex
 
 **Parent Topic:**[CyberArk integration configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkIntegrationConfiguration.md)
 
-## Related
-
-- [[c_ExternalCredentialStorage|External credential storage]]

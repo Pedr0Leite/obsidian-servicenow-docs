@@ -14,7 +14,7 @@ breadcrumb: [Explore, Features, Now Assist Finance Supply Chain, Finance and Sup
 
 # Now Assist roles for Common Finance and Supply Chain features
 
-Grant fulfiller, requester, and [[supplier|supplier]] user roles to access the Common [[finance-supply-chain-landing|Finance and Supply Chain]] features powered by generative AI along with the product specific Now Assist features.
+Grant fulfiller, requester, and supplier user roles to access the Common Finance and Supply Chain features powered by generative AI along with the product specific Now Assist features.
 
 ## Roles installed
 
@@ -24,13 +24,13 @@ Grant fulfiller, requester, and [[supplier|supplier]] user roles to access the C
 |sn\_fsc\_genai.now\_assist\_fulfiller|Contains fulfiller role to access Finance and Supply Chain common generative AI features|now\_assist\_panel\_user|
 |sn\_fsc\_genai.now\_assist\_requester|Contains requester role to access Finance and Supply Chain common generative AI features| |
 |sn\_fsc\_genai.now\_assist\_supplier|Contains Now Assist supplier role to access Finance and Supply Chain common generative AI features| |
-|Now Assist for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] \(APO\)|
+|Now Assist for Accounts Payable Operations \(APO\)|
 |sn\_ap\_gen\_ai.now\_assist\_fulfiller|Contains fulfiller role to access Now Assist for Accounts Payable Operations|sn\_fsc\_genai.now\_assist\_fulfiller|
 |sn\_ap\_gen\_ai.now\_assist\_supplier|Contains supplier role to access Now Assist features for Accounts Payable Operations|sn\_fsc\_genai.now\_assist\_supplier|
-|Now Assist for [[psm-overview|Sourcing and Procurement Operations]] \(SPO\)|
+|Now Assist for Sourcing and Procurement Operations \(SPO\)|
 |sn\_spend\_gen\_ai.now\_assist\_fulfiller|Contains fulfiller role to access generative AI features for Sourcing and Procurement Operations|sn\_fsc\_genai.now\_assist\_fulfiller|
 |sn\_spend\_gen\_ai.now\_assist\_requester|Contains requester role to access generative AI features for Sourcing and Procurement Operations|sn\_fsc\_genai.now\_assist\_requester|
-|Now Assist for [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \(SLO\)|
+|Now Assist for Supplier Lifecycle Operations \(SLO\)|
 |sn\_supplier\_gen\_ai.now\_assist\_fulfiller|Contains Now Assist fulfiller role to access generative AI features for Supplier Lifecycle Operations|sn\_fsc\_genai.now\_assist\_fulfiller|
 |sn\_supplier\_gen\_ai.now\_assist\_supplier|Contains Now Assist supplier role to access generative AI features for Supplier Collaboration Portal|sn\_fsc\_genai.now\_assist\_supplier|
 
@@ -43,15 +43,7 @@ Grant fulfiller, requester, and [[supplier|supplier]] user roles to access the C
 
 [Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
-[[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
+[Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-slo.md)
 
 [Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/now-assist-apo.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[supplier|Supplier]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

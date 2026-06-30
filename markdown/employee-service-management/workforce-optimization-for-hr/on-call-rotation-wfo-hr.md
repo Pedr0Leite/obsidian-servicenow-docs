@@ -20,7 +20,7 @@ After creating on-call shift, create on-call rotation to be able to rotate the s
 
 Role required: admin
 
-Before create the on-call rotation, [[create-on-call-shift-wfo-hr|create an on-call shift]]. See, [Create an on-call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-on-call-shift-wfo-hr.md).
+Before create the on-call rotation, create an on-call shift. See, [Create an on-call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-on-call-shift-wfo-hr.md).
 
 ## Procedure
 
@@ -43,6 +43,3 @@ Before create the on-call rotation, [[create-on-call-shift-wfo-hr|create an on-c
 
 **Parent Topic:**[Create an on-call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-on-call-shift-wfo-hr.md)
 
-## Related
-
-- [[create-on-call-shift-wfo-hr|Create an on-call shift]]

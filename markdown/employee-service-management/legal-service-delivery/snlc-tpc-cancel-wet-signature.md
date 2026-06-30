@@ -14,7 +14,7 @@ breadcrumb: [Work on a third-party contract review request, Third-party contract
 
 # Cancel the wet signature process from the Employee Center
 
-Cancel a wet signature process for a Non-disclosure agreement legal requests from the [[employee-center-landing-page|Employee Center]].
+Cancel a wet signature process for a Non-disclosure agreement legal requests from the Employee Center.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 ## About this task
 
-You can [[cncore-cancel-a-manual-signature|cancel the signature process]] from the Employee Center under following conditions:
+You can cancel the signature process from the Employee Center under following conditions:
 
 -   The legal request is of type Non-disclosure agreement.
 -   The signature type of the Non-disclosure agreement legal request is Wet signature.
@@ -47,7 +47,3 @@ The contract status updates to Signature cancelled, and a notification email is 
 
 **Parent Topic:**[Work on a third-party contract review request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[cncore-cancel-a-manual-signature|Cancel the signature process]]

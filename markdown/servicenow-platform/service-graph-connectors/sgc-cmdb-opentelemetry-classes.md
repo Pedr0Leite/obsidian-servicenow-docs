@@ -16,7 +16,7 @@ breadcrumb: [OpenTelemetry, Service Graph Connectors, Integrating third-party da
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from ServiceNow Cloud Observability \(formerly Lightstep\). The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
 
-**Important:** Starting with the Australia release, [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]] is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Australia release, Service Graph Connector for OpenTelemetry is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 ## Calculated Application Service \[cmdb\_ci\_service\_calculated\]
 
@@ -261,6 +261,3 @@ The following attribute in the Server \[cmdb\_ci\_server\] table is populated by
 
 [CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
-## Related
-
-- [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]]

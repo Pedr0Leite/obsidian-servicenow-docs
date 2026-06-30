@@ -21,8 +21,5 @@ When multiple bills of material \(BOMs\) are displayed in a layout, CPQ automati
 **Related topics**  
 
 
-[[layout_how_do_i_customize_currency_display_in_shopping_cart|Customizing the currency display in the shopping cart]]
+[Customizing the currency display in the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_how_do_i_customize_currency_display_in_shopping_cart.md)
 
-## Related
-
-- [[layout_how_do_i_customize_currency_display_in_shopping_cart|Customizing the currency display in the shopping cart]]

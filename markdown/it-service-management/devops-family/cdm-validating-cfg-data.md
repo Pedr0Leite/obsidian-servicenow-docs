@@ -16,7 +16,7 @@ breadcrumb: [Using DevOps Config, DevOps Config, IT Service Management]
 
 For every change to an environment, there may be tens or hundreds of rules \(policies\) that need to be checked. CDM enables you to auto-validate configuration data to ensure that configuration changes are error-free and policy-compliant before the config data is consumed.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## CDM automates much of the validation process
 
@@ -41,7 +41,7 @@ Here's the CDM process that auto-validates configuration data before it is consu
 
 ## Use pre-defined policies as models for your custom policies
 
-CDM includes policies that you can use as [[c_Models|models]] for custom policies that meet specific needs. Note the following important patterns in the pre-defined policies;
+CDM includes policies that you can use as models for custom policies that meet specific needs. Note the following important patterns in the pre-defined policies;
 
 -   The policies all use the `CdmQuery` script include to retrieve config data.
 -   Use `CdmQuery` with Secrets to ensure all data is included.
@@ -101,7 +101,3 @@ Deployment is executed.
 
 [CdmQuery - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/CdmQueryScopedAPI.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[c_Models|Models]]

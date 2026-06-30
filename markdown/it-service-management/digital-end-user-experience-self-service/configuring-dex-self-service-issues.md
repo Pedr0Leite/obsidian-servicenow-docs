@@ -34,10 +34,8 @@ For information about how device health is calculated, see [Device heath check c
 
 3.  Update the fields on the form.
 
-    **Note:** For more information on [[dex-self-service-issue-config-form|DEX Self-service issue configuration form]] field descriptions, see [DEX Self-service issue configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/dex-self-service-issue-config-form.md).
+    **Note:** For more information on DEX Self-service issue configuration form field descriptions, see [DEX Self-service issue configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/dex-self-service-issue-config-form.md).
 
 4.  Select **Update**.
 
-## Related
 
-- [[dex-self-service-issue-config-form|DEX Self-service issue configuration form]]

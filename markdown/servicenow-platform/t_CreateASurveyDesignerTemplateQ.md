@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 ## About this task
 
-For more information about the template, see [[c_SurveyQuestionTemplate|Survey question template]].
+For more information about the template, see [Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ For more information about the template, see [[c_SurveyQuestionTemplate|Survey q
 
 4.  Select a predefined scale from the list.
 
-    \[Omitted image "SurveyDesignerTemplateProperties.png"\] Alt text: Template [[properties-form-survey-designer|properties form]]
+    \[Omitted image "SurveyDesignerTemplateProperties.png"\] Alt text: Template properties form
 
     Question entry fields appear for that template.
 
@@ -53,7 +53,7 @@ For more information about the template, see [[c_SurveyQuestionTemplate|Survey q
 9.  Click the **X** icon to close the template properties dialog box and save your settings.
 
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -90,17 +90,9 @@ For more information about the template, see [[c_SurveyQuestionTemplate|Survey q
 
 [Legacy survey migration]()
 
-[[c_SurveyDesignerElements|Survey designer elements]]
+[Survey designer elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md)
 
-[[c_SurveyDesigner|Survey designer]]
+[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
-[[t_EditASurveyInTheSurveyDesigner|Edit a survey in the survey designer]]
+[Edit a survey in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditASurveyInTheSurveyDesigner.md)
 
-## Related
-
-- [[c_SurveyQuestionTemplate|Survey question template]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[c_SurveyDesignerElements|Survey designer elements]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[t_EditASurveyInTheSurveyDesigner|Edit a survey in the survey designer]]
-- [[properties-form-survey-designer|Properties form]]

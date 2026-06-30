@@ -14,9 +14,9 @@ breadcrumb: [Security Center, Platform Security]
 
 # Security Center landing page
 
-Use the Security Center landing page to find the information and tools you need to [[platsec-landing|secure your instance]].
+Use the Security Center landing page to find the information and tools you need to secure your instance.
 
-\[Omitted image "sec-center-home-1.png"\] Alt text: [[sec-center-v2|Security Center]] homepage
+\[Omitted image "sec-center-home-1.png"\] Alt text: Security Center homepage
 
 ## Instance summary
 
@@ -24,15 +24,15 @@ The instance summary displays a high-level overview of the state of your instanc
 
 ## My Security Tasks
 
-The my [[security-task-manager|Security Tasks]] section displays a list of Security Tasks assigned to you. Open a task by selecting the number to review a tasks details, or select **View all** access the Security Tasks Manager, where all tasks are visible. For more information on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+The my Security Tasks section displays a list of Security Tasks assigned to you. Open a task by selecting the number to review a tasks details, or select **View all** access the Security Tasks Manager, where all tasks are visible. For more information on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 ## Posture
 
-Use information in the Posture section to set and maintain the best security posture with an instance-wide dashboard and guided [[best-practices|Best Practices]]. Select **Best Practices** or **[[scc-sec-posture-dashboard|Security posture dashboards]]** to navigate to those sections within the **[[sc-posture-console|Security posture console]]**. Learn more about these sections in [Security posture console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-posture-console.md).
+Use information in the Posture section to set and maintain the best security posture with an instance-wide dashboard and guided Best Practices. Select **Best Practices** or **Security posture dashboards** to navigate to those sections within the **Security posture console**. Learn more about these sections in [Security posture console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-posture-console.md).
 
 ## Access management
 
-View access issues and misconfiguration on your instance. You can information about [[access-findings|access findings]] and evaluate permissions for [[users|users]], roles, and groups. You can also review additional resources to learn about user administration on ServiceNow instances. To learn more, see [Explore Access management console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-controls-console.md).
+View access issues and misconfiguration on your instance. You can information about access findings and evaluate permissions for users, roles, and groups. You can also review additional resources to learn about user administration on ServiceNow instances. To learn more, see [Explore Access management console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-controls-console.md).
 
 ## Machine identity
 
@@ -40,11 +40,11 @@ Manage service accounts and third-party integrations. To learn more, see [Machin
 
 ## Other configuration tools
 
-Use the content in this section to customize your security protections with tools that meet your organization's unique security [[sc-configuration|configuration]] needs. Select **[[hardening-score-comparison|Hardening score comparison]]**, **[[critical-updates|Customer actions]]**, or **[[sc-scanning|Security scanner]]** to navigate to those sections within the **[[homepage|Security configuration console]]**. Learn more about this console and these sections at [Security configuration console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md).
+Use the content in this section to customize your security protections with tools that meet your organization's unique security configuration needs. Select **Hardening score comparison**, **Customer actions**, or **Security scanner** to navigate to those sections within the **Security configuration console**. Learn more about this console and these sections at [Security configuration console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md).
 
 ## Monitoring
 
-Monitor and detect potential security threats on your instance using the **[[sc-monitor-console|Security Monitoring console]]**. Within this console are sections for **[[security-policies|Security event notifications]]** and **[[sc-metrics|Security metrics]]** where you can configure thresholds or security event notifications. For details see [Security monitoring console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-monitor-console.md).
+Monitor and detect potential security threats on your instance using the **Security Monitoring console**. Within this console are sections for **Security event notifications** and **Security metrics** where you can configure thresholds or security event notifications. For details see [Security monitoring console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-monitor-console.md).
 
 ## Additional resources
 
@@ -54,21 +54,3 @@ Security center has been updated to provide guidance to understand what the tool
 
 **Parent Topic:**[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 
-## Related
-
-- [[platsec-landing|Secure your instance]]
-- [[sec-center-v2|Security Center]]
-- [[security-task-manager|Security Tasks]]
-- [[best-practices|Best Practices]]
-- [[scc-sec-posture-dashboard|Security posture dashboards]]
-- [[sc-posture-console|Security posture console]]
-- [[access-findings|Access findings]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[hardening-score-comparison|Hardening score comparison]]
-- [[critical-updates|Customer Actions]]
-- [[sc-scanning|Security scanner]]
-- [[homepage|Security configuration console]]
-- [[sc-monitor-console|Security monitoring console]]
-- [[security-policies|Security Event Notifications]]
-- [[sc-metrics|Security metrics]]

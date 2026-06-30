@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Service Portal** &gt; **Menus**.
 
-2.  Locate the menu used in the [[employee-center-landing-page|Employee Center]] portal and click the link in the **Updated** column.
+2.  Locate the menu used in the Employee Center portal and click the link in the **Updated** column.
 
 3.  Scroll to the Related Links table and locate the News Center menu item.
 
@@ -32,6 +32,4 @@ Role required: admin
 
     The News and Events menu option no longer appears in the primary navigation menu.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

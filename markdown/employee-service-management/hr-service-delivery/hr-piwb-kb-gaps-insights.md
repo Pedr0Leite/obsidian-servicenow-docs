@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench implementation, HR Predictive 
 
 # HR PIWB template: Predict knowledge gaps and insights
 
-Use the classic template that walks you through setting up a machine [[exploring-learning-exp|learning]] model to automate the discovery of knowledge gaps and recommend insights into improving knowledge by demand.
+Use the classic template that walks you through setting up a machine learning model to automate the discovery of knowledge gaps and recommend insights into improving knowledge by demand.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ When the configuration is complete, machine learning algorithm provides various 
 
 ## What to do next
 
-You can verify the integration status from **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
+You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
 **Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-implementation-guidance.md)
 
@@ -61,7 +61,3 @@ You can verify the integration status from **[[c_AdministerHRServiceManagement|H
 
 [Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-predictive-intelligence.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

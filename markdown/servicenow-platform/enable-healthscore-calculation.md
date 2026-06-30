@@ -13,7 +13,7 @@ breadcrumb: [Configuring Knowledge Center, Knowledge Center, Manage content capa
 
 # Enable article health score calculation
 
-Activate [[healthscore-metrics|article health score]] calculation so [[knowledge-management|Knowledge Management]] assesses and displays quality scores for knowledge articles. Enabling this property activates the health score calculation engine, without which health scores aren't computed or displayed for knowledge articles.
+Activate article health score calculation so Knowledge Management assesses and displays quality scores for knowledge articles. Enabling this property activates the health score calculation engine, without which health scores aren't computed or displayed for knowledge articles.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Knowledge** &gt; **Administration** &gt; **Properties**.
 
-2.  In the **[[knowledge-center|Knowledge Center]] Properties** section, select the **Enable Article Health Score calculation for Knowledge Management**.
+2.  In the **Knowledge Center Properties** section, select the **Enable Article Health Score calculation for Knowledge Management**.
 
 3.  Select **Save**.
 
@@ -31,11 +31,5 @@ Role required: admin
 **Related topics**  
 
 
-[[knowledge-health-score|Knowledge Health score]]
+[Knowledge Health score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-health-score.md)
 
-## Related
-
-- [[knowledge-health-score|Knowledge Health score]]
-- [[healthscore-metrics|Article health score]]
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-center|Knowledge Center]]

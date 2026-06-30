@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create an equipment model
 
-Create an equipment model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application as the first requirement for setting up the process to generate your network asset instances. You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use.
+Create an equipment model in the Telecommunications Network Inventory application as the first requirement for setting up the process to generate your network asset instances. You create an equipment model record every time a vendor or original equipment manufacturer \(OEM\) introduces new equipment for your use.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ An equipment model represents the metadata that is provided by a vendor or manuf
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Equipment Models**.
 
@@ -103,7 +103,3 @@ Name of the equipment model. The ServiceNow AI Platform uses this name to identi
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

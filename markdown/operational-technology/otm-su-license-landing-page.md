@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology]
 
 # Operational Technology Management licensing and subscriptions
 
-ServiceNow® OTM licensing is a crucial aspect of [[operational-technology-overview|Operational Technology]] Management as it calculates and presents the usage of OTM subscriptions based on subscription units, which could encompass factors like the number of devices monitored or the duration of the subscription.
+ServiceNow® OTM licensing is a crucial aspect of Operational Technology Management as it calculates and presents the usage of OTM subscriptions based on subscription units, which could encompass factors like the number of devices monitored or the duration of the subscription.
 
 ## Operational Technology Management licensing and subscriptions overview
 
@@ -37,6 +37,3 @@ This enables organizations to ensure compliance, allocate resources effectively,
 
 [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

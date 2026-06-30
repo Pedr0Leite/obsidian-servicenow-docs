@@ -22,9 +22,9 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
-2.  Create a case under the [[c_AdministerHRServiceManagement|HR Administration]] Workforce category.
+2.  Create a case under the HR Administration Workforce category.
 
 3.  For the **Verification of Employment service** HR service, fill in the **Document template category**, **Document template**, and **Subject person** fields.
 
@@ -45,8 +45,3 @@ Role required: sn\_hr\_core.case\_writer
 
 **Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

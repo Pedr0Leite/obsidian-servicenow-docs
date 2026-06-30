@@ -26,7 +26,7 @@ This page provides the basic structure for a GDS-conforming user profile page th
 
 -   User Profile portal widget, which displays profile photo, name, contact details, and other user profile information.
 
-    **Note:** You can use this base system widget as-is on the User Profile portal page, modify the widget instance \(which makes changes on this page **only**\), or clone it to make modifications across multiple pages that suit your own business needs. For more information on how to clone widgets and use widget instances, see [[psds-config-govuk-dev-tk-portal-widgets|Configure the GOV.UK Design System Service Portal Widgets]].
+    **Note:** You can use this base system widget as-is on the User Profile portal page, modify the widget instance \(which makes changes on this page **only**\), or clone it to make modifications across multiple pages that suit your own business needs. For more information on how to clone widgets and use widget instances, see [Configure the GOV.UK Design System Service Portal Widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets.md).
 
 -   Footer Widget, which displays support links, other resources, and legal disclaimers.
 
@@ -35,11 +35,7 @@ This page provides the basic structure for a GDS-conforming user profile page th
 
 .
 
-For more information on how to edit widgets that appear on a page in the Service Portal Designer, see [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]. For more information on portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md).
+For more information on how to edit widgets that appear on a page in the Service Portal Designer, see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md). For more information on portal pages, see [Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureAPage.md).
 
 **Parent Topic:**[Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md)
 
-## Related
-
-- [[psds-config-govuk-dev-tk-portal-widgets|Configure the GOV.UK Design System Service Portal Widgets]]
-- [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]

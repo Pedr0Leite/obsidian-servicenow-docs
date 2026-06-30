@@ -12,9 +12,9 @@ breadcrumb: [Platform Health, Using Impact, Impact]
 
 # Impact Developer Support
 
-Developer Support is an offering to Advanced and Total [[impact-packages1|Impact packages]], and Guided customers who purchase managed support, that provides administrators and authorized users access to a ServiceNow Support Engineer who can assist in troubleshooting technical issues around existing platform customizations.
+Developer Support is an offering to Advanced and Total Impact packages, and Guided customers who purchase managed support, that provides administrators and authorized users access to a ServiceNow Support Engineer who can assist in troubleshooting technical issues around existing platform customizations.
 
-Many ServiceNow customers operate custom code and configurations. When these customizations break, Developer Support is there to [[io-help|help]] troubleshoot and debug these customizations.
+Many ServiceNow customers operate custom code and configurations. When these customizations break, Developer Support is there to help troubleshoot and debug these customizations.
 
 Named individuals may be designated who have been trained to administer the Subscription Service to request assistance from ServiceNow support engineers in troubleshooting technical issues with existing customizations on the ServiceNow platform.
 
@@ -38,11 +38,11 @@ Delivered by
 
 </th></tr></thead><tbody><tr><td>
 
-[[design-review|Design review]]
+Design review
 
 </td><td>
 
-1.  Help me with a design review for manageability, [[instance-observer-performance|performance]], and upgradability
+1.  Help me with a design review for manageability, performance, and upgradability
 2.  Help to determine what is the right base system tool to use for my given objective
 3.  Help me plan the right architecture
 
@@ -98,9 +98,3 @@ Developer Support
         -   Scripts to retrieve content from external sources
         -   Integrations that are not possible due to ServiceNow API limitations
 
-## Related
-
-- [[impact-packages1|Impact Packages]]
-- [[io-help|Help]]
-- [[design-review|Design Review]]
-- [[instance-observer-performance|Performance]]

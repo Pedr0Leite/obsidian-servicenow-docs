@@ -12,7 +12,7 @@ breadcrumb: [Targeted communications, Configure case management, Case management
 
 # Targeted Communications publication workflows
 
-The [[c_TargetedCommunications|Targeted Communications]] application \(com.sn\_publications\) includes default workflows that are used for publishing articles.
+The Targeted Communications application \(com.sn\_publications\) includes default workflows that are used for publishing articles.
 
 The application includes two publishing workflows:
 
@@ -113,7 +113,7 @@ The logic checks if the legacy workflows or the sn\_publications\_workflow\_conf
 
 </td><td>
 
--   Legacy business [[gamification-components-rules|rules]] for starting the old publication workflow are activated.
+-   Legacy business rules for starting the old publication workflow are activated.
 -   New business rules related to new flows are deactivated.
 
 </td></tr><tr><td>
@@ -215,7 +215,3 @@ The upgrade to Zurich adds the following columns to the Workflow Config \[sn\_pu
 -   **Workflow** \(legacy workflow field\)
 -   **Approvers**
 
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]
-- [[gamification-components-rules|Rules]]

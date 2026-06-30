@@ -16,7 +16,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Decrease the likelihood of a brute force attack by minimizing failed login attempts for high assurance sessions.
 
-Use the **glide.zta.high\_assurance.session.max.login.failed\_attempts** system property to limit the number of failed [[c_Authentication|authentication]] attempts allowed before [[users|users]] are logged out when re-authenticating through Continuous Authentication.
+Use the **glide.zta.high\_assurance.session.max.login.failed\_attempts** system property to limit the number of failed authentication attempts allowed before users are logged out when re-authenticating through Continuous Authentication.
 
 Set the value of this system property to a low value \(such as 5\) to decrease the likelihood of a brute force attack.
 
@@ -24,7 +24,7 @@ Set the value of this system property to a low value \(such as 5\) to decrease t
 
 |Attribute|Description|
 |---------|-----------|
-|Technical [[sc-configuration|configuration]] name|glide.zta.high\_assurance.session.max.login.failed\_attempts|
+|Technical configuration name|glide.zta.high\_assurance.session.max.login.failed\_attempts|
 |Plugin applicability|Zero Trust - Continuous Authentication \(com.snc.zero\_trust\_continuous\_authentication\)|
 |Security risk|A high number of allowed authentication attempts increases the likelihood of a brute force attack.|
 |Common Vulnerability Scoring System \(CVSS\) score|3.3|
@@ -40,8 +40,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

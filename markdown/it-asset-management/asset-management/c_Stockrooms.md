@@ -16,9 +16,9 @@ breadcrumb: [Use, Asset Management, IT Asset Management]
 
 Stockrooms are places to which assets are assigned.
 
-When stock is low on a particular asset, [[c_StockRules|stock rules]] can either notify an asset manager or automatically transfer inventory from one stockroom to another.
+When stock is low on a particular asset, stock rules can either notify an asset manager or automatically transfer inventory from one stockroom to another.
 
-Stockrooms are separate, standalone entities in the [[am-landing-page|Asset Management]] application.
+Stockrooms are separate, standalone entities in the Asset Management application.
 
 -   **[Stock rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_StockRules.md)**  
 Stock rules are defined criteria stating that when the inventory of a particular asset in a particular stockroom reaches a specified threshold, a certain number should either be transferred from another stockroom or ordered from a vendor.
@@ -44,7 +44,3 @@ Stock rules are defined criteria stating that when the inventory of a particular
 
 [Use Organization Management]()
 
-## Related
-
-- [[c_StockRules|Stock rules]]
-- [[am-landing-page|Asset Management]]

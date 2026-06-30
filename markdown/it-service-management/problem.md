@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics KPIs and dashboards, Platform Analytics ITSM Das
 
 # Problem dashboard
 
-Dashboard providing a view into [[c_ProblemManagement|Problem Management]] related metrics for Open and Closed Problem records.
+Dashboard providing a view into Problem Management related metrics for Open and Closed Problem records.
 
 KPIs for Problem.
 
@@ -26,6 +26,3 @@ KPIs for Problem.
 |Closed problems \(by age and priority\)|Closed problems by age and priority.|Number of closed problems|
 |Mean time to close a problem|Average time taken to close a problem.|Average close time of problems|
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

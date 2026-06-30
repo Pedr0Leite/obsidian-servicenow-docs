@@ -24,7 +24,7 @@ The **ValidateTransitionIn** validator finds activities that do not have inbound
 -   **Valid Result:**Valid.
 -   **Valid Message:** All activities in this workflow have at least one inbound transition.
 -   **Invalid Result:** Invalid.
--   **Invalid Message:**This workflow contains &lt;activity count&gt; [[conditions|activity conditions]] without an input transition.
+-   **Invalid Message:**This workflow contains &lt;activity count&gt; activity conditions without an input transition.
 -   **Suggested Action:**Either remove the activities to reduce confusion and make the workflow easier to understand or provide the appropriate inbound transition.
 -   **Publishable:**Yes
 -   **Runnable:**Yes
@@ -42,6 +42,3 @@ This validator directs the designer to the specific activity and condition that 
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[conditions|Activity conditions]]

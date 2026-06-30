@@ -20,16 +20,16 @@ Review the base system configurations for integration of legal requests with uni
 
 Ensure that you've the following plugins activated and apps installed:
 
--   [[ur-landing-limitedaccess|Universal Request]] plugin \(com.snc.universal\_request\)
--   [[legal-request-management-landing-page|Legal Request Management]] version 6.1
+-   Universal Request plugin \(com.snc.universal\_request\)
+-   Legal Request Management version 6.1
 
-You can also [[activate-ec|install Employee Center]] to provide employees to submit requests.
+You can also install Employee Center to provide employees to submit requests.
 
 Role required: admin
 
 ## About this task
 
-Legal Request Management version 6.1 installs the service set, service set assignment group, [[configure-route-state|transfer configuration]], and state mappings required for the legal requests to work with the universal requests.
+Legal Request Management version 6.1 installs the service set, service set assignment group, transfer configuration, and state mappings required for the legal requests to work with the universal requests.
 
 ## Procedure
 
@@ -69,7 +69,7 @@ Register your service name for your service specific table and associate it with
 
 </td><td>
 
-The mapping configuration enables you to configure a target table from the service set \(department\) and then [[map-fields-navex|map fields]] from the target table and Universal Request table to create and transfer department-level tickets.For more information, see [Configure mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md).
+The mapping configuration enables you to configure a target table from the service set \(department\) and then map fields from the target table and Universal Request table to create and transfer department-level tickets.For more information, see [Configure mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md).
 
  You can update the `LegalUniversalRequest` script include to map additional legal request and universal request fields in addition to the default mapped fields.
 
@@ -104,7 +104,7 @@ The transfer configuration helps you to set the mandatory field updates, transfe
 </td></tr></tbody>
 </table>3.  Add users to the **Legal Routing Group** service set assignment group.
 
-    **Legal Routing Group** is the base system assignment group with the required roles added. Users in the assignment group will act as the routing agent, triaging the universal request and creating of legal requests to [[apn-config-getsupport|get support]] from the Legal department.
+    **Legal Routing Group** is the base system assignment group with the required roles added. Users in the assignment group will act as the routing agent, triaging the universal request and creating of legal requests to get support from the Legal department.
 
 4.  Select the **Enable Legal Request creation From Universal Request** option from the **Options** field of an intake form in a practice area.
 
@@ -113,11 +113,3 @@ The transfer configuration helps you to set the mandatory field updates, transfe
 
 **Parent Topic:**[Universal Request for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/universal-requests-legal.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[activate-ec|Install Employee Center]]
-- [[configure-route-state|Transfer configuration]]
-- [[map-fields-navex|Map fields]]
-- [[apn-config-getsupport|Get support]]

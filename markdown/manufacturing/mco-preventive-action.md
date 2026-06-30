@@ -20,30 +20,23 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **List** &gt; **[[mco-PQI-use|Product Quality Investigation]]** &gt; **Preventive Action**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **List** &gt; **Product Quality Investigation** &gt; **Preventive Action**.
 
 2.  Select **New**.
 
 3.  On the Preventive Action form, fill in the fields.
 
-    For a description of the field values, see [[mco-preventive-action-form|Preventive action form]].
+    For a description of the field values, see [Preventive action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-preventive-action-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-related-list-for-pqi|Related list for quality issues]]
+**Parent Topic:**[Related list for quality issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-pqi.md)
 
 **Related topics**  
 
 
-[[mco-copq-expense-line|Create a CoPQ expense line]]
+[Create a CoPQ expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md)
 
-[[mco-impacted-asset-action|Impacted asset action]]
+[Impacted asset action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md)
 
-## Related
-
-- [[mco-preventive-action-form|Preventive action form]]
-- [[mco-related-list-for-pqi|Related list for quality issues]]
-- [[mco-copq-expense-line|Create a CoPQ expense line]]
-- [[mco-impacted-asset-action|Impacted asset action]]
-- [[mco-PQI-use|Product quality investigation]]

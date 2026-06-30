@@ -18,7 +18,7 @@ If you determine that a security incident requires a higher level of analysis, a
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use Security Case Management.
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_si.admin, sn\_ti.case\_user\_write
 
@@ -56,9 +56,5 @@ Role required: sn\_si.admin, sn\_ti.case\_user\_write
 **Related topics**  
 
 
-[[case-mgmt|Security Case Management]]
+[Security Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-mgmt.md)
 
-## Related
-
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]

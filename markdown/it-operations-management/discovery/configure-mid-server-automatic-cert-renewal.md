@@ -14,7 +14,7 @@ breadcrumb: [Configuring automated certificate renewal, Automated certificate re
 
 # Configure the MID Server for automatic certificate renewal
 
-Collect information about root certificates stored outside your server. Create a specialized [[r-discovery|Discovery]] schedule.
+Collect information about root certificates stored outside your server. Create a specialized Discovery schedule.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: pki\_admin or admin
 
 Configure your MID Server to renew certificates automatically by setting the configuration parameters in your MID Server.
 
-For information about version compatibility and troubleshooting, see the [Renewal of TLS certificates using AI Agents for Discovery](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB2470998) knowledge article \[KB2470998\] in the Now Support Knowledge Base. The [[cert-inventory-mgmt|Certificate Inventory and Management]] on Yokohama Patch 8 or later supports the certificate renewal agent.
+For information about version compatibility and troubleshooting, see the [Renewal of TLS certificates using AI Agents for Discovery](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB2470998) knowledge article \[KB2470998\] in the Now Support Knowledge Base. The Certificate Inventory and Management on Yokohama Patch 8 or later supports the certificate renewal agent.
 
 ## Procedure
 
@@ -85,7 +85,3 @@ Your MID Server is configured for automatic certificate renewal.
 
 To complete the process of configuring yourself for automatic certificate renewal, you must complete the required steps to [Add the required applications and capabilities to your MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-req-apps-capabilities-to-mid-server.md) and [Configure System Properties for automatic certificate renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/config-sys-props-for-auto-cert-renewal.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

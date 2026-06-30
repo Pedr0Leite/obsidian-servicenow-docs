@@ -28,7 +28,7 @@ An operational schedule record is stored in the Asset schedule \[sn\_itam\_commo
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations** &gt; **KPI configuration**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations** &gt; **KPI configuration**.
 
 2.  From the KPI configuration list, select **Operational schedules**.
 
@@ -106,6 +106,3 @@ Description of the operational schedule.
 
 [Map hardware assets to an operational schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-schedule-ham.md).
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

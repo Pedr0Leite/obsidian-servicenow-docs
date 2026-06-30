@@ -62,9 +62,9 @@ App type
 
 Select either Now Mobile or Mobile Agent.
 
- For more information about these mobile apps, see [[now-mobile-app|Now Mobile app]] or [[mobile-experience|Mobile Agent app]] documentation.
+ For more information about these mobile apps, see [Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/now-mobile-app.md) or [Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-experience.md) documentation.
 
- In the Washington DC release and later, select customers can use custom app types. For more information, see [[mob-pub-about-custom-apps|Create custom-type mobile apps with Mobile Publishing]].
+ In the Washington DC release and later, select customers can use custom app types. For more information, see [Create custom-type mobile apps with Mobile Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mob-pub-about-custom-apps.md).
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Long name
 
 </td><td>
 
-Unique name for your app. The name can't exceed 30 characters and must be unique. This name displays for your app when asking for device permissions such as location or [[sg-mobile-security-push-notif|push notifications]].
+Unique name for your app. The name can't exceed 30 characters and must be unique. This name displays for your app when asking for device permissions such as location or push notifications.
 
 </td></tr><tr><td>
 
@@ -129,7 +129,7 @@ Mobile Application Management \(MAM\)
 
 </td><td>
 
-Whether you want to use a MAM vendor with your apps. For more information, see [[sg-mam|Mobile application management \(MAM\) integration]].
+Whether you want to use a MAM vendor with your apps. For more information, see [Mobile application management \(MAM\) integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mam.md).
 
  To enable a MAM vendor, select the **Use Mobile Application Management** toggle.
 
@@ -163,7 +163,7 @@ EULA
 
 </td><td>
 
-URL where app users can view your custom end user license agreement from the [[manager-user-settings|mobile app settings]]. This option only displays when you do not select to use the default ServiceNow EULA.
+URL where app users can view your custom end user license agreement from the mobile app settings. This option only displays when you do not select to use the default ServiceNow EULA.
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ URL where app users can view your custom privacy policy from the mobile app sett
 
 </td></tr><tr><td>
 
-iOS Universal links**Note:** If you selected **iOS and Android** for your **Operating System** in the **Add basic info** form, this configuration section is named **Deep links and Universal links**. For more information about deep links, see [[deep-link-mobile|Deep linking for mobile]].
+iOS Universal links**Note:** If you selected **iOS and Android** for your **Operating System** in the **Add basic info** form, this configuration section is named **Deep links and Universal links**. For more information about deep links, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 
 </td><td>
 
@@ -187,7 +187,7 @@ This table shows all ServiceNow instances used for your organization that can be
 
 -   This functionality can only be edited when you submit a new branded app request or when you update a branded app.
 -   You must download the Apple App Site Association \(AASA\) JSON file after you submit this request and install the file on all instances in the URL list.
-To learn more about mobile deep links and universal links, see [[mobile-urls|Mobile URLs]].
+To learn more about mobile deep links and universal links, see [Mobile URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-urls.md).
 
 </td></tr><tr><td colspan="2">
 
@@ -204,7 +204,7 @@ Turn on this toggle to build an instance URL into your branded app so end-users 
  **Note:**
 
 -   This instance URL can only be added when you submit a new branded app request or when you update a branded app.
--   Do not select this option if you are using AppConfig to pre-configure a default instance URL through an EMM suite or an embedded MAM SDK app. For more information, see [[appconfig|AppConfig for Mobile Apps]].
+-   Do not select this option if you are using AppConfig to pre-configure a default instance URL through an EMM suite or an embedded MAM SDK app. For more information, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/appconfig.md).
 
 
 </td></tr><tr><td>
@@ -334,7 +334,7 @@ Universal links enable users to follow links to content inside your app. The dis
 </td></tr></tbody>
 </table>8.  Select **Next**.
 
-9.  If you selected **iOS and Android** in the **Operating System** field on the **Add basic info** form in Step 3 above, see Step 8 in [[request-private-branded-android-app|Request a new branded Android app for private distribution]] for information about filling out the **Set up for Android form**.
+9.  If you selected **iOS and Android** in the **Operating System** field on the **Add basic info** form in Step 3 above, see Step 8 in [Request a new branded Android app for private distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-private-branded-android-app.md) for information about filling out the **Set up for Android form**.
 
     After you complete the optional Android configuration, return to Step 10 in this topic to complete your request for a private branded iOS app.
 
@@ -363,18 +363,5 @@ When it completes, you receive an email notification about the status of the bui
 
 **Note:** For private branded iOS apps that are managed by Microsoft Intune, you must get your Microsoft Entra ID administrator's consent. This can be done at any point during the build process, but must be done before distribution. For more information, see [Microsoft Entra ID App Registration Mandate for iOS Intune Mobile App - Mobile Publishing \(KB1640759\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1640759). \(You must have an account and log in to view this ServiceNow KB.\)
 
-After the build successfully completes and your app is ready for testing, see [[testpubnu-iosapp-privdist|Test and publish a new branded iOS app for private distribution]].
+After the build successfully completes and your app is ready for testing, see [Test and publish a new branded iOS app for private distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/testpubnu-iosapp-privdist.md).
 
-## Related
-
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-experience|Mobile Agent app]]
-- [[mob-pub-about-custom-apps|Create custom-type mobile apps with Mobile Publishing]]
-- [[sg-mam|Mobile application management \(MAM\) integration]]
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[mobile-urls|Mobile URLs]]
-- [[appconfig|AppConfig for Mobile Apps]]
-- [[request-private-branded-android-app|request private branded android app]]
-- [[testpubnu-iosapp-privdist|testpubnu iosapp privdist]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[manager-user-settings|Mobile app settings]]

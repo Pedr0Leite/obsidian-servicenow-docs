@@ -14,7 +14,7 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Storage discovery
 
-[[r-discovery|Discovery]] collects information on Direct Attached Storage \(DAS\), Storage Area Networks \(SAN\), and Network Attached Storage \(NAS\).
+Discovery collects information on Direct Attached Storage \(DAS\), Storage Area Networks \(SAN\), and Network Attached Storage \(NAS\).
 
 Storage can be located on specialized devices, such as Storage Arrays, Fibre Channel Switches, iSCSI disks, or on host operating systems, including Windows, Linux, and Solaris.
 
@@ -96,7 +96,7 @@ Discovery can explore storage devices that contain a Storage Management Initiati
 -   **[Data collected for Veritas Volume Manager on Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoVVMLinux.md)**  
 Discovery collects disk and volume information for Veritas Volume Manager \(VxVM\) on Linux hosts and maps file systems mounted on Veritas volumes to the upstream storage provider.
 -   **[NetApp Server and Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/netapp-discovery.md)**  
-Discovery and [[c_ServiceMappingOverview|Service Mapping]] find NetApp servers and clusters using patterns. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping find NetApp servers and clusters using patterns. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Manage large storage payloads in Linux and Solaris](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/manage-lg-payloads-linux-solaris.md)**  
 Large payloads for Linux and Solaris direct attached storage can cause out of memory errors if not configured to serialize the processing of the payload.
 -   **[Storage discovery examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/storage-discovery-examples.md)**  
@@ -104,7 +104,3 @@ Discovery creates configuration items \(CI\) and CI relationships for physical a
 
 **Parent Topic:**[Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-by-itom-visibility.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -22,7 +22,7 @@ In the Visualization Designer, your report sources are available when you filter
 
 A report source always consists of a table and a number of conditions. When you create a new report, you can either use a report source or select a table. Some examples of report sources are open incidents, closed problems, and so on.
 
-Use the option to [[t_CreateYourOwnReport|create a report]] source based on the conditions of an existing report, or see the following steps for creating a source based on new conditions you add.
+Use the option to create a report source based on the conditions of an existing report, or see the following steps for creating a source based on new conditions you add.
 
 For more tips on using report sources, see [How to save time with Report Sources](https://community.servicenow.com/community?id=community_article&sys_id=2aed2beddbd377404819fb243996193f).
 
@@ -90,7 +90,7 @@ Filter
 
 Conditions for which table records to include in the report source. For example, to include open incidents, select **\[State\] \[is\] \[Active\]** for the Incident table.**Note:**
 
-Sorting on data fields is accessible from within reports for some [[report-types-creation-details-rd|report types]]. For information on how to access, search for the **Add Sort** field description in a [Report types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) topic for the report type to sort the data on.
+Sorting on data fields is accessible from within reports for some report types. For information on how to access, search for the **Add Sort** field description in a [Report types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) topic for the report type to sort the data on.
 
 -   If the report source is used for a report that includes OR conditions, only records that match both the report and the report source conditions are included.
 -   If a report source specifies a related list condition, a report that is based on the report source ignores any additional related list conditions specified from within the report.
@@ -109,7 +109,3 @@ Use the report source to create a report.
 
 **Note:** While a report source is used by active reports, you can’t delete it.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]
-- [[report-types-creation-details-rd|Report types]]

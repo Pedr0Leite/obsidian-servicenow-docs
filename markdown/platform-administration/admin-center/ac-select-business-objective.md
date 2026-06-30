@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **[[ac-achieve-business-objective|Adoption Blueprints]]**.
+1.  Navigate to **All** &gt; **Admin Center** &gt; **Adoption Blueprints**.
 2.  Select one of the Adoption Blueprints that can be implemented to work towards your organizational business goal.
 
 
@@ -89,7 +89,3 @@ Select this adoption blueprint to increase the effectiveness and efficiency of y
 
 **Parent Topic:**[Adoption blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-achieve-business-objective.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[ac-achieve-business-objective|Adoption blueprints]]

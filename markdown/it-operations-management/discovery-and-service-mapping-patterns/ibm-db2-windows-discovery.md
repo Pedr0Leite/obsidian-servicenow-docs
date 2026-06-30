@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # IBM Db2 on Windows database discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Db2 on [[r_DataCollDiscoWindowsComputers|Windows discovery]] pattern to find IBM Db2 instances on Windows servers.
+ServiceNow Discovery uses the Db2 on Windows discovery pattern to find IBM Db2 instances on Windows servers.
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -41,7 +41,7 @@ The discovered data includes the following tables and fields.
 |db\_name|Name of the database.|
 |pid|Process ID of the Db2 instance.|
 
-The [[dependency-views-map|Dependency Views map]] shows all discovered IBM Db2 instances in your organization and the relationships between them.
+The Dependency Views map shows all discovered IBM Db2 instances in your organization and the relationships between them.
 
 \[Omitted image "IBM-Db2-Windows-dependency.png"\] Alt text: IBM Db2 Windows Dependency view
 
@@ -51,8 +51,3 @@ The IBM Db2 on Windows pattern does not create any CI relationships.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoWindowsComputers|Windows discovery]]
-- [[dependency-views-map|Dependency Views map]]

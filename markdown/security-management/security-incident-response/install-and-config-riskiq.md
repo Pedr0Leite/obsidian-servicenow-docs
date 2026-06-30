@@ -14,7 +14,7 @@ breadcrumb: [RISKIQ and WHOISIQ integration, Security Incident Response integrat
 
 # Install and configure RISKIQ and WHOISIQ
 
-Before you run the integration on your instance, complete the installation and configuration steps so the RISKIQ and WHOISIQ applications properly [[integrating-threat-intelligence-security-center|integrate]] with ServiceNow AI Platform [[security-operations-landing-page|Security Operations]].
+Before you run the integration on your instance, complete the installation and configuration steps so the RISKIQ and WHOISIQ applications properly integrate with ServiceNow AI Platform Security Operations.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Verify that the ServiceNow core applications that are required to support the in
 
 Madrid and later release requirements
 
- For the Madrid release and later family releases, the [[sir-landing-page|Security Incident Response]] Dependency plugin \(com.snc.si\_dep\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other Security Operations applications required by the integration.
+ For the Madrid release and later family releases, the Security Incident Response Dependency plugin \(com.snc.si\_dep\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other Security Operations applications required by the integration.
 
  Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
 
@@ -65,12 +65,12 @@ Madrid and later release requirements
 3.  Security Support Common
 4.  Security Support Orchestration
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>## Procedure
 
-1.  If you have not installed the application for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 2.  Once the installation completes, navigate to **Security Operations** &gt; **Integrations** &gt; **Integrations Configurations** and locate the API tile.
 
@@ -99,11 +99,3 @@ If an error message is displayed, the Username or API key may be invalid. Verify
 
 **Next topic:**[Verify expected results for RISKIQ SSL certificate lookups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-for-riskiq.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

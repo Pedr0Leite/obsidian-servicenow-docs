@@ -14,7 +14,7 @@ breadcrumb: [Career Conversations reference, Career Conversations, Growth Experi
 
 # Components installed with Career Conversations
 
-Several types of components install with [[egd-activities-conversations-module|Career Conversations]], including roles and tables.
+Several types of components install with Career Conversations, including roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -40,6 +40,3 @@ Tables are used to track and maintain relationships among different ServiceNow a
 
 **Parent Topic:**[Career Conversations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-reference.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

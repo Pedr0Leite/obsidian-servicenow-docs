@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Request a knowledge base
 
-If existing knowledge bases do not fit your needs, you can request a new knowledge base through the [[service-catalog|service catalog]]. If the request is approved, you are added as the owner of the new knowledge base.
+If existing knowledge bases do not fit your needs, you can request a new knowledge base through the service catalog. If the request is approved, you are added as the owner of the new knowledge base.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If no knowledge base exists that fit your needs, all users can request a new kno
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Service Catalog**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Service Catalog**.
 
 2.  Select **Can We Help You?**.
 
@@ -54,7 +54,3 @@ Knowledge bases created through this request process are inactive by default, so
 
 [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]

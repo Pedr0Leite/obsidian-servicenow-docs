@@ -40,18 +40,11 @@ The ServiceNow® Resource Management Workspace helps Resource Managers have a ce
 -   **[Exploring Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/explore-rmw.md)**  
 Learn about the features, functionalities, and business value that the Resource Management Workspace provides.
 -   **[Configure Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/configure-rmw.md)**  
-Install and [[configure-rmw|configure Resource Management Workspace]] to manage efforts and allocations of your resources.
+Install and configure Resource Management Workspace to manage efforts and allocations of your resources.
 -   **[Use resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/use-resource-assignment.md)**  
-The Resource Management Workspace is presented as a new approach to assigning resources to outcomes. Resource Management Workspace integrates with [[project-workspace-landing-page|Project Workspace]], [[alignment-planner-workspace-landing-page|Strategic Planning]], and [[portfolio-planning-app-landing-page|Portfolio Planning]] enabling the portfolio stakeholders to [[create-rsrc-asgnmnts-ppm|create resource assignments]] for their work.
+The Resource Management Workspace is presented as a new approach to assigning resources to outcomes. Resource Management Workspace integrates with Project Workspace, Strategic Planning, and Portfolio Planning enabling the portfolio stakeholders to create resource assignments for their work.
 -   **[Resource Management Workspace references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rmw-references.md)**  
 Reference fields and form details for Resource Management Workspace.
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[configure-rmw|Configure Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]

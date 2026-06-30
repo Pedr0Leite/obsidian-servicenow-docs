@@ -30,7 +30,7 @@ In the list view, you should see the URL hostname that you specified when settin
 
 \[Omitted image "mission-secure-outbound-log.png"\] Alt text: Review the URL hostname that you specified when setting up the connection parameters
 
-By default, the log level is set to Basic, so you can’t see the response body or quest body, but the response status indicates the issue. For example, a 401 in the Response status indicates an unauthorized request. To resolve the issue, navigate to the connection and verify that you have the correct Client ID and Client Secret entered for the connection. For more information, see [[install-sgc-ot-discovery|Install the Service Graph Connector for ServiceNow Operational Technology Discovery]].
+By default, the log level is set to Basic, so you can’t see the response body or quest body, but the response status indicates the issue. For example, a 401 in the Response status indicates an unauthorized request. To resolve the issue, navigate to the connection and verify that you have the correct Client ID and Client Secret entered for the connection. For more information, see [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/install-sgc-ot-discovery.md).
 
 ## Additional diagnosis
 
@@ -46,6 +46,3 @@ If you encounter a response status of 401, it’s typically an issue with your c
 
 If you encounter any issues with the flattening of the Asset or missing data from the API, you can run a test load and validate the flattened data from the Staging table. Then compare it with the **api\_data** to see if the data was provided from the API.
 
-## Related
-
-- [[install-sgc-ot-discovery|Install the Service Graph Connector for ServiceNow Operational Technology Discovery]]

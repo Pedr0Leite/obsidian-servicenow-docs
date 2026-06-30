@@ -32,7 +32,7 @@ Role required: sn\_matrix\_report.admin
 
 5.  Select **Submit**.
 
-    The Matrix report registry is created and appears in a [[list-view-uib-ws|list view]].
+    The Matrix report registry is created and appears in a list view.
 
 6.  Select the Matrix report registry that you created.
 
@@ -57,6 +57,3 @@ After the matrix relationship is complete, you can [Configure target table field
 
 **Parent Topic:**[Matrix report in Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/matrix-report-in-risk-workspace.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]

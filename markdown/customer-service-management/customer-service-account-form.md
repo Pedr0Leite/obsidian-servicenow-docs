@@ -12,9 +12,9 @@ breadcrumb: [Customer Service forms, Reference, Customer Service Management]
 
 # Account form
 
-The [[c_CustomerServiceManagement|Customer Service Management]] application uses the Account form to store customer account information.
+The Customer Service Management application uses the Account form to store customer account information.
 
-For information about creating a customer account, see [[configure-csm-accounts-contacts|Configure accounts and contacts]].
+For information about creating a customer account, see [Configure accounts and contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-accounts-contacts.md).
 
 <table id="table_fyv_dtr_bs"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Parent Account
 
 </td><td>
 
-The parent account for this account. Use this field to create an [[c_AccountHierarchy|Account hierarchy]].
+The parent account for this account. Use this field to create an [Account hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_AccountHierarchy.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Partner
 
 </td><td>
 
-Denotes this account as a partner account. A partner can report and [[manage-cases|manage cases]] on behalf of customers. A partner can also be a customer.
+Denotes this account as a partner account. A partner can report and manage cases on behalf of customers. A partner can also be a customer.
 
  **Note:** If you are creating a partner account, this field is enabled by default.
 
@@ -154,7 +154,7 @@ Account Code
 
 </td><td>
 
-This field stores a unique value for each account. The value is determined by the last used value, which is stored in the **com.snc.cs\_base.last.generated.code.tree.path** system property. For more information, see [[r_PropInstallWcustServ|Properties installed with Customer Service Management]].**Note:** If this property is reset to the value that's already being used, the system attempts to create new accounts with account codes that are already in use, which can result in an invalid insert.
+This field stores a unique value for each account. The value is determined by the last used value, which is stored in the **com.snc.cs\_base.last.generated.code.tree.path** system property. For more information, see [Properties installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md).**Note:** If this property is reset to the value that's already being used, the system attempts to create new accounts with account codes that are already in use, which can result in an invalid insert.
 
 </td></tr><tr><td>
 
@@ -174,11 +174,3 @@ This field indicates whether a customer account is active or inactive.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-csm-accounts-contacts|Configure accounts and contacts]]
-- [[c_AccountHierarchy|Account hierarchy]]
-- [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[manage-cases|Manage cases]]

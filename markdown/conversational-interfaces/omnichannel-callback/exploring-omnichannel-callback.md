@@ -14,7 +14,7 @@ breadcrumb: [Omnichannel Callback, Manage people and work, Conversational Interf
 
 # Exploring Omnichannel Callback
 
-Learn more about [[omnichannel-callback|Omnichannel Callback]] and review its benefits.
+Learn more about Omnichannel Callback and review its benefits.
 
 ## Omnichannel Callback overview
 
@@ -27,7 +27,7 @@ Callbacks are a well-received addition to any interactive voice response \(IVR\)
 In this workflow:
 
 1.  Users seeking help from a live agent request for a callback when the live agent is either unavailable or the wait time to get to a live agent is long.
-2.  Omnichannel Callback determines the availability of agents via ServiceNow® [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\) and places a callback work item for an available agent.
+2.  Omnichannel Callback determines the availability of agents via ServiceNow® Advanced Work Assignment \(AWA\) and places a callback work item for an available agent.
 3.  AWA picks up the callback task and places it in the callback queue.
 4.  The agent receives a **Callback** accept card. If the agent decides to close the interaction or re-queue the callback manually, the agent can do so from the workspace.
 
@@ -35,9 +35,9 @@ In this workflow:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Omnichannel Callback creates callback [[awa-work-items|work items]] for available agents via AWA. Callback requests are placed in the AWA queue immediately upon submission. If the customer does not answer the initial callback, the agent has the option to manually initiate a retry. In such cases, the callback is re-queued according to the retry mechanism defined in the system.|ASAP Callback|Agents|
-|Users requesting a callback can schedule by date and time based on the available time slots. Omnichannel Callback provides the framework for the scheduled callback. Consumer use cases for scheduled callback are currently supported via Customer Service [[management|Management]] \(CSM\) application only.|Scheduled callback|Customers|
-|The user can request for a video callback at an appointed time. Currently, video callback is supported only via the Zoom service and requires the [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]] Store app. For more information, see [Zoom extension for Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/callback-over-zoom/zoom-extension-omni-callback.md).|Video callback|Customers|
+|Omnichannel Callback creates callback work items for available agents via AWA. Callback requests are placed in the AWA queue immediately upon submission. If the customer does not answer the initial callback, the agent has the option to manually initiate a retry. In such cases, the callback is re-queued according to the retry mechanism defined in the system.|ASAP Callback|Agents|
+|Users requesting a callback can schedule by date and time based on the available time slots. Omnichannel Callback provides the framework for the scheduled callback. Consumer use cases for scheduled callback are currently supported via Customer Service Management \(CSM\) application only.|Scheduled callback|Customers|
+|The user can request for a video callback at an appointed time. Currently, video callback is supported only via the Zoom service and requires the Zoom extension for Omnichannel Callback Store app. For more information, see [Zoom extension for Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/callback-over-zoom/zoom-extension-omni-callback.md).|Video callback|Customers|
 
 ## Omnichannel Callback APIs
 
@@ -47,10 +47,3 @@ Omnichannel Callback APIs help you create and manage the callback requests. By u
 -   Route the callback requests received on the supported third-party chat applications to the ServiceNow AI Platform®, allowing agents to handle them on a single interface.
 -   Reduce the wait time for the caller to get the callback that improves your customer experience.
 
-## Related
-
-- [[omnichannel-callback|Omnichannel Callback]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]
-- [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]]

@@ -51,7 +51,7 @@ Role required: sn\_cmp.cloud\_service\_user
         -   Catalog tasks associated with the stack. See [Resubmit a failed stack request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resubmit-failed-request.md).
         -   Upcoming business hours schedule operations associated with the stack. You can skip an upcoming operation or cancel a schedule associated with the stack. See [Modify business schedule operations for a stack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgmt-modify-business-schedule.md).
     -   Operations you can perform on a stack. See [Perform a life-cycle operation on a stack or resource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloudmgt-lifecycle-operation.md).
-    -   Text box used to [[cloudmgt-search-portal|search the Cloud User Portal]] for stacks, resources based on types, stack requests, change requests, incidents, keys, and catalog items.
+    -   Text box used to search the Cloud User Portal for stacks, resources based on types, stack requests, change requests, incidents, keys, and catalog items.
 <table id="table-activities"><tbody><tr><td>
 
 Name
@@ -163,7 +163,3 @@ Date and time the stack terminates \(unprovisioned\).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloudmgt-search-portal|Search the Cloud User Portal]]

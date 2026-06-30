@@ -14,17 +14,17 @@ breadcrumb: [Using Supplier Payment Optimization, Use, Supplier Lifecycle Operat
 
 # Add propensity score for a supplier
 
-The propensity score is used to identify the likelihood of a [[supplier|supplier]] to accept credit card payments. The supplier managers can manually update the propensity score for suppliers from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+The propensity score is used to identify the likelihood of a supplier to accept credit card payments. The supplier managers can manually update the propensity score for suppliers from the Source-to-Pay Workspace.
 
 ## Before you begin
 
 Role required: sn\_slm.manager or sn\_slm.admin
 
-**Important:** Check your entitlements to determine whether you have access to [[supplier-pmnt-opt|Supplier Payment Optimization]].
+**Important:** Check your entitlements to determine whether you have access to Supplier Payment Optimization.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Manage my suppliers**.
 
@@ -62,9 +62,3 @@ The propensity score graph is displayed.
 
 [View the Payment Optimization dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-payment-opt-db.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-pmnt-opt|Supplier Payment Optimization]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

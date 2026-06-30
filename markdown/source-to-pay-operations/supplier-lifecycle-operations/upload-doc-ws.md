@@ -14,11 +14,11 @@ breadcrumb: [Manage supplier details, Using Source-to-Pay Workspace, Use, Suppli
 
 # Manage documents from the Source-to-Pay Workspace
 
-Manage documents by uploading, updating and downloading the required documents from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Manage documents by uploading, updating and downloading the required documents from the Source-to-Pay Workspace.
 
 ## Before you begin
 
-Ensure that you have created a [[supplier|supplier]] document configuration. For more information, see [Supplier Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md).
+Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md).
 
 Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
@@ -28,7 +28,7 @@ The **Documents** tab contains the **Link Documents** option, which enables you 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under My suppliers, select the legal name of the supplier.
 
@@ -51,7 +51,7 @@ Do this
 </td><td>
 
 1.  Select **New**.\[Omitted image "upload-new-doc.png"\] Alt text: Upload a document
-2.  On the [[create-new-doc-form|Create New Documents form]], fill in the fields. For a description of the field values, see [Create New Documents form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-doc-form.md).
+2.  On the Create New Documents form, fill in the fields. For a description of the field values, see [Create New Documents form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-doc-form.md).
 3.  Select **Submit**.
 
 
@@ -103,9 +103,3 @@ The required action is completed for the selected document.
 
 [Using Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-mgr-wsp.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[create-new-doc-form|Create New Documents form]]

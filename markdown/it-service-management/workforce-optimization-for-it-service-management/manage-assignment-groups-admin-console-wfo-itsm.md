@@ -18,7 +18,7 @@ Identify existing groups relevant to WFO and add them to the Admin Console so th
 
 ## Before you begin
 
-**Important:** Starting with the Australia release, [[admin-console-wfo-itsm|Admin Console in Workforce Optimization for ITSM]] is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Australia release, Admin Console in Workforce Optimization for ITSM is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 Role required: admin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Admin Center**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Admin Center**.
 
 2.  In the **Manage assignment groups** section, select **Configure**.
 
@@ -47,7 +47,3 @@ All the selected groups are now defined as **WFO assignment groups**.
 
 **Parent Topic:**[Admin Console in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/admin-console-wfo-itsm.md)
 
-## Related
-
-- [[admin-console-wfo-itsm|Admin Console in Workforce Optimization for ITSM]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Create risk color styles
 
-Create a library of risk color styles to use for different assessment types and matrixes. A risk color style is a combination of a background color and a text color. The color styles help maintain consistency when you configure [[risk-assessments|risk assessments]].
+Create a library of risk color styles to use for different assessment types and matrixes. A risk color style is a combination of a background color and a text color. The color styles help maintain consistency when you configure risk assessments.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ ServiceNow® provides preconfigured color styles. You can either modify the prec
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Risk Color Styles**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Risk Color Styles**.
 
 2.  Select **New**.
 
@@ -113,8 +113,3 @@ The risk color style is ready to use.
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]

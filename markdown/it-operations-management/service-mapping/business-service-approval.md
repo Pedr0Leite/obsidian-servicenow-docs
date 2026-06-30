@@ -14,7 +14,7 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Review and approval of application service maps
 
-After the [[c_ServiceMappingOverview|Service Mapping]] administrator maps IT services and fixes errors in them, the administrator and the owner collaborate to review and approve the service maps. The review and approval process is available only for discovered and manually created service instances.
+After the Service Mapping administrator maps IT services and fixes errors in them, the administrator and the owner collaborate to review and approve the service maps. The review and approval process is available only for discovered and manually created service instances.
 
 You must have Service Mapping enabled to map or review service instances.
 
@@ -64,6 +64,3 @@ As the application service owner for the application service map, you receive an
 
 [Application service analysis and maintenance using classic Service Mapping]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

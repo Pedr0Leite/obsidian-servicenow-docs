@@ -31,8 +31,5 @@ You may face challenges in connecting with your stakeholders at the time of a cr
     All delivery channels are imported from the Everbridge instance successfully. When the notification is successful, you receive a message of confirmation from Everbridge.
 
 
-**Parent Topic:**[[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
+**Parent Topic:**[Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]

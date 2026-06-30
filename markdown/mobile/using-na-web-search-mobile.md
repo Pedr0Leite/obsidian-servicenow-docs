@@ -26,8 +26,5 @@ To exit out of web search mode and return to internal search results, do one of 
 
 For more information on configuring web search, see [Manage an assistant chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/manage-assistant-chat-experience.md).
 
-**Parent Topic:**[[using-now-assist-mobile|Using Now Assist for Mobile]]
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 
-## Related
-
-- [[using-now-assist-mobile|Using Now Assist for Mobile]]

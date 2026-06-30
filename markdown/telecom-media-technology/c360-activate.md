@@ -12,7 +12,7 @@ breadcrumb: [Configure, Telecommunications Customer 360, Telecommunications, Med
 
 # Activate Telecommunications Customer 360
 
-If you have an admin role, you can activate the [[c360-land-page|Telecommunications Customer 360]] application. The Telecommunications Customer 360 \(com.sn\_telecom\_c360\) plugin is available as a separate subscription. The application includes the demo data and installations that are related to ServiceNow® Store applications and plugins.
+If you have an admin role, you can activate the Telecommunications Customer 360 application. The Telecommunications Customer 360 \(com.sn\_telecom\_c360\) plugin is available as a separate subscription. The application includes the demo data and installations that are related to ServiceNow® Store applications and plugins.
 
 The Telecommunications Customer 360 \(com.sn\_telecom\_c360\) plugin activates these related plugins, if they aren’t already active.
 
@@ -31,9 +31,5 @@ The Telecommunications Customer 360 \(com.sn\_telecom\_c360\) plugin activates t
 |Recommended Actions for Telecommunications|`com.snc.sn_telecom_ra`|
 |Now Assist for Telecommunications \(optional\)|com.sn\_telco\_gen\_ai|
 
-**Parent Topic:**[[c360-configure|Configure Telecommunications Customer 360]]
+**Parent Topic:**[Configure Telecommunications Customer 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure.md)
 
-## Related
-
-- [[c360-configure|Configure Telecommunications Customer 360]]
-- [[c360-land-page|Telecommunications Customer 360]]

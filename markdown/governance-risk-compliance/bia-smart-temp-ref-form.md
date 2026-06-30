@@ -12,7 +12,7 @@ breadcrumb: [Configure BIA templates with SAE, Setup for a BIA, Configure, Busin
 
 # BIA template record form for the Smart assessment
 
-Use the BIA template record form to configure the [[bia-uib|business impact analysis]] with the Smart assessment. You can add details such as name, description, primary element assessed and select the impact assessment template in the form.
+Use the BIA template record form to configure the business impact analysis with the Smart assessment. You can add details such as name, description, primary element assessed and select the impact assessment template in the form.
 
 ## BIA template record form with Smart Assessment
 
@@ -67,7 +67,7 @@ Impact assessment template
 
 </td><td>
 
-Type of the impact assessment template. You can select the Recovery point objective assessment template or Recovery time objective assessment template. For more information, see [[conf-impact-asmt-template|Create Smart Assessment templates for BIA]].
+Type of the impact assessment template. You can select the Recovery point objective assessment template or Recovery time objective assessment template. For more information, see [Create Smart Assessment templates for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-impact-asmt-template.md).
 
 </td></tr><tr><td>
 
@@ -88,10 +88,5 @@ Option to include Confidentiality, Integrity, and Availability to BIA. If the pr
  The field appears only if the elements selected in the **Primary Element Assessed** field of the same form require data backup.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]]
+</table>**Parent Topic:**[Configure BIA templates with Smart Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-bia-temp-smart-asmt-type.md)
 
-## Related
-
-- [[conf-impact-asmt-template|Create Smart Assessment templates for BIA]]
-- [[conf-bia-temp-smart-asmt-type|Configure BIA templates with Smart Assessment]]
-- [[bia-uib|Business impact analysis]]

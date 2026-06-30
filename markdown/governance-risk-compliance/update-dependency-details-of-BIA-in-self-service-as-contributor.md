@@ -18,7 +18,7 @@ Use the contributor role to update the impact category result, RPO Impact analys
 
 Role required: sn\_bcm.contributor or sn\_bcm.viewer
 
-If you are a BCM contributor and are part of the Contributors list or you are a BCM viewer, then you can update the dependency details of a [[bia-uib|business impact analysis]] \(BIA\).
+If you are a BCM contributor and are part of the Contributors list or you are a BCM viewer, then you can update the dependency details of a business impact analysis \(BIA\).
 
 ## Procedure
 
@@ -37,9 +37,5 @@ If you are a BCM contributor and are part of the Contributors list or you are a 
 
 **Note:** You cannot add or update dependency items when the business impact analysis is in the **Pending approval** state. Make your dependency updates before the business impact analysis is submitted for approval, or wait until it returns to an editable state.
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]

@@ -31,7 +31,7 @@ In this last case, you can set how frequently a KPI is checked for resolution. Y
 
 ## Procedure
 
-1.  Open [[process-behavior-charts-for-kpis|KPI Signals]] for a KPI.
+1.  Open KPI Signals for a KPI.
 
 2.  Click the cogwheel to open the Configuration options.
 
@@ -59,15 +59,10 @@ In this last case, you can set how frequently a KPI is checked for resolution. Y
     Length of time to calculate the baseline for the KPI * Anti-signal factor
     ```
 
-    The default anti-signal factor is two. Set this factor if you decide it needs to be changed. For more information, see [[signal-no-signal-anti-signal|Signal, no signal, and anti-signal]].
+    The default anti-signal factor is two. Set this factor if you decide it needs to be changed. For more information, see [Signal, no signal, and anti-signal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/signal-no-signal-anti-signal.md).
 
 8.  Click **Save**.
 
 
-**Parent Topic:**[[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
-## Related
-
-- [[signal-no-signal-anti-signal|Signal, no signal, and anti-signal]]
-- [[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]

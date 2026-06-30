@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Use publisher add-on lifecycles in the Software Lifecycle Report
 
-If you purchase an add-on or optional support for a software product, enable the [[c_SoftwareAssetMgmt|Software Asset Management]] application to automatically update the life-cycle dates of that product with the extended life-cycle dates of the add-on or optional support. These updated life-cycle dates are populated in the Software Lifecycle Report \[sam\_sw\_product\_lifecycle\_report\] table.
+If you purchase an add-on or optional support for a software product, enable the Software Asset Management application to automatically update the life-cycle dates of that product with the extended life-cycle dates of the add-on or optional support. These updated life-cycle dates are populated in the Software Lifecycle Report \[sam\_sw\_product\_lifecycle\_report\] table.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  From the Software Asset Workspace, open the [[operations-workspace|License operations view]].
+2.  From the Software Asset Workspace, open the License operations view.
 
 3.  From the navigation menu of the License operations view, navigate to **Licensing** &gt; **Publisher Add-On Lifecycles**.
 
@@ -82,8 +82,3 @@ When the next SAM - Generate Software Lifecycle Report scheduled job runs, the S
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

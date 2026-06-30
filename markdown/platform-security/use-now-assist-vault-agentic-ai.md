@@ -13,16 +13,16 @@ breadcrumb: [ServiceNow Vault]
 
 # Use agentic AI in Now Assist for Vault
 
-Use the [[now-assist-vault-landing|Now Assist for Vault]] agentic workflows to complete tasks autonomously.
+Use the Now Assist for Vault agentic workflows to complete tasks autonomously.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 |Agentic workflow name|Description|Available AI agents|
 |---------------------|-----------|-------------------|
 |Securing custom apps with Vault agents|Proposes data classifications and available protections for a custom application.|Custom app recommendations|
-|Access observer configuration|Views, creates, deactivates, and deletes [[access-observer|Access Observer]] settings for a particular field.|Access observer [[sc-configuration|configuration]] manager|
-|Summarize access observer logs|Reviews and summarizes access [[logs|logs]] for a specific field, identifying access sources, [[users|users]], and their roles.|Access observer log analyzer|
-|Field [[encryption-landing|encryption]] with Vault module|Encrypts specific fields and configure secure access to users with designated roles.|Vault crypto module manager|
+|Access observer configuration|Views, creates, deactivates, and deletes Access Observer settings for a particular field.|Access observer configuration manager|
+|Summarize access observer logs|Reviews and summarizes access logs for a specific field, identifying access sources, users, and their roles.|Access observer log analyzer|
+|Field encryption with Vault module|Encrypts specific fields and configure secure access to users with designated roles.|Vault crypto module manager|
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
@@ -32,34 +32,20 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 ## Security
 
-Enable security settings to run AI agents and agentic workflows using [[sc-access-control|access control]] lists \(ACLs\) and user identities. You can configure and manage the ACLs in AI Agent Studio. See [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md) for more information.
+Enable security settings to run AI agents and agentic workflows using access control lists \(ACLs\) and user identities. You can configure and manage the ACLs in AI Agent Studio. See [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md) for more information.
 
 ## Installed agents
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
--   **[[now-assist-vault-securing-custom-apps-agents|Securing custom apps with the Vault agents agentic workflow]]**  
+-   **[Securing custom apps with the Vault agents agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-securing-custom-apps-agents.md)**  
 Use the securing custom apps with Vault agents agentic workflow to get recommended data classifications and available protections for a custom application.
--   **[[now-assist-vault-access-observer-config|Access Observer configuration agentic workflow]]**  
+-   **[Access Observer configuration agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-access-observer-config.md)**  
 Use the Access Observer configuration agentic workflow to view, create, deactivate, and delete Access Observer settings for a particular field.
--   **[[now-assist-vault-access-observer-logs|Summarize Access Observer logs agentic workflow]]**  
+-   **[Summarize Access Observer logs agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-access-observer-logs.md)**  
 Use the summarize Access Observer logs agentic workflow to review and summarize access logs for a specific field, identifying access sources, users, and their roles.
--   **[[now-assist-vault-field-encryption-module|Field encryption with Vault module agentic workflow]]**  
+-   **[Field encryption with Vault module agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-field-encryption-module.md)**  
 Use the field encryption with Vault module agentic workflow to encrypt specific fields and configure secure access to users with designated roles.
 
-**Parent Topic:**[[servicenow-vault-landing|ServiceNow Vault]]
+**Parent Topic:**[ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/servicenow-vault-landing.md)
 
-## Related
-
-- [[now-assist-vault-securing-custom-apps-agents|Securing custom apps with the Vault agents agentic workflow]]
-- [[now-assist-vault-access-observer-config|Access Observer configuration agentic workflow]]
-- [[now-assist-vault-access-observer-logs|Summarize Access Observer logs agentic workflow]]
-- [[now-assist-vault-field-encryption-module|Field encryption with Vault module agentic workflow]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[now-assist-vault-landing|Now Assist for Vault]]
-- [[access-observer|Access observer]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]
-- [[users|Users]]
-- [[encryption-landing|Encryption]]
-- [[sc-access-control|Access control]]

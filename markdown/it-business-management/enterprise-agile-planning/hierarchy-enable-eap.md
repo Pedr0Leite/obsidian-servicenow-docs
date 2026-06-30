@@ -18,7 +18,7 @@ Run a fix script to enable the Hierarchy tab in the Enterprise Agile Planning \(
 
 ## Before you begin
 
-Ensure that **Application Scope** of your ServiceNow instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -56,6 +56,3 @@ Verify that the value of the **sn\_apw\_advanced.enable\_hierarchy\_view** prope
 
 [Modify display limit in Hierarchy tab of EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/hierarchy-display-limit-eap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

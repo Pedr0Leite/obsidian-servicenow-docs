@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 # Tables installed with the SAP publisher pack
 
-Tables are installed with the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for SAP plugin. The tables store data pulled from the SAP systems.
+Tables are installed with the Software Asset Management Professional for SAP plugin. The tables store data pulled from the SAP systems.
 
 **Note:** Use the Application Files table to see all components installed with the SAP publisher pack. For more information, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -70,7 +70,7 @@ SAP License Metric \[samp\_sap\_license\_metric\]
 
 This table is populated by the ServiceNow Content Service. It’s a list of all license metrics that are used by SAP engines.To view the table, navigate to **SAP Compliance and Optimization** &gt; **Administration** &gt; **Engines**.
 
- **Note:** The table is periodically updated with new data from the Content Service. New license metrics may be added, and existing license metrics may be deactivated to reflect current SAP licensing. To view your [[c_CreatingSoftwareModels|software models]] that have deactivated license metrics, navigate to **SAP Compliance and Optimization** &gt; **Administration** &gt; **Software Models with Deactivated SAP License Metrics**.
+ **Note:** The table is periodically updated with new data from the Content Service. New license metrics may be added, and existing license metrics may be deactivated to reflect current SAP licensing. To view your software models that have deactivated license metrics, navigate to **SAP Compliance and Optimization** &gt; **Administration** &gt; **Software Models with Deactivated SAP License Metrics**.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ SAP User Active Transactions \[samp\_named\_user\_type\_has\_transactions\]
 
 </td><td>
 
-Data related to a named user's transaction activity on an SAP client. User transaction activity is based on SAP transaction codes, which are shortcuts for performing transactions or tasks on an SAP client. For example, the ME21N transaction code enables you to [[t_CreateAPurchaseOrder|create a purchase order]] in SAP.
+Data related to a named user's transaction activity on an SAP client. User transaction activity is based on SAP transaction codes, which are shortcuts for performing transactions or tasks on an SAP client. For example, the ME21N transaction code enables you to create a purchase order in SAP.
 
 </td></tr><tr><td>
 
@@ -173,14 +173,14 @@ SAP Digital Access\[samp\_sap\_digital\_access\]
 
 </td><td>
 
-**Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Discovery** &gt; **SAP Digital Access Data**
+**Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Discovery** &gt; **SAP Digital Access Data**
 
 </td></tr></tbody>
 </table>The Digital Access table stores the following fields: Client, User name, Document type, Document type count, and Measured by.
 
 ## Mapping between SAP tables and Software Asset Management tables
 
-|SAP table|Software [[am-landing-page|Asset Management]] table|
+|SAP table|Software Asset Management table|
 |---------|-------------------------------|
 |/NOW/SAMP\_RFC|SAP Client \[samp\_sap\_client\]|
 |/NOW/M\_SAP\_ROLES|SAP Roles \[samp\_sap\_role\]|
@@ -229,10 +229,3 @@ SAP Digital Access\[samp\_sap\_digital\_access\]
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[t_CreateAPurchaseOrder|Create a purchase order]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[am-landing-page|Asset Management]]

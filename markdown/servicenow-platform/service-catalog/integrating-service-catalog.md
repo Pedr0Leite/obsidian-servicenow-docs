@@ -14,14 +14,14 @@ breadcrumb: [Service Catalog, Manage service capabilities, Extend ServiceNow AI 
 
 # Integrating Service Catalog
 
-You can integrate [[service-catalog|Service Catalog]] with other applications, such as Service Portal and Employee Center.
+You can integrate Service Catalog with other applications, such as Service Portal and Employee Center.
 
 ## Integrate Service Catalog
 
 -   Submit requests for service and product offerings using catalog items from the Employee Center.
 -   Configure an improved version of catalog. Customize Service Portal where your customers can request catalog items such as service and product offerings.
 -   Use a mobile and track request and approval flows of Service Catalog.
--   Configure a catalog item or [[c_RecordProducer|record producer]] to create a universal request when a request is submitted.
+-   Configure a catalog item or record producer to create a universal request when a request is submitted.
 -   Design a topic conversation in Virtual Agent by including reusable topic blocks to perform request submission tasks.
 
 -   **[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-in-ec.md)**  
@@ -37,7 +37,3 @@ To display the related information, you can configure the standard ticket page f
 
 **Parent Topic:**[Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]

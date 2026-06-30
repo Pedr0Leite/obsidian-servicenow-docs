@@ -18,11 +18,11 @@ Employees have access to the journeys that are assigned to them.
 
 ## Before you begin
 
-Role required: Employee with [[c_HRProfileRecords|HR profile]]
+Role required: Employee with HR profile
 
 ## About this task
 
-Any employee assigned to a journey can view the journey to complete tasks that are part of the journey. Employees access assigned journeys from the [[employee-center-landing-page|Employee Center]].
+Any employee assigned to a journey can view the journey to complete tasks that are part of the journey. Employees access assigned journeys from the Employee Center.
 
 ## Procedure
 
@@ -57,7 +57,3 @@ View your next tasks using the **Your next tasks** widget on the My journeys pag
 
 **Parent Topic:**[Journey view for an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/view-journey-overview.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-center-landing-page|Employee Center]]

@@ -19,7 +19,7 @@ The Secureworks Counter Threat Platform ticket ingestion integration enables you
 The key features of this integration include:
 
 -   Automatic ingestion of selected tickets \(including attachments\) based on a pre-defined schedule.
--   [[mapping-logrhythm|Mapping]] of ticket and event fields to [[sir-landing-page|Security Incident Response]] fields.
+-   Mapping of ticket and event fields to Security Incident Response fields.
 -   Preview of security incidents mapped to the ticket fields.
 -   Filtering and aggregation of tickets.
 -   On demand retrieval of events associated with a ticket.
@@ -28,7 +28,3 @@ The key features of this integration include:
 -   Master ticket update.
 -   Synchronization of Secureworks worklogs with Security Incident Response worknotes.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

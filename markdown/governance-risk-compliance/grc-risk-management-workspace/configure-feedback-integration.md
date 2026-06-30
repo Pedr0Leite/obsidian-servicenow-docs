@@ -22,13 +22,13 @@ Role required: sn\_rvw\_feedback.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Parallel Review and Feedback** &gt; **Feedback** &gt; **[[Administration|Administration]]** &gt; **Feedback Integration Configuration**.
+1.  Navigate to **All** &gt; **Parallel Review and Feedback** &gt; **Feedback** &gt; **Administration** &gt; **Feedback Integration Configuration**.
 
 2.  Select **New**.
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[feedback-integration-configuration-form|Feedback Integration Configuration form]], see [Feedback integration configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/feedback-integration-configuration-form.md).
+    For a description of the field values on the Feedback Integration Configuration form, see [Feedback integration configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/feedback-integration-configuration-form.md).
 
 4.  Select **Submit**.
 
@@ -38,7 +38,3 @@ Use the Feedback integration configuration form to define a setup for the Parall
 
 **Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[feedback-integration-configuration-form|feedback integration configuration form]]

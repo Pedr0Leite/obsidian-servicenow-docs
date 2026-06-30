@@ -12,7 +12,7 @@ breadcrumb: [Create a guidance in the Core UI, Configuring guidances and decisio
 
 # Configure guidance detail experience
 
-Configure guidance title and description that are displayed to users in [[configure-nba|recommended actions]] or playbooks.
+Configure guidance title and description that are displayed to users in recommended actions or playbooks.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_gd\_guidance.guidance\_manager
 
 ## About this task
 
-The detail information appears in playbooks, or in a contextual side panel or in a subtab for [[ra-csm-configure|Recommended Actions for Service]].
+The detail information appears in playbooks, or in a contextual side panel or in a subtab for Recommended Actions for Service.
 
 ## Procedure
 
@@ -41,14 +41,8 @@ The detail information appears in playbooks, or in a contextual side panel or in
 
 ## What to do next
 
--   [[customize-ra-preview-experience|Customize a guidance preview experience in the UI Builder]]
--   [[customize-ra-detail-experience|Customize a guidance detail experience in the UI Builder]]
+-   [Customize a guidance preview experience in the UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-preview-experience.md)
+-   [Customize a guidance detail experience in the UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-detail-experience.md)
 
 The process for configuring a guidance is the same in the Guided Decisions Experience application and the Recommended Actions for Service application.
 
-## Related
-
-- [[customize-ra-preview-experience|Customize a guidance preview experience in the UI Builder]]
-- [[customize-ra-detail-experience|Customize a guidance detail experience in the UI Builder]]
-- [[configure-nba|Recommended Actions]]
-- [[ra-csm-configure|Recommended Actions for Service]]

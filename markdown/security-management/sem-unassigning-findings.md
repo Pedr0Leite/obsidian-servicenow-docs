@@ -70,7 +70,7 @@ These counts appear in the Assignment Rules list under the following columns:
 
 To view reassignment counts:
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 2.  Select **Administration** in the navigation pane.
 3.  Select **Review** on the **Assignment rules** tile.
 4.  On the **Rules** page, select **Assignment** in the navigation pane.
@@ -80,18 +80,12 @@ Each reassigned record retains a reference to its original assignment rule. The 
 
 The following example shows reassignment counts for two assignment rules.
 
-\[Omitted image "vr-reassignment-counts.png"\] Alt text: Reassignment counts for two assignment rules for [[vuln-landing-page|Vulnerability Response]] VITs.
+\[Omitted image "vr-reassignment-counts.png"\] Alt text: Reassignment counts for two assignment rules for Vulnerability Response VITs.
 
-**Parent Topic:**[[sem-assigning-findings-to-remediation-teams|Assigning findings to remediation teams using assignment rules]]
+**Parent Topic:**[Assigning findings to remediation teams using assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-assigning-findings-to-remediation-teams.md)
 
 **Related topics**  
 
 
-[[sem-configure-assignment-rules|Remove assignments from findings and remediation tasks]]
+[Remove assignments from findings and remediation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-assignment-rules.md)
 
-## Related
-
-- [[sem-assigning-findings-to-remediation-teams|Assigning findings to remediation teams using assignment rules]]
-- [[sem-configure-assignment-rules|Configuring assignment rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 # Discovery Schedule form reference
 
-The [[r-discovery|Discovery]] Schedule form provides details about the configuration items \(CIs\) targeted for discovery, the associated MID Server, and the schedule settings for when and how the discovery runs.
+The Discovery Schedule form provides details about the configuration items \(CIs\) targeted for discovery, the associated MID Server, and the schedule settings for when and how the discovery runs.
 
 For instructions on this procedure, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
@@ -40,13 +40,13 @@ Discover
 
 </td><td>
 
-Select one of the following scan types:-   **Configuration items**: Uses [[c_DiscoveryIdentifiers|Discovery identifiers]] to match devices with CIs in the CMDB and update the CMDB appropriately. Perform a simple discovery by selecting a specific MID Server to scan for all protocols \(SSH, WMI, and SNMP\). Or, perform advanced discoveries with [[c_DiscoveryBehaviors|discovery behaviors]]. When you select a behavior, the MID Server field isn’t available.
+Select one of the following scan types:-   **Configuration items**: Uses Discovery identifiers to match devices with CIs in the CMDB and update the CMDB appropriately. Perform a simple discovery by selecting a specific MID Server to scan for all protocols \(SSH, WMI, and SNMP\). Or, perform advanced discoveries with discovery behaviors. When you select a behavior, the MID Server field isn’t available.
 
 **Note:** An IPv6 via address list scan is enabled on Discovery schedule for Configuration Items.
 
 -   **IP addresses**: Scans devices without the use of credentials. These scans discover all the active IP addresses in the specified range and create device history records, but don’t update the CMDB. IP address scans also show multiple IP addresses that are running on a single device. Identify devices by class and by type, such as Windows computers and Cisco network gear. The Max range size Shazzam probe property determines the maximum number of IP addresses Shazzam scans. See [Configure Shazzam probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ConfigureTheShazzamProbe.md) for details.
 -   **Networks**: Discovers IP networks \(routers and switches\). Results from this search are used to populate the IP Network \[cmdb\_ci\_ip\_network\] table in **Discovery** &gt; **IP Networks** with a list of IP addresses and network masks. Network scans update routers and layer 3 switches in the CMDB.
--   **Service**: Discovers services for the [[c_ServiceMappingOverview|Service Mapping]] application. See [Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md) for instructions.
+-   **Service**: Discovers services for the Service Mapping application. See [Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md) for instructions.
 -   **Serverless**: Finds CIs without needing to run discovery on a host, or CIs on a proxy host that is already in the CMDB. See [Serverless Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/serverless-discovery.md) for more information.
 -   **Cloud application**: Discovers only the cloud resources for the patterns that you specify. See [Discovery for cloud environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-wizard.md) for instructions.
 -   **Cloud resources**: Discovers resources for one of the supported [cloud providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-wizard.md). This option only appears when you [run Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md) on a cloud service account. You can’t select it from a new Discovery schedule.
@@ -146,7 +146,7 @@ Log state changes
 
 </td><td>
 
-Select this check box to create a log entry every time the state changes during a discovery, such as a device going from Active to Classifying. View the discovery states from the Discovery Devices related list on the [[c_DiscoveryStatus|Discovery Status]] form. The Completed activity and Current activity fields display the states.
+Select this check box to create a log entry every time the state changes during a discovery, such as a device going from Active to Classifying. View the discovery states from the Discovery Devices related list on the Discovery Status form. The Completed activity and Current activity fields display the states.
 
 </td></tr><tr><td>
 
@@ -262,10 +262,3 @@ This related list displays the URLs that are discovered using this schedule. You
 </td></tr></tbody>
 </table>**Parent Topic:**[Discovery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-references.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryIdentifiers|Discovery identifiers]]
-- [[c_DiscoveryBehaviors|Discovery behaviors]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_DiscoveryStatus|Discovery status]]

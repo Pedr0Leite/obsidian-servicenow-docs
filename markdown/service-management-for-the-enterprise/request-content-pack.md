@@ -22,38 +22,27 @@ Platform Analytics Solutions are available for both Requests and Requested Items
 
 Some dashboards in this content pack are inactive when installed. Complete configuration and run [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) before you activate these dashboards. You can activate dashboards in Dashboard Properties, accessible from the context menu. You have to assign an owner to the dashboard to activate it.
 
--   **[[requested-item-mgmt-dashboard|Legacy: Request Management - Requested Item dashboard]]**  
+-   **[Legacy: Request Management - Requested Item dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/requested-item-mgmt-dashboard.md)**  
 Track the progress of purchase orders, transfer orders, and software assignments.
--   **[[open-req-item-state-dashboard|Open Requested Item State Monitor dashboard]]**  
+-   **[Open Requested Item State Monitor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/open-req-item-state-dashboard.md)**  
 Use this dashboard when you wish to dive into open requests for items divided by State: Pending, Work in Progress, or all Open requests.
--   **[[open-req-item-age-dashboard|Open Requested Item Age Monitor dashboard]]**  
+-   **[Open Requested Item Age Monitor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/open-req-item-age-dashboard.md)**  
 Use this dashboard when you wish to dive into open requests for items divided by Age.
--   **[[open-req-item-reports-dashboard|Open Requested Item Reports dashboard]]**  
+-   **[Open Requested Item Reports dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/open-req-item-reports-dashboard.md)**  
 To view the current state of open item requests, see the Open Requested Item Reports.
--   **[[request-mgmt-dashboard|Legacy: Request Management - Request dashboard]]**  
+-   **[Legacy: Request Management - Request dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-mgmt-dashboard.md)**  
 Track the progress of new requests through the time they are worked on until they are closed.
--   **[[open-requests-state-dashboard|Open Requests State Monitor dashboard]]**  
+-   **[Open Requests State Monitor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/open-requests-state-dashboard.md)**  
 Use this dashboard when you wish to dive into open requests divided by State: Pending Approval or Approved.
--   **[[open-requests-age-dashboard|Open Requests Age Monitor dashboard]]**  
+-   **[Open Requests Age Monitor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/open-requests-age-dashboard.md)**  
 Use this dashboard when you wish to dive into open requests divided by Age.
--   **[[open-request-reports-dashboard|Open Request Reports dashboard]]**  
+-   **[Open Request Reports dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/open-request-reports-dashboard.md)**  
 To view the current state of open requests, see the Open Request Reports.
 
-**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
 **Related topics**  
 
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[requested-item-mgmt-dashboard|requested item mgmt dashboard]]
-- [[open-req-item-state-dashboard|open req item state dashboard]]
-- [[open-req-item-age-dashboard|Open Requested Item Age Monitor dashboard]]
-- [[open-req-item-reports-dashboard|Open Requested Item Reports dashboard]]
-- [[request-mgmt-dashboard|request mgmt dashboard]]
-- [[open-requests-state-dashboard|open requests state dashboard]]
-- [[open-requests-age-dashboard|Open Requests Age Monitor dashboard]]
-- [[open-request-reports-dashboard|Open Request Reports dashboard]]
-- [[rm-sm-application|Request Management in a Service Management application]]

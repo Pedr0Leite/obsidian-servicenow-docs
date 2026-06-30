@@ -24,7 +24,7 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[access-analyzer|Access Analyzer]]** &gt; **[[access-simulator|Access Simulator]]**.
+1.  Navigate to **All** &gt; **Access Analyzer** &gt; **Access Simulator**.
 
 2.  Select **Simulate** from the **Add a Role to the user** section.
 
@@ -77,7 +77,4 @@ Enable Take actions. For more information, see [Configuring the Access Simulator
     -   To exit the simulation without applying the simulated changes, select **Skip and Exit**.
     If you clicked **Add and complete**, the simulated roles are successfully added to the user. You can verify the access again by using the Access Analyzer. For more information about how to verify access of a user, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md).
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[access-simulator|Access simulator]]

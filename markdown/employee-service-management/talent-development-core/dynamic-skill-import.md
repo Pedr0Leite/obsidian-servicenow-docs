@@ -26,7 +26,7 @@ Let's see how dynamic skills are processed in the context of Credly:
 -   Skills are validated to check if they don't already exist in the skills library and also not mapped to an existing skill.
 -   New skills are pushed to the queue pipeline for harmonization.
 
-For example, an employee Abel Tuter receives a badge which has three skills - Java, Python, and J2EE. The system checks the skills library \(cmn\_skills table\) to determine the skills that already exist. Java and J2EE are already present in the system, so they are immediately added to the Abel Tuter’s [[emp-slate-employee-profile|employee profile]]. Python skill is not available in the system, so it’s moved to the queue for skill harmonization. Once the admin reviews and harmonizes the Python skill, it’s also added to the skills library and Abel Tuter’s employee profile.
+For example, an employee Abel Tuter receives a badge which has three skills - Java, Python, and J2EE. The system checks the skills library \(cmn\_skills table\) to determine the skills that already exist. Java and J2EE are already present in the system, so they are immediately added to the Abel Tuter’s employee profile. Python skill is not available in the system, so it’s moved to the queue for skill harmonization. Once the admin reviews and harmonizes the Python skill, it’s also added to the skills library and Abel Tuter’s employee profile.
 
 Working of skill mapping - Skill mapping is the process of linking a skill, either imported or from a badge to an existing skill in the skill library. The mapping can be done automatically or manually, to avoid duplicates.
 
@@ -39,7 +39,7 @@ Important behavior - When a skill is mapped, a new entry is not created for the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[skills-intelligence-workspace|Skills Workspace]]**.
+1.  Navigate to **All** &gt; **Skills Workspace**.
 
 2.  Select the Lists icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Lists icon\).
 
@@ -66,7 +66,3 @@ Important behavior - When a skill is mapped, a new entry is not created for the 
 
 The harmonized new skills are added to the skills library \(cmn\_skills table\) and updated in the credentials badge skills metadata. For more information, see [Achievements and Credentials in Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/achievements-and-credentials-in-td.md).
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[skills-intelligence-workspace|Skills Workspace]]

@@ -34,7 +34,7 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 
 </td><td>
 
-[Administer\[Omitted image "bus-optimize-manage.svg"\] Alt text:Administer [[c_DocumentFeeds|document feeds]], [[c_RecordFeeds|record feeds]], and notifications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_AdministerLiveFeed.md)
+[Administer\[Omitted image "bus-optimize-manage.svg"\] Alt text:Administer document feeds, record feeds, and notifications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_AdministerLiveFeed.md)
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[domain-separation-relationship-formatter-editor|domain separation]] and components, such as tables, user roles, business rules, and script includes.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/live-feed-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about domain separation and components, such as tables, user roles, business rules, and script includes.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/live-feed-reference.md)
 
 </td><td>
 
@@ -54,9 +54,3 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 -   [Live Feed discussions in the ServiceNow Community](https://www.servicenow.com/community/forums/filteredbylabelpage/board-id/now-platform-forum/label-name/live%20feed)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_DocumentFeeds|Document feeds]]
-- [[c_RecordFeeds|Record feeds]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[reference|Reference]]

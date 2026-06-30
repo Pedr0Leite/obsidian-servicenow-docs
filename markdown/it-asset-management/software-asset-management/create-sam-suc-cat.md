@@ -14,7 +14,7 @@ breadcrumb: [Success portal view in Software Asset Workspace, Software Asset Wor
 
 # Create a success goal category for software assets
 
-Create a success goal category for adding the category to the [[c_SoftwareAssetMgmt|Software Asset Management]] success goal.
+Create a success goal category for adding the category to the Software Asset Management success goal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Success goals** &gt; **Categories**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Success goals** &gt; **Categories**.
 
 2.  Select **New**.
 
@@ -33,7 +33,3 @@ Role required: sam\_admin
 
 The category that you add gets listed as an option in the **Category** field while creating a success goal for Software Asset Management. For more information, see [Create success goals for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-success-goals.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

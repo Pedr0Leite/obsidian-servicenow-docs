@@ -12,16 +12,11 @@ breadcrumb: [Retail case types, Explore, Retail]
 
 # HQ communications case
 
-The HQ communications case enables effective coordination between HQ teams. It facilitates the execution of assigned work and allows HQ teams to monitor progress. This case type is included in the [[rahi-retail-operations-overview|Retail]] HQ operations plugin.
+The HQ communications case enables effective coordination between HQ teams. It facilitates the execution of assigned work and allows HQ teams to monitor progress. This case type is included in the Retail HQ operations plugin.
 
 \[Omitted image "z-retail-hq-opertaion.png"\] Alt text: List of Retail HQ operations cases
 
-For information on the components installed with HQ communications case, see [[rahi-retail-components-retail-hq-operations|Components installed with Retail HQ Operations]].
+For information on the components installed with HQ communications case, see [Components installed with Retail HQ Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-retail-hq-operations.md).
 
-**Parent Topic:**[[rahi-retail-retail-case-types|Retail case types]]
+**Parent Topic:**[Retail case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-case-types.md)
 
-## Related
-
-- [[rahi-retail-components-retail-hq-operations|Components installed with Retail HQ Operations]]
-- [[rahi-retail-retail-case-types|Retail case types]]
-- [[rahi-retail-operations-overview|Retail]]

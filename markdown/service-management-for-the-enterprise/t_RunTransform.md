@@ -124,12 +124,8 @@ All data sources are listed in a list.
 8.  Review all space details to be certain all extra details were imported.
 
 
--   **[[c_TransformMap|Transform map]]**  
+-   **[Transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_TransformMap.md)**  
 A transform map is an .xls file that allows you to add spaces or details about spaces from other sources into the space management application.
 
-**Parent Topic:**[[r_SpaceManagement|Space management]]
+**Parent Topic:**[Space management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SpaceManagement.md)
 
-## Related
-
-- [[c_TransformMap|Transform map]]
-- [[r_SpaceManagement|Space management]]

@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Graph, Enable AI experiences]
 
 # Configuring Knowledge Graph
 
-Plan and configure [[knowledge-graph-landing|Knowledge Graph]] implementation.
+Plan and configure Knowledge Graph implementation.
 
 ## Configuration overview
 
@@ -27,11 +27,7 @@ On activation, the following Knowledge Graph plugins are installed by default:
 
 To implement the Knowledge Graph adoption, you must configure Knowledge Graph for Virtual Agent.
 
-For pre-built integration with [[platform-now-assist-landing|Now Assist]] Virtual Agent for Slot filling, configure Knowledge Graph in Virtual Agent. Refer  for admin guided setup.
+For pre-built integration with Now Assist Virtual Agent for Slot filling, configure Knowledge Graph in Virtual Agent. Refer  for admin guided setup.
 
 Knowledge Graph now supports Workflow Data Fabric that enables users to retrieve data from different systems without moving them. This ensures efficiency and security when working with sensitive information.To configure and integrate the Workflow Data Fabric tables for Knowledge Graph, see 
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[platform-now-assist-landing|Now Assist]]

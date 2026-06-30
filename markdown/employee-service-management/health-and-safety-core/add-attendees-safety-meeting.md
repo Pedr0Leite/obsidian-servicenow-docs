@@ -26,7 +26,7 @@ Using the **Attendees** tab of a safety meeting, you can keep track of all atten
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the meetings icon \(\[Omitted image "icon-hs-meetings.png"\] Alt text: safety meetings icon\).
 
@@ -84,7 +84,3 @@ For field descriptions, see [Health and Safety meeting attendee form](https://ra
 
 [Create a meeting minute for a safety meeting]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

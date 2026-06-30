@@ -14,7 +14,7 @@ breadcrumb: [Setting up an insurance policy for Insurance claims, Setting up the
 
 # Insurance policies in Insurance claims
 
-In [[fso-overview|Financial Services]] Operations, the Insurance Policy \(sn\_bom\_ins\_policy\) table is the base table for all insurance policies. Whenever a new type of policy is introduced in [[insurance-claims-flow|Insurance claims]], you create a dedicated table for that insurance policy type.
+In Financial Services Operations, the Insurance Policy \(sn\_bom\_ins\_policy\) table is the base table for all insurance policies. Whenever a new type of policy is introduced in Insurance claims, you create a dedicated table for that insurance policy type.
 
 The Insurance claims application includes a personal travel policy and a commercial travel policy as offerings from the base system. Each policy has a separate table that you use to manage these specific policies. This structured approach helps to ensure that each type of policy is properly organized and maintained within the system.
 
@@ -31,7 +31,3 @@ You can grant specific agents access to read particular policies. By creating se
 
 [Create an insurance policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-an-insurance-policy-for-a-consumer.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[insurance-claims-flow|Insurance claims]]

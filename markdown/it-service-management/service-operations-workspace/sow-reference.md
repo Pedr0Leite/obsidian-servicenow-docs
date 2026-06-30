@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace for ITSM, IT Service Management]
 
 # Service Operations Workspace for ITSM reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about ServiceNow Service Operations Workspace.
+Reference topics provide additional information about ServiceNow Service Operations Workspace.
 
 For information about components installed with Service Operations Workspace for ITOM, see [Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/sow-reference-itom.md).
 
@@ -23,7 +23,7 @@ Use this reference to understand the key terms and roles in Service Operations W
 -   **[Additional roles for SOW admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/additional-roles-sow-admin.md)**  
 You can add various user roles to Service Operations Workspace \(SOW\) Admin role to perform SOW configurations.
 -   **[Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-itom-version.md)**  
-Look for the version compatibility between [[sow-landing-page|Service Operations Workspace for ITSM]] and Service Operations Workspace for ITOM [[dex-workspace-application-tab|applications]].
+Look for the version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace for ITOM applications.
 -   **[Service Operations Workspace for ITSM data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-data-model.md)**  
 Learn about Service Operations Workspace \(SOW\) for ITSM by viewing the data model relationship diagram. This diagram shows the relationships between the tables within the application and provide an overall picture of how SOW operates.
 -   **[Components installed with Service Operations Workspace ITSM Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-with-sow.md)**  
@@ -31,8 +31,3 @@ Several types of components are installed with the Service Operations Workspace 
 
 **Parent Topic:**[Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-landing-page.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-application-tab|Applications]]

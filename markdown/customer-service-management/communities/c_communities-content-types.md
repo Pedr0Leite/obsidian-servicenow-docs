@@ -66,7 +66,7 @@ Video
 
 </td><td>
 
-Upload a video on a topic of interest for other users. Videos appear as web URLs that link to the most popular video sites. [[servicenow-communities|Communities]] supports playback from:-   YouTube – youtube.com
+Upload a video on a topic of interest for other users. Videos appear as web URLs that link to the most popular video sites. Communities supports playback from:-   YouTube – youtube.com
 -   Vimeo – vimeo.com
 -   DailyMotion – dailymotion.com
 -   Facebook – facebook.com
@@ -138,6 +138,3 @@ Configure the publishing interval to ensure blogs are published closer to the sc
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

@@ -14,7 +14,7 @@ breadcrumb: [VA feature support in Teams conversations, Conversational Integrati
 
 # Unsupported Virtual Agent features in Microsoft Teams
 
-Refer to the unsupported features of [[virtual-agent-landing-page|Virtual Agent]] in [[teams-conv-integration|Conversational Integration with Microsoft Teams]].
+Refer to the unsupported features of Virtual Agent in Conversational Integration with Microsoft Teams.
 
 ## Unsupported features
 
@@ -25,7 +25,3 @@ Virtual Agent does not support the following functionalities during a conversati
 
 **Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-teams-other-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

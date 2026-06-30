@@ -12,7 +12,7 @@ breadcrumb: [Configure Customer Contracts and Entitlements, Configure, price, qu
 
 # Setting up the Customer Contracts and Entitlements application
 
-Configure the features and components of [[exploring-post-sales-support|Customer Contracts and Entitlements]] to enable a seamless, end-to-end service experience including after sales services for your customers.
+Configure the features and components of Customer Contracts and Entitlements to enable a seamless, end-to-end service experience including after sales services for your customers.
 
 As a user with the admin role, you can set up the Customer Contracts and Entitlements application to enable users to create entitlements and customer contracts for users.
 
@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[create-entitlement-template-characteristic|Create a characteristic]]
+[Create a characteristic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-entitlement-template-characteristic.md)
 
 </td><td>
 
@@ -82,8 +82,3 @@ Create a record for an install base item that is sold to an account or a consume
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-entitlement-template-characteristic|Create a characteristic]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]

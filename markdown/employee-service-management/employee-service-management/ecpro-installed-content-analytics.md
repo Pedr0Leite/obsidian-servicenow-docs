@@ -10,7 +10,7 @@ reading_time_minutes: 3
 
 # Components installed with Content Analytics
 
-Several types of components install with the activation of the [[ecpro-content-automation-analytics|Content Analytics]] \[sn\_cda\] plugin, including tables, user roles, and scheduled jobs.
+Several types of components install with the activation of the Content Analytics \[sn\_cda\] plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -225,6 +225,3 @@ Stores analytics related to page referrals.
 
 **Note:** A new **Enable Tracking** field has been introduced to content notifications, designed specifically for email content. Existing notification records will have this field disabled by default, in line with prior system settings and by default, existing email content will have tracking turned off. However, for new email notification contents, the **Enable Tracking**option will be available for your selection and will be automatically enabled on new record creation. This feature provides greater flexibility, allowing you to determine whether tracking should be applied to specific email content record.
 
-## Related
-
-- [[ecpro-content-automation-analytics|Content Analytics]]

@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your External Content Connectors \(XCC\) provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration of External Content Connectors included as part of Workflow Data Fabric. It helps customers understand leveraging this new capability to configure their ServiceNow AI Search and search external systems such as SharePoint, Confluence, and more. Additionally, this accelerator includes key resources and leading practice guides to [[io-help|help]] customers get started in their own instance stack.
+Jumpstart Your External Content Connectors \(XCC\) provides Impact customers with an overview and applied demonstration of External Content Connectors included as part of Workflow Data Fabric. It helps customers understand leveraging this new capability to configure their ServiceNow AI Search and search external systems such as SharePoint, Confluence, and more. Additionally, this accelerator includes key resources and leading practice guides to help customers get started in their own instance stack.
 
 ## Package Availability
 
@@ -33,7 +33,7 @@ Jumpstart Your External Content Connectors \(XCC\) provides [[impact-landing-pag
 -   **Customer Coaching Session \#1 \(up to 90 min\)**
     -   Includes the following:
         -   Overview of External Content Connectors
-        -   End-[[user-experience-insights|user experience]]
+        -   End-user experience
         -   Technical demonstration highlighting the configuration process
         -   XCC Roadmap to guide next steps
     -   Temporary instance with 30 days provided access.
@@ -63,8 +63,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[user-experience-insights|User Experience]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench implementation, HR Predictive 
 
 # HR PIWB template: Auto-categorize email cases
 
-Use a guided template that walks you through setting up a machine [[exploring-learning-exp|learning]] model to categorize the email cases automatically for improved productivity and cost savings.
+Use a guided template that walks you through setting up a machine learning model to categorize the email cases automatically for improved productivity and cost savings.
 
 ## Before you begin
 
@@ -133,7 +133,7 @@ When the configuration is complete, the solution auto-categorizes the HR service
 
 ## What to do next
 
-You can verify the integration status from **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
+You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
 **Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-implementation-guidance.md)
 
@@ -146,7 +146,3 @@ You can verify the integration status from **[[c_AdministerHRServiceManagement|H
 
 [bundle-itsm.itsm-piwb-integ-implem-custom]
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

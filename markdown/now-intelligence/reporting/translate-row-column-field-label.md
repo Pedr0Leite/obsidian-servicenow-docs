@@ -16,7 +16,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 When executing reports that group results by a Translated Text field, to ensure that individual field labels and values display as translated, use the translated\_text type.
 
-**Note:** [[reporting-landing-page|Reporting]] only supports columns of type translated\_text.
+**Note:** Reporting only supports columns of type translated\_text.
 
 When executing reports, for example multi-level pivot or bar reports, that group results by a Translated Text field, the labels may not all display as translated when the instance language is changed from English to another language. These field labels are entries from the Translated Name / Field Table.
 
@@ -35,6 +35,3 @@ If you create a custom field for a report, the label is not added automatically.
 
 [bundle-platadm.c_LangInternationalizationSupport]
 
-## Related
-
-- [[reporting-landing-page|Reporting]]

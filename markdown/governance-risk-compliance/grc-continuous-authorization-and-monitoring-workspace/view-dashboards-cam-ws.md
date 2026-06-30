@@ -30,7 +30,7 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
 2.  Select the change dashboard list icon \(\[Omitted image "change-dashboard-icon.png"\] Alt text: Change dashboard list icon.\) to select the dashboard to view.
 
-    -   **[[cam-overvw-pa-db|CAM Overview dashboard]]**
+    -   **CAM Overview dashboard**
 
         The CAM Overview dashboard provides multiple tabs with reports on critical aspects of your CAM security posture.
 
@@ -38,7 +38,7 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
         See [CAM Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-overvw-pa-db.md).
 
-    -   **[[reports-ao-overview|AO Overview dashboard]]**
+    -   **AO Overview dashboard**
 
         The Authorization Packages tab on the AO Overview dashboard provides central visibility into the state of all packages. The reports on the Baseline Controls tab provide a general overview of the baseline controls in your system.
 
@@ -48,7 +48,7 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
         See [AO Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/reports-ao-overview.md).
 
-    -   **[[reports-sca-ov|SCA Overview dashboard]]**
+    -   **SCA Overview dashboard**
 
         The SCA Overview dashboard enables you to view and manage control assessments as they occur.
 
@@ -59,8 +59,3 @@ Role required: sn\_irm\_cont\_auth.admin, sn\_irm\_cont\_auth.authorization\_off
 
 **Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 
-## Related
-
-- [[cam-overvw-pa-db|CAM Overview dashboard]]
-- [[reports-ao-overview|AO Overview dashboard]]
-- [[reports-sca-ov|SCA Overview dashboard]]

@@ -42,17 +42,13 @@ A typical My tasks page for a logged-in user is shown in the example.
 
 \[Omitted image "my-tasks-bcm-ws.png"\] Alt text: My tasks page.
 
-For more information on the My tasks page configurations module in the application, see [[my-tasks-page-config-module|My tasks page configurations]].
+For more information on the My tasks page configurations module in the application, see [My tasks page configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/my-tasks-page-config-module.md).
 
 **Note:** On the **My pending tasks**, **My items**, and **Watchlist** tabs, you can only view the records that are in-progress. The closed and canceled records are not displayed on these tabs. You can view the closed and canceled records in their respective forms in BCM UIB Workspace.
 
-If you have the BCM administrator role, you can customize BCM UIB Workspace by updating the Tasks page configurations module. To update the Tasks page configurations, you can navigate to **All &gt; General [[Administration|administration]] &gt; My tasks page configuration** in your instance.
+If you have the BCM administrator role, you can customize BCM UIB Workspace by updating the Tasks page configurations module. To update the Tasks page configurations, you can navigate to **All &gt; General administration &gt; My tasks page configuration** in your instance.
 
 If you have the BCM manager or BCM user roles, you can also get relevant recommendations on your business continuity tasks on the Home page.
 
 To view more information on the Tasks Page Configuration, see [Update the Tasks Page Configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/view-tasks-page-configurations.md).
 
-## Related
-
-- [[my-tasks-page-config-module|My tasks page configurations]]
-- [[Administration|Administration]]

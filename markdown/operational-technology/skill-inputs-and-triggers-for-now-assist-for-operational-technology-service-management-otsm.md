@@ -161,11 +161,7 @@ Input fields
 -   OT Device
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[operational-technology-overview|Operational Technology]]
+</table>**Parent Topic:**[Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-overview.md)
 
-**Parent Topic:**[[configuring-now-assist-otsm|Configure Now Assist for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[Configure Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-now-assist-otsm.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[configuring-now-assist-otsm|Configure Now Assist for Operational Technology Service Management \(OTSM\)]]

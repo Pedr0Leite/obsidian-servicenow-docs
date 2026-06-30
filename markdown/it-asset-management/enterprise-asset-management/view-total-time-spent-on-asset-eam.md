@@ -34,13 +34,13 @@ The time worked on a task is tracked after you start working on it and select **
 
 After a task is closed on a parent or child asset, a time spent line is generated and stored in the Time spent line \[sn\_itam\_common\_time\_spent\_line\] table. Each time spent line includes the time worked on the asset task. The sum of the time spent values in these time spent lines gives the total asset task time. If a task involves multiple assets, the total time spent is equally divided among them. This equally distributed time is then aggregated to the parent asset if there are any child assets involved.
 
-**Note:** When you upgrade to [[enterprise-asset-management|Enterprise Asset Management]] version 9.0.0, the **Calculate asset time spent** fix script creates time spent lines for asset tasks that have already been completed and closed.
+**Note:** When you upgrade to Enterprise Asset Management version 9.0.0, the **Calculate asset time spent** fix script creates time spent lines for asset tasks that have already been completed and closed.
 
 The total time spent is grouped by the following task categories:
 
 -   **Purchase - Asset**: Includes the following tasks
     -   All tasks in the Refresh flow except the Reclaim aged asset task.
-    -   Replacement task in the [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) flow
+    -   Replacement task in the Return Merchandise Authorization \(RMA\) flow
     -   Replacement task in the Recall flow
 -   **Labor - Maintenance**: Includes Calibration and Planned maintenance in the Work order workflow.
 -   **Labor - Repair**: Includes tasks in the following workflows:
@@ -50,7 +50,7 @@ The total time spent is grouped by the following task categories:
     -   Recall order \(only the Repair task\)
     -   Incident
 -   **Labor - General**: Includes tasks in the following workflows:
-    -   [[reclaim-asset|Asset reclamation]]
+    -   Asset reclamation
     -   Resale
     -   Disposal
     -   Lease return
@@ -70,7 +70,7 @@ The total time spent is grouped by the following task categories:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Enterprise asset estate**.
 
 2.  Select the **All assets** tab.
 
@@ -106,9 +106,3 @@ The total time spent is grouped by the following task categories:
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[reclaim-asset|Asset reclamation]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

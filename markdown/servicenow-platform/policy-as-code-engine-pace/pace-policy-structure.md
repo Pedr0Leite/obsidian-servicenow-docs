@@ -145,7 +145,7 @@ recordRefs
 
 </td><td>
 
-Record [[reference-document-management|references]] define queries to extract data from any ServiceNow® tables and use the data to configure the policy logic. There is an auto-completion function that can select the record [[reference|reference]] in the Javascript editor.
+Record references define queries to extract data from any ServiceNow® tables and use the data to configure the policy logic. There is an auto-completion function that can select the record reference in the Javascript editor.
 
 </td></tr><tr><td>
 
@@ -257,7 +257,4 @@ It indicates the state of the policy invocation.-   Complete: The invocation was
 
     \[Omitted image "pace-hover-text.jpg"\] Alt text: PaCE additional parameter details
 
-## Related
 
-- [[reference-document-management|References]]
-- [[reference|Reference]]

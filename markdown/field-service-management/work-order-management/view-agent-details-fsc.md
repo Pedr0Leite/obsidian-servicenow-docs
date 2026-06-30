@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # View an agent's profile on a mobile device
 
-View the profile information of all the agents in your team through the [[wot-fsc|Field Service Contractor for mobile]] application so you can contact them when necessary.
+View the profile information of all the agents in your team through the Field Service Contractor for mobile application so you can contact them when necessary.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ As a contractor manager, you can access details on your team members such as the
 
 5.  Review the agent profile information.
 
-## Related
 
-- [[wot-fsc|Field Service Contractor for mobile]]

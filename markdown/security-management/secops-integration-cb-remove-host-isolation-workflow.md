@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration- Isolate Host capability, Integrati
 
 # Security Operations Carbon Black Integration- Remove Host Isolation Flow
 
-The **[[security-operations-landing-page|Security Operations]] [[carbon-black-landing-page|Carbon Black Integration]] - Remove Host Isolation** flow unblocks communication with a specified host or endpoint in a Carbon Black system.
+The **Security Operations Carbon Black Integration - Remove Host Isolation** flow unblocks communication with a specified host or endpoint in a Carbon Black system.
 
 ## Before you begin
 
@@ -24,22 +24,13 @@ This flow is not part of a capability and needs a custom orchestration in order 
 
 The flow process activities include:
 
--   [[get-ip-from-ci-activity|Get IP from CI activity]]
--   If successful- [[collect-cb-config-activity|Collect Carbon Black Configurations Flow Action]]
--   [[get-sensor-id-activity|Get Sensor ID Flow Action]][Get Sensor ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-sensor-id-activity.md)
+-   [Get IP from CI activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-ip-from-ci-activity.md)
+-   If successful- [Collect Carbon Black Configurations Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/collect-cb-config-activity.md)
+-   [Get Sensor ID Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-sensor-id-activity.md)[Get Sensor ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-sensor-id-activity.md)
 -   If- Device supports isolation- and device is not isolated to disabled.
--   [[update-sensor-activity|Update Sensor activity]]- returns Isolate Host result.
+-   [Update Sensor activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/update-sensor-activity.md)- returns Isolate Host result.
 
 \[Omitted image "RemoveHostIsolationWorkflow.png"\] Alt text: Remove Host Isolation low diagram
 
-**Parent Topic:**[[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
+**Parent Topic:**[Security Operations Integration- Isolate Host capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md)
 
-## Related
-
-- [[get-ip-from-ci-activity|Get IP from CI activity]]
-- [[collect-cb-config-activity|Collect Carbon Black Configurations Flow Action]]
-- [[get-sensor-id-activity|Get Sensor ID Flow Action]]
-- [[update-sensor-activity|Update Sensor activity]]
-- [[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
-- [[security-operations-landing-page|Security Operations]]
-- [[carbon-black-landing-page|Carbon Black integration]]

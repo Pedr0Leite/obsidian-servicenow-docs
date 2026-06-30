@@ -57,7 +57,7 @@ Type
 Variable type to create. If you select **Lookup Select Box**, the **Type Specifications** subtab displays these fields:
 
 -   **Use Pool Filter**: Select this check box to add a pool filter to the field.
--   **Pool**: Select a pool to offer the cloud service user a list of values from an existing table in the catalog order form. For example, you can select CloudAccountPool to get a list of all the [[cloud-accounts|cloud accounts]].
+-   **Pool**: Select a pool to offer the cloud service user a list of values from an existing table in the catalog order form. For example, you can select CloudAccountPool to get a list of all the cloud accounts.
 -   **Pool Filter**: Select a filter to further narrow down the choices in the pool.
 
 
@@ -240,11 +240,8 @@ If the expression isn't valid, an error appears.
     | | |
     |---|---|
     |Visible|If selected, the variable is visible in the item form before ordering the item, in the Variable editor after ordering the item, and in the cart view of the item.|
-    |Read-only|If selected, the variable is read-only in the [[cloudmgt-cloud-user-portal|Cloud User Portal]] and cannot be edited.|
+    |Read-only|If selected, the variable is read-only in the Cloud User Portal and cannot be edited.|
 
 7.  Click **Update** once you have made all the changes to the variable.
 
-## Related
 
-- [[cloud-accounts|Cloud accounts]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

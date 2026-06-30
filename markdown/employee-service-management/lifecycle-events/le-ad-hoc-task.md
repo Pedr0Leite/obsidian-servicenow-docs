@@ -14,9 +14,9 @@ breadcrumb: [Create an HR case for a lifecycle event, Using Lifecycle Events, Li
 
 # Ad hoc cases and tasks for lifecycle event cases
 
-You can add an ad hoc task or case to an active lifecycle event case and associate it to a specific [[activity-lxp|activity]] set. When tasks are added they appear for the subject person under **My Tasks** or the **Review your work** in the [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]].
+You can add an ad hoc task or case to an active lifecycle event case and associate it to a specific activity set. When tasks are added they appear for the subject person under **My Tasks** or the **Review your work** in the Employee Center or Employee Center Pro.
 
-[[hr-lifecycle-events-landing-page-1|Lifecycle events]] are a collection of activities \(services, tasks, requests, notifications, etc.\) that are organized to provide an employee experience. Examples of an employee experience are new hire onboarding or when an employee takes parental leave. In a lifecycle event, all employees that are part of a specific audience go through the same experience.
+Lifecycle events are a collection of activities \(services, tasks, requests, notifications, etc.\) that are organized to provide an employee experience. Examples of an employee experience are new hire onboarding or when an employee takes parental leave. In a lifecycle event, all employees that are part of a specific audience go through the same experience.
 
 Ad hoc tasks or cases are not part of an original lifecycle event configuration. Ad hoc tasks or cases can be added to an existing stage or bundle of a lifecycle event that is in progress and active.
 
@@ -87,9 +87,4 @@ Role required: sn\_hr\_le.case\_writer
 
     **Note:** Stage is also known as an activity set or bundle. For more information, see [Configure a lifecycle event activity set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-activity-set.md).
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

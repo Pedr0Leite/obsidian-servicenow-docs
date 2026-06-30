@@ -12,7 +12,7 @@ breadcrumb: [Filters, Platform Analytics experience, Platform Analytics]
 
 # Create a filter in the Filter Designer
 
-Create a [[c_performanceAnalyticsAndReporting|Platform Analytics]] filter in the Filter Designer and add it to the library for reuse.
+Create a Platform Analytics filter in the Filter Designer and add it to the library for reuse.
 
 ## Before you begin
 
@@ -32,10 +32,10 @@ Role required: analytics\_filter\_admin, admin
 
     Other configuration options vary depending on the data type you select.
 
-    -   [[create-select-filter-workspace|Single select]]: A single value from a set of choices. Single select is the default filter type.
+    -   [Single select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md): A single value from a set of choices. Single select is the default filter type.
     -   [Multiple select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md): More than one value from a set of choices, such as both High and Critical Priority
-    -   [[create-date-filter-workspace|Date]]: A calendar date. You can also set a time. Automatically applies to all indicator data on page or tab.
-    -   [[create-boolean-filter-workspace|True/False]]: Whether a field value is true or false. Can also be used with [[c_CreatingBreakdowns|indicator breakdowns]] that are based on a [bucket group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) with only two values.
+    -   [Date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-date-filter-workspace.md): A calendar date. You can also set a time. Automatically applies to all indicator data on page or tab.
+    -   [True/False](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-boolean-filter-workspace.md): Whether a field value is true or false. Can also be used with indicator breakdowns that are based on a [bucket group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) with only two values.
 3.  In the **Filter label** field, type a meaningful name for the filter.
 
     This name is the name that the user sees.
@@ -56,7 +56,7 @@ Role required: analytics\_filter\_admin, admin
 
         Select the breakdown to use as the filter.
 
-    -   **[[user-exp-analytics-landing|Usage Insights]]**
+    -   **Usage Insights**
 
         Select the Usage Insights property to filter on. For more information, see [Filter data in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/filter-user-list.md).
 
@@ -65,11 +65,3 @@ Role required: analytics\_filter\_admin, admin
 
 Upon saving, the filter is saved to the library, where any user can add it to their dashboards.
 
-## Related
-
-- [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-- [[create-date-filter-workspace|Configure a Date filter in the inline editor]]
-- [[create-boolean-filter-workspace|Configure a True/False filter]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[user-exp-analytics-landing|Usage Insights]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employ
 
 # Add clauses during authoring or negotiation
 
-As a contract fulfiller or reviewer, while authoring or negotiating a contract revision, add clauses from the clause library listed in the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+As a contract fulfiller or reviewer, while authoring or negotiating a contract revision, add clauses from the clause library listed in the Microsoft Word add-in for ServiceNow Contracts.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ The clause library is available under the following conditions:
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

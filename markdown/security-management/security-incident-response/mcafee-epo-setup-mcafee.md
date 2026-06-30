@@ -20,11 +20,11 @@ The following section lists the setup steps that you're required to complete in 
 
 Role required: McAfee ePO administrator
 
-As a user with the McAfee ePO administrator permission, verify that you have installed the `Servicenow.zip` extension plugin in your McAfee ePO console. This extension plugin is required for the integration. For more information and to obtain the plugin, in your ServiceNow AI Platform instance, navigate to **Knowledge** &gt; **Articles** &gt; **All**. In the Search field, enter, ServiceNow [[security-operations-landing-page|Security Operations]] Extension for McAfee ePO.
+As a user with the McAfee ePO administrator permission, verify that you have installed the `Servicenow.zip` extension plugin in your McAfee ePO console. This extension plugin is required for the integration. For more information and to obtain the plugin, in your ServiceNow AI Platform instance, navigate to **Knowledge** &gt; **Articles** &gt; **All**. In the Search field, enter, ServiceNow Security Operations Extension for McAfee ePO.
 
 ## About this task
 
-The ServiceNow extension plugin connects your ServiceNow AI Platform instance to your McAfee ePO console. This connection allows you to reference the security tags you that create in your McAfee ePO console for the isolate host and initiate [[threat-intelligence-malware|malware]] scan actions to the capability profiles in your ServiceNow AI Platform instance.
+The ServiceNow extension plugin connects your ServiceNow AI Platform instance to your McAfee ePO console. This connection allows you to reference the security tags you that create in your McAfee ePO console for the isolate host and initiate malware scan actions to the capability profiles in your ServiceNow AI Platform instance.
 
 The security tags in your McAfee ePO console must match the security tags in the capability records in your ServiceNow AI Platform instance.
 
@@ -149,7 +149,3 @@ The following steps show you how to install the extension plugin, create a secur
 
 **Next topic:**[Install the application and configure a server for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffe-epo-install.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]

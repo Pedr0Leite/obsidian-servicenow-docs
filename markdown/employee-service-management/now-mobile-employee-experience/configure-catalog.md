@@ -14,7 +14,7 @@ breadcrumb: [Configuring Now Mobile, Now Mobile app, Unified Employee Experience
 
 # Configure catalogs
 
-Enable your users to view and request their associated items in the [[mobile-employee-experience|Now Mobile app]]. If no catalogs are selected, users can view and request items from all catalogs in the system. By default, the app uses Service Catalog.
+Enable your users to view and request their associated items in the Now Mobile app. If no catalogs are selected, users can view and request items from all catalogs in the system. By default, the app uses Service Catalog.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: admin
 
         |Field|Description|
         |-----|-----------|
-        |Portal|Portal that you select. Select **[[employee-center-landing-page|Employee Center]]**.|
+        |Portal|Portal that you select. Select **Employee Center**.|
         |Catalog|Catalog that you would like to associate with the app.|
         |Order|Number that indicates the order that the configurations should run. If there are multiple configurations on a portal, the system runs the configurations from the lowest to the highest order that you selected.|
 
@@ -45,7 +45,3 @@ Your users can view and request items from all added catalogs.
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]

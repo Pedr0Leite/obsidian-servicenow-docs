@@ -14,17 +14,17 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 # Purchase requisition line-level questions in Shopping Hub
 
-Line-level questions let procurement admins capture product-specific information during checkout, improving data accuracy and enabling flexible [[purchase-requisition|purchase requisition]] workflows.
+Line-level questions let procurement admins capture product-specific information during checkout, improving data accuracy and enabling flexible purchase requisition workflows.
 
 ## Key benefits
 
-Capture essential information during request intake to minimize back-and-forth communication between the requester, fulfiller, and [[supplier|supplier]].
+Capture essential information during request intake to minimize back-and-forth communication between the requester, fulfiller, and supplier.
 
 ## How to configure
 
 Role required: sn\_shop.procurement\_administrator
 
-Plugin required: [[shopping-hub-overview|Shopping Hub]] \(sn\_spend\_uib\)
+Plugin required: Shopping Hub \(sn\_spend\_uib\)
 
 For more information about creating configurable, line-level questions for shoppers, see [Configure purchase requisition line-level questions in ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-additional-information-prl.md).
 
@@ -38,7 +38,7 @@ If the questions are configured as mandatory, selecting**Add to cart** or **Requ
 
 \[Omitted image "sh-display-addl-line-level.png"\] Alt text: Product details page in Shopping Hub.
 
-**Note:** Edits to additional questions require shoppers to create a case for a fulfiller to update the responses. Shoppers can also request updates by posting a message in the purchase’s [[activity-stream|activity stream]].
+**Note:** Edits to additional questions require shoppers to create a case for a fulfiller to update the responses. Shoppers can also request updates by posting a message in the purchase’s activity stream.
 
 If you select **Add to cart** or **Request to buy** without completing mandatory fields in the Additional Information section, a message prompts you to fill them first.
 
@@ -50,7 +50,7 @@ After a purchase requisition is created for your request, the fulfiller can view
 
 \[Omitted image "sh-display-addl-variables.png"\] Alt text: Variables section of a PRL record in the ServiceNow AI Platform.
 
-Additionally, the fulfiller can view this information on the **Details** tab of the purchase requisition line record in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Additionally, the fulfiller can view this information on the **Details** tab of the purchase requisition line record in the Source-to-Pay Workspace.
 
 **Note:** Fulfillers can update the response in the Variables section on the PRL record. The fulfiller can modify responses until the POL moves to the Ordered state. When the POL is in Revision state, the Variables section becomes editable again.
 
@@ -64,10 +64,3 @@ The additional information also appears on the Purchase details page under My pu
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[activity-stream|Activity stream]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Set up work order synchronization in Care Team Operations for Environmental Services
 
-The Field Service Management \[com.snc.work\_management\] plugin is required for work order synchronization to function with [[cto-evs-landing|Care Team Operations for Environmental Services]].
+The Field Service Management \[com.snc.work\_management\] plugin is required for work order synchronization to function with Care Team Operations for Environmental Services.
 
 For Care Team Operations for Environmental Services to create work orders from Healthcare Environmental Services cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
 
@@ -26,6 +26,3 @@ Work orders aren't created from healthcare environmental services cases. Instead
 
 Cases created are assigned to assignment groups based on the requesting location associations and are configured normally with CSM case management functionality.
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

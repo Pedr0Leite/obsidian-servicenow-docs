@@ -22,16 +22,16 @@ Role required: asset, financial\_mgmt\_user\(core UI and Hardware Asset Workspac
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[c_ContractManagement|Contract management]] view and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
 3.  Select the **Expense Lines** related list \(core UI \) or tab \(Hardware Asset Workspaceand Enterprise Asset Workspace\).
 
-4.  Select an [[c_ExpenseLine|expense line]] record to view.
+4.  Select an expense line record to view.
 
     Information such as expense line details, total cost of the contract, and the contract current value is listed.
 
@@ -47,8 +47,3 @@ Role required: asset, financial\_mgmt\_user\(core UI and Hardware Asset Workspac
 
 [Generating expense lines based on assets or users]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[c_ExpenseLine|Expense Line]]

@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # View, edit, and assign open security incidents with the Security Incident Response Mobile app
 
-As a security incident analyst, view, edit, and assign open [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents from your mobile device. View related lists and the audit trail of work notes for more details about incidents.
+As a security incident analyst, view, edit, and assign open Security Incident Response \(SIR\) security incidents from your mobile device. View related lists and the audit trail of work notes for more details about incidents.
 
 ## Before you begin
 
@@ -135,7 +135,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Security Inciden
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

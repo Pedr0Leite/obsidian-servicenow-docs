@@ -22,7 +22,7 @@ Role required: Role required: sn\_vulc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Administration** and select **Risk Score Rollup Calculators**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Administration** and select **Risk Score Rollup Calculators**.
 
 2.  With the list of Risk Score Rollup Calculators displayed, click a calculator to open the record and edit the form.
 
@@ -53,6 +53,4 @@ Role required: Role required: sn\_vulc.admin
 
     For an example of how a risk rollup calculator determines scores, see [Risk rollup calculation example for Configuration Compliance \(prior to v15.0\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/config-compliance-risk-calculator-example.md).
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technici
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
 2.  Select the **Recall orders** tab.
 
@@ -61,7 +61,3 @@ Complete the recall process for all remaining enterprise assets that are include
 
 **Parent Topic:**[Completing a recall order for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-recall-order-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]

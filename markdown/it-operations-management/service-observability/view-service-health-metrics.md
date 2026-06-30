@@ -26,7 +26,7 @@ The metrics are grouped by the following entity types:
 -   Computer metrics: Metrics associated with the hosts of the service
 -   Databases: Metrics associated with databases used by the service
 
-For example, say you have metrics from New Relic used to monitor services, databases, and hosts. Say that you also have an issue with the `checkout` service and want to view performance information and metrics related to that service. [[service-observability|Service Observability]] can show you the service, database, and host metrics related to that service that are coming from New Relic, along with related CI information from the ServiceNow platform. Each entity type has its own dashboard and each metric and related CI information has its own chart.
+For example, say you have metrics from New Relic used to monitor services, databases, and hosts. Say that you also have an issue with the `checkout` service and want to view performance information and metrics related to that service. Service Observability can show you the service, database, and host metrics related to that service that are coming from New Relic, along with related CI information from the ServiceNow platform. Each entity type has its own dashboard and each metric and related CI information has its own chart.
 
 **Note:** Operators can also use the [Analyze a dashboard in Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/analyze-a-dashboard-in-service-observability.md) and the [Analyze service health in Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/analyze-service-health-in-service-observability.md) Now Assist AI skills to generate an analysis for them.
 
@@ -38,7 +38,7 @@ Role required: operator \[snc\_sow\_svcobs.manager\]
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -52,7 +52,7 @@ Role required: operator \[snc\_sow\_svcobs.manager\]
 
 2.  Select the **Observability** tab.
 
-    The **Observability** tab shows the related metrics and CI information available for the service. Use the navigation pane to view the entity [[otto-aiops-dashboards|dashboards]].
+    The **Observability** tab shows the related metrics and CI information available for the service. Use the navigation pane to view the entity dashboards.
 
     **Note:** If you don't see navigation options for an entity, then the metrics for that entity haven't been discovered or mapped.
 
@@ -69,8 +69,4 @@ Role required: operator \[snc\_sow\_svcobs.manager\]
     -   Hover over a point to view detailed information.
     For detailed information about using this page, refer to the corresponding Observability templates for your observability vendor described in [Service Observability templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-templates.md).
 
-## Related
 
-- [[service-observability|Service Observability]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]

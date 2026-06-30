@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Assign a source document alert to a coordinator
 
-Log in to the GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]] application, review the source document alert, and assign it to a coordinator. The coordinator then assesses the applicability of the alert and completes the associated regulatory tasks.
+Log in to the GRC: Regulatory Change Management application, review the source document alert, and assign it to a coordinator. The coordinator then assesses the applicability of the alert and completes the associated regulatory tasks.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ As a manager, you can view and assign the source document alerts to users with t
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-3.  Navigate to **Lists** &gt; **Assigned [[list-view-of-reg-alerts|Regulatory Alerts]]** view.
+3.  Navigate to **Lists** &gt; **Assigned Regulatory Alerts** view.
 
 4.  Select a source document type alert in the list.
 
@@ -114,7 +114,3 @@ Defer the alert to a later date.
 
 After marking the source document alert as **Applicable**, a new source document import task is created under the Import document tasks related list.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

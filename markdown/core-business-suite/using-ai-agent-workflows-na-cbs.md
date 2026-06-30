@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Core Business Suite, Configure Core Business Suite u
 
 # Agentic Workflow in Now Assist for Core Business Suite
 
-Agentic workflow in Now Assist for Core Business Suite supports the [[cbs-landing|Core Business Suite]] setup process through a conversational interface.
+Agentic workflow in Now Assist for Core Business Suite supports the Core Business Suite setup process through a conversational interface.
 
 <table id="table_gyx_brq_l2c"><thead><tr><th>
 
@@ -39,7 +39,7 @@ Supports Core Business Suite configuration through a guided, conversational setu
 -   IA Orchestration agent
 -   Manage groups and roles agent
 -   Notification agent
--   CBS [[manage-bulk-upload-using-na|bulk upload]] agent
+-   CBS bulk upload agent
 
 </td></tr></tbody>
 </table>## AI agents used in the AI agentic workflow for the CBS Setup
@@ -55,10 +55,5 @@ The following AI agents are used to support the conversational setup process for
 
 For more information on the AI agents, see [Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md).
 
-**Parent Topic:**[[now-assist-cbs|Now Assist for Core Business Suite]]
+**Parent Topic:**[Now Assist for Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/now-assist-cbs.md)
 
-## Related
-
-- [[now-assist-cbs|Now Assist for Core Business Suite]]
-- [[cbs-landing|Core Business Suite]]
-- [[manage-bulk-upload-using-na|Bulk upload]]

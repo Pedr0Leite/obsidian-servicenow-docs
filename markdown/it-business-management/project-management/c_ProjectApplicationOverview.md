@@ -16,7 +16,7 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 The ServiceNow® Project Management application is a suite of tools that aids in managing projects, tasks, and resources. You can create and manage small projects with a few tasks to large portfolios that contain complex tasks with various relationships and dependencies.
 
-\[Omitted video\] Description: Introduction to Project and [[c_ProgramManagement|Program Management]] including the purpose of Project Management, the [[project-workspace-landing-page|project workspace]] and template, baseline, project considerations, and viewing the project.
+\[Omitted video\] Description: Introduction to Project and Program Management including the purpose of Project Management, the project workspace and template, baseline, project considerations, and viewing the project.
 
 ## Get started
 
@@ -34,13 +34,7 @@ The ServiceNow® Project Management application is a suite of tools that aids in
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about [[form-field-information-for-dw|forms]] and fields of Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-management-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about forms and fields of Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-management-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ProgramManagement|Program Management]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[form-field-information-for-dw|Forms]]

@@ -15,7 +15,7 @@ breadcrumb: [Amazon S3 external content connector, Configure, External Content C
 
 # Configure Amazon S3 for external content indexing
 
-Create an Identity and Access Management \(IAM\) user in the Amazon Web Services \(AWS\) Management Console. Define an access key for your new user to allow the [[amazon-s3-external-content-connector|Amazon S3 external content connector]] to access your Amazon S3 source system.
+Create an Identity and Access Management \(IAM\) user in the Amazon Web Services \(AWS\) Management Console. Define an access key for your new user to allow the Amazon S3 external content connector to access your Amazon S3 source system.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The Amazon S3 external content connector retrieves content from buckets in your 
 
 Your ServiceNow AI Platform needs this IAM user's access key ID and secret access key to configure the Amazon S3 external content connector for proper connection to your AWS account.
 
-**Important:** All content the connector retrieves from your Amazon S3 buckets is treated as public content, searchable by everyone who has access to your configured [[ia-ai-search|AI Search]] experience.
+**Important:** All content the connector retrieves from your Amazon S3 buckets is treated as public content, searchable by everyone who has access to your configured AI Search experience.
 
 ## Procedure
 
@@ -165,7 +165,3 @@ For details on creating and configuring an Amazon S3 external content connector,
 
 **Parent Topic:**[Amazon S3 external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/amazon-s3-external-content-connector.md)
 
-## Related
-
-- [[amazon-s3-external-content-connector|Amazon S3 external content connector]]
-- [[ia-ai-search|AI Search]]

@@ -24,13 +24,13 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[configure-psds-core|Activate Public Sector Core]]
+[Activate Public Sector Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-psds-core.md)
 
 </td><td>
 
 As an admin, activate the Public Sector Digital Services Core plugin. The PSDS Core application provides data models, workflows, and experiences that enable the development of public sector customized applications, which deliver digital services to the government constituents.
 
-This plugin includes demo data and activates related plugins. For information on the plugins activated with Public Sector Digital Services Core, see [[plugins-installed-with-psds|Plugins installed with Public Sector Digital Services Core]].
+This plugin includes demo data and activates related plugins. For information on the plugins activated with Public Sector Digital Services Core, see [Plugins installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/plugins-installed-with-psds.md).
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Review the list of plugins that are activated after installing and activating th
 
 </td></tr><tr><td>
 
-[[configure-psds-foundation-data|Configure foundation data]]
+[Configure foundation data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-psds-foundation-data.md)
 
 </td><td>
 
@@ -50,9 +50,3 @@ Import customer information including names, addresses, and phone numbers; accou
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-psds-core|Install and configure the Public Sector Digital Services Core application]]
-- [[plugins-installed-with-psds|Plugins installed with Public Sector Digital Services Core]]
-- [[configure-psds-foundation-data|Configure Public Sector Digital Services foundational data and workflows]]

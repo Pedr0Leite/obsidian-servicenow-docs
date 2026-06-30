@@ -28,11 +28,7 @@ In the Filters pane, you can perform the following actions:
 
 -   Filter by string, number, or date attributes. For more information, see [Filter the Express List display using attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/filter-attributes.md).
 -   Add filters to or remove filters from the default filter list to focus on the applied filters. The most common filters are State, Priority, CI, and Impacted services. For more information, see [Filter the Express List display by adding or removing fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/filter-express-list-fields.md)
--   Add or remove [[alert-tags|alert tags]]. Tags enable you to identify and group alerts easily without the need for [[r-discovery|discovery]] or accessing the CMDB. For more information, see [Categorize alerts displayed in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/add-remove-tags-filter.md)
+-   Add or remove alert tags. Tags enable you to identify and group alerts easily without the need for discovery or accessing the CMDB. For more information, see [Categorize alerts displayed in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/add-remove-tags-filter.md)
 -   Display or hide alerts that match a selected alert. For more information, see [Filter out or show matching alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/filter-right-click-option.md).
 -   Save, delete, assign as the default, or share the filter layout. For more information, see [Save a custom filter in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/filter-saving-deleting-default.md).
 
-## Related
-
-- [[alert-tags|Alert tags]]
-- [[r-discovery|Discovery]]

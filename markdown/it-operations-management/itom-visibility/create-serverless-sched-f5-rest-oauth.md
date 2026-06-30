@@ -14,7 +14,7 @@ breadcrumb: [F5 BIG-IP, Load balancers, Network device discovery, Data collected
 
 # Create a serverless schedule for F5 BIG-IP REST OAuth 2.0 authentication-based discovery
 
-Create a [[serverless-discovery|serverless discovery]] schedule to discover F5 BIG-IP load balancers through REST OAuth 2.0 authentication \(tokens\).
+Create a serverless discovery schedule to discover F5 BIG-IP load balancers through REST OAuth 2.0 authentication \(tokens\).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Create a [[serverless-discovery|serverless discovery]] schedule to discover F5 B
 -   Create a basic authentication credential. For more information, see [Basic authentication credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_BasicAuthCredentialsForm.md).
 -   Create a alias for the basic authentication credential. For more information, see [Credential aliases for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/discovery-credential-alias.md).
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -80,7 +80,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 **Parent Topic:**[F5 BIG-IP load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerF5BIGIP.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]

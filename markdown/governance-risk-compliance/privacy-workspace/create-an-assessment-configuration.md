@@ -22,7 +22,7 @@ Role required: sn\_privacy.admin or sn\_privacy.manager
 
 ## About this task
 
-When a privacy screening assessment is sent to the entity owners, their responses determine the creation of processing activity. You can also modify the default configurations on the privacy screening assessment to create [[ropa-record|processing activities]] automatically.
+When a privacy screening assessment is sent to the entity owners, their responses determine the creation of processing activity. You can also modify the default configurations on the privacy screening assessment to create processing activities automatically.
 
 You can also create a new processing activity creation condition for your own privacy screening assessments.
 
@@ -30,7 +30,7 @@ After you create the configurations, you can validate if the responses create th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Assessments** &gt; **Processing activity creation rules**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Assessments** &gt; **Processing activity creation rules**.
 
 2.  Click **New**.
 
@@ -59,7 +59,3 @@ After you create the configurations, you can validate if the responses create th
 
 **Parent Topic:**[Configuring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-privacy-mgmt.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[privacy-management|privacy management]]

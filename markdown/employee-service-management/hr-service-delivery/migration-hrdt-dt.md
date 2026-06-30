@@ -14,7 +14,7 @@ breadcrumb: [HR Documents, HR Service Delivery, Employee Service Management]
 
 # Migrating from HR Document Templates to Document Templates
 
-Review these guidelines to successfully migrate from HR [[document-templates-overview|Document Templates]] to Document Templates. Document Templates provides the latest experience of HR Document Templates functionality with additional features and capabilities.
+Review these guidelines to successfully migrate from HR Document Templates to Document Templates. Document Templates provides the latest experience of HR Document Templates functionality with additional features and capabilities.
 
 **Important:**
 
@@ -68,7 +68,7 @@ Criteria
 
 </td><td>
 
-[[hr-criteria|HR Criteria]] \[sn\_hr\_core\_criteria\]
+HR Criteria \[sn\_hr\_core\_criteria\]
 
 </td><td>
 
@@ -220,7 +220,7 @@ Document template category \(document\_template\_category\)
 
 </td></tr><tr><td colspan="3">
 
-**[[hr-service-configuration|HR service configuration]]**
+**HR service configuration**
 
 </td></tr><tr><td>
 
@@ -314,8 +314,4 @@ If you want to migrate your AdobeSign or DocuSign templates to Document Template
 
     For more information, see the HR case fields in the Functionality and Table Comparison: HR Document Templates and Document Templates table in [Migrating from HR Document Templates to Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/migration-hrdt-dt.md).
 
-## Related
 
-- [[document-templates-overview|Document Templates]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-configuration|HR service configuration]]

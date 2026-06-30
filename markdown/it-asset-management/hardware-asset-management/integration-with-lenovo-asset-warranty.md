@@ -18,9 +18,9 @@ The Lenovo Asset Warranty Flow enables you to get the warranty information of ha
 
 Integration with Lenovo has the following requirements:
 
--   The [[ham-landing-page|Hardware Asset Management]] application \(sn\_hamp\) must be activated.
+-   The Hardware Asset Management application \(sn\_hamp\) must be activated.
 -   The Lenovo Spoke \(sn\_lenovo\_spoke\) installed on your ServiceNow instance from the ServiceNow Store. For detailed information, see [Lenovo Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/lenovo-spoke.md).
--   The Client ID from Lenovo to [[connect-to-lenovo-api|connect to the Lenovo Warranty API]].
+-   The Client ID from Lenovo to connect to the Lenovo Warranty API.
 
     **Note:** If you don’t have a Client ID, contact your organization's Lenovo sales or service representative.
 
@@ -47,15 +47,10 @@ The process involved in fetching the asset warranty details from Lenovo is as fo
 
 **Note:** Warranty records for excluded assets aren't fetched.
 
-An asset can have multiple warranties associated with it. You can view the warranty information using the Asset Warranties tab on the asset form. You can also view all the asset warranty records from a central location using the Asset warranties list in the [[asset-operations-view|Asset operations view]]. For more information, see [Track the warranty details of your Lenovo assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-asset-warranty-details.md).
+An asset can have multiple warranties associated with it. You can view the warranty information using the Asset Warranties tab on the asset form. You can also view all the asset warranty records from a central location using the Asset warranties list in the Asset operations view. For more information, see [Track the warranty details of your Lenovo assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-asset-warranty-details.md).
 
 **Related topics**  
 
 
 [Receive asset warranty details from Lenovo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-warranty-details-lenovo.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[connect-to-lenovo-api|Connect to the Lenovo Warranty API]]
-- [[asset-operations-view|Asset operations view]]

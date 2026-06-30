@@ -14,7 +14,7 @@ breadcrumb: [Smart Assessment Engine, Governance, Risk, and Compliance]
 
 # Smart Assessment Engine reference
 
-Reference topics provide the detailed descriptions of tables, properties, forms, and roles that are installed with the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application.
+Reference topics provide the detailed descriptions of tables, properties, forms, and roles that are installed with the Smart Assessment Engine application.
 
 [Roles installed in Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-roles-defined.md)
 
@@ -34,7 +34,7 @@ If you define your own fulfillment subflows in Workflow Studio, you can use the 
 
 [Settings in the Test action pop-up window](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-test-action-popup.md)
 
-You select **Test** on the [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]] to test the design of an assessment. You then specify the settings for the test on the Test action pop-up window.
+You select **Test** on the Trigger Smart Assessment action form to test the design of an assessment. You then specify the settings for the test on the Test action pop-up window.
 
 [Trigger Smart Assessment action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-smart-asmnt-action-form.md)
 
@@ -58,7 +58,7 @@ Use the Trigger smart assessment action form to add assessment actions to a flow
 
 [How legacy metric types are migrated to sections in templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-how-legacy-metrics-migrated.md)
 
-Legacy metric types are migrated to specific sections in the [[airc-assessment-templates|assessment templates]] in the Smart Assessment Engine application.
+Legacy metric types are migrated to specific sections in the assessment templates in the Smart Assessment Engine application.
 
 [Results of migrating a metric category to an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-migrate-asmnt-template-form.md)
 
@@ -88,8 +88,3 @@ Legacy metric types are migrated to specific sections in the assessment template
 
 You can use the assessment template migration form to specify the legacy metric type to migrate and to view the results of a migration.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[sae-smart-asmnt-action-form|Trigger Smart Assessment action form]]
-- [[airc-assessment-templates|Assessment templates]]

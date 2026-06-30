@@ -14,7 +14,7 @@ breadcrumb: [Database discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # MySQL discovery
 
-[[r-discovery|Discovery]] can identify an instance of MySQL that is running on UNIX or Windows operating systems.
+Discovery can identify an instance of MySQL that is running on UNIX or Windows operating systems.
 
 ## Requirements
 
@@ -47,7 +47,7 @@ Configure these credentials:
     **Note:** There’s no need to configure applicative credentials unless your Discovery prerequisites mention them.
 
 
-For a list of privileged commands that you need for Discovery and [[c_ServiceMappingOverview|Service Mapping]], see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 ## Classifiers, patterns, and probes
 
@@ -84,7 +84,7 @@ My SQL server On Windows and Linux Pattern
 </td></tr></tbody>
 </table>\*For new instances, these probes are inactive on the classifier. Discovery uses patterns for discovery.
 
-To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 ## Data collected
 
@@ -103,8 +103,3 @@ Discovery populates these fields in the MySQL Instance \[cmdb\_ci\_db\_mysql\_in
 
 [Database Administrator \(DBA\) report discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/dba-report-discovery-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

@@ -14,9 +14,9 @@ breadcrumb: [NLU intents, Build and train your model, Model management, Natural 
 
 # Reusing intents from prebuilt NLU models
 
-Reuse [[nlu-landing|Natural Language Understanding]] \(NLU\) intents by importing them from a prebuilt NLU model to other models. Reusing intents saves time when building your models.
+Reuse Natural Language Understanding \(NLU\) intents by importing them from a prebuilt NLU model to other models. Reusing intents saves time when building your models.
 
-Prebuilt Virtual Agent [[nlu-models|NLU models]] provide language understanding needed for chatbot conversation flows in ITSM, CSM, and HR topics. Each NLU intent in these models maps to a single Virtual Agent conversation topic created in Virtual Agent Designer accordingly.
+Prebuilt Virtual Agent NLU models provide language understanding needed for chatbot conversation flows in ITSM, CSM, and HR topics. Each NLU intent in these models maps to a single Virtual Agent conversation topic created in Virtual Agent Designer accordingly.
 
 The prebuilt models are read-only, but contain validated intents that you can reuse in your NLU models. For example, the prebuilt HR model for Virtual Agent contains several intents regarding HR requests. Adding the intents to one of your models makes that model ready to respond to user inputs regarding HR.
 
@@ -66,7 +66,3 @@ To reuse the intents from a prebuilt Virtual Agent model, choose the prebuilt mo
 
 NLU models and their intents and entities are associated to an application scope. The scope can't be changed later, so verify your target application scope before you begin.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-models|NLU models]]

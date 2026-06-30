@@ -14,7 +14,7 @@ breadcrumb: [Enable and configure the Pre-hire Experience, Configure, Journey de
 
 # Configure the Our culture widget
 
-[[jny-dsgnr-landing-page-1|Journey designer]] administrators can configure the Our culture widget to enhance the employee's onboarding experience using rich content. Rich content includes videos, images, or other forms of engaging media to provide the onboarding employee an immersive experience.
+Journey designer administrators can configure the Our culture widget to enhance the employee's onboarding experience using rich content. Rich content includes videos, images, or other forms of engaging media to provide the onboarding employee an immersive experience.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: admin \[sn\_jny.admin\]
 
 **Parent Topic:**[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

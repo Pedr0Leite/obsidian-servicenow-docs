@@ -12,7 +12,7 @@ breadcrumb: [Configure a field editor for the HTML field, Reference, Field admin
 
 # Configuring system properties for TinyMCE HTML editor
 
-There are multiple [[r_SetArchiveRuleProcessingBehavior|system properties]] that are used to configure the behaviour of the HTML editor field type. Learn about the system properties available in the TinyMCE rich text editor.
+There are multiple system properties that are used to configure the behaviour of the HTML editor field type. Learn about the system properties available in the TinyMCE rich text editor.
 
 <table id="table_idc_kqs_kbc"><thead><tr><th>
 
@@ -90,7 +90,7 @@ Choice list
 
 Paste formatting behavior for HTML. This setting controls how content from sources other than Microsoft Word is filtered when being pasted on html-editor. Note that this includes content copied from TinyMCE itself. The supported values are:
 
--   Clean: Preserves the structure of the content such as headings, tables, and lists but remove inline styles and classes. This [[hs-results|results]] in simple content that uses the site's CSS stylesheet while retaining the semantic structure from the original document.
+-   Clean: Preserves the structure of the content such as headings, tables, and lists but remove inline styles and classes. This results in simple content that uses the site's CSS stylesheet while retaining the semantic structure from the original document.
 -   Merge: Preserves the inline formatting and structure of the original document. Invalid and proprietary styles, tags and attributes are still removed ensuring that the HTML is valid while more closely matching the original document formatting.
 -   Prompt: Prompts the user to choose between the clean and merge options after attempting to paste HTML content.
 
@@ -248,8 +248,3 @@ This system property is used to set link\_default\_target.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[hs-results|Results]]

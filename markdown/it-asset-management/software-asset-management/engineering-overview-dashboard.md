@@ -16,10 +16,10 @@ breadcrumb: [Platform Analytics Solution for Software Asset Management classic, 
 
 Monitor and gain insights into your engineering applications license position and usage by viewing product usage reports in the Engineering License Overview dashboard.
 
-**Note:** The Engineering License Overview dashboard is no longer available for new Australia users who have activated the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
+**Note:** The Engineering License Overview dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
 -   If you activated the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia but didn't activate the Workspace plugin \(com.sn\_sam\_workspace\), you have access to this dashboard.
--   If you activated the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application after upgrading to Zurich, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
+-   If you activated the Software Asset Workspace \(sn\_sam\_workspace\) store application after upgrading to Zurich, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
 
 The Engineering License Overview dashboard displays reports on normalized products and publishers that belong to engineering applications such as AutoCAD, GIS.
 
@@ -219,7 +219,3 @@ You can filter the data in this tab by date, user, or user group.
 
 **Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-asset-mgmt-content-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -28,26 +28,19 @@ Role required: sn\_customerservice.customer
 
 4.  Select a case to view its state and other details.
 
-    For a description of the Invoice case lines list view, see [[invoice-case-header-list-view|Invoice case details on the Business Portal]].
+    For a description of the Invoice case lines list view, see [Invoice case details on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-case-header-list-view.md).
 
-    For more information about invoice states, see [[invoice-case-states|Invoice case states on Business Portal]].
+    For more information about invoice states, see [Invoice case states on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-case-states.md).
 
 
 ## What to do next
 
-[[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]]
+[Communicate and share supporting documents for an invoice case from Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-invoice-cases-bp.md)
 
 **Related topics**  
 
 
-[[order-management-configure-business-portal|Configuring the Business Portal]]
+[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-## Related
-
-- [[invoice-case-header-list-view|Invoice case details on the Business Portal]]
-- [[invoice-case-states|Invoice case states on Business Portal]]
-- [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]]
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]

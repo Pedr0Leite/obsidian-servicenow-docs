@@ -51,17 +51,12 @@ When you're working on a draft quote and adding or updating products, product of
 5.  Continue reviewing the recommended offering cards and add or dismiss them as needed.
 
 
-**Parent Topic:**[[using-prod-recommendations-quote|Using product offering recommendations in quotes]]
+**Parent Topic:**[Using product offering recommendations in quotes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-prod-recommendations-quote.md)
 
 **Related topics**  
 
 
-[[configuring-offer-recommendations|Configuring product offering recommendations]]
+[Configuring product offering recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-offer-recommendations.md)
 
-[[create-offer-recommendation|Create a product offering recommendation]]
+[Create a product offering recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-offer-recommendation.md)
 
-## Related
-
-- [[using-prod-recommendations-quote|Using product offering recommendations in quotes]]
-- [[configuring-offer-recommendations|Configuring product offering recommendations]]
-- [[create-offer-recommendation|Create a product offering recommendation]]

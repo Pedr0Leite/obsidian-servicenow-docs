@@ -45,7 +45,7 @@ The **Service Classification** attribute identifies the service as a service ins
 See [Use the Dynamic CI Group method to populate application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/populate-app-service-dynamic-group.md).
 
 -   **[Synchronizing group assignment attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-data-synchronize.md)**  
-To empower a particular user group to manage a collection of CIs or CI classes, set group assignment attributes through the Technology management offering or the [[ci-class-manager-landing-page|CI Class Manager]]. The operation synchronizes the group attribute data across all CIs that belong to the specified CI class or groups of CIs.
+To empower a particular user group to manage a collection of CIs or CI classes, set group assignment attributes through the Technology management offering or the CI Class Manager. The operation synchronizes the group attribute data across all CIs that belong to the specified CI class or groups of CIs.
 -   **[Set the group for a CI or an entire class of CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-data-synchronize-enable.md)**  
 Synchronize group assignment attributes on entire CI classes and individual CIs using the CI Class Manager.
 -   **[Synchronize user groups for a technology management offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-enable-tso.md)**  
@@ -53,6 +53,3 @@ Synchronize group assignment attributes on entire CI classes and individual CIs 
 
 **Parent Topic:**[Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implementation-stages.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]

@@ -22,24 +22,24 @@ Employees can join a waitlist when no spaces are available for reservation. When
 
 Make sure you have installed and configured the following:
 
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-central-feat|Workplace Central]]
+-   Workplace Reservation Management
+-   Workplace Core
+-   Workplace Central
 -   The **Enable waitlist** and **Enable browse by neighborhood** Reservable Module configuration options are enabled by your workplace administrator. For more information, see [Configure Workplace Reservation Management portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/wsd-reservation-setup.md).
 
 Role required: sn\_wsd\_core.workplace\_user
 
 ## About this task
 
-You can directly join a waitlist by submitting a reservation waitlist request on the [[employee-center-landing-page|Employee Center]] portal. When employees join a waitlist, they are added to the waitlist queue. When a Queued space is freed up and is available, a space is assigned for reservation. Status of the waitlist record changes from **Queued** to **Confirmed**.
+You can directly join a waitlist by submitting a reservation waitlist request on the Employee Center portal. When employees join a waitlist, they are added to the waitlist queue. When a Queued space is freed up and is available, a space is assigned for reservation. Status of the waitlist record changes from **Queued** to **Confirmed**.
 
 ## Procedure
 
-1.  [[create-reservation-request-1|Create a reservation]] and if no spaces are available for your preferred location and selected date and time, join a waitlist.
+1.  Create a reservation and if no spaces are available for your preferred location and selected date and time, join a waitlist.
 
 2.  Join a waitlist by navigating to **All** &gt; **Self-service** &gt; **Employee Center**.
 
-3.  Select **Help Center** &gt; **[[workplace-services|Workplace Services]]** &gt; **Reservation Waitlist**.
+3.  Select **Help Center** &gt; **Workplace Services** &gt; **Reservation Waitlist**.
 
     You can also navigate to the Reservation Waitlist record form by searching for **Reservation Waitlist** or **waitlist** in the search box.
 
@@ -190,11 +190,3 @@ Select an end time for your waitlist.**Note:** End time must be after start time
 
 **Next topic:**[Create a schedule job for waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/schedule-job-waitlist.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-services|Workplace Services]]

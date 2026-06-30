@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Creating and managing audience-specific Journey Accelerator templates
 
-Administrators can develop [[journey-accelerator-1|Journey Accelerator]] templates for customized plans with stages that include user tasks for different [[ecpro-audience|audiences]].
+Administrators can develop Journey Accelerator templates for customized plans with stages that include user tasks for different audiences.
 
 Using Journey Accelerator, administrators can develop and manage templates for audience-specific transition plans. Plans include templates with stages and to-do lists. Managers can use these templates to create transition plans for their employees.
 
@@ -30,7 +30,7 @@ For more information about different audiences, see [Audiences](https://raw.gith
 
 -   **Manage Task Templates**
 
-    Journey Accelerator task templates appear as to-do lists in the plan list view in the [[employee-center-landing-page|Employee Center]] for managers, mentors, or employees.
+    Journey Accelerator task templates appear as to-do lists in the plan list view in the Employee Center for managers, mentors, or employees.
 
 -   **Manage Plan Configurations**
 
@@ -52,8 +52,3 @@ For more information about different audiences, see [Audiences](https://raw.gith
 
 From the Employee Center, managers can create customized Journey Accelerator plans that contain stages with specific to-do lists for themselves, mentors, and employees.
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[ecpro-audience|Audiences]]
-- [[employee-center-landing-page|Employee Center]]

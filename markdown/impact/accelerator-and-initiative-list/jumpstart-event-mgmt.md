@@ -18,7 +18,7 @@ The Jumpstart Your Event Management Accelerator provides a demonstration of the 
 
 ## Accelerator overview
 
-Jumpstart Your Event Management provides [[impact-landing-page|Impact]] customers with a comprehensive overview of Event Management. Through an applied demonstration, we highlight how you can leverage the power of the ServiceNow Configuration Management Database \(CMDB\) to receive and review near real-time alerts from your infrastructure directly within the ServiceNow platform. This offering equips our customers with essential ServiceNow resources and leading practice guides on  how to get started with Event Management. See [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) for additional information about the feature.
+Jumpstart Your Event Management provides Impact customers with a comprehensive overview of Event Management. Through an applied demonstration, we highlight how you can leverage the power of the ServiceNow Configuration Management Database \(CMDB\) to receive and review near real-time alerts from your infrastructure directly within the ServiceNow platform. This offering equips our customers with essential ServiceNow resources and leading practice guides on  how to get started with Event Management. See [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) for additional information about the feature.
 
 ## Package Availability
 
@@ -124,6 +124,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow resources are not responsible for implementing recommendations on a customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

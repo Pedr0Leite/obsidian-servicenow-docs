@@ -16,7 +16,7 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 Certain types of data extracted from documents are converted into a standard format so that they appear the same across all fields.
 
-**Important:** Starting with the Zurich release, [[document-intelligence-landing|Document Intelligence]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 This process increases the usefulness of the data by enabling it to be grouped and analyzed more easily. It also supports integration with other applications on the ServiceNow AI Platform.
 
@@ -87,7 +87,7 @@ A completed data extraction field shows the converted value next to it.
 
 You can adjust the converted date value by selecting **Edit**.
 
-**Note:** In some [[cases|cases]], the data extracted from the document may not be in a valid format to be converted. For example, if DocIntel read the letter O instead of a number 0 in a date field \(11.12.2o23\), then it would not be converted. In this case, edit the field to the correct format.
+**Note:** In some cases, the data extracted from the document may not be in a valid format to be converted. For example, if DocIntel read the letter O instead of a number 0 in a date field \(11.12.2o23\), then it would not be converted. In this case, edit the field to the correct format.
 
 ## Ambiguous data
 
@@ -126,8 +126,3 @@ In such cases, the user completing a document task may need to confirm or correc
 
 [Limitations in Document Intelligence]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

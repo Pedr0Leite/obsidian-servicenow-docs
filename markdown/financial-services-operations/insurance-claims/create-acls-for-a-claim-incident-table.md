@@ -14,11 +14,11 @@ breadcrumb: [Claim incidents, Configure, Insurance claims, Exploring insurance c
 
 # Create an access control list for a claim incident table
 
-Create an access control list \(ACL\) for a claim incident table by using the [[insurance-claims-flow|Insurance claims]] application. By creating an ACL, you ensure that users with specific roles can interact with tables for particular [[claim-incidents|claim incidents]].
+Create an access control list \(ACL\) for a claim incident table by using the Insurance claims application. By creating an ACL, you ensure that users with specific roles can interact with tables for particular claim incidents.
 
 ## Before you begin
 
-Set the application scope of your instance to **[[insurance-claims-core-data-model|Insurance Claims Core]]**.
+Set the application scope of your instance to **Insurance Claims Core**.
 
 Role required: admin
 
@@ -41,8 +41,3 @@ Role required: admin
 
 Grant Insurance claims roles access to the claim incident table so that they can read and write entries during the claim creation process. For more information, see [Grant Insurance claims roles access to a claim incident table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/update-insurance-claim-roles-for-a-claim-incident-table.md).
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[claim-incidents|Claim incidents]]
-- [[insurance-claims-core-data-model|Insurance Claims Core]]

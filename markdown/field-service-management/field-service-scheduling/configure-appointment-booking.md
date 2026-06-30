@@ -14,7 +14,7 @@ breadcrumb: [Configuring Appointment Booking, Additional scheduling configuratio
 
 # Configure Appointment Booking
 
-Set up [[appointment-booking|appointment booking]] to allow customers and service providers to schedule and manage service appointments efficiently.
+Set up appointment booking to allow customers and service providers to schedule and manage service appointments efficiently.
 
 The steps to configure Appointment Booking are:
 
@@ -40,7 +40,7 @@ The steps to configure Appointment Booking are:
 
 6.  [Configure an appointment booking record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appt-booking-config-record-producer.md)
 
-    [[appt-booking-config-record-producer|Configure an appointment booking record producer]] and enable the appointment booking variable set to display the correct fields in that record producer.
+    Configure an appointment booking record producer and enable the appointment booking variable set to display the correct fields in that record producer.
 
 7.  [Create a business rule to automatically generate appointment records from catalog item variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-business-rules-to-automatically-create-appointment-record.md)
 
@@ -65,7 +65,3 @@ The steps to configure Appointment Booking are:
 
 13. \(Optional\) [Set the starting day of the week on the appointment booking calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-week-appt-book.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[appt-booking-config-record-producer|Configure an appointment booking record producer]]

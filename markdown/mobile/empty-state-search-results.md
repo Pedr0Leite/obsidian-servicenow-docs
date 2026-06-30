@@ -21,21 +21,21 @@ You should have an empty state for the following situations:
 -   When a search for a term does not produce any results.
 -   When a search using a navigation tab does not produce any results.
 
-For more information, see [[empty-state-default|Configure an empty state]].
+For more information, see [Configure an empty state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-default.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  Create an empty state record, then use the bridge to [[mobile-card-builder|Mobile Card Builder]] \(MCB\) to configure the card that is referenced by the search config:
+3.  Create an empty state record, then use the bridge to Mobile Card Builder \(MCB\) to configure the card that is referenced by the search config:
 
     1.  Select **All mobile records** from the menu.
     2.  From the Record type drop-down menu, select **Empty state \[sys\_sg\_empty\_state\]** and then select **New**.
@@ -89,9 +89,4 @@ Role required: admin
 
 13. In Mobile App Builder, select **Save**.
 
-## Related
 
-- [[empty-state-default|Configure an empty state]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-card-builder|Mobile Card Builder]]

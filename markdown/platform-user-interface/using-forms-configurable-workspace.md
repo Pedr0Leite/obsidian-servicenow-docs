@@ -14,15 +14,12 @@ breadcrumb: [Use, Configurable Workspace UI, Configure UIs and portals, Configur
 
 Learn how to use form features on a Configurable Workspace record page.
 
--   **[[use-personalize-form|Use the Personalize Form menu]]**
+-   **[Use the Personalize Form menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/use-personalize-form.md)**
 
     Use the Personalize Form menu to add or remove fields from your view.
 
--   **[[ai-ml-field-recommendations|AI field recommendations]]**
+-   **[AI field recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/ai-ml-field-recommendations.md)**
 
     Use AI field recommendations for a list of top recommendations or to fill fields automatically.
 
-## Related
 
-- [[use-personalize-form|Use the Personalize Form menu]]
-- [[ai-ml-field-recommendations|AI field recommendations]]

@@ -14,17 +14,17 @@ breadcrumb: [Sharing components among applications — Component libraries, Usin
 
 # Request to include a component to a component library
 
-Submit a request for a component in an application that could be reused across multiple [[dex-workspace-application-tab|applications]] to be added to a shared component library.
+Submit a request for a component in an application that could be reused across multiple applications to be added to a shared component library.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_admin or cdm\_editor
 
 ## About this task
 
-While creating data [[c_Models|models]] for their applications, DevOps Config editors and administrators may identify certain components could be reused across multiple applications. They can submit a request to the component library owners to add those components to the library.
+While creating data models for their applications, DevOps Config editors and administrators may identify certain components could be reused across multiple applications. They can submit a request to the component library owners to add those components to the library.
 
 **Note:** You can only submit one request for a component for the same library at a time.
 
@@ -101,8 +101,3 @@ While a request is in the Pending review state, you can change its information o
 
 The library owner can review and approve or reject the request.
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[c_Models|Models]]

@@ -14,9 +14,9 @@ breadcrumb: [Configure Sighting Search, TISC Enrichment integrations, TISC Integ
 
 # Get started with Sighting Search Configurations
 
-Sighting Search Configurations define how [[threat-intel-landing-page|threat intelligence]] data is searched and matched against your environment. Configure these settings to customize threat detection and improve security monitoring accuracy.
+Sighting Search Configurations define how threat intelligence data is searched and matched against your environment. Configure these settings to customize threat detection and improve security monitoring accuracy.
 
-The Elasticsearch and Splunk Sighting Search integrations enrich [[c_Observables|observables]] with sighting information from your log data. Elasticsearch searches logs to add relevant [[indicator-sightings|sightings]] directly to observables, while Splunk searches, monitors, and analyzes machine-generated data across [[security-operations-landing-page|Security Operations]]. Download the Splunk Sighting Search integration from the ServiceNow Store.
+The Elasticsearch and Splunk Sighting Search integrations enrich observables with sighting information from your log data. Elasticsearch searches logs to add relevant sightings directly to observables, while Splunk searches, monitors, and analyzes machine-generated data across Security Operations. Download the Splunk Sighting Search integration from the ServiceNow Store.
 
 -   **[Configure and enable Elasticsearch integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-elasticsearch-integration.md)**  
 Elasticsearch is a distributed, RESTful search and analytics engine that easily integrates with Security Operations.
@@ -25,9 +25,3 @@ Configure the Splunk Enrichment integration to automatically search your logs an
 
 **Parent Topic:**[Configure Sighting Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-sighting-search.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[security-operations-landing-page|Security Operations]]

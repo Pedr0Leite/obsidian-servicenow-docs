@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer or sn\_customerservice.unified\_cons
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
 2.  Navigate to **Requests** &gt; **Submit a request** &gt; **Get help** &gt; **Get product help** in the portal header.
 
@@ -82,9 +82,5 @@ Detailed description of the issue.**Note:** When you start entering the subject,
 
 ## Result
 
-The new case is created and added to the Cases list. To view the case, select the link in the case creation message or select **Requests** &gt; **View submitted requests** &gt; **[[osp-view-cases|View cases]] and tasks** from the portal header, and then select the case number.
+The new case is created and added to the Cases list. To view the case, select the link in the case creation message or select **Requests** &gt; **View submitted requests** &gt; **View cases and tasks** from the portal header, and then select the case number.
 
-## Related
-
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]
-- [[osp-view-cases|View cases]]

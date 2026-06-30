@@ -19,7 +19,7 @@ Use the AI-driven workflow to create calculated metric definitions \(CMD\) for S
 Make sure that the following prerequisites are met to use this feature:
 
 -   Operational Sustainability Workspace and Now Assist for Operational Sustainability plugin \(sn\_esg\_gen\_ai\) must be installed.
--   Carbon calculations agentic workflow must be activated. For more information, refer to [[activate-carbon-calculations-agentic-workflow|Activate carbon calculations agentic workflow]].
+-   Carbon calculations agentic workflow must be activated. For more information, refer to [Activate carbon calculations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-carbon-calculations-agentic-workflow.md).
 
 Role required: sn\_esg\_gen\_ai.cmd\_agent\_user
 
@@ -58,12 +58,7 @@ Role required: sn\_esg\_gen\_ai.cmd\_agent\_user
 ## What to do next
 
 -   After the Calculated Metric Definition \(CMD\) is created, update its frequency before changing the formula. The frequency should be set based on the frequencies of the underlying metric definitions used in the CMD.
--   Activate the CMD, for more information refer to, [[create-composite-metric-definition|Create a calculated metric definition]].
+-   Activate the CMD, for more information refer to, [Create a calculated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-composite-metric-definition.md).
 
-**Parent Topic:**[[use-agentic-ai-in-now-assist-for-esg-management|Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/use-agentic-ai-in-now-assist-for-esg-management.md)
 
-## Related
-
-- [[activate-carbon-calculations-agentic-workflow|Activate carbon calculations agentic workflow]]
-- [[create-composite-metric-definition|Create a calculated metric definition]]
-- [[use-agentic-ai-in-now-assist-for-esg-management|Use agentic AI in Now Assist for Operational Sustainability \(formerly ESG\)]]

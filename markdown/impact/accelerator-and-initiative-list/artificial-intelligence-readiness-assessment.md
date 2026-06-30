@@ -27,13 +27,13 @@ This Accelerator provides you with an assessment and guidance on your readiness 
 -   Knowledge creation
 -   Chat summarization
 
-Your [[impact-squad|Impact Squad]] provides guidance based on your selected Generative AI products \(we recommend up to three per accelerator\).
+Your Impact Squad provides guidance based on your selected Generative AI products \(we recommend up to three per accelerator\).
 
 See [Enable AI experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-products.md) for additional information on ServiceNow AI-based tools.
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided+ \(Platform Governance add-on\), Advanced and Total Packages.
+**Note:** This Accelerator is available for Impact Guided+ \(Platform Governance add-on\), Advanced and Total Packages.
 
 ## Prerequisites
 
@@ -255,7 +255,3 @@ This Accelerator does not include:
 -   Implementation of Generative AI capabilities
 -   Technical troubleshooting or remediation of Generative AI capabilities
 
-## Related
-
-- [[impact-squad|Impact Squad]]
-- [[impact-landing-page|Impact]]

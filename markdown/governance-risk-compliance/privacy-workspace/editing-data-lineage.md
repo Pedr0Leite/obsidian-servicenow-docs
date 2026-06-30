@@ -32,7 +32,7 @@ You can edit a relationship from the lineage map by selecting the arrow between 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **Workspaces** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select the processing activity record.
 
@@ -51,6 +51,3 @@ You can edit a relationship from the lineage map by selecting the arrow between 
 
 **Parent Topic:**[Create a lineage for a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-data-lineage-for-a-processing-activity.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]

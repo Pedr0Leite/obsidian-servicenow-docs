@@ -16,7 +16,7 @@ Use the recommendations full list to view the recommendations tailored for you. 
 
 ## Before you begin
 
-Role required: All [[impact-landing-page|Impact]] roles
+Role required: All Impact roles
 
 ## About this task
 
@@ -61,9 +61,5 @@ Role required: All [[impact-landing-page|Impact]] roles
 
 ## What to do next
 
-For more information on a given recommendation, see [[recommendation-details-page-in-impact-store|Manage Recommendation details in Impact Store]].
+For more information on a given recommendation, see [Manage Recommendation details in Impact Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/recommendation-details-page-in-impact-store.md).
 
-## Related
-
-- [[recommendation-details-page-in-impact-store|Manage Recommendation details in Impact Store]]
-- [[impact-landing-page|Impact]]

@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology change approval, Use, Operational Technology
 
 # Add an approver to review a change request
 
-Add a group member, or approver, manually to your approval group to review your [[operational-technology-overview|Operational Technology]] \(OT\) change request.
+Add a group member, or approver, manually to your approval group to review your Operational Technology \(OT\) change request.
 
 ## Before you begin
 
@@ -41,15 +41,10 @@ Role required: admin
 
 New members have been added to your approval group. Now, the approval group can review your change request.
 
-Once you complete the Initiate and Plan stages of your OT change request in the [[advanced-ot-change-model|Advanced OT Change Model playbook]], you can request an approval in the Approve stage. The member or members in your approval group must open the change request record to approve it in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] using either of the following methods.
+Once you complete the Initiate and Plan stages of your OT change request in the Advanced OT Change Model playbook, you can request an approval in the Approve stage. The member or members in your approval group must open the change request record to approve it in the Industrial Workspace using either of the following methods.
 
 -   In the change request record, select the **Approvers** tab and change the **State** field from **Requested** to the appropriate option.
 -   In the **Playbook** tab, select the Approve stage and change the **State** field from **Requested** to the appropriate option.
 
 **Parent Topic:**[Operational Technology change approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/ot-change-approval.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[advanced-ot-change-model|Advanced OT Change Model playbook]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Major Security Incident Management, Security Incident Re
 
 # Integrate Major Security Incident Management with Microsoft Teams
 
-[[integrating-threat-intelligence-security-center|Integrate]] your Microsoft Teams with [[major-security-incident-management-landing-page|Major Security Incident Management]].
+Integrate your Microsoft Teams with Major Security Incident Management.
 
 -   [Register a new application at Azure portal for Microsoft Teams connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/register-teams-app-msim.md)
 -   [Configure Microsoft Teams connection with Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-teams-msim.md)
@@ -35,7 +35,3 @@ Set up Major Security Incident Management with Microsoft Teams connection.
 
 [Major Security Incident Management Conference Call Integration]()
 
-## Related
-
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

@@ -16,7 +16,7 @@ Platform Owners use Proactive Code Check to track compliance against coding best
 
 ## About this task
 
-**Note:** Starting with [[impact-landing-page|Impact]] Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Note:** Starting with Impact Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 -   Identify recurring issues and trends in unresolved findings.
 -   View progress on resolving technical debt over time.
@@ -28,7 +28,7 @@ Role required: Impact\_platform\_owner, sn.mif\_mif\_read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Impact** &gt; **[[platform-health-idi|Platform health]]** &gt; **Diagnostics**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform health** &gt; **Diagnostics**.
 
     The Proactive Code Check overview displays with data from the last 30 days.
 
@@ -54,10 +54,5 @@ Role required: Impact\_platform\_owner, sn.mif\_mif\_read
         |Count of Findings Muted|Muted and Updated on Today|
 
 
-**Parent Topic:**[[proactive-code-check|Proactive Code Check for the Impact Store Application]]
+**Parent Topic:**[Proactive Code Check for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/proactive-code-check.md)
 
-## Related
-
-- [[proactive-code-check|Proactive Code Check for the Impact Store Application]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

@@ -14,7 +14,7 @@ breadcrumb: [Collect data from your system devices, ACC deployment - shared betw
 
 # Enable checks from the community for Agent Client Collector
 
-You can take checks from the github community and customize them for use in the [[acc-landing-page|Agent Client Collector]] \(ACC\), or you can compose your own scripts. Create a plugin with the customized Sensu check and install it on a ServiceNow instance.
+You can take checks from the github community and customize them for use in the Agent Client Collector \(ACC\), or you can compose your own scripts. Create a plugin with the customized Sensu check and install it on a ServiceNow instance.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ Role required: agent\_client\_collector\_admin
 
 6.  Create secure parameters for your check, as described in [Create secure parameters for a check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-create-secure-params.md).
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

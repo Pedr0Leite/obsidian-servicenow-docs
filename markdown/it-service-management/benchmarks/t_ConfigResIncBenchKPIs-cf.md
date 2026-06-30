@@ -24,7 +24,7 @@ Role required: sn\_bm\_client.benchmark\_admin
 
 ## About this task
 
-If you are receiving errors in the [[benchmarks-landing|Benchmarks]] Data Collection job log for resolved incident KPIs because you are using a custom \(user-created\) field to track resolved incidents, the following procedure is required for successful data retrieval using these Benchmarks KPIs.
+If you are receiving errors in the Benchmarks Data Collection job log for resolved incident KPIs because you are using a custom \(user-created\) field to track resolved incidents, the following procedure is required for successful data retrieval using these Benchmarks KPIs.
 
 -   % of high priority incidents resolved
 -   % of incidents resolved on first assignment
@@ -60,6 +60,4 @@ Configure the KPI conditions and script to use your custom field \(instead of th
 
 3.  Verify that you are no longer receiving errors in the Benchmarks Data Collection job log.
 
-## Related
 
-- [[benchmarks-landing|Benchmarks]]

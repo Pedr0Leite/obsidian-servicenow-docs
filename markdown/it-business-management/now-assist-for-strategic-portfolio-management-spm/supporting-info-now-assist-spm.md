@@ -15,7 +15,7 @@ breadcrumb: [Explore, Now Assist for Strategic Portfolio Management \(SPM\), Str
 
 # Supporting information for Now Assist for Strategic Portfolio Management \(SPM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Strategic Portfolio Management \(SPM\) application.
 
 ## Supported versions
 
@@ -23,7 +23,7 @@ The Now Assist for SPM application is supported starting with the Xanadu patch 3
 
 ## Supported user interfaces
 
-The Now Assist for SPM application is supported for the [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, [[project-workspace-landing-page|Project Workspace]], [[c_DemandManagement|Demand Management]], and Enterprise Agile Planning.
+The Now Assist for SPM application is supported for the Strategic Planning Workspace, Project Workspace, Demand Management, and Enterprise Agile Planning.
 
 ## Licensing requirements
 
@@ -39,7 +39,7 @@ This store app has the following dependencies:
 -   Strategic Planning
 -   Project Workspace
 -   Enterprise Agile Planning
--   [[c_DemandWorkbench|Demand workbench]]
+-   Demand workbench
 
 For more information, see [Configure Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configuring-na-spm.md).
 
@@ -54,10 +54,3 @@ For more information, see [Configure Now Assist Admin features](https://raw.gith
 
 [Use AI agent or agentic workflows in Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-na-spm-ai-agents.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_DemandManagement|Demand Management]]
-- [[c_DemandWorkbench|Demand workbench]]

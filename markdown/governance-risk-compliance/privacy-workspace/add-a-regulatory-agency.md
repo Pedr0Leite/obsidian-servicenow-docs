@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Add a regulatory agency
 
-[[add-regulatory-agency|Add a regulatory agency]] in the Privacy Workspace to identify the relevant regulatory authorities that are responsible for overseeing the industries or sectors within each jurisdiction. The jurisdictions consolidate all the regulatory communications via emails and implement the notification rules for data privacy or security breaches for the reported privacy cases.
+Add a regulatory agency in the Privacy Workspace to identify the relevant regulatory authorities that are responsible for overseeing the industries or sectors within each jurisdiction. The jurisdictions consolidate all the regulatory communications via emails and implement the notification rules for data privacy or security breaches for the reported privacy cases.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **Lists** &gt; **Regulatory information** &gt; **Agencies**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Lists** &gt; **Regulatory information** &gt; **Agencies**.
 
 2.  Select **New**.
 
@@ -32,12 +32,7 @@ Role required: sn\_privacy.analyst
 
 
 -   **[Regulatory agency form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/regulatory-agency-form.md)**  
-Use the Create [[regulatory-agency-form|Regulatory Agency form]] in the Privacy Workspace to create a regulatory agency. The regulatory agency is a new record type that handles regulatory changes.
+Use the Create Regulatory Agency form in the Privacy Workspace to create a regulatory agency. The regulatory agency is a new record type that handles regulatory changes.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[add-regulatory-agency|Add a regulatory agency]]
-- [[privacy-management|privacy management]]
-- [[regulatory-agency-form|Regulatory agency form]]

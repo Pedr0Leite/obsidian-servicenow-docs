@@ -18,7 +18,7 @@ Use this dashboard to see the trends in change request resolution over time acro
 
 **Important:**
 
-Starting in Xanadu release, the Change dashboard is deprecated. Users can use [[change|Change dashboard]] to view, and track the open changes.
+Starting in Xanadu release, the Change dashboard is deprecated. Users can use [Change dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change.md) to view, and track the open changes.
 
 \[Omitted image "change-management.gif"\] Alt text: Animated tour of the tabs of the Change Management dashboard
 
@@ -79,6 +79,3 @@ The following indicators do not appear on the dashboard but are used in formulas
 
 **Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)
 
-## Related
-
-- [[change|Change dashboard]]

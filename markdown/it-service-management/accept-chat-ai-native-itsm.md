@@ -12,7 +12,7 @@ breadcrumb: [Fulfiller experience, Simplified IT Service Management, IT Service 
 
 # Accept a live chat from a requester
 
-Automatically [[create-an-incident|create an incident]] by accepting a live chat or phone call from a requester.
+Automatically create an incident by accepting a live chat or phone call from a requester.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_service\_desk\_agent
 
 1.  Navigate to **All** &gt; **Workspaces** &gt; **Service Operations Workspace**.
 
-    The [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]] [[dex-workspace-dashboard-tab|landing page]] is displayed.
+    The Simplified IT Service Management landing page is displayed.
 
 2.  Select the **Inbox** icon and then select **Available** to set your availability.
 
@@ -57,11 +57,5 @@ Role required: sn\_service\_desk\_agent
 
 \[Omitted image "incident-ai-native-itsm.png"\] Alt text: Ai native incident form with no chat panel.
 
-**Parent Topic:**[[fulfiller-experience-ai-native-itsm|Fulfiller experience in Simplified IT Service Management]]
+**Parent Topic:**[Fulfiller experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/fulfiller-experience-ai-native-itsm.md)
 
-## Related
-
-- [[fulfiller-experience-ai-native-itsm|Fulfiller experience in Simplified IT Service Management]]
-- [[create-an-incident|Create an incident]]
-- [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
-- [[dex-workspace-dashboard-tab|Landing page]]

@@ -12,7 +12,7 @@ breadcrumb: [Redox Inbound Integration, Healthcare and Life Sciences Service Man
 
 # Exploring Redox Inbound Integration
 
-Whether you're starting or expanding the implementation of the [[hcls-redox-app|Redox Inbound Integration]] application, consider learning more about the app used for integration with a healthcare system via the Redox platform.
+Whether you're starting or expanding the implementation of the Redox Inbound Integration application, consider learning more about the app used for integration with a healthcare system via the Redox platform.
 
 **Important:**
 
@@ -46,22 +46,16 @@ Role
 
 </th></tr></thead><tbody><tr><td>
 
-Enables healthcare systems including electronic medical records \(EMR\) systems and electronic health records \(EHR\) systems to integrate with the ServiceNow [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]] that is based on the Health Insurance Portability and Accountability Act \(HIPAA\) and the Health Level Seven International \(HL7\) industry standards while avoiding the cost and complexity of implementing point-to-point integrations by enabling bidirectional integration between multiple EMR systems and a ServiceNow instance.
+Enables healthcare systems including electronic medical records \(EMR\) systems and electronic health records \(EHR\) systems to integrate with the ServiceNow Healthcare and Life Sciences data model that is based on the Health Insurance Portability and Accountability Act \(HIPAA\) and the Health Level Seven International \(HL7\) industry standards while avoiding the cost and complexity of implementing point-to-point integrations by enabling bidirectional integration between multiple EMR systems and a ServiceNow instance.
 
 </td><td>
 
-[[hcls-redox-use|Exchange real-time healthcare data with Redox Inbound Integration]]
+[Exchange real-time healthcare data with Redox Inbound Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-use.md)
 
 </td><td>
 
 Administrator/Clinician
 
 </td></tr></tbody>
-</table>To get started with the Redox Inbound Integration application, see [[hcls-redox-app-config|Configuring Redox Inbound Integration]].
+</table>To get started with the Redox Inbound Integration application, see [Configuring Redox Inbound Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-app-config.md).
 
-## Related
-
-- [[hcls-redox-use|Exchange real-time healthcare data with Redox Inbound Integration]]
-- [[hcls-redox-app-config|Configuring Redox Inbound Integration]]
-- [[hcls-redox-app|Redox Inbound Integration]]
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]

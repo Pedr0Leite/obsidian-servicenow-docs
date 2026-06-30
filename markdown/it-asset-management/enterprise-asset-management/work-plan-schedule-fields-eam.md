@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Work plan schedule fields for Enterprise Asset Management
 
-A detailed description of all the work plan schedule fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all the work plan schedule fields in the Enterprise Asset Management application.
 
 ## Planned Work Schedule
 
@@ -268,7 +268,7 @@ Determines the end date of a planned work schedule.
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -296,7 +296,3 @@ Determines the end date of a planned work schedule.
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

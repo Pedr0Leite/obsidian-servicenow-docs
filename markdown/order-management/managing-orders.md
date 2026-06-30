@@ -12,15 +12,15 @@ breadcrumb: [Order Management, Use, Sales Customer Relationship Management]
 
 # Managing post-fulfillment order changes
 
-Efficiently handle a variety of post-fulfillment changes to maintain service quality and operational accuracy after initial [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]. These changes include canceling, suspending, resuming, disconnecting, and modifying orders. Each change type has distinct workflows, dependencies, and impacts on inventory and service states.
+Efficiently handle a variety of post-fulfillment changes to maintain service quality and operational accuracy after initial order fulfillment. These changes include canceling, suspending, resuming, disconnecting, and modifying orders. Each change type has distinct workflows, dependencies, and impacts on inventory and service states.
 
-After an initial order is fulfilled, existing customers may want to disconnect, [[Suspend|suspend]], or [[Resume|resume]] a product or service or change specifications or location for a product they’ve purchased. For example, a customer might want to disconnect their current 4G connectivity and upgrade it to 5G connectivity. You can manage such requests by creating orders with action type as Change, Move, Disconnect, Suspend, and Resume. For more information, see [[order-mgt-customer-order-types|Action types for customer and service orders]].
+After an initial order is fulfilled, existing customers may want to disconnect, suspend, or resume a product or service or change specifications or location for a product they’ve purchased. For example, a customer might want to disconnect their current 4G connectivity and upgrade it to 5G connectivity. You can manage such requests by creating orders with action type as Change, Move, Disconnect, Suspend, and Resume. For more information, see [Action types for customer and service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-types.md).
 
 When you change a product or service inventory record, the ServiceNow AI Platform creates the order line items from the specifications that you have defined. In a change service order inventory, the order line items are created only for your selected service inventories. If you select inventories that are top-order parent items, the order line items are created only for the parent items, not for the child order items. When the additional product is added to the change order, an inventory record is created for the added product. The new inventory is mapped to the new hierarchy.
 
-When you’re canceling a product or service order inventory, the ServiceNow AI Platform creates the order line items according to the specifications that you have defined. To [[cancel|cancel]] a product order inventory record, if your selected inventories are top-order parent items, the order line items are created for both the parent items and the child order items. If your selected inventories are child-order items, the order line items are created only for the child items.
+When you’re canceling a product or service order inventory, the ServiceNow AI Platform creates the order line items according to the specifications that you have defined. To cancel a product order inventory record, if your selected inventories are top-order parent items, the order line items are created for both the parent items and the child order items. If your selected inventories are child-order items, the order line items are created only for the child items.
 
-As a part of post-fulfillment order changes, Return Merchandise Authorization \(RMA\) is also possible through [[Modify|modify]], add, change, and disconnect \(MACD\) has a part of out of box process. For more information about RMA, see [[return-merchandise-authorization|Return Merchandise Authorization]].
+As a part of post-fulfillment order changes, Return Merchandise Authorization \(RMA\) is also possible through modify, add, change, and disconnect \(MACD\) has a part of out of box process. For more information about RMA, see [Return Merchandise Authorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization.md).
 
 Validation is required to successfully create the move order. To complete the validation and approve the move order, check the following:
 
@@ -43,34 +43,19 @@ The process to capture post-sale modification requests is similar to order captu
 
 You can also manage post-sale change requests from the customer accounts page, not only for products and services sold to a customer, but also to contracts and entitlements associated with the products and services. For more information about customer life cycle workflows, see [Customer Life Cycle Management Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-life-cycle-management-workflows.md).
 
--   **[[create-macd-orders|Request post-sale change orders]]**  
+-   **[Request post-sale change orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-macd-orders.md)**  
 Learn how to create orders for disconnecting, suspending, resuming products or services and changing specifications, characteristics, or service location for orders after an initial order has been fulfilled.
--   **[[move-order|Move order]]**  
+-   **[Move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/move-order.md)**  
 The move order helps agents to change the location for product inventory at the order line level.
--   **[[order-mgt-suspend-resume-action|Suspend and resume products and services]]**  
+-   **[Suspend and resume products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-suspend-resume-action.md)**  
 You can use suspend and resume actions to temporarily suspend or inactivate your product and service inventories. That way, you can capture a customer's suspend request and resume the products and services later.
 
-**Parent Topic:**[[using-order-management|Using Order Management]]
+**Parent Topic:**[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-customer-order-types|Action types for customer and service orders]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[create-macd-orders|Request post-sale change orders]]
-- [[move-order|Move order]]
-- [[order-mgt-suspend-resume-action|Suspend and resume products and services]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[cancel|Cancel]]
-- [[Modify|Modify]]

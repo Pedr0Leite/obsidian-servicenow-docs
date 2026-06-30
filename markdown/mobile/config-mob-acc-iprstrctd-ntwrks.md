@@ -38,7 +38,7 @@ For more information about adaptive authentication, see [Adaptive authentication
     -   **glide.authenticate.preauth.allow.trusted.device**
     This step verifies that an adaptive authentication policy is activated on your ServiceNow instance.
 
-4.  Search for the [[adapt-auth-mob-apps-sys-props|adaptive authentication mobile system property names]].
+4.  Search for the [adaptive authentication mobile system property names](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/adapt-auth-mob-apps-sys-props.md).
 
     To edit the values for a property, double-click its name and fill in the fields in the System Property New record form as needed. If you can't find a property, select **New** to add it.
 
@@ -63,9 +63,5 @@ For more information about adaptive authentication, see [Adaptive authentication
 -   **[Adaptive authentication for mobile apps system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/adapt-auth-mob-apps-sys-props.md)**  
 Use these system properties to configure access to IP-restricted networks for ServiceNow mobile apps.
 
-**Parent Topic:**[[mob-access-ip-restrictd-netwrks|Mobile access to IP-restricted networks]]
+**Parent Topic:**[Mobile access to IP-restricted networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mob-access-ip-restrictd-netwrks.md)
 
-## Related
-
-- [[adapt-auth-mob-apps-sys-props|Adaptive authentication for mobile apps system properties]]
-- [[mob-access-ip-restrictd-netwrks|Mobile access to IP-restricted networks]]

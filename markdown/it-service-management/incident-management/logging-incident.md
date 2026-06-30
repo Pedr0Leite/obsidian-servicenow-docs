@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents, Incident Management, IT Service Management]
 
 # Logging an incident
 
-Log incident records from sources such as email, service desk, service catalog, or external [[dex-workspace-application-tab|applications]] as per your convenience. You can also generate incident using business rules or SOAP messaging.
+Log incident records from sources such as email, service desk, service catalog, or external applications as per your convenience. You can also generate incident using business rules or SOAP messaging.
 
 <table id="table_w5s_p4x_bq"><thead><tr><th>
 
@@ -62,7 +62,7 @@ Chat window
 
 </td><td>
 
-User can request to [[create-an-incident|create an incident]] using the Connect chat icon \(\[Omitted image "bus-chat.svg"\] Alt text: Chat icon\) that appears on the upper-right corner of the instance. On the chat window, the user can add an ITIL user and also provide a short description of the issue. Based on the description, the ITIL user creates an appropriate incident.
+User can request to create an incident using the Connect chat icon \(\[Omitted image "bus-chat.svg"\] Alt text: Chat icon\) that appears on the upper-right corner of the instance. On the chat window, the user can add an ITIL user and also provide a short description of the issue. Based on the description, the ITIL user creates an appropriate incident.
 
 </td></tr></tbody>
 </table>**Note:** If you want to create a security incident, first activate the Security Incident Response Dependencies plugin \(com.snc.si\_dep\). You can then click **Create Security Incident** on a new incident form to create a security incident from the currently displayed incident.
@@ -79,7 +79,3 @@ User who do not have the itil role can view an incident only if the user is the 
 -   Incidents can be automatically generated using business rules. Business rules use JavaScript to generate an incident if pre-defined conditions are met.
 -   Incidents can be generated from outside the platform with SOAP messaging. For more information, refer to [SOAP messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_DirectWebServices.md) .
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[create-an-incident|Create an incident]]

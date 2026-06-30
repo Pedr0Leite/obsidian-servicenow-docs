@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure keyword searching in Dispatcher Workspace
 
-Use specific keyword formatting, powered by ServiceNow® Zing, to quickly locate tasks and resources in [[dispatcher-activities|Dispatcher Workspace]].
+Use specific keyword formatting, powered by ServiceNow® Zing, to quickly locate tasks and resources in Dispatcher Workspace.
 
 ## How Zing search works
 
@@ -58,6 +58,3 @@ The table below shows what tables Zing searches when you use keywords based on t
 
 For examples on how to use Zing keywords in Dispatcher Workspace, see [Searching in Dispatcher Workspace examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/search-keyword-example.md).
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

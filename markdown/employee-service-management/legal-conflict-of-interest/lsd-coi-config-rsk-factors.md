@@ -25,7 +25,7 @@ Risk factors define the criteria evaluated when scoring a request. Each factor i
 
     **Note:**
 
-    -   The skill is available in the base system to evaluate an COI request only when you have installed and configured [[legal-management-overview|Legal Service Delivery]] - Prime that is a paid application.
+    -   The skill is available in the base system to evaluate an COI request only when you have installed and configured Legal Service Delivery - Prime that is a paid application.
     -   You can access the skill by navigating to **Now Assist Skill Kit** &gt; **Home** &gt; **Custom skills** and selecting Legal Risk Evaluator Prompt.
     For more information, see [Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md).
 
@@ -71,7 +71,7 @@ Steps
 
 </td><td>
 
-A Subflow [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field appears.
+A Subflow reference field appears.
 
 Select the Flow Designer subflow that executes custom evaluation logic and returns a risk score in the Subflow field.
 
@@ -112,7 +112,3 @@ The risk factor is configured and active. When the risk assessment utility evalu
 
 **Parent Topic:**[Configure risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-config-risk-fac.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

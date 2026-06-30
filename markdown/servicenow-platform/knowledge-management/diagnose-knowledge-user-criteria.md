@@ -18,7 +18,7 @@ Manage user access to a knowledge base or an article using user criteria diagnos
 
 User access to a knowledge base or an article can be restricted based on:
 
--   [[domain-separation-relationship-formatter-editor|Domain separation]]
+-   Domain separation
 -   Access control list \(ACL\) rules
 -   [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md)
 -   User criteria set for a [knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUserCriteria.md) or an [article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
@@ -27,7 +27,7 @@ This feature considers domain separation and user criteria to determine the user
 
 ## Activation information
 
-The user criteria diagnostics feature is activated with the [[knowledge-management|Knowledge Management]] v3 plugin \(com.snc.knowledge3\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
+The user criteria diagnostics feature is activated with the Knowledge Management v3 plugin \(com.snc.knowledge3\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
 **Note:**
 
@@ -44,7 +44,3 @@ Capture metrics such as article views, page views, and portal searches to track 
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[knowledge-management|Knowledge Management]]

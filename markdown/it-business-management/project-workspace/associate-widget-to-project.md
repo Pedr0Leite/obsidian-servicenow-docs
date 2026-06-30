@@ -18,7 +18,7 @@ After you configure a widget, associate it with the Project table to show the fi
 
 **Important:**
 
-Classic [[project-workspace-landing-page|Project Workspace]] is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new Project Workspace with enhanced UI to help you efficiently manage your projects.
+Classic Project Workspace is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new Project Workspace with enhanced UI to help you efficiently manage your projects.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ Option to show the widget by default in the **Financials** tab.
 </table>
 **Parent Topic:**[Configure a widget for project financial metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-widget-project-financials.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Create an agentic workflow, Now Assist AI agents, Enable AI experie
 
 # Activate an agentic workflow template
 
-Activate an agentic workflow that come installed with [[platform-now-assist-landing|Now Assist]] applications in [[ai-agent-studio|AI Agent Studio]].
+Activate an agentic workflow that come installed with Now Assist applications in AI Agent Studio.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-Agentic workflows that are installed with Now Assist applications aren’t automatically activated. You must activate them before they can be used in the [[now-assist-center-now-assist-panel|Now Assist panel]] or as a UI action. Some may come with predefined triggers that must be set to active, too.
+Agentic workflows that are installed with Now Assist applications aren’t automatically activated. You must activate them before they can be used in the Now Assist panel or as a UI action. Some may come with predefined triggers that must be set to active, too.
 
-These predefined agentic workflows can also be used as templates for your own customized ones. You can [[clone-aia-usecase|duplicate an agentic workflow]] and use it as a blueprint for one that better suits your business needs, such as changing which records are available or providing different instructions.
+These predefined agentic workflows can also be used as templates for your own customized ones. You can [duplicate an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md) and use it as a blueprint for one that better suits your business needs, such as changing which records are available or providing different instructions.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ These predefined agentic workflows can also be used as templates for your own cu
 
 9.  Toggle the display for the Now Assist panel and/or UI action so that it’s turned on.
 
-    You have enabled the agentic workflow in the Now Assist panel. If the option isn't available, you must enable the panel first. For more information, see [[activate-now-assist-panel|Turn on the Now Assist panel]].
+    You have enabled the agentic workflow in the Now Assist panel. If the option isn't available, you must enable the panel first. For more information, see [Turn on the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
 10. Select **Save and test**.
 
@@ -55,15 +55,5 @@ The agentic workflow runs when the trigger is detected in the Now Assist panel.
 
 ## What to do next
 
-After completing the steps, you're redirected to test your agentic workflow to be sure it works as intended. You can [[test-aia-use-case|test an execution of your agentic workflow manually]] or [[test-aw-access|test the user access]]. Once you've determined that the agentic workflow has the basic functionality you expect, you can [[execute-aia-eval|evaluate it using automated tests]].
+After completing the steps, you're redirected to test your agentic workflow to be sure it works as intended. You can [test an execution of your agentic workflow manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md) or [test the user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aw-access.md). Once you've determined that the agentic workflow has the basic functionality you expect, you can [evaluate it using automated tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
-## Related
-
-- [[clone-aia-usecase|Duplicate an agentic workflow]]
-- [[activate-now-assist-panel|Activate the Now Assist panel standard chat]]
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[test-aw-access|Test user access to an agentic workflow]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

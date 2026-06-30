@@ -30,7 +30,7 @@ Public
 
 </td><td>
 
-Visible to all users, including non-logged in users. All users have **content\_read** access to questions and answers in public forums. Configure public [[migration-forms|forms]] by adding a [forum user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md) of the type public.
+Visible to all users, including non-logged in users. All users have **content\_read** access to questions and answers in public forums. Configure public forms by adding a [forum user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-user.md) of the type public.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ The forum title is visible to registered community users. Community users must r
         -   **Forum Visible**: Read access to the name and description of the forum for registered users. To access content, users must request forum membership.
     2.  If required, you can add a [new forum permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md) and set it as the default using the sn\_communities.default\_permission\_for\_forum\_memberships property.
 
-        If you want public users to view content in the forum to attract them to become members, [[create-forum-permission|create a forum permission]] as follows:
+        If you want public users to view content in the forum to attract them to become members, create a forum permission as follows:
 
         -   **Forum User**: **Public**.
         -   **Permission**: **Question &amp; Answer Read**.
@@ -114,7 +114,3 @@ A task is created and sent to the users defined in your flow for approval.
 
 [Create a forum permission](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum-permission.md)
 
-## Related
-
-- [[migration-forms|Forms]]
-- [[create-forum-permission|Create a forum permission]]

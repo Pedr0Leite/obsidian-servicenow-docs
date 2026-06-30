@@ -14,7 +14,7 @@ breadcrumb: [Integrating your pipeline in DevOps Config, DevOps Config, IT Servi
 
 # Jenkins pipeline actions
 
-Use these actions in your Jenkins pipeline to interact with the [[devops-config-landing-page|DevOps Config]] data model.
+Use these actions in your Jenkins pipeline to interact with the DevOps Config data model.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -40,7 +40,7 @@ These actions are provided to create a specific pipeline definition to achieve y
 
 -   snDevOpsConfigExport
 
-    [[cdm-cfg-data-export-from-ui|Export a snapshot]] for a given application and deployable.
+    Export a snapshot for a given application and deployable.
 
 -   snDevOpsConfigRegisterPipeline
 
@@ -52,7 +52,7 @@ These actions are provided to create a specific pipeline definition to achieve y
 
 -   snDevOpsChange
 
-    [[t_CreateAChange|Create a change request]] with associated snapshot attached.
+    Create a change request with associated snapshot attached.
 
 
 ## snDevOpsConfig
@@ -487,7 +487,7 @@ changesetNumber
         )
         ```
 
-    -   In subsequent uploads, [[reference-for-itsm-mobile-agent|reference]] the changesetNumber output variable from the first upload as an input variable.
+    -   In subsequent uploads, reference the changesetNumber output variable from the first upload as an input variable.
 
         3 JSON files upload:
 
@@ -843,7 +843,7 @@ Specifies the file to export data to \(assumed to be in the workspace\).
 
 ## snDevOpsConfigRegisterPipeline
 
-This action ties a changeset and/or snapshot to the pipeline so that it can be tracked during the pipeline execution. In [[devops-landing-page-new|DevOps Change Velocity]], this is shown in the Pipeline UI.
+This action ties a changeset and/or snapshot to the pipeline so that it can be tracked during the pipeline execution. In DevOps Change Velocity, this is shown in the Pipeline UI.
 
 See [Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md) for more information regarding the DevOps Change Acceleration feature.
 
@@ -1113,7 +1113,7 @@ pipeline {
         }
         
         // Create change request and attach snapshot for reference
-        stage('[[c_ITILChangeManagement|Change Management]]') {
+        stage('Change Management') {
             steps {
                 script {
                     // Trigger change request
@@ -1136,11 +1136,3 @@ pipeline {
 
 ```
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[cdm-cfg-data-export-from-ui|Export a snapshot]]
-- [[t_CreateAChange|Create a change request]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_ITILChangeManagement|Change Management]]

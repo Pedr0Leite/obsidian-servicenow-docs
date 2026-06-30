@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Open a job requisition.
 
@@ -37,11 +37,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Result
 
-The applicant receives the email. The email is also added to the [[activity-lxp|activity]] stream of the application record.
+The applicant receives the email. The email is also added to the activity stream of the application record.
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[activity-lxp|Activity]]

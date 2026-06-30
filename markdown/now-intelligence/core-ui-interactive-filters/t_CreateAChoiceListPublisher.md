@@ -14,11 +14,11 @@ breadcrumb: [Creating Interactive Filters, Interactive Filters, Reporting, dashb
 
 # Create a choice list interactive filter
 
-A choice list interactive filter enables users to filter report [[widgets|widgets]] based on the value of a choice list.
+A choice list interactive filter enables users to filter report widgets based on the value of a choice list.
 
 ## Before you begin
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing [[c_HomepagePublishers|interactive filters]] in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 Choice lists contain a limited number of specified values to choose from. Status and Priority are two examples of choice lists. User and location are not usually choice list selections. For more information, see Choice list field type.
 
@@ -102,8 +102,3 @@ Choice list filter - Check boxes
 
 **Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]

@@ -14,7 +14,7 @@ breadcrumb: [Load balancers, Network device discovery, Data collected by ITOM Vi
 
 # NGINX load balancer discovery
 
-[[r-discovery|Discovery]] of NGINX load balancers is performed by SSH.
+Discovery of NGINX load balancers is performed by SSH.
 
 NGINX is an open source web server with a load balancer. Discovery identifies the web server and information related to the load balancer.
 
@@ -25,7 +25,7 @@ Consider the following requirements for discovering NGINIX servers:
 -   Enable secure shell \(SSH\) commands.
 -   The NGINX probes require credentials and execute privileges to run commands.
 
-For a list of privileged commands that you need for Discovery and [[c_ServiceMappingOverview|Service Mapping]], see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
+For a list of privileged commands that you need for Discovery and Service Mapping, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md). This list includes commands that require elevated rights to discover and map Unix-based hosts in your organization.
 
 The Nginx Process Classifier detects a running process that matches the following criteria during the exploration of a UNIX server:
 
@@ -54,7 +54,3 @@ In addition to populating the data, the following relationships records are crea
 
 **Parent Topic:**[Load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

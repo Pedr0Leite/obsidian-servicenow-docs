@@ -14,11 +14,11 @@ breadcrumb: [TuneUp Your Virtual Agent, Technical Accelerators, Accelerator cata
 
 # TuneUp Your Virtual Agent – Performance Monitoring
 
-The TuneUp Your Virtual Agent – Performance Monitoring Accelerator provides guidance on fine-tuning Virtual Agent [[instance-observer-performance|performance]] to optimize value.
+The TuneUp Your Virtual Agent – Performance Monitoring Accelerator provides guidance on fine-tuning Virtual Agent performance to optimize value.
 
 ## Overview
 
-The TuneUp Your Virtual Agent – Performance Monitoring Accelerator provides [[impact-landing-page|Impact]] customers with a performance assessment of Virtual Agent with prescriptive guidance on tools to leverage that measure success and identify improvement opportunities. Reviewing dashboards and related tools then providing recommendations on how best to improve and optimize value from Virtual Agent.
+The TuneUp Your Virtual Agent – Performance Monitoring Accelerator provides Impact customers with a performance assessment of Virtual Agent with prescriptive guidance on tools to leverage that measure success and identify improvement opportunities. Reviewing dashboards and related tools then providing recommendations on how best to improve and optimize value from Virtual Agent.
 
 See [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) for additional information on Virtual Agent.
 
@@ -103,7 +103,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in Customer’s sub-production or production instances.
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]

@@ -27,7 +27,7 @@ Here are a few examples of what you can accomplish through the targeted messagin
 
 ## Example campaigns
 
-Content Experiences includes demo campaigns to help you better understand campaign structuring, explore examples of bundle trigger configurations, and [[discover-lxp|discover]] various use cases. To access the demo campaigns, navigate to **All** &gt; **Content Experiences** &gt; **Content Experience Builder**.
+Content Experiences includes demo campaigns to help you better understand campaign structuring, explore examples of bundle trigger configurations, and discover various use cases. To access the demo campaigns, navigate to **All** &gt; **Content Experiences** &gt; **Content Experience Builder**.
 
 **Note:** The admin must select **Load demo data** during the installation or upgrade of the Content Experiences plugin. If the demo data does not appear in your instance, ask your admin to install the demo data.
 
@@ -35,7 +35,7 @@ Content Experiences includes demo campaigns to help you better understand campai
 
 When planning a campaign, consider the following components:
 
--   **Who: [[ecpro-audience|Audiences]]**
+-   **Who: Audiences**
 
     Target different content to different audiences. You can have a campaign deliver one set of content to managers and another set to direct reports.
 
@@ -64,7 +64,7 @@ Here's an example of how to structure a company benefits open enrollment campaig
 2.  Open enrollment is here: This stage delivers content during the open enrollment period to provide the necessary information on employee benefits.
 3.  Open enrollment ends soon: In this stage, reminders are sent during the final week of the open enrollment period.
 
-Each campaign stage includes content that will be visible on the [[employee-center-portal-overview|employee portal]] and distributed via email. \[Omitted image "campaign.jpg"\] Alt text: Chart showing campaign structure.
+Each campaign stage includes content that will be visible on the employee portal and distributed via email. \[Omitted image "campaign.jpg"\] Alt text: Chart showing campaign structure.
 
 ## Setting up a campaign
 
@@ -81,11 +81,11 @@ With the Content Experience Builder, you can complete the entire workflow of con
 
     You can create a variety of content types that can be delivered via the employee portal, email, SMS, or push notification.
 
-    **Note:** [[ec-news-articles|News articles]] are not yet supported.
+    **Note:** News articles are not yet supported.
 
 2.  [Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-create-campaign.md)
 
-    [[ecpro-create-campaign|Create a campaign]] to define the audience, content approvers, and start and end dates.
+    Create a campaign to define the audience, content approvers, and start and end dates.
 
 3.  [Create campaign stages with Content Experience Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaign-builder.md)
 
@@ -104,7 +104,7 @@ With the Content Experience Builder, you can complete the entire workflow of con
 6.  Publish the campaign from the Content Experience Builder.
 7.  [Analyze the effectiveness of the campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-reevaluate-audience.md)
 
-    Verify that your campaign is targeting the correct audience. Create goals to see if your campaign is driving action from your employees, or reducing [[activity-lxp|activity]] such as the number of inquiry cases coming in. Continually evaluate your campaign as it progresses.
+    Verify that your campaign is targeting the correct audience. Create goals to see if your campaign is driving action from your employees, or reducing activity such as the number of inquiry cases coming in. Continually evaluate your campaign as it progresses.
 
 
 ## Legacy \(records and forms\)
@@ -132,11 +132,4 @@ If you prefer to create campaigns using records and forms, or if you are publish
 
     Verify that your campaign is targeting the correct audience. Create goals to see if your campaign is driving action from your employees, or reducing activity such as the number of inquiry cases coming in. Continually evaluate your campaign as it progresses.
 
-## Related
 
-- [[discover-lxp|Discover]]
-- [[ecpro-audience|Audiences]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-news-articles|News articles]]
-- [[ecpro-create-campaign|Create a campaign]]
-- [[activity-lxp|Activity]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in CM Pro, Contract Management Pro, Legal and Contract O
 
 # Explore Now Assist in Contract Management
 
-Use AI capabilities to identify non-standard and missing clauses in a contractand locate contract insights from contract metadata and documents using natural language. With metadata extraction, automatically extract metadata from signed contracts and add it to the contract repository. Use obligation extraction to capture obligations from signed contracts and [[cncore-create-obligations|create obligation records]] to track and fulfill compliance requirements.
+Use AI capabilities to identify non-standard and missing clauses in a contractand locate contract insights from contract metadata and documents using natural language. With metadata extraction, automatically extract metadata from signed contracts and add it to the contract repository. Use obligation extraction to capture obligations from signed contracts and create obligation records to track and fulfill compliance requirements.
 
 ## Now Assist in Contract Management overview
 
@@ -44,7 +44,7 @@ The following AI capabilities are available to a contract fulfiller:
 
     Extracts obligations from a signed contract in a contract repository record and displays the extracted information in the contract playbook.
 
-    **Note:** Obligation extraction is available only with the [[cmpro-na-reminder-agentic-wf|manage contract repository agentic workflow]].
+    **Note:** Obligation extraction is available only with the manage contract repository agentic workflow.
 
     For more information on activating the skill, see [Configure Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/confg-na-in-cmpro.md).
 
@@ -83,7 +83,7 @@ Administrator\[sn\_cm\_gen\_ai.ai\_contract\_admin\]
 
 </td><td>
 
-Provides administrative access to [[cncore-now-assit-landing|Now Assist in Contract Management]].Installs Now Assist in Contract Management plugin, and activates the required skills.
+Provides administrative access to Now Assist in Contract Management.Installs Now Assist in Contract Management plugin, and activates the required skills.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ The following workflow shows how different users work together to configure and 
 
 ## Contract analysis workflow
 
-The following sample end-to-end workflow shows how different users work together to configure and review the contract by [[cncore-use-now-assist-land|using Now Assist in Contract Management]].
+The following sample end-to-end workflow shows how different users work together to configure and review the contract by using Now Assist in Contract Management.
 
 1.  The contract AI administrator installs the Now Assist in Contract Management.
 2.  The contract AI administrator assigns users to the roles of contract AI fulfiller and contract AI configurator.
@@ -154,9 +154,3 @@ To learn more about configuring and using Now Assist in Contract Management, see
 -   [Configure Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/confg-na-in-cmpro.md)
 -   [Using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-now-assist-land.md)
 
-## Related
-
-- [[cncore-create-obligations|Create obligation records]]
-- [[cmpro-na-reminder-agentic-wf|Manage contract repository agentic workflow]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-use-now-assist-land|Using Now Assist in Contract Management]]

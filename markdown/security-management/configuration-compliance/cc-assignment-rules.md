@@ -16,7 +16,7 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 Define the criteria by which test results are automatically assigned to an assignment group for remediation.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -64,7 +64,7 @@ When you change an assignment rule, use the **Apply Changes** button on the Assi
 
 The scheduled job \[**Reapply all assignment rules**\] is inactive, by default. When activated, it evaluates all the open test results against all active rules except those manually assigned. It can run Daily, Weekly, Monthly, Periodically, Once or On Demand.
 
-**Important:** As an admin and analyst, you can obtain the latest assignments for selected test results in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]. This method is more efficient than reapplying the Assignment Rules for all test results in the classic UI, which is a time-consuming process. For more information, see [Re-evaluate the remediation properties of the records in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-reevaluate-remediation-parameters.md).
+**Important:** As an admin and analyst, you can obtain the latest assignments for selected test results in the Vulnerability Manager Workspace. This method is more efficient than reapplying the Assignment Rules for all test results in the classic UI, which is a time-consuming process. For more information, see [Re-evaluate the remediation properties of the records in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-reevaluate-remediation-parameters.md).
 
 ## Assignment rules and remediation task assignment
 
@@ -74,7 +74,3 @@ For example, if your RT groups by configuration item class, the remediation task
 
 When the assignment group is changed at the remediation task level, all the test results in that remediation task which have same assignment group are updated to the new assignment group. The test results are marked as manually assigned and are not eligible for further rule evaluation.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

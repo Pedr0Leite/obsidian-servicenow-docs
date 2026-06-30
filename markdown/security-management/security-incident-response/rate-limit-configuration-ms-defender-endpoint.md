@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender for Endpoint integration, Security Incident Resp
 
 # Rate limit configuration in Microsoft Defender for Endpoint integration
 
-Configure the rate limit of the API and timeout for the rate limit for [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]].
+Configure the rate limit of the API and timeout for the rate limit for Microsoft Defender for Endpoint integration.
 
 ## Before you begin
 
@@ -70,7 +70,3 @@ If the configured API call is made on the endpoint within one minute, the reques
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]

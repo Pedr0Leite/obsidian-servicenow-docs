@@ -20,7 +20,7 @@ Limit consumption of entitlements to specific set of entities during the reconci
 
 ## Overview of consumption rules
 
-[[create-consumption-rule|Create consumption rules]] for entitlements to restrict all entities from using that entitlement. If a consumption rule isn't defined for an entitlement and when the reconciliation process runs, any entity can use that entitlement regardless of who owns that entitlement.
+Create consumption rules for entitlements to restrict all entities from using that entitlement. If a consumption rule isn't defined for an entitlement and when the reconciliation process runs, any entity can use that entitlement regardless of who owns that entitlement.
 
 Consumption rules can be created for the following reconciliation groups:
 
@@ -32,7 +32,7 @@ Consumption rules can be created for the following reconciliation groups:
 
 A single consumption rule can be used across multiple entitlements that helps in reuse of consumption rules.
 
-After you create consumption rules in the [[operations-workspace|License operations view]], you must link a consumption rule to one or more entitlements in the **Entitlement Consumption Rules** related list in the entitlement page. After you link a consumption rule to an entitlement, consumption is limited to the users or devices belonging to at least one of the specified entities specified in the consumption rule.
+After you create consumption rules in the License operations view, you must link a consumption rule to one or more entitlements in the **Entitlement Consumption Rules** related list in the entitlement page. After you link a consumption rule to an entitlement, consumption is limited to the users or devices belonging to at least one of the specified entities specified in the consumption rule.
 
 If no active consumption rules exist in the **Entitlement Consumption Rules** related list, anyone in your organization can use the entitlement.
 
@@ -57,7 +57,7 @@ You now link all these three consumption rules to an entitlement, titled ENT A. 
 
 Consumption rules also support parent or child hierarchy for groups. If you have a consumption rule for parent company A, you can choose to include child company B and child company C without creating separate rules.
 
-The Create New Consumption Rulepage in the [[using-eam-workspace|Enterprise Asset Workspace]] lets you include the children of the company, department, and cost center in the consumption rule. This reduces the effort required to create individual consumption rules for each entity and to update consumption rules when new entities are added, update, or deleted.
+The Create New Consumption Rulepage in the Enterprise Asset Workspace lets you include the children of the company, department, and cost center in the consumption rule. This reduces the effort required to create individual consumption rules for each entity and to update consumption rules when new entities are added, update, or deleted.
 
 ## License pools
 
@@ -81,7 +81,7 @@ Any new allocations that exceed the license pool count will be honored. Any allo
 
 ## Upgrading from Pre Utah releases
 
-If you're upgrading from a Pre Australia release and based on what you have selected in the **com.snc.samp.recon.group** and **com.snc.samp.recon.subgroup** properties \(in the [[sam-properties|Software Asset Management Properties]] page\), the following upgrade actions take place:
+If you're upgrading from a Pre Australia release and based on what you have selected in the **com.snc.samp.recon.group** and **com.snc.samp.recon.subgroup** properties \(in the Software Asset Management Properties page\), the following upgrade actions take place:
 
 -   Grouping: **Company**, **Cost Center**, **Region**, **Department**, or **Country** is selected. A consumption rule is automatically created for the grouping entity selected if the entitlement is in use. For example, if **Department** is selected, and **Company** is selected as the subgroup, then one combined consumption rule is created for both the group, Department and the subgroup, Company. When reconciliation is run, the entitlement usage is restricted to only the Department group and the Company subgroup.
 
@@ -91,9 +91,3 @@ If you're upgrading from a Pre Australia release and based on what you have sele
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[create-consumption-rule|Create consumption rules]]
-- [[operations-workspace|License operations view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[sam-properties|Software Asset Management properties]]

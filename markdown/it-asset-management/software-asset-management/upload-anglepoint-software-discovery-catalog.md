@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## About this task
 
-The IBM [[sam-software-discovery|software discovery]] catalog is a centralized repository of IBM software information that discovery tools can use to identify discovered IBM software. This catalog is maintained separately by each Authorized [[c_SoftwareAssetMgmt|Software Asset Management]] Provider \(ASP\).
+The IBM software discovery catalog is a centralized repository of IBM software information that discovery tools can use to identify discovered IBM software. This catalog is maintained separately by each Authorized Software Asset Management Provider \(ASP\).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ The IBM [[sam-software-discovery|software discovery]] catalog is a centralized r
 
     1.  From your ServiceNow instance, navigate to **All** &gt; **Software Asset** &gt; **Administration** &gt; **Import IBM Content**.
 
-    2.  On the [[manage-sam-software-library|Manage Software Library]] form, select **Attach Content File**.
+    2.  On the Manage Software Library form, select **Attach Content File**.
 
         The Attachments dialog box opens.
 
@@ -55,8 +55,3 @@ If you are integrating with Anglepoint, all IBM software information that is inc
 
 **Parent Topic:**[Setting up an IBM Authorized SAM Provider \(ASP\) integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/setting-up-anglepoint-integration.md)
 
-## Related
-
-- [[sam-software-discovery|Software discovery]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[manage-sam-software-library|Manage Software Library]]

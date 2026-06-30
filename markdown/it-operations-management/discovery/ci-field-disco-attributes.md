@@ -14,7 +14,7 @@ breadcrumb: [Discovery generic attributes, Configuring Discovery, Discovery, ITO
 
 # Automatic CI field population
 
-[[disco-generic-attributes|Discovery generic attributes]] can automatically set configuration item \(CI\) field values during [[r-discovery|discovery]]. Attributes follow a scope hierarchy, where more specific scopes override broader ones, enabling you to define defaults at the schedule level and apply precise values at the range level.
+Discovery generic attributes can automatically set configuration item \(CI\) field values during discovery. Attributes follow a scope hierarchy, where more specific scopes override broader ones, enabling you to define defaults at the schedule level and apply precise values at the range level.
 
 ## Benefits
 
@@ -76,7 +76,3 @@ After discovery runs:
 -   The CI discovered at 10.0.0.52 has its **Location** field set to **123 Main St, Baltimore** because the range-level attribute is the most granular.
 -   The CI discovered at 10.0.0.117 has its **Asset tag** field set to **tag-test**. Because no range-level **Location** attribute is defined for this IP, the CI inherits **Baltimore** from the range set-level attribute.
 
-## Related
-
-- [[disco-generic-attributes|Discovery generic attributes]]
-- [[r-discovery|Discovery]]

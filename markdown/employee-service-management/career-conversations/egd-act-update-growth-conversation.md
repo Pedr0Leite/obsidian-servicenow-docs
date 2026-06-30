@@ -14,7 +14,7 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Update a growth conversation in Career Conversations
 
-Use the [[egd-activities-conversations-module|Career Conversations]] app to update the agenda for an upcoming conversation with your employee or manager. Center the focus of the discussion around the employee's growth and development as a professional within your organization.
+Use the Career Conversations app to update the agenda for an upcoming conversation with your employee or manager. Center the focus of the discussion around the employee's growth and development as a professional within your organization.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: employee \[sn\_egd\_act.employee\] or manager \[sn\_egd\_act.mana
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Use the navigation path that corresponds to your role within your organization to access the Career Conversations app.
 
@@ -91,7 +91,7 @@ Your conversations
 
     1.  Select **Validate skills** to review and validate the skills and proficiency of the employee.
 
-    2.  Select a **Skill pill** to view skills details like proficiency and [[activity-lxp|activity]] details of the skill.
+    2.  Select a **Skill pill** to view skills details like proficiency and activity details of the skill.
 
     3.  Select the menu icon \(\[Omitted image "menu-icon.png"\] Alt text: Actions icon.\) on the skill pill and select **View related activities** to see the activity details of the skill.
 
@@ -102,7 +102,7 @@ Your conversations
 
 ## What to do next
 
-Managers can manually [[egd-close-conversation|close a conversation]] by indicating whether the conversation is canceled or complete. To indicate whether a conversation is canceled or complete, a manager must select the corresponding vertical ellipsis icon. This icon appears in the following locations:
+Managers can manually close a conversation by indicating whether the conversation is canceled or complete. To indicate whether a conversation is canceled or complete, a manager must select the corresponding vertical ellipsis icon. This icon appears in the following locations:
 
 -   To the right of the **Edit details** button when you are viewing the agenda for a conversation.
 -   To the right of the Status column in the Your team's conversations widget.
@@ -111,9 +111,3 @@ Managers can provide a summary to reflect the details of a conversation that tra
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[egd-close-conversation|Close a conversation]]

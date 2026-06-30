@@ -37,7 +37,7 @@ An Idea module defines the ideas and categories that are displayed in the Idea P
 
 ## What to do next
 
-[[define-idea-categories|Define new idea categories]] or use an existing table to derive the categories from specified columns and map it with your idea module. For more information, see [Configure idea categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/category-configuration-existing-table.md).
+Define new idea categories or use an existing table to derive the categories from specified columns and map it with your idea module. For more information, see [Configure idea categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/category-configuration-existing-table.md).
 
 **Parent Topic:**[Idea Portal administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/idea-portal-administration.md)
 
@@ -45,6 +45,3 @@ An Idea module defines the ideas and categories that are displayed in the Idea P
 
 **Next topic:**[Define new idea categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/define-idea-categories.md)
 
-## Related
-
-- [[define-idea-categories|Define new idea categories]]

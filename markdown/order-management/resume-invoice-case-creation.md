@@ -26,7 +26,7 @@ Role required: sn\_customerservice.customer
 
 3.  From the Categories list, select **My Invoice Cases**.
 
-4.  Select the invoice case to [[Resume|resume]].
+4.  Select the invoice case to resume.
 
     **Note:** Invoice cases must be in the Draft state to edit and submit.
 
@@ -34,8 +34,8 @@ Role required: sn\_customerservice.customer
 
 6.  Submit your invoice case using the invoice creation playbook.
 
-    -   [[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
-    -   [[create-invoice-case-multiple|Dispute multiple invoices against your account using the Business Portal]]
+    -   [Dispute a specific line item on an invoice against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-single.md)
+    -   [Dispute multiple invoices against your account using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-invoice-case-multiple.md)
 
 ## Result
 
@@ -43,23 +43,14 @@ The invoice case is created and its state changes to **New**.
 
 ## What to do next
 
-Track the status of your invoice case. For more information, see [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]].
+Track the status of your invoice case. For more information, see [View invoice case details in the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-invoice-cases-business-portal.md).
 
-Follow up on your invoice case. For more information, see [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]].
+Follow up on your invoice case. For more information, see [Communicate and share supporting documents for an invoice case from Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-invoice-cases-bp.md).
 
 **Related topics**  
 
 
-[[order-management-configure-business-portal|Configuring the Business Portal]]
+[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-## Related
-
-- [[create-invoice-case-single|Dispute a specific line item on an invoice against your account using the Business Portal]]
-- [[create-invoice-case-multiple|Dispute multiple invoices against your account using the Business Portal]]
-- [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]]
-- [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]]
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[Resume|Resume]]

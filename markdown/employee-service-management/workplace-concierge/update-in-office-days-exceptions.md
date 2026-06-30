@@ -14,7 +14,7 @@ breadcrumb: [Set Employee Presence, Workplace Concierge, Workplace Service Deliv
 
 # Update your in-office days as exceptions
 
-As an employee, use the presence dashboard to [[update-your-in-office-days|update your in-office days]] without changing your routine.
+As an employee, use the presence dashboard to update your in-office days without changing your routine.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: sn\_wsd\_core.workplace\_user
     -   Select **Visit another office** to change your presence to an office different from your assigned office, and then select the office that you’ll visit.
     An exception is automatically created for the selected day and your presence is updated.
 
-4.  Select **[[reservation-portal|Make a reservation]]** to reserve a space for the day you're visiting the office.
+4.  Select **Make a reservation** to reserve a space for the day you're visiting the office.
 
     For information about making a reservation, see [Create a reservation]().
 
@@ -60,7 +60,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 [Managing presence privacy settings]()
 
-## Related
-
-- [[update-your-in-office-days|Update your in-office days]]
-- [[reservation-portal|Make a reservation]]

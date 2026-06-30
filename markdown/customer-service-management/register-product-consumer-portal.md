@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
 2.  Click **Support** in the portal header and then click **Register Product**.
 
@@ -34,6 +34,4 @@ Role required: sn\_customerservice.consumer
 
     After the product is successfully registered, it appears in the My Products list, which includes the products registered to the current user.
 
-## Related
 
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]

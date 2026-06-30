@@ -26,7 +26,7 @@ Role required: admin
 
 3.  In the Name field, search for **MultiSSO\_OIDC\_CTO**.
 
-4.  In the results list, confirm that the Application column shows [[hcls-core-app|Healthcare and Life Sciences Service Management Core]], then open the record.
+4.  In the results list, confirm that the Application column shows Healthcare and Life Sciences Service Management Core, then open the record.
 
 5.  Right-click the form toolbar and select **Insert and Stay**.
 
@@ -55,6 +55,3 @@ Role required: admin
 
 The MultiSSO\_OIDC\_CTO\_global and OAuthUtilEpic\_global script includes are now available in the global scope for later configuration steps.
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

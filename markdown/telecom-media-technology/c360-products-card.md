@@ -34,7 +34,7 @@ You can do the following:
 -   Filter the list of sold products displayed by Location but this can be configured.
 -   Specify a search criteria to view the list of sold products that meet the criteria. You can search either by name or product characteristic values.
 
-    **Note:** Search by product characteristic values is available only if the **Enable search on product characteristics** flag is enabled. For more information, see [[c360-configure-products-card|Configure the products card variables]].
+    **Note:** Search by product characteristic values is available only if the **Enable search on product characteristics** flag is enabled. For more information, see [Configure the products card variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-products-card.md).
 
 -   Select the \[Omitted image "open-link-right-outline-24.svg"\] Alt text: icon to drill down to the sold product record page.
 -   Select the **Run diagnostics** icon to run diagnostics against a sold product.
@@ -63,14 +63,10 @@ After selecting a test and initiating it, a confirmation is shown that the test 
 
 You can configure variables such as tables, display fields, and query conditions. See [Configure the products card variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-products-card.md) for details.
 
-**Parent Topic:**[[c360-home-page|Telecommunications Customer 360 home page]]
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
 **Related topics**  
 
 
 [Creating pages and page variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-create-page-variant.md)
 
-## Related
-
-- [[c360-configure-products-card|Configure the products card variables]]
-- [[c360-home-page|Telecommunications Customer 360 home page]]

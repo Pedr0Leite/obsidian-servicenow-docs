@@ -24,7 +24,7 @@ Role required: appointment\_booking\_user
 
 Booking an appointment creates a work order for the selected service. After the appointment is confirmed and the work order is scheduled, the customer receives a confirmation email with the appointment details.
 
-**Note:** [[appointment-booking|Appointment booking]] for work order tasks is not supported through the Customer or Consumer Service Portal. You can only reschedule existing appointments for work order tasks.
+**Note:** Appointment booking for work order tasks is not supported through the Customer or Consumer Service Portal. You can only reschedule existing appointments for work order tasks.
 
 ## Procedure
 
@@ -60,6 +60,4 @@ Booking an appointment creates a work order for the selected service. After the 
 
     When the work order is assigned and accepted by a technician, the customer receives a confirmation email and SMS.
 
-## Related
 
-- [[appointment-booking|Appointment booking]]

@@ -14,11 +14,11 @@ breadcrumb: [Configure, ITOM Mobile Agent, Service Reliability Management, ITOM 
 
 # Install ITOM Mobile Agent
 
-Install and give your teams access to [[itom-mobile-landing|ITOM Mobile Agent]].
+Install and give your teams access to ITOM Mobile Agent.
 
 ## Before you begin
 
-[[sr-landing-page|Service Reliability Management]] \(SRM\) services, service integrations, teams, and on-call schedules must be set up. ITOM Mobile Agent connects to your existing SRM setup, helping your teams manage alerts, incidents, tasks, and on-call schedules.
+Service Reliability Management \(SRM\) services, service integrations, teams, and on-call schedules must be set up. ITOM Mobile Agent connects to your existing SRM setup, helping your teams manage alerts, incidents, tasks, and on-call schedules.
 
 Role required: admin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ITOM Mobile Agent runs in the ServiceNow Agent app. When you install ITOM Mobile Agent, your teams can access it in the ServiceNow Agent app on their devices.
 
-This procedure is for admins managing mobile access for their teams. If you aren't an admin and want to [[use-itom-mobile|use ITOM Mobile]] Agent on your mobile device, see [Download the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/download-agent-app.md).
+This procedure is for admins managing mobile access for their teams. If you aren't an admin and want to use ITOM Mobile Agent on your mobile device, see [Download the ServiceNow Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/download-agent-app.md).
 
 ## Procedure
 
@@ -53,8 +53,3 @@ You can also customize ITOM Mobile Agent to meet your team's needs:
 -   [Customize ITOM Mobile Agent email recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/customize-itom-email-recipients.md)
 -   [Customizing other mobile settings for ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-other-customizations.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[use-itom-mobile|Use ITOM Mobile]]

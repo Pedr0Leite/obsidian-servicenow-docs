@@ -18,7 +18,7 @@ When a newly installed MID Server fails to start or shuts down prematurely, impr
 
 ## Duplicate MID Server names
 
-When the [[mid-server-landing|MID Server]] service starts, it verifies that it is the only active \(not down\) MID Server with that name. If the MID Server discovers another active MID Server with the same name, the starting MID Server waits 5 minutes and sends another query. The MID Server repeats this query 12 times and logs each attempt in the agent log. If the [[ip-address|IP address]] or home directory of an existing MID Server is changed, then that MID Server is invalidated. If the MID Server still detects a duplicate after this cycle, it creates a record in the [MID Server Issue \[ecc\_agent\_issue\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-active-issues.md) table and shuts down.
+When the MID Server service starts, it verifies that it is the only active \(not down\) MID Server with that name. If the MID Server discovers another active MID Server with the same name, the starting MID Server waits 5 minutes and sends another query. The MID Server repeats this query 12 times and logs each attempt in the agent log. If the IP address or home directory of an existing MID Server is changed, then that MID Server is invalidated. If the MID Server still detects a duplicate after this cycle, it creates a record in the [MID Server Issue \[ecc\_agent\_issue\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-active-issues.md) table and shuts down.
 
 **Note:** The record in the MID Server Issue \[ecc\_agent\_issue\] table cannot be resolved automatically by the instance. Close this record manually for accounting purposes. Either mark the issue **Resolved** or delete it.
 
@@ -33,7 +33,3 @@ Beginning with the New York release, a batch file in the MID Server installer pa
 
 **Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

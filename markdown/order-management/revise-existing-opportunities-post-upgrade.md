@@ -12,7 +12,7 @@ breadcrumb: [Install and configure Opportunity Management, Lead and opportunity 
 
 # Revise existing opportunities after an upgrade
 
-Run a scheduled job to [[Modify|modify]] older opportunities so they can support parent-child opportunity line items.
+Run a scheduled job to modify older opportunities so they can support parent-child opportunity line items.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The scheduled job helps update opportunity lines on the opportunities created on or before the Yokohama Q1 release. From Yokohama Q2 release onward, the opportunity lines follow a hierarchical parent-child structure. The hierarchy is achieved by adding new [[fields|fields]] on an opportunity line and affects the pricing functionality. For the existing lines to incorporate the updated pricing functionality, the newly added fields must be populated and the hierarchical structure must be in place.
+The scheduled job helps update opportunity lines on the opportunities created on or before the Yokohama Q1 release. From Yokohama Q2 release onward, the opportunity lines follow a hierarchical parent-child structure. The hierarchy is achieved by adding new fields on an opportunity line and affects the pricing functionality. For the existing lines to incorporate the updated pricing functionality, the newly added fields must be populated and the hierarchical structure must be in place.
 
 ## Procedure
 
@@ -61,13 +61,7 @@ For open, synced opportunities:
 **Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[Modify|Modify]]
-- [[fields|Fields]]

@@ -45,7 +45,7 @@ The proposal is submitted and the following actions occur:
 
 -   In the security incident record, a verification banner message is displayed and the defined Major Security Incident tag appears next to the **Select security tag** field.
 
--   In the **Details** tab for the major security incident in [[major-security-incident-management-landing-page|Major Security Incident Management]], the record number drop-down list includes both incidents.
+-   In the **Details** tab for the major security incident in Major Security Incident Management, the record number drop-down list includes both incidents.
 
 -   The record appears in the incident record's Major Security Incident related list, with the state listed as Proposed.
 
@@ -63,6 +63,3 @@ The proposal is submitted and the following actions occur:
 
 [Promote to a Major Security Incident]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

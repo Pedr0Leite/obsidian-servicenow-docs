@@ -16,7 +16,7 @@ breadcrumb: [Configure, Telecommunications Service Operations Management]
 
 Setting up and configuring fault management enables you to monitor network devices for configuration and performance issues.
 
-[[configure-fault-management|Configure a webhook]] to monitor SD-WAN network devices using Event Management. This application collects event data from your device and generates alerts.
+Configure a webhook to monitor SD-WAN network devices using Event Management. This application collects event data from your device and generates alerts.
 
 All events are received in the ServiceNow AI Platform® dashboard and automatically mapped to alerts. Event rules evaluate each incoming event and determine whether to create an alert or link it to an existing one. You can define custom event rules, receive notifications using webhook mechanism, and integrate with external systems through the Integrations Launchpad.
 
@@ -31,9 +31,5 @@ Configure a mobile private network \(MPN\) pull connector instance to collect me
 -   **[Configure elastic connectors for MPN alarm collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/set-up-connector-instance-nokia-mpn.md)**  
 Configure a connector instance to collect fault management alarm data from a Mobile Private Network \(MPN\) Elastic index and forward events to Event Management.
 -   **[Override default metric-to-CI binding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/override-metric-ci-binding-tsom-sgc.md)**  
-Replace the shipped logic that binds collected metrics to configuration items \(CIs\) for a [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] metric source by creating your own implementation of the `EventFieldMapping` extension point and wiring it into an event field mapping rule.
+Replace the shipped logic that binds collected metrics to configuration items \(CIs\) for a Telecommunications Service Operations Management metric source by creating your own implementation of the `EventFieldMapping` extension point and wiring it into an event field mapping rule.
 
-## Related
-
-- [[configure-fault-management|Configure a webhook]]
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

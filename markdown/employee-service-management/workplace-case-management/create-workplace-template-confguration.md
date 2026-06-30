@@ -24,11 +24,11 @@ Role required: admin
 
 Create a template and configure the conditions that a workplace case must match so that the template is applied. If the conditions don't match, then the default template that is specified in the workplace service is applied.
 
-A Workplace template configuration can be directly applied to a workplace service or a workplace service [[activity-lxp|activity]].
+A Workplace template configuration can be directly applied to a workplace service or a workplace service activity.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **[[workplace-services|Workplace services]]**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
 
 2.  Select the workplace service to which you want to add a Workplace template configuration.
 
@@ -93,8 +93,3 @@ The Workplace template configuration is added. The template will be applied to t
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]

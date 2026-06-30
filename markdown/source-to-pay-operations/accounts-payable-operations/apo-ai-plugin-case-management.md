@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Accounts Payable Invoice Processing, Inst
 
 # Application plugin for AI capabilities in APO
 
-View the consolidated list of plugins required to use AI capabilities for [[acc-pay-case-mgmt-overview|Invoice case management]] in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+View the consolidated list of plugins required to use AI capabilities for Invoice case management in Accounts Payable Operations.
 
 **Important:** Before installing a plugin listed in the Plugin name column, ensure that you install all corresponding dependencies listed in the Plugin dependencies column from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -40,7 +40,7 @@ app-accounts-payable-gen-ai-prime
 
 </td><td>
 
--   [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] \[sn\_ap\_apm\]
+-   Accounts Payable Invoice Processing \[sn\_ap\_apm\]
 -   APO Foundation \[sn\_ai\_apo\_fdn\]
 -   FSC Common Prime \[sn\_ai\_fsc\_prime\]
 
@@ -73,9 +73,3 @@ app-accounts-payable-gen-ai
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]

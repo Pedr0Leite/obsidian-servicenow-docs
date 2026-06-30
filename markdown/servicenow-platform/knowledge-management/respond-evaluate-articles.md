@@ -94,7 +94,7 @@ Go to a comment or reply, and then tap the delete icon \(\[Omitted image "delete
 
 </td></tr><tr><td>
 
-View an [[attachment|attachment]] to a comment
+View an attachment to a comment
 
 </td><td>
 
@@ -111,6 +111,3 @@ View files, if available, attached to a comment. To view a file, tap the file na
 
 [Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 
-## Related
-
-- [[attachment|Attachment]]

@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Platform Analytics Solutions, Security I
 
 # Security Incident Explorer dashboard
 
-With this dashboard, security managers are able to view security incidents summarized and grouped by category, subcategory, [[location|location]], priority and business impact. These views let managers quickly gain insight into the frequency in which attacks are occurring and which business services are affected.
+With this dashboard, security managers are able to view security incidents summarized and grouped by category, subcategory, location, priority and business impact. These views let managers quickly gain insight into the frequency in which attacks are occurring and which business services are affected.
 
 \[Omitted image "security-incident-explorer-dashboard.png"\] Alt text: Partial view of the Security Incident Explorer dashboard
 
@@ -23,12 +23,12 @@ With this dashboard, security managers are able to view security incidents summa
 |End user and goal|Required role|Benefits|
 |-----------------|-------------|--------|
 |Security Response Manager: Needs clear visibility into the overall state and volume of security incidents associated with applications and services.|sn\_si.manager|Can review the overall security posture with the ability to adjust the members of assignment groups.|
-|Security Response Administrator: Needs to pinpoint areas of concern quickly and have full control over all [[sir-landing-page|Security Incident Response]] data while administering territories and skills, as needed.|sn\_si.admin|Can adjust risk calculation parameters to ensure vulnerable items that are most pertinent to the organization are being addressed first.|
-|Security Response Analyst:s Need to quickly prioritize which [[vulnerabilities|vulnerabilities]] to focus on based upon criticality to the organization.|sn\_si.analyst|Tier 1 and 2 security analysts work on security incidents. They can create and update security incidents, requests, and tasks, as well as problems, changes, and outages related to their incidents.|
+|Security Response Administrator: Needs to pinpoint areas of concern quickly and have full control over all Security Incident Response data while administering territories and skills, as needed.|sn\_si.admin|Can adjust risk calculation parameters to ensure vulnerable items that are most pertinent to the organization are being addressed first.|
+|Security Response Analyst:s Need to quickly prioritize which vulnerabilities to focus on based upon criticality to the organization.|sn\_si.analyst|Tier 1 and 2 security analysts work on security incidents. They can create and update security incidents, requests, and tasks, as well as problems, changes, and outages related to their incidents.|
 
 ## Security Incident Explorer indicators
 
-The Security Incident Explorer dashboard presents the following key performance [[indicator|indicators]]:
+The Security Incident Explorer dashboard presents the following key performance indicators:
 
 -   **Security Incidents**
 
@@ -64,9 +64,3 @@ The Security Incident Explorer dashboard presents the following key performance 
 
 [Security Operations Efficiency dashboard]()
 
-## Related
-
-- [[location|Location]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[indicator|Indicators]]

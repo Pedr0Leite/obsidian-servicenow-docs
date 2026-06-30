@@ -22,7 +22,7 @@ Role required: admin, service\_mapping\_admin, service\_mapping\_user, app\_serv
 
 ## About this task
 
-Details about changes to a service instance and to its CIs are stored in the CMDB. Typically, these changes reflect adding or removing CIs from a service instance, upgrading or updating CIs, or modifying CI configuration files. The system gathers this data by querying CMDB tables and then creating the change history view. In deployments where [[c_ServiceMappingOverview|Service Mapping]] is activated, the type of change information Service Mapping queries depends on [[r-discovery|discovery]] patterns that Service Mapping uses to discover CIs.
+Details about changes to a service instance and to its CIs are stored in the CMDB. Typically, these changes reflect adding or removing CIs from a service instance, upgrading or updating CIs, or modifying CI configuration files. The system gathers this data by querying CMDB tables and then creating the change history view. In deployments where Service Mapping is activated, the type of change information Service Mapping queries depends on discovery patterns that Service Mapping uses to discover CIs.
 
 Changes to the application service appear on the history timeline.
 
@@ -85,7 +85,3 @@ To view validation status of changes and changes to related items, like tracked 
 
 **Parent Topic:**[Application service analysis and maintenance using legacy Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-analysis-maintenance-legacy-workspace.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

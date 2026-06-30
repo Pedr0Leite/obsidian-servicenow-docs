@@ -14,7 +14,7 @@ breadcrumb: [Translation Management System configurations, Localization Framewor
 
 # Configure RWS TMS in the Localization Framework
 
-Configure RWS TMS to use the RWS TMS service in the [[localization-framework-landing|Localization Framework]].
+Configure RWS TMS to use the RWS TMS service in the Localization Framework.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Roles required: connection\_admin
 
 1.  Navigate to **All** &gt; **Connections &amp; Credentials** &gt; **Connection &amp; Credential Aliases**.
 
-    A credential record for RWS TMS is created when the RWS TMS spoke is installed with the Localization Framework Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\) activation.
+    A credential record for RWS TMS is created when the RWS TMS spoke is installed with the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\) activation.
 
 2.  Open the RWS TMS credential record.
 
@@ -67,7 +67,3 @@ Roles required: connection\_admin
 
 **Parent Topic:**[Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]

@@ -18,7 +18,7 @@ Customize the base system classification of an device based on the type, os\_ver
 
 ## Before you begin
 
-The base system for the **sn\_otsm\_sgc.SGOTAssetImportExtensionPoint** extension point uses the default implementation script that is shipped with the name of **sn\_otsm\_sgc.SGOTAssetImportUtil**. To add a customized classification, create an implementation for the extension point in the **Service Graph Connector for [[operational-technology-overview|Operational Technology]] \(Excel\)** scope.
+The base system for the **sn\_otsm\_sgc.SGOTAssetImportExtensionPoint** extension point uses the default implementation script that is shipped with the name of **sn\_otsm\_sgc.SGOTAssetImportUtil**. To add a customized classification, create an implementation for the extension point in the **Service Graph Connector for Operational Technology \(Excel\)** scope.
 
 **Note:** User must have only one implementation of the extension point. If you implement and activate a custom extension point rather than the default one, you must deactivate the default implementation.
 
@@ -66,6 +66,3 @@ From the related lists Implementations tab, open the base system extension point
 
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

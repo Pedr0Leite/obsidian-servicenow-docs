@@ -25,11 +25,11 @@ AppConfig is a standard approach for configuring mobile apps using key-value pai
 -   Pre-configure the default instance
 -   Change the default browser
 
-For details on these configurations, see [[appconfig|AppConfig for Mobile Apps]].
+For details on these configurations, see [AppConfig for Mobile Apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/appconfig.md).
 
 ## Mobile application management \(MAM\) integration
 
-Use Microsoft Intune or BlackBerry Dynamics to secure and protect sensitive information in mobile applications, even in cases where customers use their own mobile devices. For more detail on MAM integration, see [[sg-mam|Mobile application management \(MAM\) integration]].
+Use Microsoft Intune or BlackBerry Dynamics to secure and protect sensitive information in mobile applications, even in cases where customers use their own mobile devices. For more detail on MAM integration, see [Mobile application management \(MAM\) integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mam.md).
 
 ## Unsupported MDM/MAM features
 
@@ -42,7 +42,3 @@ The following MDM and MAM features are not supported by ServiceNow.
 -   Troubleshooting mobile gateway or proxy rules.
 -   App Config is supported for on-prem MDM but creating plist file is not supported.
 
-## Related
-
-- [[appconfig|AppConfig for Mobile Apps]]
-- [[sg-mam|Mobile application management \(MAM\) integration]]

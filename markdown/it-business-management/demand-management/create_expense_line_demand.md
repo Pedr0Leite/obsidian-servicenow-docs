@@ -20,7 +20,7 @@ A demand expense line is the cost associated with a specific source, such as a u
 
 Role required: it\_demand\_manager
 
-Application required: [[c_ProjectPortfolioSuite|Project Portfolio Management]] with Financials
+Application required: Project Portfolio Management with Financials
 
 ## About this task
 
@@ -32,11 +32,11 @@ When a demand is converted to a project, the expense lines remain with the deman
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open the [[demand-form|demand form]].
+1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open the demand form.
 
 2.  In the Expense Lines related list, select **New**.
 
-3.  On the [[expense-line-form-demand|expense line form]], fill in the fields.
+3.  On the expense line form, fill in the fields.
 
     For a description of the field names, see [Expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/expense-line-form-demand.md).
 
@@ -45,8 +45,3 @@ When a demand is converted to a project, the expense lines remain with the deman
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[demand-form|Demand form]]
-- [[expense-line-form-demand|Expense line form]]

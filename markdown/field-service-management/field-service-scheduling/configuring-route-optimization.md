@@ -14,13 +14,13 @@ breadcrumb: [Setting up a Field Service scheduling method, Configure, Field Serv
 
 # Configuring Route Optimization
 
-Route optimization is essential for improving resource allocation in [[fsm-application-landing-page|field service management]]. It strategically reorders tasks to reduce travel time for field agents, enhancing both productivity and customer service.
+Route optimization is essential for improving resource allocation in field service management. It strategically reorders tasks to reduce travel time for field agents, enhancing both productivity and customer service.
 
 ## Configuration overview
 
 The steps to set up Route Optimization are:
 
-1.  Navigate to **All** &gt; **sys\_properties.list** &gt; **sn\_fsm\_disp\_wrkspc.enable\_optimize\_route** and set the value to true. This enables Route Optimization and displays **Optimize Route** option in the [[dispatcher-activities|Dispatcher Workspace]].
+1.  Navigate to **All** &gt; **sys\_properties.list** &gt; **sn\_fsm\_disp\_wrkspc.enable\_optimize\_route** and set the value to true. This enables Route Optimization and displays **Optimize Route** option in the Dispatcher Workspace.
 2.  To use route optimization features in the Dispatcher Workspace, do the following:
     -   Navigate to **All** &gt; **Field Service** &gt; **Dispatcher Workspace Configuration** and ensure all configurations are made within the 'Field Service Management Configurable Dispatcher Workspace' application scope.
     -   Ensure the `sn_fsm_disp_wrkspc.enable_optimize_route` property is enabled.
@@ -28,7 +28,7 @@ The steps to set up Route Optimization are:
 
 ## Understanding Route Optimization Modes
 
-You must select the work.management.optimization.conflict\_handling system property to avoid conflicts due to overflow tasks when optimizing the route. For more information, see [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]].
+You must select the work.management.optimization.conflict\_handling system property to avoid conflicts due to overflow tasks when optimizing the route. For more information, see [Properties installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md).
 
 Route optimization operates in three distinct modes, each designed to address specific scenarios:
 
@@ -71,8 +71,3 @@ The `Optimize Task Routing` job runs daily at 3:00 AM system time. Adjust this s
 
 Client scripts for route optimization are pre-optimized and run within 4-6 seconds. These scripts should not be customized to ensure optimal performance.
 
-## Related
-
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dispatcher-activities|Dispatcher Workspace]]

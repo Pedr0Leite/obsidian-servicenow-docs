@@ -14,7 +14,7 @@ breadcrumb: [Create a question for a catalog item in Catalog Builder, Creating o
 
 # Configure an auto-populate value for a question in Catalog Builder
 
-Configure the value of a question to populate automatically whenever the value of another question of the [[reference|reference]] type changes.
+Configure the value of a question to populate automatically whenever the value of another question of the reference type changes.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In a catalog item, for example, you can set up the value of the “Name of the m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **[[catalog-builder|Catalog Builder]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the **Catalog items** tab.
 
@@ -40,7 +40,7 @@ In a catalog item, for example, you can set up the value of the “Name of the m
 
     2.  In the **Question subtype** field, select **Record reference**.
 
-    3.  In the **Question [[label|label]]** field, enter `Name of the manager`.
+    3.  In the **Question label** field, enter `Name of the manager`.
 
     4.  Select the **Read-only** option.
 
@@ -52,7 +52,7 @@ In a catalog item, for example, you can set up the value of the “Name of the m
 
         For example, select **Select the requester**.
 
-        The list displays all the Reference and [[requested-for|Requested For]] question types that belong to the current catalog item and the associated single-row variable sets.
+        The list displays all the Reference and Requested For question types that belong to the current catalog item and the associated single-row variable sets.
 
     2.  To select the field that contains the value that you want to set, select the Select the lookup field icon \(\[Omitted image "magic-wand-icon.png"\] Alt text: Select the lookup field icon.\).
 
@@ -69,10 +69,3 @@ In a catalog item, for example, you can set up the value of the “Name of the m
 
 **Parent Topic:**[Create a question for a catalog item in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/create-question-cat-builder.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]
-- [[label|Label]]
-- [[requested-for|Requested for]]

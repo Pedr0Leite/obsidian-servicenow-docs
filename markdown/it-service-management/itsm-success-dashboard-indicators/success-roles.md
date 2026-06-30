@@ -28,7 +28,7 @@ Required role
 
 </th></tr></thead><tbody><tr><td>
 
-As a dashboard admin, you can:-   Configure the dashboard [[settings-mobile|settings]]
+As a dashboard admin, you can:-   Configure the dashboard settings
 -   Manage KPIs by adding or removing a contributing indicator.
 -   Share the dashboard
 
@@ -59,6 +59,3 @@ sn\_sd.success\_dashboard\_details\_read
 </td></tr></tbody>
 </table>**Parent Topic:**[ITSM Success Dashboard indicators reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/itsm-success-dashboard-reference.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

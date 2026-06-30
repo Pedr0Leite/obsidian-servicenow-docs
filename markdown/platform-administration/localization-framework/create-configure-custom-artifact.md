@@ -14,21 +14,21 @@ breadcrumb: [Artifact configurations, Configure the Localization Framework, Loca
 
 # Create and configure a custom artifact
 
-Create and configure custom artifacts of your choice to use the [[localization-framework-landing|Localization Framework]] functionality.
+Create and configure custom artifacts of your choice to use the Localization Framework functionality.
 
 ## Before you begin
 
 Ensure that you are in the application scope that you want for your custom artifact.
 
-Role required: [[ia-localization-il|localization]]\_admin and script\_include\_admin.
+Role required: localization\_admin and script\_include\_admin.
 
 ## About this task
 
-From the Zurich release, your custom artifacts can be made available in [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md). For information about making custom artifacts selectable in [[localization-workspace|Localization Workspace]] translation requests, see [Dynamic artifact detection in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-dynamic-artifact-detection.md).
+From the Zurich release, your custom artifacts can be made available in [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md). For information about making custom artifacts selectable in Localization Workspace translation requests, see [Dynamic artifact detection in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-dynamic-artifact-detection.md).
 
 ## Procedure
 
-1.  Ensure that you are in the application scope that you want for your custom artifact, and navigate to **All** &gt; **Localization Framework** &gt; **[[framework-configuration|Artifact Configurations]]** \[sn\_lf\_config\].
+1.  Ensure that you are in the application scope that you want for your custom artifact, and navigate to **All** &gt; **Localization Framework** &gt; **Artifact Configurations** \[sn\_lf\_config\].
 
 2.  Select **New**.
 
@@ -86,7 +86,7 @@ Application
 
 </td><td>
 
-Application scope. The value is the current application selected for the logged-in user session. For more information, see [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]].
+Application scope. The value is the current application selected for the logged-in user session. For more information, see [Select an application from the application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectAnAppFromTheAppPicker.md).
 
 </td></tr><tr><td>
 
@@ -114,10 +114,3 @@ For examples of Localization Framework artifacts that you can set up, see the LF
 
 **Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md)
 
-## Related
-
-- [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]]
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[localization-workspace|Localization Workspace]]
-- [[framework-configuration|Artifact configurations]]

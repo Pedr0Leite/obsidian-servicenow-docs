@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management - State Model, Change Management plugins
 
 # Installed with Change Management - State Model
 
-Several types of components are installed with the [[c_ITILChangeManagement|Change Management]] - State Model.
+Several types of components are installed with the Change Management - State Model.
 
 **Parent Topic:**[Activate Change Management - State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateStateModel.md)
 
@@ -45,7 +45,3 @@ Sets the column order in the list of change requests.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]

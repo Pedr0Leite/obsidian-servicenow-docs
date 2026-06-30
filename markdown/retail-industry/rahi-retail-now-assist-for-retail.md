@@ -18,7 +18,7 @@ The store inquiry AI agent is an intelligent assistant designed to support the h
 
 <table id="table_iht_hgl_5yb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn more about the store inquiry AI agent and it's capabilities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-[[rahi-retail-operations-overview|retail]]-now-assist-explore.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn more about the store inquiry AI agent and it's capabilities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-now-assist-explore.md)
 
 </td><td>
 
@@ -70,6 +70,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]

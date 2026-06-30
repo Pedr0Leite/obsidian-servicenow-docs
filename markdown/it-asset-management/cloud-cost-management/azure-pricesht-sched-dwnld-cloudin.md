@@ -14,7 +14,7 @@ breadcrumb: [Configure Cloud Cost Management for Microsoft Azure, Configuring Cl
 
 # Schedule and manage the Cloud Cost Management jobs that download Microsoft Azure price sheets
 
-A Price Sheet Download job downloads and stores price sheet data. The Rightsizing and [[um-cloudin|Unused resources]] processes use price sheet data when generating recommendations.
+A Price Sheet Download job downloads and stores price sheet data. The Rightsizing and Unused resources processes use price sheet data when generating recommendations.
 
 ## Before you begin
 
@@ -28,12 +28,12 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\].
 -   Each execution of a Price Sheet Download job runs multiple execution items. Each execution item imports and stores the price sheet for one subscription or billing profile.
 -   To ensure accurate reporting and recommendations for some providers, make sure that the Discovery application runs before the scheduled execution.
 -   When the scheduled time arrives, job execution happens in multiple stages \(for example, connect to the provider, download the data, perform the post-import sort, and so on\). The system logs status and results on the Price Sheet Executions page for each stage.
--   [[cloud-insights-landing-page|Cloud Cost Management]] version 9.0 supports price sheet download for both Azure Enterprise Agreement \(EA\) and Microsoft Customer Agreement \(MCA\) accounts.
+-   Cloud Cost Management version 9.0 supports price sheet download for both Azure Enterprise Agreement \(EA\) and Microsoft Customer Agreement \(MCA\) accounts.
 -   Cloud Cost Management version 10.0 supports price sheet download for Microsoft Partner Agreement \(MPA\) accounts in addition to the Azure Enterprise Agreement \(EA\) and Microsoft Customer Agreement \(MCA\) accounts.
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Price sheet download jobs**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Price sheet download jobs**.
 
 2.  Select **New**.
 
@@ -155,8 +155,3 @@ Details for the execution that is currently running.
 
 [Specify rate discounts to enable accurate pricing for Rightsizing recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/discounts-specify-cloudin.md)
 
-## Related
-
-- [[um-cloudin|Unused resources]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

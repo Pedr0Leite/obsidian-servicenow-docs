@@ -16,7 +16,7 @@ Before you create a push notification, create the push message with the actual m
 
 ## Before you begin
 
-The [[t_ActivatePushNotifications|Push notification plugin]] must be active. The plugin is active by default.
+The [Push notification plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivatePushNotifications.md) must be active. The plugin is active by default.
 
 Role required: admin
 
@@ -70,7 +70,7 @@ Message
 
 </td><td>
 
-Enter the message. You can add variables just as you would for other [[notifications|notifications]]. Any message you enter here overrides the message in the notification.
+Enter the message. You can add variables just as you would for other notifications. Any message you enter here overrides the message in the notification.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -82,17 +82,11 @@ Push Message Attribute Values
 
 </td><td>
 
-Optional. Select the attributes that apply to this notification. For details, see [[t_CreateAPushMessageAttributeValue|Create an attribute value or action for a push message]].
+Optional. Select the attributes that apply to this notification. For details, see [Create an attribute value or action for a push message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAPushMessageAttributeValue.md).
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-[[t_CreatePushNotification|Set up the push notification]] that contains the message created or update an existing push notification to use the push message.
+[Set up the push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatePushNotification.md) that contains the message created or update an existing push notification to use the push message.
 
-## Related
-
-- [[t_ActivatePushNotifications|Activate push notifications]]
-- [[t_CreateAPushMessageAttributeValue|Create an attribute value or action for a push message]]
-- [[t_CreatePushNotification|Create a notification using a push message]]
-- [[notifications|Notifications]]

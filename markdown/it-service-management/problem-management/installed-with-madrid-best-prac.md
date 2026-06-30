@@ -14,7 +14,7 @@ breadcrumb: [Activate Problem Management Best Practice — Madrid, Problem Manag
 
 # Components installed with Problem Management
 
-Several types of components are installed with activation of the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid plugin, including user roles.
+Several types of components are installed with activation of the Problem Management Best Practice — Madrid plugin, including user roles.
 
 Demo data is available for this feature.
 
@@ -62,7 +62,7 @@ Problem Manager \[problem\_ manager\]
 
 </td><td>
 
-Responsible for the overall [[c_ProblemManagementProcess|problem management process]] and can configure problem management [[settings-mobile|settings]] as well as act as a problem coordinator.
+Responsible for the overall problem management process and can configure problem management settings as well as act as a problem coordinator.
 
 </td><td>
 
@@ -83,8 +83,3 @@ problem\_ manager
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Problem Management Best Practice — Madrid](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/activate-pm-best-practice-madrid.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[settings-mobile|Settings]]

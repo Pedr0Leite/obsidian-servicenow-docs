@@ -26,7 +26,7 @@ The knowledge article URL appears in the following structures:
 
     **Note:** If you open an article with sysparm\_article and sys\_kb\_id parameters that belong to different articles, the article loads based on a sysparm\_article.
 
--   Accessed from **Knowledge Base View \(kb\_view\) [[ui-page|UI page]]**: `kb_view.do?sysparm_article=<article number>&sysparm_language=<language code>’`
+-   Accessed from **Knowledge Base View \(kb\_view\) UI page**: `kb_view.do?sysparm_article=<article number>&sysparm_language=<language code>’`
 
     For example, the URL `https://yourbusiness.service-now.com/kb_view.do?sysparm_article=KB0010044&sysparm_language=en`returns the article with the most recent version in the selected language, if the translation for the selected language exists.
 
@@ -44,6 +44,3 @@ The following parameters are available for knowledge article URLs.
 
 **Parent Topic:**[Knowledge Management Service Portal article view page features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-service-portal-view.md)
 
-## Related
-
-- [[ui-page|UI page]]

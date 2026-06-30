@@ -43,7 +43,7 @@ Role required: admin
 
     In addition to the now\_assist\_panel\_user role, you can assign any role to access the Now Assist panel.
 
-    \[Omitted image "na-agentic-wf-activate.png"\] Alt text: Select display for activating the [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]].
+    \[Omitted image "na-agentic-wf-activate.png"\] Alt text: Select display for activating the Conversational intake for sourcing and procurement agentic workflow.
 
 7.  Activate the agentic workflow by selecting **Save and test**.
 
@@ -65,6 +65,3 @@ Role required: admin
 
 [Email parser agent for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]]

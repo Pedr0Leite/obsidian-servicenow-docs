@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile app, Setting up Field Service M
 
 # Access the ServiceNow Agent for Field Service Contractor for mobile application
 
-Access the [[wot-fsc|Field Service Contractor for mobile]] application to manage tasks from your phone or other mobile devices.
+Access the Field Service Contractor for mobile application to manage tasks from your phone or other mobile devices.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: wm\_ext\_agent or wm\_ext\_manager
 
 The Field Service Contractor for mobile application home screen displays.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]

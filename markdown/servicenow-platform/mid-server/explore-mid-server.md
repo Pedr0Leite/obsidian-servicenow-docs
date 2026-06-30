@@ -14,7 +14,7 @@ breadcrumb: [MID Server, Manage instance data sources, Extend ServiceNow AI Plat
 
 # Exploring MID Server
 
-[[mid-server-landing|MID Server]] acts as the mediator between the network and the instance. MID Servers are used by other applications to [[c_Connect|connect]] to the instance.
+MID Server acts as the mediator between the network and the instance. MID Servers are used by other applications to connect to the instance.
 
 ## MID Server overview
 
@@ -28,7 +28,7 @@ After configuring your MID Server, you can add security by encrypting MID Server
 
 ## Upgrading the MID Server
 
-The MID Server checks with the instance periodically to see if an upgrade is necessary. If the MID Server detects that a new version is available for upgrade, it downloads the installer from `install.service-now.com` and runs the package automatically. You can also elect to [[t_UpgradeTheMIDServerManually|upgrade the MID Server manually]]. See [MID Server upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md) for details.
+The MID Server checks with the instance periodically to see if an upgrade is necessary. If the MID Server detects that a new version is available for upgrade, it downloads the installer from `install.service-now.com` and runs the package automatically. You can also elect to upgrade the MID Server manually. See [MID Server upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_UpgradeAndTestMIDServer.md) for details.
 
 ## Resolving MID Server issues
 
@@ -58,8 +58,3 @@ You can search the HI Knowledge Base for troubleshooting articles or monitor the
 
 Continue to [Configuring MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/configure-mid-server.md) to find procedures on preparing the network, installing MID Servers, and configuring them.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[t_UpgradeTheMIDServerManually|Upgrade the MID Server manually]]

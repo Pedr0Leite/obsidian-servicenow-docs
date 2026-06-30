@@ -14,7 +14,7 @@ breadcrumb: [Workflow activities, Classic Workflow, ServiceNow AI Platform Addit
 
 # Workflow activities reference
 
-Workflow activity [[reference|reference]], organized by category.
+Workflow activity reference, organized by category.
 
 Each activity performs a different task, such as running a script, sending notifications, or requesting approvals.
 
@@ -51,7 +51,7 @@ Condition activities provide conditional branching and logical operation functio
 
 ## Notify activities
 
-[[c_NotifyActivities|Notify workflow activities]] manage calls and SMS messages in [[notify-landing-page|Notify]].
+Notify workflow activities manage calls and SMS messages in Notify.
 
 |Activity|Description|
 |--------|-----------|
@@ -65,17 +65,17 @@ Condition activities provide conditional branching and logical operation functio
 |[Forward to notify client workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WflowActivConnNotifClient.md)|The **forward to notify client** workflow activity connects a phone call to a Notify WebRTC client.|
 |[Call workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityCall.md)|The **Call** activity makes outbound phone calls using a Notify workflow. This workflow activity can be added to any table.|
 |[Join conference call workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WflowActivJoinConfCall.md)|The **Join Conference Call** activity connects an incoming or outgoing call to a Notify conference call.|
-|[Send SMS workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivitySendSMS.md)|The **send SMS** workflow activity to send short text messages [[using-notify|using Notify]] to users' phones. This workflow activity can be added to any table.|
+|[Send SMS workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivitySendSMS.md)|The **send SMS** workflow activity to send short text messages using Notify to users' phones. This workflow activity can be added to any table.|
 |[Queue workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/r_WorkflowActivityQueue.md)|The **Queue** activity places an active Notify call in a queue.|
 
 ## Notification activities
 
-Notification [[c_WorkflowActivities|workflow activities]] notify users of events that occur during the workflow.
+Notification workflow activities notify users of events that occur during the workflow.
 
 |Activity|Description|
 |--------|-----------|
 |[Create Event workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CreateEvent.md)|The **Create Event** activity adds an event to the event queue, but does not immediately fire the event.|
-|[Notification workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_NotificationActivity.md)|The **Notification** activity sends an [[email|email]] or SMS message to specified users or groups.|
+|[Notification workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_NotificationActivity.md)|The **Notification** activity sends an email or SMS message to specified users or groups.|
 
 ## Subflow activities
 
@@ -94,8 +94,8 @@ Task activities create and modify workflow tasks.
 |Activity|Description|
 |--------|-----------|
 |[Add Worknote workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_AddWorknote.md)|The **Add Worknote** activity adds text to the Worknotes field of the current incident record.|
-|[Attachment Note workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_AttachmentNote.md)|The **[[attachment|Attachment]] Note** activity adds an attachment to the current record.|
-|[Catalog Task workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CatalogTask.md)|The **Catalog Task** activity creates a [[service-catalog|service catalog]] task record.|
+|[Attachment Note workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_AttachmentNote.md)|The **Attachment Note** activity adds an attachment to the current record.|
+|[Catalog Task workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CatalogTask.md)|The **Catalog Task** activity creates a service catalog task record.|
 |[Create Task workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CreateTask.md)|The **Create Task** activity generates a record on any of the tables that extend Task \[task\].|
 
 ## Timer activities
@@ -124,7 +124,7 @@ Utility activities provide controls over the path of the workflow, and other use
 |[Return Value workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ReturnValueActivity.md)|The **Return Value** activity returns a value to a parent workflow, when run from a subflow.|
 |[Run Script workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_RunScriptActivity.md)|The **Run Script** activity runs the specified script in the scope of the workflow version.|
 |[Set Values workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_SetValuesActivity.md)|The **Set Values** activity sets values on the current record when the workflow quiesces or ends.|
-|[SOAP Message legacy workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_SOAPMessageActivity_1.md)|The legacy **SOAP Message** activity uses SOAP messages defined in the System Web Services plugin and can call the messages using a [[mid-server-landing|MID Server]].|
+|[SOAP Message legacy workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_SOAPMessageActivity_1.md)|The legacy **SOAP Message** activity uses SOAP messages defined in the System Web Services plugin and can call the messages using a MID Server.|
 |[Turnstile workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_TurnstileActivity.md)|The **Turnstile** activity limits how many times a workflow can pass through the same point.|
 |[Unlock workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_UnlockActivity.md)|The **Unlock** activity releases a lock that was previously placed by the **Lock** activity.|
 
@@ -132,7 +132,7 @@ Utility activities provide controls over the path of the workflow, and other use
 
 The following activities are included with Orchestration.
 
--   [[c_OrchActiveDirectoryActivities|Active Directory activity pack]]
+-   Active Directory activity pack
 -   Orchestration activities
 -   PowerShell activities
 -   Puppet activities
@@ -141,15 +141,3 @@ The following activities are included with Orchestration.
 
 If Orchestration is active on your system, users with the proper roles can create custom activities using the ServiceNow [Orchestration activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/c_WorkflowActivityDesigner.md). For information about the templates Orchestration provides for creating custom activities that you can upload to the ServiceNow Store, see [Orchestration custom activity templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/c_ActivityDesignerComponents.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[c_NotifyActivities|Notify workflow activities]]
-- [[notify-landing-page|Notify]]
-- [[using-notify|Using Notify]]
-- [[c_WorkflowActivities|Workflow activities]]
-- [[email|Email]]
-- [[attachment|Attachment]]
-- [[service-catalog|Service Catalog]]
-- [[mid-server-landing|MID Server]]
-- [[c_OrchActiveDirectoryActivities|Active Directory activity pack]]

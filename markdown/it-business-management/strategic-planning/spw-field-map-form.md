@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Field Map form
 
-Learn about the fields of the [[field-map-form-ppw|Field Map form]], which are used while creating a custom field mapping configuration for [[spw-jira-landing|SPW Jira Integrations]].
+Learn about the fields of the Field Map form, which are used while creating a custom field mapping configuration for SPW Jira Integrations.
 
 <table id="table_e33_pl4_nhc"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Internal Field
 
 </td><td>
 
-Field name in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Field name in Strategic Planning.
 
 </td></tr><tr><td>
 
@@ -72,8 +72,3 @@ Table in Strategic Planning.This field is auto-populated based on the Table Map 
 
 [Create custom field mapping for SPW Jira integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/custom-mapping-configuration-spw-jira.md)
 
-## Related
-
-- [[field-map-form-ppw|Field map form]]
-- [[spw-jira-landing|SPW Jira Integrations]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

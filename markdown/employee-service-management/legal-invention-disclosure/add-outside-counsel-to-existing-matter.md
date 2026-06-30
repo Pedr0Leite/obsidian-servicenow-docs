@@ -14,7 +14,7 @@ breadcrumb: [Use, Legal Invention Disclosure, Legal Service Delivery Practice Ap
 
 # Associate an existing Outside Counsel to a legal matter
 
-Add existing outside counsels to a legal matter and enable the patent fulfiller to communicate with the outside counsel for reviewing and processing the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] requests.
+Add existing outside counsels to a legal matter and enable the patent fulfiller to communicate with the outside counsel for reviewing and processing the Legal Invention Disclosure requests.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin, sn\_lg\_ops.request\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
@@ -60,7 +60,3 @@ Role required: admin, sn\_lg\_ops.request\_fulfiller
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

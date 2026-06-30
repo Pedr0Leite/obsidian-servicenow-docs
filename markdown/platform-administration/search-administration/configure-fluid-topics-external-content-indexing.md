@@ -15,7 +15,7 @@ breadcrumb: [Fluid Topics external content connector, Configure, External Conten
 
 # Configure Fluid Topics for external content indexing
 
-Generate an API key in your Fluid Topics tenant to allow the [[fluid-topics-external-content-connector|Fluid Topics external content connector]] to access your Fluid Topics source system.
+Generate an API key in your Fluid Topics tenant to allow the Fluid Topics external content connector to access your Fluid Topics source system.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ For details on creating and configuring a Fluid Topics external content connecto
 
 **Parent Topic:**[Fluid Topics external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/fluid-topics-external-content-connector.md)
 
-## Related
-
-- [[fluid-topics-external-content-connector|Fluid Topics external content connector]]

@@ -18,7 +18,7 @@ Some settings configured in the Workspace have their limitations and don't apply
 
 Some configurations set in the Workspace aren’t reflected on mobile devices. The expected behavior for each setting is as follows:
 
--   For the **Allow justification** option, justification is enabled by default on mobile, and the settings only apply to the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+-   For the **Allow justification** option, justification is enabled by default on mobile, and the settings only apply to the Digital Factory Workspace.
 -   For the **Allow attachment** option, attachments are enabled by default on mobile and the settings only apply to the Digital Factory Workspace.
 -   For the **Mark preferred answers** option, the settings for preferred answers apply only to the Digital Factory Workspace and aren’t available on mobile.
 -   For the **Question description** option, the settings apply only to the Digital Factory Workspace. For mobile, use the **Guidance** option instead.
@@ -26,6 +26,3 @@ Some configurations set in the Workspace aren’t reflected on mobile devices. T
 
 **Parent Topic:**[Publish an Industrial Guided Task standard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/publish-industrial-guided-task-standard.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

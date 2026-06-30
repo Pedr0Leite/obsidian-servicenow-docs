@@ -25,15 +25,15 @@ Role required:
 -   sn\_vul\_container.remediation\_owner for container vulnerable items \(CVITs\)
 -   sn\_vulc.remediation\_owner for configuration test results \(CTRs\)
 
-**Note:** The itli role is required if you want to submit change requests from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+**Note:** The itli role is required if you want to submit change requests from the IT Remediation Workspace.
 
 ## About this task
 
-There might be various reasons that you want to create a change request for a remediation task. Usually, it is because your investigation requires manual intervention to fix the [[vulnerabilities|vulnerabilities]].
+There might be various reasons that you want to create a change request for a remediation task. Usually, it is because your investigation requires manual intervention to fix the vulnerabilities.
 
 For more information about the change requests and creating change requests from the classic environment, see [Change management for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln-change_mgmnt_ovrvw.md).
 
-**Note:** Starting with v19.0 of [[vuln-landing-page|Vulnerability Response]], the following terms have been renamed:
+**Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 
 |Terminology prior to v19.0|Terminology v19.0 onwards|
 |--------------------------|-------------------------|
@@ -93,8 +93,4 @@ For more information about the change requests and creating change requests from
         -   Select the **Change Requests** related item menu link on the remediation task record to view all the change requests associated with the record.
         Alternatively, in the classic environment, navigate to **Self-service** &gt; **My Requests**. After you submit the change and it is implemented, if state synchronization is enabled, the remediation task automatically moves to `Resolved`. For more information about states and state synchronization in change requests, see [Create a change request from a remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln-change_mgmnt_create_change.md).
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]

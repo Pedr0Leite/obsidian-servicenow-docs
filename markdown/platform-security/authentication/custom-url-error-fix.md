@@ -14,7 +14,7 @@ breadcrumb: [Custom instance URLs, Authentication, Access Management]
 
 # Custom URL errors and fixes
 
-A list of common errors and associated fixes for a custom URL setup and [[sc-configuration|configuration]].
+A list of common errors and associated fixes for a custom URL setup and configuration.
 
 ## Errors during setup
 
@@ -36,7 +36,7 @@ There might be an issue outside of your control interfering with the custom URL 
 
 </td></tr><tr><td>
 
-Unable to submit your new Custom URL [[c_requestAPI|request]] because another Custom URL request for your instance is still in progress.
+Unable to submit your new Custom URL request because another Custom URL request for your instance is still in progress.
 
 </td><td>
 
@@ -108,8 +108,3 @@ The CNAME record must be configured from your URL provider before the custom URL
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

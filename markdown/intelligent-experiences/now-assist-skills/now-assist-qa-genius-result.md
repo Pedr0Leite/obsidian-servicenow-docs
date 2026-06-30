@@ -14,7 +14,7 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Now Assist Q&amp;A Genius Results
 
-The Now Assist Q&amp;A Genius Results skill enables users to get answers to their questions from knowledge articles, external sources, and uploaded files directly in the [[now-assist-center-now-assist-panel|Now Assist panel]].
+The Now Assist Q&amp;A Genius Results skill enables users to get answers to their questions from knowledge articles, external sources, and uploaded files directly in the Now Assist panel.
 
 ## Overview of Now Assist Q&amp;A Genius Results
 
@@ -22,11 +22,11 @@ Now Assist Q&amp;A Genius Results answers your questions in the Now Assist panel
 
 The skill supports multi-turn conversations by retaining your conversation history so that follow-up questions are answered in the context of what you previously asked without re-uploading your file or repeating yourself.
 
-The skill is part of the Platform workflow and is turned on by default. To turn it off, navigate to **[[platform-now-assist-landing|Now Assist]] Admin** &gt; **[[now-assist-skills|Now Assist Skills]]** &gt; **Platform** and select **Deactivate skill** on the skill card.
+The skill is part of the Platform workflow and is turned on by default. To turn it off, navigate to **Now Assist Admin** &gt; **Now Assist Skills** &gt; **Platform** and select **Deactivate skill** on the skill card.
 
 ## Use cases
 
-Now Assist Q&amp;A Genius Results is useful in the following use [[cases|cases]]:
+Now Assist Q&amp;A Genius Results is useful in the following use cases:
 
 -   Search across knowledge articles and external sources such as SharePoint or Confluence to get a single consolidated answer.
 -   Ask follow-up questions to build on a previous answer within the same session, without repeating context.
@@ -42,9 +42,3 @@ You can upload one file per session. The following file types are supported:
 -   Images: PNG, JPG \(maximum 10 MB\)
 -   Documents: PDF, DOCX \(maximum 10 MB\)
 
-## Related
-
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]
-- [[cases|Cases]]

@@ -14,7 +14,7 @@ breadcrumb: [View assistants, Configuring assistants overview, Now Assist in Vir
 
 # Test a voice assistant
 
-Test your voice assistant and the AI voice agents assigned to the assistant from the [[assistant-designer|Assistant Designer]]. You can make browser-based voice calls and view turn-by-turn analysis of AI voice agents invoked, tools executed, and tool execution latency during the conversation.
+Test your voice assistant and the AI voice agents assigned to the assistant from the Assistant Designer. You can make browser-based voice calls and view turn-by-turn analysis of AI voice agents invoked, tools executed, and tool execution latency during the conversation.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ The following are required to access the voice testing experience:
 -   Conversational Studio v7 or later
 -   Zurich Patch 7 or later
 -   Microphone enabled on your device
--   Now Assist for [[virtual-agent-landing-page|Virtual Agent]] version 19 or later
+-   Now Assist for Virtual Agent version 19 or later
 
 Roles required: sn\_aia.admin and sn\_voice\_aia.admin
 
@@ -98,7 +98,3 @@ As the conversation progresses, the Analysis tab shows a turn-by-turn breakdown 
 
 You have tested your voice assistant using the voice testing interface. Use the analysis results to identify issues with agent routing, tool execution, or voice assistant performance, and refine your assistant configuration as needed.
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[virtual-agent-landing-page|Virtual Agent]]

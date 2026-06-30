@@ -61,7 +61,7 @@ A set of related questions within a questionnaire template.**Note:** There can b
 
 1.  Define or select the assessment category that is appropriate for the question that you plan to add.
 
-    -   To select an existing assessment category, navigate to **All** &gt; **Third-party Risk Management** &gt; **[[Administration|Administration]]** &gt; **Question Bank**, and then select it in the list.
+    -   To select an existing assessment category, navigate to **All** &gt; **Third-party Risk Management** &gt; **Administration** &gt; **Question Bank**, and then select it in the list.
     -   For instructions on defining an assessment category, see [Set up and maintain a question bank](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-question-bank-create.md).
 2.  Create an assessment metric \(a question\).
 
@@ -465,6 +465,4 @@ On questionnaires, users select **Yes** or **No** from a list.
 </td></tr></tbody>
 </table>5.  Select **Update** to save the questions to the question bank.
 
-## Related
 
-- [[Administration|Administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Scheduled jobs to fetch data, Configure, Source-to-Pay integration 
 
 # Run scheduled jobs in SAP
 
-Run adhoc scheduled jobs to look up entity primary data from the target SAP [[erp-source|ERP source]].
+Run adhoc scheduled jobs to look up entity primary data from the target SAP ERP source.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Executes on-demand scheduled jobs on true entities of an ERP source target and f
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  Select the ERP source for which you would like to [[execute-scheduled-job|run scheduled jobs]].
+2.  Select the ERP source for which you would like to run scheduled jobs.
 
 3.  Select **Integration Services** &gt;**Run job**.
 
@@ -39,8 +39,3 @@ Executes on-demand scheduled jobs on true entities of an ERP source target and f
 
 **Parent Topic:**[Scheduled jobs to look up primary data in SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/scheduled-jobs-to-primary-data-sap.md)
 
-## Related
-
-- [[erp-source|ERP source]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[execute-scheduled-job|Run scheduled jobs]]

@@ -14,7 +14,7 @@ breadcrumb: [Retail Task Management, Retail]
 
 # Configuring Retail Task Management
 
-Set up [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+Set up Retail Task Management Core.
 
 ## Configuration overview
 
@@ -25,6 +25,3 @@ Set up [[rahi-retail-task-management-overview|Retail Task Management]] Core.
 5.  [Create an entity in the Multiple Case Configuration table for multi-store creation in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-entitt-multiple-case-creation.md)
 6.  [Create a service definition for multi-store cases in Retail Task Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-create-service-definition.md)
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]

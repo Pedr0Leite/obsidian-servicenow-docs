@@ -36,7 +36,7 @@ Benefits
 
 </th></tr></thead><tbody><tr><td>
 
-[[health-safety-testing|Health and Safety Testing]] manager or administrator: Needs an overview of the organization's testing status. They might want to see the frequency of tests, the number of results being reported each month approved, the authenticity of the tests, and what types of tests are being reported.
+Health and Safety Testing manager or administrator: Needs an overview of the organization's testing status. They might want to see the frequency of tests, the number of results being reported each month approved, the authenticity of the tests, and what types of tests are being reported.
 
 </td><td>
 
@@ -56,7 +56,7 @@ Benefits
 
 </td></tr><tr><td>
 
-[[employee-readiness-core|Employee Readiness Core]] admin: Needs an at-a-glance view of the organization's testing rate and the number of results reported to help determine employee readiness.
+Employee Readiness Core admin: Needs an at-a-glance view of the organization's testing rate and the number of results reported to help determine employee readiness.
 
 </td><td>
 
@@ -79,7 +79,3 @@ sn\_imt\_core.admin
 
 **Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-safety-testing.md)
 
-## Related
-
-- [[health-safety-testing|Health and Safety Testing]]
-- [[employee-readiness-core|Employee Readiness Core]]

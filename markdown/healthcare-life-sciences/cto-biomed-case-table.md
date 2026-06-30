@@ -12,9 +12,9 @@ breadcrumb: [Data model, Reference, Care Team Operations for Biomed, Healthcare 
 
 # Care Team Operations for Biomed case table
 
-The [[care-team-operations-for-biomed|Care Team Operations for Biomed]] Case \[sn\_cto\_biomed\_case\] enables streamlined support for operational healthcare IT use cases.
+The Care Team Operations for Biomed Case \[sn\_cto\_biomed\_case\] enables streamlined support for operational healthcare IT use cases.
 
-It extends the [[hcls-cto-app|Healthcare Operations Core]] case table.
+It extends the Healthcare Operations Core case table.
 
 <table id="table_aps_mpm_c2c"><tbody><tr><td>
 
@@ -98,8 +98,3 @@ Date and time healthcare case was opened.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[hcls-cto-app|Healthcare Operations Core]]

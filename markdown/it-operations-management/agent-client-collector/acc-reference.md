@@ -14,19 +14,14 @@ breadcrumb: [Agent Client Collector, IT Operations Management]
 
 # Agent Client Collector reference
 
-Reference topics provide additional information about [[acc-landing-page|Agent Client Collector]].
+Reference topics provide additional information about Agent Client Collector.
 
 -   **[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)**  
 Reference topics provide additional information about mapping and fine-tuning application services using Agent Client Collector Framework lists and forms.
 -   **[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)**  
-Reference topics provide additional information about [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] [[checks-policies|checks and policies]].
+Reference topics provide additional information about Agent Client Collector Monitoring checks and policies.
 -   **[Agent Client Collector for Visibility - Content reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-for-visibility-references.md)**  
 Review this information for details on OS query scripts, data collected, and definition of terms.
 
 **Parent Topic:**[Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-landing-page.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[checks-policies|Checks and policies]]

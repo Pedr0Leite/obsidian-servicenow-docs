@@ -14,7 +14,7 @@ breadcrumb: [Set up a Java KeyStore keystore, Set up a keystore and encryption k
 
 # Create encryption keys using the Java KeyStore keytool
 
-You can use the keytool shipped with the [[encryption-landing|encryption]] proxy distribution to create AES 128-bit and AES 256-bit encryption keys.
+You can use the keytool shipped with the encryption proxy distribution to create AES 128-bit and AES 256-bit encryption keys.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ To find out more about the keytool utility, see the [Java SE Documentation](http
 
 **Parent Topic:**[Set up a Java KeyStore keystore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_JavaKeyStoreSetUp.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]

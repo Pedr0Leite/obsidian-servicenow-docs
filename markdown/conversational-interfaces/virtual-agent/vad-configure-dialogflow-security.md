@@ -15,7 +15,7 @@ breadcrumb: [Configure Google Dialogflow ES as the NLU provider for Virtual Agen
 
 # Generate a Java Keystore \(JKS\) file and configure security on your ServiceNow instance
 
-To use Google Dialogflow as your NLU provider for [[virtual-agent-landing-page|Virtual Agent]], use the private key you downloaded to generate a JKS file and set up authentication in your ServiceNow instance.
+To use Google Dialogflow as your NLU provider for Virtual Agent, use the private key you downloaded to generate a JKS file and set up authentication in your ServiceNow instance.
 
 ## Before you begin
 
@@ -145,6 +145,3 @@ Role required: admin
 
 **Next topic:**[Activate the Google Dialogflow ES service and enable it in your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-ggl-df-es-service.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -69,19 +69,13 @@ You can export catalog entities in any sequence, but you must import them to a t
 
 ## What to do next
 
--   [[import-product-catalog-entities|Import product catalog entities]]
--   [[view-export-job-status|View export job status]]
+-   [Import product catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/import-product-catalog-entities.md)
+-   [View export job status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-export-job-status.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[import-product-catalog-entities|Import product catalog entities]]
-- [[view-export-job-status|View export job status]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]

@@ -12,7 +12,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Set up blueprints
 
-[[blueprints|Blueprints]] define the structure of a configuration experience in CPQ. They act as containers that bring together [[fields|fields]], [[rules_101|rules]], [[layouts|layouts]], and [[configurable-products-explore|configurable products]], enabling administrators to design, deploy, and manage complete configuration workflows across environments.
+Blueprints define the structure of a configuration experience in CPQ. They act as containers that bring together fields, rules, layouts, and configurable products, enabling administrators to design, deploy, and manage complete configuration workflows across environments.
 
 The blueprint defines the configuration experience. It acts as a container for all the parts necessary to be plugged in for the end- user interface. Because CPQ rules and fields are global, they can be used to facilitate any number of configuration experiences. The blueprint record allows the administrator to associate the subset of the fields and rules that are relevant to the configuration experience it represents. Further, the blueprint defines layouts and configurable products.
 
@@ -20,7 +20,7 @@ Unlike fields and rules, layouts can only be associated with one blueprint. A la
 
 For Salesforce-integrated organizations, the configurable product element determines the SFDC Product2 record that, when quoted in Salesforce, launches the configuration experience defined by a blueprint. Multiple configurable products can launch the same blueprint. However, each configurable product can only be associated with one blueprint.
 
-For a step-by-step guide to creating a blueprint, see [[cpq-create-a-new-blueprint|Create a blueprint]].
+For a step-by-step guide to creating a blueprint, see [Create a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-create-a-new-blueprint.md).
 
 ## The blueprint definition page
 
@@ -28,7 +28,7 @@ The blueprint definition page holds all of the different elements that are assoc
 
 ## The Associated Fields tab
 
-This tab shows all of the fields that have been associated with the blueprint. The name, type, variable name, description, and last modified date of the fields are shown to the admin on this page, as well as the username of the user that last modified the field. You can also drill down to specific field types associated to the blueprint, such as [[cpq-sets|sets]], [[product_picker_overview|product pickers]], and system fields.
+This tab shows all of the fields that have been associated with the blueprint. The name, type, variable name, description, and last modified date of the fields are shown to the admin on this page, as well as the username of the user that last modified the field. You can also drill down to specific field types associated to the blueprint, such as sets, product pickers, and system fields.
 
 \[Omitted image "cpq-blueprints-associate-fields.png"\] Alt text: Associated fields
 
@@ -37,7 +37,7 @@ This tab shows all of the fields that have been associated with the blueprint. T
 -   Product Pickers: Shows the product pickers and product picker subfields associated with the blueprint.
 -   System: Automatically associated with each blueprint. If integrated with Salesforce, these fields pull data automatically upon initialization without the need to specify it in an external connection.
 
-To learn more about fields and how to associate them with blueprints, see [[fields_101|Configure fields]].
+To learn more about fields and how to associate them with blueprints, see [Configure fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields_101.md).
 
 ## The Related Rules tab
 
@@ -67,11 +67,11 @@ This tab shows the fifty most recent deployments for the blueprint. The blueprin
 
 \[Omitted image "cpq-blueprints-deployments.png"\] Alt text: Deployments
 
-You can also see a list of the environment’s most recent deployments in the [[cpq-utilities|Utilities]] menu on the Deployment page. See [[deployments_page|Viewing blueprint deployments]].
+You can also see a list of the environment’s most recent deployments in the Utilities menu on the Deployment page. See [Viewing blueprint deployments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deployments_page.md).
 
 ## The Enrichments tab
 
-This tab shows the enrichment [[scripts|scripts]] that have been created for the blueprint. These scripts run outside of the rules engine and enact their functions on their own areas, such as on initialization, BOM response, validation, or picklist extension pricing. An admin can edit these scripts or delete them using the Trash icon on the far left. For more information about enrichment scripts, see [[external-connections|Set up External connections for configuration rules]].
+This tab shows the enrichment scripts that have been created for the blueprint. These scripts run outside of the rules engine and enact their functions on their own areas, such as on initialization, BOM response, validation, or picklist extension pricing. An admin can edit these scripts or delete them using the Trash icon on the far left. For more information about enrichment scripts, see [Set up External connections for configuration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/external-connections.md).
 
 \[Omitted image "cpq-blueprints-enrichments.png"\] Alt text: Enrichments screen
 
@@ -106,28 +106,11 @@ After a blueprint is deployed, a notification alerts you to the status of the de
 
 [Create a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-create-a-new-blueprint.md)
 
-[[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 
-[[system_fields_vs_partner_fields|CPQ fields, system fields, and partner fields]]
+[CPQ fields, system fields, and partner fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/system_fields_vs_partner_fields.md)
 
 [Configure fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields_101.md)
 
 [Boundaries and limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[cpq-create-a-new-blueprint|Create a blueprint]]
-- [[fields_101|Configure fields]]
-- [[deployments_page|Viewing blueprint deployments]]
-- [[external-connections|Set up External connections for configuration rules]]
-- [[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
-- [[system_fields_vs_partner_fields|CPQ fields, system fields, and partner fields]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]
-- [[cpq-utilities|Utilities]]
-- [[scripts|Scripts]]

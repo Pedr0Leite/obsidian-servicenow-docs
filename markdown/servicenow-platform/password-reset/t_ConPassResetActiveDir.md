@@ -14,7 +14,7 @@ breadcrumb: [Credentials Store for Password Reset for Active Directory, Credenti
 
 # Integrate Password Reset with your Active Directory service
 
-The [[password-reset-landing-page|Password Reset]] application can change passwords on an Active Directory credential store. The application changes passwords by referencing an Active Directory user role with the appropriate password change privileges.
+The Password Reset application can change passwords on an Active Directory credential store. The application changes passwords by referencing an Active Directory user role with the appropriate password change privileges.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 Before you begin, make sure the following prerequisites are met:
 
--   [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md) installed and running on a Windows computer that can [[c_Connect|connect]] to an Active Directory.
+-   [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-installation.md) installed and running on a Windows computer that can connect to an Active Directory.
 -   -   Reset password
 -   Read/Write pwdlastset
 -   Read/Write UserAccountcontrol
@@ -50,7 +50,7 @@ Descendent Group objects:
     |Type|Select Windows.|
     |User name|Enter your Active Directory domain user. For example, **domain\\admin**.|
     |Password|Enter your Active Directory domain user password.|
-    |Applies to|Select the [[mid-server-landing|MID Server]] that you use to access the Active Directory server.|
+    |Applies to|Select the MID Server that you use to access the Active Directory server.|
 
     **Note:** If you are using Integration Hub, from the Microsoft AD Credential store, click **Microsoft AD Connection Alias** to create a new connection. To learn more, see [Set up the Microsoft AD v2 spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/setup-ms-ad-v2.md).
 
@@ -61,8 +61,3 @@ Create a connection to the credential store as described in [Configure the conne
 
 **Parent Topic:**[Credentials Store for Password Reset for Active Directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/credentials-store-AD.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[c_Connect|Connect]]
-- [[mid-server-landing|MID Server]]

@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow plugins, Basic system configuration, Get started, Admini
 
 # Request a plugin
 
-If a plugin does not appear in the [[application-manager|Application Manager]], you cannot activate it yourself. Request activation of the plugin by ServiceNow personnel.
+If a plugin does not appear in the Application Manager, you cannot activate it yourself. Request activation of the plugin by ServiceNow personnel.
 
 ## Before you begin
 
@@ -76,14 +76,14 @@ The date and time to activate the plugin.
 </td></tr></tbody>
 </table>    For example, see the following request to activate the CSM Workspace plugin on an instance named My Instance.
 
-    \[Omitted image "activate-plugin-form.png"\] Alt text: Completed form to [[t_ActivateAPlugin|activate a plugin]].
+    \[Omitted image "activate-plugin-form.png"\] Alt text: Completed form to activate a plugin.
 
 4.  Click **Submit**.
 
     For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
 
 
-**Parent Topic:**[[c_ServiceNowPlugins|ServiceNow plugins]]
+**Parent Topic:**[ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md)
 
 **Related topics**  
 
@@ -92,8 +92,3 @@ The date and time to activate the plugin.
 
 [List of plugins \(Australia\)]()
 
-## Related
-
-- [[c_ServiceNowPlugins|ServiceNow plugins]]
-- [[application-manager|Application Manager]]
-- [[t_ActivateAPlugin|Activate a plugin]]

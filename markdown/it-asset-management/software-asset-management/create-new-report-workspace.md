@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create and manage reports in workspace
 
-Create and manage your report tiles in the [[sam-workspace|Software Asset Workspace]].
+Create and manage your report tiles in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sam\_admin
 
 ## About this task
 
-All the base system [[c_SoftwareAssetMgmt|Software Asset Management]] reports and the custom created reports are stored in the SAM Workbench Report \[samp\_workbench\_report\] table. List reports are supported by default. For creating other types of reports, you need to create a UIB page in the Software Asset Workspace with the necessary data visualization. A parameter called **reportSysId** needs to be passed to the UIB page. You can use the UIB page's route in the report tile creation form after it has been built.
+All the base system Software Asset Management reports and the custom created reports are stored in the SAM Workbench Report \[samp\_workbench\_report\] table. List reports are supported by default. For creating other types of reports, you need to create a UIB page in the Software Asset Workspace with the necessary data visualization. A parameter called **reportSysId** needs to be passed to the UIB page. You can use the UIB page's route in the report tile creation form after it has been built.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace** &gt; **License usage**.
 
-2.  In the [[sam-workspace-workbench|License usage view]], select the **Reports** tab.
+2.  In the License usage view, select the **Reports** tab.
 
     \[Omitted image "reportstab-workspace.png"\] Alt text: Reports tab
 
@@ -57,8 +57,3 @@ All the base system [[c_SoftwareAssetMgmt|Software Asset Management]] reports an
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace-workbench|License usage view]]

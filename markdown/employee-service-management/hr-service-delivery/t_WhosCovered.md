@@ -26,7 +26,7 @@ Employees request to create or modify who is covered under their benefit plan by
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_HRProfileRecords|HR Profile]]** &gt; **Who is covered**.
+1.  Navigate to **All** &gt; **HR Profile** &gt; **Who is covered**.
 
 2.  Click **New** or an employee to open a record.
 
@@ -124,6 +124,3 @@ Gender of the person being covered.
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

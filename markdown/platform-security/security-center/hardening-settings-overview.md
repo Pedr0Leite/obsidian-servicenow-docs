@@ -14,9 +14,9 @@ breadcrumb: [All settings, Security hardening, Security configuration console, S
 
 # Hardening settings details
 
-Analyze the details of a hardening setting by selecting its link within the [[sec-center-v2|Security Center]] app.
+Analyze the details of a hardening setting by selecting its link within the Security Center app.
 
-Navigate to **Hardening** &gt; **[[all-settings|All settings]]**, and then select a hardening setting to be redirected to a page within the hardening setting tool that displays its security-related information.
+Navigate to **Hardening** &gt; **All settings**, and then select a hardening setting to be redirected to a page within the hardening setting tool that displays its security-related information.
 
 \[Omitted image "hardening-setting-overview.png"\] Alt text: hardening setting page in UI
 
@@ -24,7 +24,7 @@ Use the **+Create task** button to create a Security Task to complete a Customer
 
 <table id="table_opc_tcz_rxb"><thead><tr><th>
 
-[[sc-configuration|Configuration]] attribute
+Configuration attribute
 
 </th><th>
 
@@ -92,14 +92,8 @@ Setting configuration
 
 </td><td>
 
-Details related to the compliance status of your hardening setting along with instructions on how to make them compliant.**Note:** Some [[security-hardening-settings|hardening settings]] may require you to configure multiple properties and plugins to make them compliant.
+Details related to the compliance status of your hardening setting along with instructions on how to make them compliant.**Note:** Some hardening settings may require you to configure multiple properties and plugins to make them compliant.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[All settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/all-settings.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[all-settings|All settings]]
-- [[sc-configuration|Configuration]]
-- [[security-hardening-settings|Hardening settings]]

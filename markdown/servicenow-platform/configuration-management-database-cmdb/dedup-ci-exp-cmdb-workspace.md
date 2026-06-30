@@ -14,7 +14,7 @@ breadcrumb: [Duplicate CIs remediation, CMDB data management, Configuration Mana
 
 # CI de-duplication experience in CMDB Workspaceand in Service Graph Workspace
 
-Create libraries of de-duplication templates in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]], to process de-duplication tasks which remediate duplicate CIs, in a consistent manner and in bulk. De-duplication templates are pre-configured with all necessary settings for remediating duplicate CIs in de-duplication tasks, per class.
+Create libraries of de-duplication templates in CMDB Workspaceor in Service Graph Workspace, to process de-duplication tasks which remediate duplicate CIs, in a consistent manner and in bulk. De-duplication templates are pre-configured with all necessary settings for remediating duplicate CIs in de-duplication tasks, per class.
 
 Use the De-duplication dashboard in [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md) or in [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) to see an overview and insights about duplicate CIs in your CMDB. The De-duplication dashboard lets you create de-duplication templates and organize these templates into libraries. You can also examine de-duplication tasks and then run a preconfigured template to remedy duplicate CIs in multiple de-duplication tasks in a single operation.
 
@@ -75,7 +75,7 @@ You can use the manage duplicate CIs skill that Now Assist for CMDB provides to 
 For more information, see [Now Assist for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md).
 
 -   **[Create a de-duplication template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-dedup-create-template.md)**  
-[[workspc-dedup-create-template|Create a de-duplication template]] that you can then run to apply pre-configured and consistent remediation to de-duplication tasks, in bulk. Organize your templates in libraries that make sense in your organization.
+Create a de-duplication template that you can then run to apply pre-configured and consistent remediation to de-duplication tasks, in bulk. Organize your templates in libraries that make sense in your organization.
 -   **[Run a template to process de-duplication tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-dedup-run-template.md)**  
 Run a de-duplication template to run de-duplication tasks that remediate duplicate CIs, in bulk. A de-duplication template is pre-configured with remediation settings per class. Running a de-duplication template, processes its assigned de-duplication tasks, consistently, according to the template settings.
 -   **[Remediate a single de-duplication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-dedup-remediate-single-task.md)**  
@@ -89,7 +89,3 @@ Retire a template that is no longer needed for processing its de-duplication tas
 
 **Parent Topic:**[Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[workspc-dedup-create-template|Create a de-duplication template]]

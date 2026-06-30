@@ -15,7 +15,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector upgrade error codes
 
-Error codes generated during [[acc-landing-page|Agent Client Collector]] upgrades, with descriptions and resolution steps.
+Error codes generated during Agent Client Collector upgrades, with descriptions and resolution steps.
 
 Upgrade errors appear in **All** &gt; **Agent Client Collector** &gt; **ACC Errors**. Filter by error codes starting with `ACC-50` to see upgrade-specific issues. Additional detail is available in the **Message** column of the Agent Upgrade Histories table. For supported platforms, see [Supported platforms for Agent Client Collector auto-upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-agent-upgrade-platforms.md).
 
@@ -137,6 +137,3 @@ Check the **sn\_agent.agent\_upgrade\_version** property. The value must be a va
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

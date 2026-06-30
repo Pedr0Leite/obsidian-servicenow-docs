@@ -22,7 +22,7 @@ Copy an existing profile and its associated settings instead of creating a profi
 
 Microsoft has extended the deprecation of the Azure Sentinel experience in the Azure portal from March 2026 to March 2027.
 
-If you are currently using the Azure Sentinel integration with [[sir-landing-page|Security Incident Response]] \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
+If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see [Microsoft Sentinel to Defender Migration Guide](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2795226).
 
 Role required: sn\_si.ingestion\_profile\_admin
 
@@ -34,21 +34,16 @@ When you copy a profile, the profile name is initially modified to avoid creatin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel Integration]]** &gt; **Azure Sentinel Profile**.
+1.  Navigate to **All** &gt; **Microsoft Azure Sentinel Integration** &gt; **Azure Sentinel Profile**.
 
 2.  In the Azure Sentinel Profiles list, select a profile that you want to copy, and then from the Actions on selected rows list, click **Copy** as shown in the following example.
 
     \[Omitted image "sentinel-copying-profile.png"\] Alt text: Copying a profile.
 
-    The profile is copied and displayed on the list as shown in the following example. The copy has all the settings of the original profile including the [[mapping-logrhythm|mapping]] and scheduling configuration. The name of the profile contains the word "copy." Although the original profile is enabled \(true\), the copy is turned off at this point \(false\). You may prefer to edit values of the copied profile and rename them so that the [[qradar-ibm-intg-settings|configuration settings]] apply to the new profile as required.
+    The profile is copied and displayed on the list as shown in the following example. The copy has all the settings of the original profile including the mapping and scheduling configuration. The name of the profile contains the word "copy." Although the original profile is enabled \(true\), the copy is turned off at this point \(false\). You may prefer to edit values of the copied profile and rename them so that the configuration settings apply to the new profile as required.
 
     \[Omitted image "sentinel-copied-profile.png"\] Alt text: Copied profile.
 
     You have successfully copied the settings from an existing profile to a new profile. The Active column status is set to false, which means that the profile must be activated.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]]
-- [[mapping-logrhythm|Mapping]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

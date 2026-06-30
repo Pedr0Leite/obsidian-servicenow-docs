@@ -58,7 +58,7 @@ Steps
 2.  Select **Edit**.
 3.  From the list of repositories available in DevOps, select the repositories to track and associate with the application.
 4.  Select **Save**.
- **Note:** When the property **Enable automatic association of repos to apps on pipeline execution** is enabled, repositories are automatically assigned to [[dex-workspace-application-tab|applications]] when a pipeline associated with an app identifies commits of a repository that is not yet associated.
+ **Note:** When the property **Enable automatic association of repos to apps on pipeline execution** is enabled, repositories are automatically assigned to applications when a pipeline associated with an app identifies commits of a repository that is not yet associated.
 
 </td></tr><tr><td id="d281647e165">
 
@@ -76,7 +76,3 @@ Steps
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Legal Request Management, Legal Service Delivery, Legal and Contrac
 
 # Exploring Legal Request Management
 
-[[legal-request-management-landing-page|Legal Request Management]] enables authorized employees in the organization to submit legal requests and to track their progress while users in the legal department with appropriate roles can work to resolve these requests.
+Legal Request Management enables authorized employees in the organization to submit legal requests and to track their progress while users in the legal department with appropriate roles can work to resolve these requests.
 
 ## Legal Request Management overview
 
@@ -24,7 +24,7 @@ Employees can read legal knowledge base articles, submit legal requests, monitor
 
 |User|Description|
 |----|-----------|
-|Legal Configurator|Legal Configurator configures data such as practice area, category, and [[legal-matter-administration|legal matter templates]].|
+|Legal Configurator|Legal Configurator configures data such as practice area, category, and legal matter templates.|
 |Legal Fulfiller|Legal Fulfiller works on assigned legal requests and matters.|
 |Legal User|Legal User submits legal requests and tracks their progress. Can work on assigned tasks related to matters.|
 
@@ -58,7 +58,7 @@ A workflow for a legal request might progress as following:
     3.  Manages attachments for a legal request.
     4.  Initiates an ad hoc approval for a legal request or its attachment.
     5.  If required, promotes a legal request to a legal matter.
-3.  If required Request Fulfiller can [[transfer-existing-legal-request|transfer a legal request]].
+3.  If required Request Fulfiller can transfer a legal request.
 4.  Legal Fulfiller closes the legal request on fulfilling it.
 
 ## Legal Request Management benefits
@@ -117,7 +117,7 @@ Practice Area Lead
 
 </td></tr><tr><td>
 
-Track, prioritize, and work on multiple requests concurrently with an optimized [[legal-counsel-center-landing|Legal Counsel Center]]
+Track, prioritize, and work on multiple requests concurrently with an optimized Legal Counsel Center
 
 </td><td>
 
@@ -129,7 +129,7 @@ Legal Fulfiller
 
 </td></tr><tr><td>
 
-[[lmm-acp-landing|Attorney Client Privilege]] enables legal fulfillers to mark legal requests as privileged and confidential. This capability helps you protect sensitive legal communications and comply with [[lsd-acp-landing|attorney-client privilege]] requirements.
+Attorney Client Privilege enables legal fulfillers to mark legal requests as privileged and confidential. This capability helps you protect sensitive legal communications and comply with attorney-client privilege requirements.
 
 </td><td>
 
@@ -144,7 +144,7 @@ Legal Fulfiller
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[submitting-legal-request|using Legal Request Management]], see:
+To learn more about configuring and using Legal Request Management, see:
 
 -   [Configuring Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-ops-administration.md)
 -   [Using Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submitting-legal-request.md)
@@ -156,12 +156,3 @@ Attorney Client Privilege functionality enables legal fulfiller to designate leg
 
 **Parent Topic:**[Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-landing-page.md)
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-matter-administration|Legal matter templates]]
-- [[transfer-existing-legal-request|Transfer a legal request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lmm-acp-landing|Attorney Client Privilege]]
-- [[lsd-acp-landing|Attorney-Client Privilege]]
-- [[submitting-legal-request|Using Legal Request Management]]

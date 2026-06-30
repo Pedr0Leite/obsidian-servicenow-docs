@@ -24,7 +24,7 @@ The public certificate that you created in this example is considered a “self-
 
 1.  In your local environment, open Terminal \(on Mac or Linux\), or Command Line \(in Windows\).
 
-2.  Using the terminal, use `cd` to move into the folder where you have created your [[encryption-landing|encryption]] keys.
+2.  Using the terminal, use `cd` to move into the folder where you have created your encryption keys.
 
 3.  In the terminal, enter the following command:
 
@@ -70,7 +70,7 @@ Format
 
 </td><td>
 
-Select **PEM****Note:** Privacy Enhanced Mail \(PEM\) files are a type of Public Key Infrastructure \(PKI\) file used for keys and [[c_Certificates|certificates]]. The records you created in the previous steps are of this file type.
+Select **PEM****Note:** Privacy Enhanced Mail \(PEM\) files are a type of Public Key Infrastructure \(PKI\) file used for keys and certificates. The records you created in the previous steps are of this file type.
 
 </td></tr><tr><td>
 
@@ -100,10 +100,5 @@ Paste the certificate information that you copied in step 4.
 </table>8.  Select **Submit** to save the record.
 
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[encryption-landing|Encryption]]
-- [[c_Certificates|Certificates]]

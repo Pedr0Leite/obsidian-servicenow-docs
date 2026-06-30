@@ -14,11 +14,11 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Manage ownership groups
 
-Create [[enable-ownership-group|ownership groups]] and associate them to knowledge articles. Knowledge group managers or knowledge administrators can edit ownership groups.
+Create ownership groups and associate them to knowledge articles. Knowledge group managers or knowledge administrators can edit ownership groups.
 
 ## Before you begin
 
-The [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) must be activated.
+The Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) must be activated.
 
 Role required: Users with the knowledge\_domain\_expert or knowledge\_admin roles can create ownership groups.
 
@@ -60,7 +60,7 @@ Name of the ownership group.
 
 </td></tr><tr><td>
 
-Group [[email|email]]
+Group email
 
 </td><td>
 
@@ -111,8 +111,3 @@ Members of the ownership group.
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[enable-ownership-group|Ownership groups]]
-- [[knowledge-management|Knowledge Management]]
-- [[email|Email]]

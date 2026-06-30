@@ -16,9 +16,9 @@ This section covers important troubleshooting tips that can help you resolve com
 
 ## SSL issues
 
-When connecting through the MISP integration, ensure that you’ve installed a valid CA certificate on the MISP server, which hasn’t expired. You can import RSA or your own certificates into the platform and ensure that the common name of the certificate matches the host name. For more information, see [[install-and-configure-misp|Install and configure the MISP integration for Security Operations]] and [[misp-user-roles-and-permissions|MISP user roles and permissions]].
+When connecting through the MISP integration, ensure that you’ve installed a valid CA certificate on the MISP server, which hasn’t expired. You can import RSA or your own certificates into the platform and ensure that the common name of the certificate matches the host name. For more information, see [Install and configure the MISP integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-and-configure-misp.md) and [MISP user roles and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-user-roles-and-permissions.md).
 
-**Parent Topic:**[[misp-administration|MISP administration]]
+**Parent Topic:**[MISP administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-administration.md)
 
 **Related topics**  
 
@@ -41,8 +41,3 @@ When connecting through the MISP integration, ensure that you’ve installed a v
 
 [Domain separation and MISP]()
 
-## Related
-
-- [[install-and-configure-misp|Install and configure the MISP integration for Security Operations]]
-- [[misp-user-roles-and-permissions|MISP user roles and permissions]]
-- [[misp-administration|MISP administration]]

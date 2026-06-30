@@ -18,7 +18,7 @@ Connect to your SonarQube instance that is integrated with your CI/CD pipelines 
 
 ## SonarQube integration overview
 
-Sonar scans that are configured on GitHub Actions, Jenkins, and Azure DevOps pipelines are supported in [[devops-landing-page-new|DevOps Change Velocity]]. Both SonarCloud and SonarQube \(on-premises\) are supported.
+Sonar scans that are configured on GitHub Actions, Jenkins, and Azure DevOps pipelines are supported in DevOps Change Velocity. Both SonarCloud and SonarQube \(on-premises\) are supported.
 
 You can view the code quality and code security summary results either in the related list of a Change Request or the Task Execution of the pipeline in your ServiceNow instance. You can also use code quality and code security results in defining change policies and conditions for change automation.
 
@@ -59,6 +59,3 @@ Connect to your Sonar instance to retrieve scan results.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

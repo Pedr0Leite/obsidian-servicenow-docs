@@ -14,7 +14,7 @@ breadcrumb: [Creating configurations, Configuring Cloud Account Management, Clou
 
 # Create a scan account configuration
 
-Configure the [[cam-landing|Cloud Account Management]] app before scanning a service account to confirm it’s ready for effective account management.
+Configure the Cloud Account Management app before scanning a service account to confirm it’s ready for effective account management.
 
 ## Before you begin
 
@@ -62,11 +62,11 @@ The service account and its member accounts.**Note:** Selecting a management acc
 
 </td></tr><tr><td>
 
-CCG [[ccg-scan-configuration|scan configuration]]
+CCG scan configuration
 
 </td><td>
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] \(CCG\) scan configuration used for getting the violations for all accounts in the selected cloud organization.
+Cloud Configuration Governance \(CCG\) scan configuration used for getting the violations for all accounts in the selected cloud organization.
 
 </td></tr><tr><td>
 
@@ -84,8 +84,3 @@ Information that can be recorded in work notes.
 
 [Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[ccg-scan-configuration|Scan configuration]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

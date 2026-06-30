@@ -16,7 +16,7 @@ breadcrumb: [Customer Service Platform Analytics Solutions, Analytics and report
 
 Provides indicators on the Customer Service dashboards for major cases and child cases.
 
-Action indicators are available on the Customer Service dashboards when the Performance Analytics - Content Pack - [[c_CustomerServiceManagement|Customer Service Management]] - Advanced plugin \(com.snc.pa.customer\_service\_advanced\) is activated.
+Action indicators are available on the Customer Service dashboards when the Performance Analytics - Content Pack - Customer Service Management - Advanced plugin \(com.snc.pa.customer\_service\_advanced\) is activated.
 
 **Note:** Activate the Major Issue Management plugin \(com.sn\_majorissue\_mgt\) to view the related indicators. Without this plugin, the indicators may not display correctly.
 
@@ -29,6 +29,3 @@ Indicators:
 -   Percentage of Child Cases which are Auto Created from Major Case
 -   Number of customers impacted by major issue
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

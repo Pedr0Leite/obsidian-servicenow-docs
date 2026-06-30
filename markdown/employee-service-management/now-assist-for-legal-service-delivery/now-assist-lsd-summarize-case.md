@@ -15,7 +15,7 @@ breadcrumb: [Use, Now Assist for Legal Service Delivery \(LSD\), Legal Service D
 
 # Summarize a legal request or matter by using Now Assist for Legal Service Delivery \(LSD\)
 
-Generate a summary from the fields that you selected on the legal request or matter record and quickly understand the request context by using the Legal Request or Legal Matter summarization skill in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application.
+Generate a summary from the fields that you selected on the legal request or matter record and quickly understand the request context by using the Legal Request or Legal Matter summarization skill in the Now Assist for Legal Service Delivery \(LSD\) application.
 
 ## Before you begin
 
@@ -27,9 +27,9 @@ The Legal Request or Legal Matter summarization skill provides you with a concis
 
 You can configure the variables of practice areas that you want to be considered as inputs for legal request or matter summarization by using the Now Assist application. To add variables, see [Configure variables for Now Assist summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/configure-variables-for-now-assist-summarization.md).
 
-The summarization skills are available in [[legal-counsel-center-landing|Legal Counsel Center]] and in Core UI.
+The summarization skills are available in Legal Counsel Center and in Core UI.
 
--   In Legal Counsel Center, you use the Legal Request summary by Now Assist component to generate a summary. This component appears above the [[activity-lxp|activity]] stream.
+-   In Legal Counsel Center, you use the Legal Request summary by Now Assist component to generate a summary. This component appears above the activity stream.
 
     **Note:** You can also generate a summary on demand from the Now Assist panel. For more information, see [Use the Now Assist for Legal Service Delivery \(LSD\) capabilities from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-request-gen-ai-cap.md).
 
@@ -121,8 +121,3 @@ Use the contextual generative AI capabilities, such as a request summary by usin
 
 **Parent Topic:**[Using Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-using.md)
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

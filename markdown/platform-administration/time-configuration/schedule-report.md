@@ -28,12 +28,12 @@ Scheduled reports can be distributed in PDF, CSV, or XLS format. Graphical repor
 
 **Note:**
 
--   It is not possible to [[schedule-calendar|schedule Calendar]], Map, or Single Score reports. You can schedule Pivot Table reports only if the plug-in **com.snc.whtp** is enabled.
+-   It is not possible to schedule Calendar, Map, or Single Score reports. You can schedule Pivot Table reports only if the plug-in **com.snc.whtp** is enabled.
 -   Data may not appear on reports created by an individual whose user account is deactivated. To ensure that the desired data appears, an active user must recreate the scheduled report.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
 2.  Select **New**.
 
@@ -63,7 +63,7 @@ Report
 
 </td><td>
 
-[[reference-email-admin|Reference]] to the report you are scheduling. You can use the Search icon \[Omitted image "SearchIcon.png"\] Alt text: Search icon to locate the report.**Note:** Automatic email support is not available for Calendar, Map, and Single Score reports.
+Reference to the report you are scheduling. You can use the Search icon \[Omitted image "SearchIcon.png"\] Alt text: Search icon to locate the report.**Note:** Automatic email support is not available for Calendar, Map, and Single Score reports.
 
 </td></tr><tr><td>
 
@@ -270,7 +270,7 @@ Condition
 
 </td><td>
 
-A conditional script that determines if a scheduled job should run. The last expression of the script should evaluate to a Boolean \(true/false\) value. This text box appears only if you select **Use conditions**. For more information about scripts on the ServiceNow platform, see [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md).**Warning:** Conditional scripts for scheduled emails are executed in the sandbox. Therefore, function [[clone-exclusions-preservers-cleanupscripts|definitions]] are not allowed. Some API calls and keywords are also not allowed. For more information, see Script sandbox property.
+A conditional script that determines if a scheduled job should run. The last expression of the script should evaluate to a Boolean \(true/false\) value. This text box appears only if you select **Use conditions**. For more information about scripts on the ServiceNow platform, see [Scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/c_Script.md).**Warning:** Conditional scripts for scheduled emails are executed in the sandbox. Therefore, function definitions are not allowed. Some API calls and keywords are also not allowed. For more information, see Script sandbox property.
 
 </td></tr><tr><td>
 
@@ -367,9 +367,3 @@ To edit the scheduled email of a report job, open the job from the Scheduled Job
 
 [Set a system time zone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_SetASystemTimeZone.md)
 
-## Related
-
-- [[schedule-calendar|Schedule calendar]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[reference-email-admin|Reference]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

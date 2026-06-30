@@ -24,7 +24,7 @@ Complete the steps specified in the [Getting started](https://raw.githubusercont
 
 ## Procedure
 
-1.  Enter the JFrog instance details to connect to [[devops-landing-page-new|DevOps Change Velocity]] by navigating to **All** &gt; **DevOps** &gt; **Tools** &gt; **Create New \(legacy\)**.
+1.  Enter the JFrog instance details to connect to DevOps Change Velocity by navigating to **All** &gt; **DevOps** &gt; **Tools** &gt; **Create New \(legacy\)**.
 
 2.  Enter a value in the **Tool Name** field and fill in the tool details.
 
@@ -84,12 +84,8 @@ Login credentials of the global admin for the existing JFrog instance.
     -   Other DevOps roles: Can view the tool.
     **Note:** Only groups containing users with DevOps roles are available for selection in the **Maintained by** field.
 
-    The **All App Owners can view and associate tool objects to [[dex-workspace-application-tab|applications]]** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
+    The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
 
 **Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]

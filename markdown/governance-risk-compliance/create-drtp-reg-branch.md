@@ -37,7 +37,7 @@ It eliminates the need for manual lookup and ensures that branch records contain
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Branches**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Branches**.
 
 2.  Select **New**.
 
@@ -54,7 +54,7 @@ It eliminates the need for manual lookup and ensures that branch records contain
     -   ID of the branch and its originating country
     The number for the branch is auto-generated. Once the branch details are complete, the information is ready to be captured in the information register.
 
-    For more information, see [[create-new-branch-form|Create New Branch form]].
+    For more information, see [Create New Branch form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-branch-form.md).
 
 4.  Select **Save**.
 
@@ -73,16 +73,10 @@ It eliminates the need for manual lookup and ensures that branch records contain
 
 ## What to do next
 
-Specify the functions that are associated with a branch. For more information, see [[create-drtp-reg-function|Create a function and enhance digital resilience data]].
+Specify the functions that are associated with a branch. For more information, see [Create a function and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-function.md).
 
 -   **[Create New Branch form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-branch-form.md)**  
 On the Create New Branch form, fill in the fields.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-new-branch-form|Create New Branch form]]
-- [[create-drtp-reg-function|Create a function and enhance digital resilience data]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

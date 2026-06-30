@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View anomaly alerts
 
-Anomaly alerts indicate deviation from projected metric values for monitored CIs. Anomaly alerts are separate from regular IT alerts. They appear in the [[workspace-dashboard-use|Service Operations Workspace]] but not in Express List. You can define an anomaly alert promotion rule to generate an IT alert that is based on anomaly alerts.
+Anomaly alerts indicate deviation from projected metric values for monitored CIs. Anomaly alerts are separate from regular IT alerts. They appear in the Service Operations Workspace but not in Express List. You can define an anomaly alert promotion rule to generate an IT alert that is based on anomaly alerts.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: evt\_mgmt\_user
 
 The statistical model is used to calculate standard deviations, upper and lower bounds, and statistical outliers which are then used to detect anomalies. An anomaly occurs when metric values are out of the projected values according to the statistical model. The system monitors the frequency and persistence of statistical outliers across time to compute a score between 0-10 that indicates how abnormal a deviation is.
 
-[[operational-metrics|Metric Intelligence]] constantly generates anomaly alerts whenever the anomaly score is above zero. If there is a score that is above four and which has changed from the previous score, then it is sent to the instance. On the instance, the entire sequence of anomaly scores over time can then be displayed in the Insights Explorer.
+Metric Intelligence constantly generates anomaly alerts whenever the anomaly score is above zero. If there is a score that is above four and which has changed from the previous score, then it is sent to the instance. On the instance, the entire sequence of anomaly scores over time can then be displayed in the Insights Explorer.
 
 Metric Intelligence monitors historical data to ensure that metric bounds are accurate and that the alerts close when the anomalous behavior stops. Metric Intelligence also ignores irrelevant anomalies based on the metric's labels. For example, if the available CPU increases from its upper bound of 50% to 60%, the **available** label is identified as an indicator that the behavior should not register as an anomaly. This is because the increase in available CPU represents a favorable outcome, even though the metric of 60% would otherwise represent an anomaly.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Metrics** &gt; **Anomaly Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Metrics** &gt; **Anomaly Alerts**.
 
 2.  In the **Alerts Anomalies** list view, double-click an alert that you want to view.
 
@@ -39,13 +39,7 @@ Metric Intelligence monitors historical data to ensure that metric bounds are ac
 
 ## What to do next
 
-Create an [[advanced-promotion-engine|Advanced Promotion Engine]] Definition, to define the conditions which must be met to promote anomaly alerts to IT alerts. For details, see [Create a definition for the Advanced Promotion Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-advanced-promotion-engine.md).
+Create an Advanced Promotion Engine Definition, to define the conditions which must be met to promote anomaly alerts to IT alerts. For details, see [Create a definition for the Advanced Promotion Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-advanced-promotion-engine.md).
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]
-- [[advanced-promotion-engine|Advanced Promotion Engine]]

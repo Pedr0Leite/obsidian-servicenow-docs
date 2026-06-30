@@ -29,7 +29,7 @@ The HLA store app installation automatically creates the ServiceNow System Logs 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Data Input** &gt; **Data Inputs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Data Input** &gt; **Data Inputs**.
 
 2.  On the Data Inputs page, select **New**.
 
@@ -60,6 +60,3 @@ For a description of how this data input can help you detect and resolve emergin
 
 **Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-inputs-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

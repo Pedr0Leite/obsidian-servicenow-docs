@@ -22,7 +22,7 @@ Role required: workspace\_user
 
 1.  Open a Workspace record in your instance.
 
-2.  Open the full email composer by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) from the record view, and then select **[[activity-stream-compose-configurable-workspace|Compose]] Email**.
+2.  Open the full email composer by selecting the More actions icon \(\[Omitted image "x-more-actions-icon.png"\] Alt text: More actions icon\) from the record view, and then select **Compose Email**.
 
 3.  **Note:** Instead of a button to save email drafts manually, drafts save automatically.
 
@@ -60,6 +60,4 @@ Role required: workspace\_user
 
     3.  Select **Delete**.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]

@@ -18,9 +18,9 @@ Impact radius typically refers to the extent to which a regulatory change affect
 
 ## Impacted areas
 
-The regulatory events that could have an impact on the compliance or risk posture of your organization should be assessed. Calculating the impact radius is a method for assessing the impact of the regulatory event on the GRC objects and for suggesting action tasks based on the assessment of the impact. The [[reg-change-mgmt-landing-page|Regulatory Change Management]] application supports the impact radius calculation process for a regulatory alert. Calculating the impact radius is a method of automatically creating action tasks for the users.
+The regulatory events that could have an impact on the compliance or risk posture of your organization should be assessed. Calculating the impact radius is a method for assessing the impact of the regulatory event on the GRC objects and for suggesting action tasks based on the assessment of the impact. The Regulatory Change Management application supports the impact radius calculation process for a regulatory alert. Calculating the impact radius is a method of automatically creating action tasks for the users.
 
-[[list-view-of-reg-alerts|Regulatory alerts]] are of two types:
+Regulatory alerts are of two types:
 
 -   Regulatory event
 -   Source document
@@ -49,10 +49,5 @@ When you add impacted areas to regulatory alerts of type regulatory event, assig
 
 The Compliance Workspace is updated to display the regulatory changes by impacted areas. The following figure displays the regulatory changes section under the Tracking widget.
 
-\[Omitted image "compliance-workspace-reg-changes.png"\] Alt text: The figure shows the link to the Regulatory change management dashboard and the [[reg-change-task|regulatory change tasks]].
+\[Omitted image "compliance-workspace-reg-changes.png"\] Alt text: The figure shows the link to the Regulatory change management dashboard and the regulatory change tasks.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]

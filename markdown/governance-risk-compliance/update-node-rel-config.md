@@ -12,7 +12,7 @@ breadcrumb: [Configure the Main node configurations, Configure, Operational Resi
 
 # Configure the Node relationship configurations
 
-Create a Node relationship configuration record to establish relationships between nodes. Update the node relationships including source table, both Configuration Items \(CI\) and non-CI relationships. The [[node-relationship-configurations|Node relationship configurations]] define the connections between the source table and other tables \(target tables\), specifying how they are related.
+Create a Node relationship configuration record to establish relationships between nodes. Update the node relationships including source table, both Configuration Items \(CI\) and non-CI relationships. The Node relationship configurations define the connections between the source table and other tables \(target tables\), specifying how they are related.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configuration**.
+1.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configuration**.
 
 2.  Open the desired Main node configuration from the list.
 
@@ -34,13 +34,13 @@ Role required: sn\_oper\_res.admin
 
     \[Omitted image "node-rel-config-new-record.png"\] Alt text: Record.
 
-    For description of the fields in the Node relationship configuration form, see [[node-relationship-configuration-form|Node relationship configuration form]].
+    For description of the fields in the Node relationship configuration form, see [Node relationship configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/node-relationship-configuration-form.md).
 
-    You can set up these relationship registries by creating a Relationship Registry record in the Relationship Registries module. The [[data-rel-registries-form|Relationship Registry new record form]] is shown in the example.
+    You can set up these relationship registries by creating a Relationship Registry record in the Relationship Registries module. The Relationship Registry new record form is shown in the example.
 
     \[Omitted image "rela-registry-record-new.png"\] Alt text: Rel registry record.
 
-    For the description of the fields in the Relationship registry form, see [[rel-registry-record-form|Relationship registry record form]].
+    For the description of the fields in the Relationship registry form, see [Relationship registry record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/rel-registry-record-form.md).
 
 4.  Select the table of your choice in the **Source table** field in the **Source** tab.
 
@@ -159,10 +159,4 @@ For the Scripted relationship, you can select the record from sys\_relationship.
 
     \[Omitted image "ser-to-dep-main-node-config.png"\] Alt text: Services to Dependencies.
 
-## Related
 
-- [[node-relationship-configuration-form|Node relationship configuration form]]
-- [[rel-registry-record-form|Relationship registry record form]]
-- [[node-relationship-configurations|Node relationship configurations]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[data-rel-registries-form|Relationship registry new record form]]

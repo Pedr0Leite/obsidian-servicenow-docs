@@ -14,11 +14,11 @@ breadcrumb: [Observability-Dynatrace, Service Graph Connectors, Integrating thir
 
 # Data mapping for Observability-Dynatrace
 
-Data from the Dynatrace data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Dynatrace data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from Dynatrace.
 
-**Important:** The [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]] supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]].
+**Important:** The Service Graph Connector for Observability - Dynatrace supports Dynatrace Classic \(v1/v2 APIs\) and is intended for Dynatrace managed \(self‑hosted\) or legacy SaaS environments. If you're using or upgrading to the latest Dynatrace 3rd-generation SaaS platform, you should use the new Service Graph Connector for Observability - Dynatrace SaaS.
 
 For more information on where data is saved when pulling data from Dynatrace, see [CMDB classes targeted in Service Graph Connector for Observability - Dynatrace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-dynatrace-classes.md).
 
@@ -307,7 +307,7 @@ SGO-Dynatrace Azure Load Balancer
 
 </td><td>
 
-Ingests Azure load balancer data from Dynatrace.Contains Azure load balancer and cloud load balancer [[ip-address|IP address]] and tag details.
+Ingests Azure load balancer data from Dynatrace.Contains Azure load balancer and cloud load balancer IP address and tag details.
 
 </td><td>
 
@@ -866,12 +866,5 @@ SGO-Dynatrace AWS Auto Scaling Group V1 \[sn\_dynatrace\_integ\_sgo\_dynatrace\_
 AUTO\_SCALING\_GROUP
 
 </td></tr></tbody>
-</table>You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+</table>You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[sgc-integration-observability-dynatrace-saas|Service Graph Connector for Observability - Dynatrace SaaS]]
-- [[ip-address|IP Address]]
-- [[integrationhub-etl|IntegrationHub ETL]]

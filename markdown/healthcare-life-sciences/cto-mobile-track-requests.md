@@ -12,7 +12,7 @@ breadcrumb: [Create support requests using Care Team Mobile, Care Team Mobile, H
 
 # Track a submitted request in Care Team Mobile
 
-Use **Track requests** in [[care-team-mobile-landing|Care Team Mobile]] to track all requests submitted by you or your team.
+Use **Track requests** in Care Team Mobile to track all requests submitted by you or your team.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ Role required: Team member, Team manager
 
 5.  Select a request to view its details.
 
-## Related
 
-- [[care-team-mobile-landing|Care Team Mobile]]

@@ -14,7 +14,7 @@ breadcrumb: [Plugin, Managed Documents, Document Services, Manage content capabi
 
 # Install the Managed Documents plugin
 
-The [[r_ManagedDocumentsPlugin|Managed Documents plugin]] is available for activation by users with the admin role.
+The Managed Documents plugin is available for activation by users with the admin role.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Application** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the [[c_ManagedDocuments|Managed documents]] \(com.snc.document\_management\) plugin and select **Activate/Upgrade**.
+2.  Find the Managed documents \(com.snc.document\_management\) plugin and select **Activate/Upgrade**.
 
     If the plugin depends on other plugins, these plugins and their activation status are listed.
 
-3.  Select the **Load demo data** [[check-box|check box]].
+3.  Select the **Load demo data** check box.
 
     Some plugins include demo data—sample records that are designed to illustrate plugin features for common use cases. Loading demo data is a good policy when first activating the plugin on a development or test instance. You can load demo data after the plugin is activated by repeating this process and selecting the check box.
 
@@ -37,8 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Managed Documents plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_ManagedDocumentsPlugin.md)
 
-## Related
-
-- [[r_ManagedDocumentsPlugin|Managed Documents plugin]]
-- [[c_ManagedDocuments|Managed Documents]]
-- [[check-box|Check box]]

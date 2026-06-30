@@ -56,7 +56,7 @@ Active
 
 Option for making the profile active.
 
- When a profile is active, the ServiceNow AI Platform actively polls CrowdStrike Next-Gen SIEM detections and corresponding security detections are created in [[sir-landing-page|Security Incident Response]] when the filtering conditions are matched.
+ When a profile is active, the ServiceNow AI Platform actively polls CrowdStrike Next-Gen SIEM detections and corresponding security detections are created in Security Incident Response when the filtering conditions are matched.
 
 </td></tr><tr><td>
 
@@ -98,6 +98,3 @@ Optional description of the profile.
 
 [Set correlation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/select-correlation-rules-cs-ng-siem.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

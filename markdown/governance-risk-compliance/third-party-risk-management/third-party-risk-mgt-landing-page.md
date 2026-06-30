@@ -34,7 +34,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Migrate Classic to [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \[Omitted image "bus-case-and-knowledge-management.svg"\] Alt text:Learn what changes when you migrate from the Classic Assessment Engine to the Smart Assessment Engine, including feature differences, limitations, and setup requirements.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-migrate-asmnt-sae.md)
+[Migrate Classic to Smart Assessment Engine \[Omitted image "bus-case-and-knowledge-management.svg"\] Alt text:Learn what changes when you migrate from the Classic Assessment Engine to the Smart Assessment Engine, including feature differences, limitations, and setup requirements.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-migrate-asmnt-sae.md)
 
 </td><td>
 
@@ -92,6 +92,3 @@ The Vendor Management Workspace for ITSM \(sn\_itsm\_vendor\) is deprecated as o
 -   [Learn how to build apps on the developer site](https://developer.servicenow.com/app.do#!/training/landing).
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

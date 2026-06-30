@@ -15,7 +15,7 @@ breadcrumb: [Configuring Prioritization and Roadmap settings in Portfolio Planni
 
 # Customize the planning item display preferences for Prioritization and Roadmap in Portfolio Planning Workspace
 
-Update source table configurations so that you can customize the roadmap view in [[portfolio-planning-app-landing-page|Portfolio Planning]] according to your business priorities.
+Update source table configurations so that you can customize the roadmap view in Portfolio Planning according to your business priorities.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ For the source tables that you use to create your portfolio plans or free-form r
 
 **Parent Topic:**[Configuring Prioritization and Roadmap settings in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-prioritization-and-roadmap-settings-in-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

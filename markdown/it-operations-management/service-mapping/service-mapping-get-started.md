@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping, ITOM Visibility, IT Operations Management]
 
 # Exploring Service Mapping
 
-[[c_ServiceMappingOverview|Service Mapping]] discovers all service instances in your organization and builds a comprehensive map of all devices, applications, and configuration profiles used in these service instances.
+Service Mapping discovers all service instances in your organization and builds a comprehensive map of all devices, applications, and configuration profiles used in these service instances.
 
 ## Who uses Service Mapping
 
@@ -24,7 +24,7 @@ Service Mapping enables IT departments of companies, organizations, and cloud co
 
 A service instance is a set of interconnected applications and hosts that are configured to offer a service to the organization. Service instances can be internal, like an organization email system or customer-facing, like an organization website. For example, creating financial reports through a web-based application requires a computer, web server, application server, databases, middleware, and network infrastructure. These applications and hosts are all configured to offer the service of financial reporting.
 
-Typically, IT departments create and maintain an inventory that treats devices and applications as standalone, independent objects. Connections between the devices and applications are not included. This is usually referred to as horizontal [[r-discovery|discovery]]. This method does not address the biggest challenge for IT departments, which is understanding the connection and dependencies between each object.
+Typically, IT departments create and maintain an inventory that treats devices and applications as standalone, independent objects. Connections between the devices and applications are not included. This is usually referred to as horizontal discovery. This method does not address the biggest challenge for IT departments, which is understanding the connection and dependencies between each object.
 
 Service Mapping maps dependencies, based on a connection between devices and applications. This method is referred to as top-down mapping. The top-down mapping helps you immediately see the impact of a problematic object on the rest of the service instance operation.
 
@@ -46,14 +46,14 @@ You must define users and configure credentials to allow Service Mapping and Dis
 
 Service Mapping relies on Discovery and the MID Server to discover devices and applications. Service Mapping uses results of horizontal discovery performed by Discovery. The MID Server facilitates communication between Service Mapping and devices and applications it discovers.
 
-Data collected and organized by Service Mapping is visible in [[c_EM|Event Management]], Dependency Views, and Application Portfolio Management \(APM\). With Event Management, you can [[t_EMManageEvent|view events]] to take actions for recovering your organization application services. Dependency Views shows relationships between devices and applications in the context of application services they belong to. When integrated with APM, Service Mapping provides information about components making up a business application and helps APM users to monitor business application performance.
+Data collected and organized by Service Mapping is visible in Event Management, Dependency Views, and Application Portfolio Management \(APM\). With Event Management, you can view events to take actions for recovering your organization application services. Dependency Views shows relationships between devices and applications in the context of application services they belong to. When integrated with APM, Service Mapping provides information about components making up a business application and helps APM users to monitor business application performance.
 
 Service Mapping supports domain separation. If your ServiceNow AI Platform uses domain separation, administrators and users can only see and manage application services belonging to their own domain.
 
 To view a list of Service Mapping plugin dependencies, see [Plugins or applications installed with ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-app-itom-visibility.md).
 
 -   **[Choose the right method for discovery and mapping application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/choose-mapping-method.md)**  
-Service Mapping deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]]. Learn about the mapping methods to use the ones that best suit the needs of your organization.
+Service Mapping deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and discovery based on Predictive Intelligence. Learn about the mapping methods to use the ones that best suit the needs of your organization.
 -   **[Discovery of application services on cloud using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/cloud-discovery-service-mapping.md)**  
 Service Mapping in cloud environments provides critical visibility into application dependencies and connections. By identifying how different application components interact within IaaS and PaaS environments, your organization can gain better insight into its application services and improve overall service management.
 -   **[Service Mapping flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-flow.md)**  
@@ -74,10 +74,3 @@ Traversal rules identify and map relationships between configuration items to cr
 
 [Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_BusinesssServiceManagementMaps.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_EM|Event Management]]
-- [[t_EMManageEvent|View events]]
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]

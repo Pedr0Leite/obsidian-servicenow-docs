@@ -28,7 +28,7 @@ You select the incorrect alert in a pattern to exclude the entire pattern to whi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Reporting** &gt; **Learned Patterns**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Reporting** &gt; **Learned Patterns**.
 
     \[Omitted image "em-exclude-pattern-nav.png"\] Alt text: Exclude pattern navigation
 
@@ -45,11 +45,7 @@ You select the incorrect alert in a pattern to exclude the entire pattern to whi
 
 ## Result
 
-The entire pattern is removed from the [[c_SALearnedPattersReport|Learned Patterns report]] and listed on the Excluded Patterns page, located at **Event Management** &gt; **Administration** &gt; **Excluded patterns**.
+The entire pattern is removed from the Learned Patterns report and listed on the Excluded Patterns page, located at **Event Management** &gt; **Administration** &gt; **Excluded patterns**.
 
 If the pattern includes other alerts, you can restore it by reclaiming those alerts as a learned pattern. For further details, see [Restore excluded patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/restore-excluded-patterns.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_SALearnedPattersReport|Learned patterns report]]

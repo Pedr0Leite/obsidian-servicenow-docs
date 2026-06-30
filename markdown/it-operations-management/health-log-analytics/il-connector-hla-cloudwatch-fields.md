@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Amazon CloudWatch integration configuration fields
 
-Description of the fields on the Amazon CloudWatch integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Amazon CloudWatch integration configuration forms for Health Log Analytics.
 
 For the Amazon CloudWatch integration setup procedure, see [Set up an Amazon CloudWatch integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-aws-cloudwatch.md).
 
@@ -265,6 +265,3 @@ Option to select discarding logs if there is a load on the MID Server.
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

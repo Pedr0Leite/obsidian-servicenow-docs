@@ -32,7 +32,7 @@ Talent Feedback is a new plugin available in Yokohama release. Skill Feedback is
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Other information about Talent Feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/talent-feedback-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Other information about Talent Feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-feedback/talent-feedback-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -43,6 +43,3 @@ Talent Feedback is a new plugin available in Yokohama release. Skill Feedback is
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Retrieve Vulnerability and exposure data with generative AI
 
-Chat with an AI agent to get help with your questions about [[vuln-landing-page|Vulnerability Response]] host and [[avr-landing|Application Vulnerability Response]] findings \(vulnerable items and application vulnerable items\).
+Chat with an AI agent to get help with your questions about Vulnerability Response host and Application Vulnerability Response findings \(vulnerable items and application vulnerable items\).
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-**[[it-remediation-workspace-landing-page|IT Remediation Workspace]]**
+**IT Remediation Workspace**
 
 </td><td>
 
@@ -64,7 +64,7 @@ The IT Remediation owner \(legacy\) workspace is supported by versions of Vulner
 
 </td></tr><tr><td>
 
-**[[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]**
+**Vulnerability Manager Workspace**
 
 </td><td>
 
@@ -76,7 +76,7 @@ The Vulnerability Manager \(legacy\) workspace is supported by versions of Vulne
 
 </td></tr><tr><td>
 
-**[[sem-workspace-user-interface|Security Exposure Management Workspace]]**
+**Security Exposure Management Workspace**
 
 </td><td>
 
@@ -87,7 +87,7 @@ The Vulnerability Manager \(legacy\) workspace is supported by versions of Vulne
 
 </td><td>
 
-The Security Exposure Management Workspace is supported by [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]. You must have version 30.0 or later of Vulnerability Response installed to view this workspace. See [[configuring-security-exposure-management|Implementing Unified Security Exposure Management]] for more information.
+The Security Exposure Management Workspace is supported by Unified Security Exposure Management \(USEM\). You must have version 30.0 or later of Vulnerability Response installed to view this workspace. See [Implementing Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuring-security-exposure-management.md) for more information.
 
 </td></tr></tbody>
 </table>3.  In the Now Assist panel, enter your queries in natural language to start a conversation with the AI agent.
@@ -107,19 +107,8 @@ The Security Exposure Management Workspace is supported by [[unified-security-ex
     -   Be sure to check the answers for accuracy.
 4.  Enter follow up questions as needed.
 
-    See [[now-assist-vr-retrieve-qbank|Sample queries for the Retrieve Vulnerability Response data agentic workflow]] for a list of sample questions to help you get started.
+    See [Sample queries for the Retrieve Vulnerability Response data agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-vr-retrieve-qbank.md) for a list of sample questions to help you get started.
 
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[configuring-security-exposure-management|Implementing Unified Security Exposure Management]]
-- [[now-assist-vr-retrieve-qbank|Sample queries for the Retrieve Vulnerability Response data agentic workflow]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]

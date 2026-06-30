@@ -14,7 +14,7 @@ breadcrumb: [CAM workflow configuration, Using CAM, Continuous Authorization and
 
 # Enable CAM workflow configuration
 
-Enable the [[cam-workflow-configurator|CAM workflow configuration]] to use custom workflows and frameworks in CAM. This feature enables you to configure workflows beyond the default National Institute of Standards and Technology \(NIST\) framework and adapt CAM to your organization's specific requirements.
+Enable the CAM workflow configuration to use custom workflows and frameworks in CAM. This feature enables you to configure workflows beyond the default National Institute of Standards and Technology \(NIST\) framework and adapt CAM to your organization's specific requirements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **Properties**.
 
 2.  In the **CAM System Properties** page, select **Enable CAM workflow configuration**.
 
@@ -35,7 +35,7 @@ Role required: sn\_irm\_cont\_auth.admin
     -   Any custom workflow changes will need to be managed separately.
     -   New boundaries and packages will not be affected.
     -   Once enabled, this property cannot be turned off.
-4.  Select **I will run the data migration script to complete the setup** option to confirm you’ll migrate existing data after enabling the [[work-configuration|workflow configuration]].
+4.  Select **I will run the data migration script to complete the setup** option to confirm you’ll migrate existing data after enabling the workflow configuration.
 
     The Confirm button is enabled only after you select this checkbox. If you select Cancel or do not select the checkbox, the property remains disabled.
 
@@ -52,9 +52,3 @@ This link is available at all times, even after the property is enabled, so you 
 
 See [Run migration scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/run-migration-scheduled-job.md) from Step 4 for detailed migration steps.
 
-## Related
-
-- [[cam-workflow-configurator|CAM workflow configuration]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]
-- [[work-configuration|Workflow configuration]]

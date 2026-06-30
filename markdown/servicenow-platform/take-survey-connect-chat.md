@@ -12,13 +12,13 @@ breadcrumb: [Survey distribution, Survey administration, Use surveys, Surveys, A
 
 # Configure a survey in the Connect chat support
 
-Enable a user to [[t_TakeASurvey|take a survey]] after chatting with a support agent.
+Enable a user to take a survey after chatting with a support agent.
 
 ## Before you begin
 
 Role required: admin or survey\_admin
 
-**Note:** The [[c_ConnectSupport|Connect Support]] plugin \(com.glide.[[c_Connect|connect]].support\) should be activated.
+**Note:** The Connect Support plugin \(com.glide.connect.support\) should be activated.
 
 ## Procedure
 
@@ -40,10 +40,10 @@ Role required: admin or survey\_admin
 
     When a support agent of the assignment group associated with the chat queue ends a chat with a user, the survey instance is available in the chat window for the users.
 
-    **Note:** The survey URL displayed after a [[c_Collaboration|connect chat]] is not a clickable link in the Virtual Agent chat widget. Copy and paste the URL to access the survey.
+    **Note:** The survey URL displayed after a connect chat is not a clickable link in the Virtual Agent chat widget. Copy and paste the URL to access the survey.
 
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -56,7 +56,7 @@ Role required: admin or survey\_admin
 
 [Add a recipients list to a survey]()
 
-[Embed a survey within the Outlook [[email|email]] client]()
+[Embed a survey within the Outlook email client]()
 
 [Enable localization for a survey]()
 
@@ -68,11 +68,3 @@ Role required: admin or survey\_admin
 
 [Monitor incoming Connect Support conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_MonitorIncomingConnectSupport.md)
 
-## Related
-
-- [[c_SurveyDistribution|Survey distribution]]
-- [[t_TakeASurvey|Take a survey]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[c_Collaboration|Connect Chat]]
-- [[email|Email]]

@@ -31,7 +31,7 @@ When a user applies a shared preset or a user preset, all filter settings are ov
 
 1.  user presets
 2.  shared presets
-3.  shared presets that are defined in a **[[cmdb-workspace-unified-map|Unified Map]] shared presets** profile
+3.  shared presets that are defined in a **Unified Map shared presets** profile
 4.  class profile \(Class profiles contain only layer settings and are defined in the **Node Map Profiles** related list.\)
 
 **Note:** Filter settings that would filter out the home node might appear in the list. You can't, however, filter out the home node even if it meets filter settings.
@@ -60,6 +60,3 @@ Admins can save filter settings as a shared preset that all users can apply. For
 
 [Create or manage a user preset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-manage-preset-filter.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

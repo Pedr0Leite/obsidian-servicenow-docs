@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Export quotes
 
-Export a list of all quotes in [[quote-management|Quote Management]] and provide it to a customer.
+Export a list of all quotes in Quote Management and provide it to a customer.
 
 ## Before you begin
 
@@ -41,9 +41,5 @@ Role required: sales\_agent
     The list of quotes is exported according to the parameters set.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

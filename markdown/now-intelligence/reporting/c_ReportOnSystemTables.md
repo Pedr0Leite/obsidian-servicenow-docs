@@ -14,7 +14,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Reporting on system tables
 
-System tables are excluded from [[reporting-landing-page|reporting]] by default. However, you can exempt system tables from the prohibition. Some system tables are exempt from the restriction by default. Be very careful when creating reports on these system tables.
+System tables are excluded from reporting by default. However, you can exempt system tables from the prohibition. Some system tables are exempt from the restriction by default. Be very careful when creating reports on these system tables.
 
 Prohibited system tables include, but are not limited to:
 
@@ -36,6 +36,3 @@ With reports and data visualizations, however, you cannot predict what your quer
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[reporting-landing-page|Reporting]]

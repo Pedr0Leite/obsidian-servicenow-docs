@@ -14,7 +14,7 @@ breadcrumb: [Creating employee communications, Authoring and managing employee c
 
 # Microsites
 
-Rich Content Editor enables content managers and admins to create HTML-based content for the [[employee-center-pro-landing|Employee Center Pro]] topic and portal pages using a visual drag-and-drop interface.
+Rich Content Editor enables content managers and admins to create HTML-based content for the Employee Center Pro topic and portal pages using a visual drag-and-drop interface.
 
 You can create a layout, add components \(such as containers, images, videos, and links\), and adjust the settings of the components with little or no HTML or CSS \(cascading style sheets\) knowledge. The Rich Content Editor allows non-technical users to build sections of pages without the help of IT or technical users.
 
@@ -57,9 +57,9 @@ When you select a component, a toolbar appears at its top-left corner, allowing 
 
 ## Keyboard shortcuts for accessibility
 
-You can assemble microsites and [[ec-news-articles|news articles]] in the Rich Content Editor using a keyboard for improved accessibility.
+You can assemble microsites and news articles in the Rich Content Editor using a keyboard for improved accessibility.
 
-The Rich Content Editor supports many operating system and text formatting shortcuts, including Save, Bold, and Undo. In Content Publishing versions 33.0.9 and later, users can navigate the top toolbar and style manager using the right, left, up, and down arrow keys. You can use these additional [[keyboard-shortcuts|keyboard shortcuts]] to support your content creation:
+The Rich Content Editor supports many operating system and text formatting shortcuts, including Save, Bold, and Undo. In Content Publishing versions 33.0.9 and later, users can navigate the top toolbar and style manager using the right, left, up, and down arrow keys. You can use these additional keyboard shortcuts to support your content creation:
 
 |Action|Mac keyboard shortcut|Windows keyboard shortcut|
 |------|---------------------|-------------------------|
@@ -73,7 +73,7 @@ See [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/Servi
 
 ## Searching for Rich content
 
-When employees enter a keyword in the global search bar, [[employee-center-landing-page|Employee Center]] uses AI Search to return published pages containing that keyword in the content name or body.
+When employees enter a keyword in the global search bar, Employee Center uses AI Search to return published pages containing that keyword in the content name or body.
 
 \[Omitted image "ec-rich-content-search.png"\] Alt text: Searching for by keyword "employee" returns pages created with the rich content editor containing the term
 
@@ -91,9 +91,3 @@ AI Search returns additional results based on user roles:
 
 [Multilingual support in the Content Library]()
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ec-news-articles|News articles]]
-- [[keyboard-shortcuts|Keyboard shortcuts]]
-- [[employee-center-landing-page|Employee Center]]

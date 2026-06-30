@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow for Microsoft Teams and Microsoft 365, Unified Employee 
 
 # Integrating ServiceNow with Microsoft 365 applications for Employee Experience
 
-Set up your ServiceNow [[employee-center-landing-page|Employee Center]] instance to integrate Microsoft 365 applications.
+Set up your ServiceNow Employee Center instance to integrate Microsoft 365 applications.
 
 **Important:**
 
@@ -33,7 +33,7 @@ Before integrating Employee Center with your Microsoft 365 tenant, ensure that t
 -   You have installed and deployed one of the following:
 
     -   IT Service Management for Microsoft 365
-    -   [[hr-service-delivery|HR Service Delivery]] for Microsoft 365
+    -   HR Service Delivery for Microsoft 365
     For more information on how to install IT Service Management with Microsoft 365 or HR Service Delivery with Microsoft 365, see [Integrating ServiceNow with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-sn-ms-teams.md).
 
 
@@ -130,7 +130,3 @@ Microsoft Outlook mobile application
 
 4.  [Upload manifest file in Microsoft Teams for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-manifest-ms-teams-ms365.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

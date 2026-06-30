@@ -50,7 +50,7 @@ Application
 
 </td><td>
 
-Application containing the associated CORS record. This field is automatically set to [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]].
+Application containing the associated CORS record. This field is automatically set to Employee Center for Microsoft Viva Connections.
 
 </td></tr><tr><td>
 
@@ -109,6 +109,3 @@ List of headers that the browser is allowed to access from the request.
 
 **Parent Topic:**[Configuring Employee Center for Microsoft Viva Connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-viva.md)
 
-## Related
-
-- [[sn-ms-viva-integrations|Employee Center for Microsoft Viva Connections]]

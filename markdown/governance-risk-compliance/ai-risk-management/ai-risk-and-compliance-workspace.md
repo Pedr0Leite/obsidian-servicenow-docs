@@ -15,9 +15,9 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # AI Risk and Compliance workspace
 
-The AI Risk and Compliance workspace is the central hub for [[ai-risk-and-compliance|AI risk and compliance]] managers to monitor risk posture, track assessments, [[c_GRCControls|manage controls]] and issues, and oversee AI cases across the enterprise.
+The AI Risk and Compliance workspace is the central hub for AI risk and compliance managers to monitor risk posture, track assessments, manage controls and issues, and oversee AI cases across the enterprise.
 
-An AI risk and compliance manager must have a full view of the risks associated with [[ai-assets-airc|AI assets]] like [[ai-system-airc|AI systems]], models, and [[dataset-airc|datasets]] for several important reasons that are listed as follows:
+An AI risk and compliance manager must have a full view of the risks associated with AI assets like AI systems, models, and datasets for several important reasons that are listed as follows:
 
 -   Comprehensive risk assessment: Having a complete understanding of all potential risks enables the manager to conduct a thorough risk assessment. This includes identifying vulnerabilities, potential failures, and areas where the AI could cause harm or non-compliance.
 -   Regulatory compliance: Many industries have specific regulations and standards that AI systems must adhere to. A full view of the risks helps ensure that the AI assets comply with these regulations, avoiding legal penalties and maintaining the organization's reputation.
@@ -48,10 +48,3 @@ You can access the AI risk and compliance workspace by navigating to **All** &gt
 
 [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[c_GRCControls|Manage controls]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]

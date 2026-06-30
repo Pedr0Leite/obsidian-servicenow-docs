@@ -18,14 +18,14 @@ Employee can add their colleagues as collaborators while making a reservation. E
 
 ## Before you begin
 
-The option to add invitees or colleagues as collaborator is available on the [[reservation-portal|Make a reservation]] portal page. The option to add guests is available on the Reservation details page once you have selected an available space for reservation.
+The option to add invitees or colleagues as collaborator is available on the Make a reservation portal page. The option to add guests is available on the Reservation details page once you have selected an available space for reservation.
 
-[[workplace-rsv-mgmt-feat|Workplace Reservation Management]] should be integrated with Microsoft Exchange Online. The **Find Meeting Times** Spoke and **Lookup Schedules** Spoke action in Microsoft Exchange Online is used to view the availability of invitees. The application retrieves free, busy, out of office, and other availability status for selected attendees. Application suggests alternative meeting times and available spaces when there's a conflict or when the selected employees are unavailable.
+Workplace Reservation Management should be integrated with Microsoft Exchange Online. The **Find Meeting Times** Spoke and **Lookup Schedules** Spoke action in Microsoft Exchange Online is used to view the availability of invitees. The application retrieves free, busy, out of office, and other availability status for selected attendees. Application suggests alternative meeting times and available spaces when there's a conflict or when the selected employees are unavailable.
 
 For more information about setting up Microsoft Azure portal configuration, see [Set up Microsoft Exchange](https://www.servicenow.com/docs/r/yokohama/integrate-applications/integration-hub/setup-ms-exch-ol.html?contentId=R1EDI02PGW_yQSiS3EQ1ow). To set up the Find Meeting Times and Lookup Schedules spoke actions for Microsoft Exchange Online, see [Microsoft Exchange Online Spoke Action](https://www.servicenow.com/docs/r/xanadu/integrate-applications/integration-hub/ms-exch-online-spoke.html).
 
 -   Microsoft Exchange Online integration is enabled with Workplace Reservation Management with availability of Spoke action 'Find Meeting Times'.
--   Ensure the Reservable Module property **Allow attendees-based search** option is enabled by your administrator. This property is available when you've installed and configured [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]. For more information, see [Configure Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-rsv-sync.md)
+-   Ensure the Reservable Module property **Allow attendees-based search** option is enabled by your administrator. This property is available when you've installed and configured Workplace Calendar Synchronization. For more information, see [Configure Workplace Calendar Synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/configure-rsv-sync.md)
 -   The sys\_user table must be populated with valid user data. Employees can select attendees for their event from the sys\_user table.
 -   Valid user email Id should be configured in Microsoft Exchange Online. When email Id is missing or not configured, the status of an employee is shown as unknown in the add attendee list.
 -   Workplace Calendar Synchronization should be installed and configured.
@@ -34,7 +34,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[workplace-services|Workplace Services]]** &gt; **Browse Workplace Services** &gt; **New General Reservation**.
+1.  Navigate to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workplace Services** &gt; **Browse Workplace Services** &gt; **New General Reservation**.
 
 2.  Reserve a workplace location and add attendees as collaborators.
 
@@ -212,7 +212,7 @@ In case of recurring reservations \(Daily, Weekly, Monthly, or Custom\), time su
 
     For more information, see [View or update reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/view-reservations.md)
 
-14. Select **Submit** to [[create-reservation-request-1|create a reservation]] and add invitees as collaborators to your reservation.
+14. Select **Submit** to create a reservation and add invitees as collaborators to your reservation.
 
 15. Review the Reservation summary page.
 
@@ -258,11 +258,3 @@ In case of recurring reservations \(Daily, Weekly, Monthly, or Custom\), time su
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[create-reservation-request-1|Create a reservation]]

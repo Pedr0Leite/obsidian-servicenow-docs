@@ -22,7 +22,7 @@ The CMDB hierarchy is a structured, tree-like, data store where all data related
 
 -   **Class/Table**
 
-    Stores data about a specific IT physical, logical, or conceptual item, such as a computer, in your organization. The CMDB hierarchy contains many classes where each class stores a set of similar IT infrastructure items that share similar attributes. Each class in the CMDB hierarchy has a set number of attributes that are common for the IT items stored in that class, such as CPU of a computer. A class consists of rows, where each row represents a single IT item referred to as a Configuration Item \(CI\). Initially, a class has no rows until actual IT items are stored in the class using one of the methods of [[c_OptionsToPopulateCMDB|populating the CMDB]]. The number of rows \(CIs\) in a class dynamically changes, reflecting on the number of IT items of that type in your organization. A class can be specified as independentor dependent, which determines the dependency of the class CIs on one another within the CMDB hierarchy.
+    Stores data about a specific IT physical, logical, or conceptual item, such as a computer, in your organization. The CMDB hierarchy contains many classes where each class stores a set of similar IT infrastructure items that share similar attributes. Each class in the CMDB hierarchy has a set number of attributes that are common for the IT items stored in that class, such as CPU of a computer. A class consists of rows, where each row represents a single IT item referred to as a Configuration Item \(CI\). Initially, a class has no rows until actual IT items are stored in the class using one of the methods of populating the CMDB. The number of rows \(CIs\) in a class dynamically changes, reflecting on the number of IT items of that type in your organization. A class can be specified as independentor dependent, which determines the dependency of the class CIs on one another within the CMDB hierarchy.
 
 -   **Attribute/Column**
 
@@ -45,13 +45,13 @@ The CMDB hierarchy is a structured, tree-like, data store where all data related
     Each class in the CMDB hierarchy is created as a child of another class \(parent class\), creating a parent-child relationship between classes. A child class automatically derives all the columns specified at the parent class, as well as some other feature-specific definitions. In addition to the derived attributes, you can add to the child class unique attributes which don't exist at the parent class.
 
 
-The CMDB hierarchy is the entire collection of pre-defined and user-defined classes that serve as a detailed map of all IT items in your organization, including their attributes and the relationships between them. Throughout the CMDB hierarchy, classes derive attributes from each other and are connected by relationships to form a web of classes in a tree-like structure. The class at the top of the CMDB hierarchy is the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]], which holds the basic attributes that are common to all classes in the CMDB hierarchy. Hundreds of classes are fully defined in the base system and are ready to be populated with CIs that represent actual IT items in your environment.
+The CMDB hierarchy is the entire collection of pre-defined and user-defined classes that serve as a detailed map of all IT items in your organization, including their attributes and the relationships between them. Throughout the CMDB hierarchy, classes derive attributes from each other and are connected by relationships to form a web of classes in a tree-like structure. The class at the top of the CMDB hierarchy is the Configuration Item \[cmdb\_ci\] class, which holds the basic attributes that are common to all classes in the CMDB hierarchy. Hundreds of classes are fully defined in the base system and are ready to be populated with CIs that represent actual IT items in your environment.
 
 ## Key terms
 
 The following terms are key in CMDB:
 
--   **[[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]**
+-   **Configuration Management Database \(CMDB\)**
 
     ServiceNow® application that stores the logical configuration of your organization's infrastructure and gives you full visibility into your IT environment to support needed services. This application lets you monitor your network and support stability and best performance.
 
@@ -71,7 +71,7 @@ The following terms are key in CMDB:
 
 -   **Related table**
 
-    A table that isn't part of the CMDB hierarchy but which still qualifies as CMDB data, such as the Serial Number \[cmdb\_serial\_number\] table. A related table doesn't derive from the Configuration Item \[cmdb\_ci\] table, but has at least one column that [[reference-document-management|references]] a CMDB CI. Information about related tables is stored in the Related Entries \[cmdb\_related\_entry\] table.
+    A table that isn't part of the CMDB hierarchy but which still qualifies as CMDB data, such as the Serial Number \[cmdb\_serial\_number\] table. A related table doesn't derive from the Configuration Item \[cmdb\_ci\] table, but has at least one column that references a CMDB CI. Information about related tables is stored in the Related Entries \[cmdb\_related\_entry\] table.
 
 -   **Duplicate CI**
 
@@ -81,7 +81,7 @@ The following terms are key in CMDB:
 
 -   **Orphan CI**
 
-    In the context of [[c_CMDBHealth|CMDB Health]], an orphan CI is a CI that matches CMDB Health orphan rules. Orphan CIs are typically CIs that are missing key attribute values, or key relationships and therefore, as a general guideline, must be remediated or removed.
+    In the context of CMDB Health, an orphan CI is a CI that matches CMDB Health orphan rules. Orphan CIs are typically CIs that are missing key attribute values, or key relationships and therefore, as a general guideline, must be remediated or removed.
 
     In the context of Data Manager, an orphan dependent CI belongs to a dependent class, and is missing the dependent relationship.
 
@@ -108,7 +108,7 @@ The following terms are key in CMDB:
 
 The following terms are for essential features and tools that CMDB provides, some of which are implemented as store apps:
 
--   **[[c_CMDBIdentifyandReconcile|CMDB Identification and Reconciliation \(IRE\)]]**
+-   **CMDB Identification and Reconciliation \(IRE\)**
 
     Feature that provides a centralized framework for identifying and reconciling data from different data sources as the data is being imported into the CMDB. Using IRE helps maintain the integrity of the CMDB and some non-CMDB tables when multiple data sources are used to create and update CI records. IRE identification processes extensively use CIs dependency classification.
 
@@ -120,9 +120,9 @@ The following terms are for essential features and tools that CMDB provides, som
 
     For more information, see [CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md).
 
--   **[[cmdb-query-builder-landing-page|CMDB Query Builder]]**
+-   **CMDB Query Builder**
 
-    Tool that lets you build complex infrastructure and service queries that span multiple CMDB classes, non-CMDB tables, and that involve many CIs that are connected by different relationships. Query elements are represented by UI building blocks that you [[c_Connect|connect]] and structure on a canvas to query the CMDB and Service Mapping.
+    Tool that lets you build complex infrastructure and service queries that span multiple CMDB classes, non-CMDB tables, and that involve many CIs that are connected by different relationships. Query elements are represented by UI building blocks that you connect and structure on a canvas to query the CMDB and Service Mapping.
 
     For more information, see [CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-query-builder-landing-page.md).
 
@@ -132,7 +132,7 @@ The following terms are for essential features and tools that CMDB provides, som
 
     For more information, see [Working with CMDB Data Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-data-management.md).
 
--   **[[ci-class-manager-landing-page|CI Class Manager]]**
+-   **CI Class Manager**
 
     Tool where you can centrally view, create, and edit basic class definitions. You can also view, create, or edit class settings that are used in core CMDB functions such as identification, reconciliation, and essential features such as CMDB Health.
 
@@ -144,15 +144,15 @@ The following terms are for essential features and tools that CMDB provides, som
 
     For more information, see [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md).
 
--   **[[cmdb-sgc-available|Service Graph Connectors]]**
+-   **Service Graph Connectors**
 
-    Collection of pre-defined integrations that ingest data into the CMDB from third-party sources such as Tanium, Jamf, and Microsoft SCCM. Service Graph Connectors help maintain the quality and consistency of third-party data in your CMDB by verifying that the imported data is mapped correctly into your CMDB as specified by the [[csdm-landing-page|Common Service Data Model]] \(CSDM\). Service Graph Connectors are delivered as store apps.
+    Collection of pre-defined integrations that ingest data into the CMDB from third-party sources such as Tanium, Jamf, and Microsoft SCCM. Service Graph Connectors help maintain the quality and consistency of third-party data in your CMDB by verifying that the imported data is mapped correctly into your CMDB as specified by the Common Service Data Model \(CSDM\). Service Graph Connectors are delivered as store apps.
 
     For more information, see [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md).
 
 -   **CMDB CI Class Models**
 
-    Store app that adds class models that extend the CMDB class hierarchy, including class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and dependent relationships if applicable. You can use the added classes as any other CMDB class in the base system. Applications such as Discovery and Service Mapping can use these class extensions to populate CIs and discover various technologies and software.
+    Store app that adds class models that extend the CMDB class hierarchy, including class descriptions, identification rules, identifier entries, and dependent relationships if applicable. You can use the added classes as any other CMDB class in the base system. Applications such as Discovery and Service Mapping can use these class extensions to populate CIs and discover various technologies and software.
 
     For more information, see [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 
@@ -162,17 +162,4 @@ The following terms are for essential features and tools that CMDB provides, som
 
     For more information, see [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md).
 
-## Related
 
-- [[c_OptionsToPopulateCMDB|Populating the CMDB]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[reference-document-management|References]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[c_CMDBIdentifyandReconcile|CMDB Identification and Reconciliation \(IRE\)]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[csdm-landing-page|Common Service Data Model]]
-- [[c_IdentificationRules|Identification rules]]

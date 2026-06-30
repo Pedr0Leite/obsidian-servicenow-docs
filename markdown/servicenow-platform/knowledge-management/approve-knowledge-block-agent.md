@@ -24,7 +24,7 @@ Role required: agent\_workspace\_user and knowledge
 
 1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home**.
 
-2.  Go to **Lists** &gt; **[[knowledge-blocks|Knowledge Blocks]]** &gt; **Unpublished**.
+2.  Go to **Lists** &gt; **Knowledge Blocks** &gt; **Unpublished**.
 
 3.  Click a knowledge block link that is in the **Review** workflow state.
 
@@ -41,9 +41,5 @@ Role required: agent\_workspace\_user and knowledge
 
 ## Result
 
-The approved knowledge block is published immediately. If the [[article-versioning|article versioning]] feature is enabled, the version number of the knowledge block increments to the next whole number \(for example, from 2.02 to 3.0\). On the Knowledge Block form, the workflow state changes to **Published**. The new published version of the knowledge block is added to the Block Versions related list on the Knowledge Block form. The version is also available in the All list under Knowledge Blocks in Agent Workspace, go to **Knowledge Blocks** &gt; **All**.
+The approved knowledge block is published immediately. If the article versioning feature is enabled, the version number of the knowledge block increments to the next whole number \(for example, from 2.02 to 3.0\). On the Knowledge Block form, the workflow state changes to **Published**. The new published version of the knowledge block is added to the Block Versions related list on the Knowledge Block form. The version is also available in the All list under Knowledge Blocks in Agent Workspace, go to **Knowledge Blocks** &gt; **All**.
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[article-versioning|Article versioning]]

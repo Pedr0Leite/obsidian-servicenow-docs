@@ -42,7 +42,7 @@ Mid name
 
 </td><td>
 
-The name of the MID Server through which the [[r-discovery|Discovery]] was performed.
+The name of the MID Server through which the Discovery was performed.
 
 </td></tr><tr><td>
 
@@ -115,7 +115,7 @@ The CAPI Trail Logs related list provides more details about Cloud API trail ent
 |chunk\_number|The number of data chunks that the instance received.|
 |route\_status|Whether the route connection and payload transfer was successful.|
 |route\_error|The error that occurred. For example, the error `Failed to list loadbalancer Failed : HTTP error code : 403` means that your credentials were incorrect and Discovery could not access the cloud resource.|
-|error\_detail|More details about the error, including the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] API and connector that was used in the attempted Discovery, and the errors that the cloud provider threw.|
+|error\_detail|More details about the error, including the Cloud Provisioning and Governance API and connector that was used in the attempted Discovery, and the errors that the cloud provider threw.|
 
 An example of a route\_error is as follows:
 
@@ -136,7 +136,7 @@ com.snc.cmp.connector.cloud.loadbalancer.component.LoadBalancerException: Failed
 
 These two entries indicate that the credentials were incorrect, and Discovery could not access the cloud resource. The load balancer interface throws the first error because the load balancer device is the first device that allows access to the cloud resource. The `org.apache.camel` errors indicated routing errors on the Amazon Web Services side.
 
-The corresponding error on the instance side is captured in [[cloud-orch-trail|the Cloud Orchestration Trail]].
+The corresponding error on the instance side is captured in the Cloud Orchestration Trail.
 
 **Related topics**  
 
@@ -153,7 +153,7 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
 ### Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Operate** &gt; **Trails**.
+1.  In the Cloud Admin Portal, navigate to **Operate** &gt; **Trails**.
 
 2.  On the **Cloud Api Trail** tab, filter and sort the list of Cloud API Trail records as needed.
 
@@ -165,9 +165,4 @@ Role required: sn\_cmp.cloud\_operator or sn\_cmp.cloud\_admin
 
     For example, open **route\_error** or **error\_detail** to debug a failed operation.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-orch-trail|The Cloud Orchestration Trail]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

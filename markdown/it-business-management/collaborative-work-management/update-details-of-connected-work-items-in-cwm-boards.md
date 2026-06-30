@@ -14,7 +14,7 @@ breadcrumb: [Connect work, Use, Collaborative Work Management, Strategic Portfol
 
 # Update details of connected work items in CWM Boards
 
-Learn how to update the status, assigned to, and other details for the work items that are brought into your [[cwm-landing|Collaborative Work Management]] Board through Connected work.
+Learn how to update the status, assigned to, and other details for the work items that are brought into your Collaborative Work Management Board through Connected work.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ The updated information is available on the work item both in CWM and in its par
 
 **Parent Topic:**[Connected work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/unified-boards-for-connected-work-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

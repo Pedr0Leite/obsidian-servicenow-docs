@@ -100,7 +100,7 @@ This task is applicable for product order, services, and resources.
 
     5.  Select **Continue**.
 
-8.  To view the Orchestration of the domain order, select the **[[order-orchestration|Order Orchestration]]** tab.
+8.  To view the Orchestration of the domain order, select the **Order Orchestration** tab.
 
 9.  To view the tasks of the domain order, select the **Order Tasks** tab.
 
@@ -112,6 +112,4 @@ This task is applicable for product order, services, and resources.
 
 13. To view the composed of items, select the **Composed of items** tab.
 
-## Related
 
-- [[order-orchestration|Order orchestration]]

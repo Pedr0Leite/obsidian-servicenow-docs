@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Domain separation and Hardware Asset Management
 
-Domain separation is supported in [[ham-landing-page|Hardware Asset Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Hardware Asset Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Enhanced
 
@@ -32,7 +32,7 @@ Domain separation support in the product enables service providers to offer mana
 
 ## How domain separation works in Hardware Asset Management
 
-In HAM, domain separation occurs in two stages: data separation and process separation. There are no system properties specific to Hardware Asset Management that can be used to enable or disable the separation. However, the Domain Asset Process Settings table \(alm\_domain\_asset\_process\_setting\) stores configurations for asset processes, including the normalization of hardware [[c_Models|models]]. By default, normalization is performed only for models within the TOP/Default domain. However, if you have the asset or domain\_admin role, you can enable normalization for hardware models in any domain. To enable normalization for a specific domain, follow these steps:
+In HAM, domain separation occurs in two stages: data separation and process separation. There are no system properties specific to Hardware Asset Management that can be used to enable or disable the separation. However, the Domain Asset Process Settings table \(alm\_domain\_asset\_process\_setting\) stores configurations for asset processes, including the normalization of hardware models. By default, normalization is performed only for models within the TOP/Default domain. However, if you have the asset or domain\_admin role, you can enable normalization for hardware models in any domain. To enable normalization for a specific domain, follow these steps:
 
 1.  Navigate to the Domain Asset Process Settings table \(alm\_domain\_asset\_process\_setting\).
 2.  Locate the specific domain for which you want to enable normalization of models.
@@ -58,7 +58,3 @@ To learn more, see [Domain separation explained](https://raw.githubusercontent.c
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Models|Models]]

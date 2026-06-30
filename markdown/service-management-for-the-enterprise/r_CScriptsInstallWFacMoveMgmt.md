@@ -14,7 +14,7 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 Client scripts define custom behaviors that run when events occur like when a form is loaded or submitted, or a cell changes value.
 
-[[c_FacMoveMgmt|Facilities Move Management]] adds the following client scripts.
+Facilities Move Management adds the following client scripts.
 
 <table id="table_wtf_krf_2t"><thead><tr><th>
 
@@ -58,7 +58,7 @@ Autopopulate From on embedded list
 
 </td><td>
 
-[[c_EnterpriseMove|Enterprise Move]] Detail\[move\_detail\]
+Enterprise Move Detail\[move\_detail\]
 
 </td><td>
 
@@ -233,10 +233,5 @@ Move Request\[move\_request\]
 Warn the user that the selected **from location** is a \(cmn\_location\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+</table>**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_EnterpriseMove|Enterprise move]]

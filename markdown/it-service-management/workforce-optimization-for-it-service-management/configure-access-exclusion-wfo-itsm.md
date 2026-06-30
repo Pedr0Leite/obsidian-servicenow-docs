@@ -14,7 +14,7 @@ breadcrumb: [Add or remove access to assignment groups in manager workspace, Adv
 
 # Exclude access for specific groups in Workforce Optimization for ITSM manager workspace
 
-You can remove access to assignment group data and display only the assignment groups that are relevant for the logged-in user in the [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] manager workspace.
+You can remove access to assignment group data and display only the assignment groups that are relevant for the logged-in user in the Workforce Optimization for ITSM manager workspace.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Add or remove access to assignment groups in Workforce Optimization for ITSM manager workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/specify-access-assignment-group-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

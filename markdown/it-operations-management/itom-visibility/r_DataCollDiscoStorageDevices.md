@@ -14,7 +14,7 @@ breadcrumb: [Storage Discovery via SMI-S and CIM, Storage discovery, Data collec
 
 # Data collected by Discovery on storage devices
 
-[[r-discovery|Discovery]] identifies and classifies information about storage devices.
+Discovery identifies and classifies information about storage devices.
 
 |Field|Description|
 |-----|-----------|
@@ -88,6 +88,3 @@ Discovery creates the following relationships for storage CIs running on Network
 
 **Parent Topic:**[Storage Discovery via SMI-S and CIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoStorageviaSMISCIM.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

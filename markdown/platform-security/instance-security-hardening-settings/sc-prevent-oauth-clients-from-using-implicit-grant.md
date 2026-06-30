@@ -16,11 +16,11 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 Use a system property to avoid the use of the implicit grant type.
 
-The [[oauth-inbound-and-outbound|OAuth]] implicit grant was created to overcome a limitation between browsers and client-side applications \(for example, single page applications\) prior to the widespread adoption of Cross Origin Resource Sharing \(CORS\). Specifically, browsers' same-origin policy blocked the [[c_requestAPI|request]] that exchanged the OAuth authorization code with the OAuth access token. Since CORS support is universal, OAuth clients don’t need to use the implicit grant, and implicit grant type requests fail by default.
+The OAuth implicit grant was created to overcome a limitation between browsers and client-side applications \(for example, single page applications\) prior to the widespread adoption of Cross Origin Resource Sharing \(CORS\). Specifically, browsers' same-origin policy blocked the request that exchanged the OAuth authorization code with the OAuth access token. Since CORS support is universal, OAuth clients don’t need to use the implicit grant, and implicit grant type requests fail by default.
 
-Client IDs listed in the **glide.oauth.clients.allowed.for.implicit.grant** property can continue using the implicit grant type. Ensure that the property doesn’t exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, or exists but doesn’t contain a value.
+Client IDs listed in the **glide.oauth.clients.allowed.for.implicit.grant** property can continue using the implicit grant type. Ensure that the property doesn’t exist in the System Properties \[sys\_properties\] table, or exists but doesn’t contain a value.
 
-**Important:** Changing an OAuth client to a different grant type may require code or [[sc-configuration|configuration]] changes in the client application \(outside of the ServiceNow platform\).
+**Important:** Changing an OAuth client to a different grant type may require code or configuration changes in the client application \(outside of the ServiceNow platform\).
 
 ## More information
 
@@ -106,7 +106,7 @@ In the implicit grant, the authorization server returns an access token directly
     2.  If the page subsequently loads images, or follows links to other domains, parts of the URL may leak via the referrer header.
     3.  Web servers, load balancers, and proxies may log full URLs.
     4.  Any JavaScript running on the page \(including malicious, injected JS\) can read the `window.location.hash` and extract the token.
-To avoid these issues, use the [[authorization-code-grant|authorization code grant]] type rather than the implicit grant type when a human/interactive user is delegating authorization to the client.
+To avoid these issues, use the authorization code grant type rather than the implicit grant type when a human/interactive user is delegating authorization to the client.
 
 References
 
@@ -136,10 +136,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[authorization-code-grant|Authorization code grant]]

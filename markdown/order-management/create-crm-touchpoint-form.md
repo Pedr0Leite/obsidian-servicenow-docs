@@ -54,7 +54,7 @@ Type of interaction the touchpoint represents. The available options are:-   Non
 -   Commercials
 -   Technical win
 -   Account check-in
--   [[explore-buying-group|Buying group]] check-in
+-   Buying group check-in
 -   Executive alignment
 -   Renewal discussion
 -   Adoption review
@@ -174,19 +174,12 @@ Notes \(Private\)
 Internal notes visible only to the touchpoint owner and team members with appropriate access.
 
 </td></tr></tbody>
-</table>**Note:** The Account and Contact [[fields|fields]] become read-only after you save the [[explore-crm-touchpoints|CRM Touchpoints]].
+</table>**Note:** The Account and Contact fields become read-only after you save the CRM Touchpoints.
 
-**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[create-crm-touchpoint|Create a CRM touchpoint]]
+[Create a CRM touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-crm-touchpoint.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[create-crm-touchpoint|Create a CRM touchpoint]]
-- [[explore-buying-group|Buying Group]]
-- [[fields|Fields]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

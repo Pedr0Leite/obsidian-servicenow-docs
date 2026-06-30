@@ -37,8 +37,5 @@ Role required: admin
     |Value|Enter the `sys_id` of the SSO provider as listed in the \[sso\_properties\] table.|
 
 
-**Parent Topic:**[[mobile-reautentication-concept|Configure mobile re-authentication system properties]]
+**Parent Topic:**[Configure mobile re-authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reautentication-concept.md)
 
-## Related
-
-- [[mobile-reautentication-concept|Configure mobile re-authentication system properties]]

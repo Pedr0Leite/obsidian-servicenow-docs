@@ -14,7 +14,7 @@ breadcrumb: [Change Management plugins, Configure, Change Management, IT Service
 
 # Activate Change Management - Collision Detector
 
-You can activate the [[c_ITILChangeManagement|Change Management]] - Collision Detector plugin \(com.snc.change.collision\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Change Management - Collision Detector plugin \(com.snc.change.collision\) if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -38,7 +38,7 @@ Role required: admin
 
 
 -   **[Installed with Change Management - Collision Detector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/r_InstlldWthConfDetection.md)**  
-Several types of components are [[r_InstlldWthConfDetection|installed with Change Management - Collision Detector]].
+Several types of components are installed with Change Management - Collision Detector.
 
 **Parent Topic:**[Change Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-plugins.md)
 
@@ -89,8 +89,3 @@ Several types of components are [[r_InstlldWthConfDetection|installed with Chang
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[r_InstlldWthConfDetection|Installed with Change Management - Collision Detector]]

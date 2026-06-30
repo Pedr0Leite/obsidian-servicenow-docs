@@ -14,7 +14,7 @@ breadcrumb: [Using Information Request Playbook, Playbooks, Use, Public Sector D
 
 You can use playbooks to create cases and to complete the tasks and activities that are needed to resolve specific types of cases.
 
-**Note:** Verify that the Information Request Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [[configuring-information-request-playbook|Install and configure the Information Request Playbook application]].
+**Note:** Verify that the Information Request Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the Information Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configuring-information-request-playbook.md).
 
 By default, the following stages are available to you as an information request case agent in the Information Request Playbook in the CSM Configurable Workspace.
 
@@ -53,7 +53,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 4.  Select **Save**.
 
-    A case is created with the information request information. The case number is added to the tab and the first activity in the Intake stage is marked as complete. The second activity in this stage is highlighted as the current activity. If you have enabled the Similar Request documents UI activity, this will display as the second activity. For more information, see [[psds-ir-playbooks-configure-similar-request-documents|Configure Similar Request Documents UI in Information Request Playbook]].
+    A case is created with the information request information. The case number is added to the tab and the first activity in the Intake stage is marked as complete. The second activity in this stage is highlighted as the current activity. If you have enabled the Similar Request documents UI activity, this will display as the second activity. For more information, see [Configure Similar Request Documents UI in Information Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-ir-playbooks-configure-similar-request-documents.md).
 
 5.  Select a related document to link it to the request, and select **Next**.
 
@@ -159,7 +159,4 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
     A notification is sent to the constituent that lets them know that the request is completed. The constituent can either accept or reject the proposal. If the constituent accepts the proposal, the case is automatically closed. If the constituent rejects the solution, the case is reopened, and the agent must propose another outcome.
 
-## Related
 
-- [[configuring-information-request-playbook|Install and configure the Information Request Playbook application]]
-- [[psds-ir-playbooks-configure-similar-request-documents|Configure Similar Request Documents UI in Information Request Playbook]]

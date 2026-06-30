@@ -14,11 +14,11 @@ breadcrumb: [Insights on dashboards, Dashboards, Platform Analytics experience, 
 
 # Creating Process Mining projects from Proactive Analytics suggestions
 
-If you are using Proactive analytics with [[process-mining|Process Mining]], Proactive analytics can suggest new Process Mining projects. A single click from a suggestion creates and runs the project.
+If you are using Proactive analytics with Process Mining, Proactive analytics can suggest new Process Mining projects. A single click from a suggestion creates and runs the project.
 
-An IT process owner might benefit from a Process Mining project that has not yet been created. If they are following their processes through indicators shown on a [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard, this feature can suggest Process Mining projects to create.
+An IT process owner might benefit from a Process Mining project that has not yet been created. If they are following their processes through indicators shown on a Platform Analytics dashboard, this feature can suggest Process Mining projects to create.
 
-The feature works through a scheduled job, PA Indicator Recommendations. This job scans [[c_Indicators|Performance Analytics indicators]] for anomalous behavior in the last 15 days and correlates that behavior against a set of variables to generate a score, which it stores on the par\_indicator\_model table. The job weighs the scores against the number of dashboards that each indicator is used in, then generates suggestions for the indicators with the three highest results. A single interaction with a suggestion creates a Process Mining project and generates insights based on that project. However, several requirements must be met.
+The feature works through a scheduled job, PA Indicator Recommendations. This job scans Performance Analytics indicators for anomalous behavior in the last 15 days and correlates that behavior against a set of variables to generate a score, which it stores on the par\_indicator\_model table. The job weighs the scores against the number of dashboards that each indicator is used in, then generates suggestions for the indicators with the three highest results. A single interaction with a suggestion creates a Process Mining project and generates insights based on that project. However, several requirements must be met.
 
 ## Requirements on the dashboard side
 
@@ -39,7 +39,7 @@ Automated finding definitions must exist within the relevant process configurati
 **Related topics**  
 
 
-[[analytics-center-dashboards|Dashboards in Platform Analytics]]
+[Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md)
 
 ## Create a process mining project from a suggestion
 
@@ -80,9 +80,3 @@ If you select **See insights**, you see the cards for the insights that the proj
 
 \[Omitted image "insights-promin-generated.png"\] Alt text: Insights card generated from Process Mining project created from a suggestion.
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[process-mining|Process Mining]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Indicators|Performance Analytics indicators]]

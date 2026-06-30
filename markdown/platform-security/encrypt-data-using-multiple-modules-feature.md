@@ -12,7 +12,7 @@ breadcrumb: [Using multiple encryption modules, Using Field Encryption, Field En
 
 # Encrypt data using the Multiple Modules feature
 
-Encrypt data with more than one [[encryption-landing|encryption]] module permitting the user to determine which keys are used for specific rows within the encrypted data.
+Encrypt data with more than one encryption module permitting the user to determine which keys are used for specific rows within the encrypted data.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
 ## About this task
 
-The Multiple Modules option is considered non-deterministic and isn’t the preferred method because the user determines which key to use for a given record. The ability to use multiple modules for a column is being replaced by Row Conditions. See [[using-multiple-encryption-modules|Using multiple encryption modules]]. This non-deterministic implementation is still supported because it was created first and is still in use, but it’s preferred to use Row Conditions for any new multiple modules use cases.
+The Multiple Modules option is considered non-deterministic and isn’t the preferred method because the user determines which key to use for a given record. The ability to use multiple modules for a column is being replaced by Row Conditions. See [Using multiple encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-multiple-encryption-modules.md). This non-deterministic implementation is still supported because it was created first and is still in use, but it’s preferred to use Row Conditions for any new multiple modules use cases.
 
 **Note:** Only encryption on columns supports multiple modules. Attachment encryption doesn’t. Mass encryption isn’t available when using the multiple encryption modules method.
 
@@ -30,13 +30,13 @@ The field is encrypted by the encryption module of the first user to enter data.
 
 ## Procedure
 
-1.  Create multiple [[field-encryption|Field Encryption]] modules and a Module Access Policy \(MAP\) for each one.
+1.  Create multiple Field Encryption modules and a Module Access Policy \(MAP\) for each one.
 
-    Make sure that you grant different roles to the different cryptographic modules through the access [[ca-policies|policies]].
+    Make sure that you grant different roles to the different cryptographic modules through the access policies.
 
 2.  Navigate to **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Configurations** &gt; **New**.
 
-    If you need more information on Encrypted Field Configurations, see [[set-encrypted-field-config|Set encrypted field configurations]].
+    If you need more information on Encrypted Field Configurations, see [Set encrypted field configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/set-encrypted-field-config.md).
 
 3.  In the **Type** field, you must select **Column**.
 
@@ -53,18 +53,18 @@ The field is encrypted by the encryption module of the first user to enter data.
 
 ## Result
 
-Newly created data for the specified field is encrypted with the key of the relevant module. When a user with the role specified in module A's access policy writes to the specified table, the data is encrypted with module A's key. Only [[users|users]] with the same role can read the data.
+Newly created data for the specified field is encrypted with the key of the relevant module. When a user with the role specified in module A's access policy writes to the specified table, the data is encrypted with module A's key. Only users with the same role can read the data.
 
 ## Example
 
 To encrypt the Short Description column on the Incident table. You would do the following:
 
 1.  Create two cryptographic modules A and B.
-2.  For each module, [[create-module-access-policy|create a module access policy]].
+2.  For each module, create a module access policy.
 
     For module A, give users with an HR role access. For module B, give users with a Sales role access.
 
-3.  Create an Encrypted Field [[sc-configuration|Configuration]] record specifying the Short Description column on the Incident table, and make sure that you select **Multiple Modules** in the **Method** field.
+3.  Create an Encrypted Field Configuration record specifying the Short Description column on the Incident table, and make sure that you select **Multiple Modules** in the **Method** field.
 4.  Have two users, one with the HR role \(user A\) and one with the Sales role \(user B\), create an incident with a short description, and then have both users look at the list of incidents.
 
     The short description for the incident created by the user with the HR role is encrypted by the key for module A. Likewise, the short description for the incident created by the user with the Sales role is encrypted by the key for module B.
@@ -76,16 +76,5 @@ To encrypt the Short Description column on the Incident table. You would do the 
 
 **Parent Topic:**[Using multiple encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-multiple-encryption-modules.md)
 
-**Parent Topic:**[[using-column-level-encryption-2|Using Column Level Encryption]]
+**Parent Topic:**[Using Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption-2.md)
 
-## Related
-
-- [[using-multiple-encryption-modules|Using multiple encryption modules]]
-- [[set-encrypted-field-config|Set encrypted field configurations]]
-- [[using-column-level-encryption-2|Using Column Level Encryption]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[create-module-access-policy|Create a module access policy]]
-- [[sc-configuration|Configuration]]

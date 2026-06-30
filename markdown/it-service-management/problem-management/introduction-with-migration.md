@@ -14,11 +14,7 @@ breadcrumb: [Migration Utility, Configuring Problem Management, Problem Manageme
 
 # Introducing activities for migration
 
-The Introduction activity helps you to understand the purpose of the [[migration-utility|migration utility]].
+The Introduction activity helps you to understand the purpose of the migration utility.
 
-The activity helps you understand the [[c_ProblemManagement|Problem Management]] Best Practice State Model plugin and the new problem and task states. This activity also confirms that you have practiced or are practicing on a sub-production instance that is a clone of the production instance.
+The activity helps you understand the Problem Management Best Practice State Model plugin and the new problem and task states. This activity also confirms that you have practiced or are practicing on a sub-production instance that is a clone of the production instance.
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[c_ProblemManagement|Problem Management]]

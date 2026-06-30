@@ -39,11 +39,7 @@ The following syntax inserts images via a URL:
 **Related topics**  
 
 
-[[enable-markdown-in-text-fields|Enable Markdown in text fields]]
+[Enable Markdown in text fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-markdown-in-text-fields.md)
 
-[[layout_readonlytext_markdown_options|Markdown options for read-only text]]
+[Markdown options for read-only text](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_readonlytext_markdown_options.md)
 
-## Related
-
-- [[enable-markdown-in-text-fields|Enable Markdown in text fields]]
-- [[layout_readonlytext_markdown_options|Markdown options for read-only text]]

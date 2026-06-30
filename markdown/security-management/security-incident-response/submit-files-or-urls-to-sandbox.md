@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-After reviewing the security incident and the file or URL, you can select the **Submit to Sandbox** option to perform a [[threat-intelligence-malware-analysis|malware analysis]].
+After reviewing the security incident and the file or URL, you can select the **Submit to Sandbox** option to perform a malware analysis.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ After reviewing the security incident and the file or URL, you can select the **
 
 2.  Select the **Show IoC** related link.
 
-3.  On the **[[c_Observables|Observables]]** tab, select a record or multiple records for which you want to perform [[threat-intelligence-malware|malware]] or threat analysis and select **Submit to Sandbox**.
+3.  On the **Observables** tab, select a record or multiple records for which you want to perform malware or threat analysis and select **Submit to Sandbox**.
 
     \[Omitted image "submit-to-sandbox.png"\] Alt text: Submit to sandbox for malware analysis.
 
@@ -57,8 +57,3 @@ After reviewing the security incident and the file or URL, you can select the **
 
 When you submit the observables to the sandbox for malware analysis, [view the sandbox submission results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-sandbox-submission-results.md) to take the next steps on potential threats.
 
-## Related
-
-- [[threat-intelligence-malware-analysis|Malware analysis]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]

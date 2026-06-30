@@ -78,7 +78,7 @@ Application
 
 </td><td>
 
-Read-only. [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application.
+Read-only. Cloud Provisioning and Governance application.
 
 </td></tr><tr><td>
 
@@ -101,6 +101,3 @@ Resource block that can present an **Endpoint** of the type that you specified. 
 
 [Specify the bindings for resource blocks]()
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

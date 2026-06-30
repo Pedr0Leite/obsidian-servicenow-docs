@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Exploring Enterprise Asset Management
 
-Use the [[enterprise-asset-management|Enterprise Asset Management]] application to optimize the quality and performance of assets by reducing downtime, increasing asset utilization, and extending asset lifespan while reducing operating costs for asset-intensive organizations.
+Use the Enterprise Asset Management application to optimize the quality and performance of assets by reducing downtime, increasing asset utilization, and extending asset lifespan while reducing operating costs for asset-intensive organizations.
 
 ## Enterprise Asset Management overview
 
@@ -47,7 +47,7 @@ The following illustration describes the tasks involved in the Enterprise Asset 
 5.  The asset manager decides to create a new purchase order to source the asset.
 6.  Upon receipt of the purchase order, the field technician deploys the asset.
 7.  The asset manager uses work order and work order tasks to track and manage work for the asset.
-8.  Additionally, the asset manager can create [[c_Contracts|contracts]] for the asset and manage by taking actions on contracts that are nearing expiration or already expired.
+8.  Additionally, the asset manager can create contracts for the asset and manage by taking actions on contracts that are nearing expiration or already expired.
 9.  The asset manager can also track the total cost of ownership for the asset.
 10. As the asset approaches the end of its useful life, the asset manager assesses whether to replace or dispose of the asset.
 11. Based on the decision, the asset manager initiates either a refresh flow or a disposal flow for the asset.
@@ -232,7 +232,7 @@ Return assets that are in your personal stockroom easily by creating Drop off ta
 
 </td></tr><tr><td>
 
-Receive enterprise and [[c_ReceiveAConsumableAsset|consumable assets]] at [[c_Stockrooms|stockrooms]] from any workflow at a centralized location
+Receive enterprise and consumable assets at stockrooms from any workflow at a centralized location
 
 </td><td>
 
@@ -256,7 +256,7 @@ Asset managers
 
 </td></tr><tr><td>
 
-Track and [[manage-your-stockrooms|manage stockrooms]] efficiently by evaluating the inventory reports.
+Track and manage stockrooms efficiently by evaluating the inventory reports.
 
 </td><td>
 
@@ -289,10 +289,3 @@ To learn more about configuring and using the Enterprise Asset Management applic
 -   [Managing work orders for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-wo-enterprise-assets.md)
 -   [Using Service Catalog for Enterprise Asset Management requests and flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-service-catalog-eam-requests-flows.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Contracts|Contracts]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Stockrooms|Stockrooms]]
-- [[manage-your-stockrooms|Manage stockrooms]]

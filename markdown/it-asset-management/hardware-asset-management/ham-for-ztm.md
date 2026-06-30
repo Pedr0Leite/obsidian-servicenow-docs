@@ -14,7 +14,7 @@ breadcrumb: [HAM integrations, Hardware Asset Management, IT Asset Management]
 
 # Hardware Asset Management integration with Zero Touch Mobility
 
-ServiceNow® [[ham-landing-page|Hardware Asset Management]] is integrated with Samsung SDS Zero Touch Mobility to manage the complete life-cycle of mobile devices.
+ServiceNow® Hardware Asset Management is integrated with Samsung SDS Zero Touch Mobility to manage the complete life-cycle of mobile devices.
 
 The benefits of Hardware Asset Management integration with Zero Touch Mobility are as follows:
 
@@ -42,7 +42,7 @@ Requirements and limitations for Hardware Asset Management integration with Zero
 
 -   The following Hardware Asset Management features aren't available:
 
-    -   [[hardware-normalization|Hardware Model Normalization]]
+    -   Hardware Model Normalization
     -   Content upload and download
     -   Performance Analytics Dashboard
     -   Asset Executive Dashboard
@@ -76,7 +76,3 @@ The following Hardware Asset Management features have limited availability:
 
 [Exploring Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exploring-ham.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[hardware-normalization|Hardware Model Normalization]]

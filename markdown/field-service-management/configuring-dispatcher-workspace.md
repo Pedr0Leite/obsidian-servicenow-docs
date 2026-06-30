@@ -12,7 +12,7 @@ breadcrumb: [CSM/FSM Configurable Workspace, Configure, Field Service Management
 
 # Configuring Dispatcher Workspace
 
-Configure the [[dispatcher-activities|Dispatcher Workspace]] to optimize task management and agent assignments.
+Configure the Dispatcher Workspace to optimize task management and agent assignments.
 
 ## Dispatcher Workspace configuration
 
@@ -22,59 +22,59 @@ Watch this short video to see how administrators configure the filters, sorting 
 
 The steps for setting up Dispatcher Workspace are:
 
-1.  [[activate-dispatcher_workspace|Activate Dispatcher Workspace]]
+1.  [Activate Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/activate-dispatcher_workspace.md)
 
     Activate the Dispatcher Workspace plugin.
 
-2.  [[setting-up-task-state-colors|Define colors for work order states]]
+2.  [Define colors for work order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/setting-up-task-state-colors.md)
 
     Define colors for work order states so that you can have a visual indication of the task state in the Dispatcher Workspace.
 
-3.  [[add-remore-time-zones|Configure multiple time zones for dispatchers]]
+3.  [Configure multiple time zones for dispatchers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/add-remore-time-zones.md)
 
     Add time zones for dispatchers to choose from, making it easier for dispatchers to see what time zones agents are located.
 
-4.  [[configuring-popover-fields|Configure the fields to appear on task cards or in the Contextual Side Panel]]
+4.  [Configure the fields to appear on task cards or in the Contextual Side Panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-popover-fields.md)
 
     Set up task cards and the contextual side panel by including more fields, giving dispatchers extra information to speed up decision-making.
 
-5.  [[configuring-filters-for-taskpanel|Determine the tasks to appear in the task panel]]
+5.  [Determine the tasks to appear in the task panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-filters-for-taskpanel.md)
 
     Define default filters to determine which tasks appear on the task panel.
 
-6.  [[configure-filters-for-dispatchers|Configure filters for dispatchers]]
+6.  [Configure filters for dispatchers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-filters-for-dispatchers.md)
 
     Create filters to enable dispatchers to filter work order tasks.
 
-7.  [[configure-sort-options-for-tasks|Configure sort options for task panel]]
+7.  [Configure sort options for task panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-sort-options-for-tasks.md)
 
     Configure options to enable dispatchers to sort work order tasks.
 
-8.  [[configure-sort-options-agents|Configure agent list sort options]]
+8.  [Configure agent list sort options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-sort-options-agents.md)
 
     Configure the options available for dispatchers to sort agents.
 
-9.  [[change-hide-off-shift|Change the number of days that dispatchers can hide off shift agents]]
+9.  [Change the number of days that dispatchers can hide off shift agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/change-hide-off-shift.md)
 
     Increase the amount of time that the hide off-shift agent shows on the calendar, enabling dispatchers to plan around agent schedules farther in advance.
 
-10. [[configuring-map-settings|Configure the appearance of the map in Dispatcher Workspace]]
+10. [Configure the appearance of the map in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-map-settings.md)
 
     Configure map settings to define the style and appearance of the map in Dispatcher Workspace.
 
-11. [[configure-workspce-settings|Configure settings for Dispatcher Workspace]]
+11. [Configure settings for Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-workspce-settings.md)
 
     Automate processes and provide dispatchers with more information to increase their efficiency and effectiveness in completing tasks.
 
-12. [[configuring-messaging|Configuring communication from Dispatcher Workspace]]
+12. [Configuring communication from Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-messaging.md)
 
     Configure the Dispatcher Workspace to send messages to agents, enabling faster collaboration and more effective communication.
 
-13. [[dispatcher-ws-dy-scheduling|Setting up dynamic scheduling in Dispatcher Workspace]]
+13. [Setting up dynamic scheduling in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dispatcher-ws-dy-scheduling.md)
 
-    Set up [[dynamic-scheduling|Dynamic scheduling]] to enable dispatchers to efficiently assign, unassign, or reassign work order tasks.
+    Set up Dynamic scheduling to enable dispatchers to efficiently assign, unassign, or reassign work order tasks.
 
-14. [[dispatch-work-ui-builder|Customize Dispatcher Workspace]]
+14. [Customize Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/dispatch-work-ui-builder.md)
 
     Use UI Builder to build pages for CSM Configurable Workspace or custom web experiences using Next Experience and custom web components.
 
@@ -84,21 +84,3 @@ The steps for setting up Dispatcher Workspace are:
 
 [Using Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/using-dispatcher-workspace.md)
 
-## Related
-
-- [[activate-dispatcher_workspace|Activate Dispatcher Workspace]]
-- [[setting-up-task-state-colors|Define colors for work order states]]
-- [[add-remore-time-zones|Configure multiple time zones for dispatchers]]
-- [[configuring-popover-fields|Configure the fields to appear on task cards or in the Contextual Side Panel]]
-- [[configuring-filters-for-taskpanel|Determine the tasks to appear in the task panel]]
-- [[configure-filters-for-dispatchers|Configure filters for dispatchers]]
-- [[configure-sort-options-for-tasks|Configure sort options for task panel]]
-- [[configure-sort-options-agents|Configure agent list sort options]]
-- [[change-hide-off-shift|Change the number of days that dispatchers can hide off shift agents]]
-- [[configuring-map-settings|Configure the appearance of the map in Dispatcher Workspace]]
-- [[configure-workspce-settings|Configure settings for Dispatcher Workspace]]
-- [[configuring-messaging|Configuring communication from Dispatcher Workspace]]
-- [[dispatcher-ws-dy-scheduling|Setting up dynamic scheduling in Dispatcher Workspace]]
-- [[dispatch-work-ui-builder|Customize Dispatcher Workspace]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]

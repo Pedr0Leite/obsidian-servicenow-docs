@@ -16,31 +16,20 @@ Several types of components are installed with the Facilities Visualization Work
 
 Demo data is available with Facilities Visualization Workbench.
 
--   **[[r_TableInstallWFacVisWorkbench|Tables installed with Facilities Visualization Workbench]]**  
+-   **[Tables installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_TableInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following tables.
--   **[[SpaceMgmntProperties|Space Management properties]]**  
-Space Management Properties are available to configure floor plan, parsing, and [[r_SpaceManagement|space management]] defaults settings. You can control default settings like the color for selected space, compass on a floor plan, and logos and titles to appear.
--   **[[r_SysPropCatInstallWFacVisWorkbench|System property categories installed with Facilities Visualization Workbench]]**  
+-   **[Space Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/SpaceMgmntProperties.md)**  
+Space Management Properties are available to configure floor plan, parsing, and space management defaults settings. You can control default settings like the color for selected space, compass on a floor plan, and logos and titles to appear.
+-   **[System property categories installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SysPropCatInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following system property categories.
--   **[[r_ScriptIncInstallWFacVisWorkbench|Script includes installed with Facilities Visualization Workbench]]**  
+-   **[Script includes installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ScriptIncInstallWFacVisWorkbench.md)**  
 Script includes are used to store JavaScript that runs on the server.
--   **[[r_ClientScrptInstWFac|Client scripts installed with Facilities Visualization Workbench]]**  
+-   **[Client scripts installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ClientScrptInstWFac.md)**  
 Client scripts define custom behaviors that run when events occur like when a form is loaded or submitted, or a cell changes value.
--   **[[r_BRIWFaciiltiesVizWorkbench|Business rules installed with Facilities Visualization Workbench]]**  
+-   **[Business rules installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_BRIWFaciiltiesVizWorkbench.md)**  
 A business rule is a server-side script that runs when a record is displayed, inserted, updated, deleted, or when a table is queried.
--   **[[r_MacrosInstallWFacVisWorkbench|Macros installed with Facilities Visualization Workbench]]**  
+-   **[Macros installed with Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MacrosInstallWFacVisWorkbench.md)**  
 Facilities visualization workbench adds the following macros.
 
-**Parent Topic:**[[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
+**Parent Topic:**[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacVisWorkbench.md)
 
-## Related
-
-- [[r_TableInstallWFacVisWorkbench|Tables installed with Facilities Visualization Workbench]]
-- [[SpaceMgmntProperties|Space Management properties]]
-- [[r_SysPropCatInstallWFacVisWorkbench|System property categories installed with Facilities Visualization Workbench]]
-- [[r_ScriptIncInstallWFacVisWorkbench|Script includes installed with Facilities Visualization Workbench]]
-- [[r_ClientScrptInstWFac|Client scripts installed with Facilities Visualization Workbench]]
-- [[r_BRIWFaciiltiesVizWorkbench|Business rules installed with Facilities Visualization Workbench]]
-- [[r_MacrosInstallWFacVisWorkbench|Macros installed with Facilities Visualization Workbench]]
-- [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
-- [[r_SpaceManagement|Space management]]

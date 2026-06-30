@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Create a parent-child relationship on the Project Task form
 
-Create a child task from any [[project-task-form|project task form]].
+Create a child task from any project task form.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: it\_project\_manager
 
 1.  Navigate to the parent task in the relationship.
 
-2.  In the **[[t_CreateAProjectTask|Project Tasks]]** related list, select **New**.
+2.  In the **Project Tasks** related list, select **New**.
 
 3.  Create the task and select **Submit**.
 
@@ -50,7 +50,7 @@ To help remember what the parent of any task is, view the breadcrumb at the top 
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -84,8 +84,3 @@ To help remember what the parent of any task is, view the breadcrumb at the top 
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[project-task-form|Project task form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]

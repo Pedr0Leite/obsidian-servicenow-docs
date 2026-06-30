@@ -20,7 +20,7 @@ Create a custom SAP named user type so that you can track and manage your SAP li
 
 Role required: sam\_admin
 
-**Important:** You can create custom SAP named user types in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]]. Use the following steps to create custom named SAP user types in the Software Asset Management classic application. For details on how to create custom named user types in the Software Asset Workspace, see [Create a custom named user type in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-named-usertypes-workspace.md).
+**Important:** You can create custom SAP named user types in both the Software Asset Management classic application and the Software Asset Workspace. Use the following steps to create custom named SAP user types in the Software Asset Management classic application. For details on how to create custom named user types in the Software Asset Workspace, see [Create a custom named user type in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-named-usertypes-workspace.md).
 
 ## About this task
 
@@ -75,7 +75,7 @@ After you have added the custom named user, create a software model designating 
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Map a role to a named user type]()
 
@@ -95,8 +95,3 @@ After you have added the custom named user, create a software model designating 
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

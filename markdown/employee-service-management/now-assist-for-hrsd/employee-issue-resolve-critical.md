@@ -22,7 +22,7 @@ The agents, tools, and triggers that are associated with the Resolve critical HR
 
 ## Prerequisites and setup
 
-You must have HRSD Pro plus for Now Assist installed for the [[hr-service-delivery|HR Service Delivery]] AI Agent Collection. When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
+You must have HRSD Pro plus for Now Assist installed for the HR Service Delivery AI Agent Collection. When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
 Perform the following steps after you [Configure Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-gaf.md).
 
@@ -41,7 +41,7 @@ To access the agentic workflow:
 
 ## Resolve critical HR case AI agents
 
-The following table lists the agents that are used in the [[employee-issue-resolver-na|Resolve noncritical HR cases agentic workflow]].
+The following table lists the agents that are used in the Resolve noncritical HR cases agentic workflow.
 
 **Important:** In the Define availability screen for the AI agent, make sure that the Status toggle is enabled to activate the AI agent.
 
@@ -74,7 +74,7 @@ Identifies the optimal steps for resolving tasks by referencing similar case det
 
 ## Trigger
 
-UI action: To make Generate plan available to users on the HR case form in UI16 and [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]], you must activate the UI action. When activated, a button appears that says **Generate Plan** when users are looking at active records on the HR case table.
+UI action: To make Generate plan available to users on the HR case form in UI16 and Agent Workspace for HR Case Management, you must activate the UI action. When activated, a button appears that says **Generate Plan** when users are looking at active records on the HR case table.
 
 1.  Navigate to **All** &gt; **System UI** &gt; **UI actions**.
 2.  Search in the Name field for **Generate plan**.
@@ -96,16 +96,10 @@ The AI agent creates fulfillment plans by analyzing HR case details, employee in
 
 **Note:** The option to generate a resolution plan appears only:
 
--   For the HR service of Fulfillment type: **Manual**. It does not appear for the [[hr-case-employee-relations|Employee Relations]] and Life Cycle Events cases.
+-   For the HR service of Fulfillment type: **Manual**. It does not appear for the Employee Relations and Life Cycle Events cases.
 -   When a case is move to Ready state.
 
 ## Generating a resolution plan for an HR case
 
 For more information, see [Generate a fulfillment plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/generate-rp.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-issue-resolver-na|Resolve noncritical HR cases agentic workflow]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-case-employee-relations|Employee Relations]]

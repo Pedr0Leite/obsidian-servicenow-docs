@@ -16,7 +16,7 @@ breadcrumb: [Preconfigured metrics and dashboards, Explore, Sourcing and Procure
 
 Visually analyze how your team is performing on sourcing requests, purchase requisitions, negotiated savings, and negotiation outcomes, over a given period of time, with the help of the Procurement Team Performance Dashboard.
 
-**Note:** This dashboard is available only if you install the [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]] application.
+**Note:** This dashboard is available only if you install the Performance Analytics for Sourcing and Procurement Operations application.
 
 ## End user and roles
 
@@ -27,17 +27,17 @@ Visually analyze how your team is performing on sourcing requests, purchase requ
 
 ## Indicators
 
--   Number of Total Cost Avoidance [[negotiations|Negotiations]]
+-   Number of Total Cost Avoidance Negotiations
 -   Number of Total Negotiations
 -   Number of Closed Purchase Requisitions - Monthly
--   Number of All [[purchase-requisition|Purchase Requisition]] - Monthly
+-   Number of All Purchase Requisition - Monthly
 -   Purchase Line Total Negotiated Savings
 -   Purchase Requisition - Avg Cycle Time \(Days\) - Monthly
 -   Number of Closed Sourcing Requests - Monthly
 -   Purchase Line Negotiated Savings
 -   Number of Total Contract Terms Negotiations
 -   Number of Total Negotiation Unsuccessful
--   [[sourcing-request|Sourcing Request]] - Avg Cycle Time \(Days\) - Monthly
+-   Sourcing Request - Avg Cycle Time \(Days\) - Monthly
 -   Number of All Sourcing Request - Monthly
 -   Parent Line Negotiated Savings
 -   Number of Total Standard Savings Negotiations
@@ -136,7 +136,7 @@ List
 
 </td><td>
 
-View the sum of the year-to-date negotiated savings across all closed complete [[purchase-lines|purchase lines]] across the organization.
+View the sum of the year-to-date negotiated savings across all closed complete purchase lines across the organization.
 
 </td></tr><tr><td>
 
@@ -159,10 +159,3 @@ For information on how to work with widgets and data visualizations in configura
 
 **Parent Topic:**[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-## Related
-
-- [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]]
-- [[negotiations|Negotiations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-lines|Purchase lines]]

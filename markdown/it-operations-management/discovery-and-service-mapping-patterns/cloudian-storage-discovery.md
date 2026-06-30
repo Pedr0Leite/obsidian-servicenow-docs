@@ -14,9 +14,9 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Cloudian Storage Discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Cloudian Storage discovery pattern to find Cloudian servers and related disks. Discovering these resources requires installing the Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the Cloudian Storage discovery pattern to find Cloudian servers and related disks. Discovering these resources requires installing the Patterns application from the ServiceNow Store.
 
-Discovery uses Cloudian Storage System patterns to find Cloudian Storage system data. Discovering these resources requires installing the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns and the CMDB CI Class Models applications from the ServiceNow Store, as each application is dependent on the other. You can use the patterns for discovering the Cloudian Storage components on the ServiceNow AI Platform using the Paris release or later.
+Discovery uses Cloudian Storage System patterns to find Cloudian Storage system data. Discovering these resources requires installing the Discovery and Service Mapping Patterns and the CMDB CI Class Models applications from the ServiceNow Store, as each application is dependent on the other. You can use the patterns for discovering the Cloudian Storage components on the ServiceNow AI Platform using the Paris release or later.
 
 Cloudian is a software-defined data storage company. Cloudian provides turnkey distributed software-defined S3-compatible object storage solutions.
 
@@ -32,7 +32,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 To discover a device as a Cloudian server, the **/bin/systemctl status cloudian-s3** command must return valid responses and contain the **Cloudian HyperStore Storage System**. If this is not the case, then the device is discovered as a Linux server.
 
--   Make sure the client is [[using-discovery|using Discovery]] patterns.
+-   Make sure the client is using Discovery patterns.
 -   Set **SSH** credentials for the Cloudian Storage Server.
 -   Make sure the MID server has access to the target device.
 -   Ensure that the Discovery user has the correct privileges to run commands.
@@ -425,8 +425,3 @@ Storage Server to Disks and File Systems
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[using-discovery|Using Discovery]]

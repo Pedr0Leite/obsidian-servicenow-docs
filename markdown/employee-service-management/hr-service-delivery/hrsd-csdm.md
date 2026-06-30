@@ -14,7 +14,7 @@ breadcrumb: [Adopt CSDM methodology, HR Service Delivery integration with Servic
 
 # HR Service Delivery and CSDM tables
 
-[[hr-service-delivery|HR Service Delivery]] manages \(contributes data to\) CSDM tables. HR Service Delivery also uses data from CSDM tables that other applications generate. Several ServiceNow products, therefore, benefit from and add value to HR Service Delivery.
+HR Service Delivery manages \(contributes data to\) CSDM tables. HR Service Delivery also uses data from CSDM tables that other applications generate. Several ServiceNow products, therefore, benefit from and add value to HR Service Delivery.
 
 ## Implementing the CSDM data framework
 
@@ -23,7 +23,7 @@ See [Implementing the CSDM framework in stages](https://raw.githubusercontent.co
 ## CSDM tables used by HR Service Delivery
 
 1.  Service table configuration: Use to create a service table configuration for your Business Unit \(BU\). Associate your BU service mappings to the correct service table configuration.
-2.  CSDM service mapping: Use to [[config-csdm-ser-map|configure CSDM service mappings]] to the appropriate service table mappings. Ensure that the services or service offerings are tagged with the right business portfolio.
+2.  CSDM service mapping: Use to configure CSDM service mappings to the appropriate service table mappings. Ensure that the services or service offerings are tagged with the right business portfolio.
 
 ## Products that add value to HR Service Delivery
 
@@ -40,13 +40,13 @@ Using HR Service Delivery with the following ServiceNow products can increase it
 
 ## Products that benefit from integration with HR Service Delivery and CSDM
 
--   **[[scoped-hr-third-party-integrations|HR Integrations]]**
+-   **HR Integrations**
 
     Integrate HR Service Delivery with HR management systems to synchronize employee profiles, to-dos, and other data; background check systems to request background checks; e-signature systems to request electronic signatures; and more.
 
-    [[hr-service-administration|HR Services]] that are used in HR integrations can be mapped within the hierarchy of CSDM, providing a consistent way for the service owners to manage the services and understand metrics from one place.
+    HR Services that are used in HR integrations can be mapped within the hierarchy of CSDM, providing a consistent way for the service owners to manage the services and understand metrics from one place.
 
--   **[[hr-lifecycle-events-landing-page-1|Lifecycle events]]**
+-   **Lifecycle events**
 
     Lifecycle Events enable the fulfillment of HR cases that are related to various employee journeys and transitions.
 
@@ -54,10 +54,4 @@ Using HR Service Delivery with the following ServiceNow products can increase it
 
     HR Services that are used in Lifecycle Events can be mapped within the hierarchy of CSDM, providing a consistent way for the service owners to manage services and understand metrics from one place.
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[config-csdm-ser-map|Configure CSDM service mappings]]
-- [[scoped-hr-third-party-integrations|HR Integrations]]
-- [[hr-service-administration|HR services]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

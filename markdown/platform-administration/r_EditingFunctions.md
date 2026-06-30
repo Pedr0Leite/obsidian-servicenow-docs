@@ -14,7 +14,7 @@ breadcrumb: [Configure the HTML toolbar, Configure a field editor for the HTML f
 
 Several editing functions are built into TinyMCE.
 
-You can add more edit functions to TinyMCE v6.8.3 using the **glide.ui.html.editor.toolbar** property and properties on the **UI Properties** page. For more information on configuring the edit functions, see [[t_ConfigureTheTinyMCEHTMLToolbar|Configure the HTML toolbar]].
+You can add more edit functions to TinyMCE v6.8.3 using the **glide.ui.html.editor.toolbar** property and properties on the **UI Properties** page. For more information on configuring the edit functions, see [Configure the HTML toolbar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureTheTinyMCEHTMLToolbar.md).
 
 <table id="table_xg1_bcg_vq"><thead><tr><th>
 
@@ -169,6 +169,3 @@ Reapplies the last reverted edit.
 </td></tr></tbody>
 </table>**Note:** \*These options aren't available with htmlArea.
 
-## Related
-
-- [[t_ConfigureTheTinyMCEHTMLToolbar|Configure the HTML toolbar]]

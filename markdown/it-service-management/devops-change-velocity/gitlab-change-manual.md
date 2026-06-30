@@ -14,7 +14,7 @@ breadcrumb: [Change acceleration in GitLab, GitLab, Integrate, DevOps Change Vel
 
 # Change acceleration for manual jobs
 
-Enable change tracking for the pipeline in the tool record page in [[devops-landing-page-new|DevOps Change Velocity]].
+Enable change tracking for the pipeline in the tool record page in DevOps Change Velocity.
 
 The GitLab job under change control must have these instructions for the pipeline execution to be resumed or canceled via the change request:
 
@@ -127,6 +127,3 @@ The change request is not created.
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

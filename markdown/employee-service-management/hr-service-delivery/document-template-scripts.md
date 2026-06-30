@@ -16,11 +16,11 @@ breadcrumb: [Document Templates of type HTML, Configuring Document Templates, Do
 
 With document template scripts, you can dynamically change the text in the body of the HTML template. Document template scripts allow you to perform simple tasks, such as displaying HR data, and complex ones, such as making advanced database queries.
 
-You can add a `${template_script:script name}` embedded script tag to the body of the HTML template, replacing script name with the name of the script you created. This makes it easy to use the same scripts in multiple [[document-templates-overview|document templates]]. You can create a script by navigating to**Document Templates** &gt; **Document Templates Script**.
+You can add a `${template_script:script name}` embedded script tag to the body of the HTML template, replacing script name with the name of the script you created. This makes it easy to use the same scripts in multiple document templates. You can create a script by navigating to**Document Templates** &gt; **Document Templates Script**.
 
 ## Example of how to create and use a document template script in an HTML template
 
-1.  The employee\_emergency\_contacts script populates the emergency contacts list in an [[emp-slate-employee-profile|Employee Profile]] document.
+1.  The employee\_emergency\_contacts script populates the emergency contacts list in an Employee Profile document.
 
     ```
     (function runTemplateScript(target /*GlideRecord for target task*/ ) {
@@ -113,7 +113,4 @@ Following is an example of how dynamic tokens are translated in an HTML doc temp
 
     \[Omitted image "preview-output.png"\] Alt text: The translated preview of the document template. I is translated to German.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]
-- [[emp-slate-employee-profile|Employee profile]]

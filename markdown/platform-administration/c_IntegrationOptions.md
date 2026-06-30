@@ -24,15 +24,10 @@ ServiceNow customers have the following options for integrating with third-party
 
 **Note:** Certified integrations have passed a set of interoperability, security, and performance test criteria defined by ServiceNow.
 
--   **[[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]**  
+-   **[ServiceNow provided integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ServiceNowProvidedintegrations.md)**  
 ServiceNow provides many integrations as part of the platform.
--   **[[r_SupportedIntegrationInterfaces|Supported integration interfaces]]**  
+-   **[Supported integration interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SupportedIntegrationInterfaces.md)**  
 ServiceNow provides a number of interfaces to be able to directly integrate with the platform. These interfaces are considered part of the platform and are provided at no additional charge.
 
-**Parent Topic:**[[c_IntegrateWThirdPartyAppsDataSrces|Integration with third-party applications and data sources]]
+**Parent Topic:**[Integration with third-party applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntegrateWThirdPartyAppsDataSrces.md)
 
-## Related
-
-- [[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]
-- [[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
-- [[c_IntegrateWThirdPartyAppsDataSrces|Integration with third-party applications and data sources]]

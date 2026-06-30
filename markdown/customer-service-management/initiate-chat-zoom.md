@@ -12,11 +12,11 @@ breadcrumb: [Using Chat Zoom Connector, Customer communication, Use, Customer Se
 
 # Initiate Zoom meetings from chats
 
-Resolve issues faster by initiating a Zoom meeting directly from a customer chat using the [[chat-zoom-connector|Chat Zoom Connector]] application.
+Resolve issues faster by initiating a Zoom meeting directly from a customer chat using the Chat Zoom Connector application.
 
 ## Before you begin
 
-Ensure that an administrator has installed and set up the Chat Zoom Connector application. For more information, see [[config-chat-zoom-connector|Configure Chat Zoom Connector]].
+Ensure that an administrator has installed and set up the Chat Zoom Connector application. For more information, see [Configure Chat Zoom Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-chat-zoom-connector.md).
 
 Role required: agent\_workspace\_user
 
@@ -55,13 +55,7 @@ You can use a Zoom meeting to host a screen-sharing or video conference. You can
 
 An interaction record of type **Zoom** is generated for the meeting that captures the Notify conference call details for this Zoom session. A Notify administrator or agent manager can access the conference call details associated with the Zoom meeting from the interaction record.
 
-**Note:** The conference call number is a value automatically generated in the **Channel Metadata Record** field on the Interaction form. For more information, see [[view-details-chat-zoom|View details for Zoom meetings initiated from chats]].
+**Note:** The conference call number is a value automatically generated in the **Channel Metadata Record** field on the Interaction form. For more information, see [View details for Zoom meetings initiated from chats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-details-chat-zoom.md).
 
-The recording URL of the Zoom meeting is added to the [[csm-config-ws-activity-stream|activity stream]] of the interaction record.
+The recording URL of the Zoom meeting is added to the activity stream of the interaction record.
 
-## Related
-
-- [[config-chat-zoom-connector|Configure Chat Zoom Connector]]
-- [[view-details-chat-zoom|View details for Zoom meetings initiated from chats]]
-- [[chat-zoom-connector|Chat Zoom Connector]]
-- [[csm-config-ws-activity-stream|Activity stream]]

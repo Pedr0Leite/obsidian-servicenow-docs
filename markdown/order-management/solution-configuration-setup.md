@@ -12,11 +12,11 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Solution configuration setup
 
-Solution configuration lets CPQ admins manage multiple [[blueprints|blueprints]] in a single configuration. Configurable product actions include a blueprint definition and can pass data between configurations via defined [[fields|fields]].
+Solution configuration lets CPQ admins manage multiple blueprints in a single configuration. Configurable product actions include a blueprint definition and can pass data between configurations via defined fields.
 
 Solution configuration is an environment level feature that is off by default. To have it enabled in an environment, log a case with CPQ Support by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
-Configurable product actions are a new type of product action that can be added to [[rules_101|rules]]. They are similar to standard product actions, but have a blueprint defined and can include field mapping to pass data between configurations. Advanced configurable product actions require that the product ID and the blueprint fields are defined outside of the script.
+Configurable product actions are a new type of product action that can be added to rules. They are similar to standard product actions, but have a blueprint defined and can include field mapping to pass data between configurations. Advanced configurable product actions require that the product ID and the blueprint fields are defined outside of the script.
 
 ## Benefits
 
@@ -25,14 +25,14 @@ Configurable product actions are a new type of product action that can be added 
     -   Separation of concerns: Administrators can segment out logical components from a configuration and allow different groups to work on blueprints without conflicting.
     -   Blueprint reusability: Blueprints can be reused both as part of a solution, multiple solutions, or as an independently configurable product. This leads to less duplication when a blueprint is needed for multiple contexts and less overhead for maintenance.
 -   For end users:
-    -   End users can seamlessly work through [[multiple-child-offering-configurations|multiple configurations]] without needing to re-launch CPQ each time.
+    -   End users can seamlessly work through multiple configurations without needing to re-launch CPQ each time.
     -   You can clone the child configuration if it is a set-based configuration. The original node in a set must be in the valid state. Cloned nodes are independent of the original edits to a cloned node do not affect the source node.
     -   You can also add a blank node or remove node from the navigation sidebar.
 
 ## The end user experience
 
 -   Launching a solution: Users launch the configurable product that they want to start from, just as they do normally. Whichever configurable product is launched becomes the root product for the solution.
--   Adding [[configurable-products-explore|configurable products]]: When any of the defined rules that have a configurable product action are triggered, a new child configuration is created if a valid configurable product with a deployed blueprint is found.
+-   Adding configurable products: When any of the defined rules that have a configurable product action are triggered, a new child configuration is created if a valid configurable product with a deployed blueprint is found.
 -   When additional configurable products are added to the configuration, solution navigation becomes available and shows a list of the current configurable products, including the root configurable product.
 -   Changing the condition of a configurable product action rule to false removes the configuration and configurable product, just as in a normal product action. This also removes changes to fields, products, nested children, or other items.
 -   Viewing the bill of materials: When a configuration becomes a solution, the default product list component is hidden and replaced by the **View Full Solution** button in all configurations. In a solution, **View Full Solution** displays the entire solution BOM. Additional product lists added as tiers reflect only the currently selected configurable product and any of the child configurations below it.
@@ -52,7 +52,7 @@ Errors related to configurable product actions may include the following:
 
 Field mapping defines which fields have data passed to or from them. Field mapping happens on creation of a child configuration or when a mapped source field is changed. Fields are only mapped a single level, to continue the mapping define the mapped fields on each blueprint. Fields can only be mapped to the same type of field: text to text, number to number, and so on.
 
-Entire [[cpq-sets|sets]] and [[product_picker_overview|product pickers]] cannot be mapped.
+Entire sets and product pickers cannot be mapped.
 
 ## Node cloning for solution configurations
 
@@ -64,7 +64,7 @@ Cloning is available from the solution configuration in a set using the navigati
 
 ## Layout
 
-Each solution component displays its own layout from the [[layouts|layouts]] associated with the current blueprint.
+Each solution component displays its own layout from the layouts associated with the current blueprint.
 
 When in a solution, the header, background style, buttons and product list display comes from the solution root layout that is defined in the root blueprint.
 
@@ -85,16 +85,5 @@ The BOM hierarchy is still defined via the parent product and the unique identif
 **Related topics**  
 
 
-[[node-cloning-for-solution-configuration|Node cloning for solution configuration]]
+[Node cloning for solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/node-cloning-for-solution-configuration.md)
 
-## Related
-
-- [[node-cloning-for-solution-configuration|Node cloning for solution configuration]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[multiple-child-offering-configurations|Multiple configurations]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]
-- [[layouts|Layouts]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management reference, Cloud Cost Management, IT Asset Ma
 
 # System properties for Cloud Cost Management
 
-These system properties are available for the [[cloud-insights-landing-page|Cloud Cost Management]] application.
+These system properties are available for the Cloud Cost Management application.
 
 Access system properties by navigating to **All** &gt; **System properties** &gt; **All properties.**. You can set some property values on the System Properties form, but other lesser-used properties are available only on the System Property \[sys\_properties\] table.
 
@@ -113,7 +113,7 @@ sn\_clin\_core.bh\_report.batch\_size
 
 </td><td>
 
-The number of resources to include in a [[bh-cloudin|Business Hours]] report batch.-   Type: integer
+The number of resources to include in a Business Hours report batch.-   Type: integer
 -   Default value: 5000
 
 </td></tr><tr><td>
@@ -287,7 +287,7 @@ sn\_cld\_intg\_core.enable\_tag\_filtering
 
 </td><td>
 
-Enables the option that only the tag names that are mapped to tag categories in the [[ci-workspace|Cloud Cost Management Workspace]] are considered to save the tag values. This verification optimizes the memory requirement to transfer the tags to Glide.-   Type: true \| false
+Enables the option that only the tag names that are mapped to tag categories in the Cloud Cost Management Workspace are considered to save the tag values. This verification optimizes the memory requirement to transfer the tags to Glide.-   Type: true \| false
 -   Default value: false
 
 </td></tr><tr><td>
@@ -427,8 +427,3 @@ Sets up the currency exchange rates based on the preferred currency. The table t
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Cost Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/reference-cloudinsights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

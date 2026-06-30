@@ -24,13 +24,13 @@ The ServiceNow Store allows you to download core products and applications. A pr
 
 Dependency plugins are automatically installed when you activate these GRC core applications:
 
--   [[c_GRCAudits|Audit Management]]
--   [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+-   Audit Management
+-   Policy and Compliance Management
 -   Risk Management
 
 For example, when you activate the Risk Management application, the Risk Management Dependencies plugin is also activated.
 
-**Important:** Vendor Risk Management, you must first activate the Vendor Risk Management Dependencies plugin before activating the Vendor Risk Management application. For more information, see [[activate-entitled-grc-app|Activate an entitled GRC ServiceNow Store application]].
+**Important:** Vendor Risk Management, you must first activate the Vendor Risk Management Dependencies plugin before activating the Vendor Risk Management application. For more information, see [Activate an entitled GRC ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-entitled-grc-app.md).
 
 ## Procedure
 
@@ -44,8 +44,3 @@ For example, when you activate the Risk Management application, the Risk Managem
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/t_ActivateGRCPandC.md)
 
-## Related
-
-- [[activate-entitled-grc-app|Activate an entitled GRC ServiceNow Store application]]
-- [[c_GRCAudits|Audit Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

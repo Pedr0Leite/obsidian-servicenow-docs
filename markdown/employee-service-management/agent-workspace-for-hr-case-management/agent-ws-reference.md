@@ -14,24 +14,16 @@ breadcrumb: [Agent Workspace, HR Service Delivery, Employee Service Management]
 
 # Agent Workspace for HR Case Management reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] components and forms.
+Reference topics provide additional information about Agent Workspace for HR Case Management components and forms.
 
 -   **[Create a new case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/case-creation-form-aws.md)**  
-The [[case-creation-form-aws|Create a new case form]] allows you to create a new case in Agent Workspace for HR Case Management.
+The Create a new case form allows you to create a new case in Agent Workspace for HR Case Management.
 -   **[Page Configurations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configuration-settings.md)**  
 A description of the page configuration settings in Agent Workspace for HR Case Management.
 -   **[Highlighted value condition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/highlighted-value-form.md)**  
-Use the [[highlighted-value-form|Highlighted value condition form]] to create conditions to highlight a field.
+Use the Highlighted value condition form to create conditions to highlight a field.
 -   **[Bulk case request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/bulk-case-request-form.md)**  
-The [[bulk-case-request-form|bulk case request form]] provides information to [[t_CreateBulkCases|create a bulk case request]] to enable the creation of the same type of HR cases.
+The bulk case request form provides information to create a bulk case request to enable the creation of the same type of HR cases.
 
 **Parent Topic:**[Agent Workspace for HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/agent-ws-hr-case-mgmt-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-creation-form-aws|Create a new case form]]
-- [[highlighted-value-form|Highlighted value condition form]]
-- [[bulk-case-request-form|Bulk case request form]]
-- [[t_CreateBulkCases|Create a bulk case request]]

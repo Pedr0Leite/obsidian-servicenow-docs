@@ -14,7 +14,7 @@ breadcrumb: [Set up predefined Playbooks for Portals, Playbooks for Portals, Pla
 
 Customers can view a list of cases in the Draft state from the Customer and Consumer Service Portals.
 
-When using playbooks on the Customer Service Portal or Consumer Service Portal, customers can view a list of cases in the Draft state by navigating to **Home** &gt; **My [[migration-lists|Lists]]** &gt; **My Draft Cases**. Selecting a case in the Draft state returns the user to the playbook intake stage and activities.
+When using playbooks on the Customer Service Portal or Consumer Service Portal, customers can view a list of cases in the Draft state by navigating to **Home** &gt; **My Lists** &gt; **My Draft Cases**. Selecting a case in the Draft state returns the user to the playbook intake stage and activities.
 
 ## Enabling the Draft state
 
@@ -35,6 +35,3 @@ For more information, see [Choice list field type](https://raw.githubusercontent
 
 The **sn\_customerservice.case\_draft\_state\_values** system property stores a comma-separated list of values for the Draft state choice list values for the cutomer service base case and case types. The default value for this property is 0.
 
-## Related
-
-- [[migration-lists|Lists]]

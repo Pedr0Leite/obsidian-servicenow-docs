@@ -16,13 +16,13 @@ breadcrumb: [OpenTelemetry, Service Graph Connectors, Integrating third-party da
 
 Service Graph Connector for OpenTelemetry properties control the behavior of the connector.
 
-**Important:** Starting with the Australia release, [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]] is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Australia release, Service Graph Connector for OpenTelemetry is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 ## Connection properties
 
 These connection properties are available for Service Graph Connector for OpenTelemetry.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **OpenTelemetry** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **OpenTelemetry** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_tmg_rjm_lzb"><thead><tr><th>
 
@@ -129,8 +129,3 @@ Enter a list of Cl relationship types to be excluded from the service map. For m
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

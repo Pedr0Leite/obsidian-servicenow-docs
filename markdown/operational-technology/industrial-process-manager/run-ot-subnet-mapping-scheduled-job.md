@@ -31,11 +31,11 @@ The OT device mapping flow can be set to run on a scheduled basis to automatical
 
 ## Procedure
 
-1.  Navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **OT Subnet Mapping Scheduled Flow**.
+1.  Navigate to **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **OT Subnet Mapping Scheduled Flow**.
 
 2.  Activate site mapping:
 
-    1.  Open the Set Flow [[variables|Variables]] section.
+    1.  Open the Set Flow Variables section.
 
     2.  Check the box next to **Run Auto Assign Site** and select **Save**.
 
@@ -50,8 +50,3 @@ The OT device mapping flow can be set to run on a scheduled basis to automatical
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[variables|Variables]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Business Location 360, Manage cases, Use, Customer Service Ma
 
 # Business Location 360 components
 
-Customer service agents can resolve reported business location issues by using different components on the Business Location 360 page in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Customer service agents can resolve reported business location issues by using different components on the Business Location 360 page in the Customer Service Management \(CSM\) application.
 
 ## Components on the Business Location 360 page
 
@@ -65,7 +65,7 @@ You can get the location details of the node that you select. Also, if there’s
 
 ## Point of contact
 
-The point of contact component displays the primary [[gamification-components-points|points]] of contact that are available at a business location. The following example shows that the point of contact component can display the different points of contact at a business location.
+The point of contact component displays the primary points of contact that are available at a business location. The following example shows that the point of contact component can display the different points of contact at a business location.
 
 \[Omitted image "point-of-contact.png"\] Alt text: Different points of contact at a business location.
 
@@ -75,7 +75,7 @@ Selecting **View all** takes you to the Business Location member page where you 
 
 ## Products installed
 
-The products installed component displays the information about the [[install-base-item|install base items]] at a business location. For example, you can see the install base name, product model name, and the status on this component. The following example shows the products installed component that provides information about the listed install bases at a business location.
+The products installed component displays the information about the install base items at a business location. For example, you can see the install base name, product model name, and the status on this component. The following example shows the products installed component that provides information about the listed install bases at a business location.
 
 **Note:** You can access this component only after your administrator activates the Customer Service Install Base Management plugin \(com.snc.install\_base\).
 
@@ -159,20 +159,11 @@ The following example shows a list of the consumers that are associated with a b
 **Related topics**  
 
 
-[[using-the-business-location-360|Using Business Location 360]]
+[Using Business Location 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-the-business-location-360.md)
 
-[[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
+[Access Business Location 360 as a customer service agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-agents.md)
 
-[[access-business-location-360-as-csm-managers|Access Business Location 360 as a customer service manager]]
+[Access Business Location 360 as a customer service manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-csm-managers.md)
 
-[[access-bl-360-as-loc-serv-agent|Access Business Location 360 as a location service agent]]
+[Access Business Location 360 as a location service agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-bl-360-as-loc-serv-agent.md)
 
-## Related
-
-- [[using-the-business-location-360|Using Business Location 360]]
-- [[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
-- [[access-business-location-360-as-csm-managers|Access Business Location 360 as a customer service manager]]
-- [[access-bl-360-as-loc-serv-agent|Access Business Location 360 as a location service agent]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-points|Points]]
-- [[install-base-item|Install base items]]

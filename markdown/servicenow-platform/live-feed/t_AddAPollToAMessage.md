@@ -38,11 +38,8 @@ Role required: admin
 
     After the poll is posted, users who view the message can vote. After they vote, their pictures appear next to their response, with others who have voted for the same option.
 
-    An [[email|email]] notification with the poll result is sent to all participants of the poll informing them that the poll is closed.
+    An email notification with the poll result is sent to all participants of the poll informing them that the poll is closed.
 
 
 **Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_PostContentInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]

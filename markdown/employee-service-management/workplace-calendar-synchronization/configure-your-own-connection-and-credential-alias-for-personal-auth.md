@@ -20,7 +20,7 @@ Configure your own connection and credential alias if you don’t want to use th
 
 **Note:** Configure your own connection and credential alias only when multiple delegated user emails are required. Ensure that the alias is specified on the calendar provider as well.
 
-Confirm that the application scope is set to **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]**.
+Confirm that the application scope is set to **Workplace Calendar Synchronization**.
 
 Role required: admin
 
@@ -114,6 +114,3 @@ The application by default provides a connection and credential. Perform this pr
 
 [Configure the Microsoft Exchange Online calendar provider in personal authentication mode]()
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

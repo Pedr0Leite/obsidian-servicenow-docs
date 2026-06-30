@@ -28,7 +28,7 @@ Role required: admin
 
     -   In the **Overview** tab, select the **Configure** button in the **Service Desk Assisted Password Reset** card.
     -   In the **Configurations** tab, select **Service Desk Assisted Password Reset** card.
-3.  On the **Verification [[settings-mobile|Settings]]** card, select **Process mapping** for Verification\(s\).
+3.  On the **Verification Settings** card, select **Process mapping** for Verification\(s\).
 
     The default process mappings are displayed.
 
@@ -46,6 +46,3 @@ Role required: admin
 
 **Parent Topic:**[Configure the verification methods for service desk process in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-verification-methods-pr-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

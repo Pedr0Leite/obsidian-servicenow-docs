@@ -15,11 +15,11 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Semantic vector search in AI Search
 
-Semantic vector search allows the Now LLM Service to find [[hs-results|results]] based on how similar they are in meaning to your search terms. [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] and Now Assist in Virtual Agent use semantic vector search to improve recall with natural language interpretation of search queries.
+Semantic vector search allows the Now LLM Service to find results based on how similar they are in meaning to your search terms. Now Assist Q&amp;A Genius Results and Now Assist in Virtual Agent use semantic vector search to improve recall with natural language interpretation of search queries.
 
-By default, [[ia-ai-search|AI Search]] uses keyword search, meaning that it finds results for records that contain the best matches for the keywords \(terms\) in your search query. Term matching doesn't take into account the context or meaning of your search terms.
+By default, AI Search uses keyword search, meaning that it finds results for records that contain the best matches for the keywords \(terms\) in your search query. Term matching doesn't take into account the context or meaning of your search terms.
 
-Starting in the Vancouver Patch 4 release, AI Search includes an alternate search mode called semantic vector search that's used in features which work with the Now LLM Service. Examples of such features include Now Assist in Virtual Agent conversations, [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]], and [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]].
+Starting in the Vancouver Patch 4 release, AI Search includes an alternate search mode called semantic vector search that's used in features which work with the Now LLM Service. Examples of such features include Now Assist in Virtual Agent conversations, Now Assist Multi-Content Response Genius Results, and Now Assist Actions Genius Results.
 
 Semantic vector search analyzes the meanings and context of your search terms and uses that information to find results with similar meanings. It improves search recall by interpreting natural language to more accurately reflect your search's intent.
 
@@ -55,15 +55,7 @@ Semantic vector search is available in the following contexts.
 -   Now Assist in Virtual Agent uses semantic vector search for Catalog Item retrieval and live agent topic retrieval. For more details, see [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-va-landing.md).
 -   Now Assist Q&amp;A Genius Results use semantic vector search along with legacy keyword search when looking for knowledge articles that match your search query. They also use semantic vector search when looking for cached answers that match your query in the second-level cache. For more details, see [Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md) and [Caching for Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/caching-now-assist-q-a-gr.md).
 -   Now Assist Actions Genius Results use semantic vector search along with legacy keyword search when looking for Catalog Items that match your search query. For more details, see [Now Assist Actions Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md).
--   All connectors from the [[ext-cont-connectors-landing-page|External Content Connectors]] application support semantic vector indexing when retrieving document content from external source systems. Only features which use semantic vector search with the Now LLM Service can take advantage of this support. For more information on external content connector configuration and usage, see [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md).
+-   All connectors from the External Content Connectors application support semantic vector indexing when retrieving document content from external source systems. Only features which use semantic vector search with the Now LLM Service can take advantage of this support. For more information on external content connector configuration and usage, see [External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md).
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[ia-ai-search|AI Search]]
-- [[now-assist-multi-content-qna-genius-results|Now Assist Multi-Content Response Genius Results]]
-- [[now-assist-catalog-ordering-gr|Now Assist Actions Genius Results]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

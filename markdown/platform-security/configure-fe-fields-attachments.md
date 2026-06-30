@@ -12,13 +12,13 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Configure encrypted field configurations for fields or attachments
 
-Create an encrypted field [[sc-configuration|configuration]] to specify which fields are encrypted on a table, and whether that table's attachments are encrypted.
+Create an encrypted field configuration to specify which fields are encrypted on a table, and whether that table's attachments are encrypted.
 
 ## Before you begin
 
 Role required: security\_admin and sn\_kmf.cryptographic\_manager or sn\_kmf.admin
 
-You must have a configured [[field-encryption|field encryption]] module with a ServiceNow or customer-supplied key. If you have not yet configured a module, see [[configure-fe-modules|Configure Field Encryption modules]].
+You must have a configured field encryption module with a ServiceNow or customer-supplied key. If you have not yet configured a module, see [Configure Field Encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-fe-modules.md).
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Type
 
 </td><td>
 
-Select either **Column** or **Attachment****Note:** Attachment [[encryption-landing|encryption]] is only available with [[now-platform-encryption|Field Encryption Enterprise]].
+Select either **Column** or **Attachment****Note:** Attachment encryption is only available with Field Encryption Enterprise.
 
 </td></tr><tr><td>
 
@@ -69,7 +69,7 @@ If you have chosen **Column** in the **Type** field, select the fields to be enc
 -   HTML
 -   Journal
 -   Translated
--   [[email|Email]]
+-   Email
 -   Phone
 
 
@@ -81,9 +81,9 @@ Active
 
 Whether the configuration is active.**Important:**
 
-When active, your instance is actively encrypting new data in the selected fields or attachments. [[users|Users]] will not have access to this data unless they have permission via an associated Module Access Policy. Do not check if the field is not yet ready to begin encrypting and enforcing Module Access [[ca-policies|Policies]].
+When active, your instance is actively encrypting new data in the selected fields or attachments. Users will not have access to this data unless they have permission via an associated Module Access Policy. Do not check if the field is not yet ready to begin encrypting and enforcing Module Access Policies.
 
-To ensure historical data is encrypted after an Encrypted Field Configuration is active, you’ll need to run a Mass Encryption Job on the column. For details, see [[schedule-mass-jobs|Schedule mass encryption, decryption, or rekeying jobs]].
+To ensure historical data is encrypted after an Encrypted Field Configuration is active, you’ll need to run a Mass Encryption Job on the column. For details, see [Schedule mass encryption, decryption, or rekeying jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/schedule-mass-jobs.md).
 
 </td></tr><tr><td>
 
@@ -101,7 +101,7 @@ Method
 
 Select **Single Module** to ensure all fields or attachments are encrypted by a single field encryption module.
 
- Select **Multi Module** to allow for different field encryption modules to be used for different rows within a column or different attachments. For details on multi-module configuration, see[[multi-module-fe-config|Configure multi-module encrypted field configurations]].
+ Select **Multi Module** to allow for different field encryption modules to be used for different rows within a column or different attachments. For details on multi-module configuration, see[Configure multi-module encrypted field configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/multi-module-fe-config.md).
 
 </td></tr><tr><td>
 
@@ -115,18 +115,5 @@ Displays whether **Equality Preserving** is enabled in the field encryption modu
 </table>5.  Select **Save**.
 
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[configure-fe-modules|Configure Field Encryption modules]]
-- [[schedule-mass-jobs|Schedule mass encryption, decryption, and rekeying jobs]]
-- [[multi-module-fe-config|Configure multi-module encrypted field configurations]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[email|Email]]
-- [[users|Users]]
-- [[ca-policies|Policies]]

@@ -14,9 +14,9 @@ breadcrumb: [IT Remediation Workspace, Vulnerability Response Workspaces, Unifie
 
 # Exploring the IT Remediation Workspace
 
-The [[it-remediation-workspace-landing-page|IT Remediation Workspace]] is intended for IT remediation owners and IT groups. It is composed of home and list views as well as data visualizations that you can click that let you see the remediation tasks you've been assigned and how many records assigned to you have solutions.
+The IT Remediation Workspace is intended for IT remediation owners and IT groups. It is composed of home and list views as well as data visualizations that you can click that let you see the remediation tasks you've been assigned and how many records assigned to you have solutions.
 
-**Note:** Starting version 30.1.4, the Remediation view in [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]] is the workspace for performing remediation activities. All functionality available in the IT Remediation workspace is also supported here. See [[sem-workspaces-ui-remediation-module|Remediation view in USEM]] for details.
+**Note:** Starting version 30.1.4, the Remediation view in Unified Security Exposure Management \(USEM\) is the workspace for performing remediation activities. All functionality available in the IT Remediation workspace is also supported here. See [Remediation view in USEM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-workspaces-ui-remediation-module.md) for details.
 
 Role required:
 
@@ -25,7 +25,7 @@ Role required:
 -   sn\_vul\_container.remediation\_owner for container vulnerable items \(CVITs\)
 -   sn\_vulc.remediation\_owner for configuration test results \(CTRs\)
 
-**Note:** Starting with v19.0 of [[vuln-landing-page|Vulnerability Response]], the following terms have been renamed:
+**Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 
 |Terminology prior to v19.0|Terminology v19.0 onwards|
 |--------------------------|-------------------------|
@@ -47,9 +47,4 @@ The IT Remediation Workspace consists of the following pages, lists, and forms:
 
     This view consists of default and customized lists of Remediation Tasks, Host Vulnerable Items, Application Vulnerable items, Container Vulnerable items, Configuration Test Results assigned to you and Solutions, Exceptions Requests, etc. For more information on the List page, see [List page in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/itr-ws-list-page.md). For more information about what you can do from this page, see [Create a list in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-IT-list-view.md).
 
-## Related
 
-- [[sem-workspaces-ui-remediation-module|Remediation view]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]
-- [[vuln-landing-page|Vulnerability Response]]

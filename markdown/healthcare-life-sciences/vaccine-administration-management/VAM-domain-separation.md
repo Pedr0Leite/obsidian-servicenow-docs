@@ -14,7 +14,7 @@ breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life S
 
 # Domain separation and Vaccine Administration Management
 
-Domain separation is supported for [[hcls-vam|Vaccine Administration Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Vaccine Administration Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -38,6 +38,3 @@ For customers using the Vaccine Administration Management application to registe
 
 When healthcare providers have their healthcare data separated by domains, the healthcare requests and corresponding fulfillment tasks are associated with the respective customer domains.
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

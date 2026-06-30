@@ -16,7 +16,7 @@ breadcrumb: [Explore, Privacy Case Management, Privacy Management, Governance, R
 
 The Privacy case overview page shows details, such as description, state, schedule and milestones, case tasks, and issues related to the case in the Privacy Case Management application.
 
-The [[privacy-case-management-overview|Privacy Case Management overview]] related list includes the following sections:
+The Privacy Case Management overview related list includes the following sections:
 
 -   Description
 -   State
@@ -105,6 +105,3 @@ The Tracking section displays the following information:
 
 The Attachment section enables you to upload a file as an attachment to a case. In this section you can find all the attachments that have been added.
 
-## Related
-
-- [[privacy-case-management-overview|privacy case management overview]]

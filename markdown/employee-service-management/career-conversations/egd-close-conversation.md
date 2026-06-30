@@ -14,11 +14,11 @@ breadcrumb: [Using the Career Conversations application, Career Conversations, G
 
 # Close a conversation
 
-As a manager, you can mark a conversation as completed to easily [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] it for future planning and growth activities. Write closing notes and share them with your employee to ensure a shared understanding.
+As a manager, you can mark a conversation as completed to easily reference it for future planning and growth activities. Write closing notes and share them with your employee to ensure a shared understanding.
 
 ## Before you begin
 
-You must provide your employees with a license to enable access to the [[egd-activities-conversations-module|Career Conversations]] app. For more information about employee licensing, refer to [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
+You must provide your employees with a license to enable access to the Career Conversations app. For more information about employee licensing, refer to [License Talent Development Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-employee-profile-licensing.md).
 
 Role required: manager \[sn\_egd\_act.manager\]
 
@@ -30,7 +30,7 @@ Alternatively, there is the option to cancel the conversation, which is permanen
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Close the conversation from the growth conversation page or the **Conversations** landing page.
 
@@ -68,8 +68,3 @@ Conversations landing page
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]

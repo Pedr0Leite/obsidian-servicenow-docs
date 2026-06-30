@@ -46,7 +46,7 @@ After running the fix script, a new field **Data collection type** is added in t
 
 [Run fix script to update the Aggregation method field in the KPI table]()
 
-[Run fix script to update the KPI Instruction field in the [[supplier|Supplier]] Task table]()
+[Run fix script to update the KPI Instruction field in the Supplier Task table]()
 
 [Run fix script to migrate existing data from the deprecated Action type column after upgrade]()
 
@@ -60,6 +60,3 @@ After running the fix script, a new field **Data collection type** is added in t
 
 [Run fix script to update the KPI Instruction field in the Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-instruction.md)
 
-## Related
-
-- [[supplier|Supplier]]

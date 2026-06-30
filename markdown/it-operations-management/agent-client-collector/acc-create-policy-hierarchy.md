@@ -28,7 +28,7 @@ Policy hierarchy enables you to use a policy as a template to create a new polic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Policies**.
 
 2.  On the **Policies** page, select a published policy with a Hierarchy value of either **None** or **Parent**.
 
@@ -102,6 +102,4 @@ Enables you to select from the following:-   Delete the parent policy and all of
 
     Child policies appear on the **Child Policies** tab of the parent policy.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

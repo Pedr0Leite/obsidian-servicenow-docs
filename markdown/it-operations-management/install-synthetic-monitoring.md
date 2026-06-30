@@ -12,7 +12,7 @@ breadcrumb: [Configuring synthetic monitoring, Synthetic monitoring, ITOM AIOps,
 
 # Install synthetic monitoring
 
-You can install the [[synthetic-monitoring-landing-page|synthetic monitoring]] application \(`com.snc.uib.sow_synthetics`\) with the admin role.
+You can install the synthetic monitoring application \(`com.snc.uib.sow_synthetics`\) with the admin role.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ You can install the [[synthetic-monitoring-landing-page|synthetic monitoring]] a
 -   Confirm that the Configuration items \(CI\) that you want to monitor exist in the CMDB HTTP Endpoints \[cmdb\_ci\_endpoint\_http\] table.
 -   Confirm that configured credentials exist in the Credentials \[discovery\_credentials\] table if your endpoint requires authentication.
 
-    **Note:** OAuth credentials are not supported for [[acc-landing-page|Agent Client Collector]] \(ACC\) locations.
+    **Note:** OAuth credentials are not supported for Agent Client Collector \(ACC\) locations.
 
 
 Role required: sn\_sow\_synthetics.synthetics\_admin
@@ -34,7 +34,7 @@ The following items are installed with synthetic monitoring:
 -   Roles
 -   Tables
 
-For more information, see [[components-installed-with-synthetic-monitoring|Components installed with synthetic monitoring]].
+For more information, see [Components installed with synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/components-installed-with-synthetic-monitoring.md).
 
 ## Procedure
 
@@ -57,14 +57,7 @@ For more information, see [[components-installed-with-synthetic-monitoring|Compo
 
 ## What to do next
 
-[[create-synthetic-monitoring-locations|Create synthetic monitoring locations]]
+[Create synthetic monitoring locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitoring-locations.md)
 
-**Parent Topic:**[[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
-## Related
-
-- [[components-installed-with-synthetic-monitoring|Components installed with synthetic monitoring]]
-- [[create-synthetic-monitoring-locations|Create synthetic monitoring locations]]
-- [[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[acc-landing-page|Agent Client Collector]]

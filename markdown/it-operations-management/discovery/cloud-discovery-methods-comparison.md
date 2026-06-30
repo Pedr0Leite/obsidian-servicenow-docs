@@ -15,11 +15,11 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Cloud discovery solutions comparison
 
-Comparing cloud [[r-discovery|discovery]] solutions provides insights on the relative strengths of each solution. The comparison showcases the number of resource types supported by the solutions across AWS, Microsoft Azure, and GCP. The comparison can help you understand the capabilities of each solution and better manage your CMDB when using one or multiple methods.
+Comparing cloud discovery solutions provides insights on the relative strengths of each solution. The comparison showcases the number of resource types supported by the solutions across AWS, Microsoft Azure, and GCP. The comparison can help you understand the capabilities of each solution and better manage your CMDB when using one or multiple methods.
 
 ## Discovery and Service Mapping Patterns vs. Service Graph Connectors
 
-[[itom-visibility-landing-page|ITOM Visibility]] offers two primary solutions for discovering cloud resources and mapping them into the Configuration Management Database \(CMDB\): Cloud Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns and Cloud Service Graph Connectors.
+ITOM Visibility offers two primary solutions for discovering cloud resources and mapping them into the Configuration Management Database \(CMDB\): Cloud Discovery and Service Mapping Patterns and Cloud Service Graph Connectors.
 
 Patterns are the core of ITOM Visibility's native discovery capabilities. They provide a deeper, more dynamic, and holistic view of your infrastructure. Patterns use a variety of discovery methods: Agentless, agent-based, and cloud-native, to create a unified, business-aware view of your services. By leveraging machine learning, patterns automatically map technical components to their business context, creating rich relationships, and a comprehensive knowledge graph.
 
@@ -46,8 +46,3 @@ ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\)
 
 **Parent Topic:**[Discovery for cloud environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-wizard.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[c_ServiceMappingOverview|Service Mapping]]

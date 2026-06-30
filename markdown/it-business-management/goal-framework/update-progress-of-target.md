@@ -58,7 +58,7 @@ Steps
 
 
 </td></tr></tbody>
-</table>2.  On the [[target-form|Target form]], update the **Actuals to date** field and add a business justification in the **Remark** field.
+</table>2.  On the Target form, update the **Actuals to date** field and add a business justification in the **Remark** field.
 
     For field information, see [Target form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/target-form.md).
 
@@ -76,6 +76,3 @@ Once the **Actuals to date** field is updated, the progress value for the target
 
 [Update the actual value of a target breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/update-the-actual-value-of-a-target-breakdown-gf.md)
 
-## Related
-
-- [[target-form|Target form]]

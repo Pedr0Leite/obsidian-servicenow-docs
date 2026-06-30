@@ -61,7 +61,7 @@ Set the **sn\_itsm\_aia.office\_365\_group\_member\_approval.required** system p
 </table>
 **Note:** The Manage Microsoft 365 group members agentic workflow doesn’t have a trigger and is invoked manually.
 
-To modify the Manage Microsoft 365 group members agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Manage Microsoft 365 group members agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** When you modify an agentic workflow, AI agent, or tool, make sure that you update all instructions accordingly.
 
@@ -103,6 +103,3 @@ In the agentic workflow record:
 
 In the AI Agent Studio, the human agent gets notified as soon as one or more users are added or removed so that they can follow the on-screen instructions and complete the task. For more information, see [Request the generative AI capabilities in ITSM by using the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/request-gen-ai-capabilities-itsm-now-assist-panel.md).
 
-## Related
-
-- [[settings-mobile|Settings]]

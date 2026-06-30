@@ -20,7 +20,7 @@ Create an inbound asset order line for every asset in an inbound asset order.
 
 Role required: sn\_daas\_ham.daas\_asset\_manager
 
--   Install the [[ham-landing-page|Hardware Asset Management]] for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+-   Install the Hardware Asset Management for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 -   Install the Hardware Asset Management application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ## About this task
@@ -29,7 +29,7 @@ For an inbound asset order line to be considered complete, the **State** field o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **DaaS provider** view.
 
@@ -105,7 +105,7 @@ Asset
 
 </td><td>
 
-Asset that is selected matching the model.This field automatically populates when you [[select-daas-asset|select an asset]] in the Asset selection task.
+Asset that is selected matching the model.This field automatically populates when you select an asset in the Asset selection task.
 
 </td></tr></tbody>
 </table>8.  Select **Save**.
@@ -121,8 +121,3 @@ Asset that is selected matching the model.This field automatically populates whe
 
 [Select a DaaS asset matching the model specified by the DaaS provider.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/select-daas-asset.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

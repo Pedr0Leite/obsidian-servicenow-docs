@@ -14,7 +14,7 @@ breadcrumb: [ITSM Virtual Agent pre-built actionable notifications, ITSM Virtual
 
 # Issue Auto Resolution for ITSM Virtual Agent
 
-Proactively deflect common ITSM incidents to [[itsm-virtual-agent|ITSM Virtual Agent]]. Initiate a conversation with an end user after they submit an incident through a non-conversational service channel, if an existing ITSM Virtual Agent conversation can resolve the issue.
+Proactively deflect common ITSM incidents to ITSM Virtual Agent. Initiate a conversation with an end user after they submit an incident through a non-conversational service channel, if an existing ITSM Virtual Agent conversation can resolve the issue.
 
 ## Understanding Issue Auto Resolution
 
@@ -73,7 +73,7 @@ Issue Auto Resolution uses NLU to identify Virtual Agent topics that match inten
 
 To view, train, or retrain the NLU model, see [Train and test your model in Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/train-test-publish-nlu-model-vad.md).
 
-**Note:** Issue Auto Resolution must be activated and ITSM Virtual Agent must be installed to access the NLU [[c_Models|models]]. To learn more, see [Set up Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-ar.md).
+**Note:** Issue Auto Resolution must be activated and ITSM Virtual Agent must be installed to access the NLU models. To learn more, see [Set up Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-ar.md).
 
 ## About actionable notifications
 
@@ -116,7 +116,3 @@ You can enable AI Search as a fallback mechanism in Issue Auto Resolution when t
 
 [Using Virtual Agent for Issue Auto Resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/auto-resolution-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[c_Models|Models]]

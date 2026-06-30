@@ -118,7 +118,7 @@ Error in syncing the contact with Everbridge.
 
     4.  Click **Submit**.
 
-6.  To import contacts using a sync rule, you must first [[contact-import-sync-rule|create a contact import rule]].
+6.  To import contacts using a sync rule, you must first [create a contact import rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/contact-import-sync-rule.md).
 
 7.  To import contacts based on contact sync rules, click **Import users** button.
 
@@ -130,6 +130,4 @@ Error in syncing the contact with Everbridge.
 
     After the contacts are synchronized with Everbridge, the status of the sync action is recorded in the **Sync status** field. The unique ID of the contacts that are synced successfully in Everbridge are recorded as the **External contact ID** of the Contacts table.
 
-## Related
 
-- [[contact-import-sync-rule|Create contact import rules]]

@@ -16,20 +16,14 @@ Next Experience multi-theme management offers a more personalized experience by 
 
 Multi-theme management is available for custom Next Experience themes and themes created with Theme Builder.
 
--   Publish multiple themes to your web experience and make your themes available to users for selection within the Next Experience Theme user preference. For more information, see [[configure-presentation-order-of-themes|Publish multiple themes in Next Experience]] and [[tb-apply-theme|Publish your themes with Theme Builder]].
+-   Publish multiple themes to your web experience and make your themes available to users for selection within the Next Experience Theme user preference. For more information, see [Publish multiple themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-presentation-order-of-themes.md) and [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 -   Themes are stored and managed within the UX Parent App **\[m2m\_app\_theme\]** table. Themes created with Theme Builder are automatically added to this table after publishing.
 
 -   Set one theme as the default to display first in the user's theme preference if they haven't made a selection.
 -   Control the order in which themes appear in the user's theme preference.
 
 -   **[Publish multiple themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-presentation-order-of-themes.md)**  
-Publish multiple themes and set the order of your Next Experience custom and Theme Builder themes to [[configure-onboarding-modals|configure]] how they’re displayed in the user's Theme preferences.
+Publish multiple themes and set the order of your Next Experience custom and Theme Builder themes to configure how they’re displayed in the user's Theme preferences.
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[configure-presentation-order-of-themes|Publish multiple themes in Next Experience]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
-- [[configure-onboarding-modals|Configure]]

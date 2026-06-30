@@ -12,7 +12,7 @@ breadcrumb: [Operational Resilience, Governance, Risk, and Compliance]
 
 # Landing page and dashboard views
 
-The landing page in the [[grc-opres-landing-page|Operational Resilience]] Workspace provides a single-pane overview of the services, business services, and pillars in your organization. The dashboard displays [[opres-ws-homepage-overview|resilience metrics]], including operational status, completed activities, red flags, and suggestions for improvement.
+The landing page in the Operational Resilience Workspace provides a single-pane overview of the services, business services, and pillars in your organization. The dashboard displays resilience metrics, including operational status, completed activities, red flags, and suggestions for improvement.
 
 The flexible data model introduced with Operational Resilience, Release 21.0.x provides a foundation for the dashboards and tracks the flow of dependent services. The data, including red flags by type, such as failed controls, incidents, and outages, and business service metrics such as number of flags, importance, and impact tolerance, is updated in the dashboard through changes to the flexible data model.
 
@@ -343,7 +343,7 @@ Conditions:-   impacted\_area=profile OR impacted\_area=profile.applies\_to
 
 </td></tr><tr><td>
 
-Third party [[risk-assessments|risk assessments]]
+Third party risk assessments
 
 </td><td>
 
@@ -364,9 +364,3 @@ For all these assessments, staging records are created in the \[sn\_oper\_res\_t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[opres-ws-homepage-overview|Resilience metrics]]
-- [[risk-assessments|risk assessments]]

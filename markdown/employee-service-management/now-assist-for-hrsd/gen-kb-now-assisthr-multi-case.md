@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for HR Service Delivery \(HRSD
 
 # Generate a knowledge article from multiple cases
 
-Create drafts of knowledge articles from multiple cases with the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application. Use generative AI to gather and create the content from multiple cases so that you can reduce the amount of time that you would have spent manually to get the same information.
+Create drafts of knowledge articles from multiple cases with the Now Assist for HR Service Delivery \(HRSD\) application. Use generative AI to gather and create the content from multiple cases so that you can reduce the amount of time that you would have spent manually to get the same information.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Create drafts of knowledge articles from multiple cases with the [[now-assist-hr
     -   Knowledge Management Advanced plugin \[com.snc.knowledge\_advanced.installer\]; This is not a mandatory plugin and it cannot be uninstalled.
     -   Now Assist in Knowledge Management \[sn\_km\_gen\_ai\]
     -   Human Resources Scoped App: Core \[com.sn\_hr\_core\]
-    -   Latest version of [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] \[sn\_hr\_agent\_ws\]
-    -   Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \[com.sn\_hr\_lifecycle\_events\]
-    -   Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]] \[com.sn\_hr\_employee\_relations\]
+    -   Latest version of Agent Workspace for HR Case Management \[sn\_hr\_agent\_ws\]
+    -   Human Resources Scoped App: Lifecycle Events \[com.sn\_hr\_lifecycle\_events\]
+    -   Human Resources Scoped App: Employee Relations \[com.sn\_hr\_employee\_relations\]
 -   Activate the Knowledge Assist skill from the Now Assist Admin console.
 
 Role required:
@@ -85,7 +85,7 @@ You can make a copy of this skill to configure it to meet your business needs. F
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -115,10 +115,3 @@ You can make a copy of this skill to configure it to meet your business needs. F
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-delivery|HR Service Delivery]]

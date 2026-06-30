@@ -14,7 +14,7 @@ breadcrumb: [Configure, Task Mining, Platform Analytics]
 
 # Install Task Mining
 
-You can install the [[task-mining|Task Mining]] Core application \(sn\_tm\_core\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Task Mining Core application \(sn\_tm\_core\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ For more information, see [Components installed with Task Mining](https://raw.gi
 
 6.  Select **Install**.
 
-## Related
 
-- [[task-mining|Task Mining]]

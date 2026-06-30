@@ -14,7 +14,7 @@ breadcrumb: [WSD for Microsoft places, Workplace Service Delivery, Employee Serv
 
 # Explore WSD for Microsoft places
 
-Manage and create all your workplace service requests from the [[wsd-for-ms-places|WSD for Microsoft places]] application integrated with Microsoft Teams.
+Manage and create all your workplace service requests from the WSD for Microsoft places application integrated with Microsoft Teams.
 
 The WSD for Microsoft places application integrated with the Microsoft Teams enables you to create and manage open workplace service requests. You can manage and create workplace service requests from **Equipment**, **Reservation services**, and **Site services** tabs.
 
@@ -37,6 +37,3 @@ For more information about raising service requests, refer to [Requesting a work
 
 [WSD for Microsoft places- Key features and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-integration-with-microsoft-places/wsd-for-ms-places-key-features-and-actions.md)
 
-## Related
-
-- [[wsd-for-ms-places|WSD for Microsoft places]]

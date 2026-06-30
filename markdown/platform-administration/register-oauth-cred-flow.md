@@ -12,7 +12,7 @@ breadcrumb: [Send email using client credential flow, Advanced email setup, Conf
 
 # Register an OAuth provider
 
-Use the information generated during the Microsoft Azure account configuration to [[register-application-oauth-send-msgraph|register an application as an OAuth provider]].
+Use the information generated during the Microsoft Azure account configuration to register an application as an OAuth provider.
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ OAuth API Script
 
 </td><td>
 
-OAuth API script name. For more information see, [[oauth-api-script|OAuth API Script]]. **Note:** This field is required only while using certificates.
+OAuth API script name. For more information see, [OAuth API Script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md). **Note:** This field is required only while using certificates.
 
 </td></tr><tr><td>
 
@@ -114,13 +114,7 @@ Redirect URL
 
 ## What to do next
 
-Use the OAuth profile to create an email account with SMTP OAuth2.0. For more information, see [[create-email-account-smtp|Create an email account with SMTP OAuth2.0]].
+Use the OAuth profile to create an email account with SMTP OAuth2.0. For more information, see [Create an email account with SMTP OAuth2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-smtp.md).
 
-**Parent Topic:**[[send-email-client-credential-flow|Sending email using client credential flow]]
+**Parent Topic:**[Sending email using client credential flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-client-credential-flow.md)
 
-## Related
-
-- [[oauth-api-script|Create an OAuth API script]]
-- [[create-email-account-smtp|Create an email account with SMTP OAuth2.0]]
-- [[send-email-client-credential-flow|Sending email using client credential flow]]
-- [[register-application-oauth-send-msgraph|Register an application as an OAuth provider]]

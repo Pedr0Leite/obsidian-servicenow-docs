@@ -12,7 +12,7 @@ breadcrumb: [Configure email agentic workflows, Use agentic workflows in emails,
 
 # Activate Notifications Email Agents plugin
 
-You can activate the [[notifications|Notifications]] Email Agents plugin \(sn\_notif\_agents\) for Notifications if you have the admin role.
+You can activate the Notifications Email Agents plugin \(sn\_notif\_agents\) for Notifications if you have the admin role.
 
 ## Before you begin
 
@@ -38,16 +38,10 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
-Enable intent to action from [[enable-intent-to-action|Inbound email actions]] or [[trigger-intent-to-action|Inbound email triggers in Workflow Studio]].
+Enable intent to action from [Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-intent-to-action.md) or [Inbound email triggers in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/trigger-intent-to-action.md).
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[enable-intent-to-action|Enable intent to action workflow from inbound actions]]
-- [[trigger-intent-to-action|Enable intent to action workflow from triggers]]
-- [[notifications|Notifications]]

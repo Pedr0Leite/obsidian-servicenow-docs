@@ -14,14 +14,14 @@ breadcrumb: [Planning for Edge Encryption, Edge Encryption, Encryption]
 
 # Edge Encryption limitations
 
-[[edge-encryption|Edge Encryption]] impacts system functions. Carefully evaluate the impact of encrypting a field.
+Edge Encryption impacts system functions. Carefully evaluate the impact of encrypting a field.
 
 ## Field type restrictions
 
 You can encrypt only the following field types:
 
 -   Date
--   [[email|Email]]
+-   Email
 -   Date/Time
 -   IP Address
 -   Journal
@@ -45,7 +45,7 @@ Additional restrictions:
 
 -   When a Journal field is encrypted, the **Post** button is inactive, even if there are multiple Journal fields and only one of those fields is encrypted.
 -   Encrypted fields aren’t available in **Go to** and header filter boxes.
--   When encrypting fields used as an index, you can use only order-preserving and equality-preserving [[encryption-landing|encryption]] types. Indexed fields can’t be encrypted using the standard encryption type.
+-   When encrypting fields used as an index, you can use only order-preserving and equality-preserving encryption types. Indexed fields can’t be encrypted using the standard encryption type.
 
 For more information, see [Field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md).
 
@@ -53,7 +53,7 @@ For more information, see [Field types](https://raw.githubusercontent.com/Servic
 
 -   **Standard encryption**
 
-    When you select a String, Date, Date/Time, or URL field with a standard encrypted field [[sc-configuration|configuration]] as the left operand in a filter, no filtering options are available.
+    When you select a String, Date, Date/Time, or URL field with a standard encrypted field configuration as the left operand in a filter, no filtering options are available.
 
 -   **Equality-preserving encryption**
 
@@ -89,7 +89,7 @@ For more information, see [Field types](https://raw.githubusercontent.com/Servic
 
     The **Show Matching** and **Filter Out** options are supported in lists. Only exact matches are returned or filtered out.
 
-    **Note:** Adding encrypted fields in condition filters is supported in scripts such as UI [[ca-policies|policies]] and business rules.
+    **Note:** Adding encrypted fields in condition filters is supported in scripts such as UI policies and business rules.
 
 
 ## Configuration restrictions
@@ -127,15 +127,7 @@ Impact of using Edge Encryption on the instance:
 -   If your instance uses an Oracle database, Unicode AL32UTF8 is the only supported character set.
 -   Encrypted data can’t be used in reports.
 -   Edge Encryption can’t be used with Data Archiving.
--   Edge Encryption proxies cannot encrypt requests that use the batch REST [[c_requestAPI|request]] API. If you are using Edge Encryption proxies, disable REST batching by setting the `glide.uxf.disable_rest_batching` system property to true.
+-   Edge Encryption proxies cannot encrypt requests that use the batch REST request API. If you are using Edge Encryption proxies, disable REST batching by setting the `glide.uxf.disable_rest_batching` system property to true.
 
 **Parent Topic:**[Planning for Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EdgeEncryptionPlanning.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[email|Email]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]
-- [[c_requestAPI|request]]

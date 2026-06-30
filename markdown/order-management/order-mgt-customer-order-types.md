@@ -12,7 +12,7 @@ breadcrumb: [Order Management, Use, Sales Customer Relationship Management]
 
 # Action types for customer and service orders
 
-Learn how you can take various types of actions for your customer orders. Action types include move, add, change, disconnect, suspension, [[Resume|resume]], or no-change of services.
+Learn how you can take various types of actions for your customer orders. Action types include move, add, change, disconnect, suspension, resume, or no-change of services.
 
 By using an order action type, you can define the type of actions that you want to do with an order. The following table lists the order action types.
 
@@ -30,7 +30,7 @@ Add
 
 </td><td>
 
-Add a customer order that isn’t associated with an existing order from the same customer. This customer order results in new [[explore-order-management|order management]] and fulfillment activities.For example, you place a new order for a home internet service.
+Add a customer order that isn’t associated with an existing order from the same customer. This customer order results in new order management and fulfillment activities.For example, you place a new order for a home internet service.
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ Disconnect an existing customer service order. For example, you can disconnect y
 
 </td></tr><tr><td>
 
-[[Suspend|Suspend]]
+Suspend
 
 </td><td>
 
@@ -81,14 +81,7 @@ Order line items with No change action are included in the order for information
 **Related topics**  
 
 
-[[order-mgt-suspend-resume-action|Suspend and resume products and services]]
+[Suspend and resume products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-suspend-resume-action.md)
 
-[[managing-orders|Managing post-fulfillment order changes]]
+[Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 
-## Related
-
-- [[order-mgt-suspend-resume-action|Suspend and resume products and services]]
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[Resume|Resume]]
-- [[explore-order-management|Order management]]
-- [[Suspend|Suspend]]

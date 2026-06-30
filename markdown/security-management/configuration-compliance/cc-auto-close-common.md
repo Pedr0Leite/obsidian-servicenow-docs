@@ -18,9 +18,9 @@ You can automatically close test results \(TRs\) associated with retired configu
 
 To configure the auto-close option, navigate to the system property **sn\_vulc.auto\_close\_test\_results\_linked\_to\_retired\_CIs** and set it to true. To automatically close TRs related to retired CIs, see [Automatically close test results related to retired CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-auto-close-vis.md).
 
-For information on [[working-with-retired-CIs|working with retired configuration items]], see [Working with retired configuration items in Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-working-with-retired-CIs.md).
+For information on working with retired configuration items, see [Working with retired configuration items in Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-working-with-retired-CIs.md).
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -28,7 +28,3 @@ For information on [[working-with-retired-CIs|working with retired configuration
 |Group Rules|Remediation Task Rules|
 |Policy|Test group|
 
-## Related
-
-- [[working-with-retired-CIs|Working with retired configuration items]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

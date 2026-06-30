@@ -14,7 +14,7 @@ breadcrumb: [Tracked analytics fields and cookies, User privacy, tracking, and c
 
 # Tracked mobile analytics fields for Usage Insights
 
-[[user-exp-analytics-landing|Usage Insights]] collects data from mobile applications on your mobile device. These tables list fields that are tracked in the mobile applications. Reports and charts are generated from these fields.
+Usage Insights collects data from mobile applications on your mobile device. These tables list fields that are tracked in the mobile applications. Reports and charts are generated from these fields.
 
 For more information about using the data, see [Viewing user analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/viewing-user-data.md).
 
@@ -90,6 +90,3 @@ You can add these events by calling client-side APIs. 
 
 **Parent Topic:**[Tracked analytics fields and cookies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracked-fields-and-cookies.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

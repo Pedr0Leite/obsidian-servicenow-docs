@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # Customize Now Assist context menu for skills
 
-If you have the admin role, you can customize a [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] skill so that agents can use the generative AI skills in [[csm-workspaces-configure|CSM Configurable Workspace]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for Customer Service Management \(CSM\) skill so that agents can use the generative AI skills in CSM Configurable Workspace and in Core UI.
 
 ## Before you begin
 
@@ -74,7 +74,7 @@ Case NACM Config is currently only available for resolution notes and activity r
 
 12. **Select Display** to determine where to display the Case NACM Config.
 
-    -   Select In-product desktop to show Case NACM Config in all customer products on [[migration-forms|forms]] and workspaces.
+    -   Select In-product desktop to show Case NACM Config in all customer products on forms and workspaces.
     -   Select roles for whom NACM config will be displayed.
 13. In**Review and Activate** select **Activate** to activate Now Assist context menu for the skill.
 
@@ -84,8 +84,4 @@ Case NACM Config is currently only available for resolution notes and activity r
 
 14. Select **Return to Customer** to complete and save this section.
 
-## Related
 
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-forms|Forms]]

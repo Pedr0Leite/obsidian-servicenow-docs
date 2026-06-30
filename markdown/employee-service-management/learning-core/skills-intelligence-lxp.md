@@ -14,7 +14,7 @@ breadcrumb: [Exploring Learning, Learning, Growth Experiences, HR Service Delive
 
 # Learning integration with Skills Foundation
 
-[[skills-intelligence|Skills Foundation]] integrates with [[exploring-learning-exp|Learning]] to introduce skills-driven learning search results; recommend and suggest courses based on a learner's skills.
+Skills Foundation integrates with Learning to introduce skills-driven learning search results; recommend and suggest courses based on a learner's skills.
 
 Learning integrates with Skills Foundation to enhances a user's learning experience.
 
@@ -39,11 +39,6 @@ When the Skills Foundation property sn\_skills\_int.enable\_skills is set to tru
 
 ## Skills based learning recommendations
 
--   Learning recommendations presented with [[overview-lxp|My Learning]]
+-   Learning recommendations presented with My Learning
 -   Recommendation based on skill gaps between employee's skills and those identified as required for their current job.
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[exploring-learning-exp|Learning]]
-- [[overview-lxp|My Learning]]

@@ -103,8 +103,5 @@ Several types of components are installed with the installation of the Financial
 |Student Loan|sn\_bom\_remote.student\_loan\_viewer|
 |Term Loan|sn\_bom\_remote.term\_loan\_viewer|
 
-**Parent Topic:**[[financialservices-remote-tables|Financial Services Remote Tables]]
+**Parent Topic:**[Financial Services Remote Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financialservices-remote-tables.md)
 
-## Related
-
-- [[financialservices-remote-tables|Financial Services Remote Tables]]

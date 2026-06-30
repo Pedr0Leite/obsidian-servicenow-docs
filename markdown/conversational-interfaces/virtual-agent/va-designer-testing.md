@@ -17,9 +17,9 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 Use the chat test window to preview, test, and debug Natural Language Understanding \(NLU\)/Keyword topics.
 
-As you work on a topic in [[assistant-designer|Assistant Designer]], you can run your conversation in a chat test window. The default test window is the web \(Service Portal\) chat client.
+As you work on a topic in Assistant Designer, you can run your conversation in a chat test window. The default test window is the web \(Service Portal\) chat client.
 
-If you're using the [Virtual Agent integrations with third-party messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md), elements in your conversation might appear differently in third-party messaging applications. Test your conversations in any third-party applications where you want to deploy [[virtual-agent-landing-page|Virtual Agent]].
+If you're using the [Virtual Agent integrations with third-party messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md), elements in your conversation might appear differently in third-party messaging applications. Test your conversations in any third-party applications where you want to deploy Virtual Agent.
 
 If the Now Assist panel, Microsoft Teams application, or Slack application is configured for your environment, preview options for those channels are displayed in the Test button list. Select **Preview in Now Assist panel** or **Preview in Microsoft Teams** in the list to test your topic in those environments.
 
@@ -29,7 +29,7 @@ If the Now Assist panel, Microsoft Teams application, or Slack application is co
 
 To run your topic in the chat test window, select the **Test** option in the topic header bar. Alternatively, you can test active \(published\) topics by selecting **Test active topics** while viewing NLU topics on the home page.
 
-**Note:** If your topic is missing any necessary information, an incomplete badge appears in the corner of the flow diagram pane. A yellow or red warning badge also appears next to each node. The incomplete badge lists the total number of issues, while the local warning badges show how many are found in each node. Selecting **Test** when there are issues present opens a Validation Issues tab on the [[sidebar-landing|sidebar]], which counts up and details all the issues needing correction. These details include a full description and a hyperlink to each incomplete node.
+**Note:** If your topic is missing any necessary information, an incomplete badge appears in the corner of the flow diagram pane. A yellow or red warning badge also appears next to each node. The incomplete badge lists the total number of issues, while the local warning badges show how many are found in each node. Selecting **Test** when there are issues present opens a Validation Issues tab on the sidebar, which counts up and details all the issues needing correction. These details include a full description and a hyperlink to each incomplete node.
 
 The chat test window opens in the chat widget and displays adjoining tabs that provide details about your topic as you test it. You can use these tabs:
 
@@ -76,7 +76,7 @@ The following example shows the Input variables section for the grouped list con
 
 Use the **Context** tab to specify a different context for the chat. Choose a context variable from the list. These variables contain contextual information that can be used to determine topic intent or control how chats are routed to live agents. For example, you could select **portal** from the list of variables and enter the portal name **IT Express**. The **Context** tab is unavailable when creating test cases.
 
-For more information about defining context variables, see [[ac-configure-context-variables|Configure context variables for storing chat-related information]]. For more information about live agent variables that are included with Virtual Agent, see [[live-agent-chat-context-vars|Live agent chat context variables]].
+For more information about defining context variables, see [Configure context variables for storing chat-related information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md). For more information about live agent variables that are included with Virtual Agent, see [Live agent chat context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md).
 
 \[Omitted image "va-cce-it-express.png"\] Alt text: Context tab with the context portal value of IT Express.
 
@@ -97,10 +97,3 @@ Automated testing for your Virtual Agent topic flows uses the ServiceNow Automat
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
-## Related
-
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[assistant-designer|Assistant Designer]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[sidebar-landing|Sidebar]]

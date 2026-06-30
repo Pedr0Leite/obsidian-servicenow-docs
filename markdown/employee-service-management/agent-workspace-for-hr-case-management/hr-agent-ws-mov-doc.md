@@ -14,7 +14,7 @@ breadcrumb: [Employee Document Management for Agent Workspace for HR Case Manage
 
 # Move employee documents in Agent Workspace for HR Case Management
 
-Move employee documents from a case in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to employee document repository. The employee document repository provides a central repository for quick and easy identification of documents using different sorting features.
+Move employee documents from a case in Agent Workspace for HR Case Management to employee document repository. The employee document repository provides a central repository for quick and easy identification of documents using different sorting features.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_ef.document\_writer, sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select a case that has employee documents attached.
 
@@ -37,7 +37,7 @@ Role required: sn\_hr\_ef.document\_writer, sn\_hr\_core.case\_writer
     3.  Click **Move Selected**.
     **Note:** The **Target COE** and **Topic Detail** fields can be modified only if the document has been added under the wrong type of HR case.
 
-    \[Omitted image "move-docs-workspace2.png"\] Alt text: Move employee documents from agent workspace to [[hr-employee-doc-management|employee document management]]
+    \[Omitted image "move-docs-workspace2.png"\] Alt text: Move employee documents from agent workspace to employee document management
 
 
 ## Result
@@ -46,8 +46,3 @@ Role required: sn\_hr\_ef.document\_writer, sn\_hr\_core.case\_writer
 -   To view a list of all employee documents in the list column, select **Employee Documents**.
 -   The moved attachments appears in the contextual side panel under the employee documents icon within the case.
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[hr-employee-doc-management|Employee Document Management]]

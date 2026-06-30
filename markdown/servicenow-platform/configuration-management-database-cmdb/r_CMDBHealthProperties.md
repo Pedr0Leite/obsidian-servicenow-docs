@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Health, Configuration Management Database \(CMDB\),
 
 # CMDB Health system properties
 
-Configure the following system properties to customize how [[c_CMDBHealth|CMDB Health]] monitors and evaluates CIs health.
+Configure the following system properties to customize how CMDB Health monitors and evaluates CIs health.
 
 Role required: sn\_cmdb\_admin or itil\_admin
 
@@ -44,7 +44,7 @@ For performance reasons, it is recommended not to set this property to a value g
 
 </td></tr><tr><td>
 
-Attribute in the \[cmdb\_ci\] table that [[reference-document-management|references]] the User or User Group table. CMDB Health Dashboard charts use this attribute to determine CIs’ ownership.
+Attribute in the \[cmdb\_ci\] table that references the User or User Group table. CMDB Health Dashboard charts use this attribute to determine CIs’ ownership.
 
  glide.cmdb.health.ci\_ownership\_field
 
@@ -106,8 +106,3 @@ Exclude dependent CIs for the staleness CMDB Health metric.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[reference-document-management|References]]

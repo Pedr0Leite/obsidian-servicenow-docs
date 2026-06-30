@@ -14,15 +14,15 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Request clarification on a purchase request from Shopping Hub Home
 
-As an approver, request clarification from the shopper on a [[purchase-requisition|purchase requisition]] if you have questions that you need answers to before approving or rejecting the purchase requisition. Purchase requisition approvals are generated when an approval rule is triggered on meeting certain criteria.
+As an approver, request clarification from the shopper on a purchase requisition if you have questions that you need answers to before approving or rejecting the purchase requisition. Purchase requisition approvals are generated when an approval rule is triggered on meeting certain criteria.
 
 ## Before you begin
 
-To request clarification on a purchase requisition, you should be assigned as an approver for the shopper requesting the purchase. Also, specific approval rules must be triggered on meeting certain criteria. Only then, this approval to-do is displayed to you on [[shopping-hub-overview|Shopping Hub]] Home.
+To request clarification on a purchase requisition, you should be assigned as an approver for the shopper requesting the purchase. Also, specific approval rules must be triggered on meeting certain criteria. Only then, this approval to-do is displayed to you on Shopping Hub Home.
 
-An approver can also access the purchase details page on Shopping Hub to gather more information on a purchase request before approving or rejecting it. Select the card that shows the purchase line in the approval details page to view the purchase details. Approvers are however, not allowed to revise [[purchase-lines|purchase lines]].
+An approver can also access the purchase details page on Shopping Hub to gather more information on a purchase request before approving or rejecting it. Select the card that shows the purchase line in the approval details page to view the purchase details. Approvers are however, not allowed to revise purchase lines.
 
-**Note:** You can also request clarification from your mobile device, virtual agent, or by selecting **Ask for Clarification** from the purchase requisition approval record in [[purchase-experience-workflow|Sourcing and Purchasing Automation]] or from **Requisition Approvals** in [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+**Note:** You can also request clarification from your mobile device, virtual agent, or by selecting **Ask for Clarification** from the purchase requisition approval record in Sourcing and Purchasing Automation or from **Requisition Approvals** in Source-to-Pay Workspace.
 
 Role required: sn\_shop.shopper
 
@@ -43,15 +43,7 @@ Role required: sn\_shop.shopper
 
 ## What to do next
 
-View the clarifications requested by you and other approvers, or ask for more clarifications if required, from the [[activity-stream|activity stream]] of that to-do.
+View the clarifications requested by you and other approvers, or ask for more clarifications if required, from the activity stream of that to-do.
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-lines|Purchase lines]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[activity-stream|Activity stream]]

@@ -18,7 +18,7 @@ After a conference call is initiated, join the call to participate in the discus
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_view, ia\_admin or notify\_setup\_admin
+Role required: notify\_view, ia\_admin or notify\_setup\_admin
 
 ## Procedure
 
@@ -52,13 +52,9 @@ If you are not already logged into the conference call, you can join the confere
 
 </td><td>
 
-End the conference when the discussion is over.**Note:** The [[c_WorkNotes|work notes]] get updated with the details of the conference call such as duration and participants.
+End the conference when the discussion is over.**Note:** The work notes get updated with the details of the conference call such as duration and participants.
 
 </td></tr></tbody>
 </table>
 **Parent Topic:**[Using Notify with Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyWithIncidentAlert.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_WorkNotes|Work notes]]

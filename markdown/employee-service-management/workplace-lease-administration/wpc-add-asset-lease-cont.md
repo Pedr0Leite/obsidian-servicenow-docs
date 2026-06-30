@@ -26,7 +26,7 @@ Linking a contract with assets clarifies what the contract legally covers. The A
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select **Lease Administration**.
 
@@ -51,6 +51,3 @@ Linking a contract with assets clarifies what the contract legally covers. The A
 
 **Parent Topic:**[Create workplace contracts in Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/wpc-create-lease-contracts.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

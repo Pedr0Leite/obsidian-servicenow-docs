@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## About this task
 
-To see the **Publish to Software Catalog Item** related link on the Vendor Catalog Item form, add a software model or a consumable model to the **Product Model** field, and leave the **[[c_ProductCatalog|Product Catalog]] Item** field blank.
+To see the **Publish to Software Catalog Item** related link on the Vendor Catalog Item form, add a software model or a consumable model to the **Product Model** field, and leave the **Product Catalog Item** field blank.
 
 After you publish a vendor catalog item to the software catalog, the **Publish to Software Catalog** related link is no longer available. Any changes made on the vendor catalog item record are synchronized with the information in the software catalog.
 
@@ -38,7 +38,7 @@ After you publish a vendor catalog item to the software catalog, the **Publish t
 
 5.  Select **OK**.
 
-    The published item is listed in the **[[c_ManageVendorCatalogItems|Vendor catalog Items]]** related list of the Software Catalog form.
+    The published item is listed in the **Vendor catalog Items** related list of the Software Catalog form.
 
 
 **Parent Topic:**[Create a vendor catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/t_CreateAVendorCatalogItem.md)
@@ -52,7 +52,3 @@ After you publish a vendor catalog item to the software catalog, the **Publish t
 
 [Publish an item to the hardware catalog]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Redox Inbound Integration, Healthcare and Life Sciences 
 
 # Assign roles for Redox Inbound Integration users
 
-Assign roles to control access to features, capabilities, and data in the [[hcls-redox-app|Redox Inbound Integration]] application.
+Assign roles to control access to features, capabilities, and data in the Redox Inbound Integration application.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Starting with the Yokohama release, Redox Inbound Integration is being prepared 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 -   Set the application scope to Redox Inbound Integration using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
--   [[hcls-redox-create-user|Create a user for Redox Inbound Integration]].
+-   [Create a user for Redox Inbound Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-create-user.md).
 
 Role required: sn\_hcls.admin or admin
 
@@ -54,7 +54,4 @@ Administers who can access the Redox Inbound Integration application.
 
     For more information, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
-## Related
 
-- [[hcls-redox-create-user|Create a user for Redox Inbound Integration]]
-- [[hcls-redox-app|Redox Inbound Integration]]

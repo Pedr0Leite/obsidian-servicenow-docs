@@ -16,26 +16,17 @@ In the workspace, you can use the remediation action-related list to log the inf
 
 |Related list|Description|
 |------------|-----------|
-|[[mco-copq-financial-requests|Create a CoPQ financial request]]|Create the CoPQ financial requests.|
-|[[mco-correction-actions|Create a correction action]]|Create a correction action.|
-|[[mco-containment-actions|Create a containment action]]|Create a containment action.|
-|[[mco-corrective-action|Create a corrective action]]|Create corrective action.|
-|[[mco-preventive-action|Create a preventive action]]|Create preventive action.|
-|[[mco-cause-action-plans|Cause action plans]]|Create a cause action plan.|
+|[Create a CoPQ financial request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-financial-requests.md)|Create the CoPQ financial requests.|
+|[Create a correction action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions.md)|Create a correction action.|
+|[Create a containment action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-containment-actions.md)|Create a containment action.|
+|[Create a corrective action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-action.md)|Create corrective action.|
+|[Create a preventive action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-preventive-action.md)|Create preventive action.|
+|[Cause action plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-cause-action-plans.md)|Create a cause action plan.|
 
 -   **[Create a CoPQ financial request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-financial-requests.md)**  
 Create a CoPQ financial request for remediation action plan.
 -   **[Cause action plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-cause-action-plans.md)**  
 Create a cause action plan for the remediation action.
 
-**Parent Topic:**[[mco-create-remediation-action-plan|Create a remediation action plan]]
+**Parent Topic:**[Create a remediation action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-remediation-action-plan.md)
 
-## Related
-
-- [[mco-copq-financial-requests|Create a CoPQ financial request]]
-- [[mco-correction-actions|Create a correction action]]
-- [[mco-containment-actions|Create a containment action]]
-- [[mco-corrective-action|Create a corrective action]]
-- [[mco-preventive-action|Create a preventive action]]
-- [[mco-cause-action-plans|Cause action plans]]
-- [[mco-create-remediation-action-plan|Create a remediation action plan]]

@@ -22,7 +22,7 @@ Dashboard and charts on the SolarWinds Observability tab of the Service Details 
 
 This dashboard displays performance metrics for the selected service.
 
-**Note:** If the [[otto-aiops-dashboards|dashboards]] have been customized, they might not reflect the information shown on this page.
+**Note:** If the dashboards have been customized, they might not reflect the information shown on this page.
 
 |Chart|Description|Data source|
 |-----|-----------|-----------|
@@ -167,6 +167,3 @@ SolarWinds
 
 **Parent Topic:**[SolarWinds templates for Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/solarwinds-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center for mobile, Now Mobile experience for E
 
 # Configure content roll-up on topics for Now Mobile
 
-Browse through the associated content on the parent topic and its sub-tree topics. Enable the feature to see a wider range of results for your search on the [[mobile-employee-experience|Now Mobile app]].
+Browse through the associated content on the parent topic and its sub-tree topics. Enable the feature to see a wider range of results for your search on the Now Mobile app.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Browse content directly associated to the topic that you’re viewing along with
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

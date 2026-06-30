@@ -12,11 +12,11 @@ breadcrumb: [Knowing about History sets, Auditing]
 
 # History Timeline
 
-You can view a timeline of changes for a CI and for its related records, relationships, baselines, and proposed changes for the CI. Timelines are available for CIs in the [[sc-configuration|Configuration]] Item \[cmdb\_ci\] table or a descendant of this table, if [[c_AuditedTables|auditing]] is enabled for the tables.
+You can view a timeline of changes for a CI and for its related records, relationships, baselines, and proposed changes for the CI. Timelines are available for CIs in the Configuration Item \[cmdb\_ci\] table or a descendant of this table, if auditing is enabled for the tables.
 
 Role required: The ACL for this view is based on the roles defined in the **glide.history.role** system property, which by default is set to `itil`. Also, the user must have read access to the History Set \[sys\_history\_set\] table, which by default is granted to admin.
 
-You can open a timeline when you view the history of a CI. You can specify the time period, time range, and properties that are displayed in the timeline. You can view either what has changed in a particular change set, or view the entire CI to better troubleshoot any issues. You can also display a timeline of changes to the CI's related records, and [[export|export]] and compare snapshots of the CI at any point in time.
+You can open a timeline when you view the history of a CI. You can specify the time period, time range, and properties that are displayed in the timeline. You can view either what has changed in a particular change set, or view the entire CI to better troubleshoot any issues. You can also display a timeline of changes to the CI's related records, and export and compare snapshots of the CI at any point in time.
 
 CI changes are represented by bubbles in different shapes and colors along the timeline. The shape of each bubble represents a different type of change and the color of each bubble specifies whether the change is valid or invalid. CI baselines are represented by black circles that you can hover over to display more details. Click the **?** icon to display bubble shape and color definitions, and point to a bubble to display details about the change set.
 
@@ -63,8 +63,3 @@ The **Detail** view displays snapshots of the CI that correspond with the bubble
 
 Use the **&gt;** and **&lt;** buttons on both sides to scroll through the next and previous change set records in a chronological order.
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]
-- [[export|Export]]

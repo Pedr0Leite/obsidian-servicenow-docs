@@ -14,11 +14,11 @@ breadcrumb: [Manage namespaces and topics, Hermes Messaging Service, Manage serv
 
 # Managing topics in Hermes
 
-Manage topic records in your instance and Kafka topics in the Hermes Kafka cluster using the [[hermes-messaging-service|Hermes Messaging Service]].
+Manage topic records in your instance and Kafka topics in the Hermes Kafka cluster using the Hermes Messaging Service.
 
 ## Topic records
 
-Messages are organized and stored in Kafka topics in the Hermes Kafka cluster. Topic records are stored in the Kafka Topics \[sys\_kafka\_topic\] table in your instance. This table shows a list of topics records with a [[reference|reference]] to each topic's namespace. Each topic record has a field for the topic's name, related namespace, and whether the topic is active.
+Messages are organized and stored in Kafka topics in the Hermes Kafka cluster. Topic records are stored in the Kafka Topics \[sys\_kafka\_topic\] table in your instance. This table shows a list of topics records with a reference to each topic's namespace. Each topic record has a field for the topic's name, related namespace, and whether the topic is active.
 
 Values in the Name column of the Kafka Topics \[sys\_kafka\_topic\] table aren't inherently unique. For example, topic records might have the same Name value when they belong to different namespaces or exist in different clusters. However, values in the Full Name column are always unique.
 
@@ -61,7 +61,7 @@ You can delete topics from the Hermes Kafka cluster using either of the followin
     **Important:** Deleting the topic externally requires that you delete the topic from both Hermes clusters manually by specifying each set of ports \(410x and 420x\). If possible, delete the topic through the instance instead.
 
 
-You can't delete a topic if it has subscriptions in Stream [[c_Connect|Connect]].
+You can't delete a topic if it has subscriptions in Stream Connect.
 
 ## Rescanning topics
 
@@ -94,8 +94,3 @@ Synchronize topic records in your instance with topics in the Hermes Kafka clust
 
 [Monitoring topics in the Hermes Kafka cluster]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[reference|Reference]]
-- [[c_Connect|Connect]]

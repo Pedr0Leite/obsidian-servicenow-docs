@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Teams**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Teams**.
 
 2.  Click **New**.
 
@@ -94,6 +94,3 @@ List of all PI objectives of this team. View, create, and update the PI objectiv
 </td></tr></tbody>
 </table>**Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/key-entities-SAFe.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

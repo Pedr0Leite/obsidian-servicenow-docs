@@ -18,7 +18,7 @@ Automatically set the pricing for a product by deriving its pricing from other p
 
 ## Derived pricing overview
 
-As a pricing admin or manager, you can define [[rules_101|rules]] for deriving product pricing dynamically, relative to other products or transactional values such as the total contract value \(TCV\) or annual contract value \(ACV\). When products with derived pricing are added to a transaction, such as a quote or order, the derived pricing is applied automatically. Derived pricing can be used in various scenarios. For example:
+As a pricing admin or manager, you can define rules for deriving product pricing dynamically, relative to other products or transactional values such as the total contract value \(TCV\) or annual contract value \(ACV\). When products with derived pricing are added to a transaction, such as a quote or order, the derived pricing is applied automatically. Derived pricing can be used in various scenarios. For example:
 
 |Pricing scenario|Industry use case|
 |----------------|-----------------|
@@ -121,7 +121,7 @@ Role
 
 </th></tr></thead><tbody><tr><td>
 
-[[som-create-price-list-line|Enable related \(derived\) pricing for a price list line]]
+[Enable related \(derived\) pricing for a price list line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-price-list-line.md)
 
 </td><td>
 
@@ -133,7 +133,7 @@ Pricing admin or manager
 
 </td></tr><tr><td>
 
-[[create-derived-pricing-source|Create rules for derived product pricing]]
+[Create rules for derived product pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-derived-pricing-source.md)
 
 </td><td>
 
@@ -145,9 +145,3 @@ Pricing admin or manager
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[som-create-price-list-line|Create a price list line]]
-- [[create-derived-pricing-source|Create rules for derived product pricing]]
-- [[rules_101|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management, Problem Management, IT Service Mana
 
 # Applying CSDM guidelines to Problem Management
 
-[[c_ProblemManagement|Problem Management]] helps identify the cause of an error in the IT infrastructure, reported as occurrences of related incidents. The goal of this product view is to help you to understand how Problem Management key entities work with the core CSDM framework.
+Problem Management helps identify the cause of an error in the IT infrastructure, reported as occurrences of related incidents. The goal of this product view is to help you to understand how Problem Management key entities work with the core CSDM framework.
 
 With Problem Management you can perform the following actions:
 
@@ -41,7 +41,7 @@ The Problem Management form references the following CSDM elements \(attributes 
 -   **[Problem Management and CSDM tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case.md)**  
 Problem Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Problem Management.
 -   **[Problem Management use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-example.md)**  
-The [[pm-use-case-example|Problem Management use case]] is described in this section.
+The Problem Management use case is described in this section.
 -   **[Problem Management considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-trouble.md)**  
 Consider these points while implementing the CSDM framework.
 
@@ -51,7 +51,3 @@ Consider these points while implementing the CSDM framework.
 
 **Next topic:**[Problem Management and CSDM tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[pm-use-case-example|Problem Management use case]]

@@ -15,11 +15,11 @@ breadcrumb: [Install Discovery, Configure Event Management using Setup Hub, Conf
 
 # Remove user from Discovery admin role
 
-Remove user from the [[r-discovery|discovery]]\_admin role when you no longer need them.
+Remove user from the discovery\_admin role when you no longer need them.
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you are in the Configure IT Operations Management page.
 
@@ -27,7 +27,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Platform foundations**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Platform foundations**.
 
 2.  Expand **Platform foundations**.
 
@@ -37,12 +37,6 @@ Role required: admin
 
 5.  Select **Remove role**.
 
-    The user is removed from the list of [[assign-disco-admin|Assign Discovery admins]] page.
+    The user is removed from the list of Assign Discovery admins page.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]
-- [[assign-disco-admin|Assign Discovery admins]]

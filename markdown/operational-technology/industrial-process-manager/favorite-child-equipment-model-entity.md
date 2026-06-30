@@ -14,7 +14,7 @@ breadcrumb: [Review and update the equipment model details, Managing equipment m
 
 # Favorite a child equipment model entity
 
-Favorite a child equipment model entity in the Equipment Model Manager of the [[industrial-workspace-for-operational-technology|Industrial Workspace]] so that you can access a tailored view of your favorites while working.
+Favorite a child equipment model entity in the Equipment Model Manager of the Industrial Workspace so that you can access a tailored view of your favorites while working.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ When you switch on the Show Favorites toggle, the configuration is saved. When y
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

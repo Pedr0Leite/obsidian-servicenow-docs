@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence, Enable AI experiences]
 
 # Creating and training solutions
 
-Use one of the [[predictive-intelligence-landing|Predictive Intelligence]] \(PI\) frameworks to create and train machine-learning solutions. Each framework delivers a different solution type for training the system to predict, recommend, and organize data outcomes.
+Use one of the Predictive Intelligence \(PI\) frameworks to create and train machine-learning solutions. Each framework delivers a different solution type for training the system to predict, recommend, and organize data outcomes.
 
 ## Types of solutions
 
@@ -38,7 +38,7 @@ Select the best framework for your desired prediction:
 
     **Note:** From the Washington DC release, support for creating new regression solutions was removed. You can still edit and train existing regression solutions, but you won't be able to initiate new ones.
 
-    Uses historic data to predict numeric outputs, such as estimating the time it takes to [[resolve-incident-aia|resolve an incident]] or case. See [Create and train a regression solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-regression-solution.md).
+    Uses historic data to predict numeric outputs, such as estimating the time it takes to resolve an incident or case. See [Create and train a regression solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-regression-solution.md).
 
 
 ## Selecting data records for training your solution
@@ -63,7 +63,3 @@ Predictions occur on a centralized prediction server within the same datacenter 
 
 For troubleshooting common training issues, see the [Predictive Intelligence Common issues \[KB781893\]](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0781893) article in the Now Support Knowledge Base.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[resolve-incident-aia|Resolve an incident]]

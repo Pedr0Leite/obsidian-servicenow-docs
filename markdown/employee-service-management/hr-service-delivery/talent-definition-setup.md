@@ -14,7 +14,7 @@ breadcrumb: [Configure, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Set up Talent Definition
 
-Create a [[talent-profile-landing|talent profile]] definition to [[opt-in-ta-tp|opt in to Talent Profile]].
+Create a talent profile definition to opt in to Talent Profile.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_ta\_hiring\_core.admin/ sn\_ta\_tp.talent\_profile\_admin
 
 2.  Select **New**.
 
-3.  On the [[talent-profile-def-form|Talent profile definition form]], fill in the fields.
+3.  On the Talent profile definition form, fill in the fields.
 
     For a description of the field values, see [Talent profile definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-profile-def-form.md).
 
@@ -45,8 +45,3 @@ Opt in to the Talent Profile.
 
 **Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]
-- [[opt-in-ta-tp|Opt in to Talent Profile]]
-- [[talent-profile-def-form|Talent profile definition form]]

@@ -20,7 +20,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Action Types** &gt; **Guidances**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Action Types** &gt; **Guidances**.
 
 2.  Select **New** in the Guidances list.
 
@@ -110,7 +110,3 @@ major case
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-nba|Recommended Actions]]

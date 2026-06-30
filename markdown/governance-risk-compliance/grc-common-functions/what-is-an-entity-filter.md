@@ -14,9 +14,9 @@ breadcrumb: [Entity types, Explore entities, Common GRC features, Governance, Ri
 
 # Entity filters
 
-[[entity-type-in-risk-ws|Entity types]] enable you to find and create entities that match a set of filter conditions. Entity types include predefined entity filters that define the data to be displayed in the user interface. The entity filter defines the table from which data is pulled into each entity type for display.
+Entity types enable you to find and create entities that match a set of filter conditions. Entity types include predefined entity filters that define the data to be displayed in the user interface. The entity filter defines the table from which data is pulled into each entity type for display.
 
-Entities in entity type are created based on the conditions set in the entity filter. You can create a new entity filter by navigating to the Entity types tab under the [[list-view-uib-ws|List view]].
+Entities in entity type are created based on the conditions set in the entity filter. You can create a new entity filter by navigating to the Entity types tab under the List view.
 
 The options in the **Entity filter** tab under the Entity type are revised so that **Build your own conditions** condition builder uses the same option that was used in the previous condition builder. In addition, the new **Select from predefined queries** option leverages the Configuration Management Database \(CMDB\) queries. The following options are now available in the Entity filters related list under Entity type:
 
@@ -31,19 +31,12 @@ The **Entity filters** tab displays the following information:
 -   Use owner field: Use the default owner to assign risks to a single user when the owner field is empty.
 -   Owner field: Person who owns any new entities generated from the entity type. Identify the user reference field on the source table to automatically identify risk and control owners.
 
-Use the new [[entity-class|Entity class]] field in the entity filters under the entity type to assign an entity class to an entity filter. When you use an entity filter to [[create-new-entity-ws|create an entity]], an entity class gets assigned to it automatically.
+Use the new Entity class field in the entity filters under the entity type to assign an entity class to an entity filter. When you use an entity filter to create an entity, an entity class gets assigned to it automatically.
 
 -   **[Create an entity filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-filter-ws.md)**  
-[[create-new-entity-filter-ws|Create an entity filter]] under an entity type in the workspace view. Entities in entity type are created based on the conditions set in the Entity Filter. The entity filter defines the table from which data is pulled into each entity type for display.
+Create an entity filter under an entity type in the workspace view. Entities in entity type are created based on the conditions set in the Entity Filter. The entity filter defines the table from which data is pulled into each entity type for display.
 -   **[Create an entity filter in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-entity-filter-in-classic-user-interface.md)**  
 Create an entity filter under an entity type in the classic user interface. The entity filter defines the table from which data is pulled into each entity type for display. If the entities belong to an application, the users who have access to the entity class that is associated with the entity can only view those entities.
 
 **Parent Topic:**[Entity types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-type-in-risk-ws.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[list-view-uib-ws|List view]]
-- [[entity-class|entity class]]
-- [[create-new-entity-ws|Create an entity]]
-- [[create-new-entity-filter-ws|Create an entity filter]]

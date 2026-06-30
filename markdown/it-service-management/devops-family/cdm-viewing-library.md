@@ -14,7 +14,7 @@ breadcrumb: [Sharing components among applications — Component libraries, Usin
 
 # Working on component libraries with a unified view
 
-The unified view of component libraries in the [[devops-config-landing-page|DevOps Config]] Workspace provides a single location to view and manage component libraries and the components within them.
+The unified view of component libraries in the DevOps Config Workspace provides a single location to view and manage component libraries and the components within them.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -22,7 +22,7 @@ Using the unified view, you can:
 
 -   Search for a component library or shared component.
 -   Navigate quickly between different component libraries or shared components.
--   View a list of all [[dex-workspace-application-tab|applications]] that use shared components of a library.
+-   View a list of all applications that use shared components of a library.
 -   Edit the config data of a library.
 -   View and create changesets for the library and components.
 -   View different versions of a shared component, and publish or unpublish them.
@@ -86,7 +86,3 @@ The following is an example of a shared component form in the DevOps Config Work
 
 \[Omitted image "cdm-component-form.png"\] Alt text: Shared component form.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

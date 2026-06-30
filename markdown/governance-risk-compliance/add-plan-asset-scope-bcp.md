@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Business Continuity Planning, Using BCM Cl
 
 # Add an asset to the scope of a business continuity plan
 
-Use the **Scope** tab to add an asset to the scope of the plan. If the [[bia-uib|business impact analysis]] \(BIA\) application is installed, you can view the primary elements defined in the plan template, its recovery time objective \(RTO\) and recovery point objective \(RPO\) details, and the business impact analysis.
+Use the **Scope** tab to add an asset to the scope of the plan. If the business impact analysis \(BIA\) application is installed, you can view the primary elements defined in the plan template, its recovery time objective \(RTO\) and recovery point objective \(RPO\) details, and the business impact analysis.
 
 ## Before you begin
 
@@ -59,6 +59,4 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 10. To remove an asset from the plan list, select the item and click **Remove**.
 
-## Related
 
-- [[bia-uib|Business impact analysis]]

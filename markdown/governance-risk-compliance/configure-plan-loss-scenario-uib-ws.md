@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Configure loss scenarios in the plan
 
-Configure a plan for an identified loss scenario by using the loss scenario template in the [[business-continuity-mangmt-overview|Business Continuity Management]] application. Use the documented plan that has the needs and requirements listed for a potential disaster.
+Configure a plan for an identified loss scenario by using the loss scenario template in the Business Continuity Management application. Use the documented plan that has the needs and requirements listed for a potential disaster.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Loss Scenarios**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Loss Scenarios**.
 
 2.  Select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[loss-scenario-record-form|Loss Scenario record form]].
+    For more information on the fields, see [Loss Scenario record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/loss-scenario-record-form.md).
 
     The example shows the details of a loss scenario.
 
@@ -42,11 +42,5 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 -   **[Loss Scenario record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/loss-scenario-record-form.md)**  
 Use the Loss Scenario record form in BCM UIB Workspace to configure a plan for an identified loss scenario.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[loss-scenario-record-form|Loss Scenario record form]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]

@@ -24,11 +24,11 @@ Role required: facilities admin
 
 2.  To help narrow your search results, you can select the campus, building, and floor number for your search.
 
-    **Note:** The facilities administrator configures the number of search results returned. See [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]].
+    **Note:** The facilities administrator configures the number of search results returned. See [Facilities visualization workbench configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_WorkbenchConfiguration.md).
 
     \[Omitted image "CampusFloorSelection.png"\] Alt text: Campus and floor selection
 
-    By default, facilities administrators can see all requests for the selected level displayed in the right side pane. Red pins \(\[Omitted image "RequestPin.png"\] Alt text: red pin icon shows where [[c_FacilitiesRequests|facilities requests]] for floor plan.\) depict those requests on the floor plan.
+    By default, facilities administrators can see all requests for the selected level displayed in the right side pane. Red pins \(\[Omitted image "RequestPin.png"\] Alt text: red pin icon shows where facilities requests for floor plan.\) depict those requests on the floor plan.
 
 3.  Continue with one of the following options.
 
@@ -73,10 +73,5 @@ Select **Assigned to me** check box.
     |**To see the location on the floor plan**|Click the pin \( \[Omitted image "PinIcon.png"\] Alt text: Pin icon that shows a location on floor plan.\) icon.|
 
 
-**Parent Topic:**[[c_FacilitiesWorkbench|Facilities Workbench]]
+**Parent Topic:**[Facilities Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesWorkbench.md)
 
-## Related
-
-- [[r_WorkbenchConfiguration|Facilities visualization workbench configuration]]
-- [[c_FacilitiesWorkbench|Facilities Workbench]]
-- [[c_FacilitiesRequests|Facilities requests]]

@@ -57,7 +57,7 @@ As part of the review process for **Improve average time to resolve an incident 
 The Improvement Manager also verified the improvement in two places before closing the improvement.
 
 -   Performance Analytics now shows that the **Average time to resolve an incident** KPI has a value of 16 hours, which is more improvement than the target value of 18 hours \(18 hours is 25% faster than the previous average of 24 hours\).
--   [[benchmarks-landing|Benchmarks]] application now shows that the company result for the **Average time to resolve an incident** KPI has a value of 16 hours, which is 2 hours better than the global industry average.
+-   Benchmarks application now shows that the company result for the **Average time to resolve an incident** KPI has a value of 16 hours, which is 2 hours better than the global industry average.
 
 <table id="table_b4w_hkj_4cb"><thead><tr><th>
 
@@ -177,7 +177,7 @@ Short description
 
 </td><td>
 
-Reduce the reassigned count by using ServiceNow Auto Categorization and Auto Assignment [[c_Models|models]]
+Reduce the reassigned count by using ServiceNow Auto Categorization and Auto Assignment models
 
 </td></tr><tr><td>
 
@@ -227,7 +227,3 @@ Work notes
 
 [Applications integrated with Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-integration.md)
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[c_Models|Models]]

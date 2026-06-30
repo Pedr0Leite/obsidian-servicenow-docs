@@ -14,7 +14,7 @@ breadcrumb: [Payment Operations, Banking applications, Financial Services Operat
 
 # Exploring Financial Services Payment Operations
 
-You can use the ServiceNow® [[payment-ops-landing-page|Financial Services Payment Operations]] application to create and manage requests for payment inquiries, claims, and debit approvals for your financial institution.
+You can use the ServiceNow® Financial Services Payment Operations application to create and manage requests for payment inquiries, claims, and debit approvals for your financial institution.
 
 Transform your financial institution's middle and back office payment operations through the following features:
 
@@ -46,11 +46,7 @@ The Financial Services Payment Operations application is aimed at the following 
 
 ## Payment dashboard
 
-Using actionable data visualizations in a preconfigured dashboard, you can improve your business processes and quantify the value of self-service. For more information, see [[payment-operations-dashboard|Payment Operations dashboard]].
+Using actionable data visualizations in a preconfigured dashboard, you can improve your business processes and quantify the value of self-service. For more information, see [Payment Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/payment-operations-dashboard.md).
 
 **Parent Topic:**[Financial Services Payment Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/payment-ops-landing-page.md)
 
-## Related
-
-- [[payment-operations-dashboard|Payment Operations dashboard]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]

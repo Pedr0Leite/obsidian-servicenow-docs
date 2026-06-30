@@ -14,7 +14,7 @@ breadcrumb: [Delivering enterprise assets, Managing work orders for your enterpr
 
 # Record time worked on Drop off and Receive tasks for enterprise assets
 
-Manage and record time worked on Drop off and [[receive-rma-asset|Receive asset]] tasks in the [[using-eam-workspace|Enterprise Asset Workspace]]. After you start work on a task, you can pause and resume work. You can also record the time worked manually.
+Manage and record time worked on Drop off and Receive asset tasks in the Enterprise Asset Workspace. After you start work on a task, you can pause and resume work. You can also record the time worked manually.
 
 -   **[Record time worked on a Drop off task or Receive task manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/record-time-manual-drop-receive.md)**  
 Create an entry for the time worked on a Drop off or a Receive task manually in the Enterprise Asset Workspace.
@@ -32,7 +32,3 @@ Record a break from a Drop off or Receive task in the Enterprise Asset Workspace
 
 [Verify the enterprise assets received through a Drop off task]()
 
-## Related
-
-- [[receive-rma-asset|Receive asset]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

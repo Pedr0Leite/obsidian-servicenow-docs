@@ -18,7 +18,7 @@ Set up scheduled import jobs to pull in data from a GCP project into your CMDB.
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -31,11 +31,11 @@ Dependencies and requirements:
 -   The Datastream Action plugin \(com.glide.hub.action\_type.datastream\), which is automatically installed.
 -   Observability Commons for CMDB \(sn\_observability\), which is only required for event ingestion. This app must be installed prior to installing the connector for Event Management to work. For more information, see [Observability Commons for CMDB](https://store.servicenow.com/sn_appstore_store.do#!/store/application/97e04562072020107add6a77c4a9351a) on the ServiceNow Store.
 
-**Note:** If you have an earlier version of the [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]], then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
+**Note:** If you have an earlier version of the Service Graph Connector for GCP, then don’t migrate data from the old connector. You must uninstall the previous version and run the new integration.
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## Procedure
 
@@ -97,7 +97,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Service Account [[email|Email]]
+Service Account Email
 
 </td><td>
 
@@ -165,7 +165,7 @@ Select **projects** when the ServiceNow service account has access to data withi
 
             For more information, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md#table_r53_5hm_xp).
 
-        4.  Select **Active** [[check-box|check box]] to activate the SG-GCP Organization scheduled job.
+        4.  Select **Active** check box to activate the SG-GCP Organization scheduled job.
         5.  In the **Run** field, select **Periodically** to specify how often the job will run.
         6.  Select **Update**.
         7.  Return to the guided setup page.
@@ -336,7 +336,7 @@ Select **projects** when the ServiceNow service account has access to data withi
 
     10. For the Configure connection properties task, select **Configure**.
 
-    11. On the SG-GCP Configuration [[properties-form-survey-designer|Properties form]], select the connection for which you want to run deep discovery from the **Connection** list.
+    11. On the SG-GCP Configuration Properties form, select the connection for which you want to run deep discovery from the **Connection** list.
 
         In the Properties section of the SG-GCP Configuration Properties form, the following fields are populated with the values for the connection that you selected. If required, update the field values.
 
@@ -364,12 +364,3 @@ Select **projects** when the ServiceNow service account has access to data withi
 
 [Deep discovery for Service Graph Connector for GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-gcp-deep-discovery.md)
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[email|Email]]
-- [[check-box|Check box]]
-- [[properties-form-survey-designer|Properties form]]

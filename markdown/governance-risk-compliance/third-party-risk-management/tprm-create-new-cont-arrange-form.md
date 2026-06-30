@@ -14,7 +14,7 @@ breadcrumb: [Create a contract and enhance digital resilience data, Use digital 
 
 # Create New Contractual arrangement form
 
-On the [[create-new-cont-arrange-form|Create New Contractual arrangement form]], fill in the fields.
+On the Create New Contractual arrangement form, fill in the fields.
 
 ## Create New Contractual arrangement form
 
@@ -747,7 +747,3 @@ Supplementary details on the identification of alternative ICT third-party provi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-cont-arrange-form|Create New Contractual arrangement form]]

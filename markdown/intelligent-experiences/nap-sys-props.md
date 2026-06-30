@@ -12,16 +12,12 @@ breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
 
 # Now Assist panel system properties
 
-Use system properties to customize [[now-assist-center-now-assist-panel|Now Assist panel]]. Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table.
+Use system properties to customize Now Assist panel. Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table.
 
 |Property|Description|
 |--------|-----------|
 |sn\_nowassist\_va\_enable\_nap\_aix\_experience|Enabled and integrated chat is available for customers to choose from.|
 |sn\_nowassist\_va\_enable\_nap\_aix\_experience|Disabled, integrated chat is not available for customers to choose from.|
 
-**Parent Topic:**[[now-assist-reference-landing|Now Assist reference]]
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
-## Related
-
-- [[now-assist-reference-landing|Now Assist reference]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

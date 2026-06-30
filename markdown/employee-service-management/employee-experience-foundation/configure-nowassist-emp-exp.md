@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Employee Experience, Unified Employee Experience, Em
 
 # Configure Now Assist for Employee Experience
 
-If you have the admin role, you can configure the [[now-assisit-employee-exp|Now Assist for Employee Experience]] application so that employees can use Now Assist in Virtual Agent to quickly check the status of their work through conversations.
+If you have the admin role, you can configure the Now Assist for Employee Experience application so that employees can use Now Assist in Virtual Agent to quickly check the status of their work through conversations.
 
 ## To-do configuration and skills
 
@@ -52,6 +52,3 @@ Role required: admin
 
 The Now Assist for Employee Experience is installed.
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]

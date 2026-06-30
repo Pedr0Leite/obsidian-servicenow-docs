@@ -14,7 +14,7 @@ breadcrumb: [Benchmarks, IT Service Management]
 
 # Exploring Benchmarks
 
-Use [[benchmarks-landing|Benchmarks]] for ITSM to get a comparative insight relative to industry averages of your peers and to the industry top performers. With Benchmarks get a quick visibility into your key performance indicators \(KPIs\) and trends.
+Use Benchmarks for ITSM to get a comparative insight relative to industry averages of your peers and to the industry top performers. With Benchmarks get a quick visibility into your key performance indicators \(KPIs\) and trends.
 
 The ServiceNow Benchmarks application securely collects daily data on your instance and then aggregates the data into monthly global benchmark reports.
 
@@ -49,7 +49,7 @@ Managed Service Providers \(MSPs\) and MSP-managed instances are supported and h
 
 ## Key features
 
--   Available KPIs from other ServiceNow [[dex-workspace-application-tab|applications]] such as ITSM, ITOM, Security Operations. For more information, see [[c_BenchKPIConfig-cf|Benchmark KPIs]].
+-   Available KPIs from other ServiceNow applications such as ITSM, ITOM, Security Operations. For more information, see Benchmark KPIs.
 -   Ability to change KPI definitions to match customizations.
 -   Benchmarks dashboard in Service Portal \(mobile friendly\).
 -   Ability to download KPI reports.
@@ -122,9 +122,3 @@ Benchmarks reports get refreshed monthly, which can be downloaded in PDF format.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_BenchKPIConfig-cf|Benchmark KPIs]]

@@ -16,7 +16,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 View Configuration Compliance test results for auditing and remediation. The test results are automatically created during third-party vulnerability integration imports.
 
-**Important:** You can view the test results created during the third-party vulnerability integration imports in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]. For more information, see [List page in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-list-page.md).
+**Important:** You can view the test results created during the third-party vulnerability integration imports in the Vulnerability Manager Workspace. For more information, see [List page in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-list-page.md).
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required:
 
 ## About this task
 
-[[vr-config-compliance-landing|Configuration Compliance]] does not create or update the test results, but imports them as part of a third-party integration. Once they are viewable in Configuration Compliance, they are remediated using **Test Result Groups**.
+Configuration Compliance does not create or update the test results, but imports them as part of a third-party integration. Once they are viewable in Configuration Compliance, they are remediated using **Test Result Groups**.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -279,8 +279,3 @@ Related list of test results that show the history of pass/fail results for the 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

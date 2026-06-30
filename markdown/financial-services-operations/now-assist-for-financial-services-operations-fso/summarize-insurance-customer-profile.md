@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operation
 
 # Summarize an insurance customer profile in Agentic Contact Center for Insurance
 
-Generate an AI-powered summary of an insurance customer's profile and policy status in the [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] Customer 360 page so that you can quickly understand the customer's insurance relationship before or during a service interaction.
+Generate an AI-powered summary of an insurance customer's profile and policy status in the Agentic Contact Center for Insurance Customer 360 page so that you can quickly understand the customer's insurance relationship before or during a service interaction.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ The summary is displayed in the **Customer summary** section of the Customer 360
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open a customer record to display the Customer 360 page.
 
@@ -55,7 +55,3 @@ To get additional AI-powered insights about the customer's insurance details, se
 
 [Generate customer insights in the Customer 360 page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/generate-insurance-customer-insights-customer-360.md)
 
-## Related
-
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[fso-overview|Financial Services]]

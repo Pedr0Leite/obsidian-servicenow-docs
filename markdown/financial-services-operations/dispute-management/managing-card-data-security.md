@@ -15,7 +15,7 @@ breadcrumb: [Card Data Security, Dispute Management, Banking applications, Finan
 
 # Managing Card data security
 
-[[card-data-security|Card data security]] integrates with a service to enable tokenization and detokenization of data configured for Dispute Cases and Dispute Transactions. Administrators can manage connections and create new routes and methods in the application.
+Card data security integrates with a service to enable tokenization and detokenization of data configured for Dispute Cases and Dispute Transactions. Administrators can manage connections and create new routes and methods in the application.
 
 -   **[Manage the schema and connections in the tokenizer service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-outbound-connections.md)**  
 You can modify the schema and connection properties in our tokenizer service. Manage the vault columns and properties, and customize the data sent and received from the Third-Party System, such as additional routes and field values.
@@ -26,6 +26,3 @@ Configure settings in our tokenizer service and your ServiceNow instance to set 
 
 **Parent Topic:**[Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/card-data-security.md)
 
-## Related
-
-- [[card-data-security|Card Data Security]]

@@ -16,7 +16,7 @@ breadcrumb: [Major Incident Management in Service Operations Workspace, Managing
 
 Manage a major incident record with a playbook or the various tabs on the major incident record page.
 
-Based on the information displayed on different tabs, an agent can [[propose-major-incident-sow|propose a major incident]] using the **Propose Major Incident** option. A major incident manager reviews the information on the **Overview** tab, such as the location information, and then accepts or rejects the major incident proposal. After a proposal is accepted, the major incident manager uses the **Promote Major Incident** option to promote the candidate to a major incident.
+Based on the information displayed on different tabs, an agent can propose a major incident using the **Propose Major Incident** option. A major incident manager reviews the information on the **Overview** tab, such as the location information, and then accepts or rejects the major incident proposal. After a proposal is accepted, the major incident manager uses the **Promote Major Incident** option to promote the candidate to a major incident.
 
 After an incident is promoted to a major incident, each tab on a Major Incident record page contains information about the major incident. You can use the various options and the action menu to manage the major incident process and view incident information on the following:
 
@@ -62,7 +62,7 @@ After an incident is promoted to a major incident, each tab on a Major Incident 
 
 -   **Playbook tab**
 
-    The **Playbook** tab displays the information of the playbooks available for Major [[c_IncidentManagement|Incident Management]]. For each playbook, you can select to work with the playbook to manage major incidents. For more information, see [Managing major incidents using playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-mi-playbook-sow.md).
+    The **Playbook** tab displays the information of the playbooks available for Major Incident Management. For each playbook, you can select to work with the playbook to manage major incidents. For more information, see [Managing major incidents using playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-mi-playbook-sow.md).
 
 -   **Contextual side panel options**
 
@@ -71,7 +71,7 @@ After an incident is promoted to a major incident, each tab on a Major Incident 
     -   Major Incident Playbook – Select the **Major Incident Playbook** \(\[Omitted image "mim-playbook-icon.png"\] Alt text: Major incident playbook\) icon to launch the playbook side panel. The playbook provides a guided approach to the entire major incident process. It provides a way to visualize business process workflows for major incidents in a simple, task-oriented view. The playbook contains the following two tabs:
         -   Current – List of major incident playbooks running currently.
         -   History – Historical list of major incident playbooks.
-    -   Recommended actions – Select the **Recommended Actions** \(\[Omitted image "mim-sow-ra-itsm.png"\] Alt text: Recommended actions for ITSM\) icon to launch the **View recommendation** side panel. The side panel lists all the recommended actions for major incidents. When an incident is promoted to a major incident and doesn’t have a problem record associated with it, this tab displays a card with the **[[create-a-problem-v2|Create a problem]]** option to create a problem record.
+    -   Recommended actions – Select the **Recommended Actions** \(\[Omitted image "mim-sow-ra-itsm.png"\] Alt text: Recommended actions for ITSM\) icon to launch the **View recommendation** side panel. The side panel lists all the recommended actions for major incidents. When an incident is promoted to a major incident and doesn’t have a problem record associated with it, this tab displays a card with the **Create a problem** option to create a problem record.
 
         You can also configure whether the incident field information is copied automatically when a problem record is created by using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property. For more information, see [Create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-a-problem-v2.md).
 
@@ -105,8 +105,3 @@ Review a post incident report \(PIR\) using the **Post Incident Report** tab. A 
 
 **Parent Topic:**[Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/mim-in-sow.md)
 
-## Related
-
-- [[propose-major-incident-sow|Propose a major incident]]
-- [[c_IncidentManagement|Incident Management]]
-- [[create-a-problem-v2|Create a problem]]

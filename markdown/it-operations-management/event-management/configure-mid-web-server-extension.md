@@ -14,7 +14,7 @@ breadcrumb: [MID Web Server, Event Management setup, Configuring Event Managemen
 
 # Configure the MID Web Server extension
 
-The [[mid-web-server|MID Web Server]] is a MID Server extension that enables developing REST APIs to send events and metrics to the MID Server. The extension is leveraged by other MID Server extensions, such as [[operational-metrics|Metric Intelligence]], MID WebService Event Listener, and the [[acc-landing-page|Agent Client Collector]] websocket endpoint extension.
+The MID Web Server is a MID Server extension that enables developing REST APIs to send events and metrics to the MID Server. The extension is leveraged by other MID Server extensions, such as Metric Intelligence, MID WebService Event Listener, and the Agent Client Collector websocket endpoint extension.
 
 ## Before you begin
 
@@ -47,8 +47,4 @@ Agent Client Collector supports the following authentication strategies:
 
 7.  In the **Related Links** section, click **Start** to start the extension.
 
-## Related
 
-- [[mid-web-server|MID Web Server]]
-- [[operational-metrics|Metric Intelligence]]
-- [[acc-landing-page|Agent Client Collector]]

@@ -14,7 +14,7 @@ breadcrumb: [Monitor risks using GRC Performance Analytics Indicators, Use, Risk
 
 # Activate GRC: Performance Analytics Integration
 
-The GRC: Performance Analytics Integration plugin provides an integration between Performance Analytics and the Risk Management and [[r_PolicyComplianceMgmt|Policy and Compliance Management]] applications. This plugin provides more insight into organizational risk and compliance performance.
+The GRC: Performance Analytics Integration plugin provides an integration between Performance Analytics and the Risk Management and Policy and Compliance Management applications. This plugin provides more insight into organizational risk and compliance performance.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ After activating the GRC: Performance Analytics Integration plugin on an instanc
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Define a custom encryption rule, Configuring Edge Encryption, Edge 
 
 # Inspect the client request
 
-Before creating a custom [[encryption-landing|encryption]] rule, you must determine the format of the client [[c_requestAPI|request]] entering the [[edge-encryption|Edge Encryption]] proxy server.
+Before creating a custom encryption rule, you must determine the format of the client request entering the Edge Encryption proxy server.
 
 ## Before you begin
 
@@ -79,8 +79,3 @@ Inspecting the request provides an understanding of the fields you need to filte
 
 **Parent Topic:**[Define a custom encryption rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionRules.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[edge-encryption|Edge Encryption]]

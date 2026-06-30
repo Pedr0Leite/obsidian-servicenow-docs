@@ -26,7 +26,7 @@ You can apply several user criteria records to a single catalog item or category
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **User Criteria** and create a record.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **User Criteria** and create a record.
 
 2.  Fill in the fields on the form, as appropriate.
 
@@ -80,7 +80,7 @@ Advanced
 
 </td><td>
 
-A [[check-box|check box]] to display or hide the **Script** field.
+A check box to display or hide the **Script** field.
 
 </td></tr><tr><td>
 
@@ -177,7 +177,3 @@ When creating user criteria for your system, consider the following recommendati
     -   Users with role itil, asset\_manager, or catalog\_admin
 -   Test user criteria on a development or test instance, and then transfer the records from the user criteria tables and catalog records to your production instance using [update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets.md).
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

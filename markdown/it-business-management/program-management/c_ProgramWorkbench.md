@@ -29,7 +29,7 @@ The program workbench comprises of the following components:
 
 **Fiscal period**: A choice list on the top-right to select the fiscal year for which you monitor the program.
 
-**Timeline View**: Shows a list of all the selected demands and projects that are part of the program, and a [[c_GanttChart|Gantt chart]] of all projects and demands over time.
+**Timeline View**: Shows a list of all the selected demands and projects that are part of the program, and a Gantt chart of all projects and demands over time.
 
 You can:
 
@@ -52,7 +52,7 @@ You can:
 
 **Cost \(Planned vs. Actual\)**: The chart displays the actual costs from all projects in the program compared to the approved budget. The actual cost for projects is derived from the [expense lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAExpenseLine.md).
 
-**Note:** An expense line can be created manually for a project when a specific expense is incurred. For example, if hardware is procured for a project, an expense line can be created for the amount spent on procuring the hardware. If you receive an item using ServiceNow Procurement, an expense line is created automatically. For resource hours, the expense lines are created automatically when the [[c_TimeCards|time cards]] for the project are approved.
+**Note:** An expense line can be created manually for a project when a specific expense is incurred. For example, if hardware is procured for a project, an expense line can be created for the amount spent on procuring the hardware. If you receive an item using ServiceNow Procurement, an expense line is created automatically. For resource hours, the expense lines are created automatically when the time cards for the project are approved.
 
 The display settings for the chart can be modified by selecting any of the following from the choice list:
 
@@ -60,14 +60,14 @@ The display settings for the chart can be modified by selecting any of the follo
 -   **Opex**: Displays the cost chart for operating expense only.
 -   **All**: Displays the cost chart for both capital and operating expenses.
 
-**Resource \(Allocated vs. Actual\)**: The chart displays the actual resource time spent on all [[t_CreateAProjectTask|project tasks]] versus the resource hours allocated to execute the projects and demands in the program. The actual time spent is taken from processed time cards for the projects.
+**Resource \(Allocated vs. Actual\)**: The chart displays the actual resource time spent on all project tasks versus the resource hours allocated to execute the projects and demands in the program. The actual time spent is taken from processed time cards for the projects.
 
 \[Omitted image "ProgramWorkbenchExample1.png"\] Alt text: Timeline view tab in program workbench
 
 \[Omitted image "ProgramWorkbenchExample2.png"\] Alt text: Project KPI tab in program workbench
 
 -   **[Access the program workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_AccessTheProgramWorkbench.md)**  
-When you [[t_AccessTheProgramWorkbench|access the program workbench]], it displays a list of all the programs.
+When you access the program workbench, it displays a list of all the programs.
 
 **Parent Topic:**[Program Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagement.md)
 
@@ -78,9 +78,3 @@ When you [[t_AccessTheProgramWorkbench|access the program workbench]], it displa
 
 [Program Dashboard]()
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[c_TimeCards|Time cards]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[t_AccessTheProgramWorkbench|Access the program workbench]]

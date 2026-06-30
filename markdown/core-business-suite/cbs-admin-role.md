@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Assign the CBS admin role
 
-Assign the CBS Admin role to grant users full administrative access to configure [[cbs-landing|Core Business Suite]].
+Assign the CBS Admin role to grant users full administrative access to configure Core Business Suite.
 
 ## Before you begin
 
@@ -35,9 +35,5 @@ Role required: admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

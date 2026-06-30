@@ -20,8 +20,5 @@ Task windows can be flexible or fixed, and are used by the route optimization an
 
 For more information on creating work order tasks, see [Create a work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrderTask.md).
 
-For more information on [[dynamic-sched-task-window-dates|Work order task start and end dates]], see [Work order task start and end dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-task-window-dates.md).
+For more information on Work order task start and end dates, see [Work order task start and end dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-task-window-dates.md).
 
-## Related
-
-- [[dynamic-sched-task-window-dates|Work order task start and end dates]]

@@ -14,11 +14,11 @@ breadcrumb: [Setting up your product catalog, Setting up primary data Shopping, 
 
 # Add a supplier product bundle
 
-Add a supplier product bundle, which may include several products or services from the same [[supplier|supplier]]. You can also add sub-bundles to the main bundle.
+Add a supplier product bundle, which may include several products or services from the same supplier. You can also add sub-bundles to the main bundle.
 
 ## Before you begin
 
-A bundled model is a single model comprised of individual models. For example, a laptop, printer, keyboard, and mouse can be combined into a single bundled model. For this bundled model to appear in the [[shopping-hub-overview|Shopping Hub]] portal, you have to create a supplier product for the same. Once the supplier product is created and published, it will be available for purchase in Shopping Hub. For more information on how to create bundled models, see [Bundled models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_CreatingBundledModels.md).
+A bundled model is a single model comprised of individual models. For example, a laptop, printer, keyboard, and mouse can be combined into a single bundled model. For this bundled model to appear in the Shopping Hub portal, you have to create a supplier product for the same. Once the supplier product is created and published, it will be available for purchase in Shopping Hub. For more information on how to create bundled models, see [Bundled models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_CreatingBundledModels.md).
 
 Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administrator
 
@@ -32,7 +32,7 @@ You can add a supplier product bundle and choose to publish it on the Shopping H
 
 1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Supplier Products** &gt; **Published Products**.
 
-    You can also navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **Supplier Product**.
+    You can also navigate to **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Supplier Product**.
 
 2.  Select **New**.
 
@@ -58,15 +58,7 @@ You can add a supplier product bundle and choose to publish it on the Shopping H
 
 ## What to do next
 
-Use the related lists of the supplier product form to view the [[pricing|pricing]], [[purchase-order-lines|purchase order lines]], product visuals, and [[ledger-assignment-rules|ledger assignment rules]] that are associated with this supplier product bundle.
+Use the related lists of the supplier product form to view the pricing, purchase order lines, product visuals, and ledger assignment rules that are associated with this supplier product bundle.
 
 **Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[pricing|Pricing]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[ledger-assignment-rules|Ledger assignment rules]]

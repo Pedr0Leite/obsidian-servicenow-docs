@@ -20,7 +20,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can create custom event types and add or remove the desired fields. For more information, see [[setup-scheduling-configurable-wfo-cs|Create event types to display them on the team calendar]].
+You can create custom event types and add or remove the desired fields. For more information, see [Create event types to display them on the team calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-scheduling-configurable-wfo-cs.md).
 
 ## Procedure
 
@@ -84,9 +84,5 @@ In the **Attendees** field, start typing the name of each of the attendees for t
 </table>6.  Click **Save**.
 
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-scheduling-configurable-wfo-cs|Setting up Scheduling in Workforce Optimization for Customer Service]]
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]

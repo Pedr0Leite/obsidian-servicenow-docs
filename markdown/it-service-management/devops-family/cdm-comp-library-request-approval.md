@@ -18,7 +18,7 @@ Review a request for adding a component to a component library and approve or re
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Someone has requested to add a local component from an application to the component library as a shared component. If there are such requests in a library that need your approval, you see a **Requests** label \(\[Omitted image "cdm-comp-library-request.png"\] Alt text: The Requests label beside the library name in the list.\) beside the library name.
 
@@ -95,6 +95,3 @@ Description
     -   If you selected **Publish version** in the **Additional actions** field, then the shared component is published.
 -   If the request is rejected, the state of the request updates to Rejected.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

@@ -14,7 +14,7 @@ breadcrumb: [NIST RMF Use Case Accelerator, GRC use case accelerators, Common GR
 
 # Verify the NIST RMF Use Case Accelerator
 
-After installing the GRC: [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]], review the NIST RMF application structure, core content, and demo data, if selected during installation.
+After installing the GRC: NIST RMF Use Case Accelerator, review the NIST RMF application structure, core content, and demo data, if selected during installation.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User [[Administration|Administration]]** &gt; **Roles** and review the roles installed with the NIST RMF application.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Roles** and review the roles installed with the NIST RMF application.
 
     These roles contain nist\_rmf in their names; for example, sn\_irm\_nist\_rmf.security\_officer. The roles are associated with NIST RMF application modules to provide access based on the user's role.
 
@@ -62,7 +62,3 @@ Role required: admin
 
 **Parent Topic:**[NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-and-nistrmf-usecase-accelerator.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[Administration|Administration]]

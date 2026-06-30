@@ -40,22 +40,17 @@ The manager of an internal business location can access all the cases for accoun
 
 2.  Select **New** on the Internal Business Locations list.
 
-3.  Fill in the fields on the [[data-model-business-location-form|Internal Business Location]] form.
+3.  Fill in the fields on the [Internal Business Location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/data-model-business-location-form.md) form.
 
 4.  Select **Submit**.
 
     The location is added to the Internal Business Locations list.
 
-    After creating an internal business location, add staff members to it. You can then [[configure-data-model-relationships|create relationships]] with accounts, households, and consumers, and track customers served by that location.
+    After creating an internal business location, add staff members to it. You can then create relationships with accounts, households, and consumers, and track customers served by that location.
 
 
 **Related topics**  
 
 
-[[create-external-business-location|Create an external business location]]
+[Create an external business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-external-business-location.md)
 
-## Related
-
-- [[data-model-business-location-form|Internal Business Location form]]
-- [[create-external-business-location|Create an external business location]]
-- [[configure-data-model-relationships|Create relationships]]

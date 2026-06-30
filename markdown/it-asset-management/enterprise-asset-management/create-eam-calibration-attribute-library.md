@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Create a calibration attribute library
 
-Create a library of common calibration attributes that are not associated with any enterprise [[c_Models|models]] or enterprise assets. Use these attributes to define the details and requirements of your commonly used calibrations.
+Create a library of common calibration attributes that are not associated with any enterprise models or enterprise assets. Use these attributes to define the details and requirements of your commonly used calibrations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can create common calibration attributes that are not associated with any en
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Admin center view.
+1.  From the Enterprise Asset Workspace, open the Admin center view.
 
 2.  From the left navigation menu of the Admin center view, navigate to **Calibration** &gt; **Attribute library**.
 
@@ -84,7 +84,7 @@ Category
 
 </td><td>
 
-Type of calibration.**Note:** The [[enterprise-asset-management|Enterprise Asset Management]] application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories. For detailed instructions, see [Create a calibration category for your enterprise asset calibrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-categories.md).
+Type of calibration.**Note:** The Enterprise Asset Management application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories. For detailed instructions, see [Create a calibration category for your enterprise asset calibrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-categories.md).
 
 </td></tr><tr><td>
 
@@ -214,8 +214,3 @@ General instructions or instrument settings that you must follow when performing
 
 Clone the calibration attribute to all applicable enterprise models. See [Clone calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/clone-calibration-attributes-enterprise-model.md) for detailed instructions.
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

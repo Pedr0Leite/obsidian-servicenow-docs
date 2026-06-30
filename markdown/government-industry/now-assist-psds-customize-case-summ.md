@@ -12,7 +12,7 @@ breadcrumb: [Activate Now Assist skills, Configure, Now Assist for PSDS, Public 
 
 # Configure the Government case summarization skill in Now Assist for Public Sector Digital Services \(PSDS\)
 
-Activate and customize the Government case summarization skill in the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application so that government service agents can use the generative AI skills in CSM Configurable Workspace and in Public Sector Digital Services Core UI.
+Activate and customize the Government case summarization skill in the Now Assist for Public Sector Digital Services \(PSDS\) application so that government service agents can use the generative AI skills in CSM Configurable Workspace and in Public Sector Digital Services Core UI.
 
 ## About this task
 
@@ -48,7 +48,7 @@ Role required: admin
 
 7.  In the General details step, fill in the fields.
 
-    For information about the inputs and triggers for each skill, see [[now-assist-psds-skill-inputs|Skill inputs for Now Assist for Public Sector Digital Services \(PSDS\)]].
+    For information about the inputs and triggers for each skill, see [Skill inputs for Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-skill-inputs.md).
 
     1.  Enter a name and description for the skill.
 
@@ -212,7 +212,4 @@ Resolved
 
     \[Omitted image "case-summarization-activate-now-assist-psds.png"\] Alt text: Review and activate step for Now Assist case summarization.
 
-## Related
 
-- [[now-assist-psds-skill-inputs|Skill inputs for Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

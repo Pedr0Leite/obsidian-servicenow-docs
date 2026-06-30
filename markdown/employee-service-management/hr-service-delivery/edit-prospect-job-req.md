@@ -22,15 +22,15 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Go to the **Job requisition** tab.
 
 3.  Select the required job requisition.
 
-4.  On the **Prospects** tab, select the [[talent-profile-landing|talent profile]] to be edited.
+4.  On the **Prospects** tab, select the talent profile to be edited.
 
-    You can also select the talent profile from the All Talent section in the **[[talent-pool-overview|Talent pool]]** tab on Recruitment workspace.
+    You can also select the talent profile from the All Talent section in the **Talent pool** tab on Recruitment workspace.
 
 5.  Select **Edit candidate**.
 
@@ -45,8 +45,3 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 **Parent Topic:**[Job prospects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/job-leads.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-profile-landing|Talent Profile]]
-- [[talent-pool-overview|Talent pool]]

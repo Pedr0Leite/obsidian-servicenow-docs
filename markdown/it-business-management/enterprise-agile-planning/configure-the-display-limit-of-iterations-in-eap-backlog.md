@@ -18,7 +18,7 @@ Create a system property to modify the limit on the number of iterations display
 
 ## Before you begin
 
-Ensure the application scope in your instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure the application scope in your instance is set to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -44,6 +44,4 @@ By default, the number of iterations shown in the Backlog page for an EAP Team i
 
 4.  Select **Submit**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # View OT devices not assigned to a site
 
-View the list of [[operational-technology-overview|Operational Technology]] \(OT\) devices that aren't assigned to a site.
+View the list of Operational Technology \(OT\) devices that aren't assigned to a site.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ The OT devices are assigned to a site but not mapped to an equipment model entit
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

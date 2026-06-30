@@ -30,9 +30,9 @@ The key personas \(customer service agents, network operations center \(NOC\) en
 
 -   View the service offering associated with the sold product. The sold product references the service offering.
 
-    \[Omitted image "csm-agents-sold-products.png"\] Alt text: CSM agents view service offering details for [[sold-product|sold products]].
+    \[Omitted image "csm-agents-sold-products.png"\] Alt text: CSM agents view service offering details for sold products.
 
--   View the health status of [[install-base-item|Install Base Items]]
+-   View the health status of Install Base Items
 
     \[Omitted image "csm-agents-view-health.png"\] Alt text: CSM agents can view the health status of Install Base Items.
 
@@ -103,42 +103,27 @@ The key personas \(customer service agents, network operations center \(NOC\) en
 
 For more information about the relevant CSM features and tasks, see the following topics:
 
-[[configure-form-views-spm-csm|Configure form views for Service Portfolio Management integration]]
-
-[[view-product-info-csp|View product information from the Customer Service Portal]]
-
-[[case-alert-workspace|Create a proactive case from an alert]]
-
-[[create-case-install-base|Create a case for install base from the Customer Service homepage]]
-
-[[proactive-service-operations|Proactive Customer Service Operations]]
-
-[[service-health-pcso|Service health status for install base]]
-
-[[configure-install-base|Configure install base]]
-
-[[outage-tracking-csm|Outage tracking for install base]]
-
-[[view-install-base-info|View install base information from the Customer Service Portal]]
-
-[[install-base-aw-csm|View install base information in Agent Workspace]]
+[Configure form views for Service Portfolio Management integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-form-views-spm-csm.md)
 
 [View product information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-product-info-csp.md)
 
-[[view-sold-product-info-workspace|View sold product information in Agent Workspace]]
+[Create a proactive case from an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-alert-workspace.md)
 
-## Related
+[Create a case for install base from the Customer Service homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-install-base.md)
 
-- [[configure-form-views-spm-csm|Configure form views for Service Portfolio Management integration]]
-- [[view-product-info-csp|View product information from the Customer Service Portal]]
-- [[case-alert-workspace|Create a proactive case from an alert]]
-- [[create-case-install-base|Create a case for install base from the Customer Service homepage]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[service-health-pcso|Service health status for install base]]
-- [[configure-install-base|Configure install base]]
-- [[outage-tracking-csm|Outage tracking for install base]]
-- [[view-install-base-info|View install base information from the Customer Service Portal]]
-- [[install-base-aw-csm|View the install base in CSM Configurable Workspace]]
-- [[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
+[Proactive Customer Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/proactive-service-operations.md)
+
+[Service health status for install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-health-pcso.md)
+
+[Configure install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-install-base.md)
+
+[Outage tracking for install base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/outage-tracking-csm.md)
+
+[View install base information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-install-base-info.md)
+
+[View install base information in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-base-aw-csm.md)
+
+[View product information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-product-info-csp.md)
+
+[View sold product information in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-sold-product-info-workspace.md)
+

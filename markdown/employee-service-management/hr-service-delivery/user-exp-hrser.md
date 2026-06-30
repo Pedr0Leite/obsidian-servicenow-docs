@@ -14,7 +14,7 @@ breadcrumb: [Integration of HR Service Delivery with ServiceNow applications, HR
 
 # User Experience for HR Service Delivery
 
-[[ued-ec|Usage Insights dashboard]] provides dashboard views for monitoring the key performance indicators \(KPIs\) of web applications built on the Employee Service Portal.
+Usage Insights dashboard provides dashboard views for monitoring the key performance indicators \(KPIs\) of web applications built on the Employee Service Portal.
 
 You can access the dashboard from Dashboard and Reporting. Monitor key performance indicators of the users experiences to create more intuitive user journeys. Click the respective session for a detailed analysis.
 
@@ -86,6 +86,3 @@ See the analytics about usage, technical, geographic, events, retention, and mor
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[ued-ec|Usage Insights dashboard]]

@@ -12,7 +12,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Order Characteristics form
 
-The Order Characteristics form enables you to review and [[Modify|modify]] order characteristics for a customer or service order.
+The Order Characteristics form enables you to review and modify order characteristics for a customer or service order.
 
 <table id="table_as2_qdv_t4b"><thead><tr><th>
 
@@ -55,9 +55,5 @@ Characteristic option
 Name of the characteristic option. For example, Unlimited, for the Data Pack Unlimited option. To view and update the characteristic option details, select the characteristic option. These values include the name of the characteristic option and the associated characteristics.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[Modify|Modify]]

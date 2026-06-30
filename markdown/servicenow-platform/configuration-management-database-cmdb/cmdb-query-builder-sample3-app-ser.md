@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[cmdb-query-builder-landing-page|CMDB Query Builder]]** and then select **Create new**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CMDB Query Builder** and then select **Create new**.
 
 2.  Enter `All hardware in my service offering that has Windows installed` as the query name.
 
@@ -36,7 +36,7 @@ Role required: none
     -   **Service Offering**
     -   **Application Service**
     -   Searching for infrastructure, **Hardware**
-5.  [[c_Connect|Connect]] the Service node to the Service Offering node.
+5.  Connect the Service node to the Service Offering node.
 
     In the Properties sidebar, select **Add Relationship Type** and select the **Connect to::Connected by** relationship.
 
@@ -64,7 +64,7 @@ Role required: none
 
 14. Connect the Hardware node to the Software Instance node.
 
-    In the Properties right-side bar, set **Use CI [[reference|reference]] column** to **Installed on**.
+    In the Properties right-side bar, set **Use CI reference column** to **Installed on**.
 
 15. Point to the Software Instance node, and select on the **Apply filters** icon that appears.
 
@@ -76,8 +76,4 @@ Role required: none
 
 17. Select **Run** and review the new results.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Care Team Operations for Environmental Services, Healthc
 
 The Healthcare EVS Case \[sn\_cto\_evs\_case\] enables streamlined support for environmental services support use cases.
 
-It extends the [[hcls-cto-app|Healthcare Operations Core]] case.
+It extends the Healthcare Operations Core case.
 
 |Field|Description|
 |-----|-----------|
@@ -36,6 +36,3 @@ It extends the [[hcls-cto-app|Healthcare Operations Core]] case.
 |Supporting organization|The service organization that fulfills the case/request.|
 |Service|Service definition linked to the case.|
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

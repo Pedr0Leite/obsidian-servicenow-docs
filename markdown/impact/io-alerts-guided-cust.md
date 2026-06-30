@@ -12,7 +12,7 @@ breadcrumb: [Alerts in Instance Observer, Monitoring instance health with Instan
 
 # Track instance performance with the top six timely alerts – Guided users
 
-Use the Instance Observer alerting feature to receive notifications on the [[instance-observer-performance|performance]] of your instance. Monitor the alerts that are system driven.
+Use the Instance Observer alerting feature to receive notifications on the performance of your instance. Monitor the alerts that are system driven.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-If you’re an [[impact-landing-page|Impact]] Guided tier customer, then the important top 6 and commonly used alerts are available for you. You can configure alerts and customize the types of notifications on instances to receive timely alerts that enable you to monitor the instance performance.
+If you’re an Impact Guided tier customer, then the important top 6 and commonly used alerts are available for you. You can configure alerts and customize the types of notifications on instances to receive timely alerts that enable you to monitor the instance performance.
 
 ## Procedure
 
-1.  Navigate to **Impact** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**.
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure Alerts**.
 
@@ -56,15 +56,8 @@ If you’re an [[impact-landing-page|Impact]] Guided tier customer, then the imp
 
 8.  Select **Save**.
 
-    For more information on configuring alerts and setting notifications, see [[configuring-io-alerts|Configure Key Alerts]].
+    For more information on configuring alerts and setting notifications, see [Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[configuring-io-alerts|Configure Key Alerts]]
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # DevOps Config roles
 
-[[devops-config-landing-page|DevOps Config]] uses these roles.
+DevOps Config uses these roles.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -95,7 +95,7 @@ sn\_cdm.cdm\_secrets
 
 DevOps Config admin
 
- Has editor role permissions plus ability to manage policies and exporters, and [[dex-workspace-application-tab|applications]].
+ Has editor role permissions plus ability to manage policies and exporters, and applications.
 
 </td><td>
 
@@ -109,7 +109,3 @@ List of roles and permissions in CDM.
 
 **Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

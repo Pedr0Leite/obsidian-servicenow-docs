@@ -16,9 +16,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use the **glide.enforce\_security\_scope.sn\_svc\_appl** property to ensure that the data in master scope tables is secured.
 
-When the **glide.enforce\_security\_scope.sn\_svc\_appl\_info** property is set to true, access to resources within the scope is determined solely by the [[sc-access-control|access control]] lists \(ACLs\) from the Service Application Information plugin \(sn\_svc\_appl\_info\). This ensures the security of data in master scope tables by restricting access permissions to those defined within the sn\_svc\_appl\_info scope.
+When the **glide.enforce\_security\_scope.sn\_svc\_appl\_info** property is set to true, access to resources within the scope is determined solely by the access control lists \(ACLs\) from the Service Application Information plugin \(sn\_svc\_appl\_info\). This ensures the security of data in master scope tables by restricting access permissions to those defined within the sn\_svc\_appl\_info scope.
 
-If set to the insecure value of false, ACLs from all scopes are considered when granting access to data in master scope tables such as sys\_attachment. This could lead to unauthorized access to sensitive information by [[users|users]] who do not have permissions for the Service Application Information data.
+If set to the insecure value of false, ACLs from all scopes are considered when granting access to data in master scope tables such as sys\_attachment. This could lead to unauthorized access to sensitive information by users who do not have permissions for the Service Application Information data.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -99,9 +99,3 @@ The Service Applicant Information plugin \(**com.sn\_svc\_appl\_info**\) must be
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

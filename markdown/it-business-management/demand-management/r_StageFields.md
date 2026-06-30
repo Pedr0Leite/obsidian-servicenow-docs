@@ -16,7 +16,7 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 The Stage field on the Ideas list displays the current state of an idea as it moves through the demand life cycle. The current state includes from an idea to a demand and then to the resulting project, enhancement, change, or defect.
 
-The result of an idea depends on the initial settings in the **Category** and **Type** fields on the [[demand-form|Demand form]]. The **Stage** field also appears on the Demands list. The **Stage** field is a display only field and can’t be searched or sorted.
+The result of an idea depends on the initial settings in the **Category** and **Type** fields on the Demand form. The **Stage** field also appears on the Demands list. The **Stage** field is a display only field and can’t be searched or sorted.
 
 **Important:** The **Stage** fields are no longer available starting from the New York release. Any instance provisioned in New York or later won’t have a Stage field on the Idea table. However, the **Stage** fields are available if you’re upgrading from an older release to New York or later.
 
@@ -32,6 +32,3 @@ Hovering over the **Stage** field displays a pop-up window that shows the progre
 
 **Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
-## Related
-
-- [[demand-form|Demand form]]

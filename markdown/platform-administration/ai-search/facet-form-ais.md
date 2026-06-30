@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Facet form
 
-The Facet form enables you to create a facet refinement filter in the search application configuration for an [[ia-ai-search|AI Search]] application.
+The Facet form enables you to create a facet refinement filter in the search application configuration for an AI Search application.
 
 For details on creating or modifying a facet, see [Create a facet in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-facet-ais.md).
 
@@ -48,7 +48,7 @@ Facet Field
 
 </td><td>
 
-Comma-separated list of field names from AI Search indexed source tables. The facet displays search result refinement filters for values from one or more specified fields that are present in the current search result set. When you select a refinement filter after searching, AI Search restricts the search result set to show only [[hs-results|results]] that contain the specified field value.**Note:** When you save or update a facet, AI Search verifies each facet field. To pass verification, the field must exist on at least one record that exists in a search source used by the search application. If a field doesn't satisfy this condition, the system displays an error message.
+Comma-separated list of field names from AI Search indexed source tables. The facet displays search result refinement filters for values from one or more specified fields that are present in the current search result set. When you select a refinement filter after searching, AI Search restricts the search result set to show only results that contain the specified field value.**Note:** When you save or update a facet, AI Search verifies each facet field. To pass verification, the field must exist on at least one record that exists in a search source used by the search application. If a field doesn't satisfy this condition, the system displays an error message.
 
  Supports the following formats:
 
@@ -77,7 +77,7 @@ For example, enter `language` to display search result refinement filters for **
 
 If you specify an indexed source parent table field as a facet field, AI Search includes values from the same field on child tables from the indexed source.
 
-As an example, suppose you [[create-indexed-source-ais|create an indexed source]] for a custom Parent \[u\_parent\] table, which is extended by a custom Child \[u\_child\] table. If you specify `u_parent.author` as a facet field, AI Search displays search result refinement filters for both `u_parent.author` and `u_child.author` field values.
+As an example, suppose you create an indexed source for a custom Parent \[u\_parent\] table, which is extended by a custom Child \[u\_child\] table. If you specify `u_parent.author` as a facet field, AI Search displays search result refinement filters for both `u_parent.author` and `u_child.author` field values.
 
 -   **Faceting on child table fields**
 
@@ -89,7 +89,7 @@ Continuing the previous example, if your Child \[u\_child\] table includes an **
 
 -   **Faceting on dot-walk fields from referenced tables**
 
-If your indexed source includes a **dot\_walk\_fields** field setting for a dot-walk referenced table field, you can specify that field in a facet field entry using dot-separated [[reference-email-admin|reference]] field qualifiers. Add these qualifiers between the indexed source table name and the referenced table field name.
+If your indexed source includes a **dot\_walk\_fields** field setting for a dot-walk referenced table field, you can specify that field in a facet field entry using dot-separated reference field qualifiers. Add these qualifiers between the indexed source table name and the referenced table field name.
 
 For example, to facet knowledge article search results based on the Department field values for their authors, you can define `author.department` as a **dot\_walk\_fields** field setting for the indexed source for the Knowledge \[kb\_knowledge\] table and then specify `kb_knowledge.author.department` in your facet field entry. If you define `company.contact.department` as a **dot\_walk\_fields** field setting for the indexed source for the User \[sys\_user\] table, you can specify `sys_user.company.contact.department` in your facet field entry.
 
@@ -141,7 +141,7 @@ A Multi Select Or facet initially only allows you to select field values that ar
 As an example, suppose you have a Multi Select Or facet for a custom **Color** field with blue, green, and red field values. If your search returns only green and red results, the **Color** facet only displays **green** and **red** field values. When you select the **red** field value, AI Search keeps the **green** field value available for selection because it was available before you made any **Color** selection.
 
 
-**Warning:** Applying multiple filters from a Multi Select And or Multi Select Or facet makes your search query URL longer. Test your multi-select facet [[clone-configurations-tab|configurations]] to ensure that search query URLs with facet filters don't exceed the maximum URL length limit for your web browser. \(Different web browsers have different URL length limits.\)
+**Warning:** Applying multiple filters from a Multi Select And or Multi Select Or facet makes your search query URL longer. Test your multi-select facet configurations to ensure that search query URLs with facet filters don't exceed the maximum URL length limit for your web browser. \(Different web browsers have different URL length limits.\)
 
 </td></tr><tr><td>
 
@@ -185,10 +185,3 @@ Order in which to display the facet's buckets in the search results UI. Type: Ch
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[create-indexed-source-ais|Create an indexed source]]
-- [[reference-email-admin|Reference]]
-- [[clone-configurations-tab|Configurations]]

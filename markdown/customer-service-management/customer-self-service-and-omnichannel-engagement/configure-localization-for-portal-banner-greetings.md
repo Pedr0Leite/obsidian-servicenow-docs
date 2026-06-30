@@ -22,7 +22,7 @@ Role required: sp\_admin
 
 ## About this task
 
-The [[portal-banner-widget|portal banner widget]] enables you to customize the heading text displayed to users on the business portal. You can modify the heading text from the instance options and then create a translation record in the sys\_ui\_message table. This setup lets you personalize user experience across different regions and languages.
+The portal banner widget enables you to customize the heading text displayed to users on the business portal. You can modify the heading text from the instance options and then create a translation record in the sys\_ui\_message table. This setup lets you personalize user experience across different regions and languages.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ The [[portal-banner-widget|portal banner widget]] enables you to customize the h
 
     3.  In **Heading**, enter the desired text.
 
-        For details on filling the Heading field, see [[banner-widget-inst-options|Portal Banner widget instance options form]].
+        For details on filling the Heading field, see [Portal Banner widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/banner-widget-inst-options.md).
 
 2.  Create a translation record \(for localization\).
 
@@ -98,7 +98,3 @@ Translation of text entered in the Key field.
 
 A new translation record is created which supports localization.
 
-## Related
-
-- [[banner-widget-inst-options|Portal Banner widget instance options form]]
-- [[portal-banner-widget|Portal Banner widget]]

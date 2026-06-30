@@ -24,8 +24,5 @@ For description of the field values, see the table.
 |Elements impacted|Items or assets that are impacted because of the loss scenario.|
 |Description|Short note about the loss scenario.|
 
-**Parent Topic:**[[configure-plan-loss-scenario-uib-ws|Configure loss scenarios in the plan]]
+**Parent Topic:**[Configure loss scenarios in the plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-plan-loss-scenario-uib-ws.md)
 
-## Related
-
-- [[configure-plan-loss-scenario-uib-ws|Configure loss scenarios in the plan]]

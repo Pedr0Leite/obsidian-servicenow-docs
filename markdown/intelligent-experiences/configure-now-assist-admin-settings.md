@@ -12,31 +12,20 @@ breadcrumb: [Exploring Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Now Assist Admin Settings
 
-Configure general settings for all [[platform-now-assist-landing|Now Assist]] applications from the **Settings** tab in the Now Assist Admin console.
+Configure general settings for all Now Assist applications from the **Settings** tab in the Now Assist Admin console.
 
-As you begin to explore Now Assist, use **Settings** in the Now Assist Admin console to activate the plugins. See [[install-now-assist-feature-plugins|Install Now Assist plugins]].
+As you begin to explore Now Assist, use **Settings** in the Now Assist Admin console to activate the plugins. See [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
-Turn on the [[now-assist-center-now-assist-panel|Now Assist panel]], review multi-language support, data sharing and processing, and Now Assist Guardian features, and view the Now Assist account settings. You can also manage the large language model integrations under **Settings**.
+Turn on the Now Assist panel, review multi-language support, data sharing and processing, and Now Assist Guardian features, and view the Now Assist account settings. You can also manage the large language model integrations under **Settings**.
 
--   **[[enable-dynamic-translation-for-now-assist-applications|Configure multilingual service for Now Assist applications]]**  
+-   **[Configure multilingual service for Now Assist applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-dynamic-translation-for-now-assist-applications.md)**  
 Turn on multilingual service for user-entered text with native translation or Dynamic Translation in Now Assist applications.
--   **[[now-assist-data-sharing-and-processes|Data sharing and processes]]**  
+-   **[Data sharing and processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-sharing-and-processes.md)**  
 Data sharing and processes topic description.
--   **[[manage-large-language-models|Manage AI models]]**  
-Access and select the LLM \(large language model\) provider used for various [[now-assist-skills|Now Assist skills]]. The selection impacts all the skills within the capability.
--   **[[review-now-assist-account-information|Review Now Assist account]]**  
+-   **[Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md)**  
+Access and select the LLM \(large language model\) provider used for various Now Assist skills. The selection impacts all the skills within the capability.
+-   **[Review Now Assist account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/review-now-assist-account-information.md)**  
 Review your Now Assist license details on the Account page of the Now Assist Admin console to make sure that you're up to date on what's available to you.
 
-**Parent Topic:**[[exploring-now-assist-platform|Exploring Now Assist Admin]]
+**Parent Topic:**[Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
 
-## Related
-
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[enable-dynamic-translation-for-now-assist-applications|Configure multilingual service for Now Assist applications]]
-- [[now-assist-data-sharing-and-processes|Data sharing and processes]]
-- [[manage-large-language-models|Manage AI models]]
-- [[review-now-assist-account-information|Review Now Assist account]]
-- [[exploring-now-assist-platform|Exploring Now Assist Admin]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-skills|Now Assist skills]]

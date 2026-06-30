@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(Azure\), I
 
 # CMDB classes targeted in the Service Graph Connector for Microsoft Defender for IoT \(Azure\)
 
-When you complete the guided setup, you can configure the integration to periodically pull data from a [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]] \(Azure\) project. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
+When you complete the guided setup, you can configure the integration to periodically pull data from a Service Graph Connector for Microsoft Defender for IoT \(Azure\) \(Azure\) project. The data is saved in tables that extend from the Configuration item \[cmdb\_ci\] table.
 
 ## Viewing class mappings
 
@@ -184,7 +184,7 @@ The following attributes in the Network Intrusion Detection System \[cmdb\_ci\_n
 
 ## Operational Technology \(OT\) \[cmdb\_ci\_ot\]
 
-The following attributes in the [[operational-technology-overview|Operational Technology]] \(OT\) \[cmdb\_ci\_ot\] table are populated by collected data:
+The following attributes in the Operational Technology \(OT\) \[cmdb\_ci\_ot\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -275,7 +275,3 @@ The following attributes in the Serial Number \[cmdb\_serial\_number\] table are
 
 **Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
 
-## Related
-
-- [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]]
-- [[operational-technology-overview|Operational Technology]]

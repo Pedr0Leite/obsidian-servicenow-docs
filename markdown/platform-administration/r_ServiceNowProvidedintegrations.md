@@ -25,18 +25,12 @@ These integrations are considered part of the platform and are provided at no ad
 |Microsoft SMS / SCCM|[MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md)|CMDB|
 |Verizon eBonding|[Web services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/r_AvailableWebServices.md)|Incident|
 
--   **[[set-up-google-maps-api|Set up Google Maps API]]**  
+-   **[Set up Google Maps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/set-up-google-maps-api.md)**  
 You enable the geolocation feature using the appropriate entries from a Google Maps API for Business license, or a Google Maps JavaScript API Key.
--   **[[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]**  
+-   **[Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md)**  
 The Microsoft SCCM integration is a one direction import of SCCM data into the ServiceNow Configuration Management Database \(CMDB\).
--   **[[c_MigrVerizoneBondIntegToAProdSys|Migrate the Verizon eBonding Integration to a Production System]]**  
+-   **[Migrate the Verizon eBonding Integration to a Production System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MigrVerizoneBondIntegToAProdSys.md)**  
 This topic outlines the tasks required for moving the Verizon eBonding integration from a Dev/Test environment to a Production environment.
 
-**Parent Topic:**[[c_IntegrationOptions|Integration options]]
+**Parent Topic:**[Integration options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntegrationOptions.md)
 
-## Related
-
-- [[set-up-google-maps-api|Set up Google Maps API]]
-- [[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
-- [[c_MigrVerizoneBondIntegToAProdSys|Migrate the Verizon eBonding Integration to a Production System]]
-- [[c_IntegrationOptions|Integration options]]

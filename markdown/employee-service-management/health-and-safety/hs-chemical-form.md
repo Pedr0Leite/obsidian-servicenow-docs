@@ -148,7 +148,7 @@ Intended use
 
 </td><td>
 
-[[activity-lxp|Activity]] the chemical is used for.
+Activity the chemical is used for.
 
 </td></tr><tr><td>
 
@@ -282,7 +282,7 @@ The fields in this section of the chemical form are automatically populated if y
 |Density|Mass of the chemical per unit volume at a specified temperature.|
 |Density unit|Unit of measurement used to express the chemical's density value.|
 |Solubility|Degree to which the chemical dissolves in a solvent, typically water.|
-|Specific gravity|Ratio of the chemical's density to the density of a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] substance, typically water.|
+|Specific gravity|Ratio of the chemical's density to the density of a reference substance, typically water.|
 |Molecular weight \(g/mol\)|Combined atomic mass of all atoms in one molecule of the chemical, expressed in grams per mole.|
 |Percent volatile \(%\)|Percentage of the chemical's composition that evaporates under standard conditions.|
 |Auto ignition temperature \(°C\)|Lowest temperature in Celsius at which the chemical ignites spontaneously without an external ignition source.|
@@ -292,7 +292,3 @@ The fields in this section of the chemical form are automatically populated if y
 
 **Parent Topic:**[Health and Safety Environmental Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reference-environmental-management.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

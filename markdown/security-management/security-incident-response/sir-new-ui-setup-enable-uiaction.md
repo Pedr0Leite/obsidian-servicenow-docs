@@ -51,11 +51,8 @@ To enable server side UI actions, you must do the following:
 
 The logic of the standard UI action script must be handled as part of a scripted REST resource.
 
-Refer to the following sample [[sir-new-ui-setup-form-uiaction|Form UI actions]] for more details:
+Refer to the following sample Form UI actions for more details:
 
 -   Create Outage
 -   Cancel
 
-## Related
-
-- [[sir-new-ui-setup-form-uiaction|Form UI actions]]

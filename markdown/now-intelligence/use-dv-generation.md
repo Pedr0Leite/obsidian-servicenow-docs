@@ -18,11 +18,11 @@ Request generative AI to create a visualization of data that you want to see. If
 
 Role required: now\_assist\_panel\_user and either now\_assist\_analytics\_generation or now.assist.creator.analytics. You need access to the data that you want to see. If you want to add the visualization to a dashboard, you need editing rights to that dashboard.
 
-**Important:** You need the correct entitlements to this skill and to [[query-generation|Query Generation]].
+**Important:** You need the correct entitlements to this skill and to Query Generation.
 
 ## Procedure
 
-1.  If you want to add a visualization to a dashboard that you can edit, navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards** and open the dashboard from the library.
+1.  If you want to add a visualization to a dashboard that you can edit, navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards** and open the dashboard from the library.
 
 2.  Open the Now Assist panel.
 
@@ -34,7 +34,7 @@ Role required: now\_assist\_panel\_user and either now\_assist\_analytics\_gener
 
 4.  Ask for data to see.
 
-    For example, ask "Can I see open incidents by priority?" You then would get a visualization of the count of incidents divided across priorities where active=true. You can specify the chart type, too, but not all charts are supported. For more information about what kind of questions you can ask, see [[example-questions-generating-dv|Guidelines and example questions]] and [[limitations-generating-dv|Limitations to generating data visualizations]].
+    For example, ask "Can I see open incidents by priority?" You then would get a visualization of the count of incidents divided across priorities where active=true. You can specify the chart type, too, but not all charts are supported. For more information about what kind of questions you can ask, see [Guidelines and example questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/example-questions-generating-dv.md) and [Limitations to generating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/limitations-generating-dv.md).
 
     **Note:** Analytics Generation only returns visualizations of data in tables for which semantic generation is enabled. If you have a question, ask your admin to check the Semantic Table Configurations \[sn\_query\_gen\_table\_config\_list\] under **Query Generation** &gt; **Administration** &gt; **Semantic Table Config**.
 
@@ -44,15 +44,15 @@ Role required: now\_assist\_panel\_user and either now\_assist\_analytics\_gener
 
 6.  To add the visualization to a dashboard, select **Add to dashboard**.
 
-    A pane opens where you can choose from any of the dashboards that are available to you to edit. You can also create a new dashboard to contain the visualization. Note that [[technical-dashboards|technical dashboards]] are not supported.
+    A pane opens where you can choose from any of the dashboards that are available to you to edit. You can also create a new dashboard to contain the visualization. Note that technical dashboards are not supported.
 
 7.  To add the visualization to a collaborative workspace in AI Data Explorer, select **Add to exploration**.
 
-    For more information, see [[now-assist-explorer|Use AI to explore data with AI Data Explorer]].
+    For more information, see [Use AI to explore data with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer.md).
 
 8.  To edit the visualization, select **Edit visualization**.
 
-    If you have the viz\_creator role, you can save the visualization to the Data Visualizations library. For more information, see [[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]].
+    If you have the viz\_creator role, you can save the visualization to the Data Visualizations library. For more information, see [Edit a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-dv-ac-center.md).
 
 9.  Under **What would you like to do next**, you see several suggestions:
 
@@ -68,15 +68,5 @@ This section shows guidelines and some typical questions that you could ask in t
 -   **[Limitations to generating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/limitations-generating-dv.md)**  
 While data visualization generation is designed to handle a wide range of queries and scenarios, certain cases are not supported or only partially supported.
 
-**Parent Topic:**[[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-assist-landing-page.md)
 
-## Related
-
-- [[example-questions-generating-dv|Guidelines and example questions]]
-- [[limitations-generating-dv|Limitations to generating data visualizations]]
-- [[now-assist-explorer|Use AI to explore data with AI Data Explorer]]
-- [[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]]
-- [[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
-- [[query-generation|Query Generation]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[technical-dashboards|Technical dashboards]]

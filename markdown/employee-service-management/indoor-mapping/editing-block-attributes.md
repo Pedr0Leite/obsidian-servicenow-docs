@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Select the **CAD Editor** tab.
 
-2.  On the preview layout, select a block [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
+2.  On the preview layout, select a block reference.
 
 3.  The editing panel appears.
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/editing-tools-cad-editor.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

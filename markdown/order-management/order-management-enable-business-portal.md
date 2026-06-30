@@ -22,9 +22,9 @@ Role required: admin
 
 ## About this task
 
-To set up the Business Portal and [[order-mgt-overview|Sales Customer Relationship Management]] self-service enhancements, first install the Business Portal plugins, which are available in the app store.
+To set up the Business Portal and Sales Customer Relationship Management self-service enhancements, first install the Business Portal plugins, which are available in the app store.
 
-See [[order-management-configure-business-portal|Configuring the Business Portal]] for more information.
+See [Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md) for more information.
 
 ## Procedure
 
@@ -46,13 +46,7 @@ Customize the Business Portal to match your organization's branding and user exp
 **Related topics**  
 
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-[[order-mgt-business-portal|Customer self-service using the Business Portal]]
+[Customer self-service using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-business-portal.md)
 
-## Related
-
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[order-mgt-business-portal|Customer self-service using the Business Portal]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

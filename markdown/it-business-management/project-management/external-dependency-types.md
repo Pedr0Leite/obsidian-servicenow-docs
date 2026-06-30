@@ -14,7 +14,7 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 # Types of external dependencies
 
-The [[c_ProjectApplicationOverview|Project management]] application supports two types of external dependencies - hard and soft.
+The Project management application supports two types of external dependencies - hard and soft.
 
 The type of external dependency can be set during [adding a dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-external-dependency-planning-console.md) between two projects tasks on the planning console.
 
@@ -57,6 +57,3 @@ In a soft dependency, any changes made in the predecessor project trigger a noti
 
 [Project and portfolio funding]()
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]

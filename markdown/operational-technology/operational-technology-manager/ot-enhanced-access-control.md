@@ -14,7 +14,7 @@ breadcrumb: [Explore, Operational Technology Manager, Operational Technology]
 
 # Enhanced Access Control for Operational Technology
 
-Enhanced Access Control for Operational Technology \([[operational-technology-overview|Operational Technology]]\) implements data filters, deny unless access control rules \(ACLs\), and ACL query rules to help promote system security.
+Enhanced Access Control for Operational Technology \(Operational Technology\) implements data filters, deny unless access control rules \(ACLs\), and ACL query rules to help promote system security.
 
 ## Enhanced Access Control overview
 
@@ -122,6 +122,3 @@ Related records also adhere to site-based access restrictions. With Can Read acc
 
 **Parent Topic:**[Exploring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/exploring-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

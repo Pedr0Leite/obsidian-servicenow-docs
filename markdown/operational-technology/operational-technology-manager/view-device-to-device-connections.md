@@ -14,7 +14,7 @@ breadcrumb: [OT device related items and related lists, Edit or view OT devices 
 
 # View and edit device to device connections
 
-View and edit device-to-device connections for your [[operational-technology-overview|Operational Technology]] \(OT\) devices using the Device to Device Connections list in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+View and edit device-to-device connections for your Operational Technology \(OT\) devices using the Device to Device Connections list in the Industrial Workspace.
 
 ## Before you begin
 
@@ -187,7 +187,3 @@ To view a device-to-device connection for an OT device, you can access the Devic
 
 **Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

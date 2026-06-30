@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center, Employee Center, Unified Employee Expe
 
 # Quick start tests for Employee Center
 
-Validate the continued functionality of the [[employee-center-landing-page|Employee Center]] after any configuration change such as an upgrade or after developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate the continued functionality of the Employee Center after any configuration change such as an upgrade or after developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 All test suites and tests should pass on a default implementation. To validate a custom implementation, copy the automated tests and configure them for your customizations.
 
@@ -104,7 +104,7 @@ San Diego
 
 </td></tr><tr><td>
 
-Employee center - [[emp-slate-employee-profile|Employee Profile]] Generation
+Employee center - Employee Profile Generation
 
 </td><td>
 
@@ -168,7 +168,7 @@ Quebec
 
 </td></tr><tr><td>
 
-ESC: Submit a Record Producer which creates [[ur-landing-limitedaccess|Universal Request]] and HR Case
+ESC: Submit a Record Producer which creates Universal Request and HR Case
 
 </td><td>
 
@@ -240,9 +240,3 @@ San Diego
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ur-landing-limitedaccess|Universal Request]]

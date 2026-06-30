@@ -90,11 +90,11 @@ Platform UI
 
 </td></tr><tr><td>
 
-[[communities-gamification|Gamification]] administrator\[sn\_gamification.admin\]
+Gamification administrator\[sn\_gamification.admin\]
 
 </td><td>
 
-[[communities-gamification-administer|Administer gamification]] settings and configure gamification [[gamification-components-rules|rules]]. Contains the sn\_gamification.moderator role.
+Administer gamification settings and configure gamification rules. Contains the sn\_gamification.moderator role.
 
 </td><td>
 
@@ -106,7 +106,7 @@ Gamification moderator\[sn\_gamification.moderator\]
 
 </td><td>
 
-Review and edit the gamification [[gamification-components-points|points]] earned by community users.
+Review and edit the gamification points earned by community users.
 
 </td><td>
 
@@ -122,7 +122,7 @@ Any user who has signed up and accepted the community Terms &amp; Conditions. Th
 
 </td><td>
 
-[[servicenow-communities|Communities]] Portal
+Communities Portal
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ Proxy case creator\[sn\_customerservice.proxy\_case\_creator\]
 
 </td><td>
 
-A community user who can [[t_CreateACaseFromCustServApp|create a customer service case]] from a community discussion.
+A community user who can create a customer service case from a community discussion.
 
 </td><td>
 
@@ -164,11 +164,3 @@ Communities Portal
 
 [Topic form fields]()
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[communities-gamification-administer|Administer gamification]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-points|Points]]
-- [[servicenow-communities|Communities]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]

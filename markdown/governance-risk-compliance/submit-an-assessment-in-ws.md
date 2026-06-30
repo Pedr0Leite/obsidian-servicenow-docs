@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **List** &gt; **Importance and impact tolerance assessment** &gt; **All assessments** and select the assessment that you’re working on.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **List** &gt; **Importance and impact tolerance assessment** &gt; **All assessments** and select the assessment that you’re working on.
 
     The **Details** tab displays the assessment details.
 
@@ -43,9 +43,5 @@ The state of the assessment is updated to **Pending response**. The assessor of 
 
 ## What to do next
 
-The assessor logs into the instance or selects the assessment link received in the notification, responds to the assessment, and submits the results. For more information, see [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]].
+The assessor logs into the instance or selects the assessment link received in the notification, responds to the assessment, and submits the results. For more information, see [Submit the assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-an-importance-and-impact-tolerance-assessment-in-ws.md).
 
-## Related
-
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]
-- [[grc-opres-landing-page|Operational Resilience]]

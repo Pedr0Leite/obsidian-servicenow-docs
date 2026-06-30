@@ -22,13 +22,13 @@ Role required: admin
 
 ## About this task
 
-The base system [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] supports the following Terraform versions:
+The base system Cloud Services Catalog Terraform Connector supports the following Terraform versions:
 
 -   Terraform Open Source versions 1.1.0 through 1.1.9 and 1.2.0 or higher.
 -   Terraform Enterprise versions 1.1.9 and 1.2.0 or higher.
 -   Terraform Cloud versions 1.1.9 and 1.2.0 or higher.
 
-To use templates that are supported by a minor or patch version, for example version 0.12.29, add the version number to the Workload provider type record. Then, use the minor or patch versions to create configuration providers in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+To use templates that are supported by a minor or patch version, for example version 0.12.29, add the version number to the Workload provider type record. Then, use the minor or patch versions to create configuration providers in Cloud Provisioning and Governance.
 
 ## Procedure
 
@@ -42,7 +42,4 @@ To use templates that are supported by a minor or patch version, for example ver
 
 5.  Select **Submit**.
 
-## Related
 
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

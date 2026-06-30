@@ -14,11 +14,11 @@ breadcrumb: [Authentication policy contexts, Adaptive authentication, Authentica
 
 # Pre authentication context
 
-The pre [[c_Authentication|authentication]] policy context defines how and when a policy is enforced during the login process. The policy used in this context executes before your [[users|users]] see a login screen.
+The pre authentication policy context defines how and when a policy is enforced during the login process. The policy used in this context executes before your users see a login screen.
 
 ## Pre authentication context record
 
-[[ca-policies|Policies]] in the pre authentication context execute when a user first accesses the instance, before they see a login screen.
+Policies in the pre authentication context execute when a user first accesses the instance, before they see a login screen.
 
 You can use the pre authentication context to allow or deny access before your users are prompted for login credentials based on your selected policy. Because these policies evaluate before a user enters any information, those policies can’t take criteria such as a user's roles or groups into account.
 
@@ -82,7 +82,7 @@ The policy used for this context uses. This field appears only when the **Defaul
 </td></tr></tbody>
 </table>**Note:**
 
-You can only use the [[ip-filter|IP Filter]], Trusted Mobile App Filter, and [[location-filter|Location Filter]] criteria in the Pre Authentication Policy Context.
+You can only use the IP Filter, Trusted Mobile App Filter, and Location Filter criteria in the Pre Authentication Policy Context.
 
 ## Policy inputs and conditions
 
@@ -93,18 +93,10 @@ This example shows a pre authentication policy context record configured to deny
 **Note:**
 
 -   Only IP-Based filters, Location based filters, or Trusted Mobile App filter can be used in the pre authentication policy context.
--   Whenever there's a pre authentication set with non absolute conditions or [[adaptive-auth-filter-criteria|filter criteria]], you're displayed with an error message stating that the policy or context can’t be configured. It's recommended to validate all the inputs for the pre authentication context before executing it to the instance.
+-   Whenever there's a pre authentication set with non absolute conditions or filter criteria, you're displayed with an error message stating that the policy or context can’t be configured. It's recommended to validate all the inputs for the pre authentication context before executing it to the instance.
 
     For example: If the administrator is outside the trusted network and configures pre authentication context with IP ranges, if the IP ranges are mismatched with the current session of the admin, the admin is blocked.
 
 
 \[Omitted image "pre-auth-context.png"\] Alt text: Pre-authentication policy context record
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[ip-filter|IP Filter]]
-- [[location-filter|Location Filter]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

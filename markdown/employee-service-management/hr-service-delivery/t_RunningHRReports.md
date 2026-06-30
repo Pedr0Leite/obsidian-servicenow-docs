@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.manager, sn\_hr\_core.admin, sn\_hr\_core.basic
 
 ## About this task
 
-Use HR reports to improve overall efficiency and effectiveness. For example, you can view all [[hr-case-employee-relations|Employee Relations]] cases that were created in the past month.
+Use HR reports to improve overall efficiency and effectiveness. For example, you can view all Employee Relations cases that were created in the past month.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_HRDashboardsReports|HR Dashboards &amp; Reports]]** &gt; **Reports**.
+1.  Navigate to **All** &gt; **HR Dashboards &amp; Reports** &gt; **Reports**.
 
     Reports in the HR report group are listed. The icon to the left of the report indicates the type of report, such as a list, pie chart, or bar chart. Point your cursor to the icon to see a pop-up window of report information. Click the star on the left to make the report a favorite. You can filter for favorite reports by clicking the star above the Reports list.
 
@@ -47,7 +47,7 @@ Use HR reports to improve overall efficiency and effectiveness. For example, you
 If you want to create additional HR reports, click **Create a report** above the Reports list. After you create reports, share them with the HR report group. Once on the Reports list, the group can view them.
 
 -   **[Available HR reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/r_AvailableReports.md)**  
-Predefined HR reports are available in the **HR [[case-management-workspace|Case Management]]** &gt; **Reports** list.
+Predefined HR reports are available in the **HR Case Management** &gt; **Reports** list.
 
 **Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRDashboardsReports.md)
 
@@ -56,8 +56,3 @@ Predefined HR reports are available in the **HR [[case-management-workspace|Case
 
 [Getting started with reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_GenerateReports.md)
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[c_HRDashboardsReports|HR Dashboards &amp; Reports]]
-- [[case-management-workspace|Case management]]

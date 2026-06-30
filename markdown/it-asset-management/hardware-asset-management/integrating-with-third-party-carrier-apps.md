@@ -14,7 +14,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Managing shipments by integrating with third-party carrier applications
 
-You can check the status of your shipments in real time by integrating your ServiceNow instance with a third-party carrier application using the integration framework provided by the [[it-asset-management|IT Asset Management]] application.
+You can check the status of your shipments in real time by integrating your ServiceNow instance with a third-party carrier application using the integration framework provided by the IT Asset Management application.
 
 \[Omitted image "mmasset0021839-itam-carrier-integartion.png"\] Alt text: Third-party carrier integration workflow
 
@@ -42,6 +42,3 @@ You can check the status of your shipments in real time by integrating your Serv
 
 For more details, see [Track shipments using the integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/tracking-shipments-using-integration-framework.md).
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]

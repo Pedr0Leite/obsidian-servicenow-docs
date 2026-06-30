@@ -14,7 +14,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 # Legacy Software Asset Management plugin setup process
 
-To get started with the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin, you need to identify and discover software owned, create [[c_CreatingSoftwareModels|software models]], create license records, and configure software counters.
+To get started with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, you need to identify and discover software owned, create software models, create license records, and configure software counters.
 
 To get started with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin, perform the following:
 
@@ -53,7 +53,7 @@ To get started with the legacy Software Asset Management \(com.snc.software\_ass
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
@@ -61,13 +61,7 @@ To get started with the legacy Software Asset Management \(com.snc.software\_ass
 
 [Legacy IBM PVU Process Pack]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

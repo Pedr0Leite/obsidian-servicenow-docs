@@ -14,7 +14,7 @@ breadcrumb: [Manage the safety inspection and audit surveys through mobile app, 
 
 # Add actions for safety inspections survey in Mobile Agent app
 
-Learn how to use the Mobile Agent app to create actions for an inspection survey in online or [[offline-mode|offline mode]].
+Learn how to use the Mobile Agent app to create actions for an inspection survey in online or offline mode.
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ The action created appears in the **Actions** tab of the inspection record and c
 
 **Parent Topic:**[Manage the safety inspection and audit surveys through mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-manage-safety-inspections-audits-mobile.md)
 
-## Related
-
-- [[offline-mode|Offline mode]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Portfolio Planning, Strategic Portfolio Management]
 
 # Portfolio Planning with Project Portfolio Management
 
-Facilitate execution of the work planned in [[portfolio-planning-app-landing-page|Portfolio Planning]] in ServiceNow [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\) application.
+Facilitate execution of the work planned in Portfolio Planning in ServiceNow Project Portfolio Management \(PPM\) application.
 
 While planning personas like portfolio managers or product owners use Portfolio Planning to align their plans with the business objectives, execution teams can use PPM to deliver work on the planned projects and demands.
 
@@ -32,7 +32,3 @@ To get started on integrating Portfolio Planning with PPM, see [Configuring Port
 
 **Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

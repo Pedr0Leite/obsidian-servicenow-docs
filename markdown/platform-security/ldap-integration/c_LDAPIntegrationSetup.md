@@ -14,11 +14,11 @@ breadcrumb: [LDAP integration, Authentication, Access Management]
 
 # LDAP integration setup
 
-Administrators can enable LDAP integration to allow sign-on of [[users|users]] from their company LDAP directory.
+Administrators can enable LDAP integration to allow sign-on of users from their company LDAP directory.
 
 LDAP typically uses one of these types of communication channels.
 
-|Connection|Description|LDAP import support?|LDAP [[c_Authentication|authentication]] support?|
+|Connection|Description|LDAP import support?|LDAP authentication support?|
 |----------|-----------|--------------------|----------------------------|
 |MID Server connection|Communicates over HTTP on port 80 by default. This communication channel does not require a certificate. The connection between the MID Server and the instance is over HTTPS \(port 443\). You can use the MID Server to import data over LDAP, but you cannot use the MID Server for LDAP authentication. Proceed to [Define the LDAP Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_DefineAnLDAPServer.md).|Yes|No|
 |Standard LDAP integration|Communicates over TCP on port 389 by default. This communication channel does not require a certificate. Proceed to [Define the LDAP Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_DefineAnLDAPServer.md).|Yes|Yes|
@@ -32,7 +32,3 @@ If using a MID Server, the MID Server connects to the instance and the MID Serve
 
 For more information about VPNs, Mid Servers, and LDAP, see [You Don't Need A VPN Part II](https://community.servicenow.com/community?id=community_blog&sys_id=10dd26e9dbd0dbc01dcaf3231f9619c8&view_source=searchResult) on the community.
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

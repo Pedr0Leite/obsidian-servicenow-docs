@@ -14,13 +14,13 @@ breadcrumb: [Advanced configurations, Workforce Optimization for ITSM, IT Servic
 
 # Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM
 
-Using the [[itsm-mobile-agent|ITSM Mobile Agent]] app, shift planning agents can access their schedule. They can request time off to get their manager's approval or swap shifts with their peers and receive notifications for those requests and approvals.
+Using the ITSM Mobile Agent app, shift planning agents can access their schedule. They can request time off to get their manager's approval or swap shifts with their peers and receive notifications for those requests and approvals.
 
-**Important:** The ITSM Mobile Agent for [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] features are available with the ITSM Mobile Agent 5.0 store application. For more information, see [Activate Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md).
+**Important:** The ITSM Mobile Agent for Workforce Optimization for ITSM features are available with the ITSM Mobile Agent 5.0 store application. For more information, see [Activate Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md).
 
 ## Using On-Call Scheduling with Workforce Optimization for ITSM
 
-If you are using [[mobile-experience-ocs|Mobile experience for On-Call Scheduling]] along with the ITSM Mobile Agent for Workforce Optimization for ITSM, you can access the [[c_OnCallScheduling|On-Call Scheduling]] actions from the Schedule section.
+If you are using Mobile experience for On-Call Scheduling along with the ITSM Mobile Agent for Workforce Optimization for ITSM, you can access the On-Call Scheduling actions from the Schedule section.
 
 To access:
 
@@ -48,9 +48,3 @@ Monitor the shifts and schedule of teams within your assignment group using the 
 
 [Mobile experience for On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/mobile-experience-ocs.md)
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[mobile-experience-ocs|Mobile experience for On-Call Scheduling]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

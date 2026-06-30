@@ -36,7 +36,7 @@ Role required: sp\_admin
 
     1.  On the form, fill in the fields.
 
-        For a description of the field values, see [[portalheader-notification-approval-survey-form|Portal Header notification, approval, and survey form]].
+        For a description of the field values, see [Portal Header notification, approval, and survey form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/portalheader-notification-approval-survey-form.md).
 
     2.  Select **Submit**.
 
@@ -56,6 +56,4 @@ Role required: sp\_admin
 
     2.  Select **Submit**.
 
-## Related
 
-- [[portalheader-notification-approval-survey-form|Portal Header notification, approval, and survey form]]

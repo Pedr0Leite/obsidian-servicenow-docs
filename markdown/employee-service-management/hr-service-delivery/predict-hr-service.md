@@ -14,9 +14,9 @@ breadcrumb: [Machine learning solutions for HR Service Delivery, Integration of 
 
 # Auto determination of HR service
 
-Auto determine the HR service for a case. Enable an HR agent to transfer the case to the appropriate HR service rather than having to spend significant time manually triaging cases to appropriate [[hr-service-administration|HR services]].
+Auto determine the HR service for a case. Enable an HR agent to transfer the case to the appropriate HR service rather than having to spend significant time manually triaging cases to appropriate HR services.
 
-**Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate the [[hr-service-delivery|HR Service Delivery]] and Predictive Intelligence applications. If you do not want to use this feature, disable the **sn\_hr\_core.case\_auto\_categorization** system property.
+**Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate the HR Service Delivery and Predictive Intelligence applications. If you do not want to use this feature, disable the **sn\_hr\_core.case\_auto\_categorization** system property.
 
 ## Auto-determined HR service displayed in a banner
 
@@ -41,7 +41,3 @@ The HR Case Classification solution definition is configured and the predictive 
 
 You can [manually train the predictive model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-train.md) if it is not auto trained by default. Later, navigate to the **HR AI configuration** module, open the HR Case Classification record, and map the configured solution definition.
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[hr-service-delivery|HR Service Delivery]]

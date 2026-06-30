@@ -14,9 +14,9 @@ breadcrumb: [Exploring Now Assist Skill Kit, Now Assist Skill Kit, Enable AI exp
 
 # Example use case for Now Assist Skill Kit
 
-As an AI developer, you can create custom skills with [[now-assist-skill-kit-landing|Now Assist Skill Kit]]. For this example, create a custom skill for child incident summarization.
+As an AI developer, you can create custom skills with Now Assist Skill Kit. For this example, create a custom skill for child incident summarization.
 
-As an AI developer, you must [[create-new-skill|create a skill]] for child incident summarization. Creating this skill can help you organize and understand multiple incidents that are related to the same parent.
+As an AI developer, you must create a skill for child incident summarization. Creating this skill can help you organize and understand multiple incidents that are related to the same parent.
 
 ## Create and configure the skill
 
@@ -36,7 +36,7 @@ To create the skill:
 
 After you create the skill, you must configure the skill settings.
 
-1.  Select **[[exploring-ai-governance|Configurations]]**.
+1.  Select **Configurations**.
 2.  Select the model that you want to use. For this example, you can select `llm_generic`.
 3.  Select a temperature between 0-1 to determine the randomness and creativity of the output, such as `0.2`.
 
@@ -64,7 +64,7 @@ Select the tools for the skill. For this example, select Flow Action and the Inc
 
 ## Configure the skill deployment options
 
-The next step is to configure the skill deployment options. These options enable you to choose where to find the skill in [[platform-now-assist-landing|Now Assist]] Admin.
+The next step is to configure the skill deployment options. These options enable you to choose where to find the skill in Now Assist Admin.
 
 1.  Select the **Skill settings** tab.
 2.  Select **Deployment Settings**.
@@ -89,9 +89,3 @@ If everything looks good, select **Finalize prompt**. After you finalize the pro
 
 After you test, finalize, and publish your skill, an admin must activate it in Now Assist Admin. To learn more about activating skills, see [Activate a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/activate-skill.md).
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[create-new-skill|Create a skill]]
-- [[exploring-ai-governance|Configurations]]
-- [[platform-now-assist-landing|Now Assist]]

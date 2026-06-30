@@ -12,7 +12,7 @@ breadcrumb: [Manage your teams, Navigate the Care Team Portal, Navigate, Care Te
 
 # Add a team member using the Care Team Portal
 
-Add a member to your team using the [[care-team-portal-landing|Care Team Portal]].
+Add a member to your team using the Care Team Portal.
 
 ## Before you begin
 
@@ -87,6 +87,4 @@ The responsibility associated with this member.There are two options: -   Team m
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[care-team-portal-landing|Care Team Portal]]

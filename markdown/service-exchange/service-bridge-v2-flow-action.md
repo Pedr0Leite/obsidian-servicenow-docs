@@ -17,7 +17,7 @@ breadcrumb: [Explore, Service Exchange]
 
 Workflow Studio predefined actions help you preserve mapped variable integrity and maintain flow compatibility across configuration revisions.
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]] provides a set of predefined Workflow Studio actions that you can use in your flows or subflows to retrieve variable values from [[service-bridge-v2-remote-task-overview|remote tasks]] and [[service-bridge-v2-provider-tasks|provider tasks]]. For details on flows, see [Getting started with flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/getting-started-flow.md).
+Service Exchange provides a set of predefined Workflow Studio actions that you can use in your flows or subflows to retrieve variable values from remote tasks and provider tasks. For details on flows, see [Getting started with flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/getting-started-flow.md).
 
 Service Exchange provides the following actions in Workflow Studio:
 
@@ -125,9 +125,3 @@ Returns the newly created provider task GlideRecord.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]
-- [[service-bridge-v2-provider-tasks|Provider tasks]]

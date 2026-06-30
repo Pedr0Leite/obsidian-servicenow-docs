@@ -14,13 +14,13 @@ breadcrumb: [Common applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Know Your Customer
 
-The ServiceNow® Financial Services Know Your Customer application works with other [[fso-overview|Financial Services]] Operations applications to verify an applicant's identity and evaluate their eligibility.
+The ServiceNow® Financial Services Know Your Customer application works with other Financial Services Operations applications to verify an applicant's identity and evaluate their eligibility.
 
 This application is automatically installed when you install any of the following Financial Services Operations applications.
 
--   [[card-ops-landing-page|Financial Services Card Operations]]
--   [[loan-ops-landing-page|Financial Services Loan Operations]]
--   [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]
+-   Financial Services Card Operations
+-   Financial Services Loan Operations
+-   Financial Services Customer Lifecycle Operations
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -40,10 +40,3 @@ This application is automatically installed when you install any of the followin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[loan-ops-landing-page|Financial Services Loan Operations]]
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]

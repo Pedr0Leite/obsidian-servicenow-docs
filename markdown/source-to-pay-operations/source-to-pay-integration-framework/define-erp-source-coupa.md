@@ -14,7 +14,7 @@ breadcrumb: [Configure, Source-to-Pay integration with Coupa, Integration with t
 
 # Define an ERP source configuration for Coupa
 
-Define an [[erp-source-configuration|ERP source configuration]] that specifies the Coupa [[erp-source|ERP source]] to which the ERP system connects. Map the integration payload with the Coupa tables.
+Define an ERP source configuration that specifies the Coupa ERP source to which the ERP system connects. Map the integration payload with the Coupa tables.
 
 ## Before you begin
 
@@ -57,7 +57,7 @@ Each ERP instance requires a unique ERP source configuration. For example, 10 ER
         |Active|Option to activate the ERP source.|
         |Amount Precisions|Amount precision of the ERP source. For example, 2.|
 
-        \[Omitted image "coupa-new-erp-source.png"\] Alt text: Define a new [[erp-source-configuration-coupa|ERP source configuration for Coupa]]
+        \[Omitted image "coupa-new-erp-source.png"\] Alt text: Define a new ERP source configuration for Coupa
 
     6.  Select **Submit**.
 
@@ -86,8 +86,3 @@ By default, services mapping are provided for the Coupa base system. For other C
 
 [Looking up primary data in Coupa]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[erp-source-configuration-coupa|ERP Source Configuration for Coupa]]

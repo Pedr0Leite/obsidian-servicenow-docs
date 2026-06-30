@@ -14,11 +14,11 @@ breadcrumb: [Manage safety inspections and audits through the mobile apps, Mobil
 
 # Manage the safety inspection and audit surveys through mobile app
 
-Learn how to set up and manage [[hs-safety-inspections|safety inspections and audits]] using the Mobile Agent app.
+Learn how to set up and manage safety inspections and audits using the Mobile Agent app.
 
-The Mobile Agent app can be used by safety managers to configure and by safety agents to manage the [[health-safety-overview|Health and Safety]] safety inspections and audits.
+The Mobile Agent app can be used by safety managers to configure and by safety agents to manage the Health and Safety safety inspections and audits.
 
-Use the [[mobile-employee-experience|Now Mobile app]] to manage the Health and Safety inspections and audits in [[offline-mode|offline mode]].
+Use the Now Mobile app to manage the Health and Safety inspections and audits in offline mode.
 
 -   **[Configure the create action check box for safety inspection survey in the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-configure-create-action-checkbox-mobile-survey.md)**  
 Determine the survey field types that should display the **Create action** option when inspection agents complete the survey in the Mobile Agent app.
@@ -29,9 +29,3 @@ Learn how to use the Mobile Agent app to create actions for an inspection survey
 
 **Parent Topic:**[Manage safety inspections and audits through the mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-manage-safety-inspection-audits-mobile.md)
 
-## Related
-
-- [[hs-safety-inspections|Safety inspections and audits]]
-- [[health-safety-overview|Health and Safety]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[offline-mode|Offline mode]]

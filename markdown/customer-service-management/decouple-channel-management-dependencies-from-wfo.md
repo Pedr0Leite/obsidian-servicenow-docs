@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Decouple Channel Management dependencies from WFO
 
-Decouple Channel Management from core Workforce [[optimization|Optimization]] \(WFO\) modules to support modular deployment, enabling independent updates or scaling of Channel Management without impacting other workforce engagement.
+Decouple Channel Management from core Workforce Optimization \(WFO\) modules to support modular deployment, enabling independent updates or scaling of Channel Management without impacting other workforce engagement.
 
 ## Overview of decoupling channel management
 
@@ -72,12 +72,7 @@ Role: sn\_channel\_mgmt.admin.
 
 Setting up demo data in Agent Workspace to showcase Channel Management features. The personas involved are an Agent and a Supervisor. The Supervisor creates a customer care assignment group and manage channel configurations and assignments. This group is associated with the customer care chats queue to manage inbound communication effectively. The demo data is provided within Agent Workspace, allowing users to view and interact with it to explore Channel Management functionalities. The validation process includes checking the addition of the new customer care group, populating group members, assigning roles, and ensuring all sections function properly.
 
-For more information on channel management for customer service in workforce optimization, see: [[explore-channels-configurable-wfo-cs|Channel Management in Workforce Optimization for Customer Service]]
+For more information on channel management for customer service in workforce optimization, see: [Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explore-channels-configurable-wfo-cs.md)
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[explore-channels-configurable-wfo-cs|Channel Management in Workforce Optimization for Customer Service]]
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[optimization|Optimization]]

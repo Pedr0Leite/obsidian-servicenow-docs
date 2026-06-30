@@ -15,19 +15,19 @@ breadcrumb: [Creating Platform Analytics pages, Platform Analytics experience, P
 
 The Delegate URL params property enables UIB pages containing dashboard components to control how URL parameter updates are handled. Doing so enables custom navigation logic for embedded or workspace scenarios.
 
-**Note:** This functionality requires the latest [[par-workspace|Platform Analytics experience]] application from the ServiceNow® Store.
+**Note:** This functionality requires the latest Platform Analytics experience application from the ServiceNow® Store.
 
 By default, dashboard components automatically update the browser URL when users switch dashboards, change tabs, or toggle edit mode. This behavior works well for standard dashboard pages but may not suit all implementation scenarios.
 
 The **Delegate URL params** property provides an alternative approach where the dashboard component dispatches events instead of directly updating URLs. This delegation mechanism allows parent pages to implement custom navigation logic.
 
-For information about this property in the context of the Dashboard component configuration panel, see [[dashboard-component-properties-setup|Dashboard component properties]].
+For information about this property in the context of the Dashboard component configuration panel, see [Dashboard component properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-component-properties-setup.md).
 
 ## When to use URL parameter delegation
 
 URL parameter delegation is useful in these scenarios:
 
--   The page URL structure does not include [[dashboard-url-parameters|dashboard URL parameters]] — for example, no `sys-id` in the URL path
+-   The page URL structure does not include dashboard URL parameters — for example, no `sys-id` in the URL path
 -   The page requires custom navigation logic for dashboard changes
 -   The dashboard is embedded in a workspace where URL management is handled by the parent component
 -   Multiple dashboard components exist on the same page and need coordinated URL handling
@@ -53,14 +53,14 @@ The `DASHBOARD#URL_PARAMS_UPDATE_REQUESTED` event contains a **urlParams** objec
 
 This structured approach provides client scripts with sufficient context to make informed navigation decisions, including handling special cases like opening dashboards in new browser tabs.
 
-For more information about this event, see [[dashboard-component-events-setup|Dashboard component events]].
+For more information about this event, see [Dashboard component events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-component-events-setup.md).
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Create a [[c_performanceAnalyticsAndReporting|Platform Analytics]] workspace from App Engine Studio]()
+[Create a Platform Analytics workspace from App Engine Studio]()
 
 [Add Platform Analytics pages to a configurable workspace]()
 
@@ -149,11 +149,3 @@ function handler({api, event}) {
 }
 ```
 
-## Related
-
-- [[dashboard-component-properties-setup|Dashboard component properties]]
-- [[dashboard-component-events-setup|Dashboard component events]]
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[par-workspace|Platform Analytics experience]]
-- [[dashboard-url-parameters|Dashboard URL parameters]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -20,7 +20,7 @@ Role required: sn\_csm\_case\_types.service\_definition\_manager, sn\_csm\_case\
 
 ## About this task
 
-A case type can be associated with one or more [[csm-service-definitions|service definitions]].
+A case type can be associated with one or more service definitions.
 
 To see the service definitions associated with a case type, navigate to **All** &gt; **Customer Service** &gt; **Case Types** &gt; **Manage Case Types** and select a case type from the list. This information is displayed in the Service Definitions related list.
 
@@ -36,6 +36,4 @@ To see the service definitions associated with a case type, navigate to **All** 
 
 4.  Select **Update**.
 
-## Related
 
-- [[csm-service-definitions|Service definitions]]

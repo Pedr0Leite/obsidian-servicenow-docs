@@ -14,7 +14,7 @@ breadcrumb: [Loan Operations, Banking applications, Financial Services Operation
 
 # Exploring Financial Services Loan Operations
 
-You can use ServiceNow® [[loan-ops-landing-page|Financial Services Loan Operations]] to manage servicing for all types of loans.
+You can use ServiceNow® Financial Services Loan Operations to manage servicing for all types of loans.
 
 ## Key features
 
@@ -33,7 +33,7 @@ The business and personal loan service requests are supported through the follow
 
     With this application, you can manage business loan servicing. A business loan is a loan that is obtained by an enterprise \(account\) to meet its business requirements.
 
-    You can enable Business Loan Operations by installing the [[fso-overview|Financial Services]] Business Loan Operations application \(sn\_bom\_loan\_b2b\) from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+    You can enable Business Loan Operations by installing the Financial Services Business Loan Operations application \(sn\_bom\_loan\_b2b\) from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 -   **Personal Loan Operations**
 
@@ -107,7 +107,3 @@ Agents in the middle or back office of financial institutions who work with loan
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Loan Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/loan-ops-landing-page.md)
 
-## Related
-
-- [[loan-ops-landing-page|Financial Services Loan Operations]]
-- [[fso-overview|Financial Services]]

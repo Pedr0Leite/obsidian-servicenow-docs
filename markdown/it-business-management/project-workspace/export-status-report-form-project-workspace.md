@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Export status report form on Project Workspace
 
-Learn about the fields on the export [[status-report-form-project-management|status report form]] on the [[project-workspace-landing-page|Project Workspace]]. Use this form to export status of your projects.
+Learn about the fields on the export status report form on the Project Workspace. Use this form to export status of your projects.
 
 |Field|Description|
 |-----|-----------|
@@ -23,7 +23,3 @@ Learn about the fields on the export [[status-report-form-project-management|sta
 
 **Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[status-report-form-project-management|Status report form]]
-- [[project-workspace-landing-page|Project Workspace]]

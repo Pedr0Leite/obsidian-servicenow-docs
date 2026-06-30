@@ -14,7 +14,7 @@ breadcrumb: [Create a contract and enhance digital resilience data, Use digital 
 
 # Create New Contract form
 
-On the [[create-new-contract-form|Create New Contract form]], fill in the fields.
+On the Create New Contract form, fill in the fields.
 
 <table id="table_nfr_2g4_ycc"><thead><tr><th>
 
@@ -104,7 +104,3 @@ Detailed description of the contract.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-contract-form|Create New Contract form]]

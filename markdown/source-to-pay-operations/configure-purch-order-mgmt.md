@@ -15,23 +15,14 @@ breadcrumb: [Purchase Order Management, Source-to-Pay Operations, Finance and Su
 
 Plan and configure your implementation for Purchase Order Management.
 
--   **[[install-purch-order-mgmt|Install Purchase Order Management]]**  
+-   **[Install Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/install-purch-order-mgmt.md)**  
 If you have the admin role, install the Purchase Order Management application \(com.snc.sn\_poem\_core\). The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
--   **[[assigning-priority-to-po|Assigning priority to a purchase order]]**  
-[[purchase-order-table|Purchase order]] exceptions are automatically assigned a priority level to indicate the most urgent issues.
--   **[[assigning-po-exceptions-to-buyers|Assigning purchase order exceptions to buyers]]**  
-Use queues in [[advanced-work-assignment|Advanced Work Assignment]] to assign purchase order exceptions to the appropriate buyer.
--   **[[domain-separation-pom|Domain separation and Purchase Order Management]]**  
+-   **[Assigning priority to a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/assigning-priority-to-po.md)**  
+Purchase order exceptions are automatically assigned a priority level to indicate the most urgent issues.
+-   **[Assigning purchase order exceptions to buyers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/assigning-po-exceptions-to-buyers.md)**  
+Use queues in Advanced Work Assignment to assign purchase order exceptions to the appropriate buyer.
+-   **[Domain separation and Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/domain-separation-pom.md)**  
 Domain separation is unsupported for Purchase Order Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[purchase-order-mgmt-landing-page|Purchase Order Management]]
+**Parent Topic:**[Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-landing-page.md)
 
-## Related
-
-- [[install-purch-order-mgmt|Install Purchase Order Management]]
-- [[assigning-priority-to-po|Assigning priority to a purchase order]]
-- [[assigning-po-exceptions-to-buyers|Assigning purchase order exceptions to buyers]]
-- [[domain-separation-pom|Domain separation and Purchase Order Management]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[advanced-work-assignment|advanced work assignment]]

@@ -22,13 +22,13 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon\).
 
 3.  In the left filter pane, select the Edit filter attributes icon \(\[Omitted image "icon-edit-filter-attirbutes.png"\] Alt text: Edit filter attributes icon\).
 
-4.  In the **Edit filter attributes** dialog box, select fields or [[alert-tags|alert tags]] to add to your filter. \[Omitted image "edit-filter-attributes1.png"\] Alt text: Edit filter Attributes with Fields tab
+4.  In the **Edit filter attributes** dialog box, select fields or alert tags to add to your filter. \[Omitted image "edit-filter-attributes1.png"\] Alt text: Edit filter Attributes with Fields tab
 
     The **Fields** tab is displayed by default and displays the number of selected fields.
 
@@ -57,7 +57,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 All the selected fields are displayed in the **Filters** panel in the **Fields** column.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[alert-tags|Alert tags]]

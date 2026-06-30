@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # HR properties
 
-HR properties control the behavior of [[hr-service-delivery|HR Service Delivery]].
+HR properties control the behavior of HR Service Delivery.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Properties**.
 
     Some HR properties are found under **sys\_properties.list**.
 
@@ -42,7 +42,7 @@ sn\_hr\_core.hr\_profile\_default\_fields
 
 </td><td>
 
-Fields that appear on the [[t_GenHRProfile|Generate HR Profiles]] page. You can add fields from the sn\_hr\_core\_profile column, but use commas to separate the fields.
+Fields that appear on the Generate HR Profiles page. You can add fields from the sn\_hr\_core\_profile column, but use commas to separate the fields.
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ sn\_hr\_core.hr\_profile\_editable\_fields
 
 </td><td>
 
-Fields that users can edit themselves about their [[emp-slate-employee-profile|employee profile]].
+Fields that users can edit themselves about their employee profile.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ sn\_hr\_core.inbound\_email
 
 </td><td>
 
-This parameter determines if an email to HR is converted into an HR case.-   Yes: [[search-hr-case|Create an HR case]] from email.
+This parameter determines if an email to HR is converted into an HR case.-   Yes: Create an HR case from email.
 -   No: Do not create an HR case from email.
 
 
@@ -147,7 +147,7 @@ sn\_hr\_core.sync.exclusion\_fields.profile
 
 </td><td>
 
-Specifies which fields on the [[c_HRProfileRecords|HR profile]] \(sn\_hr\_core\_profile\) table you don't want to synchronize with the User \(sys\_user\) table.For example, specify fields that should not be overwritten as they are already synchronized with an external application.
+Specifies which fields on the HR profile \(sn\_hr\_core\_profile\) table you don't want to synchronize with the User \(sys\_user\) table.For example, specify fields that should not be overwritten as they are already synchronized with an external application.
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ sn\_hr\_core.itext7.pdf\_conversion
 
 </td><td>
 
-Activate this property to use the iText7 for your [[document-templates-overview|document templates]] for PDF conversion, pre-fill values, and merge signatures into your documents.
+Activate this property to use the iText7 for your document templates for PDF conversion, pre-fill values, and merge signatures into your documents.
 
 </td></tr><tr><td>
 
@@ -171,9 +171,9 @@ sn\_hr\_core.reclassify\_default\_transfer
 
 </td><td>
 
-Determines how you want your instance to behave when you [[reclassify-hr-case|transfer an HR case]] to another case after an upgrade.Valid entries:
+Determines how you want your instance to behave when you transfer an HR case to another case after an upgrade.Valid entries:
 
--   true: Use the default transfer case to use the standard method. The HR case number changes when transferring an HR case from one HR service to another. Both HR case numbers appear on the HR case for [[reference-hr-service-delivery-advanced-integration-with-workday|reference]].
+-   true: Use the default transfer case to use the standard method. The HR case number changes when transferring an HR case from one HR service to another. Both HR case numbers appear on the HR case for reference.
 -   false: Use the reclassify method to transfer an HR case. The HR case number does not change after transferring an HR case from one HR service to another.
 **Note:** For more information, see [Transfer an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reclassify-hr-case.md).
 
@@ -208,14 +208,3 @@ Limits access to cases, through inactive tasks, based on a time limit in months.
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[t_GenHRProfile|Generate HR Profiles]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[search-hr-case|Create an HR case]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[document-templates-overview|Document Templates]]
-- [[reclassify-hr-case|Transfer an HR case]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

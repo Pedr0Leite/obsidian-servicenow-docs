@@ -12,7 +12,7 @@ breadcrumb: [Synthetic monitoring reference, Synthetic monitoring, ITOM AIOps, I
 
 # Synthetic monitoring properties
 
-[[synthetic-monitoring-landing-page|Synthetic monitoring]] includes the following properties.
+Synthetic monitoring includes the following properties.
 
 These properties are available for synthetic monitoring.
 
@@ -40,9 +40,5 @@ Controls logging output. Valid values are:-   debug
 -   crit
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[synthetic-monitoring-reference|Synthetic monitoring reference]]
+</table>**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
-## Related
-
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]

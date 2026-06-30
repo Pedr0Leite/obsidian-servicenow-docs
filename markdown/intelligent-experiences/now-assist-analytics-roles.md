@@ -13,7 +13,7 @@ breadcrumb: [Now Assist Analytics reference, Analyzing Now Assist performance, E
 
 # Now Assist Analytics roles
 
-[[platform-now-assist-landing|Now Assist]] Analytics requires the following roles to view and manage the dashboard functionality.
+Now Assist Analytics requires the following roles to view and manage the dashboard functionality.
 
 ## Now Assist Analytics Viewer \[sn\_na\_analytics.viewer\]
 
@@ -55,6 +55,3 @@ None.
 
 Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

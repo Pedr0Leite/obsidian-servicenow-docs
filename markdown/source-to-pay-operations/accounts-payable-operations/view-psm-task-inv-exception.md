@@ -14,7 +14,7 @@ breadcrumb: [Invoice exceptions, Using Accounts Payable Invoice Processing, Use,
 
 # View related tasks for an Insufficient Goods Receipt invoice exception
 
-View [[purchase-order-table|purchase order]] tasks in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to understand why an Insufficient Goods Receipt invoice exception has been raised.
+View purchase order tasks in Accounts Payable Operations to understand why an Insufficient Goods Receipt invoice exception has been raised.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purch-order-mgmt-ws|Source-to-Pay workspace]]** &gt; **Accounts Payable Operations**.
+1.  Navigate to **All** &gt; **Source-to-Pay workspace** &gt; **Accounts Payable Operations**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
 3.  Do one of the following:
 
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[work-with-invoice-exceptions|invoice exceptions]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice exceptions**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice exceptions**.
 4.  In the Number column, select the link to an Insufficient Goods Receipt invoice exception to open it.
 
@@ -36,7 +36,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 5.  Select the **Related tasks** tab.
 
-    If [[psm-overview|Sourcing and Procurement Operations]] is installed, then this tab shows the following tasks:
+    If Sourcing and Procurement Operations is installed, then this tab shows the following tasks:
 
     -   Receipt. For more information, see [Receipt tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/receipt-tasks.md).
     -   Milestone. For more information, see [Milestones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/milestones.md).
@@ -50,10 +50,3 @@ The Accounts Payable Specialist understands the Insufficient Goods Receipt excep
 
 **Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[psm-overview|Sourcing and Procurement Operations]]

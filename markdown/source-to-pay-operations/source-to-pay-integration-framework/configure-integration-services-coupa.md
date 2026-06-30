@@ -35,9 +35,9 @@ If the application requires multiple Coupa ERP instances, create separate web se
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  Open the [[erp-source|ERP source]] for which you need to configure Integration services.
+2.  Open the ERP source for which you need to configure Integration services.
 
     For example, Coupa.
 
@@ -153,7 +153,3 @@ Order in which the entity should be displayed.
 
 [Looking up primary data in Coupa]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

@@ -14,29 +14,23 @@ breadcrumb: [Technology Controls Monitoring Accelerator, GRC use case accelerato
 
 # Download the Technology Controls Monitoring Accelerator
 
-Before you run the [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] application in your instance, you must download it from the ServiceNow Store.
+Before you run the Technology Controls Monitoring Accelerator application in your instance, you must download it from the ServiceNow Store.
 
 ## Before you begin
 
-If you downloaded the [[cybersecurity-controls-accelerator|Cybersecurity Controls Accelerator]] application, you can skip this procedure as this application was installed as a dependency to the Cybersecurity Controls Accelerator application.
+If you downloaded the Cybersecurity Controls Accelerator application, you can skip this procedure as this application was installed as a dependency to the Cybersecurity Controls Accelerator application.
 
 Prior to running the Technology Controls Monitoring Accelerator application, you must download and activate the following GRC applications:
 
--   GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+-   GRC: Policy and Compliance Management
 -   GRC: Profiles
 
 Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
 
 **Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]
-- [[cybersecurity-controls-accelerator|cybersecurity controls accelerator]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

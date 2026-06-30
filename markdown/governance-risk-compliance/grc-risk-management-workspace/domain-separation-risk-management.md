@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 Domain separation is best for those customers who:
 
 -   Need to enforce absolute data segregation between business entities \(data separation\).
--   Customize business process definitions and user interfaces for each domain \(delegated [[Administration|administration]]\).
+-   Customize business process definitions and user interfaces for each domain \(delegated administration\).
 -   Maintain some global processes and global reporting in a single instance.
 
 These users can choose to expand or collapse the domain scope to show or hide data from other domains.
@@ -98,6 +98,3 @@ Records that are automatically generated, the domain of the record is determined
 
 **Parent Topic:**[Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-management-reference.md)
 
-## Related
-
-- [[Administration|Administration]]

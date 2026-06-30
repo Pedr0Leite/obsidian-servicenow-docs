@@ -14,7 +14,7 @@ breadcrumb: [Enable automatic action plan creation, Creating and managing audien
 
 # Activate the Create a new action plan for your employee activity
 
-Set activities in [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] to active to enable the [[activity-lxp|activity]] to process fulfillment and closure of related events and activities.
+Set activities in Lifecycle Events to active to enable the activity to process fulfillment and closure of related events and activities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_le.admin or sn\_hr\_le.activity\_set\_manager
 
 ## About this task
 
-The Create a new action plan for your employee activity by default is not active. To create [[journey-accelerator-1|Journey Accelerator]] action plans, activate the Create a new action plan for your employee activity if it isn't already active.
+The Create a new action plan for your employee activity by default is not active. To create Journey Accelerator action plans, activate the Create a new action plan for your employee activity if it isn't already active.
 
 ## Procedure
 
@@ -42,8 +42,3 @@ The Create a new action plan for your employee activity by default is not active
 
 [Open an HR case to create a Journey Accelerator action plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-journey-accelerator-plan.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[journey-accelerator-1|Journey Accelerator]]

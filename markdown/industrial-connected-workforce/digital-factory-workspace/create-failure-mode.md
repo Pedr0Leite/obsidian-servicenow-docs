@@ -14,7 +14,7 @@ breadcrumb: [Industrial Failure Modes, Use, Digital Factory Workspace, Industria
 
 # Create a failure mode from a functional location
 
-Create a failure mode from a functional location in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] to help identify and organize equipment or process issues.
+Create a failure mode from a functional location in the Digital Factory Workspace to help identify and organize equipment or process issues.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can create failure modes from a functional location or an equipment entity. 
 
 3.  Select **Failure Modes** then **New failure mode**.
 
-4.  On the [[failure-mode-form|Failure mode form]], fill in the fields.
+4.  On the Failure mode form, fill in the fields.
 
     For a description of the field values, see [Failure mode form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/failure-mode-form.md).
 
@@ -45,7 +45,3 @@ The failure mode is displayed in the list of failure modes for the functional lo
 
 **Parent Topic:**[Industrial Failure Modes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-failure-modes.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[failure-mode-form|Failure mode form]]

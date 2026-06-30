@@ -22,13 +22,13 @@ Role required: ais\_admin
 
 ## About this task
 
-By default, user searches only match Knowledge articles in the language associated with the user's ServiceNow AI Platform session. As an example, a user searching from a Japanese session only sees search [[hs-results|results]] for Japanese-language Knowledge articles.
+By default, user searches only match Knowledge articles in the language associated with the user's ServiceNow AI Platform session. As an example, a user searching from a Japanese session only sees search results for Japanese-language Knowledge articles.
 
 Search administrators can expand the recall of Knowledge article searches for a country's users by specifying additional Knowledge article search languages for that country. For example, suppose you specify the Knowledge article search languages English and French for the country of Japan. With these country-to-language mappings in place, a user searching from a Japanese session can see search results for Knowledge articles in English and French as well as for articles in Japanese.
 
 ## Procedure
 
-1.  Navigate to the [[ia-ai-search|AI Search]] Country To Search Language \[ais\_country\_to\_search\_language\] table's list view.
+1.  Navigate to the AI Search Country To Search Language \[ais\_country\_to\_search\_language\] table's list view.
 
     1.  Select **All**.
 
@@ -40,7 +40,7 @@ Search administrators can expand the recall of Knowledge article searches for a 
 
     1.  Select **New**.
 
-    2.  On the [[ais-country-kb-srch-lang-form|AI Search Country To Search Language form]], fill in the fields.
+    2.  On the AI Search Country To Search Language form, fill in the fields.
 
         For a description of the field values, see [AI Search Country To Search Language form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ais-country-kb-srch-lang-form.md).
 
@@ -55,8 +55,3 @@ When users in a country with one or more Knowledge article search languages defi
 
 **Parent Topic:**[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[ais-country-kb-srch-lang-form|AI Search Country To Search Language form]]

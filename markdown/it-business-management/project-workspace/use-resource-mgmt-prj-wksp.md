@@ -14,13 +14,13 @@ breadcrumb: [Project Workspace, Project Portfolio Management, Strategic Portfoli
 
 # Resource planning with Project Workspace
 
-Use the Resource Management application to allocate and manage your resources in the [[project-workspace-landing-page|Project Workspace]].
+Use the Resource Management application to allocate and manage your resources in the Project Workspace.
 
 ## Key benefits
 
 Using Resource Management, you can create, plan, track, and monitor resource assignments at a project or task level in the Project Workspace. With Resource Management in Project Workspace, you can:
 
--   [[create-attribute-resource-assignment|Create an attribute-based resource assignment]].
+-   Create an attribute-based resource assignment.
 -   Change the resource assignment dates, resources, efforts, and proposed allocations at any level of the project.
 -   View resource allocations using new heatmap modal. The allocations are color-coded to display the availability of the resources.
 -   View the primary attributes such as Group, Role, and Skill of each resource in the resource assignment pane. They are useful when you work on reassigning a task to a different user with the same primary attributes.
@@ -28,11 +28,11 @@ Using Resource Management, you can create, plan, track, and monitor resource ass
 
 ## Resource assignment pane
 
-The resource assignment pane displays a interface where you add resource assignments for your projects or [[t_CreateAProjectTask|project tasks]].
+The resource assignment pane displays a interface where you add resource assignments for your projects or project tasks.
 
 ## Resource allocations and heatmap
 
-The [[r_AllocatingResources|Resource allocation]] view combines a hierarchical task structure by resource with time-based and effort-based allocation metrics, such as hours, FTE, or person-days over weekly or monthly intervals.
+The Resource allocation view combines a hierarchical task structure by resource with time-based and effort-based allocation metrics, such as hours, FTE, or person-days over weekly or monthly intervals.
 
 **Note:** Switch between different efforts such as hours, FTE, or person days to view a resource allocation heatmap based on the selected effort type.
 
@@ -49,14 +49,7 @@ From the above example, you can see the breakdown of the approved work items alo
 Within the Resource Allocation view, the Approved state is prioritized and listed first, followed by other statuses based on their order in the record list. Additionally, if a user has no capacity during a given period, the corresponding cell is displayed in red color.
 
 -   **[Resource assignments in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/resource-assignments-pw.md)**  
-Optimize project execution by assigning resources to tasks within the Project Workspace. You can [[create-rsrc-asgnmnts-ppm|create resource assignments]] for any project or project task, specifying the tasks to be performed and the resources to be allocated.
+Optimize project execution by assigning resources to tasks within the Project Workspace. You can create resource assignments for any project or project task, specifying the tasks to be performed and the resources to be allocated.
 
 **Parent Topic:**[Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-attribute-resource-assignment|Create an attribute-based resource assignment]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]

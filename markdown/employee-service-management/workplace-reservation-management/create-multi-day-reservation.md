@@ -44,19 +44,19 @@ Steps
 
 </td><td>
 
-Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 </td></tr><tr><td id="d517290e135">
 
-**From [[employee-center-landing-page|Employee Center]] Portal**
+**From Employee Center Portal**
 
 </td><td>
 
 -   Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
--   On the Employee Center portal, select **[[workplace-services|Workplace Services]]** &gt; **Browse Workplace Services**.
+-   On the Employee Center portal, select **Workplace Services** &gt; **Browse Workplace Services**.
 -   Select the **New general reservation** card.
 
-[[reservation-portal|Make a reservation]] portal page opens for you to make workplace reservations.
+Make a reservation portal page opens for you to make workplace reservations.
 
 -   Another way to make reservation is to use chat icon. On the home page, select the chat icon \(\[Omitted image "chat-icon.png"\] Alt text: Chat icon.\). To make a reservation, enter your question or select **Show Me Everything** to select from the list of available options.
 
@@ -117,11 +117,11 @@ Floor of a building where you want to make a reservation.The floor names are eit
 
 </td></tr><tr><td>
 
-From**Note:** The time directive fields \(From, time, To\) are also available on the MESP \(Mobile Employee Service Portal\) on the [[mobile-employee-experience|Now Mobile app]].
+From**Note:** The time directive fields \(From, time, To\) are also available on the MESP \(Mobile Employee Service Portal\) on the Now Mobile app.
 
 </td><td>
 
-Start date of your reservation.-   Employees can't select a date and [[create-reservation-request-1|create a reservation]] if the start date exceeds the Max days in future Reservable module value. Thisn’t value is configured on the Reservable module by your administrator. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
+Start date of your reservation.-   Employees can't select a date and create a reservation if the start date exceeds the Max days in future Reservable module value. Thisn’t value is configured on the Reservable module by your administrator. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
 When the Max days in future value is configured by your administrator, you can’t select a date past the max allowed date. The dates in the calendar date picker are inactive for dates that are too far in future.
 
@@ -219,7 +219,7 @@ Reserve multiple workplace items spanning multiple buildings. The buildings time
 
     The map view shows available and booked spaces.
 
-    -   If your organization is using floor maps, view the floor maps using Mappedin or [[Indoor-mapping|Indoor Mapping]] as your map provider.
+    -   If your organization is using floor maps, view the floor maps using Mappedin or Indoor Mapping as your map provider.
 
         .
 
@@ -351,7 +351,7 @@ Invite external visitor
 
 </td><td>
 
-Option to invite external visitor.**Note:** This option appears only if you have the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application installed. The visitor details are automatically logged in the Workplace Visitor Management application for the reception staff to perform visitor-related tasks.
+Option to invite external visitor.**Note:** This option appears only if you have the Workplace Visitor Management application installed. The visitor details are automatically logged in the Workplace Visitor Management application for the reception staff to perform visitor-related tasks.
 
  -   If you've already registered the visitor, do the following:
     1.  Select **Previous visitor**.
@@ -394,7 +394,7 @@ For example: In case if you have selected space arrangements as an extra service
 -   Select the Number of seats.
 -   Add additional comments for the service item.
 -   Click **Add**.
--   A new case is created when a reservation or services are updated. A [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] is added to the old and new service.
+-   A new case is created when a reservation or services are updated. A reference is added to the old and new service.
 -   Application tries to retain the services. In case while updating a reservation, the space or location is not changed, then the services are visible and employees can update the reservation after changing the date and time.
 -   In case, if space or location is changed while updating a reservation, then the application tries to propose the available services and applicable for a new location. Employees must select the suggested services and add it to their reservation while updating it.
 -   In case if you are adding a space while updating a reservation, then you must add the services manually.
@@ -597,7 +597,7 @@ Review your reservation details on the Reservation summary page.
     -   When a reservation is created, they will receive an email notification that they are invited to the reservation.
     -   When a reservation is cancelled or updated.
     -   When an invitee or visitor is removed from the reservation, they will receive an email notification that the invite has been canceled for them.
-    **Note:** If push notifications are enabled in your organization and you have the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] application, you will receive notifications for your reservation on your mobile device. For more information on reservation-related push notifications, see [Mobile push notifications for workplace reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-push-notifications.md).
+    **Note:** If push notifications are enabled in your organization and you have the Workplace Service Delivery for Mobile application, you will receive notifications for your reservation on your mobile device. For more information on reservation-related push notifications, see [Mobile push notifications for workplace reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-push-notifications.md).
 
     For more information about making multi-day reservation using the Space Details page, see [Set a location as favorite using the Space details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/set-a-location-as-favorite.md).
 
@@ -639,15 +639,3 @@ Review your reservation details on the Reservation summary page.
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[reservation-portal|Make a reservation]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

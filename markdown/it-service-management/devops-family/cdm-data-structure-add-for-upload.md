@@ -18,7 +18,7 @@ Add the data structure to a new application that will accept the uploaded config
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: CDM Admin \[sn\_cdm.cdm\_admin\]
 
@@ -50,7 +50,7 @@ Starting with Configuration Data Management version 4.2, you can define a node u
 
 3.  Create the components that will be included in the collections.
 
-4.  Add CDIs to the deployable that will override or overlay [[settings-mobile|settings]] in components or collections.
+4.  Add CDIs to the deployable that will override or overlay settings in components or collections.
 
     **Note:** Uploaded data items are sorted alphabetically within the structural folders to enable you to locate particular items quickly.
 
@@ -112,7 +112,3 @@ The application does not yet contain config data, so the next step is to import 
 
 [How encrypted data is handled](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-secrets-managing.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

@@ -20,7 +20,7 @@ Role required: user
 
 ## Procedure
 
-1.  Navigate to the [[users-page|Users page]].
+1.  Navigate to the Users page.
 
 2.  Select the add icon \[Omitted image "add-icon-msi.jpg"\] Alt text:.
 
@@ -34,6 +34,4 @@ Role required: user
     |Confirm Password|Retype the password.|
     |Roles|Roles that the user account needs. If needed, you can select more than one role.|
 
-## Related
 
-- [[users-page|Users page]]

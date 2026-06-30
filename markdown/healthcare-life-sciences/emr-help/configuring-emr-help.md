@@ -14,7 +14,7 @@ breadcrumb: [EMR Help, Healthcare and Life Sciences Service Management, Healthca
 
 # Configuring EMR Help
 
-Set up the [[emr-exploring|EMR Help]] application to address different types of clinician issues submitted from an EMR system.
+Set up the EMR Help application to address different types of clinician issues submitted from an EMR system.
 
 ## Configuration overview
 
@@ -52,7 +52,7 @@ Simultaneously, relevant EMR variables, such as workstation ID, patient details,
 
 -   [Configure healthcare case types for EMR Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-hcls-case-types-for-emr-help.md).
 
-    [[configure-hcls-case-types-for-emr-help|Configure healthcare case types for EMR Help]] in to fulfill service requests made from the EMR Help portal.
+    Configure healthcare case types for EMR Help in to fulfill service requests made from the EMR Help portal.
 
     The base healthcare case type \[sn\_hcls\_case\] is an abstract case type that provides a foundation to extend from when building your own healthcare case types.
 
@@ -66,7 +66,7 @@ Simultaneously, relevant EMR variables, such as workstation ID, patient details,
 
 -   [Configure the EMR session info contextual sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-emr-session-info-contextual-sidebar.md).
 
-    [[configure-the-emr-session-info-contextual-sidebar|Configure the EMR session info contextual sidebar]] in Workspace to manage the fields that display there.
+    Configure the EMR session info contextual sidebar in Workspace to manage the fields that display there.
 
 -   [Configuring the EMR Help service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/config-emr-help-sp.md).
 
@@ -87,12 +87,7 @@ Simultaneously, relevant EMR variables, such as workstation ID, patient details,
 
 ## Additional configuration information
 
--   To [[configure-digest-token-authentication-for-emr-help|configure digest token authentication for EMR Help]], see the [How to Configure Digest Token Authentication for EMR Help with Epic Hyperspace \[KB1002504\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1002504) article in the Now Support knowledge base.
+-   To configure digest token authentication for EMR Help, see the [How to Configure Digest Token Authentication for EMR Help with Epic Hyperspace \[KB1002504\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1002504) article in the Now Support knowledge base.
 -   To configure EMR Help to launch within an iframe in Epic Hyperspace and Hyperdrive, see the [How to configure EMR Help to launch within an iFrame in Epic Hyperspace and Hyperdrive \[KB1207128\]](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=54128a784745f590b8a4aa25126d437c) article in the Now Support knowledge base.
 
-## Related
 
-- [[emr-exploring|EMR Help]]
-- [[configure-hcls-case-types-for-emr-help|Configure healthcare case types for EMR Help]]
-- [[configure-the-emr-session-info-contextual-sidebar|Configure the EMR session info contextual sidebar]]
-- [[configure-digest-token-authentication-for-emr-help|Configure digest token authentication for EMR Help]]

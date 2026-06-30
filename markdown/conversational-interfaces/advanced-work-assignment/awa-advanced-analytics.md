@@ -14,9 +14,9 @@ breadcrumb: [Analytics &amp; Reporting Solutions, Reference, Advanced Work Assig
 
 # Using Advanced analytics to access AWA dashboards
 
-Advanced analytics enable you to view cards that represent the [[awa-application-landing-page|Advanced Work Assignment]] dashboards that you have access to. You can also see a dashboard picker, which lets you view the cards for all the dashboards in a group. You can then search and choose a dashboard from a list.
+Advanced analytics enable you to view cards that represent the Advanced Work Assignment dashboards that you have access to. You can also see a dashboard picker, which lets you view the cards for all the dashboards in a group. You can then search and choose a dashboard from a list.
 
-Navigate to **Advanced Work Assignment** &gt; **[[management|Management]]** &gt; **Advanced Analytics**.
+Navigate to **Advanced Work Assignment** &gt; **Management** &gt; **Advanced Analytics**.
 
 The advanced analytics for the dashboards lets you see the dashboards in one of these categories: by default, the Recent category is selected when you visit the advanced analytics for the dashboards.
 
@@ -52,7 +52,3 @@ The advanced analytics screen defaults to showing only the dashboards related to
 
 Click **New** to [Create or configure a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateADashboard.md).
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]

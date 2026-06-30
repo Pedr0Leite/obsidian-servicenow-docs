@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management reference, Service Reliability Manag
 
 # Domain separation and SRM
 
-Domain separation is supported for [[sr-landing-page|Service Reliability Management]] \(SRM\).
+Domain separation is supported for Service Reliability Management \(SRM\).
 
 ## Support level: Basic\*
 
@@ -32,13 +32,13 @@ For more information on support levels, see [Application support for domain sepa
 
 -   Domain separation is present in all metadata tables in the application. Instance level tables also have domain separation explicitly. Other internal tables, such as the internal Team Request table, are domain-separated implicitly by referencing domain-separated records.
 -   System properties are not domain-separated, which has implications for Team Management features. The properties are shared by multiple domains and are set at the instance level. Domain-specific setup for these is not supported.
--   Where another application is being leveraged \(for example the [[c_EM|Event Management]] Connectors\) domain separation is determined by the domain-separation capabilities of that application.
+-   Where another application is being leveraged \(for example the Event Management Connectors\) domain separation is determined by the domain-separation capabilities of that application.
 
 ## How domain separation works in the Service Reliability Management application
 
 The specific conditions indicated by the Basic\* support level rating above relate to team management:
 
--   New teams created through a catalog item backed by an Integration Hub flow are setup by the [[workspace-dashboard-use|Service Operations Workspace]] administrator. They can initiate it from the Service Portal. An SRM admin, manager or responder can do it through the SRM workspace. Instructions appear in the SRM documentation.
+-   New teams created through a catalog item backed by an Integration Hub flow are setup by the Service Operations Workspace administrator. They can initiate it from the Service Portal. An SRM admin, manager or responder can do it through the SRM workspace. Instructions appear in the SRM documentation.
 -   Integration Hub subflows and actions control management of SRM teams.
 -   Only one catalog item and flow can be set up for each instance. The customer is responsible for setting up team properties to support domain separation as a customization of the existing flows.
 -   The requestor of a team catalog item is associated with the domain and is available as part of the request item. As a result, if needed, the requester can create the team in a specific domain or the catalog Item and extend it to capture the domain another way. In either case, the Service Operations Workspace must make changes to the Integration Hub flows and actions to support this.
@@ -52,8 +52,3 @@ For more information, see [Domain separation and On-Call Scheduling](https://raw
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

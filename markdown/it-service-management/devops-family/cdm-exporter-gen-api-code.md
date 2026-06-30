@@ -18,7 +18,7 @@ Generate sample code of an API invocation for an exporter. The code can invoke t
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
@@ -34,13 +34,10 @@ Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
 3.  Select the language.
 
-    The system applies the [[settings-mobile|settings]] that you specify and displays the resulting API sample in the text box.
+    The system applies the settings that you specify and displays the resulting API sample in the text box.
 
 4.  Select **Copy to clipboard**.
 
     You can now paste the code into an editor for use in your code.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

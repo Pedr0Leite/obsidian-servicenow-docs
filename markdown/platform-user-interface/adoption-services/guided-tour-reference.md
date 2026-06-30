@@ -14,15 +14,10 @@ breadcrumb: [Guided Tours, Adoption services, Configure user experiences]
 
 # Guided Tour Reference
 
-[[onboarding-modals-reference|Reference]] topics provide additional information about configuration properties, roles, and more.
+Reference topics provide additional information about configuration properties, roles, and more.
 
 -   **[Guided Tour callout color](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-callout-color.md)**  
-Customize [[guided-tours|Guided Tours]] callout colors in [[c_ServicePortal|Service Portal]].
+Customize Guided Tours callout colors in Service Portal.
 
 **Parent Topic:**[Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tours.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[guided-tours|Guided Tours]]
-- [[c_ServicePortal|Service Portal]]

@@ -23,7 +23,7 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.service\_order\
 By using the Order Line Item and Order Characteristic forms together, you can do the following actions:
 
 -   View an existing service order line item.
--   View, add, change, or delete a new characteristic of a service order line item. To learn more, see [[service-order-mgt-review-service-order-detail|Select, review, revise, or request cancellation of a service order]].
+-   View, add, change, or delete a new characteristic of a service order line item. To learn more, see [Select, review, revise, or request cancellation of a service order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/service-order-mgt-review-service-order-detail.md).
 
 ## Procedure
 
@@ -70,6 +70,3 @@ If you create a manual fallout record or an automated one is generated for the o
 
 To learn more about order fallout, see [Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md).
 
-## Related
-
-- [[service-order-mgt-review-service-order-detail|Select, review, revise, or request cancellation of a service order]]

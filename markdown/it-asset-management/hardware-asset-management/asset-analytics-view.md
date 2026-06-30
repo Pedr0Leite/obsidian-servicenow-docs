@@ -20,9 +20,9 @@ Use the Asset analytics view to get a detailed view of all your hardware assets,
 
 For more information about the TCO of your assets, see [Asset Total Cost of Ownership for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-mgmt-tco.md).
 
-**Important:** The Asset Analytics view is available with [[ham-landing-page|Hardware Asset Management]] 10.0.0 version or later.
+**Important:** The Asset Analytics view is available with Hardware Asset Management 10.0.0 version or later.
 
-\[Omitted image "ham-asset-analytics.png"\] Alt text: Asset analytics view in [[using-ham-workspace|Hardware Asset Workspace]].
+\[Omitted image "ham-asset-analytics.png"\] Alt text: Asset analytics view in Hardware Asset Workspace.
 
 You can filter and narrow down your results by selecting a location, stockroom, and model category.
 
@@ -70,7 +70,7 @@ Number of assets for capital planning. The Assets for capital planning are asset
 
 </td></tr><tr><td>
 
-Top 10 [[c_Models|models]] with highest average TCO
+Top 10 models with highest average TCO
 
 </td><td>
 
@@ -140,8 +140,3 @@ When you select any KPI report, the **KPI Details** page appears. This page enab
 |MTTR|Average MTTR of all hardware assets that are tracked, calculated by dividing the total Asset MTTR by the number of assets listed in the Asset availability report.|
 |Asset availability|Report that lists the availability and other related KPIs of all hardware assets that are tracked.|
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Models|Models]]

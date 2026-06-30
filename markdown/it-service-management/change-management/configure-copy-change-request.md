@@ -14,7 +14,7 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Configure ability to copy a change request
 
-You can configure the ability to [[copy-a-change-request|copy a change request]] record and its details using system properties.
+You can configure the ability to copy a change request record and its details using system properties.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Set **Copy attachments from originating change** \(**com.snc.change\_request.att
 
 </td><td>
 
-This system property is located in the \[sys\_properties\] table.Set the **Enable copying of attachments from the originating change's related [[change-tasks|change tasks]]** \(**com.snc.change\_request.rl.change\_task.attach.enable\_copy**\) system property to `false`.
+This system property is located in the \[sys\_properties\] table.Set the **Enable copying of attachments from the originating change's related change tasks** \(**com.snc.change\_request.rl.change\_task.attach.enable\_copy**\) system property to `false`.
 
  **Note:** If the ability to copy attachments is enabled, the attachment appears on the copy of the change request only after it is saved.
 
@@ -114,7 +114,3 @@ These system properties are located in the \[sys\_properties\] table. Navigate t
 
 [Copy a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/copy-a-change-request.md)
 
-## Related
-
-- [[copy-a-change-request|Copy a change request]]
-- [[change-tasks|Change tasks]]

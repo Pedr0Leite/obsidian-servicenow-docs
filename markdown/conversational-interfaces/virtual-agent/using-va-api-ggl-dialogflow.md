@@ -14,7 +14,7 @@ breadcrumb: [Using Virtual Agent Bot Interconnect in your configuration, Build a
 
 # Using Google Dialogflow as a secondary bot with Virtual Agent Bot Interconnect
 
-With Bot Interconnect, you can use ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] as the primary bot with a Google Dialogflow secondary bot. All of the skills and topics available to Google Dialogflow are made available to and executable from channels that are configured for ServiceNow® Virtual Agent.
+With Bot Interconnect, you can use ServiceNow® Virtual Agent as the primary bot with a Google Dialogflow secondary bot. All of the skills and topics available to Google Dialogflow are made available to and executable from channels that are configured for ServiceNow® Virtual Agent.
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ This bot configuration requires the following:
 -   A Google Dialogflow account
 
 1.  [Create a new agent in Google Dialogflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-new-agent-google-dialogflow.md)  
-To use Google Dialogflow with Virtual Agent Bot Interconnect, you must first [[create-new-agent-google-dialogflow|create a new agent in Google Dialogflow]].
+To use Google Dialogflow with Virtual Agent Bot Interconnect, you must first create a new agent in Google Dialogflow.
 2.  [Create a service account and private key for the Google Dialogflow project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-srvc-acct-key-dialogflow.md)  
 To use Google Dialogflow with Virtual Agent Bot Interconnect, the second step is to create a service account and private key for the new agent in Google Dialogflow.
 3.  [Generate a Java Keystore file from the JSON private key file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/generate-jks-from-json-dialogflow.md)  
@@ -37,7 +37,3 @@ To access topics in the Google Dialogflow secondary bot, you must create at leas
 
 **Parent Topic:**[Using Virtual Agent Bot Interconnect in your configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-va-primary-bot-api.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[create-new-agent-google-dialogflow|Create a new agent in Google Dialogflow]]

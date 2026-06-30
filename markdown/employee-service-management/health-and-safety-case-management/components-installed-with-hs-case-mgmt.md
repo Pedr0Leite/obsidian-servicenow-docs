@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Case Management, Health and Safety, Em
 
 # Components installed with Health and Safety Case Management
 
-Several types of components are installed with installation of the [[hs-case-management-landing-page|Health and Safety Case Management]] application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
+Several types of components are installed with installation of the Health and Safety Case Management application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
 
 ## Store applications installed
 
@@ -28,11 +28,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for [[health-safety-overview|Health and Safety]]. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
@@ -61,7 +61,7 @@ Safety case manager
 
 Manager for Health and Safety cases who can
 
--   View Health and Safety cases and their related records in the [[health-safety-core-workspace|Health and Safety Workspace]]
+-   View Health and Safety cases and their related records in the Health and Safety Workspace
 -   Create, update, and delete these from the Health and Safety Workspace
     -   Health and Safety cases
     -   Return to work cases
@@ -81,7 +81,7 @@ Safety case reporter
 </td><td>
 
 -   View cases created for the Health and Safety questions asked
--   Submit Health and Safety questions from the [[employee-center-landing-page|Employee Center]]
+-   Submit Health and Safety questions from the Employee Center
 
 </td><td>
 
@@ -245,7 +245,7 @@ Health and Safety routing group
 
 </td><td>
 
-Assignment group for [[universal-request-hs-case-mgmt|Universal Request for Health and Safety cases]].
+Assignment group for Universal Request for Health and Safety cases.
 
 </td><td>
 
@@ -258,12 +258,3 @@ Assignment group for [[universal-request-hs-case-mgmt|Universal Request for Heal
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Case Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-case-management-reference.md)
 
-## Related
-
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[universal-request-hs-case-mgmt|Universal Request for Health and Safety cases]]

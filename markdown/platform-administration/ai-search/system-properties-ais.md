@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # AI Search system properties
 
-Users with the admin role can configure the following [[r_SetArchiveRuleProcessingBehavior|system properties]] for [[ia-ai-search|AI Search]] by navigating to **All** &gt; **System Properties** &gt; **AI Search**.
+Users with the admin role can configure the following system properties for AI Search by navigating to **All** &gt; **System Properties** &gt; **AI Search**.
 
 <table id="table_qqp_qth_knb"><thead><tr><th>
 
@@ -91,7 +91,7 @@ Encoded query string for a query that Catalog Item records must satisfy to be el
 
 </td><td>
 
-Maximum count of records on queue for addition of terms to a synonym, stop word, or [[typo-handling-ais|typo handling]] dictionary.-   Type: integer
+Maximum count of records on queue for addition of terms to a synonym, stop word, or typo handling dictionary.-   Type: integer
 -   Default value: **1,000**
 -   Location: **System Properties** &gt; **AI Search** \(AI Search Ingestion Properties section\)
 
@@ -189,7 +189,7 @@ Option to allow indexing of searchable content from role-restricted catalog vari
 Option to allow indexing of searchable content from globally accessible catalog variables on Catalog Item records. To allow indexing of searchable content from catalog variables that require specific roles to access, see **glide.ais.ingestion.ignore\_catalog\_variables\_read\_roles**.
 
 -   Type: true \| false
--   Default value: **false** in base system, **true** if [[now-assist-ais|Now Assist in AI Search]] application is installed
+-   Default value: **false** in base system, **true** if Now Assist in AI Search application is installed
 -   Supported values:
     -   **false**: Prevent indexing of searchable content from catalog variables on Catalog Item records.
     -   **true**: Allow indexing of searchable content from globally accessible catalog variables on Catalog Item records.
@@ -257,7 +257,7 @@ Maximum number of requests that an AI Search node can process per search query.-
 
 </td><td>
 
-Result-count multiplier for search queries that use the late binding security implementation. The system multiplies the search query's minimum desired result count by this factor before requesting records from the AI Search node. Extra records replace any search [[hs-results|results]] removed by the late-binding security implementation. For example, with the default value of **3**, a search query that uses the late binding security implementation and expects at least 10 results produces a request to the AI Search node for 30 matching records. The final result set includes the first 10 of these records that the user can access.
+Result-count multiplier for search queries that use the late binding security implementation. The system multiplies the search query's minimum desired result count by this factor before requesting records from the AI Search node. Extra records replace any search results removed by the late-binding security implementation. For example, with the default value of **3**, a search query that uses the late binding security implementation and expects at least 10 results produces a request to the AI Search node for 30 matching records. The final result set includes the first 10 of these records that the user can access.
 
  Lower values improve search query performance but may reduce the search result count below the requested minimum.
 
@@ -354,10 +354,3 @@ Character length limit for stop word and synonym dictionary terms. AI Search ign
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[ia-ai-search|AI Search]]
-- [[typo-handling-ais|Typo handling]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[hs-results|Results]]

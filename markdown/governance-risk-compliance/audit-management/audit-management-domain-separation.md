@@ -14,7 +14,7 @@ breadcrumb: [Audit Management reference, Audit Management, Governance, Risk, and
 
 # Domain separation and Audit Management
 
-Domain separation is supported for [[c_GRCAudits|Audit Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Audit Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -33,7 +33,7 @@ For more information on support levels, see [Application support for domain sepa
 Domain separation is best for those customers who:
 
 -   Need to enforce absolute data segregation between business entities \(data separation\).
--   Customize business process definitions and user interfaces for each domain \(delegated [[Administration|administration]]\).
+-   Customize business process definitions and user interfaces for each domain \(delegated administration\).
 -   Maintain some global processes and global reporting in a single instance.
 
 These users can choose to expand or collapse the domain scope to show or hide data from other domains.
@@ -49,7 +49,7 @@ While GRC supports separation of data, separation of logic and process is not fu
 
     For example, suppose you have domains that look like:
 
-    \[Omitted image "domain-separation-pc.png"\] Alt text: [[grc-domain-separation|Domain separation in GRC]] Audit Management application.
+    \[Omitted image "domain-separation-pc.png"\] Alt text: Domain separation in GRC Audit Management application.
 
 
 -   If you have a risk or control that you want to be assessed by users in domains A and B, the risk or control should be generated or manually created at the global level. If the risk or control is created in Domain B, you will not be able to recreate the risk or control in Domain A due to indexing.
@@ -123,8 +123,3 @@ The following changes are made to the domain assignment process to manage data s
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[Administration|Administration]]
-- [[grc-domain-separation|Domain separation in GRC]]

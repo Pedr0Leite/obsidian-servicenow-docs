@@ -16,7 +16,7 @@ You can remove artifacts from the lists of supporting artifacts. They are not pe
 
 ## Before you begin
 
--   The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use [[case-mgmt|Security Case Management]].
+-   The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -41,15 +41,10 @@ Role required: sn\_ti.case\_user\_write
     The selected artifacts are removed from the list.
 
 
-**Parent Topic:**[[artifact-inclusion-exclusion|Security artifact exclusion and inclusion]]
+**Parent Topic:**[Security artifact exclusion and inclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/artifact-inclusion-exclusion.md)
 
 **Related topics**  
 
 
 [Return excluded security artifacts to a case]()
 
-## Related
-
-- [[artifact-inclusion-exclusion|Security artifact exclusion and inclusion]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[case-mgmt|Security Case Management]]

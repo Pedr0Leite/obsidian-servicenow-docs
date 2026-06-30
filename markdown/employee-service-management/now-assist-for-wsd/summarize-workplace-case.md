@@ -22,9 +22,9 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 ## About this task
 
-As an admin, you can [[customize-workplace-summarization|configure the Workplace Case Summarization skill]] to customize the input fields and output summary. For more information about customizing the skill, see [Configure the Workplace Case Summarization Skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/customize-workplace-summarization.md).
+As an admin, you can configure the Workplace Case Summarization skill to customize the input fields and output summary. For more information about customizing the skill, see [Configure the Workplace Case Summarization Skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/customize-workplace-summarization.md).
 
-You can use the case summarization skill in either Core UI or [[workplace-central-feat|Workplace Central]].
+You can use the case summarization skill in either Core UI or Workplace Central.
 
 -   In Core UI, the summary appears in a banner in the case record.
 -   In Workplace Central, the summary is generated in the **Details** tab.
@@ -35,11 +35,11 @@ You can use the case summarization skill in either Core UI or [[workplace-centra
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  Select the **[[case-management-workspace|Case Management]]** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
+2.  Select the **Case Management** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
 
     The Case Management dashboard opens.
 
@@ -108,11 +108,3 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customize-workplace-summarization|Configure the Workplace Case Summarization Skill]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[case-management-workspace|Case management]]

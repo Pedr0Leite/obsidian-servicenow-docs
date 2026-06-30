@@ -14,15 +14,15 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Configure Agent Client Collector for use with Service Mapping
 
-Configure [[acc-landing-page|Agent Client Collector]] to discover and map application services without having to configure credentials for the MID Server.
+Configure Agent Client Collector to discover and map application services without having to configure credentials for the MID Server.
 
 ## Before you begin
 
 Ensure that Agent Client Collector has been configured. For more information, see [Application patterns for the Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/application-patterns-acc.md).
 
-Verify that agents have the necessary privileges to execute the required application pattern commands for successful completion of top-down [[r-discovery|discovery]]. For more information, see [SSH commands requiring a privileged user during probe-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ssh-command-require-priv.md) and [Non-privileged SSH commands during probe-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ssh-probe-commands.md).
+Verify that agents have the necessary privileges to execute the required application pattern commands for successful completion of top-down discovery. For more information, see [SSH commands requiring a privileged user during probe-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ssh-command-require-priv.md) and [Non-privileged SSH commands during probe-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ssh-probe-commands.md).
 
-**Important:** This configuration requires a MID Server that is up and running to work correctly. [[c_ServiceMappingOverview|Service Mapping]] selects the MID Server to which the target agent connects, in order to run commands through the agent.
+**Important:** This configuration requires a MID Server that is up and running to work correctly. Service Mapping selects the MID Server to which the target agent connects, in order to run commands through the agent.
 
 Role required: service\_mapping\_admin
 
@@ -48,8 +48,3 @@ Agent Client Collector enables the discovery and mapping of application services
         -   `1` - Top-down discovery initially attempts to run using Agent Client Collector. If no agent is available, then it defaults to using the MID Server.
         -   `2` - Top-down discovery runs using Agent Client Collector exclusively. If unsuccessful, the process terminates.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

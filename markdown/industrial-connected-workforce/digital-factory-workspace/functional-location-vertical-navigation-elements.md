@@ -15,7 +15,7 @@ breadcrumb: [Functional location vertical navigation, Operational Equipment Mode
 
 # Functional location vertical navigation elements
 
-Use these elements to move between sections and locations in the functional location view of the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Use these elements to move between sections and locations in the functional location view of the Digital Factory Workspace.
 
 |Element|Description|
 |-------|-----------|
@@ -28,6 +28,3 @@ Use these elements to move between sections and locations in the functional loca
 
 **Parent Topic:**[Functional location vertical navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/functional-location-vertical-navigation.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

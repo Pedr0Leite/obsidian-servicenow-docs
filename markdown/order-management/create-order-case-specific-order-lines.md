@@ -12,7 +12,7 @@ breadcrumb: [Business Portal, Use, Sales Customer Relationship Management]
 
 # Request updates for items in a single order
 
-Request changes for the expected [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] date, shipping location, or quantity for specific items in an order by creating an order case from the Business Portal.
+Request changes for the expected order fulfillment date, shipping location, or quantity for specific items in an order by creating an order case from the Business Portal.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_customerservice.customer
 
 3.  Create a new order case.
 
-    1.  On the form, fill in the [[fields|fields]].
+    1.  On the form, fill in the fields.
 
 <table id="table_kph_1wl_1fc"><thead><tr><th>
 
@@ -105,7 +105,7 @@ Optional brief description.
 
         If you no longer want to make changes to an order case line item, select it, select the drop-down button next to **Edit** and select **Delete** to remove it from the list of items to be modified.
 
-    4.  [[Modify|Modify]] one or more of the values on the Edit item dialog box.
+    4.  Modify one or more of the values on the Edit item dialog box.
 
         |Field|Description|
         |-----|-----------|
@@ -129,14 +129,7 @@ The order case is created with the order case line items corresponding to the or
 **Related topics**  
 
 
-[[order-management-configure-business-portal|Configuring the Business Portal]]
+[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-## Related
-
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

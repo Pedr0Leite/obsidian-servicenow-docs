@@ -13,16 +13,16 @@ breadcrumb: [Configure rules to manage findings, Implement, Unified Security Exp
 
 # Configuring classification rules
 
-By configuring classification rules, you can ensure consistent categorization and processing of [[vulnerabilities|vulnerabilities]], [[cj-discovered-items|discovered items]] and other finding related entities based on key attributes. This helps the system route findings to the correct tables, apply the appropriate grouping, assignment, and remediation rules, enhance reporting accuracy, and determine which business logic to use \(such as prioritization and remediation targets\).
+By configuring classification rules, you can ensure consistent categorization and processing of vulnerabilities, discovered items and other finding related entities based on key attributes. This helps the system route findings to the correct tables, apply the appropriate grouping, assignment, and remediation rules, enhance reporting accuracy, and determine which business logic to use \(such as prioritization and remediation targets\).
 
 Configuration of classification rules includes the following steps.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-categorizing-findings-discovered-items|Categorizing findings and discovered items using classification rules]]
+[Categorizing findings and discovered items using classification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-categorizing-findings-discovered-items.md)
 
 ## Create and edit a classification group
 
@@ -30,11 +30,11 @@ Create groups so that the underlying rules of this group can classify the entiti
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Review** on the **Classification rules** tile.
 
@@ -187,7 +187,7 @@ Filter group
 
 </td><td>
 
-Group of filters. The group is defined when a set of conditions is used repeatedly in multiple places. Select the lookup using the lookup list icon to select the filter group. For more information, see [[create-filter-group|Create and define filter groups in Security Operations]]. This field appears only when **Filter group** is selected from the **Condition type** field.
+Group of filters. The group is defined when a set of conditions is used repeatedly in multiple places. Select the lookup using the lookup list icon to select the filter group. For more information, see [Create and define filter groups in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-filter-group.md). This field appears only when **Filter group** is selected from the **Condition type** field.
 
 </td></tr><tr><td>
 
@@ -276,7 +276,7 @@ Role required: See [Access control lists \(ACLs\) for administration rules](http
 
 ## Deactivate or delete a classification rule
 
-[[delete-vulnerability-classification-rule|Deactivate or delete a classification rule]] if it is no longer needed or relevant.
+Deactivate or delete a classification rule if it is no longer needed or relevant.
 
 ### Before you begin
 
@@ -308,13 +308,4 @@ If a classification rule is deleted or deactivated, it’s no longer applied to 
 
     **Note:** If you don't click this button, the rule continues to reside in the system. Findings referenced by the rule continue to reference them.
 
-## Related
 
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-categorizing-findings-discovered-items|Categorizing findings and discovered items using classification rules]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[create-filter-group|Create and define filter groups in Security Operations]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[cj-discovered-items|Discovered Items]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[delete-vulnerability-classification-rule|Deactivate or delete a classification rule]]

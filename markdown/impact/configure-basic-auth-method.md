@@ -29,7 +29,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 1.  Confirm the integration user account
 2.  Confirm that the integration user account exists on all participating instances, has the `sn_se.internal_rest_integration` and `sn_se.scan_engine_admin` roles assigned, and that the account password is recorded in a secure location.
 
-    If the account has not been created yet, complete [[task-create-integration-user|Create an integration user account]] before continuing.
+    If the account has not been created yet, complete [Create an integration user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/task-create-integration-user.md) before continuing.
 
 3.  Set the password using `setDisplayValue()` in a background script.
 
@@ -62,12 +62,8 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
 13. Create or import My SN Instances records and validate connections.
 
-    See [[register-your-instance|Register your instance]].
+    See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
 
 
 **Parent Topic:**[Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md)
 
-## Related
-
-- [[task-create-integration-user|Create an integration user account]]
-- [[register-your-instance|Register your instance]]

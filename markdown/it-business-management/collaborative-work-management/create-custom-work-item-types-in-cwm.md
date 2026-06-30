@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Create and manage custom work item types in CWM
 
-Create custom item types for Boards in [[cwm-landing|Collaborative Work Management]], so that you can organize and manage multiple types of tasks from a single location, regardless of the workflow.
+Create custom item types for Boards in Collaborative Work Management, so that you can organize and manage multiple types of tasks from a single location, regardless of the workflow.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ Add tasks of the new item type to your Board using the More actions menu \(\[Omi
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

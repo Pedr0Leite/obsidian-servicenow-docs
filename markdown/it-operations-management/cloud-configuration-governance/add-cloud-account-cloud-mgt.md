@@ -14,7 +14,7 @@ breadcrumb: [Additional Cloud Provisioning and Governance setup on day 2, Cloud 
 
 # Set up an additional cloud account
 
-During initial installation, you set up one cloud account. To organize and compartmentalize your infrastructure, you can set up additional [[cloud-accounts|cloud accounts]] to include different providers or service accounts or datacenters.
+During initial installation, you set up one cloud account. To organize and compartmentalize your infrastructure, you can set up additional cloud accounts to include different providers or service accounts or datacenters.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-A cloud account is the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account. See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md) for detailed information.
+A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account. See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md) for detailed information.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Cloud Accounts**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Cloud Accounts**.
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, select the cloud **Provider** for the account \(**MyProvider** in the example\), and then click **Next**.
 
@@ -48,7 +48,7 @@ A cloud account is the logical representation in [[cloud-management-v2-landing-p
 
     **Note:**
 
-    -   Select only those LDCs/Regions where your infrastructure resources are present. If you don't have any resources under these new data centers, exclude them while you run the full [[r-discovery|discovery]].
+    -   Select only those LDCs/Regions where your infrastructure resources are present. If you don't have any resources under these new data centers, exclude them while you run the full discovery.
     -   To discover resources in regions/ LDCs such as, North America \(US East, US West and Canada Central\), South America, Europe, Africa, Middle East and Asia Pacific, raise an access request to the required endpoints with GCP Support.
     The Cloud Account dashboard appears. The datacenters that you selected appear on the **Datacenters** tab.
 
@@ -58,7 +58,7 @@ A cloud account is the logical representation in [[cloud-management-v2-landing-p
 
     -   **Resources**: Cloud resources for the current datacenter. Run Discovery to populate the CMDB for the datacenter and populate the tab. See [Discover all datacenters in a service account on-demand]().
     -   **Capacity Limits**: Limits on virtual CPUs, virtual networks, storage volume size, and other services. See [Set capacity limits on user requests for resources]().
-    -   **Discovery Log**: The process creates a log record for each action associated with a [[c_DiscoveryStatus|discovery status]].
+    -   **Discovery Log**: The process creates a log record for each action associated with a discovery status.
 7.  Repeat the process to add as many service accounts as needed.
 
 
@@ -68,10 +68,3 @@ Repeat the process to create additional cloud accounts as needed. Run Discovery 
 
 **Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-mgt-general-setup-day-2.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

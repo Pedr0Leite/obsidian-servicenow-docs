@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the cable details
 
-Review, update, or create a network asset instance for the cable connecting the various sites within your network. You define these attributes so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, or create a network asset instance for the cable connecting the various sites within your network. You define these attributes so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Cables**.
 
@@ -34,7 +34,7 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 4.  On the **Details** tab, fill in the fields.
 
-    To learn more about the fields in the [[cable-form|Cable form]], see [Cable form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/cable-form.md).
+    To learn more about the fields in the Cable form, see [Cable form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/cable-form.md).
 
 5.  To create the Telecommunications Network Inventory attributes for the Cable form, select **Set Inventory Attributes**.
 
@@ -44,7 +44,7 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record. In the network inventory workspace, the **Set Inventory Attributes** is visible only for the Telecommunications Network Inventory roles.
 
-6.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+6.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -78,9 +78,3 @@ Optical fiber cables are installed between sites with open endpoints, indicating
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[cable-form|Cable form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

@@ -16,7 +16,7 @@ Create a non-conformance case report for products that had an issue.
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|Product Non-conformance]] Triager \(sn\_mfg\_qm.product\_non\_conformance\_case\_triager\)
+Role required: Quality Issue Management Admin or Product Non-conformance Triager \(sn\_mfg\_qm.product\_non\_conformance\_case\_triager\)
 
 ## Procedure
 
@@ -26,7 +26,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 3.  On the Product Non-conformance Case form, fill in the fields.
 
-    For a description of the field values, see [[mco-product-non-conformance-case-form|Product details form]].
+    For a description of the field values, see [Product details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-case-form.md).
 
 4.  Select **Save**.
 
@@ -44,7 +44,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 8.  On the Product Non Conformance Case task form, fill in the fields.
 
-    For a description of the field values, see [[mco-product-non-conformance-case-task-form|Product non-conformance case task form]].
+    For a description of the field values, see [Product non-conformance case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-case-task-form.md).
 
 9.  Select **Save**.
 
@@ -58,12 +58,5 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 11. Select **Save**.
 
 
-**Parent Topic:**[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
-## Related
-
-- [[mco-product-non-conformance-case-form|Product details form]]
-- [[mco-product-non-conformance-case-task-form|Product non-conformance case task form]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

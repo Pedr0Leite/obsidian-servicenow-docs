@@ -49,7 +49,7 @@ Price field type
 
 -   Value as entered by the user.
 -   Value in session currency.
--   Value as entered and, in brackets, the value in [[reference-email-admin|reference]] currency.
+-   Value as entered and, in brackets, the value in reference currency.
 
 The icon appears when the user’s session currency is different from the currency entered. Clicking the icon cycles through the listed displays. In the preview for the record, currency values appear as entered, formatted in the user’s locale.
 
@@ -78,14 +78,10 @@ You can set up filters on currency fields. The currency value is entered as a cu
 
 Matching records are shown in the list view.
 
-**Note:** At times, the filtering [[hs-results|results]] might not provide the expected result. The conversion rate used when you run the filter might be different than the conversion rate used when calculating the reference values in the individual records. This limitation extends to the following price types:
+**Note:** At times, the filtering results might not provide the expected result. The conversion rate used when you run the filter might be different than the conversion rate used when calculating the reference values in the individual records. This limitation extends to the following price types:
 
 -   For a Fixed price field type, the calculated reference value can be old.
 -   For a Multiple price field type, it uses the reference value of the first price, and does not use the other values.
 
 **Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]

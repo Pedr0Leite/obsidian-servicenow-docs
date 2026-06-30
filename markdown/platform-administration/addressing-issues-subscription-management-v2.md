@@ -12,7 +12,7 @@ breadcrumb: [Explore, Subscription Management, Get started, Administer the Servi
 
 # Addressing issues in Subscription Management
 
-Stay in compliance by mapping [[custom-tables|custom tables]] and custom applications to subscriptions in [[subscription-management-landing-page-v2|Subscription Management]].
+Stay in compliance by mapping custom tables and custom applications to subscriptions in Subscription Management.
 
 ## Key benefits
 
@@ -28,7 +28,7 @@ Access information on subscription issues on the **Issues** tab by navigating to
 
 ## Unmapped global custom tables
 
-Determine whether you have custom tables in the global scope that aren't mapped to a valid product subscription by accessing the **Unmapped global custom tables** tab. Keep custom table entitlements current by mapping the tables to a product subscription. For more information, see [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]].
+Determine whether you have custom tables in the global scope that aren't mapped to a valid product subscription by accessing the **Unmapped global custom tables** tab. Keep custom table entitlements current by mapping the tables to a product subscription. For more information, see [Map custom tables to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-custom-table-subsc-app-v2.md).
 
 Recommended subscriptions for unmapped custom tables appear on the **Issues** tab the day after the unmapped custom table is created.
 
@@ -36,7 +36,7 @@ Recommended subscriptions for unmapped custom tables appear on the **Issues** ta
 
 Determine whether you have custom tables in a scoped application that aren't currently mapped to a valid product subscription by accessing the **Unmapped custom applications** tab. Ensure that entitlements for these tables are current by mapping the application to a product subscription.
 
-You map tables in a scoped application at the application-level, which eases administration because you don't need to map tables individually after the application is mapped. For more information, see [[map-custom-applications-v2|Map a custom application to a product subscription in Subscription Management]].
+You map tables in a scoped application at the application-level, which eases administration because you don't need to map tables individually after the application is mapped. For more information, see [Map a custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-custom-applications-v2.md).
 
 Recommended subscriptions for unmapped custom applications appear on the **Issues** tab the day after the unmapped custom table is created.
 
@@ -61,14 +61,7 @@ When you map custom tables or custom applications to subscriptions, Subscription
     The custom table or tables in the application don't meet any of the previous criteria. If you have an App Engine subscription, Subscription Management recommends mapping the table or application to an App Engine subscription.
 
 
-If the criteria for recommending a subscription aren't met and you don't have an App Engine subscription, Subscription Management can't display recommended subscriptions for unmapped applications and tables. Unmapped applications and tables without subscription recommendations are counted in the Subscription Management Overview reports, but aren't shown in subscription Issues. You can map any missing custom applications and tables to a subscription from the Custom Applications list or the Custom Table Inventory list. For more information, see [[map-missing-custom-app-sub-mgt|Map a missing custom application to a product subscription in Subscription Management]] and [Map a missing custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-app-sub-mgt.md).
+If the criteria for recommending a subscription aren't met and you don't have an App Engine subscription, Subscription Management can't display recommended subscriptions for unmapped applications and tables. Unmapped applications and tables without subscription recommendations are counted in the Subscription Management Overview reports, but aren't shown in subscription Issues. You can map any missing custom applications and tables to a subscription from the Custom Applications list or the Custom Table Inventory list. For more information, see [Map a missing custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-app-sub-mgt.md) and [Map a missing custom application to a product subscription in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/map-missing-custom-app-sub-mgt.md).
 
 In some cases, groups aren't recommended because the measured role is inherited and not directly assigned. To work around this problem, assign the measured role directly to the group. Once the group is assigned the measured role, the group appears in the list of recommend groups in Subscription Management.
 
-## Related
-
-- [[allocate-custom-table-subsc-app-v2|Map custom tables to a product subscription in Subscription Management]]
-- [[map-custom-applications-v2|Map a custom application to a product subscription in Subscription Management]]
-- [[map-missing-custom-app-sub-mgt|Map a missing custom application to a product subscription in Subscription Management]]
-- [[custom-tables|Custom tables]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

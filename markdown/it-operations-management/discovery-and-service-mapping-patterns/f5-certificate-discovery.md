@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # F5 certificate discovery
 
-The ServiceNow® [[r-discovery|Discovery]] application uses **The F5-SSH-SSL Certification** pattern extension to find all associated certificates on F5 load balancers that use IPv4 addresses, IPv6 addresses, or both.
+The ServiceNow® Discovery application uses **The F5-SSH-SSL Certification** pattern extension to find all associated certificates on F5 load balancers that use IPv4 addresses, IPv6 addresses, or both.
 
 The **The F5-SSH-SSL Certification** pattern extension is part of the **F5 load balancer** and **F5 load balancer SSH** patterns that discover [F5 BIG-IP load balancer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerF5BIGIP.md). The **The F5-SSH-SSL Certification** pattern extension discovers F5 load balancer instances running on the hosts via SNMP/SSH, and then discovers certifications used by the running node of the load balancer.
 
@@ -37,7 +37,7 @@ For details on system requirements and family compatibility, view the applicatio
 ## Prerequisites
 
 -   **Verify the applications are up to date**
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
 -   **Verify the configuration of F5 load balancer**
     -   Ensure that F5 load balancer instances are up and running.
@@ -143,7 +143,3 @@ The **The F5-SSH-SSL Certification** pattern extension does not create any CI re
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -32,8 +32,5 @@ Opening **Add groups** or **Add tasks** from the **Event tasks** tab of an activ
 
 \[Omitted image "activated-plan-event-task-list.png"\] Alt text: Activated plan event task list showing tasks created from a task template group.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]

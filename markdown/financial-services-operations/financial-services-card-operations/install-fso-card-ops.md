@@ -14,7 +14,7 @@ breadcrumb: [Card Operations, Banking applications, Financial Services Operation
 
 # Install Financial Services Card Operations
 
-You can install the [[card-ops-landing-page|Financial Services Card Operations]] application \(sn\_bom\_credit\_card\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Financial Services Card Operations application \(sn\_bom\_credit\_card\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ For more information, see [Components installed with Financial Services Card Ope
 
 4.  Select **Install**.
 
-## Related
 
-- [[card-ops-landing-page|Financial Services Card Operations]]

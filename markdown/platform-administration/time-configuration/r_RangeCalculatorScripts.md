@@ -152,7 +152,7 @@ ExampleMaxRangeCalculator.prototype = {
 }
 ```
 
-Use the following two functions to obtain the correct start and end dates in the three example script includes provided for [[reference-email-admin|reference]].
+Use the following two functions to obtain the correct start and end dates in the three example script includes provided for reference.
 
 ```
 getTimeMs: function(date){
@@ -170,6 +170,3 @@ getTimeObject: function(timeMS) {
 
 **Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimelinePages.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

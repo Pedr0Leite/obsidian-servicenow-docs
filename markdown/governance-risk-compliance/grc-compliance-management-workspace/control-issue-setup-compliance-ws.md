@@ -43,10 +43,7 @@ For more information, see:
 -   [Linking automatically generated issues to a control in Many-to-many relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/originator-automatic-issues-ws.md) to know how multiple issues linked to a control are categorized as automatically generated or manually created.
 -   [Create an authority document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/create-authority-doc-ws.md) using the Compliance Workspace to link issues to an authority document.
 -   [Create a control objective](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/create-ctrl-objective-ws.md) using the Compliance Workspace to link issues to a control objective.
--   [Create an audit engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-engagement-ws.md) in [[audit-management-overview-ws|Audit Workspace]] to link issues to an engagement.
+-   [Create an audit engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-engagement-ws.md) in Audit Workspace to link issues to an engagement.
 -   [Create a policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/create-policy-ws.md) using the Compliance Workspace to link issues to a policy.
 -   [360° view of compliance objects and issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-data-navigtor.md) for a comprehensive and detailed overview of all object data that the issue is linked to in a many-to-many relationship.
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]

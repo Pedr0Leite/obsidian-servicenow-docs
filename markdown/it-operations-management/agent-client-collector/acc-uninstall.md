@@ -14,7 +14,7 @@ breadcrumb: [Install ACC on a Windows machine manually, ACC installation on a Wi
 
 # Uninstall the Agent Client Collector manually from a Windows machine
 
-Uninstall the [[acc-landing-page|Agent Client Collector]] from a Windows machine manually instead of using the single-line procedure. Use the manual procedure if the command script is unavailable due to the specific agent not being connected to the instance.
+Uninstall the Agent Client Collector from a Windows machine manually instead of using the single-line procedure. Use the manual procedure if the command script is unavailable due to the specific agent not being connected to the instance.
 
 ## Before you begin
 
@@ -27,6 +27,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Install the Agent Client Collector on a Windows machine manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-windows.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

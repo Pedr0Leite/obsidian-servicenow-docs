@@ -32,7 +32,7 @@ The value of the **sys\_domain** field contains the domain assigned to the recor
 
 The system prevents the following tables from being domain separated:
 
--   [[sc-access-control|Access Control]] `[sys_security_acl]`
+-   Access Control `[sys_security_acl]`
 -   Script Include `[sys_script_include]`
 -   System Property `[sys_properties]`
 -   Security Exclusion/Inclusion List Entities `[sys_security_restricted_list]`
@@ -41,13 +41,13 @@ The system prevents the following tables from being domain separated:
 
 ## Assigning users to companies
 
-Administrators can quickly assign [[users|users]] to a domain by assigning them to a company. After users are assigned to a domain, records automatically inherit the user's domain.
+Administrators can quickly assign users to a domain by assigning them to a company. After users are assigned to a domain, records automatically inherit the user's domain.
 
 For example, assigning Bow Ruggeri to the ACME company automatically assigns him to the ACME domain. Assigning Don Goodliffe to the Initech company automatically assigns him to the Initech domain. Any records they create are automatically added to the appropriate domain.
 
 ## Using business rules to assign domains
 
-Administrators can use a business rule to automatically set a domain value when creating a record. The business rule must set a value in the **sys\_domain** field. Administrators must ensure there is a **sys\_domain** column available for the record's table. To learn more see [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]].
+Administrators can use a business rule to automatically set a domain value when creating a record. The business rule must set a value in the **sys\_domain** field. Administrators must ensure there is a **sys\_domain** column available for the record's table. To learn more see [Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md).
 
 ## Using modules to assign domains
 
@@ -61,14 +61,14 @@ Administrators can use a form template to automatically assign new records to a 
 
 By default, related records inherit the domain of the parent record. For example:
 
--   A change task record inherits the domain of the parent change [[c_requestAPI|request]] record.
+-   A change task record inherits the domain of the parent change request record.
 -   A problem record inherits the domain of the parent incident record.
 
 ## Automatic domain assignment based on user domains
 
 If no other domain conditions apply, a record automatically inherits the domain of the user who creates it.
 
-**Parent Topic:**[[c_DomainSeparation|Exploring domain separation]]
+**Parent Topic:**[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
 **Related topics**  
 
@@ -83,10 +83,3 @@ If no other domain conditions apply, a record automatically inherits the domain 
 
 [Installed with domain separation]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[c_DomainSeparation|Exploring domain separation]]
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[c_requestAPI|request]]

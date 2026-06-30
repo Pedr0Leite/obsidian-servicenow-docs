@@ -21,7 +21,7 @@ Use a hardware asset request flow for requesting, sourcing, and deploying hardwa
 Role required:
 
 -   catalog\_admin
--   [[c_Procurement|procurement]]\_admin
+-   procurement\_admin
 
 ## About this task
 
@@ -51,7 +51,7 @@ The Workflow Studio application is used to create the Standard Hardware Asset Re
 
     By default, this field is set to the location of the logged-in user. However, you can select a location from the list of available locations.
 
-    **Note:** This field is available only for Hardware catalog items that are published from Hardware [[c_Models|models]] after upgrading to [[ham-landing-page|Hardware Asset Management]] 8.0.0.
+    **Note:** This field is available only for Hardware catalog items that are published from Hardware models after upgrading to Hardware Asset Management 8.0.0.
 
 7.  In the **Quantity** field, specify the quantity of the assets and select **Order Now**.
 
@@ -88,8 +88,3 @@ The Workflow Studio application is used to create the Standard Hardware Asset Re
 
 **Parent Topic:**[Fulfilling hardware asset requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/fulfilling-hardware-asset-requests.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

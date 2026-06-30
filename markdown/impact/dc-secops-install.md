@@ -16,9 +16,9 @@ To enable the Data Collection Pack, you must install dependent plugins and activ
 
 ## Before you begin
 
-The SecOps Success Metric Definitions in this application rely on another applications. Ensure that the required plugins are installed if they are not already installed. For more information, see [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]].
+The SecOps Success Metric Definitions in this application rely on another applications. Ensure that the required plugins are installed if they are not already installed. For more information, see [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-Role required: [[impact-landing-page|Impact]] users
+Role required: Impact users
 
 ## Procedure
 
@@ -34,7 +34,4 @@ Role required: [[impact-landing-page|Impact]] users
     -   **Impact VM - SecOps - Historical Data Collection**
     If you're having trouble finding the data collection jobs, check whether the required data collection-dependent plugins are installed correctly. See [Install Impact Value Management Data Collection Content Pack Apps dependent plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-install-plugins.md).
 
-## Related
 
-- [[dc-install-plugins|Install Impact Value Management Data Collection Content Pack Apps dependent plugins]]
-- [[impact-landing-page|Impact]]

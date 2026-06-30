@@ -16,9 +16,9 @@ Dedicated spaces in workspaces and in the Core UI enable you to use agentic work
 
 ## Agentic AI in the Core UI and workspaces
 
-Agentic workflows can help you accomplish complex tasks, such as generating resolution notes for [[cases|cases]] and incidents or investigating problems and root causes. You can view agentic workflows running on a record in the AI Workflows panel, available in both the Core UI form and in workspaces. For agentic workflows that require human supervision, you can answer questions, approve next steps, or provide other input. In addition to monitoring current progress, you can review historical runs to compare results.
+Agentic workflows can help you accomplish complex tasks, such as generating resolution notes for cases and incidents or investigating problems and root causes. You can view agentic workflows running on a record in the AI Workflows panel, available in both the Core UI form and in workspaces. For agentic workflows that require human supervision, you can answer questions, approve next steps, or provide other input. In addition to monitoring current progress, you can review historical runs to compare results.
 
-To create UI actions for your agentic workflows, open the agentic workflow in [[ai-agent-studio|AI Agent Studio]], navigate to the [[channels-access-aw|Select channels and access]] step in the guided setup, and create a UI action.
+To create UI actions for your agentic workflows, open the agentic workflow in AI Agent Studio, navigate to the [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aw.md) step in the guided setup, and create a UI action.
 
 If the AI Workflows panel is not visible, check the following:
 
@@ -41,13 +41,13 @@ Each card displays the current or final processing message. To view the full lis
 
 For currently running workflows, time estimates based on previous executions are displayed. For completed workflows, the cards show the total time taken.
 
-The execution list also displays the results of any workflows triggered in the [[now-assist-center-now-assist-panel|Now Assist panel]] or triggered automatically by events, once they are complete.
+The execution list also displays the results of any workflows triggered in the Now Assist panel or triggered automatically by events, once they are complete.
 
 ## Agentic workflow execution details
 
 When you select a specific agentic workflow, you can view its processing messages and history. Processing messages indicate which steps the agentic workflow has already completed and which are still in progress.
 
-You can modify the processing messages for an AI agent or tool in AI Agent Studio. For an AI agent, open the AI agent and go to the [[channels-access-aia|Select channels and access]] step. For a tool, open the AI agent, go to the [[add-tool-aia|Add tools and information]] step, and select the tool to open the form modal.
+You can modify the processing messages for an AI agent or tool in AI Agent Studio. For an AI agent, open the AI agent and go to the [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md) step. For a tool, open the AI agent, go to the [Add tools and information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-tool-aia.md) step, and select the tool to open the form modal.
 
 \[Omitted image "inproduct-ai-processing.png"\] Alt text: Processing messages in the AI Workflows panel
 
@@ -59,7 +59,7 @@ To copy the text of the final output of an agentic workflow, select the copy ico
 
 ## Fields updated with agentic AI
 
-When an agentic workflow changes the value of a field, [[platform-now-assist-landing|Now Assist]] displays a label beneath the field value indicating that the value was modified by AI.
+When an agentic workflow changes the value of a field, Now Assist displays a label beneath the field value indicating that the value was modified by AI.
 
 ## AI presence indicator
 
@@ -71,12 +71,3 @@ To cancel an agentic workflow that is in progress, select the more options icon 
 
 When an agentic workflow changes states, such as when it completes or has a follow-up question, an alert appears at the top of the screen. If the workflow generates an output, you can select the **Review** button to view the final result.
 
-## Related
-
-- [[channels-access-aw|Select channels and access for an agentic workflow]]
-- [[channels-access-aia|Select channels and status for an AI agent]]
-- [[add-tool-aia|Add tools and information to an AI agent]]
-- [[cases|Cases]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]

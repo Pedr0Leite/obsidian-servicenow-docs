@@ -55,8 +55,5 @@ After scanning your items, use the review screen to review, delete, and submit s
 -   Delete item \(3\): Tap the **delete** icon \(\[Omitted image "delete-scan-item.png"\] Alt text: Delete item icon\) next to a scanned item to remove that item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[sg-mobile-scanning|Mobile barcode scanning]]
+</table>**Parent Topic:**[Mobile barcode scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-scanning.md)
 
-## Related
-
-- [[sg-mobile-scanning|Mobile barcode scanning]]

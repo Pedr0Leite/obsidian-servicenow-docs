@@ -32,7 +32,7 @@ Number
 
 </td><td>
 
-Unique \(COP\) number for the [[cf-coaching-landing|coaching]] opportunity.
+Unique \(COP\) number for the coaching opportunity.
 
 </td></tr><tr><td>
 
@@ -537,6 +537,3 @@ Content for assigned users to learn.
 
 **Parent Topic:**[Coaching reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

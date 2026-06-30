@@ -14,7 +14,7 @@ breadcrumb: [Source document import tasks, Regulatory Change Management Core UI,
 
 # Manage the source document import tasks
 
-Manage the source document tasks, the associated source document alerts, and other relevant details in the [[reg-change-task|Regulatory Change Tasks]] module. Use these tasks to identify and comply with the source document changes.
+Manage the source document tasks, the associated source document alerts, and other relevant details in the Regulatory Change Tasks module. Use these tasks to identify and comply with the source document changes.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A source document import task is used to ingest a particular source document tha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Application** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **[[source-doc-import-task|Source Document Import Tasks]]**.
+1.  Navigate to **All** &gt; **Application** &gt; **Regulatory Change Management** &gt; **Source Document Import Tasks**.
 
 2.  Select a source document import task.
 
@@ -199,7 +199,7 @@ Approvers of the import document task. This list displays the approval records t
 
     -   To update the selected source document import task, select **Update**.
     -   To save the changes, select **Work in Progress**.
-5.  To [[submit-vul-for-approval|request an approval]] for the source document import task, select **Request Approval**.
+5.  To request an approval for the source document import task, select **Request Approval**.
 
 
 ## Result
@@ -208,9 +208,3 @@ A new citation is inserted or an existing citation is updated.
 
 **Parent Topic:**[Source document import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/source-doc-import-task.md)
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[source-doc-import-task|Source document import tasks]]
-- [[submit-vul-for-approval|Request an approval]]

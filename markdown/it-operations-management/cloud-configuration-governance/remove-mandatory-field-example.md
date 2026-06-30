@@ -14,7 +14,7 @@ breadcrumb: [Cloud catalog form configuration examples, Form configuration with 
 
 # Remove a field from a cloud catalog form
 
-Remove a field from the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] catalog form when the user belongs to a specific group.
+Remove a field from the Cloud Provisioning and Governance catalog form when the user belongs to a specific group.
 
 ## Before you begin
 
@@ -80,7 +80,7 @@ The goal of this example is to hide the Cost Center field on the catalog form wh
 
         \[Omitted image "blueprint-user-group-property.png"\] Alt text: User Group property
 
-    4.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Resource Pools**.
+    4.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Pools**.
 
     5.  Find and open **UserGroupPool**.
 
@@ -99,7 +99,3 @@ The goal of this example is to hide the Cost Center field on the catalog form wh
 
 **Parent Topic:**[Cloud catalog form configuration examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/example-blueprint-rules.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

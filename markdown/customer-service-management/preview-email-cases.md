@@ -28,7 +28,7 @@ For information about adding or modifying actions on a form, see the following t
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Select and open a case.
 
@@ -44,6 +44,4 @@ For information about adding or modifying actions on a form, see the following t
 
 5.  Select **Reply** or **Reply All** to reply to the message you’re viewing or select **Forward** to forward the email.
 
-## Related
 
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

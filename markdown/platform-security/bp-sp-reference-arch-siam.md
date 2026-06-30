@@ -23,8 +23,5 @@ The Service Integration Management Service Integration and Management \(SIAM\) f
 
 \[Omitted image "bp-dedicated-ds-hybrid-siam.png"\] Alt text: Reference architecture comparison
 
-**Parent Topic:**[[bp-sp-reference-arch-ds|Service provider reference architecture]]
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 
-## Related
-
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]

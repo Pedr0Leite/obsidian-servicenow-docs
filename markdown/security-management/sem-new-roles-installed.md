@@ -32,7 +32,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[vuln-landing-page|Vulnerability Response]] Common
+Vulnerability Response Common
 
 </td><td>
 
@@ -40,7 +40,7 @@ sn\_vul\_cmn.usem\_admin
 
 </td><td>
 
-Configures rules, integrations, and related settings for Vulnerability Response, [[avr-landing|Application Vulnerability Response]], [[cvr-landing|Container Vulnerability Response]], and [[vr-config-compliance-landing|Configuration Compliance]].
+Configures rules, integrations, and related settings for Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response, and Configuration Compliance.
 
 </td><td>
 
@@ -167,15 +167,7 @@ Create, read, update, and delete records in the `sn_sec_calculator` scope.
 sn\_sec\_calculator.read
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[sem-components-installed|Security Exposure Management Workspace Components]]
+</table>**Parent Topic:**[Security Exposure Management Workspace Components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-components-installed.md)
 
-**Parent Topic:**[[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
+**Parent Topic:**[Unified Security Exposure Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-reference.md)
 
-## Related
-
-- [[sem-components-installed|Security Exposure Management Workspace Components]]
-- [[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

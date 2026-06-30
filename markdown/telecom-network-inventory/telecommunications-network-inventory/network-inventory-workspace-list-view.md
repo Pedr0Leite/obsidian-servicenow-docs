@@ -16,7 +16,7 @@ breadcrumb: [Network Inventory Workspace, Explore, Telecommunications Network In
 
 You use the Lists view to access the inventory classes and functions to perform the Network Inventory tasks.
 
-From the Lists view, on the left side of the [[exploring-network-inventory-workspace|Network Inventory Workspace]], you can access most of the [[telecom-network-inventory|Telecommunications Network Inventory]] classes and functions. To access the Lists view, select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\).
+From the Lists view, on the left side of the Network Inventory Workspace, you can access most of the Telecommunications Network Inventory classes and functions. To access the Lists view, select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\).
 
 From the **My Lists** tab, you can create a separate list or a different version of the existing list.
 
@@ -52,7 +52,7 @@ Manually create the individual instances of your network assets and define their
 
 </td></tr><tr><td>
 
-[[inventory_number_allocation|Inventory Number Allocation]]
+Inventory Number Allocation
 
 </td><td>
 
@@ -77,7 +77,7 @@ Create the metadata for the inventory models and then define their relationships
 
 </td></tr><tr><td>
 
-[[using-templates-tni|Network Inventory Templates]]
+Network Inventory Templates
 
 </td><td>
 
@@ -114,7 +114,7 @@ Changes
 
 </td><td>
 
-Instantiate your network inventory using [[telecommunications-circuit-design-resource-assignment|design and assign]]. To learn more, see[Design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-circuit-design-resource-assignment.md).
+Instantiate your network inventory using design and assign. To learn more, see[Design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-circuit-design-resource-assignment.md).
 
 </td></tr><tr><td>
 
@@ -127,10 +127,3 @@ Create the bill of materials to procure the network assets. To learn more, see [
 </td></tr></tbody>
 </table>**Parent Topic:**[Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[using-templates-tni|Network inventory templates]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

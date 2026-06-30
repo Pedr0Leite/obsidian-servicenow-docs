@@ -14,13 +14,13 @@ breadcrumb: [External Legal Service Center, Legal Service Delivery, Legal and Co
 
 # Configuring up External Legal Service Center
 
-[[lsd-ext-portal-install|Install External Legal Service Center]], set up the requirements for enabling external users to submit request for legal services.
+Install External Legal Service Center, set up the requirements for enabling external users to submit request for legal services.
 
 ## Configuration overview
 
 1.  [Install External Legal Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-install.md)
 
-    Install and activate [[lsd-ext-portal-landing-page|External Legal Service Center]].
+    Install and activate External Legal Service Center.
 
 2.  [Enable record producer for external user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-config-intake-form.md)
 
@@ -34,7 +34,4 @@ breadcrumb: [External Legal Service Center, Legal Service Delivery, Legal and Co
 
     The Password Reset application enables an end user to reset or change a password using a self-service process.
 
-## Related
 
-- [[lsd-ext-portal-install|Install External Legal Service Center]]
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

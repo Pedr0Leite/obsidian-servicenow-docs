@@ -48,8 +48,5 @@ Users with this role can:
 -   View and use templates associated with the category
 -   Create and manage templates within the category, based on additional permissions
 
-**Parent Topic:**[[rahi-retail-create-a-questionnaire-template|Retail questionnaire]]
+**Parent Topic:**[Retail questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-create-a-questionnaire-template.md)
 
-## Related
-
-- [[rahi-retail-create-a-questionnaire-template|Retail questionnaire]]

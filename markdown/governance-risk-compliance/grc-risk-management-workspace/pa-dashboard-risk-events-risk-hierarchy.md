@@ -16,7 +16,7 @@ breadcrumb: [Analytics and reporting solutions for Risk Management, Risk Managem
 
 Use the Performance Analytics \(PA\) dashboards to view the comprehensive data for risk events and risk hierarchy. Use the Analytics Hub to view data for any time period.
 
-By default, users with the sn\_risk.manager role can view data for six months. To view the data for different time periods, purchase and activate the Performance Analytics Premium plugin. Users with the sn\_risk.manager role can collate historical data for one year by running the ServiceNow® [[r_WhatIsGRC|Governance, Risk, and Compliance]] \(GRC\) **Entity and risk statement historical data collection** job.
+By default, users with the sn\_risk.manager role can view data for six months. To view the data for different time periods, purchase and activate the Performance Analytics Premium plugin. Users with the sn\_risk.manager role can collate historical data for one year by running the ServiceNow® Governance, Risk, and Compliance \(GRC\) **Entity and risk statement historical data collection** job.
 
 **Note:** Run the historical data collection job only once. Running this job more than once leads to inconsistent data collection and might result in a loss of previous data.
 
@@ -93,7 +93,7 @@ To view the Exposure by Risk Statements dashboard, navigate to **Risk** &gt; **E
 
 ## Exposure by Entity dashboard
 
-To view the Exposure by Risk Statements dashboard, navigate to **Risk** &gt; **Exposure by Entity**. This dashboard is useful for entity owners responsible for a particular [[entity-class|entity class]]. The dashboard also shows the entity health by displaying the statuses: Unacceptable, needs attention, and acceptable. Use this dashboard to compare trends across quarters based on annual loss expectancy \(ALE\). This dashboard displays risk ratings by tolerance status in the form of a heatmap. The heatmap helps you identify the entities that need attention. Annual loss expectancy trends and a heatmap of the risk ratings by tolerance status are also shown. The Exposure by Risk Statements dashboard displays the following trends:
+To view the Exposure by Risk Statements dashboard, navigate to **Risk** &gt; **Exposure by Entity**. This dashboard is useful for entity owners responsible for a particular entity class. The dashboard also shows the entity health by displaying the statuses: Unacceptable, needs attention, and acceptable. Use this dashboard to compare trends across quarters based on annual loss expectancy \(ALE\). This dashboard displays risk ratings by tolerance status in the form of a heatmap. The heatmap helps you identify the entities that need attention. Annual loss expectancy trends and a heatmap of the risk ratings by tolerance status are also shown. The Exposure by Risk Statements dashboard displays the following trends:
 
 -   Entities per Tolerance Status
 -   Entities per Rating
@@ -104,7 +104,3 @@ To view the Exposure by Risk Statements dashboard, navigate to **Risk** &gt; **E
 
 **Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-mgmt-content-pack.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[entity-class|entity class]]

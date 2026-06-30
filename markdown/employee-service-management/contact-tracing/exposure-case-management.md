@@ -14,7 +14,7 @@ breadcrumb: [Contact Tracing, Safe Workplace, Health and Safety, Employee Servic
 
 # Managing cases to follow up with potentially exposed contacts
 
-When an employee who returns to the workplace is classified as positive for a condition, such as COVID-19, the case manager creates a case to identify and [[contact-exposed-contacts|follow up with potentially exposed contacts]].
+When an employee who returns to the workplace is classified as positive for a condition, such as COVID-19, the case manager creates a case to identify and follow up with potentially exposed contacts.
 
 ## Run the diagnostic request to identify potentially exposed contacts
 
@@ -28,20 +28,20 @@ If any employee is confirmed to be affected with an infectious disease, send the
 
 The case manager sets up a case for an employee who might have been exposed to any infectious disease.
 
-1.  [[create-exposure-case|Create a case for an affected employee]].
+1.  Create a case for an affected employee.
 2.  Run a diagnostic request to identify all potentially exposed contacts through various tracing systems such as workplace location, workplace shifts and reservations, meetings, employee badge swipe data, and Wi-Fi access data. For more information, see [Identify potentially exposed users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/use-emergency-exposure-mgnt.md).
 3.  Send an outreach notification to potentially exposed contacts to notify them of a potential exposure from an affected employee.
 4.  Create case tasks to follow up with these potentially exposed contacts to assess their health status using predefined survey questions.
 
 ## Automated case creation
 
-You must have the [[emergency-self-report|Emergency Self Report]] application installed for the automatic case creation to work. For more information, see [Set up Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/set-up-emergency-self-report.md).
+You must have the Emergency Self Report application installed for the automatic case creation to work. For more information, see [Set up Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/set-up-emergency-self-report.md).
 
 If an employee is reported as being in quarantine through the [self-reporting option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/emergency-self-report.md) in the Emergency Self Report application, a case is created automatically for the employee. The case is created automatically only if the employee doesn't have any active case at the time of self-reporting.
 
 If the employee has an active case, a work note is added to the case for the case manager to take appropriate action, if needed.
 
-The **Automated Case Creation from Employee Self Report** flow is installed with [[contact-tracing|Contact Tracing]]. The contact tracing admin can review and configure the base system flow using the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
+The **Automated Case Creation from Employee Self Report** flow is installed with Contact Tracing. The contact tracing admin can review and configure the base system flow using the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
 
 ## Automated case task creation on adding a potentially exposed contact
 
@@ -71,7 +71,7 @@ Contact Tracing provides interactive visualization to view the potentially expos
 
 ## View case metrics in ServiceNow Safe Workplace Dashboard
 
-If you have the [[safe-workplace-dashboard|Safe Workplace Dashboard]] application installed, you can view the trends of the following data over a given time period for a campus or location:
+If you have the Safe Workplace Dashboard application installed, you can view the trends of the following data over a given time period for a campus or location:
 
 -   Number of active cases
 -   Number of potentially exposed contacts
@@ -95,10 +95,3 @@ The contact tracing visualization in a case is a graphical representation of the
 
 **Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 
-## Related
-
-- [[contact-exposed-contacts|Follow up with potentially exposed contacts]]
-- [[create-exposure-case|Create a case for an affected employee]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[contact-tracing|Contact Tracing]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]

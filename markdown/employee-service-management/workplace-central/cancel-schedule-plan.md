@@ -24,9 +24,9 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**, then select the **[[schedule-planning|Schedule Planning]]** module.
+1.  Navigate to **All** &gt; **Workplace Central**, then select the **Schedule Planning** module.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] by navigating to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select the **Schedule Planner** icon \(\[Omitted image "schedule-plan-icon.png"\] Alt text: Schedule Planner icon.\).
 
@@ -43,8 +43,3 @@ The schedule plan is moved to the Canceled state. If the schedule plan was publi
 
 **Parent Topic:**[Working with Schedule Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-planning.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[schedule-planning|Schedule Planning]]
-- [[employee-center-landing-page|Employee Center]]

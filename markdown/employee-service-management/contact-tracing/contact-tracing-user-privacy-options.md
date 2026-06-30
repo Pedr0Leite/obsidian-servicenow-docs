@@ -14,7 +14,7 @@ breadcrumb: [Contact Tracing, Safe Workplace, Health and Safety, Employee Servic
 
 # Maintaining user data privacy in Contact Tracing
 
-The [[contact-tracing|Contact Tracing]] application enables your organization to maintain the data privacy of all users given the high sensitivity of the data collected throughout the contact tracing process.
+The Contact Tracing application enables your organization to maintain the data privacy of all users given the high sensitivity of the data collected throughout the contact tracing process.
 
 The following Contact Tracing features can help your organization enforce data privacy for your users:
 
@@ -36,7 +36,7 @@ Organizations remain solely responsible for complying with their legal obligatio
 -   **[User privacy consent for Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy.md)**  
 The Contact Tracing application enables you to send notification to users seeking their consent for contact tracing. You can use user data for contact tracing based on the privacy configuration set for a location and the user response to the privacy consent.
 -   **[Send an Emergency Outreach notification for employee privacy consents in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/send-outreach-notif-privacy.md)**  
-Send an [[emergency-outreach|Emergency Outreach]] notification, on demand, to employees to provide the privacy policy and seek their consent to use their data for contact tracing.
+Send an Emergency Outreach notification, on demand, to employees to provide the privacy policy and seek their consent to use their data for contact tracing.
 -   **[Respond to a request for privacy consent in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/submit-privacy-consent.md)**  
 When you receive an email or mobile notification for privacy consent, read the privacy policy statement and submit a response indicating whether you agree to the usage of your data for contact tracing.
 -   **[Review user privacy consents in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/review-privacy-consents.md)**  
@@ -44,7 +44,3 @@ Review user privacy consent responses submitted by employees in answer to notifi
 
 **Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]

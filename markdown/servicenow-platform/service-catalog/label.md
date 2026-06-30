@@ -18,7 +18,7 @@ The label variable displays a label across the form. Labels are formatting eleme
 
 You can use labels to arrange questions into sections. You can also use labels for questions with multiple options. For example, label check boxes for the different options for a question.
 
-You cannot set a Label variable as mandatory. However, you can make mandatory, a group of [[check-box|check box]] variables preceded by a Label variable.
+You cannot set a Label variable as mandatory. However, you can make mandatory, a group of check box variables preceded by a Label variable.
 
 \[Omitted image "VariableLabelG.png"\] Alt text: A label variable
 
@@ -79,6 +79,3 @@ You cannot set a Label variable as mandatory. However, you can make mandatory, a
 
 [Variable support in various channels]()
 
-## Related
-
-- [[check-box|Check box]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 # Data collected by Task Mining
 
-[[task-mining|Task Mining]] collects workstation and user categories of data.
+Task Mining collects workstation and user categories of data.
 
 <table id="table_gb1_33d_zcc"><thead><tr><th>
 
@@ -68,6 +68,3 @@ Screen content
 </td></tr></tbody>
 </table>**Parent Topic:**[Task Mining Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]

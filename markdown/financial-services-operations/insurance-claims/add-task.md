@@ -24,7 +24,7 @@ Role required: sn\_ins\_claim\_cml.auto\_processor, sn\_ins\_claim\_cml.auto\_ad
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the claim one of the following ways.
 
@@ -53,8 +53,8 @@ From a claims list, select the claim case you want to create a new task for.
 1.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 2.  In the **Lists** tab, navigate to one of the following applicable lists:
     -   As a processor, select **Commercial auto claim cases**, then select **All**.
-    -   As an adjuster, select **Commercial auto claim [[adjuster-tasks-workspace-pers|adjuster tasks]]**, then select **All**.
-    -   As a manager, select **[[commercial-lines-claims-landing-page|Commercial lines claims]] approvals**, then select one of the following:
+    -   As an adjuster, select **Commercial auto claim adjuster tasks**, then select **All**.
+    -   As a manager, select **Commercial lines claims approvals**, then select one of the following:
         -   **My approvals - Reserves**
         -   **My approvals - Payments**
 3.  In the list, select the case or task that you want to open.
@@ -88,8 +88,3 @@ After a task is created, the task can move to the following statuses depending o
 -   Awaiting info- A task assignee selects Awaiting info.
 -   Closed complete- A task assignee selects Close to close the task.
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]

@@ -14,7 +14,7 @@ breadcrumb: [Translation Management System configurations, Localization Framewor
 
 # Configure XTM TMS in the Localization Framework
 
-Configure XTM TMS to use the XTM TMS service in the [[localization-framework-landing|Localization Framework]].
+Configure XTM TMS to use the XTM TMS service in the Localization Framework.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Roles required: connection\_admin
 
 1.  Navigate to **All** &gt; **Connections &amp; Credentials** &gt; **Connection &amp; Credential Aliases**.
 
-    A credential record for XTM TMS is created when the XTM TMS spoke is installed with the Localization Framework Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\) activation.
+    A credential record for XTM TMS is created when the XTM TMS spoke is installed with the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\) activation.
 
 2.  Open the **XTM TMS** \(ID = sn\_xtm\_spoke.XTM\_TMS\) credential record.
 
@@ -65,7 +65,3 @@ Roles required: connection\_admin
 
 **Parent Topic:**[Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]

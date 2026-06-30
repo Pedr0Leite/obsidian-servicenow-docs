@@ -14,7 +14,7 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Create a hardware or consumable model
 
-To begin tracking your hardware and [[c_ReceiveAConsumableAsset|consumable assets]], create a hardware or consumable model. Then, add lifecycle information to keep track of the lifecycle phase of your model.
+To begin tracking your hardware and consumable assets, create a hardware or consumable model. Then, add lifecycle information to keep track of the lifecycle phase of your model.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: admin or asset
 
 1.  Navigate to one of the following paths.
 
-    -   **[[c_ProductCatalog|Product Catalog]]** &gt; **Product [[c_Models|Models]]** &gt; **Hardware Models**
+    -   **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**
     -   **Product Catalog** &gt; **Product Models** &gt; **Consumable Models**
 2.  Click **New**.
 
 3.  Complete the following steps if you are adding a hardware model.
 
-    1.  On the Hardware Model form, click the **[[consumable-model-fields|Consumable Model Fields]]** section.
+    1.  On the Hardware Model form, click the **Consumable Model Fields** section.
 
     2.  Click **Save**.
 
@@ -60,7 +60,7 @@ Role required: admin or asset
 
         If a lifecycle with the same source, lifecycle type, lifecycle phase, and source exits, an error message appears.
 
-        **Note:** While you can delete lifecycles that you've added, you can't delete lifecycles that are created from the [[ham-landing-page|Hardware Asset Management]] Content Service.
+        **Note:** While you can delete lifecycles that you've added, you can't delete lifecycles that are created from the Hardware Asset Management Content Service.
 
 4.  Complete the following steps if you are adding a consumable model.
 
@@ -108,7 +108,7 @@ The **Display name** field is updated with the name of the manufacturer and the 
 
 Currently, the Lenovo ThinkPad T43 is generally available. Add the lifecycle status to accurately track the phase of the asset.
 
-Click the Hardware Lifecycle Model related list and click **New**. Add the following information to the Hardware [[model-lifecycle-fields|Model Lifecycle form]].
+Click the Hardware Lifecycle Model related list and click **New**. Add the following information to the Hardware Model Lifecycle form.
 
 |Field|Description|
 |-----|-----------|
@@ -144,11 +144,3 @@ After you've added your hardware or consumable models, you can [normalize the da
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]
-- [[consumable-model-fields|Consumable model fields]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[model-lifecycle-fields|Model lifecycle form]]

@@ -24,7 +24,7 @@ The on Resource operation trigger fires during the Orchestration process when a 
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -231,6 +231,3 @@ Select the IPAM Method Name. For Infoblox, select one of the following options: 
 </table>
 **Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

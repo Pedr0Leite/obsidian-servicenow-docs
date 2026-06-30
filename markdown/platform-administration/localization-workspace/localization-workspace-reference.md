@@ -14,10 +14,10 @@ breadcrumb: [Localization Workspace, Translation and localization, Configure cor
 
 # Localization Workspace reference
 
-[[reference-email-admin|Reference]] topics provide additional information you can use to configure and administer [[localization-workspace|Localization Workspace]].
+Reference topics provide additional information you can use to configure and administer Localization Workspace.
 
 -   **[Components installed with Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-components-installed-with.md)**  
-Several types of components are installed with activation of the Localization Workspace plugin, including tables, user roles, and [[c_ScheduledJobs|scheduled jobs]].
+Several types of components are installed with activation of the Localization Workspace plugin, including tables, user roles, and scheduled jobs.
 -   **[Localization Workspace Domain Separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-domain-separation.md)**  
 Domain separation is unsupported for Localization Workspace. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Types of Localizable content in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-localizable-content.md)**  
@@ -27,8 +27,3 @@ Localization Workspace is installed with these roles.
 
 **Parent Topic:**[ServiceNow AI Platform translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[localization-workspace|Localization Workspace]]
-- [[c_ScheduledJobs|Scheduled jobs]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Visual Task Boards, Visual Task Boards, Configure UIs and por
 
 # Creating Visual Task Boards
 
-You can create, view, and edit freeform, flexible, and guided [[c_VisualTaskBoards|Visual Task Boards]], and add users to these boards as members.
+You can create, view, and edit freeform, flexible, and guided Visual Task Boards, and add users to these boards as members.
 
 To find Visual Task Boards, navigate to **Self-Service** &gt; **Visual Task Boards**. If the application does not display after a general search, contact your admin.
 
@@ -27,13 +27,9 @@ Cards in a flexible or guided board represent records on whichever table the boa
 -   **[Add or modify Visual Task Board lanes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrModifyALane.md)**  
 Any board member can change the names and add new lanes to accommodate the task workflow you want to track. When you create a freeform or flexible task board, it includes the default lanes **To Do**, **Doing**, and **Done**.
 -   **[Add or remove a Visual Task Board member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_AddOrRemoveATaskBoardMember.md)**  
-You can add and remove task board members using the members tab of the [[activity-stream-configurable-workspace|activity stream]]. You can also promote assignees to board members.
+You can add and remove task board members using the members tab of the activity stream. You can also promote assignees to board members.
 -   **[Delete a Visual Task Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_DeleteATaskBoard.md)**  
 You can delete any task board that you own.
 
 **Parent Topic:**[Using Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/working-in-vtb.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[activity-stream-configurable-workspace|Activity stream]]

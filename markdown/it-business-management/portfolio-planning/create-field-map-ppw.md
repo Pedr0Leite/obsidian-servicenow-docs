@@ -14,7 +14,7 @@ breadcrumb: [Create custom mapping configurations, Configuring Portfolio Plannin
 
 # Create a field map
 
-Map the fields for each table map from [[portfolio-planning-app-landing-page|Portfolio Planning]] to [[c_ProjectPortfolioSuite|Project Portfolio Management]] and vice-versa.
+Map the fields for each table map from Portfolio Planning to Project Portfolio Management and vice-versa.
 
 ## Before you begin
 
@@ -38,7 +38,4 @@ Role required: sn\_align\_core.apw\_admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

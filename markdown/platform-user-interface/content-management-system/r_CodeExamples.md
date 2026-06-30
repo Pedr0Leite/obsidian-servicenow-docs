@@ -50,7 +50,7 @@ Code examples
 
     -   div class="cms\_knowledge\_list customer\_success" - Begin by creating an outer container with a unique class name that can be used as a basis for CSS style selectors and rules. From the outer container, many of the child elements can be accessed for theming.
     -   &lt;g:for\_each\_record file="$\{current\}" max="$\{jvar\_max\_entries\}"&gt; - Loop for list creation that calls the selected table record and the entries set on the list form.
-    -   &lt;a href="knowledge.do?sysparm\_document\_key=kb\_knowledge,$\{current.sys\_id\}"&gt;&lt;img src="$\{current.u\_logo.getDisplayValue\(\)\}" alt="$\{current.text\}" width="110px"/&gt; - Defines linking to the article detail in the knowledge base. For further [[onboarding-modals-reference|reference]], look at [[c_ContentTypes|content types]] within the site definition and you will see some similarities. The knowledge.do? portion of the URL points to the knowledge detail page which \(as mentioned above\) is mandatory if you plan to call the knowledge base in your CMS site. The rest of the URL represents the syntax for calling a knowledge article by its sys\_id. Each and every item housed within the system has a unique sys\_id.
+    -   &lt;a href="knowledge.do?sysparm\_document\_key=kb\_knowledge,$\{current.sys\_id\}"&gt;&lt;img src="$\{current.u\_logo.getDisplayValue\(\)\}" alt="$\{current.text\}" width="110px"/&gt; - Defines linking to the article detail in the knowledge base. For further reference, look at content types within the site definition and you will see some similarities. The knowledge.do? portion of the URL points to the knowledge detail page which \(as mentioned above\) is mandatory if you plan to call the knowledge base in your CMS site. The rest of the URL represents the syntax for calling a knowledge article by its sys\_id. Each and every item housed within the system has a unique sys\_id.
     -   &lt;ttt&gt;$\{SP\}-$\{SP\}$\{current.author.first\_name\}$\{SP\}$\{current.author.last\_name\}&lt;/tt&gt; - This example is commented out and not used, but it is still interesting in that it has a jelly call $\{SP\} and it pulls the knowledge article's author by first and last name.
     ```
     <?xml version= "1.0" encoding= "utf-8" ?><j:jelly trim = "false" xmlns:j = "jelly:core" xmlns:g = "glide" xmlns:j2 = "null" xmlns:g2 = "null" >
@@ -74,7 +74,3 @@ Code examples
 
 [Content Management and the Apache Jelly engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_ContentManagementAndJelly.md)
 
-## Related
-
-- [[onboarding-modals-reference|Reference]]
-- [[c_ContentTypes|Content types]]

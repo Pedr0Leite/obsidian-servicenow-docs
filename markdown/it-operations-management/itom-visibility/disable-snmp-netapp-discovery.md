@@ -14,7 +14,7 @@ breadcrumb: [NetApp Server and Cluster, Storage discovery, Data collected by ITO
 
 # Disable SNMP-based NetApp storage cluster discovery
 
-Disable the default SNMP-based NetApp storage cluster [[r-discovery|discovery]] and use REST-based discovery instead for enhanced security.
+Disable the default SNMP-based NetApp storage cluster discovery and use REST-based discovery instead for enhanced security.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Configure basic authentication credentials for a user with a read-only role. For
 
 [NetApp Server and Cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/netapp-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

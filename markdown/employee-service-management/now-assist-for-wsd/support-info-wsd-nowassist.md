@@ -22,13 +22,9 @@ Now Assist for WSD \(sn\_wsd\_gen\_ai\) is supported on Australia v1.1.0
 
 ## Application Information
 
-Activate the [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]] store app to [[create-reservation-request-1|create a reservation]].
+Activate the Now Assist for Workplace Service Delivery \(WSD\) store app to create a reservation.
 
 Installing Now Assist for Workplace Service Delivery \(WSD\) \(sn\_wsd\_genai\) activates the dependent plugin, Now Assist for Platform \(sn\_genai\_platform\)
 
 .
 
-## Related
-
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]
-- [[create-reservation-request-1|Create a reservation]]

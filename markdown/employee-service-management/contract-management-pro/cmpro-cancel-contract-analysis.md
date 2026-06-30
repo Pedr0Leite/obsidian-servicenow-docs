@@ -40,7 +40,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d173579e97">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -107,6 +107,3 @@ The contract analysis is canceled.
 
 **Parent Topic:**[Contract analysis using Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-NA-review-land.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]

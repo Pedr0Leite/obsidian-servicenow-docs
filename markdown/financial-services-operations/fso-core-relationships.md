@@ -14,7 +14,7 @@ breadcrumb: [Financial Services Operations Core, Data Models, Explore, Financial
 
 This section describes the key tables in FSO Core and their relationships. Understanding these relationships helps you manage data effectively and enhances system functionality.
 
-The Financial Services Operations Core application is automatically installed with any of the  [[fso-overview|Financial Services]] Operations applications but can also be installed independently for a basic configuration using only its data model.
+The Financial Services Operations Core application is automatically installed with any of the  Financial Services Operations applications but can also be installed independently for a basic configuration using only its data model.
 
 The following table lists this application's dependencies:
 
@@ -205,9 +205,5 @@ Provides a series of standard fields used on each of the tables that extend it.
 ServiceNow AI Platform
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[financial-services-operations-core-data-model|Financial Services Operations Core]]
+</table>**Parent Topic:**[Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-overview|Financial Services]]

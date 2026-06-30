@@ -14,8 +14,5 @@ breadcrumb: [Using the team calendar, Managing agents and tasks from Workforce, 
 
 # Managing agents and agent groups on the team calendar
 
-View agent events, add events for agents, and search agents and agent groups [[using-team-calendar|using the team calendar]]. You can also add or edit agent skills.
+View agent events, add events for agents, and search agents and agent groups using the team calendar. You can also add or edit agent skills.
 
-## Related
-
-- [[using-team-calendar|Using the team calendar]]

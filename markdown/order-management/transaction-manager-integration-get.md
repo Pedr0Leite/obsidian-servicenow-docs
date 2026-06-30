@@ -14,11 +14,11 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 Learn how to access data from a third-party application such as Salesforce by using the GET integration.
 
-This article describes how to retrieve the Salesforce opportunity ID, together with transaction details including the account name, opportunity name, shipping address, and billing address, and write them into CPQ transaction [[fields|fields]]. This pattern is relevant to any integration that requires CPQ to request data from a third party.
+This article describes how to retrieve the Salesforce opportunity ID, together with transaction details including the account name, opportunity name, shipping address, and billing address, and write them into CPQ transaction fields. This pattern is relevant to any integration that requires CPQ to request data from a third party.
 
 ## Goal: End-user \(buyside\) flow
 
-We begin by opening a [[transaction-manager|Transaction Manager]] transaction in Salesforce. Then, by clicking **Get SF Data** in the buyside UI, we trigger the Get SF Data event. This event initiates several integrations that connect to Salesforce, extracting the relevant transaction data \(opportunity ID, opportunity name, shipping address, billing address, account ID, and account name\) and populating the corresponding fields in the buyside UI.
+We begin by opening a Transaction Manager transaction in Salesforce. Then, by clicking **Get SF Data** in the buyside UI, we trigger the Get SF Data event. This event initiates several integrations that connect to Salesforce, extracting the relevant transaction data \(opportunity ID, opportunity name, shipping address, billing address, account ID, and account name\) and populating the corresponding fields in the buyside UI.
 
 In the buyside transaction UI, click **Get SF Data**.
 
@@ -34,15 +34,15 @@ The rest of this article lists the steps in CPQ to create the integrations that 
 
 ## Administration setup: Prerequisites
 
-This guide assumes a CPQ environment with Transaction Manager features enabled, as well as installation of the Logik Transaction Manager Integration Extension on a corresponding Salesforce environment. To view the installation instructions, see [[installing-the-salesforce-transaction-manager-integration-package-extension|Installing the Salesforce Transaction Manager Integration Package extension]].
+This guide assumes a CPQ environment with Transaction Manager features enabled, as well as installation of the Logik Transaction Manager Integration Extension on a corresponding Salesforce environment. To view the installation instructions, see [Installing the Salesforce Transaction Manager Integration Package extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/installing-the-salesforce-transaction-manager-integration-package-extension.md).
 
 ## CPQ: Add a connection
 
-A connection record contains the data required to initiate a Transaction Manager Integration. This includes authentication details, host URL, path, and headers. To view a connection record, in CPQ Admin, go to **[[cpq-utilities|Utilities]]**, and then click **Connections**.
+A connection record contains the data required to initiate a Transaction Manager Integration. This includes authentication details, host URL, path, and headers. To view a connection record, in CPQ Admin, go to **Utilities**, and then click **Connections**.
 
 \[Omitted image "cpq-txn-mgr-integration-get-add-connection.png"\] Alt text: Add a Connection
 
-For information about adding a connection, see the "Creating a Connection" section in [[transaction-manager-integrations|Transaction Manager: Integrations]]. For the purposes of this article, we use a connection to a Salesforce environment.
+For information about adding a connection, see the "Creating a Connection" section in [Transaction Manager: Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integrations.md). For the purposes of this article, we use a connection to a Salesforce environment.
 
 ## CPQ: Add the integration
 
@@ -217,13 +217,5 @@ By following this order, you can maintain the integrity of the integration and e
 **Related topics**  
 
 
-[[transaction-manager-integration-post|Transaction Manager: Integration - POST]]
+[Transaction Manager: Integration - POST](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-post.md)
 
-## Related
-
-- [[installing-the-salesforce-transaction-manager-integration-package-extension|Installing the Salesforce Transaction Manager Integration Package extension]]
-- [[transaction-manager-integrations|transaction manager integrations]]
-- [[transaction-manager-integration-post|transaction manager integration post]]
-- [[fields|Fields]]
-- [[transaction-manager|Transaction Manager]]
-- [[cpq-utilities|Utilities]]

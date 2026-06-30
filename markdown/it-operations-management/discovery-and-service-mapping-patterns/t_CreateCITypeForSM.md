@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Create CI types for Service Mapping and Discovery
 
-Create CI types \(or CI classes\) for applications and devices, which [[c_ServiceMappingOverview|Service Mapping]] and [[r-discovery|Discovery]] do not support by default.
+Create CI types \(or CI classes\) for applications and devices, which Service Mapping and Discovery do not support by default.
 
 ## Before you begin
 
@@ -234,7 +234,3 @@ Add conditions to construct a filter to narrow the set of records that will be s
 
 **Next topic:**[Create entry point types for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateEntryPoint.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

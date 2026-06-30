@@ -24,7 +24,7 @@ Ensure that the delegate user \(the person to whom tasks will be reassigned\) ha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[granular-delegation|Granular Delegation]]** &gt; **Create New Delegate**.
+1.  Navigate to **All** &gt; **Granular Delegation** &gt; **Create New Delegate**.
 
 2.  Fill in the form.
 
@@ -74,7 +74,7 @@ All notifications
 
 </td><td>
 
-Option to send the delegate a copy of all notifications you receive during the delegation period. Select this option when you want the delegate to receive the delegation notification. For example, you want the delegate to receive notifications about [[activity-lxp|activity]] stream or record updates. It is set to False by default to avoid concerns around getting notifications that has critical and sensitive data. **Note:** Notifications with the **Exclude Delegates** option enabled override the True setting of this option. Use the **Exclude Delegates** option to prevent delegates from seeing confidential or protected information.
+Option to send the delegate a copy of all notifications you receive during the delegation period. Select this option when you want the delegate to receive the delegation notification. For example, you want the delegate to receive notifications about activity stream or record updates. It is set to False by default to avoid concerns around getting notifications that has critical and sensitive data. **Note:** Notifications with the **Exclude Delegates** option enabled override the True setting of this option. Use the **Exclude Delegates** option to prevent delegates from seeing confidential or protected information.
 
 </td></tr><tr><td>
 
@@ -99,7 +99,4 @@ Option to forward delegates meeting invitations. Select this option to forward t
 
     The **Granular Delegate** form returns.
 
-## Related
 
-- [[granular-delegation|Granular Delegation]]
-- [[activity-lxp|Activity]]

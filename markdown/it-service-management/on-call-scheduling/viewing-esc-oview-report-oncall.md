@@ -16,14 +16,14 @@ breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service 
 
 Run Escalation Overview reports to view count and rate information on escalations currently in progress, acknowledged and unacknowledged escalations, and Mean Time to Acknowledge \(MTTA\). You can view data for all groups or for one or more selected groups.
 
-**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [[oncall-scheduling|On-call dashboard]] to view, maintain, and track the escalation reports.
+**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/oncall-scheduling.md) to view, maintain, and track the escalation reports.
 
 ## Opening the reports
 
 Any user with the itil role can view the reports. Use one of the following methods to open the reports:
 
 -   Click **Self-Service** &gt; **Dashboards** and select **On-Call Overview**. If you have licensed the premium version, then click **On-Call Overview - Premium**.
--   Click **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Reports** &gt; **Overview**.
+-   Click **On-Call Scheduling** &gt; **Reports** &gt; **Overview**.
 
 Click the **Escalations Overview** tab.
 
@@ -78,7 +78,3 @@ Click the **Escalations Overview** tab.
 
 **Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-reports.md)
 
-## Related
-
-- [[oncall-scheduling|On-call dashboard]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning a
 
 # Set up a cloud account for Azure
 
-A cloud account is the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
+A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md) for more information about [[cloud-accounts|cloud accounts]].
+See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md) for more information about cloud accounts.
 
 **Note:** Cloud providers often use different names for accounts, regions, and credential settings. Because the ServiceNow application supports several cloud providers, the app uses general-purpose names for the settings. In Azure, the region-specific containers for virtual resources are called regions. In Cloud Provisioning and Governance, regions are called datacenters or logical datacenters \(LDCs\). The term logical is used to reinforce the idea that Cloud Provisioning is provider-agnostic. All infrastructure or applications that are deployed using Cloud Provisioning are associated with a datacenter..
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Cloud Accounts**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Cloud Accounts**.
 
     \[Omitted image "admin-portal.png"\] Alt text: Cloud Admin portal
 
@@ -44,7 +44,7 @@ See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
     **Note:**
 
-    -   Select only those LDCs/Regions where your infrastructure resources are present. If you don't have any resources under these new data centers, exclude them while you run the full [[r-discovery|discovery]].
+    -   Select only those LDCs/Regions where your infrastructure resources are present. If you don't have any resources under these new data centers, exclude them while you run the full discovery.
     -   To discover resources in regions/ LDCs such as, North America \(US East, US West and Canada Central\), South America, Europe, Africa, Middle East and Asia Pacific, raise an access request to the required endpoints with GCP Support.
     The Cloud Account dashboard appears. The datacenters that you selected appear on the **Datacenters** tab.
 
@@ -54,13 +54,7 @@ See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
     -   **Resources**: Cloud resources for the current datacenter. Run Discovery to populate the CMDB for the datacenter and populate the tab. See [Discover all datacenters in a service account on-demand]().
     -   **Capacity Limits**: Limits on virtual CPUs, virtual networks, storage volume size, and other services. See [Set capacity limits on user requests for resources]().
-    -   **Discovery Log**: The process creates a log record for each action associated with a [[c_DiscoveryStatus|discovery status]].
+    -   **Discovery Log**: The process creates a log record for each action associated with a discovery status.
 6.  Repeat the process to add as many service accounts as needed.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

@@ -22,11 +22,11 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_assessor
 
 ## About this task
 
-You can create repeating assessments if you are using the classic assessment engine. You can configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties using the Event-driven management feature if you are using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. For more information, see [Configure a risk assessment to recur on a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/define-repeating-vend-assess.md) and [Event-driven management — automate assessment processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-create.md).
+You can create repeating assessments if you are using the classic assessment engine. You can configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties using the Event-driven management feature if you are using the Smart Assessment Engine. For more information, see [Configure a risk assessment to recur on a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/define-repeating-vend-assess.md) and [Event-driven management — automate assessment processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-create.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **External [[risk-assessments|Risk Assessments]]** &gt; **Assessment scheduling**.
+1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **External Risk Assessments** &gt; **Assessment scheduling**.
 
 2.  Select **New**, fill in the form, and then select **Submit**.
 
@@ -131,7 +131,4 @@ The number of days that the assessment results are valid.
 </td></tr></tbody>
 </table>    The Assessment occurrences related list displays the status of each time the assessment took place and the risk rating that resulted from the assessment.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[risk-assessments|risk assessments]]

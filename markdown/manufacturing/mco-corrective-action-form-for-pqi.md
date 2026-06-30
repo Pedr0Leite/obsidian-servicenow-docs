@@ -12,7 +12,7 @@ breadcrumb: [Quality issue management form, Reference, Manufacturing Commercial 
 
 # Corrective action form for PQI
 
-The [[mco-corrective-action-form|corrective action form]] enables you to add the details for PQI.
+The corrective action form enables you to add the details for PQI.
 
 <table id="table_y3s_4v3_xhc"><thead><tr><th>
 
@@ -28,7 +28,7 @@ Number
 
 </td><td>
 
-[[mco-corrective-actions|Corrective actions]] number that is automatically generated. The number starts with CRTV and incremented for every new report.
+Corrective actions number that is automatically generated. The number starts with CRTV and incremented for every new report.
 
 </td></tr><tr><td>
 
@@ -143,10 +143,5 @@ Description
 Detailed description of the corrective action.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-corrective-action-form|Corrective action form]]
-- [[mco-corrective-actions|Corrective actions]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery and SCCM together
 
-Use these guidelines to avoid common issues when you use [[r-discovery|Discovery]] and System Center Configuration Manager \(SCCM\) together.
+Use these guidelines to avoid common issues when you use Discovery and System Center Configuration Manager \(SCCM\) together.
 
 You must decide if you will use Asset Intelligence \(AI\) or non-AI software data sources. Because the software correlation data is tracked differently for each of these data sources, you should avoid switching back and forth between the two. If you must switch between data sources, remove all the software installation records imported by SCCM before the switch occurs.
 
@@ -66,9 +66,5 @@ To determine how software data is collected, configure the **glide.discovery.sof
 
 ### What to do next
 
-Use these [[r_DiscoveryProperties|Discovery properties]] to avoid software data discrepancy between Discovery and SCCM: **glide.discovery.enable.software\_simplify** and **glide.discovery.enable.software\_simplify\_sccm**. See [Discovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md) for more information.
+Use these Discovery properties to avoid software data discrepancy between Discovery and SCCM: **glide.discovery.enable.software\_simplify** and **glide.discovery.enable.software\_simplify\_sccm**. See [Discovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md) for more information.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DiscoveryProperties|Discovery properties]]

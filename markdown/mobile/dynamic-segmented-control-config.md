@@ -24,7 +24,7 @@ Role required: admin
 
     1.  In the web-based UI, enter `sys_sg_form_screen.list` in the filter navigator.
 
-    2.  Select the [[form-screen|record screen]] that contains the dynamic screen segment you want to configure.
+    2.  Select the record screen that contains the dynamic screen segment you want to configure.
 
     3.  Select the **Record Screen Segments** tab and select the information icon \(\[Omitted image "gac-info-icon.png"\] Alt text: Information icon.\) next to the embedded screen that contains a dynamic record screen segment.
 
@@ -60,6 +60,4 @@ Role required: admin
 
 7.  Right-click in the header and select **Save**,
 
-## Related
 
-- [[form-screen|Record screen]]

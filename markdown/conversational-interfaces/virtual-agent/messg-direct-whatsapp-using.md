@@ -14,15 +14,15 @@ breadcrumb: [Conversational Integration with WhatsApp \(WhatsApp Cloud API\), In
 
 # Using Conversational Integration with WhatsApp \(WhatsApp Cloud API\)
 
-Agents and requesters can use WhatsApp chat conversations through [[virtual-agent-landing-page|Virtual Agent]] to communicate across active interactions, notifications, and [[awa-service-channels|service channels]].
+Agents and requesters can use WhatsApp chat conversations through Virtual Agent to communicate across active interactions, notifications, and service channels.
 
-An administrator can configure the [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]] application for integrating the WhatsApp messaging app with a ServiceNow application. For more information, see [Integrating the WhatsApp messaging app with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-integrating-apps.md).
+An administrator can configure the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application for integrating the WhatsApp messaging app with a ServiceNow application. For more information, see [Integrating the WhatsApp messaging app with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-integrating-apps.md).
 
 Agents and requesters can do the following:
 
 -   A live agent can initiate WhatsApp chat conversations with a requester.
 -   A requester can initiate WhatsApp chat conversations with a Virtual Agent or live agent.
--   A live agent can accept WhatsApp chat conversations as [[awa-work-items|work items]] from their Agent Workspace Inbox to converse with a requester.
+-   A live agent can accept WhatsApp chat conversations as work items from their Agent Workspace Inbox to converse with a requester.
 -   For logged-in customers, the system automatically identifies the customer by matching their phone number against the customer contact.
 
 ## Initiating WhatsApp chat conversations
@@ -49,9 +49,9 @@ As a live agent interacting with a requester over the WhatsApp service channel, 
 -   **[Enable WhatsApp channel notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/enable-direct-whatsapp-channel-notifications.md)**  
 Turn on notifications for the WhatsApp channel to send system-generated messages and automated communications.
 -   **[Create a provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/direct-whatsapp-create-a-provider-notification.md)**  
-Execute the following steps to [[create-provider-notification|create a provider notification]] for Virtual Agent and Workspace providers.
+Execute the following steps to create a provider notification for Virtual Agent and Workspace providers.
 -   **[Transfer WhatsApp chat conversations to live agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-live-agent-conv.md)**  
-Configure the [[awa-application-landing-page|Advanced Work Assignment]] application to transfer a WhatsApp chat conversation initiated by a requester to a live agent.
+Configure the Advanced Work Assignment application to transfer a WhatsApp chat conversation initiated by a requester to a live agent.
 -   **[Capturing information from a user in a WhatsApp chat conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-capture-info.md)**  
 Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from a requester in a WhatsApp chat conversation.
 -   **[WhatsApp Cloud API provider properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/whatsapp-cloud-api-provider-properties.md)**  
@@ -59,11 +59,3 @@ Use provider properties to customize the behavior of the Conversational Integrat
 
 **Parent Topic:**[Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-service-channels|Service channels]]
-- [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]]
-- [[awa-work-items|Work items]]
-- [[create-provider-notification|Create a provider notification]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

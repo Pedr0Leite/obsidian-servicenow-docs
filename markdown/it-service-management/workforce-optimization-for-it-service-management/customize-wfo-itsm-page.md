@@ -14,7 +14,7 @@ breadcrumb: [Advanced configurations, Workforce Optimization for ITSM, IT Servic
 
 # Customize a Workforce Optimization for ITSM page using the Next Experience UI Builder
 
-Clone an existing [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] page and customize it based on your needs using the Next Experience UI Builder.
+Clone an existing Workforce Optimization for ITSM page and customize it based on your needs using the Next Experience UI Builder.
 
 ## Before you begin
 
@@ -38,11 +38,11 @@ For a list of all workspaces ServiceNow offers to target specific users, see [Li
 
 3.  In the **Page** menu, select the page you want to edit.
 
-    For example, [[dex-workspace-dashboard-tab|Landing Page]] or Work Scheduler.
+    For example, Landing Page or Work Scheduler.
 
 4.  In the **Variants** section, select the menu icon \(\[Omitted image "menu-icon.png"\] Alt text: menu-icon\) of the variant you would like to copy select **Duplicate**.
 
-5.  In the variant that you've duplicated, select the menu icon \(\[Omitted image "menu-icon.png"\] Alt text: menu-icon\) and select **Edit page variant [[settings-mobile|settings]]**.
+5.  In the variant that you've duplicated, select the menu icon \(\[Omitted image "menu-icon.png"\] Alt text: menu-icon\) and select **Edit page variant settings**.
 
 6.  In the Edit settings pop-up window, do the following:
 
@@ -66,8 +66,3 @@ For a list of all workspaces ServiceNow offers to target specific users, see [Li
 
 [Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[settings-mobile|Settings]]

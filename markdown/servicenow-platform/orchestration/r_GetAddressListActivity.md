@@ -18,7 +18,7 @@ The Get AddressList activity retrieves all attributes from the specified Exchang
 
 This activity implements the Microsoft Exchange [Get-AddressList](https://technet.microsoft.com/en-us/library/aa996782(v=exchg.160).aspx) command.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
 
 **Note:** This activity replaces an Exchange activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [PowerShell activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_PowershellActivityDesigner.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
@@ -26,7 +26,7 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 |Variables|Description|
 |---------|-----------|
-|hostname|The hostname of the Exchange server with which the activity interacts. Do not enter an [[ip-address|IP address]] in this variable.|
+|hostname|The hostname of the Exchange server with which the activity interacts. Do not enter an IP address in this variable.|
 |domain|The name of the Exchange server's assigned domain.|
 |domainController|Fully-qualified domain name \(FQDN\) of the domain controller that writes to Active Directory.|
 |identity|Name of the address list to get attributes from. If you enter a value in this variable, leave the **container** and **searchText** variables blank.|
@@ -51,7 +51,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[Exchange activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationExchangeActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

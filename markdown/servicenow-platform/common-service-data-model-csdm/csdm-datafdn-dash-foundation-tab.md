@@ -14,7 +14,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # 'Foundation' stage reports on the CSDM Data Foundations dashboard
 
-The **Foundation** tab on the [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]] identifies data that might be missing from the CMDB.
+The **Foundation** tab on the CSDM Data Foundations dashboard identifies data that might be missing from the CMDB.
 
 ## Reports on the Foundation tab
 
@@ -43,11 +43,11 @@ To view detailed information on the impact of a metric and for details on workin
 
 -   **Locations without parents**
 
-    You can create a hierarchy of location data using the Parent attribute to match your reporting requirements. Missing parent locations [[break|break]] the structure. See [Location \[cmn\_location\] table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implement-foundation-stage.md).
+    You can create a hierarchy of location data using the Parent attribute to match your reporting requirements. Missing parent locations break the structure. See [Location \[cmn\_location\] table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-implement-foundation-stage.md).
 
 -   **Business units without companies**
 
-    The hierarchy of your business is populated in the Business Unit table with a [[reference|reference]] to the parent company. A business unit is a part of your organization that is responsible for specific operations, such as finance, human resources \(HR\), or IT. A hierarchy within a business unit is common. For large multinational organizations, you may have business units that identify independent regional operations and the specific operations within the region.
+    The hierarchy of your business is populated in the Business Unit table with a reference to the parent company. A business unit is a part of your organization that is responsible for specific operations, such as finance, human resources \(HR\), or IT. A hierarchy within a business unit is common. For large multinational organizations, you may have business units that identify independent regional operations and the specific operations within the region.
 
 
 -   **[Auto-generate product models for logical CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-auto-create-prod-model-for-ci.md)**  
@@ -60,8 +60,3 @@ Use the CSDM Product Model Assignment job to auto-generate a product model recor
 
 [CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-data-foundations-dashboard.md)
 
-## Related
-
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]
-- [[break|Break]]
-- [[reference|Reference]]

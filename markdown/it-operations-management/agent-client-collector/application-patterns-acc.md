@@ -15,7 +15,7 @@ breadcrumb: [ACC Discovery, ACC deployment - servers, Configuring Agent Client C
 
 # Application patterns for the Agent Client Collector
 
-Application patterns gather details on the applications that run on the [[acc-landing-page|Agent Client Collector]] \(ACC\) host. Application patterns are supported only for servers, and are triggered after the Agent Client Collector host [[r-discovery|Discovery]] is complete.
+Application patterns gather details on the applications that run on the Agent Client Collector \(ACC\) host. Application patterns are supported only for servers, and are triggered after the Agent Client Collector host Discovery is complete.
 
 ## Prerequisites for using application patterns
 
@@ -138,7 +138,7 @@ You can also receive pattern details in the following logs:
 
 ## Oracle Global License Advisory Services \(GLAS\) data collection
 
-Oracle Java process discovery works either with patterns \(when using either a MID Server or Agent Client Collector\), or with [[file-based-discovery|file-based discovery]] \(using Agent Client Collector with file-based discovery\). If both the pattern and file-based discovery run the same Java installation, the pattern-collected data takes precedence.
+Oracle Java process discovery works either with patterns \(when using either a MID Server or Agent Client Collector\), or with file-based discovery \(using Agent Client Collector with file-based discovery\). If both the pattern and file-based discovery run the same Java installation, the pattern-collected data takes precedence.
 
 When performing Discovery with Agent Client Collector, ensure that you have the following settings:
 
@@ -158,16 +158,10 @@ For information on the collected data, see [Data collected during Agent Client C
 
 Application patterns support Oracle GLAS data collection in a Linux environment. For details on using patterns, see [Oracle GLAS data collection using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-glas-discovery.md).
 
-Although Oracle GLAS supports Put file operations, the related files are deployed using [[acc-assets|Agent Client Collector plugins]] instead of SSH or WMI.
+Although Oracle GLAS supports Put file operations, the related files are deployed using Agent Client Collector plugins instead of SSH or WMI.
 
 **Related topics**  
 
 
 [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]
-- [[file-based-discovery|File-based Discovery]]
-- [[acc-assets|Agent Client Collector plugins]]

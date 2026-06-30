@@ -26,20 +26,20 @@ After a project manager submits a request to extend the allocated resource plan,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **All**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **All**.
 
 2.  Open the resource plan.
 
 3.  Confirm the extension in one of the following ways.
 
-    -   From the [[r_AllocatingResources|Resource Allocation]] related list, review and update the value for the **Requested Hours**, **FTE**, or **Person Days** fields.
+    -   From the Resource Allocation related list, review and update the value for the **Requested Hours**, **FTE**, or **Person Days** fields.
     -   Select **Allocated** in the **Extension** field.
 
 ## Result
 
 Resources are allocated for the extended period.
 
-Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the [[rsrc-plan-form|Resource Plan form]]. The log is generated if a resource is allocated over 24 hours for a given day. You can review these logs to take correct actions for further resource allocation.
+Any errors or warnings during allocations are logged in the Resource Plan Logs related list on the Resource Plan form. The log is generated if a resource is allocated over 24 hours for a given day. You can review these logs to take correct actions for further resource allocation.
 
 **Parent Topic:**[Resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourcePlans.md)
 
@@ -80,8 +80,3 @@ Any errors or warnings during allocations are logged in the Resource Plan Logs r
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[rsrc-plan-form|Resource Plan form]]

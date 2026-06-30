@@ -14,7 +14,7 @@ breadcrumb: [Configuring Instance Scan, Instance Scan, Maintain and monitor, Adm
 
 # Timeout threshold
 
-A timeout determines the execution threshold of a scan from running long scans. For example, any scan running longer than the set time period [[hs-results|results]] in a failure.
+A timeout determines the execution threshold of a scan from running long scans. For example, any scan running longer than the set time period results in a failure.
 
 If the scan or the check takes longer than the set time period set by the quota rule, an error message appears.
 
@@ -24,6 +24,3 @@ If the scan or the check takes longer than the set time period set by the quota 
 
 To learn how to configure these thresholds, see [Implement a scan timeout threshold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-full-scan-quota-rule.md) and [Implement a check timeout threshold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-health-check-quota-rule.md).
 
-## Related
-
-- [[hs-results|Results]]

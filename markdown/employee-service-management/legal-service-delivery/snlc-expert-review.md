@@ -20,7 +20,7 @@ A workflow for getting content reviewed by internal teams might progress as foll
 
 1.  For non-disclosure agreements, legal user submits a change request to the fulfiller for the content that needs internal review.
 
-    **Note:** For [[snlc-request-third-party-contract-1|third-party contract review requests]], the contract user cannot create a change request. Instead, the contract fulfiller creates a task for internal review.
+    **Note:** For third-party contract review requests, the contract user cannot create a change request. Instead, the contract fulfiller creates a task for internal review.
 
 2.  The contract fulfiller submits a review task when contract request is in Work in progress or Awaiting review State.
 3.  The contract reviewer or the manager assigns the review task.
@@ -42,7 +42,7 @@ As a contract reviewer, review and provide feedback on contract documents
 -   **[Share requested information for internal review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-send-info-reviewtask.md)**  
 As a contract fulfiller, share information requested by the reviewer to proceed with the contract document review.
 -   **[Cancel a review task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-close-int-review-task.md)**  
-As a contract fulfiller, [[snlc-close-int-review-task|cancel a review task]] irrespective of its state.
+As a contract fulfiller, cancel a review task irrespective of its state.
 
 **Parent Topic:**[Use Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
 
@@ -65,10 +65,5 @@ As a contract fulfiller, [[snlc-close-int-review-task|cancel a review task]] irr
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[snlc-request-third-party-contract-1|Third-party contract review requests]]
-- [[snlc-close-int-review-task|Cancel a review task]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

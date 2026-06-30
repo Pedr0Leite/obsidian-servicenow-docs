@@ -12,9 +12,9 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Bulk edit in the Security Exposure Management Workspace
 
-In the [[sem-workspace-user-interface|Security Exposure Management Workspace]], the bulk edit feature enables you to update multiple findings simultaneously, streamlining the management and remediation process.
+In the Security Exposure Management Workspace, the bulk edit feature enables you to update multiple findings simultaneously, streamlining the management and remediation process.
 
-With bulk edit, you can select multiple [[vulnerabilities|vulnerabilities]] and apply consistent changes, such as assigning remediation owners, updating status, adding work notes, requesting exceptions, and requesting false positive. This saves time and effort by eliminating the need to edit vulnerable items individually, promoting efficient and consistent management of vulnerabilities.
+With bulk edit, you can select multiple vulnerabilities and apply consistent changes, such as assigning remediation owners, updating status, adding work notes, requesting exceptions, and requesting false positive. This saves time and effort by eliminating the need to edit vulnerable items individually, promoting efficient and consistent management of vulnerabilities.
 
 Roles required:
 
@@ -26,14 +26,8 @@ You can perform the following tasks using the bulk edit feature in the Security 
 -   [Bulk edit for false positive in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-bulk-edit-request-false-positive.md)
 -   [Close records in bulk in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-bulk-edit-close-records.md)
 
--   **[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]**  
+-   **[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)**  
 In the Security Exposure Management Workspace, you can update the state of the records, request exceptions and false positives, and assign records to an assignment group multiple findings simultaneously using the bulk edit feature.
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

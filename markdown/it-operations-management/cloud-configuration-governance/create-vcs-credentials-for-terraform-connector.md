@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-An API key credential is a secured record in the ServiceNow AI Platform that stores an API key such as Terraform Enterprise, Terraform Cloud, or VCS account API key. [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] uses the API key credential to connect with the account and discover its resources.
+An API key credential is a secured record in the ServiceNow AI Platform that stores an API key such as Terraform Enterprise, Terraform Cloud, or VCS account API key. Cloud Services Catalog Terraform Connector uses the API key credential to connect with the account and discover its resources.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
     The Cloud Admin Portal opens in a new browser tab.
 
@@ -42,8 +42,4 @@ An API key credential is a secured record in the ServiceNow AI Platform that sto
 
 6.  Select **Submit**.
 
-## Related
 
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

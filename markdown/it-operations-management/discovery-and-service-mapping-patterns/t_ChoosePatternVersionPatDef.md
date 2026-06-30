@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Choose the pattern version
 
-Every time you modify and save a pattern, you create a version of this pattern. Choose which pattern version [[c_ServiceMappingOverview|Service Mapping]] and [[r-discovery|Discovery]] use for discovery.
+Every time you modify and save a pattern, you create a version of this pattern. Choose which pattern version Service Mapping and Discovery use for discovery.
 
 ## Before you begin
 
@@ -58,7 +58,3 @@ If you have multiple versions of the same pattern, you can compare them to decid
 
 **Next topic:**[Compare pattern versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/compare-pattern-versions.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

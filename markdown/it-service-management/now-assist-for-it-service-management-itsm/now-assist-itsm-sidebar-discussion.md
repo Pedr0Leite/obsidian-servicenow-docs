@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Summarize a Sidebar discussion by using Now Assist for IT Service Management \(ITSM\)
 
-Generate a summary of Sidebar discussions between agents, requesters, and subject matter experts by using the Sidebar discussion summarization skill in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Generate a summary of Sidebar discussions between agents, requesters, and subject matter experts by using the Sidebar discussion summarization skill in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -85,7 +85,3 @@ If you'd like to provide feedback, select either the helpful icon \(\[Omitted im
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

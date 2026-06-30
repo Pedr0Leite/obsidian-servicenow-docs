@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure an email notification for an exposure notice
 
-Configure an email notification to use in the [[emergency-outreach|Emergency Outreach]] to send to potentially exposed contacts in an exposure case to notify them of potential exposure from an affected employee.
+Configure an email notification to use in the Emergency Outreach to send to potentially exposed contacts in an exposure case to notify them of potential exposure from an affected employee.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ Role required: admin
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]

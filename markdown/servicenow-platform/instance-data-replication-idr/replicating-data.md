@@ -14,7 +14,7 @@ breadcrumb: [Instance Data Replication, Manage instance data sources, Extend Ser
 
 # Replicating data with Instance Data Replication
 
-Synchronize data between instances using [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Synchronize data between instances using Instance Data Replication \(IDR\).
 
 ## Overview of replicating data
 
@@ -23,7 +23,7 @@ IDR enables you to replicate data from one instance, called the producer instanc
 -   **[Set up continuous replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/set-up-continuous-replication-idr.md)**  
 Enable near-real time data replication from a producer instance to one or more consumer instances in Instance Data Replication \(IDR\).
 -   **[Set up bidirectional replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/set-up-bidirectional-replication-idr.md)**  
-Replicate updated data on a consumer instance to the producer instance using [[bidirectional-replication|bidirectional replication]] in Instance Data Replication \(IDR\).
+Replicate updated data on a consumer instance to the producer instance using bidirectional replication in Instance Data Replication \(IDR\).
 -   **[Set up discrete replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/set-up-discrete-replication-idr.md)**  
 Replicate data from a producer instance to specific, distinguished consumer instances in near-real time, ensuring each consumer instance receives updates independently in Instance Data Replication \(IDR\).
 -   **[Set up scheduled replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/set-up-scheduled-replication-idr.md)**  
@@ -39,7 +39,3 @@ If you must change or update your original replication set, reconfigure Instance
 
 **Parent Topic:**[Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[bidirectional-replication|Bidirectional replication]]

@@ -12,7 +12,7 @@ breadcrumb: [Lead-to-Cash Process Management, Order operations apps, Configure, 
 
 # Setting conditions for enabling email access in Lead-to-Cash Process Management
 
-Sales process managers must be granted access to [[lead-management-use-emails-tab|compose emails]] for the sales entity records that are monitored in a sales process record.
+Sales process managers must be granted access to compose emails for the sales entity records that are monitored in a sales process record.
 
 Sales process managers can compose and send emails related to a sales process record by default. Enable sales process managers to compose emails for the related sales entities by setting the value of the **email\_client** dictionary attribute to **true** and using either of the following methods:
 
@@ -27,9 +27,5 @@ Sales process managers can compose and send emails related to a sales process re
 
 [Email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnableTheEmailClient.md)
 
-[[view-send-emails-sales-process|View and send emails in Lead-to-Cash Process Management]]
+[View and send emails in Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-send-emails-sales-process.md)
 
-## Related
-
-- [[view-send-emails-sales-process|View and send emails in Lead-to-Cash Process Management]]
-- [[lead-management-use-emails-tab|Compose emails]]

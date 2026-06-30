@@ -14,7 +14,7 @@ breadcrumb: [Learning Core, HR Service Delivery, Employee Service Management]
 
 # Configuring Learning Core
 
-Set up and configure [[learning-core_overview|Learning Core]] with a [[exploring-learning-exp|learning]] management system to build a learning content repository.
+Set up and configure Learning Core with a learning management system to build a learning content repository.
 
 -   **[Administration tasks in Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/ln-administration.md)**  
 Complete the administrative tasks in Learning Core with the Learning admin \[learning\_admin\] role.
@@ -23,7 +23,3 @@ Connect your ServiceNow instance with third-party learning systems to pull learn
 
 **Parent Topic:**[Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-core_overview.md)
 
-## Related
-
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]

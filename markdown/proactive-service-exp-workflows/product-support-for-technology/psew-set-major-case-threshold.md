@@ -19,7 +19,7 @@ Set the threshold value for major cases generated from incidents in the system p
 ## Before you begin
 
 -   Role required: admin
--   Selected application scope: [[psew-landing-page|Proactive Service Experience Workflows]]
+-   Selected application scope: Proactive Service Experience Workflows
 
 ## About this task
 
@@ -42,6 +42,3 @@ A default threshold value has been predefined to generate major cases from incid
 
 **Parent Topic:**[Auto-creation of cases and updates from incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-auto-creation-case.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

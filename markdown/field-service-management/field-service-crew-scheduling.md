@@ -24,11 +24,11 @@ Field Service Crew Operations provides easier assignment of multiple agents to t
 
 -   Highlighting available crews for tasks based on skills, location, covered radius, and availability.
 
--   [[using-manager-map|Using the map]] to pick the closest crew based on real-time location.
+-   Using the map to pick the closest crew based on real-time location.
 
 -   Easily distinguish tasks requiring a crew in the task panel.
 
--   Automatically assign tasks to crews based on [[dynamic-scheduling|dynamic scheduling]] rules.
+-   Automatically assign tasks to crews based on dynamic scheduling rules.
 
 
 **Related topics**  
@@ -36,7 +36,7 @@ Field Service Crew Operations provides easier assignment of multiple agents to t
 
 [Activate Field Service Crew Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-fsm-crew-scheduling.md)
 
-[[crew-scheduling-components|Field Service Crew Operations components]]
+[Field Service Crew Operations components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/crew-scheduling-components.md)
 
 [Configuring Field Service Crew Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-crew-operations.md)
 
@@ -44,8 +44,3 @@ Field Service Crew Operations provides easier assignment of multiple agents to t
 
 [Using Field Service Crew operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/Using-crew-operations-fsm.md)
 
-## Related
-
-- [[crew-scheduling-components|Field Service Crew Operations components]]
-- [[using-manager-map|Using the map]]
-- [[dynamic-scheduling|Dynamic scheduling]]

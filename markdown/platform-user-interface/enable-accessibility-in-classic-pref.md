@@ -16,7 +16,7 @@ Learn more about the Enable accessibility in Classic preference accessibility pr
 
 \[Omitted image "coral-pref-classic.png"\] Alt text: Enable accessibility in classic accessibility preference.
 
-The purpose of this preference is to improve accessibility in the Classic UI. The classic environment refers to working in [[lists-configurable-workspace|lists]] of records and on record [[form-configurable-workspace|forms]] directly. You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as [[c_UI16|Core UI]]. Turn this preference on to unlock additional accessibility options in Core UI.
+The purpose of this preference is to improve accessibility in the Classic UI. The classic environment refers to working in lists of records and on record forms directly. You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI. Turn this preference on to unlock additional accessibility options in Core UI.
 
 <table id="table_nhy_xfy_hgc"><thead><tr><th>
 
@@ -54,9 +54,3 @@ Visual representation
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]

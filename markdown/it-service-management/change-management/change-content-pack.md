@@ -20,7 +20,7 @@ Platform Analytics Solutions and in-form analytics contain preconfigured dashboa
 
 Platform Analytics data visualizations use Performance Analytics [indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) data to show you data over time, helping you analyze your business processes and identify areas of improvement. With Platform Analytics Solutions, you can get value from Performance Analytics for your application with minimal setup. You can always create your own objects as well.
 
-To enable the solutions for [[c_ITILChangeManagement|Change Management]], an admin can navigate to **Performance Analytics** &gt; **Guided Setup**. Click **Get Started** then scroll to the section for Change Management. The guided setup takes you through the entire setup and configuration process.
+To enable the solutions for Change Management, an admin can navigate to **Performance Analytics** &gt; **Guided Setup**. Click **Get Started** then scroll to the section for Change Management. The guided setup takes you through the entire setup and configuration process.
 
 ## Inactive dashboards
 
@@ -39,7 +39,7 @@ This workbench dashboard enables you to view and assess all open changes separat
 -   **[Legacy: Change Velocity dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-velocity-dashboard.md)**  
 Use this dashboard to track the average duration of change requests in the last 30 days.
 -   **[Change Management troubleshooting properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/debug-properties.md)**  
-Use the [[debug-properties|Change Management troubleshooting properties]] and change the value of the properties to get additional logging details for the feature.
+Use the Change Management troubleshooting properties and change the value of the properties to get additional logging details for the feature.
 
 **Parent Topic:**[Using Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-management.md)
 
@@ -48,7 +48,3 @@ Use the [[debug-properties|Change Management troubleshooting properties]] and ch
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[debug-properties|Change Management troubleshooting properties]]

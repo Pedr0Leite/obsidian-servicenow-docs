@@ -18,7 +18,7 @@ When a component or a part of your Next Experience web page doesn’t contain da
 
 \[Omitted image "empty-state-no-data-available.png"\] Alt text: No data available empty state image.
 
-There are 12 empty state image types available, each including a small, medium, and large version. When creating a theme using Theme Builder a UX Styles Imagery record is created however, the record is empty. In this case, your theme defaults to using a base system empty state theme-able images. If you choose to override these images, see [[customize-themeable-empty-state-images|Customize theme-able empty state images for your theme]].
+There are 12 empty state image types available, each including a small, medium, and large version. When creating a theme using Theme Builder a UX Styles Imagery record is created however, the record is empty. In this case, your theme defaults to using a base system empty state theme-able images. If you choose to override these images, see [Customize theme-able empty state images for your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customize-themeable-empty-state-images.md).
 
 You can insert an empty state image into your custom experience by using the Illustration component in UI Builder. The Illustration component displays all available empty state images. For more information on the Illustration component, see [Horizon Design System Empty State](https://horizon.servicenow.com/components/now-template-message-empty-state).
 
@@ -294,9 +294,5 @@ Background object
 </table>-   **[Customize theme-able empty state images for your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customize-themeable-empty-state-images.md)**  
 Customize default theme-able empty state images for your Next Experience and Theme Builder themes using the theme's Imagery record.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[customize-themeable-empty-state-images|Customize theme-able empty state images for your theme]]
-- [[next-experience-theming|Working with themes in Next Experience]]

@@ -16,10 +16,6 @@ Establish internal and external locations so that users and consumers at a busin
 
 |Task|Description|
 |----|-----------|
-|[[create-internal-business-location|Create an internal business location]]|Create an internal business location.|
-|[[create-external-business-location|Create an external business location]]|Create an external business location.|
+|[Create an internal business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-internal-business-location.md)|Create an internal business location.|
+|[Create an external business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-external-business-location.md)|Create an external business location.|
 
-## Related
-
-- [[create-internal-business-location|Create an internal business location]]
-- [[create-external-business-location|Create an external business location]]

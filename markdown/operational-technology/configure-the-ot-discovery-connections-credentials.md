@@ -121,8 +121,5 @@ This field is mandatory.
 
 ## What to do next
 
-The next step is to [[generate-imports-validate-connections|Generate imports and validate the connections]].
+The next step is to [Generate imports and validate the connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/generate-imports-validate-connections.md).
 
-## Related
-
-- [[generate-imports-validate-connections|Generate imports and validate the connections]]

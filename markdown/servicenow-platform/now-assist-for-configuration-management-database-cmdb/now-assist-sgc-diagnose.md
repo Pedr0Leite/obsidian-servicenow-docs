@@ -30,7 +30,7 @@ When a Now Assist skill is enabled, the Now Assist icon \[Omitted image "icon-no
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** or **Workspaces** &gt; **CMDB Workspace**.
+1.  Navigate to **Workspaces** &gt; **Service Graph Workspace** or **Workspaces** &gt; **CMDB Workspace**.
 
 2.  Select the Now Assist icon \[Omitted image "now-assist-sgc-ai.png"\] to open the Now Assist panel and then select or enter **Diagnose a Service Graph Connector**.
 
@@ -38,7 +38,7 @@ When a Now Assist skill is enabled, the Now Assist icon \[Omitted image "icon-no
 
 3.  Begin the diagnostic process by entering the connector name, specific data source, or import-set number of a Service Graph Connector.
 
-    **Note:** If Now Assist doesn't recognize the entered text, it displays a list of the [[cmdb-sgc-available|Service Graph Connectors]] installed on your instance by their discovery source names, such as `SG-Infoblox`. You can then select a connector for further diagnosis.
+    **Note:** If Now Assist doesn't recognize the entered text, it displays a list of the Service Graph Connectors installed on your instance by their discovery source names, such as `SG-Infoblox`. You can then select a connector for further diagnosis.
 
 <table id="choicetable_x5w_r4d_zcc"><thead><tr><th align="left" id="d208646e206">
 
@@ -54,7 +54,7 @@ Description
 
 </td><td>
 
-Service Graph Connector name to diagnose.The Now Assist for SGC displays the connector name in the discovery source format, such as `SG-Infoblox`. However, you can enter any text that is associated with the connector name, for example, `[[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]]`, `Infoblox`, or `SG-Infoblox`.
+Service Graph Connector name to diagnose.The Now Assist for SGC displays the connector name in the discovery source format, such as `SG-Infoblox`. However, you can enter any text that is associated with the connector name, for example, `Service Graph Connector for Infoblox`, `Infoblox`, or `SG-Infoblox`.
 
 After you enter a connector name, you can select a data source that is associated with the connector, followed by a failed import set that is associated with the data source. Based on the inputs, the latest failed import set number is displayed. Alternatively, you can select to view other failed import sets, if available. If no failed import sets are available, you can enter a different connector name, data source, or import set number.
 
@@ -66,7 +66,7 @@ After you enter a connector name, you can select a data source that is associate
 
 </td><td>
 
-Data source name for a connector to diagnose. For example, `SG-Infoblox [[ip-address|IP Address]]`.After entering a data source that is associated with a connector, you can select a failed import set that is associated with the data source. Based on the inputs, the import set number that was last processed with errors is displayed. Alternatively, you can choose to view other failed import sets. If no failed import sets are available, you can select a different data source for the connector.
+Data source name for a connector to diagnose. For example, `SG-Infoblox IP Address`.After entering a data source that is associated with a connector, you can select a failed import set that is associated with the data source. Based on the inputs, the import set number that was last processed with errors is displayed. Alternatively, you can choose to view other failed import sets. If no failed import sets are available, you can select a different data source for the connector.
 
 \[Omitted image "now-assist-sgc-diagnose-data-source.png"\] Alt text: Diagnosing a failed import set with a data source name.
 
@@ -94,7 +94,7 @@ After entering an import set number, you can view the error summary that is asso
 
 Now Assist triggers the diagnosis process for the failed import sets. The Now Assist panel includes two key sections: Issue and Diagnosis recommendation, focused on the latest issue. The recommendation for an issue is based on a knowledge article matched using AI Search. A link to the knowledge article is provided in the Source section for additional guidance.
 
-For issues related to [[ire|Identification and Reconciliation engine \(IRE\)]], the panel provides a detailed summary of errors, including import errors, flow errors, partial payloads, and incomplete payloads.
+For issues related to Identification and Reconciliation engine \(IRE\), the panel provides a detailed summary of errors, including import errors, flow errors, partial payloads, and incomplete payloads.
 
 \[Omitted image "now-assist-sgc-diagnose-result.png"\] Alt text: Failed import set diagnosis result.
 
@@ -128,7 +128,7 @@ Copy the summary
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the content for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the content for another purpose, such as pasting into an email.
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -138,11 +138,3 @@ Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use 
 
 [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]]
-- [[ip-address|IP Address]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[email|Email]]

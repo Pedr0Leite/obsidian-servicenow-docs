@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Configure the roles to view employee forms
 
-Configure the roles to enable your agents to view the employee responses in the completed [[universal-task-landing|Universal Task]] employee forms.
+Configure the roles to enable your agents to view the employee responses in the completed Universal Task employee forms.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: sn\_uni\_task.admin
 
 **Next topic:**[Configure the extension points for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/configure-extnsn-points.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

@@ -18,12 +18,8 @@ The following logical diagram shows the tables and their relationships within th
 
 \[Omitted image "psds-datamodel-lp.png"\] Alt text: Public Sector Digital Services License and Permit Data Model
 
--   **[[psds-data-model-lp-playbook-tables|Tables installed with License and Permit Playbook]]**  
+-   **[Tables installed with License and Permit Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-lp-playbook-tables.md)**  
 This section describes the tables installed with the License and Permit Playbook application and shows how they store and manage information.
 
-**Parent Topic:**[[public-sector-digital-services-data-model|Public Sector Digital Services Data Model]]
+**Parent Topic:**[Public Sector Digital Services Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/public-sector-digital-services-data-model.md)
 
-## Related
-
-- [[psds-data-model-lp-playbook-tables|Tables installed with License and Permit Playbook]]
-- [[public-sector-digital-services-data-model|Public Sector Digital Services Data Model]]

@@ -14,11 +14,7 @@ breadcrumb: [Set up Google Cloud Platform service accounts, Set up a cloud servi
 
 Google Cloud Platform \(GCP\) access and permission using policies provide privileges for secure cloud resource utilization and management in GCP.
 
-Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the [[r-discovery|Discovery]] patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
+Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the Discovery patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
 
-**Parent Topic:**[[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
+**Parent Topic:**[Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-gcp-service-accounts.md)
 
-## Related
-
-- [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
-- [[r-discovery|Discovery]]

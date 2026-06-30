@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Accessing the IntegrationHub ETL dashboard in SGC Central
 
-You can access the [[integrationhub-etl|IntegrationHub ETL]] dashboard within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to manage ETL transform maps.
+You can access the IntegrationHub ETL dashboard within the SGC Central view of the Service Graph Workspace or CMDB Workspace to manage ETL transform maps.
 
 IntegrationHub ETL is a tool for creating and managing ETL transform maps to integrate third-party data into the CMDB or non-CMDB tables. Select **Go to IntegrationHub ETL Home** to view the IntegrationHub ETL home page.
 
@@ -44,8 +44,4 @@ Role required: admin
 
 4.  To open the home page of the IntegrationHub ETL store app, select **Go to IntegrationHub ETL Home**.
 
-## Related
 
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

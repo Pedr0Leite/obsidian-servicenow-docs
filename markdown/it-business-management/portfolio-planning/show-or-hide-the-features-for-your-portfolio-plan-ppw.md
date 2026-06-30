@@ -30,7 +30,7 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select the portfolio plan for which you want to show or hide the features.
 
@@ -50,6 +50,3 @@ Role required: sn\_align\_core.apw\_user or business\_stakeholder
 
 [Share a portfolio plan with stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-portfolio-plan-in-portfolio-planning-workspace.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

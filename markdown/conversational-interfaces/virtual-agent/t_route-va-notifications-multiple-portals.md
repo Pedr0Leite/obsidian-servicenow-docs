@@ -15,7 +15,7 @@ breadcrumb: [Using multiple active conversations in Virtual Agent, Configure, Vi
 
 # Route Virtual Agent NLU notifications through multiple portals
 
-Send notifications and other [[virtual-agent-landing-page|Virtual Agent]] messages through as many portals as desired.
+Send notifications and other Virtual Agent messages through as many portals as desired.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ Messages with multiple contexts will now be sent through Virtual Agent to users 
 
 **Parent Topic:**[Using multiple active conversations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/c_multiple-active-conversations-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

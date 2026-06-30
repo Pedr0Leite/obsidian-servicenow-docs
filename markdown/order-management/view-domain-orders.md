@@ -40,7 +40,7 @@ Role required: sn\_ind\_tmt\_orm.fulfillment\_agent, sn\_ind\_tmt\_orm.fulfillme
 
 9.  Select **Associated Move Domain Order** tab in the related list to view the cease domain order and provide domain order.
 
-    When a [[move-order|move order]] is raised, you can view these domain orders in the related lists:
+    When a move order is raised, you can view these domain orders in the related lists:
 
     -   Cease domain order: Shows a domain order linked to an old inventory from the existing service location.
     -   Provide domain order: Shows a domain order linked to a new inventory in the new service location.
@@ -54,12 +54,7 @@ Role required: sn\_ind\_tmt\_orm.fulfillment\_agent, sn\_ind\_tmt\_orm.fulfillme
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[move-order|Move order]]

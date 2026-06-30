@@ -14,7 +14,7 @@ breadcrumb: [Learning in Workforce Optimization for HR, Coaching in Workforce Op
 
 # Create a learning path in Workforce Optimization for HR
 
-Create a [[exploring-learning-exp|learning]] path, add relevant skills and course items, and publish the path. When your agents complete the path, any skills associated with the path are automatically added to the agent's profile.
+Create a learning path, add relevant skills and course items, and publish the path. When your agents complete the path, any skills associated with the path are automatically added to the agent's profile.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ Role required: sn\_hr\_wfo.admin​
 
 **Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

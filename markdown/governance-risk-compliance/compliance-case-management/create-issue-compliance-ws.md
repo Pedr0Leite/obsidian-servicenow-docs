@@ -14,7 +14,7 @@ breadcrumb: [Add issue, Use, Compliance Case Management, Governance, Risk, and C
 
 # Create an Issue form
 
-Use the [[create-an-issue-form-mrm|Create an Issue form]] in GRC: [[compliance-case-management|Compliance Case Management]] to add an issue to a compliance case, report findings or observations or compliance deficiencies, or matters that require immediate attention from the respective owners.
+Use the Create an Issue form in GRC: Compliance Case Management to add an issue to a compliance case, report findings or observations or compliance deficiencies, or matters that require immediate attention from the respective owners.
 
 For a description of the field values, see the following table.
 
@@ -84,7 +84,7 @@ Classification
 
 Classification of the issue. This field is automatically filled in with one of the following options:-   Audit
 -   Compliance
--   [[grc-opres-landing-page|Operational Resilience]]
+-   Operational Resilience
 -   Risk
 -   Vendor
 
@@ -369,8 +369,3 @@ Apart from the from fields, there are a few actions that you can perform on a Co
 
 **Parent Topic:**[Add an issue for a compliance case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/add-issues-for-compliance-case.md)
 
-## Related
-
-- [[create-an-issue-form-mrm|Create an issue form]]
-- [[compliance-case-management|compliance case management]]
-- [[grc-opres-landing-page|Operational Resilience]]

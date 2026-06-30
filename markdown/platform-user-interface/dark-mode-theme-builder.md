@@ -20,8 +20,5 @@ Theme Builder includes a dark mode option, offering an eye-friendly alternative 
 
 \[Omitted image "tb-display-mode.png"\] Alt text: Theme Builder display mode options modal with Dark mode selected.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[next-experience-theming|Working with themes in Next Experience]]

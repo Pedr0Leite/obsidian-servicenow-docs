@@ -25,11 +25,11 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Observables**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Observables**.
 
 2.  Click the IP address or URL of the observable to which you want to view more IoC data.
 
-    The **[[location|Location]]** field shows the geolocation of the IoC.
+    The **Location** field shows the geolocation of the IoC.
 
 3.  Click the **Enrich data** button to load the additional IoC data.
 
@@ -38,7 +38,7 @@ Role required: sn\_ti.admin
     **Note:** To load more location-related information, edit the **ThreatAdditionalInfo** script include and provide the appropriate API key from the website that provides the additional information.
 
 
-**Parent Topic:**[[c_Observables|Observables]]
+**Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_Observables.md)
 
 **Related topics**  
 
@@ -57,9 +57,3 @@ Role required: sn\_ti.admin
 
 [Perform threat enrichment on observables]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[location|Location]]

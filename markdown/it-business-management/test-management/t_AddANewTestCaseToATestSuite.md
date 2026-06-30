@@ -23,11 +23,11 @@ Create and add a new test case to an existing test suite.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestSuites|Test Suites]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Suites**.
 
 2.  Open the test suite to which you want to add a test case.
 
-3.  From the [[c_TestCases|Test Cases]] related list, click **New**.
+3.  From the Test Cases related list, click **New**.
 
 4.  On the form, fill in the fields.
 
@@ -44,7 +44,3 @@ Create and add a new test case to an existing test suite.
 
 **Parent Topic:**[Test suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestSuites.md)
 
-## Related
-
-- [[c_TestSuites|Test suites]]
-- [[c_TestCases|Test cases]]

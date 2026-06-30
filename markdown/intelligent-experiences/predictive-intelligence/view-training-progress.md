@@ -31,7 +31,7 @@ Solution training involves these steps.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solutions** or **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solutions** or **Predictive Intelligence** &gt; **Similarity** &gt; **Solutions**.
 
 2.  In the ML Solutions list, select the solution whose progress or statistics you want to view.
 
@@ -52,6 +52,3 @@ For classification solutions, see [Review classification solution statistics](ht
 
 For similarity solutions, see [Review similarity solution examples and scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md).
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

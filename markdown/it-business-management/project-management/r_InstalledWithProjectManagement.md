@@ -44,7 +44,7 @@ Enable move project for WIP projectscom.snc.project.move\_project.wip
 
 </td><td>
 
-If set to true, this property enables you to move the projects which are in WIP state.**Note:** When a project is moved, only tasks in open and pending state are moved and the project takes the rolled up dates from all the [[t_CreateAProjectTask|project tasks]].
+If set to true, this property enables you to move the projects which are in WIP state.**Note:** When a project is moved, only tasks in open and pending state are moved and the project takes the rolled up dates from all the project tasks.
 
 Default value: false
 
@@ -54,7 +54,7 @@ Calculate ROI percentage based on a project's estimated cost and its net value c
 
 </td><td>
 
-If set to true, this property calculates the return on investment using the \(net value/estimated cost\) x 100 formula. This field is only available from the Advanced view of the [[create-a-project-form|Project form]].Default value: true
+If set to true, this property calculates the return on investment using the \(net value/estimated cost\) x 100 formula. This field is only available from the Advanced view of the Project form.Default value: true
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Default the expense type for a new project.sn\_plng\_att\_core.default.expense\_
 
 </td><td>
 
-When a new project is created in the [[project-workspace-landing-page|Project Workspace]], expense type of the project is marked as Opex.
+When a new project is created in the Project Workspace, expense type of the project is marked as Opex.
 
 </td></tr></tbody>
 </table>The following project properties are available in system property \[sys\_properties\] table. Only pps\_admin can edit these properties.
@@ -208,8 +208,3 @@ The property restrict edits in the status report. The property sets the status r
 </td></tr></tbody>
 </table>**Parent Topic:**[Project Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-management-reference.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]
-- [[project-workspace-landing-page|Project Workspace]]

@@ -14,9 +14,9 @@ breadcrumb: [My Learning, Exploring Learning, Learning, Growth Experiences, HR S
 
 # Activity
 
-The **Activity** tab on [[overview-lxp|My Learning]] provides a variety of widgets that help you see your assigned, saved, shared, and completed courses.
+The **Activity** tab on My Learning provides a variety of widgets that help you see your assigned, saved, shared, and completed courses.
 
-The activity tab has the following widgets that help you with a seamless [[exploring-learning-exp|learning]] experience:
+The activity tab has the following widgets that help you with a seamless learning experience:
 
 \[Omitted image "activity-lxp.png"\] Alt text: Shows your current course.
 
@@ -26,7 +26,3 @@ The activity tab has the following widgets that help you with a seamless [[explo
 -   History: View all the courses that you have completed.
 -   Challenges:View learning challenges that you have set for yourself.
 
-## Related
-
-- [[overview-lxp|My Learning]]
-- [[exploring-learning-exp|Learning]]

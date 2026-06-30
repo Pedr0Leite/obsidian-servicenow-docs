@@ -22,7 +22,7 @@ Role required: itil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **My Group Schedules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **My Group Schedules**.
 
 2.  Open a schedule.
 
@@ -31,6 +31,3 @@ Role required: itil
 
 **Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-schedules-and-escalation.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -18,7 +18,7 @@ Demonstration of what is possible with the Success Dashboard using your data via
 
 ## Accelerator Overview
 
-The Jumpstart Your Success Dashboard provides [[impact-landing-page|Impact]] Customers with an overview of the Success Dashboard, which aims to [[io-help|help]] Customers gain visibility into their ITSM and/or HR product success metrics. It includes an applied demonstration of the Success Dashboard, a guided tour of its features and benefits via a temporary instance containing your cloned data, and leading practices on getting started.
+The Jumpstart Your Success Dashboard provides Impact Customers with an overview of the Success Dashboard, which aims to help Customers gain visibility into their ITSM and/or HR product success metrics. It includes an applied demonstration of the Success Dashboard, a guided tour of its features and benefits via a temporary instance containing your cloned data, and leading practices on getting started.
 
 ## Package Availability
 
@@ -34,7 +34,7 @@ Offered pursuant to the applicable ServiceNow Impact Package and Accelerator des
 -   **Coaching Session \#1 \(up to 60 minutes\)**
     -   Provide reporting strategy overview
     -   Demonstrate the ITSM Success Dashboard in temporary instance
-        -   [[instance-observer-performance|Performance]] Quality KPIs
+        -   Performance Quality KPIs
         -   Service Quality KPIs
         -   Configuration Overview
     -   Key resources and guides
@@ -64,8 +64,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow isn’t responsible for implementing Success Dashboard recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

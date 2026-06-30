@@ -14,7 +14,7 @@ breadcrumb: [Enterprise portfolios, Work with portfolios, Digital Portfolio Mana
 
 # Create enterprise service portfolios using a template
 
-Admins can create [[dpm-enterprise-portfolios|enterprise portfolios]] from scratch or by using a template. Enterprise portfolios are structured in a nesting tree format to facilitate navigation of service-related items and taxonomy nodes. Similar to [[dpm-personal-portfolio|personal portfolios]], you can see key metrics to assess the portfolio performance.
+Admins can create enterprise portfolios from scratch or by using a template. Enterprise portfolios are structured in a nesting tree format to facilitate navigation of service-related items and taxonomy nodes. Similar to personal portfolios, you can see key metrics to assess the portfolio performance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[dpm-landing|Digital Portfolio Management]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Digital Portfolio Management**.
 
 2.  Select the enterprise portfolios icon \(\[Omitted image "enterprise-portfolio-icon-purple.png"\] Alt text: Enterprise portfolios icon.\).
 
@@ -146,8 +146,3 @@ Individuals or groups that have an interest in the enterprise portfolio.
 
 **Parent Topic:**[Enterprise portfolios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-enterprise-portfolios.md)
 
-## Related
-
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[dpm-landing|Digital Portfolio Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Coaching, IT Service Management]
 
 # Request Coaching
 
-The [[cf-coaching-landing|Coaching]] \(com.sn\_coaching\) plugin requires a separate subscription and must be activated by ServiceNow personnel.
+The Coaching \(com.sn\_coaching\) plugin requires a separate subscription and must be activated by ServiceNow personnel.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Activates the Coaching with Learning application and enables you to integrate th
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -70,7 +70,3 @@ Activates the Coaching with Learning application and enables you to integrate th
 
 **Parent Topic:**[Configuring Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-configuring-coaching.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[dex-workspace-application-tab|Applications]]

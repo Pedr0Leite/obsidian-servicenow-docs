@@ -15,7 +15,7 @@ breadcrumb: [ITOM Visibility, IT Operations Management]
 
 # Discovery patterns used by ITOM Visibility
 
-[[c_ServiceMappingOverview|Service Mapping]] and [[r-discovery|Discovery]] use patterns in their discovery process that cover most industry standard network devices and applications. You can customize these patterns and create new ones.
+Service Mapping and Discovery use patterns in their discovery process that cover most industry standard network devices and applications. You can customize these patterns and create new ones.
 
 ServiceNow applications refer to devices and applications that comprise a service instance as configuration items \(CIs\).
 
@@ -101,7 +101,7 @@ Discovery admin
 
 </td><td>
 
-Can view, create, edit, and publish patterns. The role enables users to run discovery, migrate probes or CAPI to patterns, and access discovery logs and [[otto-aiops-dashboards|dashboards]].
+Can view, create, edit, and publish patterns. The role enables users to run discovery, migrate probes or CAPI to patterns, and access discovery logs and dashboards.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,7 @@ You can create patterns for specific domains. In that case, the new pattern is u
 
 Typically, you maintain two ServiceNow instances in your organization: for production and for development. Create or modify patterns, test them, and verify results in the development instance. When you are satisfied with the discovery results, export relevant patterns from the development instance to create an update set. Then you retrieve and commit the update set in your production instance.
 
-If you’re creating a pattern for applications and devices that aren’t supported in the [[itom-visibility-landing-page|ITOM Visibility]] global content application, start from creating CI types for them.
+If you’re creating a pattern for applications and devices that aren’t supported in the ITOM Visibility global content application, start from creating CI types for them.
 
 \[Omitted image "PatternCreationFlow.png"\] Alt text: Flow describing pattern creation and modification
 
@@ -193,19 +193,19 @@ As an alternative to customizing the pattern from the Pattern Designer side, imp
 10. [Finalize a pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_FinalizePatternPatDef.md)  
 After you finish defining your pattern, make it ready for use by Service Mapping and Discovery.
 11. [Copy patterns from one instance to another](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/export-patterns.md)  
-To [[export-patterns|copy patterns from one instance to another]], create an update set containing new or modified patterns with their related items in your development instance. Then, import the update set into your production instance.
+To copy patterns from one instance to another, create an update set containing new or modified patterns with their related items in your development instance. Then, import the update set into your production instance.
 12. [Choose the pattern version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_ChoosePatternVersionPatDef.md)  
 Every time you modify and save a pattern, you create a version of this pattern. Choose which pattern version Service Mapping and Discovery use for discovery.
 13. [Activate a disabled pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/activate-disabled-pattern.md)  
 If you want to use a pattern for discovery that's disabled by default, activate it manually.
 14. [Discover datacenters only for new cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/discover-datacenter-only-new-account.md)  
-If you have multiple [[cloud-accounts|cloud accounts]] and datacenters in AWS and Azure, you can discover datacenters for new cloud accounts only, instead of refreshing the entire list.
+If you have multiple cloud accounts and datacenters in AWS and Azure, you can discover datacenters for new cloud accounts only, instead of refreshing the entire list.
 15. [Improved query performance with direct field population in CI tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/query-service-account-ldc-fields.md)  
 The **Populate Service Account and LDC IN CMDB** scheduled job populates the Service Account and Logical Datacenter fields in cloud configuration item \(CI\) tables, and the Virtual Machine Object field in the Hardware \[cmdb\_ci\_hardware\] table. This direct population reduces query complexity and improves query performance.
 16. [Server CI population during cloud discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/server-ci-cloud-discovery.md)  
 Cloud discovery can populate Server CIs without running IP-based discovery, reducing discovery time in large environments.
 17. [Enable Oracle Wallet authentication for discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/enable-oracle-wallet-authentication.md)  
-Enable Oracle Wallet authentication to use credentials stored on the target server during [[c_OracleDatabaseDiscovery|Oracle database discovery]] on UNIX systems.
+Enable Oracle Wallet authentication to use credentials stored on the target server during Oracle database discovery on UNIX systems.
 
 **Parent Topic:**[ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-visibility-landing-page.md)
 
@@ -230,12 +230,3 @@ Enable Oracle Wallet authentication to use credentials stored on the target serv
 
 [Certificate Inventory and Management patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-patterns.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[export-patterns|Copy patterns from one instance to another]]
-- [[cloud-accounts|Cloud accounts]]
-- [[c_OracleDatabaseDiscovery|Oracle database discovery]]

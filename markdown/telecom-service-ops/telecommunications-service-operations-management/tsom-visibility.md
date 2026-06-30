@@ -32,7 +32,7 @@ Telecom Visibility helps communication service providers \(CSPs\) and telecom op
 
 |Capability|Description|
 |----------|-----------|
-|Telecom Discovery with Patterns|Discover standalone network functions \(xNFs\) such as routers and switches using SNMP and CLI protocols via predefined [[exploring-telecom-discovery|Telecom Discovery]] Patterns.|
+|Telecom Discovery with Patterns|Discover standalone network functions \(xNFs\) such as routers and switches using SNMP and CLI protocols via predefined Telecom Discovery Patterns.|
 |Service Graph Connector Integration|Bring inventory and configuration data from external EMS/NMS/controllers into CMDB using northbound APIs.|
 |Discrepancy Identification &amp; Reconciliation|Detect and resolve mismatches between inventoried and discovered data \(for example, missing CIs, model mismatches, stale entries\).|
 |Telecom-Centric Data Modeling|Maintain structured and hierarchical telecom data including interface cards, slots, subslots, VLANs, and ports.|
@@ -110,6 +110,3 @@ CMDB 360 - Visualize:
 
 [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-admin-workspace.md)
 
-## Related
-
-- [[exploring-telecom-discovery|Telecom Discovery]]

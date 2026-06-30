@@ -12,7 +12,7 @@ breadcrumb: [Create support requests using Care Team Mobile, Care Team Mobile, H
 
 # Create a support request in Care Team Mobile
 
-Use **Create a request** in [[care-team-mobile-landing|Care Team Mobile]] to create a support request directly from your mobile device.
+Use **Create a request** in Care Team Mobile to create a support request directly from your mobile device.
 
 ## Before you begin
 
@@ -47,10 +47,5 @@ A service request has been created and routed to the associated supporting servi
 
 ## What to do next
 
-[[cto-mobile-track-requests|Track a submitted request in Care Team Mobile]] or [[cto-cancel-submitted-request|Cancel a submitted request in Care Team Mobile]].
+[Track a submitted request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-track-requests.md) or [Cancel a submitted request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-cancel-submitted-request.md).
 
-## Related
-
-- [[cto-mobile-track-requests|Track a submitted request in Care Team Mobile]]
-- [[cto-cancel-submitted-request|Cancel a submitted request in Care Team Mobile]]
-- [[care-team-mobile-landing|Care Team Mobile]]

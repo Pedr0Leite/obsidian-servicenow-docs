@@ -14,7 +14,7 @@ breadcrumb: [Reference, Continual Improvement Management, IT Service Management]
 
 # Updates after application record creation from improvement initiatives
 
-UI changes display on the source improvement initiative or CIM task record and on the corresponding application records of some [[dex-workspace-application-tab|applications]] when you [[create-app-records|create application records from improvement initiatives]] or CIM tasks.
+UI changes display on the source improvement initiative or CIM task record and on the corresponding application records of some applications when you create application records from improvement initiatives or CIM tasks.
 
 -   Demand record
 
@@ -32,7 +32,7 @@ Demands related list is added that contains the demand \(DMND\) record.
 
 </td><td>
 
--   **[[cim-landing-page|Continual Improvement Management]]** is set in the **Type** field.
+-   **Continual Improvement Management** is set in the **Type** field.
 -   Improvement initiative \(CIM\) record is set in the **Improvement** field.
 
 
@@ -57,7 +57,7 @@ Demands related list is added that contains the demand \(DMND\) record.
     |In Progress|Implement|
     |Closed|Closed|
 
--   [[cf-coaching-landing|Coaching]] Opportunity
+-   Coaching Opportunity
 
     |CIM task|Coaching opportunity record|
     |--------|---------------------------|
@@ -78,9 +78,3 @@ Demands related list is added that contains the demand \(DMND\) record.
 
 **Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[create-app-records|Create application records from improvement initiatives]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[cf-coaching-landing|Coaching]]

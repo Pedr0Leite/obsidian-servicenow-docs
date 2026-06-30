@@ -14,7 +14,7 @@ breadcrumb: [Explore, Portfolio Planning in Strategic Planning Workspace, Strate
 
 # Better together with other ServiceNow applications
 
-The integration of [[alignment-planner-workspace-landing-page|Strategic Planning]] with other ServiceNow applications helps portfolio and product managers to optimize planning, collaboration, and release management for their products.
+The integration of Strategic Planning with other ServiceNow applications helps portfolio and product managers to optimize planning, collaboration, and release management for their products.
 
 ## Strategic Planning with AI Control Tower workspace
 
@@ -32,7 +32,7 @@ As part of planning when you associate planning items with the product enhanceme
 
 ## Strategic Planning with Collaborative Work Management
 
-With the integration of ServiceNow [[cwm-landing|Collaborative Work Management]] \(CWM\) with Strategic Planning, you can plan, roadmap, and associate goals to Boards in a portfolio plan. By adding CWM Boards to a lens configuration, you can access them in the Prioritization, Roadmap, and Goals pages of a portfolio plan as planning items.
+With the integration of ServiceNow Collaborative Work Management \(CWM\) with Strategic Planning, you can plan, roadmap, and associate goals to Boards in a portfolio plan. By adding CWM Boards to a lens configuration, you can access them in the Prioritization, Roadmap, and Goals pages of a portfolio plan as planning items.
 
 The lenses supported to configure the CWM Board as a planning item are Organization, Project Portfolio, and Strategic Investments.
 
@@ -44,7 +44,7 @@ Using the Business Capability lens, enterprise architects can plan, prioritize, 
 
 ## Strategic Planning with Digital Portfolio Management
 
-Integrate ServiceNow Digital [[c_PortfolioManagement|Portfolio Management]] \(DPM\) with Strategic Planning to provide DPM managers the access to roadmap planning. With this integration, you can:
+Integrate ServiceNow Digital Portfolio Management \(DPM\) with Strategic Planning to provide DPM managers the access to roadmap planning. With this integration, you can:
 
 -   Optimize portfolio performance by monitoring services and their performance levels in a comprehensive roadmap.
 -   Make informed budgetary decisions and deliver shared outcomes by prioritizing backlogs and managing roadmaps of business applications.
@@ -53,8 +53,3 @@ For more information, see [Exploring Digital Portfolio Management](https://raw.g
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[cwm-landing|Collaborative Work Management]]
-- [[c_PortfolioManagement|Portfolio Management]]

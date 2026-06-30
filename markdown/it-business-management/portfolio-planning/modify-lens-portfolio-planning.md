@@ -14,11 +14,11 @@ breadcrumb: [Configuring lens in Portfolio Planning, Configure, Portfolio Planni
 
 # Modify lens structure in Portfolio Planning
 
-Add or modify entities for your lens structure so that your planning managers can start creating their [[portfolio-plans-in-portfolio-planning-ppw|portfolio plans in Portfolio Planning]].
+Add or modify entities for your lens structure so that your planning managers can start creating their portfolio plans in Portfolio Planning.
 
 ## Before you begin
 
-Ensure that your application scope is set to **[[portfolio-planning-app-landing-page|Portfolio Planning]] Core**.
+Ensure that your application scope is set to **Portfolio Planning Core**.
 
 Role required: admin
 
@@ -68,7 +68,3 @@ For a lens, add entities to modify its existing structure. You can add up to six
 
 4.  Validate your lens configuration and activate it. See [Activate a lens in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/activate-lens-portfolio-planning.md).
 
-## Related
-
-- [[portfolio-plans-in-portfolio-planning-ppw|Portfolio plans in Portfolio Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

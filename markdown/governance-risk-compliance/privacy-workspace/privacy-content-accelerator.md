@@ -26,7 +26,7 @@ ServiceNow aims to provide software updates for new or updated major regulations
 
 ## Accessing the privacy content accelerator
 
-[[privacy-management|Privacy Management]] Content provides prebuilt authority documents, citations, control objectives, and risk statements. These are aligned with major privacy frameworks, such as GDPR, CCPA, LGPD, NIST Privacy Framework 1.0, Virginia Consumer Data Protection Act \(CDPA\), Colorado Privacy Act, and DPDPA.
+Privacy Management Content provides prebuilt authority documents, citations, control objectives, and risk statements. These are aligned with major privacy frameworks, such as GDPR, CCPA, LGPD, NIST Privacy Framework 1.0, Virginia Consumer Data Protection Act \(CDPA\), Colorado Privacy Act, and DPDPA.
 
 A dedicated icon in the Privacy Workspace provides navigation to the privacy content accelerator. Only users with the privacy manager or privacy admin roles can access this icon.
 
@@ -73,7 +73,7 @@ Each authority document and risk statement card shows one of the following statu
 
 When you activate or update an authority document or a privacy risk statement version, the installation wizard opens. The wizard displays the list of citations and control objectives associated with the authority document, and risk statements available for the selected version.
 
-**Important:** Control objectives and risk statements are AI-generated. Although [[ai-model-airc|AI models]] are exposed to major privacy regulations, they aren't trained on the risk and compliance methodologies that your teams may use to derive a complete, consistent set of control objectives and risk statements from a regulation. Review each record for accuracy, scope, and fit with your internal taxonomy before you map it to [[ropa-record|processing activities]] or assessment questions.
+**Important:** Control objectives and risk statements are AI-generated. Although AI models are exposed to major privacy regulations, they aren't trained on the risk and compliance methodologies that your teams may use to derive a complete, consistent set of control objectives and risk statements from a regulation. Review each record for accuracy, scope, and fit with your internal taxonomy before you map it to processing activities or assessment questions.
 
 <table id="table_rs_columns"><thead><tr><th>
 
@@ -105,7 +105,7 @@ Description of the citation, control objective, or risk statement.**Note:** All 
 
 </td><td>
 
-Current installation state of the record. After you activate or [[update-privacy-mgmt-content|update privacy content]], selected citations, control objectives, or risk statements transition from **Ready** to **Installed**.-   **Ready**: Records that haven't yet been installed.
+Current installation state of the record. After you activate or update privacy content, selected citations, control objectives, or risk statements transition from **Ready** to **Installed**.-   **Ready**: Records that haven't yet been installed.
 -   **Installed**: Records that are installed and active in your library.
 
 **Important:** When you update to a new version of privacy risk statements, previously installed risk statements also appear as **Ready** by default. While this doesn't mean that existing records are removed from the library, reinstalling them may overwrite certain fields.
@@ -168,9 +168,4 @@ When you activate a new risk statement version, all risk statements appear as **
 
     Before updating, review your library for risk statements changed since the last activation or update. If updating would overwrite a change you must retain, rename the record before updating. This creates a separate record of the reinstalled risk statement, preserving all changes in the old record.
 
-## Related
 
-- [[privacy-management|privacy management]]
-- [[ai-model-airc|AI models]]
-- [[ropa-record|Processing activities]]
-- [[update-privacy-mgmt-content|Update privacy content]]

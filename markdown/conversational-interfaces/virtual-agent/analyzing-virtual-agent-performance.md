@@ -14,8 +14,5 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 # Analyzing Virtual Agent performance
 
-Analyze the performance of [[virtual-agent-landing-page|Virtual Agent]] through preconfigured dashboards.
+Analyze the performance of Virtual Agent through preconfigured dashboards.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

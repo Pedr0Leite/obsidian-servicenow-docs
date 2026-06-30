@@ -14,7 +14,7 @@ breadcrumb: [Integration with Project Portfolio Management, Integrating Field Se
 
 # Customize the work order state transition map
 
-Users with the system administrator role can customize the work order state transition map, which maps [[work-order-states|work order states]] to project task states.
+Users with the system administrator role can customize the work order state transition map, which maps work order states to project task states.
 
 Updating the state of a work order also updates the state of the linked project task. The FieldServicesProjectTaskStateHandler script maps the work order states to the project task states. Users with the system administrator role can customize this state transition map as needed based on the following examples.
 
@@ -50,6 +50,3 @@ if\(taskJSON.change\_map &amp;&amp; taskJSON.change\_map.state\)\{
 
 **Parent Topic:**[Integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/project-management-integration.md)
 
-## Related
-
-- [[work-order-states|Work order states]]

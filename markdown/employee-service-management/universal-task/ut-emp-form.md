@@ -14,7 +14,7 @@ breadcrumb: [Universal Task reference, Universal Task, Employee Service Manageme
 
 # Employee form
 
-Use the employee form to create a new employee form record for [[universal-task-landing|Universal Task]]
+Use the employee form to create a new employee form record for Universal Task
 
 <table id="table_odc_jcv_rhb"><thead><tr><th>
 
@@ -48,7 +48,7 @@ Parent table
 
 Parent table available for the employee form. Parent table is a department-specific table associated to a universal task. For more information configuring a parent table, see [Configure Universal Task for your service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-ut-for-service.md).**Note:**
 
--   Only the tables that are configured for Universal Task with **[[employee-form-configuration|Collect Employee Input]]** task type can be selected.
+-   Only the tables that are configured for Universal Task with **Collect Employee Input** task type can be selected.
 -   You can select a parent table only if you have write access to it.
 
 </td></tr><tr><td>
@@ -70,7 +70,3 @@ State of the form. This field gets auto-populated.
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Task reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[employee-form-configuration|Collect employee input]]

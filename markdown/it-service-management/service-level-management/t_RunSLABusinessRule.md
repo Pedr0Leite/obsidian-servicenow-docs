@@ -30,7 +30,7 @@ Use synchronous processing to get the best user experience. Asynchronous process
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Properties** &gt; **SLA Engine**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **Properties** &gt; **SLA Engine**.
 
 2.  Select **Yes** for the **Execute the 2011 SLA Engine asynchronously** \(**com.snc.sla.engine.async**\) property.
 
@@ -39,6 +39,3 @@ Use synchronous processing to get the best user experience. Asynchronous process
 
 **Parent Topic:**[SLA calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/r_SLAAutomation.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

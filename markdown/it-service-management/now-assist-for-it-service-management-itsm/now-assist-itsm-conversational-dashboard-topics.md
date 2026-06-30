@@ -15,7 +15,7 @@ breadcrumb: [Track metrics, Use ITSM Virtual Agent analytics dashboard, Now Assi
 
 # ITSM Virtual Agent topics analytics
 
-As a business stakeholder or a service desk manager, you can analyze the pattern of interactions when users ask questions using the [[itsm-virtual-agent|ITSM Virtual Agent]].
+As a business stakeholder or a service desk manager, you can analyze the pattern of interactions when users ask questions using the ITSM Virtual Agent.
 
 By looking at what topics are most frequently discussed, you can analyze high-impact areas, identify emerging issues, and ensure that your ITSM Virtual Agent is equipped to handle the most common user needs.
 
@@ -56,7 +56,3 @@ Detailed breakdown of chat interactions organized by topic groups. Shows grouped
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

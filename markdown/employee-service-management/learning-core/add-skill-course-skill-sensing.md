@@ -18,9 +18,9 @@ Add skills to a course manually using the Large Language Model \(LLM\) skills re
 
 ## Before you begin
 
-Role required: [[exploring-learning-exp|Learning]] admin
+Role required: Learning admin
 
-Plugin requirement: [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin \(sn\_hr\_gen\_ai\), [[learning-core_overview|Learning core]] plugin \(sn\_learning\_core\), and [[skills-intelligence|Skills foundation]] plugin \(sn\_skills\_int\).
+Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\), Learning core plugin \(sn\_learning\_core\), and Skills foundation plugin \(sn\_skills\_int\).
 
 **Note:** Manual skill recommendation works for Internal courses, external courses, exams and assessments. The recommendations don't work for Paths and collections.
 
@@ -59,9 +59,3 @@ Plugin requirement: [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\
 
 **Parent Topic:**[Skill sensing for learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skill-sensing-for-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[learning-core_overview|Learning Core]]
-- [[skills-intelligence|Skills Foundation]]

@@ -14,7 +14,7 @@ breadcrumb: [Create stockroom for enterprise assets, Create and manage enterpris
 
 # Add a distribution channel to a stockroom in the Enterprise Asset Workspace
 
-Add a distribution channel to a stockroom so that you can link that stockroom with other geographically-related [[c_Stockrooms|stockrooms]]. By linking your stockrooms, you can efficiently source and transfer assets between those stockrooms. You can also assign a rank to each linked stockroom to specify the order of stockrooms that you can source and transfer assets between.
+Add a distribution channel to a stockroom so that you can link that stockroom with other geographically-related stockrooms. By linking your stockrooms, you can efficiently source and transfer assets between those stockrooms. You can also assign a rank to each linked stockroom to specify the order of stockrooms that you can source and transfer assets between.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
 2.  On the **All stockrooms** tab, select the stockroom that you want to add a distribution channel to.
 
@@ -45,8 +45,3 @@ Role required: sn\_eam.enterprise\_admin
 
 **Parent Topic:**[Create stockroom for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eamstockroom.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]

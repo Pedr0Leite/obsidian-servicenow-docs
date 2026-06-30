@@ -26,7 +26,7 @@ When you assign roles to groups rather than to individual users, members of the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Groups**.
 
 2.  Select the group to assign a role.
 
@@ -39,6 +39,3 @@ When you assign roles to groups rather than to individual users, members of the 
 
 **Parent Topic:**[Create a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

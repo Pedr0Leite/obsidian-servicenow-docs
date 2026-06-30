@@ -16,18 +16,18 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 As a procurement administrator, you can leverage or modify the existing workflows to process the purchase modification requests raised by shoppers.
 
-When you install the Playbooks for [[psm-overview|Sourcing and Procurement Operations]] application, you can automate the overall purchase revision flows.
+When you install the Playbooks for Sourcing and Procurement Operations application, you can automate the overall purchase revision flows.
 
 -   **[Purchase revision roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows-roles.md)**  
 As a procurement administrator, you can create workflows that blend automation, integration, and human review to process the purchase modification requests raised by shoppers.
 -   **[Edit a purchase line from a purchase requisition or order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-pur-req-line.md)**  
-You can edit and revise the quantity of a product or delivery location of a purchase line directly from a [[purchase-requisition|purchase requisition]] or order. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
+You can edit and revise the quantity of a product or delivery location of a purchase line directly from a purchase requisition or order. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
 -   **[Add a line to an existing purchase requisition or order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-line-pur-req-order.md)**  
 You can add a new purchase line to an existing purchase requisition or order.
 -   **[Edit a purchase requisition line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-request.md)**  
 You can edit and revise the quantity of the product, budget, or delivery location of a purchase requisition line in a purchase requisition based on your requirements.
 -   **[Edit a purchase order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-purchase-order.md)**  
-You can edit and revise the quantity of the product, budget, or delivery location of a [[purchase-order-table|purchase order]] line in a purchase order based on your requirements.
+You can edit and revise the quantity of the product, budget, or delivery location of a purchase order line in a purchase order based on your requirements.
 -   **[Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-pur-req-emp-central.md)**  
 You can edit and revise the quantity of a product or delivery location of a purchase line from Employee Center. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
 -   **[Editing purchase requisitions and orders with cost allocation adjustments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-purchase-cost-allocation.md)**  
@@ -42,8 +42,3 @@ As a shopper, you can cancel an entire purchase request, purchase order, or indi
 
 [Purchase revision roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows-roles.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

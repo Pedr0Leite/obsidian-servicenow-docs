@@ -16,7 +16,7 @@ breadcrumb: [HR PIWB template: Recommend estimated time to resolve, HR Predictiv
 
 Determine the Estimated Time to Resolve a Case \(ETTR\) for a case by analyzing similar closed cases in the past for better visibility and transparency.
 
-Machine [[exploring-learning-exp|learning]] predicts the estimated time to resolve a case \(ETTR\) based on attributes of a case such as its short description, category, priority, assignment group, and so on. For more information about configuring the machine learning regression solution definition for ETTR, see [HR PIWB template: Recommend estimated time to resolve](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-ettr.md)
+Machine learning predicts the estimated time to resolve a case \(ETTR\) based on attributes of a case such as its short description, category, priority, assignment group, and so on. For more information about configuring the machine learning regression solution definition for ETTR, see [HR PIWB template: Recommend estimated time to resolve](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-ettr.md)
 
 To make predictions, you can use the existing ETTR solution definition or change some of the default settings such as the fields, a filter, and the training frequency.
 
@@ -30,7 +30,7 @@ By analyzing the resolution time for similar closed cases in the past, the ETTR 
 
 On configuring Estimated HR Case Resolution Time \(ml\_sn\_sn\_hr\_core\_global\_hr\_case\_resolution\_time\) and training the predictive model, you can see the **HR Case Resolution Time** option. See the **Estimated time to resolve** value from:
 
--   [[employee-center-portal-overview|Employee portal]] view and Now Mobile view
+-   Employee portal view and Now Mobile view
 -   Agent workspace
 -   Platform view with a list of cases
 -   Case configuration view for admins
@@ -74,7 +74,3 @@ Regression solutions such as ETTR enable you to predict a point estimate and pre
 
 [Viewing ETTR predictions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-regression-solution-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-portal-overview|Employee portal]]

@@ -110,7 +110,7 @@ Impacted KPIs
 
 </td><td>
 
-Select the KPIs most likely impacted by the findings. Choosing the affected KPIs enables you to assess the business impact. You can view the KPI-related findings in the insights panel of the [[analyst-workbench-overview|Process Mining workspace]].
+Select the KPIs most likely impacted by the findings. Choosing the affected KPIs enables you to assess the business impact. You can view the KPI-related findings in the insights panel of the Process Mining workspace.
 
 </td></tr></tbody>
 </table>4.  Select **Configure**.
@@ -123,7 +123,7 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
     \[Omitted image "repeating-patterns-config.png"\] Alt text: Repeating patterns configuration
 
-    According to the example, records that meet the following conditions will be available as improvement opportunities in the [[summary-insights-dashboard|Summary and insights page]]:
+    According to the example, records that meet the following conditions will be available as improvement opportunities in the Summary and insights page:
 
     -   A sequence of steps needs to occur for a minimum of 2 times to identify as repeating pattern.
     -   Considers repeating patterns that have at least 3 steps.
@@ -133,7 +133,3 @@ Select the KPIs most likely impacted by the findings. Choosing the affected KPIs
 
 **Parent Topic:**[Setting Automated improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/automated-findings.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[summary-insights-dashboard|Summary and insights page]]

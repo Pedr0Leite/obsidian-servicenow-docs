@@ -18,7 +18,7 @@ Receiving slips are created automatically during the process of receiving assets
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -56,6 +56,3 @@ Add a receiving slip line to the receiving slip to identify the items from the p
 
 [Consumable assets]()
 
-## Related
-
-- [[c_Procurement|Procurement]]

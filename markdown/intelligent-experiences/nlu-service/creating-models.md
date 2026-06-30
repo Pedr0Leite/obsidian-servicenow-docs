@@ -14,9 +14,9 @@ breadcrumb: [Model management, Natural Language Understanding, Enable AI experie
 
 # Creating models
 
-Creating models is the first step to taking advantage of [[nlu-landing|Natural Language Understanding]] \(NLU\) in your instances. Create models for Virtual Agent and AI Search in the NLU Workbench.
+Creating models is the first step to taking advantage of Natural Language Understanding \(NLU\) in your instances. Create models for Virtual Agent and AI Search in the NLU Workbench.
 
-You create [[nlu-models|NLU models]] for consumption by the ServiceNow applications Virtual Agent or AI Search.
+You create NLU models for consumption by the ServiceNow applications Virtual Agent or AI Search.
 
 **Note:** For Issue Auto Resolution, a prebuilt model is provided for you to configure.
 
@@ -42,7 +42,3 @@ After creating a model, you have options to use that model across other models a
 -   [Export an NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/export-nlu-model.md): Export a model as a CSV file containing the associated utterances and intents. Share the model or use it to create one.
 -   [Add an NLU model to an update set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/add-model-update-set.md): Add a model and its artifacts to an update set to transfer the model across instances.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-models|NLU models]]

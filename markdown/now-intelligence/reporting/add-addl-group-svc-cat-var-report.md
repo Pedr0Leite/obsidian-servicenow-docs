@@ -14,7 +14,7 @@ breadcrumb: [Report on service catalog variables, Advanced Core UI reporting top
 
 # Add additional group by variables to a service catalog report
 
-You can create reports grouped by any field with an additional group by variable on a selected service catalog item. In addition, you can create filters on the same variable. For example, if a mobile phone item has a storage variable, you can [[t_CreateYourOwnReport|create a report]] that only shows those phones with 32 GB of storage.
+You can create reports grouped by any field with an additional group by variable on a selected service catalog item. In addition, you can create filters on the same variable. For example, if a mobile phone item has a storage variable, you can create a report that only shows those phones with 32 GB of storage.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ You can apply these steps to any report type as long as the report source has va
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
 3.  Select a report source that has variables associated with it.
 
-    There are two kinds of [[c_ReportSources|report sources]].
+    There are two kinds of report sources.
 
     |Report source|Description|
     |-------------|-----------|
@@ -64,8 +64,3 @@ You can apply these steps to any report type as long as the report source has va
 
 **Parent Topic:**[Report on service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/rep-service-catalog-variables.md)
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]

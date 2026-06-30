@@ -38,7 +38,7 @@ The following types of notifications are sent:
 
     \[Omitted image "credentials-expiry-email-notification.png"\] Alt text: Email notification on credential expiration
 
-    \[Omitted image "credentials-expiry-landing-page.png"\] Alt text: Open task on [[dex-workspace-dashboard-tab|landing page]] on credential expiration
+    \[Omitted image "credentials-expiry-landing-page.png"\] Alt text: Open task on landing page on credential expiration
 
 -   **Banner message**
 
@@ -57,6 +57,3 @@ When the credentials of your tool expire, the tool gets disconnected. You can se
 
 **Parent Topic:**[Update third-party tool credentials in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-third-party-tool-credentials-in-devops-change-velocity.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

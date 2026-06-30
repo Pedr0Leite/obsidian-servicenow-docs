@@ -110,7 +110,7 @@ SAP System Users\[samp\_sap\_system\_user\]
 
 </td><td>
 
-Number of SAP users for which [[c_SoftwareAssetMgmt|Software Asset Management]] plugin has detected user transaction-based license optimizations.
+Number of SAP users for which Software Asset Management plugin has detected user transaction-based license optimizations.
 
 </td></tr><tr><td>
 
@@ -163,6 +163,3 @@ Number of users by their SAP cloud use type in SAP S/4HANA Public Cloud.
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -53,7 +53,7 @@ The integration run contains the Source for which the integration profile and th
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -79,6 +79,3 @@ The integration run contains the Source for which the integration profile and th
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

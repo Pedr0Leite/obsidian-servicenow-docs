@@ -14,7 +14,7 @@ breadcrumb: [Configuring Pattern Designer and related applications, Discovery pa
 
 # Install Discovery and Service Mapping Patterns
 
-You can install the [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application \(sn\_itom\_pattern\) if you have the admin role.
+You can install the Discovery and Service Mapping Patterns application \(sn\_itom\_pattern\) if you have the admin role.
 
 ## Before you begin
 
@@ -48,7 +48,3 @@ Multiple tables are installed with Discovery and Service Mapping Patterns.
 
 **Parent Topic:**[Configuring Pattern Designer and related applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/configuring-pattern-designer-plugins.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

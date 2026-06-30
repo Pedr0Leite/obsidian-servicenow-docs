@@ -20,7 +20,7 @@ Manage the approvals that are assigned to you by using the Now Assist **Approval
 
 Ensure that you
 
--   Download the [[now-assisit-employee-exp|Now Assist for Employee Experience]] plugin.
+-   Download the Now Assist for Employee Experience plugin.
 -   Learn about AI agents and have read access to the record to auto-process approvals.
 -   Ensure you are on Zurich patch 4 or above.
 -   The agent supports only REQ and RITM.
@@ -37,7 +37,7 @@ Use the Now Assist Approval Assistance Agent to manage your assigned approvals. 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **My tasks**.
 
 2.  Select the request from the available list that you want to work on.
 
@@ -98,7 +98,3 @@ There might be AI agents installed with the Now Assist application that are not 
 
 [View summarization for approvals]()
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]
-- [[employee-center-landing-page|Employee Center]]

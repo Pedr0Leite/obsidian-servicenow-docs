@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[settings-page-console|Settings page]].
+1.  Navigate to the Settings page.
 
 2.  Open the **Syslog** tab.
 
@@ -41,6 +41,4 @@ Role required: admin
 
     **Important:** Be sure to adjust any network firewall rules to open the specified Syslog port and protocol. Otherwise, traffic from the Discovery Console for OT can't reach the receiver application.
 
-## Related
 
-- [[settings-page-console|Settings page]]

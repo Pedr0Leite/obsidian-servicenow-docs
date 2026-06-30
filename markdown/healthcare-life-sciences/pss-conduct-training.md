@@ -12,7 +12,7 @@ breadcrumb: [Manage enrollment requests, Patient Support Services, Healthcare an
 
 # Manage a training task in Workspace
 
-Manage the training support for a [[pss-app|Patient Support Services]] program with training tasks and checklists.
+Manage the training support for a Patient Support Services program with training tasks and checklists.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_patientservice.nurse\_educator
 
 ## About this task
 
-A training task is created based on the appointment booking workflow. For more information, see [[pss-appt-booking-feature|Appointment booking workflow in Patient Support Services]].
+A training task is created based on the appointment booking workflow. For more information, see [Appointment booking workflow in Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-appt-booking-feature.md).
 
 ## Procedure
 
@@ -52,10 +52,5 @@ A training task is created based on the appointment booking workflow. For more i
 
 ## Result
 
-The status of the task is reflected on the Fulfill services task page of the Program services activity in the playbook. For more information, see [[pss-playbook|Working on an enrollment case in Workspace]].
+The status of the task is reflected on the Fulfill services task page of the Program services activity in the playbook. For more information, see [Working on an enrollment case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-playbook.md).
 
-## Related
-
-- [[pss-appt-booking-feature|Appointment booking workflow in Patient Support Services]]
-- [[pss-playbook|Working on an enrollment case in Workspace]]
-- [[pss-app|Patient Support Services]]

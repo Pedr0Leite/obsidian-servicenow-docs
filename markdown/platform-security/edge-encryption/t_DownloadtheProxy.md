@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Download the Edge Encryption proxy server
 
-Download the Edge Encryption proxy server application from your instance, and then copy the file to each computer that is to run the [[edge-encryption|Edge Encryption]] proxy server.
+Download the Edge Encryption proxy server application from your instance, and then copy the file to each computer that is to run the Edge Encryption proxy server.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Installation &amp; Downloads** &gt; **Downloads**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Installation &amp; Downloads** &gt; **Downloads**.
 
 2.  To use the interactive installer, click **Download Interactive Installer**.
 
@@ -49,7 +49,3 @@ After downloading the Edge Encryption installer, [Install the Edge Encryption pr
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]

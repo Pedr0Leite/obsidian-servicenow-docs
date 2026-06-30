@@ -15,7 +15,7 @@ breadcrumb: [Using Supplier Collaboration Portal in APO, Use, Accounts Payable O
 
 # Working with tasks in Supplier Collaboration Portal header
 
-View and manage exception tasks and invoice inquiry requests assigned to your [[supplier|supplier]] account using the Tasks menu in the [[supplier-central|Supplier Collaboration Portal]] header.
+View and manage exception tasks and invoice inquiry requests assigned to your supplier account using the Tasks menu in the Supplier Collaboration Portal header.
 
 ## Before you begin
 
@@ -86,7 +86,7 @@ The invoice number of the supplier invoice.
 
 </td></tr><tr><td id="d143256e192">
 
-**[[purchase-order-table|Purchase order]]**
+**Purchase order**
 
 </td><td>
 
@@ -125,7 +125,7 @@ Lists the activity postings between Accounts Payable Specialist and supplier.
 Supplier uses attachments in the form of PDF, JPEG, PNG formats.
 
 </td></tr></tbody>
-</table>3.  On the **Invoice case** [[slo-task-form|task form]], you can view the following.
+</table>3.  On the **Invoice case** task form, you can view the following.
 
 <table id="choicetable_fcx_cxy_zxb"><thead><tr><th align="left" id="d143256e249">
 
@@ -218,9 +218,3 @@ Supplier uses attachments in the form of PDF, JPEG, PNG formats.
 
 **Parent Topic:**[Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-supplier-collaboration-portal.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purchase-order-table|Purchase order]]
-- [[slo-task-form|Task form]]

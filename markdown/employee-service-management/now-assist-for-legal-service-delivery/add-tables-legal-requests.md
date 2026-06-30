@@ -15,11 +15,11 @@ breadcrumb: [Configure agentic workflow, Configure, Now Assist for Legal Service
 
 # Add legal request tables for data indexing
 
-Add the legal request tables to be considered for data indexing for AI Search in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application. The legal request tables are indexed so that you can get relevant AI Search results for the legal records.
+Add the legal request tables to be considered for data indexing for AI Search in the Now Assist for Legal Service Delivery \(LSD\) application. The legal request tables are indexed so that you can get relevant AI Search results for the legal records.
 
 ## Before you begin
 
-Set the application scope to **[[legal-counsel-center-landing|Legal Counsel Center]]** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to **Legal Counsel Center** in the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -42,7 +42,3 @@ Include the legal request tables to define them as indexed sources. These added 
 
 The legal request tables are indexed for AI Search.
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

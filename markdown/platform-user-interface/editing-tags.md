@@ -16,7 +16,7 @@ You can edit tags that you created from the list and form views, the **My Tags**
 
 **Note:** Tag names are case-insensitive and must not include punctuation.
 
-**Parent Topic:**[[c_Tags|Tags]]
+**Parent Topic:**[Tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Tags.md)
 
 ## Edit tags from the list view
 
@@ -146,6 +146,4 @@ All other users can merge tags they created into tags that are visible to them.
 
 5.  Select **OK**.
 
-## Related
 
-- [[c_Tags|Tags]]

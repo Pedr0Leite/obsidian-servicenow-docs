@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server protected records and reserved characters
 
-Some [[mid-server-landing|MID Server]] records cannot be altered. Certain special characters are pre-defined in XML and cannot be used in passwords.
+Some MID Server records cannot be altered. Certain special characters are pre-defined in XML and cannot be used in passwords.
 
 <table id="table_dlr_pv4_nhb"><tbody><tr><td>
 
@@ -115,6 +115,3 @@ For example, to specify the password as `test&` in the MID Server config.xml fil
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

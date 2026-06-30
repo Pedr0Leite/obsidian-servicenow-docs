@@ -14,11 +14,11 @@ breadcrumb: [Create a cloud policy, Policies for Cloud Provisioning, Cloud Admin
 
 # Using expressions in Cloud Provisioning and Governance
 
-Expressions in policy actions can set or override values. Expressions in blueprints can access attributes of resources and can map values to request form fields. Expressions are available in resource blocks, blueprints, policies, and anywhere that [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] allows scripts.
+Expressions in policy actions can set or override values. Expressions in blueprints can access attributes of resources and can map values to request form fields. Expressions are available in resource blocks, blueprints, policies, and anywhere that Cloud Provisioning and Governance allows scripts.
 
 ## Using expressions
 
-Expressions can hold the values for information that is dynamically generated in the system, such as the values for the selections users make on the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. Expressions are available in resource blocks, blueprints, policies, and anywhere that Cloud Provisioning and Governance allows scripts.
+Expressions can hold the values for information that is dynamically generated in the system, such as the values for the selections users make on the Cloud User Portal. Expressions are available in resource blocks, blueprints, policies, and anywhere that Cloud Provisioning and Governance allows scripts.
 
 -   **Using expressions in resource blocks**
 
@@ -32,7 +32,7 @@ Expressions can hold the values for information that is dynamically generated in
 
     Blueprints can use expressions to map input parameters for each operation on a resource block. By default, the blueprint displays the same parameters and values that are specified in the resource block.
 
-    You can access [[blueprint-attributes|blueprint attributes]] with expressions. The expression in the **Mapping** column defines blueprint attributes for each operation in a step. For example, the **Location** attribute, which appears on the stack request form, is accessible through the `{$parameter.Location}` expression. The Location parameter with the `${parameter.Location}` value appears on the **Inputs** tab when you select a blueprint operation.
+    You can access blueprint attributes with expressions. The expression in the **Mapping** column defines blueprint attributes for each operation in a step. For example, the **Location** attribute, which appears on the stack request form, is accessible through the `{$parameter.Location}` expression. The Location parameter with the `${parameter.Location}` value appears on the **Inputs** tab when you select a blueprint operation.
 
     \[Omitted image "rb-operation-parameter.png"\] Alt text: The Location parameter and expression
 
@@ -268,9 +268,3 @@ To read the output attributes \(where `VM1.Provision` is the operation whose out
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[blueprint-attributes|Blueprint attributes]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a document, Managed Documents, Document Services, Manage con
 
 # Create or request a new document
 
-Once an administrator has set parameters for the [[c_ManagedDocuments|Managed Documents]] application, you can create or request new documents.
+Once an administrator has set parameters for the Managed Documents application, you can create or request new documents.
 
 ## Before you begin
 
@@ -179,7 +179,7 @@ User
 
 </td><td>
 
-A [[reference|reference]] to a user who is entitled to read but not contribute to a document.
+A reference to a user who is entitled to read but not contribute to a document.
 
 </td></tr><tr><td>
 
@@ -187,7 +187,7 @@ Type
 
 </td><td>
 
-A choice list describing how the user can interact with the document. Options are:-   Reader - The user can read the [[document-mgt-versions|document versions]].
+A choice list describing how the user can interact with the document. Options are:-   Reader - The user can read the document versions.
 -   Editor - The user can upload new versions.
 -   Owner - The user can edit the document.
 
@@ -229,8 +229,3 @@ You can specify approvers for a document record after you save it.
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[reference|Reference]]
-- [[document-mgt-versions|Document versions]]

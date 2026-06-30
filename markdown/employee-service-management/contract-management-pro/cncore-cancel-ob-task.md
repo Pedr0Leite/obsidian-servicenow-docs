@@ -14,7 +14,7 @@ breadcrumb: [Obligation Management, Use, Contract Management Pro, Legal and Cont
 
 # Cancel an obligation task
 
-Cancel an open obligation task in [[cncore-obligation-management|Obligation Management]] that is no longer required.
+Cancel an open obligation task in Obligation Management that is no longer required.
 
 ## About this task
 
@@ -42,7 +42,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d365247e79">
 
-**[[cncore-contract-workspace|Contract Workspace]]**
+**Contract Workspace**
 
 </td><td>
 
@@ -80,7 +80,3 @@ The state of the obligation task changes to Canceled.
 
 **Parent Topic:**[Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-management.md)
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]
-- [[cncore-contract-workspace|Contract Workspace]]

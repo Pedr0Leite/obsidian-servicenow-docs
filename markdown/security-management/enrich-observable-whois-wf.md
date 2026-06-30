@@ -12,7 +12,7 @@ breadcrumb: [WhoisXML API integration, Threat Intelligence integrations, Threat 
 
 # Enrich Observable WhoIs workflow
 
-The **Enrich Observable WhoIs** workflow performs enrichment on selected [[c_Observables|observables]]. If the observables are of a type recognized by the [[whois-landing-page|WhoisXML API Integration]], the observables are enriched.
+The **Enrich Observable WhoIs** workflow performs enrichment on selected observables. If the observables are of a type recognized by the WhoisXML API Integration, the observables are enriched.
 
 ## Before you begin
 
@@ -20,15 +20,15 @@ Role required: admin
 
 ## About this task
 
-This workflow is triggered by the [[enrich-observable-capability|Security Operations Integration- Enrich Observable capability]] when you perform enrichment on one or more observables, and the WhoIs implementation is selected.
+This workflow is triggered by the [Security Operations Integration- Enrich Observable capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrich-observable-capability.md) when you perform enrichment on one or more observables, and the WhoIs implementation is selected.
 
 \[Omitted image "enrich-observ-whois-wf.png"\] Alt text: Enrich Observable WhoIs workflow
 
-Activities specific to this integration are described here. For more information on other activities, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Activities specific to this integration are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 ## Observable Enrichment Lookup activity
 
-The **[[tisc-observable-enrichment|Observable Enrichment]] Lookup** workflow activity initiates the observable enrichment process.
+The **Observable Enrichment Lookup** workflow activity initiates the observable enrichment process.
 
 The **Observable Enrichment Lookup** activity can be used with any observables workflow to begin enrichment.
 
@@ -60,14 +60,5 @@ The output variables contain data that can be used in subsequent activities.
 |Variable|Description|
 |--------|-----------|
 |response\_data|Raw data returned by the implementation's API endpoint for the given domain.|
-|mapping\_id|The identifier for the enrichment [[mapping-logrhythm|mapping]]. For example, the [[tisc-whoisxml-integration|WhoIs integration]] returns data in two different format, IP and URL, with a mapping id for each.|
+|mapping\_id|The identifier for the enrichment mapping. For example, the WhoIs integration returns data in two different format, IP and URL, with a mapping id for each.|
 
-## Related
-
-- [[enrich-observable-capability|Security Operations Integration- Enrich Observable capability]]
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[c_Observables|Observables]]
-- [[whois-landing-page|WhoisXML API integration]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[mapping-logrhythm|Mapping]]
-- [[tisc-whoisxml-integration|Whois integration]]

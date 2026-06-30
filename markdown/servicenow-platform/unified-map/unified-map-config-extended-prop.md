@@ -28,7 +28,7 @@ In the base system, extended attributes are preconfigured for many common classe
 
 \[Omitted image "um-attributes-panel-annotated.png"\] Alt text: Attributes of the selected CI.
 
-These workspace-specific configuration settings affect all users of the CMDB [[cmdb-workspace-unified-map|Unified Map]] page. The settings don't affect other copies of the Unified Map template. Non-admin users can customize some aspects of their personal experience with Unified Map, but can't configure instance-wide workspace-specific settings.
+These workspace-specific configuration settings affect all users of the CMDB Unified Map page. The settings don't affect other copies of the Unified Map template. Non-admin users can customize some aspects of their personal experience with Unified Map, but can't configure instance-wide workspace-specific settings.
 
 ## Procedure
 
@@ -120,6 +120,3 @@ If selected, use the following process to determine which attributes to display.
 
 [View the attributes of a CI or a relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-show-attributes.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

@@ -12,11 +12,11 @@ breadcrumb: [Use cases, Using CPQ, Configure, price, quote apps, Use, Sales Cust
 
 # Use case: Populate display names and quote lines in Configuration Field Data Set objects
 
-Learn how to set up custom objects and Apex triggers in SFDC to populate the display names of CPQ [[fields|fields]].
+Learn how to set up custom objects and Apex triggers in SFDC to populate the display names of CPQ fields.
 
-As part of the CPQ Managed Package, the functionality of the Configuration Field Data Set object in SFDC is to return the Configuration ID of the configuration, every field variable name used by the blueprint, the value of that field, and the label of that value after every save from [[understand-the-commerce-logic-engine|the CPQ configurator]]:
+As part of the CPQ Managed Package, the functionality of the Configuration Field Data Set object in SFDC is to return the Configuration ID of the configuration, every field variable name used by the blueprint, the value of that field, and the label of that value after every save from the CPQ configurator:
 
-\[Omitted image "cpq-configuration-field-data-[[cpq-sets|sets]]-1.png"\] Alt text: Field Data list
+\[Omitted image "cpq-configuration-field-data-sets-1.png"\] Alt text: Field Data list
 
 However, there might be some extra necessities about the configuration in CPQ outside of these fields created by the Managed Package that an organization needs for downstream processes. For instance, we might want to populate the display names of the CPQ fields, or easily jump to the Quote Line of the associated Configuration Field Data objects for an easy connection to the BOM.
 
@@ -137,7 +137,7 @@ Bulk Import from exporting all CPQ fields
 Pros:
 
  -   Good for a large number of fields
--   Global fields used across [[blueprints|Blueprints]] will be labeled consistently in SFDC
+-   Global fields used across Blueprints will be labeled consistently in SFDC
 
  Cons:
 
@@ -226,12 +226,5 @@ Now, every time a Quote is saved in SFDC, the Quote Line of the Parent Configura
 
 **Note:** Configuration Field Data Sets are created immediately after you click **Save** in the CPQ Configurator. When you enter the Quote Line Editor, the Quote Line field will not be populated because it hasnʼt been created or updated yet. Only once you save from the Editor will the quote line appear in the field.
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[use-cases|Use cases]]
-- [[fields|Fields]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[cpq-sets|Sets]]
-- [[blueprints|Blueprints]]

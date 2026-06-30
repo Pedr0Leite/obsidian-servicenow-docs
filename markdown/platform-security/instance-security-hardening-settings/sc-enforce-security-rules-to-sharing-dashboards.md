@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce security rules to sharing dashboards
 
-Use the **glide.cms.dashboards.sharing\_with\_secure\_search** property to control whether [[users|users]] can share dashboards.
+Use the **glide.cms.dashboards.sharing\_with\_secure\_search** property to control whether users can share dashboards.
 
 When the **glide.cms.dashboards.sharing\_with\_secure\_search** system property is not set to **true**, a user can share a dashboard to groups and roles that they do not personally have access to. This property enforces ACLs on searching the User \[sys\_user\], Roles \[sys\_user\_role\], and Groups \[sys\_user\_group\] tables when sharing a dashboard.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -123,8 +123,3 @@ This property applies security rules to the list of users, user groups, and role
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -24,18 +24,18 @@ Role required: sn\_imt\_core.admin
 
 ## About this task
 
-[[health-safety-overview|Health and safety]] user records are automatically created for users \[sys\_user\] with [[activity-lxp|activity]] or an assigned role in any of the following [[safe-workplace|Safe Workplace]] suite and [[emergency-response-management|Emergency Response Management]] applications.
+Health and safety user records are automatically created for users \[sys\_user\] with activity or an assigned role in any of the following Safe Workplace suite and Emergency Response Management applications.
 
--   [[contact-tracing|Contact Tracing]]
--   [[emergency-outreach|Emergency Outreach]]
--   [[employee-health-screening|Employee Health Screening]]
--   [[employee-readiness-core|Employee Readiness Core]]
--   [[employee-travel-safety|Employee Travel Safety]]
--   [[health-safety-testing|Health and Safety Testing]]
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]]
--   [[vaccination-status|Vaccination Status]]
--   [[ppe-inventory-management|Workplace PPE Inventory Management]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Contact Tracing
+-   Emergency Outreach
+-   Employee Health Screening
+-   Employee Readiness Core
+-   Employee Travel Safety
+-   Health and Safety Testing
+-   Safe Workplace Dashboard
+-   Vaccination Status
+-   Workplace PPE Inventory Management
+-   Workplace Core
 
 Health and safety user records are also created for visitors who are invited through the Employee Readiness Core app.
 
@@ -43,7 +43,7 @@ Some users might not have activity or assigned roles in the apps, so health and 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Health and Safety Users**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Health and Safety Users**.
 
 2.  Click **New**.
 
@@ -75,20 +75,3 @@ You can also look up the requirements status for individual users or visitors by
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[activity-lxp|Activity]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[vaccination-status|Vaccination Status]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

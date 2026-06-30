@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **My Request Filters**.
+1.  Navigate to **All** &gt; **Now Mobile App** &gt; **My Request Filters**.
 
 2.  In the My Request Filters \[request\_filter\] table, create a filter to display records from a specific table:
 
@@ -47,6 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

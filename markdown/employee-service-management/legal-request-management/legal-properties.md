@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Request Management, Legal Service Delivery, Legal 
 
 # Legal Service Delivery properties
 
-There are several properties that you can use to configure integrations for [[legal-management-overview|Legal Service Delivery]] apps.
+There are several properties that you can use to configure integrations for Legal Service Delivery apps.
 
 These properties are available for Legal Service Delivery.
 
@@ -106,7 +106,7 @@ Your custom schema structure, which takes precedence over the schema in the Inte
 -   Default value: \{\}
 
 </td></tr></tbody>
-</table>The property is available for [[legal-request-management-landing-page|Legal Request Management]].
+</table>The property is available for Legal Request Management.
 
 **Note:** To configure the property, navigate to **All** &gt; **Legal Administration** &gt; **Legal Request Management** &gt; **Properties**.
 
@@ -132,7 +132,3 @@ The property allows the closure of a legal request even if it has open matters a
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]

@@ -16,7 +16,7 @@ breadcrumb: [JSON APIs, Encryption rule objects and APIs, Define a custom encryp
 
 A global object that provides methods to iterate over the JSON content.
 
-You can access a JsonNode object by calling [getAsJsonContent\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_requestAPI.md) on a [[c_requestAPI|request]] object.
+You can access a JsonNode object by calling [getAsJsonContent\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_requestAPI.md) on a request object.
 
 You access JSON content from a [POST or URL parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/param-apis.md) by calling `request.postParms.<parameter name>.getAsJsonContent()` or `request.urlParms.<parameter name>.getAsJsonContent()`.
 
@@ -24,7 +24,7 @@ You access JSON content from a [POST or URL parameter](https://raw.githubusercon
 
 ## JsonNode - getIterator\(String xPath\)
 
-Returns a [[c_JsonNodeIteratorAPI|JsonNodeIterator]] object for the JSON content.
+Returns a JsonNodeIterator object for the JSON content.
 
 This method can only be used on the root node, but can be used to traverse deep into the JSON object. Subsequent traversals must use the iterator\(\) method.
 
@@ -113,7 +113,3 @@ Calling this function on a JSON node tells the proxy that the value is an [Encod
 |----|-----------|
 |void| |
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_JsonNodeIteratorAPI|JsonNodeIterator]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure KBA, Knowledge-based authentication, Configure authentica
 
 # AI voice agent service mapping with KBA
 
-Specify the questions used for caller identification and [[c_Authentication|authentication]] with a specific AI voice agent service.
+Specify the questions used for caller identification and authentication with a specific AI voice agent service.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Service mappings are created automatically when KBA questions are selected in AI
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[authentication-factors|Authentication Factors]]** &gt; **Knowledge Based Factor** &gt; **Question Service Mappings**.
+1.  Navigate to **All** &gt; **Authentication Factors** &gt; **Knowledge Based Factor** &gt; **Question Service Mappings**.
 
 2.  Select **New** on the Knowledge Based Question Service Mappings page.
 
@@ -102,7 +102,7 @@ Active
 
 </td><td>
 
-Select to set the [[sc-configuration|configuration]] active.
+Select to set the configuration active.
 
 </td></tr></tbody>
 </table>    \[Omitted image "configure-kba-question-answer-service.png"\] Alt text: Knowledge Based Question Service Mapping
@@ -116,8 +116,3 @@ You're redirected to the Knowledge Based Question Service Mappings list view. Ve
 
 \[Omitted image "configure-kba-question-answer-service-result.png"\] Alt text: Knowledge Based Question Service Mapping - Result
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[authentication-factors|Authentication factors]]
-- [[sc-configuration|Configuration]]

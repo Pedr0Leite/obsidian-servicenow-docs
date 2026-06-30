@@ -23,7 +23,7 @@ Edit a planned monetary benefit plan to revise the benefits, dates, offset, and 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** and select portfolio plan.
 
 2.  From the Prioritization or Roadmap tab, select the planning item for which you want to edit a monetary benefit plan.
 
@@ -63,7 +63,3 @@ Procedure
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

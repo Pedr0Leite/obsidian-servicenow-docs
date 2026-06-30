@@ -14,7 +14,7 @@ breadcrumb: [Create and configure profile, Microsoft Defender for Endpoint integ
 
 # Perform a manual observable enrichment in Microsoft Defender for Endpoint
 
-Select individual or multiple [[c_Observables|observables]] and perform a manual [[tisc-observable-enrichment|observable enrichment]] to enrich observables with additional information from Microsoft Defender for Endpoint.
+Select individual or multiple observables and perform a manual observable enrichment to enrich observables with additional information from Microsoft Defender for Endpoint.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-The [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]] enables observable enrichment for all the observable types that are mapped in the Observable-Indicator [[mapping-logrhythm|Mapping]] module.
+The Microsoft Defender for Endpoint integration enables observable enrichment for all the observable types that are mapped in the Observable-Indicator Mapping module.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ The [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoin
 
 5.  Select the observables.
 
-6.  From the Actions list, click **[[tisc-run-observable-enrichment|Run Observable Enrichment]]**.
+6.  From the Actions list, click **Run Observable Enrichment**.
 
 7.  Select a Microsoft Defender for Endpoint **source** and move it to the **Selected** column to specify which implementation you want to use to enrich the selected observables.
 
@@ -60,10 +60,4 @@ The [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoin
     |Expiration Date|Expiration time for the indicator.|
     |Retrieval Date|Date when the enrichment record is created.|
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[microsoft-defender-for-endpoint-integration|Microsoft Defender for Endpoint integration]]
-- [[mapping-logrhythm|Mapping]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]

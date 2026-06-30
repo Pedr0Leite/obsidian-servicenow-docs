@@ -1,0 +1,47 @@
+---
+title: Delete a report
+description: You can delete a report in Security Incident Response which is in published or draft state.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/security-incident-response/delete-report-sir.html
+release: australia
+product: Security Incident Response
+classification: security-incident-response
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Reports in Security Incident Response, Working with Security Incident Records, Use, Security Incident Response Workspace, Security Incident Response, Enterprise security case management applications, Security Operations]
+---
+
+# Delete a report
+
+You can delete a report in [[sir-landing-page|Security Incident Response]] which is in published or draft state.
+
+## Before you begin
+
+Role required: sn\_si.analyst
+
+## Procedure
+
+1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+
+2.  Open a security incident.
+
+3.  Select **Reports**.
+
+    The **Report** page displays a list of all the reports created for the selected incident.
+
+4.  Open the report to delete.
+
+5.  Select **Delete**.
+
+    A confirmation messages appears.
+
+6.  Select **Delete** to delete the report.
+
+
+**Parent Topic:**[Reports in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/report-templates-sir.md)
+
+## Related
+
+- [[sir-landing-page|Security Incident Response]]
+- [[sir-workspace-landing-page|Security Incident Response Workspace]]

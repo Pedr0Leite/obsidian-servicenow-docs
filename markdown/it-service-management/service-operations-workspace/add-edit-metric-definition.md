@@ -27,7 +27,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
     These following existing metric definition tables are displayed:
 
     -   Asset usage
-    -   Installed [[dex-workspace-application-tab|Applications]]
+    -   Installed Applications
     -   Logged-in users
     -   Running processes
     -   Services
@@ -40,7 +40,7 @@ Role required: sn\_cimaf.sn\_cimaf\_admin
 
     1.  Select **New**.
 
-    2.  On the [[dexscr-dex-metric-def-form|Metric definition form]], fill in the fields.
+    2.  On the Metric definition form, fill in the fields.
 
         |Field|Description|
         |-----|-----------|
@@ -269,7 +269,3 @@ After the new metric definition is created, perform the UI configuration for dis
 
 **Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dexscr-dex-metric-def-form|Metric definition form]]

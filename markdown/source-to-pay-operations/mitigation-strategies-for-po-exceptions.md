@@ -12,7 +12,7 @@ breadcrumb: [Using agentic workflows in Now Assist for Purchase Order Management
 
 # Identify and execute mitigation strategies for purchase order exceptions
 
-Leverage the define PO exception mitigation strategy workflow to resolve [[purchase-order-table|purchase order]] exceptions and avoid the risk of critical part shortages. This agentic workflow helps buyers identify and execute the best mitigation strategies by analyzing delivery gaps and proposing order changes with alternative suppliers.
+Leverage the define PO exception mitigation strategy workflow to resolve purchase order exceptions and avoid the risk of critical part shortages. This agentic workflow helps buyers identify and execute the best mitigation strategies by analyzing delivery gaps and proposing order changes with alternative suppliers.
 
 ## Define PO exception mitigation strategy agentic workflow overview
 
@@ -31,31 +31,23 @@ The following table lists the agents that are used in the Define PO exception mi
 
 |AI agent|AI agent role|
 |--------|-------------|
-|Purchase order plan creation AI agent|Analyzes purchase order exceptions and generates actionable mitigation strategies by calculating delivery gap schedules. It identifies alternative [[purchase-order-lines|purchase order lines]] from different suppliers, and creates optimized change requests that combine [[supplier|supplier]]-suggested modifications with buyer-approved mitigation plans.|
+|Purchase order plan creation AI agent|Analyzes purchase order exceptions and generates actionable mitigation strategies by calculating delivery gap schedules. It identifies alternative purchase order lines from different suppliers, and creates optimized change requests that combine supplier-suggested modifications with buyer-approved mitigation plans.|
 
 ## Tools mapped to the Purchase order plan creation AI agent
 
 |Tool type|Execution mode|Name|Description|
 |---------|--------------|----|-----------|
 |Scripts|Autonomous|Create Change Requests|Creates Purchase Request \(PR\) records of type 'revision' to implement approved mitigation changes.|
-|Scripts|Autonomous|Fetch Exception and Gap Schedule Details|Retrieves the [[purchase-order-exception-table|purchase order exception]] details and delivery gap schedule.|
+|Scripts|Autonomous|Fetch Exception and Gap Schedule Details|Retrieves the purchase order exception details and delivery gap schedule.|
 |Scripts|Autonomous|Get Editable Purchase Orders|Searches for alternative purchase order lines that can be modified to resolve delivery gaps.|
 
--   **[[identify-mitigation-strategies-for-exceptions|Identify mitigation strategies for purchase order exceptions]]**  
+-   **[Identify mitigation strategies for purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/identify-mitigation-strategies-for-exceptions.md)**  
 The Define PO exception mitigation strategy workflow assesses the material delivery gap caused by an exception. It then identifies alternative suppliers with open lines for the affected product model and proposes order adjustments to mitigate the shortfall.
 
-**Parent Topic:**[[using-agentic-wf-na-for-pom|Using agentic workflows in Now Assist for Purchase Order Management \(POM\)]]
+**Parent Topic:**[Using agentic workflows in Now Assist for Purchase Order Management \(POM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/using-agentic-wf-na-for-pom.md)
 
 **Related topics**  
 
 
 [Automated purchase order exception creation from emails]()
 
-## Related
-
-- [[identify-mitigation-strategies-for-exceptions|Identify mitigation strategies for purchase order exceptions]]
-- [[using-agentic-wf-na-for-pom|Using agentic workflows in Now Assist for Purchase Order Management \(POM\)]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[purchase-order-exception-table|Purchase Order Exception]]

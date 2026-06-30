@@ -14,7 +14,7 @@ breadcrumb: [View solution training progress, Creating and training solutions, P
 
 # Review classification solution statistics
 
-The Solution Statistics dashboard in [[predictive-intelligence-landing|Predictive Intelligence]] has been deprecated in the Xanadu release. It provided precision and coverage statistics for each class in a classification solution.
+The Solution Statistics dashboard in Predictive Intelligence has been deprecated in the Xanadu release. It provided precision and coverage statistics for each class in a classification solution.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ The Solution Statistics dashboard is different from the Solution Statistics tab 
 
 If you're satisfied with the solution you've reviewed, the latest version is already active and ready to use. If you're not satisfied, you can choose a different version of the solution and make it active. You can also tune and retune the solution by configuring the class precision and coverage to use acceptable values.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

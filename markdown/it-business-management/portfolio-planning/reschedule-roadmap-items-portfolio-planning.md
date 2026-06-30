@@ -23,7 +23,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_ngc_1zz_5wb"><thead><tr><th align="left" id="d84982e90">
 
@@ -61,6 +61,3 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 **Parent Topic:**[Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

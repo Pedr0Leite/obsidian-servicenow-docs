@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Exchange]
 
 # Components installed with Service Exchange for Providers
 
-Several types of components are installed when you activate the [[service-bridge-providers-landing-page|Service Exchange for Providers]] application, including tables, user roles, and business rules.
+Several types of components are installed when you activate the Service Exchange for Providers application, including tables, user roles, and business rules.
 
 The Application Files \[sys\_metadata\] table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -36,7 +36,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]] requester \[sn\_sb.requestor\]
+Service Exchange requester \[sn\_sb.requestor\]
 
 </td><td>
 
@@ -44,7 +44,7 @@ Contains roles
 
 **Note:** Any member of the customer's staff who needs access to the provider's remote record producers requires this role.
 
--   Provides access to the remote record producers and [[service-bridge-v2-provider-tasks|provider tasks]].
+-   Provides access to the remote record producers and provider tasks.
 
 </td><td>
 
@@ -437,7 +437,7 @@ sn\_sb\_pro\_remote\_task\_def
 
 </td><td>
 
-Disconnects all associated [[service-bridge-v2-remote-task-overview|remote tasks]] when a remote task definition is deleted.
+Disconnects all associated remote tasks when a remote task definition is deleted.
 
 </td></tr><tr><td>
 
@@ -1443,7 +1443,7 @@ The following flow actions are installed with the Service Exchange for Providers
 
 <table id="table_ybb_wzp_gzb"><thead><tr><th>
 
-[[service-bridge-v2-flow-action|Flow action]]
+Flow action
 
 </th><th>
 
@@ -1531,11 +1531,3 @@ Attempts to fix Remote Process Sync errors on Consumer Connection.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-provider-tasks|Provider tasks]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]
-- [[service-bridge-v2-flow-action|Flow action]]

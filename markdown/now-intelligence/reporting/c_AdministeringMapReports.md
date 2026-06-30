@@ -14,12 +14,12 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Map report administration
 
-Learn how about the different objects that are used in [[c_MapReport|map reports]], and how to create and modify them.
+Learn how about the different objects that are used in map reports, and how to create and modify them.
 
 -   **[Map report objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_MapReportObjects.md)**  
 Map objects define the different levels that users can drill down into on a map report and the data displayed on these levels. Admins can create and manage these objects.
 -   **[Automatically generate a map source hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_AutoGenerateMapSourceHierarchy.md)**  
-A map source hierarchy is a data source that is used to [[t_CreateAMap|create a map]] report. Except for the top-level wrapper, each map source level in the hierarchy defines the data for one map drill level.
+A map source hierarchy is a data source that is used to create a map report. Except for the top-level wrapper, each map source level in the hierarchy defines the data for one map drill level.
 -   **[Customize a map source level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CustomizeAMapSourceLevel.md)**  
 A map source configures data to be displayed in a map report. Customize existing map sources according to your needs.
 -   **[Create a key-value pair mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_CreateKeyValuePairMapping.md)**  
@@ -29,7 +29,3 @@ Create a map that can be used in a map hierarchy.
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[c_MapReport|Map reports]]
-- [[t_CreateAMap|Create a map]]

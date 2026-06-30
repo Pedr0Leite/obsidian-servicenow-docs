@@ -12,14 +12,14 @@ breadcrumb: [Using case types and service definitions in FSO, Developer resource
 
 # Extending FSO Case Types
 
-You can extend from existing case types that are provided in [[fso-overview|Financial Services]] Operations \(FSO\) applications, enabling you to take advantage of prebuilt roles, business rules, and other business logic.
+You can extend from existing case types that are provided in Financial Services Operations \(FSO\) applications, enabling you to take advantage of prebuilt roles, business rules, and other business logic.
 
-All FSO applications have a base case type table. Use the base case type table when adding a new case type for that application. For example, if you need a new case type in [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]], extend the Treasury Base Case.
+All FSO applications have a base case type table. Use the base case type table when adding a new case type for that application. For example, if you need a new case type in Financial Services Treasury Operations, extend the Treasury Base Case.
 
 For more information on the application case types that are available, see the following:
 
--   [[fso-banking-overview|Financial Services Operations banking applications]]
--   [[fso-insurance-overview|Using insurance applications]]
+-   [Financial Services Operations banking applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-banking-overview.md)
+-   [Using insurance applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-insurance-overview.md)
 
 When implementing FSO, start with mapping your use cases to the FSO domain-level case types. This enables you to extend the prebuilt FSO applications and use the provided roles and business logic.
 
@@ -44,12 +44,5 @@ There are several advantages to extending an FSO case type:
 
 For more information, see [Best Practices to Implement Case Types](https://learning.servicenow.com/nowcreate/en/pages/assets?id=nc_asset&asset_id=06f62529970b0a54496bb5bfe153af00&nc_source=copy_asset_link).
 
-**Parent Topic:**[[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
+**Parent Topic:**[Using case types and service definitions in FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-work_case_types.md)
 
-## Related
-
-- [[fso-banking-overview|Financial Services Operations banking applications]]
-- [[fso-insurance-overview|Using insurance applications]]
-- [[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
-- [[fso-overview|Financial Services]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]

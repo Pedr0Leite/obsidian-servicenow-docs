@@ -14,11 +14,11 @@ breadcrumb: [Migration of Related list declarative actions from ITSM Agent Works
 
 # Perform post-migration tasks for related list declarative form actions
 
-Verify that the related list declarative form actions in Service Operations Workspace \(SOW\) are consistent with the related list declarative form actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the [[migrated-records|migrated]] related list declarative form actions [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the related list declarative form actions in Service Operations Workspace \(SOW\) are consistent with the related list declarative form actions in ITSM Agent Workspace \(ITSM AW\) and they’re ready for use in SOW. You can update the migrated related list declarative form actions settings in SOW based on your requirements.
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Relative list declarative form actions** option for ITSM Agent Workspace features. For example, the **Relative list declarative form actions** option for [[c_IncidentManagement|Incident Management]]. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Relative list declarative form actions** option for ITSM Agent Workspace features. For example, the **Relative list declarative form actions** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -61,8 +61,3 @@ At the end of migration, a confirmation message indicates whether the migration 
 
 **Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/related-list-declarative-actions-aw-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]

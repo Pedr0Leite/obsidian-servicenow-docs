@@ -22,7 +22,7 @@ When an employee submits a legal request, it is automatically assigned to a grou
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -54,6 +54,3 @@ The assigned user can start [working on the legal request](https://raw.githubuse
 
 **Parent Topic:**[Managing legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/managing-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

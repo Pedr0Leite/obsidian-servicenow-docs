@@ -14,9 +14,9 @@ breadcrumb: [Working with process inefficiency highlights using Now Assist, Conf
 
 # Configuring improvement opportunities in Process Mining
 
-[[improvement-opportunities|Configure improvement opportunities]] for a process table so that any project that is based on the process table has improvement opportunities configured. You must configure improvement opportunities for your project.
+Configure improvement opportunities for a process table so that any project that is based on the process table has improvement opportunities configured. You must configure improvement opportunities for your project.
 
-For the detailed procedure of [[configuring-finding-definitions|configuring improvement opportunities]] for a process table, see [Configure improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improvement-opportunities.md).
+For the detailed procedure of configuring improvement opportunities for a process table, see [Configure improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improvement-opportunities.md).
 
 For the detailed procedure of configuring improvement opportunities for a project, see [Set improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/improve-opportunities.md).
 
@@ -26,7 +26,3 @@ There are system properties that determine how process inefficiency work. For in
 
 **Parent Topic:**[Working with process inefficiency highlights using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/highlights.md)
 
-## Related
-
-- [[improvement-opportunities|Configure improvement opportunities]]
-- [[configuring-finding-definitions|Configuring improvement opportunities]]

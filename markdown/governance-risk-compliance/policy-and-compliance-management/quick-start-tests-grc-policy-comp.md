@@ -14,7 +14,7 @@ breadcrumb: [Download, Implement, Policy and Compliance Management, Governance, 
 
 # Quick start tests for Policy and Compliance Management
 
-Validate that GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] still works after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that GRC: Policy and Compliance Management still works after you make any configuration change, such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 GRC: Policy and Compliance Management quick start tests require activating the Policy and Compliance Management plugin \(com.sn\_compliance\) and loading the demo data.
 
@@ -31,6 +31,3 @@ GRC: Policy and Compliance Management quick start tests require activating the P
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

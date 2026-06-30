@@ -14,9 +14,9 @@ breadcrumb: [Setting up the manual testing process, Test Management 1.0, Test Ma
 
 # Guided test execution
 
-Notify testers about the [[c_TestCases|test cases]] that are assigned to them through guided test execution by using the Assessments application to notify testers about assigned test cases.
+Notify testers about the test cases that are assigned to them through guided test execution by using the Assessments application to notify testers about assigned test cases.
 
-Any user can perform [[c_Tests|tests]] using the guided testing feature. The tester \(tm\_tester\) role is not required. An assessment metric category is created for each tester in a test plan.
+Any user can perform tests using the guided testing feature. The tester \(tm\_tester\) role is not required. An assessment metric category is created for each tester in a test plan.
 
 The test manager assigns testers to test cases from the Test Plan form and initiates the testing by assigning an end date for the testing. Testers can navigate to **Self-Service** &gt; **My Tests** or **Self-Service** &gt; **My Assessments** to view and work on the test cases assigned to them. For more information, see [Initiate guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_InitiateGuidedTestExecution.md).
 
@@ -25,14 +25,9 @@ Any changes to the test plan, test case, or tests are automatically updated in t
 The test manager can cancel the guided test execution at any time directly from the Test Plan form. For more information, see [Cancel guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CancelGuidedTestExecution.md).
 
 -   **[Initiate guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_InitiateGuidedTestExecution.md)**  
-Create assessments for the assigned testers of each test case in a test plan by notifying them to start testing. The test manager can [[t_InitiateGuidedTestExecution|initiate guided test execution]] from the Test Plan form.
+Create assessments for the assigned testers of each test case in a test plan by notifying them to start testing. The test manager can initiate guided test execution from the Test Plan form.
 -   **[Cancel guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CancelGuidedTestExecution.md)**  
 Cancel the guided testing process after it has started so that you can restart it when appropriate.
 
 **Parent Topic:**[Setting up the manual testing process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestManager.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]
-- [[t_InitiateGuidedTestExecution|Initiate guided test execution]]

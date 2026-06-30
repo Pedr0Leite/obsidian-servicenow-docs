@@ -28,26 +28,19 @@ Partner programs define the roles, responsibilities, and benefits for different 
 
 2.  Select **New** to open the partner program record.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
-    To learn more about the fields on the Partner program table and their descriptions, see [[partner-program-table-fields|Partner program table fields]].
+    To learn more about the fields on the Partner program table and their descriptions, see [Partner program table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-program-table-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
+**Parent Topic:**[Data model for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[partner-program-table-fields|Partner program table fields]]
-- [[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

@@ -12,7 +12,7 @@ breadcrumb: [Create or edit a claim, Claims for reporting, Use, Operational Sust
 
 # Claims for reporting fields
 
-Learn about the fields of the **[[claims-for-reporting|Claims for reporting]]** form. Use this form to create a new claim.
+Learn about the fields of the **Claims for reporting** form. Use this form to create a new claim.
 
 <table id="table_vkv_rz2_2gc"><thead><tr><th>
 
@@ -157,9 +157,5 @@ Additional comments
 Any extra remarks or observations related to the claim.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-or-edit-a-claim|Create or edit a claim]]
+</table>**Parent Topic:**[Create or edit a claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-or-edit-a-claim.md)
 
-## Related
-
-- [[create-or-edit-a-claim|Create or edit a claim]]
-- [[claims-for-reporting|Claims for reporting]]

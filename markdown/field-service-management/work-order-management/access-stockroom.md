@@ -14,7 +14,7 @@ breadcrumb: [Requesting and receiving required parts, Contractor Portal, Complet
 
 # Access stockroom information on the Field Service Contractor Portal
 
-As a manager or agent of contractor companies, you can access and view the availability of assets in your stockrooms using the Field Service [[field-service-contractor-portal|Contractor Portal]].
+As a manager or agent of contractor companies, you can access and view the availability of assets in your stockrooms using the Field Service Contractor Portal.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Agents can access only information for their personal stockrooms and group stock
     -   To check the status of hardware items available in the stockroom, such as model, quantity, state, and sub state, click the Hardware related list.
     -   To check the status of consumable items available in the stockroom, such as quantity, state, and sub state, click the Consumable related list.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

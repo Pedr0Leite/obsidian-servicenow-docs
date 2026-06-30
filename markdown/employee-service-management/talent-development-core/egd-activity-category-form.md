@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Talent Activity Category reference
 
-Administrators create [[activity-lxp|activity]] categories that are used by managers and employees.
+Administrators create activity categories that are used by managers and employees.
 
 |Field|Description|
 |-----|-----------|
@@ -27,6 +27,3 @@ Administrators create [[activity-lxp|activity]] categories that are used by mana
 
 **Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

@@ -13,11 +13,11 @@ breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure
 
 # Migrate a blueprint between environments
 
-Move [[blueprints|blueprints]] between CPQ environments to maintain consistent configuration management. Export, update, and import blueprint packages using the [[matrix_loader_table_of_contents|Matrix Loader]] to promote tested configurations from development to production.
+Move blueprints between CPQ environments to maintain consistent configuration management. Export, update, and import blueprint packages using the Matrix Loader to promote tested configurations from development to production.
 
 ## Before you begin
 
-Review CPQ upgrade windows, described in [[logik_io_upgrade_schedule|CPQ Upgrade Schedule]]. Schedule your migration to avoid published upgrade windows. If you have questions regarding this topic, contact your customer Support team.
+Review CPQ upgrade windows, described in [CPQ Upgrade Schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io_upgrade_schedule.md). Schedule your migration to avoid published upgrade windows. If you have questions regarding this topic, contact your customer Support team.
 
 Role required: admin
 
@@ -51,7 +51,7 @@ Understand the following terms:
 
         If your environment is integrated with Salesforce and you are migrating the blueprint for the first time, verify the prerequisites. Then perform step 1 in [Migrate a blueprint to an SFDC-integrated destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
-2.  [[Modify|Modify]] the migration package.
+2.  Modify the migration package.
 
     1.  Unzip the blueprint ZIP file you downloaded in step 1.
 
@@ -73,7 +73,7 @@ Understand the following terms:
         ---
         blueprints:
         - variableName: someBlueprint
-          related [[fields|Fields]]:
+          related Fields:
           - field1
           - field2
           - field3
@@ -81,18 +81,18 @@ Understand the following terms:
           name: someBlueprintName
           description: BP description goes here
           relatedSets: null
-          [[scripts|scripts]]: null
-          [[layouts|layouts]]: null
+          scripts: null
+          layouts: null
           products: null
         productPickers: /fields/productPickers.yaml
-        [[cpq-sets|sets]]: null
+        sets: null
         fieldOptions: /fields/fieldOptions.csv
-        [[rules_101|rules]]: /rules/rules.csv
+        rules: /rules/rules.csv
         fields: /fields/fields.csv
         fullBlueprintMigration: true
         ```
 
-        For a description of how this parameter affects the blueprint migration, see [[cpq-fullblueprintmigration-param|The fullBlueprintMigration parameter]]. If your environment is integrated with Salesforce and you are migrating the blueprint for the first time, perform step 2 in [Migrate a blueprint to an SFDC-integrated destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+        For a description of how this parameter affects the blueprint migration, see [The fullBlueprintMigration parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-fullblueprintmigration-param.md). If your environment is integrated with Salesforce and you are migrating the blueprint for the first time, perform step 2 in [Migrate a blueprint to an SFDC-integrated destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
     3.  Save your edits and close the blueprint.yaml file.
 
@@ -134,15 +134,3 @@ Understand the following terms:
 
 [Migrate a blueprint to an SFDC-integrated destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[logik_io_upgrade_schedule|CPQ Upgrade Schedule]]
-- [[cpq-fullblueprintmigration-param|The fullBlueprintMigration parameter]]
-- [[blueprints|Blueprints]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[Modify|Modify]]
-- [[fields|Fields]]
-- [[scripts|Scripts]]
-- [[layouts|Layouts]]
-- [[cpq-sets|Sets]]
-- [[rules_101|Rules]]

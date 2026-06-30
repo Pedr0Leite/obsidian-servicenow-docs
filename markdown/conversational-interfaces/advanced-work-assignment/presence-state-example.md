@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the presence states settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Additional settings section, select **Set up presence states**.
 
@@ -37,6 +37,4 @@ Role required: awa\_admin or admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -15,15 +15,15 @@ breadcrumb: [Scripting Governance Tool, Access Management]
 
 # Use Scripting Governance Tool
 
-Use the [[scripting-governance|Scripting Governance Tool]] to provide a single, centralised control for managing scripting access across your ServiceNow AI Platform.
+Use the Scripting Governance Tool to provide a single, centralised control for managing scripting access across your ServiceNow AI Platform.
 
 ## Before you begin
 
 Role required: security\_admin
 
-**Important:** You must have elevate your role `security_admin`. See [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+**Important:** You must have elevate your role `security_admin`. See [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
-The Scripting Governance Tool helps you review user scripting governance your ServiceNow AI Platform. The **Conditional Script Writer** group grants scripting permissions to its members via the `snc_required_script_writer_permission` role. [[users|Users]] are added to the group by either an automated assignment or manual [[sc-configuration|configuration]]. You can manage both of these settings from the Scripting Governance Tool.
+The Scripting Governance Tool helps you review user scripting governance your ServiceNow AI Platform. The **Conditional Script Writer** group grants scripting permissions to its members via the `snc_required_script_writer_permission` role. Users are added to the group by either an automated assignment or manual configuration. You can manage both of these settings from the Scripting Governance Tool.
 
 ## Procedure
 
@@ -57,11 +57,11 @@ Auto-assignment assigns new users to the **Conditional Script Writer** group if 
 
 </td></tr><tr><td>
 
-[[scan-for-users-who-have-scripted|Scan for users who have scripted]] \(Recommended\)
+Scan for users who have scripted \(Recommended\)
 
 </td><td>
 
-Scans for users in the ServiceNow AI Platform who have modified records containing script fields such as business rules, script includes, or client scripts. When running the scan, you can define a time period for which the [[scan-checks|scan checks]].
+Scans for users in the ServiceNow AI Platform who have modified records containing script fields such as business rules, script includes, or client scripts. When running the scan, you can define a time period for which the scan checks.
 
 </td></tr><tr><td>
 
@@ -114,11 +114,3 @@ You can view the following topics to understand how you can:
 -   [Scan for users who have scripted](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/scan-for-users-who-have-scripted.md)
 -   [Remove users from the Conditional Script Writer group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/remove-conditional-script-writer-users.md)
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[scripting-governance|Scripting Governance Tool]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[scan-for-users-who-have-scripted|Scan for users who have scripted]]
-- [[scan-checks|Scan checks]]

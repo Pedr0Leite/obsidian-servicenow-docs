@@ -16,7 +16,7 @@ breadcrumb: [Exploring Knowledge Management, Knowledge Management, Manage conten
 
 When you migrate to Knowledge Management v3 from v2, you must migrate legacy knowledge content and any customizations you have made to the Knowledge Base applications.
 
-The following video provides more information on how to migrate from [[knowledge-management|Knowledge Management]] v2 to v3.
+The following video provides more information on how to migrate from Knowledge Management v2 to v3.
 
 ## Knowledge Management v3 migration process
 
@@ -27,6 +27,3 @@ Review automatic changes before upgrading. These changes are applied immediately
 1.  Migrate knowledge functionality to use your customized functionality with the Knowledge Management v3 enhancements.
 2.  Migrate knowledge content to use the Knowledge Management v3 enhancements with your existing knowledge articles.
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

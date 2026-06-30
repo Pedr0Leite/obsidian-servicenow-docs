@@ -14,7 +14,7 @@ breadcrumb: [Restricting access, Configure, Hermes Messaging Service, Manage ser
 
 # Create an alert for unauthorized access
 
-Receive a notification when an attempt to access Hermes is received from an unauthorized [[ip-address|IP address]].
+Receive a notification when an attempt to access Hermes is received from an unauthorized IP address.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ One or more selected users or groups are notified when an attempt to access Herm
 
 **Parent Topic:**[Restricting access to Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/restricting-access-hermes-topics.md)
 
-## Related
-
-- [[ip-address|IP Address]]

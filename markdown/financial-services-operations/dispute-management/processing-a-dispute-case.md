@@ -21,7 +21,7 @@ After a dispute case is submitted, the system generates a playbook for each disp
 -   **[Investigate stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-stage.md)**  
 The **Investigate** stage of the card dispute playbook, perform tasks such as issuing provisional credit, reviewing participating merchant alerts, and investigating the transaction.
 -   **[Chargeback stage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage.md)**  
-This stage enables you to [[report-fraud-visa|report fraud]], [[initiate-chargeback-mastercard|initiate chargeback]], associate dispute transactions, and [[review-representment|review merchant representment]] evidence, create and review pre-arbitration, and case filing. Visa transactions comprises of two workflows for pre-arbitration and arbitration: collaboration workflow and allocation workflow.
+This stage enables you to report fraud, initiate chargeback, associate dispute transactions, and review merchant representment evidence, create and review pre-arbitration, and case filing. Visa transactions comprises of two workflows for pre-arbitration and arbitration: collaboration workflow and allocation workflow.
 
 **Parent Topic:**[Managing disputes integrated with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/work-on-a-dispute-case-integrated-with-visa.md)
 
@@ -30,8 +30,3 @@ This stage enables you to [[report-fraud-visa|report fraud]], [[initiate-chargeb
 
 [Summarize a dispute or claims case with case summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-case-using-now-assist-fso.md)
 
-## Related
-
-- [[report-fraud-visa|Report fraud]]
-- [[initiate-chargeback-mastercard|Initiate chargeback]]
-- [[review-representment|Review merchant representment]]

@@ -18,7 +18,7 @@ With exposure management, safety team and industrial hygienists can manage expos
 
 ## What is an exposure
 
-An exposure refers to a situation or [[activity-lxp|activity]] that has the potential to harm a person if they are in the vicinity. The severity of the harm depends on factors such as the duration of exposure and the level of the exposure. For example, loud noise can be considered an exposure, and the noise level \(decibels\) and length of time a person is exposed to it are important factors in assessing this exposure.
+An exposure refers to a situation or activity that has the potential to harm a person if they are in the vicinity. The severity of the harm depends on factors such as the duration of exposure and the level of the exposure. For example, loud noise can be considered an exposure, and the noise level \(decibels\) and length of time a person is exposed to it are important factors in assessing this exposure.
 
 There are various standard categories of exposures, for example:
 
@@ -46,6 +46,3 @@ Perform an exposure assessment for an exposure type for each site location in yo
 
 **Parent Topic:**[Using Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-using-hs-risk-mgmt.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

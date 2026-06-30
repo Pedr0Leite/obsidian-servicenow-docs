@@ -16,7 +16,7 @@ Create and duplicate an OAuth API script for application registry.
 
 ## Before you begin
 
-Generate a SHA -1 thumbprint. For more information see [[generate-thumbprint|Generate a SHA-1 thumbprint]].
+Generate a SHA -1 thumbprint. For more information see [Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/generate-thumbprint.md).
 
 Ensure you have the Email - Support for Email Processing by Microsoft Graph API plugin \(com.glide.email.graph\) installed.
 
@@ -41,12 +41,7 @@ Role required: admin
 
 ## What to do next
 
-[[microsoft-graph|Register an application as an OAuth provider]].
+[Register an application as an OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/microsoft-graph.md).
 
-**Parent Topic:**[[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]
+**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 
-## Related
-
-- [[generate-thumbprint|Generate a SHA-1 thumbprint]]
-- [[microsoft-graph|Configure an OAuth profile to use a client ID and secret for token generation]]
-- [[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]

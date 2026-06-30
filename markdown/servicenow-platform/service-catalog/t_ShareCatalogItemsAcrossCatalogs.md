@@ -14,7 +14,7 @@ breadcrumb: [Add a catalog item, Types of catalog items, Explore, Service Catalo
 
 # Share catalog items across catalogs
 
-You can share a catalog item, enabling users to order that item from different catalogs. For example, you can share a [[password-reset-landing-page|Password Reset]] item across catalogs serving different teams.
+You can share a catalog item, enabling users to order that item from different catalogs. For example, you can share a Password Reset item across catalogs serving different teams.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To share a catalog item across several catalogs:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Maintain Items**
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Maintain Items**
 
 2.  Open the item to share.
 
@@ -39,7 +39,3 @@ To share a catalog item across several catalogs:
 
 **Parent Topic:**[Add a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AssignItemToAddlCatalogsCategory.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[service-catalog|Service Catalog]]

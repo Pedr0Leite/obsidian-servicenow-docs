@@ -16,9 +16,9 @@ The process flow formatter provides a graphical summary of the stages of a custo
 
 The process flow formatter is available in the platform interface when you select the Customer Self Service view.
 
-\[Omitted image "CaseProcessFlowFormatterAgent.png"\] Alt text: Process flow formatter displaying Resolved as the current state of the case in the [[r_CustomerServiceCaseForm|Case form]].
+\[Omitted image "CaseProcessFlowFormatterAgent.png"\] Alt text: Process flow formatter displaying Resolved as the current state of the case in the Case form.
 
-The process flow formatter appears at the top of the Case form. It [[migration-form-highlights|highlights]] the current state of the case and checks off the states through which the case has passed.
+The process flow formatter appears at the top of the Case form. It highlights the current state of the case and checks off the states through which the case has passed.
 
 By default, the process flow formatter displays the following states:
 
@@ -32,7 +32,3 @@ By default, the process flow formatter displays the following states:
 
 [Process flow formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ProcessFlowFormatter.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-form-highlights|Highlights]]

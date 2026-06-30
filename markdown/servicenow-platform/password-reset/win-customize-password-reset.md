@@ -48,7 +48,7 @@ AppDir
 
 </td><td>
 
-Directory that holds the [[win-password-reset-overview|Password Reset Windows Application]] application files.
+Directory that holds the Password Reset Windows Application application files.
 
 </td><td>
 
@@ -60,7 +60,7 @@ AppFormIconFile
 
 </td><td>
 
-Icon that is associated with the [[password-reset-landing-page|Password Reset]] application.
+Icon that is associated with the Password Reset application.
 
 </td><td>
 
@@ -206,7 +206,3 @@ Directory that holds the library files.
 </table>
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[password-reset-landing-page|Password Reset]]

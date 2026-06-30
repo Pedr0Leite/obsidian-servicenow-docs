@@ -12,7 +12,7 @@ breadcrumb: [Playbook pages, Playbooks in Customer Service Management, Agent too
 
 # Customize the page header for a playbook page
 
-Customize the page header by defining the primary and secondary fields that are displayed in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Customize the page header by defining the primary and secondary fields that are displayed in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ Overview information for a record is available in the page header.
 
 2.  Select the **CSM/FSM Configurable Workspace Header Config** header configuration.
 
-3.  Select a table from the UX [[migration-form-headers|Form Headers]] list.
+3.  Select a table from the UX Form Headers list.
 
-    You can also create a UX Form Header record. For more information, see [[config-csm-config-ws-form-header|Set up a form header in CSM Configurable Workspace]].
+    You can also create a UX Form Header record. For more information, see [Set up a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-header.md).
 
 4.  Select the **Primary field** to display in the form header.
 
@@ -50,11 +50,5 @@ Overview information for a record is available in the page header.
 
 [Set up a form header in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-header.md)
 
-[[config-csm-display-header-in-sidebar|Display the form ribbon and form header secondary values in the Contextual side panel]]
+[Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-display-header-in-sidebar.md)
 
-## Related
-
-- [[config-csm-config-ws-form-header|Set up a form header in CSM Configurable Workspace]]
-- [[config-csm-display-header-in-sidebar|Display the form ribbon and form header secondary values in the Contextual side panel]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-form-headers|Form headers]]

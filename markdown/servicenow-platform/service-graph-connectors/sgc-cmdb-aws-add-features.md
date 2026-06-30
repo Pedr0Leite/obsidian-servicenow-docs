@@ -14,7 +14,7 @@ breadcrumb: [AWS, Service Graph Connectors, Integrating third-party data into CM
 
 # Additional features within the Service Graph Connector for AWS
 
-Use the additional features available within the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] to maximize its use for importing data.
+Use the additional features available within the Service Graph Connector for AWS to maximize its use for importing data.
 
 The following features are available within the Service Graph Connector for AWS:
 
@@ -51,6 +51,4 @@ The following features are available within the Service Graph Connector for AWS:
 
     Enable mapping of AWS Cloud Os Image data to the Cloud Image \[cmdb\_ci\_cloud\_os\_image\] table.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

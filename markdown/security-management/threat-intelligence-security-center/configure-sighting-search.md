@@ -14,13 +14,13 @@ breadcrumb: [TISC Enrichment integrations, TISC Integrations, Integrate, Threat 
 
 # Configure Sighting Search
 
-Configure sighting search integration to search your organization logs for one or more [[c_Observables|observables]] to determine how many times each observable appears, within a specified date range or number of days.
+Configure sighting search integration to search your organization logs for one or more observables to determine how many times each observable appears, within a specified date range or number of days.
 
 ## Before you begin
 
 **Important:** The enrichment integrations appears only if at least one enrichment integration is installed and active.
 
-The [[tisc-landing-page|Threat Intelligence Security Center]] supports [[indicator-sightings|Sightings]] Search for the following integrations only:
+The Threat Intelligence Security Center supports Sightings Search for the following integrations only:
 
 -   Splunk Search
 -   Elasticsearch
@@ -37,7 +37,7 @@ Role required: sn\_sec\_tisc.admin
 
     \[Omitted image "enrich-sighting-section.png"\] Alt text: Sighting Search page showing three enabled enrichment integration cards: two Splunk integrations and one Elasticsearch integration, each with a last-modified timestamp and View button.
 
-3.  Select the **[[tisc-config-new-enrich|Configure new enrichment]]** action.
+3.  Select the **Configure new enrichment** action.
 
     A dialog displays the available integrations. You must select the integration that you want to configure.
 
@@ -116,20 +116,11 @@ Unique description of the new enrichment integration.
 
 
 -   **[Create Sighting Search queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/manage-sighting-search-configurations.md)**  
-Sighting search configurations define queries that search for observables across your security environment during investigations. Configure these queries to determine how often specific [[indicator|indicators]] appear in your [[data-sources|data sources]].
+Sighting search configurations define queries that search for observables across your security environment during investigations. Configure these queries to determine how often specific indicators appear in your data sources.
 -   **[Using Sighting Search parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/manage-sighting-search-parameters.md)**  
 Configure advanced search parameters to create complex queries with logic operators and other features supported by your log store. Use these parameters when basic search criteria are insufficient for your investigation needs.
 -   **[Get started with Sighting Search Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-get-sighting-configs.md)**  
-Sighting Search Configurations define how [[threat-intel-landing-page|threat intelligence]] data is searched and matched against your environment. Configure these settings to customize threat detection and improve security monitoring accuracy.
+Sighting Search Configurations define how threat intelligence data is searched and matched against your environment. Configure these settings to customize threat detection and improve security monitoring accuracy.
 
 **Parent Topic:**[TISC Enrichment integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[indicator|Indicators]]
-- [[data-sources|Data Sources]]
-- [[threat-intel-landing-page|Threat Intelligence]]

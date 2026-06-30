@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Amazon Web Services S3 Bucket Out Of Box Catalog items
 
-[[csc-home|Cloud Services Catalog]] AWS S3 Bucket with secure access and encryption.
+Cloud Services Catalog AWS S3 Bucket with secure access and encryption.
 
 This is a fully functional sample catalog item that can be used to order an object storage bucket from Amazon cloud's S3 service. Validation is done for the bucket name, to ensure that the s3 naming policy is adhered to. The underlying Terraform template is used to prevent public access to the bucket and setting up standard encryption on data.
 
@@ -25,6 +25,3 @@ AWS S3 Bucket OOB catalog items permissions. S3 Bucket supports provision and de
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

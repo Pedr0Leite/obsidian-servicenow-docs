@@ -22,7 +22,7 @@ Complete all configuration tasks to ensure that travel notifications and approva
 
 Set up user groups and roles so that employee travel can be approved by managers or by designated travel approvers.
 
-Setting up manager approval or designated approvers is a required configuration step for the [[employee-travel-safety|Employee Travel Safety]] application.
+Setting up manager approval or designated approvers is a required configuration step for the Employee Travel Safety application.
 
 -   **Manager approval**
 
@@ -151,7 +151,7 @@ Enables outreach to traveling employees about their daily travel contacts.\[sn\_
 
 </td><td>
 
-When enabled, employees receive notifications to complete a daily contact log during internal travel. Contact log notifications are not sent for external travel. Employees must be assigned the sn\_imt\_tracing.dailylog\_user role to receive contact log notifications. This property requires the [[contact-tracing|Contact Tracing]] and [[emergency-outreach|Emergency Outreach]] applications. For more information about contact logs, see [Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md).**Note:** Employees who are already enrolled in daily contact logs before their trip will see no change. They will not receive additional notifications and they will still be enrolled after their trip is complete.
+When enabled, employees receive notifications to complete a daily contact log during internal travel. Contact log notifications are not sent for external travel. Employees must be assigned the sn\_imt\_tracing.dailylog\_user role to receive contact log notifications. This property requires the Contact Tracing and Emergency Outreach applications. For more information about contact logs, see [Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md).**Note:** Employees who are already enrolled in daily contact logs before their trip will see no change. They will not receive additional notifications and they will still be enrolled after their trip is complete.
 
 </td></tr></tbody>
 </table>3.  Click **Save**.
@@ -319,8 +319,4 @@ This email is sent to an employee if they don't complete a health verification b
 
 11. Return to the notification record and click **Preview Notification** to confirm your changes.
 
-## Related
 
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]

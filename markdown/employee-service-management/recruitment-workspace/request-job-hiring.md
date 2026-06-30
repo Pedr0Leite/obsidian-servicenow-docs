@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the list view of the job requisitions and select **New**.
 
-3.  On the create new [[new-job-form|job requisition form]], fill in the fields.
+3.  On the create new job requisition form, fill in the fields.
 
     For a description of the field values, see [Job requisition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/new-job-form.md).
 
@@ -34,7 +34,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
     **Note:**
 
-    When a job request is created by a [[hiring-tab-concept|hiring]] manager, the recruiter can see the open request on the overview page of the Recruitment Workspace. For more information, see [Get overview of recruitment workload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-oveview.md).
+    When a job request is created by a hiring manager, the recruiter can see the open request on the overview page of the Recruitment Workspace. For more information, see [Get overview of recruitment workload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/recruitment-workspace-oveview.md).
 
 
 ## Result
@@ -43,8 +43,3 @@ A job requisition is created and in New state.
 
 **Parent Topic:**[Using Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/use-recruit-workspace.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[new-job-form|Job requisition form]]
-- [[hiring-tab-concept|Hiring]]

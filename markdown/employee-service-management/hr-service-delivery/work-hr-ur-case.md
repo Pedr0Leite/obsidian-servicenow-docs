@@ -14,7 +14,7 @@ breadcrumb: [Universal Request for HR Service Delivery, Integration of HR Servic
 
 # Work on an HR case of Universal Request
 
-Provide resolution to an HR case that is initiated from a [[ur-landing-limitedaccess|universal request]].
+Provide resolution to an HR case that is initiated from a universal request.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ The state changes described in the procedure can be configured to suit your requ
     -   If this issue is not related to the HR department, the HR agent must select the **Transfer** option on the case. For more details on how to transfer the case, see [Transfer an HR case in Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/route-ur-hr-case.md).
 3.  Click **Closed Complete** when the resolution is provided.
 
-    The state of the HR case is changed to **Awaiting acceptance** and the state of the universal request is automatically changed to **Awaiting response from user**. On the [[employee-center-landing-page|Employee Center]]:
+    The state of the HR case is changed to **Awaiting acceptance** and the state of the universal request is automatically changed to **Awaiting response from user**. On the Employee Center:
 
     -   If the user accepts the resolution, the state of the universal request is changed to **Closed**. The state of the HR case is automatically changed to **Closed Complete**.
     -   If the user rejects the resolution, the state of the universal request is changed to **In progress**. The state of the HR case is automatically changed to **Work in progress.**
@@ -49,7 +49,3 @@ The state changes described in the procedure can be configured to suit your requ
 
 **Parent Topic:**[Universal Request for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/universal-request-hr.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[employee-center-landing-page|Employee Center]]

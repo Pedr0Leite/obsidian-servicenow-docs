@@ -15,23 +15,16 @@ breadcrumb: [Now Assist, Third-party Risk Management, Governance, Risk, and Comp
 
 # Using Now Assist for Third-party Risk Management \(TPRM\) skills
 
-If you have the TPR assessor \[sn\_vdr\_risk\_asmt.vendor\_assessor\] role, you can summarize a TPRM issue by using the [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] application.
+If you have the TPR assessor \[sn\_vdr\_risk\_asmt.vendor\_assessor\] role, you can summarize a TPRM issue by using the Now Assist for Third-party Risk Management \(TPRM\) application.
 
 **Important:** After installing Now Assist for TPRM, all Now Assist for TPRM skills are activated by default.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 -   **[Generate a summary of a TPRM issue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-a-summary-of-issue.md)**  
-[[create-a-summary-of-issue|Generate a summary of a TPRM issue]] to support efficient triaging, remediation, and reporting using the [[issue-summarization-tprm|TPRM issue summarization skill]]. Summarized issues help risk assessors and analysts quickly review issue content and take informed action.
+Generate a summary of a TPRM issue to support efficient triaging, remediation, and reporting using the TPRM issue summarization skill. Summarized issues help risk assessors and analysts quickly review issue content and take informed action.
 -   **[Generate issue recommendations for TPRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-recommendation-tprm-issue.md)**  
-Use generative AI to identify and recommend potential Third-party Risk Management issues based on assessment responses. The [[issue-recommendation-tprm|TPRM issue recommendation skill]] presents recommended issues with rationalized summaries for reviewer confirmation.
+Use generative AI to identify and recommend potential Third-party Risk Management issues based on assessment responses. The TPRM issue recommendation skill presents recommended issues with rationalized summaries for reviewer confirmation.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]
-- [[create-a-summary-of-issue|Generate a summary of a TPRM issue]]
-- [[issue-summarization-tprm|TPRM issue summarization skill]]
-- [[issue-recommendation-tprm|TPRM issue recommendation skill]]

@@ -48,13 +48,13 @@ Installing this plugin provides a graphical user interface to browse the file sy
 
 </td></tr><tr><td>
 
-File Explorer Core for [[security-operations-landing-page|Security Operations]] v1.1.1
+File Explorer Core for Security Operations v1.1.1
 
 </td><td>
 
 Use **sn\_fe** plugin ID to search and install File Explorer Core.
 
-Installing this plugin provides base [[threat-intelligence-infrastructure|infrastructure]] to [[integrating-threat-intelligence-security-center|integrate]] with any third-party file hosting provider.
+Installing this plugin provides base infrastructure to integrate with any third-party file hosting provider.
 
 </td></tr><tr><td>
 
@@ -69,8 +69,3 @@ Installing this plugin will manage the Microsoft SharePoint Files/Folders using 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure File Explorer Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/file-explorer.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[integrating-threat-intelligence-security-center|Integrate]]

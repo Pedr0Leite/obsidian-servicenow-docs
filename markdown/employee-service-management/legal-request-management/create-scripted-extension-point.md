@@ -30,7 +30,7 @@ If you want to send additional information while uploading the document, you mus
 
 1.  Navigate to **All** &gt; **System Extension Points** &gt; **Scripted Extension Points**.
 
-2.  Search for **sn\_lg\_ops.iManageCustomFieldHelperExtension** in the API Name field, under the [[legal-request-management-landing-page|Legal Request Management]] application scope.
+2.  Search for **sn\_lg\_ops.iManageCustomFieldHelperExtension** in the API Name field, under the Legal Request Management application scope.
 
 3.  Select the record to open.
 
@@ -43,7 +43,7 @@ If you want to send additional information while uploading the document, you mus
 
 ## Result
 
-The Implementation is created in Scripted Extension Point. For more information on how to [[implement-script-include-for-extn-pt|use the script include for Scripted Extension point]], see [Use the script include for Scripted Extension Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/implement-script-include-for-extn-pt.md).
+The Implementation is created in Scripted Extension Point. For more information on how to use the script include for Scripted Extension point, see [Use the script include for Scripted Extension Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/implement-script-include-for-extn-pt.md).
 
 -   **[Use the script include for Scripted Extension Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/implement-script-include-for-extn-pt.md)**  
 Use the script include for Scripted Extension Point to update the custom fields on the iManage storage based on the mapping provided in the functions.
@@ -52,7 +52,3 @@ List of fields in the Scripted Extension Point.
 
 **Parent Topic:**[Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/integrate-legal-ext-storage.md)
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[implement-script-include-for-extn-pt|Use the script include for Scripted Extension Point]]

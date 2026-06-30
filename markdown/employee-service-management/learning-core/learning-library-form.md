@@ -14,7 +14,7 @@ breadcrumb: [Learning Core Reference, Learning Core, HR Service Delivery, Employ
 
 # Learning library form
 
-Use the learning library form to [[create-learning-library|create a learning library]].
+Use the learning library form to create a learning library.
 
 <table id="table_gv2_c5h_x4b"><thead><tr><th>
 
@@ -78,7 +78,7 @@ Employees that the catalog is visible to or employees who can curate the items i
 **Related topics**  
 
 
-[Components installed with [[exploring-learning-exp|Learning]] Core]()
+[Components installed with Learning Core]()
 
 [Course catalog form]()
 
@@ -92,7 +92,3 @@ Employees that the catalog is visible to or employees who can curate the items i
 
 [Collection form]()
 
-## Related
-
-- [[create-learning-library|Create a learning library]]
-- [[exploring-learning-exp|Learning]]

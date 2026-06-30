@@ -14,7 +14,7 @@ breadcrumb: [SOX content pack, GRC content packs, Common GRC features, Governanc
 
 # Verify the SOX Content Pack in Policy and Compliance Management
 
-After importing the SOX Content Pack, verify and edit the profile types, profiles, policies, policy statements, controls, policies, indicator templates, and indicators, within the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application.
+After importing the SOX Content Pack, verify and edit the profile types, profiles, policies, policy statements, controls, policies, indicator templates, and indicators, within the Policy and Compliance Management application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Scoping** &gt; **[[entity-type-in-risk-ws|Entity Types]]**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Scoping** &gt; **Entity Types**.
 
     A **SOX Processes** entity type is added and is used to generate the SOX profiles:
 
@@ -48,7 +48,7 @@ Role required: Compliance Admin \(sn\_compliance.admin\)
     -   Treasury
     \[Omitted image "SOX-profile-type.png"\] Alt text: Profile type record is pictured with the Profiles related list
 
-2.  If using the Kingston SOX contact pack, under the [[what-is-an-entity-filter|Entity filters]] related list, a filter is added to query the SOX processes table for the generation of SOX entities.
+2.  If using the Kingston SOX contact pack, under the Entity filters related list, a filter is added to query the SOX processes table for the generation of SOX entities.
 
     \[Omitted image "SOX-profile-filter.png"\] Alt text: Profile type record is pictured with the Profile Filters Related List
 
@@ -107,8 +107,3 @@ For information about the SOX Compliance Dashboard, see [SOX Content Pack dashbo
 
 **Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/sn-store-SOX-governance-risk-compliance.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]

@@ -15,7 +15,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Create an internal lifecycle in the Hardware Asset Workspace
 
-Create a custom \(internal\) lifecycle to explicitly specify lifecycle dates for a selected hardware or consumable model in the [[using-ham-workspace|Hardware Asset Workspace]].
+Create a custom \(internal\) lifecycle to explicitly specify lifecycle dates for a selected hardware or consumable model in the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: asset
 
 ## About this task
 
-Beyond approximated and calculated lifecycles, [[ham-landing-page|Hardware Asset Management]] supports custom \(internal\) lifecycle records. You can define a custom lifecycle phase for a hardware or consumable model. A custom \(internal\) lifecycle enables you to specify lifecycle dates that are specific to your organization or override existing Content Library data, to improve lifecycle coverage and accuracy. Each custom lifecycle record represents a single lifecycle phase and includes a manually defined phase start date.
+Beyond approximated and calculated lifecycles, Hardware Asset Management supports custom \(internal\) lifecycle records. You can define a custom lifecycle phase for a hardware or consumable model. A custom \(internal\) lifecycle enables you to specify lifecycle dates that are specific to your organization or override existing Content Library data, to improve lifecycle coverage and accuracy. Each custom lifecycle record represents a single lifecycle phase and includes a manually defined phase start date.
 
 ## Procedure
 
@@ -45,12 +45,12 @@ Description
 
 </td><td>
 
-1.  Select the **Hardware [[c_Models|models]]** tab in the Model management page.
+1.  Select the **Hardware models** tab in the Model management page.
 2.  Select a hardware model record.
 3.  Select the **Hardware Model Lifecycles** tab.
 4.  Select **New**.
 
-The Create New Hardware [[model-lifecycle-fields|Model Lifecycle form]] is displayed.
+The Create New Hardware Model Lifecycle form is displayed.
 
 </td></tr><tr><td id="d164958e142">
 
@@ -86,7 +86,7 @@ The custom lifecycle record is created and listed in the Hardware Model Lifecycl
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -108,7 +108,7 @@ The custom lifecycle record is created and listed in the Hardware Model Lifecycl
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
@@ -152,11 +152,3 @@ The custom lifecycle record is created and listed in the Hardware Model Lifecycl
 
 [Consumable model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/consumable-model-fields.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Models|Models]]
-- [[model-lifecycle-fields|Model lifecycle form]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]

@@ -14,7 +14,7 @@ breadcrumb: [Event Management Operator Tutorial, Using Event Management, Event M
 
 # What Event Management operators do
 
-As an [[c_EM|Event Management]] operator, your typical workflow involves three phases: analyzing an alert and its effect on application services, taking some type of action, and making sure the alert is finally closed.
+As an Event Management operator, your typical workflow involves three phases: analyzing an alert and its effect on application services, taking some type of action, and making sure the alert is finally closed.
 
 This is the last lesson in the Event Management tutorial. In this lesson, you will run through the three phases of a typical operator day-to-day workflow.
 
@@ -101,7 +101,7 @@ Phase 3
 
 </td><td>
 
-[[t_EMCloseAlert|Close an alert]]
+Close an alert
 
 </td><td>
 
@@ -121,7 +121,3 @@ After you take action on an alert, you can verify several items on the alert and
 
 **Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[t_EMCloseAlert|Close an alert]]

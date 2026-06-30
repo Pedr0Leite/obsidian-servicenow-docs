@@ -57,8 +57,5 @@ Payload
 
 **Note:** Both iat and exp must be numeric \(integer\) Unix epoch values and not ISO 8601 date strings. Passing a string will cause Verifi to return a 401 Unauthorized error.
 
-**Parent Topic:**[[referring-financial-services-operations-integration-with-verifi-cdrn|Financial Services Operations Integration with Verifi reference]]
+**Parent Topic:**[Financial Services Operations Integration with Verifi reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/referring-financial-services-operations-integration-with-verifi-cdrn.md)
 
-## Related
-
-- [[referring-financial-services-operations-integration-with-verifi-cdrn|Financial Services Operations Integration with Verifi reference]]

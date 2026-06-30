@@ -12,7 +12,7 @@ breadcrumb: [Exploring Knowledge Center, Knowledge Center, Manage content capabi
 
 # Knowledge Center Home Page
 
-[[knowledge-center|Knowledge Center]] is a plugin within [[knowledge-management|Knowledge Management]] that helps in the effective management of knowledge articles by using an intuitive interface.
+Knowledge Center is a plugin within Knowledge Management that helps in the effective management of knowledge articles by using an intuitive interface.
 
 **UI features**
 
@@ -48,7 +48,7 @@ Insights
 
 </td><td>
 
-Discover areas of improvement in the knowledge base through [[understanding-knowledge-gaps|potential knowledge gaps]], potential duplicates, article optimization, and [[knowledge-health-score|knowledge health score]]. It helps you to improve the content quality and helps for a complete, accurate knowledge base.
+Discover areas of improvement in the knowledge base through potential knowledge gaps, potential duplicates, article optimization, and knowledge health score. It helps you to improve the content quality and helps for a complete, accurate knowledge base.
 
 </td><td>
 
@@ -56,7 +56,7 @@ This feature works only if the Now Assist Skills are enabled for your role.
 
 </td></tr><tr><td>
 
-[[exploring-requires-attention|Requires Attention]]
+Requires Attention
 
 </td><td>
 
@@ -108,7 +108,7 @@ Configurations
 
 </td><td>
 
-The Configurations section provides [[reference-document-management|references]] to tools and settings that support knowledge management and system optimization. Use these options to configure assistance, manage properties, and improve article quality.
+The Configurations section provides references to tools and settings that support knowledge management and system optimization. Use these options to configure assistance, manage properties, and improve article quality.
 
 </td><td>
 
@@ -120,7 +120,7 @@ Knowledge Resources
 
 </td><td>
 
-The Knowledge Resources section offers links to learning materials and community platforms. Use these resources to build your skills, [[c_Connect|connect]] with peers, and find product documentation.
+The Knowledge Resources section offers links to learning materials and community platforms. Use these resources to build your skills, connect with peers, and find product documentation.
 
 </td><td>
 
@@ -128,13 +128,3 @@ User can access features assigned to their role.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[knowledge-center|Knowledge Center]]
-- [[knowledge-management|Knowledge Management]]
-- [[understanding-knowledge-gaps|Potential knowledge gaps]]
-- [[knowledge-health-score|Knowledge Health score]]
-- [[exploring-requires-attention|Requires attention]]
-- [[reference-document-management|References]]
-- [[c_Connect|Connect]]

@@ -16,7 +16,7 @@ breadcrumb: [Using Service Reliability Management, Service Reliability Managemen
 
 A service represents a functional outcome like networking, payments, or HR services, that is owned by a team. To deliver that outcome, a service can contain one or more technical components like a user authentication service, or a piece of shared infrastructure like a database.
 
-[[sr-landing-page|Service Reliability Management]] \(SRM\) works with integrations to prioritize and route alerts to the relevant responders. It follows up with escalations until the alert is acknowledged and someone responds. When you create or add a service in SRM, it must reflect a service in your SRM infrastructure.
+Service Reliability Management \(SRM\) works with integrations to prioritize and route alerts to the relevant responders. It follows up with escalations until the alert is acknowledged and someone responds. When you create or add a service in SRM, it must reflect a service in your SRM infrastructure.
 
 **Note:** You might want multiple tool integrations to monitor eachtechnology management service and receive events from those tools. See [Working with integrations in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-integrations.md) for more information.
 
@@ -86,6 +86,3 @@ Connect your services to monitoring tools using the Integrations Launchpad . Int
 
 **Next topic:**[Add a service to SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-service.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

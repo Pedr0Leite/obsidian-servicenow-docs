@@ -14,23 +14,23 @@ breadcrumb: [Configure UIs and portals, Configure user experiences]
 
 # Visual Task Boards
 
-Visual Task Boards \(VTB\) transform the navigation of [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]] into an interactive graphical experience.
+Visual Task Boards \(VTB\) transform the navigation of lists and forms into an interactive graphical experience.
 
 ## Visual Task Boards Overview
 
 \[Omitted video\] Description: Overview of Visual Task Boards
 
-**Note:** [[c_UI16|Core UI]] or Next Experience is required to use Visual Task Boards.
+**Note:** Core UI or Next Experience is required to use Visual Task Boards.
 
 ## Get started
 
 <table id="table_alg_xvl_3xb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[exploring|explore]].svg"\] Alt text:Learn about Visual Task Boards concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/exploring-vis-task-boards.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about Visual Task Boards concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/exploring-vis-task-boards.md)
 
 </td><td>
 
-[Activate\[Omitted image "bus-manage.svg"\] Alt text:[[t_ActivateVisualTaskBoards|Activate Visual Task Boards]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ActivateVisualTaskBoards.md)
+[Activate\[Omitted image "bus-manage.svg"\] Alt text:Activate Visual Task Boards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ActivateVisualTaskBoards.md)
 
 </td></tr><tr><td>
 
@@ -47,10 +47,3 @@ Visual Task Boards \(VTB\) transform the navigation of [[lists-configurable-work
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]
-- [[exploring|Explore]]
-- [[t_ActivateVisualTaskBoards|Activate Visual Task Boards]]

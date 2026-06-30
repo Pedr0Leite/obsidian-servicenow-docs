@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Set Objectives** page, you are on the **Scope your analysis** page.
 
@@ -46,21 +46,16 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 7.  Select the **Include child tables for analysis** option if you want to add a related table to your parent table.
 
-    This field is available only if you have specified the Child tables section of the [[project-view-screen|Process details page]] in the process configuration. For more information, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
+    This field is available only if you have specified the Child tables section of the Process details page in the process configuration. For more information, see [Configure process details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-details.md).
 
     Child tables include data of dependent subprocesses that are important for the execution of the parent process. Analyzing child tables helps uncover inefficiencies in subprocesses that impact the main process's performance.
 
     For example, the Incident table serves as the parent table with general information about incidents, while the Incident Task is the child table that stores specific tasks related to each incident.
 
-    **Note:** After setting the child table, you must configure the activity definitions and any other setting in the **[[child-entity|Add a child entity]]** tab.
+    **Note:** After setting the child table, you must configure the activity definitions and any other setting in the **Add a child entity** tab.
 
 8.  Select **Save**.
 
 
 **Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/scope-analysis.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[project-view-screen|Process details page]]
-- [[child-entity|Add a child entity]]

@@ -12,11 +12,11 @@ breadcrumb: [Customer Life Cycle Management Workflows, Product data, Set up your
 
 # Modify a sold product and hierarchy
 
-Modify a sold product and its complete hierarchy on the [[csm-workspaces-configure|CSM Configurable Workspace]] so that you can update its existing configurations. For example, you may want to modify a sold product's characteristics and the line items \(hierarchy\) that are associated with it.
+Modify a sold product and its complete hierarchy on the CSM Configurable Workspace so that you can update its existing configurations. For example, you may want to modify a sold product's characteristics and the line items \(hierarchy\) that are associated with it.
 
 ## About this task
 
-After an order is created, the fulfillment process for the order begins. After the order is fulfilled and marked **Complete**, the order to sold product flow is triggered. This flow applies the changes to the [[sold-product|sold products]]. The changes are based on the updates that are specified on the order.
+After an order is created, the fulfillment process for the order begins. After the order is fulfilled and marked **Complete**, the order to sold product flow is triggered. This flow applies the changes to the sold products. The changes are based on the updates that are specified on the order.
 
 ## Before you begin
 
@@ -46,7 +46,4 @@ Role required: sn\_ind\_tmt\_orm.order\_admin or sn\_ind\_tmt\_orm.order\_agent
 
     An order to modify the sold product is created. You can select the order number from the confirmation message on the sold products page to open the order and see the order line items. Alternatively, you can find the order in the Customer Orders list.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

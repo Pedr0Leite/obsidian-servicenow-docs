@@ -14,7 +14,7 @@ breadcrumb: [Requesting workstation user data, Use, Task Mining, Platform Analyt
 
 # Follow data request progress
 
-Monitor data requests to confirm approvals are completed before [[task-mining|Task Mining]] projects begin.
+Monitor data requests to confirm approvals are completed before Task Mining projects begin.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Select the Data icon \[Omitted image "task-mining-data-icon.png"\].
 
@@ -50,7 +50,4 @@ Role required: sn\_tm\_core.power\_user, sn\_tm\_core.admin
         -   **Comments**: Names of the workstation users in the data request or the reason the request was rejected.
 7.  If you want to accelerate the progress of a pending request, contact the approver and urge action before the project is set to begin.
 
-## Related
 
-- [[task-mining|Task Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]

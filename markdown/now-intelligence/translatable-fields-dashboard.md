@@ -20,8 +20,5 @@ In the Messages table, records have a key, a language, and a message field. You 
 
 **Note:** For more information about how keys are stored for translatable fields, see this [ServiceNow Community blog post](https://www.servicenow.com/community/international-localization/need-to-translate-a-configurable-workspace-check-this/ta-p/2376015?nobounce). This post also includes a prototype Localization Framework artifact that finds all translatable fields in all UI Builder components on an instance, including dashboard components.
 
-**Parent Topic:**[[dashboard-reference-page|Dashboard reference]]
+**Parent Topic:**[Dashboard reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-reference-page.md)
 
-## Related
-
-- [[dashboard-reference-page|Dashboard reference]]

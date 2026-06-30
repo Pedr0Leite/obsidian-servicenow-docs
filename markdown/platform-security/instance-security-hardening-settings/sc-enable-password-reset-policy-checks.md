@@ -18,7 +18,7 @@ Use the **glide.enable.password\_policy** property to enable password policy che
 
 Use the **glide.enable.password\_policy** property to customize password strength validation rules for the Change Password form. Customize the length and complexity values to match your organization's security policy. If **glide.enable.password\_policy** is not set to the recommended value of **true**, then password standards will not be enforced.
 
-Ensure that the **glide.enable.password\_policy** system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to the value **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
+Ensure that the **glide.enable.password\_policy** system property exists in the System Properties \[sys\_properties\] table and is set to the value **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 **Important:** The **glide.enable.password\_policy** does not apply when an administrator changes a password or adds a user through script.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -98,7 +98,7 @@ Security risk
 
 -   Severity score: 7.4
 -   CVSS rating: High
--   Security risk details: Enforcing password complexity is critical to maintaining strong [[c_Authentication|authentication]] and reducing exposure to account takeover.
+-   Security risk details: Enforcing password complexity is critical to maintaining strong authentication and reducing exposure to account takeover.
 
 </td></tr><tr><td>
 
@@ -121,8 +121,3 @@ None
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

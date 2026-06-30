@@ -14,16 +14,16 @@ breadcrumb: [Defaults required for FX Currency use, Configure, Currency administ
 
 # Configuring FX Currency field behavior
 
-After establishing global currency defaults, you can create custom FX Currency [[clone-configurations-tab|configurations]] for specific table fields. Identify the table fields that use FX Currency, and define how currency conversion calculations should be performed, displayed, filtered, and aggregated.
+After establishing global currency defaults, you can create custom FX Currency configurations for specific table fields. Identify the table fields that use FX Currency, and define how currency conversion calculations should be performed, displayed, filtered, and aggregated.
 
 For each selected field that uses FX Currency, you configure settings that:
 
 -   Govern decimal precision and currency display in lists, forms, and reports.
--   Identify the [[reference-email-admin|reference]] currency code for converting currency values entered into an FX Currency field into a common currency for report aggregations.
+-   Identify the reference currency code for converting currency values entered into an FX Currency field into a common currency for report aggregations.
 -   Identify the rate table and data source to use for currency conversions.
 -   Specify the rate and target fields to use for filtering custom conversion rates.
 
-**Note:** When you create a currency configuration, it applies those settings only to the FX Currency field that you add it to. An FX Currency configuration takes precedence over global [[r_SetArchiveRuleProcessingBehavior|system properties]] that you established in **[[system-localization-landing|System Localization]]** &gt; **All Properties.**
+**Note:** When you create a currency configuration, it applies those settings only to the FX Currency field that you add it to. An FX Currency configuration takes precedence over global system properties that you established in **System Localization** &gt; **All Properties.**
 
 To learn more about global currency defaults, see [Configuring FX Currency global settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-configure.md).
 
@@ -33,9 +33,9 @@ You can change the defaults at any time. Doing so doesn't affect existing values
 -   However, because the actual reference currency in the Currency Instance \[fx\_currency2\_instance\] table is accessible in an FX Currency field, you can use any script that performs this aggregation.
 
 -   **[Identify the FX Currency field and its display parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-display-parameters.md)**  
-Specify the table, and the field within the table \(for example, cost\), that the FX Currency configuration applies to. Then, select the decimal precision and currency display [[r_DirectJDBCProbeParameters|parameters]] for the field.
+Specify the table, and the field within the table \(for example, cost\), that the FX Currency configuration applies to. Then, select the decimal precision and currency display parameters for the field.
 -   **[Set the reference currency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-set-reference.md)**  
-[[fx-currency-set-reference|Set the reference currency]] for the designated FX Currency field. The ServiceNow AI Platform uses the reference currency to convert values entered into the FX Currency field into a common currency for report aggregation purposes.
+Set the reference currency for the designated FX Currency field. The ServiceNow AI Platform uses the reference currency to convert values entered into the FX Currency field into a common currency for report aggregation purposes.
 -   **[Specify the rate table and date source for currency conversions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-conv-rate-table-date-source.md)**  
 Identify the rate table and data source to use for currency conversions for the designated FX Currency field.
 -   **[Select the rate and target table fields used for filtering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-rate-target-table-fields.md)**  
@@ -54,11 +54,3 @@ Optionally specify the rate table and target table fields to use for filtering c
 
 [Update a Currency Instance record]()
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[fx-currency-set-reference|Set the reference currency]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure integration, FireEye Endpoint Security integration, Secur
 
 # FireEye Default Settings
 
-Following are the additional [[qradar-ibm-intg-settings|configuration settings]] after you complete the installation.
+Following are the additional configuration settings after you complete the installation.
 
 Once you complete the installation, you can find FireEye Default Settings module in the left navigation. It contains default settings for different FireEye functionalities.
 
@@ -38,6 +38,4 @@ Following are the additional configuration settings:
     -   **Sighting Search Timeout\(minutes\):** The Search will be stopped after the set time.
     \[Omitted image "fireeye-additional-settings01.png"\] Alt text: FireEye Default Settings extended page
 
-## Related
 
-- [[qradar-ibm-intg-settings|Configuration settings]]

@@ -14,10 +14,10 @@ breadcrumb: [HR Service Delivery Advanced Integration with Workday, Integration 
 
 # Using HR Service Delivery Advanced Integration with Workday
 
-Understand how you can use [[advanced-wd|HR Service Delivery Advanced Integration with Workday]] to process advanced employee information at ServiceNow.
+Understand how you can use HR Service Delivery Advanced Integration with Workday to process advanced employee information at ServiceNow.
 
 -   **[Time off request to Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/w-timeoff.md)**  
-You can submit a [[w-timeoff|time off request to Workday]] from [[employee-center-landing-page|Employee Center]].
+You can submit a time off request to Workday from Employee Center.
 -   **[Change legal name through Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/change-legal-na-awd.md)**  
 Change your legal name change through Virtual Agent chat in Employee Center.
 -   **[Publish the VA topic template for legal name change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/nlu-awd.md)**  
@@ -27,13 +27,7 @@ Report an issue with your Workday payslip from Employee Center.
 -   **[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/now-assist-va-awd.md)**  
 You can use the Now Assist Virtual Agent topics in Employee Center to place requests, for example, apply for a time off or update your details from the Workday system in Employee Center.
 -   **[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/conversational-agents-wd.md)**  
-Place requests to the Workday system using the [[hr-service-delivery|HR Service Delivery]] AI agent collection.
+Place requests to the Workday system using the HR Service Delivery AI agent collection.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md)
 
-## Related
-
-- [[advanced-wd|HR Service Delivery Advanced Integration with Workday]]
-- [[w-timeoff|Time off request to Workday]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]

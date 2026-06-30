@@ -14,14 +14,10 @@ breadcrumb: [Admin Center, Get started, Administer the ServiceNow AI Platform]
 
 # Admin Center reference
 
-Find all the miscellaneous information about [[admin-center-intro|Admin Center]] and its applications in the [[reference-email-admin|reference]] section.
+Find all the miscellaneous information about Admin Center and its applications in the reference section.
 
 -   **[Admin Center roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-roles.md)**  
 Admin Center is installed with these roles.
 
 **Parent Topic:**[Admin Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/admin-center-intro.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[reference-email-admin|Reference]]

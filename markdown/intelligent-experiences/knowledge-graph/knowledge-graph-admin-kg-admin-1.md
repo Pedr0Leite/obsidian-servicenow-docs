@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Graph roles, Reference for Knowledge Graph, Knowledge Gra
 
 # Knowledge Graph Admin \[kg\_admin\]
 
-This user can create and update [[knowledge-graph-landing|Knowledge Graph]] schema [[using-knowledge-graph-designer|using Knowledge Graph designer]].
+This user can create and update Knowledge Graph schema using Knowledge Graph designer.
 
 ## Contains Roles
 
@@ -32,7 +32,3 @@ None.
 
 Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[using-knowledge-graph-designer|Using Knowledge Graph Designer]]

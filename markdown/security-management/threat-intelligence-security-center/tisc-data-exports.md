@@ -14,7 +14,7 @@ breadcrumb: [Use, Threat Intelligence Security Center, Security Operations]
 
 # Working with Data Exports
 
-[[tisc-landing-page|Threat Intelligence Security Center]] supports manual export of [[c_Observables|observables]], [[indicator|indicators]], and cases in the recommended formats.
+Threat Intelligence Security Center supports manual export of observables, indicators, and cases in the recommended formats.
 
 This functionality enables you to easily extract the data for further analysis. The key features are:
 
@@ -23,8 +23,3 @@ This functionality enables you to easily extract the data for further analysis. 
 
 **Note:** Data exports functionality is currently supported only for observables, indicators, and case management. Within the case management, exports are limited to the Observable and Indicator lists under case artifacts.
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

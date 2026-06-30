@@ -14,11 +14,11 @@ breadcrumb: [Upgrading to Employee Center Pro, Admin configurations, Configuring
 
 # Install Employee Center Pro
 
-[[employee-center-pro-landing|Employee Center Pro]] extends the standard [[employee-center-landing-page|Employee Center]] capabilities and provides a platform for employees to communicate and be engaged.
+Employee Center Pro extends the standard Employee Center capabilities and provides a platform for employees to communicate and be engaged.
 
 ## Before you begin
 
-Employee Center Pro requires a separate subscription from the rest of the ServiceNow AI Platform. If you are already [[using-emp-center|using Employee Center]] and want to upgrade to Employee Center Pro, contact your ServiceNow account manager to purchase the subscription.
+Employee Center Pro requires a separate subscription from the rest of the ServiceNow AI Platform. If you are already using Employee Center and want to upgrade to Employee Center Pro, contact your ServiceNow account manager to purchase the subscription.
 
 **Note:** Before purchasing a subscription, you can evaluate the feature on a non-production instance without charge by requesting it from the Now Support Service Catalog. For more information, see [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md).
 
@@ -26,7 +26,7 @@ The application includes demo data and installs related ServiceNow® Store appli
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Install the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] \(sn\_hr\_integ\_fw\) plugin to enable Employee Center Pro to integrate with third-party systems. See [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md).
+Install the Enterprise Service Management Integrations Framework \(sn\_hr\_integ\_fw\) plugin to enable Employee Center Pro to integrate with third-party systems. See [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md).
 
 Role required: admin
 
@@ -90,7 +90,7 @@ For information on the roles, tables, and widgets installed with Employee Center
 
         Use Content Publishing to create different types of information you want to distribute to your employees. For more information to activate this plugin, see [Activate Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-content-delivery-plugin.md).
 
-    -   **[[ecpro-content-automation-analytics|Content Analytics]] \(sn\_cda\)**
+    -   **Content Analytics \(sn\_cda\)**
 
         Content Analytics helps you decide when content is stale, needs refreshing, and how engaged your employees are with your communication. For more information to activate this plugin, see [Activate Content Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-content-analytics-plugin.md).
 
@@ -106,10 +106,3 @@ For information on the roles, tables, and widgets installed with Employee Center
 
 [Components installed with Employee Center Pro]()
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]
-- [[using-emp-center|Using Employee Center]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[ecpro-content-automation-analytics|Content Analytics]]

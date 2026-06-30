@@ -24,7 +24,7 @@ Role required: admin, wm\_admin
 
 ## About this task
 
-Task cards provide a brief summary of the work order task in the [[dispatcher-activities|Dispatcher Workspace]]. By default, these details include the work order task number, short description, scheduled start, assignment group, location, and SLA value.
+Task cards provide a brief summary of the work order task in the Dispatcher Workspace. By default, these details include the work order task number, short description, scheduled start, assignment group, location, and SLA value.
 
 **Note:** If you add fields to the CSP that contains date or time information, then it shows in the Planned/ Actual times section in the CSP.
 
@@ -53,6 +53,4 @@ Task cards provide a brief summary of the work order task in the [[dispatcher-ac
 
 4.  Select **Submit**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

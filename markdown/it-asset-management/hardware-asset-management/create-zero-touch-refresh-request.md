@@ -14,7 +14,7 @@ breadcrumb: [Manage refresh of assets using Zero Touch Refresh, Use, Hardware As
 
 # Request a hardware asset refresh through Zero Touch Refresh
 
-Request to replace a hardware asset that you own with a new asset directly with the provider through [[zero-touch-asset-refresh|Zero Touch Refresh]].
+Request to replace a hardware asset that you own with a new asset directly with the provider through Zero Touch Refresh.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Asset
 
 </td><td>
 
-Hardware asset that you own that you want to refresh.If you [[select-daas-asset|select an asset]] that is not eligible for refresh, a message stating that approvals will be requested is displayed. An approval request is then automatically sent to the asset manager.
+Hardware asset that you own that you want to refresh.If you select an asset that is not eligible for refresh, a message stating that approvals will be requested is displayed. An approval request is then automatically sent to the asset manager.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Replacement model
 
 </td><td>
 
-Asset model with which you want to replace the hardware asset.The list shows the refresh [[c_Models|models]] based on the model of the hardware asset that you selected and the location of the asset. If the location of the asset isn't specified in the asset record, the location of the requester is considered.
+Asset model with which you want to replace the hardware asset.The list shows the refresh models based on the model of the hardware asset that you selected and the location of the asset. If the location of the asset isn't specified in the asset record, the location of the requester is considered.
 
 </td></tr></tbody>
 </table>4.  Determine where the replacement asset should be sent.
@@ -111,8 +111,3 @@ Your Zero Touch Refresh request is successfully submitted.
 
 [Acknowledge receipt of an asset through the Core UI]()
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[select-daas-asset|Select an asset]]
-- [[c_Models|Models]]

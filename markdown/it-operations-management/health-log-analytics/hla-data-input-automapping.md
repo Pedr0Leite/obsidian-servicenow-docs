@@ -19,7 +19,7 @@ By default, the HLA Engine tries to auto-map every incoming log line to the corr
 
 ## Auto-mapping incoming log lines
 
-[[hla-landing-page|Health Log Analytics]] auto-mapping assigns log samples and metadata to three tags: service instance, component, and source type. The service instance assignment is based on the service instance specified in the data input setup. The remaining tags are assigned automatically.
+Health Log Analytics auto-mapping assigns log samples and metadata to three tags: service instance, component, and source type. The service instance assignment is based on the service instance specified in the data input setup. The remaining tags are assigned automatically.
 
 For example, in the following example log line, Health Log Analytics uses the "source" field to find the component and source type.
 
@@ -74,6 +74,3 @@ If an extracted string of data is not descriptive enough or contains redundant t
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

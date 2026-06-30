@@ -28,7 +28,7 @@ Role required: wm\_ext\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Agents**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Agents**.
 
 2.  From the **Service Organization External Staffs** list, select the agent that you want to offboard.
 
@@ -48,6 +48,3 @@ After receiving the offboarding request:
 -   Email or SMS notifications are no longer sent to the agent.
 -   The agent is automatically removed from the additional manager role and responsibilities.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

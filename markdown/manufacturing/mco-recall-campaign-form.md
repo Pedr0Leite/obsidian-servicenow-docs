@@ -12,7 +12,7 @@ breadcrumb: [Repair form, Reference, Manufacturing Commercial Operations]
 
 # Recall campaign form
 
-The recall campaign form provides the original equipment manufacturer \(OEM\) with the required information to initiate a [[mco-rcl-clms|recall campaign]].
+The recall campaign form provides the original equipment manufacturer \(OEM\) with the required information to initiate a recall campaign.
 
 <table id="table_xbz_nb3_wfc"><thead><tr><th>
 
@@ -137,18 +137,12 @@ Recall campaign Work notes
 Additional notes, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[[mco-rc-my-campaigns|Create a campaign]]
+[Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md)
 
-[[mco-rc-all-campaigns|View All campaigns]]
+[View All campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-all-campaigns.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-rc-my-campaigns|Create a campaign]]
-- [[mco-rc-all-campaigns|View All campaigns]]
-- [[mco-rcl-clms|Recall campaign]]

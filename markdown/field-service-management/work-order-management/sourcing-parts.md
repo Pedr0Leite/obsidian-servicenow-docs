@@ -18,7 +18,7 @@ Get the parts you need to complete the tasks.
 
 If a field technician uses a part or performs a service while on the job, they can then enter the work into the Field Service Mobile app. Used products and performed services can be invoiced to customers based on the applicable price list or entitlement. Used products can be deducted from inventory levels either in the Field Service inventory management.
 
-Qualifiers, dispatchers, and agents can create, source [[c_PartRequirements|part requirements]] and requests. Dispatchers can create and [[c_TransferOrders|manage transfer orders]], and agents additionally can reserve, pick and use parts. In addition to get the parts to complete the tasks, you can also perform the following actions:
+Qualifiers, dispatchers, and agents can create, source part requirements and requests. Dispatchers can create and manage transfer orders, and agents additionally can reserve, pick and use parts. In addition to get the parts to complete the tasks, you can also perform the following actions:
 
 -   Transfer parts based on stock rules.
 -   Access the parts you have in your inventory
@@ -29,7 +29,3 @@ Qualifiers, dispatchers, and agents can create, source [[c_PartRequirements|part
 
 [Setting up inventory and asset management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/asset-management-for-field-service/setting-up-inventory-and-asset-management.md)
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]
-- [[c_TransferOrders|Manage transfer orders]]

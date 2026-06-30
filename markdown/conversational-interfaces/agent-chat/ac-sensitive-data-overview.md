@@ -15,7 +15,7 @@ breadcrumb: [Explore, Agent Chat, Conversational Interfaces]
 
 # Sensitive Data Handler
 
-During an [[ci-use-agent-chat|Agent Chat]] or [[virtual-agent-landing-page|Virtual Agent]] conversation, the agent or requester may accidentally enter sensitive data. The Sensitive Data Handler detects and masks the sensitive data so it is not viewed by the agent or requester. The Sensitive Data Handler can also collect sensitive data as part of a business process, such as user authentication.
+During an Agent Chat or Virtual Agent conversation, the agent or requester may accidentally enter sensitive data. The Sensitive Data Handler detects and masks the sensitive data so it is not viewed by the agent or requester. The Sensitive Data Handler can also collect sensitive data as part of a business process, such as user authentication.
 
 **Note:** This feature is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -161,8 +161,3 @@ Email
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]

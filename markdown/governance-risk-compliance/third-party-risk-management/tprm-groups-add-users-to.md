@@ -57,7 +57,7 @@ There’s an important practical result of including all users with a particular
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **[[Administration|Administration]]** &gt; **User Groups**.
+1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **Administration** &gt; **User Groups**.
 
     The list of user groups appears.
 
@@ -91,6 +91,3 @@ There’s an important practical result of including all users with a particular
 
 [TPRM and the Explicit Roles plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-and-explicit-roles-plugin.md)
 
-## Related
-
-- [[Administration|Administration]]

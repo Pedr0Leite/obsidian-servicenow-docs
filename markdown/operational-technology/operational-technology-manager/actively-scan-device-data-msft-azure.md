@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connector for Microsoft Defender for IoT \(Azure\), I
 
 # Import OT devices using the Standard mode of discovery
 
-Use the [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]] to import [[operational-technology-overview|Operational Technology]] \(OT\) devices discovered through the Standard mode of discovery from Microsoft Defender for IoT.
+Use the Service Graph Connector for Microsoft Defender for IoT \(Azure\) to import Operational Technology \(OT\) devices discovered through the Standard mode of discovery from Microsoft Defender for IoT.
 
 ## Before you begin
 
@@ -63,7 +63,3 @@ Once the Site Mappings record is created and you perform the device import, devi
 
 **Parent Topic:**[Service Graph Connector for Microsoft Defender for IoT \(Azure\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/integration-sgc-microsoft-defender-iot-azure.md)
 
-## Related
-
-- [[integration-sgc-microsoft-defender-iot-azure|Service Graph Connector for Microsoft Defender for IoT \(Azure\)]]
-- [[operational-technology-overview|Operational Technology]]

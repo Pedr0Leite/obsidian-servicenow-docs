@@ -14,9 +14,9 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # Manage workplace cases in calendar view in Workplace Central
 
-The Calendar view in [[workplace-central-feat|Workplace Central]] enables case managers and case agents to view and manage assigned cases in a color-coded, week-based layout. Cases are organized chronologically by date field and can be filtered, grouped, and navigated by time zone.
+The Calendar view in Workplace Central enables case managers and case agents to view and manage assigned cases in a color-coded, week-based layout. Cases are organized chronologically by date field and can be filtered, grouped, and navigated by time zone.
 
-The Calendar view for [[case-management-workspace|case management]] in Workplace Central provides a visual, date-based representation of cases. The view defaults to the current week and displays all cases that span the selected week. Case managers can assess workload distribution and take action without navigating away from the calendar.
+The Calendar view for case management in Workplace Central provides a visual, date-based representation of cases. The view defaults to the current week and displays all cases that span the selected week. Case managers can assess workload distribution and take action without navigating away from the calendar.
 
 To access Calendar view:
 
@@ -39,7 +39,7 @@ When a case agent or manager navigates to the Calendar view tab, the view defaul
 
 ## Color coding by priority
 
-Each case card on the calendar is color-coded based on the priority of the case. Case managers can visually assess urgency without opening individual records. A legend is available on the calendar view to [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] the color-to-priority mapping.
+Each case card on the calendar is color-coded based on the priority of the case. Case managers can visually assess urgency without opening individual records. A legend is available on the calendar view to reference the color-to-priority mapping.
 
 ## Grouping and unassigned cases handling
 
@@ -136,8 +136,3 @@ When Integrated Facilities Management \(IFM\) providers are configured, cases on
 
 [View Facility Assets in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Application Manager, Administering applications, Get sta
 
 # Domain separation and Application Manager
 
-Domain separation is unsupported for [[application-manager|Application Manager]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Application Manager. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -34,6 +34,3 @@ Application Manager enables instance-level administrators to install and manage 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[application-manager|Application Manager]]

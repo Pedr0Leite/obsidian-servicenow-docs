@@ -14,7 +14,7 @@ breadcrumb: [Working with Internal Intelligence Records, Observables, TISC Libra
 
 # View Internal Intelligence Records
 
-View the internal intelligence records collected from CMDB, [[sir-landing-page|Security Incident Response]] \(SIR\), [[vuln-landing-page|Vulnerability Response]] \(VR\) these records.
+View the internal intelligence records collected from CMDB, Security Incident Response \(SIR\), Vulnerability Response \(VR\) these records.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Internal Intelligence section provides the context from other applications on th
 
 Role required: sn\_sec\_tisc.analyst
 
-**Note:** Internal intelligence tab is only visible for [[c_Observables|observables]] and vulnerability objects.
+**Note:** Internal intelligence tab is only visible for observables and vulnerability objects.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Select any observable\(s\) record.
 
@@ -38,7 +38,7 @@ Role required: sn\_sec\_tisc.analyst
 
     1.  **Security Incident Response**: Displays all the incidents that are linked with the associated observables, and vulnerability items.
 
-        **Note:** The Observable\(s\) value must match between the SIR incident and also within the TISC only then the associated observables or [[indicator|indicators]] are listed under Security incident Response section. You can also link and unlink the records by searching the records within the source systems. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
+        **Note:** The Observable\(s\) value must match between the SIR incident and also within the TISC only then the associated observables or indicators are listed under Security incident Response section. You can also link and unlink the records by searching the records within the source systems. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
 
         -   Select any record to navigate and view the details in the source system. For example, Associated Observables in Security Incident Response to fetch the associated observable records.
         -   As part of the current release, following is the intelligence data that you can fetch from the source \(SIR\) records:
@@ -48,18 +48,10 @@ Role required: sn\_sec\_tisc.analyst
         -   Configuration Items
         -   Affected Services
         -   Affected Assets
-    3.  **Vulnerability Response**: Displays the [[vulnerabilities|vulnerabilities]] intelligence data.
+    3.  **Vulnerability Response**: Displays the vulnerabilities intelligence data.
 
         Vulnerability Entries: This option match the vulnerabilities and fetch the related records.
 
 
 **Parent Topic:**[Working with Internal Intelligence Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/working-with-ti-internal-intelligence-records.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[indicator|Indicators]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate, DevOps Change Velocity, IT Service Management]
 
 # Argo CD integration with DevOps Change Velocity
 
-Connect to your Argo CD instance to automate the deployment of [[dex-workspace-application-tab|applications]] from GitHub repositories.
+Connect to your Argo CD instance to automate the deployment of applications from GitHub repositories.
 
 ## Argo CD integration overview
 
@@ -26,7 +26,7 @@ You must activate the DevOps Integration with Argo CD plugin \(sn\_devops\_argoc
 
 Here is the workflow of how the continuous deployment process works through Argo CD in ServiceNow DevOps.
 
--   Create an Argo CD tool connection in ServiceNow [[devops-landing-page-new|DevOps Change Velocity]] using the Classic or Workspace UI.
+-   Create an Argo CD tool connection in ServiceNow DevOps Change Velocity using the Classic or Workspace UI.
 -   Create a webhook in Argo CD manually.
 -   Update your Config file in the GitHub repository for deployment. While updating the Config file, specify the change request number in the commit tag \(sn\_devops\_change-&lt;change request number&gt;\).
 
@@ -52,7 +52,3 @@ Connect your Argo CD instance using the Classic UI in DevOps Change Velocity.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

@@ -27,7 +27,7 @@ The instance tools icon \( \[Omitted image "icon-instance-tools.png"\] Alt text:
 -   **Crypto module selector**: Enables users with more than one cryptographic module to select a module when entering data. This picker displays instead of the encryption context selector when the Key Management Framework is enabled through the **com.glide.kmf.global** system property and the system property **glide\_encryption.cle\_replatforming\_with\_kmf sys\_prop** is set to **opt\_in**. For more information, see [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-cryptographic-module.md).
 
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
 ## Keyboard shortcuts for the scope selector menu
 
@@ -90,7 +90,3 @@ ctrl+alt+u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]

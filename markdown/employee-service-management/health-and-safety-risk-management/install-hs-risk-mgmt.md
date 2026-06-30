@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Risk Management, Health and Safety, Em
 
 # Install Health and Safety Risk Management
 
-You can install the [[hs-risk-management-landing-page|Health and Safety Risk Management]] application \(sn\_hs\_rm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Health and Safety Risk Management application \(sn\_hs\_rm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ For more information, see [Components installed with Health and Safety Risk Mana
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]

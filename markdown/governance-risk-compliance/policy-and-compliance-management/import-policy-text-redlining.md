@@ -40,7 +40,7 @@ You can import the content only when you’re the policy owner and the policy mu
 
     If you do not have Microsoft or Google Drive integration, then you can import the policy text as an attachment. You can import the content only when you’re the policy owner and the policy must also be in Draft state.
 
-6.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **GRC properties**.
+6.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **GRC properties**.
 
 7.  Select the option **None** in the **Select a file sharing service to host documents and attachments** system property list.
 
@@ -52,6 +52,4 @@ You can import the content only when you’re the policy owner and the policy mu
 
         The content of the file can be previewed in the **Policy text** field.
 
-## Related
 
-- [[Administration|Administration]]

@@ -22,7 +22,7 @@ The agents, tools, and triggers that are associated with the Universal Request R
 
 ## Prerequisites and setup
 
-Verify that the [[ur-landing-limitedaccess|Universal Request]] AI agent collection Plugin \(com.sn\_ur\_ai\_agents\) is installed.
+Verify that the Universal Request AI agent collection Plugin \(com.sn\_ur\_ai\_agents\) is installed.
 
 ## Accessing the Universal Request Router agentic workflow
 
@@ -59,7 +59,7 @@ Universal Request departmental ticket creator
 
 </td><td>
 
-Automates the routing of universal requests to appropriate departmental ticketing systems by analyzing department predictions and creating properly configured HR cases or IT incidents with all necessary [[field-mappings-sf|field mappings]] and [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] tracking.
+Automates the routing of universal requests to appropriate departmental ticketing systems by analyzing department predictions and creating properly configured HR cases or IT incidents with all necessary field mappings and reference tracking.
 
 </td></tr><tr><td>
 
@@ -90,8 +90,3 @@ This is an example of how the Universal Request Router agentic workflow automati
 
 **Parent Topic:**[Using agentic flows in Universal Request AI agent collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-ai-agent-collection.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[field-mappings-sf|Field mappings]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

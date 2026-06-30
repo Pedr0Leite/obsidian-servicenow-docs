@@ -80,10 +80,7 @@ Use the **Chart options** button to specify what information to analyze and how 
 The All Records table displays the date on which the compliance scores were collected, the score percentages, and the number of non-compliant settings. You can use this table as another option to analyze the security posture of your instance over time.
 
 -   **[Increase hardening compliance score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/increase-hardening-comp-score.md)**  
-Increase your hardening compliance score by ensuring that the [[security-hardening-settings|hardening settings]] are compliant with the system's recommendations.
+Increase your hardening compliance score by ensuring that the hardening settings are compliant with the system's recommendations.
 
 **Parent Topic:**[Security hardening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-hardening.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]

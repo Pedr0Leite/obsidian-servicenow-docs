@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  Select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon.\) in the left navigation bar.
 
@@ -40,6 +40,3 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 **Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

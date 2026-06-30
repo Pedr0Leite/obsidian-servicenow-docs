@@ -14,7 +14,7 @@ breadcrumb: [Explore, Risk Management, Governance, Risk, and Compliance]
 
 # GRC Risk Workspace
 
-Starting with version 13.0.5, the GRC Risk Workspace provides a new and simplified user experience with a single-pane view. In the workspace, you can perform the same functions as the classic environment, but with more intuitive functionality. These functions include [[risk-assessments|risk assessments]], risk events processing, and so on.
+Starting with version 13.0.5, the GRC Risk Workspace provides a new and simplified user experience with a single-pane view. In the workspace, you can perform the same functions as the classic environment, but with more intuitive functionality. These functions include risk assessments, risk events processing, and so on.
 
 The Risk Workspace is highly configurable and role-driven. Being role-driven means that the Risk Workspace is customized or unique for each user or role in your organization. In the workspace, different users with specific roles can perform different functions and have views that differ from each other. The workspace also reduces the number of apps that the users must install to utilize the Risk Management application. For example, if you want to manage your IT risks, you must install only one application. The workspace makes the management and installations of apps easier. To use the Risk Workspace, you must install and activate the **GRC: Risk Management workspace** \(com.sn\_risk\_workspace\) plugin.
 
@@ -28,7 +28,7 @@ The Home page offers the following benefits:
 -   Is designed for the specific responsibilities of each role.
 -   Shows the day-to-day tasks for each role depending on the user. For example, the Home page for an Operational Risk Manager differs from that of the Home page of the IT Risk Manager.
 -   Displays the key tasks assigned to you and your group. This makes it easier to get a complete view of your actionable tasks. For more information on the new user experience for Advanced Risk Assessments, see [Advanced Risk Assessments in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/ara-in-ws.md).
--   Shows the [[tprm-risk-profile-what-is|risk profile]] for the top entities. This consolidated view enables easier reporting.
+-   Shows the risk profile for the top entities. This consolidated view enables easier reporting.
 -   Enables customization to suit your needs. For example, you can configure your own color codes for heatmaps and reports. For more information, see [Operational risk heatmap for Advanced Risk Assessment in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-heatmaps-in-ws.md)
 -   Provides quick links for performing key tasks such as scheduling risk assessments, creating new key risk indicators, and so on.
 -   Provides data in a way that you can select and view the details.
@@ -51,13 +51,7 @@ Information technology or IT risk is any threat to your business data and critic
 -   **[User experience enhancements in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/enhancements-ws.md)**  
 In the new workspace, several enhancements have been made to ease the way you perform your daily tasks. The user experience enhancements are useful for new GRC users or users who do not have the complete experience of GRC.
 -   **[Advanced Risk Assessments in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/ara-in-ws.md)**  
-The Risk Workspace offers an enhanced and a simplified user experience for users to perform Advanced Risk Assessments. You can quickly access the risk assessments assigned to you or your group from the GRC [[risk-portal|Risk Portal]] or the Risk Workspace.
+The Risk Workspace offers an enhanced and a simplified user experience for users to perform Advanced Risk Assessments. You can quickly access the risk assessments assigned to you or your group from the GRC Risk Portal or the Risk Workspace.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[risk-portal|risk portal]]

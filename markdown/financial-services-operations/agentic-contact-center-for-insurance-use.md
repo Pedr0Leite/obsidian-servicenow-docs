@@ -13,27 +13,27 @@ breadcrumb: [Agentic Contact Center for Insurance, Insurance applications, Finan
 
 # Use Agentic Contact Center for Insurance
 
-Learn about the tasks insurance customer service representatives perform in [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] to manage interactions with AI-powered assistance, review customer insurance profiles, and generate customer insights.
+Learn about the tasks insurance customer service representatives perform in Agentic Contact Center for Insurance to manage interactions with AI-powered assistance, review customer insurance profiles, and generate customer insights.
 
 ## Overview of tasks in Agentic Contact Center for Insurance
 
 Insurance customer service representatives perform these tasks in Agentic Contact Center for Insurance:
 
--   [[work-on-insurance-interaction|Work on an insurance interaction in Agentic Contact Center for Insurance]]
+-   [Work on an insurance interaction in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-on-insurance-interaction.md)
 
     Manage insurance customer interactions in the Interaction page. Accept incoming calls and resolve issues with AI-powered assistance.
 
--   [[view-insurance-customer-profile|View an insurance customer profile in Agentic Contact Center for Insurance]]
+-   [View an insurance customer profile in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-insurance-customer-profile.md)
 
     Review a customer's AI-generated insurance profile, financial overview, and interaction history in the Customer 360 page to understand the customer's insurance relationship.
 
--   [[view-insurance-policies-coverages|View insurance policies and coverages in Agentic Contact Center for Insurance]]
+-   [View insurance policies and coverages in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-insurance-policies-coverages.md)
 
     Review a customer's policy portfolio and coverage details in the Customer 360 page to understand the customer's active and historical insurance products.
 
--   [[view-insurance-cases|View insurance cases in Agentic Contact Center for Insurance]]
+-   [View insurance cases in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-insurance-cases.md)
 
-    Review [[insurance-claims-flow|insurance claims]] and service cases for a customer in the Customer 360 page to understand the customer's open and recent service activity.
+    Review insurance claims and service cases for a customer in the Customer 360 page to understand the customer's open and recent service activity.
 
 -   [Generate customer insights in the Customer 360 page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/generate-insurance-customer-insights-customer-360.md)
 
@@ -43,11 +43,4 @@ Insurance customer service representatives perform these tasks in Agentic Contac
 
     Use the Insurance CSR support AI agent in the Interaction page to receive real-time retrieval support during calls with a customer.
 
-## Related
 
-- [[work-on-insurance-interaction|Work on an insurance interaction in Agentic Contact Center for Insurance]]
-- [[view-insurance-customer-profile|View an insurance customer profile in Agentic Contact Center for Insurance]]
-- [[view-insurance-policies-coverages|View insurance policies and coverages in Agentic Contact Center for Insurance]]
-- [[view-insurance-cases|View insurance cases in Agentic Contact Center for Insurance]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[insurance-claims-flow|Insurance claims]]

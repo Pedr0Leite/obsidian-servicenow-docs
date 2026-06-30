@@ -27,7 +27,7 @@ The Customer Service Document Template plugin adds the CS Document Template \(sn
 
 ## Extension points
 
-The Case Digests plugin includes the following extension [[gamification-components-points|points]]. Customers can use these extension points to customize the publish action.
+The Case Digests plugin includes the following extension points. Customers can use these extension points to customize the publish action.
 
 |Extension point|Description|
 |---------------|-----------|
@@ -35,6 +35,3 @@ The Case Digests plugin includes the following extension [[gamification-componen
 |sn\_csm\_case\_digest.PCRPublish|Use this extension point to alter the functionality of publishing a post case review document to a case.|
 |sn\_csm\_case\_digest.MajorPCRPublish|Use this extension point to alter the functionality of publishing a post case review document to a major case.|
 
-## Related
-
-- [[gamification-components-points|Points]]

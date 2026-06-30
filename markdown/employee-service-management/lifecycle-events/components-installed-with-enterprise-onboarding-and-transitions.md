@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events reference, Lifecycle Events, Employee Journey Mana
 
 # Components installed with Lifecycle Events
 
-Several types of components install with the activation of the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \[com.sn\_hr\_lifecycle\_events\] plugin, including tables and user roles.
+Several types of components install with the activation of the Human Resources Scoped App: Lifecycle Events \[com.sn\_hr\_lifecycle\_events\] plugin, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -53,7 +53,7 @@ Grants access to create, manage, and add users to groups within Lifecycle Events
 
 </td><td>
 
--   sn\_hr\_le.[[activity-lxp|activity]]\_set\_manager
+-   sn\_hr\_le.activity\_set\_manager
 -   skill\_admin
 -   sn\_hr\_le.case\_reader
 -   sn\_hr\_le.case\_writer
@@ -280,7 +280,3 @@ Tracks details about activities waiting to be triggered.
 
 **Parent Topic:**[Lifecycle Events reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/lifecycle-events-reference.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

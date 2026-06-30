@@ -14,7 +14,7 @@ breadcrumb: [Software reconciliation for compliance, Exploring Software Asset Ma
 
 # Software license compliance position
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] License Position report shows compliance details for each software model in a single list.
+The Software Asset Management License Position report shows compliance details for each software model in a single list.
 
 You can view and export the software model compliance list for your environment to understand your license position.
 
@@ -166,6 +166,3 @@ Software model name.
 
 **Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

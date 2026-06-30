@@ -14,12 +14,12 @@ breadcrumb: [Communities, Customer Service Management]
 
 # Configuring communities
 
-Configure various aspects of [[servicenow-communities|Communities]] based on the specific requirements of your organization.
+Configure various aspects of Communities based on the specific requirements of your organization.
 
 -   **[Community content types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/c_communities-content-types.md)**  
 There are seven supported content types: Answer, Blog, Comment, Document, Event, Question, and Video.
 -   **[Community feedback types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/feedback-types.md)**  
-There are two supported [[feedback-types|feedback types]]: Upvote and Helpful.
+There are two supported feedback types: Upvote and Helpful.
 -   **[Community access types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/access-types.md)**  
 Access types are used to control access to a forum or a content type.
 -   **[Platform Analytics Solutions for Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-content-pack.md)**  
@@ -49,24 +49,15 @@ Community and forum administrators can give users and groups of users different 
 -   **[Configure the community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-community-profile.md)**  
 Set up the community profile by configuring profile fields and deciding which fields to display in the personal information section of the community profile.
 -   **[Create community Terms and Conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-terms-conditions.md)**  
-Community members must follow the community [[gamification-components-rules|rules]] of conduct. [[create-terms-conditions|Create community Terms and Conditions]] and them share to build a successful community. Every community user must review and accept the Terms and Conditions before contributing to a community.
+Community members must follow the community rules of conduct. Create community Terms and Conditions and them share to build a successful community. Every community user must review and accept the Terms and Conditions before contributing to a community.
 -   **[Enable users to self-register to a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-registration.md)**  
 Once users have accessed public forums and decided they want to join the community, they can self-register to the community. External user registration provides a way of validating users and requires them to accept the community Terms and Conditions.
 -   **[Moderate a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)**  
 Community moderators can manage content quality by reducing the inappropriate content that is posted on the community.
 -   **[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)**  
-Users with the [[communities-gamification|gamification]] administrator role can create the rules and other entities that award [[gamification-components-points|points]] to users based on their participation within the community.
+Users with the gamification administrator role can create the rules and other entities that award points to users based on their participation within the community.
 -   **[Community Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-service-portal.md)**  
-The [[community-service-portal|Community Service Portal]] is a web interface that is based on the ServiceNow Service Portal application.
+The Community Service Portal is a web interface that is based on the ServiceNow Service Portal application.
 
 **Parent Topic:**[Communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/servicenow-communities.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[feedback-types|feedback types]]
-- [[gamification-components-rules|Rules]]
-- [[create-terms-conditions|Create community Terms and Conditions]]
-- [[communities-gamification|Gamification]]
-- [[gamification-components-points|Points]]
-- [[community-service-portal|Community Service Portal]]

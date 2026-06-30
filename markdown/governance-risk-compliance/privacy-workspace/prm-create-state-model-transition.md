@@ -43,10 +43,7 @@ Role required: sn\_privacy\_case.privacy\_case\_admin
 
 
 -   **[Define the workflow states for a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/define-pcm-workflow-states.md)**  
-[[define-pcm-workflow-states|Define the workflow states for a privacy case]] that govern the lifecycle of the case.
+Define the workflow states for a privacy case that govern the lifecycle of the case.
 
 **Parent Topic:**[Configuring Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-privacy-case-management.md)
 
-## Related
-
-- [[define-pcm-workflow-states|Define the workflow states for a privacy case]]

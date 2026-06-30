@@ -12,7 +12,7 @@ breadcrumb: [Mobile App Builder, Building tools, Building mobile apps, Mobile Pl
 
 # Access Mobile App Builder and using the application scope selection screen
 
-Access the [[mab-concept|Mobile App Builder]] to start the process of creating workflows for your mobile apps.
+Access the Mobile App Builder to start the process of creating workflows for your mobile apps.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Select **Go to product documentation** to get information about Mobile App Build
 
 </td></tr><tr><td id="d39778e130">
 
-**Access [[mobile-card-builder|Mobile Card Builder]]**
+**Access Mobile Card Builder**
 
 </td><td>
 
@@ -61,14 +61,10 @@ Select **Open Mobile Card Builder** to customize the appearance of the mobile ca
 </td><td>
 
 Choose an existing application scope to access its mobile records. The list displays all application scopes that you are permitted to edit.1.  Find the application scope you need by either entering text in the **Search application scopes** field or select the **Name** column header.
-2.  Select an application scope name to open the [[mab-menu-screen|Mobile App Builder categories home screen]].
+2.  Select an application scope name to open the Mobile App Builder categories home screen.
 
 
 </td></tr></tbody>
 </table>    \[Omitted image "mab-home-page.png"\] Alt text: Application scope selection screen of the Mobile App Builder.
 
-## Related
 
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

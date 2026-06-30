@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Google Cloud Platform Linux Out Of Box Catalog items
 
-[[csc-home|Cloud Services Catalog]] Linux VM with [[acc-landing-page|Agent Client Collector]] \(ACC\), up to 10 additional disks or secure Linux deployment.
+Cloud Services Catalog Linux VM with Agent Client Collector \(ACC\), up to 10 additional disks or secure Linux deployment.
 
 This is a fully functional sample catalog item that can be used to request a Linux instance of any instance type from Google Cloud Platform.
 
@@ -66,7 +66,3 @@ Google Cloud Platform Linux Out Of Box catalog items permissions
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[acc-landing-page|Agent Client Collector]]

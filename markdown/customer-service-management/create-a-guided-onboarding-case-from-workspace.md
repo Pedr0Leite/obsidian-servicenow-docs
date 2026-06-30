@@ -12,7 +12,7 @@ breadcrumb: [Using Playbooks for Portals, Customer communication, Use, Customer 
 
 # Creating a guided onboarding case from CSM Configurable Workspace
 
-An agent can create a case for a contact or a consumer when the contact or consumer reaches out through a phone call, email, or chat from the [[csm-workspaces-configure|CSM Configurable Workspace]].
+An agent can create a case for a contact or a consumer when the contact or consumer reaches out through a phone call, email, or chat from the CSM Configurable Workspace.
 
 ## Overview
 
@@ -20,7 +20,7 @@ If you're a customer accessing a playbook, you can track your progress in the su
 
 ## Creating a case
 
-Let's see how an agent creates a case from [[playbooks-for-portals|Playbooks for Portals]]. The agent does the following actions:
+Let's see how an agent creates a case from Playbooks for Portals. The agent does the following actions:
 
 1.  Creates a case on behalf of the customer.
 2.  Collects the basic information about the customer to start the case.
@@ -31,7 +31,7 @@ Let's see how an agent creates a case from [[playbooks-for-portals|Playbooks for
 **Note:**
 
 -   The case status changes from Draft to New when it’s submitted. The agent must review and choose whether to assign the case to themselves. If the case is assigned to another agent, the new agent must review the context of the case before assigning or accepting the case. The case status changes from New to Open when the case is assigned to an agent.
--   If a case is created by an agent, a customer can later find and view the case from the portal for updates by navigating to **My [[migration-lists|Lists]]** &gt; **My Draft Cases**.
+-   If a case is created by an agent, a customer can later find and view the case from the portal for updates by navigating to **My Lists** &gt; **My Draft Cases**.
 
 
 The following diagram shows how an agent creates a case.
@@ -55,14 +55,7 @@ The following diagram shows how an agent processes a case.
 **Related topics**  
 
 
-[[create-an-onboarding-request-from-catalog|Create an onboarding request from the service catalog]]
+[Create an onboarding request from the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-request-from-catalog.md)
 
-[[create-an-onboarding-case-with-portal-playbook|Creating an onboarding case with Playbooks for Portals]]
+[Creating an onboarding case with Playbooks for Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-case-with-portal-playbook.md)
 
-## Related
-
-- [[create-an-onboarding-request-from-catalog|Create an onboarding request from the service catalog]]
-- [[create-an-onboarding-case-with-portal-playbook|Creating an onboarding case with Playbooks for Portals]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[playbooks-for-portals|Playbooks for Portals]]
-- [[migration-lists|Lists]]

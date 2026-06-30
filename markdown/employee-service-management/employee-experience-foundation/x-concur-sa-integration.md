@@ -14,7 +14,7 @@ breadcrumb: [Approval hub integrations, Approvals hub, Setup task management, Co
 
 # Approvals hub integration with SAP Concur
 
-Enable easier access to all active approvals of external business applications such as SAP Concur from [[employee-center-pro-landing|Employee Center Pro]]. The SAP Concur spoke is built by Bristlecone, Inc.
+Enable easier access to all active approvals of external business applications such as SAP Concur from Employee Center Pro. The SAP Concur spoke is built by Bristlecone, Inc.
 
 Using Approvals hub integration with SAP Concur, you can perform the following actions from Employee Center Pro:
 
@@ -30,11 +30,11 @@ Remember the following information before getting started with the integration:
     -   Employee Center Pro
     -   SAP Concur spoke 2.0.0 and above **\(sn\_sap\_concur\_spok\)**
     -   Approvals hub integration with SAP Concur plugin **sn\_ex\_cnc**
-    -   [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
+    -   Enterprise Service Management Integrations Framework
 
         **Note:** This framework is installed with Employee Center Pro.
 
--   Approvals hub integration with SAP Concur is supported with [[employee-center-landing-page|Employee Center]] Utah patch 3 as the minimum supported release for the functionality to work on Utah.
+-   Approvals hub integration with SAP Concur is supported with Employee Center Utah patch 3 as the minimum supported release for the functionality to work on Utah.
 -   Understand how Enterprise Service Management Integrations Framework works, see [Using Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-integrations-framework.md) and [View tasks of a third-party system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/display-todos.md)
 -   Integrate [Approvals hub integration with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/x-concur-sa-integration.md) with ServiceNow, create credential records, and create connection records as explained in [SAP Concur Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/sap-concur-spoke.md).
 -   Understand the basics of [SAP Concur](https://api.sap.com/products/SAPConcur/overview) integrations and business processes.
@@ -48,7 +48,7 @@ By using the Employee Center Pro approvals experience, you can do the following 
 -   Sync the SAP Concur expense reports to the **My tasks** page on Employee Center Pro.
 -   View and manage the expense reports, expense line items, receipts, itemizations, and comments.
 -   Enable approvers to perform quick actions such as approve or send back a request with comments.
--   Leverage Concur user flows and approval flows from [[approval-hub-intro|approvals hub]].
+-   Leverage Concur user flows and approval flows from approvals hub.
 
 -   **[Manage approvals from SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/x-concur-approvals.md)**  
 As an administrator, you can sync, view, track, and fulfill the requests from other business applications such as SAP Concur from a unified Employee Center Pro location.
@@ -59,9 +59,3 @@ Using the default To-dos configuration, you can provide the approvers with more 
 
 **Parent Topic:**[Approval hub integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approvals-int-concept.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[employee-center-landing-page|Employee Center]]
-- [[approval-hub-intro|Approvals hub]]

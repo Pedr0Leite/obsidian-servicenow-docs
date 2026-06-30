@@ -15,7 +15,7 @@ breadcrumb: [Audit entry for GRC objects, Exploring Audit Management, Audit Mana
 
 # Create an audit entry record
 
-Create [[audit-entry-overview|audit entry]] records to track third-line audit objects in the [[audit-management-overview-ws|Audit Workspace]]. Audit entry records are read-only after the first save and are hidden from second-line users.
+Create audit entry records to track third-line audit objects in the Audit Workspace. Audit entry records are read-only after the first save and are hidden from second-line users.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: sn\_audit\_ws.third\_line\_manager
 
 4.  Select **New**.
 
-    The **Audit entry** check box is selected by default for all new records. \[Omitted image "audit-entry-checkbox.png"\] Alt text: [[tprm-risk-record-form|Create new Risk form]] in Audit Workspace with the Audit entry check box selected.
+    The **Audit entry** check box is selected by default for all new records. \[Omitted image "audit-entry-checkbox.png"\] Alt text: Create new Risk form in Audit Workspace with the Audit entry check box selected.
 
 5.  Clear the **Audit entry** check box before saving to create a second-line record instead.
 
@@ -56,8 +56,3 @@ Third-line records are hidden from second-line users. Third-line risks and their
 
 **Parent Topic:**[Audit entry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-entry-overview.md)
 
-## Related
-
-- [[audit-entry-overview|Audit entry]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[tprm-risk-record-form|Create new risk form]]

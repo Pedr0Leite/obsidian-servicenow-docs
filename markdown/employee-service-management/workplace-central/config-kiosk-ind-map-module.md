@@ -22,9 +22,9 @@ Role required: sn\_wsd\_kiosk.admin and sn\_wsd\_central.workspace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
-2.  Select the [[kiosk-indoor-mapping|Kiosk Indoor Mapping]] icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\).
+2.  Select the Kiosk Indoor Mapping icon \(\[Omitted image "kiosk-indoor-mapping-icon.png"\] Alt text: Kiosk Indoor Mapping icon.\).
 
 3.  On the Kiosk Map Configurations list, select the record that you want to configure.
 
@@ -109,7 +109,3 @@ Order of preference of the kiosk module.
 
 **Next topic:**[Manage Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-central.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]

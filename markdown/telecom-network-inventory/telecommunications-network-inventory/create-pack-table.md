@@ -14,7 +14,7 @@ breadcrumb: [Attribute pack table, Configure, Telecommunications Network Invento
 
 # Create table
 
-Create an attribute pack table with the attributes that you define in the [[telecom-network-inventory|Telecommunications Network Inventory]] application so that you can use these attributes in the CI record.
+Create an attribute pack table with the attributes that you define in the Telecommunications Network Inventory application so that you can use these attributes in the CI record.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ To use the pack table in inventory forms, you must configure it to map with the 
 
 [Configure an attribute pack table against a configuration item]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

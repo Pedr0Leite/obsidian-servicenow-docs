@@ -241,7 +241,7 @@ Additional comments
 
 </td><td>
 
-Customer-viewable comments added to the [[csm-config-ws-activity-stream|activity stream]].
+Customer-viewable comments added to the activity stream.
 
 </td></tr><tr><td>
 
@@ -253,7 +253,3 @@ Comments and information added to the activity stream that are available only to
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

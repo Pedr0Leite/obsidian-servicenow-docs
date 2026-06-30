@@ -31,9 +31,9 @@ While you can select any table and configure the related lists for that table, a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Record View Configuration**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Record View Configuration**.
 
-2.  Select **[[risk-workspace|Risk workspace]] configuration**.
+2.  Select **Risk workspace configuration**.
 
 3.  In the Table configurations related list, select **Metric Definition**.
 
@@ -182,8 +182,3 @@ The following figure shows grouped related lists.\[Omitted image "related-list-g
 
 **Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-mgmt.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[risk-workspace|risk workspace]]

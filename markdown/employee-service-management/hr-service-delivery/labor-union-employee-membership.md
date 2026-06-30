@@ -14,7 +14,7 @@ breadcrumb: [Components installed with Labor Unions, Labor unions, HR Administra
 
 # Create employee union memberships
 
-Use Employee Union Membership to input and track your union employees. Creating union memberships allows you to gain visibility into employee membership through an [[c_HRProfileRecords|HR profile]] and target content or tasks through [[hr-criteria|HR criteria]].
+Use Employee Union Membership to input and track your union employees. Creating union memberships allows you to gain visibility into employee membership through an HR profile and target content or tasks through HR criteria.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: HR profile writer \[sn\_hr\_core.profile\_reader\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[labor-unions|Labor Unions]]** &gt; **Employee Union Membership**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Labor Unions** &gt; **Employee Union Membership**.
 
 2.  Select **New**.
 
@@ -108,9 +108,3 @@ The employee's job code within your company.
 
 **Parent Topic:**[Components installed with Labor Unions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-setting-up.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-criteria|HR criteria]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[labor-unions|Labor unions]]

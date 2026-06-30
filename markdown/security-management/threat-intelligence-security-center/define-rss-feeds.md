@@ -14,7 +14,7 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # View RSS Feeds
 
-A [[threat-intel-landing-page|threat intelligence]] feed is a real-time, continuous data stream that gathers information related to cyber risks or threats. RSS Feeds provides an easy way to stay up to date with your favorite security blogs or latest cyber security news.
+A threat intelligence feed is a real-time, continuous data stream that gathers information related to cyber risks or threats. RSS Feeds provides an easy way to stay up to date with your favorite security blogs or latest cyber security news.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the **Threat Intel Library** icon on the workspace.
 
@@ -124,7 +124,7 @@ For example, if the expiry period is set to 30 days, each ingested record receiv
 
         A confirmation displays indicating that the tags &amp; taxonomy values are applied successfully.
 
-    **RSS Feed Actions from the list view: [[add-to-case|Add to Case]]**
+    **RSS Feed Actions from the list view: Add to Case**
 
     -   Select any RSS feed from the list view.
     -   Select **Add to Case** to associate the RSS feed record with a case.
@@ -150,34 +150,34 @@ For example, if the expiry period is set to 30 days, each ingested record receiv
 
 ## What to do next
 
-Use the **Related Records** section to view the detailed information about objects associated with the RSS feeds. Select any of related list to [[threat-intelligence-security-center-overview|explore]] the associated records.
+Use the **Related Records** section to view the detailed information about objects associated with the RSS feeds. Select any of related list to explore the associated records.
 
 |Related Record|Description|
 |--------------|-----------|
 |MITRE Techniques|Lists the MITRE techniques related to RSS feeds.|
-|Attack Patterns|List of [[attack-patterns|attack patterns]] that are related to RSS feeds.|
-|Campaigns|List the [[threat-intelligence-campaigns|campaigns]] that are related to RSS feeds.|
-|Courses of Action|Lists the [[course-of-action|courses of action]] related to RSS feeds.|
-|Data Sources|Lists the [[data-sources|data sources]] related to RSS feeds.|
+|Attack Patterns|List of attack patterns that are related to RSS feeds.|
+|Campaigns|List the campaigns that are related to RSS feeds.|
+|Courses of Action|Lists the courses of action related to RSS feeds.|
+|Data Sources|Lists the data sources related to RSS feeds.|
 |Data Components|Lists the data components related to RSS feeds.|
-|Identities|Lists the [[threat-intelligence-identities|identities]] that are related to RSS feeds.|
-|Indicators|Lists the [[indicator|indicators]] that are related to RSS feeds.|
-|Infrastructure|List the [[threat-intelligence-infrastructure|Infrastructure]] such as systems, software services, and any associated physical or virtual resources that are related to RSS feeds.|
+|Identities|Lists the identities that are related to RSS feeds.|
+|Indicators|Lists the indicators that are related to RSS feeds.|
+|Infrastructure|List the Infrastructure such as systems, software services, and any associated physical or virtual resources that are related to RSS feeds.|
 |Intrusion Set|List the intrusion sets such as a set of adversarial behaviors and resources with common properties that are related to RSS feeds.|
-|Locations|Lists the geographical [[threat-intelligence-locations|locations]] associated to RSS feeds.|
-|Malware|List the [[threat-intelligence-malware|malware]] source records that are related to RSS feeds.|
+|Locations|Lists the geographical locations associated to RSS feeds.|
+|Malware|List the malware source records that are related to RSS feeds.|
 |Malware Analysis|Lists the metadata and results of a particular static or dynamic analysis performed on a malware instance associated to RSS feeds.|
-|Observables|List of [[c_Observables|observables]] related to RSS feeds.|
-|Object Sightings|List of object [[indicator-sightings|sightings]] related to RSS feeds.|
-|Observed Data|Lists the [[threat-intelligence-observed-data|observed data]] that are cyber security related entities such as files, systems, and networks and associated with RSS feeds.|
-|Threat Actors|List the [[threat-actors|threat actors]] that are related to RSS feeds.|
+|Observables|List of observables related to RSS feeds.|
+|Object Sightings|List of object sightings related to RSS feeds.|
+|Observed Data|Lists the observed data that are cyber security related entities such as files, systems, and networks and associated with RSS feeds.|
+|Threat Actors|List the threat actors that are related to RSS feeds.|
 |Threat Events|List the threat events that are related to RSS feeds.|
-|Threat Groupings|Lists the [[threat-groupings|threat groupings]] as objects that have a shared context with RSS feeds.|
-|Threat Notes|Lists the [[threat-intelligence-threat-notes|threat notes]] that convey information to provide further context or analysis that are associated with RSS feeds.|
-|Threat Opinions|Lists the [[threat-opinions|threat opinions]] as an assessment of the accuracy of the information that are associated with RSS feeds.|
-|Threat Reports|Lists the [[threat-reports|threat reports]] associated with RSS feeds.|
-|Tools|Lists the [[tools|tools]] associated with RSS feeds.|
-|Vulnerabilities|Lists the vulnerability records that centralize identification details, [[stix-relationships|relationships]], and remediation tracking associated with RSS feeds.|
+|Threat Groupings|Lists the threat groupings as objects that have a shared context with RSS feeds.|
+|Threat Notes|Lists the threat notes that convey information to provide further context or analysis that are associated with RSS feeds.|
+|Threat Opinions|Lists the threat opinions as an assessment of the accuracy of the information that are associated with RSS feeds.|
+|Threat Reports|Lists the threat reports associated with RSS feeds.|
+|Tools|Lists the tools associated with RSS feeds.|
+|Vulnerabilities|Lists the vulnerability records that centralize identification details, relationships, and remediation tracking associated with RSS feeds.|
 |Related Cases|Lists the related case tasks that are associated with RSS feeds.|
 |Related Case Tasks|Lists the related canvases that are associated with RSS feeds.|
 
@@ -218,28 +218,3 @@ Use **Link** and **Unlink** to associate or remove associations between existing
 
 [Create Remediations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-remediation-record.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[add-to-case|Add to Case]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[course-of-action|Courses of Action]]
-- [[data-sources|Data Sources]]
-- [[threat-intelligence-identities|Identities]]
-- [[indicator|Indicators]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[threat-intelligence-observed-data|Observed data]]
-- [[threat-actors|Threat actors]]
-- [[threat-groupings|Threat groupings]]
-- [[threat-intelligence-threat-notes|Threat notes]]
-- [[threat-opinions|Threat opinions]]
-- [[threat-reports|Threat reports]]
-- [[tools|Tools]]
-- [[stix-relationships|Relationships]]

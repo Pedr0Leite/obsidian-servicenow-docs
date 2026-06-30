@@ -24,7 +24,7 @@ Select investment currency as an additional currency, which can be different fro
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and select a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and select a project.
 
 2.  Select the **Financials** tab.
 
@@ -39,6 +39,3 @@ Select investment currency as an additional currency, which can be different fro
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

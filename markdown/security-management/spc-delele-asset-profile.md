@@ -20,7 +20,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[spc-landing|Security Posture Control]] Workspace** &gt; **Asset profiles**.
+1.  Navigate to **All** &gt; **Security Posture Control Workspace** &gt; **Asset profiles**.
 
 2.  Select a profile record.
 
@@ -36,6 +36,4 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
     This is a hard delete. The conditions of the asset profile are removed from any policies and are not included in the next nightly policy audits to get the latest results.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]

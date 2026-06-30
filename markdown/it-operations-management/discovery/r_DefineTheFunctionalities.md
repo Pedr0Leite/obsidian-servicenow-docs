@@ -14,7 +14,7 @@ breadcrumb: [Discovery behaviors, Advanced Discovery configuration, Configuring 
 
 # Examples of Discovery behavior functionalities
 
-This example of a [[r-discovery|Discovery]] behavior requires three functionalities for the behavior.
+This example of a Discovery behavior requires three functionalities for the behavior.
 
 We will create three functionalities for this Behavior: one MID Server to scan Domain A for Windows devices only; a second functionality for the same MID Server to scan for all SSH and SNMP devices; and a third functionality that names a second MID Server to scan Domain B for Windows devices. The rationale for this is as follows:
 
@@ -173,6 +173,3 @@ Be sure to enable the criteria by selecting this check box \(true\).
 
 [Access an ACL-protected SNMP device]()
 
-## Related
-
-- [[r-discovery|Discovery]]

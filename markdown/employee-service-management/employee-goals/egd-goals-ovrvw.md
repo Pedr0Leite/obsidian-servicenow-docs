@@ -14,9 +14,9 @@ breadcrumb: [Exploring Employee Goals, Employee Goals, Growth Experiences, HR Se
 
 # Employee Goals overview
 
-The [[egd-goals-landing|Employee Goals]] application integrates with the Talent Development suite of applications to enhance the professional growth of employees in your organization. This application enables employees to access and monitor their career goals via specific applications in the Talent Development suite.
+The Employee Goals application integrates with the Talent Development suite of applications to enhance the professional growth of employees in your organization. This application enables employees to access and monitor their career goals via specific applications in the Talent Development suite.
 
-When the Employee Goals app is installed, you can use certain applications in the Talent Development suite to view and track goals from the [[employee-center-landing-page|Employee Center]]. Employees continuously seek growth in their careers, and development often begins with a goal to support their professional endeavors. Goals provide employees with a sense of direction and focus, and keep employees motivated by fostering a culture of accountability. The Employee Goals app improves the employee and manager experience associated with using the Talent Development suite of apps by incorporating goals into the employee's career path. Its features provide the following advantages from which your employees and organization can benefit significantly:
+When the Employee Goals app is installed, you can use certain applications in the Talent Development suite to view and track goals from the Employee Center. Employees continuously seek growth in their careers, and development often begins with a goal to support their professional endeavors. Goals provide employees with a sense of direction and focus, and keep employees motivated by fostering a culture of accountability. The Employee Goals app improves the employee and manager experience associated with using the Talent Development suite of apps by incorporating goals into the employee's career path. Its features provide the following advantages from which your employees and organization can benefit significantly:
 
 -   Establishes the prioritization of work.
 -   Assists employees to enhance their decision-making skills.
@@ -53,20 +53,14 @@ The Employee Goals app imports the data from your HCM system to the Employee Goa
     -   Date created
     -   Due date
     -   Start date
--   **[[egd-activities-conversations-module|Career Conversations]]**
+-   **Career Conversations**
 
     Employees can view their goals using the Career Conversations app. The Career Conversations app provides an accordion for goals in the contextual side panel that appears during a growth conversation. When you expand the Goals accordion, a card for each goal appears.
 
-    If an employee shares a goal with their manager, the manager can view the corresponding goal in the contextual side panel during a growth conversation. The goals that appear in the Career Conversations app help the employee and manager initiate a conversation based on a goal that the employee wants to share with their manager. This integration creates convenience for your employees and managers by enabling them to view and [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] goals through a single interface during one-on-one conversations that revolve around the employee's growth and development.
+    If an employee shares a goal with their manager, the manager can view the corresponding goal in the contextual side panel during a growth conversation. The goals that appear in the Career Conversations app help the employee and manager initiate a conversation based on a goal that the employee wants to share with their manager. This integration creates convenience for your employees and managers by enabling them to view and reference goals through a single interface during one-on-one conversations that revolve around the employee's growth and development.
 
 -   **Growth Plans**
 
-    Employees can [[egd-create-growth-plan|create a growth plan]] based on an active goal. The Growth plans app displays the three most recent goals when an employee initiates the growth plan creation process. Similar to the process of creating a growth plan that originates from an aspiration or conversation, employees can select a goal that they want to develop into a growth plan. The Employee Goals app enables employees to use a goal as context to start a growth plan.
+    Employees can create a growth plan based on an active goal. The Growth plans app displays the three most recent goals when an employee initiates the growth plan creation process. Similar to the process of creating a growth plan that originates from an aspiration or conversation, employees can select a goal that they want to develop into a growth plan. The Employee Goals app enables employees to use a goal as context to start a growth plan.
 
-## Related
 
-- [[egd-goals-landing|Employee Goals]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[egd-create-growth-plan|Create a growth plan]]

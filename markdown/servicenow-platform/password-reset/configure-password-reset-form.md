@@ -44,7 +44,7 @@ Enable security score notification
 
 Send security score notifications to process owners.If this field is selected, a weekly scheduled job sends emails containing the security score for all the active public processes.
 
-**Note:** The [[email|email]] notifications aren't sent for the service-desk processes and the processes for which only Change Password is configured.
+**Note:** The email notifications aren't sent for the service-desk processes and the processes for which only Change Password is configured.
 
 </td></tr><tr><td>
 
@@ -52,10 +52,10 @@ Process owner
 
 </td><td>
 
-Designate one or more users as owners for the process you're creating. You can add only the users with the [[password-reset-landing-page|password reset]] admin role to this field.If you select **Enable security score notification**, the Process owner field becomes a required field.
+Designate one or more users as owners for the process you're creating. You can add only the users with the password reset admin role to this field.If you select **Enable security score notification**, the Process owner field becomes a required field.
 
 </td></tr></tbody>
-</table>**Note:** The Process Strength Configuration section is displayed only when you select the **Public access** [[check-box|check box]] in the **Password Reset Details** tab.
+</table>**Note:** The Process Strength Configuration section is displayed only when you select the **Public access** check box in the **Password Reset Details** tab.
 
 <table id="table_qmr_mpk_sr"><thead><tr><th>
 
@@ -73,7 +73,7 @@ Public access
 
 The check box is available only when **Password reset** is selected.
 
- -   Select the check box to enable a [[self-service-landing|self-service]] process with public user access to the Password Reset or Password Change form through a URL.
+ -   Select the check box to enable a self-service process with public user access to the Password Reset or Password Change form through a URL.
 -   Clear the check box to define a Service desk-assisted process in which only service desk agents can reset a password at the request of a user.
 
 </td></tr><tr><td>
@@ -106,7 +106,7 @@ The check box is available only when **Public access** is selected.
 
 Select the check box to display a CAPTCHA on the user identification page. The Password Reset application uses Google reCAPTCHA as the default CAPTCHA service. See [Configure Google reCAPTCHA for the password reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_ConfigureGoogleRecaptcha.md).
 
- **Note:** The [[win-password-reset-overview|Password Reset Windows Application]] uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA.
+ **Note:** The Password Reset Windows Application uses the base-system CAPTCHA service even if the Password Reset application is configured to use Google reCAPTCHA.
 
  Because on-premises instances do not have access to the internet, the instances cannot use the Google reCAPTCHA service. Set the **password\_reset.captcha.google.enabled** system property to **false** for on-premises instances.
 
@@ -272,10 +272,3 @@ ServiceNow user groups to associate with the Password Reset process.The Groups r
 
 [Configure your Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md)
 
-## Related
-
-- [[email|Email]]
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]
-- [[self-service-landing|Self-service]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

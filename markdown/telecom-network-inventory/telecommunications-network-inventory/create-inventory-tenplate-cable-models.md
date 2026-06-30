@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Create an inventory template for cable models
 
-[[create-inventory-templates|Create an inventory template]] for the cable models in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this template to instantiate a cable record and related stand records.
+Create an inventory template for the cable models in the Telecommunications Network Inventory application. You can use this template to instantiate a cable record and related stand records.
 
 ## Use case
 
@@ -32,7 +32,7 @@ The default naming pattern of a strand record is "Strand-+position". You can edi
 
 ## What's next
 
-Use a cable template to instantiate cable and strand records using [[telecommunications-circuit-design-resource-assignment|design and assign]]. To learn more, see [Create a cable record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-cable-record-using-design-assign.md).
+Use a cable template to instantiate cable and strand records using design and assign. To learn more, see [Create a cable record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-cable-record-using-design-assign.md).
 
 **Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
 
@@ -49,8 +49,3 @@ Use a cable template to instantiate cable and strand records using [[telecommuni
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[create-inventory-templates|Create an inventory template]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

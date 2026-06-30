@@ -15,7 +15,7 @@ breadcrumb: [SPO ITAM data model mappings, Reference, Sourcing and Procurement O
 
 # SPO PR field mappings to ITAM PO
 
-Lists the field mappings between SPO purchase [[purchase-requisition|purchase requisition]] \(PR\) records and ITAM [[purchase-order-table|purchase order]] \(PO\) records.
+Lists the field mappings between SPO purchase purchase requisition \(PR\) records and ITAM purchase order \(PO\) records.
 
 Fields in the SPO PR record align to fields in the ITAM PO and purchase order line \(POL\) data model. The latest record in SPO takes precedent over legacy fields, with the exception of product model. Data flows between the SPO records and ITAM PO in both directions.
 
@@ -47,7 +47,3 @@ Fields in the SPO PR record align to fields in the ITAM PO and purchase order li
 
 [ITAM receipt field mappings to SPO receipt]()
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

@@ -22,10 +22,10 @@ As an employee, to receive push notifications, you must have the following:
 
 -   Push notifications are enabled by your organization.
 -   Following plugins:
-    -   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-    -   [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] version 1.5.1.
+    -   Workplace Reservation Management
+    -   Workplace Service Delivery for Mobile version 1.5.1.
 
-        Workplace Service Delivery for Mobile version 1.5.1 supports the Tokyo family release. If you are [[using-wsd-mobile|using Workplace Service Delivery for Mobile]] version 1.3.4 or earlier versions, it is not possible to receive any push notifications.
+        Workplace Service Delivery for Mobile version 1.5.1 supports the Tokyo family release. If you are using Workplace Service Delivery for Mobile version 1.3.4 or earlier versions, it is not possible to receive any push notifications.
 
 -   You must be logged in on your mobile.
 
@@ -102,8 +102,3 @@ As an employee, you will receive push notification for the following scenarios:
 
 [Additional details record producer - Mapping Variable types and limitations]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[using-wsd-mobile|Using Workplace Service Delivery for Mobile]]

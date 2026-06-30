@@ -14,12 +14,12 @@ breadcrumb: [Coaching in Workforce Optimization for HR, Using Workforce Optimiza
 
 # Learning in Workforce Optimization for HR
 
-Use Coaching with [[exploring-learning-exp|Learning]] to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
+Use Coaching with Learning to train your agents with internal and external learning content. Organize similar content into learning libraries. Assign learning tasks to your agents and track completion. Create learning paths that include a collection of courses on a specific topic associated with a set of skills.
 
 -   **[Create a course catalog in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-course-catalog-wfo-hr.md)**  
 Create course catalogs and set user criteria to define user access to the course items and learning paths associated with it.
 -   **[Create a learning library in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-learning-library-wfo-hr.md)**  
-[[create-learning-library|Create a learning library]] to organize related content into categories.
+Create a learning library to organize related content into categories.
 -   **[Create internal learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-internal-learning-content-wfo-hr.md)**  
 Add internal courses so that agents can learn new content and enhance their skill set.
 -   **[Access external courses on Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/external-coruses-integration-wfo-hr.md)**  
@@ -33,7 +33,3 @@ Create learning tasks for agents to keep track of their learning activities.
 
 **Parent Topic:**[Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-learning-library|Create a learning library]]

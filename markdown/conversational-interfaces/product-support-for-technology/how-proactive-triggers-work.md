@@ -14,13 +14,13 @@ breadcrumb: [Exploring Proactive Triggers, Proactive Triggers, Manage people and
 
 # How Proactive Triggers work
 
-Explore example use cases and how information flows through the [[proactive-triggers-landing-page|Proactive Triggers]] process.
+Explore example use cases and how information flows through the Proactive Triggers process.
 
 ## Proactive Triggers use cases
 
 Proactive Triggers are useful in various scenarios. Explore the following example use cases to determine how to use Proactive Triggers effectively for your organization.
 
--   An admin creates a Proactive Triggers rule that runs when a user views a Knowledge article containing the keyword “VPN” \(or any other keyword that has a matching [[virtual-agent-landing-page|Virtual Agent]] topic\). The admin configures the rule to run the VPN Connectivity Virtual Agent conversation, which proactively helps the user resolve the VPN issues.
+-   An admin creates a Proactive Triggers rule that runs when a user views a Knowledge article containing the keyword “VPN” \(or any other keyword that has a matching Virtual Agent topic\). The admin configures the rule to run the VPN Connectivity Virtual Agent conversation, which proactively helps the user resolve the VPN issues.
 
 -   An admin creates a Proactive Triggers rule that runs when a user views any catalog item with a short description that includes a specific keyword, such as “laptop.” The admin configures the rule to connect the user to a live agent, using the Live Agent Support topic, which proactively helps the user get assistance in ordering a laptop.
 
@@ -50,7 +50,3 @@ You can also use Proactive Triggers to engage with customers in more complex sce
 5.  After Proactive Triggers identifies at least one rule and action that apply to the visiting user and the Delay Time has been met, a pop-up message appears directly on the web page. The contents of this message are configured by the admin for the matched action.
 6.  If the user selects the pop-up message, the chat widget opens. If the matched action is of the type **Virtual Agent Topic**, the chat widget also runs the topic configured in that action.
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[virtual-agent-landing-page|Virtual Agent]]

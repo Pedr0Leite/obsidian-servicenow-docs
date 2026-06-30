@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Innovation Management, Innovation Manage
 
 # Idea module form
 
-Learn about the fields of the Idea module form. Use this form to create or edit the details of an idea in [[innovation-management-landing|Innovation Management]].
+Learn about the fields of the Idea module form. Use this form to create or edit the details of an idea in Innovation Management.
 
 <table id="table_jzp_4ry_phb"><thead><tr><th>
 
@@ -80,6 +80,3 @@ The maximum number of categories a user can select while submitting an idea. Def
 
 [Create an Idea module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/create-idea-module.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]

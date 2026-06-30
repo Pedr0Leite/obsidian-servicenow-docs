@@ -14,13 +14,13 @@ breadcrumb: [Configuration Compliance, Unified Security Exposure Management, Sec
 
 # Setting up, installing, and configuring the Configuration Compliance application
 
-Before you run the application in your ServiceNow AI Platform® instance, you must first download and install the [[vr-config-compliance-landing|Configuration Compliance]] application from the ServiceNow® Store. This application is available as a separate subscription.
+Before you run the application in your ServiceNow AI Platform® instance, you must first download and install the Configuration Compliance application from the ServiceNow® Store. This application is available as a separate subscription.
 
 Complete the following setup checklist steps listed in the following table prior to installation. These setup tasks are required for a smooth installation and configuration.
 
 For more information about released versions of the Configuration Compliance application, as well as third-party and ServiceNow applications that are compatible with it, see the [Vulnerability Response Compatibility Matrix and Release Schema Changes \[KB0856498\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0856498) article in the HI Knowledge Base.
 
-For more information about getting entitlements for store apps, see [[secops-and-store|Security Operations and the ServiceNow Store]].
+For more information about getting entitlements for store apps, see [Security Operations and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-and-store.md).
 
 <table id="table_wyt_b3p_v5b"><thead><tr><th>
 
@@ -48,7 +48,7 @@ Supported integrations
 
 Before you can use Configuration Compliance to remediate configuration items, you must install a third-party scanner integration and perform at least one network scan.
 
- Verify that the [[vuln-landing-page|Vulnerability Response]] application is installed and activated prior to configuring supported third-party integrations. See [Install Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/install-and-configure-vr.md).
+ Verify that the Vulnerability Response application is installed and activated prior to configuring supported third-party integrations. See [Install Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/install-and-configure-vr.md).
 
  To verify that integration applications are installed and activated, navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions your organization has purchased.
 
@@ -64,8 +64,3 @@ For more detailed information on the Qualys Vulnerability Integration, see [Unde
 
 You are now ready to install the Configuration Compliance application. See [Install Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/install-and-configure-cc.md).
 
-## Related
-
-- [[secops-and-store|Security Operations and the ServiceNow Store]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]

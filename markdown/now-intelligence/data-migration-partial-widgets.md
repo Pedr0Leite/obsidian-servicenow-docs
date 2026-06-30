@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Perform a partial migration of Performance Analytics widgets
 
-Migrate a selection of your [[c_Widgets|Performance Analytics widgets]] [[c_performanceAnalyticsAndReporting|Platform Analytics]] indicator visualizations.
+Migrate a selection of your Performance Analytics widgets Platform Analytics indicator visualizations.
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ You cannot use update sets to move the migrated material from a non-production i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Core UI Artifacts** &gt; **[[widgets|Widgets]]**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Core UI Artifacts** &gt; **Widgets**.
 
     The `pa_widgets` list opens.
 
-2.  Select the widgets you want to migrate to [[par-workspace|Platform Analytics experience]].
+2.  Select the widgets you want to migrate to Platform Analytics experience.
 
 3.  From the **Action on selected rows** menu, choose **Migrate PA widget**.
 
@@ -42,9 +42,3 @@ The selected widgets are migrated to Platform Analytics experience indicator vis
 
 Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Next Experience UI Artifacts** &gt; **Data Visualizations** to review the migrated content.
 
-## Related
-
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[par-workspace|Platform Analytics experience]]

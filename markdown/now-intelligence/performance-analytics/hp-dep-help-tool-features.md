@@ -16,9 +16,9 @@ breadcrumb: [Homepage deprecation, Administering dashboards, Responsive dashboar
 
 Use the Homepage deprecation help tool to find all of your homepages in one place and convert them to dashboards, retire them, and restore retired homepages as dashboards.
 
-To access the [[homepage-deprecation-help-tool|Homepage deprecation]] dashboard, navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Overview**.
+To access the Homepage deprecation dashboard, navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Overview**.
 
-Before you use the homepage deprecation help tool, perform these two steps. A user with the admin role must change the system property. A user with the admin role or a user with both the dashboard\_admin and flow\_designer roles can [[hpm-populate-hp-status-table|populate the homepage migration status table]].
+Before you use the homepage deprecation help tool, perform these two steps. A user with the admin role must change the system property. A user with the admin role or a user with both the dashboard\_admin and flow\_designer roles can populate the homepage migration status table.
 
 1.  Disable the creation of new homepages: Set the system property **com.glideapp.home.deprecate\_homepages** to true.
 
@@ -88,7 +88,3 @@ The Menus and Favorites tab has three lists.
 
 The Usage tab shows a list of all homepages not viewed in the last 30 days. These homepages may be good candidates for retirement.
 
-## Related
-
-- [[homepage-deprecation-help-tool|Homepage deprecation]]
-- [[hpm-populate-hp-status-table|Populate the homepage migration status table]]

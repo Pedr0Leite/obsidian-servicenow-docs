@@ -16,7 +16,7 @@ breadcrumb: [Form field information for Feedback application, Feedback reference
 
 Learn about the fields of the feedback form. Use this form to create or edit the details of a feedback record in Feedback.
 
-**Note:** Operational Sustainability Workspace and [[alignment-planner-workspace-landing-page|Strategic Planning]] users can’t view the fields that aren’t added to the default/custom form layout in the workspace. Configure the default/custom form layout to view those fields. For information on how to configure the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
+**Note:** Operational Sustainability Workspace and Strategic Planning users can’t view the fields that aren’t added to the default/custom form layout in the workspace. Configure the default/custom form layout to view those fields. For information on how to configure the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 <table id="table_xnn_4lp_5xb"><thead><tr><th>
 
@@ -151,6 +151,3 @@ Business application that this feedback is related to.
 
 [Create Feedback in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/create-feedback-in-sp.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

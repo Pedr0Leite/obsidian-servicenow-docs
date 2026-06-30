@@ -14,7 +14,7 @@ breadcrumb: [Set security for items and categories, Service Catalog security, Co
 
 # User criteria migration
 
-[[service-catalog|Service catalog]] user criteria records provide access control for [[c_IntroductionToCatalogItems|service catalog items]] and categories.
+Service catalog user criteria records provide access control for service catalog items and categories.
 
 You can migrate your access controls to use user criteria. The user criteria feature is automatically enabled for new instances. If you upgrade your instance, a script runs to determine current access control usage.
 
@@ -65,7 +65,7 @@ Role required: admin
 
     When this property is set to **true**, any remaining entitlements are no longer used.
 
-    **Note:** Scripts in user criteria cannot [[reference|reference]] the category or catalog item as **current** as entitlement scripts do. For scripts in user criteria, use the **user\_id** available for the user currently being evaluated against the category or catalog item.
+    **Note:** Scripts in user criteria cannot reference the category or catalog item as **current** as entitlement scripts do. For scripts in user criteria, use the **user\_id** available for the user currently being evaluated against the category or catalog item.
 
 
 ## Data structure differences
@@ -100,8 +100,3 @@ For categories:
 
 \[Omitted image "ServiceCatalogUserCriteriaCategoryMtom.png"\] Alt text: Screenshot for user criteria data structure - categories
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_IntroductionToCatalogItems|Service Catalog items]]
-- [[reference|Reference]]

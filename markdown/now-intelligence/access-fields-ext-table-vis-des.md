@@ -25,11 +25,11 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
-3.  Create any of the data visualizations listed under [[creating-data-visualizations|Creating data visualizations]], selecting a table data source.
+3.  Create any of the data visualizations listed under [Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md), selecting a table data source.
 
 4.  Open one of the following sections of the configuration tab, depending on the visualization type:
 
@@ -63,7 +63,7 @@ In this example, you create a simple list of data from the Task table and includ
 2.  In the **Visualization type** field, you select Simple list \(\[Omitted image "inline-data-vis-list.png"\] Alt text: simple list icon\).
 3.  In the Configuration tab, you keep the default Task \[task\] table.
 
-    \[Omitted image "report-ext-tables-data-vis-des.png"\] Alt text: [[t_AccessFieldExtendedTable|Report on extended tables]] in Visualization Designer, Configuration panel, with visualization name Active Incidents and Problems of Priority 1 or 2, Source type=Table, and Table=Task
+    \[Omitted image "report-ext-tables-data-vis-des.png"\] Alt text: Report on extended tables in Visualization Designer, Configuration panel, with visualization name Active Incidents and Problems of Priority 1 or 2, Source type=Table, and Table=Task
 
 4.  In the Columns field, you select **+Add** and scroll down to Incident.
 5.  Next to Incident, you see an Expand arrow \[Omitted image "icon-dv-expand.png"\] Alt text: Expand icon for data visualizations that indicates you can dot-walk. So you click that arrow, and scroll down through the fields on the Incident table until you reach the Category field, which you select.
@@ -84,11 +84,5 @@ The final visualization shows either Incident.Category values, Problem.Related I
 
 \[Omitted image "dv-extended-table-rel-incidents.png"\] Alt text: Data visualization showing Problem.Related incident data.
 
-**Parent Topic:**[[ext-table-fields-dot-walk-vis-des|Dot-walking from reference fields in a data visualization]]
+**Parent Topic:**[Dot-walking from reference fields in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ext-table-fields-dot-walk-vis-des.md)
 
-## Related
-
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[ext-table-fields-dot-walk-vis-des|Dot-walking from reference fields in a data visualization]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[t_AccessFieldExtendedTable|Report on extended tables]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure DEX Score, Digital Experience Score, Digital End-User Exp
 
 # Install Digital Experience Score​
 
-You can install the [[dexscr-digital-experience-score|Digital Experience Score​]] application \(sn\_dex\_score\) if you have the admin role. The application includes demo data that you can load after the installation is complete. It also installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they are not already installed.
+You can install the Digital Experience Score​ application \(sn\_dex\_score\) if you have the admin role. The application includes demo data that you can load after the installation is complete. It also installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The following items are installed with Digital Experience Score​:
 
         For more information, see [Components installed with Digital Experience Feedback Survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-installed-with-survey-feedback.md).
 
-    -   [[dex-landing|Digital End-User Experience]]: The Digital End-User Experience \(DEX\) suite offers proactive visibility to help you understand and improve the end-user experience across your organization. It includes Application &amp; Device Health, DEX Content Playbook, and Desktop Assistant, combined to provide unique benefits to diagnose and address any negative experiences.
+    -   Digital End-User Experience: The Digital End-User Experience \(DEX\) suite offers proactive visibility to help you understand and improve the end-user experience across your organization. It includes Application &amp; Device Health, DEX Content Playbook, and Desktop Assistant, combined to provide unique benefits to diagnose and address any negative experiences.
 -   Roles
 -   Scheduled jobs
 -   Tables
@@ -75,8 +75,3 @@ Delete the demo data for Digital Experience Score​ when you no longer need it.
 
 **Parent Topic:**[Configuring Digital Experience Score​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-configuring-dex-score.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-landing|Digital End-User Experience]]

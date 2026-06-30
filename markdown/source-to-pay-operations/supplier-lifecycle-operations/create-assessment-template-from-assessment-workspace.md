@@ -18,7 +18,7 @@ You can create smart assessment templates and add instructions, questions, and r
 
 ## Before you begin
 
-[[slo-campaign-mgmt|Smart assessments]] are built using the ServiceNow® Smart Assessment Engine \(SAE\) application. Familiarize yourself with the [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-asmnt-engine-landing-page.md).
+Smart assessments are built using the ServiceNow® Smart Assessment Engine \(SAE\) application. Familiarize yourself with the [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-asmnt-engine-landing-page.md).
 
 Role required: sn\_slm.manager or sn\_slm.admin
 
@@ -28,7 +28,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
     For more information on creating the smart assessment template, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-create.md).
 
-2.  In the **Purpose** field on the **Smart assessment template** form, select **[[supplier|Supplier]] management surveys**.
+2.  In the **Purpose** field on the **Smart assessment template** form, select **Supplier management surveys**.
 
 3.  In the **Assessment target** field, select the following target tables:
 
@@ -47,7 +47,3 @@ Configure the user criteria to restrict the reassignment of assessments from one
 
 **Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 
-## Related
-
-- [[slo-campaign-mgmt|Smart Assessments]]
-- [[supplier|Supplier]]

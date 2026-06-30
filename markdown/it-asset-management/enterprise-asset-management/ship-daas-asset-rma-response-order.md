@@ -28,7 +28,7 @@ Role required: sn\_eam\_provider.provider\_asset\_technician
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  Open the Asset tasks list.
 
@@ -189,7 +189,7 @@ Notes about the task that are visible to all users within your organization.
 
 -   The Ship task closes with an updated state of Closed Complete.
 -   A corresponding shipment record is automatically created for the asset shipment. A reference to the shipment record is populated in the **Shipment order** field of the Ship task. You can view and manage the shipment record from the Shipments list of the Asset operations view. For detailed instructions, see [View and add enterprise asset shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-enterprise-asset-shipments.md).
--   A corresponding [[receive-rma-asset|Receive asset]] task is automatically generated.
+-   A corresponding Receive asset task is automatically generated.
 
 ## What to do next
 
@@ -197,8 +197,3 @@ Complete the corresponding Receive asset task by confirming that the shipped ass
 
 **Parent Topic:**[Completing a Return Merchandise Authorization \(RMA\) response order for defective Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-rma-response-order-daas-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]
-- [[receive-rma-asset|Receive asset]]

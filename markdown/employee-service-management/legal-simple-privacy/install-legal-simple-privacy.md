@@ -14,13 +14,13 @@ breadcrumb: [Configure, Legal Simple Privacy, Legal Service Delivery Practice Ap
 
 # Install Legal Simple Privacy
 
-Install the a [[legal-simple-privacy-landing-page|Legal Simple Privacy]] \(sn\_lg\_privacy​\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+Install the a Legal Simple Privacy \(sn\_lg\_privacy​\) application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
 -   Review the Legal Simple Privacy application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   Ensure that the application [[legal-request-management-landing-page|Legal Request Management]] \(sn\_lg\_ops\) is installed before you install Legal Simple Privacy.
+-   Ensure that the application Legal Request Management \(sn\_lg\_ops\) is installed before you install Legal Simple Privacy.
 
 Role required: admin
 
@@ -61,7 +61,7 @@ The following items are installed with Legal Simple Privacy:
 
 \(Optional\) Reconfigure the forms in the application to use the new privacy assessment record producer, catalog category, and content taxonomy. For more information, see [Reconfigure forms to use new components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/reconfigure-post-install-privacy.md)
 
-Use the [[legal-management-overview|Legal Service Delivery]] Guided Setup to configure the application on your instance. To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
+Use the Legal Service Delivery Guided Setup to configure the application on your instance. To access Legal Service Delivery guided setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 **Parent Topic:**[Configure Legal Simple Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/setting-up-legal-simple-privacy.md)
 
@@ -70,8 +70,3 @@ Use the [[legal-management-overview|Legal Service Delivery]] Guided Setup to con
 
 [Reconfigure forms to use new components]()
 
-## Related
-
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-management-overview|Legal Service Delivery]]

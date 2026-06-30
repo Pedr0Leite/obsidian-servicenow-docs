@@ -18,7 +18,7 @@ Review and evaluate the effectiveness of the controls through the execution of c
 
 ## Before you begin
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
 Role required: sn\_irm\_nist\_rmf.security\_accessor, sn\_irm\_nist\_rmf.risk\_executive, or sn\_irm\_nist\_rmf.security\_officer
 
@@ -30,12 +30,8 @@ Role required: sn\_irm\_nist\_rmf.security\_accessor, sn\_irm\_nist\_rmf.risk\_e
 
 3.  Review the control effectiveness results in the system.
 
-4.  Perform the control tests assigned to you following the standard approach outlined in the [[c_GRCAudits|Audit Management]] application.
+4.  Perform the control tests assigned to you following the standard approach outlined in the Audit Management application.
 
 
 **Parent Topic:**[Assess controls, risks, issues, and remediation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/rmf-assess.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[c_GRCAudits|Audit Management]]

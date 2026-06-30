@@ -23,17 +23,17 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
-3.  Navigate to **Lists** &gt; **Primary Data** &gt; **[[invoices|Invoices]]**.
+3.  Navigate to **Lists** &gt; **Primary Data** &gt; **Invoices**.
 
 4.  Open an invoice in the **Confirmed duplicate** state.
 
 5.  Select **View invoice processing case**.
 
-6.  On the [[invoice-processing-case-form|invoice processing case form]], select **Reset to Received**.\[Omitted image "apo-reset-received.png"\] Alt text: Reset invoice to received state
+6.  On the invoice processing case form, select **Reset to Received**.\[Omitted image "apo-reset-received.png"\] Alt text: Reset invoice to received state
 
     A message appears asking you for a confirmation.
 
@@ -59,13 +59,7 @@ The status of the invoice changes to Received.
 
 [Convert invoice type]()
 
-[Check for [[work-with-invoice-exceptions|invoice exceptions]] on a single invoice]()
+[Check for invoice exceptions on a single invoice]()
 
 [Start the processing for an invoice imported via integration with third-party applications]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[invoice-processing-case-form|Invoice processing case form]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

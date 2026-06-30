@@ -14,7 +14,7 @@ breadcrumb: [Discovery for Alibaba Cloud, Discovery for cloud environment, Disco
 
 # Create Alibaba Cloud API Credentials
 
-Create Alibaba Cloud API credentials on the ServiceNow AI Platform to enable access to your Alibaba Cloud resources during Alibaba Cloud [[r-discovery|discovery]].
+Create Alibaba Cloud API credentials on the ServiceNow AI Platform to enable access to your Alibaba Cloud resources during Alibaba Cloud discovery.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required: discovery\_admin
 
 **Parent Topic:**[Discovery for Alibaba Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/alibaba-cloud-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

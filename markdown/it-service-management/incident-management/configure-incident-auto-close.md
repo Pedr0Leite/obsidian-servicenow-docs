@@ -24,7 +24,7 @@ Role required: admin
 
 You can auto-close incident based on the last updated date or the resolution date of the incident using the property **Enable auto closure of incidents based on Resolution date. Setting this to 'No' will make auto closure to run based on the Updated date** \(**com.snc.incident.autoclose.basedon.resolved\_at**\). This property is set to true only for the new customers starting the London release. Existing customers before the London release have to manually set the property to true.
 
-**Note:** You cannot auto-[[close-major-incident|close a major incident]] based on the incident auto-closure property. For more information, refer [Close a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/close-major-incident.md).
+**Note:** You cannot auto-close a major incident based on the incident auto-closure property. For more information, refer [Close a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/close-major-incident.md).
 
 A scheduled job called **Autoclose Incidents** \(**System Scheduler** &gt; **Scheduled Jobs** &gt; **Scheduled Jobs**\) runs the **Incident Autoclose** business rule to close incidents as described. By default, it assigns the name of the administrator, who is logged in when the **Autoclose Incidents** job runs, to the **Updated by** field.
 
@@ -48,6 +48,3 @@ A scheduled job called **Autoclose Incidents** \(**System Scheduler** &gt; **Sch
 
 [Configure default user for auto-closing incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/change-default-user.md)
 
-## Related
-
-- [[close-major-incident|Close a major incident]]

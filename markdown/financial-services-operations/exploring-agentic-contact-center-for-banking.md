@@ -19,7 +19,7 @@ Learn more about how Agentic Contact Center for Banking enables customer service
 
 Bank CSRs routinely handle inbound customer calls that require navigating multiple systems to locate the information needed to serve a customer, such as core banking platforms, CRM tools, and case management applications. Constant application switching increases handling time, raises the risk of error, and forces customers to wait on hold while agents gather data on their call.
 
-Agentic Contact Center for Banking addresses these challenges by consolidating customer data and embedding AI assistance directly into the [[fso-overview|Financial Services]] Operations workspace. The plugin introduces two purpose-built CSM page variants: **Interaction** and **Customer 360**. Together, they provide an AI-enhanced environment that surfaces the right information at the right moment.
+Agentic Contact Center for Banking addresses these challenges by consolidating customer data and embedding AI assistance directly into the Financial Services Operations workspace. The plugin introduces two purpose-built CSM page variants: **Interaction** and **Customer 360**. Together, they provide an AI-enhanced environment that surfaces the right information at the right moment.
 
 ## Agentic Contact Center for Banking users
 
@@ -38,12 +38,12 @@ The following image shows an example workflow of a CSR working on a customer int
 2.  When the CSR accepts the call, the **Interaction** page opens. The customer's details are displayed, and the CSR immediately receives an AI-generated summary of the call based on what has been collected up to that point via the IVR or Voice AI agent. This gives the CSR immediate context before the conversation with the customer begins.
 3.  A live transcript of the call is captured and updated continuously throughout the interaction, and serves as the primary input for the AI agent's real-time assistance.
 
-    For more information about the Interaction page, see [[interaction-workspace-for-agentic-contact-center-for-banking|Interaction page for Agentic Contact Center for Banking]].
+    For more information about the Interaction page, see [Interaction page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interaction-workspace-for-agentic-contact-center-for-banking.md).
 
 4.  As the call progresses, an AI agent monitors the live transcript and surfaces relevant information and recommended next steps in the Now Assist panel when requested by the CSR. The AI agent interprets the customer's request and retrieves the appropriate data from the configured knowledge graph and knowledge base articles.
 
 5.  CSRs can also ask their own questions at any time by typing into the Now Assist panel. For example, they may look up recent account transactions, check product eligibility criteria, or retrieve policy information.
-6.  At any point during or outside of an active call, a CSR can open the **Customer 360** page by selecting the customer's name from the Interaction page or searching for the customer. The Customer 360 page opens in a separate tab and provides a comprehensive view of the customer's profile and financial relationship with the bank. For more information about the Customer 360 page, see [[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]].
+6.  At any point during or outside of an active call, a CSR can open the **Customer 360** page by selecting the customer's name from the Interaction page or searching for the customer. The Customer 360 page opens in a separate tab and provides a comprehensive view of the customer's profile and financial relationship with the bank. For more information about the Customer 360 page, see [Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md).
 7.  When the call concludes, a wrap-up summary dialog displays with configured wrap-up codes. The agent can select a code and submit the wrap-up using an AI-generated call summary. For more information, see [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md).
 
 ## Agentic Contact Center for Banking benefits
@@ -55,24 +55,16 @@ The following image shows an example workflow of a CSR working on a customer int
 
 ## What to explore next
 
-To learn more about configuring and [[using-agentic-contact-center-for-banking|using Agentic Contact Center for Banking]], see:
+To learn more about configuring and using Agentic Contact Center for Banking, see:
 
 -   [Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md)
 -   [Interaction page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interaction-workspace-for-agentic-contact-center-for-banking.md)
--   [[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]
+-   [Configuring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-agentic-contact-center-for-banking.md)
 
 -   **[Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md)**  
 The Customer 360 page provides customer service representatives \(CSRs\) with an AI-enhanced, comprehensive view of a customer's profile, financial standing, account details, transaction history, and service cases.
 -   **[Interaction page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/interaction-workspace-for-agentic-contact-center-for-banking.md)**  
 The Interaction page provides customer service representatives \(CSRs\) with a consolidated view of customer details, live call transcript analysis, and AI-driven assistance during active customer interactions.
 
-**Parent Topic:**[[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
+**Parent Topic:**[Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-landing.md)
 
-## Related
-
-- [[interaction-workspace-for-agentic-contact-center-for-banking|Interaction page for Agentic Contact Center for Banking]]
-- [[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]
-- [[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[fso-overview|Financial Services]]
-- [[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]

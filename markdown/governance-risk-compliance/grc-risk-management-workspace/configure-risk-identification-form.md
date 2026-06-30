@@ -20,9 +20,9 @@ Before assessing an application, specify the target application where the risk i
 
 Make sure you have the following applications:
 
--   Application Portfolio Management must be installed if you want the [[recommendation-engine|recommendation engine]] enabled and want to use the integration.
+-   Application Portfolio Management must be installed if you want the recommendation engine enabled and want to use the integration.
 -   Application Portfolio Management integration with Risk Management \(com.snc.apm\_risk\_assessment\) must be installed. This application is required only if you want to use the integration.
--   [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] and GRC Common Workspace Elements must be installed to use the smart assessment questionnaire during the risk identification. For more information, see [Configuring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-config.md).
+-   Smart Assessment Engine and GRC Common Workspace Elements must be installed to use the smart assessment questionnaire during the risk identification. For more information, see [Configuring Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-config.md).
 
 Role required: sn\_risk.admin
 
@@ -38,7 +38,7 @@ The Risk Identification Configuration form contains an entity type and a default
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Risk Identification Configuration**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Risk Identification Configuration**.
 
 2.  Select **New**.
 
@@ -66,7 +66,7 @@ Configuration level
 
 </td><td>
 
-The level where the configuration is done. The choices are as follows:-   [[entity-class|Entity class]]
+The level where the configuration is done. The choices are as follows:-   Entity class
 -   Table
 
 
@@ -116,7 +116,7 @@ Inherent assessment
 
 </td><td>
 
-Option to perform inherent assessment or [[bia-uib|business impact analysis]] \(BIA\) assessment.
+Option to perform inherent assessment or business impact analysis \(BIA\) assessment.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Use smart assessment
 
 </td><td>
 
-Option enables the use of smart [[airc-assessment-templates|assessment templates]]. You can select a smart assessment template in the **Questionnaire** field.For more information on how to [[create-sm-asmt-temp-as-ws|create a smart assessment template]], see [Create a smart assessment template for risk identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-smart-assessment-template-for-risk-identification.md).
+Option enables the use of smart assessment templates. You can select a smart assessment template in the **Questionnaire** field.For more information on how to create a smart assessment template, see [Create a smart assessment template for risk identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-smart-assessment-template-for-risk-identification.md).
 
 </td></tr><tr><td>
 
@@ -190,7 +190,7 @@ Risk assessment methodology
 
 </td><td>
 
-Option to select the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] to perform inherent assessment. You can see the list of RAMs associated with the selected Target table.**Note:** Only published object-based RAMs with the inherent assessment option enabled are available for selection.
+Option to select the risk assessment methodology \(RAM\) to perform inherent assessment. You can see the list of RAMs associated with the selected Target table.**Note:** Only published object-based RAMs with the inherent assessment option enabled are available for selection.
 
 </td></tr><tr><td>
 
@@ -234,7 +234,7 @@ Recommendation engine algorithm
 
 Specify the recommendation engine. The choices are as follows:-   None
 -   Based on information object mapping
- For details on [[information-objects|information objects]], see [Information objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/information-objects.md).
+ For details on information objects, see [Information objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/information-objects.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -320,15 +320,3 @@ Option to select the RAM to perform inherent assessment. You can see the list of
 
 [Workflow of risk identification for business applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/workflow-risk-identification.md)
 
-## Related
-
-- [[recommendation-engine|recommendation engine]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[entity-class|entity class]]
-- [[bia-uib|Business impact analysis]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[information-objects|information objects]]

@@ -12,7 +12,7 @@ breadcrumb: [Survey designer, Survey administration, Use surveys, Surveys, Asses
 
 # Create custom metric type
 
-Create your own custom metric type if you don’t find the metric type that you want in Survey Designer while designing [[r_SurveyManagementLandingPage|surveys]].
+Create your own custom metric type if you don’t find the metric type that you want in Survey Designer while designing surveys.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can use the Custom Metric Type module for surveys to create the custom metri
 
 3.  On the Custom Metric form, fill in the fields.
 
-    For a description of the field values, see [[custom-metric-form-fields|Custom Metric form]].
+    For a description of the field values, see [Custom Metric form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/custom-metric-form-fields.md).
 
 4.  Select **Submit**.
 
@@ -41,7 +41,7 @@ You can use the Custom Metric Type module for surveys to create the custom metri
     -   If the custom metric type is inactive or deleted, the question is not rendered on the survey form.
     -   If the value in the **Macro** or **Widget** field is updated, the updated value is used to render a survey form even if an instance was created before updating the values for macros or widgets.
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -60,8 +60,3 @@ You can use the Custom Metric Type module for surveys to create the custom metri
 
 [Configure category weights for a survey]()
 
-## Related
-
-- [[custom-metric-form-fields|Custom Metric form]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[r_SurveyManagementLandingPage|Surveys]]

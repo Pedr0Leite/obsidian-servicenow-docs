@@ -12,7 +12,7 @@ breadcrumb: [Configure, Field Service Management]
 
 # Activate Field Service Management
 
-The [[fsm-application-landing-page|Field Service Management]] \(com.snc.work\_management\) is available as a separate subscription. This plugin activates related plugins, if they are not already active. After Field Service Management is activated, you can also activate additional plugins that provide demo data and enable a variety of features.
+The Field Service Management \(com.snc.work\_management\) is available as a separate subscription. This plugin activates related plugins, if they are not already active. After Field Service Management is activated, you can also activate additional plugins that provide demo data and enable a variety of features.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ com.sn\_fsm\_mobile
 
 </td><td>
 
-Manages the Field Service mobile components on an iOS or an Android mobile device. Field service agents and dispatchers can [[c_ExecuteWorkOrderTasks|execute work order tasks]], manage assets, and close work order tasks on their mobile device in online or offline mode.For more information, see [Setting up Field Service Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/setting-up-field-service-mobile-agent.md).
+Manages the Field Service mobile components on an iOS or an Android mobile device. Field service agents and dispatchers can execute work order tasks, manage assets, and close work order tasks on their mobile device in online or offline mode.For more information, see [Setting up Field Service Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/setting-up-field-service-mobile-agent.md).
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ com.snc.agent\_workspace.fsmThe deprecated plugin is replaced by com.snc.uib.fsm
 
 </td><td>
 
-Enables users to [[c_ManageWorkOrders|manage work orders]] and tasks within the agent workspace. The plugin has been deprecated in Vancouver release.For more information, see [[activate-dispatcher_workspace|Activate Dispatcher Workspace]].
+Enables users to manage work orders and tasks within the agent workspace. The plugin has been deprecated in Vancouver release.For more information, see [Activate Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/activate-dispatcher_workspace.md).
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ com.snc.work\_management.demo
 
 Adds demonstration data for the Field Service Management application covering the medical and telecommunication domains. **Note:** Installing this plugin adds new Configuration Item tables and relationships to the database.
 
-For more information, see [[quick-start-tests-fsm|Quick start tests for Field Service Management]].
+For more information, see [Quick start tests for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/quick-start-tests-fsm.md).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ com.snc.fsm\_mapThe deprecated plugin is replaced by com.snc.uib.fsm\_dispatcher
 
 </td><td>
 
-Field Service Map to view Agents, Tasks and Agent Routes.For more information, see [[field-service-additional-plugins|Additional plugins for Field Service Management]].
+Field Service Map to view Agents, Tasks and Agent Routes.For more information, see [Additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-additional-plugins.md).
 
 </td></tr><tr><td>
 
@@ -182,7 +182,7 @@ Setup and configuration of blackout and maintenance schedules.
 
 </td></tr><tr><td>
 
-[[dynamic-scheduling|Dynamic Scheduling]]
+Dynamic Scheduling
 
 </td><td>
 
@@ -218,7 +218,7 @@ Enables geolocation capabilities for the Field Service Management application.
 
 </td></tr><tr><td>
 
-[[manager-mobile-app|Field Service Manager Mobile]]
+Field Service Manager Mobile
 
 </td><td>
 
@@ -249,18 +249,7 @@ Allows managers to use Field Service Manager Mobile
 **Related topics**  
 
 
-[[r_InstalledWithFSM|Components installed with Field Service Management]]
+[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
 [Additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-additional-plugins.md)
 
-## Related
-
-- [[activate-dispatcher_workspace|Activate Dispatcher Workspace]]
-- [[quick-start-tests-fsm|Quick start tests for Field Service Management]]
-- [[field-service-additional-plugins|Additional plugins for Field Service Management]]
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_ExecuteWorkOrderTasks|Execute work order tasks]]
-- [[c_ManageWorkOrders|Manage work orders]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[manager-mobile-app|Field Service Manager Mobile]]

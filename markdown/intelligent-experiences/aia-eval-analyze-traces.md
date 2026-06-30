@@ -26,7 +26,7 @@ If you are already in the flow for identifying issues, skip to step 5.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Agentic Evaluations**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Agentic Evaluations**.
 
 2.  Select the automated evaluation you want to review the results of.
 
@@ -51,6 +51,3 @@ If you are already in the flow for identifying issues, skip to step 5.
 
 Select **Apply optimization** to look at LLM-generated suggestions for optimizations to fix the issues.
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

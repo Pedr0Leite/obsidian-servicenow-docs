@@ -12,7 +12,7 @@ breadcrumb: [Reference, Care Team Operations for Facilities, Healthcare Operatio
 
 # Service Catalog installed with Care Team Operations for Facilities
 
-The [[cto-facilities-landing|Care Team Operations for Facilities]] service catalog is organized into a hierarchy of Facilities-related categories and subcategories that clinicians commonly report.
+The Care Team Operations for Facilities service catalog is organized into a hierarchy of Facilities-related categories and subcategories that clinicians commonly report.
 
 This framework is specific to Facilities Management, focusing on the physical environment, building systems, and related infrastructure.
 
@@ -220,7 +220,3 @@ Request weather-related protections.Case categories:
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

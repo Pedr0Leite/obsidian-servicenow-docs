@@ -14,7 +14,7 @@ breadcrumb: [Mega menu configuration, Setup Employee Center browse experience fe
 
 # View quick links on the mega menu
 
-You can view [[emp-center-quick-link-config|quick links]] associated with root topics on the mega menu.
+You can view quick links associated with root topics on the mega menu.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can associate quick links with a root topic so that it appears on the mega m
 
 ## Procedure
 
-1.  On the [[employee-center-landing-page|Employee Center]] home page, click a root topic.
+1.  On the Employee Center home page, click a root topic.
 
     If the root topic has quick links associated with it, and if you have access to the quick links, then those quick links are displayed for that root topic on the mega menu.
 
@@ -50,7 +50,3 @@ You can associate quick links with a root topic so that it appears on the mega m
 
 [Restrict access to a quick link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/restrict-access-to-quick-links.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

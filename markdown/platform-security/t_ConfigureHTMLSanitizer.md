@@ -12,7 +12,7 @@ breadcrumb: [HTML sanitizer]
 
 # Configuring HTML sanitizer
 
-You must modify a script include to make [[sc-configuration|configuration]] changes to the [[c_HTMLSanitizer|HTML sanitizer]].
+You must modify a script include to make configuration changes to the HTML sanitizer.
 
 ## Before you begin
 
@@ -65,7 +65,3 @@ It adds the following items to the inclusion list:
 -   The img element where the source attribute of the image is a file with the .jpeg extension. This is an example of a regular expression pattern that matches an attribute value.
 -   The iframe element.
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_HTMLSanitizer|HTML sanitizer]]

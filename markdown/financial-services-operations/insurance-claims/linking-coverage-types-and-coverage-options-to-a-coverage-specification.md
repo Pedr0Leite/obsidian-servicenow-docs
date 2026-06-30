@@ -14,7 +14,7 @@ breadcrumb: [Coverage specification, Setting up the policy data for Insurance cl
 
 # Link the coverage types and coverage options to a coverage specification
 
-Link the coverage types and coverage options to a coverage specification in the [[insurance-claims-flow|Insurance claims]] application. This way, you associate all the available coverage types and options to the [[coverage-specification|coverage specification]] and define the protections and risks that are covered by an insurance policy.
+Link the coverage types and coverage options to a coverage specification in the Insurance claims application. This way, you associate all the available coverage types and options to the coverage specification and define the protections and risks that are covered by an insurance policy.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Coverages** &gt; **Coverage specifications**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Coverages** &gt; **Coverage specifications**.
 
 2.  Search for the coverage specification record and open it.
 
@@ -54,8 +54,4 @@ Role required: admin
 
 10. Select **Update**.
 
-## Related
 
-- [[insurance-claims-flow|Insurance claims]]
-- [[coverage-specification|Coverage specification]]
-- [[fso-overview|Financial Services]]

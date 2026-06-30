@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Risk Management, Health and Safety, Employee Serv
 
 # Monitoring and analyzing safety risk metrics
 
-The **Risk Management** tab of the [[health-safety-overview|Health and Safety]] dashboard provides a comprehensive and interactive view for monitoring and analyzing safety risk metrics. By providing real-time insights into inspections, job safety analyses \(JSAs\), and various hazard and risk categories, it enables you to proactively identify trends, respond swiftly to emerging issues, and continuously enhance workplace safety across all organizational levels.
+The **Risk Management** tab of the Health and Safety dashboard provides a comprehensive and interactive view for monitoring and analyzing safety risk metrics. By providing real-time insights into inspections, job safety analyses \(JSAs\), and various hazard and risk categories, it enables you to proactively identify trends, respond swiftly to emerging issues, and continuously enhance workplace safety across all organizational levels.
 
 For any selected period and location, you can drill down into detailed data for granular visibility for risk mitigation strategies.
 
@@ -22,7 +22,7 @@ For any selected period and location, you can drill down into detailed data for 
 
 ## Prerequisites
 
--   Ensure that [[hs-risk-management-landing-page|Health and Safety Risk Management]] and [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] applications are installed. For more information, see [Install Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/install-hs-risk-mgmt.md).
+-   Ensure that Health and Safety Risk Management and Health and Safety Incident Management applications are installed. For more information, see [Install Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/install-hs-risk-mgmt.md).
 -   Run the **\[OHS\] Safety Metrics** scheduled job to update the safety metrics on demand. For more information, see [Configure scheduled job to generate frequency rates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/configure-job-generate-frequency-rates.md).
 
     **Note:** The **\[OHS\] Safety Metrics** job is set to run daily by default.
@@ -37,7 +37,7 @@ For any selected period and location, you can drill down into detailed data for 
 
 ## Access the Health and Safety Incident Management metrics
 
-Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Risk Management** tab on the Health and Safety dashboard.
+Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Risk Management** tab on the Health and Safety dashboard.
 
 **Note:** To view only a high-level summary of key risk metrics such as the open risk assessments or overdue inspections, select the **Highlights** tab.
 
@@ -208,9 +208,3 @@ None
 
 You can customize the widgets in the dashboard to display relevant metrics by using the UI Builder. For more information, see [UI Builder tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/uib-tutorial.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

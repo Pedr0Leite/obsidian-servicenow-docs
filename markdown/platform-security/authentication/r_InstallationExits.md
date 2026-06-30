@@ -49,7 +49,7 @@ Login.prototype = {
 	},
  
         process : function() {
-          // the [[c_requestAPI|request]] is passed in as a global
+          // the request is passed in as a global
           var userName = request.getParameter("user_name");
           var userPassword = request.getParameter("user_password");
  
@@ -148,6 +148,3 @@ Login.prototype = {
 
 [enforce-strong-passwords]
 
-## Related
-
-- [[c_requestAPI|request]]

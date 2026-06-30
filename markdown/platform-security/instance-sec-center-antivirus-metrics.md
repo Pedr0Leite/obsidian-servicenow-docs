@@ -14,11 +14,11 @@ breadcrumb: [Monitor instance metrics, Instance Security Center, Platform Securi
 
 If the Antivirus Scanning plugin is activated, Antivirus Scanning runs in your instance to help protect it against virus infections from attachments.
 
-The following [[ca-metrics|metrics]] appear for the last 60 days of activity, and enable you to assess the effectiveness of the Antivirus Scanning functions.
+The following metrics appear for the last 60 days of activity, and enable you to assess the effectiveness of the Antivirus Scanning functions.
 
 ## Antivirus Events
 
-[[antivirus|Antivirus]] Events indicate the number of antivirus events in your instance, by date. To access the antivirus events, navigate to **System Security** &gt; **[[instance-security-center|Instance Security Center]]** and select the Metrics tab. Color coded graph lines represent the following types of antivirus events:
+Antivirus Events indicate the number of antivirus events in your instance, by date. To access the antivirus events, navigate to **System Security** &gt; **Instance Security Center** and select the Metrics tab. Color coded graph lines represent the following types of antivirus events:
 
 <table id="table_vdw_n25_yfb"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Green
 
 </td><td>
 
-Number of infected files downloaded to the instance, and then quarantined for the indicated date. These files are primarily [[email|email]] attachments that contain a virus or rouge code.
+Number of infected files downloaded to the instance, and then quarantined for the indicated date. These files are primarily email attachments that contain a virus or rouge code.
 
 </td></tr><tr><td>
 
@@ -121,20 +121,20 @@ Lists the infected files in the instance quarantined by Antivirus Scanning:
 |Created|Date and time the quarantine file record was created.|
 |Table sys ID|Table system identifier assigned to the quarantine file record.|
 
-**Note:** You can also add **Quarantined Files** and **Virus Types** tiles to the Event ribbon. To learn more, see [[instance-sec-center-event-ribbon|Monitor security events]] and [[instance-sec-center-configure-event-ribbon|Configure the security event ribbon]].
+**Note:** You can also add **Quarantined Files** and **Virus Types** tiles to the Event ribbon. To learn more, see [Monitor security events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-configure-event-ribbon.md).
 
-**Parent Topic:**[[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
+**Parent Topic:**[Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md)
 
 **Related topics**  
 
 
-[[antivirus-protection|Antivirus Scanning]]
+[Antivirus Scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md)
 
-[[configure-antivirus-protection|Configuring Antivirus Scanning]]
+[Configuring Antivirus Scanning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-antivirus-protection.md)
 
-[[resolve-infected-file|Reviewing quarantined files]]
+[Reviewing quarantined files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/resolve-infected-file.md)
 
-[[generate-log-report-of-quarantined-files|Review antivirus activity]]
+[Review antivirus activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/generate-log-report-of-quarantined-files.md)
 
 [Analytics Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_UsePerformanceAnalyticsScorecards.md)
 
@@ -142,16 +142,3 @@ Lists the infected files in the instance quarantined by Antivirus Scanning:
 
 [Analytics, Intelligence, and Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_performanceAnalyticsAndReporting.md)
 
-## Related
-
-- [[instance-sec-center-event-ribbon|Monitor security events]]
-- [[instance-sec-center-configure-event-ribbon|Configure the security event ribbon]]
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[configure-antivirus-protection|Configuring Antivirus Scanning]]
-- [[resolve-infected-file|Reviewing quarantined files]]
-- [[generate-log-report-of-quarantined-files|Review antivirus activity]]
-- [[ca-metrics|Metrics]]
-- [[antivirus|Antivirus]]
-- [[instance-security-center|Instance Security Center]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Outbound Intel Sharing, Configuring Threat Intelligence E
 
 # Configuring Outbound Intel Sharing Templates
 
-Outbound Intel Sharing Templates enable you to define and control the data shared externally from the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\).
+Outbound Intel Sharing Templates enable you to define and control the data shared externally from the Threat Intelligence Security Center \(TISC\).
 
 ## Before you begin
 
@@ -99,7 +99,7 @@ Select this check box to enable **Redaction**, which is the process of replacing
 
 **Important:**
 
-Since these templates are used within a managed sharing model such as when sharing the intelligence for specific objects or [[c_Observables|observables]], you may want to control which users or groups can access them.
+Since these templates are used within a managed sharing model such as when sharing the intelligence for specific objects or observables, you may want to control which users or groups can access them.
 
 To manage this, there’s a dedicated section called **Allow access to all users or groups with outbound intelligence sharing permissions** where you can specify the users and groups that should have visibility to a particular template.
 
@@ -251,7 +251,7 @@ Indicates the Outbound Intelligence Exclusion Rules. By default the value in thi
 
     Once the template sharing controls are published, they become available for use within intelligence outbound sharing templates.
 
-    **Important:** These templates are also applicable during sharing data from GUI setup and can be accessed from the [[threat-intel-landing-page|Threat Intelligence]] Library. For more information, see [Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-intel-records-lib.md).
+    **Important:** These templates are also applicable during sharing data from GUI setup and can be accessed from the Threat Intelligence Library. For more information, see [Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-intel-records-lib.md).
 
 14. Select **Edit** button to make any necessary changes to the template.
 
@@ -308,8 +308,3 @@ Indicates the Outbound Intelligence Exclusion Rules. By default the value in thi
 
 [Automated Sharing of TAXII Collections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-automated-share-taxii.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

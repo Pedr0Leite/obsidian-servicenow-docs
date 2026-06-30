@@ -20,11 +20,11 @@ Submit a query related to your time off balance in the Oracle HCM system from a 
 
 Role required: none
 
-The View Time Off Widget works on the basis of Person ID \( Correlation\_ID\) field in the [[c_HRProfileRecords|HR profile]] \[sn\_hr\_core\_profile\] table. You will not be able to see your time off balances if your Person ID \(Correlation\_ID\) is missing in your HR profile.
+The View Time Off Widget works on the basis of Person ID \( Correlation\_ID\) field in the HR profile \[sn\_hr\_core\_profile\] table. You will not be able to see your time off balances if your Person ID \(Correlation\_ID\) is missing in your HR profile.
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **Catalog** &gt; **Benefits** &gt; **Time off balances**.
+1.  Navigate to **Employee Center** &gt; **Catalog** &gt; **Benefits** &gt; **Time off balances**.
 
 2.  View details of all your time off balances.
 
@@ -34,7 +34,4 @@ The View Time Off Widget works on the basis of Person ID \( Correlation\_ID\) fi
 
     An HR case is created under the HR Service, View Time Off – Oracle Cloud HCM.
 
-## Related
 
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-center-landing-page|Employee Center]]

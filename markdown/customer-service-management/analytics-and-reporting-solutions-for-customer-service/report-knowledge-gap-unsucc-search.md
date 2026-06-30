@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics Solutions for Self-Service Analytics for Custome
 
 # Report knowledge gaps based on unsuccessful searches
 
-[[csm-workspace-report-knowledge-gap|Report a knowledge gap]] from the Unsuccessful Searches report in the Self-Service Analytics dashboard for customer service.
+Report a knowledge gap from the Unsuccessful Searches report in the Self-Service Analytics dashboard for customer service.
 
 ## Before you begin
 
@@ -43,14 +43,10 @@ The Unsuccessful Searches report in the Self-Service Analytics dashboard for cus
 
 ## Result
 
-If a collection is reported as a knowledge gap, a feedback task of type Unsuccessful search is created in the Knowledge Management application. If the assignment [[gamification-components-rules|rules]] are set, the feedback task is assigned to an ownership group or an author.
+If a collection is reported as a knowledge gap, a feedback task of type Unsuccessful search is created in the Knowledge Management application. If the assignment rules are set, the feedback task is assigned to an ownership group or an author.
 
 **Related topics**  
 
 
 [Self-Service Analytics dashboard for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/ssa-cs-dashboard.md)
 
-## Related
-
-- [[csm-workspace-report-knowledge-gap|Report a knowledge gap]]
-- [[gamification-components-rules|Rules]]

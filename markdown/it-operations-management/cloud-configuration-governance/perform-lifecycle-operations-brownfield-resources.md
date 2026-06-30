@@ -14,7 +14,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Configure and perform life-cycle operations on discovered resources
 
-Configure life-cycle operations on cloud resources that are not provisioned using ServiceNow® [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. Provision resources and modify resource block operations to perform day-2 operations on cloud resources that are discovered using Cloud [[r-discovery|Discovery]] but not provisioned using Cloud Provisioning and Governance.
+Configure life-cycle operations on cloud resources that are not provisioned using ServiceNow® Cloud Provisioning and Governance. Provision resources and modify resource block operations to perform day-2 operations on cloud resources that are discovered using Cloud Discovery but not provisioned using Cloud Provisioning and Governance.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ If a resource is provisioned from the Cloud Provisioning and Governance catalog,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Design** &gt; **Resource Blocks**.
+1.  Navigate to **All** &gt; **Cloud Admin Portal** &gt; **Design** &gt; **Resource Blocks**.
 
 2.  Search and open the resource/CI you want to perform life-cycle operations on.
 
@@ -65,7 +65,7 @@ If a resource is provisioned from the Cloud Provisioning and Governance catalog,
 
     You have configured the resource operation for the specific resource/CI.
 
-15. Navigate to **[[cloudmgt-cloud-user-portal|Cloud User Portal]]** &gt; **Resources** &gt; **Virtual Machine Instance**, and select the virtual machine instance for which you created the resource operation.
+15. Navigate to **Cloud User Portal** &gt; **Resources** &gt; **Virtual Machine Instance**, and select the virtual machine instance for which you created the resource operation.
 
 16. Select the new interface operation you created from the **Select Resource Operations** list.
 
@@ -74,9 +74,3 @@ If a resource is provisioned from the Cloud Provisioning and Governance catalog,
 
 Navigate to the **Cloud User Portal** &gt; **Resources** &gt; **Virtual Machine Instance** and select the new interface operation you created from the **Select Resource Operations** list.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

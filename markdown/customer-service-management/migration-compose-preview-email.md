@@ -28,7 +28,7 @@ For more information about the Email Composer component, see [Next Experience Co
 
 ## Email Viewer
 
-The Email Viewer component enables customer service agents to preview emails in [[csm-workspaces-configure|CSM Configurable Workspace]] before sending them to customers. The component is associated with a record to include emails as part of the record.
+The Email Viewer component enables customer service agents to preview emails in CSM Configurable Workspace before sending them to customers. The component is associated with a record to include emails as part of the record.
 
 |Legacy table name|UIB table name|
 |-----------------|--------------|
@@ -38,6 +38,3 @@ Configure the Email Viewer in [UI Builder](https://raw.githubusercontent.com/Ser
 
 For more information about the Email Viewer component, see [Next Experience Components documentation](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades).
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

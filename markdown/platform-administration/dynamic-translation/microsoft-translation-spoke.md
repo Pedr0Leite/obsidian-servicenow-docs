@@ -14,7 +14,7 @@ breadcrumb: [Integration with other translation services, Dynamic Translation, T
 
 # Microsoft Azure Translator Service spoke
 
-Microsoft Azure Translator Service spoke provides subflows and actions to detect and translate user-entered text, using the Microsoft machine translation service. [[dynamic-translation|Dynamic Translation]] supports detection and translation of single texts and multiple texts.
+Microsoft Azure Translator Service spoke provides subflows and actions to detect and translate user-entered text, using the Microsoft machine translation service. Dynamic Translation supports detection and translation of single texts and multiple texts.
 
 \[Omitted video\] Description: Configure Microsoft as a third-party machine translation provider in the Dynamic Translation app.
 
@@ -68,7 +68,7 @@ The following are the connection alias requirements.
 -   Connection type: HTTP
 -   Connection URL: For example, `https://api.cognitive.microsofttranslator.com`.
 
-    **Note:** The URL provided here is a sample only. Microsoft translation customers may need to use custom API URLs or virtual network type API URLs, even when they do not subscribe to a virtual network. Microsoft customers who use multi-service or regional translation services also need to know their Ocp-Apim-Subscription-Region attribute, and their API URL may contain a regional [[reference-email-admin|reference]]. Check your Azure portal for this information. Refer to the [Microsoft](https://learn.microsoft.com/en-us/azure/ai-services/translator/reference/v3-0-reference) documentation for further details.
+    **Note:** The URL provided here is a sample only. Microsoft translation customers may need to use custom API URLs or virtual network type API URLs, even when they do not subscribe to a virtual network. Microsoft customers who use multi-service or regional translation services also need to know their Ocp-Apim-Subscription-Region attribute, and their API URL may contain a regional reference. Check your Azure portal for this information. Refer to the [Microsoft](https://learn.microsoft.com/en-us/azure/ai-services/translator/reference/v3-0-reference) documentation for further details.
 
 
 Perform the following tasks to connect to the Microsoft machine translation service.
@@ -82,7 +82,3 @@ Make the Microsoft translation service available for use by activating the Micro
 
 **Parent Topic:**[Integration with other translation services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[reference-email-admin|Reference]]

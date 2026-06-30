@@ -18,7 +18,7 @@ Processor Value Unit \(PVU\) is a unit of measurement defined by IBM to determin
 
 A processor is defined as each core on a socket. Each software package has a price defined as number of points or PVUs per core. For a complete explanation of IBM PVU licensing for distributed software, see [Processor Value Unit \[PVU\] licensing for Distributed Software](https://www-01.ibm.com/software/lotus/passportadvantage/pvu_licensing_for_customers.html) on the IBM website.
 
-In the ServiceNow AI Platform, the concept of PVU is used by the legacy IBM PVU Process Pack, which is an add-on to the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin. This legacy process pack provides the ability to manage software licensed under the IBM Processor Value Units licensing model.
+In the ServiceNow AI Platform, the concept of PVU is used by the legacy IBM PVU Process Pack, which is an add-on to the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin. This legacy process pack provides the ability to manage software licensed under the IBM Processor Value Units licensing model.
 
 **Important:** The legacy IBM PVU Process Pack is not required for tracking and managing IBM PVU licenses through the Software Asset Management publisher pack for IBM, which is available as part of the Software Asset Management Professional \(com.snc.samp\) plugin. The IBM publisher pack includes all capabilities that are required for tracking and managing both full capacity and sub-capacity PVU and RVU licenses for your IBM products. See [Software Asset Management publisher pack for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/ibm-publisher-pack.md) for more information on the IBM publisher pack.
 
@@ -41,7 +41,7 @@ Every rule listed in the IBM PVU Table is represented by one PVU mapping record 
 -   **[Use software counters with the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_UseSWCountersCalcIBMPVULice.md)**  
 To calculate IBM PVU licenses through the legacy IBM PVU Process Pack, you can create a software counter with the IBM PVU license type. For a given PVU software package, you only need to create the counter once and then it can be reused.
 -   **[Installed with the legacy IBM PVU Process Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/r_IWSWAssetMgmtIBMProcPack.md)**  
-The following tables, fields, script includes, and business rules are [[r_IWSWAssetMgmtIBMProcPack|installed with the legacy IBM PVU process pack]].
+The following tables, fields, script includes, and business rules are installed with the legacy IBM PVU process pack.
 
 **Parent Topic:**[Legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareAssetManagement.md)
 
@@ -56,24 +56,17 @@ The following tables, fields, script includes, and business rules are [[r_IWSWAs
 
 [Software licenses in the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
 [Software license reconciliation counters for the legacy Software Asset Management plugin]()
 
-[Software [[c_Contracts|contracts]] for the legacy Software Asset Management plugin]()
+[Software contracts for the legacy Software Asset Management plugin]()
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[r_IWSWAssetMgmtIBMProcPack|Installed with the legacy IBM PVU Process Pack]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]

@@ -14,11 +14,11 @@ breadcrumb: [Service Catalog for managers and end users, Explore, Service Catalo
 
 # Service Catalog home page
 
-The home page for a [[service-catalog|service catalog]] lists the goods and services available to order from that catalog.
+The home page for a service catalog lists the goods and services available to order from that catalog.
 
 Catalog items are grouped into categories, which can also contain one or more subcategories. By default, the first 10 items in a category appear under the category name on the service catalog home page.
 
-To access the default service catalog home page, navigate to **[[self-service-landing|Self-Service]]** &gt; **Service Catalog**.
+To access the default service catalog home page, navigate to **Self-Service** &gt; **Service Catalog**.
 
 \[Omitted image "ServiceCatalogHomepage.png"\] Alt text: Service Catalog homepage and user shopping carts
 
@@ -59,7 +59,3 @@ If a search returns multiple results, obtain details about a specific catalog it
 
 [Service Catalog for managers and end users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingTheServiceCatalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]

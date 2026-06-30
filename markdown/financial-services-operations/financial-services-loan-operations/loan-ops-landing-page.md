@@ -14,7 +14,7 @@ breadcrumb: [Banking applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Loan Operations
 
-The ServiceNow® Financial Services Loan Operations application is a solution in [[fso-overview|Financial Services]] Operations that supports personal and business loans. This solution enables your financial organization to quickly resolve customer-initiated requests and system-generated exceptions around loan servicing and can help you transform your middle and back-office loan operations.
+The ServiceNow® Financial Services Loan Operations application is a solution in Financial Services Operations that supports personal and business loans. This solution enables your financial organization to quickly resolve customer-initiated requests and system-generated exceptions around loan servicing and can help you transform your middle and back-office loan operations.
 
 ## Request apps on the Store
 
@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text: [[configure-loan-operations|Configure Financial Services Loan Operations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/configure-loan-operations.md)
+[Configure \[Omitted image "bus-optimize-manage.svg"\] Alt text: Configure Financial Services Loan Operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-loan-operations/configure-loan-operations.md)
 
 </td><td>
 
@@ -46,8 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[configure-loan-operations|Configure Financial Services Loan Operations]]

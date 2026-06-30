@@ -14,11 +14,11 @@ breadcrumb: [Network traffic based alert grouping, Alert grouping types and crea
 
 # Enable network traffic-based alert grouping
 
-Activate network traffic-based [[c_ServiceAnalyticsOverview|alert grouping]] to automatically correlate and reduce alert noise by grouping related events based on network traffic patterns. This helps improve efficiency in alert response and streamlines alert management.
+Activate network traffic-based alert grouping to automatically correlate and reduce alert noise by grouping related events based on network traffic patterns. This helps improve efficiency in alert response and streamlines alert management.
 
 ## Before you begin
 
-Ensure the [[c_ServiceMappingOverview|Service Mapping]] Plus application \(sn\_sm\_scoped\_app\) is installed.
+Ensure the Service Mapping Plus application \(sn\_sm\_scoped\_app\) is installed.
 
 Role required: evt\_mgmt\_admin
 
@@ -26,12 +26,8 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Alert Correlation Properties**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Alert Correlation Properties**.
 
 2.  Ensure that the property Enable Network Traffic correlation \(**sa\_analytics.agg.query\_network\_traffic\_correlation\_enabled**\) is selected.
 
-## Related
 
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]

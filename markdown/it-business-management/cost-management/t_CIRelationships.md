@@ -22,7 +22,7 @@ Role required: financial\_mgmt\_admin
 
 ## About this task
 
-Use the demo data of the [[r_CostManagement|Cost Management]] plugin to understand how to check all expense lines related to a business service.
+Use the demo data of the Cost Management plugin to understand how to check all expense lines related to a business service.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Use the demo data of the [[r_CostManagement|Cost Management]] plugin to understa
 
     To view them:
 
-    1.  Navigate to **All** &gt; **Cost** &gt; **Costs** &gt; **[[c_CIRateCards|CI Rate Cards]]**.
+    1.  Navigate to **All** &gt; **Cost** &gt; **Costs** &gt; **CI Rate Cards**.
     2.  Select **Sun E20K Servers NY**.
     3.  Select the Expense Line related list.
 
@@ -56,7 +56,3 @@ Use the demo data of the [[r_CostManagement|Cost Management]] plugin to understa
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]
-- [[c_CIRateCards|CI rate cards]]

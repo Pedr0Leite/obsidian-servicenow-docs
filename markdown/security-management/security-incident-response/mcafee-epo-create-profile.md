@@ -14,7 +14,7 @@ breadcrumb: [Capability profiles, McAfee ePO integration, Security Incident Resp
 
 # Create a capability profile
 
-[[arcsight-esm-create-profile|Create a profile]] and select the McAfee ePO capabilities that you want the profile to run.
+Create a profile and select the McAfee ePO capabilities that you want the profile to run.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: ServiceNow AI Platform® Security incident administrator \(sn\_si
 
 For this step of the configuration, you create a profile for the McAfee ePO capabilities. When you create profiles, consider the intention of the profile before you add McAfee ePO capabilities to it. Refer to the following table when you create profiles.
 
-The following table lists the capabilities that you're required to add to a profile if you want the profile perform certain queries or actions. Create a single profile that runs queries for host details, initiates [[threat-intelligence-malware|malware]] scans, remove isolation, and isolates host machines, or, create multiple profiles, each with its own, single capability.
+The following table lists the capabilities that you're required to add to a profile if you want the profile perform certain queries or actions. Create a single profile that runs queries for host details, initiates malware scans, remove isolation, and isolates host machines, or, create multiple profiles, each with its own, single capability.
 
 ## Procedure
 
-1.  Navigate to **[[mcaffee-epo-overview-arch|McAfee ePO Integration]]** &gt; **McAfee ePO Capability Profiles**.
+1.  Navigate to **McAfee ePO Integration** &gt; **McAfee ePO Capability Profiles**.
 
     The McAfee ePO Capability Profiles list is displayed.
 
@@ -115,8 +115,3 @@ The next step is to configure your profile. Before you configure the settings fo
 
 **Parent Topic:**[McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md)
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[threat-intelligence-malware|Malware]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]

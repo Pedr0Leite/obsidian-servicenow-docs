@@ -22,7 +22,7 @@ While regular fields store a value in the database, a function field displays th
 
 Limitations:
 
--   Function fields in [[reporting-landing-page|reporting]] do not support dot walking.
+-   Function fields in reporting do not support dot walking.
 -   Security is evaluated on the components of the function and on the calculated value of the field. When used in visualizations, sections that contain information that the user is not allowed to see are hidden from the user.
 -   Only the creator of a function field or a platform admin can edit or deactivate that field. Platform admins can deactivate any function field.
 -   Field function names must be unique.
@@ -30,6 +30,3 @@ Limitations:
 
 **Parent Topic:**[Report on function fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/function-fields-reporting.md)
 
-## Related
-
-- [[reporting-landing-page|Reporting]]

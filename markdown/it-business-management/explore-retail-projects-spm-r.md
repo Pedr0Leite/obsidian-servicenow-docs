@@ -13,11 +13,11 @@ breadcrumb: [Explore, Retail Strategic Portfolio Management Suite, Strategic Por
 
 # Explore retail projects
 
-[[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]] enables retail organizations to plan, execute, and track store life cycle projects such as new store openings, closures, refurbishments, relocations, and technology refreshes.
+Retail Strategic Portfolio Management Suite enables retail organizations to plan, execute, and track store life cycle projects such as new store openings, closures, refurbishments, relocations, and technology refreshes.
 
 ## Retail Strategic Portfolio Management Suite overview
 
-Retail Strategic Portfolio Management Suite is a purpose-built extension of the [[r_ITBusinessManagement|Strategic Portfolio Management]] workspace that gives retail organizations a structured, repeatable way to manage store life cycle projects. It brings together project templates, retail-specific project fields, and stage-gate playbooks into a single interface. By consolidating project planning, milestone tracking, and portfolio visibility, the suite means you don't have to coordinate across disconnected tools or spreadsheets. You can select a project type, apply a predefined template, capture key dates, and guide your team through each stage from initiation to completion. Playbooks verify that every store project follows a consistent governance process regardless of the project manager or store location.
+Retail Strategic Portfolio Management Suite is a purpose-built extension of the Strategic Portfolio Management workspace that gives retail organizations a structured, repeatable way to manage store life cycle projects. It brings together project templates, retail-specific project fields, and stage-gate playbooks into a single interface. By consolidating project planning, milestone tracking, and portfolio visibility, the suite means you don't have to coordinate across disconnected tools or spreadsheets. You can select a project type, apply a predefined template, capture key dates, and guide your team through each stage from initiation to completion. Playbooks verify that every store project follows a consistent governance process regardless of the project manager or store location.
 
 Retail projects in Retail Strategic Portfolio Management Suite are structured, template-driven work items that guide teams through store life cycle scenarios.
 
@@ -77,18 +77,9 @@ Retail Strategic Portfolio Management Suite provides benefits for retail project
 
 To learn more about configuring and using Retail Strategic Portfolio Management Suite, see:
 
--   [[explore-spm-retail-suite|Explore Retail Strategic Portfolio Management Suite]]
--   [[playbooks-spm-retail-suite|Explore playbooks for retail projects]]
--   [[config-spm-retail-suite|Configure Retail Strategic Portfolio Management Suite]]
--   [[use-spm-retail-suite|Using Retail Strategic Portfolio Management Suite]]
--   [[references-spm-retail-suite|Retail Strategic Portfolio Management Suite References]]
+-   [Explore Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/explore-spm-retail-suite.md)
+-   [Explore playbooks for retail projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/playbooks-spm-retail-suite.md)
+-   [Configure Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/config-spm-retail-suite.md)
+-   [Using Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/use-spm-retail-suite.md)
+-   [Retail Strategic Portfolio Management Suite References](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/references-spm-retail-suite.md)
 
-## Related
-
-- [[explore-spm-retail-suite|Explore Retail Strategic Portfolio Management Suite]]
-- [[playbooks-spm-retail-suite|Explore playbooks for retail projects]]
-- [[config-spm-retail-suite|Configure Retail Strategic Portfolio Management Suite]]
-- [[use-spm-retail-suite|Using Retail Strategic Portfolio Management Suite]]
-- [[references-spm-retail-suite|Retail Strategic Portfolio Management Suite References]]
-- [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

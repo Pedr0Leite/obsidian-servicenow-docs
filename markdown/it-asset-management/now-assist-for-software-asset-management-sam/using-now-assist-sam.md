@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Software Asset Management \(SAM\), Software Asset Ma
 
 # Using generative AI skills in Now Assist for SAM
 
-If you have a [[c_SoftwareAssetMgmt|Software Asset Management]] manager role, you can use generative AI capabilities to streamline your daily Software Asset Management workflow.
+If you have a Software Asset Management manager role, you can use generative AI capabilities to streamline your daily Software Asset Management workflow.
 
 -   **[Generate publisher compliance summaries by using Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/summarize-publisher-compliance-now-assist-sam.md)**  
 Generate a comprehensive summary for a publisher that covers software deployment, license compliance, configuration health, and optimization. The detailed publisher summary helps you to gain insights into the publisher estate.
@@ -27,14 +27,9 @@ Generate error messages and detailed guidance to troubleshoot runtime job failur
 -   **[Automate user resolution for SaaS license management using Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/automate-userresolution-saas-now-assist-sam.md)**  
 Automatically generate user resolution rules to ensure accurate mapping of incoming SaaS subscription data to SAM users.
 -   **[Extract entitlements from software contracts using Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/extract-entitlements-from-contracts-now-assist-sam.md)**  
-Reduce manual effort by leveraging generative AI to automatically create entitlements by extracting information from software [[c_Contracts|contracts]].
+Reduce manual effort by leveraging generative AI to automatically create entitlements by extracting information from software contracts.
 -   **[Resolve entitlement import errors by using Now Assist for SAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/resolve-entitlement-import-error.md)**  
-Reduce manual effort when reviewing entitlement import errors in the [[sam-workspace|Software Asset Workspace]] using Now Assist for SAM AI skills.
+Reduce manual effort when reviewing entitlement import errors in the Software Asset Workspace using Now Assist for SAM AI skills.
 
 **Parent Topic:**[Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/now-assist-sam.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]

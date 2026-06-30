@@ -14,7 +14,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # Amazon API Gateway discovery with Patterns
 
-The ServiceNow [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] applications use the Amazon AWS API Gateway pattern to find Amazon API Gateways and connections to other entities. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery and Service Mapping applications use the Amazon AWS API Gateway pattern to find Amazon API Gateways and connections to other entities. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Starting with Discovery and Service Mapping Patterns version 1.29.0, the Amazon AWS API Gateway pattern data model has changed.
 
@@ -158,7 +158,7 @@ Concatenate of API ID + ".execute-api." + region + ".amazonaws.com".For example:
 |Name \[name\]|Unique name or IP address of the DNS host.|
 |IP Address \[ip\_address\]|IP address of the DNS host.|
 
-\[Omitted image "aws-api-gateway-dependency-view.png"\] Alt text: aWS API gateway CIs and connections on a [[dependency-views-map|Dependency Views map]]
+\[Omitted image "aws-api-gateway-dependency-view.png"\] Alt text: aWS API gateway CIs and connections on a Dependency Views map
 
 ## Relationships
 
@@ -197,8 +197,3 @@ Avoid duplicate AWS API Gateway configuration items \(CIs\) by retiring legacy d
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

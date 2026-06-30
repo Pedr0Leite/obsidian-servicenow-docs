@@ -18,7 +18,7 @@ View the details of changes in each committed changeset on the **Activities** ta
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_viewer or cdm\_editor or cdm\_exporter\_editor or cdm\_policy\_editor or cdm\_admin
 
@@ -60,7 +60,7 @@ Conflict / Reason for conflict
 
 </td><td>
 
-Boolean that indicates whether this changeset has [[settings-mobile|settings]] in conflict with another committed changeset.
+Boolean that indicates whether this changeset has settings in conflict with another committed changeset.
 
 </td></tr><tr><td>
 
@@ -119,8 +119,3 @@ The setting of the item in the case that a changeset was committed after this ch
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

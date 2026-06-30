@@ -14,9 +14,9 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 # Interactive Analysis information panel
 
-The **Filter Info** panel summarizes what the current filter shows and enables you to edit the source filter condition, bookmark an [[interactive-analysis|interactive analysis]], and share an interactive analysis with colleagues.
+The **Filter Info** panel summarizes what the current filter shows and enables you to edit the source filter condition, bookmark an interactive analysis, and share an interactive analysis with colleagues.
 
-Interactive analysis assumes that there are [[c_HomepagePublishers|interactive filters]] on the tables you are working in. To create filters, see [Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md).
+Interactive analysis assumes that there are interactive filters on the tables you are working in. To create filters, see [Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md).
 
 Click the information icon \(\[Omitted image "PreviewIcon.png"\] Alt text: Info icon\) to open the **Filter Info** panel.
 
@@ -57,7 +57,7 @@ You must have access to the list of records that you want to analyze.
 
 1.  Navigate to the table that you want to analyze.
 
-2.  Right-click on the header of the column you want to analyze and select **[[launch-interactive-analysis-pa|Launch Interactive Analysis]]**.
+2.  Right-click on the header of the column you want to analyze and select **Launch Interactive Analysis**.
 
 3.  Click the information icon \(\[Omitted image "PreviewIcon.png"\] Alt text:\) to open the **Filter Info** panel.
 
@@ -103,8 +103,3 @@ You must have access to the list of records that you want to analyze.
 
 You can share the URL for the interactive analysis via email with users who have rights to the information in the analysis.
 
-## Related
-
-- [[interactive-analysis|Interactive Analysis]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]

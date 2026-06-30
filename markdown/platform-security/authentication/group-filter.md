@@ -14,10 +14,7 @@ breadcrumb: [Filter criteria, Adaptive authentication, Authentication, Access Ma
 
 # Group Filter
 
-Use group filter criteria to filter [[users|users]] based on the user group to which the user belongs.
+Use group filter criteria to filter users based on the user group to which the user belongs.
 
 Group filter criteria allows or denies user access based on the user group to which the user belongs.
 
-## Related
-
-- [[users|Users]]

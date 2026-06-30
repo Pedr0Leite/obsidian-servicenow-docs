@@ -48,11 +48,7 @@ Entity classes are used to add conceptual information about an entity. Entity cl
 
 ## What to do next
 
-[[update-entity-class|Update an entity class]]
+[Update an entity class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/update-entity-class.md)
 
-**Parent Topic:**[[entities-in-esg|Manage entities in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/entities-in-esg.md)
 
-## Related
-
-- [[update-entity-class|Update an entity class]]
-- [[entities-in-esg|Manage entities in Operational Sustainability Management \(formerly ESG Management\)]]

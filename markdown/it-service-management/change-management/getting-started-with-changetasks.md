@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Change Management, Use, Change Management, IT
 
 # Get started with Change Management mobile tasks
 
-Access Mobile Agent on your mobile device to manage [[change-tasks|change tasks]].
+Access Mobile Agent on your mobile device to manage change tasks.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ When you implement the change task, you can close the task from the Mobile Agent
 
 **Parent Topic:**[Mobile experience for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/mobile-experience-cm.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

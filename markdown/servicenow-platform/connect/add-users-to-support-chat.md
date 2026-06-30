@@ -14,17 +14,17 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Add a user to a Connect Support conversation
 
-You can add additional users to a [[c_ConnectSupport|Connect Support]] conversation.
+You can add additional users to a Connect Support conversation.
 
 ## Before you begin
 
-An administrator must enable the **glide.[[c_Connect|connect]].support.add\_members** property before users can be added to conversations.
+An administrator must enable the **glide.connect.support.add\_members** property before users can be added to conversations.
 
 Role required: none
 
 ## Procedure
 
-1.  Open a group or record conversation in the [[c_CollaborationWorkspace|Connect workspace]].
+1.  Open a group or record conversation in the Connect workspace.
 
 2.  In the conversation tools to the right of the conversation pane, click the member list tab \(\[Omitted image "IconMemberList.png"\] Alt text: Member list tab\).
 
@@ -42,7 +42,7 @@ Role required: none
 
 </td></tr><tr><td id="d517212e111">
 
-**[[t_RemoveAMember|Remove a member]]**
+**Remove a member**
 
 </td><td>
 
@@ -53,9 +53,4 @@ The assigned support agent cannot be removed from a Connect Support conversation
 </td></tr></tbody>
 </table>    **Note:** Only the assigned support agent can create an incident from the Connect Support conversation.
 
-## Related
 
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[c_CollaborationWorkspace|Connect workspace]]
-- [[t_RemoveAMember|Remove a member]]

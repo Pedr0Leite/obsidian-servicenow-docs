@@ -14,7 +14,7 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 Learn how to create and upload a CSV file that contains a layout specification.
 
-[[layouts|Layouts]] are defined in a blueprint. When more than one layout is defined for a blueprint, end users rotate through them using the alternate layout button in the upper-right corner of the buyside UI.
+Layouts are defined in a blueprint. When more than one layout is defined for a blueprint, end users rotate through them using the alternate layout button in the upper-right corner of the buyside UI.
 
 Layouts are defined via CSV file that contains all instructions for the layout. For ease of administration, we recommend that admins build their layout in a spreadsheet \(Google Sheets, Microsoft Excel, or similar\) and export to CSV format.
 
@@ -22,7 +22,7 @@ Layouts are defined via CSV file that contains all instructions for the layout. 
 
 Access a layout from its corresponding blueprint administration page.
 
-1.  In the CPQ Admin navigation pane, click **[[blueprints|Blueprints]]** \(2\).
+1.  In the CPQ Admin navigation pane, click **Blueprints** \(2\).
 2.  Click the Layouts tab \(3\).
 3.  Click the name of the blueprint you want to access.
 
@@ -80,7 +80,7 @@ The type column defines the layout components. The following table shows valid v
 
 The path column value format gives a visual cue to the placement of the element override source label, and is not currently used by the application. Leave it empty.
 
-`label` defines the label to display to the end-user in the UI for tiers and [[fields|fields]].
+`label` defines the label to display to the end-user in the UI for tiers and fields.
 
 `variablename` defines a unique identifier for a tier or field.
 
@@ -382,17 +382,9 @@ For picklist display components that include images, when options are disabled, 
 **Related topics**  
 
 
-[[layout_wizard|Layout Wizard]]
+[Layout Wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_wizard.md)
 
-[[layout_editor|Layout editor]]
+[Layout editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_editor.md)
 
-[[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
+[Configure the Matrix Loader](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
-## Related
-
-- [[layout_wizard|Layout Wizard]]
-- [[layout_editor|Layout editor]]
-- [[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
-- [[layouts|Layouts]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]

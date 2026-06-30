@@ -14,7 +14,7 @@ breadcrumb: [Comparing replicated data, Administer, Instance Data Replication, M
 
 # Find missing or mismatched records in Instance Data Replication
 
-Find records missing from the consumer instance or mismatched records after data has been replicated by creating a data comparison request in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Find records missing from the consumer instance or mismatched records after data has been replicated by creating a data comparison request in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -128,7 +128,7 @@ Option to automatically seed any missing or mismatched records from the producer
 
     1.  Navigate to the IDR Instance Comparison Results related list.
 
-    2.  Select the [[check-box|check box]] next to any record with a **Mismatched** value in the **Record Type** column.
+    2.  Select the check box next to any record with a **Mismatched** value in the **Record Type** column.
 
     3.  Select the **Actions on selected rows** list.
 
@@ -147,7 +147,3 @@ Option to automatically seed any missing or mismatched records from the producer
 
 **Parent Topic:**[Comparing replicated data between instances in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/comparing-replicated-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[check-box|Check box]]

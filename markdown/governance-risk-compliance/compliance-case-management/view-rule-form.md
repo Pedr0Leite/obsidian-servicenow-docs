@@ -14,7 +14,7 @@ breadcrumb: [Create view rule, Create a case type, Configure, Compliance Case Ma
 
 # View Rule form
 
-Use the View Rule form to define the workspace and default view rules in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Use the View Rule form to define the workspace and default view rules in the GRC: Compliance Case Management application.
 
 See the following table for a description of the field values.
 
@@ -170,6 +170,3 @@ Item that should be in focus when you open a record in the table that is specifi
 </td></tr></tbody>
 </table>**Parent Topic:**[Create view rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-view-rule.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

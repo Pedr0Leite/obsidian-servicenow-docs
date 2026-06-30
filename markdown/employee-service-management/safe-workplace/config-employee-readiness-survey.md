@@ -14,7 +14,7 @@ breadcrumb: [Employee Readiness Surveys, Safe Workplace, Health and Safety, Empl
 
 # Configure Employee Readiness Surveys notifications
 
-The administrator can add or modify [[employee-readiness-surveys|Employee Readiness Surveys]] notifications. Users with the sn\_imt\_checkin.checkin\_admin or survey\_admin role can view the base system survey and copy it to make changes, or add a new survey.
+The administrator can add or modify Employee Readiness Surveys notifications. Users with the sn\_imt\_checkin.checkin\_admin or survey\_admin role can view the base system survey and copy it to make changes, or add a new survey.
 
 **Parent Topic:**[Employee Readiness Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-readiness-surveys.md)
 
@@ -30,7 +30,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-outreach|Emergency Outreach]]** &gt; **Send Outreach**, and then select the Content configuration tab.
+1.  Navigate to **All** &gt; **Emergency Outreach** &gt; **Send Outreach**, and then select the Content configuration tab.
 
 2.  In the **Response Mode** field, select **Survey**.
 
@@ -92,7 +92,4 @@ Role required: admin
 
 11. Select **Update**.
 
-## Related
 
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[emergency-outreach|Emergency Outreach]]

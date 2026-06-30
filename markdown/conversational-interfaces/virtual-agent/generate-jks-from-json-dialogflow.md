@@ -14,7 +14,7 @@ breadcrumb: [Using Google Dialogflow as a secondary bot with Virtual Agent Bot I
 
 # Generate a Java Keystore file from the JSON private key file
 
-To use Google Dialogflow with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, the third step is to generate a JKS file from the JSON private key you created in the previous step.
+To use Google Dialogflow with Virtual Agent Bot Interconnect, the third step is to generate a JKS file from the JSON private key you created in the previous step.
 
 ## Before you begin
 
@@ -97,6 +97,3 @@ A JKS file is created.
 
 **Next topic:**[Configure connections to Google Dialogflow in your Virtual Agent Bot Interconnect instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-sn-instance-google-dialogflow.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

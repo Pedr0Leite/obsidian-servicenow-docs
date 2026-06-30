@@ -28,7 +28,7 @@ Description
 
 Get the Microsoft Purview credentials to fetch the event data and AWS/Azure Storage account credentials to store the match content
 
- Register an application with the Microsoft [[identity|identity]] platform
+ Register an application with the Microsoft identity platform
 
 </td><td>
 
@@ -71,7 +71,7 @@ Verify that the ServiceNow core applications required to support the Microsoft D
 </td><td>
 
 Verify that the following DLP IR applications and security support common applications are installed and activated from the ServiceNow Store. Install and activate through the application, if required. -   Security Support Common
--   [[dlp-landing|Data Loss Prevention Incident Response]]
+-   Data Loss Prevention Incident Response
 
 </td></tr></tbody>
 </table><table id="table_u52_yyl_vwb"><thead><tr><th>
@@ -198,7 +198,3 @@ Any one of the following permissions are required if the users would like to vie
 
 **Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-integration-microsoft.md)
 
-## Related
-
-- [[identity|Identity]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

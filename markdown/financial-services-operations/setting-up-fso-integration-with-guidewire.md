@@ -22,7 +22,7 @@ To set up your integration, complete the following application setup actions.
 
 ## Procedure
 
-1.  Install the [[personal-lines-claims-landing-page|Personal Lines Claims]] or [[commercial-lines-claims-landing-page|Commercial Lines Claims]] plugins as needed.
+1.  Install the Personal Lines Claims or Commercial Lines Claims plugins as needed.
 
     For more information about installing Personal Lines Claims, see [Install Personal Lines Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/install-personal-lines-claims.md).
 
@@ -37,10 +37,5 @@ To set up your integration, complete the following application setup actions.
     For more information on how to integrate and set up a ServiceNow instance with your Guidewire account, see [Guidewire Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/guidewire-spoke.md).
 
 
-**Parent Topic:**[[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
+**Parent Topic:**[Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-guidewire-landing-page.md)
 
-## Related
-
-- [[fso-integration-with-guidewire-landing-page|Financial Services Operations Integration with Guidewire]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]

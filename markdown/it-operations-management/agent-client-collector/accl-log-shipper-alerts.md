@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Log Analytics setup, ACC deployment - server
 
 # View log shipper alerts
 
-View all log shipper check alerts for [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) agents.
+View all log shipper check alerts for Agent Client Collector Log Analytics \(ACC-L\) agents.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: agent\_client\_collector\_admin
 
 In the ACC Alerts list, you can see at a glance if any issues are preventing the log shipper from collecting data. The list shows all log shipper-related alerts in one place and provides information to help you resolve the issues.
 
-The ACC Alerts list only includes alerts about the success or failure of log shipper execution on a CI on a specific agent. These alerts are a subset of the alerts shown in the [[c_EM|Event Management]] Alerts list, which includes alerts of all types. For more information about the Event Management Alerts list, see [View alert information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md).
+The ACC Alerts list only includes alerts about the success or failure of log shipper execution on a CI on a specific agent. These alerts are a subset of the alerts shown in the Event Management Alerts list, which includes alerts of all types. For more information about the Event Management Alerts list, see [View alert information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md).
 
 Log shipper alerts are generated from log shipper events with a severity of Major or Critical. These alerts are typically related to log path issues or a lack of permissions.
 
@@ -48,7 +48,3 @@ Log shipper alerts are generated from log shipper events with a severity of Majo
 
 [View log shipper events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-log-shipper-events.md)
 
-## Related
-
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[c_EM|Event Management]]

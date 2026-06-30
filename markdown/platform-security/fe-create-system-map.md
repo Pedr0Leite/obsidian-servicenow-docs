@@ -12,7 +12,7 @@ breadcrumb: [Module access policies for inbound email attachment encryption, Enc
 
 # Create a system module access policy
 
-[[create-module-access-policy|Create a module access policy]] \(MAP\) for a matched user to encrypt attachments when inbound [[email|email]] processing runs as that user.
+Create a module access policy \(MAP\) for a matched user to encrypt attachments when inbound email processing runs as that user.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: **security\_admin** and **sn\_kmf.crypto\_manager** \(or **sn\_km
 
 ## About this task
 
-These instructions create a system-based MAP for the system user's role. See [[maps-for-fe|Configure module access policies for Field Encryption]] for information.
+These instructions create a system-based MAP for the system user's role. See [Configure module access policies for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/maps-for-fe.md) for information.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
-2.  Select **Access [[ca-policies|Policies]]** in the tile of the module configured for the target table's [[encryption-landing|encryption]] [[sc-configuration|configuration]].
+2.  Select **Access Policies** in the tile of the module configured for the target table's encryption configuration.
 
 3.  Select **Create new**.
 
@@ -47,15 +47,5 @@ These instructions create a system-based MAP for the system user's role. See [[m
 
 The system MAP has been created.
 
-**Parent Topic:**[[fe-maps-inbound-email-attachment-encryption|Module access policies for inbound email attachment encryption]]
+**Parent Topic:**[Module access policies for inbound email attachment encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-maps-inbound-email-attachment-encryption.md)
 
-## Related
-
-- [[maps-for-fe|Configure module access policies for Field Encryption]]
-- [[fe-maps-inbound-email-attachment-encryption|Module access policies for inbound email attachment encryption]]
-- [[create-module-access-policy|Create a module access policy]]
-- [[email|Email]]
-- [[field-encryption|Field Encryption]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

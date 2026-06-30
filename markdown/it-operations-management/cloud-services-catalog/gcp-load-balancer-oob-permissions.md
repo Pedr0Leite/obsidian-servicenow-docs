@@ -64,7 +64,7 @@ Provision
 
 </td></tr><tr><td>
 
-Pointed [[r-discovery|discovery]]
+Pointed discovery
 
 </td><td>
 
@@ -111,6 +111,3 @@ Stack - Deprovision
 </td></tr></tbody>
 </table>**Parent Topic:**[Google Cloud Platform Load Balancer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-load-balancer.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

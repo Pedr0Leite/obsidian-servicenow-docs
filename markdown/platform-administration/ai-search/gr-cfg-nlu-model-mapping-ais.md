@@ -16,7 +16,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 The AI Search Genius Result Configuration NLU Model Mapping form enables you to link a Genius Result configuration to an NLU model.
 
-For details on linking Genius Result [[clone-configurations-tab|configurations]] to NLU models, see [Link an NLU model and intents to a Genius Result configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-nlu-model-genius-result-ais.md).
+For details on linking Genius Result configurations to NLU models, see [Link an NLU model and intents to a Genius Result configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-nlu-model-genius-result-ais.md).
 
 |Field|Description|
 |-----|-----------|
@@ -29,6 +29,3 @@ For details on linking Genius Result [[clone-configurations-tab|configurations]]
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]

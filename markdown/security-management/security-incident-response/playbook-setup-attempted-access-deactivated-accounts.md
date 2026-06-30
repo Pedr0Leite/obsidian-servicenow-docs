@@ -23,7 +23,7 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
     \[Omitted image "playbook-attempted-access-deactivated-overview.png"\] Alt text: Overview of the Attempted Access to Deactivated Accounts playbook.
 
-4.  Activate the [[tisc-playbooks-admin|playbooks]].
+4.  Activate the playbooks.
 
     1.  Activate the main flow to use the playbook available in the base system.
 
@@ -52,7 +52,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for Attempted Access to Deactivated Accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-attempted-access-deactivated-accounts.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-playbooks-admin|Playbooks]]

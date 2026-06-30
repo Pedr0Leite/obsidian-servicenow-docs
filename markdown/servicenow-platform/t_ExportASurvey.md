@@ -22,7 +22,7 @@ For information about update sets, see [System update sets](https://raw.githubus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Right-click the name of a record to show the context menu.
 
@@ -31,9 +31,5 @@ For information about update sets, see [System update sets](https://raw.githubus
 4.  If applicable, follow the prompt in your browser to save the XML file.
 
 
-**Parent Topic:**[[c_SurveyInportAndExport|Sharing surveys]]
+**Parent Topic:**[Sharing surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyInportAndExport.md)
 
-## Related
-
-- [[c_SurveyInportAndExport|Sharing surveys]]
-- [[r_SurveyManagementLandingPage|Surveys]]

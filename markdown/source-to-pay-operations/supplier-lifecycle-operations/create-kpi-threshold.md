@@ -26,13 +26,13 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 Ensure that you add at least two active thresholds to activate a KPI template. You can add a maximum of five thresholds to a KPI template.
 
-**Note:** Thresholds help determine what score the [[supplier|supplier]] receives in the **KPI management** tab and in the scorecard. For more information, see [Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-mgmt-tab-supplier.md).
+**Note:** Thresholds help determine what score the supplier receives in the **KPI management** tab and in the scorecard. For more information, see [Manage supplier KPIs from the supplier record page of the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-mgmt-tab-supplier.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), and navigate to **Lists** &gt; **Performance management** &gt; **[[kpi-templates|KPI Templates]]**.
+2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), and navigate to **Lists** &gt; **Performance management** &gt; **KPI Templates**.
 
 3.  In the Name column, select the link to the KPI template.
 
@@ -131,9 +131,3 @@ The color you select for each threshold is inherited by the Status column \(show
 
 [Create manual KPI templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-template-slo.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[kpi-templates|KPI templates]]

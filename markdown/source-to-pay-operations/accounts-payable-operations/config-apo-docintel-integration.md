@@ -15,9 +15,9 @@ breadcrumb: [Install Accounts Payable Operations integration with Document Intel
 
 # Configuring the invoice ingestion flows using Accounts Payable Operations integration with Document Intelligence
 
-[[config-acc-pay-mgmt|Configure Accounts Payable Operations]] integration with Document Intelligence to automatically create an invoice processing case and extract the required data from an invoice attachment received via email.
+Configure Accounts Payable Operations integration with Document Intelligence to automatically create an invoice processing case and extract the required data from an invoice attachment received via email.
 
-The process for configuring [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] includes the following scenarios:
+The process for configuring Accounts Payable Operations integration with Document Intelligence includes the following scenarios:
 
 <table id="table_lmf_qyg_1xb"><thead><tr><th>
 
@@ -60,8 +60,3 @@ When Document Intelligence is installed but you want to disable the invoice inge
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[config-acc-pay-mgmt|Configure Accounts Payable Operations]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

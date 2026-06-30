@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Funnels tab
 
-Funnels provide cumulative filtering of conversation flows. Using funnels, you can identify whether your conversation flows are performing effectively when users chat with [[virtual-agent-landing-page|Virtual Agent]].
+Funnels provide cumulative filtering of conversation flows. Using funnels, you can identify whether your conversation flows are performing effectively when users chat with Virtual Agent.
 
 **Note:** Funnels is accessible only to users who have funnels created prior to upgrading to the new dashboard. Users with funnels created in the legacy dashboard can view the analytics related to funnels and edit the funnels in the new dashboard, however, creation of funnels is no longer supported.
 
@@ -76,6 +76,3 @@ You can compare the performance of previous and current conversation flows. Funn
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

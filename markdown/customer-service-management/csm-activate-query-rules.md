@@ -12,10 +12,7 @@ breadcrumb: [Configure Service Model Foundation, Data models, Set up your enviro
 
 # Activate query rules
 
-Set the query [[gamification-components-rules|rules]] system property \[sn\_cs\_queryrules.use\_query\_rules\] value to **true**. For upgrade customers, once set to **true**, you must migrate any changes made in before query business rules to the query rules feature and validate them.
+Set the query rules system property \[sn\_cs\_queryrules.use\_query\_rules\] value to **true**. For upgrade customers, once set to **true**, you must migrate any changes made in before query business rules to the query rules feature and validate them.
 
 Ensure you have sn\_queryrules.admin role to activate the query rules.
 
-## Related
-
-- [[gamification-components-rules|Rules]]

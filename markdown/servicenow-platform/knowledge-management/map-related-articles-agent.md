@@ -14,7 +14,7 @@ breadcrumb: [Authoring a knowledge article in Agent Workspace, Creating and main
 
 # Map a related article in Agent Workspace
 
-Discover similar information across articles on a topic while viewing a knowledge article. You can manually [[map-related-articles|map related articles]] or have the application automatically present related articles using machine learning \(ML\) algorithms.
+Discover similar information across articles on a topic while viewing a knowledge article. You can manually map related articles or have the application automatically present related articles using machine learning \(ML\) algorithms.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: agent\_workspace\_user
 
 ## About this task
 
-If you have manually mapped related articles when editing an article in Agent Workspace, those articles are listed in the Related Articles section on the knowledge article view page in the [[knowledge-management|Knowledge Management]] Service Portal before the related articles that are predicted thorough the Knowledge Management similarity solution.
+If you have manually mapped related articles when editing an article in Agent Workspace, those articles are listed in the Related Articles section on the knowledge article view page in the Knowledge Management Service Portal before the related articles that are predicted thorough the Knowledge Management similarity solution.
 
 **Note:** An administrator can train the solution definition for Knowledge Management within the Predictive Intelligence feature to find related articles. For more information, see [Train the similarity solution for Knowledge Management to find related articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/train-similarity-solution-km.md).
 
@@ -97,7 +97,3 @@ The mapped articles are available in the Related Articles section on the Knowled
 
 [Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace.md)
 
-## Related
-
-- [[map-related-articles|Map related articles]]
-- [[knowledge-management|Knowledge Management]]

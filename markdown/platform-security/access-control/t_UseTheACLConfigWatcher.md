@@ -14,13 +14,13 @@ breadcrumb: [ACL configuration watcher, ACL debugging tools, Advanced ACL config
 
 # Use the ACL configuration watcher
 
-Use the ACL configuration watcher after you elevate to [[security-admin-role|security\_admin role]].
+Use the ACL configuration watcher after you elevate to security\_admin role.
 
 ## Before you begin
 
 Role required: security\_admin
 
-[[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
+[Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md)
 
 ## Procedure
 
@@ -28,7 +28,7 @@ Role required: security\_admin
 
 2.  Perform an action on the ACL, such as modifying it, or selecting an option from the context menu like **Insert**.
 
-3.  If you modified any values on the [[sc-access-control|Access Control]] form, right-click the header and select **Save** or click **Update** or **Delete**.
+3.  If you modified any values on the Access Control form, right-click the header and select **Save** or click **Update** or **Delete**.
 
     The Security Rules window appears. The system did not yet perform the database action on the ACL, so the changes are not yet saved.
 
@@ -46,8 +46,4 @@ Role required: security\_admin
 
 5.  Hover your mouse over any of the ACLs to see a description.
 
-## Related
 
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[security-admin-role|Security\_admin role]]
-- [[sc-access-control|Access control]]

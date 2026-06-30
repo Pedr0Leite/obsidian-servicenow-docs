@@ -36,7 +36,7 @@ Various transaction quota rules are available in the base system.
 
     Cancels AMB transactions lasting longer than the specified maximum duration. Applies to all AMB transaction types: message send and message receive.
 
--   **[[reference-email-admin|Reference]] Completer**
+-   **Reference Completer**
 
     Stops the reference completer transaction after five seconds.
 
@@ -54,7 +54,7 @@ Various transaction quota rules are available in the base system.
 
 -   **UA Count Persistor Quota**
 
-    Prevents UA count persistor [[c_ScheduledJobs|scheduled jobs]] from running for more than one hour.
+    Prevents UA count persistor scheduled jobs from running for more than one hour.
 
 -   **UI Transactions**
 
@@ -67,13 +67,7 @@ Various transaction quota rules are available in the base system.
 
 ## Normal transaction activities
 
-Before setting [[c_TransactionQuotas|transaction quotas]], navigate to **[[c_UserAdministration|User Administration]]** &gt; **Active Transactions** to review the normal transaction activities for your instance. You can [view and terminate long-running transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ViewAndKillAnActiveTransaction.md) if necessary. Over time, you can determine the normal transaction load for your instance and set your quotas to match these norms.
+Before setting transaction quotas, navigate to **User Administration** &gt; **Active Transactions** to review the normal transaction activities for your instance. You can [view and terminate long-running transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/t_ViewAndKillAnActiveTransaction.md) if necessary. Over time, you can determine the normal transaction load for your instance and set your quotas to match these norms.
 
 **Parent Topic:**[Platform performance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/platform-performance-references.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_TransactionQuotas|Transaction quotas]]
-- [[c_UserAdministration|User administration]]

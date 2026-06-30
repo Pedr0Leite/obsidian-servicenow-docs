@@ -12,7 +12,7 @@ breadcrumb: [Use, Sales Customer Relationship Management]
 
 # Using Partner Relationship Management
 
-Install the [[partner-relationship-management|Partner Relationship Management]] plugin \(com.snc.partner\_relationship\_management\) to enable admins and channel partners to use the self-service Partner portal.
+Install the Partner Relationship Management plugin \(com.snc.partner\_relationship\_management\) to enable admins and channel partners to use the self-service Partner portal.
 
 As an Enterprise Partner Relationship manager or a channel partner you can use the Partner Portal to do any of the following tasks.
 
@@ -42,9 +42,9 @@ Create
 
 </td><td>
 
-Allows channel partners to create deal registrations, cases, or quotes.To learn more about creating deal registrations, see [[register-a-deal-partner-portal|Register a deal on Partner portal]].
+Allows channel partners to create deal registrations, cases, or quotes.To learn more about creating deal registrations, see [Register a deal on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-deal-partner-portal.md).
 
-To learn more about creating quotes, see [[create-a-self-service-quote|Create a Quote via Self-Service for Channel Partners]].
+To learn more about creating quotes, see [Create a Quote via Self-Service for Channel Partners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-a-self-service-quote.md).
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ General Inquiry
 
 </td><td>
 
-Raise concerns or queries with the enterprise.To learn more about general inquiry, see [[raise-an-inquiry-on-partner-portal|Raise an inquiry on Partner Portal]].
+Raise concerns or queries with the enterprise.To learn more about general inquiry, see [Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/raise-an-inquiry-on-partner-portal.md).
 
 </td></tr><tr><td>
 
@@ -157,18 +157,18 @@ Search for support articles and other requests.Enter a search word or term and s
 </td></tr></tbody>
 </table>-   **[Raise an inquiry on Partner Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/raise-an-inquiry-on-partner-portal.md)**  
 Raise a query or concern with the enterprise on the Partner Portal.
--   **[[register-a-member-on-partner-portal|Register a member on Partner portal]]**  
+-   **[Register a member on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-member-on-partner-portal.md)**  
 Register a new partner member or transfer existing staff within a partner organization.
 -   **[Register a deal on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-deal-partner-portal.md)**  
 Register a deal on the Partner portal to update its state and trigger the end-to-end life cycle of the deal.
 -   **[Create a Quote via Self-Service for Channel Partners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-a-self-service-quote.md)**  
 Use the Quote Self-Service plugin \(com.sn\_quote\_self\_service\) to create and submit a configured quote directly from the Partner portal.
--   **[[view-opportunity-analytics-on-partner-portal|View opportunity analytics on Partner portal]]**  
+-   **[View opportunity analytics on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-opportunity-analytics-on-partner-portal.md)**  
 View detailed analytics related to the opportunities accessible to you on the Partner portal.
--   **[[view-quote-analytics-on-partner-portal|View quote analytics on Partner portal]]**  
+-   **[View quote analytics on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-quote-analytics-on-partner-portal.md)**  
 View detailed analytics related to all the quotes associated to a channel partner on the Partner portal.
 
-**Parent Topic:**[[som-using|Using Sales Customer Relationship Management applications]]
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 
 **Related topics**  
 
@@ -177,13 +177,3 @@ View detailed analytics related to all the quotes associated to a channel partne
 
 [Register a member on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-member-on-partner-portal.md)
 
-## Related
-
-- [[register-a-deal-partner-portal|Register a deal on Partner portal]]
-- [[create-a-self-service-quote|Create a Quote via Self-Service for Channel Partners]]
-- [[raise-an-inquiry-on-partner-portal|Raise an inquiry on Partner Portal]]
-- [[register-a-member-on-partner-portal|Register a member on Partner portal]]
-- [[view-opportunity-analytics-on-partner-portal|View opportunity analytics on Partner portal]]
-- [[view-quote-analytics-on-partner-portal|View quote analytics on Partner portal]]
-- [[som-using|Using Sales Customer Relationship Management applications]]
-- [[partner-relationship-management|Partner Relationship Management]]

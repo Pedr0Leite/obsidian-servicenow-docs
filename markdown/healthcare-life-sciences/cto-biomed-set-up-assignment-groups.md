@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-In [[care-team-operations-for-biomed|Care Team Operations for Biomed]], assignment groups must be configured so that work orders created from biomed cases can be fulfilled.
+In Care Team Operations for Biomed, assignment groups must be configured so that work orders created from biomed cases can be fulfilled.
 
 **Important:**
 
@@ -36,7 +36,7 @@ For both of the above roles, the **Locations Covered** related list displays all
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations**.
 
 2.  Select the healthcare organization you want to associate an assignment group with.
 
@@ -73,7 +73,4 @@ Name of the assignment group that is to be added.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[healthcare-operations-overview|Healthcare Operations]]

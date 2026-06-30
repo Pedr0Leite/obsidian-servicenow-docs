@@ -15,7 +15,7 @@ breadcrumb: [Configure, AI Control Tower, Enable AI experiences]
 
 # Configure third-party LLMs using AI Control Tower
 
-Use the [[ai-control-tower-landing|AI Control Tower]] to configure third-party LLMs based on the data routing configuration for the APJC region..
+Use the AI Control Tower to configure third-party LLMs based on the data routing configuration for the APJC region..
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **AI Control Tower** &gt; **[[exploring-ai-governance|Configurations]]** &gt; **[[controls|Controls]]** &gt; **AI model providers**.
+1.  Navigate to **All** &gt; **AI Control Tower** &gt; **Configurations** &gt; **Controls** &gt; **AI model providers**.
 
 2.  Select **Edit**.
 
@@ -82,8 +82,3 @@ For information about Data routing, Fallback, and Spillover, see [Explore AI mod
 
 For information about scenarios for configuring third-party LLMs for regulated markets and AMS &amp; EMEA regions, see [Explore the third-party LLMs and regions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/exploring-third-party-llms-and-data-routing-configuration.md)
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[exploring-ai-governance|Configurations]]
-- [[controls|Controls]]

@@ -22,7 +22,7 @@ Confirm that the Model Management plugin \(com.snc.model\) is installed.
 
 ## About this task
 
-A product model is a specific version or configuration of a product. Build hierarchical [[product-models|product models]] that represent the set of products that your organization offers to its customers and define relationships between different product models. Define whether a product is tracked as an asset, a CI, or both. Additionally, identify or create the CI and asset classes to capture configuration information for product models.
+A product model is a specific version or configuration of a product. Build hierarchical product models that represent the set of products that your organization offers to its customers and define relationships between different product models. Define whether a product is tracked as an asset, a CI, or both. Additionally, identify or create the CI and asset classes to capture configuration information for product models.
 
 Product models provide customer service agents and customers with a common understanding of the products being used by a particular customer. Customers can view the products purchased on the Customer Service Portal and can open cases for any issues they are facing.
 
@@ -49,6 +49,4 @@ Product models provide customer service agents and customers with a common under
 
     **Note:** In the **Sold Product** related list, you can see all the accounts and consumers that the product model has been sold to.
 
-## Related
 
-- [[product-models|Product models]]

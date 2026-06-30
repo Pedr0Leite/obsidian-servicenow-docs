@@ -14,7 +14,7 @@ breadcrumb: [LDAP integration setup, LDAP integration, Authentication, Access Ma
 
 # Auto provision LDAP users
 
-You automatically provision [[users|users]] who are in the LDAP server but not yet in your instance.
+You automatically provision users who are in the LDAP server but not yet in your instance.
 
 ## Before you begin
 
@@ -22,17 +22,13 @@ Role required: admin
 
 ## Procedure
 
--   Create the following properties in the [[ca-system-properties|System Properties]] \[sys\_properties\] table:
+-   Create the following properties in the System Properties \[sys\_properties\] table:
 
     |LDAP property|Description|
     |-------------|-----------|
-    |glide.ldap.authentication|Enables LDAP [[c_Authentication|authentication]] by using LDAP to authenticate users. Set this property to **true** \(the default value\).|
+    |glide.ldap.authentication|Enables LDAP authentication by using LDAP to authenticate users. Set this property to **true** \(the default value\).|
     |glide.ldap.user.autoprovision|Enables LDAP the system to automatically create users in the User \[sys\_user\] table when the user exists in LDAP but is not yet in the instance. Set this property to **true** \(the default value\).|
 
     Both of these properties must be set to **true** for auto-provisioning to work.
 
-## Related
 
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[c_Authentication|Authentication]]

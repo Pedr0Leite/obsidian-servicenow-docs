@@ -22,7 +22,7 @@ Role required: sn\_imt\_travel.approver or admin
 
 ## Procedure
 
-1.  Navigate to **[[employee-travel-safety|Employee Travel Safety]]** and select the appropriate module.
+1.  Navigate to **Employee Travel Safety** and select the appropriate module.
 
     |To|Select|
     |---|------|
@@ -43,6 +43,3 @@ An email notification stating that the request was canceled is sent to the reque
 
 **Parent Topic:**[Employee Travel Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-travel-safety/employee-travel-safety.md)
 
-## Related
-
-- [[employee-travel-safety|Employee Travel Safety]]

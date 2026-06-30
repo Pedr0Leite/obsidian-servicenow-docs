@@ -34,9 +34,9 @@ Review these logs to troubleshoot which CMDB tables were inferred by NLQ.
 
 1.  Navigate to **All** &gt; **NLQ** &gt; **Table Guesser Logs**.
 
-2.  Select the personalize list icon \(\[Omitted image "List\_PersonalizeListIcon.png"\] Alt text: personalize list icon\) to display the columns **Matched words to table names** and **[[docintel-confidence-scores|Confidence scores]]**.\[Omitted image "view-nlq-table-guesser-logs010V.png"\] Alt text: The list view of the NLQ Table Guesser Query Logs module with some example rows.
+2.  Select the personalize list icon \(\[Omitted image "List\_PersonalizeListIcon.png"\] Alt text: personalize list icon\) to display the columns **Matched words to table names** and **Confidence scores**.\[Omitted image "view-nlq-table-guesser-logs010V.png"\] Alt text: The list view of the NLQ Table Guesser Query Logs module with some example rows.
 
-    The **Utterance** column shows the user's [[natural-language-query|natural language query]].
+    The **Utterance** column shows the user's natural language query.
 
 3.  Use the information in the **Matched words to table names** column for troubleshooting if needed.
 
@@ -58,7 +58,3 @@ For more information on CMDB queries, see [Exploring CMDB Query Builder](https:/
 
 [View NLQ logs]()
 
-## Related
-
-- [[docintel-confidence-scores|Confidence scores]]
-- [[natural-language-query|Natural Language Query]]

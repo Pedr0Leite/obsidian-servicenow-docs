@@ -19,7 +19,7 @@ Explore the AI connections setup page and its features.
 
 ## AI connections overview
 
-Use the [[enterprise-ai-discovery|AI connections]] page to integrate third-party systems and discover [[ai-assets|AI assets]]. You can track data usage from hyperscalers, AI apps, and agentic AI frameworks using Service Graph Connectors \(SGC\). AI stewards have access to the AI connections page, where data sources are listed in columns.
+Use the AI connections page to integrate third-party systems and discover AI assets. You can track data usage from hyperscalers, AI apps, and agentic AI frameworks using Service Graph Connectors \(SGC\). AI stewards have access to the AI connections page, where data sources are listed in columns.
 
 **Note:** The AI connections page is visible only when both the com.sn\_ai\_disc and sn\_sgc\_central plugins are installed.
 
@@ -56,7 +56,3 @@ Data sources- Represent a running unit, which defines what data is fetched from 
 
 Import schedules- Run the parent data import and execute the job to discover AI agents and track usage data.
 
-## Related
-
-- [[enterprise-ai-discovery|AI connections]]
-- [[ai-assets|AI assets]]

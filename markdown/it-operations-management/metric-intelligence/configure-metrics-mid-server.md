@@ -14,7 +14,7 @@ breadcrumb: [Configuring Metric Intelligence, Metric Intelligence, IT Operations
 
 # Manually configure a MID Server for Metric Intelligence
 
-To use [[operational-metrics|Metric Intelligence]], configure at least one MID Server with Metric Intelligence as a supported application, with the Metrics capability, and which runs the Metric Intelligence Metrics extension. Then, add that Metric Intelligence MID Server as a member to a MID Server distributed cluster.
+To use Metric Intelligence, configure at least one MID Server with Metric Intelligence as a supported application, with the Metrics capability, and which runs the Metric Intelligence Metrics extension. Then, add that Metric Intelligence MID Server as a member to a MID Server distributed cluster.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Role required: To access the MID Server - mid\_server. To configure a MID Server
 
 Create a MID Server distributed cluster, and add the Metric Intelligence MID Server as a member to that cluster.
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

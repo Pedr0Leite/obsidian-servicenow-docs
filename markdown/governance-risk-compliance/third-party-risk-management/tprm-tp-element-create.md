@@ -14,7 +14,7 @@ breadcrumb: [Monitoring third-party elements, Monitor third-party risk, Third-pa
 
 # Create a third-party element record
 
-Create a third-party element record after you collect the responses from a third party by using a collection template questionnaire in the Third-party Risk Management application. Third-party element records are assessed directly as part of the [[tprm-workflow-in-workspace|due diligence workflow]].
+Create a third-party element record after you collect the responses from a third party by using a collection template questionnaire in the Third-party Risk Management application. Third-party element records are assessed directly as part of the due diligence workflow.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ Select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then nav
 
 Close the external assessment for collecting elements and then manually add elements to the Engagement elements tab of an engagement. After all third-party elements are assigned to an engagement, you can start the due diligence process. For more information, see [Add a third-party element record to an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-tp-element-engagement.md) and [Monitoring third-party elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-monitor-tp-elements.md).
 
-## Related
-
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

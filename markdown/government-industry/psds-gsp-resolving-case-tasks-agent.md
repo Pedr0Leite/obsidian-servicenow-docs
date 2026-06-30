@@ -57,7 +57,7 @@ When an agent creates a service request case task, the system uses information f
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[service-request-case-form-new|Service Request Case Task form]].
+    For more information on the fields, see [Service Request Case Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/service-request-case-form-new.md).
 
 4.  Select **Save**.
 
@@ -88,6 +88,4 @@ Role required: sn\_gsm.agency\_manager, sn\_gsm.government\_service\_manager, sn
 
 7.  Select **Close**.
 
-## Related
 
-- [[service-request-case-form-new|Service Request case form]]

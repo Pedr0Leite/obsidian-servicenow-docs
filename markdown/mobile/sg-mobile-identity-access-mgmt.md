@@ -37,7 +37,7 @@ For more information on configuring multi provider SSO, see [Multi-Provider sing
 
 Users can access the instance via Multifactor Authentication using the MFA plugin \[com.snc.integration.multifactor.authentication\]. Users are directed to their login page after selecting their instance in a mobile app.
 
-\[Omitted image "mobile-mfa-redirect.png"\] Alt text: Multifactor login page in the [[mobile-experience|Mobile Agent app]].
+\[Omitted image "mobile-mfa-redirect.png"\] Alt text: Multifactor login page in the Mobile Agent app.
 
 For details on configuring Multi-factor Authentication, see [Multifactor authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/mfa-properties.md)
 
@@ -54,9 +54,5 @@ The user name and password in the user record in the instance database.
 -   Kerberos
 -   Certificate-based authentication \(AppAuth’s external browser may solve for some certificate based mechanisms\)
 
-**Parent Topic:**[[sg-mobile-ID-access-mgmt|Identity and access management]]
+**Parent Topic:**[Identity and access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-ID-access-mgmt.md)
 
-## Related
-
-- [[sg-mobile-ID-access-mgmt|Identity and access management]]
-- [[mobile-experience|Mobile Agent app]]

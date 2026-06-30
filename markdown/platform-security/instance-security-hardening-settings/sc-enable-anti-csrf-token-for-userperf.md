@@ -14,7 +14,7 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 # Enable Anti-CSRF Token for Userperf
 
-Use a system property to ensure CSRF \(Cross-Site [[c_requestAPI|Request]] Forgery\) protection is enforced when setting user preferences.
+Use a system property to ensure CSRF \(Cross-Site Request Forgery\) protection is enforced when setting user preferences.
 
 Use the **glide.security.userpref\_csrf\_check.enable** system property to enforce CSRF \(Cross-Site Request Forgery\) protection when setting user preferences to the User Preference Definitions \[sys\_user\_preference\_definition\] table via URI parameters. If the property isn't set to the recommended value of `true`, then the **CSRF token required** flag is overridden when set on individual preferences, and preferences can be set via URI parameters without requiring a CSRF token.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 4.3
 -   CVSS score: Medium
--   Security risk details: Failure to implement CSRF protection exposes the instance to unauthorized actions performed on behalf of authenticated [[users|users]].
+-   Security risk details: Failure to implement CSRF protection exposes the instance to unauthorized actions performed on behalf of authenticated users.
 
 </td></tr><tr><td>
 
@@ -123,9 +123,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

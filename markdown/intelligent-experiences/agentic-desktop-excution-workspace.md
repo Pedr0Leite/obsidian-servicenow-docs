@@ -16,8 +16,8 @@ Execution workspace enables you to test, run, and monitor your desktop actions. 
 
 **Important:** Access to the Design workspace and Execution workspace depends on the user’s role.
 
--   When users with the AI Agent Admin \(sn\_aia.admin\) role sign in from their desktop, they can access the [[now-assist-center-home-page|Home page]] and Design workspace to create desktop actions. When they test a desktop action, the Execution workspace launches automatically.
--   When users with the [[now-assist-center-now-assist-panel|Now Assist panel]] user \(now\_assist\_panel\_user\) role trigger an automation from the Now Assist panel, the Execution workspace launches automatically to run the desktop action.
+-   When users with the AI Agent Admin \(sn\_aia.admin\) role sign in from their desktop, they can access the Home page and Design workspace to create desktop actions. When they test a desktop action, the Execution workspace launches automatically.
+-   When users with the Now Assist panel user \(now\_assist\_panel\_user\) role trigger an automation from the Now Assist panel, the Execution workspace launches automatically to run the desktop action.
 
 You don’t open the Execution workspace directly. It launches automatically when you test or run a desktop action.
 
@@ -29,7 +29,7 @@ To avoid conflicts, do not run the AI Desktop Actions Execution workspace and RP
 
 \[Omitted image "execution-workspace-ready-ad.png"\] Alt text: AI Desktop Actions Execution workspace displaying "Listening for instructions" message for desktop session activation.
 
-\[Omitted image "execution-workspace-ad.png"\] Alt text: [[agentic-desktop-landing-page|AI Desktop Actions]] showing the Shipping Management app with fields on a Windows 10 background.
+\[Omitted image "execution-workspace-ad.png"\] Alt text: AI Desktop Actions showing the Shipping Management app with fields on a Windows 10 background.
 
 ## Execution workspace features
 
@@ -76,7 +76,7 @@ Ready
 
 </td><td>
 
-Automation execution is ready to be initiated. The workspace is waiting for instructions from [[ai-agent-studio|AI Agent Studio]].
+Automation execution is ready to be initiated. The workspace is waiting for instructions from AI Agent Studio.
 
 </td></tr><tr><td>
 
@@ -122,15 +122,7 @@ Automation execution is canceled. The user canceled the execution manually.
 </table>**Related topics**  
 
 
-[[example-use-badging-ai-agent-ad|Example: Use AI agents to process badge-related requests automatically]]
+[Example: Use AI agents to process badge-related requests automatically](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-use-badging-ai-agent-ad.md)
 
-[[example-use-shipping-ai-agent-ad|Example: Use AI agents to automatically enter data into the shipping management app]]
+[Example: Use AI agents to automatically enter data into the shipping management app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-use-shipping-ai-agent-ad.md)
 
-## Related
-
-- [[example-use-badging-ai-agent-ad|example use badging ai agent ad]]
-- [[example-use-shipping-ai-agent-ad|example use shipping ai agent ad]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]

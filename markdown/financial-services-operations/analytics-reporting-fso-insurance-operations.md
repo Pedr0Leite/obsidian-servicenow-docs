@@ -16,11 +16,7 @@ Personal Lines Servicing contains preconfigured dashboards with actionable data 
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [[personal-lines-servicing-dashboard|Personal Lines Servicing dashboard]] is available for Personal Lines Servicing.
+The [Personal Lines Servicing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/personal-lines-servicing-dashboard.md) is available for Personal Lines Servicing.
 
-**Parent Topic:**[[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
+**Parent Topic:**[Personal Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-personal-policy-ops-landing-page.md)
 
-## Related
-
-- [[personal-lines-servicing-dashboard|Personal Lines Servicing dashboard]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]

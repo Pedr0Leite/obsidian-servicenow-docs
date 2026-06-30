@@ -14,7 +14,7 @@ breadcrumb: [View Threat Intel Feeds, Threat Intelligence Feeds, Integrate, Thre
 
 # View STIX HTTPs Feeds
 
-View and manage STIX [[threat-intelligence-feeds|threat intelligence feeds]] that provide security data to your ServiceNow instance. Use this to monitor feed status and troubleshoot connection issues.
+View and manage STIX threat intelligence feeds that provide security data to your ServiceNow instance. Use this to monitor feed status and troubleshoot connection issues.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select **Integrations** icon.
 
@@ -43,7 +43,3 @@ Role required: sn\_sec\_tisc.admin
 
 **Parent Topic:**[View Threat Intel Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/base-system-threat-intel-feeds.md)
 
-## Related
-
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

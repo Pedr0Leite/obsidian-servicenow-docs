@@ -20,7 +20,7 @@ Role required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-Module lifecycle policy exceptions change the lifecycle policy of [[field-encryption|Field Encryption]] modules from the standard Instance-level lifecycle policy. For example, if you've configured symmetric keys to be limited to one year at the instance level, you can create a module lifecycle policy exception for a specific Field Encryption module to allow its key to remain active for two years.
+Module lifecycle policy exceptions change the lifecycle policy of Field Encryption modules from the standard Instance-level lifecycle policy. For example, if you've configured symmetric keys to be limited to one year at the instance level, you can create a module lifecycle policy exception for a specific Field Encryption module to allow its key to remain active for two years.
 
 ## Procedure
 
@@ -36,17 +36,12 @@ Module lifecycle policy exceptions change the lifecycle policy of [[field-encryp
     |-----|-----------|
     |Crypto Module|Displays the name of the field encryption module that will use this policy exception.|
     |Applies To|The specified key is auto populated.|
-    |Key Type|Select the key type. Exception [[ca-policies|policies]] are related to a specific key. Multiple exception policies can be created per Field Encryption Module.|
+    |Key Type|Select the key type. Exception policies are related to a specific key. Multiple exception policies can be created per Field Encryption Module.|
     |Policy Condition|Create qualifying conditions from the drop-down menu and complete the additional constraint criteria.|
     |Result|Select **Reject** to reject use of the key or **Track** to allow use of it when the criteria are met.|
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[ca-policies|Policies]]

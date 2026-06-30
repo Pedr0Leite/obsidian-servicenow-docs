@@ -12,18 +12,18 @@ breadcrumb: [Case creation from security artifacts, Security Case Management, Th
 
 # IoCs and observables in cases
 
-In [[threat-intel-landing-page|Threat Intelligence]], you can create cases from IoCs and [[c_Observables|observables]], as well as add IoCs and observables to existing cases. You can also create observables directly from a case.
+In Threat Intelligence, you can create cases from IoCs and observables, as well as add IoCs and observables to existing cases. You can also create observables directly from a case.
 
--   **[[create-cases-threat|Create a case from IoCs or observables]]**  
-In Threat Intelligence, you can create a case from artifacts \(IoCs or observables\). After the IoCs or observables have been used to create a case, you can use [[case-mgmt|Security Case Management]] to analyze the data.
--   **[[add-records-to-cases-threat|Add IoCs and observables to an existing case]]**  
+-   **[Create a case from IoCs or observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-cases-threat.md)**  
+In Threat Intelligence, you can create a case from artifacts \(IoCs or observables\). After the IoCs or observables have been used to create a case, you can use Security Case Management to analyze the data.
+-   **[Add IoCs and observables to an existing case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-records-to-cases-threat.md)**  
 You can add IoCs and observables to existing cases. After the security incidents have been added to cases, you can use Security Case Management to analyze the data.
--   **[[create-an-observable-from-a-case|Create an observable from a case]]**  
+-   **[Create an observable from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-an-observable-from-a-case.md)**  
 New observables can be created from cases in Security Case Management.
--   **[[run-local-sighted-srch|Run a sightings search on observables in a case]]**  
-You can search for observables using the Sighting Search feature to determine how often they occur. Each occurrence is considered a sighting. You can limit the search to the number of [[indicator-sightings|sightings]] within a selected number of days or within a date range.
+-   **[Run a sightings search on observables in a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/run-local-sighted-srch.md)**  
+You can search for observables using the Sighting Search feature to determine how often they occur. Each occurrence is considered a sighting. You can limit the search to the number of sightings within a selected number of days or within a date range.
 
-**Parent Topic:**[[case-creation-from-security-artifacts|Case creation from security artifacts]]
+**Parent Topic:**[Case creation from security artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-creation-from-security-artifacts.md)
 
 **Related topics**  
 
@@ -34,14 +34,3 @@ You can search for observables using the Sighting Search feature to determine ho
 
 [Affected users in cases]()
 
-## Related
-
-- [[create-cases-threat|Create a case from IoCs or observables]]
-- [[add-records-to-cases-threat|Add IoCs and observables to an existing case]]
-- [[create-an-observable-from-a-case|Create an observable from a case]]
-- [[run-local-sighted-srch|Run a sightings search on observables in a case]]
-- [[case-creation-from-security-artifacts|Case creation from security artifacts]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[case-mgmt|Security Case Management]]
-- [[indicator-sightings|Sightings]]

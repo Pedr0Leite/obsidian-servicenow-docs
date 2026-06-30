@@ -14,7 +14,7 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # View CMDB Data Manager analytics
 
-The CMDB Data Manager in CMDB Workspaceand in [[sg-workspace|Service Graph Workspace]], provides charts and counts that show the overall state of Data Manager policies in the organization. Review these details to track progress and to identify any problems that require your attention.
+The CMDB Data Manager in CMDB Workspaceand in Service Graph Workspace, provides charts and counts that show the overall state of Data Manager policies in the organization. Review these details to track progress and to identify any problems that require your attention.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: data\_manager\_admin or sn\_cmdb\_admin
 
         Number of policies per day, broken by the length of execution time, over the past month.
 
-## Related
 
-- [[sg-workspace|Service Graph Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Interview Management, Hiring Experiences, HR Service Delivery, Empl
 
 # Using Interview Management
 
-[[interview-management-landing|Interview management]] enables recruiters to define their interview setup, coordinate scheduling with [[hiring-tab-concept|hiring]] managers, interviewers, and applicants, and [[manage-interviews-recruiter|manage interviews]] effectively. It also allows recruiters, interviewers, and hiring managers to provide feedback on interviews, streamlining the overall hiring process.
+Interview management enables recruiters to define their interview setup, coordinate scheduling with hiring managers, interviewers, and applicants, and manage interviews effectively. It also allows recruiters, interviewers, and hiring managers to provide feedback on interviews, streamlining the overall hiring process.
 
 -   **[Request applicant to share scheduling preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/request-applicant-availability.md)**  
 Request applicants on a job requisition to share their scheduling preferences to plan a seamless interview process.
@@ -43,8 +43,3 @@ As an interviewer, view and manage interviews that you’re part of.
 
 **Parent Topic:**[Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/interview-management-landing.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]
-- [[hiring-tab-concept|Hiring]]
-- [[manage-interviews-recruiter|Manage interviews]]

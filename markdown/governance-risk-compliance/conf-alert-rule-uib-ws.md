@@ -20,13 +20,13 @@ Role required: sn\_bcm.program\_manager
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Alert Rules**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Alert Rules**.
 
 2.  Select **New**.
 
 3.  On the form, fill in the fields.
 
-    For more information on the Alert Rules form, see [[alert-rules-form|Alert Rules form]].
+    For more information on the Alert Rules form, see [Alert Rules form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/alert-rules-form.md).
 
 4.  Add the name, description, order, and category for the alert rule.
 
@@ -54,10 +54,5 @@ The alert rule is displayed in the **Alert Rules** record page.
 -   **[Alert Rules form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/alert-rules-form.md)**  
 Use the Alert Rules form in BCM UIB Workspace to add details about the alert rules.
 
-**Parent Topic:**[[crisis-map-admin-tasks|Setup for Crisis map]]
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-admin-tasks.md)
 
-## Related
-
-- [[alert-rules-form|Alert Rules form]]
-- [[crisis-map-admin-tasks|Setup for Crisis map]]
-- [[Administration|Administration]]

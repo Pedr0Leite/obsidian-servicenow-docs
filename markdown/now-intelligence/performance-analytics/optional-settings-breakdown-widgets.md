@@ -14,9 +14,9 @@ breadcrumb: [Breakdown widgets, Performance Analytics widgets, Reporting, dashbo
 
 # Additional settings for breakdown widgets
 
-[[breakdown-widgets|Breakdown widgets]] have the following optional settings for the date range, the display, the grouping breakdown, and for the column contents. Not all options are available for all visualizations.
+Breakdown widgets have the following optional settings for the date range, the display, the grouping breakdown, and for the column contents. Not all options are available for all visualizations.
 
-**Important:** This topic is not a guide to creating breakdown widgets. It is a guide to extra, optional settings that are common across breakdown widget types. FOR INSTRUCTIONS ON CREATING [[time-series-widgets|TIME SERIES WIDGETS]], PLEASE SEE THE APPROPRIATE "CREATE" TOPIC:
+**Important:** This topic is not a guide to creating breakdown widgets. It is a guide to extra, optional settings that are common across breakdown widget types. FOR INSTRUCTIONS ON CREATING TIME SERIES WIDGETS, PLEASE SEE THE APPROPRIATE "CREATE" TOPIC:
 
 -   [Create a scorecard visualization for a breakdown widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-scorecard-widget.md)
 -   [Create a pie, donut, or semi-donut visualization for a breakdown widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-pie-widget.md)
@@ -260,7 +260,7 @@ Breakdown on Y axis
 
 </td><td>
 
-Pivot [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] breakdown widgets display [breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) as the X axis and indicators as the Y axis by default. Select this check box to display breakdown elements as the Y axis and indicators as the X axis.
+Pivot Analytics Hub breakdown widgets display [breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) as the X axis and indicators as the Y axis by default. Select this check box to display breakdown elements as the Y axis and indicators as the X axis.
 
 </td></tr><tr><td id="row_widget_show_total">
 
@@ -411,8 +411,3 @@ Display the percentage difference between the current and target scores. Gap % c
 |-------|-----------|
 |Compare score with|This tab is shown when the visualization type is Latest Score. Select Previous Score or Periods Back. You can specify any number of previous periods.|
 
-## Related
-
-- [[breakdown-widgets|Breakdown widgets]]
-- [[time-series-widgets|Time series widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

@@ -24,11 +24,11 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **My Profile**.
 
-2.  Under **Related Links**, click **[[mfa-landing|Multi-factor Authentication]]**.
+2.  Under **Related Links**, click **Multi-factor Authentication**.
 
     The multi-factor authentication page opens.
 
-3.  Click **Register biometric [[c_Authentication|authentication]]**.
+3.  Click **Register biometric authentication**.
 
     \[Omitted image "mfa-authenticator.png"\] Alt text: MFA Authenticators
 
@@ -40,7 +40,7 @@ Role required: none
 
     This message will vary based on your specific authenticator.
 
-    \[Omitted image "bio-[[c_requestAPI|request]].png"\] Alt text: Request for biometric authentication
+    \[Omitted image "bio-request.png"\] Alt text: Request for biometric authentication
 
     After authenticating successfully, you see a confirmation window. Click X to close the confirmation.
 
@@ -49,8 +49,3 @@ Role required: none
 
 Your biometric authenticator is registered. You can see the biometric authenticator listed on the Multi-factor authentication page.
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

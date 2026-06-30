@@ -24,7 +24,7 @@ From the claim workspace, an adjuster can review a claim to verify the documents
 -   Claim properties: View and work on the properties that are relevant to the claim case.
 -   Claim participants: View and work on the participants that are relevant to the claim case.
 -   Task details: View and modify the agent and group that a task is assigned to.
--   Tasks: View and work on the [[adjuster-tasks-workspace-pers|adjuster tasks]] for the current claim case.
+-   Tasks: View and work on the adjuster tasks for the current claim case.
 -   Coverages and financials: View and modify the claim entities such as the claim coverages, associated reserves, payments, and expense amounts under individual coverages.
 
 From the claim workspace, an adjuster can also access tabs to view the Fraud score page and Summary page for a claim.
@@ -33,6 +33,3 @@ From the claim workspace, an adjuster can also access tabs to view the Fraud sco
 
 \[Omitted image "claim-workspace-commercial-claim-review.png"\] Alt text: Adjuster claim workspace for commercial auto claim that shows the Claim details, Claim properties list, Claim participants list, Task details, and Task work list.
 
-## Related
-
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

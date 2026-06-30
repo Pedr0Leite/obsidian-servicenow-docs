@@ -16,7 +16,7 @@ breadcrumb: [Deprecated Orchestration activities, Activate Orchestration, Classi
 
 SSH activities allow workflows to perform operations on Linux and Unix computers.
 
-Your ServiceNow instance must have access to a [[mid-server-landing|MID Server]] configured to use SSH to run these Orchestration activities.
+Your ServiceNow instance must have access to a MID Server configured to use SSH to run these Orchestration activities.
 
 **Parent Topic:**[Deprecated Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationBasicActivities.md)
 
@@ -30,8 +30,8 @@ The Run Command activity runs a command \(including shell scripts\) on a Linux o
 
 |Field|Description|
 |-----|-----------|
-|Long running|Select this [[check-box|check box]] to disable the SSH connection timeout if you think the command will take longer to run than the default 60 seconds. Orchestration periodically checks the running process to determine its status until it is finished.|
-|Hostname|Hostname or [[ip-address|IP address]] of destination server for SSH activity.|
+|Long running|Select this check box to disable the SSH connection timeout if you think the command will take longer to run than the default 60 seconds. Orchestration periodically checks the running process to determine its status until it is finished.|
+|Hostname|Hostname or IP address of destination server for SSH activity.|
 |Directory|Name of the working directory.|
 |Command|The command to run from this activity.|
 |Sudo|Select this check box to use [sudo](http://www.sudo.ws/sudo/sudo.html) to run the command on the host machine.|
@@ -53,8 +53,3 @@ The Run SCP activity uses Secure Copy Protocol \(SCP\) to copy a file from one c
 |To File|Path to the target file. This path can be absolute or relative to the logged in user's home directory. The specified directory must already exist on the target computer.|
 |Copy Directory|Check box to copy a directory defined in the **From File** variable and all files contained in that directory.|
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]

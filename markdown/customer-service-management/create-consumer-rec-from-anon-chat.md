@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Create a consumer record from an anonymous chat
 
-If an [[anonymous-chat|anonymous chat]] results in the need to [[create-a-consumer-record|create a consumer record]], create the record directly from the conversation.
+If an anonymous chat results in the need to create a consumer record, create the record directly from the conversation.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_customerservice.consumer\_agent, sn\_customerservice\_manager
 
 ## Procedure
 
-1.  [[respond-anonymous-chat-request|Respond to an anonymous chat request]].
+1.  Respond to an anonymous chat request.
 
 2.  Chat with the user to determine the issue.
 
@@ -32,13 +32,8 @@ Role required: sn\_customerservice.consumer\_agent, sn\_customerservice\_manager
 
     The system opens a Consumer form and fills in some of the fields based on conversation details. For a consumer record created from a guest user chat, the **First name**, **Last name**, and **Email** fields display information from the initial chat request.
 
-    Selecting this option creates a consumer record using the information provided on the record producer and then associates the case with the newly created consumer. The [[r_CustomerServiceCaseForm|Case form]] is also populated with the information provided on the record producer.
+    Selecting this option creates a consumer record using the information provided on the record producer and then associates the case with the newly created consumer. The Case form is also populated with the information provided on the record producer.
 
 5.  Complete the form as necessary and click **Submit**.
 
-## Related
 
-- [[anonymous-chat|Anonymous chat]]
-- [[create-a-consumer-record|Create a consumer record]]
-- [[respond-anonymous-chat-request|Respond to an anonymous chat request]]
-- [[r_CustomerServiceCaseForm|Case form]]

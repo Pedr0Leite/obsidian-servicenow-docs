@@ -12,9 +12,9 @@ breadcrumb: [Email templates, Email and SMS notifications, System notifications,
 
 # Calendar integration
 
-With email [[notifications|notifications]], you can use import export maps to leverage information about records and integrate with Outlook or another calendar.
+With email notifications, you can use import export maps to leverage information about records and integrate with Outlook or another calendar.
 
-For example, an email notification can create a calendar event based on the planned start and end dates of a change request. To enable integration with a calendar, the following iCalendar variables are available to be added to an email template message and [[reference-email-admin|reference]] the email template from the notification. The variables must be added to the **Message Text** field.
+For example, an email notification can create a calendar event based on the planned start and end dates of a change request. To enable integration with a calendar, the following iCalendar variables are available to be added to an email template message and reference the email template from the notification. The variables must be added to the **Message Text** field.
 
 |Variable|Description|
 |--------|-----------|
@@ -34,18 +34,10 @@ The instance uses the **External Name** value as the variable name in the email 
 |dtstart|*$\{dtstart*\}|change\_request|start\_date|Planned start date|
 |dtend|*$\{dtend*\}|change\_request|end\_date|Planned end date|
 
--   **[[t_MapDateFieldsToiCalVariables|Map date fields to iCalendar variables]]**  
+-   **[Map date fields to iCalendar variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_MapDateFieldsToiCalVariables.md)**  
 You can specify what fields provide the date information in calendar invitation notifications by changing the field mappings of the *dtstart* and *dtend* variables in the import export map for the iCalendar invitation.
--   **[[t_CRiCalendarInvCustomTables|Create iCalendar invitations for custom tables]]**  
-To generate iCalendar invitations that use field values from [[custom-tables|custom tables]], create an import export map that computes the values of the iCalendar fields.
+-   **[Create iCalendar invitations for custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CRiCalendarInvCustomTables.md)**  
+To generate iCalendar invitations that use field values from custom tables, create an import export map that computes the values of the iCalendar fields.
 
-**Parent Topic:**[[c_EmailTemplates|Email templates]]
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-## Related
-
-- [[t_MapDateFieldsToiCalVariables|Map date fields to iCalendar variables]]
-- [[t_CRiCalendarInvCustomTables|Create iCalendar invitations for custom tables]]
-- [[c_EmailTemplates|Email templates]]
-- [[notifications|Notifications]]
-- [[reference-email-admin|Reference]]
-- [[custom-tables|Custom tables]]

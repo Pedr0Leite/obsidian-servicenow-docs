@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Request new product or service form
 
-Product managers or release admins can request for a new product or service in [[dpr-landing-page|Digital Product Release]].
+Product managers or release admins can request for a new product or service in Digital Product Release.
 
 For more information, see [Request a new product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-request-product.md).
 
@@ -69,6 +69,3 @@ Short description about the product or service is being requested.
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]

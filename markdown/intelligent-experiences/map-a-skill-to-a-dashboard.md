@@ -13,7 +13,7 @@ breadcrumb: [Configuring Now Assist Analytics, Analyzing Now Assist performance,
 
 # Map a skill to a dashboard
 
-Map a [[platform-now-assist-landing|Now Assist]] skill to a dashboard to view skill performance indicators and [[skill-details|skill details]].
+Map a Now Assist skill to a dashboard to view skill performance indicators and skill details.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Roles required: sn\_na\_analytics.admin and sn\_nowassist\_admin.nsa\_admin
     |Document Table|Table that contains configured skills. Use the lookup icon \(\[Omitted image "na-list-lookup-icon.png"\] Alt text: Lookup icon.\) to search for and select the Now Assist Skill Config \[sn\_nowassist\_skill\_config\] table.|
     |Document Id|The Skill that you want to map to the dashboard. Use the lookup icon \(\[Omitted image "na-list-lookup-icon.png"\] Alt text: Lookup icon.\) to search for and select the skill that you want to map to the dashboard.|
     |Active|Check box used to enable or disable the mapping.|
-    |Order|Order to set that determines the priority of the mapping in [[cases|cases]] where multiple skills are mapped to the same dashboard.|
+    |Order|Order to set that determines the priority of the mapping in cases where multiple skills are mapped to the same dashboard.|
 
 4.  Select **Submit**.
 
@@ -51,8 +51,3 @@ Roles required: sn\_na\_analytics.admin and sn\_nowassist\_admin.nsa\_admin
 
 After you've completed the mapping, go to the Skill details page and select the skill from the drop-down list to verify that the mapped dashboard is displayed.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[skill-details|Skill details]]
-- [[cases|Cases]]

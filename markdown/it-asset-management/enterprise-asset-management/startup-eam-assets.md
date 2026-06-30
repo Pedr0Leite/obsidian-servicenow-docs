@@ -25,7 +25,7 @@ Role required: sn\_eam.asset\_technician
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  Select the **Work order tasks** tab.
 
@@ -46,6 +46,3 @@ Role required: sn\_eam.asset\_technician
 
 The Substate of the asset is empty and the asset is back in use.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

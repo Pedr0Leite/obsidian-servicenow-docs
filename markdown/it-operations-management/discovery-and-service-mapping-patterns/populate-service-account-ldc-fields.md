@@ -19,7 +19,7 @@ Populate Service Account, Logical Datacenter, and Virtual Machine Object fields 
 
 ## Before you begin
 
-Verify that you have at least version 1.30.2 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+Verify that you have at least version 1.30.2 of Discovery and Service Mapping Patterns.
 
 Role required: discovery\_admin
 
@@ -47,7 +47,3 @@ Role required: discovery\_admin
 
 [Available cloud discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns-cloud.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

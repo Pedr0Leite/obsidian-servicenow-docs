@@ -16,7 +16,7 @@ You can aggregate changes in indicators into discrete time intervals. A time agg
 
 ## Before you begin
 
-**Note:** Native Data snapshots indicators do not have time aggregations. Instead, you can select an aggregation period to trend by. For more information, see [[configure-trend-ds-indicator|Configure trend for a native Data snapshots indicator in KPI Details]]
+**Note:** Native Data snapshots indicators do not have time aggregations. Instead, you can select an aggregation period to trend by. For more information, see [Configure trend for a native Data snapshots indicator in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-trend-ds-indicator.md)
 
 Role required: None. However, upgraded instances may require pa\_viewer.
 
@@ -41,13 +41,13 @@ For more information about the use, behavior, and limitations of time aggregatio
 
 ## Procedure
 
-1.  Open [[kpi-details|KPI Details]] for an indicator, as described in [[view-kpi-details|View KPI Details]].
+1.  Open KPI Details for an indicator, as described in [View KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-details.md).
 
 2.  Expand the time aggregation menu, which has a label matching the currently selected aggregation period, usually Daily.
 
     \[Omitted image "kpi-details-open-time-aggregate.png"\] Alt text: The control for expanding the time aggregation menu
 
-    **Note:** Time aggregations are not available for [[real-time-scores|real-time scores]]. When you select a time aggregation, real-time scores are disabled. If you return to the default frequency, real-time scores are re-enabled but turned off. You can turn them on if you want.
+    **Note:** Time aggregations are not available for real-time scores. When you select a time aggregation, real-time scores are disabled. If you return to the default frequency, real-time scores are re-enabled but turned off. You can turn them on if you want.
 
 3.  Select either a **Running**, a **Period**, or a **To date** aggregation to configure.
 
@@ -72,7 +72,7 @@ In the following time aggregation menu, the daily indicator Number of open incid
 
 \[Omitted image "kpi-details-time-aggregation.png"\] Alt text: Time aggregation menu for a daily indicator, showing a Period aggregation to a weekly sum
 
-**Parent Topic:**[[kpi-details-components|Examining indicators with KPI Details]]
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
 **Related topics**  
 
@@ -93,10 +93,3 @@ In the following time aggregation menu, the daily indicator Number of open incid
 
 [Access indicator record or scoresheet from KPI Details]()
 
-## Related
-
-- [[configure-trend-ds-indicator|Configure trend for a native Data snapshots indicator in KPI Details]]
-- [[view-kpi-details|View KPI Details]]
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[kpi-details|KPI Details]]
-- [[real-time-scores|Real-time scores]]

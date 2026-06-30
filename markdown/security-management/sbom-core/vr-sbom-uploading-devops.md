@@ -14,11 +14,11 @@ breadcrumb: [Use, Software Bill of Materials, Unified Security Exposure Manageme
 
 # Uploading Software Bill of Materials for DevOps SBOM files
 
-Generate and upload [[sbom-landing|Software Bill of Materials]] SBOM files for software throughout its continuous integration and continuous deployment development cycles.
+Generate and upload Software Bill of Materials SBOM files for software throughout its continuous integration and continuous deployment development cycles.
 
 ## DevOps and SBOM files
 
-SBOM files can be generated at multiple stages throughout the software continuous integration and continuous deployment \(CI/CD\) development life cycle. Most software development operations \(DevOps\) in organizations use some type of CI/CD process to help them identify and prevent costly bugs that might surface after the release. Throughout the CI/CD pipeline, DevOps can generate SBOM files and pro-actively check for [[vulnerabilities|vulnerabilities]] and at-risk components. These checks can help organizations achieve better software quality and avoid costly maintenance later. Generating SBOM files is critical for successfully implementing and automating accurate build assessments during the CI/CD development.
+SBOM files can be generated at multiple stages throughout the software continuous integration and continuous deployment \(CI/CD\) development life cycle. Most software development operations \(DevOps\) in organizations use some type of CI/CD process to help them identify and prevent costly bugs that might surface after the release. Throughout the CI/CD pipeline, DevOps can generate SBOM files and pro-actively check for vulnerabilities and at-risk components. These checks can help organizations achieve better software quality and avoid costly maintenance later. Generating SBOM files is critical for successfully implementing and automating accurate build assessments during the CI/CD development.
 
 Uploading SBOM files from development pipelines is supported starting with the following versions of the SBOM applications.
 
@@ -47,7 +47,3 @@ See [Uploading Software Bill of Materials files using a REST API](https://raw.gi
 
 All the tables in the SBOM applications are domain separated.
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -15,7 +15,7 @@ breadcrumb: [Certificate Inventory and Management, ITOM Visibility, IT Operation
 
 # Certificate management with CyberArk Certificate Manager SaaS
 
-The ServiceNow [[cert-inventory-mgmt|Certificate Inventory and Management]] application has been integrated with CyberArk Certificate Manager SaaS for automated certificate life-cycle management, providing centralized certificate provisioning, renewal, and revocation capabilities.
+The ServiceNow Certificate Inventory and Management application has been integrated with CyberArk Certificate Manager SaaS for automated certificate life-cycle management, providing centralized certificate provisioning, renewal, and revocation capabilities.
 
 ## Integration overview
 
@@ -23,7 +23,7 @@ The integration connects Certificate Inventory and Management with CyberArk Cert
 
 Automated certificate requests, renewals, and revocations are handled through routing policies that direct certificate operations to the appropriate CyberArk certificate authority. Certificate life-cycle events are tracked and managed within Certificate Inventory and Management.
 
-**Note:** [[automated-certificate-renewal|Automated certificate renewal]] for CyberArk is managed by the CyberArk Certificate Manager SaaS platform. Certificate Inventory and Management does not trigger auto-renewal for CyberArk-managed certificates from your instance.
+**Note:** Automated certificate renewal for CyberArk is managed by the CyberArk Certificate Manager SaaS platform. Certificate Inventory and Management does not trigger auto-renewal for CyberArk-managed certificates from your instance.
 
 ## Key benefits
 
@@ -44,7 +44,3 @@ Certificate operations follow this process:
     -   [Renew certificates through CyberArk Certificate Manager SaaS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/renew-cert-cyberark-venafi.md)
     -   [Revoke certificates through CyberArk Certificate Manager SaaS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/revoke-cert-cyberark-venafi.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[automated-certificate-renewal|Automated certificate renewal]]

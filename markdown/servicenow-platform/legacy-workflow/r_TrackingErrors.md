@@ -50,17 +50,13 @@ View the log in the Workflow Context form for more information about the syntax 
 
 To view the activity by name, navigate to **Workflow** &gt; **Administration** &gt; **Properties** and enable the **Log workflow debug messages** property.
 
-In this example, an SSH activity named File Read specifies an invalid [[mid-server-landing|MID Server]].
+In this example, an SSH activity named File Read specifies an invalid MID Server.
 
 \[Omitted image "ErrorHandlingLog.png"\] Alt text: Error handling log
 
-If the credentials used by an activity in the workflow fail, and the activity cannot authenticate on the target, a message describing the failure appears in the **Workflow Log** related list. The message displays the target [[ip-address|IP address]] and the credential details.
+If the credentials used by an activity in the workflow fail, and the activity cannot authenticate on the target, a message describing the failure appears in the **Workflow Log** related list. The message displays the target IP address and the credential details.
 
 \[Omitted image "CredDebugWorkflowLog.png"\] Alt text: Credential debugging in the workflow log
 
 **Parent Topic:**[Workflow error handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowErrorHandling.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

@@ -14,7 +14,7 @@ breadcrumb: [Dispute Content Pack for US Regulations, Dispute Management, Bankin
 
 # Using the Dispute Content Pack for US Regulations
 
-Dispute agents use the [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] to track the dispute cases that are governed by United States \(US\) Regulations \(Reg E and Reg Z\) and ensure they are in conformance with the regulatory guidance. This application provides the required Service Level Agreement \(SLA\) definitions and provide details to the dispute manager to monitor and take necessary actions.
+Dispute agents use the Dispute Content Pack for US Regulations to track the dispute cases that are governed by United States \(US\) Regulations \(Reg E and Reg Z\) and ensure they are in conformance with the regulatory guidance. This application provides the required Service Level Agreement \(SLA\) definitions and provide details to the dispute manager to monitor and take necessary actions.
 
 ## Dispute Content Pack for US Regulations workflows
 
@@ -24,7 +24,7 @@ When an agent disputes a transaction on behalf of a customer or through the Cust
 
     The agent initiates the dispute service process by entering the initial case information and creating a dispute case on behalf of a customer.
 
-2.  [[create-case-with-intake-workspace|Initiate a dispute]].
+2.  Initiate a dispute.
     -   The agent enters the dispute details, including the account that is being referenced, the dispute amount, and the type of dispute. The agent provides the necessary information for the available options in the type of dispute.
     -   In the dispute playbook, the agent chooses a card account. The applicable Service Level Agreement \(SLA\) is automatically mapped and is based on the selected account and the preconfigured logic for that transaction.
 
@@ -58,7 +58,3 @@ For more information, see [Initiate a dispute](https://raw.githubusercontent.com
 
 **Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md)
 
-## Related
-
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]
-- [[create-case-with-intake-workspace|Initiate a dispute]]

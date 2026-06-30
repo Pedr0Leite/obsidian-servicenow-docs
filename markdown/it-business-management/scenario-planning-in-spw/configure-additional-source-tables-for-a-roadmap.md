@@ -14,7 +14,7 @@ breadcrumb: [Prioritization display settings in Strategic Planning, Configure, P
 
 # Configure additional source tables for a free-form roadmap
 
-Add new tables to roadmap preferences and configure their details so that these tables can be used as source tables while creating a free-form roadmap in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Add new tables to roadmap preferences and configure their details so that these tables can be used as source tables while creating a free-form roadmap in Strategic Planning.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_align\_core.apw\_admin
 
 **Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

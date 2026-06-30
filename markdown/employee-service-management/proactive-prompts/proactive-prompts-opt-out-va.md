@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  Select the chat icon \(\[Omitted image "icon-chat-va.png"\] Alt text: Chat icon for Virtual Agent\) to start the Virtual Agent.
 
@@ -45,6 +45,3 @@ Role required: none
 
 You will not receive prompts from the selected signal. The opted-out prompts are moved to the Dismiss state.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

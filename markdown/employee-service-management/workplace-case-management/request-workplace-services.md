@@ -18,7 +18,7 @@ Raise a general enquiry or any workplace improvement-related services.
 
 **Note:**
 
-**Note:** While submitting a request for a workplace service from [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] to [[workplace-case-mgmt-feat|Workplace Case Management]], user needs to allow the ''sys restricted caller access''.
+**Note:** While submitting a request for a workplace service from Workplace Reservation Management to Workplace Case Management, user needs to allow the ''sys restricted caller access''.
 
 -   **[Reconfigure an office space]()**  
 Provide details on how an office space should be reconfigured.
@@ -29,9 +29,9 @@ Create a move request to relocate to another space. Specify why you want to move
 -   **[Request furniture for a space](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/request-furniture.md)**  
 Order furniture or equipment for your workplace or for any event.
 -   **[Raise a space assistance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/raise-a-space-recommendation-request.md)**  
-Submit a workplace service request to get space allocation recommendations using the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] [[space-assistance|space assistance]] provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
+Submit a workplace service request to get space allocation recommendations using the Workplace Service Portal. The Workplace Service Delivery space assistance provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
 -   **[Submit a maintenance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-maintenance-request.md)**  
-Raise a maintenance request for an equipment for a location using either the Workplace Service Portal or the [[employee-center-landing-page|Employee Center]].
+Raise a maintenance request for an equipment for a location using either the Workplace Service Portal or the Employee Center.
 -   **[Submit a catering request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-a-catering-request.md)**  
 Raise a catering request service using either the Workplace Service Portal or the Employee Center.
 -   **[Submit heating and cooling request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-heating-and-cooling-request.md)**  
@@ -47,18 +47,9 @@ Raise an equipment request at your workplace using either the Workplace Service 
 -   **[Edit a workplace request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/edit-workplace-request.md)**  
 Edit the details of a workplace request or change workplace service items included in a workplace request.
 -   **[Submit an emergency maintenance request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-emergency-maint-request.md)**  
-[[submit-emergency-maint-request|Submit an emergency maintenance request]] for a meeting room.
+Submit an emergency maintenance request for a meeting room.
 -   **[Submit a change event request for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/submit-change-event-reservation.md)**  
 As a workplace employee, request a change to the date, time, and duration of your planned event reservation.
 
 **Parent Topic:**[Workplace Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-feat.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[space-assistance|Space assistance]]
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-emergency-maint-request|Submit an emergency maintenance request]]

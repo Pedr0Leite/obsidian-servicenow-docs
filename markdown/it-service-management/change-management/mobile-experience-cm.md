@@ -14,7 +14,7 @@ breadcrumb: [Use, Change Management, IT Service Management]
 
 # Mobile experience for Change Management
 
-Manage your [[change-tasks|change tasks]] from anywhere using the Mobile Agent mobile application. With this mobile application, you can stay connected and access the information in real time to complete your tasks.
+Manage your change tasks from anywhere using the Mobile Agent mobile application. With this mobile application, you can stay connected and access the information in real time to complete your tasks.
 
 As an ITSM agent or technician, you can use Mobile Agent when connected online to accomplish the following task:
 
@@ -32,6 +32,3 @@ Access Mobile Agent on your mobile device to manage change tasks.
 
 **Parent Topic:**[Using Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-management.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]

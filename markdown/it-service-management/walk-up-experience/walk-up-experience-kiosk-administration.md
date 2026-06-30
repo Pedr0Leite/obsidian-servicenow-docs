@@ -14,9 +14,9 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Walk-up Experience kiosk
 
-[[walkup-experience-landing-page|Walk-up Experience]] kiosks help your requesters to resolve information technology \(IT\)-related issues and access various IT services and resources in your organization.
+Walk-up Experience kiosks help your requesters to resolve information technology \(IT\)-related issues and access various IT services and resources in your organization.
 
-As an administrator, you can activate kiosks at walk-up locations and customize them to support the IT-related requests from your requesters. For example, you can assign one kiosk to refresh the requester's laptops and another kiosk to supply computer [[dex-workspace-devices-tab|devices]]. For more information, see [Create a kiosk at a location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/create-a-kiosk.md).
+As an administrator, you can activate kiosks at walk-up locations and customize them to support the IT-related requests from your requesters. For example, you can assign one kiosk to refresh the requester's laptops and another kiosk to supply computer devices. For more information, see [Create a kiosk at a location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/create-a-kiosk.md).
 
 The requesters can use desktop or mobile devices to make an appointment or to join the queue. For more information on using the mobile device to make an appointment, see [Walk-up Experience on Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-now-mobile.md). Based on the requester's service requirement, they are directed to a designated kiosk. The requester can then check their queue number on the kiosk screen as well as on their desktop or mobile device.
 
@@ -31,7 +31,3 @@ Walk-up Experience kiosks offer immediate assistance to the requesters by suppor
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-devices-tab|Devices]]

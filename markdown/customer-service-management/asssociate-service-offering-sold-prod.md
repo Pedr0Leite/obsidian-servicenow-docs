@@ -12,7 +12,7 @@ breadcrumb: [Sold products, Configure install base, Configure product data, Prod
 
 # Associate service offerings with sold products
 
-Associate a service offering with a sold product giving customer service agents visibility into [[sold-product|sold products]] and their service offerings.
+Associate a service offering with a sold product giving customer service agents visibility into sold products and their service offerings.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Ensure that the Customer Service with Service Portfolio Management \(SPM\) plugi
 
 [Create a service offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/create-or-mod-SPM2-service-offerings.md)
 
-## Related
-
-- [[sold-product|Sold products]]

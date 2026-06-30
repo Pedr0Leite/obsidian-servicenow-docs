@@ -14,7 +14,7 @@ breadcrumb: [Replicate data, Instance Data Replication, Manage instance data sou
 
 # Set up discrete replication
 
-Replicate data from a producer instance to specific, distinguished consumer instances in near-real time, ensuring each consumer instance receives updates independently in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Replicate data from a producer instance to specific, distinguished consumer instances in near-real time, ensuring each consumer instance receives updates independently in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -72,7 +72,7 @@ Discrete Field
 
 </td><td>
 
-Choose a [[reference|reference]] field that defines the mapping for each consumer subscription. For example, if you choose the **Assigned To** field in the Incident source table, you can distinguish user assignments for specific consumers.
+Choose a reference field that defines the mapping for each consumer subscription. For example, if you choose the **Assigned To** field in the Incident source table, you can distinguish user assignments for specific consumers.
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Filter
 Filter criteria to control the records in the table that the system is replicating. -   Use the filter to limit the number of records in your replication set. For example, if the table has an **Active** field, add a filter condition like **\[Active\] \[is\] \[True\]** to replicate only active records.
 -   If you want to replicate and preserve a parent and child table hierarchy, add a filter for the sys\_class\_name column to each outbound entry. This ensures that all of the child table columns are replicated, and not just the parent the columns.
 
-For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the [[label|label]] for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
+For example, to replicate both the Task \[task\] parent table and the Incident \[incident\] child table, you must add **\[Task type\] \[is\] \[Task\]** as a filter in the parent table entry and **\[Task type\] \[is\] \[Incident\]** as a filter in the child table entry. In this example, Task type is the label for the sys\_class\_name column on each table. For details, see [Preserving table hierarchy in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preserving-table-hierarchy.md).
 
 </td></tr><tr><td>
 
@@ -191,8 +191,3 @@ Choose a field to use to coalesce IDR. Only unique fields are available. See [Cu
 
 **Parent Topic:**[Replicating data with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/replicating-data.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[reference|Reference]]
-- [[label|Label]]

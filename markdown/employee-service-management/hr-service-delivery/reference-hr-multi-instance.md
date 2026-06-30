@@ -18,7 +18,7 @@ Reference for HR Multi Instance Integration.
 
 ## Installed with HR Multi Instance Integration for Provider
 
-Several types of components are installed with activation of the [[multi-instance-int|HR Multi Instance Integration]] for Provider plugin, including user roles.
+Several types of components are installed with activation of the HR Multi Instance Integration for Provider plugin, including user roles.
 
 ### Roles installed
 
@@ -97,6 +97,3 @@ Review these general guidelines and limitations before using the HR Multi Instan
 
 See this [KB1808151](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1808151).
 
-## Related
-
-- [[multi-instance-int|HR Multi Instance Integration]]

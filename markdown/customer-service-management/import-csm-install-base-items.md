@@ -12,7 +12,7 @@ breadcrumb: [Install base items, Configure install base, Configure product data,
 
 # Import install base items with guided setup
 
-[[install-base-item|Install base items]] represent the instances of the product that have been configured for a customer.
+Install base items represent the instances of the product that have been configured for a customer.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Each install base item references the configuration item record for the customer
 
 6.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[install-base-item|Install base items]]

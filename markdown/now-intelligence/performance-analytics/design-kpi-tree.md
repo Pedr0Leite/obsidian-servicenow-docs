@@ -71,7 +71,7 @@ Role required: sn\_kpi\_composer.user \(own project\), sn\_kpi\_composer.admin \
 
 ### Procedure
 
-1.  Navigate to **KPI Composer** and open or [[create-project|create a project]], then navigate to the Analysis tab.
+1.  Navigate to **KPI Composer** and open or create a project, then navigate to the Analysis tab.
 
 2.  Locate the KPI tree artifacts at the bottom of the screen.
 
@@ -208,7 +208,3 @@ In this image, the Assignment Group, Impact, and Priority breakdown definitions 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-project|Create a project]]

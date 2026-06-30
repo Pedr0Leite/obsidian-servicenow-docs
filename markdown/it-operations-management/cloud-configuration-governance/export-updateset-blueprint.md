@@ -29,7 +29,7 @@ Package the blueprint as an update set. Then export the update set from its curr
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Blueprints**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Blueprints**.
 
     All blueprints, in published and draft mode, appear in the Blueprints window.
 
@@ -89,6 +89,4 @@ Package the blueprint as an update set. Then export the update set from its curr
 
     The blueprint you imported should appear in the listed blueprints.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

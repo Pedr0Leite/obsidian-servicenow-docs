@@ -14,7 +14,7 @@ breadcrumb: [Accessing data, Define and collect data, MetricBase, Manage instanc
 
 # Access MetricBase data using the list command
 
-Use the list command on a table in the [[metricbase|MetricBase]] database to view time-series data. The data reveals the behavior of the entity that supplies the data.
+Use the list command on a table in the MetricBase database to view time-series data. The data reveals the behavior of the entity that supplies the data.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: admin
 
         **Note:** The adjusted data is not saved in the MetricBase database.
 
-## Related
 
-- [[metricbase|MetricBase]]

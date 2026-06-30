@@ -14,18 +14,18 @@ breadcrumb: [News articles, Creating employee communications, Authoring and mana
 
 # Create a news article
 
-Use [[ec-news-articles|News articles]] to keep employees updated on company news and announcements.
+Use News articles to keep employees updated on company news and announcements.
 
 ## Before you begin
 
 -   Role required: sn\_cd.content\_manager
--   To publish large quantities of news articles, [[ec-create-content-template|create a Content template]] before you create news articles. See [Create a Content template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md)
+-   To publish large quantities of news articles, create a Content template before you create news articles. See [Create a Content template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md)
 -   You can assign one or more content categories to the news article so employees can filter news articles by category. See [Create a content category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-cat.md).
 -   Social engagement settings enable employees to view page count, select a reaction icon, or leave a comment. See [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
 ## About this task
 
-The news article content type is built using the Rich Content Editor and published to the [[employee-center-portal-overview|employee portal]] via news widgets. For an overview of News articles, see [News articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-news-articles.md).
+The news article content type is built using the Rich Content Editor and published to the employee portal via news widgets. For an overview of News articles, see [News articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-news-articles.md).
 
 ## Procedure
 
@@ -109,7 +109,7 @@ Featured image
 
 </td><td>
 
-The image that will appear in the news article and as a thumbnail in the News feed widget in the [[employee-center-pro-landing|Employee Center Pro]].We recommend a 4:3 ratio for images.
+The image that will appear in the news article and as a thumbnail in the News feed widget in the Employee Center Pro.We recommend a 4:3 ratio for images.
 
 </td></tr><tr><td>
 
@@ -162,9 +162,3 @@ If the Content Admin enabled social engagement, the following settings appear in
 
 -   [Publishing news articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publish-news-articles.md)
 
-## Related
-
-- [[ec-news-articles|News articles]]
-- [[ec-create-content-template|Create a Content template]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-pro-landing|Employee Center Pro]]

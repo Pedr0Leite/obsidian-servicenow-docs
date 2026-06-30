@@ -14,7 +14,7 @@ breadcrumb: [Insights view, Explore, Service Graph Workspace, Configuration Mana
 
 # Feature adoption insights dashboard in Service Graph Workspace
 
-Use the Feature adoption insights page in [[sg-workspace|Service Graph Workspace]] to see and increase the level of adoption of key CMDB features and service instances to improve the overall health of the CMDB. Explore how tools and features can maximize the health and efficiency of your CMDB and use direct links to install and start using features immediately.
+Use the Feature adoption insights page in Service Graph Workspace to see and increase the level of adoption of key CMDB features and service instances to improve the overall health of the CMDB. Explore how tools and features can maximize the health and efficiency of your CMDB and use direct links to install and start using features immediately.
 
 ## Access
 
@@ -57,7 +57,7 @@ Depending on adoption level, a card might contain any of the following resource 
 
 Cards use different methods to examine the instance and determine if the card's feature is installed, activated, and being used. For example, some cards check for the installation status of plugins and some cards rely on data in the specific feature tables. Many counts and aggregation data that appear on cards is based on [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_Indicators.md) built on top of the Base Aggregate Data \[sn\_cmdb\_ws\_base\_aggregate\_data\] table.
 
--   If the result is that the card's feature is installed or being used, then the card shows charts and counts about the level of usage. In which case, the card's [[label|label]] might slightly adjust.
+-   If the result is that the card's feature is installed or being used, then the card shows charts and counts about the level of usage. In which case, the card's label might slightly adjust.
 -   If the result is that the card's feature isn't installed or isn't in use, then links are provided to resources where you can explore, install, and start using the feature.
 
 Most of the cards scheduled jobs run every 24 hours, therefore, depending on the type of data, some card data is based on recent but not current data. The Last updated timestamp in the cards reflects the collection time for the data that was used for the card. Also, immediately after getting started with a feature, a card won't reflect on the latest status or usage of the feature, until up to 24 hours when the card's scheduled job runs \(for the CIs processed by IRE based on source card, the associated scheduled job, CMDB Workspace - Populate aggregates Monthly, runs monthly\).
@@ -68,7 +68,7 @@ The following sections provide details for each card, including the calculation 
 
 The overall adoption level for data ingestion maps to the following findings in the instance:
 
--   Low \(red\): Less than 80% of CIs are processed by [[ire|Identification and Reconciliation Engine \(IRE\)]]
+-   Low \(red\): Less than 80% of CIs are processed by Identification and Reconciliation Engine \(IRE\)
 -   Moderate \(amber\): 80—90% of CIs are processed by IRE
 -   High \(green\): Over 90% of CIs are processed by IRE
 
@@ -80,7 +80,7 @@ Data ingestion contains the following features and aggregations:
 
     The percentage of CIs that are being processed by IRE determines both, the level of adoption for this feature card and the overall adoption level for the entire data ingestion category.
 
--   **[[cmdb-sgc-available|Service Graph Connectors]]**
+-   **Service Graph Connectors**
 
     Determines the installation and usage status of [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md), by checking:
 
@@ -90,7 +90,7 @@ Data ingestion contains the following features and aggregations:
 
     **Note:** The count of Service Graph connectors that appears on the card might be slightly different than the number of connectors that show on the ServiceNow Store site because the counting methods that are used are different.
 
--   **[[integrationhub-etl|IntegrationHub ETL]]**
+-   **IntegrationHub ETL**
 
     Determines whether the [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) store app is installed and used, based on records in the CMDB Integration Studio Application Data Sources \[cmdb\_inst\_application\_feed\] table. If IntegrationHub ETL is in use, then the card shows a count of ETL transform maps in IntegrationHub ETL \(demo ETL transform maps aren't counted\).
 
@@ -133,7 +133,7 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
     Determines usage by checking if either of the following conditions is true:
 
     -   There are any user-created Delete, Retire, or Archive policies \(by searching table CMDB Data Manager Policy and Attributes \[cmdb\_data\_manager\_policy\_and\_attributes\]\)
-    -   There are any CIs processed by these user-created Delete, Retire, or Archive policies, in the last 90 days \(by searching table [[cmdb-data-management-landing|CMDB Data Management]] Policy Executions \[cmdb\_data\_management\_policy\_execution\]\)
+    -   There are any CIs processed by these user-created Delete, Retire, or Archive policies, in the last 90 days \(by searching table CMDB Data Management Policy Executions \[cmdb\_data\_management\_policy\_execution\]\)
     If CMDB Data Manager is in use, shows a chart with CIs that were processed by these policies in the past six months, by month, and by policy type.
 
 -   **Data attestation/CIs used in data attestation**
@@ -148,7 +148,7 @@ The overall level of adoption of data governance is based on whether [CMDB Data 
 
     Checks if there is at least one class for which the **managed\_by\_group** attribute is globally set so that all class CIs are synchronized on the same value.
 
-    For information about [[csdm-data-synchronize|synchronizing group assignment attributes]] using the [[ci-class-manager-landing-page|CI Class Manager]], see [Set the group for a CI or an entire class of CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-data-synchronize.md).
+    For information about synchronizing group assignment attributes using the CI Class Manager, see [Set the group for a CI or an entire class of CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-data-synchronize-enable.md) and [Synchronizing group assignment attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-data-synchronize.md).
 
 -   **Principal classes**
 
@@ -173,7 +173,7 @@ Search &amp; analytics contains the following features and aggregations:
 
     -   There are any records in the Saved Queries \[qb\_saved\_query\] table in which **Source** is **QB**
     -   There are any queries executed or queries executed with reports, in the last 90 days
-    If [[cmdb-query-builder-landing-page|CMDB Query Builder]] is in use, shows a chart with counts of query executions and query executions in reports, for the past six months, by month.
+    If CMDB Query Builder is in use, shows a chart with counts of query executions and query executions in reports, for the past six months, by month.
 
     Point to the chart to see monthly aggregation data.
 
@@ -181,7 +181,7 @@ Search &amp; analytics contains the following features and aggregations:
 
     Determines if [Intelligent Search for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md) is in use by checking the NLQ Query Logs \[nlq\_query\_log\] table for any records where **source** is **CMDB\_WS**, from the past 90 days. If Intelligent Search is in use, shows counts of Intelligent Search queries for the past six months, by month.
 
--   **[[multisource-cmdb|CMDB 360]] — Records in Multisource**
+-   **CMDB 360 — Records in Multisource**
 
     Total number of raw [CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/multisource-cmdb.md) records in the CMDB 360 data store that contains records for each discovery source report, per each CI attribute. This card is identical to the [Total CMDB 360 records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb360-exp-cmdb-workspace.md) card in the Discovery Sources tile in the CMDB 360 view.
 
@@ -199,22 +199,10 @@ Search &amp; analytics contains the following features and aggregations:
 
     This card appears only if the store app isn't installed, providing helpful resources for exploration and adoption. However, the feature is still included in calculating the search &amp; analytics overall level of adoption.
 
--   **[[c_CMDBHealth|CMDB Health]] Dashboard**
+-   **CMDB Health Dashboard**
 
     Determines if [CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md) is in use by checking if at least one CMDB Health Dashboard job is enabled.
 
     This card appears only if the feature isn't in use, providing helpful resources for exploration and adoption. However, the feature is still included in calculating the search &amp; analytics overall level of adoption.
 
-## Related
 
-- [[sg-workspace|Service Graph Workspace]]
-- [[label|Label]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[cmdb-data-management-landing|CMDB data management]]
-- [[csdm-data-synchronize|Synchronizing group assignment attributes]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[multisource-cmdb|CMDB 360]]
-- [[c_CMDBHealth|CMDB Health]]

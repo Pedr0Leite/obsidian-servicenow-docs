@@ -15,7 +15,7 @@ breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual A
 
 # Using link unfurling in Virtual Agent
 
-[[virtual-agent-landing-page|Virtual Agent]] supports link unfurling on the chat widget, mobile devices, and various channels. Link unfurling generates a content-rich preview when a supported link is shared in a conversation with a user, a virtual agent, or in a text-based bot response.
+Virtual Agent supports link unfurling on the chat widget, mobile devices, and various channels. Link unfurling generates a content-rich preview when a supported link is shared in a conversation with a user, a virtual agent, or in a text-based bot response.
 
 If the link is supported on the chat widget or channel, the generated content-rich previews can include text, images, and videos.
 
@@ -56,6 +56,3 @@ Use the Hostname allow list \[sys\_cs\_hostname\_allow\_list\] table to identify
 
 **Parent Topic:**[Exploring other Virtual Agent features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-other-vad-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

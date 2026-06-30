@@ -12,9 +12,9 @@ keywords: [Granular admin roles, admin roles, ServiceNow admin roles, admin, rol
 
 # Granular admin roles
 
-Granular admin roles enables you to verify proper [[access-management-landing|access management]] by assigning roles that define user permissions and responsibilities. By doing so, organizations can maintain security, enforce conformance, and optimize their operations effectively.
+Granular admin roles enables you to verify proper access management by assigning roles that define user permissions and responsibilities. By doing so, organizations can maintain security, enforce conformance, and optimize their operations effectively.
 
-Roles are a fundamental part of managing access and maintaining security within your instance. They define what you can see and do, verifying that you have the appropriate level of access based on your responsibilities. By assigning the correct roles to the [[users|users]], organizations can safeguard sensitive data, enforce conformance, and streamline operations.
+Roles are a fundamental part of managing access and maintaining security within your instance. They define what you can see and do, verifying that you have the appropriate level of access based on your responsibilities. By assigning the correct roles to the users, organizations can safeguard sensitive data, enforce conformance, and streamline operations.
 
 To optimize access management within the ServiceNow AI Platform, consider adopting granular admin roles. This approach enables you to assign specific permissions to developers or users who perform minor administrative tasks, without granting them unrestricted access to the full admin role.
 
@@ -22,8 +22,8 @@ To optimize access management within the ServiceNow AI Platform, consider adopti
 
 -   Users who are assigned with admin role previously will have its granular admin roles assigned based on the product or module that they had access to earlier.
 -   Each product within the ServiceNow AI Platform has its own set of granular admin roles. To determine the appropriate roles for your administrators or developers, refer to the specific product documentation.
--   You can assign the Instance operator \(`instance_operator`\) role for users who handle day-to-day operations without elevated system [[sc-configuration|configuration]] privileges. Assign this role to users who need to:
-    -   Check [[logs|logs]] and diagnose problems
+-   You can assign the Instance operator \(`instance_operator`\) role for users who handle day-to-day operations without elevated system configuration privileges. Assign this role to users who need to:
+    -   Check logs and diagnose problems
     -   Perform routine maintenance
     -   Keep workflows running smoothly
 -   Granular admin roles are separate from the existing admin role and must be assigned independently.
@@ -44,7 +44,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[access-analyzer|Access Analyzer]]
+Access Analyzer
 
 </td><td>
 
@@ -136,7 +136,7 @@ sn\_nowassist\_admin.nsa\_admin
 
 </td><td>
 
-Role required to enable your requesters to have a streamlined, conversational experience that is based on generative AI as they submit a catalog item [[c_requestAPI|request]] in Virtual Agent.
+Role required to enable your requesters to have a streamlined, conversational experience that is based on generative AI as they submit a catalog item request in Virtual Agent.
 
 </td></tr><tr><td>
 
@@ -224,7 +224,7 @@ Provides write and delete access to sys\_audit. Manual record modifications shou
 
 </td></tr><tr><td>
 
-[[c_Authentication|Authentication]]
+Authentication
 
 </td><td>
 
@@ -232,7 +232,7 @@ adaptive\_auth\_policy\_admin
 
 </td><td>
 
-Role required to configure [[adaptive-authentication|adaptive authentication]] [[ca-policies|policies]] and filters, as well as update or delete those created by the role. Additionally, policies and filters created by other users and default configurations are available in read-only mode.
+Role required to configure adaptive authentication policies and filters, as well as update or delete those created by the role. Additionally, policies and filters created by other users and default configurations are available in read-only mode.
 
 </td></tr><tr><td>
 
@@ -244,7 +244,7 @@ adpative\_auth\_admin
 
 </td><td>
 
-Role required to access and modify Adaptive Authentication configurations, including creating and adjusting policies, managing policy contexts, and configuring [[adaptive-auth-filter-criteria|filter criteria]]. Additionally, users can enable or disable adaptive authentication policies as needed. The role also grants access to modify [[mfa-landing|Multi-Factor Authentication]] \(MFA\) settings, enabling users to enforce MFA and adjust MFA factor policies.
+Role required to access and modify Adaptive Authentication configurations, including creating and adjusting policies, managing policy contexts, and configuring filter criteria. Additionally, users can enable or disable adaptive authentication policies as needed. The role also grants access to modify Multi-Factor Authentication \(MFA\) settings, enabling users to enforce MFA and adjust MFA factor policies.
 
 </td></tr><tr><td>
 
@@ -280,7 +280,7 @@ sso\_config\_admin
 
 </td><td>
 
-Role required to access all configurations related to Single Sign-On authentication within the instance. Grants the capability to create and modify feature configurations for SSO [[c_SAML2.0WebBrowserSSOProfile|SAML]], OIDC, Digest, and [[certificate-based-authentication|Certificate-Based Authentication]] in the instance.
+Role required to access all configurations related to Single Sign-On authentication within the instance. Grants the capability to create and modify feature configurations for SSO SAML, OIDC, Digest, and Certificate-Based Authentication in the instance.
 
 </td></tr><tr><td>
 
@@ -296,7 +296,7 @@ Role required to access and modify all user login-specific configurations, such 
 
 </td></tr><tr><td>
 
-[[authentication-factors|Authentication Factors]]
+Authentication Factors
 
 </td><td>
 
@@ -889,7 +889,7 @@ sn\_embeddable\_core.emb\_admin
 
 </td><td>
 
-Role required to have granular admin access for [[web-embeddables|web embeddables]] admin experience.
+Role required to have granular admin access for web embeddables admin experience.
 
 </td></tr><tr><td>
 
@@ -1045,7 +1045,7 @@ document\_admin
 
 </td><td>
 
-Role required to manage [[ca-system-properties|system properties]], security ACLs, and security ACL roles. Manage PDF generation, document conversion and document viewer BASE SYSTEM plugins.
+Role required to manage system properties, security ACLs, and security ACL roles. Manage PDF generation, document conversion and document viewer BASE SYSTEM plugins.
 
 </td></tr><tr><td>
 
@@ -1097,7 +1097,7 @@ Role required to create and manage employee profiles.
 
 </td></tr><tr><td>
 
-[[encryption-landing|Encryption]]
+Encryption
 
 </td><td>
 
@@ -1869,7 +1869,7 @@ Role required to have admin access for Health and Safety applications.
 
 </td></tr><tr><td>
 
-[[identity-landing|Identity]]
+Identity
 
 </td><td>
 
@@ -1889,7 +1889,7 @@ mi\_admin
 
 </td><td>
 
-Role required to have admin access for [[machine-identity-console|Machine Identity Console]]. It's a high privilege as it contains other admin roles, assign carefully.
+Role required to have admin access for Machine Identity Console. It's a high privilege as it contains other admin roles, assign carefully.
 
 </td></tr><tr><td>
 
@@ -1925,7 +1925,7 @@ scim\_client\_config\_admin
 
 </td><td>
 
-Role required to access and modify [[scim-client-app|SCIM client]] configurations.
+Role required to access and modify SCIM client configurations.
 
 </td></tr><tr><td>
 
@@ -1937,7 +1937,7 @@ scim\_config\_admin
 
 </td><td>
 
-Role required to access and modify [[scim-provider|SCIM provider]]-related configurations such as SCIM extension schema and SCIM system properties.
+Role required to access and modify SCIM provider-related configurations such as SCIM extension schema and SCIM system properties.
 
 </td></tr><tr><td>
 
@@ -2973,7 +2973,7 @@ Role required to configure all Major Incident Management features including majo
 
 </td></tr><tr><td>
 
-ITSM - Incident [[sc-communications|Communications]] Management
+ITSM - Incident Communications Management
 
 </td><td>
 
@@ -3057,7 +3057,7 @@ Role required to create and manage all Journey designer and Journey Accelerator 
 
 </td></tr><tr><td>
 
-[[encryption|Key Management Framework]]
+Key Management Framework
 
 </td><td>
 
@@ -3161,7 +3161,7 @@ sn\_lg\_ops.legal\_notification\_admin
 
 </td><td>
 
-Role required for administrative access to the Notifications module in legal apps to configure [[email|email]] notifications.
+Role required for administrative access to the Notifications module in legal apps to configure email notifications.
 
 </td></tr><tr><td>
 
@@ -3681,7 +3681,7 @@ Role required to configure password policy-related items.
 
 </td></tr><tr><td>
 
-[[c_SelfServicePasswordReset|Password Reset]]
+Password Reset
 
 </td><td>
 
@@ -4041,7 +4041,7 @@ Role required to migrate admin ACLs to a more granular role for ai-search-admin,
 
 </td></tr><tr><td>
 
-[[sec-center-v2|Security Center]]
+Security Center
 
 </td><td>
 
@@ -4242,7 +4242,7 @@ Role required to configure preferred tables in your instance for Table Builder.
 
 </td></tr><tr><td>
 
-[[servicenow-vault-landing|ServiceNow Vault]]
+ServiceNow Vault
 
 </td><td>
 
@@ -4250,7 +4250,7 @@ sn\_vault\_console.vault\_console\_admin
 
 </td><td>
 
-Role required to have a collection of [[data-classification|Data Classification]] admin, [[data-privacy-landing|Data Privacy]] admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
+Role required to have a collection of Data Classification admin, Data Privacy admin, and CA Admin roles to execute a template flow and monitor sensitive data. To learn more, see [Configuring ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-servicenow-vault.md)
 
 </td></tr><tr><td>
 
@@ -4262,7 +4262,7 @@ sn\_vault\_console.vault\_console\_auditor
 
 </td><td>
 
-Role required to have a collection of [[data-discovery-landing|Data Discovery]] Auditor, Data Classification Auditor, Data Privacy Auditor, and Continuous Auth Auditor roles to view the policies and [[ca-metrics|metrics]] related to ServiceNow Vault.
+Role required to have a collection of Data Discovery Auditor, Data Classification Auditor, Data Privacy Auditor, and Continuous Auth Auditor roles to view the policies and metrics related to ServiceNow Vault.
 
 </td></tr><tr><td>
 
@@ -4350,7 +4350,7 @@ Role required to have full administrative access to vCenter: VMs, clusters, stor
 
 </td></tr><tr><td>
 
-[[system-logs|System Logs]] \(Log Entry\)
+System Logs \(Log Entry\)
 
 </td><td>
 
@@ -4529,42 +4529,6 @@ sn\_vul.vulnerability\_admin
 Role required for complete access to the Vulnerability Response \(VR\) application and its records. Users with this role configure all VR applications and rules and can install third-party integrations.
 
 </td></tr></tbody>
-</table>-   **[[platsec-granular-roles|Platform security granular admin roles]]**  
+</table>-   **[Platform security granular admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-granular-roles.md)**  
 Use granular admin roles to verify access management by assigning roles that define user permissions and responsibilities.
 
-## Related
-
-- [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
-- [[platsec-granular-roles|Platform security granular admin roles]]
-- [[access-management-landing|Access Management]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]
-- [[access-analyzer|Access Analyzer]]
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[certificate-based-authentication|Certificate-based authentication]]
-- [[authentication-factors|Authentication factors]]
-- [[web-embeddables|Web Embeddables]]
-- [[ca-system-properties|System properties]]
-- [[encryption-landing|Encryption]]
-- [[identity-landing|Identity]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[scim-client-app|SCIM Client]]
-- [[scim-provider|SCIM Provider]]
-- [[sc-communications|Communications]]
-- [[encryption|Key Management Framework]]
-- [[email|Email]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sec-center-v2|Security Center]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[data-classification|Data Classification]]
-- [[data-privacy-landing|Data Privacy]]
-- [[data-discovery-landing|Data Discovery]]
-- [[ca-metrics|Metrics]]
-- [[system-logs|System logs]]

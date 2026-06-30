@@ -34,7 +34,7 @@ sn\_tprm\_dd\_request
 
 </td></tr><tr><td>
 
-[[business-continuity-mangmt-overview|Business Continuity Management]]
+Business Continuity Management
 
 </td><td>
 
@@ -76,6 +76,3 @@ Policy and Compliance
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Approver Configurator for setting up approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/approval-configuration.md)
 
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

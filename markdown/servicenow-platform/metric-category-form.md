@@ -28,7 +28,7 @@ Name
 
 </td><td>
 
-Name of the metric category. The name appears on [[c_AssessmentQuestionnaires|assessment questionnaires]].
+Name of the metric category. The name appears on assessment questionnaires.
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Type
 
 </td><td>
 
-\[Required\] Metric type this category is used for. Metrics in this category can be used to evaluate [[c_assessable-records|assessable records]] for the type you select. This field becomes read-only after you save the record.
+\[Required\] Metric type this category is used for. Metrics in this category can be used to evaluate assessable records for the type you select. This field becomes read-only after you save the record.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Create stakeholders
 
 </td><td>
 
-[[check-box|Check box]] that enables \(selected\) or disables \(cleared\) automatic [[r_CategoryUsersAndStakeholders|stakeholder]] creation for this category. When the check box is selected, the system makes all associated category users stakeholders for each assessable record associated to this category. This saves the time required to manually create stakeholders. For more information, see [[t_CreateAStakeholderAutomatically|Create Stakeholders Automatically]]. Existing stakeholders are not impacted if you clear the check box.
+Check box that enables \(selected\) or disables \(cleared\) automatic [stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md) creation for this category. When the check box is selected, the system makes all associated category users stakeholders for each assessable record associated to this category. This saves the time required to manually create stakeholders. For more information, see Create Stakeholders Automatically. Existing stakeholders are not impacted if you clear the check box.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Weight
 
 </td><td>
 
-\[Required\] Numerical value that represents the importance of this category relative to other categories. A greater value indicates greater importance. For more information, see [[c_AssessmentMetrics|weight categories and metrics]]. The default value is 10.
+\[Required\] Numerical value that represents the importance of this category relative to other categories. A greater value indicates greater importance. For more information, see [weight categories and metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md). The default value is 10.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Scoring type
 
 </td><td>
 
-Scoring method for an attestation category. This field appears only when the [[c_MetricTypesAndAssessableRecords|metric type]] is an attestation with a **Scoring type** of **Percent**. Use this field to configure different scoring types for specific attestation categories. Possible selections are: -   **Percent**: Attestation score as a weighted percentage of correct answers for scored questions.
+Scoring method for an attestation category. This field appears only when the [metric type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md) is an attestation with a **Scoring type** of **Percent**. Use this field to configure different scoring types for specific attestation categories. Possible selections are: -   **Percent**: Attestation score as a weighted percentage of correct answers for scored questions.
 -   **All or nothing**: All answers for attestation type questions must be correct or the score is zero for the entire category.
 
 </td></tr><tr><td>
@@ -91,7 +91,7 @@ Filter conditions that assessable records must meet to be evaluated using metric
 
  The filter operates on fields on the selected table.
 
- If you specify a filter condition, the system automatically associates matching assessable records to the category when you save the record. If you change the filter conditions, the system removes and creates [[r_ManageAssessablRecordAssociation|assessable record associations]] as needed. The system also deletes stakeholders for assessable records it disassociates. The system does not remove assessable record associations created by users, even if the assessable records do not match the filter conditions.
+ If you specify a filter condition, the system automatically associates matching assessable records to the category when you save the record. If you change the filter conditions, the system removes and creates assessable record associations as needed. The system also deletes stakeholders for assessable records it disassociates. The system does not remove assessable record associations created by users, even if the assessable records do not match the filter conditions.
 
  This field is visible only when a **Type** is selected.
 
@@ -117,7 +117,7 @@ Details
 
 </td><td>
 
-Text field containing an [[html|HTML]] editor. Use this field to present important details about this category to assessment recipients. Details can include formatted lists, images, videos, or links to external websites. You may need to configure the form to see this field.
+Text field containing an HTML editor. Use this field to present important details about this category to assessment recipients. Details can include formatted lists, images, videos, or links to external websites. You may need to configure the form to see this field.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -129,7 +129,7 @@ Assessment Metrics
 
 </td><td>
 
-All metrics associated to this category. There must be at least one metric associated to the category to use any [[r_Assessments|assessments]] with the category.
+All metrics associated to this category. There must be at least one metric associated to the category to use any assessments with the category.
 
 </td></tr><tr><td>
 
@@ -145,33 +145,17 @@ Users
 
 </td><td>
 
-All users associated to this category. There must be at least one category user to create [[c_ScheduledAssessments|scheduled assessments]] using metrics in this category.
+All users associated to this category. There must be at least one category user to create scheduled assessments using metrics in this category.
 
  If any user field is specified in the **Assessors** tab of the assessment, the corresponding users are automatically generated after publishing the assignment.
 
- This related list is available only when the associated metric type has schedule type set to **Scheduled**. Category users are not a part of the [[c_OnDemandAssessments|on-demand assessment]] process.
+ This related list is available only when the associated metric type has schedule type set to **Scheduled**. Category users are not a part of the [on-demand assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OnDemandAssessments.md) process.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[assessment-reference|Assessments reference]]
+</table>**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
-[[t_CreateACategoryAR|Create a category for assessable records]]
+[Create a category for assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateACategoryAR.md)
 
-## Related
-
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[c_OnDemandAssessments|On-demand assessments]]
-- [[assessment-reference|Assessments reference]]
-- [[t_CreateACategoryAR|Create a category for assessable records]]
-- [[c_AssessmentQuestionnaires|Assessment questionnaires]]
-- [[c_assessable-records|Assessable records]]
-- [[check-box|Check box]]
-- [[t_CreateAStakeholderAutomatically|Create stakeholders automatically]]
-- [[r_ManageAssessablRecordAssociation|Assessable record associations]]
-- [[html|HTML]]
-- [[r_Assessments|Assessments]]
-- [[c_ScheduledAssessments|Scheduled assessments]]

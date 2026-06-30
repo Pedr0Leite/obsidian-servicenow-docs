@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 # Cloud API \(CAPI\)
 
-The Cloud API \(CAPI\) enables you to integrate [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] with cloud providers using REST APIs.
+The Cloud API \(CAPI\) enables you to integrate Cloud Provisioning and Governance with cloud providers using REST APIs.
 
 ## CAPI components
 
@@ -89,7 +89,7 @@ CAPI integrates these components in your instance:
     Each operation in the CAPI API has a MID Server script include that you configure. The script include calls the JavaScript classes that are already in other script includes in the system, or JavaScript classes that you create. Eventually, the invoker class is called to trigger the REST call. MID Server script includes are configured on your ServiceNow instance, but run on the MID Server.
 
 
-This image illustrates how the components work together when a user provisions a resource from the [[cloudmgt-cloud-user-portal|Cloud User Portal]]:
+This image illustrates how the components work together when a user provisions a resource from the Cloud User Portal:
 
 \[Omitted image "capi-and-instance.png"\] Alt text: CAPI and your instance
 
@@ -121,7 +121,3 @@ Remember that the REST API calls take place inside the MID Server script include
 
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

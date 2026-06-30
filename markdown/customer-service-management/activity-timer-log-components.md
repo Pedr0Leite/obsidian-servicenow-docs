@@ -12,7 +12,7 @@ breadcrumb: [Activity timer log, CSM Configurable Workspace features, CSM Config
 
 # Activity timer log components
 
-The [[csm-config-ws-time-tracking|activity timer log]] feature is available with the Activity Timer Reporting plugin \(sn\_activity\_timer\_reporting\). This plugin adds user tables, user roles, UIB page properties, a script include, and a scheduled job.
+The activity timer log feature is available with the Activity Timer Reporting plugin \(sn\_activity\_timer\_reporting\). This plugin adds user tables, user roles, UIB page properties, a script include, and a scheduled job.
 
 ## Tables
 
@@ -103,7 +103,3 @@ Specifies case types excluded from the activity timer log feature.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-config-ws-time-tracking|Activity timer log]]

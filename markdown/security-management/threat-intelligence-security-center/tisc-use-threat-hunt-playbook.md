@@ -21,9 +21,9 @@ Run threat hunt on a Case record — from capturing the hunt hypothesis through 
 
 Role required: sn\_sec\_tisc.analyst
 
-Confirm that the [[tisc-threat-hunt-playbook|Threat Hunting playbook]] is active. See [Activate the Threat Hunting Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-activate-threat-hunt-playbook.md) for the activation details.
+Confirm that the Threat Hunting playbook is active. See [Activate the Threat Hunting Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-activate-threat-hunt-playbook.md) for the activation details.
 
-For the Scoping stage, MITRE data must be present in the instance. MITRE [[data-sources|data sources]] are shipped in a deactivated state — an administrator must activate and run a MITRE data source before TTPs can be selected.
+For the Scoping stage, MITRE data must be present in the instance. MITRE data sources are shipped in a deactivated state — an administrator must activate and run a MITRE data source before TTPs can be selected.
 
 ## About this task
 
@@ -33,9 +33,9 @@ The playbook progresses through six stages in sequence. Each stage has specific 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Select the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Select the **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -45,14 +45,14 @@ The playbook progresses through six stages in sequence. Each stage has specific 
 
     You can also attach the playbook manually and initiate the playbook. For more information, see [Add the Threat Hunting Playbook to a Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-add-playbook-manually.md).
 
-5.  Open the Case record and select the **[[tisc-playbooks-admin|Playbooks]]**.
+5.  Open the Case record and select the **Playbooks**.
 
 6.  In the Intake stage, provide the hunt hypothesis, set the assignee, and link the entities to investigate.
 
     |Field|Description|
     |-----|-----------|
     |**Case Record Details**|
-    |**Description**|Enter the hunt hypothesis, for example, the suspected adversary behavior, the [[c_Observables|observables]] of interest, and the expected outcome of the hunt.|
+    |**Description**|Enter the hunt hypothesis, for example, the suspected adversary behavior, the observables of interest, and the expected outcome of the hunt.|
     |**Assignment group**|The group responsible for the Case.|
     |**Assigned to**|The user set as the case owner. The case owner is the only user who can transition the playbook to the next stage.|
     |**Linked Entities Summary**|
@@ -150,7 +150,7 @@ Adds the selected techniques and its matrix and tactic metadata to the case desc
     |Action|Description|
     |------|-----------|
     |**Create Security Incident**|Optionally available to the users with write access on the Security Incident table. Escalates the hunt findings to a Security Incident through the **Create Security Incident** modal. The Security Incident is linked to the Case automatically.|
-    |**[[tisc-case-reports|View Case Reports]]**|Redirects to the **Case Reports** tab where you can create report.|
+    |**View Case Reports**|Redirects to the **Case Reports** tab where you can create report.|
     |**Complete Playbook**|Finalizes the playbook. The playbook is marked as complete on the Case record and can't be re-initiated on the same Case.|
 
 
@@ -169,12 +169,3 @@ Adds the selected techniques and its matrix and tactic metadata to the case desc
 
 [Creating case task using Threat Analyst Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-case-task.md)
 
-## Related
-
-- [[tisc-threat-hunt-playbook|Threat Hunting Playbook]]
-- [[data-sources|Data Sources]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[tisc-playbooks-admin|Playbooks]]
-- [[c_Observables|Observables]]
-- [[tisc-case-reports|View Case Reports]]

@@ -24,7 +24,7 @@ Role required: None
 
 ## About this task
 
-To filter a dashboard on breakdown elements, such as priorities or categories, select the breakdown source and then select elements within that breakdown source. Reports and appropriately configured [[c_Widgets|Performance Analytics widgets]] reflect the filter when it is applied. If you select multiple elements, Performance Analytics shows the values associated with those elements as an aggregation or as separated elements, depending on how each Performance Analytics widget is configured. For more information about configuring breakdown dashboards and their [[widgets|widgets]], see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
+To filter a dashboard on breakdown elements, such as priorities or categories, select the breakdown source and then select elements within that breakdown source. Reports and appropriately configured Performance Analytics widgets reflect the filter when it is applied. If you select multiple elements, Performance Analytics shows the values associated with those elements as an aggregation or as separated elements, depending on how each Performance Analytics widget is configured. For more information about configuring breakdown dashboards and their widgets, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
 
 For performance reasons, there is no option to select all breakdown elements.
 
@@ -54,7 +54,7 @@ For performance reasons, there is no option to select all breakdown elements.
 
     The direction of the triangle indicates a-z or z-a.
 
-7.  Select a data point to show the indicator and breakdown elements in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+7.  Select a data point to show the indicator and breakdown elements in the Analytics Hub.
 
     Access to the Analytics Hub requires the pa\_viewer role.
 
@@ -62,8 +62,4 @@ For performance reasons, there is no option to select all breakdown elements.
 
 8.  Select **Clear all** to remove the selected elements and show the breakdown widget with all elements.
 
-## Related
 
-- [[c_Widgets|Performance Analytics widgets]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

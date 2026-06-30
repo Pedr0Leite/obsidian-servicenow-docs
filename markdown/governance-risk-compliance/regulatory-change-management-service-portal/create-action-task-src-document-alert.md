@@ -22,7 +22,7 @@ Role required: sn\_compliance.manager, sn\_risk.manager, sn\_compliance.user, sn
 
 ## About this task
 
-The action tasks are created as a follow-up to complete the changes that have been identified as part of the [[reg-change-task|regulatory change tasks]] and [[source-doc-import-task|source document import tasks]].
+The action tasks are created as a follow-up to complete the changes that have been identified as part of the regulatory change tasks and source document import tasks.
 
 The actions described in the following steps are performed by the users with the sn\_compliance.manager, sn\_risk.manager, sn\_compliance.user, sn\_risk.user, and sn\_grc\_reg\_change.manager roles.
 
@@ -30,11 +30,11 @@ The actions described in the following steps are performed by the users with the
 
 1.  Log in with the sn\_compliance.manager or the sn\_risk.manager user role.
 
-2.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+2.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-3.  In the [[list-view-uib-ws|List view]], navigate to **Lists** &gt; **[[list-view-of-reg-alerts|Regulatory Alerts]]** &gt; **Assigned Alerts** view.
+3.  In the List view, navigate to **Lists** &gt; **Regulatory Alerts** &gt; **Assigned Alerts** view.
 
 4.  Navigate to the action task that is marked for you.
 
@@ -64,10 +64,3 @@ The actions described in the following steps are performed by the users with the
 
 Once the user with the sn\_compliance.user or the sn\_risk.user role completes the action task, the regulatory event alert and the parent regulatory change task are closed automatically. Similarly, the source document alert and the parent source document import task are closed when the associated action tasks are completed. This is the final step of the regulatory tasks workflow.
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]
-- [[source-doc-import-task|Source document import tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-uib-ws|List view]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

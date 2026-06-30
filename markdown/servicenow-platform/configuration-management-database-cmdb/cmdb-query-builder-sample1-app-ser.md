@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[cmdb-query-builder-landing-page|CMDB Query Builder]]** and then select **Create new**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CMDB Query Builder** and then select **Create new**.
 
 2.  Enter `All critical application services` as the query **Name**.
 
@@ -52,6 +52,4 @@ Role required: none
 
     You can, for example, locate any of the critical application services without an owner.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

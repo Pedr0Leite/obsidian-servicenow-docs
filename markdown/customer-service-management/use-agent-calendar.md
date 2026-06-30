@@ -17,11 +17,7 @@ Users with the agent calendar user role can add events to their personal calenda
 **Related topics**  
 
 
-[[configure-agent-calendar|Configuring an agent calendar]]
+[Configuring an agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-agent-calendar.md)
 
-[[agent-calendar|Managing agent calendar]]
+[Managing agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-calendar.md)
 
-## Related
-
-- [[configure-agent-calendar|Configuring an agent calendar]]
-- [[agent-calendar|Managing agent calendar]]

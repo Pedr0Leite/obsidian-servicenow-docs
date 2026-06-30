@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Case Digest** &gt; **My [[case-digest-post-case-review|Post Case Reviews]]**.
+1.  Navigate to **All** &gt; **Case Digest** &gt; **My Post Case Reviews**.
 
 2.  Click and open a post case review which is in **Awaiting Approval** state.
 
@@ -28,6 +28,4 @@ Role required: sn\_customerservice\_manager or admin
 
     The post case review document is now in **In Progress** state and approvers are notified by email that the request for approval is no longer required. You can edit the post case review document and resend it for approval.
 
-## Related
 
-- [[case-digest-post-case-review|Post case reviews]]

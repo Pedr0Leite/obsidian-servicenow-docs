@@ -14,7 +14,7 @@ breadcrumb: [SCIM Provider, System for Cross-domain Identity Management \(SCIM\)
 
 # Tutorial: Configure SCIM for user provisioning with a Provider
 
-Configuring SCIM automatically provisions and de-provisions [[users|users]] and groups to ServiceNow by using the providers provisioning service.
+Configuring SCIM automatically provisions and de-provisions users and groups to ServiceNow by using the providers provisioning service.
 
 ## Before you begin
 
@@ -26,12 +26,8 @@ Role required: scim\_admin
 
 ## About this task
 
-You can provision users using SCIM by the following [[c_Authentication|authentication]] methods:
+You can provision users using SCIM by the following authentication methods:
 
 -   [Provisioning user using Basic Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/provisioning-user-basic-auth.md)
 -   [Provisioning user using OAuth](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/provisioning-user-oauth.md)
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

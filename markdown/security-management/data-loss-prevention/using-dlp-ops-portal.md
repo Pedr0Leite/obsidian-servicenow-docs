@@ -15,7 +15,7 @@ breadcrumb: [Manage incidents, Data Loss Prevention Incident Response, Security 
 
 # Data Loss Prevention Incident Response Analyst Workspace
 
-Use the [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) Analyst Workspace to view the DLP incidents. Assign the incidents to end users for resolution and more.
+Use the Data Loss Prevention Incident Response \(DLP IR\) Analyst Workspace to view the DLP incidents. Assign the incidents to end users for resolution and more.
 
 The DLP workspace consists of a home page with dashboards, list views, and form views that let you monitor DLP incidents.
 
@@ -419,7 +419,7 @@ The following table lists the activities and stages available for creating a DLP
 |Containment|Isolate affected systems or users to prevent further data leakage or unauthorized access.|
 |Investigation|Investigate the breach to understand how it occurred, what data was affected, and the potential impact.|
 |Notification|Notify internal teams, external stakeholders, and regulatory bodies as required by law or policy.|
-|Remediation|Apply corrective measures to address [[vulnerabilities|vulnerabilities]], update policies, and prevent future breaches.|
+|Remediation|Apply corrective measures to address vulnerabilities, update policies, and prevent future breaches.|
 |Recovery|Restore systems from secure backups and validate the integrity of data post-incident.|
 |Post-Incident Review|Analyze the incident to identify root causes, improve security controls, and strengthen policies.|
 
@@ -450,7 +450,7 @@ Role required: sn\_dlir.analyst
 
 3.  Add the Playbook.
 
-    1.  Navigate to the **[[tisc-playbooks-admin|Playbooks]]** tab.
+    1.  Navigate to the **Playbooks** tab.
 
     2.  In the UI actions menu, select the **More actions** icon and select **Add Playbooks**.
 
@@ -458,7 +458,7 @@ Role required: sn\_dlir.analyst
 
     4.  Select **Add Playbooks**.
 
-4.  Select each lane to [[threat-intelligence-security-center-overview|explore]] the tasks this Playbook performs.
+4.  Select each lane to explore the tasks this Playbook performs.
 
 
 ### Cancel a DLP Playbook
@@ -527,9 +527,4 @@ Role required:
     -   **Match Content** is supported for all the archived incidents \(which will be supported in all the integrations as well\) but **Download file** is supported only for Microsoft integrations.
 5.  To reactivate an incident, change the **State** field to an active state, such as Open or In Progress.
 
-## Related
 
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[tisc-playbooks-admin|Playbooks]]
-- [[threat-intelligence-security-center-overview|Explore]]

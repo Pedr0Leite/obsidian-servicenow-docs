@@ -14,14 +14,14 @@ breadcrumb: [Integrate, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # News Integration for Supplier Lifecycle Operations
 
-The News Integration for Supplier Lifecycle Operations plugin \(com.snc.sn\_supplier\_news\) retrieves [[supplier|supplier]] news and activities using the Microsoft Bing News Search API and displays this information in the Supplier News and Activity section on the **About** tab of the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+The News Integration for Supplier Lifecycle Operations plugin \(com.snc.sn\_supplier\_news\) retrieves supplier news and activities using the Microsoft Bing News Search API and displays this information in the Supplier News and Activity section on the **About** tab of the Source-to-Pay Workspace.
 
 **Important:** Check your entitlements to determine whether you have access to News Integration for Supplier Lifecycle Operations.
 
 The Microsoft Bing News Search API uses the default Supplier News REST message to fetch supplier news, so ensure that you have configured the Supplier News REST message. For more information, see [Configure the Supplier News REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-news-rest.md).
 
 -   **[Configure the Supplier News REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-news-rest.md)**  
-[[config-supp-news-rest|Configure the Supplier News REST message]] using the Microsoft Bing News Search API subscription key.
+Configure the Supplier News REST message using the Microsoft Bing News Search API subscription key.
 -   **[Configuring a custom API to dynamically fetch supplier news](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supplier-news-api.md)**  
 By default, News Integration for Supplier Lifecycle Operations retrieves the supplier news and activities using the Microsoft Bing News Search API.
 
@@ -40,8 +40,3 @@ By default, News Integration for Supplier Lifecycle Operations retrieves the sup
 
 [Configuring a custom API to dynamically fetch supplier news](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supplier-news-api.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[config-supp-news-rest|Configure the Supplier News REST message]]

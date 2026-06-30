@@ -18,7 +18,7 @@ The **Create Task** activity generates a record on any of the tables that extend
 
 **Note:** This activity is only available when the workflow runs on a table that extends Task.
 
-If the **Wait for completion** [[check-box|check box]] is selected, the workflow context waits for a user action on the task, such as Complete or Incomplete, and then progresses based on the user action.
+If the **Wait for completion** check box is selected, the workflow context waits for a user action on the task, such as Complete or Incomplete, and then progresses based on the user action.
 
 **Note:** Task activities run as the user whose actions complete the task the workflow was waiting for and advances the workflow.
 
@@ -274,6 +274,3 @@ The activity state tells the workflow engine what to do with the activity.
 
 **Parent Topic:**[Task workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_TaskActivities.md)
 
-## Related
-
-- [[check-box|Check box]]

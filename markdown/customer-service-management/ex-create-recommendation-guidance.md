@@ -20,11 +20,11 @@ Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
 2.  Select Case context.
 
-3.  In the [[gamification-components-rules|Rules]] related list, select Active rule.
+3.  In the Rules related list, select Active rule.
 
 4.  In the Recommendations related list, select **New**.
 
@@ -87,7 +87,4 @@ Major case
 </td></tr></tbody>
 </table>12. Select **Update**.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]

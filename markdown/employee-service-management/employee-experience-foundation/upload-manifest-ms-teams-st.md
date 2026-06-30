@@ -46,15 +46,10 @@ Role required: admin
 
     -   **Chat**: Begin your conversation with the Virtual Agent to get help.
 
-    -   **[[employee-center-landing-page|Employee Center]]**: Select the **Employee Center** tab to view the organization updates and the status on your [[emp-slate-inbox|tasks and requests]].
+    -   **Employee Center**: Select the **Employee Center** tab to view the organization updates and the status on your tasks and requests.
 
-    **Note:** If you don't want to [[create-ms365-addin-manifest|create a manifest file]], you can edit an existing manifest file as required. After updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
+    **Note:** If you don't want to create a manifest file, you can edit an existing manifest file as required. After updating the existing manifest file, you can download and upload the manifest file in Microsoft Teams to make the changes effective.
 
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_s_tnt.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[create-ms365-addin-manifest|Create a manifest file]]

@@ -16,7 +16,7 @@ You can create a list visualization with variables columns based on a data sourc
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -30,7 +30,7 @@ In the Zurich release, this List replaces the simple list visualization. On migr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -42,7 +42,7 @@ In the Zurich release, this List replaces the simple list visualization. On migr
 
 5.  Select a report source that has variables associated with it.
 
-    There are two kinds of [[c_ReportSources|report sources]]. For [[list-reports|list reports]] with variables, the report source is usually the service catalog table.
+    There are two kinds of report sources. For list reports with variables, the report source is usually the service catalog table.
 
 <table id="simpletable_wrg_yz2_4wb"><thead><tr><th>
 
@@ -190,7 +190,7 @@ Group by \(optional\)
 The field to group by. For example, in a visualization of incident data grouped by **Assignment group**, all incidents that belong to Software, Service Desk, and Network are placed in separate groups. If the table contains variables or question fields, you have the option to group by one of them at the end of the list of fields.**Note:**
 
 -   It is not possible to group or stack data by the **Tags** field, or by certain field types, such as MEDIUMTEXT.
--   If you want to group by a field with continuous values, such as date or integer, the values are automatically grouped according to any [[c_ReportRanges|report ranges]] that are defined for the data. For more information, see [Report ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportRanges.md).
+-   If you want to group by a field with continuous values, such as date or integer, the values are automatically grouped according to any report ranges that are defined for the data. For more information, see [Report ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportRanges.md).
 
 
 </td></tr><tr id="alternative-group-by"><td>
@@ -201,7 +201,7 @@ Add alternative group by
 
 This selection opens a dialog in which you select additional items that the data in the visualization may be grouped by. The viewer of the visualization can then select which of these items to group the data by. The viewer toggles the visibility of the selector in the visualization's More actions menu. In the additional items dialog, you can set whether this selector is visible by default by toggling **Selector visible by default**.If you select a value in **Group by**, that is the default group-by value. You do not have to select a **Group by** value to specify alternative group-by values. In this case, no default group-by value is used.
 
-For more information about the viewer experience selecting from alternative group-by values, see [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 **Important:**
 
@@ -432,14 +432,5 @@ Enables the list to be divided across multiple pages. When cleared, list paginat
 </table>10. Select **Save**.
 
 
-**Parent Topic:**[[create-dv-analytics-list|Create a list visualization in the Visualization Designer]]
+**Parent Topic:**[Create a list visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-analytics-list.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[create-dv-analytics-list|Create a list visualization in the Visualization Designer]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]
-- [[list-reports|List reports]]
-- [[c_ReportRanges|Report ranges]]

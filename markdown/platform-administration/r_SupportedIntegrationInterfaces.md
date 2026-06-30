@@ -16,8 +16,8 @@ ServiceNow provides a number of interfaces to be able to directly integrate with
 
 |Interface|
 |---------|
-|[[c_InboundEmailActions|Email]]|
-|[[t_JDBCProbe|JDBC]]|
+|[Email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_InboundEmailActions.md)|
+|[JDBC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)|
 |[JSONv2 Web Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_JSONv2WebService.md)|
 |[LDAP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_LDAPIntegration.md)|
 |[SOAP web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_SOAPWebService.md)|
@@ -26,26 +26,17 @@ ServiceNow provides a number of interfaces to be able to directly integrate with
 |[Digest token authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DigestTokenAuthentication.md)|
 |[ODBC driver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/c_ODBCDriver.md)|
 |[Data Export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportData.md)|
-|[[r_ComputerTelephonyIntegration|CTI]]|
-|[[r_SyslogProbe|Syslog probe]]|
+|[CTI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ComputerTelephonyIntegration.md)|
+|[Syslog probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SyslogProbe.md)|
 
 -   **[Computer Telephony Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ComputerTelephonyIntegration.md)**  
 Computer Telephony Integration \(CTI\) is accomplished by the CTI client on the user machine sending a URL to the instance.
--   **[[c_IntegratServiceNowIntranet|Integrating ServiceNow with your Intranet]]**  
+-   **[Integrating ServiceNow with your Intranet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntegratServiceNowIntranet.md)**  
 You can add a ServiceNow login link to your intranet.
 -   **[JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)**  
-A JDBC probe runs on the MID Server to query an external database via JDBC and returns [[hs-results|results]] to ServiceNow.
+A JDBC probe runs on the MID Server to query an external database via JDBC and returns results to ServiceNow.
 -   **[Syslog probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SyslogProbe.md)**  
 The ServiceNow Syslog probe uses the MID Server to deliver log messages from a ServiceNow instance to another machine, such as a dedicated log server, using the syslog protocol over an IP network.
 
-**Parent Topic:**[[c_IntegrationOptions|Integration options]]
+**Parent Topic:**[Integration options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntegrationOptions.md)
 
-## Related
-
-- [[c_InboundEmailActions|Inbound email actions]]
-- [[t_JDBCProbe|JDBCProbe]]
-- [[r_ComputerTelephonyIntegration|Computer Telephony Integration]]
-- [[r_SyslogProbe|Syslog probe]]
-- [[c_IntegratServiceNowIntranet|Integrating ServiceNow with your Intranet]]
-- [[c_IntegrationOptions|Integration options]]
-- [[hs-results|Results]]

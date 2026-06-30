@@ -14,11 +14,11 @@ breadcrumb: [Authentication policy contexts, Adaptive authentication, Authentica
 
 # Multi-factor Authentication context
 
-The [[mfa-landing|Multi-factor Authentication]] \(MFA\) policy context uses a policy to define how and when MFA is enforced during the login process.
+The Multi-factor Authentication \(MFA\) policy context uses a policy to define how and when MFA is enforced during the login process.
 
 ## MFA context record
 
-The MFA policy context defines whether your [[users|users]] must provide a second form of [[c_Authentication|authentication]] when logging in. This context does not deny access to your instance as the post-authentication and pre-[[authentication-policies|authentication policies]]. The policy you select in this context takes precedence over user or role-based configurations for multi-factor authentication.
+The MFA policy context defines whether your users must provide a second form of authentication when logging in. This context does not deny access to your instance as the post-authentication and pre-authentication policies. The policy you select in this context takes precedence over user or role-based configurations for multi-factor authentication.
 
 To access the MFA context, navigate to **All** &gt; **Multi-factor Authentication** &gt; **MFA Context**.
 
@@ -26,10 +26,10 @@ Use the fields in the Post-authentication policy context record to define how yo
 
 **Note:**
 
--   If the default policy is **Step-Up MFA Policy**, users will be shown with Multi-factor Authentication if policy configured in **Step-Up MFA Policy** evaluates to true. Policy takes precedence over the user or role based [[sc-configuration|configuration]].
+-   If the default policy is **Step-Up MFA Policy**, users will be shown with Multi-factor Authentication if policy configured in **Step-Up MFA Policy** evaluates to true. Policy takes precedence over the user or role based configuration.
 -   MFA with SSO login will only be available if `glide.authenticate.mfa.with.multisso.enabled` Property is set to true.
 -   You can navigate to the Authentication Policy record to Add or Edit the 'Policy Input\(s\)' to the referenced Policy field \(**Step-Up MFA Policy** or **Step-Down MFA Policy**\).
--   MFA context policy applies only for user log ins. It does not apply for [[api-authentication|API authentication]], basic auth, and [[oauth-inbound-and-outbound|OAuth]] [[resource-owner-password-grant|resource owner password credential grant]].
+-   MFA context policy applies only for user log ins. It does not apply for API authentication, basic auth, and OAuth resource owner password credential grant.
 
 <table id="table_otz_ngr_2qb"><thead><tr><th>
 
@@ -99,16 +99,5 @@ This example shows an MFA context record configured using a step-up MFA policy. 
 
 ## MFA factor policies
 
-MFA factor [[ca-policies|policies]] are a critical component of an organization's security posture, enabling you to enforce additional verification steps beyond passwords. These policies define the authentication methods that users must employ to access providing a flexible and customizable approach to authentication. For more information, see [Multi-Factor Authentication factor policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-factor-policies.md).
+MFA factor policies are a critical component of an organization's security posture, enabling you to enforce additional verification steps beyond passwords. These policies define the authentication methods that users must employ to access providing a flexible and customizable approach to authentication. For more information, see [Multi-Factor Authentication factor policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-factor-policies.md).
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[sc-configuration|Configuration]]
-- [[api-authentication|API Authentication]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[resource-owner-password-grant|Resource owner password credential grant]]
-- [[ca-policies|Policies]]

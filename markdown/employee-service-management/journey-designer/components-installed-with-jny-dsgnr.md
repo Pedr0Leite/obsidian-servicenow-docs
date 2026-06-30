@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey designer, Employee Journey Management, HR Servic
 
 # Components installed with Journey designer
 
-Several types of components install with the activation of the [[jny-dsgnr-landing-page-1|Journey designer]] application, including user roles and tables.
+Several types of components install with the activation of the Journey designer application, including user roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -46,7 +46,7 @@ Administrator \[sn\_jny.admin\]
 
 </td><td>
 
-Grants access to create and manage all Journey designer and [[journey-accelerator-1|Journey Accelerator]] configurations and features.
+Grants access to create and manage all Journey designer and Journey Accelerator configurations and features.
 
 </td><td>
 
@@ -131,7 +131,7 @@ Available For \[sn\_jny\_m2m\_journey\_config\_user\_criteria\]
 
 </td><td>
 
-Contains and tracks users that meet the criteria to access recommended [[exploring-learning-exp|learning]] courses.
+Contains and tracks users that meet the criteria to access recommended learning courses.
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Field Mapping \[sn\_jny\_journey\_field\_mapping\]
 
 </td><td>
 
-[[map-fields-navex|Map fields]], custom text, or custom scripts to fields used in a journey. These [[field-mappings-sf|field mappings]] are from HR tables and fields to Journey designer or Journey Accelerator tables and fields.
+Map fields, custom text, or custom scripts to fields used in a journey. These field mappings are from HR tables and fields to Journey designer or Journey Accelerator tables and fields.
 
 </td></tr><tr><td>
 
@@ -195,7 +195,7 @@ Journey Configuration Quick Link\[sn\_jny\_m2m\_journey\_config\_quick\_link\]
 
 </td><td>
 
-Manages the relationship of [[emp-center-quick-link-config|quick links]] that are added to plans and journeys.
+Manages the relationship of quick links that are added to plans and journeys.
 
 </td></tr><tr><td>
 
@@ -203,7 +203,7 @@ Journey Mobile Carousel \[sn\_jny\_st\_jny\_mobile\_carousel\]
 
 </td><td>
 
-Manages data that is presented in the carousel on the [[mobile-employee-experience|Now Mobile App]].
+Manages data that is presented in the carousel on the Now Mobile App.
 
 </td></tr><tr><td>
 
@@ -235,7 +235,7 @@ Journey Tasks \[sn\_jny\_st\_journey\_task\]
 
 </td><td>
 
-Tracks [[activity-lxp|activity]] for task templates in journey configurations.
+Tracks activity for task templates in journey configurations.
 
 </td></tr><tr><td>
 
@@ -288,13 +288,3 @@ List users that met the criteria not to be added to a recommended course.
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[exploring-learning-exp|Learning]]
-- [[map-fields-navex|Map fields]]
-- [[field-mappings-sf|Field mappings]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[activity-lxp|Activity]]

@@ -14,7 +14,7 @@ breadcrumb: [Set up escalation policies for your team in SRM, Working with SRM t
 
 # Create an escalation trigger for an SRM team
 
-To address issues promptly, define the conditions that trigger a team's escalation policy in [[sr-landing-page|Service Reliability Management]] \(SRM\).
+To address issues promptly, define the conditions that trigger a team's escalation policy in Service Reliability Management \(SRM\).
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ For a broader overview of escalation processes in ITSM, see [Designing an escala
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the primary navigation, select **Teams** \(\[Omitted image "icon-sr-teams.png"\] Alt text: Teams.\).
 
@@ -96,7 +96,3 @@ Select **Run trigger rule every time the selected field changes** to run the tri
 
 **Parent Topic:**[Set up escalation policies for your team in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-create-escalation-policies.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

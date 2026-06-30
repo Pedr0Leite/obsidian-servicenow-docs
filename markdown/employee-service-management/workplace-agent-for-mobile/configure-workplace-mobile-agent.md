@@ -14,13 +14,10 @@ breadcrumb: [Workplace Agent for mobile, Workplace Service Delivery, Employee Se
 
 # Configure Workplace Agent for mobile
 
-Install the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] application to start using it on the ServiceNow Agent mobile application.
+Install the Workplace Agent for mobile application to start using it on the ServiceNow Agent mobile application.
 
 -   **[Install Workplace Agent for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/install-agent-workplace-services-for-mobile.md)**  
 Install the Workplace Agent for mobile application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 **Parent Topic:**[Workplace Agent for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/workplace-agent-mobile-feat.md)
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

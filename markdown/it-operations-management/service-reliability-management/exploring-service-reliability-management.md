@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management, ITOM AIOps, IT Operations Managemen
 
 # Exploring Service Reliability Management
 
-[[sr-landing-page|Service Reliability Management]] \(SRM\) provides a self-serve, guided experience for teams to manage service health. The experience is built using the [[workspace-dashboard-use|Service Operations Workspace]] application and combines ITOM and ITSM capabilities into a single workflow.
+Service Reliability Management \(SRM\) provides a self-serve, guided experience for teams to manage service health. The experience is built using the Service Operations Workspace application and combines ITOM and ITSM capabilities into a single workflow.
 
 ## SRM overview
 
@@ -23,7 +23,7 @@ Optimize service health with site reliability engineering \(SRE\) practices. SRM
 -   Use on-call escalations to respond to issues in a timely manner.
 -   Reduce setup friction with guided self-service to onboard distributed teams with separated data, empowered access, and minimal governance from central IT.
 
-When SRM is installed, several plugins and applications are also activated. For more information, see [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]].
+When SRM is installed, several plugins and applications are also activated. For more information, see [Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md).
 
 ## SRM users
 
@@ -167,8 +167,3 @@ Track and collaborate on incidents in the Incidents tab, helping you and your te
 
 **Parent Topic:**[Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-landing-page.md)
 
-## Related
-
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

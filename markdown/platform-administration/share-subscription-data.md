@@ -20,9 +20,9 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 ## About this task
 
-By default, data sharing is restricted between production instances, which means you can't see subscription data for other production instances in [[subscription-management-landing-page-v2|Subscription Management]]. To view subscription data from another production instance, modify the trust configuration settings on that instance.
+By default, data sharing is restricted between production instances, which means you can't see subscription data for other production instances in Subscription Management. To view subscription data from another production instance, modify the trust configuration settings on that instance.
 
-For more information about modifying the trust configuration for an instance, see [[grant-access-other-instances|Basic trust configuration for data sync applications]].
+For more information about modifying the trust configuration for an instance, see [Basic trust configuration for data sync applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/grant-access-other-instances.md).
 
 **Note:** Subscription data from a non-production instance is only viewable from a production instance.
 
@@ -32,7 +32,7 @@ In this scenario, the instance for viewing subscription data across all your ins
 
 1.  Log in to the instance that has subscription data that you want to view on your primary production instance.
 
-2.  Navigate to **All** &gt; **[[data-sync-landing-page|Multi-Instance Management]]** &gt; **Trust Configuration**.
+2.  Navigate to **All** &gt; **Multi-Instance Management** &gt; **Trust Configuration**.
 
 3.  In the list of instances, find the primary production instance.
 
@@ -47,11 +47,5 @@ Subscription data is shared with your primary production instance.
 
 Log in to your primary production instance to view the subscription data that is now shared with that instance. Repeat these steps for each additional production instance that has subscription data that you want to view from the primary production instance.
 
-**Parent Topic:**[[configuring-subscription-management-v2|Configuring Subscription Management]]
+**Parent Topic:**[Configuring Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-subscription-management-v2.md)
 
-## Related
-
-- [[grant-access-other-instances|Basic trust configuration for data sync applications]]
-- [[configuring-subscription-management-v2|Configuring Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[data-sync-landing-page|Multi-instance Management]]

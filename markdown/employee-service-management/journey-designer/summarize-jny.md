@@ -32,7 +32,7 @@ The following sections appear in the summary that is generated:
 
 -   **Blocker**
 
-    This section provides the manager with the overdue tasks that are blocking the journey's progress. This section also reflects the [[activity-lxp|activity]] sets in which the overdue tasks are nested, and the activity sets that are affected by the overdue tasks.
+    This section provides the manager with the overdue tasks that are blocking the journey's progress. This section also reflects the activity sets in which the overdue tasks are nested, and the activity sets that are affected by the overdue tasks.
 
 -   **Next Steps**
 
@@ -41,7 +41,7 @@ The following sections appear in the summary that is generated:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Journeys**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Journeys**.
 
 2.  Select a journey for an employee on your team.
 
@@ -59,7 +59,3 @@ The following sections appear in the summary that is generated:
 
 **Parent Topic:**[Activate the Journey Summarization for Managers skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/activate-jny-summarization.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

@@ -12,7 +12,7 @@ breadcrumb: [Integration use cases, Developer resources, Financial Services Oper
 
 # External systems submitting a case request
 
-This use case illustrates how the ServiceNow [[fso-overview|Financial Services]] Operations \(FSO\) product can receive case requests from an external system, such as online or mobile banking application, core banking systems, or other CRM tools.
+This use case illustrates how the ServiceNow Financial Services Operations \(FSO\) product can receive case requests from an external system, such as online or mobile banking application, core banking systems, or other CRM tools.
 
 Any system that can handle making REST API calls can implement this scenario to create customer cases in FSO. In this scenario, the fields consumer, financial account, category, short description, and notes are sent from the external system.
 
@@ -72,6 +72,3 @@ var requestBody = {
 createRecord(tableName, requestBody);
 ```
 
-## Related
-
-- [[fso-overview|Financial Services]]

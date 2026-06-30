@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The **Code** values for product catalog entities are system-assigned alphanumeric values based on the catalog entity name, such as the name of a product offering. If the **Code** field values for the main catalog entities are empty, run certain on-demand scheduled jobs and fix [[scripts|scripts]] to add the **Code** field values for the main product catalog entities.
+The **Code** values for product catalog entities are system-assigned alphanumeric values based on the catalog entity name, such as the name of a product offering. If the **Code** field values for the main catalog entities are empty, run certain on-demand scheduled jobs and fix scripts to add the **Code** field values for the main product catalog entities.
 
 Both the scheduled jobs and fix scripts add the **Code** field values for the catalog entities.
 
@@ -35,7 +35,7 @@ Both the scheduled jobs and fix scripts add the **Code** field values for the ca
     2.  Run each of the following jobs in the order listed below \(select the job, then select **Execute Now**\).
 
         -   **Migrate prod chars values to char options**
-        -   **Schedule job to [[Modify|modify]] code field on characteristic records that contain special characters**
+        -   **Schedule job to modify code field on characteristic records that contain special characters**
         -   **Schedule job to populate code field on master entities**
         -   **Schedule job to populate name field on product offering characteristics**
         -   **Schedule Job with upgrade script to populate code**
@@ -48,7 +48,7 @@ Both the scheduled jobs and fix scripts add the **Code** field values for the ca
         -   **Populate Code Field** - For Product Catalog Management Core application
         -   **Populate Code Field** - For Compatibility Management application
         -   **Populate Code Field** - For Attribute Propagation
-        -   **Populate Code Field Decomposition Rule** - For [[explore-order-management|Order Management]] application
+        -   **Populate Code Field Decomposition Rule** - For Order Management application
         These scripts can be run in any order.
 
 3.  Repeat Steps 1 through 2 on the target instance.
@@ -56,20 +56,12 @@ Both the scheduled jobs and fix scripts add the **Code** field values for the ca
 
 ## Result
 
-Your product catalog admin can [[export-product-catalog-entities|export product catalog entities]] from the source instance and import them to the target instance.
+Your product catalog admin can export product catalog entities from the source instance and import them to the target instance.
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[scripts|Scripts]]
-- [[Modify|Modify]]
-- [[explore-order-management|Order management]]
-- [[export-product-catalog-entities|Export product catalog entities]]

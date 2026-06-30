@@ -34,7 +34,7 @@ When you request an exception for one or more records from the Bulk edit modal, 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  On the List page, open the Active or All list in one of the following lists:
 
@@ -123,9 +123,9 @@ Request for Risk Reduction
 
 </td><td>
 
-Select this check box to request risk reduction for the selected items. This option appears when the **Reason** is Mitigating Control in Place and risk reduction is enabled on the associated CVE or TPE. **Important:** Risk reduction is restricted when the selected items belong to different [[vulnerabilities|vulnerabilities]]. A message is displayed indicating this restriction, and you can proceed with a deferral request only.
+Select this check box to request risk reduction for the selected items. This option appears when the **Reason** is Mitigating Control in Place and risk reduction is enabled on the associated CVE or TPE. **Important:** Risk reduction is restricted when the selected items belong to different vulnerabilities. A message is displayed indicating this restriction, and you can proceed with a deferral request only.
 
- When risk reduction is disabled for a CVE or TPE, the **Request for Risk Reduction** option does not appear in the Bulk Edit modal for items associated with that vulnerability. To enable risk reduction, see [[sem-disable-risk-reduction|Disable or enable risk reduction for a CVE or TPE]]
+ When risk reduction is disabled for a CVE or TPE, the **Request for Risk Reduction** option does not appear in the Bulk Edit modal for items associated with that vulnerability. To enable risk reduction, see [Disable or enable risk reduction for a CVE or TPE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-disable-risk-reduction.md)
 
 .
 
@@ -167,7 +167,7 @@ Additional information
 
 </td><td>
 
-Any other necessary information. This information reflects in the Additional Information field in the [[vr-va-ws-overview-tab|Overview tab]] of the remediation task that is created for deferral and closed-false positive requests. If your deferral request is approved, this additional information appears as deferral notes for both VIT and remediation task.**Note:** This field appears when you select the State as Deferred and Closed-False positive.
+Any other necessary information. This information reflects in the Additional Information field in the Overview tab of the remediation task that is created for deferral and closed-false positive requests. If your deferral request is approved, this additional information appears as deferral notes for both VIT and remediation task.**Note:** This field appears when you select the State as Deferred and Closed-False positive.
 
 </td></tr><tr><td>
 
@@ -200,12 +200,5 @@ In the Security Exposure Management Workspace, on the List page, navigate to **E
 
 In the **Activity stream** of a record or remediation task, you can view the entire workflow of your request.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-disable-risk-reduction|Disable or enable risk reduction for a CVE or TPE]]
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vr-va-ws-overview-tab|Overview tab]]

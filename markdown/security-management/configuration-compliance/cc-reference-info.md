@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance, Unified Security Exposure Management, Sec
 
 # Configuration Compliance reference information
 
-Several types of components are installed with activation of the [[vr-config-compliance-landing|Configuration Compliance]] application, including tables, scheduled jobs, and user roles.
+Several types of components are installed with activation of the Configuration Compliance application, including tables, scheduled jobs, and user roles.
 
 The following topics provide you with reference information, troubleshooting, in addition to field data on the forms and records found in Configuration Compliance.
 
@@ -23,6 +23,3 @@ The following topics provide you with reference information, troubleshooting, in
 -   [Resolving Configuration Compliance import issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-troubleshooting.md)
 -   [Modify Qualys PC Results start date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/modify-test-results-startdate.md)
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

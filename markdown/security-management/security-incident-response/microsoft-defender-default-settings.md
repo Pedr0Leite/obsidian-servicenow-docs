@@ -14,7 +14,7 @@ breadcrumb: [Install and configure, Microsoft Defender for Endpoint integration,
 
 # Microsoft Defender for Endpoint Default Settings
 
-There are additional [[qradar-ibm-intg-settings|configuration settings]] you must perform after you complete the installation.
+There are additional configuration settings you must perform after you complete the installation.
 
 After you complete the installation, you can find the Default Settings module under the Microsoft Defender for Endpoint application on the left-navigation pane. It contains the default settings for different Microsoft Defender for Endpoint functionalities.
 
@@ -39,6 +39,3 @@ The following are additional configuration settings:
 
 \[Omitted image "ms\_defender\_default\_settings.png"\] Alt text: Additional configuration settings after you complete the installation
 
-## Related
-
-- [[qradar-ibm-intg-settings|Configuration settings]]

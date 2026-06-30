@@ -26,7 +26,7 @@ The recall option is available only if the **Allow recall** option is selected o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **[[worker-portal|Time Sheet Portal]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Click the **My Time Sheet** list and select a user under **My Resources**.
 
@@ -44,15 +44,10 @@ The recall option is available only if the **Allow recall** option is selected o
 
 ## Result
 
--   Changes the state of the time card to **Recalled**. The state of the associated time sheet also changes to **Recalled** until all [[c_TimeCards|time cards]] in the time sheet are approved or processed again.
+-   Changes the state of the time card to **Recalled**. The state of the associated time sheet also changes to **Recalled** until all time cards in the time sheet are approved or processed again.
 -   Reverts the actual effort and resource hours in a project or demand created when the time card for a task type was approved.
 -   Creates negative expense lines to zero out the corresponding expense lines created when the time card was approved.
 -   Returns the associated time sheet to its submitter for modifications.
 
 **Parent Topic:**[Time cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/c_TimeCards.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]
-- [[c_TimeCards|Time cards]]

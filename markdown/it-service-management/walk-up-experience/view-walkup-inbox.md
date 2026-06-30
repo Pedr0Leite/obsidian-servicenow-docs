@@ -14,7 +14,7 @@ breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience
 
 # View Walk-up Experience inbox
 
-View a personal inbox of automatically assigned [[walkup-experience-landing-page|Walk-up Experience]] interactions using the Agent Workspace feature interface.
+View a personal inbox of automatically assigned Walk-up Experience interactions using the Agent Workspace feature interface.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ There are two ways the agents can view the walk-up inbox. The agents primarily a
 
 [Manage automatically assigned Walk-up Experience interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/view-auto-assigned-walkup-requests.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

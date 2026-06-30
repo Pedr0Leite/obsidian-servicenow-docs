@@ -15,11 +15,11 @@ breadcrumb: [Maximizing code reuse with topic blocks, Exploring other Virtual Ag
 
 # Virtual Agent pre-built topic blocks for NLU
 
-[[virtual-agent-landing-page|Virtual Agent]] provides pre-built topic blocks that topic authors or admins can use to perform specific platform-related functions or tasks in bot conversations. For example, certain topic blocks enable you to check agent availability or generate AI Search results.
+Virtual Agent provides pre-built topic blocks that topic authors or admins can use to perform specific platform-related functions or tasks in bot conversations. For example, certain topic blocks enable you to check agent availability or generate AI Search results.
 
 ## Overview of pre-built topic blocks
 
-Certain pre-built topic blocks are included automatically with the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin and [[va-lite|Virtual Agent Lite]]. If you're using Virtual Agent Lite, you have read access to the topic blocks but you can't create topic blocks or add them to calling topics.
+Certain pre-built topic blocks are included automatically with the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin and Virtual Agent Lite. If you're using Virtual Agent Lite, you have read access to the topic blocks but you can't create topic blocks or add them to calling topics.
 
 You can duplicate pre-built topic blocks and modify the duplicates by using Virtual Agent Designer. For information about working with topic blocks and how to add them to calling topics, see [Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md) and [Add a reusable topic block to a calling topic or topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-topic-blocks-to-topic.md).
 
@@ -31,7 +31,7 @@ The following sections describe the input and output parameters for calling diff
 
 Use this topic block to get relevant live agent information for use in agent handoff conversations. This information includes agent availability, wait time \(how long before an agent is available\), and queue information. You can use the information returned, such as a long wait time for an agent, to initiate a case or customer callback.
 
-This topic block requires the [[ci-use-agent-chat|Agent Chat]] \(com.glide.interaction.awa\) plugin, which includes [[awa-application-landing-page|Advanced Work Assignment]].
+This topic block requires the Agent Chat \(com.glide.interaction.awa\) plugin, which includes Advanced Work Assignment.
 
 The following table lists the output parameters for this topic block.
 
@@ -115,7 +115,7 @@ The following tables list the input and output parameters for this topic block.
 
 ## Form Content Popup topic block
 
-Use this topic block to open a form in a popup window from the chat widget. Once the user submits the required information, the record appears as a card in the Virtual Agent chat window. If a new record is created, the sys ID for that record is sent to the server so that the Virtual Agent topic has that information. For information about creating a pop-up window from a link, see [[create-smart-link-preference|Create a smart link preference]].
+Use this topic block to open a form in a popup window from the chat widget. Once the user submits the required information, the record appears as a card in the Virtual Agent chat window. If a new record is created, the sys ID for that record is sent to the server so that the Virtual Agent topic has that information. For information about creating a pop-up window from a link, see [Create a smart link preference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-smart-link-preference.md).
 
 |Parameter|Description|
 |---------|-----------|
@@ -350,11 +350,3 @@ Option that displays a message to the user that does the following:-   Indicates
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-smart-link-preference|Create a smart link preference]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

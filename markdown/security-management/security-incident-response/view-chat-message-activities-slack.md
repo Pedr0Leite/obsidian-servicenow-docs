@@ -14,7 +14,7 @@ breadcrumb: [Configure Slack chat connector for major security incidents, Config
 
 # View chat message activities in Slack
 
-Chat message activity is recorded and displayed on the Collaboration tab of the [[msim-workspace|Major Security Incident Management workspace]].
+Chat message activity is recorded and displayed on the Collaboration tab of the Major Security Incident Management workspace.
 
 ## Before you begin
 
@@ -26,6 +26,3 @@ The chat message activity includes all the chat conversations occurred between t
 
 **Parent Topic:**[Configure Slack chat connector for major security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-slack-chat-connector-msi.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]

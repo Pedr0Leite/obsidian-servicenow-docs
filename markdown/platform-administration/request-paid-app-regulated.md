@@ -12,7 +12,7 @@ breadcrumb: [Using a regulated environment, ServiceNow Store, Administering appl
 
 # Request a paid app for a regulated environment
 
-Request to buy a paid app from a federal or regional [[servicenow-store|ServiceNow Store]] instance to make that app available on your regulated instance.
+Request to buy a paid app from a federal or regional ServiceNow Store instance to make that app available on your regulated instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 1.  Access the federal or regional ServiceNow Store instance that corresponds to your regulated environment.
 
-    For more information, see [[access-regulated-store|Access the ServiceNow Store for a regulated environment]].
+    For more information, see [Access the ServiceNow Store for a regulated environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/access-regulated-store.md).
 
 2.  Find and select a paid app or integration.
 
@@ -38,7 +38,7 @@ Role required: none
 
 5.  Follow the emailed instructions to complete the purchase.
 
-    **Note:** It can take up to two business days for the application to become available in the [[application-manager|Application Manager]] after final license confirmation.
+    **Note:** It can take up to two business days for the application to become available in the Application Manager after final license confirmation.
 
 6.  If the application displays the "App Terms Not Accepted" state indicator in the Application Manager, accept the custom terms and conditions from the ServiceNow Store.
 
@@ -55,7 +55,7 @@ Role required: none
 
 ## Result
 
-Confirmation emails for the application and any dependencies that were procured are sent to the email address associated with your ServiceNow Store account. For information about configuring which email address receives [[notifications|notifications]] for this application, see [[configure-store-notifications|Configure ServiceNow Store application notification preferences]].
+Confirmation emails for the application and any dependencies that were procured are sent to the email address associated with your ServiceNow Store account. For information about configuring which email address receives notifications for this application, see [Configure ServiceNow Store application notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-store-notifications.md).
 
 The application is available to install within two business days. If the application still can't be installed after two business days, contact Now Support for assistance.
 
@@ -64,13 +64,5 @@ The application is available to install within two business days. If the applica
 Install the app on compatible production or non-production instances, based on whether you have a hosted or on-premise instance:
 
 -   If your instance is in a hosted environment, install the app using the Application Manager. For more information, see [Install an application or plugin]().
--   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [[getting-apps-on-prem|Getting apps as an on-premise customer]]
+-   If your instance is in an on-premise environment, download the encrypted app file from your federal or regional instance of the ServiceNow Store and upload the file to your instance. For more information, see [Getting apps as an on-premise customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/getting-apps-on-prem.md)
 
-## Related
-
-- [[access-regulated-store|Access the ServiceNow Store for a regulated environment]]
-- [[configure-store-notifications|Configure ServiceNow Store application notification preferences]]
-- [[getting-apps-on-prem|Getting apps as an on-premise customer]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]
-- [[notifications|Notifications]]

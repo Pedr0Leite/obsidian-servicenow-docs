@@ -21,12 +21,8 @@ Role required: sn\_na\_center.nac\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]**.
+1.  Navigate to **All** &gt; **Now Assist Center**.
 
 
-**Parent Topic:**[[now-assist-center-using-admin-console|Using Now Assist Admin console features in Now Assist Center]]
+**Parent Topic:**[Using Now Assist Admin console features in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-admin-console.md)
 
-## Related
-
-- [[now-assist-center-using-admin-console|Using Now Assist Admin console features in Now Assist Center]]
-- [[now-assist-center-landing-page|Now Assist Center]]

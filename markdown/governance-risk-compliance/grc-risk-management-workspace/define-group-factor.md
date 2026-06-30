@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Create a group factor
 
-Create group [[factors|factors]] to evaluate and assess risks on a risk assessment instance.
+Create group factors to evaluate and assess risks on a risk assessment instance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Group factors contribute to either a numerical risk score or to the Annual Loss 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Group Factors**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Group Factors**.
 
 2.  Select **New**.
 
@@ -153,7 +153,7 @@ Formula for calculating the overall qualitative risk score. Choices are the foll
 
 6.  Select **Save**.
 
-7.  Select the Qualitative [[transformation-criteria|Transformation Criteria]] related list.
+7.  Select the Qualitative Transformation Criteria related list.
 
 8.  On the form, fill in the fields:
 
@@ -178,9 +178,3 @@ Group factors have multiple predefined formulae and each of them has a specific 
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[transformation-criteria|transformation criteria]]

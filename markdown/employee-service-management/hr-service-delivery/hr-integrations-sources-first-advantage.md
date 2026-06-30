@@ -29,7 +29,7 @@ So the First Advantage service can be accessed for integration, you must provide
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[scoped-hr-third-party-integrations|HR Integrations]]** &gt; **Sources**.
+1.  Navigate to **All** &gt; **HR Integrations** &gt; **Sources**.
 
 2.  Open the **First Advantage** record.
 
@@ -124,6 +124,3 @@ Enables the debug log to display responses from the third-party system. Turn on 
 
 **Next topic:**[Verify integration for the First Advantage service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/verify-base-inbound-integration-for-first-advantage.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]

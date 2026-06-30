@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Data visualization
 
-Component properties enable you to configure the behavior of the [[we-data-viz-comp-overview|Data visualization component]] instance on the third-party website.
+Component properties enable you to configure the behavior of the Data visualization component instance on the third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -367,11 +367,7 @@ Determines the color for the chart. You can set color type to default, or single
 
 [Embed the Data visualization component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-data-viz-comp.md)
 
-[[we-data-viz-event-handler|Event handler in the Data visualization component]]
+[Event handler in the Data visualization component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-data-viz-event-handler.md)
 
 [Sample code for the Data visualization component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-data-viz-sample-code.md)
 
-## Related
-
-- [[we-data-viz-event-handler|Event handler in the Data visualization component]]
-- [[we-data-viz-comp-overview|Data visualization component]]

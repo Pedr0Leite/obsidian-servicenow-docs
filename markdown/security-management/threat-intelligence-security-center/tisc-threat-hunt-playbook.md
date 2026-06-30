@@ -17,7 +17,7 @@ breadcrumb: [Using playbooks, Threat Analyst Workbench, Use, Threat Intelligence
 
 The Threat Hunting playbook is a guided workflow for a TISC Case record that helps analysts move a threat hunt from an initial hypothesis to a final outcome.
 
-You can view and manage the playbook executions in the **[[tisc-playbooks-admin|Playbooks]]** tab of the Case record. The Threat Hunting playbook runs once per Case. After the playbook reaches completion, you can't run it on the same Case. You can add the playbook again for cancelled executions.
+You can view and manage the playbook executions in the **Playbooks** tab of the Case record. The Threat Hunting playbook runs once per Case. After the playbook reaches completion, you can't run it on the same Case. You can add the playbook again for cancelled executions.
 
 ## Workflow stages
 
@@ -71,6 +71,3 @@ If a Case does not meet the auto-trigger conditions for the Threat Hunting playb
 
 [Activate the Threat Hunting Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-activate-threat-hunt-playbook.md)
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]

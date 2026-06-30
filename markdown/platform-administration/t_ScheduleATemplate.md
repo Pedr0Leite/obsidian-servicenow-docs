@@ -35,7 +35,7 @@ Role required: admin
 6.  Click **Submit**.
 
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -54,6 +54,3 @@ Role required: admin
 
 [Scripted templates]()
 
-## Related
-
-- [[c_Templates|Using form templates]]

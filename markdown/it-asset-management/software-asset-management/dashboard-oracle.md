@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 # Software Publisher Analytics dashboard for Oracle in Software Asset Management classic
 
-View compliance analysis results related to Oracle on the Software Publisher Analytics dashboard in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+View compliance analysis results related to Oracle on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 
 Access the Software Publisher Analytics dashboard by navigating to **All** &gt; **Software Asset** &gt; **Publisher Overview**.
 
@@ -139,6 +139,3 @@ Number of products in each software lifecycle phase, including End of Extended S
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

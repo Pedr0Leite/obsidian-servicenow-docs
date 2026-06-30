@@ -14,7 +14,7 @@ breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, 
 
 # Updated hardening settings for baseline version 7.0
 
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 7.0.
+Some hardening settings have been updated with the release of Security Center baseline version 7.0.
 
 <table id="table_um1_qnp_xgc"><thead><tr><th>
 
@@ -31,7 +31,7 @@ Updates
 </td><td>
 
 -   Description:
-    -   \(Old\) When "glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id" is set to "true", the relay state parameter will contain the sys id of a record in the table multisso\_request\_parameter which the relay state url to redirect to. This relay state protects against [[c_SAML2.0WebBrowserSSOProfile|SAML]] Replay attacks which could be possible in some ServiceNow instance versions if the property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id is set to false. Replay attacks allow a well-positioned attacker who has gained access to the SAML [[c_requestAPI|request]] to resubmit a valid request in orger to gain unauthorized access to the platform.
+    -   \(Old\) When "glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id" is set to "true", the relay state parameter will contain the sys id of a record in the table multisso\_request\_parameter which the relay state url to redirect to. This relay state protects against SAML Replay attacks which could be possible in some ServiceNow instance versions if the property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id is set to false. Replay attacks allow a well-positioned attacker who has gained access to the SAML request to resubmit a valid request in orger to gain unauthorized access to the platform.
     -   \(New\) Protect against SAML replay attacks using the glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id system property. When this property is set to true, the relay state parameter contains the sys\_id of a record in the MultiSSO Request Parameters \[multisso\_request\_parameter\] table, which the relay state URL redirects to.
 
 Set the system property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id to true. This helps prevent attackers who have gained access to a SAML request from accessing your instance by resubmitting a valid request.
@@ -40,7 +40,7 @@ The relay state enabled by this system property helps protect your instance agai
 
 -   Remediation:
     -   \(Old\) Set the property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id to true.
-    -   \(New\) Set the property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id to true. If the property does not exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is false.
+    -   \(New\) Set the property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id to true. If the property does not exist in the System Properties \[sys\_properties\] table, the default value is false.
 -   security risk:
     -   \(Old\) This relay state protects against SAML Replay attacks which could be possible in some ServiceNow instance versions if the property glide.authenticate.sso.saml2.enable\_relay\_state\_with\_id is set to false. Replay attacks allow a well-positioned attacker who has gained access to the SAML request to resubmit a valid request in orger to gain unauthorized access to the platform.
     -   \(New\) The relay state enabled by this system property helps protect your instance against replay attacks. Enabling the property helps prevent attackers who have gained access to a SAML request from accessing your instance by resubmitting a valid request.
@@ -54,13 +54,13 @@ The relay state enabled by this system property helps protect your instance agai
 
 </td><td>
 
--   Technical [[sc-configuration|Configuration]] Name
+-   Technical Configuration Name
     -   \(Old\) &lt;blank&gt;
     -   \(New\) glide.sso.acr.enabled,glide.authenticate.multisso.enabled
 -   Description
     -   \(Old\)
 
-ServiceNow instance owners are responsible for provisioning user accounts for their instance and ensuring that [[users|users]] can access the instance in expected ways. When a user, that is not locked out, has a valid password hash on the "sys\_user.user\_password" field, that user can perform local database [[c_Authentication|authentication]] for both interactive and non-interactive access types. If a user is also configured to use SSO authentication, local database authentication can still occur without additional controls in place. That is, SSO users with valid local credentials may access the instance, or parts of the instance, with those local credentials.
+ServiceNow instance owners are responsible for provisioning user accounts for their instance and ensuring that users can access the instance in expected ways. When a user, that is not locked out, has a valid password hash on the "sys\_user.user\_password" field, that user can perform local database authentication for both interactive and non-interactive access types. If a user is also configured to use SSO authentication, local database authentication can still occur without additional controls in place. That is, SSO users with valid local credentials may access the instance, or parts of the instance, with those local credentials.
 
 When SSO authentication is enabled for a user, it is best practice to prevent that user from logging in locally. This reduces the chance that the valid local login credentials are stolen and used to login by a malicious user.
 
@@ -372,7 +372,7 @@ The property "glide.html.escape\_script" helps sanitize HTML fields. If "glide.h
 
 </td></tr><tr><td>
 
-[Enable [[c_HTMLSanitizer|HTML Sanitizer]] \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)
+[Enable HTML Sanitizer \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-html-sanitizer.md)
 
 </td><td>
 
@@ -475,7 +475,7 @@ Use the glide.security.explicit\_roles.enable\_internal\_user\_blacklist system 
 -   Plugin applicability
     -   \(New\)
 
-[[explicit-roles|Explicit Roles]] Plugin, Customer Service Base Extension Entities
+Explicit Roles Plugin, Customer Service Base Extension Entities
 
     -   \(Old\) Explicit Roles Plugin
 -   security risk
@@ -496,7 +496,7 @@ Misconfiguration of this property increases the risk that an external user accou
 
 </td></tr><tr><td>
 
-[Restrict [[oauth-inbound-and-outbound|oauth]] parameters to POST body \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-oauth-parameters-to-post-body.md)
+[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-oauth-parameters-to-post-body.md)
 
 </td><td>
 
@@ -520,11 +520,11 @@ Ensure the property "glide.oauth.allow.parameters.in.post.body.only" is set to "
 
 -   Plugin applicability
     -   \(Old\) &lt;blank&gt;
-    -   \(New\) [[c_OAuthApplications|OAuth 2.0]]
+    -   \(New\) OAuth 2.0
 -   security risk
     -   \(Old\)
 
-If "glide.oauth.allow.parameters.in.post.body.only" is not set to the recommended value of "true", then access tokens could be present in the GET request parameter which could linger in client and infrastructure [[logs|logs]] and potentially lead to account takeover if those logs are leaked.
+If "glide.oauth.allow.parameters.in.post.body.only" is not set to the recommended value of "true", then access tokens could be present in the GET request parameter which could linger in client and infrastructure logs and potentially lead to account takeover if those logs are leaked.
 
     -   \(New\)
 
@@ -687,7 +687,7 @@ Set glide.ui.escape\_html\_list\_field to true to prevent HTML from being render
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-When HTML sanitization is disabled platform wide \(via Glide Properties\) or per field \(schema attribute\), this may lead to XSS style attacks if low [[privileged-users|privileged users]] have access to write to an HTML field. XSS attacks may allow a low privileged user to hijack the session of a high privileged user or interfere in standard web application behaviors \(redirects or defacement\).
+When HTML sanitization is disabled platform wide \(via Glide Properties\) or per field \(schema attribute\), this may lead to XSS style attacks if low privileged users have access to write to an HTML field. XSS attacks may allow a low privileged user to hijack the session of a high privileged user or interfere in standard web application behaviors \(redirects or defacement\).
 
 -   Functional impact
     -   \(Old\) &lt;blank&gt;
@@ -790,7 +790,7 @@ If the property is not configured to a secure value and the lockout duration is 
 -   Remediation
     -   Set the glide.user.unlock\_timeout\_in\_mins system property value to a minimum of 15. If glide.user.unlock\_timeout\_in\_mins does not exist, the default lockout time is set to 15 minutes.
 
-Ensure that the SNC User Lockout Check with Auto Unlock script action \(found on the Script Action \[sysevent\_script\_action\] table\) is present and active. The SNC User Lockout Check with Auto Unlock script action is installed with the [[c_HighSecuritySettings|High Security Settings]] \(com.glide.high\_security\) plugin.
+Ensure that the SNC User Lockout Check with Auto Unlock script action \(found on the Script Action \[sysevent\_script\_action\] table\) is present and active. The SNC User Lockout Check with Auto Unlock script action is installed with the High Security Settings \(com.glide.high\_security\) plugin.
 
 Ensure the property "glide.user.unlock\_timeout\_in\_mins" is set to "15" or more and that the Script Action \(sysevent\_script\_action\) "SNC User Lockout Check with Auto Unlock" is present and active. If the Glide Property "glide.user.unlock\_timeout\_in\_mins" does not exist, it will default to a secure value of "15".
 
@@ -819,7 +819,7 @@ Additionally, ensure the property "glide.user.max\_unlock\_attempts" is set to "
 
 </td></tr><tr><td>
 
-[Set OTP lifetime for [[c_SelfServicePasswordReset|password reset]] to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
+[Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)
 
 </td><td>
 
@@ -829,7 +829,7 @@ Additionally, ensure the property "glide.user.max\_unlock\_attempts" is set to "
 -   Description
     -   \(Old\)
 
-This property "glide.pwd\_reset.onetime.token.validity" allows the link in the password reset [[email|email]] to expire after the number of hours specified in that "glide.pwd\_reset.onetime.token.validity" property. Validity time of password reset token should be keeped as short as possible in according of normal user experience. Have long validity time for password reset token can help malicious actors to perform account takeover.
+This property "glide.pwd\_reset.onetime.token.validity" allows the link in the password reset email to expire after the number of hours specified in that "glide.pwd\_reset.onetime.token.validity" property. Validity time of password reset token should be keeped as short as possible in according of normal user experience. Have long validity time for password reset token can help malicious actors to perform account takeover.
 
     -   \(New\)
 
@@ -867,7 +867,7 @@ The property glide.pwd\_reset.onetime.token.validity makes the link in the passw
 
 -   Short Description
     -   \(Old\) Limit Concurrent Interactive Sessions
-    -   \(New\) Limit Concurrent Interactive Sessions When [[limit-concurrent-sessions|Limit Concurrent Sessions]] Plugin Is Installed
+    -   \(New\) Limit Concurrent Interactive Sessions When Limit Concurrent Sessions Plugin Is Installed
 -   Plugin Applicability
     -   \(Old\) &lt;blank&gt;
     -   \(New\) com.glide.limit.concurrent.sessions
@@ -940,7 +940,7 @@ The property 'glide.processors.check\_access\_before\_process' enables ACL enfor
 
     -   \(New\)
 
-The property 'glide.processors.check\_access\_before\_process' enables ACL enforcement for creating or deleting dashboards. When the property is set to "true", [[sc-access-control|access control]] checks are performed on the dashboards. When this property is set to "false", authenticated users can arbitrarily delete and add dashboards.
+The property 'glide.processors.check\_access\_before\_process' enables ACL enforcement for creating or deleting dashboards. When the property is set to "true", access control checks are performed on the dashboards. When this property is set to "false", authenticated users can arbitrarily delete and add dashboards.
 
 -   Remediation
     -   \(Old\)
@@ -1016,24 +1016,3 @@ Configure the glide.active.session.timeout.exception.roles property to roles whi
 </td></tr></tbody>
 </table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[explicit-roles|Explicit Roles]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[logs|Logs]]
-- [[privileged-users|Privileged Users]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[email|Email]]
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-access-control|Access control]]

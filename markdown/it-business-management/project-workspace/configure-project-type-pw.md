@@ -38,7 +38,7 @@ Each project type configuration consists of a dynamic category and a custom form
 
 1.  Navigate to **All** &gt; **Project Administration** &gt; **Project types**.
 
-2.  Select **New** to open the [[project-type-form-pw|project type form]].
+2.  Select **New** to open the project type form.
 
 3.  Fill in the fields on the form.
 
@@ -53,6 +53,3 @@ The project type configuration is saved and activated. Project records assigned 
 
 **Parent Topic:**[Configuring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-pw.md)
 
-## Related
-
-- [[project-type-form-pw|Project type form]]

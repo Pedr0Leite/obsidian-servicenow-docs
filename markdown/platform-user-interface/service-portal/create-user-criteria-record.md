@@ -14,7 +14,7 @@ breadcrumb: [User criteria for Service Portal, Managing portal access, Configuri
 
 # Create a user criteria record for Service Portal
 
-Create a user criteria record to apply to items in [[c_ServicePortal|Service Portal]] and control user access to pages, widgets, widget instances, and search sources.
+Create a user criteria record to apply to items in Service Portal and control user access to pages, widgets, widget instances, and search sources.
 
 ## Before you begin
 
@@ -162,6 +162,3 @@ Determines whether all elements from each populated criteria field must match. I
 
 **Parent Topic:**[User criteria for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

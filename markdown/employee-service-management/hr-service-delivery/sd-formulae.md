@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Success Dashboard indicators, HR Service Delivery, Em
 
 # HR Success Dashboard indicators KPI definitions and formulas
 
-Enable [[success-dashboard-landing|HR Success Dashboard indicators]] to use the Key Performance Indicators \(KPIs\) and formulas.
+Enable HR Success Dashboard indicators to use the Key Performance Indicators \(KPIs\) and formulas.
 
 ## Performance Overview
 
@@ -47,7 +47,7 @@ HR Success Dashboard indicators uses the following KPIs and definitions:
     [Catalog ticket submissions + VA ticket submissions + Self-solved (VA) + Self-solved (KB)]/ [Total tickets submitted + Self-solved (VA) + Self-solved (KB)] x 100 
     ```
 
-    -   **Catalog ticket submissions:** HR cases submitted using the Service Catalog in the Service Portal or the [[mobile-employee-experience|Now Mobile app]].
+    -   **Catalog ticket submissions:** HR cases submitted using the Service Catalog in the Service Portal or the Now Mobile app.
         -   **HR Cases submitted using Service Catalog:** Number of HR case submissions from the Service Portal or Now Mobile app, as recorded in the HR case table with source as Self Service.
         -   **Note:** If you use a different method to determine this KPI or add more sources \(for example, automated catalog workflows\), see [Configure Success Dashboard indicators KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/config-kpis-sdb.md).
 
@@ -80,7 +80,7 @@ HR Success Dashboard indicators uses the following KPIs and definitions:
 
 -   **Customer satisfaction score:** It is the average of the customer satisfaction scores based on the surveys conducted after the issue was resolved.
 
-    **HR Average CSAT:** HR case normalized satisfaction score or the [[hr-service-delivery|HR Service Delivery]] Survey instances.
+    **HR Average CSAT:** HR case normalized satisfaction score or the HR Service Delivery Survey instances.
 
 -   **Mean time to resolve:** It is the average of the time between the ticket creation and the ticket closure.
 
@@ -98,8 +98,4 @@ HR Success Dashboard indicators uses the following KPIs and definitions:
 
     **% HR cases closed without reassignment:** It shows the HR cases that were closed and has reassignment count as zero.
 
-## Related
 
-- [[success-dashboard-landing|HR Success Dashboard indicators]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hr-service-delivery|HR Service Delivery]]

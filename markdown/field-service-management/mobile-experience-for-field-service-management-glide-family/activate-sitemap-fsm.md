@@ -14,7 +14,7 @@ breadcrumb: [Configuring Site Mapping for Field Service Management, Setting up F
 
 # Activate Site Mapping for Field Service Management
 
-Install the Site Mapping for [[fsm-application-landing-page|Field Service Management]] application \(sn\_fsm\_site\_map\) if you have the admin role.
+Install the Site Mapping for Field Service Management application \(sn\_fsm\_site\_map\) if you have the admin role.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: admin
 
             Enables you to manage work requests that are performed on location by field service agents.
 
-            For information, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+            For information, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
         -   **Field Service Mobile**
 
@@ -56,7 +56,4 @@ Role required: admin
 
 5.  Select **Install**.
 
-## Related
 
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

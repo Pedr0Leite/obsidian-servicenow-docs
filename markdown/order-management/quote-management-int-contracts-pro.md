@@ -12,9 +12,9 @@ breadcrumb: [Quote Management, Configure, price, quote, Explore, Sales Customer 
 
 # Quote Management integration with Contract Management Pro
 
-The Quote Management integration with Contract Management Pro is known as Contract Management for Sales and [[explore-order-management|Order Management]] \(com.sn\_som\_clm\).
+The Quote Management integration with Contract Management Pro is known as Contract Management for Sales and Order Management \(com.sn\_som\_clm\).
 
-[[quote-management|Quote Management]] integrates with Contract Management Pro to help sales agents create legal sales contracts from a quote. A legal sales contract confirms the sales deal and agreements between your company and customer.
+Quote Management integrates with Contract Management Pro to help sales agents create legal sales contracts from a quote. A legal sales contract confirms the sales deal and agreements between your company and customer.
 
 The following roles are required to initiate, view, and manage contract execution:
 
@@ -23,24 +23,17 @@ The following roles are required to initiate, view, and manage contract executio
 
 A contract generation process consists of the following steps:
 
--   A sales ops specialist creates a contract type and document template, defines signatory [[rules_101|rules]], and completes configurations for the contract generation process. To learn more, see [Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-config-cmpro.md).
+-   A sales ops specialist creates a contract type and document template, defines signatory rules, and completes configurations for the contract generation process. To learn more, see [Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-config-cmpro.md).
 -   A sales agent then initiates the contract creation process through the Initiate contract UI action by filling the required details, such as Type of paper, Contract type, Signature type, and Start and End dates.
 
     -   **Inititate Contract** UI action is visible only when a quote is in Completed state.
     -   After you submit the contract creation form, it creates a contract request record.
     -   The new contract request triggers the workflow to generate the legal sales contract.
-    To learn more, see [[quote-management-create-contract|Initiate a contract request]].
+    To learn more, see [Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-create-contract.md).
 
 -   When the contract workflow is complete, the state of the contract request is changed to Closed complete.
 
 ## What to do next
 
-To learn more, see [[quote-management-integrate-contract-management|Integrate with Contract Management Pro]].
+To learn more, see [Integrate with Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-integrate-contract-management.md).
 
-## Related
-
-- [[quote-management-create-contract|Initiate a contract request]]
-- [[quote-management-integrate-contract-management|Integrate with Contract Management Pro]]
-- [[explore-order-management|Order management]]
-- [[quote-management|Quote Management]]
-- [[rules_101|Rules]]

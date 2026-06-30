@@ -15,7 +15,7 @@ breadcrumb: [Discovery Admin Workspace Insights, Discovery Admin Workspace, Expl
 
 # Shazzam Insights dashboard
 
-The [[discovery-admin-workspace|Discovery Admin Workspace]] displays your port scanning information, IP address utilization, and [[r-discovery|Discovery]] schedules.
+The Discovery Admin Workspace displays your port scanning information, IP address utilization, and Discovery schedules.
 
 \[Omitted image "shazaam-insights-daw.png"\] Alt text: shazzam dashboard
 
@@ -103,8 +103,3 @@ The filter enables you to select all Discovery schedules you want to review by c
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]

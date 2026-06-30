@@ -22,7 +22,7 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select and open the processing activity from which you want to send a privacy assessment.
 
@@ -49,7 +49,3 @@ The assessment is sent to the entity owner.
 
 **Parent Topic:**[Types of privacy assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-assessments.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]

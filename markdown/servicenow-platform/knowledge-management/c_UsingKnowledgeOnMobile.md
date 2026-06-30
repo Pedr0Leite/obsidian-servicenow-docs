@@ -24,7 +24,7 @@ You can also view recently viewed and most popular articles, search for articles
 
 You can browse knowledge bases using a mobile device.
 
-Navigate to **[[self-service-landing|SELF-SERVICE]]** &gt; **Knowledge Base**.
+Navigate to **SELF-SERVICE** &gt; **Knowledge Base**.
 
 \[Omitted image "MobileKnowledgeView.png"\] Alt text: Mobile Knowledge view
 
@@ -32,7 +32,7 @@ Browse Knowledge by tapping on a category and browsing articles or subcategories
 
 \[Omitted image "MobileKnowledgeCategoryView.png"\] Alt text: Knowledge Mobile UI knowledge categories
 
-**Note:** Select the desired category and click the close icon \(\[Omitted image "KnowledgeMobileUICloseIcon.png"\] Alt text: [[knowledge-management|Knowledge Management]] Mobile UI close icon\) for the selected category to reflect in the search results.
+**Note:** Select the desired category and click the close icon \(\[Omitted image "KnowledgeMobileUICloseIcon.png"\] Alt text: Knowledge Management Mobile UI close icon\) for the selected category to reflect in the search results.
 
 ## View knowledge articles on mobile devices
 
@@ -50,7 +50,3 @@ Find a specific article by searching on a particular term.
 
 \[Omitted image "MobileKnowledgeSearch.png"\] Alt text: Mobile Knowledge search page
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[knowledge-management|Knowledge Management]]

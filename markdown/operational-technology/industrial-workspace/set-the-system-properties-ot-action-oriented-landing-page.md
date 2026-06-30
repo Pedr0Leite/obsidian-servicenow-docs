@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Action-Oriented Landing Page, Configure, Industrial 
 
 # Set the system properties for the Operational Technology Action-Oriented Landing Page
 
-[[configure-ot-incident-management-properties|Set the system properties]] for the [[operational-technology-overview|Operational Technology]] \(OT\) Action-Oriented Landing Page so that you can enable the properties as needed.
+Set the system properties for the Operational Technology \(OT\) Action-Oriented Landing Page so that you can enable the properties as needed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: configure\_industrial\_workspace
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Workspace System Properties**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Workspace System Properties**.
 
 2.  Edit the following properties as needed.
 
@@ -36,8 +36,3 @@ Role required: configure\_industrial\_workspace
 
 **Parent Topic:**[Setting up the Operational Technology Action-Oriented Landing Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-task-oriented-landing-page.md)
 
-## Related
-
-- [[configure-ot-incident-management-properties|Set the system properties]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

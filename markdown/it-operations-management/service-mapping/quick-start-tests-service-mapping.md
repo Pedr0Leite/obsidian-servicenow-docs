@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Mapping, Service Mapping, ITOM Visibility, IT O
 
 # Quick start tests for Service Mapping
 
-After upgrades and deployments of new applications or integrations, run quick start tests to verify that [[c_ServiceMappingOverview|Service Mapping]] still works. If you have customized Service Mapping, copy the quick start tests and configure them for your customizations.
+After upgrades and deployments of new applications or integrations, run quick start tests to verify that Service Mapping still works. If you have customized Service Mapping, copy the quick start tests and configure them for your customizations.
 
 Service Mapping quick start tests require activating the Service Mapping \(com.snc.service-mapping\) plugin and loading the demo data.
 
@@ -78,6 +78,3 @@ Orlando
 
 [Run an automated test](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/atf-run-test.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

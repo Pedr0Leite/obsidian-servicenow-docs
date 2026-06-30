@@ -14,7 +14,7 @@ breadcrumb: [Use, Collaborative Work Management, Strategic Portfolio Management]
 
 # Templates in CWM for Boards and Docs
 
-By enabling creation of Boards and Docs from predefined or custom templates, [[cwm-landing|Collaborative Work Management]] \(CWM\) helps improve efficiency, save time, and reduce inconsistencies in format.
+By enabling creation of Boards and Docs from predefined or custom templates, Collaborative Work Management \(CWM\) helps improve efficiency, save time, and reduce inconsistencies in format.
 
 \[Omitted video\] Description: Overview of templates for Boards and Docs in CWM.
 
@@ -60,6 +60,3 @@ Delete any custom templates that are no longer necessary for your workflows usin
 
 **Parent Topic:**[Using Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

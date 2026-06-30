@@ -14,9 +14,9 @@ breadcrumb: [DEX Application and Device Health pages, Monitor, Digital End-User 
 
 # Device details
 
-Monitor the health of the user device, installed or web [[dex-workspace-application-tab|applications]], running processes on the device, application and device [[perf-metrics-mob|performance metrics]], network configuration, user access details, and the ability to run custom SQL queries to retrieve OS information.
+Monitor the health of the user device, installed or web applications, running processes on the device, application and device performance metrics, network configuration, user access details, and the ability to run custom SQL queries to retrieve OS information.
 
-To access a user and device details, **Workspaces** &gt; **Service Operations Workspace** and select the [[dex-workspace-devices-tab|Devices]] icon \(\[Omitted image "icon-devices.png"\] Alt text: The Devices icon.\) in the primary navigation pane, then select a device from the list.
+To access a user and device details, **Workspaces** &gt; **Service Operations Workspace** and select the Devices icon \(\[Omitted image "icon-devices.png"\] Alt text: The Devices icon.\) in the primary navigation pane, then select a device from the list.
 
 **Note:**
 
@@ -25,8 +25,3 @@ To access a user and device details, **Workspaces** &gt; **Service Operations Wo
 
 To learn more, see [Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md).
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[dex-workspace-devices-tab|Devices]]

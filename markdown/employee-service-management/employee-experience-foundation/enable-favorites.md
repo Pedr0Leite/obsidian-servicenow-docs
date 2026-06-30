@@ -14,7 +14,7 @@ breadcrumb: [Cross-channel favorites, Setup Employee Center browse experience fe
 
 # Disable favorites
 
-Enable or disable the favorites options to display the favorites icon and access your favorites list for quick use. Favorites functionality is enabled by default on [[employee-center-landing-page|Employee Center]] and MESP.
+Enable or disable the favorites options to display the favorites icon and access your favorites list for quick use. Favorites functionality is enabled by default on Employee Center and MESP.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Using the **Favorites** option, you can do the following:
 
 -   Display the favorite icon on the supported content types in portal and app.
 -   Display the **My Favorites** menu item in the portal header.
--   Access the list of all your favorites that are bookmarked for quick [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] from the menu item.
+-   Access the list of all your favorites that are bookmarked for quick reference from the menu item.
 
 The **Favorites** feature is enabled by default.
 
@@ -53,7 +53,3 @@ Use the following steps to disable the favorites option.
 
 The Favorite functionality is turned off.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

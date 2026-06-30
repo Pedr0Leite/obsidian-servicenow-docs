@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Select the [[autocad-editor|CAD Editor tab]].
+1.  Select the CAD Editor tab.
 
 2.  Select the appropriate **Active layer** on the CAD editor can.
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Drawing and editing tools in the CAD editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/editing-tools-cad-editor.md)
 
-## Related
-
-- [[autocad-editor|CAD Editor tab]]

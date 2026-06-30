@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Playbook, Agent Workspace, HR Service Delivery,
 
 # Exploring HR Service Delivery Playbook
 
-Use [[hr-service-delivery|HR Service Delivery]] Agent Workspace to manage lifecycle event cases.
+Use HR Service Delivery Agent Workspace to manage lifecycle event cases.
 
 ## HR Agent Workspace case form with Playbook
 
@@ -22,7 +22,7 @@ When Playbook is activated with HR Service Delivery Agent Workspace, the **Playb
 
 -   **Playbook Header**
 
-    The Playbook Header shows the title of an [[activity-lxp|activity]] set.
+    The Playbook Header shows the title of an activity set.
 
     **Note:** For more information on lifecycle event structure, see [Configure a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-type.md).
 
@@ -66,7 +66,3 @@ When Playbook is activated with HR Service Delivery Agent Workspace, the **Playb
 
 The other areas of Playbook are covered in .
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[activity-lxp|Activity]]

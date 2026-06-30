@@ -44,8 +44,5 @@ The **Managed domain** field allows domain administrators to manually select a d
 **Related topics**  
 
 
-[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]

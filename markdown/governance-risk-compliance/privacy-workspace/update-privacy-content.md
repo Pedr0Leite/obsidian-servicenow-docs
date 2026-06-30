@@ -42,7 +42,7 @@ Role required: sn\_privacy.manager
 
     The installation wizard opens, showing records associated with the selected authority document or risk statement version.
 
-    **Important:** Control objectives and risk statements are AI-generated. Although [[ai-model-airc|AI models]] are exposed to major privacy regulations, they aren't trained on the risk and compliance methodologies that your teams may use to derive a complete, consistent set of control objectives and risk statements from a regulation. Review each record for accuracy, scope, and fit with your internal taxonomy before you map it to [[ropa-record|processing activities]] or assessment questions.
+    **Important:** Control objectives and risk statements are AI-generated. Although AI models are exposed to major privacy regulations, they aren't trained on the risk and compliance methodologies that your teams may use to derive a complete, consistent set of control objectives and risk statements from a regulation. Review each record for accuracy, scope, and fit with your internal taxonomy before you map it to processing activities or assessment questions.
 
 5.  Select the records to install, and then select **Next**.
 
@@ -91,7 +91,7 @@ Control objectives mapped to the selected citations. If no control objectives ar
 -   The activated content moves to the **Active** sub-tab.
 -   The content card displays the active version number.
 -   The button label on the activated content changes to **Update**.
--   Access the installed authority document, citations, control objectives, and risk statements from the [[list-view-uib-ws|List view]] of the Privacy Workspace.
+-   Access the installed authority document, citations, control objectives, and risk statements from the List view of the Privacy Workspace.
 
 ## What to do next
 
@@ -99,8 +99,3 @@ Update the activated authority documents to add more citations and control objec
 
 Update the version of the privacy risk statements to add new statements to your library. See [Update privacy content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/update-privacy-mgmt-content.md).
 
-## Related
-
-- [[ai-model-airc|AI models]]
-- [[ropa-record|Processing activities]]
-- [[list-view-uib-ws|List view]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Opportunity Marketplace, Hiring Experiences, HR Service De
 
 # Opportunities you own in Opportunity Marketplace
 
-From the Opportunities you own page in [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] you can create, manage, and monitor opportunities. User criteria enables access to creating and updating opportunities.
+From the Opportunities you own page in Opportunity Marketplace you can create, manage, and monitor opportunities. User criteria enables access to creating and updating opportunities.
 
 Select a category to view a list of opportunities and applicants. Further refine the list of opportunities by filtering on the **Opportunity type**, **Status**, or **Sort by** filters and supports text search.
 
@@ -32,6 +32,3 @@ Select **Accepting applications** to view a list of active opportunities that em
 
 **Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-explore.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

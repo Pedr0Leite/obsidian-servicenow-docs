@@ -22,7 +22,7 @@ Before starting this procedure:
 
 -   Locate or define a connector definition.
 -   Create the credentials to connect to the event source.
--   If the connector instance is to be used for the collection of [[operational-metrics|Metric Intelligence]] metric data, the Metric Intelligence plugin must be activated.
+-   If the connector instance is to be used for the collection of Metric Intelligence metric data, the Metric Intelligence plugin must be activated.
 
 Role required: evt\_mgmt\_admin
 
@@ -36,7 +36,7 @@ You can use a connector instance to control the location and manner in which eve
 -   The connector instance value fields are valid.
 -   A connection can be made to the event source, using API, to retrieve events.
 
-[Integrations Launchpad](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md), available in the [[workspace-dashboard-use|Service Operations Workspace]], consolidates all [[c_EM|Event Management]] connector integrations in one place. Use it to pull or push events from external or internal devices, create or manage connector configurations from a single interface.
+[Integrations Launchpad](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md), available in the Service Operations Workspace, consolidates all Event Management connector integrations in one place. Use it to pull or push events from external or internal devices, create or manage connector configurations from a single interface.
 
 ## Procedure
 
@@ -324,7 +324,7 @@ Configure the Opsview\_V2 connector instance to receive alerts from an Opsview M
 -   **[Configure PRTG connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-prtg-connector.md)**  
 Configure the PRTG connector instance to receive alerts from a Paessler PRTG Network Monitor source.
 -   **[Apache Kafka Consumer Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apache-kafka-consumer-connector.md)**  
-The [[apache-kafka-consumer-connector|Apache Kafka Consumer connector]] instance enables you to create events from messages collected from the Apache Kafka topic as a JSON payload that contains essential information in a data block.
+The Apache Kafka Consumer connector instance enables you to create events from messages collected from the Apache Kafka topic as a JSON payload that contains essential information in a data block.
 -   **[Configure the Kafka metrics connector instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-kafka-metrics-connector.md)**  
 Configure the Kafka metric consumer connector instance to read message send to Kafka server over topic.
 -   **[Configure SAP Solution Manager connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-sapsolman-connector.md)**  
@@ -347,9 +347,3 @@ Configure the Zabbix server connector instance to receiving alerts from the Zabb
 
 [Configure Event Management connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]
-- [[apache-kafka-consumer-connector|Apache Kafka Consumer Connector]]

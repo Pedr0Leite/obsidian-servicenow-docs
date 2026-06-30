@@ -14,7 +14,7 @@ breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Install Universal Request for SLO
 
-Install the [[universal-request|Universal Request]] for [[source-to-pay-operations-overview|Source-to-Pay Operations]] \[sn\_fsc\_ur\_common\] plugin to use the Universal Request feature in SLO.
+Install the Universal Request for Source-to-Pay Operations \[sn\_fsc\_ur\_common\] plugin to use the Universal Request feature in SLO.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: admin
 **Related topics**  
 
 
-[Install [[supplier|Supplier]] Case Management]()
+[Install Supplier Case Management]()
 
 [Install Supplier Collaboration Portal]()
 
@@ -54,15 +54,9 @@ Role required: admin
 
 [Advanced Work Assignment for Supplier Lifecycle Operations]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
 [Configure Supplier Relationship and Performance Management]()
 
 [Configure smart assessments]()
 
-## Related
-
-- [[universal-request|Universal Request]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

@@ -15,7 +15,7 @@ breadcrumb: [Customizing the result-card, Using AI Search Admin console, AI Sear
 
 # Activate or deactivate an EVAM view configuration
 
-Activate or deactivate the Entity View Action Mapper \(EVAM\) view [[clone-configurations-tab|configurations]] in the [[ia-ai-search|AI Search]] application as needed. This helps you to control which view configurations are in use.
+Activate or deactivate the Entity View Action Mapper \(EVAM\) view configurations in the AI Search application as needed. This helps you to control which view configurations are in use.
 
 ## Before you begin
 
@@ -46,7 +46,3 @@ The selected view configuration is activated or deactivated.
 
 **Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-managing-evam.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]

@@ -14,7 +14,7 @@ breadcrumb: [Generate onboarding ramp-up plan, Use agentic workflows, Now Assist
 
 # Add Employee Center to the Now Assist in Virtual Agent display experience
 
-Enable Now Assist in Virtual Agent to appear in the [[employee-center-landing-page|Employee Center]] so you can converse with AI agents during a process that's facilitated by an agentic workflow.
+Enable Now Assist in Virtual Agent to appear in the Employee Center so you can converse with AI agents during a process that's facilitated by an agentic workflow.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: virtual\_agent\_admin
 
 9.  Select **Save**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

@@ -22,7 +22,7 @@ Creating a new CI is an experience in CMDB Workspace which you might be integrat
 
 By default, when creating a new CI in CMDB Workspace, the list of classes to choose from for the new CI, contains almost all classes in the CMDB hierarchy. For your workspace, it might be important to reduce that list to specific classes or hierarchy branches.
 
-Settings for specific classes available for new CIs are stored in the CI class config \[sn\_cmdb\_ws\_ci\_class\_config\] table which is part of the [[cnfg-identifiers-framework-sg|configuration identifiers framework]]. Therefore, to manage the list of classes for new CIs in your workspace, you must use config identifiers. To manage that list, you must create a config identifier for each class or hierarchy branch that you want to include or exclude in the class drop-down list. By default, the CI class config table contains a single entry for the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]], which is derived by the entire CMDB hierarchy. Any class or workspace without direct config identifiers for inclusion or exclusion, uses the default entry.
+Settings for specific classes available for new CIs are stored in the CI class config \[sn\_cmdb\_ws\_ci\_class\_config\] table which is part of the configuration identifiers framework. Therefore, to manage the list of classes for new CIs in your workspace, you must use config identifiers. To manage that list, you must create a config identifier for each class or hierarchy branch that you want to include or exclude in the class drop-down list. By default, the CI class config table contains a single entry for the Configuration Item \[cmdb\_ci\] class, which is derived by the entire CMDB hierarchy. Any class or workspace without direct config identifiers for inclusion or exclusion, uses the default entry.
 
 For more information:
 
@@ -107,7 +107,3 @@ When manually creating a new CI in the respective workspace, the specified **CI 
 
 **Parent Topic:**[Configuring CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-cmdb-workspace.md)
 
-## Related
-
-- [[cnfg-identifiers-framework-sg|Configuration identifiers framework]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]

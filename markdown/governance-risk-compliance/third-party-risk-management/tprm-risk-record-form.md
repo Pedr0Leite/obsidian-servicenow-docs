@@ -14,7 +14,7 @@ breadcrumb: [Add a risk, TPRM with Risk Management, Integrate, Third-party Risk 
 
 # Create new risk form
 
-Use the create new risk form to capture all the information that you need to associate a control with a third party or engagement using the Third-party Risk Management application. As a third-party risk admin, you can [[t_CreateAControl|create a control]].
+Use the create new risk form to capture all the information that you need to associate a control with a third party or engagement using the Third-party Risk Management application. As a third-party risk admin, you can create a control.
 
 <table id="table_zsd_kxs_hgc"><thead><tr><th>
 
@@ -145,6 +145,3 @@ Owner for the risk.**Note:** The owner is always added as a respondent.
 
 [Define the risk appetite for a risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-risk-appetite-on-risk.md)
 
-## Related
-
-- [[t_CreateAControl|Create a control]]

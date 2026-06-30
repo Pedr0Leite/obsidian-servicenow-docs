@@ -14,7 +14,7 @@ breadcrumb: [Reference, Field Service Management]
 
 Trigger types determine the initiation of the execution of the work plan.
 
-It defines when the schedule should run based on predefined criteria. The following triggers are available for [[planned-work-management|Planned Work Management]].
+It defines when the schedule should run based on predefined criteria. The following triggers are available for Planned Work Management.
 
 ## Duration
 
@@ -52,7 +52,7 @@ Multiple days of the week
 
 </td><td>
 
-Generates work orders on multiple days each week.For example, you can define a schedule to [[generate-work-orders|generate work orders]] on Monday and Wednesday of every third week of the month.
+Generates work orders on multiple days each week.For example, you can define a schedule to generate work orders on Monday and Wednesday of every third week of the month.
 
 </td></tr><tr><td>
 
@@ -158,10 +158,5 @@ Maintenance is to be performed based on both time and count, whichever comes fir
 
 For example, consider a maintenance plan for checking coolant levels for a HVAC system. You can select the trigger as **Duration or Meter** and specify the duration as six months and meter value as 500 hours. The maintenance is scheduled when either of the conditions are met.
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[planned-work-management|Planned Work Management]]
-- [[generate-work-orders|Generate work orders]]

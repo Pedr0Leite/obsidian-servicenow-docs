@@ -12,7 +12,7 @@ breadcrumb: [Push notifications, Before implementation, Configuration detail, Co
 
 # Mobile push notification components
 
-Configure mobile push notifications to target a specific screen in one of the ServiceNow [[mobile-config-navigation|Mobile Platform]] applications.
+Configure mobile push notifications to target a specific screen in one of the ServiceNow Mobile Platform applications.
 
 This configuration determines the structure of the notification, the text the user receives, who should receive the message, and what triggers the delivery of a notification. Users tap the notification and the associated deep link then directs the user to the desired screen.
 
@@ -39,13 +39,13 @@ Push notification message content
 
 The push notification message content contains the location users are directed to when they tap on the notification, as well as the appearance and layout of the notification.
 
- For more information on content configuration, see [[config-push-notification-message-content|Configure push notification message content]].
+ For more information on content configuration, see [Configure push notification message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-push-notification-message-content.md).
 
- Optionally, you can display up to three additional fields in a notification. These fields are visible within the **Notifications** [[sg-mobile-tab-bar|navigation bar]] tab in a mobile app.
+ Optionally, you can display up to three additional fields in a notification. These fields are visible within the **Notifications** navigation bar tab in a mobile app.
 
  **Note:**
 
-Mobile UI styles are available for these additional fields. For more information around styling, see [[mobile-ui-styles|Mobile UI styles]].
+Mobile UI styles are available for these additional fields. For more information around styling, see [Mobile UI styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-ui-styles.md).
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Push notification message
 
 The push notification message contains the text that users see when they receive a notification. The message displays in the notification center on the device based on your configuration for the user and in the **Notifications** tab.
 
- For more information on message configuration, see [[configure-push-notification-message|Configure a push notification message]].
+ For more information on message configuration, see [Configure a push notification message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-push-notification-message.md).
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Push notification event
 
 </td><td>
 
-The push notification event determines when the mobile push notification is sent and to whom it should be sent to.For more information on event configuration, see [[configure-push-notification-event|Configure a push notification event]].
+The push notification event determines when the mobile push notification is sent and to whom it should be sent to.For more information on event configuration, see [Configure a push notification event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-push-notification-event.md).
 
 </td></tr></tbody>
 </table>-   **[Configure push notification message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-push-notification-message-content.md)**  
@@ -72,22 +72,10 @@ Configure push notification message content and select which mobile application 
 Configure the message displayed to users when they receive their push notification.
 -   **[Configure a push notification event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-push-notification-event.md)**  
 Configure when a push notification event is triggered and sends a mobile push notification to users.
--   **[[push-notif-sounds|Configure sounds for push notifications]]**  
-Add sounds and tones to [[sg-mobile-security-push-notif|push notifications]] to indicate to users if a message is urgent or just requires the users' attention.
--   **[[sg-mobile-notif-register|Register the standard push notification]]**  
+-   **[Configure sounds for push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/push-notif-sounds.md)**  
+Add sounds and tones to push notifications to indicate to users if a message is urgent or just requires the users' attention.
+-   **[Register the standard push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-notif-register.md)**  
 Register your standard push notification in a push application to use it in your mobile apps.
 
-**Parent Topic:**[[sg-mobile-push-notifications|Mobile push notifications]]
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[config-push-notification-message-content|Configure push notification message content]]
-- [[mobile-ui-styles|Mobile UI styles]]
-- [[configure-push-notification-message|Configure a push notification message]]
-- [[configure-push-notification-event|Configure a push notification event]]
-- [[push-notif-sounds|Configure sounds for push notifications]]
-- [[sg-mobile-notif-register|Register the standard push notification]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[sg-mobile-security-push-notif|Push notifications]]

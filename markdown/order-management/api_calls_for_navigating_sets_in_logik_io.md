@@ -12,11 +12,11 @@ breadcrumb: [API overview and resources, CPQ app, Configure, price, quote apps, 
 
 # API calls for navigating sets in ServiceNow CPQ
 
-Understand how to use [[cpq-sets|sets]] in a headless environment using API calls.
+Understand how to use sets in a headless environment using API calls.
 
 ## Setup
 
-The following set and [[fields|fields]] were created for this example:
+The following set and fields were created for this example:
 
 -   Field: Example set field 1
     -   Picklist with options A, B, C
@@ -427,8 +427,3 @@ True
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Domain Separation and HR Service Delivery
 
-The ServiceNow® [[hr-service-delivery|HR Service Delivery]] application improves the employee service experience by automating HR interactions and providing a single platform for all [[hr-service-administration|HR services]]. Domain separation is supported in HR Service Delivery.
+The ServiceNow® HR Service Delivery application improves the employee service experience by automating HR interactions and providing a single platform for all HR services. Domain separation is supported in HR Service Delivery.
 
 Domain separation separates data, processes, and administrative tasks into logical groupings called domains within a single ServiceNow instance. You can then control several aspects of this separation, including which users can see and access data.
 
@@ -80,7 +80,3 @@ While the behavior offered with domain separation provides multi-tenancy support
 
 If a complete and total separation of all system properties is needed and does not require global reporting or global processes, separate instances are the best option.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]

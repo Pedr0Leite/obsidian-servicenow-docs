@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Connect to an API creation tool from API Insights
 
-Initiate API creation directly from the [[api-insights|API Insights]] workspace by connecting to an external API design tool of your choice.
+Initiate API creation directly from the API Insights workspace by connecting to an external API design tool of your choice.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Search for an existing API in the API Insights workspace, and if no matches are 
 
 Based on the settings configured by your application administrator, the API creation tool opens, enabling you to create an API.
 
-## Related
-
-- [[api-insights|API Insights]]

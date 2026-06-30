@@ -24,17 +24,17 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator, or evt\_mgmt\_user
 
 If Security Incident Response is activated, a security incident can be created.
 
-You can manually [[create-incidents|create incidents]] and security incidents from the Alert form. To prevent duplicate tasks, the system checks the conditions of all task templates before creating an incident.
+You can manually create incidents and security incidents from the Alert form. To prevent duplicate tasks, the system checks the conditions of all task templates before creating an incident.
 
 You can customize the created incident using the **EvtMgmtCustomIncidentPopulator.populateFieldsFromAlert** script include. The customization includes mapping fields from the alert to the incident or aborting the incident creation according to customized conditions. For more information, see [Custom alert fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/populate-custom-alert-fields.md).
 
-You can populate incident fields using [[populate-custom-alert-fields|custom alert fields]] values that where populated from additional information fields. Use the **EvtMgmtCustomIncidentPopulator** script include to copy the values to the incident after copying the data to the alert. For more information, see [Custom alert fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/populate-custom-alert-fields.md).
+You can populate incident fields using custom alert fields values that where populated from additional information fields. Use the **EvtMgmtCustomIncidentPopulator** script include to copy the values to the incident after copying the data to the alert. For more information, see [Custom alert fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/populate-custom-alert-fields.md).
 
 **Note:** If Security Incident Response is activated, the base system includes an alert action rule called **Create security incidents for critical alerts**. This alert action rule creates security incidents when critical security events are reported.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Click the alert **Number**.
 
@@ -56,8 +56,3 @@ The created incident appears in the **Task** field of the Alert form.
 
 [Security incidents created from events and alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_ScIncdUseAlrts.md)
 
-## Related
-
-- [[create-incidents|Create incidents]]
-- [[populate-custom-alert-fields|Custom alert fields]]
-- [[c_EM|Event Management]]

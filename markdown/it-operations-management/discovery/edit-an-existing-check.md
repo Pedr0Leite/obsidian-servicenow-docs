@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Tuning**.
+1.  Navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Tuning**.
 
 2.  Select the check name.
 
@@ -35,11 +35,7 @@ Role required: admin
 
     **Note:** If the Active option is enabled:
 
-    -   [[r-discovery|Discovery]] suite runs once a week on Sunday at 8 AM.
+    -   Discovery suite runs once a week on Sunday at 8 AM.
     -   MID suite runs once a week on Sunday at 10 AM.
     -   Self monitoring suite runs every 15 mins.
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]

@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ecpro-audience|Audiences]]
+Audiences
 
 </td><td>
 
@@ -46,7 +46,7 @@ Content Destinations
 
 </td><td>
 
-Defines the page and widget for [[ec-content-publish-news-articles|publishing news articles]].[Add content destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-add-content-destination.md)
+Defines the page and widget for publishing news articles.[Add content destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-add-content-destination.md)
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ Content Categories
 
 </td><td>
 
-Defines categories to organize [[ec-news-articles|news articles]].[Create a content category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-cat.md)
+Defines categories to organize news articles.[Create a content category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-cat.md)
 
 </td></tr><tr><td>
 
@@ -74,9 +74,3 @@ Lists news article reusable templates that were created by following the steps t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ecpro-audience|Audiences]]
-- [[ec-content-publish-news-articles|Publishing news articles]]
-- [[ec-news-articles|News articles]]

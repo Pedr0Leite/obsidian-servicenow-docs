@@ -19,7 +19,7 @@ Customize the field, table, or workflow state map configuration for your Jira pr
 **Note:** Only fields of type number, select, text, and date are supported for custom map configuration.
 
 -   **[Customize your table map configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-table-map-configuration.md)**  
-Map a [[agile-landing-page|Agile Development 2.0]] table of your preference for a Jira project.
+Map a Agile Development 2.0 table of your preference for a Jira project.
 -   **[Customize your field map configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-field-map-configuration.md)**  
 Map a field of your preference for a Jira project.
 -   **[Customize your workflow state configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-choice-map-configuration.md)**  
@@ -35,6 +35,3 @@ Enable Jira identifier reference fields for your Agile Development 2.0 custom ta
 
 **Parent Topic:**[Setting up the integration between Jira and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/setting-up-the-integration-between-jira-and-agile-development.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

@@ -22,7 +22,7 @@ Role required: kafka\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Rescan Topics**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Rescan Topics**.
 
 2.  Synchronize topics by selecting **Confirm**.
 
@@ -35,6 +35,3 @@ Topic records are added to the Kafka Topics \[sys\_kafka\_topic\] table for each
 
 **Parent Topic:**[Managing topics in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/managing-topics-hermes.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

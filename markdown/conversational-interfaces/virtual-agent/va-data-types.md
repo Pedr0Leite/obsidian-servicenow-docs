@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # Input data types in Virtual Agent topics
 
-You can define inputs of commonly used Glide [[virtual-agent-landing-page|Virtual Agent]] \(com.glide.cs.chatbot\) data types in [[assistant-designer|Assistant Designer]] without writing a script. Define the input data type on the Start node of a custom control or topic block.
+You can define inputs of commonly used Glide Virtual Agent \(com.glide.cs.chatbot\) data types in Assistant Designer without writing a script. Define the input data type on the Start node of a custom control or topic block.
 
 ## Data types in Assistant Designer
 
@@ -124,7 +124,3 @@ This User Name Array.Reference input variable limits the number of records to 5.
 
 [Latency feedback in Virtual Agent]()
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]

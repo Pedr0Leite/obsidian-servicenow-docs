@@ -14,7 +14,7 @@ breadcrumb: [Administer and maintain the Talent Development Core app, Talent Dev
 
 # Add Talent Development Interests
 
-As a [[egd-landing-page|Talent Development Core]] admin, you can add **Interests** that help employees understand and create an aspiration.
+As a Talent Development Core admin, you can add **Interests** that help employees understand and create an aspiration.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: sn\_egd\_core.admin, sn\_egd\_core.content\_manager
 
 **Parent Topic:**[Administer and maintain the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-administration.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]

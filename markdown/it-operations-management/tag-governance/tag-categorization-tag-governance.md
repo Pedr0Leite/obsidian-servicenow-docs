@@ -20,7 +20,7 @@ By automatically grouping similar tag keys into predefined categories, Tag Categ
 
 **Note:**
 
-The Tag Categorization feature in [[landing-page-tag-governance|Tag Governance]] leverages the CI tag category \[svc\_tag\_categories\] and the CI tag key \[svc\_tag\_names\] tables in [[c_ServiceMappingOverview|Service Mapping]]. Full access to these tables requires installation of the version 1.16.3 or later of Service Mapping Plus. Without it, access to these tables might be limited, affecting your ability to recategorize tags, modify tag definitions, or fully use the feature. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
+The Tag Categorization feature in Tag Governance leverages the CI tag category \[svc\_tag\_categories\] and the CI tag key \[svc\_tag\_names\] tables in Service Mapping. Full access to these tables requires installation of the version 1.16.3 or later of Service Mapping Plus. Without it, access to these tables might be limited, affecting your ability to recategorize tags, modify tag definitions, or fully use the feature. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
 
 ## Tag Categorization overview
 
@@ -36,7 +36,3 @@ The system uses the **sn\_itom\_tag.recategorization\_required** property to det
 
 Tag Categorization supports domain-specific management. If an instance isn’t domain-separated, the categories are added to the global domain. For domain-separated instances, the categories are added to each leaf domain. When you access or manage tags, the system gets domain information from the CI and adds tag mappings to the matching category in the appropriate domain. For general information about domain separation with Tag Governance, see [Domain separation and Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-governance-domain-separation.md).
 
-## Related
-
-- [[landing-page-tag-governance|Tag Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]

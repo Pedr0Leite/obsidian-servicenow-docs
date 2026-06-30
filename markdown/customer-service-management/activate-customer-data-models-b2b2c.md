@@ -12,13 +12,13 @@ breadcrumb: [Configure customer data models for B2B2C, Data models, Set up your 
 
 # Activate customer data models for B2B2C
 
-Activate the [[customer-data|customer data]] models for the B2B2C plugin \(com.sn\_csm\_b2b\_consumers\) if you have the admin role. If they aren't already installed, the application includes demo data and installs related ServiceNow® Store applications and plugins.
+Activate the customer data models for the B2B2C plugin \(com.sn\_csm\_b2b\_consumers\) if you have the admin role. If they aren't already installed, the application includes demo data and installs related ServiceNow® Store applications and plugins.
 
 ## Before you begin
 
 Role required: admin
 
-You must activate the Customer Service Install Base Management \(com.snc.install\_base\) plugin before installing [[customer-data-model-b2b2c|Customer data models for B2B2C]].
+You must activate the Customer Service Install Base Management \(com.snc.install\_base\) plugin before installing Customer data models for B2B2C.
 
 The Customer data model for B2B2C plugin provides the following roles:
 
@@ -31,12 +31,12 @@ When the plugin is activated, customer service agents inherit the account consum
 
 The following items are installed with customer data models for B2B2C:
 
--   Business [[gamification-components-rules|rules]]: Required account or consumer
+-   Business rules: Required account or consumer
 -   UI policies
     -   Table: Case
     -   Table: Interaction
     -   Table: Sold Product
-    -   Table: [[install-base-item|Install Base Items]]
+    -   Table: Install Base Items
 -   Reference qualifiers
     -   Table: Case
     -   Table: Interaction
@@ -57,9 +57,4 @@ The following items are installed with customer data models for B2B2C:
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[customer-data|Customer data]]
-- [[customer-data-model-b2b2c|Customer data models for B2B2C]]
-- [[gamification-components-rules|Rules]]
-- [[install-base-item|Install base items]]

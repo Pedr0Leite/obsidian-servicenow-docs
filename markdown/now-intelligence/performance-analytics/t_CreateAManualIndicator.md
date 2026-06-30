@@ -31,7 +31,7 @@ Manual indicators are not associated with an indicator source. Scores for manual
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Manual Indicators** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Manual Indicators** and select **New**.
 
 2.  In the **Name** field, give the indicator a descriptive name, such as Number of Critical Incidents.
 
@@ -69,7 +69,7 @@ Key
 
 </td><td>
 
-Identifies the indicator as a key indicator. Used only to filter the list of indicators in **Performance Analytics** &gt; **[[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]**. Not used in [[par-workspace|Platform Analytics experience]].
+Identifies the indicator as a key indicator. Used only to filter the list of indicators in **Performance Analytics** &gt; **Analytics Hub**. Not used in Platform Analytics experience.
 
 </td></tr><tr id="row_unit"><td>
 
@@ -100,12 +100,12 @@ Number format
 The abbreviations used for large numbers, thousands through quintillions. For more information, see [Rounding and precision in indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/r_FormulaRounding.md).
 
 </td></tr></tbody>
-</table>6.  In the **[[access-control|Access control]]** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
+</table>6.  In the **Access control** tab, set whether to save this indicator to the library and whether to limit the visibility of the indicator by user, group, or role.
 
     Activating **Show in library** means that the indicator will be available in the following places:
 
     -   The Platform Analytics indicator library
-    -   [[kpi-details|KPI Details]]
+    -   KPI Details
     -   Analytics Hub, but only on upgraded instances that haven’t fully migrated to Platform Analytics
 7.  In the **Access Control** tab, set which user is the **Contributor** authorized to populate the indicator scores.
 
@@ -179,7 +179,7 @@ When selected, the Analytics Hub and KPI Details show unbroken data lines for th
 
 ## What to do next
 
-Create [[manual-breakdowns|manual breakdowns]] and assign them to this indicator. Then, manually add scores.
+Create manual breakdowns and assign them to this indicator. Then, manually add scores.
 
 **Related topics**  
 
@@ -188,11 +188,3 @@ Create [[manual-breakdowns|manual breakdowns]] and assign them to this indicator
 
 [Add or edit indicator scores manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ManuallyAddingScoresForIndicators.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[par-workspace|Platform Analytics experience]]
-- [[access-control|Access control]]
-- [[kpi-details|KPI Details]]
-- [[manual-breakdowns|Manual breakdowns]]

@@ -22,7 +22,7 @@ Role required: none
 
 1.  Log in to a ServiceNow mobile app.
 
-2.  On the [[sg-mobile-tab-bar|navigation bar]], tap the **Settings** button.
+2.  On the navigation bar, tap the **Settings** button.
 
 3.  In the **Settings** page, tap **Preferences**
 
@@ -32,6 +32,4 @@ Role required: none
 
     **Note:** If you don't see the theme settings, ensure that your mobile app is upgraded to version 16.0 or later.
 
-## Related
 
-- [[sg-mobile-tab-bar|Navigation bar]]

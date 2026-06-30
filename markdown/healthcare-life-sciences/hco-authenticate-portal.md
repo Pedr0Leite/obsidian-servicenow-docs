@@ -12,7 +12,7 @@ breadcrumb: [Embed Care Team Portal in Epic, Configure, Care Team Portal, Health
 
 # In Epic: Build the FHIR App to Authenticate with ServiceNow
 
-Set up your FHIR app with the correct configurations to allow single sign-on for EPIC users to access the [[care-team-portal-landing|Care Team Portal]] inside EPIC Hyperspace via Hyperdrive.
+Set up your FHIR app with the correct configurations to allow single sign-on for EPIC users to access the Care Team Portal inside EPIC Hyperspace via Hyperdrive.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ An app has been created in EPIC on FHIR that can be utilized for single sign on 
 
 **Note:** Upon submitting the app, note that it can take 24 hours or more for the app to sync.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

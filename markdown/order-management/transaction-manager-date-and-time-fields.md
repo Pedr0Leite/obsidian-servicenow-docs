@@ -22,7 +22,7 @@ Term calculations calculate contract terms, start and end dates, renewals, and l
 
 Auditing events can track activities such as quotes, payments, and contract signings. Missing dates may indicate incomplete data, and must be flagged for review.
 
-The following examples show how date and time [[fields|fields]] appear in the end-user UI.
+The following examples show how date and time fields appear in the end-user UI.
 
 -   Date-only calendar display: \[Omitted image "cpq-txn-mgr-date-time-date-only.png"\] Alt text: Jan calendar screen
 -   Date and time input: \[Omitted image "cpq-txn-mgr-date-time-date-time-input.png"\] Alt text: Select time slot
@@ -57,7 +57,7 @@ To appear in the end-user UI, the field must be included in the layout for the b
 
 To add a “Test date doc“ field to layout, follow these steps.
 
-1.  From Admin, click **Transaction**, click **[[layouts|Layouts]]**, and then click the name of the stage.
+1.  From Admin, click **Transaction**, click **Layouts**, and then click the name of the stage.
 
     \[Omitted image "cpq-txn-mgr-date-time-display-step-1.jpeg"\] Alt text: Transaction screen
 
@@ -82,7 +82,7 @@ To add a “Test date doc“ field to layout, follow these steps.
 
 Term calculations can determine the duration of a contract, subscription, or pricing agreement. Sometimes we may need to calculate the data and display the output in another field for auditing purposes. In the following example, we consider the start date and end date available in the buyside UI and calculate the difference between the dates in terms of months and days. We display the value in another field called “Subscription term“.
 
-1.  In CPQ Admin, click **Related [[rules_101|Rules]]**, and then click **New Rule**. Enter the name of the rule and define the conditions. In this example, name the rule “Calculate subscription term date“ and its condition as “Start date.“ “End date“ should not be null.
+1.  In CPQ Admin, click **Related Rules**, and then click **New Rule**. Enter the name of the rule and define the conditions. In this example, name the rule “Calculate subscription term date“ and its condition as “Start date.“ “End date“ should not be null.
 
     \[Omitted image "cpq-txn-mgr-date-time-calc-step-1.png"\] Alt text: Calculate subscription screen
 
@@ -138,20 +138,11 @@ Aggregate operations:
 **Related topics**  
 
 
-[[transaction-manager|Transaction Manager]]
+[Transaction Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager.md)
 
-[[transaction-manager-fields|Transaction Manager: Fields]]
+[Transaction Manager: Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-fields.md)
 
-[[transaction-manager-transaction-header-level-system-fields|Transaction Manager: Transaction-level system fields]]
+[Transaction Manager: Transaction-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-transaction-header-level-system-fields.md)
 
-[[transaction-manager-line-level-system-fields|Transaction Manager: Line-level system fields]]
+[Transaction Manager: Line-level system fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-line-level-system-fields.md)
 
-## Related
-
-- [[transaction-manager|Transaction Manager]]
-- [[transaction-manager-fields|transaction manager fields]]
-- [[transaction-manager-transaction-header-level-system-fields|transaction manager transaction header level system fields]]
-- [[transaction-manager-line-level-system-fields|transaction manager line level system fields]]
-- [[fields|Fields]]
-- [[layouts|Layouts]]
-- [[rules_101|Rules]]

@@ -14,11 +14,11 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Microsoft Azure DevOps Integration for Agile Development
 
-Enable bidirectional synchronization of work items between Microsoft Azure DevOps and ServiceNow® [[agile-landing-page|Agile Development 2.0]] by integrating the two applications.
+Enable bidirectional synchronization of work items between Microsoft Azure DevOps and ServiceNow® Agile Development 2.0 by integrating the two applications.
 
 For example, if you update a record in Microsoft Azure DevOps, the update is reflected in Agile Development 2.0. Similarly, if you update a record in Agile Development 2.0, the update is reflected in Microsoft Azure DevOps.
 
-The Integration of Microsoft Azure DevOps with [[agile-development|Agile Development]] enables you to do the following:
+The Integration of Microsoft Azure DevOps with Agile Development enables you to do the following:
 
 -   View available Microsoft Azure DevOps projects in Agile Development.
 -   Perform a bulk import of records from Microsoft Azure DevOps to Agile Development 2.0.
@@ -41,10 +41,5 @@ Understand the workflow for the import and export of work items between Agile De
 -   **[Troubleshooting issues for Azure DevOps integration with Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/troubleshooting-issues-agile-azure-int.md)**  
 Resolve common issues that you might face while working with the integration of Azure DevOps and Agile Development 2.0.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

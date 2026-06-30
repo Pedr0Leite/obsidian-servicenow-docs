@@ -14,7 +14,7 @@ breadcrumb: [Hiring Experiences, HR Service Delivery, Employee Service Managemen
 
 # Hiring tab
 
-The [[hiring-dashboard|Hiring tab]] is a centralized hub for [[hiring-tab-concept|hiring]] managers, designed to facilitate efficient stakeholder collaboration and drive a streamlined and effective hiring process.
+The Hiring tab is a centralized hub for hiring managers, designed to facilitate efficient stakeholder collaboration and drive a streamlined and effective hiring process.
 
 ## Get started
 
@@ -39,7 +39,3 @@ The [[hiring-dashboard|Hiring tab]] is a centralized hub for [[hiring-tab-concep
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hiring-dashboard|Hiring tab]]
-- [[hiring-tab-concept|Hiring]]

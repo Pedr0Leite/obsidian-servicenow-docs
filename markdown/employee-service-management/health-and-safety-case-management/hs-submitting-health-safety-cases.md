@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Case Management, Health and Safety, Employee Serv
 
 # Submitting Health and Safety cases
 
-Safety case manager can begin the resolution process by creating cases based on questions received from employees. Employees can also directly ask a [[health-safety-overview|health and safety]]-related questions from the [[employee-center-landing-page|Employee Center]]. They can fill out the Health and Safety [[question-form|question form]], select an appropriate category for their question, and then submit it.
+Safety case manager can begin the resolution process by creating cases based on questions received from employees. Employees can also directly ask a health and safety-related questions from the Employee Center. They can fill out the Health and Safety question form, select an appropriate category for their question, and then submit it.
 
 -   [Ask a Health and Safety question from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-ask-health-safety-question.md)
 
@@ -30,7 +30,7 @@ Safety case manager can begin the resolution process by creating cases based on 
 
 -   [Create an HR case from an injury or illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-hr-case-injury-illness.md)
 
-    As a safety agent working on a safety incident or an injury, [[search-hr-case|create an HR case]] for an employee who is on leave because of an injury or illness or needs any other assistance from the HR department.
+    As a safety agent working on a safety incident or an injury, create an HR case for an employee who is on leave because of an injury or illness or needs any other assistance from the HR department.
 
 
 -   **[Ask a Health and Safety question from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-ask-health-safety-question.md)**  
@@ -42,9 +42,3 @@ Begin the resolution process by creating cases based on questions received from 
 
 **Parent Topic:**[Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/health-safety-overview.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]
-- [[question-form|Question form]]
-- [[search-hr-case|Create an HR case]]

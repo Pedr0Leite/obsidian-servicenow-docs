@@ -32,15 +32,15 @@ Benefits and uses of the Mobile App Builder include the following:
 
 Mobile App Builder \(MAB\) is automatically installed on your instance with the base system plugin sn\_mab. Starting in version 22.6, when there is a new version of the plugin, a banner appears at the top of the MAB screen indicating a new version is available. Select **Update** in the banner to install the new version.
 
-For more information about the MAB plugin and its associated plugins for the Mobile App Builder API and [[mobile-card-builder|Mobile Card Builder]], see [[sg-mobile-plugins|Mobile plugins]].
+For more information about the MAB plugin and its associated plugins for the Mobile App Builder API and Mobile Card Builder, see [Mobile plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins.md).
 
 ## Mobile App Builder workflow
 
 The building of mobile applications takes place within three screens:
 
 -   The Mobile App Builder application scope selection screen: Select the scope to work on.
--   The [[mab-menu-screen|Mobile App Builder categories home screen]]: Select the record to work on.
--   The [[mab-workspace|Mobile App Builder record screen]]: Work on your records.
+-   The Mobile App Builder categories home screen: Select the record to work on.
+-   The Mobile App Builder record screen: Work on your records.
 
 In the Mobile App Builder application scope selection screen, you select the application scope to work in. After choosing your application scope, select a category or specific record to create or edit in the Mobile App Builder categories home screen. The record you select then opens in the Mobile App Builder record screen. In this screen, you perform most of your work, by populating record fields and creating relationships between different records.
 
@@ -52,23 +52,13 @@ In the Washington DC family release and later, Mobile App Builder is now integra
 
 \[Omitted image "mob-pub-mab-integration.png"\] Alt text: Mobile Publishing sidebar on the Mobile App Builder main page
 
-Select a custom branded app card in the **Manage your branding** side panel to open it in Mobile Publishing. For more information about Mobile Publishing, see [[mobile-publishing|Publish mobile apps with custom branding]].
+Select a custom branded app card in the **Manage your branding** side panel to open it in Mobile Publishing. For more information about Mobile Publishing, see [Publish mobile apps with custom branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-publishing.md).
 
 ## Add push notifications to mobile apps with Mobile App Builder
 
-In the Washington DC family release and later, you can now add [[sg-mobile-security-push-notif|push notifications]] to your mobile apps with Mobile App Builder:
+In the Washington DC family release and later, you can now add push notifications to your mobile apps with Mobile App Builder:
 
 \[Omitted image "push-notif-in-mab.png"\] Alt text: Mobile App Builder menu showing push notifications
 
-Select **[[mobile-notifications|Mobile notifications]]** in the menu and then select the push notification you want to use. For more information about push notifications, see [[sg-mobile-push-notifications|Mobile push notifications]].
+Select **Mobile notifications** in the menu and then select the push notification you want to use. For more information about push notifications, see [Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md).
 
-## Related
-
-- [[sg-mobile-plugins|Mobile plugins]]
-- [[mobile-publishing|Publish mobile apps with custom branding]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mab-workspace|Mobile App Builder record screen]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-notifications|Mobile notifications]]

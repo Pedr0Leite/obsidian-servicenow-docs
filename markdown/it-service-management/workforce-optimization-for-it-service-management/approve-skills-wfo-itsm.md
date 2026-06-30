@@ -28,7 +28,7 @@ You will receive a notification when an agent in your assignment group submits a
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|Coaching]] icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
+2.  Select the Coaching icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
 
 3.  Select the **Assessments** tab.
 
@@ -47,6 +47,3 @@ You will receive a notification when an agent in your assignment group submits a
 
 **Parent Topic:**[Skills Management in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/skills-management-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

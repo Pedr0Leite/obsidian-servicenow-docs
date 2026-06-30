@@ -14,20 +14,20 @@ breadcrumb: [Manage workplace schedule and in-office presence using Workplace Se
 
 # Review and edit your reservations in Workplace
 
-Update or edit reservations in Workplace using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] application. Update your location, date, and time of your existing reservations.
+Update or edit reservations in Workplace using the Workplace Service Delivery for Mobile application. Update your location, date, and time of your existing reservations.
 
 ## Before you begin
 
 Make sure that you have the following applications:
 
 -   Workplace Service Delivery for Mobile
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Workplace Core
+-   Workplace Reservation Management
+-   Workplace Concierge
+-   Indoor Mapping
+-   Workplace Central
+-   Workplace Space Management
+-   Workplace Space Mapping
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -41,7 +41,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     The location pin changes to a blue pin icon \( \[Omitted image "wsd-mobile-location-pin-icon.png"\] Alt text: Blue pin location icon.\). The workplace screen appears for you to coordinate your workdays and collaborate with your preferred collaborators.
 
-4.  [[create-reservation-request-1|Create a reservation]] for a day or create bulk reservations.
+4.  Create a reservation for a day or create bulk reservations.
 
     For more information, see [Create a reservation for a day in Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/manage-schedule-emp-center.md) and [Create bulk reservations in Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/mobile-workplace-bulk-reservations.md).
 
@@ -67,9 +67,9 @@ Role required: sn\_wsd\_core.workplace\_user
 
         \[Omitted image "wsd-mobile-workplace-editrsv-dialog-box-options.png"\] Alt text: Update reservation showing Edit tab to update an existing reservation.
 
-        Update your reservations to change the start time and date or end time or date and the location. You can also remove or edit [[workplace-services|workplace services]] from your existing reservations. After you update a reservation, the reservation subject name is changed automatically to the space name for which you are updating the reservation. For example, Reservation for C1-04-01, where C1-04-01 is the space name.
+        Update your reservations to change the start time and date or end time or date and the location. You can also remove or edit workplace services from your existing reservations. After you update a reservation, the reservation subject name is changed automatically to the space name for which you are updating the reservation. For example, Reservation for C1-04-01, where C1-04-01 is the space name.
 
-        **Note:** When you try to edit a group reservation, the **Edit Group Parent** option is available for a group reservation. Selecting this option opens the group parent reservation in the Reservation Summary Page. For more information about how to [[create-group-reservation|create a group reservation]], see [Create a group reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-group-reservation.md).
+        **Note:** When you try to edit a group reservation, the **Edit Group Parent** option is available for a group reservation. Selecting this option opens the group parent reservation in the Reservation Summary Page. For more information about how to create a group reservation, see [Create a group reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-group-reservation.md).
 
     2.  Select**Edit**.
 
@@ -91,16 +91,4 @@ Role required: sn\_wsd\_core.workplace\_user
 
 9.  Select **Update reservation** to update your reservation.
 
-## Related
 
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-services|Workplace Services]]
-- [[create-group-reservation|Create a group reservation]]

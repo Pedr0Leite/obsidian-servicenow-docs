@@ -12,15 +12,15 @@ breadcrumb: [Implement, Unified Security Exposure Management, Security Operation
 
 # Configure email notifications in Unified Security Exposure Management
 
-Set up [[tisc-email-notifications|email notifications]] to share useful information about important updates and activities such as approval and rejection of false-positive requests. Creating an email notification involves specifying when to send it, who receives it, and what it contains.
+Set up email notifications to share useful information about important updates and activities such as approval and rejection of false-positive requests. Creating an email notification involves specifying when to send it, who receives it, and what it contains.
 
 ## Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -33,16 +33,10 @@ Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for 
 
 ## Result
 
-When a recipient clicks the links in an email notification, the links open in the Security Exposure Management Workspace or [[it-remediation-workspace-landing-page|IT Remediation Workspace]] based on their role.
+When a recipient clicks the links in an email notification, the links open in the Security Exposure Management Workspace or IT Remediation Workspace based on their role.
 
 -   Links open in the Security Exposure Management Workspace for the users with the roles, sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin.
 -   Links open in the IT Remediation Workspace for the users with the role, sn\_vul.remediation\_owner.
 
 If the recipient doesn’t have any of the preceding roles, the links in an email notification open in the classic UI.
 
-## Related
-
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Administer, Form administration, Forms, fields, and lists, Configur
 
 # Administering attachments
 
-Administrators can configure [[r_SetArchiveRuleProcessingBehavior|system properties]] for how files are uploaded and attached to records. Uploading, viewing, and deleting file attachments triggers a single event that can be used for [[notifications|notifications]] or in scripts.
+Administrators can configure system properties for how files are uploaded and attached to records. Uploading, viewing, and deleting file attachments triggers a single event that can be used for notifications or in scripts.
 
 ## Attachment tables
 
@@ -60,7 +60,7 @@ Only one event is created when action is taken on a record with attachments, eve
 
 ## Attachment logging
 
-When an attachment is downloaded, the **attachment.read** event record is written, and you can do something with this event. For example, you can record when and by whom certain attachments are downloaded. For this functionality, **current** is a sys\_attachment record, and the event record uses the following [[r_DirectJDBCProbeParameters|parameters]]:
+When an attachment is downloaded, the **attachment.read** event record is written, and you can do something with this event. For example, you can record when and by whom certain attachments are downloaded. For this functionality, **current** is a sys\_attachment record, and the event record uses the following parameters:
 
 -   **parm1:** File name
 -   **parm2:** Table name
@@ -80,26 +80,16 @@ To change debugging options for attachment indexing, add these system properties
 
 **Note:** To learn more about the properties that affect attachments processing, see Attachments \(instance security hardening\) in Instance Security Hardening Settings.
 
--   **[[t_DisablingTheDragAndDropFeature|Configure attachment system properties]]**  
+-   **[Configure attachment system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingTheDragAndDropFeature.md)**  
 You can disable the drag-and-drop feature. \(Users can still upload attachments by browsing to the file.\) You can also limit the attachment file size, restrict who can upload attachments, and restrict what file extensions can be uploaded.
--   **[[disable-attachments-on-table|Disable attachments on a table]]**  
+-   **[Disable attachments on a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/disable-attachments-on-table.md)**  
 You can prevent users from adding attachments to records on a specific table.
--   **[[t_DisablingAttachmentsOnATable|Index attachments on a table]]**  
+-   **[Index attachments on a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingAttachmentsOnATable.md)**  
 You can enable attachment indexing for a table so text searches can return matches from the record and its file attachments.
 -   **[Hide the attachment \[view\] link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_HidingTheAttachmentViewLink.md)**  
 Users can open an attachment by clicking either the file name or the **\[view\]** link. The **\[view\]** link opens the file from within the browser, which executes JavaScript code as part of the attachment. You can hide the **\[view\]** link. Users can still view attachments by clicking the file name.
--   **[[t_ConfiguringAttachmentIcons|Configure attachment icons]]**  
+-   **[Configure attachment icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfiguringAttachmentIcons.md)**  
 Configure the icon that appears beside an attachment of a particular file type.
 
-**Parent Topic:**[[form-administration|Administering forms on the ServiceNow AI Platform]]
+**Parent Topic:**[Administering forms on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/form-administration.md)
 
-## Related
-
-- [[t_DisablingTheDragAndDropFeature|Configure attachment system properties]]
-- [[disable-attachments-on-table|Disable attachments on a table]]
-- [[t_DisablingAttachmentsOnATable|Index attachments on a table]]
-- [[t_ConfiguringAttachmentIcons|Configure attachment icons]]
-- [[form-administration|Administering forms on the ServiceNow AI Platform]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[notifications|Notifications]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

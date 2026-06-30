@@ -14,7 +14,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # 'Run' stage reports on the CSDM Data Foundations dashboard
 
-Run stage reports on the [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]
+Run stage reports on the CSDM Data Foundations dashboard
 
 ## Reports on the Run tab
 
@@ -46,6 +46,3 @@ For information on managing data collection for a metric that isn't needed or th
 
 [CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-data-foundations-dashboard.md)
 
-## Related
-
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]

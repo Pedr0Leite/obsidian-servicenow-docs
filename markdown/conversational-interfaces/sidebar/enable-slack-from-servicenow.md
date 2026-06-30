@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **[[sidebar-landing|Sidebar]]**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Sidebar**.
 
 2.  In the Integrations section, select **Set up** for Slack.
 
@@ -52,7 +52,4 @@ Role required: admin
 
 11. Select **Discuss** and add at least one external user \(a Slack user who does not have a ServiceNow account\).
 
-## Related
 
-- [[convint-landing-page|Conversational Interfaces]]
-- [[sidebar-landing|Sidebar]]

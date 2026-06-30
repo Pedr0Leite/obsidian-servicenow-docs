@@ -18,8 +18,5 @@ Select **Go to Security Settings** to configure the security settings in the Sec
 
 \[Omitted image "ia-sec-set.png"\] Alt text: Image showing security setting page
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]

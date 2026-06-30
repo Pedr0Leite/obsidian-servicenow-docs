@@ -12,7 +12,7 @@ breadcrumb: [Return Merchandise Authorization, Order operations, Explore, Sales 
 
 # Return Merchandise Authorization case user journey
 
-The [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) user journey describes the steps a customer and support agent take when handling a sales return cases.
+The Return Merchandise Authorization \(RMA\) user journey describes the steps a customer and support agent take when handling a sales return cases.
 
 The RMA user journey starts when a customer reports an issue. The agent then manages the request through a clear four-stage process:
 
@@ -43,11 +43,6 @@ This approach confirms that every request is handled smoothly, with clear commun
 
 ## What to explore next
 
--   [[activate-return-merchandise-authorization-plugin|Activate the Return Merchandise Authorization plugin]]
--   [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
+-   [Activate the Return Merchandise Authorization plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activate-return-merchandise-authorization-plugin.md)
+-   [Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)
 
-## Related
-
-- [[activate-return-merchandise-authorization-plugin|Activate the Return Merchandise Authorization plugin]]
-- [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

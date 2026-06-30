@@ -14,7 +14,7 @@ breadcrumb: [Password Reset reference, Password Reset, Manage service capabiliti
 
 # Password Reset script includes
 
-The [[password-reset-landing-page|Password Reset]] plugin installs script includes that implement password reset processes. To enable you to extend functionality, each base-system script include provides extension points that you can use to invoke "extension scripts" that you customized.
+The Password Reset plugin installs script includes that implement password reset processes. To enable you to extend functionality, each base-system script include provides extension points that you can use to invoke "extension scripts" that you customized.
 
 The [extension script category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/pw-reset-extension-script.md) refers to the specific types of behavior for an extension script \(for example, credential store, verification, identification type, or as a post-processor\).
 
@@ -43,7 +43,7 @@ All identification form processor script includes take the following parameters,
 
 |Name|Description|
 |----|-----------|
-|PwdIdentifyViaEmail|Verifies a user's identity by checking the [[email|email]] address.|
+|PwdIdentifyViaEmail|Verifies a user's identity by checking the email address.|
 |PwdIdentifyViaUsername|Verifies a user's identity by checking the user name.|
 
 ## 'Enrollment form processor' script includes
@@ -132,7 +132,3 @@ All post processor script includes take the following parameters.
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with Workplace from Facebook,
 
 # Integrate ServiceNow Virtual Agent with Workplace from Facebook
 
-Add [[virtual-agent-landing-page|Virtual Agent]] to your Workplace from Facebook integration.
+Add Virtual Agent to your Workplace from Facebook integration.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, click **View All**.
 
@@ -33,7 +33,7 @@ Roles required:
 
 3.  Under the Available Channels section in the Microsoft Teams tile, click **Add Integrations**.
 
-    **Note:** The **Add Integrations** button is available only after installing the [[mssg-workplace|Conversational Integration with Workplace from Facebook]] plugin \(sn\_va\_fb\_workplace\) on your ServiceNow instance.
+    **Note:** The **Add Integrations** button is available only after installing the Conversational Integration with Workplace from Facebook plugin \(sn\_va\_fb\_workplace\) on your ServiceNow instance.
 
     You are directed to the Workplace admin page to add a bot.
 
@@ -60,8 +60,3 @@ The Virtual Agent bot and Workplace from Facebook are now integrated for use on 
 
 **Parent Topic:**[Configuring Conversational Integration with Workplace from Facebook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-ci-workplace-fb.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[mssg-workplace|Conversational Integration with Workplace from Facebook]]

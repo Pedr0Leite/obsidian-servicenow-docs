@@ -12,7 +12,7 @@ breadcrumb: [Recall a campaign phase, Create a campaign, Recall management, Agen
 
 # Create a phase and sub-phase in a recall campaign
 
-Create a set of phases and sub-phase within a [[mco-rcl-clms|recall campaign]] to enable detailed segmentation, improving tracking, and management at each stage of the process.
+Create a set of phases and sub-phase within a recall campaign to enable detailed segmentation, improving tracking, and management at each stage of the process.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns**
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns**
 
 2.  Select the corresponding campaign record in which you want to create the phases and sub-phases.
 
@@ -46,15 +46,15 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 5.  On the required recall campaign phase form, fill in the fields.
 
-    For a description of the field values, see [[mco-recall-campaign-phases-form|Recall campaign phase form]].
+    For a description of the field values, see [Recall campaign phase form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases-form.md).
 
 6.  Select **Save**.
 
     |Related list|Description|
     |------------|-----------|
-    |[[mco_assign_impacted_asset|Assign an impacted asset]]|Assign an impacted asset to the recall campaign.|
-    |[[mco-phase-task|Adding a phase task]]|Agents workspace enables the manufacturers to add the phase task details for the recall campaigns.|
-    |[[mco_recall_campaign_phases|Adding a sub-phase]]|Create a sub-phase for a parent phase.|
+    |[Assign an impacted asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_assign_impacted_asset.md)|Assign an impacted asset to the recall campaign.|
+    |[Adding a phase task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-phase-task.md)|Agents workspace enables the manufacturers to add the phase task details for the recall campaigns.|
+    |[Adding a sub-phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_recall_campaign_phases.md)|Create a sub-phase for a parent phase.|
 
 7.  Add a sub-phase by selecting the plus icon \(+\).
 
@@ -67,14 +67,5 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 9.  Select **Submit**.
 
 
-**Parent Topic:**[[mco-recall-campaign-phases|Recall a campaign phase]]
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 
-## Related
-
-- [[mco-recall-campaign-phases-form|Recall campaign phase form]]
-- [[mco_assign_impacted_asset|Assign an impacted asset]]
-- [[mco-phase-task|Adding a phase task]]
-- [[mco_recall_campaign_phases|Adding a sub-phase]]
-- [[mco-recall-campaign-phases|Recall a campaign phase]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-recall-management|Recall management]]

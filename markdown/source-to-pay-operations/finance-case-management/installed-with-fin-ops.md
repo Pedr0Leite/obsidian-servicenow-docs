@@ -14,7 +14,7 @@ breadcrumb: [Install Finance Case Management, Configure, Finance Case Management
 
 # Components installed with Finance Case Management
 
-Several types of components are installed with the activation of the [[fin-case-mgmt-landing-page|Finance Case Management]] plugin, including roles, flows, and tables.
+Several types of components are installed with the activation of the Finance Case Management plugin, including roles, flows, and tables.
 
 ## Roles installed
 
@@ -102,6 +102,3 @@ Activate the **Create Finance case on Inbound email inquiry** flow to create a f
 
 **Parent Topic:**[Install Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/install-fin-case-mgmt.md)
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

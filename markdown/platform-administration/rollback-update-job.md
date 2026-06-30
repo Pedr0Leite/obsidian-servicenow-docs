@@ -24,7 +24,7 @@ If you want to revert the updates to records made through an update job, execute
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Update jobs**.
+1.  Navigate to **All** &gt; **System Data Management** &gt; **Update jobs**.
 
 2.  Select an update job that has been executed.
 
@@ -37,9 +37,5 @@ If you want to revert the updates to records made through an update job, execute
 
 The rollback job is executed immediately and the updated records are reverted to their prior versions. If you want to update the records again, create an update job using the same conditions, and then schedule the update job or execute it immediately.
 
-**Parent Topic:**[[updating-records-safely|Updating records safely in Core UI]]
+**Parent Topic:**[Updating records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/updating-records-safely.md)
 
-## Related
-
-- [[updating-records-safely|Updating records safely in Core UI]]
-- [[c_DataManagement|Data Management]]

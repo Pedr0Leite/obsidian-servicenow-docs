@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Center, Upgrade, Administer the ServiceNow AI Platform]
 
 # Exploring Upgrade Center
 
-Get an overview of [[uc-landing-page|Upgrade Center]] so you can plan your upgrade ahead.
+Get an overview of Upgrade Center so you can plan your upgrade ahead.
 
 ## Upgrade Center overview
 
@@ -111,13 +111,9 @@ System administrator
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about [[uc-using|using Upgrade Center]], see:
+To learn more about using Upgrade Center, see:
 
 -   [Using Upgrade Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-using.md)
 -   [Administering Upgrade Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-administration.md)
 -   [Upgrade Center references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-reference.md)
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-using|Using Upgrade Center]]

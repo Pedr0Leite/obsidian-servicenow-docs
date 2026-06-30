@@ -26,7 +26,7 @@ Role required: sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Smart Assessment Triggers**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Smart Assessment Triggers**.
 
 2.  On the Workplace Smart Assessment Triggers form, select **New** and fill in the form fields.
 
@@ -100,6 +100,3 @@ Option to specify the case state that cannot be reached until the assessment is 
 
 **Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

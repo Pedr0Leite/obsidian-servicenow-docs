@@ -31,7 +31,7 @@ In a service map, you can configure or modify a specific CI or a generic CI clas
 **Note:** Visual representation of a manual cluster may differ from the visual representation of a cluster that is discovered automatically.
 
 -   **[Configure a manual cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-manual-cluster.md)**  
-Provide redundancy capabilities of an entire cluster in case of failure of one or more CIs in that cluster. By viewing the relative impact of a cluster member on the cluster information, you can better understand the source of alerts and take [[ccg-remediation|remediation]] steps.
+Provide redundancy capabilities of an entire cluster in case of failure of one or more CIs in that cluster. By viewing the relative impact of a cluster member on the cluster information, you can better understand the source of alerts and take remediation steps.
 -   **[Modify a manual cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/modify-a-manual-cluster.md)**  
 Modify an existing manual cluster by changing the service, the specific CI, the generic CI class, or the description in case of an incorrect initial configuration, changes in the network, or other issues.
 
@@ -42,6 +42,3 @@ Modify an existing manual cluster by changing the service, the specific CI, the 
 
 [Alert impact calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMImpactCalculation.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

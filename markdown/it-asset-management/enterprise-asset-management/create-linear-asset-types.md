@@ -33,7 +33,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate** &gt; **Linear asset types**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise asset estate** &gt; **Linear asset types**.
 
 2.  Select **New**.
 
@@ -45,6 +45,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
     The new linear asset type appears in the Linear asset types related list. If you don't see it in the related list, select the Refresh List icon on the right side of the page.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -25,7 +25,7 @@ The mobile experiences on Mobile Agent app for safety incidents available for sa
 -   **[Create or modify a safety incident on the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-modify-incident-mobile-agent.md)**  
 A safety agent can create or edit a safety incident through the Mobile Agent app.
 -   **[Create or modify injury and illness record of a safety incident on the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-modify-injury-illness-incidents-mobile-agent.md)**  
-Log an injury or illness that resulted from a [[health-safety-overview|health and safety]] incident for each person affected during the incident on the Mobile Agent app.
+Log an injury or illness that resulted from a health and safety incident for each person affected during the incident on the Mobile Agent app.
 -   **[Create or modify the people involved for a safety incident on the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-modify-peope-involved-incident-mobile-agent.md)**  
 Add a person involved or modify the information of an existing person involved in a safety incident using the Mobile Agent app.
 -   **[Create or modify root cause analysis of a safety incident on the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-modify-rca-incident-mobile-agent.md)**  
@@ -35,6 +35,3 @@ Add an action to address the root causes of the safety incident. You can add mul
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

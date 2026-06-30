@@ -18,11 +18,11 @@ The ServiceNow® mobile SDK enables users to develop native iOS and Android mobi
 
 The Mobile SDK gives you the ability to do the following:
 
--   Access ServiceNow [[mobile-config-navigation|mobile platform]]’s APIs from iOS and Android apps.
+-   Access ServiceNow mobile platform’s APIs from iOS and Android apps.
 -   Query data, embed, and enable Virtual Agent.
 -   Provide simple authentication flows leveraging JSON Web Tokens for third-party apps to authenticate and unauthenticated users.
 -   Embed authenticated web views.
--   Support [[sg-mobile-security-push-notif|push notifications]] triggered by the ServiceNow AI Platform.
+-   Support push notifications triggered by the ServiceNow AI Platform.
 -   Embed a real-time, AI-powered voice agent directly in your mobile application. NowVoice provides a full-screen voice interface that connects users to a ServiceNow voice agent, with live transcripts, mute controls, and post-call transcript sharing.
 
 For more details regarding the Mobile SDK, see the [Mobile SDK API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/cllent-mobile-api-reference/api-mobile_sdk.md).
@@ -49,7 +49,3 @@ NowVoice supports the following capabilities:
 
 To download the Mobile SDK, visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/application/52821846803120101040fe43e5b9ee8c). The iOS and Android Mobile SDK libraries can also be downloaded from the ServiceNow store.
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[sg-mobile-security-push-notif|Push notifications]]

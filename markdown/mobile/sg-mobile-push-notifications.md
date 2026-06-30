@@ -12,15 +12,15 @@ breadcrumb: [Before implementation, Configuration detail, Configuring the Mobile
 
 # Mobile push notifications
 
-Mobile push notifications are configurable pushed messages that appear directly in a mobile app. These [[sg-mobile-security-push-notif|push notifications]] are non-actionable or actionable, and are configured by administrators to meet the needs of their users.
+Mobile push notifications are configurable pushed messages that appear directly in a mobile app. These push notifications are non-actionable or actionable, and are configured by administrators to meet the needs of their users.
 
-Non-actionable notifications are created by configuring a mobile push notification and then using the mobile deep link generator to generate links that navigate users into any screen type within a mobile app. To learn more about the mobile deep link generator, see [[deep-link-mobile|Deep linking for mobile]].
+Non-actionable notifications are created by configuring a mobile push notification and then using the mobile deep link generator to generate links that navigate users into any screen type within a mobile app. To learn more about the mobile deep link generator, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 
-Actionable push notifications require you to perform additional steps, such as mapping functions for each push action. For more information about actionable notifications, see [[actionable-push-notification|Configure actionable push notifications]].
+Actionable push notifications require you to perform additional steps, such as mapping functions for each push action. For more information about actionable notifications, see [Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md).
 
-Define push notifications as critical when you require users to be immediately alerted to an event. Critical alerts override Do Not Disturb or Silent mode settings on your users' mobile device. For more information, see [[mobile-critical-alerts-create|Mobile critical alerts]].
+Define push notifications as critical when you require users to be immediately alerted to an event. Critical alerts override Do Not Disturb or Silent mode settings on your users' mobile device. For more information, see [Mobile critical alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-critical-alerts-create.md).
 
-You can target mobile push notifications for any of the specific ServiceNow [[mobile-config-navigation|Mobile Platform]] mobile apps.
+You can target mobile push notifications for any of the specific ServiceNow Mobile Platform mobile apps.
 
 ## Push notifications structure overview
 
@@ -34,40 +34,24 @@ In the Washington DC family release and later, you can now add push notification
 
 \[Omitted image "push-notif-in-mab.png"\] Alt text: Mobile app builder menu showing available push notifications
 
-Select **[[mobile-notifications|Mobile notifications]]** in the menu and then select the push notification you want to use. For more information about Mobile App Builder, see [[mab-concept|Mobile App Builder]].
+Select **Mobile notifications** in the menu and then select the push notification you want to use. For more information about Mobile App Builder, see [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md).
 
--   **[[configure-mobile-push-notifications|Mobile push notification components]]**  
+-   **[Mobile push notification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-push-notifications.md)**  
 Configure mobile push notifications to target a specific screen in one of the ServiceNow Mobile Platform applications.
--   **[[add-push-notifications-mobile-apps|Reuse push notifications across mobile apps]]**  
+-   **[Reuse push notifications across mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-push-notifications-mobile-apps.md)**  
 Reuse push notifications across mobile apps with Mobile App Builder \(MAB\). Push notifications are configurable pushed messages that appear directly in mobile apps. Using MAB to manage push notifications streamlines your mobile application development into one tool.
--   **[[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]]**  
+-   **[Configure push applications for iOS branded apps using certificate based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-push-setup-ios.md)**  
 Install an iOS push certificate to use push notifications on your branded ServiceNow mobile apps for iOS.
--   **[[config-push-ios-token|Configure push applications for iOS branded apps using a token]]**  
+-   **[Configure push applications for iOS branded apps using a token](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-push-ios-token.md)**  
 Use push notifications on your branded ServiceNow mobile apps for iOS using token-based authentication.
--   **[[config-push-setup-android-httpv1|Configure push applications for Android branded apps using HTTP v1]]**  
+-   **[Configure push applications for Android branded apps using HTTP v1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-push-setup-android-httpv1.md)**  
 Enter your Google Firebase Cloud Messaging push token authentication in your push application record to use push notifications on your branded ServiceNow mobile apps for Google Android.
 -   **[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)**  
 Include actions with your push notifications. Users can perform push notification actions without opening the app.
--   **[[notification-activity-stream|Configure notifications for mobile activity stream mentions]]**  
+-   **[Configure notifications for mobile activity stream mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/notification-activity-stream.md)**  
 Configure your instance to send an email notification or a push notification when a user mentions a contact’s name within a mobile activity stream record.
 -   **[Mobile critical alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-critical-alerts-create.md)**  
 Send your users critical alerts, even if they set their mobile device to Do Not Disturb or Silent mode. Configure these visual and audio alerts to be sent when an issue needs immediate attention. Example scenarios can be to inform the user of an essential update, or to publicize a major incident that requires a speedy response.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[actionable-push-notification|Configure actionable push notifications]]
-- [[mobile-critical-alerts-create|Mobile critical alerts]]
-- [[mab-concept|Mobile App Builder]]
-- [[configure-mobile-push-notifications|Mobile push notification components]]
-- [[add-push-notifications-mobile-apps|Reuse push notifications across mobile apps]]
-- [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]]
-- [[config-push-ios-token|Configure push applications for iOS branded apps using a token]]
-- [[config-push-setup-android-httpv1|Configure push applications for Android branded apps using HTTP v1]]
-- [[notification-activity-stream|Configure notifications for mobile activity stream mentions]]
-- [[imp-considerations|Considerations before implementation]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mobile-notifications|Mobile notifications]]

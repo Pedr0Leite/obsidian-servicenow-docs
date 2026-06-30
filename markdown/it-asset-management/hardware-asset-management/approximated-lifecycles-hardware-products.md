@@ -14,7 +14,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Approximated lifecycle and lifecycle code
 
-Leverage the expanded lifecycle coverage for hardware and consumable [[c_Models|models]] available in the ServiceNow® Content library portal when explicit dates from the manufacturer aren’t available. Hardware models with approximated lifecycle dates contain a lifecycle code that indicates the dates are approximate.
+Leverage the expanded lifecycle coverage for hardware and consumable models available in the ServiceNow® Content library portal when explicit dates from the manufacturer aren’t available. Hardware models with approximated lifecycle dates contain a lifecycle code that indicates the dates are approximate.
 
 When manufacturers don’t publish official life cycle dates for certain hardware models and consumables, the  ServiceNow® Content Service generates approximated life cycle dates. The approximated lifecycle dates are derived using data-driven approximation logic to determine the most likely life cycle phase dates for the hardware and consumable models.
 
@@ -38,7 +38,7 @@ The system property **approximate\_dates\_in\_hw\_lifecycle** determines whether
 
 ## Identifying models with approximated lifecycle dates
 
-In both the Hardware Model Lifecycles \[cmdb\_hardware\_model\_lifecycle\] and Consumable Model Lifecycles \[cmdb\_consumable\_model\_lifecycle\] tables, as well as in the [[model-management-view-am|Model management view]] within the [[using-ham-workspace|Hardware Asset Workspace]], the Lifecycle code column indicates if the model’s lifecycle phase and dates have been approximated.
+In both the Hardware Model Lifecycles \[cmdb\_hardware\_model\_lifecycle\] and Consumable Model Lifecycles \[cmdb\_consumable\_model\_lifecycle\] tables, as well as in the Model management view within the Hardware Asset Workspace, the Lifecycle code column indicates if the model’s lifecycle phase and dates have been approximated.
 
 -   If the Lifecycle code column contains a value, the model's lifecycle phase and dates are based on an approximated lifecycle code.
 -   If the Lifecycle code column is empty, the model's lifecycle dates are confirmed or explicit dates published by the manufacturer.
@@ -46,8 +46,3 @@ In both the Hardware Model Lifecycles \[cmdb\_hardware\_model\_lifecycle\] and C
 
 **Note:** When manually adding a new lifecycle record, such as a custom lifecycle or calculated lifecycle, you can't add a lifecycle code value. The lifecycle code is only available for lifecycle records that come directly from the ServiceNow Content Service and can’t be set for the user created lifecycle records.
 
-## Related
-
-- [[c_Models|Models]]
-- [[model-management-view-am|Model management view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

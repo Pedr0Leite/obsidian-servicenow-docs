@@ -65,8 +65,5 @@ The Customer Service Management \(CSM\) landing page gives agents an overview of
 8.  Select **Save** to save the landing page changes.
 
 
-**Parent Topic:**[[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md)
 
-## Related
-
-- [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]

@@ -27,11 +27,7 @@ Within a request, you can enter comments that are visible to the submitter, allo
 4.  To correspond with other agents, enter content that you do not want the submitter to see in the **Work notes** field.
 
 
-**Parent Topic:**[[c_FacilitiesRequests|Facilities requests]]
+**Parent Topic:**[Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)
 
-**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
-## Related
-
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[rm-sm-application|Request Management in a Service Management application]]

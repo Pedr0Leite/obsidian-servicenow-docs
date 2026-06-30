@@ -25,7 +25,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 The components that you can edit in Theme Builder were created in the ServiceNow AI Platform Design System. For more information, see [Next Experience Components](https://developer.servicenow.com/dev.do#!/reference/next-experience/components?releases[]=vancouver&query=&order_by=nameAsc&limit=120&offset=0&categories[]=uib_component&categories[]=uib_macroponent-component&categories[]=uib_facades) on the ServiceNow Developer Site.
 
-For instructions on editing the Unified Navigation component, see [[edit-unified-navigation-component|Align with your brand by using the Unified Navigation component]].
+For instructions on editing the Unified Navigation component, see [Align with your brand by using the Unified Navigation component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/edit-unified-navigation-component.md).
 
 The total number of accessibility violations is indicated on the red numbered badge icon \[Omitted image "tb-a11y-inspector-badge.png"\] Alt text: Accessibility inspector badge. alongside the Accessibility inspector panel.
 
@@ -51,7 +51,7 @@ The total number of accessibility violations is indicated on the red numbered ba
 
     \[Omitted image "tb-editing-tab.png"\] Alt text: Component styles Editing tab.
 
-    **Note:** The components that can be edited are displayed. For information on how to filter the list of components to locate the component you want to edit, see [[tb-preview-components|Preview components]].
+    **Note:** The components that can be edited are displayed. For information on how to filter the list of components to locate the component you want to edit, see [Preview components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-preview-components.md).
 
 6.  Select the component that you want to edit to access the Configurable Style panel.
 
@@ -59,7 +59,7 @@ The total number of accessibility violations is indicated on the red numbered ba
 
     \[Omitted image "tb-accessibility.png"\] Alt text: Accessibility error.
 
-    **Note:** The accessibility warning symbol indicates that the color contrast of the selected component doesn’t adhere to Web Content Accessibility Guidelines \(WCAG\) 2.1 accessibility standards for color contrast. For information on editing components with accessibility violations, see [[tb-adjust-component-wcag|Adjust a component to meet accessibility standards]].
+    **Note:** The accessibility warning symbol indicates that the color contrast of the selected component doesn’t adhere to Web Content Accessibility Guidelines \(WCAG\) 2.1 accessibility standards for color contrast. For information on editing components with accessibility violations, see [Adjust a component to meet accessibility standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-adjust-component-wcag.md).
 
 7.  From the Configurable style panel, edit the theme hooks that are available for the selected component, as needed.
 
@@ -85,7 +85,7 @@ The total number of accessibility violations is indicated on the red numbered ba
 
     \[Omitted image "tb-component-font-modal.png"\] Alt text: Edit font family selector modal.
 
-    **Note:** If you have uploaded a custom font, it will appear in the modal for selection. You can also upload a custom font directly from the selector modal making it available for use throughout your theme. For more information, see [[upload-custom-font|Upload a custom font to your theme]].
+    **Note:** If you have uploaded a custom font, it will appear in the modal for selection. You can also upload a custom font directly from the selector modal making it available for use throughout your theme. For more information, see [Upload a custom font to your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md).
 
 13. When you have completed your font changes, select **Save changes**.
 
@@ -113,12 +113,5 @@ The total number of accessibility violations is indicated on the red numbered ba
 
 ## Result
 
-If your theme is published, your component edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your component edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-## Related
-
-- [[edit-unified-navigation-component|Align with your brand by using the Unified Navigation component]]
-- [[tb-preview-components|Preview components]]
-- [[tb-adjust-component-wcag|Adjust a component to meet accessibility standards]]
-- [[upload-custom-font|Upload a custom font to your theme]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]

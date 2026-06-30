@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **__sys\_sg\_parameter\_screen.list__**.
 
-2.  Select the [[parameter-input-screen|input form screen]] on which you want to configure the attachment IDs.
+2.  Select the input form screen on which you want to configure the attachment IDs.
 
 3.  Navigate to the **Variables** tab.
 
@@ -33,9 +33,5 @@ Role required: admin
 6.  Select **Submit** to save your progress.
 
 
-**Parent Topic:**[[configure-lens-launcher-button|Configure a Lens launcher button]]
+**Parent Topic:**[Configure a Lens launcher button](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-lens-launcher-button.md)
 
-## Related
-
-- [[configure-lens-launcher-button|Configure a Lens launcher button]]
-- [[parameter-input-screen|Input form screen]]

@@ -14,7 +14,7 @@ breadcrumb: [Application services in Event Management, Configuring Event Managem
 
 # Assign a role to a service group
 
-Assign an [[c_EM|Event Management]] role to the application service group to ensure that group members can manage and act on alerts.
+Assign an Event Management role to the application service group to ensure that group members can manage and act on alerts.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: evt\_mgmt\_admin
 
 [Roles installed with Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/r_InstalledWithEventManagement.md)
 
-## Related
-
-- [[c_EM|Event Management]]

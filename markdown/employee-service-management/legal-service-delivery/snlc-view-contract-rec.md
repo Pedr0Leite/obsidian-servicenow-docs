@@ -22,7 +22,7 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -48,6 +48,3 @@ Role required: sn\_lg\_cnt.contract\_fulfiller
 
 [Manage clauses and contract templates]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

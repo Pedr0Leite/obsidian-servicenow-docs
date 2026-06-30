@@ -14,7 +14,7 @@ breadcrumb: [Legal Invention Disclosure, Legal Service Delivery Practice Applica
 
 # Legal Invention Disclosure reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the forms that you use in [[legal-invention-disclosure-landing|Legal Invention Disclosure]].
+Reference topics provide additional information about the forms that you use in Legal Invention Disclosure.
 
 -   **[Components installed with Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/components-installed-with-legal-idf.md)**  
 Several types of components are installed with activation of the Legal Invention Disclosure plugin, including tables and user role.
@@ -23,7 +23,3 @@ List of fields in the Legal Invention Disclosure request in the Legal Service Po
 
 **Parent Topic:**[Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-landing.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

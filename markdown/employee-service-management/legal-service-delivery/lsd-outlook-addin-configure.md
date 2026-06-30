@@ -14,14 +14,14 @@ breadcrumb: [Microsoft Outlook Add-In for Legal Service Delivery, Integration wi
 
 # Configure Microsoft Outlook Add-In for Legal Service Delivery
 
-Install and add the [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]] to your Microsoft Outlook and enable intake forms for submitting legal requestsor matters.
+Install and add the Microsoft Outlook Add-In for Legal Service Delivery to your Microsoft Outlook and enable intake forms for submitting legal requestsor matters.
 
 -   **[Activate Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-install-outlook-addin.md)**  
-You can activate the Microsoft Outlook Add-In for Legal Service Delivery plugin \(sn\_lg\_outlook\) for [[legal-management-overview|Legal Service Delivery]] if you have the admin role.
+You can activate the Microsoft Outlook Add-In for Legal Service Delivery plugin \(sn\_lg\_outlook\) for Legal Service Delivery if you have the admin role.
 -   **[Download Microsoft Outlook Add-In for Legal Service Delivery manifest file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlk-addin-manifest-file.md)**  
-As an admin, [[lsd-outlk-addin-manifest-file|download Microsoft Outlook Add-In for Legal Service Delivery manifest file]].
+As an admin, download Microsoft Outlook Add-In for Legal Service Delivery manifest file.
 -   **[Deploy Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-enable-outllook-addin.md)**  
-[[lsd-enable-outllook-addin|Deploy Microsoft Outlook Add-In for Legal Service Delivery]] for it to be available in Microsoft Outlook to submit legal requests.
+Deploy Microsoft Outlook Add-In for Legal Service Delivery for it to be available in Microsoft Outlook to submit legal requests.
 -   **[Enable intake forms for Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-enable-intake-forms-addin.md)**  
 Enable intake forms to be available as categories while submitting legal requests or mattersfrom Microsoft Outlook using Microsoft Outlook Add-In for Legal Service Delivery.
 -   **[Auto populate information from email to legal request or matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-adddin-map-fields.md)**  
@@ -29,9 +29,3 @@ Map the sender's email address, email content, and subject field from an email t
 
 **Parent Topic:**[Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-landing.md)
 
-## Related
-
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[lsd-outlk-addin-manifest-file|Download Microsoft Outlook Add-In for Legal Service Delivery manifest file]]
-- [[lsd-enable-outllook-addin|Deploy Microsoft Outlook Add-In for Legal Service Delivery]]

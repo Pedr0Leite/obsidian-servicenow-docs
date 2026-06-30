@@ -12,7 +12,7 @@ breadcrumb: [Use Task Intelligence, Automate and optimize, Use, Customer Service
 
 # View Task Intelligence Analytics
 
-View the Task [[intelligence-csm|Intelligence]] for CSM Analytics dashboard to monitor the model performance over time, track the business value, and see what predictions your agents did or didn't use.
+View the Task Intelligence for CSM Analytics dashboard to monitor the model performance over time, track the business value, and see what predictions your agents did or didn't use.
 
 The dashboard uses visual representations to provide you with an overview of how each model is performing. You can see the number of predictions from each model and the overall mean time that it takes to resolve the cases in your organization.
 
@@ -45,7 +45,7 @@ The dashboard uses visual representations to help you monitor the utilization of
 
 -   **Predictions agents accepted**
 
-    The widget shows the correct predictions that your agents used during [[case-management|case management]] over time. If this number is trending downward, you can look to retrain your model.
+    The widget shows the correct predictions that your agents used during case management over time. If this number is trending downward, you can look to retrain your model.
 
 -   **Predictions agents replaced**
 
@@ -61,7 +61,7 @@ The dashboard uses visual representations to help you monitor the utilization of
 
 -   **Track usage of individual field predictions over time**
 
-    The bar chart [[gamification-components-tracks|tracks]] the usage of the individual field predictions over time. Each bar in the chart shows three components, which are the predictions accepted, the predictions replaced, and the predictions that were skipped by the model. A red outline around each bar represents the total number of records for each day. To compare specific components, navigate to the legends and deselect the ones that you don't want to include so that you can have a more customized and focused comparison based on user preferences. By default, the view displays the number of predictions. However, you have the option to switch to the percentage view by toggling the **Show Percentage** option. In the percentage view, you can also access the information about the baseline that was replaced and accepted, which is derived from the training data. This option enables you to gain insights into the performance of the model with the baseline.
+    The bar chart tracks the usage of the individual field predictions over time. Each bar in the chart shows three components, which are the predictions accepted, the predictions replaced, and the predictions that were skipped by the model. A red outline around each bar represents the total number of records for each day. To compare specific components, navigate to the legends and deselect the ones that you don't want to include so that you can have a more customized and focused comparison based on user preferences. By default, the view displays the number of predictions. However, you have the option to switch to the percentage view by toggling the **Show Percentage** option. In the percentage view, you can also access the information about the baseline that was replaced and accepted, which is derived from the training data. This option enables you to gain insights into the performance of the model with the baseline.
 
 -   **Track usage of model predictions over time**
 
@@ -75,20 +75,13 @@ The dashboard uses visual representations to help you monitor the utilization of
 
 ## Using Task Intelligence analytics
 
-Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Monitoring** to access the Task Intelligence Analytics page.
+Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Monitoring** to access the Task Intelligence Analytics page.
 
 You can view the analytics for all of your models or each individual model. To select a model, do the following actions:
 
 1.  Select **Model** to access analytics for an individual model.
-2.  Select a model from the list of models that have been created from the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+2.  Select a model from the list of models that have been created from the Task Intelligence Admin Console.
 3.  Select **Apply**.
 
 To clear the selected model, select **Model** and then select **Clear**.
 
-## Related
-
-- [[intelligence-csm|Intelligence]]
-- [[case-management|Case management]]
-- [[gamification-components-tracks|Tracks]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]

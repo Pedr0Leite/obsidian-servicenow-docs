@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience, IT Service Management]
 
 # Manage Walk-up Experience queue and interaction
 
-[[walkup-experience-landing-page|Walk-up Experience]] managers and agents can efficiently manage all aspects of a walk-up location queue and interactions. Agents can view assigned walk-up locations, interactions, and associated stockrooms used for fulfilling the walk-up requests.
+Walk-up Experience managers and agents can efficiently manage all aspects of a walk-up location queue and interactions. Agents can view assigned walk-up locations, interactions, and associated stockrooms used for fulfilling the walk-up requests.
 
 Walk-up Experience helps the agents to organize and manage walk-up queues.
 
@@ -42,7 +42,7 @@ Walk-up Experience also includes **Agent** module in the application navigator w
 -   Create incidents and requests when necessary.
 -   Transfer walk-up interactions to other agents or queue locations when necessary.
 
-The following [[dex-workspace-application-tab|applications]] are included in the **Agent** module of the Walk-up Experience navigation bar as well as viewed in the Agent Workspace Walk-up Experience interface:
+The following applications are included in the **Agent** module of the Walk-up Experience navigation bar as well as viewed in the Agent Workspace Walk-up Experience interface:
 
 <table id="table_mlz_tdy_xfb"><thead><tr><th>
 
@@ -138,7 +138,3 @@ Viewing upcoming scheduled Walk-up Experience appointments provides technicians 
 
 **Parent Topic:**[Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-application-tab|Applications]]

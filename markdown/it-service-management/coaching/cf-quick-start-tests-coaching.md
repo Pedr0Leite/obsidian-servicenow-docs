@@ -14,7 +14,7 @@ breadcrumb: [Reference, Coaching, IT Service Management]
 
 # Quick start tests for Coaching
 
-Validate that [[cf-coaching-landing|Coaching]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Coaching still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Coaching quick start tests require activating the Coaching plugin \(com.sn\_coaching\).
 
@@ -38,6 +38,3 @@ Coaching quick start tests require activating the Coaching plugin \(com.sn\_coac
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

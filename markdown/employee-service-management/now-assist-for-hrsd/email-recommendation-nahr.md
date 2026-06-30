@@ -66,7 +66,7 @@ Description
 
 </td></tr><tr><td id="d204111e214">
 
-**Compose an email from [[activity-lxp|Activity]] stream**
+**Compose an email from Activity stream**
 
 </td><td>
 
@@ -125,7 +125,7 @@ Shows email template recommendations while composing an email.
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -155,7 +155,3 @@ Shows email template recommendations while composing an email.
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-service-delivery|HR Service Delivery]]

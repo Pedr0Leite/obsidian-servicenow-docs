@@ -14,7 +14,7 @@ breadcrumb: [Explore, Digital Factory Workspace, Industrial Connected Workforce]
 
 # AI Search in Digital Factory Workspace
 
-Access the AI Search for [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] by using the search bar. The system interprets queries to return the most relevant results across configured record types, such as standards, tasks, and knowledge articles.
+Access the AI Search for Digital Factory Workspace by using the search bar. The system interprets queries to return the most relevant results across configured record types, such as standards, tasks, and knowledge articles.
 
 ## AI Search in the Digital Factory Workspace
 
@@ -55,6 +55,3 @@ To learn more about the AI Search capability, see [Searching in AI Search](https
 
 **Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

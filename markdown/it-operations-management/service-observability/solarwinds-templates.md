@@ -14,7 +14,7 @@ breadcrumb: [Service Observability templates, Service Observability reference, S
 
 # SolarWinds templates for Service Observability
 
-Templates used to create SolarWinds [[otto-aiops-dashboards|dashboards]] in [[service-observability|Service Observability]]. You can edit these templates as needed.
+Templates used to create SolarWinds dashboards in Service Observability. You can edit these templates as needed.
 
 See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md) for more information.
 
@@ -25,7 +25,3 @@ Dashboard and charts on the SolarWinds Observability tab of the Service Details 
 
 **Parent Topic:**[Service Observability templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[service-observability|Service Observability]]

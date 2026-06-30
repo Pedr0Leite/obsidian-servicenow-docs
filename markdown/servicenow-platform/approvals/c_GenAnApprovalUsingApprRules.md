@@ -20,7 +20,7 @@ In the sample below, a change opened in the category **network** is assigned to 
 
 \[Omitted image "ApprovalRules.png"\] Alt text:
 
-When an approver is automatically added based on [[c_ApprovalRules|approval rules]], the status of the approval automatically defaults to "Requested".
+When an approver is automatically added based on approval rules, the status of the approval automatically defaults to "Requested".
 
 **Parent Topic:**[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
@@ -29,6 +29,3 @@ When an approver is automatically added based on [[c_ApprovalRules|approval rule
 
 [Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
-## Related
-
-- [[c_ApprovalRules|Approval rules]]

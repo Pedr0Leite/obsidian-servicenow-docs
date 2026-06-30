@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Configure hiring task types
 
-Configure different types of [[applicant-tasks-recruitr|hiring tasks]] in the [[recruitment-workspace-concept|Recruitment workspace]] for efficient task management.
+Configure different types of hiring tasks in the Recruitment workspace for efficient task management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_uni\_task.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Universal Tasks** &gt; **Administration** &gt; **[[universal-task-landing|Universal Task]] Configurations**.
+1.  Navigate to **All** &gt; **Universal Tasks** &gt; **Administration** &gt; **Universal Task Configurations**.
 
 2.  In the default Job Application \[sn\_ta\_hiring\_core\_job\_application\] table, add more tasks in **Task types**.
 
@@ -30,7 +30,7 @@ Role required: sn\_uni\_task.admin
 
     -   **Submit Catalog Item**
     -   **Checklist**
-    -   **[[employee-form-configuration|Collect Employee Input]]**
+    -   **Collect Employee Input**
 3.  Select **Update** to save your changes to the record table.
 
 
@@ -41,9 +41,3 @@ Role required: sn\_uni\_task.admin
 
 [Map task types in Recruitment workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-task-mapping.md)
 
-## Related
-
-- [[applicant-tasks-recruitr|Hiring tasks]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[universal-task-landing|Universal Task]]
-- [[employee-form-configuration|Collect employee input]]

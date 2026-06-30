@@ -14,7 +14,7 @@ breadcrumb: [Reference, Compliance Case Management, Governance, Risk, and Compli
 
 # Tables installed with Compliance Case Management
 
-Tables are added with the activation of the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Tables are added with the activation of the GRC: Compliance Case Management application.
 
 See the following table for a description of the tables that were added with the GRC: Compliance Case Management application.
 
@@ -169,6 +169,3 @@ Stores the compliance case records.
 </td></tr></tbody>
 </table>**Parent Topic:**[Compliance Case Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reference-data-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

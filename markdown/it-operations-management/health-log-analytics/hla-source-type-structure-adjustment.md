@@ -15,7 +15,7 @@ breadcrumb: [Set up HLA on your instance, Configuring, Health Log Analytics, ITO
 
 # Source type structure adjustment in Health Log Analytics
 
-[[hla-landing-page|Health Log Analytics]] \(HLA\) enables you to reclassify auto-classified log properties and change auto-mapped labels. These adjustments help HLA machine learning analyze your data accurately.
+Health Log Analytics \(HLA\) enables you to reclassify auto-classified log properties and change auto-mapped labels. These adjustments help HLA machine learning analyze your data accurately.
 
 ## What HLA does automatically
 
@@ -75,6 +75,3 @@ Fine-tune how Health Log Analytics reads your inner log messages and detects ano
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

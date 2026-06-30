@@ -12,7 +12,7 @@ breadcrumb: [Configuring Model Context Protocol Client, Model Context Protocol C
 
 # Model Context Protocol Client reference
 
-Find more information about user roles, tables, and the different properties that are installed with the [[mcp-client|Model Context Protocol Client]] application.
+Find more information about user roles, tables, and the different properties that are installed with the Model Context Protocol Client application.
 
 ## MCP Client Roles
 
@@ -106,7 +106,3 @@ Lists the MCP Servers.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mcp-client|Model Context Protocol Client]]

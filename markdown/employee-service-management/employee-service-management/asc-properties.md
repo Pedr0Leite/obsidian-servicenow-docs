@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Properties for Alumni Center
 
-Use properties to control the behavior of the [[alumni-service-center|Alumni Center]].
+Use properties to control the behavior of the Alumni Center.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ sn\_asc.top\_alumni\_services
 
 </td><td>
 
-[[hr-service-administration|HR services]] that are to be displayed in the **Request top alumni services** widget in the Alumni Center home page.
+HR services that are to be displayed in the **Request top alumni services** widget in the Alumni Center home page.
 
 </td></tr><tr><td>
 
@@ -59,7 +59,4 @@ List of alumni user \(sn\_asc\_user\) field names, that will be excluded from co
 
 4.  Select **Save**.
 
-## Related
 
-- [[alumni-service-center|Alumni Center]]
-- [[hr-service-administration|HR services]]

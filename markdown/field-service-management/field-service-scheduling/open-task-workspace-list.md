@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Open tasks from the list in CSM/FSM Configurable Workspace
 
-Quickly open tasks from the list in CSM/FSM Configurable Workspace and see them in [[dispatcher-activities|Dispatcher Workspace]] to act on them without searching.
+Quickly open tasks from the list in CSM/FSM Configurable Workspace and see them in Dispatcher Workspace to act on them without searching.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ When you open multiple tasks, Dispatcher Workspace displays today's date, not th
 
     The tasks open in Dispatcher Workspace in a new tab. You can save the URL to open the same work order tasks in Dispatcher Workspace later.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

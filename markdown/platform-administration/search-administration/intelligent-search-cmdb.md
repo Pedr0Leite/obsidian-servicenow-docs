@@ -47,11 +47,11 @@ Use Intelligent Search:
 -   **Search tips**: Shows details and tips about the usage, and examples for single and multi-table search, advanced filtering, and relationships in Intelligent Search. The Relationships tab contains a link to the [CMDB Implicit Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/intelligent-search-cmdb.md) table.
 -   **Search**: Depending on whether the search string is already fully converted into a valid CMDB query and whether the search is for a single or multiple tables.
 
-    -   If the search string has no ambiguities with the table name or relationships, then the query runs and the [[hs-results|results]] appear in a list view format.
+    -   If the search string has no ambiguities with the table name or relationships, then the query runs and the results appear in a list view format.
 
         If the constructed CMDB query contains more than a single table, then the **View in Query Builder** button appears. Click the button to open the [CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/querying-cmdb.md) with your query fully constructed on the Query Builder canvas. You can use the Query Builder to continue editing the query.
 
-    -   If there are any ambiguities with table names or relationship types in the search string, then the search string can't be converted into a valid CMDB query. In this case, the Refine your query dialog box appears to continue and parse your search string into a valid CMDB query. The dialog box contains suggested [[synonyms-ais|synonyms]] and labels for phrases in your search string. Use the drop-down lists to select the synonyms that match your intended search and then click **Go** to run the query.
+    -   If there are any ambiguities with table names or relationship types in the search string, then the search string can't be converted into a valid CMDB query. In this case, the Refine your query dialog box appears to continue and parse your search string into a valid CMDB query. The dialog box contains suggested synonyms and labels for phrases in your search string. Use the drop-down lists to select the synonyms that match your intended search and then click **Go** to run the query.
     -   If Intelligent Search is unable to convert your search string into a valid CMDB query, then clicking **Search** does not generate any query results. Instead, a feedback form appears. Fill out the form and click **Submit Feedback** to send your feedback to ServiceNow analysis.
 -   **Results Feedback**: Submit feedback to ServiceNow analysts, to express your assessment of the results. Choose descriptions that capture any gap between the results and your expected results, and add any helpful details.
 
@@ -92,7 +92,3 @@ Implicit relationships are stored in the NLQ CMDB Implicit Relationship \[nlq\_c
 
 For more information about NLQ in the ServiceNow AI Platform, see [Natural Language Query \(NLQ\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/natural-language-query.md).
 
-## Related
-
-- [[hs-results|Results]]
-- [[synonyms-ais|Synonyms]]

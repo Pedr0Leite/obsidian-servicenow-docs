@@ -14,7 +14,7 @@ breadcrumb: [Configure webhooks, Working with Webhooks, Administer, Threat Intel
 
 # Subscribe Triggers
 
-View the list of all the subscribed [[tisc-triggers|webhook triggers]] for the current webhook.
+View the list of all the subscribed webhook triggers for the current webhook.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Webhooks Configurations** &gt; **Webhooks**.
 
@@ -45,7 +45,3 @@ Role required: sn\_sec\_tisc.admin
 
 **Parent Topic:**[Configure webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 
-## Related
-
-- [[tisc-triggers|Webhook Triggers]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

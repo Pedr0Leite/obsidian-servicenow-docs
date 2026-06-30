@@ -14,9 +14,9 @@ breadcrumb: [Setting up primary data Shopping, Configure, Sourcing and Procureme
 
 # Ledger assignment rules
 
-When a purchase line is created for a [[purchase-requisition|purchase requisition]] on the ShoppingHub portal, the details of capex account, expense account, and pre-paid account are auto-populated based on applicable ledger assignment rules.
+When a purchase line is created for a purchase requisition on the ShoppingHub portal, the details of capex account, expense account, and pre-paid account are auto-populated based on applicable ledger assignment rules.
 
-The [[legal-entity|legal entity]] from a purchase requisition or a [[sourcing-request|sourcing request]] determines its [[erp-source|ERP source]]. This ERP source determines the appropriate ledger assignment rule for a product category, product model, [[supplier|supplier]] product, and a [[cost-center|cost center]].
+The legal entity from a purchase requisition or a sourcing request determines its ERP source. This ERP source determines the appropriate ledger assignment rule for a product category, product model, supplier product, and a cost center.
 
 For a purchase line, if rules are found for the supplier product, the related product model, and its product category, then the priority of in which those rules are triggered is in this order:
 
@@ -32,16 +32,7 @@ For a purchase line, if rules are found for the supplier product, the related pr
 **Note:** If you have multiple ERP sources, you can create multiple rules but each rule can correspond to only one ERP source.
 
 -   **[Create ledger assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-ledger-assignment-rules.md)**  
-Automate [[ledger-account|ledger account]] assignment for a purchase line by relating ledger accounts to a supplier product, product model, product category, spend category, and cost center.
+Automate ledger account assignment for a purchase line by relating ledger accounts to a supplier product, product model, product category, spend category, and cost center.
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[legal-entity|Legal entity]]
-- [[sourcing-request|Sourcing request]]
-- [[erp-source|ERP source]]
-- [[supplier|Supplier]]
-- [[cost-center|Cost center]]
-- [[ledger-account|Ledger account]]

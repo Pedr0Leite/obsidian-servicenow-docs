@@ -14,7 +14,7 @@ breadcrumb: [Software discovery models in the legacy Software Asset Management p
 
 # Edit a software discovery model using the legacy Software Asset Management plugin
 
-You can edit only the **Software model** field and **Approved** check box on the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin Software Discovery [[c_Models|Models]] form.
+You can edit only the **Software model** field and **Approved** check box on the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin Software Discovery Models form.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ None of the software discovery model records are approved when they are created.
 
 **Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UsingSoftwareDiscoveryModels.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Models|Models]]

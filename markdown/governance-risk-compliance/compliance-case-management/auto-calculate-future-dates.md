@@ -26,7 +26,7 @@ Apply rule-based conditions on a combination of agency, regulation or jurisdicti
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[compliance-case-management|Compliance Case Management]]** &gt; **Due Date Configurations** &gt; **New**.
+1.  Navigate to **All** &gt; **Compliance Case Management** &gt; **Due Date Configurations** &gt; **New**.
 
 2.  Enter a **Name** for the rule configuration.
 
@@ -53,6 +53,3 @@ Apply rule-based conditions on a combination of agency, regulation or jurisdicti
 
 **Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/use-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

@@ -14,7 +14,7 @@ breadcrumb: [Client Credentials Grant, Inbound integrations, OAuth Inbound, OAut
 
 # Configure an OAuth Client credential grant
 
-Configure the [[oauth-inbound-and-outbound|OAuth]] [[client-credential-grant|Client Credentials Grant]] for secure machine-to-machine [[c_Authentication|authentication]] without user interaction. It authenticates applications using [[client-credentials|client credentials]] and grants-controlled API access with scoped permissions.
+Configure the OAuth Client Credentials Grant for secure machine-to-machine authentication without user interaction. It authenticates applications using client credentials and grants-controlled API access with scoped permissions.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: `oauth_admin, mi_admin, admin`
 
 ## Procedure
 
-1.  Navigate to **[[machine-identity-console|Machine Identity Console]]** &gt; **** &gt; **[[inbound-integrations|Inbound integrations]]** &gt; **** &gt; **New integration** &gt; **OAuth Client credential grant**.
+1.  Navigate to **Machine Identity Console** &gt; **** &gt; **Inbound integrations** &gt; **** &gt; **New integration** &gt; **OAuth Client credential grant**.
 
-    The OAuth Client credential [[sc-configuration|configuration]] page appears.
+    The OAuth Client credential configuration page appears.
 
 2.  Update the text fields in the Details form with the appropriate information.
 
@@ -101,7 +101,7 @@ Enforce token restriction
 
 </td><td>
 
-The Enforce token restriction option limits the client to accessing only the APIs specified in the [[inbound-authentication-profile|REST API Access Policies]]. If you unselect it, the client can access other REST APIs based on the user ACL permissions.
+The Enforce token restriction option limits the client to accessing only the APIs specified in the REST API Access Policies. If you unselect it, the client can access other REST APIs based on the user ACL permissions.
 
 </td></tr><tr><td>
 
@@ -132,13 +132,4 @@ Duration \(in seconds\) for which the OAuth access token remains valid before it
 
 7.  Go to **All** &gt; **Inbound integrations** &gt; **Application Registries** to view the newly created client credential grant.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[client-credential-grant|Client credentials grant]]
-- [[c_Authentication|Authentication]]
-- [[client-credentials|Client Credentials]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[inbound-integrations|Inbound integrations]]
-- [[sc-configuration|Configuration]]
-- [[inbound-authentication-profile|REST API access policies]]

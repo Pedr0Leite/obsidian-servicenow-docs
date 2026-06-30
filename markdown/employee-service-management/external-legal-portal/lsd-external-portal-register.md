@@ -14,7 +14,7 @@ breadcrumb: [Using External Legal Service Center, External Legal Service Center,
 
 # Register with External Legal Service Center
 
-To submit a request for legal services, register yourself with the [[lsd-ext-portal-landing-page|External Legal Service Center]].
+To submit a request for legal services, register yourself with the External Legal Service Center.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: sn\_lg\_ext\_portal.ext\_user
 
     Your self-registration is complete. You can now log in to the External Legal Service Center.
 
-## Related
 
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

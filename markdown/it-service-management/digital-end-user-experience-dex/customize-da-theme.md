@@ -62,7 +62,7 @@ The selected theme is updated in the **Theme** field of the Desktop Assistant fo
 2.  In the preview dialog box, select **Open Record**.
 3.  In the **CSS variables** section, modify the predefined variables in one of the following ways:
     -   Direct value assignment: Assign values directly to the variables. For example, `$sp-space—xl: 4px;`
-    -   Indirect value assignment: Create a [[reference-for-itsm-mobile-agent|reference]] to an existing variable by assigning to a variable the value of another variable. For example, `$badge-color: $text-white;`
+    -   Indirect value assignment: Create a reference to an existing variable by assigning to a variable the value of another variable. For example, `$badge-color: $text-white;`
     -   Using the ceil \(\) function: Calculate a variable value and use the ceil \(\) function to round up the value to the nearest whole number. For example, `ceil(($font-size-base * 1.125)) // 18px;`
 4.  Select **Update**.
 
@@ -90,6 +90,4 @@ The selected theme is updated in the **Theme** field of the Desktop Assistant fo
 </td></tr></tbody>
 </table>    For more information, see [Variables to customize a theme for Desktop Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/da-theme-variables.md).
 
-## Related
 
-- [[reference-for-itsm-mobile-agent|Reference]]

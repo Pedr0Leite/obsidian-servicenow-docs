@@ -14,7 +14,7 @@ breadcrumb: [Administer, Dependency Views, Configuration Management Database \(C
 
 # Create or modify Map Related Items
 
-The Map Related Items module relates referenced CIs to one another, which allows them to be displayed in a [[c_NextGenBSMMaps|Dependency Views map]].
+The Map Related Items module relates referenced CIs to one another, which allows them to be displayed in a Dependency Views map.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The base system configuration includes the following tables and relates them to 
 
 Some additional referenced CIs that can be related in this manner are file systems and running processes.
 
-In the following example, computer nodes in the map are related to network adapter nodes if the **Configuration Item** field of the adapter records [[reference|reference]] the specific CI node. Access or create a network adapter record from the Network Adapter related list in the cmdb\_ci\_computer record.
+In the following example, computer nodes in the map are related to network adapter nodes if the **Configuration Item** field of the adapter records reference the specific CI node. Access or create a network adapter record from the Network Adapter related list in the cmdb\_ci\_computer record.
 
 \[Omitted image "NGBSMRelatedItems2.png"\] Alt text: CIs related by depencency.
 
@@ -38,7 +38,7 @@ The Dependency Views map for the \*JEMPLOYEE-IBM computer shows the network adap
 
 \[Omitted image "DepViewsExample01.png"\] Alt text: Dependency Views map displaying related CIs.
 
-You can configure [[c_BusinesssServiceManagementMaps|Dependency Views]] to display CIs that have no relationship record, but are related to other CIs by reference fields.
+You can configure Dependency Views to display CIs that have no relationship record, but are related to other CIs by reference fields.
 
 ## Procedure
 
@@ -79,8 +79,3 @@ You can configure [[c_BusinesssServiceManagementMaps|Dependency Views]] to displ
 
 [Create or edit a dependency type]()
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[reference|Reference]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

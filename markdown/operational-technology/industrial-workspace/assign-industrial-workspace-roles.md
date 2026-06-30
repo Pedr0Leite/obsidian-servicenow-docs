@@ -26,7 +26,7 @@ Users with the role that are listed in the following table can access the Guided
 
 |Role|Description|
 |----|-----------|
-|Configure [[industrial-workspace-for-operational-technology|Industrial Workspace]] \[configure\_industrial\_workspace\]|Can access the Industrial Workspace and the Guided Setup for the OT Action-Oriented Landing Page and the OT Progress Scorecard.|
+|Configure Industrial Workspace \[configure\_industrial\_workspace\]|Can access the Industrial Workspace and the Guided Setup for the OT Action-Oriented Landing Page and the OT Progress Scorecard.|
 
 ## Procedure
 
@@ -40,6 +40,3 @@ Users with the role that are listed in the following table can access the Guided
 
 **Parent Topic:**[Configuring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configuring-industrial-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

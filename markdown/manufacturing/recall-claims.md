@@ -12,7 +12,7 @@ breadcrumb: [Data model, Reference, Manufacturing Commercial Operations]
 
 # Recall campaign data model
 
-The [[mco-rcl-clms|recall campaign]] framework enables you to initiate the reimbursement claim request from the OEM for the recalled products.
+The recall campaign framework enables you to initiate the reimbursement claim request from the OEM for the recalled products.
 
 A recall is a measure taken by the manufactures when they identify a safety issue or defect with the product. The recall process launched by the manufacturers or OEM involves the following tasks:
 
@@ -28,14 +28,8 @@ A recall is initiated when a particular defect impacts a significant number of p
 
 \[Omitted image "Data-model-recall-campaign.png"\] Alt text: Decorative
 
--   **[[recall-claims-table|Recall campaign tables]]**  
-This section explains the recall campaign tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+-   **[Recall campaign tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/recall-claims-table.md)**  
+This section explains the recall campaign tables in Manufacturing Commercial Operations.
 
-**Parent Topic:**[[data-model|Data model]]
+**Parent Topic:**[Data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/data-model.md)
 
-## Related
-
-- [[recall-claims-table|Recall campaign tables]]
-- [[data-model|Data model]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

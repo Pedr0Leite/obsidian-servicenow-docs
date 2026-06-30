@@ -45,7 +45,7 @@ Role required: admin
 
 ## Result
 
-The script specifies the related contract repository tables and their [[field-mappings-sf|field mappings]]. After metadata extraction, values from these fields are added according to the defined mapping.
+The script specifies the related contract repository tables and their field mappings. After metadata extraction, values from these fields are added according to the defined mapping.
 
 For more information on metadata extraction use case mapping, see [Map a use case for contract metadata extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-mappings-me.md).
 
@@ -64,6 +64,3 @@ For more information on metadata extraction use case mapping, see [Map a use cas
 
 [Configure the workspace URL for contract metadata extraction notifications]()
 
-## Related
-
-- [[field-mappings-sf|Field mappings]]

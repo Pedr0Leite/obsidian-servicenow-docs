@@ -15,7 +15,7 @@ breadcrumb: [Create a deviation, Use, Industrial Connected Workforce Mobile Expe
 
 # Generate an action plan using AI Enhanced recommended actions for ICW Mobile
 
-Generate an action plan to document and track remediation steps for an [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] \(ICW Mobile\) deviation. Action plans help you organize tasks, assign responsibilities, and monitor progress toward resolution.
+Generate an action plan to document and track remediation steps for an Industrial Connected Workforce Mobile Experience \(ICW Mobile\) deviation. Action plans help you organize tasks, assign responsibilities, and monitor progress toward resolution.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ The AI Enhanced recommended actions for ICW Mobile enables you to generate a str
 
 6.  In the generated action plan, select the **More** \(\[Omitted image "more-actions-vertical.png"\] Alt text:\) icon and then select **Create follow-up actions**.
 
-    Use this option to [[create-follow-up-action|create a follow-up action]] for either the entire action plan or a step listed in the action plan.
+    Use this option to create a follow-up action for either the entire action plan or a step listed in the action plan.
 
 7.  Select the **Related** tab to view the follow-up action you have created.
 
@@ -59,13 +59,7 @@ You can also track and continue working on the follow-up actions.
 
 [Contextualize an external document using AI Enhanced recommended actions for ICW Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/use-ai-enhanced-ra-icw-mobile.md)
 
-[[exploring-ai-enhanced-ra-icw|AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)]]
+[AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/exploring-ai-enhanced-ra-icw.md)
 
-[[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
+[Configure AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-ai-enhanced-ra-icw.md)
 
-## Related
-
-- [[exploring-ai-enhanced-ra-icw|AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)]]
-- [[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[create-follow-up-action|Create a follow-up action]]

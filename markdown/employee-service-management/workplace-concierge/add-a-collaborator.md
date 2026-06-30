@@ -45,7 +45,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 The selected employees are added as your collaborators. You can view their in-office routine from the Employee Presence page.
 
-At any time, you can also [[remove-a-collaborator|remove a collaborator]]. For more information, see [Remove a collaborator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/remove-a-collaborator.md).
+At any time, you can also remove a collaborator. For more information, see [Remove a collaborator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/remove-a-collaborator.md).
 
 **Parent Topic:**[Set Employee Presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/use-workplace-concierge.md)
 
@@ -62,6 +62,3 @@ At any time, you can also [[remove-a-collaborator|remove a collaborator]]. For m
 
 [Managing presence privacy settings]()
 
-## Related
-
-- [[remove-a-collaborator|Remove a collaborator]]

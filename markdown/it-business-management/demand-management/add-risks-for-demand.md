@@ -32,7 +32,7 @@ A risk is any uncertain event that can potentially impact the success or outcome
 
 3.  From the Risks related list, select **New**.
 
-4.  On the [[risk-form|Risk form]], fill in the fields.
+4.  On the Risk form, fill in the fields.
 
     For a description of the field names, see [Risk form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/risk-form.md).
 
@@ -49,6 +49,3 @@ Configure custom risk rank and value scores \(such as High-Medium, Medium-Low, o
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[risk-form|Risk form]]

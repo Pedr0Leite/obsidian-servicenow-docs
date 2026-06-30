@@ -23,7 +23,7 @@ Cilium must already be installed and running in the target Kubernetes cluster. S
 
 This feature is not supported on OpenShift.
 
-Role required: [[r-discovery|discovery]]\_admin.
+Role required: discovery\_admin.
 
 ## About this task
 
@@ -48,6 +48,3 @@ This method requires fewer permissions than the ServiceNow DaemonSet method and 
 
 **Parent Topic:**[Enabling application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enabling-application-service-maps.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -12,7 +12,7 @@ breadcrumb: [Create support requests using Care Team Mobile, Care Team Mobile, H
 
 # Browse locations to create a support request in Care Team Mobile
 
-Use **Browse locations** in [[care-team-mobile-landing|Care Team Mobile]] to browse and create support requests for specific locations.
+Use **Browse locations** in Care Team Mobile to browse and create support requests for specific locations.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: Team member, Team manager
 
     The location information will automatically populate into the request.
 
-## Related
 
-- [[care-team-mobile-landing|Care Team Mobile]]

@@ -14,7 +14,7 @@ breadcrumb: [Resource Management classic, Project Portfolio Management, Strategi
 
 # Migration of resource plans, operational resource plans, and cost plans
 
-Migrate [[c_ResourcePlans|resource plans]] to resource assignments and the associated cost plans to attribute-based labor costs of your projects or demands and easily work on resource allocations using [[project-workspace-landing-page|Project Workspace]].
+Migrate resource plans to resource assignments and the associated cost plans to attribute-based labor costs of your projects or demands and easily work on resource allocations using Project Workspace.
 
 **Tip:** Resource Managers are encouraged to view the [Resource Management Workspace boot camp](https://learning.servicenow.com/lxp/en/strategic-portfolio-management/resource-management-migration-to-the-next?id=learning_course_prev&course_id=832423fe97264a9ce4fb72de2153af07) to learn about Resource Management Migration to the Next Experience.
 
@@ -59,7 +59,7 @@ With the migration of resource plans:
 -   The allocated costs and allocated hours are copied to planned costs and planned hours.
 -   Actual hours for the resource plan in Confirmed and Allocated states are retained with the resource plans.
 
-**Note:** Only one resource assignment is created for every unique combination of primary attributes, Group, Skill, and Role, and one for every user if the resource plans are created with selected member preferences. After migration, if you [[create-rsrc-asgnmnts-ppm|create resource assignments]] with any of the existing combinations, the available resource assignments are updated with the new requests.
+**Note:** Only one resource assignment is created for every unique combination of primary attributes, Group, Skill, and Role, and one for every user if the resource plans are created with selected member preferences. After migration, if you create resource assignments with any of the existing combinations, the available resource assignments are updated with the new requests.
 
 -   **Allocation contour while migrating to resource assignments**
 
@@ -80,7 +80,7 @@ Resource plans migrated as resource assignments.
 
 ## Operational resource plans to operational resource assignments
 
-Operational resource plans also follow the same logic to [[migrate-operational-rsrc-plans|migrate operational resource plans]] to operational resource assignments.
+Operational resource plans also follow the same logic to migrate operational resource plans to operational resource assignments.
 
 **Important:** Operational resource plans in Allocated and Completed states are only migrated as Operational resource assignments.
 
@@ -127,7 +127,7 @@ Create resource assignments to request a portion of team or resource capacity fo
 -   **[Migrate operational resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-operational-rsrc-plans.md)**  
 Migrate the required Operational resource plans to attribute-based Operational resource assignments.
 -   **[Create operational resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-op-rsrc-asgnmnts-ppm.md)**  
-[[create-op-rsrc-asgnmnts-ppm|Create operational resource assignments]] to allocate a portion of team or resource capacity for operational work such as administration work, meetings, trainings, and so on.
+Create operational resource assignments to allocate a portion of team or resource capacity for operational work such as administration work, meetings, trainings, and so on.
 -   **[Activate a scheduled job to migrate resource plans and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-rsrc-plan-cost-plan-scheduled-job.md)**  
 Activate the Migrate Resource Plans scheduled job to migrate resource plans, operational resource plans, and cost plans of your projects and demands to resource assignments and attribute-based cost plans.
 
@@ -146,10 +146,3 @@ Activate the Migrate Resource Plans scheduled job to migrate resource plans, ope
 
 [Resource planning with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-resource-mgmt-prj-wksp.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[migrate-operational-rsrc-plans|Migrate operational resource plans]]
-- [[create-op-rsrc-asgnmnts-ppm|Create operational resource assignments]]

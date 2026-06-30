@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
     The list of checks shows up.
 
@@ -40,11 +40,11 @@ Role required: admin
 
     **Note:** If a scan is already in progress and you select another scan, it gets queued to be executed. If you select the same scan again, it doesn't create duplicate records in the queue. Once the ongoing scan completes \(successful or failed\), the next scan in the queue starts executing automatically.
 
-    If there is no ongoing scan, the selected scan starts the execution process. You will see the execution modal with **Cancel Scan** and **Go to [[hs-results|Results]]** options.
+    If there is no ongoing scan, the selected scan starts the execution process. You will see the execution modal with **Cancel Scan** and **Go to Results** options.
 
 3.  Implement the following steps to view the status of the ongoing scan or any other scans.
 
-    1.  Go to **All** &gt; **Instance Scan** &gt; **[[hc-scan-results|Scan Results]]**. The list of all scan results and their status shows up.
+    1.  Go to **All** &gt; **Instance Scan** &gt; **Scan Results**. The list of all scan results and their status shows up.
     2.  Select a scan record to see more details. The Scan Results form for the selected scan record shows up.
 
         **Note:** If the scan is ongoing, the status is In progress. If the scan is queued, the status is Pending.
@@ -85,8 +85,3 @@ Role required: admin
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-results|Results]]
-- [[hc-scan-results|Scan results]]

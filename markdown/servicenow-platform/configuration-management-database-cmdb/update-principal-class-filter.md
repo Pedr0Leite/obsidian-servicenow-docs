@@ -38,8 +38,8 @@ For more information, see the [Guidance on designating principal classes in the 
 The Principal Class filter has uses across the CMDB, such as:
 
 -   In CI lists and dashboards: The Principal Class filter restricts CIs to only those in the filter, so you can focus on those CIs that require attention. For more information about list view filters, see [Save and use filters in a list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SavingFilters.md).
--   CMDB Workspace: You can apply the Principal Class filter in the Discovery sources card in the [[multisource-cmdb|CMDB 360]] dashboard. For more information, see [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb360-exp-cmdb-workspace.md).
--   [[cmdb-sa|CMDB success advisor]]: CMDB success advisor dashboards rely on principal classes to generate recommendations and KPIs. You can set [[cmdb-sa-principal-class|principal classes in CMDB success advisor]] for Data Foundations to track the foundational data health of your CMDB. This alignment ensures that insights reflect actual business priorities. For more information, see [CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa.md).
+-   CMDB Workspace: You can apply the Principal Class filter in the Discovery sources card in the CMDB 360 dashboard. For more information, see [CMDB 360 experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb360-exp-cmdb-workspace.md).
+-   CMDB success advisor: CMDB success advisor dashboards rely on principal classes to generate recommendations and KPIs. You can set principal classes in CMDB success advisor for Data Foundations to track the foundational data health of your CMDB. This alignment ensures that insights reflect actual business priorities. For more information, see [CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa.md).
 -   HAM \(Hardware Asset Management\) integration: When model categories are added to the CMDB success advisor for HAM, they are marked as principal classes if they weren't already and will appear in the CMDB success advisor for Data Foundations if already set up. For more information, see [Using CMDB success advisor for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cmdb-sa-ham-use.md), [Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/ham-landing-page.md), and [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   Principal CI class agent in Now Assist for CMDB: This agent suggests classes to be set as principal classes, and then automates setup for consistency across environments. For more information, see [Getting advice from Now Assist on CMDB governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-governance.md).
 
@@ -47,7 +47,7 @@ The Principal Class setting applies only to the current class and is not derived
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to expand the CI Classes list and then select a class to add or remove from the Principal Class filter.
 
@@ -96,9 +96,3 @@ In both of the following scenarios, the list of CIs refreshes to show only CIs w
 
 [View and edit class definitions and metadata]()
 
-## Related
-
-- [[multisource-cmdb|CMDB 360]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[cmdb-sa-principal-class|Principal classes in CMDB success advisor]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # LogRhythm Overview
 
-The [[mapping-logrhythm|mapping]] flexibility of this integration provides an analyst with visibility to events and related alarm data that can be integrated into ServiceNow AI Platform security incidents for further investigation and remediation.
+The mapping flexibility of this integration provides an analyst with visibility to events and related alarm data that can be integrated into ServiceNow AI Platform security incidents for further investigation and remediation.
 
 Alarm profiles are created in your ServiceNow AI Platform instance to customize how different LogRhythm alarm fields are displayed on a ServiceNow AI Platform security incident. A default mapping of alarm fields is provided, which can be edited to meet customer-specific needs.
 
@@ -30,7 +30,7 @@ The REST API is used to gather message details not accessed by the REST API.
 
 This integration includes the following key features:
 
--   Flexibility to create multiple alarm profiles for different alarm types such as Phishing and [[threat-intelligence-malware|Malware]].
+-   Flexibility to create multiple alarm profiles for different alarm types such as Phishing and Malware.
 -   Drag-and-drop mapping of LogRhythm alarm field values to associated SIR security incident fields.
 -   A Preview of the SIR security incident layout based on LogRhythm sample alarms.
 -   Ingest historical alarms as well as ongoing future alarms on configurable intervals.
@@ -49,7 +49,7 @@ This integration is compatible with LogRhythm 7.8 or later. The earlier versions
 1.  [Set up the REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/drilldown-api-lr.md)  
 You use the LogRhythm REST API key to gather additional event details for individual alarm fields. The API key provides details that are unavailable using the LogRhythm REST API.
 2.  [Install the plugin and configure LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-config-logrhythm.md)  
-Before you run the integration on your instance, complete the installation and configuration steps so the application properly integrates with [[security-operations-landing-page|Security Operations]] on the ServiceNow AI Platform®.
+Before you run the integration on your instance, complete the installation and configuration steps so the application properly integrates with Security Operations on the ServiceNow AI Platform®.
 3.  [Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)  
 In an alarm profile that you create and name, you specify which alarms you want to pull from the LogRhythm Client Console. You also define how they are mapped to fields on a ServiceNow AI Platform security incident.
 4.  [Additional configurations for the LogRhythm integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-system-and-troubleshooting-properties.md)  
@@ -59,8 +59,3 @@ Troubleshoot connectivity and alarm ingestion issues.
 
 **Parent Topic:**[Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]

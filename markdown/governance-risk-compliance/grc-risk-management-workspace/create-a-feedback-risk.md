@@ -14,7 +14,7 @@ breadcrumb: [Parallel Review and Feedback in Advanced Risk, Use Risk Workspace, 
 
 # Create feedback in Advanced Risk
 
-[[create-feedback|Create feedback]] on a record or fields in a record in the Advanced Risk application. The feedback enables you to recommend improvements related to data integrity, compliance, operational procedures, and other pertinent areas.
+Create feedback on a record or fields in a record in the Advanced Risk application. The feedback enables you to recommend improvements related to data integrity, compliance, operational procedures, and other pertinent areas.
 
 You can create feedback by using one of the following options:
 
@@ -28,6 +28,3 @@ Create feedback on a record or fields in a record from the record side panel usi
 
 **Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[create-feedback|create feedback]]

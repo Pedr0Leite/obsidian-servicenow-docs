@@ -14,9 +14,9 @@ breadcrumb: [Monitor, Document Intelligence, Enable AI experiences]
 
 # Use case performance dashboard
 
-Monitor [[document-intelligence-landing|Document Intelligence]] \(DocIntel\) performance at the use case and field levels in the use case performance dashboard.
+Monitor Document Intelligence \(DocIntel\) performance at the use case and field levels in the use case performance dashboard.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of the use case performance dashboard
 
@@ -55,7 +55,7 @@ Access the use case performance dashboard in the Performance tab on the use case
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Document Intelligence** &gt; **Document Data Extraction Administration** &gt; **Use [[cases|Cases]]**.
+1.  Navigate to **All** &gt; **Document Intelligence** &gt; **Document Data Extraction Administration** &gt; **Use Cases**.
 
 2.  Select the **Performance** tab.
 
@@ -83,8 +83,3 @@ The following table describes the data visualizations shown on the **Performance
 |Average key strokes per field|The average number of keystrokes an agent performs to extract a value for a field.|
 |Field level accuracy over time|The percentage of times over the selected date range that the top recommendation from DocIntel is the correct value for a field.|
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

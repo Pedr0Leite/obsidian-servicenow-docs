@@ -14,7 +14,7 @@ breadcrumb: [Using ITSM Virtual Agent pre-built topics, ITSM Virtual Agent, IT S
 
 # Microsoft Office 365 Group pre-built topics for ITSM Virtual Agent
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] helps you manage Microsoft Office 365 Groups using actions in conversation flows.
+ITSM Virtual Agent helps you manage Microsoft Office 365 Groups using actions in conversation flows.
 
 Natural Language Understanding \(NLU\) is used to identify and trigger the Microsoft Office 365 Group action that a user wants to perform.
 
@@ -78,6 +78,3 @@ This topic uses the Create Incident [topic block](https://raw.githubusercontent.
 
 **Parent Topic:**[Using ITSM Virtual Agent pre-built topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/using-itsm-va.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

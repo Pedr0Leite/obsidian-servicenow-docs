@@ -14,7 +14,7 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 # View and update Security Incident Response system properties
 
-View and update the [[sir-workspace-landing-page|Security Incident Response Workspace]] system properties from the Security Incident Response Workspace administration panel to access and update the required properties.
+View and update the Security Incident Response Workspace system properties from the Security Incident Response Workspace administration panel to access and update the required properties.
 
 -   **[Configure default landing tab for security analysts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-default-landing-tab.md)**  
 Configure the default landing tab \(Overview or Details\) for security analysts when they select a security incident so they directly land on the page where they need to work on.
@@ -48,9 +48,5 @@ Configure whether the contextual menu panel for a security incident is expanded 
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
-[Timeline in [[sir-landing-page|Security Incident Response]] Workspace]()
+[Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

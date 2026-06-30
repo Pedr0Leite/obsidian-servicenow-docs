@@ -30,7 +30,7 @@ Several types of components such as tables, user roles, and business rules are i
 
 </td></tr><tr><td>
 
-[[hcls-cto-app|Healthcare Operations Core]] case \(hco\_case\)
+Healthcare Operations Core case \(hco\_case\)
 
 </td><td>
 
@@ -152,7 +152,7 @@ Monitors the tasks within their organizations.
 
 </td></tr><tr><td>
 
-[[care-team-portal-landing|Care Team Portal]]
+Care Team Portal
 
  \(com.sn\_cto\_sp \)
 
@@ -162,13 +162,13 @@ Provides a portal experience for Healthcare Operations Core users to create requ
 
 </td></tr><tr><td>
 
-[[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
+Healthcare and Life Sciences Service Management Core
 
  \(sn\_hcls\)
 
 </td><td>
 
-Provides the [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]] for [[hcls-overview|Healthcare and Life Sciences]] industry products.
+Provides the Healthcare and Life Sciences data model for Healthcare and Life Sciences industry products.
 
 </td></tr></tbody>
 </table>## Business rules installed with Healthcare Operations Core
@@ -199,11 +199,3 @@ Sets the corresponding Healthcare location of selected cmn\_location.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-serv-mgmt-core|Healthcare and Life Sciences data model]]
-- [[hcls-overview|Healthcare and Life Sciences]]

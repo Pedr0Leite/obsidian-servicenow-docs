@@ -14,13 +14,13 @@ breadcrumb: [Reference, Retail Task Management, Retail]
 
 # Retail Task Management Core data model
 
-Learn about the [[rahi-retail-task-management-overview|Retail Task Management]] application by viewing the data model and role relationship diagrams. These diagrams show the relationships between the tables and roles within the application and provide an overall picture of how the Retail Task Management application operates.
+Learn about the Retail Task Management application by viewing the data model and role relationship diagrams. These diagrams show the relationships between the tables and roles within the application and provide an overall picture of how the Retail Task Management application operates.
 
 ## Retail Task Management data model
 
 \[Omitted image "rtmc-data-model.png"\] Alt text: Retail Task Management core data model.
 
-Installing Retail Task Management Core introduces the **Affected [[rahi-retail-operations-overview|retail]] stores** field into the Retail case \[sn\_retail\_case\] table.
+Installing Retail Task Management Core introduces the **Affected retail stores** field into the Retail case \[sn\_retail\_case\] table.
 
 The **Affected retail stores** field in the Retail case \[sn\_retail\_case\] table is used to generate affected retail stores within a list for the multiple case creation context.
 
@@ -44,7 +44,3 @@ For more detailed information on how these fields are involved with the multi-st
 
 **Parent Topic:**[Retail Task Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/legacy-retail-task-management/rahi-retail-task-management-reference.md)
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]
-- [[rahi-retail-operations-overview|Retail]]

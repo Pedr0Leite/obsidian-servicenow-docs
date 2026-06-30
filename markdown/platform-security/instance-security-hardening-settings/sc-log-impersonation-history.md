@@ -23,7 +23,7 @@ The impersonation history log tracks the following impersonation details on the 
 -   Impersonation start and end times
 -   SessionID
 
-Ensure that the **[[identity-landing|identity]].impersonation.history.enabled** property doesn’t exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, or exists and is set to a value of `true`.
+Ensure that the **identity.impersonation.history.enabled** property doesn’t exist in the System Properties \[sys\_properties\] table, or exists and is set to a value of `true`.
 
 ## More information
 
@@ -37,7 +37,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -99,7 +99,7 @@ Security risk
 
 -   Severity score: 4.9
 -   CVSS score: Medium
--   Security risk details: When this property is set to `true`, impersonation session details are logged in the Impersonation History \[sys\_user\_impersonation\_history\] table. Use this information for [[c_AuditedTables|auditing]] in security investigations or for compliance purposes.
+-   Security risk details: When this property is set to `true`, impersonation session details are logged in the Impersonation History \[sys\_user\_impersonation\_history\] table. Use this information for auditing in security investigations or for compliance purposes.
 
 </td></tr><tr><td>
 
@@ -120,9 +120,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]

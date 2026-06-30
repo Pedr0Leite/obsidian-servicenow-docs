@@ -14,20 +14,14 @@ breadcrumb: [Take an assessment, Using assessments, Assessments, Assessments and
 
 In the assessment process, users complete assessment questionnaires on topics of interest to provide subjective data for future business decisions.
 
-No special role is required to complete an assessment. You are eligible to complete [[r_Assessments|assessments]] that are assigned to you. For example, you might be expected to evaluate vendors your organization works with, based on traits related to customer service. The system stores your responses so decision makers can compare the performance of the items you evaluate. You and your manager may receive [[email|email]] notifications as reminders of important assessment information.
+No special role is required to complete an assessment. You are eligible to complete assessments that are assigned to you. For example, you might be expected to evaluate vendors your organization works with, based on traits related to customer service. The system stores your responses so decision makers can compare the performance of the items you evaluate. You and your manager may receive email notifications as reminders of important assessment information.
 
-**Parent Topic:**[[t_TakeAnAssessment|Take an assessment]]
+**Parent Topic:**[Take an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeAnAssessment.md)
 
 **Related topics**  
 
 
-[[r_AssessmentNotifications|Assessment notifications]]
+[Assessment notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentNotifications.md)
 
 [Take an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeAnAssessment.md)
 
-## Related
-
-- [[t_TakeAnAssessment|Take an assessment]]
-- [[r_AssessmentNotifications|Assessment notifications]]
-- [[r_Assessments|Assessments]]
-- [[email|Email]]

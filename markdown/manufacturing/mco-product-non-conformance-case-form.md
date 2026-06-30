@@ -12,7 +12,7 @@ breadcrumb: [Quality issue management form, Reference, Manufacturing Commercial 
 
 # Product details form
 
-The [[mco-product-non-conformances|Product non-conformance]] details form enables you to add the case details.
+The Product non-conformance details form enables you to add the case details.
 
 <table id="table_kvk_3tj_whc"><thead><tr><th>
 
@@ -147,7 +147,7 @@ User to whom the non-conformance case has been assigned. It is auto-populated ba
 
 </td></tr><tr><td>
 
-[[mco-PQI-use|Product quality investigation]] candidate
+Product quality investigation candidate
 
 </td><td>
 
@@ -178,16 +178,10 @@ Complaint details
 Complaint details, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
 **Related topics**  
 
 
-[[mco-playbook-create-non-conformance|Create a product non-conformance case using playbook]]
+[Create a product non-conformance case using playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-playbook-create-non-conformance.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-playbook-create-non-conformance|Create a product non-conformance case using playbook]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-PQI-use|Product quality investigation]]

@@ -12,7 +12,7 @@ breadcrumb: [Platform AI agents, Now Assist AI assets, Enable AI experiences]
 
 # Platform Approval assistance AI agent
 
-The Approval assistance AI agent is an AI agent that enables you to see your list of pending [[approvals|approvals]], as well as see the details about your pending approvals. You can then approve or reject requests and tickets from [[platform-now-assist-landing|Now Assist]] in Virtual Agent.
+The Approval assistance AI agent is an AI agent that enables you to see your list of pending approvals, as well as see the details about your pending approvals. You can then approve or reject requests and tickets from Now Assist in Virtual Agent.
 
 ## Approval assistance AI agent overview
 
@@ -36,7 +36,7 @@ The Approval assistance AI agent displays data from the Approvals \[sysapproval\
 
 Required role:
 
-AI agents use [[aia-role-masking|role masking]] to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security [[controls|controls]] to include these roles. For the instructions to change the security controls, see [[define-sec-controls-aia|Define security controls for an AI agent]].
+AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to evaluate for readiness. For example, you can add the itil role to the AI agent's list of approved roles so that it can access Incident records.
 
@@ -44,13 +44,13 @@ In the data access settings, you must also add the necessary roles to enable rea
 
 To access the AI agent:
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Go to the **AI Agents** tab.
 3.  Select **Approval assistance AI agent**.
 
 ## Sample utterances
 
-After the agent has been activated in AI Agent Studio, enter phrases such as the following or similar queries to run the AI Agent in Virtual Agent, the [[now-assist-center-now-assist-panel|Now Assist panel]], or Microsoft Teams.
+After the agent has been activated in AI Agent Studio, enter phrases such as the following or similar queries to run the AI Agent in Virtual Agent, the Now Assist panel, or Microsoft Teams.
 
 -   Can you give me a list of pending approvals?
 -   What are the pending approvals for time off requests?
@@ -63,15 +63,5 @@ The Approval assistance AI agent shows approval requests that require an action 
 
 \[Omitted image "aia-approve-reject.png"\] Alt text: Now Assist Approve or Reject options for an Approval.
 
-**Parent Topic:**[[platform-ai-agents|Platform AI agents]]
+**Parent Topic:**[Platform AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-agents.md)
 
-## Related
-
-- [[aia-role-masking|Role masking in Now Assist AI agents]]
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[platform-ai-agents|Platform AI agents]]
-- [[approvals|Approvals]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

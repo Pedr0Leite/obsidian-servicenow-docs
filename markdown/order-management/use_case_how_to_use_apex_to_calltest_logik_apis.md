@@ -57,8 +57,5 @@ httpRequest.setHeader('Origin', 'https://tenant.sector.logik.io/');
 
 This code would be executed as `testGetConfig.exec();`.
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[use-cases|Use cases]]

@@ -14,7 +14,7 @@ breadcrumb: [ACC-M reference, Agent Client Collector reference, Agent Client Col
 
 # Quick start tests for Metric Intelligence
 
-Validate that [[operational-metrics|Metric Intelligence]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and configure these quick start tests to pass when using your instance-specific data.
+Validate that Metric Intelligence still works after you make any configuration change such as apply an upgrade or develop an application. Copy and configure these quick start tests to pass when using your instance-specific data.
 
 Metric Intelligence quick start tests require activating the Metric Intelligence plugin \(com.snc.sa.metric\).
 
@@ -56,6 +56,3 @@ Madrid
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

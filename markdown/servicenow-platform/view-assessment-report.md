@@ -12,7 +12,7 @@ breadcrumb: [View a metric result, Assessment administrator tasks, Using assessm
 
 # View assessment reports
 
-Use the [[r_AssessmentsOverviewModule|Assessment Overview dashboard]] to view your assessment reports.
+Use the Assessment Overview dashboard to view your assessment reports.
 
 ## Before you begin
 
@@ -24,17 +24,12 @@ The dashboard displays reports arranged in widgets. You can add new widgets to t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Overview**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Overview**.
 
 2.  Click the elements within the reports to view more information.
 
     For more information about working with dashboards, see [Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboards-landing-page.md).
 
 
-**Parent Topic:**[[t_ViewAMetricResult|View a metric result]]
+**Parent Topic:**[View a metric result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md)
 
-## Related
-
-- [[t_ViewAMetricResult|View a metric result]]
-- [[r_AssessmentsOverviewModule|Assessment Overview dashboard]]
-- [[r_Assessments|Assessments]]

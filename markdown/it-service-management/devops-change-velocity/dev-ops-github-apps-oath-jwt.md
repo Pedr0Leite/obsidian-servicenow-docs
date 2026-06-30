@@ -20,7 +20,7 @@ Perform the following steps to integrate your GitHub Apps using the JWT bearer t
 
 Role required:
 
--   oauth\_admin in [[devops-landing-page-new|DevOps Change Velocity]].
+-   oauth\_admin in DevOps Change Velocity.
 -   Admin account in GitHub.
 
     **Note:** The OAuth 2.0 JWT grant type is supported for GitHub &amp; GitHub Enterprise with MID server.
@@ -38,11 +38,11 @@ Role required: No instance role required
 
 ### About this task
 
-Complete these steps from your GitHub account. See [Building GitHub Apps](https://developer.github.com/apps/building-github-apps/) on the GitHub Developer site for instructions on creating and configuring custom [[dex-workspace-application-tab|applications]].
+Complete these steps from your GitHub account. See [Building GitHub Apps](https://developer.github.com/apps/building-github-apps/) on the GitHub Developer site for instructions on creating and configuring custom applications.
 
 ### Procedure
 
-1.  From your GitHub account, create your GitHub App by navigating to **Developer [[settings-mobile|Settings]]** &gt; **GitHub Apps**.
+1.  From your GitHub account, create your GitHub App by navigating to **Developer Settings** &gt; **GitHub Apps**.
 
 2.  In the **Homepage URL** field, enter `https://<instance-name>.service-now.com`.
 
@@ -353,7 +353,7 @@ OAuth API script
 
 </td><td>
 
-Option that enables you to [[reference-for-itsm-mobile-agent|reference]] an amended OAuthUtil script include. Select **OAuthDevOpsGitHubJWTHandler**.
+Option that enables you to reference an amended OAuthUtil script include. Select **OAuthDevOpsGitHubJWTHandler**.
 
 </td></tr><tr><td>
 
@@ -435,9 +435,3 @@ Role required: admin, sn\_devops.admin
 
 [GitHub Deployment Gates for ServiceNow DevOps Change]()
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]

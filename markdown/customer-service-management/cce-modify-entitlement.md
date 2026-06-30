@@ -41,7 +41,7 @@ Role required:
 
 7.  Select **Update**.
 
-    An order or a quote will be created depending on the [[gamification-components-rules|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    An order or a quote will be created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to modify the entitlement is created. You can click the quote number from the confirmation message to view the modified quote line items. The quote is approved and the status changes to **Complete** to create an order.
     -   If the selected target entity is an order, an order to modify the entitlement is created. You can click the order number from the confirmation message to view the modified order line items.
@@ -49,7 +49,4 @@ Role required:
 
     The modifications are visible on the entitlement.
 
-## Related
 
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[gamification-components-rules|Rules]]

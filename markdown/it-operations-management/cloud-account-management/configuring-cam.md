@@ -15,7 +15,7 @@ breadcrumb: [Cloud Account Management, ITOM Cloud Accelerate, IT Operations Mana
 
 # Configuring Cloud Account Management
 
-Configuring the [[cam-landing|Cloud Account Management]] application involves a set of required tasks, integrations, and setups to be completed before initiating service account creation and provisioning.
+Configuring the Cloud Account Management application involves a set of required tasks, integrations, and setups to be completed before initiating service account creation and provisioning.
 
 The steps involved are different for AWS and Azure. These configurations are listed in the following tables.
 
@@ -226,7 +226,7 @@ All features
 
 </td><td>
 
-[[r-discovery|Discovery]] Credentials
+Discovery Credentials
 
 </td><td>
 
@@ -691,8 +691,3 @@ Certify all cloud service accounts either created or boarded after discovery can
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[r-discovery|Discovery]]

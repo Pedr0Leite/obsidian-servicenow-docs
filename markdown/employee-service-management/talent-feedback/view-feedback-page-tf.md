@@ -22,7 +22,7 @@ Role required: manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your team** &gt; **Team members**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your team** &gt; **Team members**.
 
 2.  Select the Now Assist icon to start a conversation with the agent.
 
@@ -44,6 +44,3 @@ Role required: manager
     -   **Received from**: Filter to select the feedback provider.
     -   **Sort by**: Filter to sort the feedback collected by date.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

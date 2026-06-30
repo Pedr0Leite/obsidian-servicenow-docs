@@ -14,11 +14,11 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enable ACLs for Encoded Query in Simple List Widget
 
-Learn how to set the **glide.service\_portal.enable\_acls\_for\_encoded\_query\_in\_list** property to the secure value to prevent [[users|users]] from bypassing [[sc-access-control|access control]] list \(ACL\) evaluations on a query condition in the Simple List Widget.
+Learn how to set the **glide.service\_portal.enable\_acls\_for\_encoded\_query\_in\_list** property to the secure value to prevent users from bypassing access control list \(ACL\) evaluations on a query condition in the Simple List Widget.
 
 When the **glide.service\_portal.enable\_acls\_for\_encoded\_query\_in\_list** system property is not set to **true**, a user may be able to bypass ACLs evaluation on a query condition in Simple List Widget.
 
-Ensure that the glide property **glide.service\_portal.enable\_acls\_for\_encoded\_query\_in\_list** is set to **true**. If the property does not exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **true**.
+Ensure that the glide property **glide.service\_portal.enable\_acls\_for\_encoded\_query\_in\_list** is set to **true**. If the property does not exist in the System Properties \[sys\_properties\] table, the default value is **true**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,9 +115,3 @@ The Simple List Widget may not display any data depending on the user's role and
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

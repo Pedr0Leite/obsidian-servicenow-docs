@@ -15,15 +15,15 @@ breadcrumb: [Discovery Admin Workspace, Exploring Discovery, Discovery, ITOM Vis
 
 # Discovery Admin Workspace Settings
 
-The Settings page enables you to customize and manage high-level [[r_DiscoveryProperties|Discovery properties]] so they’re tailored to meet your specific needs.
+The Settings page enables you to customize and manage high-level Discovery properties so they’re tailored to meet your specific needs.
 
-To access the Discovery Admin Workspace Settings page, navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Settings**.
+To access the Discovery Admin Workspace Settings page, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Settings**.
 
 **Note:** The capabilities described here are available in Discovery Admin Workspace v1.17.0. Specific version requirements are noted for individual features where applicable.
 
 ## General
 
-The General settings control how [[r-discovery|Discovery]] visualizations are displayed in the workspace.
+The General settings control how Discovery visualizations are displayed in the workspace.
 
 -   **Dashboard time scale**
 
@@ -42,7 +42,7 @@ The Anomaly Detection settings control how Discovery identifies and surfaces irr
 
 -   **Anomaly detection**
 
-    Identifies unusual behavior, like failed runs and significant deviations from the thresholds for high error counts, longer [[c_DiscoveryStatus|discovery status]] duration, and fewer discovered configuration items \(CIs\) or Cloud resources.
+    Identifies unusual behavior, like failed runs and significant deviations from the thresholds for high error counts, longer discovery status duration, and fewer discovered configuration items \(CIs\) or Cloud resources.
 
     Anomalies are categorized into the following severity levels:
 
@@ -156,7 +156,7 @@ Discovery notifications enable administrators to receive real-time alerts or dai
 
 ## URL discovery
 
-The URL Discovery settings control how [[acc-landing-page|Agent Client Collector]] for Visibility \(ACC-VC\) collects web usage data from managed Windows and macOS devices. You can enable broad URL monitoring and manage targeted URLs to monitor from this page.
+The URL Discovery settings control how Agent Client Collector for Visibility \(ACC-VC\) collects web usage data from managed Windows and macOS devices. You can enable broad URL monitoring and manage targeted URLs to monitor from this page.
 
 **Important:** This feature requires the Australia, Zurich, Yokohama Patch 6, or later version of the ServiceNow AI Platform. Other app dependencies include:
 
@@ -196,17 +196,10 @@ The browser extension must be enabled on the host.
 
 -   **URL Discovery Insights**
 
-    Select the link icon to access the [[url-disco-insights|URL Discovery insights dashboard]], where you can view captured data and analytics for accessed URLs. For more information, see [URL Discovery Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/url-disco-insights.md).
+    Select the link icon to access the URL Discovery insights dashboard, where you can view captured data and analytics for accessed URLs. For more information, see [URL Discovery Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/url-disco-insights.md).
 
 -   **X devices with ACC agent installed**
 
     Select the link icon to access the Agent Client Collectors \[sn\_agent\_cmdb\_ci\_agent\] table.
 
-## Related
 
-- [[r_DiscoveryProperties|Discovery properties]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[url-disco-insights|URL Discovery Insights dashboard]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Create a follow-up action
 
-[[create-follow-up-action|Create a follow-up action]] for a task with the [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+Create a follow-up action for a task with the Industrial Connected Workforce Mobile Experience.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
 ## About this task
 
-The following procedure describes creating a follow-up action from an existing action, deviation, breakdown, or [[industrial-root-cause-analysis|root cause analysis]]. To create a follow-up action from a guided task, open the task that you need and navigate to **Related** &gt; **Follow-up actions** &gt; **Create follow-up action** and fill in the fields on the record form.
+The following procedure describes creating a follow-up action from an existing action, deviation, breakdown, or root cause analysis. To create a follow-up action from a guided task, open the task that you need and navigate to **Related** &gt; **Follow-up actions** &gt; **Create follow-up action** and fill in the fields on the record form.
 
 ## Procedure
 
@@ -51,8 +51,3 @@ The new follow-up action is created and displayed in the Follow-up actions relat
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[create-follow-up-action|Create a follow-up action]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]

@@ -14,11 +14,11 @@ breadcrumb: [Applicant Center, Hiring Experiences, HR Service Delivery, Employee
 
 # Exploring Applicant Center
 
-Learn more about [[applicant-center-concept|Applicant Center]] and review the benefits it can provide to applicants in your organization.
+Learn more about Applicant Center and review the benefits it can provide to applicants in your organization.
 
 ## Applicant Center overview
 
-The Applicant Center application provides a streamlined experience for applicants, allowing them to manage their applications, interviews, and communication with recruiters in one place. It enhances the applicant's [[jny-pre-hire-experience|pre-hire experience]] by providing easy access to organization details, job information, and [[hiring-tab-concept|hiring]] team details, ultimately leading to a more informed hiring process.
+The Applicant Center application provides a streamlined experience for applicants, allowing them to manage their applications, interviews, and communication with recruiters in one place. It enhances the applicant's pre-hire experience by providing easy access to organization details, job information, and hiring team details, ultimately leading to a more informed hiring process.
 
 ## Applicant Center users
 
@@ -44,15 +44,9 @@ The Applicant Center application provides a streamlined experience for applicant
 
 ## What to explore next
 
-To learn more about configuring and [[use-applicant-center|using Applicant Center]], see:
+To learn more about configuring and using Applicant Center, see:
 
 -   [Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 -   [Using Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/use-applicant-center.md)
 -   [Applicant Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-center-reference.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[jny-pre-hire-experience|Pre-hire experience]]
-- [[hiring-tab-concept|Hiring]]
-- [[use-applicant-center|Using Applicant Center]]

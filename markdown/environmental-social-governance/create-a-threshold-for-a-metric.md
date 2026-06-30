@@ -12,7 +12,7 @@ breadcrumb: [Configuring GRC: Metrics, GRC: Metrics, Operational Sustainability 
 
 # Create a threshold for a metric
 
-Create [[thresholds-for-metrics|thresholds for metrics]] and metric definitions to monitor performance. Thresholds serve as reference points based on specific criteria. Each threshold can be assigned a unique color and configured with conditions and subsequent actions.
+Create thresholds for metrics and metric definitions to monitor performance. Thresholds serve as reference points based on specific criteria. Each threshold can be assigned a unique color and configured with conditions and subsequent actions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Configure thresholds to define multiple performance levels, set specific ranges 
 
 **Important:**
 
-Threshold evaluation does not apply to ad hoc metric data tasks. For more information, see [[ad-hoc-metric-data-task-limitations|Ad hoc metric data task limitations]].
+Threshold evaluation does not apply to ad hoc metric data tasks. For more information, see [Ad hoc metric data task limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/ad-hoc-metric-data-task-limitations.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Threshold evaluation does not apply to ad hoc metric data tasks. For more inform
 
 5.  On the form, fill in the fields.
 
-    For a description of the field values, see [[metric-threshold-form-fields|Metric Threshold form fields]].
+    For a description of the field values, see [Metric Threshold form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/metric-threshold-form-fields.md).
 
 6.  Select **Submit**.
 
@@ -53,11 +53,5 @@ Threshold evaluation does not apply to ad hoc metric data tasks. For more inform
 
 To add custom actions that trigger on threshold breach, see the [How to Add Custom Actions on Threshold Breach in GRC Metrics \[KB3072359\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB3072359) article in the Now Support Knowledge Base.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[ad-hoc-metric-data-task-limitations|Ad hoc metric data task limitations]]
-- [[metric-threshold-form-fields|Metric Threshold form fields]]
-- [[configuring-grc-metrics|configuring grc metrics]]
-- [[thresholds-for-metrics|Thresholds for metrics]]

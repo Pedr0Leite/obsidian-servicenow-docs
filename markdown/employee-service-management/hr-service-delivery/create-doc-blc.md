@@ -22,7 +22,7 @@ Role required: sn\_doc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **Document Template Blocks**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **Document Template Blocks**.
 
 2.  Click **New**.
 
@@ -58,7 +58,7 @@ Topic detail
 
 </td><td>
 
-Used to categorize template blocks according to the service for which they are applicable. Each topic category can have one or more topic details and each topic detail can have one or more [[hr-service-administration|HR services]].
+Used to categorize template blocks according to the service for which they are applicable. Each topic category can have one or more topic details and each topic detail can have one or more HR services.
 
 </td></tr><tr><td>
 
@@ -93,7 +93,3 @@ More information about the document template block.
 1.  Add content to the document template block. For more information, see [Create block content in Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-doc-blc-cnt.md).
 2.  View the HTML document templates which contain the document blocks.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[hr-service-administration|HR services]]

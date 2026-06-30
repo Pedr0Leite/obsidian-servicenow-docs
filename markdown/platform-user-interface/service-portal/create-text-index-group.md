@@ -20,7 +20,7 @@ Define how users see search results. For example, combine search results from se
 
 Role required: admin
 
-If you have a custom search source or portal, consider whether you want to use the base system **portal\_index\_group** text index group, or create your own text index group. The base system text index group includes the Catalog items and Knowledge tables. When a user searches for an item in [[c_ServicePortal|Service Portal]], they see combined results from these tables.
+If you have a custom search source or portal, consider whether you want to use the base system **portal\_index\_group** text index group, or create your own text index group. The base system text index group includes the Catalog items and Knowledge tables. When a user searches for an item in Service Portal, they see combined results from these tables.
 
 **Note:** Index tables before adding them to a text index group. To learn more about text indexing, see [Configure a table for indexing and searching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-single-table-for-indexing.md).
 
@@ -36,7 +36,7 @@ Text index groups are a ServiceNow AI Platform feature. To learn more, see [Conf
 
 2.  Open the portal that you would like to add a text index group to.
 
-3.  [[configure-onboarding-modals|Configure]] the form to add the **Text Index Group** field.
+3.  Configure the form to add the **Text Index Group** field.
 
 4.  Add the text index group you want to the **Text Index Group** field.
 
@@ -47,7 +47,3 @@ Search results display according to the text index group's rules.
 
 **Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

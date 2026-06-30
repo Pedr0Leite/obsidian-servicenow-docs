@@ -18,15 +18,9 @@ Mentoring home page provides you with a bird's eye view of all your mentorship r
 
 ## Mentoring Overview tab
 
-The [[overview-lxp-widgets|Overview tab]] is the first thing you see when you access [[mentoring-egd-overview|Mentoring]] after navigating from [[employee-center-landing-page|Employee Center]]. Use this tab to view your current mentorships, mentorship requests, suggested mentors, and learn more about mentorship.
+The Overview tab is the first thing you see when you access Mentoring after navigating from Employee Center. Use this tab to view your current mentorships, mentorship requests, suggested mentors, and learn more about mentorship.
 
 ## Your mentorships
 
-Use the **Your mentorships** tab to find trending courses across your organization. You can browse through highlighted content promoted by the [[exploring-learning-exp|learning]] team, popular learning-related searches, and recommended content based on learners similar to you.
+Use the **Your mentorships** tab to find trending courses across your organization. You can browse through highlighted content promoted by the learning team, popular learning-related searches, and recommended content based on learners similar to you.
 
-## Related
-
-- [[overview-lxp-widgets|Overview tab]]
-- [[mentoring-egd-overview|Mentoring]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

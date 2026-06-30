@@ -22,7 +22,7 @@ Role required: Admin.
 
 1.  Add the **glide.ui.disable\_attachment\_view** and **glide.ui.attachment\_popup** properties.
 
-    For instructions on adding properties to the platform, see [[t_AddAPropertyUsingSysPropsList|Add a system property]].
+    For instructions on adding properties to the platform, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 2.  For the **glide.ui.disable\_attachment\_view** property, set the **Type** to **true/false** and set the **Value** to **true**.
 
@@ -31,9 +31,5 @@ Role required: Admin.
 4.  To return to the default behavior \(enable the link\), set the **glide.ui.attachment\_popup** property **Value** to **true**.
 
 
-**Parent Topic:**[[r_AdministeringAttachments|Administering attachments]]
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[r_AdministeringAttachments|Administering attachments]]

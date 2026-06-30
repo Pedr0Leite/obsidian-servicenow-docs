@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 View license usage information related to Oracle in the publisher overview for Oracle in the Software Asset Workspace.
 
-From the [[sam-workspace|Software Asset Workspace]], access the Oracle publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Oracle** from the list of available software publishers.
+From the Software Asset Workspace, access the Oracle publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Oracle** from the list of available software publishers.
 
 Results are updated whenever a new reconciliation result is available.
 
@@ -68,7 +68,7 @@ Summary of your unlicensed entities.This summary includes the following informat
 -   **Installs requiring action**: Total number of Oracle software installations that you must take action on. Select the number to view the complete list of these Oracle software installations.
 -   **Unlicensed subscriptions**: Total number of unlicensed Oracle subscriptions. Select the number to view the complete list of unlicensed Oracle subscriptions.
 -   **Unlicensed client access**: Total number of unlicensed Oracle client access records. Select the number to view the complete list of unlicensed Oracle client access records.
--   **Unlicensed options**: Total number of unlicensed [[oracle-options|Oracle Database options and management packs]]. Select the number to view the complete list of unlicensed Oracle Database options and management packs.
+-   **Unlicensed options**: Total number of unlicensed Oracle Database options and management packs. Select the number to view the complete list of unlicensed Oracle Database options and management packs.
 
 </td></tr><tr><td>
 
@@ -96,15 +96,10 @@ License types of Oracle Database and WebLogic Server on AWS
 
 </td><td>
 
-Number of software installations for each license type that you are using in AWS cloud environments, based on the cloud service model through which your Oracle Database and WebLogic Servers are deployed. License types include BYOL and License Included. Cloud service [[c_Models|models]] include PaaS \(Platform as a Service\) and IaaS \(Infrastructure as a Service\).
+Number of software installations for each license type that you are using in AWS cloud environments, based on the cloud service model through which your Oracle Database and WebLogic Servers are deployed. License types include BYOL and License Included. Cloud service models include PaaS \(Platform as a Service\) and IaaS \(Infrastructure as a Service\).
 
 </td></tr></tbody>
 </table>For more details on the license usage information that is provided in the publisher overview, see [License usage publisher fields in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/workbench-publisherfields-workspace.md).
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[oracle-options|Oracle Database options and management packs]]
-- [[c_Models|Models]]

@@ -20,7 +20,7 @@ Role required: sn\_wsd\_move.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-move-mgmt-overview|Workplace Move Management]]** &gt; **Move tasks**.
+1.  Navigate to **All** &gt; **Workplace Move Management** &gt; **Move tasks**.
 
 2.  To view move tasks, select any of the following options:
 
@@ -28,14 +28,10 @@ Role required: sn\_wsd\_move.manager
     -   **Open tasks:** Select this option to view open move tasks.
     -   **All move tasks**: Select this option to view all the move tasks.
 
-**Parent Topic:**[[analytics-reporting-solution|Analytics and reporting solutions for Workplace Move Management]]
+**Parent Topic:**[Analytics and reporting solutions for Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/analytics-reporting-solution.md)
 
 **Related topics**  
 
 
 [View move requests]()
 
-## Related
-
-- [[analytics-reporting-solution|Analytics and reporting solutions for Workplace Move Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

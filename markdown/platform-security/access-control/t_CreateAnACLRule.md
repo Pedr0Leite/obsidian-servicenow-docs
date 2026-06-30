@@ -14,7 +14,7 @@ breadcrumb: [Access Control List Rules, Access Management]
 
 # Configure an ACL rule
 
-Configure custom [[sc-access-control|access control]] list \(ACL\) rules to secure access to new objects or to change the default security behavior.
+Configure custom access control list \(ACL\) rules to secure access to new objects or to change the default security behavior.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: security\_admin
 
 ## About this task
 
-To create ACL rules, you must elevate privileges to the [[security-admin-role|security\_admin role]].
+To create ACL rules, you must elevate privileges to the security\_admin role.
 
 For tables that are in a different scope from the ACL rule record, the types of rules are limited. For Scope Master tables to derive scope and execute scoped ACLs, set the **glide.enforce\_security\_scope.&lt;scope\_name&gt;** property to **true**. This ensures ACLs in the global scope don’t match when there are scope-specific ACLs created on the relevant table. Examples are when securing data within shared application tables in the Global scope, such as sys\_attachment or sys\_question\_answer tables.
 
 ## Procedure
 
-1.  [[c_ElevatedPrivilege|Elevated privilege roles]] to the security\_admin role.
+1.  [Elevated privilege roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_ElevatedPrivilege.md) to the security\_admin role.
 
 2.  Navigate to **System Security** &gt; **Access Control \(ACL\)**.
 
@@ -76,7 +76,7 @@ Admin overrides
 
 </td><td>
 
-Select this check box to have [[users|users]] with the admin role automatically pass the permissions check for this ACL rule. Admin users pass regardless of what script or role restrictions apply. However, the **nobody** role, which only ServiceNow personnel can assign, takes precedence over the admin override option. If an ACL is assigned the **nobody** role, admin users can’t access the resource even when **Admin overrides** is selected. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_BaseSystemRoles.md).
+Select this check box to have users with the admin role automatically pass the permissions check for this ACL rule. Admin users pass regardless of what script or role restrictions apply. However, the **nobody** role, which only ServiceNow personnel can assign, takes precedence over the admin override option. If an ACL is assigned the **nobody** role, admin users can’t access the resource even when **Admin overrides** is selected. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_BaseSystemRoles.md).
 
  Clear this check box if administrators must meet the permissions defined in this ACL rule to gain access to the secured object. Since administrators always pass role checks \(see the description of the **Requires role** field\), use the condition builder or **Script** field to create a permissions check that administrators must pass.
 
@@ -172,7 +172,7 @@ Script
 
 </td><td>
 
-Enter a custom script describing the permissions required to access the object. The script can use the values of the current and previous [Global variables in business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md) as well as [[ca-system-properties|system properties]]. The script must generate a true or false response in one of two ways:-   return an answer variable set to a value of true or false
+Enter a custom script describing the permissions required to access the object. The script can use the values of the current and previous [Global variables in business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md) as well as system properties. The script must generate a true or false response in one of two ways:-   return an answer variable set to a value of true or false
 -   evaluate to true or false
  In either case, users only gain access to the object when the script evaluates to true and the user meets any conditions the ACL rule has. Both the conditions and the script must evaluate to true for a user to access the object.
 
@@ -183,10 +183,4 @@ If there’s script in the **Script** field. This script executes even if the fi
 </td></tr></tbody>
 </table>7.  Select and hold \(or right-click\) the form header and select **Save**.
 
-## Related
 
-- [[c_ElevatedPrivilege|Elevated privilege roles]]
-- [[sc-access-control|Access control]]
-- [[security-admin-role|Security\_admin role]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]

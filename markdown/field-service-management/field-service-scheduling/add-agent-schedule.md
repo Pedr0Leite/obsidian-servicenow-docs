@@ -20,7 +20,7 @@ Add a default agent schedule so that agents have a schedule assigned to them if 
 
 Role required: wm\_dispatcher
 
-The `Allow [[dynamic-scheduling|Dynamic Scheduling]] to only use work schedule/WFO` system property must be set to `false` before adding a default agent work schedule. Contact your administrator to update this system property. For more information, see [Dynamic scheduling system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-system-properties.md).
+The `Allow Dynamic Scheduling to only use work schedule/WFO` system property must be set to `false` before adding a default agent work schedule. Contact your administrator to update this system property. For more information, see [Dynamic scheduling system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-system-properties.md).
 
 ## Procedure
 
@@ -34,6 +34,4 @@ The `Allow [[dynamic-scheduling|Dynamic Scheduling]] to only use work schedule/W
 
 5.  Select **Update**.
 
-## Related
 
-- [[dynamic-scheduling|Dynamic scheduling]]

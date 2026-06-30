@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your Migration of Platform Analytics
 
-The Jumpstart Your Migration of Platform Analytics Accelerator provides a demonstration of how to successfully prepare and migrate your Platform [[io-analytics|Analytics]] content.
+The Jumpstart Your Migration of Platform Analytics Accelerator provides a demonstration of how to successfully prepare and migrate your Platform Analytics content.
 
 ## Accelerator Overview
 
-Jumpstart Your Migration of Platform Analytics provides [[impact-landing-page|Impact]] customers with an overview of the changes required to migrate your Platform Analytics content. The Accelerator includes walking through the migration process with a clone of the customer's instance and highlighting some typical questions, issues, and next steps. Advice and direction are provided to prepare for the change.
+Jumpstart Your Migration of Platform Analytics provides Impact customers with an overview of the changes required to migrate your Platform Analytics content. The Accelerator includes walking through the migration process with a clone of the customer's instance and highlighting some typical questions, issues, and next steps. Advice and direction are provided to prepare for the change.
 
 See [Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_performanceAnalyticsAndReporting.md) for additional information on Platform Analytics applications.
 
@@ -135,7 +135,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow resources are not responsible for implementing recommendations on customer sub-production or production instances.
 
-## Related
-
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]

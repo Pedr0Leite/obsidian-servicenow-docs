@@ -14,7 +14,7 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Setting up the policy data for Insurance claims
 
-Set up the policy data for the [[insurance-claims-flow|Insurance claims]] application by importing the policy data into your instance, or by using remote tables to reference the policy data.
+Set up the policy data for the Insurance claims application by importing the policy data into your instance, or by using remote tables to reference the policy data.
 
 ## Importing the policy data
 
@@ -28,7 +28,7 @@ You may bring in past policy coverages or any other past policy data if those po
 
 When you're bringing in policy coverages or any other policy components, you should import the following key information into your ServiceNow instance before you create any claims:
 
--   [[insurance-product-models|Insurance product models]]
+-   Insurance product models
 -   Consumers
 -   Accounts
 -   Contacts
@@ -44,10 +44,10 @@ This foundational data is essential for ensuring that claims are created with ac
 
 If you already have an existing policy management system, you can use an API and remote tables to search for policies when you’re selecting a policy during intake. When a policy is selected, you can create a policy record to associate the policy to the claim.
 
-For more information about the remote data options or how to set up a remote table integration, see the following topics in the [[fso-int_guide-overview|Developer Guide]]:
+For more information about the remote data options or how to set up a remote table integration, see the following topics in the Developer Guide:
 
--   [[fso-int_guide-remote-data-options-for-remote-tables|Remote Data Options for Remote Tables]]
--   [[setting-up-a-remote-table-integration|Setting up a remote table integration]]
+-   [Remote Data Options for Remote Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-remote-data-options-for-remote-tables.md)
+-   [Setting up a remote table integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/setting-up-a-remote-table-integration.md)
 
 ## Setting up the new policy data
 
@@ -68,10 +68,3 @@ For more information about defining the product models for your insurance produc
 
 [Policy snapshots in Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/policy-snapshots.md)
 
-## Related
-
-- [[fso-int_guide-remote-data-options-for-remote-tables|Remote Data Options for Remote Tables]]
-- [[setting-up-a-remote-table-integration|Setting up a remote table integration]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[insurance-product-models|Insurance product models]]
-- [[fso-int_guide-overview|Developer guide]]

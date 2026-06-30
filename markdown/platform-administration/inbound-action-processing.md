@@ -12,7 +12,7 @@ breadcrumb: [Inbound email actions, Inbound email, Notifications, Configure core
 
 # Inbound email action processing
 
-The system determines which inbound actions to run by comparing the [[ia-inbound-email-il|inbound email]] type and inbound action conditions to the incoming email message. Certain properties are available to set the reply and forwarding prefixes in the email subject lines that your instance recognizes when processing inbound emails.
+The system determines which inbound actions to run by comparing the inbound email type and inbound action conditions to the incoming email message. Certain properties are available to set the reply and forwarding prefixes in the email subject lines that your instance recognizes when processing inbound emails.
 
 **Note:** Inbound email flows take priority over inbound email actions. If you create flows with inbound email triggers, emails are first processed by the inbound email triggers before they are processed by inbound email actions.
 
@@ -73,7 +73,7 @@ Description
 
 Specifies the list of prefixes \(comma-separated\) in the subject line that identify a forwarded email.-   Type: string
 -   Default value: fw:,fwd:
--   Location: Add to the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table
+-   Location: Add to the System Properties \[sys\_properties\] table
  **Note:** Prefixes are case insensitive.
 
 </td></tr></tbody>
@@ -95,7 +95,7 @@ Specifies the list of prefixes \(comma-separated\) in the subject line that iden
 
 The instance matches a senders email address to an active user in the User \[sys\_user\] table using inbound actions.
 
-When processing an email, the instance sets the current user to the user whose email address matches **email.from**. Inbound actions can then [[reference-email-admin|reference]] that current user. For example, the base system inbound action Create Incident sets the **caller\_id** of the incident to the value returned by `gs.getUserID()`.
+When processing an email, the instance sets the current user to the user whose email address matches **email.from**. Inbound actions can then reference that current user. For example, the base system inbound action Create Incident sets the **caller\_id** of the incident to the value returned by `gs.getUserID()`.
 
 If multiple users have the same email address, the instance first searches for an active user with the email address. The instance does not match inactive users.
 
@@ -111,7 +111,7 @@ The following examples illustrate how the instance matches randomized watermarks
 
 |Subject Line or Body Contents|Matching Results|
 |-----------------------------|----------------|
-|Ref:MSG0000008\_ aLJc130zDhCVuh3spXmt|The instance recognizes this string as a watermark and searches the Email Watermarks \[sys\_watermark\] table for a record with the number MSG0000008\_ aLJc130zDhCVuh3spXmt. If this watermark exists, the instance matches the email to the associated record. If this watermark does not exist, the system processes inbound email messages as described in [[inbound-action-type-criteria|Criteria for matching email to inbound actions]].|
+|Ref:MSG0000008\_ aLJc130zDhCVuh3spXmt|The instance recognizes this string as a watermark and searches the Email Watermarks \[sys\_watermark\] table for a record with the number MSG0000008\_ aLJc130zDhCVuh3spXmt. If this watermark exists, the instance matches the email to the associated record. If this watermark does not exist, the system processes inbound email messages as described in [Criteria for matching email to inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-action-type-criteria.md).|
 |Ref:MSGWTR0000008\_wfLLz42IxCgUvG2JlYnh|The instance recognizes this string as a watermark and searches the Email Watermarks \[sys\_watermark\] table for a record with the number MSGWTR0000008\_wfLLz42IxCgUvG2JlYnh. If this watermark exists, the instance matches the email to the associated record. If this watermark does not exist, the system processes inbound email messages as described in [Criteria for matching email to inbound actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/inbound-action-type-criteria.md).|
 
 ## Matching record numbers in the Subject line or Body
@@ -124,7 +124,7 @@ Subject line contents
 
 </th><th>
 
-Matching [[hs-results|results]]
+Matching results
 
 </th></tr></thead><tbody><tr><td>
 
@@ -160,7 +160,7 @@ RE: CHG0008593 and INC000576
 
 </td><td>
 
-The instance recognizes this subject line as a reply and recognizes one, but not both, of the number prefixes. There is no way to predict which prefix the instance matches first. Whichever prefix it matches, it searches the corresponding table for a matching record. If the record exists, the email is associated with the table. If the record does not exist, the instance uses the inbound action for new emails to create an incident and associates the new incident with the email.**Note:** The instance does not support processing email with multiple numbers in the subject line because there is no way to predict which record the instance matches first. For this reason, do not include more than one $number variable in your [[notifications|notifications]].
+The instance recognizes this subject line as a reply and recognizes one, but not both, of the number prefixes. There is no way to predict which prefix the instance matches first. Whichever prefix it matches, it searches the corresponding table for a matching record. If the record exists, the email is associated with the table. If the record does not exist, the instance uses the inbound action for new emails to create an incident and associates the new incident with the email.**Note:** The instance does not support processing email with multiple numbers in the subject line because there is no way to predict which record the instance matches first. For this reason, do not include more than one $number variable in your notifications.
 
 </td></tr><tr><td>
 
@@ -179,14 +179,5 @@ Example INC0005574
 The instance recognizes this subject as a new email because it does not contain a matching reply or forward prefix. It uses the inbound action for new emails to create an incident and associates the new incident with the email.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[actions-inbound-email|Inbound email actions]]
+</table>**Parent Topic:**[Inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/actions-inbound-email.md)
 
-## Related
-
-- [[inbound-action-type-criteria|Criteria for matching email to inbound actions]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[notifications|Notifications]]

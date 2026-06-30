@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # View all mapped OT devices
 
-View a list of all the [[operational-technology-overview|Operational Technology]] \(OT\) devices that are mapped to an equipment model entity.
+View a list of all the Operational Technology \(OT\) devices that are mapped to an equipment model entity.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you open a parent record in the CI Relationships table, you can view the Ma
 
 ## Procedure
 
-1.  To view the mapped OT devices in the [[industrial-workspace-for-operational-technology|Industrial Workspace]], complete the following actions.
+1.  To view the mapped OT devices in the Industrial Workspace, complete the following actions.
 
     1.  Navigate to the Industrial Workspace.
     2.  Select the Equipment model \(\[Omitted image "equip-model-manager-button.png"\] Alt text: Equipment model icon in the Industrial Workspace to access the Equipment Model Manager\) icon.
@@ -35,7 +35,7 @@ When you open a parent record in the CI Relationships table, you can view the Ma
 
         **Note:** The **Mapped Equipment Model Entity** column notes the equipment model entity that the device is mapped to. You can map a device to more than one equipment model entity.
 
-2.  To view the mapped OT devices on the ServiceNow AI Platform, navigate to **All** &gt; **Industrial Workspace Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **Mapped OT Devices**.
+2.  To view the mapped OT devices on the ServiceNow AI Platform, navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Mapped OT Devices**.
 
     This list contains all the devices that are mapped with different equipment model entities. The **Automates by :: Automates** CI relationship is applied to the parent and child entities.
 
@@ -44,8 +44,3 @@ When you open a parent record in the CI Relationships table, you can view the Ma
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

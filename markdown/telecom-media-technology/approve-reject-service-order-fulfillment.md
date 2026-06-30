@@ -26,7 +26,7 @@ Role required: sn\_ind\_tmt\_orm.service\_order\_manager
 Some of the OMT tables need reparenting. Please contact administrator to execute the reparenting script.
 ```
 
-The Post Upgrade Script performs required order management table reparenting and column promotion. If the script hasn't been run, the [[sales-crm-order-decomposition|order decomposition]] and order fulfillment functions won't function as designed until your system administrator runs it. To learn more, see [[restructured-order-mgt-tables-san-diego|Restructured Order Management tables]].
+The Post Upgrade Script performs required order management table reparenting and column promotion. If the script hasn't been run, the order decomposition and order fulfillment functions won't function as designed until your system administrator runs it. To learn more, see [Restructured Order Management tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/restructured-order-mgt-tables-san-diego.md).
 
 ## Procedure
 
@@ -94,8 +94,3 @@ When you reject an order for fulfillment, the following actions take place:
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[restructured-order-mgt-tables-san-diego|Restructured Order Management tables]]
-- [[sales-crm-order-decomposition|Order decomposition]]

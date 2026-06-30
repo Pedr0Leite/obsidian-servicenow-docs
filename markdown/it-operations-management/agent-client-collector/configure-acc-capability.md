@@ -14,7 +14,7 @@ breadcrumb: [Automatic MID Server selection, Configuring ACC with a MID Server, 
 
 # Configure the Agent Client Collector capabilities for MID Servers
 
-Configure the MID Servers with [[acc-landing-page|Agent Client Collector]] capabilities to enable the MID Servers to work with agents. Agents that have identical MID Server capabilities are eligible for [[acc-auto-mid-selection|automatic MID Server selection]].
+Configure the MID Servers with Agent Client Collector capabilities to enable the MID Servers to work with agents. Agents that have identical MID Server capabilities are eligible for automatic MID Server selection.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ MID Servers with the same capabilities are eligible to be used during automatic 
 
 **Parent Topic:**[Automatic MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-auto-mid-selection.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-auto-mid-selection|Automatic MID Server selection]]

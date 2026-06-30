@@ -14,12 +14,12 @@ breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply 
 
 # Sourcing and Procurement Operations integration with Third-party Risk Management
 
-Leverage relevant [[supplier|supplier]] risk assessment capabilities by integrating [[psm-overview|Sourcing and Procurement Operations]] with Third-party Risk Management.
+Leverage relevant supplier risk assessment capabilities by integrating Sourcing and Procurement Operations with Third-party Risk Management.
 
 The following capabilities can be leveraged by customers if they have both the Sourcing and Procurement Operations and Third-party Risk Management applications installed:
 
 -   Connection between the Company and Supplier tables through the **Related company** field. Also, leverage properties in the tables to synchronize other fields between the two tables at your own discretion.
--   Viewing tiering assessments and risk assessments for a vendor in the [[slo-supplier-table|Supplier table]].
+-   Viewing tiering assessments and risk assessments for a vendor in the Supplier table.
 -   Vendor Risk Reviewer role as a procurement specialist.
 -   Adding members to the Governance, Risk, and Compliance \(GRC\) group, containing the new Purchasing Task Owner role.
 -   Automation of the **Valid risk assessment** field in the Supplier table.
@@ -79,7 +79,7 @@ A new Conduct a Supplier Tiering Assessment case can be created in either of the
 
 -   Manually, by a customer.
 
-You can customize this case through the Supplier Tiering Assessment case templates, by defining the **Sourcing decision dependent on case** field to decide if this case should stop the [[sourcing-request|sourcing request]] from moving into the Requires Decision state. The default value of this field is **Yes**. In this scenario, if all [[purchase-requisition|purchase requisition]] lines are in the [[pricing|Pricing]] Obtained state, and there are other cases still open, the sourcing request moves to the Awaiting Task Completion state. When the open cases are closed, the sourcing request moves to the Requires decision state. When the **Sourcing decision dependent on case** field is set to **No**, and if all purchase requisition lines are in the Pricing Obtained state, then the sourcing request will be in the same Pricing Obtained state even if other cases are open.
+You can customize this case through the Supplier Tiering Assessment case templates, by defining the **Sourcing decision dependent on case** field to decide if this case should stop the sourcing request from moving into the Requires Decision state. The default value of this field is **Yes**. In this scenario, if all purchase requisition lines are in the Pricing Obtained state, and there are other cases still open, the sourcing request moves to the Awaiting Task Completion state. When the open cases are closed, the sourcing request moves to the Requires decision state. When the **Sourcing decision dependent on case** field is set to **No**, and if all purchase requisition lines are in the Pricing Obtained state, then the sourcing request will be in the same Pricing Obtained state even if other cases are open.
 
 If the sourcing request gets converted to a purchase request, the case is available to be completed in the purchase requisition.
 
@@ -112,11 +112,3 @@ For more information on sourcing requests, purchasing tasks, and procurement cas
 
 [Procurement File Transfer Framework]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[slo-supplier-table|Supplier table]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[pricing|Pricing]]

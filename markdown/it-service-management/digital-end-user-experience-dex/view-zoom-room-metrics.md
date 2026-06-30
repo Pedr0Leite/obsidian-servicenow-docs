@@ -27,7 +27,7 @@ Role required: admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-application-tab|Applications]] icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
+2.  In the primary navigation pane, select the Applications icon \(\[Omitted image "icon-applications.png"\] Alt text: The Applications icon.\).
 
 3.  Select **Zoom**.
 
@@ -41,6 +41,4 @@ Role required: admin
 
 6.  Select the issue count link to open the Details tab, where you can view the issues and the time they occurred.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]

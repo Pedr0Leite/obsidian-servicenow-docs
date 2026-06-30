@@ -14,7 +14,7 @@ breadcrumb: [Testing using Test Management 2.0, Test Management 2.0, Test Manage
 
 # Create a test in Test Management 2.0
 
-[[t_CreateATest|Create a test]] specifying conditions or steps to determine whether a feature is working correctly.
+Create a test specifying conditions or steps to determine whether a feature is working correctly.
 
 ## Before you begin
 
@@ -34,17 +34,17 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d277186e70">
 
-**From [[test-management2-landing-page|Test Management 2.0]]**
+**From Test Management 2.0**
 
 </td><td>
 
-1.  Navigate to **Test Management 2.0** &gt; **[[c_Tests|Tests]]**.
+1.  Navigate to **Test Management 2.0** &gt; **Tests**.
 2.  To create a test, click **New**.
 
 
 </td></tr><tr><td id="d277186e100">
 
-**From [[agile-landing-page|Agile Development 2.0]]**
+**From Agile Development 2.0**
 
 </td><td>
 
@@ -215,9 +215,3 @@ To add a test to a test set:
 
 [Run your test assignments in Test Management 2.0]()
 
-## Related
-
-- [[t_CreateATest|Create a test]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_Tests|Tests]]
-- [[agile-landing-page|Agile Development 2.0]]

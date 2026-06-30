@@ -14,7 +14,7 @@ breadcrumb: [Configure Microsoft AD for secure LDAPS communication, LDAP integra
 
 # Export the public key certificate to trust the LDAP certificate
 
-[[t_ExportingThePublicKeyCertificate|Export the public key certificate]] and import it into the application when you configure Microsoft Active Directory for SSL access.
+Export the public key certificate and import it into the application when you configure Microsoft Active Directory for SSL access.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-If your Certificate Authority is not a trusted third party vendor, you must [[export|export]] the certificate for the issuing CA so we can trust it, and, by association, trust the LDAP server certificate. For MS Certificate Services [[users|users]], you can view the certificate path by viewing the certificate in the console used to export; select the **Certificate Path** tab. You must export all [[c_Certificates|certificates]] in the chain. You can find the CA certificate in the same folder as the LDAP certificate by looking for the name in the Certificate Path. Submit all certificates for importing to your instance.
+If your Certificate Authority is not a trusted third party vendor, you must export the certificate for the issuing CA so we can trust it, and, by association, trust the LDAP server certificate. For MS Certificate Services users, you can view the certificate path by viewing the certificate in the console used to export; select the **Certificate Path** tab. You must export all certificates in the chain. You can find the CA certificate in the same folder as the LDAP certificate by looking for the name in the Certificate Path. Submit all certificates for importing to your instance.
 
 ## Procedure
 
@@ -49,9 +49,3 @@ After completing this procedure, import the public key certificate into the appl
 
 See [Install the LDAP X.509 SSL certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ldap-integration/t_UploadTheX509SSLCertificate.md) to upload the certificate into the application.
 
-## Related
-
-- [[t_ExportingThePublicKeyCertificate|Export the public key certificate]]
-- [[export|Export]]
-- [[users|Users]]
-- [[c_Certificates|Certificates]]

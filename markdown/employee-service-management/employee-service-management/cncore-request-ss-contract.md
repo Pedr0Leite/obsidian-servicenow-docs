@@ -10,7 +10,7 @@ reading_time_minutes: 4
 
 # Use self-served contract request
 
-Use [[cncore-cmpro-landing-page|Contract Management Pro]] to submit contract requests that will generate contract documents using a predefined contract template and template rules.
+Use Contract Management Pro to submit contract requests that will generate contract documents using a predefined contract template and template rules.
 
 ## Features
 
@@ -65,9 +65,5 @@ A workflow for a self-served contract request might progress as follows:
 
 **Note:**
 
-The contract requester can [[cncore-cancel-request-tpc|cancel a contract request]] when the state is in Draft, New, Awaiting Approval, Awaiting signature, or Work in progress.
+The contract requester can cancel a contract request when the state is in Draft, New, Awaiting Approval, Awaiting signature, or Work in progress.
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-cancel-request-tpc|Cancel a contract request]]

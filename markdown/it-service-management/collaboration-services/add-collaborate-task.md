@@ -14,13 +14,13 @@ breadcrumb: [Process flow for Slack communication, Collaboration services, IT Se
 
 # Add a collaborative communication task
 
-In [[major-incident-workbench|major incident workbench]], you can add a collaborative communication task to collaborate and understand the progress of communication plan and its related tasks.
+In major incident workbench, you can add a collaborative communication task to collaborate and understand the progress of communication plan and its related tasks.
 
 ## Before you begin
 
 -   Role required: major\_incident\_manager
 -   This feature is compatible with:
-    -   [[collab-services-tcm|Collaboration Services]] store app - minimum version 3.04
+    -   Collaboration Services store app - minimum version 3.04
     -   Slack store app - minimum version 1.4.x
 
 ## Procedure
@@ -48,7 +48,4 @@ In [[major-incident-workbench|major incident workbench]], you can add a collabor
 
 7.  In the **Manage Recipients** tab, add the users required to be involved in the major incident collaborative communication task, and click **Add**.
 
-## Related
 
-- [[major-incident-workbench|Major incident workbench]]
-- [[collab-services-tcm|Collaboration services]]

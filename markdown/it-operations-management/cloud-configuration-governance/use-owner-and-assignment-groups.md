@@ -14,7 +14,7 @@ breadcrumb: [Additional Cloud Provisioning and Governance setup on day 2, Cloud 
 
 # Use owner and assignment groups
 
-You must set up and use the user groups in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] as a part of the day-2 task.
+You must set up and use the user groups in Cloud Provisioning and Governance as a part of the day-2 task.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Owner group- This is used in quota management. During any stack provision, the u
 
 **Note:** If the stack is deleted or the owner group field changes for the stack, the quota is recalculated. The quota is recalculated in the business rule: Recalc Consumed Quota on Stack Update.
 
-Assign group- The [[r-discovery|discovery]] schedule runs bring the resources created from other instances into your instance. These resources are unmanaged. Similarly, the 'Fill in tag assignments' scheduled job creates unmanaged stacks. To manage these stacks and resources, you can assign a change group to them.
+Assign group- The discovery schedule runs bring the resources created from other instances into your instance. These resources are unmanaged. Similarly, the 'Fill in tag assignments' scheduled job creates unmanaged stacks. To manage these stacks and resources, you can assign a change group to them.
 
-Assign a change group to an unmanaged stack or resource, to make it visible in the **[[cloudmgt-cloud-user-portal|Cloud User Portal]]**, enabling you to perform day 2 operations on this resource.
+Assign a change group to an unmanaged stack or resource, to make it visible in the **Cloud User Portal**, enabling you to perform day 2 operations on this resource.
 
 ## Procedure
 
@@ -45,8 +45,3 @@ Assign a change group to an unmanaged stack or resource, to make it visible in t
 
 **Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-mgt-general-setup-day-2.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

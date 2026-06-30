@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog Terraform Connector, Cloud Servi
 
 # Create a Terraform Open Source config provider
 
-Create a Terraform Open Source config provider in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. The Terraform Open Source config provider enables Cloud Provisioning and Governance to discover the Terraform Open Source config installables \(Terraform templates\) and detect changes in them.
+Create a Terraform Open Source config provider in Cloud Provisioning and Governance. The Terraform Open Source config provider enables Cloud Provisioning and Governance to discover the Terraform Open Source config installables \(Terraform templates\) and detect changes in them.
 
 ## About this task
 
@@ -22,7 +22,7 @@ Starting this release, you can use OpenTofu with Cloud Provisioning and Governan
 
 ## Before you begin
 
--   Ensure that a supported Terraform Open Source version is installed in the server. [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] supports Terraform Open Source versions 1.1.0 through 1.1.9 and 1.2.0 or higher
+-   Ensure that a supported Terraform Open Source version is installed in the server. Cloud Services Catalog Terraform Connector supports Terraform Open Source versions 1.1.0 through 1.1.9 and 1.2.0 or higher
 -   If you want to use a minor or patch version of the Terraform Open Source CLI, ensure that the minor or patch version is added to the workload config provider. For more information, see [Add support for minor or patch versions of the Terraform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/terraform-use-minor-patch-version-cli.md).
 -   Ensure that the MID Server can access the Terraform server.
 -   Ensure that the MID Server has Terraform capability.
@@ -36,7 +36,7 @@ Role required: cloud\_admin
 
 1.  If you have deployed the Terraform Open Source on a Linux server, create SSH Private Key Credentials for the server in the ServiceNow AI Platform.
 
-    1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+    1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
         The Cloud Admin Portal opens in a new browser tab.
 
@@ -109,8 +109,3 @@ Role required: cloud\_admin
 
 Discover the Terraform templates from the Terraform Open Source server. For more information, see [Run the IaC Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/discover-terraform-config-installables-vcs-workspaces.md).
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

@@ -13,7 +13,7 @@ breadcrumb: [Scenario analysis, Manage, Operational Resilience, Governance, Risk
 
 # Scenario analysis entry points and flow configuration
 
-Starting with [[grc-opres-landing-page|Operational Resilience]], version 22.3.1, the advanced [[scenario-analysis-ov|scenario analysis]] flow \(sn\_oper\_res\_scenario\_analysis\_advance\) replaces the legacy scenario analysis flow \(sn\_oper\_res\_scenario\_analysis\) across different entry-point surfaces in the Operational Resilience Workspace.
+Starting with Operational Resilience, version 22.3.1, the advanced scenario analysis flow \(sn\_oper\_res\_scenario\_analysis\_advance\) replaces the legacy scenario analysis flow \(sn\_oper\_res\_scenario\_analysis\) across different entry-point surfaces in the Operational Resilience Workspace.
 
 The advanced scenario analysis flow is enabled by default in the Operational Resilience Workspace. The legacy flow remains in the platform but is hidden from the four entry-point surfaces described in this topic. If your organization needs to continue using the legacy flow, an administrator can reactivate it on each surface.
 
@@ -26,9 +26,9 @@ The advanced scenario analysis flow is active by default on these entry points:
 -   Scenario analysis \(legacy\) UX list record
 -   Scenario analysis widget in the Home page
 -   Vertical page layout
--   Source field on the [[exploring-op-vul|Operational vulnerability]] record
+-   Source field on the Operational vulnerability record
 
-To enable the legacy flow on any of these entry points, see [[activate-scenario-analysis-legacy-flow|Enable the legacy scenario analysis flow]].
+To enable the legacy flow on any of these entry points, see [Enable the legacy scenario analysis flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-scenario-analysis-legacy-flow.md).
 
 ## Scenario analysis list
 
@@ -82,16 +82,7 @@ When configured for the legacy flow, the Source drop-down on an Operational vuln
 
 ## Default flow
 
-The advanced scenario analysis flow is active across all four entry points by default. For information on building an advanced [[scenario-analysis-in-ws|scenario analysis using simulation]] or manual method, see [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]]. For legacy scenario analysis, see [[legacy-scenario-analysis-ov|Legacy scenario analysis]].
+The advanced scenario analysis flow is active across all four entry points by default. For information on building an advanced scenario analysis using simulation or manual method, see [Building a scenario analysis using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-playbook-experience.md). For legacy scenario analysis, see [Legacy scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/legacy-scenario-analysis-ov.md).
 
 To enable the legacy scenario analysis, see [Enable the legacy scenario analysis flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-scenario-analysis-legacy-flow.md).
 
-## Related
-
-- [[activate-scenario-analysis-legacy-flow|Enable the legacy scenario analysis flow]]
-- [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]]
-- [[legacy-scenario-analysis-ov|Legacy scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[scenario-analysis-in-ws|Scenario analysis using simulation]]

@@ -61,7 +61,7 @@ Sectigo
 -   \* /cert-manager/api/ssl/v1/collect/\{certificate\_id\}/pem
 
 </td></tr></tbody>
-</table>The patterns available with [[cert-inventory-mgmt|Certificate Inventory and Management]] Version 1.1.7 are:
+</table>The patterns available with Certificate Inventory and Management Version 1.1.7 are:
 
 -   GoDaddy
 -   DigitCert
@@ -73,6 +73,3 @@ The patterns available with Certificate Inventory and Management Version 1.2.0 a
 
 **Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

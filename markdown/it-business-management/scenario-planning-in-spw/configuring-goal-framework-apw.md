@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Configuring goals in Strategic Planning
 
-To define and manage [[goal-management-in-alignment-planner-workspace|goals in Strategic Planning]], you must perform some initial administrative tasks for the workspace to be fully functional. The data displayed in the goals view in [[alignment-planner-workspace-landing-page|Strategic Planning]] is stored in the Goal Framework tables.
+To define and manage goals in Strategic Planning, you must perform some initial administrative tasks for the workspace to be fully functional. The data displayed in the goals view in Strategic Planning is stored in the Goal Framework tables.
 
 -   With the admin role, you can migrate the existing goals data to the Goal Framework tables.
 -   With the sn\_gf.goal\_admin role, you can set the goal preferences.
@@ -26,13 +26,13 @@ With the admin role, you can import your existing goals and targets data from a 
 -   **[Migrate existing goals data to Goal Framework tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/migrate-existing-goals-data-apw.md)**  
 If your organization uses the legacy goal and strategy tables \(Goal, Enterprise Strategy, Business Unit Strategy, and Strategic Objective\), you can migrate the existing data to the Goal Framework tables by running the scheduled job.
 -   **[Configure goal preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-goal-preferences-apw.md)**  
-[[configure-goal-preferences|Configure goal preferences]] to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
+Configure goal preferences to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
 -   **[Customize label for Goal and Target tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customize-labels-for-goal-and-target-tables.md)**  
 Customize the label for Goal \[sn\_gf\_goal\] and Target \[sn\_gf\_goal\_target\] tables according to your organization’s requirement.
 -   **[Configure a table for an assigned entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-assigned-entity-egm.md)**  
-[[configure-assigned-entity|Configure a table for an assigned entity]] type, so that the goal user can associate goals with the required assigned entity.
+Configure a table for an assigned entity type, so that the goal user can associate goals with the required assigned entity.
 -   **[Create goals demo data with target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-goals-demo-data-with-target-breakdowns.md)**  
-Run the **[[create-goals-demo-data-with-target-breakdowns|Create Goals Demo Data with Target Breakdowns]]** schedule job to create goals demo data with target breakdowns, so that you can view the [[target-breakdowns-gf|target breakdowns]] section on the Goals page.
+Run the **Create Goals Demo Data with Target Breakdowns** schedule job to create goals demo data with target breakdowns, so that you can view the target breakdowns section on the Goals page.
 -   **[Update a schedule job to automate Actual value of the targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/schedule-a-job-to-automate-actual-value-of-the-targets-apw.md)**  
 Use the Goal Framework for SPM application to modify the run time for the scheduled job according to your preference to auto-update the actual value of the targets for which a target source has been configured.
 -   **[Set display limit for goals and targets in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/set-display-limits-for-goals-and-targets-spw.md)**  
@@ -44,16 +44,7 @@ Migrate the existing goal relationship data from the Goal Relationship \[sn\_gf\
 -   **[Configuring target source for target automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-targets-for-a-goal-and-automating-the-actual-value-using-agf-apw.md)**  
 Configure target sources for target automation so that the goal user can define a target source when setting a target for the goal. Defining a target source for a target updates the actual value of the target automatically.
 -   **[Defining a custom unit of measure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/defining-a-custom-unit-of-measure.md)**  
-[[defining-a-custom-unit-of-measure-gf|Defining a custom unit of measure]] helps the goal users to set the unit of measure for targets as per their choice. Unit of measures are two types, quantitative and qualitative.
+Defining a custom unit of measure helps the goal users to set the unit of measure for targets as per their choice. Unit of measures are two types, quantitative and qualitative.
 
 **Parent Topic:**[Configuring Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-up-alignment-planner-workspace.md)
 
-## Related
-
-- [[goal-management-in-alignment-planner-workspace|Goals in Strategic Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[configure-goal-preferences|Configure goal preferences]]
-- [[configure-assigned-entity|Configure a table for an assigned entity]]
-- [[create-goals-demo-data-with-target-breakdowns|Create goals demo data with target breakdowns]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[defining-a-custom-unit-of-measure-gf|Defining a custom unit of measure]]

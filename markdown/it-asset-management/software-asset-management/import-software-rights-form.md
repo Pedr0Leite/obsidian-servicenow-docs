@@ -34,7 +34,7 @@ Import
 
 Option that saves the Entitlement Import Error record. After you save the record, you remain on the Entitlement Import Error form, so you can easily save the form between actionsUpon saving, all values are reevaluated and the form is updated.
 
- For example, if both the publisher part number and [[software-model-fields|software model fields]] are missing, once a known publisher part number is added and the form is saved, the **Software model** field is filled in automatically.
+ For example, if both the publisher part number and software model fields are missing, once a known publisher part number is added and the form is saved, the **Software model** field is filled in automatically.
 
 **Note:** Because the form is reevaluated after each save, changes made to one entitlement may cause an error for another entitlement, such as a **Duplicate entry**.
 
@@ -46,7 +46,7 @@ Create PPN
 
 </td><td>
 
-Part number for custom software. If you are importing entitlements using the [[c_SoftwareAssetMgmt|Software Asset Management]] workspace application, on selecting **Create PPN**, you are taken to the Custom Part Numbers list view page. Select **New** to create a new publisher part number.
+Part number for custom software. If you are importing entitlements using the Software Asset Management workspace application, on selecting **Create PPN**, you are taken to the Custom Part Numbers list view page. Select **New** to create a new publisher part number.
 
  If you are importing entitlements using the Software Asset Management classic application, on selecting **Create PPN**, the Create Discovery Map for Publisher Part Number dialog box appears. Select a product name in the **Product** field and select **Submit** to create a custom discovery map which is automatically associated with the publisher part number.
 
@@ -61,7 +61,3 @@ Duplicate entitlement records cause an import error. Select **Create duplicate e
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[software-model-fields|Software model fields]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

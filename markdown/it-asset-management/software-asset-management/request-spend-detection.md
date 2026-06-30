@@ -14,7 +14,7 @@ breadcrumb: [Software Spend Detection, Software Asset Management, IT Asset Manag
 
 # Request Software Spend Detection
 
-Request Software Spend Detection to track, analyze, and optimize software spending. To access [[software-spend-detection|Software Spend Detection]], enable the [[c_SoftwareAssetMgmt|Software Asset Management]] - Spend Detection \(com.sn\_sam\_spend\) plugin. This plugin includes demo data.
+Request Software Spend Detection to track, analyze, and optimize software spending. To access Software Spend Detection, enable the Software Asset Management - Spend Detection \(com.sn\_sam\_spend\) plugin. This plugin includes demo data.
 
 ## Before you begin
 
@@ -78,7 +78,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[Software Spend Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-spend-detection.md)
 
-## Related
-
-- [[software-spend-detection|Software Spend Detection]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

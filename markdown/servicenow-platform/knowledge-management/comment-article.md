@@ -18,7 +18,7 @@ Comment on a knowledge article or reply to a comment.
 
 ## Before you begin
 
-You must activate the [[knowledge-management|Knowledge Management]] V3 plugin \(com.snc.knowledge3\).
+You must activate the Knowledge Management V3 plugin \(com.snc.knowledge3\).
 
 Role required: User with Can Read access. Unauthenticated users and users with only the snc\_external role can’t add or view attachments for comments.
 
@@ -63,6 +63,3 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

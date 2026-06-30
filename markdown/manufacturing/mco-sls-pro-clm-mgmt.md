@@ -16,23 +16,16 @@ To be updated
 
 |Tasks|Description|
 |-----|-----------|
-|[[mco-create-sls-pro-claim-case|Create a sales promotion claim case]]|Create a sales promotion claim case.|
-|[[all-cases|View sales promotion claim cases]]|View all the sales promotion claim cases.|
-|[[mco-approve-sp-claim|Approve all claims]]|Different types of approval.|
+|[Create a sales promotion claim case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-sls-pro-claim-case.md)|Create a sales promotion claim case.|
+|[View sales promotion claim cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/all-cases.md)|View all the sales promotion claim cases.|
+|[Approve all claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-sp-claim.md)|Different types of approval.|
 
 -   **[Create a sales promotion claim case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-sls-pro-claim-case.md)**  
 Create a sales promotion claim case.
 -   **[View sales promotion claim cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/all-cases.md)**  
 View the sales promotion claim cases.
--   **[[mco-approve-sales-promotion-claims|Reviewing and approving the sales promotion claims]]**  
+-   **[Reviewing and approving the sales promotion claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-sales-promotion-claims.md)**  
 Agents workspace enables a claims agent to review and approve the sales promotion claims submitted by the dealer.
 
-**Parent Topic:**[[mco-sales-promotion|Sales promotion]]
+**Parent Topic:**[Sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion.md)
 
-## Related
-
-- [[mco-create-sls-pro-claim-case|Create a sales promotion claim case]]
-- [[all-cases|View sales promotion claim cases]]
-- [[mco-approve-sp-claim|Approve all claims]]
-- [[mco-approve-sales-promotion-claims|Reviewing and approving the sales promotion claims]]
-- [[mco-sales-promotion|Sales promotion]]

@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins for Customer Service M
 
 # Components installed with Targeted Communications
 
-Several types of components are installed with the [[c_TargetedCommunications|Targeted Communications]] application.
+Several types of components are installed with the Targeted Communications application.
 
 ## Tables installed with Targeted Communications
 
@@ -32,7 +32,7 @@ Recipients \(Users\)\[sn\_publications\_recipientslist\_user\_m2m\]
 
 </td><td>
 
-Stores [[major-issue-recipient-lists|recipients lists]] of type Internal Users.
+Stores recipients lists of type Internal Users.
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Recipients List \[sn\_publications\_recipients\_list\]
 
 </td><td>
 
-Stores the recipient [[migration-lists|lists]].
+Stores the recipient lists.
 
 </td></tr><tr><td>
 
@@ -207,9 +207,3 @@ Limits the number of email recipients.-   **Type**: integer
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]
-- [[major-issue-recipient-lists|Recipients lists]]
-- [[migration-lists|Lists]]

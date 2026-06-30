@@ -15,9 +15,9 @@ breadcrumb: [Now Assist in AI Search reference, Now Assist in AI Search, Service
 
 # Auto-complete suggestion types included with Now Assist in AI Search
 
-[[now-assist-ais|Now Assist in AI Search]] includes an auto-complete suggestion type that displays suggested Now Assist in Virtual Agent conversational prompts.
+Now Assist in AI Search includes an auto-complete suggestion type that displays suggested Now Assist in Virtual Agent conversational prompts.
 
-To learn more about how this auto-complete suggestion type appears to search and chat users, see [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/nava-enhanced-chat.md). For details on configuring and using auto-complete suggestion types in your [[defining-search-app-cfgs-ais|search application configurations]], see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md).
+To learn more about how this auto-complete suggestion type appears to search and chat users, see [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/nava-enhanced-chat.md). For details on configuring and using auto-complete suggestion types in your search application configurations, see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md).
 
 <table id="table_rc4_z2y_v2c"><thead><tr><th>
 
@@ -57,7 +57,3 @@ Displays Virtual Agent conversational prompts based on previous user searches \(
 </td></tr></tbody>
 </table>**Parent Topic:**[Now Assist in AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-now-assist-ais.md)
 
-## Related
-
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

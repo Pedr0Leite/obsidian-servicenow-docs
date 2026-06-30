@@ -18,7 +18,7 @@ Platform Analytics Solutions contain preconfigured dashboards. These dashboards 
 
 Platform Analytics data visualizations use Performance Analytics [indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/glossary/now-platform-glossary.md) data to show you data over time, helping you analyze your business processes and identify areas of improvement. With Platform Analytics Solutions, you can get value from Performance Analytics for your application with minimal setup. You can always create your own objects as well.
 
-To enable the solution for [[c_ProjectPortfolioSuite|Project Portfolio Management]], log in as an admin and navigate to **Performance Analytics** &gt; **Guided Setup**. Click **Get Started**, then scroll to the section for PPM Standard Dashboards. The guided setup takes you through the entire setup and configuration process.
+To enable the solution for Project Portfolio Management, log in as an admin and navigate to **Performance Analytics** &gt; **Guided Setup**. Click **Get Started**, then scroll to the section for PPM Standard Dashboards. The guided setup takes you through the entire setup and configuration process.
 
 Alternatively, activate the Performance Analytics – Content Pack – PPM Standard plugin \(com.snc.pa.pmo\_dashboards\).
 
@@ -27,12 +27,12 @@ Activation of com.snc.pa.pmo\_dashboards plugin also activates the following plu
 -   PPM Standard \(com.snc.financial\_planning\_pmo\)
 -   Performance Analytics – Content Pack – Project Portfolio Suite Dashboards \(com.snc.pps\_dashboards\)
 
-Access the [[pmo-dashboard|PMO dashboard]] using either of the following navigation links:
+Access the PMO dashboard using either of the following navigation links:
 
--   **Project** &gt; **Portfolios** &gt; **[[c_PortfolioManagerDashboard|Portfolio Dashboard]]**.
--   **Project** &gt; **Programs** &gt; **[[c_ProgramManagerDashboard|Program Dashboard]]**.
+-   **Project** &gt; **Portfolios** &gt; **Portfolio Dashboard**.
+-   **Project** &gt; **Programs** &gt; **Program Dashboard**.
 -   **Self-Service** &gt; **Dashboards**. Search for **PMO Dashboard** using the search field.
--   **[[time-sheets|Time Sheets]]** &gt; **[[worker-portal|Time Sheet Portal]]** &gt; **Time Sheet Dashboard**.
+-   **Time Sheets** &gt; **Time Sheet Portal** &gt; **Time Sheet Dashboard**.
 
 The dashboard displays the data based on the navigation link used to open it.
 
@@ -47,7 +47,7 @@ This solution replaces the Project Portfolio Suite \(com.snc.pa.ppm\) Solution. 
 -   **[PMO dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/pmo-dashboard.md)**  
 The PMO dashboard provides comprehensive reports to the portfolio and program managers. The dashboard uses Platform Analytics to provide a trend of historical data as well as regular reports. It gives an overview of your investments, provides a pipeline view of upcoming intake and a calendar view of upcoming dates.
 -   **[Analytics Time sheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/time-sheet-dashboard.md)**  
-The [[time-sheet-dashboard|Analytics Time sheet]] provides comprehensive time sheet activities and reports to the time card approvers and time card users. The dashboard uses Performance Analytics to provide a trend of historical data and regular reports. It gives an overview of the time sheet activities of resources, time sheet approval and rejection rate, over-allocated and under-allocated resource counts.
+The Analytics Time sheet provides comprehensive time sheet activities and reports to the time card approvers and time card users. The dashboard uses Performance Analytics to provide a trend of historical data and regular reports. It gives an overview of the time sheet activities of resources, time sheet approval and rejection rate, over-allocated and under-allocated resource counts.
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
@@ -56,12 +56,3 @@ The [[time-sheet-dashboard|Analytics Time sheet]] provides comprehensive time sh
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[pmo-dashboard|PMO dashboard]]
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
-- [[c_ProgramManagerDashboard|Program Dashboard]]
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]
-- [[time-sheet-dashboard|Analytics Time sheet]]

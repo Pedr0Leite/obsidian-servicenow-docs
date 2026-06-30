@@ -38,7 +38,7 @@ Role required: author or agent
 
 2.  Generate an article by using the UI actions that appear in the record.
 
-    **Note:** Based on the template selection made by your administrator while [[configuring-knowledge-management|configuring Knowledge Management]] system properties, you can apply either the KCS or standard template to the article.
+    **Note:** Based on the template selection made by your administrator while configuring Knowledge Management system properties, you can apply either the KCS or standard template to the article.
 
 3.  In the Use Al to draft this article? modal, select **Yes, draft with Now Assist**.
 
@@ -99,6 +99,4 @@ Role required: author
 
     The Now Assist success message disappears indicating that it’s no longer a Now LLM Service- generated article.
 
-## Related
 
-- [[configuring-knowledge-management|Configuring Knowledge Management]]

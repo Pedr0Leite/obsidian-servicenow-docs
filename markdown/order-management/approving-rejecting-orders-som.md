@@ -16,7 +16,7 @@ Fulfillment managers bridge the gap between order intake and execution by review
 
 ## Approval workflow
 
-To begin the approval process, start by reviewing the order and its line items thoroughly. Verify that all required [[fields|fields]] such as order number, customer account details, contact information, pricing, critical dates, and product or service specifications are complete and accurate. The order must be in a New state to be eligible for approval.
+To begin the approval process, start by reviewing the order and its line items thoroughly. Verify that all required fields such as order number, customer account details, contact information, pricing, critical dates, and product or service specifications are complete and accurate. The order must be in a New state to be eligible for approval.
 
 As part of this review, the system validates key order details such as contract dates to ensure the order meets approval criteria before it can proceed.
 
@@ -24,7 +24,7 @@ Next, validate the order against your organization’s approval criteria. The ap
 
 -   Accuracy of order details
 -   Completeness of required fields
--   Compliance with business [[rules_101|rules]] such as discount thresholds, contractual terms, or inventory availability
+-   Compliance with business rules such as discount thresholds, contractual terms, or inventory availability
 -   Validity of associated agreements or entitlements
 
 Throughout the process, maintain clear documentation and communication. If any issues arise, coordinate with relevant teams to resolve them before approval, promoting a smooth transition from order intake to fulfillment, and minimizing delays or fallout.
@@ -44,19 +44,12 @@ Once a rejection decision is made, update the order status to Rejected in the sy
 
 ## Reevaluating rejected orders
 
-A rejected order can be corrected and resubmitted for reevaluation by the order agent. If all issues are resolved and the order meets approval criteria, you can approve the order. Approving a rejected order updates the status back to In progress, enabling fulfillment to [[Resume|resume]].
+A rejected order can be corrected and resubmitted for reevaluation by the order agent. If all issues are resolved and the order meets approval criteria, you can approve the order. Approving a rejected order updates the status back to In progress, enabling fulfillment to resume.
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[Resume|Resume]]

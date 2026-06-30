@@ -14,7 +14,7 @@ breadcrumb: [Discovered Items for Configuration Compliance, Configuration Compli
 
 # Reapply CI lookup rules on selected discovered items for Configuration Compliance
 
-Reapply configuration item \(CI\) lookup rules on selected [[cj-discovered-items|discovered items]] from the discovered item list view select actions. The administrator might have to edit or update a lookup rule for multiple reasons. If the lookup rule changes, they can reapply them on the discovered items.
+Reapply configuration item \(CI\) lookup rules on selected discovered items from the discovered item list view select actions. The administrator might have to edit or update a lookup rule for multiple reasons. If the lookup rule changes, they can reapply them on the discovered items.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If the CI changes after reapplying the CI lookup rules, the discovered items are
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security operations]]** &gt; **CMDB** &gt; **Discovered Items**.
+1.  Navigate to **All** &gt; **Security operations** &gt; **CMDB** &gt; **Discovered Items**.
 
 2.  Select the required discovered items and click **Action on selected rows**.
 
@@ -38,10 +38,6 @@ If the CI changes after reapplying the CI lookup rules, the discovered items are
 
     **Note:**
 
-    Starting with [[vr-config-compliance-landing|Configuration Compliance]] v15.1.5, you can skip the reapplication of CI lookup rules on discovered items with the substate ‘CI Decommissioned’ by enabling the system property **sn\_sec\_cmn.skipItemsWithCIDecommissioned**.
+    Starting with Configuration Compliance v15.1.5, you can skip the reapplication of CI lookup rules on discovered items with the substate ‘CI Decommissioned’ by enabling the system property **sn\_sec\_cmn.skipItemsWithCIDecommissioned**.
 
-## Related
 
-- [[cj-discovered-items|Discovered Items]]
-- [[security-operations-landing-page|Security Operations]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

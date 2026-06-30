@@ -14,7 +14,7 @@ breadcrumb: [Allocation workflow, Initiate chargeback, Processing a Visa dispute
 
 # Initiate chargeback and fill merchant response- Allocation workflow
 
-This is a part of the [[allocation-dispute-work-flow|allocation dispute workflow]] for the **Chargeback** stage. Initiate a chargeback request for the card network issuer to credit the card holder with the card network, and await a response from the merchant.
+This is a part of the allocation dispute workflow for the **Chargeback** stage. Initiate a chargeback request for the card network issuer to credit the card holder with the card network, and await a response from the merchant.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -38,11 +38,11 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 6.  In the transaction level playbook of the **Processing** tab, select the transaction ID.
 
-7.  Select the **[[initiate-chargeback-and-fill-merchant-response|Initiate chargeback and fill merchant response]]** activity.
+7.  Select the **Initiate chargeback and fill merchant response** activity.
 
 8.  The chargeback reason code and dispute amount is displayed.
 
-9.  Submit the request by selecting **[[initiate-chargeback-mastercard|Initiate chargeback]]**.
+9.  Submit the request by selecting **Initiate chargeback**.
 
 
 ## Result
@@ -56,9 +56,3 @@ The questionnaire data from the Initiate stage is sent to Visa. The task is set 
 
 **Parent Topic:**[Allocation dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/allocation-dispute-work-flow.md)
 
-## Related
-
-- [[allocation-dispute-work-flow|Allocation dispute workflow]]
-- [[fso-overview|Financial Services]]
-- [[initiate-chargeback-and-fill-merchant-response|Initiate chargeback and fill merchant response]]
-- [[initiate-chargeback-mastercard|Initiate chargeback]]

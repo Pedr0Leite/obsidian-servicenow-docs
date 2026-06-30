@@ -14,7 +14,7 @@ breadcrumb: [NLU Prediction tab, Using the Conversational Analytics Dashboard, C
 
 # Modify models
 
-Test and modify the [[virtual-agent-landing-page|Virtual Agent]] models so they more accurately predict user intents.
+Test and modify the Virtual Agent models so they more accurately predict user intents.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Analytics** and select the **NLU Prediction** tab.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Analytics** and select the **NLU Prediction** tab.
 
 2.  Select **View more**.
 
@@ -83,7 +83,3 @@ Many ServiceNow products, such as ITSM, HRSD, and CSM include NLU models for Vir
 
 **Parent Topic:**[Natural Language Understanding of Virtual Agent responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/nlu-tab-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

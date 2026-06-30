@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercise and Crisis Management, Using BCM 
 
 # View event details and monitor event task completion
 
-View the event details and add impacted items to [[start-event|start an event]].
+View the event details and add impacted items to start an event.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  To update an active exercise or crisis event from the Home page of the Business continuity workspace, click the link to the event record in the **Event** column of the **My [[exercise-management-uib|exercises]]** section.
+2.  To update an active exercise or crisis event from the Home page of the Business continuity workspace, click the link to the event record in the **Event** column of the **My exercises** section.
 
 3.  To update the event from the lists view of the workspace, click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: Lists icon\).
 
@@ -34,15 +34,15 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
     You can view and update all the details of an event. However, you cannot edit the event type.
 
-    A crisis manager should be able to report a crisis event with the information provided in the details tab. For more information, see [[manage-crisis-event|Manage a crisis event]].
+    A crisis manager should be able to report a crisis event with the information provided in the details tab. For more information, see [Manage a crisis event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-crisis-event.md).
 
 7.  Click the **Impacts** tab to add impacted items.
 
-    To add a list of impacted items and activated plans to the event, see [[associate-plan-task-event|Add impacted assets and plans to an event]].
+    To add a list of impacted items and activated plans to the event, see [Add impacted assets and plans to an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/associate-plan-task-event.md).
 
 8.  Click **Event Tasks** tab.
 
-    This tab appears for all [[crisis-management-uib|crisis events]] but exercises that are of **Functional** type events only.
+    This tab appears for all crisis events but exercises that are of **Functional** type events only.
 
     The Plans section, which appears as a side panel, displays all the activated plans that are added to the event.
 
@@ -62,7 +62,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
         **Note:** If the activated plan refers to a different plan to recover a related asset, then all those related plans are listed below the main activated plan as **Related plans** in the left pane.
 
-        For more information on the planning and execution of a recovery event, see [[planning-execution-event-bcm|Data flow, planning, execution, and recovery of related plan assets in event]].
+        For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/planning-execution-event-bcm.md).
 
     2.  To add an ad hoc task to the event, click the **Add ad hoc task** button.
 
@@ -154,11 +154,4 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
         Actual end time of the task is recorded in the **Actual end** field. If you do not update the actual end, the current date and time is recorded as the actual end time. Update necessary information in the **Work notes** field and save the task.
 
-## Related
 
-- [[manage-crisis-event|Manage a crisis event]]
-- [[associate-plan-task-event|Add impacted assets and plans to an event]]
-- [[planning-execution-event-bcm|Data flow, planning, and execution in an event]]
-- [[start-event|Start an event]]
-- [[exercise-management-uib|Exercises]]
-- [[crisis-management-uib|Crisis events]]

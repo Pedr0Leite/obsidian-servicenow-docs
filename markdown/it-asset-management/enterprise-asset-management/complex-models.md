@@ -14,7 +14,7 @@ breadcrumb: [Model types, Enterprise Asset Management data model, Explore, Enter
 
 # Multi-component models and assets in Enterprise Asset Management
 
-Multi-component [[c_Models|models]] and multi-components assets help you track the maintenance of your enterprise assets.
+Multi-component models and multi-components assets help you track the maintenance of your enterprise assets.
 
 ## Multi-component model
 
@@ -28,13 +28,13 @@ Every model component has three mutually-exclusive properties that define its re
 |Hot swappable|If this property is set to **true**, the model component can be replaced while the multi-component model is operational.|
 |Repairable|If this property is set to **true**, the model component can be repaired when it fails.|
 
-The [[enterprise-asset-management|Enterprise Asset Management]] application supports two types of multi-component models: pre-assembled and user-assembled. You can convert a pre-assembled or user-assembled model to a simple model by removing all of its associated model components while it is in the Build state.
+The Enterprise Asset Management application supports two types of multi-component models: pre-assembled and user-assembled. You can convert a pre-assembled or user-assembled model to a simple model by removing all of its associated model components while it is in the Build state.
 
 ## Multi-component asset
 
 Multi-component assets are created from a multi-component model.
 
-The Enterprise Asset Management application supports two types of multi-component assets: serialized assets and [[c_ReceiveAConsumableAsset|consumable assets]]. Serialized child assets are created for model components. Consumable model components that are listed more than once are merged into a single consumable child asset with the combined component quantity.
+The Enterprise Asset Management application supports two types of multi-component assets: serialized assets and consumable assets. Serialized child assets are created for model components. Consumable model components that are listed more than once are merged into a single consumable child asset with the combined component quantity.
 
 \[Omitted image "eammodel-asset.png"\] Alt text: Multi-component model and multi-component asset
 
@@ -48,7 +48,7 @@ Assets that are associated with pre-assembled and user-assembled multi-component
 
 -   User-assembled asset: Assets that are assembled using components from the parent asset stockroom. You can assemble these assets using either of the following methods:
     -   Manual assembly: Manually select the required components and assemble the asset by using the **Assemble** button in the asset record. For details, see [Select assets for user-assembled asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/assemble-assets-eam.md).
-    -   Automatic assembly: Automatically select the required components and assemble the asset by using the **Auto-assemble** button in the asset record. If the required quantity of components is unavailable in your [[c_Stockrooms|stockrooms]], an error appears. You must then assemble the asset manually.
+    -   Automatic assembly: Automatically select the required components and assemble the asset by using the **Auto-assemble** button in the asset record. If the required quantity of components is unavailable in your stockrooms, an error appears. You must then assemble the asset manually.
 
 If a parent asset is in one of the following states, you can swap its child assets with any other assets that are created for the same model component:
 
@@ -76,9 +76,3 @@ Since serialized assets can have asset tags, component numbers are optional for 
 
 **Parent Topic:**[Model types in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-model-types.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Stockrooms|Stockrooms]]

@@ -22,7 +22,7 @@ Role required: knowledge\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the list view under the Knowledge module, open the Unassigned OT Knowledge Gaps list.
 
@@ -43,6 +43,3 @@ To view the unassigned OT knowledge gaps, select the Unassigned OT Knowledge Gap
 
 **Parent Topic:**[Using Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/using-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -22,7 +22,7 @@ You must have the following items:
 
 -   One or more cloud policy groups.
 -   Cloud template-based catalog items.
--   Ensure that your CMDB is updated through event-driven [[r-discovery|discovery]] for precise quota enforcement.
+-   Ensure that your CMDB is updated through event-driven discovery for precise quota enforcement.
 -   Ensure that you map quota to a catalog in the Cloud Template Resources related list, when you configure quota definitions.
 
 Role required: sn\_cmp.cloud\_governor
@@ -38,7 +38,7 @@ Consider the following points before you begin setting up resource order control
 
 1.  Define the quota or use a base system quota definition for a resource block.
 
-    1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Quota** &gt; **Quota Definition**.
+    1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Quota** &gt; **Quota Definition**.
 
     2.  Specify quota definitions.
 
@@ -91,7 +91,7 @@ Consider the following points before you begin setting up resource order control
 4.  Configure a policy rule action.
 
     -   Select the base system approve policy rule action in the Policy Rule Actions related list to include a notification or a custom approval subflow.
-    -   [[create-cloud-policy|Create a cloud policy]] rule action in the Policy Rule Actions related list, to trigger custom approval subflows or notifications, if you created a policy rule in the previous step.
+    -   Create a cloud policy rule action in the Policy Rule Actions related list, to trigger custom approval subflows or notifications, if you created a policy rule in the previous step.
 
         For more information, see [Create an action for 'on Resource Limit exceeded' policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-action-on-resource-limits-exceeded.md).
 
@@ -108,8 +108,3 @@ If you have configured an approval policy, the requester receives a notification
 
 **Parent Topic:**[Resource order controls for template-based cloud catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-order-control-template-based-catalog.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[create-cloud-policy|Create a cloud policy]]

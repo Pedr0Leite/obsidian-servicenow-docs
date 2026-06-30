@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Purchase Order inbound staging table
 
-The [[purchase-order-table|Purchase Order]] inbound \[sn\_fcms\_intg\_imp\_order\] staging table temporarily stores important data about purchase orders before this data is sent to the primary table.
+The Purchase Order inbound \[sn\_fcms\_intg\_imp\_order\] staging table temporarily stores important data about purchase orders before this data is sent to the primary table.
 
 The following table lists fields for the Purchase Order inbound \[sn\_fcms\_intg\_imp\_order\] staging table.
 
@@ -68,7 +68,7 @@ The user who placed the order.
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -92,7 +92,7 @@ Purchase order number from the ERP system. This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -100,7 +100,7 @@ String
 
 </td><td>
 
-ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the [[legal-entity|legal entity]] associated with these records.This is a mandatory field.
+ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.This is a mandatory field.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ String
 
 </td><td>
 
-The agreed upon time and conditions under which a payment to a [[supplier|supplier]] is made.
+The agreed upon time and conditions under which a payment to a supplier is made.
 
 </td></tr><tr><td>
 
@@ -276,10 +276,3 @@ Supplier company name for which the purchase order is generated.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[cost-center|Cost center]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]

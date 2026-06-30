@@ -18,7 +18,7 @@ This accelerator assesses your current Software Asset Management \(SAM\) process
 
 ## Accelerator overview
 
-Software Assessment Management \(SAM\) Maturity Assessment provides [[impact-landing-page|Impact]] customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business.
+Software Assessment Management \(SAM\) Maturity Assessment provides Impact customers with prescriptive recommendations based on a structured assessment conducted by key stakeholders within the customer’s business.
 
 By offering customers a snapshot of their current process maturity and targeted next-step recommendations, this accelerator helps maximize the value of their ServiceNow investment.
 
@@ -36,13 +36,13 @@ By offering customers a snapshot of their current process maturity and targeted 
 
     Your assessment participants will each be asked to independently fill out a pre-built SAM Maturity Assessment Questionnaire that asks them to grade targeted statements that assess gaps and opportunities with your SAM product.
 
--   **Questionnaire Results Analysis \(time as needed determined by the [[impact-squad|Impact Squad]]\)**
+-   **Questionnaire Results Analysis \(time as needed determined by the Impact Squad\)**
 
     The Impact Squad performs the following:
 
     -   Reviews and analyzes the questionnaire scores
     -   Compiles tailored recommendations and leading practices
-    -   Provides guidance that will [[io-help|help]] you understand how to best maximize your SAM product investment
+    -   Provides guidance that will help you understand how to best maximize your SAM product investment
 -   **SAM Maturity Assessment Report**
 
     The assessment report is a result of the questionnaire and input from our SAM leaders and includes the following:
@@ -141,8 +141,3 @@ We request that the SAM Maturity questionnaire is completed by the customer virt
 
 -   ServiceNow is not responsible for implementing the recommendations made based on the SAM Maturity Assessment.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[io-help|Help]]

@@ -25,7 +25,7 @@ Use the following steps as guidelines for configuring target sources.
 2.  If required, create context variables for the target source so that the required data is fetched from the context variables to update the actual value of the target. For more information, see [Create context variables for a target source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-context-variable-for-a-target-source-apw.md).
 
 -   **[Context variable in target source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/context-variable-in-target-source-apw.md)**  
-The context variable is an additional configuration for the target source that can be used on the [[target-form|Target form]] to fetch the required data and auto-update the **Actual value** field on the Target form. A context variable is required for target source types Assessment/Survey and PA Indicator.
+The context variable is an additional configuration for the target source that can be used on the Target form to fetch the required data and auto-update the **Actual value** field on the Target form. A context variable is required for target source types Assessment/Survey and PA Indicator.
 -   **[Create a target source for automating the Actual value of the targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-target-source-for-automating-the-actual-value-of-the-targets-apw.md)**  
 Create a target source so that the goal user can configure it for the targets to automate the Actual value of the targets.
 -   **[Create a context variable for a target source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-context-variable-for-a-target-source-apw.md)**  
@@ -35,6 +35,3 @@ Create a context variable manually for the target source type PA Indicator if th
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[target-form|Target form]]

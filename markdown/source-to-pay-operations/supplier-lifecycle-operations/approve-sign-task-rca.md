@@ -14,7 +14,7 @@ breadcrumb: [Configure document template for the Sign document action type, Conf
 
 # Approve application restricted caller access privileges for Sign document supplier task type
 
-Approve restricted caller access \(RCA\) privileges after you create a [[supplier|supplier]] task of action type Sign document for the very first time so that you can create and use subsequent Sign document supplier tasks.
+Approve restricted caller access \(RCA\) privileges after you create a supplier task of action type Sign document for the very first time so that you can create and use subsequent Sign document supplier tasks.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Approving RCAs is a one-time activity.
     |------|-----|
     |Status|Requested|
     |Target Scope|Document Templates|
-    |Source Scope|Supplier Common Architecture, [[supplier-central|Supplier Collaboration Portal]], and Source-to-Pay Workspace|
+    |Source Scope|Supplier Common Architecture, Supplier Collaboration Portal, and Source-to-Pay Workspace|
 
 3.  From the **Status** list, select **Allowed**.
 
@@ -48,7 +48,3 @@ Approving RCAs is a one-time activity.
 
 [Configure the document template for the Sign document action type for supplier task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]

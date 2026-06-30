@@ -14,7 +14,7 @@ breadcrumb: [Footer configuration, Admin configurations, Configuring Employee Ce
 
 # Footer Menus form
 
-Use the Footer Menus form to create a new footer menu that you want to appear on your [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]].
+Use the Footer Menus form to create a new footer menu that you want to appear on your Employee Center or Employee Center Pro.
 
 <table id="table_fgv_pyx_lqb"><thead><tr><th>
 
@@ -74,7 +74,7 @@ The order in which you want the menu to appear in the footer.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -102,7 +102,7 @@ The order in which you want the menu to appear in the footer.
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -124,9 +124,3 @@ The order in which you want the menu to appear in the footer.
 
 [Website configuration form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

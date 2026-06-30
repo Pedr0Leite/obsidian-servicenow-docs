@@ -14,7 +14,7 @@ breadcrumb: [Symantec Integration for Data Loss Prevention Incident Response, In
 
 # Install and configure the Symantec DLP integration for Data Loss Prevention
 
-[[configure-cortex-xsiam-siem|Install and configure]] the  Symantec DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Symantec DLP incident data.
+Install and configure the  Symantec DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Symantec DLP incident data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dlir.admin
 
 1.  Download the  Symantec DLP integration from the  ServiceNow® Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations ** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations ** &gt; **Integration Configurations**.
 
 3.  Search for the  DLP Incident Response Integration with Symantec tile and click  **Configure**.
 
@@ -102,7 +102,3 @@ After you successfully validate and submit the configuration, the Symantec DLP I
 
 **Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/symantec-dlp-integration.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

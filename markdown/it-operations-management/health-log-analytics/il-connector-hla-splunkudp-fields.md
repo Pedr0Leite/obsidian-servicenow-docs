@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Splunk UDP integration configuration fields
 
-Description of the fields on the Splunk UDP integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Splunk UDP integration configuration forms for Health Log Analytics.
 
 For the Splunk UDP integration setup procedure, see [Set up a Splunk UDP integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-splunkudp.md).
 
@@ -139,6 +139,3 @@ The time zone of events that the system will use if a log does not specify the t
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

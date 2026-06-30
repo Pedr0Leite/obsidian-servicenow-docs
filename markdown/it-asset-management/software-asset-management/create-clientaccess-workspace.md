@@ -24,7 +24,7 @@ Role required: sam\_admin
 
 ## About this task
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] uses client access records to reconcile server software based on the following license metrics:
+Software Asset Management uses client access records to reconcile server software based on the following license metrics:
 
 <table id="table_tjy_v4m_11b"><thead><tr><th>
 
@@ -91,7 +91,7 @@ CrowdStrike
 -   Reserved Hourly Average Sensor
 -   Sensor Subscription
 
- **Note:** These license metrics are available with Yokohama Patch 1, Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) 15.0.8, and Software Asset Management \(sn\_itam\_samp\) 2.1.0 version onwards. If you are on any version for Yokohama below Patch 1, refer [KB1801232](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=ef634dac83935610cdbbc430feaad3d9).
+ **Note:** These license metrics are available with Yokohama Patch 1, Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) 15.0.8, and Software Asset Management \(sn\_itam\_samp\) 2.1.0 version onwards. If you are on any version for Yokohama below Patch 1, refer [KB1801232](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=ef634dac83935610cdbbc430feaad3d9).
 
 </td></tr></tbody>
 </table>License metrics are set on the [software entitlement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md) form and can be accessed from the **Metric Attributes** related list on the [software model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-swmodels-workspace.md) form.
@@ -100,13 +100,13 @@ CrowdStrike
 
 ## Procedure
 
-1.  From your ServiceNow instance, navigate to **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  From your ServiceNow instance, navigate to **Software asset** &gt; **Software Asset Workspace**.
 
     The Software Asset Workspace launches in a new tab.
 
 2.  On the left navigation menu of the Software Asset Workspace, select **License operations**.
 
-    The [[operations-workspace|License operations view]] opens.
+    The License operations view opens.
 
 3.  On the **Lists** tab of the License operations view, navigate to **Client access** &gt; **Client access**.
 
@@ -332,9 +332,3 @@ You can remediate non-compliance for your server software using the following re
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

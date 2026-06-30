@@ -14,16 +14,16 @@ breadcrumb: [IoC Repository, Threat Intelligence, Enterprise security case manag
 
 Threat Actors are individuals, groups, or organizations who act with malicious intent. Threat actors applies for STIX 2.x.
 
-A [[threat-actor|Threat Actor]] is not an [[threat-intelligence-intrusion-sets|Intrusion Set]] but may support or be affiliated with various Intrusion Sets, groups, or organizations over time.
+A Threat Actor is not an Intrusion Set but may support or be affiliated with various Intrusion Sets, groups, or organizations over time.
 
-Threat Actors use their resources, and the resources of an Intrusion Set, to conduct attacks, and run [[threat-intelligence-campaigns|Campaigns]] against targets.
+Threat Actors use their resources, and the resources of an Intrusion Set, to conduct attacks, and run Campaigns against targets.
 
 You can identify Threat Actors by their motives, capabilities, goals, sophistication level, past activities, resources they have access to, and their role in the organization.
 
--   **[[define-threat-actors|Define threat actors]]**  
+-   **[Define threat actors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-threat-actors.md)**  
 Define threat actors who are individuals, groups, or organizations who act with malicious intent.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -74,10 +74,3 @@ Define threat actors who are individuals, groups, or organizations who act with 
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-threat-actors|Define threat actors]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-actor|Threat Actor]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-campaigns|Campaigns]]

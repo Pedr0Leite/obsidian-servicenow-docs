@@ -14,13 +14,13 @@ breadcrumb: [Explore, Workplace Central, Workplace Service Delivery, Employee Se
 
 # Move Management
 
-Monitor multiple workplace moves at a time seamlessly using the Move Management workspace in the [[workplace-central-feat|Workplace Central]]. Create move projects to track the progress of move requests.
+Monitor multiple workplace moves at a time seamlessly using the Move Management workspace in the Workplace Central. Create move projects to track the progress of move requests.
 
 The Move management workspace enables you to schedule moves as per their planned date. You can create a move project and group move requests using different filter conditions, such as, workplace location, campus, space type or more.
 
 \[Omitted image "move-scheduler.png"\] Alt text: Move scheduler view of a move project.
 
-A move project enables you to work on requests in a schedule view, which is referred to as the Move scheduler view. The Move schedule view provides a visual representation of move requests in a schedule view similar to the schedule view of the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] Reservation portal. The requests are displayed with their current state, the date on which they’re scheduled to move and further details. This way you can fulfill move requests as per the requested date in the [[workplace-move-mgmt-overview|Workplace Move Management]]. For more information about the Move scheduler, refer to [Move project views, actions, and states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-project-schedule-view.md).
+A move project enables you to work on requests in a schedule view, which is referred to as the Move scheduler view. The Move schedule view provides a visual representation of move requests in a schedule view similar to the schedule view of the Workplace Reservation Management Reservation portal. The requests are displayed with their current state, the date on which they’re scheduled to move and further details. This way you can fulfill move requests as per the requested date in the Workplace Move Management. For more information about the Move scheduler, refer to [Move project views, actions, and states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-project-schedule-view.md).
 
 **Important:** The Move management workspace enables you to only view and schedule move requests across different dates. To fulfill a move request, you must use the Workplace Move Management.
 
@@ -73,8 +73,3 @@ For more information about the Move management workspace, refer to [Move managem
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

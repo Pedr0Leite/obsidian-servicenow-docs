@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # Automatically map all OT devices to an equipment model entity
 
-An [[operational-technology-overview|Operational Technology]] \(OT\) Amazing admin can trigger automated mapping of all OT devices to the appropriate ISA equipment model entity.
+An Operational Technology \(OT\) Amazing admin can trigger automated mapping of all OT devices to the appropriate ISA equipment model entity.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_ot\_amazing\_admin
 
 ## Procedure
 
-1.  Navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **OT Subnet Mapping**.
+1.  Navigate to **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **OT Subnet Mapping**.
 
 2.  Select **Map all OT devices** to execute the Map OT Device flow.
 
@@ -49,8 +49,3 @@ Perform on-demand mapping of an OT device to the ISA equipment model entity for 
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

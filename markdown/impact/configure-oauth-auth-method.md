@@ -12,7 +12,7 @@ breadcrumb: [Register your instance, Scan Engine integrations, Configure the Imp
 
 # Configure the OAuth authentication method development instance
 
-Set up OAuth authentication for instance-to-instance [[instance-integration-scan-engine|Scan Engine integrations]] using several stages, an integration user account, an OAuth2 configuration record, and provider and client application registries.
+Set up OAuth authentication for instance-to-instance Scan Engine integrations using several stages, an integration user account, an OAuth2 configuration record, and provider and client application registries.
 
 ## About this task
 
@@ -31,7 +31,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 1.  Stage 1 — Confirm the integration user account
 2.  Confirm that the integration user account exists in both development and production instances, has the required roles assigned, and that the account password is recorded in a secure location for use in later stages.
 
-    If the account has not been created yet, complete [[task-create-integration-user|Create an integration user account]] before continuing.
+    If the account has not been created yet, complete [Create an integration user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/task-create-integration-user.md) before continuing.
 
 3.  Stage 2 — Create an OAuth2 configuration record in the Development instance
 4.  Navigate to `sys_auth_profile_oauth2.list` and select **New**.
@@ -94,7 +94,7 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 19. Stage 5 - Set up the SN Instances
 20. Navigate to **All** &gt; **Scan Engine** &gt; **My SN Instances**.
 
-    If the My SN Instances record for this instance has not been created yet, complete [[register-your-instance|Register your instance]] before continuing.
+    If the My SN Instances record for this instance has not been created yet, complete [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md) before continuing.
 
 21. Open the existing instance record and configure the OAuth-specific fields as follows.
 
@@ -111,18 +111,11 @@ Role required: Scan Engine Admin \(sn\_se.scan\_engine\_admin\).
 
     Connection Status updates to `Connection valid`.
 
-    **Note:** If the Connection status returns an Error: User not setup on target instance, refer to the Key Management Framework setup step in [[validate-instance-connection|Validate your instance connection]].
+    **Note:** If the Connection status returns an Error: User not setup on target instance, refer to the Key Management Framework setup step in [Validate your instance connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/validate-instance-connection.md).
 
 
--   **[[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]]**  
+-   **[Configure the OAuth authentication method production instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method-prod.md)**  
 Export OAuth records from the development instance, import them into the production instance, correct Key Management Framework \(KMF\) credential encryption, and configure development-to-production authentication so that both instances can validate their connections to each other.
 
 **Parent Topic:**[Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md)
 
-## Related
-
-- [[task-create-integration-user|Create an integration user account]]
-- [[register-your-instance|Register your instance]]
-- [[validate-instance-connection|Validate your instance connection]]
-- [[configure-oauth-auth-method-prod|Configure the OAuth authentication method production instance]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]

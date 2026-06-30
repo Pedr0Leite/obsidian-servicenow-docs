@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Portal, Service Portal, Configure UIs and porta
 
 # Using portal widgets
 
-Widgets are what define the content of your portal pages. You can use the base system widgets provided with [[c_ServicePortal|Service Portal]], clone and modify widgets, or develop custom widgets to fit your own needs.
+Widgets are what define the content of your portal pages. You can use the base system widgets provided with Service Portal, clone and modify widgets, or develop custom widgets to fit your own needs.
 
 \[Omitted video\] Description: Using widgets with Service Portal
 
@@ -22,13 +22,13 @@ When you create or update a page in the Service Portal Designer, add widgets by 
 
 ## Base system widgets
 
-You can use the base system widgets included with Service Portal to get started configuring portal pages. Base system widgets are read-only so you can benefit from future updates. However, for each instance of a base system widget that you add to a page, you can [[configure-onboarding-modals|configure]] the instance options available for that widget.
+You can use the base system widgets included with Service Portal to get started configuring portal pages. Base system widgets are read-only so you can benefit from future updates. However, for each instance of a base system widget that you add to a page, you can configure the instance options available for that widget.
 
 For a list of base system widgets and information about their instance options, see the [Widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-showcase.md).
 
 ## Widget instances
 
-When you add a widget to a page using the Service Portal Designer, it creates a widget instance. A widget instance is a [[onboarding-modals-reference|reference]] to a widget that contains a location, properties, and CSS specific to that instance. Adding the same widget multiple times to the same page creates multiple instances.
+When you add a widget to a page using the Service Portal Designer, it creates a widget instance. A widget instance is a reference to a widget that contains a location, properties, and CSS specific to that instance. Adding the same widget multiple times to the same page creates multiple instances.
 
 All widget instances point to a widget. If you edit that widget, all of its widget instances receive that change as well. You can also make changes specific to a widget instance, and only that widget instance is affected.
 
@@ -44,14 +44,14 @@ From any rendered Service Portal page, you can CTRL+right-click a widget to see 
 
 For example, navigate to **Service Portal** &gt; **Service Portal Home** to open a sample portal page. CTRL+right-click Knowledge Base on that page.
 
-\[Omitted image "WidgetContextMenu.png"\] Alt text: [[icon-link-widget|Icon Link widget]] context menu
+\[Omitted image "WidgetContextMenu.png"\] Alt text: Icon Link widget context menu
 
 **Note:** You must have the admin or sp\_admin role to see the widget context menu. When you impersonate a user without one of those roles, you can see the menu. However, a regular user signed in without those roles can’t see the menu.
 
 |Option|Description|
 |------|-----------|
 |Widget performance|How long it takes for a widget to load|
-|Instance options|Specify an [instance of a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md). Widget instance options vary depending on the widget that you select. For example, the instance options for the [[cool-clock-widget|cool clock widget]] include different time zones for each instance, so you can have the same clock four times on a page, but with all different time zones.|
+|Instance options|Specify an [instance of a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md). Widget instance options vary depending on the widget that you select. For example, the instance options for the cool clock widget include different time zones for each instance, so you can have the same clock four times on a page, but with all different time zones.|
 |Instance in Page Editor|Opens that instance of the widget in the Page Editor|
 |Page Designer|Opens the widget in the [Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md), which enables you to add containers, columns, and widgets. You can add styling from the Service Portal Designer to the widget or to the page the widget lives on.|
 |Show Widget Customizations|Shows customization levels of widgets on the page so that you can diagnose page issues. For more information, see [Widget diagnostics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-diagnostic-tool.md).|
@@ -75,10 +75,3 @@ Configure service portal pages to defer load the widgets on a page. The delay in
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]
-- [[icon-link-widget|Icon Link widget]]
-- [[cool-clock-widget|Cool Clock widget]]

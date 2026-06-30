@@ -28,7 +28,7 @@ Roles required: sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst a
 
     The AI guardrails helper panel is displayed.
 
-    **Note:** This panel is displayed only if you have installed the [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]] application.
+    **Note:** This panel is displayed only if you have installed the Now Assist for Vulnerability Response application.
 
 3.  If you're using the application for the first time, select **Detect guardrails**.
 
@@ -53,9 +53,5 @@ Roles required: sn\_vul.vulnerability\_admin or sn\_vul.vulnerability\_analyst a
     You can now use the Guardrail Detector agentic workflow to create exception rules to automatically defer findings that match your criteria.
 
 
-**Parent Topic:**[[ai-security-exposure-skill-agent|Using the AI guardrails helper skill and agentic workflow]]
+**Parent Topic:**[Using the AI guardrails helper skill and agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ai-security-exposure-skill-agent.md)
 
-## Related
-
-- [[ai-security-exposure-skill-agent|Using the AI guardrails helper skill and agentic workflow]]
-- [[now-assist-for-vulnerability-response-landing|Now Assist for Vulnerability Response]]

@@ -15,17 +15,12 @@ breadcrumb: [Source-to-Pay integration framework, Integration with third-party a
 
 # Integration errors in staging tables
 
-ERP [[integration-errors-during-erp-posting|integration errors]] are recorded as system-generated error tasks in staging tables and appear in the **Tasks** area of the [[purch-order-mgmt-ws|Source-to-Pay workspace]], where outbound and inbound integration errors are categorized separately for resolution and reintegration.
+ERP integration errors are recorded as system-generated error tasks in staging tables and appear in the **Tasks** area of the Source-to-Pay workspace, where outbound and inbound integration errors are categorized separately for resolution and reintegration.
 
 The integration errors are categorized as:
 
--   Outbound integration Error-occurs when the outbound staging record is run and the sub flows in the target [[erp-source|ERP source]] fails due to an error. Example: Connection error. The sub flow auto-updates the error message in the **Processing message** field of the outbound staging table and sets the **Integration status** to error. The system auto-creates error task for erroneous record and auto-assigns to a specialist.
+-   Outbound integration Error-occurs when the outbound staging record is run and the sub flows in the target ERP source fails due to an error. Example: Connection error. The sub flow auto-updates the error message in the **Processing message** field of the outbound staging table and sets the **Integration status** to error. The system auto-creates error task for erroneous record and auto-assigns to a specialist.
 -   Inbound integration error- Occurs when the inbound flow fails to fetch the primary data from the target ERP sources due to error in the master flow or ERP subflow. The **Error** field in the inbound staging table is auto-updated with the appropriate error message.
 
 A specialist can reinitiate the integration activity after fixing the integration errors. Bulk records are integrated through scheduled jobs.
 
-## Related
-
-- [[integration-errors-during-erp-posting|Integration errors]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[erp-source|ERP source]]

@@ -27,7 +27,7 @@ This stage requires multiple agents to complete. KYC, Credit, Tax, and Legal age
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -46,6 +46,3 @@ Once all agents have completed their assigned tasks, the Due Diligence stage sho
 
 Continue to the [Fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/activate-account.md) stage.
 
-## Related
-
-- [[fso-overview|Financial Services]]

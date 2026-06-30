@@ -37,7 +37,7 @@ In addition to upgrade-related products, you can also use ServiceNow's upgrade t
 
 -   **[Now Support upgrade assist](https://support.servicenow.com/kb_view.do?sysparm_article=KB0788171)**
 
-    Stay current by automating your [[upgrade|ServiceNow upgrades]]. Use an automated service to offload upgrade scheduling tasks.
+    Stay current by automating your ServiceNow upgrades. Use an automated service to offload upgrade scheduling tasks.
 
 -   **[Known Error portal](https://support.servicenow.com/kb_view.do?sysparm_article=KB0597477)**
 
@@ -45,7 +45,7 @@ In addition to upgrade-related products, you can also use ServiceNow's upgrade t
 
 -   **Sample upgrade project plans**
 
-    The [[upgrades-planning-checklist|Upgrade planning checklist]] provides a quick look at the steps in an upgrade. If you'd like to track your upgrade progress in Excel, PDF, or Microsoft Project, you can download these sample project plans to get started.
+    The [Upgrade planning checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrades-planning-checklist.md) provides a quick look at the steps in an upgrade. If you'd like to track your upgrade progress in Excel, PDF, or Microsoft Project, you can download these sample project plans to get started.
 
     -   [PDF](https://downloads.docs.servicenow.com/enus/paris/upgrade/servicenow-upgrade-planning-checklist.pdf)
     -   [Excel](https://downloads.docs.servicenow.com/enus/paris/upgrade/servicenow_upgrade_sample_project_plan_v1.0.xlsx)
@@ -74,7 +74,4 @@ Visit the ServiceNow [Best Practices](https://mynow.servicenow.com/now/best-prac
 
     Connect with a ServiceNow expert who will help you apply best practices and tools to upgrade to the most recent ServiceNow innovations.
 
-## Related
 
-- [[upgrades-planning-checklist|Upgrade planning checklist]]
-- [[upgrade|ServiceNow upgrades]]

@@ -41,7 +41,7 @@ Role required: safe\_admin or safe\_art\_user
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top-left corner, select the level as **ART** and select your ART.
 
@@ -96,6 +96,4 @@ Role required: safe\_admin or safe\_art\_user
 
 7.  Hide a PI lane by clicking the more options icon \(\[Omitted image "ellipsis.png"\] Alt text: more options for program increment lane\) and click **Hide lane**.
 
-## Related
 
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

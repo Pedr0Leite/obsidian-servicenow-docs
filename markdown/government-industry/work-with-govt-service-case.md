@@ -12,7 +12,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Manage your government service cases from the Government Service Portal
 
-Create, accept, assign, escalate, de-escalate, cancel a case, and even more actions for various government services all from the [[gsp-overview-public-sector|Government Service Portal]].
+Create, accept, assign, escalate, de-escalate, cancel a case, and even more actions for various government services all from the Government Service Portal.
 
 ## Before you begin
 
@@ -214,7 +214,3 @@ Indicates the current action state.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

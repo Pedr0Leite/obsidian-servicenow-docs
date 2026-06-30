@@ -16,8 +16,8 @@ Add desktop action details, such as name, description, and associated applicatio
 
 ## Before you begin
 
--   Capture your automation steps. For more information, see [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]] or [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]].
--   Configure the properties for screens, anchors, and steps. For more information, see [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]].
+-   Capture your automation steps. For more information, see [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md) or [Extend a desktop action by manually capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manual-create-desktop-action-ad.md).
+-   Configure the properties for screens, anchors, and steps. For more information, see [Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/screen-anchor-and-action-properties-ad.md).
 
 Role required: sn\_aia.admin
 
@@ -25,7 +25,7 @@ Role required: sn\_aia.admin
 
 1.  In the Design workspace, select the Details tab.
 
-    \[Omitted image "details-tab-ad.png"\] Alt text: [[agentic-desktop-landing-page|AI Desktop Actions]] details tab displaying name, description, application, and many other fields, along with inputs and outputs.
+    \[Omitted image "details-tab-ad.png"\] Alt text: AI Desktop Actions details tab displaying name, description, application, and many other fields, along with inputs and outputs.
 
 2.  In the Desktop action details section, edit the name of the desktop action.
 
@@ -44,13 +44,5 @@ Role required: sn\_aia.admin
 
 ## What to do next
 
-Test and activate the desktop action so that it’s available as a tool in the [[ai-agent-studio|AI Agent Studio]]. You can add this tool to the AI agents that execute desktop actions in your desktop environment. For more information, see [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]].
+Test and activate the desktop action so that it’s available as a tool in the AI Agent Studio. You can add this tool to the AI agents that execute desktop actions in your desktop environment. For more information, see [Test and activate a desktop action in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-activate-desktop-action-ad.md).
 
-## Related
-
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[manual-create-desktop-action-ad|Extend a desktop action by manually capturing steps in AI Desktop Actions]]
-- [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]]
-- [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]

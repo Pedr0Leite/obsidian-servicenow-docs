@@ -14,7 +14,7 @@ breadcrumb: [Configuring Software Asset Management Foundation plugin workspace, 
 
 # Create a Software Asset Management Foundation entitlement in workspace
 
-Create entitlements in the Software Asset Workspace to enter your license details and allocate purchased software rights to users or [[dex-workspace-devices-tab|devices]].
+Create entitlements in the Software Asset Workspace to enter your license details and allocate purchased software rights to users or devices.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ When you start creating the entitlement, it is in the build status. After you pu
 
 **Parent Topic:**[Configuring Software Asset Management Foundation plugin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/configuring-samf-plugin-workspace.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

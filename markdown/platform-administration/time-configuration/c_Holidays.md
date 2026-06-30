@@ -14,7 +14,7 @@ breadcrumb: [Schedules, Explore, Time configuration, Configure core features, Ad
 
 # Holidays
 
-You can define each individual holiday as a schedule entry to create exceptions to existing [[c_UseSchedules|schedules]].
+You can define each individual holiday as a schedule entry to create exceptions to existing schedules.
 
 For instance, if an SLA requires an incident be resolved within three business days excluding Christmas, create a schedule entry for Christmas. Creating this entry ensures that the SLAs do not count Christmas when calculating elapsed time, even if it falls within the work week.
 
@@ -51,6 +51,3 @@ The following example shows a schedule that includes the preceding holiday sched
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]

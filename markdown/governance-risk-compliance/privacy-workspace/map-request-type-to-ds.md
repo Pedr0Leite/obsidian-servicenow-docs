@@ -14,7 +14,7 @@ breadcrumb: [Configure external-facing PDR form, Configure, Personal Data Rights
 
 # Map request types to configured data subjects for a jurisdiction
 
-Configure the request types available to each data subject type within a jurisdiction. Hide any requester or agent fields that don't apply on the external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form.
+Configure the request types available to each data subject type within a jurisdiction. Hide any requester or agent fields that don't apply on the external-facing Personal Data Rights \(PDR\) form.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Add a separate mapping for each data subject type and request type combination y
 
 2.  Open the active external form configuration record.
 
-3.  From the PDR external facing form location configs related list, open the location configuration record to which you added [[data-subjects|data subject types]].
+3.  From the PDR external facing form location configs related list, open the location configuration record to which you added data subject types.
 
 4.  From the PDR external facing form data subject maps related list, open the data subject type to which you want to map request types.
 
@@ -70,7 +70,3 @@ Requesters who choose the corresponding location and data subject type can selec
 
 [External-facing Personal Data Rights form configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-pdr-ext-form.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[data-subjects|Data subject types]]

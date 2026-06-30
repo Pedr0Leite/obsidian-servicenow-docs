@@ -14,19 +14,14 @@ breadcrumb: [Integration for Agent Experience, Setup for integrating pre-publish
 
 # Integrate Notify connector pre-published app with Microsoft Teams
 
-Set up the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] using the pre-published app. You can use the Microsoft Azure apps instead of creating a separate Microsoft Azure app for the integration.
+Set up the Notify connector for Microsoft Teams using the pre-published app. You can use the Microsoft Azure apps instead of creating a separate Microsoft Azure app for the integration.
 
 -   **[Connect the ServiceNow instance to your Microsoft Teams tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/connect-sn-instance-ms-teams.md)**  
-[[connect-sn-instance-ms-teams-mt|Connect your ServiceNow instance to your Microsoft Teams tenant]] to enable the users to create their requests from within Microsoft Teams.
+Connect your ServiceNow instance to your Microsoft Teams tenant to enable the users to create their requests from within Microsoft Teams.
 -   **[Authorize pre-published Azure apps to grant required permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-multi-tenant-apps.md)**  
 Authorize the pre-published apps to enable ServiceNow to make API calls to Microsoft to enable each of the ServiceNow for Teams application workflows.
 -   **[Create a Service user to make calls from Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/provide-app-access-policy-nc-mt.md)**  
-[[config-notify-ms-teams|Configure Notify connector for Microsoft Teams]] in your environment by creating a Service user to have a seamless conference call experience in Microsoft Teams.
+Configure Notify connector for Microsoft Teams in your environment by creating a Service user to have a seamless conference call experience in Microsoft Teams.
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Agent Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_agent_ex_tnt.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[connect-sn-instance-ms-teams-mt|Connect your ServiceNow instance to your Microsoft Teams tenant]]
-- [[config-notify-ms-teams|Configure Notify connector for Microsoft Teams]]

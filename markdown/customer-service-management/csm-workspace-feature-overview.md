@@ -12,7 +12,7 @@ breadcrumb: [CSM Configurable Workspace, Organize agent workspaces, Configure, C
 
 # CSM Configurable Workspace features
 
-[[csm-workspaces-configure|CSM Configurable Workspace]] provides several different tools and features that agents can use to assist customers, research issues, and resolve cases.
+CSM Configurable Workspace provides several different tools and features that agents can use to assist customers, research issues, and resolve cases.
 
 <table id="table_csm_workspace_feature_overview"><thead><tr><th>
 
@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-config-workspace-interface|Multi-tab interface]]
+[Multi-tab interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-interface.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Agents see their assignments in their CSM Configurable Workspace inbox. Work ass
 
 </td></tr><tr><td>
 
-[[csm-workspace-landing-pages|Landing pages]]
+[Landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-landing-pages.md)
 
 </td><td>
 
@@ -60,7 +60,7 @@ A landing page is an initial view of a user's workspace. For customer service ag
 
 </td><td>
 
-Provide filtered [[migration-lists|lists]] of cases, interactions, and other records such as accounts and contacts. Agents can also create and save their own lists.
+Provide filtered lists of cases, interactions, and other records such as accounts and contacts. Agents can also create and save their own lists.
 
 </td></tr><tr><td>
 
@@ -68,19 +68,19 @@ Provide filtered [[migration-lists|lists]] of cases, interactions, and other rec
 
 </td><td>
 
-Content pages determine how information is displayed in the workspace. [[csm-config-workspace-record-pages|Record pages]] display information about the current record. This can include details such as the account, contact, and priority for a case record or the communication channel, short description, and state for an interaction record.
+Content pages determine how information is displayed in the workspace. [Record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md) display information about the current record. This can include details such as the account, contact, and priority for a case record or the communication channel, short description, and state for an interaction record.
 
 </td></tr><tr><td>
 
-[[csm-config-ws-side-panel-components|Contextual side panel]]
+[Contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-side-panel-components.md)
 
 </td><td>
 
-Provides agents with access to tools and information directly from the record page, such as [[configure-nba|Recommended Actions]], attachments, related lists, and templates. This access helps agents research and resolve customer issues without leaving the case view.
+Provides agents with access to tools and information directly from the record page, such as Recommended Actions, attachments, related lists, and templates. This access helps agents research and resolve customer issues without leaving the case view.
 
 </td></tr><tr><td>
 
-[[csm-config-ws-activity-stream|Activity stream]]
+[Activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-activity-stream.md)
 
 </td><td>
 
@@ -96,7 +96,7 @@ The Compose area in a configurable workspace record page enables agents to commu
 
 </td></tr><tr><td>
 
-[[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
+[Modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md)
 
 </td><td>
 
@@ -104,7 +104,7 @@ Windows that overlay the main window content in a workspace. Agents can use mode
 
 </td></tr><tr><td>
 
-[[csm-workspace-form-templates|Form templates]]
+[Form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-form-templates.md)
 
 </td><td>
 
@@ -118,7 +118,7 @@ Use form templates to populate fields on new records with selected values. Creat
 
 Global search enables you to search multiple record types at once from the Next Experience Unified Navigation [search field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-ais-next-experience-app.md).
 
- The Recommended Actions tab in the contextual side panel includes [[ra-csm-ai-search|AI search]] functionality. This search feature displays an initial set of search results based on the text in the case short description, including knowledge articles. Agents can also enter different search keywords and repeat the search.
+ The Recommended Actions tab in the contextual side panel includes [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) functionality. This search feature displays an initial set of search results based on the text in the case short description, including knowledge articles. Agents can also enter different search keywords and repeat the search.
 
 </td></tr><tr><td>
 
@@ -126,11 +126,11 @@ Global search enables you to search multiple record types at once from the Next 
 
 </td><td>
 
-Use the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application to summarize interaction chats and calls, summarize case information, and generate case resolution notes.
+Use the Now Assist for Customer Service Management \(CSM\) application to summarize interaction chats and calls, summarize case information, and generate case resolution notes.
 
 </td></tr><tr><td>
 
-[[csm-config-ws-chat-summary|Chat summarization]]
+[Chat summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-chat-summary.md)
 
 </td><td>
 
@@ -138,7 +138,7 @@ The chat summarization feature automatically creates summaries of chat conversat
 
 </td></tr><tr><td>
 
-[[csm-workspace-chat-session-tabs|Chat session tabs]]
+[Chat session tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs.md)
 
 </td><td>
 
@@ -146,7 +146,7 @@ Visual indicators on chat session tabs, such as colors and icons, alert agents t
 
 </td></tr><tr><td>
 
-[[lookup-and-verify-overview|Lookup and verify]]
+[Lookup and verify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-and-verify-overview.md)
 
 </td><td>
 
@@ -154,7 +154,7 @@ Use this feature to enable agents to quickly look up contacts or consumers using
 
 </td></tr><tr><td>
 
-[[case-action-status-csm-workspace|Case action status]]
+[Case action status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-csm-workspace.md)
 
 </td><td>
 
@@ -167,40 +167,13 @@ A number of additional applications are available for use with CSM Configurable 
 
 |Feature|Description|
 |-------|-----------|
-|[[awa-csm-overview|AWA for CSM]]|Use Advanced Work Assignment \(AWA\) to automatically assign work items to agents based on their availability, capacity, and skills.|
-|[[customer-central|Customer Central]]|Use Customer Central to provide agents with all of the information about a customer in one central location. This feature enables agents to quickly zoom in on the customer issue and provide efficient and supportive service.|
-|[[csm-workspace-chrome-link-manager|ServiceNow Link Manager]]|Use the ServiceNow Link Manager feature to manage and organize browser tabs within a ServiceNow instance.|
-|[[configurable-wfo-cs|Workforce Optimization for Customer Service]]|Use Workforce Optimization for Customer Service to manage and maintain the productivity of your workforce. Efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.|
-|[[customer-service-case-types|Customer Service Case Types]]|Use case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card.|
-|[[proactive-service-operations|Proactive Customer Service Operations]]|Use this feature to track the digital services used by your customers and to proactively create cases for service disruptions.|
-|[[customer-service-case-playbooks|Playbooks for Customer Service Management]]|Use playbooks to provide step-by-step guidance for completing the tasks needed to resolve specific types of customer service cases.|
-|[[setting-up-guided-decisions|Guided Decisions for Customer Service Management]]|Use guided decisions to resolve complex cases faster and more efficiently by guiding customer service agents through a structured troubleshooting process.|
-|[[ettr|Estimated time to resolve a case]]|Use machine learning to predict the estimated time to resolve a case \(ETTR\) based on case attributes such as the short description, category, priority, and assignment group.|
+|[AWA for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/awa-csm-overview.md)|Use Advanced Work Assignment \(AWA\) to automatically assign work items to agents based on their availability, capacity, and skills.|
+|[Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md)|Use Customer Central to provide agents with all of the information about a customer in one central location. This feature enables agents to quickly zoom in on the customer issue and provide efficient and supportive service.|
+|[ServiceNow Link Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chrome-link-manager.md)|Use the ServiceNow Link Manager feature to manage and organize browser tabs within a ServiceNow instance.|
+|[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-wfo-cs.md)|Use Workforce Optimization for Customer Service to manage and maintain the productivity of your workforce. Efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.|
+|[Customer Service Case Types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)|Use case types to handle different types of customer issues. A case type identifies the processes and the data needed to resolve a specific type of issue, such as a lost or missing credit card.|
+|[Proactive Customer Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/proactive-service-operations.md)|Use this feature to track the digital services used by your customers and to proactively create cases for service disruptions.|
+|[Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md)|Use playbooks to provide step-by-step guidance for completing the tasks needed to resolve specific types of customer service cases.|
+|[Guided Decisions for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)|Use guided decisions to resolve complex cases faster and more efficiently by guiding customer service agents through a structured troubleshooting process.|
+|[Estimated time to resolve a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr.md)|Use machine learning to predict the estimated time to resolve a case \(ETTR\) based on case attributes such as the short description, category, priority, and assignment group.|
 
-## Related
-
-- [[csm-config-workspace-interface|CSM Configurable Workspace interface]]
-- [[csm-workspace-landing-pages|CSM Configurable Workspace landing pages]]
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[csm-config-ws-side-panel-components|CSM Configurable Workspace contextual side panel components]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-workspace-form-templates|CSM Configurable Workspace form templates]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[csm-workspace-chat-session-tabs|CSM Configurable Workspace chat session tabs]]
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[case-action-status-csm-workspace|Case action status]]
-- [[awa-csm-overview|AWA for CSM]]
-- [[customer-central|Customer Central]]
-- [[csm-workspace-chrome-link-manager|Organize records tabs with ServiceNow Link Manager]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[customer-service-case-types|Customer service case types]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[customer-service-case-playbooks|Playbook capabilities]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[ettr|Estimated time to resolve a case]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[configure-nba|Recommended Actions]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

@@ -20,7 +20,7 @@ Display links to various important pages or sections of your website in a sitema
 
 The Portal Next Experience theme should have been activated.
 
-The [[portal-footer-widget|Portal Polaris Footer widget]] must have been configured. For more information, see [Configure the Portal Polaris Footer widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-footer-widget.md)
+The Portal Polaris Footer widget must have been configured. For more information, see [Configure the Portal Polaris Footer widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-footer-widget.md)
 
 Role required: sp\_admin
 
@@ -51,6 +51,3 @@ Role required: sp\_admin
 
 The sitemap links are configured and enabled.
 
-## Related
-
-- [[portal-footer-widget|Portal Polaris Footer widget]]

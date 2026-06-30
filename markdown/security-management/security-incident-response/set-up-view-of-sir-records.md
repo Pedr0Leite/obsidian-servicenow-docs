@@ -39,12 +39,9 @@ The workspace users can search the related list by name as well. For more inform
 
 [Category management in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

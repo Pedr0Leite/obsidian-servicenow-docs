@@ -14,7 +14,7 @@ breadcrumb: [DevOps change models, Accelerate your DevOps change process, DevOps
 
 # Update change model in pipeline
 
-Update the change model in your existing pipeline steps using the DevOps Pipeline Migration to Change [[c_Models|Models]] catalog item.
+Update the change model in your existing pipeline steps using the DevOps Pipeline Migration to Change Models catalog item.
 
 ## Before you begin
 
@@ -97,6 +97,3 @@ The DevOps Pipeline Migration to Change Models catalog item enables you to updat
 </table>
 **Parent Topic:**[DevOps change models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-multimodel.md)
 
-## Related
-
-- [[c_Models|Models]]

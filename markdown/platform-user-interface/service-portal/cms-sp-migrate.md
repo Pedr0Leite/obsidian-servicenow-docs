@@ -14,7 +14,7 @@ breadcrumb: [Content Management and Service Portal, Understanding Service Portal
 
 # CMS to Service Portal transition
 
-Your CMS may include complex [[form-configurable-workspace|forms]] and customizations that do not render as expected in [[c_ServicePortal|Service Portal]]. Use this guide to understand how best to modify your CMS and Service Catalog implementation for Service Portal adoption, and to understand how a conversion may affect your users.
+Your CMS may include complex forms and customizations that do not render as expected in Service Portal. Use this guide to understand how best to modify your CMS and Service Catalog implementation for Service Portal adoption, and to understand how a conversion may affect your users.
 
 If you are considering transitioning from CMS to Service Portal, make sure that you understand the impact of moving to a mobile environment. Review the Mobile client GlideForm \(g form\) scripting and migration.
 
@@ -48,7 +48,7 @@ While data lookups are not applied in the Service Portal, the record updates as 
 
 </td></tr><tr><td>
 
-[[c_ContentBlocks|Content blocks]]
+Content blocks
 
 </td><td>
 
@@ -73,7 +73,7 @@ Because UI Macros use Jelly, they are not supported in Service Portal.
 </td><td>
 
 -   In Service Portal, you can use widgets instead of UI Macros. Base system widgets generally cover most use cases, but for custom solutions, you can develop new widgets using AngularJS.
--   If your implementation includes UI Macros in Service Catalog forms that [[onboarding-modals-reference|reference]] other fields or variables in the form, you can embed the widget inside a Service Catalog variable. Learn more: [Replace a Service Catalog form script with a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ui-macro-widget.md).
+-   If your implementation includes UI Macros in Service Catalog forms that reference other fields or variables in the form, you can embed the widget inside a Service Catalog variable. Learn more: [Replace a Service Catalog form script with a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ui-macro-widget.md).
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ UI actions
 
 All server-side UI actions are supported in Service Portal, although setRedirectURL\(\) operations are ignored because Service Portal forms handle redirection in a different way than the platform.
 
- The [[form-widget|form widget]] ignores all UI actions marked as Client.
+ The form widget ignores all UI actions marked as Client.
 
 </td><td>
 
@@ -224,10 +224,3 @@ Use the Shopping Cart widget.
 </td></tr></tbody>
 </table>**Parent Topic:**[Content Management and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CMSAndSP.md)
 
-## Related
-
-- [[form-configurable-workspace|Forms]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_ContentBlocks|Content blocks]]
-- [[onboarding-modals-reference|Reference]]
-- [[form-widget|Form widget]]

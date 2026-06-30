@@ -28,10 +28,7 @@ With process mining, you can identify the following opportunities of improvement
 |Review \(Max repetitions is 2\)|Incidents that were move to review state for two times.|
 |Eradicate \(Max repetitions is 2\)|Incidents that were move to eradicate state for two times.|
 
-The Process Mining Content Pack for [[sir-landing-page|Security Incident Response]] adds a prebuilt project that includes a predefined process model definition for security incidents. To create a project, see [Create process mining project for security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-proj-proc-min-sir.md).
+The Process Mining Content Pack for Security Incident Response adds a prebuilt project that includes a predefined process model definition for security incidents. To create a project, see [Create process mining project for security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-proj-proc-min-sir.md).
 
 **Note:** To use the Process Mining in Security Incident Response, download and install the content pack. For more information, see [Content pack for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/sir-proc-min-content-pack.md).
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

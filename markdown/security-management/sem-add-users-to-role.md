@@ -13,7 +13,7 @@ breadcrumb: [Configure users and groups in Security Exposure Management Workspac
 
 # Add users to a role
 
-Assign users to product-specific roles using the interface in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Assign users to product-specific roles using the interface in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -52,9 +52,5 @@ Use this procedure to explicitly assign users to product-specific roles. Only ex
 
 The users are assigned to the role. The user count updates automatically when the modal is closed.
 
-**Parent Topic:**[[sem-configure-users-groups-overview|Configure users and groups in Security Exposure Management Workspace]]
+**Parent Topic:**[Configure users and groups in Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-users-groups-overview.md)
 
-## Related
-
-- [[sem-configure-users-groups-overview|Configure users and groups in Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

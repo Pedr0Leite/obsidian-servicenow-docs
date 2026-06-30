@@ -21,13 +21,8 @@ You can:
 -   Analyze the estimate time compared to the actual time that it takes to complete tasks
 -   Allocate, track, and report on expenses for all operations
 
--   **[[t_UseTheFieldServiceOverviewModule|Use the Field Service Management dashboard]]**  
-The [[fsm-application-landing-page|Field Service Management]] overview module provides a dispatch map that displays tasks and links to the related task records.
+-   **[Use the Field Service Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_UseTheFieldServiceOverviewModule.md)**  
+The Field Service Management overview module provides a dispatch map that displays tasks and links to the related task records.
 
-**Parent Topic:**[[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 
-## Related
-
-- [[t_UseTheFieldServiceOverviewModule|Use the Field Service Management dashboard]]
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

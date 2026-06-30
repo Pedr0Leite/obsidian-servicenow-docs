@@ -22,7 +22,7 @@ Role required: ts\_admin or admin
 
 ## About this task
 
-By default, the system provides a sample Zing synonym dictionary called **Example synonym dictionary**. You can add [[synonyms-ais|synonyms]] to this dictionary or create your own synonym dictionaries.
+By default, the system provides a sample Zing synonym dictionary called **Example synonym dictionary**. You can add synonyms to this dictionary or create your own synonym dictionaries.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ By default, the system provides a sample Zing synonym dictionary called **Exampl
 
 2.  Select **New**.
 
-3.  On the Synonym [[dictionary-form-ais|Dictionary form]], fill in the fields.
+3.  On the Synonym Dictionary form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -69,7 +69,3 @@ By default, the system provides a sample Zing synonym dictionary called **Exampl
 
 [Debug synonym searches]()
 
-## Related
-
-- [[synonyms-ais|Synonyms]]
-- [[dictionary-form-ais|Dictionary form]]

@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Suggested steps generation in Now Assist for IT Service Management \(ITSM\)
 
-Generate suggested steps automatically by analyzing clusters of closed incidents with similar incident resolution in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Generate suggested steps automatically by analyzing clusters of closed incidents with similar incident resolution in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -80,7 +80,3 @@ The Suggested Steps recommendation will appear.\[Omitted image "now-assist-itsm-
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

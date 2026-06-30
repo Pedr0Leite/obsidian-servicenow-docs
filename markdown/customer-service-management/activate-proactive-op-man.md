@@ -12,7 +12,7 @@ breadcrumb: [Configure Proactive Customer Service, Extend capabilities, Configur
 
 # Activate Proactive Customer Service Operations
 
-Activate the Proactive Customer Service plugin to use [[proactive-service-operations|Proactive Customer Service Operations]].
+Activate the Proactive Customer Service plugin to use Proactive Customer Service Operations.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## About this task
 
-Proactive Customer Service Operations is only available for customers who are licensed for the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Proactive Customer Service Operations is only available for customers who are licensed for the Customer Service Management application.
 
 To activate Proactive Customer Service Operations, activate the Proactive Customer Service Operations Management plugin \(com.snc.proactive\_cs\_ops\). This plugin is not active by default.
 
 **Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
-Activating this plugin also installs the Major Issue Management, Customer Service Install Base Management, Customer Service with Service Management, Customer Service [[case-action-status-csm-workspace|Case Action Status]], and Task-Outage Relationship plugins.
+Activating this plugin also installs the Major Issue Management, Customer Service Install Base Management, Customer Service with Service Management, Customer Service Case Action Status, and Task-Outage Relationship plugins.
 
 ## Procedure
 
@@ -36,8 +36,4 @@ Activating this plugin also installs the Major Issue Management, Customer Servic
 
 3.  Click **Activate**.
 
-## Related
 
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-action-status-csm-workspace|Case action status]]

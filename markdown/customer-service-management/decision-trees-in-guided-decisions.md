@@ -16,13 +16,13 @@ Decision trees and guidances enable agents to work through a structured troubles
 
 -   **Decision trees**
 
-    A decision tree is a multi-step process that includes a series of questions, answers, and a guidance for an agent to follow. This process is made up of different decision tree elements, including nodes, inputs, and paths. For more information, see [[guided-decision-tree-elements|Decision tree elements]].
+    A decision tree is a multi-step process that includes a series of questions, answers, and a guidance for an agent to follow. This process is made up of different decision tree elements, including nodes, inputs, and paths. For more information, see [Decision tree elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/guided-decision-tree-elements.md).
 
     Decision trees contain different types of nodes. Decision nodes represent one or more questions. Guidance nodes provide recommendations to agents. Each decision tree has a root node called the start node. Each node includes a path to the next node. Based on the answers to the questions, each decision node leads to an outcome, which can be a guidance, a follow-up question, or another decision tree.
 
 -   **Guidances**
 
-    A guidance is an action that an agent can take or information that an agent can share. For example, a guidance can recommend that the agent can share a knowledge article or [[create-work-orders|create a work order]]. Agents can perform the action by clicking a button on the card.
+    A guidance is an action that an agent can take or information that an agent can share. For example, a guidance can recommend that the agent can share a knowledge article or create a work order. Agents can perform the action by clicking a button on the card.
 
 
 ## Decision tree example
@@ -38,17 +38,10 @@ The agent can select one of two paths to answer the question "Is this a new cust
     -   If **Yes**, the customer isn’t eligible for the promotion.
     -   If **No**, the customer is eligible to receive the promotion.
 
-\[Omitted image "decision-tree-diagram-detailed.png"\] Alt text: [[guided-decision-tree-node-types|Decision tree nodes]] include configuration details such as name, type, and input.
+\[Omitted image "decision-tree-diagram-detailed.png"\] Alt text: Decision tree nodes include configuration details such as name, type, and input.
 
 For more information about creating a decision tree, see the following topics:
 
--   [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
--   [[configure-decision-trees-gdb|Create a decision tree in Core UI]]
+-   [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md)
+-   [Create a decision tree in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-decision-trees-gdb.md)
 
-## Related
-
-- [[guided-decision-tree-elements|Decision tree elements]]
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[configure-decision-trees-gdb|Create a decision tree in Core UI]]
-- [[create-work-orders|Create a work order]]
-- [[guided-decision-tree-node-types|Decision tree nodes]]

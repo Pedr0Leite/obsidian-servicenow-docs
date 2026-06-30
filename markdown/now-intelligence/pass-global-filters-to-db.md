@@ -16,7 +16,7 @@ Global filters are sent to the dashboard to serve as filters for the visualizati
 
 ## About this task
 
-Global filters are filters that apply to visualizations on the target dashboard. These filters apply to all relevant data visualizations. The format of the value passed to globalFilter is the stringified form of \{encodedQueries: 'encoded-queries-string', filters: 'PAR-Filter'\}. Both encodedQueries and filters are transformed into [[c_performanceAnalyticsAndReporting|Platform Analytics]] filters internally and merged with the existing filters on the dashboard.
+Global filters are filters that apply to visualizations on the target dashboard. These filters apply to all relevant data visualizations. The format of the value passed to globalFilter is the stringified form of \{encodedQueries: 'encoded-queries-string', filters: 'PAR-Filter'\}. Both encodedQueries and filters are transformed into Platform Analytics filters internally and merged with the existing filters on the dashboard.
 
 Either `encodedQueries`, `filters`, or both can be specified. In the following example, equivalent `encodedQueries` and `filters` values both filter visualizations that show records from the Incident \[incident\] table based on a State field value of 1 or 2:
 
@@ -61,7 +61,7 @@ Role required: admin
     ```
 
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
@@ -78,7 +78,3 @@ Role required: admin
 
 [Configure dashboard data broker]()
 
-## Related
-
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

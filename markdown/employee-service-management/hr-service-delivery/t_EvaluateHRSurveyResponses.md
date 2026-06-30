@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.manager, or sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Surveys** &gt; **All [[c_HRSurveysIst|HR Surveys]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Surveys** &gt; **All HR Surveys**.
 
 2.  Select a survey to evaluate the responses.
 
@@ -51,7 +51,3 @@ Role required: sn\_hr\_core.manager, or sn\_hr\_core.admin
 
 [View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_HRSurveysIst|HR surveys]]

@@ -18,7 +18,7 @@ When a contract request is modified, sync the contract document for self-served 
 
 ## About this task
 
-**Note:** The **Sync document** option is available starting with [[cncore-cmpro-landing-page|Contract Management Pro]] version 1.2.1.
+**Note:** The **Sync document** option is available starting with Contract Management Pro version 1.2.1.
 
 You can sync a contract document only when the contract request is in the Work in progress state.
 
@@ -47,6 +47,3 @@ A new contract document revision is created with the updated metadata and signat
 
 **Parent Topic:**[Use self-served contract request]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

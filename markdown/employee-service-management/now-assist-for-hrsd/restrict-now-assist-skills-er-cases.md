@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for HR Service Delivery \(HRSD\), HR Service 
 
 # Restrict Now Assist capabilities for employee relations cases
 
-Restrict the Now Assist capabilities for your [[hr-case-employee-relations|employee relations]] cases and define the availability.
+Restrict the Now Assist capabilities for your employee relations cases and define the availability.
 
 ## Before you begin
 
@@ -31,6 +31,3 @@ Restrict the Now Assist capabilities for your [[hr-case-employee-relations|emplo
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Service Level Management, Service Level Management, IT Servic
 
 # View SLA timeline
 
-View an [[c_SLATimeline|SLA timeline]] to review its details and its progress over time.
+View an SLA timeline to review its details and its progress over time.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Navigation
 
 </td><td>
 
-Navigate to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **SLA** &gt; **SLA Definitions**. Select the name of a SLA definition and then select the **Validate SLA Definition** link.
+Navigate to **Service Level Management** &gt; **SLA** &gt; **SLA Definitions**. Select the name of a SLA definition and then select the **Validate SLA Definition** link.
 
 </td></tr><tr><td id="d216309e96">
 
@@ -64,7 +64,3 @@ Open a task SLA record from the task form. Select the **Show SLA Timeline** link
 
 **Parent Topic:**[Using Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/using-service-level-management.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]
-- [[service-level-mgmt-landing-page|Service Level Management]]

@@ -20,7 +20,7 @@ Save time tracking and organizing all the tasks needed to improve and maintain y
 
 ## Review and manage Security Tasks
 
-\[Omitted image "sec-task-mgr-1.png"\] Alt text: Security Task page in [[sec-center-v2|Security Center]]
+\[Omitted image "sec-task-mgr-1.png"\] Alt text: Security Task page in Security Center
 
 Access the Security Tasks by navigating to **All** &gt; **Security Center** &gt; **Security Tasks**. By default, all tasks are displayed in the list. You can easily filter upcoming, overdue, or open tasks by selecting the cards above the list. These cards also display the current count of tasks in each of these categories. You can further refine your filter by using the normal table field filtering options and then selecting the filter button \(\[Omitted image "filter-panel-icon.png"\] Alt text: filter button\), then selecting the Advanced view button to create and save a custom filters to use later.
 
@@ -31,8 +31,8 @@ The Security Tasks use the following roles:
 |User|Required role|Description|
 |----|-------------|-----------|
 |System Administrator|admin|System Administrators can view, create, assign, and delete Security Tasks.|
-|Security Center Viewer|sn\_vsc\_security\_center\_viewer|Viewers can view, but not create, delete or [[create-edit-security-tasks|edit Security Tasks]].|
-|Security Task Manager|sn\_vsc\_task\_manager|Security Task Managers can work on assigned tasks, view task manager-related pages, and create and manage tasks within Security center. They can view tasks assigned to other [[users|users]] but can't edit tasks assigned to other users. Task managers can't access non-task manager pages in Security Center.|
+|Security Center Viewer|sn\_vsc\_security\_center\_viewer|Viewers can view, but not create, delete or edit Security Tasks.|
+|Security Task Manager|sn\_vsc\_task\_manager|Security Task Managers can work on assigned tasks, view task manager-related pages, and create and manage tasks within Security center. They can view tasks assigned to other users but can't edit tasks assigned to other users. Task managers can't access non-task manager pages in Security Center.|
 |ITIL|itil|ITIL users can interact with Security Tasks assigned to them, but can't view all tasks as the admin and Security Task manager roles can.|
 
 ## Quickly assign to yourself Security Tasks
@@ -41,9 +41,9 @@ Use the check boxes to the left of the items in the list to select multiple item
 
 ## Create Security Tasks
 
-Create a Security Task with the **+Create Task** button, which is available various [[platsec-sublanding|platform security]] pages.
+Create a Security Task with the **+Create Task** button, which is available various platform security pages.
 
-For example, in Security Center, on the [[best-practices|Best Practices]] tool details page, the admin can select the **+Create Task** button to create and assign a task to complete this best practice.
+For example, in Security Center, on the Best Practices tool details page, the admin can select the **+Create Task** button to create and assign a task to complete this best practice.
 
 <table id="table_wgc_bvj_cfc"><tbody><tr><td>
 
@@ -56,7 +56,7 @@ For example, in Security Center, on the [[best-practices|Best Practices]] tool d
 </td></tr></tbody>
 </table>## Automatically generated tasks
 
-Security Tasks can be automatically generated. [[auto-sec-task|Automatic Security Task generation]] is triggered by an associated event that occurred on the platform. Learn more about generated Security Tasks in [Automatic Security Task generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/auto-sec-task.md).
+Security Tasks can be automatically generated. Automatic Security Task generation is triggered by an associated event that occurred on the platform. Learn more about generated Security Tasks in [Automatic Security Task generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/auto-sec-task.md).
 
 ## Edit and assign Security Tasks
 
@@ -64,7 +64,7 @@ Edit Security Tasks to assign them to users, define due dates, and provide addit
 
 ## Export tasks
 
-You can [[export-security-tasks|export Security Tasks]] into the format of your choice. For details, see [Export Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/export-security-tasks.md).
+You can export Security Tasks into the format of your choice. For details, see [Export Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/export-security-tasks.md).
 
 -   **[Automatic Security Task generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/auto-sec-task.md)**  
 Learn about how and when your instance generates Security Tasks.
@@ -75,12 +75,3 @@ Learn how to export Security Tasks into files you can download and use in other 
 
 **Parent Topic:**[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[create-edit-security-tasks|Edit Security Tasks]]
-- [[users|Users]]
-- [[platsec-sublanding|Platform Security]]
-- [[best-practices|Best Practices]]
-- [[auto-sec-task|Automatic Security Task generation]]
-- [[export-security-tasks|Export Security Tasks]]

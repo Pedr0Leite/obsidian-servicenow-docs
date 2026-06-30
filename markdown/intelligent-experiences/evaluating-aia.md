@@ -19,36 +19,24 @@ Find guidance for every stage of the agentic evaluation lifecycle, from initial 
 
 To evaluate your agentic AI at scale, follow the workflow described below:
 
-1.  [[getting-started-aia-eval|Create your first automated evaluation run.]]
+1.  [Create your first automated evaluation run.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/getting-started-aia-eval.md)
 
     Get acquainted with the agentic evaluations homepage and the guided setup for an automated evaluation.
 
-2.  [[track-aia-eval-progress|Track and monitor progress.]]
+2.  [Track and monitor progress.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/track-aia-eval-progress.md)
 
     In-progress automated evaluations can provide important information about agentic AI performance. See any initial problems before all the results come through.
 
-3.  [[review-aia-eval-outputs|Review the result outputs.]]
+3.  [Review the result outputs.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/review-aia-eval-outputs.md)
     1.  See LLM-judged scores.
-    2.  [[aia-eval-review-issues|Identify consistent issues.]]
-    3.  [[aia-eval-analyze-traces|Trace issues back to their source.]]
-    4.  [[aia-eval-apply-optimization|Apply optimizations.]]
-4.  [[execute-aia-eval|Create automated evaluation runs for other agentic workflows or AI agents.]]
-5.  [[create-custom-metric|Create custom metrics to evaluate against your specific business needs.]]
+    2.  [Identify consistent issues.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-review-issues.md)
+    3.  [Trace issues back to their source.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-analyze-traces.md)
+    4.  [Apply optimizations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-apply-optimization.md)
+4.  [Create automated evaluation runs for other agentic workflows or AI agents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md)
+5.  [Create custom metrics to evaluate against your specific business needs.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-custom-metric.md)
 
 ## Additional information
 
--   [[aia-eval-faqs|Frequently asked questions about agentic evaluations]]
--   [[troubleshoot-aia-eval|Troubleshoot agentic evaluations]]
+-   [Frequently asked questions about agentic evaluations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-eval-faqs.md)
+-   [Troubleshoot agentic evaluations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/troubleshoot-aia-eval.md)
 
-## Related
-
-- [[getting-started-aia-eval|Getting started with agentic evaluations]]
-- [[track-aia-eval-progress|Track and monitor agentic evaluation progress]]
-- [[review-aia-eval-outputs|Review agentic evaluation outputs]]
-- [[aia-eval-review-issues|Review issues discovered in agentic evaluations]]
-- [[aia-eval-analyze-traces|Analyze traces found in agentic evaluation run results]]
-- [[aia-eval-apply-optimization|Apply optimizations to agentic AI assets and reevaluate]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[create-custom-metric|Create a custom metric for evaluating agentic workflows]]
-- [[aia-eval-faqs|Frequently asked questions about agentic evaluations]]
-- [[troubleshoot-aia-eval|Troubleshoot agentic evaluations]]

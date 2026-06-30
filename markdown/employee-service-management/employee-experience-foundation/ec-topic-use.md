@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 # Use the Employee Center topic pages
 
-The [[employee-center-landing-page|Employee Center]] topic pages contain the breadcrumbs widget, topic header widget, sub-topic widget, and the topic content widget.
+The Employee Center topic pages contain the breadcrumbs widget, topic header widget, sub-topic widget, and the topic content widget.
 
 ## Breadcrumbs widget
 
@@ -110,7 +110,7 @@ Displays the next set of 12 content items \(knowledge articles and requests\), b
 
 ## Search on the topic pages
 
-Use [[improved-search|search on the topic pages]] that allows you to browse content with its spell check, synonym detection, and other auto-suggestive functionalities.
+Use search on the topic pages that allows you to browse content with its spell check, synonym detection, and other auto-suggestive functionalities.
 
 ## Search by the topic facets
 
@@ -118,7 +118,7 @@ Narrow your search with hierarchical filters for topics and sub-topics on the gl
 
 ## Learning content on the topic pages
 
-Use [[exploring-learning-exp|learning]] content as one of the connected content types, available on the topic pages, for the licensed employees. Employees can browse, filter, sort, and add to favourite the course content available on the topic pages relevant to them.
+Use learning content as one of the connected content types, available on the topic pages, for the licensed employees. Employees can browse, filter, sort, and add to favourite the course content available on the topic pages relevant to them.
 
 The Unified Browse widget has **Courses** as an addition to the **Filter by** listed options.
 
@@ -143,7 +143,7 @@ You can modify the widget display by configuring the widget instance options. Fo
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -161,9 +161,3 @@ You can modify the widget display by configuring the widget instance options. Fo
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[improved-search|Search on the topic pages]]
-- [[exploring-learning-exp|Learning]]
-- [[rfy-ec|Recommended for you]]

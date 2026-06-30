@@ -16,12 +16,12 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 Reverse Whois is a service that performs searches on domain names registered by individuals or organizations.
 
-Perform domain lookups using search terms in [[c_Observables|observables]] that you attach to a security incident. The Reverse Whois API searches domain records based on search terms you enter, and it returns all records that correspond with those terms.
+Perform domain lookups using search terms in observables that you attach to a security incident. The Reverse Whois API searches domain records based on search terms you enter, and it returns all records that correspond with those terms.
 
-Analysts sometimes use this integration along with the [[tisc-whoisxml-integration|Whois integration]] for security incident research. The Whois integration provides additional enrichment information based on the domain lookups from the Reverse Whois integration.
+Analysts sometimes use this integration along with the Whois integration for security incident research. The Whois integration provides additional enrichment information based on the domain lookups from the Reverse Whois integration.
 
 1.  [Install and configure Reverse Whois](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-config-reversewhois.md)  
-Before you run the integration on your instance, complete the installation and configuration steps so the Reverse Whois application properly integrates with the [[security-operations-landing-page|Security Operations]] product.
+Before you run the integration on your instance, complete the installation and configuration steps so the Reverse Whois application properly integrates with the Security Operations product.
 2.  [\(Optional\) Install and configure Whois](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/whois-install-and-config.md)  
 Install the Whois plugin to provide additional enrichment information on your domain lookups from the Reverse Whois API. This lookup provides additional enrichment data on the domain, such as the registration date, name of registrar, and country of origin.
 3.  [Initiate the lookup for Reverse Whois](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manually-attch-an-obsvrble-reversewhois.md)  
@@ -33,8 +33,3 @@ Run the Whois integration to perform enrichment lookups on the domains returned 
 
 **Parent Topic:**[Security Incident Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir_integrations.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[security-operations-landing-page|Security Operations]]

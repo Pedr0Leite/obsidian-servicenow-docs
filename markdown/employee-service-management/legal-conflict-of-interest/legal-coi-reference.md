@@ -14,14 +14,10 @@ breadcrumb: [Legal Conflict of Interest, Legal Service Delivery Practice Applica
 
 # Legal Conflict of Interest reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]].
+Reference topics provide additional information about the lists and forms that you use in Legal Conflict of Interest.
 
 -   **[Components installed with Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/installed-with-legal-conflict-of-interest.md)**  
 Several types of components are installed with installation of the Legal Conflict of Interest, including tables and user roles.
 
 **Parent Topic:**[Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-conflict-of-interest-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]

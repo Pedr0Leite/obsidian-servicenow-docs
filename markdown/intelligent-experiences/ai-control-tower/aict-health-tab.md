@@ -15,9 +15,9 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 # Health tab in AI Control Tower
 
-Monitor the performance of guardrails enabled through [[platform-now-assist-landing|Now Assist]] Guardian.
+Monitor the performance of guardrails enabled through Now Assist Guardian.
 
-The Health tab in the [[ai-governance|AI Control Tower dashboard]] helps you monitor and evaluate the effectiveness of offensive content and prompt injection guardrails active on your ServiceNow [[ai-assets|AI assets]].
+The Health tab in the AI Control Tower dashboard helps you monitor and evaluate the effectiveness of offensive content and prompt injection guardrails active on your ServiceNow AI assets.
 
 \[Omitted image "aict-health-tab.png"\] Alt text: Health tab showing the metrics for offensive content and prompt injection guardrails.
 
@@ -105,8 +105,4 @@ Apply the filters on the dashboard to view guardrail activity for skills in a da
 
     \[Omitted image "aict-health-prompt-injection-by-skill.png"\] Alt text: Visualization showing the number of prompt injection occurrences by skill.
 
-## Related
 
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-governance|AI Control Tower dashboard]]
-- [[ai-assets|AI assets]]

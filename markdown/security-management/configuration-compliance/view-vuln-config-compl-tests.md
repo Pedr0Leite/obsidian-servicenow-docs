@@ -23,7 +23,7 @@ Role required:
 -   sn\_vulc.admin to update
 -   sn\_vulc.remediation\_owner to view
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -79,7 +79,7 @@ Criticality
 
 </td><td>
 
-Severity of the configuration issue or issues associated with the control as defined in the third-party integration. The level of criticality is adjusted to match the granularity of similar vulnerability [[indicator|indicators]] available in [[vuln-landing-page|Vulnerability Response]]. The possible levels are: -   **Critical**
+Severity of the configuration issue or issues associated with the control as defined in the third-party integration. The level of criticality is adjusted to match the granularity of similar vulnerability indicators available in Vulnerability Response. The possible levels are: -   **Critical**
 
 The configuration issue associated with the control is causing a disruption to one or more business-critical CIs.
 
@@ -255,9 +255,3 @@ If the GRC Policy and Compliance Management plugin is installed, this tab contai
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[indicator|Indicators]]
-- [[vuln-landing-page|Vulnerability Response]]

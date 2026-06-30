@@ -14,7 +14,7 @@ breadcrumb: [Discovery probes and sensors, Using Discovery, Discovery, ITOM Visi
 
 # Discovery probe management
 
-Several [[r-discovery|discovery]] probes and their associated sensors are included with Discovery. You rarely need to modify probes or sensors. But you might need to set parameters to control the behavior of a particular probe or align versions of customized probes.
+Several discovery probes and their associated sensors are included with Discovery. You rarely need to modify probes or sensors. But you might need to set parameters to control the behavior of a particular probe or align versions of customized probes.
 
 **Note:** For information on Probe to Pattern migration see the knowledge article [KB0694477](https://support.servicenow.com/kb_view.do?sysparm_article=KB0694477).
 
@@ -26,7 +26,7 @@ These are the things you can do with probes and sensors:
 
     Review the [List of Discovery probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md) to see the probes that exist in the base system. Probes need to be active on classifiers for Discovery to trigger the probes. However, not all probes are active on classifiers as more patterns replace probes and sensors. To see a list of patterns, see [Available discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md).
 
--   **[[modify-a-probe|Create or modify a probe]]**
+-   **Create or modify a probe**
 
     You can [create a new probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/modify-a-probe.md) to discover additional CIs that Discovery does not find with the base system probes or patterns, or modify an existing probe to collect additional information on the type of CI. After you create or modify a probe, test it. You can also create multiprobes and multisensors. See [Create a Discovery multiprobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_MultiprobesIncludedWithDiscovery.md) for more information.
 
@@ -34,7 +34,7 @@ These are the things you can do with probes and sensors:
 
     If you upgrade your instance, the Discovery application is also updated, along with components like probes and sensors. However, if you customized any probes or sensors, they do not upgrade. You need to copy your customizations to a text file, upgrade the probes and sensors, and reapply your customizations. See [Align versions of customized probes and sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_AlignVerCustProbeSens.md) for more information.
 
--   **[[t_SetProbeParameters|Set probe parameters]]**
+-   **Set probe parameters**
 
     Probe parameters control several aspects about how probes function. With each probe provided in the base system, certain parameters are allowed. These are specified in the [list of Discovery probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md). See [Set probe parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetProbeParameters.md) for instructions on how to set a parameter.
 
@@ -52,8 +52,3 @@ Use probe parameters to control the behavior of a particular probe every time it
 
 **Parent Topic:**[Discovery probes and sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryProbesAndSensors.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[modify-a-probe|Create or modify a probe]]
-- [[t_SetProbeParameters|Set probe parameters]]

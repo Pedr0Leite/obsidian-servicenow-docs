@@ -14,7 +14,7 @@ breadcrumb: [Check Point Next Generation Threat Prevention integration, Security
 
 # Working with block lists
 
-The ServiceNow [[check-point-ng-integration|Check Point Next Generation Threat Prevention Integration]] supports Block Lists that accept IP, URL, and Domain [[c_Observables|observables]].
+The ServiceNow Check Point Next Generation Threat Prevention Integration supports Block Lists that accept IP, URL, and Domain observables.
 
 ServiceNow configured block list is a csv file that is hosted on an external web server, which for this integration is the ServiceNow AI Platform instance. Custom Intelligence Feed is configured on the Check Point Gateway, which pulls the IP addresses, URLs, and domains from the ServiceNow AI Platform at pre-configured interval.
 
@@ -85,10 +85,5 @@ Description - The HTTPS URL are formatted by the application to trim the path fr
 
 For HTTP URLs with a specific path \(for example, http://www.example.com/path\), Check Point would block the specified URL as the entire URL is visible in CONNECT request.
 
-\[Omitted image "block-request-list-entries2.png"\] Alt text: [[cs-fal-insight-block-list-entries|Block list entries]] for HTTP URLs
+\[Omitted image "block-request-list-entries2.png"\] Alt text: Block list entries for HTTP URLs
 
-## Related
-
-- [[check-point-ng-integration|Check Point Next Generation Threat Prevention integration]]
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]

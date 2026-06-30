@@ -21,7 +21,7 @@ Add event categories and create or update field configurations for events in the
 -   **[Create event types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/create-event-types-wfo-hr.md)**  
 Create multiple events and add them to the team calendar.
 -   **[Configure schedule adherence properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/configure-scheduling-adherence-wfo-hr.md)**  
-[[configure-scheduling-adherence-wfo-hr|Configure schedule adherence properties]] to calculate the adherence to improve the operational efficiency of your organization.
+Configure schedule adherence properties to calculate the adherence to improve the operational efficiency of your organization.
 -   **[Modify schedule adherence and conformance formulas by using extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/modify-schedule-adherence-wfo-hr.md)**  
 Configure and tweak the schedule adherence and conformance formulas using scripted extension points to customize them for your organization.
 -   **[Event type extension points in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/eventy-type-extension-points-wfo-hr.md)**  
@@ -42,6 +42,3 @@ Use extension points to call scripts for event categories such as meeting, time 
 
 [Setting up Demand Forecast in Workforce Optimization for HR]()
 
-## Related
-
-- [[configure-scheduling-adherence-wfo-hr|Configure schedule adherence properties]]

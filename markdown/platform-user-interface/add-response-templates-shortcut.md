@@ -26,7 +26,7 @@ Role required: email\_composer
 
     -   **Open the mini email composer**
 
-        From the [[activity-stream-compose-configurable-workspace|Compose]] section, select the **Email** tab.
+        From the Compose section, select the **Email** tab.
 
     -   **Open the full email composer**
 
@@ -50,6 +50,4 @@ Role required: email\_composer
 
 5.  Select the action or press the Enter key.
 
-## Related
 
-- [[activity-stream-compose-configurable-workspace|Compose]]

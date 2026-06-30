@@ -14,11 +14,11 @@ breadcrumb: [Asset Audit Response, IT Asset Management]
 
 # Exploring Asset Audit Response
 
-Learn more about the [[asset-audit-response|Asset Audit Response]] application by reviewing the workflow and understanding the benefits that it can provide to your organization.
+Learn more about the Asset Audit Response application by reviewing the workflow and understanding the benefits that it can provide to your organization.
 
 ## Asset Audit Response overview
 
-The Asset Audit Response application provides an [[asset-governance-workspace|Asset Governance Workspace]] and an [[audit-workspace|Audit Workspace]] where you can manage your financial regulatory audits, request evidence for these audits, respond to these requests through a guided experience, and access regulatory content data to help drive more efficient and accurate responses to these requests. With the Asset Audit Response application, you can plan for and resolve regulatory risks and compliance issues before they lead to audit failures.
+The Asset Audit Response application provides an Asset Governance Workspace and an Audit Workspace where you can manage your financial regulatory audits, request evidence for these audits, respond to these requests through a guided experience, and access regulatory content data to help drive more efficient and accurate responses to these requests. With the Asset Audit Response application, you can plan for and resolve regulatory risks and compliance issues before they lead to audit failures.
 
 ## Asset Audit Response users
 
@@ -66,8 +66,3 @@ To learn more about configuring and using Asset Audit Response, see:
 -   [Fulfilling evidence requests for financial regulatory audit engagements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/fulfilling-evidence-requests-asset-audit-response.md)
 -   [Asset Audit Response reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/asset-audit-response-references.md)
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]
-- [[asset-governance-workspace|Asset Governance Workspace]]
-- [[audit-workspace|Audit Workspace]]

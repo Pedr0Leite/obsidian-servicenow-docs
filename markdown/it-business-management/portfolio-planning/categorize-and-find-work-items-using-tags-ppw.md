@@ -30,7 +30,7 @@ Any tagging additions or removals made to a planning item are automatically sync
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -117,6 +117,4 @@ Tag is visible to everyone. **Note:** This visibility setting is only available 
 
 5.  To remove a tag from a planning item, double-click the cell in the Tag column on the List view or select the filled tag icon \(\[Omitted image "icon-filled-tag.png"\] Alt text: Tag icon with tags\) on the Details page of the planning item to open the list of tags, then select the **X** next to the tag you want to remove.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

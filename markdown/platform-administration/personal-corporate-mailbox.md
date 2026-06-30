@@ -14,21 +14,14 @@ breadcrumb: [Advanced email setup, Configure, Email Administration, Notification
 
 Enables sales agents to integrate their personal corporate mail boxes to send and receive emails.
 
-A personal corporate user mailbox refers to an individual employee’s official email account provided by their organization \(for example, user@company.com\). This mailbox is used for business communication and is uniquely associated with a single user, unlike shared or departmental mailboxes. It can be integrated with enterprise systems to support workflows around sending and receiving email [[notifications|notifications]].
+A personal corporate user mailbox refers to an individual employee’s official email account provided by their organization \(for example, user@company.com\). This mailbox is used for business communication and is uniquely associated with a single user, unlike shared or departmental mailboxes. It can be integrated with enterprise systems to support workflows around sending and receiving email notifications.
 
--   **[[integrate-personal-corporate-mailbox|Set up personal corporate mailbox]]**  
+-   **[Set up personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/integrate-personal-corporate-mailbox.md)**  
 Set up your personal corporate mailboxes with ServiceNow platform.
--   **[[configure-personal-corporate-mailbox|Configure templates for personal corporate mailboxes]]**  
+-   **[Configure templates for personal corporate mailboxes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-personal-corporate-mailbox.md)**  
 Configure personal corporate mailboxes in the ServiceNow platform to enable users and agents to send and receive emails.
--   **[[integrate-corporate-email-receiving|Integrate personal corporate mailbox for receiving emails]]**  
+-   **[Integrate personal corporate mailbox for receiving emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/integrate-corporate-email-receiving.md)**  
 Integrate your personal corporate mail boxes with ServiceNow to receive emails in your personal corporate mailbox.
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
-## Related
-
-- [[integrate-personal-corporate-mailbox|Set up personal corporate mailbox]]
-- [[configure-personal-corporate-mailbox|Configure templates for personal corporate mailboxes]]
-- [[integrate-corporate-email-receiving|Integrate personal corporate mailbox for receiving emails]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[notifications|Notifications]]

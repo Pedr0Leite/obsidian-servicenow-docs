@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, E
 
 # Exploring Now Assist for HR Service Delivery \(HRSD\)
 
-With the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] application, your agents can summarize the customer chat conversations and case details to get the context of the case, generate the case resolution notes, and wrap up cases faster.
+With the Now Assist for HR Service Delivery \(HRSD\) application, your agents can summarize the customer chat conversations and case details to get the context of the case, generate the case resolution notes, and wrap up cases faster.
 
 ## Now Assist for HR Service Delivery \(HRSD\) Overview
 
@@ -42,7 +42,7 @@ The Now Assist for HRSD application includes the generative AI skills and featur
     -   Live Agent to Live Agent handoff summary: Summarizes the conversation when a live agent hands off a chat to another live agent and displays the summary in the Active Chat window. An agent can view a summary of the actions that were taken by a customer before hand off to another live agent.
     -   Chat wrap up summary: Accelerates the wrap-up time by populating the full chat summary when a conversation ends.
     -   Chat wrap up short description: Accelerates the wrap-up time by populating the short description that summarizes the requester issues when the conversation ends​.
-    For information on activating the chat summarization skill, see [Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-chat-summarization-in-the-now-assist-admin-console.md). For information on how to use the skill on [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]], see [Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd-chat.md).
+    For information on activating the chat summarization skill, see [Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-chat-summarization-in-the-now-assist-admin-console.md). For information on how to use the skill on Agent Workspace for HR Case Management, see [Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd-chat.md).
 
     The following example shows an AI-generated chat summary.
 
@@ -108,7 +108,7 @@ For information on setting up sensitivity detection, see [Configure sensitivity 
 
 Sentiment analysis helps agents prioritize cases based on a sentiment score ranging from -5 to +5 to represent extremely negative to extremely positive. It is available in both the HR Agent workspace and core UI views.
 
-For more information on using sentiment analysis in [[hr-service-delivery|HR Service Delivery]], see [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/analyze-sentiments-now-assist.md).
+For more information on using sentiment analysis in HR Service Delivery, see [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/analyze-sentiments-now-assist.md).
 
 ## Now Assist panel in the Agent Workspace for HR Case Management
 
@@ -128,8 +128,3 @@ Galileo Inside uses Retrieval-Augmented Generation \(RAG\) to generate responses
 
 A one-time configuration provides continuous access to the Galileo library with monthly updates to ensure users have the latest information. For more information, see [Configure Now Assist for HR - Galileo Inside](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configuring-galileo-inside.md).
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-service-delivery|HR Service Delivery]]

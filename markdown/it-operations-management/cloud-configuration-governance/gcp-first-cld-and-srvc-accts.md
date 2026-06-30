@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Google Cloud through Cloud Services Catalog T
 
 # Set up a cloud account and service account for Google Cloud Platform
 
-A service account is a secure record on your instance that stores the credential and access information for your provider account. [[r-discovery|Discovery]] uses the information to access your provider account to get data on each resource in each specified datacenter. A cloud account is the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
+A service account is a secure record on your instance that stores the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter. A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ When you finish the Day-1 setup process, your cloud account might look like this
 
 ## Procedure
 
-1.  On the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-accounts|Cloud Accounts]]**.
+1.  On the Cloud Admin Portal, navigate to **Manage** &gt; **Cloud Accounts**.
 
 2.  Select or create the cloud account:
 
@@ -43,11 +43,11 @@ When you finish the Day-1 setup process, your cloud account might look like this
         1.  On the General Information page, click **New** and then enter a unique and meaningful **Name** and **Description** for the cloud account.
         2.  Select the provider.
         3.  Click **Next** and then continue with the next step.
-3.  On the Datacenters page, [[create-service-account|create a service account]]: Click the **+** next to the **Service Account** field, and then fill in the form for the service account.
+3.  On the Datacenters page, create a service account: Click the **+** next to the **Service Account** field, and then fill in the form for the service account.
 
 4.  From the JSON key file that is associated with the service account, populate the **project\_id** value into the **Account ID** field.
 
-    **Note:** You can use the import JSON file option to populate. For more details, see [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]].
+    **Note:** You can use the import JSON file option to populate. For more details, see [Configure the Google API credentials for Cloud Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-create-google-api-credentials.md).
 
 5.  In the **Discovery credentials** field, select the appropriate credentials for the service account.
 
@@ -60,7 +60,7 @@ When you finish the Day-1 setup process, your cloud account might look like this
     |Field|Description|
     |-----|-----------|
     |**Datacenter type**|Select **Google Cloud Platform Datacenter**.|
-    |**Datacenter [[c_DiscoveryStatus|discovery status]]**|Select **Google Cloud Platform Datacenter**.|
+    |**Datacenter discovery status**|Select **Google Cloud Platform Datacenter**.|
     |**Should pull events**|Enables Cloud Provisioning and Governance to collect events from resource types in Google Project LDCs in the `sn_cmp_cloud_event_list`.|
 
 8.  Click **Submit** to create the service account.
@@ -98,12 +98,3 @@ After you complete all procedures in this initial "Day 1" setup, you can create 
 
 [Discovery for Google Cloud Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md)
 
-## Related
-
-- [[itom-create-google-api-credentials|Configure the Google API credentials for Cloud Discovery]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-accounts|Cloud accounts]]
-- [[create-service-account|Create a service account]]
-- [[c_DiscoveryStatus|Discovery status]]

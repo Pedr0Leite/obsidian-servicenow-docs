@@ -14,7 +14,7 @@ breadcrumb: [Submit, Health and Safety Incident Management, Health and Safety, E
 
 # Submit a safety incident as an employee
 
-Submit a safety incident through the [[employee-center-landing-page|Employee Center]] to report it to the safety department for an investigation.
+Submit a safety incident through the Employee Center to report it to the safety department for an investigation.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.requestor
 
 ## About this task
 
-If there's an emergency, you can use the [[health-safety-overview|Health and Safety]] contacts knowledge article to access the emergency contact list. This knowledge article includes the local health and safety team contact numbers, emergency response numbers, or any other contacts that employees can use if there’s a health and safety incident or emergency.
+If there's an emergency, you can use the Health and Safety contacts knowledge article to access the emergency contact list. This knowledge article includes the local health and safety team contact numbers, emergency response numbers, or any other contacts that employees can use if there’s a health and safety incident or emergency.
 
 To open the emergency contacts knowledge article from the Employee Center, navigate to **Health and Safety** &gt; **Policy and procedures** &gt; **Health and Safety contacts**.
 
@@ -42,7 +42,7 @@ To open the emergency contacts knowledge article from the Employee Center, navig
 
         For more information on configuring the visibility of the Google search box on the map, see [Configure the location search bar visibility on the map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-configure-property-hide-map-location.md).
 
-    -   The **Contractor** option appears only when the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md). The field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
+    -   The **Contractor** option appears only when the Health and Safety Contractor Management \(sn\_hs\_crm\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md). The field only lists users who have the \[snc\_external\] role assigned to them and have their Health and Safety profile created. For more information, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
 4.  If you have selected the **Report Health and Safety Incident - Advanced** form, use the **Describe the event** section to add more details about the incident.
 
 <table id="table_bjs_5xp_2bc"><thead><tr><th>
@@ -130,8 +130,3 @@ As a safety manager or agent, if the incident isn’t assigned to you, you can a
 
 **Parent Topic:**[Submitting safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/submitting-safety-incidents-obvs.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]

@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Select **New**.
 
-3.  On the [[widget-new-record-form|Widget New Record form]], fill the fields.
+3.  On the Widget New Record form, fill the fields.
 
     For a description of the field names, see [Widget New Record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/widget-new-record-form.md).
 
@@ -40,6 +40,4 @@ Role required: admin
 
 7.  Select **Submit**.
 
-## Related
 
-- [[widget-new-record-form|Widget New Record form]]

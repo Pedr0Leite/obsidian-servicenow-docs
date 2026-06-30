@@ -35,7 +35,7 @@ By default, Approval with e-signature supports these tables.
 -   Change Request \[change\_request\]
 -   Standard Change Proposal \[std\_change\_proposal\]
 
-When you add an approval table, any approval for the table needs an [[e-signature|e-signature]] authorization. See [Select an approval table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_SelectAnApprovalTable.md) to add or remove a table from supporting Approval with e-signature.
+When you add an approval table, any approval for the table needs an e-signature authorization. See [Select an approval table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_SelectAnApprovalTable.md) to add or remove a table from supporting Approval with e-signature.
 
 ## Approver Authentication dialog
 
@@ -80,7 +80,7 @@ See [Multi-Provider single sign-on \(SSO\)](https://raw.githubusercontent.com/Se
 -   **[Activate Approval with e-Signature plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/activate-approval-esignature.md)**  
 The Approval with e-Signature plugin \(com.glide.e\_signature\_approvals\) allows users to approve requests by re-entering their login credentials.
 -   **[De-activate e-signatures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_DeactivateESignatures.md)**  
-Use this procedure to [[r_DeactivateESignatures|de-activate e-signatures]].
+Use this procedure to de-activate e-signatures.
 -   **[Select an approval table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_SelectAnApprovalTable.md)**  
 By default, activating the Approval with E-signature plugin enables e-signature for all tables for which an approval exists.
 -   **[Set up an approval from a local database](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_SetUpAnApprovalFromALocalDb.md)**  
@@ -92,7 +92,3 @@ Installing approval with e-signature installs certain properties.
 
 **Parent Topic:**[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
-## Related
-
-- [[e-signature|E-signature]]
-- [[r_DeactivateESignatures|De-activate e-signatures]]

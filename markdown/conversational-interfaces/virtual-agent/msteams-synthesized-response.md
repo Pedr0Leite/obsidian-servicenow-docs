@@ -14,7 +14,7 @@ breadcrumb: [Use Now Assist in VA conversations with Teams, Conversational Integ
 
 # Synthesized response in Microsoft Teams conversations
 
-[[teams-conv-integration|Conversational Integration with Microsoft Teams]] is designed to provide new and rich user experience with synthesized responses using Large Language Models \(LLM\) based results summarized in a single response for users to see information in a conversational way, and avoid browsing through carousels.
+Conversational Integration with Microsoft Teams is designed to provide new and rich user experience with synthesized responses using Large Language Models \(LLM\) based results summarized in a single response for users to see information in a conversational way, and avoid browsing through carousels.
 
 With synthesized responses implemented in Microsoft Teams conversations, the user experience is increased in several ways for the response to contain the most relevant items and information, such as:
 
@@ -24,7 +24,7 @@ With synthesized responses implemented in Microsoft Teams conversations, the use
 
 The overall synthesized response helps users experience a conversational flow that understands query intent, searches across records of various types, and summarizes results in a unified, easy-to-consume response.
 
-When you enable the synthesized response picker on Microsoft Teams, users who start a conversation with a [[virtual-agent-landing-page|Virtual Agent]] can view a synthesized response picker in response to a query. The response contains catalog items and topics followed by the citation links. For example, if you input a command `laptop` in your conversations, you’ll see the responses in a synthesized format.
+When you enable the synthesized response picker on Microsoft Teams, users who start a conversation with a Virtual Agent can view a synthesized response picker in response to a query. The response contains catalog items and topics followed by the citation links. For example, if you input a command `laptop` in your conversations, you’ll see the responses in a synthesized format.
 
 \[Omitted image "teams-syntehised-resonse-picker.png"\] Alt text: Search results in Microsoft Teams appearing as a synthesized response.
 
@@ -32,7 +32,3 @@ Mid-topic switching is also possible during a conversation with synthesized resp
 
 **Parent Topic:**[Using Now Assist in Virtual Agent conversations with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/na-va-llm-teams.md)
 
-## Related
-
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -14,14 +14,14 @@ breadcrumb: [ITOM Visibility reference, ITOM Visibility, IT Operations Managemen
 
 # Plugins or applications installed with ITOM Visibility
 
-Tables that list the plugins or applications that are installed with [[itom-visibility-landing-page|ITOM Visibility]] applications. When you update your application, any newly required application dependencies are installed.
+Tables that list the plugins or applications that are installed with ITOM Visibility applications. When you update your application, any newly required application dependencies are installed.
 
 ## Discovery
 
 |Plugin or application name|Description|
 |--------------------------|-----------|
-|Cloud Provisioning and Governance Core \(com.snc.cloud.core\)|Contains resource blocks and cloud Application Programming Interface \(cloud API\) mappings related to Cloud API-based [[r-discovery|discovery]] and events processed by either response mapping or calling patterns.|
-|Service Watch Suite commons \(com.snc.service-watch.commons\)|Contains common UI components for Discovery and [[c_ServiceMappingOverview|Service Mapping]].|
+|Cloud Provisioning and Governance Core \(com.snc.cloud.core\)|Contains resource blocks and cloud Application Programming Interface \(cloud API\) mappings related to Cloud API-based discovery and events processed by either response mapping or calling patterns.|
+|Service Watch Suite commons \(com.snc.service-watch.commons\)|Contains common UI components for Discovery and Service Mapping.|
 |Discovery - IP Based \(com.snc.discovery.ip\_based\)|Contains shared components of horizontal discovery used by Discovery and Service Mapping.|
 
 ## Discovery Admin Workspace
@@ -34,7 +34,7 @@ Tables that list the plugins or applications that are installed with [[itom-visi
 
 |Plugin or application name|Description|
 |--------------------------|-----------|
-|Service Mapping – Map \(com.itom-map-app\)|A dependent internal plugin necessary to support the core components of the Service Mapping, [[c_EM|Event Management]], and [[workspace-dashboard-use|Service Operations Workspace]] ITOM applications.|
+|Service Mapping – Map \(com.itom-map-app\)|A dependent internal plugin necessary to support the core components of the Service Mapping, Event Management, and Service Operations Workspace ITOM applications.|
 |Discovery \(com.snc.discovery\)|Finds applications and devices on your network, and then updates the CMDB with the information it finds.|
 |Event Management and Service Mapping Core \(com.snc.service-watch\)|Comprises the common components of Event Management and Service Mapping.|
 |Cloud Provisioning and Governance Core \(com.snc.cloud.core\)|Contains resource blocks and cloud Application Programming Interface \(cloud API\) mappings related to Cloud API-based discovery and events processed by either response mapping or calling patterns.|
@@ -58,7 +58,7 @@ Tables that list the plugins or applications that are installed with [[itom-visi
 |--------------------------|-----------|
 |Discovery and Service Mapping Patterns \(sn\_itom\_pattern\)|Provides the latest versions of the Discovery and Service Mapping Patterns released on the ServiceNow Store. ServiceNow releases new patterns on the ServiceNow® Store on a monthly basis, enabling your organization to discover the latest industry-standard devices and applications.|
 |Cloud Provisioning and Governance Core \(com.snc.cloud.core\)|Contains resource blocks and cloud Application Programming Interface \(cloud API\) mappings related to Cloud API-based discovery and events processed by either response mapping or calling patterns.|
-|Performance Analytics Content Pack for Cloud Resources \(sn\_disco\_cd\)|Displays the aggregated view of all your Cloud Resources. It also provides analytics tables and views that associate tags with resources, enabling you to build your own custom [[otto-aiops-dashboards|dashboards]] and reports.|
+|Performance Analytics Content Pack for Cloud Resources \(sn\_disco\_cd\)|Displays the aggregated view of all your Cloud Resources. It also provides analytics tables and views that associate tags with resources, enabling you to build your own custom dashboards and reports.|
 |Pattern Designer \(NG version\) \(com.snc.ng.pattern.designer\)|The next generation \(NG\) version of the Pattern Designer that enables you to create, edit, and debug patterns used by horizontal and top-down discovery.|
 
 ## Agent Client Collector for Visibility - Content
@@ -67,7 +67,7 @@ Tables that list the plugins or applications that are installed with [[itom-visi
 |--------------------------|-----------|
 |Agent Client Collector for Visibility - Content Content \(sn\_acc\_vis\_content\)|Provides agent-based infrastructure discovery and collects Software Asset Management \(SAM\) metrics to support Discovery and Digital End-User Experience \(DEX\) applications.|
 |Discovery \(com.snc.discovery\)|Finds applications and devices on your network, and then updates the CMDB with the information it finds.|
-|Agent Client Collector Framework \(sn\_agent\)|Manages [[acc-landing-page|Agent Client Collector]] on the ServiceNow instance and the MID Server.|
+|Agent Client Collector Framework \(sn\_agent\)|Manages Agent Client Collector on the ServiceNow instance and the MID Server.|
 |CMDB CI Class Models \(sn\_cmdb\_ci\_class\)|Adds class models that extend the CMDB class hierarchy, including class descriptions, identification rules, identifier entries, and dependent relationships if applicable. Applications such as Discovery and Service Mapping can use these class extensions to populate configuration items \(CIs\) and discover various technologies and software.|
 
 ## Agent Client Collector for Visibility - Content Content
@@ -86,20 +86,9 @@ Tables that list the plugins or applications that are installed with [[itom-visi
 
 [Plugins or applications installed with ITOM Cloud Accelerate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/plugin-app-cloud-accelerate.md)
 
-[[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
+[Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md)
 
-[[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
+[Plugins activated with ITOM Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-itom-optimization.md)
 
 [Applications installed with Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/app-now-assist-itom.md)
 
-## Related
-
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[acc-landing-page|Agent Client Collector]]

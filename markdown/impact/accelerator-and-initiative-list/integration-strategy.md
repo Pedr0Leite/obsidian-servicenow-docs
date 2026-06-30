@@ -22,7 +22,7 @@ This Accelerator provides guidance on the integration process.
 
 ### Accelerator Overview
 
-Integration Strategy- Advanced provides [[impact-landing-page|Impact]] Customers with leading practices content and advisory guidance on  the  integration  process, including  design considerations, and platform recommended tools as they relate to the ServiceNow Platform.
+Integration Strategy- Advanced provides Impact Customers with leading practices content and advisory guidance on  the  integration  process, including  design considerations, and platform recommended tools as they relate to the ServiceNow Platform.
 
 ### Package Availability
 
@@ -152,7 +152,7 @@ Review data flows for key processes to understand where opportunities could live
 
 </td></tr><tr><td>
 
-Review current and future states to [[io-help|help]] form a strategic direction that prescribes steps to get from here to there
+Review current and future states to help form a strategic direction that prescribes steps to get from here to there
 
 </td></tr><tr><td rowspan="3">
 
@@ -221,7 +221,7 @@ Assess the impact of new release capabilities on an existing integration
 ### Requested Information / Access
 
 -   MID Server architecture documentation \(if applicable\)
--   Customer may be asked to grant the ServiceNow [[impact-squad|Impact Squad]] access to Customer’s instance for the purposes of providing the Impact Accelerator during the period of [[instance-observer-performance|performance]]
+-   Customer may be asked to grant the ServiceNow Impact Squad access to Customer’s instance for the purposes of providing the Impact Accelerator during the period of performance
 -   Platform Information
     -   Platform Implementation Date / Version
     -   Work flows Implemented \(e.g., IT, Customer, Employee\)
@@ -246,9 +246,3 @@ This Accelerator does not include technical troubleshooting of existing integrat
 
 ServiceNow is not responsible for execution or measurement of Customer’s integration strategy.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[impact-squad|Impact Squad]]
-- [[instance-observer-performance|Performance]]

@@ -14,13 +14,13 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 # Creating CIs for Configuration Compliance using the Identification and Reconciliation Engine
 
-Starting with [[vr-config-compliance-landing|Configuration Compliance]] 11.1, you can create configuration items \(CIs\) in the Configuration Management Database \(CMDB\) using the Identification and Reconciliation engine \(IRE\) API. By using the IRE API to create CIs, you can prevent duplicate CIs from being created and you can reconcile CI attributes by allowing only authoritative [[data-sources|data sources]] to write to CMDB.
+Starting with Configuration Compliance 11.1, you can create configuration items \(CIs\) in the Configuration Management Database \(CMDB\) using the Identification and Reconciliation engine \(IRE\) API. By using the IRE API to create CIs, you can prevent duplicate CIs from being created and you can reconcile CI attributes by allowing only authoritative data sources to write to CMDB.
 
 A CI class \(table\) is the original table name in the instance database. CMDB contains base system classes that store data about CIs.
 
 ## Using IRE for CI creation
 
-Prior to version 11.1, if a matched CI was not found either in the [[cj-discovered-items|Discovered Items]] list or CMDB, a CI was created in the Unmatched CI class \(`sn_sec_cmn_unmatched_ci`\).
+Prior to version 11.1, if a matched CI was not found either in the Discovered Items list or CMDB, a CI was created in the Unmatched CI class \(`sn_sec_cmn_unmatched_ci`\).
 
 For more information, see [Reconcile unmatched discovered items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/reapply-reconcile-unmatched-discovered-items-cc.md).
 
@@ -75,8 +75,3 @@ CI is created in this table if any of the following information is available in 
 
 [Identification and Reconciliation engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ire.md)
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[data-sources|Data Sources]]
-- [[cj-discovered-items|Discovered Items]]

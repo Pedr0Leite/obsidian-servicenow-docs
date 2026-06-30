@@ -15,13 +15,13 @@ breadcrumb: [Digital End-User Experience, IT Service Management]
 
 # Agentic AI in DEX
 
-Use the [[dex-landing|Digital End-User Experience]] \(DEX\) agentic workflow to diagnose and resolve issues on DEX monitored [[dex-workspace-devices-tab|devices]].
+Use the Digital End-User Experience \(DEX\) agentic workflow to diagnose and resolve issues on DEX monitored devices.
 
 **Important:**
 
-To access the [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]], make sure that you install the following [[dex-workspace-application-tab|applications]]:
+To access the DEX issue diagnosis and resolution agentic workflow, make sure that you install the following applications:
 
--   [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] \(sn\_itsm\_gen\_ai\) plugin.
+-   Now Assist for IT Service Management \(ITSM\) \(sn\_itsm\_gen\_ai\) plugin.
 -   Digital End-User Experience application. For more information, see [Install Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/install-app-device-health.md) and [Configuring Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/config-dex-console.md).
 
 **Note:**
@@ -40,10 +40,3 @@ The DEX issue diagnosis and resolution agentic workflow uses two AI agents to co
 
 For more information, see [DEX issue diagnosis and resolution agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-dex-diagnosis-resolution-workflow.md).
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[now-assist-itsm-dex-diagnosis-resolution-workflow|DEX issue diagnosis and resolution agentic workflow]]
-- [[dex-workspace-application-tab|Applications]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]

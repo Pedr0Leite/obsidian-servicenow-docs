@@ -14,7 +14,7 @@ breadcrumb: [Digital Portfolio Management, IT Service Management]
 
 # Digital Portfolio Management reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about administering [[dpm-landing|Digital Portfolio Management]] \(DPM\).
+Reference topics provide additional information about administering Digital Portfolio Management \(DPM\).
 
 -   **[Roles for Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-roles.md)**  
 Several types of components are installed with Digital Portfolio Management \(DPM\) when you activate the application from the ServiceNow® ServiceNow Store. DPM has two roles - admin and user.
@@ -25,7 +25,7 @@ Use suggestions and tips for creating and organizing portfolios in DPM.
 -   **[KPI groups installed with Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-kpi-groups-oob.md)**  
 Digital Portfolio Management \(DPM\) enables you to view standard key performance indicator \(KPI\) groups that are included with the base system. You can also configure KPIs with the sn\_dpm.dpm\_admin role.
 -   **[Digital Portfolio Management related applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-related-products.md)**  
-Digital Portfolio Management \(DPM\) enables you to use related [[dex-workspace-application-tab|applications]] to view and edit service details in the plan-build-run life cycle. All related applications are optional, so they aren't required to use the DPM experience.
+Digital Portfolio Management \(DPM\) enables you to use related applications to view and edit service details in the plan-build-run life cycle. All related applications are optional, so they aren't required to use the DPM experience.
 -   **[Process Mining components for Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-po-integration.md)**  
 Admins must install the ITSM Process Mining Content Pack from the ServiceNow® Store to get the insights and system property for Process Mining in Digital Portfolio Management \(DPM\). Use Process Mining to analyze and improve key performance indicator \(KPI\) outputs in DPM.
 -   **[Digital Portfolio Management persona](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-persona.md)**  
@@ -37,8 +37,3 @@ Domain separation is supported in Digital Portfolio Management. Domain separatio
 
 **Parent Topic:**[Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-landing.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

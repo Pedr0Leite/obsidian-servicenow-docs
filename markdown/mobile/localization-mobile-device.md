@@ -20,15 +20,15 @@ ServiceNow mobile applications draw localized texts from multiple sources, which
 
 -   **Native localization**
 
-    Native localization uses the device’s language settings to automatically localize built-in elements such as screen titles and button labels. For more information, see [[localization-native|Native localization]].
+    Native localization uses the device’s language settings to automatically localize built-in elements such as screen titles and button labels. For more information, see [Native localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-native.md).
 
 -   **Server-side localization**
 
-    Server-side localization is controlled in a similar way to desktop web localization, using the server system language or user preference. This option enables you to customize translations for components like field labels and web content. For more information, see [[localization-server-side|Server-side localization]].
+    Server-side localization is controlled in a similar way to desktop web localization, using the server system language or user preference. This option enables you to customize translations for components like field labels and web content. For more information, see [Server-side localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-server-side.md).
 
 -   **Client-side localization**
 
-    Client-side localization uses the device’s UI to localize app-rendered elements such as screens, lists, and buttons. You can include languages beyond those natively supported by the ServiceNow AI Platform base system. For more information, see [[localization-client|Client-side localization]].
+    Client-side localization uses the device’s UI to localize app-rendered elements such as screens, lists, and buttons. You can include languages beyond those natively supported by the ServiceNow AI Platform base system. For more information, see [Client-side localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-client.md).
 
 
 -   **[Native localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-native.md)**  
@@ -38,11 +38,5 @@ Server-side localization works the same way as desktop web localization, using e
 -   **[Client-side localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-client.md)**  
 Add customized client-side translations to extend language support on your mobile device. You can include languages beyond those natively supported by the ServiceNow AI Platform base system.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[localization-native|Native localization]]
-- [[localization-server-side|Server-side localization]]
-- [[localization-client|Client-side localization]]
-- [[imp-considerations|Considerations before implementation]]

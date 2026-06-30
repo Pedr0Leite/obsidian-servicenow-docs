@@ -59,9 +59,9 @@ The on Blueprint provision trigger fires after execution of on Catalog item requ
 
 Approval triggers
 
- -   **on Stack operation \(approval\)**: Triggered during any stack operation on the [[cloudmgt-cloud-user-portal|Cloud User Portal]].
+ -   **on Stack operation \(approval\)**: Triggered during any stack operation on the Cloud User Portal.
 -   **on Stack resource operation \(approval\)**: Triggered during any resource operation \(start, stop, provision, and so on\) on the Cloud User Portal.
--   **on Task [[ccg-remediation|remediation]]**: Triggered when a user resubmits a failed request.
+-   **on Task remediation**: Triggered when a user resubmits a failed request.
 
  Actions:
 
@@ -210,8 +210,3 @@ The on Resource operation trigger fires during the Orchestration process when a 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[ccg-remediation|Remediation]]

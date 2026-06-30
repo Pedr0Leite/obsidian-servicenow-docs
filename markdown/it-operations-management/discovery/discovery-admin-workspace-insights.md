@@ -15,9 +15,9 @@ breadcrumb: [Discovery Admin Workspace, Exploring Discovery, Discovery, ITOM Vis
 
 # Discovery Admin Workspace Insights
 
-The Insights page provides access to specialized widgets, [[otto-aiops-dashboards|dashboards]], and reports to leverage your organization's [[r_ITOMApplications|IT operations management]] and infrastructure monitoring, taking advantage of [[r-discovery|Discovery]]'s capabilities for improved operational visibility and infrastructure health.
+The Insights page provides access to specialized widgets, dashboards, and reports to leverage your organization's IT operations management and infrastructure monitoring, taking advantage of Discovery's capabilities for improved operational visibility and infrastructure health.
 
-To access the Discovery Admin Workspace Insights page, navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Insights**.
+To access the Discovery Admin Workspace Insights page, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Insights**.
 
 ## Information accessed through the Insights page
 
@@ -35,9 +35,3 @@ You can access the following information through the Insights page:
 -   [Virtual Machine Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vm-explorer.md)
 -   [URL Discovery Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/url-disco-insights.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

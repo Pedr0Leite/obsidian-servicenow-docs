@@ -12,7 +12,7 @@ breadcrumb: [Email to case, Email channel, Enable communication channels, Config
 
 # Configure rules for incoming emails that create and assign cases
 
-Create your email-related business processes using Inbound Email Flows. After you receive an email on a specified support email address, you can define [[gamification-components-rules|rules]] to create cases and assign the cases to specific teams.
+Create your email-related business processes using Inbound Email Flows. After you receive an email on a specified support email address, you can define rules to create cases and assign the cases to specific teams.
 
 In previous releases, incoming emails were processed through inbound email actions. Admins created separate email actions to support different business flows using scripts.
 
@@ -20,7 +20,7 @@ In previous releases, incoming emails were processed through inbound email actio
 
 **Note:** The **Email conditions** under the **Inbound Email** trigger are case-sensitive. Review your flow designer conditions and consider lowercase and uppercase options depending on how the sender puts the email address in the headers.
 
-The following example email flows are available by default after you activate the [[c_CustomerServiceManagement|Customer Service Management]] plugin. Enable the email flows for activating the email processing rules to automatically create and update cases.
+The following example email flows are available by default after you activate the Customer Service Management plugin. Enable the email flows for activating the email processing rules to automatically create and update cases.
 
 -   Create case from email
 -   Update case using Reply
@@ -38,13 +38,7 @@ The following example email flows are installed with the platform. These flows a
 **Related topics**  
 
 
-[[define-process-incoming-emails|Define rules to process incoming emails]]
+[Define rules to process incoming emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/define-process-incoming-emails.md)
 
-[[t_ActivateCustomerService|Activate Customer Service Management]]
+[Activate Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md)
 
-## Related
-
-- [[define-process-incoming-emails|Define rules to process incoming emails]]
-- [[t_ActivateCustomerService|Activate Customer Service Management]]
-- [[gamification-components-rules|Rules]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

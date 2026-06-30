@@ -24,11 +24,11 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller and sn\_slm.fulfille
 
 ## About this task
 
-The Email response skill uses [[supplier|supplier]] task details such as task type, short description, description, work notes, [[activity-stream|activity stream]], additional comments, related records, and relevant knowledge base articles to compose an email response. You can also use this skill to elaborate, shorten, or change the tone of your email draft.
+The Email response skill uses supplier task details such as task type, short description, description, work notes, activity stream, additional comments, related records, and relevant knowledge base articles to compose an email response. You can also use this skill to elaborate, shorten, or change the tone of your email draft.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \[Omitted image "cases-list-icon.png"\] Alt text: List icon..
 
@@ -61,9 +61,3 @@ The Email response skill uses [[supplier|supplier]] task details such as task ty
 
 An AI generated email draft is created.
 
-## Related
-
-- [[supplier|Supplier]]
-- [[activity-stream|Activity stream]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

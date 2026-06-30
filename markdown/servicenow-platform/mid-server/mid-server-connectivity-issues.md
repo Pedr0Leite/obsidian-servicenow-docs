@@ -14,9 +14,9 @@ breadcrumb: [Resolving MID Server issues, MID Server reference, MID Server, Mana
 
 # MID Server user connectivity issues
 
-The instance writes issues involving [[mid-server-landing|MID Server]] user logins and network connectivity to the MID Server Issue \[ecc\_agent\_issue\] table and creates events you can use in custom scripts or to send [[email|email]] notifications.
+The instance writes issues involving MID Server user logins and network connectivity to the MID Server Issue \[ecc\_agent\_issue\] table and creates events you can use in custom scripts or to send email notifications.
 
-Records in the MID Server Issue \[ecc\_agent\_issue\] table can provide insight into why your MID Server user cannot log in or why a MID Server cannot [[c_Connect|connect]] to the instance. The system displays records for connectivity problems in this table that include informative error messages suggesting possible causes. By default, a scheduled job called MIDUserConnectivity runs every four hours and launches the MIDUserConnectivity script include to evaluate MID Server connection activity. Records in the MID Server Issue \[ecc\_agent\_issue\] table reflect the status of MID Server login attempts and connectivity at the time the scheduled job runs.
+Records in the MID Server Issue \[ecc\_agent\_issue\] table can provide insight into why your MID Server user cannot log in or why a MID Server cannot connect to the instance. The system displays records for connectivity problems in this table that include informative error messages suggesting possible causes. By default, a scheduled job called MIDUserConnectivity runs every four hours and launches the MIDUserConnectivity script include to evaluate MID Server connection activity. Records in the MID Server Issue \[ecc\_agent\_issue\] table reflect the status of MID Server login attempts and connectivity at the time the scheduled job runs.
 
 From the perspective of the instance, the MID Server is **Down** when:
 
@@ -192,7 +192,7 @@ This message appears in the MID Server Issue \[ecc\_agent\_issue\] table when:
 
 ## Network issues
 
-A network issue can prevent the MID Server from connecting to the instance's TCP/IP server to begin a session. In this case, the instance marks the MID Server as **Down**, because the instance failed to receive the [[r_MIDServerHeartbeat|MID Server heartbeat]] within the prescribed 5 minute interval.
+A network issue can prevent the MID Server from connecting to the instance's TCP/IP server to begin a session. In this case, the instance marks the MID Server as **Down**, because the instance failed to receive the MID Server heartbeat within the prescribed 5 minute interval.
 
 **Users associated with down MID Servers who have not attempted to log in**
 
@@ -307,9 +307,4 @@ Reconfigure the sampling interval using this procedure and then examine the resu
     -   For a detailed view, enter **MIDUserConnectivity\(2\)**.
     For details about the type of debugging information provided, see [Interpreting MID Server user debugging output](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-user-connectivity-debug-output.md).
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[email|Email]]
-- [[c_Connect|Connect]]
-- [[r_MIDServerHeartbeat|MID Server heartbeat]]

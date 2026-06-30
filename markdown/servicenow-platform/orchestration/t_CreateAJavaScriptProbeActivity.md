@@ -14,7 +14,7 @@ breadcrumb: [Orchestration custom activity templates, Orchestration activity des
 
 # Create a JavaScript Probe activity
 
-Create a JavaScript Probe activity to instruct a [[mid-server-landing|MID server]] to execute server-side javascript.
+Create a JavaScript Probe activity to instruct a MID server to execute server-side javascript.
 
 ## Before you begin
 
@@ -76,7 +76,7 @@ MID Server on which the probe runs.
 
 </td></tr><tr><td id="d208917e192">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -167,7 +167,7 @@ mid\_script\_include
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -238,7 +238,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the [[c_MIDServerSelector|MID Server selection]]:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'};
 executionParam.valueCapabilities.push(valueCapability);
 ```
@@ -348,9 +348,4 @@ Name-value pairs to pass to the host with this probe. You can create these param
 
 4.  Click **Continue** to advance to the **Outputs** stage.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[reference|Reference]]
-- [[c_MIDServerSelector|MID Server selection]]

@@ -20,13 +20,13 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-To add a dashboard to a page in UI Builder, create the page from the Dashboards page template, as described in [[add-analytics-center-to-experience|Add Platform Analytics pages to a configurable workspace]]. You can then either populate the dashboard in the inline editor or expose an existing dashboard. The existing dashboard can be either a technical dashboard or one created in the inline editor. You can expose an entire dashboard or only selected tabs.
+To add a dashboard to a page in UI Builder, create the page from the Dashboards page template, as described in [Add Platform Analytics pages to a configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-analytics-center-to-experience.md). You can then either populate the dashboard in the inline editor or expose an existing dashboard. The existing dashboard can be either a technical dashboard or one created in the inline editor. You can expose an entire dashboard or only selected tabs.
 
 ## Procedure
 
 1.  If there is an existing dashboard that you want to show in your experience, add your experience or configurable workspace to the **Dashboard visibility** field in the details of that dashboard.
 
-    Dashboard details are available through the inline editor, even for [[technical-dashboards|technical dashboards]]. For more information, see [[config-db-in-ac|Configure Platform Analytics dashboard details]].
+    Dashboard details are available through the inline editor, even for technical dashboards. For more information, see [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md).
 
     **Note:** Ignore this step if there is no existing dashboard that you want to show.
 
@@ -59,19 +59,19 @@ To add a dashboard to a page in UI Builder, create the page from the Dashboards 
 
     In other words, turn on for full control over what the dashboard renders, regardless of URL parameters. The Copy URL and Copy URL with filter options are not available on such embedded dashboards.
 
-8.  Set the other configuration options as they are described in [[dashboard-component-properties-setup|Dashboard component properties]].
+8.  Set the other configuration options as they are described in [Dashboard component properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-component-properties-setup.md).
 
 
 ## What to do next
 
-You can open the dashboard in runtime and edit it in the inline editor. Any viewer with edit rights can do the same. If the viewer has the rights to save a dashboard to the library, they have the option of saving the dashboard locally or altering the original dashboard in the library in [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+You can open the dashboard in runtime and edit it in the inline editor. Any viewer with edit rights can do the same. If the viewer has the rights to save a dashboard to the library, they have the option of saving the dashboard locally or altering the original dashboard in the library in Platform Analytics.
 
 -   **[Dashboard component properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-component-properties-setup.md)**  
 Disable and enable dashboard component runtime user abilities with these properties.
--   **[[dashboard-component-events-setup|Dashboard component events]]**  
+-   **[Dashboard component events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-component-events-setup.md)**  
 Select event handlers to configure the actions \(events\) provided with the dashboard component.
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
@@ -88,12 +88,3 @@ Select event handlers to configure the actions \(events\) provided with the dash
 
 [Configure dashboard data broker]()
 
-## Related
-
-- [[add-analytics-center-to-experience|Add Platform Analytics pages to a configurable workspace]]
-- [[config-db-in-ac|Configure Platform Analytics dashboard details]]
-- [[dashboard-component-properties-setup|Dashboard component properties]]
-- [[dashboard-component-events-setup|Dashboard component events]]
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[technical-dashboards|Technical dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

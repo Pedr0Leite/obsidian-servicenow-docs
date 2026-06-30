@@ -26,7 +26,7 @@ Role required: release\_v2\_admin
 
 2.  Click the release number for which you want to define the scope.
 
-3.  On the [[create-release-form|Release form]], navigate to one of the following related lists.
+3.  On the Release form, navigate to one of the following related lists.
 
     -   Projects
     -   Scrum Epics
@@ -54,6 +54,3 @@ Role required: release\_v2\_admin
 
 **Parent Topic:**[Using Release Management v2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_Release.md)
 
-## Related
-
-- [[create-release-form|Release form]]

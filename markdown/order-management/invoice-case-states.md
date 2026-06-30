@@ -83,13 +83,10 @@ Cancelled
 The invoice case has been cancelled.**Note:** Only invoice cases in the Draft state can be cancelled.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]
+</table>**Parent Topic:**[Business Portal reference for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-business-portal-reference.md)
 
 **Related topics**  
 
 
 [Invoice case and invoice case line states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/invoice-operations-case-states.md)
 
-## Related
-
-- [[som-business-portal-reference|Business Portal reference for Sales Customer Relationship Management]]

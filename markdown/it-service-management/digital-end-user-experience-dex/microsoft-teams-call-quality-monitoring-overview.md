@@ -32,8 +32,5 @@ DEX advanced monitoring for Microsoft Teams call quality provides the following 
 -   Gain actionable insights through dashboards and reports, enabling IT teams to validate improvements and track organizational communication health.
 -   Reduce help desk tickets related to meeting and calling issues by proactively resolving root causes.
 
-To [[monitor-teams-call-quality|monitor Microsoft Teams call quality]], see [Monitor Microsoft Teams call quality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/monitor-teams-call-quality.md).
+To monitor Microsoft Teams call quality, see [Monitor Microsoft Teams call quality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/monitor-teams-call-quality.md).
 
-## Related
-
-- [[monitor-teams-call-quality|Monitor Microsoft Teams call quality]]

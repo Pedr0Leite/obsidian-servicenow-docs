@@ -18,7 +18,7 @@ Create models to record the types of PPE in your inventory.
 
 ## Before you begin
 
-Ready-to-use models are installed with [[ppe-inventory-management|Workplace PPE Inventory Management]]. Create models for any of your PPE items that don't have an existing model. View all models by navigating to **PPE Inventory Management** &gt; **Models** &gt; **All**.
+Ready-to-use models are installed with Workplace PPE Inventory Management. Create models for any of your PPE items that don't have an existing model. View all models by navigating to **PPE Inventory Management** &gt; **Models** &gt; **All**.
 
 Role required: sn\_imt\_ppe.ppe\_admin
 
@@ -30,7 +30,7 @@ A model represents a specific type of PPE item. For example, use one model to tr
 
 1.  Navigate to **PPE Inventory Management** &gt; **Models** &gt; **Add Model**.
 
-    **Note:** To create a model in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Manage PPE Inventory** &gt; **Add Model**.
+    **Note:** To create a model in the Now Mobile app, navigate to **Health** &gt; **Manage PPE Inventory** &gt; **Add Model**.
 
 2.  On the form, fill in the fields.
 
@@ -52,7 +52,3 @@ A model represents a specific type of PPE item. For example, use one model to tr
 
 **Next topic:**[Add PPE models to Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/add-ppe-service-catalog.md)
 
-## Related
-
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[mobile-employee-experience|Now Mobile app]]

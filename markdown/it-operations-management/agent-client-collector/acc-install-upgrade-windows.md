@@ -14,13 +14,13 @@ breadcrumb: [Install ACC on a Windows machine manually, ACC installation on a Wi
 
 # Upgrade the Agent Client Collector manually on a Windows system
 
-Perform a manual upgrade of your existing [[acc-landing-page|Agent Client Collector]] version on a system running a Windows OS.
+Perform a manual upgrade of your existing Agent Client Collector version on a system running a Windows OS.
 
 ## Before you begin
 
 Backup the Agent Client Collector configuration files, such as `acc.yml`, `check-allow-list.json`, `agent_now_id` and `agent_now_keystore`. The `agent_now_id` is located in the cache directory: `C:\ProgramData\Servicenow\agent-client-collector\cache`
 
-Backing up configuration files is a safety precaution to safeguard the files during the upgrade. Configuration files need to be restored only if there are [[troubleshoot-sm-mid|upgrade issues]] which require new installation.
+Backing up configuration files is a safety precaution to safeguard the files during the upgrade. Configuration files need to be restored only if there are upgrade issues which require new installation.
 
 Enable golden image mode for cloning additional agents by setting the msi property **GOLDEN\_IMAGE=true**.
 
@@ -53,7 +53,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Install the Agent Client Collector on a Windows machine manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-windows.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[troubleshoot-sm-mid|Upgrade issues]]

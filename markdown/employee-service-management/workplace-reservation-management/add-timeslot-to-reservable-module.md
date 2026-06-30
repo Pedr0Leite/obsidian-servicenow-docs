@@ -28,7 +28,7 @@ After you create a time slot, you must assign the time slot to the reservable mo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Module**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module**.
 
 2.  Select the reservable module to which you want to add a time slot.
 
@@ -57,6 +57,3 @@ The time slot is added to the reservable module. When an employee uses the Quick
 
 **Parent Topic:**[Create a quick reservation time slot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-reservable-time-slots.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

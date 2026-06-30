@@ -18,8 +18,5 @@ Administrators create push notifications and users are able to receive them.
 
 For more information on the push notification system including process, configuration, and architecture, see [Push notification system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushMessageArchitecture.md). Administrators can configure push notification delays using [scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md). To view an example included with the base system, navigate to **System Scheduler** &gt; **Scheduled jobs**, then search for a job with the name `Push`. 5 seconds is the minimum time allowed for the push delay.
 
-**Parent Topic:**[[sg-mobile-security|Device security for ServiceNow Mobile apps]]
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 
-## Related
-
-- [[sg-mobile-security|Device security for ServiceNow Mobile apps]]

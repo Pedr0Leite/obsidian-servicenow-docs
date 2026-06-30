@@ -14,7 +14,7 @@ breadcrumb: [Cloud Action Library reference, Cloud Action Library, ITOM Cloud Ac
 
 # Cloud profiles with minimal permissions for Cloud Action Library actions and subflows
 
-You need appropriate cloud permissions to execute the [[cloud-actions-library-landing-page|Cloud Action Library]] actions and subflows. Edit the cloud permissions profile JSON to suit the needs of your organization.
+You need appropriate cloud permissions to execute the Cloud Action Library actions and subflows. Edit the cloud permissions profile JSON to suit the needs of your organization.
 
 ## Amazon Web Services \(AWS\) profile with minimal permissions
 
@@ -71,6 +71,3 @@ You need appropriate cloud permissions to execute the [[cloud-actions-library-la
 
 **Parent Topic:**[Cloud Action Library reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-action-library-reference.md)
 
-## Related
-
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

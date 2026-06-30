@@ -14,7 +14,7 @@ breadcrumb: [Search profiles, Configuring AI Search, AI Search, Search administr
 
 # Stop words
 
-Stop words remove search query terms that don't produce meaningful [[hs-results|results]]. Improve search precision and relevancy by configuring stop word dictionaries and defining stop words.
+Stop words remove search query terms that don't produce meaningful results. Improve search precision and relevancy by configuring stop word dictionaries and defining stop words.
 
 Stop words are common terms that appear on a large proportion of indexed records. Examples of such terms can include articles, conjunctions, personal pronouns, and prepositions. By defining these terms as stop words, you can improve search precision and result relevancy for users.
 
@@ -24,7 +24,7 @@ You can delete stop word dictionaries that aren't linked to any search profiles.
 
 ## Stop word usage in search
 
-When a search query includes a term defined as a stop word, [[ia-ai-search|AI Search]] removes the term from the search query.
+When a search query includes a term defined as a stop word, AI Search removes the term from the search query.
 
 For example, a stop word might remove the term `my` from a search query for `upgrade my laptop`. This modified search query only matches records containing the more relevant terms `upgrade` and `laptop`.
 
@@ -69,7 +69,7 @@ The system only considers stop words from the default \(English\) stop word dict
 
 By default, AI Search ignores stop word terms that exceed 256 characters in length. You can override this default limit by adding the **query.maxDictionaryTermLength** system property. The integer value of this system property indicates the maximum allowable character length for stop word and synonym dictionary terms.
 
-For information on adding a system property, see [[t_AddAPropertyUsingSysPropsList|Add a system property]].
+For information on adding a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 **Warning:** Exercise caution when increasing the dictionary term-length limit beyond its default value. Processing long dictionary terms increases AI Search's memory usage, and in some cases search queries may fail with out-of-memory errors.
 
@@ -130,7 +130,7 @@ Interaction with stop words
 
 </td><td>
 
-If a search query term that matches a Genius Result configuration's Term trigger is defined as a stop word, AI Search evaluates the trigger before removing that stop word from the search query. When computing [[genius-result-q-a-ais|Q&amp;A Genius Results]] for a search query, AI Search ignores stop words in the query.
+If a search query term that matches a Genius Result configuration's Term trigger is defined as a stop word, AI Search evaluates the trigger before removing that stop word from the search query. When computing Q&amp;A Genius Results for a search query, AI Search ignores stop words in the query.
 
 </td></tr><tr><td>
 
@@ -205,9 +205,3 @@ Remove a stop word dictionary that isn't linked from any search profile.
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]

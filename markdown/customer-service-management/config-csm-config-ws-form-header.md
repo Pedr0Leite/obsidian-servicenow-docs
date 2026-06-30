@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Set up a form header in CSM Configurable Workspace
 
-You can create a form header for use in [[csm-workspaces-configure|CSM Configurable Workspace]].
+You can create a form header for use in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 After creating a form header, you must link it to a form header configuration if you want it to appear in CSM Configurable Workspace.
 
-**Note:** You can also use [[migration-form-headers|form headers]] from CSM Agent Workspace in CSM Configurable Workspace if you link the setting to the form header configuration.
+**Note:** You can also use form headers from CSM Agent Workspace in CSM Configurable Workspace if you link the setting to the form header configuration.
 
 One form header configuration **CSM/FSM Configurable Workspace Header Config**, is included with CSM Configurable Workspace. You can use this configuration out of the box without completing any additional configuration steps.
 
@@ -131,7 +131,3 @@ Workspace that is associated with this form header.
 
 [Configure a form header for a workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-ws-form-header.md)
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-form-headers|Form headers]]

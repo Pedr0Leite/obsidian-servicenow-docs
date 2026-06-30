@@ -14,7 +14,7 @@ breadcrumb: [Working with demo data, Configure, MetricBase, Manage instance data
 
 # Get familiar with MetricBase APIs
 
-Experiment with [[metricbase|MetricBase]] APIs using Data Explorer that is part of the MetricBase Demo application. Data Explorer uses the data installed with the MetricBase Demo application.
+Experiment with MetricBase APIs using Data Explorer that is part of the MetricBase Demo application. Data Explorer uses the data installed with the MetricBase Demo application.
 
 ## Before you begin
 
@@ -84,7 +84,7 @@ Simple Transform with Grouping
 
 Uses the transformer API to display a group of time-series metrics, the average altitude of the fleet of the drones: ```
 transformer.groupBy("fleet").metric("mb_demo_mt_altitude").
-      avg().[[label|label]]('avg - %g:fleet:')
+      avg().label('avg - %g:fleet:')
 ```
 
  \[Omitted image "data-explorer-simple-xform-grouping.png"\] Alt text: Grouping transform
@@ -159,7 +159,3 @@ builder.metric(metric).deviation(model, "chiSquare");
 </td></tr></tbody>
 </table>**Parent Topic:**[Working with MetricBase demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/working-with-metricbase-demo-data.md)
 
-## Related
-
-- [[metricbase|MetricBase]]
-- [[label|Label]]

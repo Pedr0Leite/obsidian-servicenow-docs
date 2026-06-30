@@ -55,13 +55,13 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Default value: false
 -   **__glide.email.append.timezone__**
 
-    Appends the user time zone to all date and time values in [[ia-outbound-email-il|outbound email]] messages \(for example, 2018-07-02 04:01:14 PST\). The time zone does not show if the system property **glide.sys.time\_format** does not have a "z" value. For more information on configuring the time zone in email [[notifications|notifications]], see [[c_SpecifyingTheTimeZone|Time zone for email notifications]].
+    Appends the user time zone to all date and time values in outbound email messages \(for example, 2018-07-02 04:01:14 PST\). The time zone does not show if the system property **glide.sys.time\_format** does not have a "z" value. For more information on configuring the time zone in email notifications, see [Time zone for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SpecifyingTheTimeZone.md).
 
     -   Type: true \| false
     -   Default: false
 -   **__glide.email.email\_client.check\_attachment\_availability__**
 
-    Enables a system scan of each file that a user attaches to an email draft in the [[c_EnableTheEmailClient|email client]]. If a file is found to be infected with a virus, the user can't send the email with the attached file. The user must remove the attachment to send the email.
+    Enables a system scan of each file that a user attaches to an email draft in the email client. If a file is found to be infected with a virus, the user can't send the email with the attached file. The user must remove the attachment to send the email.
 
     -   Type: true \| false
     -   Default value: true
@@ -90,7 +90,7 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Default value: true
 -   **__glide.email.inbound.convert\_html\_inline\_attachment\_references__**
 
-    Specifies whether to convert [[ia-inbound-email-il|inbound email]] HTML so email images appear in the email HTML body preview. The system displays broken cid \(content ID\) links in place of images received when this property is disabled. The format in which the system displays an email image depends on the property setting at the time the email is received, not the current property setting.
+    Specifies whether to convert inbound email HTML so email images appear in the email HTML body preview. The system displays broken cid \(content ID\) links in place of images received when this property is disabled. The format in which the system displays an email image depends on the property setting at the time the email is received, not the current property setting.
 
     -   Type: true \| false
     -   Default value: true
@@ -218,7 +218,7 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Default value: 100000
 -   **__glide.email\_system\_address\_filter.max\_address\_filters__**
 
-    Sets the maximum number of [[c_EmailFilters|email filters]] that can be associated with a single system address filter.
+    Sets the maximum number of email filters that can be associated with a single system address filter.
 
     -   Type: integer
     -   Default value: 100
@@ -260,7 +260,7 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Default value: true
 -   **__glide.notification.recipient.exclude\_ logging.user\_calendar\_integration\_disabled__**
 
-    Logs recipients of calendar invitations who are excluded. Recipients are excluded because the **[[r_CalendarIntegration|Calendar Integration]]** field is set to **None** on [[user|the user record]].
+    Logs recipients of calendar invitations who are excluded. Recipients are excluded because the **Calendar Integration** field is set to **None** on the user record.
 
     -   Type: true \| false
     -   Default value: true
@@ -326,13 +326,13 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Default value: true
 -   **__glide.notification.recipient.include\_logging.subscription__**
 
-    Logs recipients because they are subscribed via the user [[preferences-landing|notification preferences]].
+    Logs recipients because they are subscribed via the user notification preferences.
 
     -   Type: true \| false
     -   Default value: true
 -   **__glide.pop3.parse\_start__**
 
-    Specifies the text that indicates the beginning of the email body section. The instance parses name:value pairs within this section to set or update field values when processing [[actions-inbound-email|inbound email actions]].
+    Specifies the text that indicates the beginning of the email body section. The instance parses name:value pairs within this section to set or update field values when processing inbound email actions.
 
     -   Type: string
     -   Default value: none
@@ -408,13 +408,13 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Value: 24
 -   **__glide.email.outbound.static\_translation.enabled__**
 
-    Enables the system property for [[static-translation|static translation]] of notifications for the global application.
+    Enables the system property for static translation of notifications for the global application.
 
     -   Type: true \| false
     -   Default value: true
 -   **__glide.notification.translation.dynamic__**
 
-    Enables the system property for [[dynamic-translation|dynamic translation]] of notifications for the global application.
+    Enables the system property for dynamic translation of notifications for the global application.
 
     -   Type: true \| false
     -   Default value: true
@@ -425,7 +425,7 @@ Add these properties to the System Property \[sys\_properties\] table before the
     -   Type: true \| false
     -   Default value: false
 
-**Parent Topic:**[[c_EmailProperties|Email properties]]
+**Parent Topic:**[Email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailProperties.md)
 
 **Related topics**  
 
@@ -438,18 +438,3 @@ Add these properties to the System Property \[sys\_properties\] table before the
 
 [Email digest properties]()
 
-## Related
-
-- [[c_SpecifyingTheTimeZone|Time zone for email notifications]]
-- [[c_EmailProperties|Email properties]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[notifications|Notifications]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[c_EmailFilters|Email filters]]
-- [[r_CalendarIntegration|Calendar integration]]
-- [[user|The User record]]
-- [[preferences-landing|Notification Preferences]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[static-translation|Static translation]]
-- [[dynamic-translation|Dynamic translation]]

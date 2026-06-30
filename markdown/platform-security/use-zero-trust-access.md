@@ -26,14 +26,14 @@ Enable the **Enable Session Access property**.
 -   Session Access doesn’t support integrations.
 -   Session Access has no impact if the reduced or limited role isn’t assigned to a user. In this case, there are no changes to the logged in session. User will still continue to access the instance with their assigned privileges.
 -   Session Access has no impact while the user is already logged in to the instance and simultaneously the admin configures the policy. The user has to log out from the session for the policy to be effective.
--   Session Access is enforced at the time of login. Any change in risk parameters during the session won’t result in reduced access. For example, a user switching from the corporate network to an untrusted network after establishing the session, won’t result in reduced access unless the user [[logs|logs]] out and logs in again.
+-   Session Access is enforced at the time of login. Any change in risk parameters during the session won’t result in reduced access. For example, a user switching from the corporate network to an untrusted network after establishing the session, won’t result in reduced access unless the user logs out and logs in again.
 -   Session Access \(Zero trust access - ZTA\) feature, roles like `snc_internal` and `snc_external` cannot be removed.
 -   Session Access \(Zero trust access - ZTA\) feature does not remove a role from the `sys_user_has_role` or the user group membership table. Based on the ZTA policy, it establishes the user session with reduced or limited roles.
 -   The scripts running in the system context will not honor the ZTA session roles.
 
 Session Access is a feature that enables the administrators to dynamically reduce or restrict a set of roles to the user, when the user is trying to log in to the instance from different environments such as log in from the untrusted network, log in from a different device, and so on.
 
-Session Access can be controlled by the created policy and selected action when performing the [[sc-configuration|configuration]]. Some of the scenarios are as follows:
+Session Access can be controlled by the created policy and selected action when performing the configuration. Some of the scenarios are as follows:
 
 -   If the Policy is true, and the roles action is set to **Remove Roles**, then the selected roles and its associated child roles are removed for the user when trying to log in to the instance.
 -   If the Policy is true, and the roles action is set to **Limit To Roles**, then only the selected roles and its associated child roles are assigned to the user when trying to log in to the instance.
@@ -62,7 +62,7 @@ The following procedure explains an end-to-end configuration of session access c
 
     3.  Choose the **Policy**.
 
-        You can create the Session Access policy using an [[authentication-policies|authentication policies]] and [[adaptive-auth-filter-criteria|filter criteria]] \(Role, Group, IP, Location\) with policy inputs and conditions.
+        You can create the Session Access policy using an authentication policies and filter criteria \(Role, Group, IP, Location\) with policy inputs and conditions.
 
         Use the policy in the Session Access configuration. For example, you want to limit the role \(knowledge\) to the user logging in outside the Location \(Australia\).
 
@@ -72,7 +72,7 @@ The following procedure explains an end-to-end configuration of session access c
 
     5.  Select **Submit**.
 
-        Similarly, you can choose the group from the Group List to restrict or remove roles for the [[users|users]] within the group.
+        Similarly, you can choose the group from the Group List to restrict or remove roles for the users within the group.
 
     When the user logs to the instance outside Australia, only the **Knowledge** role and its associated child roles are assigned for the logged session and other roles to the user are restricted.
 
@@ -84,10 +84,4 @@ The following procedure explains an end-to-end configuration of session access c
 
     **Note:** The correlation ID is the sys\_id of the corresponding audit record in the session access audit table.
 
-## Related
 
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]
-- [[authentication-policies|Authentication policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[users|Users]]

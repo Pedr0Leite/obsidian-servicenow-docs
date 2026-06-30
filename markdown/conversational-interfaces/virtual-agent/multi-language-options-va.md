@@ -14,7 +14,7 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Localization options for Virtual Agent
 
-The ServiceNow platform provides several methods for serving your international [[virtual-agent-landing-page|Virtual Agent]] users, regardless of their language and locale. Professionally localize your conversations, use dynamic machine translation, or a combination of the two.
+The ServiceNow platform provides several methods for serving your international Virtual Agent users, regardless of their language and locale. Professionally localize your conversations, use dynamic machine translation, or a combination of the two.
 
 ## Direct and dynamic language support
 
@@ -121,7 +121,7 @@ In the following example, French, German, and Spanish are professionally localiz
 
 ## Localization insights
 
-You can view dynamic translation and localization insights from the Virtual Agent Designer page. Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**, and select **Localization Insights**from the list of links in the side panel.
+You can view dynamic translation and localization insights from the Virtual Agent Designer page. Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**, and select **Localization Insights**from the list of links in the side panel.
 
 For more information, see [Localization Insights dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-insights-dashboard.md).
 
@@ -144,12 +144,7 @@ The ServiceNow® platform supports several languages, but you can enable dynamic
 -   **[Specify a fallback language for locale-specific languages and NLU prediction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specify-fallback-language-nlu-prediction.md)**  
 Provide language locale support by specifying a fallback language for Virtual Agent to use for topics, keywords, and NLU prediction. For example, the ServiceNow® platform doesn't support Mexican Spanish \(mx-es\), but it does support Spanish \(es\), which you can designate as the fallback language for a better user experience.
 -   **[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)**  
-The ServiceNow platform provides several methods for [[localize-va-topic|localizing Virtual Agent conversations]], depending on your needs. Use the Localization Framework to manage all aspects of the translation process, whether you are using machine translation, a third-party provider, or both.
+The ServiceNow platform provides several methods for localizing Virtual Agent conversations, depending on your needs. Use the Localization Framework to manage all aspects of the translation process, whether you are using machine translation, a third-party provider, or both.
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[localize-va-topic|Localizing Virtual Agent conversations]]

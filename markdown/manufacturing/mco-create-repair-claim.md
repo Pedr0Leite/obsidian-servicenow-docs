@@ -28,7 +28,7 @@ Role required: Manufacturing operations admin
 
 3.  On the Claims details form, fill in the fields.
 
-    For a description of the field values, see [[mco-claim-details-form|Claim details form]].
+    For a description of the field values, see [Claim details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-claim-details-form.md).
 
 4.  Select **Continue**.
 
@@ -40,7 +40,7 @@ Role required: Manufacturing operations admin
 
 7.  On the Repair claim jobs form, fill in the fields.
 
-    For a description of the field values, see [[repair-claim-form|Repair claim form]].
+    For a description of the field values, see [Repair claim form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-claim-form.md).
 
 8.  Select **Submit**.
 
@@ -49,10 +49,5 @@ Role required: Manufacturing operations admin
 
 The claim job is successfully submitted for review and approval.
 
-**Parent Topic:**[[mco-use-repair-claim|Repair claim]]
+**Parent Topic:**[Repair claim](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-repair-claim.md)
 
-## Related
-
-- [[mco-claim-details-form|Claim details form]]
-- [[repair-claim-form|Repair claim form]]
-- [[mco-use-repair-claim|Repair claim]]

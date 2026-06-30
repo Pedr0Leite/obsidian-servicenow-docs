@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Click**Dispatcher Workspace**.
 
@@ -42,6 +42,3 @@ Role required: wm\_dispatcher
 -   If a task is assigned to a crew, the system updates the estimated travel duration based on the crew's start location or previous start location. The updated value is based on the Manual Assignment property setting used for calculating estimated travel time and distance.
 -   A warning message appears if the assigned task is outside the acceptable radius between the task location and the crew's location.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

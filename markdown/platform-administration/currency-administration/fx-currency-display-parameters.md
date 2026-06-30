@@ -14,7 +14,7 @@ breadcrumb: [FX Currency field behavior, Defaults required for FX Currency use, 
 
 # Identify the FX Currency field and its display parameters
 
-Specify the table, and the field within the table \(for example, cost\), that the FX Currency configuration applies to. Then, select the decimal precision and currency display [[r_DirectJDBCProbeParameters|parameters]] for the field.
+Specify the table, and the field within the table \(for example, cost\), that the FX Currency configuration applies to. Then, select the decimal precision and currency display parameters for the field.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, currency\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[system-localization-landing|System Localization]]** &gt; **FX Currency Configuration**.
+1.  Navigate to **All** &gt; **System Localization** &gt; **FX Currency Configuration**.
 
 2.  Click **New**.
 
@@ -62,7 +62,7 @@ Specific number of digits that should appear after the decimal, with selectable 
 
 
 </td></tr></tbody>
-</table>    **Note:** In a form, [[fx-currency|FX Currency fields]] display the number of digits as entered by the user, up to 12 digits in length.
+</table>    **Note:** In a form, FX Currency fields display the number of digits as entered by the user, up to 12 digits in length.
 
 8.  In the **Display Value Currency** field, select what currency value appears in the designated FX Currency field on forms and lists.
 
@@ -94,7 +94,7 @@ Currency value entered into the designated FX Currency field, converted to the s
 
 </td></tr><tr><td id="d220850e249">
 
-**Display in [[reference-email-admin|Reference]] Currency**
+**Display in Reference Currency**
 
 </td><td>
 
@@ -133,9 +133,3 @@ Currency values, as entered into the designated FX Currency field, converted to 
 
 **Parent Topic:**[Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[system-localization-landing|System Localization]]
-- [[fx-currency|FX Currency fields]]
-- [[reference-email-admin|Reference]]

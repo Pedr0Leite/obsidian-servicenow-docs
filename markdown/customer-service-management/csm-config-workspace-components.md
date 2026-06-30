@@ -12,18 +12,18 @@ breadcrumb: [Record pages and page templates, CSM Configurable Workspace, Organi
 
 # CSM Configurable Workspace components
 
-Content pages in [[csm-workspaces-configure|CSM Configurable Workspace]], such as record pages, are made up of reusable components that display information or enable agents to complete tasks.
+Content pages in CSM Configurable Workspace, such as record pages, are made up of reusable components that display information or enable agents to complete tasks.
 
 ## Action bar
 
 The action bar contains the actions available to agents while working on case records. This includes buttons on the action bar and menu items in the More Actions menu. Each record page contains a set of actions that have been configured for that specific page.
 
-The action bar can also contain action groups which combine multiple actions in the same button. For example, the [[csm-front-line-case-page|Front-line case page]] includes the [[csm-config-ws-action-layout-groups|Create action group]] which displays a drop-down list with the available actions.
+The action bar can also contain action groups which combine multiple actions in the same button. For example, the [Front-line case page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md) includes the [Create action group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-action-layout-groups.md) which displays a drop-down list with the available actions.
 
 Typical actions available in the action bar include:
 
 -   **Create**: Create records such as work orders, incidents, and requests.
--   **Manage case**: Perform [[case-management|case management]] actions such as accepting a case or requesting information.
+-   **Manage case**: Perform case management actions such as accepting a case or requesting information.
 -   **Save**: Save changes to the case record.
 -   **Follow**: Receive notifications when comments or work notes are added to the record. When selected, the button toggles to **Unfollow**.
 -   **More Actions**: Perform additional actions such as proposing a major case or reporting a knowledge gap.
@@ -32,7 +32,7 @@ Typical actions available in the action bar include:
 
 ## Task SLA cards component
 
-The Task SLA cards component displays the status of one or more Service Level Agreements \(SLAs\) for the current record in card format. The Task SLA cards component can display multiple SLAs. The cards are displayed in a carousel with horizontal navigation. If more than one SLA card is present, agents can use arrows to scroll through the cards. For more information, see [[csm-record-page-sla-card-component|Task SLA cards component]].
+The Task SLA cards component displays the status of one or more Service Level Agreements \(SLAs\) for the current record in card format. The Task SLA cards component can display multiple SLAs. The cards are displayed in a carousel with horizontal navigation. If more than one SLA card is present, agents can use arrows to scroll through the cards. For more information, see [Task SLA cards component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-record-page-sla-card-component.md).
 
 ## Task activity timeline controller and preset
 
@@ -42,13 +42,5 @@ The timeline uses icons to display record events and colors to show ranges of ti
 -   Select the **Show details** toggle to display more information.
 -   Hover over the icons to show tool tips.
 
-For more information, see [[csm-record-page-timeline-component|Task activity timeline preset and controller]].
+For more information, see [Task activity timeline preset and controller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-record-page-timeline-component.md).
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-config-ws-action-layout-groups|Create action layout group]]
-- [[csm-record-page-sla-card-component|Task SLA cards component]]
-- [[csm-record-page-timeline-component|Task activity timeline preset and controller]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-management|Case management]]

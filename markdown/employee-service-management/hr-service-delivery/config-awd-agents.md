@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Advanced Integration with Workday, I
 
 # Configure HCM AI agents for HR Service Delivery Advanced Integration with Workday
 
-Configure [[conversational-agents|HCM AI agents]] to enable employees to place requests to the Workday system using the [[hr-service-delivery|HR Service Delivery]] AI agent collection.
+Configure HCM AI agents to enable employees to place requests to the Workday system using the HR Service Delivery AI agent collection.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 ## Procedure
 
-1.  Install the [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin \(sn\_hr\_gen\_ai\).
+1.  Install the Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\).
 
     For more information, see [Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md).
 
@@ -32,7 +32,7 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 3.  Configure the [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) to pull data from Workday system.
 
-4.  Create [[flows-ukg|subflows]] aligning with Template Integration Gateway.
+4.  Create subflows aligning with Template Integration Gateway.
 
     For more information, see [Create a subflow using Template Integration Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-gateway.md).
 
@@ -48,9 +48,4 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
     **Note:** In the Toggle display section, ensure the toggle beside Virtual Agent is enabled.
 
-## Related
 
-- [[conversational-agents|HCM AI agents]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[flows-ukg|Subflows]]

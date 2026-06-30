@@ -14,7 +14,7 @@ breadcrumb: [Desired State, CMDB Compliance, Configuration Management Database \
 
 # Desired State reporting
 
-The [[c_DesiredState|Desired State]] application includes reports to assess your audit results.
+The Desired State application includes reports to assess your audit results.
 
 These reports are available to all users whose role gives them access to the [Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting-landing-page.md) application. Users with the admin role can share these reports with specific users of groups or change the display options.
 
@@ -127,7 +127,3 @@ Follow On Task
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DesiredState|Desired State]]

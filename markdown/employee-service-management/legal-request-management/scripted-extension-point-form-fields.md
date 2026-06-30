@@ -87,11 +87,8 @@ Client callable
 
 </td><td>
 
-Options to make the scripted extension point available to client scripts, list/report filters, [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] qualifiers, or, if specified, as part of the URL.
+Options to make the scripted extension point available to client scripts, list/report filters, reference qualifiers, or, if specified, as part of the URL.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Create implementation in Scripted Extension Point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-scripted-extension-point.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

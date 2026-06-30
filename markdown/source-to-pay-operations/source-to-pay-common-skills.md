@@ -14,11 +14,11 @@ breadcrumb: [Now Assist, Source-to-Pay Operations, Finance and Supply Chain]
 
 Now Assist skills support Source-to-Pay workflows \(APO, SPO and SLO\) with AI-powered email generation, sentiment analysis for case prioritization, and natural language data exploration and reporting.
 
-**Note:** The common Now Assist skills are applicable to [[psm-overview|Sourcing and Procurement Operations]], [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] and [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+**Note:** The common Now Assist skills are applicable to Sourcing and Procurement Operations, Supplier Lifecycle Operations and Accounts Payable Operations.
 
-The common Now Assist skills available in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] are:
+The common Now Assist skills available in the Source-to-Pay Workspace are:
 
--   Email response generation-This skill uses generative AI to automatically draft professional, context-aware email responses for [[supplier|supplier]] inquiries, procurement communications, and AP case management across Source-to-Pay workflows, reducing manual effort and improving response consistency. Email generation for Source-to-Pay workflows are available as:
+-   Email response generation-This skill uses generative AI to automatically draft professional, context-aware email responses for supplier inquiries, procurement communications, and AP case management across Source-to-Pay workflows, reducing manual effort and improving response consistency. Email generation for Source-to-Pay workflows are available as:
     -   [Generate email responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/email-response-na-spo.md) in Sourcing and Procurement Operations
     -   [Generate an email response for supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/generate-email-response-for-supplier-case.md) in Supplier Lifecycle Operations
     -   [Generate an email response for supplier tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/generate-email-response-for-supplier-tasks.md) in Supplier Lifecycle Operations
@@ -28,15 +28,7 @@ The common Now Assist skills available in the [[purch-order-mgmt-ws|Source-to-Pa
     -   [Analyze sentiment in procurement cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/analyze-sentiments-na-spo.md)
     -   [Analyze sentiments in supplier cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-analyze-sentiments.md)
     -   [Analyze sentiments in invoice cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/analyze-sentiments-in-invoice-case.md)
--   AI Data Explorer-The AI Data Explorer for Source-to-Pay supports AI-driven prompt understanding, recommended queries, and drill-down capabilities within a unified interface. It enables business users to generate reports, visualizations, and KPIs using natural language queries without relying on technical expertise or predefined dashboards. Through a conversational interface, users can ask questions in plain English and receive interactive charts and summaries in real time. Explore AI is integrated within the Source-to-Pay tables and use cases, ensuring accurate, context-aware insights across procurement, supplier and accounts payable workflows. For more information on the data explorer, see [Use AI to explore data with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer.md) and [[using-ai-data-explorer-in-source-to-pay|Using AI Data Explorer in Source-to-Pay Operations]].
+-   AI Data Explorer-The AI Data Explorer for Source-to-Pay supports AI-driven prompt understanding, recommended queries, and drill-down capabilities within a unified interface. It enables business users to generate reports, visualizations, and KPIs using natural language queries without relying on technical expertise or predefined dashboards. Through a conversational interface, users can ask questions in plain English and receive interactive charts and summaries in real time. Explore AI is integrated within the Source-to-Pay tables and use cases, ensuring accurate, context-aware insights across procurement, supplier and accounts payable workflows. For more information on the data explorer, see [Use AI to explore data with AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer.md) and [Using AI Data Explorer in Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/using-ai-data-explorer-in-source-to-pay.md).
 
 You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
 
-## Related
-
-- [[using-ai-data-explorer-in-source-to-pay|Using AI Data Explorer in Source-to-Pay Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

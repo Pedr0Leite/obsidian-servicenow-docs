@@ -30,12 +30,12 @@ If it is later determined that it was a mistake to dismiss the signal or update 
 
 ## Other use topics
 
--   **[[reset-baseline-dismiss-signal|Reset baseline or dismiss signal]]**  
+-   **[Reset baseline or dismiss signal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reset-baseline-dismiss-signal.md)**  
 When you get a signal that abnormal variation has occurred, either dismiss the signal or recalculate the parameters.
--   **[[revert-reset-dismissal|Revert baseline reset or signal dismissal]]**  
+-   **[Revert baseline reset or signal dismissal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/revert-reset-dismissal.md)**  
 Review previous decisions to reset the KPI Signals baseline or dismiss a signal. Revert the decision if necessary.
 
-**Parent Topic:**[[process-behavior-charts-for-kpis|KPI Signals]]
+**Parent Topic:**[KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md)
 
 **Related topics**  
 
@@ -46,8 +46,3 @@ Review previous decisions to reset the KPI Signals baseline or dismiss a signal.
 
 [KPI Signals roles]()
 
-## Related
-
-- [[reset-baseline-dismiss-signal|Reset baseline or dismiss signal]]
-- [[revert-reset-dismissal|Revert baseline reset or signal dismissal]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]

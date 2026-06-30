@@ -14,7 +14,7 @@ breadcrumb: [Configure Employee Center Pro Kiosk, Employee Center Pro Kiosk, Emp
 
 # Schedule in Employee Center Pro Kiosk
 
-The schedule details in [[deskless-kiosk-overview|Employee Center Pro Kiosk]] is a one-stop destination to check the shift scheduling details for the deskless workers.
+The schedule details in Employee Center Pro Kiosk is a one-stop destination to check the shift scheduling details for the deskless workers.
 
 Employee Center Pro Kiosk provides a centralized access to the deskless workers on their everyday activities at work.
 
@@ -53,12 +53,7 @@ The display title of the **Schedule** tab is customizable. For more information,
 -   **[Customize data display in Kiosks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-implementation-kiosk.md)**  
 Create implementations to customize the display of data in the **Schedule** and **Time off** tabs based on your location or any other criterion according to your organizational requirement.
 -   **[Customize the schedule widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/widget-mapping-kiosk.md)**  
-[[widget-mapping-kiosk|Customize the schedule widget]] on the [[emp-slate-employee-profile|Employee Profile]] to display it to your preference.
+Customize the schedule widget on the Employee Profile to display it to your preference.
 
 **Parent Topic:**[Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[widget-mapping-kiosk|Customize the schedule widget]]
-- [[emp-slate-employee-profile|Employee profile]]

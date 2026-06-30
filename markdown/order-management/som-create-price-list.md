@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Create and publish a price list
 
-Create a price list that defines the pricing for products and services in [[order-mgt-overview|Sales Customer Relationship Management]].
+Create a price list that defines the pricing for products and services in Sales Customer Relationship Management.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can create various types of price lists for your organization, such as price
 
 3.  Select **New**.
 
-4.  In the Details tab, fill in the [[fields|fields]].
+4.  In the Details tab, fill in the fields.
 
 <table id="table_customer_order_form"><thead><tr><th>
 
@@ -94,7 +94,7 @@ Sales agreement
 
 </td><td>
 
-If you're using the [[sales-agreement-mgmt|Sales Agreement Management]] application and a sales agreement was created by an agent, the unique system-assigned number that identifies the sales agreement associated with this price list.
+If you're using the Sales Agreement Management application and a sales agreement was created by an agent, the unique system-assigned number that identifies the sales agreement associated with this price list.
 
 </td></tr><tr><td>
 
@@ -144,11 +144,5 @@ Ending date and time of the price list. Select the Calendar icon \[Omitted image
 
 ## What to do next
 
-[[som-create-price-list-line|Create a price list line]] for the price list.
+[Create a price list line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-price-list-line.md) for the price list.
 
-## Related
-
-- [[som-create-price-list-line|Create a price list line]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]

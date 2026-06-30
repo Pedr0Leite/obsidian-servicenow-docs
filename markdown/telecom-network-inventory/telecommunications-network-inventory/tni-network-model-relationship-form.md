@@ -52,7 +52,7 @@ Relationship between an equipment model and a slot model. This relationship indi
 
 **Note:**
 
-    -   The **Parent product model** field shows a list of all the equipment models related to the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+    -   The **Parent product model** field shows a list of all the equipment models related to the Telecommunications Network Inventory application.
     -   The **Child product model** field shows only the slot models.
 -   **Equipment to Network interface**
 
@@ -260,6 +260,3 @@ Bandwidth of the child product model.**Note:** This attribute is only visible fo
 
 [Define a network model relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage unused resources, Using Cloud Cost Management, Cloud Cost Ma
 
 # Configure Unused resources operations
 
-The [[um-cloudin|Unused resources]] feature recommends termination or power-off for resources that are wasting money because they aren’t being used. Configure Unused resources processes and specify the potential savings that trigger notifications.
+The Unused resources feature recommends termination or power-off for resources that are wasting money because they aren’t being used. Configure Unused resources processes and specify the potential savings that trigger notifications.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 ## About this task
 
-**Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. [[cloud-insights-landing-page|Cloud Cost Management]] doesn't generate the recommendations.
+**Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. Cloud Cost Management doesn't generate the recommendations.
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
 
 2.  Select **Settings**.
 
@@ -151,8 +151,3 @@ This field appears only when the **Advanced** check box is selected.
 
 [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md)
 
-## Related
-
-- [[um-cloudin|Unused resources]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

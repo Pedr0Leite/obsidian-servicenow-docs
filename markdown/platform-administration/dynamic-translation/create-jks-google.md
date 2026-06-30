@@ -72,7 +72,7 @@ Encrypt the security certificates obtained from Google by creating a Java KeySto
 
 4.  Specify an export password or source keystore password.
 
-    **Note:** You should specify this password when creating a JWT key for [[google-translator-spoke|Google Cloud Translator Service spoke]].
+    **Note:** You should specify this password when creating a JWT key for Google Cloud Translator Service spoke.
 
 5.  Use the keytool command to create a JKS file from the PKCS 12 file.
 
@@ -93,6 +93,3 @@ Encrypt the security certificates obtained from Google by creating a Java KeySto
 
 **Next topic:**[Attach a Java KeyStore certificate to Google Cloud Translator Service spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/attach-jks-google-translator.md)
 
-## Related
-
-- [[google-translator-spoke|Google Cloud Translator Service Spoke]]

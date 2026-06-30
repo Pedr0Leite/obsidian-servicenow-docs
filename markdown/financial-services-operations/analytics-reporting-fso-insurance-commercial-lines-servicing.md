@@ -16,11 +16,7 @@ Commercial Lines Servicing contains preconfigured dashboards with actionable dat
 
 Use the Performance Analytics widgets on a dashboard to visualize data over time, analyze your business processes, and identify areas of improvement.
 
-The [[commercial-lines-servicing-dashboard|Commercial Lines Servicing dashboard]] is available for Commercial Lines Servicing.
+The [Commercial Lines Servicing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/commercial-lines-servicing-dashboard.md) is available for Commercial Lines Servicing.
 
-**Parent Topic:**[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
+**Parent Topic:**[Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-commercial-policy-ops-landing-page.md)
 
-## Related
-
-- [[commercial-lines-servicing-dashboard|Commercial Lines Servicing dashboard]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]

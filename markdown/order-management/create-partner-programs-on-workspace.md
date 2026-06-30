@@ -26,26 +26,19 @@ Role required: sn\_prm.enterprise\_partner\_admin
 
 3.  Open a partner program from the list and select **New**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
-    To learn more about the fields on the Partner Program form, see [[partner-program-table-fields|Partner program table fields]].
+    To learn more about the fields on the Partner Program form, see [Partner program table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-program-table-fields.md).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[[partner-workspace|Partner Workspace]]
+**Parent Topic:**[Partner Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-workspace.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[partner-program-table-fields|Partner program table fields]]
-- [[partner-workspace|Partner Workspace]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

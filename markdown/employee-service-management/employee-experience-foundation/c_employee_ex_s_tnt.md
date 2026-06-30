@@ -14,10 +14,10 @@ breadcrumb: [Setup for integrating self-configured apps, Setup the Servicenow in
 
 # Setup for integrating self-configured apps with Microsoft Teams for Employee Experience
 
-Set up self-configured apps to integrate with IT, HR, and [[ur-landing-limitedaccess|Universal Request]] through Microsoft Teams. Employees can interact with the agents from within Microsoft Teams to resolve their issues.
+Set up self-configured apps to integrate with IT, HR, and Universal Request through Microsoft Teams. Employees can interact with the agents from within Microsoft Teams to resolve their issues.
 
 -   **[Create Microsoft Azure application and authenticate users to access Employee Center in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authenticate-users-your-hub-ms-teams.md)**  
-Create a Microsoft Azure application in the Microsoft Azure portal to enable agents to start and import the chat conversations, and assign permissions to users to view the [[employee-center|Employee Center dashboard]] in the Microsoft Teams application.
+Create a Microsoft Azure application in the Microsoft Azure portal to enable agents to start and import the chat conversations, and assign permissions to users to view the Employee Center dashboard in the Microsoft Teams application.
 -   **[Create and download the manifest file for self-configured apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file-st.md)**  
 Create and download the ServiceNow for Microsoft Teams manifest file from your instance to enable Microsoft Teams to use the ServiceNow for Teams app.
 -   **[Upload manifest file in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/upload-manifest-ms-teams-st.md)**  
@@ -25,7 +25,7 @@ Upload the manifest file in Microsoft Teams to integrate Microsoft Teams with yo
 -   **[Update the app ID in the ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-app-id-instance-st.md)**  
 Update the ServiceNow for Teams app ID from the Microsoft Teams admin center in your ServiceNow instance.
 -   **[Disable the Now Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/disable-now-virtual-agent-ms-teams-st.md)**  
-[[disable-now-virtual-agent-ms-teams-st|Disable the Now Virtual Agent]] app to avoid duplicate notifications from Microsoft Teams when you install and integrate ServiceNow for Microsoft Teams with your ServiceNow instance.
+Disable the Now Virtual Agent app to avoid duplicate notifications from Microsoft Teams when you install and integrate ServiceNow for Microsoft Teams with your ServiceNow instance.
 -   **[Translate the Microsoft Teams manifest file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/localize-manifest-file-st.md)**  
 ServiceNow for Microsoft Teams supports localization to multiple languages, using UTF-8 for international characters.
 -   **[Working on campaigns in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-campaigns-ms-teams.md)**  
@@ -35,13 +35,7 @@ Create a Microsoft Azure application in Microsoft Azure portal to enable agents 
 -   **[Request-based chat access for a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/guest-user-chat-access-st.md)**  
 Request-based self-configured app chat access enables a guest user to start and import chats in a single ServiceNow® for Microsoft Teams instance.
 -   **[User Presence Indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/user-presence-indicator.md)**  
-[[user-presence-indicator-mt|User presence indicator]] helps the agents to know the status of the users in Microsoft Teams before the agent can initiate a chat using Microsoft Teams.
+User presence indicator helps the agents to know the status of the users in Microsoft Teams before the agent can initiate a chat using Microsoft Teams.
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-single-tenant.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[employee-center|Employee Center dashboard]]
-- [[disable-now-virtual-agent-ms-teams-st|Disable the Now Virtual Agent]]
-- [[user-presence-indicator-mt|User Presence Indicator]]

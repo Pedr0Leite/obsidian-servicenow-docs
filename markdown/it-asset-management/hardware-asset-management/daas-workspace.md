@@ -14,11 +14,11 @@ breadcrumb: [Hardware Asset Workspace, Explore, Hardware Asset Management, IT As
 
 # DaaS provider view
 
-The DaaS provider view in the [[using-ham-workspace|Hardware Asset Workspace]] is an intuitive interface of the [[exploring-daas|Device as a Service]] application to manage the assets of the customers of DaaS providers.
+The DaaS provider view in the Hardware Asset Workspace is an intuitive interface of the Device as a Service application to manage the assets of the customers of DaaS providers.
 
 **Note:** You must activate the following plugins to access the DaaS provider view:
 
--   [[ham-landing-page|Hardware Asset Management]] application \(sn\_hamp\)
+-   Hardware Asset Management application \(sn\_hamp\)
 -   Hardware Asset Workspace \(sn\_itam\_workspace\)
 -   Hardware Asset Management for Device as a Service \(com.sn\_daas\_ham\)
 
@@ -157,9 +157,3 @@ Number of assets that are eligible for refresh, which have surpassed the refresh
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[exploring-daas|Device as a Service]]
-- [[ham-landing-page|Hardware Asset Management]]

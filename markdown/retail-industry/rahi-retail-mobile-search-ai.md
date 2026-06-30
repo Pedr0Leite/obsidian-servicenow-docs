@@ -12,7 +12,7 @@ breadcrumb: [Fulfill In-store operations cases and tasks in Retail Mobile, Manag
 
 # Search for assigned cases and tasks using AI Search in Retail Mobile
 
-Use the Search function in [[rahi-retail-operations-overview|Retail]] Mobile to find cases or tasks based on relevant keywords or descriptions.
+Use the Search function in Retail Mobile to find cases or tasks based on relevant keywords or descriptions.
 
 ## Before you begin
 
@@ -29,9 +29,5 @@ Role required: sn\_rtl\_instore\_ops.manager or sn\_rtl\_instore\_ops.associate
 3.  Select a matching store case as task as needed.
 
 
-**Parent Topic:**[[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-in-store-ops-mobile.md)
 
-## Related
-
-- [[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
-- [[rahi-retail-operations-overview|Retail]]

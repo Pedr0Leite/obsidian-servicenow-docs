@@ -16,7 +16,7 @@ breadcrumb: [Utility workflow activities, Workflow activities reference, Workflo
 
 The **Branch** activity splits the workflow into multiple transition paths from a single activity.
 
-To add a transition path, drag the **Branch** activity onto the canvas. When the Branch activity [[properties-form-survey-designer|properties form]] displays, click **Submit** to add the activity to the canvas. Once the activity is on the canvas, right click in the activity body, then click **Add Condition**.
+To add a transition path, drag the **Branch** activity onto the canvas. When the Branch activity properties form displays, click **Submit** to add the activity to the canvas. Once the activity is on the canvas, right click in the activity body, then click **Add Condition**.
 
 All transitions from this activity execute concurrently. This activity provides a single **Always** condition. You can draw any number of transitions from this condition. Using this activity is equivalent to drawing multiple transitions from a single condition of another activity.
 
@@ -24,6 +24,3 @@ Branching can affect the behavior of rollback activities. See [Rollback To activ
 
 **Parent Topic:**[Utility workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_UtilityActivities.md)
 
-## Related
-
-- [[properties-form-survey-designer|Properties form]]

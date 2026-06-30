@@ -14,11 +14,11 @@ breadcrumb: [Playbook intake component, Configure web components, Web Embeddable
 
 # Embed the Playbook intake component instance on the third-party website
 
-Embed the global code and component code of the [[we-playbook-intake-comp-overview|Playbook intake component]] instance that you configured so that you can enable your customers to start creating a case using the playbook guided experience on your third-party website.
+Embed the global code and component code of the Playbook intake component instance that you configured so that you can enable your customers to start creating a case using the playbook guided experience on your third-party website.
 
 ## Before you begin
 
-You must [[config-playbook-intake-comp|configure the Playbook intake component instance]]. For information, see [Configure the Playbook intake component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md).
+You must configure the Playbook intake component instance. For information, see [Configure the Playbook intake component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-playbook-intake-comp.md).
 
 Role required: None
 
@@ -37,7 +37,3 @@ Role required: None
 
 The Playbook intake component instance appears on your third-party website.
 
-## Related
-
-- [[we-playbook-intake-comp-overview|Playbook intake component]]
-- [[config-playbook-intake-comp|Configure the Playbook intake component instance]]

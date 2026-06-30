@@ -12,8 +12,5 @@ breadcrumb: [Mastercard, Integrate, Financial Services Operations \(FSO\)]
 
 # Financial Services Operations Integration with Mastercard reference
 
-Reference topics provide additional information on the installed components, including plugins,subflows, and system properties, that you use to configure and administer [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]] application.
+Reference topics provide additional information on the installed components, including plugins,subflows, and system properties, that you use to configure and administer Financial Services Operations Integration with Mastercard application.
 
-## Related
-
-- [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]]

@@ -16,7 +16,7 @@ To aid in performance evaluation, the Stats Tools records statistics for system 
 
 **Note:** The Stats Tools plugin is activated by default. It requires the admin role to activate or upgrade, and it requires the com.snc.jrobin.
 
-Stats Tools adds modules under **[[sys-diag|System Diagnostics]]** &gt; **Stats**, including **Slow Queries**, **Slow Scripts**, and **Slow Transactions**. Each module accesses a table of activity patterns \[sys\_query\_pattern\], \[sys\_script\_pattern\], \[sys\_transaction\_pattern\]. Each pattern table represents a collection of unique activities. Each collection is an aggregation of executions of that unique activity over all time. Each record provides basic timing analysis with example identifiable details of the activity.
+Stats Tools adds modules under **System Diagnostics** &gt; **Stats**, including **Slow Queries**, **Slow Scripts**, and **Slow Transactions**. Each module accesses a table of activity patterns \[sys\_query\_pattern\], \[sys\_script\_pattern\], \[sys\_transaction\_pattern\]. Each pattern table represents a collection of unique activities. Each collection is an aggregation of executions of that unique activity over all time. Each record provides basic timing analysis with example identifiable details of the activity.
 
 **Note:** To aid in debugging, you can filter most of these logs by application scope, limiting the transactions \(for example, slow scripts or events\) to only those transactions originating in specific scopes.
 
@@ -29,7 +29,7 @@ Activity patterns are immediately recorded to a cache and are later persisted to
 
 ## Metrics
 
-[[c_MetricDefinitionSupport|Metrics]] include total and average times of interest per unique execution pattern over the total execution count. Metrics are aggregated with each new instance of the unique activity and persisted to the pattern record.
+Metrics include total and average times of interest per unique execution pattern over the total execution count. Metrics are aggregated with each new instance of the unique activity and persisted to the pattern record.
 
 ## Metadata
 
@@ -79,8 +79,3 @@ Any query activity includes prepared statements executed by GlideDBI.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sys-diag|System Diagnostics]]
-- [[c_MetricDefinitionSupport|Metrics]]

@@ -23,7 +23,7 @@ The Post incident review consists of the following sections:
 1.  Assessments
 2.  Reports
 
-From the [[sir-workspace-landing-page|Security Incident Response workspace]], you will be able to request and take assessments using these new two UI actions.
+From the Security Incident Response workspace, you will be able to request and take assessments using these new two UI actions.
 
 <table id="table_vxk_t2x_x5b"><thead><tr><th>
 
@@ -85,6 +85,3 @@ Modify the runtime configurations and generate the report. Select the Report ins
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

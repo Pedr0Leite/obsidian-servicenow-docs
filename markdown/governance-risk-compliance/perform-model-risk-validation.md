@@ -31,13 +31,13 @@ You can perform the listed activities in any sequence.
 
 ## Procedure
 
-1.  To perform model validation from the GRC tasks page, navigate to **All** &gt; **Self-Service** &gt; **[[employee-center|Employee Center]]** and do the following:
+1.  To perform model validation from the GRC tasks page, navigate to **All** &gt; **Self-Service** &gt; **Employee Center** and do the following:
 
     1.  Under My active items, select **GRC tasks**.
 
     2.  Select the model validation from the My to-dos card.
 
-2.  To perform model validation from the [[model-risk-workspace|Model Risk Workspace]], navigate to **All** &gt; **Model Risk Workspace** and do the following:
+2.  To perform model validation from the Model Risk Workspace, navigate to **All** &gt; **Model Risk Workspace** and do the following:
 
     1.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -53,11 +53,11 @@ You can perform the listed activities in any sequence.
 
 4.  To send an evidence collection request, select **Create Request**.
 
-    For more information, see [[request-evidence-for-model|Request evidence for model]].
+    For more information, see [Request evidence for model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md).
 
 5.  In the Validation Checklist stage, select **Open** to perform the validation.
 
-6.  Respond to all the [[factors|factors]] or questions listed in the validation task.
+6.  Respond to all the factors or questions listed in the validation task.
 
 7.  Select **Submit**.
 
@@ -77,20 +77,12 @@ You can perform the listed activities in any sequence.
 The model validation task is submitted for approval. If no approvers are configured, the task is marked as completed.
 
 -   **[Request evidence for model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md)**  
-Send evidence collection request for all the required documents to complete the model validation. [[evidence-request|Evidence request]] helps validators to electronically request the information that they need from the model owner to perform model validation.
+Send evidence collection request for all the required documents to complete the model validation. Evidence request helps validators to electronically request the information that they need from the model owner to perform model validation.
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
 **Related topics**  
 
 
 [Request evidence for model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-evidence-for-model.md)
 
-## Related
-
-- [[request-evidence-for-model|Request evidence for model]]
-- [[using-mrm|Using Model Risk Management]]
-- [[employee-center|employee center]]
-- [[model-risk-workspace|Model Risk Workspace]]
-- [[factors|factors]]
-- [[evidence-request|Evidence request]]

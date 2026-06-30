@@ -14,7 +14,7 @@ breadcrumb: [Connect administration, Connect, ServiceNow AI Platform Additional 
 
 # Administer Connect actions
 
-You can create or modify [[c_Connect|Connect]] actions to provide custom functionality in [[c_Collaboration|Connect Chat]] or [[c_ConnectSupport|Connect Support]] conversations.
+You can create or modify Connect actions to provide custom functionality in Connect Chat or Connect Support conversations.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Condition
 
 </td><td>
 
-JavaScript condition statement that must return true for the action to be available in a conversation. For example, to show the action in Connect Support conversations only, enter `conversation.type === "support"` or `conversation.table === 'chat_queue_entry'`.For information about the conversation object, see the [GlideConversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideConversationAPI.md) API [[reference|reference]] documentation.
+JavaScript condition statement that must return true for the action to be available in a conversation. For example, to show the action in Connect Support conversations only, enter `conversation.type === "support"` or `conversation.table === 'chat_queue_entry'`.For information about the conversation object, see the [GlideConversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideConversationAPI.md) API reference documentation.
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ Text that appears in the Connect action menu. The title for each Connect action 
 
 \[Omitted image "ConnectActionsForm.png"\] Alt text: Connect Actions form with the condition conversation.table === 'chat\_queue\_entry'
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[reference|Reference]]

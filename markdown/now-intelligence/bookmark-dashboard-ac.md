@@ -21,7 +21,7 @@ Role required: Any, if the user has access to the dashboard
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Select the dashboard that you want to bookmark.
 
@@ -36,7 +36,7 @@ In the **Dashboards** overview, the selected dashboard appears in the Bookmarked
 
 To remove a bookmark, choose the bookmarked dashboard and select **Remove bookmark** from the More actions menu \(\[Omitted image "icon-vert-3dot-p.png"\] Alt text: More actions menu icon\).
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -57,7 +57,3 @@ To remove a bookmark, choose the bookmarked dashboard and select **Remove bookma
 
 [Delete a Platform Analytics dashboard]()
 
-## Related
-
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

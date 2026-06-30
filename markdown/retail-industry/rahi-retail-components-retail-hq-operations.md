@@ -12,7 +12,7 @@ breadcrumb: [Components installed with plugins, Reference, Retail]
 
 # Components installed with Retail HQ Operations
 
-Certain roles and dependencies must be considered when using the [[rahi-retail-operations-overview|Retail]] HQ Operations plugin.
+Certain roles and dependencies must be considered when using the Retail HQ Operations plugin.
 
 ## Plugins installed with Retail HQ Operations
 
@@ -66,7 +66,7 @@ sn\_rtl\_hq\_ops.agent
 
 </td><td>
 
-Create, update, and resolve [[rahi-retail-retail-hq-operations|HQ communications case]].
+Create, update, and resolve HQ communications case.
 
 </td><td>
 
@@ -128,10 +128,5 @@ Create, update, and track questionnaire and store plan.
 -   sn\_task\_plan.creator
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-hq-operations|HQ communications case]]

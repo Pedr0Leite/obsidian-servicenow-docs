@@ -12,7 +12,7 @@ breadcrumb: [Create a mobile analytics preview, Mobile dashboard preview, Launch
 
 # Data visualization fields available for display in mobile
 
-Mobile data visualizations show data relevant for mobile device display. Create the data visualizations within the Analytics Center of the ServiceNow platform. All settings and configurations that are available for display in the [[mobile-config-navigation|mobile platform]] are listed in this topic.
+Mobile data visualizations show data relevant for mobile device display. Create the data visualizations within the Analytics Center of the ServiceNow platform. All settings and configurations that are available for display in the mobile platform are listed in this topic.
 
 ## Settings and configurations available for single score
 
@@ -93,6 +93,3 @@ Mobile data visualizations show data relevant for mobile device display. Create 
 |Set color type - Color palette|
 |Set color type - Fixed element color|
 
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]

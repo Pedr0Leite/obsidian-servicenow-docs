@@ -13,7 +13,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Email reply linking for closed interactions
 
-When a customer replies to an email associated with a closed interaction, [[email-as-an-interaction|Email Interaction]] automatically links the reply to the correct open case or interaction without creating a duplicate interaction or requiring agent intervention.
+When a customer replies to an email associated with a closed interaction, Email Interaction automatically links the reply to the correct open case or interaction without creating a duplicate interaction or requiring agent intervention.
 
 The closed interaction is not reopened as part of this process.
 
@@ -26,7 +26,7 @@ When the system receives an inbound email that references a closed interaction, 
 3.  If multiple open cases are associated with the closed interaction, the system uses an AI skill to match the reply to the most relevant case. The skill evaluates each case's short description, comments, and the latest five emails, and applies keyword matching. The skill returns the case with the highest confidence score.
 4.  If the highest confidence score is 85% or above, the reply is linked to the matched case. If all scores are below 85%, or the AI skill is not active, the reply is linked to the most recently opened case.
 
-    **Note:** The Contextual Email Matching skill must be activated for AI-based case matching to work. For activation steps, see [[activate-contextual-email-matching-csm|Activate contextual email matching for CSM]].
+    **Note:** The Contextual Email Matching skill must be activated for AI-based case matching to work. For activation steps, see [Activate contextual email matching for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-contextual-email-matching-csm.md).
 
 5.  If no open interactions or cases exist, the system creates an interaction and stores a reference to the original closed interaction.
 
@@ -40,25 +40,16 @@ The system uses watermarks and reference IDs embedded in outbound email threads 
 
 ## Agent notification
 
-When a reply is linked to an open case, the agent assigned to that case receives a notification via the bell icon in the [[csm-workspaces-configure|CSM Configurable Workspace]]. Notifications are sent regardless of which valid open state the case is in. The reply appears in the case [[csm-config-ws-activity-stream|activity stream]].
+When a reply is linked to an open case, the agent assigned to that case receives a notification via the bell icon in the CSM Configurable Workspace. Notifications are sent regardless of which valid open state the case is in. The reply appears in the case activity stream.
 
-For a complete list of routing scenarios and system actions, see [[eaai-email-reply-linking-scenarios|Email reply linking scenarios for closed interactions]].
+For a complete list of routing scenarios and system actions, see [Email reply linking scenarios for closed interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/eaai-email-reply-linking-scenarios.md).
 
 **Related topics**  
 
 
 [Email reply linking scenarios for closed interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/eaai-email-reply-linking-scenarios.md)
 
-[[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]]
+[Using Email Interaction for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-email-interaction-customer-service-management.md)
 
-[[system-properties-for-configuring-email-as-an-interaction|System properties for configuring Email Interaction]]
+[System properties for configuring Email Interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/system-properties-for-configuring-email-as-an-interaction.md)
 
-## Related
-
-- [[activate-contextual-email-matching-csm|Activate contextual email matching for CSM]]
-- [[eaai-email-reply-linking-scenarios|Email reply linking scenarios for closed interactions]]
-- [[using-email-interaction-customer-service-management|Using Email Interaction for Customer Service Management]]
-- [[system-properties-for-configuring-email-as-an-interaction|System properties for configuring Email Interaction]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]

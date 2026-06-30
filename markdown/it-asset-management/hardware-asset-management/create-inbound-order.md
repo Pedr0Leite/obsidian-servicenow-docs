@@ -20,7 +20,7 @@ Create an inbound asset order to associate a customer request to an asset order.
 
 Role required: sn\_daas\_ham.daas\_asset\_manager
 
--   Install the [[ham-landing-page|Hardware Asset Management]] for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+-   Install the Hardware Asset Management for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 -   Install the Hardware Asset Management application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ## About this task
@@ -29,7 +29,7 @@ For an inbound asset order to be considered complete, all its inbound asset orde
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **DaaS provider** view.
 
@@ -116,7 +116,3 @@ Estimated delivery date of the asset that's being sent to the specified delivery
 
 [Create an inbound asset order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-inbound-order-line.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

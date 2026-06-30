@@ -14,11 +14,11 @@ breadcrumb: [Cloud Action Library, ITOM Cloud Accelerate, IT Operations Manageme
 
 # Exploring Cloud Action Library
 
-Understand the typical [[cloud-actions-library-landing-page|Cloud Action Library]] workflows and high-level tasks.
+Understand the typical Cloud Action Library workflows and high-level tasks.
 
 To use the Cloud Action Library actions and workflows to interact with the cloud resources, perform the following tasks:
 
-1.  [[install-cloud-actions-library|Install Cloud Action Library]]. For more information, see [Install Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-cloud-actions-library.md).
+1.  Install Cloud Action Library. For more information, see [Install Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-cloud-actions-library.md).
 2.  To use Cloud Action Library for interactions with Amazon Web Services \(AWS\) resources, see [Set up Cloud Action Library for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-cloud-action-library-for-aws.md).
 3.  To use Cloud Action Library for interactions with Microsoft Azure resources, see [Set up Cloud Action Library for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-cloud-action-library-for-azure.md).
 
@@ -27,7 +27,7 @@ See [Plugins or applications installed with ITOM Cloud Accelerate](https://raw.g
 -   **[Install Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/install-cloud-actions-library.md)**  
 You can install the Cloud Action Library application \(sn.itom.cal\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Set up Cloud Action Library for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-cloud-action-library-for-aws.md)**  
-Set up access to the Amazon Web Services \(AWS\) [[cloud-accounts|cloud accounts]] in Cloud Action Library to enable interaction between the application and the cloud.
+Set up access to the Amazon Web Services \(AWS\) cloud accounts in Cloud Action Library to enable interaction between the application and the cloud.
 -   **[Set up Cloud Action Library for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/set-up-cloud-action-library-for-azure.md)**  
 Set up access to the Microsoft Azure cloud accounts in Cloud Action Library to enable interaction between the application and the cloud.
 -   **[Domain separation and Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/domain-separation-and-cloud-action-library.md)**  
@@ -35,8 +35,3 @@ Set up access to the Microsoft Azure cloud accounts in Cloud Action Library to e
 
 **Parent Topic:**[Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-actions-library-landing-page.md)
 
-## Related
-
-- [[cloud-actions-library-landing-page|Cloud Action Library]]
-- [[install-cloud-actions-library|Install Cloud Action Library]]
-- [[cloud-accounts|Cloud accounts]]

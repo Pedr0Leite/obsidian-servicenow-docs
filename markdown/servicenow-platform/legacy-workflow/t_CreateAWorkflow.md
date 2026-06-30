@@ -14,7 +14,7 @@ breadcrumb: [Workflow management, Classic Workflow, ServiceNow AI Platform Addit
 
 # Create a workflow
 
-Automate a multi-step process by creating a workflow with the [[workflow-editor|Workflow Editor]].
+Automate a multi-step process by creating a workflow with the Workflow Editor.
 
 ## Before you begin
 
@@ -73,7 +73,7 @@ In the properties of a workflow, you can configure settings such as its applicat
 -   **[Create a workflow from a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflowFromATable.md)**  
 Automate a multi-step process by creating a workflow from the list view of any table that supports workflows.
 -   **[Create a workflow for a new service catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CrtWkflwNewSvcCtlgItm.md)**  
-When you create a new [[service-catalog|service catalog]] item, you can create a new corresponding workflow at the same time.
+When you create a new service catalog item, you can create a new corresponding workflow at the same time.
 -   **[Create a workflow for an SLA Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflowFromSLADefinition.md)**  
 Automate a multi-step process by creating a workflow from an SLA definition.
 -   **[Ending workflows with multiple branches](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_EndingWorkflowsMultipleBranches.md)**  
@@ -81,7 +81,3 @@ A workflow is complete when it reaches the **End** activity, even if there are s
 
 **Parent Topic:**[Workflow management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/managing-workflows.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[service-catalog|Service Catalog]]

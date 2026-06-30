@@ -14,7 +14,7 @@ breadcrumb: [Completing work orders on the web interface, Use, Field Service Man
 
 # Contractor Portal
 
-Use Field Service Contractor Portal to [[manage-work-order-tasks-dw|manage work order tasks]].
+Use Field Service Contractor Portal to manage work order tasks.
 
 Field Service Contractor Portal enables managers and field service agents of contractor companies to manage and work on the assigned work order tasks.
 
@@ -25,11 +25,7 @@ If you have activated the Service Portal User Criteria Support plugin and set it
 **Related topics**  
 
 
-[[contractor-dashboard|Contractor dashboard]]
+[Contractor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/contractor-dashboard.md)
 
 [Configuring contractor capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-contractor-capabilities.md)
 
-## Related
-
-- [[contractor-dashboard|Contractor dashboard]]
-- [[manage-work-order-tasks-dw|Manage work order tasks]]

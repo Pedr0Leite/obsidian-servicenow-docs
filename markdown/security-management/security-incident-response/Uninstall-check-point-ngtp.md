@@ -14,10 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Uninstall the Check Point NGTP integration
 
-If you want to [[paloalto-unistall|uninstall]] Check Point NGTP Integration from your ServiceNow AI Platform instance and remove all remnants from the integration, refer to the ServiceNow documentation site for instructions on uninstalling applications.
+If you want to uninstall Check Point NGTP Integration from your ServiceNow AI Platform instance and remove all remnants from the integration, refer to the ServiceNow documentation site for instructions on uninstalling applications.
 
 Role required: admin
 
-## Related
-
-- [[paloalto-unistall|Uninstall]]

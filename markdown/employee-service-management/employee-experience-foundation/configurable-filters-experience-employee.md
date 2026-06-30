@@ -14,7 +14,7 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 # Configurable task filters
 
-Enable the employee to use filters, filter groups, and categories to easily filter, [[discover-lxp|discover]], and fulfill the tasks in a few clicks.
+Enable the employee to use filters, filter groups, and categories to easily filter, discover, and fulfill the tasks in a few clicks.
 
 Filters help employees and managers with better visibility into the time-sensitive and business-critical tasks. Admins empower employees to search, filter, and narrow-down the desired tasks. Enable employees to select these filters and display the records that qualify the selected filter condition.
 
@@ -33,10 +33,5 @@ Employees can use these filters and conditions for [Task filters on My tasks](ht
 
 **Note:** The filter framework is extensible. You can customize your own filters to suit your business needs.
 
-When redirected from [[manager-hub-overview|Manager Hub]] to the **My tasks** page, managers can have better visibility into the [[jny-team-tasks|team tasks]] or approvals with additional options to organize. The respective Manager Hub filters are pre-applied.
+When redirected from Manager Hub to the **My tasks** page, managers can have better visibility into the team tasks or approvals with additional options to organize. The respective Manager Hub filters are pre-applied.
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[manager-hub-overview|Manager Hub]]
-- [[jny-team-tasks|Team tasks]]

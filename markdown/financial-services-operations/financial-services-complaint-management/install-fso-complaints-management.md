@@ -14,7 +14,7 @@ breadcrumb: [Complaint Management, Common applications, Financial Services Opera
 
 # Install Financial Services Complaint Management
 
-You can install the [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] application \(sn\_bom\_compl\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Financial Services Complaint Management application \(sn\_bom\_compl\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -53,6 +53,4 @@ For more information, see [Components installed with Financial Services Complain
 
 5.  Select **Install**.
 
-## Related
 
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]

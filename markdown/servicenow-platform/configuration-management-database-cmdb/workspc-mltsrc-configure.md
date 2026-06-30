@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360 experience in a workspace, CMDB 360, Configuration Managem
 
 # Configure the CMDB 360 dashboard in CMDB Workspaceor in Service Graph Workspace
 
-Configure [[multisource-cmdb|CMDB 360]] settings to determine how your CMDB 360 data is analyzed and aggregated. These settings affect the data that appears on the cards and the records shown when you drill down on those cards in the CMDB 360 dashboard in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]].
+Configure CMDB 360 settings to determine how your CMDB 360 data is analyzed and aggregated. These settings affect the data that appears on the cards and the records shown when you drill down on those cards in the CMDB 360 dashboard in CMDB Workspaceor in Service Graph Workspace.
 
 ## About this task
 
@@ -170,7 +170,4 @@ Prioritized classes for which you are most interested in seeing CMDB 360 data in
 
 7.  Select **Save**.
 
-## Related
 
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]

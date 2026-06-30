@@ -14,7 +14,7 @@ breadcrumb: [Configuring goals in Strategic Planning, Configure, Portfolio Plann
 
 # Set display limit for goals and targets in Strategic Planning
 
-Update system property value to set the display limit for goals on the Goals page in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Update system property value to set the display limit for goals on the Goals page in Strategic Planning.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ The default display limit for goals on the Goals page is 250.
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

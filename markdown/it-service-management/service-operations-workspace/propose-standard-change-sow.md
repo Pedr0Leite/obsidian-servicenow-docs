@@ -22,11 +22,11 @@ Role required: itil,admin, change\_manager, sn\_change\_write
 
 ## About this task
 
-As an IT technician, you can [[propose-standard-chg-template|propose a standard change template]] for a change request that you frequently create. This new template is sent for approval to the [[c_ITILChangeManagement|Change Management]] team, which reviews the proposal and approves the template as part of the approval process.
+As an IT technician, you can propose a standard change template for a change request that you frequently create. This new template is sent for approval to the Change Management team, which reviews the proposal and approves the template as part of the approval process.
 
 ## Procedure
 
-1.  Create a new change request to open the [[c_StandardChangeCatalogPlugin|standard change catalog]].
+1.  Create a new change request to open the standard change catalog.
 
 2.  From the **More Actions** icon \(\[Omitted image "vertical-more-action.png"\] Alt text: More actions icon\), select **Propose a new template**.
 
@@ -45,8 +45,3 @@ The proposal for a new standard change template is created with the status **In 
 
 **Parent Topic:**[Standard change catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/standard-change-catalog-sow.md)
 
-## Related
-
-- [[propose-standard-chg-template|Propose a standard change template]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]

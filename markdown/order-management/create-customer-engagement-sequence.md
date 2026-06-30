@@ -12,15 +12,15 @@ breadcrumb: [Customer Engagement Sequences, Lead and opportunity apps, Use, Sale
 
 # Create a customer engagement sequence
 
-Drive personalized outreach by creating [[explore-customer-engagement-sequences|customer engagement sequences]] that automate timely, relevant interactions that are ideal for nurturing leads, onboarding clients, or re-engaging inactive customers.
+Drive personalized outreach by creating customer engagement sequences that automate timely, relevant interactions that are ideal for nurturing leads, onboarding clients, or re-engaging inactive customers.
 
 ## Before you begin
 
-Check whether features you need to access are supported by reviewing the table in [[compatibility-matrix-upgrade-info|Compatibility information for Customer Engagement Sequences]].
+Check whether features you need to access are supported by reviewing the table in [Compatibility information for Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/compatibility-matrix-upgrade-info.md).
 
 Your instance must be integrated with platforms such as Amazon Connect.
 
-Delegated developer roles should be assigned to designated users. For more information, see [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]].
+Delegated developer roles should be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 You should be familiar with using Workflow Studio and Playbook Experience.
 
@@ -68,7 +68,7 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
 8.  Define trigger conditions that initiate a sequence.
 
-    For more information, see [[define-trigger-conditions|Define trigger conditions]].
+    For more information, see [Define trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-trigger-conditions.md).
 
 9.  Change the priority with which a sequence task is created by navigating to the **Automation** tab of the Start sequence activity properties under the Setup stage.
 
@@ -80,11 +80,11 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
     Use this stage to configure activities you want to make available to the sales representative as guided sequence steps during runtime. For more information, see [Add and configure an activity in a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/add-configure-activity.md).
 
-    You can add any number of activities to this stage in your sequence. For example, for telesales workflows, you might want to add a schedule call activity. For more information, see [[add-schedule-call-activity|Add a schedule call activity to a telesales workflow sequence]].
+    You can add any number of activities to this stage in your sequence. For example, for telesales workflows, you might want to add a schedule call activity. For more information, see [Add a schedule call activity to a telesales workflow sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-schedule-call-activity.md).
 
 11. Add decision nodes to activate the next stage in the playbook based on the outcome of the previous stage.
 
-    For more information, see [[add-decision-nodes-sequences|Add decision nodes to a sequence]].
+    For more information, see [Add decision nodes to a sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-decision-nodes-sequences.md).
 
 12. Add a stage for the new branch you created and repeat the steps to add more activities as needed, including the schedule call activity as needed.
 
@@ -92,7 +92,7 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
 13. Update the sequence task record by selecting the **Customer Engagement Sequences** &gt; **Update sequence task** activity from the activity picker.
 
-    You can also use the Update sequence task activity to exit early from the sequence. For more information, see [[add-update-sequence-task-activity|Add the Update sequence task activity to a sequence]].
+    You can also use the Update sequence task activity to exit early from the sequence. For more information, see [Add the Update sequence task activity to a sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-update-sequence-task-activity.md).
 
 14. Review the configuration in the Tear Down stage.
 
@@ -109,7 +109,7 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
 ## What to do next
 
-[[configure-runtime-permission-sequence-playbooks|Assign runtime permissions while creating sequences]].
+[Assign runtime permissions while creating sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-runtime-permission-sequence-playbooks.md).
 
 -   **[Define trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-trigger-conditions.md)**  
 Define trigger conditions that start a sequence by configuring simple triggers, or combining multiple triggers for initiating workflows from multiple record-based events.
@@ -120,9 +120,9 @@ Activate the next stage in the playbook based on the outcome of the previous sta
 -   **[Add the Update sequence task activity to a sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-update-sequence-task-activity.md)**  
 Dynamically update the sequence task records based on predefined configuration using the Update sequence task activity while designing customer engagement sequences.
 -   **[Assign runtime permissions while creating sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-runtime-permission-sequence-playbooks.md)**  
-Use permission [[cpq-sets|sets]] to control access to sequence records such as sequence tasks and steps.
+Use permission sets to control access to sequence records such as sequence tasks and steps.
 
-**Parent Topic:**[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+**Parent Topic:**[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
 **Related topics**  
 
@@ -135,15 +135,3 @@ Use permission [[cpq-sets|sets]] to control access to sequence records such as s
 
 [Enabling playbook restart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/restart.md)
 
-## Related
-
-- [[compatibility-matrix-upgrade-info|Compatibility information for Customer Engagement Sequences]]
-- [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]]
-- [[define-trigger-conditions|Define trigger conditions]]
-- [[add-schedule-call-activity|Add a schedule call activity to a telesales workflow sequence]]
-- [[add-decision-nodes-sequences|Add decision nodes to a sequence]]
-- [[add-update-sequence-task-activity|Add the Update sequence task activity to a sequence]]
-- [[configure-runtime-permission-sequence-playbooks|Assign runtime permissions while creating sequences]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[cpq-sets|Sets]]

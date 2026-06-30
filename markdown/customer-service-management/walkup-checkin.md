@@ -32,8 +32,6 @@ Role required: sn\_customerservice.consumer or sn\_customerservice.unified\_cons
 
 3.  Schedule an appointment.
 
-    For details, see [[csm-walkup-checkin-online|Schedule appointments or join a queue from the Self Service portals]].
+    For details, see [Schedule appointments or join a queue from the Self Service portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-checkin-online.md).
 
-## Related
 
-- [[csm-walkup-checkin-online|Schedule appointments or join a queue from the Self Service portals]]

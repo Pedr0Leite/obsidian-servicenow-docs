@@ -14,7 +14,7 @@ breadcrumb: [Treasury Operations, Banking applications, Financial Services Opera
 
 # Using Financial Services Treasury Operations
 
-Learn how contributors and agents use the [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] application to initiate, research, and resolve the treasury cases.
+Learn how contributors and agents use the Financial Services Treasury Operations application to initiate, research, and resolve the treasury cases.
 
 ## Workspace
 
@@ -24,7 +24,7 @@ Contributors and back-office agents use personalized Workspace to work on all as
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Treasury admin
 
 </td><td>
 
-Configures the treasury workspace as per business requirements. For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the treasury workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Automated workflows
@@ -91,7 +91,7 @@ Using the case playbook, treasury contributor and agents review and work on thei
 
 Performance Analytics give business owners an insight into how the team and business is performing. A dashboard with pre-configured reports and customizable views is available with the application.
 
-For more information, see [[fso-treasury-ops-dashboard|Treasury Operations dashboard]].
+For more information, see [Treasury Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-treasury-ops-dashboard.md).
 
 -   **[Financial Services Treasury Operations workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/fso-treasury-ops-workflow.md)**  
 The Financial Services Treasury Operations application installs automated workflows that can be configured for any treasury service. These workflows create cases and route tasks to the treasury and document agents.
@@ -104,14 +104,7 @@ Work on a treasury case to collect applicant information, ensure that any outsta
 -   **[Work on a document task to generate agreement documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/work-document-task-treasury-ops.md)**  
 Work on a document task to generate customer agreement documents that are required to activate the treasury product.
 -   **[Work on a treasury task for due diligence or fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/work-fso-treasury-task.md)**  
-Work on a treasury task to [[perform-due-diligence|perform due diligence]] or fulfillment activities for the parent treasury service case.
+Work on a treasury task to perform due diligence or fulfillment activities for the parent treasury service case.
 
 **Parent Topic:**[Financial Services Treasury Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/fso-treasury-ops-landing-page.md)
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[fso-treasury-ops-dashboard|Treasury Operations dashboard]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[perform-due-diligence|Perform Due Diligence]]

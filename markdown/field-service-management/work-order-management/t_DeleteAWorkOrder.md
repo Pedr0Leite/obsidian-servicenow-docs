@@ -30,12 +30,10 @@ Deleting a work order automatically deletes associated work order tasks, so agen
 
 2.  Click the work order.
 
-    If work order tasks have [[c_PartRequirements|part requirements]] with transfer orders, the work order tasks won't be deleted. Before deleting the work order, delete transfer orders attached to work order tasks.
+    If work order tasks have part requirements with transfer orders, the work order tasks won't be deleted. Before deleting the work order, delete transfer orders attached to work order tasks.
 
 3.  Click **Delete**.
 
 4.  Confirm the action when prompted.
 
-## Related
 
-- [[c_PartRequirements|Part requirements]]

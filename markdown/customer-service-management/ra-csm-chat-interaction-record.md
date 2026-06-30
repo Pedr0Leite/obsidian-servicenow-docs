@@ -12,11 +12,11 @@ breadcrumb: [Recommended Actions for Service, Recommended Actions configuration,
 
 # Recommended Actions in the chat interaction record
 
-The [[configure-nba|Recommended Actions]] feature is available by default in the contextual side panel for chat interaction records.
+The Recommended Actions feature is available by default in the contextual side panel for chat interaction records.
 
 This feature appears as the first tab in the contextual side panel and is available for interactions of type chat.
 
-The Recommended Actions feature is enabled by default for new \(zboot\) customers. This feature replaces [[migration-agent-assist|Agent Assist]], which is disabled from the contextual side panel.
+The Recommended Actions feature is enabled by default for new \(zboot\) customers. This feature replaces Agent Assist, which is disabled from the contextual side panel.
 
 The Recommended Actions feature includes two tabs:
 
@@ -40,13 +40,7 @@ Existing customers that want to disable Agent Assist in the contextual side pane
 
 ## Recommended Actions component contextSysId property
 
-The Recommended Actions \(RA\) component includes the contextSysId property, which determines the [[gamification-components-rules|rules]] and data sources that are evaluated to provide recommendations and search results. This property is automatically set to the default context for case records and displays accurate recommendations and search results on the [[csm-front-line-case-page|Front-line case page]].
+The Recommended Actions \(RA\) component includes the contextSysId property, which determines the rules and data sources that are evaluated to provide recommendations and search results. This property is automatically set to the default context for case records and displays accurate recommendations and search results on the Front-line case page.
 
 This change to the contextSysId property only applies to new customer instances where the Recommended Actions component is added to the Front-line case page. Existing customers are not impacted.
 
-## Related
-
-- [[configure-nba|Recommended Actions]]
-- [[migration-agent-assist|Agent assist]]
-- [[gamification-components-rules|Rules]]
-- [[csm-front-line-case-page|Front-line case page]]

@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management process flow, Exploring Certif
 
 # Post-discovery phase
 
-Following the [[r-discovery|discovery]] phase, the system manages TLS certificates, offering flexibility for both manual and automated request options, catering to various certificate-related tasks and processes.
+Following the discovery phase, the system manages TLS certificates, offering flexibility for both manual and automated request options, catering to various certificate-related tasks and processes.
 
 The TLS certificate chains, signed by the certificate authority and root, populate the Unique Certificate \[cmdb\_ci\_certificate\] and Installed Certificate \[sn\_disco\_certmgmt\_cmdb\_installed\_certificate\] tables. Subsequently, a scheduled job reviews the Unique Certificate table for expiring and expired certificates, initiating the creation and assignment of certificate tasks and incidents.
 
@@ -27,13 +27,9 @@ To optimize system performance, a table cleaner automatically removes old certif
 -   Discovered Certificate \[sn\_disco\_certmgmt\_certificate\_history\] table: older than 30 days
 -   Installed Certificate \[sn\_disco\_certmgmt\_cmdb\_installed\_certificate\] table: older than 90 days
 
-**Note:** You can toggle various behaviors related to [[cert-inventory-mgmt|Certificate Inventory and Management]] depending on your needs, using specific certificate properties as shown in [Discovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md) and [System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+**Note:** You can toggle various behaviors related to Certificate Inventory and Management depending on your needs, using specific certificate properties as shown in [Discovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryProperties.md) and [System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
 The system scans for certificates expired or archived for more than six months. If a replacement certificate exists, the system removes outstanding tasks for these obsolete certificates.
 
 The same six-month grace period applies for expired and archived certificates and certificate tasks in the **failed** state.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

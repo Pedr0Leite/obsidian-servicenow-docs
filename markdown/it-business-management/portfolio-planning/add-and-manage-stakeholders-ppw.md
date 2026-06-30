@@ -28,7 +28,7 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -64,6 +64,3 @@ A demand can have multiple stakeholders and a stakeholder can be associated with
 
 [Create stakeholder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-stakeholder-form-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

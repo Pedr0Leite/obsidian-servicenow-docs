@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Assign a legal request
 
-[[assign-legal-request-1|Assign a legal request]] to yourself or to someone in your assignment group.
+Assign a legal request to yourself or to someone in your assignment group.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ When an employee submits a legal request, it is automatically assigned to a grou
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -52,7 +52,3 @@ The state of the request updates to Assigned.
 
 The assigned user can start [working on the legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md).
 
-## Related
-
-- [[assign-legal-request-1|Assign a legal request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

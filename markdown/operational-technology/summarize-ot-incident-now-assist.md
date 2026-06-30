@@ -12,7 +12,7 @@ breadcrumb: [Use, Now Assist for OTSM, Operational Technology]
 
 # Summarize an Operational Technology incident by using Now Assist for Operational Technology Service Management \(OTSM\)
 
-Quickly understand the Operational Technology \(OT\) incident context and respond to a user's inquiries by using the OT incident summarization skill in the [[now-assist-for-operational-technology-service-management|Now Assist for Operational Technology Service Management \(OTSM\)]] application.
+Quickly understand the Operational Technology \(OT\) incident context and respond to a user's inquiries by using the OT incident summarization skill in the Now Assist for Operational Technology Service Management \(OTSM\) application.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ An OT incident summary provides you with a concise summary of an incident. The s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the Industrial Workspace list view.
 
@@ -99,13 +99,7 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[operational-technology-overview|Operational Technology]]
+**Parent Topic:**[Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-overview.md)
 
-**Parent Topic:**[[using-now-assist-otsm|Using Now Assist for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[Using Now Assist for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-now-assist-otsm.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[using-now-assist-otsm|Using Now Assist for Operational Technology Service Management \(OTSM\)]]
-- [[now-assist-for-operational-technology-service-management|Now Assist for Operational Technology Service Management \(OTSM\)]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -28,7 +28,7 @@ Create a time slot for reservation. You can specify the order of appearance of t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Time Slots**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Time Slots**.
 
 2.  Click **New**.
 
@@ -102,6 +102,3 @@ After you create a time slot, assign the time slot to a reservable module that i
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

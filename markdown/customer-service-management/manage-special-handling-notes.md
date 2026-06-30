@@ -14,19 +14,12 @@ breadcrumb: [Agent management, Use, Customer Service Management]
 
 Get critical information about specific customers and empower agents in delivering personalized and efficient service with special handling notes.
 
-Use the Special Handling Notes application to generate notes that highlight crucial information about individual records, like case or account records, ensuring users are well informed. For more info, see [[c_OnScreenAlerts|Special handling notes]]
+Use the Special Handling Notes application to generate notes that highlight crucial information about individual records, like case or account records, ensuring users are well informed. For more info, see [Special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OnScreenAlerts.md)
 
 | | |
 |---|---|
-|[[t_CreateAnOnScreenAlert|Create a special handling note]]|Create a special handling note for a record, such as a customer service case.|
-|[[t_UpdateAnOnScreenAlert|Update a special handling note]]|Update a special handling note for a record.|
-|[[t_DeleteAnOnScreenAlert|Delete a special handling note]]|Delete a special handling note for a record.|
-|[[t_DeleteAnOnScreenAlertFromForm|Delete a special handling note from a form]]|Delete a special handling note for a record from the Special Handling Notes list on the form.|
+|[Create a special handling note](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAnOnScreenAlert.md)|Create a special handling note for a record, such as a customer service case.|
+|[Update a special handling note](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_UpdateAnOnScreenAlert.md)|Update a special handling note for a record.|
+|[Delete a special handling note](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_DeleteAnOnScreenAlert.md)|Delete a special handling note for a record.|
+|[Delete a special handling note from a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_DeleteAnOnScreenAlertFromForm.md)|Delete a special handling note for a record from the Special Handling Notes list on the form.|
 
-## Related
-
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[t_CreateAnOnScreenAlert|Create a special handling note]]
-- [[t_UpdateAnOnScreenAlert|Update a special handling note]]
-- [[t_DeleteAnOnScreenAlert|Delete a special handling note]]
-- [[t_DeleteAnOnScreenAlertFromForm|Delete a special handling note from a form]]

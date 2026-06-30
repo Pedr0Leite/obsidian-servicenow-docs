@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Health and Safety Contractor Management
 
-The ServiceNow® Health and Safety Contractor Management application enables you to manage contractor companies and workers for their [[health-safety-overview|health and safety]]. With this application, you can confirm that contract workers have relevant certificates and skills and have completed the required trainings before they arrive at the site so that they can perform their job safely.
+The ServiceNow® Health and Safety Contractor Management application enables you to manage contractor companies and workers for their health and safety. With this application, you can confirm that contract workers have relevant certificates and skills and have completed the required trainings before they arrive at the site so that they can perform their job safely.
 
 ## Get started
 
@@ -32,7 +32,7 @@ The ServiceNow® Health and Safety Contractor Management application enables you
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-management-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-management-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -41,7 +41,3 @@ The ServiceNow® Health and Safety Contractor Management application enables you
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

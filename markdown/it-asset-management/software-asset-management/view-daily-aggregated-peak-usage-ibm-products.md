@@ -26,11 +26,11 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  From your ServiceNow instance, navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  From your ServiceNow instance, navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
     The Software Asset Workspace launches in a new tab.
 
-2.  Open the [[operations-workspace|License operations view]].
+2.  Open the License operations view.
 
 3.  From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Daily aggregated peak usage**.
 
@@ -39,7 +39,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]

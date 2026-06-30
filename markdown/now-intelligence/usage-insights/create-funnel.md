@@ -22,7 +22,7 @@ Role required: Users with the analytics\_viewer, portal\_analytics\_viewer, mobi
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **[[user-exp-analytics-landing|Usage Insights]]**.
+1.  Navigate to **Platform Analytics** &gt; **Usage Insights**.
 
 2.  From the Applications list, select the application for which you want to create a conversion funnel.
 
@@ -74,7 +74,3 @@ Select to measure any user sessions.
 
 **Parent Topic:**[Funnel reports in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/funnel-reports-uxa.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]

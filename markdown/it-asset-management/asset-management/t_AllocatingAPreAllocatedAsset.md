@@ -22,7 +22,7 @@ Role required: asset
 
 ## About this task
 
-Allocating an asset makes it a financial liability. After all [[pre-allocated-asset|pre-allocated assets]] have been allocated, the pre-allocated asset record is removed from the asset list.
+Allocating an asset makes it a financial liability. After all pre-allocated assets have been allocated, the pre-allocated asset record is removed from the asset list.
 
 ## Procedure
 
@@ -43,6 +43,3 @@ The system creates and navigates to a new asset record, which has the same model
 
 **Parent Topic:**[Manage pre-allocated assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/manage-preallocated-asset.md)
 
-## Related
-
-- [[pre-allocated-asset|Pre-allocated assets]]

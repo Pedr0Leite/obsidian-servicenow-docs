@@ -22,13 +22,13 @@ Role required: it\_project\_manager
 
 ## About this task
 
-Create as many baselines as necessary to review the changes made to and progress of your project by comparing these baselines. Comparing baselines helps you understand the real-time deviations between planned and actual values of the [[t_CreateAProjectTask|project tasks]].
+Create as many baselines as necessary to review the changes made to and progress of your project by comparing these baselines. Comparing baselines helps you understand the real-time deviations between planned and actual values of the project tasks.
 
 **Note:** If your project has sub projects in it, you cannot create baselines for them from the planning page view.
 
 ## Procedure
 
-1.  Open a project from the home page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the home page of Project Workspace.
 
     For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -66,7 +66,3 @@ Create as many baselines as necessary to review the changes made to and progress
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]

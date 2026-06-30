@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Query, Enable AI experiences]
 
 # Using Natural Language Query
 
-With [[natural-language-query|Natural Language Query]] \(NLQ\), you can query data in your tables by entering requests in natural, everyday language.
+With Natural Language Query \(NLQ\), you can query data in your tables by entering requests in natural, everyday language.
 
 ## NLQ overview
 
@@ -69,6 +69,3 @@ When you select the **Tips for improving your queries** button, a modal window a
 |Other information|unassigned tickets|
 |Single number|INC0777|
 
-## Related
-
-- [[natural-language-query|Natural Language Query]]

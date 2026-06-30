@@ -40,7 +40,7 @@ Application
 
 </td><td>
 
-Application scope should be set to [[universal-task-landing|Universal Task]].
+Application scope should be set to Universal Task.
 
 </td></tr><tr><td>
 
@@ -117,6 +117,3 @@ View to determine which columns are displayed in the list in the workspace.**Not
 </td></tr></tbody>
 </table>**Parent Topic:**[Add lists under the Universal Task list categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/add-universal-task-lists-under-list-categories.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

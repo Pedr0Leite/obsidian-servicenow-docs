@@ -37,8 +37,6 @@ The system administrator must enable the FSM Profile view before field service a
     -   Ahead of schedule
 3.  Click **Update**.
 
-    The status is updated on the agent's User form. The dispatcher can see this status update in [[dispatcher-activities|Dispatcher Workspace]].
+    The status is updated on the agent's User form. The dispatcher can see this status update in Dispatcher Workspace.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

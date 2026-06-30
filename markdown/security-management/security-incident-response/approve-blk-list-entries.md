@@ -14,7 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Approve block list entries for the Check Point NGTP integration
 
-An approval process for [[cs-fal-insight-block-list-entries|Block List entries]] is part of the preconfigured workflow. You approve Block List entries before the entries are activated on Block Lists. After you approve the Block List entry, the Gateway retrieves the entry, and your observable is blocked from that point forward.
+An approval process for Block List entries is part of the preconfigured workflow. You approve Block List entries before the entries are activated on Block Lists. After you approve the Block List entry, the Gateway retrieves the entry, and your observable is blocked from that point forward.
 
 ## Before you begin
 
@@ -81,6 +81,4 @@ On the entry record, the Status field changes to Rejected, and the Active check 
 
     \[Omitted image "security-tag-in-observ.png"\] Alt text: URL tag displayed in an observable
 
-## Related
 
-- [[cs-fal-insight-block-list-entries|Block List Entries]]

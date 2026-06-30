@@ -15,7 +15,7 @@ breadcrumb: [Features, Now Assist Finance Supply Chain, Finance and Supply Chain
 
 # Configuring Now Assist for Common Finance and Supply Chain features
 
-If you have the admin role, you can configure the [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]] application so that your fulfillers can use the agentic AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] Workspace and Core UI.
+If you have the admin role, you can configure the Now Assist for Common Finance and Supply Chain features application so that your fulfillers can use the agentic AI skills in Source-to-Pay Workspace Workspace and Core UI.
 
 ## Before you begin
 
@@ -29,10 +29,10 @@ The following table lists the Now Assist for Common Finance and Supply Chain fea
 
 |Now Assist for SPO skills|Description|
 |-------------------------|-----------|
-|Supplier summarization for fulfillers|Summarize [[supplier|supplier]] details and keep fulfillers informed about their overview, total spends, and performance.|
+|Supplier summarization for fulfillers|Summarize supplier details and keep fulfillers informed about their overview, total spends, and performance.|
 |Purchase order summarization for fulfillers|Summarize purchase orders and keep fulfillers informed on their status, progress, and required actions.|
 
-\[Omitted image "now-assist-for-fsc.png"\] Alt text: Now Assist skills for Common [[finance-supply-chain-landing|Finance and Supply Chain]] features section, showing the [[purchase-order-table|Purchase order]] summarization for fulfillers feature card.
+\[Omitted image "now-assist-for-fsc.png"\] Alt text: Now Assist skills for Common Finance and Supply Chain features section, showing the Purchase order summarization for fulfillers feature card.
 
 ## Procedure
 
@@ -106,7 +106,7 @@ Description
 
 </td><td>
 
-The Purchase order summarization for fulfiller skillis displayed in the Source-to-Pay Workspace for [[psm-overview|Sourcing and Procurement Operations]], [[supp-mgmt-landing-page|Supplier Lifecycle Operations]], and [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+The Purchase order summarization for fulfiller skillis displayed in the Source-to-Pay Workspace for Sourcing and Procurement Operations, Supplier Lifecycle Operations, and Accounts Payable Operations.
 
 </td></tr><tr><td id="d121919e442">
 
@@ -127,7 +127,7 @@ Now Assist skills are available in the Now Assist panel. Turn on multi-language 
 
 
 -   **[Customize a Now Assist for Common Finance and Supply Chain features skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/cust-now-assist-fsc-skill.md)**  
-If you have the admin role, you can [[cust-now-assist-spo-skill|customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill]] so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, [[shopping-hub-overview|Shopping Hub]], and in Core UI.
+If you have the admin role, you can customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill so that fulfillers and requesters can use the generative AI skills in Source-to-Pay Workspace, Shopping Hub, and in Core UI.
 -   **[Customize supplier summarization for fulfillers skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/now-assist-for-fsc-common/cust-na-fsc-supplier-skill.md)**  
 If you have the admin role, you can customize the supplier summarization for fulfillers skill so that fulfillers can use the generative AI skills in Source-to-Pay Workspace to view relevant supplier information.
 
@@ -142,15 +142,3 @@ If you have the admin role, you can customize the supplier summarization for ful
 
 [Configure Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configuring-now-assist-apo.md)
 
-## Related
-
-- [[now-assist-fsc-common|Now Assist for Common Finance and Supply Chain features]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[purchase-order-table|Purchase order]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[cust-now-assist-spo-skill|Customize a Now Assist for Sourcing and Procurement Operations \(SPO\) skill]]
-- [[shopping-hub-overview|Shopping Hub]]

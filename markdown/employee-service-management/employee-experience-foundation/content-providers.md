@@ -24,7 +24,7 @@ Content Publishing offers content managers the ability to build content using vi
 
     A content provider identifies the video hosting service.
 
-    Content Publishing versions 33.0.9 and later include the out-of-the-box provider "other", which enables organizations to skip configuration. Content managers can use this provider to add publicly available videos to [[ec-rich-content|microsites]] and [[ec-news-articles|news articles]].
+    Content Publishing versions 33.0.9 and later include the out-of-the-box provider "other", which enables organizations to skip configuration. Content managers can use this provider to add publicly available videos to microsites and news articles.
 
 -   **Content provider mapping**
 
@@ -34,7 +34,7 @@ Content Publishing offers content managers the ability to build content using vi
 
 -   **Content processor**
 
-    Content processors provide an interface to configure API calls to the video hosting service. They are powered by [[flows-ukg|subflows]] from the Flow Designer. For more information, see [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
+    Content processors provide an interface to configure API calls to the video hosting service. They are powered by subflows from the Flow Designer. For more information, see [Building subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 
     There are two actions available:
 
@@ -62,8 +62,3 @@ The following process overview guides you through setting up content providers s
 4.  \(Optional\) To provide content managers with an interface where they can select a video, [Configure video content search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-search.md)
 5.  \(Optional\) To add interface elements to the Rich Content Editor video picker, [Configure content rendering parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-rendering-parameter.md)
 
-## Related
-
-- [[ec-rich-content|Microsites]]
-- [[ec-news-articles|News articles]]
-- [[flows-ukg|Subflows]]

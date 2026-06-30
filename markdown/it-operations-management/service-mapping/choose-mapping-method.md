@@ -14,7 +14,7 @@ breadcrumb: [Exploring Service Mapping, Service Mapping, ITOM Visibility, IT Ope
 
 # Choose the right method for discovery and mapping application services
 
-[[c_ServiceMappingOverview|Service Mapping]] deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]]. Learn about the mapping methods to use the ones that best suit the needs of your organization.
+Service Mapping deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and discovery based on Predictive Intelligence. Learn about the mapping methods to use the ones that best suit the needs of your organization.
 
 <table id="mapping-method-comparison"><thead><tr><th>
 
@@ -42,11 +42,11 @@ Predictive Intelligence evaluates connections between application fingerprints, 
 
 </td><td>
 
-Service Mapping automatically adds CI connections and CIs they lead to based on connection rules. You can modify the default connection rules or create your own to enhance this [[r-discovery|discovery]] method.Discovery based on Predictive Intelligence is effective for mapping multiple application services.
+Service Mapping automatically adds CI connections and CIs they lead to based on connection rules. You can modify the default connection rules or create your own to enhance this discovery method.Discovery based on Predictive Intelligence is effective for mapping multiple application services.
 
 </td><td>
 
-When [[using-discovery|using discovery]] based on Predictive Intelligence to identify TCP connections and processes, deploy it in large on-premise deployments. Predictive Intelligence is a machine learning solution and needs training. To achieve best results using this discovery method, you must run discovery repeatedly.
+When using discovery based on Predictive Intelligence to identify TCP connections and processes, deploy it in large on-premise deployments. Predictive Intelligence is a machine learning solution and needs training. To achieve best results using this discovery method, you must run discovery repeatedly.
 
  Service Mapping may erroneously add or remove dynamic connections.
 
@@ -72,13 +72,13 @@ Pattern-based mapping requires configuring credentials, users, and user permissi
 
 </td><td>
 
-If your organization uses tags for asset management, you can use these tags to map service instances. Discovery and [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] discover tags assigned to CIs, and populate the CMDB with this data. Service Mapping uses the tag-related data from the CMDB to map services.
+If your organization uses tags for asset management, you can use these tags to map service instances. Discovery and Cloud Provisioning and Governance discover tags assigned to CIs, and populate the CMDB with this data. Service Mapping uses the tag-related data from the CMDB to map services.
 
 </td><td>
 
 You can effectively use tags to map multiple application services.
 
- Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based [[sm-dashboard|Service Mapping workspace]] to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
+ Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
 
 </td><td>
 
@@ -104,12 +104,3 @@ While using traffic-based discovery creates a more inclusive map, it may also re
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[sm-dashboard|Service Mapping Workspace]]

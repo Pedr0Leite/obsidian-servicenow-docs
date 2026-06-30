@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Operational Technology Manager, Operational Technology]
 
 # Service Graph Connector for Microsoft Defender for IoT \(On-premises Management Console\)
 
-Integrate Microsoft Defender for IoT \(On-premises Management Console\) with the ServiceNow® [[operational-technology-manager|Operational Technology Manager]] application to automate import of sensor appliances, OT devices, and network connections.
+Integrate Microsoft Defender for IoT \(On-premises Management Console\) with the ServiceNow® Operational Technology Manager application to automate import of sensor appliances, OT devices, and network connections.
 
 ## Request apps on the Store
 
@@ -80,7 +80,7 @@ The imported data from the staging tables is then inserted into the following ta
 -   Netgear \[cmdb\_ci\_netgear\]
 -   Network Adapter \[cmdb\_ci\_network\_adapter\]
 -   Network Intrusion Detection System \[cmdb\_ci\_nids\]
--   [[operational-technology-overview|Operational Technology]] \(OT\) \[cmdb\_ci\_ot\]
+-   Operational Technology \(OT\) \[cmdb\_ci\_ot\]
 -   OSX Server \[cmdb\_ci\_osx\_server\]
 -   OT Control Module \[cmdb\_ci\_ot\_control\_module\]
 -   OT Control System \[cmdb\_ci\_ot\_control\]
@@ -109,7 +109,3 @@ The following tables describe the attribute mapping and classification for senso
 
 **Parent Topic:**[Operational Technology Manager Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/otm_integrations.md)
 
-## Related
-
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-overview|Operational Technology]]

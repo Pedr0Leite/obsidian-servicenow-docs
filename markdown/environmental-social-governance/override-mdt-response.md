@@ -35,8 +35,5 @@ Role required: admin
 7.  Select **Save**.
 
 
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[using-grc-metrics|using grc metrics]]

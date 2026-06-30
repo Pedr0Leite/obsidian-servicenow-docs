@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Integration with Contact Center as a Service \(CCaaS\)
 
-Implement prebuilt, certified integrations with Contact Center as a Service \(CCaaS\) providers using the ServiceNow® voice [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] architecture.
+Implement prebuilt, certified integrations with Contact Center as a Service \(CCaaS\) providers using the ServiceNow® voice reference architecture.
 
 ## About this task
 
@@ -69,6 +69,3 @@ Role required: admin
 
 Refer to [Plugin requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/plugin-req-hr-icc.md) for dependencies and address all prerequisite requirements to access the ICC features.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

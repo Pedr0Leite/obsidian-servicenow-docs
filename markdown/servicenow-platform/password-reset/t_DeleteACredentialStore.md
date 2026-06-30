@@ -14,7 +14,7 @@ breadcrumb: [Credential stores for Password Reset, Configure your Password Reset
 
 # Delete a connection to a credential store for Password Reset
 
-Important: Before you delete the connection to a credential store, check all [[password-reset-landing-page|Password Reset]] processes to ensure that the credential store is not in use. If the credential store is being used by a process, update the process before deleting the credential store.
+Important: Before you delete the connection to a credential store, check all Password Reset processes to ensure that the credential store is not in use. If the credential store is being used by a process, update the process before deleting the credential store.
 
 ## Before you begin
 
@@ -22,14 +22,10 @@ Role required: password\_reset\_admin or password\_reset\_credential\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Password Reset** &gt; **Credential Stores** and then select the [[check-box|check box]] for the credential store.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Credential Stores** and then select the check box for the credential store.
 
 2.  In the Actions choice list, select **Delete**.
 
 
 **Parent Topic:**[Credential stores for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_CredentialStores.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]

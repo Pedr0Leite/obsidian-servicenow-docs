@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # External Link form
 
-Use the External Link form to [[create-external-links|create an external link]].
+Use the External Link form to create an external link.
 
 |Field|Description|
 |-----|-----------|
@@ -35,7 +35,7 @@ Use the External Link form to [[create-external-links|create an external link]].
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -63,7 +63,7 @@ Use the External Link form to [[create-external-links|create an external link]].
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -85,8 +85,3 @@ Use the External Link form to [[create-external-links|create an external link]].
 
 [Website configuration form]()
 
-## Related
-
-- [[create-external-links|Create an external link]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

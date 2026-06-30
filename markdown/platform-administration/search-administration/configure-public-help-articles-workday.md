@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Configure access to help articles in Workday
 
-Create an article audience rule in Workday and specify it for your help articles to make them accessible by all your employees. The [[workday-external-content-connector|Workday external content connector]] uses the audience rule and article settings to make content and metadata from your help articles searchable.
+Create an article audience rule in Workday and specify it for your help articles to make them accessible by all your employees. The Workday external content connector uses the audience rule and article settings to make content and metadata from your help articles searchable.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ If you don't want the connector to retrieve searchable content and metadata from
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]

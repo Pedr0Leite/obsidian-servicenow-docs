@@ -18,7 +18,7 @@ Migration of the search configuration from ITSM Agent Workspace to Service Opera
 
 ## How the migration utility identifies search configuration for migration
 
-The [[migration-utility|migration utility]] in SOW identifies the eligible set of search configuration records to be [[migrated-records|migrated]] based on the following sequence:
+The migration utility in SOW identifies the eligible set of search configuration records to be migrated based on the following sequence:
 
 1.  Filters the application search sources records \(sys\_search\_source\) that are mapped to ITSM Agent Workspace master config record using the m2m\_search\_context\_config\_search\_source table.
 2.  Checks the application search sources that are mapped to SOW context config record.
@@ -32,7 +32,7 @@ The [[migration-utility|migration utility]] in SOW identifies the eligible set o
 
 The SOW migration utility uses the following sequence to migrate the search configuration records from ITSM Agent Workspace to SOW:
 
-1.  Searches the [[reference-for-itsm-mobile-agent|reference]] record for Global Search Data Config and Global Search View Config using the sys\_aw\_master\_config table in ITSM Agent Workspace.
+1.  Searches the reference record for Global Search Data Config and Global Search View Config using the sys\_aw\_master\_config table in ITSM Agent Workspace.
 2.  Determines the Search engine type in the Global Search Data Config record. If the search engine is zing then migration proceeds. Else, the migration process stops.
 3.  Using the Global Search Data Config record, a query is run on the Application Search Sources \(m2m\_search\_context\_config\_search\_source\) table to retrieve all the search sources.
 4.  Using the SOW search context config available in the base system, a query is executed on the Application Search Sources \(m2m\_search\_context\_config\_search\_source\) table to retrieve all the search sources.
@@ -46,7 +46,7 @@ The SOW migration utility uses the following sequence to migrate the search conf
 9.  Updates the SOW page property **globalSearchDataConfigId** to have OOB SOW context config record.
 
 -   **[Perform post-migration tasks for search configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-search-config.md)**  
-Verify that the search configurations in Service Operations Workspace \(SOW\) are consistent with the search configurations in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated search configurations [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the search configurations in Service Operations Workspace \(SOW\) are consistent with the search configurations in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated search configurations settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -75,9 +75,3 @@ Verify that the search configurations in Service Operations Workspace \(SOW\) ar
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]

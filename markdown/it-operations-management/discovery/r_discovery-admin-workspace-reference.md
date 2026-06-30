@@ -14,18 +14,14 @@ breadcrumb: [Discovery reference, Discovery, ITOM Visibility, IT Operations Mana
 
 # Discovery Admin Workspace reference
 
-Reference topics provide additional information about the lists, forms, and settings used in [[discovery-admin-workspace|Discovery Admin Workspace]].
+Reference topics provide additional information about the lists, forms, and settings used in Discovery Admin Workspace.
 
 -   **[Discovery Admin Workspace support tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_dawSupportTools.md)**  
 The **Support tools** tab provides tools to investigate and troubleshoot your instance.
 -   **[Application fingerprint suggestion form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-app-fingerprint-form.md)**  
 When viewing suggestions based on application fingerprints, verify the information on the Application fingerprints suggestion form.
 -   **[Discovery Admin Workspace data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_dawScheduleDetailsOverview.md)**  
-The **Overview** tab includes visualizations that provide detailed information about the [[r-discovery|Discovery]] schedule. These visualizations offer a comprehensive view of the schedule performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered.
+The **Overview** tab includes visualizations that provide detailed information about the Discovery schedule. These visualizations offer a comprehensive view of the schedule performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered.
 
 **Parent Topic:**[Discovery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-references.md)
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]

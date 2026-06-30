@@ -22,7 +22,7 @@ Role required: sn\_si.basic
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select the list \(\[Omitted image "listview-icon.png"\] Alt text: list icon\) icon.
 
@@ -41,6 +41,3 @@ Role required: sn\_si.basic
 
 **Parent Topic:**[Working with quick filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-quick-filters.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

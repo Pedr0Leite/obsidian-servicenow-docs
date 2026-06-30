@@ -24,7 +24,7 @@ Role required: sam\_admin or sam\_user
 
 The PPM Standard \(com.snc.financial\_planning\_pmo\) plugin must be installed to create demands.
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application includes the following demand actions that are ready for you to use:
+The Software Asset Management application includes the following demand actions that are ready for you to use:
 
 -   Discontinue after expiration
 -   Migrate to approved product
@@ -34,11 +34,11 @@ The [[c_SoftwareAssetMgmt|Software Asset Management]] application includes the f
 
 ## About this task
 
-Use the [[app-ration|Overlapping usage view]] to drive SaaS and SSO application rationalization by viewing the feature level usage of each application. For more information, see [Overlapping usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/app-ration.md).
+Use the Overlapping usage view to drive SaaS and SSO application rationalization by viewing the feature level usage of each application. For more information, see [Overlapping usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/app-ration.md).
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Overlapping usage**.
+1.  Navigate to **Software Asset Workspace** &gt; **Overlapping usage**.
 
 2.  Select the **Application feature usage** tab.
 
@@ -142,7 +142,7 @@ When this field is clear, and you reset the demand to **Draft**, the value for t
 </td></tr></tbody>
 </table>6.  Select the **Demand Requirements** tab to view the details of the already-created requirements.
 
-    You can also [[create-demand-req|create a demand requirement]]. For more information, see [Create a demand requirement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-demand-req.md).
+    You can also create a demand requirement. For more information, see [Create a demand requirement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-demand-req.md).
 
 7.  Select **Save**.
 
@@ -163,9 +163,3 @@ To view all Software Asset Management demand requirements, navigate to **Softwar
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[app-ration|Overlapping usage view]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[create-demand-req|Create a demand requirement]]

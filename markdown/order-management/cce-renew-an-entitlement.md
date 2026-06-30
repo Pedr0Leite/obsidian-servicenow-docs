@@ -16,14 +16,14 @@ Renew an entitlement on the CSM Configurable Workspace.
 
 ## Before you begin
 
-You cannot renew an entitlement when it is in Canceled state or it does not have an end date. For more info, see [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]].
+You cannot renew an entitlement when it is in Canceled state or it does not have an end date. For more info, see [Order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reviewing-orchestration-plans-order-fulfillment.md).
 
 The order processing for product inventory based entitlements are executed according to the fulfillment flow defined by the customer for these offerings being renewed.
 
 Role required:
 
 -   To create an order, you need sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
--   To [[create-new-quote|create a quote]] or opportunity, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
+-   To create a quote or opportunity, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
 
 ## Procedure
 
@@ -33,11 +33,11 @@ Role required:
 
 3.  Open the account that the entitlement belongs to.
 
-4.  In the entitlements related list, select the entitlement that you want to [[Renew|renew]].
+4.  In the entitlements related list, select the entitlement that you want to renew.
 
 5.  Select **Renew**.
 
-    The target entity is created depending on the [[rules_101|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to renew the entitlement is created. You can select the quote number from the confirmation message to review the renewal quote. After the quote is approved and the status is updated to **Complete**, an order is created for further processing.
     -   If the selected target entity is an order, an order to renew the entitlement is created. You can select the order number from the confirmation message to review the renewal order.
@@ -52,10 +52,3 @@ Role required:
 
 The new entitlement is created in the Draft state. You can see more details in the Renewal History related list.
 
-## Related
-
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[create-new-quote|Create a quote]]
-- [[Renew|Renew]]
-- [[rules_101|Rules]]

@@ -22,13 +22,13 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller, sam\_admin/sam\_user, sn
 
 ## About this task
 
-The Manage contract repository agentic workflow uses AI agents to extract key metadata from signed [[c_Contracts|contracts]] and calculate contract reminder date. The metadata is extracted based on the applicable use case in the Contract metadata extraction skill. After the extraction process is complete, a message appears on the contract record and an email notification is sent with a link to review the extracted metadata. Once you have reviewed and submitted the extracted metadata, the contract reminder date is calculated. The reminder date is calculated based on the contract end date, auto-renewal clause, and notice period for contract renewal or termination.
+The Manage contract repository agentic workflow uses AI agents to extract key metadata from signed contracts and calculate contract reminder date. The metadata is extracted based on the applicable use case in the Contract metadata extraction skill. After the extraction process is complete, a message appears on the contract record and an email notification is sent with a link to review the extracted metadata. Once you have reviewed and submitted the extracted metadata, the contract reminder date is calculated. The reminder date is calculated based on the contract end date, auto-renewal clause, and notice period for contract renewal or termination.
 
 To receive notifications when AI agents complete metadata extraction, verify that notifications are enabled by the administrator. For more information, see [Enable notifications for AI extracted metadata and obligations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cmpro-na-me-agentic-ntf.md).
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts**.
 
 2.  Open a Contract record for which you want to review the extracted metadata.
 
@@ -83,7 +83,3 @@ To receive notifications when AI agents complete metadata extraction, verify tha
 
 **Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-contract-repository-workflow.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[sam-workspace|Software Asset Workspace]]

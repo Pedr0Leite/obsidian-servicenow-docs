@@ -14,7 +14,7 @@ breadcrumb: [Configuring advanced settings for your ML solutions, Configure Pred
 
 # Configure TF-IDF for solutions
 
-Apply Term Frequency–Inverse Document Frequency \(TF-IDF\) encoding to classification, clustering, or similarity solutions for [[predictive-intelligence-landing|Predictive Intelligence]].
+Apply Term Frequency–Inverse Document Frequency \(TF-IDF\) encoding to classification, clustering, or similarity solutions for Predictive Intelligence.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ Predictive Intelligence uses paragraph vector word embedding by default in its c
 
 [Create and train a clustering solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/create-clustering-solution.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

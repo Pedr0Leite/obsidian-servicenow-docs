@@ -14,7 +14,7 @@ breadcrumb: [Metric binding, Exploring Metric Intelligence, Metric Intelligence,
 
 # Creating an event rule to map metrics to specific CIs
 
-Create [[create-event-rules|event rules]] to map incoming raw metric data to specific CIs, to optionally modify metric names, and to populate the **resource\_path** attribute for resource binding.
+Create event rules to map incoming raw metric data to specific CIs, to optionally modify metric names, and to populate the **resource\_path** attribute for resource binding.
 
 The system generates events for every new raw metric data for which there are no CI binding specifications. You can create event rules that filter those events to map the incoming metric data to specific CIs. In such event rules, you can for example define a filter that is based on the monitoring object \(such as SCOM\).
 
@@ -34,6 +34,3 @@ For example, in the Event Rule designer you can update the event rule **SCOM IIS
 
 [Get started with Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/get-started-metrics.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]

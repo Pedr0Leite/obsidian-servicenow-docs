@@ -16,18 +16,10 @@ Install and configure the Data Collection Content Pack for HAM.
 
 Perform the steps in the following order:
 
-1.  [[dc-ham-install|Install the Data Collection Pack for HAM]]
-2.  [[dc-ham-config|Configure Data Collection for HAM]]
-3.  [[dc-ham-activate|Activate Data Collection for HAM]]
-4.  [[dc-ham-install-artifacts|Review HAM artifacts]]
+1.  [Install the Data Collection Pack for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-ham-install.md)
+2.  [Configure Data Collection for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-ham-config.md)
+3.  [Activate Data Collection for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-ham-activate.md)
+4.  [Review HAM artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-ham-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-ham-install|Install the Data Collection Pack for HAM]]
-- [[dc-ham-config|Configure Data Collection for HAM]]
-- [[dc-ham-activate|Activate Data Collection for HAM]]
-- [[dc-ham-install-artifacts|Review HAM artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

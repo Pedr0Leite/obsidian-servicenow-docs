@@ -22,11 +22,11 @@ Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
-A latest score visualization shows the latest score and both the absolute and percentage change between this score and a previous score. This visualization is similar to a **Chart** view in an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. You can choose how many scores back to compare to the latest score. You can also display a trend line of absolute or percentage changes in scores.
+A latest score visualization shows the latest score and both the absolute and percentage change between this score and a previous score. This visualization is similar to a **Chart** view in an Analytics Hub. You can choose how many scores back to compare to the latest score. You can also display a trend line of absolute or percentage changes in scores.
 
 **Note:** This data visualization is supported on the mobile platform. For more information, see  and .
 
@@ -34,7 +34,7 @@ A latest score visualization shows the latest score and both the absolute and pe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[widgets|Widgets]]** and click **New**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Widgets** and click **New**.
 
 2.  In the **Name** and **Subtitle** fields, give the widget a name and subtitle that reflect the information being displayed.
 
@@ -134,7 +134,7 @@ Specify the number of data collection periods back from which you want the score
 </td></tr></tbody>
 </table>10. In the **Element Settings** tab, you can select an element filter instead of selecting a specific element in the **Element** field.
 
-    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using [[c_BreakdownElementFilters|element filters]] to personalize widgets, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
+    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
 
 11. Click **Submit**.
 
@@ -152,11 +152,3 @@ To view the widget, add it to a dashboard or a portal.
 
 [View scores and statistics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/scorecard-overview-tab.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]
-- [[c_BreakdownElementFilters|Element filters]]

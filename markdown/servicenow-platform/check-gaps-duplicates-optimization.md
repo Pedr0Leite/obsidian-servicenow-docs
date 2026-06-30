@@ -12,7 +12,7 @@ breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabiliti
 
 # Check Knowledge Center insights
 
-Learn how to access detailed views for gaps, duplicates, or article optimization from the Insights section in the [[knowledge-center|Knowledge Center]].
+Learn how to access detailed views for gaps, duplicates, or article optimization from the Insights section in the Knowledge Center.
 
 ## Before you begin
 
@@ -48,13 +48,9 @@ You’re redirected to the relevant detailed view for managing the selected case
 **Related topics**  
 
 
-[[kc-edit-knowledge-article|Generate and edit articles using the article editor]]
+[Generate and edit articles using the article editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-edit-knowledge-article.md)
 
 [Configure Now Assist Skills for potential gaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-na-km.md)
 
 [Configure and activate the Now Assist Identify duplicate articles skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-Assist-configuring-identify-duplicate-article-skill.md)
 
-## Related
-
-- [[kc-edit-knowledge-article|Generate and edit articles using the article editor]]
-- [[knowledge-center|Knowledge Center]]

@@ -15,7 +15,7 @@ breadcrumb: [HubSpot external content connector, Configure, External Content Con
 
 # Configure HubSpot for external content indexing
 
-Create and authorize a legacy public app in HubSpot to allow the [[hubspot-external-content-connector|HubSpot external content connector]] to access your HubSpot source system.
+Create and authorize a legacy public app in HubSpot to allow the HubSpot external content connector to access your HubSpot source system.
 
 ## Before you begin
 
@@ -97,6 +97,3 @@ For details on creating and configuring a HubSpot external content connector, se
 
 **Parent Topic:**[HubSpot external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/hubspot-external-content-connector.md)
 
-## Related
-
-- [[hubspot-external-content-connector|HubSpot external content connector]]

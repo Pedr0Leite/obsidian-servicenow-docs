@@ -14,7 +14,7 @@ breadcrumb: [Configure your password policy, Password complexity requirements, L
 
 # Exclude passwords through password policies on your instance
 
-Add passwords to the Excluded Password table to prohibit specific passwords from being used by [[users|users]] on your instance.
+Add passwords to the Excluded Password table to prohibit specific passwords from being used by users on your instance.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ You can ban as many passwords as necessary. Some of the examples are as follows:
 
     The **Exclusion List Management** has about 5000 commonly used passwords.
 
-## Related
 
-- [[users|Users]]

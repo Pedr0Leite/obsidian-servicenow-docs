@@ -14,7 +14,7 @@ breadcrumb: [Guided Tours reference, Guided Tours, Adoption services, Configure 
 
 # Guided Tour callout color
 
-Customize [[guided-tours|Guided Tours]] callout colors in [[c_ServicePortal|Service Portal]].
+Customize Guided Tours callout colors in Service Portal.
 
 |Parameter|Default Service Portal properties|Custom CSS variables|
 |---------|---------------------------------|--------------------|
@@ -31,7 +31,3 @@ Customize [[guided-tours|Guided Tours]] callout colors in [[c_ServicePortal|Serv
 
 [Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)
 
-## Related
-
-- [[guided-tours|Guided Tours]]
-- [[c_ServicePortal|Service Portal]]

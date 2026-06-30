@@ -296,7 +296,7 @@ Name of the user as the data owner.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-Approval**Note:** This section appears only when the Metric approval property is set to Simple. For more information see, [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+Approval**Note:** This section appears only when the Metric approval property is set to Simple. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
 </td></tr><tr><td>
 
@@ -385,17 +385,12 @@ Groups that can view the record.
 </td></tr></tbody>
 </table>4.  Select **Save**.
 
-    **Note:** After a new metric is created, the related lists along with the **Details** tab are displayed on the form. You can view the metric data overview in the **Overview** tab. The [[metrics-overview|Metrics overview]] page displays the metrics data details when you execute a metric along with the duration for which the data is collected.
+    **Note:** After a new metric is created, the related lists along with the **Details** tab are displayed on the form. You can view the metric data overview in the **Overview** tab. The Metrics overview page displays the metrics data details when you execute a metric along with the duration for which the data is collected.
 
 
 ## Result
 
 The metric is saved in the Metrics list.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[components-installed-with-esg|components installed with esg]]
-- [[configuring-grc-metrics|configuring grc metrics]]
-- [[metrics-overview|metrics overview]]

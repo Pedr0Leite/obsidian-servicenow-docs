@@ -14,7 +14,7 @@ breadcrumb: [Configuring shifts for your workplace, Manage workplace safety acti
 
 # Assign employees to a shift
 
-Associate employees with a shift in [[workplace-safety-mgmt-hr|Workplace Core]] so that they operate from the office only in the shifts to which they are assigned. Workplace managers can later reserve workspaces for these employees according to their assigned shifts.
+Associate employees with a shift in Workplace Core so that they operate from the office only in the shifts to which they are assigned. Workplace managers can later reserve workspaces for these employees according to their assigned shifts.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ A pre-configured email with the shift details is sent to all employees assigned 
 
 **Parent Topic:**[Configuring shifts for your workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configuring-shifts-for-your-workplace-wsd.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

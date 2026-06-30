@@ -13,7 +13,7 @@ breadcrumb: [Reference, Business Continuity Management, Governance, Risk, and Co
 
 # Components installed with Business Continuity Management
 
-Several types of components are installed with activation of the [[business-continuity-mangmt-overview|Business Continuity Management]] application.
+Several types of components are installed with activation of the Business Continuity Management application.
 
 ## Roles installed
 
@@ -56,7 +56,7 @@ Create, read, write, and delete access to all tables including the core data.
 -   sn\_bcm.core\_manager
 -   sn\_irm\_shared\_cmn.word\_template\_creator
 -   dependency\_views
--   sn\_smart\_asmt.template\_manager: Provides access to [[create-sm-asmt-temp-as-ws|create a Smart Assessment template]].
+-   sn\_smart\_asmt.template\_manager: Provides access to create a Smart Assessment template.
 -   sn\_bia.bia\_admin
 -   sn\_bcm.program\_manager
 -   sn\_grc\_appr.admin
@@ -65,7 +65,7 @@ Create, read, write, and delete access to all tables including the core data.
 
 The BCM admin contains the Approver Configurator admin role, but it doesn’t contain the Approver Configurator developer role.
 
-For security reasons, the Approver Configurator admin has read access to the **Script** field on the [[approval-rule-form|Approval Rule form]]. If you have the Approver Configurator developer role in the GRC: Approver Configurator application, you’ve create and write access to the **Script** field on the Approval Rule form.
+For security reasons, the Approver Configurator admin has read access to the **Script** field on the Approval Rule form. If you have the Approver Configurator developer role in the GRC: Approver Configurator application, you’ve create and write access to the **Script** field on the Approval Rule form.
 
 For more information on the roles in the GRC: Approver Configurator application, see [Roles installed with GRC: Approver Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/roles-installed-with-approver-configurator.md).
 
@@ -136,7 +136,7 @@ BCM Contributor \(sn\_bcm.contributor\)
 
 </td><td>
 
--   Read access to all BIAs, [[exercise-management-uib|exercises]], and [[crisis-management-uib|crisis events]] tables.
+-   Read access to all BIAs, exercises, and crisis events tables.
 -   Read access to BCP tables if the contributor is included in the contributor list.
 -   Create and delete existing dependencies when the group is in pending state.
 -   Write access to the RTO, RPO, and dependency category state fields, disruptive duration of RTO and RPO editable fields, and dependency assessment editable fields.
@@ -277,7 +277,7 @@ Read and write permissions to the document templates.
 
 </td></tr><tr><td>
 
-[[bcm-approval-configuration|Approval configuration]] admin \(sn\_grc\_appr.admin\)
+Approval configuration admin \(sn\_grc\_appr.admin\)
 
 </td><td>
 
@@ -392,7 +392,7 @@ Allows read access on all recovery events.
 </td></tr></tbody>
 </table>## BCM lite operator role
 
-For information on the BCM lite operator role, see [[bcm-lite-operators|BCM lite operators]].
+For information on the BCM lite operator role, see [BCM lite operators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-lite-operators.md).
 
 ## Tables installed
 
@@ -806,7 +806,7 @@ Business Continuity Management – Recovery Exercise Management
 
 </td></tr><tr><td>
 
-[[event-assets|Event Assets]] \[sn\_recovery\_event\_asset\]
+Event Assets \[sn\_recovery\_event\_asset\]
 
 </td><td>
 
@@ -927,9 +927,9 @@ Business Continuity Management – Planning
 </td></tr></tbody>
 </table>## Properties installed
 
-For properties installed with the Business Continuity Management application, see [[properties-bcm|Properties installed with BCM]].
+For properties installed with the Business Continuity Management application, see [Properties installed with BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/properties-bcm.md).
 
-**Parent Topic:**[[bcm-reference|BCM reference]]
+**Parent Topic:**[BCM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-reference.md)
 
 ## Script includes in Business Continuity Management
 
@@ -940,7 +940,7 @@ When you download the Business Continuity Management application, several script
 |Script-includes|Description|
 |---------------|-----------|
 |ActivePlanCandidateFilter|Contains the utility functions that are used in the BCP active plan filter.|
-|AssessmentTemplateBIAFieldsUtilBase|Functions used in creating AssessmentTemplateBIAFields record from selected [[airc-assessment-templates|assessment templates]].|
+|AssessmentTemplateBIAFieldsUtilBase|Functions used in creating AssessmentTemplateBIAFields record from selected assessment templates.|
 |AssessmentTemplateBIAFieldsUtil|Script include to override BIA creation functions in AssessmentTemplateBIAFieldsUtilBase.|
 |BCPConstants|Contains the utility functions that are used in the BCP constants.|
 |BCPDataVisualizationUtilsBase|Contains the utility functions that are used in the BCP data visualization.|
@@ -953,7 +953,7 @@ When you download the Business Continuity Management application, several script
 |BCPTemplateUtilsBase|Contains the utility functions that are used in the BCP template utilities base.|
 |BIAAjaxProcessor|Helper class to handle Ajax requests from client scripts. Implementing methods:1. To determine visibility of "Include CIA" field on BIA Template form.2. To set "Applies to table" field with source table name of primary element assessed.|
 |BIARecordAPIBase|An API built to interact with BIA records. The goal of this API is to hide the implementation details about BIA records, and provide the consumers with a structured API to retrieve and update data for BIA records.|
-|BIAAssessmentUIBase|Utility class to support [[bia-uib|Business Impact Analysis]] Assessment UI pages.|
+|BIAAssessmentUIBase|Utility class to support Business Impact Analysis Assessment UI pages.|
 |BIAUtil|Script to handle insert and updates on BIA table, including validationsSetting depends on table field based on dependency group element definition.|
 |BIASmartAssessmentBase|Utility class to support all Smart Assessment functionality.|
 |BIASmartAssessment|Script include to override Smart Assessment related functions in BIASmartAssessmentBase|
@@ -1455,17 +1455,3 @@ Use the following table to diagnose and resolve common issues that arise during 
 |GlideList values rejected|Dot-walk field format mismatch|Match dot-walk field format.|
 |Protected fields edited after removing sheet protection|Fields are still protected at the import set level|Ignored by import.|
 
-## Related
-
-- [[bcm-lite-operators|BCM lite operators]]
-- [[properties-bcm|Properties installed with BCM]]
-- [[bcm-reference|BCM reference]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]
-- [[approval-rule-form|Approval Rule form]]
-- [[exercise-management-uib|Exercises]]
-- [[crisis-management-uib|Crisis events]]
-- [[bcm-approval-configuration|Approval configuration]]
-- [[event-assets|Event assets]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[bia-uib|Business impact analysis]]

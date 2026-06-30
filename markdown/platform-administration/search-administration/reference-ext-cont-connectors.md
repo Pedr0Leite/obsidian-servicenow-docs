@@ -15,7 +15,7 @@ breadcrumb: [External Content Connectors, Search administration, Configure core 
 
 # External Content Connectors reference
 
-[[reference-email-admin|Reference]] information for the [[ext-cont-connectors-landing-page|External Content Connectors]] application and for individual external content connectors.
+Reference information for the External Content Connectors application and for individual external content connectors.
 
 -   **[Components installed with External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/installed-with-ext-content-connectors.md)**  
 The External Content Connectors plugin installs a connector administrator role and a scheduled job to remove unused OAuth 2.0 credentials for deleted external content connectors.
@@ -26,14 +26,9 @@ Each crawl history entry for an external content connector's content crawl inclu
 -   **[Statistics for external content connector user permission crawls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/permission-statistics-external-content-connectors.md)**  
 Each crawl history entry for an external content connector's user permission crawl crawl includes statistics about the permissions \(user and group-membership security principals\) retrieved by the crawl.
 -   **[Analytics for external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/analytics-external-content-connectors.md)**  
-[[c_MetricDefinitionSupport|Metrics]] that show how your external content connector has run over time.
+Metrics that show how your external content connector has run over time.
 -   **[Reassign the External Content Connectors Service Account user to the global domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reassign-ext-cont-connectors-svc-acct-usr-global-domain.md)**  
 Fix issues with missing user permissions for users on your instance by reassigning the External Content Connectors Service Account user to the global domain.
 
 **Parent Topic:**[External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ext-cont-connectors-landing-page.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[c_MetricDefinitionSupport|Metrics]]

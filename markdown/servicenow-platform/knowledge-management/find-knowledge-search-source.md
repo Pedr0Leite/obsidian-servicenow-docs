@@ -48,7 +48,7 @@ Source Table
 
 </td><td>
 
-[[label|Label]] and name of the source table.For example, Knowledge \[kb\_knowledge\], Service Portal \[sp\_portal\], Case \[sn\_customerservice\_case\], Incident \[incident\], Problem \[problem\], KCS Article \[kb\_template\_kcs\_article\]
+Label and name of the source table.For example, Knowledge \[kb\_knowledge\], Service Portal \[sp\_portal\], Case \[sn\_customerservice\_case\], Incident \[incident\], Problem \[problem\], KCS Article \[kb\_template\_kcs\_article\]
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Application where the knowledge article search was performed.The **Source Type**
  -   **Portal**: Service Portal application
 -   **Classic**: ServiceNow AI Platform application
 -   **Workspace**: Agent assist in Workspace
--   **Knowledge Classic**: [[knowledge-management|Knowledge Management]] v3 or v2
+-   **Knowledge Classic**: Knowledge Management v3 or v2
 -   **Other**: Unidentifiable source
 
 
@@ -82,7 +82,3 @@ URL of the searched text query.
 
 [View knowledge logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/view-knowledge-logs.md)
 
-## Related
-
-- [[label|Label]]
-- [[knowledge-management|Knowledge Management]]

@@ -14,9 +14,5 @@ breadcrumb: [Talent Feedback, Growth Experiences, HR Service Delivery, Employee 
 
 # Talent Feedback reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide more information regarding the dependencies, components, and tables installed along with [[talent-feedback-landing|Talent Feedback]].
+Reference topics provide more information regarding the dependencies, components, and tables installed along with Talent Feedback.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[talent-feedback-landing|Talent Feedback]]

@@ -14,7 +14,7 @@ breadcrumb: [Atlassian Jira Integration for Agile Development, Strategic Portfol
 
 # Components installed with Atlassian Jira integration for Agile Development
 
-Several types of components are installed with activation of the [[agile-jira-integration-overview|Atlassian Jira integration for Agile Development]] application, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Atlassian Jira integration for Agile Development application, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -51,7 +51,7 @@ Jira integration user\[sn\_jira\_int.user\]
 
 </td><td>
 
--   Sets up integration between Jira and [[agile-development|Agile Development]]
+-   Sets up integration between Jira and Agile Development
 -   Can create new or update the existing map configurations between Jira and Agile Development
 
 </td><td>
@@ -223,7 +223,3 @@ Stores details of the registry callback path for webhooks registered in Jira to 
 </td></tr></tbody>
 </table>**Parent Topic:**[Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/agile-jira-integration-overview.md)
 
-## Related
-
-- [[agile-jira-integration-overview|Atlassian Jira Integration for Agile Development]]
-- [[agile-development|Agile Development]]

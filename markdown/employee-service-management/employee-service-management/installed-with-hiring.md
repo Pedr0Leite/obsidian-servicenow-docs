@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Components installed with Hiring Connector
 
-The following are the components installed with the activation of the [[hiring-tab-concept|Hiring]] Connector plugin.
+The following are the components installed with the activation of the Hiring Connector plugin.
 
 ## Tables installed
 
@@ -75,6 +75,3 @@ Gathers details of the profile link data.
 </td></tr></tbody>
 </table>**Parent Topic:**[Hiring Experiences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-frmwrk-ta.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

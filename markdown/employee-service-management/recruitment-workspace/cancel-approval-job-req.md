@@ -22,14 +22,14 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]].**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace.**.
 
 2.  Go to the recruitment dashboard and open the job requisition.
 
 3.  Select **Cancel Approval**.
 
     -   When you cancel an approval request, the state changes to canceled on the **Approvers** tab.
-    -   The cancelled notification also shows up on the [[activity-lxp|Activity]] stream.
+    -   The cancelled notification also shows up on the Activity stream.
 
 **Parent Topic:**[Manage the job requisitions as a recruiter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/manage-job-reqs.md)
 
@@ -52,7 +52,3 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 [Open a job requisition in your ATS]()
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[activity-lxp|Activity]]

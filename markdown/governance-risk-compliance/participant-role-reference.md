@@ -12,7 +12,7 @@ breadcrumb: [Add a participant role for the scenario analysis, Completing genera
 
 # GRC Choice New record form
 
-Use the [[event-group-reference|GRC Choice New record form]] to add a role for the participants of your [[scenario-analysis-ov|scenario analysis]].
+Use the GRC Choice New record form to add a role for the participants of your scenario analysis.
 
 ## GRC Choice New record form for the role
 
@@ -20,7 +20,7 @@ For a description of the field values, see the following table.
 
 |Field|Description|
 |-----|-----------|
-|Set|View that is set to [[grc-opres-landing-page|Operational Resilience]] by default.|
+|Set|View that is set to Operational Resilience by default.|
 |Name|Name of the role. For example, Facilities or Finance.|
 |Label|Label for the role that appears in the UI.|
 |Choice category|Category that is set to **Role** by default.|
@@ -28,8 +28,3 @@ For a description of the field values, see the following table.
 |Order|Order of the role. This field displays the order of the participant role in the GRC Choice table.|
 |Parent|Parent category that you associate with the role.|
 
-## Related
-
-- [[event-group-reference|GRC Choice New record form]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]

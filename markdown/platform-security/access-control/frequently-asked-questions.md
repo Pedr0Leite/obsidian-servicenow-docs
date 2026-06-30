@@ -14,11 +14,11 @@ breadcrumb: [Access Analyzer, Access Management]
 
 # Frequently Asked Questions
 
-[[faq-access-simulator|Frequently asked questions]] while [[use-access-analyzer|using Access Analyzer]].
+Frequently asked questions while using Access Analyzer.
 
 ## Evaluate Access
 
-The following are frequently asked questions while using the Evaluate Access feature of [[access-analyzer|Access Analyzer]]:
+The following are frequently asked questions while using the Evaluate Access feature of Access Analyzer:
 
 <table id="table_nrd_cpb_1yb"><thead><tr><th>
 
@@ -34,7 +34,7 @@ How to read the evaluation results displayed by the Access Analyzer?
 
 </td><td>
 
-Each row represents an individual [[sc-access-control|access control]] list \(ACL\). The sequence \(\#\) in the results represents the order in which ACLs are evaluated. Status shows whether overall access is granted \(passed\) or denied \(blocked\).
+Each row represents an individual access control list \(ACL\). The sequence \(\#\) in the results represents the order in which ACLs are evaluated. Status shows whether overall access is granted \(passed\) or denied \(blocked\).
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ How are ACLs evaluated?
 
 </td><td>
 
-At a table level, ACLs are evaluated only for roles and [[security-attributes-landing|security attributes]]. Conditions and scripts aren’t evaluated.
+At a table level, ACLs are evaluated only for roles and security attributes. Conditions and scripts aren’t evaluated.
 
  Roles are evaluated first. If Roles are blocked, conditions and scripts are skipped. For more information, see [Configure an ACL rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/t_CreateAnACLRule.md).
 
@@ -91,7 +91,7 @@ What is an ACL rule?
 
 </td><td>
 
-Rules for access control lists \(ACLs\) restrict access to data by requiring [[users|users]] to pass a set of requirements before they can interact with it.
+Rules for access control lists \(ACLs\) restrict access to data by requiring users to pass a set of requirements before they can interact with it.
 
 </td></tr></tbody>
 </table>Time limited role assignments found for the user may impact results. You can review the time-limited roles assigned for the user here.
@@ -201,12 +201,3 @@ You can select the **Group \(node\)** &gt; **More actions** &gt; **View group de
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[faq-access-simulator|Frequently Asked Questions]]
-- [[use-access-analyzer|Using Access Analyzer]]
-- [[access-analyzer|Access Analyzer]]
-- [[sc-access-control|Access control]]
-- [[security-attributes-landing|Security Attributes]]
-- [[users|Users]]

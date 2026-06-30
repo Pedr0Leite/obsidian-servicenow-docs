@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management, IT Asset Management]
 
 # Software Asset Management references
 
-Use the descriptions provided to help you fill in the [[c_SoftwareAssetMgmt|Software Asset Management]] forms.
+Use the descriptions provided to help you fill in the Software Asset Management forms.
 
 -   **[Components installed with Software Asset Management Professional](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-installed-components.md)**  
 Roles, plugins, and scheduled jobs are installed with the activation of the Software Asset Management Professional application. Demo data is available with this application.
@@ -23,17 +23,17 @@ Types of license agreements determine the product usage rights.
 -   **[Software Asset Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-properties.md)**  
 You can set default reconciliation properties such as grouping and reconciliation debugging.
 -   **[Components installed with the Microsoft SCCM software usage plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sccm-sam-components.md)**  
-Several types of components are installed with activation of the [[sccm-software-usage|Microsoft SCCM software usage]] plugin.
+Several types of components are installed with activation of the Microsoft SCCM software usage plugin.
 -   **[License calculation for SAP cloud use types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/license-calculation-sap-cloud.md)**  
 Use SAP S/4HANA cloud use types and their weighting factors to calculate Full Usage Equivalent \(FUE\) licenses for different types of users of SAP S/4HANA Cloud applications.
 -   **[License usage breakdown for CrowdStrike products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/license-usage-crowdstrike.md)**  
-View the [[license-usage-crowdstrike|license usage breakdown for CrowdStrike products]] to understand how your license rights are used and the methodology behind license calculations.
+View the license usage breakdown for CrowdStrike products to understand how your license rights are used and the methodology behind license calculations.
 -   **[Discovery models fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/discovery-model-fields.md)**  
-Discovery [[c_Models|Models]] form and related list field descriptions.
+Discovery Models form and related list field descriptions.
 -   **[Software installation fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-installation-fields.md)**  
 Software Installation form and related list field descriptions.
 -   **[Normalization statuses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/normalization-status.md)**  
-Description of [[normalization-status|normalization statuses]] for discovery models.
+Description of normalization statuses for discovery models.
 -   **[License metrics for Microsoft products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/mapping-ms-license-metrics.md)**  
 A detailed description of the license metrics that can be used with Microsoft products.
 -   **[Licensing rules for BYOL and BYOS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/byol-license-rules.md)**  
@@ -43,7 +43,7 @@ Software Model form and related list field descriptions.
 -   **[Group allocations fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/group-allocation-fields.md)**  
 Group allocations form and related fields description.
 -   **[Software model metric attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sw-metric-attributes.md)**  
-[[sw-metric-attributes|Software model metric attributes]] and related list field descriptions.
+Software model metric attributes and related list field descriptions.
 -   **[Subscription downgrade configuration condition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-downgrade-config-conditions.md)**  
 Determine various downgrade configuration conditions for SaaS applications and view the downgrade order based on the conditions.
 -   **[Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md)**  
@@ -71,11 +71,11 @@ View licensing optimizations for Adobe by selecting **Adobe** from the **Publish
 -   **[Microsoft Core License Optimization Reports fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-core-license-optimization-report-fields.md)**  
 Field descriptions for the Microsoft Core License Optimization Reports \[samp\_ms\_optimization\_report\] table.
 -   **[Maturity item details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-maturity-item-details.md)**  
-Fields on the [[maturity-item-details|Maturity item details]] form help you view and update the state and success goal of the maturity item.
+Fields on the Maturity item details form help you view and update the state and success goal of the maturity item.
 -   **[Maturity stages of your Software Asset Management program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-maturity-stages.md)**  
 The maturity of your Software Asset Management program is divided into three stages such as Crawl, Walk, and Run.
 -   **[SAM Success Goal Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-success-goal-details.md)**  
-Fields on the [[sam-success-goal-details|SAM Success Goal Details]] help you create success goals for tracking the success of the Software Asset Management application in your instance.
+Fields on the SAM Success Goal Details help you create success goals for tracking the success of the Software Asset Management application in your instance.
 -   **[Sample payload for generic software install records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/payload-details.md)**  
 A sample payload that populates the Software Installation \[cmdb\_sam\_sw\_install\] table in the ServiceNow instance with discovery data collected by third-party discovery sources.
 -   **[Sample payload for Oracle software install records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/payload-oracle.md)**  
@@ -87,19 +87,19 @@ A sample payload for the Citrix publisher pack that populates the Software Insta
 -   **[Sample payload for BYOL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sample-payload-byol.md)**  
 A sample payload that populates the Software Installation \[cmdb\_sam\_sw\_install\] table in the ServiceNow instance with discovery data collected by the BYOL licensing model.
 -   **[SAM Success Activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-success-activity.md)**  
-Fields on the [[sam-success-activity|SAM Success Activity]] form help you create success activities to track the success of your created goals.
+Fields on the SAM Success Activity form help you create success activities to track the success of your created goals.
 -   **[SaaS detection report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/shadow-saas-analytics.md)**  
-Use the [[shadow-saas-analytics|SaaS detection report]] to discover and manage all SaaS applications accessed via a browser and configured within the ServiceNow® Agent Client Collector for Visibility - Content \(ACC-VC\) product. The SaaS applications that can be managed through this report can be paid or free ones.
+Use the SaaS detection report to discover and manage all SaaS applications accessed via a browser and configured within the ServiceNow® Agent Client Collector for Visibility - Content \(ACC-VC\) product. The SaaS applications that can be managed through this report can be paid or free ones.
 -   **[Scheduled jobs for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-scheduled-jobs.md)**  
-Your [[microsoft-o365|Microsoft 365 integration]] profile is set to fetch subscription and usage information automatically from the Microsoft 365 Admin Center on a schedule. If needed, you can also manually run the following scheduled jobs to get this information. Each job must be complete before starting the next one.
+Your Microsoft 365 integration profile is set to fetch subscription and usage information automatically from the Microsoft 365 Admin Center on a schedule. If needed, you can also manually run the following scheduled jobs to get this information. Each job must be complete before starting the next one.
 -   **[Scheduled jobs for Adobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-scheduled-jobs.md)**  
 Your Adobe integration profile is set to fetch subscription and usage information automatically from the Adobe portal on a scheduled basis. If needed, you can also run the following scheduled jobs manually to get this information. Each job must be complete before starting the next one.
 -   **[Reclamation rules for SaaS and SSO applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/reclamation-rules.md)**  
 Reclaim unused SaaS and Single sign-on \(SSO\) subscriptions to reduce your total software costs.
 -   **[Reclamation rules for Microsoft 365 integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-reclamation-rules.md)**  
-[[m365-reclamation-rules|Reclamation rules for Microsoft 365 integration]] sets the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, Software Asset Management marks the subscription as a potential reclamation candidate.
+Reclamation rules for Microsoft 365 integration sets the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, Software Asset Management marks the subscription as a potential reclamation candidate.
 -   **[Reclamation rules for Adobe integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/reclamation-rules-adobe.md)**  
-[[reclamation-rules-adobe|Reclamation rules for Adobe integration]] set the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, the Software Asset Management application marks the subscription as a potential reclamation candidate.
+Reclamation rules for Adobe integration set the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, the Software Asset Management application marks the subscription as a potential reclamation candidate.
 -   **[Microsoft 365 Apps Usage Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/m365-apps-usage-report.md)**  
 Find the last activity date for Microsoft 365 products to determine reclamation candidates.
 -   **[Subscription downgrade configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-downgrade-configuration.md)**  
@@ -119,18 +119,3 @@ Validate that Software Asset Management still works after you make any configura
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sccm-software-usage|Microsoft SCCM software usage]]
-- [[license-usage-crowdstrike|License usage breakdown for CrowdStrike products]]
-- [[c_Models|Models]]
-- [[normalization-status|Normalization statuses]]
-- [[sw-metric-attributes|Software model metric attributes]]
-- [[maturity-item-details|Maturity item details]]
-- [[sam-success-goal-details|SAM Success Goal Details]]
-- [[sam-success-activity|SAM Success Activity]]
-- [[shadow-saas-analytics|SaaS detection report]]
-- [[microsoft-o365|Microsoft 365 integration]]
-- [[m365-reclamation-rules|Reclamation rules for Microsoft 365 integration]]
-- [[reclamation-rules-adobe|Reclamation rules for Adobe integration]]

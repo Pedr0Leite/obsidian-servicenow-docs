@@ -26,7 +26,7 @@ Sprint and Planning Interval are the two planning calendars available by default
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the **Settings** menu, select **Enterprise Agile Planning** &gt; **Planning calendars**.
 
@@ -98,6 +98,3 @@ A brief description of the calendar, its use case, and other details.
 
 Create entries for the newly created calendar. See [Create calendar entries for iterations in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-calendar-entries-in-eap.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

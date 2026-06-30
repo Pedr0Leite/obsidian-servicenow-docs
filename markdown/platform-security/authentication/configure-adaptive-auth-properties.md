@@ -14,7 +14,7 @@ breadcrumb: [Adaptive authentication, Authentication, Access Management]
 
 # Configure adaptive authentication properties
 
-After activating [[adaptive-authentication|adaptive authentication]], configure adaptive authentication properties according to your security requirements.
+After activating adaptive authentication, configure adaptive authentication properties according to your security requirements.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **[[authentication-policies|Authentication Policies]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **Properties**.
 
 2.  Configure these properties:
 
@@ -40,7 +40,7 @@ Value
 
 </th></tr></thead><tbody><tr><td>
 
-Enable [[c_Authentication|Authentication]] Policy \(glide.authenticate.auth.policy.enabled\)
+Enable Authentication Policy \(glide.authenticate.auth.policy.enabled\)
 
 </td><td>
 
@@ -126,7 +126,7 @@ Yes \| No
 
 </td></tr><tr><td>
 
-Property to enable the Session Validation feature. Set this to true after activating the [[session-context|Session Validation Context]]'s Policy and setting up your desired filters and conditions \(session.validation.enabled\)
+Property to enable the Session Validation feature. Set this to true after activating the Session Validation Context's Policy and setting up your desired filters and conditions \(session.validation.enabled\)
 
 </td><td>
 
@@ -138,10 +138,3 @@ Yes \| No
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[adaptive-authentication|Adaptive authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[c_Authentication|Authentication]]
-- [[session-context|Session validation context]]

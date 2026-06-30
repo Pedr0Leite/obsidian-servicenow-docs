@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery
 
 # Kiosk Page Configuration form
 
-Use the Kiosk Page Configuration form to create pages for the [[workplace-services-kiosk|Workplace Services Kiosk]].
+Use the Kiosk Page Configuration form to create pages for the Workplace Services Kiosk.
 
 <table id="table_tks_nnv_tbc"><thead><tr><th>
 
@@ -86,7 +86,7 @@ Record producer
 
 </td><td>
 
-Record producer that contains the self-registration logic. This field appears only if the page type is **Self-registration**.You can use the default **WSD VM Self registration** record producer that is included with the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application.
+Record producer that contains the self-registration logic. This field appears only if the page type is **Self-registration**.You can use the default **WSD VM Self registration** record producer that is included with the Workplace Visitor Management application.
 
 </td></tr><tr><td>
 
@@ -133,7 +133,3 @@ The Variables related list contains the variables that are included with the rec
 
 [Additional requirement form]()
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

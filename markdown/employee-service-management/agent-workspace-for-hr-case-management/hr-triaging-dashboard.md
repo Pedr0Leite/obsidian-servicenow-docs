@@ -44,12 +44,12 @@ Role required: sn\_hr\_core.case\_writer
 
 4.  In the Settings section, perform the following steps:
 
-    -   Select a COE \(Centers of Excellence\) to view only the HR cases specific to that COE. HR Centers of Excellence categorize cases based on unique function or discipline such as payroll or [[hr-case-employee-relations|employee relations]].
+    -   Select a COE \(Centers of Excellence\) to view only the HR cases specific to that COE. HR Centers of Excellence categorize cases based on unique function or discipline such as payroll or employee relations.
     -   Specify filter criteria to select fields that you want to view on the HR case card. Use the **Filter** criteria, or select the fields manually by expanding the **Fields to show on case card**.
     -   Choose a lane by selecting a value from the **Vertical lane** list: HR service, or priority or HR assignment group.
 
         1.  Select **HR Service** in the **Vertical lane** list.
-        2.  Select the [[hr-service-administration|HR services]] that you want to view as vertical lanes in the HR Triaging dashboard.
+        2.  Select the HR services that you want to view as vertical lanes in the HR Triaging dashboard.
         3.  Select the required value in the **Transfer method** field.
 
             |Field value|Description|
@@ -77,7 +77,3 @@ Role required: sn\_hr\_core.case\_writer
     2.  **Priority** as lane heading: When you drag a case from the one lane to another, the priority of case is updated to the respective lane value.
     3.  **Assignment group** as lane heading: When you drag a case from the one lane to another, the case is assigned to the respective lane user.
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-administration|HR services]]

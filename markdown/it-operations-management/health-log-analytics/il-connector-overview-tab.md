@@ -15,7 +15,7 @@ breadcrumb: [Log data flow monitoring and configuration optimization, Set up int
 
 # Review log streaming data and adjust integration settings in Health Log Analytics
 
-Review the log data streaming status and streaming sources of an active integration for [[hla-landing-page|Health Log Analytics]] on the integration's Overview screen. From this tab, you can investigate streaming issues and refine the integration settings. Leverage the displayed data to refine how HLA reads the log data by adjusting the integration's configuration.
+Review the log data streaming status and streaming sources of an active integration for Health Log Analytics on the integration's Overview screen. From this tab, you can investigate streaming issues and refine the integration settings. Leverage the displayed data to refine how HLA reads the log data by adjusting the integration's configuration.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Confirm that the integration has been activated on the Integrations Launchpad. F
 
 For MID-less or OpenTelemetry Protocol \(OTLP\) integrations, verify that the **mid.hla.itom\_gateway\_streaming.enabled** property is set to true in the MID Server properties to enable displaying the ITOM Gateway component on the Overview screen.
 
-To access the Log Viewer from the Overview tab with context from the integration, you must have the ServiceNow [[workspace-dashboard-use|Service Operations Workspace]] Log Analytics application installed.
+To access the Log Viewer from the Overview tab with context from the integration, you must have the ServiceNow Service Operations Workspace Log Analytics application installed.
 
 Role required: evt\_mgmt\_admin
 
@@ -37,7 +37,7 @@ For more information about interpreting and using the data shown in the **Overvi
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -109,8 +109,3 @@ Opens the **Log Viewer**, which shows the frequency of anomalies in the log data
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

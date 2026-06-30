@@ -14,13 +14,13 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Related lists of a test version in Agile Development 2.0
 
-Use the related lists in the Test version form for the actions that you need to perform on your test in [[agile-landing-page|Agile Development 2.0]], such as verifying the test results, viewing other associated test versions and test sets.
+Use the related lists in the Test version form for the actions that you need to perform on your test in Agile Development 2.0, such as verifying the test results, viewing other associated test versions and test sets.
 
 |Related list|Description|
 |------------|-----------|
 |Other versions|Shows all the versions of a test.|
 |Test Results|Shows the run results of each test version.|
-|Test Sets|Shows related [[c_Tests|tests]] in a test set.|
+|Test Sets|Shows related tests in a test set.|
 
 **Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
@@ -29,7 +29,3 @@ Use the related lists in the Test version form for the actions that you need to 
 
 [Track sprint progress in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/sprint-tracking-list.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]

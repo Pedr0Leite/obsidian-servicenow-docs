@@ -29,7 +29,7 @@ The procedure in this section explains how to access the Source Type Properties 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Source Type Structures**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Source Type Structures**.
 
 2.  Open a source type structure record.
 
@@ -127,6 +127,3 @@ Only for properties classified as METER: Sample unique values tracked by the sys
 
 **Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-extra.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

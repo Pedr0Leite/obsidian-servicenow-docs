@@ -14,10 +14,10 @@ breadcrumb: [Managing major incidents, Incident Management, IT Service Managemen
 
 # Working on major incident management
 
-The section covers topics that help you with a variety of technical concepts related to major [[c_IncidentManagement|incident management]] such as the different ways to [[create-a-major-incident|create a major incident]], ways to reject a major incident candidate, [[demote-major-incident|demote a major incident]], or [[close-major-incident|close a major incident]].
+The section covers topics that help you with a variety of technical concepts related to major incident management such as the different ways to create a major incident, ways to reject a major incident candidate, demote a major incident, or close a major incident.
 
 -   **[Create a major incident candidate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-major-incident-candidate.md)**  
-You can [[create-major-incident-candidate|create a major incident candidate]] in multiple ways. After a major incident candidate is created, the major incident manager evaluates the candidate and decides whether the candidate should be promoted to a major incident.
+You can create a major incident candidate in multiple ways. After a major incident candidate is created, the major incident manager evaluates the candidate and decides whether the candidate should be promoted to a major incident.
 -   **[Create a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/create-a-major-incident.md)**  
 Create a major incident directly or review the candidates and promote the candidates to major incidents.
 -   **[Major incident assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-assignment.md)**  
@@ -27,7 +27,7 @@ When an incident is proposed as a major incident candidate, a major incident man
 -   **[Associate multiple incidents with a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/asso-multi-inci-with-major-inci.md)**  
 You can associate one or more incidents with a major incident using the Actions menu.
 -   **[Reject multiple major incident candidates using the Actions menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reject-candi-using-actions-menu.md)**  
-You can reject one or more [[major-incidents-candidate|major incident candidates]] using the Actions menu. If you decide that the candidates do not qualify to be major incidents, then you can reject multiple candidates at once and provide the rejection reason.
+You can reject one or more major incident candidates using the Actions menu. If you decide that the candidates do not qualify to be major incidents, then you can reject multiple candidates at once and provide the rejection reason.
 -   **[Demote a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/demote-major-incident.md)**  
 When an incident is incorrectly evaluated to be a major incident, you can demote the major incident even after it is accepted so that the incident can be handled as a regular incident.
 -   **[Close a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/close-major-incident.md)**  
@@ -37,11 +37,3 @@ When an incident enters the major incident life cycle, the **Major Incident** an
 
 **Parent Topic:**[Managing major incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-management.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[create-a-major-incident|Create a major incident]]
-- [[demote-major-incident|Demote a major incident]]
-- [[close-major-incident|Close a major incident]]
-- [[create-major-incident-candidate|Create a major incident candidate]]
-- [[major-incidents-candidate|Major incident candidates]]

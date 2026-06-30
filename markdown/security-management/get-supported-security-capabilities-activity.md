@@ -44,8 +44,5 @@ The output variables contain data that can be used in subsequent actions.
 |supportedCapabilities|List of integrations that support the capability.|
 |capabilityCount|Number of integrations that support the capability.|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]

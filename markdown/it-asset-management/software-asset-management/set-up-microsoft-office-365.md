@@ -22,15 +22,15 @@ ServiceNow Role required: sam\_integrator
 
 To integrate with Microsoft 365, activate the following plugins:
 
--   [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Microsoft \(com.snc.samp.microsoft\) plugin
--   Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) plugin from the [ServiceNow Store](https://store.servicenow.com/)
+-   Software Asset Management Professional for Microsoft \(com.snc.samp.microsoft\) plugin
+-   Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) plugin from the [ServiceNow Store](https://store.servicenow.com/)
 
     For more information, see [Request SaaS License Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/request-saas-license-management.md).
 
 
 ## About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the direct integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the direct integration profile in Core UI is inactive.
 
 ## Procedure
 
@@ -54,7 +54,7 @@ Navigate to **All** &gt; **Software Asset** &gt; **SaaS License** &gt; **Direct 
 
 </td></tr><tr><td id="d188648e159">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -65,7 +65,7 @@ Navigate to **All** &gt; **Software Asset** &gt; **SaaS License** &gt; **Direct 
 </td></tr></tbody>
 </table>2.  Select **New**.
 
-3.  Select **[[microsoft-o365|Microsoft 365 Integration]] Profile**.
+3.  Select **Microsoft 365 Integration Profile**.
 
 4.  On the form, fill in the fields.
 
@@ -159,7 +159,7 @@ The type of permission for the integration profile to access data correctly and 
 
 ## What to do next
 
-View all automatically generated [[c_CreatingSoftwareModels|software models]] for Microsoft 365 by navigating to **Integration - Microsoft 365** &gt; **Software Models**. A software model is a profile of the software that you have purchased, including information about the publisher, version, and discovery map. Software models record publisher information and create a profile.
+View all automatically generated software models for Microsoft 365 by navigating to **Integration - Microsoft 365** &gt; **Software Models**. A software model is a profile of the software that you have purchased, including information about the publisher, version, and discovery map. Software models record publisher information and create a profile.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select a Microsoft 365 integration profile to view the following related lists:
 
@@ -186,11 +186,3 @@ When you create an integration profile, a reclamation rule is automatically crea
 
 [Software Asset Management software suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-suites.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[microsoft-o365|Microsoft 365 integration]]
-- [[c_CreatingSoftwareModels|Software models]]

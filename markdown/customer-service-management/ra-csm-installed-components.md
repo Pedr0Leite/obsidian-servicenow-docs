@@ -12,7 +12,7 @@ breadcrumb: [Install the Recommended Actions application, Recommended Actions co
 
 # Components installed with Recommended Actions
 
-Several types of components are installed with the [[configure-nba|Recommended Actions]] application, including tables, roles, guidances, resource generators, and scheduled jobs.
+Several types of components are installed with the Recommended Actions application, including tables, roles, guidances, resource generators, and scheduled jobs.
 
 ## Tables
 
@@ -112,7 +112,7 @@ Rule\[sn\_nb\_action\_condition\_based\_rule\]
 
 </td><td>
 
-Stores [[gamification-components-rules|rules]], which include a condition and roles for the context.
+Stores rules, which include a condition and roles for the context.
 
 </td></tr><tr><td>
 
@@ -277,15 +277,15 @@ Create case task
 
 </td><td>
 
-Enables agents to [[osp-create-case-task|create a case task]] for the current case by clicking a **Create** button on a card, which opens the guidance in the side panel where the agent can enter a subject for a new case task and submit it.
+Enables agents to create a case task for the current case by clicking a **Create** button on a card, which opens the guidance in the side panel where the agent can enter a subject for a new case task and submit it.
 
 </td></tr><tr><td>
 
-[[osp-create-work-order|Create Work Order]]
+Create Work Order
 
 </td><td>
 
-Enables agents to [[create-work-orders|create a work order]] for a case by clicking a **Create** button on a card. Creates a work order task and opens the task in a subtab.
+Enables agents to create a work order for a case by clicking a **Create** button on a card. Creates a work order task and opens the task in a subtab.
 
 </td></tr><tr><td>
 
@@ -361,10 +361,3 @@ The Recommended Actions application includes the resource generators described i
 |Find Matching PRB with workaround|Finds a matching problem record that has a workaround. You can propose to share the workaround from this case as a recommended action.|
 |Find Matching PRB without workaround|Finds a matching problem record without a workaround. You can propose to link to this problem record as a recommended action.|
 
-## Related
-
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[osp-create-case-task|Create a case task]]
-- [[osp-create-work-order|Create work order]]
-- [[create-work-orders|Create a work order]]

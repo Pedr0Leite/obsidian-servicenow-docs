@@ -14,17 +14,17 @@ breadcrumb: [Indexing and searching external content, Configuring AI Search, AI 
 
 # Request the External Content for AI Search plugin
 
-Request activation of the External Content for [[ia-ai-search|AI Search]] plugin \(com.glide.ais.external\_content\) to enable indexing of searchable content and metadata from records in external data sources.
+Request activation of the External Content for AI Search plugin \(com.glide.ais.external\_content\) to enable indexing of searchable content and metadata from records in external data sources.
 
 ## Before you begin
 
-You must purchase a paid subscription before requesting activation of the plugin. For details on purchasing a paid subscription for a plugin, see [[c_ServiceNowPlugins|ServiceNow plugins]].
+You must purchase a paid subscription before requesting activation of the plugin. For details on purchasing a paid subscription for a plugin, see [ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md).
 
 Role required: admin
 
 ## About this task
 
-You can't activate the External Content for AI Search plugin from your instance or the [[servicenow-store|ServiceNow Store]]. Use this procedure to submit a Now Support request for activation of the plugin for your instance.
+You can't activate the External Content for AI Search plugin from your instance or the ServiceNow Store. Use this procedure to submit a Now Support request for activation of the plugin for your instance.
 
 ## Procedure
 
@@ -73,14 +73,8 @@ Select the date and time to activate the plugin.
 
 4.  Select **Submit**.
 
-    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the [[application-manager|Application Manager]].
+    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
 **Parent Topic:**[Indexing and searching external content in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-ais.md)
 
-## Related
-
-- [[c_ServiceNowPlugins|ServiceNow plugins]]
-- [[ia-ai-search|AI Search]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

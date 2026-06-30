@@ -54,7 +54,7 @@ Create a contract document revision from the contract template that includes the
 
 </td></tr><tr><td id="d779164e111">
 
-**Sync the document__Note:__ This option is available on [[cncore-cmpro-landing-page|Contract Management Pro]] starting with version 1.2.1
+**Sync the document__Note:__ This option is available on Contract Management Pro starting with version 1.2.1
 
 **
 
@@ -104,6 +104,3 @@ A contract that has been signed outside Contract Management Pro. Signature reque
 </table>
 **Parent Topic:**[Use self-served contract request]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

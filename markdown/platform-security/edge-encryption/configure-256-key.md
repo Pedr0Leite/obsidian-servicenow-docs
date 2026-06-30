@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Configure the AES 256-bit encryption key
 
-After you configure the AES 128-bit key through the Edge proxy installer, you can optionally configure an AES 256-bit [[encryption-landing|encryption]] key to encrypt your data.
+After you configure the AES 128-bit key through the Edge proxy installer, you can optionally configure an AES 256-bit encryption key to encrypt your data.
 
 ## Before you begin
 
@@ -117,6 +117,3 @@ Import an encryption key from a different keystore.
 
 **Next topic:**[Update SSL certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/update-ssl-certificate.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]

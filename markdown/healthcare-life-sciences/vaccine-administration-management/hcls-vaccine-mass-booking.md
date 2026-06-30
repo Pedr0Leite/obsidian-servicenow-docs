@@ -18,7 +18,7 @@ Schedule appointments for multiple users at the same time instead of having user
 
 ## Before you begin
 
-Navigate to **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Properties**.
+Navigate to **Vaccine Administration Management** &gt; **Administration** &gt; **Properties**.
 
 Set the following property values in the System Property \[sys\_property\] table.
 
@@ -120,6 +120,3 @@ When you're ready to schedule the appointments, return to the configuration reco
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

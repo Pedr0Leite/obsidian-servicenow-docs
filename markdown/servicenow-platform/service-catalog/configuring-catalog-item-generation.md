@@ -15,11 +15,11 @@ breadcrumb: [Now Assist in Catalog Builder, Service Catalog, Manage service capa
 
 # Configuring Now Assist in Catalog Builder
 
-Install and configure [[now-assist-for-catalog-generation|Now Assist in Catalog Builder]].
+Install and configure Now Assist in Catalog Builder.
 
 ## Configuration overview
 
-Along with the installation of Now Assist in Catalog Builder application, you must activate the [[now-assist-catalog-item-generation|Catalog item generation]] skill.
+Along with the installation of Now Assist in Catalog Builder application, you must activate the Catalog item generation skill.
 
 **Parent Topic:**[Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)
 
@@ -30,7 +30,3 @@ Along with the installation of Now Assist in Catalog Builder application, you mu
 
 [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)
 
-## Related
-
-- [[now-assist-for-catalog-generation|Now Assist in Catalog Builder]]
-- [[now-assist-catalog-item-generation|Catalog item generation]]

@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events logging, Using Lifecycle Events, Lifecycle Events,
 
 # View log entries for a Lifecycle Events case
 
-View the log entries associated with a [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] case to acquire pertinent information about the processes that ran and to identify any errors that surface. The error logs can be used as a tool to diagnose problems and effectively troubleshoot the root cause of an issue that is adversely affecting a Lifecycle Events case.
+View the log entries associated with a Lifecycle Events case to acquire pertinent information about the processes that ran and to identify any errors that surface. The error logs can be used as a tool to diagnose problems and effectively troubleshoot the root cause of an issue that is adversely affecting a Lifecycle Events case.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: sn\_hr\_le.admin
 
 **Parent Topic:**[Lifecycle Events logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/le-logging.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

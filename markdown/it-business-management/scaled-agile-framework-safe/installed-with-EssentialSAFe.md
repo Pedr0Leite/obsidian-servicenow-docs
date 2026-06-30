@@ -14,7 +14,7 @@ breadcrumb: [Essential SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfoli
 
 # Components installed with Essential SAFe
 
-Several types of components are installed with activation of the Agile - Scaled Agile Framework - [[essential-overview|Essential SAFe]] plugin \(com.snc.sdlc.safe\), including tables and user roles.
+Several types of components are installed with activation of the Agile - Scaled Agile Framework - Essential SAFe plugin \(com.snc.sdlc.safe\), including tables and user roles.
 
 ## Roles installed
 
@@ -240,7 +240,7 @@ Records displayed on the Team level, Board tab.
 
 </td></tr><tr><td>
 
-[[safe-pi-objectives|SAFe PI Objectives]]\[sn\_safe\_pi\_objective\]
+SAFe PI Objectives\[sn\_safe\_pi\_objective\]
 
 </td><td>
 
@@ -260,7 +260,7 @@ Stores the business value achieved per team from PI objectives which is used for
 **Related topics**  
 
 
-[Quick start [[c_Tests|tests]] for Essential SAFe]()
+[Quick start tests for Essential SAFe]()
 
 [SAFe entities]()
 
@@ -270,8 +270,3 @@ Stores the business value achieved per team from PI objectives which is used for
 
 [SAFe Board — Team level]()
 
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[safe-pi-objectives|SAFe PI objectives]]
-- [[c_Tests|Tests]]

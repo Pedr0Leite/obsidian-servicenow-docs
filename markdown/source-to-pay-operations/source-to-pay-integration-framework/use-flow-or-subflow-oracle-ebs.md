@@ -34,7 +34,7 @@ Role required: sn\_fcms\_intg.integration\_user
 
 4.  Select the required flow from the list.
 
-    For example, select **Create or update or cancel [[purchase-order-table|purchase order]]** flow.
+    For example, select **Create or update or cancel purchase order** flow.
 
     \[Omitted image "oracle-ebs-create-po-flow.png"\] Alt text: Overview of the Create or update purchase order flow
 
@@ -56,6 +56,3 @@ Role required: sn\_fcms\_intg.integration\_user
 
 [Copy a flow or subflow in Oracle EBS]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

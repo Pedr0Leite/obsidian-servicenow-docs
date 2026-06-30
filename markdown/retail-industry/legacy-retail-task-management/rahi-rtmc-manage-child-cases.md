@@ -14,7 +14,7 @@ breadcrumb: [Create multi-store cases, Retail Task Management, Retail]
 
 # Manage child cases in Retail Task Management Core
 
-You can manage child cases created from a parent multi-store case in [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+You can manage child cases created from a parent multi-store case in Retail Task Management Core.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_retail.manager​\_fulfiller
 
 Responsibility required: Store Manager – Fulfiller.
 
-For information on adding roles and responsibilities, see [[rahi-retail-assign-roles-users|Assign roles to Retail users]].
+For information on adding roles and responsibilities, see [Assign roles to Retail users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-assign-roles-users.md).
 
 ## About this task
 
@@ -30,7 +30,7 @@ Child cases created from a multi-store case can be reassigned to users with the 
 
 ## Procedure
 
-1.  In CSM/FSM Configurable Workspace, navigate to **[[rahi-retail-operations-overview|Retail]] Cases**.
+1.  In CSM/FSM Configurable Workspace, navigate to **Retail Cases**.
 
 2.  Select the Retail case that you want to manage.
 
@@ -40,8 +40,4 @@ Child cases created from a multi-store case can be reassigned to users with the 
 
 5.  Fulfill the case and manage as needed.
 
-## Related
 
-- [[rahi-retail-assign-roles-users|Assign roles to Retail users]]
-- [[rahi-retail-task-management-overview|Retail Task Management]]
-- [[rahi-retail-operations-overview|Retail]]

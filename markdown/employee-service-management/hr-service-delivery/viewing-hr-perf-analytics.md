@@ -14,7 +14,7 @@ breadcrumb: [Performance Analytics for HR Service Delivery, Integration of HR Se
 
 # Viewing HR Performance Analytics Scoped
 
-HR Performance Analytics for the scoped version of [[hr-service-delivery|HR Service Delivery]] helps you align resources and systems to strategic objectives.
+HR Performance Analytics for the scoped version of HR Service Delivery helps you align resources and systems to strategic objectives.
 
 Before you can view HR Performance Analytics data, your organization must purchase a subscription to Performance Analytics and an administrator activates the plugin.
 
@@ -94,6 +94,3 @@ For more information about performance analytics and how to develop and modify w
 
 **Parent Topic:**[Performance Analytics for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-performance-analytics.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

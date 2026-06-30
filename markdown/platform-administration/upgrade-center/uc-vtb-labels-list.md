@@ -16,7 +16,7 @@ breadcrumb: [Upgrade Center references, Upgrade Center, Upgrade, Administer the 
 
 The Upgrade Center VTB Labels list under Administration module shows all the labels in the Upgrade Visual Task Board \(VTB\). You can also change the color of the existing labels.
 
-If you want to change the color of an existing label, navigate to **[[uc-landing-page|Upgrade Center]]** &gt; **Administration** &gt; **Properties** &gt; **Upgrade Center VTB Labels**
+If you want to change the color of an existing label, navigate to **Upgrade Center** &gt; **Administration** &gt; **Properties** &gt; **Upgrade Center VTB Labels**
 
 **Note:** If you update the color of an existing label, the change will not be reflected in the current version upgrade related board. The change will be seen only from the next version upgrade.
 
@@ -33,6 +33,3 @@ If you want to change the color of an existing label, navigate to **[[uc-landing
 
 [Upgrade Center roles]()
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

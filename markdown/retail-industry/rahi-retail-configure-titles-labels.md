@@ -12,7 +12,7 @@ breadcrumb: [Configure, Retail]
 
 # Configure related party configurations
 
-Configure the responsibilities of your [[rahi-retail-operations-overview|retail]] staff by linking related party entity responsibilities to responsibility definitions.
+Configure the responsibilities of your retail staff by linking related party entity responsibilities to responsibility definitions.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ For more information, see the Organization Core responsibilities table in [Creat
 
 4.  Select **Submit**.
 
-## Related
 
-- [[rahi-retail-operations-overview|Retail]]

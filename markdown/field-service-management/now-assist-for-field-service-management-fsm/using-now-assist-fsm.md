@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for FSM]
 
 # Using Now Assist for Field Service Management \(FSM\)
 
-You can use [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]] to generate work order task summaries.
+You can use Now Assist for Field Service Management \(FSM\) to generate work order task summaries.
 
 -   **[Generate a work order task summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/generate-wot-summ-fsm.md)**  
 Generate a summary directly from the work order task record.
@@ -30,12 +30,7 @@ You can create a summary of a work order task record using the Now Assist in Vir
 -   **[Use conversational search for technician support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/use-conversational-search-for-technician-support.md)**  
 Ask natural language questions and get answers from the Knowledge Base, including related steps and guidance, from the ServiceNow Agent app.
 -   **[ServiceNow AI Lens form auto-filler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/c_form-auto-filler-fsm.md)**  
-The [[c_form-auto-filler-fsm|ServiceNow AI Lens form auto-filler]] uses AI image recognition to populate form fields from photos that field service technicians capture in the ServiceNow Agent mobile application. Technicians can auto-fill Input Forms and Scripted Input Forms, such as [[smart-assessment-questionnaire|Smart Assessment questionnaires]].
+The ServiceNow AI Lens form auto-filler uses AI image recognition to populate form fields from photos that field service technicians capture in the ServiceNow Agent mobile application. Technicians can auto-fill Input Forms and Scripted Input Forms, such as Smart Assessment questionnaires.
 
 **Parent Topic:**[Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/now-assist-fsm.md)
 
-## Related
-
-- [[now-assist-fsm|Now Assist for Field Service Management \(FSM\)]]
-- [[c_form-auto-filler-fsm|ServiceNow AI Lens form auto-filler]]
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]

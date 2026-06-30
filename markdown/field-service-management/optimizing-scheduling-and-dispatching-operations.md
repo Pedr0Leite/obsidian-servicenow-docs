@@ -23,14 +23,14 @@ Dispatchers are responsible for determining which field agent should attend to w
 The goal of scheduling is to verify that the right task is assigned to the right field service agent at the right time, optimizing resource utilization, and customer satisfaction. Understanding the scheduling mechanisms provides a holistic view of task allocation options available to a dispatcher.
 
 -   Manual: Manual scheduling involves the traditional drag-and-drop method, enabling dispatchers to manually assign tasks to field service agents. While suitable for smaller teams with limited tasks, manual scheduling can be time-consuming and prone to errors.
--   Interactive: Auto-Assign, [[fsm-task-recommendation|Intelligent Task Recommendation]], and Route Optimization
+-   Interactive: Auto-Assign, Intelligent Task Recommendation, and Route Optimization
     -   Auto-Assign manually triggers a scheduling mechanism and finds suitable field service agents based on various parameters. The dispatcher chooses to accept or reject the assignment. Suitable for high volume of tasks needing quick allocation.
-    -   When Intelligent Task Recommendation is used, any free time that agents have between tasks and events is displayed as white space in the agent's calendar. It suggests the best available tasks to fill these gaps in the schedule. This feature is available to both dispatchers in the [[dispatcher-activities|Dispatcher Workspace]] and to field agents in the ServiceNow Agent Mobile Application.
+    -   When Intelligent Task Recommendation is used, any free time that agents have between tasks and events is displayed as white space in the agent's calendar. It suggests the best available tasks to fill these gaps in the schedule. This feature is available to both dispatchers in the Dispatcher Workspace and to field agents in the ServiceNow Agent Mobile Application.
 
         Dispatcher Workspace is a configurable scheduling application that enables you to efficiently route work to field service agents and monitor their performance. Dispatchers can efficiently manage field teams and customer experience to achieve positive outcomes through Dispatcher Workspace. You can also forecast potential problem areas before they arise and maximize operational efficiency for both field teams and customers.
 
     -   Route Optimization reorders tasks post-assignment to minimize driving time.
--   Automatic: [[dynamic-scheduling|Dynamic scheduling]], [[schedule-optimization|Schedule Optimization]], and Intraday Optimization.
+-   Automatic: Dynamic scheduling, Schedule Optimization, and Intraday Optimization.
     -   Dynamic Scheduling auto-assigns incoming tasks based on predefined conditions like skillset or location. This method utilizes predefined rules to assign tasks and is efficient for medium-scale operations, focusing on immediate, individual task assignments. It’s also ideal for tasks with well-defined requirements, such as routine maintenance tasks for a fleet of rental cars. Automatic scheduling can also be triggered from an event, such as when a tech schedules non-available time, tasks are automatically removed and rescheduled. This may be used during vacations or unexpected sick leaves.
     -   Schedule Optimization: Schedule Optimization enables you to optimize task scheduling, auto-assign tasks, and adapt to changing conditions. By applying policies, you can create the best possible schedule that maximizes task management and minimizes travel time. For example, a cleaning service plans its week ahead for multiple clients. Intraday Optimization reoptimizes schedules in real-time based on changing conditions. Useful when tasks are canceled, delayed, or new tasks come in. For example: a cable service provider deals with last-minute cancellations and new installations.
     -   Intraday Optimization reorganizes schedules in real-time based on changing conditions. It is useful when tasks are canceled, delayed, or new tasks come in. For example, a cable service provider deals with last-minute cancellations and new installations.
@@ -42,7 +42,7 @@ Learn to schedule work order tasks among field service agents using automated sc
 Key Considerations for Scheduling:
 
 -   Service Level Agreements \(SLAs\)
--   [[r_TaskWindows|Task Windows]] &amp; Duration
+-   Task Windows &amp; Duration
 -   Task Dependencies
 -   Skills and Parts required
 -   Working Time and Overtime
@@ -55,7 +55,7 @@ The automated scheduling methods consider the key factors and assign tasks to th
 
 ## Efficiently manage technicians and tasks based on location
 
-[[fsm-application-landing-page|Field Service Management]] provides different types of maps. These maps help field service agents, managers, and dispatchers to get tasks done faster.
+Field Service Management provides different types of maps. These maps help field service agents, managers, and dispatchers to get tasks done faster.
 
 -   **Agent map**
 
@@ -81,11 +81,3 @@ The automated scheduling methods consider the key factors and assign tasks to th
 
 [Setting up a Field Service scheduling method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/setting-up-scheduling-methods.md)
 
-## Related
-
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[r_TaskWindows|Task windows]]
-- [[fsm-application-landing-page|Field Service Management]]

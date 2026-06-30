@@ -31,8 +31,5 @@ Role required: admin
     \[Omitted image "next-exp-enable-dark-theme-property.png"\] Alt text: Set system property value to true.
 
 
-**Parent Topic:**[[tb-working-in-dark-theme|Working with the dark theme]]
+**Parent Topic:**[Working with the dark theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-working-in-dark-theme.md)
 
-## Related
-
-- [[tb-working-in-dark-theme|Working with the dark theme]]

@@ -14,7 +14,7 @@ breadcrumb: [Planned Work Management, Set up work orders and tasks, Configure, F
 
 # Install Planned Work Management
 
-You can install the [[planned-work-management|Planned Work Management]] application \(com.snc.fsm\_planned\_work\_management\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Planned Work Management application \(com.snc.fsm\_planned\_work\_management\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -30,13 +30,13 @@ You can install the [[planned-work-management|Planned Work Management]] applicat
 
             Enables you to manage the regular preventive maintenance of assets. For more information, see [Activate Planned Maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivatePlanMaint.md).
 
-        -   **[[fsm-application-landing-page|Field Service Management]] \(com.snc.work\_management\)**
+        -   **Field Service Management \(com.snc.work\_management\)**
 
-            Enables you to manage work requests that are performed on location by field service agents. For more information, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+            Enables you to manage work requests that are performed on location by field service agents. For more information, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
         -   **CSM and FSM Configurable Workspace Foundation \(com.snc.uib.cwf\_workspace\)**
 
-            Enables you to access and manage [[pwm-dashboard|Planned Work Management home page]] and Planning calendar.
+            Enables you to access and manage Planned Work Management home page and Planning calendar.
 
 
 Role required: admin
@@ -50,7 +50,7 @@ The following items are installed with Planned Work Management:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[planned-work-components|Planned Work Management components]].
+For more information, see [Planned Work Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planned-work-components.md).
 
 ## Procedure
 
@@ -74,10 +74,4 @@ For more information, see [[planned-work-components|Planned Work Management comp
 
 6.  Select **Install**.
 
-## Related
 
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[planned-work-components|Planned Work Management components]]
-- [[planned-work-management|Planned Work Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[pwm-dashboard|Planned Work Management Home page]]

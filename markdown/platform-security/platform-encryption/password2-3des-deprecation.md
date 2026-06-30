@@ -14,9 +14,9 @@ breadcrumb: [Prepare your instance for GlideEncrypter deprecation, Key Managemen
 
 # Deprecate GlideEncrypter usage of 3DES for password2 fields
 
-Deprecate GlideEncrypter usage of 3DES [[encryption-landing|encryption]] standard on your instance ensure that your instance uses the more secure Advanced Encryption Standard \(AES\) exclusively for the encryption and decryption of your Password2 data.
+Deprecate GlideEncrypter usage of 3DES encryption standard on your instance ensure that your instance uses the more secure Advanced Encryption Standard \(AES\) exclusively for the encryption and decryption of your Password2 data.
 
-Beginning in Rome, password2 data is protected using the [[encryption|Key Management Framework]], which uses the more modern Advanced Encryption Standard \(AES\) algorithm. However, some configurations and fallbacks in password2 logic can still use the 3DES algorithm for encryption and decryption.
+Beginning in Rome, password2 data is protected using the Key Management Framework, which uses the more modern Advanced Encryption Standard \(AES\) algorithm. However, some configurations and fallbacks in password2 logic can still use the 3DES algorithm for encryption and decryption.
 
 In the Vancouver release, administrators can choose to deprecate the 3DES algorithm entirely. After completing this change, your instance uses AES encryption exclusively for all encryption and decryption tasks relating to password2 data. This change provides better instance security than compared with 3DES encryption, and is necessary to remain NIST compliant.
 
@@ -24,7 +24,7 @@ In the Vancouver release, administrators can choose to deprecate the 3DES algori
 
 -   **Transferring password2 data between instances**
 
-    When transferring password2 encrypted texts to other instances, you must ensure that KMF Key Exchange is enabled between source and target instances. This [[sc-configuration|configuration]] ensures that the keys used to encrypt password2 texts are available on both instances to decrypt the password2 encrypted texts. Before deprecating 3DES, Consider the following use cases that can impact password2 data between instances.
+    When transferring password2 encrypted texts to other instances, you must ensure that KMF Key Exchange is enabled between source and target instances. This configuration ensures that the keys used to encrypt password2 texts are available on both instances to decrypt the password2 encrypted texts. Before deprecating 3DES, Consider the following use cases that can impact password2 data between instances.
 
     -   If you have applications on your instance that use password2 data, ensure that KMF Resource Exchange is installed on that instance. KMF Resource Exchange ensures that instance level keys used to encrypt the password2 data on the source instance are available on the target instances for decryption. For more information, see [Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md).
     -   If you plan on exporting password2 data through XML or Data Sources, ensure that the target instance has KMF Key Exchange enabled. This configuration ensures that the instance level keys used to encrypt the password2 data on the source instance are available on the target instances for decryption. For details on this configuration, see [Key Management Framework Key Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf-key-exchange-overview.md).
@@ -41,14 +41,14 @@ In the Vancouver release, administrators can choose to deprecate the 3DES algori
     2.  If yes, then before requesting a clone, contact ServiceNow support to disable 3DES deprecation. In the **Reason** field, use “Clone downgrade pre-requisite for password2 support.”
 -   **Legacy password2 fields**
 
-    Your instance uses 3DES encryption to convert password2 data to legacy \(pre-Rome\) password2 data. After deprecating 3DES encryption, this option is no longer available. If you still need this feature, [[c_requestAPI|request]] partial deprecation \(see details in the next section\).
+    Your instance uses 3DES encryption to convert password2 data to legacy \(pre-Rome\) password2 data. After deprecating 3DES encryption, this option is no longer available. If you still need this feature, request partial deprecation \(see details in the next section\).
 
 
 ## How to deprecate 3DES
 
 After you’ve reviewed the preceding use cases, use knowledge base article KB1704481, for a step by step process to safely deprecate the usage of DES or Triple DES algorithm in instance. For details see [KB1704481](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1704481).
 
-**Important:** You must elevate to security admin to see the **Security Compliance** module and perform these steps. For details on that process, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+**Important:** You must elevate to security admin to see the **Security Compliance** module and perform these steps. For details on that process, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 ## After GlideEncrypter deprecation
 
@@ -66,10 +66,3 @@ After the deprecation process is complete, the following information applies to 
 
 **Parent Topic:**[Prepare your instance for GlideEncrypter deprecation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/check-3des.md)
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[encryption-landing|Encryption]]
-- [[encryption|Key Management Framework]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

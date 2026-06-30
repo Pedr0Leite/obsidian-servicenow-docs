@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for environmental data, Configure, Workp
 
 # Configure environmental sensor data for a workplace location
 
-Create environmental sensor data for a workplace location in [[workplace-connectors-landing-page|Workplace Connectors]]. The Environmental Data \(sn\_wsd\_wc\_space\_environment\) table checks for air quality, temperature, and humidity levels at a workplace location.
+Create environmental sensor data for a workplace location in Workplace Connectors. The Environmental Data \(sn\_wsd\_wc\_space\_environment\) table checks for air quality, temperature, and humidity levels at a workplace location.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Next topic:**[Archive and purge Environmental data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/archive-purge-environmental-data.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Assessment instance form
 
-The [[assessment-instance-form-ppw|assessment instance form]] information is used to create and edit an assessment instance for a demand.
+The assessment instance form information is used to create and edit an assessment instance for a demand.
 
 |Field|Description|
 |-----|-----------|
@@ -29,6 +29,3 @@ The [[assessment-instance-form-ppw|assessment instance form]] information is use
 |Preview|Indication of whether a preview of the assessment before it’s submitted is available.|
 |Signature result|Outcome or status of the signature collected for the assessment instance.|
 
-## Related
-
-- [[assessment-instance-form-ppw|Assessment instance form]]

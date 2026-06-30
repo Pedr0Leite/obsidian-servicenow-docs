@@ -18,7 +18,7 @@ Enable the approver with the in-context information for informed and prioritized
 
 Use the approval templates with common info, primary info, tabs, and action groups to make informed decisions. You can configure individual approval types to display the request-specific information, while still having a consistent layout that is similar to other approval types.
 
-Improve productivity with a unified approvals inbox. You can manage requests from internal and external applications from one location. Approvers can approve or send back Concur expenses to the requester right from [[employee-center-pro-landing|Employee Center Pro]] with a configurable omni-channel experience.
+Improve productivity with a unified approvals inbox. You can manage requests from internal and external applications from one location. Approvers can approve or send back Concur expenses to the requester right from Employee Center Pro with a configurable omni-channel experience.
 
 ## Configurable experience
 
@@ -76,6 +76,3 @@ Here is what an employee can do.
 
 For more information, see [Approvals experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-ootb.md) and [Use approval experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-dos-use-approval-hub.md).
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

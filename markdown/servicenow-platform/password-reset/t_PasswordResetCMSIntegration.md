@@ -14,7 +14,7 @@ breadcrumb: [Configuring Password Reset, Password Reset, Manage service capabili
 
 # Integrate Password Reset with a CMS integration
 
-You can configure a site in the ServiceNow content management \(CMS\) application to define a single-site access point that includes the [[password-reset-landing-page|Password Reset]] service. For example, you can create an employee [[self-service-landing|self-service]] site that provides Password Reset service.
+You can configure a site in the ServiceNow content management \(CMS\) application to define a single-site access point that includes the Password Reset service. For example, you can create an employee self-service site that provides Password Reset service.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ Each Password Reset process requires a separate CMS page.
 
 **Parent Topic:**[Configuring Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[self-service-landing|Self-service]]

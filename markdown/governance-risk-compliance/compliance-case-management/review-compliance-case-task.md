@@ -14,7 +14,7 @@ breadcrumb: [Work on action task, Compliance case task workflow, Use, Compliance
 
 # Review and close an action task
 
-Review and close an action task after an action task owner provides responses and observations for the case in the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Review and close an action task after an action task owner provides responses and observations for the case in the GRC: Compliance Case Management application.
 
 ## Before you begin
 
@@ -84,6 +84,3 @@ Steps
 </table>
 **Parent Topic:**[Work on an action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/work-on-compliance-case-task.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

@@ -14,7 +14,7 @@ breadcrumb: [Quick start tests, Install and configure, Leader Hub, HR Service De
 
 # Run quick start tests for Leader Hub
 
-Run quick start tests to verify the [[td-lh-landing|Leader Hub]] app still works after each upgrade and deployment of new applications or integrations. If you customized Leader Hub, you must configure the quick start tests to ensure they're compatible with your customizations.
+Run quick start tests to verify the Leader Hub app still works after each upgrade and deployment of new applications or integrations. If you customized Leader Hub, you must configure the quick start tests to ensure they're compatible with your customizations.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Use Performance Profiling to compare tests to detect performance degradation whe
 
 **Parent Topic:**[Quick start tests for Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/quick-start-tests-leader-hub.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]

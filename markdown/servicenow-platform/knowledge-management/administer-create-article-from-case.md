@@ -55,7 +55,7 @@ The pre-defined **Case KCS Article** mapping is stored in the CSM Table Map \[cs
 
     2.  Click **Submit**.
 
-    3.  To map fields using advanced scripts, select the **Advanced Field Mapping** [[check-box|check box]] and then map the fields between the source and the target table using advanced scripts in the **Advanced Field Mapping** tab.
+    3.  To map fields using advanced scripts, select the **Advanced Field Mapping** check box and then map the fields between the source and the target table using advanced scripts in the **Advanced Field Mapping** tab.
 
         **Note:**
 
@@ -72,6 +72,3 @@ The pre-defined **Case KCS Article** mapping is stored in the CSM Table Map \[cs
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[check-box|Check box]]

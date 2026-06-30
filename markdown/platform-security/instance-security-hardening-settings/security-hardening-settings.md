@@ -14,13 +14,13 @@ breadcrumb: [Platform Security]
 
 # Hardening settings
 
-The ServiceNow [[sec-center-v2|Security Center]] \(SSC\) hardening settings content contains detailed descriptions and compliance values for the security-related [[ca-system-properties|system properties]] and plugins in the ServiceNow AI Platform. You can set these properties using the hardening settings app in the Security Center.
+The ServiceNow Security Center \(SSC\) hardening settings content contains detailed descriptions and compliance values for the security-related system properties and plugins in the ServiceNow AI Platform. You can set these properties using the hardening settings app in the Security Center.
 
 ## Overview and purpose
 
 The Security Center calculates a daily compliance score, expressed as a percentage that is based on how compliant your current instance security settings are with the compliance values in Security Center hardening settings.
 
-You can manage the specific security [[sc-configuration|configuration]] settings that may affect the score for your instance directly from the Security Center.
+You can manage the specific security configuration settings that may affect the score for your instance directly from the Security Center.
 
 The hardening settings configurations are explained with several attributes described in the table.
 
@@ -139,63 +139,42 @@ To learn more about ensuring your instances meet hardening requirements, see [Se
 
 ## Other resources
 
-For user reference, the ServiceNow AI Platform maintains extensive configuration capabilities information in the product documentation. You access most of the security content using the links found in [[platsec-landing|Secure your instance]]. Also, see the following:
+For user reference, the ServiceNow AI Platform maintains extensive configuration capabilities information in the product documentation. You access most of the security content using the links found in [Secure your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-landing.md). Also, see the following:
 
 -   [Available system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md)
 -   General security settings properties
--   [[c_HighSecuritySettings|High Security Settings]]
+-   [High Security Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md)
 
 -   **[Hardening settings baseline versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-baseline.md)**  
 Explore how baseline versions for hardening settings align with family and store releases.
 -   **[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)**  
-The [[sc-access-control|access control]] category audits the process of protecting resources from unauthorized access through granting and denying requests based on a permission model. This includes ensuring an entity accessing a resource holds valid credentials to do so, creating and protecting a well-defined set of roles or permissions and ensuring role or permission controls are protected from replay and tampering.
+The access control category audits the process of protecting resources from unauthorized access through granting and denying requests based on a permission model. This includes ensuring an entity accessing a resource holds valid credentials to do so, creating and protecting a well-defined set of roles or permissions and ensuring role or permission controls are protected from replay and tampering.
 -   **[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)**  
-The [[sc-api-web-service|API and Web Service]] category ensures that applications have appropriate [[c_Authentication|authentication]], authorization and [[sc-session-management|session management]], validate all input that traverses a trust boundary and include security controls for all API types.
+The API and Web Service category ensures that applications have appropriate authentication, authorization and session management, validate all input that traverses a trust boundary and include security controls for all API types.
 -   **[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)**  
 This broad control addresses high level design considerations and key elements to implement a secure application. This covers the tenants of availability, confidentiality processing integrity, non-repudiation and privacy. Additionally, elements of a secure software development lifecycle are included.
 -   **[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)**  
 The authentication category covers the main elements of modern authentication to confirm an entity and its claims are authentic and correct, resistant to impersonation and prevent interception of passwords.
 -   **[Business Logic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-business-logic.md)**  
-This category looks at the logic and flow unique to each application with general secure principles. Specifically ensure that the intended sequence of [[sc-business-logic|business logic]] flow cannot by bypassed, that limits exist to detect and prevent automated attacks, and that protections against spoofing, tampering, information disclosure and elevation of privilege attacks exist.
+This category looks at the logic and flow unique to each application with general secure principles. Specifically ensure that the intended sequence of business logic flow cannot by bypassed, that limits exist to detect and prevent automated attacks, and that protections against spoofing, tampering, information disclosure and elevation of privilege attacks exist.
 -   **[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)**  
-This control ensures proper [[encryption-landing|encryption]] using strong algorithms and ciphers. This includes ensuring the recommended version of TLS is used for client connectivity, use of strong cipher suites, use of trusted and signed [[c_Certificates|certificates]], ensuring connections are encrypted between components and logging of connection failures.
+This control ensures proper encryption using strong algorithms and ciphers. This includes ensuring the recommended version of TLS is used for client connectivity, use of strong cipher suites, use of trusted and signed certificates, ensuring connections are encrypted between components and logging of connection failures.
 -   **[Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)**  
 The Configuration category ensures applications have a secure build environment and hardened third party library components. Specifically, ensuring a build and deploy pipeline is repeatable and includes automated testing and prevents known security issues from being deployed. This includes keeping dependencies up to date and free from known vulnerabilities.
 -   **[Data protection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)**  
-The [[naai-data-protection|data protection]] category addresses the elements of confidentiality, integrity and availability \(CIA\) of data.
+The data protection category addresses the elements of confidentiality, integrity and availability \(CIA\) of data.
 -   **[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)**  
-The [[sc-error-handling-logging|error handling and logging]] category addresses the quality and verbosity of logged information exposed to stakeholders.
+The error handling and logging category addresses the quality and verbosity of logged information exposed to stakeholders.
 -   **[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)**  
-The [[sc-file-resources|file and resources]] category ensures applications handle untrusted file data securely and store untrusted data from untrusted sources with limited permissions in an appropriate location.
+The file and resources category ensures applications handle untrusted file data securely and store untrusted data from untrusted sources with limited permissions in an appropriate location.
 -   **[Malicious code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-malicious-code.md)**  
-The [[sc-malicious-code|Malicious Code]] category ensures that best efforts are made to confirm that your code is free of vulnerabilities and unwanted functionality.
+The Malicious Code category ensures that best efforts are made to confirm that your code is free of vulnerabilities and unwanted functionality.
 -   **[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)**  
 This category looks at the security of the application state for a user. Sessions should be unique to each individual, unable to be guessed or shared, and invalidated after periods of inactivity or when not required. This includes factors such as cookie attributes for cookie-based sessions, session token generation, and storage and requirements for federated re-authentication.
 -   **[Stored cryptography](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-stored-cryptography.md)**  
-This category focuses on the encryption of stored data. It encompasses several key aspects, such as employing established algorithms and cryptographic modules, ensuring the proper generation of pseudo-random values, implementing encryption based on [[data-classification|data classification]], and securely storing and isolating key material.
+This category focuses on the encryption of stored data. It encompasses several key aspects, such as employing established algorithms and cryptographic modules, ensuring the proper generation of pseudo-random values, implementing encryption based on data classification, and securely storing and isolating key material.
 -   **[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)**  
-[[validation-sanitization-encoding|Validation, sanitization, and encoding]] addresses input validation to prevent against vulnerabilities like Cross-Site Scripting \(XSS\), SQL injection and other attacks.
+Validation, sanitization, and encoding addresses input validation to prevent against vulnerabilities like Cross-Site Scripting \(XSS\), SQL injection and other attacks.
 
-**Parent Topic:**[[platsec-sublanding|Platform Security]]
+**Parent Topic:**[Platform Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-sublanding.md)
 
-## Related
-
-- [[platsec-landing|Secure your instance]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[platsec-sublanding|Platform Security]]
-- [[sec-center-v2|Security Center]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[sc-access-control|Access control]]
-- [[sc-api-web-service|API and web service]]
-- [[c_Authentication|Authentication]]
-- [[sc-session-management|Session management]]
-- [[sc-business-logic|Business Logic]]
-- [[encryption-landing|Encryption]]
-- [[c_Certificates|Certificates]]
-- [[naai-data-protection|Data protection]]
-- [[sc-error-handling-logging|Error handling and logging]]
-- [[sc-file-resources|File and resources]]
-- [[sc-malicious-code|Malicious code]]
-- [[data-classification|Data Classification]]
-- [[validation-sanitization-encoding|Validation, sanitization, and encoding]]

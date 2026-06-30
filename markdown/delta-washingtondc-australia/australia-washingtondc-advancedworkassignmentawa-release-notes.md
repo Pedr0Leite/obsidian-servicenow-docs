@@ -623,8 +623,5 @@ Use AWA with non-task and non-interaction tables such as leads, opportunities, o
  See [Advanced Work Assignment](https://www.servicenow.com/docs/access?context=awa-application-landing-page&family=australia&ft:locale=en-US) for more information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rn-combined-intro|Products combined by family]]
+</table>**Parent Topic:**[Products combined by family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/delta-washingtondc-australia/rn-combined-intro.md)
 
-## Related
-
-- [[rn-combined-intro|Products combined by family]]

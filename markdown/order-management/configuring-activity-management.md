@@ -23,30 +23,30 @@ You must also install the Omnichannel Callback for Customer Service Management \
 
 ## Configuring CRM Touchpoints
 
-Install and configure the [[explore-crm-touchpoints|CRM Touchpoints]] application. It provides a unified system for capturing and tracking customer engagements for your sales and service teams while providing leadership with visibility into representative activity and engagement effectiveness.
+Install and configure the CRM Touchpoints application. It provides a unified system for capturing and tracking customer engagements for your sales and service teams while providing leadership with visibility into representative activity and engagement effectiveness.
 
-1.  [[install-crm-touchpoints|Install CRM Touchpoints]]
+1.  [Install CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-crm-touchpoints.md)
 
     You can install the CRM Touchpoints application \(com.sn\_crm\_touchpoint\) if you have the admin role.
 
-2.  [[create-custom-touchpoint-types|Create custom touchpoint types]]
+2.  [Create custom touchpoint types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-custom-touchpoint-types.md)
 
     Create touchpoint types tailored to your sales organization's workflow to capture activities beyond the standard Discovery, Demo, and CBR types.
 
 
 ## Configuring CRM Outlook Add-in
 
-Install and configure the [[explore-crm-outlook-add-in|CRM Outlook Add-in]] application to make the ServiceNow CRM for Outlook add-in available to your users.
+Install and configure the CRM Outlook Add-in application to make the ServiceNow CRM for Outlook add-in available to your users.
 
-1.  [[install-crm-outlook-add-in|Install CRM Outlook Add-in]]
+1.  [Install CRM Outlook Add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-crm-outlook-add-in.md)
 
     You can install the CRM Outlook Add-in application \(com.sn\_crm\_outlook\) if you have the admin role.
 
-2.  [[add-crm-outlook-add-in|Configure CRM access from Microsoft Outlook]]
+2.  [Configure CRM access from Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-crm-outlook-add-in.md)
 
     Download and install the ServiceNow CRM for Outlook add-in to access and manage CRM records directly from your Outlook inbox, eliminating the need to switch between applications.
 
-3.  [[promote-crm-outlook-emails|Make emails associated through the CRM Outlook Add-in visible to agents]]
+3.  [Make emails associated through the CRM Outlook Add-in visible to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/promote-crm-outlook-emails.md)
 
     Configure email promotion so that emails associated with CRM records through the ServiceNow CRM for Outlook add‑in are promoted from the Staged Email \[sys\_email\_staging\] table to the Email \[sys\_email\] table, making them visible to agents in the workspace.
 
@@ -54,18 +54,7 @@ Install and configure the [[explore-crm-outlook-add-in|CRM Outlook Add-in]] appl
 **Related topics**  
 
 
-[[using-activity-management|Using Activity Management]]
+[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[install-crm-touchpoints|Install CRM Touchpoints]]
-- [[create-custom-touchpoint-types|Create custom touchpoint types]]
-- [[install-crm-outlook-add-in|Install CRM Outlook Add-in]]
-- [[add-crm-outlook-add-in|Configure CRM access from Microsoft Outlook]]
-- [[promote-crm-outlook-emails|Make emails associated through the CRM Outlook Add-in visible to agents]]
-- [[using-activity-management|Using Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]

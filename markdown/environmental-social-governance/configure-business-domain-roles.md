@@ -31,8 +31,5 @@ Role required: sn\_business\_domain.admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[[configure-o365-reporting-configs|Set up Microsoft 365 reporting configuration]]
+**Parent Topic:**[Set up Microsoft 365 reporting configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-o365-reporting-configs.md)
 
-## Related
-
-- [[configure-o365-reporting-configs|Set up Microsoft 365 reporting configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management, IT Asset Management]
 
 # Exploring Cloud Cost Management
 
-Learn more about [[cloud-insights-landing-page|Cloud Cost Management]] with a sample workflow and reviewing the benefits that it can provide for different users in your organization.
+Learn more about Cloud Cost Management with a sample workflow and reviewing the benefits that it can provide for different users in your organization.
 
 ## Cloud Cost Management overview
 
@@ -38,6 +38,3 @@ Cloud Cost Management continuously monitors your cloud infrastructure to analyze
 |Allocate budgets|[Cloud budgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/bf-cloudin.md)|FinOps Practitioners/Cloud Administrators|
 |Automate optimization approvals by integrating cloud optimization tasks into your existing change management processes.|[Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md)|FinOps Practitioners/Cloud Administrators|
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

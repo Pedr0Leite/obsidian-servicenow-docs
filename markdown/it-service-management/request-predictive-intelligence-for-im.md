@@ -41,7 +41,7 @@ Enables customers to leverage machine-learning algorithms for searching with Con
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -89,19 +89,13 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
--   **[[pi-for-incident|Predictive Intelligence for Incident]]**  
-Use your instance records to build [[c_IncidentManagement|Incident Management]] -specific solutions.
+-   **[Predictive Intelligence for Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/pi-for-incident.md)**  
+Use your instance records to build Incident Management -specific solutions.
 
-**Parent Topic:**[[machine-learning-itsm|Machine learning solutions for IT Service Management]]
+**Parent Topic:**[Machine learning solutions for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/machine-learning-itsm.md)
 
 **Related topics**  
 
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[pi-for-incident|Predictive Intelligence for Incident]]
-- [[machine-learning-itsm|Machine learning solutions for IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_IncidentManagement|Incident Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Legacy setup and configuration, Configure, Conversational Integrati
 
 # Configure the help link for the Virtual Agent Facebook Messenger integration \(Legacy\)
 
-Use the **va.messenger.help.url** system property to create the link that opens a web help page when requesters use the **Help** command in the [[virtual-agent-landing-page|Virtual Agent]] Facebook Messenger integration.
+Use the **va.messenger.help.url** system property to create the link that opens a web help page when requesters use the **Help** command in the Virtual Agent Facebook Messenger integration.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ When your Facebook Messenger users type `help`, they are directed to the URL of 
 
 **Parent Topic:**[Legacy setup and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/legacy-va-fb-messenger-setup.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

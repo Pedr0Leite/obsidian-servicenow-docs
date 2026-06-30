@@ -14,23 +14,16 @@ breadcrumb: [Safe Workplace Dashboard, Safe Workplace, Health and Safety, Employ
 
 # Alert types used with the Safe Workplace Dashboard
 
-Alert types define the ServiceNow® Performance Analytics \(PA\) thresholds used to generate alerts on the [[safe-workplace-dashboard|Safe Workplace Dashboard]]. Alerts are generated from application data once per day.
+Alert types define the ServiceNow® Performance Analytics \(PA\) thresholds used to generate alerts on the Safe Workplace Dashboard. Alerts are generated from application data once per day.
 
 |Alert type|Description|
 |----------|-----------|
-|Employees Want to Return|Uses [[employee-readiness-surveys|Employee Readiness Surveys]] responses to calculate the number of people who are ready or mostly ready, and the number of people who are not sure or not ready to return.|
-|PPE is low|Uses the [[ppe-inventory-management|Workplace PPE Inventory Management]] count of PPE assets to identify when the available inventory falls below a threshold.|
-|Screening Rejections Low|Uses [[employee-health-screening|Employee Health Screening]] entry requests to calculate the number of people denied entry.|
-|Active [[contact-tracing|Contact Tracing]] Cases|Uses Contact Tracing cases to determine when the number of active cases is greater than the threshold.|
+|Employees Want to Return|Uses Employee Readiness Surveys responses to calculate the number of people who are ready or mostly ready, and the number of people who are not sure or not ready to return.|
+|PPE is low|Uses the Workplace PPE Inventory Management count of PPE assets to identify when the available inventory falls below a threshold.|
+|Screening Rejections Low|Uses Employee Health Screening entry requests to calculate the number of people denied entry.|
+|Active Contact Tracing Cases|Uses Contact Tracing cases to determine when the number of active cases is greater than the threshold.|
 
 A user with the pa\_admin role can define additional alert types. For information about using Performance Analytics, see [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-overview.md).
 
 **Parent Topic:**[Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/safe-workplace-dashboard.md)
 
-## Related
-
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[contact-tracing|Contact Tracing]]

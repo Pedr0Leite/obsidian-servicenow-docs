@@ -14,7 +14,7 @@ breadcrumb: [Evaluation projects, Explore, Process Mining, Platform Analytics]
 
 # Process Mining evaluation project for Security Incident
 
-Process Mining evaluation project for Security Incident enables you to familiarize with improving your process with [[process-mining|Process Mining]] capability.
+Process Mining evaluation project for Security Incident enables you to familiarize with improving your process with Process Mining capability.
 
 Security Incident customers can evaluate Process Mining with their Security Incident business process in their production instance.
 
@@ -34,6 +34,3 @@ For more information, see [Run the Process Mining evaluation project](https://ra
 
 **Parent Topic:**[Evaluation projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/evaluate-pm.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -20,11 +20,11 @@ Role required: sn\_csm\_walkup.walkup\_technician
 
 ## About this task
 
-There are two ways technicians can view the walk-up location queues they’re assigned to support. Technicians primarily access [[csm-workspaces-configure|CSM Configurable Workspace]] for all CSM Walk-up Experience related information, including locations. However technicians can also access CSM Walk-up Experience in the application navigator, or side navigation bar, to view assigned queue locations.
+There are two ways technicians can view the walk-up location queues they’re assigned to support. Technicians primarily access CSM Configurable Workspace for all CSM Walk-up Experience related information, including locations. However technicians can also access CSM Walk-up Experience in the application navigator, or side navigation bar, to view assigned queue locations.
 
 ## Procedure
 
-1.  To view walk-up locations, [[csm-workspaces-open|open CSM Configurable Workspace]].
+1.  To view walk-up locations, open CSM Configurable Workspace.
 
 2.  Select **List** in the left navigation bar.
 
@@ -40,7 +40,4 @@ There are two ways technicians can view the walk-up location queues they’re as
 
     If interactions are leftover from a previous day or are still queued in the end with no associated guests at the queue, you can select **Abandon All** to cancel these interactions.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

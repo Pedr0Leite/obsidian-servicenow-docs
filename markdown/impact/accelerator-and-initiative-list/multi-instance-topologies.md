@@ -18,7 +18,7 @@ This Accelerator provides education on drivers and topology alternatives to supp
 
 ## Accelerator Overview
 
-The Multi-instance Topologies Accelerator provides [[impact-landing-page|Impact]] customers with facilitated education sessions that establish a foundational understanding of the common business drivers that could warrant multiple production instances and an introduction to four multi-instance topology alternatives.
+The Multi-instance Topologies Accelerator provides Impact customers with facilitated education sessions that establish a foundational understanding of the common business drivers that could warrant multiple production instances and an introduction to four multi-instance topology alternatives.
 
 The overview for each topology includes a description, topology-related use cases, strengths and weaknesses, and example process flows. The education sessions are interspersed with interactive use case activities, so that following the completion of the Accelerator, you may continue to evaluate your own multi-instance requirements by engaging your implementation provider to develop an implementation architecture.
 
@@ -115,12 +115,8 @@ The output deliverables from the **How to Tackle Architectural Implementation Mo
 -   Multi-instance topology architecture design recommendations
 -   Multi-instance technical implementation / technical integration detailed architecture
 -   Enterprise architecture review
--   Detailed [[architecture-blueprint|architecture blueprint]] for multi-instance configuration
+-   Detailed architecture blueprint for multi-instance configuration
 -   How to integrate multiple production instances
 -   Topology considerations for Managed Service Provider and/or multiple customer multi-instance configurations
 -   Multiple sub-production instances, for example, development, test, or user acceptance test \(UAT\)\)
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[architecture-blueprint|Architecture Blueprint]]

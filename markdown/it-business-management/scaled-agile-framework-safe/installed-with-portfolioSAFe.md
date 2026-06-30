@@ -14,7 +14,7 @@ breadcrumb: [Portfolio SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfoli
 
 # Components installed with Portfolio SAFe
 
-Several types of components are installed with activation of the Agile - Scaled Agile Framework - [[portfolio-overview|Portfolio SAFe]] plugin \(com.snc.sdlc.portfolio\_safe\), including tables and user roles.
+Several types of components are installed with activation of the Agile - Scaled Agile Framework - Portfolio SAFe plugin \(com.snc.sdlc.portfolio\_safe\), including tables and user roles.
 
 ## Roles installed
 
@@ -240,7 +240,7 @@ Information about stories.
 
 </td></tr><tr><td>
 
-[[safe-pi-objectives|SAFe PI Objectives]]\[sn\_safe\_pi\_objective\]
+SAFe PI Objectives\[sn\_safe\_pi\_objective\]
 
 </td><td>
 
@@ -288,7 +288,3 @@ Records displayed on the Team level, Board tab.
 
 [SAFe Board—Portfolio level]()
 
-## Related
-
-- [[portfolio-overview|Portfolio SAFe]]
-- [[safe-pi-objectives|SAFe PI objectives]]

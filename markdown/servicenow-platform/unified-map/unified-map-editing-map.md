@@ -14,7 +14,7 @@ breadcrumb: [Use, Unified Map, Configuration Management Database \(CMDB\), Confi
 
 # Editing maps in Unified Map
 
-While you work in the map editor, you can add a CI to the map and remove \(hide\) a CI from the map. Removing a CI node from a map deletes the records of the CI relationships, but does not delete the CI record from the CMDB. You can also add, modify, and delete [[c_CIRelationships|CI relationships in the CMDB]].
+While you work in the map editor, you can add a CI to the map and remove \(hide\) a CI from the map. Removing a CI node from a map deletes the records of the CI relationships, but does not delete the CI record from the CMDB. You can also add, modify, and delete CI relationships in the CMDB.
 
 ## Actions you can take in the map editor
 
@@ -73,7 +73,7 @@ The map editor does not support the following actions:
 -   Deleting a CI record from or adding a CI record to the CMDB.
 -   Attempting to save a map that includes an orphan CI generates a warning.
 -   Adding endpoint CIs to or removing endpoint CIs from the map.
--   Deleting [[reference|reference]] or endpoint connections or removing from the map a CI that has reference or endpoint connections.
+-   Deleting reference or endpoint connections or removing from the map a CI that has reference or endpoint connections.
 -   Updating the applicative flow relationship type \(connection between endpoint CIs\).
 
 **Related topics**  
@@ -91,7 +91,3 @@ The map editor does not support the following actions:
 
 [Delete a connection using the map editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-delete-connection.md)
 
-## Related
-
-- [[c_CIRelationships|CI relationships in the CMDB]]
-- [[reference|Reference]]

@@ -12,44 +12,28 @@ breadcrumb: [Lead and opportunity management, Reference, Sales Customer Relation
 
 # Activity Management reference
 
-Reference topics provide additional information about the [[explore-activity-management|Activity Management]] application.
+Reference topics provide additional information about the Activity Management application.
 
--   **[[components-installed-crm-touchpoints|Components installed with CRM Touchpoints]]**  
-Several types of components are installed with activation of the [[explore-crm-touchpoints|CRM Touchpoints]] plugin, including tables and user roles.
--   **[[create-crm-touchpoint-form|Create new CRM touchpoint form]]**  
+-   **[Components installed with CRM Touchpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-crm-touchpoints.md)**  
+Several types of components are installed with activation of the CRM Touchpoints plugin, including tables and user roles.
+-   **[Create new CRM touchpoint form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-crm-touchpoint-form.md)**  
 Field descriptions for the Create New CRM Touchpoint form.
--   **[[create-meeting-touchpoints-form|Create new meeting form]]**  
+-   **[Create new meeting form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-meeting-touchpoints-form.md)**  
 Field descriptions for editing or reviewing details on the Create New Meeting form for CRM Touchpoints.
--   **[[create-call-touchpoint-form|Create new callback form]]**  
+-   **[Create new callback form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-call-touchpoint-form.md)**  
 Field descriptions for the Create New Callback form for CRM Touchpoints.
--   **[[components-installed-crm-outlook-add-in|Components installed with the CRM Outlook Add-in]]**  
-User roles are installed with activation of the [[explore-crm-outlook-add-in|CRM Outlook Add-in]] plugin.
--   **[[lead-fields-outlook|Lead form in the ServiceNow CRM for Outlook add-in]]**  
+-   **[Components installed with the CRM Outlook Add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-crm-outlook-add-in.md)**  
+User roles are installed with activation of the CRM Outlook Add-in plugin.
+-   **[Lead form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-fields-outlook.md)**  
 Field descriptions for creating or viewing a lead record from the ServiceNow CRM for Outlook add-in.
--   **[[account-fields-outlook|Account form in the ServiceNow CRM for Outlook add-in]]**  
+-   **[Account form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/account-fields-outlook.md)**  
 Field descriptions for viewing or editing an account record from the ServiceNow CRM for Outlook add-in.
--   **[[contact-fields-outlook|Contact form in the ServiceNow CRM for Outlook add-in]]**  
+-   **[Contact form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/contact-fields-outlook.md)**  
 Field descriptions for creating a contact record from the ServiceNow CRM for Outlook add-in.
--   **[[opportunity-fields-outlook|Opportunity form in the ServiceNow CRM for Outlook add-in]]**  
+-   **[Opportunity form in the ServiceNow CRM for Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-fields-outlook.md)**  
 Field descriptions for viewing or editing an opportunity record from the ServiceNow CRM for Outlook add-in.
--   **[[staged-email-fields-outlook|Staged Email table]]**  
+-   **[Staged Email table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/staged-email-fields-outlook.md)**  
 Field descriptions for viewing email records linked to CRM entities in the Staged Email \[sys\_email\_staging\] table.
 
-**Parent Topic:**[[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
+**Parent Topic:**[Lead and opportunity management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-opportunity-mgt.md)
 
-## Related
-
-- [[components-installed-crm-touchpoints|Components installed with CRM Touchpoints]]
-- [[create-crm-touchpoint-form|Create new CRM touchpoint form]]
-- [[create-meeting-touchpoints-form|Create new meeting form]]
-- [[create-call-touchpoint-form|Create new callback form]]
-- [[components-installed-crm-outlook-add-in|Components installed with the CRM Outlook Add-in]]
-- [[lead-fields-outlook|Lead form in the ServiceNow CRM for Outlook add-in]]
-- [[account-fields-outlook|Account form in the ServiceNow CRM for Outlook add-in]]
-- [[contact-fields-outlook|Contact form in the ServiceNow CRM for Outlook add-in]]
-- [[opportunity-fields-outlook|Opportunity form in the ServiceNow CRM for Outlook add-in]]
-- [[staged-email-fields-outlook|Staged Email table]]
-- [[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
-- [[explore-activity-management|Activity Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]

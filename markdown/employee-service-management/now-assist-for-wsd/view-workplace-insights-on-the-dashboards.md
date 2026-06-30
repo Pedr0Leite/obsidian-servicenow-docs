@@ -14,7 +14,7 @@ breadcrumb: [Insight cards on the Workplace Central dashboard, Workplace Advisor
 
 # View workplace insights on the dashboards
 
-Access workplace insights directly from the [[workplace-central-feat|Workplace Central]] Dashboard using Insight Cards. These cards deliver real-time data from various workplace sources, enabling managers and users to track important metrics like space utilization, occupancy rates, reservation trends, and environment summaries.
+Access workplace insights directly from the Workplace Central Dashboard using Insight Cards. These cards deliver real-time data from various workplace sources, enabling managers and users to track important metrics like space utilization, occupancy rates, reservation trends, and environment summaries.
 
 ## Before you begin
 
@@ -26,18 +26,13 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]]. Navigate to **Workspaces** &gt; **Workplace Central**
+    You can also open Workplace Central from the Employee Center. Navigate to **Workspaces** &gt; **Workplace Central**
 
 2.  Select the following tabs to view insights related to a specific category:
 
-    -   [[space-optimization|Space Optimization]]
+    -   Space Optimization
     -   Occupancy Dashboard
     -   Reservation Management
 
 **Parent Topic:**[Insight cards on the Workplace Central dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/insight-cards-on-the-workplace-central-dashboard.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[space-optimization|Space Optimization]]

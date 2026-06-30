@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # General guidelines for developing widgets
 
-When [[widget-dev-guide|developing custom widgets]], keep these general guidelines in mind for optimal performance, scalable development, and a good user experience.
+When developing custom widgets, keep these general guidelines in mind for optimal performance, scalable development, and a good user experience.
 
 -   **Create a default state that provides an example to the end user**
 
@@ -34,16 +34,16 @@ When [[widget-dev-guide|developing custom widgets]], keep these general guidelin
 
 -   **Avoid using large data sets to improve performance**
 
-    Querying data, evaluating ACLs, running business rules, and data processing take time and can slow performance. Determine how much data portal users need and then apply the appropriate limits and [[c_Filters|filters]] to your scripts and queries. Isolate widgets that require significant data or processing to their own separate pages in the portal. Avoid implementing the following items that use large data sets:
+    Querying data, evaluating ACLs, running business rules, and data processing take time and can slow performance. Determine how much data portal users need and then apply the appropriate limits and filters to your scripts and queries. Isolate widgets that require significant data or processing to their own separate pages in the portal. Avoid implementing the following items that use large data sets:
 
     -   Scripted menu items that load large amounts of data, which can cause every page in the portal to load slowly.
-    -   Large files and [[attachments-configurable-workspace|attachments]], such as high-definition media files or fonts from the Attachments \[sys\_attachment\] table.
+    -   Large files and attachments, such as high-definition media files or fonts from the Attachments \[sys\_attachment\] table.
     -   Auto-refreshing widgets. Every time a widget's client controller calls server.update\(\), spUtil.update\(\), server.refresh\(\), or spUtil.refresh\(\), the application runs the widget's server script and sends a data object back to the client.
     -   Unfiltered record watchers. The recordWatch\(\) function watches for updates to a table or filter and returns the value from the callback function. Adding filters for specific fields to watch reduces the number of calls a widget makes to the server. Specifying when to refresh widgets in response to a record producer notifying the client that there is an update in the callback function can also improve performance.
     -   Server-side scripts with GlideRecord queries without the `setLimit` function. Using the `setLimit` function can restrict the number of records returned and improve response time on queries. For added flexibility, you can tie this limit to an instance option rather than assigning a hard-coded value \(for example: `gr.setLimit(options.limit || 100)`\).
     Learn more:
 
-    -   [Six common performance pitfalls in [[c_ServicePortal|Service Portal]] and how to avoid them \[KB0634588\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0634588)
+    -   [Six common performance pitfalls in Service Portal and how to avoid them \[KB0634588\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0634588)
     -   spUtil - recordWatch
     -   GlideRecord setLimit Function
 -   **Create a directive instead of embedding a complex widget**
@@ -69,7 +69,7 @@ When [[widget-dev-guide|developing custom widgets]], keep these general guidelin
 
     Avoid using [$broadcast](https://docs.angularjs.org/api/ng/type/$rootScope.Scope#$broadcast) in the DOM. $broadcast dispatches the event name to all child scopes notifying registered listeners, which can be an expensive call that requires the use of the $rootScope global object.
 
-    Instead, use a publish/subscribe service to handle events. When using a publish/subscribe service, a clear relationship [[form-configurable-workspace|forms]] between your widgets through callback handlers. In this model, you can better control the state of your events.
+    Instead, use a publish/subscribe service to handle events. When using a publish/subscribe service, a clear relationship forms between your widgets through callback handlers. In this model, you can better control the state of your events.
 
 -   **Use REST calls or `server.get` to fetch data from the server**
 
@@ -91,18 +91,10 @@ When [[widget-dev-guide|developing custom widgets]], keep these general guidelin
 
     For easier maintenance, remove any unused Angular Providers that were injected into the client script function statement.
 
--   **Avoid using &lt;script&gt; [[c_Tags|tags]] in HTML templates**
+-   **Avoid using &lt;script&gt; tags in HTML templates**
 
     To lessen the likelihood of production issues in Service Portal, avoid using inline templates using &lt;script&gt; tags in a widget's HTML template. Instead, create a related Angular ng-template record for the widget.
 
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[widget-dev-guide|Developing custom widgets]]
-- [[c_Filters|Filters]]
-- [[attachments-configurable-workspace|Attachments]]
-- [[c_ServicePortal|Service Portal]]
-- [[form-configurable-workspace|Forms]]
-- [[c_Tags|Tags]]

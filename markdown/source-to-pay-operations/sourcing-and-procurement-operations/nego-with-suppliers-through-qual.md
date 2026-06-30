@@ -14,7 +14,7 @@ breadcrumb: [Sourcing intake guided experience playbooks, Working with playbooks
 
 # Set up negotiations with suppliers and manage qualifications in playbook
 
-Work on a negotiation setup playbook to manage qualification work, and review the sourcing requests, suppliers, and [[purchase-lines|purchase lines]], all within the premises of a sourcing event.
+Work on a negotiation setup playbook to manage qualification work, and review the sourcing requests, suppliers, and purchase lines, all within the premises of a sourcing event.
 
 ## Before you begin
 
@@ -55,7 +55,7 @@ Completes the qualification.**Note:** The procurement cases must be in the Close
 </td></tr></tbody>
 </table>3.  After qualification is complete, do one of these actions.
 
-    You can continue sourcing this request by adding [[pricing|pricing]] to this record. If you want pricing for additional items or suppliers, use a sourcing event instead.
+    You can continue sourcing this request by adding pricing to this record. If you want pricing for additional items or suppliers, use a sourcing event instead.
 
     |Decision|Action|
     |--------|------|
@@ -63,7 +63,7 @@ Completes the qualification.**Note:** The procurement cases must be in the Close
     |**Add to an existing sourcing event**|To source with an existing group of requests, select an existing sourcing event from the list.|
     |**Add pricing to this record**|Continue sourcing this request by adding pricing to this record.|
 
-4.  If you’ve added the [[sourcing-request|sourcing request]] to a new or existing sourcing event, select **Go to sourcing event**.
+4.  If you’ve added the sourcing request to a new or existing sourcing event, select **Go to sourcing event**.
 
 5.  Review the details of the sourcing requests within this sourcing event.
 
@@ -77,7 +77,7 @@ Completes the qualification.**Note:** The procurement cases must be in the Close
 
 10. Select **Continue**.
 
-    Adding a sourcing request or [[supplier|supplier]] auto-creates purchase lines and creates a new negotiation record to manage negotiation activities for that specific supplier.
+    Adding a sourcing request or supplier auto-creates purchase lines and creates a new negotiation record to manage negotiation activities for that specific supplier.
 
 11. Review the details of the purchase lines within this sourcing event.
 
@@ -88,9 +88,3 @@ Completes the qualification.**Note:** The procurement cases must be in the Close
 
 **Parent Topic:**[Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-intake-guided-exp.md)
 
-## Related
-
-- [[purchase-lines|Purchase lines]]
-- [[pricing|Pricing]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]

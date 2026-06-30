@@ -22,11 +22,11 @@ Role required: sn\_otvr.vul\_event\_manager
 
 ## About this task
 
-The Hardware Vulnerability Assessment menu provides information of all vulnerabilities in the [[operational-technology-overview|Operational Technology]] \(OT\) inventory that match fully or partially to the vulnerabilities enlisted in the National Vulnerability Database \(NVD\).
+The Hardware Vulnerability Assessment menu provides information of all vulnerabilities in the Operational Technology \(OT\) inventory that match fully or partially to the vulnerabilities enlisted in the National Vulnerability Database \(NVD\).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]** &gt; **Hardware Vulnerability Assessment. Select the menu icon \(\[Omitted image "hva-menu.png"\] Alt text: Menu icon.\)**.
+1.  Navigate to **Workspaces** &gt; **Industrial Workspace** &gt; **Hardware Vulnerability Assessment. Select the menu icon \(\[Omitted image "hva-menu.png"\] Alt text: Menu icon.\)**.
 
 2.  Perform the following actions on the **Fully matched assessments**, **Partially matched assessments**, **Vulnerable Items**, **Ignored assessments**, and **Awaiting Normalization** tabs as needed:
 
@@ -63,7 +63,3 @@ The Hardware Vulnerability Assessment menu provides information of all vulnerabi
 
 [Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configure-hva-using-guided-setup.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

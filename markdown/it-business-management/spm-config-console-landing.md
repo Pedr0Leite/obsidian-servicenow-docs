@@ -12,7 +12,7 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Setup Hub \(SPM\)
 
-Setup Hub \(SPM\) centralizes administration of your [[r_ITBusinessManagement|Strategic Portfolio Management]] applications in one workspace. The console brings together setup items for Common configuration, Financials, Project and [[c_DemandManagement|Demand Management]], [[alignment-planner-workspace-landing-page|Strategic Planning]] and [[portfolio-planning-app-landing-page|Portfolio Planning]], and Enterprise-Wide Deployment.
+Setup Hub \(SPM\) centralizes administration of your Strategic Portfolio Management applications in one workspace. The console brings together setup items for Common configuration, Financials, Project and Demand Management, Strategic Planning and Portfolio Planning, and Enterprise-Wide Deployment.
 
 ## Get started
 
@@ -60,9 +60,3 @@ Some ServiceNow resources that can provide helpful information:
 
 [Explore Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-explore.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_DemandManagement|Demand Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

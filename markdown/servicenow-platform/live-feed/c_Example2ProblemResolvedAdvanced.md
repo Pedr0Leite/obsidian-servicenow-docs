@@ -19,7 +19,7 @@ This advanced example demonstrates a table notification that generates an automa
 It also adds a message about the assigned user and posts the message from the assignment group profile instead of the problem record.
 
 -   **Table**: Problem \[problem\]
--   **Active**: Select the [[check-box|check box]].
+-   **Active**: Select the check box.
 -   **Update**: Select the check box.
 -   **Post to Live Feed**: Select the check box.
 -   **Conditions**: \[Problem State\] \[is\] \[Closed/Resolved\]
@@ -52,6 +52,3 @@ It also adds a message about the assigned user and posts the message from the as
 
 [Live Feed table notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_SetUpLiveFeedTableNotifications.md)
 
-## Related
-
-- [[check-box|Check box]]

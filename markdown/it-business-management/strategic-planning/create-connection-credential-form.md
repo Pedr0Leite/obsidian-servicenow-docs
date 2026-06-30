@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Create Connection &amp; Credential form
 
-Learn about the fields of the Create Connection &amp; Credential form, which is used while setting up [[spw-jira-landing|SPW Jira Integrations]].
+Learn about the fields of the Create Connection &amp; Credential form, which is used while setting up SPW Jira Integrations.
 
 <table id="table_kzw_ytn_4hc"><thead><tr><th>
 
@@ -66,6 +66,3 @@ API key
 
 [Create connection and credentials for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-connection-and-credentials.md)
 
-## Related
-
-- [[spw-jira-landing|SPW Jira Integrations]]

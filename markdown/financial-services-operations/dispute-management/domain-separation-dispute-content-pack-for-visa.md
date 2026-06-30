@@ -14,7 +14,7 @@ breadcrumb: [Reference, Dispute Rules Content Pack for Visa, Dispute Management,
 
 # Domain separation
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is unsupported for the [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for the Dispute Rules Content Pack for Visa. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -34,7 +34,3 @@ The ServiceNow® Dispute Rules Content Pack for Visa provides a questionnaire fo
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]

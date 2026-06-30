@@ -14,15 +14,15 @@ breadcrumb: [Use, Hiring tab, Hiring Experiences, HR Service Delivery, Employee 
 
 # Collaborate with the recruiter
 
-Collaborate with the recruiter for the job requisition on the [[activity-lxp|activity]] stream.
+Collaborate with the recruiter for the job requisition on the activity stream.
 
 ## Before you begin
 
-Role required: sn\_ta\_hiring\_core.[[hiring-tab-concept|hiring]]\_manager
+Role required: sn\_ta\_hiring\_core.hiring\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your team** &gt; **Hiring**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your team** &gt; **Hiring**.
 
 2.  Search for the job requisition, select it.
 
@@ -37,8 +37,3 @@ The recruiter receives an email notification with the details of the comment.
 
 **Parent Topic:**[Using Hiring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-hiring.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-landing-page|Employee Center]]

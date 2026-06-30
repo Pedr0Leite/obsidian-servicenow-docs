@@ -22,7 +22,7 @@ Role required: sn\_grc\_metric.manager, sn\_risk.user, and sn\_compliance.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Lists** &gt; **Metrics** &gt; **Metrics**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Lists** &gt; **Metrics** &gt; **Metrics**.
 
 2.  Select a metric from the list.
 
@@ -324,6 +324,3 @@ Details of the citations, such as reference, name, authority document, descripti
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

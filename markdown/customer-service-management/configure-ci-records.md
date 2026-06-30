@@ -26,7 +26,7 @@ Records are displayed in the Customer Information view in Agent Workspace.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer Information** &gt; **Record Configurations**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer Information** &gt; **Record Configurations**.
 
 2.  Select **New**.
 
@@ -90,6 +90,4 @@ Select the fields to display on the record.
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[customer-central|Customer Central]]

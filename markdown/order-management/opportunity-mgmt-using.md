@@ -12,7 +12,7 @@ breadcrumb: [Lead and opportunity apps, Use, Sales Customer Relationship Managem
 
 # Using Opportunity Management
 
-Use the [[opportunity-management|Opportunity Management]] application to create your opportunity.
+Use the Opportunity Management application to create your opportunity.
 
 The Opportunity Management interface has tabs that help you create and manage your opportunities.
 
@@ -112,94 +112,63 @@ Related Channel Partners
 
 Add authorized service organizations or partner entities \(for example, referral or influencer partners\) linked to a customer opportunity. Related channel partners can be:
 
--   Authorized organization: Full permissions to access, view, edit, or [[Modify|modify]] opportunity details
+-   Authorized organization: Full permissions to access, view, edit, or modify opportunity details
 -   Listed organization: Only for tracking purpose. No permissions to view, access, edit, or delete opportunity details
 
 </td></tr></tbody>
-</table>-   **[[create-new-opportunity|Create an opportunity]]**  
+</table>-   **[Create an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-opportunity.md)**  
 Create a new product opportunity in the Opportunity Management application by entering the details, such as account, sales stage, sales cycle type, and deal size.
--   **[[opportunity-management-details-tab|Add and view the details of an opportunity]]**  
+-   **[Add and view the details of an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-details-tab.md)**  
 Use the Details tab to add and view information about your opportunity, including the source and competitor.
--   **[[opp-mgmt-use-needs-analysis|Get product recommendations for opportunities using needs analysis]]**  
+-   **[Get product recommendations for opportunities using needs analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opp-mgmt-use-needs-analysis.md)**  
 Choose a needs template from the product selection guide in the product catalog to get product recommendations for sales opportunities.
--   **[[opportunity-management-line-items-tab|Add line items to an opportunity]]**  
+-   **[Add line items to an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-line-items-tab.md)**  
 Create a new product line item for your opportunity by entering the details, such as product offering and quantity.
--   **[[manage-allocations|Manage allocations]]**  
+-   **[Manage allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-allocations.md)**  
 Allocate and track sales credit across opportunity team members to recognize individual contributions, improve transparency, and support accurate revenue attribution.
--   **[[manage-touchpoints-opportunity|Manage touchpoints on an opportunity]]**  
+-   **[Manage touchpoints on an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-touchpoints-opportunity.md)**  
 View, create, and delete touchpoints associated with an opportunity from the touchpoints related list.
--   **[[opportunity-management-competitors-tab|Add competitors to an opportunity]]**  
+-   **[Add competitors to an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-competitors-tab.md)**  
 Capture competitor details for your opportunity so that you can have winning sales conversations with your customer.
--   **[[opportunity-management-tasks-tab|Add opportunity tasks]]**  
+-   **[Add opportunity tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-tasks-tab.md)**  
 Create opportunity tasks to capture additional details of your customer's requirements.
--   **[[create-new-opportunity-team-member|Add a new opportunity team member]]**  
+-   **[Add a new opportunity team member](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-opportunity-team-member.md)**  
 Create an opportunity team member for a structured collaboration among multiple users.
--   **[[add-opportunity-associated-contact|Add an opportunity associated contact]]**  
+-   **[Add an opportunity associated contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-opportunity-associated-contact.md)**  
 Create opportunity for associated contacts to identify each contact’s role when multiple stakeholders are involved.
--   **[[opportunity-management-emails-tab|Compose emails]]**  
+-   **[Compose emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-emails-tab.md)**  
 Create an email to communicate to your customer the product information that meets their business requirements or the product demo as required by your customer.
--   **[[schedule-meeting-opportunity|Schedule a meeting from an opportunity]]**  
+-   **[Schedule a meeting from an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-meeting-opportunity.md)**  
 Schedule a client meeting directly from an opportunity record to associate it with the opportunity.
--   **[[opportunity-management-viewing-an-opportunity|View an existing opportunity]]**  
+-   **[View an existing opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-viewing-an-opportunity.md)**  
 View an existing opportunity to make changes, such as updating its status or additional details.
--   **[[opportunity-management-kanban-view|Track opportunities using Kanban view]]**  
+-   **[Track opportunities using Kanban view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-kanban-view.md)**  
 Personalize and manage the opportunities information that is most relevant to you and your stakeholders using the Kanban view.
--   **[[opportunity-management-export-opportunities|Export opportunities]]**  
+-   **[Export opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-export-opportunities.md)**  
 You can export an opportunity as a JSON file in Opportunity Management and provide it to a customer. The export opportunity feature in Opportunity Management exports a list of all opportunities.
--   **[[opportunity-management-create-quote|Create a quote from an opportunity]]**  
-[[create-new-quote|Create a quote]] directly from an opportunity as a sales agent or with integrated roles.
--   **[[synchronise_quote_and_opportunity|Sync quote and opportunity]]**  
+-   **[Create a quote from an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-quote.md)**  
+Create a quote directly from an opportunity as a sales agent or with integrated roles.
+-   **[Sync quote and opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/synchronise_quote_and_opportunity.md)**  
 Sync quote information from the quote record to an opportunity record. This keeps the quote data consistent and accurate across both the records and enables sales agents to track revenue from opportunities accurately.
--   **[[opportunity-management-sidebars-teams|Collaborate with stakeholders by using the sidebar]]**  
+-   **[Collaborate with stakeholders by using the sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-sidebars-teams.md)**  
 Initiate a discussion with internal and external stakeholders, such as sales agents, solution consultants, and subject matter experts using sidebar integration with Microsoft Teams.
--   **[[location_based_transactions_for_opportunity|Location-based transactions for Opportunity Management]]**  
+-   **[Location-based transactions for Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/location_based_transactions_for_opportunity.md)**  
 Agents can create opportunities and support product configurations and services for different locations.
 
-**Parent Topic:**[[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
+**Parent Topic:**[Using lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-opportunity-mgt.md)
 
 **Related topics**  
 
 
-[[lead-management-using|Using Lead Management]]
+[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
-[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
-[[using-buying-group|Using Buying Group]]
+[Using Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-buying-group.md)
 
-[[using-sales-forecasting|Using Sales Forecasting]]
+[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-[[use-sales-territory-management|Using Sales Territory Management​]]
+[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
-[[using-activity-management|Using Activity Management]]
+[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
-## Related
-
-- [[create-new-opportunity|Create an opportunity]]
-- [[opportunity-management-details-tab|Add and view the details of an opportunity]]
-- [[opp-mgmt-use-needs-analysis|Get product recommendations for opportunities using needs analysis]]
-- [[opportunity-management-line-items-tab|Add line items to an opportunity]]
-- [[manage-allocations|Manage allocations]]
-- [[manage-touchpoints-opportunity|Manage touchpoints on an opportunity]]
-- [[opportunity-management-competitors-tab|Add competitors to an opportunity]]
-- [[opportunity-management-tasks-tab|Add opportunity tasks]]
-- [[create-new-opportunity-team-member|Add a new opportunity team member]]
-- [[add-opportunity-associated-contact|Add an opportunity associated contact]]
-- [[opportunity-management-emails-tab|Compose emails]]
-- [[schedule-meeting-opportunity|Schedule a meeting from an opportunity]]
-- [[opportunity-management-viewing-an-opportunity|View an existing opportunity]]
-- [[opportunity-management-kanban-view|Track opportunities using Kanban view]]
-- [[opportunity-management-export-opportunities|Export opportunities]]
-- [[opportunity-management-create-quote|Create a quote from an opportunity]]
-- [[synchronise_quote_and_opportunity|Sync quote and opportunity]]
-- [[opportunity-management-sidebars-teams|Collaborate with stakeholders by using the sidebar]]
-- [[location_based_transactions_for_opportunity|Location-based transactions for Opportunity Management]]
-- [[using-lead-opportunity-mgt|Using lead and opportunity management applications]]
-- [[lead-management-using|Using Lead Management]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[using-buying-group|Using Buying Group]]
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[using-activity-management|Using Activity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[Modify|Modify]]
-- [[create-new-quote|Create a quote]]

@@ -14,7 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Submit block list entries from a security incident for the Check Point NGTP integration
 
-[[c_Observables|Observables]] attached to a security incident record are submitted for approval as [[cs-fal-insight-block-list-entries|Block List entries]] to different Block Lists. An optional approval process for Block List entries is part of the preconfigured workflow. The Gateway imports Block List entries — IP addresses, URLs, domains — that are included in Block Lists.
+Observables attached to a security incident record are submitted for approval as Block List entries to different Block Lists. An optional approval process for Block List entries is part of the preconfigured workflow. The Gateway imports Block List entries — IP addresses, URLs, domains — that are included in Block Lists.
 
 ## Before you begin
 
@@ -77,10 +77,6 @@ Users with the sn\_si.analyst role submit Block entries by requesting a block on
 
     The icon next to the Observable field is a link to the ServiceNow AI Platform Observable table.
 
-    The value in the Observable field \(74.125.34.95\) links to the Observable table, and it matches the format that was brought over from the [[sir-landing-page|Security Incident Response]] incident-triggering event.
+    The value in the Observable field \(74.125.34.95\) links to the Observable table, and it matches the format that was brought over from the Security Incident Response incident-triggering event.
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[sir-landing-page|Security Incident Response]]

@@ -17,7 +17,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 Create a layout of the plans for upcoming projects or initiatives while aligning them with your business objectives using roadmaps in a centralized workspace. Facilitate collaboration among stakeholders and adjust plans on the go.
 
-[[roadmaps-in-portfolio-planning|Roadmaps in Portfolio Planning]] Workspace are of two types: Portfolio plan roadmaps and free-form roadmaps.
+Roadmaps in Portfolio Planning Workspace are of two types: Portfolio plan roadmaps and free-form roadmaps.
 
 For portfolio plans, only those planning items that are prioritized from the Prioritization page are shown on the roadmap. See [Prioritize work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/prioritize-work-portfolio-planning-workspace.md).
 
@@ -51,6 +51,3 @@ Visually track the completion of a work item on your portfolio plan roadmap or f
 
 [Roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/roadmaps-in-portfolio-planning.md)
 
-## Related
-
-- [[roadmaps-in-portfolio-planning|Roadmaps in Portfolio Planning]]

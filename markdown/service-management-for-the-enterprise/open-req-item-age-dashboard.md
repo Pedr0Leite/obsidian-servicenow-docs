@@ -57,8 +57,5 @@ Indicators not appearing in dashboard widgets but used in formulas:
 -   Stage
 -   State
 
-**Parent Topic:**[[request-content-pack|Request Management Platform Analytics Solutions]]
+**Parent Topic:**[Request Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/request-content-pack.md)
 
-## Related
-
-- [[request-content-pack|Request Management Platform Analytics Solutions]]

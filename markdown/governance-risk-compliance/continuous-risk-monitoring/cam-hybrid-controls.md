@@ -96,7 +96,7 @@ In CAM there are two ways to inherit controls from the control objectives source
 
 6.  To inherit controls from multiple providers, select a control objective from the Baseline Controls related list.
 
-    1.  Select **[[inherit-from-multiple-providers|Inherit from Multiple Providers]]**.
+    1.  Select **Inherit from Multiple Providers**.
 
     2.  Select the requirements and then select **Add**.
 
@@ -118,6 +118,4 @@ In CAM there are two ways to inherit controls from the control objectives source
 
     The authorization package then moves to the **Implement** state. In this state, based on the setup, controls are created.
 
-## Related
 
-- [[inherit-from-multiple-providers|Inherit from multiple providers]]

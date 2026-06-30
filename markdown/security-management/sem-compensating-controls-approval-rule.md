@@ -12,7 +12,7 @@ breadcrumb: [Questionnaire support in Exception Management via Smart Assessment,
 
 # Questionnaire Configuration form fields
 
-You can define distinct questionnaire for a distinct collection of [[vulnerabilities|vulnerabilities]] or remediation tasks by filtering the vulnerabilities or remediation tasks respectively.
+You can define distinct questionnaire for a distinct collection of vulnerabilities or remediation tasks by filtering the vulnerabilities or remediation tasks respectively.
 
 The Questionnaire Configuration form appears when you select the **Design New Questionnaire** button in the configuration for Exception Management form for any one of the four applications.
 
@@ -95,9 +95,5 @@ Questionnaire
 Questionnaire that appears when a remediation owner is requesting an exception, false positive or risk reduction.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[sem-smart-assessment-exp-management|Questionnaire support in Exception Management via Smart Assessment]]
+</table>**Parent Topic:**[Questionnaire support in Exception Management via Smart Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-smart-assessment-exp-management.md)
 
-## Related
-
-- [[sem-smart-assessment-exp-management|Questionnaire support in Exception Management via Smart Assessment]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -20,12 +20,12 @@ Test and edit the pre-trained similar cases model for predicting similarity in c
 
 -   **About this task**
 
-    Base system models: [[csm-task-intelligence|Task Intelligence for Customer Service]] includes three base system models for predicting similar records for cases:
+    Base system models: Task Intelligence for Customer Service includes three base system models for predicting similar records for cases:
 
     -   Major Case identifier
     -   Similar Open Cases
     -   Similar Resolved Cases
-    To get recommendations for a major case identifier that includes propose major cases and similar major cases, install the [[major-issue-management-application|Major Issue Management]] application and activate the feature as needed to get recommendations. When you install the Task [[intelligence-csm|Intelligence]] for CSM plugin in your production instance, the plugin automatically installs and trains the similar open cases, similar resolved cases, and major case identifier models using your data. These models are then auto-deployed. The similar open case and similar resolved case models show predictions on [[configure-nba|recommended actions]] on [[r_CustomerServiceCaseForm|case form]]. However, recommendations aren’t enabled for the major case identifier model in the base system.
+    To get recommendations for a major case identifier that includes propose major cases and similar major cases, install the [Major Issue Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-management-application.md) application and activate the feature as needed to get recommendations. When you install the Task Intelligence for CSM plugin in your production instance, the plugin automatically installs and trains the similar open cases, similar resolved cases, and major case identifier models using your data. These models are then auto-deployed. The similar open case and similar resolved case models show predictions on recommended actions on case form. However, recommendations aren’t enabled for the major case identifier model in the base system.
 
 
 ## Steps to activate Major Case identifier recommendation
@@ -49,7 +49,7 @@ Propose major issue and similar major cases are inactive in the base system.
 
     Role required: workspace\_admin, ui\_builder\_admin, ti\_admin, next\_best\_action\_author
 
-    Recommended Actions component should be added to the specific record page. \(Front line or [[csm-default-record-page|CSM default record page]]\)
+    Recommended Actions component should be added to the specific record page. \(Front line or CSM default record page\)
 
 -   **About this task**
 
@@ -64,7 +64,7 @@ To enable **Suggested Actions** feature in the Recommended Actions component, fo
 2.  Select the UX application **CSM/FSM Configurable Workspace**.
 3.  Select **Open in UI Builder**.
 4.  Navigate to **Record** under **Pages and variants**.
-5.  Select **[[csm-front-line-case-page|Front-line Case page]]**.
+5.  Select **Front-line Case page**.
 
     **Note:** Verify that you're in the accurate scope to be able to edit.
 
@@ -85,17 +85,5 @@ By following these steps, you successfully activate the Recommended Actions feat
 
 Result: On opening a case, the recommendations section with two tabs: Search and Suggested Actions is displayed. The recommendations are displayed under Suggested Actions.
 
-Find out how to [[create-a-custom-similar-case-model|Create a custom similar case model]], [[edit-a-case-prediction-model|Edit a model]], and [[export-a-task-intelligence-model|Export a model]]
+Find out how to [Create a custom similar case model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-custom-similar-case-model.md), [Edit a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/edit-a-case-prediction-model.md), and [Export a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/export-a-task-intelligence-model.md)
 
-## Related
-
-- [[major-issue-management-application|Install the Major Issue Management application]]
-- [[create-a-custom-similar-case-model|Create a custom similar case model]]
-- [[edit-a-case-prediction-model|Edit a model]]
-- [[export-a-task-intelligence-model|Export a model]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[configure-nba|Recommended Actions]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-front-line-case-page|Front-line case page]]

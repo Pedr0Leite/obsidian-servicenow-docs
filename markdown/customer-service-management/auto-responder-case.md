@@ -18,20 +18,11 @@ Whenever a case is created, the Auto-Responder feature sends an email notificati
 
 By default, the feature sends the email notification for customer service cases logged using emails by users with the snc\_external role. Your administrator can also configure the feature for customer service cases logged using other communication channels such as web, phone, chat, social, community, alert, and virtual agent.
 
-The knowledge articles in an Auto-Responder email notification are included based on [[osp-contextual-search|contextual search]] results of the short description of the case. By default, the articles that a case submitter viewed in the last 30 days aren't included. Your administrator can configure the duration of last viewed content by using a scripted extension point. For more information, see [[use-extension-point-auto-responder|Include advanced contextual search results in Auto-Responder notifications]].
+The knowledge articles in an Auto-Responder email notification are included based on contextual search results of the short description of the case. By default, the articles that a case submitter viewed in the last 30 days aren't included. Your administrator can configure the duration of last viewed content by using a scripted extension point. For more information, see [Include advanced contextual search results in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-extension-point-auto-responder.md).
 
-As a case submitter or watchlist user, you can determine whether you receive any Auto-Responder notifications by setting notification preferences. For more information, see [[set-auto-responder-notification|Set Auto-Responder notification preferences]].
+As a case submitter or watchlist user, you can determine whether you receive any Auto-Responder notifications by setting notification preferences. For more information, see [Set Auto-Responder notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/set-auto-responder-notification.md).
 
 ## Activation information
 
-Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\) and enable the **[[enable-auto-responder|Enable auto-responder]] recommendations** property \(**sn\_customerservice.case.autoresponder.enable**\). For more information, see [[config-auto-responder|Configure Auto-Responder notifications]].
+Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\) and enable the **Enable auto-responder recommendations** property \(**sn\_customerservice.case.autoresponder.enable**\). For more information, see [Configure Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder.md).
 
-## Related
-
-- [[use-extension-point-auto-responder|Include advanced contextual search results in Auto-Responder notifications]]
-- [[set-auto-responder-notification|Set Auto-Responder notification preferences]]
-- [[config-auto-responder|Configure Auto-Responder notifications]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[enable-auto-responder|Enable Auto-Responder]]

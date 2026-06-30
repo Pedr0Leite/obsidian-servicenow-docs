@@ -140,7 +140,7 @@ Activity is listed as 'Email.'
 
 10. Select **Display** to determine where the skill appears.
 
-    -   Select **In-product desktop** to display Now Assist skills on [[migration-forms|forms]] and workspaces. Then, select the roles for whom the skill will be displayed.
+    -   Select **In-product desktop** to display Now Assist skills on forms and workspaces. Then, select the roles for whom the skill will be displayed.
     -   Select **Now Assist panel** to display Now Assist skills in the Now Assist panel.
 11. After selecting **Review and activate** to examine changes, select **Done** to close the case summarization generation settings.
 
@@ -152,6 +152,3 @@ Activity is listed as 'Email.'
 
 [Summarize a call by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/summarize-a-call-by-using-now-assist-for-customer-service-management-csm.md)
 
-## Related
-
-- [[migration-forms|Forms]]

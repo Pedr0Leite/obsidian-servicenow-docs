@@ -12,19 +12,12 @@ breadcrumb: [Configure, Email Administration, Notifications, Configure core feat
 
 # Activate email administration
 
-Activate email filter and [[email-service|email service]].
+Activate email filter and email service.
 
--   **[[t_ActivateEmailFilters|Activate email filters]]**  
-Administrators can activate the [[c_EmailFilters|Email Filters]] plugin \(com.glide.email\_filter\).
--   **[[activate-email-service|Activate Email Service]]**  
+-   **[Activate email filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateEmailFilters.md)**  
+Administrators can activate the Email Filters plugin \(com.glide.email\_filter\).
+-   **[Activate Email Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-email-service.md)**  
 Users with the admin role can activate the Email Service plugin \(com.glide.email.service\) to enable the Email API.
 
-**Parent Topic:**[[configuring-email-admin|Configure email administration]]
+**Parent Topic:**[Configure email administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-admin.md)
 
-## Related
-
-- [[t_ActivateEmailFilters|Activate email filters]]
-- [[activate-email-service|Activate Email Service]]
-- [[configuring-email-admin|Configure email administration]]
-- [[email-service|Email service]]
-- [[c_EmailFilters|Email filters]]

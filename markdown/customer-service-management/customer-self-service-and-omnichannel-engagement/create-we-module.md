@@ -60,7 +60,7 @@ External domain
 
 </td><td>
 
-The domain where you want to embed the [[servicenow-web-components-overview|ServiceNow components]].**Note:** If you update this field, review the configuration status of CORS [[gamification-components-rules|rules]] and reconfigure them if necessary.
+The domain where you want to embed the ServiceNow components.**Note:** If you update this field, review the configuration status of CORS rules and reconfigure them if necessary.
 
 </td></tr><tr><td>
 
@@ -97,7 +97,4 @@ Thumbnail image of a module. User can see this thumbnail when browsing modules f
 
     **Note:** This action permanently deletes the module and its component instances, and this action can’t be undone. Existing component instances on your website will continue to function. To remove those instances, delete or comment out the embed codes on your webpages.
 
-## Related
 
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[gamification-components-rules|Rules]]

@@ -14,11 +14,11 @@ breadcrumb: [ACC certificates, ACC deployment - shared between servers and endpo
 
 # Run Certificate Discovery via Agent Client Collector for Visibility - Content
 
-Discover TLS/SSL certificates used by ports running on the agent's server. The [[cert-inventory-mgmt|Certificate Inventory and Management]] application uses this information to manage TLS/SSL certificates.
+Discover TLS/SSL certificates used by ports running on the agent's server. The Certificate Inventory and Management application uses this information to manage TLS/SSL certificates.
 
 ## Before you begin
 
-Verify that the latest version of [[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\) is installed.
+Verify that the latest version of Agent Client Collector for Visibility - Content \(ACC-VC\) is installed.
 
 Verify that the latest version of Certificate Inventory and Management is installed.
 
@@ -70,7 +70,3 @@ A CI relationship is created between the discovered certificates and the corresp
 
 [Run Certificate Discovery via port scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/run-cert-inventory-mgmt-ports.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[acc-landing-page|Agent Client Collector]]

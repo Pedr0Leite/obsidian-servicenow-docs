@@ -16,7 +16,7 @@ breadcrumb: [Exploring tables, Table admin, Tables and data, Configure core feat
 
 Learn about the role storage aliases play in data manipulation and field creation in the ServiceNow AI Platform.
 
-Understanding storage aliases is important for effective [[c_DataManagement|data management]] and schema customization in the ServiceNow AI Platform, particularly when dealing with complex table hierarchies like those in the Task \[task\] table.
+Understanding storage aliases is important for effective data management and schema customization in the ServiceNow AI Platform, particularly when dealing with complex table hierarchies like those in the Task \[task\] table.
 
 By default, administrators have access to the Storage Column Aliases \[sys\_storage\_alias\] table within an instance. However, transactional processes against this table can't be performed by an administrator from the user interface.
 
@@ -68,7 +68,7 @@ SELECT a_ref_2 from task WHERE sys_class_name='change_request' AND a_ref_2 IS NO
 
 The query specifies data in the physical column a\_ref\_2. The class discriminator change\_request is used in combination with the storage alias a\_ref\_2 to query the logical element cab\_delegate from the logical class change\_request on the physical Task \[task\] table.
 
-The naming convention for fields created in the actual physical tables can vary depending on the type of field. In this example, a\_ref\_2 is an alias on the Task \[task\] table that holds values for [[reference-email-admin|reference]] fields.
+The naming convention for fields created in the actual physical tables can vary depending on the type of field. In this example, a\_ref\_2 is an alias on the Task \[task\] table that holds values for reference fields.
 
 ## Functionality and usage
 
@@ -96,7 +96,3 @@ Storage aliases serve multiple purposes.
 
 **Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 
-## Related
-
-- [[c_DataManagement|Data Management]]
-- [[reference-email-admin|Reference]]

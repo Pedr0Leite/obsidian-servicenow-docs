@@ -181,13 +181,10 @@ When the customer accepts the resolution, the Outcome stage completes and the Cl
 </td></tr></tbody>
 </table>## Using ADR case
 
-To learn more about how to use ADR case, see [[use-alternative-dispute-resolution-case|Using alternative dispute resolution case]].
+To learn more about how to use ADR case, see [Using alternative dispute resolution case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/use-alternative-dispute-resolution-case.md).
 
 **Related topics**  
 
 
 [Customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
-## Related
-
-- [[use-alternative-dispute-resolution-case|Using alternative dispute resolution case]]

@@ -17,7 +17,7 @@ Contributors, processors, and underwriters can manage group life and disability 
 ## Key features
 
 -   Baseline service flow for changing group policy member information
--   Initiate and complete insurance workflows using dedicated playbooks and workspaces designed for each role. Playbooks provide step-by-step guidance through tasks to ensure that every step gets completed at the right stage of the process. Use or enhance baseline service flows for [[group-life-servicing|Group Life Servicing]].
+-   Initiate and complete insurance workflows using dedicated playbooks and workspaces designed for each role. Playbooks provide step-by-step guidance through tasks to ensure that every step gets completed at the right stage of the process. Use or enhance baseline service flows for Group Life Servicing.
 -   Baseline data model to help create relevant service definitions and view accurate information on the policy
 -   Document processor feature to help collect and process documents intelligently, as well as configure and send out documents for e-signature
 -   Personalized Workspace for different roles
@@ -79,7 +79,3 @@ Underwriters help review and process servicing requests if their inputs are requ
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[group-life-servicing|Group Life Servicing]]

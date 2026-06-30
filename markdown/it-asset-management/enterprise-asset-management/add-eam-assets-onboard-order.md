@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Onboarding** list, select **Onboarding order**.
 
@@ -61,6 +61,3 @@ Role required: sn\_eam.enterprise\_asset\_technician
 
 [Create an onboarding order for enterprise assets in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

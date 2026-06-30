@@ -12,13 +12,13 @@ breadcrumb: [Security Operations]
 
 # Security Posture Control
 
-Gain visibility into your enterprise asset inventory and security tool coverage. Use policies provided with the product or create your own to identify assets missing key security [[tools|tools]], such as endpoint protection, configuration management, and vulnerability scanning. Monitor assets for security tool configurations specific to your environment and automate the remediation workflow for security gaps in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+Gain visibility into your enterprise asset inventory and security tool coverage. Use policies provided with the product or create your own to identify assets missing key security tools, such as endpoint protection, configuration management, and vulnerability scanning. Monitor assets for security tool configurations specific to your environment and automate the remediation workflow for security gaps in the Configuration Compliance application.
 
 ## Get started
 
 <table id="table_gwg_1kn_g1c" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn about Security Posture Control concepts and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-overview.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about Security Posture Control concepts and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-overview.md)
 
 </td><td>
 
@@ -26,7 +26,7 @@ Gain visibility into your enterprise asset inventory and security tool coverage.
 
 </td><td>
 
-[Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:[[integrating-threat-intelligence-security-center|Integrate]] Service Graph Connectors with Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-use-connectors-policies.md)
+[Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Integrate Service Graph Connectors with Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-use-connectors-policies.md)
 
 </td></tr><tr><td>
 
@@ -48,9 +48,3 @@ Gain visibility into your enterprise asset inventory and security tool coverage.
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[tools|Tools]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[integrating-threat-intelligence-security-center|Integrate]]

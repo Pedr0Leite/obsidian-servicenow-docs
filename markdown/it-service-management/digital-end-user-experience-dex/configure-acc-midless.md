@@ -110,11 +110,8 @@ N/A
 Explains what the specified command does.
 
 </td></tr></tbody>
-</table>2.  Restart the agent for the configuration [[settings-mobile|settings]] to be entered into the `acc.yml` file.
+</table>2.  Restart the agent for the configuration settings to be entered into the `acc.yml` file.
 
 
 **Parent Topic:**[Advanced configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-advanced-configuration.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

@@ -14,18 +14,13 @@ breadcrumb: [Local authentication, Authentication, Access Management]
 
 # Implement a nonce
 
-You can [[c_Implementation|implement a nonce]] to be used with single sign-on digest [[c_Authentication|authentication]].
+You can implement a nonce to be used with single sign-on digest authentication.
 
 To use a nonce with the unencrypted token or encrypted token methods of single sign on, these steps apply with only a few minor changes.
 
-**Note:** The nonce is used only for login requests, not for any other type of [[c_requestAPI|request]]. If the system receives a nonce value after login, the nonce is not consumed.
+**Note:** The nonce is used only for login requests, not for any other type of request. If the system receives a nonce value after login, the nonce is not consumed.
 
 ## Benefits
 
 The usage of a nonce prohibits a malicious user from performing a replay attack in order to log into your system.
 
-## Related
-
-- [[c_Implementation|Implement a nonce]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

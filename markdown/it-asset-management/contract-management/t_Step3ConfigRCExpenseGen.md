@@ -22,7 +22,7 @@ Role required: financial\_mgmt\_user, asset, or contract\_manager
 
 ## Procedure
 
-1.  Navigate to **Contract** &gt; **[[c_Contracts|Contracts]]** &gt; **All**.
+1.  Navigate to **Contract** &gt; **Contracts** &gt; **All**.
 
 2.  Select the contract to generate expenses.
 
@@ -81,6 +81,3 @@ Select **Allocate cost to contract**.
 
 [Contract life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_ContractLifeCycle.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]

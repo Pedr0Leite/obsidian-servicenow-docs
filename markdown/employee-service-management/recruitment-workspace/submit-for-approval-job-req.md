@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment Workspace**.
 
 2.  Select **New** from the **Active job requisition requests by state** card.
 
@@ -62,6 +62,3 @@ The approval request shows up on the approvers **My tasks** open requests.
 
 [Open a job requisition in your ATS]()
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

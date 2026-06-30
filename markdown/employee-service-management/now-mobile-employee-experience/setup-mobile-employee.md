@@ -14,9 +14,9 @@ breadcrumb: [Now Mobile app, Unified Employee Experience, Employee Service Manag
 
 # Configuring Now Mobile
 
-Configure options for the [[mobile-employee-experience|Now Mobile app]]. For example, you can link the app with a service catalog and knowledge base, personalize the greeting for the home page, and specify which records appear under **My Requests** in the **For Me** tab.
+Configure options for the Now Mobile app. For example, you can link the app with a service catalog and knowledge base, personalize the greeting for the home page, and specify which records appear under **My Requests** in the **For Me** tab.
 
-**Note:** [[offline-mode|Offline mode]] is not supported in the Now Mobile app.
+**Note:** Offline mode is not supported in the Now Mobile app.
 
 ## For Me
 
@@ -28,7 +28,7 @@ This page includes these configuration options:
 
 -   **My To-Dos**
 
-    Users can view items that are assigned to them and complete their tasks. By default, My To-Dos show the user things that they need to approve from the Requests \[sc\_request\] and Requested Items \[sc\_req\_item\] tables. Other applications, such as [[hr-service-delivery|HR Service Delivery]], might include other types of tasks.
+    Users can view items that are assigned to them and complete their tasks. By default, My To-Dos show the user things that they need to approve from the Requests \[sc\_request\] and Requested Items \[sc\_req\_item\] tables. Other applications, such as HR Service Delivery, might include other types of tasks.
 
 
 \[Omitted image "mobile\_home.png"\] Alt text: Configure a personalized welcome greeting.
@@ -111,8 +111,3 @@ If you are upgrading from a previous release, run a script to populate search su
 
 **Parent Topic:**[Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/mobile-employee-experience.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[offline-mode|Offline mode]]
-- [[hr-service-delivery|HR Service Delivery]]

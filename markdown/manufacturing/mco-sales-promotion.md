@@ -14,18 +14,12 @@ breadcrumb: [Agent management, Use, Manufacturing Commercial Operations]
 
 Sales Promotion Management enables manufacturers to create, manage, and track promotional programs across their dealer and distributor networks. Use it to configure promotion types, define eligibility criteria, and set discount structures. Integration with dealer operations ensures promotions are visible and claimable at the point of sale.
 
--   **[[mco-create-sales-promotion-claim-using-playbook|Create a sales promotion claim using playbook]]**  
+-   **[Create a sales promotion claim using playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-sales-promotion-claim-using-playbook.md)**  
 To be done.
--   **[[mco-sls-pro-mgmt|Sales promotion management]]**  
+-   **[Sales promotion management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-mgmt.md)**  
 The Agent workspace enables the OEMs to create the promotion campaign for a specific set of customers.
--   **[[mco-sls-pro-clm-mgmt|Sales promotion claim management]]**  
+-   **[Sales promotion claim management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-clm-mgmt.md)**  
 To be updated
 
-**Parent Topic:**[[mco-agent-management|Agent management]]
+**Parent Topic:**[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 
-## Related
-
-- [[mco-create-sales-promotion-claim-using-playbook|Create a sales promotion claim using playbook]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
-- [[mco-agent-management|Agent management]]

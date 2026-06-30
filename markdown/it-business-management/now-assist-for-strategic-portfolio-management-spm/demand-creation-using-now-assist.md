@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now As
 
 # Create demands by using the conversational experience
 
-Use the conversational experience of Now Assist in Virtual Agent to [[t_CreatingDemands|create a demand]] from any application that supports Virtual Agent.
+Use the conversational experience of Now Assist in Virtual Agent to create a demand from any application that supports Virtual Agent.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Short: **Create demand**
 Virtual Agent starts a conversation to ask more information from you about the demand through a series of questions:-   What is the name of your demand?
 -   What is the reason for this demand?
 -   What are the risks associated with performing this demand?
-The information you provide is used to fill in the fields of the [[demand-form|Demand form]]. You can skip answering a question that is related to non-required fields by entering **skip**.
+The information you provide is used to fill in the fields of the Demand form. You can skip answering a question that is related to non-required fields by entering **skip**.
 
 \[Omitted image "now-assist-demand-short-prompt.png"\] Alt text: Basic instruction to create a demand using Virtual Agent chat in the Employee Center.
 
@@ -98,7 +98,3 @@ Using the context that you provided, Virtual Agent automatically matches it to t
 
 [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-now-assist-in-va.md)
 
-## Related
-
-- [[t_CreatingDemands|Create a demand]]
-- [[demand-form|Demand form]]

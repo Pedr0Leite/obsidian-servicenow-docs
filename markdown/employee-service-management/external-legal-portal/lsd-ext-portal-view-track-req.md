@@ -14,7 +14,7 @@ breadcrumb: [Using External Legal Service Center, External Legal Service Center,
 
 # View and track requests submitted in External Legal Service Center
 
-View and track requests submitted for a legal service from the [[lsd-ext-portal-landing-page|External Legal Service Center]].
+View and track requests submitted for a legal service from the External Legal Service Center.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ After you submit a request, the assigned group starts working on it. You receive
 
 5.  Select a request to view the details.
 
-    -   In the [[activity-lxp|Activity]] tab, view the comments.
+    -   In the Activity tab, view the comments.
     -   In the Attachment tab, view the attached files.
     -   In the Request Details, view the summary and description.
 6.  Post a comment in the request.
@@ -61,7 +61,4 @@ After you submit a request, the assigned group starts working on it. You receive
 
     The request is canceled and you will receive an email notification for the cancellation.
 
-## Related
 
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]
-- [[activity-lxp|Activity]]

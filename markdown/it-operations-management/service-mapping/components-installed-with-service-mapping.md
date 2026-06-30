@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Components installed with Service Mapping
 
-Several types of components are installed with activation of the [[c_ServiceMappingOverview|Service Mapping]] plugin, including tables, user roles, properties, and scheduled jobs.
+Several types of components are installed with activation of the Service Mapping plugin, including tables, user roles, properties, and scheduled jobs.
 
 Demo data is available for this feature.
 
@@ -62,7 +62,7 @@ Views maps for operational service instances and retrieves service content using
 
 </td><td>
 
-Configure [[r_ITOMApplications|IT Operations Management]] applications using the ITOM Guided Setup. **Note:** The ITOM Guided Setup does not cover Service Mapping.
+Configure IT Operations Management applications using the ITOM Guided Setup. **Note:** The ITOM Guided Setup does not cover Service Mapping.
 
 </td><td>
 
@@ -156,7 +156,7 @@ Views maps for operational service instances to plan change or migration, as wel
 
 </td><td>
 
-Fixes [[r-discovery|discovery]] errors in bulk using the error framework feature in Service Mapping and Discovery.
+Fixes discovery errors in bulk using the error framework feature in Service Mapping and Discovery.
 
 </td><td>
 
@@ -209,7 +209,7 @@ Update App Service Status \[sysauto\_script\_5641702ac32102003e76741e81d3ae9e\]
 
 </td><td>
 
-Runs every minute. Updates the [[c_DiscoveryStatus|discovery status]] attribute for application services. The discovery status is calculated as the overall status over all endpoints that an service instance contains.
+Runs every minute. Updates the discovery status attribute for application services. The discovery status is calculated as the overall status over all endpoints that an service instance contains.
 
 </td></tr><tr><td>
 
@@ -462,7 +462,7 @@ Performance Statistics \[sa\_performance\_statistics\]
 
 </td><td>
 
-Internal table for storing performance data on impact calculation in [[c_EM|Event Management]].
+Internal table for storing performance data on impact calculation in Event Management.
 
 </td></tr><tr><td>
 
@@ -966,7 +966,7 @@ Serverless Execution Pattern \[discovery\_ptrn\_hostless\_lchr\]
 
 </td><td>
 
-Stores information about the pattern launcher mechanism for [[serverless-discovery|serverless discovery]].
+Stores information about the pattern launcher mechanism for serverless discovery.
 
 </td></tr><tr><td>
 
@@ -1398,7 +1398,7 @@ sa.topdown.mapping\_with\_acc\_mode
 
 </td><td>
 
-This property enables top-down discovery and service mapping using [[acc-landing-page|Agent Client Collector]] by defining the MID Server selection mode for top-down discovery. -   **Type:** integer
+This property enables top-down discovery and service mapping using Agent Client Collector by defining the MID Server selection mode for top-down discovery. -   **Type:** integer
 -   **Default value:** 0
 -   **Other possible values:** 1,2
 
@@ -1710,13 +1710,3 @@ Select the subnetwork location to allow for the identification of the appropriat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[c_EM|Event Management]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[acc-landing-page|Agent Client Collector]]

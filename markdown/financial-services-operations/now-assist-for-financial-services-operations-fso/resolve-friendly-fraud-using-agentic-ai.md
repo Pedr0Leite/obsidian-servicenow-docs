@@ -32,9 +32,9 @@ When a friendly fraud task is identified, the Friendly fraud AI agent is display
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace** and open a card dispute.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace** and open a card dispute.
 
-    If friendly fraud is detected based on the defined rules, the **[[resolve-friendly-fraud|Detect friendly fraud]]** activity appears in the **Investigate** stage. The transaction details along with the evidence are displayed. When the AI agent is displayed, a notification appears in the Now Assist panel and an active chat is initiated.
+    If friendly fraud is detected based on the defined rules, the **Detect friendly fraud** activity appears in the **Investigate** stage. The transaction details along with the evidence are displayed. When the AI agent is displayed, a notification appears in the Now Assist panel and an active chat is initiated.
 
 2.  Select the Now Assist panel icon \(\[Omitted image "icon-ai-sparkle.png"\] Alt text: now assist panel icon\) and open the active chat for the disputed transaction.
 
@@ -59,7 +59,3 @@ Based on the resolution steps that the dispute agent selects, the friendly fraud
 
 **Parent Topic:**[Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/using-ai-agent-use-cases-in-now-assist-for-fso.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[resolve-friendly-fraud|Detect friendly fraud]]

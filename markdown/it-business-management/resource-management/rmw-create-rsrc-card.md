@@ -22,7 +22,7 @@ Role required: resource\_user, resource\_manager, it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[rsrc-mgmt-wrkspc|Resource Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
 2.  Select the Resource cards icon \(\[Omitted image "rmw-resource-cards-L1-icon.png"\] Alt text: Resource cards icon.\) from the menu.
 
@@ -112,6 +112,3 @@ For more information on how to filter and view unassigned work, and handle resou
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

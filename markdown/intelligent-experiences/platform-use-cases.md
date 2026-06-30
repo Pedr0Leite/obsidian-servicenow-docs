@@ -12,7 +12,7 @@ breadcrumb: [Now Assist agentic workflows, Now Assist AI assets, Enable AI exper
 
 # Platform agentic workflows
 
-You can use the available [[na-ai-agents|Now Assist AI agents]] Platform agentic workflows to achieve business outcomes with self-executing autonomous AI agents.
+You can use the available Now Assist AI agents Platform agentic workflows to achieve business outcomes with self-executing autonomous AI agents.
 
 Use the following agentic workflows that are available with ServiceNow AI Platform.
 
@@ -136,7 +136,7 @@ Processes images and converts them to tasks.
 </td><td>
 
 -   Image Processor Agent
--   [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]
+-   Document and visual insights AI agent
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Suggests answers for survey questions.
 </td></tr></tbody>
 </table>**Important:** By default, all agentic workflows and AI agent records are read only.
 
-To run the AI agents autonomously, you must either [[activate-aia-use-case|activate the agentic workflow template]] or [[clone-aia-usecase|duplicate the agentic workflow]], and then proceed with the following steps:
+To run the AI agents autonomously, you must either [activate the agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md) or [duplicate the agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and then proceed with the following steps:
 
 -   Activate the agentic workflow.
 -   Activate all agents within the agentic workflow.
@@ -164,7 +164,7 @@ To run the AI agents autonomously, you must either [[activate-aia-use-case|activ
 
 To find the tools mapped to AI agents used in the agentic workflows, you can perform the following steps:
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage**
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**
 2.  In the Agentic workflows tab, select the agentic workflow.
 3.  In the **Describe and connect** step of the guided setup, select the AI agent you want to see the tools for.
 4.  Go to the **Add tools and information** step.
@@ -177,14 +177,5 @@ To enable users to access agentic workflows with UI actions, you can open the ag
 
 If you don't see your UI actions after configuring it in AI Agent Studio, ensure that the property **com.glide.agentic\_processes\_view.enabled** is set to `true`.
 
-There might be AI agents installed with the [[platform-now-assist-landing|Now Assist]] application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [[find-ai-agents|Find AI agents]].
+There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[activate-aia-use-case|Activate an agentic workflow template]]
-- [[clone-aia-usecase|Duplicate an agentic workflow]]
-- [[find-ai-agents|Find AI agents]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]

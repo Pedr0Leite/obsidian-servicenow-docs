@@ -14,7 +14,7 @@ breadcrumb: [Regulatory change tasks, Regulatory Change Management Core UI, Use,
 
 # Users and associated actions for the regulatory change tasks
 
-Managers with the sn\_grc\_reg\_change.manager role and the users with the sn\_grc\_reg\_change.user role can view and perform certain tasks in the [[reg-change-task|Regulatory Change Tasks]] module.
+Managers with the sn\_grc\_reg\_change.manager role and the users with the sn\_grc\_reg\_change.user role can view and perform certain tasks in the Regulatory Change Tasks module.
 
 ## Views and actions available to managers
 
@@ -61,6 +61,3 @@ If the user is assigned the regulatory change task, then the user can log in and
 
 **Parent Topic:**[Regulatory change tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-task.md)
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]

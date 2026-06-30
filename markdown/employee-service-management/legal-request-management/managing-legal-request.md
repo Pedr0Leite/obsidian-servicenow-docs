@@ -24,16 +24,12 @@ When a requester creates a legal request under the incorrect Practice Area and C
 
 **Note:** The external storage options that support attachments in a transferred request are Microsoft OneDrive and Google Drive.
 
-Use the [[legal-counsel-center-landing|Legal Counsel Center]] to work on legal requests assigned to you.
+Use the Legal Counsel Center to work on legal requests assigned to you.
 
 -   **[Assign a legal request]()**  
-[[assign-legal-request-1|Assign a legal request]] to yourself or to someone in your assignment group.
+Assign a legal request to yourself or to someone in your assignment group.
 -   **[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)**  
 Work on legal requests assigned to youor as a collaboratorto resolve issues or answer queries.
 
 **Parent Topic:**[Using Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submitting-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[assign-legal-request-1|Assign a legal request]]

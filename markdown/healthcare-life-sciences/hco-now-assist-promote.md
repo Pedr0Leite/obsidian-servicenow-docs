@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Promote Now Assist in Virtual Agent for Care Team Portal
 
-The [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]] can be promoted in Assistant Designer to show when using Now Assist in Virtual Agent.
+The Request care team assistance agentic workflow can be promoted in Assistant Designer to show when using Now Assist in Virtual Agent.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ Role required: admin
 
 ## Result
 
-The Request care team assistance agentic workflow is now promoted for users and is selectable when using Now Assist in Virtual Agent in [[care-team-portal-landing|Care Team Portal]].
+The Request care team assistance agentic workflow is now promoted for users and is selectable when using Now Assist in Virtual Agent in Care Team Portal.
 
-## Related
-
-- [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]]
-- [[care-team-portal-landing|Care Team Portal]]

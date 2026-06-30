@@ -14,7 +14,7 @@ breadcrumb: [Raise compliance request, Use, Compliance Case Management, Governan
 
 # Raise a compliance request from the Employee Center
 
-Raise a compliance request regarding organization's policies, inquiries, and guidelines by using the [[employee-center|Employee Center]] application. By seeking guidance, clarification, or approval, you contribute to maintaining a culture of compliance within your organization.
+Raise a compliance request regarding organization's policies, inquiries, and guidelines by using the Employee Center application. By seeking guidance, clarification, or approval, you contribute to maintaining a culture of compliance within your organization.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_grc\_emp\_user.grc\_employee or sn\_comp\_case.compliance\_ca
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the Report a [[compliance-request-form|Compliance Request form]], see [Raise a Compliance Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-request-form-employee-center.md).
+    For a description of the field values on the Report a Compliance Request form, see [Raise a Compliance Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-request-form-employee-center.md).
 
 5.  On the Report a compliance request form, select **Add attachments** to attach supporting material or evidence.
 
@@ -38,12 +38,7 @@ Role required: sn\_grc\_emp\_user.grc\_employee or sn\_comp\_case.compliance\_ca
 
 
 -   **[Raise a Compliance Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-request-form-employee-center.md)**  
-Use the [[compliance-request-form-employee-center|Raise a Compliance Request form]] in the Employee Center to raise a compliance request.
+Use the Raise a Compliance Request form in the Employee Center to raise a compliance request.
 
 **Parent Topic:**[Raising a compliance request in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/raising-compliance-request.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[compliance-request-form|compliance request form]]
-- [[compliance-request-form-employee-center|Raise a Compliance Request form]]

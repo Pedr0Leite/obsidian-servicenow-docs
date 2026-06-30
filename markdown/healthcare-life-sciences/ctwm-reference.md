@@ -12,8 +12,5 @@ breadcrumb: [Care Team Work Management, Healthcare Operations, Healthcare and Li
 
 # Care Team Work Management reference
 
-Reference topics provide additional information about [[ctwm-landing|Care Team Work Management]] components.
+Reference topics provide additional information about Care Team Work Management components.
 
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]

@@ -14,7 +14,7 @@ breadcrumb: [SSHCommand probe, List of Discovery probes, Discovery probes and se
 
 # SSHCommand parameters
 
-Several parameters are available for the [[c_SSHCommandProbe|SSHCommand probe]].
+Several parameters are available for the SSHCommand probe.
 
 For instructions on configuring probe parameters, see [Set probe parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_SetProbeParameters.md).
 
@@ -224,6 +224,3 @@ Displays a &lt;credentials\_debug&gt; section in the ECC queue, which can help y
 </td></tr></tbody>
 </table>**Parent Topic:**[SSHCommand probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SSHCommandProbe.md)
 
-## Related
-
-- [[c_SSHCommandProbe|SSHCommand probe]]

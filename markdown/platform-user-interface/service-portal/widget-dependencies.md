@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Create a widget dependency
 
-In [[c_ServicePortal|Service Portal]], you can link JavaScript and CSS files to widgets to create dependencies between widgets and third-party libraries, external [[c_StyleSheets|style sheets]], and angular modules.
+In Service Portal, you can link JavaScript and CSS files to widgets to create dependencies between widgets and third-party libraries, external style sheets, and angular modules.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ Widgets can have as many or as few dependencies as needed. However, the more you
 
 2.  Add files to the dependency package.
 
-    After you save the information for your dependency package, use the [[c_RelatedLists|related lists]] to add JS and CSS Include files. For each related list, include the following information:
+    After you save the information for your dependency package, use the related lists to add JS and CSS Include files. For each related list, include the following information:
 
 <table id="table_sjx_vgl_3w"><thead><tr><th>
 
@@ -71,7 +71,7 @@ Source
 
 Depending on whether you add a JS Include or a CSS Include, select one of these options from the list:-   URL
 -   UI script \(for a JS Include\) or Style Sheet \(for a CSS Include\)
- For a JS Include, use the UI Script field to [[onboarding-modals-reference|reference]] a UI Script found in **System UI** &gt; **UI Scripts**.
+ For a JS Include, use the UI Script field to reference a UI Script found in **System UI** &gt; **UI Scripts**.
 
  For the CSS Include, use the Style Sheet field to reference a record in the `sp_css` table.
 
@@ -96,9 +96,3 @@ You can include font icons wherever a widget is loaded by including them as a wi
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_StyleSheets|Style sheets]]
-- [[c_RelatedLists|Related lists]]
-- [[onboarding-modals-reference|Reference]]

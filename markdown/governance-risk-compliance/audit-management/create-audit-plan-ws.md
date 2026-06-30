@@ -28,7 +28,7 @@ When an audit plan is created and engagements are added to the plan, the plan is
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit workspace]]** &gt; **Planning** &gt; **All Plans**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit workspace** &gt; **Planning** &gt; **All Plans**.
 
 2.  Alternatively, navigate to **Audit** &gt; **Audit workspace** &gt; **Planning** &gt; **My Plans**.
 
@@ -277,6 +277,3 @@ Additional comments about the plan that are visible to the customer.
 
 The plan is sent for approval to the approver. After the plan is approved, the form displays the **Approved by** and **Approved on** fields with the values automatically set.
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]

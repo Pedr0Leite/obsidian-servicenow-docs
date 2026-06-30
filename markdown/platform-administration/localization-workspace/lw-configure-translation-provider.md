@@ -14,17 +14,17 @@ breadcrumb: [Language setup in Localization Workspace, Configuring Localization 
 
 # Configure a language provider
 
-Set up language providers as part of [[configuring-localization-workspace|configuring Localization Workspace]]. For each target language you can configure multiple providers with their pricing.
+Set up language providers as part of configuring Localization Workspace. For each target language you can configure multiple providers with their pricing.
 
 ## Before you begin
 
 -   Install at least one target non-English [language](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/exploring-system-localization.md) on your instance.
--   Configure at least one [Translation Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md) \(TMS\) in [[localization-framework-landing|Localization Framework]], or one [machine translator configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md) in [[dynamic-translation|Dynamic Translation]]. From version 2.0.2, you can access these tables in [Configuration Hub in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-configuration-hub.md)
--   Role required: [[ia-localization-il|localization]]\_admin. The sn\_lw.user role can view the language providers but can't create any.
+-   Configure at least one [Translation Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md) \(TMS\) in Localization Framework, or one [machine translator configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md) in Dynamic Translation. From version 2.0.2, you can access these tables in [Configuration Hub in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-configuration-hub.md)
+-   Role required: localization\_admin. The sn\_lw.user role can view the language providers but can't create any.
 
 ## About this task
 
-In [[localization-workspace|Localization Workspace]], a language provider is a record that combines:
+In Localization Workspace, a language provider is a record that combines:
 
 -   a third-party service provider \(such as a TMS or machine translation API\)
 -   a target language
@@ -135,10 +135,3 @@ After you have configured individual language providers, you can optionally defi
 
 **Parent Topic:**[Language setup in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-language-setup.md)
 
-## Related
-
-- [[configuring-localization-workspace|Configuring Localization Workspace]]
-- [[localization-framework-landing|Localization Framework]]
-- [[dynamic-translation|Dynamic translation]]
-- [[ia-localization-il|Localization]]
-- [[localization-workspace|Localization Workspace]]

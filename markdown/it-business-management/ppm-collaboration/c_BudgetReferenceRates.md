@@ -57,16 +57,12 @@ The reporting currency.
 
 Budget reference rates are exchange rates between currencies. Each reference rate is valid for a specified time period. The application uses budget reference rates when budget items are in a different currency from the budget plan and forecast. The application automatically converts budget item currency values to a global system currency value when it calculates the Budget Amount on a Budget Plan, and when it shows values on budget forecasts.
 
-**Note:** Currency support is for budgets only. You cannot [[t_AllocateWResAllocationsRelList|create allocations]] in multiple currencies.
+**Note:** Currency support is for budgets only. You cannot create allocations in multiple currencies.
 
 **Parent Topic:**[PPM Standard \(Project Portfolio Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuiteWithFinancials.md)
 
 **Related topics**  
 
 
-[Activate [[investment-funding-overview|Investment Funding]] for projects and demands]()
+[Activate Investment Funding for projects and demands]()
 
-## Related
-
-- [[t_AllocateWResAllocationsRelList|Create allocations]]
-- [[investment-funding-overview|Investment Funding]]

@@ -25,13 +25,13 @@ Role required:
 
 ## About this task
 
-To modify the relationships between related [[ai-assets|AI assets]], a user with the AI asset owner \(sn\_ai\_asset\_mgmt.ai\_asset\_owner\) role can initiate the change process by creating and submitting a change request. After the request is submitted, a user with the AI steward \(sn\_ai\_governance\_ai\_steward\) role can review and approve the request. This approval triggers the [[ai-control-tower-landing|AI Control Tower]] application to create a new AI asset record for the asset that the change request was created for. The asset then automatically enters the onboarding stage of the asset life cycle.
+To modify the relationships between related AI assets, a user with the AI asset owner \(sn\_ai\_asset\_mgmt.ai\_asset\_owner\) role can initiate the change process by creating and submitting a change request. After the request is submitted, a user with the AI steward \(sn\_ai\_governance\_ai\_steward\) role can review and approve the request. This approval triggers the AI Control Tower application to create a new AI asset record for the asset that the change request was created for. The asset then automatically enters the onboarding stage of the asset life cycle.
 
 You can create change requests for the following AI asset types:
 
--   [[ai-system|AI systems]] \(classic, generative, and agentic\)
--   [[ai-models|AI models]]
--   [[ai-datasets|Datasets]]
+-   AI systems \(classic, generative, and agentic\)
+-   AI models
+-   Datasets
 
 ## Procedure
 
@@ -39,7 +39,7 @@ You can create change requests for the following AI asset types:
 
 2.  If you have the AI asset owner \(sn\_ai\_asset\_mgmt.ai\_asset\_owner\) role, create a change request.
 
-    1.  Initiate the request by using one of the following [[now-assist-global-navigation|navigation]] options.
+    1.  Initiate the request by using one of the following navigation options.
 
 <table id="table_tsq_c2x_g3c"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Procedure
 
 </th></tr></thead><tbody><tr><td>
 
-[[ai-control-tower-home-page|AI Control Tower Home]] view
+AI Control Tower Home view
 
 </td><td>
 
@@ -77,7 +77,7 @@ AI asset record
 </td><td>
 
 1.  From the AI Control Tower workspace, open the AI assets view.
-2.  From the navigation menu of the AI assets view, locate the **[[ai-inventory|AI asset inventory]] - Managed** section and then select the subsection for the type of AI asset that you want to create a change request for.
+2.  From the navigation menu of the AI assets view, locate the **AI asset inventory - Managed** section and then select the subsection for the type of AI asset that you want to create a change request for.
 
 Alternatively, navigate to **Lifecycle** &gt; **Deploy**.
 
@@ -162,7 +162,7 @@ Related AI models that you want to associate the AI asset with.
 
 </td></tr><tr><td colspan="2">
 
-AI [[ai-prompts|prompts]]**Note:** This form section appears only if you are creating a change request for an AI system.
+AI prompts**Note:** This form section appears only if you are creating a change request for an AI system.
 
 </td></tr><tr><td>
 
@@ -310,14 +310,3 @@ Alternatively, navigate to **Lifecycle** &gt; **Deploy**.
 
     -   If you rejected the request, the Status changes to Rejected and the State changes to Completed.
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-control-tower-home-page|AI Control Tower Home]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-prompts|Prompts]]

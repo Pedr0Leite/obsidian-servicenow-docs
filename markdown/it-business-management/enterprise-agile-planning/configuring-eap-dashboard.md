@@ -18,7 +18,7 @@ Associate a custom dashboard to your Enterprise Agile Planning configurations to
 
 ## Dashboard configuration overview
 
-Get visibility into metrics of your Agile teams such as progress, blockers, team performance trends, and others using dashboards. You can associate any of the default dashboards or [[create-dashboard-ppw|create a dashboard]] with custom queries to view and track specific metrics for your Agile team.
+Get visibility into metrics of your Agile teams such as progress, blockers, team performance trends, and others using dashboards. You can associate any of the default dashboards or create a dashboard with custom queries to view and track specific metrics for your Agile team.
 
 EAP provides the following dashboards for different default configurations:
 
@@ -68,7 +68,7 @@ Portfolio Inline Dashboard
 
 </td><td>
 
-Kanban [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
+Kanban Portfolio Dashboard
 
 </td></tr><tr><td>
 
@@ -164,7 +164,3 @@ The following tasks require the admin or EAP admin \(sn\_apw\_advanced.eap\_admi
 5.  [Add EAP dashboards to an Agile configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/associate-the-eap-dashboard-with-agile-configuration.md).
 6.  \(Optional\) [Create implementation of a Scripted Extension Point in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-or-update-scripted-extension-point-in-eap.md).
 
-## Related
-
-- [[create-dashboard-ppw|Create a dashboard]]
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]

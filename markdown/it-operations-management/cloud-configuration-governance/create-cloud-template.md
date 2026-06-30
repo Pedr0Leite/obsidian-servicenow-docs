@@ -34,7 +34,7 @@ You can update a template as often as needed. With each update, a new version of
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Catalog Items** and then create a catalog item or open an existing catalog item.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Catalog Items** and then create a catalog item or open an existing catalog item.
 
 2.  Click **Cloud Templates** &gt; **New** and then enter a meaningful short description in the **Short description** field.
 
@@ -100,6 +100,4 @@ Applies the updates to the template.
 
     The state of the template changes from **Draft** to **Active** and the system generates the catalog item.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Moveworks for Employee Center, Unified Employee Experience, Employe
 
 # Moveworks for Employee Center reference
 
-The [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics for the application provide additional information about the [[moveworks-for-employeecenter|Moveworks for Employee Center]] settings, observations, and troubleshooting.
+The reference topics for the application provide additional information about the Moveworks for Employee Center settings, observations, and troubleshooting.
 
 ## Certificate validation fails
 
@@ -27,7 +27,7 @@ When certificate validation returns errors during the setup process, verify the 
 
 ## Moveworks chat isn’t visible
 
-When the Moveworks chat assistant isn't visible on [[employee-center-landing-page|Employee Center]] or appears non-functional, you can check the following.
+When the Moveworks chat assistant isn't visible on Employee Center or appears non-functional, you can check the following.
 
 -   Confirm that the Moveworks plugin is installed and enabled from the ServiceNow Store.
 -   Navigate to **System Applications** &gt; **Applications** and confirm the status column displays **Active** for the plugin.
@@ -51,7 +51,7 @@ Verify the following configuration:
 -   Verify knowledge articles aren't restricted by ACLs.
 -   Check that requested services are available in your service catalog.
 
-**Note:** Moveworks for Employee Center is available on both Employee Center and [[employee-center-pro-landing|Employee Center Pro]].
+**Note:** Moveworks for Employee Center is available on both Employee Center and Employee Center Pro.
 
 **Related topics**  
 
@@ -66,9 +66,3 @@ Verify the following configuration:
 
 [Use Moveworks on employee portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-employee-chat-ui.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[moveworks-for-employeecenter|Moveworks for Employee Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

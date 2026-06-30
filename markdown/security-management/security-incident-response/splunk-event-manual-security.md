@@ -14,7 +14,7 @@ breadcrumb: [Create an event profile, Splunk Enterprise Security event ingestion
 
 # Set up a profile for manual event forwarding
 
-Depending on the profile defined, Splunk ES notable events are forwarded manually as discrete notable events into the [[security-operations-landing-page|Security Operations]] environment of your ServiceNow AI Platform instance.
+Depending on the profile defined, Splunk ES notable events are forwarded manually as discrete notable events into the Security Operations environment of your ServiceNow AI Platform instance.
 
 To set up a profile for manual forwarding of notable events:
 
@@ -76,7 +76,3 @@ See [Automate notable event updates and closures](https://raw.githubusercontent.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

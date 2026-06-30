@@ -16,14 +16,14 @@ Export OAuth records from the development instance, import them into the product
 
 ## About this task
 
-After the development instance is validated, see [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]], the production instance must be able to communicate with development, and development must be able to communicate with production. This requires two rounds of record export and import; one in each direction with KMF credential correction performed after each import.
+After the development instance is validated, see [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md), the production instance must be able to communicate with development, and development must be able to communicate with production. This requires two rounds of record export and import; one in each direction with KMF credential correction performed after each import.
 
 **Important:** When OAuth records are imported into a new instance, KMF re-encrypts password fields using the receiving instance's cryptographic key. The stored values will appear jumbled and must be manually overwritten with the correct password before the connection can be validated.
 
 ## Before you begin
 
 -   Complete [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md) on the development instance and confirm that the development connection validates successfully.
--   The integration user account must already exist on the production instance with the `sn_se.scan_engine_admin` and `sn_se.internal_rest_integration` roles assigned. See [[task-create-integration-user|Create an integration user account]].
+-   The integration user account must already exist on the production instance with the `sn_se.scan_engine_admin` and `sn_se.internal_rest_integration` roles assigned. See [Create an integration user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/task-create-integration-user.md).
 -   Have the integration account password available in a text editor. You will paste it multiple times during this procedure.
 -   Role required: Scan Engine Admin \(`sn_se.scan_engine_admin`\).
 
@@ -116,14 +116,14 @@ After the development instance is validated, see [[configure-oauth-auth-method|C
 
 35. Select **Validate Connection**.
 
-    Connection Status updates to `Connection valid`. The production instance can now communicate with the development instance. See [[validate-instance-connection|Validate your instance connection]] for additional information.
+    Connection Status updates to `Connection valid`. The production instance can now communicate with the development instance. See [Validate your instance connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/validate-instance-connection.md) for additional information.
 
 36. Stage 6 — Create the OAuth client and provider for the production instance
 37. Confirm the application scope is set to **Scan Engine**.
 
 38. Navigate to **All** &gt; **Scan Engine** &gt; **My SN Instances** and confirm that a MySN instance record exists for the production instance.
 
-    If the production instance record has not been created yet, complete [[register-your-instance|Register your instance]] before continuing as follows. The record must exist before OAuth fields can be configured.
+    If the production instance record has not been created yet, complete [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md) before continuing as follows. The record must exist before OAuth fields can be configured.
 
     |Field|Value|
     |-----|-----|
@@ -209,20 +209,10 @@ Both the development and production instances have validated MySN instance recor
 
 ## What to do next
 
--   [[definitions-integrations|Definitions integration]]
--   [[exception-reason-integration|Exception reason integration]]
--   [[user-story-integration-properties|User story integration]]
--   [[deployment-sync-integrations|Deployment and synchronization integrations]]
+-   [Definitions integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/definitions-integrations.md)
+-   [Exception reason integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/exception-reason-integration.md)
+-   [User story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-story-integration-properties.md)
+-   [Deployment and synchronization integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/deployment-sync-integrations.md)
 
 **Parent Topic:**[Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md)
 
-## Related
-
-- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-- [[task-create-integration-user|Create an integration user account]]
-- [[validate-instance-connection|Validate your instance connection]]
-- [[register-your-instance|Register your instance]]
-- [[definitions-integrations|Definitions integration]]
-- [[exception-reason-integration|Exception reason integration]]
-- [[user-story-integration-properties|User story integration]]
-- [[deployment-sync-integrations|Deployment and synchronization integrations]]

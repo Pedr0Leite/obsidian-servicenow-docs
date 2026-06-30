@@ -14,7 +14,7 @@ breadcrumb: [Launch a stack, Cloud User Portal, Cloud Provisioning and Governanc
 
 # Resubmit a failed stack request
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application creates a [[ccg-remediation|remediation]] or a catalog task when a request for a stack fails to provision. You can resubmit the failed request or assign it to the Cloud Operator group to handle it for you.
+The Cloud Provisioning and Governance application creates a remediation or a catalog task when a request for a stack fails to provision. You can resubmit the failed request or assign it to the Cloud Operator group to handle it for you.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Roles required: sn\_cmp.cloud\_service\_user and sn\_cmp.cloud\_operator.
 
 ## About this task
 
-Task remediation captures every remediation applied to a failed request. You can view the remediation carried out for a failed request and all the major milestones in the **Comments/Work Notes** sub tab in the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. Task remediation is available only for new provisioning of stacks and not for life cycle or any other operation.
+Task remediation captures every remediation applied to a failed request. You can view the remediation carried out for a failed request and all the major milestones in the **Comments/Work Notes** sub tab in the Cloud User Portal. Task remediation is available only for new provisioning of stacks and not for life cycle or any other operation.
 
 A stack may fail to provision for many reasons. A stack may fail if you have exceeded your cloud quota, datacenter capacity, or have entered an invalid parameter in the request form \(such as a duplicate NIC\).
 
@@ -43,8 +43,3 @@ If a stack fails to provision, a catalog task is created and assigned to you. An
     -   **Ask for Help**: Creates a new catalog task and assigns it to the Cloud Operator group to resubmit the failed request. The Cloud Operator group can look more closely into the error and try to resolve it for you. Every time the comments or work notes in the catalog task gets updated by the Cloud Operator group, the changes are reflected in the **Comments/Work Notes** sub tab in the Cloud User Portal. If necessary, the operator can cancel the failed request.
     -   **Cancel Order**: Cancels the failed request and deprovisions all partially-provisioned resources.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[ccg-remediation|Remediation]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

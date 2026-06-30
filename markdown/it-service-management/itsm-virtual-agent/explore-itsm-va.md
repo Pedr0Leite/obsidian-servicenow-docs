@@ -14,7 +14,7 @@ breadcrumb: [ITSM Virtual Agent, IT Service Management]
 
 # Exploring ITSM Virtual Agent
 
-The ServiceNow [[itsm-virtual-agent|ITSM Virtual Agent]] provides assistance through conversations within an intelligent messaging interface.
+The ServiceNow ITSM Virtual Agent provides assistance through conversations within an intelligent messaging interface.
 
 ## ITSM Virtual Agent overview
 
@@ -100,12 +100,8 @@ Enable service owners to deliver and refine AI capabilities quickly without data
 
     -   **ITSM Virtual Agent notification defined on the Approval \[sysapproval\_approver\] table**
 
-        These notifications are used by [[c_RequestManagement|request management]] or knowledge management. When an approval is submitted, an automatic Virtual Agent message is sent to the approver alerting them of the approval request.
+        These notifications are used by request management or knowledge management. When an approval is submitted, an automatic Virtual Agent message is sent to the approver alerting them of the approval request.
 
 
 **Parent Topic:**[ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[c_RequestManagement|Request Management]]

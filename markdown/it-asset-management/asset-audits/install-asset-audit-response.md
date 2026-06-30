@@ -14,21 +14,21 @@ breadcrumb: [Configure, Asset Audit Response, IT Asset Management]
 
 # Install Asset Audit Response
 
-You can install the [[asset-audit-response|Asset Audit Response]] application \(com.sn\_audit\_response\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Asset Audit Response application \(com.sn\_audit\_response\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Asset Audit Response](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9664697a7fd7121015742fab1d866566/1.0.1) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Ensure that at least one of the following applications is already installed on your ServiceNow instance:
-    -   The ServiceNow® [[c_SoftwareAssetMgmt|Software Asset Management]] application — For instructions on how to install this application, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
-    -   The ServiceNow® [[ham-landing-page|Hardware Asset Management]] application — For instructions on how to install this application, see [Install Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/install-ham.md).
+    -   The ServiceNow® Software Asset Management application — For instructions on how to install this application, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
+    -   The ServiceNow® Hardware Asset Management application — For instructions on how to install this application, see [Install Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/install-ham.md).
 
 Role required: admin
 
 ## About this task
 
-The following items are [[installed-with-asset-audit-response|installed with Asset Audit Response]]:
+The following items are installed with Asset Audit Response:
 
 -   Store applications
 -   Roles
@@ -61,9 +61,3 @@ For more information, see [Installed with Asset Audit Response](https://raw.gith
 
 **Parent Topic:**[Configuring Asset Audit Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/configuring-asset-audit-response.md)
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[installed-with-asset-audit-response|Installed with Asset Audit Response]]

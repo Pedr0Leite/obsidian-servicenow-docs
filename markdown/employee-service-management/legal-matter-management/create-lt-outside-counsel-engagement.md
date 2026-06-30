@@ -18,7 +18,7 @@ As a legal fulfiller, create an outside counsel engagement request for a matter.
 
 ## Before you begin
 
-Ensure you have configured [[legal-matter-management-landing-page|Legal Matter Management]] to [[lmm-eng-outcounsel|engage with outside counsel]]. For more information, see [Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/configurations-for-legal-tracker-integration.md).
+Ensure you have configured Legal Matter Management to engage with outside counsel. For more information, see [Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/configurations-for-legal-tracker-integration.md).
 
 Role required: sn\_lg\_matter.matter\_fulfiller, sn\_lg\_ops.legal\_fulfiller
 
@@ -36,7 +36,7 @@ Action
 
 </th></tr></thead><tbody><tr><td id="d201266e70">
 
-**Using [[legal-counsel-center-landing|Legal Counsel Center]] homepage**
+**Using Legal Counsel Center homepage**
 
 </td><td>
 
@@ -86,8 +86,3 @@ Action
 
 **Parent Topic:**[Engage with outside counsel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-eng-outcounsel.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[lmm-eng-outcounsel|Engage with outside counsel]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

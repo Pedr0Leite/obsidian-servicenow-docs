@@ -14,7 +14,7 @@ breadcrumb: [Pools and Filters for Cloud Provisioning, Cloud Admin Portal, Cloud
 
 # Bind a parameter to a resource pool
 
-To make catalog ordering less error-prone, you can bind a parameter to an resource pool \(a pool provided in the base system\). Parameters that are based on an resource pool list only specified values from existing tables on the catalog order form in the [[cloudmgt-cloud-user-portal|Cloud User Portal]].
+To make catalog ordering less error-prone, you can bind a parameter to an resource pool \(a pool provided in the base system\). Parameters that are based on an resource pool list only specified values from existing tables on the catalog order form in the Cloud User Portal.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ When you create a resource block using a cloud template, you can bind a paramete
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Catalog Items**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Catalog Items**.
 
 2.  Select an existing template or click **New** to create a new cloud template.
 
@@ -219,7 +219,4 @@ getByAvailabilityZone: Gets all virtual machines.
 
 6.  After the resource block, blueprint, and catalog items are created, the cloud service user sees only the list of values of the pool data for the parameter in the catalog order form.
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

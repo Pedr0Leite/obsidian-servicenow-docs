@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Request access to an API in API Insights
 
-Request access to an API available within your organization in the [[api-insights|API Insights]] workspace.
+Request access to an API available within your organization in the API Insights workspace.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Alternatively, you can request access to an API managed by your team. See [Manag
 
 3.  On the Search results page, select the **APIs** tab.
 
-4.  Select the [[check-box|check box]] next to the **Name** column for the API for which you want to request access.
+4.  Select the check box next to the **Name** column for the API for which you want to request access.
 
     **Note:** You can request access for only one API at a time.
 
@@ -104,7 +104,3 @@ Reason or explanation for why access to the API is needed.
 
 The access request is submitted for approval based on the workflow settings configured by your application administrator.
 
-## Related
-
-- [[api-insights|API Insights]]
-- [[check-box|Check box]]

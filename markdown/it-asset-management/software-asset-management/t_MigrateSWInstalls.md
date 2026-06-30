@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Migrate software installations
 
-If you are using Discovery, run this script after installing the [[c_SoftwareAssetMgmt|Software Asset Management]] application to copy previously discovered software installation records from the \[cmdb\_software\_instance\] table to the \[cmdb\_sam\_sw\_install\] table, which is used by the Software Asset Management application to store software installation records.
+If you are using Discovery, run this script after installing the Software Asset Management application to copy previously discovered software installation records from the \[cmdb\_software\_instance\] table to the \[cmdb\_sam\_sw\_install\] table, which is used by the Software Asset Management application to store software installation records.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ When running the Migrate Software Installs script, allow enough time for the pro
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

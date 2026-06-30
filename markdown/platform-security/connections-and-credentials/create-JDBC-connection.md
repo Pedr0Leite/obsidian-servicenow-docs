@@ -26,7 +26,7 @@ Role required: connection\_admin
 
 ## About this task
 
-[[r_JDBCCredentialsForm|JDBC credentials]] are retrieved separately by the activity designer template and support [external credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md), such as CyberArk.
+JDBC credentials are retrieved separately by the activity designer template and support [external credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_ExternalCredentialStorage.md), such as CyberArk.
 
 ## Procedure
 
@@ -106,7 +106,7 @@ All
 
 </td><td>
 
-Number of seconds the system waits before closing a JDBC connection or connection [[c_requestAPI|request]].
+Number of seconds the system waits before closing a JDBC connection or connection request.
 
  For example, if the **Connection Timeout** value is 10 seconds, the system waits 10 seconds for a successful connection. If a successful connection does not occur during this time, the connection request times out. If a successful connection does occur, the connection remains open until there is a 10-second period of inactivity. Once the connection has been inactive for 10 seconds, the connection is closed.
 
@@ -258,7 +258,7 @@ All
 
 </td><td>
 
-Check to use a MID server for this action or activity. If selected, define fields in the Advanced MID Server [[sc-configuration|Configuration]] section.
+Check to use a MID server for this action or activity. If selected, define fields in the Advanced MID Server Configuration section.
 
 </td></tr><tr><td>
 
@@ -341,8 +341,3 @@ The specific MID Cluster you want to use. This field is available when **Use MID
 
 [JDBC credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/r_JDBCCredentialsForm.md)
 
-## Related
-
-- [[r_JDBCCredentialsForm|JDBC credentials]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]

@@ -20,7 +20,7 @@ Role required: ui\_builder\_admin to enable the image preview; dashboard\_admin 
 
 ## About this task
 
-Add an image to the cards in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard overview.
+Add an image to the cards in the Platform Analytics dashboard overview.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Add an image to the cards in the [[c_performanceAnalyticsAndReporting|Platform A
 
     2.  Change the application scope to Platform Analytics.
 
-    3.  Select the [[par-workspace|Platform Analytics experience]].
+    3.  Select the Platform Analytics experience.
 
     4.  Open the Dashboard Library \(Default\) item.
 
@@ -67,10 +67,5 @@ The image appears on the dashboard's card in the dashboard overview.
 
 \[Omitted image "par-db-card-w-image.png"\] Alt text: Dashboard overview with one card featuring the uploaded image
 
-**Parent Topic:**[[edit-db-in-ac|Edit Platform Analytics dashboards]]
+**Parent Topic:**[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-## Related
-
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]

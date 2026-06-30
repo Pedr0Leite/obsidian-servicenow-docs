@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Add members to your healthcare facilities support organization
 
-Add members to your [[cto-facilities-landing|Care Team Operations for Facilities]] support organization to provide visibility and access to healthcare facilities cases.
+Add members to your Care Team Operations for Facilities support organization to provide visibility and access to healthcare facilities cases.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ If you don't have existing groups already created for your facilities location s
 
 You have added members to your facilities support team and associated them with the appropriate role.
 
-## Related
-
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

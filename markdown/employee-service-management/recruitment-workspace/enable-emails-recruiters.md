@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Enable recruiters to view email details in the activity stream
 
-Add the recruiter role to a system property. The recruiter can view the details of the email in the [[activity-lxp|activity]] stream of the [[recruitment-workspace-concept|Recruitment workspace]].
+Add the recruiter role to a system property. The recruiter can view the details of the email in the activity stream of the Recruitment workspace.
 
 ## Before you begin
 
@@ -35,7 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[recruitment-workspace-concept|Recruitment workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Get analytics methods in formulas, Formula indicators, Indicators, 
 
 # PAFormulaUtils API
 
-The PAFormulaUtils API enables you to obtain a value that was calculated in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and use that value as input for a formula.
+The PAFormulaUtils API enables you to obtain a value that was calculated in the Analytics Hub and use that value as input for a formula.
 
 To use the PAFormulaUtils API, you must satisfy these requirements:
 
@@ -29,7 +29,7 @@ Date parameters in PAFormulaUtils methods take one of the following forms:
 -   The variable `score_start` or `score_end`. These variables represent the first and last second of the collection period being calculated for the referenced indicator. The times are calculated from the difference between the time zone of the user and the database server time zone, which is GMT. For more information, see [Changes to score\_start/end because of different user time zones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/time-zones-indicator-formulas.md).
 -   A date parameter that you have coded yourself using the GlideDate or the GlideDateTime API.
 
-**Warning:** The PAFormulaUtils API can be used only in [[formula-indicators|formula indicators]], not in scripts.
+**Warning:** The PAFormulaUtils API can be used only in formula indicators, not in scripts.
 
 The PAFormulaUtils API contains the following methods:
 
@@ -58,7 +58,3 @@ Returns the score of the specified indicator for the specified date.
 
 **Parent Topic:**[Get analytics methods in formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/get-indicator-analytics.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[formula-indicators|Formula indicators]]

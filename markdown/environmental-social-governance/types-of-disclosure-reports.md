@@ -24,8 +24,5 @@ The Operational Sustainability Management application supports the following typ
 -   **Supplier questionnaire**: A supplier questionnaire is a document or set of questions that a company uses to gather information from its suppliers regarding various aspects of their business, including operational sustainability related practices. The questionnaire may cover topics such as environmental impact, social responsibility, labor practices, and governance. Companies use this information to evaluate the operational sustainability performance of their supply chain and make informed procurement decisions aligned with sustainability goals.
 -   **Others**: Any other type of disclosure.
 
-**Parent Topic:**[[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Disclosures in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-disclosures.md)
 
-## Related
-
-- [[esg-disclosures|Disclosures in Operational Sustainability Management \(formerly ESG Management\)]]

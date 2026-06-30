@@ -28,7 +28,7 @@ You can view all the reservations made through the application an update accordi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Reservation Overview**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservation Overview**.
 
 2.  Select any of the following options to view reservations:
 
@@ -57,6 +57,3 @@ You can view all the reservations made through the application an update accordi
 
 [Manage and configure reservation waitlist]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

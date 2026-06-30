@@ -29,7 +29,7 @@ You can also enable a fallback language to use if a translation isn’t availabl
 
 Some parts of the system aren’t translated and remain in the language used to create them:
 
--   [[r_JournalFields|Journal fields]]
+-   Journal fields
 -   Report titles
 -   Any field that stores free-form text
 
@@ -47,6 +47,3 @@ Beginning in the Washington DC release, new product and application names are lo
 
 [Locating translatable UI strings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/c_TranslateNewCustomizations.md)
 
-## Related
-
-- [[r_JournalFields|Journal fields]]

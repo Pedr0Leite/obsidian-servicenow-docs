@@ -35,7 +35,7 @@ The following table lists the values that you can set for the sn\_ind\_tmt\_orm.
 
 2.  Select **All**.
 
-3.  Switch the application scope to [[explore-order-management|Order Management]].
+3.  Switch the application scope to Order Management.
 
 4.  Enter `sys_metadata.list` in the Filter text box.
 
@@ -46,20 +46,14 @@ The following table lists the values that you can set for the sn\_ind\_tmt\_orm.
 7.  Select **Update**.
 
 
-**Parent Topic:**[[configure-order-fulfillment|Configure order fulfillment]]
+**Parent Topic:**[Configure order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-order-fulfillment.md)
 
 **Related topics**  
 
 
-[[order-mgt-sold-product-creation|Creation of sold product and product inventory records]]
+[Creation of sold product and product inventory records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-sold-product-creation.md)
 
-[[managing-orders|Managing post-fulfillment order changes]]
+[Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 
 [Product data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/product-data.md)
 
-## Related
-
-- [[configure-order-fulfillment|Configure order fulfillment]]
-- [[order-mgt-sold-product-creation|Creation of sold product and product inventory records]]
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[explore-order-management|Order management]]

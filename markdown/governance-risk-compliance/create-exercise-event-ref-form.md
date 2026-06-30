@@ -136,7 +136,7 @@ Method for the exercise. Available options are:-   **Simulation**
 -   **Walkthrough**
 -   **Functional**
 
-Technically, all [[exercise-management-uib|exercises]] are treated the same way. However, only Functional exercises automatically generate tasks, while Simulation, Tabletop, and Walkthrough exercises do not have any technical differences in their implementation.**Note:** For exercise events, the exercise method is **Functional** by default.
+Technically, all exercises are treated the same way. However, only Functional exercises automatically generate tasks, while Simulation, Tabletop, and Walkthrough exercises do not have any technical differences in their implementation.**Note:** For exercise events, the exercise method is **Functional** by default.
 
 </td></tr><tr><td>
 
@@ -305,9 +305,5 @@ Event tasks associated with the event
 Information on the event tasks such as Number, Short description, State, Impacted assets, Assigned to, Dependencies, Actual start, Actual end, Related activated plan, Similar tasks group, Phase.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[start-exercise-event-in-uib-ws|Create an exercise]]
+</table>**Parent Topic:**[Create an exercise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/start-exercise-event-in-uib-ws.md)
 
-## Related
-
-- [[start-exercise-event-in-uib-ws|Create an exercise]]
-- [[exercise-management-uib|Exercises]]

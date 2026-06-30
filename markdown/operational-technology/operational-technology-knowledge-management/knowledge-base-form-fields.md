@@ -30,7 +30,7 @@ Title
 
 </td><td>
 
-Unique name for the [[operational-technology-overview|Operational Technology]] \(OT\) knowledge base.
+Unique name for the Operational Technology \(OT\) knowledge base.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Icon
 
 </td><td>
 
-Image that provides a visual reference to describe the OT knowledge base. The image is displayed next to all articles from this knowledge base in the article search [[results-page-console|results page]].
+Image that provides a visual reference to describe the OT knowledge base. The image is displayed next to all articles from this knowledge base in the article search results page.
 
 </td></tr><tr><td>
 
@@ -181,7 +181,3 @@ List of products that are related to the OT knowledge base content.
 </td></tr></tbody>
 </table>**Parent Topic:**[Operational Technology Knowledge Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-reference-landing-page.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[results-page-console|Results page]]

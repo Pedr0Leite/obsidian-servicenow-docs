@@ -24,7 +24,7 @@ Role required: system\_scheduler\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Scheduler** &gt; **Today's [[c_ScheduledJobs|Scheduled Jobs]]**.
+1.  Navigate to **All** &gt; **System Scheduler** &gt; **Today's Scheduled Jobs**.
 
     **Note:** It is inadvisable to modify the schedule items themselves. It is best to modify the scheduled jobs that contain them.
 
@@ -44,6 +44,3 @@ Role required: system\_scheduler\_admin
 
 [Enable run types for scheduled job child tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/customize-run-times-for-scheduled-jobs.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]

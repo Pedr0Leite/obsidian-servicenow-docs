@@ -14,7 +14,7 @@ breadcrumb: [Reference, Finance Case Management, Finance and Supply Chain applic
 
 # Email notifications from Finance Case Management
 
-[[fin-case-mgmt-landing-page|Finance Case Management]] sends email notifications when you perform certain actions on a finance case.
+Finance Case Management sends email notifications when you perform certain actions on a finance case.
 
 Finance Case Management sends emails in a predefined template and uses email actions to trigger email conditions. You can use the deep links in the emails to view relevant details.
 
@@ -41,6 +41,3 @@ Finance Case Management sends emails in a predefined template and uses email act
 
 [Create knowledge base article form]()
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

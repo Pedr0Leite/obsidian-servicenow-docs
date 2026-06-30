@@ -14,7 +14,7 @@ breadcrumb: [Work on a legal matter, Use, Legal Matter Management, Legal Service
 
 # Communicate using emails from Legal Counsel Center
 
-Compose and send emails directly from legal matter record form in the [[legal-counsel-center-landing|Legal Counsel Center]]. You can also save the email as draft to send it later.
+Compose and send emails directly from legal matter record form in the Legal Counsel Center. You can also save the email as draft to send it later.
 
 ## Before you begin
 
@@ -74,13 +74,9 @@ The state of the legal matter updates to Work in Progress.
 
 ## Result
 
-After the email is sent, it is added to the [[activity-lxp|activity]] stream on the legal matter form. Emails you receive from others are also added to the activity stream.
+After the email is sent, it is added to the activity stream on the legal matter form. Emails you receive from others are also added to the activity stream.
 
 Legal matters marked as Privileged and Confidential, contain confidentiality markers to comply with legal requirements. This applies to both system-generated notifications and fulfiller-initiated outbound emails.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

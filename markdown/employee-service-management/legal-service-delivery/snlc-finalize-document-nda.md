@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract \_fulfiller and sn\_lg\_cnt.contract\_fulfi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -36,7 +36,7 @@ Role required: sn\_cm\_core.contract \_fulfiller and sn\_lg\_cnt.contract\_fulfi
 
     -   When you have opened a request from the unassigned list, assign it to yourself or the group manager has to assign it to a user.
     -   When the legal request is assigned, select **Start work**.
-    -   You can get the details of the change request from the [[activity-lxp|Activity]] stream or the notification email received.
+    -   You can get the details of the change request from the Activity stream or the notification email received.
 6.  Select Contracts request tab and open the request.
 
     You can get the details of the change request from the Activity stream or the notification email received.
@@ -126,7 +126,3 @@ The document is sent back to the user and the Contract status updates to Documen
 
 **Parent Topic:**[Reviewing and finalizing a self-served contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-review-finalize-contract.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

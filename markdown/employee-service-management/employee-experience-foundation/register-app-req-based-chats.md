@@ -20,7 +20,7 @@ Create a Microsoft Azure application in Microsoft Azure portal to enable agents 
 
 Role required: admin
 
-**Note:** You can use one Microsoft Azure application if you use both **IT Service Management integration with Microsoft Teams**, and **[[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams** applications.
+**Note:** You can use one Microsoft Azure application if you use both **IT Service Management integration with Microsoft Teams**, and **HR Service Delivery integration with Microsoft Teams** applications.
 
 ## Procedure
 
@@ -75,6 +75,3 @@ Register the Request-based chat app in your instance to use Microsoft Teams chat
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_s_tnt.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

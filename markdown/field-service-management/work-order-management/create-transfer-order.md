@@ -14,11 +14,11 @@ breadcrumb: [Manage transfer orders, Manage inventory in FSM, Manage work order 
 
 # Create a transfer order
 
-Create a transfer order that moves the necessary parts or assets to the correct stockroom or [[c_AgentLocation|agent location]].
+Create a transfer order that moves the necessary parts or assets to the correct stockroom or agent location.
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## Procedure
 
@@ -28,7 +28,7 @@ Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserR
 
 3.  Open a work order task.
 
-4.  In the **[[c_PartRequirements|Part Requirements]]** related list, click a **Number**.
+4.  In the **Part Requirements** related list, click a **Number**.
 
 5.  Click **Source Part**.
 
@@ -59,8 +59,4 @@ Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserR
     -   **Agent Pickup**
 10. Click **Submit**.
 
-## Related
 
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[c_AgentLocation|Agent location]]
-- [[c_PartRequirements|Part requirements]]

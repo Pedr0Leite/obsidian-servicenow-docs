@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-These steps are intended for users with little to no coding experience. The [[c_ServicePortal|Service Portal]] Designer includes several layers of customization from simply adding widgets in a particular configuration on a page, to adding CSS classes.
+These steps are intended for users with little to no coding experience. The Service Portal Designer includes several layers of customization from simply adding widgets in a particular configuration on a page, to adding CSS classes.
 
 ## Procedure
 
@@ -46,7 +46,7 @@ These steps are intended for users with little to no coding experience. The [[c_
 
     \[Omitted image "ConfigurePage.gif"\] Alt text: Gif showing how to drag containers, layouts, then widgets onto a page
 
-    For widgets that do not contain any information by default, you must [[configure-onboarding-modals|configure]] the options for their widget instances before they will appear on a portal page. For more information about configuring widget instance options, see [Configure widget instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
+    For widgets that do not contain any information by default, you must configure the options for their widget instances before they will appear on a portal page. For more information about configuring widget instance options, see [Configure widget instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ConfigureWidgetInstances.md).
 
 8.  Edit page properties.
 
@@ -152,7 +152,7 @@ Use SEO script
 
 </td><td>
 
-Option to enable a script include that adds SEO [[c_Tags|tags]] for canonical URLs and hreflang tags.
+Option to enable a script include that adds SEO tags for canonical URLs and hreflang tags.
 
  For more information, see [Enable SEO for localized versions of a portal page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/seo-header-tags.md).
 
@@ -426,13 +426,7 @@ Role required: sp\_admin or admin
 
 ### Result
 
-You can select an icon from the icon set for any widget on this page. For example, in the [[html-widget|HTML widget]] you can use the **Source Code** option to use an icon. For example:
+You can select an icon from the icon set for any widget on this page. For example, in the HTML widget you can use the **Source Code** option to use an icon. For example:
 
 `<p style="text-align: center;"><em class="material-icons">flight_land</em></p>`
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_Tags|Tags]]
-- [[html-widget|HTML widget]]

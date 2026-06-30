@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Indicator Groups** &gt; **[[change-success-score|Change success score]] - multipliers**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Indicator Groups** &gt; **Change success score - multipliers**.
 
 2.  Open the indicator that you want to modify.
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Success score calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-score-calculation.md)
 
-## Related
-
-- [[change-success-score|Change success score]]

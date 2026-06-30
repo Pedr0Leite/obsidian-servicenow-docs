@@ -20,7 +20,7 @@ Several types of components are installed with the Orchestration - ROI plugin \(
 
 ## Tables installed with Orchestration ROI
 
-Tables are added with activation of [[c_OrchestrationROI|Orchestration ROI]].
+Tables are added with activation of Orchestration ROI.
 
 <table id="table_on4_5sp_ps"><thead><tr><th>
 
@@ -318,7 +318,7 @@ Automation Entry Form\[automation\_entry\_form\]
 
 </td><td>
 
-When a record is deleted from the Automation Entry Form \[automation\_entry\_form\] table, this business rule deletes all records in other ROI tables that [[reference|reference]] this entry.
+When a record is deleted from the Automation Entry Form \[automation\_entry\_form\] table, this business rule deletes all records in other ROI tables that reference this entry.
 
 </td></tr><tr><td>
 
@@ -346,8 +346,3 @@ When a new automation entry is provided, this business rule inserts a new record
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_OrchestrationROI|Orchestration ROI]]
-- [[reference|Reference]]

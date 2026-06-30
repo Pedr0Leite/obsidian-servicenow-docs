@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Man
 
 # Creating action items in events
 
-Starting with BCM release 9.0.x, crisis managers can create action tasks for recovery members or teams anytime during a crisis event or exercise, as long as the event remains open. Crisis managers can create these tasks on the fly without mapping them to [[event-assets|event assets]] or recovery plans. These action tasks are also not included in the event recovery timeline.
+Starting with BCM release 9.0.x, crisis managers can create action tasks for recovery members or teams anytime during a crisis event or exercise, as long as the event remains open. Crisis managers can create these tasks on the fly without mapping them to event assets or recovery plans. These action tasks are also not included in the event recovery timeline.
 
 ## Action items in real-time
 
@@ -193,13 +193,8 @@ The roles associated with action items are listed in the table.
 |Viewers|Can read all action items.|
 |Recovery event/Plan owner|Can read and update all action items that they are assigned to.|
 
--   **[[create-action-items-in-events|Create task and assessment-type action items in events]]**  
+-   **[Create task and assessment-type action items in events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-action-items-in-events.md)**  
 Use integration of events and Smart Assessment for creating necessary action items related to an event.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[create-action-items-in-events|Create task and assessment-type action items in events]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[event-assets|Event assets]]

@@ -15,11 +15,11 @@ breadcrumb: [Create New Invoice form, Create New Invoice Line form, Reference, A
 
 # Outbound invoice fields
 
-Field descriptions and data types for the outbound invoice table used to transfer invoice details from [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to third-party applications through the integration framework.”
+Field descriptions and data types for the outbound invoice table used to transfer invoice details from Accounts Payable Operations to third-party applications through the integration framework.”
 
 |Column|Description|Data type|
 |------|-----------|---------|
-|Supplier invoice number|The combination of [[supplier|supplier]] invoice number or supplier and [[erp-source|ERP source]] and ERP invoice number|String|
+|Supplier invoice number|The combination of supplier invoice number or supplier and ERP source and ERP invoice number|String|
 |Business owner.Email|Name of the owner who owns the application from the business side|String|
 |Amount invoiced \(Transaction currency\).amount|Charges added to the invoice|String|
 |Amount invoiced \(Transaction currency\).currency|Charges added to the invoice|String|
@@ -44,8 +44,3 @@ Field descriptions and data types for the Outbound invoice line \[sn\_spend\_int
 
 **Parent Topic:**[Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]

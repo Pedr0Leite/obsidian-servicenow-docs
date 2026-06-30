@@ -14,7 +14,7 @@ breadcrumb: [Use Customer Service Portal, Customer communication, Use, Customer 
 
 The self-registration feature enables new customer contacts to submit registration requests through the customer portal.
 
-A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [[approve-request-from-cust-portal|Approve a change request, or registration request]].
+A customer contact can submit a registration request using a valid registration code. The request is then sent to the customer administrator of that account for approval. For details, see [Approve a change request, or registration request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/approve-request-from-cust-portal.md).
 
 If an account has multiple customer administrators, they all receive the registration request, but only one approval is necessary.
 
@@ -24,14 +24,10 @@ The request is either accepted or rejected. If accepted, a new account is create
 
 \[Omitted image "customer-self-registration.png"\] Alt text: A self-registration form with various fields for customer contact information.
 
-The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the [[customer-service-account-form|Account form]]. After the code is created, customer administrators can distribute the code to customers as needed.
+The administrator creates a unique registration code for each account and stores it in the **Registration Code** field on the Account form. After the code is created, customer administrators can distribute the code to customers as needed.
 
 **Related topics**  
 
 
 [Example: The default self-service Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SelfServicePasswordReset.md)
 
-## Related
-
-- [[approve-request-from-cust-portal|Approve a change request, or registration request]]
-- [[customer-service-account-form|Account form]]

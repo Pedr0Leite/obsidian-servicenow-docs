@@ -73,7 +73,7 @@ To apply a template using a sys\_id, use the following method.
 GlideTemplate.get(template.sys_id).apply(GlideRecord)
 ```
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -92,6 +92,3 @@ GlideTemplate.get(template.sys_id).apply(GlideRecord)
 
 [Toggle the template bar]()
 
-## Related
-
-- [[c_Templates|Using form templates]]

@@ -29,9 +29,9 @@ You can complete these tasks and generate reports in Microsoft Word format, as r
 
 Digital resilience incident reporting is used for incident reporting and assessment for legal entities or other objectives according to regulations. You can now add entities to an incident, which automatically create a Digital resilience incident reporting case.
 
-**Note:** When an entity is mapped to an incident or security incident, the 'DRI case creation on incident entity insert' or 'DRI case creation on SIR entity insert' flow runs and a Digital Resilience Incident Reporting case is created automatically in the Digital Resilience Incident Reporting module with the prebuilt flow. For information on the flows, see [[workflow-confi-auto-trigger-inci-repo-cases|Configure Digital resilience incident reporting]].
+**Note:** When an entity is mapped to an incident or security incident, the 'DRI case creation on incident entity insert' or 'DRI case creation on SIR entity insert' flow runs and a Digital Resilience Incident Reporting case is created automatically in the Digital Resilience Incident Reporting module with the prebuilt flow. For information on the flows, see [Configure Digital resilience incident reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/workflow-confi-auto-trigger-inci-repo-cases.md).
 
-For information on setting up the entities, see [[set-up-entities-for-targets|Set up entities for the targets]].
+For information on setting up the entities, see [Set up entities for the targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-entities-for-targets.md).
 
 ## Sequence of action tasks
 
@@ -54,14 +54,7 @@ Action task creation and sequence are explained:
     **Note:** As administrators, you can customize the configurations available with the base version or add additional action tasks as needed.
 
 
-For information on mapping regulations and setting up action task templates, see [[configure-case-types-map-regu|Map regulations to the entities]] and [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]].
+For information on mapping regulations and setting up action task templates, see [Map regulations to the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-case-types-map-regu.md) and [Set up action task templates in Regulatory agency profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-action-task-templates.md).
 
-For information on completing action tasks, refer to [[work-on-action-tasks|Complete action tasks and report incidents associated with regulations]].
+For information on completing action tasks, refer to [Complete action tasks and report incidents associated with regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/work-on-action-tasks.md).
 
-## Related
-
-- [[workflow-confi-auto-trigger-inci-repo-cases|Configure Digital resilience incident reporting]]
-- [[set-up-entities-for-targets|Set up entities for the targets]]
-- [[configure-case-types-map-regu|Map regulations to the entities]]
-- [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]]
-- [[work-on-action-tasks|Complete action tasks and report incidents associated with regulations]]

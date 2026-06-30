@@ -24,7 +24,7 @@ The following table lists the mandatory fields for the CMN Location Stage inboun
 |Country|String|Name of the country where the CMN location belongs.|
 |Country key|String|Country key of the CMN location.|
 |Default|String|Indicates whether the CMN location is default or not.|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |Legal entity|String|Name of the legal entity|
 |Location|String|Coordinates or details of the CMN location.|
 |Name|String|Name of the CMN location.|
@@ -113,8 +113,3 @@ The following table lists the mandatory fields for the CMN Location Stage inboun
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

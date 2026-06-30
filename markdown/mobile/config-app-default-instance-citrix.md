@@ -67,7 +67,7 @@ Configuring the app for a default instance is only available for iOS devices.
 14. Click **Save**.
 
 
-**Parent Topic:**[[citrix-mdm|Citrix XenMobile]]
+**Parent Topic:**[Citrix XenMobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/citrix-mdm.md)
 
 **Related topics**  
 
@@ -80,6 +80,3 @@ Configuring the app for a default instance is only available for iOS devices.
 
 [Citrix: VPN policy](https://docs.citrix.com/en-us/xenmobile/server/policies/vpn-policy.html)
 
-## Related
-
-- [[citrix-mdm|Citrix XenMobile]]

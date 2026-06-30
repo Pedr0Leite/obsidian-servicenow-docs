@@ -26,7 +26,7 @@ When you convert a RIDAC record to another record, the values for the **Short de
 
 You can also specify to close the parent record on creation of the new record instead of manually closing the parent record.
 
-You can also view the consolidated list of all converted RIDAC records using the **View RIDAC** related link on the [[create-a-project-form|Project form]] and **View RIDAC** in the application navigator of the Project module.
+You can also view the consolidated list of all converted RIDAC records using the **View RIDAC** related link on the Project form and **View RIDAC** in the application navigator of the Project module.
 
 ## Procedure
 
@@ -60,6 +60,3 @@ You can also view the consolidated list of all converted RIDAC records using the
 
 [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

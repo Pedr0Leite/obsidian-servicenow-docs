@@ -27,7 +27,7 @@ var deepLinkGen= new global.MobileDeepLinkGenerator('Agent');
 
 -   **Mobile app call**
 
-    Enter one of the mobile apps that the mobile deep link points to. You can enter either `Request` for the [[now-mobile-app|Now Mobile app]] or `Agent` for the [[mobile-experience|Mobile Agent app]]. For example, to generate a link using the mobile deep link generator that points to the Now Mobile app, use the following code: `new global.MobileDeepLinkGenerator('Request');`
+    Enter one of the mobile apps that the mobile deep link points to. You can enter either `Request` for the Now Mobile app or `Agent` for the Mobile Agent app. For example, to generate a link using the mobile deep link generator that points to the Now Mobile app, use the following code: `new global.MobileDeepLinkGenerator('Request');`
 
 -   **Public method**
 
@@ -51,7 +51,7 @@ Method parameters
 
 </td><td>
 
-getButtonLink is used to link into any [[parameter-input-screen|input form screen]].
+getButtonLink is used to link into any input form screen.
 
 </td><td>
 
@@ -133,7 +133,7 @@ getSSOPrefillLink generates a link that uses the identity provider \(IdP\) that 
 
 </td><td>
 
-getUniversalLink generates a link into either a list, form, or browser. A screen is generated based on the content of this URL. See [[universal-links-mobile|Universal linking for mobile]].
+getUniversalLink generates a link into either a list, form, or browser. A screen is generated based on the content of this URL. See [Universal linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/universal-links-mobile.md).
 
 </td><td>
 
@@ -141,12 +141,5 @@ getUniversalLink generates a link into either a list, form, or browser. A screen
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[deep-link-mobile|Deep linking for mobile]]
+**Parent Topic:**[Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md)
 
-## Related
-
-- [[universal-links-mobile|Universal linking for mobile]]
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-experience|Mobile Agent app]]
-- [[parameter-input-screen|Input form screen]]

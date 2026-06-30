@@ -140,8 +140,5 @@ Agency subtype: -   Local
 -   Federal
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[psds-profile-forms|Public Sector Digital Services Core Profile Forms]]
+</table>**Parent Topic:**[Public Sector Digital Services Core Profile Forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-profile-forms.md)
 
-## Related
-
-- [[psds-profile-forms|Public Sector Digital Services Core Profile Forms]]

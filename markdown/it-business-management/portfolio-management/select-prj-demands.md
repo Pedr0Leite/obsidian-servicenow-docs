@@ -30,7 +30,7 @@ You can perform a what-if analysis by including or excluding demands or projects
 
 ## Procedure
 
-1.  Navigate to [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench from either of two starting points.
+1.  Navigate to Portfolio Planning Workbench from either of two starting points.
 
 <table id="choicetable_xfs_1fh_jlb"><thead><tr><th align="left" id="d148321e84">
 
@@ -135,11 +135,7 @@ Steps
 
 ## What to do next
 
-[[compare-scenarios|Compare planning scenarios]] to analyze different combinations of projects and demands and select a scenario that best aligns with your organizational goals. For more information, see [Compare planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/compare-scenarios.md).
+Compare planning scenarios to analyze different combinations of projects and demands and select a scenario that best aligns with your organizational goals. For more information, see [Compare planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/compare-scenarios.md).
 
 **Parent Topic:**[Create planning scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/create-scenarios.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[compare-scenarios|Compare planning scenarios]]

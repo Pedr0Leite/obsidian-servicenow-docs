@@ -18,7 +18,7 @@ The Technology Product Support case type enables technology companies to provide
 
 A [case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md) represents the processes and the data that are needed to resolve a specific type of customer issue. The Technology Product Support case type includes the table, roles, SLAs, email notifications, and other items needed to resolve technology issues.
 
-The [[tpsc-landing-page|Technology Product Support Case]] application \(sn\_tech\_product\_support\) includes the Technology Product Support case type. To view a list of available case types, navigate to **Customer Service** &gt; **Case Types** &gt; **Manage Case Types**.
+The Technology Product Support Case application \(sn\_tech\_product\_support\) includes the Technology Product Support case type. To view a list of available case types, navigate to **Customer Service** &gt; **Case Types** &gt; **Manage Case Types**.
 
 The Technology Product Support case type includes the following items.
 
@@ -36,7 +36,7 @@ Tables
 
 </td><td>
 
-The Technology Product Support Case application includes the Tech Product Support Case \[sn\_tech\_product\_support\_case\] table. This table extends the Case table and can be extended.For a detailed description of the [[tech-product-support-case-table|Tech Product Support Case table]], including field descriptions, see [Tech Product Support Case table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-table.md).
+The Technology Product Support Case application includes the Tech Product Support Case \[sn\_tech\_product\_support\_case\] table. This table extends the Case table and can be extended.For a detailed description of the Tech Product Support Case table, including field descriptions, see [Tech Product Support Case table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tech-product-support-case-table.md).
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ An SLA definition includes the timing, conditions, workflows, and other informat
 
 </td><td>
 
-A record producer is a specific type of catalog item that allows end users to create task-based records from a service catalog. The Technology Product Support Case application includes the following record producer: **[[create-technology-product-case|Create a Technology Product Case]]**.
+A record producer is a specific type of catalog item that allows end users to create task-based records from a service catalog. The Technology Product Support Case application includes the following record producer: **Create a Technology Product Case**.
 
 </td></tr><tr><td>
 
@@ -1029,8 +1029,3 @@ Customers receive the following notifications before a case is automatically clo
 
 For more information, see [Automatically close customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/auto-close-customer-service-case.md).
 
-## Related
-
-- [[tpsc-landing-page|Technology Product Support Case]]
-- [[tech-product-support-case-table|Tech Product Support Case table]]
-- [[create-technology-product-case|Create a technology product case]]

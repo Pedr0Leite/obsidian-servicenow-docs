@@ -14,7 +14,7 @@ breadcrumb: [Create hardware models, Models, Product Catalog, IT Asset Managemen
 
 # Add compatible models to a hardware model
 
-On a hardware model record, you can add compatible hardware [[c_Models|models]], giving you a good method for tracking hardware assets that can work together.
+On a hardware model record, you can add compatible hardware models, giving you a good method for tracking hardware assets that can work together.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: model\_manager
 
 ## About this task
 
-**Note:** Hardware models included in [[c_CreatingBundledModels|bundled models]] cannot be added as compatibles.
+**Note:** Hardware models included in bundled models cannot be added as compatibles.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Hardware Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Hardware Models**.
 
 2.  Click a hardware model **Name**.
 
@@ -50,8 +50,3 @@ Role required: model\_manager
 
 [Bundled models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_CreatingBundledModels.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_CreatingBundledModels|Bundled models]]
-- [[c_ProductCatalog|Product Catalog]]

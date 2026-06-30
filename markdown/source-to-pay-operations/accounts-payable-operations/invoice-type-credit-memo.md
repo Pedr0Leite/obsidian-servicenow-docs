@@ -15,15 +15,15 @@ breadcrumb: [Create an invoice line manually, Create an invoice manually, Work w
 
 # Credit memo
 
-Credit memo [[invoices|invoices]] in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] represent reductions or offsets in amounts payable to suppliers and can be created for both PO and Non-PO invoices, with the system identifying them based on specific indicators such as negative amounts.
+Credit memo invoices in Accounts Payable Operations represent reductions or offsets in amounts payable to suppliers and can be created for both PO and Non-PO invoices, with the system identifying them based on specific indicators such as negative amounts.
 
-When an invoice is ingested into the Accounts Payable Operations application recognizes if the invoice received through various channels is of type credit memo. A credit memo is a document issued between a [[supplier|supplier]] and the buyer when there’s a reduction or any offset in the amount payable to the supplier. Credit memo is also applicable for any goods or services that the buyer owes to a seller. In some cases, if the buyer hasn’t paid the seller, the credit memo can be used as an offset for an invoice generated in the past or future. For an invoice to be recognized as a credit memo:
+When an invoice is ingested into the Accounts Payable Operations application recognizes if the invoice received through various channels is of type credit memo. A credit memo is a document issued between a supplier and the buyer when there’s a reduction or any offset in the amount payable to the supplier. Credit memo is also applicable for any goods or services that the buyer owes to a seller. In some cases, if the buyer hasn’t paid the seller, the credit memo can be used as an offset for an invoice generated in the past or future. For an invoice to be recognized as a credit memo:
 
 -   The credit memo invoice must contain one of the following:
     -   Original invoice
     -   Original invoice number
-    -   [[purchase-order-table|Purchase order]]
--   Credit memos issued for purchase order or invoice number must match with [[purchase-order-lines|purchase order lines]] and invoice lines
+    -   Purchase order
+-   Credit memos issued for purchase order or invoice number must match with purchase order lines and invoice lines
 -   Invoice contains negative amount fields
 
 For more information on creating invoice, see [Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md).
@@ -32,10 +32,3 @@ For more information on invoices ingested using document intelligence, see [Invo
 
 **Parent Topic:**[Create an invoice line manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]

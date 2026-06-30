@@ -12,7 +12,7 @@ breadcrumb: [Predictive Intelligence for Field Service Management, FSM reports a
 
 # Example: Suggest similar part requirements for work order tasks
 
-This example provides a use case of a medical equipment maintenance manager updating and training a similarity definition solution in the [[fsm-application-landing-page|Field Service Management]] application to suggest the similar [[c_PartRequirements|part requirements]] for a work order task.
+This example provides a use case of a medical equipment maintenance manager updating and training a similarity definition solution in the Field Service Management application to suggest the similar part requirements for a work order task.
 
 ## Problem Scenario
 
@@ -190,7 +190,3 @@ Frequency of how often to include new records in the model to retrieve the simil
 
 When the solution is complete, the required part similar to the fields selected for a work order task are sent as part requirement recommendations.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]

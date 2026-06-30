@@ -18,11 +18,11 @@ Integrate with a push connector to connect to an external event source. Push con
 
 ## Before you begin
 
-Ensure that the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin is installed.
+Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed.
 
 Role required: evt\_mgmt\_admin
 
-**Note:** If you are upgrading a ServiceNow AI Platform instance from Paris or earlier, you can [[migrate-transform-scripts|use legacy listener transform scripts]]. See [Use legacy listener transform scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/migrate-transform-scripts.md) for further information.
+**Note:** If you are upgrading a ServiceNow AI Platform instance from Paris or earlier, you can use legacy listener transform scripts. See [Use legacy listener transform scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/migrate-transform-scripts.md) for further information.
 
 ## About this task
 
@@ -102,7 +102,7 @@ Order
 
 </td><td>
 
-Order in which an event rule is evaluated when multiple rules are defined for the same type of event. [[create-event-rules|Event rules]] are evaluated in ascending order.
+Order in which an event rule is evaluated when multiple rules are defined for the same type of event. Event rules are evaluated in ascending order.
 
 </td></tr><tr><td>
 
@@ -229,8 +229,3 @@ Use the push connector that allows events to be forwarded from products, general
 
 **Parent Topic:**[Configure Event Management connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[migrate-transform-scripts|Use legacy listener transform scripts]]
-- [[create-event-rules|Event rules]]

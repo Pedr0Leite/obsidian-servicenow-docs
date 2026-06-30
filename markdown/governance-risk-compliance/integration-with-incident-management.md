@@ -77,8 +77,5 @@ The SIR Workspace deploys a similar workflow for reporting high-impact incidents
 
 ## Where to find the case status
 
-The Regulatory reporting status of a DRI case \(Potentially reportable/Reportable/Not reportable\) is displayed in the Details panel of the Digital Resilience Incident Reporting case record in the [[grc-opres-landing-page|Operational Resilience]] Workspace, and per regulation in the Regulation Mappings related list. The dedicated 'Reporting status' form section that existed in earlier releases has been removed; the same information is now in the Details panel.
+The Regulatory reporting status of a DRI case \(Potentially reportable/Reportable/Not reportable\) is displayed in the Details panel of the Digital Resilience Incident Reporting case record in the Operational Resilience Workspace, and per regulation in the Regulation Mappings related list. The dedicated 'Reporting status' form section that existed in earlier releases has been removed; the same information is now in the Details panel.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -26,7 +26,7 @@ The service offering team table \[cmdb\_rel\_team\] enables multiple groups to b
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service Offerings**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Offerings**.
 
 2.  Open the service offering that you want to assign support teams.
 
@@ -51,6 +51,3 @@ The service offering team table \[cmdb\_rel\_team\] enables multiple groups to b
 
 **Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

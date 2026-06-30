@@ -14,7 +14,7 @@ breadcrumb: [SAFe Board — Team level, Essential SAFe, Scaled Agile Framework \
 
 # Track your SAFe team work from the list view
 
-Create, execute, track, and complete the scrum tasks and [[c_Tests|tests]] of a SAFe story from the list view.
+Create, execute, track, and complete the scrum tasks and tests of a SAFe story from the list view.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: safe\_scrum\_user or safe\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top left corner, select the level as **Team**.
 
@@ -49,9 +49,9 @@ Role required: safe\_scrum\_user or safe\_admin
         |Work notes|Work notes indicating the progress of the scrum task at various stages in its life cycle.|
 
     4.  Click **Submit**.
-6.  To [[create-SAFe-test|create a test for a SAFe story]]:
+6.  To create a test for a SAFe story:
 
-    **Note:** The option to [[t_CreateATest|create a test]] is available only when [[test-management2-landing-page|Test Management 2.0]] is installed.
+    **Note:** The option to create a test is available only when Test Management 2.0 is installed.
 
     1.  From the **Show** list at the top-right corner, select **Tests**.
     2.  Click **Add Test**. For more information, see [Create a test for a SAFe story](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFe-test.md).
@@ -61,10 +61,4 @@ Role required: safe\_scrum\_user or safe\_admin
     2.  In the pop-up, select the environment on which the tests are to be run, and click **Run**. For more information, see [Run a test for a SAFe story](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/run-SAFe-test.md).
 8.  To personalize columns in a list, click the Personalize icon.
 
-## Related
 
-- [[c_Tests|Tests]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[create-SAFe-test|Create a test for a SAFe story]]
-- [[t_CreateATest|Create a test]]
-- [[test-management2-landing-page|Test Management 2.0]]

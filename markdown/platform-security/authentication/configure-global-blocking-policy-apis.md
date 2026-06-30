@@ -14,7 +14,7 @@ breadcrumb: [API Authentication Policies, API access policy, Authentication, Acc
 
 # Configure global blocking policy for APIs
 
-Global blocking policy denies the [[c_Authentication|authentication]] requests of [[users|users]] and APIs based on the specified policy conditions. This policy can be used as an alternative to the [[t_AccessControl|IP Address Access Control]].
+Global blocking policy denies the authentication requests of users and APIs based on the specified policy conditions. This policy can be used as an alternative to the IP Address Access Control.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access [[ca-policies|Policies]]** &gt; **Global Blocking Policy**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access Policies** &gt; **Global Blocking Policy**.
 
 2.  From the **Policy Inputs** tab, click **Edit**.
 
-3.  Select one or more [[adaptive-auth-filter-criteria|filter criteria]] from the **Collection** list and move them to **Global Blocking Policy** list.
+3.  Select one or more filter criteria from the **Collection** list and move them to **Global Blocking Policy** list.
 
     You can also add additional filters.
 
@@ -40,10 +40,4 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
     |Description|Description of the condition.|
     |Condition|Logical combination of multiple policy inputs \(filter criteria\) that is used to evaluate authentication requests. For example, you can create conditions that allow only contractors from a list of trusted IP addresses.|
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[t_AccessControl|IP Address Access Control]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

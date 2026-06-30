@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Ensure archive table ACLs are checked
 
-The **glide.security.enable\_archive\_table\_acls** property controls whether [[sc-access-control|access control]] lists \(ACLs\) of the original table, the table the archive table was created from, are evaluated to false.
+The **glide.security.enable\_archive\_table\_acls** property controls whether access control lists \(ACLs\) of the original table, the table the archive table was created from, are evaluated to false.
 
 The **glide.security.enable\_archive\_table\_acls** system property controls whether ACLs added to archive tables are evaluated \(**true**\) or if only the ACLs of the original table \(the table the archive table was created from\) are evaluated \(**false**\). There is no reason for this property to not be true since the original table ACLs will be evaluated regardless of its value and since a customer can simply avoid additional ACLs for an archive table by not adding them.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

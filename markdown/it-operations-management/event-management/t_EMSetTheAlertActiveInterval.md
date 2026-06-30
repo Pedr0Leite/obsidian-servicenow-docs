@@ -14,7 +14,7 @@ breadcrumb: [Alert lifecycle configuration, Manage and monitor alerts, Configuri
 
 # Configure the alert active interval
 
-The active interval property \(**evt\_mgmt.active\_interval**\) determines how [[c_EM|Event Management]] handles a new event that is similar to events that appear on an existing closed alert. Based on the active interval, event, and existing closed alert information, the alert is reopened and the event information is added to the existing alert or a new alert is created.
+The active interval property \(**evt\_mgmt.active\_interval**\) determines how Event Management handles a new event that is similar to events that appear on an existing closed alert. Based on the active interval, event, and existing closed alert information, the alert is reopened and the event information is added to the existing alert or a new alert is created.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Change the active interval by editing the **Active interval \(in seconds\), with
 
 **Parent Topic:**[Alert lifecycle configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlertRule.md)
 
-## Related
-
-- [[c_EM|Event Management]]

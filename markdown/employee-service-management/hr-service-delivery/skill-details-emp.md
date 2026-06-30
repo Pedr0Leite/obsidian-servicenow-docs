@@ -21,11 +21,8 @@ On an employee card, when you select \[Omitted image "viewmenu.png"\] Alt text: 
 -   View the skills possessed by an employee and proficiency levels of each skill.
 -   Filter skills by validated versus unvalidated skills.
 -   Sort skills by name or skill gap \(High to Low\) or \(Low to High\).
--   Assign a [[exploring-learning-exp|learning]] course to the employee when the proficiency level of a skill is low. Select \[Omitted image "viewmenu.png"\] Alt text: View menu and select **Assign learning**. Only the courses related to that skill are displayed for selection.
+-   Assign a learning course to the employee when the proficiency level of a skill is low. Select \[Omitted image "viewmenu.png"\] Alt text: View menu and select **Assign learning**. Only the courses related to that skill are displayed for selection.
 -   Select a skill to view the skill activities fly-out. The skill activities fly-out allows you to review activities such as courses, aspirations and growth plans that contribute to skill proficiency.
 
 \[Omitted image "skill-details-emp.png"\] Alt text: View skill proficiency levels of an employee
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

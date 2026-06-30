@@ -24,7 +24,7 @@ Create a decision path first. A decision node is automatically created with the 
 
 Decision nodes can have one or multiple questions with different answer types.
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]].
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
 
 ## Procedure
 
@@ -80,7 +80,7 @@ Decimal
 
 </td><td>
 
-A number with the decimal [[gamification-components-points|points]]
+A number with the decimal points
 
 </td></tr><tr><td>
 
@@ -124,10 +124,5 @@ A check box field
 
 ## What to do next
 
-[[create-decision-paths|Determine the next node in a decision tree]]
+[Determine the next node in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-decision-paths.md)
 
-## Related
-
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]
-- [[create-decision-paths|Determine the next node in a decision tree]]
-- [[gamification-components-points|Points]]

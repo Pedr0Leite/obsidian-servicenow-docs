@@ -14,7 +14,7 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # Configuring CMDB success advisor
 
-Complete the configuration tasks to start using the [[cmdb-sa|CMDB success advisor]].
+Complete the configuration tasks to start using the CMDB success advisor.
 
 ## Configuration overview
 
@@ -30,6 +30,4 @@ Complete the configuration tasks to start using the [[cmdb-sa|CMDB success advis
 
     Make sure that existing Hardware Asset Management \(HAM\) CI classes are included as principal classes in Data Foundations during upgrade, without requiring manual configuration.
 
-## Related
 
-- [[cmdb-sa|CMDB success advisor]]

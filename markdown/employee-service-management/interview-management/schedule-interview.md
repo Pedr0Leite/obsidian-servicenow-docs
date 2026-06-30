@@ -20,7 +20,7 @@ Schedule interview with applicants on a job requisition to get started with the 
 
 Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitment\_coordinator
 
-You must activate the [[interview-management-landing|Interview Management]] plugin to have access to this functionality.
+You must activate the Interview Management plugin to have access to this functionality.
 
 ## About this task
 
@@ -28,7 +28,7 @@ As a recruiter, you can schedule interviews with applicants throughout their app
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the job requisition that you want to schedule an interview for.
 
@@ -36,9 +36,9 @@ As a recruiter, you can schedule interviews with applicants throughout their app
 
 4.  On the application record page, select **Schedule interview**.
 
-    **Note:** If upgrading from an earlier version, make sure to edit and populate the **[[hiring-tab-concept|Hiring]] role**, **Visibility to applicant**, and **Type** fields of the hiring team members in the job requisition. For details, see [Edit hiring team members](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/manage-hiring-team.md).
+    **Note:** If upgrading from an earlier version, make sure to edit and populate the **Hiring role**, **Visibility to applicant**, and **Type** fields of the hiring team members in the job requisition. For details, see [Edit hiring team members](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/manage-hiring-team.md).
 
-5.  On the [[schedule-interview-form|Schedule interview form]], fill in the fields.
+5.  On the Schedule interview form, fill in the fields.
 
     For a description of the field values, see [Schedule interview form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/schedule-interview-form.md).
 
@@ -61,9 +61,3 @@ You can also track your interviews from the List view. For more information, see
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]
-- [[schedule-interview-form|Schedule interview form]]

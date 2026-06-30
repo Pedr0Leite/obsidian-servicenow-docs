@@ -14,14 +14,14 @@ breadcrumb: [Treasury Operations, Banking applications, Financial Services Opera
 
 # Exploring Financial Services Treasury Operations
 
-You can use ServiceNow® [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] to manage treasury product onboarding with workflows available for key services such as wire transfers and Remote Deposit Capture \(RDC\). ​
+You can use ServiceNow® Financial Services Treasury Operations to manage treasury product onboarding with workflows available for key services such as wire transfers and Remote Deposit Capture \(RDC\). ​
 
 ## Key features
 
 -   Manage new requests on a single system with real-time end-to-end visibility.
 -   Intelligently split cases across relevant teams.
 -   Reduce the complexity of the treasury product onboarding process with a unified playbook experience.
--   Manage essential documentation using the ServiceNow® [[fso-overview|Financial Services]] Document Management application.
+-   Manage essential documentation using the ServiceNow® Financial Services Document Management application.
 -   Focus on specific tasks and complete them in the right order by using custom workspaces and roles.
 -   Track trends and response times with Performance Analytics to drive continuous improvement.
 
@@ -83,7 +83,3 @@ A treasury manager of a financial institution:-   Reviews reports, dashboards, a
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Treasury Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/fso-treasury-ops-landing-page.md)
 
-## Related
-
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]
-- [[fso-overview|Financial Services]]

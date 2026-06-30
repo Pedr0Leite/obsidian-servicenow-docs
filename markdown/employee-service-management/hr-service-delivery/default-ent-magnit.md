@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Magnit, Integration
 
 # Default entities
 
-Default entities are available to use on activating [[hr-magnit-int|HR Service Delivery Integration with Magnit]] application.
+Default entities are available to use on activating HR Service Delivery Integration with Magnit application.
 
 ## Default entities
 
@@ -32,9 +32,9 @@ New Hire Onboarding \(Magnit\)
 
 </td><td>
 
-Lifecycle event containing adhoc onboarding tasks that are created for Magnit contingent workers. Default lifecycle [[activity-lxp|activity]] set and activity are available to use.
+Lifecycle event containing adhoc onboarding tasks that are created for Magnit contingent workers. Default lifecycle activity set and activity are available to use.
 
-For more information, see **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Manage Lifecycle Events**
+For more information, see **Lifecycle Events** &gt; **Manage Lifecycle Events**
 
 </td></tr><tr><td>
 
@@ -58,11 +58,5 @@ HR template for contingent workers onboarding \(Magnit\)
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] Integration with Magnit]()
+[Components installed with HR Service Delivery Integration with Magnit]()
 
-## Related
-
-- [[hr-magnit-int|HR Service Delivery Integration with Magnit]]
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-service-delivery|HR Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [Indexed sources, Configuring AI Search, AI Search, Search administr
 
 # Exclude knowledge block content from the AI Search index
 
-Prevent [[ia-ai-search|AI Search]] from indexing content found in your knowledge blocks.
+Prevent AI Search from indexing content found in your knowledge blocks.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ AI Search includes content specified in your published knowledge blocks when it 
 
 Administrators can override this default behavior and exclude your knowledge block content from the search index by setting the value of the **glide.ais.disable\_kbb** system property. If this system property's value is set to **true**, AI Search ignores knowledge block content when indexing content and metadata from your knowledge articles.
 
-To learn more about creating and publishing knowledge blocks for [[reference-email-admin|reference]] in your knowledge articles, see [Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-knowlege-blocks.md).
+To learn more about creating and publishing knowledge blocks for reference in your knowledge articles, see [Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-knowlege-blocks.md).
 
 ## Procedure
 
@@ -53,7 +53,3 @@ To make the new setting take effect, reindex the Knowledge Table indexed source.
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]

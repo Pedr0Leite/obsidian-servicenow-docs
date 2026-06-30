@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Map enterprise roles to enterprise classes
 
-Gain additional access to [[model-hierarchy|model categories]] by mapping individual enterprise roles to additional enterprise classes.
+Gain additional access to model categories by mapping individual enterprise roles to additional enterprise classes.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To map enterprise roles to enterprise classes, you need to first provide roles a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Admin center**.
 
 2.  Select **Roles-to-class access**
 
@@ -52,7 +52,4 @@ To map enterprise roles to enterprise classes, you need to first provide roles a
 
     Role access is granted to the additional classes and the model and asset tabs associated with those classes are automatically visible in the specific workspace. Additionally, all dashboards are updated with data pertaining to the classes that you configured.
 
-## Related
 
-- [[model-hierarchy|Model categories]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

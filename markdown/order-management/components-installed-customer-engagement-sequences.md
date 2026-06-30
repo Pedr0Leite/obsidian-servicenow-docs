@@ -12,7 +12,7 @@ breadcrumb: [Customer Engagement Sequences reference, Lead and opportunity manag
 
 # Components installed with Customer Engagement Sequences
 
-Several types of components are installed with activation of the [[explore-customer-engagement-sequences|Customer Engagement Sequences]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Customer Engagement Sequences plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -171,18 +171,12 @@ Stores the sequence task records that are generated when a sequence is triggered
 </td></tr></tbody>
 </table>The Customer Engagement Sequence Task \[sn\_crm\_sequence\_task\] table extends the Task \[task\] table.
 
-**Parent Topic:**[[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]
+**Parent Topic:**[Customer Engagement Sequences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customer-engagement-sequences-reference.md)
 
 **Related topics**  
 
 
-[[install-customer-engagement-sequences|Install Customer Engagement Sequences]]
+[Install Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-customer-engagement-sequences.md)
 
-[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
-## Related
-
-- [[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]
-- [[install-customer-engagement-sequences|Install Customer Engagement Sequences]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

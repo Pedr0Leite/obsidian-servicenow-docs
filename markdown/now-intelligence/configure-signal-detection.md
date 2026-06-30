@@ -12,7 +12,7 @@ breadcrumb: [Configure, KPI Signals, Platform Analytics experience, Platform Ana
 
 # Configure signal detection
 
-You can set the start date of the current baseline calculation, the number of scores used to calculate the baseline, and the trend method. You also can deactivate or reactivate [[process-behavior-charts-for-kpis|KPI Signals]] monitoring for a KPI.
+You can set the start date of the current baseline calculation, the number of scores used to calculate the baseline, and the trend method. You also can deactivate or reactivate KPI Signals monitoring for a KPI.
 
 ## Before you begin
 
@@ -86,9 +86,5 @@ The statistical method for calculating the baseline. Options are:-   Linear tren
 
 In the following example, the initial linear trend kept resulting in signals despite the average remaining stable. Following the signal in early September, signal detection was changed to "no trend." Following this change, the average remained stable and no further signals were detected.\[Omitted image "kpi-signals-no-signal.png"\] Alt text: KPI Signals showing no signal for a KPI: neither a signal nor an anti-signal
 
-**Parent Topic:**[[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
+**Parent Topic:**[Configuring KPI Signals for an indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-kpi-signals.md)
 
-## Related
-
-- [[configuring-kpi-signals|Configuring KPI Signals for an indicator]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]

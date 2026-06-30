@@ -16,7 +16,7 @@ Create a field recommendation that you can select when configuring a recommended
 
 ## Before you begin
 
-Use the [[csm-default-record-page|CSM default record page]] or the [[csm-interaction-record-page|CSM Interaction record page]] to display field recommendations in [[csm-workspaces-configure|CSM Configurable Workspace]]. For setting the CSM default record page or the CSM Interaction record page as default page, see [[config-csm-ws-set-record-page-order|Set record page order]].
+Use the CSM default record page or the CSM Interaction record page to display field recommendations in CSM Configurable Workspace. For setting the CSM default record page or the CSM Interaction record page as default page, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
@@ -27,11 +27,11 @@ Creating a field recommendation involves two main steps:
 -   Creating inputs for the field recommendation.
 -   Creating instructions about how to recommend values by configuring a definition for each field.
 
-Depending on the configuration, the recommended field values are auto-filled or shown as messages underneath the fields for the new records. The recommended field values are shown as messages only underneath the fields for the existing records. For an example implementation of field recommendation setup, see [[ex-create-field-recommendation-assg-grp|Create a field recommendation for recommending assignment group field value]].
+Depending on the configuration, the recommended field values are auto-filled or shown as messages underneath the fields for the new records. The recommended field values are shown as messages only underneath the fields for the existing records. For an example implementation of field recommendation setup, see [Create a field recommendation for recommending assignment group field value](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-field-recommendation-assg-grp.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Action Types** &gt; **Field Recommendations**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Action Types** &gt; **Field Recommendations**.
 
 2.  Click **New** on the Field Recommendations list.
 
@@ -41,7 +41,7 @@ Depending on the configuration, the recommended field values are auto-filled or 
 
     This table includes the field for which you’re configuring a recommended value.
 
-5.  Save the record to display the related [[migration-lists|lists]].
+5.  Save the record to display the related lists.
 
 6.  In the Field Recommendation Inputs related list, select **New** to create an input.
 
@@ -118,12 +118,4 @@ Autofill as per the resource generator preference
 </td></tr></tbody>
 </table>    6.  Click **Submit**.
 
-## Related
 
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[ex-create-field-recommendation-assg-grp|Create a field recommendation for recommending assignment group field value]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]

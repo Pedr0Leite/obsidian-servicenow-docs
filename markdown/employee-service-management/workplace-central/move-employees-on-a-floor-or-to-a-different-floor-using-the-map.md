@@ -20,7 +20,7 @@ Using the building's Floor map view, move single or multiple employees on a floo
 
 Verify that the building in which you want to move employees has a floor map.
 
-**Note:** You must install the [[workplace-move-mgmt-overview|Workplace Move Management]] plugin to move an employee to a different location.
+**Note:** You must install the Workplace Move Management plugin to move an employee to a different location.
 
 **Important:** You can't move an employee who already has an ongoing move request.
 
@@ -28,13 +28,13 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  Select the **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
+2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
 
     The Space optimization dashboard opens.
 
@@ -204,10 +204,3 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 [Edit a building's spaces using a map]()
 
-## Related
-
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]

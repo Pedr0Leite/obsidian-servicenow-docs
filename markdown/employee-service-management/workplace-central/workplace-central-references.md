@@ -14,30 +14,30 @@ breadcrumb: [Workplace Central, Workplace Service Delivery, Employee Service Man
 
 # Workplace Central reference
 
-Learn more about the components and forms of the [[workplace-central-feat|Workplace Central]] application.
+Learn more about the components and forms of the Workplace Central application.
 
 -   **[Components installed with Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/components-installed-with-workplace-central.md)**  
 Several types of components are installed with activation of the Workplace Central application, including tables, user roles, and business rules.
 -   **[Space Optimization - Key features and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-optmization-features-and-actions-.md)**  
-As a space planner, you can perform multiple scenario-related actions using the [[space-optimization|Space Optimization]] module. You can [[create-multi-building-scenario|create a scenario]] using the stack plan and view it on a floor map and make changes directly.
+As a space planner, you can perform multiple scenario-related actions using the Space Optimization module. You can create a scenario using the stack plan and view it on a floor map and make changes directly.
 -   **[Workplace Central Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner-key-features-actions-views.md)**  
-The [[event-planner-key-features-actions-views|Workplace Central Event planner]] is a one-stop workspace where you can check all the reservations requested in your organization at a time.
+The Workplace Central Event planner is a one-stop workspace where you can check all the reservations requested in your organization at a time.
 -   **[Scenario and Building - Views, states, settings, and key features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-planning-views-actions-keyfeatures-.md)**  
-Create or view a scenario using a stack plan and a floor map view. [[scenario-planning|Scenario planning]] enables you to allocate spaces and define user assignments efficiently with different views, simple settings, and several key features.
+Create or view a scenario using a stack plan and a floor map view. Scenario planning enables you to allocate spaces and define user assignments efficiently with different views, simple settings, and several key features.
 -   **[Space request approvals, states, actions, and key features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-request-states-and-view.md)**  
-As a space planner, execute the space allocation requests raised in the organization using the Workplace Central Space Optimization dashboard. Using the Workplace Central Space Optimization dashboard to avoid multiple tasks about checking the availability, allocating spaces manually, and other process involved while [[space-planning|space planning]].
+As a space planner, execute the space allocation requests raised in the organization using the Workplace Central Space Optimization dashboard. Using the Workplace Central Space Optimization dashboard to avoid multiple tasks about checking the availability, allocating spaces manually, and other process involved while space planning.
 -   **[Move management key features and actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-mgmt-views-states-actions.md)**  
-As a Move manager, fulfill move requests efficiently by logically grouping them in to move projects using the Workplace Central [[move-mgmt|Move management]] workspace.
+As a Move manager, fulfill move requests efficiently by logically grouping them in to move projects using the Workplace Central Move management workspace.
 -   **[Case Management - Key features, Actions &amp; Case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/case-management-key-features-actions-case-details.md)**  
-The Workplace Central [[case-management-workspace|Case management]] workspace is an all-in-one workspace using which a case manager can manage hundreds of workplace cases created in the organization.
+The Workplace Central Case management workspace is an all-in-one workspace using which a case manager can manage hundreds of workplace cases created in the organization.
 -   **[Schedule Plan details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/schedule-plan-details-form.md)**  
 The details form helps you select the project and schedule for your schedule plan.
 -   **[Scenario details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/scenario-details-form.md)**  
-Use the [[scenario-details-form|scenario details form]] to select the scenario owner, location, group by selection, and space selection criteria.
+Use the scenario details form to select the scenario owner, location, group by selection, and space selection criteria.
 -   **[Space Deployment Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/space-deployment-plan.md)**  
-A [[space-deployment-plan|space deployment plan]] contains information about how the changes made in the scenario impact the building's spaces.
+A space deployment plan contains information about how the changes made in the scenario impact the building's spaces.
 -   **[User Deployment Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-deployment-plan.md)**  
-A [[user-deployment-plan|user deployment plan]] contains information about how the changes made in the scenario impact the employees and their workplace locations.
+A user deployment plan contains information about how the changes made in the scenario impact the employees and their workplace locations.
 -   **[Excel column lengths for move projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/move-excel-char-limit.md)**  
 The Excel columns must be within the specified length to create a move project.
 -   **[Move conflicts for projects created via Excel upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/excel-upload-conflicts.md)**  
@@ -47,24 +47,9 @@ Troubleshoot issues that you face in the Workplace Central application.
 -   **[Workplace Task form - Space Assignment task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-task-space-assignment.md)**  
 The Workplace Task form specifies details to assign a space to a neighborhood.
 -   **[Neighborhood User Assignment Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-assignment-rule-form.md)**  
-The [[user-assignment-rule-form|Neighborhood User Assignment Rule form]] specifies conditions based on which users or their profiles must be assigned to the neighborhood.
+The Neighborhood User Assignment Rule form specifies conditions based on which users or their profiles must be assigned to the neighborhood.
 -   **[User Workplace Profile form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/user-workplace-profile-form.md)**  
-The [[user-workplace-profile-form|User Workplace Profile form]] specifies details about an employee like their name, primary location, and allocation.
+The User Workplace Profile form specifies details about an employee like their name, primary location, and allocation.
 
 **Parent Topic:**[Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/workplace-central-feat.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[space-optimization|Space Optimization]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[event-planner-key-features-actions-views|Workplace Central Event planner]]
-- [[scenario-planning|Scenario Planning]]
-- [[space-planning|Space Planning]]
-- [[move-mgmt|Move Management]]
-- [[case-management-workspace|Case management]]
-- [[scenario-details-form|Scenario details form]]
-- [[space-deployment-plan|Space Deployment Plan]]
-- [[user-deployment-plan|User Deployment Plan]]
-- [[user-assignment-rule-form|Neighborhood User Assignment Rule form]]
-- [[user-workplace-profile-form|User Workplace Profile form]]

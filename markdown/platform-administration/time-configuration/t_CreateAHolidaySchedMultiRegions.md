@@ -14,7 +14,7 @@ breadcrumb: [Schedules, Explore, Time configuration, Configure core features, Ad
 
 # Create a holiday schedule for multiple regions
 
-You can create holiday [[c_UseSchedules|schedules]] for multiple regions that follow the same work schedule but have different [[c_Holidays|holidays]].
+You can create holiday schedules for multiple regions that follow the same work schedule but have different holidays.
 
 ## About this task
 
@@ -54,7 +54,3 @@ The following method supports multiple regions with the same work schedule \(for
 
 [Define a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[c_Holidays|Holidays]]

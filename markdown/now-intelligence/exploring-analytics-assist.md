@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics in the Now Assist panel, Now Assist in Platform 
 
 # Explore generating or exporting dashboards and visualizations in the Now Assist panel
 
-Generate and export [[c_performanceAnalyticsAndReporting|Platform Analytics]] artifacts from conversational interactions. For example, ask for information about the number of open incidents and get a single-score data visualization. Then export that visualization as a PDF file, all in the Now Assist panel.
+Generate and export Platform Analytics artifacts from conversational interactions. For example, ask for information about the number of open incidents and get a single-score data visualization. Then export that visualization as a PDF file, all in the Now Assist panel.
 
 ## Overview of skills
 
@@ -20,7 +20,7 @@ There are two skills pertaining to working with data visualizations and dashboar
 
 -   **Data visualization generation**
 
-    Lets you create relevant visualizations based upon natural language questions and available data, leveraging Platform Analytics and [[query-generation|Query Generation]]. The visualizations can show data from any ServiceNow AI Platform tables. The user can add the visualization to a dashboard. This skill simplifies the process of data visualization generation and configuration, potentially increasing efficiency.
+    Lets you create relevant visualizations based upon natural language questions and available data, leveraging Platform Analytics and Query Generation. The visualizations can show data from any ServiceNow AI Platform tables. The user can add the visualization to a dashboard. This skill simplifies the process of data visualization generation and configuration, potentially increasing efficiency.
 
 -   **Dashboard and visualization export**
 
@@ -33,11 +33,11 @@ The now\_assist\_panel\_user andeither now\_assist\_analytics\_generation or now
 
 The user can add a generated visualization to any dashboard to which they have editing rights.
 
-The now\_assist\_panel\_user role is required to use the [[activate-db-dv-export-skill|dashboard and visualization export skill]]. To schedule the export, the user also needs par\_scheduler.
+The now\_assist\_panel\_user role is required to use the dashboard and visualization export skill. To schedule the export, the user also needs par\_scheduler.
 
 ## Activation
 
-The data visualization generation and dashboard and visualization export skills are included with Workflow Data Fabric applications from the ServiceNow Store. You have to activate the skills after installation. For more information, see [[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]].
+The data visualization generation and dashboard and visualization export skills are included with Workflow Data Fabric applications from the ServiceNow Store. You have to activate the skills after installation. For more information, see [Configuring Now Assist panel skills for Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-now-ass-skills-pa.md).
 
 ## Supported user interfaces
 
@@ -49,12 +49,5 @@ Similarly, access the dashboard and visualization export skill by starting a con
 
 \[Omitted image "nowass-dv-list.png"\] Alt text: Result of the query showing a list of indicators.
 
-**Parent Topic:**[[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-assist-landing-page.md)
 
-## Related
-
-- [[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]
-- [[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[query-generation|Query Generation]]
-- [[activate-db-dv-export-skill|Dashboard and visualization export skill]]

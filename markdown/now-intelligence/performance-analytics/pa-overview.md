@@ -18,11 +18,11 @@ ServiceNow® Performance Analytics is an in-platform process optimization soluti
 
 ## Get started
 
-Performance Analytics tools including KPI Composer, [[kpi-details|KPI Details]], and Spotlight, empower administrators and other stakeholders with real-time data to address current status and accurately evaluate trends.
+Performance Analytics tools including KPI Composer, KPI Details, and Spotlight, empower administrators and other stakeholders with real-time data to address current status and accurately evaluate trends.
 
 <table id="table_iwv_lpv_klba" class="nav-card"><tbody><tr><td>
 
-[Explore Performance Analytics \[Omitted image "bus-explore.svg"\] Alt text: Learn about [[c_PerformanceAnalytics|Performance Analytics concepts]] and features such as indicators, breakdowns, and data collection.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_GetStartedwithPA.md)
+[Explore Performance Analytics \[Omitted image "bus-explore.svg"\] Alt text: Learn about Performance Analytics concepts and features such as indicators, breakdowns, and data collection.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_GetStartedwithPA.md)
 
 </td><td>
 
@@ -47,7 +47,3 @@ Performance Analytics tools including KPI Composer, [[kpi-details|KPI Details]],
     -   [Performance Analytics Fundamentals](https://nowlearning.service-now.com/lxp?id=overview&sys_id=cbf7fac4db1a7340760a71043996194c&type=course)
     -   [Performance Analytics Advanced](https://nowlearning.service-now.com/lxp?id=overview&sys_id=87f7fac4db1a7340760a710439961908&type=course)
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[c_PerformanceAnalytics|Performance Analytics concepts]]

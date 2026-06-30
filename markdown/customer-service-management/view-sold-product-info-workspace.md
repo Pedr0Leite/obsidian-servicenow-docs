@@ -12,7 +12,7 @@ breadcrumb: [Using CSM Configurable Workspace in Customer Service Management, Ma
 
 # View sold product information in CSM Configurable Workspace
 
-Enable customer service agents or managers to view the [[sold-product|sold products]] and the service offerings associated to the sold product for an account or consumer.
+Enable customer service agents or managers to view the sold products and the service offerings associated to the sold product for an account or consumer.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Customer service agents can view which service offerings are associated to the s
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a customer service case.
 
@@ -32,7 +32,4 @@ Customer service agents can view which service offerings are associated to the s
 
 4.  Click the service offering to view the service commitments associated to it.
 
-## Related
 
-- [[sold-product|Sold products]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

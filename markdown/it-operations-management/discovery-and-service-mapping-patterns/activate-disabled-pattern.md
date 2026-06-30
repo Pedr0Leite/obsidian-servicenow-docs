@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Activate a disabled pattern
 
-If you want to use a pattern for [[r-discovery|discovery]] that's disabled by default, activate it manually.
+If you want to use a pattern for discovery that's disabled by default, activate it manually.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Starting with Visibility Content version 6.28.0, activating or deactivating a pa
 
 **Next topic:**[Discover datacenters only for new cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/discover-datacenter-only-new-account.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

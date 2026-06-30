@@ -14,15 +14,15 @@ breadcrumb: [Table admin, Tables and data, Configure core features, Administer t
 
 # Managing tables and indexes
 
-Administrators can modify the database structure using [[c_TableAdministration|table administration]] tools.
+Administrators can modify the database structure using table administration tools.
 
 ## Custom tables and fields
 
-Administrators can add [[custom-tables|custom tables]], define fields, and manage field labels. Administrators can also delete custom tables that aren't needed or delete all the records in a table without deleting the table itself.
+Administrators can add custom tables, define fields, and manage field labels. Administrators can also delete custom tables that aren't needed or delete all the records in a table without deleting the table itself.
 
 ## Dictionary entries
 
-The [[c_SystemDictionary|system dictionary]] is a table, called Dictionary Entry `[sys_dictionary]`, that contains details for each table and defines every column within each table in an instance. Administrators can modify tables and fields in the system dictionary, which subsequently define the lists and forms that users access throughout the instance.
+The system dictionary is a table, called Dictionary Entry `[sys_dictionary]`, that contains details for each table and defines every column within each table in an instance. Administrators can modify tables and fields in the system dictionary, which subsequently define the lists and forms that users access throughout the instance.
 
 ## Dictionary attributes
 
@@ -30,11 +30,11 @@ Dictionary attributes define global behavior for fields. An administrator applie
 
 ## Dictionary overrides
 
-[[c_DictionaryOverrides|Dictionary overrides]] enable administrators to override field settings on extended tables. Dictionary overrides enable administrators to customize the behavior of a field for a specific table that inherits from another table. Overrides are used to change the inherited dictionary attributes on child tables without affecting the parent table or other child tables.
+Dictionary overrides enable administrators to override field settings on extended tables. Dictionary overrides enable administrators to customize the behavior of a field for a specific table that inherits from another table. Overrides are used to change the inherited dictionary attributes on child tables without affecting the parent table or other child tables.
 
 ## Table flattening
 
-With [[c_TaskTableFlattening|table flattening]], the Task \[task\] table and Base Configuration Item \[cmdb\] table have a hierarchy of related tables where one or more child tables extend from a parent table.
+With table flattening, the Task \[task\] table and Base Configuration Item \[cmdb\] table have a hierarchy of related tables where one or more child tables extend from a parent table.
 
 The extension model does not affect how the tables appear or function in the instance. All table functionality, including database views, remains unchanged by the extension model.
 
@@ -44,16 +44,16 @@ An index puts unordered tables into order, and efficiently speeds up queries to 
 
 ## Many-to-many table relationships
 
-Many-to-many \(M2M\) [[table-relationships|table relationships]] enable administrators to associate records between two tables in a bidirectional and flexible manner. This relationship type is used to create links between records where each record from one table can relate to multiple records in another table, and vice versa.
+Many-to-many \(M2M\) table relationships enable administrators to associate records between two tables in a bidirectional and flexible manner. This relationship type is used to create links between records where each record from one table can relate to multiple records in another table, and vice versa.
 
 **Note:** It is to be noted that when you de-activate or delete a field from the dictionary on a table, it might impact on the personalized UI view lists and will remove all regardless if they contain the de-activated/deleted field.
 
 -   **[Create a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_CreateATable.md)**  
-Administrators and application developers can create custom tables to store application data. After you [[t_CreateATable|create a table]], you can also modify field types and field labels.
+Administrators and application developers can create custom tables to store application data. After you create a table, you can also modify field types and field labels.
 -   **[Deleting custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DeleteATable.md)**  
 Administrators can delete custom tables that are no longer needed. For example, delete a table from an application that is under development because the business requirements change.
 -   **[Modify dictionary entries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_ModifyADictionaryEntryFromAForm.md)**  
-[[t_ModifyADictionaryEntryFromAForm|Modify dictionary entries]] by configuring a field on a form or from the Dictionary module.
+Modify dictionary entries by configuring a field on a form or from the Dictionary module.
 -   **[Configuring read-only security options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/read-only-option.md)**  
 Control the ability to edit read-only fields by configuring read-only options.
 -   **[Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)**  
@@ -73,13 +73,3 @@ Create a bi-directional relationship between two tables, so that the related rec
 
 **Parent Topic:**[ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md)
 
-## Related
-
-- [[c_TableAdministration|Table administration]]
-- [[custom-tables|Custom tables]]
-- [[c_SystemDictionary|System dictionary]]
-- [[c_DictionaryOverrides|Dictionary overrides]]
-- [[c_TaskTableFlattening|Table flattening]]
-- [[table-relationships|Table relationships]]
-- [[t_CreateATable|Create a table]]
-- [[t_ModifyADictionaryEntryFromAForm|Modify dictionary entries]]

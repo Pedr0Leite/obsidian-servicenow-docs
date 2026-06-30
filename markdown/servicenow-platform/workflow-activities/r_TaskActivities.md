@@ -21,15 +21,11 @@ Task activities are only available when the workflow runs on a table that extend
 -   **[Add Worknote workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_AddWorknote.md)**  
 The **Add Worknote** activity adds text to the Worknotes field of the current incident record.
 -   **[Attachment Note workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_AttachmentNote.md)**  
-The **[[attachment|Attachment]] Note** activity adds an attachment to the current record.
+The **Attachment Note** activity adds an attachment to the current record.
 -   **[Catalog Task workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CatalogTask.md)**  
-The **Catalog Task** activity creates a [[service-catalog|service catalog]] task record.
+The **Catalog Task** activity creates a service catalog task record.
 -   **[Create Task workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_CreateTask.md)**  
 The **Create Task** activity generates a record on any of the tables that extend Task \[task\].
 
 **Parent Topic:**[Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_WorkflowActivities.md)
 
-## Related
-
-- [[attachment|Attachment]]
-- [[service-catalog|Service Catalog]]

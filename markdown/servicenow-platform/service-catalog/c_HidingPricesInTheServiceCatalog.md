@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Hiding prices in the service catalog
 
-Administrators can configure options to hide catalog item prices in the [[service-catalog|service catalog]] for listings of specific items, for specific types of items, or for all items.
+Administrators can configure options to hide catalog item prices in the service catalog for listings of specific items, for specific types of items, or for all items.
 
 Item prices can appear in the following locations:
 
@@ -27,13 +27,13 @@ Item prices can appear in the following locations:
 
 ## Hide prices globally
 
-Configure [[r_ServiceCatalogProperties|service catalog properties]] to hide prices globally.
+Configure service catalog properties to hide prices globally.
 
 To view and edit service catalog properties, navigate to **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**.
 
 ### Hiding prices by item types
 
-By default, prices do not appear for [[c_ServiceCatalogOrderGuides|order guides]], record producers, and wizard launchers.
+By default, prices do not appear for order guides, record producers, and wizard launchers.
 
 You can change which catalog item types show prices using the **List of class names for catalog items that do not show the price in listings** property \(**glide.sc.item.cannot\_show\_price**\). Provide a comma-separated list of table names for item types that you want to hide prices for.
 
@@ -63,13 +63,8 @@ Role required: admin
 
 2.  Open the relevant item definition.
 
-3.  Select the **Omit Price on Cart** [[check-box|check box]].
+3.  Select the **Omit Price on Cart** check box.
 
     The price does not appear in the catalog listing or when the item is added to the cart. The price is listed as "-" on the edit cart, order confirmation, and order status screens.
 
-## Related
 
-- [[service-catalog|Service Catalog]]
-- [[r_ServiceCatalogProperties|Service Catalog properties]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[check-box|Check box]]

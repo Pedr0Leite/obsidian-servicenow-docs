@@ -26,9 +26,9 @@ The value of the **sys\_domain** field contains the domain that is assigned to t
 -   Domain that is assigned to the User record
 -   Domain of the user who creates it
 
-Make sure that your [[c_DomainAssignment|domain assignment]] strategies and designs are well documented and tested so that you are creating records as those strategies and designs are inserted into the correct domain. That way you can see that the properties of each domain should you need to duplicate or modify them.
+Make sure that your domain assignment strategies and designs are well documented and tested so that you are creating records as those strategies and designs are inserted into the correct domain. That way you can see that the properties of each domain should you need to duplicate or modify them.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -67,7 +67,7 @@ Make sure that your [[c_DomainAssignment|domain assignment]] strategies and desi
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -83,8 +83,3 @@ Make sure that your [[c_DomainAssignment|domain assignment]] strategies and desi
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[c_DomainAssignment|Domain assignment]]
-- [[logs|Logs]]

@@ -23,7 +23,7 @@ Create a connected app in your Zoom account to enable OAuth 2.0 authentication w
 ### Before you begin
 
 -   Ensure that you have an Integration Hub subscription.
--   Ensure that [[omnichannel-callback|Omnichannel Callback]] is installed on your instance.
+-   Ensure that Omnichannel Callback is installed on your instance.
 -   Ensure that the Zoom spoke is activated. For more information, see Zoom spoke
 
 Role required: Zoom admin
@@ -120,6 +120,4 @@ Role required: admin
 
     A confirmation message is displayed that the token is available.
 
-## Related
 
-- [[omnichannel-callback|Omnichannel Callback]]

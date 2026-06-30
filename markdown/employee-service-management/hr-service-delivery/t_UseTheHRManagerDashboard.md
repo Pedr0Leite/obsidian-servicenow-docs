@@ -35,7 +35,7 @@ You can customize any dashboard that you can access to add or remove reports and
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_HRDashboardsReports|HR Dashboards &amp; Reports]]** &gt; **Manager Dashboard**.
+1.  Navigate to **All** &gt; **HR Dashboards &amp; Reports** &gt; **Manager Dashboard**.
 
 2.  Perform any of the following actions.
 
@@ -48,6 +48,3 @@ You can customize any dashboard that you can access to add or remove reports and
 
 **Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRDashboardsReports.md)
 
-## Related
-
-- [[c_HRDashboardsReports|HR Dashboards &amp; Reports]]

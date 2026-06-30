@@ -14,9 +14,9 @@ breadcrumb: [Data protection, Hardening settings, Platform Security]
 
 # Remove remember me
 
-Use the **glide.ui.forgetme** property to remove the **[[c_ChSetRemMeChkbxCookie|Remember Me]]** check box from the login page to prevent login information from being cached.
+Use the **glide.ui.forgetme** property to remove the **Remember Me** check box from the login page to prevent login information from being cached.
 
-The **glide.ui.forgetme** system property controls the **Remember Me** check box from the login page to prevent login information from being cached when set to **true**. If the value is set to **false**, caching of [[c_Authentication|authentication]] information is allowed and the **Remember Me** checkbox is displayed.
+The **glide.ui.forgetme** system property controls the **Remember Me** check box from the login page to prevent login information from being cached when set to **true**. If the value is set to **false**, caching of authentication information is allowed and the **Remember Me** checkbox is displayed.
 
 Ensure that the property **glide.ui.forgetme** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,9 +117,3 @@ None
 
 **Parent Topic:**[Data protection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)
 
-## Related
-
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

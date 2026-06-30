@@ -26,13 +26,13 @@ The **Table** field in the View Table form specifies the table to join to the da
 
 **Note:** The Variable prefix field is mandatory.
 
-When you write the **Where clause**, add the field name to the **Variable prefix** of its table with an underscore. In the following example, **mi\_id** refers to the **id** field in the [[c_MetricInstance|Metric Instance]] \[metric\_instance\] table \(mi\) and **inc\_sys\_id** refers to the **sys\_id** field in the Incident \[incident\] table \(inc\).
+When you write the **Where clause**, add the field name to the **Variable prefix** of its table with an underscore. In the following example, **mi\_id** refers to the **id** field in the Metric Instance \[metric\_instance\] table \(mi\) and **inc\_sys\_id** refers to the **sys\_id** field in the Incident \[incident\] table \(inc\).
 
 \[Omitted image "Dbviews4.png"\] Alt text: Database View Table form
 
 **Note:**
 
--   Database views cannot be created on tables that participate in [[c_TableRotation|table rotation]].
+-   Database views cannot be created on tables that participate in [table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableRotation.md).
 -   Use only lowercase characters in the **Variable prefix**. Using uppercase characters may prevent you from viewing the database view in a list.
 
 To see an example of using left joins to create a view, see [Example left join in creating a database view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/example-left-join-db-view.md).
@@ -54,7 +54,7 @@ There is no support for LIKE or CONTAINS conditions in the **Where clause** clau
 
 1.  From the Database View form, select **New** on the View Tables related list.
 
-2.  [[configure-form-layout|Configure the form]] and add the **Left join** field \(a check box\) to the form.
+2.  [Configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) and add the **Left join** field \(a check box\) to the form.
 
 3.  Select **Save**.
 
@@ -74,8 +74,4 @@ There is no support for LIKE or CONTAINS conditions in the **Where clause** clau
 
     For example, to query all incidents related to RFCs OR all incidents that are the parent of a change request, use the syntax: `inc_rfc = chg_sys_id || chg_parent = inc_sys_id`.
 
-## Related
 
-- [[c_TableRotation|Table rotation]]
-- [[configure-form-layout|Configuring the form layout]]
-- [[c_MetricInstance|Metric instance]]

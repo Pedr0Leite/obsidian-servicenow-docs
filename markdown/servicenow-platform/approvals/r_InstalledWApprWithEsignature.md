@@ -14,13 +14,13 @@ breadcrumb: [Approval with e-signature, Classic approvals, Exploring Service Adm
 
 # Installed with approval with e-signature
 
-Installing [[approval-with-e-signature|approval with e-signature]] installs certain properties.
+Installing approval with e-signature installs certain properties.
 
--   Module - [[e-signature|E-Signature]] Registry
+-   Module - E-Signature Registry
 -   UI Action - Approve \(on table sysapproval\_approver, with no action name\)
 -   UI Action - Approve \(on table sysapproval\_approver, with no action name\)
 -   UI Action - Approve \(on table sysapproval\_approver, with the action name authenticated\_list\_approval\)
--   [[ui-page|UI Page]] - form\_login\_validate\_dialog
+-   UI Page - form\_login\_validate\_dialog
 -   UI Page - login\_validate\_dialog
 -   UI page: saml2\_esignature\_login, the re-authentication page that appears when an approver tries to approve a request.
 -   Properties: see [E-signature SAML properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AddingSupportForESignature.md)
@@ -33,8 +33,3 @@ Installing the plugin also disables the two out-of-the-box Approve UI Actions on
 
 **Parent Topic:**[Approval with e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/approval-with-e-signature.md)
 
-## Related
-
-- [[approval-with-e-signature|Approval with e-signature]]
-- [[e-signature|E-signature]]
-- [[ui-page|UI page]]

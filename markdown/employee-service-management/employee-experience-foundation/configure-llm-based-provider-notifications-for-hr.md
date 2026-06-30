@@ -20,7 +20,7 @@ Enable LLM-based actionable provider notifications for HR.
 
 Ensure the following:
 
--   You have the latest version of the [[hr-service-delivery|HR Service Delivery]] for Microsoft 365.
+-   You have the latest version of the HR Service Delivery for Microsoft 365.
 -   The following LLM Assets have their **Status** as **Published** and are **Active**:
 
     -   \_view\_approval\_details\_LLM\_
@@ -85,6 +85,3 @@ You can customize the fields displayed in approval notifications. For more infor
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

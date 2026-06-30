@@ -26,7 +26,7 @@ Resolve, reassign the incident, or add comments to an incident assigned to you.
 
 ## Procedure
 
-1.  On the [[itsm-mobile-agent|ITSM mobile agent]] landing screen, tap the **[[incidents-at-risk|Incidents at risk]]** applet.
+1.  On the ITSM mobile agent landing screen, tap the **Incidents at risk** applet.
 
     The **Incidents at risk** screen opens with a list of incidents.
 
@@ -101,8 +101,3 @@ View the list of all the calls related to an incident. Tap on any of the calls t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[incidents-at-risk|Incidents at risk]]

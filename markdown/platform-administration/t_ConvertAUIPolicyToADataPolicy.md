@@ -44,8 +44,5 @@ For a UI policy to be eligible for conversion to a data policy, the following co
 **Related topics**  
 
 
-[[c_DataPolicy|Data policy]]
+[Data policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataPolicy.md)
 
-## Related
-
-- [[c_DataPolicy|Data policy]]

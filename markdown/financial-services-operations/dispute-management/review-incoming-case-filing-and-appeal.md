@@ -26,7 +26,7 @@ If you refuse the acquirer’s pre-arbitration request, the acquirer may create 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -54,7 +54,7 @@ If you refuse the acquirer’s pre-arbitration request, the acquirer may create 
 
     -   Select **Withdraw**.
     -   Update the **Case withdrawn status** field to indicate who initiated the withdrawal.
-    -   Update the **[[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]** field. This field appears only for the IPC policy. If it's no credit, the **Final Credit** field appears.
+    -   Update the **Reverse provisional credit** field. This field appears only for the IPC policy. If it's no credit, the **Final Credit** field appears.
 11. Select **Close task**.
 
 12. Select **Get case filing response** to view the case filing decision from Visa.
@@ -84,7 +84,3 @@ Visa confirms the appeal with an acknowledgment letter. Retrieve the letter by s
 
 **Parent Topic:**[Allocation dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/allocation-dispute-work-flow.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]

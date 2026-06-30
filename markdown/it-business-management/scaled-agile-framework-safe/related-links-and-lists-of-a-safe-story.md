@@ -53,7 +53,7 @@ Copy Story
 
 </td><td>
 
-Copies the details of an existing active story to a new story. The [[c_Tests|tests]] and tasks of the story are also copied.The newly created story is moved set to the Draft state.
+Copies the details of an existing active story to a new story. The tests and tasks of the story are also copied.The newly created story is moved set to the Draft state.
 
  This action is not available for stories that are added from the triage board.
 
@@ -67,6 +67,3 @@ Copies the details of an existing active story to a new story. The [[c_Tests|tes
 
 **Parent Topic:**[Define a story in SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFestory.md)
 
-## Related
-
-- [[c_Tests|Tests]]

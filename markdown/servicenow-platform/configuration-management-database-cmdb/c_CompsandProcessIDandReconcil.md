@@ -14,7 +14,7 @@ breadcrumb: [Explore, CMDB Identification and Reconciliation \(IRE\), Configurat
 
 # Components and process of Identification and Reconciliation
 
-The CMDB Identification and Reconciliation functionality is supported by the [[ire|Identification and Reconciliation engine \(IRE\)]], rules, and tasks. [[c_IdentificationRules|Identification rules]], [[r_ReconciliationRulesPrinciples|reconciliation rules]], IRE data source rules, de-duplication tasks, and reclassification tasks determine how IRE identifies and reconciles CI.
+The CMDB Identification and Reconciliation functionality is supported by the Identification and Reconciliation engine \(IRE\), rules, and tasks. Identification rules, reconciliation rules, IRE data source rules, de-duplication tasks, and reclassification tasks determine how IRE identifies and reconciles CI.
 
 ## Concepts and Components of Identification and Reconciliation
 
@@ -40,7 +40,7 @@ The CMDB Identification and Reconciliation functionality is supported by the [[i
 
     The Identification and Reconciliation APIs are a centralized set of APIs that can be used with different sources of data such as Discovery, Monitoring, or Import Sets. You can use it to enforce Identification and Reconciliation before data is stored in the CMDB. Data sources do not directly write to the CMDB. Instead, they call APIs first to ensure that the data being written does not introduce inconsistencies.
 
-    Identification engine APIs are accessible in scoped apps. The [[manage-cmdb|Configuration Management]] For Scoped Apps \(CMDB\) plugin \(com.snc.cmdb.scoped\) allows a scoped app in scripts to use the prefix 'sn\_cmdb.IdentificationEngine.&lt;method&gt;' to access identification engine APIs. The Configuration Management For Scoped Apps \(CMDB\) plugin is activated in base systems.
+    Identification engine APIs are accessible in scoped apps. The Configuration Management For Scoped Apps \(CMDB\) plugin \(com.snc.cmdb.scoped\) allows a scoped app in scripts to use the prefix 'sn\_cmdb.IdentificationEngine.&lt;method&gt;' to access identification engine APIs. The Configuration Management For Scoped Apps \(CMDB\) plugin is activated in base systems.
 
     -   [createOrUpdateCI\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_IdentEngineScriptAPI.md): A scriptable API that creates or updates a CI based on identification and reconciliation rules.
     -   [identifyCI\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_IdentEngineScriptAPI.md): Similar to the **createOrUpdateCI** API, but does not commit the result to the database. Use this API with a given payload to find out if the identification engine will perform insert or update operations, without committing the operation.
@@ -59,9 +59,3 @@ Predefined identification are included for many of the tables in the base system
 -   IRE prevents duplicate CIs by uniquely identifying CIs.​
 -   IRE reconciles CI attributes by allowing only authoritative data sources to write to CMDB.
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[manage-cmdb|Configuration Management]]

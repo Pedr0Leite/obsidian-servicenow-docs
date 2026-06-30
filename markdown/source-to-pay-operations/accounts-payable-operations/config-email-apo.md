@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now A
 
 # Configure Email response generation skill in Now Assist for Accounts Payable Operations \(APO\)
 
-If you have the admin role, you can configure the Email response generation skill in [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] so that an accounts payable \(AP\) fulfiller can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to draft professional responses automatically.
+If you have the admin role, you can configure the Email response generation skill in Now Assist for Accounts Payable Operations \(APO\) so that an accounts payable \(AP\) fulfiller can use the generative AI skills in Source-to-Pay Workspace to draft professional responses automatically.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist skills** tab of the Now Assist Admin console.
 
-2.  In the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group, select **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** to view the skills for the APO features.
+2.  In the **Finance and Supply Chain** workflow group, select **Accounts Payable Operations** to view the skills for the APO features.
 
     1.  Select **Email response for invoice case** if you want to activate the skill for invoice case.
 
@@ -57,9 +57,3 @@ Role required: admin
 
 The Email generation for invoice case is activated. You can now select \[Omitted image "bus-ai-sparkle.svg"\] Alt text: in the Email tab of an invoice case or a task to draft professional responses.
 
-## Related
-
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

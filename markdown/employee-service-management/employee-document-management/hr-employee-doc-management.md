@@ -16,7 +16,7 @@ breadcrumb: [HR Documents, HR Service Delivery, Employee Service Management]
 
 Manage large numbers of documents more efficiently with the ServiceNow ™ Employee Document Management product. Employee Document Management provides storage space, a filing system, the ability to easily retrieve documents, defining who can view sensitive documents, and when to purge documents.
 
-Your company asks employees to complete and return documents related to benefits, payroll, [[hr-case-employee-relations|employee relations]], access to internal systems, and other services. Employee Document Management is cloud-based, efficient, secure, and it reduces compliance risks.
+Your company asks employees to complete and return documents related to benefits, payroll, employee relations, access to internal systems, and other services. Employee Document Management is cloud-based, efficient, secure, and it reduces compliance risks.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -51,6 +51,3 @@ Your company asks employees to complete and return documents related to benefits
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

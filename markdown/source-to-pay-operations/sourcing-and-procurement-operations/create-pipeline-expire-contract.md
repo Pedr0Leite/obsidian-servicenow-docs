@@ -22,11 +22,11 @@ Role required: sn\_spend\_pipeline.pipeline\_management\_admin
 
 ## Procedure
 
-1.  Navigate to [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+1.  Navigate to Source-to-Pay Workspace.
 
 2.  Select the **Category management** tab.
 
-3.  Under the [[contracts|Contracts]] section, select the **Expiring within 90 days** widget.
+3.  Under the Contracts section, select the **Expiring within 90 days** widget.
 
     The list of expiring contracts is displayed.
 
@@ -42,7 +42,7 @@ Role required: sn\_spend\_pipeline.pipeline\_management\_admin
 
         From the **Add to pipeline project** list, select an existing pipeline project. The contract is added to the pipeline project.
 
-    The Contract renewal sourcing task is automatically created and appears in the **Related work** tab of the contract record. This task is assigned to the business owner who was originally assigned to the [[sourcing-request|sourcing request]]. The shopper or business owner can view the sourcing task in Employee Center and choose whether to renew the contract or not. For more information, see [Confirm contract renewal in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/confirm-contract-renewal.md).
+    The Contract renewal sourcing task is automatically created and appears in the **Related work** tab of the contract record. This task is assigned to the business owner who was originally assigned to the sourcing request. The shopper or business owner can view the sourcing task in Employee Center and choose whether to renew the contract or not. For more information, see [Confirm contract renewal in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/confirm-contract-renewal.md).
 
 
 -   **[Confirm contract renewal in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/confirm-contract-renewal.md)**  
@@ -50,8 +50,3 @@ As a business owner or shopper, confirm whether the expiring contract needs to b
 
 **Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[contracts|Contracts]]
-- [[sourcing-request|Sourcing request]]

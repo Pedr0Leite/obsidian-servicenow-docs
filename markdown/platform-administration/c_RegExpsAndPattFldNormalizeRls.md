@@ -12,13 +12,13 @@ breadcrumb: [Field normalization and transformation, Administer, Field administr
 
 # Regular expressions and patterns in field normalization rules
 
-Field Transformation [[clone-exclusions-preservers-cleanupscripts|definitions]] support the use of regular expressions \(referred to in the platform as **regex**\) and [[c_PatternMatching|pattern matching]] for determining the position of characters in a string.
+Field Transformation definitions support the use of regular expressions \(referred to in the platform as **regex**\) and pattern matching for determining the position of characters in a string.
 
 After identifying the target characters, field transformation can replace or delete the identified characters or insert other characters at that position.
 
 ## Regex
 
-Regular expressions can be used in transform [[r_DirectJDBCProbeParameters|parameters]] and in condition statements to determine which characters in a field value are transformed.
+Regular expressions can be used in transform parameters and in condition statements to determine which characters in a field value are transformed.
 
 Regular expressions used as parameters to locate characters in transformed field values must begin with **/regex/**. Everything after that is a regular expression that is used to calculate character position.
 
@@ -31,16 +31,9 @@ The network contains several domains, and each domain contains numerous computer
 -   Find:**/regex/.\*\\\\\(.\*\)**
 -   Replace with:**$1**
 
-The regular expression **.\*\\\\\(.\*\)** represents the entire raw value in the **Name** field - in this example **development\\devlab01**. The first part of the expression, **.\***, represents everything before the backslash \(the **development** domain name\). The backslash by itself is the escape character in regular expressions and requires special syntax to retain its function in the computer name. The administrator must escape it by using another backslash \(\\\\ means \\\). The part of the expression after the backslash, **\(.\*\)**, represents the computer name \(**devlab01**\) and is grouped within parentheses for [[reference-email-admin|reference]]. The value in the **Replace with** field, **$1**, references this group and replaces the entire raw value of the field with the contents of the group, **devlab01**.
+The regular expression **.\*\\\\\(.\*\)** represents the entire raw value in the **Name** field - in this example **development\\devlab01**. The first part of the expression, **.\***, represents everything before the backslash \(the **development** domain name\). The backslash by itself is the escape character in regular expressions and requires special syntax to retain its function in the computer name. The administrator must escape it by using another backslash \(\\\\ means \\\). The part of the expression after the backslash, **\(.\*\)**, represents the computer name \(**devlab01**\) and is grouped within parentheses for reference. The value in the **Replace with** field, **$1**, references this group and replaces the entire raw value of the field with the contents of the group, **devlab01**.
 
-The administrator clicks **Test [[c_FieldTransformations|transforms]]** in the transformation record and enters `development\devlab01` in the **Raw data** field. He then clicks **OK** to apply the transform to the test value. The transform replaces **development\\devlab01** with **devlab01**.
+The administrator clicks **Test transforms** in the transformation record and enters `development\devlab01` in the **Raw data** field. He then clicks **OK** to apply the transform to the test value. The transform replaces **development\\devlab01** with **devlab01**.
 
 When the transforms for this field are tested successfully, the administrator changes the **Mode** in the transformation record to **Active** and runs the Transformation application data job to apply this transformation to existing records in the database.
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[c_PatternMatching|Pattern matching]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[reference-email-admin|Reference]]
-- [[c_FieldTransformations|Transforms]]

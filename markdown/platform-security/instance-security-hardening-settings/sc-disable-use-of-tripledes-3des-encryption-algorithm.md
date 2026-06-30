@@ -14,7 +14,7 @@ breadcrumb: [Stored cryptography, Hardening settings, Platform Security]
 
 # Disable use of TripleDES/3DES encryption algorithm
 
-Avoid the security risks of outdated [[encryption-landing|encryption]] methods by disabling the use of the TripleDES/3DES encryption algorithm.
+Avoid the security risks of outdated encryption methods by disabling the use of the TripleDES/3DES encryption algorithm.
 
 Disable the use of legacy, deprecated Triple Data Encryption Standard \(3DES or Triple-DES\) on your instance, which may lead to loss and leakage of sensitive information.
 
@@ -26,7 +26,7 @@ The **glide.security.3des.encryption.allow** system property controls whether 3D
 
 |Attribute|Description|
 |---------|-----------|
-|Technical [[sc-configuration|configuration]] name|glide.security.3des.encryption.allow|
+|Technical configuration name|glide.security.3des.encryption.allow|
 |Plugin applicability|None|
 |Security risk|Usage of outdated and weak encryption like 3DES may lead to loss and leakage of sensitive information.|
 |Common Vulnerability Scoring System \(CVSS\) score|4.2|
@@ -42,7 +42,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Stored cryptography](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-stored-cryptography.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

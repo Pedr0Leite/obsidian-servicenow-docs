@@ -14,37 +14,37 @@ breadcrumb: [Contract Management, IT Asset Management]
 
 # Contract renewal workflow
 
-Use the contract renewal workflow to renew [[c_Contracts|contracts]] that are nearing their expiry date or are already expired. This workflow enables you to renew contracts through a streamlined and managed process.
+Use the contract renewal workflow to renew contracts that are nearing their expiry date or are already expired. This workflow enables you to renew contracts through a streamlined and managed process.
 
-Renew your contracts by creating, validating, approving, and activating a contract record that references the original contract. This workflow enables you to manage related entities like hardware assets, software entitlements, [[c_TermsAndConditions|terms and conditions]], and rate cards.
+Renew your contracts by creating, validating, approving, and activating a contract record that references the original contract. This workflow enables you to manage related entities like hardware assets, software entitlements, terms and conditions, and rate cards.
 
-**Note:** The contract renewal workflow supports Software license, Subscription contract, Maintenance, and Warranty contract [[c_Models|models]].
+**Note:** The contract renewal workflow supports Software license, Subscription contract, Maintenance, and Warranty contract models.
 
 Complete the following tasks in the contract renewal workflow to renew your contracts:
 
-1.  [Contract renewal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/create-contract-renew-req.md): [[create-contract-renew-req|Create a contract renewal request]] for contracts that are nearing their expiry date or are already expired.
-2.  [Contract selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-contract.md): [[select-contract|Renew multiple child contracts]] under the parent contract.
+1.  [Contract renewal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/create-contract-renew-req.md): Create a contract renewal request for contracts that are nearing their expiry date or are already expired.
+2.  [Contract selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-contract.md): Renew multiple child contracts under the parent contract.
 3.  [Build renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/fill-cont-renew-info.md): Supply the contract renewal information.
 4.  [Asset selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-hw-asset.md): Add or remove hardware or enterprise assets from the contract renewal process, and view the assets carried over to the new contract.
 5.  [Software assets selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/select-sw-asset.md): Add or remove software entitlements that you want to include in the contract renewal process, and view the entitlements carried over to the new contract.
 6.  [Terms and conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/update-terms-conditions.md): Update the terms and conditions in your new contract, and view the terms and conditions carried over to the new contract.
 7.  [Rate cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/update-rate-card.md): Add rate card details to the new contract to track contract expenses.
 8.  [Renewal confirmation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/confirm-cont-renewal.md): Review the renewal details after completing all the details of a contract.
-9.  [Renewal approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/approve-cont-renew.md): [[approve-cont-renew|Approve or reject a contract renewal request]] for all Contract Renewal Request Lines.
+9.  [Renewal approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/approve-cont-renew.md): Approve or reject a contract renewal request for all Contract Renewal Request Lines.
 10. [Renewal purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/receive-po.md): Receive the purchase order for assets covered in the contract.
 
 **Note:**
 
 -   You can't edit a task after you close it.
--   You can [[t_CancelAContract|cancel a contract]] renewal process for a Contract, Contract Renewal Request, Contract Renewal Request Lines, and Contract Renewal tasks. For more information, see [Results of canceling a contract renewal process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/cancel-contract-renewal.md).
+-   You can cancel a contract renewal process for a Contract, Contract Renewal Request, Contract Renewal Request Lines, and Contract Renewal tasks. For more information, see [Results of canceling a contract renewal process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/cancel-contract-renewal.md).
 
 ## Prerequisites
 
 Before using the contract renewal workflow, you must complete the following prerequisites:
 
--   Activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin on your ServiceNow instance.
+-   Activate the Software Asset Management Professional \(com.snc.samp\) plugin on your ServiceNow instance.
 
-    If you want to manage hardware or enterprise assetcontracts, request and install the [[ham-landing-page|Hardware Asset Management]] orEnterprise [[am-landing-page|Asset Management]] application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) instead.
+    If you want to manage hardware or enterprise assetcontracts, request and install the Hardware Asset Management orEnterprise Asset Management application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) instead.
 
 -   Enable the **sn\_contract\_enable\_renewal\_flow** system property.
 
@@ -61,15 +61,3 @@ Domain separation with data separation is supported for the contract renewal wor
 
 The **sn\_contract\_enable\_renewal\_flow** system property also supports domain separation.
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_Models|Models]]
-- [[create-contract-renew-req|Create a contract renewal request]]
-- [[select-contract|Renew multiple child contracts]]
-- [[approve-cont-renew|Approve or reject a contract renewal request]]
-- [[t_CancelAContract|Cancel a contract]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[am-landing-page|Asset Management]]

@@ -24,7 +24,7 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 1.  In the Mobile Agent, navigate to the **Assigned Matters** list.
 
-2.  Tap the assigned matter to which you want to [[add-a-collaborator|add a collaborator]].
+2.  Tap the assigned matter to which you want to add a collaborator.
 
 3.  Tap the actions icon \(\[Omitted image "action-icon.png"\] Alt text: Actions icon.\) and select the **Add Collaborators** option.
 
@@ -34,6 +34,4 @@ Role required: sn\_lg\_matter.matter\_fulfiller
 
 6.  Tap the submit icon \(\[Omitted image "submit-icon.png"\] Alt text: Submit icon.\).
 
-## Related
 
-- [[add-a-collaborator|Add a collaborator]]

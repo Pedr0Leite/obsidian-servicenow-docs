@@ -36,7 +36,7 @@ The Overview section shows the data for the manual metrics in the following tile
 -   Number of metrics awaiting approval for the metric data tasks: Number of metric data tasks that have not been approved.
 -   Number of metrics rejected: Number of metric data tasks that have been rejected.
 
-When you select a tile, the data on the page is filtered. You can also filter the data that is visible using the reporting classification filters that are provided. The options displayed for the reporting classification filter can be configured by the users. For more information on how to configure the options, refer to [[create-a-classification-choice|Create a grouping for metric definitions]].
+When you select a tile, the data on the page is filtered. You can also filter the data that is visible using the reporting classification filters that are provided. The options displayed for the reporting classification filter can be configured by the users. For more information on how to configure the options, refer to [Create a grouping for metric definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-classification-choice.md).
 
 The data displayed on this page is the latest data.
 
@@ -44,6 +44,3 @@ The data displayed on this page is the latest data.
 
 The Aggregated metric data section shows you the data for metric definitions. You can scroll horizontally to select a tile to view the data related to that tile. The tiles display the groups that you specify in the metric definitions. For example, you can select Emissions to see all the metric definitions related to Emissions.
 
-## Related
-
-- [[create-a-classification-choice|Create a grouping for metric definitions]]

@@ -19,7 +19,7 @@ Based on the Configuration Item \(CI\) selected in the **Investigate** tab, the 
 The following UI experiences dashboard are supported on the Investigate tab:
 
 -   Default view: The CI metrics are display in default dashboard view on the tab.
--   [[dex-landing|Digital End-User Experience]] \(DEX\) view: The CI metrics are displayed in DEX dashboard view on the tab.
+-   Digital End-User Experience \(DEX\) view: The CI metrics are displayed in DEX dashboard view on the tab.
 -   Service Observability \(SO\) view: The CI metrics are displayed in SO dashboard view on the tab. For more information, see [View overall service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/view-overall-service-health.md).
 
 You can navigate to the Investigate **CI Experience Rules** \(**sn\_sow\_investigate\_ci\_ux\_rule**\) table to configure user criteria, CI conditions, and rule order. You may also choose to match CI extensions, including subclasses. These configurations determine which UI experience view appears on the investigate tab when a specific CI class is selected.
@@ -63,6 +63,3 @@ For more information on SO, see [Service Observability](https://raw.githubuserco
 
 **Parent Topic:**[Features of the Investigation tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/features-of-investigation-tab.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]

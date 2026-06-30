@@ -14,7 +14,7 @@ breadcrumb: [Customizing Essential SAFe dashboard reports, Performance Analytics
 
 # Customize story states of your Essential SAFe dashboard reports
 
-Configure story states to reflect your customizations on the [[essential-overview|Essential SAFe]] dashboards.
+Configure story states to reflect your customizations on the Essential SAFe dashboards.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or pa\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **Stories**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **Stories**.
 
 2.  Open a story to which you would like to add the custom states.
 
@@ -41,7 +41,3 @@ Role required: admin or pa\_admin
 
 **Parent Topic:**[Customizing Essential SAFe dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/customizing-safe-dashboard-reports.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

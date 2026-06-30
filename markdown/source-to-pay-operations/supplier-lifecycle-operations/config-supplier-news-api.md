@@ -14,7 +14,7 @@ breadcrumb: [News Integration, Integrate, Supplier Lifecycle Operations, Finance
 
 # Configuring a custom API to dynamically fetch supplier news
 
-By default, [[supp-news-integration|News Integration for Supplier Lifecycle Operations]] retrieves the [[supplier|supplier]] news and activities using the Microsoft Bing News Search API.
+By default, News Integration for Supplier Lifecycle Operations retrieves the supplier news and activities using the Microsoft Bing News Search API.
 
 However, you have the flexibility to use any API of your choice to dynamically retrieve the supplier news and activities.
 
@@ -27,9 +27,9 @@ The process for configuring a custom news API includes the following tasks:
 1.  [Create a REST message for a custom API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md)  
 Create a REST message request and send it to a custom API endpoint to fetch the latest supplier news.
 2.  [Add and configure the Get News data resource in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-config-news-data-resource.md)  
-Add and configure the Get News - Composite data resource in UI Builder to dynamically retrieve supplier news in the News and Activity section of the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Add and configure the Get News - Composite data resource in UI Builder to dynamically retrieve supplier news in the News and Activity section of the Source-to-Pay Workspace.
 3.  [Update the field names in the UX client script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-client-script.md)  
-[[update-client-script|Update the field names in the UX client script]] to match the custom field names in the custom API response.
+Update the field names in the UX client script to match the custom field names in the custom API response.
 
 **Parent Topic:**[News Integration for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-news-integration.md)
 
@@ -42,9 +42,3 @@ Add and configure the Get News - Composite data resource in UI Builder to dynami
 
 [Update the field names in the UX client script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-client-script.md)
 
-## Related
-
-- [[supp-news-integration|News Integration for Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[update-client-script|Update the field names in the UX client script]]

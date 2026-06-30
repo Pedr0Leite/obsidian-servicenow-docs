@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # Devices list
 
-The [[dex-workspace-devices-tab|Devices]] page provides information on your organization devices, the device assigned user, last login, matching assignments, status, active alerts, and incidents.
+The Devices page provides information on your organization devices, the device assigned user, last login, matching assignments, status, active alerts, and incidents.
 
 <table id="table_hw3_cfy_bzb"><thead><tr><th>
 
@@ -121,6 +121,3 @@ Total count of active incidents for the device.
 
 **Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

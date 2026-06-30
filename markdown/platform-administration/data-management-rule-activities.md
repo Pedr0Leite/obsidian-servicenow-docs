@@ -16,7 +16,7 @@ View a summary of records in the backlog and the execution history for a specifi
 
 ## Key benefits
 
--   View details for a specific [[c_DataManagement|data management]] rule.
+-   View details for a specific data management rule.
 -   Track the backlog of records that meet the rule's conditions but haven't been processed yet.
 -   View a detailed summary of the rule's execution history.
 
@@ -38,7 +38,7 @@ View basic information about a data management rule including the following deta
 
     The table to which the data management rule applies.
 
--   **[[c_DataPolicy|Data policy]]**
+-   **Data policy**
 
     The data policy to which the data management rule belongs.
 
@@ -75,7 +75,3 @@ View a detailed summary of the rule's execution history.
 -   Determine how many records were archived or deleted by checking the **Records impacted** column. Consider adjusting the rule's conditions if the number of records isn't sufficient.
 -   Determine how long the rule took to complete by checking the **Duration** column.
 
-## Related
-
-- [[c_DataManagement|Data Management]]
-- [[c_DataPolicy|Data policy]]

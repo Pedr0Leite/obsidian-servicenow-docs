@@ -22,25 +22,15 @@ Select a link from the following table to learn about key features and benefits 
 
 |Application|Description|
 |-----------|-----------|
-|[[lead-management|Lead Management]]|Capture, qualify, and nurture potential customers.|
-|[[explore-customer-engagement-sequences|Customer Engagement Sequences]]|Automate and personalize outreach strategies.|
-|[[explore-buying-group|Buying Group]]|Create solution-specific buying groups, assign stakeholder roles, and link to opportunities.|
-|[[opportunity-management|Opportunity Management]]|Track and advance sales opportunities through the pipeline.|
-|[[sales-forecasting|Sales Forecasting]]|Predict revenue and plan resources with confidence.|
-|[[explore-sales-territory-management|Sales Territory Management​]]|Define and manage sales regions for better coverage.|
-|[[explore-activity-management|Activity Management]]|Plan, execute, capture, and track customer interactions across multiple channels throughout the customer life cycle.|
+|[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)|Capture, qualify, and nurture potential customers.|
+|[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)|Automate and personalize outreach strategies.|
+|[Buying Group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-buying-group.md)|Create solution-specific buying groups, assign stakeholder roles, and link to opportunities.|
+|[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)|Track and advance sales opportunities through the pipeline.|
+|[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)|Predict revenue and plan resources with confidence.|
+|[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)|Define and manage sales regions for better coverage.|
+|[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)|Plan, execute, capture, and track customer interactions across multiple channels throughout the customer life cycle.|
 
 ## What to explore next
 
-Configure the lead and opportunity applications, so your agents can use them in their sales workflows. For more information, see [[configuring-lead-opportunity-mgt|Configuring the lead and opportunity management applications]].
+Configure the lead and opportunity applications, so your agents can use them in their sales workflows. For more information, see [Configuring the lead and opportunity management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-opportunity-mgt.md).
 
-## Related
-
-- [[lead-management|Lead Management]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[explore-buying-group|Buying Group]]
-- [[opportunity-management|Opportunity Management]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[explore-activity-management|Activity Management]]
-- [[configuring-lead-opportunity-mgt|Configuring the lead and opportunity management applications]]

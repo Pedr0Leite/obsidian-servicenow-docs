@@ -27,11 +27,11 @@ Role required: sn\_ot\_amazing\_write and cmdb\_ot\_viewer
 
 ## Procedure
 
-1.  Navigate to the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+1.  Navigate to the Industrial Workspace.
 
 2.  Open the Industrial Workspace list view.
 
-3.  Under the **[[operational-technology-overview|Operational Technology]] \(OT\)** list module, select one of the available lists.
+3.  Under the **Operational Technology \(OT\)** list module, select one of the available lists.
 
 4.  Select the OT device that you want to map.
 
@@ -46,7 +46,3 @@ If there is an active OT subnet that matches the IP address and site of the sele
 
 **Parent Topic:**[Automatically map all OT devices to an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automatedly-map-all-ot-assets.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

@@ -12,7 +12,7 @@ breadcrumb: [Workforce Optimization for Customer Service reference, Reference, C
 
 # Workforce Optimization for Customer Service manager workspace landing page
 
-Monitor your teams' work and organizational performance using [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+Monitor your teams' work and organizational performance using Workforce Optimization for Customer Service.
 
 \[Omitted image "manager-workspace-landing-page.png"\] Alt text: Manager Workspace landing page and widgets
 
@@ -64,14 +64,9 @@ Monitor your agent's work at the start of your day, act on urgent alerts, assess
 **Related topics**  
 
 
-[[create-configurable-csm-landing-page|Create Manager Workspace Landing Page]]
+[Create Manager Workspace Landing Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-configurable-csm-landing-page.md)
 
 [Use sentiment analysis dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-sentiment-analysis-dashboard.md)
 
-[[csm-configurable-manager-workspace-dashboards-new|Manager Workspace landing page]]
+[Manager Workspace landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-configurable-manager-workspace-dashboards-new.md)
 
-## Related
-
-- [[create-configurable-csm-landing-page|Create Manager Workspace Landing Page]]
-- [[csm-configurable-manager-workspace-dashboards-new|Manager Workspace landing page]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

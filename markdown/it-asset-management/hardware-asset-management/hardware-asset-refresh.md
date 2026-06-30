@@ -22,7 +22,7 @@ Role required: Inventory\_user
 
 ## About this task
 
-When hardware assets get old, their maintenance costs and risks of failure increase, while their performance decreases. You can choose to replace all the old hardware assets with the same or different [[c_Models|models]] of new hardware assets. After your Hardware Asset Refresh request is approved, the Hardware Asset Refresh flow takes you through sourcing and it triggers the Hardware Asset Refresh Line flow. The Hardware Asset Refresh Line flow uses Refresh Line tasks to take you through the steps of preparing the new asset, scheduling it for delivery, deploying it, and reclaiming the aged asset.
+When hardware assets get old, their maintenance costs and risks of failure increase, while their performance decreases. You can choose to replace all the old hardware assets with the same or different models of new hardware assets. After your Hardware Asset Refresh request is approved, the Hardware Asset Refresh flow takes you through sourcing and it triggers the Hardware Asset Refresh Line flow. The Hardware Asset Refresh Line flow uses Refresh Line tasks to take you through the steps of preparing the new asset, scheduling it for delivery, deploying it, and reclaiming the aged asset.
 
 The Flow Designer application is used to create the Hardware Asset Refresh flow and the Hardware Asset Refresh Line flow. While customizing the Hardware Asset Refresh module, don't remove or customize the **Update Sourcing set Variable** step in the Hardware Asset Refresh flow.
 
@@ -36,7 +36,7 @@ While customizing a Hardware Asset Refresh catalog item on the Catalog Item form
 |------------------------|---------|
 |Variables|Type of refresh|
 |Process|
-|Variable Sets|Hardware [[am-landing-page|Asset Management]] process set|
+|Variable Sets|Hardware Asset Management process set|
 |Hardware Asset Management sourcing set|
 
 **Note:** There are readily available decision tables that you can use to customize the Hardware Asset Refresh Line Flow. For more details, see [Hardware Asset Management flow customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/readily-available-dec-tables-ham.md).
@@ -122,7 +122,7 @@ An Order status page appears and it displays the details of the order. A request
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -142,7 +142,7 @@ An Order status page appears and it displays the details of the order. A request
 
 [Audit hardware asset inventory]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
@@ -166,7 +166,7 @@ An Order status page appears and it displays the details of the order. A request
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -228,11 +228,11 @@ Action
 
 </td></tr><tr><td id="d321141e811">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **[[procurement-view|Procurement view]]**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Procurement view**.
 2.  Select the **Requests** tab.
 3.  Select the request number of the hardware asset refresh request that you want to fulfill.
 
@@ -241,7 +241,7 @@ Action
 </table>    After your hardware asset refresh request is approved, the following events happen:
 
     -   The Source Request flow is triggered to source new assets.
-    -   In the **Catalog Tasks** tab, a catalog task is created for the [[c_Procurement|procurement]] of the new hardware asset.
+    -   In the **Catalog Tasks** tab, a catalog task is created for the procurement of the new hardware asset.
 2.  Source items in the request.
 
     You can source items in the request by consuming the local stock, through purchase orders, or through transfer orders.
@@ -324,13 +324,3 @@ After the aged hardware asset is reclaimed, the following changes happen on the 
 -   The state of the aged asset changes to In stock.
 -   The substate changes to Pending disposal.
 
-## Related
-
-- [[c_Models|Models]]
-- [[am-landing-page|Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[procurement-view|Procurement view]]
-- [[c_Procurement|Procurement]]

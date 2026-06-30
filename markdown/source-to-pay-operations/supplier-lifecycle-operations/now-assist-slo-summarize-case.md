@@ -15,7 +15,7 @@ breadcrumb: [Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and
 
 # Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace
 
-Summarize [[supplier|supplier]]-related cases to learn more about their status, progress, and action items by using the supplier case summarization skill in the [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] application.
+Summarize supplier-related cases to learn more about their status, progress, and action items by using the supplier case summarization skill in the Now Assist for Supplier Lifecycle Operations \(SLO\) application.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_supplier\_gen\_ai.now\_assist\_fulfiller
 
 ## About this task
 
-You can use the supplier case summarization skill in either Core UI or [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can use the supplier case summarization skill in either Core UI or Source-to-Pay Workspace.
 
 -   In Core UI, the summary appears in a banner in the record.
 -   In Source-to-Pay Workspace, the summary is generated in the **Details** tab.
@@ -127,8 +127,3 @@ The generated summary appears under the record summary and is saved automaticall
 
 [Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-va.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

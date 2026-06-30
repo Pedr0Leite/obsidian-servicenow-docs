@@ -14,7 +14,7 @@ breadcrumb: [Create an HR case for a lifecycle event, Using Lifecycle Events, Li
 
 # Monitor the status of a lifecycle event case
 
-Monitor the status of a lifecycle event case with [[activity-lxp|activity]] set execution contexts. You can monitor the state of each activity set in a lifecycle event case. You can further monitor the state of the individual activities. You can also report on the activity set contexts table in conjunction with the HR case table.
+Monitor the status of a lifecycle event case with activity set execution contexts. You can monitor the state of each activity set in a lifecycle event case. You can further monitor the state of the individual activities. You can also report on the activity set contexts table in conjunction with the HR case table.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_le.activity\_reader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Lifecycle Events Cases**.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Lifecycle Events Cases**.
 
     **Note:** Alternatively, you can navigate to **Lifecycle Events** &gt; **Administration** &gt; **Execution Contexts** to view all execution context records.
 
@@ -75,7 +75,4 @@ Lifecycle event case that is being monitored.
 
     2.  On the Activity Set Context form, under the Activity Status section, you can monitor the state of each activity within the activity set.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

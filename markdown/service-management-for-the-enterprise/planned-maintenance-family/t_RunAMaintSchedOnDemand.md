@@ -14,7 +14,7 @@ breadcrumb: [Managing maintenance plans, Planned Maintenance, Service Management
 
 # Run a maintenance schedule on demand
 
-Maintenance schedules are typically run using the scheduled job named [[c_SMPlanMaint|Planned Maintenance]] Nightly Run. However, you may want to run the schedule immediately or change the date when a schedule runs.
+Maintenance schedules are typically run using the scheduled job named Planned Maintenance Nightly Run. However, you may want to run the schedule immediately or change the date when a schedule runs.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ Date in the future for maintenance to run. **Note:** This field appears only whe
 </table>
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

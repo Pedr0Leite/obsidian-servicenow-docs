@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases**.
 
 2.  Open a case and click the preview icon next to the **Account** or **Consumer** field.
 
@@ -32,6 +32,4 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 5.  Click on an asset to view the read-only fields.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]

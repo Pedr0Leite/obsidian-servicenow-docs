@@ -14,7 +14,7 @@ breadcrumb: [Working with SRM services, Using Service Reliability Management, Se
 
 # Add a service to SRM
 
-Add services to [[sr-landing-page|Service Reliability Management]] \(SRM\) to help your teams manage service health.
+Add services to Service Reliability Management \(SRM\) to help your teams manage service health.
 
 ## Before you begin
 
@@ -35,9 +35,9 @@ When you add a technology management service to SRM, you also add its offerings.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -100,8 +100,3 @@ You can also add integrations to your service to start monitoring its health.
 
 **Parent Topic:**[Working with SRM services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-services.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

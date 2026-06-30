@@ -14,14 +14,14 @@ breadcrumb: [Day 1 setup guide for VMware on Cloud Provisioning and Governance, 
 
 # Create the credential and service account that will access your VMware data
 
-To securely access data on your provider account, the [[r-discovery|Discovery]] process must present appropriate credentials. To make the credentials available to Discovery, you first create an account in the VMware Console. You then securely store the credentials in a service account in your instance.
+To securely access data on your provider account, the Discovery process must present appropriate credentials. To make the credentials available to Discovery, you first create an account in the VMware Console. You then securely store the credentials in a service account in your instance.
 
 ## Before you begin
 
 Roles required:
 
 -   VMware Console administrator
--   [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]: admin or sn\_cmp.cloud\_admin
+-   Cloud Provisioning and Governance: admin or sn\_cmp.cloud\_admin
 
 ## About this task
 
@@ -29,7 +29,7 @@ Cloud providers often use different names for accounts, regions, and credential 
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Credentials**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Credentials**.
 
 2.  On the **Credentials** tab, click **New**, select **VMware Credentials**, fill in the form, and then click **Submit**.
 
@@ -86,7 +86,7 @@ Select **VMware vCenter datacenter \[cmdb\_ci\_vcenter\_datacenter\]**.
 
 </td></tr><tr><td>
 
-Datacenter [[c_DiscoveryStatus|discovery status]]
+Datacenter discovery status
 
 </td><td>
 
@@ -137,9 +137,3 @@ Enables Cloud Provisioning and Governance to collect events from resource types 
 
 [Discovery for VMware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vmware-cloud-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[c_DiscoveryStatus|Discovery status]]

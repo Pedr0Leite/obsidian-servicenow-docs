@@ -14,7 +14,7 @@ breadcrumb: [Task Intelligence, Enable AI experiences]
 
 # Exploring Task Intelligence
 
-Learn more about [[task-intelligence|Task Intelligence]] and how machine learning models can learn from your data to make predictions and achieve important outcomes.
+Learn more about Task Intelligence and how machine learning models can learn from your data to make predictions and achieve important outcomes.
 
 ## Task Intelligence overview
 
@@ -57,7 +57,7 @@ Create an incident field prediction model
 
 </td></tr><tr><td>
 
-Similarity [[model-management-phases|model management]]
+Similarity model management
 
 </td><td>
 
@@ -127,14 +127,9 @@ Features are implemented by two applications:  and Task Intelligence for ITSM.
 |Benefit|Feature|Users|
 |-------|-------|-----|
 |Predict form field values to auto-populate or recommend as suggestions|Create a field prediction model|Admins, agents|
-|Categorize emails and [[cases|cases]] based on language and attachment content||Agents|
+|Categorize emails and cases based on language and attachment content||Agents|
 |Predict incident category and priority based on previous incidents to lower time to resolution|Create an incident prediction model|Agents|
 |Analyze initial and ongoing sentiment during customer service cases||Agents|
 |Identify the language used to create customer service cases||Agents|
 |Analyze and assess the performance of models|Task Intelligence Analytics and Monitoring|Admins|
 
-## Related
-
-- [[task-intelligence|Task Intelligence]]
-- [[model-management-phases|Model management]]
-- [[cases|Cases]]

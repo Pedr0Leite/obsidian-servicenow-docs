@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or wm\_agent
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  Open the record for either the work order or work order task that you want to create a checklist for.
 
@@ -57,6 +57,3 @@ Role required: sn\_eam.enterprise\_asset\_manager or wm\_agent
 
         4.  Select the Refresh List icon \[Omitted image "refresh-list-icon.png"\] Alt text: to populate the list of checklist items that were added based on the selected checklist template.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

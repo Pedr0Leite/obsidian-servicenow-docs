@@ -28,7 +28,7 @@ Role required: admin
 
 3.  Select one of the following operations:
 
-    -   Post [[purchase-order-table|Purchase Order]]
+    -   Post Purchase Order
     -   Post Catalog Error
     -   Post Shipment Error
     -   Post Invoice Error
@@ -57,6 +57,3 @@ Export a file from a local source, a remote network server, or another instance 
 
 [Introduction to credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/credentials-connections-alias.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

@@ -15,13 +15,13 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # Time-based one-time password \(TOTP\) authentication
 
-A time based one-time password \(TOTP\) is a secure [[c_Authentication|authentication]] factor that verifies user [[identity-landing|identity]] by generating a unique, time-sensitive code.
+A time based one-time password \(TOTP\) is a secure authentication factor that verifies user identity by generating a unique, time-sensitive code.
 
 TOTP authenticator apps like **Okta Verify** generate temporary numeric codes on a registered device, usually a mobile phone. These codes are only valid for a short time and can’t be used more than once. This approach offers enhanced security compared to static passwords.
 
 ## Use case
 
-TOTP authenticator apps are suitable for [[users|users]] who require stronger protection than standard [[mfa-landing|multi-factor authentication]] \(MFA\) methods.
+TOTP authenticator apps are suitable for users who require stronger protection than standard multi-factor authentication \(MFA\) methods.
 
 ## Key strengths
 
@@ -38,12 +38,5 @@ While TOTP authenticator apps are a secure and convenient authentication method,
 -   Device management: Users must re-enroll when devices are replaced or reset.
 -   Phishing risk: One-time codes can be compromised if entered on untrusted or malicious sites.
 
-TOTP authenticator apps are an effective method to strengthen your organization’s security posture. For detailed [[sc-configuration|configuration]] instructions, see [Authenticator Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-app.md).
+TOTP authenticator apps are an effective method to strengthen your organization’s security posture. For detailed configuration instructions, see [Authenticator Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-app.md).
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-configuration|Configuration]]

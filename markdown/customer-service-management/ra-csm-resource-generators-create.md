@@ -12,11 +12,11 @@ breadcrumb: [Configuring the Recommended Actions application, Recommended Action
 
 # Create a resource generator in Recommended Actions
 
-Create resource generators that you can use to provide resources for recommendations from [[configure-nba|Recommended Actions]].
+Create resource generators that you can use to provide resources for recommendations from Recommended Actions.
 
 ## Before you begin
 
-The [[csm-task-intel-admin-center|Task Intelligence Admin Console]] \(com.sn\_ti\_admin\) plugin must be installed for selecting the Task [[intelligence-csm|Intelligence]] Classification resource generator type.
+The Task Intelligence Admin Console \(com.sn\_ti\_admin\) plugin must be installed for selecting the Task Intelligence Classification resource generator type.
 
 Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resource\_generator\_author, admin
 
@@ -36,7 +36,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resourc
 
     For example, if you choose flow as the generator type, you must also select the specific flow to use. Selecting the lookup icon opens a pop-up window that you can use to select the required flow.
 
-    For more information, see [[ra-csm-resource-generators|Resource generator types]].
+    For more information, see [Resource generator types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators.md).
 
 6.  If applicable, in the **Generator** field, select a generator.
 
@@ -44,16 +44,10 @@ Role required: sn\_nb\_action.next\_best\_action\_author, sn\_nb\_action.resourc
 
 8.  On the Generator input form, fill in the fields.
 
-    For a description of the field values, see [[ra-csm-resource-generator-form|Resource generator inputs form]].
+    For a description of the field values, see [Resource generator inputs form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generator-form.md).
 
     The fields that appear in this form section are determined by the selections in the **Generator type** and **Generator** fields.
 
 9.  Select **Update**.
 
-## Related
 
-- [[ra-csm-resource-generators|Resource generators in Recommended Actions]]
-- [[ra-csm-resource-generator-form|Resource generator inputs form]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[intelligence-csm|Intelligence]]

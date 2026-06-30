@@ -12,11 +12,11 @@ breadcrumb: [Configuring and viewing findings, Use the workspace, Security Postu
 
 # Test result and remediation task state transitions in the Security Posture Control application
 
-The states on findings \(configuration test records\) and their associated remediation tasks are impacted if you modify your policies in the [[spc-landing|Security Posture Control]] application.
+The states on findings \(configuration test records\) and their associated remediation tasks are impacted if you modify your policies in the Security Posture Control application.
 
 ## State transition scenarios between test results and remediation tasks
 
-With some exceptions, states generally transition between your findings \(test results\) and their associated remediation tasks in Security Posture Control the same way they transition between test results and remediation tasks in the [[vr-config-compliance-landing|Configuration Compliance]] application. However, if you modify your policies in Security Posture Control, your changes impact how states transition on your findings and their associated remediation tasks.
+With some exceptions, states generally transition between your findings \(test results\) and their associated remediation tasks in Security Posture Control the same way they transition between test results and remediation tasks in the Configuration Compliance application. However, if you modify your policies in Security Posture Control, your changes impact how states transition on your findings and their associated remediation tasks.
 
 The following tables illustrate how states transition on your findings if you edit and publish a new version \(edit\), deactivate, or delete your policies.
 
@@ -58,7 +58,3 @@ Enhancements to policy audits ensure that retired assets are not evaluated by ac
 | |State|Closed|
 | |Resolution|Result Invalid|
 
-## Related
-
-- [[spc-landing|Security Posture Control]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

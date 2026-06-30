@@ -14,7 +14,7 @@ breadcrumb: [Additional configurations for the LogRhythm integration, LogRhythm 
 
 # Use the script editor to format LogRhythm values
 
-In addition to the directly mapped fields from the pulled alarm values, and the alarm values you enter manually, you can use the script editor to format field values on the security incident during the [[mapping-logrhythm|mapping]] step which is optional.
+In addition to the directly mapped fields from the pulled alarm values, and the alarm values you enter manually, you can use the script editor to format field values on the security incident during the mapping step which is optional.
 
 ## Before you begin
 
@@ -81,6 +81,3 @@ In certain cases, if LogRhythm alarm values are mapped to the `Priority` and `Ca
 
 **Parent Topic:**[Additional configurations for the LogRhythm integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-system-and-troubleshooting-properties.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

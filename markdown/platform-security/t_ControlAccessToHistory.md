@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ca-system-properties|System Properties]]** &gt; **System**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System**.
 
 2.  Select the **glide.history.role** property from the table.
 
@@ -33,6 +33,3 @@ Role required: admin
 
 Any changes to a field are omitted if a user without read-access views the history of a record.
 
-## Related
-
-- [[ca-system-properties|System properties]]

@@ -18,13 +18,13 @@ Configure the scheduled jobs that generate the incident patterns from the safety
 
 ## Before you begin
 
-Verify that the application scope is selected as [[hs-core-landing|Health and Safety Core]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Verify that the application scope is selected as Health and Safety Core. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_ohs\_im.admin
 
 ## About this task
 
-The scheduled jobs to generate the incident patterns run by default when you have the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application and the generative AI \[com.snc.sn\_hs\_gen\_ai\] plugin installed. These jobs can be configured to start or end on a particular date or time as required.
+The scheduled jobs to generate the incident patterns run by default when you have the Health and Safety Incident Management application and the generative AI \[com.snc.sn\_hs\_gen\_ai\] plugin installed. These jobs can be configured to start or end on a particular date or time as required.
 
 ## Procedure
 
@@ -46,7 +46,3 @@ The scheduled jobs to generate the incident patterns run by default when you hav
 
 **Parent Topic:**[Configure incident patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-incident-patterns.md)
 
-## Related
-
-- [[hs-core-landing|Health and Safety Core]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

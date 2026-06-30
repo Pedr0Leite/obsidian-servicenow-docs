@@ -14,7 +14,7 @@ breadcrumb: [Use, Payment Operations, Banking applications, Financial Services O
 
 # Managing payment claims and debit approvals
 
-Using the payment claims capability of the [[payment-ops-landing-page|Financial Services Payment Operations]] application, you can submit and manage payment claims and debit approvals for your financial institution. The application supports both personal and business claims and debits.
+Using the payment claims capability of the Financial Services Payment Operations application, you can submit and manage payment claims and debit approvals for your financial institution. The application supports both personal and business claims and debits.
 
 ## Types of Claims
 
@@ -64,6 +64,3 @@ Close the claim case when you've completed the claimed refund process.
 
 **Parent Topic:**[Using Financial Services Payment Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/using-payment-operations.md)
 
-## Related
-
-- [[payment-ops-landing-page|Financial Services Payment Operations]]

@@ -18,7 +18,7 @@ Create one or more simple entities from words in your utterance examples. An ent
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model for Virtual Agent or AI Search.
 -   Create or use an existing intent.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The nlu\_editor must be assigned to the model.
@@ -39,7 +39,7 @@ For the following example procedure, you've already created an intent that's tit
 
     For this example, you choose the NLU for Access Requests model.
 
-3.  In the **[[managing-model-content|Build and train your model]]** card, click **View phase**.
+3.  In the **Build and train your model** card, click **View phase**.
 
 4.  In the intents tab, click the name of the intent.
 
@@ -74,7 +74,3 @@ Your utterances can reference a vocabulary source by using the @ handle. If you 
 
 For more information, see [NLU vocabulary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/using-nlu-vocabulary.md).
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[managing-model-content|Build and train your model]]

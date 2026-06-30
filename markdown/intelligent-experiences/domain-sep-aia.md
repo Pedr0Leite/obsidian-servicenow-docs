@@ -12,7 +12,7 @@ breadcrumb: [Platform AI agents, Now Assist AI assets, Enable AI experiences]
 
 # Domain Separation AI agent
 
-The Domain Visibility AI agent enables Domain Admins to manage user domain visibility using guided, conversational workflows in the [[now-assist-center-now-assist-panel|Now Assist panel]].
+The Domain Visibility AI agent enables Domain Admins to manage user domain visibility using guided, conversational workflows in the Now Assist panel.
 
 ## Domain Separation AI agent overview
 
@@ -38,7 +38,7 @@ Ensure the following requirements are met before using the AI agent:
 
 Required role: Domain Admin.
 
-AI agents use [[aia-role-masking|role masking]] to determine which users can access them. Ones installed with [[platform-now-assist-landing|Now Assist]] applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security [[controls|controls]] to include these roles. For the instructions to change the security controls, see [[define-sec-controls-aia|Define security controls for an AI agent]].
+AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for the records you want to evaluate for readiness. For example, you can add the itil role to the AI agent's list of approved roles so that it can access Incident records.
 
@@ -46,7 +46,7 @@ In the data access settings, you must also add the necessary roles to enable rea
 
 To access the AI agent:
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Go to the **AI Agents** tab.
 3.  Select **Domain Visibility**.
 
@@ -100,14 +100,5 @@ The agent removes visibility for the specified domain from the specified user.
 
 **Note:** You can verify this by checking the `sys_user_visibility` table.
 
-**Parent Topic:**[[platform-ai-agents|Platform AI agents]]
+**Parent Topic:**[Platform AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-agents.md)
 
-## Related
-
-- [[aia-role-masking|Role masking in Now Assist AI agents]]
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[platform-ai-agents|Platform AI agents]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]
-- [[ai-agent-studio|AI Agent Studio]]

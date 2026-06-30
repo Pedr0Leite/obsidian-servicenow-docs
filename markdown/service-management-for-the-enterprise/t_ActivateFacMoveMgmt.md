@@ -20,28 +20,19 @@ Role required: admin
 
 For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
--   **[[t_ConfigureEnterpriseMove|Configure Enterprise Move]]**  
-Facilities or Move administrators can set configurations to determine how the system displays colors on the [[c_MovePlanningTool|move planning tool]].
--   **[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]**  
-Several types of components are installed with the [[c_FacMoveMgmt|Facilities Move Management]] plugin.
+-   **[Configure Enterprise Move](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ConfigureEnterpriseMove.md)**  
+Facilities or Move administrators can set configurations to determine how the system displays colors on the move planning tool.
+-   **[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)**  
+Several types of components are installed with the Facilities Move Management plugin.
 
-**Parent Topic:**[[c_FacilitiesServiceManagement|Facilities Service Management overview]]
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
 
 **Related topics**  
 
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-[[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
+[Activate Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacilitiesSM.md)
 
-[[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
+[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacVisWorkbench.md)
 
-## Related
-
-- [[t_ConfigureEnterpriseMove|Configure Enterprise Move]]
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
-- [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
-- [[c_MovePlanningTool|Move planning tool]]
-- [[c_FacMoveMgmt|Facilities move management]]

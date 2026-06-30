@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management, IT Asset Management]
 
 # SaaS License Management
 
-SaaS License Management helps organizations track and control cloud-based applications and service subscriptions as part of [[c_SoftwareAssetMgmt|Software Asset Management]] \(SAM\). It promotes ownership, visibility, agility, and accountability, enabling better cost control and efficient use of resources.
+SaaS License Management helps organizations track and control cloud-based applications and service subscriptions as part of Software Asset Management \(SAM\). It promotes ownership, visibility, agility, and accountability, enabling better cost control and efficient use of resources.
 
 ## SaaS subscription models
 
@@ -108,7 +108,7 @@ Request the Software Asset Management - SaaS License Management plugin \(sn\_sam
 -   **[SaaS License Management setup for large companies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-setup-large-companies.md)**  
 Set up SaaS License Management for large companies to confirm that you can view all SaaS usage data in your ServiceNow instance.
 -   **[SaaS Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-overview-dashboard.md)**  
-Optimize how much your organization spends on SaaS and SSO licensing by analyzing the subscription usage, cost, and compliance of your SaaS applications and SSO providers using the [[saas-overview-dashboard|SaaS Overview dashboard]].
+Optimize how much your organization spends on SaaS and SSO licensing by analyzing the subscription usage, cost, and compliance of your SaaS applications and SSO providers using the SaaS Overview dashboard.
 -   **[Integrate with SaaS applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-profile.md)**  
 Create an integration profile to view software usage information and optimize stale licenses.
 -   **[Integrate with SSO providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/saas-sso-integration.md)**  
@@ -122,13 +122,13 @@ Use reclamation rules to cancel user subscriptions that have limited to no activ
 -   **[Reclaiming user subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaiming-user-subscriptions-saas.md)**  
 You can reclaim unused SaaS and SSO subscriptions to reduce your total software costs.
 -   **[Create a child alias to set up multiple integration profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-child-alias-saas.md)**  
-[[create-child-alias-saas|Create a child alias to set up multiple integration profiles]] with unique connections and manage different configurations for each integration profile.
+Create a child alias to set up multiple integration profiles with unique connections and manage different configurations for each integration profile.
 -   **[Create a child alias to set up multiple Cisco Webex integration profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-child-alias-webex.md)**  
-[[create-child-alias-webex|Create a child alias to set up multiple Cisco Webex integration profiles]].
+Create a child alias to set up multiple Cisco Webex integration profiles.
 -   **[Create a child alias to set up multiple Confluence Cloud integration profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-child-alias-confluence.md)**  
-[[create-child-alias-confluence|Create a child alias to set up multiple Confluence Cloud integration profiles]].
+Create a child alias to set up multiple Confluence Cloud integration profiles.
 -   **[Create a child alias to set up multiple Jira integration profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-child-alias-jira.md)**  
-[[create-child-alias-jira|Create a child alias to set up multiple Jira integration profiles]] with unique connections and manage different configurations for each integration profile.
+Create a child alias to set up multiple Jira integration profiles with unique connections and manage different configurations for each integration profile.
 -   **[Associate a user with subscription records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/map-user-data.md)**  
 If the **User** field in the Software Subscription \[samp\_sw\_subscription\] table is empty, map the field with an associated user in the User \[sys\_user\] table within ServiceNow AI Platform.
 -   **[Disconnect SSO apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/disconnect-azure-ad-apps.md)**  
@@ -142,11 +142,3 @@ Define subscription exclusions for your SaaS and SSO applications to optimize yo
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[saas-overview-dashboard|SaaS Overview dashboard]]
-- [[create-child-alias-saas|Create a child alias to set up multiple integration profiles]]
-- [[create-child-alias-webex|Create a child alias to set up multiple Cisco Webex integration profiles]]
-- [[create-child-alias-confluence|Create a child alias to set up multiple Confluence Cloud integration profiles]]
-- [[create-child-alias-jira|Create a child alias to set up multiple Jira integration profiles]]

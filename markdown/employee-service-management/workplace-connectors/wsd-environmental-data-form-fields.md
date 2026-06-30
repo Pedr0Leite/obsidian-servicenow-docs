@@ -30,7 +30,7 @@ Units
 
 </th></tr></thead><tbody><tr><td>
 
-[[provider-configuration-ovw|Provider connector configuration]]
+Provider connector configuration
 
 </td><td>
 
@@ -154,7 +154,7 @@ Query status
 
 </td><td>
 
-**Note:** This is an internal field and is used by the [[workplace-connectors-landing-page|Workplace Connectors]] framework to optimize the Provider queries. This field should not be manually updated.
+**Note:** This is an internal field and is used by the Workplace Connectors framework to optimize the Provider queries. This field should not be manually updated.
 
 </td><td>
 
@@ -167,7 +167,3 @@ NA
 
 **Next topic:**[Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-feat.md)
 
-## Related
-
-- [[provider-configuration-ovw|Provider connector configuration]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]

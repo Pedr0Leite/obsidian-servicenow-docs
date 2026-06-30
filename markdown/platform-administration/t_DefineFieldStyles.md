@@ -28,7 +28,7 @@ The CSS lets you change the following attributes of a field.
 
 You can define field styles for tables and database views that are in the same scope as the field style and for other tables that have at least one field in the same scope as the field style. Field styles defined for a table don’t apply to database views that include the table. Create separate field styles for database views.
 
-**Note:** Field styles aren’t applied to comments and work notes fields used with the [[c_ActivityFormatter|activity formatter]]. Background color for these fields can be set using the **glide.ui.activity\_stream.style.comments** and **glide.ui.activity\_stream.style.work\_notes** [[r_SetArchiveRuleProcessingBehavior|system properties]] located in the sys\_properties table.
+**Note:** Field styles aren’t applied to comments and work notes fields used with the activity formatter. Background color for these fields can be set using the **glide.ui.activity\_stream.style.comments** and **glide.ui.activity\_stream.style.work\_notes** system properties located in the sys\_properties table.
 
 ## Procedure
 
@@ -111,18 +111,12 @@ color:white;
     javascript: current.state == "Completed" && current.error_tables > 0
     ```
 
-4.  To add alternative text for a style, [[configure-form-layout|configure the form]] to add the alternative text field.
+4.  To add alternative text for a style, [configure the form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to add the alternative text field.
 
     For styles like the VIP style icon, you can add alternative text so that screen readers can differentiate between the style and the text.
 
 5.  Select **Submit** or **Update**.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[c_ActivityFormatter|Activity formatter]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

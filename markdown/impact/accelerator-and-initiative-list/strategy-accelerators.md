@@ -14,7 +14,7 @@ breadcrumb: [Accelerator catalog, View the Initiatives and Accelerators catalog,
 
 # Strategy Accelerators
 
-Use Strategy Accelerators to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business [[instance-observer-performance|performance]] and drive success.
+Use Strategy Accelerators to go deeper on organizational and governance best practices with the ServiceNow platform and upskill your team to maintain business performance and drive success.
 
 ## Accelerators available in each package
 
@@ -53,9 +53,5 @@ Accelerator outputs and formats have common standardized features, but may diffe
 |[Success Readiness Assessment \(SRA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/success-readiness-assessment.md)| |✓|✓|✓|✓| |
 |[Vision and Strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/vision-and-strategy.md)| |✓|✓|✓|✓| |
 
-**Note:** The [[on-demand-accelerators|On-demand accelerators]] are also available for Guided customers.
+**Note:** The On-demand accelerators are also available for Guided customers.
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[on-demand-accelerators|On-demand accelerators]]

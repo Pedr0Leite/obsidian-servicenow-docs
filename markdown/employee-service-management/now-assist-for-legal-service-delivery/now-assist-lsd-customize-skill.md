@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for Legal Service Delivery \(LSD\), Legal Ser
 
 # Customize a summarization skill in Now Assist for Legal Service Delivery \(LSD\)
 
-If you have the admin role, you can customize a [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] skill so that you can use the generative AI skills in [[legal-counsel-center-landing|Legal Counsel Center]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for Legal Service Delivery \(LSD\) skill so that you can use the generative AI skills in Legal Counsel Center and in Core UI.
 
 ## Before you begin
 
@@ -114,13 +114,13 @@ Description of the base input field value.
         |Work in progress|State is Work in Progress.|
         |Closed|State is Closed.|
 
-    3.  For each input template state \(New, Work in progress, or Closed\), select **+New data source** to configure the additional related table and [[activity-lxp|activity]] stream data, as needed.
+    3.  For each input template state \(New, Work in progress, or Closed\), select **+New data source** to configure the additional related table and activity stream data, as needed.
 
         Adding input data sources, like the related tables and activity streams, provide more context to the Now LLM Service in a related list.
 
         You can also add the rule conditions to these additional data sources.
 
-        The selection of the related table fields may have a direct impact on the quality of the corresponding prompt header. For example, if a prompt header requires a specific field from the related table, but that field isn’t selected as input, the summary for that prompt header will contain missing information. For example, for a legal request, you see one related table, such as Service level agreement \(SLA\), that includes all the required fields and filtering conditions for the prompt header. The SLA prompt header is preselected to help you understand how the related table, its fields, and the prompt header work together to produce a summary. You can use the SLA as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to configure the other related tables to determine which fields to select and which description adds the requirements of their respective prompt headers. Apply any additional conditions to filter the data further.
+        The selection of the related table fields may have a direct impact on the quality of the corresponding prompt header. For example, if a prompt header requires a specific field from the related table, but that field isn’t selected as input, the summary for that prompt header will contain missing information. For example, for a legal request, you see one related table, such as Service level agreement \(SLA\), that includes all the required fields and filtering conditions for the prompt header. The SLA prompt header is preselected to help you understand how the related table, its fields, and the prompt header work together to produce a summary. You can use the SLA as a reference to configure the other related tables to determine which fields to select and which description adds the requirements of their respective prompt headers. Apply any additional conditions to filter the data further.
 
     4.  Select **Save and continue** to go to the next step.
 
@@ -199,9 +199,4 @@ Description of the base input field value.
 
     For more information, see [Configure variables for Now Assist summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/configure-variables-for-now-assist-summarization.md).
 
-## Related
 
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

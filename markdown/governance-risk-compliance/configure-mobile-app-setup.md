@@ -26,10 +26,10 @@ Role required: sn\_bcp.plan\_admin
 
     1.  To verify the GRC: GRC: Profiles application is installed on your instance, navigate to **Plugins** and search for GRC: Profiles.
     2.  If the GRC: Profiles core application isn’t already installed, select **Install** to install it.
-    3.  After the GRC: Profiles application is installed, install [[business-continuity-mangmt-overview|Business Continuity Management]].
+    3.  After the GRC: Profiles application is installed, install Business Continuity Management.
     All GRC core applications are available on the ServiceNow Store.
 
-    For more information about getting entitlement, downloading, and installing the GRC core applications, see [[grc-and-store|GRC and the ServiceNow Store]].
+    For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-and-store.md).
 
     When you install the GRC core applications, the dependency plugins for the GRC Mobile application \(com.glide.sg and com.glide.sg.agent\_native\_client\) are also automatically installed.
 
@@ -55,7 +55,3 @@ Role required: sn\_bcp.plan\_admin
 
 You have successfully set up your mobile device and the ServiceNow AI Platform for the BCM mobile application. The next step is to log in to your ServiceNow AI Platform instance with the ServiceNow Agent app on your mobile device.
 
-## Related
-
-- [[grc-and-store|GRC and the ServiceNow Store]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

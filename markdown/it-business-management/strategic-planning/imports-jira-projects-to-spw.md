@@ -14,7 +14,7 @@ breadcrumb: [Configure, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Import Jira projects to SPW
 
-Discover and import all available Jira projects and boards into [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace to start using the integration between the two applications.
+Discover and import all available Jira projects and boards into Strategic Planning Workspace to start using the integration between the two applications.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Once the status of each import request changes to **Complete**, you can see that
 
 [Configure integration settings for a Jira project.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/configuring-jira-project-settings-in-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

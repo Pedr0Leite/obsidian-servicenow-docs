@@ -14,7 +14,7 @@ breadcrumb: [Configure translation management, Configuring Knowledge Management,
 
 # Activate translation management
 
-You can activate the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) and I18N:Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugins for [[translation-management|translation management]] if you have the admin role.
+You can activate the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) and I18N:Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugins for translation management if you have the admin role.
 
 ## Before you begin
 
@@ -39,15 +39,10 @@ Translation management also requires enabling the **glide.knowman.translation.en
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Configure translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-translation-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[translation-management|Translation management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

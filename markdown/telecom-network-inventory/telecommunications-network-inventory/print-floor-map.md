@@ -14,7 +14,7 @@ breadcrumb: [Floor map, Network visualization view, Use, Telecommunications Netw
 
 # Print a floor map
 
-Print the entire canvas of the [[using-floor-map|floor map]] based on your map selection in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use it as a reference to view the floor map details.
+Print the entire canvas of the floor map based on your map selection in the Telecommunications Network Inventory application. You can use it as a reference to view the floor map details.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can print the floor map by configuring relevant options and applying filters
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the blue hub icon \[Omitted image "icon-blue-hub.png"\] Alt text: Blue Hub Icon..
 
@@ -119,8 +119,3 @@ You can use your web browser to print the map or save it as a PDF.
 
 **Parent Topic:**[Floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-floor-map.md)
 
-## Related
-
-- [[using-floor-map|Floor map]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for IT Service Management \(ITSM\), IT Servic
 
 # Customize a Now Assist for IT Service Management \(ITSM\) Incident activity response generation skill
 
-If you have the admin role, you can [[cust-now-assist-itsm-skill|customize a Now Assist for IT Service Management \(ITSM\) skill]] so that agents can use the generative AI skills in [[sow-landing-page|Service Operations Workspace for ITSM]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for IT Service Management \(ITSM\) skill so that agents can use the generative AI skills in Service Operations Workspace for ITSM and in Core UI.
 
 ## Before you begin
 
@@ -126,7 +126,4 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     6.  Select **Done**.
 
-## Related
 
-- [[cust-now-assist-itsm-skill|Customize a Now Assist for IT Service Management \(ITSM\) skill]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

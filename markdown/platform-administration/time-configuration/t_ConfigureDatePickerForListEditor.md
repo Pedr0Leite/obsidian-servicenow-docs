@@ -14,7 +14,7 @@ breadcrumb: [Date and Date/Time fields, Explore, Time configuration, Configure c
 
 # Configure the date picker for the list editor
 
-A system property enables you to choose between two date picker [[clone-configurations-tab|configurations]] for the list editor.
+A system property enables you to choose between two date picker configurations for the list editor.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 [List editor administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-administration/r_AdministeringTheListEditor.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Care Team Mobile, Healthcare Operations, Healthcare and Li
 
 Browse locations in Care Team Mobile to view healthcare locations and create support requests for specific locations as needed.
 
-\[Omitted image "hcls-cto-mobile-browse-locations.png"\] Alt text: Location browse functionality in [[care-team-mobile-landing|Care Team Mobile]].
+\[Omitted image "hcls-cto-mobile-browse-locations.png"\] Alt text: Location browse functionality in Care Team Mobile.
 
 You can browse locations using **Browse locations** from the Quick actions menu.
 
@@ -24,9 +24,5 @@ Selecting into a team displays a detailed location hierarchy associated with tha
 
 You can select a location to view more detailed information about that location then optionally create a request for that location.
 
-For more information about creating requests using **Browse locations**, see [[cto-mobile-create-request-browse-locations|Browse locations to create a support request in Care Team Mobile]].
+For more information about creating requests using **Browse locations**, see [Browse locations to create a support request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-request-browse-locations.md).
 
-## Related
-
-- [[cto-mobile-create-request-browse-locations|Browse locations to create a support request in Care Team Mobile]]
-- [[care-team-mobile-landing|Care Team Mobile]]

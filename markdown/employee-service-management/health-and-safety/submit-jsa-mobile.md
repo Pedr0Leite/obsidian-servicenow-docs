@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Health and Safety, Health and Safety, Employe
 
 # Submit a JSA through the Now Mobile app
 
-Submit a [[hs-job-safety-analysis|job safety analysis]] \(JSA\) to identify hazards related to your job and identify control measures that should be in place at your point-of-work.
+Submit a job safety analysis \(JSA\) to identify hazards related to your job and identify control measures that should be in place at your point-of-work.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.jsa\_reporter
 
 ## Procedure
 
-1.  Open the [[mobile-employee-experience|Now Mobile app]] on your mobile device.
+1.  Open the Now Mobile app on your mobile device.
 
 2.  Create a JSA.
 
@@ -41,7 +41,7 @@ Steps
 </td><td>
 
 1.  In the navigation bar, tap **Home**.
-2.  In the **[[emp-center-quick-link-config|Quick links]]** section on the page, tap **Create a job safety analysis**.
+2.  In the **Quick links** section on the page, tap **Create a job safety analysis**.
 
 
 </td></tr><tr><td id="d371545e98">
@@ -51,7 +51,7 @@ Steps
 </td><td>
 
 1.  In the navigation bar, tap **Support**.
-2.  In the **Browse from all topics** section on the page, tap **[[health-safety-overview|Health and Safety]]** and then tap **Job safety analysis**.
+2.  In the **Browse from all topics** section on the page, tap **Health and Safety** and then tap **Job safety analysis**.
 
 
 </td></tr><tr><td id="d371545e128">
@@ -82,14 +82,7 @@ A JSA form with values copied from the previous JSA opens.
 ## Result
 
 -   The JSA is submitted for your job or task. To view your submitted JSAs, navigate to the **My items** section on the **Home** page, tap **My job safety analyses**, and then tap the required JSA.
--   The JSA is also listed in the JSAs list on [[health-safety-core-workspace|Health and Safety Workspace]]. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\) and then selecting the **JSAs** list.
+-   The JSA is also listed in the JSAs list on Health and Safety Workspace. A risk manager \[sn\_hs\_rm.jsa\_manager\] can view all the filed JSAs by navigating to the Health and Safety Workspace and selecting the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\) and then selecting the **JSAs** list.
 
 **Parent Topic:**[Mobile experience for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-health-safety-mobile.md)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

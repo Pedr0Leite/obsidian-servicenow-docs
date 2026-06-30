@@ -14,7 +14,7 @@ breadcrumb: [Virtualization technologies and cloud platforms supported by ASP in
 
 # IBM licensing in IBM LPAR infrastructures
 
-When you integrate the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with [[c_SoftwareAssetMgmt|Software Asset Management]] providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, the Software Asset Management application supports IBM licensing rules for IBM logical partitions.
+When you integrate the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, the Software Asset Management application supports IBM licensing rules for IBM logical partitions.
 
 A logical partition \(LPAR\) is a defined subset of processor hardware that supports the operating system. An LPAR contains resources, such as processors, memory, and input or output devices, that operate as an independent system. You can have multiple LPARs within each mainframe hardware system.
 
@@ -31,7 +31,7 @@ When you run a discovery, your discovered LPAR data is populated and stored in t
 -   cmdb\_rel\_ci
 -   cmdb\_sam\_sw\_install
 
-To populate and store this data, you must request and install the CMDB CI Class [[c_Models|Models]] application from the ServiceNow Store. This application adds or updates CMDB classes for the IBM HMC. For more information on IBM HMC CMDB classes, see [IBM Hardware Management Console \(HMC\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-ibm-hmc.md).
+To populate and store this data, you must request and install the CMDB CI Class Models application from the ServiceNow Store. This application adds or updates CMDB classes for the IBM HMC. For more information on IBM HMC CMDB classes, see [IBM Hardware Management Console \(HMC\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-ibm-hmc.md).
 
 The Software Asset Management application supports both full capacity and sub-capacity processor value unit \(PVU\), resource value unit \(RVU\), and virtual processor core \(VPC\) licensing for IBM software products in IBM LPAR infrastructures.
 
@@ -60,8 +60,3 @@ The Software Asset Management application supports both full capacity and sub-ca
 
 **Parent Topic:**[Virtualization technologies and public cloud platforms supported by IBM Authorized SAM Provider \(ASP\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-virtualization-technologies-iasp-integrations.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]

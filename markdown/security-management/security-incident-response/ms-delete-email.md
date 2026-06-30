@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Exchange Online integration, Security Incident Response i
 
 # Request delete approval for emails on Microsoft Exchange online service
 
-After an email search is successfully completed and matching messages are identified, you can permanently delete all the suspicious emails from the Microsoft exchange online service that are related to the security incident and phishing [[campaign|campaign]].
+After an email search is successfully completed and matching messages are identified, you can permanently delete all the suspicious emails from the Microsoft exchange online service that are related to the security incident and phishing campaign.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The system performs deletions on your latest successful search results.
 
 ## About this task
 
-If the approvals and [[tisc-email-notifications|email notifications]] are enabled, send a request to delete emails to an approval group prior to email removal.
+If the approvals and email notifications are enabled, send a request to delete emails to an approval group prior to email removal.
 
 Email search results are displayed with any messages that have been received. To ensure that phishing emails are successfully deleted, the delete results are posted to the work notes of the associated security incident. If tagging is enabled, a security tag is also displayed on the related security incident. If the email is not successfully deleted, you are also notified in the work notes.
 
@@ -100,7 +100,3 @@ As a user with the sn\_si.analyst role, if you determine that emails require rem
 
 **Next topic:**[Approve delete email requests for the Microsoft Exchange Online integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-approve-delete.md)
 
-## Related
-
-- [[campaign|Campaign]]
-- [[tisc-email-notifications|Email Notifications]]

@@ -12,9 +12,9 @@ breadcrumb: [Explore, Business Continuity Management, Governance, Risk, and Comp
 
 # Element definitions and variables
 
-An element definition is a configuration item that is assessed in the [[bia-uib|business impact analysis]]. The element definitions are also recovered in the business continuity plan. If you have the administrator role, you can set up an element variable that is required for a particular dependency of an element.
+An element definition is a configuration item that is assessed in the business impact analysis. The element definitions are also recovered in the business continuity plan. If you have the administrator role, you can set up an element variable that is required for a particular dependency of an element.
 
-The BCM administrator can configure the element definitions in the [[business-continuity-mangmt-overview|Business Continuity Management]] application. These element definitions are defined in the Business Continuity Management application:
+The BCM administrator can configure the element definitions in the Business Continuity Management application. These element definitions are defined in the Business Continuity Management application:
 
 -   Applications
 -   Business Processes
@@ -39,7 +39,7 @@ The example shows the configuration of an element definition by the Business Con
 
 ## Configuration of an element definition
 
-For more information on configuring an element definition with the BCM administrator role, see [[configure-element-definition-bia-uib-ws|Configure element definition]].
+For more information on configuring an element definition with the BCM administrator role, see [Configure element definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-element-definition-bia-uib-ws.md).
 
 **Note:** Starting with the Xanadu release, the element definition filter for the Hardware element definition has been updated. You can now add a Windows server asset in the Windows server element definition or a Linux server asset in the Linux server element definition. However, you cannot add the Windows server asset or the Linux server asset in the filter of the Hardware element definition.
 
@@ -49,11 +49,5 @@ As a functional system administrator, you can set up an element variable that is
 
 \[Omitted image "new-element-variable.png"\] Alt text: Configuration of an element variable.
 
-For more information on how to configure an element variable in the Business Continuity Management application with an administrator role, see [[configure-element-variable-uib-ws|Configure element variables for element definitions]].
+For more information on how to configure an element variable in the Business Continuity Management application with an administrator role, see [Configure element variables for element definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-element-variable-uib-ws.md).
 
-## Related
-
-- [[configure-element-definition-bia-uib-ws|Configure element definition]]
-- [[configure-element-variable-uib-ws|Configure element variables for element definitions]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

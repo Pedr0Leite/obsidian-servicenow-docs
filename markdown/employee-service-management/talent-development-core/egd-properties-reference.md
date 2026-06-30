@@ -14,7 +14,7 @@ breadcrumb: [Talent Development Core application reference, Talent Development C
 
 # Talent Properties reference
 
-Properties control how skills approvals are managed and whether [[skills-intelligence|Skills Foundation]] is used.
+Properties control how skills approvals are managed and whether Skills Foundation is used.
 
 ## Property to control manager skill approvals in Growth plans
 
@@ -28,6 +28,3 @@ Select the check box to set the property to **Yes**. When the property is set to
 
 **Parent Topic:**[Talent Development Core application reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-reference.md)
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]

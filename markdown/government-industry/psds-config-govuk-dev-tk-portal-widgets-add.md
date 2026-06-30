@@ -20,11 +20,11 @@ Role required: admin or sp\_admin
 
 **Note:**
 
-If you have not already created the page to which you want to add the widget, see [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]].
+If you have not already created the page to which you want to add the widget, see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md).
 
 ## About this task
 
-By default, the GOV.UK Developer Toolkit provides you with a library of reusable portal widgets that follow UK GDS guidelines. Base system widgets are read-only so you can benefit from future updates. To make changes, you can clone base system widgets. For information on how to configure and clone base-system widgets, see [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]].
+By default, the GOV.UK Developer Toolkit provides you with a library of reusable portal widgets that follow UK GDS guidelines. Base system widgets are read-only so you can benefit from future updates. To make changes, you can clone base system widgets. For information on how to configure and clone base-system widgets, see [Customize Widgets for GOV.UK Design System Service Portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets-edit.md).
 
 ## Procedure
 
@@ -51,10 +51,5 @@ By default, the GOV.UK Developer Toolkit provides you with a library of reusable
 
 The widget is added to the page. Adding a widget to a page creates a new Widget Instance that can be modified separately, and changes will appear on that page **only**. For information on how to add portal widgets to page\(s\), see [Configure the GOV.UK Design System Service Portal Pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-pages.md).
 
-**Parent Topic:**[[psds-config-govuk-dev-tk-portal-widgets|Configure the GOV.UK Design System Service Portal Widgets]]
+**Parent Topic:**[Configure the GOV.UK Design System Service Portal Widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-tk-portal-widgets.md)
 
-## Related
-
-- [[psds-config-govuk-dev-tk-portal-pages|Configure the GOV.UK Design System Service Portal Pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets-edit|Customize Widgets for GOV.UK Design System Service Portal pages]]
-- [[psds-config-govuk-dev-tk-portal-widgets|Configure the GOV.UK Design System Service Portal Widgets]]

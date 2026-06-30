@@ -14,7 +14,7 @@ breadcrumb: [Purchase revision flows, Using Shopping Hub, Use, Sourcing and Proc
 
 # Edit a purchase order line
 
-You can edit and revise the quantity of the product, budget, or delivery location of a [[purchase-order-table|purchase order]] line in a purchase order based on your requirements.
+You can edit and revise the quantity of the product, budget, or delivery location of a purchase order line in a purchase order based on your requirements.
 
 ## Before you begin
 
@@ -135,7 +135,7 @@ Where do you want this delivered?
 The options are:-   To one of my saved locations
 -   To an office location
 -   To a new address
-For example, you can select an office location.The delivery location available for selection is filtered based on the countries [[supplier|supplier]] can deliver to.
+For example, you can select an office location.The delivery location available for selection is filtered based on the countries supplier can deliver to.
 
 </td></tr><tr><td>
 
@@ -179,8 +179,8 @@ The step creates a procurement case with the details of the revised quantity, lo
 
 ## What to do next
 
--   Shoppers can review and edit the request details from **ShoppingHub** &gt; **[[my-requests|My requests]]** or **My requests** from the footer.
--   Buyers can track the progress of the procurement case and procurement case line edit requests from **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+-   Shoppers can review and edit the request details from **ShoppingHub** &gt; **My requests** or **My requests** from the footer.
+-   Buyers can track the progress of the procurement case and procurement case line edit requests from **Source-to-Pay Workspace**.
 
 **Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
@@ -191,9 +191,3 @@ The step creates a procurement case with the details of the revised quantity, lo
 
 [Process Automation Designer flows for playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-automation-designer-flows-psm.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[my-requests|My requests]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

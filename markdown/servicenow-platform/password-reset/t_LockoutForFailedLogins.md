@@ -69,14 +69,14 @@ Updates the user record after a successful login: Resets the number of failed lo
 Each time a user attempts to log in, the action is recorded in an event log. You can view a log of failed login attempts.
 
 1.  Navigate to **System Policy** &gt; **Event Logs**.
-2.  Filter for **login.failed** in the **Name** field. You can view the attempted login name, date, and [[ip-address|IP address]] logged for the attempt.
+2.  Filter for **login.failed** in the **Name** field. You can view the attempted login name, date, and IP address logged for the attempt.
 
 **Parent Topic:**[Configure your Password Reset process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateAPasswordResetProcess.md)
 
 **Related topics**  
 
 
-[Calculating the security score for [[password-reset-landing-page|password reset]] process]()
+[Calculating the security score for password reset process]()
 
 [Configure password expiration reminder]()
 
@@ -90,14 +90,9 @@ Each time a user attempts to log in, the action is recorded in an event log. You
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[password-reset-landing-page|Password Reset]]
-- [[email|Email]]

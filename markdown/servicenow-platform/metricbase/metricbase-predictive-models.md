@@ -14,7 +14,7 @@ breadcrumb: [Define and collect data, MetricBase, Manage instance data sources, 
 
 # Detecting anomalies in MetricBase data using predictive models
 
-[[metricbase|MetricBase]] creates a model by training a representative sample of your time series data to determine the model parameters. The training process determines the model parameters that best fit your data, to distinguish normal data from anomalous data.
+MetricBase creates a model by training a representative sample of your time series data to determine the model parameters. The training process determines the model parameters that best fit your data, to distinguish normal data from anomalous data.
 
 MetricBase supports the following model types:
 
@@ -27,6 +27,3 @@ MetricBase supports the following model types:
 
 After you have a model trained from your data, you can trigger flows when new data is significantly different than the trained data.
 
-## Related
-
-- [[metricbase|MetricBase]]

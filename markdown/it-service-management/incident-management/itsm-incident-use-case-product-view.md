@@ -14,12 +14,12 @@ breadcrumb: [Configuring Incident Management, Incident Management, IT Service Ma
 
 # Applying CSDM guidelines to Incident Management
 
-[[c_IncidentManagement|Incident Management]] supports the incident management process with the ability to identify and log incidents, classify and prioritize incidents, assign incidents to appropriate users or groups, escalate, resolve, and report incidents. The goal of this product view is to help you to understand how Incident Management key entities work with the core CSDM framework.
+Incident Management supports the incident management process with the ability to identify and log incidents, classify and prioritize incidents, assign incidents to appropriate users or groups, escalate, resolve, and report incidents. The goal of this product view is to help you to understand how Incident Management key entities work with the core CSDM framework.
 
 Features of Incident Management that get the most benefit from the CSDM include:
 
 -   Agent Workspace gives agents the information they need to quickly prioritize and resolve incidents.
--   The [[major-incident-workbench|major incident workbench]] includes a single-pane view you can use to identify, track, and resolve high-impact incidents.
+-   The major incident workbench includes a single-pane view you can use to identify, track, and resolve high-impact incidents.
 -   The native mobile app allows agents to quickly view and respond to tasks on-the-go, and can approve the requests with a single swipe.
 -   Incident deflection encourage self-help by suggesting related knowledge base articles.
 -   Improves collaboration on incident tasks by using drag-and-drop functionality on visual task boards.
@@ -45,14 +45,9 @@ Incident Management manages and uses CSDM tables. Several ServiceNow products be
 -   **[Incident Management use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-example.md)**  
 Incident Management restores normal service operation, while also minimizing impact to your business and maintaining the quality of your data.
 -   **[Set up the Incident Management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/csdm-inc-mgt-form-configure.md)**  
-Configure the Incident form to see the impact of an incident and then restore affected services. The CSDM framework enables you to view rich context for incidents: the CIs involved in the incident and the service offerings, business [[dex-workspace-application-tab|applications]], and business services that the incident affects.
+Configure the Incident form to see the impact of an incident and then restore affected services. The CSDM framework enables you to view rich context for incidents: the CIs involved in the incident and the service offerings, business applications, and business services that the incident affects.
 -   **[Incident Management considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-trouble.md)**  
 Consider these points while implementing the CSDM framework.
 
 **Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-configuration.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[major-incident-workbench|Major incident workbench]]
-- [[dex-workspace-application-tab|Applications]]

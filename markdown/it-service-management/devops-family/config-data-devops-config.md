@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # Types of configuration data supported by DevOps Config
 
-[[devops-config-landing-page|DevOps Config]] stores configuration data of every layer of the IT stack in a centralized location.
+DevOps Config stores configuration data of every layer of the IT stack in a centralized location.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -76,7 +76,7 @@ IPs
 
 </td></tr><tr><td>
 
-cluster [[settings-mobile|settings]]
+cluster settings
 
 </td><td>
 
@@ -129,7 +129,3 @@ DevOps Config manages and validates your configuration data in a centralized loc
 
 **Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

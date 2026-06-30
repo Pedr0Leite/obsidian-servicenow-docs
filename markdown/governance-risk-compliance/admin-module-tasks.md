@@ -12,7 +12,7 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Completing general administrative tasks
 
-A user with the sn\_oper\_res.admin role can perform the setup tasks in the [[grc-opres-landing-page|Operational Resilience]] application.
+A user with the sn\_oper\_res.admin role can perform the setup tasks in the Operational Resilience application.
 
 ## Admin module in the classic Operational Resilience view
 
@@ -22,9 +22,9 @@ If you have the sn\_oper\_res.admin role, you can configure the Admin module and
 
 A user with the sn\_oper\_res.admin role can set up the following entities by using the Admin module:
 
--   [[entity-type-in-risk-ws|Entity Types]]
+-   Entity Types
 
-    **Note:** Installing the Operational Resilience application inserts seed data to the Entity type \[sn\_grc\_profile\_type\] table. Both entity types and [[what-is-an-entity-filter|entity filters]] are installed as inactive. When you activate them, it could lead to generation of thousands of entity records.
+    **Note:** Installing the Operational Resilience application inserts seed data to the Entity type \[sn\_grc\_profile\_type\] table. Both entity types and entity filters are installed as inactive. When you activate them, it could lead to generation of thousands of entity records.
 
 -   Pillars
 -   Scenarios
@@ -34,7 +34,7 @@ A user with the sn\_oper\_res.admin role can set up the following entities by us
 -   Important Choices
 -   Importance and Impact Tolerance Rating Scale
 -   Attestation Templates
--   [[airc-assessment-templates|Assessment Templates]]
+-   Assessment Templates
 
 **Note:** When you log in to the application as a user with the sn\_oper\_res.admin role, you can view the Admin module.
 
@@ -46,25 +46,11 @@ Operational Resilience administrators can create pillars and can also modify the
 
 As a user with the sn\_oper\_res.admin role, you can complete the following general setup tasks:
 
--   Create a scenario that represents a risk. For more information, see [[define-scenarios|Create a scenario and link it to an event]].
--   Classify an event by associating it with an event group. For more information, see [[create-event-group|Create an event group for the scenario]].
--   Create an event that you can associate with a scenario. For more information, see [[create-events|Create an event for the scenario]].
--   Add a participant role for your [[scenario-analysis-ov|scenario analysis]]. For more information, see [[add-participant-role|Add a participant role for the scenario analysis]].
--   Update the assessment rating by using the Important choices module. For more information, see [[set-up-important-choices|Update the Important choices module]].
--   Update the importance and impact rating scale. For more information, see [[create-importance-impact-rating-scale|Set up the Importance and Impact Tolerance Rating Scale]].
--   Create an attestation template. For more information, see [[create-new-attestation-template|Create and edit the attestation template]].
+-   Create a scenario that represents a risk. For more information, see [Create a scenario and link it to an event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/define-scenarios.md).
+-   Classify an event by associating it with an event group. For more information, see [Create an event group for the scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-event-group.md).
+-   Create an event that you can associate with a scenario. For more information, see [Create an event for the scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-events.md).
+-   Add a participant role for your scenario analysis. For more information, see [Add a participant role for the scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-participant-role.md).
+-   Update the assessment rating by using the Important choices module. For more information, see [Update the Important choices module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-important-choices.md).
+-   Update the importance and impact rating scale. For more information, see [Set up the Importance and Impact Tolerance Rating Scale](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-importance-impact-rating-scale.md).
+-   Create an attestation template. For more information, see [Create and edit the attestation template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-attestation-template.md).
 
-## Related
-
-- [[define-scenarios|Create a scenario and link it to an event]]
-- [[create-event-group|Create an event group for the scenario]]
-- [[create-events|Create an event for the scenario]]
-- [[add-participant-role|Add a participant role for the scenario analysis]]
-- [[set-up-important-choices|Update the Important choices module]]
-- [[create-importance-impact-rating-scale|Set up the Importance and Impact Tolerance Rating Scale]]
-- [[create-new-attestation-template|Create and edit the attestation template]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[scenario-analysis-ov|Scenario analysis]]

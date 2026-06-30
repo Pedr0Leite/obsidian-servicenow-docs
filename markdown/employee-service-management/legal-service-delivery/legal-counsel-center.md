@@ -20,9 +20,9 @@ Legal Counsel Center Classic enables legal department members to categorize, pri
 
 Legal Counsel Center Classic is available if you’ve installed the following apps:
 
--   [[legal-request-management-landing-page|Legal Request Management]] \(sn\_lg\_ops\)
+-   Legal Request Management \(sn\_lg\_ops\)
 -   Legal Counsel Center Classic \(sn\_lg\_workspace\)
--   [[legal-counsel-center-landing|Legal Counsel Center]] Components \(sn\_lg\_ws\_comps\)
+-   Legal Counsel Center Components \(sn\_lg\_ws\_comps\)
 
 Legal Counsel Center Classic is built using the ServiceNow® Agent Workspace. You can customize Legal Counsel Center Classic as per your departmental needs.
 
@@ -42,7 +42,7 @@ Legal Counsel Center Classic includes the following features:
 
     Track and address multiple requests concurrently by navigating between multiple open records.
 
--   **Real-time [[activity-lxp|activity]] feed**
+-   **Real-time activity feed**
 
     View activities related to legal requests and legal matters and notifications in real time.
 
@@ -71,8 +71,3 @@ On the Legal Counsel Center Classic landing page, get a quick overview of the le
 
 **Parent Topic:**[Exploring Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/exploring-legal-counsel-center.md)
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

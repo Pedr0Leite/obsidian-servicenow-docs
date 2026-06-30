@@ -14,7 +14,7 @@ breadcrumb: [Setting improvement opportunities, Use, Process Mining, Platform An
 
 # Set rule-based improvement opportunity
 
-Rule-based finding definition is a custom rule that displays improvement opportunities for a use case on the [[summary-insights-dashboard|Summary and insights page]].
+Rule-based finding definition is a custom rule that displays improvement opportunities for a use case on the Summary and insights page.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ For example, you can set up a rule to display records that took more than 7 days
 
 **Parent Topic:**[Setting improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/working-with-imp-opp.md)
 
-## Related
-
-- [[summary-insights-dashboard|Summary and insights page]]

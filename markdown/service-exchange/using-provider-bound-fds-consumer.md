@@ -34,7 +34,7 @@ Description
 
 </td><td>
 
-[[service-bridge-v2-create-provider-bound-fds-consumer|Create an FDS Definition.]]
+[Create an FDS Definition.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-provider-bound-fds-consumer.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ Define the data that you share with your provider.After you create and publish a
 
 </td><td>
 
-[[service-bridge-v2-con-acknowledge-fds-request|Acknowledge FDS requests and send a sample payload.]]
+[Acknowledge FDS requests and send a sample payload.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-con-acknowledge-fds-request.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ After receiving an FDS request from your provider, acknowledge it and send a sam
 
 </td><td>
 
-[[service-bridge-v2-publish-con-fds-subscription|Publish subscriptions.]]
+[Publish subscriptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-publish-con-fds-subscription.md)
 
 </td><td>
 
@@ -68,11 +68,5 @@ After the provider accepts the subscription, publish it. After the FDS configura
 </table>**Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-## Related
-
-- [[service-bridge-v2-create-provider-bound-fds-consumer|Create and publish a provider-bound FDS offering definition]]
-- [[service-bridge-v2-con-acknowledge-fds-request|Acknowledge an FDS offering request from your provider]]
-- [[service-bridge-v2-publish-con-fds-subscription|Publish an outbound FDS subscription as a consumer]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]

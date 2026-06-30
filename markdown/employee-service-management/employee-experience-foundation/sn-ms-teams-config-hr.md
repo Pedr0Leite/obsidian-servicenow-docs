@@ -14,18 +14,18 @@ breadcrumb: [Microsoft Teams Integration for Employee Experience, Configure, Ser
 
 # Configure HR Service Delivery integration with Microsoft Teams
 
-Complete the following procedures to configure the [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams.
+Complete the following procedures to configure the HR Service Delivery integration with Microsoft Teams.
 
 -   **[Review the active notifications for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/disable-notifications-teams-hr.md)**  
 The notifications added by ServiceNow for Microsoft Teams, might duplicate existing notifications in your instance. Review and disable any duplicate notifications to avoid notifying users multiple times for the same event.
 -   **[Enable Virtual Agent notifications for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enable-va-notifications-hr.md)**  
-Configure system properties to enable [[va-notification-ta|Virtual Agent notifications]] in Microsoft Teams.
+Configure system properties to enable Virtual Agent notifications in Microsoft Teams.
 -   **[Configure LLM based provider notifications for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-llm-based-provider-notifications-for-hr.md)**  
 Enable LLM-based actionable provider notifications for HR.
 -   **[Configure Request-based chats to import messages from Microsoft Teams to ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/auto-import-messages.md)**  
 Configure request-based chats for IT Service Management integration with Microsoft Teams and HR Service Delivery integration with Microsoft Teams applications enable the system to auto import the chat conversations between the agents and the employees.
 -   **[Configuring Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center-dashboard-admin.md)**  
-Use the [[employee-center-landing-page|Employee Center]] within Microsoft Teams or [[customize-custom-portal-employee-center-it|embed a custom portal]] in Microsoft Teams.
+Use the Employee Center within Microsoft Teams or embed a custom portal in Microsoft Teams.
 -   **[Microsoft Teams Chat widget in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-std-ticket-page-teams-hr.md)**  
 The Teams Chat widget enables employees to view or continue chats with agents and view and access the content of attached files in the Employee Center. This widget is available through the HR Service Delivery integration with the Microsoft Teams application.
 -   **[Include On-call scheduling users to initiate Microsoft Teams chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/on-call-users-start-chat.md)**  
@@ -41,9 +41,3 @@ ServiceNow for Microsoft Teams supports link unfurling. Link unfurling generates
 
 **Parent Topic:**[Configuring Microsoft Teams integration for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_config.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[employee-center-landing-page|Employee Center]]
-- [[customize-custom-portal-employee-center-it|Embed a custom portal]]

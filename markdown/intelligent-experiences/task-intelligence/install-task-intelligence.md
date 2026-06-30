@@ -14,7 +14,7 @@ breadcrumb: [Configure Task Intelligence, Task Intelligence, Enable AI experienc
 
 # Install Task Intelligence Admin Console
 
-You can install the [[task-intelligence|Task Intelligence]] application \(sn\_ti\_admin\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Task Intelligence application \(sn\_ti\_admin\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -50,11 +50,8 @@ For more information, see [Task Intelligence roles](https://raw.githubuserconten
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common use [[cases|cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
-## Related
 
-- [[task-intelligence|Task Intelligence]]
-- [[cases|Cases]]

@@ -27,7 +27,7 @@ The total allocated hours for a task appear in the Task effort column of the gri
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[rsrc-mgmt-wrkspc|Resource Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Resource Management Workspace**.
 
 2.  Select the Resource cards icon \(\[Omitted image "rmw-resource-cards-L1-icon.png"\] Alt text: Resource cards icon.\) from the menu and open a resource card.
 
@@ -42,6 +42,3 @@ The allocated hours for the selected period are updated. If there are any actual
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

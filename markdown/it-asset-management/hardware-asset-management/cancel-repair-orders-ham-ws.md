@@ -22,7 +22,7 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -53,6 +53,3 @@ Role required: asset
 
 [Cancel a repair order line in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

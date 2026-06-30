@@ -12,7 +12,7 @@ breadcrumb: [Notification Preferences, Notifications, Configure core features, A
 
 # Setting notification preferences in Core UI
 
-You can set your own notification preferences, including personal subscriptions and channels for receiving them. All users can set these preferences through the **[[notifications|Notifications]]** tab of the System Settings window.
+You can set your own notification preferences, including personal subscriptions and channels for receiving them. All users can set these preferences through the **Notifications** tab of the System Settings window.
 
 With the **Notifications** tab, you can:
 
@@ -30,8 +30,8 @@ In new and upgraded instances that use the Core UI interface, the System Setting
 
 In UI15 and earlier interfaces:
 
--   Users [[set-notification-preferences|set notification preferences]] through the **Notification Preferences** link in the User form \(**Self service** &gt; **My Notification Preferences**\).
--   Admins created user devices and set notification preferences for users through the **Notification Preferences** link in the User form, accessed through the [[c_UserAdministration|User Administration]] module \(**User Administration** &gt; **Users**\).
+-   Users set notification preferences through the **Notification Preferences** link in the User form \(**Self service** &gt; **My Notification Preferences**\).
+-   Admins created user devices and set notification preferences for users through the **Notification Preferences** link in the User form, accessed through the User Administration module \(**User Administration** &gt; **Users**\).
 
     **Note:**
 
@@ -84,8 +84,8 @@ Notification channels
 </td><td>
 
 List of your channels for receiving notifications. Use this section to:-   Enable or disable a channel by using its toggle switch. If you disable a channel, notifications are not delivered through that channel.
--   [[create-channel|Add channels]] using the **Create Channel** option.
--   [[modify-notif-channel|Modify channel information]]. Click the channel row or the right arrow \(**&gt;**\) next to the appropriate channel to edit or delete it.
+-   [Add channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-channel.md) using the **Create Channel** option.
+-   [Modify channel information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/modify-notif-channel.md). Click the channel row or the right arrow \(**&gt;**\) next to the appropriate channel to edit or delete it.
 
 </td></tr><tr id="NotificationsByCategory"><td>
 
@@ -97,35 +97,22 @@ List of notification categories that identify and group related notifications. E
 
  -   Edit settings for a notification:
     -   Enable or disable channels for the selected notification.
-    -   [[apply-notification-conditions|Apply notification conditions]], such as [[c_UseSchedules|schedules]] and filters, that affect the delivery of the notification.
--   [[create-personal-notifications|Create personal notifications]], which are subscriptions to specific notifications that matter to you.
+    -   [Apply notification conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md), such as schedules and filters, that affect the delivery of the notification.
+-   [Create personal notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-personal-notifications.md), which are subscriptions to specific notifications that matter to you.
 
 </td></tr></tbody>
 </table>**Note:** Subscription-based notifications are not domain aware and cannot support domain-specific settings.
 
--   **[[c_SubscriptionBasedNotifications|Subscription-based notifications]]**  
+-   **[Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)**  
 Subscription-based notifications enable users to proactively subscribe to items that interest them and unsubscribe from messages that are not mandatory.
 -   **[Create notification channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-channel.md)**  
 You can add channels to receive your notifications. A notification channel is an email account or voice message system that you have access to.
 -   **[Modify notification channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/modify-notif-channel.md)**  
 You can update channel information for your notifications.
--   **[[delete-notif-channel|Delete a notification channel]]**  
+-   **[Delete a notification channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/delete-notif-channel.md)**  
 Delete a notification channel so that you no longer receive notifications through the channel.
 -   **[Apply notification conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md)**  
 Set various conditions and filters to control the notifications you receive. You can also enable or disable an email digest and the delivery of individual notifications by channel.
 
-**Parent Topic:**[[preferences-landing|Notification Preferences]]
+**Parent Topic:**[Notification Preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/preferences-landing.md)
 
-## Related
-
-- [[create-channel|Create notification channels]]
-- [[modify-notif-channel|Modify notification channels]]
-- [[apply-notification-conditions|Apply notification conditions]]
-- [[create-personal-notifications|Create personal notifications]]
-- [[c_SubscriptionBasedNotifications|Subscription-based notifications]]
-- [[delete-notif-channel|Delete a notification channel]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]
-- [[set-notification-preferences|Set notification preferences]]
-- [[c_UserAdministration|User administration]]
-- [[c_UseSchedules|Schedules]]

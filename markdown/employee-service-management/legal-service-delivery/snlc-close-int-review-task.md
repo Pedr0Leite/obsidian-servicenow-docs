@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 3.  Select **My Work** &gt; **Requested Tasks**
 4.  Open the review task from the list
@@ -99,6 +99,3 @@ Steps
 
 **Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-expert-review.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -18,7 +18,7 @@ LEAP includes features such as grouping incidents, creating problem records, and
 
 -   **[Identify and prioritize high impact areas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/aiops-leap-features.md)**
 
-    LEAP uses data-driven analytics to help users identify critical issues and prioritize high-impact [[automation-opportunities|automation opportunities]]. This ensures that resources are prioritized for the areas that deliver the highest operational efficiency and business value.
+    LEAP uses data-driven analytics to help users identify critical issues and prioritize high-impact automation opportunities. This ensures that resources are prioritized for the areas that deliver the highest operational efficiency and business value.
 
 -   **[Measure and enhance performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/aiops-leap-features.md)**
 
@@ -32,6 +32,4 @@ LEAP includes features such as grouping incidents, creating problem records, and
 
     LEAP uses AI to transform resolution steps into complete, structured knowledge base articles. Generated articles include all required sections and auto-populated metadata. Articles are published to the Knowledge Center through the standard approval workflow.
 
-## Related
 
-- [[automation-opportunities|Automation opportunities]]

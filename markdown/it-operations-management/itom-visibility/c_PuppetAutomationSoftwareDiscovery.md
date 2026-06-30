@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Puppet automation software discovery
 
-[[r-discovery|Discovery]] identifies Puppet Masters running on UNIX servers.
+Discovery identifies Puppet Masters running on UNIX servers.
 
 Discovery uses secure shell \(SSH\) commands to collect information.
 
@@ -61,6 +61,3 @@ To use the Puppet probe with sudo, you must add the **must\_sudo** parameter to 
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

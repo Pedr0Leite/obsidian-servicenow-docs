@@ -14,7 +14,7 @@ breadcrumb: [Healthcare Operations Core, Healthcare Operations, Healthcare and L
 
 # Configuring Healthcare Operations Core
 
-Set up the [[hcls-cto-app|Healthcare Operations Core]] application.
+Set up the Healthcare Operations Core application.
 
 ## Configuration overview
 
@@ -44,7 +44,7 @@ Set up the [[hcls-cto-app|Healthcare Operations Core]] application.
 
 7.  [Create a healthcare organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-sm-configure-healthcare-organizations.md)
 
-    [[hcls-sm-configure-healthcare-organizations|Create a healthcare organization]] for use with Healthcare Operations Core.
+    Create a healthcare organization for use with Healthcare Operations Core.
 
 8.  [Create healthcare providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-create-healthcare-providers.md)
 
@@ -80,33 +80,33 @@ Set up the [[hcls-cto-app|Healthcare Operations Core]] application.
 
 16. [Configure the abstract case type for Healthcare Operations Core case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/configure-abstract-case-type-hco.md)
 
-    Extend the [[healthcare-operations-overview|Healthcare Operations]] case \[sn\_hco\_case\] to create custom case types for use with Healthcare Operations Core and related plugins by creating a child table from the Healthcare Operations Core case type.
+    Extend the Healthcare Operations case \[sn\_hco\_case\] to create custom case types for use with Healthcare Operations Core and related plugins by creating a child table from the Healthcare Operations Core case type.
 
 17. [Add menu items into the Care Team Portal with Healthcare Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hco-add-menu-items.md)
 
-    Add more menu items into the [[care-team-portal-landing|Care Team Portal]] for easy user access.
+    Add more menu items into the Care Team Portal for easy user access.
 
-18. [[configure-care-team-portal|Embedding Care Team Portal in Epic Hyperspace via Hyperdrive]]
+18. [Embedding Care Team Portal in Epic Hyperspace via Hyperdrive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configure-care-team-portal.md)
 
     Configure the Care Team Portal by embedding it into Epic Hyperspace via Hyperdrive and enabling OIDC authentication.
 
-19. [[hco-update-variables-portal|Capture Additional Data From Epic Within ServiceNow Record Producers]]
+19. [Capture Additional Data From Epic Within ServiceNow Record Producers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-update-variables-portal.md)
 
     Update the variable values in existing record producers to capture tokenized data from Epic.
 
-20. [[configure-iframe-portal|Configure iFrame embedding for Care Team Portal]]
+20. [Configure iFrame embedding for Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configure-iframe-portal.md)
 
     For the Care Team Portal to successfully launch in Hyperspace via Hyperdrive, the portal must be configured to work within an iFrame.
 
-21. [[hcls-cto-enabling-oidc|Enable Multi-Provider SSO for your ServiceNow instance]]
+21. [Enable Multi-Provider SSO for your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-enabling-oidc.md)
 
     Ensure that Multiple Provider SSO is enabled and configured correctly for Care Team Portal to authenticate with Epic Hyperspace via Hyperdrive.
 
-22. [[hco-authenticate-portal|In Epic: Build the FHIR App to Authenticate with ServiceNow]]
+22. [In Epic: Build the FHIR App to Authenticate with ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-authenticate-portal.md)
 
     Set up your FHIR app with the correct configurations to allow single sign-on for EPIC users to access the Care Team Portal inside EPIC Hyperspace via Hyperdrive.
 
-23. [[create-identity-provider-hco|Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic]]
+23. [Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/create-identity-provider-hco.md)
 
     Set up an Identity Provider in your ServiceNow instance to enable OIDC for Healthcare Operations Core.
 
@@ -118,15 +118,4 @@ Set up the [[hcls-cto-app|Healthcare Operations Core]] application.
 
     Once the Care Team Portal is configured, create a launch URL that can then be configured inside the Epic Hyperdrive Client Test Harness for testing.
 
-## Related
 
-- [[configure-care-team-portal|Embedding Care Team Portal in Epic Hyperspace via Hyperdrive]]
-- [[hco-update-variables-portal|Capture Additional Data From Epic Within ServiceNow Record Producers]]
-- [[configure-iframe-portal|Configure iFrame embedding for Care Team Portal]]
-- [[hcls-cto-enabling-oidc|Enable Multi-Provider SSO for your ServiceNow instance]]
-- [[hco-authenticate-portal|hco authenticate portal]]
-- [[create-identity-provider-hco|Create and Configure an Identity Provider in ServiceNow to Authenticate with Epic]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-sm-configure-healthcare-organizations|Create a healthcare organization]]
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[care-team-portal-landing|Care Team Portal]]

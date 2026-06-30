@@ -144,14 +144,9 @@ Email actions determine how and when the system responds to service requests. On
 |Target table|Select the table where the action adds or updates records.|
 |Active|Optional checkbox to create an active action|
 |Action type|Type of the action. Select the type of action the instance takes. Select **Record Action** to modify a record in the instance, or select **Reply Email** to have the instance send an email back to the source of the inbound email.|
-|Stop processing|Optional checkbox to help prevent the system from running additional [[actions-inbound-email|inbound email actions]] after this action runs.|
+|Stop processing|Optional checkbox to help prevent the system from running additional inbound email actions after this action runs.|
 
-See [[r_InboundMailConfiguration|Inbound email configuration]] for more information.
+See [Inbound email configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_InboundMailConfiguration.md) for more information.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[r_InboundMailConfiguration|Inbound email configuration]]
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]
-- [[actions-inbound-email|Inbound email actions]]

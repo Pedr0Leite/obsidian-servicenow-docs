@@ -16,7 +16,7 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 Create dynamic conditions in JavaScript that you can configure as part of a report visualization's criteria instead of specified values.
 
-To [[t_CreateYourOwnReport|create a report]] using a dynamic conditional statement, you place a JavaScript URL in the conditional value statement of the filter. You can enter a JavaScript command directly into the field, but for a script longer than one statement, the script should be placed in its own record. You then call a function from that record in the value field of the report condition.
+To create a report using a dynamic conditional statement, you place a JavaScript URL in the conditional value statement of the filter. You can enter a JavaScript command directly into the field, but for a script longer than one statement, the script should be placed in its own record. You then call a function from that record in the value field of the report condition.
 
 **Parent Topic:**[Custom interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_CustomPublishers.md)
 
@@ -259,7 +259,7 @@ Textual representation of a complete or partial field name value.For the "is one
 
 1.  Perform one of the following actions:
 
-    -   On an upgraded instance that has not been fully migrated to [[c_performanceAnalyticsAndReporting|Platform Analytics]], navigate to **All** &gt; **Reports** &gt; **View / Run**.
+    -   On an upgraded instance that has not been fully migrated to Platform Analytics, navigate to **All** &gt; **Reports** &gt; **View / Run**.
     -   On a new instance or one that has been fully migrated to Platform Analytics, navigate to **All** &gt; **Platform Analytics Administration** &gt; **Usage and governance** &gt; **Reports**.
 2.  Open the report visualization that you want to add the dynamic filter to.
 
@@ -285,7 +285,3 @@ Textual representation of a complete or partial field name value.For the "is one
 
 After you add the necessary JavaScript statements and conditions and configure the remainder of the report, test the report to ensure it returns and displays the expected results.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

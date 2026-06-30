@@ -20,7 +20,7 @@ The objects in the conceptual CSDM framework must map to the physical model obje
 
 Business Application data belongs in the cmdb\_ci\_business\_app table, and not in the cmdb\_ci\_app table.
 
-**Note:** Business services and Technology management services [[c_Connect|connect]] to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
+**Note:** Business services and Technology management services connect to the spm\_service\_portfolio through the spm\_taxonomy\_node. See [Service Portfolio Management taxonomy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/SPM2-taxonomy.md).
 
 ## Life Cycle Stage inheritance for Business Application records
 
@@ -39,6 +39,3 @@ In contrast, in sys\_choice inheritance definitions in child tables override the
 
 [CSDM resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-resources.md)
 
-## Related
-
-- [[c_Connect|Connect]]

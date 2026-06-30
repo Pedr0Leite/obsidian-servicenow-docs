@@ -14,7 +14,7 @@ breadcrumb: [Continuous Authorization and Monitoring, Governance, Risk, and Comp
 
 # Using CAM
 
-To provide CAM services, you implement the seven steps defined by the NIST Risk Management Framework \(RMF\), implement controls and assessment objectives, and perform [[grc-cam-landing-page|continuous authorization and monitoring]].
+To provide CAM services, you implement the seven steps defined by the NIST Risk Management Framework \(RMF\), implement controls and assessment objectives, and perform continuous authorization and monitoring.
 
 1.  [RMF step 0 - Prepare the authorization package](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/prepare-auth-pkg.md)
 
@@ -44,6 +44,4 @@ To provide CAM services, you implement the seven steps defined by the NIST Risk 
 
     The CAM Workspace is a centralized hub where you can continuously monitor and manage compliance with the NIST Risk Management Framework to ensure adherence to your security policies and guidelines.
 
-## Related
 
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]

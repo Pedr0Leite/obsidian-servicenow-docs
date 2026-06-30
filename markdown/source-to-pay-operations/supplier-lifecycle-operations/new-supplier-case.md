@@ -14,7 +14,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Create New Supplier Case form
 
-Use the Create New Supplier Case form to enter [[supplier|supplier]] case details and provide resolution information.
+Use the Create New Supplier Case form to enter supplier case details and provide resolution information.
 
 <table id="table_xfm_xr5_ksb"><thead><tr><th>
 
@@ -66,7 +66,7 @@ The type of case. The choices are:
 -   **Supplier issue**
 -   **Due diligence**
 -   **Offboard a supplier**
--   **[[conduct-sanction-screening|Conduct sanction screening]]**
+-   **Conduct sanction screening**
 -   **Credit card enablement**
 
 </td></tr><tr><td>
@@ -241,7 +241,3 @@ Duration to complete the case.
 
 [Create a case on behalf of a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-case.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[conduct-sanction-screening|Conduct sanction screening]]

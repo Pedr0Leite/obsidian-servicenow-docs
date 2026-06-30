@@ -44,7 +44,7 @@ Open the approval record and click **Approve** to approve the change request or 
 
 </td><td>
 
-Click **Implement** to put the change request into action.The change request state changes to **Implement**. The workflow creates two [[change-tasks|change tasks]]: **Implement** and **Post-implementation testing**. Review the change tasks and assign them to a user or group, as appropriate.
+Click **Implement** to put the change request into action.The change request state changes to **Implement**. The workflow creates two change tasks: **Implement** and **Post-implementation testing**. Review the change tasks and assign them to a user or group, as appropriate.
 
 </td></tr><tr><td id="d151260e153">
 
@@ -95,13 +95,13 @@ From the context menu, click **Cancel Change**. Provide a reason for canceling t
 -   **[Associated CIs on a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_AffectedCIsAndImpactedServices.md)**  
 You can associate additional CIs or services to change requests through related lists on the Change Request form. You can also associate CIs with a change request from the dependency views map.
 -   **[Mass Update CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/bulk-ci-change.md)**  
-The [[bulk-ci-change|Mass Update CI]] plugin enable users to apply the same update to a set of CIs for a specific CI class. The [[c_ITILChangeManagement|Change Management]] - Mass Update CI plugin is intended to be used when the Change Management - State Model plugin is activated.
+The Mass Update CI plugin enable users to apply the same update to a set of CIs for a specific CI class. The Change Management - Mass Update CI plugin is intended to be used when the Change Management - State Model plugin is activated.
 -   **[Use Mass Update CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/use-bulk-mass-ci-changes.md)**  
 You can use the proposed changes in a change request to apply the same update to a set of CIs for a specific CI class.
 -   **[Place a change request on hold](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_PlaceAChangeRequestOnHold.md)**  
 You can put a change request on hold to get additional information for the created change request.
 -   **[Refresh impacted services and CIs for Change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/refresh-impacted-services-cis.md)**  
-The Impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business [[dex-workspace-application-tab|Applications]] related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
+The Impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business Applications related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
 
 **Parent Topic:**[Using Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-management.md)
 
@@ -110,9 +110,3 @@ The Impacted services and CIs related list refreshes its records and also the re
 
 [Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
-## Related
-
-- [[change-tasks|Change tasks]]
-- [[bulk-ci-change|Mass Update CI]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[dex-workspace-application-tab|Applications]]

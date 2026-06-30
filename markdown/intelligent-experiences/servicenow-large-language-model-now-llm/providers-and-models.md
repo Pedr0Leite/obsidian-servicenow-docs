@@ -14,7 +14,7 @@ breadcrumb: [Large language models on the ServiceNow AI Platform, Enable AI expe
 
 # Providers and Models
 
-You can bring your own large language model \(LLM\) provider and API to use with [[platform-now-assist-landing|Now Assist]].
+You can bring your own large language model \(LLM\) provider and API to use with Now Assist.
 
 Bringing your own large language model enables:
 
@@ -26,6 +26,3 @@ Bringing your own large language model enables:
 
 **Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

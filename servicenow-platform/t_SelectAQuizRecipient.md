@@ -1,0 +1,50 @@
+---
+title: Select a quiz recipient
+description: When the system distributes a quiz, it sends email notifications to the category users and their managers.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/servicenow-platform/t\_SelectAQuizRecipient.html
+release: australia
+topic_type: task
+last_updated: "2026-03-12"
+reading_time_minutes: 1
+breadcrumb: [Create a quiz, Quiz designer, Using Quizzes, Quizzes, Assessments and Surveys, Exploring Service Administration, Service Administration, Manage service capabilities, Extend ServiceNow AI Platform capabilities]
+---
+
+# Select a quiz recipient
+
+When the system distributes a quiz, it sends [[email|email]] notifications to the category users and their managers.
+
+## Before you begin
+
+Role required: assessment\_admin or admin
+
+## About this task
+
+A category can have one or more assigned users, and the same user can be assigned to more than one category.
+
+The system also creates a link to the quiz in the recipients' **My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]]** portal. Users can only answer questions in the categories that they are assigned to.
+
+## Procedure
+
+1.  To select the recipients for each quiz category, click **Availability** and then fill in the fields as described in the table.
+
+    |Field|Description|
+    |-----|-----------|
+    |Select category|Category for which the selected users are recipients.|
+    |Add users|Users selected as recipients for this category. The choice list shows all users in the system.|
+
+
+**Parent Topic:**[[t_CreateaQuiz|Create a quiz]]
+
+**Related topics**  
+
+
+[[c_QuizDesigner|Quiz designer]]
+
+## Related
+
+- [[t_CreateaQuiz|Create a quiz]]
+- [[c_QuizDesigner|Quiz designer]]
+- [[email|Email]]
+- [[r_Assessments|Assessments]]
+- [[r_SurveyManagementLandingPage|Surveys]]

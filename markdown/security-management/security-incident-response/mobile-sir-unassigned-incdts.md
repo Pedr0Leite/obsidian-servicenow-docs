@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # View, edit and assign unassigned security incidents with the Security Incident Response Mobile app
 
-From your mobile device, view, edit, and assign unassigned [[sir-landing-page|Security Incident Response]] \(SIR\) incidents. View related lists and the audit trail of work notes for more details about incidents.
+From your mobile device, view, edit, and assign unassigned Security Incident Response \(SIR\) incidents. View related lists and the audit trail of work notes for more details about incidents.
 
 ## Before you begin
 
@@ -137,7 +137,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Security Inciden
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

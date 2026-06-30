@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for OTSM, Operational Technology]
 
 # Using agentic AI for Operational Technology Service Management
 
-Use the [[operational-technology-overview|Operational Technology]] Service Management \(OTSM\) AI agent collection to complete tasks autonomously.
+Use the Operational Technology Service Management \(OTSM\) AI agent collection to complete tasks autonomously.
 
 |Agentic workflow name|Description|Available AI agents|
 |---------------------|-----------|-------------------|
@@ -52,6 +52,3 @@ There might be AI agents installed with the Now Assist application that are not 
 
 Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

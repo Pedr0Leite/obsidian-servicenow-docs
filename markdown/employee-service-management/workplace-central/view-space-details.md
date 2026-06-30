@@ -14,13 +14,13 @@ breadcrumb: [Working with schedule view, Working with Event planner, Use, Workpl
 
 # View space details
 
-View the full details of a workspace that you selected in the schedule view. You can view details such as the floor, building, capacity, [[standard-service|standard services]], and reservation purpose on the space details panel.
+View the full details of a workspace that you selected in the schedule view. You can view details such as the floor, building, capacity, standard services, and reservation purpose on the space details panel.
 
 ## Before you begin
 
 Make sure that you have the following plugins to view the floor map in the side panel:
 
--   Workplace [[Indoor-mapping|Indoor Mapping]] \(sn\_wsd\_indoor\_map\)
+-   Workplace Indoor Mapping \(sn\_wsd\_indoor\_map\)
 -   Indoor Map component
 
 Role required: sn\_wsd\_rsv.reservation\_viewer
@@ -40,11 +40,11 @@ On the Schedule view page, you can do the following:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from [[employee-center-landing-page|Employee Center]] directly by navigating to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from Employee Center directly by navigating to **All** &gt; **Self-service** &gt; **Employee Center** &gt; **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the [[event-planner|event planner]] icon \[Omitted image "event-planner-icon.png"\] Alt text: ..
+2.  Select the event planner icon \[Omitted image "event-planner-icon.png"\] Alt text: ..
 
 3.  Select **Open Scheduled view**.
 
@@ -63,10 +63,3 @@ On the Schedule view page, you can do the following:
 
 **Parent Topic:**[Working with schedule view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-view.md)
 
-## Related
-
-- [[standard-service|Standard services]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[event-planner|Event Planner]]

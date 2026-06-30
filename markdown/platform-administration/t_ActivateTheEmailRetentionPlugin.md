@@ -22,8 +22,8 @@ Role required: admin
 
 The Email Retention plugin requires these plugins:
 
--   [[c_ArchiveData|Data archiving]]
--   [[c_SystemMailboxes|System Mailboxes]]
+-   [Data archiving](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ArchiveData.md)
+-   System Mailboxes
 
 ## Procedure
 
@@ -37,14 +37,8 @@ The Email Retention plugin requires these plugins:
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[email-retention|Email retention]]
+**Parent Topic:**[Email retention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-retention.md)
 
-## Related
-
-- [[c_ArchiveData|System Archive]]
-- [[find-components|Find components installed with an application]]
-- [[email-retention|Email retention]]
-- [[c_SystemMailboxes|System mailboxes]]

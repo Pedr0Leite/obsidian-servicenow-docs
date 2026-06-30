@@ -14,7 +14,7 @@ breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversation
 
 # Using Agent Affinity
 
-Agent Affinity is an [[awa-application-landing-page|Advanced Work Assignment]] feature that lets you assign [[awa-work-items|work items]] by an agent's work history, related task, or account team affinity.
+Agent Affinity is an Advanced Work Assignment feature that lets you assign work items by an agent's work history, related task, or account team affinity.
 
 Advanced Work Assignment assigns work items to agents by their availability, capacity, and skills. You can use Agent Affinity to customize this AWA assignment process and identify the agent best suited for the work item. Agent Affinity ensures that the same agent is assigned to a similar work item instead of orienting a new agent every time.
 
@@ -35,7 +35,7 @@ The types of affinities are:
     Identifies the best agent based on the agent's responsibility or role in the account team.
 
 
-**Note:** Account team affinity is available only to Customer Service [[management|Management]] customers.
+**Note:** Account team affinity is available only to Customer Service Management customers.
 
 Affinity rules are associated with AWA queues. Up to three rules can be associated with each queue. The affinity order determines how the assignment engine ranks the agents. The agent with the higher order affinity rule is considered as the best agent first.
 
@@ -53,8 +53,3 @@ If agent John is not available, AWA uses the historical affinity and looks for a
 
 \[Omitted image "awa-affinity-historical-example.png"\] Alt text: Agent Affinity configured to use historical affinity.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]

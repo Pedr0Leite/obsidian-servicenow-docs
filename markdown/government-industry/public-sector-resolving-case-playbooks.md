@@ -14,7 +14,7 @@ breadcrumb: [Using Service Request Playbooks, Playbooks, Use, Public Sector Digi
 
 You can use playbooks to create cases and to complete the tasks and activities that are needed to resolve specific types of cases.
 
-**Note:** Verify that the Service Request Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [[configuring-service-request-playbook|Install and configure the Service Request Playbook application]].
+**Note:** Verify that the Service Request Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the Service Request Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configuring-service-request-playbook.md).
 
 By default, the following stages are available to you as a government service agent in the Service Request Playbook in the CSM Configurable Workspace.
 
@@ -27,7 +27,7 @@ By default, the following stages are available to you as a government service ag
 
 The Service Request Playbook experience starts with the Intake stage. This stage is the default playbook stage for a new service request case. Use this playbook stage to gather information about the requester and the complaint for the service request case. You can also request additional information from the requester.
 
-The playbook continues with the Review stage. In this stage, you can do the initial troubleshooting on the case, check for similar or duplicate case requests, and determine what services need to be rendered and if a field service agent needs to be dispatched. For more information on the Public Sector Digital Services integration with Field Service Management, see [[psds-integration-fsm|Integration with Field Service Management]].
+The playbook continues with the Review stage. In this stage, you can do the initial troubleshooting on the case, check for similar or duplicate case requests, and determine what services need to be rendered and if a field service agent needs to be dispatched. For more information on the Public Sector Digital Services integration with Field Service Management, see [Integration with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-integration-fsm.md).
 
 The playbook continues with the Process stage. In this stage, you can assess resources, request resource approval, create case tasks, and add or request new information before case resolution begins. If a field service agent needs to be dispatched to the service request location, you can create a work order during the process stage. The case status changes to Work in Progress after the field service agent begins work on the service request case. After work has been completed, the case is moved to the Decision stage.
 
@@ -53,7 +53,7 @@ Role required: admin, sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_g
 
 4.  Select **Save**.
 
-    A case is created with the service request information. The case number is added to the tab and the first activity in the Intake stage is marked as complete. The second activity in this stage is highlighted as the current activity. If you have enabled the Similar Records UI activity, this will display as the second activity. For more information, see [[psds-srp-configure-similar-records|Configure the Similar Records Activity UI in Service Request Playbook]].
+    A case is created with the service request information. The case number is added to the tab and the first activity in the Intake stage is marked as complete. The second activity in this stage is highlighted as the current activity. If you have enabled the Similar Records UI activity, this will display as the second activity. For more information, see [Configure the Similar Records Activity UI in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-srp-configure-similar-records.md).
 
 5.  Review the similar records that are displayed in the Similar Records Activity UI, and determine whether any of them are a duplicate of the current case.
 
@@ -255,8 +255,4 @@ Role required: admin, sn\_gsm.constituent\_agent, sn\_gsm.business\_agent, sn\_g
 
     A notification is sent to the constituent that lets them know that a decision has been reached. The constituent can either accept or reject the solution. If the constituent accepts the solution, the case is automatically closed. If the constituent rejects the solution, the case is reopened, and the agent must propose another solution.
 
-## Related
 
-- [[configuring-service-request-playbook|Install and configure the Service Request Playbook application]]
-- [[psds-integration-fsm|Integration with Field Service Management]]
-- [[psds-srp-configure-similar-records|Configure the Similar Records Activity UI in Service Request Playbook]]

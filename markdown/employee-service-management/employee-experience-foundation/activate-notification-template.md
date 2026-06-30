@@ -24,7 +24,7 @@ Role required: admin
 
 Apply the layout to email notifications to elevate the look and feel, and deliver branded notifications.
 
-**Note:** The Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin is installed as a dependent plugin with [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]]. However, you can still independently install the plugin from ServiceNow Store.
+**Note:** The Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin is installed as a dependent plugin with Employee Center or Employee Center Pro. However, you can still independently install the plugin from ServiceNow Store.
 
 The Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin is shipped with the following.
 
@@ -75,7 +75,3 @@ Reuse the Employee notification layout for any of your templates to build consis
 
 [Configure the mail and SMS send to self](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-sendtoself-sms-email.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

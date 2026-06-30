@@ -58,7 +58,7 @@ Role required: sam\_admin
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -74,11 +74,7 @@ Role required: sam\_admin
 
 [Self-declaring SAP engine license usage]()
 
-[Software Publisher Analytics dashboard for SAP in [[c_SoftwareAssetMgmt|Software Asset Management]] classic]()
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic]()
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

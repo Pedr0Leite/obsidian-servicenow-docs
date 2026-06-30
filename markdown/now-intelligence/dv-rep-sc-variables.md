@@ -15,23 +15,23 @@ breadcrumb: [Configure, Data visualizations, Platform Analytics experience, Plat
 
 Group or filter data on visualizations by a variable on a selected service catalog item.
 
-[[reporting-landing-page|Reporting]] on variables can be helpful in determining if certain catalog items are useful on an instance, for example.
+Reporting on variables can be helpful in determining if certain catalog items are useful on an instance, for example.
 
-Additionally, you can create filters on the same variable. For example, if a specific mobile phone item has a storage variable, you can [[t_CreateYourOwnReport|create a report]] that only shows those phones with 32 GB of storage.
+Additionally, you can create filters on the same variable. For example, if a specific mobile phone item has a storage variable, you can create a report that only shows those phones with 32 GB of storage.
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
 ## Use service catalog variables in data visualizations
 
-In data visualizations based on service catalog data, stack and group by variables, use variables as columns in lists, and as columns and rows in [[c_MultilevelPivotCharts|multilevel pivot tables]].
+In data visualizations based on service catalog data, stack and group by variables, use variables as columns in lists, and as columns and rows in multilevel pivot tables.
 
 ### Before you begin
 
-Role required: viz\_creator or higher, including itil. To see the data, you need a role permitted by a [[report-view-access-control|report\_view access control]] on the data source table
+Role required: viz\_creator or higher, including itil. To see the data, you need a role permitted by a report\_view access control on the data source table
 
 **Note:**
 
--   Users with a role other than viz\_admin can use service catalog variables if as admin you add their role to the [[access-control|access control]] lists \(ACLs\) for the following tables: Options \[sc\_item\_option\], Variable Ownership \[sc\_item\_option\_mtom\], and Variables \[item\_option\_new\].
+-   Users with a role other than viz\_admin can use service catalog variables if as admin you add their role to the access control lists \(ACLs\) for the following tables: Options \[sc\_item\_option\], Variable Ownership \[sc\_item\_option\_mtom\], and Variables \[item\_option\_new\].
 -   The data source for the visualization must be based on the Requested Items table \[sc\_req\_item\] or the Catalog Task table \[sc\_task\]. Using other types of variables causes an error when generating the data visualization.
 -   The Oracle Database CLOB field doesn’t have the functionality to retrieve the variables data in data visualizations. For a column string field of less than 4000 bytes, you can change the column type to varchar2. To compare the CLOB columns of a smaller size, use the to\_char\(\) function. For a larger size CLOB, you must get a substring for comparison using the dbms\_lob.substr functions.
 
@@ -43,7 +43,7 @@ Use a variable as a filter, a group by, or an alternative group by.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and open the visualization to add the variable to.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and open the visualization to add the variable to.
 
 2.  Select one of the following options.
 
@@ -69,7 +69,7 @@ Under **Group by**, select **+ Add**. Then select **Variables** at the bottom of
 
 </td><td>
 
-Under **Group by**, select **Add alternative group by**. Then select **Variables** at the bottom of the field list. A viewer can choose one of these variables at runtime, as described in [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+Under **Group by**, select **Add alternative group by**. Then select **Variables** at the bottom of the field list. A viewer can choose one of these variables at runtime, as described in [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 </td></tr><tr><td id="d210938e223">
 
@@ -121,13 +121,3 @@ You want a different service catalog variable as an alternative group by. You se
 
 \[Omitted image "additional-group-by-variables-dv.png"\] Alt text: Additional group by selector for service catalog variables.
 
-## Related
-
-- [[configure-data-visualizations|Configure data visualizations]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[reporting-landing-page|Reporting]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[c_MultilevelPivotCharts|Multilevel pivot tables]]
-- [[report-view-access-control|Report\_view access control]]
-- [[access-control|Access control]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

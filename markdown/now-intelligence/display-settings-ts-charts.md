@@ -266,8 +266,5 @@ Show continuous line
 When selected and there is no data for a specific time, there is no gap in the chart and it shows continuous line.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-dv-time-series-ac|Create time series data visualizations]]
+</table>**Parent Topic:**[Create time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md)
 
-## Related
-
-- [[create-dv-time-series-ac|Create time series data visualizations]]

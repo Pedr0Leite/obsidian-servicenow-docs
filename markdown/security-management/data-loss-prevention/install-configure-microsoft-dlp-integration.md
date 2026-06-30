@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response with Microsoft, Integrate, D
 
 # Install and configure the Microsoft DLP integration
 
-[[configure-cortex-xsiam-siem|Install and configure]] the  DLP Incident Response integration with Microsoft DLP from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Microsoft DLP event data.
+Install and configure the  DLP Incident Response integration with Microsoft DLP from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Microsoft DLP event data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dlir.admin
 
 1.  Download and install the  Microsoft DLP integration from the  ServiceNow® Store.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations ** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations ** &gt; **Integration Configurations**.
 
 3.  Configure the Microsoft DLP integration.
 
@@ -93,7 +93,3 @@ After you successfully validate and submit the configuration, the AWS S3 Configu
 
 **Parent Topic:**[Data Loss Prevention Incident Response with Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-integration-microsoft.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

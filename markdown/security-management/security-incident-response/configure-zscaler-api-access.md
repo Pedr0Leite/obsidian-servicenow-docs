@@ -35,7 +35,7 @@ ServiceNow supports the following API role configurations for the Zscaler integr
     Create a custom role with the following permissions:
 
     -   **Security: Custom**
-    -   **[[threat-intelligence-malware|Malware]] Protection, Sandbox, &amp; Advanced Threat Protection: Full**
+    -   **Malware Protection, Sandbox, &amp; Advanced Threat Protection: Full**
     When configured with these permissions, the integration runs as expected.
 
 
@@ -70,6 +70,3 @@ The base URL for the API is `${Cloud_Name}/api/v1`. Check the Zscaler cloud name
 
 You have retrieved the base URL and the API key to configure access to Zscaler from the ServiceNow AI Platform instance.
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]

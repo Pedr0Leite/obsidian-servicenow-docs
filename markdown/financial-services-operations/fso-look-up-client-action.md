@@ -48,8 +48,5 @@ When you select the **Action Payload Definition** in the field decorator, it act
 
 \[Omitted image "fso-look-up-client-action.png"\] Alt text: Example FSO Look Up Client action.
 
-**Parent Topic:**[[financialservices-remote-tables|Financial Services Remote Tables]]
+**Parent Topic:**[Financial Services Remote Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financialservices-remote-tables.md)
 
-## Related
-
-- [[financialservices-remote-tables|Financial Services Remote Tables]]

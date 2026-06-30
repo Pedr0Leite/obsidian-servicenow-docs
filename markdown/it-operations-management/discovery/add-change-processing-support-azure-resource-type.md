@@ -14,17 +14,17 @@ breadcrumb: [Azure change processing, Discovery for Microsoft Azure, Discovery f
 
 # Add change processing support for an Azure resource type
 
-Add [[azure-change-processing|Azure change processing]] support for an Azure resource type per the needs of your organization.
+Add Azure change processing support for an Azure resource type per the needs of your organization.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or cloud\_root\_admin
+Role required: discovery\_admin or cloud\_root\_admin
 
 ## About this task
 
-This procedure is applicable only for Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns store versions that are older than 1.21.0. Starting the 1.21.0 version, all supported resource types are listed in the ACP Resource Type table. All the resource types are activated by default. The MID Server property **mid.cmp.azure.event.supported\_resource\_types** is no longer available. You can use the ACP Resource Type table to add an entry for a resource type and to add a query. For information on adding a query see the "Example VM Query" section in [KB1705862](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705862).
+This procedure is applicable only for Discovery and Service Mapping Patterns store versions that are older than 1.21.0. Starting the 1.21.0 version, all supported resource types are listed in the ACP Resource Type table. All the resource types are activated by default. The MID Server property **mid.cmp.azure.event.supported\_resource\_types** is no longer available. You can use the ACP Resource Type table to add an entry for a resource type and to add a query. For information on adding a query see the "Example VM Query" section in [KB1705862](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705862).
 
-To add change processing supports for an Azure resource type in legacy versions, add the resource types to the **mid.cmp.azure.event.supported\_resource\_types** property. As a comma-separated value. Then, create [[response-mappings|response mappings]] between the change fields and the Configuration Item \(CI\) fields. Response mappings define a one-on-one mapping between the source data fields and the CI fields. Azure change processing uses the mapping information to update resource change data in the appropriate CI class fields.
+To add change processing supports for an Azure resource type in legacy versions, add the resource types to the **mid.cmp.azure.event.supported\_resource\_types** property. As a comma-separated value. Then, create response mappings between the change fields and the Configuration Item \(CI\) fields. Response mappings define a one-on-one mapping between the source data fields and the CI fields. Azure change processing uses the mapping information to update resource change data in the appropriate CI class fields.
 
 ## Procedure
 
@@ -93,9 +93,4 @@ Name of the source field that you want to update in the specified CI class field
 
     5.  Repeat steps [5.b](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-change-processing-support-azure-resource-type.md) to [5.d](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-change-processing-support-azure-resource-type.md) for all the change fields that you want to update in the CMDB.
 
-## Related
 
-- [[azure-change-processing|Azure change processing]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[response-mappings|Response Mappings]]

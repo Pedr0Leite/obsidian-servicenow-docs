@@ -12,23 +12,16 @@ breadcrumb: [Sales promotion claim management, Sales promotion, Agent management
 
 # Reviewing and approving the sales promotion claims
 
-Agents workspace enables a claims agent to review and approve the [[mco-sales-promotion|sales promotion]] claims submitted by the dealer.
+Agents workspace enables a claims agent to review and approve the sales promotion claims submitted by the dealer.
 
 **Note:** Review and approve activity is visible to the claims agent. All other activities are performed by the dealer sales agent.
 
--   **[[mco-approve-sp-claim|Approve all claims]]**  
+-   **[Approve all claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-approve-sp-claim.md)**  
 As an OEM claims agent, approve all the claim request raised by the dealer.
--   **[[mco-reject-all-sp-claims|Reject a claims]]**  
+-   **[Reject a claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-reject-all-sp-claims.md)**  
 Reject a claims that was raised by the dealer.
--   **[[mco-partially-approve-spclaims|Partially approve a claims]]**  
+-   **[Partially approve a claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-partially-approve-spclaims.md)**  
 Partially approve a sales promotion claim by updating the approved amount, which is less than the claimed amount.
 
-**Parent Topic:**[[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
+**Parent Topic:**[Sales promotion claim management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-clm-mgmt.md)
 
-## Related
-
-- [[mco-approve-sp-claim|Approve all claims]]
-- [[mco-reject-all-sp-claims|Reject a claims]]
-- [[mco-partially-approve-spclaims|Partially approve a claims]]
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
-- [[mco-sales-promotion|Sales promotion]]

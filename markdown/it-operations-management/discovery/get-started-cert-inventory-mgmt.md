@@ -14,7 +14,7 @@ breadcrumb: [Configuring Certificate Inventory and Management, Certificate Inven
 
 # Get started with Certificate Inventory and Management
 
-Prior to diving into the [[cert-inventory-mgmt|Certificate Inventory and Management]] application's functionality, meet the necessary requirements by installing and activating the plugin, upgrading your instance, and obtaining the Certificate Inventory and Management application from the ServiceNow Store.
+Prior to diving into the Certificate Inventory and Management application's functionality, meet the necessary requirements by installing and activating the plugin, upgrading your instance, and obtaining the Certificate Inventory and Management application from the ServiceNow Store.
 
 ## Before you begin
 
@@ -30,8 +30,8 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 1.  Ensure the following plugins are installed and activated.
 
-    -   [[itom-visibility-landing-page|ITOM Visibility]] \[com.snc.itom.vis.license\] plugin
-    -   [[r-discovery|Discovery]] \[com.snc.discovery\] plugin
+    -   ITOM Visibility \[com.snc.itom.vis.license\] plugin
+    -   Discovery \[com.snc.discovery\] plugin
     -   Configuration Management for Scoped Apps \(CMDB\) \[com.snc.cmdb.scoped\] plugin
 2.  Confirm that your system has been upgraded to Australia or a later version.
 
@@ -52,8 +52,3 @@ You are ready to get started with Certificate Inventory and Management.
 -   Sectigo: `https://cert-manager.com/api/ssl/`
 -   GoDaddy: `https://api.godaddy.com/`
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]

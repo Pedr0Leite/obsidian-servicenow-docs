@@ -238,7 +238,7 @@ Reason if the ICT third-party service provider is considered not substitutable o
 
 </td><td>
 
-[[factors|Factors]] that might make the ICT third-party service provider irreplaceable or challenging to replace. This option is displayed when you select **Not substitutable** in the **Substitutability of the ICT third-party service provider** field.
+Factors that might make the ICT third-party service provider irreplaceable or challenging to replace. This option is displayed when you select **Not substitutable** in the **Substitutability of the ICT third-party service provider** field.
 
 Available options are:-   **None**
 -   **Lack of real alternatives**
@@ -246,9 +246,5 @@ Available options are:-   **None**
 -   **Lack of real alternatives and difficulties in migrating or reintegrating**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-assmt|Create an assessment and enhance digital resilience data]]
+</table>**Parent Topic:**[Create an assessment and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-assmt.md)
 
-## Related
-
-- [[create-drtp-reg-assmt|Create an assessment and enhance digital resilience data]]
-- [[factors|factors]]

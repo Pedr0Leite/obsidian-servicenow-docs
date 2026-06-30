@@ -24,8 +24,5 @@ This section outlines the core roles involved in managing payment cards in the P
 |Credit card reader \[credit\_card\_reader\]|Read access to the Credit Card table.|
 |Debit card reader \[debit\_card\_reader\]|Read access to the Debit Card table.|
 
-**Parent Topic:**[[payment-card-application|Payment card]]
+**Parent Topic:**[Payment card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/payment-card-application.md)
 
-## Related
-
-- [[payment-card-application|Payment card]]

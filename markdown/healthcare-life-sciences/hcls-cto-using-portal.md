@@ -12,28 +12,22 @@ breadcrumb: [Navigate, Care Team Portal, Healthcare Operations, Healthcare and L
 
 # Navigate the Care Team Portal
 
-Use the [[care-team-portal-landing|Care Team Portal]] to create and track service requests, manage your teams, and review knowledge base articles.
+Use the Care Team Portal to create and track service requests, manage your teams, and review knowledge base articles.
 
--   [[hcls-cto-track-requests|Track requests in the Care Team Portal]]
+-   [Track requests in the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-track-requests.md)
 
     Track requests created by you or your team from directly within the Care Team Portal.
 
--   [[hcls-cto-manage-teams|Manage your teams in the Care Team Portal]]
+-   [Manage your teams in the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-manage-teams.md)
 
     Manage your teams from directly within the Care Team Portal.
 
--   [[hcls-cto-view-kb-portal|View knowledge articles in the Care Team Portal]]
+-   [View knowledge articles in the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-view-kb-portal.md)
 
     Review knowledge articles posted by your organization from directly within the Care Team Portal.
 
--   [[hcls-cto-create-requests-portal|Create requests in the Care Team Portal]]
+-   [Create requests in the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-create-requests-portal.md)
 
     Use the Care Team Portal to create support requests for services from ancillary departments.
 
-## Related
 
-- [[hcls-cto-track-requests|Track requests in the Care Team Portal]]
-- [[hcls-cto-manage-teams|Manage your teams in the Care Team Portal]]
-- [[hcls-cto-view-kb-portal|View knowledge articles in the Care Team Portal]]
-- [[hcls-cto-create-requests-portal|Create requests in the Care Team Portal]]
-- [[care-team-portal-landing|Care Team Portal]]

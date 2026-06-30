@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # IBM WebSEAL discovery
 
-The ® [[r-discovery|Discovery]] application uses the IBM WebSEAL patterns to find WebSEAL applications, web application servers, and junctions on your infrastructure. Discovering some of these resources requires installing the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ® Store.
+The ® Discovery application uses the IBM WebSEAL patterns to find WebSEAL applications, web application servers, and junctions on your infrastructure. Discovering some of these resources requires installing the Discovery and Service Mapping Patterns application from the ® Store.
 
 ## Request apps on the Store
 
@@ -433,7 +433,3 @@ Webseal \[cmdb\_ci\_app\_server\_webseal\]
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

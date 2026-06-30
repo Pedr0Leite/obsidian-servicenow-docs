@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Choice Map form
 
-Learn about the fields of the [[choice-map-form-ppw|Choice Map form]], which are used while creating a custom choice mapping configuration for [[spw-jira-landing|SPW Jira Integrations]].
+Learn about the fields of the Choice Map form, which are used while creating a custom choice mapping configuration for SPW Jira Integrations.
 
 <table id="table_bcl_yt4_nhc"><thead><tr><th>
 
@@ -64,7 +64,3 @@ Field Map record for which this choice mapping is created.This field is auto-pop
 
 [Create custom choice mapping for SPW Jira integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/custom-mapping-configuration-spw-jira.md)
 
-## Related
-
-- [[choice-map-form-ppw|Choice map form]]
-- [[spw-jira-landing|SPW Jira Integrations]]

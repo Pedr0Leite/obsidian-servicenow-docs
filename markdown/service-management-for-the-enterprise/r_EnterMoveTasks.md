@@ -21,8 +21,5 @@ Before a move can be executed, destination locations for all users must be compl
 -   One per user moving. Useful for tracking actual users moves in detail.
 -   When the user move task is closed, the location of the users and their assets are updated.
 
-**Parent Topic:**[[c_MovePlanningTool|Move planning tool]]
+**Parent Topic:**[Move planning tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_MovePlanningTool.md)
 
-## Related
-
-- [[c_MovePlanningTool|Move planning tool]]

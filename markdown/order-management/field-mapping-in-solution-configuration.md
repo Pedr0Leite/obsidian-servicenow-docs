@@ -14,7 +14,7 @@ breadcrumb: [Solution configurations, CPQ, Configure, price, quote, Explore, Sal
 
 Field mapping defines how field values pass from a parent blueprint to a child blueprint when a solution configuration session is running.
 
-When you configure a configurable product action, you can define field mappings that specify which parent [[fields|fields]] send their values to which child fields. Field mapping runs when a child configuration is created and again whenever a mapped source field changes.
+When you configure a configurable product action, you can define field mappings that specify which parent fields send their values to which child fields. Field mapping runs when a child configuration is created and again whenever a mapped source field changes.
 
 Field mapping is directional: values flow only from parent to child, one level at a time. To continue mapping across multiple levels, define the mappings on each blueprint in the chain.
 
@@ -38,14 +38,9 @@ You can map fields of the same type only. The following field types are supporte
 **Related topics**  
 
 
-[[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
+[Define field mappings for a solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-field-mappings-sol-config.md)
 
 [Field mapping supported field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[create-configurable-product-action|Create a configurable product action]]
+[Create a configurable product action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-configurable-product-action.md)
 
-## Related
-
-- [[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
-- [[create-configurable-product-action|Create a configurable product action]]
-- [[fields|Fields]]

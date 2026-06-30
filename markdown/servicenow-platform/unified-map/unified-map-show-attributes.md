@@ -14,7 +14,7 @@ breadcrumb: [Use, Unified Map, Configuration Management Database \(CMDB\), Confi
 
 # View the attributes of a CI or a relationship
 
-Open the **Attributes** panel in [[cmdb-workspace-unified-map|Unified Map]] to view attributes like location and life cycle stage for a CI or a relationship.
+Open the **Attributes** panel in Unified Map to view attributes like location and life cycle stage for a CI or a relationship.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ In a CI card on the **Service instances** panel, select the **Actions** menu and
 
 Select a mapped service instance \(formerly application service\) CI \[cmdb\_ci\_service\_discovered\] on the map to display its entry points on the **Attributes** panel.
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

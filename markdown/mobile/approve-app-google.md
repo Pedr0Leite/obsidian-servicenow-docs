@@ -29,8 +29,5 @@ Role required: none, however, you must either go to Google Play through the MDM,
     \[Omitted image "ApproveAndroidApp.png"\] Alt text: App in the Google Play store with the Approve button highlighted
 
 
-**Parent Topic:**[[mobile-vendors|Supported mobile device management vendors]]
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-vendors.md)
 
-## Related
-
-- [[mobile-vendors|Supported mobile device management vendors]]

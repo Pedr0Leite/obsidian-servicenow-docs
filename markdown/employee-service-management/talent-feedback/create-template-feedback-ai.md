@@ -20,7 +20,7 @@ As an admin, you can create feedback templates using survey designer that manage
 
 Role required: admin
 
--   Ensure Scope/Application of the Survey Template is **[[talent-feedback-landing|Talent feedback]] \(sn\_tf\)**
+-   Ensure Scope/Application of the Survey Template is **Talent feedback \(sn\_tf\)**
 -   Ensure the Active field on the Survey Template \(**asmt\_metric\_type\) is true**
 -   Ensure Publish State on the Survey Template is **Published**
 -   Ensure ALL metrics \(questions in the survey\) have datatype: **scale, numericscale, or string ONLY**
@@ -44,6 +44,4 @@ Role required: admin
     -   The description of the survey is shown to the managers in the agent flow during the template selection step.
 5.  Select the **Availability** tab and complete the form.
 
-## Related
 
-- [[talent-feedback-landing|Talent Feedback]]

@@ -14,7 +14,7 @@ breadcrumb: [Password complexity requirements, Local authentication, Authenticat
 
 # Unsupported password characters
 
-There are password characters that are not supported. [[users|Users]] cannot use these characters, based on ServiceNow [[password-complexity-requirements|password complexity requirements]].
+There are password characters that are not supported. Users cannot use these characters, based on ServiceNow password complexity requirements.
 
 To enable a secure network environment, it is necessary for users to use strong passwords that include combination of letters, numbers, and symbols. These combinations help to prevent unauthorized users who usually use manual or automated methods to guess weak passwords.
 
@@ -23,10 +23,5 @@ To enable a secure network environment, it is necessary for users to use strong 
 
 **Note:** User or company-specific characters that cannot be used in the password can be configured in the exclude password list.
 
-For more information about the [[password-policy-properties|password policy properties]], see [password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md).
+For more information about the password policy properties, see [password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md).
 
-## Related
-
-- [[users|Users]]
-- [[password-complexity-requirements|Password complexity requirements]]
-- [[password-policy-properties|Password policy properties]]

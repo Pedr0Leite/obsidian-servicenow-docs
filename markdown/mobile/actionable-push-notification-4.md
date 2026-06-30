@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  **System Mobile** &gt; **[[sg-mobile-push-notifications|Mobile Push Notifications]]** &gt; **[[sg-mobile-security-push-notif|Push Notifications]]**, and open the notification you created in previous steps.
+1.  **System Mobile** &gt; **Mobile Push Notifications** &gt; **Push Notifications**, and open the notification you created in previous steps.
 
 2.  In the **Push Action Instances** related list, click **New**.
 
@@ -76,10 +76,5 @@ In the push action instance shown here, the `Approve` push action is selected in
 
 \[Omitted image "action-push-example-2.png"\] Alt text: Push action instance associating an action with a function
 
-**Parent Topic:**[[actionable-push-notification|Configure actionable push notifications]]
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)
 
-## Related
-
-- [[actionable-push-notification|Configure actionable push notifications]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

@@ -12,7 +12,7 @@ breadcrumb: [Add a reference field, Reference field type, Reference, Field admin
 
 # Enable dynamic creation for reference fields
 
-When dynamic creation is enabled, entering a nonexistent value in a [[reference-email-admin|reference]] field creates a new record on the referenced table instead of returning an error.
+When dynamic creation is enabled, entering a nonexistent value in a reference field creates a new record on the referenced table instead of returning an error.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ By default, a user must enter a value in a reference field that matches an exist
 
 1.  Right-click the field label in the form and select **Configure Dictionary**.
 
-2.  Populate the following fields \(you may need to configure the [[dictionary-form-ais|Dictionary form]]\):
+2.  Populate the following fields \(you may need to configure the Dictionary form\):
 
     -   **dynamic\_creation**: Select the check box.
     -   **dynamic\_creation\_script**: Enter a script that dynamically creates the record.
@@ -70,10 +70,5 @@ By default, a user must enter a value in a reference field that matches an exist
 **Related topics**  
 
 
-[[configure-form-layout|Configuring the form layout]]
+[Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[reference-email-admin|Reference]]
-- [[dictionary-form-ais|Dictionary form]]

@@ -20,7 +20,7 @@ Role required: Admin
 
 ## Procedure
 
-1.  In the CPQ navigation pane, click **[[blueprints|Blueprints]]**.
+1.  In the CPQ navigation pane, click **Blueprints**.
 
     \[Omitted image "cpq-blueprints.png"\] Alt text: Menu
 
@@ -28,7 +28,7 @@ Role required: Admin
 
     \[Omitted image "cpq-blueprints-admin-click-name.png"\] Alt text: Blueprints
 
-3.  On the Blueprint Admin page, in the Associated [[fields|Fields]] tab, click **Associate fields**.
+3.  On the Blueprint Admin page, in the Associated Fields tab, click **Associate fields**.
 
     \[Omitted image "cpq-blueprints-associate-fields-arrow.png"\] Alt text: Associate fields
 
@@ -46,7 +46,3 @@ Role required: Admin
 
 [Create a field using the Administration UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]

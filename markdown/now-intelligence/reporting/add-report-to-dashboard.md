@@ -14,13 +14,13 @@ breadcrumb: [Distribute reports, Core UI Reporting, Reporting, Reporting, dashbo
 
 # Add a report to a responsive dashboard
 
-Make actionable decisions faster by combining relevant reports and [[widgets|widgets]] onto a dashboard. Navigating to single reports and widgets is time-consuming and less efficient.
+Make actionable decisions faster by combining relevant reports and widgets onto a dashboard. Navigating to single reports and widgets is time-consuming and less efficient.
 
 ## Before you begin
 
-Role required: Any user who can [[t_CreateYourOwnReport|create a report]] can add it to a responsive dashboard.
+Role required: Any user who can create a report can add it to a responsive dashboard.
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If your instance is a new Australia instance or migrated to [[par-workspace|Platform Analytics experience]], see [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]].
+This topic refers to Reporting in the Core UI. If your instance is a new Australia instance or migrated to Platform Analytics experience, see [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md).
 
 Watch this eight-minute video to learn about generating reports, creating reports in the Report Designer, and sharing and scheduling reports.
 
@@ -28,7 +28,7 @@ Watch this eight-minute video to learn about generating reports, creating report
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**.
 
 2.  Select the report you want to add.
 
@@ -45,11 +45,3 @@ Watch this eight-minute video to learn about generating reports, creating report
 
 **Parent Topic:**[Distribute reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_DistributeReports.md)
 
-## Related
-
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[widgets|Widgets]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

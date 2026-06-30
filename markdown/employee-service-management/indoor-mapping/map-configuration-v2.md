@@ -22,7 +22,7 @@ Select the **Map Configuration** tab to open the Map configuration page. For mor
 
 ## Georeference
 
-[[georeference-floor-plan|Georeference your floor plan]] and position it on the map to scale and align it on the World map \(OpenStreetMap\). For more information, see [Georeference your floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/georeference-floor-plan.md).
+Georeference your floor plan and position it on the map to scale and align it on the World map \(OpenStreetMap\). For more information, see [Georeference your floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/georeference-floor-plan.md).
 
 ## Layers
 
@@ -43,6 +43,3 @@ Configure place in your CAD file and preview it on the Map Configuration preview
 
 [CAD Editor tab]()
 
-## Related
-
-- [[georeference-floor-plan|Georeference your floor plan]]

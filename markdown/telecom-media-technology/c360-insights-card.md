@@ -23,11 +23,7 @@ The following insights are displayed on the card:
 
 \[Omitted image "c360-insights.jpg"\] Alt text: Customer 360 insights
 
-You can configure variables such as tables, display fields, and query conditions. See [[c360-configure-insights-card|Configure the insights card variables]] for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the insights card variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-insights-card.md) for details.
 
-**Parent Topic:**[[c360-home-page|Telecommunications Customer 360 home page]]
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
-## Related
-
-- [[c360-configure-insights-card|Configure the insights card variables]]
-- [[c360-home-page|Telecommunications Customer 360 home page]]

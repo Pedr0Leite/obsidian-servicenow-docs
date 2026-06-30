@@ -24,7 +24,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\]
 
 ## About this task
 
-The insights\_owner role spreads responsibility for [[cloud-insights-landing-page|Cloud Cost Management]] activities to persons who have good knowledge of operations in the service accounts. For more information about the insights\_owner role, see [Cloud Cost Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-roles.md).
+The insights\_owner role spreads responsibility for Cloud Cost Management activities to persons who have good knowledge of operations in the service accounts. For more information about the insights\_owner role, see [Cloud Cost Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-roles.md).
 
 A service account is a secure record on your instance that holds the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter.
 
@@ -32,7 +32,7 @@ A service account is a secure record on your instance that holds the credential 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Account to owner mappings**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Account to owner mappings**.
 
 2.  Select **Assign accounts that currently have no owner**.
 
@@ -115,7 +115,3 @@ View the list of users that have the insights\_owner role and the service accoun
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Use knowledge subscriptions, Using Knowledge Management, Knowledge 
 
 # Subscribe to a knowledge article
 
-Subscribe to a knowledge article within a knowledge base to receive [[email|email]] notifications about new articles and article revisions or comments.
+Subscribe to a knowledge article within a knowledge base to receive email notifications about new articles and article revisions or comments.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Check with your admin
 
 ## About this task
 
-Users can subscribe to a knowledge article from either the [[knowledge-management|Knowledge Management]] V3 user interface or the Knowledge Management Service Portal.
+Users can subscribe to a knowledge article from either the Knowledge Management V3 user interface or the Knowledge Management Service Portal.
 
 **Note:**
 
@@ -43,7 +43,3 @@ Users can subscribe to a knowledge article from either the [[knowledge-managemen
 
 **Parent Topic:**[Use knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-knowledge-subscriptions.md)
 
-## Related
-
-- [[email|Email]]
-- [[knowledge-management|Knowledge Management]]

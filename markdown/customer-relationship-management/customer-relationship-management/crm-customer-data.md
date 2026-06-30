@@ -10,7 +10,7 @@ reading_time_minutes: 6
 
 # Customer data
 
-Configure and manage the core customer records, accounts, contacts, consumers, households, and billing accounts, that agents, sales teams, and technicians rely on across the CRM portfolio. Because customer data is shared across all [[crm-product-portfolio|CRM products]], a record created in one context is immediately available in another without duplication or manual transfer.
+Configure and manage the core customer records, accounts, contacts, consumers, households, and billing accounts, that agents, sales teams, and technicians rely on across the CRM portfolio. Because customer data is shared across all CRM products, a record created in one context is immediately available in another without duplication or manual transfer.
 
 ## Customer data entities
 
@@ -20,7 +20,7 @@ Customer data in the CRM portfolio consists of information about the people and 
 |------|------------------|-------------------|
 |Account|A customer or partner organization that your business serves or works with.|Functions as a customer account, partner account, or both. Supports hierarchical parent-child relationships across the organization.|
 |Contact|An individual employee of an account who interacts with your service organization.|Belongs to one account. Can be associated with multiple assets and service contracts. Can log in to the Customer Service Portal.|
-|Consumer|An individual customer in a B2C service model.|Operates independently of a business account. Interacts with the organization through [[crm-self-service-portals|self-service portals]] or assisted service channels.|
+|Consumer|An individual customer in a B2C service model.|Operates independently of a business account. Interacts with the organization through self-service portals or assisted service channels.|
 |Household|A group of consumers who share an address and common products or services.|Groups consumers under a designated head of household. Provides visibility into cases and account information for all members.|
 |Billing account|A financial entity that manages payment and invoicing for services, separate from the customer relationship.|Allows multiple billing arrangements per customer and consolidated billing across customers. Supports parent-child hierarchies for complex billing structures.|
 
@@ -97,7 +97,3 @@ When enabled, asset visibility on the customer portal is limited to the assigned
 
 [Configure Service Model Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-industry-data-model.md)
 
-## Related
-
-- [[crm-product-portfolio|CRM products]]
-- [[crm-self-service-portals|Self-service portals]]

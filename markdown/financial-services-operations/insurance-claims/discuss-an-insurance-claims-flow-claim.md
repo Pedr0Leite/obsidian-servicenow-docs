@@ -14,7 +14,7 @@ breadcrumb: [Use, Insurance claims, Exploring insurance claims applications, Ins
 
 # Discuss an Insurance claims claim
 
-Discuss details of an [[insurance-claims-flow|Insurance claims]] case with additional users that have access to the claim record. Use this feature to collaborate with other Insurance claims users and create or view an ongoing sidebar discussion for a case.
+Discuss details of an Insurance claims case with additional users that have access to the claim record. Use this feature to collaborate with other Insurance claims users and create or view an ongoing sidebar discussion for a case.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -47,7 +47,3 @@ This procedure references service definitions and products that are used in the 
 
 To view a discussion, select **Discuss**, and then select **Open record** for the discussion that you want to view.
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Filter with the [[microsoft-o365|Microsoft 365 integration]] profile you created to determine the exact software subscription information to be pulled from Microsoft 365 admin center to ServiceNow.
+1.  Filter with the Microsoft 365 integration profile you created to determine the exact software subscription information to be pulled from Microsoft 365 admin center to ServiceNow.
 
     This subscription includes all subscriptions available on the Microsoft 365 admin center.
 
@@ -30,7 +30,7 @@ Role required: sam\_admin
 
     **Note:**
 
-    [[c_SoftwareAssetMgmt|Software Asset Management]] pulls the last activity date for Microsoft 365 products using a combination of Microsoft System Center Configuration Manager \(SCCM\) integration and Microsoft 365 integration.
+    Software Asset Management pulls the last activity date for Microsoft 365 products using a combination of Microsoft System Center Configuration Manager \(SCCM\) integration and Microsoft 365 integration.
 
 3.  If your Microsoft 365 subscription data isn’t getting pulled into Software Asset Management, verify your integration setup:
 
@@ -62,7 +62,4 @@ Role required: sam\_admin
 
     For more information, see [Associate a user with subscription records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/map-user-data.md).
 
-## Related
 
-- [[microsoft-o365|Microsoft 365 integration]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

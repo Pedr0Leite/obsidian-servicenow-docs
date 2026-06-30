@@ -28,7 +28,7 @@ Entity
 
 </td><td>
 
-This field label will display the chosen entity type. Entity types that can be linked to an evidence record include: **Persons**, **Locations**, **Events**, **Vehicles**, **Properties**, **Firearms**, and **Organizations**, and is chosen via the tabs in Evidence Management. Choose an existing entity record from the case\(s\) linked to this evidence record by entering and selecting it in the field. If the entity you need isn't listed, make sure it has already been created in the Entity tab on the case linked to the evidence. For information on how to create an entity record within a case, see [[psds-using-icm-add-entities|Add entities to an investigative case using Investigative Case Management Entity Management]].
+This field label will display the chosen entity type. Entity types that can be linked to an evidence record include: **Persons**, **Locations**, **Events**, **Vehicles**, **Properties**, **Firearms**, and **Organizations**, and is chosen via the tabs in Evidence Management. Choose an existing entity record from the case\(s\) linked to this evidence record by entering and selecting it in the field. If the entity you need isn't listed, make sure it has already been created in the Entity tab on the case linked to the evidence. For information on how to create an entity record within a case, see [Add entities to an investigative case using Investigative Case Management Entity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md).
 
 </td></tr><tr><td>
 
@@ -373,7 +373,3 @@ Provides additional details and description about the **Organization**'s relatio
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-using-icm-add-entities|Add entities to an investigative case using Investigative Case Management Entity Management]]

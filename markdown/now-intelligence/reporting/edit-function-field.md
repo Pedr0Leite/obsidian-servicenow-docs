@@ -22,7 +22,7 @@ Role required: admin, function\_field\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  Select a report based on the table that you want to add a function field to.
 
@@ -49,6 +49,3 @@ The results of the edited function field replace the old results in all reports 
 
 **Parent Topic:**[Report on function fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/function-fields-reporting.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -24,7 +24,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Portals**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Portals**.
 
 2.  Select a portal.
 
@@ -57,6 +57,3 @@ If any content in your portal isn’t automatically mirrored for right-to-left l
 
 **Parent Topic:**[Styling for right-to-left languages in portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/styling-right-to-left-languages.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

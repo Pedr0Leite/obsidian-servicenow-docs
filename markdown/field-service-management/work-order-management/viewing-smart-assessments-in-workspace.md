@@ -18,7 +18,7 @@ Technicians can use the configurable workspace to view, complete, and submit que
 
 ## Before you begin
 
--   Users with the questionnaire\_reader role can view [[smart-assessment-questionnaire|smart assessment questionnaires]] related to work order tasks, but cannot edit them.
+-   Users with the questionnaire\_reader role can view smart assessment questionnaires related to work order tasks, but cannot edit them.
 -   The questionnaire\_user role is part of the wm\_agent role. Technicians who have the wm\_agent role and the category role can view and update Smart Assessment questionnaires associated with the category role.
 
 Role required: wm\_agent
@@ -58,6 +58,3 @@ Role required: wm\_agent
 
 Submitting the questionnaire changes its state from **Work In Progress** to **Completed**, and the workspace is updated.
 
-## Related
-
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]

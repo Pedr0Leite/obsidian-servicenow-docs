@@ -14,7 +14,7 @@ breadcrumb: [Manage phase-wise Software Asset Management implementation, Using S
 
 # Set the domain-specific property to publish your software products
 
-Use the domain separation application property of [[c_SoftwareAssetMgmt|Software Asset Management]] to set the publish software products property for specific domains.
+Use the domain separation application property of Software Asset Management to set the publish software products property for specific domains.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ Publish the software products that you want to manage as part of phase-wise impl
 
 [Remove published software products]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

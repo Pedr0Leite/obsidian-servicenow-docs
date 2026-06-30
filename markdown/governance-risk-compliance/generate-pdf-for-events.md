@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Man
 
 # Generate event reports in PDF or Microsoft Word
 
-Generate the PDF or Microsoft Word copy of an exercise or a crisis event in the [[bcm-workspace|BCM Configurable Workspace]] and save it for a future reference.
+Generate the PDF or Microsoft Word copy of an exercise or a crisis event in the BCM Configurable Workspace and save it for a future reference.
 
 ## Before you begin
 
@@ -20,20 +20,20 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-To format the PDF for your business needs, see [[update-pdf-format-for-bia-bcp-event|Format PDF templates for BIAs, BCPs, and Events]].
+To format the PDF for your business needs, see [Format PDF templates for BIAs, BCPs, and Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-pdf-format-for-bia-bcp-event.md).
 
 Beginning with the Xanadu release, the content in PDFs of Business Impact Analyses, Plans, and Events is improved by implementing a new layout:
 
 -   Arrange the various event tasks in a table format.
--   Include details of the asset owner and the description from the [[bia-uib|Business Impact Analysis]].
+-   Include details of the asset owner and the description from the Business Impact Analysis.
 -   Display a table that outlines the dependencies of the plan assets.
 -   Mark the date of the PDF creation on the front page.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]**.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises**.
 
-2.  Select any event record that is in the **Review** or next state from the [[list-view-uib-ws|list view]].
+2.  Select any event record that is in the **Review** or next state from the list view.
 
     You can use the same process of generating the PDF for a crisis event.
 
@@ -59,19 +59,10 @@ Beginning with the Xanadu release, the content in PDFs of Business Impact Analys
 
     Generate a report of the event or crisis record in Microsoft Word format. The Microsoft Word copy of the BIA record is successfully generated that you can download.
 
-    For more information on generating reports in Microsoft Word format using Document designer, see [[integrating-document-designer-with-bcm|Generating reports using Document designer]].
+    For more information on generating reports in Microsoft Word format using Document designer, see [Generating reports using Document designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/integrating-document-designer-with-bcm.md).
 
 8.  To print the report, open the saved PDF or Microsoft Word copy and select **Print**.
 
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[update-pdf-format-for-bia-bcp-event|Format PDF templates for BIAs, BCPs, and Events]]
-- [[integrating-document-designer-with-bcm|Generating reports using Document designer]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[bia-uib|Business impact analysis]]
-- [[exercise-management-uib|Exercises]]
-- [[list-view-uib-ws|List view]]

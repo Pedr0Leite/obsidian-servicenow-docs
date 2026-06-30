@@ -14,7 +14,7 @@ breadcrumb: [Customizing Password Reset processes, Configuring Password Reset, P
 
 # Customize password reset processes and integrate third-party credential services
 
-To customize [[password-reset-landing-page|password reset]] processes or to integrate them with third-party credential services such as Okta or Microsoft Entra ID, use Integration Hub capabilities. Use Workflow Studio to create or modify actions like user unlock, change password, and get user status. Use Workflow Studio to create or modify subflows that perform the actions.
+To customize password reset processes or to integrate them with third-party credential services such as Okta or Microsoft Entra ID, use Integration Hub capabilities. Use Workflow Studio to create or modify actions like user unlock, change password, and get user status. Use Workflow Studio to create or modify subflows that perform the actions.
 
 ## Before you begin
 
@@ -232,7 +232,7 @@ Choice
 </td></tr></tbody>
 </table>3.  For third party providers, [create a credential store type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateACredentialStoreType.md).
 
-    1.  Select the **Use Flow** [[check-box|check box]].
+    1.  Select the **Use Flow** check box.
 
     2.  Select the password reset subflows that you created for the provider.
 
@@ -251,7 +251,3 @@ The password reset mechanism for the required third-party application is set up.
 
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]

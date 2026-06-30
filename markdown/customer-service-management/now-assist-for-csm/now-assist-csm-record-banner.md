@@ -27,7 +27,7 @@ The generative AI banner displays information about the fields on a form that ar
 
 Messages also include links to the fields that are generated or predicted by Now Assist for CSM.
 
-\[Omitted image "now-assist-csm-case-banner.png"\] Alt text: Banner with links to predicted fields in [[csm-workspaces-configure|CSM Configurable Workspace]]
+\[Omitted image "now-assist-csm-case-banner.png"\] Alt text: Banner with links to predicted fields in CSM Configurable Workspace
 
 ## Links to generated or predicted fields
 
@@ -41,16 +41,8 @@ A record page provides the base structure for how a record is displayed in CSM C
 
 Set the following pages as the default record pages in UI Builder:
 
--   **[[csm-default-record-page|CSM default record page]]**: Includes specific features for [[case-management|case management]].
--   **[[csm-interaction-record-page|CSM Interaction record page]]**: Includes CSM-specific features for interaction management.
+-   **CSM default record page**: Includes specific features for case management.
+-   **CSM Interaction record page**: Includes CSM-specific features for interaction management.
 
-These pages support the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] functionality in CSM Configurable Workspace, including the display of the generative AI icon and banner. For more information, see [[config-csm-ws-set-record-page-order|Set record page order]].
+These pages support the Now Assist for Customer Service Management \(CSM\) functionality in CSM Configurable Workspace, including the display of the generative AI icon and banner. For more information, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
-## Related
-
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-default-record-page|CSM default record page]]
-- [[case-management|Case management]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

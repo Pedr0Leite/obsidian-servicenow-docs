@@ -28,7 +28,7 @@ Users with the wm\_admin role can create and edit SLAs or delete them from work 
 
 **Note:** The SLA applies to the work order. All associated work order tasks must be completed within the SLA time period to meet the SLA.
 
-SLA details show on the task card in the task panel and the calendar in the [[dispatcher-activities|Dispatcher Workspace]]. The number on the card in the task panel is the amount of time remaining before the SLA is breached. The horizontal line that appears under the task in the calendar view is a task bar. The bar and the number in the task panel, indicate the state of task SLA with different colors based on the following SLA durations.
+SLA details show on the task card in the task panel and the calendar in the Dispatcher Workspace. The number on the card in the task panel is the amount of time remaining before the SLA is breached. The horizontal line that appears under the task in the calendar view is a task bar. The bar and the number in the task panel, indicate the state of task SLA with different colors based on the following SLA durations.
 
 |SLA duration|Bar color|
 |------------|---------|
@@ -43,6 +43,3 @@ SLA details show on the task card in the task panel and the calendar in the [[di
 
 [Manage a work order SLA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_ManageAWorkOrderSLA.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring 360º views for services and processes, Configure, Oper
 
 # Service \(CMDB\) Main node configuration
 
-The Service \(CMDB\) Main node configuration defines the relationships for the services. Existing customers typically use the Service \(CMDB\) Main node configuration, while new customers use the [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]. Administrators can display or hide the Services overview or Business services overview based on organizational needs.
+The Service \(CMDB\) Main node configuration defines the relationships for the services. Existing customers typically use the Service \(CMDB\) Main node configuration, while new customers use the Opres with CSDM header Main node configuration. Administrators can display or hide the Services overview or Business services overview based on organizational needs.
 
 For the Service \(CMDB\) Main node configuration, the source typically used is OpRes CMDB and the table used is Configuration Item \[cmdb\_ci\].
 
@@ -22,6 +22,3 @@ You can configure the node relationships such as the sequence, source table, rel
 
 \[Omitted image "node-rel-config-bs.png"\] Alt text: Business Service \(CMDB\) Main node configuration.
 
-## Related
-
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]

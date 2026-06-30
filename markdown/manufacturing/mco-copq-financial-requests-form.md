@@ -126,8 +126,5 @@ Description
 Detailed description of the CoPQ financial requests.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]

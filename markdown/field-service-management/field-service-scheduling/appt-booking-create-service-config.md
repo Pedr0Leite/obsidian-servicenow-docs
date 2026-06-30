@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Create or modify service configuration for Appointment Booking
 
-Service-level [[appointment-booking|appointment booking]] enables customers to easily schedule specific services like installation, AC repair, or configuring printers, by customizing appointment availability, lead times, notifications, and booking rules.
+Service-level appointment booking enables customers to easily schedule specific services like installation, AC repair, or configuring printers, by customizing appointment availability, lead times, notifications, and booking rules.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Appointment Booking determines work and travel duration for appointment booking 
 
 2.  Select the desired configuration.
 
-    -   To [[configure-appointment-booking|configure appointment booking]] service for work orders, select **Field Service Order Configuration**
+    -   To configure appointment booking service for work orders, select **Field Service Order Configuration**
     -   To configure appointment booking service for work order tasks, select **Field Service Task Configuration**
 3.  In the Appointment Booking Service Configuration related list, click **New**.
 
@@ -105,16 +105,16 @@ Availability Method
 
 </td><td>
 
-Use one of the methods to determine appointment availability for the service. You can choose the availability method depending on the [[fsm-application-landing-page|Field Service Management]] configuration setting in the **Assignment method for tasks** field of [[t_ConfigureFieldService|Global domain configurations]]. **Note:** The availability method setting for the service overrides the availability method setting in the application configuration unless **Appointment configuration method** is selected.
+Use one of the methods to determine appointment availability for the service. You can choose the availability method depending on the Field Service Management configuration setting in the **Assignment method for tasks** field of [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md). **Note:** The availability method setting for the service overrides the availability method setting in the application configuration unless **Appointment configuration method** is selected.
 
 The available methods are:-   **Number of appointments per slot**: Sets a fixed number of available appointments per time slot. Recommended if task assignment is manual.
--   **Scripted**: Dynamically calculates availability based on Field Service Management settings. Recommended if auto-assignment or [[dynamic-scheduling|dynamic scheduling]] is used. This is the default setting.
--   **Based on [[capacity|capacity]]**: Calculates availability based on the capacity defined in the capacity management settings. For more information, see [Create a capacity assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-work-based-on-the-defined-capacity-.md)
+-   **Scripted**: Dynamically calculates availability based on Field Service Management settings. Recommended if auto-assignment or dynamic scheduling is used. This is the default setting.
+-   **Based on capacity**: Calculates availability based on the capacity defined in the capacity management settings. For more information, see [Create a capacity assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/assign-work-based-on-the-defined-capacity-.md)
 
-This option is available when the Task Table is selected as work\_order and Field Service [[capacity-management|Capacity and Reservations Management]] plugin is installed.
+This option is available when the Task Table is selected as work\_order and Field Service Capacity and Reservations Management plugin is installed.
 
 -   **Appointment configuration method**: This is the default option. It calculates availability based on the availability method setting in the appointment booking application configuration.
-For more information on appointment availability methods, see [[appt-booking-task-assignment|Learn about appointment availability settings]].
+For more information on appointment availability methods, see [Learn about appointment availability settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-task-assignment.md).
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Catalog Item
 
 Select the catalog item \(service\) for which this configuration applies.**Note:** The catalog item must exist in the service catalog.
 
-Before [[appointment-booking-administer|configuring appointment booking]] with work orders, ensure you [[t_CreateAWorkOrderTemplate|create a work order template]]. Similarly, if you are using appointment booking with work order tasks, [[create-wot-template|create a work order task template]] first.
+Before configuring appointment booking with work orders, ensure you create a work order template. Similarly, if you are using appointment booking with work order tasks, create a work order task template first.
 
 </td></tr><tr><td>
 
@@ -394,16 +394,3 @@ The service-level appointment booking configuration is set up or updated. Users 
 
 For further customization, you can create **service configuration rules** to define specific booking conditions or exceptions for individual locations or scenarios. For more information, see [Create service configuration rules for a service configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-booking-service-config-rules.md).
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[appt-booking-task-assignment|Learn about appointment availability settings]]
-- [[appointment-booking|Appointment booking]]
-- [[configure-appointment-booking|Configure Appointment Booking]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[appointment-booking-administer|Configuring Appointment Booking]]
-- [[t_CreateAWorkOrderTemplate|Create a work order template]]
-- [[create-wot-template|Create a work order task template]]

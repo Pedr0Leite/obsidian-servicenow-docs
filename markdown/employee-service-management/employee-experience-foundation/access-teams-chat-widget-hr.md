@@ -14,7 +14,7 @@ breadcrumb: [Employee actions, Use ITSM and HRSD integrations with Microsoft Tea
 
 # Access a Microsoft Teams chat in Employee Center
 
-Access a ticket's Microsoft Teams chat in the [[employee-center-landing-page|Employee Center]].
+Access a ticket's Microsoft Teams chat in the Employee Center.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Messages are loaded dynamically. The Teams Chat widget does not display message 
 
 **Parent Topic:**[Employee actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-sn-ms-teams.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure activity stream notifications, Push notifications, Before
 
 # Configure push notifications for mobile activity stream mentions
 
-Enable users to alert their contacts, through the use [[sg-mobile-security-push-notif|push notifications]], that they are mentioned in a thread. The user enters the `@` character followed by the contact's name in a record's activity stream, for their contact to be alerted.
+Enable users to alert their contacts, through the use push notifications, that they are mentioned in a thread. The user enters the `@` character followed by the contact's name in a record's activity stream, for their contact to be alerted.
 
 ## Before you begin
 
@@ -58,8 +58,8 @@ Push app
 
 </td><td>
 
-Mobile app that uses your push notification.-   Enter **ServiceNow Mobile Application** for the [[mobile-experience|Mobile Agent app]].
--   Enter **ServiceNow Request Application** for the [[now-mobile-app|Now Mobile app]].
+Mobile app that uses your push notification.-   Enter **ServiceNow Mobile Application** for the Mobile Agent app.
+-   Enter **ServiceNow Request Application** for the Now Mobile app.
 
 
 </td></tr></tbody>
@@ -87,7 +87,7 @@ Mobile app that uses your push notification.-   Enter **ServiceNow Mobile Applic
 
         Customize the values in the code:
 
-        1.  Locate the sys\_id of the [[form-screen|record screen]] by right-clicking on the screen name and selecting **Copy sys\_id**.
+        1.  Locate the sys\_id of the record screen by right-clicking on the screen name and selecting **Copy sys\_id**.
         2.  Replace the `<form_screen_sys_id>` portion of the code with the sys\_id.
         3.  Define a client type in the variable `global.MobileDeepLinkGenerator` Possible values are:
             -   agent
@@ -196,7 +196,7 @@ Message that appears to the user's contacts, informing them they are mentioned.
 
     10. Select **Submit**.
 
-4.  Enable your [[manager-user-settings|mobile app settings]] for notifications.
+4.  Enable your mobile app settings for notifications.
 
     1.  Select the Settings icon \(\[Omitted image "GearIcon.png"\] Alt text: Settings icon.\) and select the **Notifications** tab.
 
@@ -205,13 +205,5 @@ Message that appears to the user's contacts, informing them they are mentioned.
     3.  Verify that the mobile app you selected to receive notifications is enabled by noting the setting of either the **ServiceNow Mobile Application** or **ServiceNow Request application** field.
 
 
-**Parent Topic:**[[notification-activity-stream|Configure notifications for mobile activity stream mentions]]
+**Parent Topic:**[Configure notifications for mobile activity stream mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/notification-activity-stream.md)
 
-## Related
-
-- [[notification-activity-stream|Configure notifications for mobile activity stream mentions]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]
-- [[form-screen|Record screen]]
-- [[manager-user-settings|Mobile app settings]]

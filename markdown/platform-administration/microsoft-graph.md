@@ -12,7 +12,7 @@ breadcrumb: [Read email using Microsoft Graph, Read or send emails using Microso
 
 # Configure an OAuth profile to use a client ID and secret for token generation
 
-Configure an OAuth profile using a client ID and client secret to [[t_ConfigureAnEmailAccount|create an email account]] for using Microsoft Graph \(receive\) in your email account type.
+Configure an OAuth profile using a client ID and client secret to create an email account for using Microsoft Graph \(receive\) in your email account type.
 
 ## Before you begin
 
@@ -71,7 +71,7 @@ Role required: admin and Microsoft Azure portal administrator
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
 
-**Parent Topic:**[[read-email-using-ms-graph|Reading email using Microsoft Graph]]
+**Parent Topic:**[Reading email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/read-email-using-ms-graph.md)
 
 **Related topics**  
 
@@ -82,7 +82,7 @@ Role required: admin and Microsoft Azure portal administrator
 
 ## Register an application as an OAuth provider
 
-Use the information generated during Microsoft Azure account configuration to [[register-application-oauth-send-msgraph|register an application as an OAuth provider]].
+Use the information generated during Microsoft Azure account configuration to register an application as an OAuth provider.
 
 ### Before you begin
 
@@ -136,7 +136,7 @@ OAuth API Script
 
 </td><td>
 
-OAuth API script name. For more information see, [[oauth-api-script|OAuth API Script]]. **Note:** This is required only while using certificates.
+OAuth API script name. For more information see, [OAuth API Script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md). **Note:** This is required only while using certificates.
 
 </td></tr><tr><td>
 
@@ -184,12 +184,5 @@ Redirect URL
 
 ### What to do next
 
-[[create-email-account-ms-graph|Create an email account for Microsoft Graph \(receive\)]] using the OAuth profile.
+[Create an email account for Microsoft Graph \(receive\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-ms-graph.md) using the OAuth profile.
 
-## Related
-
-- [[read-email-using-ms-graph|Reading email using Microsoft Graph]]
-- [[oauth-api-script|Create an OAuth API script]]
-- [[create-email-account-ms-graph|Create an email account for Microsoft Graph \(receive\)]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[register-application-oauth-send-msgraph|Register an application as an OAuth provider]]

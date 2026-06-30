@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer\_agent, sn\_customerservice\_manager
 
 ## About this task
 
-When you create a case from a support conversation, the system copies the conversation history to the case [[csm-config-ws-activity-stream|activity stream]] as comments and work notes. Future messages are tracked in the case as well.
+When you create a case from a support conversation, the system copies the conversation history to the case activity stream as comments and work notes. Future messages are tracked in the case as well.
 
 ## Procedure
 
@@ -38,13 +38,10 @@ When you create a case from a support conversation, the system copies the conver
 
 5.  In the Connect actions menu, select Create Case.
 
-    The system opens a new [[r_CustomerServiceCaseForm|Case form]] and fills in some of the fields based on the conversation details. \(For a case created from a consumer chat, the **Consumer** field is filled in and the **Short description** field displays the initial chat request from the consumer.\)
+    The system opens a new Case form and fills in some of the fields based on the conversation details. \(For a case created from a consumer chat, the **Consumer** field is filled in and the **Short description** field displays the initial chat request from the consumer.\)
 
 6.  Complete the form as necessary and click **Submit**.
 
     The system shares the record in the conversation, copies the conversation to the record activity stream, and references the record on the Chat Queue Entry \[chat\_queue\_entry\] table.
 
-## Related
 
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[r_CustomerServiceCaseForm|Case form]]

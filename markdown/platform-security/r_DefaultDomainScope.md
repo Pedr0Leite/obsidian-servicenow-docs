@@ -12,7 +12,7 @@ breadcrumb: [Setup and administration, Domain separation for service providers, 
 
 # Domain system properties and user preferences
 
-Administrators have access to properties and user preferences that control [[c_DomainScope|domain scope]].
+Administrators have access to properties and user preferences that control domain scope.
 
 ## Properties
 
@@ -122,7 +122,7 @@ Admin Only
 
 </td><td>
 
-When true, sets the default scope to the user's session domain rather than the record's domain. When false, the default scope is the record's domain. [[users|Users]] with the domain\_expand\_scope user role can still change the domain scope as needed.-   **Type**: true \| false
+When true, sets the default scope to the user's session domain rather than the record's domain. When false, the default scope is the record's domain. Users with the domain\_expand\_scope user role can still change the domain scope as needed.-   **Type**: true \| false
 -   **Default value**: false
 
 </td></tr><tr><td>
@@ -146,10 +146,5 @@ When true, displays a visual cue that record values include an expanded domain s
 </table>**Related topics**  
 
 
-[[ds-application-properties|Domain separation application properties]]
+[Domain separation application properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ds-application-properties.md)
 
-## Related
-
-- [[ds-application-properties|Domain separation application properties]]
-- [[c_DomainScope|Domain scope]]
-- [[users|Users]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for Strategic Portfolio Management \(SPM\), S
 
 # Skill inputs for Now Assist for Strategic Portfolio Management \(SPM\)
 
-Learn about the inputs of each skill for the [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] application. By configuring the inputs for a skill, you can determine how and when a skill is used.
+Learn about the inputs of each skill for the Now Assist for Strategic Portfolio Management \(SPM\) application. By configuring the inputs for a skill, you can determine how and when a skill is used.
 
 ## Now Assist for Strategic Portfolio Management \(SPM\) Overview
 
@@ -94,7 +94,7 @@ Related lists
 </td><td>
 
 -   Work notes
--   [[demand-task|Demand tasks]]
+-   Demand tasks
 -   Cost plans
 -   Monetary benefit plans
 -   Non-monetary benefit plans
@@ -264,7 +264,3 @@ Product idea \[sn\_align\_core\_product\_idea\]
 
 [Now Assist for SPM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm-reference.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]
-- [[demand-task|Demand tasks]]

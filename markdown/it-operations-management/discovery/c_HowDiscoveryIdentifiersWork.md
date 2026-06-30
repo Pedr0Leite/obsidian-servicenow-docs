@@ -14,7 +14,7 @@ breadcrumb: [Discovery identifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # How Discovery identifiers work
 
-When [[r-discovery|Discovery]] has determined the device's class, it launches an identity probe that is configured to run one or more commands with a single authentication.
+When Discovery has determined the device's class, it launches an identity probe that is configured to run one or more commands with a single authentication.
 
 The identity probe in the base Discovery system can be configured to ask the device for information such as its serial numbers, name, and network identification. The results of this scan are processed by an identity sensor, which then passes the results to the identifier. The identifier then attempts to find a matching device in the Configuration Management Database \(CMDB\). If the identifier finds a matching CI, the identifier either updates that CI or does nothing. If the identifier cannot find a matching CI, it either creates a new CI or does nothing. If Discovery is configured to continue, the identifier launches the exploration probes configured in the classification record to gather additional information about the device. Exploration probes can be multiprobes or simple probes.
 
@@ -22,6 +22,3 @@ The identity probe in the base Discovery system can be configured to ask the dev
 
 **Parent Topic:**[Discovery identifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryIdentifiers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

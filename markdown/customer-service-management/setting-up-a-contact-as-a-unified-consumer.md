@@ -12,7 +12,7 @@ breadcrumb: [Configuring a contact as a consumer, Configuring a Unified User, Us
 
 # Setting up a contact as a consumer
 
-Set up a contact as a consumer by creating a single, unified profile that supports both the contact and consumer persona in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Set up a contact as a consumer by creating a single, unified profile that supports both the contact and consumer persona in the Customer Service Management \(CSM\) application.
 
 ## Overview of unified consumer
 
@@ -22,19 +22,12 @@ The following table describes the setup procedure for activating a unified consu
 
 |Task|Description|
 |----|-----------|
-|Update system property|Update the sn\_customerservice.consumer.allowed\_user\_types system property to display the customer\_contact extension records in the reference list. For more information, see [[activate-unified-consumer|Activate Unified Consumer]].|
-|Create and associate consumer user|Create and associate a contact with the consumer user. For more information, see [[create-and-link-a-unified-consumer-user|Create and associate a consumer user]].|
-|Assign role to a contact|Assign role \(sn\_customerservice.consumer\) to a contact. For more information, see [[assign-the-unified-consumer-role-to-a-contact|Assign the consumer role to a contact]].|
+|Update system property|Update the sn\_customerservice.consumer.allowed\_user\_types system property to display the customer\_contact extension records in the reference list. For more information, see [Activate Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-unified-consumer.md).|
+|Create and associate consumer user|Create and associate a contact with the consumer user. For more information, see [Create and associate a consumer user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-and-link-a-unified-consumer-user.md).|
+|Assign role to a contact|Assign role \(sn\_customerservice.consumer\) to a contact. For more information, see [Assign the consumer role to a contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-the-unified-consumer-role-to-a-contact.md).|
 
 **Related topics**  
 
 
-[[configuring-a-contact-as-a-unified-consumer|Configuring a contact as a consumer]]
+[Configuring a contact as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-contact-as-a-unified-consumer.md)
 
-## Related
-
-- [[activate-unified-consumer|Activate Unified Consumer]]
-- [[create-and-link-a-unified-consumer-user|Create and associate a consumer user]]
-- [[assign-the-unified-consumer-role-to-a-contact|Assign the consumer role to a contact]]
-- [[configuring-a-contact-as-a-unified-consumer|Configuring a contact as a consumer]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

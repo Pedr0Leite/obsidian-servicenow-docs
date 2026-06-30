@@ -14,7 +14,7 @@ breadcrumb: [Discovery classifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Classification for IP address discovery
 
-[[r-discovery|Discovery]] provides a way to classify devices it finds through [[r_DataCollDiscoIPAddress|IP address discovery]], even when no credentials are available.
+Discovery provides a way to classify devices it finds through IP address discovery, even when no credentials are available.
 
 When you run a discovery for IP addresses, as opposed to a configuration item \(CI\) discovery, the Discovery application makes certain assumptions about devices and the applications running on those devices from the ports that it finds open. Classification parameters for this type of Discovery are generated differently from scans in which credentials are available.
 
@@ -48,7 +48,3 @@ In the classification criteria, we can construct the following parameter with **
 snmp.snmp.sysDescr  contains  Apple AirPort
 ```
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_DataCollDiscoIPAddress|IP address discovery]]

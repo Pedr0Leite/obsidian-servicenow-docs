@@ -14,7 +14,7 @@ breadcrumb: [Bundled models, Models, Product Catalog, Asset Management, IT Servi
 
 # Publish bundled models to product catalog
 
-You can publish [[c_CreatingBundledModels|bundled models]] to the [[c_ProductCatalog|product catalog]] to make the bundled models available in the service catalog.
+You can publish bundled models to the product catalog to make the bundled models available in the service catalog.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ You can publish a bundled model only under the following conditions:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product [[c_Models|Models]]** &gt; **Bundled Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Bundled Models**.
 
 2.  Open a product model.
 
@@ -49,8 +49,3 @@ You can publish a bundled model only under the following conditions:
 
 [Remove model components from a bundle]()
 
-## Related
-
-- [[c_CreatingBundledModels|Bundled models]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

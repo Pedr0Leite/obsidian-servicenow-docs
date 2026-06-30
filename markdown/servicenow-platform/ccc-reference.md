@@ -12,28 +12,18 @@ breadcrumb: [ServiceNow Voice, Manage people and work capabilities, Extend Servi
 
 # ServiceNow Voice reference
 
-[[reference|Reference]] topics provide additional information about components installed with ServiceNow Voice.
+Reference topics provide additional information about components installed with ServiceNow Voice.
 
--   **[[instld-with-cloud-call-center|Components installed with ServiceNow Voice Core]]**  
+-   **[Components installed with ServiceNow Voice Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-cloud-call-center.md)**  
 Several types of components are installed with activation of the ServiceNow Voice Core application \(sn\_cti\_core\), including user roles, plugins, and operation handlers.
--   **[[instld-with-amazn-cnct-integ|Components installed with Amazon Connect Integration with ServiceNow Voice]]**  
-Several types of components are installed with installation of the Amazon [[c_Connect|Connect]] Integration with Voice application \(sn\_cti\_amzn\_cct\), including user roles, plugins, and operation handlers.
--   **[[instld-with-cloud-call-center-itsm|Components installed with ServiceNow Voice for ITSM]]**  
+-   **[Components installed with Amazon Connect Integration with ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-amazn-cnct-integ.md)**  
+Several types of components are installed with installation of the Amazon Connect Integration with Voice application \(sn\_cti\_amzn\_cct\), including user roles, plugins, and operation handlers.
+-   **[Components installed with ServiceNow Voice for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-cloud-call-center-itsm.md)**  
 Several contact flows and operation handlers are installed with activation of the ServiceNow Voice for ITSM application \(sn\_cti\_itsm\_cnt\).
--   **[[instld-with-ccc-csm|Components installed with ServiceNow Voice for CSM]]**  
+-   **[Components installed with ServiceNow Voice for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-ccc-csm.md)**  
 Several contact flows and operation handlers are installed with Cloud Call Center for CSM application \(sn\_cti\_csm\_cnt\).
--   **[[instld-with-hr-agent|Components installed with ServiceNow Voice for HR Agent Workspace]]**  
+-   **[Components installed with ServiceNow Voice for HR Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-hr-agent.md)**  
 Several contact flows and operation handlers are installed with ServiceNow Voice for HR Agent Workspace.
 
-**Parent Topic:**[[cloud-call-center-overview|ServiceNow Voice]]
+**Parent Topic:**[ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cloud-call-center-overview.md)
 
-## Related
-
-- [[instld-with-cloud-call-center|Components installed with ServiceNow Voice Core]]
-- [[instld-with-amazn-cnct-integ|Components installed with Amazon Connect Integration with ServiceNow Voice]]
-- [[instld-with-cloud-call-center-itsm|Components installed with ServiceNow Voice for ITSM]]
-- [[instld-with-ccc-csm|Components installed with ServiceNow Voice for CSM]]
-- [[instld-with-hr-agent|Components installed with ServiceNow Voice for HR Agent Workspace]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[reference|Reference]]
-- [[c_Connect|Connect]]

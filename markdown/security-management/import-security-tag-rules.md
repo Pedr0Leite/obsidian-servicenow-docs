@@ -20,9 +20,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Security Tags** &gt; **Tags**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Security Tags** &gt; **Tags**.
 
-2.  Choose or [[create-class-group-and-tags|create a security tag]].
+2.  Choose or [create a security tag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md).
 
 3.  Select the **Import security tag rules** related link.
 
@@ -89,7 +89,3 @@ Upload a file with delimited values. The values are parsed into security tags.
 
 **Parent Topic:**[Set up security tag groups and tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md)
 
-## Related
-
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[security-operations-landing-page|Security Operations]]

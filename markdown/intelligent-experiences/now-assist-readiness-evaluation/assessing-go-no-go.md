@@ -15,9 +15,9 @@ breadcrumb: [Use, Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Assessing readiness status
 
-The [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] app shows you a high-level overview of your go or no-go status for your organization's readiness to implement agentic AI, generative AI, or both in [[platform-now-assist-landing|Now Assist]].
+The Now Assist Readiness Evaluation app shows you a high-level overview of your go or no-go status for your organization's readiness to implement agentic AI, generative AI, or both in Now Assist.
 
-Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** and select the Home icon \[Omitted image "home-icon.png"\] Alt text: to review your assessments' [[now-assist-center-home-page|home page]].
+Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** and select the Home icon \[Omitted image "home-icon.png"\] Alt text: to review your assessments' home page.
 
 An overall ready or action-required status is determined by percentage rules. A green **Ready** button appears if over 75% of your instance is ready to implement agentic AI, generative AI, or both in Now Assist.A yellow **Action Required** button appears if 75% or less of your instance is determined to be ready to implement agentic AI, generative AI, or both in Now Assist. Each finding is broken down and automatically tagged as a product, data, or configuration issue. Having issues categorized lets you know whether you should open a Now Support case, cleanse data, or adjust platform settings.
 
@@ -39,8 +39,3 @@ Select the assessment feature's tile on the home page to be redirected to that a
 
 To impact these percentages, rerun your scheduled jobs after making your suggested assessment fixes.
 
-## Related
-
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-home-page|Home page]]

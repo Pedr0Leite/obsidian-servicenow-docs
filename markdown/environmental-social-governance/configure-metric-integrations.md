@@ -20,11 +20,11 @@ Role required: sn\_esg.program\_manager
 
 ## About this task
 
-The ServiceNow AI Platform provides a pre-configured integration to import data from Watershed. However, you can update or modify the configuration properties based on your requirements. For example, when you modify the configuration, you can specify if you want the system to automatically create metric definitions or if you want to [[override-metric-data|override metric data]].
+The ServiceNow AI Platform provides a pre-configured integration to import data from Watershed. However, you can update or modify the configuration properties based on your requirements. For example, when you modify the configuration, you can specify if you want the system to automatically create metric definitions or if you want to override metric data.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Watershed** &gt; **[[metric-integration|Metric Integration]]**.
+1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Watershed** &gt; **Metric Integration**.
 
 2.  On the Metric Integrations page, select **Watershed Integration**.
 
@@ -45,10 +45,5 @@ The ServiceNow AI Platform provides a pre-configured integration to import data 
 4.  Select **Update**.
 
 
-**Parent Topic:**[[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-watershed.md)
 
-## Related
-
-- [[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
-- [[override-metric-data|Override metric data]]
-- [[metric-integration|Metric integration]]

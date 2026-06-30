@@ -14,7 +14,7 @@ breadcrumb: [Employee relations allegation types and subtypes, Configuring Emplo
 
 # Configure an employee relations allegation type
 
-Create allegation types and subtypes to help provide details on an [[hr-case-employee-relations|employee relations]] case.
+Create allegation types and subtypes to help provide details on an employee relations case.
 
 ## Before you begin
 
@@ -92,6 +92,4 @@ Enter a description of an allegation subtype.For example, harassment can be an a
 </td></tr></tbody>
 </table>7.  Click **Submit**.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]

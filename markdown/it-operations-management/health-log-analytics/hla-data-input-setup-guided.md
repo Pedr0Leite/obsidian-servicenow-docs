@@ -15,7 +15,7 @@ breadcrumb: [Set up HLA on your instance, Configuring, Health Log Analytics, ITO
 
 # Set up data inputs in Health Log Analytics using guided setup
 
-The [[hla-landing-page|Health Log Analytics]] guided setup provides a sequence of tasks to help you create data inputs on your ServiceNow instance. Data input configuration is an essential step in setting up the Health Log Analytics application. Using guided setup ensures that you have the minimum required setup for the data input process.
+The Health Log Analytics guided setup provides a sequence of tasks to help you create data inputs on your ServiceNow instance. Data input configuration is an essential step in setting up the Health Log Analytics application. Using guided setup ensures that you have the minimum required setup for the data input process.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Once you've created the data input connector, proceed to [map your raw log data]
 
 [Supported data inputs for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-supported.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

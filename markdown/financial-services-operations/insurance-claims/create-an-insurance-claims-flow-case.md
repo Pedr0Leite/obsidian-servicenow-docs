@@ -14,7 +14,7 @@ breadcrumb: [Use, Insurance claims, Exploring insurance claims applications, Ins
 
 # Initiate an Insurance claims case
 
-Initiate an Insurance claims case on behalf of a claimant by using the [[insurance-claims-flow|Insurance claims]] application. When a customer calls in to report a claim, a claim intake specialist follows this procedure to capture important details and initiate a case.
+Initiate an Insurance claims case on behalf of a claimant by using the Insurance claims application. When a customer calls in to report a claim, a claim intake specialist follows this procedure to capture important details and initiate a case.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ This procedure references service definitions and products that are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select **Report a claim**.
 
@@ -104,7 +104,3 @@ A claim case is created in the New state and the workflow is triggered. The case
 
 Processors and adjusters assign cases to themselves and start working on them. For more information, see [Process an Insurance claims case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/process-an-insurance-claims-flow-case.md) and [Work on Insurance claims adjuster tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/manage-an-insurance-claims-flow-case.md).
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

@@ -22,7 +22,7 @@ Users on the Xanadu and Yokohama releases must install the Document Management p
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -41,14 +41,10 @@ Users on the Xanadu and Yokohama releases must install the Document Management p
 
 The document is linked in the model risk record.
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
 **Related topics**  
 
 
 [Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-services-landing-page.md)
 
-## Related
-
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]

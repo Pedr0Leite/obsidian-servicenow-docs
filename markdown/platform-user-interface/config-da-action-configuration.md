@@ -48,7 +48,7 @@ An action configuration is a record that defines how and where a declarative act
 
     The action configuration record’s sys\_id is copied to clipboard. You’ll need to use the sys\_id in UI Builder to display the action on a workspace page.
 
-    For example, you can display a restricted global list action on a specified workspace page. For instructions, see [[config-da-limit-workspace-page|Restrict a global list action to a workspace page]].
+    For example, you can display a restricted global list action on a specified workspace page. For instructions, see [Restrict a global list action to a workspace page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-da-limit-workspace-page.md).
 
 6.  Select **Submit**.
 
@@ -57,6 +57,3 @@ An action configuration is a record that defines how and where a declarative act
 
 An action configuration record is created for the form or list action, and the action configuration record's sys\_id is copied to clipboard.
 
-## Related
-
-- [[config-da-limit-workspace-page|Restrict a global list action to a workspace page]]

@@ -14,7 +14,7 @@ breadcrumb: [Linux, Operating systems discovery, Data collected by ITOM Visibili
 
 # Linux Red Hat cluster discovery
 
-[[r-discovery|Discovery]] can find Linux Red Hat clusters that offer high availability and load balancing.
+Discovery can find Linux Red Hat clusters that offer high availability and load balancing.
 
 ## Required credentials
 
@@ -266,7 +266,3 @@ Linux Server \[cmdb\_ci\_linux\_server\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]

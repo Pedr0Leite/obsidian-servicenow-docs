@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for Agile Development 2.0, Agile Development, Str
 
 # Get started with Agile Development v2 mobile app
 
-Access the [[agile-development|Agile Development]] mobile app to track your sprints, stories, and tasks.
+Access the Agile Development mobile app to track your sprints, stories, and tasks.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ Go to
 
 **Parent Topic:**[Mobile experience for Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-2-mobile-app-overview.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

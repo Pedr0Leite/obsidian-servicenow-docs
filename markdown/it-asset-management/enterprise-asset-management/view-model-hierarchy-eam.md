@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise models, Managing enterprise models and
 
 # View the enterprise model hierarchy in the Enterprise Asset Workspace
 
-View the hierarchy details of pre-assembled and user-assembled enterprise [[c_Models|models]] in a tree-like format in the [[using-eam-workspace|Enterprise Asset Workspace]].
+View the hierarchy details of pre-assembled and user-assembled enterprise models in a tree-like format in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -42,7 +42,3 @@ The Model hierarchy option is shown only for a model that's associated with a pa
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

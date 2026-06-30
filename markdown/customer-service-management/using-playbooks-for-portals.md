@@ -12,15 +12,15 @@ breadcrumb: [Customer communication, Use, Customer Service Management]
 
 # Using Playbooks for Portals
 
-Whether you're a customer service agent or a customer, you can use [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) playbooks on service portals to complete the tasks and activities that you need to resolve your cases.
+Whether you're a customer service agent or a customer, you can use Customer Service Management \(CSM\) playbooks on service portals to complete the tasks and activities that you need to resolve your cases.
 
-With [[playbooks-for-portals|Playbooks for Portals]], you get a guided interface where you can take prompt actions on the pending tasks and activities that are related to your cases. You get the following key benefits by using Playbooks for Portals:
+With Playbooks for Portals, you get a guided interface where you can take prompt actions on the pending tasks and activities that are related to your cases. You get the following key benefits by using Playbooks for Portals:
 
 -   Enhanced experience. Follow the step-by-step process that has features, such as save and resume, where you can initiate work on a case and then resume it later.
 -   Decreased case resolution time. Track and complete the requested tasks promptly and accurately. You can get a faster case resolution with Playbooks for Portals.
 -   Increased visibility. Get visibility into the status of the case and get insights into the expected resolution time.
 
-The playbook includes multiple stages. Each stage has one or more activities to complete. You can see the [[csm-config-ws-activity-stream|activity stream]] against the case playbook, the task on the playbook, and the related information for the case as available. When using a playbook, you can do the following actions:
+The playbook includes multiple stages. Each stage has one or more activities to complete. You can see the activity stream against the case playbook, the task on the playbook, and the related information for the case as available. When using a playbook, you can do the following actions:
 
 -   View the stages and activities outlined in the playbook.
 -   Select an activity and carry out the required tasks to complete it.
@@ -35,17 +35,9 @@ The playbook includes multiple stages. Each stage has one or more activities to 
 **Related topics**  
 
 
-[[create-an-onboarding-case-with-portal-playbook|Creating an onboarding case with Playbooks for Portals]]
+[Creating an onboarding case with Playbooks for Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-case-with-portal-playbook.md)
 
-[[create-a-guided-onboarding-case-from-workspace|Creating a guided onboarding case from CSM Configurable Workspace]]
+[Creating a guided onboarding case from CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-a-guided-onboarding-case-from-workspace.md)
 
-[[create-an-onboarding-request-from-catalog|Create an onboarding request from the service catalog]]
+[Create an onboarding request from the service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-an-onboarding-request-from-catalog.md)
 
-## Related
-
-- [[create-an-onboarding-case-with-portal-playbook|Creating an onboarding case with Playbooks for Portals]]
-- [[create-a-guided-onboarding-case-from-workspace|Creating a guided onboarding case from CSM Configurable Workspace]]
-- [[create-an-onboarding-request-from-catalog|Create an onboarding request from the service catalog]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[playbooks-for-portals|Playbooks for Portals]]
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -14,7 +14,7 @@ breadcrumb: [Import models and templates, Explore, Telecommunications Network In
 
 # Import models
 
-Learn how to bulk-import models and their hierarchical relationships into [[telecom-network-inventory|Telecommunications Network Inventory]] by uploading a structured Excel file. The import handles core hardware model types and auto-generates a first-level set of inventory templates.
+Learn how to bulk-import models and their hierarchical relationships into Telecommunications Network Inventory by uploading a structured Excel file. The import handles core hardware model types and auto-generates a first-level set of inventory templates.
 
 ## Importing models overview
 
@@ -55,6 +55,3 @@ A detailed Import Results summary is produced. The summary shows total records p
 
 [Exporting hierarchy of models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

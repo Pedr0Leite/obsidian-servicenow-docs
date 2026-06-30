@@ -12,7 +12,7 @@ breadcrumb: [Install Core Business Suite Foundation, Configure, Core Business Su
 
 # Core Business Suite Foundation default configurations
 
-Details of the default configurations for [[cbs-landing|Core Business Suite]] Foundation.
+Details of the default configurations for Core Business Suite Foundation.
 
 These default configurations are applied automatically when Apply default configurations is selected during installation.
 
@@ -44,9 +44,5 @@ Applies default Employee Center settings to establish the Core Business Suite us
 -   Quick links – Provides shortcuts to frequently used tools and resources.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[set-up-cbs|Install Core Business Suite Foundation]]
+</table>**Parent Topic:**[Install Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/set-up-cbs.md)
 
-## Related
-
-- [[set-up-cbs|Install Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

@@ -12,7 +12,7 @@ breadcrumb: [Agent assignment methods, Request Management in a Service Managemen
 
 # Manually assign agents to active requests
 
-Use this procedure to assign agents to active requests in [[c_ServiceManagement|service management]] \(SM\) applications.
+Use this procedure to assign agents to active requests in service management \(SM\) applications.
 
 ## Procedure
 
@@ -39,9 +39,5 @@ Use this procedure to assign agents to active requests in [[c_ServiceManagement|
     An email notification is automatically sent to the assigned agent when email notifications are set up for the instance.
 
 
-**Parent Topic:**[[c_AgentAssignment|Agent assignment methods]]
+**Parent Topic:**[Agent assignment methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAssignment.md)
 
-## Related
-
-- [[c_AgentAssignment|Agent assignment methods]]
-- [[c_ServiceManagement|Service Management]]

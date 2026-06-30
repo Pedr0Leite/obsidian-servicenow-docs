@@ -14,11 +14,11 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Workflows in Flow Designer
 
-By using the [[tni-flow-action|Telecommunications Network Inventory function catalog]] and subflows, you can access the functions that help you to automate the network inventory's [[telecommunications-circuit-design-resource-assignment|design and assign]] process.
+By using the Telecommunications Network Inventory function catalog and subflows, you can access the functions that help you to automate the network inventory's design and assign process.
 
 ## Telecommunications Network Inventory function catalog
 
-You can use the [[telecom-network-inventory|Telecommunications Network Inventory]] functions to create, update, and retrieve a configuration item \(CI\) while you’re performing the Design and Assign process. For example, you can do the following actions:
+You can use the Telecommunications Network Inventory functions to create, update, and retrieve a configuration item \(CI\) while you’re performing the Design and Assign process. For example, you can do the following actions:
 
 -   Create telco equipment
 -   Add an interface card
@@ -107,8 +107,3 @@ The following example shows the subflows that are available in the Workflow Stud
 
 [Telecommunications Network Inventory subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/subflow.md)
 
-## Related
-
-- [[tni-flow-action|Telecommunications Network Inventory function catalog]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

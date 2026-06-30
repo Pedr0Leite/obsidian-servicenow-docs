@@ -14,7 +14,7 @@ breadcrumb: [Change Management - Predictive Intelligence Core, Change Management
 
 # Components installed with Change Management - Predictive Intelligence Core
 
-Several types of components are installed with activation of the [[request-cm-picore|Change Management - Predictive Intelligence Core]] plugin that includes tables. These tables can be utilized only after the other [[c_ITILChangeManagement|Change Management]] Predictive Intelligence plugins are activated.
+Several types of components are installed with activation of the Change Management - Predictive Intelligence Core plugin that includes tables. These tables can be utilized only after the other Change Management Predictive Intelligence plugins are activated.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -34,7 +34,7 @@ Change Predictive Intelligence Properties\[chg\_ml\_prop\]
 
 </td><td>
 
-Base table for [[r_ChangeManagementProperties|Change Management properties]].
+Base table for Change Management properties.
 
 </td></tr><tr><td>
 
@@ -55,8 +55,3 @@ Provides boosting capabilities for similarity based solutions.
 </td></tr></tbody>
 </table>**Parent Topic:**[Change Management - Predictive Intelligence Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/request-cm-picore.md)
 
-## Related
-
-- [[request-cm-picore|Change Management - Predictive Intelligence Core]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[r_ChangeManagementProperties|Change Management properties]]

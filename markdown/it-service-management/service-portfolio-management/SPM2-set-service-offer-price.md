@@ -14,7 +14,7 @@ breadcrumb: [Service offerings in Service Portfolio Management, Use, Service Por
 
 # Service Portfolio Management service offering price
 
-Service offerings inherit the pricing structure of the associated parent service. If the price model for each service offering in [[SPM2-landing-page|Service Portfolio Management]] is defined in the parent service as per unit, then each service offering must also have an associated price unit. The actual price for that unit is established in the service offering record.
+Service offerings inherit the pricing structure of the associated parent service. If the price model for each service offering in Service Portfolio Management is defined in the parent service as per unit, then each service offering must also have an associated price unit. The actual price for that unit is established in the service offering record.
 
 You can review service offering information regularly as a part of [Data Certification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_DataCertification.md) and workflow. For example, you can set up a certification to validate pricing for your service offerings.
 
@@ -26,6 +26,3 @@ A Service Offering **Cost unit** is a unit of measurement of the service offerin
 
 **Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

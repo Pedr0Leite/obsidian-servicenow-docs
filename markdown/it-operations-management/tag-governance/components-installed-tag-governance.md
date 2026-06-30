@@ -14,7 +14,7 @@ breadcrumb: [Tag Governance reference, Tag Governance, ITOM Visibility, IT Opera
 
 # Components installed with Tag Governance
 
-Several key components are installed with, or linked to, the [[landing-page-tag-governance|Tag Governance]] plugin to help standardize and manage your organization's tags.
+Several key components are installed with, or linked to, the Tag Governance plugin to help standardize and manage your organization's tags.
 
 ## Roles installed
 
@@ -60,7 +60,7 @@ Views and analyzes tag reports related to tag usage and compliance. Assign this 
 </td></tr></tbody>
 </table>## Tag categories installed
 
-Starting with version 1.7.0, the predefined categories listed in the table are installed with Tag Governance and require the installation of at least [[c_ServiceMappingOverview|Service Mapping]] Plus version 1.16.3. For more information see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
+Starting with version 1.7.0, the predefined categories listed in the table are installed with Tag Governance and require the installation of at least Service Mapping Plus version 1.16.3. For more information see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
 
 <table id="table_odc_mry_tfc"><thead><tr><th>
 
@@ -202,7 +202,3 @@ Sets the number of items processed together in a single batch when a tag policy 
 </td></tr></tbody>
 </table>**Parent Topic:**[Tag Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/reference-tag-governance.md)
 
-## Related
-
-- [[landing-page-tag-governance|Tag Governance]]
-- [[c_ServiceMappingOverview|Service Mapping]]

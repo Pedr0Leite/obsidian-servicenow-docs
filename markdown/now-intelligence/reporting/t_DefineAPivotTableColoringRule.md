@@ -26,7 +26,7 @@ Role required: report\_admin or admin
 
 1.  On the **Style** tab of the Report Designer, select **Edit coloring rules**.
 
-    If you see the error message 'Security constraints prevent access to requested page,' an [[access-control|access control]] list is preventing access. If necessary, one with the security\_admin role should create read and write access control lists \(ACLs\) on the Multilevel Pivot Rule \[sys\_report\_mpivot\_rule\] table.
+    If you see the error message 'Security constraints prevent access to requested page,' an access control list is preventing access. If necessary, one with the security\_admin role should create read and write access control lists \(ACLs\) on the Multilevel Pivot Rule \[sys\_report\_mpivot\_rule\] table.
 
 2.  In the Multilevel Pivot Rules dialog box, select **New rule**.
 
@@ -94,6 +94,3 @@ A numerical value that determines the order in which the rules apply. Rules with
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[access-control|Access control]]

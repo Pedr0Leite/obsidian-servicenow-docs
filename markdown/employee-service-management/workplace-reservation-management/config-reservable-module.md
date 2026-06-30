@@ -18,7 +18,7 @@ Create a Reservable Module to add a group of similar reservable workplace items.
 
 ## Before you begin
 
-**Warning:** Starting with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] version 2.1.2, to create or view approvers or performer criteria, navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Performer Criteria**.
+**Warning:** Starting with Workplace Reservation Management version 2.1.2, to create or view approvers or performer criteria, navigate to **Workplace Core** &gt; **Administration** &gt; **Performer Criteria**.
 
 -   After the upgrade, the Reservable module's **Require approval** option is changed to **Override approval policy**.
 
@@ -54,7 +54,7 @@ A Reservable module groups similar types of workplace items. Employees can view 
     |Field|Description|
     |-----|-----------|
     |Name|Name for the reservable module. For example, for meeting rooms, the name should be categorical like `Desks`, `Meeting rooms`, or `Rooms` and so on.|
-    |Inline title|Title for the reservable module. The title is displayed inline with a descriptive text on the [[workplace-services-portal-hr|Workplace Service Portal]].|
+    |Inline title|Title for the reservable module. The title is displayed inline with a descriptive text on the Workplace Service Portal.|
     |Order|Order in which the reservable module must appear on the Reservation portal.|
     |Active|Option to make the module available for reservation.|
     |Active from|Date from when the reservable module must be active and available for reservation.|
@@ -189,7 +189,7 @@ Available in
 
 Option to specify in which reservations the module must be available.-   **Advanced reservation**: Select this option to make the module available only on the Reservation portal.
 -   **Quick reservation**: Select this option to make the module available in the Reservation widget on the Workplace Service Portal homepage.
--   **Workplace Experience**: Option to display workplace option on [[wsd-mobile-overview|Workplace Service Delivery for Mobile]].
+-   **Workplace Experience**: Option to display workplace option on Workplace Service Delivery for Mobile.
 
 **Note:** The Workplace experience" is available in the Desks Reservable module level by default. If the **All day** Reservable Module checkbox is not selected, the **Workplace Experience** option is not available in **Available-In** option. Workplace users get an error when they open the In-Office Preferences page and the Workplace page from the Workplace Service Delivery for Mobile "This page cannot be loaded due to a configuration issue. Please review your configuration settings and make the necessary changes." For more information, see [Create a reservation for a day in Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/manage-schedule-emp-center.md).
 
@@ -199,7 +199,7 @@ Require allocation check
 
 </td><td>
 
-Option to check if there is an allocation mismatch between the workspace item and the logged-in user. This option appears only if you have [[workplace-space-mgmt-ovw|Workplace Space Management]] installed.For Workplace Entities, the search results also display locations that are allocated to the parent entity.
+Option to check if there is an allocation mismatch between the workspace item and the logged-in user. This option appears only if you have Workplace Space Management installed.For Workplace Entities, the search results also display locations that are allocated to the parent entity.
 
 </td></tr><tr><td>
 
@@ -239,7 +239,7 @@ Enable browse by neighborhood
 
 </td><td>
 
-Reservation admin can indicate if neighborhood spaces are available for reservations. Employees can search in the context of a neighborhood and only the available spaces in a neighborhood are displayed for space reservation. For more information, see [Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).This option is also available on the [[mobile-employee-experience|Now Mobile app]].
+Reservation admin can indicate if neighborhood spaces are available for reservations. Employees can search in the context of a neighborhood and only the available spaces in a neighborhood are displayed for space reservation. For more information, see [Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).This option is also available on the Now Mobile app.
 
 </td></tr><tr><td>
 
@@ -247,7 +247,7 @@ Enable browse favorites on Native Mobile
 
 </td><td>
 
-Option to enable employees to search from their favorite spaces on the Now Mobile app.**Note:** This option appears only if you have [[employee-center-landing-page|Employee Center]] 25.0.0 and for employees who have Now Mobile app installed. Ensure that the Mobile Employee Service Portal is enabled.
+Option to enable employees to search from their favorite spaces on the Now Mobile app.**Note:** This option appears only if you have Employee Center 25.0.0 and for employees who have Now Mobile app installed. Ensure that the Mobile Employee Service Portal is enabled.
 
  **Note:** This option is available only for the Now Mobile app app.
 
@@ -268,7 +268,7 @@ Apply to shift
 
 </td><td>
 
-Option to [[enable-shift-based-reservation|enable shift-based reservation]] on the module.**Note:** Recurring reservations are not support for a shift-based reservation. Employees cannot add attendees and view their availability on the reservation search page while making a reservation. For more information, see [Create a reservation]() and [Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md).
+Option to enable shift-based reservation on the module.**Note:** Recurring reservations are not support for a shift-based reservation. Employees cannot add attendees and view their availability on the reservation search page while making a reservation. For more information, see [Create a reservation]() and [Add invitees as collaborators and create a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-colleagues-rsv-search.md).
 
 </td></tr><tr><td>
 
@@ -319,7 +319,7 @@ Enable employees to make spaces as private
 
 </td><td>
 
-Option to enable employees to make the space details private when they [[reservation-portal|make a reservation]]. When an employee is creating a reservation, the option **Make space details private** is displayed only if the employees are allowed to override their privacy preference for the selected space. Whether an employee can override privacy or not depends on the location privacy setup.
+Option to enable employees to make the space details private when they make a reservation. When an employee is creating a reservation, the option **Make space details private** is displayed only if the employees are allowed to override their privacy preference for the selected space. Whether an employee can override privacy or not depends on the location privacy setup.
 
 </td></tr><tr><td>
 
@@ -652,7 +652,7 @@ Show as
 
 </td><td>
 
-Option to specify what status must the reservation show on the employee's calendar when a reservation is synchronized. This field appears only if [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] is installed. -   **Busy**: The reservation will be displayed in the Employee's calendar with a Busy status. The employee's calendar is blocked during the reservation duration.
+Option to specify what status must the reservation show on the employee's calendar when a reservation is synchronized. This field appears only if Workplace Calendar Synchronization is installed. -   **Busy**: The reservation will be displayed in the Employee's calendar with a Busy status. The employee's calendar is blocked during the reservation duration.
 -   **Free**: The reservation will be displayed in the Employee's calendar with a Free status. The employee's calendar will not be blocked during the reservation duration.
  **Note:** For the **Show as** feature to work correctly, you must have the following versions of the connections:
 
@@ -677,7 +677,7 @@ Configure workplace locations that must be available to users for reservation wh
 -   **[Generate and print a QR code for a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/generate-qr-code-for-rsv-module.md)**  
 Generate and print a QR code for an entire reservable module. Place the QR codes at reservable workplace locations so that employees can scan the code, make a reservation, or perform reservation-related actions.
 -   **[Create a record producer to add additional details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-record-producer-to-add-additional-fields.md)**  
-[[wsd-create-record-producer|Configure a record producer]] with additional details and add it to the reservable module. The fields configured for additional details will be displayed to the employee when they make a reservation.
+Configure a record producer with additional details and add it to the reservable module. The fields configured for additional details will be displayed to the employee when they make a reservation.
 -   **[Configure reservable module with additional details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-module-with-custom-fields.md)**  
 The application enables you configure a reservable module with additional details based on your organization's requirements.
 
@@ -726,16 +726,3 @@ The application enables you configure a reservable module with additional detail
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[enable-shift-based-reservation|Enable shift-based reservation]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[wsd-create-record-producer|Configure a Record producer]]

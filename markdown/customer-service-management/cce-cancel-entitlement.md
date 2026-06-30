@@ -12,7 +12,7 @@ breadcrumb: [Using Contracts and Entitlements Workflows, Customer Contracts and 
 
 # Cancel an entitlement
 
-Cancel an entitlement by creating an order on the [[csm-workspaces-configure|CSM Configurable Workspace]]. By canceling an entitlement, you are canceling or disabling the services and characteristics associated with that entitlement.
+Cancel an entitlement by creating an order on the CSM Configurable Workspace. By canceling an entitlement, you are canceling or disabling the services and characteristics associated with that entitlement.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 The entitlement is permanently cancelled and will move to Cancelled state.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

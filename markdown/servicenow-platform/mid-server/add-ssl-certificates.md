@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # Add SSL certificates for the MID Server
 
-Configure the [[mid-server-landing|MID Server]] to [[c_Connect|connect]] to a source over SSL.
+Configure the MID Server to connect to a source over SSL.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ During MID upgrade the bundled TrustStore is overwritten. The MID Server attempt
     -   X.509 certificates
     -   Any certificate present in the source, but not the destination TrustStore
 
-Certificates that do not meet the criteria are overwritten. Alternatively, you can specify an external TrustStore file which is unaffected by [[c_UpgradeAndTestMIDServer|MID Server upgrades]]. For more information, see [Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-external-truststore.md)
+Certificates that do not meet the criteria are overwritten. Alternatively, you can specify an external TrustStore file which is unaffected by MID Server upgrades. For more information, see [Specify an external TrustStore for the MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-external-truststore.md)
 
 In Rome and later families, the migration strategy utilized during upgrade is configurable via the MID Server configuration parameter **mid.truststore.migration.strategy**. It can take the following values:
 
@@ -103,8 +103,3 @@ During this migration process, a backup of the original and upgrade TrustStores 
 
 [MID Server Governance]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[c_UpgradeAndTestMIDServer|MID Server upgrades]]

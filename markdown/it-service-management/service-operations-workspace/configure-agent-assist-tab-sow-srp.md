@@ -38,7 +38,7 @@ Add or remove a record table from the screen condition, update the sys\_id for t
 
 3.  From the Pages and variants list in the Record section, select **Agent Assist SNC**.
 
-4.  Select **[[settings-mobile|Settings]]** to switch to the Settings mode.
+4.  Select **Settings** to switch to the Settings mode.
 
     \[Omitted image "settings\_SRP.jpg"\] Alt text: Settings page button indicated by a box
 
@@ -80,6 +80,3 @@ Edit the table configuration for Agent Assist to see the required search results
 
 **Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/srp-service-operations-workspace.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

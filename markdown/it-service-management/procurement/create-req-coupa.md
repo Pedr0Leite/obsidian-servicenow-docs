@@ -14,7 +14,7 @@ breadcrumb: [Integrating with Coupa, Integrating with external procurement appli
 
 # Create a requisition on Coupa through Procurement application
 
-Create software requisitions directly on Coupa through the ServiceNow [[c_Procurement|Procurement]] application to purchase software.
+Create software requisitions directly on Coupa through the ServiceNow Procurement application to purchase software.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ To create a requisition on Coupa through ServiceNow Procurement application, you
 
 -   Create and publish a Coupa integration profile. For more information see, [Create a Coupa integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/create-coupa-int-profile.md).
 -   Ensure that the Purchase Order you create has at least one Purchase Order Line, and all Purchase Order Lines must be for software products.
--   Synchronize [[reference-for-itsm-mobile-agent|reference]] data types on both ServiceNow Procurement and Coupa [[dex-workspace-application-tab|applications]]. For more information, see [Reference data synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/ref-data-coupa.md).
+-   Synchronize reference data types on both ServiceNow Procurement and Coupa applications. For more information, see [Reference data synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/ref-data-coupa.md).
 
 If all these conditions are met, you can create a requisition in Coupa.
 
@@ -43,7 +43,7 @@ You can create a requisition on Coupa through the following ways:
 Requisitions are of the following types:
 
 -   **Catalog request**: A requisition created for an item that is already present in the external purchasing application.
--   **Non catalog request**: A requisition created for an item that isn't present in the [[c_ProductCatalog|product catalog]] of the organization.
+-   **Non catalog request**: A requisition created for an item that isn't present in the product catalog of the organization.
 
 For more information about creating a Purchase Order, see [Create a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAPurchaseOrder.md).
 
@@ -231,7 +231,7 @@ Received
 
 </td><td>
 
-The date and time at which the [[r_FollowAPurchaseOrderStatus|purchase order status]] changed to **Received**.
+The date and time at which the purchase order status changed to **Received**.
 
 </td></tr><tr><td>
 
@@ -282,15 +282,7 @@ The vendor account related with the purchase order.
 After the status of the Purchase Order is **Received** on Coupa, the following activities occur:
 
 -   **Assets** and **Receiving Slips** get created and you can find the **Purchase Order Number** on the Purchase Order form.
--   The [[c_AssetManagement|Asset Management]] - Procurement Integration application automatically generates entitlements.
+-   The Asset Management - Procurement Integration application automatically generates entitlements.
 -   On receipt of the assets, the scheduled job **ITAM - Sync Coupa purchase orders** creates a Receiving Slip and Receiving Slip Lines on the ServiceNow Procurement application. This job also pulls the Coupa fields such as Manufacturer part number, Status, and Receiving quantity. The values returned from Coupa through the receiving transactions are used to populate the created entitlements. However, if these values are not available from the receiving slips, then the Asset Management - Procurement Integration application uses the values populated in the Purchase Order of the Procurement application.
 -   If any discrepancy exists on the Purchase Order, Asset Management - Procurement Integration creates entitlement import errors. You can view the errors by selecting the **Entitlement Import Errors** tab under a Purchase Order, Purchase Order Line item, and Receiving Slip line.
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[r_FollowAPurchaseOrderStatus|Purchase order status]]
-- [[c_AssetManagement|Asset Management]]

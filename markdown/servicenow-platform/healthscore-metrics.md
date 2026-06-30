@@ -20,7 +20,7 @@ When an article has a low health score, the scan parameters identify specific fi
 
 1.  **Review the findings**. Open the article health score panel from the article's edit view. The panel lists each scan parameter, its individual score, and its contribution to the overall article score. Parameters with low scores have findings that need attention.
 2.  **Fix the recommendations**. In the article optimization window you can see the articles and their scores, further you can edit the article to fix the recommendation. Each finding includes a recommendation, for example, adding missing alt text to an image, removing a duplicate H1 heading, or updating a broken link. Apply the recommended changes and save the article.
-3.  **Check the updated score**. After saving, switch to the **Health score** tab in the right-side panel to see the recalculated score. The score updates to reflect the improvements made. For more information, see [[view-knowledge-health-base|View the Knowledge Health Score dashboard]]
+3.  **Check the updated score**. After saving, switch to the **Health score** tab in the right-side panel to see the recalculated score. The score updates to reflect the improvements made. For more information, see [View the Knowledge Health Score dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/view-knowledge-health-base.md)
 
 Repeat this process for the parameters with the lowest scores first as these have the highest impact on the overall article score and, by extension, the knowledge base and instance scores.
 
@@ -76,11 +76,7 @@ For example, an article contains 10 links. The scan detects 4 broken links, leav
 **Related topics**  
 
 
-[[enable-healthscore-calculation|Enable article health score calculation]]
+[Enable article health score calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/enable-healthscore-calculation.md)
 
 [View the Knowledge Health Score dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/view-knowledge-health-base.md)
 
-## Related
-
-- [[view-knowledge-health-base|View the Knowledge Health Score dashboard]]
-- [[enable-healthscore-calculation|Enable article health score calculation]]

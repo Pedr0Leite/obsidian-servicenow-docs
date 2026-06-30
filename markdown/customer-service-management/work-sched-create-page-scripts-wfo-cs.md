@@ -140,13 +140,10 @@ Add the **Transform workItem to cardProps** page script to transform the **workI
 
 [Define the workItem property in the Work scheduler page configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/work-sched-create-page-properties.md)
 
-**Parent Topic:**[[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-workscheduler-card-wfo-cs.md)
 
 **Related topics**  
 
 
 [Define and bind client scripts to components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/define-client-scripts.md)
 
-## Related
-
-- [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist in Knowledge Management, Now Assist in Knowled
 
 # Enable multilingual service in Now Assist
 
-Enable multilingual service in Now Assist Admin for [[knowledge-management|Knowledge Management]] to support different languages in various third-party AI model providers. Select the languages that you want enabled for each of the AI model providers and enable native and dynamic translation support.
+Enable multilingual service in Now Assist Admin for Knowledge Management to support different languages in various third-party AI model providers. Select the languages that you want enabled for each of the AI model providers and enable native and dynamic translation support.
 
 ## Before you begin
 
@@ -33,11 +33,7 @@ Role required: admin
 
 ## Result
 
-Multilingual service is enabled for [[now-assist-knowledge-management|Now Assist in Knowledge Management]].
+Multilingual service is enabled for Now Assist in Knowledge Management.
 
 **Parent Topic:**[Configuring Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configuring-now-assist-km.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]

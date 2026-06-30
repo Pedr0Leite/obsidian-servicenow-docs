@@ -37,11 +37,11 @@ There are system records in the Manual CI Exclusions/Inclusions \[svc\_manual\_c
 
 **Note:** The Manual CI Exclusions/Inclusions \[svc\_manual\_ci\_exclusions\_inclusions\] table doesn't include CIs added using traversal rules.
 
-Also, the system can [[c_Connect|connect]] a CI from the service instance only to actual CIs that exist in the CMDB, not a visualization of other items on the map like clusters or boundaries.
+Also, the system can connect a CI from the service instance only to actual CIs that exist in the CMDB, not a visualization of other items on the map like clusters or boundaries.
 
 The maximum number of CI connections added to application services during this operation is controlled by the [sa.service.max\_ci\_service\_population](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/components-installed-app-services.md) property. By default, the value is 1,000 \(one thousand connections\). Increasing the number of CI connections may cause performance issues. To adjust the maximum number of added CI connections, add the sa.service.max\_ci\_service\_population property, as described in [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
-In environments with [[domain-separation-relationship-formatter-editor|domain separation]], only CIs belonging to the same domain as the service instance are added into the service instance. If there is a domain hierarchy, CIs must belong to the same child domain.
+In environments with domain separation, only CIs belonging to the same domain as the service instance are added into the service instance. If there is a domain hierarchy, CIs must belong to the same child domain.
 
 You can also update application services by using [APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/use-app-services-api.md).
 
@@ -69,7 +69,3 @@ You can also update application services by using [APIs](https://raw.githubuserc
 -   The system updates the service instance with the changes from the CMDB and shows them on the map.
 -   After the update process is complete, the service instance form opens.
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

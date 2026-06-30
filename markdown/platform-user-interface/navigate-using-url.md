@@ -135,20 +135,15 @@ To build multiple term queries or specify multiple field values
 
 </td></tr></tbody>
 </table>
--   **[[t_EnableTinyURLSupport|Enable tiny URL support]]**  
+-   **[Enable tiny URL support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EnableTinyURLSupport.md)**  
 The default URLs by which the system renders pages may exceed the character limit of some browsers, resulting in an error message. You can enable tiny URL support, which generates shortened internal URLs, to help prevent this error.
--   **[[r_NavigatingByURLExamples|Examples of navigating by URL]]**  
+-   **[Examples of navigating by URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_NavigatingByURLExamples.md)**  
 A list of example URLs that demonstrate ways to open pages in the ServiceNow application.
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 **Related topics**  
 
 
 [Page navigation by URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/navigate-by-portal-url.md)
 
-## Related
-
-- [[t_EnableTinyURLSupport|Enable tiny URL support]]
-- [[r_NavigatingByURLExamples|Examples of navigating by URL]]
-- [[c_UsingForms|Forms in the classic environment]]

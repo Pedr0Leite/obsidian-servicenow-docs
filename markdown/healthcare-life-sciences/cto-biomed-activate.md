@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Install Care Team Operations for Biomed
 
-Install the [[care-team-operations-for-biomed|Care Team Operations for Biomed]] application \[sn\_cto\_biomed\] if you have the admin role.
+Install the Care Team Operations for Biomed application \[sn\_cto\_biomed\] if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 The application includes demo data for Care Team Operations for Biomed and installs related applications and plugins if they are not already installed.
 
-**Note:** The Care Team Operations for Biomed application is dependent on the [[hcls-cto-app|Healthcare Operations Core]] application.
+**Note:** The Care Team Operations for Biomed application is dependent on the Healthcare Operations Core application.
 
 ## Procedure
 
@@ -38,7 +38,4 @@ The application includes demo data for Care Team Operations for Biomed and insta
 
 4.  Select **Install**.
 
-## Related
 
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[hcls-cto-app|Healthcare Operations Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Google Cloud Platform Cloud SQL, Out Of Box Catalogs using Cloud Se
 
 # Google Cloud Platform Cloud SQL Out Of Box permissions
 
-[[google-cloud-platform-cloud-sql|Google Cloud Platform Cloud SQL]] Out Of Box catalog items permissions
+Google Cloud Platform Cloud SQL Out Of Box catalog items permissions
 
 <table id="table_bys_jff_2bc"><thead><tr><th>
 
@@ -44,7 +44,7 @@ Provision
 
 </td></tr><tr><td>
 
-Pointed [[r-discovery|discovery]]
+Pointed discovery
 
 </td><td>
 
@@ -65,7 +65,3 @@ cloudsql.instances.delete
 </td></tr></tbody>
 </table>**Parent Topic:**[Google Cloud Platform Cloud SQL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-cloud-sql.md)
 
-## Related
-
-- [[google-cloud-platform-cloud-sql|Google Cloud Platform Cloud SQL]]
-- [[r-discovery|Discovery]]

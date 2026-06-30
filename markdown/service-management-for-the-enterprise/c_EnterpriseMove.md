@@ -19,20 +19,14 @@ The Facilities enterprise move process is as follows:
 1.  A facilities administrator uses the Move Planning Tool to create scenarios of potential moves.
     -   A facilities administrator assigns delegators and move groups to each scenario.
     -   A facilities administrator reviews the scenarios and chooses the one to execute.
-2.  Delegators access their assigned move scenarios and [[t_AssignSeatsAsADelegator|assign users to seats]].
+2.  Delegators access their assigned move scenarios and assign users to seats.
 3.  Facilities staff members execute and facilitate the move through the Enterprise Move workflow.
     -   State changes are handled by UI actions and a workflow, which contains a required approval from facilities\_admin or move\_admin.
 
-**Note:** The [[c_ServiceManagement|Service management]] workflow can be edited to meet customer-specific processes.
+**Note:** The Service management workflow can be edited to meet customer-specific processes.
 
--   **[[c_MovePlanningTool|Move planning tool]]**  
+-   **[Move planning tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_MovePlanningTool.md)**  
 The Move Planning tool displays occupancy totals by campus and floor. Facilities and move administrators can add or remove users to and from scenarios while planning a move. Groups of people are selected and moved by department \(department on sys\_user record\) or by direct manager \(manager on sys\_user record\).
 
-**Parent Topic:**[[c_FacMoveMgmt|Facilities move management]]
+**Parent Topic:**[Facilities move management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveMgmt.md)
 
-## Related
-
-- [[c_MovePlanningTool|Move planning tool]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[t_AssignSeatsAsADelegator|Assign users to seats]]
-- [[c_ServiceManagement|Service Management]]

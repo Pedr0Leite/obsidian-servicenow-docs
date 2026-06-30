@@ -12,7 +12,7 @@ breadcrumb: [Configure fields, CPQ app, Configure, price, quote apps, Configure,
 
 # CPQ fields, system fields, and partner fields
 
-Learn about the three types of [[fields|fields]] in CPQ—CPQ, system fields, and partner fields. Understand how each type stores, retrieves, and displays data in configurations, and how they interact with Salesforce and partner systems for seamless data integration.
+Learn about the three types of fields in CPQ—CPQ, system fields, and partner fields. Understand how each type stores, retrieves, and displays data in configurations, and how they interact with Salesforce and partner systems for seamless data integration.
 
 There are three categories of fields in the CPQ environment: CPQ fields, system fields, and partner fields.
 
@@ -26,7 +26,7 @@ The following example shows how a user would set a CPQ field in an On Configure/
 cfgRequest.testField.set("value", "Hello World"); 
 ```
 
-For a more complete description of CPQ fields, see [[fields_101|Configure fields]].
+For a more complete description of CPQ fields, see [Configure fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields_101.md).
 
 **Note:** In organizations that do not use Salesforce for their launch-point into CPQ, all fields must be initialized in their API call.
 
@@ -44,7 +44,7 @@ let pC = {"input2":cfgRequest.sys.productCode.value};
 
 System fields can be added directly to any layout. There are no issues with displaying them regardless of whether they contain predefined data.
 
-In the [[layout_editor|layout editor]]:
+In the layout editor:
 
 \[Omitted image "cpq-fields-layout-editor.png"\] Alt text: Layout editor
 
@@ -92,7 +92,7 @@ The mapping of each of these partner fields to their respective SFDC object is a
     partner.quote.currencyIsoCode defaults to USD if your organization does not have multi-currency enabled in their Salesforce Org. To enable multi-currency, follow the steps in this Salesforce article: [Enable Multiple Currencies](https://help.salesforce.com/s/articleView?id=sales.admin_enable_multicurrency.htm&type=5).
 
 
-When using these fields, it’s important to note that some of the data may not have any value \(null\) when the product is first configured. To make sure that there are no initialization errors, include null checks in any [[rules_101|rules]] or [[scripts|scripts]] that utilize partner fields.
+When using these fields, it’s important to note that some of the data may not have any value \(null\) when the product is first configured. To make sure that there are no initialization errors, include null checks in any rules or scripts that utilize partner fields.
 
 These fields cannot be directly added to a layout like system fields can. Instead, you can use CPQ fields to populate the data in partner fields via an initialization enrichment.
 
@@ -134,15 +134,7 @@ How you use partner and system fields is up to you. Some organizations find it h
 **Related topics**  
 
 
-[[what_field_type_should_i_use_for_organizing_field_options_and_data|Grid-style fields and field collections]]
+[Grid-style fields and field collections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/what_field_type_should_i_use_for_organizing_field_options_and_data.md)
 
 [Configure fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields_101.md)
 
-## Related
-
-- [[fields_101|Configure fields]]
-- [[what_field_type_should_i_use_for_organizing_field_options_and_data|what_field_type_should_i_use_for_organizing_field_options_and_data]]
-- [[fields|Fields]]
-- [[layout_editor|Layout editor]]
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]

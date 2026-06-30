@@ -14,24 +14,17 @@ breadcrumb: [Cloud Services Catalog Terraform Connector, Support for continuous 
 
 # Configuring Cloud Services Catalog Terraform Connector
 
-Understand the high-level workflow for configuring the [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] application.
+Understand the high-level workflow for configuring the Cloud Services Catalog Terraform Connector application.
 
 Perform the following steps to configure the Cloud Services Catalog Terraform Connector application:
 
-1.  [[install-csc|Install Cloud Services Catalog]] Terraform Connector. For more information, see [Install Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/install-cpg-terraform-connector.md).
+1.  Install Cloud Services Catalog Terraform Connector. For more information, see [Install Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/install-cpg-terraform-connector.md).
 2.  If you want to use a minor or patch version of Terraform Open Source, Terraform Enterprise, or Terraform Cloud, add the minor or patch version to the workload config provider record. For more information, see [Add support for minor or patch versions of the Terraform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/terraform-use-minor-patch-version-cli.md).
-3.  To use Terraform Open Source as a config provider for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], do the following:
+3.  To use Terraform Open Source as a config provider for Cloud Provisioning and Governance, do the following:
     1.  Assign Terraform capability to the MID Server. For more information, see [Configure MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureCapabilities.md).
-    2.  [[setup-cpg-terraform-connector-for-terraform-open-source|Create a Terraform Open Source config provider]]. For more information, see [Create a Terraform Open Source config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-open-source.md).
+    2.  Create a Terraform Open Source config provider. For more information, see [Create a Terraform Open Source config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-open-source.md).
 4.  To use Terraform Enterprise or Terraform Cloud as a config provider for Cloud Provisioning and Governance, do the following:
     1.  Assign Terraform Enterprise and REST capabilities to the MID Server. For more information, see [Configure MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureCapabilities.md).
-    2.  [[setup-cpg-terraform-connector-for-terraform-enterprise|Create a Terraform Enterprise or Terraform Cloud config provider]]. For more information, see [Create a Terraform Enterprise or Terraform Cloud config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-enterprise.md).
+    2.  Create a Terraform Enterprise or Terraform Cloud config provider. For more information, see [Create a Terraform Enterprise or Terraform Cloud config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-enterprise.md).
 5.  Discover resources from the Terraform environment. For more information, see [Run the IaC Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/discover-terraform-config-installables-vcs-workspaces.md).
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[install-csc|Install Cloud Services Catalog]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[setup-cpg-terraform-connector-for-terraform-open-source|Create a Terraform Open Source config provider]]
-- [[setup-cpg-terraform-connector-for-terraform-enterprise|Create a Terraform Enterprise or Terraform Cloud config provider]]

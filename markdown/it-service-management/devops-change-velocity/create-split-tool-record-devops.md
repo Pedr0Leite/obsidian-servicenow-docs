@@ -84,7 +84,7 @@ Split password or access token. For information on creating a Split token, see [
     -   Other DevOps roles: Can view the tool.
     **Note:** Only groups containing users with DevOps roles are available for selection in the **Maintained by** field.
 
-    The **All App Owners can view and associate tool objects to [[dex-workspace-application-tab|applications]]** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
+    The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
 4.  Discover workspaces, environments, segments, and feature flags from the connected Split tool by selecting **Discover**.\[Omitted image "split-discover.png"\] Alt text: Discover workspaces, environments, segments, feature flags from Split
 
@@ -103,6 +103,3 @@ The following example specifies how changes made in the Split tool are notified 
 
 **Parent Topic:**[Split.io integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/split-integration-devops-classic.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

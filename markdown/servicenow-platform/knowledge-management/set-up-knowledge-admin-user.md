@@ -14,9 +14,9 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Knowledge base setup guide for knowledge admins and managers
 
-After basic [[knowledge-management|Knowledge Management]] setup is completed, you can set up a knowledge base for users to create and publish knowledge articles.
+After basic Knowledge Management setup is completed, you can set up a knowledge base for users to create and publish knowledge articles.
 
-Create multiple knowledge bases for different groups within your organization to share information within and between those groups. Create [[scoped-knowledge-base-administration|scoped knowledge bases]] to enable only application administrators to administer the knowledge bases and restrict unauthorized access to application-specific data.
+Create multiple knowledge bases for different groups within your organization to share information within and between those groups. Create scoped knowledge bases to enable only application administrators to administer the knowledge bases and restrict unauthorized access to application-specific data.
 
 Administrators create knowledge bases, and assign them to individual managers responsible for controlling the behavior and organization scheme of each knowledge base.
 
@@ -52,7 +52,3 @@ If you have the knowledge\_manager role, there are many other tasks that you can
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[scoped-knowledge-base-administration|Scoped knowledge bases]]

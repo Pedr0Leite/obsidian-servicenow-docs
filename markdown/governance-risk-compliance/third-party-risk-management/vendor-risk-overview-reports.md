@@ -22,7 +22,7 @@ To open the Vendor Risk Overview, navigate to **All** &gt; **Third-party Risk Ma
 
 ## The more complete IRQ process replaces tiering
 
-In the TPRM application, the IRQ is an internal questionnaire that improves the original tiering assessment process. IRQs enhance internal [[risk-assessments|risk assessments]] with increased flexibility, control, and scalability. Unlike a tiering assessment where external questionnaires are determined solely by the risk tier, an IRQ can dynamically trigger external questionnaires based on both respondents' answers and risk tier.
+In the TPRM application, the IRQ is an internal questionnaire that improves the original tiering assessment process. IRQs enhance internal risk assessments with increased flexibility, control, and scalability. Unlike a tiering assessment where external questionnaires are determined solely by the risk tier, an IRQ can dynamically trigger external questionnaires based on both respondents' answers and risk tier.
 
 To enable a seamless transition to TPRM, you have the option to duplicate existing tiering assessments and designate them as IRQ internal assessments. Risk tiering is supported as an unchanging legacy process.
 
@@ -64,6 +64,3 @@ To enable a seamless transition to TPRM, you have the option to duplicate existi
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

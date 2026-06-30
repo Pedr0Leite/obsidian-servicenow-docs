@@ -39,7 +39,7 @@ Dynamic Scheduling streamlines field assignments, maintains SLAs, optimizes agen
 
 ## Integration with Workforce Optimization for Field Service
 
-When enabled, Dynamic Scheduling works with the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]. This integration enables you to view the agent's schedule and events directly from the [[dispatcher-activities|Dispatcher Workspace]] calendar. Gain access to a unified view of agent availability and make informed task assignments.
+When enabled, Dynamic Scheduling works with the Workforce Optimization for Field Service. This integration enables you to view the agent's schedule and events directly from the Dispatcher Workspace calendar. Gain access to a unified view of agent availability and make informed task assignments.
 
 ## Dynamic Scheduling for Planned Crews
 
@@ -47,7 +47,7 @@ Dynamic Scheduling schedules task assignments to planned crews. There are two ty
 
 ## Dynamic Scheduling for Capacity and Reservations Management
 
-Dynamic Scheduling assigns tasks based on [[capacity|capacity]] defined for a territory or group by considering all the reservation rules.
+Dynamic Scheduling assigns tasks based on capacity defined for a territory or group by considering all the reservation rules.
 
 Reservation rules help allocate a specific percentage of capacity for different attributes of work order tasks, such as work type, location, or priority. This confirms efficient task management and meets specific workload demands. You can create multiple reservation rules to manage and prioritize work order tasks based on their attributes, such as priority and demand. Each rule assigns a specific task type or condition. This helps distribute workloads efficiently and make the best use of the available resources.
 
@@ -58,8 +58,3 @@ Reservation rules help allocate a specific percentage of capacity for different 
 
 [Assigning work order tasks to agents using dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/using-dynamic-scheduling.md)
 
-## Related
-
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[capacity|Capacity]]

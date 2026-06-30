@@ -18,13 +18,13 @@ Request an electronic signature through the Adobe Sign service. When the case st
 
 ## Before you begin
 
-An [[scoped-hr-third-party-integrations|HR integrations]] administrator must have set up the integration between [[hr-service-delivery|HR Service Delivery]] and the Adobe Sign system before requests can be made.
+An HR integrations administrator must have set up the integration between HR Service Delivery and the Adobe Sign system before requests can be made.
 
 Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Create New Case**.
 
 2.  In the **Search for Employee** field, select the employee for whom you are creating the case.
 
@@ -45,7 +45,7 @@ Role required: sn\_hr\_core.case\_writer
 
 When the case state changes to **Ready**, the flow triggers and creates Adobe Sign tasks for all of the signers. For parallel signing, the tasks are assigned all at once. For serial signing, the tasks are created in the order defined.
 
-Signers must complete their Adobe Sign tasks through a self-service portal such as the [[employee-center-landing-page|Employee Center]]. The Adobe Sign task is displayed as a URL in the to-dos page in the Employee Center.
+Signers must complete their Adobe Sign tasks through a self-service portal such as the Employee Center. The Adobe Sign task is displayed as a URL in the to-dos page in the Employee Center.
 
 On clicking the URL, the signer is directed to the Adobe Sign system to sign the document. After completing the task, the signer is redirected to the to-dos page in the Employee Center. The status of the Adobe Sign task is not updated immediately because the callback is asynchronous.
 
@@ -94,9 +94,3 @@ Document voided or flow errored
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/search-hr-case.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-management-workspace|Case management]]
-- [[employee-center-landing-page|Employee Center]]

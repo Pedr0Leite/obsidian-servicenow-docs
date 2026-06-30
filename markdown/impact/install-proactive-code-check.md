@@ -16,7 +16,7 @@ Developers can identify issues and prevent defects before they are deployed to p
 
 ## Before you begin
 
-**Note:** Starting with [[impact-landing-page|Impact]] Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Note:** Starting with Impact Zurich version 6.0.8 ServiceNow Store release, Proactive Code Check is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 Developers execute Proactive Code Check \(PCC\) on update sets in development in non-production instances. PCC displays a list of identified findings for the update set related list with details such as type, severity, and location. Filters and sorting options for the findings are available, also the ability to directly open the individual finding record to resolve the issues found in the scan report.
 
@@ -49,9 +49,5 @@ Role required: admin
     New findings are referenced to the specific Update Set from which they originated, including findings related to child update sets, allowing for easy navigation between findings and the update set in the user interface.
 
 
-**Parent Topic:**[[proactive-code-check|Proactive Code Check for the Impact Store Application]]
+**Parent Topic:**[Proactive Code Check for the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/proactive-code-check.md)
 
-## Related
-
-- [[proactive-code-check|Proactive Code Check for the Impact Store Application]]
-- [[impact-landing-page|Impact]]

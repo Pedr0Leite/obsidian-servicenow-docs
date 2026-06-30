@@ -14,13 +14,13 @@ breadcrumb: [Use, Source-to-Pay integration with Oracle Financial Cloud, Integra
 
 # Use schedule flows in Oracle Financial Cloud
 
-Use the schedule flows to retrieve information from Oracle Financial Cloud, including Currencies, General Ledger \(GL\) accounts, Legal entities, [[payment-terms|Payment terms]] details from Oracle Financial Cloud.
+Use the schedule flows to retrieve information from Oracle Financial Cloud, including Currencies, General Ledger \(GL\) accounts, Legal entities, Payment terms details from Oracle Financial Cloud.
 
 You can either use the subflows to perform the required tasks or you can create a copy of the subflows and then customize it according to your requirements. The Source-to-Pay with Oracle Financial Cloud integration supports the following subflows:
 
 ## Primary Data Integration with Oracle Financial Cloud
 
-The [[master-data-integration|Primary Data Integration]] with Oracle Financial Cloud integration supports the following subflows or actions:
+The Primary Data Integration with Oracle Financial Cloud integration supports the following subflows or actions:
 
 |Subflow|Description|
 |-------|-----------|
@@ -39,11 +39,11 @@ These subflows are read only. To modify a flow or subflow, create a copy and the
 
 ## Supplier Lifecycle Operations Integration with Oracle Financial Cloud
 
-The [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] Integration with Oracle Financial Cloud supports the following subflows:
+The Supplier Lifecycle Operations Integration with Oracle Financial Cloud supports the following subflows:
 
 |Flow|Description|
 |----|-----------|
-|Create or update [[supplier|supplier]] location|Creates or updates supplier location in Oracle Financial Cloud.|
+|Create or update supplier location|Creates or updates supplier location in Oracle Financial Cloud.|
 |Create or update supplier payment information|Creates or updates supplier payment information in Oracle Financial Cloud.|
 |Create, update or deactivate supplier|Creates or updates or deactivates supplier details in Oracle Financial Cloud.|
 
@@ -51,9 +51,3 @@ The [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] Integration with Or
 
 These subflows are read-only. To modify a flow or subflow, create a copy and then apply the required changes.
 
-## Related
-
-- [[payment-terms|Payment terms]]
-- [[master-data-integration|Primary data integration]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]

@@ -24,17 +24,11 @@ The GRC Landing Page Configurations module displays the following modules:
 -   Issue Page Configuration
 
 -   **[Tasks Page Configuration module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/task-page-config-module.md)**  
-The [[task-page-config-module|Tasks Page Configuration module]] in the classic user interface displays the configurations related to the Tasks section in the landing pages of the workspaces. The configurations in the Tasks Page Configuration module help the users to view the data in different workspaces.
+The Tasks Page Configuration module in the classic user interface displays the configurations related to the Tasks section in the landing pages of the workspaces. The configurations in the Tasks Page Configuration module help the users to view the data in different workspaces.
 -   **[Update the Tasks Page Configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/view-tasks-page-configurations.md)**  
-[[view-tasks-page-configurations|Update the Tasks Page Configuration record]] in the classic user interface to display the task configurations in various workspaces. The Tasks Page Configuration record displays the configurations that an end user can view in the My Tasks landing page in each workspace.
+Update the Tasks Page Configuration record in the classic user interface to display the task configurations in various workspaces. The Tasks Page Configuration record displays the configurations that an end user can view in the My Tasks landing page in each workspace.
 -   **[Issue Page Configuration module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issue-page-config-record.md)**  
-The [[issue-page-config-record|Issue Page Configuration module]] displays the configurations related to the Issues overview landing pages in various workspaces. The data displayed in the Issues overview landing page is configured using the Issue Page Configurations module in the classic user interface. The Issues overview landing page includes the Issues, Issue triages, Tracking status of the issues, and [[audit-observations|Audit observations]] pages.
+The Issue Page Configuration module displays the configurations related to the Issues overview landing pages in various workspaces. The data displayed in the Issues overview landing page is configured using the Issue Page Configurations module in the classic user interface. The Issues overview landing page includes the Issues, Issue triages, Tracking status of the issues, and Audit observations pages.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[task-page-config-module|Tasks Page Configuration module]]
-- [[view-tasks-page-configurations|Update the Tasks Page Configuration record]]
-- [[issue-page-config-record|Issue Page Configuration module]]
-- [[audit-observations|Audit observations]]

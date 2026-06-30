@@ -14,7 +14,7 @@ breadcrumb: [Managing mobile experience for GRC Policy and Compliance, Policy an
 
 # Assign Policy and Compliance Management issues with the GRC Mobile application
 
-Assign unassigned [[r_PolicyComplianceMgmt|Policy and Compliance Management]] issues to a member of your assignment group. Navigate through the record to view more details about the Control Objective, the Control record, and Remediation Tasks associated with an issue.
+Assign unassigned Policy and Compliance Management issues to a member of your assignment group. Navigate through the record to view more details about the Control Objective, the Control record, and Remediation Tasks associated with an issue.
 
 ## Before you begin
 
@@ -122,6 +122,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Policy and Compl
 </table>
 **Parent Topic:**[Managing mobile experience for GRC Policy and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/mobile-policy_compliance-ovrvw.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -14,12 +14,9 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # AI Search architecture
 
-The [[ia-ai-search|AI Search]] index stores data from ServiceNow AI Platform® records or external sources and makes that data available for users to search in multiple applications. Search query features use ServiceNow AI Platform technologies to improve the search user experience.
+The AI Search index stores data from ServiceNow AI Platform® records or external sources and makes that data available for users to search in multiple applications. Search query features use ServiceNow AI Platform technologies to improve the search user experience.
 
 \[Omitted image "ai-search-architecture-diagram.png"\] Alt text: Diagram showing links between content and metadata sources, AI Search index, ServiceNow AI Platform technologies, and ServiceNow AI Platform search applications.
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

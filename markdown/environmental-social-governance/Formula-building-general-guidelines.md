@@ -30,8 +30,5 @@ A formula consists of operands, operators, and functions. Examples of operators 
 -   Use the formula builders on all browsers except Safari.
 -   Specify the primary and the secondary columns to identify the right emission factors in case of emission factors with duplicate names. When defining calculated metric definitions, you can use emission factors with different units than the collected data.
 
-**Parent Topic:**[[formula-building-at-metric-definition-and-entity-level|Formula building in a calculated metric definition]]
+**Parent Topic:**[Formula building in a calculated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/formula-building-at-metric-definition-and-entity-level.md)
 
-## Related
-
-- [[formula-building-at-metric-definition-and-entity-level|Formula building in a calculated metric definition]]

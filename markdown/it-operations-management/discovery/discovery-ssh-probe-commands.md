@@ -15,11 +15,11 @@ breadcrumb: [SSHCommand probe, List of Discovery probes, Discovery probes and se
 
 # Non-privileged SSH commands during probe-based discovery
 
-These tables display the SSH commands run by [[r-discovery|Discovery]] probes on target devices during horizontal discovery. These SSH commands don’t require elevated privileges to run.
+These tables display the SSH commands run by Discovery probes on target devices during horizontal discovery. These SSH commands don’t require elevated privileges to run.
 
 ## Operating systems
 
-For information on commands used by [[c_ServiceMappingOverview|Service Mapping]] during the top-down discovery, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md).
+For information on commands used by Service Mapping during the top-down discovery, see [Service Mapping commands requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_CommandsnCredentials.md) and [Service Mapping commands not requiring a privileged user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/r_NonSudoCommands.md).
 
 <table id="table_zzv_4md_11b"><thead><tr><th>
 
@@ -897,7 +897,3 @@ Parameters
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

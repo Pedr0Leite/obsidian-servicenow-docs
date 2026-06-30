@@ -18,15 +18,15 @@ Set up Group Action Framework \(GAF\) to improve the response quality, recall sp
 
 There must be a ml\_platform read ACL for GAF to be configured. If there is no read ACL present, you must create it and grant the appropriate role access, such as admin, ml\_admin, or sn\_aia.admin. This is required for GAF to access Machine Learning tables and services. If your ACL is not configured correctly, you may see the error "Failed to initialize pipeline: Failed to load message\_content dataset. No columns to parse from file."
 
-To access GAF's optimized prediction feature, you can enable [[platform-now-assist-landing|Now Assist]] in AI Search. For more information, see [[setup-ai-search-gaf|Setup AI Search for Group Action Framework]].
+To access GAF's optimized prediction feature, you can enable Now Assist in AI Search. For more information, see [Setup AI Search for Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/setup-ai-search-gaf.md).
 
 Role required: sn\_aia.admin
 
 ## About this task
 
-You can activate GAF to have AI agents use indexed clusters that perform LLM executions on representative records rather than all records. GAF is used by some AI agents and agentic workflows to work optimally. For more information about GAF and how it works, see [[group-action-framework|Group Action Framework]].
+You can activate GAF to have AI agents use indexed clusters that perform LLM executions on representative records rather than all records. GAF is used by some AI agents and agentic workflows to work optimally. For more information about GAF and how it works, see [Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/group-action-framework.md).
 
-You can have different GAF [[exploring-ai-governance|configurations]] for different agentic workflows and Now Assist applications. You must configure each agentic workflow or application separately.
+You can have different GAF configurations for different agentic workflows and Now Assist applications. You must configure each agentic workflow or application separately.
 
 **Important:** Setting up GAF can take some time, between 10 minutes up to an hour, depending on the number of records in the grouping. The script runs in the background.
 
@@ -108,9 +108,3 @@ You can repeat this procedure for additional agentic workflows and Now Assist ap
 
 You may see the error "Failed to initialize pipeline: Failed to load message\_content dataset. No columns to parse from file." when trying to configure GAF. This could be because your instance lacks data on the table or filters you configured excluded records from the table. You can reach out to Now Support for additional assistance if you cannot resolve this error.
 
-## Related
-
-- [[setup-ai-search-gaf|Set up AI Search for GAF]]
-- [[group-action-framework|Group Action Framework]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]

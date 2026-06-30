@@ -14,10 +14,10 @@ breadcrumb: [Use, Health and Safety Environmental Management, Health and Safety,
 
 # Chemical management
 
-Use the [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] application to view the chemical library, raise chemical requests, and submit the requests for approvals.
+Use the Health and Safety Environmental Management application to view the chemical library, raise chemical requests, and submit the requests for approvals.
 
 -   **[View the chemical library as an employee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-view-chemical-library.md)**  
-The chemical library is a centralized repository that lists all chemicals used or managed by an organization. Employees can access the chemical library through the [[employee-center-landing-page|Employee Center]].
+The chemical library is a centralized repository that lists all chemicals used or managed by an organization. Employees can access the chemical library through the Employee Center.
 -   **[Create a chemical request from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-chemical-request-ec.md)**  
 Employees can request a chemical available in the chemical library or initiate a request for a new chemical from the Employee Center.
 -   **[Submit a chemical request for approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-submit-chemical-request-approval.md)**  
@@ -31,14 +31,9 @@ Chemical manager can complete the chemical record for an approved chemical manua
 -   **[Delete a chemical record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-delete-chemical-record.md)**  
 When a chemical is no longer needed or was created in error, deleting it permanently removes the record from the system.
 -   **[Request a safety data sheet \(SDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-request-safety-data-sheet-sds.md)**  
-You can [[hs-request-safety-data-sheet-sds|request a safety data sheet \(SDS\)]] from the chemical record to view the safety data for that chemical. The SDS can be downloaded in different languages.
+You can request a safety data sheet \(SDS\) from the chemical record to view the safety data for that chemical. The SDS can be downloaded in different languages.
 -   **[Monitor and manage the Regulatory list for a chemical substance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-monitor-manage-regulatory-tab.md)**  
 Use the Regulatory tab on a chemical substance record to quickly assess regulatory conformance status, review regulations, and track upcoming and overdue regulatory obligations.
 
 **Parent Topic:**[Using Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-environmental-management.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hs-request-safety-data-sheet-sds|Request a safety data sheet \(SDS\)]]

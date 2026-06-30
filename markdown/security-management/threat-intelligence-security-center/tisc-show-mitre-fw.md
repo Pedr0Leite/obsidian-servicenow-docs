@@ -32,9 +32,9 @@ Select the required MITRE ATT&amp;CK matrix from the **Matrix** drop-down list. 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click the **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click the **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -64,7 +64,3 @@ Select the required MITRE ATT&amp;CK matrix from the **Matrix** drop-down list. 
 
 **Parent Topic:**[Add artifacts to case\(s\) or case task\(s\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-artifacts-to-a-case-s.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]

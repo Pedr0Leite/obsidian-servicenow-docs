@@ -15,7 +15,7 @@ breadcrumb: [Exploring Sidebar, Sidebar, Conversational Interfaces]
 
 # Activity stream in Sidebar
 
-If [[sidebar-landing|Sidebar]] is integrated with the activity stream, you can create links to discussions and post discussion messages directly to the related record as an activity stream record.
+If Sidebar is integrated with the activity stream, you can create links to discussions and post discussion messages directly to the related record as an activity stream record.
 
 **Note:** Sidebar and discussion tiles are available only with Next Experience and not in Core UI.
 
@@ -81,6 +81,3 @@ To remove a message from the activity stream, select the **More Actions** menu f
 
 \[Omitted image "sidebar-remove-message.png"\] Alt text: Remove a message.
 
-## Related
-
-- [[sidebar-landing|Sidebar]]

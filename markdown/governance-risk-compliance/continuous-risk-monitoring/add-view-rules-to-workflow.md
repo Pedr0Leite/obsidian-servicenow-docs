@@ -14,7 +14,7 @@ breadcrumb: [Workflow configuration, CAM workflow configuration, Using CAM, Cont
 
 # Add view rules to workflow
 
-Configure custom view rules to display specific fields, sections, or layouts for authorization packages using a particular [[work-configuration|workflow configuration]]. View rules enable workflow-specific user interfaces without modifying the base package form.
+Configure custom view rules to display specific fields, sections, or layouts for authorization packages using a particular workflow configuration. View rules enable workflow-specific user interfaces without modifying the base package form.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **Workflow Configurations**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **Workflow Configurations**.
 
 2.  Select a workflow Configuration to add a view rule.
 
@@ -142,8 +142,4 @@ To configure which form tabs display.
 
 5.  Select **Submit** to add the new view rule.
 
-## Related
 
-- [[work-configuration|Workflow configuration]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

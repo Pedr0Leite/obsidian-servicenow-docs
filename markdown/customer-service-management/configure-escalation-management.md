@@ -28,7 +28,7 @@ An escalation provides increased attention to a customer issue and provides a wa
 
 2.  On the Getting Started page of the guided setup, click **Get Started**.
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
 <table id="table_pz1_qqv_llb"><thead><tr><th>
 
@@ -66,9 +66,5 @@ The escalation severity defines the type of escalation and the color used to rep
 **Related topics**  
 
 
-[[customer-service-case-escalation|Case and account escalation]]
+[Case and account escalation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-escalation.md)
 
-## Related
-
-- [[customer-service-case-escalation|Case and account escalation]]
-- [[case-management|Case management]]

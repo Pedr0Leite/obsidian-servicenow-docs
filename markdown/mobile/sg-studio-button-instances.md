@@ -18,11 +18,11 @@ For each function you create for an app, you must associate it with a specific l
 
 <table id="table_sgr_glt_1nb"><tbody><tr><td>
 
-Launcher screen header functions allow your users to navigate to a specific parametrized [[form-screen|record screen]]. Some common examples include navigating to a users profile, or navigating to a cart.
+Launcher screen header functions allow your users to navigate to a specific parametrized record screen. Some common examples include navigating to a users profile, or navigating to a cart.
 
- For details on creating parametrized record screens, see [[configure-param-form-applet|Configure a parameterized record screen]].
+ For details on creating parametrized record screens, see [Configure a parameterized record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-param-form-applet.md).
 
- For details on how to use these record screens in a launcher screen header, see [[create-alp-header|Configure a launcher screen header]].
+ For details on how to use these record screens in a launcher screen header, see [Configure a launcher screen header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-alp-header.md).
 
 </td><td>
 
@@ -33,7 +33,7 @@ Launcher screen header functions allow your users to navigate to a specific para
 
 <table id="table_kxn_4jt_1nb"><tbody><tr><td>
 
-Chart header functions enable your users to navigate to a specific set of records from a [[chart-screen|chart screen]]. When a user is viewing a chart, they can click on the chart header function \(\[Omitted image "chart-function-icon.png"\] Alt text: chart function icon\) on the top-right corner of the screen, to view a list of all the records that are within the chart. .
+Chart header functions enable your users to navigate to a specific set of records from a chart screen. When a user is viewing a chart, they can click on the chart header function \(\[Omitted image "chart-function-icon.png"\] Alt text: chart function icon\) on the top-right corner of the screen, to view a list of all the records that are within the chart. .
 
 </td><td>
 
@@ -46,12 +46,12 @@ Chart header functions enable your users to navigate to a specific set of record
 
 Field functions enable your end users to change the value of a field. Field functions only apply to items on the details screen in a displayed area.
 
- 1.  In [[mab-concept|Mobile App Builder]], open a details screen that you want to add a field function to. Make sure that there are [[sg-screen-field-enhancements|screen fields]] in your details screen that you can add field functions to, and a Table selected.
+ 1.  In Mobile App Builder, open a details screen that you want to add a field function to. Make sure that there are screen fields in your details screen that you can add field functions to, and a Table selected.
 2.  For each screen field on your details screen, you can add a field function under **Field function instances** field. You can't reuse previous function instance records.
 3.  In the **Display label** field of the new Function instance record, add the name of the function to display.
 4.  Select **Save**.
 
- For more information on how to create field functions, see [[configure-form-details-screen|Configure a details screen for a record screen]].
+ For more information on how to create field functions, see [Configure a details screen for a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-form-details-screen.md).
 
 </td><td>
 
@@ -64,14 +64,14 @@ Field functions enable your end users to change the value of a field. Field func
 
 Footer functions enable your end users to add an action on the bottom of a record screen.
 
- Supported screens for the footer function are: record details screen, record embedded section screen, dynamic segments in a record screen, [[map-screen|map screen]], and list screens.
+ Supported screens for the footer function are: record details screen, record embedded section screen, dynamic segments in a record screen, map screen, and list screens.
 
  1.  In Mobile App Builder open a screen that you want to add a footer function to.
 2.  In the Footer function instance section, select **New** to create a function instance. You cannot reuse previous function instance records.
 3.  In the **Display label** field of the new Function instance record, add the name of the function to display.
 4.  Complete all the other required inputs for the record, then select **Save**.
 
- For more details on how to create a footer function, see [[sg-launcher-navigation-example-4|Use your navigation function as a footer function]].
+ For more details on how to create a footer function, see [Use your navigation function as a footer function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-launcher-navigation-example-4.md).
 
 </td><td>
 
@@ -82,7 +82,7 @@ Footer functions enable your end users to add an action on the bottom of a recor
 
 <table id="table_cx1_g3t_1nb"><tbody><tr><td>
 
-Use the on tap function instance to trigger a function when a user taps on a record in a list. This function location can, for example, navigate a user to another screen when they tap a record. On tap functions are configured on list item config records, which are used in any screen that needs to display a list of records. 1.  In Mobile App Builder open a [[list-screen|list screen]] that you want to add an on tap function.
+Use the on tap function instance to trigger a function when a user taps on a record in a list. This function location can, for example, navigate a user to another screen when they tap a record. On tap functions are configured on list item config records, which are used in any screen that needs to display a list of records. 1.  In Mobile App Builder open a list screen that you want to add an on tap function.
 2.  Select the List item config record field. For example, this field is found in a stream record within a screen segment record.
 3.  In the list item config record, locate the **On tap** field and select **Use a function instance**.
 4.  Populate the list item config record with the navigation function that you want to use.
@@ -104,23 +104,23 @@ Use top menu function location for less frequently used actions, and on record s
 3.  In the new Function instance record, populate the **Display** label with the words you want displayed on your function. In the Function placement section, the fields are auto-populated based on your screen record’s details.
 4.  Select **Save** after filling in all other required inputs on each record.
 
- For more details on how to create a top menu function, see [[sg-launcher-navigation-example-3|Use your navigation function as a top menu selection]].
+ For more details on how to create a top menu function, see [Use your navigation function as a top menu selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-launcher-navigation-example-3.md).
 
 </td><td>
 
 \[Omitted image "top-menu.png"\] Alt text: Top menu for an incident which includes the following functions: Reassign, Resolve, Add comments, and Edit.
 
 </td></tr></tbody>
-</table>## Quick [[mobile-actions|action functions]]
+</table>## Quick action functions
 
 <table id="table_irj_qsw_wlb"><tbody><tr><td>
 
-Use the quick action item location to provide your users with a shortcut to an item or action in your [[sg-mobile-applet-launcher|launcher screens]]. Users access quick actions by tapping the quick action icon.
+Use the quick action item location to provide your users with a shortcut to an item or action in your launcher screens. Users access quick actions by tapping the quick action icon.
 
 -   For Android users quick actions appear under a plus icon \(\[Omitted image "quick-action-icon.png"\] Alt text: Android quick action icon\) at the bottom-right corner of the launcher screen.
 -   For iOS quick actions appear under the ellipsis icon \(\[Omitted image "quick-action-icon-ios.png"\] Alt text: iOS quick action icon\).
 
- For details on configuring quick actions, see [[sg-config-quick-actions|Quick actions]].
+ For details on configuring quick actions, see [Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-quick-actions.md).
 
 </td><td>
 
@@ -141,7 +141,7 @@ The swipe function location applies to screens that display a list, including a 
 4.  In the Function section, select the function record you would like to use, or select **New**. This function determines the behavior that the system performs when a user taps the footer function.
 5.  Select **Save** after filling in all other required inputs on each record.
 
- For more details on how to create a standard function, see [[sg-config-navigation-function|Configure a navigation to a screen]].
+ For more details on how to create a standard function, see [Configure a navigation to a screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-navigation-function.md).
 
 </td><td>
 
@@ -175,21 +175,3 @@ The custom map bottom drawer functions apply to the custom map screen for Indoor
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-param-form-applet|Configure a parameterized record screen]]
-- [[create-alp-header|Configure a launcher screen header]]
-- [[configure-form-details-screen|Configure a details screen for a record screen]]
-- [[sg-launcher-navigation-example-4|Use your navigation function as a footer function]]
-- [[sg-launcher-navigation-example-3|Use your navigation function as a top menu selection]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[sg-config-navigation-function|Configure a navigation to a screen]]
-- [[form-screen|Record screen]]
-- [[chart-screen|Chart screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-screen-field-enhancements|Screen fields]]
-- [[map-screen|Map screen]]
-- [[list-screen|List screen]]
-- [[mobile-actions|Action functions]]
-- [[sg-mobile-applet-launcher|Launcher screens]]

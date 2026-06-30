@@ -43,10 +43,7 @@ As a contract reviewer, review and provide feedback on contract documents
 -   **[Share requested information for internal review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-info-reviewtask.md)**  
 As a contract fulfiller, share information requested by the reviewer to proceed with the contract document review.
 -   **[Cancel an internal review task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-close-review-task.md)**  
-As a contract fulfiller, [[snlc-close-int-review-task|cancel a review task]] irrespective of its state.
+As a contract fulfiller, cancel a review task irrespective of its state.
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[snlc-close-int-review-task|Cancel a review task]]

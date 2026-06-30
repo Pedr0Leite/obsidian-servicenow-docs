@@ -24,15 +24,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[agent-calendar|Managing agent calendar]]
+[Managing agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/agent-calendar.md)
 
 </td><td>
 
-Customer service agents and field service technicians can [[use-agent-calendar|use the agent calendar]] to see work schedules and assignments and also add personal events such as meetings or appointments.
+Customer service agents and field service technicians can use the agent calendar to see work schedules and assignments and also add personal events such as meetings or appointments.
 
 </td></tr><tr><td>
 
-[[use-microsoft-outlook-with-csm|Using Microsoft Outlook with CSM]]
+[Using Microsoft Outlook with CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-microsoft-outlook-with-csm.md)
 
 </td><td>
 
@@ -40,15 +40,15 @@ Integrating Microsoft Outlook with CSM helps to improve collaboration among team
 
 </td></tr><tr><td>
 
-[[customer-service-mobile-interface|Mobile experience for Customer Service Management]]
+[Mobile experience for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-mobile-interface.md)
 
 </td><td>
 
-Manage customer service cases from a mobile device with the [[c_CustomerServiceManagement|Customer Service Management]] mobile application. Stay connected and access information in real time to complete tasks quickly.
+Manage customer service cases from a mobile device with the Customer Service Management mobile application. Stay connected and access information in real time to complete tasks quickly.
 
 </td></tr><tr><td>
 
-[[install-base-work-plans|Install base work plans]]
+[Install base work plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-base-work-plans.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ You can create an install base work plan on the Customer Service Management appl
 
 </td></tr><tr><td>
 
-[[using-post-sales-support|Using Customer Contracts and Entitlements]]
+Using Customer Contracts and Entitlements
 
 </td><td>
 
@@ -64,13 +64,3 @@ Learn how consumers, managers, agents, and administrators use the Customer Contr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[agent-calendar|Managing agent calendar]]
-- [[use-microsoft-outlook-with-csm|Using Microsoft Outlook with CSM]]
-- [[customer-service-mobile-interface|Mobile experience for CSM]]
-- [[install-base-work-plans|Install base work plans]]
-- [[use-agent-calendar|Use the agent calendar]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[using-post-sales-support|Using Customer Contracts and Entitlements]]

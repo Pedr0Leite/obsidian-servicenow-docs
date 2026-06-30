@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -49,7 +49,7 @@ Role required: sn\_sec\_tisc.analyst
     **Note:**
 
     -   In case if you want to add more fields then select the fields and add it directly within your case report.
-    -   If you want to add related list, for example a list of [[c_Observables|observables]] then select Observables. All the observables associated for that particular case will be listed, select one or more observables ans click **Add**. You can also filter out the required observable and add it to your case.
+    -   If you want to add related list, for example a list of observables then select Observables. All the observables associated for that particular case will be listed, select one or more observables ans click **Add**. You can also filter out the required observable and add it to your case.
 8.  Click **Save Content** to save the contents of your report.
 
 9.  Click **Preview** to preview the report.
@@ -107,8 +107,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Using playbooks]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[c_Observables|Observables]]

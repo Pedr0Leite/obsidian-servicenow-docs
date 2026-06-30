@@ -22,11 +22,11 @@ Role required: sn\_wsd\_case.manager
 
 ## About this task
 
-Save time from manually entering details in a child case or task triggered by a parent workplace case. The Workplace Service [[activity-lxp|Activity]] Field Mapping or Workplace Service item Field Mapping enables you to copy the details specified in a parent case's field to its child cases and tasks. This option is available only for the [[workplace-services|workplace services]] of the type Workplace Service activity and for tasks or cases triggered by a Workplace Service item request. You must create individual field mapping records for each field mapping.
+Save time from manually entering details in a child case or task triggered by a parent workplace case. The Workplace Service Activity Field Mapping or Workplace Service item Field Mapping enables you to copy the details specified in a parent case's field to its child cases and tasks. This option is available only for the workplace services of the type Workplace Service activity and for tasks or cases triggered by a Workplace Service item request. You must create individual field mapping records for each field mapping.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
 
 2.  Select the workplace service to which you want to apply the field mapping.
 
@@ -56,7 +56,7 @@ Save time from manually entering details in a child case or task triggered by a 
     |Active|Option to activate the mapping.|
     |Map to table|Table to which the field details are copied.|
     |Map to field|Field to which the value is copied.|
-    |Order|Order in which the field mapping must be performed when there are multiple [[field-mappings-sf|field mappings]].|
+    |Order|Order in which the field mapping must be performed when there are multiple field mappings.|
     |Condition|Conditions that must be matched to apply the field mapping. Click **New criteria** to add conditions.|
 
 10. Click **Submit**.
@@ -103,9 +103,3 @@ The field mapping record is added.
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[field-mappings-sf|Field mappings]]

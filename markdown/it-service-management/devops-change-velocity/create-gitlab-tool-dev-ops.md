@@ -14,7 +14,7 @@ breadcrumb: [GitLab, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Onboard GitLab to DevOps Change Velocity — Classic
 
-Create an GitLab tool record in [[devops-landing-page-new|DevOps Change Velocity]] to connect, discover, and import GitLab tool data.
+Create an GitLab tool record in DevOps Change Velocity to connect, discover, and import GitLab tool data.
 
 ## Before you begin
 
@@ -87,7 +87,7 @@ GitLab access token**Note:** Only personal access token is supported. When you g
     -   Other DevOps roles: Can view the tool.
     **Note:** Only groups containing users with DevOps roles are available for selection in the **Maintained by** field.
 
-    The **All App Owners can view and associate tool objects to [[dex-workspace-application-tab|applications]]** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
+    The **All App Owners can view and associate tool objects to applications** option becomes available for selection if you choose to restrict access to the tool. This option enables all users having the DevOps App Owner role to access the tool. If selected, they’ll be able to view, associate, discover, import historical data, and modify pipeline steps \(if applicable\) of the tool's objects.
 
 4.  Click **Discover** to discover existing plans, repositories, and pipelines, and fill in the fields in the project Search Filter window.
 
@@ -139,7 +139,3 @@ Searches for the repositories in projects with the specified text string.
 
 **Parent Topic:**[GitLab integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/gitlab-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]

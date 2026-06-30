@@ -22,11 +22,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text: Learn about Configuration Compliance concepts and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about Configuration Compliance concepts and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl.md)
 
 </td><td>
 
-[Set up, [[configure-cortex-xsiam-siem|Install and Configure]] \[Omitted image "bus-sdlc.svg"\] Alt text: Configure Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-configuring.md)
+[Set up, Install and Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Configure Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-configuring.md)
 
 </td><td>
 
@@ -34,7 +34,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Use the [[vr-wkspace-overview-v16|Vulnerability Response Workspaces]] \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Learn how to monitor, manage and remediate configuration issues in the Vulnerability Manager, IT Remediation, and Vulnerability Assessment Workspaces.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response-workspaces/vr-wkspace-overview-v16.md)
+[Use the Vulnerability Response Workspaces \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Learn how to monitor, manage and remediate configuration issues in the Vulnerability Manager, IT Remediation, and Vulnerability Assessment Workspaces.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response-workspaces/vr-wkspace-overview-v16.md)
 
 </td><td>
 
@@ -64,8 +64,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[vr-wkspace-overview-v16|Vulnerability Response Workspaces]]

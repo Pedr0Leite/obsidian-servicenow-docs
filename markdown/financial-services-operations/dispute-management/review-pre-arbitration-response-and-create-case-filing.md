@@ -26,7 +26,7 @@ After you receive the merchant’s response for pre-arbitration, the response is
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -50,7 +50,7 @@ After you receive the merchant’s response for pre-arbitration, the response is
 
     You can also view the merchant response as an attachment in the activity stream.
 
-    **Note:** If [[card-data-security|Card Data Security]] is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 10. In the **Pre arbitration outcome** field, select **Resolved** or **Unresolved**.
 
@@ -98,7 +98,3 @@ Retrieve the letter by selecting `Get acknowledgement letter`. The letter can be
 
 **Parent Topic:**[Collaboration dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/collaboration-dispute-workflow.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[card-data-security|Card Data Security]]

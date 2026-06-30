@@ -14,7 +14,7 @@ breadcrumb: [Industrial Workspace, Operational Technology]
 
 # Configuring the Industrial Workspace
 
-Configure [[industrial-workspace-for-operational-technology|Industrial Workspace]] so that you can manage your [[operational-technology-overview|Operational Technology]] \(OT\) data.
+Configure Industrial Workspace so that you can manage your Operational Technology \(OT\) data.
 
 If you have the admin role, you can use Guided Setup to lead you through the setup of the Industrial Workspace. Guided Setup is a tool that assists with application or capability configuration. It organizes the configuration activities into categories. These categories contain the information about the setup tasks, the steps to complete each task, and the links to the pages in your instance where you perform the configuration. The links to useful help content are also provided.
 
@@ -29,13 +29,13 @@ The following table lists the Guided Setup tasks and their purposes for the Indu
 |Complete the configuration tasks for the OT Action-Oriented Landing Page.|Configures the OT Action-Oriented Landing Page so users can access the landing page in the Industrial Workspace.|
 |Complete the configuration tasks for the OT Progress Scorecard.|Configures the OT Progress Scorecard so users can begin comparing site data and progress in the Industrial Workspace.|
 |Complete the configuration tasks for the OT Visibility dashboard.|Configures the tabs on the OT Visibility dashboard so users can access the dashboard in the Industrial Workspace.|
-|Complete the configuration tasks for the [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]].|Configures the Operational Technology Vulnerability Response \(PA\) dashboard in the Industrial Workspace.|
+|Complete the configuration tasks for the Operational Technology Vulnerability Response \(PA\) dashboard.|Configures the Operational Technology Vulnerability Response \(PA\) dashboard in the Industrial Workspace.|
 |Complete the configuration tasks for the OT Unified Map experience|Configures the OT Unified Map experience if you want to modify the default settings.|
 
 -   **[Assign the Industrial Workspace role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/assign-industrial-workspace-roles.md)**  
-[[assign-industrial-workspace-roles|Assign the Industrial Workspace role]] to your users so that you can control their access to the workspace's features, capabilities, and data.
+Assign the Industrial Workspace role to your users so that you can control their access to the workspace's features, capabilities, and data.
 -   **[Review the homepage destination rules for the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/review-iw-homepage-destination-rules.md)**  
-[[review-iw-homepage-destination-rules|Review the homepage destination rules for the Industrial Workspace]].
+Review the homepage destination rules for the Industrial Workspace.
 -   **[Setting up the Operational Technology Action-Oriented Landing Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-task-oriented-landing-page.md)**  
 Set up the Operational Technology \(OT\) Action-Oriented Landing Page in the Industrial Workspace so that your users can access their critical tasks.
 -   **[Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md)**  
@@ -53,10 +53,3 @@ Set up the Operational Technology \(OT\) Network Map so that you can access the 
 
 **Parent Topic:**[Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/industrial-workspace-for-operational-technology.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]
-- [[assign-industrial-workspace-roles|Assign the Industrial Workspace role]]
-- [[review-iw-homepage-destination-rules|Review the homepage destination rules for the Industrial Workspace]]

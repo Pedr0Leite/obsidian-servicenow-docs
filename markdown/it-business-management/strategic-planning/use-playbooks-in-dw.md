@@ -44,13 +44,13 @@ The demand AI playbook is a standard playbook comprising the following stages:
 
 Each stage includes activities, action items, or steps for completing the demand. You can view the **Playbook** menu only if the demand matches the trigger condition defined for that playbook.
 
-**Note:** A demand created in Next Experience for [[c_DemandManagement|Demand Management]] opens in the playbook page.
+**Note:** A demand created in Next Experience for Demand Management opens in the playbook page.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Demands**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Demands**.
 
-2.  Open an existing demand or [[t_CreatingDemands|create a demand]].
+2.  Open an existing demand or create a demand.
 
     For more information, see [Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-demand-from-dw.md).
 
@@ -77,7 +77,7 @@ Each stage includes activities, action items, or steps for completing the demand
         -   Use the **Restart** option \(available at both the activity and stage levels\) to revisit or edit completed or skipped activities.
         -   Some stages include an automated task that advances the demand state when all activities in the stage are completed. These automated tasks don't require manual action.
     -   To create a playbook, define the trigger condition in Workflow Studio. For more information, see [Triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/process-automation-designer-triggers.md).
-    For more information on how to create and [[use-playbooks-spm-retail|use playbooks]], see [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/building-a-process.md) and [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-experience-admins.md).
+    For more information on how to create and use playbooks, see [Building Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/building-a-process.md) and [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-experience-admins.md).
 
 
 **Related topics**  
@@ -91,9 +91,3 @@ Each stage includes activities, action items, or steps for completing the demand
 
 [Demand default playbook stages and activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/demand-default-playbook-stages.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_CreatingDemands|Create a demand]]
-- [[use-playbooks-spm-retail|Use playbooks]]

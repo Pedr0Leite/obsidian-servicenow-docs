@@ -14,12 +14,9 @@ breadcrumb: [Project Management, Project Portfolio Management, Strategic Portfol
 
 # Configuring Project Management
 
-Learn about the process required to set up and configure [[c_ProjectApplicationOverview|Project Management]] to enable your project managers initiate and plan projects.
+Learn about the process required to set up and configure Project Management to enable your project managers initiate and plan projects.
 
 ## Configuration overview
 
 With the Project Management application, you can plan, organize, and manage projects and resources more effectively, making it easier and faster to complete projects. To use the Project Management application, you need to install the PPM Standard plugin. For more information, see [PPM Standard \(Project Portfolio Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuiteWithFinancials.md).
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]

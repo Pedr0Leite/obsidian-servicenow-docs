@@ -14,7 +14,7 @@ breadcrumb: [Basic system configuration, Get started, Administer the ServiceNow 
 
 Several properties support Web proxy configuration.
 
-**Note:** Set these properties in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] `[sys_properties]` table.
+**Note:** Set these properties in the System Properties `[sys_properties]` table.
 
 <table id="table_iyk_qll_cr"><thead><tr><th>
 
@@ -94,19 +94,12 @@ Set the URL to use in emailed links in place of the instance URL. The URL should
 https://servicenow.customerdomain.com/production/nav\_to.do
 
 </td></tr></tbody>
-</table>-   **[[r_NTLMAuthentication|NTLM authentication]]**  
+</table>-   **[NTLM authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_NTLMAuthentication.md)**  
 NTLM is the most complex of the authentication protocols supported by a basic web server.
--   **[[c_ProxyServersForSOAPClients|Proxy servers for SOAP clients]]**  
+-   **[Proxy servers for SOAP clients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ProxyServersForSOAPClients.md)**  
 Administrators can specify separate proxy settings for SOAP clients, such as the MID Server or ODBC Driver.
--   **[[r_BypassTheProxyServer|Bypass the proxy server]]**  
+-   **[Bypass the proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_BypassTheProxyServer.md)**  
 Administrators can configure the instance to bypass the proxy server for specific URLs or URL patterns.
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[r_NTLMAuthentication|NTLM authentication]]
-- [[c_ProxyServersForSOAPClients|Proxy servers for SOAP clients]]
-- [[r_BypassTheProxyServer|Bypass the proxy server]]
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

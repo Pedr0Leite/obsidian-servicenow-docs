@@ -14,7 +14,7 @@ breadcrumb: [Field settings, Indexed sources, Configuring AI Search, AI Search, 
 
 # Enable indexing of referenced table fields for an AI Search indexed source
 
-Configure an indexed source to index field values from tables referenced by fields in the source table. You can index these field values for use in filters and EVAM search result [[clone-configurations-tab|configurations]], index them for search, or both.
+Configure an indexed source to index field values from tables referenced by fields in the source table. You can index these field values for use in filters and EVAM search result configurations, index them for search, or both.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: ais\_admin
 
 ## About this task
 
-When an indexed source table includes a [[reference-email-admin|reference]] field, [[ia-ai-search|AI Search]] defaults to indexing values for the reference field but not for other fields on the table that it references. To index values from these referenced table fields, you can create **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** field settings on your indexed source table.
+When an indexed source table includes a reference field, AI Search defaults to indexing values for the reference field but not for other fields on the table that it references. To index values from these referenced table fields, you can create **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** field settings on your indexed source table.
 
 -   To use field values from referenced tables in search source filters, facet filters, and EVAM search result configurations, create a **dot\_walk\_fields** field setting.
 -   To make field values from referenced tables searchable, create a **searchable\_dot\_walk\_fields** field setting.
@@ -70,8 +70,3 @@ You can create both **dot\_walk\_fields** and **searchable\_dot\_walk\_fields** 
 
 **Parent Topic:**[Field settings for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/field-settings-ais.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]
-- [[ia-ai-search|AI Search]]

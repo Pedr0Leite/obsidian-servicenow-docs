@@ -36,7 +36,7 @@ Run Threat Look Up
 
 </td><td>
 
-On Screen 1 – Select the implementation\(s\) and submit.There are no [[common-inputs|common inputs]] or implementation specific inputs applicable for Run Threat Look Up.
+On Screen 1 – Select the implementation\(s\) and submit.There are no common inputs or implementation specific inputs applicable for Run Threat Look Up.
 
 </td><td>
 
@@ -45,11 +45,11 @@ On Screen 1 – Select the implementation\(s\) and submit.There are no [[common-
 
 </td></tr><tr><td>
 
-[[tisc-run-sighting-search|Run Sighting Search]]
+Run Sighting Search
 
 </td><td>
 
-Screen 1 – [[implementation-selection|Select Implementations]] and Screen 2 – Common Inputs are applicable.Sighting search takes date and time frequency as common inputs across multiple implementations of Splunk and other integrations.
+Screen 1 – Select Implementations and Screen 2 – Common Inputs are applicable.Sighting search takes date and time frequency as common inputs across multiple implementations of Splunk and other integrations.
 
 </td><td>
 
@@ -58,7 +58,7 @@ Screen 1 – [[implementation-selection|Select Implementations]] and Screen 2 �
 
 </td></tr><tr><td>
 
-[[tisc-run-observable-enrichment|Run Observable Enrichment]]
+Run Observable Enrichment
 
 </td><td>
 
@@ -71,9 +71,9 @@ Only Screen 1 – Select Implementations.There are no common inputs or implement
 
 </td></tr></tbody>
 </table>-   **[Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-observable-enrichment.md)**  
-The [[enrich-observable-whois-wf|Enrich Observable WhoIs workflow]] performs enrichment on selected [[c_Observables|observables]]. If the observables are of a type recognized by the [[whois-landing-page|WhoisXML API Integration]], the observables are enriched.
+The Enrich Observable WhoIs workflow performs enrichment on selected observables. If the observables are of a type recognized by the WhoisXML API Integration, the observables are enriched.
 -   **[Run Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-run-threat-lookup.md)**  
-Select one or more implementations as applicable to [[tisc-run-threat-lookup|run threat lookup]] on observables.
+Select one or more implementations as applicable to run threat lookup on observables.
 -   **[Run Sighting Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-run-sighting-search.md)**  
 Perform Run Sighting Search related integration.
 -   **[Run Observable Enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-run-observable-enrichment.md)**  
@@ -81,13 +81,3 @@ Select one or more implementations as applicable to run threat lookup on observa
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[common-inputs|common inputs]]
-- [[tisc-run-sighting-search|Run Sighting Search]]
-- [[implementation-selection|Select implementations]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]
-- [[enrich-observable-whois-wf|Enrich Observable WhoIs workflow]]
-- [[c_Observables|Observables]]
-- [[whois-landing-page|WhoisXML API integration]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]

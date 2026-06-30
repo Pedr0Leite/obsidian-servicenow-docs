@@ -14,14 +14,14 @@ breadcrumb: [Use generative AI skills, Now Assist for HR Service Delivery \(HRSD
 
 # View employee summary reports
 
-View the Employee Summary Virtual Agent topic in [[employee-center-landing-page|Employee Center]] to access employee contribution summaries, view consolidated profiles, and track employee progress.
+View the Employee Summary Virtual Agent topic in Employee Center to access employee contribution summaries, view consolidated profiles, and track employee progress.
 
 ## Before you begin
 
 You must have one of the following plugins to view this topic:
 
--   [[manager-hub-overview|Manager Hub]] \(sn\_mh\)
--   [[td-lh-landing|Leader Hub]] \(sn\_egd\_lh\)
+-   Manager Hub \(sn\_mh\)
+-   Leader Hub \(sn\_egd\_lh\)
 
 Role required: sn\_egd\_lh.leader or sn\_mh.manager\_hub\_user
 
@@ -57,7 +57,7 @@ The Employee summary report is available to review. You can enter follow-up ques
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -87,9 +87,3 @@ The Employee summary report is available to review. You can enter follow-up ques
 
 [Analyze sentiments in Now Assist for HR Service Delivery \(HRSD\)]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[manager-hub-overview|Manager Hub]]
-- [[td-lh-landing|Leader Hub]]
-- [[hr-service-delivery|HR Service Delivery]]

@@ -15,7 +15,7 @@ breadcrumb: [Integrating Virtual Agent with Workflow Studio workflows, Exploring
 
 # Virtual Agent secure password inputs
 
-The **Include a password input** toggle switch on the [[va-action|Action utility]] properties sheet lets you enter passwords securely for use in [[virtual-agent-landing-page|Virtual Agent]] conversations.
+The **Include a password input** toggle switch on the Action utility properties sheet lets you enter passwords securely for use in Virtual Agent conversations.
 
 If the workflow discovers a password2 type as an input, the Action utility properties sheet displays the **Include a password input** toggle switch.
 
@@ -51,7 +51,3 @@ Note the following points about how password-related inputs are handled securely
 
 **Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-flow-designer-integration.md)
 
-## Related
-
-- [[va-action|Action utility]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -26,7 +26,7 @@ Create relationship records for your organization.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Relationships**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Relationships**.
 
 2.  Click **New** or edit an existing relationship.
 
@@ -45,7 +45,3 @@ Create relationship records for your organization.
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

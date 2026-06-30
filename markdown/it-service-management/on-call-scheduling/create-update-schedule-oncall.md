@@ -24,11 +24,11 @@ Role required: rota\_admin, rota\_manager
 
 You can use the wizard to create an on-call schedule using an existing template or you can create shifts from scratch. You can create multiple shifts at given time and can preview shifts while creating them. This enables you to create rosters, define escalation policies, and review and publish shifts.
 
-After running the wizard, you can adjust individual roster, escalation, and reminder [[settings-mobile|settings]] to fine-tune the setup. You can also enable on-call notifications by setting up rotation workflow triggers.
+After running the wizard, you can adjust individual roster, escalation, and reminder settings to fine-tune the setup. You can also enable on-call notifications by setting up rotation workflow triggers.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Create/Edit Schedule**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Create/Edit Schedule**.
 
 2.  In the **Define Schedule**, from the **Select Group** choice list, select the group for which you are defining the schedule.
 
@@ -394,7 +394,3 @@ Use the Timeline view of an On-Call schedule to update or manage shifts based on
 
 **Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/manage-schedules-and-shifts.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

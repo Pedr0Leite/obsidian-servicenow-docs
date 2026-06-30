@@ -44,12 +44,9 @@ The Compliance Workspace provides an exclusive home page for the IT compliance m
 
 ## IT Compliance List overview
 
-As you log in as an IT compliance manager, all the data in the [[list-view-uib-ws|List view]] of the Compliance Workspace are filtered to display those records that fall within the IT risk and compliance functional domain. Therefore, you get to view those records that are related to your user role and complete the IT-related tasks without filtering them manually.
+As you log in as an IT compliance manager, all the data in the List view of the Compliance Workspace are filtered to display those records that fall within the IT risk and compliance functional domain. Therefore, you get to view those records that are related to your user role and complete the IT-related tasks without filtering them manually.
 
 \[Omitted image "FilterITRelatedData.png"\] Alt text: IT related records in List view.
 
 **Note:** An admin or any user with both corporate compliance manager and IT compliance manager roles can view two list modules with the same name.
 
-## Related
-
-- [[list-view-uib-ws|List view]]

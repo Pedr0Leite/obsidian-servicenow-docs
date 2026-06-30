@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Conversational Integration with WhatsApp \(powered by Twilio\)
 
-Use this application to enable requesters to interact on WhatsApp chat with a [[virtual-agent-landing-page|virtual agent]] or live agent. The application connects a requester with a virtual agent or live agent using your company's WhatsApp-enabled Twilio phone number.
+Use this application to enable requesters to interact on WhatsApp chat with a virtual agent or live agent. The application connects a requester with a virtual agent or live agent using your company's WhatsApp-enabled Twilio phone number.
 
 ## Get started with Conversational Integration with WhatsApp \(powered by Twilio\)
 
@@ -38,6 +38,3 @@ Enable a requester to converse with an agent at their convenience using the What
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

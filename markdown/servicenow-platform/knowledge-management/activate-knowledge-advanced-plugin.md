@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Activate the Knowledge Management Advanced plugin
 
-Activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) to enable advanced features for [[knowledge-management|Knowledge Management]].
+Activate the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) to enable advanced features for Knowledge Management.
 
 ## Before you begin
 
@@ -61,14 +61,10 @@ Demo data is included as part of the Knowledge Management Advanced plugin. If th
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

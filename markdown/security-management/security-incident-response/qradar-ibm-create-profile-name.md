@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  To [[arcsight-esm-create-profile|create a profile]] for an offense in your ServiceNow AI Platform instance, navigate to **IBM QRadar Integration** &gt; **IBM QRadar Profile**.
+1.  To create a profile for an offense in your ServiceNow AI Platform instance, navigate to **IBM QRadar Integration** &gt; **IBM QRadar Profile**.
 
 2.  Click **New**.
 
@@ -88,6 +88,3 @@ Additional text to help you distinguish this profile from other profiles.
 
 The next step is to select the offenses for ingestion.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]

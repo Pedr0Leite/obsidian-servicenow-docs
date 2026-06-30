@@ -14,7 +14,7 @@ breadcrumb: [Document security and access, Document Management, Document Service
 
 # Share documents with users
 
-Assign Reader, Writer or Owner permissions to users to enable them to read, download, update, or [[delete-a-doc|delete documents]].
+Assign Reader, Writer or Owner permissions to users to enable them to read, download, update, or delete documents.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ User permission is assigned to all users, even if they don’t have a role assig
 
 2.  Open the document record.
 
-3.  Select the **Sharing Permissions** [[check-box|check box]].
+3.  Select the **Sharing Permissions** check box.
 
 4.  Select the **User Permissions** tab.
 
@@ -43,7 +43,3 @@ User permission is assigned to all users, even if they don’t have a role assig
 
 **Parent Topic:**[Document security and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-access-settings.md)
 
-## Related
-
-- [[delete-a-doc|Delete documents]]
-- [[check-box|Check box]]

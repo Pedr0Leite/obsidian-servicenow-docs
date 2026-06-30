@@ -25,7 +25,7 @@ Enable sn\_ap\_apm.reader role to access invoice filters for tolerance rules.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **All** &gt; **Tolerance rules**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **All** &gt; **Tolerance rules**.
 
     \[Omitted image "apo-tolerance-rules-nav.png"\] Alt text: Navigate to Tolerance rules
 
@@ -105,7 +105,7 @@ Determine whether the value and percentage both need to be met or whether one of
 
 </td><td>
 
-Filter condition to determine the [[invoices|invoices]] for which the tolerance rule is applicable. For example: **\[Type\]\[is\]\[PO invoice\] AND \[Supplier\]\]is\]\[X\]**. You can concatenate additional filters by using **New Criteria**.
+Filter condition to determine the invoices for which the tolerance rule is applicable. For example: **\[Type\]\[is\]\[PO invoice\] AND \[Supplier\]\]is\]\[X\]**. You can concatenate additional filters by using **New Criteria**.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -117,7 +117,3 @@ The tolerance rule is configured for the selected tolerance type.
 
 **Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]

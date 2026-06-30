@@ -14,7 +14,7 @@ breadcrumb: [Automated breakdowns, Indicator breakdowns, Configure fundamentals,
 
 # Assign an indicator to an automated breakdown
 
-Associate automated or [[formula-indicators|formula indicators]] with a breakdown to enable the collection of broken down scores for those indicators.
+Associate automated or formula indicators with a breakdown to enable the collection of broken down scores for those indicators.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Breakdowns** &gt; **[[automated-breakdowns|Automated Breakdowns]]**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Breakdowns** &gt; **Automated Breakdowns**.
 
 2.  Select a breakdown record.
 
@@ -34,7 +34,7 @@ Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 5.  Click **Save**.
 
-6.  In the **[[c_CreatingBreakdowns|Indicator Breakdowns]]** related list, set the **Display** value to false to hide the breakdown on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and dashboard [[widgets|widgets]].
+6.  In the **Indicator Breakdowns** related list, set the **Display** value to false to hide the breakdown on the Analytics Hub and dashboard widgets.
 
     If the **Display** field is false, broken-down scores are still populated during data collection, but the breakdown is not selectable on the Analytics Hub or on dashboard widgets.
 
@@ -57,11 +57,3 @@ For more information, see [Create or schedule a data collection job](https://raw
 
 **Next topic:**[Manual breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/manual-breakdowns.md)
 
-## Related
-
-- [[formula-indicators|Formula indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[automated-breakdowns|Automated breakdowns]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]

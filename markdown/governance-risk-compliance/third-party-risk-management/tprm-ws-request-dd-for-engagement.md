@@ -22,13 +22,13 @@ Role required: snc\_internal
 
 ## About this task
 
-Because your organization assesses the risk that is associated with doing business with third parties, it performs due diligence for any engagement with a third party. When you request due diligence, you specify the third party's name and the reason for your request. For example, start a new engagement with a third party that you have already engaged or perform due diligence in preparation to renew a contract. You then specify the details that help the Third-party Risk \(TPR\) managers and TPR assessors at your organization proceed with the due diligence processes. If a request is accepted, it initially goes through the IRQ process. After the IRQ process, as part of the Due diligence process, two third-party [[risk-assessments|risk assessments]] begin. One assessment is for the third party and another assessment is for the engagement. For more information, see [Due diligence workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-workflow-in-workspace.md).
+Because your organization assesses the risk that is associated with doing business with third parties, it performs due diligence for any engagement with a third party. When you request due diligence, you specify the third party's name and the reason for your request. For example, start a new engagement with a third party that you have already engaged or perform due diligence in preparation to renew a contract. You then specify the details that help the Third-party Risk \(TPR\) managers and TPR assessors at your organization proceed with the due diligence processes. If a request is accepted, it initially goes through the IRQ process. After the IRQ process, as part of the Due diligence process, two third-party risk assessments begin. One assessment is for the third party and another assessment is for the engagement. For more information, see [Due diligence workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-workflow-in-workspace.md).
 
 **Note:** This feature is available only if the Third-party Risk Management application has been activated. After you install the Risk concentration map feature, you must install a Google license to enable the feature. To enable the risk concentration map feature, see [Enable the TPRM Risk concentration map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-risk-map-configure.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center|Employee Center]]** to open your Employee Center and then select **Risk &amp; Compliance**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** to open your Employee Center and then select **Risk &amp; Compliance**.
 
 2.  Select the **Request due diligence for third-party risk** card.
 
@@ -44,7 +44,7 @@ Because your organization assesses the risk that is associated with doing busine
 
     For descriptions of each type of due diligence request, see [Requesting third-party risk due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-requesting-tpr-due-diligence.md).
 
-    **Note:** If your organization requires a software bill of materials \(SBOM\) from the third party as part of due diligence, select **SBOM required** on the request form. When selected and the engagement uses the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], the system automatically associates an SBOM questionnaire with the engagement's external assessment. For more information, see [Request a software bill of materials from an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom-collect.md).
+    **Note:** If your organization requires a software bill of materials \(SBOM\) from the third party as part of due diligence, select **SBOM required** on the request form. When selected and the engagement uses the Smart Assessment Engine, the system automatically associates an SBOM questionnaire with the engagement's external assessment. For more information, see [Request a software bill of materials from an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom-collect.md).
 
 4.  Select **Add attachments** to include a document with the request.
 
@@ -77,8 +77,3 @@ Because your organization assesses the risk that is associated with doing busine
 
 [Offboarding an engagement without conducting due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dd-request-offboard-no-dd.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[employee-center|employee center]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

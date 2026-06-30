@@ -14,11 +14,11 @@ breadcrumb: [Change Management in Service Operations Workspace, Operating IT ser
 
 # Standard change catalog
 
-Standard changes are pre-approved, low-risk changes with a proven history of success. The [[c_StandardChangeCatalogPlugin|standard change catalog]] contains the changes that have been approved by the [[c_ITILChangeManagement|Change Management]] application as standard changes.
+Standard changes are pre-approved, low-risk changes with a proven history of success. The standard change catalog contains the changes that have been approved by the Change Management application as standard changes.
 
 The standard change catalog enables you to perform the following activities:
 
--   Request, review, and approve standard [[change-templates|change templates]].
+-   Request, review, and approve standard change templates.
 -   Request pre-approved standard changes.
 -   Determine access to standard change templates at the user level.
 
@@ -51,8 +51,3 @@ You can modify standard change templates based on your organization's requiremen
 
 [Conduct a CAB meeting in the CAB workbench]()
 
-## Related
-
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-templates|Change templates]]

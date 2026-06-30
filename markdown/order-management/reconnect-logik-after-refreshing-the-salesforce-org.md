@@ -35,12 +35,9 @@ Role required: Admin
 
 You will be notified when the migration of the Logik environment to the new org is complete.
 
-If Logik has confirmed the migration is complete but you are unable to give a Logik [[please_share_your_feedback_on_admin_assist_responses|user access]] to the org, follow these steps:
+If Logik has confirmed the migration is complete but you are unable to give a Logik user access to the org, follow these steps:
 
 1.  Navigate to the Logik Tenant: Setup &gt; Custom Settings &gt; Click Manage next to the Logik Tenant.
 2.  Edit or confirm that the Administration URL is set to the custom URL of your Logik environment: `https://<tenant>.<sector>.logik.io`.
 3.  Navigate to Installed Packages &gt; Find Salesforce CPQ &gt; Configure &gt; Additional Settings, and update the Salesforce CPQ External Configurator URL to your Logik URL followed by `/ui/configure: https://<tenant>.<sector>.logik.io/ui/configure`.
 
-## Related
-
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]

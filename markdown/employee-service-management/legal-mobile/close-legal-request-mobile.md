@@ -14,7 +14,7 @@ breadcrumb: [Work on a legal request through Mobile Agent, Legal Mobile, Legal S
 
 # Close a legal request through Mobile Agent
 
-[[close-legal-request|Close a legal request]] assigned to you when you've resolved it.
+Close a legal request assigned to you when you've resolved it.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 The legal request is closed and the state changes to Close Complete.
 
-## Related
-
-- [[close-legal-request|Close a legal request]]

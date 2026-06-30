@@ -15,11 +15,11 @@ breadcrumb: [SPW Jira Integrations, Strategic Planning, Strategic Portfolio Mana
 
 # Exploring SPWJira integrations
 
-Learn more about integrating [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace with Jira and review the benefits it can provide for different users in your organization.
+Learn more about integrating Strategic Planning Workspace with Jira and review the benefits it can provide for different users in your organization.
 
 ## SPW Jira integration overview
 
-As a portfolio manager, you may rely on Strategic Planning Workspace \(SPW\) for roadmap planning, prioritization, and aligning work with strategic goals. However, your delivery teams could prefer using tools like Jira for the actual execution of work such as creating and managing stories and epics. This disconnect could create a visibility gap for portfolio managers, making it difficult to [[t_SDLCPPSTrackProgress|track progress]] and ensure alignment between strategy and execution.
+As a portfolio manager, you may rely on Strategic Planning Workspace \(SPW\) for roadmap planning, prioritization, and aligning work with strategic goals. However, your delivery teams could prefer using tools like Jira for the actual execution of work such as creating and managing stories and epics. This disconnect could create a visibility gap for portfolio managers, making it difficult to track progress and ensure alignment between strategy and execution.
 
 The SPW-Jira integration helps solve this problem by providing seamless, bi-directional synchronization of key work items, including Epics, Features, Capabilities, and Stories. This synchronization ensures that updates made in either system are reflected in the other, giving portfolio managers real-time insight into execution without leaving SPW.
 
@@ -48,13 +48,8 @@ The following infographic shows how the integration between SPW and Jira work in
 
 ## What to explore next
 
-To learn more about configuring and using [[spw-jira-landing|SPW Jira Integrations]], see:
+To learn more about configuring and using SPW Jira Integrations, see:
 
 -   [Configuring SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/configuring-spw-jira-integrations.md)
 -   [SPW Jira Integrations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/spw-jira-integrations-reference.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[spw-jira-landing|SPW Jira Integrations]]

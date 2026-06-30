@@ -14,7 +14,7 @@ breadcrumb: [MetricBase, Manage instance data sources, Extend ServiceNow AI Plat
 
 # MetricBase reference
 
-These [[reference|reference]] topics provide additional information about [[metricbase|MetricBase]] [[developer-resources|developer resources]] and [[domain-separation-relationship-formatter-editor|domain separation]].
+These reference topics provide additional information about MetricBase developer resources and domain separation.
 
 -   **[Developer resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/developer-resources.md)**  
 Developers can use JavaScript or REST APIs to insert and retrieve time-series data from the MetricBase database and to run transforms on the data. The transformations enable you to visualize time-series data in a variety of ways.
@@ -25,9 +25,3 @@ MetricBase is installed with these roles.
 
 **Parent Topic:**[MetricBase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/metricbase.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[metricbase|MetricBase]]
-- [[developer-resources|Developer resources]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

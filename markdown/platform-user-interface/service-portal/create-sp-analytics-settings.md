@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights for Service Portal, Analytics and Reporting Solution
 
 # Track Usage Insights in Service Portal
 
-Track [[sp-analytics|Usage Insights for Service Portal]] to monitor key performance indicators with the Usage Insights application.
+Track Usage Insights for Service Portal to monitor key performance indicators with the Usage Insights application.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Portals that have been configured for tracking are listed in the Usage Insights 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Portals**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Portals**.
 
 2.  Select the portal title.
 
@@ -56,7 +56,3 @@ You can now view user analytics tracking for the selected portal by navigating t
 
 [Enable Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-user-experience-analytics.md)
 
-## Related
-
-- [[sp-analytics|Usage Insights for Service Portal]]
-- [[c_ServicePortal|Service Portal]]

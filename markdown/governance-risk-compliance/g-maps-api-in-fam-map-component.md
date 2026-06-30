@@ -67,8 +67,5 @@ The Fam-map component relies on the Dynamic Maps JavaScript API to load the dyna
 
 **Note:** For details about the properties and handlers usage in the Geo-map component, see the Geo-map Readme file. For information on the Google Maps APIs in the Geo-map component, see the KB article: [KB1588661](https://support.servicenow.com/nav_to.do?uri=/kb%3Fid=kb_article_view&sysparm_article=KB1588661)
 
-**Parent Topic:**[[crisis-map-admin-tasks|Setup for Crisis map]]
+**Parent Topic:**[Setup for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-admin-tasks.md)
 
-## Related
-
-- [[crisis-map-admin-tasks|Setup for Crisis map]]

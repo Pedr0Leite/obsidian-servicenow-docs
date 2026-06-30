@@ -14,7 +14,7 @@ breadcrumb: [Configure punchout third-party site purchases, Configure, Sourcing 
 
 # Mapping Product Categories and Units of Measure for seamless checkout in Shopping Hub
 
-You can map the product categories and units of measure for third-party products to the corresponding model categories. This ensures that during checkout, [[shopping-hub-overview|Shopping Hub]] accurately considers and displays the product category for the [[purchase-order-lines|purchase order lines]] \(POL\) and [[purchase-requisition|purchase requisition]] lines \(PRL\) based on your predefined mappings.
+You can map the product categories and units of measure for third-party products to the corresponding model categories. This ensures that during checkout, Shopping Hub accurately considers and displays the product category for the purchase order lines \(POL\) and purchase requisition lines \(PRL\) based on your predefined mappings.
 
 **Note:** You can configure the product category and unit of measure mappings for the products either before or after uploading the catalog index CSV file. However, it's recommended to define these mappings in advance whenever possible and reupload the CSV file if new mappings are added.
 
@@ -22,7 +22,7 @@ You can map the product categories and units of measure for third-party products
 
 ## Create third-party unit mapping
 
-Create a third-party unit mapping to align the punchout [[supplier|supplier]]'s unit of measure with the predefined units of measure.
+Create a third-party unit mapping to align the punchout supplier's unit of measure with the predefined units of measure.
 
 ### Before you begin
 
@@ -159,9 +159,4 @@ Option to set a third-party product category mapping as default. The default map
 
 6.  Ensure that all product category mappings are accurate, and make any necessary updates.
 
-## Related
 
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]

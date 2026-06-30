@@ -14,7 +14,7 @@ breadcrumb: [Test cases, Setting up the manual testing process, Test Management 
 
 # Create a test case
 
-Create a test case to group one or more related individual [[c_Tests|tests]].
+Create a test case to group one or more related individual tests.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestCases|Test Cases]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Cases**.
 
 2.  Click **New**.
 
@@ -48,7 +48,3 @@ You can use the related link and related list of the new test case for the follo
 
 **Parent Topic:**[Test cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestCases.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[c_TestCases|Test cases]]

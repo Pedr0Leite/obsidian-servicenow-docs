@@ -16,7 +16,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 Access all your applications from a central location in one-click.
 
-As an employee, you can access the custom and third-party app integrations. Navigate to the applications from the associated topics in the [[employee-center-pro-landing|Employee Center Pro]] from **My applications**. Use the **Favorites**, **Categories**, and **Recently opened** options for better usability.
+As an employee, you can access the custom and third-party app integrations. Navigate to the applications from the associated topics in the Employee Center Pro from **My applications**. Use the **Favorites**, **Categories**, and **Recently opened** options for better usability.
 
 
 
@@ -34,7 +34,7 @@ For more information, see [App Launcher](https://raw.githubusercontent.com/Servi
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -48,7 +48,7 @@ For more information, see [App Launcher](https://raw.githubusercontent.com/Servi
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -64,8 +64,3 @@ For more information, see [App Launcher](https://raw.githubusercontent.com/Servi
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

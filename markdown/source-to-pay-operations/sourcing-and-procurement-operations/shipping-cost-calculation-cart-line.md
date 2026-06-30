@@ -19,7 +19,7 @@ If the item in your cart is a good, a cart line shipping estimate prioritization
 The cart line for each item is updated with the shipping estimate.
 
 1.  Use the product level shipping estimate percentage to calculate shipping, provided the sn\_shop.shipping.estimate.inclusion property is set to true:
-    -   Pull the estimated shipping as percentage value from the [[supplier|supplier]] product record.
+    -   Pull the estimated shipping as percentage value from the supplier product record.
     -   Calculate shipping as \[Estimated Shipping as Percentage\] \* \[Quantity\] \* \[Negotiated Unit Price\].
 2.  If 1 is null, use the supplier level shipping estimate percentage to calculate shipping, provided the sn\_shop.shipping.estimate.inclusion property is set to true:
     -   Pull the estimated shipping as percentage value from the supplier record.
@@ -31,6 +31,3 @@ The cart line for each item is updated with the shipping estimate.
 
 **Parent Topic:**[Shipping cost calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shipping-cost-calculations.md)
 
-## Related
-
-- [[supplier|Supplier]]

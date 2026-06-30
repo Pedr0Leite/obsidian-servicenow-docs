@@ -14,7 +14,7 @@ breadcrumb: [Explore, Configuration Compliance, Unified Security Exposure Manage
 
 # Configuration Compliance imported data
 
-The [[vr-config-compliance-landing|Configuration Compliance]] application imports policies, tests, authoritative sources, and test results from third-party integrations and stores them in modules for viewing.
+The Configuration Compliance application imports policies, tests, authoritative sources, and test results from third-party integrations and stores them in modules for viewing.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -26,7 +26,7 @@ The [[vr-config-compliance-landing|Configuration Compliance]] application import
 
 ## Supported integrations
 
-Third-party integrations import configuration assessment findings, test groups, tests, technologies, authoritative sources, and test results into the Configuration Compliance application. Vulnerability managers or vulnerability analysts can use this data to identify and respond to the configuration-related [[vulnerabilities|vulnerabilities]] on your assets.
+Third-party integrations import configuration assessment findings, test groups, tests, technologies, authoritative sources, and test results into the Configuration Compliance application. Vulnerability managers or vulnerability analysts can use this data to identify and respond to the configuration-related vulnerabilities on your assets.
 
 For more information about supported integrations, see [Configuration Compliance integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/vuln-config-compl-integrations.md).
 
@@ -224,8 +224,3 @@ The scheduled job Tenable.io Compliance Results Integration imports Test Results
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerabilities|Vulnerabilities]]

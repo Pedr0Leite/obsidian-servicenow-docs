@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intelligence Sharing**.
 
 2.  Select **Inbound Intelligence** &gt; **All**
 
@@ -54,7 +54,7 @@ Role required: sn\_sec\_tisc.analyst
 
         **Note:**
 
-        Notifications are triggered based on the rules configured within each profile. Once you approve or reject a sharing record, an email will be sent if [[tisc-email-notifications|email notifications]] are enabled for the profile. If no email is configured, no notification will be sent.
+        Notifications are triggered based on the rules configured within each profile. Once you approve or reject a sharing record, an email will be sent if email notifications are enabled for the profile. If no email is configured, no notification will be sent.
 
 7.  Additionally, select **Reject** button if you want to reject the inbound intelligence record.
 
@@ -74,8 +74,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Viewing TAXII Collections]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-email-notifications|Email Notifications]]

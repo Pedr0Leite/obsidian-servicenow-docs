@@ -92,13 +92,10 @@ A delete SQL can be executed by specifying the table and optional where clause.
 ...
 ```
 
-**Parent Topic:**[[t_JDBCProbe|JDBCProbe]]
+**Parent Topic:**[JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
 **Related topics**  
 
 
 [JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
-## Related
-
-- [[t_JDBCProbe|JDBCProbe]]

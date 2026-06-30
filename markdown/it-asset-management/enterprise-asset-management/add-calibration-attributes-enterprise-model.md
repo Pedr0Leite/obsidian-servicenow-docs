@@ -22,13 +22,13 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-You can add calibration attributes at the enterprise model level or at the individual enterprise asset level. Alternatively, you can create common calibration attributes that are not associated with any enterprise [[c_Models|models]] or enterprise assets. For details on how to add calibration attributes to an individual enterprise asset, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md). For details on how to create common calibration attributes, see [Create a calibration attribute library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-attribute-library.md).
+You can add calibration attributes at the enterprise model level or at the individual enterprise asset level. Alternatively, you can create common calibration attributes that are not associated with any enterprise models or enterprise assets. For details on how to add calibration attributes to an individual enterprise asset, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md). For details on how to create common calibration attributes, see [Create a calibration attribute library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-attribute-library.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace**.
 
-2.  From the Enterprise Asset Workspace, open the Enterprise [[model-management-view-am|model management view]].
+2.  From the Enterprise Asset Workspace, open the Enterprise model management view.
 
 3.  Select either the **All enterprise** tab or the tab for a specific model category, such as **Construction**.
 
@@ -88,7 +88,7 @@ Category
 
 </td><td>
 
-Type of calibration.**Note:** The [[enterprise-asset-management|Enterprise Asset Management]] application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories. For detailed instructions, see [Create a calibration category for your enterprise asset calibrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-categories.md).
+Type of calibration.**Note:** The Enterprise Asset Management application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories. For detailed instructions, see [Create a calibration category for your enterprise asset calibrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-calibration-categories.md).
 
 </td></tr><tr><td>
 
@@ -295,9 +295,3 @@ Create work orders to track the calibrations that are made to the associated ent
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[model-management-view-am|Model management view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

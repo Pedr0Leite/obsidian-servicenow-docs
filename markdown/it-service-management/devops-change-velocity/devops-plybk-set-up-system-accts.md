@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Important:** This setup is required only when [[devops-config-landing-page|DevOps Config]] is installed, and for Rally and Split tool integrations. For all other tool integrations or if you’re using only [[devops-landing-page-new|DevOps Change Velocity]], you can skip this procedure.
+**Important:** This setup is required only when DevOps Config is installed, and for Rally and Split tool integrations. For all other tool integrations or if you’re using only DevOps Change Velocity, you can skip this procedure.
 
 This is a one-time setup. You can set the integration user password either using Workspace or Classic UI.
 
@@ -79,7 +79,3 @@ Set a password for the DevOps integration user by navigating to **All** &gt; **U
 -   [Onboard to DevOps Change Velocity using Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/onboarding-using-devops-change-workspace.md)
 -   [Start integrating DevOps Change Velocity with third-party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md).
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

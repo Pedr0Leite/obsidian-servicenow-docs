@@ -12,7 +12,7 @@ breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship
 
 # Add products or services to an order in Order Management
 
-Add order lines for products or service orders using the product catalog and product configurator in [[explore-order-management|Order Management]].
+Add order lines for products or service orders using the product catalog and product configurator in Order Management.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ When the  product configurator opens you can select from the available options
 -   The option selection displays any available options for the product, service, order lines, and order tasks.
 -   The Current Selection displays the selected products options and the pricing.
 
-Depending on your configuration, you'd either see a [[explore-servicenowcpq|CPQ Configurator]] or product configurator. To learn more about these, see [[using-servicenowcpq|Using the CPQ Configurator]] and [[using-som-product-configurator|Using the legacy product configurator]].
+Depending on your configuration, you'd either see a CPQ Configurator or product configurator. To learn more about these, see [Using the CPQ Configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-servicenowcpq.md) and [Using the legacy product configurator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-som-product-configurator.md).
 
 As you configure your product, use the following options:
 
@@ -50,7 +50,7 @@ Reprice
 
 </td><td>
 
-Resets the pricing and updates the total price when you make changes.If cascading pricing is enabled, pricing information is cascaded from parent to child line items. See [[som-activate-cascade-quantity|Control cascading quantity values in child product offerings]] for more information.
+Resets the pricing and updates the total price when you make changes.If cascading pricing is enabled, pricing information is cascaded from parent to child line items. See [Control cascading quantity values in child product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-activate-cascade-quantity.md) for more information.
 
 </td></tr><tr><td>
 
@@ -93,16 +93,7 @@ Adds the product to the order after you've configured it.
 **Related topics**  
 
 
-[[order-mgt-filter-catalog-by-location|Filter product catalog by location]]
+[Filter product catalog by location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-filter-catalog-by-location.md)
 
-[[som-om-setup-product-order-lines|Set up and review order lines]]
+[Set up and review order lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-om-setup-product-order-lines.md)
 
-## Related
-
-- [[using-servicenowcpq|Using the CPQ Configurator]]
-- [[using-som-product-configurator|Using the legacy product configurator]]
-- [[som-activate-cascade-quantity|Control cascading quantity values in child product offerings]]
-- [[order-mgt-filter-catalog-by-location|Filter product catalog by location]]
-- [[som-om-setup-product-order-lines|Set up and review order lines]]
-- [[explore-order-management|Order management]]
-- [[explore-servicenowcpq|CPQ Configurator]]

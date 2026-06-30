@@ -12,7 +12,7 @@ breadcrumb: [Configure, OT Manager Foundation, Operational Technology]
 
 # Supporting information for OT Manager Foundation
 
-Get a quick overview of the important information that is related to the [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]].
+Get a quick overview of the important information that is related to the Operational Technology \(OT\) Manager Foundation.
 
 ## Supported language models for all OT Manager Foundation skills and AI agents
 
@@ -34,11 +34,11 @@ Feature
 
 </th></tr></thead><tbody><tr><td>
 
-[[industrial-workspace-for-operational-technology|Industrial Workspace]]
+Industrial Workspace
 
 </td><td>
 
--   [[operational-technology-overview|Operational Technology]] \(OT\) Configuration Management Database \(CMDB\) search feature to search for OT device records using the Now Assist panel.
+-   Operational Technology \(OT\) Configuration Management Database \(CMDB\) search feature to search for OT device records using the Now Assist panel.
 
 The OT CMDB search feature leverages the following agentic workflow and skill:
 
@@ -49,15 +49,8 @@ The OT CMDB search feature leverages the following agentic workflow and skill:
 You must have the **cmdb\_ot\_viewer** role at minimum to use the CMDB search agentic workflow.
 
     -   ServiceNow AI Platform's Analytics Query Generator skill. For more information, see the [Query Generation store listing](https://store.servicenow.com/store/app/b779efee1be06a50a85b16db234bcb4e#description) and [Query Generation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md).
--   Agentic workflow for uploading, importing, and validating your OT device data with the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]].
+-   Agentic workflow for uploading, importing, and validating your OT device data with the Service Graph Connector for Microsoft Excel.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configuring-na-otm|Configuring the OT Manager Foundation]]
+</table>**Parent Topic:**[Configuring the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configuring-na-otm.md)
 
-## Related
-
-- [[configuring-na-otm|Configuring the OT Manager Foundation]]
-- [[now-assist-for-otm-landing|Operational Technology \(OT\) Manager Foundation]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]

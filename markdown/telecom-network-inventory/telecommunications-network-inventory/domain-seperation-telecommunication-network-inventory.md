@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Domain separation
 
-Domain separation in [[telecom-network-inventory|Telecommunications Network Inventory]] provides a structured and efficient way to manage complex, multilevel organizational environments. It enables secure, tailored access and control, ensuring that users view data relevant to their domain.
+Domain separation in Telecommunications Network Inventory provides a structured and efficient way to manage complex, multilevel organizational environments. It enables secure, tailored access and control, ensuring that users view data relevant to their domain.
 
 ## Support level: Basic
 
@@ -26,6 +26,3 @@ For more information on support levels, see [Application support for domain sepa
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

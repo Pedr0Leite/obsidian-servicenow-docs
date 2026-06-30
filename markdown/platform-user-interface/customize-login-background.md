@@ -67,8 +67,5 @@ The background illustration that you upload automatically scales to fit the scre
 
 Log out of your experience to view the new login page background.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[next-experience-theming|Working with themes in Next Experience]]

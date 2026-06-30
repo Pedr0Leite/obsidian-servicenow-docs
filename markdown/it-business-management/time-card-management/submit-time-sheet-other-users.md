@@ -18,13 +18,13 @@ As a user manager, you can log time and submit the time sheet of your resources.
 
 ## Before you begin
 
-A user manager must have time card approver role to create and edit [[c_TimeCards|time cards]], and submit the time sheet of other time card users. The user manager has either of the required roles and is the one listed as the manager of the time card users.
+A user manager must have time card approver role to create and edit time cards, and submit the time sheet of other time card users. The user manager has either of the required roles and is the one listed as the manager of the time card users.
 
 Role required: timecard\_approver
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **[[worker-portal|Time Sheet Portal]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Click **My Time Sheet** choice list and select the user for whom you want to approve or reject time sheet for under **My Resources**.
 
@@ -49,8 +49,3 @@ Once you have submitted the time sheet for your resource, you can click **Approv
 
 **Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/worker-portal.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]

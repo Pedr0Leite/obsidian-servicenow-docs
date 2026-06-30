@@ -56,7 +56,7 @@ The following list indicates the tables that are auto-archived.
 |Test Summary Relations|sn\_devops\_test\_summary\_relations|ar\_sn\_devops\_test\_summary\_relations|
 |Work Item|sn\_devops\_work\_item|ar\_sn\_devops\_work\_item|
 
-The data archiving rules feature considers and honors parent rules before individual archive rules are run. If you have an associated parent archive rule, the child rules are run only when the parent rules are run. Similarly, when you modify individual rules, you must first disable or disassociate the parent archive rule, make the configuration changes, and re-enable the parent archive rule. Changes to the **Auto archive \(in months\)** DevOps property overrides any configuration changes made to the duration of child archive rules. For example, you could update the archive rule condition for any of the **Active** DevOps archive rules to a custom value, say three months instead of the default 9 months. However, if you modify the **Auto archive \(in months\)** DevOps property, all [[migration-utility-modification|modifications]] made to the conditions of individual archive rules are overwritten by the value in the **Auto archive \(in months\)** system property.
+The data archiving rules feature considers and honors parent rules before individual archive rules are run. If you have an associated parent archive rule, the child rules are run only when the parent rules are run. Similarly, when you modify individual rules, you must first disable or disassociate the parent archive rule, make the configuration changes, and re-enable the parent archive rule. Changes to the **Auto archive \(in months\)** DevOps property overrides any configuration changes made to the duration of child archive rules. For example, you could update the archive rule condition for any of the **Active** DevOps archive rules to a custom value, say three months instead of the default 9 months. However, if you modify the **Auto archive \(in months\)** DevOps property, all modifications made to the conditions of individual archive rules are overwritten by the value in the **Auto archive \(in months\)** system property.
 
 **Note:** The override function is binding for all scenarios except:
 
@@ -69,6 +69,3 @@ Base-system destroy rules are also enabled and activated on all the archived Dev
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[migration-utility-modification|Modifications]]

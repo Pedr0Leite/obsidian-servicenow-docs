@@ -124,7 +124,7 @@ Your device is running low on disk space, which can affect its performance. Sele
 
 </td><td>
 
-Provides a [[remedial-action|remedial action]] button, it resolves the issue by freeing up disk space through Windows Disk Cleanup.
+Provides a remedial action button, it resolves the issue by freeing up disk space through Windows Disk Cleanup.
 
 </td></tr><tr><td>
 
@@ -524,7 +524,3 @@ Provides self-help instructions to resolve recurring Zoom application crashes du
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[remedial-action|Remedial action]]

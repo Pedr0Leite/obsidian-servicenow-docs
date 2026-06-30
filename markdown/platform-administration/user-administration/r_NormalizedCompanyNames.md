@@ -15,7 +15,7 @@ breadcrumb: [Normalization data services, Creating users, companies, departments
 
 # Normalized company names table
 
-The [[c_NormalizationOverview|Normalization Data Services]] plugin stores the normalized company names in the Normalized Company Names table.
+The Normalization Data Services plugin stores the normalized company names in the Normalized Company Names table.
 
 |Field|Description|
 |-----|-----------|
@@ -33,6 +33,3 @@ See [KB0819618](https://support.servicenow.com/kb?id=kb_article_view&sysparm_art
 
 **Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)
 
-## Related
-
-- [[c_NormalizationOverview|Normalization data services]]

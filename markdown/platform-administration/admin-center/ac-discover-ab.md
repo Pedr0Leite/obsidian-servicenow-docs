@@ -14,7 +14,7 @@ breadcrumb: [Admin Center, Get started, Administer the ServiceNow AI Platform]
 
 # Discovering adoption blueprints
 
-[[ac-achieve-business-objective|Adoption blueprints]] provide a roadmap of applications and features, along with suggested solutions to help you reach your business objectives.
+Adoption blueprints provide a roadmap of applications and features, along with suggested solutions to help you reach your business objectives.
 
 Explore the following to know more about adoption blueprints.
 
@@ -27,6 +27,3 @@ Adoption blueprints display the applications and features available to you and t
 
 **Parent Topic:**[Admin Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/admin-center-intro.md)
 
-## Related
-
-- [[ac-achieve-business-objective|Adoption blueprints]]

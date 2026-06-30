@@ -16,7 +16,7 @@ breadcrumb: [Using Discovery, Discovery, ITOM Visibility, IT Operations Manageme
 
 Standard transactions on Windows and UNIX generate various amounts of network traffic, depending on what is being discovered.
 
-These tables show the bandwidth consumption for each data flow segment of a typical [[r-discovery|discovery]] using probes and patterns over different operating systems.
+These tables show the bandwidth consumption for each data flow segment of a typical discovery using probes and patterns over different operating systems.
 
 |Device Type|MID &gt; Instance|Instance &gt; MID|MID &gt; Target|Target &gt; MID|Total|
 |-----------|-----------------|-----------------|---------------|---------------|-----|
@@ -78,6 +78,3 @@ Your mix of these variables will determine your unique level of CPU consumption.
 
 You can identify unique builds using internal templates and discover them by watching the performance impact, or lack of performance impact that your Discovery tool has on your system.
 
-## Related
-
-- [[r-discovery|Discovery]]

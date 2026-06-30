@@ -22,7 +22,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user and sn\_align\_core.apw\_user
 
 ## About this task
 
-You can associate a goal or target as primary with a planning item by populating the **Primary goal** and **Primary target** fields on the [[planning-item-form|Planning item form]] respectively. When you populate the **Primary target** field, the **Primary goal** is automatically populated with the goal of the populated target. For more information, see [Planning item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-item-form.md).
+You can associate a goal or target as primary with a planning item by populating the **Primary goal** and **Primary target** fields on the Planning item form respectively. When you populate the **Primary target** field, the **Primary goal** is automatically populated with the goal of the populated target. For more information, see [Planning item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-item-form.md).
 
 After you associate planning items with goals or targets, you can check these relationships directly on the Planning items tab of the goal's form or on the Goal/Target Relationships tab of the planning item's form.
 
@@ -51,7 +51,7 @@ Navigation
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 2.  From the list of portfolio plans, select the required portfolio plan that the planning item belongs to.
 3.  Select **Planning**.
 4.  Select the **Prioritization**, **Roadmap**, or **Hierarchy** tab.
@@ -90,8 +90,3 @@ Alternatively, you can select **Full details** and open the item's record page. 
 
 If you want to remove the existing goal or target association, you can remove the association by selecting the association record and selecting the **Remove** option on the Goal/Target Relationships tab of the planning item record. If the planning item has the primary goal and secondary goal association, you can remove the primary association only after you make any other goal as primary for the planning item.
 
-## Related
-
-- [[planning-item-form|Planning item form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

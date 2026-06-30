@@ -27,8 +27,5 @@ Service provider \(SP\) customers can access SP services by using a portal to a 
 
 
 
-**Parent Topic:**[[bp-sp-reference-arch-ds|Service provider reference architecture]]
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 
-## Related
-
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]

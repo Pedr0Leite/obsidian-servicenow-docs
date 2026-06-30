@@ -36,7 +36,7 @@ The ServiceNow® Knowledge Management \(KM\) application enables the sharing of 
 
 </td><td>
 
-[Knowledge Management [[reference|Reference]]\[Omitted image "bus-learn.svg"\] Alt text:Additional information to configure and administer Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-reference.md)
+[Knowledge Management Reference\[Omitted image "bus-learn.svg"\] Alt text:Additional information to configure and administer Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-reference.md)
 
 </td><td>
 
@@ -48,6 +48,3 @@ The ServiceNow® Knowledge Management \(KM\) application enables the sharing of 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[reference|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 # Roles installed with Facilities Service Management
 
-Roles control access to features and capabilities in [[FacilitiesLandingPage|Facilities Service Management]].
+Roles control access to features and capabilities in Facilities Service Management.
 
 Facilities Service Management adds the following roles.
 
@@ -36,7 +36,7 @@ facilities\_read
 
 </td><td>
 
-Can read [[c_FacilitiesRequests|facilities requests]].
+Can read facilities requests.
 
 </td><td>
 
@@ -185,10 +185,5 @@ Can create, read, write, and delete room records.
 none
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[c_FacilitiesRequests|Facilities requests]]

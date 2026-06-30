@@ -20,8 +20,8 @@ Manage a document and access the latest version of the document from an article 
 
 Your administrator must have activated the following plugins:
 
--   [[c_KnowledgeDocument|Knowledge Document plugin]] \(com.snc.knowledge\_document\)
--   [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\)
+-   Knowledge Document plugin \(com.snc.knowledge\_document\)
+-   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\)
 
 The document is already uploaded and published. For more information, see [Upload a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_UploadADocument.md) and [Publish an approved revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/t_PublishAnApprovedRevision.md).
 
@@ -33,7 +33,7 @@ Role required: document\_management\_user and knowledge
 
 ## About this task
 
-You can link the initial or revised version of a document to a Knowledge article. The document appears as an [[attachment|attachment]] to the linked article. Revising a document doesn't automatically update the document attached to the linked Knowledge article. Therefore, every time you revise a document, you must again link the revised document to the Knowledge article.
+You can link the initial or revised version of a document to a Knowledge article. The document appears as an attachment to the linked article. Revising a document doesn't automatically update the document attached to the linked Knowledge article. Therefore, every time you revise a document, you must again link the revised document to the Knowledge article.
 
 **Note:**
 
@@ -43,7 +43,7 @@ A managed document can only be linked to one article.
 
 ## Procedure
 
-1.  Navigate to **[[c_ManagedDocuments|Managed Documents]]** &gt; **Documents** &gt; **All**.
+1.  Navigate to **Managed Documents** &gt; **Documents** &gt; **All**.
 
 2.  Click the document.
 
@@ -83,7 +83,7 @@ Type
 
 </td><td>
 
-Article template to [[create-knowledge-article|create a Knowledge article]] using defined fields and values. **Note:** when a Knowledge article is created, the **Type** field becomes read-only.
+Article template to create a Knowledge article using defined fields and values. **Note:** when a Knowledge article is created, the **Type** field becomes read-only.
 
 </td></tr><tr><td>
 
@@ -113,10 +113,3 @@ The uploaded document is added as an attachment to a Knowledge article. Dependin
 
 **Parent Topic:**[Knowledge Document plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_KnowledgeDocument.md)
 
-## Related
-
-- [[c_KnowledgeDocument|Knowledge Document plugin]]
-- [[knowledge-management|Knowledge Management]]
-- [[attachment|Attachment]]
-- [[c_ManagedDocuments|Managed Documents]]
-- [[create-knowledge-article|Create a knowledge article]]

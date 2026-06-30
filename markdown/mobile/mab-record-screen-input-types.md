@@ -12,9 +12,9 @@ breadcrumb: [Record screen, Mobile App Builder, Building tools, Building mobile 
 
 # Record screen input field types
 
-Familiarize yourself with different field types and their usage in the [[mab-workspace|Mobile App Builder record screen]].
+Familiarize yourself with different field types and their usage in the Mobile App Builder record screen.
 
-When either creating a new record or editing an existing record, you are presented with field types specific to the record you selected. You cannot add additional field types. This restriction ensures that you only work with field types relevant to the open record. The following are all the available [[form-screen|record screen]] input type fields.
+When either creating a new record or editing an existing record, you are presented with field types specific to the record you selected. You cannot add additional field types. This restriction ensures that you only work with field types relevant to the open record. The following are all the available record screen input type fields.
 
 |Input field type|Function|Image|
 |----------------|--------|-----|
@@ -25,10 +25,5 @@ When either creating a new record or editing an existing record, you are present
 |Menu list|Select the down arrow from the menu to display a list of choices and to select a single item.|\[Omitted image "mab-dropdown-list.png"\] Alt text: Mobile App Builder record screen list.|
 |List|Add list entries and define a value for each of them.|\[Omitted image "mab-field-list-simple.png"\] Alt text: Mobile App Builder record screen list field.|
 |Condition type|Set the condition type and the condition definitions for the selected record.|\[Omitted image "mab-field-condition.png"\] Alt text: Mobile App Builder record screen condition field.|
-|Record screen table|Tables consist of either a single reference record or a multi-reference record. Depending on the predefined setup of the table, you can either choose new records, edit existing records, or perform both these actions. For information on working with these tables, see [[mab-record-screen-tables|Record screen tables]].|\[Omitted image "mab-record-screen-table.png"\] Alt text: Mobile App Builder record screen table.|
+|Record screen table|Tables consist of either a single reference record or a multi-reference record. Depending on the predefined setup of the table, you can either choose new records, edit existing records, or perform both these actions. For information on working with these tables, see [Record screen tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-record-screen-tables.md).|\[Omitted image "mab-record-screen-table.png"\] Alt text: Mobile App Builder record screen table.|
 
-## Related
-
-- [[mab-record-screen-tables|Record screen tables]]
-- [[mab-workspace|Mobile App Builder record screen]]
-- [[form-screen|Record screen]]

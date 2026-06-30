@@ -28,7 +28,7 @@ The following Azure DevOps tools are supported:
 
 Capture tags from Azure DevOps coding tool commits.
 
-Jenkins also supports testing capabilities with JUnit. [Test tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-test-tool-integration.md) lets you view test results in [[devops-landing-page-new|DevOps Change Velocity]] for Azure DevOps unit, functional, and performance tests.
+Jenkins also supports testing capabilities with JUnit. [Test tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-test-tool-integration.md) lets you view test results in DevOps Change Velocity for Azure DevOps unit, functional, and performance tests.
 
 ## Azure DevOps extension
 
@@ -50,7 +50,7 @@ To support large commits, perform these actions:
 
 -   Install the ServiceNow IntegrationHub Action Template - Data Stream \(com.glide.hub.action\_type.datastream\) plugin.
 -   For optimal performance, disable flow logging by setting the Workflow Studio **com.snc.process\_flow.reporting.level** property to **Off**.
--   For MID Server [[settings-mobile|settings]], view the [MID Server support for Data Stream actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/dsa-on-mid.md) section.
+-   For MID Server settings, view the [MID Server support for Data Stream actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/dsa-on-mid.md) section.
 
 The Azure DevOps data stream can currently process up to 8000-9000 commits per code push. The number of run commits listed for a task execution are limited to 200.
 
@@ -73,7 +73,3 @@ Create an Azure DevOps tool record in DevOps Change Velocity to connect, discove
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Activate a scheduled job
 
-Activate and run the Add [[manager-hub-overview|Manager Hub]] user role scheduled job to assign the Manager Hub user role to new people managers. When the scheduled job runs, it considers delta changes and assigns the Manager Hub user role to new managers only.
+Activate and run the Add Manager Hub user role scheduled job to assign the Manager Hub user role to new people managers. When the scheduled job runs, it considers delta changes and assigns the Manager Hub user role to new managers only.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Activate and run the Add [[manager-hub-overview|Manager Hub]] user role schedule
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]

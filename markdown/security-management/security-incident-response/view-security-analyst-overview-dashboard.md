@@ -24,7 +24,7 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response**.
 
 2.  Click **SIR Dashboards** icon, displayed on the left side of the workspace home page.
 
@@ -34,6 +34,4 @@ Role required: sn\_si.analyst \(Read\), sn\_si.manager or sn\_si.admin \(Write\)
 
     View the Security Analyst Overview dashboard for further action. For detailed information on Security Analyst Overview dashboard, see [Security Incident Response Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-content-pack.md).
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

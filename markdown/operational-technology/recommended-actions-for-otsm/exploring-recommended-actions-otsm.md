@@ -14,11 +14,11 @@ breadcrumb: [Recommended Actions for OTSM, Operational Technology]
 
 # Exploring Recommended Actions for Operational Technology Service Management \(OTSM\)
 
-[[recommended-actions-for-otsm|Recommended Actions for Operational Technology Service Management \(OTSM\)]] allows you to set up and apply real-time actionable recommendations for speeding up the triaging process and resolving issues quickly across various records in the including [[operational-technology-overview|Operational Technology]] \(OT\) incidents.
+Recommended Actions for Operational Technology Service Management \(OTSM\) allows you to set up and apply real-time actionable recommendations for speeding up the triaging process and resolving issues quickly across various records in the including Operational Technology \(OT\) incidents.
 
 ## Recommended Actions for OTSM overview
 
-Recommendations appear as actionable real-time recommendation in the side panel while updating or creating OT incident records in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. You can access recommendations in the Industrial Workspace by selecting the **Recommendations** icon \(\[Omitted image "recommendations-icon.png"\] Alt text: Recommended Actions icon\) in the side panel.
+Recommendations appear as actionable real-time recommendation in the side panel while updating or creating OT incident records in the Industrial Workspace. You can access recommendations in the Industrial Workspace by selecting the **Recommendations** icon \(\[Omitted image "recommendations-icon.png"\] Alt text: Recommended Actions icon\) in the side panel.
 
 ## Recommended Actions for OTSM workflow
 
@@ -31,8 +31,3 @@ Recommended Actions for Operational Technology Service Management \(OTSM\) inclu
 
 **Parent Topic:**[Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/recommended-actions-for-otsm/recommended-actions-for-otsm.md)
 
-## Related
-
-- [[recommended-actions-for-otsm|Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, EMR Help, Healthcare and Life Sciences Service Management,
 
 # IT service request workflow scenario
 
-Use the [[emr-exploring|EMR Help]] application to integrate a ServiceNow instance with an EMR system and resolve IT service requests submitted by clinicians.
+Use the EMR Help application to integrate a ServiceNow instance with an EMR system and resolve IT service requests submitted by clinicians.
 
 Scenario: An EMR system is integrated with a ServiceNow instance using the EMR Help application. As a result of this integration, a Help form is available within the EMR system to enable clinicians to submit IT service requests as incidents on the ServiceNow instance.
 
@@ -38,6 +38,3 @@ The following workflow steps elaborate how an IT agent resolves a typical clinic
 
 [Viewing and resolving ServiceNow IT service requests submitted from EMR systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-resolve.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

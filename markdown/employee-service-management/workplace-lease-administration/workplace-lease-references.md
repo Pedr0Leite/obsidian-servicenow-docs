@@ -17,16 +17,11 @@ breadcrumb: [Workplace Lease Administration, Workplace Service Delivery, Employe
 Learn more about the forms used to create new records.
 
 -   **[Workplace contract new record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-contract-form.md)**  
-As lease administrator and manager you can use the [[workplace-contract-form|workplace contract new record form]] to create new lease contracts.
+As lease administrator and manager you can use the workplace contract new record form to create new lease contracts.
 -   **[Components installed with Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/component-installed-lease-admin.md)**  
-Several types of components are installed with activation of the [[workplace-lease-admin-feat|Workplace Lease Administration]] application, including user roles and tables.
+Several types of components are installed with activation of the Workplace Lease Administration application, including user roles and tables.
 -   **[Scripts installed with Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/scripts-lease-admin.md)**  
-[[scripts-lease-admin|Scripts installed with Workplace Lease Administration]].
+Scripts installed with Workplace Lease Administration.
 
 **Parent Topic:**[Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-lease-admin-feat.md)
 
-## Related
-
-- [[workplace-contract-form|Workplace contract new record form]]
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[scripts-lease-admin|Scripts installed with Workplace Lease Administration]]

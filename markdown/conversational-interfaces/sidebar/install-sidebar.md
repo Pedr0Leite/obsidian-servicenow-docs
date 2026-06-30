@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Installing Sidebar
 
-You can install [[sidebar-landing|Sidebar]], which is part of the Omni-Experience Standard Feature Set, if you have the admin role.
+You can install Sidebar, which is part of the Omni-Experience Standard Feature Set, if you have the admin role.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ The following items are installed with Sidebar:
 
     For more information, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md) and [AI Search Availability \[KB0867751\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867751).
 
-## Related
 
-- [[sidebar-landing|Sidebar]]

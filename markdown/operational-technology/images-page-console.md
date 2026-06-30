@@ -49,8 +49,5 @@ To add an image, select the add icon \[Omitted image "add-icon-msi.jpg"\] Alt te
 
 To delete an image, select the delete icon \[Omitted image "delete-image-msi-console.png"\] Alt text:.
 
-**Note:** To capture screenshots during the [[operational-technology-discovery-landing|Operational Technology Discovery]] process, the Full Web Extractor Auto Query needs to be selected and executed. This captures the screenshots over ports 443 and 80 and extracts the content from the web pages.
+**Note:** To capture screenshots during the Operational Technology Discovery process, the Full Web Extractor Auto Query needs to be selected and executed. This captures the screenshots over ports 443 and 80 and extracts the content from the web pages.
 
-## Related
-
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]

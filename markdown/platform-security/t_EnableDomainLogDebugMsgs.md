@@ -12,7 +12,7 @@ breadcrumb: [Setup and administration, Domain separation for service providers, 
 
 # Enable verbose domain logging and debug messages
 
-Domain log and debug messages allow you to troubleshoot domain [[sc-configuration|configuration]] errors.
+Domain log and debug messages allow you to troubleshoot domain configuration errors.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Make sure you are the latest instance for best performance.
 
 ## Procedure
 
-1.  In the [[domain-separation-center|Domain Separation Center]], navigate to **Domain Admin**.
+1.  In the Domain Separation Center, navigate to **Domain Admin**.
 
 2.  Click **Configure Domain Center**.
 
@@ -30,7 +30,4 @@ Make sure you are the latest instance for best performance.
 
 4.  Click **Update**.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[domain-separation-center|Domain Separation Center]]

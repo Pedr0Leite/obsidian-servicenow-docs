@@ -14,7 +14,7 @@ breadcrumb: [Advanced Filtering, Using Dispatcher Workspace, Assigning tasks fro
 
 # Personalize your resource view in Dispatcher Workspace
 
-Dispatchers can personalize the resources they see in [[dispatcher-activities|Dispatcher Workspace]] by creating an advanced resource filter that applies every time they open Dispatcher Workspace.
+Dispatchers can personalize the resources they see in Dispatcher Workspace by creating an advanced resource filter that applies every time they open Dispatcher Workspace.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: wm\_dispatcher.
 
 8.  Select **Apply**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

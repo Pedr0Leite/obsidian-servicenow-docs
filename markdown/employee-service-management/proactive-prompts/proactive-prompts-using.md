@@ -14,7 +14,7 @@ breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management
 
 # Using Proactive Prompts
 
-You can use [[proactive-prompts-for-hrsd|Proactive Prompts]] application to send informative and actionable insights to managers and employees by keeping them informed and encouraging them to act immediately.
+You can use Proactive Prompts application to send informative and actionable insights to managers and employees by keeping them informed and encouraging them to act immediately.
 
 After a successful signal configuration in Proactive Prompts, prompts are generated according to the schedule in the configuration.
 
@@ -24,7 +24,7 @@ To see the list of prompts, navigate to **All** &gt; **Proactive Prompts** &gt; 
 
 ## Prompts in delivery channels
 
-Prompts are delivered to end users through various channels like [[employee-center-portal-overview|Employee Portal]], Virtual Agent, or Microsoft Teams.
+Prompts are delivered to end users through various channels like Employee Portal, Virtual Agent, or Microsoft Teams.
 
 Notifications of prompts and the prompt appearance are different in different channels.
 
@@ -37,7 +37,3 @@ Notifications of prompts and the prompt appearance are different in different ch
 -   Virtual Agent - A notification is displayed on the Virtual Agent chat icon to indicate that there’s a prompt message. Selecting the **Open chat window** button starts the chat displaying the prompt message and options to take further actions.
 -   Microsoft Teams - Similar to the Virtual Agent chat, a notification is displayed in the chat pane. Selecting the Now Virtual Agent contact initiates the chat.
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]

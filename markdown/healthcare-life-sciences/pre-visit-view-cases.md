@@ -18,7 +18,7 @@ View a procedure request case in Workspace to complete patient pre-visit activit
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -60,9 +60,5 @@ For more information on tabs available for a customer service case, see [Custome
 
 ## What to do next
 
-You can select the **Patient information** tab in Workspace to view patient details. For more information, see [[pre-visit-viewing-patient-info|Viewing patient information for a procedure request in Workspace]].
+You can select the **Patient information** tab in Workspace to view patient details. For more information, see [Viewing patient information for a procedure request in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-viewing-patient-info.md).
 
-## Related
-
-- [[pre-visit-viewing-patient-info|Viewing patient information for a procedure request in Workspace]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

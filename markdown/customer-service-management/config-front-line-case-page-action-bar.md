@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Configure the Front-line case page action bar
 
-Configure the action bar on the [[csm-front-line-case-page|Front-line case page]] to include actions from other plugins.
+Configure the action bar on the Front-line case page to include actions from other plugins.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The Front-line case page supports actions from the following [[c_CustomerServiceManagement|Customer Service Management]] and [[csm-workspaces-configure|CSM Configurable workspace]] plugins:
+The Front-line case page supports actions from the following Customer Service Management and CSM Configurable workspace plugins:
 
 -   Customer Service \(com.sn\_customerservice\)
 -   CSM/FSM Configurable WS Foundation \(com.snc.uib.cwf\_workspace\)
@@ -52,7 +52,7 @@ If you are using any additional plugins, use the steps in this task to add the a
 
     You can create a new layout group and add the action to that group \(see step 3\). By default, the Front-line case page supports three groups: Compose, Create, and Manage.
 
-    1.  Navigate to **All** &gt; **[[migration-form-declarative-actions|Declarative Actions]]** &gt; **Form Action Layout Groups** and select a group.
+    1.  Navigate to **All** &gt; **Declarative Actions** &gt; **Form Action Layout Groups** and select a group.
 
     2.  Select the lock icon next to the **Actions** field, add the desired action from the Available UX Form Actions list, and select **Save**.
 
@@ -90,9 +90,4 @@ If you are using any additional plugins, use the steps in this task to add the a
 
     5.  Fill in the rest of the fields on the form and select **Save**.
 
-## Related
 
-- [[csm-front-line-case-page|Front-line case page]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-form-declarative-actions|Declarative actions]]

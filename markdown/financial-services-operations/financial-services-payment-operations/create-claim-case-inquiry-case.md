@@ -28,7 +28,7 @@ You can set a case as a valid claim and create a claim for it only if it's an in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -71,6 +71,3 @@ You can close the associated inquiry case as the request is now tracked via the 
 
 **Parent Topic:**[Investigate a payment inquiry case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/investigate-payment-inquiry-case.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

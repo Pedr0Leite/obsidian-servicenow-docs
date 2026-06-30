@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist for TMT, Telecommunications, Medi
 
 # Service Exchange onboarding agentic workflows
 
-Use the [[tmt-service-bridge-both-landing-page|Service Exchange]] onboarding agentic workflow to register your consumers in Service Exchange.
+Use the Service Exchange onboarding agentic workflow to register your consumers in Service Exchange.
 
 ## Service Exchange onboarding agentic workflow overview
 
@@ -79,7 +79,3 @@ This AI agent monitors registration life cycle events, validates registration st
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

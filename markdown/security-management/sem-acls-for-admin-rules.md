@@ -16,7 +16,7 @@ You can either view or modify the administration rules based on the roles assign
 
 ## New roles for administration rules
 
-The following two new roles have been introduced to manage administration rules within the [[sem-workspace-user-interface|Security Exposure Management Workspace]]:
+The following two new roles have been introduced to manage administration rules within the Security Exposure Management Workspace:
 
 -   sn\_sec\_wf.read\_admin\_rules: Enables you to view all the administration rules.
 -   sn\_sec\_wf.manage\_admin\_rules: Enables you to perform all CRUD \(Create, Read, Update, Delete\) operations on administration rules.
@@ -51,6 +51,3 @@ Additional considerations for other rule types regarding create, update, and del
 -   **Classification rules**: Personas can manage these rules if they have access to the specific table defined within the classification group.
 -   **Rollup Calculator rules**: Personas who have access to the corresponding target table can manage these rules.
 
-## Related
-
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

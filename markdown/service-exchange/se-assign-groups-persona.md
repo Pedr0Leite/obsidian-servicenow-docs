@@ -26,7 +26,7 @@ Instead of adding individual users to a persona, you can assign groups. All memb
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  Select the number link to open the Provider Connection record that contains the persona you want to update.
 
@@ -40,7 +40,4 @@ Instead of adding individual users to a persona, you can assign groups. All memb
 
 7.  Select **Save**.
 
-## Related
 
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

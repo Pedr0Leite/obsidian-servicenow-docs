@@ -14,7 +14,7 @@ breadcrumb: [Configure the problem form, Configuring Problem Management, Problem
 
 # Configure the problem form layout
 
-[[problem-configure-forms|Configure the problem form]] so the information it collects is relevant to your organization's processes. You can easily modify the form to show only the fields, related lists, and other elements that you need.
+Configure the problem form so the information it collects is relevant to your organization's processes. You can easily modify the form to show only the fields, related lists, and other elements that you need.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: personalize\_form
 
 1.  Navigate to **All** &gt; **Problem** &gt; **Create New**.
 
-2.  In the [[problem-form|problem form]] context menu, select **Configure** &gt; **Form Layout**.
+2.  In the problem form context menu, select **Configure** &gt; **Form Layout**.
 
-3.  Follow the steps in [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to perform any of the following layout [[migration-utility-modification|modifications]].
+3.  Follow the steps in [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) to perform any of the following layout modifications.
 
     Some of these modifications are illustrated in the example.
 
@@ -48,8 +48,3 @@ Role required: personalize\_form
 
 **Parent Topic:**[Configure the problem form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-configure-forms.md)
 
-## Related
-
-- [[problem-configure-forms|Configure the problem form]]
-- [[problem-form|Problem form]]
-- [[migration-utility-modification|Modifications]]

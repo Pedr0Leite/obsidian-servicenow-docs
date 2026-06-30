@@ -26,7 +26,7 @@ Role required: admin
 
 ## About this task
 
-[[employee-center-landing-page|Employee Center]] \(sn\_ex\_sp\) installs the following dependent plugins:
+Employee Center \(sn\_ex\_sp\) installs the following dependent plugins:
 
 -   **Employee Center Core \(sn\_hr\_sp\)**
 
@@ -70,6 +70,3 @@ Role required: admin
 
 Check and allow all the RCA \(Requested Caller Access\) privileges requested by Employee Center. For more information on running a fix script for RCA approvals, see [Run fix-script for RCA approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-rca-fix-script.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Essential SAFe, Scaled Agile Framework \(SAFe\), Strategic Portfoli
 
 # Quick start tests for Essential SAFe
 
-Validate that [[essential-overview|Essential SAFe]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that Essential SAFe still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Essential SAFe quick start tests require activating the Agile - Scaled Agile Framework - Essential SAFe plugin \(com.snc.sdlc.safe\) and the Agile - Scaled Agile Framework - Essential SAFe - ATF Tests plugin \(com.snc.sdlc.safe.atf\).
 
@@ -66,7 +66,7 @@ Essential SAFe: Feature tests
 
 </td><td>
 
-If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe feature using the **Create SAFe Feature** related link on the [[demand-form|Demand form]]. For more information on how to create an SAFe feature from a demand, see [Create an artifact from a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CrtArtftDmdMnu.md).
+If the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) is active, verify that a Demand can be converted to a SAFe feature using the **Create SAFe Feature** related link on the Demand form. For more information on how to create an SAFe feature from a demand, see [Create an artifact from a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CrtArtftDmdMnu.md).
 
 </td><td>
 
@@ -266,8 +266,3 @@ Rome
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[c_Tests|Tests]]
-- [[demand-form|Demand form]]

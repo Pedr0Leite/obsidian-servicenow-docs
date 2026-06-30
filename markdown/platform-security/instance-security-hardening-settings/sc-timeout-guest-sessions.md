@@ -14,7 +14,7 @@ breadcrumb: [Business Logic, Hardening settings, Platform Security]
 
 # Timeout Guest Sessions
 
-Use a system property to control the inactive session timeout for unauthenticated [[users|users]].
+Use a system property to control the inactive session timeout for unauthenticated users.
 
 Use the **glide.guest.session\_timeout** system property to control the inactive session timeout for unauthenticated users. By default, the value of this property is 30 minutes. If there are availability concerns from persisting too many sessions in memory, the value of this property can be lowered to 5. Avoid setting this property greater than 30, as large timeout values increase the number of sessions persisted by the instance, and may cause minor availability concerns.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Business Logic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-business-logic.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

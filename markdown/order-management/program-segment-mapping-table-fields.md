@@ -87,17 +87,12 @@ True/False
 Determines if a segment is marked as default for a program.**Note:** At any given time, there can be only one **is\_default** entry for a program and segment relationship record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[[program-segment-criteria-table-fields|Program segment criteria table fields]]
+[Program segment criteria table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/program-segment-criteria-table-fields.md)
 
-[[program-criteria-table-fields|Program criteria table fields]]
+[Program criteria table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/program-criteria-table-fields.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[program-segment-criteria-table-fields|Program segment criteria table fields]]
-- [[program-criteria-table-fields|Program criteria table fields]]

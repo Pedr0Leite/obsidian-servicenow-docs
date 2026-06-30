@@ -22,7 +22,7 @@ Role required: sn\_wsd\_mappedin.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Import a new building**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Import a new building**.
 
 2.  Fill in the fields.
 
@@ -134,9 +134,5 @@ The workplace manager of the group that manages the space reservation for the bu
 5.  Click **Update**.
 
 
-**Parent Topic:**[[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
+**Parent Topic:**[Convert Mappedin data to Workplace Space Mapping data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-type-table.md)
 
-## Related
-
-- [[wsm-mappedin-type-table|Convert Mappedin data to Workplace Space Mapping data]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

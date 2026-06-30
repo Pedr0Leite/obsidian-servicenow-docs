@@ -22,7 +22,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select the strategy-based board for which you want to create a strategic priority.
 
@@ -54,7 +54,3 @@ Define goals and set targets for them to accomplish the strategic priorities.
 
 [Create a strategic plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-plan-strategy.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

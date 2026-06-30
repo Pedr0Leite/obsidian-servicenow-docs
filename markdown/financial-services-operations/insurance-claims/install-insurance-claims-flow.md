@@ -14,7 +14,7 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Install Insurance claims
 
-If you have the admin role, you can install the [[insurance-claims-flow|Insurance claims]] application \(sn\_ins\_gen\_claim\). The application includes demo data and installs related ServiceNow Store applications and plugins that aren’t already installed.
+If you have the admin role, you can install the Insurance claims application \(sn\_ins\_gen\_claim\). The application includes demo data and installs related ServiceNow Store applications and plugins that aren’t already installed.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ The following items are installed with Insurance claims:
 
 6.  Select **Install**.
 
-## Related
 
-- [[insurance-claims-flow|Insurance claims]]

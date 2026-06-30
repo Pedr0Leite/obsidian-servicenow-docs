@@ -22,11 +22,11 @@ Role required: admin
 
 Usage admins review and manage how purchased subscriptions are used on your production instance. They add groups to appropriate subscriptions, monitor usage of applications, and update subscriptions as needed.
 
-Assign the usage\_admin role to at least one person in your organization. Only admins, sn\_sub\_man.admins, and usage\_admins can use [[subscription-management-landing-page-v2|Subscription Management]].
+Assign the usage\_admin role to at least one person in your organization. Only admins, sn\_sub\_man.admins, and usage\_admins can use Subscription Management.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
 2.  Select an existing user.
 
@@ -37,10 +37,5 @@ Assign the usage\_admin role to at least one person in your organization. Only a
 5.  Select **Update**.
 
 
-**Parent Topic:**[[configuring-subscription-management-v2|Configuring Subscription Management]]
+**Parent Topic:**[Configuring Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-subscription-management-v2.md)
 
-## Related
-
-- [[configuring-subscription-management-v2|Configuring Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[c_UserAdministration|User administration]]

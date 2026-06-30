@@ -46,9 +46,9 @@ Before the help repair enterprise assets agentic workflow can help you manage an
 -   The task is active.
 -   The task has not already been completed.
 -   The task is assigned to a user with the sn\_eam.asset\_technician role.
--   The asset is associated with one of the following [[c_Models|models]]:
+-   The asset is associated with one of the following models:
     -   Any valid enterprise model
-    -   Any valid hardware model that is supported by the [[ot-asset-management|OT Asset Management]] application
+    -   Any valid hardware model that is supported by the OT Asset Management application
 
 ## Stages in the help repair enterprise assets agentic workflow
 
@@ -73,7 +73,7 @@ Enterprise asset repair initiation
 
 For more information on this request option, see [Request repair of enterprise assets using Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-req-eam-assets-using-catalog.md).
 
-    -   The [[inventory-view-am|Inventory view]] of the [[using-eam-workspace|Enterprise Asset Workspace]]
+    -   The Inventory view of the Enterprise Asset Workspace
 
 For more information on this request option, see [Create repair orders for enterprise assets in the Inventory view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/repair-orders-for-eam-assets-in-inventory-view.md).
 
@@ -221,9 +221,3 @@ Repair asset AI agent
 </td></tr></tbody>
 </table>**Parent Topic:**[Fulfilling repair orders in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/fulfilling-repair-orders-eam.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[ot-asset-management|OT Asset Management]]
-- [[inventory-view-am|Inventory view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

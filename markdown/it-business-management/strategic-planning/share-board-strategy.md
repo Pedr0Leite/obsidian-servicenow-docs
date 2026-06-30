@@ -24,11 +24,11 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 Users or groups that you want to share the board with must have the sn\_apw\_advanced.spw\_goal\_user\_read or sn\_apw\_advanced.spw\_goal\_user role to get the read or edit access to the board respectively.
 
-\[Omitted image "share-baord-strategy.gif"\] Alt text: Share a board in [[strategy-goals-landing-page|Strategy and Goals]].
+\[Omitted image "share-baord-strategy.gif"\] Alt text: Share a board in Strategy and Goals.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Strategy and Goals**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  From the Strategy and Goals page, select the board you want to share with stakeholders.
 
@@ -64,7 +64,3 @@ The selected individual and group users are notified of the board sharing throug
 
 [Create a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 
-## Related
-
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

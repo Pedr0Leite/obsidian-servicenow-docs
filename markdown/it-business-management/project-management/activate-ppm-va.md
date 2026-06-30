@@ -26,7 +26,7 @@ To install Virtual Agent for PPM, activate the following plugins:
 
 |Name|Description|
 |----|-----------|
-|PPM Standard \(com.snc.financial\_planning\_pmo\)|Activates the PPM Standard basic plugin for the PPM \([[c_ProjectPortfolioSuite|Project Portfolio Management]]\) applications.|
+|PPM Standard \(com.snc.financial\_planning\_pmo\)|Activates the PPM Standard basic plugin for the PPM \(Project Portfolio Management\) applications.|
 |Glide Virtual Agent \(com.glide.cs.chatbot\)|Activates the Virtual Agent framework and other necessary plugins.|
 |Virtual Agent for PPM \(com.sn\_ppm\_va\)|Activates a conversational bot platform for providing user assistance through conversations within a messaging interface for PPM.|
 
@@ -66,6 +66,3 @@ To install Virtual Agent for PPM, activate the following plugins:
 
 [Reusable PPM Virtual Agent topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ppm-va-topic-blocks.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

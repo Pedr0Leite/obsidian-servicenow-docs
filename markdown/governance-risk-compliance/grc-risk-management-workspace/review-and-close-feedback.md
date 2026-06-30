@@ -22,7 +22,7 @@ Role required: sn\_rvw\_feedback.reviewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **My tasks**.
 
 2.  Open the Feedback that you want to review and assess the respondent's comments and response.
 
@@ -44,6 +44,3 @@ Role required: sn\_rvw\_feedback.reviewer
 
 **Parent Topic:**[Parallel Review and Feedback in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/integrate-advanced-risk-with-parallel-review-feedback.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

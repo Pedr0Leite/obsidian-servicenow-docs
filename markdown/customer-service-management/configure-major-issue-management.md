@@ -12,7 +12,7 @@ breadcrumb: [Configure case management, Case management, Organize agent workspac
 
 # Configure major issue management
 
-Major issue management enables [[customer-communication|customer communication]] for issues that impact a wider audience. Use this feature to proactively identify impacted customers, provide information to these customers, and manage the resolution process.
+Major issue management enables customer communication for issues that impact a wider audience. Use this feature to proactively identify impacted customers, provide information to these customers, and manage the resolution process.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This feature enables you to efficiently manage the communication and resolution 
 
 2.  On the Getting Started page of the guided setup, click **Get Started**.
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
     |Task|Description|
     |----|-----------|
@@ -43,10 +43,5 @@ This feature enables you to efficiently manage the communication and resolution 
 **Related topics**  
 
 
-[[major-issue-management|Major issue management overview]]
+[Major issue management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-management.md)
 
-## Related
-
-- [[major-issue-management|Major issue management overview]]
-- [[customer-communication|Customer communication]]
-- [[case-management|Case management]]

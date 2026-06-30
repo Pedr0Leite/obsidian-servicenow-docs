@@ -14,7 +14,7 @@ breadcrumb: [Integrate, DevOps Change Velocity, IT Service Management]
 
 # User-created integrations in DevOps Change Velocity
 
-User-created integrations are for integrating additional planning, coding, and test tools that are not available by default in the [[devops-landing-page-new|DevOps Change Velocity]] application.
+User-created integrations are for integrating additional planning, coding, and test tools that are not available by default in the DevOps Change Velocity application.
 
 The DevOps Change Velocity application includes tool definitions for integrating some common planning, coding, and [DevOps test tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-test-tool-integration.md), but you can also set up user-created integrations for additional tools in your DevOps environment.
 
@@ -424,19 +424,13 @@ You can integrate additional security tools that are not supported in the base s
 -   **[DevOps user-created orchestration tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-user-created-orchestration-tool-integration.md)**  
 Integrate DevOps Change Velocity with any orchestration tool that is not supported in the base system.
 -   **[Create a DevOps tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/set-up-dev-ops-integrations.md)**  
-To [[set-up-dev-ops-integrations|create a DevOps tool integration]], your integration developer configures DevOps tool integration [[settings-mobile|settings]], and a Workflow Studio subflow to collect and transform data from the source tool. Then your DevOps admin configures your DevOps tool connections.
+To create a DevOps tool integration, your integration developer configures DevOps tool integration settings, and a Workflow Studio subflow to collect and transform data from the source tool. Then your DevOps admin configures your DevOps tool connections.
 -   **[Creating DevOps subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/creating-dev-ops-subflows.md)**  
 For user-created integrations, create a DevOps Workflow Studio subflow to collect and transform data from the tool you are integrating.
 -   **[Add custom fields for a planning tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/add-custom-field-for-a-planning-tool-integration.md)**  
 Add custom fields into your planning tool integration to improve configurability and access business-specific information, which facilitates more informed decision-making.
 -   **[Create a tool integration from the DevOps Change Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/create-a-tool-integration-from-the-devops-change-workspace.md)**  
-[[create-a-tool-integration-from-the-devops-change-workspace|Create a tool integration from the DevOps Change Workspace]] for integrating additional orchestration, planning, and coding tools that are not available by default in the DevOps Change Velocity application.
+Create a tool integration from the DevOps Change Workspace for integrating additional orchestration, planning, and coding tools that are not available by default in the DevOps Change Velocity application.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[set-up-dev-ops-integrations|Create a DevOps tool integration]]
-- [[settings-mobile|Settings]]
-- [[create-a-tool-integration-from-the-devops-change-workspace|Create a tool integration from the DevOps Change Workspace]]

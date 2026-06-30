@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The HCLS to dos \(hcls-todo-list\) service portal widget is pre-configured to display to-do items for patients. By default, the widget is included in the hcls\_todos page provided with the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application. In this procedure, you add a menu item to a patient portal to access the hcls\_todos page.
+The HCLS to dos \(hcls-todo-list\) service portal widget is pre-configured to display to-do items for patients. By default, the widget is included in the hcls\_todos page provided with the Healthcare and Life Sciences Service Management Core application. In this procedure, you add a menu item to a patient portal to access the hcls\_todos page.
 
 ## Procedure
 
@@ -105,6 +105,4 @@ Icon that appears beside the menu item.
 </td></tr></tbody>
 </table>5.  Click **Save**.
 
-## Related
 
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

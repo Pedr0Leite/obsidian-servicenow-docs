@@ -15,7 +15,7 @@ breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual A
 
 # Improving the user experience with AI Search
 
-[[virtual-agent-landing-page|Virtual Agent]] uses the ServiceNow AI Platform® AI Search application to return search results in bot conversations as a fallback when there are no relevant topics to display to end users. Virtual Agent also provides a Run AI Search topic block that topic authors can use to generate search results in a topic.
+Virtual Agent uses the ServiceNow AI Platform® AI Search application to return search results in bot conversations as a fallback when there are no relevant topics to display to end users. Virtual Agent also provides a Run AI Search topic block that topic authors can use to generate search results in a topic.
 
 ## How Virtual Agent uses AI Search
 
@@ -37,9 +37,9 @@ Virtual Agent provides base system \(default\) AI Search configurations that det
     -   Search profile - Index source to be used and the type of results to show in Genius Result cards.
 -   Entity View Action Mapping \(EVAM\) configuration that defines how search results and Genius Results are displayed.
 
-The Virtual Agent search configurations are part of the default chat experience set in [[assistant-designer|Assistant Designer]], through the Custom Greetings and Setup feature. Use this feature to specify the context for running Virtual Agent. The chat experience defines the setup topics used in Virtual Agent conversations and the search configuration that controls the AI Search experience. The AI Search Fallback setup topic controls the AI Search experience. For details, see [Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md).
+The Virtual Agent search configurations are part of the default chat experience set in Assistant Designer, through the Custom Greetings and Setup feature. Use this feature to specify the context for running Virtual Agent. The chat experience defines the setup topics used in Virtual Agent conversations and the search configuration that controls the AI Search experience. The AI Search Fallback setup topic controls the AI Search experience. For details, see [Customizing a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md).
 
-Virtual Agent and [[va-lite|Virtual Agent Lite]] use AI Search functionality. If you're a Virtual Agent Lite admin, you can deactivate setup topics such as the AI Search Fallback setup topic, but you can't change the Virtual Agent search configurations set in chat experiences, the Run AI Search topic block, nor the AI Search Fallback setup topic.
+Virtual Agent and Virtual Agent Lite use AI Search functionality. If you're a Virtual Agent Lite admin, you can deactivate setup topics such as the AI Search Fallback setup topic, but you can't change the Virtual Agent search configurations set in chat experiences, the Run AI Search topic block, nor the AI Search Fallback setup topic.
 
 In order to use AI Search in Virtual Agent, you must request it for your instance. For more information, see [Activate AI Search for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-ai-search-va.md).
 
@@ -97,7 +97,7 @@ The default AI Search results include these items:
 
 -   **Portals that display AI Search links**
 
-    Links in the Genius card and multi-link output search results are opened automatically in a portal that you can set in various ways. For example, you can use default or custom URL mappings to specify the portal in which links are opened. To learn more, see [[ac-configure-url-navigation|Configure URL navigation for chat links]].
+    Links in the Genius card and multi-link output search results are opened automatically in a portal that you can set in various ways. For example, you can use default or custom URL mappings to specify the portal in which links are opened. To learn more, see [Configure URL navigation for chat links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-url-navigation.md).
 
 
 ## Custom search experiences
@@ -111,9 +111,3 @@ Define a custom AI Search experience in a conversation using the AI Search topic
 
 **Parent Topic:**[Exploring other Virtual Agent features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/exploring-other-vad-features.md)
 
-## Related
-
-- [[ac-configure-url-navigation|Configure URL navigation for chat links]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[va-lite|Virtual Agent Lite]]

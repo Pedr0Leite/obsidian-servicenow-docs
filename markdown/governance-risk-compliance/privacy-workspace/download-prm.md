@@ -14,7 +14,7 @@ breadcrumb: [Configure, Privacy Management, Governance, Risk, and Compliance]
 
 # Download Privacy Management
 
-Before you run GRC: [[privacy-management|Privacy Management]] \(sn\_privacy\) in your instance, you must download it from the ServiceNow Store.
+Before you run GRC: Privacy Management \(sn\_privacy\) in your instance, you must download it from the ServiceNow Store.
 
 ## Before you begin
 
@@ -22,12 +22,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
 
 **Parent Topic:**[Configuring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-privacy-mgmt.md)
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[privacy-management|privacy management]]

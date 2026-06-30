@@ -14,7 +14,7 @@ breadcrumb: [Integrating with Safe Workplace suite, Safe Workplace, Health and S
 
 # Get employee or visitor health data
 
-Send a GET request for [[employee-health-safety-status|Employee Health and Safety Status]] data to use in your third-party system. Get data to determine an employee or visitor's current health status.
+Send a GET request for Employee Health and Safety Status data to use in your third-party system. Get data to determine an employee or visitor's current health status.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_imt\_core.reader
 
     For more information, see [Table API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_TableAPI.md).
 
-    1.  Construct the endpoint using the [[health-safety-overview|Health and Safety]] User \[sn\_imt\_core\_health\_and\_safety\_user\] table.
+    1.  Construct the endpoint using the Health and Safety User \[sn\_imt\_core\_health\_and\_safety\_user\] table.
 
         ```
         https://<your-instance>.servicenow.com/api/now/table/sn_imt_core_health_and_safety_user
@@ -165,8 +165,3 @@ Sys\_id of the user record. **Note:** Only used when returning employee health d
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[health-safety-overview|Health and Safety]]

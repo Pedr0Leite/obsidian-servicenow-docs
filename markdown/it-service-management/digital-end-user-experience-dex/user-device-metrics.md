@@ -32,7 +32,7 @@ Memory usage
 
 </td><td>
 
-Trend over a selected duration in the amount of memory or RAM consumed by the device.**Note:** High memory usage might lead degraded application performance, slower response times, and crashes or system instability. You can monitor memory usage to optimize resource allocation and capacity planning, verifying that [[dex-workspace-application-tab|applications]] have enough resources to meet user needs.
+Trend over a selected duration in the amount of memory or RAM consumed by the device.**Note:** High memory usage might lead degraded application performance, slower response times, and crashes or system instability. You can monitor memory usage to optimize resource allocation and capacity planning, verifying that applications have enough resources to meet user needs.
 
 </td></tr><tr><td>
 
@@ -250,7 +250,7 @@ GPU energy consumption
 
 Amount of the electrical energy used by the Graphics Processing Unit \(GPU\) over a selected duration.This field appears on macOS machines only.
 
-Monitoring GPU energy consumption helps improve energy efficiency and understand how GPU performance affects the overall device power consumption. Prolonged high GPU energy usage can also contribute to heat generation, which can reduce battery life on portable [[dex-workspace-devices-tab|devices]].
+Monitoring GPU energy consumption helps improve energy efficiency and understand how GPU performance affects the overall device power consumption. Prolonged high GPU energy usage can also contribute to heat generation, which can reduce battery life on portable devices.
 
 </td></tr><tr><td>
 
@@ -356,7 +356,3 @@ Wi-Fi transmit rates over a selected duration.This field appears on macOS machin
 
 **Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

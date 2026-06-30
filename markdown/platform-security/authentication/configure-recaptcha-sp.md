@@ -14,7 +14,7 @@ breadcrumb: [Configure a user registration configuration for external users, Sel
 
 # Configure Google reCAPTCHA for external user self-registration
 
-To use the Google reCAPTCHA service, you must [[c_requestAPI|request]] an API key pair from Google and then configure the related [[ca-system-properties|system properties]].
+To use the Google reCAPTCHA service, you must request an API key pair from Google and then configure the related system properties.
 
 ## Before you begin
 
@@ -69,8 +69,3 @@ The Sys\_ID of the Captcha Widget.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]

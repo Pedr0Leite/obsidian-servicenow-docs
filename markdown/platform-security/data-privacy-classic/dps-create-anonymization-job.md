@@ -14,11 +14,11 @@ breadcrumb: [Data anonymization, Data privacy, Data Privacy, Platform Privacy]
 
 # Create anonymization job
 
-[[config-data-privacy-job|Configure a data privacy job]] on your production instance to use anonymized data on your non-production instance for user and data class jobs.
+Configure a data privacy job on your production instance to use anonymized data on your non-production instance for user and data class jobs.
 
 ## Before you begin
 
-The [[data-privacy-landing|data privacy]] job supports two de-identification use cases:
+The data privacy job supports two de-identification use cases:
 
 -   Sensitive data of specific sys\_users
 -   Sensitive data of particular data class.
@@ -29,7 +29,7 @@ Role required: data\_privacy\_processor and admin
 
 1.  Elevate to the **data\_privacy\_processor** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
@@ -55,7 +55,7 @@ Policy used
 
 </td><td>
 
-Read only name of the selected privacy policy [[sc-configuration|configuration]] to use for this job. Edit the policy to view additional information about the policy. For detail on privacy policy configurations, see [Create anonymization policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-policies.md).
+Read only name of the selected privacy policy configuration to use for this job. Edit the policy to view additional information about the policy. For detail on privacy policy configurations, see [Create anonymization policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-policies.md).
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Type of user selection
 
 </td><td>
 
-Select either [[users|users]] or groups to be anonymized.
+Select either users or groups to be anonymized.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Select a the specific set of users or groups to be anonymized in this job. Suppo
 </td></tr></tbody>
 </table>    **Important:** All tables must have a correct sys\_dictionary entry before scheduling and during its job.
 
-5.  Add conditions to specify which data should be anonymized. This does not apply to cloning anonymization [[ca-policies|policies]].
+5.  Add conditions to specify which data should be anonymized. This does not apply to cloning anonymization policies.
 
     **Note:** For recurring jobs, tables with defined conditions will run a full scan each time the job executes.
 
@@ -213,7 +213,7 @@ Time remaining to rollback
 
 </td><td>
 
-The remaining time that a completed [[dps-data-anonymization|data anonymization]] job can be rolled back and de-anonymize the data. A read-only field.
+The remaining time that a completed data anonymization job can be rolled back and de-anonymize the data. A read-only field.
 
 </td></tr><tr><td>
 
@@ -251,7 +251,7 @@ Restarts a paused job. Rollback is not supported for resumed jobs if paused. Can
 
 </td></tr><tr><td>
 
-[[export|Export]]
+Export
 
 </td><td>
 
@@ -259,14 +259,3 @@ Downloads a .PDF file of the data privacy job details.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[config-data-privacy-job|Configure a data privacy job]]
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[dps-data-anonymization|Data anonymization]]
-- [[export|Export]]

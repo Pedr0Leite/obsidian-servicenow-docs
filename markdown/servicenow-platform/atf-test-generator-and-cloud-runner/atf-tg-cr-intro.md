@@ -40,7 +40,7 @@ The test generator intelligently creates tests by analyzing instance behavior an
 
 </td><td>
 
-[Reference \[Omitted image "icon-[[reference|reference]].png"\] Alt text: Learn about miscellaneous information about the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-ref.md)
+[Reference \[Omitted image "icon-reference.png"\] Alt text: Learn about miscellaneous information about the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-ref.md)
 
 </td><td>
 
@@ -54,6 +54,3 @@ The test generator intelligently creates tests by analyzing instance behavior an
 -   [Ask or answer questions about ATF Test Generator and Cloud Runner in the ServiceNow Community](https://www.servicenow.com/community/)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 
-## Related
-
-- [[reference|Reference]]

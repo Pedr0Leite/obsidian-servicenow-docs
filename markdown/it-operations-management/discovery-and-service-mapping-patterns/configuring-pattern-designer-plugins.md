@@ -14,9 +14,9 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Configuring Pattern Designer and related applications
 
-Install the latest available versions of the ServiceNow applications to use the latest [[r-discovery|discovery]] patterns.
+Install the latest available versions of the ServiceNow applications to use the latest discovery patterns.
 
-The Pattern Designer \(com.snc.pattern.designer\) application provides the UI for creating or customizing discovery patterns. Pattern Designer is automatically installed with Discovery or [[c_ServiceMappingOverview|Service Mapping]]. The patterns themselves are released using dedicated pattern applications.
+The Pattern Designer \(com.snc.pattern.designer\) application provides the UI for creating or customizing discovery patterns. Pattern Designer is automatically installed with Discovery or Service Mapping. The patterns themselves are released using dedicated pattern applications.
 
 The following user roles have access to Pattern Designer and can perform various actions. Note that customizing patterns requires basic knowledge of programming.
 
@@ -99,7 +99,3 @@ The Password \(two-way encrypted\) field type is used to encrypt and decrypt dat
 
 **Next topic:**[Check which plugin contains a required pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/check-pattern-availability.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

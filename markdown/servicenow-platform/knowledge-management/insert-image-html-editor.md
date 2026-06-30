@@ -14,7 +14,7 @@ breadcrumb: [Editing functions for knowledge articles in the HTML editor, Creati
 
 # Insert an image in a knowledge article
 
-Insert an image in a knowledge article using the [[html|HTML]] editor.
+Insert an image in a knowledge article using the HTML editor.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: user with contribute access
 
 The image is included in the knowledge article.
 
-## Related
-
-- [[html|HTML]]

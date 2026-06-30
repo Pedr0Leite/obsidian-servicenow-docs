@@ -19,8 +19,8 @@ Enable and use AI agents to examine agent behavior through the Agent Client Coll
 ## Before you begin
 
 -   Ensure that the Now Assist panel is enabled on your instance. For details, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
--   Ensure that Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) is installed on your instance. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
--   Enable the [[acc-landing-page|Agent Client Collector]] diagnostic workflow in AI Agent Studio.
+-   Ensure that Now Assist for IT Operations Management \(ITOM\) is installed on your instance. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+-   Enable the Agent Client Collector diagnostic workflow in AI Agent Studio.
     1.  Select **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
     2.  On the **Agentic workflows** tab, select **Agent Client Collector \(ACC\) Diagnostic**.
     3.  Select the **Select channels and status** option.
@@ -41,7 +41,7 @@ Invoke the Agent Client Collector \(ACC\) diagnostic workflow to:
 
 1.  In a ServiceNow instance, select the Now Assist icon \(\[Omitted image "now-assist-icon.png"\] Alt text: Now Assist icon\).
 
-2.  In the Now Assist panel, enter prompts to invoke the ACC diagnostic workflow and perform [[ccg-remediation|remediation]] actions on the agent.
+2.  In the Now Assist panel, enter prompts to invoke the ACC diagnostic workflow and perform remediation actions on the agent.
 
     Possible prompts include:
 
@@ -53,8 +53,3 @@ Invoke the Agent Client Collector \(ACC\) diagnostic workflow to:
 
 An error report is generated, based on the activity logged by the Agent Client Collector Framework.
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[ccg-remediation|Remediation]]

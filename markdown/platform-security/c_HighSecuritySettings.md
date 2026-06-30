@@ -17,18 +17,13 @@ High Security Settings refer to several security options available in your insta
 
 [Explore High Security setting\[Omitted image "icon-explore.png"\] Alt text: Explore](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-high-security-settings.md)
 
- [[exploring-high-security-settings|Learn the features and business values of High Security Settings.]]
+ [Learn the features and business values of High Security Settings.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-high-security-settings.md)
 
 </td><td>
 
 [Activate High Security Settings\[Omitted image "icon-workspace.png"\] Alt text: Activate High Security Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHighSecuritySettings.md)
 
- [[t_ActivateHighSecuritySettings|Activate the High Security Settings.]]
+ [Activate the High Security Settings.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHighSecuritySettings.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-high-security-settings|Exploring High Security Settings]]
-- [[t_ActivateHighSecuritySettings|Activating High Security Settings]]

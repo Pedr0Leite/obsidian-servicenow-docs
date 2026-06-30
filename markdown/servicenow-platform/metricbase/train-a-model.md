@@ -14,7 +14,7 @@ breadcrumb: [Detecting anomalies, Define and collect data, MetricBase, Manage in
 
 # Create and train a predictive model
 
-Use statistical models to determine significant anomalies in real-time using [[metricbase|MetricBase]] triggers. You will need to train a model using representative data that has already been stored in MetricBase.
+Use statistical models to determine significant anomalies in real-time using MetricBase triggers. You will need to train a model using representative data that has already been stored in MetricBase.
 
 ## Before you begin
 
@@ -142,9 +142,5 @@ Option to use the trained model. Once the model is active it becomes available f
 
 ## What to do next
 
-You can [[t_CreateAWorkflow|create a Workflow]] Studio trigger for this model. For more information, see [Create a model trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/create-metricbase-model-trigger.md).
+You can create a Workflow Studio trigger for this model. For more information, see [Create a model trigger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/create-metricbase-model-trigger.md).
 
-## Related
-
-- [[metricbase|MetricBase]]
-- [[t_CreateAWorkflow|Create a workflow]]

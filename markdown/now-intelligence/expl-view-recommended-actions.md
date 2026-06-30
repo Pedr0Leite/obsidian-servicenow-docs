@@ -24,13 +24,13 @@ Role required: now\_assist\_explorer\_user
 
 1.  Launch AI Data Explorer.
 
-    For more information, see [[launch-now-assist-explorer|Launch AI Data Explorer]].
+    For more information, see [Launch AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/launch-now-assist-explorer.md).
 
 2.  Open an exploration that already has generated insights.
 
 3.  For best results, set an exploration goal.
 
-    For more information, see [[goals-questions|Setting exploration goals]].
+    For more information, see [Setting exploration goals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/goals-questions.md).
 
 4.  Perform one of the following actions:
 
@@ -56,10 +56,5 @@ Role required: now\_assist\_explorer\_user
 10. When you have addressed the recommendations, you can press the **Regenerate** button after the recommendations to generate new recommendations.
 
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
-## Related
-
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]
-- [[goals-questions|Setting exploration goals]]
-- [[use-now-assist-explorer|Using AI Data Explorer]]

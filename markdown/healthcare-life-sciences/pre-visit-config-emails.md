@@ -12,7 +12,7 @@ breadcrumb: [Configure, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Configuring the Pre-Visit Management email notifications
 
-Configure the [[pre-visit-mgmt-app|Pre-Visit Management]] email notifications sent to patients about pre-visit activities for procedure requests.
+Configure the Pre-Visit Management email notifications sent to patients about pre-visit activities for procedure requests.
 
 **Important:**
 
@@ -73,6 +73,3 @@ Patient
 </td></tr></tbody>
 </table>As a user with the sn\_previsit.admin role, you can configure the email notifications for the Pre-Visit Management application, by navigating to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**. For more information on editing email notifications, see [Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md).
 
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

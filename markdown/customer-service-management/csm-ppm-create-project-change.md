@@ -30,7 +30,7 @@ The project manager can create one project change request for a case.
 
 3.  In the **Cases** related list, click a case.
 
-4.  Click **Create Project Change Request** on the [[r_CustomerServiceCaseForm|Case form]].
+4.  Click **Create Project Change Request** on the Case form.
 
     The system creates a new change request for the project, copies the case short description to the **Title** field, and the case priority to the **Priority** field.
 
@@ -38,12 +38,8 @@ The project manager can create one project change request for a case.
 
     The system does the following after you save the change request:
 
-    -   Adds the case number to the [[csm-config-ws-activity-stream|activity stream]] on the Project Change Request form.
+    -   Adds the case number to the activity stream on the Project Change Request form.
     -   Adds the project change request number to the activity stream on the Case form.
     -   Adds the project change request to the **Project Change Requests** related list on the Customer Project form.
     -   Adds the project change request to the **Project Change Request** field in the Related Records section of the Case form.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -22,11 +22,11 @@ Role required: admin and sn\_msi.workspace\_admin
 
 **Note:** The system admin can create the record and MSI workspace admin can update it.
 
-To rollup information such as configuration items, [[c_Observables|observables]], and indicator of compromise related to a Security case, create a rollup record configuration.
+To rollup information such as configuration items, observables, and indicator of compromise related to a Security case, create a rollup record configuration.
 
 ## Procedure
 
-1.  Navigate to **Major [[sir-landing-page|Security Incident Response]]** &gt; **MSI Administration** &gt; **Linked Record Configuration**.
+1.  Navigate to **Major Security Incident Response** &gt; **MSI Administration** &gt; **Linked Record Configuration**.
 
     The Linked Record Configurations page displays.
 
@@ -106,8 +106,3 @@ MSIMRollupEngine.linkToMSI\("entityGr”, “sourceSysId”, “fieldNameInLinke
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

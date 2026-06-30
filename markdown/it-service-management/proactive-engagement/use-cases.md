@@ -14,7 +14,7 @@ breadcrumb: [Reference, Proactive Engagement, Digital End-User Experience, IT Se
 
 # Proactive Engagement use cases
 
-This section lists some of the most common use cases in [[proactive-engagement-landing-page|Proactive Engagement]] that are designed for seamless implementation and quick results. You can deploy these use cases that are tailored to some of the common challenges seen as required by your organization to meet your specific needs.
+This section lists some of the most common use cases in Proactive Engagement that are designed for seamless implementation and quick results. You can deploy these use cases that are tailored to some of the common challenges seen as required by your organization to meet your specific needs.
 
 <table id="table_c4x_v3l_xbc"><thead><tr><th>
 
@@ -42,7 +42,7 @@ Resolution
 
 </td><td>
 
-The slow performance of the system is due to insufficient disk space. It can be resolved by freeing up disk space and restoring optimal system performance through **Windows Disk Cleanup** as a [[remedial-action|remedial action]].
+The slow performance of the system is due to insufficient disk space. It can be resolved by freeing up disk space and restoring optimal system performance through **Windows Disk Cleanup** as a remedial action.
 
 </td><td>
 
@@ -115,7 +115,7 @@ Submit a catalog request to replace the deteriorated battery.
 
 </td><td>
 
-Notify the user of a required system reboot which is pending over a time period.Device not being rebooted for a long time, causing pending installations to be stalled or [[dex-workspace-application-tab|applications]] to run improperly in the background.
+Notify the user of a required system reboot which is pending over a time period.Device not being rebooted for a long time, causing pending installations to be stalled or applications to run improperly in the background.
 
 </td><td>
 
@@ -454,8 +454,3 @@ Provide self-help instructions to the end user to update their OS, device driver
 </td></tr></tbody>
 </table>**Parent Topic:**[Proactive Engagement reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-reference.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-application-tab|Applications]]

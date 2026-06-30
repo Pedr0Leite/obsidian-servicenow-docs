@@ -14,7 +14,7 @@ breadcrumb: [Product catalog items, Product Catalog, IT Asset Management]
 
 # Deactivate a product catalog item
 
-Deactivate a product catalog item to remove it from the [[c_ProductCatalog|product catalog]] and the service catalog.
+Deactivate a product catalog item to remove it from the product catalog and the service catalog.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ Select **Deactivate** under **Related Links**.
 
 [Import a Product Catalog item]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]

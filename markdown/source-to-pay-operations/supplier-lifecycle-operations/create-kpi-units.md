@@ -14,7 +14,7 @@ breadcrumb: [Configure Supplier Relationship and Performance Management, Configu
 
 # Create KPI units
 
-Create KPI units to be used as measurement units for the quantitative performance of the [[supplier|supplier]] KPIs.
+Create KPI units to be used as measurement units for the quantitative performance of the supplier KPIs.
 
 \[Omitted video\] Description: Creating KPI Units.
 
@@ -119,6 +119,3 @@ Domain category under which the unit is listed. By default, the Domain is set as
 
 [Create KPIs by adding suppliers to a KPI template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-kpi-template.md)
 
-## Related
-
-- [[supplier|Supplier]]

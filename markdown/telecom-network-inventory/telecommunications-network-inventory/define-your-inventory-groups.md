@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define your inventory groups
 
-An inventory group is a collection of CIs that lets you apply CI actions collectively to all the CIs in [[telecom-network-inventory|Telecommunications Network Inventory]] application. By defining inventory groups, you can group different CIs, and apply actions to all CIs.
+An inventory group is a collection of CIs that lets you apply CI actions collectively to all the CIs in Telecommunications Network Inventory application. By defining inventory groups, you can group different CIs, and apply actions to all CIs.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ When you create an inventory group, it creates a group in the inventory group\[c
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Click the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then click **Inventory** &gt; **Inventory Groups**
 
@@ -102,7 +102,3 @@ If you want to establish relationships with the other network assets, enter the 
 
 **Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

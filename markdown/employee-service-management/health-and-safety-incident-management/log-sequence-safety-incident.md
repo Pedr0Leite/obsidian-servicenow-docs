@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -32,7 +32,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
     The incident playbook opens.
 
-5.  In the **Enter incident summary** stage, under the **Add event details** [[activity-lxp|activity]], add the following information.
+5.  In the **Enter incident summary** stage, under the **Add event details** activity, add the following information.
 
     1.  Location where this incident happened.
 
@@ -61,8 +61,3 @@ Add people involved in the incident such as injured person, witnesses, and colla
 
 **Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Check Definitions**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Check Definitions**.
 
 2.  Select a check definition from the list.
 
@@ -85,7 +85,3 @@ Select a proxy agent to be associated with the check.This field appears only whe
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

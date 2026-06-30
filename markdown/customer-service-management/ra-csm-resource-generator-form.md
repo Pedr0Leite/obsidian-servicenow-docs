@@ -16,7 +16,7 @@ The form provides information about the generator type and generator inputs.
 
 ## Resource Generators form fields
 
-The [[csm-task-intel-admin-center|Task Intelligence Admin Console]] \(com.sn\_ti\_admin\) plugin must be installed for selecting the Task [[intelligence-csm|Intelligence]] Classification resource generator type.
+The Task Intelligence Admin Console \(com.sn\_ti\_admin\) plugin must be installed for selecting the Task Intelligence Classification resource generator type.
 
 **Note:**
 
@@ -189,8 +189,3 @@ The number of values or records to return from the relevant records predicted by
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[intelligence-csm|Intelligence]]

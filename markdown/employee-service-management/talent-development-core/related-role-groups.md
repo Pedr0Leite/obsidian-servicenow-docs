@@ -14,7 +14,7 @@ breadcrumb: [Working with job architecture, Skills Workspace, Exploring Skills F
 
 # Create related role groups
 
-Create a connection between two different role groups in the [[skills-intelligence-workspace|Skills Workspace]] to enable a transition path for the employees to move across different role groups.
+Create a connection between two different role groups in the Skills Workspace to enable a transition path for the employees to move across different role groups.
 
 ## Before you begin
 
@@ -95,6 +95,3 @@ A new relation between two role groups is created.
 
 [Edit skills and proficiencies in the Skills Matrix]()
 
-## Related
-
-- [[skills-intelligence-workspace|Skills Workspace]]

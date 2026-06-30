@@ -94,7 +94,7 @@ The sentiment analysis model evaluates the following text to make a prediction:
  If the model can't make a prediction, no information gets recorded and the value in the **Current sentiment** field remains the same.
 
 </td></tr></tbody>
-</table>For more information about the pre-trained machine learning model, see [[csm-task-intel-create-sentiment-solution|Create a model to predict case sentiment]].
+</table>For more information about the pre-trained machine learning model, see [Create a model to predict case sentiment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md).
 
 ## Prediction feedback
 
@@ -103,22 +103,16 @@ The system stores feedback on prediction results in the Predictor Result \[ml\_p
 -   The default value in the **Predicted correctly** field for each sentiment prediction is set to true.
 -   The **Final input value** and **Final output value** fields remain empty because sentiment analysis predictions do not collect feedback from agents.
 
-The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [[case-categorization-components|Components installed with Task Intelligence for Customer Service]].
+The Predictor Result table also stores information about skipped and failed predictions. For more information about this table, see [Components installed with Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-components.md).
 
-**Parent Topic:**[[csm-task-intelligence|Task Intelligence for Customer Service]]
+**Parent Topic:**[Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intelligence.md)
 
 **Related topics**  
 
 
-[[case-sentiment-analysis-configure|Configure Sentiment Analysis]]
+[Configure Sentiment Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis-configure.md)
 
 [Configure Sentiment Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis-configure.md)
 
 [Create a model to predict case sentiment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md)
 
-## Related
-
-- [[csm-task-intel-create-sentiment-solution|Create a model to predict case sentiment]]
-- [[case-categorization-components|Components installed with Task Intelligence for Customer Service]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[case-sentiment-analysis-configure|Configure Sentiment Analysis]]

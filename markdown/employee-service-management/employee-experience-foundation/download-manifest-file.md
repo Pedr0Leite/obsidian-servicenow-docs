@@ -14,7 +14,7 @@ breadcrumb: [Integrate Meeting Extensions pre-published app with Microsoft Teams
 
 # Download manifest file
 
-Download the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] manifest file from your instance.
+Download the Notify connector for Microsoft Teams manifest file from your instance.
 
 ## Before you begin
 
@@ -106,6 +106,3 @@ Detailed description for the manifest file.
 
 **Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-multi-tenant.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

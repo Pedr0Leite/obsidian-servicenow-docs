@@ -24,7 +24,7 @@ Create a collection. For more information, see [Create a content collection](htt
 
 ## Procedure
 
-1.  Navigate to **[[exploring-learning-exp|Learning]]** &gt; **Content** &gt; **Collection**.
+1.  Navigate to **Learning** &gt; **Content** &gt; **Collection**.
 
 2.  Open the collection that you want to define user access for.
 
@@ -41,6 +41,3 @@ Create a collection. For more information, see [Create a content collection](htt
 
 **Parent Topic:**[Create a content collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-collection.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

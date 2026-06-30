@@ -14,7 +14,7 @@ breadcrumb: [Reference, Incident Management, IT Service Management]
 
 # Incident Management data model
 
-Learn about the [[c_IncidentManagement|Incident Management]] application by viewing the data model diagram. This diagram shows the relationships between the tables within the application and provides an overall picture of how the Incident Management application operates.
+Learn about the Incident Management application by viewing the data model diagram. This diagram shows the relationships between the tables within the application and provides an overall picture of how the Incident Management application operates.
 
 ## Data model
 
@@ -26,6 +26,3 @@ The flexibility of the Incident Management platform provides you with a data mod
 
 **Parent Topic:**[Reference section for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

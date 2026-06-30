@@ -17,13 +17,13 @@ breadcrumb: [Jenkins, Integrate, DevOps Change Velocity, IT Service Management]
 Additional information on Jenkins.
 
 -   **[Connect to Jenkins using API token authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/authenticate-jenkins-using-api-token.md)**  
-[[authenticate-jenkins-using-api-token|Connect to Jenkins using API token authentication]] instead of user name and password.
+Connect to Jenkins using API token authentication instead of user name and password.
 -   **[Reduce calls from Jenkins to ServiceNow DevOps to fetch pipeline information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/reduce-pipeline-info-calls-jenkins.md)**  
 Enable the Force Tracking Check field in the Jenkins configuration form to create a pipeline tracking file in Jenkins. ServiceNow DevOps makes a REST call to Jenkins to update the tracking file when the Track field in a pipeline is modified.
 -   **[Using a declarative or scripted pipeline in DevOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-scripted-pipeline.md)**  
 When you use a Jenkinsfile, steps are created, mapped, and associated to orchestration tasks automatically instead of manually.
 -   **[Configure SonarQube scans on Jenkins pipelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/config-sonarqube-jenkins-devops.md)**  
-[[config-sonarqube-jenkins-devops|Configure SonarQube scans on Jenkins pipelines]].
+Configure SonarQube scans on Jenkins pipelines.
 -   **[Notify change request rejection or cancellation reason to Jenkins pipeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-jenkins-change-reject-reason.md)**  
 Send change request rejection or cancellation reason along with approver name and the change request number to Jenkins pipeline logs.
 -   **[Notify ServiceNow DevOps change request number to Jenkins pipelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-number-notify-jenkins.md)**  
@@ -39,7 +39,3 @@ Set log levels in the Jenkins plugin for ServiceNow DevOps based on the extent o
 
 **Parent Topic:**[Jenkins integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/jenkins-integration-dev-ops.md)
 
-## Related
-
-- [[authenticate-jenkins-using-api-token|Connect to Jenkins using API token authentication]]
-- [[config-sonarqube-jenkins-devops|Configure SonarQube scans on Jenkins pipelines]]

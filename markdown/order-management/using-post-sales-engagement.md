@@ -12,18 +12,11 @@ breadcrumb: [Use, Sales Customer Relationship Management]
 
 # Using post-sales engagement applications
 
-Learn how to use [[configuring-post-sales-engagement|post-sales engagement]] applications.
+Learn how to use post-sales engagement applications.
 
 [Customer Life Cycle Management Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-life-cycle-management-workflows.md)
 
-[[Modify|Modify]], [[Suspend|suspend]], [[Resume|resume]], or disconnect the sold products and their complete hierarchy.
+Modify, suspend, resume, or disconnect the sold products and their complete hierarchy.
 
-**Parent Topic:**[[som-using|Using Sales Customer Relationship Management applications]]
+**Parent Topic:**[Using Sales Customer Relationship Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-using.md)
 
-## Related
-
-- [[som-using|Using Sales Customer Relationship Management applications]]
-- [[configuring-post-sales-engagement|Post-sales engagement]]
-- [[Modify|Modify]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]

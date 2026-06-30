@@ -14,8 +14,5 @@ breadcrumb: [Knowing about History sets, Auditing]
 
 By default, the system does not create Audit records for inserts because in a typical instance, inserts can account for over 80% of the size of the Audit table.
 
-Not tracking inserts allows for better performance and a much smaller Audit table. Administrators can enable [[c_AuditedTables|auditing]] of inserts by setting the **glide.sys.audit\_inserts** property to true.
+Not tracking inserts allows for better performance and a much smaller Audit table. Administrators can enable auditing of inserts by setting the **glide.sys.audit\_inserts** property to true.
 
-## Related
-
-- [[c_AuditedTables|Auditing]]

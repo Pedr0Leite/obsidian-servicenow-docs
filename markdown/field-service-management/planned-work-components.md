@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Planned Work Management components
 
-Several types of components are installed with [[planned-work-management|Planned Work Management]], including tables, roles, script includes, and business rules.
+Several types of components are installed with Planned Work Management, including tables, roles, script includes, and business rules.
 
 ## Tables
 
@@ -101,7 +101,7 @@ Planned work admin \[sn\_fsm\_planned\_wm.planned\_work\_admin\]
 
 </td><td>
 
-Create work plans, planned work schedules, link work order templates to the schedules, and [[generate-work-orders|generate work orders]].
+Create work plans, planned work schedules, link work order templates to the schedules, and generate work orders.
 
 </td></tr></tbody>
 </table>## Script Includes
@@ -351,20 +351,13 @@ Schedule Occurrence \[wm\_plan\_work\_schedule\_occurrence\]
  
 
 </td></tr></tbody>
-</table>-   **[[planned_work_management_sys_properties|Planned Work Management system properties]]**  
+</table>-   **[Planned Work Management system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planned_work_management_sys_properties.md)**  
 Planned Work Management uses the following system properties, which are located in the System Properties \[sys\_properties\] table.
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 **Related topics**  
 
 
-[[extension-points-field-service|Extension points in Field Service Management]]
+[Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md)
 
-## Related
-
-- [[planned_work_management_sys_properties|Planned Work Management system properties]]
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[extension-points-field-service|Extension points in Field Service Management]]
-- [[planned-work-management|Planned Work Management]]
-- [[generate-work-orders|Generate work orders]]

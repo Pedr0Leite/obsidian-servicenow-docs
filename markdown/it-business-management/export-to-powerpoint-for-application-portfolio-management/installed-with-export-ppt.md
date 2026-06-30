@@ -14,7 +14,7 @@ breadcrumb: [Reference, Export to PowerPoint for Strategic Portfolio Management,
 
 # Components installed with Export to PowerPoint for Strategic Portfolio Management
 
-Several types of components are installed with activation of the [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]] \(sn\_ppt\) add-in, including user roles and tables.
+Several types of components are installed with activation of the Export to PowerPoint for Strategic Portfolio Management \(sn\_ppt\) add-in, including user roles and tables.
 
 ## Roles installed
 
@@ -151,6 +151,3 @@ To view and manage all available templates, navigate to **All** &gt; **PowerPoin
 
 **Parent Topic:**[Export to PowerPoint Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-reference.md)
 
-## Related
-
-- [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]]

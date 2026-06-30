@@ -14,7 +14,7 @@ breadcrumb: [Normalizing enterprise models, Managing enterprise models and asset
 
 # Revert normalization
 
-You can revert the normalization of enterprise [[c_Models|models]] in the [[using-eam-workspace|Enterprise Asset Workspace]].
+You can revert the normalization of enterprise models in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -41,7 +41,3 @@ Enterprise models with a status of **Fully Normalized**, **Partially Normalized*
     -   The deactivated rule can no longer normalize any more models. The deactivated rule can't be reactivated. It is a one time procedure.
     -   The **Revert Normalization** option on the model record is replaced with the **Normalize** option.
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

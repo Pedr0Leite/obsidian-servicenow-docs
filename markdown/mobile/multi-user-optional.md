@@ -26,17 +26,17 @@ There are three optional settings that can be used when working with the multi-u
 
     **Note:** If the maximum number of users has been reached and an additional user tries to add themselves, they are given the option to remove the user who has been inactive on the device the longest.
 
--   Enable the **EnablePushNotificationinSharedDeviceMode** property. By default, [[sg-mobile-security-push-notif|push notifications]] in a shared device are not enabled. Only use this property and set to true if you want to display push notifications to the active user.
+-   Enable the **EnablePushNotificationinSharedDeviceMode** property. By default, push notifications in a shared device are not enabled. Only use this property and set to true if you want to display push notifications to the active user.
 
     **Note:** When enabling push notifications on a shared device, be aware that other users using the device may be able to view other users’ notifications and banners.
 
--   Set the maximum idle time before users are prompted to re-enter their PIN. The default is 300 seconds. This feature is described in the topic [[pin-timeout|PIN timeout]].
+-   Set the maximum idle time before users are prompted to re-enter their PIN. The default is 300 seconds. This feature is described in the topic [PIN timeout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/pin-timeout.md).
 
 ## Procedure
 
 1.  Set the number of users on a shared device.
 
-    1.  Navigate to **All** &gt; **All &gt; sys\_sg\_properties.list**. The [[mobile-properties|Mobile Properties]] form displays.
+    1.  Navigate to **All** &gt; **All &gt; sys\_sg\_properties.list**. The Mobile Properties form displays.
     2.  In the Mobile Properties list, select  **New**.
     3.  Type the mobile property name **MaxUsersPerSharedDevice** in the name field.
     4.  Select **Integer** in the **Type** field.
@@ -55,8 +55,3 @@ There are three optional settings that can be used when working with the multi-u
 
     4.  Select **Update**.
 
-## Related
-
-- [[pin-timeout|PIN timeout]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-properties|Mobile properties]]

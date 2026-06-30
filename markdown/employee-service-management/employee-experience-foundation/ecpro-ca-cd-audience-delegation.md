@@ -20,13 +20,13 @@ Provide ownership of an audience to a user or group with the content manager \(s
 
 Role required: sn\_cd.content\_admin
 
-Ensure **Yes** is checked under **Allow Ownership for [[ecpro-audience|Audiences]]** under Content Publishing or Content Experiences properties. For more information, see [Properties installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-content-auto.md) and [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md).
+Ensure **Yes** is checked under **Allow Ownership for Audiences** under Content Publishing or Content Experiences properties. For more information, see [Properties installed with Content Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-installed-with-content-auto.md) and [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md).
 
 ## About this task
 
 An audience is a defined group of employees that will receive targeted content. For information on creating an audience, see [Create an audience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
 
-You can restrict an audience to a specific content manager or group of content managers, which specifies which audience the content managers can publish for, and prevents other content managers from [[ec-content-publishing-schedule|publishing content]] to that audience. For example, assign a regional Human Resources manager the sole ability to create content for employees based in that country.
+You can restrict an audience to a specific content manager or group of content managers, which specifies which audience the content managers can publish for, and prevents other content managers from publishing content to that audience. For example, assign a regional Human Resources manager the sole ability to create content for employees based in that country.
 
 ## Procedure
 
@@ -48,7 +48,4 @@ You can restrict an audience to a specific content manager or group of content m
 
     **Note:** Content Managers can create audiences. To enable this, the Allow Ownership for Audiences option must be turned off. If the Ownership Property is enabled, the Content Manager will not have permission to create audiences. See, [Create an auidence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-audiences.md).
 
-## Related
 
-- [[ecpro-audience|Audiences]]
-- [[ec-content-publishing-schedule|Publishing content]]

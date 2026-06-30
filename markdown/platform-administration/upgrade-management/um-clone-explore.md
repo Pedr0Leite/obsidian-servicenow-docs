@@ -18,10 +18,7 @@ The System Clone application facilitates the creation of exact copies of instanc
 
 \[Omitted image "CloneProcess.png"\] Alt text: Clone process overview
 
-**Note:** A new, unified admin experience for cloning data between instances is now available in the [[Clone-UI|Clone Admin Console]]. This enhanced console builds upon our existing clone engine and provides improved visibility into one of our most frequently used automations. In addition to streamlining the cloning process, the console offers a range of other enhancements.
+**Note:** A new, unified admin experience for cloning data between instances is now available in the Clone Admin Console. This enhanced console builds upon our existing clone engine and provides improved visibility into one of our most frequently used automations. In addition to streamlining the cloning process, the console offers a range of other enhancements.
 
 See [Cloning tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-cloning-tool.md) for more information.
 
-## Related
-
-- [[Clone-UI|Clone Admin Console]]

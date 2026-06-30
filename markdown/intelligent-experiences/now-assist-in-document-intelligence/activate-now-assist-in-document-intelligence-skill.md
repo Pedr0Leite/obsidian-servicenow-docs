@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist in Document Intelligence, Enable AI experienc
 
 # Activate a Now Assist in Document Intelligence skill
 
-Activate the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] skills that agents can use to help analyze and extract information from documents with generative AI.
+Activate the Now Assist in Document Intelligence skills that agents can use to help analyze and extract information from documents with generative AI.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Now Assist in Document Intelligence skills are turned on by default. The skills 
 
 -   **New customers**
 
-    When you install a [[platform-now-assist-landing|Now Assist]] product, designated skills are turned on automatically.
+    When you install a Now Assist product, designated skills are turned on automatically.
 
 -   **Existing customers who are upgrading \(starting with Australia Patch 1\)**
 
@@ -38,11 +38,11 @@ Now Assist in Document Intelligence skills are turned on by default. The skills 
     For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills-on-by-default.md).
 
 
-Before activating a [[document-intelligence-landing|document intelligence]] skill in Now Assist, the following applications and their respective plugins must be installed.
+Before activating a document intelligence skill in Now Assist, the following applications and their respective plugins must be installed.
 
 -   Now Assist
 
-    For more information, see [[install-now-assist-feature-plugins|Install Now Assist plugins]].
+    For more information, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
 -   Document Intelligence
 
@@ -59,7 +59,7 @@ Role required: admin
 
 Now Assist in Document Intelligence skills are now turned on by default. If a skill was previously turned on and then turned off, or if an administrator has adjusted roles for the skill, perform the steps in this task to reactivate the skill.
 
-This task doesn’t apply to the Multimodal chat skill. The multimodal chat skill is used to enable chat responses about the content of uploaded documents and images. It is only used on the server side by the [[document-and-visual-insights-ai-agent|document and visual insights AI agent]] and by the question answering capability in Now Assist in Virtual Agent. This skill doesn’t require configuration in the Now Assist Admin console.
+This task doesn’t apply to the Multimodal chat skill. The multimodal chat skill is used to enable chat responses about the content of uploaded documents and images. It is only used on the server side by the document and visual insights AI agent and by the question answering capability in Now Assist in Virtual Agent. This skill doesn’t require configuration in the Now Assist Admin console.
 
 ## Procedure
 
@@ -150,10 +150,3 @@ The skill is active and available to the selected user roles.
 
 [Delete a use case in Now Assist in Document Intelligence]()
 
-## Related
-
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]

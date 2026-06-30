@@ -37,8 +37,5 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
 
 The store plan template state gets updated from Draft to Published. Once the store plan gets published, the review activity will be in read only state.
 
-**Parent Topic:**[[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]
+**Parent Topic:**[Manage store plans to generate cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plan-authoring.md)
 
-## Related
-
-- [[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]

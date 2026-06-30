@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace** and select an Onboard new customer case.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace** and select an Onboard new customer case.
 
 2.  In the **Playbook** tab, under the **Fulfill and close** step, select **Activate customer**.
 
@@ -46,6 +46,3 @@ Role required:
 
 The Fulfillment stage and the Customer Lifecycle Operations case automatically update to show Closed Complete.
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -16,7 +16,7 @@ breadcrumb: [Base system roles, Managing roles, User administration, Configure c
 
 Certain roles grant specific administrative rights without the full privileges of the admin role. For example, an administrator can grant a user the right to change UI policy but not client scripts.
 
-To learn more about managing per-user subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing per-user subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 These roles don’t change the behavior of the admin role, which grants full administrative privileges.
 
@@ -212,7 +212,7 @@ None.
 
 ## UI policy administrator \[ui\_policy\_admin\]
 
-Create, modify, and delete [[t_CreateAUIPolicy|using UI policies]].
+Create, modify, and delete using UI policies.
 
 ### Contains Roles
 
@@ -250,7 +250,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[t_CreateAUIPolicy|Using UI policies]]

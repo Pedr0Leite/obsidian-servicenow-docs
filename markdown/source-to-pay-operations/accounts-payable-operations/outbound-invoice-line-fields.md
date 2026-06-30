@@ -15,20 +15,20 @@ breadcrumb: [Outbound invoice fields, Create New Invoice form, Create New Invoic
 
 # Outbound invoice line fields
 
-Field descriptions and data types for the Outbound invoice line \[sn\_spend\_intg\_outbound\_invoice\_line\] table used to transfer invoice line details from [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] to third-party applications through the integration framework.
+Field descriptions and data types for the Outbound invoice line \[sn\_spend\_intg\_outbound\_invoice\_line\] table used to transfer invoice line details from Accounts Payable Operations to third-party applications through the integration framework.
 
 |Column|Description|Data type|
 |------|-----------|---------|
 |Line description|Description of the invoice line|String|
-|Purchase order line|Information of the individual lines under a [[purchase-order-table|purchase order]] line or a [[sourcing-request|sourcing request]] for the referenced supplier|Reference|
+|Purchase order line|Information of the individual lines under a purchase order line or a sourcing request for the referenced supplier|Reference|
 |Invoice line quantity|The number of items that have been invoiced|String|
 |Line unit price|Unit price of the line item in the invoice|String|
 |Ledger account|Displays General Ledger Account|Reference|
 |Tax amount.amount|Tax rate applied on the invoice amount|String|
-|Subtotal.amount|Total amount of money to be paid to the [[supplier|supplier]] excluding tax and shipping charges.|String|
+|Subtotal.amount|Total amount of money to be paid to the supplier excluding tax and shipping charges.|String|
 |Cost center|Represent business entity to which costs can be allocated|Reference|
 |Status|Current state of the invoice|String|
-|Invoice.[[legal-entity|Legal entity]]. ERP source|Stores organizational entities defined in the application|String|
+|Invoice.Legal entity. ERP source|Stores organizational entities defined in the application|String|
 |ERP line number|Displays the ERP number at the line item level|String|
 |Invoice|Transaction record used to track purchase between shopper and supplier|Reference|
 |Number|The number in the invoice|String|
@@ -37,10 +37,3 @@ Field descriptions and data types for the Outbound invoice line \[sn\_spend\_int
 
 **Parent Topic:**[Outbound invoice fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/outbound-invoice-fields.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]

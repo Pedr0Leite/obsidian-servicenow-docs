@@ -12,11 +12,11 @@ breadcrumb: [Build/configure branded apps, Custom branded apps, Configuring the 
 
 # Create custom-type mobile apps with Mobile Publishing
 
-Request and create custom-type mobile apps that are equivalent to Mobile Agent and Now® Mobile apps with Mobile Publishing and [[mab-concept|Mobile App Builder]].
+Request and create custom-type mobile apps that are equivalent to Mobile Agent and Now® Mobile apps with Mobile Publishing and Mobile App Builder.
 
 ## Custom app types use cases
 
-Custom app types enable you to create your own app types beyond the existing predefined categories of Fulfiller \(Mobile Agent\) and Requestor \([[now-mobile-app|Now Mobile app]]\) mobile apps. Creating custom app types in Mobile Publishing, you can modify the in-app experiences like you can in other app types by using Mobile App Builder. These custom-type mobile apps can support the unique workflows, processes, and data requirements of different departments in your organization. This customization ensures that the apps provide relevant features, data integration, and functionality that aligns with each department's goals and activities.
+Custom app types enable you to create your own app types beyond the existing predefined categories of Fulfiller \(Mobile Agent\) and Requestor \(Now Mobile app\) mobile apps. Creating custom app types in Mobile Publishing, you can modify the in-app experiences like you can in other app types by using Mobile App Builder. These custom-type mobile apps can support the unique workflows, processes, and data requirements of different departments in your organization. This customization ensures that the apps provide relevant features, data integration, and functionality that aligns with each department's goals and activities.
 
 Custom apps support the following use cases:
 
@@ -31,10 +31,5 @@ Custom apps support the following use cases:
 
 To install custom app functionality, contact your ServiceNow representative. This is a very manual process that needs to be discussed with ServiceNow before instance setup and configuration can be shared.
 
-**Parent Topic:**[[build-configure-branded|Building and configuring in branded mobile apps]]
+**Parent Topic:**[Building and configuring in branded mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/build-configure-branded.md)
 
-## Related
-
-- [[build-configure-branded|Building and configuring in branded mobile apps]]
-- [[mab-concept|Mobile App Builder]]
-- [[now-mobile-app|Now Mobile app]]

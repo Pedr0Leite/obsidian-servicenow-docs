@@ -15,11 +15,11 @@ breadcrumb: [Explore, Now Assist, Common GRC features, Governance, Risk, and Com
 
 # Generate regulatory action plan agentic workflow
 
-The generate regulatory action plan workflow uses generative AI to create actionable compliance steps for [[list-view-of-reg-alerts|regulatory alerts]]. It supports organizations in organizing risk mitigation activities and maintaining alignment with regulatory requirements.
+The generate regulatory action plan workflow uses generative AI to create actionable compliance steps for regulatory alerts. It supports organizations in organizing risk mitigation activities and maintaining alignment with regulatory requirements.
 
 ## Generate regulatory action plan agentic workflow overview
 
-If you have the RCM user \[sn\_grc\_reg\_change.user\] role and the sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user role, you can [[generate_regulatory_action_plans|generate regulatory action plans]] using the generate regulatory action plan agentic workflow in the Now Assist panel.
+If you have the RCM user \[sn\_grc\_reg\_change.user\] role and the sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user role, you can generate regulatory action plans using the generate regulatory action plan agentic workflow in the Now Assist panel.
 
 This workflow analyzes impacted areas and similar historical alerts to create change tasks and action tasks that help implement regulatory change.
 
@@ -54,8 +54,8 @@ For more information, see [Use agentic AI in Now Assist for Integrated Risk Mana
 -   Consolidated and organized tasks: Creates change tasks and action tasks grouped by impacted areas for easier assignment and tracking.
 -   Improved consistency and accuracy: Reduces variability in compliance responses through AI-driven recommendations.
 -   Faster implementation: Converts compliance strategies into actionable tasks with clear ownership and timelines.
--   Integration with Now Assist panel: Provides a seamless experience for accessing generative AI capabilities within [[reg-change-mgmt-landing-page|Regulatory Change Management]] \( RCM\).
--   Supports multiple task types: Enables adding multiple regulatory tasks and [[source-doc-import-task|source document import tasks]] to a single alert.
+-   Integration with Now Assist panel: Provides a seamless experience for accessing generative AI capabilities within Regulatory Change Management \( RCM\).
+-   Supports multiple task types: Enables adding multiple regulatory tasks and source document import tasks to a single alert.
 
 **Note:** Only users with sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user roles can access this workflow.
 
@@ -77,11 +77,11 @@ User
 
 </th></tr></thead><tbody><tr><td>
 
-[[rcm-agent-insights-workflow|Get regulatory analysis agentic workflow]]
+Get regulatory analysis agentic workflow
 
 </td><td>
 
-[[get-rcm-reg-insight|Analyze and enrich regulatory alerts]] by using the get regulatory analysis agentic workflow in the Now Assist panel. This agentic workflow uses web search to enhance alert context and recommends potential impacts on citations, policies, and control objectives to support faster and more accurate compliance decisions. For more information, see [Activate the get regulatory analysis agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-rcm-agent-workflow.md)and [Analyze and enrich regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/get-rcm-reg-insight.md).
+Analyze and enrich regulatory alerts by using the get regulatory analysis agentic workflow in the Now Assist panel. This agentic workflow uses web search to enhance alert context and recommends potential impacts on citations, policies, and control objectives to support faster and more accurate compliance decisions. For more information, see [Activate the get regulatory analysis agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-rcm-agent-workflow.md)and [Analyze and enrich regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/get-rcm-reg-insight.md).
 
 </td><td>
 
@@ -111,11 +111,3 @@ sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user
 
 [Generate regulatory action plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/generate_regulatory_action_plans.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[generate_regulatory_action_plans|Generate regulatory action plans]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[source-doc-import-task|Source document import tasks]]
-- [[rcm-agent-insights-workflow|Get regulatory analysis agentic workflow]]
-- [[get-rcm-reg-insight|Analyze and enrich regulatory alerts]]

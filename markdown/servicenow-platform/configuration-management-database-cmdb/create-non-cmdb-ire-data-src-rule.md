@@ -14,7 +14,7 @@ breadcrumb: [IRE support for non-CMDB tables, CMDB Identification and Reconcilia
 
 # Create an IRE data source rule for non-CMDB tables
 
-When using [[ire|Identification and Reconciliation Engine \(IRE\)]], you can prevent a specific data source from inserting new records for a specific non-CMDB table. Create IRE data source rules for data sources that you don't trust in creating records but continue to trust in updating those records that exist.
+When using Identification and Reconciliation Engine \(IRE\), you can prevent a specific data source from inserting new records for a specific non-CMDB table. Create IRE data source rules for data sources that you don't trust in creating records but continue to trust in updating those records that exist.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_cmdb\_admin or itil\_admin
 
 ## About this task
 
-IRE data source rules have no impact when dynamic [[r_ReconciliationRulesPrinciples|reconciliation rules]] are in effect.
+IRE data source rules have no impact when dynamic reconciliation rules are in effect.
 
--   Child classes derive IRE data source rules from parent classes like [[c_IdentificationRules|identification rules]] do.
+-   Child classes derive IRE data source rules from parent classes like identification rules do.
 -   IRE data source rules that are specified for a child class, override any IRE data source rules derived from a parent class.
 
 When IRE processes an insert operation that is prohibited by an IRE data source rule, the insert operation fails. This failure happens when the data source and record class in the insert operation and in an IRE data source rule, match. When [CreateOrUpdateCIEnhanced\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IdentificationEngineScopedAPI.md) is used, IRE stores the failed payload in the CMDB IRE Partial Payloads \[cmdb\_ire\_partial\_payloads\] table for future potential use.
@@ -70,8 +70,3 @@ If later, a permitted data source successfully inserts a record that matches the
 
 **Parent Topic:**[IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[c_IdentificationRules|Identification rules]]

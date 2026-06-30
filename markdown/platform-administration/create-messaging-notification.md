@@ -12,7 +12,7 @@ breadcrumb: [Notifications in messaging applications, System notifications, Noti
 
 # Create a messaging notification
 
-[[notifications|Notifications]] define when a message is sent, who it is sent to, and what it contains. To send a notification to Slack or Teams, add a messaging content record to the notification and configure the notification messaging channel. Notifications that require action must be sent to individual users instead of groups.
+Notifications define when a message is sent, who it is sent to, and what it contains. To send a notification to Slack or Teams, add a messaging content record to the notification and configure the notification messaging channel. Notifications that require action must be sent to individual users instead of groups.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Description
 Enter a description for this notification.
 
 </td></tr></tbody>
-</table>    **Note:** Notification records are shared between messaging, email, and [[c_PushNotifications|push notifications]]. Some fields on the form are not relevant to messaging notification records. Leave fields not described here at their default values.
+</table>    **Note:** Notification records are shared between messaging, email, and push notifications. Some fields on the form are not relevant to messaging notification records. Leave fields not described here at their default values.
 
 4.  Select**Advanced view** under **Related links** to switch the advanced view.
 
@@ -146,7 +146,7 @@ Advanced condition
 
 </td><td>
 
-Create a script to define more filter conditions, like sending a notification based on the current messaging record, changing field values, or changing [[r_SetArchiveRuleProcessingBehavior|system properties]]. [[c_OptSpecifyingAdvancedCond|The advanced condition]] script must return **true** or set a global answer variable to **true** to send the notification.
+Create a script to define more filter conditions, like sending a notification based on the current messaging record, changing field values, or changing system properties. [The advanced condition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_OptSpecifyingAdvancedCond.md) script must return **true** or set a global answer variable to **true** to send the notification.
 
  The advanced condition script uses the following global variables:
 
@@ -187,7 +187,7 @@ Users/groups in fields
 
 </td><td>
 
-Select users or groups from [[reference-email-admin|reference]] fields. For example, if a notification uses the Incident \[incident\] table, you can select users or groups from incident fields like **Opened by** and **Assignment group**. **Note:** You can dot-walk to values in reference fields by clicking the plus sign in the field selector and then selecting the related field.
+Select users or groups from reference fields. For example, if a notification uses the Incident \[incident\] table, you can select users or groups from incident fields like **Opened by** and **Assignment group**. **Note:** You can dot-walk to values in reference fields by clicking the plus sign in the field selector and then selecting the related field.
 
 If you address the notification to a user with an inactive record in the User \[sys\_user\] table, the system does not send the notification to that user.
 
@@ -197,7 +197,7 @@ Groups
 
 </td><td>
 
-Select the groups you want to receive the messaging notification. You can search for groups with the [[c_ReferenceLookup|reference lookup]] icon or by manually entering the group name. This list of groups is static.
+Select the groups you want to receive the messaging notification. You can search for groups with the reference lookup icon or by manually entering the group name. This list of groups is static.
 
 </td></tr><tr><td>
 
@@ -233,14 +233,5 @@ Select this check box if the event parameter 2 contains one or more notification
 8.  Click **Update**.
 
 
-**Parent Topic:**[[messaging-integration|Notifications in messaging applications]]
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md)
 
-## Related
-
-- [[c_OptSpecifyingAdvancedCond|Advanced conditions for email notifications]]
-- [[messaging-integration|Notifications in messaging applications]]
-- [[notifications|Notifications]]
-- [[c_PushNotifications|Push notifications]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[reference-email-admin|Reference]]
-- [[c_ReferenceLookup|Reference lookup]]

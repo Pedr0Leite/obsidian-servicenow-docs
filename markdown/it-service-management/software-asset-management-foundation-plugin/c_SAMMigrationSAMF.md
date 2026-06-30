@@ -14,11 +14,11 @@ breadcrumb: [Software Asset Management Foundation plugin Administration, Softwar
 
 # Software Asset Management Foundation plugin migration
 
-Migrate from the Software [[c_AssetManagement|Asset Management]] plugin to the [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] to take advantage of more powerful features. Manual actions by the customer are required after plugin activation.
+Migrate from the Software Asset Management plugin to the Software Asset Management Foundation plugin to take advantage of more powerful features. Manual actions by the customer are required after plugin activation.
 
 After automatic changes are performed during plugin activation, successful migration from the Software Asset Management \(com.snc.software\_asset\_management\) plugin to the Software Asset Management Foundation \(com.snc.sams\) plugin requires a [Overwrite customizations for Software Asset Management migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/t_MigrateSAMCustom.md) to be performed by the customer.
 
-Customizations to forms and lists may need to be manually overwritten by the customer after plugin activation. In addition, certain fields in [[c_CreatingSoftwareModels|software models]], software entitlements, user/device allocations forms require manual configuration by the customer after plugin activation.
+Customizations to forms and lists may need to be manually overwritten by the customer after plugin activation. In addition, certain fields in software models, software entitlements, user/device allocations forms require manual configuration by the customer after plugin activation.
 
 ## Automatic changes
 
@@ -51,7 +51,7 @@ The Software Asset Management Foundation \(com.snc.sams\) plugin performs these 
 
 -   Forms and lists
 
-    Software Models, Entitlements \(formerly Software License\), Discovery [[c_Models|Models]], and Software Installations form and list layouts are modified to fit the new application
+    Software Models, Entitlements \(formerly Software License\), Discovery Models, and Software Installations form and list layouts are modified to fit the new application
 
     **Note:** Any customizations to these forms and lists must be manually overwritten after plugin activation.
 
@@ -70,9 +70,3 @@ When migrating from the Software Asset Management plugin to the Software Asset M
 
 **Parent Topic:**[Software Asset Management Foundation plugin Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMAdministrationSAMF.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Service Delivery for Mobile, Workplace Service
 
 # Enable map view to create reservations
 
-Enable map view for mobile employee users so that they can reserve spaces using floor maps [[mobile-employee-experience|Now Mobile app]].
+Enable map view for mobile employee users so that they can reserve spaces using floor maps Now Mobile app.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.admin
 
 ## About this task
 
-Activate the Enable Map view option. Users can view maps supported by [[Indoor-mapping|Indoor Mapping]] or Mappedin while reserving a space.
+Activate the Enable Map view option. Users can view maps supported by Indoor Mapping or Mappedin while reserving a space.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ Activate the Enable Map view option. Users can view maps supported by [[Indoor-m
 
         This record does not have a name. If your system has multiple custom map providers, you have to identify this record by its sys\_id. To check the sys\_id of a record, right-click the record, select **Copy sys\_id** from Additional Actions on top left , and paste the sys\_id **c5d49d2265072010f87794bf508527f6** into a text document.
 
-    2.  Modify the following fields on the Custom Map [[wsd-calendar-provider-form-fields|Provider form]]:
+    2.  Modify the following fields on the Custom Map Provider form:
 
         |Field|Description|
         |-----|-----------|
@@ -111,7 +111,7 @@ Select **ServiceNow** from the drop-down list.
         2.  Edit the **CustomMapConfigId** and verify that it is mapped with sys id of sys\_sg\_custom\_map\_config.list. To copy the sys\_id, navigate to **All** &gt; **sys\_sg\_custom\_map\_config.list**. Select **Mapped Reservations-Indoor Map** and copy the sys\_id and then paste it for **CustomMapConfigId**.
 4.  Click **Update**.
 
-5.  Navigate to **All** &gt; **[[wsd-mobile-overview|Workplace Service Delivery for Mobile]]** &gt; **Properties**.
+5.  Navigate to **All** &gt; **Workplace Service Delivery for Mobile** &gt; **Properties**.
 
 6.  Navigate to the Enable Map view option for WSD Mobile Reservations property.
 
@@ -130,9 +130,3 @@ Option to view a floor map using the Map view instead of a list view is availabl
 
 **Next topic:**[Configure the Toggle map view property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/configure-toggle-map-view.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[wsd-calendar-provider-form-fields|Provider form]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

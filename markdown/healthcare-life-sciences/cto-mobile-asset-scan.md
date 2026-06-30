@@ -14,7 +14,7 @@ breadcrumb: [Explore, Care Team Mobile, Healthcare Operations, Healthcare and Li
 
 Scan tags on medical equipment and be redirected to the asset's record, where you can view its history, status, and associated cases.
 
-\[Omitted image "hcls-cto-mobile-asset-scan.png"\] Alt text: Scanning an asset in [[care-team-mobile-landing|Care Team Mobile]].
+\[Omitted image "hcls-cto-mobile-asset-scan.png"\] Alt text: Scanning an asset in Care Team Mobile.
 
 Select Scan asset from within the quick actions menu to open Asset lookup.
 
@@ -26,9 +26,5 @@ If no asset is found, a notification is displayed.
 
 **Note:** When you view a healthcare location, they should be able to select the **Assets** segment. This displays the list of assets associated with the common location that is itself associated with the healthcare location they’re viewing. For information on how healthcare locations are set up, see [Setting up healthcare locations and healthcare organizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/understanding-healthcare-locations-and-healthcare-organizations.md).
 
-For more detailed information on scanning an asset to create a support request, see [[cto-mobile-create-request-asset-scan|Scan an asset to create a support request in Care Team Mobile]].
+For more detailed information on scanning an asset to create a support request, see [Scan an asset to create a support request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-request-asset-scan.md).
 
-## Related
-
-- [[cto-mobile-create-request-asset-scan|Scan an asset to create a support request in Care Team Mobile]]
-- [[care-team-mobile-landing|Care Team Mobile]]

@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Forward call workflow activity
 
-The **Forward Call** activity forwards a [[notify-landing-page|Notify]] call to an E.164-compliant phone number.
+The **Forward Call** activity forwards a Notify call to an E.164-compliant phone number.
 
 If the person receiving a forwarded call hangs up, the **forward call** activity completes and transitions to the next activity. Any further Notify activities in the workflow run for the caller only.
 
@@ -26,7 +26,7 @@ Input variables determine the initial behavior of the activity.
 |--------|-----------|
 |Phone number to call|Enter the phone number to forward the call to.|
 |Timeout \(in seconds\)|Enter the amount of time to wait for the call to be answered before hanging up.|
-|Record|Select this [[check-box|check box]] to record the conversation.|
+|Record|Select this check box to record the conversation.|
 
 ## Conditions
 
@@ -34,7 +34,3 @@ The conditions determine which transition comes after this activity.The **forwar
 
 You can add an error condition to this activity. The activity transitions through the error condition if the phone number to call is invalid.
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]

@@ -74,11 +74,11 @@ View a Now Assist generated summary of description, features, benefits, and rela
 
 </td><td>
 
-View and edit additional information specific to a capability. You can view these notes by either selecting the capability from the capabilities map or a [[product-adoption|product adoption]] roadmap.
+View and edit additional information specific to a capability. You can view these notes by either selecting the capability from the capabilities map or a product adoption roadmap.
 
 </td></tr><tr><td>
 
-**Included with these [[subscriptions|subscriptions]]**
+**Included with these subscriptions**
 
 </td><td>
 
@@ -122,8 +122,3 @@ View all the previously requested accelerators for the selected capability.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[product-adoption|Product Adoption]]
-- [[subscriptions|Subscriptions]]

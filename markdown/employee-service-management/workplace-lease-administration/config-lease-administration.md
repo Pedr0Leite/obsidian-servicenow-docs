@@ -14,14 +14,10 @@ breadcrumb: [Workplace Lease Administration, Workplace Service Delivery, Employe
 
 # Configure Workplace Lease Administration
 
-As an admin, you can configure Workplace Lease Administration and enable [[workplace-lease-admin-feat|workplace lease administration]] users to create and [[manage-lease-contracts|manage workplace contracts]].
+As an admin, you can configure Workplace Lease Administration and enable workplace lease administration users to create and manage workplace contracts.
 
 -   **[Activate Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/install-lease-administration.md)**  
 You can activate the Workplace Lease Administration plugin \(sn\_wsd\_la\) for Workplace Lease Administration if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 **Parent Topic:**[Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/workplace-lease-admin-feat.md)
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[manage-lease-contracts|Manage workplace contracts]]

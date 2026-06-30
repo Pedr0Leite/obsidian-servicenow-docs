@@ -14,7 +14,7 @@ breadcrumb: [Encryption rule objects and APIs, Define a custom encryption rule, 
 
 # POST and URL parameter APIs
 
-POST and URL parameters can be accessed as properties of the [[c_requestAPI|request]] object using `request.postParams` and `request.urlParams`.
+POST and URL parameters can be accessed as properties of the request object using `request.postParams` and `request.urlParams`.
 
 Any single parameter can be accessed as a property of the postParams and urlParams parent objects by calling `request.postParams.myParam`. Any parameter accessed this way is an object of the underlying class ParameterValue. Any APIs in this class can be called on any parameter.
 
@@ -22,7 +22,7 @@ After [inspecting the client request](https://raw.githubusercontent.com/ServiceN
 
 ## Encrypt the value of a known table and field
 
-If you know the name of the instance table and field that will hold the encrypted data, you can explicitly define them in the [[encryption-landing|encryption]] rule. For example, you may know that the request will be processed on the instance to create an incident and you want to encrypt the **text** parameter in the description field. In this case, you can create the following action.
+If you know the name of the instance table and field that will hold the encrypted data, you can explicitly define them in the encryption rule. For example, you may know that the request will be processed on the instance to create an incident and you want to encrypt the **text** parameter in the description field. In this case, you can create the following action.
 
 ```
 function SampleAction1() { 
@@ -55,8 +55,8 @@ This action:
 
 -   Gets the destination table from the URL parameters.
 -   Iterates over the URL parameters.
--   Asks the [[edge-encryption|Edge Encryption]] proxy server to encrypt any URL parameter with a name that matches a field marked for encryption.
--   Looks for a specific parameter called text and asks the Edge Encryption proxy to encrypt the value based on the encryption [[sc-configuration|configuration]] for the description field on the incident table.
+-   Asks the Edge Encryption proxy server to encrypt any URL parameter with a name that matches a field marked for encryption.
+-   Looks for a specific parameter called text and asks the Edge Encryption proxy to encrypt the value based on the encryption configuration for the description field on the incident table.
 
 In this example, the [valueFor\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_XMLElementAPI.md) method is not actually performing any encryption. Rather, the method asks the Edge Encryption proxy server to check whether the table/field pair in the request object is marked for encryption with an encryption configuration and, if applicable, encrypt it.
 
@@ -102,7 +102,7 @@ function SampleAction4() {
 
 ## Encrypt a query
 
-You might encounter an encoded query within a parameter in the client request that contains sensitive data. To match a field in a query to an encrypted value in the instance database, you must [[t_CreateAnEncryptionRule|create an encryption rule]] that asks the proxy to check whether a field in the query is marked for encryption. The [encodedQueryFor\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_XMLElementAPI.md) method parses an encoded query on a given table, and checks if any fields in the query have encryption configurations.
+You might encounter an encoded query within a parameter in the client request that contains sensitive data. To match a field in a query to an encrypted value in the instance database, you must create an encryption rule that asks the proxy to check whether a field in the query is marked for encryption. The [encodedQueryFor\(\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_XMLElementAPI.md) method parses an encoded query on a given table, and checks if any fields in the query have encryption configurations.
 
 In this example, the rule iterates over the parameters looking for the **filter** parameter, which is expected to be a Glide encoded query.
 
@@ -139,7 +139,7 @@ Converts the POST or URL parameter value to a string.
 
 ## ParameterValue - getAsJsonContent\(\)
 
-Returns the request as an iterable object of type [[c_JsonNodeAPI|JsonNode]].
+Returns the request as an iterable object of type JsonNode.
 
 This method is available only in an Edge Encryption rule if the request body is a valid JSON payload. If you are not sure what format the request body includes, check the contentType field on the request object.
 
@@ -155,7 +155,7 @@ Once the request is returned as a JsonNode object, you can use the [JSON APIs](h
 
 ## ParameterValue - getAsXmlContent\(\)
 
-Returns the request content as an iterable object of type [[c_XMLContentAPI|XMLContent]].
+Returns the request content as an iterable object of type XMLContent.
 
 This method is available only in an Edge Encryption rule. This method assumes that the request body is a valid XML payload. You can check the contentType to make sure.
 
@@ -198,12 +198,3 @@ Calling this method on an element value tells the proxy that the value for this 
 |----|-----------|
 |void| |
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[encryption-landing|Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]
-- [[t_CreateAnEncryptionRule|Create an encryption rule]]
-- [[c_JsonNodeAPI|JsonNode]]
-- [[c_XMLContentAPI|XMLContent]]

@@ -14,7 +14,7 @@ breadcrumb: [Applications list, DEX Application and Device Health reference, Ref
 
 # Web application — Devices page
 
-The Active [[dex-workspace-devices-tab|devices]] and Impacted [[devices-form|devices list]] captures data about the devices, latest logged-in user, last logged in location, and time when the application was last accessed on the device. This information helps with security, access control, and provides insights into user behavior and application usage.
+The Active devices and Impacted devices list captures data about the devices, latest logged-in user, last logged in location, and time when the application was last accessed on the device. This information helps with security, access control, and provides insights into user behavior and application usage.
 
 <table id="table_lsb_btf_4wb"><thead><tr><th>
 
@@ -72,12 +72,7 @@ This field represents the number of active alerts for the application on the dev
 -   The Active devices list displays the Agent Client Collector \(ACC\) installed on their devices.
 -   By default, sorting is available only on the Impacted devices page and displays all devices on with ACC is installed for the latest 1000 records.
 -   The list displays active devices and refreshes every five minutes, a maximum of 1000 devices listed. If no new data is available, the last available data is displayed.
--   Only device name filter is available on web [[dex-workspace-application-tab|applications]].
+-   Only device name filter is available on web applications.
 
 **Parent Topic:**[Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[devices-form|Devices list]]
-- [[dex-workspace-application-tab|Applications]]

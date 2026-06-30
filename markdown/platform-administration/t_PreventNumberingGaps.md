@@ -24,7 +24,7 @@ When records are created but not saved, a gap in the numbering is created. You c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **System**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System**.
 
 2.  Set the property **Assign a task number only upon insert \(prevents unused numbers\)**, **glide.itil.assign.number.on.insert**, to **true**.
 
@@ -33,9 +33,5 @@ When records are created but not saved, a gap in the numbering is created. You c
 3.  Click **Save**.
 
 
-**Parent Topic:**[[c_ManagingRecordNumbering|Record numbering]]
+**Parent Topic:**[Record numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManagingRecordNumbering.md)
 
-## Related
-
-- [[c_ManagingRecordNumbering|Record numbering]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

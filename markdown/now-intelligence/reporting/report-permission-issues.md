@@ -26,9 +26,9 @@ To correct this issue, the owner of the report \(or an administrator\) can share
 
 ## List reports show fewer rows than expected
 
-Another common issue is that fewer rows appear in [[list-reports|list reports]] than the viewer expects. For example, one user sees 100 rows in a list report, but another user, viewing that same report may see fewer rows or even no rows at all. When one or more rows have been removed from the report, a message indicates the number rows removed due to security constraints.
+Another common issue is that fewer rows appear in list reports than the viewer expects. For example, one user sees 100 rows in a list report, but another user, viewing that same report may see fewer rows or even no rows at all. When one or more rows have been removed from the report, a message indicates the number rows removed due to security constraints.
 
-The usual cause is that each row of a list report is first compared against any read [[access-control|access control]] lists \(ACLs\) defined on the report's source tables.
+The usual cause is that each row of a list report is first compared against any read access control lists \(ACLs\) defined on the report's source tables.
 
 The ACL is considered for each list row that might be displayed in a report. For more information, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md).
 
@@ -46,7 +46,3 @@ On upgrade to Australia, all public Core UI reports are unpublished to enhance s
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[list-reports|List reports]]
-- [[access-control|Access control]]

@@ -22,9 +22,9 @@ Verify that custom scripts have proper error handling to avoid issues. Without p
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Clone Home**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Clone Home**.
 
-2.  Select **[[clone-exclusions-preservers-cleanupscripts|Definitions]]** from the secondary navigation.
+2.  Select **Definitions** from the secondary navigation.
 
 3.  Select the **Cleanup scripts** tab.
 
@@ -66,7 +66,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[system-clone-landing|Instance Clone]]** &gt; **Clone Definition** &gt; **Cleanup scripts**.
+1.  Navigate to **All** &gt; **Instance Clone** &gt; **Clone Definition** &gt; **Cleanup scripts**.
 
 2.  Select **New**.
 
@@ -76,8 +76,4 @@ Role required: admin
 
 5.  Enter your script in the **Script** field, and select **Save**.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[system-clone-landing|Instance Clone]]

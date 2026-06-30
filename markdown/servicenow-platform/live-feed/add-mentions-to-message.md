@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-The user's name, with a link to that user's feed, is inserted into the message. Additionally, the mentioned user receives an [[email|email]] notification about the mention. This is a great way of bringing attention to other members in a conversation. All @mentions are included in the logged-in user's My Feed.
+The user's name, with a link to that user's feed, is inserted into the message. Additionally, the mentioned user receives an email notification about the mention. This is a great way of bringing attention to other members in a conversation. All @mentions are included in the logged-in user's My Feed.
 
 **Note:** If an @mention is used by a member of a team, only members of that team appear in the auto-suggest list.
 
@@ -41,6 +41,3 @@ The user's name, with a link to that user's feed, is inserted into the message. 
 
 **Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_PostContentInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]

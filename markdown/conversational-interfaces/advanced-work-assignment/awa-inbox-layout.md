@@ -16,7 +16,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 The inbox layout determines the information shown on work item cards displayed in an agent's inbox.
 
-The AWA admin \(awa\_admin\) can configure layouts that represent items in an agent inbox. The configuration allows agents to see the most important attributes by service channel [[awa-work-items|work items]]. The fields specified on the inbox layout determine the information displayed for a work item.
+The AWA admin \(awa\_admin\) can configure layouts that represent items in an agent inbox. The configuration allows agents to see the most important attributes by service channel work items. The fields specified on the inbox layout determine the information displayed for a work item.
 
 Each base system service channel provides preconfigured inbox layouts for work items. The AWA admin can view and edit these layouts and also create new layouts.
 
@@ -34,6 +34,3 @@ For chats that do not have either a contact or consumer, the layout includes onl
 
 See [Create or change an inbox layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-modify-inbox-layout.md) for more information on accessing and modifying an inbox layout.
 
-## Related
-
-- [[awa-work-items|Work items]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Observability, ITOM AIOps, IT Operations Management]
 
 # Exploring Service Observability
 
-[[service-observability|Service Observability]] helps operations teams triage and manage incidents in a complex and distributed production system. It combines external observability monitoring systems' telemetry with related data from the Configuration Management Database \(CMDB\) and displays both in a single workflow in the [[workspace-dashboard-use|Service Operations Workspace]] \(SOW\).
+Service Observability helps operations teams triage and manage incidents in a complex and distributed production system. It combines external observability monitoring systems' telemetry with related data from the Configuration Management Database \(CMDB\) and displays both in a single workflow in the Service Operations Workspace \(SOW\).
 
 ## Service Observability overview
 
@@ -99,7 +99,7 @@ As an operator or manager, you:
 
 1.  Spot an issue with a service while working in the SOW, for example, from an alert, the Service dashboard, or Express List, then navigate to the Service Details page.
 2.  View overall health metrics for the service, along with related incidents, alerts, and changes. If one of the metrics seems unhealthy, navigate to the Observability tab.
-3.  View more detailed service metrics, as well as information from related entities, to start root cause investigation. When finding that the issue is further down the system's stack, identify the ownership for that entity to start [[ccg-remediation|remediation]].
+3.  View more detailed service metrics, as well as information from related entities, to start root cause investigation. When finding that the issue is further down the system's stack, identify the ownership for that entity to start remediation.
 
 ## Service Observability benefits
 
@@ -203,8 +203,3 @@ To learn more about configuring and using Service Observability, see:
 -   [View service health metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/view-service-health-metrics.md)
 -   [Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[ccg-remediation|Remediation]]

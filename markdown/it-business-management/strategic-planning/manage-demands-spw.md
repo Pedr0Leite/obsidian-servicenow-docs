@@ -15,13 +15,13 @@ breadcrumb: [Use, Next Experience for Demand Management in Strategic Planning, S
 
 # Managing demands in Next Experience for Demand Management
 
-Next Experience for [[c_DemandManagement|Demand Management]] enables you to create, track, prioritize, and [[approve-demands-ppw|approve demands]].
+Next Experience for Demand Management enables you to create, track, prioritize, and approve demands.
 
 ## Next Experience for Demand Management navigation overview
 
 -   **All Demands page**
 
-    The **All Demands** page in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace displays the demands in a list view. You can create, edit, or [[export-demands-from-dw-ppw|export demands]] from this page.
+    The **All Demands** page in Strategic Planning Workspace displays the demands in a list view. You can create, edit, or export demands from this page.
 
     An existing demand opens in its Playbook if it is configured or opens in its **Details** tab.
 
@@ -49,9 +49,4 @@ Next Experience for [[c_DemandManagement|Demand Management]] enables you to crea
     |Group by|Option to group the demands by a column using the action on the header.|
     |Rearrange columns|Option to drag the columns to a position of your choice on the grid.|
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]
-- [[approve-demands-ppw|Approve demands]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[export-demands-from-dw-ppw|Export demands]]

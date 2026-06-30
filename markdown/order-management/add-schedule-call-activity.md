@@ -16,11 +16,11 @@ Add a schedule call activity in your sequences to support telesales workflows.
 
 ## Before you begin
 
-Review feature support information in [[compatibility-matrix-upgrade-info|Compatibility information for Customer Engagement Sequences]].
+Review feature support information in [Compatibility information for Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/compatibility-matrix-upgrade-info.md).
 
 To support the ability for your agents to initiate outbound calls from the sequence task, your instance must be integrated with platforms such as Amazon Connect. The Omnichannel Callback application \(sn\_omni\_callback\) must also be installed. For more information, see [Install Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/install-omnichannel-callback.md).
 
-Delegated developer roles must be assigned to designated users. For more information, see [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]].
+Delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
@@ -46,7 +46,7 @@ You can add the Schedule call activity with other activities in a stage or in it
 
 7.  Open the activity picker by selecting the Add an activity icon \[Omitted image "square-outline-24.svg"\] Alt text:.
 
-8.  On the Add activity screen, search for and select **[[explore-customer-engagement-sequences|Customer Engagement Sequences]]** &gt; **Schedule call**.
+8.  On the Add activity screen, search for and select **Customer Engagement Sequences** &gt; **Schedule call**.
 
     **Note:** The options available in the activity picker vary by release. For compatibility information, see [Compatibility information for Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/compatibility-matrix-upgrade-info.md).
 
@@ -54,30 +54,21 @@ You can add the Schedule call activity with other activities in a stage or in it
 
     For example, you might enter `Call attempt 1`.
 
-10. On the Automation tab, fill in the [[fields|fields]].
+10. On the Automation tab, fill in the fields.
 
-    For a description of the field values, see [[sequences-automation-form-fields|Automation form fields]].
+    For a description of the field values, see [Automation form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sequences-automation-form-fields.md).
 
 11. Select **Save and close**.
 
 
-**Parent Topic:**[[create-customer-engagement-sequence|Create a customer engagement sequence]]
+**Parent Topic:**[Create a customer engagement sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)
 
 **Related topics**  
 
 
 [Start with delay input properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/start-with-delay-properties.md)
 
-[[add-decision-nodes-sequences|Add decision nodes to a sequence]]
+[Add decision nodes to a sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-decision-nodes-sequences.md)
 
 [Omnichannel Callback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/omnichannel-callback.md)
 
-## Related
-
-- [[compatibility-matrix-upgrade-info|Compatibility information for Customer Engagement Sequences]]
-- [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]]
-- [[sequences-automation-form-fields|Automation form fields]]
-- [[create-customer-engagement-sequence|Create a customer engagement sequence]]
-- [[add-decision-nodes-sequences|Add decision nodes to a sequence]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[fields|Fields]]

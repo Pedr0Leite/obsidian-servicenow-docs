@@ -14,14 +14,14 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Repair or recover order-preserving encrypted data
 
-If you have the security-admin role, you can schedule jobs performed by the [[edge-encryption|Edge Encryption]] proxy to repair or recover fields that use order preserving [[encryption-landing|encryption]].
+If you have the security-admin role, you can schedule jobs performed by the Edge Encryption proxy to repair or recover fields that use order preserving encryption.
 
 Schedule jobs to:
 
 -   Repair order tokens.
 -   Recreate the proxy database.
 
-Running these jobs can be a time-consuming operation that might impact the performance of the Edge Encryption proxy. Schedule these jobs at a time when no [[users|users]] or a minimum set of users are using the system, such as midnight on the weekend.
+Running these jobs can be a time-consuming operation that might impact the performance of the Edge Encryption proxy. Schedule these jobs at a time when no users or a minimum set of users are using the system, such as midnight on the weekend.
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
@@ -39,7 +39,7 @@ Use these jobs to repair individual fields in a table or to repair all fields us
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Maintenance** &gt; **Schedule Order Token Repair**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Maintenance** &gt; **Schedule Order Token Repair**.
 
 2.  Fill in the fields on the form, as appropriate.
 
@@ -85,9 +85,4 @@ Role required: security\_admin
 
 4.  To see an estimated count of records to be updated, click **Estimate Record Count**.
 
-## Related
 
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

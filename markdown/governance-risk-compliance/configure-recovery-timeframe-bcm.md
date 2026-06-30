@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Recovery Timeframes**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Recovery Timeframes**.
 
 2.  Click **New**.
 
@@ -33,6 +33,4 @@ Role required: sn\_bcm.admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

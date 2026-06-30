@@ -26,8 +26,5 @@ A default mapping of default and target model version is pre-configured. If you 
 
 If you update the target model version for a selected default model version at the skill level, the mapping is updated for that skill only. Customizing the model version for skills overrides the instance-level model version currently assigned to each provider. This action is typically reserved for specific situations.
 
-**Parent Topic:**[[now-assist-reference-landing|Now Assist reference]]
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
-## Related
-
-- [[now-assist-reference-landing|Now Assist reference]]

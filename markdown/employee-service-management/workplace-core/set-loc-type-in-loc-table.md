@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When you create a location in the [[workplace-safety-mgmt-hr|Workplace Core]] application, that location is automatically added in the ServiceNow® Location \[cmn\_location\] table. The Location type of that location is set based on the Dictionary Overrides. The Dictionary Overrides are configured for all location tables such as Site, Region, Campus, Building, Floor, Area, and Room, except for the Space table. To set the Location type of the Space table, you can add a choice in the Location type and use it in the Space table’s Location type dictionary override.
+When you create a location in the Workplace Core application, that location is automatically added in the ServiceNow® Location \[cmn\_location\] table. The Location type of that location is set based on the Dictionary Overrides. The Dictionary Overrides are configured for all location tables such as Site, Region, Campus, Building, Floor, Area, and Room, except for the Space table. To set the Location type of the Space table, you can add a choice in the Location type and use it in the Space table’s Location type dictionary override.
 
 ## Procedure
 
@@ -57,6 +57,3 @@ The location type is set for the selected location table.
 
 **Parent Topic:**[Location migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/location-migration.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Data visualizations, Platform Analytics experience, Plat
 
 Several properties that limit what can be displayed in data visualizations.
 
-These [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualization properties are available in the System Properties \[sys\_properties\] table.
+These Platform Analytics data visualization properties are available in the System Properties \[sys\_properties\] table.
 
 **Note:** To open the System Properties table, enter `sys_properties.list.do` in the navigation filter.
 
@@ -32,13 +32,13 @@ com.glide.par.pae.drilldown\_to\_core\_ui
 
 </td><td>
 
-Applies only to [[par-workspace|Platform Analytics experience]]:
+Applies only to Platform Analytics experience:
 
  When true, **Go to data** chart interactions for visualizations of tables open the Core UI list of table records. Redirections in general that open lists or visualizations open Core UI lists and visualizations.
 
  When false, **Go to data** chart interactions for visualizations of tables open the Platform Analytics list of table records. Redirections in general that open lists or charts open Platform Analytics lists and charts.
 
- For more information, see [[dv-chart-interactions|Chart interactions in a data visualization]].
+ For more information, see [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
  -   Type: true \| false \(Boolean\)
 -   Default value: true
@@ -50,7 +50,7 @@ par\_vis\_config.data\_source.can\_select\_indicator
 
 </td><td>
 
-Specifies roles \(comma-separated\) which can select indicators as data sources from the Data Visualization configuration panel. If empty, all users can select the [[c_IndicatorSources|indicator sources]] that they have access to.-   Type: string
+Specifies roles \(comma-separated\) which can select indicators as data sources from the Data Visualization configuration panel. If empty, all users can select the indicator sources that they have access to.-   Type: string
 -   Default value: empty
 -   Location: System Property \[sys\_properties\] table
 
@@ -85,12 +85,5 @@ Maximum setting recognized for the maxNumberOfGroups property of data visualizat
 -   Location: System Property \[sys\_properties\] table
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[data-visualization-reference|Data visualization reference]]
+</table>**Parent Topic:**[Data visualization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-visualization-reference.md)
 
-## Related
-
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[data-visualization-reference|Data visualization reference]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_IndicatorSources|Indicator sources]]

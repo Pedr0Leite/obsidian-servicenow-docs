@@ -26,11 +26,11 @@ This video shows you how to add a step, section, or question to a catalog item w
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]] Wizards** &gt; **Maintain Wizards**.
+1.  Navigate to **All** &gt; **Service Catalog Wizards** &gt; **Maintain Wizards**.
 
-2.  Indicate the wizard you want to modify by selecting either **Create catalog item** or **Create [[c_RecordProducer|record producer]]**.
+2.  Indicate the wizard you want to modify by selecting either **Create catalog item** or **Create record producer**.
 
-3.  Add steps, sections, or questions to the [[catalog-builder|Catalog Builder]] wizard.
+3.  Add steps, sections, or questions to the Catalog Builder wizard.
 
 <table id="choicetable_stn_4yc_vtb"><thead><tr><th align="left" id="d595386e97">
 
@@ -75,7 +75,7 @@ For a description of the field values, see [Fields in Service Catalog Wizard for
 
 </td><td>
 
-1.  Select the **Open associated producer** related link on the [[service-catalog-wizard-forms-field|Catalog Wizard form]].
+1.  Select the **Open associated producer** related link on the Catalog Wizard form.
 2.  Create a question or variable by selecting **New** on the **Variables** related tab.
 3.  On the Variable form, fill in the fields.
 
@@ -98,9 +98,3 @@ For a description of the field values, see [Fields in Service Catalog Wizard for
 
 **Parent Topic:**[Setting up the Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/set-up-cat-builder.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_RecordProducer|Record Producer]]
-- [[catalog-builder|Catalog Builder]]
-- [[service-catalog-wizard-forms-field|Catalog Wizard form]]

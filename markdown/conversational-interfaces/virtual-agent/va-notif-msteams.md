@@ -14,9 +14,9 @@ breadcrumb: [VA feature support in Teams conversations, Conversational Integrati
 
 # Virtual Agent notifications supported in Microsoft Teams
 
-Microsoft Teams app supports [[virtual-agent-landing-page|Virtual Agent]] notifications during conversations.
+Microsoft Teams app supports Virtual Agent notifications during conversations.
 
--   Subscription [[management|management]]
+-   Subscription management
     -   Requesters - Use the **notification** \(or **notifications**\) command to subscribe to or unsubscribe from notifications.
     -   Admins - Enable notifications for messaging users in the Messaging Apps Integration page.
 -   Notification content - Create notifications with rich content, images, and action buttons. Actionable notifications enable recipients to perform certain actions and respond to the notification, such as adding a comment or requesting a live agent.
@@ -33,7 +33,3 @@ For detailed information on Virtual Agent notifications, see [Configuring Virtua
 
 **Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-teams-other-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

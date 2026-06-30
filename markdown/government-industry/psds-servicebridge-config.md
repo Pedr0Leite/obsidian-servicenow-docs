@@ -12,8 +12,5 @@ breadcrumb: [Case Management, Configure agent workspaces, Configure, Public Sect
 
 # Configuring Service Exchange for Public Sector Digital Services
 
-Whether you're a government agency provider communicating with other agencies, or an agency provider connecting with their constituents, you can establish an integration between multiple types of instances with [[servicebridge-psds-exploring|Service Exchange for Public Sector Digital Services]].
+Whether you're a government agency provider communicating with other agencies, or an agency provider connecting with their constituents, you can establish an integration between multiple types of instances with Service Exchange for Public Sector Digital Services.
 
-## Related
-
-- [[servicebridge-psds-exploring|Service Exchange for Public Sector Digital Services]]

@@ -54,7 +54,7 @@ N/A
 
 </td><td>
 
-[[c_IndicatorSources|Indicator sources]]
+Indicator sources
 
 </td><td>
 
@@ -73,7 +73,7 @@ Performance Analytics Technical Expert, with at least the pa\_data\_collector ro
 
 </td><td>
 
-[[breakdown-sources|Breakdown sources]]
+Breakdown sources
 
 </td><td>
 
@@ -120,7 +120,3 @@ Performance Analytics Technical Expert, with at least the pa\_data\_collector ro
 </td></tr></tbody>
 </table>**Parent Topic:**[Implement Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/implementing-pa.md)
 
-## Related
-
-- [[c_IndicatorSources|Indicator sources]]
-- [[breakdown-sources|Breakdown sources]]

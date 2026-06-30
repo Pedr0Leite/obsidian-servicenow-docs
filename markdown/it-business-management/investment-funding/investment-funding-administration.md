@@ -14,7 +14,7 @@ breadcrumb: [Investment Funding, Strategic Portfolio Management]
 
 # Investment Funding administration
 
-The [[investment-funding-overview|Investment Funding]] application requires you to do some initial administrative tasks for it to be fully functional.
+The Investment Funding application requires you to do some initial administrative tasks for it to be fully functional.
 
 -   **[Fiscal calendar setup for Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/fiscal-calendar-setup.md)**  
 The Fiscal calendar setup you choose determines the fiscal periods used by your organization to request or allocate funds.
@@ -25,6 +25,3 @@ Create an entity for investments through which you can receive or allocate funds
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]

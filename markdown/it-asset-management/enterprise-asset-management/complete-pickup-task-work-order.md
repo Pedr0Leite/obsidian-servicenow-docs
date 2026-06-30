@@ -26,7 +26,7 @@ Before you can begin working on an enterprise asset, it must be picked up from i
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  On the **My asset pickup tasks** tab, select the enterprise asset that was picked up.
 
@@ -104,6 +104,3 @@ Complete all required work for the enterprise asset so that you can close the wo
 
 **Parent Topic:**[Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Using the Business Location Service Portal, Customer communication,
 
 # Create cases for a business location in the Business Location Service Portal
 
-As a staff member with the location agent role, create and [[manage-cases|manage cases]] for your business locations.
+As a staff member with the location agent role, create and manage cases for your business locations.
 
 ## Before you begin
 
@@ -176,15 +176,10 @@ Brief description of the customer question, issue, or problem.
 
 ## What to do next
 
-Similarly, you can report cases on behalf of a business location, against [[sold-product|sold products]] deployed at a business location, or installed base items deployed at a business location.
+Similarly, you can report cases on behalf of a business location, against sold products deployed at a business location, or installed base items deployed at a business location.
 
 **Related topics**  
 
 
-[[track-cases-for-blsp-portal|Track cases on the Business Location Service Portal]]
+[Track cases on the Business Location Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/track-cases-for-blsp-portal.md)
 
-## Related
-
-- [[track-cases-for-blsp-portal|Track cases on the Business Location Service Portal]]
-- [[manage-cases|Manage cases]]
-- [[sold-product|Sold products]]

@@ -24,11 +24,11 @@ Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_vi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly by navigating to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly by navigating to **Workspaces** &gt; **Workplace Central**.
 
-2.  On the [[workplace-analytics|Workplace Analytics]] dashboard, select the [[event-planner|Event planner]] icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
+2.  On the Workplace Analytics dashboard, select the Event planner icon \(\[Omitted image "event-planner-icon.png"\] Alt text: Event planner icon.\).
 
 3.  View the current days reservation status in the Event Planner dashboard by doing the following:
 
@@ -52,17 +52,10 @@ Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_vi
 
 6.  Select **Print reservation**.
 
-    The workplace reservation report is available in both the [[activity-lxp|Activity]] and Attachments sections.
+    The workplace reservation report is available in both the Activity and Attachments sections.
 
     **Note:** The Print reservation feature is only available for single- and multi-child reservations and is not available for blocker reservations and multi-parent reservations.
 
 
 **Parent Topic:**[Working with Event planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-event-planner.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[event-planner|Event Planner]]
-- [[activity-lxp|Activity]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating Azure DevOps and CI-CD tool, Configuring Cloud Services
 
 # Order a Microsoft Azure DevOps catalog item
 
-Provision the Microsoft Azure DevOps catalog by using the Microsoft Azure DevOps catalog order form in the [[csc-home|Cloud Services Catalog]] application.
+Provision the Microsoft Azure DevOps catalog by using the Microsoft Azure DevOps catalog order form in the Cloud Services Catalog application.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ Follow this short video to learn how to order an Azure DevOps catalog item.
 7.  Select the **Service Account**, which is the same option that you selected as a service connection in the Azure DevOps pipeline.
 
     -   For Amazon Web Services, a location list is displayed when you select **Service Account**.
-    -   You can expose a pipeline variable location or region and use it in a pipeline for provisioning. This pipeline variable is overridden by the value that you chose in the location list to ensure that provisioning and [[r-discovery|Discovery]] are at the same location.
+    -   You can expose a pipeline variable location or region and use it in a pipeline for provisioning. This pipeline variable is overridden by the value that you chose in the location list to ensure that provisioning and Discovery are at the same location.
     -   A location is required for Discovery in Microsoft Azure, so no list is displayed when you select **Service Account**. These settings ensure the correct resources that are related to the stack are populated in CMDB. You can run Discovery based on those settings.
 8.  If the location is pre-filled for the AWS pipeline, select the same location in the catalog for Discovery.
 
@@ -74,7 +74,3 @@ Verify that a blueprint approval policy \(CSC Content Approval Policy ADO Integr
 
 **Parent Topic:**[Integrating Azure DevOps and the Continuous Integration-Continuous Deployment pipeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/integrating-azure-devops-and-cicd-pipeline.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[r-discovery|Discovery]]

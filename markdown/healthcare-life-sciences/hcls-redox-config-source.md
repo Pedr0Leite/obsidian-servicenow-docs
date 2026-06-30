@@ -12,7 +12,7 @@ breadcrumb: [Configure, Redox Inbound Integration, Healthcare and Life Sciences 
 
 # Configure the external Redox healthcare system as a source system for Redox Inbound Integration
 
-Enable the [[hcls-redox-app|Redox Inbound Integration]] application to receive data from the external Redox healthcare system by configuring the source and destination IDs of the system in your ServiceNow instance.
+Enable the Redox Inbound Integration application to receive data from the external Redox healthcare system by configuring the source and destination IDs of the system in your ServiceNow instance.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
     For more information, see [Configure an external Redox healthcare system as a source system for a custom integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-config-source-system.md).
 
-## Related
 
-- [[hcls-redox-app|Redox Inbound Integration]]

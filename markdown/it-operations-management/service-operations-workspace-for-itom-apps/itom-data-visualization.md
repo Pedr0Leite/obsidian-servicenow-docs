@@ -14,7 +14,7 @@ breadcrumb: [AIOps Dashboards in SOW for ITOM, Using SOW for ITOM, Service Opera
 
 # Data visualization in ITOM
 
-Gain insights faster with data visualization in [[r_ITOMApplications|IT Operations Management]] \(ITOM\). Visualize metrics, logs, events, and alerts through intuitive [[otto-aiops-dashboards|dashboards]] and charts to identify trends, monitor performance, and resolve issues proactively.
+Gain insights faster with data visualization in IT Operations Management \(ITOM\). Visualize metrics, logs, events, and alerts through intuitive dashboards and charts to identify trends, monitor performance, and resolve issues proactively.
 
 Anyone with access to data can create a visualization of that data on a dashboard that they own.
 
@@ -23,7 +23,3 @@ A funnel visualization shows how data progresses through sequential stages, help
 
 **Parent Topic:**[Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-landing-page-itom.md)
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[otto-aiops-dashboards|Dashboards]]

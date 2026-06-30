@@ -30,7 +30,7 @@ Role required: admin
 
 3.  From your ServiceNow instance, open the SAP Custom Named User Types \[imp\_samp\_sap\_custom\_nut\] table.
 
-    **Note:** The Application Scope of your ServiceNow instance must be set to **[[c_SoftwareAssetMgmt|Software Asset Management]] Professional for SAP**.
+    **Note:** The Application Scope of your ServiceNow instance must be set to **Software Asset Management Professional for SAP**.
 
     1.  On the page header of your ServiceNow® instance, select **All**.
 
@@ -125,7 +125,7 @@ Microsoft Excel spreadsheet that contains the named user types that you want to 
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -145,7 +145,3 @@ Microsoft Excel spreadsheet that contains the named user types that you want to 
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

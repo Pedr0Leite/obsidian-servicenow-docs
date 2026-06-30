@@ -40,11 +40,11 @@ Watch this short video for an introduction to the Hardware Asset Management appl
 
 </td></tr><tr><td>
 
-[Now Assist for Hardware Asset Management\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] application to streamline and automate the hardware asset request process with the agentic workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/now-assist-ham.md)
+[Now Assist for Hardware Asset Management\[Omitted image "bus-ai-sparkle.svg"\] Alt text:Use the Now Assist for Hardware Asset Management \(HAM\) application to streamline and automate the hardware asset request process with the agentic workflows.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-hardware-asset-management/now-assist-ham.md)
 
 </td><td>
 
-[Device as a Service \(DaaS\)\[Omitted image "bus-laptop.svg"\] Alt text:Use the [[exploring-daas|Device as a Service]] \(DaaS\) feature to provide assets and [[am-landing-page|asset management]] services to customers of DaaS providers via a subscription model.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exploring-daas.md)
+[Device as a Service \(DaaS\)\[Omitted image "bus-laptop.svg"\] Alt text:Use the Device as a Service \(DaaS\) feature to provide assets and asset management services to customers of DaaS providers via a subscription model.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/exploring-daas.md)
 
 </td></tr></tbody>
 </table>Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
@@ -53,8 +53,3 @@ Watch this short video for an introduction to the Hardware Asset Management appl
 
 [What is Hardware Asset Management?](https://www.servicenow.com/products/it-asset-management/what-is-hardware-asset-management.html)
 
-## Related
-
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]
-- [[exploring-daas|Device as a Service]]
-- [[am-landing-page|Asset Management]]

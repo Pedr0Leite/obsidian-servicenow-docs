@@ -26,7 +26,7 @@ Select the length of time a notification banner displays at the top of your scre
 
 1.  Log in to a ServiceNow mobile app.
 
-2.  On the [[sg-mobile-tab-bar|navigation bar]], tap the **Settings** button.
+2.  On the navigation bar, tap the **Settings** button.
 
 3.  In the **Settings** page, tap **Preferences**
 
@@ -34,6 +34,4 @@ Select the length of time a notification banner displays at the top of your scre
 
 5.  In the **Banners** page, select the time for a notification to display before it disappears.
 
-## Related
 
-- [[sg-mobile-tab-bar|Navigation bar]]

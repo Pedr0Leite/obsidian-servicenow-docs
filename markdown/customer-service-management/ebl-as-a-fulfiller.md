@@ -29,8 +29,5 @@ For example, the financial institution agencies perform various activities, from
 **Related topics**  
 
 
-[[access-limitations-for-ext-loc-agent|Access limitations for external location agents]]
+[Access limitations for external location agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-limitations-for-ext-loc-agent.md)
 
-## Related
-
-- [[access-limitations-for-ext-loc-agent|Access limitations for external location agents]]

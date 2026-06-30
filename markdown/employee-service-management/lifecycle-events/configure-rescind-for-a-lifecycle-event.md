@@ -18,7 +18,7 @@ Cancel and revert work done in a lifecycle event case with the rescind process. 
 
 ## Before you begin
 
-Role required: sn\_hr\_le.admin or sn\_hr\_le.[[activity-lxp|activity]]\_set\_manager
+Role required: sn\_hr\_le.admin or sn\_hr\_le.activity\_set\_manager
 
 ## About this task
 
@@ -28,7 +28,7 @@ The rescind process enables you to cancel and revert work done in a lifecycle ev
 
 1.  Enable the rescind activity set.
 
-    1.  Navigate to **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a lifecycle event record.
+    1.  Navigate to **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a lifecycle event record.
 
     2.  Click the **Activity Sets** tab.
 
@@ -122,7 +122,3 @@ Defines whether the activity should trigger for the lifecycle event case. You ca
 
 **Parent Topic:**[Configure a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-type.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

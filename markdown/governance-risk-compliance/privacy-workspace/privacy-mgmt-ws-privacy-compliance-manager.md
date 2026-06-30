@@ -14,7 +14,7 @@ breadcrumb: [Explore, Privacy Management, Governance, Risk, and Compliance]
 
 # Privacy Workspace for the privacy manager
 
-The [[privacy-management|Privacy management]] dashboard provides a centralized interface for monitoring and managing privacy-related data [[ropa-record|processing activities]] within the organization.
+The Privacy management dashboard provides a centralized interface for monitoring and managing privacy-related data processing activities within the organization.
 
 The visual dashboard provides insights into ongoing processing activities. Privacy managers and compliance officers can identify potential compliance risks. Data privacy initiatives can be managed more effectively.
 
@@ -25,35 +25,24 @@ The privacy manager develops and maintains company policies and regulations. A p
 -   Review privacy regulatory requirements and policies​.
 -   Design and monitor risks and controls to deal with breaches of privacy regulations and internal policies.​
 -   Plan privacy programs and scope entities.
--   Create privacy impact [[airc-assessment-templates|assessment templates]].​
--   Perform privacy [[risk-assessments|risk assessments]] to understand the criticality of the processing activities.
+-   Create privacy impact assessment templates.​
+-   Perform privacy risk assessments to understand the criticality of the processing activities.
 -   Continuously monitor control effectiveness and suggest effective improvements.
 -   ​Supervise the privacy compliance team.​
 -   Report the compliance posture to management and the board of directors​.
 
 The following image shows the home page for the privacy manager.
 
-\[Omitted image "privacy-management-dashboard.png"\] Alt text: [[privacy-manager-dashboard|Privacy management home page]] for a privacy manager
+\[Omitted image "privacy-management-dashboard.png"\] Alt text: Privacy management home page for a privacy manager
 
 -   **[Processing activity tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/processing-activity-tab.md)**  
-The [[processing-activity-tab|Processing activity tab]] on the Privacy management dashboard provides a comprehensive and real-time overview of all data processing activities across the organization.
+The Processing activity tab on the Privacy management dashboard provides a comprehensive and real-time overview of all data processing activities across the organization.
 -   **[Risk and compliance tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/risk-and-complaince-tab.md)**  
-The [[risk-and-complaince-tab|Risk and compliance tab]] on the privacy management dashboard provides a centralized view of privacy-related risk exposure and regulatory compliance performance.
+The Risk and compliance tab on the privacy management dashboard provides a centralized view of privacy-related risk exposure and regulatory compliance performance.
 -   **[Operations tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/operations-tab-prm.md)**  
-The [[operations-tab|Operations tab]] on the privacy management dashboard offers visibility into operational performance across key privacy compliance processes, supporting proactive management and confirming adherence to regulatory and internal risk standards.
+The Operations tab on the privacy management dashboard offers visibility into operational performance across key privacy compliance processes, supporting proactive management and confirming adherence to regulatory and internal risk standards.
 -   **[Privacy cases tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-cases-tab.md)**  
-The [[privacy-cases-tab|Privacy cases tab]] on the privacy management dashboard serves as a centralized interface for monitoring, analyzing, and managing privacy-related incidents and requests within an organization.
+The Privacy cases tab on the privacy management dashboard serves as a centralized interface for monitoring, analyzing, and managing privacy-related incidents and requests within an organization.
 
 **Parent Topic:**[Exploring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/explore-privacy-management.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[risk-assessments|risk assessments]]
-- [[privacy-manager-dashboard|Privacy Management home page]]
-- [[processing-activity-tab|Processing activity tab]]
-- [[risk-and-complaince-tab|Risk and compliance tab]]
-- [[operations-tab|Operations tab]]
-- [[privacy-cases-tab|Privacy cases tab]]

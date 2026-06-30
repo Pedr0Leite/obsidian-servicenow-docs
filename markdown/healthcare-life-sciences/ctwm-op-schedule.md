@@ -38,12 +38,7 @@ Your task plan has been published and any cases or tasks created as part of this
 
 ## What to do next
 
-For information on monitoring the progress of your task plan, see [[ctwm-track-care-team-task-plans|Track care team task plans]].
+For information on monitoring the progress of your task plan, see [Track care team task plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-track-care-team-task-plans.md).
 
-For information on fulfilling the [[ctwm-healthcare-orc-cases-task|healthcare orchestration cases and tasks]] generated as a result of this task plan, see [[ctwm-fulfill-healthcare-orchestration-cases-tasks|Fulfill healthcare orchestration cases and tasks]].
+For information on fulfilling the healthcare orchestration cases and tasks generated as a result of this task plan, see [Fulfill healthcare orchestration cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/ctwm-fulfill-healthcare-orchestration-cases-tasks.md).
 
-## Related
-
-- [[ctwm-track-care-team-task-plans|Track care team task plans]]
-- [[ctwm-fulfill-healthcare-orchestration-cases-tasks|Fulfill healthcare orchestration cases and tasks]]
-- [[ctwm-healthcare-orc-cases-task|Healthcare orchestration cases and tasks]]

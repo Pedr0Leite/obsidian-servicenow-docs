@@ -14,18 +14,12 @@ breadcrumb: [Operational Technology Management licensing and subscriptions, Oper
 
 Use reference topics to gain valuable insights on the components installed with OTM licensing, subscription forms for OTM products, and an overview of the OTM licensing dashboard. Navigate the subtopics to access specific guidance and references on each of these critical aspects, helping you effectively manage your OTM subscriptions and licensing requirements.
 
--   **[[components-installed-otm-su-licensing|Components installed with ITOM SU Licensing for OTM]]**  
+-   **[Components installed with ITOM SU Licensing for OTM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/components-installed-otm-su-licensing.md)**  
 Several types of components are installed with activation of the OTM SU Licensing plugin, including scheduled jobs and tables.
--   **[[otm-subscriptions-form|Subscriptions form for the OTM products]]**  
+-   **[Subscriptions form for the OTM products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-subscriptions-form.md)**  
 Learn about the essential fields and indicators found on the Subscriptions form for our products, enabling streamlined subscription management and clarity in your OTM product usage.
--   **[[otm-licensing-dashboard|OTM Licensing dashboard]]**  
+-   **[OTM Licensing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-licensing-dashboard.md)**  
 Use the OTM Licensing dashboard to assess resource consumption and status in relation to your acquired subscriptions. The dashboard provides dedicated reports for each OTM application, providing visual representations of daily usage counts and the average utilization of subscription units over a 90-day period. The OTM Licensing dashboard is an integral component of ITOM Licensing application version 4.0, accessible at ServiceNow Store.
 
-**Parent Topic:**[[otm-su-license-landing-page|Operational Technology Management licensing and subscriptions]]
+**Parent Topic:**[Operational Technology Management licensing and subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-su-license-landing-page.md)
 
-## Related
-
-- [[components-installed-otm-su-licensing|Components installed with ITOM SU Licensing for OTM]]
-- [[otm-subscriptions-form|Subscriptions form for the OTM products]]
-- [[otm-licensing-dashboard|OTM Licensing dashboard]]
-- [[otm-su-license-landing-page|Operational Technology Management licensing and subscriptions]]

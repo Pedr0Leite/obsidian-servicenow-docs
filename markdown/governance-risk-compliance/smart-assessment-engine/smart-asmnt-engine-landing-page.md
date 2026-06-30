@@ -38,11 +38,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Now assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/now-assist-for-smart-assessment-engine.md)\[Omitted image "bus-ai-sparkle.svg"\] Alt text: [[now-assist-for-smart-assessment-engine|Now assist for Smart Assessment Engine]]
+[Now assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/now-assist-for-smart-assessment-engine.md)\[Omitted image "bus-ai-sparkle.svg"\] Alt text: Now assist for Smart Assessment Engine
 
 </td><td>
 
-[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-ref.md) \[Omitted image "bus-profile.svg"\] Alt text:[[components-installed-with-smart-assessment-engine|Components installed with Smart Assessment Engine]]
+[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-assessment-engine-cf-ref.md) \[Omitted image "bus-profile.svg"\] Alt text:Components installed with Smart Assessment Engine
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -51,7 +51,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Learn how to build apps on the developer site](https://developer.servicenow.com/app.do#!/training/landing).
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case).
 
-## Related
-
-- [[now-assist-for-smart-assessment-engine|Now assist for smart assessment engine]]
-- [[components-installed-with-smart-assessment-engine|Components installed with Smart Assessment Engine]]

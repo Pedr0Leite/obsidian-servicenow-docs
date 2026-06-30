@@ -14,13 +14,13 @@ breadcrumb: [HR Service Delivery Integration with Workday, Integration of HR Ser
 
 # Configuring HR Service Delivery Integration with Workday
 
-Pull Workday tasks or to-dos on regular scheduled basis or on manual basis for provided date range into ServiceNow instance. This allows the employees to view all their to-dos in a single place, [[employee-center-landing-page|Employee Center]].
+Pull Workday tasks or to-dos on regular scheduled basis or on manual basis for provided date range into ServiceNow instance. This allows the employees to view all their to-dos in a single place, Employee Center.
 
 ## Application setup
 
--   Activate the [[w-integration|HR Service Delivery Integration with Workday]] application from ServiceNow Store. This automatically activates the Workday HR Spoke.
+-   Activate the HR Service Delivery Integration with Workday application from ServiceNow Store. This automatically activates the Workday HR Spoke.
 -   Set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md) .
--   Activate the [[hr-service-delivery|HR Service Delivery]] Integrations Framework from ServiceNow Store. HR Service Delivery Integration with Workday uses [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] to pull tasks from Workday into ServiceNow. For more information on HR Service Delivery Integrations Framework, see [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md).
+-   Activate the HR Service Delivery Integrations Framework from ServiceNow Store. HR Service Delivery Integration with Workday uses Enterprise Service Management Integrations Framework to pull tasks from Workday into ServiceNow. For more information on HR Service Delivery Integrations Framework, see [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md).
 
 
 ## To-dos settings
@@ -33,9 +33,3 @@ Store one-time configuration parameters for pulling tasks from Workday into Serv
 
 Activate and run the schedule flow that pulls tasks into ServiceNow. For more information, see [Activating schedule flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-w-schedule-flow.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[w-integration|HR Service Delivery Integration with Workday]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

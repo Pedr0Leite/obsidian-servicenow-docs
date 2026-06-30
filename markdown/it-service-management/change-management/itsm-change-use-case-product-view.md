@@ -14,16 +14,16 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Applying CSDM guidelines to Change Management
 
-[[c_ITILChangeManagement|Change Management]] lets you control every aspect of the IT change process from creation to approval. When you have accurate information, you can minimize risks to your business and avoid conflicts with scheduling. The goal of this product view is to help you to understand how Change Management key entities work with the core CSDM framework.
+Change Management lets you control every aspect of the IT change process from creation to approval. When you have accurate information, you can minimize risks to your business and avoid conflicts with scheduling. The goal of this product view is to help you to understand how Change Management key entities work with the core CSDM framework.
 
 ## Change Management
 
 Change Management includes the following features:
 
--   Manage changes more quickly by using the [[cab-workbench|Change Advisory Board \(CAB\) Workbench]] to schedule, plan, and manage CAB meetings from one interface.
+-   Manage changes more quickly by using the Change Advisory Board \(CAB\) Workbench to schedule, plan, and manage CAB meetings from one interface.
 -   The Change Management backlog analysis dashboard provides increased visibility into any changes.
 -   Service Maps let you see the change impacts at-a-glance.
--   The [[change-approval-policy|change approval policies]] increase DevOps velocity and remove IT friction.
+-   The change approval policies increase DevOps velocity and remove IT friction.
 
 For details on implementing the CSDM framework, see [Implementing the CSDM framework in stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/csdm-implementation-stages.md).
 
@@ -105,8 +105,3 @@ Consider these points while implementing the CSDM framework.
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[cab-workbench|Change Advisory Board \(CAB\) workbench]]
-- [[change-approval-policy|Change approval policies]]

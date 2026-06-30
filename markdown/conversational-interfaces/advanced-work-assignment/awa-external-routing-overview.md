@@ -18,7 +18,7 @@ External Routing involves routing to external queue based on the service channel
 
 ## Process flow
 
-This is how the [[awa-work-items|work items]] are processed when using external routing:
+This is how the work items are processed when using external routing:
 
 1.  Work items are routed to the queue in a queued state but are unassigned. Work items expire if the Max timeout is set.
 2.  External solution looks for work items in queued state by the Work Item Table API.
@@ -26,7 +26,7 @@ This is how the [[awa-work-items|work items]] are processed when using external 
 4.  The external solution uses the AWA Assignment API to assign the work items to the agent.
 5.  The agent sees an inbox card.
 
-When [[awa-application-landing-page|Advanced Work Assignment]] is configured to use external routing:
+When Advanced Work Assignment is configured to use external routing:
 
 -   Queues do not allow to have Assignment Eligibility Groups defined.
 -   Work items remain in the queue with a "queued" status until the external system assigns the work item or the queue maximum wait time elapses.
@@ -109,7 +109,3 @@ When Advanced Work Assignment is configured for external routing:
 -   The work item is immediately assigned to Accept, when the Auto-assign value is true.
 -   The auto-assigned work item is either displayed as an Inbox card, or both Inbox card and workspace tab. If the auto-assign value is false, this field is ignored.
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

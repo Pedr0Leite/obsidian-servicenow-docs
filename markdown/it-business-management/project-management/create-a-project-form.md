@@ -74,7 +74,7 @@ Current state of the project. All new projects begin as **Pending**. The state o
 
  You can also [create a custom state](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/customize-project-task-states.md) for each state type by overriding the state dictionary attributes.
 
- For example, say that for the [[t_CreateAProjectTask|project tasks]] you have created a custom state called **Testing** for the **Work in Progress** state type. When you update the project task state to **Testing**, the project state is also updated to **Testing**. However, if you have not created a **Testing** state for the **Work in Progress** state type, the project state is updated to the default **Work in Progress** state.
+ For example, say that for the project tasks you have created a custom state called **Testing** for the **Work in Progress** state type. When you update the project task state to **Testing**, the project state is also updated to **Testing**. However, if you have not created a **Testing** state for the **Work in Progress** state type, the project state is updated to the default **Work in Progress** state.
 
 </td></tr><tr><td>
 
@@ -149,7 +149,7 @@ The start date of the project tasks within the project. This date is rolled up f
 
  **Note:**
 
--   When you [[change-planned-start-date-of-project|change the planned start date of a project]], the associated cost plans and resource plan also change. The [project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for project start date change.
+-   When you change the planned start date of a project, the associated cost plans and resource plan also change. The [project property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_InstalledWithProjectManagement.md) **Change Resource Plan and Cost Plan Start Date with Demand or Project Start Date Change** controls the behavior for project start date change.
 -   This field is not available when creating a project by default. Use the **Approved start date** field to specify the project start date. Configure the form to display this field. However, this field is available for existing projects and projects converted from a demand.
 
 </td></tr><tr><td>
@@ -216,7 +216,7 @@ Actual effort
 
 </td><td>
 
-Actual number of hours charged to the resources on this project. If you are using the [[c_TimeCards|Time Cards]] application, it automatically calculates the value for this field. It uses the totals for the time worked from the approved time cards of all the resources who worked on a project and all its tasks.**Note:** The actual effort from the stories for Agile and Hybrid projects is also rolled up to the project's actual effort.
+Actual number of hours charged to the resources on this project. If you are using the Time Cards application, it automatically calculates the value for this field. It uses the totals for the time worked from the approved time cards of all the resources who worked on a project and all its tasks.**Note:** The actual effort from the stories for Agile and Hybrid projects is also rolled up to the project's actual effort.
 
  The field is not editable if the **Update actual effort from time card** field is set to **Yes** on the **Preferences** tab.
 
@@ -279,7 +279,7 @@ Execution Type
 
 Execution methodology used to run the project: **Waterfall**, **Agile**, and **Hybrid**. The default value is **Waterfall**.
 
- The **Execution Type** field selection determines the related links and related lists that are available. For example, the **Agile Planning &amp; Tracking** related link appears when you set the Execution Type value to **Agile**. You must have the appropriate plugins such as [[agile-landing-page|Agile Development 2.0]] and Test Management to view these related links and related lists. Also, you must have the appropriate role to use these related links and related lists.
+ The **Execution Type** field selection determines the related links and related lists that are available. For example, the **Agile Planning &amp; Tracking** related link appears when you set the Execution Type value to **Agile**. You must have the appropriate plugins such as Agile Development 2.0 and Test Management to view these related links and related lists. Also, you must have the appropriate role to use these related links and related lists.
 
 </td></tr><tr><td>
 
@@ -317,7 +317,7 @@ Business unit to which the project belongs.
 
 </td></tr><tr><td>
 
-Impacted [[c_BusinessUnits|Business Units]]
+Impacted Business Units
 
 </td><td>
 
@@ -329,7 +329,7 @@ Business Capabilities
 
 </td><td>
 
-If the project is to change, enhance, or add one or more business capabilities, those capabilities can be associated with the project. Business capabilities are defined in the Application [[c_PortfolioManagement|Portfolio Management]] module.
+If the project is to change, enhance, or add one or more business capabilities, those capabilities can be associated with the project. Business capabilities are defined in the Application Portfolio Management module.
 
 </td></tr><tr><td>
 
@@ -443,7 +443,7 @@ Rate Model
 
 </td><td>
 
-Rate model assigned to the project. The [rate model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md) is used to derive hourly rates for the associated [[c_ResourcePlans|resource plans]] and time cards.
+Rate model assigned to the project. The [rate model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md) is used to derive hourly rates for the associated resource plans and time cards.
 
  When you create a project from a demand, the rate model is copied from the demand to the project.
 
@@ -463,7 +463,7 @@ Estimated cost of the project. If an operational expenditure, capital expenditur
 
  For Agile and Hybrid projects, the planned cost for stories is considered when the resource plan is created for Agile assignment group.
 
- **Note:** To [[t_CreateResourcePlanProjectTask|create a resource plan]] for Agile assignment group, you must assign the pps\_resource role to the group.
+ **Note:** To create a resource plan for Agile assignment group, you must assign the pps\_resource role to the group.
 
 </td></tr><tr><td>
 
@@ -487,7 +487,7 @@ Budget cost
 
 </td><td>
 
-Budgeted cost for this project. This field is automatically populated from the project budget breakdowns in the [[cost-plan-breakdown|cost plan breakdown]] table. When project funds are allocated for a fiscal year, the cost plan breakdown stores the budget allocation for each fiscal period. These amounts are rolled up and stored in the budget cost. To manually enter a value, select a currency icon and enter the value.
+Budgeted cost for this project. This field is automatically populated from the project budget breakdowns in the cost plan breakdown table. When project funds are allocated for a fiscal year, the cost plan breakdown stores the budget allocation for each fiscal period. These amounts are rolled up and stored in the budget cost. To manually enter a value, select a currency icon and enter the value.
 
 </td></tr><tr><td>
 
@@ -642,7 +642,7 @@ Level at which the [time cards](https://raw.githubusercontent.com/ServiceNow/Ser
 
 -   **Project tasks only**: Separate time cards are created corresponding to each planned task.
 
-**Note:** In the [[worker-portal|Time Sheet Portal]], the **Add to Time Sheet**, **Quick Add**, and **Add selected to Time Sheet** options are not available for the project.
+**Note:** In the Time Sheet Portal, the **Add to Time Sheet**, **Quick Add**, and **Add selected to Time Sheet** options are not available for the project.
 
 -   **Project and project tasks**: Time cards can be created at the project level as well as the project task level. The default value is **True**.
 -   **No time reporting**: No time cards are created for the project. If the user submits the time card manually, the business rules prevent the user from submitting the time card.
@@ -689,7 +689,7 @@ Derive assignee list from resource plan
 
 </td><td>
 
-Option to constrain the resources in the **Assigned to** and **Additional assignee list** fields on the project and project task [[form-field-information-for-dw|forms]] to be derived only from the associated allocated resource plans.
+Option to constrain the resources in the **Assigned to** and **Additional assignee list** fields on the project and project task forms to be derived only from the associated allocated resource plans.
 
 </td></tr><tr><td>
 
@@ -731,16 +731,3 @@ Determines whether the time component in the actual start and end dates should b
 
 [Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[change-planned-start-date-of-project|Change the planned start date of a project]]
-- [[c_TimeCards|Time cards]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_BusinessUnits|Business units]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[worker-portal|Time Sheet Portal]]
-- [[form-field-information-for-dw|Forms]]

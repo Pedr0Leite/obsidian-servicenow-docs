@@ -12,7 +12,7 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 # General guidelines for scripting
 
-Write efficient [[scripts|scripts]] using a JavaScript-like language. Follow these general guidelines for naming, variables, and table access.
+Write efficient scripts using a JavaScript-like language. Follow these general guidelines for naming, variables, and table access.
 
 This guide will walk you through the general guidelines for writing efficient and reliable scripts in CPQ using a JavaScript-like language. Following these guidelines will help you create maintainable, readable, and well-performing code.
 
@@ -173,17 +173,12 @@ Choose variable declaration based on scope and mutability requirements. Use `con
 
 Excessive table queries can impact performance. Minimize queries by fetching necessary data once and storing it in variables.
 
-To learn about general guideliines for using the `lookup` function, see [[table_queries|Minimizing table queries]].
+To learn about general guideliines for using the `lookup` function, see [Minimizing table queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/table_queries.md).
 
 **Related topics**  
 
 
-[[scripting|Create scripts]]
+[Create scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/scripting.md)
 
 [CPQ scripting language reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[table_queries|Minimizing table queries]]
-- [[scripting|Create scripts]]
-- [[scripts|Scripts]]

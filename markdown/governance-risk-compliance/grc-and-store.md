@@ -20,11 +20,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The list of GRC applications available for download includes:
 
--   [[c_GRCAudits|Audit Management]] \(and supported integrations\)
--   [[business-continuity-mangmt-overview|Business Continuity Management]]
--   [[grc-opres-landing-page|Operational Resilience]]
--   [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(and supported integrations\)
--   [[reg-change-mgmt-landing-page|Regulatory Change Management]]
+-   Audit Management \(and supported integrations\)
+-   Business Continuity Management
+-   Operational Resilience
+-   Policy and Compliance Management \(and supported integrations\)
+-   Regulatory Change Management
 -   Risk Management \(and supported integrations\)
 -   Vendor Risk Management \(and supported integrations\)
 
@@ -32,10 +32,3 @@ Watch this five-minute video to learn about downloading Security Operations and 
 
 The process you use to obtain GRC products depends on whether you are downloading a product for the first time, updating a product that you previously downloaded from the ServiceNow Store, or upgrading from one family release to the next one.
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

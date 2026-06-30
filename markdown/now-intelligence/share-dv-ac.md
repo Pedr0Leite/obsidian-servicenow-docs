@@ -23,13 +23,13 @@ Role required: You can share any data visualization that you created. When you s
 
 Users with the admin and viz\_admin roles can share all data visualizations. Only users with the admin and viz\_admin roles can share data visualizations with roles.
 
-Sharing a visualization with a user, group, or role adds that visualization to the **Shared with me** tab in the Data Visualizations overview. Any user with a role can list and view any visualization at the table level. [[report-view-access-control|Report\_view access control]] lists \(ACLs\) still apply no matter how the user gets to the visualization, however changes to ACLs can break data visualizations that are used in UI Builder.
+Sharing a visualization with a user, group, or role adds that visualization to the **Shared with me** tab in the Data Visualizations overview. Any user with a role can list and view any visualization at the table level. Report\_view access control lists \(ACLs\) still apply no matter how the user gets to the visualization, however changes to ACLs can break data visualizations that are used in UI Builder.
 
 Edit rights granted by sharing a data visualization do not apply to that visualization when placed on a dashboard, but only in the Visualization Designer.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or to a workspace with a visualization that you own.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or to a workspace with a visualization that you own.
 
 2.  Locate and open the visualization that you want to share.
 
@@ -69,7 +69,7 @@ Grant editing rights to the users, groups, or roles you share the visualization 
 </table>7.  Select **Confirm**.
 
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
 ## Manage data visualization access
 
@@ -139,8 +139,3 @@ Role required: admin
 
 Perform the same actions on the Group and Role columns to limit sharing with those categories of recipient.
 
-## Related
-
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[report-view-access-control|Report\_view access control]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -26,7 +26,7 @@ The ServiceNow AI Platform retrieves and caches the data for the remote table by
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[remote-tables|Remote Tables]]** &gt; **Definition**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Remote Tables** &gt; **Definition**.
 
 2.  Select **New**.
 
@@ -316,6 +316,3 @@ In this example, we create a script to delete an incident record from the extern
 
 **Parent Topic:**[Remote tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md)
 
-## Related
-
-- [[remote-tables|Remote tables]]

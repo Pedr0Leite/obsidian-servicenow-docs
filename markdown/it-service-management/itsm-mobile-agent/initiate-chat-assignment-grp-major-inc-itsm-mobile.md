@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  Tap **Major incidents** tab, tap **See All**.
 
@@ -47,6 +47,4 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
     You can also interact with a user from the assignment group. Tap on the assignment group, and then tap on a user and select either Slack or Microsoft Teams to initiate a conversation.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

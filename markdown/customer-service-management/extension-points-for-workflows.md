@@ -12,15 +12,15 @@ breadcrumb: [Customer Life Cycle Management Workflows, Product data, Set up your
 
 # Extension points for workflows
 
-Override existing scripts or call custom scripts for the workflows by using extension [[gamification-components-points|points]] on the ServiceNow AI Platform®.
+Override existing scripts or call custom scripts for the workflows by using extension points on the ServiceNow AI Platform®.
 
 You can access the available extension points for the customer life cycle management workflows in the ServiceNow AI Platform®. Start by entering **sys\_extension\_point.list** in the application navigator and pressing **Enter**. Then, you can select the extension point that you want to view the record details of. If you want to override an existing script, you can select **Create implementation**.
 
-You can create extension points so that you can create a workflow for a sold product extension that is not already configured. You can also override extension points to create configurations. To learn more about the existing extensions and configurations of the Customer Life Cycle Management Workflows, see [[customer-life-cycle-management-workflows|Customer Life Cycle Management Workflows]].
+You can create extension points so that you can create a workflow for a sold product extension that is not already configured. You can also override extension points to create configurations. To learn more about the existing extensions and configurations of the Customer Life Cycle Management Workflows, see [Customer Life Cycle Management Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-life-cycle-management-workflows.md).
 
 You can create several implementations for each extension point and provide an order number for each implementation. The implementation that has the lowest order number is the one that is executed.
 
-The following table [[migration-lists|lists]] the extension points of the Customer Life Cycle Management Workflows.
+The following table lists the extension points of the Customer Life Cycle Management Workflows.
 
 <table id="table_u4t_rdd_d1c"><thead><tr><th>
 
@@ -59,9 +59,3 @@ Overrides existing methods to perform any custom post-processing actions after a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customer-life-cycle-management-workflows|Customer Life Cycle Management Workflows]]
-- [[gamification-components-points|Points]]
-- [[migration-lists|Lists]]

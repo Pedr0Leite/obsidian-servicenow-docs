@@ -16,7 +16,7 @@ The table architecture that supports the Order Management for Telecommunications
 
 Before you use Order Management for Telecommunications, Media, and Technology \(2.0.0\), you must run the Post Upgrade Script after your upgrade to San Diego. For detailed information about this script, see the [Order Management for Telecommunications, Media, and Technology \(2.0.0\) version: Post upgrade reparenting script for the San Diego release \[KB1000941\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1000941) article in the Now Support Knowledge Base.
 
-**Note:** If you don't run this script to perform table reparenting and column promotion, the [[sales-crm-order-decomposition|order decomposition]] and order fulfillment functions don't work as designed. In these cases, the following error message appears after the approval of an order:
+**Note:** If you don't run this script to perform table reparenting and column promotion, the order decomposition and order fulfillment functions don't work as designed. In these cases, the following error message appears after the approval of an order:
 
 ```
 Some of the OMT tables need reparenting. Please contact system administrator to execute the reparenting script.
@@ -24,6 +24,3 @@ Some of the OMT tables need reparenting. Please contact system administrator to 
 
 By using the [Now Support Portal](https://support.servicenow.com/now?id=ns_automation_store&catalog_sys_id=891f088e465667e234a3cb52ffa1d299), raise a new Case with the Technical Support team to assist you in applying these changes.
 
-## Related
-
-- [[sales-crm-order-decomposition|Order decomposition]]

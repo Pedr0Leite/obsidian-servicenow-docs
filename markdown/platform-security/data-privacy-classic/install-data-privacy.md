@@ -14,7 +14,7 @@ breadcrumb: [Data privacy \(Classic\), Data Privacy, Platform Privacy]
 
 # Activate data privacy \(Classic\)
 
-You can activate the [[data-privacy-landing|data privacy]] plugin \(com.glide.data\_privacy\) for [[platsec-sublanding|Platform Security]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren't already installed.
+You can activate the data privacy plugin \(com.glide.data\_privacy\) for Platform Security if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren't already installed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Data privacy requires a separate subscription from the rest of the ServiceNow AI
 
 To purchase a subscription, contact your ServiceNow account manager. When you purchase a subscription, certain plugins are activated automatically. If a paid plugin isn't activated automatically, you can manually activate it from the All Applications list in your instance.
 
-**Note:** Before purchasing a subscription, you can evaluate Data Privacy\(Classic\) and [[data-discovery-landing|Data Discovery]] with a 30 day trial period. After your trial expires you will no longer be able to discover data or run anonymization jobs in without a license.
+**Note:** Before purchasing a subscription, you can evaluate Data Privacy\(Classic\) and Data Discovery with a 30 day trial period. After your trial expires you will no longer be able to discover data or run anonymization jobs in without a license.
 
 Role required: admin
 
@@ -40,9 +40,9 @@ For more information, see [Installed with data privacy \(Classic\)](https://raw.
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Data Privacy plugin \(com.glide.data\_privacy\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Data Privacy plugin \(com.glide.data\_privacy\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -50,10 +50,4 @@ For more information, see [Installed with data privacy \(Classic\)](https://raw.
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[data-privacy-landing|Data Privacy]]
-- [[platsec-sublanding|Platform Security]]
-- [[data-discovery-landing|Data Discovery]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

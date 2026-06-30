@@ -36,11 +36,7 @@ In the cloning process, the following information is copied from the source task
     The application creates a task in **Draft** state. The **Work Notes** field contains the original task number and text stating that the task is a clone.
 
 
-**Parent Topic:**[[c_FacRequestTasks|Facilities request tasks]]
+**Parent Topic:**[Facilities request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacRequestTasks.md)
 
-**Parent Topic:**[[c_RequestTasksMgmt|Request task management]]
+**Parent Topic:**[Request task management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_RequestTasksMgmt.md)
 
-## Related
-
-- [[c_FacRequestTasks|Facilities request tasks]]
-- [[c_RequestTasksMgmt|Request task management]]

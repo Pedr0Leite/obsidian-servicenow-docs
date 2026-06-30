@@ -14,7 +14,7 @@ breadcrumb: [ACC certificates, ACC deployment - shared between servers and endpo
 
 # Enable OpenSSL secure signing for plugins
 
-Create a self-signed certificate for an [[acc-landing-page|Agent Client Collector]] plugin. The following procedure gives an example of how to create an x509 certificate using OpenSSL. For other certificate types, consult OpenSSL documentation.
+Create a self-signed certificate for an Agent Client Collector plugin. The following procedure gives an example of how to create an x509 certificate using OpenSSL. For other certificate types, consult OpenSSL documentation.
 
 ## Before you begin
 
@@ -95,6 +95,3 @@ Enabling an OpenSSL secure signing mechanism for plugins works with an Agent Cli
 
 **Parent Topic:**[Agent Client Collector certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-certificates.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

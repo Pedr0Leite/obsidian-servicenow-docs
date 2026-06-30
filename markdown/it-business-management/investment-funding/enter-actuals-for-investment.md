@@ -27,12 +27,12 @@ You can use funds in your investments to execute business activities or allocate
 -   Track where and how you spent your funds.
 -   Add up to the parent investment actuals.
 
-Actual cost incurred for projects or demands will be summed up and displayed in the [[investment-funding-overview|Investment Funding]] grid automatically if there is a single funded source. If there are multiple sources, you need to perform the following steps to enter the actuals manually.
+Actual cost incurred for projects or demands will be summed up and displayed in the Investment Funding grid automatically if there is a single funded source. If there are multiple sources, you need to perform the following steps to enter the actuals manually.
 
 **Note:**
 
 -   \(For customers upgraded from legacy Investment Funding plugin to the ServiceNow Store application\) If you have entered actuals manually prior to upgrade, then the same does not match with the actuals posted in the project post-upgrade.
--   If the **Budget** field on the [[cost-plan-breakdown|cost plan breakdown]] of a project or demand has been edited post funding, the CapEx and OpEx budgets do not match the amount funded from the Investment Funding flow.
+-   If the **Budget** field on the cost plan breakdown of a project or demand has been edited post funding, the CapEx and OpEx budgets do not match the amount funded from the Investment Funding flow.
 
 ## Procedure
 
@@ -58,7 +58,3 @@ Actual cost incurred for projects or demands will be summed up and displayed in 
 
 **Parent Topic:**[Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **Escalation rules**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Escalation rules**.
 
 2.  Click **New**.
 
@@ -78,6 +78,3 @@ The escalation rule is created. The rule is displayed under the Related links of
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

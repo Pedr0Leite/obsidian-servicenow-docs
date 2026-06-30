@@ -14,7 +14,7 @@ breadcrumb: [View SIR Workspace Dashboards, Security Incident Response Workspace
 
 # View CISO Reporting Overview dashboard
 
-This dashboard provides the Chief Information Security Officers \(CISOs\) with a high-level reporting overview of the security incidents and weekly incidents trends on the instance in the form of graphical charts. These charts help you effectively view and analyze how the [[security-operations-landing-page|Security operations]] center \(SOC\) performs.
+This dashboard provides the Chief Information Security Officers \(CISOs\) with a high-level reporting overview of the security incidents and weekly incidents trends on the instance in the form of graphical charts. These charts help you effectively view and analyze how the Security operations center \(SOC\) performs.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ The CISO Reporting Overview dashboard provides key insights about the security i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Security Incident Response**.
 
 2.  Click the **SIR Dashboards** icon on the left side of the workspace homepage.
 
@@ -47,7 +47,4 @@ The CISO Reporting Overview dashboard provides key insights about the security i
 
 4.  View the CISO Reporting dashboard for further action.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

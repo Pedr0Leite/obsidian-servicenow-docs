@@ -35,7 +35,7 @@ Roles required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Manual Breakdowns**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Indicators** &gt; **Manual Breakdowns**.
 
 2.  Select **New**.
 
@@ -51,7 +51,7 @@ Roles required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 7.  Change the **Order** value.
 
-    Elements with a lower **Order** value appear higher in the list of elements, such as on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and dashboards.
+    Elements with a lower **Order** value appear higher in the list of elements, such as on the Analytics Hub and dashboards.
 
 8.  Repeat steps 5-7 to add additional breakdown elements.
 
@@ -60,7 +60,7 @@ Roles required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 ### What to do next
 
-Associate [[t_CreateAManualIndicator|manual indicators]] with this breakdown and populate scores using the scoresheet.
+Associate manual indicators with this breakdown and populate scores using the scoresheet.
 
 ## Assign a manual indicator to a manual breakdown
 
@@ -86,7 +86,7 @@ Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 5.  Click **Save**.
 
-6.  In the **[[c_CreatingBreakdowns|Indicator Breakdowns]]** related list, set the **Display** value to false to hide the breakdown on the Analytics Hub and dashboard [[widgets|widgets]].
+6.  In the **Indicator Breakdowns** related list, set the **Display** value to false to hide the breakdown on the Analytics Hub and dashboard widgets.
 
     If the **Display** field is false, broken-down scores are still populated during data collection, but the breakdown is not selectable on the Analytics Hub or on dashboard widgets.
 
@@ -95,10 +95,3 @@ Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 Populate broken-down scores for the indicators using the scoresheet.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[widgets|Widgets]]

@@ -12,20 +12,20 @@ breadcrumb: [Contact relationships, Create customer relationships, Configure acc
 
 # Configuring a contact relationship
 
-You can configure a contact relationship to establish a relationship between an account and a contact in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+You can configure a contact relationship to establish a relationship between an account and a contact in the Customer Service Management \(CSM\) application.
 
 ## Configuring the contacts to be associated with an account
 
 When you create a contact relationship, you select a user from the **Contact** field. This field displays the contacts from:
 
 -   All accounts in the account relationship
--   All accounts in the [[c_AccountHierarchy|account hierarchy]]
+-   All accounts in the account hierarchy
 -   All accounts, if the **sn\_customerservice.contact\_relationship.restrict\_within\_account\_hierarchy** system property is set to **false**. However, when the **sn\_customerservice.contact\_relationship.restrict\_within\_account\_hierarchy** system property is set to **true**, only the contacts within the account hierarchy and account relationship are displayed.
 
     **Note:** By default, the **sn\_customerservice.contact\_relationship.restrict\_within\_account\_hierarchy** system property is set to **true**.
 
 
-If you're a customer service manager \(sn\_customerservice\_manager\), CRM foundation admin \(sn\_crm\_foundation\_admin\), CRM foundation data manager \(sn\_crm\_foundation\_data\_manager\), or an Account relationship data manager \(sn\_crm\_account\_relationship\_data\_manager\), you can create, update, delete, and view the list of [[c_ContactRelationships|contact relationships]] for an account. If you're a customer service manager \(sn\_customerservice\_manager\), customer service agent \(sn\_customerservice\_agent\), CRM foundation data viewer, \(sn\_crm\_account\_relationship\_viewer\), or and Account relationship viewer \(sn\_crm\_foundation\_data\_viewer\), you can view a list of the contact relationships for an account.
+If you're a customer service manager \(sn\_customerservice\_manager\), CRM foundation admin \(sn\_crm\_foundation\_admin\), CRM foundation data manager \(sn\_crm\_foundation\_data\_manager\), or an Account relationship data manager \(sn\_crm\_account\_relationship\_data\_manager\), you can create, update, delete, and view the list of contact relationships for an account. If you're a customer service manager \(sn\_customerservice\_manager\), customer service agent \(sn\_customerservice\_agent\), CRM foundation data viewer, \(sn\_crm\_account\_relationship\_viewer\), or and Account relationship viewer \(sn\_crm\_foundation\_data\_viewer\), you can view a list of the contact relationships for an account.
 
 When you select a responsibility for the contact, the responsibilities that are available are those responsibility definitions that are created with a type of **Contact**.
 
@@ -37,8 +37,3 @@ Before the Vancouver release, configuring multiple contact relationships for a c
 
 Starting with the Vancouver release, the Customer Service Management \(CSM\) application replaced the unique index and introduced the **Prevent duplicate for account-contact** business rule. This business rule enables administrators to disable the restriction of a unique index combination in the contact relationship by setting the **Active** flag to **False**. As a result, an administrator can assign multiple responsibilities per account for a contact.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_AccountHierarchy|Account hierarchy]]
-- [[c_ContactRelationships|Contact relationships]]

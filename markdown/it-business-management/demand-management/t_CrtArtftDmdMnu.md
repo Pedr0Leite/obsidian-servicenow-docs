@@ -26,7 +26,7 @@ The category and type of a demand and the applications you have installed determ
 |--------|--------------------|
 |Enhancement, change, or defect|[Project Portfolio Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)|
 |Agile Development entities \(story or epic\)|[Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-landing-page.md)|
-|Scaled Agile Framework \(SAFe\)[[key-entities-SAFe|SAFe entities]] \(story, feature, or epic\)|[Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/essential-overview.md) or [Portfolio SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-overview.md)|
+|Scaled Agile Framework \(SAFe\)SAFe entities \(story, feature, or epic\)|[Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/essential-overview.md) or [Portfolio SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-overview.md)|
 |Enterprise Agile Planning \(EAP\) entities \(epic, feature, or capability\)|[Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/alignment-planner-workspace-landing-page.md)|
 |Improvement initiatives|[Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/cim-landing-page.md)|
 
@@ -85,7 +85,7 @@ This link appears if the **Category** field is set to **Strategic** and the **Ty
 
 </td><td>
 
-This link appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Epic**. Creates an [[agile-landing-page|Agile Development 2.0]] epic that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Epic form.
+This link appears if the **Category** field is set to **Strategic** and the **Type** field is set to **Epic**. Creates an Agile Development 2.0 epic that is associated with this demand. A **Demand** reference field is created in the Agile Development 2.0 Epic form.
 
 </td></tr><tr><td id="d92289e389">
 
@@ -125,7 +125,7 @@ This link appears if the **Category** field is set to **Strategic** and the **Ty
 
 </td><td>
 
-This link appears if the **Category** field is set to **Strategic** and the **Type** field is set to SAFe **Story**. Creates a [[SAFeoverview|Scaled Agile Framework \(SAFe\)]] story that is associated with this demand. A **Demand** reference field is created in the SAFe Story form.
+This link appears if the **Category** field is set to **Strategic** and the **Type** field is set to SAFe **Story**. Creates a Scaled Agile Framework \(SAFe\) story that is associated with this demand. A **Demand** reference field is created in the SAFe Story form.
 
 </td></tr><tr><td id="d92289e563">
 
@@ -174,8 +174,3 @@ Create an Enterprise Agile Planning \(EAP\) entity, such as an epic, feature, or
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[key-entities-SAFe|SAFe entities]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

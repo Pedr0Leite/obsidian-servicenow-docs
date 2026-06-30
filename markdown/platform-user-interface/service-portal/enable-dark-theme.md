@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Home**.
 
 2.  Select your **User Profile**.
 
-3.  Under **[[c_UserPreferences|User preferences]]** &gt; **Theme**, select **Coral Dark**.
+3.  Under **User preferences** &gt; **Theme**, select **Coral Dark**.
 
     **Note:** If you have a theme variant available, you can select the theme variant instead of Coral Dark. For more information about theme variants, see [Create a theme variant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-theme-variant.md).
 
@@ -35,7 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Create a portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CustomCSS.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_UserPreferences|User preferences]]

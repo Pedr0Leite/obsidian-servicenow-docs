@@ -23,7 +23,7 @@ Role required: sn\_cmdb\_admin or sn\_cmdb\_editor
 ## About this task
 
 -   A solid line indicates a relationship. The arrowhead indicates the dependent node.
--   A dashed line indicates a [[reference|reference]].
+-   A dashed line indicates a reference.
 -   A badge on a line indicates the number of relationships between the CIs.
 
 Two CIs might be connected by one or more relationships \(stored in the CI Relationship \[cmdb\_rel\_ci\] table\). For example, two CIs might be connected by the **Runs On::Runs**, **Depends On::Discovered From**, and by the **Owned By::Owns** relationships.
@@ -58,7 +58,7 @@ Procedure
 
 Take one of the following actions:
 
--   Select and hold \(or right-click\) a CI and select **[[c_Connect|Connect]] to**.
+-   Select and hold \(or right-click\) a CI and select **Connect to**.
 -   Select a CI for the connection \(either the parent or the child\) and then select the Manage connection icon \[Omitted image "icon-um-edit-connection.png"\].
 
 
@@ -146,7 +146,3 @@ The relationship between the CIs. For example, the relationship between the pare
 
 [Delete a connection using the map editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-delete-connection.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[c_Connect|Connect]]

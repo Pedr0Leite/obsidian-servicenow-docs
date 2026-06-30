@@ -14,17 +14,17 @@ breadcrumb: [Configure, Legal Simple Contracts, Legal Service Delivery Practice 
 
 # Configure Legal Simple Contracts
 
-Set up the foundation data for [[legal-simple-contracts-landing-page|legal simple contracts]] so employees can use them to [[submit-legal-request|submit a legal request]] to the legal department.
+Set up the foundation data for legal simple contracts so employees can use them to submit a legal request to the legal department.
 
 As an administrator, review the installed components and modify them or add new ones as applicable.
 
 -   **[Define a user as an internal signer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/define-internal-signers.md)**
 
-    [[define-internal-signers|Define a user as an internal signer]] so that the signer can be added to a contract template to automatically populate in a contract document for a request.
+    Define a user as an internal signer so that the signer can be added to a contract template to automatically populate in a contract document for a request.
 
 -   **[Create a contract type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-contract-type.md)**
 
-    [[cncore-create-contract-type|Create a contract type]] for defining different types of legal contract requests.
+    Create a contract type for defining different types of legal contract requests.
 
 -   **[Legal contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/document-template-block.md)**
 
@@ -54,9 +54,4 @@ As an administrator, review the installed components and modify them or add new 
 
     Create a deflection rule for providing guidance to requesters for a sales contract based on specified conditions.
 
-## Related
 
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[submit-legal-request|Submit a legal request]]
-- [[define-internal-signers|Define a user as an internal signer]]
-- [[cncore-create-contract-type|Create a contract type]]

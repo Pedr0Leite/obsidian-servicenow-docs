@@ -26,7 +26,7 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 In this example, a user requests a stack that triggers an approval policy.
 
-1.  On the [[cloudmgt-cloud-user-portal|Cloud User Portal]], a user submits a request to provision a particular blueprint. The process of provisioning the blueprint is the trigger that causes the policy engine to apply an approval policy. A cloud approval policy specifies the users who must approve a specified cloud activity before the activity can proceed.
+1.  On the Cloud User Portal, a user submits a request to provision a particular blueprint. The process of provisioning the blueprint is the trigger that causes the policy engine to apply an approval policy. A cloud approval policy specifies the users who must approve a specified cloud activity before the activity can proceed.
 2.  The policy engine determines that the request meets the condition specified in the rule for the policy. In this example, the condition evaluates to true whenever a particular blueprint is being provisioned.
 3.  Because the condition is met, the policy engine performs the action that is also specified in the rule. In this example, the action is to create an approval action for the manager.
 4.  While the approver \(the manager\) reviews the approval request, the user sees a "waiting for approval" status message on the Cloud User Portal.
@@ -38,11 +38,11 @@ The targeted approval policies complement application-wide approval.
 
 -   **on Stack operation \(approval\)**: Triggered during any stack operation on the Cloud User Portal.
 -   **on Stack resource operation \(approval\)**: Triggered during any resource operation \(start, stop, provision, and so on\) on the Cloud User Portal.
--   **on Task [[ccg-remediation|remediation]]**: Triggered when a user resubmits a failed request.
+-   **on Task remediation**: Triggered when a user resubmits a failed request.
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Click **New** and then fill in the form.
 
@@ -156,8 +156,3 @@ A new policy is in **Draft** state. Click **Publish** on the form header to enfo
 
 **Parent Topic:**[Policies for Cloud Provisioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-policy.md)
 
-## Related
-
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[ccg-remediation|Remediation]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

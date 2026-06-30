@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Allocate phone number
 
-The phone number allocation change model enables you to [[telecommunications-circuit-design-resource-assignment|design and assign]] the required telephone number from a pool or standalone telephone number format.
+The phone number allocation change model enables you to design and assign the required telephone number from a pool or standalone telephone number format.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required:sn\_inv\_num\_mgmt\_telephone\_number, sn\_ni\_core.inventory\_age
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Changes** &gt; **All**.
 
@@ -60,7 +60,3 @@ Role required:sn\_inv\_num\_mgmt\_telephone\_number, sn\_ni\_core.inventory\_age
 
 [Task Attribute in Manage Phone Number Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/task-attribute-in-manage-phone-number-form.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

@@ -37,8 +37,5 @@ When a citation is modified, the Control Objective Impact Analyzer performs the 
 3.  Determines impacted control objectives: The skill identifies which control objectives are directly relevant to the changes. For instance, if a citation update adds details about password backup frequency, only control objectives pertaining to backup processes are identified.
 4.  Generates impacted control objectives: The identified impacted control objectives are displayed in the **Change impacts** tab for user review.
 
-After reviewing the impacted control objectives, users can trigger the [[control-objective-change-agent|Control Objective Change Agent]] to update descriptions and guidance as needed.
+After reviewing the impacted control objectives, users can trigger the Control Objective Change Agent to update descriptions and guidance as needed.
 
-## Related
-
-- [[control-objective-change-agent|Control Objective Change Agent]]

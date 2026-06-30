@@ -20,7 +20,7 @@ Use a breakdown relation to set up navigation between a hierarchy of elements wi
 
 Review the use cases for breakdown relations in [Navigating breakdown elements with breakdown relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/breakdown-relations.md).
 
-**Important:** To show breakdown relations on [[c_performanceAnalyticsAndReporting|Platform Analytics]], you have to create a dashboard with an indicator scorecard and a filter. [[kpi-details|KPI Details]] does not support breakdown relations.
+**Important:** To show breakdown relations on Platform Analytics, you have to create a dashboard with an indicator scorecard and a filter. KPI Details does not support breakdown relations.
 
 Role required: pa\_data\_collector, pa\_power\_user, admin
 
@@ -120,7 +120,7 @@ Select the field that identifies the parent element.For the Location breakdown, 
 
 ## Parent group of Assignment Groups
 
-These instructions create a parent group relation for the Assignment Group breakdown and displays the relation in a dashboard. To display the breakdown relation in a dashboard, you need two [[dashboard-elements|dashboard elements]]:
+These instructions create a parent group relation for the Assignment Group breakdown and displays the relation in a dashboard. To display the breakdown relation in a dashboard, you need two dashboard elements:
 
 -   A filter
 -   An indicator scorecard
@@ -182,14 +182,7 @@ View examples of breakdown relations that are shipped by default in every instan
 **Related topics**  
 
 
-[[create-dv-indicator-scorecard|Create an Indicator Scorecard]]
+[Create an Indicator Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-indicator-scorecard.md)
 
-[[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
+[Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md)
 
-## Related
-
-- [[create-dv-indicator-scorecard|Create an Indicator Scorecard]]
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[dashboard-elements|Dashboard elements]]

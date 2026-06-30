@@ -18,7 +18,7 @@ The credentials provided by your AWS administrator are used in this procedure to
 
 ## Before you begin
 
-The below procedure is only required if you're managing AWS accounts on [[cam-landing|Cloud Account Management]].
+The below procedure is only required if you're managing AWS accounts on Cloud Account Management.
 
 Role required: ServiceNow AI Platform admin
 
@@ -50,6 +50,4 @@ Role required: ServiceNow AI Platform admin
 
 12. Select **Submit**.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]

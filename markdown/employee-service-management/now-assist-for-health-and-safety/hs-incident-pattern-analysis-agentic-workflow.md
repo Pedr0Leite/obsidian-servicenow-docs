@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist for Health and Safety, Health and
 
 # Health safety incident patterns assistant agentic workflow
 
-Use the **Health safety incident patterns assistant** agentic workflow to analyze [[health-safety-overview|Health and Safety]] incident patterns.
+Use the **Health safety incident patterns assistant** agentic workflow to analyze Health and Safety incident patterns.
 
 ## Health safety incident patterns assistant overview
 
@@ -39,7 +39,7 @@ For more information on the Now Assist panel, see [Now Assist panel](https://raw
 
 |Name|Type|Execution mode|
 |----|----|--------------|
-|Get Filter [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] Data|Script|Autonomous|
+|Get Filter Reference Data|Script|Autonomous|
 |Find Employee By Name|Script|Autonomous|
 |Find Asset For Pattern Filter|Script|Autonomous|
 |Get Pattern Details|Script|Autonomous|
@@ -49,7 +49,3 @@ For more information on the Now Assist panel, see [Now Assist panel](https://raw
 |Search Patterns|Script|Autonomous|
 |Get Incidents For Pattern|Script|Autonomous|
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

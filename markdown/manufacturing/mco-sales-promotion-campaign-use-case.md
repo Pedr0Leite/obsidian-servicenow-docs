@@ -12,7 +12,7 @@ breadcrumb: [Sales promotion, MCO core, Explore, Manufacturing Commercial Operat
 
 # Sales promotion campaign use case
 
-Use case scenarios demonstrate when and how to use the Sales promotion application to create a promotion campaign. It provides practical examples of common [[mco-sls-pro-mgmt|sales promotion management]] situations.
+Use case scenarios demonstrate when and how to use the Sales promotion application to create a promotion campaign. It provides practical examples of common sales promotion management situations.
 
 ## Use case: Creating Sales promotion campaign
 
@@ -39,7 +39,7 @@ James Smith, Sales Promotions Manager at Alectri, uses the MCO Sales Promotion a
 5.  Selects eligible products \(2024 Lumora VX\) and North America dealerships.
 6.  Publishes campaign to eligible dealers through the portal.
 
-The [[mco-sales-promotion|Sales promotion]] workspace provides real-time visibility into active promotions, claims, and approval status.
+The [Sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion.md) workspace provides real-time visibility into active promotions, claims, and approval status.
 
 Benefits
 
@@ -60,12 +60,7 @@ Alectri launches a loyalty discount promotion for 2024 Epsilon EVs across North 
 **Related topics**  
 
 
-[[mco-set-up-sls-prom|Set up sales promotion]]
+[Set up sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-set-up-sls-prom.md)
 
 [Sales promotion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sales-promotion.md)
 
-## Related
-
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-set-up-sls-prom|Set up sales promotion]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]

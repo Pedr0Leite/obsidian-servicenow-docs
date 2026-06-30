@@ -20,7 +20,7 @@ Role required: none
 
 ## About this task
 
-A category can have one or more assigned users, and the same user can be assigned to more than one category. When the system distributes a quiz, it sends an [[email|email]] notification, if configured, to the category users and creates a link to the appropriate questionnaire in their [[assessments-surveys-landing-page|assessments and surveys]] portal. Users can only answer questions attached to their assigned categories.
+A category can have one or more assigned users, and the same user can be assigned to more than one category. When the system distributes a quiz, it sends an email notification, if configured, to the category users and creates a link to the appropriate questionnaire in their assessments and surveys portal. Users can only answer questions attached to their assigned categories.
 
 ## Procedure
 
@@ -29,33 +29,22 @@ A category can have one or more assigned users, and the same user can be assigne
     \[Omitted image "Quiz\_Category\_Users.png"\] Alt text: Quiz category users
 
 
-**Parent Topic:**[[c_CreateQuizzesWithForms|Create quizzes with forms]]
+**Parent Topic:**[Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
 **Related topics**  
 
 
 [Create quizzes with forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CreateQuizzesWithForms.md)
 
-[[t_CreateaQuiz|Create a quiz]]
+[Create a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateaQuiz.md)
 
-[[t_SetUpACategory|Set up a category]]
+[Set up a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpACategory.md)
 
-[[r_AvailableDataTypes|Data types for quizzes]]
+[Data types for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AvailableDataTypes.md)
 
-[[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
+[Change the order of an answer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ChangeTheOrderOfAnAnswer.md)
 
-[[t_DistributeAQuiz|Distribute a quiz]]
+[Distribute a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DistributeAQuiz.md)
 
-[[t_ModifyAPublishedQuiz|Modify a published quiz]]
+[Modify a published quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifyAPublishedQuiz.md)
 
-## Related
-
-- [[c_CreateQuizzesWithForms|Create quizzes with forms]]
-- [[t_CreateaQuiz|Create a quiz]]
-- [[t_SetUpACategory|Set up a category]]
-- [[r_AvailableDataTypes|Data types for quizzes]]
-- [[t_ChangeTheOrderOfAnAnswer|Change the order of an answer]]
-- [[t_DistributeAQuiz|Distribute a quiz]]
-- [[t_ModifyAPublishedQuiz|Modify a published quiz]]
-- [[email|Email]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]

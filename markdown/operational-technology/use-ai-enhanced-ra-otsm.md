@@ -12,7 +12,7 @@ breadcrumb: [Use, AI Enhanced Recommended Actions for OTSM, Operational Technolo
 
 # Contextualize an external document
 
-With the [[ai-enhanced-ra-otsm-landing|AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]], contextualize an external document to get an explanation of why the document is relevant to an [[operational-technology-overview|Operational Technology]] \(OT\) incident.
+With the AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\), contextualize an external document to get an explanation of why the document is relevant to an Operational Technology \(OT\) incident.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ot\_incident\_write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the Industrial Workspace list view.
 
@@ -35,11 +35,5 @@ Role required: sn\_ot\_incident\_write
     A summary appears that explains why the selected document is relevant to your OT incident.
 
 
-**Parent Topic:**[[using-ai-enhanced-ra-otsm|Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
+**Parent Topic:**[Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-ai-enhanced-ra-otsm.md)
 
-## Related
-
-- [[using-ai-enhanced-ra-otsm|Using AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[ai-enhanced-ra-otsm-landing|AI Enhanced Recommended Actions for Operational Technology Service Management \(OTSM\)]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

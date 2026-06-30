@@ -22,8 +22,8 @@ Dependencies:
 
 The following plugins must be already installed on your environment:
 
--   [[encryption|Key Management Framework]] Scoped App
--   [[now-platform-encryption|Field Encryption Enterprise]]
+-   Key Management Framework Scoped App
+-   Field Encryption Enterprise
 
 ## About this task
 
@@ -33,9 +33,9 @@ Activating EKMS installs the necessary components to encrypt ServiceNow data wit
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
 
-2.  Under Search your licensed applications and plugins, search for `Platform [[encryption-landing|Encryption]] External Key Management`.
+2.  Under Search your licensed applications and plugins, search for `Platform Encryption External Key Management`.
 
-    The search should reveal the plugin. If you purchase a subscription for External Key Management Service through either Platform Encryption or [[servicenow-vault-landing|ServiceNow Vault]], you can also see this plugin available.
+    The search should reveal the plugin. If you purchase a subscription for External Key Management Service through either Platform Encryption or ServiceNow Vault, you can also see this plugin available.
 
     **Important:** To activate the External Key Management Service, you must first purchase a subscription to either Platform Encryption or ServiceNow Vault and ensure the dependent plugin is installed: Key Management Framework Scoped App.
 
@@ -55,21 +55,12 @@ Next steps:
 -   Set up AWS Key Management Service access within AWS \(the process for this is out of scope of the ServiceNow documentation\)
 -   Configure the EKMS key definition in ServiceNow
 
-**Parent Topic:**[[ekms-configuring-external-key-management|Configuring External Key Management Service]]
+**Parent Topic:**[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
 **Related topics**  
 
 
-[[ekms-external-key-management|External Key Management Service]]
+[External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-external-key-management.md)
 
-[[ekms-configure-external-key-definition|Configure an external key definition]]
+[Configure an external key definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configure-external-key-definition.md)
 
-## Related
-
-- [[ekms-configuring-external-key-management|Configuring External Key Management Service]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[ekms-configure-external-key-definition|Configure an external key definition]]
-- [[encryption|Key Management Framework]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[encryption-landing|Encryption]]
-- [[servicenow-vault-landing|ServiceNow Vault]]

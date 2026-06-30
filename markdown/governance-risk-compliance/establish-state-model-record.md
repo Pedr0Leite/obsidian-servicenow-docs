@@ -12,7 +12,7 @@ breadcrumb: [Setting up the Operational vulnerability module, Completing general
 
 # Set up the State model and Action task model
 
-Set up the Vulnerability state model and Action task model to manage the workflow of the [[exploring-op-vul|Operational vulnerability]] record. These models define the workflow states and transition conditions for a record type and an action task, respectively. Both the Operational vulnerability record type and the action task adhere to the workflow states configured in their corresponding models.
+Set up the Vulnerability state model and Action task model to manage the workflow of the Operational vulnerability record. These models define the workflow states and transition conditions for a record type and an action task, respectively. Both the Operational vulnerability record type and the action task adhere to the workflow states configured in their corresponding models.
 
 ## Before you begin
 
@@ -95,7 +95,7 @@ When the state transition condition is fulfilled, the state gets updated or else
 
 3.  On the State model form, fill in the other fields.
 
-    For more information on the fields, see [[grc-state-model-form-for-op-vul|GRC state model form]].
+    For more information on the fields, see [GRC state model form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-state-model-form-for-op-vul.md).
 
 4.  Select **Submit**.
 
@@ -109,7 +109,4 @@ When the state transition condition is fulfilled, the state gets updated or else
 
 7.  To delete an existing State model, select it from the list and select **Delete**.
 
-## Related
 
-- [[grc-state-model-form-for-op-vul|GRC state model form]]
-- [[exploring-op-vul|Operational vulnerability]]

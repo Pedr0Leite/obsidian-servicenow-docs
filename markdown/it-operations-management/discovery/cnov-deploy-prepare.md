@@ -15,12 +15,12 @@ breadcrumb: [Configuring Kubernetes Visibility Agent, Kubernetes discovery using
 
 # Prepare for Kubernetes Visibility Agent deployment
 
-Prepare your ServiceNow instance and the Kubernetes cluster for [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) deployment.
+Prepare your ServiceNow instance and the Kubernetes cluster for Kubernetes Visibility Agent \(KVA\) deployment.
 
 ## Before you begin
 
 -   Verify that the following applications are installed and activated:
-    -   [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   Kubernetes Visibility Agent \(KVA\) application
 -   Verify that the Kubernetes command line tool kubectl is installed and configured to communicate with your cluster. For more information, see the [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) documentation.
 -   If you plan to use a Helm chart for the installation, verify that the Helm tool is available. For more information, see the [Helm](https://helm.sh/) documentation.
@@ -112,8 +112,3 @@ Your ServiceNow instance and the Kubernetes cluster are ready for KVA deployment
 
 **Parent Topic:**[Configuring Kubernetes Visibility Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-configuring.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

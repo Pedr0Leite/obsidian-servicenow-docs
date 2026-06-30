@@ -14,13 +14,13 @@ breadcrumb: [Skill sensing for learning content, Using My Learning, Learning, Gr
 
 # Add or discard multiple skills with skill sensing
 
-Review and approve the Large Language Model \(LLM\) recommended skills before tagging​ them to the [[exploring-learning-exp|learning]] courses.
+Review and approve the Large Language Model \(LLM\) recommended skills before tagging​ them to the learning courses.
 
 ## Before you begin
 
 Role required: Learning admin
 
-Plugin requirement: [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin \(sn\_hr\_gen\_ai\), [[learning-core_overview|Learning core]] plugin \(sn\_learning\_core\), and [[skills-intelligence|Skills foundation]] plugin \(sn\_skills\_int\).
+Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\), Learning core plugin \(sn\_learning\_core\), and Skills foundation plugin \(sn\_skills\_int\).
 
 ## Procedure
 
@@ -43,9 +43,3 @@ Plugin requirement: [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\
 
 **Parent Topic:**[Skill sensing for learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skill-sensing-for-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[learning-core_overview|Learning Core]]
-- [[skills-intelligence|Skills Foundation]]

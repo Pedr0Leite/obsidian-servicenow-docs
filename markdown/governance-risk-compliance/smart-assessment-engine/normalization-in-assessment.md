@@ -14,7 +14,7 @@ breadcrumb: [Scoring assessments, Use template designer, Manage, Smart Assessmen
 
 # Normalization in assessment
 
-Normalization in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] refers to adjusting assessment question scores to a common scale to promote fair comparison and prioritization.
+Normalization in Smart Assessment Engine refers to adjusting assessment question scores to a common scale to promote fair comparison and prioritization.
 
 ## Exploring normalization
 
@@ -75,6 +75,3 @@ Normalization in Smart Assessment Engine offers numerous benefits, confirms that
 -   Normalization makes it easier to understand and interpret scores, as they’re all on the same scale.
 -   Normalization enables decision-makers to make more informed decisions, as they’re based on a consistent and fair comparison of scores.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

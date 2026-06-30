@@ -14,11 +14,11 @@ breadcrumb: [Reference for Generative AI Controller, Generative AI Controller, N
 
 # Generative AI Controller tables
 
-[[generative-ai-controller|Generative AI Controller]] use dedicated tables to log AI activities and track [[platform-now-assist-landing|Now Assist]] usage across Now Assist capabilities.
+Generative AI Controller use dedicated tables to log AI activities and track Now Assist usage across Now Assist capabilities.
 
 ## Generative AI Log \[sys\_generative\_ai\_log\] table
 
-Logs generative AI [[ai-prompts|prompts]], responses, and edited responses for debugging LLM calls. HR-related log entries are restricted to HR administrator to protect sensitive information.
+Logs generative AI prompts, responses, and edited responses for debugging LLM calls. HR-related log entries are restricted to HR administrator to protect sensitive information.
 
 |Column|Data type|Description|
 |------|---------|-----------|
@@ -85,8 +85,3 @@ Tracks each use of a Now Assist capability triggered from Workflow Studio, Virtu
 |Trial Assists|Integer|Number of assists counted as trial assists.|
 |User|Reference|User associated with the assist usage.|
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]

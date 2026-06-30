@@ -24,7 +24,7 @@ Allocate, manage, and approve budget for your projects. Lean budgeting enables y
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Select **Financials** from the left menu.
 
@@ -53,6 +53,3 @@ Budget widget is updated to reflect the latest approved budget. Project Manager 
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

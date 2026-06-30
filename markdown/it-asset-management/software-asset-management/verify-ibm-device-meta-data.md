@@ -22,11 +22,11 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  From your ServiceNow instance, navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  From your ServiceNow instance, navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
     The Software Asset Workspace launches in a new tab.
 
-2.  Open the [[operations-workspace|License operations view]].
+2.  Open the License operations view.
 
 3.  From the left navigation menu of the License operations view, navigate to **IBM ASP Integration** &gt; **Device settings**.
 
@@ -37,7 +37,7 @@ Role required: sam\_admin or sam\_user
     -   IBM PVUs per core
     -   Region
 
-        **Note:** If the Region meta data is empty for any of your physical hosts, the **Default Region for IBM Devices** \(**sn\_samp\_ibm\_lic.default\_region**\) [[c_SoftwareAssetMgmt|Software Asset Management]] property automatically associates those hosts with a default region. By default, this system property is set to **North America and South America**. However, you can also set this system property to **Europe and Africa** or **Asia and Australia**. License usage can be calculated only for physical hosts that are associated with a region. See [Software Asset Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-properties.md) for more information on this property.
+        **Note:** If the Region meta data is empty for any of your physical hosts, the **Default Region for IBM Devices** \(**sn\_samp\_ibm\_lic.default\_region**\) Software Asset Management property automatically associates those hosts with a default region. By default, this system property is set to **North America and South America**. However, you can also set this system property to **Europe and Africa** or **Asia and Australia**. License usage can be calculated only for physical hosts that are associated with a region. See [Software Asset Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-properties.md) for more information on this property.
 
     -   Usage type
     **Note:** You cannot update the Device, PVU Comment, and IBM PVU mapping meta data.
@@ -51,8 +51,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

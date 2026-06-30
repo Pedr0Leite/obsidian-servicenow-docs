@@ -28,7 +28,7 @@ The database view can show the start date, due date, expiry date, and completed 
 
 **Note:** Any change or update to survey configuration or metadata \(For example, addition or deletion of a new metric or category\) might affect the database view. In such cases, an event \(survey.results\_view.updated\) is generated so that users can take necessary actions to synchronize the data.
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -45,6 +45,3 @@ The database view can show the start date, due date, expiry date, and completed 
 
 [Edit translations for surveys]()
 
-## Related
-
-- [[c_SurveyResults|Survey responses and results]]

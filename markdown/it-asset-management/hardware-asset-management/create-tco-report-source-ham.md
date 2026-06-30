@@ -22,7 +22,7 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset analytics**.
+1.  Navigate to **Hardware Asset Workspace** &gt; **Asset analytics**.
 
 2.  Open the report for which you want to create report sources from the Comparative reports section.
 
@@ -64,7 +64,7 @@ Report table
 
 </td><td>
 
-Table for [[ham-landing-page|Hardware Asset Management]], Hardware \(alm\_hardware\).
+Table for Hardware Asset Management, Hardware \(alm\_hardware\).
 
 </td></tr><tr><td>
 
@@ -99,7 +99,3 @@ The new report source is added to the list of TCO report sources in the **TCO re
 
 [Asset analytics view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/asset-analytics-view.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]

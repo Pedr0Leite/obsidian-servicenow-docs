@@ -34,7 +34,7 @@ Role required: sn\_cd.content\_manager
 
     If you select **Save**, the **Block Content** form remains displayed and the **Translate content** button appears at the top.
 
-    **Note:** Personalized Block Content can't be used for notification, community, or [[ec-to-do-content|to-do content]] types.
+    **Note:** Personalized Block Content can't be used for notification, community, or to-do content types.
 
 5.  To have your content translated into a different language, select **Translate content** to initiate the translation workflow your company has configured.
 
@@ -42,6 +42,4 @@ Role required: sn\_cd.content\_manager
 
     For more information on language translations, see [Configure Localization Framework for Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-int-localization-framework.md).
 
-## Related
 
-- [[ec-to-do-content|To-do content]]

@@ -18,7 +18,7 @@ This Accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Service Operations Workspace provides [[impact-landing-page|Impact]] customers with a comprehensive overview of Service Operations Workspace, showcasing how to unify day-to-day IT Service Management \(ITSM\) and IT Operations Management \(ITOM\) activities in a single, streamlined experience.This accelerator also equips customers with key resources and leading practices to [[io-help|help]] them get started quickly and drive adoption with confidence.
+Jumpstart Your Service Operations Workspace provides Impact customers with a comprehensive overview of Service Operations Workspace, showcasing how to unify day-to-day IT Service Management \(ITSM\) and IT Operations Management \(ITOM\) activities in a single, streamlined experience.This accelerator also equips customers with key resources and leading practices to help them get started quickly and drive adoption with confidence.
 
 ## Package Availability
 
@@ -68,7 +68,3 @@ Jumpstart Your Service Operations Workspace provides [[impact-landing-page|Impac
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

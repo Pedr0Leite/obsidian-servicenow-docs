@@ -12,7 +12,7 @@ breadcrumb: [Mobile icon reference, Mobile icons, Mobile styles, Mobile app comp
 
 # Launcher screen font icons
 
-Use launcher screen font icons in the upper right corner of your mobile screen. They are used as navigation to another screen. Don't use these icons for [[sg-config-quick-actions|quick actions]]. Launcher screen font icons are in the **now-mobile-icons-ALPnavbar** font family.
+Use launcher screen font icons in the upper right corner of your mobile screen. They are used as navigation to another screen. Don't use these icons for quick actions. Launcher screen font icons are in the **now-mobile-icons-ALPnavbar** font family.
 
 ## Usage example
 
@@ -34,9 +34,5 @@ Use launcher screen font icons in the upper right corner of your mobile screen. 
 |Megaphone Solid|e949|New York|\[Omitted image "mab-icon-launch-megafon-sol.png"\] Alt text: Megaphone Solid example|\[Omitted image "mab-icon-launch-megafon-sol-rtl.png"\] Alt text: Reversed Megaphone Solid example|
 |Web-Link Solid|f2d0|New York|\[Omitted image "mab-icon-launch-weblink-sol.png"\] Alt text: Web-Link Solid example| |
 
-**Parent Topic:**[[mobile-icon-reference|Mobile icon reference]]
+**Parent Topic:**[Mobile icon reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-icon-reference.md)
 
-## Related
-
-- [[mobile-icon-reference|Mobile icon reference]]
-- [[sg-config-quick-actions|Quick actions]]

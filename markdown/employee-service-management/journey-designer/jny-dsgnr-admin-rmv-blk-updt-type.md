@@ -26,7 +26,7 @@ Role required: sn\_jny.admin
 
 2.  Press enter.
 
-3.  Search for `[[jny-dsgnr-landing-page-1|Journey designer]]` in the **Application** column.
+3.  Search for `Journey designer` in the **Application** column.
 
     If the **Application** column isn't visible, select the gear icon to add the **Application** column to the **Personalize List Columns**.
 
@@ -52,6 +52,3 @@ Role required: sn\_jny.admin
 
 **Parent Topic:**[Manage Journey designer bulk updates for tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-bulk-update-admnstrtn.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

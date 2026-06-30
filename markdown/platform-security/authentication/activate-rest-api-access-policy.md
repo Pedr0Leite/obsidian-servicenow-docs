@@ -14,7 +14,7 @@ breadcrumb: [REST API access policies, API access policy, Authentication, Access
 
 # Activate REST API access policy
 
-You can activate the REST [[api-access-policy|API Access Policy]] plugin \(com.glide.rest.policy\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the REST API Access Policy plugin \(com.glide.rest.policy\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ You can activate the REST [[api-access-policy|API Access Policy]] plugin \(com.g
 
 The following items are installed with REST API Access Policy:
 
--   Plugins: com.gilde.auth.profile, com.snc.adaptive\_authentication, com.snc.platform.security.[[oauth-inbound-and-outbound|oauth]]
+-   Plugins: com.gilde.auth.profile, com.snc.adaptive\_authentication, com.snc.platform.security.oauth
 -   Tables: sys\_api\_access\_policy, sys\_auth\_profile\_mapping, auth\_policy\_mapping, inbound\_auth\_profile, std\_http\_auth.
 
 For more information, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
@@ -31,9 +31,9 @@ For more information, see [Adaptive authentication](https://raw.githubuserconten
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the REST API Access Policy plugin \(com.glide.rest.policy\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the REST API Access Policy plugin \(com.glide.rest.policy\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -41,9 +41,4 @@ For more information, see [Adaptive authentication](https://raw.githubuserconten
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[api-access-policy|API access policy]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

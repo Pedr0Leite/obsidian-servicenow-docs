@@ -12,7 +12,7 @@ breadcrumb: [Configuring Field Encryption, Field Encryption, Encryption]
 
 # Cryptographic specifications for Field Encryption
 
-Use cryptographic specifications to define the purpose, algorithm, key length, mode, and origin of your [[encryption-landing|encryption]] key.
+Use cryptographic specifications to define the purpose, algorithm, key length, mode, and origin of your encryption key.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: security\_admin and sn\_kmf.cryptographic\_manager or sn\_kmf.adm
 
 This procedure shows how to configure generated keys. A data encryption key \(known as a Module Key\) is automatically populated once you have configured the Crypto Specifications.
 
-For customer-supplied key [[sc-configuration|configuration]], see [[fe-config-customer-supplied-keys|Configure Customer-supplied keys for Field Encryption Enterprise]].
+For customer-supplied key configuration, see [Configure Customer-supplied keys for Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-config-customer-supplied-keys.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience**.
 
 2.  Select **View module details** from the **Field Encryption modules** overview to open the module record you want to configure.
 
@@ -300,12 +300,5 @@ Displays the algorithm used to accomplish the crypto purpose.
 
 For information on using a customer supplied key, see [Configure Customer-supplied keys for Field Encryption Enterprise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/fe-config-customer-supplied-keys.md).
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[fe-config-customer-supplied-keys|Configure Customer-supplied keys for Field Encryption Enterprise]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[field-encryption|Field Encryption]]

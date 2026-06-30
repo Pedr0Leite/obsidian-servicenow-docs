@@ -14,7 +14,7 @@ breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Po
 
 # Work with Needs attention panels in Digital Portfolio Management
 
-[[dpm-landing|Digital Portfolio Management]] \(DPM\) enables you to view items that need attention in the context of your solutions. Categories in each Needs attention panel differ based on the solution type. You may not act on an item that needs attention, but you can see its status and severity to make data-driven decisions about your solutions.
+Digital Portfolio Management \(DPM\) enables you to view items that need attention in the context of your solutions. Categories in each Needs attention panel differ based on the solution type. You may not act on an item that needs attention, but you can see its status and severity to make data-driven decisions about your solutions.
 
 Each DPM Workspace page has a Needs attention panel that presents items that need attention in the context of the page. You can search items that need attention on the DPM home page but it's more useful to search while viewing a portfolio or a solution.
 
@@ -26,7 +26,7 @@ Standard Needs attention panels were introduced in the Utah release \(May 2023\)
 
 Admins update the system property with the DPM admin \[sn\_dpm.dpm\_admin\] role.
 
--   Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **[[settings-mobile|Settings]]**.
+-   Navigate to **All** &gt; **Digital Portfolio Management** &gt; **Administration** &gt; **Settings**.
 -   Enter `*needs` in the **System Properties Name** search field, and then press **Enter**.
 -   Select the system property \[sn\_dpm.standard\_needs\_attention\].
 -   Release the record to edit it, and then set the property to false or true.
@@ -39,7 +39,7 @@ To see problems in the Needs attention panel, you must be using the DPM August 2
 You can identify problems on the following solutions.
 
 -   Services and service offerings. Problems are related to the service offering via the service offering record on the form, impacted services related list, and on the affected CIs related list. Problems are then rolled up to the parent service and should be deduplicated at the parent service level.
--   Business [[dex-workspace-application-tab|applications]]. Problems are related to the service instance via the configuration item field on the form. Problems are then rolled up from the service instance to the business application and should be deduplicated at the parent service level.
+-   Business applications. Problems are related to the service instance via the configuration item field on the form. Problems are then rolled up from the service instance to the business application and should be deduplicated at the parent service level.
 -   Service instances. Problems are related to the service instance via the configuration item field on the form.
 
 ## Service instance considerations
@@ -59,7 +59,7 @@ Also, after the service instances are added, the data is rolled up in the follow
 -   Select **View details** on any affected solution page.
 -   View the Run tab of any solution page to view the key performance indicators \(KPIs\).
 
-This functionality applies to enterprise business application portfolios, enterprise service instance portfolios, and to any business application or service instance added to your [[dpm-personal-portfolio|personal portfolios]].
+This functionality applies to enterprise business application portfolios, enterprise service instance portfolios, and to any business application or service instance added to your personal portfolios.
 
 ## Panel attributes and icons
 
@@ -122,7 +122,7 @@ Critical incidents, outages, and changes are linked to the offering to display i
 -   Included in the affected services or the affected CI related lists, or both.
 -   Rolled up to the parent service level when an incident or change is related to an offering \(via a related list or directly on the form\).
 
-**Note:** By default, you see critical incidents. To see critical and major incidents, the Major [[c_IncidentManagement|Incident Management]] plugin \(com.snc.incident.mim\) must be installed.
+**Note:** By default, you see critical incidents. To see critical and major incidents, the Major Incident Management plugin \(com.snc.incident.mim\) must be installed.
 
 ## Panel options for each DPM solution
 
@@ -172,7 +172,7 @@ Business applications
 To see Risk data, you must have the Technology Portfolio Management plugin installed \[sn\_apm\_tpm\]. This plugin has two dependency plugins:
 
 -   Application Portfolio Management \[com.snc.apn\]
--   Software [[c_AssetManagement|Asset Management]] \[com.snc.sams\]
+-   Software Asset Management \[com.snc.sams\]
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Work with solution data in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-working-with.md)
@@ -182,11 +182,3 @@ To see Risk data, you must have the Technology Portfolio Management plugin insta
 
 [Configure Needs attention panels in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-needs-attention.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_AssetManagement|Asset Management]]

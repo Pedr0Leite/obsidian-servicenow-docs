@@ -46,8 +46,5 @@ You can embed CPQ in a Lightning Web Component \(LWC\) in a Salesforce org. This
     If you are passing the configuration URL as a parameter, include a Runtime Token in the URL \(for example,`?rt=xxxxxxxxxxxx`\)
 
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[use-cases|Use cases]]

@@ -12,7 +12,7 @@ breadcrumb: [Customer Contracts and Entitlements reference, Configure, price, qu
 
 # Entitlement form
 
-The Entitlement form can be used to create entitlements in [[exploring-post-sales-support|Customer Contracts and Entitlements]].
+The Entitlement form can be used to create entitlements in Customer Contracts and Entitlements.
 
 <table id="table_jtd_tbk_bzb"><thead><tr><th>
 
@@ -55,7 +55,7 @@ Account
 The name of the account associated with this contract.**Note:**
 
 -   A customer contract can be associated with either an account or a consumer.
--   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the [[fields|fields]] in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
+-   An account can be created if no account is found by selecting **New** on the Accounts form. For more information on the fields in the Account form, see [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
 
 </td></tr><tr><td>
 
@@ -279,10 +279,5 @@ Cumulative net price
 Represents the total price of the contract line by calculating the roll-up amount of all root lines.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[pss-reference|Customer Contracts and Entitlements reference]]
+</table>**Parent Topic:**[Customer Contracts and Entitlements reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pss-reference.md)
 
-## Related
-
-- [[pss-reference|Customer Contracts and Entitlements reference]]
-- [[exploring-post-sales-support|Customer Contracts and Entitlements]]
-- [[fields|Fields]]

@@ -22,7 +22,7 @@ Role required: admin, sn\_csm\_case\_types.service\_definition\_admin, or sn\_cs
 
 You can associate user-specific criteria such as role, assignment group, or specific user with a service definition to determine which users can access and use that service to create a case.
 
-For example, you can configure user criteria for [[csm-service-definitions|service definitions]] like Product Recall or New Product Launch in Store so that only regional managers or operational managers in designated groups can use those services to create cases.
+For example, you can configure user criteria for service definitions like Product Recall or New Product Launch in Store so that only regional managers or operational managers in designated groups can use those services to create cases.
 
 ## Procedure
 
@@ -46,6 +46,4 @@ For example, you can configure user criteria for [[csm-service-definitions|servi
 
 6.  Select **Submit**.
 
-## Related
 
-- [[csm-service-definitions|Service definitions]]

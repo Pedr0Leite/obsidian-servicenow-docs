@@ -14,14 +14,14 @@ breadcrumb: [Use, Compliance Case Management, Governance, Risk, and Compliance]
 
 # Perform smart assessment on action tasks
 
-Use the **Tasks** page on the [[employee-center|Employee Center]] for a consolidated view of all your tasks, including all assessments, enabling you to access and complete them efficiently.
+Use the **Tasks** page on the Employee Center for a consolidated view of all your tasks, including all assessments, enabling you to access and complete them efficiently.
 
 ## Before you begin
 
 Ensure that:
 
 -   The **sn\_grc\_case\_mgmt.enable\_smart\_assessments** system property is enabled.
--   The [[airc-assessment-templates|assessment templates]] are configured and published.
+-   The assessment templates are configured and published.
 
 Role required: sn\_comp\_case.compliance\_case\_business\_user
 
@@ -45,7 +45,7 @@ When a compliance case action task moves from **Draft** to **Assigned** state, a
 
 6.  On the success dialog box, select **OK**.
 
-7.  After you [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], to view the assessment, select **View**.
+7.  After you submit the assessment, to view the assessment, select **View**.
 
 
 ## Result
@@ -54,8 +54,3 @@ After the assessment is submitted, the state of the assessment gets updated to *
 
 **Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/use-compliance-case-management.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

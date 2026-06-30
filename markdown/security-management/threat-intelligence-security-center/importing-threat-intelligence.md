@@ -14,7 +14,7 @@ breadcrumb: [Use, Threat Intelligence Security Center, Security Operations]
 
 # Import Intelligence in TISC
 
-Use this feature to manually import [[threat-intel-landing-page|threat intelligence]] data into the repository, enabling analysts to ingest the relevant information from external sources as needed.
+Use this feature to manually import threat intelligence data into the repository, enabling analysts to ingest the relevant information from external sources as needed.
 
 The following formats are supported for importing threat intelligence data:
 
@@ -40,8 +40,8 @@ Download the sample file using the Preview link, and upload your structured data
 
 </td><td>
 
--   [[c_Observables|Observables]]
--   [[indicator|Indicators]]
+-   Observables
+-   Indicators
 
 </td></tr><tr><td>
 
@@ -103,8 +103,3 @@ Upload the data in an unstructured format supported using the file formats such 
 
 [Import data using unstructured file format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/import-data-using-unstructured-file.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

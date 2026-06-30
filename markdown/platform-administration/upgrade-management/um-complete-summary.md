@@ -14,7 +14,7 @@ breadcrumb: [Monitor an upgrade to an instance, Upgrade Monitor tool in Upgrade 
 
 # Upgrade Summary Report
 
-The [[uc-complete-summary|Upgrade Summary report]] summarizes the actions taken, provides tools to resolve conflicts between customizations and changes that are part of the upgrade, and provides information to help estimate time for upgrades to other instances.
+The Upgrade Summary report summarizes the actions taken, provides tools to resolve conflicts between customizations and changes that are part of the upgrade, and provides information to help estimate time for upgrades to other instances.
 
 \[Omitted image "uc-complete-summary1.png"\] Alt text: Image showing summary report of the recently completed upgrade
 
@@ -158,14 +158,10 @@ The Top 10 Schema Changes by Duration helps you understand which schema changes 
 
 \[Omitted image ""\] Alt text:
 
-The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade [[c_MetricDefinitionSupport|Metrics]]** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-view-loaded-files-plugin.md) for more information.
+The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade Metrics** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-view-loaded-files-plugin.md) for more information.
 
 -   **[View loaded files for a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-view-loaded-files-plugin.md)**  
 Get a related list view of all the files loaded for a plugin by clicking **View all plugin duration**.
 
 **Parent Topic:**[Monitor an upgrade to an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-monitor-instance-upgrade.md)
 
-## Related
-
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[c_MetricDefinitionSupport|Metrics]]

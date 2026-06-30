@@ -12,7 +12,7 @@ breadcrumb: [Push notifications, Before implementation, Configuration detail, Co
 
 # Configure actionable push notifications
 
-Include actions with your [[sg-mobile-security-push-notif|push notifications]]. Users can perform push notification actions without opening the app.
+Include actions with your push notifications. Users can perform push notification actions without opening the app.
 
 <table id="table_mtx_yvm_ylb"><tbody><tr><td>
 
@@ -45,34 +45,22 @@ Create actionable push notifications using the following process:
 6.  Create a standard notification on your instance using the platform notifications.
 
 
--   **[[actionable-push-notification-1|Create an actionable push notification]]**  
+-   **[Create an actionable push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-1.md)**  
 Create a push notification your users will see on their mobile devices.
--   **[[actionable-push-notification-1a|Actionable push notification script example]]**  
+-   **[Actionable push notification script example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-1a.md)**  
 You can use this JSON script example to configure an actionable push notification for ServiceNow® mobile apps.
--   **[[actionable-push-notification-2|Add a push action category]]**  
+-   **[Add a push action category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-2.md)**  
 Select a push category to determine what actions your users can take in a notification. This category defines which actions your users can take when viewing a notification.
--   **[[actionable-push-notification-2-3|Create a push action]]**  
+-   **[Create a push action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-2-3.md)**  
 Create push actions to suit your needs, when the base system actions do not meet your requirements.
--   **[[actionable-push-notification-3|Create functions for each push action]]**  
+-   **[Create functions for each push action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-3.md)**  
 Create mobile function for each function in the selected action category. These actions perform tasks on your instance based on what the user selects in the notification.
--   **[[actionable-push-notification-4|Map functions with push actions on the actionable push notification]]**  
+-   **[Map functions with push actions on the actionable push notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-4.md)**  
 Associate functions to the actions in your notification so the instance uses the correct function for each action.
--   **[[actionable-push-notification-5|Create push message content]]**  
+-   **[Create push message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-5.md)**  
 Create a record to determine what information the notification displays to your users.
--   **[[actionable-push-notification-6|Create a standard notification]]**  
+-   **[Create a standard notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification-6.md)**  
 Create a standard notification on your instance using the platform notifications.
 
-**Parent Topic:**[[sg-mobile-push-notifications|Mobile push notifications]]
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[actionable-push-notification-1|Create an actionable push notification]]
-- [[actionable-push-notification-1a|Actionable push notification script example]]
-- [[actionable-push-notification-2|Add a push action category]]
-- [[actionable-push-notification-2-3|Create a push action]]
-- [[actionable-push-notification-3|Create functions for each push action]]
-- [[actionable-push-notification-4|Map functions with push actions on the actionable push notification]]
-- [[actionable-push-notification-5|Create push message content]]
-- [[actionable-push-notification-6|Create a standard notification]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

@@ -18,9 +18,9 @@ Service Graph Connector for Observability - Dynatrace properties control the beh
 
 ## Connection properties
 
-These connection properties are available for [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]].
+These connection properties are available for Service Graph Connector for Observability - Dynatrace.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Dynatrace Observability** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Dynatrace Observability** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_tmg_rjm_lzb"><thead><tr><th>
 
@@ -99,7 +99,7 @@ saveRESTResponseAsAttachment​
 
 </td><td>
 
-Set the property to `true` to use the SGO-Dynatrace Fetch Entities For Larger Payload action flow and save the response from Dynatrace as an [[attachment|attachment]] with a `.json` extension. ​​Set the property to `false` to use the dedicated action flow and consume the response from Dynatrace as a data stream for processing.​
+Set the property to `true` to use the SGO-Dynatrace Fetch Entities For Larger Payload action flow and save the response from Dynatrace as an attachment with a `.json` extension. ​​Set the property to `false` to use the dedicated action flow and consume the response from Dynatrace as a data stream for processing.​
 
 -   Type: true \| false
 -   Default value: `false`
@@ -208,9 +208,3 @@ Set the property to `true` to ingest events that don't have a matching CI in CMD
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-integration-dynatrace|Service Graph Connector for Observability - Dynatrace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[attachment|Attachment]]

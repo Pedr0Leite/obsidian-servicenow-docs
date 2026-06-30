@@ -14,7 +14,7 @@ breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life S
 
 # Vaccine Administration Management system properties
 
-[[hcls-vam|Vaccine Administration Management]] booking uses the following system properties. Users with the admin role can access the property settings by navigating to **All** &gt; **Vaccine Administration Management** &gt; **Administration** &gt; **Properties**.
+Vaccine Administration Management booking uses the following system properties. Users with the admin role can access the property settings by navigating to **All** &gt; **Vaccine Administration Management** &gt; **Administration** &gt; **Properties**.
 
 <table id="table_z52_hsw_p4b"><thead><tr><th>
 
@@ -302,7 +302,3 @@ Enable or disable scoped cache for use with the application.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

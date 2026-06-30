@@ -14,7 +14,7 @@ breadcrumb: [Updating and synchronizing signatories, Use self-served contract re
 
 # Resolve the failure to send contract documents for signature \(starting with Contract Management Pro 1.2.1\)
 
-Update signatory details in an external contract document in [[cncore-cmpro-landing-page|Contract Management Pro]] when there is a failure in sending the document for signature due to a mismatch between the signatory information in the contract request and the contract document.
+Update signatory details in an external contract document in Contract Management Pro when there is a failure in sending the document for signature due to a mismatch between the signatory information in the contract request and the contract document.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_fulfiller
 
 **Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

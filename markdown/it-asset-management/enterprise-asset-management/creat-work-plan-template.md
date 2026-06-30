@@ -22,7 +22,7 @@ Role required: sn\_eam.asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  Select the **Work order plan templates** tab.
 
@@ -60,7 +60,7 @@ Primary target
 
 </td><td>
 
-Asset or asset group for which the work order plan template is created. When you [[select-daas-asset|select an asset]] group, all assets in the asset group are automatically added to the Affected assets list.
+Asset or asset group for which the work order plan template is created. When you select an asset group, all assets in the asset group are automatically added to the Affected assets list.
 
 **Note:** This field is required.
 
@@ -109,7 +109,3 @@ Use this work order plan template when you [create a work order plan](https://ra
 
 [Create a work order plan for enterprise assets]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

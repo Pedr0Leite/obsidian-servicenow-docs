@@ -36,7 +36,7 @@ Walk-up Experience offers a convenient and efficient way for users to seek immed
 
 </td><td>
 
-[Manage\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:[[use-walkup-to-manage-demand|Manage Walk-up Experience queue and interaction]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/use-walkup-to-manage-demand.md)
+[Manage\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Manage Walk-up Experience queue and interaction.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/use-walkup-to-manage-demand.md)
 
 </td></tr><tr><td>
 
@@ -44,11 +44,11 @@ Walk-up Experience offers a convenient and efficient way for users to seek immed
 
 </td><td>
 
-[Walk-up on Now Mobile®.\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Explore [[walk-up-experience-now-mobile|Walk-up Experience on Now Mobile]]®.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-now-mobile.md)
+[Walk-up on Now Mobile®.\[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Explore Walk-up Experience on Now Mobile®.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-now-mobile.md)
 
 </td></tr><tr><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text: Get additional information about the Walk-up Experience service.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text: Get additional information about the Walk-up Experience service.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-reference.md)
 
 </td><td>
 
@@ -60,8 +60,3 @@ Walk-up Experience offers a convenient and efficient way for users to seek immed
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[use-walkup-to-manage-demand|Manage Walk-up Experience queue and interaction]]
-- [[walk-up-experience-now-mobile|Walk-up Experience on Now Mobile]]
-- [[reference-for-itsm-mobile-agent|Reference]]

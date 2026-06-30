@@ -58,11 +58,7 @@ The entity is created. The New Entity form is displayed with the **Details** tab
 
 ## What to do next
 
-[[update-an-entity|Update an entity]]
+[Update an entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/update-an-entity.md)
 
-**Parent Topic:**[[entities-in-esg|Manage entities in Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Manage entities in Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/entities-in-esg.md)
 
-## Related
-
-- [[update-an-entity|Update an entity]]
-- [[entities-in-esg|Manage entities in Operational Sustainability Management \(formerly ESG Management\)]]

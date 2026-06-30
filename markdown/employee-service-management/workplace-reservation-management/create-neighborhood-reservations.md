@@ -46,19 +46,19 @@ Steps
 
 </td><td>
 
-Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 </td></tr><tr><td id="d753265e119">
 
-**From [[employee-center-landing-page|Employee Center]] Portal**
+**From Employee Center Portal**
 
 </td><td>
 
 -   Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
--   On the Employee Center portal, select **[[workplace-services|Workplace Services]]** &gt; **Browse Workplace Services**.
+-   On the Employee Center portal, select **Workplace Services** &gt; **Browse Workplace Services**.
 -   Select the **New general reservation** card.
 
-[[reservation-portal|Make a reservation]] portal page opens for you to make workplace reservations.
+Make a reservation portal page opens for you to make workplace reservations.
 
 -   Another way to make reservation is to use chat icon. On the home page, select the chat icon \(\[Omitted image "chat-icon.png"\] Alt text: Chat icon.\). To make a reservation, enter your question or select **Show Me Everything** to select from the list of available options.
 
@@ -108,11 +108,11 @@ Floor of a building where you want to make a reservation.The floor names are eit
 
 </td></tr><tr><td>
 
-From**Note:** The time directive fields \(From, time, To\) are also available on the MESP \(Mobile Employee Service Portal\) on the [[mobile-employee-experience|Now Mobile app]].
+From**Note:** The time directive fields \(From, time, To\) are also available on the MESP \(Mobile Employee Service Portal\) on the Now Mobile app.
 
 </td><td>
 
-Start date of your reservation. For a single day reservation, only the **From** field is shown and not the option to enter the end date.-   Employees can't select a date and [[create-reservation-request-1|create a reservation]] if the start date exceeds the Max days in future Reservable module value. Thisn’t value is configured on the Reservable module by your administrator. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
+Start date of your reservation. For a single day reservation, only the **From** field is shown and not the option to enter the end date.-   Employees can't select a date and create a reservation if the start date exceeds the Max days in future Reservable module value. Thisn’t value is configured on the Reservable module by your administrator. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
 When the Max days in future value is configured by your administrator, you can’t select a date past the max allowed date. The dates in the calendar date picker are inactive for dates that are too far in future.
 
@@ -200,7 +200,7 @@ Reserve multiple workplace items spanning multiple buildings. The buildings time
 
     The bottom pane shows the number of items that you've selected from the search results.
 
-9.  Select the **Map view** tab if your organization is using [[Indoor-mapping|Indoor Mapping]] for interactive locations and wayfinding.
+9.  Select the **Map view** tab if your organization is using Indoor Mapping for interactive locations and wayfinding.
 
     The floor map shows the neighborhood spaces based on the availability and employee assignment.
 
@@ -254,12 +254,3 @@ Reserve multiple workplace items spanning multiple buildings. The buildings time
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[reservation-portal|Make a reservation]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[Indoor-mapping|Indoor Mapping]]

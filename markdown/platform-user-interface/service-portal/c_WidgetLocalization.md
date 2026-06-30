@@ -14,7 +14,7 @@ breadcrumb: [Developing custom widgets, Service Portal, Configure UIs and portal
 
 # Internationalize a widget
 
-Use the `${}` or `gs.getMessage()` syntax in the **HTML Template**, **Client Script**, or **Server Script** fields of a widget to tag strings for translation so you can localize your [[c_ServicePortal|Service Portal]] content.
+Use the `${}` or `gs.getMessage()` syntax in the **HTML Template**, **Client Script**, or **Server Script** fields of a widget to tag strings for translation so you can localize your Service Portal content.
 
 The `${}` or `gs.getMessage()` searches in the messages table \[sys\_ui\_message\] in the platform to see what the translation would be.
 
@@ -73,6 +73,3 @@ HTML template
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

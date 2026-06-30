@@ -125,7 +125,7 @@ safe\_scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the following visualizations:
 
 -   Sprint Burnup
 -   Sprint Cumulative Flow Diagram
@@ -213,6 +213,3 @@ Monitor the progress of all the stories of your sprint between its actual start 
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]

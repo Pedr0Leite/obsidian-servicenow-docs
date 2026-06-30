@@ -40,7 +40,7 @@ Agile Release Train \(ART\)
 
 </td><td>
 
-As a product manager, you can plan and monitor activities across teams within an ART by accessing the **ART** level on the **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**. In addition, you can:-   manage the ART backlog in a centralized location.
+As a product manager, you can plan and monitor activities across teams within an ART by accessing the **ART** level on the **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**. In addition, you can:-   manage the ART backlog in a centralized location.
 -   define a program increment and identify the features that need to be completed within that program increment.
 -   perform big room planning.
 -   track all the features of the ART and view their transition from one state \(lane\) to another, in a visual task board.
@@ -59,9 +59,9 @@ As a team member, you can plan and monitor activities within the team by accessi
 </table>-   **[Components installed with Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/installed-with-EssentialSAFe.md)**  
 Several types of components are installed with activation of the Agile - Scaled Agile Framework - Essential SAFe plugin \(com.snc.sdlc.safe\), including tables and user roles.
 -   **[Quick start tests for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/quick-start-tests-essentialSAFe.md)**  
-Validate that Essential SAFe still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that Essential SAFe still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 -   **[SAFe entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/key-entities-SAFe.md)**  
-Learn about the various [[key-entities-SAFe|SAFe entities]] that are used to successfully plan, track, and deliver your software products.
+Learn about the various SAFe entities that are used to successfully plan, track, and deliver your software products.
 -   **[SAFe PI objectives](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-pi-objectives.md)**  
 Use SAFe program increment \(PI\) objectives to highlight the overall goals for a team or for an agile release train \(ART\) in a PI.
 -   **[SAFe Board — ART level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/program-level-tabs.md)**  
@@ -86,8 +86,3 @@ As a team member, you can plan and monitor activities within your team by access
 
 [Work Progress Status for SAFe]()
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[c_Tests|Tests]]
-- [[key-entities-SAFe|SAFe entities]]

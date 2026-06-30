@@ -12,11 +12,11 @@ breadcrumb: [Activity Management reference, Lead and opportunity management, Ref
 
 # Create new meeting form
 
-Field descriptions for editing or reviewing details on the Create New Meeting form for [[explore-crm-touchpoints|CRM Touchpoints]].
+Field descriptions for editing or reviewing details on the Create New Meeting form for CRM Touchpoints.
 
 Field availability depends on the selected State and whether the Virtual meeting option is selected.
 
--   When State is set to Scheduled, the following [[fields|fields]] become available: Invitees, Video software, Cadence, Location, Virtual meeting, and Meeting link.
+-   When State is set to Scheduled, the following fields become available: Invitees, Video software, Cadence, Location, Virtual meeting, and Meeting link.
 -   When State is set to Completed or Canceled, the following fields become read-only: Meeting type, Video software, Cadence, Location, Virtual meeting, and Meeting link.
 -   When State is set to Scheduled and Virtual meeting is unselected, Video software and Meeting link are unavailable.
 
@@ -183,16 +183,10 @@ Internal notes
 Post-meeting observations and follow-up actions for internal teams. This field supports rich text formatting.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+</table>**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[schedule-meeting-touchpoint|Schedule a meeting from a touchpoint]]
+[Schedule a meeting from a touchpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/schedule-meeting-touchpoint.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[schedule-meeting-touchpoint|Schedule a meeting from a touchpoint]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]
-- [[fields|Fields]]

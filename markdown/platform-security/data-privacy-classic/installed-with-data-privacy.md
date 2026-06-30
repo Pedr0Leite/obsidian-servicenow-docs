@@ -14,7 +14,7 @@ breadcrumb: [Data privacy \(Classic\), Data Privacy, Platform Privacy]
 
 # Installed with data privacy \(Classic\)
 
-Learn about the components installed with the [[data-privacy-landing|data privacy]] plugin \(com.glide.data\_privacy\).
+Learn about the components installed with the data privacy plugin \(com.glide.data\_privacy\).
 
 ## Tables installed
 
@@ -88,7 +88,7 @@ Data privacy classified field techniques
 
 </td></tr><tr><td>
 
-Privacy [[sc-configuration|Configuration]]
+Privacy Configuration
 
  \[dp\_configuration\]
 
@@ -128,8 +128,3 @@ Parameter values used in Data privacy techniques with parameters.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]

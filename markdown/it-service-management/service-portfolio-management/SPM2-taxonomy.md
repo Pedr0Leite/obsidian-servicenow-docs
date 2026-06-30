@@ -14,7 +14,7 @@ breadcrumb: [Create a portfolio, Use, Service Portfolio Management, IT Service M
 
 # Service Portfolio Management taxonomy
 
-[[SPM2-landing-page|Service Portfolio Management]] uses a taxonomy framework to organize and manage services in a portfolio.
+Service Portfolio Management uses a taxonomy framework to organize and manage services in a portfolio.
 
 ## Portfolio structures
 
@@ -28,7 +28,7 @@ If you’re working in a legacy portfolio structure, then your taxonomy framewor
 
 \[Omitted image "spm2-taxo-layers.png"\] Alt text: Legacy portfolio structure taxonomy example.
 
-In this example, there are two service portfolios - IT Service portfolio and Smart [[dex-workspace-devices-tab|devices]] portfolio.
+In this example, there are two service portfolios - IT Service portfolio and Smart devices portfolio.
 
 -   Below the service portfolios are the layers. You can have 1 to N layers and they can be a taxonomy node or a taxonomy leaf node, or both.
 -   Below the layers and leaf nodes are the services and service offerings.
@@ -47,7 +47,7 @@ In this example, there’s one service portfolio at the top — Smart devices.
     -   Assign multiple nodes \(rather than layers\) for more flexibility as you structure your service portfolios. For example, a single portfolio can have multiple levels of depth via node-to-node relationships.
 -   Below the taxonomy node levels are the services and service offerings.
 
-    **Note:** You can see a visual relationship map of nodes, services, and service offerings in [[dpm-landing|Digital Portfolio Management]] \(DPM\). For more information, see [Getting started with Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-using-cfx.md).
+    **Note:** You can see a visual relationship map of nodes, services, and service offerings in Digital Portfolio Management \(DPM\). For more information, see [Getting started with Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-using-cfx.md).
 
 
 -   **[Create taxonomy layer definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/create-or-mod-SPM2-taxonomy-layers.md)**  
@@ -66,8 +66,3 @@ Create an unlimited number of nodes, or branches, and add them to your service p
 
 [View relationship maps in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-view-relationship-map.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dpm-landing|Digital Portfolio Management]]

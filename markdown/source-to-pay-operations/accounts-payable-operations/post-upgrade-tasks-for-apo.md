@@ -15,7 +15,7 @@ breadcrumb: [Upgrade Accounts Payable Operations, Components installed with Acco
 
 # Post upgrade tasks for APO
 
-Review and complete required post-upgrade tasks after upgrading [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Review and complete required post-upgrade tasks after upgrading Accounts Payable Operations.
 
 ## Upgrade configuration for Accounts Payable Operations integration with Document Intelligence
 
@@ -144,7 +144,7 @@ Role required: maint
 
 ## Run scheduled job for cost allocation
 
-Run a scheduled job to copy [[cost-allocations|cost allocations]] from invoice line to [[purchase-order-table|purchase order]] line when upgrading Accounts Payable Operations from lower to higher version.
+Run a scheduled job to copy cost allocations from invoice line to purchase order line when upgrading Accounts Payable Operations from lower to higher version.
 
 ### Before you begin
 
@@ -164,12 +164,6 @@ Role required: admin
 
 4.  Select **Save** and **Execute Now**.
 
-    During the [[upgrade|upgrade Accounts Payable Operations]], cost allocation is auto-updated when [[purchase-order-lines|purchase order lines]] are mapped to invoice lines.
+    During the upgrade Accounts Payable Operations, cost allocation is auto-updated when purchase order lines are mapped to invoice lines.
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[cost-allocations|Cost allocations]]
-- [[purchase-order-table|Purchase order]]
-- [[upgrade|Upgrade Accounts Payable Operations]]
-- [[purchase-order-lines|Purchase order lines]]

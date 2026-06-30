@@ -18,11 +18,11 @@ JSON Web Tokens \(JWTs\) enable the capability to configure server-to-server API
 
 ## Before you begin
 
-Role required: [[oauth-inbound-and-outbound|oauth]]\_admin
+Role required: oauth\_admin
 
 ## About this task
 
-The following tasks show how ServiceNow can be set up to use JWTs for [[c_OAuthApplications|OAuth 2.0]] client [[c_Authentication|authentication]] and authorization grants. ServiceNow is the OAuth client, and you can configure an OAuth provider, such as Box or Docusign.
+The following tasks show how ServiceNow can be set up to use JWTs for OAuth 2.0 client authentication and authorization grants. ServiceNow is the OAuth client, and you can configure an OAuth provider, such as Box or Docusign.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ The following tasks show how ServiceNow can be set up to use JWTs for [[c_OAuthA
 
 4.  [Connect to a third-party OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/connect-3rd-party-oauth-provider.md)
 
-    Create a third-party OAuth provider with a [[jwt-bearer|JWT Bearer]] as the default grant type in the ServiceNow Application Registry.
+    Create a third-party OAuth provider with a JWT Bearer as the default grant type in the ServiceNow Application Registry.
 
 5.  [Specify an OAuth profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_SpecifyAnOAuthProfile.md)
 
@@ -83,7 +83,7 @@ Designate whom to notify when the certificate expires.
 
 </td><td>
 
-Send an [[email|email]] notification to your certificate manager before your certificate expires.
+Send an email notification to your certificate manager before your certificate expires.
 
 </td></tr><tr><td id="d252009e231">
 
@@ -151,7 +151,7 @@ Role required: oauth\_admin
 
 </td><td>
 
-A unique name for your JWT Key signing [[sc-configuration|configuration]].
+A unique name for your JWT Key signing configuration.
 
 </td></tr><tr><td id="d252009e370">
 
@@ -237,12 +237,3 @@ The ServiceNow JWT signing key configuration to apply.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[c_Authentication|Authentication]]
-- [[jwt-bearer|JWT Bearer]]
-- [[email|Email]]
-- [[sc-configuration|Configuration]]

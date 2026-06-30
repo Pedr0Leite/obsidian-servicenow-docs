@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Pause utility
 
-Use the Pause utility to create a temporary halt in your [[virtual-agent-landing-page|Virtual Agent]] conversations.
+Use the Pause utility to create a temporary halt in your Virtual Agent conversations.
 
 ## Pause utility properties
 
@@ -71,6 +71,3 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

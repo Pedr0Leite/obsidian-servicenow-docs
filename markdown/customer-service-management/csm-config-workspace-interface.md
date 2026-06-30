@@ -14,7 +14,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 The CSM Configurable Workspace interface provides agents with the tools and information they need to resolve interactions and cases.
 
-\[Omitted image "csm-config-workspace-interface.png"\] Alt text: The CSM Configurable Workspace interface provides information such as record details, the [[csm-config-ws-activity-stream|activity stream]], and tools in the contextual side panel such as [[configure-nba|recommended actions]] and templates.
+\[Omitted image "csm-config-workspace-interface.png"\] Alt text: The CSM Configurable Workspace interface provides information such as record details, the activity stream, and tools in the contextual side panel such as recommended actions and templates.
 
 ## Multi-tab interface
 
@@ -36,20 +36,20 @@ Agents get a complete view of a customer's history, including interactions, prod
 -   Customer History: Displays customer, consumer, or account history information in the form of a filtered activity feed.
 -   Activity stream: Displays a running history of updates and communications within a record such as field updates, comments, work notes, and emails.
 -   Contextual side panel: Includes tabs that agents can use to view record information, SLA details, and attachments.
--   Related [[migration-lists|lists]]: Show records from other tables that are linked to the current record like case tasks or work orders.
+-   Related lists: Show records from other tables that are linked to the current record like case tasks or work orders.
 
 ## Record details
 
-In [[csm-workspaces-configure|CSM Configurable Workspace]], each case or interaction record includes information about the customer or consumer, the product or service, and a short description of the issue being addressed. It can also include information about the record priority, state, and agent assignment.
+In CSM Configurable Workspace, each case or interaction record includes information about the customer or consumer, the product or service, and a short description of the issue being addressed. It can also include information about the record priority, state, and agent assignment.
 
-Depending on the record page configuration, record details can be found in the Details tab or in a case or interaction details component. For example, the [[csm-front-line-case-page|Front-line case page]] includes a case details component with the following collapsible sections:
+Depending on the record page configuration, record details can be found in the Details tab or in a case or interaction details component. For example, the [Front-line case page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md) includes a case details component with the following collapsible sections:
 
 -   Case
 -   Notes
 -   Closure Information
 -   Related Records
 
-The [[csm-default-record-page|CSM default record page]] includes a Details tab as the first record sub-tab.
+The [CSM default record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md) includes a Details tab as the first record sub-tab.
 
 ## Contextual side panel
 
@@ -63,7 +63,7 @@ The contextual side panel component includes different tools that agents can use
 -   Email Templates
 -   Related Lists
 
-For more information, see [[csm-config-ws-side-panel-components|CSM Configurable Workspace contextual side panel components]].
+For more information, see [CSM Configurable Workspace contextual side panel components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-side-panel-components.md).
 
 ## Agent inbox
 
@@ -75,12 +75,3 @@ For more information about the agent inbox, see the following topics:
 -   [Inbox layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-inbox-layout.md)
 -   [Agent inbox controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-experience.md)
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-config-ws-side-panel-components|CSM Configurable Workspace contextual side panel components]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

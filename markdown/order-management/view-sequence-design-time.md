@@ -33,17 +33,12 @@ Role required: Sequence reader \[sn\_crm\_sequence.reader\]
     You're redirected to Workflow Studio where you can view the sequence diagram.
 
 
-**Parent Topic:**[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+**Parent Topic:**[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
 **Related topics**  
 
 
-[[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
+[Configuring Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

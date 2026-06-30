@@ -14,7 +14,7 @@ breadcrumb: [Service catalog setup, Configuring Service Catalog, Service Catalog
 
 # Set up a service catalog
 
-To set up a Service Catalog, plan the way your organization defines and maintains [[c_IntroductionToCatalogItems|Service Catalog items]], and how it fulfills them.
+To set up a Service Catalog, plan the way your organization defines and maintains Service Catalog items, and how it fulfills them.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Administrators and catalog administrators, users with the catalog\_admin role, can use the [[service-catalog|Service Catalog]] application to define service catalog content and layout. Catalog managers, users with the catalog\_manager role, can define and manage a single service catalog. Catalog editors, users with the catalog\_editor role, can manage a single service catalog.
+Administrators and catalog administrators, users with the catalog\_admin role, can use the Service Catalog application to define service catalog content and layout. Catalog managers, users with the catalog\_manager role, can define and manage a single service catalog. Catalog editors, users with the catalog\_editor role, can manage a single service catalog.
 
 Administrators and catalog administrators can define and manage multiple service catalogs. A catalog manager can define and manage a single catalog. One or more catalog editors can manage a single catalog.
 
@@ -79,7 +79,3 @@ Administrators and catalog administrators can further extend the service catalog
 
 [Service Catalog terms and roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ServiceCatalogManagementTermsandRoles.md)
 
-## Related
-
-- [[c_IntroductionToCatalogItems|Service Catalog items]]
-- [[service-catalog|Service Catalog]]

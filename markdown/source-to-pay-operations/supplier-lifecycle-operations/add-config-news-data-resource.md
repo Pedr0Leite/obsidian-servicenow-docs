@@ -14,11 +14,11 @@ breadcrumb: [Configuring a custom API to dynamically fetch supplier news, News I
 
 # Add and configure the Get News data resource in UI Builder
 
-Add and configure the Get News - Composite data resource in UI Builder to dynamically retrieve [[supplier|supplier]] news in the News and Activity section of the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Add and configure the Get News - Composite data resource in UI Builder to dynamically retrieve supplier news in the News and Activity section of the Source-to-Pay Workspace.
 
 ## Before you begin
 
-[[create-custom-api-rest|Create a REST message for a custom API]]. For more information, see [Create a REST message for a custom API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md).
+Create a REST message for a custom API. For more information, see [Create a REST message for a custom API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-custom-api-rest.md).
 
 Role required: admin
 
@@ -83,8 +83,3 @@ A data resource is the data that a page fetches to display the content in the co
 
 [Update the field names in the UX client script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-client-script.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-custom-api-rest|Create a REST message for a custom API]]

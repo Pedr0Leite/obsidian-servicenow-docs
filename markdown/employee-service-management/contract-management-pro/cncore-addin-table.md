@@ -18,7 +18,7 @@ Use the ServiceNow Contracts add-in to map a contract table to a source table in
 
 ## About this task
 
-The following video walks you through the process of configuring dynamic tables using [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+The following video walks you through the process of configuring dynamic tables using Microsoft Word add-in for ServiceNow Contracts.
 
 \[Omitted video\] Description: The video walks you through the process of configuring dynamic tables using Microsoft Word add-in for ServiceNow Contracts.
 
@@ -166,6 +166,3 @@ Configure dynamic tables in a contract template to display additional data from 
 
 [Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

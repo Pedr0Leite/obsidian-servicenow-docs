@@ -14,7 +14,7 @@ breadcrumb: [Insurance claims, Exploring insurance claims applications, Insuranc
 
 # Exploring Insurance claims
 
-Learn how to create and configure a claims workflow for your organization by using the [[insurance-claims-flow|Insurance claims]] application. Your first notice of loss \(FNOL\) representatives, adjusters, processors, and managers can use this claims workflow to create and manage claims.
+Learn how to create and configure a claims workflow for your organization by using the Insurance claims application. Your first notice of loss \(FNOL\) representatives, adjusters, processors, and managers can use this claims workflow to create and manage claims.
 
 ## Insurance claims overview
 
@@ -28,7 +28,7 @@ A travel insurance claim flow is included with this application as an example.
 |----|-----------|
 |Administrator|Claims administrators are responsible for configuring the Insurance claims application. They set up the service definitions, product models, policies for personal and commercial products, and tables to record information on claims incidents. They can also set up the claim incident configuration for a new line-of-business claims flow or to update an existing configuration.|
 |FNOL representative|FNOL representatives are front-office staff who create a claim case on behalf of a customer and upload the relevant documents.|
-|Claims adjuster|Claims adjusters are middle or back-office staff that work on [[adjuster-tasks-workspace-pers|adjuster tasks]] to evaluate claims, approve reserve and payment amounts, and settle payments.|
+|Claims adjuster|Claims adjusters are middle or back-office staff that work on adjuster tasks to evaluate claims, approve reserve and payment amounts, and settle payments.|
 |Claims processor|Claims processors are middle or back-office staff that own cases. They create claim tasks for adjusters, track adjuster tasks to ensure they're worked to completion, and add additional tasks as required.|
 |Claims manager|Claims managers are middle or back-office staff that authorize the reserve and amounts that require additional approval. They also monitor staff performance with dashboards and metrics.|
 
@@ -57,14 +57,9 @@ Here's a typical workflow for an insurance claim in the Insurance claims framewo
 
 ## What to explore next
 
-To learn more about configuring and [[using-insurance-claims-flow|using Insurance claims]], see:
+To learn more about configuring and using Insurance claims, see:
 
 -   [Setting up Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/setting-up-insurance-claims-flow.md)
 -   [Using Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/using-insurance-claims-flow.md)
 -   [Insurance claims reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-claims-flow-reference.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]
-- [[using-insurance-claims-flow|Using Insurance claims]]

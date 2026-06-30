@@ -12,22 +12,13 @@ breadcrumb: [Configuring SGC Central, SGC Central, Integrating third-party data 
 
 # Exploring Service Graph Connectors in SGC Central
 
-You can explore available options for onboarding and maintaining [[cmdb-sgc-available|Service Graph Connectors]] within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+You can explore available options for onboarding and maintaining Service Graph Connectors within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
-Service Graph Connectors are integrations that facilitate data ingestion into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+Service Graph Connectors are integrations that facilitate data ingestion into the Configuration Management Database \(CMDB\) from various third-party sources. To learn more, see [Getting started with Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 Options for maintaining Service Graph Connectors in SGC Central include:
 
--   [[sgcc-update-connectors|Updating an installed Service Graph Connector]].
--   [[sgcc-install-sgc-entitlements|Installing a Service Graph Connector using an available entitlement]].
--   [[sgcc-install-store-connectors|Installing a Service Graph Connector from the ServiceNow Store]].
+-   [Updating an installed Service Graph Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-update-connectors.md).
+-   [Installing a Service Graph Connector using an available entitlement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-install-sgc-entitlements.md).
+-   [Installing a Service Graph Connector from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-install-store-connectors.md).
 
-## Related
-
-- [[sgcc-update-connectors|Update an installed Service Graph Connector in SGC Central]]
-- [[sgcc-install-sgc-entitlements|Install a Service Graph Connector with an available entitlement in SGC Central]]
-- [[sgcc-install-store-connectors|Install a Service Graph Connector from ServiceNow Store in SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

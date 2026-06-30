@@ -25,7 +25,7 @@ The Health Assessment – Advanced Accelerator provides guidance to measure and 
 
 ### Overview
 
-Health Assessment- Advanced provides [[impact-landing-page|Impact]] Advanced customers with prescriptive guidance, leading practice content, and a technical analysis of their ServiceNow instance health via a HealthScan scan. Also included is a review of key [[platform-health-idi|platform health]] indicators, such as instance manageability, [[instance-observer-performance|performance]], security, upgradability, and [[user-experience-insights|user experience]]. This Accelerator aims to [[io-help|help]] you understand how your instance aligns with leading practices and improve your instance health.
+Health Assessment- Advanced provides Impact Advanced customers with prescriptive guidance, leading practice content, and a technical analysis of their ServiceNow instance health via a HealthScan scan. Also included is a review of key platform health indicators, such as instance manageability, performance, security, upgradability, and user experience. This Accelerator aims to help you understand how your instance aligns with leading practices and improve your instance health.
 
 ### Package Availability
 
@@ -72,7 +72,7 @@ Health Assessment- Advanced provides [[impact-landing-page|Impact]] Advanced cus
 
 ### Requested Information / Access
 
-Prior to beginning the Accelerator, you must provide your consent for ServiceNow resources to scan your instance. You are prompted for consent when you submit your Health Assessment [[accelerator-request|Accelerator request]].
+Prior to beginning the Accelerator, you must provide your consent for ServiceNow resources to scan your instance. You are prompted for consent when you submit your Health Assessment Accelerator request.
 
 We request for you to complete an information gathering questionnaire, including requests for the following:
 
@@ -179,11 +179,3 @@ For customer agreements and terms, refer to the applicable Impact Accelerator de
 
 For Customer Agreements and Terms, refer to the applicable Impact Accelerator Description available at [https://www.servicenow.com/legal/servicenow-impact.html](https://www.servicenow.com/legal/servicenow-impact.html)
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]
-- [[io-help|Help]]
-- [[accelerator-request|Accelerator request]]

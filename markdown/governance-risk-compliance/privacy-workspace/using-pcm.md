@@ -27,9 +27,9 @@ Case tasks help you to collaborate with multiple teams to investigate, perform i
 -   **[Add an impacted area to a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-impacted-areas.md)**  
 Add the impacted areas or objects that are affected by the privacy case or event in the Privacy Case Management application.
 -   **[Add PI information objects to a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-pi-information-objects-to-a-privacy-case.md)**  
-To identify the types of personal data compromised during a breach, add \[PI\] [[information-objects|information objects]] to a privacy case.
+To identify the types of personal data compromised during a breach, add \[PI\] information objects to a privacy case.
 -   **[Add key stakeholders to a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-keystakeholders-to-privacy-case.md)**  
-[[add-keystakeholders-to-privacy-case|Add key stakeholders to a privacy case]] to identify the key members who are responsible for the data that is lost during the breach. You can then send the respective breach assessments to the stakeholders based on their responsibilities.
+Add key stakeholders to a privacy case to identify the key members who are responsible for the data that is lost during the breach. You can then send the respective breach assessments to the stakeholders based on their responsibilities.
 -   **[Add a related area to a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-related-areas.md)**  
 Add the related areas that are related to a privacy case or event reported in the Privacy Case Management application.
 -   **[Add causes and consequences to a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-causes-consequences.md)**  
@@ -37,20 +37,13 @@ Define the root cause for the reported privacy case or event and its consequence
 -   **[Add a privacy regulation related to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-regulations.md)**  
 Add the necessary regulations that are or can be impacted by the case that has been reported. In the ServiceNow platform, regulations are captured as authority documents. Adding the regulations to the case enables you to identify which regulations are breached or violated and prevents penalties and fines.
 -   **[Add or create an issue for a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-issues.md)**  
-Identify and [[manage-issues-common-core|manage issues]] related to the impacted areas for the reported privacy case. You can also create issues from the Privacy Case Management landing page.
+Identify and manage issues related to the impacted areas for the reported privacy case. You can also create issues from the Privacy Case Management landing page.
 -   **[Export a privacy case as a PDF](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/export-a-privacy-case-as-a-pdf.md)**  
-[[export-a-privacy-case-as-a-pdf|Export a privacy case as a PDF]] to easily share it with various stakeholders.
+Export a privacy case as a PDF to easily share it with various stakeholders.
 -   **[Send an email from a privacy case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/send-email-from-a-privacy-case.md)**  
 Send emails from a privacy case to seamlessly communicate with various stakeholders and regulators and gather more information about the case. All the emails sent and received are stored in the Privacy Case Management application.
 -   **[Perform smart assessment on privacy action task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/perform-smart-assessment-on-privacy-action-task.md)**  
-Use the **Tasks** page on the [[employee-center|Employee Center]] for a consolidated view of all your privacy tasks, including all assessments, enabling you to access and complete them efficiently.
+Use the **Tasks** page on the Employee Center for a consolidated view of all your privacy tasks, including all assessments, enabling you to access and complete them efficiently.
 
 **Parent Topic:**[Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-case-management-overview.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[add-keystakeholders-to-privacy-case|Add key stakeholders to a privacy case]]
-- [[manage-issues-common-core|Manage issues]]
-- [[export-a-privacy-case-as-a-pdf|Export a privacy case as a PDF]]
-- [[employee-center|employee center]]

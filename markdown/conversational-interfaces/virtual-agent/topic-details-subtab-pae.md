@@ -14,7 +14,7 @@ breadcrumb: [Topics tab, Using the Conversational Analytics Dashboard, Conversat
 
 # Topics details
 
-Use the Topic Details page in the Conversational Analytics dashboard to view key performance indicators of [[virtual-agent-landing-page|Virtual Agent]] \(VA\) topics.
+Use the Topic Details page in the Conversational Analytics dashboard to view key performance indicators of Virtual Agent \(VA\) topics.
 
 ## Get additional information about the topics
 
@@ -36,6 +36,3 @@ The Topic Details page provides the following indicators.
 
 **Parent Topic:**[Topics tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topics-tab-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

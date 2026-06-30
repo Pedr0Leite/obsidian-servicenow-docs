@@ -14,11 +14,11 @@ breadcrumb: [Highlighted fields in lists and forms, Configure and customize the 
 
 # Perform post-migration tasks for highlighted fields in list and forms
 
-Verify that the highlighted fields in list and forms in Service Operations Workspace \(SOW\) are consistent with the highlighted fields in list and forms in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the [[migrated-records|migrated]] highlighted fields in list and forms [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the highlighted fields in list and forms in Service Operations Workspace \(SOW\) are consistent with the highlighted fields in list and forms in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated highlighted fields in list and forms settings in SOW based on your requirements.
 
 ## Before you begin
 
-When performing the migration, you must have selected the **Highlighted fields in list and forms** option for ITSM Agent Workspace features. For example, the **Highlighted fields in list and forms** option for [[c_IncidentManagement|Incident Management]]. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
+When performing the migration, you must have selected the **Highlighted fields in list and forms** option for ITSM Agent Workspace features. For example, the **Highlighted fields in list and forms** option for Incident Management. For information about the migration process, see [Migrate from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/migrate-itsm-agent-workspace-to-sow.md).
 
 Role required: admin
 
@@ -65,8 +65,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[Migration of highlighted fields in lists and forms from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/highlighted-fields-lists-forms-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]
-- [[c_IncidentManagement|Incident Management]]

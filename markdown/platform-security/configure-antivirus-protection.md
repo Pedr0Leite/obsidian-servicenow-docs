@@ -12,11 +12,11 @@ breadcrumb: [Antivirus Scanning]
 
 # Configuring Antivirus Scanning
 
-Configure [[antivirus-protection|Antivirus Scanning]] across your instance and at the table level.
+Configure Antivirus Scanning across your instance and at the table level.
 
 ## Before you begin
 
-Role required: [[antivirus|antivirus]]\_admin or admin
+Role required: antivirus\_admin or admin
 
 ## About this task
 
@@ -24,7 +24,7 @@ Antivirus Scanning is active by default in your instance, where it automatically
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Antivirus** &gt; **[[sc-configuration|Configuration]]**.
+1.  Navigate to **All** &gt; **Antivirus** &gt; **Configuration**.
 
 2.  As you configure the feature, consider the following.
 
@@ -80,8 +80,3 @@ Any file attachments associated with a table in this list are excluded from anti
 
 Antivirus Scanning is enabled in your instance, and the **List of Tables Excluded** on the Antivirus Configuration page is populated with all the tables that you excluded from the scan.
 
-## Related
-
-- [[antivirus-protection|Antivirus Scanning]]
-- [[antivirus|Antivirus]]
-- [[sc-configuration|Configuration]]

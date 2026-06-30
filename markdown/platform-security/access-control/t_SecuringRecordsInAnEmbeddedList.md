@@ -22,7 +22,7 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[sc-access-control|Access Control]] \(ACL\)**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Access Control \(ACL\)**.
 
 2.  Open the **Write** or **Delete** record for the appropriate table.
 
@@ -30,9 +30,6 @@ Role required: security\_admin
 
 4.  Save the changes.
 
-    When records from the associated table appear in an embedded list, the edit and delete options are available only to [[users|users]] with the specified roles.
+    When records from the associated table appear in an embedded list, the edit and delete options are available only to users with the specified roles.
 
-## Related
 
-- [[sc-access-control|Access control]]
-- [[users|Users]]

@@ -14,11 +14,11 @@ breadcrumb: [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe, Confi
 
 # Working with Teamspaces
 
-[[alignment-planner-workspace-landing-page|Strategic Planning]] can be integrated with [[c_ProjectPortfolioSuite|Project Portfolio Management]]'s Teamspaces to access and manage relevant projects and demands with the corresponding planning item records.
+Strategic Planning can be integrated with Project Portfolio Management's Teamspaces to access and manage relevant projects and demands with the corresponding planning item records.
 
 You must activate a teamspace plugin to use the teamspace feature. The following teamspace plugins are available:
 
--   [[c_ProjectApplicationOverview|Project Management]] TeamSpace 1 \(com.snc.ppm\_teamspace\_1\)
+-   Project Management TeamSpace 1 \(com.snc.ppm\_teamspace\_1\)
 -   Project Management TeamSpace 2 \(com.snc.ppm\_teamspace\_2\)
 -   Project Management TeamSpace 3 \(com.snc.ppm\_teamspace\_3\)
 -   Project Management TeamSpace 4 \(com.snc.ppm\_teamspace\_4\)
@@ -40,8 +40,3 @@ To integrate teamspaces with Strategic Planning records:
 
 [Create a table map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-custom-table-maps-for-custom-planning-items.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ProjectApplicationOverview|Project Management]]

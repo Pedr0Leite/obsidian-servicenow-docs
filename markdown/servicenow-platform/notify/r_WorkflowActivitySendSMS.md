@@ -14,11 +14,11 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Send SMS workflow activity
 
-The **send SMS** workflow activity to send short text messages [[using-notify|using Notify]] to users' phones. This workflow activity can be added to any table.
+The **send SMS** workflow activity to send short text messages using Notify to users' phones. This workflow activity can be added to any table.
 
 ## Notify requirements
 
-To send SMS messages, you must add and [[configure-providers-for-provider-selectors|configure a provider in Notify]]. For more information about configuring a provider, see [Configure a provider in Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-providers-for-provider-selectors.md).
+To send SMS messages, you must add and configure a provider in Notify. For more information about configuring a provider, see [Configure a provider in Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-providers-for-provider-selectors.md).
 
 ## Input variables
 
@@ -38,7 +38,7 @@ From
 
 </td><td>
 
-Select the [[notify-landing-page|Notify]] phone number to use to send the SMS message.
+Select the Notify phone number to use to send the SMS message.
 
 </td></tr><tr><td>
 
@@ -46,7 +46,7 @@ Advanced
 
 </td><td>
 
-Select this [[check-box|check box]] to use JavaScript to determine which numbers to send the message to, and the Notify number to use to send the message.
+Select this check box to use JavaScript to determine which numbers to send the message to, and the Notify number to use to send the message.
 
 </td></tr><tr><td>
 
@@ -89,9 +89,3 @@ The conditions determine which transition comes after this activity. This activi
 
 You can add an error condition to this activity. The activity transitions through the error condition if the Notify number used to make the call is not configured correctly or unable to send SMS messages, or if an error occurs while sending the SMS.
 
-## Related
-
-- [[using-notify|Using Notify]]
-- [[configure-providers-for-provider-selectors|Configure a provider in Notify]]
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]

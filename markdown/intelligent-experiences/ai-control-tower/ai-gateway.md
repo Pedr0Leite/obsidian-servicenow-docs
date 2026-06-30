@@ -14,9 +14,9 @@ breadcrumb: [Configurations, AI Control Tower dashboard, Explore, AI Control Tow
 
 # AI Gateway
 
-Explore the [[ai-gateway-overview|AI Gateway]] page and its tab in the [[ai-control-tower-landing|AI Control Tower]] [[exploring-ai-governance|Configurations]].
+Explore the AI Gateway page and its tab in the AI Control Tower Configurations.
 
-The AI Gateway page enables you to pause and resume AI Gateway transactions, as well as monitor [[enterprise-ai-discovery|AI connections]]. The AI Gateway page has the following tabs:
+The AI Gateway page enables you to pause and resume AI Gateway transactions, as well as monitor AI connections. The AI Gateway page has the following tabs:
 
 **Settings**- enables to pause and continue the AI Gateway transactions.\[Omitted image "ai-gateway-config.png"\] Alt text: AICT Configurations screen.
 
@@ -33,12 +33,5 @@ You can filter and export the list into PDF, JSON, Excel, and CSV format. The li
 -   Last updated by
 -   Updated
 
-For information on AI Gateway tab on the [[ai-control-tower-home-page|AI Control Tower Home]], see [AI Gateway tab in AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway-tab.md)
+For information on AI Gateway tab on the AI Control Tower Home, see [AI Gateway tab in AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway-tab.md)
 
-## Related
-
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[exploring-ai-governance|Configurations]]
-- [[enterprise-ai-discovery|AI connections]]
-- [[ai-control-tower-home-page|AI Control Tower Home]]

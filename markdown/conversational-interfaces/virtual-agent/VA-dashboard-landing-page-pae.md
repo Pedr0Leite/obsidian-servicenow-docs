@@ -14,7 +14,7 @@ breadcrumb: [Analyze VA performance, Virtual Agent, Conversational Interfaces]
 
 # Conversational Analytics dashboard in Platform Analytics experience
 
-The Conversational Analytics dashboard in Platform Analytics experience helps you improve [[virtual-agent-landing-page|Virtual Agent]] \(VA\) interactions with users by providing insights into conversational data. The dashboard helps you refine topics and improve the deflection rate of VA.
+The Conversational Analytics dashboard in Platform Analytics experience helps you improve Virtual Agent \(VA\) interactions with users by providing insights into conversational data. The dashboard helps you refine topics and improve the deflection rate of VA.
 
 ## Get started
 
@@ -44,11 +44,7 @@ Set up custom events and formula definitions to create more targeted analytics.
 -   **[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)**  
 Use the Conversational Analytics dashboard to get insights into Virtual Agent \(VA\) conversations.
 -   **[Conversational Analytics dashboard reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversational-analytics-dashboard-reference-pae.md)**  
-Reference topics provide descriptions about the [[conversational-analytics-dashboard-roles-pae|Conversational Analytics dashboard roles]] and system parameters to configure the dashboard.
+Reference topics provide descriptions about the Conversational Analytics dashboard roles and system parameters to configure the dashboard.
 
 **Parent Topic:**[Analyzing Virtual Agent performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/analyzing-virtual-agent-performance.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[conversational-analytics-dashboard-roles-pae|Conversational Analytics dashboard roles]]

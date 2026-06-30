@@ -38,7 +38,7 @@ You can automatically create change requests from your Continuous Integration \(
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about components, form fields, and general guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Get details about components, form fields, and general guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 
 </td><td>
 
@@ -51,6 +51,3 @@ You can automatically create change requests from your Continuous Integration \(
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

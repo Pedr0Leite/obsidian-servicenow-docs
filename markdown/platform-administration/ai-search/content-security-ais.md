@@ -14,7 +14,7 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Content security in AI Search
 
-[[ia-ai-search|AI Search]] filters search query [[hs-results|results]] and displays only records that the currently logged in user can access.
+AI Search filters search query results and displays only records that the currently logged in user can access.
 
 Content security is automatically enabled and isn't configurable.
 
@@ -83,7 +83,3 @@ To learn about using AI Search with external data sources, see [Indexing and sea
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

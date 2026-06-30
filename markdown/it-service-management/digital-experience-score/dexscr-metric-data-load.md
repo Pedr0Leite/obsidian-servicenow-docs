@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 # Data collection frequency for DEX Score metrics
 
-Application and device health metrics are collected daily, weekly, and monthly from employees' [[dex-workspace-devices-tab|devices]], imported into the ServiceNow instance, and displayed on the [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard.
+Application and device health metrics are collected daily, weekly, and monthly from employees' devices, imported into the ServiceNow instance, and displayed on the Digital Experience Score​ dashboard.
 
 <table id="table_iqr_j5t_c2c"><thead><tr><th>
 
@@ -69,7 +69,3 @@ On 2nd day of the next month.For example, the data for the month of February 202
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Experience Score​ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

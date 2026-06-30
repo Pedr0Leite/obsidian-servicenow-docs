@@ -24,7 +24,7 @@ Specify recipients for an email. If you select scheduled email, also specify the
 
 **Note:** If you select **Download** and the export takes longer than 10 seconds, you receive the export as an email attachment instead of a download. Thus the export completes asynchronously, freeing up the Now Assist panel.
 
-**Parent Topic:**[[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
@@ -35,6 +35,3 @@ Specify recipients for an email. If you select scheduled email, also specify the
 
 [Export guidelines and examples]()
 
-## Related
-
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]

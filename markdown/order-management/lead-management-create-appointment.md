@@ -20,7 +20,7 @@ Role required: sales\_agent
 
 ## About this task
 
-You can create appointments only after creating a lead task. To [[create-new-lead|create a lead]] task, see [[lead-management-use-tasks-tab|Add lead tasks]].
+You can create appointments only after creating a lead task. To create a lead task, see [Add lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md).
 
 ## Procedure
 
@@ -32,9 +32,9 @@ You can create appointments only after creating a lead task. To [[create-new-lea
 
 4.  Select **New** to start a new appointment or select an existing appointment to make changes.
 
-5.  Fill in the [[fields|fields]] in the [[create-appointments-form|Create New Appointment form]].
+5.  Fill in the fields in the Create New Appointment form.
 
-    For description of the field values, see [[create-lead-appointment-form|Create new appointment form]].
+    For description of the field values, see [Create new appointment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-lead-appointment-form.md).
 
 6.  Select **Save** to save the appointment and send it later or select **Send activity** to send it now.
 
@@ -44,16 +44,7 @@ You can create appointments only after creating a lead task. To [[create-new-lea
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[lead-management-use-tasks-tab|Add lead tasks]]
-- [[create-lead-appointment-form|Create new appointment form]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]
-- [[create-new-lead|Create a lead]]
-- [[fields|Fields]]
-- [[create-appointments-form|Create new appointment form]]

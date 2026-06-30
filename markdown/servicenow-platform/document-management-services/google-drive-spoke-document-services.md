@@ -14,7 +14,7 @@ breadcrumb: [Google Drive integration with Document Services, Integrate with Doc
 
 # Document Services Framework for Google Drive
 
-Integrate the [[document-services-landing-page|Document Services]] with Google Drive.
+Integrate the Document Services with Google Drive.
 
 ## Request apps on the Store
 
@@ -48,7 +48,7 @@ Document Services Framework for Google Drive enables a flow designer to:
 If you’re having trouble installing the app, verify that these dependent plugins are installed:
 
 -   IHUB Spoke Util Pack \(com.snc.ihub\_spoke\_util\_pack\)
--   [[mp-document-services-framework-landing|Multi Provider Document Services Framework]] \(com.snc.multiprovider\_documents\)
+-   Multi Provider Document Services Framework \(com.snc.multiprovider\_documents\)
 -   Remote Directory Sync \(com.snc.remote\_directory\_sync\)
 -   ServiceNow Flow Designer - Dynamic Inputs \(com.glide.hub.dynamic\_inputs\)
 -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
@@ -110,11 +110,11 @@ Collaborate Document
 
 </td><td>
 
-Adds a permission to a given user, group or domain, or to anyone, for a file. This permission is based on a permission type and role and is how collaboration is configured in Google Drive. If **User** or **Group** is selected, the [[email|email]] address is required for those users and groups. If **Domain** is selected, the domain name to create permission for is required. If **Anyone** is selected, then anyone has permission to the file or folder.
+Adds a permission to a given user, group or domain, or to anyone, for a file. This permission is based on a permission type and role and is how collaboration is configured in Google Drive. If **User** or **Group** is selected, the email address is required for those users and groups. If **Domain** is selected, the domain name to create permission for is required. If **Anyone** is selected, then anyone has permission to the file or folder.
 
 </td></tr><tr><td>
 
-[[c_Connect|Connect]] Document From Google Drive Using ID
+Connect Document From Google Drive Using ID
 
 </td><td>
 
@@ -134,7 +134,7 @@ Copy Google Drive Document Version
 
 </td><td>
 
-Copies the document with the given version from Google Drive to an [[attachment|attachment]] in ServiceNow.
+Copies the document with the given version from Google Drive to an attachment in ServiceNow.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Deletes the document in Google Drive and remove its corresponding records in doc
 
 </td></tr><tr><td>
 
-Get All [[document-mgt-versions|Document Versions]]
+Get All Document Versions
 
 </td><td>
 
@@ -308,11 +308,3 @@ For information about setting up the spoke, see [Set up Document Services framew
 
 **Parent Topic:**[Google Drive integration with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/google-drive-integration.md)
 
-## Related
-
-- [[document-services-landing-page|Document Services]]
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]
-- [[email|Email]]
-- [[c_Connect|Connect]]
-- [[attachment|Attachment]]
-- [[document-mgt-versions|Document versions]]

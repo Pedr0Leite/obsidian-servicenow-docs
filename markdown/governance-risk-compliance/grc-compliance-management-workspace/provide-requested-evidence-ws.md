@@ -26,7 +26,7 @@ When the assignee receives the email to provide the requested evidence, the assi
 
 ## Procedure
 
-1.  Navigate to **Audit** &gt; **[[evidence-request|Evidence Request]]** &gt; **My Evidence Request Tasks**.
+1.  Navigate to **Audit** &gt; **Evidence Request** &gt; **My Evidence Request Tasks**.
 
 2.  Open the record for which you want to provide evidence.
 
@@ -179,6 +179,4 @@ Instructions to collect the evidence.If you are the manager or requester, you ca
 
 6.  If no approvers are required, click **Request Review**.
 
-## Related
 
-- [[evidence-request|Evidence request]]

@@ -12,7 +12,7 @@ breadcrumb: [Reference, Model Risk Management, Governance, Risk, and Compliance]
 
 # Tables installed with Model Risk Management
 
-Tables are added with the activation of the [[model-risk-management|Model Risk Management]] application.
+Tables are added with the activation of the Model Risk Management application.
 
 See the following table for a description of the tables.
 
@@ -32,7 +32,7 @@ Model Risk
 
 </td><td>
 
-Captures model intakes submitted via the [[employee-center|Employee Center]], serving as a central repository for all submitted model requests.
+Captures model intakes submitted via the Employee Center, serving as a central repository for all submitted model requests.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Model Risk configuration
 
 </td><td>
 
-Stores the model risk assessment scoring configuration created for Smart [[airc-assessment-templates|Assessment templates]] in the Model Risk Management category.
+Stores the model risk assessment scoring configuration created for Smart Assessment templates in the Model Risk Management category.
 
 </td></tr><tr><td>
 
@@ -115,11 +115,5 @@ Model risk score
 Stores the scores calculated by the execution of model risk scoring configurations whenever a Smart Assessment is submitted and the assessment task is completed.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mrm-reference|Model Risk Management reference]]
+</table>**Parent Topic:**[Model Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mrm-reference.md)
 
-## Related
-
-- [[mrm-reference|Model Risk Management reference]]
-- [[model-risk-management|Model Risk Management]]
-- [[employee-center|employee center]]
-- [[airc-assessment-templates|Assessment templates]]

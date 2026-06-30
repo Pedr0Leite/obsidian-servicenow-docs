@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Journey Accelerator integrations
 
-Extend [[journey-accelerator-1|Journey Accelerator]] capabilities by integrating other application into the Journey Accelerator experience.
+Extend Journey Accelerator capabilities by integrating other application into the Journey Accelerator experience.
 
 -   **[Microsoft Exchange Online setup for Journey Accelerator]()**  
 By integrating the Journey Accelerator scheduling feature with the Microsoft Office 365 calendar function, users can schedule plans and to-do tasks.
@@ -23,6 +23,3 @@ Update the Journey Accelerator app system properties to use with Microsoft Excha
 
 **Parent Topic:**[Journey Accelerator]()
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

@@ -12,7 +12,7 @@ breadcrumb: [Create support requests using Care Team Mobile, Care Team Mobile, H
 
 # Scan an asset to create a support request in Care Team Mobile
 
-Use **Scan asset** in [[care-team-mobile-landing|Care Team Mobile]] to generate support requests by scanning bar codes attached to assets.
+Use **Scan asset** in Care Team Mobile to generate support requests by scanning bar codes attached to assets.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: Team member, Team manager
 
 5.  Select **Create a request** to create a support request for this asset.
 
-## Related
 
-- [[care-team-mobile-landing|Care Team Mobile]]

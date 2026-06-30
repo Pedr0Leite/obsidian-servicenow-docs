@@ -14,9 +14,9 @@ breadcrumb: [Coaching, Workforce Optimization for ITSM, IT Service Management]
 
 # Training your teams using Coaching in Workforce Optimization for ITSM
 
-Assess your teams' abilities to resolve incidents efficiently by reviewing their work at critical service moments using [[explore-coaching-configurable-workforce-optimization-itsm|Coaching in Workforce Optimization for ITSM]].
+Assess your teams' abilities to resolve incidents efficiently by reviewing their work at critical service moments using Coaching in Workforce Optimization for ITSM.
 
-With [[cf-coaching-landing|Coaching]], you can do the following:
+With Coaching, you can do the following:
 
 -   Provide training for your agents to address skill gaps.
 -   Use surveys to apply consistent, measurable scores across teams.
@@ -32,7 +32,3 @@ Assess the quality of your teams' completed tasks. Use surveys to get feedback o
 
 **Parent Topic:**[Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-coaching-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[explore-coaching-configurable-workforce-optimization-itsm|Coaching in Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

@@ -33,7 +33,7 @@ In this case, the pattern identifier could be set to the Metric Name \(e.g., hig
 
 ## How to configure effective pattern identifiers
 
-To configure effective pattern identifiers for [[c_ServiceAnalyticsOverview|alert grouping]], follow these three key steps to ensure accurate and meaningful analysis of alerts.
+To configure effective pattern identifiers for alert grouping, follow these three key steps to ensure accurate and meaningful analysis of alerts.
 
 <table id="table_x1p_wt5_mdc"><thead><tr><th>
 
@@ -91,8 +91,8 @@ Learn how alert patterns are discovered, grouped, and displayed in the system.
 
 |Concept|Description|
 |-------|-----------|
-|Pattern discovery|When a set of alert fields matches, the alerts are grouped into a "Learned Pattern." For example, alerts with the same [[alert-priority-group|Priority Group]] and Resource are grouped into a pattern.|
-|Pattern reporting|These patterns are displayed on the [[c_SALearnedPattersReport|Learned Patterns report]] found under **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Learned Patterns**.|
+|Pattern discovery|When a set of alert fields matches, the alerts are grouped into a "Learned Pattern." For example, alerts with the same Priority Group and Resource are grouped into a pattern.|
+|Pattern reporting|These patterns are displayed on the Learned Patterns report found under **Event Management** &gt; **Administration** &gt; **Learned Patterns**.|
 
 ## Managing Pattern Attributes and Time Frame
 
@@ -142,10 +142,3 @@ When working with CI-based groups, ensure that the pattern identifier includes b
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[alert-priority-group|Priority group]]
-- [[c_SALearnedPattersReport|Learned patterns report]]
-- [[c_EM|Event Management]]

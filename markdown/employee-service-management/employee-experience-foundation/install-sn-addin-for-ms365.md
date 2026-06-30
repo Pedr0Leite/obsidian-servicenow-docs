@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]:
+The following items are installed with ServiceNow Add-in for Microsoft 365:
 
 -   Plugins
 -   Store applications
@@ -60,6 +60,3 @@ For more information, see [Components installed with ServiceNow Add-in for Micro
 
 **Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-sn-addin-for-ms365.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]

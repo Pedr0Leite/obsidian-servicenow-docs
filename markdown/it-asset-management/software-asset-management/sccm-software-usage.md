@@ -16,7 +16,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 Activate the Microsoft SCCM software usage plugin to integrate your software usage data with the ServiceNow AI Platform.
 
-One of the following Microsoft SCCM Software Usage plugins must be installed to import software usage data from Microsoft SCCM to [[c_SoftwareAssetMgmt|Software Asset Management]].
+One of the following Microsoft SCCM Software Usage plugins must be installed to import software usage data from Microsoft SCCM to Software Asset Management.
 
 -   Integration — Microsoft SCCM 2012 v2 Software Usage \(com.snc.samp\_usage\_sccm\) plugin
 -   Integration — Microsoft SCCM 2016 Software Usage \(com.snc.samp.usage\_sccm\_2016\) plugin
@@ -56,6 +56,3 @@ You can also import usage information using ServiceNow [import sets](https://raw
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

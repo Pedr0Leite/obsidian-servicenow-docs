@@ -14,7 +14,7 @@ breadcrumb: [Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manage
 
 # Set custom alert tones in ITSM Mobile Agent for different incident priority
 
-Set custom alert tones in [[itsm-mobile-agent|ITSM Mobile Agent]] to distinguish between incidents with different priorities.
+Set custom alert tones in ITSM Mobile Agent to distinguish between incidents with different priorities.
 
 ## Before you begin
 
@@ -70,6 +70,4 @@ Role required: admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

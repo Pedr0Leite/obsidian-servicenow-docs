@@ -57,7 +57,7 @@ Before you can use Dispute Content Pack for US Regulations, you must first downl
 -   **[Exploring the Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/exploring-dispute-content-pack-for-us-regulation.md)**  
 Learn how the Dispute Content Pack for US Regulations application streamlines the dispute resolution process under United States \(US\) regulatory guidelines, including Regulation E \(Reg E\) and Regulation Z \(Reg Z\).
 -   **[Install the Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/install-the-dispute-content-pack-for-us-regulations.md)**  
-If you have the admin role, you can [[install-the-dispute-content-pack-for-us-regulations|install the Dispute Content Pack for US Regulations]] application.
+If you have the admin role, you can install the Dispute Content Pack for US Regulations application.
 -   **[Configuring the Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/configuring-the-dispute-content-pack-for-us-regulation.md)**  
 Dispute Content Pack for US Regulations includes predefined Service Level Agreement \(SLA\) definitions that align with Regulation E and Regulation Z. SLA durations are calculated from key dates such as the dispute reported date, task creation date, statement date, and billing cycle date.
 -   **[Using the Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/using-the-dispute-content-pack-for-us-regulation.md)**  
@@ -67,6 +67,3 @@ Learn about the components and properties that are installed with the Dispute Co
 
 **Parent Topic:**[Dispute Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management.md)
 
-## Related
-
-- [[install-the-dispute-content-pack-for-us-regulations|Install the Dispute Content Pack for US Regulations]]

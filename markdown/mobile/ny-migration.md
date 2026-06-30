@@ -46,7 +46,7 @@ To resolve the issue, check Mobile Studio to make sure that your applet is still
 
 -   **An applet is missing**
 
-    After migration, your applets should be visible in the **Applications** tab in the [[sg-mobile-tab-bar|navigation bar]]. If the applets do not appear, you can manually migrate these applets.
+    After migration, your applets should be visible in the **Applications** tab in the navigation bar. If the applets do not appear, you can manually migrate these applets.
 
     1.  In Studio, open **Mobile Studio** &gt; **Application Menu** in the application explorer, and select the app where you are missing an applet.
     2.  In the **Navigation Tabs** related list, click the **Applications** navigation tab.
@@ -82,9 +82,5 @@ To resolve the issue, check Mobile Studio to make sure that your applet is still
     3.  Check the value of the **Screen** field. If this field appears empty, it may be pointing to an unused Master-detail screen \[sys\_sg\_master\_detail\_screen\] record.
     4.  Update the field by selecting the applet \[sys\_sg\_screen\] record used by this parameter.
 
-**Parent Topic:**[[sg-mobile-migration-ny|Mobile migration from Madrid to New York and later releases]]
+**Parent Topic:**[Mobile migration from Madrid to New York and later releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-migration-ny.md)
 
-## Related
-
-- [[sg-mobile-migration-ny|Mobile migration from Madrid to New York and later releases]]
-- [[sg-mobile-tab-bar|Navigation bar]]

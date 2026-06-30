@@ -18,7 +18,7 @@ You can set a filter showing all the printers on a map and share that filter wit
 
 \[Omitted image "SavedFilter.png"\] Alt text: Used to filter what you want to see on a facilities map.
 
-**Parent Topic:**[[r_MapFilters|Map filters]]
+**Parent Topic:**[Map filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MapFilters.md)
 
 **Related topics**  
 
@@ -27,6 +27,3 @@ You can set a filter showing all the printers on a map and share that filter wit
 
 [Create a map filter in Facilities Service Management]()
 
-## Related
-
-- [[r_MapFilters|Map filters]]

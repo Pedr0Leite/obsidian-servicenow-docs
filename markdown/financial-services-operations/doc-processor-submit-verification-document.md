@@ -20,7 +20,7 @@ Role required: sn\_doc\_processor.collector
 
 ## Procedure
 
-1.  Navigate to **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "icon-list.png"\] Alt text: Lists icon.\).
 
@@ -45,7 +45,7 @@ Role required: sn\_doc\_processor.collector
 
 6.  On the form under Process Information, fill in the fields as required.
 
-    For a description of the field values, see [[doc-processor-associate-document-list-items-to-category|Create document list item definitions for a document list definition]].
+    For a description of the field values, see [Create document list item definitions for a document list definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-associate-document-list-items-to-category.md).
 
 7.  Attach any documents to be submitted for verification.
 
@@ -68,10 +68,5 @@ The **External ID** field in the document verification task is populated with th
 
 ## What to do next
 
-A document agent can [[doc-processor-work-on-doc-verification-task|Work on a document verification task]].
+A document agent can [Work on a document verification task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-work-on-doc-verification-task.md).
 
-## Related
-
-- [[doc-processor-associate-document-list-items-to-category|Create document list item definitions for a document list definition]]
-- [[doc-processor-work-on-doc-verification-task|Work on a document verification task]]
-- [[fso-overview|Financial Services]]

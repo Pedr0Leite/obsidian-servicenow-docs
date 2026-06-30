@@ -24,7 +24,7 @@ Role required: password\_reset\_admin
 
 One scheduled job creates a record in the password expiration table, which has the prefix as **Sync password expiration records for pwd\_process\_** followed by a sys\_id.
 
-**Note:** This job runs only once. This scheduled job only creates a record in the password expiration table. It doesn’t fetch information about each user’s password expiration by calling the external credential store. For example, the values for the **Last [[password-reset-landing-page|Password Reset]] Date** or **Password Expiration Date** field remain empty. The expiration reminder scheduled job retrieves the dates for all the expiration records with empty dates before sending the expiration notifications.
+**Note:** This job runs only once. This scheduled job only creates a record in the password expiration table. It doesn’t fetch information about each user’s password expiration by calling the external credential store. For example, the values for the **Last Password Reset Date** or **Password Expiration Date** field remain empty. The expiration reminder scheduled job retrieves the dates for all the expiration records with empty dates before sending the expiration notifications.
 
 The second scheduled job runs periodically based on configuration. The scheduled job that has a prefix as **pwd\_expiration\_reminder\_** followed by a sys\_id does the following two actions:
 
@@ -46,6 +46,3 @@ The second scheduled job runs periodically based on configuration. The scheduled
 
 **Parent Topic:**[Configure password expiration reminder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-expiration-setup.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

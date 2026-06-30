@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Health and Safety Core
 
-The ServiceNow® Health and Safety Core application provides the data model that is required for consistent employee and operational experiences in [[health-safety-overview|Health and Safety]].
+The ServiceNow® Health and Safety Core application provides the data model that is required for consistent employee and operational experiences in Health and Safety.
 
 ## Get started
 
@@ -32,27 +32,19 @@ The ServiceNow® Health and Safety Core application provides the data model that
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-core-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-core-reference.md)
 
 </td></tr></tbody>
 </table>## Health and Safety Core overview
 
 The Health and Safety Core data model supports the functionality of the following Health and Safety applications.
 
--   [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
--   [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
--   [[hs-case-management-landing-page|Health and Safety Case Management]]
--   [[hs-risk-management-landing-page|Health and Safety Risk Management]]
+-   Health and Safety Incident Management
+-   Health and Safety Contractor Management
+-   Health and Safety Case Management
+-   Health and Safety Risk Management
 
 ## Request apps on the Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]

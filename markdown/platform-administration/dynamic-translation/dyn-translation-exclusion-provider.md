@@ -14,7 +14,7 @@ breadcrumb: [Exclusion Framework in Dynamic Translation, Configuring Dynamic Tra
 
 # Add an Exclusion Provider Pattern
 
-As part of the configuration of [[dyn-translation-exclusion-framework|Exclusion Framework in Dynamic Translation]], enter the tags used by your translation provider to mark text that should not be machine translated.
+As part of the configuration of Exclusion Framework in Dynamic Translation, enter the tags used by your translation provider to mark text that should not be machine translated.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The Exclusion Provider Pattern \[sn\_dt\_provider\_exclusion\_pattern\] table stores the exclusion tags used by machine translation providers. From this table's list view, select the value in the Active column to view a record. \(Selecting the value in the Translator Configuration column opens the corresponding Translator Configuration table entry in [[dynamic-translation|Dynamic Translation]]\).
+The Exclusion Provider Pattern \[sn\_dt\_provider\_exclusion\_pattern\] table stores the exclusion tags used by machine translation providers. From this table's list view, select the value in the Active column to view a record. \(Selecting the value in the Translator Configuration column opens the corresponding Translator Configuration table entry in Dynamic Translation\).
 
 \[Omitted image "dyn-translation-exclusion-provider3X.png"\] Alt text: To open a record, use the value in the Active column on the list view of Exclusion Provider Pattern.
 
@@ -42,7 +42,7 @@ By default Exclusion Framework provides an Exclusion Provider Pattern record for
 
     |Field|Value|
     |-----|-----|
-    |Translator Configuration|Select your third-party translation provider. You can use the look-up icon \(\[Omitted image "icon-lookup-using-list.png"\] Alt text: Lookup using list icon.\), or start typing the name into the field. The available records are pulled from Dynamic Translation's Translator [[clone-configurations-tab|Configurations]] table.|
+    |Translator Configuration|Select your third-party translation provider. You can use the look-up icon \(\[Omitted image "icon-lookup-using-list.png"\] Alt text: Lookup using list icon.\), or start typing the name into the field. The available records are pulled from Dynamic Translation's Translator Configurations table.|
     |Prefix pattern|The start or opening tag to mark a text string for exclusion.|
     |Suffix pattern|The end or closing tag of an excluded text string.|
     |Application|Displays the application scope in which this record was created. This value can't be edited.|
@@ -53,8 +53,3 @@ By default Exclusion Framework provides an Exclusion Provider Pattern record for
 
 **Parent Topic:**[Exclusion Framework in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-framework.md)
 
-## Related
-
-- [[dyn-translation-exclusion-framework|Exclusion Framework in Dynamic Translation]]
-- [[dynamic-translation|Dynamic translation]]
-- [[clone-configurations-tab|Configurations]]

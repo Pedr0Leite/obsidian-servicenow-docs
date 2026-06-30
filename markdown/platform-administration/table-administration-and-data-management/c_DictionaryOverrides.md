@@ -20,12 +20,12 @@ For example, for a field on the Task \[task\] table, a dictionary override can c
 
 Administrators can override these aspects of a field:
 
--   [[c_ReferenceQualifiers|Reference qualifiers]]
+-   Reference qualifiers
 -   Dictionary attributes
 -   Default values
 -   Calculations
 -   Field dependencies
--   Default column [[c_DisplayValues|display values]]
+-   Default column display values
 -   Mandatory and read-only status
 
 -   **[Define a dictionary override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/t_DefineADictionaryOverride.md)**  
@@ -33,7 +33,3 @@ Use a dictionary override to allow a field in a child table to have a different 
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[c_DisplayValues|Display values]]

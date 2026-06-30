@@ -12,7 +12,7 @@ breadcrumb: [Quality issue management form, Reference, Manufacturing Commercial 
 
 # CoPQ expense line form
 
-The CoPQ expense line form enables you to enter the expense line details for [[mco-product-non-conformances|product non-conformance]]..
+The CoPQ expense line form enables you to enter the expense line details for product non-conformance..
 
 <table id="table_l3h_ppt_whc"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Issue
 
 </td><td>
 
-Product non-conformance or [[mco-PQI-use|product quality investigation]] issue type.
+Product non-conformance or product quality investigation issue type.
 
 </td></tr><tr><td>
 
@@ -180,10 +180,5 @@ Cost center
 Cost center financially responsible for the item identified in Source ID, if any.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-PQI-use|Product quality investigation]]

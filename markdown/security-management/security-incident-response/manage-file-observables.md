@@ -14,7 +14,7 @@ breadcrumb: [Manage observables, Managing security incidents and inbound request
 
 # Manage file observables
 
-Manage file observables provides stringent security measures to store the suspicious files and enables the files type [[c_Observables|observables]] for sandbox integration.
+Manage file observables provides stringent security measures to store the suspicious files and enables the files type observables for sandbox integration.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Upload the file type observables:
 
 ## About this task
 
-You can create and view file type observables for a security incident. The suspicious files which are part of the observables are stored in a specific [[location|location]], which can be accessed by the security analyst to download the file only with a specific role.
+You can create and view file type observables for a security incident. The suspicious files which are part of the observables are stored in a specific location, which can be accessed by the security analyst to download the file only with a specific role.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ You can create and view file type observables for a security incident. The suspi
     -   Select **Upload Secure Attachment**.
     -   On the Upload Secure Attachments, select **Choose file** to upload one or more files. Each file is considered as a single observable record.
     -   Select **Create File Observables** to create the file type observables such as one is the file type and other one is the file hash which is a unique identifier.
-    Select the file type observable to process for further integrations such as sandbox, [[tisc-threat-lookup|threat lookup]]. In addition, you can also download the attachments from the file type observable.
+    Select the file type observable to process for further integrations such as sandbox, threat lookup. In addition, you can also download the attachments from the file type observable.
 
     **Note:**
 
@@ -67,8 +67,3 @@ You can create and view file type observables for a security incident. The suspi
     2.  Select the **Observable type Category: File**
     3.  Select **Upload** to attach a file.
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[location|Location]]
-- [[tisc-threat-lookup|Threat Lookup]]

@@ -15,7 +15,7 @@ breadcrumb: [Use, Intelligent Servicing for Fraud, Banking applications, Financi
 
 # Workspace for fraud agent
 
-The [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] workspace provides a single location for fraud agent to process cases and tasks. Agents can use it to respond to all task types, view the full context of an issue, and get relevant recommendations to resolve issues.
+The Intelligent Servicing for Fraud workspace provides a single location for fraud agent to process cases and tasks. Agents can use it to respond to all task types, view the full context of an issue, and get relevant recommendations to resolve issues.
 
 On the workspace landing page, you can get a quick overview of the cases and tasks that you and your team are working on. The widgets helps you and your team to monitor your workload, focus on high-priority items, and easily navigate across your responsibilities.
 
@@ -25,6 +25,3 @@ The following is an example of the workspace landing page for the fraud agent.
 
 \[Omitted image "fraud-agent-workspace.png"\] Alt text: Example landing page in workspace for fraud agent showing number and list of open cases, as well as indicators such as SLA at risk and breached.
 
-## Related
-
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

@@ -22,9 +22,9 @@ Role required: sn\_grc\_doc\_design.admin and sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **Template configuration**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **Template configuration**.
 
-2.  Open the template for which you want to [[create-content-configurations-action-tasks|create content configurations]].
+2.  Open the template for which you want to create content configurations.
 
 3.  On the Content configurations related list, select **New**.
 
@@ -56,8 +56,3 @@ Role required: sn\_grc\_doc\_design.admin and sn\_irm\_cont\_auth.admin
 
 **Parent Topic:**[Configuring ATO artifacts report templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-configure-word-based-template.md)
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]
-- [[create-content-configurations-action-tasks|Create Content configurations]]

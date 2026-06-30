@@ -16,9 +16,9 @@ Use a mobile dashboard to display data visualizations in graphical format. Addin
 
 A mobile dashboard is a launcher screen that enables you to see preconfigured data visualizations and analytical views via trend lines and score visualizations. Tap the analytics sections in your launcher screen to open data visualizations and analytical information displaying the status of instance data. For example, you can review the number of incidents opened per week or the average resolution time of projects. Depending on the configuration of your administrator, you can view a list of records that relate to a tapped section.
 
-For more information about accessibility features supported in the analytics previews, see [[accessibility-chart-view|Change mobile analytics views for accessibility]].
+For more information about accessibility features supported in the analytics previews, see [Change mobile analytics views for accessibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/accessibility-chart-view.md).
 
-\[Omitted image "donut-flow.png"\] Alt text: Three screen shots showing a flow from launcher screen to [[chart-screen|chart screen]] to parameterized list.
+\[Omitted image "donut-flow.png"\] Alt text: Three screen shots showing a flow from launcher screen to chart screen to parameterized list.
 
 Data visualizations reporting charts display views of current state instance data. These charts display information such as the number of high priority work orders or the number of pending approvals over a defined period.
 
@@ -36,7 +36,3 @@ The available time series trend-by charts in mobile are:
 -   [Spline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_CreateAreaAndSplineCharts.md)
 -   [Step line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/step-reports.md)
 
-## Related
-
-- [[accessibility-chart-view|Change mobile analytics views for accessibility]]
-- [[chart-screen|Chart screen]]

@@ -14,7 +14,7 @@ breadcrumb: [REST API Auth Scope, REST API access policies, API access policy, A
 
 # REST API Auth Scope properties and tables
 
-The [[rest-api-auth-scope|REST API Auth Scope]] plugin \(com.glide.rest.auth.scope\) includes the following [[ca-system-properties|system properties]], tables, and scripts.
+The REST API Auth Scope plugin \(com.glide.rest.auth.scope\) includes the following system properties, tables, and scripts.
 
 ## REST API Auth Scope Properties
 
@@ -40,7 +40,7 @@ This property is used to turn-off the platform level auth scope check. If set to
 
 </td></tr><tr><td>
 
-**glide.[[oauth-inbound-and-outbound|oauth]].token.scope.useraccount**
+**glide.oauth.token.scope.useraccount**
 
 </td><td>
 
@@ -63,7 +63,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_Authentication|Authentication]] Scope \(sys\_auth\_scope\)
+Authentication Scope \(sys\_auth\_scope\)
 
 </td><td>
 
@@ -79,10 +79,3 @@ This table links REST API with auth scope.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[rest-api-auth-scope|REST API Auth Scope]]
-- [[ca-system-properties|System properties]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]

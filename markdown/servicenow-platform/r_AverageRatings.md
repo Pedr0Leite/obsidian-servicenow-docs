@@ -14,7 +14,7 @@ breadcrumb: [Quiz scorecards, View a quiz designer scorecard, View a quiz result
 
 The Average Ratings view displays a bar chart of the weighted average rating for each question in a category.
 
-Use this view to learn how individual questions affect the overall rating for the category. Select a category from the second choice list above the chart. Ratings are only calculated for [[t_ConfigureAScoredQuestion|scored questions]]
+Use this view to learn how individual questions affect the overall rating for the category. Select a category from the second choice list above the chart. Ratings are only calculated for [scored questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureAScoredQuestion.md)
 
 \[Omitted image "QuizScorecardAverageRatings.png"\] Alt text:
 
@@ -22,9 +22,5 @@ To view the effect of each question's ratings on the entire category's ratings, 
 
 \[Omitted image "QuizScorecardRatingDetail.png"\] Alt text:
 
-**Parent Topic:**[[c_QuizScorecards|Quiz scorecards]]
+**Parent Topic:**[Quiz scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md)
 
-## Related
-
-- [[t_ConfigureAScoredQuestion|Configure a scored question]]
-- [[c_QuizScorecards|Quiz scorecards]]

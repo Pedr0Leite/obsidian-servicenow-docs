@@ -14,7 +14,7 @@ breadcrumb: [List of Discovery probes, Discovery probes and sensors, Using Disco
 
 # Windows probes and permissions
 
-[[r-discovery|Discovery]] accesses devices and software by executing commands as a specific user on Windows computers.
+Discovery accesses devices and software by executing commands as a specific user on Windows computers.
 
 Most probes require access to Windows classes, properties, and registry entries. Certain probes also require additional access to Windows directories and resources. Security policies vary by organization, so there’s no one specific role or right to grant. Verify that the Windows user has `local admin` permission for these Windows components.
 
@@ -451,6 +451,3 @@ Several Windows Registry entries are available for Discovery Windows probes.
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

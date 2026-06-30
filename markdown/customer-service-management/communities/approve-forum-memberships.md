@@ -14,7 +14,7 @@ breadcrumb: [Configure community forums, Configuring communities, Communities, C
 
 # Approve forum memberships
 
-Manage forum membership approvals when registered community users [[request-membership-forum|request membership to a forum]].
+Manage forum membership approvals when registered community users request membership to a forum.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ There are two ways of approving forum memberships.
 
 **Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 
-## Related
-
-- [[request-membership-forum|Request membership to a forum]]

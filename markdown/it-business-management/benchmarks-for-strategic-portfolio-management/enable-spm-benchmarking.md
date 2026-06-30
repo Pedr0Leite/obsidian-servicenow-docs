@@ -14,7 +14,7 @@ breadcrumb: [Configuring SPM Benchmarks, SPM Benchmarks, Strategic Portfolio Man
 
 # Enable SPM Benchmarks
 
-Opt in to [[benchmarks-for-spm|SPM Benchmarks]] to participate in SPM Benchmarks data collection for [[r_ITBusinessManagement|Strategic Portfolio Management]] KPIs.
+Opt in to SPM Benchmarks to participate in SPM Benchmarks data collection for Strategic Portfolio Management KPIs.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ You can opt out of the SPM Benchmarks at any time.
 
 **Parent Topic:**[Configuring SPM Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/benchmarks-for-strategic-portfolio-management/configuring-benchmarks.md)
 
-## Related
-
-- [[benchmarks-for-spm|SPM Benchmarks]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

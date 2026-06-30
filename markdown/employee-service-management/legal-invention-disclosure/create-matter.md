@@ -14,7 +14,7 @@ breadcrumb: [Use, Legal Invention Disclosure, Legal Service Delivery Practice Ap
 
 # Create a matter or add a Legal Invention Disclosure request to an existing matter
 
-Create a matter from a [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request or add the request to an existing matter to track the details of the complete patent application process if the request is approved for applying for a patent.
+Create a matter from a Legal Invention Disclosure request or add the request to an existing matter to track the details of the complete patent application process if the request is approved for applying for a patent.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_lg\_ops.legal\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
@@ -88,7 +88,3 @@ A new matter is created from the request or the request is added to an existing 
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

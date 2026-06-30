@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Integrations, Unified Employee Experience, Employee
 
 # Now Mobile experience for Employee Center
 
-The [[employee-center-landing-page|Employee Center]] mobile capabilities enable employees to stay connected regardless of when, where, and how they are working.
+The Employee Center mobile capabilities enable employees to stay connected regardless of when, where, and how they are working.
 
 Install the Now Mobile application from ServiceNow Store to install the default taxonomy for the Employee content store application. This application auto-assigns the Employee taxonomy to the Mobile Employee Service portal \(MESP\) record.
 
@@ -40,13 +40,13 @@ The following are the features that are delivered to give you a curated experien
 
     \[Omitted image "nm-home-browse.png"\] Alt text: Browse all topics section displays on Now Mobile home page.
 
--   **[[emp-slate-employee-profile|Employee Profile]] on Now Mobile**
+-   **Employee Profile on Now Mobile**
 
     You can view the employee profile details, such as, **About**, **Bio**, **Personal information**, and **Employment details** on Now Mobile.
 
     \[Omitted image "employee-profile-mobile.png"\] Alt text: Mobile view of employee profile
 
--   **[[emp-center-quick-link-config|Quick links]]**
+-   **Quick links**
 
     Use the helpful quick links available on the home page.
 
@@ -65,8 +65,3 @@ Configure Employee Center capabilities on Now Mobile to help employees utilize t
 
 [Exploring Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-vs-ec-pro.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[emp-center-quick-link-config|Quick links]]

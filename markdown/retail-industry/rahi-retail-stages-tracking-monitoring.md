@@ -20,8 +20,5 @@ A store plan moves through distinct phases, each supported by specific screens a
 4.  Store-level execution - Regional managers access the store case list for their region, drill into specific store cases, and review the tasks being worked. They can monitor task-level status, reassign work, or flag blockers. This is the primary execution layer — where stores actually complete the plan.
 5.  Task and case closure - Once store tasks are completed, HQ managers can view the state and close the HQ tasks and Store managers can view and close store tasks. The same playbook pattern is reused across both closure flows, creating a consistent interaction model. The HQ case closed state marks the end of the plan execution cycle for that store assignment.
 
-**Parent Topic:**[[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]
+**Parent Topic:**[Retail store plans tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-explore-store-plans-tracking.md)
 
-## Related
-
-- [[rahi-retail-explore-store-plans-tracking|Retail store plans tracking]]

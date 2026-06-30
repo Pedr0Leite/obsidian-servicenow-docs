@@ -14,7 +14,7 @@ breadcrumb: [Reference, Smart Assessment Engine, Governance, Risk, and Complianc
 
 # Results of migrating a metric category to an assessment template
 
-You can view the data that was migrated from the metric type to the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] assessment template in the related lists on the Assessment template migration form.
+You can view the data that was migrated from the metric type to the Smart Assessment Engine assessment template in the related lists on the Assessment template migration form.
 
 ## Tracking assessment template migration
 
@@ -22,7 +22,7 @@ After you have filled out the Assessment template migration form and started the
 
 ## Viewing the migration results
 
-To view your migration results, navigate to **All** &gt; **Smart Assessment Engine** &gt; **[[Administration|Administration]]** &gt; **Template Migrations**. In the Assessment template migrations list, select the migration number. Each migration record for a metric type is assigned a unique number that starts with the text ATMIG. The form displays the values that were used to generate the template. The related lists display the status and content of the migrated data. The Section migrations table provides a description of the fields in the related lists.
+To view your migration results, navigate to **All** &gt; **Smart Assessment Engine** &gt; **Administration** &gt; **Template Migrations**. In the Assessment template migrations list, select the migration number. Each migration record for a metric type is assigned a unique number that starts with the text ATMIG. The form displays the values that were used to generate the template. The related lists display the status and content of the migrated data. The Section migrations table provides a description of the fields in the related lists.
 
 ## Results of the migration
 
@@ -200,7 +200,3 @@ Description of an error that occurred during the unsuccessful migration.
 
 [How legacy metric types are migrated to sections in templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-how-legacy-metrics-migrated.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

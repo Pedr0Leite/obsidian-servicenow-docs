@@ -26,8 +26,5 @@ The following system properties, located in **Geolocation** &gt; **Administratio
 -   Number of days to keep history data: Time period for which the system retains history data.
 -   Minimum amount of time between updating the user's location \(in seconds\): Time period the system waits before updating a user's location, regardless of how often the user accesses tasks.
 
-**Parent Topic:**[[c_Geolocation|Geolocation]]
+**Parent Topic:**[Geolocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_Geolocation.md)
 
-## Related
-
-- [[c_Geolocation|Geolocation]]

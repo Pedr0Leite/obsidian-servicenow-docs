@@ -22,7 +22,7 @@ Role required: admin
 
 Default is 1000.
 
-**Note:** The maximum number of rows returned for a parameters list is limited by the maximum number of rows returned for [[sg-data-item|data items]]. In other words, the value for system property **glide.sg.list.max\_items\_number** cannot be greater than the value for system property **glide.sg.data\_item.row\_count**. For example, if you set the value of **glide.sg.list.max\_items\_number** to 50 but the value of **glide.sg.list.max\_items\_number** is 20, then you may only receive 20 records in your parameters list.
+**Note:** The maximum number of rows returned for a parameters list is limited by the maximum number of rows returned for data items. In other words, the value for system property **glide.sg.list.max\_items\_number** cannot be greater than the value for system property **glide.sg.data\_item.row\_count**. For example, if you set the value of **glide.sg.list.max\_items\_number** to 50 but the value of **glide.sg.list.max\_items\_number** is 20, then you may only receive 20 records in your parameters list.
 
 ## Procedure
 
@@ -39,9 +39,5 @@ Default is 1000.
     |Value|&lt;maximum-number-of-parameters-items&gt;|
 
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]
-- [[sg-data-item|Data items]]

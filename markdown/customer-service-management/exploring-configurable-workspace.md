@@ -12,13 +12,13 @@ breadcrumb: [Migrating to Configurable Workspace, CSM Configurable Workspace, Or
 
 # Explore CSM Configurable Workspace
 
-[[csm-workspaces-configure|CSM Configurable Workspace]] is a workspace that can easily be configured and extended using UI Builder.
+CSM Configurable Workspace is a workspace that can easily be configured and extended using UI Builder.
 
 UI Builder is a drag-and-drop web user interface builder that you can use to build and configure CSM Configurable Workspace pages and components.
 
 ## UI Builder
 
-Working in UI Builder enables you to preview the final interface of the workspace you're building and to see the effects of different configurations. For CSM Configurable Workspace, some configurations are also performed in [[migration-lists|lists]] and [[migration-forms|forms]].
+Working in UI Builder enables you to preview the final interface of the workspace you're building and to see the effects of different configurations. For CSM Configurable Workspace, some configurations are also performed in lists and forms.
 
 \[Omitted image "UI-Builder-full-app.png"\] Alt text: UI Builder screen with page configuration options along with, the Layout, Content, and Variants sections.
 
@@ -36,17 +36,10 @@ UI Builder is as powerful as you need it. You can build simple web experiences, 
 
 ## Setting up CSM Configurable Workspace
 
-For more information about configuring different features in CSM Configurable Workspace, such as ribbon configurations, [[migration-form-headers|form headers]], and UI actions, see [[csm-config-workspace-set-up|Set up CSM Configurable Workspace]].
+For more information about configuring different features in CSM Configurable Workspace, such as ribbon configurations, form headers, and UI actions, see [Set up CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-set-up.md).
 
 **Related topics**  
 
 
 [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md)
 
-## Related
-
-- [[csm-config-workspace-set-up|Set up CSM Configurable Workspace]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[migration-form-headers|Form headers]]

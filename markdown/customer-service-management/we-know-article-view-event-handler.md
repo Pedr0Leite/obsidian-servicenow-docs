@@ -30,10 +30,7 @@ A component triggers an event when a certain condition is met or on user interac
 
 [Embed the Knowledge article view component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-know-article-view-comp.md)
 
-[[we-know-article-view-comp-prop|Component properties for the Knowledge article view]]
+[Component properties for the Knowledge article view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-know-article-view-comp-prop.md)
 
 [Sample code for the Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-know-article-view-sample-code.md)
 
-## Related
-
-- [[we-know-article-view-comp-prop|Component properties for the Knowledge article view]]

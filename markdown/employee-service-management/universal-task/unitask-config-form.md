@@ -14,7 +14,7 @@ breadcrumb: [Universal Task reference, Universal Task, Employee Service Manageme
 
 # Universal Task Configuration form
 
-Use the Universal Task Configuration form to associate [[universal-task-landing|Universal Task]] to your service.
+Use the Universal Task Configuration form to associate Universal Task to your service.
 
 <table id="table_dlr_dtc_ynb"><thead><tr><th>
 
@@ -51,6 +51,3 @@ User field on the parent table that the universal task must be assigned to on cr
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Task reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

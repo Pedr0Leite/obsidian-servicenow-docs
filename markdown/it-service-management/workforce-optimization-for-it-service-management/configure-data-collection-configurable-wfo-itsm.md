@@ -18,14 +18,14 @@ Define the data that you want to collect for incidents, interactions, or any tab
 
 ## Before you begin
 
--   You must have the MetricBase plugin \[com.snc.clotho\] enabled to use [[explore-demand-forecast-configurable-wfo-itsm|Demand Forecast in Workforce Optimization for ITSM]]. For more information, see [Requesting the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-metricbase.md).
+-   You must have the MetricBase plugin \[com.snc.clotho\] enabled to use Demand Forecast in Workforce Optimization for ITSM. For more information, see [Requesting the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-metricbase.md).
 -   You must be in the [Global scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_GlobalScope.md).
 
 Role required: sn\_agent\_forecast.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Demand Forecast**
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Demand Forecast**
 
 2.  Define the data that you want to collect for forecasting the number of agents that you need.
 
@@ -181,7 +181,3 @@ Set the minimum or maximum number of agents required per hour so that you always
 
 [Use Demand Forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/analyze-staffing-demand-forecast-wfo-itsm.md)
 
-## Related
-
-- [[explore-demand-forecast-configurable-wfo-itsm|Demand Forecast in Workforce Optimization for ITSM]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

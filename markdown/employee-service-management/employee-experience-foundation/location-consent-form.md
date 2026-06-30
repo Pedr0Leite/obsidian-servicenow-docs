@@ -22,12 +22,12 @@ The location consent form helps you configure the communication channels for app
 |Description|Description of the configuration record.|
 |Application|Application scope of the configuration record. This field is automatically set to the application scope of your instance.|
 |Domain|Domain for the communication configuration.|
-|Show communication method|Option to enable the communication method on the [[appointment-booking|appointment booking]] form.|
+|Show communication method|Option to enable the communication method on the appointment booking form.|
 |Update my profile|Option to allow users to update their profile with the appointment booking communication details.|
 |Add comment|Option to allow users to provide comments on the appointment booking form.|
 |Ask for consent|Option to ask for communication consent from the users.|
 |Table|Table that is used for the phone number and email fields for the user.|
-|User [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field|Table field that is used to reference the user record.|
+|User reference field|Table field that is used to reference the user record.|
 |Phone number field|Table field that is used for the user's phone number.|
 |Email field|Table field that is used for the user's email address.|
 
@@ -44,7 +44,7 @@ The location consent form helps you configure the communication channels for app
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -74,7 +74,7 @@ The location consent form helps you configure the communication channels for app
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -94,9 +94,3 @@ The location consent form helps you configure the communication channels for app
 
 [Website configuration form]()
 
-## Related
-
-- [[appointment-booking|Appointment Booking]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

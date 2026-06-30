@@ -38,7 +38,7 @@ The manager of an internal business location can access all the cases for accoun
 
 3.  On the Internal business location form, fill in the fields.
 
-    For a description of the field values, see [[mco-internal-business-location-form|Internal business location form]].
+    For a description of the field values, see [Internal business location form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-internal-business-location-form.md).
 
 4.  Select **Submit**.
 
@@ -46,6 +46,4 @@ The manager of an internal business location can access all the cases for accoun
 
     After creating an internal business location, you can add staff members to the location, create relationships between staff members and accounts, households, and consumers, and track the list of customers serviced by a business location.
 
-## Related
 
-- [[mco-internal-business-location-form|Internal business location form]]

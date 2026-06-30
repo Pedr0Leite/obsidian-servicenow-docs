@@ -69,7 +69,7 @@ The form header contains a primary field and secondary fields. You can add your 
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Assign a role for configuring template mappings]()
 
@@ -77,6 +77,3 @@ The form header contains a primary field and secondary fields. You can add your 
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

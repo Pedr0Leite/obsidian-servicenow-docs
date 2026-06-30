@@ -14,7 +14,7 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Emails view for supplier managers
 
-[[supplier|Supplier]] managers can access all emails including system-triggered emails, inbound replies, and error emails from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] at case, task, and supplier levels.
+Supplier managers can access all emails including system-triggered emails, inbound replies, and error emails from the Source-to-Pay Workspace at case, task, and supplier levels.
 
 Supplier managers can access all emails linked with a case, task, or supplier from the **Emails** tab in the case, task, and supplier details pages respectively. Email actions are reflected, incomplete email errors are handled, and email-related activities can be summarized from the workspace.
 
@@ -29,7 +29,7 @@ Supplier managers can access all emails linked with a case, task, or supplier fr
 
 When a task is created and assigned, the system automatically triggers an notification email to the assigned stakeholder.
 
--   When the task is assigned to a [[supplier-contact|supplier contact]], the email provides the receiver with two options: complete the task directly from the email, or view the task in the [[supplier-central|Supplier Collaboration Portal]].
+-   When the task is assigned to a supplier contact, the email provides the receiver with two options: complete the task directly from the email, or view the task in the Supplier Collaboration Portal.
 -   When the task is assigned to an internal stakeholder, the email provides the receiver with two options: complete the task directly from the email, or view the task in the Source-to-Pay Workspace.
 
 **Note:** If the email subject or reference ID is modified while marking the task as complete via email, the system detects the mismatch and sends an automated error notification emails.
@@ -80,9 +80,3 @@ To enable email summarization, set the default model for the One Extend capabili
 
 [Create supplier case from Universal Request]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

@@ -18,7 +18,7 @@ Configure your Alexa skill to talk to your ServiceNow instance.
 
 ## Before you begin
 
-**Note:** Linking your Alexa account with your ServiceNow instance is optional and only the [[virtual-agent-landing-page|Virtual Agent]] topics with the public role are accessible with guest user access.
+**Note:** Linking your Alexa account with your ServiceNow instance is optional and only the Virtual Agent topics with the public role are accessible with guest user access.
 
 Role required: admin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 3.  Click **Import Code**.
 
-    **Note:** Browse for the `lambda_funtion_sn_va_alexa.zip` file that you downloaded from the Supporting Documents section of the [[conv-integ-alexa|Conversational Integration with Alexa]] application on the ServiceNow Store and click **Import**.
+    **Note:** Browse for the `lambda_funtion_sn_va_alexa.zip` file that you downloaded from the Supporting Documents section of the Conversational Integration with Alexa application on the ServiceNow Store and click **Import**.
 
 4.  In the **endpoint** field, replace the hostname with the host name from your ServiceNow instance URL where your Alexa store app is installed.
 
@@ -68,7 +68,3 @@ Role required: admin
 
 **Parent Topic:**[Set up Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setup-alexa.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[conv-integ-alexa|Conversational Integration with Alexa]]

@@ -26,11 +26,11 @@ As a privacy analyst, you must provide details how personal data is being used i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **List** &gt; **Lists** &gt; **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **List** &gt; **Lists** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select and open the processing activity that contains the information object you want to modify.
 
-3.  Select **Processing data inventory** &gt; **\[PI\] [[information-objects|Information objects]]**.
+3.  Select **Processing data inventory** &gt; **\[PI\] Information objects**.
 
 4.  Open the information object that you want to modify.
 
@@ -135,8 +135,3 @@ Reasons for storing and using the personal data.
 
 **Parent Topic:**[Create or manage an information object within a processing activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-manage-io-on-pa.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[information-objects|information objects]]

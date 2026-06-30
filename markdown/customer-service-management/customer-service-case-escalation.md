@@ -20,7 +20,7 @@ Escalating a case or an account provides the following benefits:
 -   Facilitates communication about that issue.
 -   Provides a way to track progress toward a resolution.
 
-Users with the escalation requester role can [[escalate-csm-case|escalate a case or an account]] by selecting the **Escalate Case** related link on the case or [[customer-service-account-form|account form]].
+Users with the escalation requester role can [escalate a case or an account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/escalate-csm-case.md) by selecting the **Escalate Case** related link on the case or account form.
 
 ## Case and account escalation differences
 
@@ -29,7 +29,7 @@ While the escalation process is similar for cases and accounts, there are some i
 -   Case escalations: A customer service agent typically manages a case escalation and works directly with the escalated case to resolve the issue.
 -   Account escalations: An escalation manager typically manages an account escalation, which can include multiple associated cases, and records details in the escalation record.
 
-For more information, see [[case-account-escalation-differences|Case and account escalation differences]].
+For more information, see [Case and account escalation differences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-account-escalation-differences.md).
 
 ## Configuring case and account escalation
 
@@ -37,9 +37,9 @@ The following table includes an overview of case and account escalation configur
 
 |Task|Description|
 |----|-----------|
-|[[configure-escalation-management|Configure escalation management]]|Configure case and account escalation [[using-csm|using Customer Service Management]] guided setup.|
-|[[create-escalation-template|Create a case or account escalation template]]|Escalation templates determine how an escalation request is processed, including the type of escalation and an optional approval process.|
-|[[create-escalation-severity|Create a case or account escalation severity]]|Create definitions for different levels of escalation severity and select color indicators to highlight escalated cases and accounts in the user interface.|
+|[Configure escalation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-escalation-management.md)|Configure case and account escalation using Customer Service Management guided setup.|
+|[Create a case or account escalation template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-escalation-template.md)|Escalation templates determine how an escalation request is processed, including the type of escalation and an optional approval process.|
+|[Create a case or account escalation severity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-escalation-severity.md)|Create definitions for different levels of escalation severity and select color indicators to highlight escalated cases and accounts in the user interface.|
 
 ## Using case and account escalation
 
@@ -63,18 +63,18 @@ Escalate cases or accounts, either on behalf of customers or for internal purpos
 
 </td></tr><tr><td>
 
-[[manage-escalated-case-account|Manage an escalated case or account]]
+[Manage an escalated case or account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-escalated-case-account.md)
 
 </td><td>
 
-Manage a case or account through the escalation process using the escalation record. The system identifies cases and accounts on [[migration-lists|lists]] and [[migration-forms|forms]] with color indicators that correspond to the escalation severity: red \(high\) or orange \(medium\).Role required:
+Manage a case or account through the escalation process using the escalation record. The system identifies cases and accounts on lists and forms with color indicators that correspond to the escalation severity: red \(high\) or orange \(medium\).Role required:
 
 -   Customer service agent
 -   Escalation manager
 
 </td></tr><tr><td>
 
-[[de-escalate-csm-case|De-escalate a case or an account]]
+[De-escalate a case or an account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/de-escalate-csm-case.md)
 
 </td><td>
 
@@ -90,17 +90,3 @@ Include an optional approval step for approvers to review a request and either a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[escalate-csm-case|Escalate a case or an account]]
-- [[case-account-escalation-differences|Case and account escalation differences]]
-- [[configure-escalation-management|Configure escalation management]]
-- [[create-escalation-template|Create a case or account escalation template]]
-- [[create-escalation-severity|Create a case or account escalation severity]]
-- [[manage-escalated-case-account|Manage an escalated case or account]]
-- [[de-escalate-csm-case|De-escalate a case or an account]]
-- [[customer-service-account-form|Account form]]
-- [[using-csm|Using Customer Service Management]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

@@ -44,7 +44,7 @@ Record number
 
 </td><td>
 
-Unique number generated for the [[ur-landing-limitedaccess|universal request]].
+Unique number generated for the universal request.
 
 </td></tr><tr><td>
 
@@ -92,6 +92,3 @@ Option to create a private discussion accessible only to chosen participants. Us
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

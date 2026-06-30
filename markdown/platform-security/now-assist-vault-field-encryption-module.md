@@ -13,13 +13,13 @@ breadcrumb: [Use agentic AI, ServiceNow Vault]
 
 # Field encryption with Vault module agentic workflow
 
-Use the field encryption with Vault module agentic workflow to encrypt specific fields and configure secure access to [[users|users]] with designated roles.
+Use the field encryption with Vault module agentic workflow to encrypt specific fields and configure secure access to users with designated roles.
 
 ## Field encryption with Vault module agentic workflow overview
 
-Add [[field-encryption|field encryption]] protection and improve your security posture with the field encryption with Vault module agentic workflow.
+Add field encryption protection and improve your security posture with the field encryption with Vault module agentic workflow.
 
-When you [[configuring-now-assist-vault|install Now Assist for Vault]], this agentic workflow is turned on by default.
+When you install Now Assist for Vault, this agentic workflow is turned on by default.
 
 To modify the agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
@@ -37,7 +37,7 @@ To access and configure the agentic workflow:
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Field Encryption with Vault module**.
 
-**Note:** The field encryption with Vault module agentic workflow is triggered automatically when you secure custom applications using [[vault-dashboard|ServiceNow Vault console dashboard]]. You can also invoke the agentic workflow manually in the Now Assist panel.
+**Note:** The field encryption with Vault module agentic workflow is triggered automatically when you secure custom applications using ServiceNow Vault console dashboard. You can also invoke the agentic workflow manually in the Now Assist panel.
 
 ## AI agents used in the field encryption with Vault module agentic workflow
 
@@ -47,12 +47,5 @@ To access and configure the agentic workflow:
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-**Parent Topic:**[[use-now-assist-vault-agentic-ai|Use agentic AI in Now Assist for Vault]]
+**Parent Topic:**[Use agentic AI in Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-now-assist-vault-agentic-ai.md)
 
-## Related
-
-- [[use-now-assist-vault-agentic-ai|Use agentic AI in Now Assist for Vault]]
-- [[users|Users]]
-- [[field-encryption|Field Encryption]]
-- [[configuring-now-assist-vault|Install Now Assist for Vault]]
-- [[vault-dashboard|ServiceNow Vault console dashboard]]

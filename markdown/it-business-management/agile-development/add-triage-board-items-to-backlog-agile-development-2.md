@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Triage items and add them to a backlog in Agile Development 2.0
 
-Review the list of items in your triage board and add them to your [[agile-landing-page|Agile Development 2.0]] backlog. Based on their priority, you can schedule them in the upcoming sprints for your product teams to work on them.
+Review the list of items in your triage board and add them to your Agile Development 2.0 backlog. Based on their priority, you can schedule them in the upcoming sprints for your product teams to work on them.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ These stories can be later assigned to product teams and scheduled into sprints.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Agile Board**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Agile Board**.
 
 2.  From the Backlog section of the Agile board, select your product or team backlog from the **Backlog** field.
 
@@ -53,7 +53,3 @@ An example here shows how an associated story is created for a defect that is ad
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

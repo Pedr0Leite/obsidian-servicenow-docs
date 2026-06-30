@@ -28,13 +28,11 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 3.  Select the work order that has the work order tasks you want to qualify.
 
-4.  To [[c_QualifyWorkOrders|qualify a work order]] task:
+4.  To qualify a work order task:
 
     1.  Select the work order task.
     2.  In the **Dispatch group** field, click the search icon, and select a dispatch group.
     3.  Click **Save**.
     The work order task moves to **Pending Dispatch** state. When all work order tasks related a work order are qualified the work order moves to **Qualified** state. For more information on qualifying work order tasks, see [Qualify work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_QualifyATask.md)
 
-## Related
 
-- [[c_QualifyWorkOrders|Qualify a work order]]

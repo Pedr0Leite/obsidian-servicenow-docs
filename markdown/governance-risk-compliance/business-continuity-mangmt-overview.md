@@ -23,7 +23,7 @@ The Business Continuity Management product provides a framework to perform conti
 -   Develop and provide continuous improvement to the business continuity plans.
 -   Identify, analyze, and manage process continuity during and following a disruptive event.
 
-For more information on Business Continuity Management, see [[exploring-bcm|Exploring Business Continuity Management]].
+For more information on Business Continuity Management, see [Exploring Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/exploring-bcm.md).
 
 ## Get started
 
@@ -58,9 +58,9 @@ You can configure the Business Continuity Management application in the UI Build
 
 For more information on the next generation of the user interface, see [Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-page.md).
 
-For information on the UI Builder administrative tasks in BCM, see [[configuring-bcm-workspace-by-using-ui-builder|Setup for the UI Builder]].
+For information on the UI Builder administrative tasks in BCM, see [Setup for the UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-bcm-workspace-by-using-ui-builder.md).
 
-For instructions on how to configure your business continuity tasks in BCM UIB Workspace, see [[manage-bcm-with-uib-workspace|Managing BCM workflow tasks]].
+For instructions on how to configure your business continuity tasks in BCM UIB Workspace, see [Managing BCM workflow tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/manage-bcm-with-uib-workspace.md).
 
 ## Troubleshoot and get help
 
@@ -70,8 +70,3 @@ For instructions on how to configure your business continuity tasks in BCM UIB W
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 
-## Related
-
-- [[exploring-bcm|Exploring Business Continuity Management]]
-- [[configuring-bcm-workspace-by-using-ui-builder|Setup for the UI Builder]]
-- [[manage-bcm-with-uib-workspace|Managing BCM workflow tasks]]

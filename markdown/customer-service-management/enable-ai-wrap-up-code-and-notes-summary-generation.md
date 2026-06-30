@@ -18,13 +18,13 @@ Configure Now Assist in your ServiceNow instance to enable the feature to automa
 
 After an Interaction ends or is transferred to a new agent, the interaction may enter a wrap up state. During this state, agents must select a wrap up code and enter notes to document the interaction. Now Assist can analyze the interaction transcript and recommend an appropriate wrap up code based on the conversation and available wrap up code options. The skill also generates a summary of the interaction to populate the notes field. You can configure the system to automatically generate these recommendations when wrap up begins, or you can enable manual generation where agents click a button to invoke the skill when needed. Manual generation gives customers control over token usage by calling the LLM only when requested.
 
-See [[ai-generated-wrap-up-codes-and-notes-summary|Use AI to generate wrap up code and notes summary]] and [[interaction-wrapup-ai-generated|AI interaction wrap-up]].
+See [Use AI to generate wrap up code and notes summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ai-generated-wrap-up-codes-and-notes-summary.md) and [AI interaction wrap-up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-wrapup-ai-generated.md).
 
 Role required: admin
 
 Review the following dependencies to ensure access to configuration:
 
--   Now Assist for [[c_CustomerServiceManagement|Customer Service Management]] plugins are installed and activated
+-   Now Assist for Customer Service Management plugins are installed and activated
 -   The Now Assist for Wrap Up skill is activated in your instance
 -   Wrap up codes are present in the Interaction Wrap Up Codes table with detailed description
 
@@ -99,8 +99,3 @@ Agents can accept the AI recommendations or enter their own values. The **Insert
 
 **Note:** The system never overwrites agent input when displaying AI recommendations.
 
-## Related
-
-- [[ai-generated-wrap-up-codes-and-notes-summary|Use AI to generate wrap up code and notes summary]]
-- [[interaction-wrapup-ai-generated|AI interaction wrap-up]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

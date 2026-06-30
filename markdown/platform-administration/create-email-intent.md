@@ -12,7 +12,7 @@ breadcrumb: [Configure email agentic workflows, Use agentic workflows in emails,
 
 # Create email intents
 
-Create and define an email intent for analyzing and identifying the primary purpose for an [[ia-inbound-email-il|inbound email]]. Understanding the email's intent helps guide the tone, context, and call-to-action for effective responses.
+Create and define an email intent for analyzing and identifying the primary purpose for an inbound email. Understanding the email's intent helps guide the tone, context, and call-to-action for effective responses.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_notif\_agents.notification\_ai\_admin
 
 ## About this task
 
-Follow the [[guidelines-creating-intent|General guidelines for creating and mapping an intent]]
+Follow the [General guidelines for creating and mapping an intent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/guidelines-creating-intent.md)
 
 ## Procedure
 
@@ -44,10 +44,5 @@ Follow the [[guidelines-creating-intent|General guidelines for creating and mapp
 
 ## What to do next
 
-[[create-actions-for-intent|Create and associate actions for intent]]
+[Create and associate actions for intent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-actions-for-intent.md)
 
-## Related
-
-- [[guidelines-creating-intent|General guidelines for creating and mapping an intent]]
-- [[create-actions-for-intent|Create and associate actions for intent]]
-- [[ia-inbound-email-il|Inbound email]]

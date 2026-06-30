@@ -12,7 +12,7 @@ breadcrumb: [Playbook pages, Playbooks in Customer Service Management, Agent too
 
 # Customize the dynamic related records for a playbook page
 
-Customize the dynamic related records for a playbook page to display in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]]. These records dynamically change depending on the context of the current record or playbook activity.
+Customize the dynamic related records for a playbook page to display in the contextual side panel in CSM Configurable Workspace. These records dynamically change depending on the context of the current record or playbook activity.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 The definitions for the related records aren't active by default. You must activate these definitions if you want them to appear in the related records.
 
-Any change made to the customer service case dynamic related record context will also be applicable to all extensions of the customer service case. For creating custom context, see [[configure-related-record-contexts|Configure related record contexts]].
+Any change made to the customer service case dynamic related record context will also be applicable to all extensions of the customer service case. For creating custom context, see [Configure related record contexts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-related-record-contexts.md).
 
-You must define an EVAM view configuration for the tables in addition to setting up Dynamic Related Records. For more information, see [[define-csm-evam-view-config|Define an EVAM view configuration]].
+You must define an EVAM view configuration for the tables in addition to setting up Dynamic Related Records. For more information, see [Define an EVAM view configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/define-csm-evam-view-config.md).
 
 ## Procedure
 
@@ -34,7 +34,7 @@ You must define an EVAM view configuration for the tables in addition to setting
 
 3.  Activate all the related record definitions for the Onboarding, Complaint, or Product Support case.
 
-    For more information, see [[csm-contextual-related-records|Dynamic related records]].
+    For more information, see [Dynamic related records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contextual-related-records.md).
 
 4.  Select **Update**.
 
@@ -59,7 +59,7 @@ Customer service case
 -   Social Logs
 -   Appointments
 -   Requests
--   [[c_OnScreenAlerts|Special Handling Notes]]
+-   Special Handling Notes
 -   Child Cases
 -   Knowledge Gaps
 -   Attached Knowledge
@@ -111,16 +111,7 @@ Onboarding case
 **Related topics**  
 
 
-[[dynamic-related-records-configure|Configure dynamic related records]]
+[Configure dynamic related records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/dynamic-related-records-configure.md)
 
-[[configure-related-record-definitions|Configure related record definitions]]
+[Configure related record definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-related-record-definitions.md)
 
-## Related
-
-- [[configure-related-record-contexts|Configure related record contexts]]
-- [[define-csm-evam-view-config|Define an EVAM view configuration]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[dynamic-related-records-configure|Configure dynamic related records]]
-- [[configure-related-record-definitions|Configure related record definitions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_OnScreenAlerts|Special handling notes]]

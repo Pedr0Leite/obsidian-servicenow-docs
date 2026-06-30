@@ -15,7 +15,7 @@ breadcrumb: [Migrating a data input configuration, Set up HLA on your instance, 
 
 # Export source types to an update set in Health Log Analytics
 
-Export source types to an update set separate from the [[hla-landing-page|Health Log Analytics]] data input configuration. You can then import the update set to the target environment.
+Export source types to an update set separate from the Health Log Analytics data input configuration. You can then import the update set to the target environment.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Import the update set to the required ServiceNow instance. For more information,
 
 **Parent Topic:**[Migrating a Health Log Analytics data input configuration between instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-migration.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

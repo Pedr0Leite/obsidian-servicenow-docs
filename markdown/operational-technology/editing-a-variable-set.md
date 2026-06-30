@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[variables|Variables]] page.
+1.  Navigate to the Variables page.
 
 2.  Select a Variable set.
 
@@ -48,6 +48,4 @@ Role required: admin
 
     \[Omitted image "encrypted-passwords.png"\] Alt text: Encrypted values
 
-## Related
 
-- [[variables|Variables]]

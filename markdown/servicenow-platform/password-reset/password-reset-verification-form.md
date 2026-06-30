@@ -30,14 +30,14 @@ Type
 
 </td><td>
 
-Create verifications based on one of the [[verification-types-in-the-base-system|verification types in the base system]]. [[password-reset-landing-page|Password Reset]] supports the following types. You can create multiple instances of any type.
+Create verifications based on one of the verification types in the base system. Password Reset supports the following types. You can create multiple instances of any type.
 
  -   Personal Data Confirmation Verification
 -   Personal Data Verification
 -   Security Question Verification
 -   SMS Code Verification
 
- The [[win-password-reset-overview|Password Reset Windows Application]] supports the following types:
+ The Password Reset Windows Application supports the following types:
 
 -   Personal Data Verification. You can create only a single instance.
 -   Security Question Verification. You can create multiple instances.
@@ -65,8 +65,3 @@ Parameters used by a verification to configure specific behaviors, like number o
 
 [Create a custom Password Reset verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreatePWRVerFromVerType.md)
 
-## Related
-
-- [[verification-types-in-the-base-system|Verification types in the base system]]
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]

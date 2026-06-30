@@ -14,7 +14,7 @@ breadcrumb: [Setting up the policy data for Insurance claims, Configure, Insuran
 
 # Coverage specification
 
-Learn how an insurance policy defines the specific protections or risk coverages for your customers by using the [[insurance-claims-flow|Insurance claims]] application.
+Learn how an insurance policy defines the specific protections or risk coverages for your customers by using the Insurance claims application.
 
 Coverage specifications are important as they outline the scope and limits of the protection that is provided by a policy.
 
@@ -41,6 +41,3 @@ An administrator defines these options in the product model, ensuring that the i
 
 [Create a coverage specification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/creating-a-coverage-specification.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

@@ -14,7 +14,7 @@ breadcrumb: [Use entity and risk dependencies using the GRC: Workbench, Use, Ris
 
 # Create entity class using the GRC: Workbench
 
-GRC managers create [[entity-class-in-risk-ws|entity classes]] representing the types of things that are part of the dependency model. Reports can be filtered to define relationships between the different enity classes. An [[entity-class|entity class]] defines what a entity actually is.
+GRC managers create entity classes representing the types of things that are part of the dependency model. Reports can be filtered to define relationships between the different enity classes. An entity class defines what a entity actually is.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ Role required: sn\_grc\_manager
 
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-class|entity class]]

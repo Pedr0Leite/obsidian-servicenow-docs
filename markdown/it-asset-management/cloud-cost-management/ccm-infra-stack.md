@@ -18,7 +18,7 @@ Use the Cloud Cost Management Infra Stack application to process and download bi
 
 ## Overview of the Cloud Cost Management Infra Stack application
 
-The Cloud Cost Management Infra Stack application is an optional plugin that can be installed alongside [[cloud-insights-landing-page|Cloud Cost Management]] version 8.1 and later from the ServiceNow Store. Installing this plugin also activates the Glide Fenix \(com.glide.fenix\) plugin.
+The Cloud Cost Management Infra Stack application is an optional plugin that can be installed alongside Cloud Cost Management version 8.1 and later from the ServiceNow Store. Installing this plugin also activates the Glide Fenix \(com.glide.fenix\) plugin.
 
 **Important:** If you have activated the Cloud Cost Management Infra Stack application, you can't deactivate it later.
 
@@ -65,6 +65,3 @@ You must fulfill these requirements to process billing jobs.
 
 -   Make sure to have enough storage on your Cloud Cost Management Glide database for storing the attachments of the AWS billing job with Assume role authentication temporarily until the billing download job is processed. After the job is complete, these temporary attachments are deleted from the Glide database. The storage that you should have depends on the size of data on AWS. For more details, see [Processing AWS billing jobs with Assume role authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/process-aws-assume-infra.md).
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

@@ -14,13 +14,13 @@ breadcrumb: [Administer CMDB Data Manager, CMDB data management, Configuration M
 
 # Create a CMDB Data Manager policy
 
-Create a CMDB Data Manager policy in CMDB Workspaceor [[sg-workspace|Service Graph Workspace]] to automatically process CIs life-cycle events such as deletion. Applying consistent and standard life-cycle policies to CIs helps maintain the health of the CMDB.
+Create a CMDB Data Manager policy in CMDB Workspaceor Service Graph Workspace to automatically process CIs life-cycle events such as deletion. Applying consistent and standard life-cycle policies to CIs helps maintain the health of the CMDB.
 
 ## Before you begin
 
 -   The life-cycle policies Retire, Archive, and Delete, require that an active retirement definition exists for each targeted class in the policy. If you attempt to create a policy of a policy type for which this requirement applies but isn't met, an error message appears and the operation fails.
 
-    For more information about [[life-cycle-rules|retirement definitions]], see [Retirement definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/life-cycle-rules.md).
+    For more information about retirement definitions, see [Retirement definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/life-cycle-rules.md).
 
 -   Verify that any custom subflow that you want to associate with a policy, exists:
     1.  Open either workspace:
@@ -94,7 +94,7 @@ Life-cycle event or data management action, such as Delete or Attestation, that 
 
 </td></tr><tr><td>
 
-[[c_WorkNotes|Work notes]]
+Work notes
 
 </td><td>
 
@@ -157,7 +157,7 @@ Add a condition that is based on related lists that are associated with the targ
 
 6.  Fill out the Assignment form and then select **Continue**.
 
-    1.  Set the **Assignment type** and then the **Task assignment** field that appears, to specify the type of assignment and the table columns to use for assigning the policy tasks. The drop-down list in **Task assignment** is dynamically populated with columns in the table that the policy is created for, and that [[reference|reference]] **Assignment type** tables, as follows:
+    1.  Set the **Assignment type** and then the **Task assignment** field that appears, to specify the type of assignment and the table columns to use for assigning the policy tasks. The drop-down list in **Task assignment** is dynamically populated with columns in the table that the policy is created for, and that reference **Assignment type** tables, as follows:
 
         -   **User Field**: Assigns policy tasks to a user in the user field specified in **Task assignment**. The drop-down list in **Task assignment** contains fields in the table set by the data filter, that reference the User \[sys\_user\] table \(such as **Attested by** and **Assigned to**\).
 
@@ -232,7 +232,7 @@ Display fields
 
 </td><td>
 
-One or more fields that appear in list views in [[c_DataCertification|Data Certification]] tasks, that uniquely identify the records that require certification.
+One or more fields that appear in list views in Data Certification tasks, that uniquely identify the records that require certification.
 
  The selected fields can't overlap fields in **Certification fields**.
 
@@ -361,7 +361,7 @@ After you publish a policy:
 
 -   A daily scheduled job processes the published policy and policy tasks are assigned according to the policy settings. If the policy is associated with a subflow, then policy tasks trigger the policy subflow. Policy execution issues are recorded in an error log with notifications sent to the CMDB Data Manager administrator.
 
-    If the policy is configured to require an approval for its tasks, then [[email|email]] notifications are sent to members of the assignment group in the **Managed by Group** attribute of the CI. If the policy is associated with a subflow, then a policy task triggers the policy subflow only after the task is approved.
+    If the policy is configured to require an approval for its tasks, then email notifications are sent to members of the assignment group in the **Managed by Group** attribute of the CI. If the policy is associated with a subflow, then a policy task triggers the policy subflow only after the task is approved.
 
 -   If the policy is associated with a subflow, then after a policy task is complete, the policy subflow closes the task. For an Attestation policy \(which isn't associated with a subflow\), a user must process all CIs in the task and submit the task to close it.
 -   For Attestation policies, attestation tasks are assigned to users as specified, and those tasks appear in the [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)and [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) when those users log in.
@@ -373,7 +373,7 @@ After you publish a policy:
 -   [Publish a draft CMDB Data Manager policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-publish-draft-policy.md).
 -   On the Policies page, in the Published policies list view, select a policy to see policy details on a policy form. Select **View Policy** to see the settings in all of the policy form pages.
 -   On the Policies page, in the Published policies list view, select a policy that you want to deactivate. On a policy form select **Deactivate Policy** to temporarily prevent the policy from running.
--   Select **View Open Tasks** in the Open Policy Tasks tile to track the processing of policy tasks in the [[cmdb-data-management-landing|CMDB Data Management]] Task Control list view. The Success Percent column shows the percentage of CIs in the task for which the task is completed. A CI is counted as complete in an archival task only after the archival process has been fully completed for the CI \(and isn't counted as complete while the CI is initially staged for archival for example\).
+-   Select **View Open Tasks** in the Open Policy Tasks tile to track the processing of policy tasks in the CMDB Data Management Task Control list view. The Success Percent column shows the percentage of CIs in the task for which the task is completed. A CI is counted as complete in an archival task only after the archival process has been fully completed for the CI \(and isn't counted as complete while the CI is initially staged for archival for example\).
 -   Run a policy on-demand. In general, the system generates a scheduled job for on-demand policies, prefixed with the policy name.
 
     -   Run the scheduled job:
@@ -386,12 +386,3 @@ After you publish a policy:
 -   Users log in to [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or to [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) to [review and process non-attestation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-review-task-wrkspc.md) assigned to them.
 -   You can use update sets to transfer a policy between instances, in which case that policy is imported as a draft policy at the destination instance. You can later continue to configure the draft policy at the destination instance and then [publish it when it's ready](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-publish-draft-policy.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[life-cycle-rules|Retirement definitions]]
-- [[c_WorkNotes|Work notes]]
-- [[reference|Reference]]
-- [[c_DataCertification|Data Certification]]
-- [[email|Email]]
-- [[cmdb-data-management-landing|CMDB data management]]

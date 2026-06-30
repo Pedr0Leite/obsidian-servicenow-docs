@@ -67,7 +67,7 @@ Customer service agent
 
 -   sn\_customerservice.customer\_data\_viewer
 
-[[customer-data|Customer data]] viewer
+Customer data viewer
 
 
 </td></tr><tr><td>
@@ -150,15 +150,10 @@ Service Contract Line\[sn\_pss\_core\_service\_contract\_line\]
 Stores the runtime contract lines like a service plan.
 
 </td></tr></tbody>
-</table>You can [[configure-data-model-roles|assign roles]] to users and groups using the ServiceNow AI Platform user administration features. For more information, see:
+</table>You can assign roles to users and groups using the ServiceNow AI Platform user administration features. For more information, see:
 
 -   [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md)
 -   [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md)
 
-The default view on customer contracts and entitlements in [[c_CustomerServiceManagement|Customer Service Management]] workspace is Service Contract Workspace view. It can be changed by an administrator.
+The default view on customer contracts and entitlements in Customer Service Management workspace is Service Contract Workspace view. It can be changed by an administrator.
 
-## Related
-
-- [[customer-data|Customer data]]
-- [[configure-data-model-roles|Assign roles]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

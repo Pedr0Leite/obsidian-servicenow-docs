@@ -15,7 +15,7 @@ breadcrumb: [Use, Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Using Now Assist Readiness Evaluation dashboard
 
-The [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] dashboard comes with two dashboard tabs: **Agentic AI - Assessment** and **[[platform-now-assist-landing|Now Assist]] Assessment**.
+The Now Assist Readiness Evaluation dashboard comes with two dashboard tabs: **Agentic AI - Assessment** and **Now Assist Assessment**.
 
 Navigate to **Workspaces** &gt; **Now Assist Readiness Evaluation** to access the Now Assist Readiness Evaluation dashboard. The Now Assist Readiness Evaluation dashboard is the first tab you see.
 
@@ -25,7 +25,3 @@ The Now Assist Readiness Evaluation dashboard is a powerful product feature that
 
 After reviewing the dashboard and making the suggested assessment changes, rerun your scheduled jobs to see how your results improve.
 
-## Related
-
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[platform-now-assist-landing|Now Assist]]

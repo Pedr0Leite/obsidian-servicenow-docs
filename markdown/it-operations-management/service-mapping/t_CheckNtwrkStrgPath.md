@@ -33,7 +33,7 @@ Displaying a network or storage path allows you to see routers, switches, and ho
     The infrastructure route between a CI of the host type and a CI of the storage type.
 
 
-[[c_ServiceMappingOverview|Service Mapping]] discovers and displays network devices located on your organization local network, not on WAN or the public cloud. When Service Mapping encounters a connection between two applications, it uses traceroute on the source host to figure out the path to the target host. Then Service Mapping use SNMP credentials to discover the devices it found on the path.
+Service Mapping discovers and displays network devices located on your organization local network, not on WAN or the public cloud. When Service Mapping encounters a connection between two applications, it uses traceroute on the source host to figure out the path to the target host. Then Service Mapping use SNMP credentials to discover the devices it found on the path.
 
 Service Mapping can show devices for storage paths using the following protocols:
 
@@ -73,7 +73,7 @@ You can see the change history for network and storage paths for application ser
 
 6.  To view the change history for network paths, perform steps in [View the change history of application services in classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_ViewCIChanges.md).
 
-7.  If you access the network or storage path map from [[c_EM|Event Management]], you can see the list of alerts related to this path appear at the bottom of the screen.
+7.  If you access the network or storage path map from Event Management, you can see the list of alerts related to this path appear at the bottom of the screen.
 
 
 **Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_SvcPlanningAndAnalysisUsingMaps.md)
@@ -85,7 +85,3 @@ You can see the change history for network and storage paths for application ser
 
 [SNMP-based queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/snmp-based-queries.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]

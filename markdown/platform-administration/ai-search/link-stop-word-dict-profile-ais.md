@@ -26,15 +26,15 @@ You can link a single stop word dictionary to multiple search profiles. You can 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that you want to link the stop word dictionary to.
 
-3.  In the [[stop-words-ais|Stop Words]] related list, select **Link Existing**.
+3.  In the Stop Words related list, select **Link Existing**.
 
-4.  On the [[search-prof-dict-mapping-form-ais|Search Profile - Dictionary Mapping form]], select the stop word dictionary and search profile to link.
+4.  On the Search Profile - Dictionary Mapping form, select the stop word dictionary and search profile to link.
 
-    1.  Select the [[c_ReferenceLookup|reference lookup]] icon \[Omitted image "IconReferencelookup.png"\] Alt text: for the **Dictionary** field.
+    1.  Select the reference lookup icon \[Omitted image "IconReferencelookup.png"\] Alt text: for the **Dictionary** field.
 
     2.  Select the stop word dictionary that you want to link to the search profile.
 
@@ -53,9 +53,3 @@ To make the new stop word dictionary linking take effect, publish the search pro
 
 **Parent Topic:**[Stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[stop-words-ais|Stop words]]
-- [[search-prof-dict-mapping-form-ais|Search Profile - Dictionary Mapping form]]
-- [[c_ReferenceLookup|Reference lookup]]

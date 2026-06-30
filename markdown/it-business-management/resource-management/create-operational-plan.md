@@ -18,15 +18,15 @@ Create an operational resource plan and allocate a certain portion of your team 
 
 ## Before you begin
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) [[using-rmw|using Resource Management Workspace]] or [[project-workspace-landing-page|Project Workspace]].
+You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Role required: resource\_user, resource\_manager, it\_project\_manager, demand\_manager, admin
 
 ## About this task
 
-[[t_CreateResourcePlanProjectTask|Create a resource plan]] for an operational work type such as Meeting, Training, Admin work, or Phone call.
+Create a resource plan for an operational work type such as Meeting, Training, Admin work, or Phone call.
 
 For more information on operational resource plans, see [Operational Resource Plan - All That You Need to Know](https://community.servicenow.com/community?id=community_article&sys_id=7cf4950a1b0110d4d01143f6fe4bcb65).
 
@@ -34,7 +34,7 @@ For more information on operational resource plans, see [Operational Resource Pl
 
 1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **Create New Operational Plan**.
 
-2.  On the [[rsrc-form|Resource form]], fill in the fields.
+2.  On the Resource form, fill in the fields.
 
     For a description of the field names, see [Resource form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-form.md).
 
@@ -82,10 +82,3 @@ For more information on operational resource plans, see [Operational Resource Pl
 
 [Map a time card category with operational work types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/map-time-card-category.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[rsrc-form|Resource form]]

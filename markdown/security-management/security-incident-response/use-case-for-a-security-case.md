@@ -31,7 +31,7 @@ Create a view for modal window for a Security Case.
 -   **[Step 3. Create UI actions for the Source Table for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-ui-actions-for-source-table.md)**  
 Create UI actions for the source table for a Security Case.
 -   **[Step 4. Create a view for a new Linked Record Tab for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-a-view-for-the-new-linked-record-tab.md)**  
-Customize the List layout for a Security Case table when it is displayed on the Link Records page with the [[msim-workspace|Major Security Incident Management workspace]].
+Customize the List layout for a Security Case table when it is displayed on the Link Records page with the Major Security Incident Management workspace.
 -   **[Step 5. Add Access Control Lists \(ACLs\) for Major Security Incident Management workspace users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/adding-access-control-lists-for-msim-workspace-users.md)**  
 Add Access Control Lists \(ACLs\) for Major Security Incident Management workspace users.
 -   **[Step 6. Create business rules for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-required-business-rules-for-security-case.md)**  
@@ -52,6 +52,3 @@ Create rollup record configuration to link and unlink additional records to MSI.
 
 [Perform on demand atomic rollup]()
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]

@@ -57,8 +57,5 @@ Once an offline cache already exists, the Update Cache option allows users to re
 \[Omitted image "mobile-offline-cache-button.png"\] Alt text: Option to update cache or to clear cache
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[offline-cache|Configure offline cache downloads to user devices]]
+</table>**Parent Topic:**[Configure offline cache downloads to user devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache.md)
 
-## Related
-
-- [[offline-cache|Configure offline cache downloads to user devices]]

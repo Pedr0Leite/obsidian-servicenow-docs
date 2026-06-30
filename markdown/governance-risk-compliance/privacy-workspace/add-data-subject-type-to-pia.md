@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Add data subject type to privacy impact assessment
 
-Add [[data-subjects|data subject types]] to privacy impact assessment from the [[employee-center|Employee Center]].
+Add data subject types to privacy impact assessment from the Employee Center.
 
 ## Before you begin
 
@@ -81,7 +81,7 @@ Locations that are applicable to the data subject type.
 
 </td></tr><tr><td>
 
-[[information-objects|Information Objects]]
+Information Objects
 
 </td><td>
 
@@ -109,8 +109,3 @@ The data subject types appear in a tabular format.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[data-subjects|Data subject types]]
-- [[employee-center|employee center]]
-- [[information-objects|information objects]]

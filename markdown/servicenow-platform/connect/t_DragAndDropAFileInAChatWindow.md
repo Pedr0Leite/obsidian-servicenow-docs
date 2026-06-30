@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Drag a file into a Connect conversation
 
-Drag and drop functionality in [[c_Collaboration|Connect Chat]] and [[c_ConnectSupport|Connect Support]] provides an easy way to share external attachments and links or items from within your instance.
+Drag and drop functionality in Connect Chat and Connect Support provides an easy way to share external attachments and links or items from within your instance.
 
 ## Before you begin
 
@@ -26,15 +26,10 @@ You can drag several things from within an instance, including items from the ap
 
 ## Procedure
 
-1.  Drag an item in a [[c_Connect|Connect]] mini window.
+1.  Drag an item in a Connect mini window.
 
-    To drag a record from a list, drag the [[reference|reference]] icon \(\[Omitted image "IconReferenceUI15.png"\] Alt text: Reference icon\), the record number, or a reference column value.
+    To drag a record from a list, drag the reference icon \(\[Omitted image "IconReferenceUI15.png"\] Alt text: Reference icon\), the record number, or a reference column value.
 
     Connect accepts the same file extensions as the platform. For more information, see [Add and manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md).
 
-## Related
 
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Alert Correlation Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Alert Correlation Rules**.
 
 2.  Click **New**.
 
@@ -37,6 +37,3 @@ Role required: evt\_mgmt\_admin
 
 A rule-based alert group is created when a new alert is generated or when the status of an existing alert changes from Closed or Flapping to Open or Reopened, provided the filter criteria are matched.
 
-## Related
-
-- [[c_EM|Event Management]]

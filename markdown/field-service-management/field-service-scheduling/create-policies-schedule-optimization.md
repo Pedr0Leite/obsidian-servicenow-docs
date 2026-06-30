@@ -24,7 +24,7 @@ Role required: wm\_admin
 
 \[Omitted video\] Description: This video demonstrates how to create a policy for Schedule Optimization.
 
-A policy defines the rules and priorities that guide [[schedule-optimization|Schedule Optimization]]. Policies are built from objectives and constraints, which work together to determine how tasks are assigned to agents. Objectives control how tasks are prioritized during optimization, while constraints define the mandatory conditions an assignment group must meet to be considered for a task. See [[hard-soft-constraints|Optimization Features]] for the full list of objectives and constraints.
+A policy defines the rules and priorities that guide Schedule Optimization. Policies are built from objectives and constraints, which work together to determine how tasks are assigned to agents. Objectives control how tasks are prioritized during optimization, while constraints define the mandatory conditions an assignment group must meet to be considered for a task. See [Optimization Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/hard-soft-constraints.md) for the full list of objectives and constraints.
 
 You can use different policies for different batch or intraday configurations.
 
@@ -84,7 +84,3 @@ You have now created a schedule optimization policy.
 
 [Add constraints to a policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-constraint-schedule-optimization-policy.md)
 
-## Related
-
-- [[hard-soft-constraints|Objectives and constraints used with Schedule Optimization]]
-- [[schedule-optimization|Schedule Optimization]]

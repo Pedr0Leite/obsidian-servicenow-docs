@@ -14,7 +14,7 @@ breadcrumb: [Reference, Field administration, Forms, fields, and lists, Configur
 
 Create function fields and scripts in the ServiceNow AI Platform to perform common database transformations and calculations.
 
-Regular fields store a value in the database. Instead of storing data, a function field displays the [[hs-results|results]] of a database query. Function fields do not have an associated database column. Instead, function fields generate a value based on simple computations of other fields and constants. They can be used like any other fields in the system: in forms, lists, query conditions, reports, data visualizations, and so on.
+Regular fields store a value in the database. Instead of storing data, a function field displays the results of a database query. Function fields do not have an associated database column. Instead, function fields generate a value based on simple computations of other fields and constants. They can be used like any other fields in the system: in forms, lists, query conditions, reports, data visualizations, and so on.
 
 **Warning:** A function field that references another function field in the function will result in an error. Function fields don't hold data or evaluate in run-time.
 
@@ -448,7 +448,7 @@ Function definition
 
 </td><td>
 
-Defines the function that the field performs.Starts with `glidefunction:`, followed by the operation to be performed \(for example, `concat`\), followed by function [[r_DirectJDBCProbeParameters|parameters]]. Constants must be enclosed in single quotes.
+Defines the function that the field performs.Starts with `glidefunction:`, followed by the operation to be performed \(for example, `concat`\), followed by function parameters. Constants must be enclosed in single quotes.
 
 For example, the following function definition creates a field that shows the short description, followed by a space, followed by the caller name:
 
@@ -474,7 +474,3 @@ Use the function field like any other field. For example, add it to a form, use 
 
 If the function definition is invalid, instead of the expected value you receive the message **Invalid function** if the function field is a string type field, or an empty value for other field types.
 
-## Related
-
-- [[hs-results|Results]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

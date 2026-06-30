@@ -14,7 +14,7 @@ breadcrumb: [Set up a profile for scheduled notable event ingestion, Create an e
 
 # Set Correlation rules
 
-After you have created a profile for a scheduled notable event type ingestion, select a Splunk Enterprise Security correlation rule name for this profile for which you want to map corresponding notable events to a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] security incident.
+After you have created a profile for a scheduled notable event type ingestion, select a Splunk Enterprise Security correlation rule name for this profile for which you want to map corresponding notable events to a ServiceNow AI Platform Security Incident Response security incident.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ View the available correlation rules in your ServiceNow AI Platform instance so 
 
 [Map notable events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-map-alerts-security.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

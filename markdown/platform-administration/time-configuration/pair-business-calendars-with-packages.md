@@ -24,7 +24,7 @@ Role required: business\_calendar\_admin
 
 A package is an application, or generic set of functions, such as HR Service Delivery or Finance Close Automation, in the ServiceNow AI Platform. For example, if you created a fiscal calendar, you can associate it with the Finance Close Automation package.
 
-**Note:** Within a single calendar package record, you can only associate a business calendar with a single package. To associate business calendars with multiple packages, you have to create multiple calendar package records. For example, if you created a fiscal calendar and want to associate it with the HR and Fixed [[ia-assets|Assets]] packages:
+**Note:** Within a single calendar package record, you can only associate a business calendar with a single package. To associate business calendars with multiple packages, you have to create multiple calendar package records. For example, if you created a fiscal calendar and want to associate it with the HR and Fixed Assets packages:
 
 -   In the first record you create, in the **Calendar** field, select the fiscal year, and in the **Package** field, select **HR**.
 -   In the second record you create, you again select the same fiscal calendar, and then select **Fixed Asset** in the **Package** field.
@@ -51,6 +51,3 @@ A record is created in the Calendars for Package \(calendars\_for\_package\) tab
 
 **Parent Topic:**[Creating business calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/business-calendars.md)
 
-## Related
-
-- [[ia-assets|Assets]]

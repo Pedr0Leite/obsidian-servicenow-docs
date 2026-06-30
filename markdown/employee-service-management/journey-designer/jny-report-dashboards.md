@@ -30,17 +30,17 @@ Dashboards are configurable graphic displays of key metrics, reports, and other 
 
 ## Journey designer dashboards
 
--   **[[journey-overview-dashboard|Journey overview dashboard]]**
+-   **Journey overview dashboard**
 
     [Journey overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/journey-overview-dashboard.md) Graphically displays key usage information related to your journeys.
 
--   **[[executive-jny-view-dashboard|Executive journey view dashboard]]**
+-   **Executive journey view dashboard**
 
     [Executive journey view dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/executive-jny-view-dashboard.md) Displays other metrics executives would be interested in.
 
 
 -   **[Create and manage Journey designer dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-manage-journey-dashboards.md)**  
-Monitor journeys status and manage the [[jny-dsgnr-landing-page-1|Journey designer]] dashboards.
+Monitor journeys status and manage the Journey designer dashboards.
 -   **[Journey overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/journey-overview-dashboard.md)**  
 Journey Overview is a comprehensive dashboard that allows you to efficiently track and manage ongoing tasks and journeys within the organization.
 -   **[Executive journey view dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/executive-jny-view-dashboard.md)**  
@@ -48,8 +48,3 @@ Executive-focused dashboard with reports containing information such as the numb
 
 **Parent Topic:**[Using Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/using-jny-dsnr.md)
 
-## Related
-
-- [[journey-overview-dashboard|Journey overview dashboard]]
-- [[executive-jny-view-dashboard|Executive journey view dashboard]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **System** &gt; **[[c_EventRegistry|Event Registry]]**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **System** &gt; **Event Registry**.
 
 2.  Select **New** to register a new event.
 
-    **Note:** You can also select an existing event to update the [[clone-configurations-tab|configurations]].
+    **Note:** You can also select an existing event to update the configurations.
 
 3.  Click the Queue Registration link in the banner message on the Event Registration form.
 
@@ -152,7 +152,3 @@ Optional field to describe about this queue related information
 
 **Parent Topic:**[Configuring System events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/configuring-system-events.md)
 
-## Related
-
-- [[c_EventRegistry|Event registry]]
-- [[clone-configurations-tab|Configurations]]

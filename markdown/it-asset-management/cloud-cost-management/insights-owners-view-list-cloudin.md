@@ -26,13 +26,10 @@ A service account is a secure record on your instance that holds the credential 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **View insights owners**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **View insights owners**.
 
 2.  Select the name of any user to view the details of the owned service accounts.
 
 
 **Parent Topic:**[Assign service accounts to an insights\_owner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/insights-owner-new-cloudin.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]

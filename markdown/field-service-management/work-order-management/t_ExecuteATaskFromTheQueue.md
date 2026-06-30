@@ -40,14 +40,14 @@ Role required: wm\_agent or wm\_dispatcher
 
     -   Upon clicking **Start Travel**, a notification email and SMS are sent to the customer, signaling the agent's arrival.
     -   A sub-state, **On Route**, is automatically set, indicating the commencement of travel for the work order task.
-    -   The option to **Check-In** appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [[t_ConfigureFieldService|Global domain configurations]] and [Onsite arrival and check-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/onsite-arrival-and-check-in.md)
+    -   The option to **Check-In** appears when `Enable/Disable Onsite Arrival Check-in for Agents` property is enabled. For more information, see [Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md) and [Onsite arrival and check-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/onsite-arrival-and-check-in.md)
 4.  Open the work order task and do either of the following.
 
     -   Select **Check-In** to notify the customer of your arrival and perform any pre-work activities.
 
         **Note:** At this stage, a notification is sent to the customer, informing your on-site arrival and ready to begin the work. The substate **Onsite Arrival** is automatically set, indicating that you have reached your travel destination for the work order task. Additionally, the check-in status is stored in the database.
 
-    -   Select **[[t_StartWork|Start Work]]** to automatically check-in and commence work directly.
+    -   Select **Start Work** to automatically check-in and commence work directly.
     -   The **Actual work start** field is automatically updated with the current system time, marking the beginning of the task.
     -   The work order task's state changes to **Work In Progress** to reflect that the task is actively being worked on.
     -   The **Actual travel duration** field is automatically calculated by the system. It measures the time difference between the **Actual travel start** and **Actual onsite arrival** timestamps, unless manually set.
@@ -71,7 +71,3 @@ The cumulative amount of time worked on the task is captured in the **Actual Wor
 
 [Customer notifications for work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Configuring-cust-exp.md)
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[t_StartWork|Start work]]

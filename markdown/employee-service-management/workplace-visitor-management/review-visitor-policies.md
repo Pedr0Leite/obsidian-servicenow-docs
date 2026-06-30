@@ -22,9 +22,9 @@ Role required: none
 
 ## About this task
 
-When you register a visit to a workplace, or if someone creates a [[register-visitors|visitor registration]] on your behalf, you might receive an email about reviewing the workplace policies. You can review and accept the policies based on your preference.
+When you register a visit to a workplace, or if someone creates a visitor registration on your behalf, you might receive an email about reviewing the workplace policies. You can review and accept the policies based on your preference.
 
-You can also accept the policies on the [[workplace-services-kiosk|Workplace Services Kiosk]] during the visitor check-in process. For more information about the kiosk check-in process, see [Check in using an invite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-check-in.md).
+You can also accept the policies on the Workplace Services Kiosk during the visitor check-in process. For more information about the kiosk check-in process, see [Check in using an invite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/visitor-check-in.md).
 
 **Note:** If you accept the policies before your visit, the policies aren't displayed during the kiosk check-in process.
 
@@ -79,7 +79,3 @@ A page opens confirming that you have declined the policies. You can review the 
 
 [Make a visitor registration]()
 
-## Related
-
-- [[register-visitors|Visitor registration]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

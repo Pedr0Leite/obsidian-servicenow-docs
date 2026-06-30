@@ -14,7 +14,7 @@ breadcrumb: [Setting up and configuring Universal Task, Universal Task, Employee
 
 # Domain separation and Universal Task
 
-Domain separation is supported for ServiceNow [[universal-task-landing|Universal Task]]. Universal Task enables agents to request extra information from the employee or to task the employee to accomplish an [[activity-lxp|activity]], in order to resolve a ticket. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for ServiceNow Universal Task. Universal Task enables agents to request extra information from the employee or to task the employee to accomplish an activity, in order to resolve a ticket. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -30,7 +30,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Overview
 
-In the Universal Task framework, all the configurations are process domain-separated, and the data tables, namely, Universal Task table, [[ut-emp-form|Employee form]] table, and Task template table are data domain separation offerings.
+In the Universal Task framework, all the configurations are process domain-separated, and the data tables, namely, Universal Task table, Employee form table, and Task template table are data domain separation offerings.
 
 ## How domain separation works in Universal Task
 
@@ -60,8 +60,3 @@ The following Data tables are data separated.
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[activity-lxp|Activity]]
-- [[ut-emp-form|Employee form]]

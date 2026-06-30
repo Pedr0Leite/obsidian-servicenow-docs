@@ -23,7 +23,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -42,9 +42,9 @@ Do this action
 To generate an email response for the following records:-   Negotiation
 -   Procurement case
 -   Procurement task
--   [[purchase-requisition|Purchase requisition]]
+-   Purchase requisition
 -   Sourcing event
--   [[sourcing-request|Sourcing request]]
+-   Sourcing request
 -   Sourcing task
 
 
@@ -53,9 +53,9 @@ To generate an email response for the following records:-   Negotiation
 1.  Navigate to **Lists** &gt; **All work**.
 2.  Select one of the following modules and select the record link in the **Number** column.
     -   Cases
-    -   [[negotiations|Negotiations]]
+    -   Negotiations
     -   Requisitions
-    -   [[negotiation-events|Sourcing events]]
+    -   Sourcing events
     -   Sourcing requests
     -   Tasks
 
@@ -88,7 +88,7 @@ An AI-generated email response is sent to the requester.
 **Related topics**  
 
 
-[Summarize a record by using [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] in Source-to-Pay Workspace]()
+[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace]()
 
 [Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub]()
 
@@ -98,11 +98,3 @@ An AI-generated email response is sent to the requester.
 
 [Analyze sentiment in procurement cases]()
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[negotiations|Negotiations]]
-- [[negotiation-events|Sourcing events]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]

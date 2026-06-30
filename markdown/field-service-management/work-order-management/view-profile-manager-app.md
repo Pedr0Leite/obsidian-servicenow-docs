@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Tap your profile picture.
 
@@ -35,6 +35,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
     |**Tap __My tasks__**|To see a list of the work order tasks that are assigned to you.|
     |**Tap __My shift schedule__**|To see your assigned work schedule.|
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

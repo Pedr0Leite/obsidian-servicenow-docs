@@ -14,13 +14,13 @@ breadcrumb: [Mobile experience for Emergency Response Management, Safe Workplace
 
 # Install Safe Workplace for mobile
 
-Install the Now® Mobile app and [[mobile-emergency-response|Safe Workplace for mobile]] app.
+Install the Now® Mobile app and Safe Workplace for mobile app.
 
 ## Before you begin
 
 The Safe Workplace for mobile app \(sn\_imt\_mobile\) is dependent on the com.sn\_imt\_quarantine plugin.
 
-The Safe Workplace for mobile app also has an optional dependency on other [[safe-workplace|Safe Workplace]] applications. If you have any of these plugins installed, the corresponding applications will appear in your Safe Workplace for mobile app:
+The Safe Workplace for mobile app also has an optional dependency on other Safe Workplace applications. If you have any of these plugins installed, the corresponding applications will appear in your Safe Workplace for mobile app:
 
 -   sn\_imt\_checkin
 -   sn\_imt\_core
@@ -54,7 +54,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -77,7 +77,7 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </td></tr></tbody>
 </table>## Procedure
 
-1.  On your mobile device, download the [[mobile-employee-experience|Now Mobile app]] for Apple iOS or Google Android from the Apple App Store or the Google Play store.
+1.  On your mobile device, download the Now Mobile app for Apple iOS or Google Android from the Apple App Store or the Google Play store.
 
 2.  In your instance, navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
@@ -98,9 +98,3 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 
 **Parent Topic:**[Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md)
 
-## Related
-
-- [[mobile-emergency-response|Safe Workplace for mobile]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[mobile-employee-experience|Now Mobile app]]

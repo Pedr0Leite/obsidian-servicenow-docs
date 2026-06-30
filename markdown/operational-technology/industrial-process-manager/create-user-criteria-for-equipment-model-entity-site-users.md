@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Use the user criteria to determine whether certain users can read or edit equipment model entities for specific sites. After you [[create-user-ot-console|create a user]] criteria record, you can assign it to a site to control who can read and edit the equipment model entities. You can further assign the OT roles to users or groups to enable them access to OT devices that are assigned to those same sites. For more information, see [Assign Operational Technology Manager roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/assign-operational-technology-manager-roles.md).
+Use the user criteria to determine whether certain users can read or edit equipment model entities for specific sites. After you create a user criteria record, you can assign it to a site to control who can read and edit the equipment model entities. You can further assign the OT roles to users or groups to enable them access to OT devices that are assigned to those same sites. For more information, see [Assign Operational Technology Manager roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/assign-operational-technology-manager-roles.md).
 
 **Note:** For those users that are upgrading to version 1.0.12, their site user access is migrated to user criteria and groups. For more information, see [Migrating site user access to user criteria and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/migrating-site-user-access-to-user-criteria-and-groups.md).
 
@@ -48,6 +48,3 @@ Assign the user criteria to a site to define which users can edit the equipment 
 
 **Parent Topic:**[Configuring the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/configuring-manufacturing-process-mgr.md)
 
-## Related
-
-- [[create-user-ot-console|Create a user]]

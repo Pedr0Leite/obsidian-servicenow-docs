@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent Lite, Explore, Virtual Agent, Conversational Interfac
 
 # Quick start for Virtual Agent Lite
 
-[[va-lite|Virtual Agent Lite]] comes pre-installed, so all you have to do to try it is activate the ITSM [[virtual-agent-landing-page|Virtual Agent]] Conversation Topics Lite plugin and set it up.
+Virtual Agent Lite comes pre-installed, so all you have to do to try it is activate the ITSM Virtual Agent Conversation Topics Lite plugin and set it up.
 
 ## Before you begin
 
@@ -45,7 +45,4 @@ Role required: virtual\_agent\_admin or admin
 
     Users can now access Virtual Agent Lite topics.
 
-## Related
 
-- [[va-lite|Virtual Agent Lite]]
-- [[virtual-agent-landing-page|Virtual Agent]]

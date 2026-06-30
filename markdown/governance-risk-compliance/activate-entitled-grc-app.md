@@ -26,7 +26,7 @@ Role required: admin
 
     **Note:**
 
-    Starting with Orlando, dependency plugins are automatically activated when you activate a core application. For example, when you activate the [[c_GRCAudits|Audit Management]] application, the Audit Management Dependencies plugin is also activated.
+    Starting with Orlando, dependency plugins are automatically activated when you activate a core application. For example, when you activate the Audit Management application, the Audit Management Dependencies plugin is also activated.
 
     **Important**The information in the previous Note does not apply to the Vendor Risk Management application. If you are activating Vendor Risk Management, proceed with the next step. If you are activating any of the other GRC applications, steps 2 through 5 are optional.
 
@@ -56,6 +56,4 @@ Role required: admin
 
     **Note:** If you do not select the **Load demo data** check box, demo data is not available to install from the **Application Manager** later. For information on how to install or reinstall demo data after the initial installation, see the [Work around to install demo data if application is already installed \[KB0722909\]](https://support.servicenow.com/kb_view.do?sys_kb_id=71c74d03db7e6f807d3e02d5ca9619fe) article in the HI Knowledge Base.
 
-## Related
 
-- [[c_GRCAudits|Audit Management]]

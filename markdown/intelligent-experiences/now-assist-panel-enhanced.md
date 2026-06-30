@@ -12,7 +12,7 @@ breadcrumb: [Now Assist panel, Now Assist Experiences, Exploring Now Assist Admi
 
 # Enhanced chat
 
-[[now-assist-center-now-assist-panel|Now Assist panel]] enhanced chat is a conversational support experience within a dynamic window that also includes the ability to have multiple active conversations and superior search capabilities. Use Now Assist panel enhanced chat to improve your productivity and efficiency by leveraging generative AI to perform tasks such as summarize a chat, case, or incident, request help, generate resolution notes, among others.
+Now Assist panel enhanced chat is a conversational support experience within a dynamic window that also includes the ability to have multiple active conversations and superior search capabilities. Use Now Assist panel enhanced chat to improve your productivity and efficiency by leveraging generative AI to perform tasks such as summarize a chat, case, or incident, request help, generate resolution notes, among others.
 
 Agents can use the Now Assist panel enhanced chat to interact with and get assistance from generative AI. You can move the chat window by selecting the header and dragging the chat window to the desired location. You can resize the chat window by using the window's edges to resize to your desired size or use the toolbar icons.
 
@@ -26,11 +26,11 @@ You must fulfill the following conditions before using the Now Assist panel enha
 
 -   Next Experience must be enabled. For more information, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
 -   You must have the now\_assist\_panel\_user role.
--   Your role must be applied to at least one active [[platform-now-assist-landing|Now Assist]] skill to use skills in the Now Assist panel.
--   Now Assist panel enhanced chat must be activated before you can use it. See [[now-assist-panel-enhanced-activate|Activate Now Assist panel enhanced chat]] for more information.
--   [[now-assist-skills|Now Assist skills]] must be enabled to appear on the Now Assist panel. For more information, see [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills.md).
--   If you want to use assistants, you must activate them. See [[now-assist-panel-activate-assistant|Activate Now Assist panel assistants]] for information on activating assistants.
--   If you want to use voice input, you have to enable voice input [[enable-voice-input-for-now-assist-panel|Enable voice input for Now Assist panel]].
+-   Your role must be applied to at least one active Now Assist skill to use skills in the Now Assist panel.
+-   Now Assist panel enhanced chat must be activated before you can use it. See [Activate Now Assist panel enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-enhanced-activate.md) for more information.
+-   Now Assist skills must be enabled to appear on the Now Assist panel. For more information, see [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills.md).
+-   If you want to use assistants, you must activate them. See [Activate Now Assist panel assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-activate-assistant.md) for information on activating assistants.
+-   If you want to use voice input, you have to enable voice input [Enable voice input for Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/enable-voice-input-for-now-assist-panel.md).
 
     **Note:** Voice input is automatically activated when you activate the Now Assist panel. As of the Zurich Patch 4 release, voice input is configured in the [Configure Next Experience accessibility preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-accessibility-preferences.md).
 
@@ -112,7 +112,7 @@ Displays all closed chats. If you select a closed chat, the chat's history displ
 </td></tr></tbody>
 </table>The Now Assist subheader consists of these elements:
 
-\[Omitted image "na-panel-chat-[[controls|controls]]-enhanced.png"\] Alt text: Chat window controls include New Chat, Chats, Support, and Settings.
+\[Omitted image "na-panel-chat-controls-enhanced.png"\] Alt text: Chat window controls include New Chat, Chats, Support, and Settings.
 
 <table id="table_qzq_r2c_qfc"><thead><tr><th>
 
@@ -133,7 +133,7 @@ All chats appear.
  Chats are organized with the most recent conversations at the top. Selecting a chat opens the chat in the conversation area. If there are unread chats or notifications, a badge number appears on the Chats icon \(\[Omitted image "na-panel-hamburger-icon.png"\] Alt text: List icon.\). Any unread chat or notification appears with a red dot next to it and the chat title appears in bold. Additionally, if you switch to a new chat while another active chat is ongoing, a pop-up message on the Chats icon \(\[Omitted image "na-panel-hamburger-icon.png"\] Alt text: List icon.\) appears: `Your previous chat was saved. You can revisit all of your past chats and continue ones that are still active.` The following list includes the chat sections that you may see in the chats area.
 
  -   Active: Chats where you can continue the conversation. If applicable, active chats move to the Closed chats section after two hours of inactivity. This 2 hour time limit can be configured within the Messaging Channels \{sys\_cs\_channel.list\} table. To change the inactivity time limit, from the Messaging Channels \{sys\_cs\_channel.list\} table, select the **NASS** record and populate the **Conversation Idle Timeout** field with your preferred active chat time limit. If you have no active chats, `No chatter at the moment` is displayed. If more than 12 active chats are running, a **Show more** link appears to view more chats. Selecting **Show more** displays an additional 10 chats.
--   Updates: Updates for important notifications and reminders can be configured to display. When **sn\_nowassist\_va.nass\_notification\_enabled** is set to `true` \(the default\), simple \(nonactionable\) Now Assist panel notifications appear on your portal [[now-assist-center-home-page|home page]]. After selecting a notification, you’re redirected to this Updates section. If you have no updates, `You're all caught up` is displayed. If more than four updates are available, a **Show more** link appears to view more updates. Selecting **Show more** displays an additional 10 updates.
+-   Updates: Updates for important notifications and reminders can be configured to display. When **sn\_nowassist\_va.nass\_notification\_enabled** is set to `true` \(the default\), simple \(nonactionable\) Now Assist panel notifications appear on your portal home page. After selecting a notification, you’re redirected to this Updates section. If you have no updates, `You're all caught up` is displayed. If more than four updates are available, a **Show more** link appears to view more updates. Selecting **Show more** displays an additional 10 updates.
 
 **Note:** If **sn\_nowassist\_va.nass\_notification\_enabled** is set to `false`, the Updates section doesn't appear.
 
@@ -197,13 +197,13 @@ Depending on the context of the response, an additional go to search results ico
 
 ## Agentic conversations
 
-**Note:** Admins must first enable AI agents before end users can experience agentic conversations. Now Assist panel discovers and executes agentic workflows. For more information on agentic workflows, see [[sn-aia-use-cases-list|Now Assist agentic workflows]] and [[multiple-conversations-aia|Multiple conversations in Now Assist AI agents]].
+**Note:** Admins must first enable AI agents before end users can experience agentic conversations. Now Assist panel discovers and executes agentic workflows. For more information on agentic workflows, see [Now Assist agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-aia-use-cases-list.md) and [Multiple conversations in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/multiple-conversations-aia.md).
 
 When you ask a question to the Now Assist panel enhanced chat, the agent understands the query and begins a flow. When you submit a message with multiple questions or requests, Now Assist panel enhanced chat answers the multiple questions consecutively in its response. It can reason, plan, and execute across AI agents, Now Assist panel topics, conversational actions and subflows, catalogs, Knowledge Base articles, custom skills, and any Now Assist supported skills to help you. You receive on-screen messages to let you know where the agent is in the agentic processing flow prior to receiving the response. After the processing has completed its flow, a View AI Steps section header appears, where the processing flow steps can be expanded and viewed. You can stop the agentic processing flow at any time by selecting the End flow icon \(\[Omitted image "agentic-end-flow-icon.png"\] Alt text: End flow icon.\). After an action starts, it can't be stopped. Selecting the End flow icon only stops the proceeding processing steps.
 
 ## Navigating from the Now Assist panel
 
-You can navigate from the Now Assist panel without leaving the current conversation by entering a [[now-assist-global-navigation|navigation]] request in the **Ask Now Assist to...** field. If you enter "navigate me to active incidents," Now Assist displays a button that enables you to view the active incidents.
+You can navigate from the Now Assist panel without leaving the current conversation by entering a navigation request in the **Ask Now Assist to...** field. If you enter "navigate me to active incidents," Now Assist displays a button that enables you to view the active incidents.
 
 ## Chat summarization
 
@@ -227,7 +227,7 @@ You can generate a case or incident summarization from the Now Assist panel for 
 
 Get specific and accurate answers to your queries by using the Get Help skill option on the Now Assist panel. This skill is available to everyone entitled to Now Assist capabilities.
 
-For more information about the [[conversational-help-skills|Now Assist Conversational Help]] skill that represents as Get Help on the Now Assist panel, see [Now Assist Conversational Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/conversational-help-skills.md).
+For more information about the Now Assist Conversational Help skill that represents as Get Help on the Now Assist panel, see [Now Assist Conversational Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/conversational-help-skills.md).
 
 ## Resolution notes generation
 
@@ -249,20 +249,5 @@ A fallback state can occur whenever search results are unavailable. Scenarios wh
 
 \[Omitted image "nap-search-web-fallback.png"\] Alt text:
 
-**Parent Topic:**[[now-assist-panel-overview|Now Assist panel]]
+**Parent Topic:**[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
 
-## Related
-
-- [[now-assist-panel-enhanced-activate|Activate Now Assist panel enhanced chat]]
-- [[now-assist-panel-activate-assistant|Activate Now Assist panel assistants]]
-- [[enable-voice-input-for-now-assist-panel|Enable voice input for Now Assist panel]]
-- [[sn-aia-use-cases-list|Now Assist agentic workflows]]
-- [[multiple-conversations-aia|Multiple conversations in Now Assist AI agents]]
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]
-- [[controls|Controls]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-global-navigation|Navigation]]
-- [[conversational-help-skills|Now Assist Conversational Help]]

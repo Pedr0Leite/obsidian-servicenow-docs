@@ -14,7 +14,7 @@ breadcrumb: [Create or add an issue related to a regulatory task, Manage regulat
 
 # Create New Issue form in Regulatory Change Management
 
-Use the [[create-new-issue-opres-ws|Create New Issue form]] in Compliance Workspace to create an issue or add an existing issue to a regulatory task in [[reg-change-mgmt-landing-page|Regulatory Change Management]] \(RCM\).
+Use the Create New Issue form in Compliance Workspace to create an issue or add an existing issue to a regulatory task in Regulatory Change Management \(RCM\).
 
 ## Create New Issue form
 
@@ -69,7 +69,7 @@ Type of the issue. The options are as follows:-   **Control design effectiveness
 -   **Non-compliance to a regulation**: A law or regulation was not followed, potentially exposing the organization to penalties.
 -   **Non-compliance to a policy**: An internal policy was not adhered to, which could lead to risks or inefficiencies.
 -   **Improvement or suggestion to an existing policy**: A recommendation to enhance an existing policy for better clarity, coverage, or effectiveness.
--   **Recommendation for a new policy**: A proposal to [[t_DefineAPolicy-2|create a policy]] to address a gap that currently isn’t covered.
+-   **Recommendation for a new policy**: A proposal to create a policy to address a gap that currently isn’t covered.
 -   **Process optimization or improvement**: Opportunities identified to improve efficiency, accuracy, or effectiveness of a business process.
 -   **Observation**: A general note or finding that may not be an issue now but could warrant attention.
 -   **Data breach**: Unauthorized access, disclosure, or loss of sensitive or personal data.
@@ -356,9 +356,3 @@ Functional domain that the issue belongs to. For example, IT risk and compliance
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-issue-opres-ws|Create New Issue form]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[t_DefineAPolicy-2|Create a policy]]

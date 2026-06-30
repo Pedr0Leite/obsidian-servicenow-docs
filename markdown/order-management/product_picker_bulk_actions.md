@@ -12,9 +12,9 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Product picker bulk actions
 
-Learn how to use bulk actions to automate product picker behavior without writing [[rules_101|rules]]. Configure option inclusion, field determination, and quantity limits through table-based logic to control what products appear, how values are set, and when conditions apply—all directly in the product picker interface.
+Learn how to use bulk actions to automate product picker behavior without writing rules. Configure option inclusion, field determination, and quantity limits through table-based logic to control what products appear, how values are set, and when conditions apply—all directly in the product picker interface.
 
-Bulk actions are a simple yet powerful way to manage [[product_picker_overview|product pickers]]. Bulk actions can function as table:based rules to control and [[Modify|modify]] product pickers without needing to write traditional, global rules. Like global rules, bulk actions consist of conditions and targets. All the bulk actions together control the behavior of the product picker.
+Bulk actions are a simple yet powerful way to manage product pickers. Bulk actions can function as table:based rules to control and modify product pickers without needing to write traditional, global rules. Like global rules, bulk actions consist of conditions and targets. All the bulk actions together control the behavior of the product picker.
 
 \[Omitted image "cpq-product-picker-bulk-actions-pp-setup.png"\] Alt text: Product Picker: bulk actions
 
@@ -24,7 +24,7 @@ Bulk actions are a simple yet powerful way to manage [[product_picker_overview|p
 There are three basic types of bulk actions:
 
 -   \(3\) Option Inclusion: What options are displayed to the user
--   \(4\) Field Determination: What values should be set for product picker child [[fields|fields]]
+-   \(4\) Field Determination: What values should be set for product picker child fields
 -   \(5\) Quantity Field Properties: Quantity limits of options
 
 For an example use case, view the following video: [Product Picker bulk actions2](https://www.youtube.com/watch?v=tshsAHS2ha4)
@@ -107,12 +107,5 @@ To submit a support case, use the [ServiceNow Support portal](https://support.se
 **Related topics**  
 
 
-[[product-picker-aggregates|Product picker aggregates]]
+[Product picker aggregates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-picker-aggregates.md)
 
-## Related
-
-- [[product-picker-aggregates|Product picker aggregates]]
-- [[rules_101|Rules]]
-- [[product_picker_overview|Product pickers]]
-- [[Modify|Modify]]
-- [[fields|Fields]]

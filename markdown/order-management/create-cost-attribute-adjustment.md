@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Create and publish a cost-based attribute adjustment
 
-Set different product costs based on product attributes, such as model or size, by applying cost adjustments for a product offering by cost book or specified cost book line. The base cost is the cost at the cost book line. Product cost is the base cost plus attribute adjustments. These adjustments are used to display the profit margins in quotes and quote lines, which can be criteria for triggering quote approval [[rules_101|rules]].
+Set different product costs based on product attributes, such as model or size, by applying cost adjustments for a product offering by cost book or specified cost book line. The base cost is the cost at the cost book line. Product cost is the base cost plus attribute adjustments. These adjustments are used to display the profit margins in quotes and quote lines, which can be criteria for triggering quote approval rules.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You select the characteristics of a product that affect the base product cost. N
 
 2.  Navigate to **Pricing** &gt; **Attribute Adjustments**.
 
-3.  Select **New** and fill in the [[fields|fields]].
+3.  Select **New** and fill in the fields.
 
 <table id="table_bdd_fmb_bgc"><thead><tr><th>
 
@@ -161,7 +161,4 @@ Product attributes used to differentiate product costs.
 
     The cost-based attribute adjustments for the product offering are applied when agents add the product offering to an opportunity, quote, or an order.
 
-## Related
 
-- [[rules_101|Rules]]
-- [[fields|Fields]]

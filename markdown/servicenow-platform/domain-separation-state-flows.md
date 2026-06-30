@@ -12,7 +12,7 @@ breadcrumb: [State flows, Exploring Service Administration, Service Administrati
 
 # Domain separation and State Flows
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported in State Flows. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in State Flows. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -25,14 +25,10 @@ For more information on support levels, see [Application support for domain sepa
 
 Domain separation provides complete data isolation for domain-specific users.
 
-**Parent Topic:**[[c_StateFlows|State flows]]
+**Parent Topic:**[State flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_StateFlows|State flows]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

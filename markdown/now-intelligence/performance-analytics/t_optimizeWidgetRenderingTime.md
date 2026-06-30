@@ -14,7 +14,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 # Optimize widget rendering time on responsive dashboards
 
-Large dashboards can take a long time to render, especially when [[widgets|widgets]] depend on complex queries or queries on large tables. You can use system properties to optimize how widgets load.
+Large dashboards can take a long time to render, especially when widgets depend on complex queries or queries on large tables. You can use system properties to optimize how widgets load.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ Defines the maximum number of widgets that render simultaneously on a dashboard.
 
 [bundle-platadm.r_AvailableSystemProperties]
 
-## Related
-
-- [[widgets|Widgets]]

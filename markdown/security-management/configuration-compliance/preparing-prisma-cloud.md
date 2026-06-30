@@ -14,17 +14,17 @@ breadcrumb: [Understanding the Vulnerability Response Integration with Palo Alto
 
 # Preparing for installing the Vulnerability Response Integration with Palo Alto Prisma Cloud
 
-Prepare for installing the [[vuln-landing-page|Vulnerability Response]] Integration with Palo Alto Prisma Cloud by performing setup tasks.
+Prepare for installing the Vulnerability Response Integration with Palo Alto Prisma Cloud by performing setup tasks.
 
 ## Before you begin
 
-To [[integrating-threat-intelligence-security-center|integrate]] Vulnerability Response with Palo Alto Prisma Cloud, you must be assigned a permission group in Prisma that provides read-only access to Policy and Alerts data. You can find more information on permission groups at [Prisma Cloud Administrator Roles](https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/prisma-cloud-administrator-roles#id437b5c4a-3dfa-4c70-8fc7-b6d074f5dffc).
+To integrate Vulnerability Response with Palo Alto Prisma Cloud, you must be assigned a permission group in Prisma that provides read-only access to Policy and Alerts data. You can find more information on permission groups at [Prisma Cloud Administrator Roles](https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/prisma-cloud-administrator-roles#id437b5c4a-3dfa-4c70-8fc7-b6d074f5dffc).
 
 For detailed information on the roles assigned to different permission groups, refer to the page [Prisma Cloud Administrator Permissions](https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/prisma-cloud-admin-permissions).
 
 In addition, access keys must be created to enable reading the alerts. For more information on creating access keys, see [Create and Manage Access Keys](https://docs.prismacloud.io/en/classic/cspm-admin-guide/manage-prisma-cloud-administrators/create-access-keys).
 
-To [[configure-cortex-xsiam-siem|install and configure]] the Vulnerability Response Integration with Palo Alto Prisma Cloud, use the following checklist. Before you install the application, verify that the items listed are completed.
+To install and configure the Vulnerability Response Integration with Palo Alto Prisma Cloud, use the following checklist. Before you install the application, verify that the items listed are completed.
 
 <table id="table_qby_jng_tlb"><thead><tr><th>
 
@@ -74,13 +74,13 @@ See .
 Ensure you have installed the following plugins for a smooth integration run:
 
 -   Vulnerability Response
--   [[vr-config-compliance-landing|Configuration Compliance]]
+-   Configuration Compliance
 -   Vulnerability Response Integration with Palo Alto Prisma Cloud
 
  The following plugins are optional but can be useful:
 
 -   Cloud Provisioning and Governance
--   Discovery and Service [[mapping-logrhythm|Mapping]] Patterns
+-   Discovery and Service Mapping Patterns
 
 </td></tr><tr><td>
 
@@ -103,10 +103,3 @@ Verify that you have an administrator to manage the integrations and to remediat
 </td></tr></tbody>
 </table>You are ready to [Install and configure the Vulnerability Response Integration with Palo Alto Prisma Cloud application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/install-and-configure-prisma-cloud.md).
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[mapping-logrhythm|Mapping]]

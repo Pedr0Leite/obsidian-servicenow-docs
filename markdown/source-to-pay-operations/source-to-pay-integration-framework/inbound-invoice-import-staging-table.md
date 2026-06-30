@@ -42,7 +42,7 @@ String
 
 </td><td>
 
-Total amount a [[supplier|supplier]] is expected to be paid.
+Total amount a supplier is expected to be paid.
 
 </td></tr><tr><td>
 
@@ -90,11 +90,11 @@ String
 
 </td><td>
 
-Unique number generated within the ERP system for the [[purchase-order-table|purchase order]].
+Unique number generated within the ERP system for the purchase order.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -202,7 +202,7 @@ Type of the invoice for processing.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -238,7 +238,7 @@ Other additional charges associated with the invoice.This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment terms]]
+Payment terms
 
 </td><td>
 
@@ -580,10 +580,3 @@ A unique identifier for external data imports.
 
 [Invoice line stage table]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[payment-terms|Payment terms]]

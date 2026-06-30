@@ -14,7 +14,7 @@ breadcrumb: [Data privacy \(Classic\) configuration, Data privacy \(Classic\), D
 
 # Create a data privacy technique configuration
 
-Create a data privacy technique configuration to customize how [[data-privacy-landing|data privacy]] anonymizes your data.
+Create a data privacy technique configuration to customize how data privacy anonymizes your data.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
-2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Privacy Technique [[sc-configuration|Configuration]]**.
+2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Privacy Technique Configuration**.
 
 3.  Click **New**.
 
@@ -119,8 +119,4 @@ This technique removes values, replacing them with empty \(null\) values.
 
 8.  Click **Save**.
 
-## Related
 
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[data-privacy-landing|Data Privacy]]
-- [[sc-configuration|Configuration]]

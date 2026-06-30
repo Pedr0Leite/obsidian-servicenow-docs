@@ -12,7 +12,7 @@ breadcrumb: [Configure Deal Registration table, Data model for Deal Registration
 
 # Configure Deal Registration Line table
 
-Configure the [[deal-registration-management|Deal registration]] line \(sn\_prm\_dr\_deal\_registration\_line\) table to manage product level details for a single deal registration.
+Configure the Deal registration line \(sn\_prm\_dr\_deal\_registration\_line\) table to manage product level details for a single deal registration.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The deal registration line table contains line items linked to a deal registrati
 
 2.  Select **New** to create a deal registration.
 
-    To learn how to create a deal registration, see [[configure-deal-registration-table|Configure Deal Registration table]].
+    To learn how to create a deal registration, see [Configure Deal Registration table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-deal-registration-table.md).
 
 3.  Select **Deal Registration Lines** from the related list to create a deal registration line item.
 
@@ -36,9 +36,9 @@ The deal registration line table contains line items linked to a deal registrati
 
     **Note:** You can create a deal registration line item only if the deal is in the **Draft**, **Submitted**, or **Under Review** states.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
-    To learn about the fields on the form, see [[deal-registration-line-table-fields|Deal registration line table fields]].
+    To learn about the fields on the form, see [Deal registration line table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deal-registration-line-table-fields.md).
 
 6.  Select **Submit**.
 
@@ -48,15 +48,7 @@ The deal registration line table contains line items linked to a deal registrati
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[configure-deal-registration-table|Configure Deal Registration table]]
-- [[deal-registration-line-table-fields|Deal registration line table fields]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[deal-registration-management|Deal Registration]]
-- [[fields|Fields]]

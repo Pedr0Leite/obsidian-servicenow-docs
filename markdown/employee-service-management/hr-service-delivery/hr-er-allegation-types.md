@@ -14,9 +14,9 @@ breadcrumb: [Configuring Employee Relations, Employee Relations, Case and Knowle
 
 # Employee relations allegation types and subtypes
 
-Allegation types and subtypes help you further define an [[hr-case-employee-relations|employee relations]] case.
+Allegation types and subtypes help you further define an employee relations case.
 
-An allegation is a high-level category and allegation subtype provide more details about the allegation. For example, **Allegation** can be **Fraud and Theft** and **Allegation Subtype** can be **Forgery**. Allegation types and subtypes are attached to an [[hr-service-delivery|HR Service Delivery]] ER case and are the foundation for the case.
+An allegation is a high-level category and allegation subtype provide more details about the allegation. For example, **Allegation** can be **Fraud and Theft** and **Allegation Subtype** can be **Forgery**. Allegation types and subtypes are attached to an HR Service Delivery ER case and are the foundation for the case.
 
 The base system provides allegation types and subtypes that you can use immediately.
 
@@ -26,7 +26,3 @@ The base system provides allegation types and subtypes that you can use immediat
 
 You can also create allegation types and subtypes based on your business needs. See [Configure an employee relations allegation type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-create-allegation-type.md).
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-delivery|HR Service Delivery]]

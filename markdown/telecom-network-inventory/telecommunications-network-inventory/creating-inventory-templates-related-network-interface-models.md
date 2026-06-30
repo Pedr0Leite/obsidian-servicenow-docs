@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Creating inventory templates for related network interface models
 
-In the Inventory Template form in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]], you can create inventory templates for the network interface models that are associated with the equipment inventory template.
+In the Inventory Template form in the Network Inventory Workspace Lists view, you can create inventory templates for the network interface models that are associated with the equipment inventory template.
 
 ## Procedure
 
@@ -39,7 +39,3 @@ Next, add slots to the equipment template. To learn more, see [Add slots to the 
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]

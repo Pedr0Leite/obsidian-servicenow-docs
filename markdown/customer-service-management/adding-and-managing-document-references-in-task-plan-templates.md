@@ -21,7 +21,7 @@ The following roles can add, view, and manage documents—such as PDFs, Word doc
 -   `sn_task_plan.writer`
 -   `sn_task_plan.viewer` \(viewers can only view documents and cannot create, edit, or delete document references\).
 
-Document references are stored in the  **Task Plan Template Document**`(sn_task_plan_template_document)`  table and are available through form views and related [[migration-lists|lists]], depending on the template state and user permissions. ACLs ensure proper read and write control across [[migration-forms|forms]] and lists.
+Document references are stored in the  **Task Plan Template Document**`(sn_task_plan_template_document)`  table and are available through form views and related lists, depending on the template state and user permissions. ACLs ensure proper read and write control across forms and lists.
 
 When a published task plan template is applied, the system automatically adds all the document references from the template items to the newly created tasks. These references are associated with the corresponding tasks, ensuring that access permissions and business logic operate as expected, and preventing regeneration of documents during template application. This capability allows task owners to easily access all the documents required to complete their assigned tasks.
 
@@ -37,7 +37,3 @@ Key Benefits:
 -   Document handling is secure and aligned with template access controls, ensuring that only authorized users can view or modify attached files.
 -   The framework supports extensibility for cross‑product teams, enabling broader adoption and integration across different organization units.
 
-## Related
-
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

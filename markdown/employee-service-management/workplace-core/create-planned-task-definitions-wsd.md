@@ -14,17 +14,17 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Create planned task definitions
 
-[[create-planned-task-definitions|Create planned task definitions]] in [[workplace-safety-mgmt-hr|Workplace Core]] to help workplace managers easily generate tasks that are often repeated and independent of shifts such as cleaning coffee vending machines or cleaning floors. You can quickly specify the task details and the frequency at which the task is to be performed.
+Create planned task definitions in Workplace Core to help workplace managers easily generate tasks that are often repeated and independent of shifts such as cleaning coffee vending machines or cleaning floors. You can quickly specify the task details and the frequency at which the task is to be performed.
 
 ## Before you begin
 
-**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Workplace services** &gt; **Browse Workplace Services**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace services** &gt; **Browse Workplace Services**.
 
 2.  Select **Add planned task definition**.
 
@@ -44,7 +44,7 @@ Name
 
 </td><td>
 
-Name of the planned task definition. For example, "Clean conference rooms" for the [[activity-lxp|activity]] of sanitizing conference rooms.
+Name of the planned task definition. For example, "Clean conference rooms" for the activity of sanitizing conference rooms.
 
 </td></tr><tr><td>
 
@@ -129,11 +129,3 @@ Select **Add another task definition**.
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[create-planned-task-definitions|Create planned task definitions]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

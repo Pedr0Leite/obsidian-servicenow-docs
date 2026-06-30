@@ -59,8 +59,5 @@ AI chat enhances profile discovery by responding to natural language questions a
 
 ## Profile configuration
 
-Administrators can configure which fields appear in employee profiles through the [[employee-center-landing-page|Employee Center]] settings. This includes controlling the visibility of work details, personal information, and team relationships based on organizational requirements.
+Administrators can configure which fields appear in employee profiles through the Employee Center settings. This includes controlling the visibility of work details, personal information, and team relationships based on organizational requirements.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

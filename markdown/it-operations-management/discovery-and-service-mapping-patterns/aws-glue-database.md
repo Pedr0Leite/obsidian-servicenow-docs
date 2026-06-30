@@ -15,7 +15,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS Glue Database pattern-based discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns finds AWS Glue Databases on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns finds AWS Glue Databases on your cloud environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Pattern-based discovery and mapping requirements
 
@@ -62,7 +62,7 @@ Discovery and Service Mapping Patterns application populates data in the CMDB wh
 
 ## CI relationships
 
-The Amazon AWS - Glue Database - Extended Inventory \(LP\) pattern creates the following relationships and references to support AWS Glue [[database-discovery|Database discovery]]. References link to records in other tables and don't appear in the CI Relationship \[cmdb\_rel\_ci\] table.
+The Amazon AWS - Glue Database - Extended Inventory \(LP\) pattern creates the following relationships and references to support AWS Glue Database discovery. References link to records in other tables and don't appear in the CI Relationship \[cmdb\_rel\_ci\] table.
 
 |CI|Relationship|CI|
 |---|------------|---|
@@ -85,8 +85,3 @@ The Amazon AWS - Glue Database - Extended Inventory \(LP\) pattern collects tags
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[database-discovery|Database discovery]]

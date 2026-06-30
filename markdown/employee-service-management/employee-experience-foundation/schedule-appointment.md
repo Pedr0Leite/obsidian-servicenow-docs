@@ -36,22 +36,22 @@ Steps to schedule appointment
 
 </th></tr></thead><tbody><tr><td id="d275182e66">
 
-**[[employee-center-landing-page|Employee Center]]**
+**Employee Center**
 
 </td><td>
 
--   On the landing page, select **Schedule Appointment** from the **[[emp-center-quick-link-config|Quick Links]]** section.
+-   On the landing page, select **Schedule Appointment** from the **Quick Links** section.
 -   On the landing page, select **Appointments**, then select **New appointment**.
 -   In the **Human resources** menu, in the **Quick links** section, select **Schedule appointment**.
 
 
 </td></tr><tr><td id="d275182e109">
 
-**[[deskless-kiosk-overview|Employee Center Pro Kiosk]]**
+**Employee Center Pro Kiosk**
 
 </td><td>
 
-In the **[[apn-config-getsupport|Get support]]** section, select **Schedule appointment**.
+In the **Get support** section, select **Schedule appointment**.
 
 </td></tr><tr><td id="d275182e126">
 
@@ -90,7 +90,7 @@ While scheduling a walk-up, select **Schedule appointment instead**.
 </td></tr></tbody>
 </table>2.  On the Appointment type page, select **Schedule appointment**, then select **Continue**.
 
-3.  On the [[schedule-appointment-form|Schedule appointment form]], fill in the fields.
+3.  On the Schedule appointment form, fill in the fields.
 
     For a description of the field values, see [Schedule appointment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/schedule-appointment-form.md)
 
@@ -108,10 +108,4 @@ While scheduling a walk-up, select **Schedule appointment instead**.
 
 7.  Select **Schedule appointment**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[apn-config-getsupport|Get support]]
-- [[schedule-appointment-form|Schedule appointment form]]

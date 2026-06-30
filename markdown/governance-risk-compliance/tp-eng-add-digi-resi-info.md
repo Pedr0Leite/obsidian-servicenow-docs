@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **Digital resilience third-party registers** &gt; **Third-party engagements** and open an engagement record.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **Digital resilience third-party registers** &gt; **Third-party engagements** and open an engagement record.
 
 2.  Launch the **Digital resilience information** tab.
 
@@ -30,7 +30,7 @@ Role required: sn\_oper\_res.manager
 
 4.  Set up the digital resilience information details.
 
-    For more information, see [[create-ICT-thirdparty-serv-prov-form|Create New ICT third-party service provider form]].
+    For more information, see [Create New ICT third-party service provider form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-ICT-thirdparty-serv-prov-form.md).
 
 5.  Select **Save**.
 
@@ -39,10 +39,5 @@ Role required: sn\_oper\_res.manager
 6.  Navigate to the Contractual arrangements tab and view the details.
 
 
-**Parent Topic:**[[create-drtp-reg-tp-engagement|Create a third-party engagement and enhance digital resilience data]]
+**Parent Topic:**[Create a third-party engagement and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-tp-engagement.md)
 
-## Related
-
-- [[create-ICT-thirdparty-serv-prov-form|Create New ICT third-party service provider form]]
-- [[create-drtp-reg-tp-engagement|Create a third-party engagement and enhance digital resilience data]]
-- [[grc-opres-landing-page|Operational Resilience]]

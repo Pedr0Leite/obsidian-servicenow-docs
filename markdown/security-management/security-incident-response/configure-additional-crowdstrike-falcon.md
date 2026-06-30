@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Configure and trigger additional actions in CrowdStrike Falcon Insight
 
-The [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]] supports running additional actions like regular expression \(regex\). The CrowdStrike Falcon Insight integration provides 40 additional actions with the base system.
+The CrowdStrike Falcon Insight integration supports running additional actions like regular expression \(regex\). The CrowdStrike Falcon Insight integration provides 40 additional actions with the base system.
 
 ## Before you begin
 
@@ -148,6 +148,4 @@ Configuration
 
 10. Validate the status of the action on the Additional Actions on Endpoint related lists.
 
-## Related
 
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]

@@ -12,7 +12,7 @@ breadcrumb: [Report an Operational vulnerability from Importance assessment, Rep
 
 # Create Operational vulnerability form
 
-On the Create New [[exploring-op-vul|Operational vulnerability]] form, fill in the fields.
+On the Create New Operational vulnerability form, fill in the fields.
 
 <table id="table_uj1_q5x_nvb"><thead><tr><th>
 
@@ -229,7 +229,7 @@ Source
 
 </td><td>
 
-Source of the vulnerability creation. This field is automatically set to **Manual** when the operational vulnerability is manually created. If the operational vulnerability is reported from the [[employee-center|Employee Center]], the field displays the source as **Employee Center**. The [[grc-opres-landing-page|Operational Resilience]] manager can update the source or add the new source to the related area.
+Source of the vulnerability creation. This field is automatically set to **Manual** when the operational vulnerability is manually created. If the operational vulnerability is reported from the Employee Center, the field displays the source as **Employee Center**. The Operational Resilience manager can update the source or add the new source to the related area.
 
 </td></tr><tr><td>
 
@@ -433,9 +433,3 @@ Approvers of the vulnerability.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-op-vul|Operational vulnerability]]
-- [[employee-center|employee center]]
-- [[grc-opres-landing-page|Operational Resilience]]

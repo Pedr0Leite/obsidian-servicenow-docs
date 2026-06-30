@@ -16,7 +16,7 @@ breadcrumb: [Manage, Workplace Visitor Management, Workplace Service Delivery, E
 
 The visitor logs display the current state of visitor registrations. These states can be changed to other states.
 
-The different states of a [[register-visitors|visitor registration]] are explained as follows.
+The different states of a visitor registration are explained as follows.
 
 <table id="table_j4m_sqt_dnb"><thead><tr><th>
 
@@ -128,6 +128,3 @@ There is no update about the visitor or has checked out without updating the rec
 
 [Apply visitor management archive policy]()
 
-## Related
-
-- [[register-visitors|Visitor registration]]

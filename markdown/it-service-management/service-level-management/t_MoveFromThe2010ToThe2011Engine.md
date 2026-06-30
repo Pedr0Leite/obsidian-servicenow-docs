@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The [[service-level-mgmt-landing-page|service level management]] plugin was enhanced with the ability to script the condition rules for [[r_SLATransitions|SLA transitions]], giving control over how the conditions in an SLA Definition are used. Please review the documentation before enabling the enhancements to understand how the new engine will impact existing customizations
+The service level management plugin was enhanced with the ability to script the condition rules for SLA transitions, giving control over how the conditions in an SLA Definition are used. Please review the documentation before enabling the enhancements to understand how the new engine will impact existing customizations
 
 **Note:** Activating the 2011 SLA engine will deactivate all business rules on the `task_sla` table \(except for the rule **Task SLA Empty Schedule Warning**, which is part of the 2011 engine\). If you have added any additional business rules or customized the default business rules, these will not be automatically deactivated. So you should review these customizations, and manually deactivate such business rules, before making this change.
 
@@ -45,7 +45,3 @@ To enable the new functionality:
 
 **Parent Topic:**[Service Level Agreement \(Legacy\) engines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_GetStartedWithSLAs.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[r_SLATransitions|SLA transitions]]

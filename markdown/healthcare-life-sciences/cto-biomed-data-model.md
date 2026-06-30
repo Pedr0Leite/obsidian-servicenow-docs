@@ -12,15 +12,11 @@ breadcrumb: [Reference, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Care Team Operations for Biomed data model
 
-Learn about the  [[care-team-operations-for-biomed|Care Team Operations for Biomed]]  application by viewing the data model and role relationship diagrams.
+Learn about the  Care Team Operations for Biomed  application by viewing the data model and role relationship diagrams.
 
 These diagrams show the relationships between the tables within the application and provide an overall picture of how the  Care Team Operations for Biomed  application operates.
 
-The following diagram shows the tables and their relationships within the [[healthcare-operations-overview|Healthcare Operations]] for Biomed application.
+The following diagram shows the tables and their relationships within the Healthcare Operations for Biomed application.
 
 \[Omitted image "cto-biomed-data-model.png"\] Alt text: CTO for Biomed data model.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[healthcare-operations-overview|Healthcare Operations]]

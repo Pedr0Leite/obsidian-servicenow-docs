@@ -22,7 +22,7 @@ Role required: sam\_admin and sam\_user
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Success Portal**.
+1.  Navigate to **Software Asset Workspace** &gt; **Success Portal**.
 
 2.  Select **Create success activity**.
 
@@ -44,6 +44,3 @@ The success activity appears in the License operation view under the Success act
 
 [License operations view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/operations-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

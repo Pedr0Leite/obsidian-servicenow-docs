@@ -22,7 +22,7 @@ Role required: sn\_apw\_advanced.eap\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  From the Agile structure section of the left navigation panel, choose an ART or an Agile team and select **Planning Board**.
 
@@ -49,6 +49,3 @@ The goal is created for the PI or sprint and is displayed in the **Goals** tab.
 
 You can add details to your goal or add sub-goals to it by updating its fields. For information on the form fields for a goal, see [Goal form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/goal-form-egm.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

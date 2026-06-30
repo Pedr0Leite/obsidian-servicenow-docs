@@ -14,13 +14,13 @@ breadcrumb: [Using the Safe Workplace Dashboard, Safe Workplace Dashboard, Safe 
 
 # Add a vaccination widget to the Safe Workplace Dashboard
 
-As an admin, add the [[safe-workplace-dashboard|Safe Workplace Dashboard]] Vaccination widget to the Safe Workplace Dashboard Site View portal page.
+As an admin, add the Safe Workplace Dashboard Vaccination widget to the Safe Workplace Dashboard Site View portal page.
 
 ## Before you begin
 
 To successfully add the Safe Workplace Dashboard Vaccination widget and populate it with data, note the following requirements:
 
--   The Vaccination Status application must be installed and configured. For more information, see [[vaccination-status|Vaccination Status]].
+-   The Vaccination Status application must be installed and configured. For more information, see [Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md).
 -   The Safe Workplace Dashboard application must be installed and configured. For more information, see [Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/safe-workplace-dashboard.md).
 
 Role required: admin
@@ -52,7 +52,3 @@ The Safe Workplace Dashboard Vaccination widget appears in the Safe Workplace Da
 
 **Parent Topic:**[Using the Safe Workplace Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-dashboard/using-safe-wkplc-dashboard.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]

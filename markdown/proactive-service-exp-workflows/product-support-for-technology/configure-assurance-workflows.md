@@ -14,16 +14,12 @@ breadcrumb: [Proactive Service Experience Workflows, Product Support for Technol
 
 # Configuring Proactive Service Experience Workflows
 
-You can configure [[psew-landing-page|Proactive Service Experience Workflows]] so that you can add users to assignment groups. You can also create custom instructions for engineers to guide them in resolving network-initiated issues through automatically provided workflows.
+You can configure Proactive Service Experience Workflows so that you can add users to assignment groups. You can also create custom instructions for engineers to guide them in resolving network-initiated issues through automatically provided workflows.
 
 -   **[Install Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/install-assurance-workflows.md)**  
 If you’re a user with the system administrator role, you can install the Proactive Service Experience Workflows application.
 -   **[Add users to Proactive Service Experience Workflows assignment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/assign-group-taw.md)**  
-[[assign-group-taw|Add users to Proactive Service Experience Workflows assignment groups]] so that they have the necessary role and can be assigned to resolve network-initiated issues at the appropriate escalation level.
+Add users to Proactive Service Experience Workflows assignment groups so that they have the necessary role and can be assigned to resolve network-initiated issues at the appropriate escalation level.
 
 **Parent Topic:**[Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-landing-page.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]
-- [[assign-group-taw|Add users to Proactive Service Experience Workflows assignment groups]]

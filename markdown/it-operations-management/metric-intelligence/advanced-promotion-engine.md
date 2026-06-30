@@ -14,7 +14,7 @@ breadcrumb: [Exploring Metric Intelligence, Metric Intelligence, IT Operations M
 
 # Advanced Promotion Engine
 
-You can [[create-advanced-promotion-engine|create a definition for the Advanced Promotion Engine]] so that you can define the conditions for promoting the anomaly alerts to the All Alerts table. By promoting the alerts that meet the conditions, only the most relevant anomaly alerts move to the table.
+You can create a definition for the Advanced Promotion Engine so that you can define the conditions for promoting the anomaly alerts to the All Alerts table. By promoting the alerts that meet the conditions, only the most relevant anomaly alerts move to the table.
 
 The Advanced Promotion Engine moves the most relevant alerts from the list of anomaly alerts to the All Alerts table. When a group of anomaly alerts on a configuration item \(CI\) meets the conditions that you set in the definition that you created for the Advanced Promotion Engine, the grouping mechanism groups the promoted alerts in the All Alerts table. For example, you can create a condition indicating that only the anomaly alerts that belong to a specific CI class with a minimum severity of Major are to be promoted to the All Alerts table.
 
@@ -22,7 +22,7 @@ The All Alerts table is the table that contains the issues that need your immedi
 
 Anomaly alerts indicate a deviation from projected metric values for monitored CIs. For details, see [View anomaly alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/view-metrics-anomaly-alerts.md).
 
-The Advanced Promotion Engine is activated automatically as part of the [[operational-metrics|Metric Intelligence]] application.
+The Advanced Promotion Engine is activated automatically as part of the Metric Intelligence application.
 
 You can use the Advanced Promotion Engine definitions that come with the base system \(for the Linux server and for the Windows server\), or you can create definitions on the different CI classes. The base system definitions indicate that the CIs on the Linux and Windows servers are operational, and those CIs that have a minimum severity of Major are to be promoted to the All Alerts table.
 
@@ -30,7 +30,3 @@ All Advanced Promotion Engine tasks require the evt\_mgmt\_admin role. The evt\_
 
 **Parent Topic:**[Exploring Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/exploring-metric-intelligence.md)
 
-## Related
-
-- [[create-advanced-promotion-engine|Create a definition for the Advanced Promotion Engine]]
-- [[operational-metrics|Metric Intelligence]]

@@ -12,11 +12,11 @@ breadcrumb: [Configuration items in cases, Case creation from security artifacts
 
 # Add CIs to existing cases
 
-You can add configuration items to one or more existing cases. After the CIs have been added to cases, you can use [[case-mgmt|Security Case Management]] to analyze the data.
+You can add configuration items to one or more existing cases. After the CIs have been added to cases, you can use Security Case Management to analyze the data.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use Security Case Management.
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -49,15 +49,10 @@ You need to navigate to the CIs you want to add to the existing cases.
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[[cases-from-cis|Configuration items in cases]]
+**Parent Topic:**[Configuration items in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/cases-from-cis.md)
 
 **Related topics**  
 
 
 [Create a case from CIs]()
 
-## Related
-
-- [[cases-from-cis|Configuration items in cases]]
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -16,13 +16,13 @@ View a list of boundaries and limits in CPQ.
 
 ## Blueprints
 
-No limits are imposed on the number of [[fields|fields]], [[rules_101|rules]], or [[layouts|layouts]] associated with a Blueprint.
+No limits are imposed on the number of fields, rules, or layouts associated with a Blueprint.
 
 ## Fields
 
 Text fields: 2000 characters.
 
-[[cpq-picklist-extensions-ples|Picklist extensions]]: ProductOrderNumber accepts an integer up to 88 characters.
+Picklist extensions: ProductOrderNumber accepts an integer up to 88 characters.
 
 ## Fields
 
@@ -70,14 +70,7 @@ ZIP files over 75 MB cannot be imported.
 
 ## Layout Wizard
 
-500 fields can be automatically loaded when the [[layout_wizard|Layout Wizard]] is initialized. Additional fields must be added manually via the Add Field menu.
+500 fields can be automatically loaded when the Layout Wizard is initialized. Additional fields must be added manually via the Add Field menu.
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]
-- [[layout_wizard|Layout Wizard]]

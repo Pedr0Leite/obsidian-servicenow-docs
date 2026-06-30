@@ -25,12 +25,12 @@ Verify that you have performed the following:
     -   [Set up the SAP ECC RFC spoke](https://www.servicenow.com/docs/access?context=setup-sap-ecc-rfc&version=yokohama)
     -   [Setup the SAP S4 HANA Public Cloud spoke](https://www.servicenow.com/docs/access?context=setup-sap-s4hana-cloud-spk&version=yokohama)
     -   [Set up SAP S4 HANA OData spoke](https://www.servicenow.com/docs/access?context=set-up-sap-s4-hana-odata-spoke&version=yokohama)
--   Activated the [[source-to-pay-integration-framework|Source-to-Pay integration framework]] from ServiceNow Store. The [[source-to-pay-sap-integration|Source-to-Pay integration with SAP]] uses the Source-to-Pay integration framework to pull tasks from SAP into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
+-   Activated the Source-to-Pay integration framework from ServiceNow Store. The Source-to-Pay integration with SAP uses the Source-to-Pay integration framework to pull tasks from SAP into ServiceNow. For more information on the Source-to-Pay integration framework, see [Source-to-Pay integration framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-integration-framework.md).
 
 
 ## Primary Data Integration Dependencies with SAP Dependencies
 
-Install the following dependencies of [[master-data-integration|Primary Data integration]] with SAP. When you install the plugin, all the dependencies get installed automatically. All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data.
+Install the following dependencies of Primary Data integration with SAP. When you install the plugin, all the dependencies get installed automatically. All primary data are synchronized based on the configurable scheduled job Fetch Spend Primary Data.
 
 Run the Trigger SAP Integration that pulls tasks into ServiceNow. For more information, see [Use schedule flows in SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/using-schedule-flows-sap.md).
 
@@ -46,7 +46,7 @@ Run the Trigger SAP Integration that pulls tasks into ServiceNow. For more infor
 
 ## Supplier Lifecycle Operations Integration Dependencies with SAP
 
-Install the following dependencies of [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] integration with SAP. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Supplier Lifecycle Operations integration with SAP. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -57,7 +57,7 @@ Install the following dependencies of [[supp-mgmt-landing-page|Supplier Lifecycl
 
 ## Sourcing and Procurement Operations Integration Dependencies with SAP
 
-Install the following dependencies of [[psm-overview|Sourcing and Procurement Operations]] integration with SAP. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Sourcing and Procurement Operations integration with SAP. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -69,7 +69,7 @@ Install the following dependencies of [[psm-overview|Sourcing and Procurement Op
 
 ## Accounts Payable Operations Integration Dependencies with SAP
 
-Install the following dependencies of [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] integration with SAP. When you install the plugin, all the dependencies get installed automatically.
+Install the following dependencies of Accounts Payable Operations integration with SAP. When you install the plugin, all the dependencies get installed automatically.
 
 |App name|Plugin ID|
 |--------|---------|
@@ -80,9 +80,9 @@ Install the following dependencies of [[acc-pay-mgmt-landing-page|Accounts Payab
 |SAP ECC IDOC Spoke|sn\_sap\_ecc\_idoc\_sp|
 
 -   **[ERP Source Configuration for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/erp-source-configuration-sap.md)**  
-Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post [[purchase-order-table|purchase order]], receipt, invoice, and download primary data from the ERP.
+Configure your Source-to-Pay \(S2P\) instance to support inbound and outbound integration with your ERP system. This integration configuration enables you to automatically post purchase order, receipt, invoice, and download primary data from the ERP.
 -   **[Define ERP source configuration for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/define-erp-source-sap.md)**  
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the SAP tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the SAP tables.
 -   **[Configure integration services for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/configure-service-maps-sap.md)**  
 For configuring integration services, provide the connection end point and the SAP ERP credentials that you set up for your authentication profile. Also, create a separate integration service record for each service request that you want to customize.
 -   **[Look up primary data in SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/look-up-primary-data-sap.md)**  
@@ -94,14 +94,3 @@ You can schedule on-demand jobs to be run at specific intervals of time to fetch
 
 **Parent Topic:**[Source-to-Pay integration with SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-sap-integration.md)
 
-## Related
-
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[source-to-pay-sap-integration|Source-to-Pay integration with SAP]]
-- [[master-data-integration|Primary data integration]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

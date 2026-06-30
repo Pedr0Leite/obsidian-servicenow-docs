@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server Azure Key Vault integration
 
-The [[mid-server-landing|MID Server]] integration with the Azure Key vault enables Orchestration, Discovery, and Service Mapping to run without storing any credentials on the instance.
+The MID Server integration with the Azure Key vault enables Orchestration, Discovery, and Service Mapping to run without storing any credentials on the instance.
 
 ## Before you begin
 
@@ -293,7 +293,7 @@ Before creating secrets in Azure Key Vault, verify you have the appropriate perm
     ```
       {
         "type": "gcp",
-        "[[email|email]]": "<email_value>",
+        "email": "<email_value>",
         "secret_key": "<secret_key_value>"
       }
     ```
@@ -382,7 +382,4 @@ You may need to override authentication and the vault URL when operating in gove
 
     For Chinese government clouds: https://vault.azure.cn/.default
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[email|Email]]

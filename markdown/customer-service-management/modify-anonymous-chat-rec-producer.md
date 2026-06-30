@@ -12,7 +12,7 @@ breadcrumb: [Anonymous chat, Administer, Customer Service Management]
 
 # Modify the anonymous chat record producer
 
-Modify the default [[anonymous-chat|anonymous chat]] record producer to gather the desired information from guest users.
+Modify the default anonymous chat record producer to gather the desired information from guest users.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ This record producer requests information from a guest user on the Consumer Serv
 
 4.  Click **Update**.
 
-## Related
 
-- [[anonymous-chat|Anonymous chat]]

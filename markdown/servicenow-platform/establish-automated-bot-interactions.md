@@ -20,15 +20,15 @@ Role required: sn\_cti\_core.admin
 
 ## About this task
 
-When a caller contacts the call center, using the voice or dual-tone multi frequency \(DTMF\) inputs from caller, a contact flow is invoked in the Amazon [[c_Connect|Connect]] instance based on the caller context. The contact flow contains nodes that act as integration points between Amazon services and the ServiceNow instance. Based on the nodes defined in the contact flow, the corresponding operation handlers are triggered in the ServiceNow instance. The caller then gets the response that is defined in the operation handler. For information about contact flows, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/connect-contact-flows.html).
+When a caller contacts the call center, using the voice or dual-tone multi frequency \(DTMF\) inputs from caller, a contact flow is invoked in the Amazon Connect instance based on the caller context. The contact flow contains nodes that act as integration points between Amazon services and the ServiceNow instance. Based on the nodes defined in the contact flow, the corresponding operation handlers are triggered in the ServiceNow instance. The caller then gets the response that is defined in the operation handler. For information about contact flows, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/connect-contact-flows.html).
 
-In the ServiceNow base system, a few operation handlers are available by default. For information on operation handlers, see [[ccc-reference|ServiceNow Voice reference]].
+In the ServiceNow base system, a few operation handlers are available by default. For information on operation handlers, see [ServiceNow Voice reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md).
 
 ## Procedure
 
 1.  If you do not want to use a default operation handler, create and configure an operation handler in the ServiceNow instance.
 
-    1.  Navigate to **[[cloud-call-center-overview|ServiceNow Voice]] - Core** &gt; **Operation Handlers**.
+    1.  Navigate to **ServiceNow Voice - Core** &gt; **Operation Handlers**.
 
     2.  Click **New**.
 
@@ -93,7 +93,7 @@ Require Authentication
 
 </td><td>
 
-Option to enable authentication for the operation handler.**Note:** If this option is selected, the corresponding operation is invoked only when a valid authentication token is passed in the request. It is supported by an authentication operation handler that supports pin-based authentication, which can be leveraged in your contact flows. For information about configuring the PIN, see [[set-pin-ccc|Configuring a phone PIN]].
+Option to enable authentication for the operation handler.**Note:** If this option is selected, the corresponding operation is invoked only when a valid authentication token is passed in the request. It is supported by an authentication operation handler that supports pin-based authentication, which can be leveraged in your contact flows. For information about configuring the PIN, see [Configuring a phone PIN](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/set-pin-ccc.md).
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ Invokes a Lex Bot. The operation handler that is triggered is based on the name 
 **Note:** This intent name should match an operation handler in the ServiceNow instance with the same name, or name + ‘\_&lt;suffix&gt;’ where suffix can contain any five uppercase alpha characters.
 
     -   Sample utterances: Caller utterances that trigger the operation handler.
-    -   Lambda initialization and validation: If the operation handler being invoked requires authentication, select the **Initialization and validation code hook** [[check-box|check box]] and select the deployed AWS Lambda function.
+    -   Lambda initialization and validation: If the operation handler being invoked requires authentication, select the **Initialization and validation code hook** check box and select the deployed AWS Lambda function.
     -   Lambda function: Deployed AWS Lambda function that is invoked.
 3.  Save, build, and publish the intent.
 4.  Open the required contact flow in the contact flow designer in your Amazon Connect instance.
@@ -187,7 +187,7 @@ Invoke AWS Lambda Function
 
 </td><td>
 
-Invokes an AWS Lambda function. The operation handler that is triggered is based on the **sn\_operation** parameter set on the node in the contact flow. For information about this node, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/invoke-lambda-function-block.html).**Note:** This node can be used to for data dips \(for example, authorizing a caller\) where the integration is between the call center and the ServiceNow instance. The data dip configuration allows a caller to enter information, such as an account number, to route calls to a particular queue. Using this number, you can look up the first name of the caller and [[create-interactions|create an interaction]] record after the call is initiated. Also, you can customize the greeting with the caller name later in the flow.
+Invokes an AWS Lambda function. The operation handler that is triggered is based on the **sn\_operation** parameter set on the node in the contact flow. For information about this node, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/invoke-lambda-function-block.html).**Note:** This node can be used to for data dips \(for example, authorizing a caller\) where the integration is between the call center and the ServiceNow instance. The data dip configuration allows a caller to enter information, such as an account number, to route calls to a particular queue. Using this number, you can look up the first name of the caller and create an interaction record after the call is initiated. Also, you can customize the greeting with the caller name later in the flow.
 
 </td><td>
 
@@ -213,19 +213,8 @@ Invokes an AWS Lambda function. The operation handler that is triggered is based
 
     This process ensures that each time the caller calls, the corresponding contact flow is invoked. For information about associating a phone number with a contact flow, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/associate-phone-number.html).
 
-    **Note:** For a sample implementation of invoking operation handlers in a contact flow, you can refer to the default contact flows. For information on default contact flows, see [[instld-with-cloud-call-center-itsm|Components installed with ServiceNow Voice for ITSM]] and [[instld-with-ccc-csm|Components installed with ServiceNow Voice for CSM]].
+    **Note:** For a sample implementation of invoking operation handlers in a contact flow, you can refer to the default contact flows. For information on default contact flows, see [Components installed with ServiceNow Voice for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-cloud-call-center-itsm.md) and [Components installed with ServiceNow Voice for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-ccc-csm.md).
 
 
-**Parent Topic:**[[integrate-ccc-amazonconnect|Integrate ServiceNow Voice with Amazon Connect]]
+**Parent Topic:**[Integrate ServiceNow Voice with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-amazonconnect.md)
 
-## Related
-
-- [[ccc-reference|ServiceNow Voice reference]]
-- [[set-pin-ccc|Configuring a phone PIN]]
-- [[instld-with-cloud-call-center-itsm|Components installed with ServiceNow Voice for ITSM]]
-- [[instld-with-ccc-csm|Components installed with ServiceNow Voice for CSM]]
-- [[integrate-ccc-amazonconnect|Integrate ServiceNow Voice with Amazon Connect]]
-- [[c_Connect|Connect]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[check-box|Check box]]
-- [[create-interactions|Create an interaction]]

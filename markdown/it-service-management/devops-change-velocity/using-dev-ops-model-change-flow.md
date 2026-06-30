@@ -16,7 +16,7 @@ breadcrumb: [Accelerate your DevOps change process, DevOps Change Velocity, IT S
 
 Customize or recreate the DevOps Change Request Manual Approval, DevOps Change Request Minimal Automation Approval, and DevOps Change Request Advanced Automation Approval flows based on your requirements using a flow or a script.
 
-You can clone the DevOps flows and then customize them according to your requirements. To clone a flow, navigate to the flow you want to clone from the Base system DevOps flows sections or from the Flow Designer [[dex-workspace-dashboard-tab|landing page]] \(**All &gt; Process Automation &gt; Flow Designer**\). On the top-right corner of the Flow page, select **More Actions &gt; Copy flow**. In the Create a copy of this flow dialog box, enter the new name for the flow, and select DevOps Data Model as the application. Select the **Copy** button to create the new flow. The new flow will open in Flow Designer. Make any changes to customize it to your business requirements. You can run the flow to make sure it has no errors by selecting the **Test** button on the top-right corner of the screen before activating the flow. Activate the flow when it's ready by selecting the **Activate** button.
+You can clone the DevOps flows and then customize them according to your requirements. To clone a flow, navigate to the flow you want to clone from the Base system DevOps flows sections or from the Flow Designer landing page \(**All &gt; Process Automation &gt; Flow Designer**\). On the top-right corner of the Flow page, select **More Actions &gt; Copy flow**. In the Create a copy of this flow dialog box, enter the new name for the flow, and select DevOps Data Model as the application. Select the **Copy** button to create the new flow. The new flow will open in Flow Designer. Make any changes to customize it to your business requirements. You can run the flow to make sure it has no errors by selecting the **Test** button on the top-right corner of the screen before activating the flow. Activate the flow when it's ready by selecting the **Activate** button.
 
 ## Customize the DevOps Change Request Manual Approval flow
 
@@ -96,6 +96,3 @@ You can use either a flow or a script to call the action.
 
 [Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

@@ -20,19 +20,19 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the  **Screens**  category, and then select  **New**.
 
-4.  Select the  **Map** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select  **Continue**.
+4.  Select the  **Map** option in the Create a screen page, and then select  **Continue**.
 
-5.  In the New [[map-screen|map screen]] record, complete the fields as needed.
+5.  In the New map screen record, complete the fields as needed.
 
 <table id="table_qh2_dqv_wtb"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Fetch type
 
 </td><td>
 
-Fetch type settings determine when data is loaded into your screen. The following fetch types are available: `prefetch`, `on-demand`, `background`, and `dynamic`. For more information, see [[applet-fetch-types|Mobile fetch types]].
+Fetch type settings determine when data is loaded into your screen. The following fetch types are available: `prefetch`, `on-demand`, `background`, and `dynamic`. For more information, see [Mobile fetch types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/applet-fetch-types.md).
 
 </td></tr><tr><td>
 
@@ -80,7 +80,7 @@ Available offline
 
 </td><td>
 
-Option to determine whether the map screen is available in [[mobile-offline-mode|offline mode]].
+Option to determine whether the map screen is available in offline mode.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Empty state
 
 </td><td>
 
-You can indicate to users, with the aid of a visual display, that the map does not contain any points of interest. For more information, see [[empty-state-handling|Empty state display]].
+You can indicate to users, with the aid of a visual display, that the map does not contain any points of interest. For more information, see [Empty state display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/empty-state-handling.md).
 
 </td></tr><tr><td>
 
@@ -213,7 +213,7 @@ Option to determine whether the sort and order of a list is displayed in an asce
 
         3.  From the **Location** field, select a reference to the location table. The selected option shows as a location on the map.
         4.  Select a pin color by either selecting a color from the grid or enter a hexadecimal value, and then select **Save**.
-9.  Choose an existing data item or create a new data item. To create a new data item, see [[sg-data-item|Data items]].
+9.  Choose an existing data item or create a new data item. To create a new data item, see [Data items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-data-item.md).
 
     The data item returns data from a single table to be used for the map location item stream.
 
@@ -230,17 +230,5 @@ The configured map screen displays information from your data item plotted on a 
 
 ## What to do next
 
-You can add your map screen within a record section and an icon section. When a user taps on the relevant icon, they are navigated to the configured map screen. For more information, see [[sg-ui-section-config-item|Configure a record UI section]] and [[sg-ui-section-config-navig|Configure an icon UI section]].
+You can add your map screen within a record section and an icon section. When a user taps on the relevant icon, they are navigated to the configured map screen. For more information, see [Configure a record UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md) and [Configure an icon UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-navig.md).
 
-## Related
-
-- [[applet-fetch-types|Mobile fetch types]]
-- [[empty-state-handling|Empty state display]]
-- [[sg-data-item|Data items]]
-- [[sg-ui-section-config-item|Configure a record UI section]]
-- [[sg-ui-section-config-navig|Configure an icon UI section]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[map-screen|Map screen]]
-- [[mobile-offline-mode|Offline mode]]

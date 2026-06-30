@@ -14,7 +14,7 @@ breadcrumb: [Use Opportunity Marketplace, Opportunity Marketplace, Hiring Experi
 
 # Create opportunities in Opportunity Marketplace by importing projects from Project Workspace
 
-Import details from a Project Workspace project file to create a related opportunity in [[egd-oppt-mrktplc-landing|Opportunity Marketplace]].
+Import details from a Project Workspace project file to create a related opportunity in Opportunity Marketplace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You must have Project Workspace installed and configured to create opportunities
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], go to **Opportunity Marketplace** &gt; **Opportunities you own**.
+1.  From the Employee Center, go to **Opportunity Marketplace** &gt; **Opportunities you own**.
 
     Any existing opportunities that you own are listed. For the first opportunity you create, you see the message **No opportunities yet**.
 
@@ -122,7 +122,7 @@ Add additional details that an applicant might want to learn about or want to un
 
 </td><td>
 
-Attachments can include related information such department details of the team an applicant would be working with or more extensive details about gigs, projects, or [[egd-oppt-mrktplc-volunteer|volunteer opportunities]]. Attachments are attached to the corresponding opportunity record.
+Attachments can include related information such department details of the team an applicant would be working with or more extensive details about gigs, projects, or volunteer opportunities. Attachments are attached to the corresponding opportunity record.
 
 </td></tr></tbody>
 </table>    1.  From the **Opportunity owner** list, select co-owners to an opportunity to enable management of the opportunity.
@@ -156,8 +156,3 @@ Attachments can include related information such department details of the team 
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-volunteer|Volunteer opportunities]]

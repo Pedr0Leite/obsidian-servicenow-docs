@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Project planning item form
 
-Learn about the fields of the [[create-a-project-form|project form]]. Use this form to create or edit the details of a planning item of the type Project in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Learn about the fields of the project form. Use this form to create or edit the details of a planning item of the type Project in Portfolio Planning.
 
 These fields are displayed on the full details page of the planning item.
 
@@ -80,7 +80,7 @@ Planning state
 
 </td><td>
 
-State of the planning item in the [[alignment-planner-workspace-landing-page|Strategic Planning]] or Portfolio Planning Backlog.
+State of the planning item in the Strategic Planning or Portfolio Planning Backlog.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Execution URL
 
 </td><td>
 
-Link to the project's execution record in the [[project-workspace-landing-page|Project Workspace]].
+Link to the project's execution record in the Project Workspace.
 
 </td></tr><tr><td>
 
@@ -299,9 +299,3 @@ Business capabilities of this planning item.
 
 **Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[project-workspace-landing-page|Project Workspace]]

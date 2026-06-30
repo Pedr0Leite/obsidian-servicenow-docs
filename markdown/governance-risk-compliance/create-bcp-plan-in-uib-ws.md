@@ -24,7 +24,7 @@ The BCP Plan Manager \(sn\_bcp.plan\_manager\) now includes the Doc writer \(sn\
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  Navigate to **Planning** in the [[list-view-uib-ws|list view]] and select **New**.
+2.  Navigate to **Planning** in the list view and select **New**.
 
     The **Create New Plan** form is displayed as shown in the example.
 
@@ -32,7 +32,7 @@ The BCP Plan Manager \(sn\_bcp.plan\_manager\) now includes the Doc writer \(sn\
 
 3.  Fill in the required fields in the **Details** tab of the **Create New Plan** form.
 
-    For more information on the fields, see [[create-new-plan-bcp-uib-ws-reference-form|Create New Plan form]].
+    For more information on the fields, see [Create New Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-plan-bcp-uib-ws-reference-form.md).
 
     The business continuity plan \(BCP\) is created in the **Draft** state and it’s displayed in the List view. The state and details of the business continuity plan are displayed in the tabs.
 
@@ -132,7 +132,7 @@ Record the recovery capabilities of the plan in the documentation sections. Cont
 
 </td><td>
 
-Contains the associated plan types such as Upstream plans, Downstream plans, Related plans. For more information, see [[add-related-plans-recovery-teams-bcp-uib-ws|Add associated plans and recovery teams]].
+Contains the associated plan types such as Upstream plans, Downstream plans, Related plans. For more information, see [Add associated plans and recovery teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-related-plans-recovery-teams-bcp-uib-ws.md).
 
 </td></tr><tr><td>
 
@@ -198,7 +198,7 @@ If you have over 500 recovery tasks and the dependencies are updated, the planne
 
 5.  Review the **Finalized RTO** and **Finalized RPO** values columns in the **Scope** tab.
 
-    With GRC: [[bia-uib|Business Impact Analysis]], version 9.2.x, the **Finalized RTO** and **Finalized RPO** fields are introduced in the **Scope** tab.
+    With GRC: Business Impact Analysis, version 9.2.x, the **Finalized RTO** and **Finalized RPO** fields are introduced in the **Scope** tab.
 
     \[Omitted image "finalized-rpo-rto-plan.png"\] Alt text: Finalized RPO.
 
@@ -249,12 +249,5 @@ If you have over 500 recovery tasks and the dependencies are updated, the planne
 -   **[Create New Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-plan-bcp-uib-ws-reference-form.md)**  
 Use the Create New Plan form in BCM UIB Workspace to add the details about the business continuity plan \(BCP\).
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[create-new-plan-bcp-uib-ws-reference-form|Create New Plan form]]
-- [[add-related-plans-recovery-teams-bcp-uib-ws|Add associated plans and recovery teams]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]
-- [[bia-uib|Business impact analysis]]

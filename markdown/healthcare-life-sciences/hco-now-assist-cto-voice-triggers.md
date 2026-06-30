@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Configure Care Team Operations Case Creation Voice AI agent triggers
 
-Change the trigger phrases used to call on the [[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI agent]] via phone.
+Change the trigger phrases used to call on the Care Team Operations Case Creation Voice AI agent via phone.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ These phrases can be adjusted for your use case as needed.
 
 The Care Team Operations Case Creation Voice AI agent is now triggered on phone conversations based on the updated phrases and context you provided.
 
-## Related
-
-- [[hco-now-assist-voice-agent|Care Team Operations Case Creation Voice AI agent]]

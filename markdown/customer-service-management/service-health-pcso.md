@@ -16,9 +16,9 @@ View the real-time health status of a customer's install base. Correlate custome
 
 ## Service health tracking overview
 
-The integration between [[c_CustomerServiceManagement|Customer Service Management]] and the Event Management console in IT Operations Management enables you to track the service health status of a customer's install base.
+The integration between Customer Service Management and the Event Management console in IT Operations Management enables you to track the service health status of a customer's install base.
 
-When an issue affects one or more [[install-base-item|install base items]] and an alert is created, the severity of the alert is calculated in Event Management. It is calculated according to alert impact calculation [[gamification-components-rules|rules]]. Based on the severity of the alert, the service health status of each install base item is calculated. Customer service agents can view the service health status of install base items in an account or a case in Customer Service Management.
+When an issue affects one or more install base items and an alert is created, the severity of the alert is calculated in Event Management. It is calculated according to alert impact calculation rules. Based on the severity of the alert, the service health status of each install base item is calculated. Customer service agents can view the service health status of install base items in an account or a case in Customer Service Management.
 
 ​For more information about how the severity of an alert is calculated, see [Alert impact calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EMImpactCalculation.md).
 
@@ -34,7 +34,7 @@ To provide the service health status for an install base item in Customer Servic
 
 The service health status is displayed in Customer Service Management as follows.
 
-|Severity of alert \(Event Management\)|Service health status on Account and Case [[migration-forms|forms]] \(Customer Service Management\)|
+|Severity of alert \(Event Management\)|Service health status on Account and Case forms \(Customer Service Management\)|
 |--------------------------------------|-------------------------------------------------------------------------------|
 |Critical|Critical: Resource is either not functional or critical problems are imminent.|
 |Major|Major: Major functionality is severely impaired or performance has degraded.|
@@ -50,29 +50,18 @@ For more information about alert severity, see Lesson 1 of the [Event Management
 
 As a system administrator, configure form views to add the **Service Context**, **Health Status**, and **Health Status Last Updated** fields to the relevant forms.
 
-As a customer service agent, view the service health status of install base items on the Account or [[r_CustomerServiceCaseForm|Case form]].
+As a customer service agent, view the service health status of install base items on the Account or Case form.
 
 ## Activation information
 
-This feature requires the [[proactive-service-operations|Proactive Customer Service Operations]] with Event Management plugin \(com.snc.proactive\_cs\_itom\).
+This feature requires the Proactive Customer Service Operations with Event Management plugin \(com.snc.proactive\_cs\_itom\).
 
 **Related topics**  
 
 
-[[pcso-event-management|Integration with Event Management]]
+[Integration with Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/pcso-event-management.md)
 
-[[configure-form-views|Configure form views for Proactive Customer Service Operations]]
+[Configure form views for Proactive Customer Service Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-form-views.md)
 
-[[service-health-tracking-csm|Track the service health of install base items in Agent Workspace]]
+[Track the service health of install base items in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/service-health-tracking-csm.md)
 
-## Related
-
-- [[pcso-event-management|Integration with Event Management]]
-- [[configure-form-views|Configure form views for Proactive Customer Service Operations]]
-- [[service-health-tracking-csm|Track the service health of install base items in Agent Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]
-- [[gamification-components-rules|Rules]]
-- [[migration-forms|Forms]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]

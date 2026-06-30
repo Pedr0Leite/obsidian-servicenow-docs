@@ -12,22 +12,16 @@ breadcrumb: [Customer management, Use, Customer Service Management]
 
 # Using customer access management
 
-Learn how customers, [[customer-service-contributor-users|contributor users]], and customer service agents use customer access management.
+Learn how customers, contributor users, and customer service agents use customer access management.
 
 ## Overview of customer access management
 
-Customer access management enables you to support multiple contacts and consumers on cases and [[sold-product|sold products]], providing them with varying levels of access to the case. You can also add additional internal users to a case.
+Customer access management enables you to support multiple contacts and consumers on cases and sold products, providing them with varying levels of access to the case. You can also add additional internal users to a case.
 
 **Related topics**  
 
 
-[[configuring-cam|Configuring customer access management]]
+[Configuring customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-cam.md)
 
-[[manage-account-access-cam|Restrict contact access]]
+[Restrict contact access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-account-access-cam.md)
 
-## Related
-
-- [[configuring-cam|Configuring customer access management]]
-- [[manage-account-access-cam|Restrict contact access]]
-- [[customer-service-contributor-users|Contributor users]]
-- [[sold-product|Sold products]]

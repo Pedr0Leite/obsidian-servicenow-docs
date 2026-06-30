@@ -55,7 +55,7 @@ String
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]] line
+Purchase order line
 
 </td><td>
 
@@ -91,7 +91,7 @@ Decimal number
 
 </td></tr><tr><td>
 
-[[payment-terms|Payment terms]]
+Payment terms
 
 </td><td>
 
@@ -103,7 +103,7 @@ String Example \(Net 30\)
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -131,7 +131,7 @@ Subtotal \(required\)
 
 </td><td>
 
-Total amount of money to be paid to the [[supplier|supplier]] excluding tax and shipping charges.
+Total amount of money to be paid to the supplier excluding tax and shipping charges.
 
 </td><td>
 
@@ -139,11 +139,11 @@ Decimal number Example \(12345.65\)
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
-Combination of cost center's account number and [[erp-source|ERP source]].
+Combination of cost center's account number and ERP source.
 
 </td><td>
 
@@ -236,11 +236,3 @@ String
 </td></tr></tbody>
 </table>**Parent Topic:**[Inbound Invoice Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-fields.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[payment-terms|Payment terms]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]
-- [[cost-center|Cost center]]
-- [[erp-source|ERP source]]

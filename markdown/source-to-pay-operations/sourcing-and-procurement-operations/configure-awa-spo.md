@@ -22,13 +22,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-work-assignment|Advanced Work Assignment]]**.
+1.  Navigate to **All** &gt; **Advanced Work Assignment**.
 
 2.  Create a service channel to automatically route incoming work to agents.
 
     For more information, see [Create or configure a service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-service-channel.md).
 
-    The following service channels are specific to [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]].
+    The following service channels are specific to Advanced Work Assignment for Source-to-Pay Operations.
 
     -   Procurement Cases: For more information,see [Automatic case creation from emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/case-creation-from-emails.md).
     -   Chat. For more information,see [Using Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-awa-spo.md).
@@ -58,7 +58,3 @@ Role required: admin
 
 **Parent Topic:**[Setting up Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/awa-spo-setup.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]

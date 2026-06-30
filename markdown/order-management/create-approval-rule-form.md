@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management reference, Configure, price, quote, Re
 
 # Create Approval Rule form
 
-Field descriptions for the Create Approval Rule form in [[explore-advanced-approval-for-sales|Advanced Approval Management]].
+Field descriptions for the Create Approval Rule form in Advanced Approval Management.
 
 <table id="table_ahv_gbt_j3c"><thead><tr><th>
 
@@ -86,7 +86,7 @@ Approver type
 
 Type of approver:-   User: Specific approval user who can approve a request, such as Contract Manager.
 -   Group: A group that can approve a request, such as the Contracts group.
--   Dynamic: An approver determined by the advanced approval engine when an approval request is submitted, based on relationships, roles, or [[rules_101|rules]] provided in the **Dynamic approver** field.
+-   Dynamic: An approver determined by the advanced approval engine when an approval request is submitted, based on relationships, roles, or rules provided in the **Dynamic approver** field.
 
 </td></tr><tr><td>
 
@@ -156,16 +156,10 @@ Dynamic escalated assignee
 Rule logic that determines the escalated assignee dynamically when an approval request is submitted.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[advanced-approval-management-reference|Advanced Approval Management reference]]
+</table>**Parent Topic:**[Advanced Approval Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/advanced-approval-management-reference.md)
 
 **Related topics**  
 
 
-[[create-approval-rules|Create approval rules]]
+[Create approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rules.md)
 
-## Related
-
-- [[advanced-approval-management-reference|Advanced Approval Management reference]]
-- [[create-approval-rules|Create approval rules]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[rules_101|Rules]]

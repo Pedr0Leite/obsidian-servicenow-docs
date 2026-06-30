@@ -12,7 +12,7 @@ breadcrumb: [Setting up assignment groups, Configure Service Model Foundation, D
 
 # Create a group
 
-Create groups to assign work to team members based on specific requirements such as skills, location, and [[product-models|product models]]. This approach enables you to route cases to the appropriate team members.
+Create groups to assign work to team members based on specific requirements such as skills, location, and product models. This approach enables you to route cases to the appropriate team members.
 
 ## Before you begin
 
@@ -88,9 +88,5 @@ The detailed information about the group.
 
 ## What to do next
 
-Configure a group by adding members and assigning them appropriate roles. For more information, see [[configuring-a-group|Configuring a group]].
+Configure a group by adding members and assigning them appropriate roles. For more information, see [Configuring a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-group.md).
 
-## Related
-
-- [[configuring-a-group|Configuring a group]]
-- [[product-models|Product models]]

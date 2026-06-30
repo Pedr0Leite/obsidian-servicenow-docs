@@ -14,7 +14,7 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Perform bulk assessment in stacked view
 
-Perform assessments on multiple risks and controls simultaneously in a [[risk-assessment-project|risk assessment project]] [[using-ai-risk-and-compliance|using AI Risk and Compliance]] Workspace. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
+Perform assessments on multiple risks and controls simultaneously in a risk assessment project using AI Risk and Compliance Workspace. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_risk\_advanced.risk\_asmt\_project\_reader and sn\_risk\_adva
 
 ## About this task
 
-You can perform the bulk risk assessment either from the [[employee-center|Employee Center]] or AI Control Tower Workspace.
+You can perform the bulk risk assessment either from the Employee Center or AI Control Tower Workspace.
 
 ## Procedure
 
@@ -74,7 +74,7 @@ You can perform the bulk risk assessment either from the [[employee-center|Emplo
 
         The selected risk is deleted, along with all associated responses.
 
-8.  Respond to all the [[factors|factors]] in Inherent, Control, and Residual assessments, and define a [[risk-response|risk response]] strategy for each risk within the project.
+8.  Respond to all the factors in Inherent, Control, and Residual assessments, and define a risk response strategy for each risk within the project.
 
     \[Omitted image "stacked-view-airc.png"\] Alt text: Stacked view of risk assessment project.
 
@@ -82,7 +82,7 @@ You can perform the bulk risk assessment either from the [[employee-center|Emplo
 
 9.  To view the complete summary of the assessment, select **View summary**.
 
-10. To check for any errors in the assessment before you [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select the more actions icon \[Omitted image "more-actions-vertical-icon.png"\] Alt text:, and select **Validate**.
+10. To check for any errors in the assessment before you submit the assessment, select the more actions icon \[Omitted image "more-actions-vertical-icon.png"\] Alt text:, and select **Validate**.
 
     You can see the list of errors, if any, that must be resolved in the side panel for the selected risk.
 
@@ -97,11 +97,3 @@ You can perform the bulk risk assessment either from the [[employee-center|Emplo
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[risk-assessment-project|risk assessment project]]
-- [[using-ai-risk-and-compliance|Using AI Risk and Compliance]]
-- [[employee-center|employee center]]
-- [[factors|factors]]
-- [[risk-response|risk response]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

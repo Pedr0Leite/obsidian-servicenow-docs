@@ -14,7 +14,7 @@ breadcrumb: [Configuring Appointment Booking, Additional scheduling configuratio
 
 # Configure Advanced Appointment Booking
 
-Advanced [[appointment-booking|Appointment Booking]] allows you to configure flexible schedules, holidays and appointment window durations for a territory.
+Advanced Appointment Booking allows you to configure flexible schedules, holidays and appointment window durations for a territory.
 
 **Advanced Appointment Booking** enables you to configure flexible appointment window, define holidays across territories, support overlapping appointment windows, and define schedule at the territory level to reflect regional operating conditions.
 
@@ -28,6 +28,3 @@ The steps for configuring Advanced Appointment Booking are:
 4.  [Create an Appointment schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched.md)
 5.  \(Optional\) [Create an Appointment Schedule Override](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-appt-sched-override.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integ
 
 # Executing scripts required for setting up AWS
 
-You must execute scripts provided with the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] to set up the AWS environment for importing data.
+You must execute scripts provided with the Service Graph Connector for AWS to set up the AWS environment for importing data.
 
 **Important:** Before executing an AWS script, ensure that you have completed the prerequisites. See [Prerequisites for executing scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md).
 
@@ -338,7 +338,3 @@ Creates an AWS SSM document to fetch CIs related to Kubernetes components, such 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

@@ -24,7 +24,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 This procedure outlines how a trusted client application obtains an access token by directly handling user credentials and uses it to access ServiceNow APIs.
 
-The user [[logs|logs]] in through the app, which sends both its own credentials and the user's to ServiceNow. ServiceNow validates the credentials and issues an access token that the app uses to call APIs.
+The user logs in through the app, which sends both its own credentials and the user's to ServiceNow. ServiceNow validates the credentials and issues an access token that the app uses to call APIs.
 
 \[Omitted image "mic-jwt-grant-workflow.png"\] Alt text: Resource owner password credential grant workflow
 
@@ -32,7 +32,7 @@ The user [[logs|logs]] in through the app, which sends both its own credentials 
 
 1.  The user logs in to the client application.
 
-2.  The client application sends a token [[c_requestAPI|request]] to with the following parameters:
+2.  The client application sends a token request to with the following parameters:
 
     -   Client ID and client secret.
     -   Username and password of the user.
@@ -66,7 +66,7 @@ Yes
 
 </td><td>
 
-Specifies the [[oauth-inbound-and-outbound|OAuth]] grant type.
+Specifies the OAuth grant type.
 
 </td></tr><tr><td>
 
@@ -147,8 +147,4 @@ Defines the level of access requested.Example:
 
 5.  ServiceNow validates the access token, and returns the API response.
 
-## Related
 
-- [[logs|Logs]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]

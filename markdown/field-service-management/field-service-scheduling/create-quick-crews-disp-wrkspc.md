@@ -14,7 +14,7 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 # Create quick crews in Dispatcher Workspace
 
-Create planned or ad hoc crews faster and more efficiently using a single interface in [[dispatcher-activities|Dispatcher Workspace]]. The single interface helps dispatchers view the agent schedule and availability while creating crews and adding crew members.
+Create planned or ad hoc crews faster and more efficiently using a single interface in Dispatcher Workspace. The single interface helps dispatchers view the agent schedule and availability while creating crews and adding crew members.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When creating a crew, you can simultaneously view the availability of agents and
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -125,7 +125,4 @@ End date until when the crew is active to work on the task.
 
 8.  Select **Update**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

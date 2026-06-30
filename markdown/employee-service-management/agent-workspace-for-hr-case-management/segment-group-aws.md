@@ -14,7 +14,7 @@ breadcrumb: [Create a bulk case request using Agent Workspace for HR Case Manage
 
 # Specify a user segment group for a bulk case request in Agent Workspace for HR Case Management
 
-[[bulk-case-segment|Create a user segment group]] to specify in a bulk case request the users for whom a case will be created. You can specify values for a group of users or specify multiple segments with different values for different groups of users.
+Create a user segment group to specify in a bulk case request the users for whom a case will be created. You can specify values for a group of users or specify multiple segments with different values for different groups of users.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: HR Workspace Lists icon\).
 
@@ -56,7 +56,7 @@ Opened for
 
 </td><td>
 
-Employee to be assigned as the Opened for person on each case.For example, for an onboarding bulk case request, you would select the [[hiring-tab-concept|hiring]] manager.
+Employee to be assigned as the Opened for person on each case.For example, for an onboarding bulk case request, you would select the hiring manager.
 
 </td></tr><tr><td>
 
@@ -95,11 +95,11 @@ Upload a file with user names or email addresses.1.  Select the file type in the
 
 </td></tr><tr><td id="d439875e252">
 
-**[[hr-criteria|HR criteria]]**
+**HR criteria**
 
 </td><td>
 
-Criteria based on conditions defined by the [[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\] or User \[sys\_user\] tables.
+Criteria based on conditions defined by the HR Profile \[sn\_hr\_core\_profile\] or User \[sys\_user\] tables.
 
 </td></tr><tr><td id="d439875e261">
 
@@ -132,11 +132,4 @@ Conditions based on the User \[sys\_user\] table.
 
     **Note:** You can still review and edit your user segment group. For more information, see [Review users in a user segment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/manage-group-aws.md).
 
-## Related
 
-- [[bulk-case-segment|Create a user segment group]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hiring-tab-concept|Hiring]]
-- [[hr-criteria|HR criteria]]
-- [[c_HRProfileRecords|HR Profile]]

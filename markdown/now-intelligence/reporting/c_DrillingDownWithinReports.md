@@ -18,9 +18,9 @@ You can drill down within a report to visualize a subset of its data. For exampl
 
 For reports with a defined drilldown, click on a portion of the chart to display a subset of data. The subset may use a different chart type. In the example, the user clicks on the critical incidents in a bar chart to reveal the categories of critical incidents in a semi-donut chart.
 
-**Note:** This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. For instances migrated to [[par-workspace|Platform Analytics experience]] and new Australia instances, see [[dv-chart-interactions|Chart interactions in a data visualization]].
+**Note:** This topic refers to Reporting in the Core UI. For instances migrated to Platform Analytics experience and new Australia instances, see [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
-\[Omitted image "drilldown-example-2.png"\] Alt text: Drilldown example with two [[report-types-creation-details-rd|report types]]
+\[Omitted image "drilldown-example-2.png"\] Alt text: Drilldown example with two report types
 
 All chart types except for list, histogram, calendar, control, box, and trendbox charts support drilling down. Drilling down is not available on charts added to forms, and charts embedded as iframes. You can define any number of drilldown levels for a report.
 
@@ -75,14 +75,5 @@ This topic refers to Reporting in the Core UI. If your instance is migrated to P
 
 The user can drill down from the top-level report to the specified drilldown report visualizations.
 
-**Note:** All users can view report visualizations, such as [[c_CreatePieCharts|pie charts]] and [[c_CreateColumnCharts|column reports]]. However, the last level of a drilldown is always a list. Platform [[access-control|access control]] lists determine user access to list information. Users may see a message indicating that rows were removed from the list by Security constraints. For more information, see Access control list rules.
+**Note:** All users can view report visualizations, such as pie charts and column reports. However, the last level of a drilldown is always a list. Platform access control lists determine user access to list information. Users may see a message indicating that rows were removed from the list by Security constraints. For more information, see Access control list rules.
 
-## Related
-
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[report-types-creation-details-rd|Report types]]
-- [[c_CreatePieCharts|Pie charts]]
-- [[c_CreateColumnCharts|Column reports]]
-- [[access-control|Access control]]

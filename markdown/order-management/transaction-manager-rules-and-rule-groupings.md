@@ -12,11 +12,11 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Rules and rule groupings
 
-[[rules_101|Rules]] in [[transaction-manager|Transaction Manager]] are similar to configuration rules. You can also group rules together when they are intended to run together.
+Rules in Transaction Manager are similar to configuration rules. You can also group rules together when they are intended to run together.
 
 As in configuration, rules in Transaction Manager govern what actions are taken when a user makes an input into the Transaction Manager buyside UI. Rules consist of three components in Transaction Manager: level, conditions, and actions.
 
-The level determines whether the rule runs at the transaction level or the transaction line level. The level dictates which [[fields|fields]] can be used in the definition of conditions and actions in the rule.
+The level determines whether the rule runs at the transaction level or the transaction line level. The level dictates which fields can be used in the definition of conditions and actions in the rule.
 
 Conditions determine when a rule executes its actions. If the conditions defined for a rule evaluate to TRUE, the rule actions are executed. If the conditions for a rule evaluate to FALSE, rule actions do not execute.
 
@@ -41,7 +41,7 @@ Click **Save**.
 
 \[Omitted image "cpq-txn-mgr-rules-create-new-rule-2.jpeg"\] Alt text: Create a New rule
 
-On the rule editor page, you can [[Modify|modify]] the name and the description of the rule. The Active toggle lets you activate or deactivate the rule.
+On the rule editor page, you can modify the name and the description of the rule. The Active toggle lets you activate or deactivate the rule.
 
 Below the Description field is the Condition area. Clicking the **Take Action When** menu displays options for implementing the conditions for this new rule. Select the conditions method to use for this new rule.
 
@@ -65,7 +65,7 @@ To add an action, select the type of action to add and click it in the Actions a
 -   A message action displays a text message to the buyside user.
 -   An exclusion action hides or disables a menu option in a picklist field.
 -   An inclusion action displays a menu option in a picklist field.
--   A determination action [[cpq-sets|sets]] or clears the value of a field.
+-   A determination action sets or clears the value of a field.
 
 \[Omitted image "cpq-txn-mgr-rules-create-actions-5.jpeg"\] Alt text: New rule actions
 
@@ -134,9 +134,9 @@ Rule groupings are collections of rules to be executed together. A rule grouping
 
 Rule groupings are used in stages and events to link groups of rules for execution. Each stage can have any number of rule groupings associated with it, determining which rules execute when a user makes changes to a field in the stage. For rules to execute, the admin must associate a rule grouping with a stage or event. For instructions on how to do so, see the following articles:
 
-[[transaction-manager-events|Transaction Manager: Events]]
+[Transaction Manager: Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-events.md)
 
-[[transaction-manager-stages|Transaction Manager: Stages]]
+[Transaction Manager: Stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-stages.md)
 
 ## Creating a rule grouping
 
@@ -316,12 +316,3 @@ var taxCodes =
 
 [Transaction Manager: Stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-stages.md)
 
-## Related
-
-- [[transaction-manager-events|transaction manager events]]
-- [[transaction-manager-stages|transaction manager stages]]
-- [[rules_101|Rules]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]
-- [[Modify|Modify]]
-- [[cpq-sets|Sets]]

@@ -28,7 +28,7 @@ Role required: sn\_grc.manager
 
 3.  Search for and select an entity from the list on the left.
 
-    Entities are organized hierarchically by [[entity-class|entity class]], then by [[entity-type-in-risk-ws|entity types]].
+    Entities are organized hierarchically by entity class, then by entity types.
 
 4.  After selecting an entity from the left, the entity is displayed in the center with its direct upstream and downstream dependencies.
 
@@ -58,7 +58,3 @@ Drag an eligible downstream entity from the list of eligible entities on the rig
 
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-class|entity class]]
-- [[entity-type-in-risk-ws|Entity types]]

@@ -15,7 +15,7 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Initiate risk assessment on AI asset's risks
 
-Request [[risk-assessments|risk assessments]] for risks identified during the AI system's impact assessment. These risks are generated based on the responses provided during the impact assessment of the AI system.
+Request risk assessments for risks identified during the AI system's impact assessment. These risks are generated based on the responses provided during the impact assessment of the AI system.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance|AI Risk and Compliance]]** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-airc-ws.png"\] Alt text:.
 
@@ -51,7 +51,7 @@ Assessment methodology
 
 </td><td>
 
-[[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]] that you use to assess risks. This is auto-populated based on the published risk RAMs.
+Risk assessment methodology \(RAM\) that you use to assess risks. This is auto-populated based on the published risk RAMs.
 
 </td></tr><tr><td>
 
@@ -109,9 +109,3 @@ Number of days within which the assessment should be completed after it’s init
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for Health and Safety, Health and Safety, Emp
 
 # Install Now Assist for Health and Safety
 
-If you have the admin role, you can install the [[now-assist-hs-landing|Now Assist for Health and Safety]] application \(sn\_hs\_gen\_ai\) to enable generative AI capabilities for summarizing safety incidents on your instance.
+If you have the admin role, you can install the Now Assist for Health and Safety application \(sn\_hs\_gen\_ai\) to enable generative AI capabilities for summarizing safety incidents on your instance.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Install Now Assist AI agents to enable the agentic AI experience. For more infor
 
 **Parent Topic:**[Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md)
 
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

@@ -96,7 +96,7 @@ Notes
 Additional information about the household.
 
 </td></tr></tbody>
-</table>## Household related [[migration-lists|lists]]
+</table>## Household related lists
 
 The Household form includes the following related lists.
 
@@ -132,7 +132,7 @@ Member Relationships
 
 Relationships that have been created between members of this household. Member relationships are created using the Authorized Representative responsibility.
 
- Household members that have an Authorized Representative relationship with another household member can act on behalf of that member and can [[manage-cases|manage cases]] for that member.
+ Household members that have an Authorized Representative relationship with another household member can act on behalf of that member and can manage cases for that member.
 
 </td></tr><tr><td>
 
@@ -156,10 +156,5 @@ Cases that have been created for this household and the members of this househol
 </table>**Related topics**  
 
 
-[[create-consumer-household|Create or update a household]]
+[Create or update a household](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-consumer-household.md)
 
-## Related
-
-- [[create-consumer-household|Create or update a household]]
-- [[migration-lists|Lists]]
-- [[manage-cases|Manage cases]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Catalog Builder, Catalog Builder, Service Catalog, M
 
 # Configure a step-based service fulfillment flow
 
-Define service fulfillment steps while creating a catalog item in [[catalog-builder|Catalog Builder]].
+Define service fulfillment steps while creating a catalog item in Catalog Builder.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ If your organization has processes to be run before or after the service fulfill
 
 ## Procedure
 
-1.  [[t_CreateAWorkflow|Create a Workflow]] Studio flow \(With the trigger type as [[service-catalog|Service Catalog]]\).
+1.  Create a Workflow Studio flow \(With the trigger type as Service Catalog\).
 
     Ensure that the Service Fulfillment Steps base flow subflow is called from this flow.
 
@@ -85,8 +85,3 @@ If your organization has processes to be run before or after the service fulfill
 
 **Parent Topic:**[Setting up the Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/set-up-cat-builder.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[t_CreateAWorkflow|Create a workflow]]
-- [[service-catalog|Service Catalog]]

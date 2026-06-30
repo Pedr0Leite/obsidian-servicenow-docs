@@ -15,7 +15,7 @@ breadcrumb: [Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and
 
 # AI driven supplier onboarding using Now Assist for SLO
 
-Use the AI driven [[supplier|supplier]] onboarding playbook to automate onboarding tasks such as supplier registration, information validation, and task list generation.
+Use the AI driven supplier onboarding playbook to automate onboarding tasks such as supplier registration, information validation, and task list generation.
 
 ## Accessing the AI driven supplier onboarding playbook
 
@@ -57,7 +57,7 @@ Supplier data steward AI agent
 
 **Note:** Duplicate supplier onboarding requests can be resolved from the Now Assist panel by updating the legal name or the email domain of the primary contact's email address.
 
--   Handles supplier onboarding by creating an invitation case for the [[supplier-contact|supplier contact]] and assigning the necessary supplier tasks. Additionally, it ensures that the supplier case status is updated appropriately in the system.
+-   Handles supplier onboarding by creating an invitation case for the supplier contact and assigning the necessary supplier tasks. Additionally, it ensures that the supplier case status is updated appropriately in the system.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ On approval, confirms supplier activation, activates supplier record and updates
 
 </td></tr><tr><td>
 
-[[supplier-document-strategy-generator-ai-agent|Supplier document strategy generator AI agent]]
+Supplier document strategy generator AI agent
 
 </td><td>
 
@@ -101,7 +101,7 @@ AI suggested similar suppliers
 
 </td><td>
 
-This activity is triggered when an onboarding request originates from a [[sourcing-request|sourcing request]]. When a shopper selects an external supplier to fulfill a purchase request, an onboarding request is created automatically to onboard the external supplier.The AI suggested similar suppliers activity analyzes the sourcing request and suggests similar suppliers, eliminating the need to onboard a new supplier. You can select either of the following options to proceed:
+This activity is triggered when an onboarding request originates from a sourcing request. When a shopper selects an external supplier to fulfill a purchase request, an onboarding request is created automatically to onboard the external supplier.The AI suggested similar suppliers activity analyzes the sourcing request and suggests similar suppliers, eliminating the need to onboard a new supplier. You can select either of the following options to proceed:
 
 -   Cancel the current onboarding request by selecting the reject button.
 -   Continue with the current onboarding request by selecting the continue button.
@@ -126,9 +126,3 @@ Supplier contacts can auto-populate the bank name, account holder name, and acco
 
 [Supplier document strategy generator AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-document-strategy-generator-ai-agent.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-document-strategy-generator-ai-agent|Supplier document strategy generator AI agent]]
-- [[sourcing-request|Sourcing request]]

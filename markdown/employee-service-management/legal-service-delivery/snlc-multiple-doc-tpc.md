@@ -51,7 +51,7 @@ Action
 
 </td></tr><tr><td id="d255408e123">
 
-**[[employee-center-landing-page|Employee Center]]**
+**Employee Center**
 
 </td><td>
 
@@ -102,7 +102,7 @@ Drag files from your local computer into your browser window to attach them to t
 
 
 </td></tr></tbody>
-</table>    The attached files are listed with File name, Document type, and Actions in the Documents section The list of documents attached can be seen in the [[activity-lxp|activity]] stream of the request.
+</table>    The attached files are listed with File name, Document type, and Actions in the Documents section The list of documents attached can be seen in the activity stream of the request.
 
 3.  Classify the attached documents.
 
@@ -143,7 +143,3 @@ Only active contract types are displayed in the list.
 
 **Parent Topic:**[Create a legal request for a third-party contract review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-submit-request-tpc.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

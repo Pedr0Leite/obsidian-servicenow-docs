@@ -14,7 +14,7 @@ breadcrumb: [Operating ATF Test Generator and Cloud Runner, ATF Test Generator a
 
 # Tests generation for flow and flow logic
 
-Use the [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]] store application to auto-generate tests that drive a ServiceNow flow for [[service-catalog|Service Catalog]].
+Use the ATF Test Generator and Cloud Runner store application to auto-generate tests that drive a ServiceNow flow for Service Catalog.
 
 ## Service Catalog
 
@@ -47,7 +47,3 @@ Apart from Service Catalog, the following are the trigger types supported by ATF
 
 [Generating the tests]()
 
-## Related
-
-- [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]]
-- [[service-catalog|Service Catalog]]

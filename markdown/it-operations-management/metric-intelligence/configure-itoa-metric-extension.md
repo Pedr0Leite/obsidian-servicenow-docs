@@ -14,7 +14,7 @@ breadcrumb: [Configuring Metric Intelligence, Metric Intelligence, IT Operations
 
 # Manually configure the Metric Intelligence extension
 
-Configure the MID Server [[operational-metrics|Metric Intelligence]] extension to enable the MID Server to pull raw metrics from external systems, to detect anomalies and report anomalies to the instance along with raw data. This MID Server Metric Intelligence extension is required and must be running in order for your system to be able to collect Metric Intelligence data.
+Configure the MID Server Metric Intelligence extension to enable the MID Server to pull raw metrics from external systems, to detect anomalies and report anomalies to the instance along with raw data. This MID Server Metric Intelligence extension is required and must be running in order for your system to be able to collect Metric Intelligence data.
 
 ## Before you begin
 
@@ -132,6 +132,4 @@ Executing on
     |Test|The test is not relevant to Metric Intelligence. Parameters are not tested or validated when **Test** is run.|
     |Update parameters|Sends the latest saved parameters to the extension.|
 
-## Related
 
-- [[operational-metrics|Metric Intelligence]]

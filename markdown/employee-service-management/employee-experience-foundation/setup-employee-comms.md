@@ -16,7 +16,7 @@ breadcrumb: [Configuring Employee Center Pro, Employee Center Pro, Unified Emplo
 
 Inform and engage your employees.
 
-[[employee-center-pro-landing|Employee Center Pro]] provides a robust suite of features to create, publish, and manage [[eslate-employee-comms|employee communications]] in a variety of content types and delivery channels. Follow these steps to setup employee communications features:
+Employee Center Pro provides a robust suite of features to create, publish, and manage employee communications in a variety of content types and delivery channels. Follow these steps to setup employee communications features:
 
 1.  Make Content Publishing features available to content managers and employees: [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md).
 2.  Set up content translation \(optional\): [Configure Localization Framework for Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-int-localization-framework.md)
@@ -63,11 +63,11 @@ All employee communications
 
 </td><td>
 
-[[ec-create-content-template|Create a content template]] to enable content managers to create and publish higher volumes of news article content
+Create a content template to enable content managers to create and publish higher volumes of news article content
 
 </td><td>
 
-[[ec-news-articles|News articles]]
+News articles
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ All employee communications
 
 </td><td>
 
-Enable [[ec-content-engagement|Content engagement]] to provide users with a way to comment and react to news articles and for managers to measure the effectiveness of their content using engagement metrics.
+Enable Content engagement to provide users with a way to comment and react to news articles and for managers to measure the effectiveness of their content using engagement metrics.
 
 </td><td>
 
@@ -99,13 +99,13 @@ Microsites/Rich content
 
 </td><td>
 
-Configure the following [[ec-re-usable-components|reusable components]]:-   [[ecpro-audience|Audiences]] for targeting content to users who meet specific criteria.
--   Content destinations for [[ec-content-publish-news-articles|publishing news articles]].
+Configure the following reusable components:-   Audiences for targeting content to users who meet specific criteria.
+-   Content destinations for publishing news articles.
 -   Content categories to organize news articles.
 
 </td><td>
 
-Microsites/Rich content, News articles and [[ec-streamline-content|Portal content]]
+Microsites/Rich content, News articles and Portal content
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -121,14 +121,3 @@ Microsites/Rich content, News articles and [[ec-streamline-content|Portal conten
 
 [Creating campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[eslate-employee-comms|Employee communications]]
-- [[ec-create-content-template|Create a Content template]]
-- [[ec-news-articles|News articles]]
-- [[ec-content-engagement|Content engagement]]
-- [[ec-re-usable-components|Reusable components]]
-- [[ecpro-audience|Audiences]]
-- [[ec-content-publish-news-articles|Publishing news articles]]
-- [[ec-streamline-content|Portal content]]

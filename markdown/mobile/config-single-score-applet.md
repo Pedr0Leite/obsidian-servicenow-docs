@@ -12,7 +12,7 @@ breadcrumb: [Chart screen, Mobile screen types, Mobile screens, Mobile app compo
 
 # Create a chart screen for a data visualization
 
-Configure a [[chart-screen|chart screen]] to give your users access to pre-configured mobile dashboard views for several types of data visualizations.
+Configure a chart screen to give your users access to pre-configured mobile dashboard views for several types of data visualizations.
 
 ## Before you begin
 
@@ -20,21 +20,21 @@ Role required: admin or delegated developer
 
 You must have an existing data visualization to display on your screen. If you haven’t yet configured a data visualization, see the following documentation topics: [Platform Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md) and [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
-In addition, you also need a mobile analytics preview contained within a [[mobile-dashboard-preview|mobile dashboard preview]]. For more information, see [[sg-mobile-dashboard-preview|Create a mobile analytics preview]].
+In addition, you also need a mobile analytics preview contained within a mobile dashboard preview. For more information, see [Create a mobile analytics preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-dashboard-preview.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
-4.  Select the **Chart** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+4.  Select the **Chart** option in the Create a screen page, and then select **Continue**.
 
 5.  Complete the following fields as needed.
 
@@ -162,14 +162,5 @@ Determine which user roles can access this screen. If you don’t select any rol
 
 ## What to do next
 
-Configure a navigation function to direct your users from an analytics preview to your chart screen. For details on this process, see [[config-chart-nav|Create a navigation function to a chart screen]].
+Configure a navigation function to direct your users from an analytics preview to your chart screen. For details on this process, see [Create a navigation function to a chart screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-chart-nav.md).
 
-## Related
-
-- [[sg-mobile-dashboard-preview|Create a mobile analytics preview]]
-- [[config-chart-nav|Create a navigation function to a chart screen]]
-- [[chart-screen|Chart screen]]
-- [[mobile-dashboard-preview|Mobile dashboard preview]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]

@@ -22,7 +22,7 @@ Role required: sn\_imt\_monitoring.monitoring\_admin
 
 ## Procedure
 
--   Navigate to **[[employee-health-screening|Employee Health Screening]]** &gt; **Overview**.
+-   Navigate to **Employee Health Screening** &gt; **Overview**.
 
     The Employee Health Screen Overview dashboard opens in a new browser tab.
 
@@ -33,6 +33,3 @@ Role required: sn\_imt\_monitoring.monitoring\_admin
 
 **Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md)
 
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]

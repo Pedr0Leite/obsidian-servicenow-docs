@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Pause or resume work order task tracking on a mobile device
 
-Record a break from a work order task through the [[wot-fsc|Field Service Contractor for mobile]] if you are unable to continue the work for any reason.
+Record a break from a work order task through the Field Service Contractor for mobile if you are unable to continue the work for any reason.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: wm\_ext\_agent
 
 6.  Tap **Resume Work** when you are ready to work on the work order task again.
 
-## Related
 
-- [[wot-fsc|Field Service Contractor for mobile]]

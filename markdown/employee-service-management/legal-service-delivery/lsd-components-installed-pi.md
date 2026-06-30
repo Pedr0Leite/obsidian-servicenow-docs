@@ -14,7 +14,7 @@ breadcrumb: [Reference, Predictive intelligence for Legal Service Delivery, Inte
 
 # Components installed with Predictive Intelligence for Legal Service Delivery
 
-Several types of components are installed with activation of the [[lsd-predictive-intelligence-landing|Predictive Intelligence for Legal Service Delivery]] application, including user roles.
+Several types of components are installed with activation of the Predictive Intelligence for Legal Service Delivery application, including user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -67,6 +67,3 @@ Stores information related to use cases for the solution definitions.
 </td></tr></tbody>
 </table>**Parent Topic:**[Predictive Intelligence for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-reference-landing.md)
 
-## Related
-
-- [[lsd-predictive-intelligence-landing|Predictive intelligence for Legal Service Delivery]]

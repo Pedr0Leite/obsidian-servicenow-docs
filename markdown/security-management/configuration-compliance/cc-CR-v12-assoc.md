@@ -14,7 +14,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 # Associate a remediation task to an existing change request
 
-Associate a remediation task in [[vr-config-compliance-landing|Configuration Compliance]] application to an existing change request.
+Associate a remediation task in Configuration Compliance application to an existing change request.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ You can associate remediation tasks that are assigned to you or your assignment 
 
     For more information, see [State synchronization between change requests and remediation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-cr-state-synch.md).
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

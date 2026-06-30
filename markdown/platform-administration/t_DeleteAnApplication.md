@@ -16,7 +16,7 @@ As an administrator, you can delete custom applications that are no longer neede
 
 ## Before you begin
 
--   To ensure that you can reinstall the application later, first publish a backup of your application to the ServiceNow application repository, [[servicenow-store|ServiceNow Store]], or an update set. See [Application sharing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_SharingApplications.md).
+-   To ensure that you can reinstall the application later, first publish a backup of your application to the ServiceNow application repository, ServiceNow Store, or an update set. See [Application sharing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_SharingApplications.md).
 
 Role required: admin
 
@@ -53,12 +53,7 @@ This process ensures that the system can support any published applications. Whe
 
 Unless the application extends other applications, or files are still associated with the application, the system deletes the application.
 
-**Note:** If an application is linked to Source Control \(that is, the Git repository\), you must also delete the Git configuration record for an application in the Repository [[clone-configurations-tab|Configurations]] \(sys\_repo\_config\) table. Without deleting this record, the application can't be reimported from Source Control on this instance.
+**Note:** If an application is linked to Source Control \(that is, the Git repository\), you must also delete the Git configuration record for an application in the Repository Configurations \(sys\_repo\_config\) table. Without deleting this record, the application can't be reimported from Source Control on this instance.
 
-**Parent Topic:**[[c_RemovingApplications|Rolling back and removing applications]]
+**Parent Topic:**[Rolling back and removing applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_RemovingApplications.md)
 
-## Related
-
-- [[c_RemovingApplications|Rolling back and removing applications]]
-- [[servicenow-store|ServiceNow Store]]
-- [[clone-configurations-tab|Configurations]]

@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management process flow, Exploring Certif
 
 # Pre-discovery phase
 
-The pre-discovery phase involves preparatory steps, such as defining scanning parameters and configuring credential details, to ensure a smooth initiation of the certificate [[r-discovery|discovery]] process.
+The pre-discovery phase involves preparatory steps, such as defining scanning parameters and configuring credential details, to ensure a smooth initiation of the certificate discovery process.
 
 ## Discovery via Ports
 
@@ -29,7 +29,7 @@ The following fields are pulled from the XML payload and verified in java code f
 
 ## Discovery via URL
 
-The Certificate URL \[sn\_disco\_certmgmt\_cert\_url\] table holds a list of URLs to target for certificate discovery. Each record also has an optional reference to the Unique Certificate \[cmdb\_ci\_certificate\] table, to see what certificate is related to the given URL definition. The necessary parameters from the Discovery Schedule are combined to create and initialize the [[c_DiscoveryStatus|Discovery status]]. The \[CertificateDiscoveryFromURLScan\] probe discovers the certificate chain for each of the URLs in the batch and outputs an XML payload that contains the certificate chain for each certificate. It also adds a new record into the Discovered Certificate \[sn\_disco\_certmgmt\_certificate\_history\] table.
+The Certificate URL \[sn\_disco\_certmgmt\_cert\_url\] table holds a list of URLs to target for certificate discovery. Each record also has an optional reference to the Unique Certificate \[cmdb\_ci\_certificate\] table, to see what certificate is related to the given URL definition. The necessary parameters from the Discovery Schedule are combined to create and initialize the Discovery status. The \[CertificateDiscoveryFromURLScan\] probe discovers the certificate chain for each of the URLs in the batch and outputs an XML payload that contains the certificate chain for each certificate. It also adds a new record into the Discovered Certificate \[sn\_disco\_certmgmt\_certificate\_history\] table.
 
 ## Discovery via Import Certificates \(Version 1.1.7 Certificate Inventory and Management\)
 
@@ -44,7 +44,7 @@ The Import certificates are discovered through the Import SSL Certificate patter
 
 ## Discovery via CA authority \(Version 1.1.7 Certificate Inventory and Management\)
 
-Once the [[cert-inventory-mgmt|Certificate Inventory and Management]] credential is set up with either GoDaddy, DigiCert, Entrust, or Sectigo Certificate Authority and the Discovery schedule runs, the specific CA pattern makes REST API calls to \(GoDaddy, DigiCert, Entrust, or Sectigo\), collects certificate information, retrieves the list of certificates, and stores it in the \[cmdb\_ci\_certificate\], \[certificate\_domain\], and \[sys\_attachment\] tables.
+Once the Certificate Inventory and Management credential is set up with either GoDaddy, DigiCert, Entrust, or Sectigo Certificate Authority and the Discovery schedule runs, the specific CA pattern makes REST API calls to \(GoDaddy, DigiCert, Entrust, or Sectigo\), collects certificate information, retrieves the list of certificates, and stores it in the \[cmdb\_ci\_certificate\], \[certificate\_domain\], and \[sys\_attachment\] tables.
 
 ca\_api\_url and ca\_api\_version are optional parameters. If these parameters are left empty inside pattern parameters, default values will be used. The default values include:
 
@@ -112,8 +112,3 @@ Entrust
 
 Once the pre-discovery phase is completed, move on to the [post-discovery phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-process-post-discovery.md).
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

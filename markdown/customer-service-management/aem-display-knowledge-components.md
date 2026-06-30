@@ -65,7 +65,7 @@ Knowledge Bases
 
 System identifier \(sys\_id\) of a knowledge base that contains associated knowledge articles. Click **Add field** and enter the sys\_id of a knowledge base. You can add multiple entries.
 
- **Note:** If you don't add a value, knowledge bases from the OSGi configuration settings are used for [[servicenow-web-components-overview|ServiceNow components]].
+ **Note:** If you don't add a value, knowledge bases from the OSGi configuration settings are used for ServiceNow components.
 
 </td></tr><tr><td id="component-lan">
 
@@ -373,7 +373,3 @@ Custom CSS class for applying custom styles to this component. For more informat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]

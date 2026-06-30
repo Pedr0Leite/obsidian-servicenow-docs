@@ -19,12 +19,8 @@ Schedule automatic cache downloads at defined intervals, to keep offline data cu
 -   Downloads data automatically at defined intervals, such as once a day at midnight.
 -   Verifies that devices have current data without requiring user action.
 
--   **[[scheduled-offline-caching|Configure scheduled offline caching]]**  
+-   **[Configure scheduled offline caching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/scheduled-offline-caching.md)**  
 Configure offline caching so your field technicians can receive scheduled updates to their offline data cache. Scheduled downloads are based on the user's work schedule.
 
-**Parent Topic:**[[offline-cache|Configure offline cache downloads to user devices]]
+**Parent Topic:**[Configure offline cache downloads to user devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-cache.md)
 
-## Related
-
-- [[scheduled-offline-caching|Configure scheduled offline caching]]
-- [[offline-cache|Configure offline cache downloads to user devices]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and
 
 # Automate supplier case creation from emails
 
-Emails received from [[supplier|supplier]] contacts can be automatically converted to supplier cases using the Email Intent to Action Agentic workflow.
+Emails received from supplier contacts can be automatically converted to supplier cases using the Email Intent to Action Agentic workflow.
 
 The Email Intent to Action Agentic workflow analyzes incoming supplier emails, identifies the email intent, and executes associated actions using the Intent Identification and Intent Executor agents. For more information on the Email Intent to Action Agentic workflow, see [Email Intent to Action Agentic Workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-agentic-workflow.md).
 
@@ -28,13 +28,13 @@ To use this functionality, verify that the following steps are completed:
 
 ## Automatic creation of supplier cases workflow
 
-1.  When an email arrives in a supplier’s inbox, the sender details are verified. If the sender is not a registered [[supplier-contact|supplier contact]], an automated reply is sent for registration.
+1.  When an email arrives in a supplier’s inbox, the sender details are verified. If the sender is not a registered supplier contact, an automated reply is sent for registration.
 2.  If the sender is a registered supplier contact but is mapped to several suppliers, an automated reply is sent to request clarification.
 3.  The Intent Identification Agent analyzes the inbound email and identifies its intent. Once identified, this intent is mapped to a preconfigured and customized intent within the system. For more information, see [Create and associate actions for intent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-actions-for-intent.md).
 4.  The Intent Executor Agent creates cases based on the following criteria:
 
     -   If the email contains SLO related queries, a supplier case is created for each of the queries. The cases are assigned automatically to the supplier relationship manager.
-    -   If the email contains vague information or queries unrelated to SLO, a [[universal-request|universal request]] is created.
+    -   If the email contains vague information or queries unrelated to SLO, a universal request is created.
     -   If the email contains multiple queries, supplier cases are created to resolve SLO related queries and a single universal request is created for other queries.
 
 **Related topics**  
@@ -42,8 +42,3 @@ To use this functionality, verify that the following steps are completed:
 
 [Deactivate Create supplier case from email inbound action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/deactivate-create-supplier-case-from-email-inbound-action.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

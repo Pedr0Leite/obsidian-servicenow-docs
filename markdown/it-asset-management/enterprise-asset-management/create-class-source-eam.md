@@ -24,11 +24,11 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Asset operations**.
 
 2.  Select **Create sources** under Classifications and then select **New**.
 
-3.  On the Create New Enterprise [[classification-codes|model classification]] source page, enter a name of the source in the **Source** field.
+3.  On the Create New Enterprise model classification source page, enter a name of the source in the **Source** field.
 
 4.  Enter a description of the source in the **Description** field.
 
@@ -36,7 +36,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
     The source appears in the Create sources page.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[classification-codes|Model classification]]

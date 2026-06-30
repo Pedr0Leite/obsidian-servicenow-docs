@@ -14,7 +14,7 @@ breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Se
 
 # Domain separation and Contract Management Pro
 
-Domain separation is supported for [[cncore-cmpro-landing-page|Contract Management Pro]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Contract Management Pro. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -56,6 +56,3 @@ Contract templates, clauses, e-signature provider configurations, external stora
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

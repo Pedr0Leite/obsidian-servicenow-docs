@@ -15,7 +15,7 @@ breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Set up Advanced Risk assessments properties
 
-Enable Advanced [[risk-assessments|Risk Assessments]] \(ARA\) to confirm that risk‑based assessments and risk score roll‑up function correctly in the [[ai-risk-and-compliance|AI Risk and Compliance]] application.
+Enable Advanced Risk Assessments \(ARA\) to confirm that risk‑based assessments and risk score roll‑up function correctly in the AI Risk and Compliance application.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin
 
 ## About this task
 
-Advanced Risk Assessments \(ARA\) is a system-level configuration in AI Risk and Compliance that enables modern, risk-based assessment capabilities, including aggregated risk scoring across [[ai-assets-airc|AI assets]]. This setting determines whether the platform uses legacy risk calculations or the Advanced Risk Assessments framework, which is required for risk score roll-up and risk aggregation in dashboards. Enabling this property is a one-way action and should be planned carefully during initial setup.
+Advanced Risk Assessments \(ARA\) is a system-level configuration in AI Risk and Compliance that enables modern, risk-based assessment capabilities, including aggregated risk scoring across AI assets. This setting determines whether the platform uses legacy risk calculations or the Advanced Risk Assessments framework, which is required for risk score roll-up and risk aggregation in dashboards. Enabling this property is a one-way action and should be planned carefully during initial setup.
 
 **Important:**
 
@@ -38,7 +38,7 @@ To confirm risk-based assessments on AI assets and risk roll-up function correct
 When **Migrate to Advanced Risk Assessments** is set to **Yes**:
 
 -   Supports risk‑based assessments for AI assets.
--   Publish default [[airc-rams|Risk Assessment Methodologies]] \(RAMs\) and create and use custom RAMs.
+-   Publish default Risk Assessment Methodologies \(RAMs\) and create and use custom RAMs.
 -   Calculates aggregated risk scores by rolling up risk scores across AI assets.
 -   Includes aggregated risk scores on the Risk and Compliance dashboards.
 
@@ -47,7 +47,7 @@ When **Migrate to Advanced Risk Assessments** is set to **No**:
 -   Supports risk‑based assessments for AI assets.
 -   Risk score roll-up isn't supported for risk-based assessments on AI assets. As a result, rolled-up risk scores aren't displayed in the AI Risk and Compliance dashboards.
 
-For descriptions of all available [[advanced-risk-properties|Advanced Risk properties]], see [Advanced Risk properties reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-properties-ref.md).
+For descriptions of all available Advanced Risk properties, see [Advanced Risk properties reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-properties-ref.md).
 
 ## Procedure
 
@@ -67,10 +67,3 @@ For descriptions of all available [[advanced-risk-properties|Advanced Risk prope
 
 [Advanced Risk properties reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-properties-ref.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-assets-airc|AI assets]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[advanced-risk-properties|advanced risk properties]]

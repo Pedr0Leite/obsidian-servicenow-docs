@@ -63,12 +63,8 @@ For information on granular roles, see [Granular admin roles](https://raw.github
     If you delete your logo, the ServiceNow logo is used.
 
 
--   **[[tb-resize-logo|Resize a logo for your login screen]]**  
+-   **[Resize a logo for your login screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-resize-logo.md)**  
 After you have uploaded a logo for your login screen, you can resize the logo by creating and setting a system property.
 
-**Parent Topic:**[[working-with-global-styles|Working with Global styles]]
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-global-styles.md)
 
-## Related
-
-- [[tb-resize-logo|Resize a logo for your login screen]]
-- [[working-with-global-styles|Working with Global styles]]

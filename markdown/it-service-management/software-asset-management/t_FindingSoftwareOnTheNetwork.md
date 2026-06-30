@@ -14,7 +14,7 @@ breadcrumb: [Determine where software is installed using the legacy Software Ass
 
 # Find software on the network using the legacy Software Asset Management plugin
 
-After using a discovery tool, you can find a definitive list of all the software found on the network using the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+After using a discovery tool, you can find a definitive list of all the software found on the network using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sam
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software Asset** &gt; **Discovery** &gt; **Discovery [[c_Models|Models]]**.
+1.  Navigate to **All** &gt; **Software Asset** &gt; **Discovery** &gt; **Discovery Models**.
 
     A software administrator can, for example, look at the list and see that Adobe Acrobat 9.0, 9.2, 9.3, and 9.5 were found. Then, the administrator can edit software discovery models so all the dot versions are considered version 9.0 when doing reconciliation.
 
@@ -66,7 +66,3 @@ Role required: sam
 
 **Parent Topic:**[Determine where software is installed using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Models|Models]]

@@ -14,7 +14,7 @@ breadcrumb: [Incident Management plugins, Reference, Incident Management, IT Ser
 
 # Request Incident Management — Core
 
-[[c_IncidentManagement|Incident Management]] - Core plugin \(com.snc.incident\_management\) is a new incident state model that includes demo data and activates related plugins if they are not already active.
+Incident Management - Core plugin \(com.snc.incident\_management\) is a new incident state model that includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Incident Management - Core \(com.snc.incident\_management\) is available by defa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -83,7 +83,3 @@ Select the date and time to activate the plugin.
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]

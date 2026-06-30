@@ -14,7 +14,7 @@ breadcrumb: [Setup task management, Configuring Employee Center, Employee Center
 
 # Employee profile
 
-A unified [[emp-slate-employee-profile|employee profile]] provides the employee information and offers extensibility for BUs.
+A unified employee profile provides the employee information and offers extensibility for BUs.
 
 Download the latest version from ServiceNow Store to access the work-related employee profile without navigating to multiple systems. Configuration-driven profile design to introduce fields, actions, and widgets related to work-related information.
 
@@ -39,7 +39,7 @@ You can have a comprehensive view of the employee information to drive business 
 
 ## Configure employee profile
 
-As an admin, you can [[generate-profile-definition|create an active employee definition]] and configure the profile components. Manage updates to the employee profile from a central location. See [Configure the Employee Profile overview widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-employee-profile-widget.md).
+As an admin, you can create an active employee definition and configure the profile components. Manage updates to the employee profile from a central location. See [Configure the Employee Profile overview widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-employee-profile-widget.md).
 
 **Note:** Actions that require the **admin** role, can also be performed with the **sn\_employee.admin** role.
 
@@ -47,7 +47,3 @@ As an admin, you can [[generate-profile-definition|create an active employee def
 
 As an employee, you can view, edit, and update the privacy preferences profile. See [View employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/update-employee-profile.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[generate-profile-definition|Create an active employee definition]]

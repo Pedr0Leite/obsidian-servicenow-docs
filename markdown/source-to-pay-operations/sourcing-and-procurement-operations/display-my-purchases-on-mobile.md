@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub Mobile, Use, Sourcing and Procurement Operations
 
 # Display My Purchases on your mobile instance
 
-As a [[shopping-hub-overview|Shopping Hub]] Administrator, you can configure your mobile instance to display My Purchases on your landing page. This is a one-time activity.
+As a Shopping Hub Administrator, you can configure your mobile instance to display My Purchases on your landing page. This is a one-time activity.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ You can perform this activity only from your desktop.
 
 [View and revise your purchase from your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/view-revise-purchase-mobile.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

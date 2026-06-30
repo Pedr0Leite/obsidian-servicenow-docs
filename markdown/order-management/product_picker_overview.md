@@ -12,9 +12,9 @@ breadcrumb: [The CPQ Configurator, CPQ, Configure, price, quote, Explore, Sales 
 
 # Product pickers
 
-Learn how to create and configure product pickers to add products to a bill of materials \(BOM\) without writing [[rules_101|rules]]. Define product options, subfields, aggregates, and display settings to enhance user interactions, automate data mapping, and present product information directly in [[layouts|layouts]].
+Learn how to create and configure product pickers to add products to a bill of materials \(BOM\) without writing rules. Define product options, subfields, aggregates, and display settings to enhance user interactions, automate data mapping, and present product information directly in layouts.
 
-A product picker is similar to a picklist with extended data. product pickers can add products to a bill of materials and map additional data to product list [[fields|fields]], including extended data, without writing standard rules. Bulk actions provide additional, table based rules that can be used with the product picker Field.
+A product picker is similar to a picklist with extended data. product pickers can add products to a bill of materials and map additional data to product list fields, including extended data, without writing standard rules. Bulk actions provide additional, table based rules that can be used with the product picker Field.
 
 ## Creating a new product picker
 
@@ -85,7 +85,7 @@ Additional subfields can be created and optionally configured to pass additional
 
 ## Aggregates
 
-Aggregates can be created on product pickers, similar to how set aggregates work. For information about set aggregates, see [[creating_set_aggregates|Creating set aggregates]].
+Aggregates can be created on product pickers, similar to how set aggregates work. For information about set aggregates, see [Creating set aggregates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating_set_aggregates.md).
 
 ## Setup
 
@@ -174,7 +174,7 @@ This table shows scenarios where the user changes Quantity and Logik changes Sel
 
 ## Product Pickers in layouts
 
-Product Pickers can be added and edited in Layouts both through the [[layout_wizard|Layout Wizard]] and through the Layout CSV. Four basic display types are supported:
+Product Pickers can be added and edited in Layouts both through the Layout Wizard and through the Layout CSV. Four basic display types are supported:
 
 -   VisualProductPicker: Tile based display, Single-select
 -   MultiSelectVisualProductPicker: Tile based display, multiselect
@@ -194,22 +194,12 @@ From the Fields page in the CPQ Admin, select a product picker to export and a Z
 -   Product Picker definition and bulk actions
 -   Bulk Action data, each in a CSV file
 
-A ZIP file containing a product picker can be imported through the [[matrix_loader_table_of_contents|Matrix Loader]].
+A ZIP file containing a product picker can be imported through the Matrix Loader.
 
 **Related topics**  
 
 
-[[product_picker_bulk_actions|Product picker bulk actions]]
+[Product picker bulk actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product_picker_bulk_actions.md)
 
-[[enrichments_how_to_reference_a_product_picker|Referencing a product picker]]
+[Referencing a product picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments_how_to_reference_a_product_picker.md)
 
-## Related
-
-- [[creating_set_aggregates|Creating set aggregates]]
-- [[product_picker_bulk_actions|Product picker bulk actions]]
-- [[enrichments_how_to_reference_a_product_picker|Referencing a product picker]]
-- [[rules_101|Rules]]
-- [[layouts|Layouts]]
-- [[fields|Fields]]
-- [[layout_wizard|Layout Wizard]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]

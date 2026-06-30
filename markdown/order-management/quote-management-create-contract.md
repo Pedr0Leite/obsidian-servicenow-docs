@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Initiate a contract request
 
-Initiate a contract request from the [[quote-management|Quote Management]] application.
+Initiate a contract request from the Quote Management application.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can create a legal sales contract to finalize a deal and formalist the agree
 
 4.  Select the **More Actions**\[Omitted image "more-options.png"\] Alt text: menu and select **Initiate contract**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
 <table><thead><tr><th>
 
@@ -90,10 +90,5 @@ Date that the contract ends.**Note:** The End date must be later than the Start 
     A contract management request is generated in the Contract documents tab. Select the record to view the document.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]
-- [[fields|Fields]]

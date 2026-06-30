@@ -14,11 +14,11 @@ breadcrumb: [Using SLO Management, Service Level Objective Management, ITOM AIOp
 
 # Create SLOs, SLIs, and error budget policies
 
-Define service level objectives \(SLOs\), service level indicators \(SLIs\), and error budget policies to [[t_EMViewDashboard|monitor service health]]. These tools help you and your teams track performance and respond when needed.
+Define service level objectives \(SLOs\), service level indicators \(SLIs\), and error budget policies to monitor service health. These tools help you and your teams track performance and respond when needed.
 
 ## Before you begin
 
-To send notifications when an error budget policy is breached, your team must have a notification destination configured. You can check by navigating to **Teams** &gt; **\[Your team\]** &gt; **SLO Notification destinations** in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create a notification destination in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/create-notification-destination.md).
+To send notifications when an error budget policy is breached, your team must have a notification destination configured. You can check by navigating to **Teams** &gt; **\[Your team\]** &gt; **SLO Notification destinations** in Service Operations Workspace. For more information, see [Create a notification destination in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/create-notification-destination.md).
 
 **Note:** By default, the outage data source for SLIs includes unplanned and degradation outages. Administrators can include planned outages by adding `planned` to the `sn_sow_slo.outage_supported_types` system property value.
 
@@ -28,11 +28,11 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 Create SLOs, SLIs, and error budget policies to monitor service health and help make sure that your services support business goals.
 
-In [[sr-landing-page|Service Reliability Management]] \(SRM\), an SLO must have at least one SLI. SLIs can be filtered to a service or configuration item \(CI\) within the parent service hierarchy. Filtering an SLI to a CI can help you more accurately track service health and identify root causes faster.
+In Service Reliability Management \(SRM\), an SLO must have at least one SLI. SLIs can be filtered to a service or configuration item \(CI\) within the parent service hierarchy. Filtering an SLI to a CI can help you more accurately track service health and identify root causes faster.
 
 Each SLI can be associated with only one SLO, helping prevent conflicting performance expectations.
 
-**Note:** SLOs can also be generated automatically using the [[now-assist-itom-slo-generation|SLO creator agent]]. For details, see [SLO creator agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/now-assist-itom-slo-generation.md).
+**Note:** SLOs can also be generated automatically using the SLO creator agent. For details, see [SLO creator agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/now-assist-itom-slo-generation.md).
 
 ## Procedure
 
@@ -97,9 +97,3 @@ See the following to learn how to monitor and manage your SLOs:
 
 **Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/using-service-level-objective-management.md)
 
-## Related
-
-- [[t_EMViewDashboard|Monitor service health]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[now-assist-itom-slo-generation|SLO creator agent]]

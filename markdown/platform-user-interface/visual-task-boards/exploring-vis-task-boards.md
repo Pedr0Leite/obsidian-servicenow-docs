@@ -14,7 +14,7 @@ breadcrumb: [Visual Task Boards, Configure UIs and portals, Configure user exper
 
 # Exploring Visual Task Boards
 
-[[c_VisualTaskBoards|Visual Task Boards]] provide a visual representation of the work that needs to be done, allowing team members to easily collaborate, track and prioritize tasks. You can use Visual Task Boards in a variety of contexts, including project management, personal or team task management, and employee onboarding.
+Visual Task Boards provide a visual representation of the work that needs to be done, allowing team members to easily collaborate, track and prioritize tasks. You can use Visual Task Boards in a variety of contexts, including project management, personal or team task management, and employee onboarding.
 
 ## Visual Task Boards overview
 
@@ -56,7 +56,7 @@ View and share board details or in a list. Add as favourite, share or create a c
 
 </td></tr><tr><td>
 
-Customize and [[configure-onboarding-modals|configure]] Visual Task Boards.
+Customize and configure Visual Task Boards.
 
 </td><td>
 
@@ -64,7 +64,7 @@ Customize and [[configure-onboarding-modals|configure]] Visual Task Boards.
 
 </td></tr><tr><td>
 
-You can edit card details, add [[attachments-configurable-workspace|attachments]], configure card view and card limit, label, assign, archive and move cards.
+You can edit card details, add attachments, configure card view and card limit, label, assign, archive and move cards.
 
 </td><td>
 
@@ -90,11 +90,5 @@ SLA \(service-level agreement\) indicators alert board members if any cards on t
 -   **[Visual Task Board accessibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/accessibility-vtb.md)**  
 Accessibility improvements in Visual Task Boards include skip links and the ability to view card details.
 
-**Parent Topic:**[[configure-uis-and-portals|Configure UIs and portals]]
+**Parent Topic:**[Configure UIs and portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-uis-and-portals.md)
 
-## Related
-
-- [[configure-uis-and-portals|Configure UIs and portals]]
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[configure-onboarding-modals|Configure]]
-- [[attachments-configurable-workspace|Attachments]]

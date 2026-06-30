@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the **[[dex-workspace-devices-tab|Devices]]** icon\(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\) from the primary navigation pane.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the **Devices** icon\(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\) from the primary navigation pane.
 
 2.  Select a device from the list.
 
@@ -42,6 +42,4 @@ Role required: admin
     -   Live application hops: List of hops between the user's device and an application server that can help you identify and fix network bottlenecks.
     For more details, see [Network experience pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/network-experience-pages.md).
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]

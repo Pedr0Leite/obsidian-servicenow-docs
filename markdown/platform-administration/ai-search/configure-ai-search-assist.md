@@ -14,7 +14,7 @@ breadcrumb: [AI Search record producer for Service Portal, Integrate, AI Search,
 
 # Configure AI Search Assist for a record producer
 
-Configure [[ia-ai-search|AI Search]] Assist settings for a record producer to help users view related Catalog Item and knowledge article search [[hs-results|results]].
+Configure AI Search Assist settings for a record producer to help users view related Catalog Item and knowledge article search results.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: aisa\_admin or admin
 
 AI Search Assist is a Service Portal widget that displays relevant Catalog Item and knowledge article search results within a record producer configuration.
 
-**Note:** If both AI Search Assist and [[c_ContextualSearch|Contextual Search]] are configured for the same record producer, see **Results** at the end of this task for how to control which one is displayed.
+**Note:** If both AI Search Assist and Contextual Search are configured for the same record producer, see **Results** at the end of this task for how to control which one is displayed.
 
 ## Procedure
 
@@ -34,9 +34,9 @@ AI Search Assist is a Service Portal widget that displays relevant Catalog Item 
 
 3.  On the **Search application information** tab, select a Search application configuration.
 
-    You can choose from a list of pre-defined [[clone-configurations-tab|configurations]] for specific features. For example, **\[AI Search Assist\] - Incident Deflection**.
+    You can choose from a list of pre-defined configurations for specific features. For example, **\[AI Search Assist\] - Incident Deflection**.
 
-    \[Omitted image "search-application-configurations.png"\] Alt text: [[defining-search-app-cfgs-ais|Search Application Configurations]].
+    \[Omitted image "search-application-configurations.png"\] Alt text: Search Application Configurations.
 
 4.  On the **Record producer information** tab, select a Record producer and Search variable.
 
@@ -68,10 +68,3 @@ If these conditions aren't all met, then Contextual Search is the fallback for t
 
 **Parent Topic:**[AI Search Assist record producer integration for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/ai-search-assist.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]
-- [[clone-configurations-tab|Configurations]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

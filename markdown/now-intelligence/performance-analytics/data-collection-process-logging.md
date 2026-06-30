@@ -35,10 +35,7 @@ Starting with the Tokyo release, a new, optimized data collector is available. T
 -   **[Log details for classic data collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/original-data-collection-process.md)**  
 Performance Analytics score collection follows the process described here. To aid troubleshooting, a mapping between job steps and log entries is provided.
 -   **[View data collection usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/view-data-collection-usage-statistics.md)**  
-To view statistics about data collection jobs, click **Data Collection Overview** in the Usage tile on the [[pa-admin-console|Performance Analytics Admin Console]].
+To view statistics about data collection jobs, click **Data Collection Overview** in the Usage tile on the Performance Analytics Admin Console.
 
 **Parent Topic:**[Configure Performance Analytics advanced features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PADataArchitecture.md)
 
-## Related
-
-- [[pa-admin-console|Performance Analytics Admin Console]]

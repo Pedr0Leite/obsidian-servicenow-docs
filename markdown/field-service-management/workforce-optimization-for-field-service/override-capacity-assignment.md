@@ -14,7 +14,7 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Create a capacity assignment override
 
-Override the default [[capacity|capacity]] assignment rules to accommodate changes in the plan within a capacity definition. This allows you to update existing capacity assignments for different time intervals, [[capacity-reservations|capacity reservation rules]], and recurring patterns without creating a new capacity definition.
+Override the default capacity assignment rules to accommodate changes in the plan within a capacity definition. This allows you to update existing capacity assignments for different time intervals, capacity reservation rules, and recurring patterns without creating a new capacity definition.
 
 ## Before you begin
 
@@ -143,7 +143,3 @@ Determines the sequence to pick. The highest ranked override record of the given
 
 The capacity assignment override record is created and applied to the selected capacity definition or buckets of selected capacity definition.
 
-## Related
-
-- [[capacity|Capacity]]
-- [[capacity-reservations|Capacity reservation rules]]

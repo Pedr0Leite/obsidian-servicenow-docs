@@ -19,7 +19,7 @@ Track instances where users could have benefited from generated resolution steps
 
 Missed automation opportunities occur when users working on incidents that could have benefited from existing LEAP automation artifacts that aren't available.
 
-LEAP automatically logs missed opportunities when there are no artifacts recommended in [[workspace-dashboard-use|Service Operations Workspace]]. These artifacts include resolution steps, knowledge base articles, and playbooks that could have assisted with faster incident resolution. The system helps administrators identify these gaps in automation coverage and prioritize them for future improvements.
+LEAP automatically logs missed opportunities when there are no artifacts recommended in Service Operations Workspace. These artifacts include resolution steps, knowledge base articles, and playbooks that could have assisted with faster incident resolution. The system helps administrators identify these gaps in automation coverage and prioritize them for future improvements.
 
 ## How missed opportunities are tracked
 
@@ -52,7 +52,7 @@ LEAP tracks several types of missed automation opportunities:
 
 The LEAP homepage displays the missed automation opportunities card.
 
-Select the number on the missed opportunities card to filter and view only the [[automation-opportunities|automation opportunities]] that missed automation. On the details page for each automation opportunity, you can see how many times an artifact was not available when it could have assisted with incident resolution.
+Select the number on the missed opportunities card to filter and view only the automation opportunities that missed automation. On the details page for each automation opportunity, you can see how many times an artifact was not available when it could have assisted with incident resolution.
 
 \[Omitted image "missed-automation-opportunity.png"\] Alt text: Missed opportunity in automation opportunity details page
 
@@ -70,7 +70,3 @@ Tracking missed automation opportunities provides valuable insights for continuo
 -   Enables measurement of automation program effectiveness and ROI
 -   Supports strategic planning for future automation initiatives
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[automation-opportunities|Automation opportunities]]

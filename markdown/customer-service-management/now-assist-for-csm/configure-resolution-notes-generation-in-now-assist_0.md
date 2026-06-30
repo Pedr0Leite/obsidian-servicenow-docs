@@ -97,7 +97,7 @@ Input fields
 
 8.  Select **Display** to determine where the resolution notes appear.
 
-    -   Select In-product desktop to display Now Assist skills on [[migration-forms|forms]] and workspaces.
+    -   Select In-product desktop to display Now Assist skills on forms and workspaces.
     -   Select Now Assist panel to display Now Assist skills in the Now Assist panel.
 9.  After selecting **Review and Activate** to examine changes, select **Done** to close the Resolution Notes Generation settings.
 
@@ -113,6 +113,3 @@ Input fields
 
 [Generate the resolution notes for a case by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-generate-resolution.md)
 
-## Related
-
-- [[migration-forms|Forms]]

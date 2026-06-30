@@ -29,7 +29,7 @@ These fields and columns are instrumental in calculating the time for plans:
 -   If new ad-hoc tasks are initiated, the Total effort, Total time taken, and Status columns are reset.
 -   Once all tasks in a plan are completed, the Total Effort, Total Time Taken, and Status columns are updated to reflect that the plan is Closed complete.
 -   If no tasks are listed in the plan, the Actual start date time and Actual end date time should be manually adjusted.
--   Confirm to check the boxes for the mandatory **Start Date Time** and **End Date Time** fields in the [[list-view-uib-ws|list view]] when the tasks are marked as Closed.
+-   Confirm to check the boxes for the mandatory **Start Date Time** and **End Date Time** fields in the list view when the tasks are marked as Closed.
 
 
 These fields and columns are used to calculate time for the assets:
@@ -44,7 +44,7 @@ These fields and columns are used to calculate time for the assets:
 
 -   **Enhanced event asset management**
 
-    BCM version 9.x.x introduces a significant improvement in event asset management by establishing a direct link between event assets and their corresponding [[bia-uib|Business Impact Analysis]] \(BIA\) records. This integration enables the system to automatically import Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\) values from the BIA into recovery events. As a result, continuity managers can now directly compare actual recovery times with target recovery times, gaining a transparent and reliable metric to evaluate recovery performance and assess organizational resilience maturity.
+    BCM version 9.x.x introduces a significant improvement in event asset management by establishing a direct link between event assets and their corresponding Business Impact Analysis \(BIA\) records. This integration enables the system to automatically import Recovery Time Objective \(RTO\) and Recovery Point Objective \(RPO\) values from the BIA into recovery events. As a result, continuity managers can now directly compare actual recovery times with target recovery times, gaining a transparent and reliable metric to evaluate recovery performance and assess organizational resilience maturity.
 
     This enhancement streamlines the process of assessing recovery performance, allowing organizations to make more informed decisions about their business continuity strategies. By providing a clear and accurate measure of how well recovery operations align with predefined objectives, BCM 9.x.x helps organizations refine their resilience capabilities.
 
@@ -77,10 +77,5 @@ These improvements provide several benefits:
 
 By providing more detailed and accurate tracking of recovery efforts, these updates enable organizations to better manage their recovery processes and improve their overall resilience.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[list-view-uib-ws|List view]]
-- [[bia-uib|Business impact analysis]]

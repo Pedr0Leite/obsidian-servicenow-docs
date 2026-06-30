@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Log Anomaly Detection** &gt; **Lexical Keywords**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Log Anomaly Detection** &gt; **Lexical Keywords**.
 
     The Lexical Keywords table appears. By default, the table lists only global keywords.
 
@@ -30,6 +30,4 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
     To add a specified keyword that is associated with a specific source type, see [Configure source type capabilities in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-source-types.md).
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]

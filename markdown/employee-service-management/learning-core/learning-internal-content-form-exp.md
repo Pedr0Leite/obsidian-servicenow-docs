@@ -14,7 +14,7 @@ breadcrumb: [Learning reference, Learning, Growth Experiences, HR Service Delive
 
 # Learning internal content form
 
-Use the Learning internal content form to create internal [[exploring-learning-exp|Learning]] courses so that employees can learn new content and enhance their skills set.
+Use the Learning internal content form to create internal Learning courses so that employees can learn new content and enhance their skills set.
 
 <table id="table_gcc_fth_x4b"><thead><tr><th>
 
@@ -237,6 +237,3 @@ Date until when the internal content is valid.
 
 [Collection form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

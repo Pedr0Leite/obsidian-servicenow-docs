@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Maximize reset password request retry window duration
 
-The **password\_reset.[[c_requestAPI|request]].retry\_window** property controls the number of minutes before the count for [[c_SelfServicePasswordReset|password reset]] attempts refreshes.
+The **password\_reset.request.retry\_window** property controls the number of minutes before the count for password reset attempts refreshes.
 
 The **password\_reset.request.retry\_window** system property specifies the length of time before the count for password reset attempts refreshes.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,9 +117,3 @@ None
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

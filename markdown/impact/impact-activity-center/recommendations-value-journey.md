@@ -20,7 +20,7 @@ View AI driven and expert suggested recommendations for training, content, and e
 
 -   Rule-based recommendations:
     -   A framework that gives Business users a control over configuring and enriching recommendations, including the ability to define their scope.
-    -   Create new recommendation types using existing data within [[impact-landing-page|Impact]] at a predefined frequency as well improve the quality of existing recommendations​.
+    -   Create new recommendation types using existing data within Impact at a predefined frequency as well improve the quality of existing recommendations​.
 -   Content recommendations:
     -   View Now Create content that is popular among similar users on the Impact Homepage.​
     -   Provide feedback on the recommended content.​
@@ -29,6 +29,3 @@ Filter for specific recommendations and publish contextual recommendations or cl
 
 **Parent Topic:**[Activity Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/impact-activity-center.md)
 
-## Related
-
-- [[impact-landing-page|Impact]]

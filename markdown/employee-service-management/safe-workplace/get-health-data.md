@@ -14,7 +14,7 @@ breadcrumb: [Integrating with Safe Workplace suite, Safe Workplace, Health and S
 
 # Subscribe to request for entry updates
 
-Send the result of each [[employee-health-screening|Employee Health Screening]] entry request to a third-party system by configuring a webhook.
+Send the result of each Employee Health Screening entry request to a third-party system by configuring a webhook.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: sn\_imt\_core.admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Outbound Webhooks**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Outbound Webhooks**.
 
 2.  In the Webhook \[sn\_imt\_core\_webhook\] table, click **New**.
 
@@ -149,7 +149,7 @@ username
 
 </td><td>
 
-Username of the employee from the [[health-safety-overview|Health and Safety]] Users \[sn\_imt\_core\_health\_and\_safety\_user\] table.Data type: String
+Username of the employee from the Health and Safety Users \[sn\_imt\_core\_health\_and\_safety\_user\] table.Data type: String
 
 </td></tr><tr><td>
 
@@ -196,9 +196,3 @@ Date and time when the employee or visitor requested entry.Data type: Date/Time
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[health-safety-overview|Health and Safety]]

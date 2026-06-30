@@ -14,19 +14,19 @@ breadcrumb: [Configure, Health and Safety Incident Management, Health and Safety
 
 # Install Health and Safety Incident Management
 
-You can install the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application \(sn\_hs\_im\_incident\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Health and Safety Incident Management application \(sn\_hs\_im\_incident\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
 **Important:**
 
--   Starting from version 10, the previously known Health and Safety Incident Management \(sn\_ohs\_im\) application has been renamed to [[hs-core-landing|Health and Safety Core]]. There is no impact on existing customers using versions up to 9. However, to receive the latest updates for incident management, customers on version 9 and earlier must also install \(sn\_hs\_im\_incident\).
--   When you upgrade from Health and Safety Incident Management v9 to Health and Safety Core v10, certain [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] fields and column labels related to [[health-and-safety-user-profile|Health and Safety user profile]] might not update correctly. To resolve this issue, see the [KB article \[KB2057452\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2057452) in the Now Support Knowledge Base to create and run a Fix Script.
+-   Starting from version 10, the previously known Health and Safety Incident Management \(sn\_ohs\_im\) application has been renamed to Health and Safety Core. There is no impact on existing customers using versions up to 9. However, to receive the latest updates for incident management, customers on version 9 and earlier must also install \(sn\_hs\_im\_incident\).
+-   When you upgrade from Health and Safety Incident Management v9 to Health and Safety Core v10, certain reference fields and column labels related to Health and Safety user profile might not update correctly. To resolve this issue, see the [KB article \[KB2057452\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2057452) in the Now Support Knowledge Base to create and run a Fix Script.
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Health and Safety Incident Management](https://store.servicenow.com/sn_appstore_store.do#!/store/application/f27b42a72f373010f2bf532a2799b693) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
-**Tip:** The application installation does not install the location demo data for the [[workplace-safety-mgmt-hr|Workplace Core]] location model. The location picker on incident and observation forms is mandatory so that users can't submit these forms unless they are populated with locations. As a workaround, repair the Workplace Core plugin with the **Load demo data** option.
+**Tip:** The application installation does not install the location demo data for the Workplace Core location model. The location picker on incident and observation forms is mandatory so that users can't submit these forms unless they are populated with locations. As a workaround, repair the Workplace Core plugin with the **Load demo data** option.
 
 Role required: admin
 
@@ -82,7 +82,7 @@ Geo map component
 
 </td><td>
 
-Provides access to enable the map component in the [[health-safety-core-workspace|Health and Safety Workspace]] from the application properties.
+Provides access to enable the map component in the Health and Safety Workspace from the application properties.
 
  To install, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)
 
@@ -94,17 +94,17 @@ Geolocation plugin
 
 </td><td>
 
-Enables geolocation feature on the [[mobile-employee-experience|Now Mobile app]] and gives access to manual tracking options.
+Enables geolocation feature on the Now Mobile app and gives access to manual tracking options.
 
  For more information, see [Enabling and selecting location tracking options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/location-tracking-enable.md)
 
 </td></tr><tr><td>
 
-[[hs-case-management-landing-page|Health and Safety Case Management]] \[sn\_hs\_cm\]
+Health and Safety Case Management \[sn\_hs\_cm\]
 
 </td><td>
 
-Installs [[case-management-workspace|case management]] capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/install-hs-case-management.md).
+Installs case management capability for Health and Safety Incident Management.For more information, see [Install Health and Safety Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/install-hs-case-management.md).
 
 </td></tr><tr><td>
 
@@ -112,13 +112,13 @@ Human Resources Scoped App: Core \[com.sn\_hr\_core\]
 
 </td><td>
 
-Installs [[case-knowledge-management-landing-page|Case and Knowledge Management]] for creating HR cases from injury and illness records.For more information, see [Activate Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
+Installs Case and Knowledge Management for creating HR cases from injury and illness records.For more information, see [Activate Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
 
 **Note:** For creating HR cases from injury and illness records, this plugin needs to be activated together with the Health and Safety Case Management \(sn\_hs\_cm\) application. For more information, see [Create an HR case from an injury or illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-hr-case-injury-illness.md).
 
 </td></tr><tr><td>
 
-[[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] \[sn\_hs\_crm\]
+Health and Safety Contractor Management \[sn\_hs\_crm\]
 
 </td><td>
 
@@ -126,7 +126,7 @@ Installs contractor management capability for Health and Safety Incident Managem
 
 </td></tr><tr><td>
 
-[[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]\[com.snc.sn\_hs\_im\_osha\]
+Health and Safety Incident Management OSHA Content Pack\[com.snc.sn\_hs\_im\_osha\]
 
 </td><td>
 
@@ -134,11 +134,11 @@ Installs OSHA reporting capability for Health and Safety Incident Management.For
 
 </td></tr><tr><td>
 
-[[learning-core_overview|Learning Core]]\[sn\_lc\]
+Learning Core\[sn\_lc\]
 
 </td><td>
 
-Installs Learning Core to enable [[exploring-learning-exp|learning]] content in [[health-safety-overview|Health and Safety]] actions.For more information, see [Configuring Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/configuring-learning-core.md).
+Installs Learning Core to enable learning content in Health and Safety actions.For more information, see [Configuring Learning Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/configuring-learning-core.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -166,20 +166,3 @@ Installs Learning Core to enable [[exploring-learning-exp|learning]] content in 
 
 **Parent Topic:**[Setting up Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/setting-up-hs-incident-mgmt.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[case-management-workspace|Case management]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[health-safety-overview|Health and Safety]]

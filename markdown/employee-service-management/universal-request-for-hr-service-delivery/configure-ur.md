@@ -14,7 +14,7 @@ breadcrumb: [Setting up and configuring Universal Request, Universal Request, Em
 
 # Configuring Universal Request
 
-Set up the [[ur-landing-limitedaccess|Universal Request]] features, components, and integrations that you need to set up your organization to provide service and support to your employees and agents.
+Set up the Universal Request features, components, and integrations that you need to set up your organization to provide service and support to your employees and agents.
 
 -   **[Configure users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-config-users-and-groups.md)**  
 A user is an individual who can access your instance and a group is a set of users who share a common purpose. The users associated with a group are listed as group members.
@@ -25,13 +25,13 @@ For a Universal Request administrator \[sn\_uni\_req.ur\_admin\] to perform some
 -   **[Service Level Agreement configuration for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-sla-config.md)**  
 View, modify, or create Service Level Agreement \(SLA\) definitions that is provided for the Universal Request application to make sure that the requests are closed within a defined time frame.
 -   **[Transfer configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-route-state.md)**  
-You can enable agents to transfer department-specific tickets, such as an incident ticket or an HR case back to the Universal Request \(UR\), to another department, or service. This [[configure-route-state|transfer configuration]] allows you to determine what happens to the departmental ticket when the request is transferred to another department or back to UR.
+You can enable agents to transfer department-specific tickets, such as an incident ticket or an HR case back to the Universal Request \(UR\), to another department, or service. This transfer configuration allows you to determine what happens to the departmental ticket when the request is transferred to another department or back to UR.
 -   **[Configure Dynamic translation for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-config-dyn-translation.md)**  
 Activate and configure the Dynamic Translation plugin to translate the text on a Universal Request record.
 -   **[Configure Chat queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-chat-queues.md)**  
-[[config-chat-queues|Configure chat queues]] to enable users to communicate with the agents for assistance on their request.
+Configure chat queues to enable users to communicate with the agents for assistance on their request.
 -   **[Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/predictive-intelligence-ur.md)**  
-The [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]] uses machine-[[exploring-learning-exp|learning]] algorithms for the auto-assignment of universal requests and to find similar knowledge articles and closed universal requests.
+The Predictive Intelligence for Universal Request uses machine-learning algorithms for the auto-assignment of universal requests and to find similar knowledge articles and closed universal requests.
 -   **[Set up Virtual Agent for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-virtual-agent-setup.md)**  
 Use Virtual Agent \(VA\) capabilities to provide a better user experience for your chat channel using the ServiceNow® Natural Language Understanding \(NLU\) model. Publish and use the default Virtual Agent topics for Universal Request.
 -   **[Standard Ticket page for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-std-ticket-page.md)**  
@@ -39,10 +39,3 @@ The Universal Request standard ticket page enables requesters to view the detail
 
 **Parent Topic:**[Setting up and configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/setup-configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[configure-route-state|Transfer configuration]]
-- [[config-chat-queues|Configure Chat queues]]
-- [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]]
-- [[exploring-learning-exp|Learning]]

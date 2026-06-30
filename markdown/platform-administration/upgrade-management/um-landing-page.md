@@ -36,7 +36,7 @@ Leverage ServiceNow Upgrade Console for a comprehensive and efficient upgrade ex
 
 </td><td>
 
-[Reference\[Omitted image "uc-[[reference-email-admin|reference]]-icon.png"\] Alt text: Learn miscellaneous information about Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-references.md)
+[Reference\[Omitted image "uc-reference-icon.png"\] Alt text: Learn miscellaneous information about Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-references.md)
 
 </td><td>
 
@@ -50,6 +50,3 @@ Leverage ServiceNow Upgrade Console for a comprehensive and efficient upgrade ex
 -   [Ask or answer questions about Upgrade Console in the ServiceNow Community](https://www.servicenow.com/community/)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 
-## Related
-
-- [[reference-email-admin|Reference]]

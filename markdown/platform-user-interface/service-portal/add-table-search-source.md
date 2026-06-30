@@ -14,7 +14,7 @@ breadcrumb: [Zing search in Service Portal, Configuring search in a portal, Conf
 
 # Define a search source
 
-[[configure-onboarding-modals|Configure]] a basic search source to query data from an instance table, or configure an advanced data fetch script to query data across multiple tables and data sources, or to pull data from anywhere on the web.
+Configure a basic search source to query data from an instance table, or configure an advanced data fetch script to query data across multiple tables and data sources, or to pull data from anywhere on the web.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the platform UI, navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Portals** and select the portal you want to add search sources to.
+1.  In the platform UI, navigate to **Service Portal** &gt; **Portals** and select the portal you want to add search sources to.
 
 2.  From the **Search Sources** related list, click **New** to add a search source.
 
@@ -133,7 +133,7 @@ Conditions
 
 </td><td>
 
-[[c_Filters|Filters]] results based on defined conditions. For example, Active is True.
+Filters results based on defined conditions. For example, Active is True.
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ Paginates search results. True by default.
 
  If **Is scripted source** is selected, the value updates to false. To enable pagination for a scripted search source, see [Paginate search source results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/paginate-scripted-search-source.md).
 
- Define the maximum number of results per query for the search source in the [[search-page-widget|Search Page widget]] or [[faceted-search|Faceted Search widget]] instance options.
+ Define the maximum number of results per query for the search source in the Search Page widget or Faceted Search widget instance options.
 
 </td></tr></tbody>
 </table>5.  Configure **Typeahead** settings to allow search results to populate the search field based on user input.
@@ -193,10 +193,3 @@ Set up an advanced search source that queries data from an external website.
 
 **Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]
-- [[search-page-widget|search page widget]]
-- [[faceted-search|Faceted Search widget]]

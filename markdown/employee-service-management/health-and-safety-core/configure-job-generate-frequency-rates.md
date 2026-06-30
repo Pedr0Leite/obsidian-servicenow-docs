@@ -14,11 +14,11 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Configure scheduled job to generate frequency rates
 
-Configure the scheduled job to load the safety frequency rates and ensure that the safety metrics on the [[health-safety-core-workspace|Health and Safety Workspace]] landing page are up to date.
+Configure the scheduled job to load the safety frequency rates and ensure that the safety metrics on the Health and Safety Workspace landing page are up to date.
 
 ## Before you begin
 
-Ensure that the application scope is selected as [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] PA Content Pack. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Ensure that the application scope is selected as Health and Safety Incident Management PA Content Pack. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_ohs\_im.admin
 
@@ -48,7 +48,7 @@ The **\[OHS\] Safety Metrics** job is set to run daily by default.
 **Related topics**  
 
 
-[Install [[health-safety-overview|Health and Safety]] Core]()
+[Install Health and Safety Core]()
 
 [Workplace location data]()
 
@@ -64,8 +64,3 @@ The **\[OHS\] Safety Metrics** job is set to run daily by default.
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-overview|Health and Safety]]

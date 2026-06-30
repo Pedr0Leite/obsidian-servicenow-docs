@@ -15,15 +15,15 @@ breadcrumb: [Savings opportunities, Spend and Savings Management, Explore, Sourc
 
 # Spend optimization savings opportunities
 
-Spend Optimization Opportunity Finder Agent identifies opportunities where purchase activity is outside negotiated [[contracts|contracts]] or fragmented across multiple contracts. Addressing these opportunities helps redirect spend to contracted [[pricing|pricing]] and increase purchasing volume for negotiation.
+Spend Optimization Opportunity Finder Agent identifies opportunities where purchase activity is outside negotiated contracts or fragmented across multiple contracts. Addressing these opportunities helps redirect spend to contracted pricing and increase purchasing volume for negotiation.
 
-Spend Optimization Opportunity Finder Agent analyzes [[purchase-order-table|purchase order]] activity from the preceding 12 months to detect patterns where spend is either outside contracted sources or spread across multiple contracts for the same [[supplier|supplier]] and product. The agent supports two savings levers: off-contract spend and unconsolidated spend.
+Spend Optimization Opportunity Finder Agent analyzes purchase order activity from the preceding 12 months to detect patterns where spend is either outside contracted sources or spread across multiple contracts for the same supplier and product. The agent supports two savings levers: off-contract spend and unconsolidated spend.
 
 ## Off-contract spend opportunities
 
 Off-contract spend refers to purchases made without using a negotiated contract, often at prices higher than the contracted rate. The agent identifies categories and products where off-contract spend exists alongside on-contract spend so that sourcing teams can redirect future purchases to the contracted source.
 
-The agent examines closed-paid and closed-released [[purchase-order-lines|purchase order lines]] and determines whether each purchase was on-contract by matching against contract-to-purchase-order relationships and date ranges. The agent groups activity by supplier, spend category, and product, then separates on-contract activity from off-contract activity. For each grouping that contains both, the agent calculates the discount missed by buying off-contract and the potential savings from redirecting that spend to the contracted price.
+The agent examines closed-paid and closed-released purchase order lines and determines whether each purchase was on-contract by matching against contract-to-purchase-order relationships and date ranges. The agent groups activity by supplier, spend category, and product, then separates on-contract activity from off-contract activity. For each grouping that contains both, the agent calculates the discount missed by buying off-contract and the potential savings from redirecting that spend to the contracted price.
 
 For services, the agent normalizes the contract value over the duration of the service to derive a daily rate, which is then used when comparing on-contract and off-contract pricing. Rebates are not included in the savings estimate.
 
@@ -54,10 +54,3 @@ If a grouping does not include enough recent activity, if the products cannot be
 
 **Parent Topic:**[Savings opportunity identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/savings-opportunity-identification.md)
 
-## Related
-
-- [[contracts|Contracts]]
-- [[pricing|Pricing]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[purchase-order-lines|Purchase order lines]]

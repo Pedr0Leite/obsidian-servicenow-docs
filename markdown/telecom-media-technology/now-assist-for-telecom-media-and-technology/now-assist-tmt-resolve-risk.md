@@ -18,7 +18,7 @@ Use the Analyze risk and recommend solutions agentic workflow to monitor and mit
 
 ## Recommend risk signal solutions agentic workflow overview
 
-**Note:** Before you use this agentic workflow, you must activate the AI Agents for [[account-lifecycle-events-landing|Customer Success Management]] plugin \(com.sn\_cust\_succ\_ai\_agent\).
+**Note:** Before you use this agentic workflow, you must activate the AI Agents for Customer Success Management plugin \(com.sn\_cust\_succ\_ai\_agent\).
 
 Use the Recommend risk signal solutions agentic workflow to:
 
@@ -69,6 +69,3 @@ The Analyze risks and recommend solutions agentic workflow uses specific AI agen
 |--------|-------------|
 |Success risk manager AI agent|Retrieves the unaddressed risk signal and provides solution recommendations.|
 
-## Related
-
-- [[account-lifecycle-events-landing|Customer Success Management]]

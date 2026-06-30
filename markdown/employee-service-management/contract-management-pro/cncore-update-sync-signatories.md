@@ -17,7 +17,7 @@ breadcrumb: [Use self-served contract request, Use, Contract Management Pro, Leg
 As a contract user or fulfiller, update and sync signatory details when the contract submission has failed, or contract document cannot be sent due to incomplete signatory information.
 
 -   **[Resolve the failure to send contract documents for signature \(starting with Contract Management Pro 1.2.1\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-doc-user.md)**  
-Update signatory details in an external contract document in [[cncore-cmpro-landing-page|Contract Management Pro]] when there is a failure in sending the document for signature due to a mismatch between the signatory information in the contract request and the contract document.
+Update signatory details in an external contract document in Contract Management Pro when there is a failure in sending the document for signature due to a mismatch between the signatory information in the contract request and the contract document.
 -   **[Resolve the failure to submit a self-serve contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-signatories-fulfiller.md)**  
 As a contract user, resubmit a contract request that was not submitted due to incomplete signatory information by updating and syncing signatory information.
 -   **[Resolve an error during send for signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-sync-signatories-user.md)**  
@@ -25,6 +25,3 @@ As a contract user or fulfiller, update and synchronize signatory details when s
 
 **Parent Topic:**[Use self-served contract request]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Catchpoint events
 
-Integrate Catchpoint with [[c_EM|Event Management]] by adding an alert webhook in the Catchpoint platform.
+Integrate Catchpoint with Event Management by adding an alert webhook in the Catchpoint platform.
 
 ## Before you begin
 
@@ -127,7 +127,7 @@ Select **Template** and add the following template:```
 
     3.  In the CI Type field, select **cmdb\_ci\_endpoint\_http**.
 
-    If the services are not modeled, then you should manually add the CIs under the \[cmdb\_ci\_endpoint\_http\] table. Also, the manual endpoint should be removed before the automatic [[r-discovery|discovery]] of services. For other type tests CI bindings, you can create [[create-event-rules|Event rules]] based on their requirements.
+    If the services are not modeled, then you should manually add the CIs under the \[cmdb\_ci\_endpoint\_http\] table. Also, the manual endpoint should be removed before the automatic discovery of services. For other type tests CI bindings, you can create Event rules based on their requirements.
 
 
 ## Result
@@ -142,8 +142,3 @@ Alerts start flowing from the Catchpoint connector into the Event Management plu
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[create-event-rules|Event rules]]

@@ -30,13 +30,13 @@ This example shows you how a target instance requests keys from a host instance.
 
 ## Procedure
 
-1.  On the source instance, create a crypto module or access an existing crypto module using column\_level\_encryption and set up the encrypted field configurations for the ciphertext [[encryption-landing|encryption]] for Key Exchange.
+1.  On the source instance, create a crypto module or access an existing crypto module using column\_level\_encryption and set up the encrypted field configurations for the ciphertext encryption for Key Exchange.
 
     See and for details.
 
     1.  Ensure that keys have been generated in the crypto module.
 
-    **Note:** Your instance automatically creates a module access policy on the execution of the clone [[c_requestAPI|request]].
+    **Note:** Your instance automatically creates a module access policy on the execution of the clone request.
 
 2.  From the cloned instance, navigate to **Key Management** &gt; **Resource Exchange Requests** &gt; **New**.
 
@@ -71,12 +71,7 @@ This example shows you how a target instance requests keys from a host instance.
 
 ## Result
 
-After a key exchange is attempted, your non-production instance updates the **protected.script.values.kmf.rekeyed** system property. This property is visible in the [[ca-system-properties|System Properties]] \[sys\_properties\] table. If the encryption using the exchanged key is successful, this property has a value of **true**. Otherwise, the property has a value of **false**. If the value is false, your instance will attempt to encrypt again the next day.
+After a key exchange is attempted, your non-production instance updates the **protected.script.values.kmf.rekeyed** system property. This property is visible in the System Properties \[sys\_properties\] table. If the encryption using the exchanged key is successful, this property has a value of **true**. Otherwise, the property has a value of **false**. If the value is false, your instance will attempt to encrypt again the next day.
 
 **Parent Topic:**[Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[ca-system-properties|System properties]]

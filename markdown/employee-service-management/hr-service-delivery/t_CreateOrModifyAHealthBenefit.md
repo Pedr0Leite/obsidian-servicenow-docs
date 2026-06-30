@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Enroll in a health plan
 
-As an employee, you can submit a question about or enroll in a company health plan such as medical, dental, or vision from the [[employee-center-landing-page|Employee Center]].
+As an employee, you can submit a question about or enroll in a company health plan such as medical, dental, or vision from the Employee Center.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Alternatively, a manager can submit an enrollment request by opening an HR case:
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

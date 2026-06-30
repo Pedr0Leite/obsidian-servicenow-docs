@@ -18,7 +18,7 @@ After you have created a contract or the contract has expired, you can renew the
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI or [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI or Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## About this task
 
@@ -27,14 +27,14 @@ Role required: admin, contract\_manager\(core UI or [[using-ham-workspace|Hardwa
 -   Contract information and history is retained when a contract is renewed. If the end date of the contract changes, the end date of any associated assets changes to match. You can renew a contract that meets the following conditions.
     -   **State** is **Active** or **Expired**
     -   **Substate** is **None** or **Rejected**
--   If the system property **sn\_contract\_enable\_renewal\_flow** is enabled, the [[cont-renew-wf|contract renewal workflow]] is available for maintenance &amp; warranty [[c_Contracts|contracts]]. For more information, see [Contract renewal workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/cont-renew-wf.md).
+-   If the system property **sn\_contract\_enable\_renewal\_flow** is enabled, the contract renewal workflow is available for maintenance &amp; warranty contracts. For more information, see [Contract renewal workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/cont-renew-wf.md).
 
 ## Procedure
 
 1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
 
         Alternatively, select the **Overview** tab of the Contract management view. In the Contract overview section, locate the Expiring contract widget to view the list of contracts that are expiring.
 
@@ -73,10 +73,3 @@ If you selected the **Save** option, ensure that you click **Renew** when you ar
 
 **Parent Topic:**[Adjust a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_AdjustAContract.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[cont-renew-wf|Contract renewal workflow]]
-- [[c_Contracts|Contracts]]
-- [[contract-mgmt-view-am|Contract management view]]

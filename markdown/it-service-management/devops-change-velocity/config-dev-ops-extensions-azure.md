@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Azure pipeline for DevOps, Azure DevOps, Integrate,
 
 # Use the ServiceNow DevOps extension for Azure DevOps and Azure DevOps custom actions
 
-Install and configure DevOps extension for Azure DevOps to send build and release notifications from your Azure pipeline to [[devops-landing-page-new|DevOps Change Velocity]].
+Install and configure DevOps extension for Azure DevOps to send build and release notifications from your Azure pipeline to DevOps Change Velocity.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_devops.admin
 
 ## About this task
 
-You can use **ServiceNow DevOps** extension on [Visual Studio Marketplace - Extensions for Azure DevOps](https://marketplace.visualstudio.com/azuredevops) to integrate your Azure pipeline with the ServiceNow DevOps application. For more information about [[using-dev-ops-release-change|artifacts and packages]] in DevOps Change Velocity, see [Artifacts and packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md).
+You can use **ServiceNow DevOps** extension on [Visual Studio Marketplace - Extensions for Azure DevOps](https://marketplace.visualstudio.com/azuredevops) to integrate your Azure pipeline with the ServiceNow DevOps application. For more information about artifacts and packages in DevOps Change Velocity, see [Artifacts and packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md).
 
 -   **ServiceNow DevOps** service connection
 
@@ -46,7 +46,7 @@ Azure build \(CI\) pipeline custom tasks:
 
     -   **ServiceNow DevOps Server Change Acceleration** custom task
 
-        Required for agentless \(server\) jobs to automatically [[t_CreateAChange|create a change request]] in ServiceNow [[c_ITILChangeManagement|Change Management]] as part of the Azure pipeline.
+        Required for agentless \(server\) jobs to automatically create a change request in ServiceNow Change Management as part of the Azure pipeline.
 
         **Note:** The **ServiceNow DevOps Server Change Acceleration** task does not require **ServiceNow DevOps Server Job Notification** tasks.
 
@@ -101,7 +101,7 @@ The **ServiceNow DevOps Server Job Notification** and **ServiceNow DevOps Agent 
 
 2.  Select your Azure DevOps organization and select **Install**.
 
-3.  From your Azure DevOps project, navigate to **Project [[settings-mobile|settings]]** &gt; **Pipelines** &gt; **Service connections**.
+3.  From your Azure DevOps project, navigate to **Project settings** &gt; **Pipelines** &gt; **Service connections**.
 
 4.  Select **New service connection** and from the list select **ServiceNow DevOps**.
 
@@ -139,7 +139,7 @@ Username
 
 </td><td>
 
-Enter `devops.integration.user`.**Note:** The step to enter the integration user name and password is required to configure only when [[devops-config-landing-page|DevOps Config]] is installed or the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property is disabled. If this step is not required, webhooks are configured using token-based authentication.
+Enter `devops.integration.user`.**Note:** The step to enter the integration user name and password is required to configure only when DevOps Config is installed or the **This property decides whether to create a Generic Connection on configure operation for Azure DevOps** property is disabled. If this step is not required, webhooks are configured using token-based authentication.
 
 </td></tr><tr><td>
 
@@ -362,11 +362,3 @@ Timeout value in minutes, hours, or days.If the pre-deployment conditions fail, 
 
 \[Omitted image "dev-ops-artifact-build-pipeline.png"\] Alt text: DevOps artifact pipeline config
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[using-dev-ops-release-change|Artifacts and packages]]
-- [[t_CreateAChange|Create a change request]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[settings-mobile|Settings]]
-- [[devops-config-landing-page|DevOps Config]]

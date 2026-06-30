@@ -267,7 +267,7 @@ Use the up and down arrows to adjust the radius of the border. Just like the wid
 
     **Note:** Only translate content after you are done modifying the content. For best results, we do not recommend that you add or remove components or change the formatting after translation.
 
-    To [[ec-content-library-portal-rich-content|create rich content]] that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use [[ecpro-audience|Audiences]] to target the content to users by language. See [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md)
+    To create rich content that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use Audiences to target the content to users by language. See [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md)
 
 -   Preview your content from the **Publish** tab.
 
@@ -275,7 +275,3 @@ Use the up and down arrows to adjust the radius of the border. Just like the wid
 
 -   Configure a publish plan to control where the content is delivered, the audience, and the period of time it is available: [Create a publish plan for your content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md).
 
-## Related
-
-- [[ec-content-library-portal-rich-content|Create rich content]]
-- [[ecpro-audience|Audiences]]

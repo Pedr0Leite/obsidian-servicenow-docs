@@ -23,12 +23,12 @@ Role required: sn\_sec\_tisc.admin
 
 Prerequisites
 
--   The [[tisc-hibp-integration|Have I Been Pwned integration]] depends on the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) application. To enrich email and domain [[c_Observables|observables]], verify that the TISC plugin \(`sn_sec_tisc`\) is installed.
+-   The Have I Been Pwned integration depends on the Threat Intelligence Security Center \(TISC\) application. To enrich email and domain observables, verify that the TISC plugin \(`sn_sec_tisc`\) is installed.
 -   Obtain a valid API key from the Have I Been Pwned portal before you begin.
 
 ## About this task
 
-The HIBP integration is an [[tisc-observable-enrichment|observable enrichment]] integration that determines whether a submitted email address or domain name has been part of a publicly known data breach.
+The HIBP integration is an observable enrichment integration that determines whether a submitted email address or domain name has been part of a publicly known data breach.
 
 When an analyst submits a supported observable, the integration queries the HIBP database and returns breach details, including the total number of breaches found and the type of data compromised.
 
@@ -37,13 +37,13 @@ The integration supports the following observable types:
 -   Email address
 -   Domain name
 
-**Note:** Before you begin, [[download-app-first-time|Download the integration from the ServiceNow Store]].
+**Note:** Before you begin, [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Enrichment Integrations** &gt; **All Integrations** &gt; **Observable Enrichment**.
 
-2.  Select **[[tisc-config-new-enrich|Configure New Enrichment]]**.
+2.  Select **Configure New Enrichment**.
 
 3.  Select the integration.
 
@@ -81,16 +81,7 @@ After configuration, you can select Have I Been Pwned for performing enrichment 
 
 ## What to do next
 
-To [[tisc-run-observable-enrichment|run observable enrichment]], see [Run Have I Been Pwned enrichment integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-hibp-enrichment-integration.md) for the detailed procedure.
+To run observable enrichment, see [Run Have I Been Pwned enrichment integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-hibp-enrichment-integration.md) for the detailed procedure.
 
 **Parent Topic:**[Have I Been Pwned integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-hibp-integration.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[tisc-hibp-integration|Have I Been Pwned integration]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]

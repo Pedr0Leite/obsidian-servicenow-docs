@@ -76,7 +76,7 @@ The Performance Analytics – Domain Separation Support plugin adds the Domain C
 Use update sets to transfer domain configurations between instances. If the domain configuration has **Collect aggregate** enabled, also transfer the aggregation domain separately. For more information, see [Transfer domain configuration with score aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/transfer-aggregation-domains.md).
 
 -   **[Create a domain configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-domain-configuration.md)**  
-[[create-domain-configuration|Create a domain configuration]] to define which domains to collect scores from and how to store scores within the domain hierarchy.
+Create a domain configuration to define which domains to collect scores from and how to store scores within the domain hierarchy.
 -   **[Associate a domain configuration with a data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/associate-domain-config-dc-job.md)**  
 To collect Performance Analytics indicator scores from the domains specified in a domain configuration, associate that domain configuration with a collection job.
 -   **[Associate a domain configuration with a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/associate-domain-config-dashboard.md)**  
@@ -86,6 +86,3 @@ To transfer between instances a Performance Analytics domain configuration that 
 
 **Parent Topic:**[Domain separation and Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWithDomainSeparation.md)
 
-## Related
-
-- [[create-domain-configuration|Create a domain configuration]]

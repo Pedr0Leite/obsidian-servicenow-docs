@@ -14,12 +14,12 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Issue management in the Risk Workspace
 
-The issues landing page in the [[risk-workspace|Risk Workspace]] provides logged-in managers and users with all the information they need to [[manage-issues-common-core|manage issues]] on a single page. The landing page features actionable insights, quick action buttons, filters, and access to open issue triages.
+The issues landing page in the Risk Workspace provides logged-in managers and users with all the information they need to manage issues on a single page. The landing page features actionable insights, quick action buttons, filters, and access to open issue triages.
 
 The issues landing page is available in the following workspaces:
 
 -   Compliance Workspace
--   [[audit-management-overview-ws|Audit Workspace]]
+-   Audit Workspace
 -   Privacy Workspace
 -   Risk Workspace
 
@@ -81,7 +81,7 @@ This widget shows the status of open and overdue remediation tasks associated wi
 
 </td></tr><tr><td>
 
-[[evidence-request|Evidence request]] for issues
+Evidence request for issues
 
 </td><td>
 
@@ -162,9 +162,3 @@ This section shows the number of remediation tasks for which the logged-in user 
 </td></tr></tbody>
 </table>**Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[manage-issues-common-core|Manage issues]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[evidence-request|Evidence request]]

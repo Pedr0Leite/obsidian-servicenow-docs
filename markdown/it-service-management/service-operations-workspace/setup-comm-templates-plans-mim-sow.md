@@ -14,8 +14,5 @@ breadcrumb: [Configuring Major Incident Management in Service Operations Workspa
 
 # Setting up communication templates and plans in Major Incident Management
 
-Set up the communication templates and plans in Major [[c_IncidentManagement|Incident Management]] to help reduce the efforts and time spent in creating and composing communication at the various stages of a major incident. Effective communications with stakeholders help resolve major incidents.
+Set up the communication templates and plans in Major Incident Management to help reduce the efforts and time spent in creating and composing communication at the various stages of a major incident. Effective communications with stakeholders help resolve major incidents.
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

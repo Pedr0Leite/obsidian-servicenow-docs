@@ -14,7 +14,7 @@ breadcrumb: [Issue Page Configuration module, Landing Page Configurations module
 
 # Create a new Issue Page Configuration record
 
-Create a new issue page configuration record in the [[issue-page-config-record|Issue Page Configuration module]] in the classic user interface. The Issue Page Configuration module displays the configurations related to the Issues section in the landing pages of the workspaces. The newly created issue is displayed in the Issue overview landing page in the selected workspace.
+Create a new issue page configuration record in the Issue Page Configuration module in the classic user interface. The Issue Page Configuration module displays the configurations related to the Issues section in the landing pages of the workspaces. The newly created issue is displayed in the Issue overview landing page in the selected workspace.
 
 ## Before you begin
 
@@ -68,7 +68,7 @@ Policy exceptions
 
 </td><td>
 
-Option to display the policy exceptions under the Tracking section in the Compliance workspace.**Note:** On the [[risk-workspace|Risk workspace]], policy exceptions are by default not displayed.
+Option to display the policy exceptions under the Tracking section in the Compliance workspace.**Note:** On the Risk workspace, policy exceptions are by default not displayed.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Show issue triages
 
 </td><td>
 
-Option to display or hide the issue triages in the workspace.**Note:** For the [[audit-management-overview-ws|Audit workspace]], this option is inactive by default.
+Option to display or hide the issue triages in the workspace.**Note:** For the Audit workspace, this option is inactive by default.
 
 </td></tr><tr><td>
 
@@ -124,7 +124,7 @@ Show observations
 
 </td><td>
 
-Option to display or hide the [[audit-observations|audit observations]] in the workspace.**Note:** This option is by default selected for the Audit workspace.
+Option to display or hide the audit observations in the workspace.**Note:** This option is by default selected for the Audit workspace.
 
 </td></tr><tr><td>
 
@@ -152,9 +152,3 @@ A new Issue Page Configuration record is created.
 
 **Parent Topic:**[Issue Page Configuration module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issue-page-config-record.md)
 
-## Related
-
-- [[issue-page-config-record|Issue Page Configuration module]]
-- [[risk-workspace|risk workspace]]
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[audit-observations|Audit observations]]

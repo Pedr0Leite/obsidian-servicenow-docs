@@ -70,12 +70,9 @@ Risk events are potential or actual financial and non-financial losses, near mis
 
 </td><td>
 
-With GRC [[advanced-risk-assessment|Advanced Risk Assessment]], create an integrated risk platform. Risk administrators can configure detailed risk assessment options. For details, see [Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
+With GRC Advanced Risk Assessment, create an integrated risk platform. Risk administrators can configure detailed risk assessment options. For details, see [Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
 </td></tr></tbody>
 </table>
 **Parent Topic:**[Risk Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-impl-overview.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]

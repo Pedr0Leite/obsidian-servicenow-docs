@@ -22,13 +22,13 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Mining Workspace**.
 
 2.  From the Projects list, select the ellipses beside the project you want to copy.
 
 3.  Select the **Copy**.
 
-4.  Select **OK** to confirm you want to copy the configuration and [[create-project|create a project]] definition from it.
+4.  Select **OK** to confirm you want to copy the configuration and create a project definition from it.
 
     A new process model definition creates with the following:
 
@@ -48,8 +48,3 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[create-project|Create a project]]

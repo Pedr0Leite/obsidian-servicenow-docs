@@ -20,13 +20,13 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-A good business continuity plan is a result of thoughtful assessment of [[bia-uib|business impact analysis]] and the risks involved in a disruptive situation. However, the plan becomes viable only after it is tested in an event.
+A good business continuity plan is a result of thoughtful assessment of business impact analysis and the risks involved in a disruptive situation. However, the plan becomes viable only after it is tested in an event.
 
 ## Procedure
 
 1.  Navigate to **Business Continuity** &gt; **Business Continuity Workspace**.
 
-2.  To update an active exercise or crisis event from the Home page of the Business continuity workspace, click the link to the event record in the **Event** column of the **My [[exercise-management-uib|exercises]]** section.
+2.  To update an active exercise or crisis event from the Home page of the Business continuity workspace, click the link to the event record in the **Event** column of the **My exercises** section.
 
 3.  To update the event from the lists view of the workspace, click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: Lists icon\).
 
@@ -46,11 +46,11 @@ A good business continuity plan is a result of thoughtful assessment of [[bia-ui
     -   view the plans related to the assets under the respective assets in the grid
     -   add an ad hoc plan that does not have a plan reference
     -   view the details of asset recovery and the activated plan by clicking the information icon \(\[Omitted image "InformationIcon.png"\] Alt text: Information icon\)
-    For information on the logic behind the calculation of recovery task entities, see [[view-exercise-crisis-event-details|Calculation of actual duration and total effort to recover an event asset]].
+    For information on the logic behind the calculation of recovery task entities, see [Calculation of actual duration and total effort to recover an event asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/view-exercise-crisis-event-details.md).
 
     If the impacted assets are CMDB CI data that came into the BIA automatically based on CMDB dependencies and when these assets are scoped in the plan, then at the time of recovery of the asset, the related assets and the related plans are automatically pulled into the exercise event as impacted assets and activated plans in the **Impacts** tab.
 
-    For more information on the planning and execution of a recovery event, see [[planning-execution-event-bcm|Data flow, planning, execution, and recovery of related plan assets in event]].
+    For more information on the planning and execution of a recovery event, see [Data flow, planning, execution, and recovery of related plan assets in event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/planning-execution-event-bcm.md).
 
 8.  Click the **Add assets** button to recover assets in the event.
 
@@ -62,7 +62,7 @@ A good business continuity plan is a result of thoughtful assessment of [[bia-ui
 
     4.  Click **Save**.
 
-        The grid displays the assets in the **Short description** column. As these assets are added to the event, they are now [[event-assets|event assets]]. The grid also displays the state of assets whether they are recovered or not, and the actual time taken for recovery.
+        The grid displays the assets in the **Short description** column. As these assets are added to the event, they are now event assets. The grid also displays the state of assets whether they are recovered or not, and the actual time taken for recovery.
 
 9.  Click **Add plans** button.
 
@@ -135,10 +135,4 @@ A good business continuity plan is a result of thoughtful assessment of [[bia-ui
 
 13. Click the refresh icon \(\[Omitted image "RefreshAlertsIcon.png"\] Alt text: Refresh icon.\) to display the updated state of the asset or plan, and the actual time taken to recover the asset.
 
-## Related
 
-- [[view-exercise-crisis-event-details|View event details and monitor event task completion]]
-- [[planning-execution-event-bcm|Data flow, planning, and execution in an event]]
-- [[bia-uib|Business impact analysis]]
-- [[exercise-management-uib|Exercises]]
-- [[event-assets|Event assets]]

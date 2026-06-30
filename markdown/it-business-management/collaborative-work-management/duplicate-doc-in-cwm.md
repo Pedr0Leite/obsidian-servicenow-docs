@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Docs, Use, Collaborative Work Management, Strategi
 
 # Duplicate a Doc in CWM
 
-Save time by duplicate an existing Doc to copy all its pages and content without having to copy the information manually in the [[cwm-landing|Collaborative Work Management]] workspace.
+Save time by duplicate an existing Doc to copy all its pages and content without having to copy the information manually in the Collaborative Work Management workspace.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The new Doc is added to the same Space as the original Doc. If necessary, you ca
 
 **Parent Topic:**[Collaborative documentation using CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

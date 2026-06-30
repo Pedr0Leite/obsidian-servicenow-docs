@@ -14,7 +14,7 @@ breadcrumb: [Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manage
 
 # Enable Override do not disturb to receive critical alerts
 
-Enable the Override do not disturb to receive critical push notifications feature for [[itsm-mobile-agent|ITSM Mobile Agent]].
+Enable the Override do not disturb to receive critical push notifications feature for ITSM Mobile Agent.
 
 ## About this task
 
@@ -46,9 +46,9 @@ Role required: admin
 
 6.  Log in to the ITSM Mobile Agent application.
 
-7.  Select **Open [[settings-mobile|Settings]]**, when prompted to `Enable Override Do Not Disturb To Receive Critical Alerts`.
+7.  Select **Open Settings**, when prompted to `Enable Override Do Not Disturb To Receive Critical Alerts`.
 
-    **Note:** If you [[install-itsm-mobile-app|log in to ITSM Mobile Agent]] using an iOS device, when prompted to `Enable Override Do Not Disturb To Receive Critical Alerts`, select **Allow**.
+    **Note:** If you log in to ITSM Mobile Agent using an iOS device, when prompted to `Enable Override Do Not Disturb To Receive Critical Alerts`, select **Allow**.
 
 8.  On the Do Not Disturb access settings page, select the ITSM Mobile Agent application from the list.
 
@@ -63,8 +63,3 @@ Role required: admin
     1.  Enter `sys_sg_properties` in the navigation filter.
     2.  On the mobile properties page, select **New** and create a property with the name **critical\_alerts\_request\_reprompt** and the same configuration as the **critical\_alerts\_request\_prompt** property.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[settings-mobile|Settings]]
-- [[install-itsm-mobile-app|Log in to ITSM Mobile Agent]]

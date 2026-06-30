@@ -24,7 +24,7 @@ Role required: sn\_grc\_reg\_change.admin
 
 ## Procedure
 
-1.  Navigate to **Application** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **RSS Feeds** &gt; **Provider Taxonomy Configuration**.
+1.  Navigate to **Application** &gt; **Regulatory Change Management** &gt; **RSS Feeds** &gt; **Provider Taxonomy Configuration**.
 
 2.  Select **New** on the page.
 
@@ -89,6 +89,3 @@ Taxonomy Loader configuration field when the default taxonomy configuration opti
 
 The new provider taxonomy configuration record is listed on the Provider taxonomy configuration page.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

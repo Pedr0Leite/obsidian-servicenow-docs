@@ -24,7 +24,7 @@ Role required: sn\_doc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Document Template** &gt; **All [[document-templates-overview|Document Templates]]**.
+1.  Navigate to **All** &gt; **Document Template** &gt; **All Document Templates**.
 
 2.  Select the PDF document template you want to use.
 
@@ -46,6 +46,4 @@ Role required: sn\_doc.admin
 
     The signature mapping is added to the PDF Template Mappings section.
 
-## Related
 
-- [[document-templates-overview|Document Templates]]

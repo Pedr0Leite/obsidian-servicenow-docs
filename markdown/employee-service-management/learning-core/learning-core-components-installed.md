@@ -14,7 +14,7 @@ breadcrumb: [Learning Core Reference, Learning Core, HR Service Delivery, Employ
 
 # Components installed with Learning Core
 
-Several types of components are installed with activation of the [[learning-core_overview|Learning Core]] \[sn\_lc\] plugin, including user roles, and tables.
+Several types of components are installed with activation of the Learning Core \[sn\_lc\] plugin, including user roles, and tables.
 
 <table id="table_u1t_gb1_wdb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[exploring-learning-exp|Learning]] admin \[sn\_lc.learning\_admin\]
+Learning admin \[sn\_lc.learning\_admin\]
 
 </td><td>
 
@@ -47,7 +47,7 @@ Learning course catalog admin \[sn\_lc.learning\_course\_catalog\_admin\]
 
 </td><td>
 
-Posesses admin rights to [[manage-learning-achievements|manage learning]] course catalogs.
+Posesses admin rights to manage learning course catalogs.
 
 </td><td>
 
@@ -122,7 +122,7 @@ Stores details of external course items that are pulled from third-party systems
 
 </td></tr><tr><td>
 
-Learning User Course [[activity-lxp|Activity]]\[sn\_lc\_user\_course\_activity\]
+Learning User Course Activity\[sn\_lc\_user\_course\_activity\]
 
 </td><td>
 
@@ -196,9 +196,3 @@ Stores configuration parameters of sources, third-party learning management syst
 
 [Collection form]()
 
-## Related
-
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[manage-learning-achievements|Manage Learning]]
-- [[activity-lxp|Activity]]

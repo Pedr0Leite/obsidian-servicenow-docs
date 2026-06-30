@@ -12,7 +12,7 @@ breadcrumb: [Now Assist panel, Now Assist Experiences, Exploring Now Assist Admi
 
 # Premium chat
 
-[[now-assist-center-now-assist-panel|Now Assist panel]] premium chat is an AI chat experience built into your ServiceNow environment that lets you ask questions, get answers from your organization's knowledge, and take action on records — all in one place. It supports file uploads, web search, and multi-step agentic tasks, so you can handle more complex requests without leaving the panel.
+Now Assist panel premium chat is an AI chat experience built into your ServiceNow environment that lets you ask questions, get answers from your organization's knowledge, and take action on records — all in one place. It supports file uploads, web search, and multi-step agentic tasks, so you can handle more complex requests without leaving the panel.
 
 **Important:**
 
@@ -20,10 +20,10 @@ breadcrumb: [Now Assist panel, Now Assist Experiences, Exploring Now Assist Admi
 -   Now Assist panel premium chat must be activated before you can use it. See  for more information.
 -   If you want to use assistants, you must activate them. See  for information on activating assistants.
 -   To use the full capabilities of Now Assist panel premium chat, AI Search must be enabled for your portal. Without it, Now Assist panel premium chat functions in a limited capacity. Basic interactions such as predefined topic flows and simple questions and answers are available, but knowledge article retrieval, AI responses grounded in instance content, and semantic search capabilities require AI Search. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-ais-sp.md).
--   [[now-assist-skills|Now Assist skills]] must be enabled to appear on the Now Assist panel. For more information, see [[configure-a-now-assist-skill|Activate a Now Assist skill]].
+-   Now Assist skills must be enabled to appear on the Now Assist panel. For more information, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 -   Conversational aspects of the Now Assist panel, such as skill detection, are powered by Now LLM Service.
 
-To begin, select the [[platform-now-assist-landing|Now Assist]] icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: Now Assist sparkle icon to display the Now Assist panel.
+To begin, select the Now Assist icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: Now Assist sparkle icon to display the Now Assist panel.
 
 \[Omitted image "na-panel-screenshot-example-premium.png"\] Alt text: Now Assist panel premium chat.
 
@@ -132,7 +132,7 @@ You can upload a maximum of 5 files per conversation. You can change the model p
 
 </td></tr><tr><td>
 
-9 - Previously used [[ai-prompts|prompts]]
+9 - Previously used prompts
 
 </td><td>
 
@@ -181,7 +181,7 @@ This record
 
 Conversations related to the current record you're viewing.
 
- This section appears only when you're viewing a specific record, such as an incident or case. When you open the Now Assist panel while on a record, the most recent conversation associated with that record is automatically displayed. Conversations in this section are identified by the record number prefix in the conversation title—for example, INC0012345 — My laptop won't turn on. The same conversation may appear in both This record and Active sections if it's still in progress. When you navigate to a different record, the This record section updates to show conversations for the new record. When you navigate to a [[now-assist-center-home-page|home page]] or list view, this section is hidden.
+ This section appears only when you're viewing a specific record, such as an incident or case. When you open the Now Assist panel while on a record, the most recent conversation associated with that record is automatically displayed. Conversations in this section are identified by the record number prefix in the conversation title—for example, INC0012345 — My laptop won't turn on. The same conversation may appear in both This record and Active sections if it's still in progress. When you navigate to a different record, the This record section updates to show conversations for the new record. When you navigate to a home page or list view, this section is hidden.
 
 </td></tr><tr><td>
 
@@ -300,7 +300,7 @@ When your request combines information from both internal and external sources, 
 
 ## Agentic conversations
 
-Admins must first enable AI agents before end users can experience agentic conversations. Now Assist panel discovers and executes agentic workflows. For more information on agentic workflows, see [[sn-aia-use-cases-list|Now Assist agentic workflows]] and [[multiple-conversations-aia|Multiple conversations in Now Assist AI agents]].
+Admins must first enable AI agents before end users can experience agentic conversations. Now Assist panel discovers and executes agentic workflows. For more information on agentic workflows, see [Now Assist agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/sn-aia-use-cases-list.md) and [Multiple conversations in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/multiple-conversations-aia.md).
 
 When you ask a question to the Now Assist panel premium chat, the agent understands the query and begins a flow. When you submit a message with multiple questions or requests, Now Assist panel premium chat answers them consecutively. It can reason, plan, and execute across AI agents, Now Assist panel topics, conversational actions and subflows, catalogs, Knowledge Base articles, custom skills, and any Now Assist supported skills to help you. You receive on-screen messages showing where the agent is in the agentic processing flow prior to receiving the response. After the processing completes, a View AI Steps section header appears where you can expand and view the processing flow steps. You can stop the agentic processing flow at any time by selecting the End flow icon \(\[Omitted image "agentic-end-flow-icon.png"\] Alt text: End flow icon.\). After an action starts, it can't be stopped. Selecting the End flow icon only stops the subsequent processing steps.
 
@@ -316,7 +316,7 @@ When you view search results in a workspace, you can continue exploring a topic 
 
 ## Navigating from the Now Assist panel
 
-You can navigate from the Now Assist panel without leaving the current conversation by entering a [[now-assist-global-navigation|navigation]] request in the **Ask Now Assist to...** field. If you enter "navigate me to active incidents," Now Assist displays a button that enables you to view the active incidents.
+You can navigate from the Now Assist panel without leaving the current conversation by entering a navigation request in the **Ask Now Assist to...** field. If you enter "navigate me to active incidents," Now Assist displays a button that enables you to view the active incidents.
 
 ## Chat summarization
 
@@ -392,7 +392,7 @@ If you start filling out a catalog form in the Now Assist panel and navigate to 
 
 ## Multiple search results
 
-When your request returns multiple results from [[knowledge-graph-landing|Knowledge Graph]], Now Assist displays them in a table. Empty columns are hidden automatically to keep the table easy to read. The columns displayed are determined automatically based on your query.
+When your request returns multiple results from Knowledge Graph, Now Assist displays them in a table. Empty columns are hidden automatically to keep the table easy to read. The columns displayed are determined automatically based on your query.
 
 -   People results: Use the horizontal and vertical scrollbars to view additional rows or columns. Select a person's name to open their profile in interactive view or select the org chart icon to view their position in the org chart.
 -   Record results \(such as incidents or assets\): Select a record number to open the full record in the current tab. The Now Assist panel automatically reverts to pinned mode. If the record can't open in the current tab, it opens in a new browser tab instead.
@@ -413,18 +413,5 @@ If Now Assist can't find relevant results in your organization's internal conten
 
 \[Omitted image "na-panel-premium-chat-fallback.png"\] Alt text: Search the web fallback option screen.
 
-**Parent Topic:**[[now-assist-panel-overview|Now Assist panel]]
+**Parent Topic:**[Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md)
 
-## Related
-
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[sn-aia-use-cases-list|Now Assist agentic workflows]]
-- [[multiple-conversations-aia|Multiple conversations in Now Assist AI agents]]
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-skills|Now Assist skills]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-global-navigation|Navigation]]
-- [[knowledge-graph-landing|Knowledge Graph]]

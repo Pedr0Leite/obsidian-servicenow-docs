@@ -16,7 +16,7 @@ breadcrumb: [Exploring Knowledge Management, Knowledge Management, Manage conten
 
 To protect knowledge bases containing sensitive articles, use a scoped knowledge base. Even system administrators and knowledge administrators can't administer scoped knowledge bases unless explicitly authorized through user criteria.
 
-For example, say you have a knowledge article with sensitive payroll information that should be seen only by the Payroll department and not by a system administrator or knowledge administrator. You could [[create-knowledge-article|create a knowledge article]] with the sensitive information in a scoped knowledge base within the Human Resources: Core application.
+For example, say you have a knowledge article with sensitive payroll information that should be seen only by the Payroll department and not by a system administrator or knowledge administrator. You could create a knowledge article with the sensitive information in a scoped knowledge base within the Human Resources: Core application.
 
 Only users with the admin role of an application and the knowledge\_admin role can administer a scoped knowledge base. You control access to knowledge bases of an application with application administration enabled, such as HR, through the Access Control Lists \(ACLs\) of the knowledge tables in the application instead of global ACLs. To define access to a scoped knowledge base, specify appropriate user criteria for users, including system administrators and knowledge administrators.
 
@@ -24,7 +24,7 @@ Only users with the admin role of an application and the knowledge\_admin role c
 
 You can't modify the scope of existing knowledge bases. They remain in the global scope. However, you can create a scoped knowledge base to protect sensitive knowledge articles.
 
-To create a scoped knowledge base for an application, in addition to the knowledge\_admin or admin role, you must have access to view and select that application in the application picker \(see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md)\). For example, before you [[create-a-knowledgebase|create a knowledge base]] in the Human Resources: Core application, you must select the Human Resources: Core application in the application picker, and then create the knowledge base. Then, when you create a knowledge base, on the Knowledge base form, the application scope of the knowledge base is set in the **Application** field.
+To create a scoped knowledge base for an application, in addition to the knowledge\_admin or admin role, you must have access to view and select that application in the application picker \(see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md)\). For example, before you create a knowledge base in the Human Resources: Core application, you must select the Human Resources: Core application in the application picker, and then create the knowledge base. Then, when you create a knowledge base, on the Knowledge base form, the application scope of the knowledge base is set in the **Application** field.
 
 **Related topics**  
 
@@ -37,7 +37,3 @@ To create a scoped knowledge base for an application, in addition to the knowled
 
 [Control access at the knowledge base level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUserCriteria.md)
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]
-- [[create-a-knowledgebase|Create a knowledge base]]

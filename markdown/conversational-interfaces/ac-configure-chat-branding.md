@@ -15,7 +15,7 @@ breadcrumb: [Branding your chat client, General chat settings, Configuring Conve
 
 # Set up your Virtual Agent bot's branding
 
-Create different [[virtual-agent-landing-page|Virtual Agent]] branding configurations for the various organizations that use your instance. These configurations apply to the web-based chat and mobile clients only.
+Create different Virtual Agent branding configurations for the various organizations that use your instance. These configurations apply to the web-based chat and mobile clients only.
 
 ## Before you begin
 
@@ -23,13 +23,13 @@ If you're using ServiceNow® mobile, make sure you set up Virtual Agent for mobi
 
 Check for updates and improvements to the Omni-Experience Standard Feature Set application on the ServiceNow Store.
 
-**Note:** Branding for bots in the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] is available through the Microsoft Teams app customization feature. For details, see [MS Teams branding for the conversational integration](https://community.servicenow.com/community?id=community_article&sys_id=3b4f487edbe17490904fa9fb1396195b) in Now Community. Branding for bots in Slack is available as well. For details, see [Configure branding for your Virtual Agent bot in Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/slack-branding-overview.md).
+**Note:** Branding for bots in the Conversational Integration with Microsoft Teams is available through the Microsoft Teams app customization feature. For details, see [MS Teams branding for the conversational integration](https://community.servicenow.com/community?id=community_article&sys_id=3b4f487edbe17490904fa9fb1396195b) in Now Community. Branding for bots in Slack is available as well. For details, see [Configure branding for your Virtual Agent bot in Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/slack-branding-overview.md).
 
 Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Under the **Display Options** section, select **View All** next to **Branding**.
 
@@ -161,7 +161,7 @@ Select this option to display notifications for new messages below or above your
     |Input Background|Background color of the user input bar.|
     |Chat messages|
     |User Bubble Background|Background color of the user chat bubble.|
-    |Agent Bubble Background|Background color of the live [[ci-use-agent-chat|agent chat]] bubble.|
+    |Agent Bubble Background|Background color of the live agent chat bubble.|
     |Bot Bubble Background|Background color of the bot chat bubble.|
     |Link|Color of links presented in the conversation.|
     |Button Background|Background color of buttons used in the conversation.|
@@ -339,7 +339,7 @@ Global.
 
 10. Navigate to the Branding table \[sys\_cs\_branding\_setup.list\], and select the Branding Name you created.
 
-    **Note:** This step is only applicable if you’re configuring an assistant [[using-now-assist-in-va|using Now Assist in Virtual Agent]] [[nava-enhanced-chat|enhanced chat]] or enhanced chat's full-page experience.
+    **Note:** This step is only applicable if you’re configuring an assistant using Now Assist in Virtual Agent enhanced chat or enhanced chat's full-page experience.
 
     1.  Select **Configure** &gt; **Form Layout** from the Additional Actions icon \(\[Omitted image "additional-actions-icon.png"\] Alt text: Additional actions icon\).
 
@@ -358,7 +358,7 @@ Global.
 
 11. Do one of the following to apply the branding configuration:
 
-    -   Apply the branding configuration to a Service Portal Agent Chat Configuration. In the server script that passes page and widget data to an Agent Chat \(Virtual Agent or Live Agent\) conversation, specify the branding key to be used. Items passed in this script are available to all pages in the portal. For details on setting up Service Portal Agent Chat, see [[ac-configure-bot-portal|Add your bot to a portal]].
+    -   Apply the branding configuration to a Service Portal Agent Chat Configuration. In the server script that passes page and widget data to an Agent Chat \(Virtual Agent or Live Agent\) conversation, specify the branding key to be used. Items passed in this script are available to all pages in the portal. For details on setting up Service Portal Agent Chat, see [Add your bot to a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-bot-portal.md).
 
         For example, the following Service Portal Agent Chat Configuration for the Knowledge Portal uses the chat branding key `custom_1`.
 
@@ -393,15 +393,5 @@ Global.
         \[Omitted image "autopilot-msg-chat-window.png"\] Alt text: Message displayed in the chat window informing the user that the Agent has enabled Virtual Agent to help complete the task.
 
 
-**Parent Topic:**[[branding-chat-client|Branding your chat client]]
+**Parent Topic:**[Branding your chat client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/branding-chat-client.md)
 
-## Related
-
-- [[ac-configure-bot-portal|Add your bot to a portal]]
-- [[branding-chat-client|Branding your chat client]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[using-now-assist-in-va|Using Now Assist in Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]

@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Check Definitions**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Check Definitions**.
 
 2.  Select a check definition from the displayed list.
 
@@ -91,6 +91,4 @@ Select the check box to activate the secure parameter.
 
 7.  Enter the secure parameters into the **Command prefix** field of the check definition.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

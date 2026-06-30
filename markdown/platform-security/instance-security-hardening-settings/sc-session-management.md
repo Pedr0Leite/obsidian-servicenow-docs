@@ -14,24 +14,24 @@ breadcrumb: [Hardening settings, Platform Security]
 
 # Session management
 
-This category looks at the security of the application state for a user. Sessions should be unique to each individual, unable to be guessed or shared, and invalidated after periods of inactivity or when not required. This includes factors such as cookie attributes for cookie-based sessions, session token generation, and storage and requirements for federated re-[[c_Authentication|authentication]].
+This category looks at the security of the application state for a user. Sessions should be unique to each individual, unable to be guessed or shared, and invalidated after periods of inactivity or when not required. This includes factors such as cookie attributes for cookie-based sessions, session token generation, and storage and requirements for federated re-authentication.
 
 -   **[Apply continuous authentication policies to mobile sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-apply-continuous-authentication-policies-to-mobile-sessions.md)**  
-Reduce the risk of session hijacking by applying continuous [[authentication-policies|authentication policies]] to mobile sessions.
+Reduce the risk of session hijacking by applying continuous authentication policies to mobile sessions.
 -   **[Minimize absolute session timeout duration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-absolute-session-timeout.md)**  
-Use the **glide.ui.user\_cookie.max\_life\_span\_in\_days** property to set a maximum life span for user cookies created when [[users|users]] log in with the **[[c_ChSetRemMeChkbxCookie|Remember Me]]** checkbox selected. When the cookie expires, users who have selected the **Remember Me** checkbox are forced to reauthenticate into the instance.
+Use the **glide.ui.user\_cookie.max\_life\_span\_in\_days** property to set a maximum life span for user cookies created when users log in with the **Remember Me** checkbox selected. When the cookie expires, users who have selected the **Remember Me** checkbox are forced to reauthenticate into the instance.
 -   **[Define active session timeout exception roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-define-active-session-timeout-exception-roles.md)**  
 Use a system property to exempt roles from active session timeout limits.
 -   **[Enable UserCookie version 3.1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-usercookie-version-3-1.md)**  
 Manage the version of UserCookie that is enabled on your instance to secure the storage of the secret key in the source code.
 -   **[Enforce password reset on api requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-password-reset-on-api-requests.md)**  
-Manage how the [[c_SelfServicePasswordReset|password reset]] functionality operates on your instance.
+Manage how the password reset functionality operates on your instance.
 -   **[Enable HTTP Only Cookie Flag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-http-only-cookie-flag.md)**  
 Use the **glide.cookies.http\_only** property to enable the HTTPOnly attribute for sensitive cookies.
--   **[Invalidate Session After [[oauth-inbound-and-outbound|OAuth]] Token Expiration \[New in [[sec-center-v2|Security Center]] 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-invalidate-session-after-oauth-token-expiration.md)**  
+-   **[Invalidate Session After OAuth Token Expiration \[New in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-invalidate-session-after-oauth-token-expiration.md)**  
 Use a system property to the secure value to prevent users from continuing to use a session via cookies after the OAuth token used to create the session expires.
 -   **[Minimize concurrent interactive session quantity \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-glide-authenticate-max-concurrent-interactive-sessions.md)**  
-Use this property with the [[limit-concurrent-sessions|Limit Concurrent Sessions]] plugin to control the number of [[sc-active-sessions|active sessions]] that can be opened by a user.
+Use this property with the Limit Concurrent Sessions plugin to control the number of active sessions that can be opened by a user.
 -   **[Limit concurrent sessions across all nodes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-limit-concurrent-sessions-across-all-nodes.md)**  
 Use the **glide.authenticate.limit.concurrent.sessions.across.all.nodes** property with the Limit Concurrent Sessions plugin to manage the number of sessions tracked across all nodes.
 -   **[Activate Limit Concurrent Sessions Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-limit-concurrent-sessions-plugin.md)**  
@@ -61,14 +61,3 @@ Use the **glide.ui.user\_cookie.life\_span\_in\_days** property to set the expir
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[users|Users]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[sec-center-v2|Security Center]]
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-active-sessions|Active Sessions]]

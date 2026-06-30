@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-The application automatically creates [[cost-plan-breakdown|cost plan breakdown]] records when you save the cost plan. The cost plan breakdowns are records that specify the estimated and actual costs and the budget at a granular level for specific fiscal periods, such as FY16: M04 and FY16: M05. The demand cost plans are added to the parent program and portfolio.
+The application automatically creates cost plan breakdown records when you save the cost plan. The cost plan breakdowns are records that specify the estimated and actual costs and the budget at a granular level for specific fiscal periods, such as FY16: M04 and FY16: M05. The demand cost plans are added to the parent program and portfolio.
 
 The cost plan breakdowns that specify the estimated cost and actual cost at a granular level for a fiscal period of the demand cost plan are recalculated in the project currency. Similarly, the estimated breakdown amounts of the planned benefit and actual benefit of the demand benefit plans are recalculated in the project currency. The project currency amounts are then rolled up to the cost plan, benefit plan, and the project records.
 
@@ -32,7 +32,7 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open the required [[demand-form|demand form]].
+1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All** and open the required demand form.
 
 2.  In the related links, select **Cost Plans**.
 
@@ -42,7 +42,7 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
 
     -   To add a cost plan, select **New**.
     -   To update the details of an existing cost plan, select the record and then select **Manage**.
-5.  In the [[demand-plan-form|cost plan form]], fill in the fields.
+5.  In the cost plan form, fill in the fields.
 
     For a description of the field names, see [Cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-plan-form.md).
 
@@ -58,8 +58,3 @@ If you’re creating benefit plan for a demand with the PPM Standard Multicurren
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[demand-form|Demand form]]
-- [[demand-plan-form|Cost plan form]]

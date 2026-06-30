@@ -14,7 +14,7 @@ breadcrumb: [JFrog, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Associate steps from GitHub, GitLab, and Azure DevOps with JFrog
 
-JFrog Artifactory support for GitHub Actions, Azure DevOps, and GitLab in [[devops-landing-page-new|DevOps Change Velocity]] enables you to import the artifact data published to JFrog Artifactory for the corresponding pipeline executions. This can then be linked with all the DevOps data collected in DevOps Change Velocity, like Work Items, Commits, Quality Summary, Test Runs, and so on, which helps to trace and identify the root causes.
+JFrog Artifactory support for GitHub Actions, Azure DevOps, and GitLab in DevOps Change Velocity enables you to import the artifact data published to JFrog Artifactory for the corresponding pipeline executions. This can then be linked with all the DevOps data collected in DevOps Change Velocity, like Work Items, Commits, Quality Summary, Test Runs, and so on, which helps to trace and identify the root causes.
 
 **Before you begin**
 
@@ -125,6 +125,3 @@ The selected steps are associated with the JFrog tool. To disassociate a step, s
 
 **Parent Topic:**[JFrog integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-jfrog-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

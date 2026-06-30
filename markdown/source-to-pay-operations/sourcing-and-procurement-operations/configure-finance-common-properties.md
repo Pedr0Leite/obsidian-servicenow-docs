@@ -14,7 +14,7 @@ breadcrumb: [Properties installed Finance Common Architecture, Install Sourcing 
 
 # Configure properties in Finance Common Architecture
 
-Configure properties for various settings used in [[psm-overview|Sourcing and Procurement Operations]] application.
+Configure properties for various settings used in Sourcing and Procurement Operations application.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: sn\_fin.finance\_admin
 
 **Parent Topic:**[Properties installed with Finance Common Architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/properties-for-finance-common.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]

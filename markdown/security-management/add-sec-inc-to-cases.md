@@ -12,11 +12,11 @@ breadcrumb: [Security incidents in cases, Case creation from security artifacts,
 
 # Add security incidents to an existing case
 
-You can add security incidents to one or more existing cases. After the security incidents have been added to cases, you can use [[case-mgmt|Security Case Management]] to analyze the data.
+You can add security incidents to one or more existing cases. After the security incidents have been added to cases, you can use Security Case Management to analyze the data.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use Security Case Management.
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -47,15 +47,10 @@ You need to navigate to the security incidents you want to add to existing cases
     A message indicates that the selected records have been added to the cases, along with a link to the cases in Security Case Management.
 
 
-**Parent Topic:**[[case-in-sir|Security incidents in cases]]
+**Parent Topic:**[Security incidents in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-in-sir.md)
 
 **Related topics**  
 
 
 [Create a case from security incidents]()
 
-## Related
-
-- [[case-in-sir|Security incidents in cases]]
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]

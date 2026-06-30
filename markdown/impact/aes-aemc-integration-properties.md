@@ -33,8 +33,8 @@ Role required: sn\_se.scan\_engine\_admin
 
 5.  Change **Subflow** to `SE App Deployment Pipeline` and save.
 
-6.  [[configure-scan-engine-properties|Configure Scan Engine properties]]
-7.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** &gt; **My SN Instances** tab and select **New**.
+6.  Configure Scan Engine properties
+7.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** &gt; **My SN Instances** tab and select **New**.
 
 8.  Create a single record with the following values:
 
@@ -58,15 +58,10 @@ Role required: sn\_se.scan\_engine\_admin
     |Scan timeout|10 minutes|
 
 
-**Parent Topic:**[[deployment-sync-integrations|Deployment and synchronization integrations]]
+**Parent Topic:**[Deployment and synchronization integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/deployment-sync-integrations.md)
 
 **Related topics**  
 
 
 [Configure update set integration]()
 
-## Related
-
-- [[deployment-sync-integrations|Deployment and synchronization integrations]]
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[impact-landing-page|Impact]]

@@ -26,11 +26,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Calendar Providers**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Calendar Providers**.
 
 2.  Select the calendar provider for which you want to synchronize past reservations.
 
-3.  On the [[wsd-calendar-provider-form-fields|Provider form]], ensure that the **Active** option is enabled.
+3.  On the Provider form, ensure that the **Active** option is enabled.
 
 4.  Enable the **Sync past reservations** field.
 
@@ -49,7 +49,3 @@ Role required: admin
 
 The past reservations are synchronized.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[wsd-calendar-provider-form-fields|Provider form]]

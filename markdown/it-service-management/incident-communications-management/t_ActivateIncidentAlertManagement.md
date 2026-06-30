@@ -14,7 +14,7 @@ breadcrumb: [Configuring Incident Communications Management, Incident Communicat
 
 # Install and activate Incident Communications Management
 
-Install and activate the [[c_IncidentAlertManagement|Incident Communications Management]] \(com.snc.iam\) plugin if you have the admin role.
+Install and activate the Incident Communications Management \(com.snc.iam\) plugin if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, ia\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -42,7 +42,3 @@ Role required: major\_incident\_manager, ia\_admin, or admin
 
 [Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/c_IncidentAlertManagement.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[dex-workspace-application-tab|Applications]]

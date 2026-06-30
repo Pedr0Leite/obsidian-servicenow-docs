@@ -12,7 +12,7 @@ breadcrumb: [Create a Smart Assessment template, Completing general administrati
 
 # Set up Legacy assessment template
 
-Create your own questionnaire \(assessment\) template instead of using the default template in the [[grc-opres-landing-page|Operational Resilience]] application to suit your business needs.
+Create your own questionnaire \(assessment\) template instead of using the default template in the Operational Resilience application to suit your business needs.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Create your own questionnaire \(assessment\) template and request the responses 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Operational Resilience** &gt; **[[Administration|Administration]]** &gt; **[[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Administration** &gt; **Assessment Templates**.
 
-2.  To [[sae-asmnt-template-create|create an assessment template]], click **New** as shown in the following example.
+2.  To create an assessment template, click **New** as shown in the following example.
 
     \[Omitted image "admin-assess-temp-new.png"\] Alt text: New risk assessment.
 
@@ -36,12 +36,6 @@ Create your own questionnaire \(assessment\) template and request the responses 
 
     \[Omitted image "new-assess-temp-list.png"\] Alt text: New assessment.
 
-    For a description of the field values on the Assessment Templates form, see [[new-assessment-reference|Assessment Metric Type form]].
+    For a description of the field values on the Assessment Templates form, see [Assessment Metric Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/new-assessment-reference.md).
 
-## Related
 
-- [[new-assessment-reference|Assessment Metric Type form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[Administration|Administration]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[sae-asmnt-template-create|Create an assessment template]]

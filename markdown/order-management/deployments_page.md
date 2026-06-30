@@ -12,15 +12,15 @@ breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure
 
 # Viewing blueprint deployments
 
-The Deployments page shows the fifty most recently deployed [[blueprints|blueprints]] together with their timestamps and associated users.
+The Deployments page shows the fifty most recently deployed blueprints together with their timestamps and associated users.
 
-In CPQ Admin's [[cpq-utilities|Utilities]] menu, the first visible page is the Deployments page.
+In CPQ Admin's Utilities menu, the first visible page is the Deployments page.
 
 \[Omitted image "cpq-deployments-page.png"\] Alt text: Deployments page
 
 This page shows the fifty most recent blueprints by the date and time of the deployment, together with the user responsible.
 
-Because the configuration’s behavior can change depending on the [[rules_101|rules]], [[fields|fields]], and enrichments that have changed since the last deployment, this page is useful for [[troubleshooting|troubleshooting]]. Noting the last time that a deployment behaved as intended is useful for both the admin implementing CPQ and for our support team when helping solve an issue.
+Because the configuration’s behavior can change depending on the rules, fields, and enrichments that have changed since the last deployment, this page is useful for troubleshooting. Noting the last time that a deployment behaved as intended is useful for both the admin implementing CPQ and for our support team when helping solve an issue.
 
 Note that the Last Deployed column’s date and time will differ from the completion date and time as viewed from the notification bell. This is because the Last Deployed column shows the last time a blueprint was submitted for deployment, not when the deployment was completed. This is helpful in determining how long a deployment takes to complete, especially for large blueprints with hundreds or thousands of fields and rules.
 
@@ -31,13 +31,5 @@ If your blueprints take longer than thirty minutes to complete, create a support
 **Related topics**  
 
 
-[[blueprints_deployment_history|Tracking a blueprint's deployment history]]
+[Tracking a blueprint's deployment history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/blueprints_deployment_history.md)
 
-## Related
-
-- [[blueprints_deployment_history|Tracking a blueprint's deployment history]]
-- [[blueprints|Blueprints]]
-- [[cpq-utilities|Utilities]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[troubleshooting|Troubleshooting]]

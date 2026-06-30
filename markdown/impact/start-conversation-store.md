@@ -12,7 +12,7 @@ breadcrumb: [Impact Conversations, Using Impact, Impact]
 
 # Start a conversation
 
-You can start a message thread with the [[impact-landing-page|Impact]] Experts.
+You can start a message thread with the Impact Experts.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Impact user or Impact executive
 
 ## About this task
 
-When you need support from the [[impact-squad|Impact Squad]] while you're on pages such as Initiatives, Accelerators, [[impact-in-platform-business-outcomes|Value management]], or [[platform-health-idi|Platform health]] on Impact, you can start a conversation.
+When you need support from the Impact Squad while you're on pages such as Initiatives, Accelerators, Value management, or Platform health on Impact, you can start a conversation.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ When you need support from the [[impact-squad|Impact Squad]] while you're on pag
 
 4.  Search for and select one or more recipients in **Send to** field.
 
-5.  Enter your message in **How can we [[io-help|help]]?**
+5.  Enter your message in **How can we help?**
 
 6.  Attach supporting files by dragging them into the upload area or selecting **+ Add file**.
 
@@ -53,13 +53,5 @@ When you need support from the [[impact-squad|Impact Squad]] while you're on pag
 
 ## What to do next
 
-For working with the features available in the **Conversations** workspace, see [[working-with-conversations|Working with Conversations]].
+For working with the features available in the **Conversations** workspace, see [Working with Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/working-with-conversations.md).
 
-## Related
-
-- [[working-with-conversations|Working with Conversations]]
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[impact-in-platform-business-outcomes|Value management]]
-- [[platform-health-idi|Platform Health]]
-- [[io-help|Help]]

@@ -14,10 +14,10 @@ breadcrumb: [Workplace Service Delivery for Mobile, Workplace Service Delivery, 
 
 # Configure Workplace Service Delivery for Mobile
 
-Configure Workplace Service Delivery for Mobile to make reservations using the [[mobile-employee-experience|Now Mobile app]].
+Configure Workplace Service Delivery for Mobile to make reservations using the Now Mobile app.
 
 1.  [Install Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/install-wsd-for-mobile.md)  
-Install the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] application from the ServiceNow® Store.
+Install the Workplace Service Delivery for Mobile application from the ServiceNow® Store.
 2.  [Mobile Wayfinding Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/mobile-wayfinding.md)  
 Configure map providers to enable Workplace Service Delivery for Mobile users to get directions to another workplace easily.
 3.  [Enable map view to create reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/enable-map-view-mobile-reservations.md)  
@@ -31,7 +31,3 @@ Configure map properties to enable reservation states, occupancy states, display
 
 **Parent Topic:**[Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/wsd-mobile-overview.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

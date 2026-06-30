@@ -15,7 +15,7 @@ breadcrumb: [CMDB Coverage, Configuration Management Database \(CMDB\), Configur
 
 # Exploring CMDB Coverage
 
-Learn about [[cmdb-coverage|CMDB Coverage]] and review the benefits it can provide for users in your organization.
+Learn about CMDB Coverage and review the benefits it can provide for users in your organization.
 
 ## CMDB Coverage overview
 
@@ -24,7 +24,7 @@ Organizations often can't identify whether their CMDB data is complete despite u
 The CMDB Coverage application includes the following features:
 
 -   Reconciliation and correlation of IPAM data with discovered configuration items \(CIs\).
--   Identification of missing data and highlighting the gaps in [[ip-address|IP address]] coverage to ensure compliance with enterprise standards.
+-   Identification of missing data and highlighting the gaps in IP address coverage to ensure compliance with enterprise standards.
 -   Continuous coverage tracking.
 -   Discovery schedule gap detection, where the IPAM subnet data is compared to the scheduled discovery ranges \(IPv4 and IPv6 addresses\) to identify missing scheduled discovery ranges.
 
@@ -56,7 +56,7 @@ sn\_cmdb\_admin
 
 </td><td>
 
-Users with the sn\_cmdb\_admin role can configure the application. These users can create, read, write, and delete records in the following tables:-   [[cmdb-coverage-initialization|CMDB Coverage Initialization]] Tracker \[sn\_cmdb\_ip\_cov\_init\_tracker\]
+Users with the sn\_cmdb\_admin role can configure the application. These users can create, read, write, and delete records in the following tables:-   CMDB Coverage Initialization Tracker \[sn\_cmdb\_ip\_cov\_init\_tracker\]
 -   Binary IP Address \[sn\_cmdb\_ip\_cov\_binary\_ip\_address\]
 -   IP Coverage CI Table Configuration \[sn\_cmdb\_ip\_cov\_ci\_config\]
 -   IP Address Staging \[sn\_cmdb\_ip\_cov\_ip\_staging\]
@@ -133,8 +133,3 @@ To learn more about configuring and using CMDB Coverage, see:
 -   [Using CMDB Coverage dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-use.md)
 -   [CMDB Coverage reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-reference.md)
 
-## Related
-
-- [[cmdb-coverage|CMDB Coverage]]
-- [[ip-address|IP Address]]
-- [[cmdb-coverage-initialization|CMDB Coverage initialization]]

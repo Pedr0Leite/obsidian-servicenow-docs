@@ -12,13 +12,13 @@ breadcrumb: [Configure case digests, Configure case management, Case management,
 
 # Create a case digest document template
 
-Create a template to use for generating [[case-digest-case-action-summary|case action summaries]] or post case review documents.
+Create a template to use for generating case action summaries or post case review documents.
 
 ## Before you begin
 
 Role required: admin
 
-Before creating a document template for case digests \(used in Case Action Summaries and [[case-digest-post-case-review|Post Case Reviews]]\), ensure that the required plugins are active in your instance.
+Before creating a document template for case digests \(used in Case Action Summaries and Post Case Reviews\), ensure that the required plugins are active in your instance.
 
 -   Case Digests \(`com.sn_csm_case_digest`\)
 -   Outsourced for customer service \(`com.sn_csm_outsource`\)
@@ -133,10 +133,5 @@ The content in the case action summary that is for internal users only. This fie
 **Related topics**  
 
 
-[[create-case-review-type|Create a case digest configuration]]
+[Create a case digest configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-review-type.md)
 
-## Related
-
-- [[create-case-review-type|Create a case digest configuration]]
-- [[case-digest-case-action-summary|Case action summaries]]
-- [[case-digest-post-case-review|Post case reviews]]

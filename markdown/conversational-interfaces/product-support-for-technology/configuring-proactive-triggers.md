@@ -14,7 +14,7 @@ breadcrumb: [Proactive Triggers, Manage people and work, Conversational Interfac
 
 # Configuring Proactive Triggers
 
-Plan, configure, and review your [[proactive-triggers-landing-page|Proactive Triggers]].
+Plan, configure, and review your Proactive Triggers.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The following steps provide a high-level overview of the Proactive Triggers conf
 
 ## Procedure
 
-1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General**, and then select the **View All** button next to Proactive Triggers's **Rules**.
+1.  Navigate to **Conversational Interfaces** &gt; **Settings** &gt; **General**, and then select the **View All** button next to Proactive Triggers's **Rules**.
 
 2.  Select **New** to [create rules and define actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/create-rule-actions.md) that are triggered by those rules.
 
@@ -45,7 +45,3 @@ The following steps provide a high-level overview of the Proactive Triggers conf
 
 [Review execution logging tables and explore common issues and their resolutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/manage-proactive-triggers-2.md) to ensure that your Proactive Triggers feature is working as expected.
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[convint-landing-page|Conversational Interfaces]]

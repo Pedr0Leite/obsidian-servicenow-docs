@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
 2.  Select a Campus.
 
@@ -44,7 +44,7 @@ Role required: admin
 
 8.  The Create a new source dialog box appears.
 
-    \[Omitted image "wsd-enable-cadv2-option.png"\] Alt text: Option to enable the new [[autocad-v2-config-layout|CAD configuration]] option.
+    \[Omitted image "wsd-enable-cadv2-option.png"\] Alt text: Option to enable the new CAD configuration option.
 
 9.  Complete the following information:
 
@@ -53,7 +53,7 @@ Role required: admin
     -   Floor: Name of the floor where the CAD configuration changes have to be made or where the CAD file is to be imported. For example; Floor 3.
     -   Use the new Autocad processing tool: By default this option is enabled.
 
-        **Note:** Disable the **Use the new Autocad processing tool** button if you want to continue using the [[autocad-processor-v1|Autocad tool]] provided in earlier versions of Indoor Mapping \(pre 1.8.0 version\). For more information, see [Import CAD files to Map Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/CAD-file-import.md).
+        **Note:** Disable the **Use the new Autocad processing tool** button if you want to continue using the Autocad tool provided in earlier versions of Indoor Mapping \(pre 1.8.0 version\). For more information, see [Import CAD files to Map Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/CAD-file-import.md).
 
 10. Review the CAD guidelines by selecting the **Click here** link.
 
@@ -68,8 +68,3 @@ Role required: admin
 
 **Next topic:**[CAD configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/autocad-v2-config-layout.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[autocad-v2-config-layout|CAD configuration]]
-- [[autocad-processor-v1|Autocad tool]]

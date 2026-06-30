@@ -27,37 +27,25 @@ ServiceNow provides custom F5 activities, built from the [REST web service activ
 -   Configure the virtual server for vlans, irules, pool, and persistence.
 
 -   **[Add F5 Pool Member activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_AddF5PoolMemberActivity.md)**  
-The [[r_AddF5PoolMemberActivity|Add F5 Pool Member activity]] adds a member to an F5 load balancer pool.
+The Add F5 Pool Member activity adds a member to an F5 load balancer pool.
 -   **[Get F5 Pool Member activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_GetF5PoolMemberActivity.md)**  
-The [[r_GetF5PoolMemberActivity|Get F5 Pool Member activity]] returns the pool members and verifies the pool's status.
+The Get F5 Pool Member activity returns the pool members and verifies the pool's status.
 -   **[Delete F5 Virtual Server activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_DeleteF5VirtualServerActivity.md)**  
-The [[r_DeleteF5VirtualServerActivity|Delete F5 Virtual Server activity]] deletes a virtual server from an F5 load balancer pool.
+The Delete F5 Virtual Server activity deletes a virtual server from an F5 load balancer pool.
 -   **[Check F5 Pool activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_CheckF5PoolActivity.md)**  
-The [[r_CheckF5PoolActivity|Check F5 Pool activity]] checks the status of a pool to determine if it is available to accept traffic.
+The Check F5 Pool activity checks the status of a pool to determine if it is available to accept traffic.
 -   **[Add F5 Profile to Virtual Server activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_AddF5ProfileToVirtualServerActivity.md)**  
-The [[r_AddF5ProfileToVirtualServerActivity|Add F5 Profile to Virtual Server activity]] adds a profile to a virtual server assigned to an F5 load balancer pool.
+The Add F5 Profile to Virtual Server activity adds a profile to a virtual server assigned to an F5 load balancer pool.
 -   **[Modify F5 Virtual Server activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ModifyF5VirtualServerActivity.md)**  
-The [[r_ModifyF5VirtualServerActivity|Modify F5 Virtual Server activity]] configures a virtual server assigned to an F5 load balancer pool with irules and a vlan.
+The Modify F5 Virtual Server activity configures a virtual server assigned to an F5 load balancer pool with irules and a vlan.
 -   **[Add F5 Virtual Server activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_AddF5VirtualServerActivity.md)**  
-The [[r_AddF5VirtualServerActivity|Add F5 Virtual Server activity]] adds a virtual server.
+The Add F5 Virtual Server activity adds a virtual server.
 -   **[Delete F5 Pool Member activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_DeleteF5PoolMemberActivity.md)**  
-The [[r_DeleteF5PoolMemberActivity|Delete F5 Pool Member activity]] deletes an F5 load balancer pool member.
+The Delete F5 Pool Member activity deletes an F5 load balancer pool member.
 -   **[Delete F5 Pool activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_DeleteF5PoolActivity.md)**  
-The [[r_DeleteF5PoolActivity|Delete F5 Pool activity]] deletes an F5 load balancer pool.
+The Delete F5 Pool activity deletes an F5 load balancer pool.
 -   **[Add F5 Pool activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_AddF5PoolActivity.md)**  
-The [[r_AddF5PoolActivity|Add F5 Pool activity]] creates the F5 load balancer pool.
+The Add F5 Pool activity creates the F5 load balancer pool.
 
 **Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md)
 
-## Related
-
-- [[r_AddF5PoolMemberActivity|Add F5 Pool Member activity]]
-- [[r_GetF5PoolMemberActivity|Get F5 Pool Member activity]]
-- [[r_DeleteF5VirtualServerActivity|Delete F5 Virtual Server activity]]
-- [[r_CheckF5PoolActivity|Check F5 Pool activity]]
-- [[r_AddF5ProfileToVirtualServerActivity|Add F5 Profile to Virtual Server activity]]
-- [[r_ModifyF5VirtualServerActivity|Modify F5 Virtual Server activity]]
-- [[r_AddF5VirtualServerActivity|Add F5 Virtual Server activity]]
-- [[r_DeleteF5PoolMemberActivity|Delete F5 Pool Member activity]]
-- [[r_DeleteF5PoolActivity|Delete F5 Pool activity]]
-- [[r_AddF5PoolActivity|Add F5 Pool activity]]

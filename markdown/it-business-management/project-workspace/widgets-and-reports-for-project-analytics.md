@@ -14,13 +14,13 @@ breadcrumb: [Analyze project analytics from Project Workspace, Managing projects
 
 # Widgets and reports for project analytics
 
-Widgets and reports that provide information for the project summary in the Analytics page of the [[project-workspace-landing-page|project workspace]] for Agile, Waterfall, and Hybrid projects.
+Widgets and reports that provide information for the project summary in the Analytics page of the project workspace for Agile, Waterfall, and Hybrid projects.
 
 ## Project widgets and reports
 
 Widgets and reports provide information that enables you to view and track the progress of your Agile, Waterfall, and Hybrid project.
 
-**Note:** You must have the [[agile-landing-page|Agile Development 2.0]] plugin installed to view the widgets and reports for your Agile and Hybrid projects. The Project Summary Waterfall, Hybrid, and Scrum dashboards are available in the Next experience UI framework.
+**Note:** You must have the Agile Development 2.0 plugin installed to view the widgets and reports for your Agile and Hybrid projects. The Project Summary Waterfall, Hybrid, and Scrum dashboards are available in the Next experience UI framework.
 
 Your system administrator can configure the widgets and reports in the dashboard to display project information on the **Analytics** page. The following dashboards are available:
 
@@ -159,7 +159,7 @@ Tasks by State
 
 </td><td>
 
-Donut chart showing the number of [[t_CreateAProjectTask|project tasks]] in different stages of development such as Pending, Open, Work In Progress, and Closed Complete. Click the appropriate state to view the task details.
+Donut chart showing the number of project tasks in different stages of development such as Pending, Open, Work In Progress, and Closed Complete. Click the appropriate state to view the task details.
 
 </td></tr><tr><td>
 
@@ -187,7 +187,7 @@ Track the state of various project tasks across the release based on the assigne
 
 </td></tr><tr><td>
 
-[[c_ResourcePlans|Resource Plans]] by State
+Resource Plans by State
 
 </td><td>
 
@@ -301,7 +301,7 @@ Comparison of total confirmed, allocated, and actual hours for the project.
 
 </td></tr><tr><td>
 
-[[c_TimeCards|Time Cards]] — Pending Approval
+Time Cards — Pending Approval
 
 </td><td>
 
@@ -318,10 +318,3 @@ List of users who did not submit their time cards for the selected project, and 
 </td></tr></tbody>
 </table>**Parent Topic:**[Analyze project analytics from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/analyze-project-analytics-in-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_TimeCards|Time cards]]

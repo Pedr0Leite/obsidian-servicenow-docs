@@ -14,7 +14,7 @@ breadcrumb: [Tracing systems in Emergency Exposure Management, Set up Emergency 
 
 # System properties for tracing systems in Emergency Exposure Management
 
-System properties associated with tracing systems that are available in the [[emergency-exposure-management|Emergency Exposure Management]] application.
+System properties associated with tracing systems that are available in the Emergency Exposure Management application.
 
 To configure the system properties available for a tracing system, navigate to **Emergency Exposure Management** &gt; **Administration** &gt; **Tracing Systems** and open the tracing system record.
 
@@ -243,7 +243,7 @@ Tracing system: Kinexon SafeZone
 
 </td><td>
 
-API endpoint used to log in to the KINEXON SafeZone instance and access KINEXON data. This API endpoint is also used to fetch information required for [[contact-tracing|Contact Tracing]]. Replace the default endpoint with the endpoint of your instance.
+API endpoint used to log in to the KINEXON SafeZone instance and access KINEXON data. This API endpoint is also used to fetch information required for Contact Tracing. Replace the default endpoint with the endpoint of your instance.
 
 </td></tr><tr><td>
 
@@ -295,8 +295,3 @@ Determines the amount of time that can pass \(in seconds\) between any two conse
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[contact-tracing|Contact Tracing]]

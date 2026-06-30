@@ -42,10 +42,8 @@ For example, an Open Enrollment for Benefits campaign can have tasks that appear
 
     The Schedule Content related list appears. For more information on scheduling your content, see [Scheduling the delivery of content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-schedule-content.md).
 
-    If you want your [[ec-to-do-content|to-do content]] to be a link you can add to a banner or styled content, see [Add or modify links to other content sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-link-content.md).
+    If you want your to-do content to be a link you can add to a banner or styled content, see [Add or modify links to other content sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-link-content.md).
 
     To request your content to be translated into a different language, select the **Translate content** button at the top. This button only appears when the sn\_cd.enable\_localization\_framework\_integration system property is activated. For more information, see [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md).
 
-## Related
 
-- [[ec-to-do-content|To-do content]]

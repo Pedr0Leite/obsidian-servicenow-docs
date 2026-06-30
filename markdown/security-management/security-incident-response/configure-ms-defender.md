@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Defender integration for Security Operations, Security In
 
 # Install and Configure
 
-[[configure-cortex-xsiam-siem|Install and Configure]] Microsoft Defender integration from the ServiceNow® Store to control how incidents are retrieved, processed, and converted into security incidents within SIR.
+Install and Configure Microsoft Defender integration from the ServiceNow® Store to control how incidents are retrieved, processed, and converted into security incidents within SIR.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 1.  Download **Microsoft Defender** integration from the ServiceNow® Store and install it.
 
-2.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for **Microsoft Defender-Incident Ingestion Configuration** tile, and select **Configure**.
 
@@ -94,7 +94,3 @@ Client secret of your registered application in the Microsoft portal.
 
 [Create an incident profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-defender-profile.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

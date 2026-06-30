@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Migrate existing safety documents to the Document library
 
-Migrate your existing safety documents from the deprecated **Standards and Documents** list to the new **[[health-safety-overview|Health and Safety]] document library** list.
+Migrate your existing safety documents from the deprecated **Standards and Documents** list to the new **Health and Safety document library** list.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Use the Document Migration tool to seamlessly move your existing safety document
 
 [Add a Health and Safety visitor]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

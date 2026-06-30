@@ -78,7 +78,7 @@ Live Mention \[live\_mention\]
 
 </td><td>
 
-Stores the profiles mentioned in a message. [[reference-document-management|References]] sys\_user table.
+Stores the profiles mentioned in a message. References sys\_user table.
 
 </td></tr><tr><td>
 
@@ -163,6 +163,3 @@ Maintains like ratings for posts. Access at **Live Feed** &gt; **Feed Administra
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)
 
-## Related
-
-- [[reference-document-management|References]]

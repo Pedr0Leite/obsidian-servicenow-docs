@@ -14,7 +14,7 @@ breadcrumb: [Creating a metric rule, Alert rules, Configure, Digital End-User Ex
 
 # Add an alert action
 
-Set up an alert action with [[proactive-engagement-landing-page|Proactive Engagement]] for [[dex-landing|Digital End-User Experience]] to detect the digital experience issues and automate resolution actions.
+Set up an alert action with Proactive Engagement for Digital End-User Experience to detect the digital experience issues and automate resolution actions.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required: sn\_dex.admin
 
     For a description of the field values, see [Resolution for Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/resolutions.md).
 
-3.  Select **Continue to Engagement [[settings-mobile|Settings]]**.
+3.  Select **Continue to Engagement Settings**.
 
 4.  Configure the engagement settings to facilitate self-resolution of issues through predefined solutions.
 
@@ -39,8 +39,4 @@ Role required: sn\_dex.admin
 
 5.  Select **Add Resolution**.
 
-## Related
 
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-landing|Digital End-User Experience]]
-- [[settings-mobile|Settings]]

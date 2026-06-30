@@ -14,11 +14,11 @@ breadcrumb: [MFA factor policies, MFA verification methods, Configuring MFA, Mul
 
 # FIDO2 as an MFA factor
 
-You can [[configure-fido-mfa-factor|configure FIDO2 as an MFA factor]] policy to enforce MFA for yours.
+You can configure FIDO2 as an MFA factor policy to enforce MFA for yours.
 
-FIDO2 is a password-less [[c_Authentication|authentication]] standard that enables [[users|users]] to authenticate using a physical security key or biometric authentication. It provides a more secure alternative to traditional MFA methods, reducing the risk of phishing and other cyberattack.
+FIDO2 is a password-less authentication standard that enables users to authenticate using a physical security key or biometric authentication. It provides a more secure alternative to traditional MFA methods, reducing the risk of phishing and other cyberattack.
 
-The FIDO2 factor policy enhancement provides a secure authentication method to your [[mfa-landing|multi-factor authentication]] \(MFA\) [[ca-policies|policies]]. You can configure FIDO2 as an MFA factor policy option, providing a higher level of security compared to traditional methods like [[email|Email]] and SMS.
+The FIDO2 factor policy enhancement provides a secure authentication method to your multi-factor authentication \(MFA\) policies. You can configure FIDO2 as an MFA factor policy option, providing a higher level of security compared to traditional methods like Email and SMS.
 
 \[Omitted image "biometirc-mfa.png"\] Alt text: MFA- Biometric or Hardware keys
 
@@ -167,11 +167,3 @@ Sees Email and Authenticator option during log in. The user can register FIDO2 d
 </td></tr></tbody>
 </table>By configuring FIDO2 as an MFA factor policy, you can significantly enhance the security of your authentication processes.
 
-## Related
-
-- [[configure-fido-mfa-factor|Configure FIDO2 as an MFA factor]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[ca-policies|Policies]]
-- [[email|Email]]

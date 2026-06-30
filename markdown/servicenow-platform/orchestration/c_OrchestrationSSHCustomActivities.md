@@ -14,7 +14,7 @@ breadcrumb: [Orchestration activity packs, Classic Orchestration, ServiceNow AI 
 
 # SSH activity pack
 
-Orchestration provides an activity pack of [[c_OrchestrationSSHActivities|SSH activities]] that were customized using the ServiceNow activity designer.
+Orchestration provides an activity pack of SSH activities that were customized using the ServiceNow activity designer.
 
 These activities perform the same functions as SSH activities by the same name from previous releases and replace those activities for all new workflows. The custom SSH activities were built with the [Create an SSH activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnSSHActivity.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
@@ -23,30 +23,19 @@ These activities perform the same functions as SSH activities by the same name f
 To use the SSH custom activities, you must [request activation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ActivateAnActivityPack.md) of the Orchestration - SSH plugin.
 
 -   **[Secure Copy activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SecureCopyActivity.md)**  
-The [[r_SecureCopyActivity|Secure Copy activity]] copies a file from one host to another, without storing the copied file on the [[mid-server-landing|MID Server]].
+The Secure Copy activity copies a file from one host to another, without storing the copied file on the MID Server.
 -   **[Files Compare activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_FilesCompareActivity.md)**  
-The [[r_FilesCompareActivity|Files Compare activity]] compares two files on a Linux or UNIX computer.
+The Files Compare activity compares two files on a Linux or UNIX computer.
 -   **[File Read activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_FileReadActivity.md)**  
-The [[r_FileReadActivity|File Read activity]] reads a file on a Linux or UNIX computer.
+The File Read activity reads a file on a Linux or UNIX computer.
 -   **[File Write activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_FileWriteActivity.md)**  
-The [[r_FileWriteActivity|File Write activity]] writes a file on a Linux or UNIX computer.
+The File Write activity writes a file on a Linux or UNIX computer.
 -   **[File Copy activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_FileCopyActivity.md)**  
-The custom [[r_FileCopyActivity|File Copy activity]] copies a file on a Linux or UNIX computer.
+The custom File Copy activity copies a file on a Linux or UNIX computer.
 -   **[File Replace String activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_FileReplaceStringActivity.md)**  
-The [[r_FileReplaceStringActivity|File Replace String activity]] finds and replaces a string in a file on a Linux or UNIX computer.
+The File Replace String activity finds and replaces a string in a file on a Linux or UNIX computer.
 -   **[Reset Linux User Password activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_ResetLinuxUserPasswordActivity.md)**  
-The [[r_ResetLinuxUserPasswordActivity|Reset Linux User Password activity]] resets the password for a given user on a Linux computer.
+The Reset Linux User Password activity resets the password for a given user on a Linux computer.
 
 **Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md)
 
-## Related
-
-- [[c_OrchestrationSSHActivities|SSH activities]]
-- [[r_SecureCopyActivity|Secure Copy activity]]
-- [[mid-server-landing|MID Server]]
-- [[r_FilesCompareActivity|Files Compare activity]]
-- [[r_FileReadActivity|File Read activity]]
-- [[r_FileWriteActivity|File Write activity]]
-- [[r_FileCopyActivity|File Copy activity]]
-- [[r_FileReplaceStringActivity|File Replace String activity]]
-- [[r_ResetLinuxUserPasswordActivity|Reset Linux User Password activity]]

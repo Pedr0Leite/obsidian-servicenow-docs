@@ -22,7 +22,7 @@ Role required: sn\_customerservice\_manager, admin
 
 Administrators and customer service managers can create contracts for a household. These contracts apply to the current members of that household.
 
-When a case is created for a household or a consumer, the **Contract** field on the [[r_CustomerServiceCaseForm|Case form]] [[migration-lists|lists]] the available contracts:
+When a case is created for a household or a consumer, the **Contract** field on the Case form lists the available contracts:
 
 -   If the **Household** and **Consumer** fields are filled in, the **Contract** field lists the contracts for both the consumer and household.
 -   If only the **Household** field is filled in, the **Contract** field lists the contracts for the household.
@@ -44,15 +44,10 @@ When a case is created for a household or a consumer, the **Contract** field on 
 
 5.  Fill in the remaining fields on the Contract form.
 
-    For more information, see [[create-csm-service-contracts|Create service contracts]].
+    For more information, see [Create service contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-service-contracts.md).
 
 6.  Select **Submit**.
 
-    The contract is added to the Contracts related list on the [[data-model-household-form|Household form]].
+    The contract is added to the Contracts related list on the Household form.
 
-## Related
 
-- [[create-csm-service-contracts|Create service contracts]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[data-model-household-form|Household form]]

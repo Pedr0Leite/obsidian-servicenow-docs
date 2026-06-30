@@ -22,11 +22,11 @@ Role required: analytics\_admin
 
 ## About this task
 
-This task details how to set the various tracking consent policy options you have in the [[user-exp-analytics-landing|Usage Insights]] Consent Policies page. You have an option to return the policies to the default values. By default, all countries are set to No Consent Required. For a detailed explanation about the types of consent policies available, see [Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-types.md).
+This task details how to set the various tracking consent policy options you have in the Usage Insights Consent Policies page. You have an option to return the policies to the default values. By default, all countries are set to No Consent Required. For a detailed explanation about the types of consent policies available, see [Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-types.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Usage Insights Settings** &gt; **Consent Policies**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Usage Insights Settings** &gt; **Consent Policies**.
 
     The Usage Insights Consent Policies page displays.
 
@@ -79,7 +79,3 @@ Procedure
 </table>
 **Parent Topic:**[Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-types.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

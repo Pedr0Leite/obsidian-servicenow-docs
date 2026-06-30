@@ -22,8 +22,8 @@ Structural limits that apply to solution configurations, including hierarchy dep
 |Circular references|Not permitted. A blueprint cannot appear more than once in any path from a child configuration back to the solution root.|
 |Configurable products per action|One configurable product per configurable product action. To add multiple child configurations from a single rule, add multiple configurable product actions to that rule.|
 |Field mapping direction|Parent to child only, one level at a time. To continue a mapping across multiple levels, define the mapping on each blueprint in the chain.|
-|Field types supported for mapping|Number, Text, Boolean, and Picklist only. For the full list, see [[define-field-mappings-sol-config|Define field mappings for a solution configuration]] .|
-|Sets and [[product_picker_overview|Product Pickers]] in mapping|Mapping of an entire Set or an entire Product Picker is not supported. [[fields|Fields]] inside a Set can be mapped. Product Picker subfields cannot be mapped.|
+|Field types supported for mapping|Number, Text, Boolean, and Picklist only. For the full list, see [Define field mappings for a solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-field-mappings-sol-config.md) .|
+|Sets and Product Pickers in mapping|Mapping of an entire Set or an entire Product Picker is not supported. Fields inside a Set can be mapped. Product Picker subfields cannot be mapped.|
 |Reverting a configurable product action|Once a product action is marked as configurable, it cannot be changed back to a standard product action.|
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
@@ -31,16 +31,9 @@ Structural limits that apply to solution configurations, including hierarchy dep
 **Related topics**  
 
 
-[[solution-configurations|Solution configurations]]
+[Solution configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/solution-configurations.md)
 
-[[create-configurable-product-action|Create a configurable product action]]
+[Create a configurable product action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-configurable-product-action.md)
 
 [Define field mappings for a solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-field-mappings-sol-config.md)
 
-## Related
-
-- [[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
-- [[solution-configurations|Solution configurations]]
-- [[create-configurable-product-action|Create a configurable product action]]
-- [[product_picker_overview|Product pickers]]
-- [[fields|Fields]]

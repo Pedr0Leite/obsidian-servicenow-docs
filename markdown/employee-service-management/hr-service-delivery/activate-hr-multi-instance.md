@@ -14,7 +14,7 @@ breadcrumb: [Configure for Provider, Configure, HR Multi Instance Integration, H
 
 # Activate HR Multi Instance Integration for Provider
 
-You can install the [[multi-instance-int|HR Multi Instance Integration]] for Provider application if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the HR Multi Instance Integration for Provider application if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -52,6 +52,4 @@ The following items are installed with HR Multi Instance Integration for Provide
 
 6.  Select **Install**.
 
-## Related
 
-- [[multi-instance-int|HR Multi Instance Integration]]

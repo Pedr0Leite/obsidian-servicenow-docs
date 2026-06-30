@@ -14,13 +14,13 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Password Reset verifications
 
-Each verification specifies the method and process for verifying the identity of the user that is requesting a [[password-reset-landing-page|password reset]].
+Each verification specifies the method and process for verifying the identity of the user that is requesting a password reset.
 
 ## Verifications included with Password Reset
 
 The Password Reset application includes the following verifications in the base system. You can create a verification based on either a base-system verification or a verification type \(a template\).
 
-**Note:** The [[win-password-reset-overview|Password Reset Windows Application]] doesn’t support custom verifications.
+**Note:** The Password Reset Windows Application doesn’t support custom verifications.
 
 <table id="table_mxh_lbz_f1b"><tbody><tr><td>
 
@@ -28,7 +28,7 @@ QA verification
 
 </td><td>
 
-Implements a [[self-service-landing|self-service]] Password Reset model with questions that are included with the base system or custom questions that the admin defines. While enrolling for the process, the user decides which questions to provide answers for. Questions are presented in the language that the user requested during login.When a user requests a password reset, the system poses a specified number of the questions that the user selected during enrollment. The user must answer all questions correctly to verify their identity.
+Implements a self-service Password Reset model with questions that are included with the base system or custom questions that the admin defines. While enrolling for the process, the user decides which questions to provide answers for. Questions are presented in the language that the user requested during login.When a user requests a password reset, the system poses a specified number of the questions that the user selected during enrollment. The user must answer all questions correctly to verify their identity.
 
 \[Omitted image "verify-enduser-page.png"\] Alt text: QA verification on the Verify page.
 
@@ -38,7 +38,7 @@ Implements a [[self-service-landing|self-service]] Password Reset model with que
 
 </td></tr><tr><td>
 
-[[email|Email]] verification
+Email verification
 
 </td><td>
 
@@ -60,7 +60,7 @@ SMS verification
 
 Implements a self-service or service desk-assisted Password Reset model that relies on auto-generated code numbers. When a user requests a password reset, the system sends a code to an SMS-capable device that the user has authorized. To verify identity, the user then submits the code on the Password Reset Verify page.
 
-You can use the ServiceNow [[notify-landing-page|Notify]] feature to send the codes.
+You can use the ServiceNow Notify feature to send the codes.
 
 For information on the user enrollment experience, see [Enroll for the Password Reset program using SMS codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingSMS.md).
 
@@ -149,10 +149,3 @@ When designing a Security Questions verification for Password Reset, you can spe
 
 [Create a Password Reset verification from an existing verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreatePWRVerFromBaseVer.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[self-service-landing|Self-service]]
-- [[email|Email]]
-- [[notify-landing-page|Notify]]

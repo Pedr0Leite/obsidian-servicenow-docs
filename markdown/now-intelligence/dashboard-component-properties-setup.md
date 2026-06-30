@@ -102,13 +102,13 @@ Delegate URL params \[delegateUrlParams\]
 
 Allows the UIB pages which contains the dashboard to take control of how the Dashboard component handles URL parameter updates. When enabled, instead of the dashboard directly updating the browser URL, it dispatches a DASHBOARD\#URL\_PARAMS\_UPDATE\_REQUESTED event containing the parameters that would have been updated. The parent page can then handle navigation using a client script.Set this property in these circumstances:
 
--   The page URL structure does not include [[dashboard-url-parameters|dashboard URL parameters]] \(for example, no sys-id in the URL path\).
+-   The page URL structure does not include dashboard URL parameters \(for example, no sys-id in the URL path\).
 -   The page needs custom navigation logic for dashboard changes.
 -   The dashboard is embedded \(without isEmbedded turned on\) in a workspace where URL management is handled by the parent.
 
-For more information, see [[dashboard-url-parameter-delegation|Dashboard URL parameter delegation]].
+For more information, see [Dashboard URL parameter delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-url-parameter-delegation.md).
 
-**Note:** This functionality requires the latest [[par-workspace|Platform Analytics experience]] application from the ServiceNow® Store.
+**Note:** This functionality requires the latest Platform Analytics experience application from the ServiceNow® Store.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Default dashboard \[defaultDashboard\]
 
 </td><td>
 
-Select an existing dashboard to show in this dashboard component. This other dashboard is usually in the Platform Analytics experience. For that dashboard to be shown, it must include your workspace or experience in the **Dashboard Visibility** field in its dashboard details, as described in [[config-db-in-ac|Configure Platform Analytics dashboard details]].You can select a dashboard statically or dynamically, through a state variable or a script.
+Select an existing dashboard to show in this dashboard component. This other dashboard is usually in the Platform Analytics experience. For that dashboard to be shown, it must include your workspace or experience in the **Dashboard Visibility** field in its dashboard details, as described in [Configure Platform Analytics dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-db-in-ac.md).You can select a dashboard statically or dynamically, through a state variable or a script.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Drilldown to Core UI \[drilldownToCoreUI\]
 
 </td><td>
 
-Toggle on for drill down on table data sources to redirect to the Core UI list of table records. When off, drilling down opens a Simple List component of the table records, if the workspace contains a simple list.Does not apply to [[technical-dashboards|technical dashboards]]. Data visualizations on technical dashboards have to have their Visualization Clicked event handlers configured for drilldowns.
+Toggle on for drill down on table data sources to redirect to the Core UI list of table records. When off, drilling down opens a Simple List component of the table records, if the workspace contains a simple list.Does not apply to technical dashboards. Data visualizations on technical dashboards have to have their Visualization Clicked event handlers configured for drilldowns.
 
 Default: off
 
@@ -157,7 +157,7 @@ Use data broker to fetch data \[useDataBroker\]
 
 </td><td>
 
-When toggled on, the dashboard prefetches static JavaScript, such as dashboard metadata, using a data broker. The Dashboard data broker preset automatically toggles this property on. Without the preset, this property is off by default. For more information, see [[configure-dashboard-data-broker|Configure dashboard data broker]].
+When toggled on, the dashboard prefetches static JavaScript, such as dashboard metadata, using a data broker. The Dashboard data broker preset automatically toggles this property on. Without the preset, this property is off by default. For more information, see [Configure dashboard data broker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-dashboard-data-broker.md).
 
 </td></tr><tr><td>
 
@@ -168,14 +168,5 @@ Data broker response for the dashboard \[data\]
 The response for the data broker when it is used. The Dashboard data broker preset automatically sets a JSON object for this property. You can override this value or set it manually without turning the preset on, if you absolutely need to.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[add-dashboard-to-workspace|Add a dashboard to a Dashboards page]]
+</table>**Parent Topic:**[Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dashboard-to-workspace.md)
 
-## Related
-
-- [[dashboard-url-parameter-delegation|Dashboard URL parameter delegation]]
-- [[config-db-in-ac|Configure Platform Analytics dashboard details]]
-- [[configure-dashboard-data-broker|Configure dashboard data broker]]
-- [[add-dashboard-to-workspace|Add a dashboard to a Dashboards page]]
-- [[dashboard-url-parameters|Dashboard URL parameters]]
-- [[par-workspace|Platform Analytics experience]]
-- [[technical-dashboards|Technical dashboards]]

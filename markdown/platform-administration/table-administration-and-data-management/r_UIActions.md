@@ -26,7 +26,7 @@ Below are a few examples.
 
 This UI Action allows the change management team to log an incident directly from the change request and records that the change caused the incident.
 
-[[t_EditingAUIAction|Create a UI Action]] on the Change Request \[change\_request\] table and place the following into the script:
+Create a UI Action on the Change Request \[change\_request\] table and place the following into the script:
 
 ```
 var inccaus =new GlideRecord("incident");
@@ -108,6 +108,3 @@ m2m.insert();}
 
 **Parent Topic:**[Creating many-to-many task relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ManyToManyTaskRelations.md)
 
-## Related
-
-- [[t_EditingAUIAction|Create a UI action]]

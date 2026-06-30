@@ -31,8 +31,5 @@ Role required: admin
     See [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md) for more information.
 
 
-**Parent Topic:**[[r_AdministeringAttachments|Administering attachments]]
+**Parent Topic:**[Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md)
 
-## Related
-
-- [[r_AdministeringAttachments|Administering attachments]]

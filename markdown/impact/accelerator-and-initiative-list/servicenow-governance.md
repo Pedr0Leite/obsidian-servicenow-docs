@@ -18,7 +18,7 @@ Guidance on building ServiceNow Governance boards and policies.
 
 ## Accelerator Overview
 
-ServiceNow Governance provides [[impact-landing-page|Impact]] Customers with a framework that streamlines the decision-making required to define how your organization should use and manage the ServiceNow AI Platform. This includes setting up governance across strategy, portfolio, and technical domains. This Impact Accelerator aims to assist Customers in driving their transformation vision, delivering the right work at the right time, and maintaining the technical integrity of their ServiceNow implementation.
+ServiceNow Governance provides Impact Customers with a framework that streamlines the decision-making required to define how your organization should use and manage the ServiceNow AI Platform. This includes setting up governance across strategy, portfolio, and technical domains. This Impact Accelerator aims to assist Customers in driving their transformation vision, delivering the right work at the right time, and maintaining the technical integrity of their ServiceNow implementation.
 
 ## What You Get
 
@@ -29,18 +29,18 @@ ServiceNow Governance provides [[impact-landing-page|Impact]] Customers with a f
     -   Request data and any other inputs from Customer
 -   **Discovery Sessions**
     -   Assess current governance model across strategy, portfolio, and technical domains, including:
-        -   Customer’s [[vision-and-strategy|vision and strategy]] roadmap decisions
+        -   Customer’s vision and strategy roadmap decisions
         -   Customer’s demand management
         -   Customer’s environment, platform, data, and development management
     -   Discuss leading practice content
     -   Propose action plan items for Customer to execute
 -   **Customer Workshops**
 
-    -   Dedicated workshop\(s\) on setting up [[strategy-governance|strategy governance]] and the executive steering board
-    -   Dedicated workshop\(s\) on setting up [[portfolio-governance|portfolio governance]] and the demand board
-    -   Dedicated workshop\(s\) on setting up [[technical-governance|technical governance]] and the technical governance board
+    -   Dedicated workshop\(s\) on setting up strategy governance and the executive steering board
+    -   Dedicated workshop\(s\) on setting up portfolio governance and the demand board
+    -   Dedicated workshop\(s\) on setting up technical governance and the technical governance board
     -   Dedicated workshop\(s\) on how the three main domains of governance work together
-    **Note:** Each workshop includes educational material and interactive activities that will [[io-help|help]] the Customer design their governance boards and ServiceNow Governance policies.
+    **Note:** Each workshop includes educational material and interactive activities that will help the Customer design their governance boards and ServiceNow Governance policies.
 
 -   **Governance Deliverables**
     -   Workshop slides
@@ -92,7 +92,7 @@ ServiceNow Governance provides [[impact-landing-page|Impact]] Customers with a f
         -   Any enterprise-wide technology governance which may need alignment with
         -   Any enterprise-wide technology architecture standards to be observed
         -   Any existing platform technical governance boards
-    -   [[architecture-blueprint|Architecture blueprint]]
+    -   Architecture blueprint
     -   Project backlog
     -   IT strategic plan
     -   Pain points, business drivers, and desired business outcomes
@@ -101,12 +101,3 @@ ServiceNow Governance provides [[impact-landing-page|Impact]] Customers with a f
 
 ServiceNow is not responsible for execution of the strategy governance policy or process.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[vision-and-strategy|Vision and Strategy]]
-- [[strategy-governance|Strategy Governance]]
-- [[portfolio-governance|Portfolio Governance]]
-- [[technical-governance|Technical Governance]]
-- [[io-help|Help]]
-- [[architecture-blueprint|Architecture Blueprint]]

@@ -32,7 +32,7 @@ Role required: admin
 
 3.  Hover over an alert icon for general information about the anomaly.
 
-4.  Select **Generate Root Cause** to open the [[root-cause-correlation|Root cause correlation]] \(RCC\) history table.
+4.  Select **Generate Root Cause** to open the Root cause correlation \(RCC\) history table.
 
 5.  Select an entry to view the Summary of the root cause and metrics charts of where a potential issue may exist.
 
@@ -54,9 +54,5 @@ Role required: admin
 9.  For further investigation, select **Create a Case** and submit the captured summary information.
 
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[root-cause-correlation|Root cause correlation]]

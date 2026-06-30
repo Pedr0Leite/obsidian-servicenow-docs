@@ -23,8 +23,5 @@ Create skipped record rules based on your set conditions to define your customiz
 -   **[Execute a skipped record rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-execute-skipped-record-rule.md)**  
 Run skipped record rules based on your set conditions to resolve skipped records in an upgrade. The rules either execute automatically during an upgrade or can run on demand after an upgrade.
 
-**Parent Topic:**[[upgrade-now-platform|Using ServiceNow AI Platform upgrade tools]]
+**Parent Topic:**[Using ServiceNow AI Platform upgrade tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-now-platform.md)
 
-## Related
-
-- [[upgrade-now-platform|Using ServiceNow AI Platform upgrade tools]]

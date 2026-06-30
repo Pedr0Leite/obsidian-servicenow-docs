@@ -24,30 +24,22 @@ Quiz results are stored in the Metric Result \[asmt\_metric\_result\] table and 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quiz Results**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quiz Results**.
 
     \[Omitted image "QuizResults.png"\] Alt text: Quiz results
 
 
--   **[[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]**  
-The quiz scorecard opens in the [[r_CategoryResults|Category Results]] view.
--   **[[t_ViewAQuizCategoryResult|Modify the weight of a category]]**  
+-   **[View a quiz designer scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizDesignerScorecard.md)**  
+The quiz scorecard opens in the Category Results view.
+-   **[Modify the weight of a category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizCategoryResult.md)**  
 View category results stored in the Assessment Category Result \[asmt\_category\_result\] table, which display the overall ratings for each category based on the weighted value for each scored question, and edit the default Weight value.
 
-**Parent Topic:**[[c_QuizDesigner|Quiz designer]]
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
 **Related topics**  
 
 
 [Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-[[t_PublishaQuiz|Publish a quiz]]
+[Publish a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishaQuiz.md)
 
-## Related
-
-- [[t_ViewAQuizDesignerScorecard|View a quiz designer scorecard]]
-- [[t_ViewAQuizCategoryResult|Modify the weight of a category]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[t_PublishaQuiz|Publish a quiz]]
-- [[c_Quizzes|Quizzes]]
-- [[r_CategoryResults|Category results]]

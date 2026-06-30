@@ -30,9 +30,9 @@ Role required: sn\_nowassist\_admin.nsa\_admin
 
     Plugins that have already been activated are listed on the **Installed** tab.
 
-3.  Uninstall Now Assist for [[cmdb-sgc-available|Service Graph Connectors]] \(SGC\).
+3.  Uninstall Now Assist for Service Graph Connectors \(SGC\).
 
-4.  On the [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]] card, select **Get plugins** and then in the pop-up window, select **Install Plugin**.
+4.  On the Now Assist for Configuration Management Database \(CMDB\) card, select **Get plugins** and then in the pop-up window, select **Install Plugin**.
 
     You install the Now Assist for CMDB \(com.snc.cmdb.gen.ai\) plugin.
 
@@ -92,7 +92,3 @@ Admins might be interested in Query Generation. Query Generation is an AI-powere
 
 [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md)
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]]

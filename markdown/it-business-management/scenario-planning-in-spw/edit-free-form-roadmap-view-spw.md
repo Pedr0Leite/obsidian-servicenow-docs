@@ -27,7 +27,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select a free-form roadmap to open it.
 
@@ -75,7 +75,3 @@ Share the free-form roadmap with your stakeholders to start collaborating on the
 
 [Delete a free-form roadmap view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/delete-free-form-roadmap-view-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Configure Walk-up Experience online check-in icon to appear on Service Portal
 
-Requesters can check into a walk-up location online via the Service Portal. You can edit the Service Portal Home page to replace the general IT **Get Help** support icon link with the [[walkup-experience-landing-page|Walk-up Experience]] online check-in support icon link.
+Requesters can check into a walk-up location online via the Service Portal. You can edit the Service Portal Home page to replace the general IT **Get Help** support icon link with the Walk-up Experience online check-in support icon link.
 
 ## Before you begin
 
@@ -74,6 +74,3 @@ To replace the Get Help icon link with the Walk-up Check-in icon link on the Ser
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -14,9 +14,9 @@ breadcrumb: [Reference, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # EMR Help data model tables
 
-Tables installed with the [[emr-exploring|EMR Help]] application enable you to submit requests on your ServiceNow® instance from an EMR System.
+Tables installed with the EMR Help application enable you to submit requests on your ServiceNow® instance from an EMR System.
 
-To learn more about the [[emr-data-model|EMR Help data model]], see [EMR Help data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-data-model.md).
+To learn more about the EMR Help data model, see [EMR Help data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-data-model.md).
 
 -   **[Remote request definition table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-remote-request-definition.md)**  
 The Remote Request Definition \[sn\_ind\_rmt\_help\_request\_defn\] table stores the record producer and task type.
@@ -31,7 +31,3 @@ The Request configuration mapping \[sn\_ind\_rmt\_help\_defn\_param\_data\_map\]
 
 **Parent Topic:**[EMR Help reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-reference.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]
-- [[emr-data-model|EMR Help data model]]

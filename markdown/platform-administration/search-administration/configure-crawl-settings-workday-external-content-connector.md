@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Configure crawl settings for a Workday external content connector
 
-Specify the content types you want your [[workday-external-content-connector|Workday external content connector]] to retrieve.
+Specify the content types you want your Workday external content connector to retrieve.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 ## About this task
 
-This task is optional. By default, the Workday external content connector crawls the following content types and sends them to [[ia-ai-search|AI Search]] for indexing:
+This task is optional. By default, the Workday external content connector crawls the following content types and sends them to AI Search for indexing:
 
 -   Help articles accessible by all users in your Workday organization
 -   Benefits information
@@ -56,7 +56,7 @@ By default, each external content connector can index up to one million \(1,000,
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -201,8 +201,3 @@ To retrieve content from your Workday source system using your modified crawl se
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Recruitment Workspace, Hiring Experiences, HR Service De
 
 # Map task types in Recruitment workspace
 
-Map tasks with its corresponding task types in the [[universal-task-landing|Universal Task]] to select and assign in the [[recruitment-workspace-concept|Recruitment workspace]].
+Map tasks with its corresponding task types in the Universal Task to select and assign in the Recruitment workspace.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ You've mapped a task to a task type.
 
 **Parent Topic:**[Configuring Recruitment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/config-recruitment.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[recruitment-workspace-concept|Recruitment workspace]]

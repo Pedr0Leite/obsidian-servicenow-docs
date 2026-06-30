@@ -14,13 +14,13 @@ breadcrumb: [Security Center, Platform Security]
 
 # Security configuration console
 
-Use the security [[sc-configuration|configuration]] page to get an overview of the security posture of your instance. View your hardening compliance score, discover graphical trends, analyze the top non-compliant [[security-hardening-settings|hardening settings]], and see the results of your security scans.
+Use the security configuration page to get an overview of the security posture of your instance. View your hardening compliance score, discover graphical trends, analyze the top non-compliant hardening settings, and see the results of your security scans.
 
-\[Omitted image "overview-page.png"\] Alt text: [[sec-center-v2|Security center]] overview page
+\[Omitted image "overview-page.png"\] Alt text: Security center overview page
 
 ## Navigation bar
 
-Use the bar at the top of the page to navigate between this page and the [[sc-hardening|security hardening]], [[sc-scanning|security scanner]], or security [[critical-updates|Customer Actions]] section of Security Center.
+Use the bar at the top of the page to navigate between this page and the security hardening, security scanner, or security Customer Actions section of Security Center.
 
 ## Security hardening
 
@@ -30,7 +30,7 @@ The hardening compliance score is a percentage that shows how closely your secur
 
 ## Security scanner
 
-Review the results of automated security [[scan-checks|scan checks]] using the security scanner section. These checks and help you find security vulnerabilities, inefficiencies, and issues with compliance.
+Review the results of automated security scan checks using the security scanner section. These checks and help you find security vulnerabilities, inefficiencies, and issues with compliance.
 
 Select the cards on in this section to navigate to the security scanner page.
 
@@ -40,7 +40,7 @@ Find security updates that can be made to the instance in the Customer Actions s
 
 ## My Security Tasks
 
-View the most urgent [[security-task-manager|Security Tasks]] assigned to you. Select a task to view its details, or select **See all Security Tasks** to view a complete list of Security Tasks.
+View the most urgent Security Tasks assigned to you. Select a task to view its details, or select **See all Security Tasks** to view a complete list of Security Tasks.
 
 ## Additional resources
 
@@ -55,13 +55,3 @@ Use the Customer Actions tool to implement important security updates based on y
 
 **Parent Topic:**[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[sc-hardening|Security hardening]]
-- [[sc-scanning|Security scanner]]
-- [[critical-updates|Customer Actions]]
-- [[scan-checks|Scan checks]]
-- [[security-task-manager|Security Tasks]]

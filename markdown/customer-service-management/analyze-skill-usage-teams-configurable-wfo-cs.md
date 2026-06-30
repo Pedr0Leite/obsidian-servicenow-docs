@@ -36,8 +36,5 @@ Role required: skill\_admin
     You can click on a skill to analyze skill data such as the number of users or tasks with that skill, the overall skill coverage, and how many experts you currently have with that skill.
 
 
-**Parent Topic:**[[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Using Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-channels-wfo-cs.md)
 
-## Related
-
-- [[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]

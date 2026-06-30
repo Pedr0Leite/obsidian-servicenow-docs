@@ -14,9 +14,9 @@ breadcrumb: [Configure a proxy server using PAC file \(automatic configuration s
 
 # PAC file with registry setting
 
-In this proxy configuration, the Proxy Auto-Configuration \(PAC\) file can be configured in [[win-password-reset-overview|Password Reset Windows Application]] registry settings.
+In this proxy configuration, the Proxy Auto-Configuration \(PAC\) file can be configured in Password Reset Windows Application registry settings.
 
-The name of the registry setting enables the proxy via PAC file is **UseProxyAutoConfigScript**. The PAC script location \(URL\) can be provided in the **ProxyServer** setting. The [[reference|reference]] configuration is provided as shown in the following image:\[Omitted image "pac-registry-settings2.png"\] Alt text: PAC registry settings
+The name of the registry setting enables the proxy via PAC file is **UseProxyAutoConfigScript**. The PAC script location \(URL\) can be provided in the **ProxyServer** setting. The reference configuration is provided as shown in the following image:\[Omitted image "pac-registry-settings2.png"\] Alt text: PAC registry settings
 
 ## Registry setting to configure proxy via PAC
 
@@ -43,7 +43,3 @@ The target proxy address is cached for a URL in the machine. The caching behavio
 
 **Parent Topic:**[Configure a proxy server using PAC file \(automatic configuration script method\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-server-pac-file-password-reset.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[reference|Reference]]

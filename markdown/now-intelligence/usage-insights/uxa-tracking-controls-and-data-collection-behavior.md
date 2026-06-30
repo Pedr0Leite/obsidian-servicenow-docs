@@ -14,7 +14,7 @@ breadcrumb: [Types of tracking consent policies, User privacy, tracking, and con
 
 # Tracking controls and data collection behavior
 
-Understand what happens when you opt out of the consent pop-up in the [[user-exp-analytics-landing|Usage Insights]] UI
+Understand what happens when you opt out of the consent pop-up in the Usage Insights UI
 
 When an end-user opts out of data collection via the consent pop-up in their Usage Insights UI, their individual session timeline and interaction details are no longer visible in the Usage Insights dashboard. However, their hashed user ID and session data continue to be collected and included in aggregate metrics \(such as Active Users, Sessions, and Average Session Duration\) so that these counts remain accurate. This is called Basic Tracking.
 
@@ -26,6 +26,3 @@ When an admin disables Usage Insights on the instance \(via the glide.analytics.
 
 **Parent Topic:**[Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-types.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

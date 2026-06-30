@@ -24,7 +24,7 @@ Role required: ts\_admin or admin
 
 ## About this task
 
-Once a table is indexed, the data within the table can be searched through the global search bar. Change the query mode for the indexed table to allow global search to match all or only some of the searched terms. Enable a partial match rule to return [[hs-results|results]] that partially match the searched terms.
+Once a table is indexed, the data within the table can be searched through the global search bar. Change the query mode for the indexed table to allow global search to match all or only some of the searched terms. Enable a partial match rule to return results that partially match the searched terms.
 
 ## Procedure
 
@@ -186,6 +186,3 @@ Multiple conditional specifications separated by commas. In this example: if the
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]

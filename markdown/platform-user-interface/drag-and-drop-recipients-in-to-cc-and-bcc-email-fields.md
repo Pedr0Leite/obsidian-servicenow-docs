@@ -22,7 +22,7 @@ Role required: email\_composer
 
 1.  Open a record.
 
-2.  Select the **Email** tab of the [[activity-stream-compose-configurable-workspace|Compose]] panel in the record view, or open the Compose Email page.
+2.  Select the **Email** tab of the Compose panel in the record view, or open the Compose Email page.
 
 3.  Add recipients to the desired email fields by copying and pasting email addresses or entering recipients' email addresses manually.
 
@@ -42,10 +42,6 @@ Role required: email\_composer
 
 6.  To select multiple recipients, use keyboard and mouse device shortcuts.
 
-    For [[onboarding-modals-reference|reference]], see [[keyboard-and-mouse-shortcuts-for-adding-recipients-to-email|Keyboard and mouse device shortcuts for adding recipients to email fields]].
+    For reference, see [Keyboard and mouse device shortcuts for adding recipients to email fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/keyboard-and-mouse-shortcuts-for-adding-recipients-to-email.md).
 
-## Related
 
-- [[keyboard-and-mouse-shortcuts-for-adding-recipients-to-email|Keyboard and mouse device shortcuts for adding recipients]]
-- [[activity-stream-compose-configurable-workspace|Compose]]
-- [[onboarding-modals-reference|Reference]]

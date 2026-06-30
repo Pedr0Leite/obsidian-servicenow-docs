@@ -18,7 +18,7 @@ Create a topic for sending and receiving test messages in the Hermes Kafka clust
 
 ## Before you begin
 
--   Secure your Kafka topics by generating a ServiceNow® instance-signed certificate and keystore. You must provide truststore and keystore details when you configure a producer to [[create-topic-instance-hermes|create a topic in Hermes]]. See [Set up a secure connection to the Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/set-up-secure-connection-to-hermes.md).
+-   Secure your Kafka topics by generating a ServiceNow® instance-signed certificate and keystore. You must provide truststore and keystore details when you configure a producer to create a topic in Hermes. See [Set up a secure connection to the Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/set-up-secure-connection-to-hermes.md).
 -   Download and install Apache Kafka. See [Prepare your Apache Kafka client environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/prepare-kafka-client-environment.md).
 
 Role required: admin
@@ -40,7 +40,7 @@ where:
     The topic you create belongs to this application. Specify either of the following:
 
     -   `sn_logstoanalytics` for Log Export Service topics
-    -   `sn_streamconnect` for Stream [[c_Connect|Connect]] topics
+    -   `sn_streamconnect` for Stream Connect topics
 -   `<topic_name>` is the unique name for your topic
 
 **Note:** The full topic name is case-sensitive and limited to 200 characters.
@@ -124,7 +124,3 @@ A test topic is created in the Hermes Kafka cluster.
 
 [Produce test messages to a Hermes topic using the Kafka client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/produce-messages-hermes.md)
 
-## Related
-
-- [[create-topic-instance-hermes|Create a topic in Hermes]]
-- [[c_Connect|Connect]]

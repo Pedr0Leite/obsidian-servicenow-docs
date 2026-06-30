@@ -14,7 +14,7 @@ breadcrumb: [Telecommunications Service Operations Management]
 
 # Configuring Telecommunications Service Operations Management
 
-Configure [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] \(TSOM\) to enable real-time event ingestion, correlation, and automated remediation by integrating with external network monitoring and discovery systems.
+Configure Telecommunications Service Operations Management \(TSOM\) to enable real-time event ingestion, correlation, and automated remediation by integrating with external network monitoring and discovery systems.
 
 Set up TSOM to enable end-to-end telecom service operations, including alarm ingestion, CMDB population, discrepancy detection, and service impact visibility. This configuration involves activating Telecommunications API notifications, setting up discovery and service graph connectors, enabling visibility, and configuring audit and reconciliation frameworks.
 
@@ -36,6 +36,3 @@ Telecommunications Service Operations Management \(TSOM\) requires configuring m
 
 Each step is modular and can be configured based on your environment and available integrations.
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Contract Management, IT Asset Management]
 
 # Components installed with Contract Management
 
-Several types of components are installed with [[c_ContractManagement|Contract Management]].
+Several types of components are installed with Contract Management.
 
 Demo data is available.
 
@@ -44,6 +44,3 @@ Business rules are added with Contract Management.
 
 [Domain separation and Contract Management]()
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]

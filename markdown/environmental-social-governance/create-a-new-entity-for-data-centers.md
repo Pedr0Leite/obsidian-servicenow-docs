@@ -41,11 +41,7 @@ Role required: sn\_esg.admin
 
 ## Result
 
-When the metric definition is executed, the metrics for the selected datacenter will be collected and displayed on the [[sustainable-it-dashboard|Sustainable IT dashboard]].
+When the metric definition is executed, the metrics for the selected datacenter will be collected and displayed on the Sustainable IT dashboard.
 
-**Parent Topic:**[[methods-to-set-up-entities|Methods to set up entities for Sustainable IT]]
+**Parent Topic:**[Methods to set up entities for Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/methods-to-set-up-entities.md)
 
-## Related
-
-- [[methods-to-set-up-entities|Methods to set up entities for Sustainable IT]]
-- [[sustainable-it-dashboard|Sustainable IT dashboard]]

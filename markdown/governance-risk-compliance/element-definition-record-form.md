@@ -81,12 +81,8 @@ Resource configuration for the element definition. Available options are:-   **L
 -   **Datacenters**
 -   **Vendors**
 
-For information on configuring a Resource configuration record, see [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]].
+For information on configuring a Resource configuration record, see [Configure Resource Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-resource-for-crisis-map-uib-ws.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[configure-element-definition-bia-uib-ws|Configure element definition]]
+</table>**Parent Topic:**[Configure element definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-element-definition-bia-uib-ws.md)
 
-## Related
-
-- [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]]
-- [[configure-element-definition-bia-uib-ws|Configure element definition]]

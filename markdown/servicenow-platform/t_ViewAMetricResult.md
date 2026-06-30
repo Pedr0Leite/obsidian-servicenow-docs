@@ -12,7 +12,7 @@ breadcrumb: [Assessment administrator tasks, Using assessments, Assessments, Ass
 
 # View a metric result
 
-Metric results contain values that represent an evaluated record's performance for a specific metric, based on a single evaluation from one user or from the execution of a script. Metric results contain actual values as well as calculated values. The system uses values from metric results to calculate [[r_CategoryResults|category results]].
+Metric results contain values that represent an evaluated record's performance for a specific metric, based on a single evaluation from one user or from the execution of a script. Metric results contain actual values as well as calculated values. The system uses values from metric results to calculate category results.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-If there is an active scripted metric when the assessment is generated, the system automatically produces a metric result for each associated assessable record. The system produces an additional metric result for each question a user answers on a completed assessment questionnaire. If multiple users complete questionnaires with the same questions on the same [[c_assessable-records|assessable records]], the system produces metric results for each user's responses. For example, three users complete questionnaires that contain the same four questions about the Acme Corporation record. The system produces 12 metric results: one per user for each question.
+If there is an active scripted metric when the assessment is generated, the system automatically produces a metric result for each associated assessable record. The system produces an additional metric result for each question a user answers on a completed assessment questionnaire. If multiple users complete questionnaires with the same questions on the same assessable records, the system produces metric results for each user's responses. For example, three users complete questionnaires that contain the same four questions about the Acme Corporation record. The system produces 12 metric results: one per user for each question.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Results** &gt; **Metric Results**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Results** &gt; **Metric Results**.
 
 2.  Open the metric result record you want to view.
 
@@ -44,7 +44,7 @@ Assessment group
 
 </td><td>
 
-[[c_AssessmentGroups|Assessment group]] to which the metric result is associated.
+[Assessment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGroups.md) to which the metric result is associated.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Method
 
 </td><td>
 
-[[c_AssessmentMetrics|method]] of the metric.
+[method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md) of the metric.
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ Instance
 
 </td><td>
 
-[[c_AssessmentInstances|Assessment instance]] completed by the **Assigned to** user. This field is blank when the method is **Script**.
+[Assessment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md) completed by the **Assigned to** user. This field is blank when the method is **Script**.
 
 </td></tr><tr><td>
 
@@ -111,11 +111,11 @@ Actual value
 Unscaled value from a user response or script, depending on the method:
 
 -   **Assessment**: Value obtained from the user response to the assessment instance question. The actual value is determined by the metric data type:
-    -   **Checkbox**: The actual value is 0 if the [[check-box|check box]] is cleared and 1 if it is selected.
+    -   **Checkbox**: The actual value is 0 if the check box is cleared and 1 if it is selected.
     -   **Choice** or **Likert Scale**: The actual value is equal to the Value of the metric definition associated with the chosen answer option.
     -   **Date**, **Date/Time,** or **String**: The actual value is -1 to indicate that these data types do not contribute to category result calculations.
-    -   **Template**: The actual value is equal to the **Value** of the [[r_MetricTemplates|template definition]] associated with the chosen answer option.
-    -   **[[yes-no|Yes/No]]**: The actual value is 0 if the response is **No** and 1 if it is **Yes**.
+    -   **Template**: The actual value is equal to the **Value** of the [template definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricTemplates.md) associated with the chosen answer option.
+    -   **Yes/No**: The actual value is 0 if the response is **No** and 1 if it is **Yes**.
 -   **Script**: Value the script placed in the *actual\_result* variable.
  This field is hidden and left blank when the data type is **Duration**.
 
@@ -160,7 +160,7 @@ Normalized value
 
 </td><td>
 
-Adjusted value that accounts for weights, scale definition, minimum and maximum values, and other factors that impact the metric \(like the survey responses or the input value—the actual value given by the user\). See the example for **Normalized value** in [[t_ViewACategoryResult|View an assessment category result]].
+Adjusted value that accounts for weights, scale definition, minimum and maximum values, and other factors that impact the metric \(like the survey responses or the input value—the actual value given by the user\). See the example for **Normalized value** in [View an assessment category result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md).
 
 </td></tr><tr><td>
 
@@ -168,39 +168,20 @@ String value
 
 </td><td>
 
-Value that displays the response as it appears on a questionnaire. In some cases this is the same as the **Actual value**, such as when the metric data type is **Percentage**. The string value is **N/A** for unanswered questions of certain data types. For the **[[attachment|Attachment]]** data type, the names of the attached files are displayed as comma-separated values.
+Value that displays the response as it appears on a questionnaire. In some cases this is the same as the **Actual value**, such as when the metric data type is **Percentage**. The string value is **N/A** for unanswered questions of certain data types. For the **Attachment** data type, the names of the attached files are displayed as comma-separated values.
 
 </td></tr></tbody>
 </table>
--   **[[r_AssessmentResults|Assessment results]]**  
+-   **[Assessment results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentResults.md)**  
 In the Assessments application, when the system processes completed questionnaires or gathers values returned from scripted metric queries, it generates assessment result records called metric and category results.
--   **[[r_AssessmentsOverviewModule|Assessment Overview dashboard]]**  
+-   **[Assessment Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentsOverviewModule.md)**  
 The Assessment Overview dashboard displays various assessment reports, such as Assessable Records by Type, Total Metrics by Metric Type, and Assessments by State.
--   **[[view-assessment-report|View assessment reports]]**  
+-   **[View assessment reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/view-assessment-report.md)**  
 Use the Assessment Overview dashboard to view your assessment reports.
--   **[[c_AssessmentResultsCalculation|Assessment results calculation]]**  
+-   **[Assessment results calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentResultsCalculation.md)**  
 For every assessment group, there are assessment results.
--   **[[t_view-bubble-chart-assessments|View a bubble chart for assessments]]**  
+-   **[View a bubble chart for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_view-bubble-chart-assessments.md)**  
 Assessment administrators can view bubble charts to compare the relative standing of assessable records in three metric categories.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[c_AssessmentGroups|Assessment groups]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[r_MetricTemplates|Metric templates]]
-- [[t_ViewACategoryResult|View an assessment category result]]
-- [[r_AssessmentResults|Assessment results]]
-- [[r_AssessmentsOverviewModule|Assessment Overview dashboard]]
-- [[view-assessment-report|View assessment reports]]
-- [[c_AssessmentResultsCalculation|Assessment results calculation]]
-- [[t_view-bubble-chart-assessments|View a bubble chart for assessments]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[r_CategoryResults|Category results]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]
-- [[attachment|Attachment]]

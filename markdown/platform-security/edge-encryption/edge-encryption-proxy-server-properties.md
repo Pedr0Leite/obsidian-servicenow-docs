@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Edge Encryption proxy server properties
 
-The `edgeencryption.properties` [[sc-configuration|configuration]] file located in the `<installation directory>/conf/` folder contains properties used to configure your environment.
+The `edgeencryption.properties` configuration file located in the `<installation directory>/conf/` folder contains properties used to configure your environment.
 
 You must restart the proxy server after making changes to any proxy server properties.
 
@@ -34,7 +34,7 @@ edgeencryption.encrypter.static.iv
 
 </td><td>
 
-Static IV \(initialization vector\) used in equality-preserving and order-preserving [[encryption-landing|encryption]]. This property must be the same for all proxies and must be exactly 16 bytes \(16 ASCII characters\).
+Static IV \(initialization vector\) used in equality-preserving and order-preserving encryption. This property must be the same for all proxies and must be exactly 16 bytes \(16 ASCII characters\).
 
 </td></tr></tbody>
 </table>## Digital signature properties
@@ -133,7 +133,7 @@ Number of http job requests per second that can be sent to the instance by this 
 
 </td></tr><tr><td>
 
-edgeencryption.attachments.[[c_requestAPI|request]].timeout.seconds
+edgeencryption.attachments.request.timeout.seconds
 
 </td><td>
 
@@ -421,7 +421,7 @@ edgeencryption.stat.collection.enabled
 
 </td><td>
 
-Enables the collection of statistics used by the [[edge-encryption|Edge Encryption]] proxy server performance dashboard.Default value: true
+Enables the collection of statistics used by the Edge Encryption proxy server performance dashboard.Default value: true
 
  Add this property and set the value to false to disable the collection of statistics used by the Edge Encryption proxy server performance dashboard.
 
@@ -561,7 +561,7 @@ edgeencryption.webproxy.user
 
 </td><td>
 
-User name used to connect to the web proxy. If your web proxy does not use [[c_Authentication|authentication]], leave this property commented out.
+User name used to connect to the web proxy. If your web proxy does not use authentication, leave this property commented out.
 
 </td></tr><tr><td>
 
@@ -605,10 +605,3 @@ Password to use to connect to the web proxy. If your web proxy does not use auth
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[edge-encryption|Edge Encryption]]
-- [[c_Authentication|Authentication]]

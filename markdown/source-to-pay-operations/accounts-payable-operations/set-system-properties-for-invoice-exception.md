@@ -15,7 +15,7 @@ breadcrumb: [Components installed with Accounts Payable Invoice Processing, Inst
 
 # Set system properties for invoice exception
 
-Set the maximum parallel threads system property \(`sn_ap_apm.exception.engine.max_parallel_thread_count`\) to optimize the performance of the exception engine scheduler in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Set the maximum parallel threads system property \(`sn_ap_apm.exception.engine.max_parallel_thread_count`\) to optimize the performance of the exception engine scheduler in Accounts Payable Operations.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ Role required: admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

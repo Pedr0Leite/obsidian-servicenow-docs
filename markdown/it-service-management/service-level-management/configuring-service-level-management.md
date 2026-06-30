@@ -14,16 +14,16 @@ breadcrumb: [Service Level Management, IT Service Management]
 
 # Configuring Service Level Management
 
-You can configure various aspects of [[service-level-mgmt-landing-page|Service Level Management]] based on the specific requirements of your organization.
+You can configure various aspects of Service Level Management based on the specific requirements of your organization.
 
 -   **[Service Level Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/sla-plugins.md)**  
-You can activate one or more of the [[sla-plugins|Service Level Management plugins]] if they are not already active. Some plugins include demo data.
+You can activate one or more of the Service Level Management plugins if they are not already active. Some plugins include demo data.
 -   **[Configure Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_ConfigureSLAs.md)**  
 Configure SLAs to define a set amount of time for a task to reach a certain condition, to ensure that incidents are closed or resolved according to the expectations set for customers.
 -   **[Configure SLA retroactive start and pause](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_UseSLARetroactiveStartAndPause.md)**  
 You can use retroactive start to retain timing information for an SLA when a task record changes. Retroactive pause prevents immediate breaches and notifications when retroactive start is enabled for SLA definitions.
 -   **[Configure the SLA timer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/sla-timer-configurations.md)**  
-[[sla-timer-configurations|Configure the SLA timer]] to determine which task SLA must be displayed as part of the timer component.
+Configure the SLA timer to determine which task SLA must be displayed as part of the timer component.
 -   **[Extend SLA condition rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_ExtendSLAConditionRules.md)**  
 You can create custom SLA condition class and condition rule records.
 -   **[Create SLA breakdown definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/create-sla-breakdown-definitions.md)**  
@@ -31,8 +31,3 @@ You can define an SLA breakdown to capture, store, and relay detailed task owner
 
 **Parent Topic:**[Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-mgmt-landing-page.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[sla-plugins|Service Level Management plugins]]
-- [[sla-timer-configurations|Configure the SLA timer]]

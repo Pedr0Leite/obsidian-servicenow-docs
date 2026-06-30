@@ -19,7 +19,7 @@ Configure alert enrichment rules to automatically add context and metadata to in
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -31,7 +31,7 @@ Alert enrichment rules automatically enhance incoming alerts with additional con
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Alert response**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Alert response**.
 
 2.  Expand **Alert response**.
 
@@ -47,8 +47,4 @@ Alert enrichment rules automatically enhance incoming alerts with additional con
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]

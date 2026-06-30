@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Data center place types
 
-Place types are used to categorize the different places on your map. You can use place type to categorize your network assets and facilities on your map in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Place types are used to categorize the different places on your map. You can use place type to categorize your network assets and facilities on your map in the Telecommunications Network Inventory application.
 
 |Name|Description|
 |----|-----------|
@@ -36,6 +36,3 @@ Place types are used to categorize the different places on your map. You can use
 
 [Upload and manage floor map for your datacenter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-floor-map-data-center.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

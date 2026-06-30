@@ -44,7 +44,7 @@ User field
 
 </td><td>
 
-Field that stores the users you want to send the survey. You can select any field, on the selected table or on a referenced table, that [[reference-document-management|references]] the User \[sys\_user\] table. Use the tree picker to select a field.**Note:** To avoid requiring users to log in to [[t_TakeASurvey|take a survey]] with a trigger condition, set the survey to **Public**.
+Field that stores the users you want to send the survey. You can select any field, on the selected table or on a referenced table, that references the User \[sys\_user\] table. Use the tree picker to select a field.**Note:** To avoid requiring users to log in to take a survey with a trigger condition, set the survey to **Public**.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Repeat interval
 
 </td><td>
 
-Minimum period that must pass before the trigger condition can resend the survey to the same user. For example, assume the repeat interval is set to 30 days. Even if the same user qualifies for multiple [[r_SurveyManagementLandingPage|surveys]] from this trigger condition, the system can send only one survey every 30 days. **Note:**
+Minimum period that must pass before the trigger condition can resend the survey to the same user. For example, assume the repeat interval is set to 30 days. Even if the same user qualifies for multiple surveys from this trigger condition, the system can send only one survey every 30 days. **Note:**
 
 -   Ensure that the Schedule period of the selected survey definition is set to **No Limit**. If the schedule period is set to a different value, it prevents the trigger condition from sending surveys as expected.
 -   Trigger condition creates a survey instance irrespective of the repeat interval if the survey is set as anonymous.
@@ -71,7 +71,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] that determines whether this trigger condition is active \(selected\).
+Check box that determines whether this trigger condition is active \(selected\).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Related Field 1- 4
 
 </td><td>
 
-Field that contains a value you want to store for reporting purposes. You can pick any [[reference|reference]] field on the selected table. When the trigger condition generates a survey instance, the system stores the value from the triggering record. Specify up to four fields. For example, select the Incident table, **Assigned to** and **Problem** as related fields. The system stores the assigned user and problem associated with the incident as Related record 1 and Related record 2 in the survey instance record. To view the fields, configure the form for any survey instance.
+Field that contains a value you want to store for reporting purposes. You can pick any reference field on the selected table. When the trigger condition generates a survey instance, the system stores the value from the triggering record. Specify up to four fields. For example, select the Incident table, **Assigned to** and **Problem** as related fields. The system stores the assigned user and problem associated with the incident as Related record 1 and Related record 2 in the survey instance record. To view the fields, configure the form for any survey instance.
 
  **Note:** You cannot use a related field for the ticket number because you cannot select the Number column. You can, however, use the trigger\_id column of the table.
 
@@ -124,19 +124,10 @@ Condition
 Condition builder that defines the criteria that must be true to send the survey. For example, to send a survey whenever an incident closes, create the condition **\[State\] \[is\] \[Closed\]**.**Note:** When defining conditions like case sensitivity or null values, see API[GlideFilter - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideFilterScopedAPI.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[[t_CreateATriggerCondition|Configure a trigger condition for a survey]]
+[Configure a trigger condition for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateATriggerCondition.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[t_CreateATriggerCondition|Configure a trigger condition for a survey]]
-- [[reference-document-management|References]]
-- [[t_TakeASurvey|Take a survey]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[reference|Reference]]

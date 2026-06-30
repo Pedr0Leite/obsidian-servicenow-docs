@@ -18,13 +18,13 @@ View the process graph as a node star diagram in the Process Map component on da
 
 When you view a process graph in the Process Map component on dashboards, and want to know the details of one node in the graph, you must use the node star diagram.
 
-To know more about configuring a [[process-mining|Process Mining]] map to view the process graph in the PAR dashboard, see [Configure Process Mining map in PAR dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/config-dashboard.md). For more information about [[c_performanceAnalyticsAndReporting|Platform Analytics]] \(PAR\) dashboards, see [[ac-elements|Exploring Platform Analytics dashboards]].
+To know more about configuring a Process Mining map to view the process graph in the PAR dashboard, see [Configure Process Mining map in PAR dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/config-dashboard.md). For more information about Platform Analytics \(PAR\) dashboards, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
 
 The following process graph displays details about the reassignment analysis.
 
 \[Omitted image "process-graph.png"\] Alt text: Process graph
 
-Select any node of the process graph and the graph changes to the node star diagram displaying all the incoming and outgoing arcs from the selected node. When you select the **Process graph** button again, the entire graph is displayed as a process graph. You can also apply a view based on the activity definitions for the project. Multi-dimensional maps are supported on the Platform Analytics dashboards. You can also [[run-worknotes-analysis|run work notes analysis]] from Platform Analytics dashboards. For more information about [[worknotes-analysis|work notes analysis]], see [Working with work notes using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes.md).
+Select any node of the process graph and the graph changes to the node star diagram displaying all the incoming and outgoing arcs from the selected node. When you select the **Process graph** button again, the entire graph is displayed as a process graph. You can also apply a view based on the activity definitions for the project. Multi-dimensional maps are supported on the Platform Analytics dashboards. You can also run work notes analysis from Platform Analytics dashboards. For more information about work notes analysis, see [Working with work notes using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes.md).
 
 If you select PO Group 10, a node star diagram similar to the following figure is displayed. You can view the records assigned to PO Group 10. You can also view the records that are assigned from PO Group 10 to other groups.
 
@@ -56,10 +56,3 @@ Select any node or arc, the **Show records** button is displayed. Select the **S
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[ac-elements|Exploring Platform Analytics dashboards]]
-- [[process-mining|Process Mining]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[run-worknotes-analysis|Run work notes analysis]]
-- [[worknotes-analysis|Work notes analysis]]

@@ -14,7 +14,7 @@ breadcrumb: [Classic Workflow, ServiceNow AI Platform Additional Capabilities, E
 
 # Getting started with workflows
 
-The graphical [[workflow-editor|Workflow Editor]] provides a drag-and-drop interface for automating multi-step processes across the platform.
+The graphical Workflow Editor provides a drag-and-drop interface for automating multi-step processes across the platform.
 
 ## Workflow support
 
@@ -51,7 +51,7 @@ Workflows consist of these parts.
 
 ## Workflow life cycle
 
-A workflow starts when a triggering event occurs. Common triggers include a record being inserted into a specific table, or a particular field in a table being set to a specified value. For example, you might [[t_CreateAWorkflow|create a workflow]] that runs whenever a user requests approval for an item they want to order from the catalog. You can also schedule workflows to run periodically or call them from scripts such as business rules.
+A workflow starts when a triggering event occurs. Common triggers include a record being inserted into a specific table, or a particular field in a table being set to a specified value. For example, you might create a workflow that runs whenever a user requests approval for an item they want to order from the catalog. You can also schedule workflows to run periodically or call them from scripts such as business rules.
 
 When an activity completes, the workflow transitions to the next activity. An activity might have several different possible transitions to various activities, depending on the outcome of the activity. Continuing the example above, if the user's request is approved, the activity might transition to an activity that notifies someone to order the item. If the user's request is denied, the activity might transition to notifying the user that their request has been denied.
 
@@ -67,7 +67,7 @@ When the workflow runs out of activities, the workflow is complete. The [Workflo
 
 ## Workflow properties
 
-The [[r_WorkflowProperties|workflow properties]] specify when to run a workflow and what records it acts on. For more information about workflow properties, see [Workflow properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowProperties.md).
+The workflow properties specify when to run a workflow and what records it acts on. For more information about workflow properties, see [Workflow properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowProperties.md).
 
 ## Workflow activities
 
@@ -107,8 +107,3 @@ After a workflow is published, it is available to other users. The workflow move
 
 \[Omitted image "RoutineChange.png"\] Alt text: Sample change workflow
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[t_CreateAWorkflow|Create a workflow]]
-- [[r_WorkflowProperties|Workflow properties]]

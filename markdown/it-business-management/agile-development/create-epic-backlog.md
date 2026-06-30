@@ -42,7 +42,7 @@ From the Epic Backlogs module
 
 </td><td>
 
-1.  Navigate to **[[agile-development|Agile Development]]** &gt; **Epic Backlogs**.
+1.  Navigate to **Agile Development** &gt; **Epic Backlogs**.
 2.  Click **New**.
 
 
@@ -75,6 +75,3 @@ Navigate to **Agile Development** &gt; **Agile Board** &gt; **Program** &gt; **B
 
 [Manage your epic backlogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-epics-agile-board.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

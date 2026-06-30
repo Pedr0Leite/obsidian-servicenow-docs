@@ -14,18 +14,18 @@ breadcrumb: [View SIR Workspace Dashboards, Security Incident Response Workspace
 
 # View CISO dashboard
 
-This dashboard provides the Chief Information Security Officers \(CISOs\) with a high-level overview of security incidents and weekly incidents trends on the instance in the form of graphical charts. These charts help you effectively view and analyze how the [[security-operations-landing-page|Security operations]] center \(SOC\) performs.
+This dashboard provides the Chief Information Security Officers \(CISOs\) with a high-level overview of security incidents and weekly incidents trends on the instance in the form of graphical charts. These charts help you effectively view and analyze how the Security operations center \(SOC\) performs.
 
 ## Before you begin
 
 -   Role required: sn\_si.admin and sn\_si.ciso - Edit and view incidents.
--   Ensure that you have the Performance Analytics for [[sir-landing-page|Security Incident Response]] app installed.
+-   Ensure that you have the Performance Analytics for Security Incident Response app installed.
 
 ## About this task
 
-**Note:** The [[ciso-dashboard|CISO dashboard]] and CISO Overview dashboard were two different ones in the classic UI. But, now the capabilities of the two dashboards have been merged under the CISO dashboard.
+**Note:** The CISO dashboard and CISO Overview dashboard were two different ones in the classic UI. But, now the capabilities of the two dashboards have been merged under the CISO dashboard.
 
-The CISO dashboard provides key insights about your security incidents on a weekly basis. You can set up [[indicator|indicators]] and collect data snapshots of the incidents matching the conditions in the indicator properties. The collected data is then visualized using widgets in the dashboard.
+The CISO dashboard provides key insights about your security incidents on a weekly basis. You can set up indicators and collect data snapshots of the incidents matching the conditions in the indicator properties. The collected data is then visualized using widgets in the dashboard.
 
 You can visualize the weekly trends using the widgets in the CISO dashboard. The data or statistics for the trends of your security incidents are collected from the weekly incidents indicator properties that are defined by the organization. You can gain key insights by using the following charts:
 
@@ -52,9 +52,4 @@ You can visualize the weekly trends using the widgets in the CISO dashboard. The
 
 4.  View the CISO dashboard for further action.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[ciso-dashboard|CISO dashboard]]
-- [[indicator|Indicators]]

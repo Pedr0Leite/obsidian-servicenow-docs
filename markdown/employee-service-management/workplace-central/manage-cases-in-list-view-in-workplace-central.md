@@ -14,14 +14,14 @@ breadcrumb: [Working with Case management, Use, Workplace Central, Workplace Ser
 
 # Manage workplace cases in List view in Workplace Central
 
-The List view tab provides a traditional list view of cases in [[workplace-central-feat|Workplace Central]].
+The List view tab provides a traditional list view of cases in Workplace Central.
 
 The List view tab complements the Calendar view by offering a structured, row-based representation of the same case data, making it suitable for users who prefer list-based navigation or to perform bulk operations.
 
 To access List view:
 
 -   Navigate to **All** &gt; **Workplace Central**.
--   Select **[[case-management-workspace|Case Management]]** &gt; **List view** tab at the top of the workspace.
+-   Select **Case Management** &gt; **List view** tab at the top of the workspace.
 
 ## Shared filter state
 
@@ -80,7 +80,3 @@ The List view tab exposes standard presentational list component actions, includ
 
 [View Facility Assets in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]

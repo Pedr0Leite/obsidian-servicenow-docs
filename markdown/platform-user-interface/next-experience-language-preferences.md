@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **User Menu** &gt; **Preferences** &gt; **Language &amp; Region**.
 
-2.  Select the preferences that you want to [[configure-onboarding-modals|configure]].
+2.  Select the preferences that you want to configure.
 
 <table id="table_d5d_s2f_jqb"><thead><tr><th>
 
@@ -76,6 +76,3 @@ Sets the country code used for your instance. When combined with a language sele
 
 [System Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization-landing.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

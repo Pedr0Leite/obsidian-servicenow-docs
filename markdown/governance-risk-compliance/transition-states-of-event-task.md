@@ -115,8 +115,5 @@ The duplicate task \(t3\) moves to the **Closed duplicate** state automatically.
 
 You can re-trigger an original task as a manual task and complete its workflow like a regular event task by selecting the **Re-trigger as a manual task** UI action in the event task. It moves the original task to the **Open** state, but its duplicate task stays in the **Closed duplicate** state.
 
-**Parent Topic:**[[identifying-running-dup-tasks-once|Creating similar tasks groups]]
+**Parent Topic:**[Creating similar tasks groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/identifying-running-dup-tasks-once.md)
 
-## Related
-
-- [[identifying-running-dup-tasks-once|Creating similar tasks groups]]

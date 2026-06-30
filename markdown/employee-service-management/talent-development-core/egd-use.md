@@ -14,10 +14,10 @@ breadcrumb: [Talent Development Core, Growth Experiences, HR Service Delivery, E
 
 # Using the Talent Development Core application
 
-Managers and employees can create and track career development and growth plans. Managers access Talent from [[employee-center-landing-page|Employee Center]] menus **Your career** &gt; **Growth plans**to track employee development.
+Managers and employees can create and track career development and growth plans. Managers access Talent from Employee Center menus **Your career** &gt; **Growth plans**to track employee development.
 
 -   **[Create a growth plan with the help of Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-create-growth-plan-with-nowassist.md)**  
-Use Now Assist to help [[egd-create-growth-plan|create a growth plan]] to give your career goals guidance and structure.
+Use Now Assist to help create a growth plan to give your career goals guidance and structure.
 -   **[Create a growth plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-create-growth-plan.md)**  
 Create a growth plan to give your career goals guidance and structure.
 -   **[Edit a growth plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-edit-growth-plan.md)**  
@@ -37,7 +37,3 @@ As an employee, sync external badges into your organization’s Credly account a
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-create-growth-plan|Create a growth plan]]

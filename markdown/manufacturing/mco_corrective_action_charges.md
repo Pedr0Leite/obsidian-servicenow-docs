@@ -20,26 +20,20 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **Corrective Actions** &gt; **Corrective Action Charges**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Corrective Actions** &gt; **Corrective Action Charges**.
 
 2.  Select **New**.
 
 3.  On the corrective action charges form, fill in the fields.
 
-    For a description of the field values, see [[mco_corrective_action_charges_form|Corrective action charges form]].
+    For a description of the field values, see [Corrective action charges form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_corrective_action_charges_form.md).
 
 4.  Select **Save**.
 
     **Ready to use** option is displayed.
 
-    **Note:** At least one "In use" corrective action is required to initiate the [[mco-rcl-clms|recall campaign]] to In-progress.
+    **Note:** At least one "In use" corrective action is required to initiate the recall campaign to In-progress.
 
 
-**Parent Topic:**[[mco-corrective-actions|Corrective actions]]
+**Parent Topic:**[Corrective actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-actions.md)
 
-## Related
-
-- [[mco_corrective_action_charges_form|Corrective action charges form]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

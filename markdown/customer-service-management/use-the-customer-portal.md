@@ -14,11 +14,11 @@ breadcrumb: [Customer communication, Use, Customer Service Management]
 
 Search for information about a question or an issue, or request assistance from a customer service agent.
 
-Your [[c_CustomerServiceManagement|Customer Service Management]] Service Portal activity usually begins on the homepage. Organizations usually customize their landing pages, and logged-in users often see different information than users who are not logged in.
+Your Customer Service Management Service Portal activity usually begins on the homepage. Organizations usually customize their landing pages, and logged-in users often see different information than users who are not logged in.
 
 **Note:** If any active outages exist for your install base, they are displayed on the homepage.
 
-**Note:** A new customer service portal experience is available on the business portal. For details, see [[use-the-business-portal|Using the Business Portal]].
+**Note:** A new customer service portal experience is available on the business portal. For details, see [Using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-the-business-portal.md).
 
 From the Customer Service Portal homepage, you can access and use the following features:
 
@@ -36,7 +36,7 @@ Knowledge
 
 </td><td>
 
-Clicking **Knowledge** on the header or the main page takes you to the Knowledge homepage. You can [[t_SearchTheKnowledgeBase|search the knowledge base]] or view a list of top-rated or most viewed knowledge base articles.
+Clicking **Knowledge** on the header or the main page takes you to the Knowledge homepage. You can search the knowledge base or view a list of top-rated or most viewed knowledge base articles.
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Displays all your requests. You can also request items and services from the cat
 
 </td></tr><tr><td>
 
-My [[migration-lists|Lists]]
+My Lists
 
 </td><td>
 
@@ -68,7 +68,7 @@ Support
 
 </td><td>
 
-Navigate to appointments, contacts, work orders, install base, and other quick links.The list view of the [[install-base-item|Install Base items]] provide details related to customers like account and contact.
+Navigate to appointments, contacts, work orders, install base, and other quick links.The list view of the Install Base items provide details related to customers like account and contact.
 
 </td></tr><tr><td>
 
@@ -168,7 +168,7 @@ View the most useful knowledge articles based on the usage count of the articles
 
 </td></tr><tr><td colspan="2">
 
-The following components are available if you have installed the [[servicenow-communities|Communities]] application:
+The following components are available if you have installed the Communities application:
 
 </td></tr><tr><td>
 
@@ -197,11 +197,3 @@ View a list of featured community content.
 </td></tr></tbody>
 </table>**Note:** You can view the metadata for each entry in the widgets, such as the number of views, number of days from the time the article or feature was published, and rating for the article.
 
-## Related
-
-- [[use-the-business-portal|Using the Business Portal]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[t_SearchTheKnowledgeBase|Search the knowledge base]]
-- [[migration-lists|Lists]]
-- [[install-base-item|Install base items]]
-- [[servicenow-communities|Communities]]

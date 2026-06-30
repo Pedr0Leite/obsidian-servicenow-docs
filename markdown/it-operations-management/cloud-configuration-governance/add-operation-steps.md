@@ -14,7 +14,7 @@ breadcrumb: [Resource blocks in Cloud Provisioning and Governance, Cloud Admin P
 
 # Add operation steps to a resource block
 
-After you configure operations and input parameters for your resource block, add steps for each operation to tell the system which [[cloud-management-api|Cloud API \(CAPI\)]] to call. Each step is a separate call to CAPI.
+After you configure operations and input parameters for your resource block, add steps for each operation to tell the system which Cloud API \(CAPI\) to call. Each step is a separate call to CAPI.
 
 ## Before you begin
 
@@ -180,6 +180,3 @@ Invoke a subflow by adding an operation step to a resource and linking it to a n
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-management-api|Cloud API \(CAPI\)]]

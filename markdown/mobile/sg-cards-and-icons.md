@@ -14,12 +14,7 @@ breadcrumb: [Mobile app components, Building mobile apps, Mobile Platform]
 
 Cards are predetermined layouts that can show visuals, text, and data. Icons are symbols that act as actions or shortcuts when connected to other screens.
 
-You have the option of creating and editing cards in either [[mab-concept|Mobile App Builder]] or [[mobile-card-builder|Mobile Card Builder]], and have access to the full range of card and card template customization options in both.
+You have the option of creating and editing cards in either Mobile App Builder or Mobile Card Builder, and have access to the full range of card and card template customization options in both.
 
-For more information on icons, see [[sg-mobile-icon|Mobile icons]].
+For more information on icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).
 
-## Related
-
-- [[sg-mobile-icon|Mobile icons]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]

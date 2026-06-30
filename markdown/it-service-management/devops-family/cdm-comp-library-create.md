@@ -14,11 +14,11 @@ breadcrumb: [Sharing components among applications — Component libraries, Usin
 
 # Create or update a component library
 
-Create a component library to manage components that can be reused across multiple [[dex-workspace-application-tab|applications]].
+Create a component library to manage components that can be reused across multiple applications.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_admin
 
@@ -79,7 +79,3 @@ A component library is created. The state of the library is set to Not Available
 1.  [Add or update a shared component in a component library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-comp-library-add-component.md).
 2.  [Activate a component library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-comp-library-activate.md).
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]

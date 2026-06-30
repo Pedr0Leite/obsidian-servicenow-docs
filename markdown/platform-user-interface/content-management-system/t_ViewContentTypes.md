@@ -14,7 +14,7 @@ breadcrumb: [Content types, Configure Content Management sites, Content Manageme
 
 # View content types
 
-The following is an example of where you might use [[c_ContentTypes|Content Types]].
+The following is an example of where you might use Content Types.
 
 ## Before you begin
 
@@ -32,9 +32,9 @@ Use any out-of-box instance of a CMS site.
 
 2.  Under Get Help, click **Issue Status**.
 
-    The Issue Status, or incident\_status CMS page contains two [[c_ContentBlocks|content blocks]]: Common Answer and Current Issues. These content blocks both use Content Types to render results.
+    The Issue Status, or incident\_status CMS page contains two content blocks: Common Answer and Current Issues. These content blocks both use Content Types to render results.
 
-3.  From `https://<instance name>.service-now.com`, navigate to **Blocks** &gt; **[[lists-configurable-workspace|Lists]]** &gt; **Portal - Common Answers**.
+3.  From `https://<instance name>.service-now.com`, navigate to **Blocks** &gt; **Lists** &gt; **Portal - Common Answers**.
 
     This block matches the Common Answers section of the Issue Status page. The Table field describes the Content Type associated with Common Answers.
 
@@ -63,8 +63,3 @@ Use any out-of-box instance of a CMS site.
 
 **Parent Topic:**[Content types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentTypes.md)
 
-## Related
-
-- [[c_ContentTypes|Content types]]
-- [[c_ContentBlocks|Content blocks]]
-- [[lists-configurable-workspace|Lists]]

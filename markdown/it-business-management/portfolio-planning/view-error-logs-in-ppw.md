@@ -22,10 +22,8 @@ Role required: sn\_align\_core.apw\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Portfolio Planning** &gt; **Integrations**.
 
 2.  To view the error logs, select the **Integrations Errors** tab.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

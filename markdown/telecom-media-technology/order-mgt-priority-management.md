@@ -77,10 +77,7 @@ These rules are defined in the following decision tables:
 -   Order Priority Policy by Specification Attributes
 -   Order Priority Policy by Urgency
 
-Each parameter defined in the decision table has a rank value assigned to it. When an order is created, the decision tables are evaluated and a weightage is assigned to each table to calculate the order priority. See [[order-mgmt-priority-calculate|Calculating the order priority]] on how the priority is calculated.
+Each parameter defined in the decision table has a rank value assigned to it. When an order is created, the decision tables are evaluated and a weightage is assigned to each table to calculate the order priority. See [Calculating the order priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/order-mgmt-priority-calculate.md) on how the priority is calculated.
 
 **Note:** You can add new inputs, conditions, or modify the existing conditions in the decision tables. For more details on updating decision tables, see [Using decision tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/using-decision-builder.md).
 
-## Related
-
-- [[order-mgmt-priority-calculate|Calculating the order priority]]

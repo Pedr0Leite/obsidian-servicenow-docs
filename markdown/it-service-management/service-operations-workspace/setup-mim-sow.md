@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Setting up Major Incident Management in Service Operations Workspace
 
-Set up Major [[c_IncidentManagement|Incident Management]] \(MIM\) to manage major incidents from the incident record page in Service Operations Workspace. A major incident \(MI\) is an incident that results in significant disruption to the business and has a high business impact.
+Set up Major Incident Management \(MIM\) to manage major incidents from the incident record page in Service Operations Workspace. A major incident \(MI\) is an incident that results in significant disruption to the business and has a high business impact.
 
 A major incident demands a response beyond the routine incident management process. Major incidents have a separate procedure with shorter timescales and higher priority so there’s a faster resolution process for incidents with high business impact.
 
@@ -22,10 +22,5 @@ A major incident demands a response beyond the routine incident management proce
 
 Setting up Major Incident Management in Service Operations Workspace involves installing Major Incident Management using Admin Center in Service Operations Workspace.
 
-Admin Center in Service Operations Workspace gives admins centralized control of the instance. It provides quick access to manage all customizations in Service Operations Workspace for [[r_ITServiceManagement|IT Service Management]] \(ITSM\) and additional plugins that extend the [[sow-landing-page|Service Operations Workspace for ITSM]] capabilities. For more information on Admin Center, see [Admin Center in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/admin-center-sow.md).
+Admin Center in Service Operations Workspace gives admins centralized control of the instance. It provides quick access to manage all customizations in Service Operations Workspace for IT Service Management \(ITSM\) and additional plugins that extend the Service Operations Workspace for ITSM capabilities. For more information on Admin Center, see [Admin Center in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/admin-center-sow.md).
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

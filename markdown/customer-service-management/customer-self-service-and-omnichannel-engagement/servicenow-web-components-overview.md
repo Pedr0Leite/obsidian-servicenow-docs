@@ -22,7 +22,7 @@ The following are the prebuilt components that you can configure and embed on yo
 |------|-----------|
 |[Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/case-list-component.md)|Displays a comprehensive list of multiple cases along with their key details.|
 |[Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/case-create-component.md)|Displays a detailed view of all case-related activities.|
-|[Case view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/case-view-web-component.md)|Displays a form that helps you to create a case to address any issues related to products and services. [[case-view-web-component|Case view component]] also includes a process tab that displays relevant playbooks for the case record.|
+|[Case view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/case-view-web-component.md)|Displays a form that helps you to create a case to address any issues related to products and services. Case view component also includes a process tab that displays relevant playbooks for the case record.|
 |[Catalog item component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/catalog-item-web-component.md)|Displays a form that you can fill in to request an item or service.|
 |[Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-know-article-view-comp-overview.md)|Display knowledge article with key details like title, content, author, view count, and real time.|
 |[Data visualization component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-data-viz-comp-overview.md)|Display a graphical representation of information from any ServiceNow table using visual elements such as single score, pie chart, donut, and semi donut.|
@@ -32,9 +32,5 @@ The following are the prebuilt components that you can configure and embed on yo
 
 ## Custom component
 
-You can create a component or customize the existing components in UI Builder such as adding more properties to make the component configurable. UI Builder enables you to incorporate additional underlying components, and update the component bindings. The prebuilt components are non-customizable and are labeled with Default, however, you can clone them and then customize the cloned version as needed. Once you [[create-custom-comp|create a custom component]], it’s marked with the label Custom, making it easy to identify.
+You can create a component or customize the existing components in UI Builder such as adding more properties to make the component configurable. UI Builder enables you to incorporate additional underlying components, and update the component bindings. The prebuilt components are non-customizable and are labeled with Default, however, you can clone them and then customize the cloned version as needed. Once you create a custom component, it’s marked with the label Custom, making it easy to identify.
 
-## Related
-
-- [[case-view-web-component|Case view component]]
-- [[create-custom-comp|Create a custom component]]

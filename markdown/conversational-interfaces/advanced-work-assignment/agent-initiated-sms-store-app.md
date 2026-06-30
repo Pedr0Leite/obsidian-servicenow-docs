@@ -14,7 +14,7 @@ breadcrumb: [Use, Advanced Work Assignment, Manage people and work, Conversation
 
 # Agent initiated SMS conversation
 
-Customer Service [[management|Management]] supports additional messaging channel such as SMS which tracks interactions between the agent and customer.
+Customer Service Management supports additional messaging channel such as SMS which tracks interactions between the agent and customer.
 
 ## Requirements
 
@@ -85,6 +85,3 @@ There is an active interaction involving a different contact/consumer/user​
 
 The AgentInitiatedConversationUtil extension point is added to implement a customers' logic to change the default behaviour of the **Send from** and **Send to** fields. For more information, see [Associating user profiles on messaging interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/associate-user-profiles-messaging-interactions.md). For this store application, AgentInitiatedMessagingUtilExtPointImpl extension point is configured for fetching the from and to numbers.
 
-## Related
-
-- [[management|Management]]

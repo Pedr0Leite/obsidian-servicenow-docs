@@ -33,7 +33,7 @@ The administrator must set up the following items for the sales team members to 
 
 ## Sales contracts review request - Workflow
 
-As a sales team member, you can [[submit-legal-request|submit a legal request]] for getting legal support on sales contracts for the sales opportunities or accounts you own. On clicking the **Submit** button, the system checks for a deflection rule to match its defined conditions with the information entered in the request.
+As a sales team member, you can submit a legal request for getting legal support on sales contracts for the sales opportunities or accounts you own. On clicking the **Submit** button, the system checks for a deflection rule to match its defined conditions with the information entered in the request.
 
 -   If the conditions in any deflection rules do not match the details of the request, the legal request is submitted and assigned to the legal sales contract group.
 -   If the conditions of a deflection rule match the details of the request, the preconfigured legal guidance text appears in a dialog box. You can choose to take one of the following actions:
@@ -49,6 +49,3 @@ As a member of the legal contracts support team, review and revise a sales contr
 
 **Parent Topic:**[Submitting Legal Simple Contracts requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/sub-lg-sim-conts-reqs.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]

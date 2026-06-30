@@ -14,7 +14,7 @@ breadcrumb: [Major incident candidates, Managing major incidents using Major Inc
 
 # Review and work on a major incident candidate
 
-View a list of [[major-incidents-candidate|major incident candidates]] and add comments to the incidents proposed as major incidents.
+View a list of major incident candidates and add comments to the incidents proposed as major incidents.
 
 ## Before you begin
 
@@ -91,7 +91,3 @@ View the related lists of the major incident, such as, child incidents, impacted
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[major-incidents-candidate|Major incident candidates]]

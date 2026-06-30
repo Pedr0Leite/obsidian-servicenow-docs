@@ -30,7 +30,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Calendars**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Calendars**.
 
 2.  Click the Calendar View icon \(\[Omitted image "view-calendar-calendar-icon.png"\] Alt text: Calendar View icon\) to open the calendar view of shifts.
 
@@ -68,12 +68,8 @@ Role required:
 
         For information on resolving gaps and conflicts, see [Resolve gaps, conflicts, and time-off requests in a shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/resolv-gap-conflct-timeoff-oncall.md).
 
-5.  To save the view [[settings-mobile|settings]], click the Bookmark this filter icon \(\[Omitted image "view-favourite-icon.png"\] Alt text: Bookmark this filter icon\).
+5.  To save the view settings, click the Bookmark this filter icon \(\[Omitted image "view-favourite-icon.png"\] Alt text: Bookmark this filter icon\).
 
 
 **Parent Topic:**[Configure or update an On-Call schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-update-schedule-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

@@ -12,7 +12,7 @@ breadcrumb: [Create defined related lists, Related lists, Forms in the classic e
 
 # Add incidents by same caller related list
 
-This example adds the existing relationship, Incidents by Same Caller, to incident [[form-configurable-workspace|forms]].
+This example adds the existing relationship, Incidents by Same Caller, to incident forms.
 
 ## Before you begin
 
@@ -30,9 +30,9 @@ Role required: admin
 
 1.  Open an incident.
 
-2.  Right-click the header and select **[[configure-onboarding-modals|Configure]]** &gt; **[[c_RelatedLists|Related Lists]]**.
+2.  Right-click the header and select **Configure** &gt; **Related Lists**.
 
-    The name of the existing relationships appears in your list of available [[lists-configurable-workspace|lists]].
+    The name of the existing relationships appears in your list of available lists.
 
 3.  Move the **Incidents by Same Caller** list to the **Selected** list.
 
@@ -45,7 +45,7 @@ Role required: admin
 
 Notes and limitations:
 
--   Creating a record using a related list applies the list filter to the record and auto-populates the related field. This behavior applies to [[onboarding-modals-reference|reference]], string, Boolean, and menu fields when the criteria in the filter is set to **is** or **=**.
+-   Creating a record using a related list applies the list filter to the record and auto-populates the related field. This behavior applies to reference, string, Boolean, and menu fields when the criteria in the filter is set to **is** or **=**.
 -   For example, if you click the **New** button on one of these new relationships, the system attempts to ensure that the new record matches the list conditions. For example, clicking **New** on the example list results in an incident where the **caller\_id** is pre-populated with **Bud Richman**.
 -   When scripting your condition, **current** is the record to which you want to add queries while **parent** is the main record being displayed.
 -   These relationships do not refresh until you update a form. In the example, if you changed the caller from **Bud Richman** to **Fred Luddy**, the list at the bottom of the screen still displays the incidents belonging to Bud Richman until you save the incident.
@@ -55,18 +55,10 @@ Notes and limitations:
 
 Additional use case: You can enable a similar relationship for the Request table to display **Requests by the Same Caller** using **Requested For** on the Request table.
 
-**Parent Topic:**[[t_CreateDefinedRelatedLists|Create defined related lists]]
+**Parent Topic:**[Create defined related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateDefinedRelatedLists.md)
 
 **Related topics**  
 
 
 [bundle-crapiref.c_GlideSystem]
 
-## Related
-
-- [[t_CreateDefinedRelatedLists|Create defined related lists]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_RelatedLists|Related lists]]
-- [[lists-configurable-workspace|Lists]]
-- [[onboarding-modals-reference|Reference]]

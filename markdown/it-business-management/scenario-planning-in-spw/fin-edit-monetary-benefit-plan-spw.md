@@ -23,7 +23,7 @@ Edit a planned monetary benefit plan to revise the benefits, dates, offset, and 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select a portfolio plan.
 
@@ -60,14 +60,8 @@ Procedure
 
 1.  Select the **Financials** tab.
 2.  Select the name of a required benefit plan.
-3.  In the [[fin-edit-monetary-benefit-plan-ppw|Edit monetary benefit plan]] side-panel, edit the required fields and select **Update**.
+3.  In the Edit monetary benefit plan side-panel, edit the required fields and select **Update**.
 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[fin-edit-monetary-benefit-plan-ppw|Edit monetary benefit plan]]

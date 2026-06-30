@@ -14,7 +14,7 @@ breadcrumb: [Use Opportunity Marketplace, Opportunity Marketplace, Hiring Experi
 
 # Update Job Preferences
 
-Make updates to your job preferences to help you apply for opportunities. Your job preferences are used by [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] to do a match analysis with roles.
+Make updates to your job preferences to help you apply for opportunities. Your job preferences are used by Opportunity Marketplace to do a match analysis with roles.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Updating your internal job preferences let's you apply for roles related to your
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] go to **Opportunity Marketplace** &gt; **[[egd-oppt-mrktplc-internal-job|Internal jobs]]**.
+1.  From the Employee Center go to **Opportunity Marketplace** &gt; **Internal jobs**.
 
     **Note:** **Internal jobs** is used as an example for this task. You can also update opportunity preferences from **Other opportunities**.
 
@@ -54,8 +54,3 @@ Continue to apply for jobs based on your updated preferences.
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]

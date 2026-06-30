@@ -26,11 +26,11 @@ The calendar displays either single events or stacked events when multiple event
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Workspace**
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Workspace**
 
 2.  Select the **Planning calendar** icon \(\[Omitted image "show-schedule-new.png"\] Alt text: Planning calendar icon\).
 
-3.  [[generate-work-orders|Generate work orders]] for the schedule occurrence by right-clicking the event and selecting **Generate work orders**.
+3.  Generate work orders for the schedule occurrence by right-clicking the event and selecting **Generate work orders**.
 
     A list of work orders is automatically generated for the selected schedule occurrence, taking into account the number of work order templates associated with the schedule.
 
@@ -57,8 +57,4 @@ The calendar displays either single events or stacked events when multiple event
 
     3.  Select **Apply**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[planned-work-management|Planned Work Management]]
-- [[generate-work-orders|Generate work orders]]

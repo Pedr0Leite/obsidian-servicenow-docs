@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Request Management, Operational T
 
 # Components installed with Operational Technology Request Management
 
-Several types of components may be installed with the activation of [[operational-technology-request-management-landing-page|Operational Technology Request Management]], including user roles and service catalogs.
+Several types of components may be installed with the activation of Operational Technology Request Management, including user roles and service catalogs.
 
 ## Roles installed
 
@@ -81,6 +81,3 @@ NA
 
 **Parent Topic:**[Operational Technology Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/operational-technology-request-management-reference.md)
 
-## Related
-
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]

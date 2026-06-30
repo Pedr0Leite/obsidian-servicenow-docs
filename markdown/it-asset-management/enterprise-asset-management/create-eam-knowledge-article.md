@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Create a knowledge article for Enterprise Asset Management
 
-Create and edit knowledge articles within a knowledge base to share information across your organization. You can create articles about the [[enterprise-asset-management|Enterprise Asset Management]] application on subjects such as troubleshooting and configuration.
+Create and edit knowledge articles within a knowledge base to share information across your organization. You can create articles about the Enterprise Asset Management application on subjects such as troubleshooting and configuration.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Admin center** &gt; **Asset knowledge base**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Admin center** &gt; **Asset knowledge base**.
 
 2.  Select **New** in the Asset knowledge base page.
 
@@ -142,14 +142,9 @@ Content for the article. A preview of the content appears when browsing and sear
 
 ## Result
 
-After an article is created and published, users with the enterprise technician \[enterprise\_asset\_technician\] role can attach the articles to enterprise [[c_Models|models]].
+After an article is created and published, users with the enterprise technician \[enterprise\_asset\_technician\] role can attach the articles to enterprise models.
 
 You can search for or view articles in your ServiceNow instance by typing `Enterprise Asset Knowledge Base` in the navigation bar. All articles on Enterprise Asset Knowledge Base are listed.
 
 You can also see the asset's model knowledge articles in the Model Knowledge related list in the asset form. The work order and the work order task forms also has the Parts Knowledge related list.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]

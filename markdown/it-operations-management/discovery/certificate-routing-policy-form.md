@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management reference, Certificate Invento
 
 # Certificate Routing Policy form
 
-The [[certificate-routing-policy-field-values|Certificate Routing Policy form]] enables you to configure routing policies for CyberArk Certificate Manager SaaS.
+The Certificate Routing Policy form enables you to configure routing policies for CyberArk Certificate Manager SaaS.
 
 |Field|Description|
 |-----|-----------|
@@ -36,6 +36,3 @@ The [[certificate-routing-policy-field-values|Certificate Routing Policy form]] 
 
 **Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[certificate-routing-policy-field-values|Certificate Routing Policy form]]

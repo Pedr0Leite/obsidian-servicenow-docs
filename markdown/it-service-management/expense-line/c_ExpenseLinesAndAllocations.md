@@ -29,7 +29,7 @@ You can automatically create expense lines to facilitate the accurate reporting 
 -   **[Create expense lines manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_CreateExpenseLinesManually.md)**  
 You can create expense lines at a single level or in a hierarchy to better organize expense information.
 -   **[Delete an expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_DeleteAnExpenseLine.md)**  
-Deleting an [[c_ExpenseLine|expense line]] also deletes all expense allocations that were generated from the expense line.
+Deleting an expense line also deletes all expense allocations that were generated from the expense line.
 -   **[Create a sample allocation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_SampleAllocationRule.md)**  
 You can create a sample expense allocation rule that allocates the cost of an incident to the department of the caller.
 -   **[Use a scripted allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/expense-line/t_UseAScriptedAllocation.md)**  
@@ -46,6 +46,3 @@ Scripted allocations define custom allocation amounts and targets by executing a
 
 [Domain separation and Expense Line]()
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

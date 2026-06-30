@@ -27,7 +27,7 @@ The help manage enterprise asset requests agentic workflow automates the enterpr
 -   Improves operational efficiency.
 -   Enhances and simplifies the user experience.
 
-Based on the available inventory across your [[c_Stockrooms|stockrooms]], the workflow uses AI agents to automatically source assets through one of the following options:
+Based on the available inventory across your stockrooms, the workflow uses AI agents to automatically source assets through one of the following options:
 
 <table id="table_spm_gql_4hc"><thead><tr><th>
 
@@ -99,9 +99,9 @@ Before the help manage enterprise asset requests agentic workflow can begin sour
 -   The request has been approved.
 -   Each requested asset can be sourced.
 -   Each requested asset has not already been sourced.
--   Each asset is either requested directly from the Enterprise Catalog or associated with one of the following [[c_Models|models]]:
+-   Each asset is either requested directly from the Enterprise Catalog or associated with one of the following models:
     -   Any valid enterprise model
-    -   Any valid hardware model that is supported by the [[ot-asset-management|OT Asset Management]] application
+    -   Any valid hardware model that is supported by the OT Asset Management application
 -   Each requested asset corresponds with a requested item \(RITM\) under the enterprise asset request. Each RITM has a valid and unique RITM number.
 -   Each RITM is assigned to a user with the asset\_manager role.
 
@@ -195,7 +195,7 @@ After the request is successfully validated, the workflow sources the requested 
 </td></tr></tbody>
 </table>## AI agents used in the help manage enterprise asset requests agentic workflow
 
-The help manage enterprise asset requests agentic workflow uses the following AI agents to execute tasks for [[fulfilling-enterprise-asset-requests|fulfilling enterprise asset requests]].
+The help manage enterprise asset requests agentic workflow uses the following AI agents to execute tasks for fulfilling enterprise asset requests.
 
 <table id="table_rwp_my4_nhc"><thead><tr><th>
 
@@ -211,8 +211,8 @@ Asset sourcing AI agent
 
 </td><td>
 
-Initiates the sourcing process for a requested asset. The AI agent prioritizes sourcing the asset from a local stockroom. If the asset is not available, or if the corresponding asset sourcing option is not enabled, the AI agent can trigger one of the following order creation AI agents to create either a transfer order or purchase order for the asset:-   Transfer order creation AI agent to [[create-a-transfer-order|create a transfer order]]
--   Purchase order creation AI agent to [[t_CreateAPurchaseOrder|create a purchase order]]
+Initiates the sourcing process for a requested asset. The AI agent prioritizes sourcing the asset from a local stockroom. If the asset is not available, or if the corresponding asset sourcing option is not enabled, the AI agent can trigger one of the following order creation AI agents to create either a transfer order or purchase order for the asset:-   Transfer order creation AI agent to create a transfer order
+-   Purchase order creation AI agent to create a purchase order
 
 </td></tr><tr><td>
 
@@ -233,11 +233,3 @@ Sources the requested asset by creating a purchase order. If you have multiple d
 </td></tr></tbody>
 </table>**Parent Topic:**[Fulfilling enterprise asset requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/fulfilling-enterprise-asset-requests.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[c_Models|Models]]
-- [[ot-asset-management|OT Asset Management]]
-- [[fulfilling-enterprise-asset-requests|Fulfilling enterprise asset requests]]
-- [[create-a-transfer-order|Create a transfer order]]
-- [[t_CreateAPurchaseOrder|Create a purchase order]]

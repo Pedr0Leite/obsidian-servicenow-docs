@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  In the [[project-workspace-landing-page|project workspace]] banner above the project workbench header, select the down arrow in the project selector box.
+1.  In the project workspace banner above the project workbench header, select the down arrow in the project selector box.
 
 2.  Select a project from the choice list.
 
@@ -44,6 +44,3 @@ Role required: it\_project\_manager
 
 [Create a project task in the project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateProjTaskProjWorkbench.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

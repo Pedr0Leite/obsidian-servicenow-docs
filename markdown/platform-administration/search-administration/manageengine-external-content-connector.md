@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # ManageEngine external content connector
 
-The ManageEngine external content connector retrieves public-domain knowledge articles from knowledge bases in your ManageEngine source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The ManageEngine external content connector retrieves public-domain knowledge articles from knowledge bases in your ManageEngine source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to update searchable content and metadata from your source system. Content crawls feed their data to AI Search for indexing.
 
@@ -37,6 +37,3 @@ Delimit the set of knowledge articles you want your ManageEngine external conten
 
 [Create a user permission crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-user-mapping-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

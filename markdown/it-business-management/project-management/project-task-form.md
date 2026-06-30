@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Management, Project Management r
 
 # Project task form
 
-Learn about the fields of project task form. The fields appear when the [[c_ProjectPortfolioSuite|Project Portfolio Management]] is active and the [[create-a-project-form|Project form]] is in the **Basic** view. Configure the form to display the fields.
+Learn about the fields of project task form. The fields appear when the Project Portfolio Management is active and the Project form is in the **Basic** view. Configure the form to display the fields.
 
 <table id="table_ibj_35d_br"><thead><tr><th>
 
@@ -78,7 +78,7 @@ State
 
 </td><td>
 
-Current state of the project. The states include: Pending, Open, Work in Progress, Closed Complete, Closed Incomplete, Closed Skipped.The state is automatically rolled up from the [[t_CreateAProjectTask|project tasks]]. For more information, see [Project calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbenchProjectCalc.md) and [Parent-child rollup task calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ParentChildRollupTaskCalcs.md).
+Current state of the project. The states include: Pending, Open, Work in Progress, Closed Complete, Closed Incomplete, Closed Skipped.The state is automatically rolled up from the project tasks. For more information, see [Project calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbenchProjectCalc.md) and [Parent-child rollup task calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ParentChildRollupTaskCalcs.md).
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Assigned to
 
 User assigned to the project task. The following conditions apply:-   If an assignment group is defined, only users in the assignment group appear in the lookup list.
 -   If skills are defined, only users with those skills appear in the lookup list.
--   If no assignment groups or skills are defined, only users with one of the [[c_ProjectApplicationOverview|Project Management]] application user roles appear in the lookup list.
+-   If no assignment groups or skills are defined, only users with one of the Project Management application user roles appear in the lookup list.
 -   Users with `timecard_user` role also appear in the lookup list.
 
 </td></tr><tr><td>
@@ -252,7 +252,7 @@ Actual effort
 
 </td><td>
 
-Actual number of hours charged from the resources on this project task. If you are using the [[time-card-management|Time Card Management]] application, the value for the field comes from the application automatically. The application calculates the actual effort on the task by taking the total time worked from all approved [[c_TimeCards|time cards]] of all resources who worked on the task.
+Actual number of hours charged from the resources on this project task. If you are using the Time Card Management application, the value for the field comes from the application automatically. The application calculates the actual effort on the task by taking the total time worked from all approved time cards of all resources who worked on the task.
 
 </td></tr><tr><td>
 
@@ -289,11 +289,3 @@ Original planned date and time for the task to end.
 
 [Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[time-card-management|Time Card Management]]
-- [[c_TimeCards|Time cards]]

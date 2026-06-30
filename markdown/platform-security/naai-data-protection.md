@@ -12,7 +12,7 @@ breadcrumb: [Agentic AI security and governance]
 
 # Data protection
 
-Learn how ServiceNow security tools such as the Key Management Framework, Field Encryption, and [[data-classification|Data Classification]] work to keep your data secure.
+Learn how ServiceNow security tools such as the Key Management Framework, Field Encryption, and Data Classification work to keep your data secure.
 
 Now Assist keeps your data secure throughout the AI lifecycle. Additional controls let you manage how personally identifiable information \(PII\) is handled, who can make data sharing decisions, and how sensitive data is discovered and protected across your instance.
 
@@ -30,7 +30,7 @@ The following topics, all in Now Assist Admin, describe how Now Assist handles y
 
 -   **[Configure Now Assist privacy policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-privacy-policies.md)**
 
-    Set up privacy [[ca-policies|policies]] to control how sensitive information is anonymized during AI processing.
+    Set up privacy policies to control how sensitive information is anonymized during AI processing.
 
 -   **[Assign the data steward role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assign-data-steward-role.md)**
 
@@ -45,11 +45,11 @@ The following topics, all in Now Assist Admin, describe how Now Assist handles y
 
 The following topics describe how to use Now Assist for Vault and Now Assist Data Kit to discover, classify, and protect sensitive data on your instance.
 
--   **[[encryption|Key Management Framework]]**
+-   **[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)**
 
-    Use the Key Management Framework to create and manage [[encryption-landing|encryption]] keys that control access to sensitive data on your instance, including keys used by AI agents and agentic workflows.
+    Use the Key Management Framework to create and manage encryption keys that control access to sensitive data on your instance, including keys used by AI agents and agentic workflows.
 
--   **[[field-encryption|Field Encryption]]**
+-   **[Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md)**
 
     Encrypt individual fields on your instance to protect sensitive data at rest, ensuring that AI agents can only access encrypted fields when they have the appropriate permissions.
 
@@ -57,19 +57,19 @@ The following topics describe how to use Now Assist for Vault and Now Assist Dat
 
     Define and apply data classification labels to identify sensitive content across your instance, helping you understand what data your AI agents can access and where protection controls are needed.
 
--   **[[now-assist-vault-landing|Now Assist for Vault]]**
+-   **[Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-vault-landing.md)**
 
-    Learn about the generative AI skills available in Now Assist for Vault for generating custom data patterns, checking role access for encrypted columns, and scheduling [[data-discovery-jobs|data discovery jobs]].
+    Learn about the generative AI skills available in Now Assist for Vault for generating custom data patterns, checking role access for encrypted columns, and scheduling data discovery jobs.
 
--   **[[schedule-data-discovery-job-now-assist-vault|Schedule a Data Discovery job with Now Assist for Vault]]**
+-   **[Schedule a Data Discovery job with Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/schedule-data-discovery-job-now-assist-vault.md)**
 
     Schedule one-time or recurring Data Discovery jobs to detect sensitive data such as PII or PHI that may be present in inputs to the LLM.
 
--   **[[check-role-access-now-assist-vault|Check role access for an encrypted column with Now Assist for Vault]]**
+-   **[Check role access for an encrypted column with Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/check-role-access-now-assist-vault.md)**
 
     Identify which user roles have access to encryption and decryption keys in your instance to monitor your encryption access posture.
 
--   **[[generate-custom-data-pattern-now-assist-vault|Generate a custom data pattern by using Now Assist for Vault]]**
+-   **[Generate a custom data pattern by using Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/generate-custom-data-pattern-now-assist-vault.md)**
 
     Create a custom regular expression data pattern from a plain-language description and add it as an active data pattern on your instance.
 
@@ -78,18 +78,5 @@ The following topics describe how to use Now Assist for Vault and Now Assist Dat
     Now Assist Data Kit: Scan your datasets for sensitive data including PII, and cleanse identified data before it is used in AI evaluations.
 
 
-**Parent Topic:**[[now-assist-security|Agentic AI security and governance]]
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[field-encryption|Field Encryption]]
-- [[now-assist-vault-landing|Now Assist for Vault]]
-- [[schedule-data-discovery-job-now-assist-vault|Schedule a Data Discovery job with Now Assist for Vault]]
-- [[check-role-access-now-assist-vault|Check role access for an encrypted column with Now Assist for Vault]]
-- [[generate-custom-data-pattern-now-assist-vault|Generate a custom data pattern by using Now Assist for Vault]]
-- [[now-assist-security|Agentic AI security and governance]]
-- [[data-classification|Data Classification]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[data-discovery-jobs|Data Discovery jobs]]

@@ -15,7 +15,7 @@ breadcrumb: [AI capabilities in Service Mapping, Using Service Mapping, Service 
 
 # AI Agents for Service Mapping
 
-AI Agents for Service Mapping are autonomous AI agents that automate the creation and maintenance of service maps in the Configuration Management Database \(CMDB\), reducing manual effort for [[c_ServiceMappingOverview|Service Mapping]] administrators.
+AI Agents for Service Mapping are autonomous AI agents that automate the creation and maintenance of service maps in the Configuration Management Database \(CMDB\), reducing manual effort for Service Mapping administrators.
 
 AI agents for Service Mapping include two AI Agents that automate key parts of the service mapping workflow. After activation, both agents run autonomously in the background on a recurring schedule, processing all relevant records without requiring administrator input for each one.
 
@@ -83,7 +83,7 @@ To raise the quota and reactivate the agents, first configure the following prop
 1.  For the Service Mapping AI Agent: sn\_sm\_gen\_ai.agent\_invocation\_limit.ServiceMapCreationAISpecialist
 2.  For the Business App Mapping AI Agent: sn\_sm\_gen\_ai.agent\_invocation\_limit.CSDMBusinessApplicationtoInfrastructureAISpecialist
 
-You can change the value according to your needs, with consideration of the Now Assist resources. After raising the quota, reactivate the Service Mapping AI Agents in the [[sm-dashboard|Service Mapping workspace]].
+You can change the value according to your needs, with consideration of the Now Assist resources. After raising the quota, reactivate the Service Mapping AI Agents in the Service Mapping workspace.
 
 **Note:** Raising the quota results in a higher Now Assist resource consumption.
 
@@ -96,7 +96,3 @@ Use this reference to understand how the Business App Mapping AI Agent handles m
 
 **Parent Topic:**[AI capabilities in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/ai-workflows-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[sm-dashboard|Service Mapping Workspace]]

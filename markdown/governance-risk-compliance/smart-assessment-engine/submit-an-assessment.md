@@ -14,7 +14,7 @@ breadcrumb: [Respond to assessments, Manage, Smart Assessment Engine, Governance
 
 # Submit an assessment
 
-You must have the assessment actor role to complete and [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]]. The submit button becomes enabled once all required questions are answered.
+You must have the assessment actor role to complete and submit the assessment. The submit button becomes enabled once all required questions are answered.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ A lock icon next to the submit button indicates the number of required questions
 
 5.  Select **Submit**.
 
-## Related
 
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

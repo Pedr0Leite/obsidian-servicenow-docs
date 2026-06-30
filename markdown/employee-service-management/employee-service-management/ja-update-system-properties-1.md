@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Update system properties for Microsoft Exchange Online in the Journey Accelerator app
 
-Update the [[journey-accelerator-1|Journey Accelerator]] app system properties to use with Microsoft Exchange Online features support by Journey Accelerator.
+Update the Journey Accelerator app system properties to use with Microsoft Exchange Online features support by Journey Accelerator.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Journey Accelerator integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-integrations.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

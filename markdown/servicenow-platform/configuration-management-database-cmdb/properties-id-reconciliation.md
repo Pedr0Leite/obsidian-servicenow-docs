@@ -14,7 +14,7 @@ breadcrumb: [Reference, CMDB Identification and Reconciliation \(IRE\), Configur
 
 # Properties for Identification and Reconciliation
 
-Use the Identification and Reconciliation properties to configure the [[ire|identification and reconciliation engine \(IRE\)]].
+Use the Identification and Reconciliation properties to configure the identification and reconciliation engine \(IRE\).
 
 These properties are available for Identification and Reconciliation. To view and edit these properties, the sn\_cmdb\_admin or admin role is required.
 
@@ -179,7 +179,7 @@ Controls how identification processes a small set of duplicate CIs.
 
 If the number of duplicate CIs is less than the threshold specified by **glide.identification\_engine.skip\_duplicates.threshold**, then the oldest of the duplicate CIs is picked as a match and gets updated. That oldest CI is also designated as the main CI for that set of duplicate CIs.
 
-For the rest of the duplicate CIs, the **duplicate\_of** field is set as a [[reference|reference]] to the main CI.
+For the rest of the duplicate CIs, the **duplicate\_of** field is set as a reference to the main CI.
 
     -   **false**
 
@@ -315,7 +315,7 @@ glide.identification\_engine.partial\_payload\_items\_max\_size
 
 Maximum number of items allowed when creating a partial payload. When that limit is reached, the partial payload is split.
 
- For example, when IRE creates a partial payload, items and associated relations and [[reference-document-management|references]], are all merged in one partial payload. This merge could result in a large partial payload.
+ For example, when IRE creates a partial payload, items and associated relations and references, are all merged in one partial payload. This merge could result in a large partial payload.
 
  Adjusting this property can help with performance issues related to IRE processing of partial items.
 
@@ -420,7 +420,7 @@ glide.identification\_engine.platform\_domain\_separation\_enabled
 
 </td><td>
 
-Toggles [[domain-separation-relationship-formatter-editor|domain separation]] support mode during IRE processing.
+Toggles domain separation support mode during IRE processing.
 
 -   false: IRE processes run only within the current domain. Basically disabling parent domains access to child domains during IRE processing.
 -   true: IRE domain separation follows the platform domain separation behavior. Basically, enabling parent domains to look access into all its child domains during IRE processing.
@@ -436,7 +436,7 @@ glide.identification\_engine.enable\_identifier\_optional\_condition
 
 </td><td>
 
-Enables advanced options for regular identifier entries in [[c_IdentificationRules|identification rules]]. Those advanced options let you add conditions to narrow the set of records that will be searched for a matching CI.
+Enables advanced options for regular identifier entries in identification rules. Those advanced options let you add conditions to narrow the set of records that will be searched for a matching CI.
 
 **Note:**
 
@@ -502,7 +502,7 @@ glide.identification\_engine.dynamic\_ire\_enabled
 
 </td><td>
 
-Switch between using [[dynamic-ire|Dynamic IRE]] or Static IRE. Set to 'true' to use Dynamic IRE and to turn off Static IRE.
+Switch between using Dynamic IRE or Static IRE. Set to 'true' to use Dynamic IRE and to turn off Static IRE.
 
  -   Type: true \| false
 -   Default: false
@@ -511,12 +511,3 @@ Switch between using [[dynamic-ire|Dynamic IRE]] or Static IRE. Set to 'true' to
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_IdentificationRules|Identification rules]]
-- [[dynamic-ire|Dynamic IRE]]

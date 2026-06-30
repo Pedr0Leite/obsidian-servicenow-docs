@@ -12,7 +12,7 @@ breadcrumb: [Using customer data models for B2B2C, Customer management, Use, Cus
 
 # View sold products information as an account consumer
 
-Track the products or services sold to your account by viewing the list of [[sold-product|sold products]] from the Customer Service Portal.
+Track the products or services sold to your account by viewing the list of sold products from the Customer Service Portal.
 
 ## Before you begin
 
@@ -34,9 +34,6 @@ View a list of sold products to track the products or services sold to your acco
 
 3.  Select a product to view its details.
 
-    **Note:** The default view is the form view. If you switch to the list view, the **Account** and **Consumer** fields aren’t displayed. See [[config-b2b2c-data-model-case-list|Configure the Install Base items and Sold Products lists]] for details.
+    **Note:** The default view is the form view. If you switch to the list view, the **Account** and **Consumer** fields aren’t displayed. See [Configure the Install Base items and Sold Products lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-b2b2c-data-model-case-list.md) for details.
 
-## Related
 
-- [[config-b2b2c-data-model-case-list|Configure the Case list for B2B2C]]
-- [[sold-product|Sold products]]

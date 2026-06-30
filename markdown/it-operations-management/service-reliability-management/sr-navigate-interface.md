@@ -14,13 +14,13 @@ breadcrumb: [Get started with Service Reliability Management, Exploring Service 
 
 # SRM interface
 
-The different components on the [[sr-landing-page|Service Reliability Management]] \(SRM\) interface provide easy access to different functions. The features and functions that appear depend on your role and permissions.
+The different components on the Service Reliability Management \(SRM\) interface provide easy access to different functions. The features and functions that appear depend on your role and permissions.
 
 The SRM interface has the following different sections:
 
 \[Omitted image "sr-ui.png"\] Alt text: Reliability tasks page with numbered sections corresponding to the following table.
 
-**Note:** If you use other [[workspace-dashboard-use|Service Operations Workspace]] \(SOW\) applications, you may see the SOW Home page instead of the [[sr-home-page|SRM Home page]]. The SOW Home page includes SRM alerts and incidents in its metrics. Depending on your role, you may see other icons in the primary navigation.
+**Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics. Depending on your role, you may see other icons in the primary navigation.
 
 If you see the SOW Home page, select an SRM icon to view SRM-specific information.
 
@@ -87,8 +87,3 @@ Add tags to classify, categorize, and add context to data. Service Reliability M
 
 **Parent Topic:**[Get started with Service Reliability Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-get-started.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

@@ -93,13 +93,13 @@ Role required: agent\_client\_collector\_admin
     -   Linux: `systemctl restart acc`
     -   Windows:
         1.  Open the Services application.
-        2.  Select and hold \(or right-click\) the [[acc-landing-page|Agent Client Collector]] entry and select **Restart**.
+        2.  Select and hold \(or right-click\) the Agent Client Collector entry and select **Restart**.
     -   macOS:
         1.  `launchctl unload -w /Library/LaunchDaemons/com.sn.acc.plist`
         2.  `launchctl load -w /Library/LaunchDaemons/com.sn.acc.plist`
 9.  Check the logs to verify that the agent was able to connect to the instance using TLS.
 
-    [[acc-logs-concept|Agent Client Collector logs]] are accessible from:
+    Agent Client Collector logs are accessible from:
 
     -   Linux: `/var/log/servicenow/agent-client-collector/acc.log`
     -   Windows: The location specified by the `log-file` configuration flag. The default location is: `C:/ProgramData/ServiceNow/agent-client-collector/log/acc.log`
@@ -113,7 +113,3 @@ Role required: agent\_client\_collector\_admin
 
 [MID Web Server and agent mTLS Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/mid-web-server-mTLS-authentication.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-logs-concept|Agent Client Collector logs]]

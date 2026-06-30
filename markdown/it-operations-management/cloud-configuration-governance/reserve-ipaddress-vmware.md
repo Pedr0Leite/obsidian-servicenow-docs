@@ -26,7 +26,7 @@ You can create a policy that is invoked when a VMware virtual machine is provisi
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Click **New** and then fill in the form.
 
@@ -62,6 +62,4 @@ You can create a policy that is invoked when a VMware virtual machine is provisi
 
 13. Click **Update** and republish the policy.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

@@ -14,11 +14,11 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Export an NLU model
 
-Export a [[nlu-landing|Natural Language Understanding]] \(NLU\) model to create a CSV file of the intents and utterances. You can then use the CSV file to edit, share, and import.
+Export a Natural Language Understanding \(NLU\) model to create a CSV file of the intents and utterances. You can then use the CSV file to edit, share, and import.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Role required: nlu\_editor, nlu\_admin, or admin
 
 ## About this task
@@ -48,7 +48,3 @@ Exporting an NLU model creates a CSV file. The file contains a table of the utte
 
 You can use the CSV file to share the model or edit the utterances. You can also create a model by importing the CSV file. For more information, see [Create an NLU model from a CSV file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/create-nlu-model-csv.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

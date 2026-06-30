@@ -26,7 +26,7 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Scheduled Imports**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Scheduled Imports**.
 
     Following two scheduled data imports exist within the base system.
 
@@ -54,6 +54,4 @@ Threat feeds provide a situational awareness of potential or current threats to 
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

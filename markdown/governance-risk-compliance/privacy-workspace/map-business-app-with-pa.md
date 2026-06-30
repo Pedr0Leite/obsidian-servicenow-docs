@@ -37,7 +37,7 @@ Additionally, ensure that there is valid data for both the fields. For example, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Configure [[privacy-management|privacy management]]** &gt; **Processing activity mapping**.
+1.  Navigate to **All** &gt; **Privacy Workspace** &gt; **Configure privacy management** &gt; **Processing activity mapping**.
 
 2.  Click **New**.
 
@@ -66,6 +66,3 @@ The mapping is successfully created. The fields that are mapped will be populate
 
 **Parent Topic:**[Configuring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-privacy-mgmt.md)
 
-## Related
-
-- [[privacy-management|privacy management]]

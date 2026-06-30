@@ -12,7 +12,7 @@ breadcrumb: [Configuring AI search, Recommended Actions configuration, Implement
 
 # Configure dynamic filters in AI Search for Recommended Actions
 
-Configure AI Search to preprocess contextual inputs from [[configure-nba|Recommended Actions]] so that search results are dynamically filtered based on the current record context.
+Configure AI Search to preprocess contextual inputs from Recommended Actions so that search results are dynamically filtered based on the current record context.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ When preprocessing is implemented, AI Search considers the defined filter condit
 
 3.  Create the AisDynamicFilter implementation for search sources.
 
-    1.  Navigate to **All** &gt; **System Extension [[gamification-components-points|Points]]** &gt; **Scripted Extension Points**.
+    1.  Navigate to **All** &gt; **System Extension Points** &gt; **Scripted Extension Points**.
 
     2.  Open the **AisDynamicFilter** extension point.
 
@@ -86,7 +86,3 @@ When preprocessing is implemented, AI Search considers the defined filter condit
 
 In the Search tab of the Recommended Actions context side panel, only the search results that match the exact context of the current record appear.
 
-## Related
-
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-points|Points]]

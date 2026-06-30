@@ -24,7 +24,7 @@ Each crawl history entry for an external content connector's user permission cra
 |Error|Score shows the number of Error-level alerts recorded for the user permission crawl. Select **Details** to view the Alerts tab for the crawl history entry.|
 |Warning|Score shows the number of Warning-level alerts recorded for the user permission crawl. Select **Details** to view the Alerts tab for the crawl history entry.|
 |Users|
-|Users|Score shows the total number of users that were added to the [[ia-ai-search|AI Search]] index by the user permission crawl.|
+|Users|Score shows the total number of users that were added to the AI Search index by the user permission crawl.|
 |Discovered|Score shows the number of users that were processed by the user permission crawl.|
 |Deleted|Score shows the number of users that were deleted from the AI Search index by the user permission crawl.|
 |Groups|
@@ -37,6 +37,3 @@ Each crawl history entry for an external content connector's user permission cra
 
 **Parent Topic:**[External Content Connectors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

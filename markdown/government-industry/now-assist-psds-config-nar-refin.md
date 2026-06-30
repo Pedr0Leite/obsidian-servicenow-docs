@@ -12,7 +12,7 @@ breadcrumb: [Activate Now Assist skills, Configure, Now Assist for PSDS, Public 
 
 # Configure the Investigative case narrative refinement skill in Now Assist for Public Sector Digital Services \(PSDS\)
 
-Activate and customize the Investigative case narrative refinement skill in the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application so that investigators can use the generative AI skills in CSM Configurable Workspace.
+Activate and customize the Investigative case narrative refinement skill in the Now Assist for Public Sector Digital Services \(PSDS\) application so that investigators can use the generative AI skills in CSM Configurable Workspace.
 
 ## About this task
 
@@ -74,6 +74,4 @@ The Investigative Case Management Case narrative refinement skill helps investig
 
     \[Omitted image "psds-narrative-skill-activated.png"\] Alt text: Case narrative refinement Al skill is active.
 
-## Related
 
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

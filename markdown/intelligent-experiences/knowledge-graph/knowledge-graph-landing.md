@@ -15,7 +15,7 @@ breadcrumb: [Enable AI experiences]
 
 # Knowledge Graph
 
-The Knowledge Graph application, uses the structured and unstructured data from ServiceNow records, knowledge bases, and external sources to enhance the performance of [[platform-now-assist-landing|Now Assist]] Virtual Agent, AI agents, and generative AI skills.
+The Knowledge Graph application, uses the structured and unstructured data from ServiceNow records, knowledge bases, and external sources to enhance the performance of Now Assist Virtual Agent, AI agents, and generative AI skills.
 
 \[Omitted video\] Description: Knowledge Graph overview video
 
@@ -41,7 +41,7 @@ Learn more about Knowledge Graph and how it can help fit your specific business 
 
 </td><td>
 
-[Natural Language queries in Knowledge Graph\[Omitted image "bus-datasheet.svg"\] Alt text:View example use [[cases|cases]] of natural language queries in Knowledge graph.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/natural-language-queries-example-usecases.md)
+[Natural Language queries in Knowledge Graph\[Omitted image "bus-datasheet.svg"\] Alt text:View example use cases of natural language queries in Knowledge graph.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/natural-language-queries-example-usecases.md)
 
 </td><td>
 
@@ -49,8 +49,3 @@ Learn more about Knowledge Graph and how it can help fit your specific business 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

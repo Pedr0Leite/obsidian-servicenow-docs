@@ -20,7 +20,7 @@ Role required: admin, wm\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **[[dispatcher-activities|Dispatcher Workspace]] Configuration** &gt; **Workspace Settings**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher Workspace Configuration** &gt; **Workspace Settings**.
 
 2.  Select the workplace settings.
 
@@ -139,6 +139,4 @@ Allows dispatchers to use the Add agents feature to search for any agent, even t
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

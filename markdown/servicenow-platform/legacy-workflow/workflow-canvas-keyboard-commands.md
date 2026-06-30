@@ -14,7 +14,7 @@ breadcrumb: [Workflow editor keyboard navigation, Workflow editor, Classic Workf
 
 # Workflow drawing canvas keyboard commands
 
-Use keyboard commands to navigate and operate the [[workflow-editor|Workflow Editor]] canvas.
+Use keyboard commands to navigate and operate the Workflow Editor canvas.
 
 \[Omitted image "WorkflowCanvasAccesibilityArrows.png"\] Alt text: Workflow Editor Drawing Canvas - Tab Sequences / Elements
 
@@ -38,7 +38,7 @@ Select Workflow Actions menu command \(for example, **Validate Workflow** or **P
 
 </td></tr><tr><td>
 
-Set general [[r_WorkflowProperties|workflow properties]]
+Set general workflow properties
 
 </td><td>
 
@@ -161,7 +161,3 @@ After tabbing through the entire workflow, \[Omitted image "JumptoTop.png"\] Alt
 </td></tr></tbody>
 </table>**Parent Topic:**[Workflow editor keyboard navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-keyboard-access.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[r_WorkflowProperties|Workflow properties]]

@@ -48,11 +48,8 @@ You can provide details about yourself, such as your role in your organization. 
 
     -   Hover over the existing picture \(or tap the photo in the case of the smartphone or tablet interface\) to display the **Upload a picture** link. Select the link, navigate to the location of the photo you want to use, and then select **Open**.
     -   Locate the photo file you want to use on your computer, and then drag-and-drop it over the existing photo.
-    **Note:** Your profile picture is used by the [[c_Connect|Connect]] and legacy chat features as well, if they are activated.
+    **Note:** Your profile picture is used by the Connect and legacy chat features as well, if they are activated.
 
 
 **Parent Topic:**[Live Feed UI overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_LiveFeedUIOverview.md)
 
-## Related
-
-- [[c_Connect|Connect]]

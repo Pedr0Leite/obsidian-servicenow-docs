@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Log in to Shopping Hub for the first time
 
-Shoppers who log in to [[shopping-hub-overview|Shopping Hub]] for the very first time must set up a default delivery location before they can browse products and access the other pages.
+Shoppers who log in to Shopping Hub for the very first time must set up a default delivery location before they can browse products and access the other pages.
 
 If the shopper navigates to a different page other than the Shopping Hub home page without setting up default delivery address, they are redirected to the home page to set the default delivery location.
 
@@ -80,6 +80,4 @@ Role required: sn\_shop.shopper
 
 6.  Select **Submit for approval**.
 
-## Related
 
-- [[shopping-hub-overview|Shopping Hub]]

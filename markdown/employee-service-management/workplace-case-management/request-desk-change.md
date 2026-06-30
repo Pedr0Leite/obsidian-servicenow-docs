@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[workplace-services-portal-hr|Workplace service portal]]**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace service portal**.
 
     The Workplace Service Portal opens.
 
@@ -32,7 +32,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     2.  Click **Browse by Categories**.
 
-    3.  In the [[workplace-services|Workplace Services]] Catalog, select **General**.
+    3.  In the Workplace Services Catalog, select **General**.
 
         **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog** &gt; **General**.
 
@@ -197,14 +197,14 @@ If the state of the move request is Closed complete, it means that the move requ
 Depending on your platform, do one of the following to view your requests:
 
 -   On the Workplace Service Portal, go to the **Requests** tab to view your requests and reservations.
--   On the [[mobile-employee-experience|Now Mobile app]]'s navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
+-   On the Now Mobile app's navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
 -   In the virtual agent chat, type your question or select **Show Me Everything** to select from a list of available options.
 
 If you want to cancel a request, Click **Cancel Request**. When the request is resolved, select **Accept** or **Reject**.
 
 **Parent Topic:**[Requesting a workplace service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/request-workplace-services.md)
 
-**Parent Topic:**[[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
@@ -215,7 +215,7 @@ If you want to cancel a request, Click **Cancel Request**. When the request is r
 
 [Request furniture for a space]()
 
-[Raise a [[space-assistance|space assistance]] request]()
+[Raise a space assistance request]()
 
 [Submit a maintenance request]()
 
@@ -247,11 +247,3 @@ If you want to cancel a request, Click **Cancel Request**. When the request is r
 
 [Review move conflicts]()
 
-## Related
-
-- [[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[space-assistance|Space assistance]]

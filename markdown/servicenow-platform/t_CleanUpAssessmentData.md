@@ -20,10 +20,10 @@ Role required: assessment\_admin or admin
 
 ## About this task
 
-The assessment process generates a considerable amount of data, some of which is not useful after a short time. [[r_Assessments|Assessments]] include a scheduled job called **Remove Old Assessment Data** that is available to administrators only. The scheduled job removes these items if they are more than a year old:
+The assessment process generates a considerable amount of data, some of which is not useful after a short time. Assessments include a scheduled job called **Remove Old Assessment Data** that is available to administrators only. The scheduled job removes these items if they are more than a year old:
 
 -   Assessment instance questions
--   [[c_AssessmentInstances|Assessment instances]]
+-   Assessment instances
 -   Metric results
 
 By default, the scheduled job is executed manually. Administrators can configure the scheduled job to run automatically on a recurring schedule.
@@ -41,10 +41,5 @@ By default, the scheduled job is executed manually. Administrators can configure
 4.  Click **Execute Now** to run the scheduled job.
 
 
-**Parent Topic:**[[c_ScheduledAssessments|Scheduled assessments]]
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
-## Related
-
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentInstances|Assessment instances]]

@@ -30,14 +30,10 @@ Description
 
 Enables \(true\) or disables \(false\) the ability for locked out users to trigger inbound actions.-   Type: true \| false
 -   Default value: false
--   [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table
+-   System Properties \[sys\_properties\] table
 
 </td></tr></tbody>
 </table>**Warning:** Enabling this property \(**glide.pop3.process\_locked\_out**\) also enables users from untrusted domains to trigger inbound actions. The user must still be active.
 
-**Parent Topic:**[[references-inbound-email|References for Inbound email]]
+**Parent Topic:**[References for Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
 
-## Related
-
-- [[references-inbound-email|References for Inbound email]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Migration Utility, Configuring Problem Management, Problem Manageme
 
 # Migration job
 
-Get your instance ready for the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) and so you can update your existing records with the new states.
+Get your instance ready for the Problem Management Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) and so you can update your existing records with the new states.
 
 The stages to get your instance ready for the problem state model and to migrate your records are:
 
@@ -29,6 +29,3 @@ The stages to get your instance ready for the problem state model and to migrate
 9.  [Migrate active records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrate-active-records.md)
 10. [Migrate inactive records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrate-inactive-records.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

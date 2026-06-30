@@ -12,7 +12,7 @@ breadcrumb: [Reference, Care Team Work Management, Healthcare Operations, Health
 
 # Roles installed with Care Team Work Management
 
-The following roles are installed with [[ctwm-landing|Care Team Work Management]].
+The following roles are installed with Care Team Work Management.
 
 <table id="table_sqb_gvl_1gc"><tbody><tr><td>
 
@@ -242,7 +242,3 @@ Manages the Healthcare orchestration roles and duties.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ctwm-landing|Care Team Work Management]]

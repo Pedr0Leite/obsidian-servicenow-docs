@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Policies**.
 
     The **Policies** page appears.
 
@@ -42,6 +42,4 @@ Role required: agent\_client\_collector\_admin
 
     The policy is configured with the indicated service filter. Only CIs matching the service filter are included in the policy's logs.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

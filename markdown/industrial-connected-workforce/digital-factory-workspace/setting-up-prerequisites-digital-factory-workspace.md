@@ -14,30 +14,22 @@ breadcrumb: [Configure, Digital Factory Workspace, Industrial Connected Workforc
 
 # Setting up prerequisites for Digital Factory Workspace
 
-Set up prerequisite tasks before proceeding to use the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Set up prerequisite tasks before proceeding to use the Digital Factory Workspace.
 
 -   **[Create a functional location of the type site](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-site-functional-location.md)**  
-Create a location for your user to be able to work with the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\).
+Create a location for your user to be able to work with the Industrial Connected Workforce \(ICW\).
 -   **[Create a functional location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-functional-location.md)**  
-[[create-functional-location|Create a functional location]] in the Digital Factory Workspace.
+Create a functional location in the Digital Factory Workspace.
 -   **[Create operational equipment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/create-operational-equipment.md)**  
-[[create-operational-equipment|Create operational equipment]] in the Digital Factory Workspace.
+Create operational equipment in the Digital Factory Workspace.
 -   **[Set up a worker profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/set-up-worker-profile.md)**  
 Establish a connection between a functional location and a user by setting up a worker profile in Industrial Connected Workforce.
 -   **[Assign equipment model site access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/assign-equipment-model-site-access.md)**  
-[[assign-equipment-model-site-access|Assign equipment model site access]] to non-administrator roles. This configuration is required so that these roles can view or create functional locations, which is essential for proper use of Industrial Connected Workforce \(ICW\).
+Assign equipment model site access to non-administrator roles. This configuration is required so that these roles can view or create functional locations, which is essential for proper use of Industrial Connected Workforce \(ICW\).
 -   **[Define a shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/define-shifts.md)**  
 Define shifts for your organization in the Industrial Connected Workforce by using the scheduling functionality. Configuring shifts is a prerequisite for scheduling standard tasks and for filtering tasks to see which shift they were created in or which shift they’re due.
 -   **[Define a production day](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/define-production-day.md)**  
-[[define-production-day|Define a production day]] for your organization within Industrial Connected Workforce.
+Define a production day for your organization within Industrial Connected Workforce.
 
 **Parent Topic:**[Configuring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/configuring-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[create-functional-location|Create a functional location]]
-- [[create-operational-equipment|Create operational equipment]]
-- [[assign-equipment-model-site-access|Assign equipment model site access]]
-- [[define-production-day|Define a production day]]

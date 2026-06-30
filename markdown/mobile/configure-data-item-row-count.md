@@ -35,8 +35,5 @@ The system property **glide.sg.data\_item.row\_count** sets the maximum number o
     |Value|&lt;maximum-number-of-records-retrieved&gt;|
 
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]

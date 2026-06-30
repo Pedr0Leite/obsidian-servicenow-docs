@@ -22,7 +22,7 @@ Role required: sn\_vulc.read and sn\_vulc.remediation\_owner to view
 
 ## About this task
 
-Test groups are imported records and you cannot edit them in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+Test groups are imported records and you cannot edit them in the Configuration Compliance application.
 
 ## Procedure
 
@@ -145,15 +145,9 @@ The values represent CIs from all active test results \(any state other than **C
 
     **Note:** The **Disable import** button is available for the test results obtained from the Qualys scanner only.
 
-    Starting with v23.0 of [[vuln-landing-page|Vulnerability Response]]:
+    Starting with v23.0 of Vulnerability Response:
 
-    -   You can [[sem-enable-disable-imports-qualys|enable or disable the import of test results for a Qualys test group]] in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]. For more information, see [Enable or disable the import of test results for a Qualys test group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/enable-disable-imports-qualys.md).
+    -   You can enable or disable the import of test results for a Qualys test group in the Vulnerability Manager Workspace. For more information, see [Enable or disable the import of test results for a Qualys test group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/enable-disable-imports-qualys.md).
     -   The **Mark deprecated** button is renamed to **Disable import**.
     -   The **Is deprecated** column is renamed to **Is import disabled**.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[sem-enable-disable-imports-qualys|Enable or disable the import of test results for a Qualys test group]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

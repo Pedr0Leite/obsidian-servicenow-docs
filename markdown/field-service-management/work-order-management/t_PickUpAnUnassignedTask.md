@@ -26,7 +26,7 @@ Agents can assign themselves nearby unassigned tasks directly from the agent tas
 
 ## Procedure
 
-1.  To [[pick-up-unassigned-task-mobile|pick up an unassigned task]], click a red icon near you and open the task record.
+1.  To pick up an unassigned task, click a red icon near you and open the task record.
 
 2.  Under **Related Links**, click **Assign to me**.
 
@@ -34,9 +34,6 @@ Agents can assign themselves nearby unassigned tasks directly from the agent tas
 
     -   If you belong to more than one assignment group, you are asked to select a group. Only the assignment groups that belong to the dispatch group of the task are displayed.
     -   If you belong to only one assignment group, the system assigns the task to you and enters your assignment group in the Work Order Task form.
-    If the assignment is allowed, the task state changes to **Accepted**, and the icon on the map turns green. In the task form, the **Start Travel** and **[[t_StartWork|Start Work]]** links appear under **Related Links**.
+    If the assignment is allowed, the task state changes to **Accepted**, and the icon on the map turns green. In the task form, the **Start Travel** and **Start Work** links appear under **Related Links**.
 
-## Related
 
-- [[pick-up-unassigned-task-mobile|Pick up an unassigned task]]
-- [[t_StartWork|Start work]]

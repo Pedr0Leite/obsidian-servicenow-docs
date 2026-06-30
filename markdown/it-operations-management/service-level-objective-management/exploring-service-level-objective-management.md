@@ -14,7 +14,7 @@ breadcrumb: [Service Level Objective Management, ITOM AIOps, IT Operations Manag
 
 # Exploring SLO Management
 
-[[slo-landing-page|Service Level Objective Management]] \(SLO Management\) helps IT services meet customer expectations.
+Service Level Objective Management \(SLO Management\) helps IT services meet customer expectations.
 
 ## SLO Management overview
 
@@ -42,7 +42,7 @@ admin
 
 A ServiceNow administrator is responsible for the administration, development, operation, education, and maintenance of the ServiceNow platform.
 
- Responsible for installation and can perform [[workspace-dashboard-use|Service Operations Workspace]] Admin Center configuration of SRM.
+ Responsible for installation and can perform Service Operations Workspace Admin Center configuration of SRM.
 
 </td><td>
 
@@ -126,7 +126,7 @@ Inherits 17 roles including the following:
 
 1.  Define SLOs - Identify critical services and define SLOs based on customer expectations and business requirements.
 
-    **Note:** SLOs can also be generated automatically using the Now Assist [[now-assist-itom-slo-generation|SLO creator agent]]. For details, see [SLO creator agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/now-assist-itom-slo-generation.md).
+    **Note:** SLOs can also be generated automatically using the Now Assist SLO creator agent. For details, see [SLO creator agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/now-assist-itom-slo-generation.md).
 
 2.  Establish SLIs - Develop Service Level Indicators \(SLIs\) to measure SLO performance.
 3.  Monitor and analyze - Track SLI data and analyze performance against SLO targets.
@@ -142,8 +142,3 @@ Inherits 17 roles including the following:
 -   Data-driven decision making - SLO performance data informs decisions and drives continuous service improvement.
 -   Automated SLO generation - The SLO creator agent analyzes operational data to generate SLOs, helping teams get started with SLO-based monitoring. For details, see [SLO creator agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/now-assist-itom-slo-generation.md).
 
-## Related
-
-- [[slo-landing-page|Service Level Objective Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[now-assist-itom-slo-generation|SLO creator agent]]

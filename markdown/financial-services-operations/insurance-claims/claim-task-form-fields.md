@@ -14,7 +14,7 @@ breadcrumb: [Create an ad-hoc task on a claim, Use, Individual Life Claims, Expl
 
 # Claim Task form fields
 
-This section describes the claim task form, which displays the information about the claims tasks, which are created and assigned to users to complete the work to resolve the [[insurance-claims-flow|insurance claims]].
+This section describes the claim task form, which displays the information about the claims tasks, which are created and assigned to users to complete the work to resolve the insurance claims.
 
 The task form includes the following fields.
 
@@ -124,7 +124,3 @@ Information about the task, such as the steps taken toward the resolution.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

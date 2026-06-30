@@ -20,14 +20,14 @@ Copy and activate the Invoice attachment DI processing flow.
 
 Role required: admin
 
-Scope: [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]].
+Scope: Accounts Payable Operations integration with Document Intelligence.
 
 Plugins required:
 
 -   Now assist in Document Intelligence
 -   Account Payable Invoice Processing
 -   Now assist for Account Payable Operations
--   Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack
+-   Document Intelligence for Accounts Payable Operations Content Pack
 
 ## Procedure
 
@@ -47,7 +47,4 @@ Plugins required:
 
     The Invoice attachment DI processing flow is copied and activated successfully.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

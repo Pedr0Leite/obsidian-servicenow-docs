@@ -20,9 +20,9 @@ Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, or admi
 
 ## About this task
 
-You can send [[case-digest-case-action-summary|case action summaries]] for customer service cases that are in any states other than **New** or **Closed**.
+You can send case action summaries for customer service cases that are in any states other than **New** or **Closed**.
 
-After creating a case action summary, the record is added to the [[r_CustomerServiceCaseForm|Case form]] in the Related Records form section. Closing a case automatically closes the corresponding case action summary.
+After creating a case action summary, the record is added to the Case form in the Related Records form section. Closing a case automatically closes the corresponding case action summary.
 
 ## Procedure
 
@@ -83,8 +83,3 @@ Updates the case with the case action summary as described above and sends an em
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[case-digest-case-action-summary|Case action summaries]]
-- [[r_CustomerServiceCaseForm|Case form]]

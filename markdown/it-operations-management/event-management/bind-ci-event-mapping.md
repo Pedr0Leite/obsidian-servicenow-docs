@@ -14,7 +14,7 @@ breadcrumb: [Overriding default binding, Binding alerts to CIs, Event rules, Pro
 
 # Example: Bind alerts to CIs using dynamic CI types
 
-Use event field mapping to dynamically bind alerts to the appropriate CIs based on event attributes, eliminating the need for separate [[create-event-rules|event rules]] for each CI type \(also known as CI class\). This approach simplifies configuration, improves accuracy, and enhances alert to CI binding.
+Use event field mapping to dynamically bind alerts to the appropriate CIs based on event attributes, eliminating the need for separate event rules for each CI type \(also known as CI class\). This approach simplifies configuration, improves accuracy, and enhances alert to CI binding.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ To resolve this—in other words, to determine the correct CI class to search—
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Field Mapping**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Field Mapping**.
 
     \[Omitted image "em-example-dynamic-ci-type-oracle-cloud.png"\] Alt text: Event Field Mapping page.
 
@@ -120,8 +120,3 @@ Specifies the corresponding CMDB table associated with each value listed in the 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

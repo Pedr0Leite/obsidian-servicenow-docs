@@ -34,17 +34,12 @@ Role required: Any user of the Microsoft Word document and sn\_grc\_claims.manag
 
     3.  Select **Allow**.
 
-4.  On the **[[claims-for-reporting|Claims for reporting]]** form, fill in the fields.
+4.  On the **Claims for reporting** form, fill in the fields.
 
-    For more information regarding the field descriptions, see [[claims-for-reporting-fields|Claims for reporting fields]].
+    For more information regarding the field descriptions, see [Claims for reporting fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/claims-for-reporting-fields.md).
 
 5.  Select **Save**.
 
 
-**Parent Topic:**[[import-data-into-ms-word|Import data in to a Microsoft Word disclosure report]]
+**Parent Topic:**[Import data in to a Microsoft Word disclosure report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/import-data-into-ms-word.md)
 
-## Related
-
-- [[claims-for-reporting-fields|Claims for reporting fields]]
-- [[import-data-into-ms-word|Import data in to a Microsoft Word disclosure report]]
-- [[claims-for-reporting|Claims for reporting]]

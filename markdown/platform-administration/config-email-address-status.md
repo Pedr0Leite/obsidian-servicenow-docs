@@ -24,7 +24,7 @@ For detailed information on status codes and explanations of the components, see
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Bounce Email Address Status**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Bounce Email Address Status**.
 
 2.  Select **New**.
 
@@ -35,15 +35,10 @@ For detailed information on status codes and explanations of the components, see
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[email-bounce|Email bounce management]]
+**Parent Topic:**[Email bounce management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-bounce.md)
 
 **Related topics**  
 
 
-[[change-bounce-email-status|Check the status of bounced email addresses]]
+[Check the status of bounced email addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/change-bounce-email-status.md)
 
-## Related
-
-- [[email-bounce|Email bounce management]]
-- [[change-bounce-email-status|Check the status of bounced email addresses]]
-- [[c_SystemMailboxes|System mailboxes]]

@@ -12,13 +12,13 @@ breadcrumb: [Platform Security]
 
 # Instance Security Center
 
-Monitor the compliance level of instance security controls, view security event monitoring [[ca-metrics|metrics]], and configure and maintain instance security settings all from within the Instance Security Center. The Instance Security Center consolidates several key security components into a single control console that helps you detect, protect, and respond to instance-based security events.
+Monitor the compliance level of instance security controls, view security event monitoring metrics, and configure and maintain instance security settings all from within the Instance Security Center. The Instance Security Center consolidates several key security components into a single control console that helps you detect, protect, and respond to instance-based security events.
 
 **Important:**
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow [[sec-center-v2|Security Center]] \(SSC\) is the recommended solution going forward. For more information, see [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]].
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center-to-security-center-migration.md).
 
 ## Instance Security Center components
 
@@ -33,11 +33,11 @@ The Instance Security Center homepage contains the following security components
 -   Search
 -   Security event ribbon
 -   Daily compliance score
--   PCI [[sc-configuration|Configuration]] Controls Score
--   [[sc-session-management|Session Management]]
+-   PCI Configuration Controls Score
+-   Session Management
 -   Hardening
 -   Auditor
--   Metrics \(user, [[email|email]], and [[antivirus|antivirus]]\)
+-   Metrics \(user, email, and antivirus\)
 -   Resources
 -   Security notifications
 -   Tours
@@ -46,7 +46,7 @@ The Instance Security Center homepage contains the following security components
 -   Help
 -   Virtual Agent access
 
-From the Instance Security Center homepage, you can view the security compliance score for your instance and monitor its overall security health. You can then configure or update [[ca-system-properties|system properties]] that are related to your instance security so that they comply with security requirements.
+From the Instance Security Center homepage, you can view the security compliance score for your instance and monitor its overall security health. You can then configure or update system properties that are related to your instance security so that they comply with security requirements.
 
 **Note:** The Instance Security Center does not support domain separation.
 
@@ -74,7 +74,7 @@ admin
 
 </td><td>
 
-This role has access to all system features, functions, and data because administrators can override [[sc-access-control|access control]] list \(ACL\) rules and pass all role checks. Avoid assigning this role to your [[users|users]] when more targeted roles are available.
+This role has access to all system features, functions, and data because administrators can override access control list \(ACL\) rules and pass all role checks. Avoid assigning this role to your users when more targeted roles are available.
 
 </td><td>
 
@@ -88,7 +88,7 @@ sn\_vsc.security\_center\_viewer
 
 This role allows users who are not Admins to view the information in Security Center but not make changes to the Security Center tools or make instance configurations change leveraging the Security Center tools.
 
- For example, platform owners, security operations analysts or compliance stakeholder might want or need to view some of the security KPIs, security insights and [[learning|security learning]] material available in Security Center.
+ For example, platform owners, security operations analysts or compliance stakeholder might want or need to view some of the security KPIs, security insights and security learning material available in Security Center.
 
 </td><td>
 
@@ -143,7 +143,7 @@ Use the event ribbon to view key security event monitoring metrics for the curre
 -   To manually scroll through the metrics, select the right or left arrow keys.
 -   To configure the event ribbon, select **Edit**.
 
-To learn more about the event ribbon and how to configure it, see [[instance-sec-center-event-ribbon|Monitor security events]] and [[instance-sec-center-configure-event-ribbon|Configure the security event ribbon]].
+To learn more about the event ribbon and how to configure it, see [Monitor security events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-event-ribbon.md) and [Configure the security event ribbon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-configure-event-ribbon.md).
 
 ## Daily compliance score
 
@@ -153,18 +153,18 @@ You use the Daily Compliance Score to gauge how healthy your instance is from a 
 
 The Daily Compliance Score is a percentage score. It is based on how compliant the current settings of your instance security properties are with the compliance values published in the [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md).
 
--   To learn more about Daily Compliance Score calculations, and how [[security-hardening-settings|hardening settings]] impact it, see [[instance-sec-center-hardening|Check the daily compliance score and configure security property settings]].
--   The **Refresh** button enables an administrator to instantly recalculate the Daily Compliance Score. To learn more, see [[how-daily-compl-score-trend-date-refreshed|How Daily Compliance score, trend, and graph data is refreshed]].
+-   To learn more about Daily Compliance Score calculations, and how hardening settings impact it, see [Check the daily compliance score and configure security property settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-sec-center-hardening.md).
+-   The **Refresh** button enables an administrator to instantly recalculate the Daily Compliance Score. To learn more, see [How Daily Compliance score, trend, and graph data is refreshed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/how-daily-compl-score-trend-date-refreshed.md).
 
 ## Hardening
 
 Use this process to adjust the specific security configuration properties that affect the Daily Compliance Score:
 
-1.  To access the Hardening Compliance Configurations page and perform instance [[sc-hardening|security hardening]], select the **Daily Compliance Score** tile or the **Hardening** link.
+1.  To access the Hardening Compliance Configurations page and perform instance security hardening, select the **Daily Compliance Score** tile or the **Hardening** link.
 2.  Specify whether you want to view all or only recommended security controls. Then, select the category you want to work in.
 3.  Set each security configuration property in the selected category. Click **More Info** to view detailed information for a property.
 
-To learn more about hardening and optimizing security configuration properties to further increase compliance, see [[update-security-hardening-params|Adjust instance security settings to increase compliance]].
+To learn more about hardening and optimizing security configuration properties to further increase compliance, see [Adjust instance security settings to increase compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/update-security-hardening-params.md).
 
 To learn more about how trend and graph data is refreshed, see [How Daily Compliance score, trend, and graph data is refreshed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/how-daily-compl-score-trend-date-refreshed.md).
 
@@ -172,7 +172,7 @@ To learn more about how trend and graph data is refreshed, see [How Daily Compli
 
 Run the Auditor to scan your instance and find incorrect security definitions. It provides findings you can correct to help improve the security posture of your instance.
 
-To access the Auditor page, select the **Auditor** tile or the **Auditor** link. To learn more, see [[scan-for-incorrect-security-definitions|Scan for incorrect security definitions]].
+To access the Auditor page, select the **Auditor** tile or the **Auditor** link. To learn more, see [Scan for incorrect security definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/scan-for-incorrect-security-definitions.md).
 
 ## Session management
 
@@ -214,7 +214,7 @@ MFA
 
 </td><td>
 
-Check box indicating if [[mfa-landing|Multi-factor Authentication]] \(MFA\) is enabled for the logged in user. To learn more about MFA, see [Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md).
+Check box indicating if Multi-factor Authentication \(MFA\) is enabled for the logged in user. To learn more about MFA, see [Multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-landing.md).
 
 </td></tr><tr><td>
 
@@ -267,23 +267,23 @@ User
 
 </td><td>
 
-[[sc-metrics|Security metrics]] that are associated with user activity in the instance. To access the [[instance-sec-center-user-metrics|User Metrics]] page, select the **Metrics** link, and then select **User Metrics**.
+Security metrics that are associated with user activity in the instance. To access the User Metrics page, select the **Metrics** link, and then select **User Metrics**.
 
 </td></tr><tr><td>
 
-[[export|Export]]
+Export
 
 </td><td>
 
-Security metrics that are associated with data exported from the instance. To access the [[instance-sec-center-export-metrics|Export Metrics]] page, select the **Metrics** link, and then select **Export Metrics**.
+Security metrics that are associated with data exported from the instance. To access the Export Metrics page, select the **Metrics** link, and then select **Export Metrics**.
 
 </td></tr><tr><td>
 
-[[c_Authentication|Authentication]]
+Authentication
 
 </td><td>
 
-Security metrics that are associated with authentication, such as infrequently used IP addresses, failed logins, and types of authentication schemes used by your users.To access the Export Metrics page, select the **Metrics** link, and then select **[[instance-sec-center-auth-metrics|Authentication Metrics]]**.
+Security metrics that are associated with authentication, such as infrequently used IP addresses, failed logins, and types of authentication schemes used by your users.To access the Export Metrics page, select the **Metrics** link, and then select **Authentication Metrics**.
 
 </td></tr><tr><td>
 
@@ -291,7 +291,7 @@ Email
 
 </td><td>
 
-Security metrics associated with anomalous behaviors related to the incoming emails to your instance. To access the [[instance-sec-center-email-metrics|Email Metrics]] page, select the **Metrics** link, and then select **Email Metrics**.
+Security metrics associated with anomalous behaviors related to the incoming emails to your instance. To access the Email Metrics page, select the **Metrics** link, and then select **Email Metrics**.
 
 </td></tr><tr><td>
 
@@ -299,10 +299,10 @@ Antivirus
 
 </td><td>
 
-Security metrics that are associated with antivirus event activity in the instance. To access the [[instance-sec-center-antivirus-metrics|Antivirus Metrics]] page, select the **Antivirus** tile or select the **Metrics** link, and then select **Antivirus**.
+Security metrics that are associated with antivirus event activity in the instance. To access the Antivirus Metrics page, select the **Antivirus** tile or select the **Metrics** link, and then select **Antivirus**.
 
 </td></tr></tbody>
-</table>**Note:** To learn more about monitoring each type of metric, see [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]].
+</table>**Note:** To learn more about monitoring each type of metric, see [Monitor instance metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/monitoring-user-email-antivirus-metrics.md).
 
 ## Resources
 
@@ -355,7 +355,7 @@ A notifications bell icon \(\[Omitted image "Inst\_sec\_center\_notif\_bell\_ico
     -   To view detailed information for a specific security event, select the notification.
     -   To mark all listed notifications as read, select **Mark All as Read**.
 
-**Note:** As an administrator, you can also configure preferences for sending specific types of notifications for each type of security event. To learn more, see [[enable-notification-preferences|Set preferences for security event notifications]].
+**Note:** As an administrator, you can also configure preferences for sending specific types of notifications for each type of security event. To learn more, see [Set preferences for security event notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/enable-notification-preferences.md).
 
 ## Tours
 
@@ -426,14 +426,14 @@ It enables you to perform the following tasks:
 -   Get answers related to processes such as:
     -   Instance Security Center
     -   Platform Security
-    -   ServiceNow security [[ca-policies|policies]]
+    -   ServiceNow security policies
     -   Trust, Governance, and Risk
 -   Search for security-related resources, such as Knowledge Base topics in the Now Support Security Portal.
 
 **Note:** To learn more about how to use and activate the Virtual Agent, see:
 
 -   [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md)
--   [[activating-virtual-agent-interface|Activate the ISC Virtual Agent interface]]
+-   [Activate the ISC Virtual Agent interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activating-virtual-agent-interface.md)
 
 -   **[Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center-to-security-center-migration.md)**  
 Learn the key differences when migrating from Instance Security Center \(ISC\) to ServiceNow Security Center \(SSC\).
@@ -448,40 +448,5 @@ Monitor user, export, authentication, email, and antivirus metrics for your inst
 -   **[Activate the ISC Virtual Agent interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activating-virtual-agent-interface.md)**  
 If you have the admin role, you can activate the ISC Virtual Agent Conversations plugin \(com.glide.isc\_virtualagent\). Activating this plugin installs the Virtual Agent and Natural Language Understanding \(NLU content packs, providing Virtual Agent access from the Instance Security Center.
 
-**Parent Topic:**[[platsec-sublanding|Platform Security]]
+**Parent Topic:**[Platform Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-sublanding.md)
 
-## Related
-
-- [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]]
-- [[instance-sec-center-event-ribbon|Monitor security events]]
-- [[instance-sec-center-configure-event-ribbon|Configure the security event ribbon]]
-- [[instance-sec-center-hardening|Check the daily compliance score and configure security property settings]]
-- [[how-daily-compl-score-trend-date-refreshed|How Daily Compliance score, trend, and graph data is refreshed]]
-- [[update-security-hardening-params|Adjust instance security settings to increase compliance]]
-- [[scan-for-incorrect-security-definitions|Scan for incorrect security definitions]]
-- [[monitoring-user-email-antivirus-metrics|Monitor instance metrics]]
-- [[enable-notification-preferences|Set preferences for security event notifications]]
-- [[activating-virtual-agent-interface|Activate the ISC Virtual Agent interface]]
-- [[platsec-sublanding|Platform Security]]
-- [[ca-metrics|Metrics]]
-- [[sec-center-v2|Security Center]]
-- [[sc-configuration|Configuration]]
-- [[sc-session-management|Session management]]
-- [[email|Email]]
-- [[antivirus|Antivirus]]
-- [[ca-system-properties|System properties]]
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[learning|Security learning]]
-- [[security-hardening-settings|Hardening settings]]
-- [[sc-hardening|Security hardening]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sc-metrics|Security metrics]]
-- [[instance-sec-center-user-metrics|User metrics]]
-- [[export|Export]]
-- [[instance-sec-center-export-metrics|Export metrics]]
-- [[c_Authentication|Authentication]]
-- [[instance-sec-center-auth-metrics|Authentication Metrics]]
-- [[instance-sec-center-email-metrics|Email metrics]]
-- [[instance-sec-center-antivirus-metrics|Antivirus metrics]]
-- [[ca-policies|Policies]]

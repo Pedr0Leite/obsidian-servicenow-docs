@@ -15,8 +15,5 @@ breadcrumb: [Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Now Assist Readiness Evaluation reference
 
-[[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] admins and implementers can work with select system properties for additional customization.
+Now Assist Readiness Evaluation admins and implementers can work with select system properties for additional customization.
 
-## Related
-
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]

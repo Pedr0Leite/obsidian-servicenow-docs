@@ -13,7 +13,7 @@ breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Edit a Now Assist skill
 
-Edit the configuration of a [[platform-now-assist-landing|Now Assist]] skill to choose the inputs or triggers and the display location of the skill output.
+Edit the configuration of a Now Assist skill to choose the inputs or triggers and the display location of the skill output.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
     If you’re already in the Now Assist Admin console, select the **Now Assist Admin Features** tab.
 
-2.  Select a workflow on the [[now-assist-global-navigation|navigation]] panel, such as **Technology**.
+2.  Select a workflow on the navigation panel, such as **Technology**.
 
     Each workflow contains feature sets.
 
@@ -52,14 +52,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 ## Result
 
-The skill is activated with your preferred settings. You can now [[install-now-assist-feature-plugins|install other plugins]] or [[configure-a-now-assist-skill|activate other skills]].
+The skill is activated with your preferred settings. You can now [install other plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) or [activate other skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 
-**Parent Topic:**[[using-now-assist-admin_0|Using Now Assist Admin]]
+**Parent Topic:**[Using Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-admin_0.md)
 
-## Related
-
-- [[install-now-assist-feature-plugins|Install Now Assist plugins]]
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[using-now-assist-admin_0|Using Now Assist Admin]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]

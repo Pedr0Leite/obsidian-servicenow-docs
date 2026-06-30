@@ -14,9 +14,5 @@ breadcrumb: [Advanced Work Assignment, Manage people and work, Conversational In
 
 # Using Advanced Work Assignment
 
-The following sections detail how awa\_manager or awa\_agent roles can use [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\) to complete various tasks such as checking an agent's presence and capacity, checking unassigned [[awa-work-items|work items]], and creating SMS conversations.
+The following sections detail how awa\_manager or awa\_agent roles can use Advanced Work Assignment \(AWA\) to complete various tasks such as checking an agent's presence and capacity, checking unassigned work items, and creating SMS conversations.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]

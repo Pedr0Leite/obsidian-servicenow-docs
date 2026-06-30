@@ -12,7 +12,7 @@ breadcrumb: [Lists, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Exporting lists to Google Sheets
 
-[[configure-onboarding-modals|Configure]] [[lists-configurable-workspace|lists]] in Configurable Workspace to export directly to Google Sheets.
+Configure lists in Configurable Workspace to export directly to Google Sheets.
 
 You can export data from lists in your Configurable Workspace directly to Google Sheets if your instance is integrated with Google Sheets via OAuth.
 
@@ -33,7 +33,3 @@ To configure and use this functionality, follow these steps:
 
 Once configured, exporting a list to Google Sheets displays as an option in Configurable Workspace list export as **Export** &gt; **Google Sheets**.
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]

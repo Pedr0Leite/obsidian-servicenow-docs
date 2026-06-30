@@ -14,13 +14,13 @@ breadcrumb: [Enabling application service maps, Configuring Kubernetes Visibilit
 
 # Enable service maps using service meshes
 
-Enable application service maps based on the traffic between the workloads in Kubernetes by using Istio or Linkerd or service meshes as part of [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] \(KVA\) installation.
+Enable application service maps based on the traffic between the workloads in Kubernetes by using Istio or Linkerd or service meshes as part of Kubernetes Visibility Agent \(KVA\) installation.
 
 ## Before you begin
 
 You must have a Prometheus server and provide the Prometheus URL.
 
-Role required: [[r-discovery|discovery]]\_admin.
+Role required: discovery\_admin.
 
 ## About this task
 
@@ -87,7 +87,3 @@ kubectl apply -f k8s_informer.yaml
 
 **Parent Topic:**[Enabling application service maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enabling-application-service-maps.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]

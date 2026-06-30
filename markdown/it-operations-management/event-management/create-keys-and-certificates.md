@@ -14,7 +14,7 @@ breadcrumb: [MID Web Server and agent mTLS Authentication, Configure the MID Web
 
 # Create keys and certificates
 
-Create keys and certificates in your root directory to enable Transport Layer Security \(TLS\) setup. TLS setup is necessary before you can configure mTLS on the [[mid-web-server|MID Web Server]] and agent.
+Create keys and certificates in your root directory to enable Transport Layer Security \(TLS\) setup. TLS setup is necessary before you can configure mTLS on the MID Web Server and agent.
 
 ## Before you begin
 
@@ -111,6 +111,3 @@ Role required: agent\_client\_collector\_admin
 
 [Install the .pem file in the MID unified keystore and set up the MID Web Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/set-mid-web-server.md).
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

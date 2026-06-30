@@ -14,7 +14,7 @@ breadcrumb: [Work an HR case, Use HR Case Management, Case and Knowledge Managem
 
 # HR document generation
 
-There are multiple ways to generate documents in [[hr-service-delivery|HR Service Delivery]].
+There are multiple ways to generate documents in HR Service Delivery.
 
 -   Automatically
 -   Multiple signatures are collected.
@@ -24,7 +24,7 @@ There are multiple ways to generate documents in [[hr-service-delivery|HR Servic
 
 The document is made available for the subject person to sign. Only after the signature is added, the document will be generated automatically. Following are some examples:
 
--   A document such as Tuition Reimbursement Request must be sent to the employee for signature. The [[t_CreateOrModifyTuitionReimburse|Request Tuition Reimbursement]] service has a work flow that triggers a task for the subject person \(employee\) of the case.
+-   A document such as Tuition Reimbursement Request must be sent to the employee for signature. The Request Tuition Reimbursement service has a work flow that triggers a task for the subject person \(employee\) of the case.
 
     An administrator enables the**Automatically Create Draft Document** case option on the HR service and sets up the HR service. When a case is created with that HR service and its state is changed to Work in Progress or Ready, a task gets automatically generated for the employee with the document available for signing.
 
@@ -67,7 +67,3 @@ Support rendering values of variables, scripts, and blocks in edit mode in Previ
 
 **Parent Topic:**[Work an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateAnHRCase.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[t_CreateOrModifyTuitionReimburse|Request tuition reimbursement]]

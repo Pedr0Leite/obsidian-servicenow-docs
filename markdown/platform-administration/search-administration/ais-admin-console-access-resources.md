@@ -15,7 +15,7 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Access AI Search resources
 
-Review the [[ia-ai-search|AI Search]] introductory video, follow links to the AI Search documentation and ServiceNow Community forum, or view answers to commonly asked questions about AI Search.
+Review the AI Search introductory video, follow links to the AI Search documentation and ServiceNow Community forum, or view answers to commonly asked questions about AI Search.
 
 ## Before you begin
 
@@ -30,6 +30,3 @@ Role required: ais\_admin
 
 **Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

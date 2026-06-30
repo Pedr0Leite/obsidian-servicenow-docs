@@ -18,19 +18,15 @@ The post-production Domain Separation activation utility aids in the activation 
 
 The Post-Production Domain Separation Activation Utility plugin \(com.glide.domain.activation\_utility\) simplifies the task of creating a domain-separated environment in a post production live environment. Customers may want to activate Domain Separation on post production environments to take greater advantage of the ServiceNow AI Platform capabilities. The utility provides a step-by-step guided setup for creating domains.
 
-**Note:** The process of populating domain records in [[domain-separated-tables|domain separated tables]] requires downtime or restricted access to the instance.
+**Note:** The process of populating domain records in domain separated tables requires downtime or restricted access to the instance.
 
 ## What the Activation utility does
 
 -   Provides a step-by-step guided setup for creating domains.
 -   Runs a background job to handle the installation of domain separation with both Process and Data Separation properties disabled.
 -   Keeps process records that are visible to the target\(first\) domain
--   Detects, identifies, and [[logs|logs]] errors during the domain creation process
+-   Detects, identifies, and logs errors during the domain creation process
 -   Presents resolutions for common errors
 -   Logs all actions performed during the setup process for audit purposes
 -   Generates a detailed summary, including all actions taken, domains created, and any changes made to the syste
 
-## Related
-
-- [[domain-separated-tables|Domain Separated Tables]]
-- [[logs|Logs]]

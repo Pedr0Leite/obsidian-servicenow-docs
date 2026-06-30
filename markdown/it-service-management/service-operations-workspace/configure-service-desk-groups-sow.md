@@ -14,7 +14,7 @@ breadcrumb: [Access controls in Service Operations Workspace for ITSM, Getting s
 
 # Configure service desk groups to access the Service Operations Workspace landing page
 
-Ensure that the right users have access to the Service Operations Workspace [[dex-workspace-dashboard-tab|landing page]].
+Ensure that the right users have access to the Service Operations Workspace landing page.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ It is applicable only for an instance that has Service Operations Workspace 1.1 
         2.  For the **Groups** field, add the required service desk group that the user is part of.
         3.  Select **Update**.
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

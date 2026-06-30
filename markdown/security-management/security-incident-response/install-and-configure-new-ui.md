@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Security Incident Response, Security Incident
 
 # Download and install the Security Analyst Workspace
 
-Before you run the [[sir-landing-page|Security Incident Response]] new UI in your instance, you must download it from the ServiceNow® Store and install it.
+Before you run the Security Incident Response new UI in your instance, you must download it from the ServiceNow® Store and install it.
 
 ## Before you begin
 
@@ -27,11 +27,8 @@ Role required: admin
 
 ## Procedure
 
-1.  Follow the instructions for [[download-app-first-time|downloading an application from the ServiceNow Store]] and install the **Security Incident Response UI** application.
+1.  Follow the instructions for [downloading an application from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) and install the **Security Incident Response UI** application.
 
 2.  After installation is complete, you can open the Security Analyst Workspace by navigating to **Security Incident** &gt; **Incidents \(New UI\)**
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[sir-landing-page|Security Incident Response]]

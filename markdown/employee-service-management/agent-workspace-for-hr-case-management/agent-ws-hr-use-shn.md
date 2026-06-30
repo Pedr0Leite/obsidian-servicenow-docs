@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **HR Agent Workspace**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
 2.  Locate and display an HR case.
 
@@ -30,6 +30,4 @@ Role required: sn\_hr\_core.case\_writer
 
 3.  Read the note and select **Dismiss**.
 
-## Related
 
-- [[case-management-workspace|Case management]]

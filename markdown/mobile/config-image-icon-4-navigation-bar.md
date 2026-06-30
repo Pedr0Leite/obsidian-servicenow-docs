@@ -12,11 +12,11 @@ breadcrumb: [Mobile icons, Mobile styles, Mobile app components, Building mobile
 
 # Add an image icon for a navigation bar
 
-Use [[mab-concept|Mobile App Builder]] to configure an image type icon that can be used in navigation bars on mobile apps.
+Use Mobile App Builder to configure an image type icon that can be used in navigation bars on mobile apps.
 
 ## Before you begin
 
-**Important:** Image icons can also be used in the legacy icon section of a launcher screen. For more information, see [[add-image-icon-section|Adding images to an icon section]].
+**Important:** Image icons can also be used in the legacy icon section of a launcher screen. For more information, see [Adding images to an icon section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-image-icon-section.md).
 
 Role required: admin
 
@@ -32,7 +32,7 @@ You can configure an icon within the work flow of configuring a screen or you ca
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Cards &amp; icons**category, and then select **New**.
 
@@ -48,14 +48,8 @@ You can configure an icon within the work flow of configuring a screen or you ca
 
     |Style|Value|
     |-----|-----|
-    |Enter `Name`|Enter the name of the image icon to display in the [[sg-mobile-tab-bar|navigation bar]]. For example, enter the text `Explore` to display the Explore Solid icon. For a list of navigation bar icons, see [[image-icons|Image icons]].|
+    |Enter `Name`|Enter the name of the image icon to display in the navigation bar. For example, enter the text `Explore` to display the Explore Solid icon. For a list of navigation bar icons, see [Image icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/image-icons.md).|
 
 8.  Select **Save**.
 
-## Related
 
-- [[add-image-icon-section|Adding images to an icon section]]
-- [[image-icons|Image icons]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-mobile-tab-bar|Navigation bar]]

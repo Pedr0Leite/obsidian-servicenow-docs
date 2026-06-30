@@ -14,7 +14,7 @@ breadcrumb: [Report a privacy case from the Employee Center, Report a privacy ca
 
 # Employee Center privacy case creation form
 
-On the new privacy case form in the [[employee-center|Employee Center]], fill in the fields as appropriate.
+On the new privacy case form in the Employee Center, fill in the fields as appropriate.
 
 <table id="table_rsx_syv_nvb"><thead><tr><th>
 
@@ -156,6 +156,3 @@ Sub location of the case occurrence. For example, the sub location is **Tokyo**.
 </td></tr></tbody>
 </table>**Parent Topic:**[Report a privacy case from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/report-privacy-case-employee-center.md)
 
-## Related
-
-- [[employee-center|employee center]]

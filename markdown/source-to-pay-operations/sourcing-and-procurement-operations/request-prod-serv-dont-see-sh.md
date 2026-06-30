@@ -17,7 +17,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 As an employee, shopper, or business owner, you can place requests for one or more products or services that are currently not listed on the ShoppingHub portal. You can do this from ShoppingHub Home or directly from Employee Center.
 
 -   **[Request for products that you don't see on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-dont-see-sh.md)**  
-Place a request for one or more products that are currently not listed on the [[shopping-hub-overview|Shopping Hub]] portal. You can do this from Shopping Hub Home or directly from Employee Center.
+Place a request for one or more products that are currently not listed on the Shopping Hub portal. You can do this from Shopping Hub Home or directly from Employee Center.
 -   **[Request for services that you don't see on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-serv-dont-see-sh.md)**  
 Place a request for one or more services that are currently not listed on the Shopping Hub portal. You can do this from Shopping Hub Home or directly from Employee Center.
 -   **[Configure additional attributes for I need a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-additional-attributes-i-need-product.md)**  
@@ -25,6 +25,3 @@ You can configure additional attributes on the intake for variable sets configur
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

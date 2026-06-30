@@ -14,11 +14,11 @@ breadcrumb: [Sidebar, Conversational Interfaces]
 
 # Configuring Sidebar
 
-Install and configure [[sidebar-landing|Sidebar]] so agents can have real-time collaboration with others.
+Install and configure Sidebar so agents can have real-time collaboration with others.
 
 ## Configuration overview
 
-Configuring Sidebar involves [[install-sidebar|installing Sidebar]], [[add-sidebar-button|adding the Discuss button]], configuring the Sidebar member query, and configuring participant finder. There are also additional steps if you want to integrate Sidebar with Microsoft Teams.
+Configuring Sidebar involves installing Sidebar, adding the Discuss button, configuring the Sidebar member query, and configuring participant finder. There are also additional steps if you want to integrate Sidebar with Microsoft Teams.
 
 1.  [Install Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/install-sidebar.md).
 
@@ -36,14 +36,8 @@ Configuring Sidebar involves [[install-sidebar|installing Sidebar]], [[add-sideb
 
     Configuring the Sidebar member query causes the participants list on the Start a Sidebar discussion screen to be pre-populated.
 
-5.  Enable [[sidebar-teams-overview|Sidebar and Microsoft Teams]] users to communicate with each other by integrating the applications:
+5.  Enable Sidebar and Microsoft Teams users to communicate with each other by integrating the applications:
     1.  [Sidebar and Teams integration overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-teams-overview.md).
     2.  [Integrate Sidebar and Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/integrating-sidebar-teams.md).
     3.  [Enable or configure the Microsoft Teams integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/enable-teams-integration.md).
 
-## Related
-
-- [[sidebar-landing|Sidebar]]
-- [[install-sidebar|Installing Sidebar]]
-- [[add-sidebar-button|Adding the Discuss button]]
-- [[sidebar-teams-overview|Sidebar and Microsoft Teams]]

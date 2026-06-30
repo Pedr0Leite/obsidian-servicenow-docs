@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-By default, customer service agents can respond to cases using options within a customer email thread instead of having to use another email client. Agents can use the **Reply**, **Reply All**, and **Forward** buttons in the case [[csm-config-ws-activity-stream|activity stream]] to respond to customer emails.
+By default, customer service agents can respond to cases using options within a customer email thread instead of having to use another email client. Agents can use the **Reply**, **Reply All**, and **Forward** buttons in the case activity stream to respond to customer emails.
 
 You can disable this feature and hide these buttons from the Agent Workspace or Configurable Workspace application.
 
@@ -43,6 +43,3 @@ You can disable this feature and hide these buttons from the Agent Workspace or 
 
 Users with the role sn\_customerservice\_agent are now unable to reply to or forward emails.
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

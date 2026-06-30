@@ -14,7 +14,7 @@ breadcrumb: [Configuring Skills Foundation, Skills Foundation, Growth Experience
 
 # Use a custom tab for the Career tab in Skills Foundation
 
-Use a custom tab as a replacement for the **Career** tab in [[emp-slate-employee-profile|Employee Profile]] by updating the tab ID so employees are redirected to this custom tab.
+Use a custom tab as a replacement for the **Career** tab in Employee Profile by updating the tab ID so employees are redirected to this custom tab.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Role required: sn\_skills\_int.admin, sn\_hr\_sp.esc\_admin
 
 The employee will be directed to the customized tab to view and modify the skills in Employee Profile.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

@@ -12,7 +12,7 @@ breadcrumb: [Contact relationships, Create customer relationships, Configure acc
 
 # Create a contact relationship for an account
 
-Create a contact relationship for an account by selecting a contact and then assigning a responsibility to that contact in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. Through this relationship, a contact can effectively manage the accounts and can execute actions on behalf of the associated accounts.
+Create a contact relationship for an account by selecting a contact and then assigning a responsibility to that contact in the Customer Service Management \(CSM\) application. Through this relationship, a contact can effectively manage the accounts and can execute actions on behalf of the associated accounts.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Starting with the Australia release, Customer Service Management \(CSM\) introdu
 
 2.  Select an account.
 
-3.  In the [[c_ContactRelationships|Contact Relationships]] related list, select **New**.
+3.  In the Contact Relationships related list, select **New**.
 
 4.  On the form, fill in the fields.
 
@@ -60,7 +60,7 @@ Contact
 
 </td><td>
 
-The customer contact selected to fulfill the role or responsibility.The Contacts list includes contacts from any related partner or account as well as contacts from the [[c_AccountHierarchy|account hierarchy]].
+The customer contact selected to fulfill the role or responsibility.The Contacts list includes contacts from any related partner or account as well as contacts from the account hierarchy.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Type
 
 </td><td>
 
-Defines the label for the relationship with the selected user. You can select the type from the list of related party configurations.**Note:** Starting with the Yokohama release, the **Type** field is added to the [[csm-contact-relationship-form|Contact Relationship form]]. For more information on how to populate the **Type** field for existing data, see [[migration-of-account-manager-responsibility-access|Populate the Type field in relationship tables using the fix script]].
+Defines the label for the relationship with the selected user. You can select the type from the list of related party configurations.**Note:** Starting with the Yokohama release, the **Type** field is added to the Contact Relationship form. For more information on how to populate the **Type** field for existing data, see [Populate the Type field in relationship tables using the fix script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-of-account-manager-responsibility-access.md).
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Responsibility
 
 </td><td>
 
-Role or responsibility selected for this customer contact.**Note:** As part of creating a responsibility definition, the admin can specify if the responsibility is unique. If so, the responsibility can only be assigned to one contact per account. For more information, see [[configure-csm-account-teams|Create account teams]].
+Role or responsibility selected for this customer contact.**Note:** As part of creating a responsibility definition, the admin can specify if the responsibility is unique. If so, the responsibility can only be assigned to one contact per account. For more information, see [Create account teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-csm-account-teams.md).
 
 </td></tr><tr><td>
 
@@ -91,11 +91,4 @@ Specifies the sequence in which records are displayed, organized according to bu
 
     The contact name, account, and responsibility are added to the Contact Relationships related list.
 
-## Related
 
-- [[migration-of-account-manager-responsibility-access|Populate the Type field in relationship tables using the fix script]]
-- [[configure-csm-account-teams|Creating an account team]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_ContactRelationships|Contact relationships]]
-- [[c_AccountHierarchy|Account hierarchy]]
-- [[csm-contact-relationship-form|Contact Relationship form]]

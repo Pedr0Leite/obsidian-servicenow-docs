@@ -50,7 +50,7 @@ Role required: sn\_cmdb\_admin or sn\_cmdb\_editor
 
     The map re-centers on the added CI. Skip the remaining steps.
 
-5.  To add a CI that is not yet connected to another CI on the map, select **Add to map and [[c_Connect|connect]]**.
+5.  To add a CI that is not yet connected to another CI on the map, select **Add to map and connect**.
 
     The map re-centers on the added CI and the Manage connection panel \[Omitted image "icon-um-edit-connection.png"\] opens.
 
@@ -103,6 +103,4 @@ The relationship between the CIs. For example, the relationship between the pare
 </td></tr></tbody>
 </table>7.  When you have specified all connection settings, select **Create connection**.
 
-## Related
 
-- [[c_Connect|Connect]]

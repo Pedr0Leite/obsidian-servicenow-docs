@@ -33,7 +33,7 @@ From the **Workspaces** menu, select **Service Operations Workspace** and select
 
 ## Example
 
-The [[psew-landing-page|Proactive Service Experience Workflows]] application is automatically triggered when an incident is created within the system by an alert flow. A technical support can manually create this alert in the Service Operations Workspace. It can also be generated from an external fault management system using the TMF 621 integration.
+The Proactive Service Experience Workflows application is automatically triggered when an incident is created within the system by an alert flow. A technical support can manually create this alert in the Service Operations Workspace. It can also be generated from an external fault management system using the TMF 621 integration.
 
 The following example demonstrates how Proactive Service Experience Workflows is used to resolve an external network-initiated incident. In this example,
 
@@ -61,6 +61,3 @@ The following example demonstrates how Proactive Service Experience Workflows is
 
 **Parent Topic:**[Exploring the Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/explore-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

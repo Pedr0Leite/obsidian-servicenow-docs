@@ -14,7 +14,7 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Configuring shifts for your workplace
 
-Configure shifts for your organization in the [[workplace-safety-mgmt-hr|Workplace Core]] application so you can efficiently plan and manage your workplace by assigning employees and workspaces to those schedules.
+Configure shifts for your organization in the Workplace Core application so you can efficiently plan and manage your workplace by assigning employees and workspaces to those schedules.
 
 -   **[Define shifts for your workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/create-shifts.md)**  
 Define shifts in Workplace Core with specific schedules so you can designate areas or workplace and assign employees for each shift.
@@ -25,6 +25,3 @@ Associate work areas and spaces with a shift in Workplace Core so that they are 
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/workplace-safety-mgmt-hr.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

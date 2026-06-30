@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration file security, Securing and encrypting MID
 
 # Change MID Server configuration file security schemes
 
-The [[mid-server-landing|MID Server]] provides several schemes for securing sensitive data in the **config.xml** file and allows you to switch between these options to suit your security requirements.
+The MID Server provides several schemes for securing sensitive data in the **config.xml** file and allows you to switch between these options to suit your security requirements.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-encrypter-api.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

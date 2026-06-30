@@ -20,7 +20,7 @@ To get started with AI agents, you must have:
 
 -   **License requirements**: A ServiceNow Pro Plus or Enterprise Plus license.
 
-    **Note:** A [[platform-now-assist-landing|Now Assist]] License is required. [[na-ai-agents|Now Assist AI Agents]] is available to all users who have Now Assist.
+    **Note:** A Now Assist License is required. Now Assist AI Agents is available to all users who have Now Assist.
 
 -   **Instance requirements**: An instance on Australia Patch 1 or later.
 -   **Application requirements**: The following store applications and all the dependency applications must be installed and updated:
@@ -30,9 +30,9 @@ To get started with AI agents, you must have:
 
     -   Now Assist AI Agents store application
 -   AI Search enabled on your instance.
--   The [[now-assist-center-now-assist-panel|Now Assist panel]] must be turned on.
+-   The Now Assist panel must be turned on.
 
-    **Note:** You can access AI agents in the Now Assist panel. To [[now-assist-center-enable-now-assist-panel|enable the Now Assist panel]], see [[activate-now-assist-panel|Turn on the Now Assist panel]].
+    **Note:** You can access AI agents in the Now Assist panel. To enable the Now Assist panel, see [Turn on the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
 
 Role required: sn\_aia.admin
@@ -54,17 +54,10 @@ AI agents associated with the Now Assist application are installed on your insta
 
 -   **Assign the admin role**
 
-    Add the role `sn_aia.admin` to the user who will administer the [[ai-agent-studio|AI Agent Studio]], and then navigate to **All &gt; AI Agent Studio &gt; Overview**.
+    Add the role `sn_aia.admin` to the user who will administer the AI Agent Studio, and then navigate to **All &gt; AI Agent Studio &gt; Overview**.
 
 -   **Access the AI Agent Studio**
 
     Navigate to **All &gt; AI Agent Studio &gt; Overview** in the AI Agent Studio application navigator where you can create and manage AI agents and agentic workflows.
 
-## Related
 
-- [[activate-now-assist-panel|Activate the Now Assist panel standard chat]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]]
-- [[ai-agent-studio|AI Agent Studio]]

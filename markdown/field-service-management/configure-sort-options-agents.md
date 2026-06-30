@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configure agent list sort options
 
-Configure the options available for dispatchers to sort agents in the [[dispatcher-activities|Dispatcher Workspace]].
+Configure the options available for dispatchers to sort agents in the Dispatcher Workspace.
 
 ## Before you begin
 
@@ -95,6 +95,4 @@ Criteria to determine the agents that are displayed in the list.
 
     \[Omitted image "agent-sort-options.png"\] Alt text: agent recommendation sort criteria form
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Filter catalogs by location in a quote
 
-Use the location filter on the Catalog tab to filter products by location in [[quote-management|Quote Management]].
+Use the location filter on the Catalog tab to filter products by location in Quote Management.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ Role required: sales\_agent
     The products in the catalog are filtered according to the selected location.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

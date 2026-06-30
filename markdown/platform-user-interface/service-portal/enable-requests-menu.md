@@ -26,7 +26,7 @@ The My Requests menu that is based on the My Requests \(my-requests-v2\) widget 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Portals**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Portals**.
 
 2.  Select a portal.
 
@@ -47,6 +47,3 @@ The My Requests menu that is based on the My Requests \(my-requests-v2\) widget 
 
 **Parent Topic:**[My Requests widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/my-request-widget-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

@@ -14,13 +14,13 @@ breadcrumb: [Security metrics, Security monitoring console, Security Center, Pla
 
 # Customize the My security metrics dashboard
 
-Discover the flexibility of the My [[sc-metrics|security metrics]] dashboard, which can be customized with [[ca-metrics|metrics]] from various sources like graphs and charts. Tailor the dashboard to suit your organization's specific requirements.
+Discover the flexibility of the My security metrics dashboard, which can be customized with metrics from various sources like graphs and charts. Tailor the dashboard to suit your organization's specific requirements.
 
 ## Before you begin
 
 \[Omitted image "sc-custom-metrics.png"\] Alt text: User interface for dashboard customization
 
-To customize the Security Metrics dashboard, confirm you are within the [[sec-center-v2|Security Center]] application scope. To switch to this scope, select **application picker** &gt; **Application scope**, and type security center.
+To customize the Security Metrics dashboard, confirm you are within the Security Center application scope. To switch to this scope, select **application picker** &gt; **Application scope**, and type security center.
 
 Role required: admin
 
@@ -44,7 +44,7 @@ Implement and customize My security metrics dashboard. Add metrics and content t
 
 6.  Select **Save**.
 
-7.  To share the dashboard with [[users|users]], groups, and roles in your organization, select **More actions menu** &gt; **Share**.
+7.  To share the dashboard with users, groups, and roles in your organization, select **More actions menu** &gt; **Share**.
 
     1.  Enter the name of a user to grant access to.
 
@@ -53,9 +53,3 @@ Implement and customize My security metrics dashboard. Add metrics and content t
 
 **Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 
-## Related
-
-- [[sc-metrics|Security metrics]]
-- [[ca-metrics|Metrics]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]

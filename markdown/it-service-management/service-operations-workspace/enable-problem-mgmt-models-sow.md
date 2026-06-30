@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management in Service Operations Workspace, Get
 
 # Enable Problem Management models in Service Operations Workspace
 
-Enable the [[problem-mgmt-models|Problem Management models]] system property so that you can create and use custom [[c_Models|models]].
+Enable the Problem Management models system property so that you can create and use custom models.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ Role required: admin
 
 Problem Management models are enabled.
 
-## Related
-
-- [[problem-mgmt-models|Problem Management models]]
-- [[c_Models|Models]]

@@ -18,7 +18,7 @@ Associating each software installation with a software model lets you perform au
 
 ## Overview
 
-[[c_CreatingSoftwareModels|Software models]] are automatically created for licensable and non-licensable products if the following system properties are enabled:
+Software models are automatically created for licensable and non-licensable products if the following system properties are enabled:
 
 -   **com.snc.samp.automaticsmrcreation**: for licensable products
 -   **com.snc.samp.automaticsmcreation**: for non-licensable products
@@ -29,7 +29,7 @@ A match is made to the most specific software model. If no specific software mod
 
 During the matching process, if a matching software model is found, but it has an install condition on it then it's not considered to be a match. In such a scenario, a software model is automatically created without an install condition.
 
-For each normalized publisher and normalized product pair in the [[sam-software-discovery|Software Discovery]] Model \(cmdb\_sam\_sw\_discovery\_model\) table, the scheduled job, **SAM – Discovery Model to Software Model matching**, gets all software models with matching publisher and product. If the software model has no install condition, subscription condition, or DB option, the system gets matching discovery [[c_Models|models]] with normalized publisher, normalized product, normalized edition, and normalized version values. Once a match is found, the software model reference is put on the software model column in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table.
+For each normalized publisher and normalized product pair in the Software Discovery Model \(cmdb\_sam\_sw\_discovery\_model\) table, the scheduled job, **SAM – Discovery Model to Software Model matching**, gets all software models with matching publisher and product. If the software model has no install condition, subscription condition, or DB option, the system gets matching discovery models with normalized publisher, normalized product, normalized edition, and normalized version values. Once a match is found, the software model reference is put on the software model column in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table.
 
 ## Manually set software model
 
@@ -96,8 +96,3 @@ No match found.
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

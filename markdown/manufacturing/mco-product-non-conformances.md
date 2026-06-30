@@ -14,18 +14,12 @@ breadcrumb: [Agent management, Use, Manufacturing Commercial Operations]
 
 The Agents workspace enables you to create and view product non-conformance cases.
 
--   **[[mco-playbook-create-non-conformance|Create a product non-conformance case using playbook]]**  
+-   **[Create a product non-conformance case using playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-playbook-create-non-conformance.md)**  
 Create a non-conformance case for the products that have issue using the playbook experience.
--   **[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]**  
+-   **[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)**  
 In the workspace, you can use the product non-conformance related list to log the report.
--   **[[mco-view-a-product-non-conformance|View a product non-conformance]]**  
+-   **[View a product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-view-a-product-non-conformance.md)**  
 View the product non-conformance reports.
 
-**Parent Topic:**[[mco-agent-management|Agent management]]
+**Parent Topic:**[Agent management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agent-management.md)
 
-## Related
-
-- [[mco-playbook-create-non-conformance|Create a product non-conformance case using playbook]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-view-a-product-non-conformance|View a product non-conformance]]
-- [[mco-agent-management|Agent management]]

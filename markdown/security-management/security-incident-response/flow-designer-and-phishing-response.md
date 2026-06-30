@@ -27,14 +27,14 @@ These templates contain a sequence of reusable actions designed to respond to ph
 
 **Note:** Activate these templates before you can use them. See [Activate a Security Incident Response flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/getting-started-phishing-playbook.md) for details.
 
--   Run Threat Lookups for [[c_Observables|Observables]]: Performs threat lookups of selected observables.
+-   Run Threat Lookups for Observables: Performs threat lookups of selected observables.
 -   Enrich Observables: Allows you to enrich observables with additional information from various sources.
 -   Assess Phishing Email Impact: Allows you to assess the impact of the phishing email. When you receive an email at the phishing email address, this subflow parses the .EML attachment and compares the information to the email matching rules.
 -   Eradicate Phishing Emails: Allows you to delete or eradicate phishing emails to help reduce exposure to a specific attack.
--   [[tisc-run-sighting-search|Run Sighting Search]] on Observables: Determines the prevalence of a threat over time or test remediation or eradication efforts.
+-   Run Sighting Search on Observables: Determines the prevalence of a threat over time or test remediation or eradication efforts.
 -   Create Block Requests: Blocks communication with observables associated with the incident.
 
-These subflows represent a set of reusable operations that you can use in multiple [[tisc-playbooks-admin|playbooks]]. You can use these subflows to define custom templates \(flows\) according to your requirements.
+These subflows represent a set of reusable operations that you can use in multiple playbooks. You can use these subflows to define custom templates \(flows\) according to your requirements.
 
 To create custom templates \(flows\), follow the instructions in [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flows.md).
 
@@ -43,8 +43,3 @@ Using the flow designer, you can define and automate tasks in the playbook to an
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-run-sighting-search|Run Sighting Search]]
-- [[tisc-playbooks-admin|Playbooks]]

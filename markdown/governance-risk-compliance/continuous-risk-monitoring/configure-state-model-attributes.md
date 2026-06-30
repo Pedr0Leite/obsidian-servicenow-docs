@@ -14,7 +14,7 @@ breadcrumb: [GRC state model configuration, CAM workflow configuration, Using CA
 
 # Add existing attributes to a GRC workflow state
 
-Add existing [[r_WhatIsGRC|Governance, Risk, and Compliance]] state model attributes to add special capabilities to workflow steps without custom code. Attributes control features like approval requirements, report generation, and Open Security Controls Assessment Language \(OSCAL\) file exports for specific workflow states.
+Add existing Governance, Risk, and Compliance state model attributes to add special capabilities to workflow steps without custom code. Attributes control features like approval requirements, report generation, and Open Security Controls Assessment Language \(OSCAL\) file exports for specific workflow states.
 
 ## Before you begin
 
@@ -42,13 +42,13 @@ In addition, you get the following UI page attributes:
 -   Required Overlay Page: Displays the Overlays UI page
 -   Required Authorization Documents Page: Displays the Authorization Documents page
 
-**Note:** To configure state model attributes with the CAM specific attributes, perform the tasks in this topic. To [[configure-new-state-model-attributes|create a new state model attribute]], see [Create a new state model attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-new-state-model-attributes.md).
+**Note:** To configure state model attributes with the CAM specific attributes, perform the tasks in this topic. To create a new state model attribute, see [Create a new state model attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-new-state-model-attributes.md).
 
 Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **GRC State Models**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **GRC State Models**.
 
 2.  Open the state model record that contains workflow states.
 
@@ -71,9 +71,3 @@ Role required: sn\_irm\_cont\_auth.admin
 
 State model attributes are configured and control the functionality available at specific workflow steps. You can see the appropriate buttons and features based on the attributes assigned to each workflow state.
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[configure-new-state-model-attributes|Create a new state model attribute]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

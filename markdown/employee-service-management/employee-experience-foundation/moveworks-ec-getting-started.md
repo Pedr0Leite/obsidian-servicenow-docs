@@ -14,14 +14,14 @@ breadcrumb: [Moveworks for Employee Center, Unified Employee Experience, Employe
 
 # Getting started with Moveworks for Employee Center
 
-Moveworks integration adds an AI assistant to [[employee-center-landing-page|Employee Center]] replacing the standard Virtual Agent with Moveworks conversational AI.
+Moveworks integration adds an AI assistant to Employee Center replacing the standard Virtual Agent with Moveworks conversational AI.
 
-A new plugin, [[moveworks-for-employeecenter|Moveworks for Employee Center]] \(sn\_ex\_mw\_chat\_int\) assistant, lets your entire workforce ask questions, get instant answers, and complete tasks end-to-end.
+A new plugin, Moveworks for Employee Center \(sn\_ex\_mw\_chat\_int\) assistant, lets your entire workforce ask questions, get instant answers, and complete tasks end-to-end.
 
 Using the Moveworks chat assistant, you can access knowledge articles, requests, and tasks. Verify that you activate the EC applications before installing the Moveworks app from ServiceNow Store.
 
 -   Employee Center \(sn\_ex\_sp\)
--   [[employee-center-pro-landing|Employee Center Pro]] \(sn\_ex\_sp\_pro\)
+-   Employee Center Pro \(sn\_ex\_sp\_pro\)
 
 You can complete the integration process in three steps:
 
@@ -45,7 +45,7 @@ For more information, see [Moveworks documentation](https://help.moveworks.com/)
 
 ## Useful tips and information
 
-Before getting started, see the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information available at [Moveworks for Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-ec-integration-reference.md), for settings, observations, and troubleshooting.
+Before getting started, see the reference information available at [Moveworks for Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-ec-integration-reference.md), for settings, observations, and troubleshooting.
 
 **Note:** Moveworks for Employee Center is available on both Employee Center and Employee Center Pro.
 
@@ -64,9 +64,3 @@ Before getting started, see the [[reference-hr-service-delivery-advanced-integra
 
 [Moveworks for Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-ec-integration-reference.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[moveworks-for-employeecenter|Moveworks for Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

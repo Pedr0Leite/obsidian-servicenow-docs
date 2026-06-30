@@ -26,7 +26,7 @@ Role required: sales\_agent or sales\_manager
 
     -   On the **Leads- All** page, select **Assign to**.
     -   Open the lead record, select three-dot menu \[Omitted image "icon-three-dot-menu.png"\] Alt text: at the top-right corner on the lead header and select **Assign to**.
-    To [[create-new-lead|Create a lead]], select **New**.
+    To [Create a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-lead.md), select **New**.
 
     **Note:**
 
@@ -41,20 +41,14 @@ Role required: sales\_agent or sales\_manager
 
 ## What to do next
 
-To learn more, see [[lead-management-using|Using Lead Management]].
+To learn more, see [Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md).
 
 **Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[create-new-lead|Create a lead]]
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]

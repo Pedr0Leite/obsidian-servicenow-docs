@@ -32,7 +32,7 @@ Role required: admin
     |-----|-----------|
     |Name|Name of the sentiment analysis connector configuration.|
     |Active|Check box to activate the connector configuration.|
-    |Credential Alias|Credential alias associated with the connector configuration. It has a [[reference|reference]] to the system level table \(sys\_alias\_list\).|
+    |Credential Alias|Credential alias associated with the connector configuration. It has a reference to the system level table \(sys\_alias\_list\).|
     |Default|Check box to make this as the default connector configuration.|
     |Description|Description of the connector configuration.|
     |Script|Script to call the Sentiment Analysis API and the normalize the values.|
@@ -53,15 +53,10 @@ Role required: admin
 
         -   You should obtain the connection credentials from the respective third-party vendors.
         -   If the credential is an API key, specify its value. If the credential is basic authentication, that is, user name and password, specify the corresponding information.
-    6.  Select the **Active** [[check-box|check box]] and click **Update**.
+    6.  Select the **Active** check box and click **Update**.
 
 5.  Select the **Active** check box for the connector configuration and click **Update**.
 
 
-**Parent Topic:**[[sentiment-analysis|Sentiment analysis for surveys]]
+**Parent Topic:**[Sentiment analysis for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sentiment-analysis.md)
 
-## Related
-
-- [[sentiment-analysis|Sentiment analysis for surveys]]
-- [[reference|Reference]]
-- [[check-box|Check box]]

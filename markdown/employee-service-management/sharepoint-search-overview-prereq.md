@@ -12,7 +12,7 @@ breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
 
 # SharePoint Online Search Connector prerequisites
 
-The ServiceNow [[sharepoint-search-overview|SharePoint Online Search Connector]] offers a consumer-grade search configuration to manage your information resources.
+The ServiceNow SharePoint Online Search Connector offers a consumer-grade search configuration to manage your information resources.
 
 **Important:** Starting with the Yokohama release, SharePoint Online Search Connector is being prepared for future deprecation. It is hidden and no longer activated on new instances but continue to be supported. For deprecation details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -22,7 +22,7 @@ For detailed instructions on how to get started with **External Content Connecto
 -   [Exploring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-ext-cont-connectors.md).
 -   [Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ext-cont-connectors.md).
 
-As search is the key to productivity, SharePoint Online Search Connector \(SPOC\) helps your employees to search and [[discover-lxp|discover]] content from the ServiceNow employee experience.
+As search is the key to productivity, SharePoint Online Search Connector \(SPOC\) helps your employees to search and discover content from the ServiceNow employee experience.
 
 ## How SharePoint Online Search Connector works
 
@@ -33,7 +33,7 @@ Here’s an overview of how SharePoint Online Search Connector works:
 Use the SharePoint Online Search Connector to:
 
 -   Create better search and discovery experiences for the Microsoft SharePoint content, confirming that your employees can quickly find the information they need.
--   Enable support across multiple channels like [[employee-service-management-overview|Employee Service Management]], Service Portal, [[mobile-employee-experience|Now Mobile app]], and Virtual Agent.
+-   Enable support across multiple channels like Employee Service Management, Service Portal, Now Mobile app, and Virtual Agent.
 -   Integrate with the ServiceNow® AI Search for improved relevance and personalization.
 -   Search and find relevant information and drive business outcomes.
 
@@ -41,14 +41,14 @@ Use the SharePoint Online Search Connector to:
 
 Activate the following plugins and apps:
 
--   [[employee-center-pro-landing|Employee Center Pro]]
+-   Employee Center Pro
 -   Microsoft SharePoint spoke
 -   AI Search spoke
 -   Microsoft Entra ID spoke
 
 Verify that the AI Search engine is enabled. External Content for the AI Search plugin \(com.glide.ais.external\_content\) must have a ServiceNow subscription.
 
-For more information, see [[setup-sp-ovrvw|Setting up SharePoint Online Search Connector]].
+For more information, see [Setting up SharePoint Online Search Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/setup-sp-ovrvw.md).
 
 ## Things to remember
 
@@ -79,14 +79,5 @@ For more information, see [[setup-sp-ovrvw|Setting up SharePoint Online Search C
 **Related topics**  
 
 
-[[sharepoint-reference|SharePoint Online Search Connector reference]]
+[SharePoint Online Search Connector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-reference.md)
 
-## Related
-
-- [[setup-sp-ovrvw|Setting up the SharePoint Online Search Connector]]
-- [[sharepoint-reference|SharePoint Online Search Connector reference]]
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[discover-lxp|Discover]]
-- [[employee-service-management-overview|Employee Service Management]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-pro-landing|Employee Center Pro]]

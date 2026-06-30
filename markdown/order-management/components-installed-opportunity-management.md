@@ -12,7 +12,7 @@ breadcrumb: [Opportunity Management reference, Lead and opportunity management, 
 
 # Components installed with Opportunity Management
 
-Several types of components are installed with activation of the [[opportunity-management|Opportunity Management]] plugin, including user roles and tables.
+Several types of components are installed with activation of the Opportunity Management plugin, including user roles and tables.
 
 ## Roles installed
 
@@ -338,15 +338,10 @@ Opportunity Allocation Dimensionsn\_opty\_mgmt\_core\_opportunity\_allocation\_d
 Allocation values that are grouped or categorized, such as by territory or product family.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[opportunity-management-reference|Opportunity Management reference]]
+</table>**Parent Topic:**[Opportunity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-reference.md)
 
 **Related topics**  
 
 
-[[install-opportunity-management|Install Opportunity Management]]
+[Install Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-opportunity-management.md)
 
-## Related
-
-- [[opportunity-management-reference|Opportunity Management reference]]
-- [[install-opportunity-management|Install Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]

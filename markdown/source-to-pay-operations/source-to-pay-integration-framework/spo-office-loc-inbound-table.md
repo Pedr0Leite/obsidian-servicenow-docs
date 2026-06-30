@@ -20,7 +20,7 @@ The following table lists the mandatory fields for the Office Location Stage inb
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |Country|String|Name of the country where the office location belongs.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
@@ -100,8 +100,3 @@ The following table lists the mandatory fields for the Office Location Stage inb
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

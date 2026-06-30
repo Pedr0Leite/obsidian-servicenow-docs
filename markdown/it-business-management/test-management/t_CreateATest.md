@@ -23,11 +23,11 @@ Create a test to see if your features are working correctly.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestCases|Test Cases]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Cases**.
 
 2.  Open a test case to which you want to add a test.
 
-3.  From the [[c_Tests|Tests]] related list, click **New**.
+3.  From the Tests related list, click **New**.
 
 4.  On the form, fill in the fields.
 
@@ -100,7 +100,3 @@ You can create a copy of this test by clicking the **Create Duplicate** related 
 
 **Parent Topic:**[Tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tests.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

@@ -14,7 +14,7 @@ breadcrumb: [Authentication factors, Authentication, Access Management]
 
 # Explore authentication factors for AI voice agents
 
-[[authentication-factors|Authentication factors]] are the elements used for caller identification and [[c_Authentication|authentication]]. In secure voice agent environments, the process begins with identifying the caller, followed by authenticating their [[identity-landing|identity]] before granting access. A robust security strategy combines multiple factors to confirm that only authorized [[users|users]] interact with AI voice agents.
+Authentication factors are the elements used for caller identification and authentication. In secure voice agent environments, the process begins with identifying the caller, followed by authenticating their identity before granting access. A robust security strategy combines multiple factors to confirm that only authorized users interact with AI voice agents.
 
 When configuring an AI voice service to support natural, conversational exchanges, it’s crucial to select authentication factors that reliably verify a user's identity. Caller access to specific voice agents is determined by the authentication types and methods configured by the administrator.
 
@@ -26,7 +26,7 @@ Single-factor authentication requires the caller to verify their identity throug
 
 ## Multi-factor authentication
 
-[[mfa-landing|Multi-factor authentication]] \(MFA\) requires callers to pass two verification methods in sequence. This raises the assurance level of the session and restricts access to sensitive data and actions.
+Multi-factor authentication \(MFA\) requires callers to pass two verification methods in sequence. This raises the assurance level of the session and restricts access to sensitive data and actions.
 
 -   Primary factor: The initial verification method \(for example, Soft PIN or TOTP\).
 -   Secondary factor: An additional verification method that increases confidence in the caller’s identity \(for example, SMS OTP or Okta Verify push notification\).
@@ -42,7 +42,7 @@ Single-factor authentication requires the caller to verify their identity throug
 
 -   **[Push notification - Okta Verify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/push-notification-okta-verify.md)**
 
-    Callers approve an authentication [[c_requestAPI|request]] via a push notification sent to their registered mobile device. This factor requires no code entry and is low-friction. It is effective as both a primary and secondary factor. An internet connection and a registered device with Okta Verify installed are required.
+    Callers approve an authentication request via a push notification sent to their registered mobile device. This factor requires no code entry and is low-friction. It is effective as both a primary and secondary factor. An internet connection and a registered device with Okta Verify installed are required.
 
 -   **[Soft PIN authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/softpin-authentication.md)**
 
@@ -54,7 +54,7 @@ Single-factor authentication requires the caller to verify their identity throug
 
 -   **[Email One-time passwords \(OTP\) authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/email-otp-authentication.md)**
 
-    [[email|Email]] OTP delivers a temporary numeric code to the caller’s registered email address. It is easy to deploy and familiar to most users. Callers can enter the code via keypad or by speaking the digits. Email OTP is susceptible to email account compromise and phishing, and should not be used as a standalone factor for sensitive operations.
+    Email OTP delivers a temporary numeric code to the caller’s registered email address. It is easy to deploy and familiar to most users. Callers can enter the code via keypad or by speaking the digits. Email OTP is susceptible to email account compromise and phishing, and should not be used as a standalone factor for sensitive operations.
 
 -   **[Knowledge-based authentication \(Security Questions\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/knowledge-based-authentication.md)**
 
@@ -80,12 +80,3 @@ To learn more about voice service and how to create them, see [Create an AI voic
 
 [Knowledge-based authentication \(Security Questions\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/knowledge-based-authentication.md)
 
-## Related
-
-- [[authentication-factors|Authentication factors]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_requestAPI|request]]
-- [[email|Email]]

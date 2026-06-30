@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Select the [[map-configuration-v2|Map Configuration tab]] to display the Map configuration page.
+1.  Select the Map Configuration tab to display the Map configuration page.
 
     **Note:** if the floor plan isn’t positioned on the map, georeference isn’t set \(\[Omitted image "wsd-warning-icon.png"\] Alt text: Georeference not set warning alert.\) alert is shown.
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Next topic:**[Configure layers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/wsd-edit-layers.md)
 
-## Related
-
-- [[map-configuration-v2|Map Configuration tab]]

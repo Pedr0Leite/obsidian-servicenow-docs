@@ -14,7 +14,7 @@ breadcrumb: [Resolving slow queries, Resolve issues, Platform performance, Maint
 
 # Test index performance for slow queries
 
-After the Index Suggestion Engine \(ISE\) generates an index suggestion for a slow query, you can test the index to see if it improves execution time. If you're evaluating an index suggestion on a non-production instance, you can run this test after creating the index to get immediate [[hs-results|results]] on index performance.
+After the Index Suggestion Engine \(ISE\) generates an index suggestion for a slow query, you can test the index to see if it improves execution time. If you're evaluating an index suggestion on a non-production instance, you can run this test after creating the index to get immediate results on index performance.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ This test is an optional assessment of the index. The test isn’t part of the 1
 
 1.  Open the Index Suggestion record for the index that you want to test:
 
-    1.  Navigate to **[[sys-diag|System Diagnostics]]** &gt; **Index Suggestion** &gt; **Index Suggestions &gt; In progress**.
+    1.  Navigate to **System Diagnostics** &gt; **Index Suggestion** &gt; **Index Suggestions &gt; In progress**.
 
     2.  In the Index Suggestions table, select the table associated with the index suggestion you want to view in the **Table Name** column.
 
@@ -55,7 +55,3 @@ This test is an optional assessment of the index. The test isn’t part of the 1
 
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[sys-diag|System Diagnostics]]

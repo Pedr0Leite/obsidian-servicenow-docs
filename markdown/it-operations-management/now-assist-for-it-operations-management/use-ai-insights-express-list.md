@@ -18,7 +18,7 @@ Access alert information in Express List that is consolidated autonomously by AI
 
 ## Before you begin
 
-For this feature, you must have Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) installed on your instance. For more information about installing Now Assist plugins, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
+For this feature, you must have Now Assist for IT Operations Management \(ITOM\) installed on your instance. For more information about installing Now Assist plugins, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
 Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
@@ -26,9 +26,9 @@ Role required: evt\_mgmt\_admin, evt\_mgmt\_operator
 
 ## About this task
 
-The manage alerts autonomously workflow investigates alerts, summarizes alert-related reports, and stores structured insights with key findings for use in Express List. For more information about the [[itom-autonomous-operator-workflow|manage alerts autonomously agentic workflow]], see [Manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/itom-autonomous-operator-workflow.md).
+The manage alerts autonomously workflow investigates alerts, summarizes alert-related reports, and stores structured insights with key findings for use in Express List. For more information about the manage alerts autonomously agentic workflow, see [Manage alerts autonomously agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/itom-autonomous-operator-workflow.md).
 
-**Note:** Currently, [[now-assist-itom|Now Assist for ITOM]] only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
+**Note:** Currently, Now Assist for ITOM only supports tag-based, CMDB, Log Analytics, Mixed, Automated, and Network Traffic-based alert groups. For all other alert group types, it only analyzes the parent alert.
 
 There are several ways to explore AI insights in Express List.
 
@@ -46,7 +46,7 @@ For information about configuring this workflow, see [Configure the manage alert
 
 ## Procedure
 
-1.  Navigate to **Workspace Experience** &gt; **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspace Experience** &gt; **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  Select the Express List icon \[Omitted image "express-list1.png"\] Alt text:.
 
@@ -113,10 +113,3 @@ The **Overview** tab is selected by default.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[itom-autonomous-operator-workflow|Manage alerts autonomously agentic workflow]]
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

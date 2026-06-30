@@ -13,21 +13,14 @@ breadcrumb: [Configure, price, quote, Reference, Sales Customer Relationship Man
 
 # Advanced Approval Management reference
 
-Reference topics provide additional information about [[explore-advanced-approval-for-sales|Advanced Approval Management]].
+Reference topics provide additional information about Advanced Approval Management.
 
--   **[[components-installed-advanced-approval-management-for-sales|Components installed with Advanced Approval Management]]**  
+-   **[Components installed with Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-advanced-approval-management-for-sales.md)**  
 Several types of components are installed with activation of the Advanced Approval Management plugin, including tables, scheduled jobs, and user roles.
--   **[[approval-configuration-form|Approval Configuration form]]**  
+-   **[Approval Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/approval-configuration-form.md)**  
 Field descriptions for the Approval Configuration form in Advanced Approval Management.
--   **[[create-approval-rule-form|Create Approval Rule form]]**  
+-   **[Create Approval Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rule-form.md)**  
 Field descriptions for the Create Approval Rule form in Advanced Approval Management.
 
-**Parent Topic:**[[reference-cpq|Configure, price, quote reference]]
+**Parent Topic:**[Configure, price, quote reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)
 
-## Related
-
-- [[components-installed-advanced-approval-management-for-sales|Components installed with Advanced Approval Management]]
-- [[approval-configuration-form|Approval Configuration form]]
-- [[create-approval-rule-form|Create Approval Rule form]]
-- [[reference-cpq|Configure, price, quote reference]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]

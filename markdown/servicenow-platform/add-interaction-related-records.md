@@ -12,7 +12,7 @@ breadcrumb: [Integrating ServiceNow Voice for HR, Integrating Voice with other a
 
 # Add Interaction Related Records to HR Agent workspace
 
-[[cloud-call-center-overview|ServiceNow Voice]] for HR creates an interaction record for every call between an employee and an HR agent, which contain related lists of details relating to the employee and interaction. To maximize the full feature capability, add the Interaction record to the HR Agent workspace.
+ServiceNow Voice for HR creates an interaction record for every call between an employee and an HR agent, which contain related lists of details relating to the employee and interaction. To maximize the full feature capability, add the Interaction record to the HR Agent workspace.
 
 ## Before you begin
 
@@ -37,9 +37,5 @@ Role required: admin
 6.  Click **Save**.
 
 
-**Parent Topic:**[[integrate-voice-hr-agent|Integrating ServiceNow Voice for HR]]
+**Parent Topic:**[Integrating ServiceNow Voice for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-voice-hr-agent.md)
 
-## Related
-
-- [[integrate-voice-hr-agent|Integrating ServiceNow Voice for HR]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

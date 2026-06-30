@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Complete sourcing checkout
 
-As a shopper, you can request [[pricing|pricing]] or more information about a product or service in the [[shopping-hub-overview|Shopping Hub]] catalog that doesn’t have contractual pricing.
+As a shopper, you can request pricing or more information about a product or service in the Shopping Hub catalog that doesn’t have contractual pricing.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_shop.shopper
 
 During checkout, you can provide information that the procurement team needs about the selected product, product model, or category. Your responses can improve the sourcing processes and overall operational efficiency in procurement.
 
-Share additional [[sourcing-request|sourcing request]] info such as pricing details, budget, quotation, delivery address, and timeframe. Follow these steps to provide the sourcing team with the necessary information required to collect quotes or more info for your product or service:
+Share additional sourcing request info such as pricing details, budget, quotation, delivery address, and timeframe. Follow these steps to provide the sourcing team with the necessary information required to collect quotes or more info for your product or service:
 
 ## Procedure
 
@@ -56,15 +56,15 @@ Share additional [[sourcing-request|sourcing request]] info such as pricing deta
 
     -   Why do you need these products?
     -   Why do you need these services?
-    -   [[supplier|Supplier]] information
+    -   Supplier information
 
-        **Note:** If you’ve already contacted the supplier regarding your request, select the appropriate option, and enter details of the [[supplier-contact|supplier contact]] such as first and last names, job title, and registered email ID. Before you save the supplier contact details, ensure that your admin has set up the email domains for the supplier contacts, and the corresponding records are available in the [[slo-supp-email-table|Supplier Email Domain table]].
+        **Note:** If you’ve already contacted the supplier regarding your request, select the appropriate option, and enter details of the supplier contact such as first and last names, job title, and registered email ID. Before you save the supplier contact details, ensure that your admin has set up the email domains for the supplier contacts, and the corresponding records are available in the Supplier Email Domain table.
 
         For more information on adding suppliers, see:
 
         -   From Platform: [Add a supplier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-supplier.md).
         -   From the supplier catalog: [Add a supplier contact using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enroll-contact-catalog.md).
-        -   From [[purch-order-mgmt-ws|Source-to-Pay Workspace]]: [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md).
+        -   From Source-to-Pay Workspace: [Add a supplier contact from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contact.md).
     -   How much do you potentially need?
     -   When would you like this delivered? For products, select from these options.
         -   **As soon as possible** for the quickest delivery slot possible. This is calculated based on the product category of each selected product.
@@ -92,12 +92,3 @@ Share additional [[sourcing-request|sourcing request]] info such as pricing deta
 
 [Order a product with quick checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md)
 
-## Related
-
-- [[pricing|Pricing]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[slo-supp-email-table|Supplier Email Domain table]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

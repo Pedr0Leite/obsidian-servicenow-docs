@@ -28,7 +28,7 @@ Role required: Windows local administrator
 
 2.  Right-click the `PasswordResetWinAppInstall.exe` installation file that you downloaded and select **Run as administrator**.
 
-3.  On the **Configure [[password-reset-landing-page|Password Reset]] Web page and credential provider** page, configure the following settings and then click **Next**:
+3.  On the **Configure Password Reset Web page and credential provider** page, configure the following settings and then click **Next**:
 
 <table id="table_iwg_3pz_wbb"><thead><tr><th>
 
@@ -95,6 +95,3 @@ Most installations do not need to specify this parameter value. Provide this val
 
 **Parent Topic:**[Install Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

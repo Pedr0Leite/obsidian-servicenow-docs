@@ -50,7 +50,7 @@ Steps
 
 </td></tr><tr><td id="d314241e120">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -146,7 +146,7 @@ Steps
     -   If only one security instance is onboarded in ServiceNow, the pipelines will be automatically associated with Checkmarx when the pipeline is run.
     -   If this is the first security tool instance you’re onboarding, the custom action codes for the orchestration tool that you’ve onboarded in ServiceNow will be available to copy.
         -   If you are using Azure DevOps or GitHub Actions orchestration tools, then you must add the custom action code in your pipeline always.
-        -   You can configure Checkmarx scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to [[devops-landing-page-new|DevOps Change Velocity]]. If you’re using Azure DevOps or GitHub Actions orchestration tools, then you must add the custom action code in your pipeline always. If you’re using Jenkins, and your pipeline already has a Checkmarx One security scan \(checkmarxASTScanner\) step, you don’t have to add the custom action code in your pipeline. For Checkmarx SAST, the custom action code must be added in your pipeline even if it has the security scan step \(checkmarxASTScanner\).
+        -   You can configure Checkmarx scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to DevOps Change Velocity. If you’re using Azure DevOps or GitHub Actions orchestration tools, then you must add the custom action code in your pipeline always. If you’re using Jenkins, and your pipeline already has a Checkmarx One security scan \(checkmarxASTScanner\) step, you don’t have to add the custom action code in your pipeline. For Checkmarx SAST, the custom action code must be added in your pipeline even if it has the security scan step \(checkmarxASTScanner\).
     -   If this is the not the first security tool instance you’re onboarding, the respective custom action codes for orchestration tools that you’ve selected in step 6 will be available to copy. If you’re using Jenkins, and your pipeline already has a Checkmarx One security scan \(checkmarxASTScanner\) step, you don’t have to add the custom action code in your pipeline.
     -   If you want to configure Checkmarx for the GitLab tool, you can either use the generic Docker container image to add the Checkmarx security step or perform the steps specified in the [Integrate security tools with GitLab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-security-tool-for-gitlab.md) topic.
     -   For Harness pipelines, you can configure Checkmarx scans only through the generic Docker Container Image. For more information, see [Implement custom actions for pipelines using a generic Docker container image](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/servicenow-custom-actions-for-gitlab.md)
@@ -166,7 +166,3 @@ Steps
 
 **Parent Topic:**[Checkmarx integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/checkmarx-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

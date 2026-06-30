@@ -32,7 +32,7 @@ Role required: sn\_hr\_core.admin
 
 4.  Navigate to the Choose input step.
 
-5.  In the **+New data source** drop-down, select **[[activity-lxp|Activity]]: Attachment**.
+5.  In the **+New data source** drop-down, select **Activity: Attachment**.
 
     Configure this data source for all required input templates \(Case new, Case work in progress, or Case resolved states\).
 
@@ -41,6 +41,3 @@ Role required: sn\_hr\_core.admin
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

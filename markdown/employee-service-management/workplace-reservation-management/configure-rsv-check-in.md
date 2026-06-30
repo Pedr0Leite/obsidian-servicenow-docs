@@ -16,13 +16,13 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 Configure automatic reservation check-in using the Occupancy state of a location or space. If a location is using occupancy data sensors, it checks for Occupancy state of each space in the Space Occupancy data table
 
-The [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] scheduled job **Check-in/out reminder** runs every half an hour \(30 minutes\) daily. It checks for the location state \(Occupied, Unoccupied, Invalid, currently not occupied, etc.\) in the Space Occupancy data table. It also checks if the reservation is checked in or checked out. For more information, see [Retrieving Space Occupancy Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/space-occupancy-data.md).
+The Workplace Reservation Management scheduled job **Check-in/out reminder** runs every half an hour \(30 minutes\) daily. It checks for the location state \(Occupied, Unoccupied, Invalid, currently not occupied, etc.\) in the Space Occupancy data table. It also checks if the reservation is checked in or checked out. For more information, see [Retrieving Space Occupancy Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/space-occupancy-data.md).
 
 **Note:** Reservation check-in and check-out is currently not supported for multi-location reservations \(combining two or more reservations into one reservation\). Check-in or check-out of reservations with multiple locations for the same date and time and with the same reservation owner is not allowed by the application. In case of group reservations, each space is assigned to a different employee, check-in for group reservations is also not allowed in bulk. You have to check-in a reservation one at a time.
 
 Role required: sn\_wsd\_rsv.admin
 
-If the space state is Occupied, it triggers an automatic check-in process and sends an updated push notification to [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] "Your reservation for &lt;location\_name&gt; has started. You are automatically checked in based on the presence detected at the space. No further action is required."
+If the space state is Occupied, it triggers an automatic check-in process and sends an updated push notification to Workplace Service Delivery for Mobile "Your reservation for &lt;location\_name&gt; has started. You are automatically checked in based on the presence detected at the space. No further action is required."
 
 Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module** and ensure that the following properties are configured:
 
@@ -39,7 +39,7 @@ In Reservation properties list \(**All** &gt; **Workplace Reservation Management
 
     -   The Workplace Reservation Management application waits till 5.05 PM as per the value set in the property **Amount of time in minutes until a reminder should be sent out to the reservation host \(sn\_wsd\_rsv.time\_before\_check\_in\_out\_reminder\)** to check whether the reservation is checked in or not.
     -   After 5.05 PM, the scheduled job **Check-in/out reminder** checks the Space Occupancy data table to check if the reserved space \(for example, A1001\) is available in the Space Occupancy data table.
-    -   In the [[workplace-connectors-landing-page|Workplace Connectors]], the system property **sn\_wsd\_wc.stale\_time** checks if the **Event Timestamp** field in the Space Occupancy data table has the latest timestamp. This property checks for the time beyond which the occupancy data is considered stale. Beyond the stale time, the fresh data is fetched from the Occupancy data provider \(for example, Metrikus Spoke\). If the **sn\_wsd\_wc\_stale\_time** property value is set to 30 minutes, application queries the Space Occupancy table and fetches the fresh data state for a location or space from Metrikus Spoke.
+    -   In the Workplace Connectors, the system property **sn\_wsd\_wc.stale\_time** checks if the **Event Timestamp** field in the Space Occupancy data table has the latest timestamp. This property checks for the time beyond which the occupancy data is considered stale. Beyond the stale time, the fresh data is fetched from the Occupancy data provider \(for example, Metrikus Spoke\). If the **sn\_wsd\_wc\_stale\_time** property value is set to 30 minutes, application queries the Space Occupancy table and fetches the fresh data state for a location or space from Metrikus Spoke.
 
         If the state is **Occupied**, then, application automatically checks in the reservation. The reservation state moves to **In progress** state. A push notification is sent to Workplace Service Delivery for Mobile "Your reservation has started. You are automatically checked in based on the presence detected at the space. No further action is required."
 
@@ -92,8 +92,3 @@ In Reservation properties list \(**All** &gt; **Workplace Reservation Management
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]

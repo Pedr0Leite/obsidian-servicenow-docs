@@ -40,11 +40,8 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_admin
     -   View a list of signatories and their details by accessing the **Signatories** tab.
     -   View the final contract document by accessing the **Contract Repository** tab. When multiple contract documents are attached in non-self-served contract request, a separate record is created for each contract type.
     -   View the access levels to documents for various personas by accessing the **Document Access** tab.
-4.  Track the request's activities and post messages for the fulfiller working on it by accessing the **[[activity-lxp|Activity]]** tab.
+4.  Track the request's activities and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

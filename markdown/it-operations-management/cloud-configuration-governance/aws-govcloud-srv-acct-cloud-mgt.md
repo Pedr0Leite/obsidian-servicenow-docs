@@ -14,7 +14,7 @@ breadcrumb: [Create AWS GovCloud credentials for Cloud Provisioning and Governan
 
 # Create a service account for AWS GovCloud
 
-If your organization uses AWS GovCloud \(US\) region, you must [[create-service-account|create a service account]] in the region where you provision the resources. These credentials that you create are used for Cloud [[r-discovery|Discovery]], [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], and Cloud Cost Management.
+If your organization uses AWS GovCloud \(US\) region, you must create a service account in the region where you provision the resources. These credentials that you create are used for Cloud Discovery, Cloud Provisioning and Governance, and Cloud Cost Management.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ A service account holds the credential and account information that you created 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Service Accounts**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal** &gt; **Service Accounts**.
 
 2.  Click **New**, enter a unique and descriptive name for the account \(for example, `AWS GovCloud SA O1`\) and then fill in the Cloud Service Account form.
 
@@ -51,9 +51,3 @@ A service account holds the credential and account information that you created 
 
 Repeat the process to create additional service accounts as needed. Run Discovery for each datacenter.
 
-## Related
-
-- [[create-service-account|Create a service account]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

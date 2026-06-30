@@ -24,14 +24,14 @@ Make sure that you have installed and configured the following applications:
 
 -   Now Assist in Virtual Agent.
 
-    Confirm that the enhanced chat is configured for the [[employee-center-landing-page|Employee Center]] portal by virtual\_agent\_admin. Select Employee Center from the Portals tab and select the enhanced chat. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
+    Confirm that the enhanced chat is configured for the Employee Center portal by virtual\_agent\_admin. Select Employee Center from the Portals tab and select the enhanced chat. For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
 
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Reservation Management
+-   Workplace Concierge
+-   Workplace Indoor Mapping
+-   Workplace Core
 
-**Note:** Adding [[workplace-services|workplace services]] to a reservation, creating group reservations, multi-building reservations, or recurring reservations are currently not supported by the Workplace Collaboration Agent. Collobration agent supports Desks reservations.
+**Note:** Adding workplace services to a reservation, creating group reservations, multi-building reservations, or recurring reservations are currently not supported by the Workplace Collaboration Agent. Collobration agent supports Desks reservations.
 
 Employees can invoke the collaboration agent by initiating a chat with the Now Assist in Virtual Agent from the Employee Service Center portal.
 
@@ -89,9 +89,9 @@ Role required: admin
 
     The Collaboration agent also shares insights on the team members available on a particular day. For example, "Who will be in office on Friday? You can also get insights on a team member if they are visiting office "Is Daniel coming to office today?". The agent also makes a reservation for you for a specified day near a team member. "
 
-    \[Omitted image "now-assist-collab-agentic-studio-[[activity-lxp|activity]]-one.png"\] Alt text: Collaboration Agent fetiching information about team members who are present in office. Agentic Studio showing decision logs for collaboration agent.
+    \[Omitted image "now-assist-collab-agentic-studio-activity-one.png"\] Alt text: Collaboration Agent fetiching information about team members who are present in office. Agentic Studio showing decision logs for collaboration agent.
 
-6.  [[reservation-portal|Make a reservation]] for a specified day near a team member.
+6.  Make a reservation for a specified day near a team member.
 
     \[Omitted image "now-assist-collab-agent-reservation-one-hour.png"\] Alt text: Collaboration agent showing best available space for reservation near a colleague.
 
@@ -163,13 +163,3 @@ I have reserved this space for you.
 
 **Parent Topic:**[Using the workplace collaboration Agent for space suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/suggest-space-agent.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]
-- [[activity-lxp|Activity]]
-- [[reservation-portal|Make a reservation]]

@@ -12,7 +12,7 @@ breadcrumb: [Facilities Service Management overview, Facilities Service Manageme
 
 # Domain separation and Facilities Service Management
 
-Domain separation is supported in [[FacilitiesLandingPage|Facilities Service Management]]. Domain separation allows you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Facilities Service Management. Domain separation allows you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -26,14 +26,10 @@ Sample use case: When a service provider \(SP\) uses chat to respond to a tenant
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[[c_FacilitiesServiceManagement|Facilities Service Management overview]]
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

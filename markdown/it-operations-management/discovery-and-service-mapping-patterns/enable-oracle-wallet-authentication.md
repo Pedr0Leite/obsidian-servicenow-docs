@@ -16,15 +16,15 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Enable Oracle Wallet authentication for discovery
 
-Enable Oracle Wallet authentication to use credentials stored on the target server during [[c_OracleDatabaseDiscovery|Oracle database discovery]] on UNIX systems.
+Enable Oracle Wallet authentication to use credentials stored on the target server during Oracle database discovery on UNIX systems.
 
 ## Before you begin
 
--   Verify that the configured [[r-discovery|Discovery]] user can connect via SSH to the host.
+-   Verify that the configured Discovery user can connect via SSH to the host.
 -   Configure Oracle Wallet on the target server for the Discovery user. For more information, see [Using Oracle Wallet authentication for Oracle Discovery on Unix/Linux \[KB3059862\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB3059862).
 -   Verify that the following applications are up to date:
     -   Visibility Content starting with version 6.32.0
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns starting with version 1.31.0
+    -   Discovery and Service Mapping Patterns starting with version 1.31.0
     -   For Oracle GLAS discovery: Data Collection for Oracle Global Licensing and Advisory Services starting with version 1.12.0
 
 Role required: discovery\_admin
@@ -67,8 +67,3 @@ To apply the changes, run discovery.
 
 [Oracle GLAS data collection using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 
-## Related
-
-- [[c_OracleDatabaseDiscovery|Oracle database discovery]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

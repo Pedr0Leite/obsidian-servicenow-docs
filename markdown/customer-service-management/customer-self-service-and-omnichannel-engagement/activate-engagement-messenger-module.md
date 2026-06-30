@@ -43,13 +43,10 @@ Unless you activate a messenger module, it would not be available for your custo
 
 4.  Select **Activate**.
 
-    \[Omitted image "em-activate-module-v2.png"\] Alt text: [[create-engagement-messenger-module|Configure Engagement Messenger]] Module page highlighting Implement steps and Activate button.
+    \[Omitted image "em-activate-module-v2.png"\] Alt text: Configure Engagement Messenger Module page highlighting Implement steps and Activate button.
 
 
 ## What to do next
 
 [Embed Engagement Messenger in your web application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-engagement-messenger-code-in-your-web-application.md).
 
-## Related
-
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

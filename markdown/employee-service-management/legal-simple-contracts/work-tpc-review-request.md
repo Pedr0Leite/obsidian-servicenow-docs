@@ -28,7 +28,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -105,7 +105,7 @@ The Create Revision dialog box displays.
 
 2.  In the **Create revision from** list, select the location of the document.
     -   **Computer**: Select a file from your local system. Click **Attach File** and upload a file.
-    -   **[[activity-lxp|Activity]]**: Select an attachment from the Activities stream. All files that are attached in the inbound emails are listed in the **Document** field.
+    -   **Activity**: Select an attachment from the Activities stream. All files that are attached in the inbound emails are listed in the **Document** field.
     -   **Online**: Select a file stored in the [configured external storage system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/integrate-legal-ext-storage.md).
 3.  Add more information about the document in the **Work notes** field. This information is added to the Activities stream along with the attachment.
 4.  To make the document ready for review or sending for e-signature, select **Ready**.
@@ -167,7 +167,3 @@ The Create Revision dialog box displays.
 
 **Parent Topic:**[Third-party contract review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-third-party-contract.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

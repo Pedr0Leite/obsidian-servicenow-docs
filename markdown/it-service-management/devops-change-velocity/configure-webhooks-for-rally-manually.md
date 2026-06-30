@@ -14,7 +14,7 @@ breadcrumb: [Rally, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Configure webhooks for Rally manually
 
-Configure webhooks for Rally to send sync notifications to the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Configure webhooks for Rally to send sync notifications to the DevOps Change Velocity application.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ To send inbound events to a ServiceNow instance for Rally, you must use the foll
 
 **Parent Topic:**[Rally integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/rally-devops-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

@@ -19,11 +19,11 @@ The Demand Insights for HR cases dashboard enables you as an HR agent to identif
 -   **[Auto-case creation from an email]()**  
 Automatically categorize HR cases submitted by email. Auto-case creation allows for a faster response time and better case resolution for employees.
 -   **[Auto determination of HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/predict-hr-service.md)**  
-Auto determine the HR service for a case. Enable an HR agent to transfer the case to the appropriate HR service rather than having to spend significant time manually triaging cases to appropriate [[hr-service-administration|HR services]].
+Auto determine the HR service for a case. Enable an HR agent to transfer the case to the appropriate HR service rather than having to spend significant time manually triaging cases to appropriate HR services.
 -   **[Auto determination of assignment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/predict-assignment-group.md)**  
 Auto determine the assignment group for a case. Enable an HR agent to transfer the case to correct assignment group rather than having to spend significant time manually identifying groups for HR cases.
 -   **[Discovering knowledge articles and catalog items for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/user-profile-based-recommendations.md)**  
-[[discover-lxp|Discover]] all the users who have a similar profile as the employee who has logged in to Employee Service Center. Identify the top viewed knowledge articles and top submitted catalog items by those users. Display the top three knowledge articles and top three catalog items to the employee.
+Discover all the users who have a similar profile as the employee who has logged in to Employee Service Center. Identify the top viewed knowledge articles and top submitted catalog items by those users. Display the top three knowledge articles and top three catalog items to the employee.
 -   **[Discovering similar knowledge articles for HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/train-model-articles-hr.md)**  
 Discover similar information across knowledge articles based on the short description of the HR case and the text in the related search results. Display such similar knowledge articles to an HR agent to resolve a case.
 -   **[Discovering similar closed cases for HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/train-model-closed-caseshr.md)**  
@@ -33,7 +33,3 @@ Display knowledge articles that help in completing HR and Content tasks in the E
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[discover-lxp|Discover]]

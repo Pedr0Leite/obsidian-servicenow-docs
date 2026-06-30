@@ -25,11 +25,11 @@ Role required: clone\_admin
 
 Data preservers retain system settings and themes, such as instance-specific authentication settings from the source instance. Don't use data preservers to transfer large sets of data, such as user groups. If you must preserve table data such as users, groups, and roles, consider exporting the records to a file and importing it after the clone is complete.
 
-For information on how data preservers interact with exclusions see [[clone-exclusions-preservers-cleanupscripts|Clarifying exclusions and preservers combinations]].
+For information on how data preservers interact with exclusions see [Clarifying exclusions and preservers combinations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-exclusions-preservers-cleanupscripts.md).
 
 ## Procedure
 
-1.  On the source instance, navigate to **[[system-clone-landing|Instance Clone]]** &gt; **Preserve Data**.
+1.  On the source instance, navigate to **Instance Clone** &gt; **Preserve Data**.
 
 2.  Select **New**.
 
@@ -45,7 +45,7 @@ For information on how data preservers interact with exclusions see [[clone-excl
 
 6.  Define the data to be preserved using the [Condition Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
 
-    Use conditions to define records to preserve during a clone. For example, to preserve specific [[r_SetArchiveRuleProcessingBehavior|system properties]], add conditions for each property name to preserve.
+    Use conditions to define records to preserve during a clone. For example, to preserve specific system properties, add conditions for each property name to preserve.
 
     **Note:** The condition to match regular expressions \[match regex\] isn't supported.
 
@@ -55,11 +55,5 @@ For information on how data preservers interact with exclusions see [[clone-excl
 
     -   Core Instance Properties
     -   Semaphores
-    -   [[c_EmailAccounts|Email Accounts]]
+    -   Email Accounts
 
-## Related
-
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[system-clone-landing|Instance Clone]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_EmailAccounts|Email accounts]]

@@ -14,15 +14,15 @@ breadcrumb: [Service Catalog Reference, Service Catalog, Manage service capabili
 
 # Service Catalog terms and roles
 
-The [[service-catalog|Service Catalog]] application uses these roles to manage different aspects of the application.
+The Service Catalog application uses these roles to manage different aspects of the application.
 
 ## Service Catalog terms
 
--   **[[c_ExecutionPlans|Execution Plans]]**
+-   **Execution Plans**
 
     Define how something gets delivered. For example, a PDA could go through procurement / activation / and installation of the desktop software.
 
--   **[[c_ExecutionPlanTasks|Execution Plan Tasks]]**
+-   **Execution Plan Tasks**
 
     Plan Tasks represent a step in the Execution Plan, are associated with a Fulfillment Group, and have an approximate duration.
 
@@ -119,7 +119,7 @@ None.
 
 ## Catalog builder developer \[catalog\_builder\_developer\]
 
-Can create and maintain advanced catalog items in [[catalog-builder|Catalog Builder]] such that they can create, edit, or delete client scripts in Catalog Builder.
+Can create and maintain advanced catalog items in Catalog Builder such that they can create, edit, or delete client scripts in Catalog Builder.
 
 ### Contains Roles
 
@@ -137,7 +137,7 @@ None.
 
 The catalog builder developer can do everything that a catalog builder editor can do. But additionally, the catalog builder developer has access to other advanced features, such that a person with this role can add or edit the following in Catalog Builder:
 
--   Dynamic and advanced [[reference|reference]] qualifiers in the Additional details tab of a question
+-   Dynamic and advanced reference qualifiers in the Additional details tab of a question
 -   Variable attributes
 -   Scriptable default values
 -   Availability sections
@@ -165,10 +165,3 @@ None.
 
 None.
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ExecutionPlans|Execution Plans]]
-- [[c_ExecutionPlanTasks|Execution plan tasks]]
-- [[catalog-builder|Catalog Builder]]
-- [[reference|Reference]]

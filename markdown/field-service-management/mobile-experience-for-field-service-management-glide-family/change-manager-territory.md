@@ -14,7 +14,7 @@ breadcrumb: [Setting up Field Service Mobile Agent, Configure, Field Service Man
 
 # Change Field Service Manager Mobile to use assignment groups or territories
 
-Administrators can change [[manager-mobile-app|Field Service Manager Mobile]] to show territories instead of assignment groups.
+Administrators can change Field Service Manager Mobile to show territories instead of assignment groups.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ By default Field Service Manager Mobile uses assignment groups.
 
 [Activate Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/Activate-fsm-territory-planning.md)
 
-## Related
-
-- [[manager-mobile-app|Field Service Manager Mobile]]

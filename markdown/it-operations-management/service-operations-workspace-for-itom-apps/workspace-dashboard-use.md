@@ -15,9 +15,9 @@ breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, IT
 
 # Service Operations Workspace
 
-The Service Operations Workspace monitors services within your [[c_EM|Event Management]] environment, enabling you to review their status and identify those at risk of suboptimal performance. This empowers you to promptly address any issues.
+The Service Operations Workspace monitors services within your Event Management environment, enabling you to review their status and identify those at risk of suboptimal performance. This empowers you to promptly address any issues.
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 You can configure the Service Operations Workspace to remain logged in for up to 24 hours. For more information, see [Manage user sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManageUserSessions.md).
 
@@ -28,7 +28,7 @@ Create and customize a user view in the Service Operations Workspace to enable v
 -   **[Delete a user view in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/delete-user-view-sow.md)**  
 Delete a Service Operations Workspace user view you no longer need. You perform this action from the Event Management menu, outside of Service Operations Workspace.
 -   **[View application service details in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/worksplace-view-service-details.md)**  
-View comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based [[r-discovery|discovery]] details, [[c_DiscoveryStatus|discovery status]], and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and facilitates effective prioritization of resources and actions.
+View comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based discovery details, discovery status, and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and facilitates effective prioritization of resources and actions.
 -   **[View primary alerts associated with a service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-primary-alerts-from-service-sow.md)**  
 View the primary alerts associated with a service to help troubleshoot issues with the service.
 -   **[Create a list in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/create-list-sow-itom.md)**  
@@ -46,16 +46,9 @@ Choose live updates for alert lists to receive real-time updates, or disable liv
 -   **[Configure alert metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-alert-metrics-itom.md)**  
 Configure the metrics you want to be visible for Service Operations Workspace alerts or use the metrics configured with the base system to focus on relevant data for faster troubleshooting.
 -   **[View CI health in Metric Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-metric-explorer.md)**  
-View the health and performance of an alert's CI using [[agent-workspace-ops-intelligence|Metric Explorer]], to help troubleshoot problematic areas in the CI.
+View the health and performance of an alert's CI using Metric Explorer, to help troubleshoot problematic areas in the CI.
 -   **[View alert metric trends in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/customize-alert-metrics-itom.md)**  
 View the metrics for an alert and adjust the time range to see the trends for either the alert or its associated Configuration Item \(CI\), enabling more accurate analysis and timely decision-making.
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-sow-itom.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[agent-workspace-ops-intelligence|Metric Explorer]]

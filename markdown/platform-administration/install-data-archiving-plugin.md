@@ -28,7 +28,7 @@ Role required: admin
 
 Consider the following aspects of Live Archive migration before starting the installation:
 
--   Archive rule processing is paused during the migration, so plan installations around any time-sensitive archiving [[c_UseSchedules|schedules]].
+-   Archive rule processing is paused during the migration, so plan installations around any time-sensitive archiving schedules.
 -   Existing archived data is converted to columnar storage format.
 -   Converted data is moved to the object storage as the migration progresses.
 -   Archive rule processing resumes after the migration completes.
@@ -37,7 +37,7 @@ Migration duration depends on the volume of data in the archive tables. Large ar
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[application-manager|Application Manager]]**.
+1.  Navigate to **All** &gt; **Application Manager**.
 
 2.  Search for live archive and select **Live Archive**.
 
@@ -53,7 +53,7 @@ Migration duration depends on the volume of data in the archive tables. Large ar
 
     2.  In the **Search your licensed applications and plugins** field, enter `Live Archive` and press **Enter**.
 
-    3.  Verify whether Live Archive appears in the [[hs-results|results]].
+    3.  Verify whether Live Archive appears in the results.
 
 6.  Verify that S3 facade endpoints have been created in each datacenter in the instance's datacenter pair.
 
@@ -63,17 +63,10 @@ Migration duration depends on the volume of data in the archive tables. Large ar
 
     3.  Confirm that the two endpoints are listed, each with **Active** status set to **true**.
 
-7.  Verify whether a new **Object Storage** tile is available by navigating to **System [[c_DataManagement|Data Management]]** &gt; **Data Management Console** and checking the summary section.
+7.  Verify whether a new **Object Storage** tile is available by navigating to **System Data Management** &gt; **Data Management Console** and checking the summary section.
 
     It might take up to 24 hours for data to appear in the tile.
 
 
-**Parent Topic:**[[configuring-data-management|Configuring Data Management]]
+**Parent Topic:**[Configuring Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-data-management.md)
 
-## Related
-
-- [[configuring-data-management|Configuring Data Management]]
-- [[c_UseSchedules|Schedules]]
-- [[application-manager|Application Manager]]
-- [[hs-results|Results]]
-- [[c_DataManagement|Data Management]]

@@ -14,14 +14,14 @@ breadcrumb: [Discovery setup, Configuring Discovery, Discovery, ITOM Visibility,
 
 # Migrate from CAPI to Patterns
 
-Migrate from [[cloud-management-api|Cloud API \(CAPI\)]]-based Cloud [[r-discovery|Discovery]] to Patterns-based Cloud Discovery. The task requires supported instance and few plugins. Migration works for Amazon Web Services \(AWS\) and Microsoft Azure. Administrator can perform this task after the initial instance is set up.
+Migrate from Cloud API \(CAPI\)-based Cloud Discovery to Patterns-based Cloud Discovery. The task requires supported instance and few plugins. Migration works for Amazon Web Services \(AWS\) and Microsoft Azure. Administrator can perform this task after the initial instance is set up.
 
 ## Before you begin
 
 Ensure that your ServiceNow AI Platform has the following:
 
 -   The release version is Paris or later.
--   The Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns \(sn\_itom\_pattern\) plugin.
+-   The Discovery and Service Mapping Patterns \(sn\_itom\_pattern\) plugin.
 
 Role required: discovery\_admin
 
@@ -49,8 +49,4 @@ The CAPI-based discovery method is going to be deprecated in the future.
 
     For any issues while migrating, see the troubleshooting steps documented in the [CAPI to Pattern Migration: Procedure for switching from CAPI-based Cloud Discovery to pattern-based Cloud Discovery \[KB0827153\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0827153) article in the Now Support Knowledge Base.
 
-## Related
 
-- [[cloud-management-api|Cloud API \(CAPI\)]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

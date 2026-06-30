@@ -43,8 +43,5 @@ Adoption Services is active by default with the plugins. Do not activate this fe
     -   Keyboard assistance for suggesting required fields through screen reader
     -   Keyboard assistance for focussed user interface controls like, tool tip icons and check-boxes
 
-**Parent Topic:**[[now-platform-ui-rn-landing|ServiceNow AI Platform user interface release notes]]
+**Parent Topic:**[ServiceNow AI Platform user interface release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-ui-rn-landing.md)
 
-## Related
-
-- [[now-platform-ui-rn-landing|ServiceNow AI Platform user interface release notes]]

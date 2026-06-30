@@ -12,7 +12,7 @@ breadcrumb: [Main node configurations: A component of the Data Relationship Fram
 
 # Nexus map configurations
 
-Beginning with [[grc-opres-landing-page|Operational Resilience]], version 21.1.x, the Nexus map configuration has been introduced. To display a main node in the Operational Resilience Workspace, you must configure the Nexus map. The Node Map configuration UI allows you to visualize related data hierarchically, track issues, and identify areas needing attention for effective resolution or health monitoring.
+Beginning with Operational Resilience, version 21.1.x, the Nexus map configuration has been introduced. To display a main node in the Operational Resilience Workspace, you must configure the Nexus map. The Node Map configuration UI allows you to visualize related data hierarchically, track issues, and identify areas needing attention for effective resolution or health monitoring.
 
 ## Limitations observed before using Nexus map configurations
 
@@ -25,7 +25,7 @@ List views alone are insufficient for effectively depicting complex relationship
 
 ## Benefits of Nexus map configurations
 
-The Node map configurations, which are part of [[data-relationship-framework|Data Relationships Framework]] by default, enable you to define relationships between records and visualize them on a node map. This visualization makes it easier to understand upstream and downstream relationships.
+The Node map configurations, which are part of Data Relationships Framework by default, enable you to define relationships between records and visualize them on a node map. This visualization makes it easier to understand upstream and downstream relationships.
 
 The Node map configuration feature offers the following benefits:
 
@@ -50,19 +50,12 @@ Access to records is determined by the read access control lists \(ACLs\) associ
 
 This functionality verifies that sensitive information is protected and you can only see data that you’re authorized to access.
 
-For details on Nexus map configurations, including Node and Edge configurations, refer to the "Nexus map configurations related list" in [[main-node-relationship-fw|Main node configurations: A component of the Data Relationships Framework]].
+For details on Nexus map configurations, including Node and Edge configurations, refer to the "Nexus map configurations related list" in [Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md).
 
--   **[[configuration-for-node-map|Node and edge configurations and property setting from the UI]]**  
+-   **[Node and edge configurations and property setting from the UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuration-for-node-map.md)**  
 To access the Node map configuration from the Operational Resilience Workspace, BCM administrators must set up the Main node configurations. Once the Main node configuration table is set up, it enables you to create configurations for entities such as services, business services, offerings, business processes, and application services. You can update the properties, node, and edge configuration details.
--   **[[main-node-configuration-source|Main node configuration source]]**  
+-   **[Main node configuration source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-configuration-source.md)**  
 You can set up the source for the Main node configurations.
 
 **Parent Topic:**[Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md)
 
-## Related
-
-- [[main-node-relationship-fw|main node relationship fw]]
-- [[configuration-for-node-map|Node and edge configurations and property setting from the UI]]
-- [[main-node-configuration-source|Main node configuration source]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[data-relationship-framework|Data Relationships Framework]]

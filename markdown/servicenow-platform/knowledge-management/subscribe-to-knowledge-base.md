@@ -14,11 +14,11 @@ breadcrumb: [Use knowledge subscriptions, Using Knowledge Management, Knowledge 
 
 # Subscribe to a knowledge base
 
-Subscribe to a knowledge base and [[c_ReceiveNotifications|receive notifications]] when articles are added to that knowledge base.
+Subscribe to a knowledge base and receive notifications when articles are added to that knowledge base.
 
 ## Before you begin
 
-You must activate the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) plugin. For more information, see [Configure knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-subscription-properties.md).
+You must activate the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin. For more information, see [Configure knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-subscription-properties.md).
 
 Role required: knowledge
 
@@ -45,7 +45,3 @@ Receive notifications when articles are added to the subscribed knowledge base.
 
 **Parent Topic:**[Use knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-knowledge-subscriptions.md)
 
-## Related
-
-- [[c_ReceiveNotifications|Receive notifications]]
-- [[knowledge-management|Knowledge Management]]

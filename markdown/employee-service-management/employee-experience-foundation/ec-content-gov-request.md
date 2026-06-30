@@ -14,7 +14,7 @@ breadcrumb: [Managing content requests, Authoring and managing employee communic
 
 # Requesting content
 
-Content Governance provides multiple ways for employees to request content to be created for [[eslate-employee-comms|employee communications]] and for your company's content team to clarify the request and assign the request to team members.
+Content Governance provides multiple ways for employees to request content to be created for employee communications and for your company's content team to clarify the request and assign the request to team members.
 
 Once a content request has been created, Content Governance provides the ability to track the request, review the content created from the request, approve it, and publish it.
 
@@ -22,7 +22,7 @@ There are several ways for your employees to request content to be created:
 
 -   **[Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md)**
 
-    Employees can use the Content Request catalog item from the [[employee-center-pro-landing|Employee Center Pro]]. Your company decides where on the Employee Center Pro it appears. Any employee that has access to Employee Center Pro can request content.
+    Employees can use the Content Request catalog item from the Employee Center Pro. Your company decides where on the Employee Center Pro it appears. Any employee that has access to Employee Center Pro can request content.
 
 -   **[Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md)**
 
@@ -45,7 +45,7 @@ You can use unified taxonomy to link the request content to a topic so the reque
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Select **Content Request**.
 
@@ -747,8 +747,4 @@ You can choose to make this information visible to the requester by checking the
 
         Select the **Delete** button to remove the content request item.
 
-## Related
 
-- [[eslate-employee-comms|Employee communications]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-landing-page|Employee Center]]

@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist in Virtual Agent, Now Assist in Virtual Agent, Con
 
 # Enhanced chat
 
-[[now-assist-in-va-landing|Now Assist in Virtual Agent]] enhanced chat is a conversational support experience within a dynamic window that also includes the ability to have multiple active conversations and superior search capabilities. Turning on enhanced chat's full-page experience further combines chat and search capabilities by redirecting you into a full-page chat after entering a query into a portal's search bar.
+Now Assist in Virtual Agent enhanced chat is a conversational support experience within a dynamic window that also includes the ability to have multiple active conversations and superior search capabilities. Turning on enhanced chat's full-page experience further combines chat and search capabilities by redirecting you into a full-page chat after entering a query into a portal's search bar.
 
 \[Omitted video\] Description: An overview of enhanced chat's window and full-page experience.
 
@@ -25,7 +25,7 @@ Now Assist in Virtual Agent enhances the user experience by combining AI Search 
 
 Now Assist in Virtual Agent provides your users with an interactive generative AI experience. A friendly, natural language conversation is easier to understand and helps users to be more comfortable with chatting to a bot.
 
-The following sections highlight how a conversation powered by generative AI might look in [[virtual-agent-landing-page|Virtual Agent]].
+The following sections highlight how a conversation powered by generative AI might look in Virtual Agent.
 
 **Note:** This content's primary focus is on enhanced chat's default chat window rather than on the optional full-page experience. The conversational fluidity and citation behavior between the enhanced chat and enhanced chat's full-page experience remains the same regardless of which chat experience you use. The conversations that you have either through the enhanced chat's window or full-page experience remain in synchronization, and the conversational history is retained in both mediums. For more information about the full-page experience, see that relevant section in [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
@@ -97,7 +97,7 @@ All chats appear.
 
 **Note:** If **sn\_nowassist\_va.nass\_notification\_enabled** is set to `false`, the Updates section doesn't appear.
 
--   Closed: Closed chats can be configured to display. You know that a message has closed when the designated time has passed \(2 hours of inactivity\) or you receive the following response in the chat: `It looks like you're finished with this chat, so I'll go ahead and close it.` Turn on closed chats by selecting the **Show closed chats** check box within **[[convint-landing-page|Conversational Interfaces]]** &gt; **Assistants** &gt; **\[Selected Assistant Name\]** &gt; **Chat experience** &gt; **Closed chats**. After being turned on, closed chats are displayed for as long as they’re available within the Conversations \(sys\_cs\_conversation\) table. Closed chats appear in a read-only mode and can’t become active again. If more than four closed chats are available, a **Show more** link appears to view more closed chats. Selecting **Show more** displays an additional 10 closed chats. After a conversation has closed, you can’t reopen it.Hovering over a closed chat displays the delete icon \(\[Omitted image "delete-agent.png"\] Alt text: Delete icon\). Confirm the chat deletion on the Delete this chat? modal to permanently delete the chat from the interface.
+-   Closed: Closed chats can be configured to display. You know that a message has closed when the designated time has passed \(2 hours of inactivity\) or you receive the following response in the chat: `It looks like you're finished with this chat, so I'll go ahead and close it.` Turn on closed chats by selecting the **Show closed chats** check box within **Conversational Interfaces** &gt; **Assistants** &gt; **\[Selected Assistant Name\]** &gt; **Chat experience** &gt; **Closed chats**. After being turned on, closed chats are displayed for as long as they’re available within the Conversations \(sys\_cs\_conversation\) table. Closed chats appear in a read-only mode and can’t become active again. If more than four closed chats are available, a **Show more** link appears to view more closed chats. Selecting **Show more** displays an additional 10 closed chats. After a conversation has closed, you can’t reopen it.Hovering over a closed chat displays the delete icon \(\[Omitted image "delete-agent.png"\] Alt text: Delete icon\). Confirm the chat deletion on the Delete this chat? modal to permanently delete the chat from the interface.
 
 </td></tr><tr><td>
 
@@ -310,9 +310,9 @@ The following example is of a conversation showing 3 out of 11 incidents and the
 
 ## Chatting with a live agent in Virtual Agent
 
-You can chat with a live agent if you need more support. Select the **Contact Live Agent** button found in the Support and settings \(\[Omitted image "ellipsis-vertical-outline-24.svg"\] Alt text: Support and settings icon.\) option, enter a request such as `Chat with live agent` into the chat, or select the **Request a live agent** fallback option. After an agent has accepted your chat, the agent's name and avatar appears at the top of the chat in a banner. Only one live [[ci-use-agent-chat|agent chat]] at a time is permitted. To exit the live chat, select **End live chat**. The chat history then moves to the Closed chat section.
+You can chat with a live agent if you need more support. Select the **Contact Live Agent** button found in the Support and settings \(\[Omitted image "ellipsis-vertical-outline-24.svg"\] Alt text: Support and settings icon.\) option, enter a request such as `Chat with live agent` into the chat, or select the **Request a live agent** fallback option. After an agent has accepted your chat, the agent's name and avatar appears at the top of the chat in a banner. Only one live agent chat at a time is permitted. To exit the live chat, select **End live chat**. The chat history then moves to the Closed chat section.
 
-**Note:** When enhanced chat is turned on, post-[[ci-conversational-chat-surveys|chat surveys]] only appear after a live agent conversation has ended.
+**Note:** When enhanced chat is turned on, post-chat surveys only appear after a live agent conversation has ended.
 
 \[Omitted image "dw-end-live-chat-yp6.png"\] Alt text: End live chat button appears in a banner at the top of the chat.
 
@@ -323,7 +323,7 @@ You can chat with a live agent if you need more support. Select the **Contact Li
 A fallback state can occur whenever search results are unavailable. Scenarios where search results are unavailable include the Virtual Agent didn't understand the query, complaint small talk was found, or an error occurred. When search results are unavailable, a single or multiple fallback options may appear. These fallback options include:
 
 -   **Request a live chat**: Triggers live agent mode and routes you to a human support representative.
--   **Search the web**: Triggers [[web-search-requestor|web search]] mode and uses the internet to search for the results.
+-   **Search the web**: Triggers web search mode and uses the internet to search for the results.
 
     **Note:** Only the last query entered into the conversation is considered when entering web search mode via this **Search the web** fallback option.
 
@@ -334,11 +334,3 @@ Select a fallback option to launch that mode or action.
 
 \[Omitted image "dw-web-search-fallback-example.png"\] Alt text: Search the web and Create a generic ticket buttons are fallback options for end users.
 
-## Related
-
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[ci-conversational-chat-surveys|Chat surveys]]
-- [[web-search-requestor|Web search]]

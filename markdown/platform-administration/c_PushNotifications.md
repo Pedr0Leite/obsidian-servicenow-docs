@@ -12,7 +12,7 @@ breadcrumb: [System notifications, Notifications, Configure core features, Admin
 
 # Push notifications
 
-In addition to sending [[c_EmailNotifications|email and SMS notifications]], an instance can send push notifications to mobile devices.
+In addition to sending email and SMS notifications, an instance can send push notifications to mobile devices.
 
 A push notification is a text message that appears on a user's mobile device to alert them about something important or to ask them to perform an action. Your instance supports push notifications.
 
@@ -30,41 +30,28 @@ The ServiceNow mobile app is available as ServiceNow Classic and as Mobile Agent
 
 ## Push notification setup
 
-Push notification setup differs depending on the mobile or push application that you want your users to use. For an overview, see: [[r_PushNotificationSetupCustom|Push notification setup with a custom push application for ServiceNow mobile apps]]. If you create your own application, you must understand how push notifications and the Apple Push Notification Service system work. For more information, see the APNs Overview in the[Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#/apple_ref/doc/uid/TP40008194-CH8-SW1) for Apple developers.
+Push notification setup differs depending on the mobile or push application that you want your users to use. For an overview, see: [Push notification setup with a custom push application for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationSetupCustom.md). If you create your own application, you must understand how push notifications and the Apple Push Notification Service system work. For more information, see the APNs Overview in the[Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#/apple_ref/doc/uid/TP40008194-CH8-SW1) for Apple developers.
 
 **Important:** Apple does not guarantee delivery of all push notifications. Review the Quality of Service \(QoS\) information in the [Local and Remote Notification Programming Guide](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html#/apple_ref/doc/uid/TP40008194-CH8-SW1) for Apple developers.
 
--   **[[r_PushMessageArchitecture|Push notification system]]**  
+-   **[Push notification system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushMessageArchitecture.md)**  
 The push notification system involves several key elements that manage the delivery of push messages and push notification responses.
--   **[[t_ActivatePushNotifications|Activate push notifications]]**  
+-   **[Activate push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivatePushNotifications.md)**  
 Several plugins must be activated to use push notifications. If you have the Mobile UI \(com.glide.ui.m\) plugin active, push notification plugins are automatically activated.
--   **[[enable-notifications-logged-out-users|Enable push notifications for logged-out users]]**  
+-   **[Enable push notifications for logged-out users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enable-notifications-logged-out-users.md)**  
 Enable push notifications for users when they're logged out to deliver timely critical updates.
--   **[[r_InstalledWithPushNotifications|Installed with push notifications]]**  
+-   **[Installed with push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_InstalledWithPushNotifications.md)**  
 Several types of components are installed with the push notifications plugins.
--   **[[r_PushNotificationProperties|Push notification properties]]**  
+-   **[Push notification properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationProperties.md)**  
 Push notifications provides several properties to customize the setup.
--   **[[r_PushNotificationSetupSN|Push notification setup with the ServiceNow mobile app]]**  
+-   **[Push notification setup with the ServiceNow mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationSetupSN.md)**  
 The ServiceNow mobile application automatically enables push notifications and configures mobile devices for push notifications when users initially log in to the instance.
 -   **[Push notification setup with a custom push application for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_PushNotificationSetupCustom.md)**  
 If you are using your own custom mobile or push application, you must configure your app for use and set up the push contents.
--   **[[t_HandlingFailedPushMessages|Requeue failed push notification messages]]**  
+-   **[Requeue failed push notification messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_HandlingFailedPushMessages.md)**  
 Push notification delivery might fail for various reasons. You can view which messages failed and requeue them to be sent out if necessary.
--   **[[push-notification-retention|Push notification retention]]**  
+-   **[Push notification retention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/push-notification-retention.md)**  
 You can archive and eventually destroy push notifications that you no longer need or if your Push Notification table is excessively large.
 
-**Parent Topic:**[[system-notifications-landing|System notifications]]
+**Parent Topic:**[System notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-notifications-landing.md)
 
-## Related
-
-- [[r_PushNotificationSetupCustom|Push notification setup with a custom push application for ServiceNow mobile apps]]
-- [[r_PushMessageArchitecture|Push notification system]]
-- [[t_ActivatePushNotifications|Activate push notifications]]
-- [[enable-notifications-logged-out-users|Enable push notifications for logged-out users]]
-- [[r_InstalledWithPushNotifications|Installed with push notifications]]
-- [[r_PushNotificationProperties|Push notification properties]]
-- [[r_PushNotificationSetupSN|Push notification setup with the ServiceNow mobile app]]
-- [[t_HandlingFailedPushMessages|Requeue failed push notification messages]]
-- [[push-notification-retention|Push notification retention]]
-- [[system-notifications-landing|System notifications]]
-- [[c_EmailNotifications|Email and SMS notifications]]

@@ -14,7 +14,7 @@ breadcrumb: [High-level planning configuration in Strategic Planning, Configure,
 
 # Create portfolio plan configuration for high-level planning
 
-To enable high-level planning on a table that is not a planning item in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, create portfolio plan configuration for the table.
+To enable high-level planning on a table that is not a planning item in Strategic Planning Workspace, create portfolio plan configuration for the table.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-After creating a global rank column and a rank configuration for that column, [[create-portfolio-plan-in-portfolio-planning-workspace|create a portfolio plan]] configuration for the table that you chose for high-level planning. Following this task, configure the Proritization and Rodmap page settings for a portfolio plan that your planning managers would create for this table.
+After creating a global rank column and a rank configuration for that column, create a portfolio plan configuration for the table that you chose for high-level planning. Following this task, configure the Proritization and Rodmap page settings for a portfolio plan that your planning managers would create for this table.
 
 In this task, consider the example of Strategic Priority \[sn\_gf\_strategy\] table.
 
@@ -81,7 +81,3 @@ Table that is used to create the portfolio plan.The value for this field is the 
 
 Populate global rank value for all existing records of your high-level planning table.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]]

@@ -14,15 +14,10 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 # Working with Internal Intelligence Records
 
-Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into [[tisc-landing-page|Threat Intelligence Security Center]].
+Use this feature to work with the internal intelligence data that is collected from Configuration Database Management System \(CMDB\) into Threat Intelligence Security Center.
 
 -   **[View Internal Intelligence Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-internal-intelligence-records.md)**  
-View the internal intelligence records collected from CMDB, [[sir-landing-page|Security Incident Response]] \(SIR\), [[vuln-landing-page|Vulnerability Response]] \(VR\) these records.
+View the internal intelligence records collected from CMDB, Security Incident Response \(SIR\), Vulnerability Response \(VR\) these records.
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vuln-landing-page|Vulnerability Response]]

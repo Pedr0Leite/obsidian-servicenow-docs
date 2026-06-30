@@ -14,15 +14,15 @@ breadcrumb: [Configure, Major Security Incident Management, Security Incident Re
 
 # Configure File Explorer Component
 
-The File Explorer workspace component organizes and tracks the collection of artifacts \(files\) related to a major security incident. It is designed to support integration with any third-party file hosting provider such as Microsoft SharePoint in the [[msim-workspace|Major Security Incident Management workspace]].
+The File Explorer workspace component organizes and tracks the collection of artifacts \(files\) related to a major security incident. It is designed to support integration with any third-party file hosting provider such as Microsoft SharePoint in the Major Security Incident Management workspace.
 
 -   File Explorer Component: Provides a graphical user interface to display the file system and allows the users to perform file operations.
 -   File Explorer Core: Provides an abstraction layer that allows the File Explorer component to display the file system and perform various file operations without knowing anything about the underlying connector that is used to communicate with external repositories.
 -   File Explorer Microsoft SharePoint Connector application: Provides the implementation modules required to track and fetch files/folder metadata from a Microsoft SharePoint document library and perform file operations.
 
-The File Explorer Core component provides a base [[threat-intelligence-infrastructure|infrastructure]] required for the different file sharing connector applications to define its connection properties.
+The File Explorer Core component provides a base infrastructure required for the different file sharing connector applications to define its connection properties.
 
-You must [[configure-cortex-xsiam-siem|install and configure]] the file repository drive and file repository provider by adding the connection properties to pull the files metadata from a file hosting provider [[location|location]].
+You must install and configure the file repository drive and file repository provider by adding the connection properties to pull the files metadata from a file hosting provider location.
 
 For this current version of the File Explorer, these instructions include configuring and subscribing to a retrieving file metadata such as Microsoft SharePoint file and folder updates, file operations, and logging file activity. A designated Microsoft SharePoint document library and related drive configuration will be required to create individual folders that are specific to a major security incident.
 
@@ -56,9 +56,3 @@ The troubleshooting section can help you resolve some of the technical issues th
 
 [Configure Slack chat connector for major security incidents]()
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[location|Location]]

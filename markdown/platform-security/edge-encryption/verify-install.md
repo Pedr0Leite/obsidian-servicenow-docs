@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Verify and troubleshoot the Edge Encryption proxy server installation
 
-After your [[edge-encryption|Edge Encryption]] proxy is installed, you can verify the installation to locate problems or start and stop the proxy.
+After your Edge Encryption proxy is installed, you can verify the installation to locate problems or start and stop the proxy.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: admin
 
 5.  Select **Next**.
 
-    If an issue is encountered, you can move through the installer to correct the [[sc-configuration|configuration]]. If no issues are encountered, the installer jumps to the **Launch** page. You can check the proxy status, stop the proxy, or start the proxy from the **Launch** page.
+    If an issue is encountered, you can move through the installer to correct the configuration. If no issues are encountered, the installer jumps to the **Launch** page. You can check the proxy status, stop the proxy, or start the proxy from the **Launch** page.
 
 
 **Parent Topic:**[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)
@@ -43,7 +43,3 @@ Role required: admin
 
 **Next topic:**[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]

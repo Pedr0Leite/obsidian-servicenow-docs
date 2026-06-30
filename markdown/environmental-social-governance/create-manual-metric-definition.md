@@ -32,7 +32,7 @@ In the manual metric definition, the mode of data collection is manual. An optio
 
 3.  On the form, fill in the fields.
 
-    For information about the fields, refer to [[manual-md-reuse|Manual metric definition fields]].
+    For information about the fields, refer to [Manual metric definition fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/manual-md-reuse.md).
 
 4.  Select **Save**.
 
@@ -43,18 +43,12 @@ The metric definition is saved in the Metric definitions list.
 
 ## What to do next
 
-You can associate an entity type, create metrics, and add citations to the metric definition. See [[update-automated-metric-definition|Update a metric definition]] for more information.
+You can associate an entity type, create metrics, and add citations to the metric definition. See [Update a metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/update-automated-metric-definition.md) for more information.
 
 -   **[Manual metric definition fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/manual-md-reuse.md)**  
 Detailed explanation of the fields on the manual metric definition form.
--   **[[set-up-estimation-for-manual-metric-definition|Set up estimation for manual metric definition]]**  
+-   **[Set up estimation for manual metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-estimation-for-manual-metric-definition.md)**  
 Enable or disable the estimation property to enable the use of estimated data when actual data is unavailable, using either pre-defined or custom methods in manual metric definitions.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[manual-md-reuse|Manual metric definition fields]]
-- [[update-automated-metric-definition|Update a metric definition]]
-- [[set-up-estimation-for-manual-metric-definition|Set up estimation for manual metric definition]]
-- [[configuring-grc-metrics|configuring grc metrics]]

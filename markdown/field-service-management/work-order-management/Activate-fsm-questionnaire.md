@@ -24,7 +24,7 @@ Role required: Admin
     -   **Required ServiceNow plugins**
         -   **Customer Service \(com.sn\_customerservice\)**
         -   **Customer Service Management Demo Data \(com.snc.customerservice.demo\)**
-        -   **[[fsm-application-landing-page|Field Service Management]]**
+        -   **Field Service Management**
 
 ## Procedure
 
@@ -54,6 +54,3 @@ Configure the form layout and add the **Assigned to** field to ensure that a que
 
 [Create a questionnaire for a work order or task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/create-questionnaire-for-work-order.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

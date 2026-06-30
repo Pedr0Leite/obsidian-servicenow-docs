@@ -451,7 +451,7 @@ The following plugins are installed with the Service Portal \(com.glide.service-
 
 ## Plugins installed with Now Assist for Public Sector Digital Services \(PSDS\)
 
-The following plugins are installed with [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] \(com.sn\_psds\_gen\_ai\) application:
+The following plugins are installed with Now Assist for Public Sector Digital Services \(PSDS\) \(com.sn\_psds\_gen\_ai\) application:
 
 - Now Assist Platform \(com.sn\_genai\_platform\)
 
@@ -459,9 +459,5 @@ The following plugins are installed with [[now-assist-for-psds|Now Assist for Pu
 
 - Geo Map \(sn\_geo\_map\) for Service Request Playbook
 
-**Parent Topic:**[[installed-with-public-sector-digital-services-core|Components and Roles installed with Public Sector Digital Services Core]]
+**Parent Topic:**[Components and Roles installed with Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/installed-with-public-sector-digital-services-core.md)
 
-## Related
-
-- [[installed-with-public-sector-digital-services-core|Components and Roles installed with Public Sector Digital Services Core]]
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

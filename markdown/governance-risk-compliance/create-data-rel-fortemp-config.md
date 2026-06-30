@@ -20,11 +20,11 @@ Role required: sn\_grc\_doc\_design.admin and sn\_bcm.admin
 
 ## About this task
 
-When you [[create-data-relationships-action-tasks|create data relationships]], you can specify how selected records, such as plans to recovery teams or plans to related assets, are connected to the table \(for example, \[sn\_bcp\_plan\]\) in the template relationship registry. You can then establish a path to navigate to these respective records. You can create as many relationships as needed.
+When you create data relationships, you can specify how selected records, such as plans to recovery teams or plans to related assets, are connected to the table \(for example, \[sn\_bcp\_plan\]\) in the template relationship registry. You can then establish a path to navigate to these respective records. You can create as many relationships as needed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Template Configurations**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Template Configurations**.
 
 2.  In the Template Configurations module, open the template configuration that you created.
 
@@ -114,11 +114,5 @@ Table from which the data is obtained. This field is automatically populated.
 
 ## What to do next
 
-[[create-content-configurations-action-tasks|Create content configurations]] to specify the type of data you want to fetch on the report. For more information, see [[create-content-config-for-temp-config|Set up the content configurations]].
+Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Set up the content configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-content-config-for-temp-config.md).
 
-## Related
-
-- [[create-content-config-for-temp-config|Set up the content configurations]]
-- [[create-data-relationships-action-tasks|Create Data relationships]]
-- [[Administration|Administration]]
-- [[create-content-configurations-action-tasks|Create Content configurations]]

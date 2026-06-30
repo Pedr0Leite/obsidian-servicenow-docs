@@ -15,7 +15,7 @@ breadcrumb: [Create New Invoice case form, Reference, Accounts Payable Operation
 
 # Invoice status messages
 
-Reference information for invoice status messages and the conditions that trigger each status during invoice processing in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Reference information for invoice status messages and the conditions that trigger each status during invoice processing in Accounts Payable Operations.
 
 <table id="table_ztk_xj1_dwb"><thead><tr><th>
 
@@ -56,7 +56,7 @@ Suspected duplicate
 
 </td><td>
 
-After the invoice is updated with required details, Accounts Payable Specialist checks if the same invoice \([[supplier|supplier]] invoice number\) is previously submitted by the same supplier. If the invoice is submitted by the supplier, then the invoice is updated with **Suspected duplicate** State.
+After the invoice is updated with required details, Accounts Payable Specialist checks if the same invoice \(supplier invoice number\) is previously submitted by the same supplier. If the invoice is submitted by the supplier, then the invoice is updated with **Suspected duplicate** State.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Accepted
 
 </td><td>
 
-This status is updated in one of the following scenarios: -   As part of invoice processing, the invoice moves from **Received** to **Accepted** State if no duplicate [[invoices|invoices]] are identified by the system
+This status is updated in one of the following scenarios: -   As part of invoice processing, the invoice moves from **Received** to **Accepted** State if no duplicate invoices are identified by the system
 -   Accounts Payable Specialist confirms the invoice is not duplicate.
 -   System recognizes the invoice as duplicate and Accounts Payable Specialist confirms it as non-duplicate.
 
@@ -109,7 +109,7 @@ Pending approval
 
 </td><td>
 
-After all the [[work-with-invoice-exceptions|invoice exceptions]] are resolved \(no exceptions found\), then the invoice is submitted for approval and the invoice changes to **Pending approval** State.
+After all the invoice exceptions are resolved \(no exceptions found\), then the invoice is submitted for approval and the invoice changes to **Pending approval** State.
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Pending payment
 
 </td><td>
 
-After the invoice is approved, then the invoice is integrated with ERP system. If no [[integration-errors-during-erp-posting|integration errors]] are found, then the invoice status changes to **Pending payment**.
+After the invoice is approved, then the invoice is integrated with ERP system. If no integration errors are found, then the invoice status changes to **Pending payment**.
 
 </td></tr><tr><td>
 
@@ -162,10 +162,3 @@ After the invoice is posted to ERP and paid in the ERP, the payment is posted ba
 </td></tr></tbody>
 </table>**Parent Topic:**[Create New Invoice case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-ap-case-form.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[integration-errors-during-erp-posting|Integration errors]]

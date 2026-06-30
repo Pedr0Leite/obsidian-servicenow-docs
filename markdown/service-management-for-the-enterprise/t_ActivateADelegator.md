@@ -12,7 +12,7 @@ breadcrumb: [Enterprise move scenarios, Move planning tool, Enterprise move, Fac
 
 # Activate a delegator
 
-Delegators [[t_AssignSeatsAsADelegator|assign users to seats]] in a scenario. Activating the delegator sends an email notification request that they assign seats using Move Details.
+Delegators assign users to seats in a scenario. Activating the delegator sends an email notification request that they assign seats using Move Details.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: facilities\_staff or move\_basic
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EnterpriseMove|Enterprise Move]]** &gt; **Enterprise Move Scenarios**.
+1.  Navigate to **All** &gt; **Enterprise Move** &gt; **Enterprise Move Scenarios**.
 
 2.  Select the move scenario.
 
@@ -31,14 +31,8 @@ Role required: facilities\_staff or move\_basic
 5.  Click **Activate Delegators**.
 
 
--   **[[c_EnterpriseMoveDelegators|Move delegators]]**  
+-   **[Move delegators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_EnterpriseMoveDelegators.md)**  
 Facilities administrators assign move delegators to assign users to locations.
 
-**Parent Topic:**[[r_EnterMoveScenarios|Enterprise move scenarios]]
+**Parent Topic:**[Enterprise move scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveScenarios.md)
 
-## Related
-
-- [[c_EnterpriseMoveDelegators|Move delegators]]
-- [[r_EnterMoveScenarios|Enterprise move scenarios]]
-- [[t_AssignSeatsAsADelegator|Assign users to seats]]
-- [[c_EnterpriseMove|Enterprise move]]

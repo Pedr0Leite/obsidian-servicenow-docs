@@ -14,7 +14,7 @@ breadcrumb: [Applying CSDM guidelines to Incident Management, Configuring Incide
 
 # Incident Management and CSDM tables
 
-[[c_IncidentManagement|Incident Management]] manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Incident Management.
+Incident Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Incident Management.
 
 ## CSDM tables used by Incident Management
 
@@ -36,11 +36,11 @@ When you use Incident Management with other ServiceNow products, you increase th
 
     Discovery provides details about the hardware and software CIs you are using.
 
--   **[[SPM2-landing-page|Service Portfolio Management]] \(Service Portfolio Management\)**
+-   **Service Portfolio Management \(Service Portfolio Management\)**
 
     Provides life-cycle information for a service.
 
--   **[[c_AssetManagement|Asset Management]]**
+-   **Asset Management**
 
     Provides the related product model. Software Asset Management \(SAM Foundation \) and Hardware Asset Management \(HAM\) provide lifecycle data for Incident Management.
 
@@ -55,9 +55,9 @@ When you use Incident Management with other ServiceNow products, you increase th
 
 ## Products that benefit from Incident Management
 
--   **[[r_ITServiceManagement|IT Service Management]] \(ITSM\)**
+-   **IT Service Management \(ITSM\)**
 
-    Services have the context of the business and [[dex-workspace-application-tab|applications]], along with the information and technologies layered beneath them.
+    Services have the context of the business and applications, along with the information and technologies layered beneath them.
 
 -   **Information Technology Operations Management \(ITOM\)**
 
@@ -75,10 +75,3 @@ When you use Incident Management with other ServiceNow products, you increase th
 
 **Parent Topic:**[Applying CSDM guidelines to Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/itsm-incident-use-case-product-view.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[c_AssetManagement|Asset Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]

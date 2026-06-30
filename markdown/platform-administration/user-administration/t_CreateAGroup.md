@@ -22,7 +22,7 @@ Role required: user\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Groups**.
 
 2.  Select **New**.
 
@@ -62,7 +62,7 @@ Type
 
 Category for this group. For example, a group designated as type **catalog** is a service catalog group and can also be accessed under the **Service Catalog** &gt; **Catalog Policy** &gt; **Fulfillment Groups** module. See [Configure assignment group types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_ConfigGroupTypesForAssignGroups.md) for more information.You may need to [Personalize a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_PersonalizeAForm.md) to add the **Type** field. Activating the Work Management plugin adds the **Type** field automatically.
 
-**Note:** ITIL is added for groups with an empty group type. Also, the default [[reference-email-admin|reference]] qualifier for tasks enables these groups to assign tasks and other task types to the group.
+**Note:** ITIL is added for groups with an empty group type. Also, the default reference qualifier for tasks enables these groups to assign tasks and other task types to the group.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Active
 </td><td>
 
 Check box that indicates whether the group is active or inactive. Inactive groups still appear in any reference field that already references the group, but aren’t visible by non-admin users in:-   lists of groups
--   the [[c_ReferenceLookup|reference lookup]] list for reference fields
+-   the reference lookup list for reference fields
 -   the auto-complete list of groups displayed when you type into a reference field
 
 
@@ -97,7 +97,7 @@ Exclude manager
 
 </td><td>
 
-Check box that controls whether the group manager receives email [[notifications|notifications]].
+Check box that controls whether the group manager receives email notifications.
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Helpful information about the group.
 
         Create a true/false field labeled `Hidden` on the Group form.
 
-        For more information on creating fields, see [[t_CreatingNewFields|Add and customize a field in a table]]
+        For more information on creating fields, see [Add and customize a field in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingNewFields.md)
 
         The system creates a field called **u\_hidden** on the **Users \[sys\_user\_group\]** table and enables use of the **Hidden** check box to designate a hidden group.
 
@@ -144,15 +144,7 @@ The user group is created based on the configuration that you've provided.
 
 **Note:**
 
-When `glide.ui.schedule_job_for_group_parent_change` is set to true, removing a parent group [[hs-results|results]] in the roles of the parent group being added to the child group asynchronously. If `glide.ui.schedule_job_for_group_parent_change` is set to false, the roles of the parent group are added to the child group synchronously when the parent group is removed.
+When `glide.ui.schedule_job_for_group_parent_change` is set to true, removing a parent group results in the roles of the parent group being added to the child group asynchronously. If `glide.ui.schedule_job_for_group_parent_change` is set to false, the roles of the parent group are added to the child group synchronously when the parent group is removed.
 
 **Parent Topic:**[Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-groups.md)
 
-## Related
-
-- [[t_CreatingNewFields|Add and customize a field in a table]]
-- [[c_UserAdministration|User administration]]
-- [[reference-email-admin|Reference]]
-- [[c_ReferenceLookup|Reference lookup]]
-- [[notifications|Notifications]]
-- [[hs-results|Results]]

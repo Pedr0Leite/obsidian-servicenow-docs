@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Customized profile information
 
-As part of designing the HR processes, you can customize the way [[c_HRProfileRecords|HR profile]] information is processed. Keep in mind that some of the fields that appear are referenced from the User \[sys\_user\] table.
+As part of designing the HR processes, you can customize the way HR profile information is processed. Keep in mind that some of the fields that appear are referenced from the User \[sys\_user\] table.
 
 If you have the sn\_hr\_core.admin role, you can customize HR profile information.
 
@@ -90,7 +90,7 @@ Country code \[country\]
 
 </td><td>
 
-Although the field names are the same, these fields are of different types. In the HR profile, \[country\] is a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field. In the user record, \[country\] is a choice list. The country code appears in the User form instead of the country name when the country selected in the HR profile is not in the choice list.
+Although the field names are the same, these fields are of different types. In the HR profile, \[country\] is a reference field. In the user record, \[country\] is a choice list. The country code appears in the User form instead of the country name when the country selected in the HR profile is not in the choice list.
 
 </td></tr><tr><td>
 
@@ -109,7 +109,3 @@ The HR profile contains both personal and work email fields, while the user reco
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

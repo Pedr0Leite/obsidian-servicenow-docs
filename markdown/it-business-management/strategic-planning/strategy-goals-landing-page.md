@@ -14,7 +14,7 @@ breadcrumb: [Strategic Planning, Strategic Portfolio Management]
 
 # Strategy and Goals
 
-Strategy and Goals in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace enables your organization to create boards and manage your strategic plans, priorities, goals, and targets to drive business outcomes.
+Strategy and Goals in Strategic Planning Workspace enables your organization to create boards and manage your strategic plans, priorities, goals, and targets to drive business outcomes.
 
 \[Omitted video\] Description: Use boards in Strategy and Goals
 
@@ -50,6 +50,3 @@ A board is a collection of strategic plans, strategic priorities, goals, and tar
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

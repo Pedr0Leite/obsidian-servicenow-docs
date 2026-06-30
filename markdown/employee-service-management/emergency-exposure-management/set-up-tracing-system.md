@@ -26,7 +26,7 @@ For more information about the available tracing systems, see [Tracing systems i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-exposure-management|Emergency Exposure Management]]** &gt; **Administration** &gt; **Tracing Systems**.
+1.  Navigate to **All** &gt; **Emergency Exposure Management** &gt; **Administration** &gt; **Tracing Systems**.
 
 2.  Click **New**.
 
@@ -92,7 +92,7 @@ Condition
 
 Condition to determine the tracing system data for the diagnostic request on selecting a parent tracing system. For example, if two tracing systems A1 and A2 have the same parent tracing system called A. In a diagnostic request, if you select A as the tracing source, the condition determines whether to query data from A1 or A2.
 
- For [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], you can review the condition scripts of the base tracing systems Cisco DNA Spaces and Mist System having the parent tracing system as Wi-Fi access log.
+ For reference, you can review the condition scripts of the base tracing systems Cisco DNA Spaces and Mist System having the parent tracing system as Wi-Fi access log.
 
  This field appears only when a tracing system is selected in **Parent**.
 
@@ -153,7 +153,3 @@ The tracing system is created. The tracing system appears as one of the options 
 -   [Associate a system property with a tracing system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/associate-sys-property-tracing-system.md).
 -   [Create or modify a diagnostic request task configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/create-diagnostic-task-config.md).
 
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

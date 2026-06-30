@@ -14,7 +14,7 @@ breadcrumb: [Configure Walk-up Experience appointment booking, Walk-up Experienc
 
 # Create a record producer to capture Walk-up Experience appointment records
 
-Capture [[walkup-experience-landing-page|Walk-up Experience]] appointment records by creating unique record producers for your individual walk-up locations. The Appointment Booking Service Configuration form contains required fields that refer to variables in the associated record producer.
+Capture Walk-up Experience appointment records by creating unique record producers for your individual walk-up locations. The Appointment Booking Service Configuration form contains required fields that refer to variables in the associated record producer.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ In order to properly configure your walk-up location services for appointment bo
 
 **Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

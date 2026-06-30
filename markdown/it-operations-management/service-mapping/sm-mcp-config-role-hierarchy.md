@@ -15,7 +15,7 @@ breadcrumb: [Service Mapping MCP tools, AI capabilities in Service Mapping, Usin
 
 # Configure roles for the Service Mapping MCP tools
 
-Configure the role containment chain and assign the required roles to users so they can connect to the Now Assist CMDB MCP Server and call the [[service-mapping-mcp-server|Service Mapping MCP tools]].
+Configure the role containment chain and assign the required roles to users so they can connect to the Now Assist CMDB MCP Server and call the Service Mapping MCP tools.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 ## About this task
 
-For information about the [[c_ServiceMappingOverview|Service Mapping]] tools, see [Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md).
+For information about the Service Mapping tools, see [Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md).
 
 The REST API ACL for the Service Mapping MCP tools enforces the sn\_sm\_gen\_ai.sm\_mcp\_user role. This role is not automatically added to the standard Service Mapping role hierarchy after deployment. You must configure the containment records manually, because role hierarchy assignments cannot be included in a scoped update set.
 
@@ -89,7 +89,3 @@ The role hierarchy is configured and users are assigned the required roles. User
 
 **Parent Topic:**[Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md)
 
-## Related
-
-- [[service-mapping-mcp-server|Service Mapping MCP tools]]
-- [[c_ServiceMappingOverview|Service Mapping]]

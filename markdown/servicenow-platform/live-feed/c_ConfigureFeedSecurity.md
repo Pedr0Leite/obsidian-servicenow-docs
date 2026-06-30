@@ -14,12 +14,12 @@ breadcrumb: [Document feeds, Administering Live Feed, Live Feed Core UI, Manage 
 
 # Security configuration for document feeds
 
-[[c_DocumentFeeds|Document feeds]] honor the access control rules \(ACLs\) for the associated record. Users can only view messages on the document feed if they have access to the same information on the record.
+Document feeds honor the access control rules \(ACLs\) for the associated record. Users can only view messages on the document feed if they have access to the same information on the record.
 
 Consider the following examples:
 
 -   If an ACL allows a user to read and create comments on an incident, then the user can view and add messages posted as comments on the incident feed.
--   If an ACL restricts a user from reading [[c_WorkNotes|work notes]], then the user cannot view messages posted as work notes on the incident feed.
+-   If an ACL restricts a user from reading work notes, then the user cannot view messages posted as work notes on the incident feed.
 
 **Note:** Access control rules are only checked when a user first accesses the document feed. After users view the feed, an administrator must remove them manually to change their access.
 
@@ -38,7 +38,3 @@ Consider the following examples:
 
 [Business rule installed with Live Feed Document]()
 
-## Related
-
-- [[c_DocumentFeeds|Document feeds]]
-- [[c_WorkNotes|Work notes]]

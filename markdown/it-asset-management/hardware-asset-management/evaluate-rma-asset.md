@@ -14,18 +14,18 @@ breadcrumb: [Managing RMA response orders for DaaS assets, Device as a Service, 
 
 # Evaluate the RMA asset
 
-Evaluate the [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) asset on the scheduled date at the customer location.
+Evaluate the Return Merchandise Authorization \(RMA\) asset on the scheduled date at the customer location.
 
 ## Before you begin
 
 Role required: sn\_daas\_ham.daas\_asset\_manager or inventory\_user
 
--   Install the [[ham-landing-page|Hardware Asset Management]] for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+-   Install the Hardware Asset Management for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 -   Install the Hardware Asset Management application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **DaaS provider** view.
 
@@ -160,8 +160,3 @@ Notes about the task that are visible to all users within your organization.
 
 [Repair the RMA asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-asset-daas.md) or [Ship the asset to the DaaS provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ship-rma-asset.md)
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

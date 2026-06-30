@@ -14,7 +14,7 @@ breadcrumb: [Filter configuration for contextual search, Configuring contextual 
 
 # Create a filter configuration using scripts
 
-Create filter conditions using script that you can associate with a table configuration. The search result displays [[hs-results|results]] that meet the filter conditions.
+Create filter conditions using script that you can associate with a table configuration. The search result displays results that meet the filter conditions.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Table Configuration**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Table Configuration**.
 
 2.  Open a table configuration record on which to create the filter.
 
-3.  In the Filter [[clone-configurations-tab|Configurations]] related list, click **New**.
+3.  In the Filter Configurations related list, click **New**.
 
 4.  On the form, fill in the fields.
 
@@ -90,8 +90,3 @@ Check box to activate the filter configuration.
 
 **Parent Topic:**[Filter configuration for contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/filter-configuration-for-cxs.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]
-- [[clone-configurations-tab|Configurations]]

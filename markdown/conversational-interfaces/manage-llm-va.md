@@ -22,7 +22,7 @@ Role required: virtual\_agent\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Assistants**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Assistants**.
 
 2.  The Assistants screen displays existing LLM virtual agents with these fields:
 
@@ -40,7 +40,7 @@ Name
 
 </td><td>
 
-[[virtual-agent-landing-page|Virtual agent]]'s name.
+Virtual agent's name.
 
 </td></tr><tr><td>
 
@@ -73,16 +73,10 @@ Date and time the virtual agent was most recently updated.
 
 4.  To edit an existing virtual agent, select the virtual agent's name or select the three vertical dots \[Omitted image "three-dots-icon.png"\] Alt text: More actions icon. at the end of any field and select **Edit**.
 
-    If Virtual Agent is completely configured, the Now Assist for Virtual Agent Review screen displays. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md). If Virtual Agent is not completely configured, the last unfinished step in the Virtual Agent guided setup displays. For more information, see [[ci-home-install-components|Installing Conversational Interfaces components]].
+    If Virtual Agent is completely configured, the Now Assist for Virtual Agent Review screen displays. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md). If Virtual Agent is not completely configured, the last unfinished step in the Virtual Agent guided setup displays. For more information, see [Installing Conversational Interfaces components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-home-install-components.md).
 
 5.  To turn an existing virtual agent on or off, select the three vertical dots \[Omitted image "three-dots-icon.png"\] Alt text: More actions icon. at the end of any field and select **Turn on or off**.\[Omitted image "three-dots-edit.png"\] Alt text: Assistants screen in Now Assist.
 
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ci-home-install-components|Installing Conversational Interfaces components]]
-- [[ci-configuring-chat-features|General chat settings]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

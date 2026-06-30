@@ -16,13 +16,13 @@ The CSM Interaction record page provides CSM interaction management features and
 
 The CSM Interaction record page provides the basic structure for an interaction record, including interaction information and related search results.
 
-\[Omitted image "csm-Interaction-record-template.png"\] Alt text: The CSM Interaction record page provides agents with the active chat panel, interaction details, and the ability to [[lookup-verify-contact-consumer|look up and verify a contact or consumer]].
+\[Omitted image "csm-Interaction-record-template.png"\] Alt text: The CSM Interaction record page provides agents with the active chat panel, interaction details, and the ability to look up and verify a contact or consumer.
 
 The CSM Interaction record page is included with the CSM/FSM Configurable Workspace experience.
 
 ## Record presence feature
 
-The [[csm-default-record-page|CSM default record page]] and the CSM Interaction record page include the record presence feature. This feature allows agents to see other users who are viewing the same record and enables easy collaboration.
+The CSM default record page and the CSM Interaction record page include the record presence feature. This feature allows agents to see other users who are viewing the same record and enables easy collaboration.
 
 The user presence component displays an icon in the form header that shows the user who is currently viewing the record. For three or more users, the component displays two icons plus a number that represents additional users.
 
@@ -33,7 +33,7 @@ For more information about this feature, see [User presence](https://raw.githubu
 
 ## Thin compose modeless dialogs
 
-[[csm-front-line-case-page-modeless-dialogs|Thin compose modeless dialogs]] enable agents to initiate a work note or email from the [[csm-config-ws-activity-stream|activity stream]] in a modeless dialog.
+[Thin compose modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md) enable agents to initiate a work note or email from the activity stream in a modeless dialog.
 
 **Note:** For the CSM Interaction record page, the thin compose modeless dialogs feature is hidden by default and can be enabled by the admin.
 
@@ -41,7 +41,7 @@ For more information about this feature, see [User presence](https://raw.githubu
 
 The Recommended Actions tab is now available as the first tab in the contextual side panel and is enabled for Pro customers. It includes a set of base system recommendations, such as similar incidents and similar open incidents.
 
-The Recommended Actions tab includes [[ra-csm-ai-search|AI search]] functionality and Suggested Actions for the chat, video, email, and walk-up channels on the CSM Interaction record page.
+The Recommended Actions tab includes [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) functionality and Suggested Actions for the chat, video, email, and walk-up channels on the CSM Interaction record page.
 
 -   AI search tab: Agents can use AI search to find relevant resources or resolutions for customer issues. The search feature displays an initial set of search results based on the text in the interaction short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search. From the list of search results, agents can select a source to see search results of that type.
 
@@ -52,42 +52,26 @@ The Recommended Actions tab includes [[ra-csm-ai-search|AI search]] functionalit
     -   Read an article.
     -   Flag an article.
     -   Mark an article as helpful.
-    For all the other source types, default guidance is supported. The default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [[ra-csm-guidances-default-guidance-search|Default guidance for search results]].
+    For all the other source types, default guidance is supported. The default guidance for search results is a guidance that can be used for any search sources that don't have mapped guidances. For more information on default guidance, see [Default guidance for search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-default-guidance-search.md).
 
-    For more information on how to avail the AI search feature in Recommended Actions, see [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]].
+    For more information on how to avail the AI search feature in Recommended Actions, see [Enable AI search in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migrate-ra-agent-assist.md).
 
-    For more information, see [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]].
+    For more information, see [Use AI search in Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md).
 
-    **Note:** Using Recommended Actions in the contextual side panel requires the [[nba|Recommended Actions]] application \(sn\_cs\_nb\_action\) which is included with the [[csm-workspaces-configure|CSM Configurable Workspace]] application.
+    **Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
--   Suggested Actions tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts so that relevant actions are displayed for the agents, see [[configure-nba|Recommended Actions]].
+-   Suggested Actions tab: This tab displays relevant actions to agents based on a context of a record or recommend a value for a field. For more information on how to configure contexts so that relevant actions are displayed for the agents, see [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba.md).
 
 ## Editable record header field
 
-Agents can edit the short description of a record directly from the record header field. For more information, see [[csm-workspace-agent-actions|Editable record headers]].
+Agents can edit the short description of a record directly from the record header field. For more information, see [Editable record headers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-agent-actions.md).
 
 ## Collaborate component
 
-The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. This component is available on the CSM default record page n the contextual side panel. For more information, see [[csm-config-ws-collaborate-component|Collaborate component]].
+The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. This component is available on the CSM default record page n the contextual side panel. For more information, see [Collaborate component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-collaborate-component.md).
 
 **Related topics**  
 
 
-[[csm-native-voice-record-page|CSM voice interaction record page]]
+[CSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md)
 
-## Related
-
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
-- [[migrate-ra-agent-assist|Enable AI search in Recommended Actions]]
-- [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-- [[nba|Configuring Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspace-agent-actions|CSM Configurable Workspace form features]]
-- [[csm-config-ws-collaborate-component|Collaborate component]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

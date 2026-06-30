@@ -53,14 +53,9 @@ Role required: admin
 11. Open the record of each currency that you wish to deselect, and unselect the checkbox for **Active**.
 
 
-**Parent Topic:**[[psds-config-gmp-foundation|Configure Grants Management]]
+**Parent Topic:**[Configure Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-foundation.md)
 
-**Previous topic:**[[psds-config-gmp-setup-retention-policy|Configure a retention policy for grant cases in Grants Management]]
+**Previous topic:**[Configure a retention policy for grant cases in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-setup-retention-policy.md)
 
-**Next topic:**[[psds-config-gmp-export-pdf|Configure export application functionality in Grants Management]]
+**Next topic:**[Configure export application functionality in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-export-pdf.md)
 
-## Related
-
-- [[psds-config-gmp-foundation|Configure Grants Management]]
-- [[psds-config-gmp-setup-retention-policy|Configure a retention policy for grant cases in Grants Management]]
-- [[psds-config-gmp-export-pdf|Configure export application functionality in Grants Management]]

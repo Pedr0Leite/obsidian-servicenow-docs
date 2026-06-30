@@ -14,7 +14,7 @@ breadcrumb: [Create a table map, Create custom mapping configurations, Configuri
 
 # Create a business rule to apply a custom table map configuration
 
-Create a business rule to enable import for your new custom table map configuration from [[agile-landing-page|Agile Development 2.0]], SAFe, and PPM applications.
+Create a business rule to enable import for your new custom table map configuration from Agile Development 2.0, SAFe, and PPM applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_align\_core\_apw.admin
 
 ## About this task
 
-After you create a custom table map in [[alignment-planner-workspace-landing-page|Strategic Planning]] integrations, create a business rule similar to 'Sync Data from Execution to Alignment' business rule in the rm\_epic or dmn\_demand tables.
+After you create a custom table map in Strategic Planning integrations, create a business rule similar to 'Sync Data from Execution to Alignment' business rule in the rm\_epic or dmn\_demand tables.
 
 **Note:** Ensure that the business rule is created in the execution application, such as Agile Development 2.0, SAFe, or PPM.
 
@@ -65,7 +65,4 @@ Select the table for which you've created the custom map.For example, Feature \[
 </td></tr></tbody>
 </table>5.  Click **Update**.
 
-## Related
 
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

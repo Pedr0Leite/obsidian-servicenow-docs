@@ -12,19 +12,12 @@ breadcrumb: [Document Processor, Integrate, Financial Services Operations \(FSO\
 
 # Financial Services Operations Document Processor reference
 
-Learn about the components and properties that are installed with the [[fso-overview|Financial Services]] OperationsDocument Processor application.
+Learn about the components and properties that are installed with the Financial Services OperationsDocument Processor application.
 
--   **[[components-installed-fso-document-processor|Components installed with Financial Services Document Processor]]**  
+-   **[Components installed with Financial Services Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-fso-document-processor.md)**  
 Several types of components are installed with installation of the Document Processor application, including tables and user roles.
--   **[[domain-separation-fso-document-processor|Domain separation and Financial Services Document Processor]]**  
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is supported for Financial Services Document Processor. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+-   **[Domain separation and Financial Services Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/domain-separation-fso-document-processor.md)**  
+Domain separation is supported for Financial Services Document Processor. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[fso-integrate-other-applications|Integrate applications]]
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
-## Related
-
-- [[components-installed-fso-document-processor|Components installed with Financial Services Document Processor]]
-- [[domain-separation-fso-document-processor|Domain separation and Financial Services Document Processor]]
-- [[fso-integrate-other-applications|Integrate applications]]
-- [[fso-overview|Financial Services]]
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]

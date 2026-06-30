@@ -15,7 +15,7 @@ breadcrumb: [Use, Now Assist for SPO, Sourcing and Procurement Operations, Finan
 
 # Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel
 
-Request the contextual generative AI capabilities to summarize procurement-related records in the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application by using the conversational interface in the Now Assist panel.
+Request the contextual generative AI capabilities to summarize procurement-related records in the Now Assist for Sourcing and Procurement Operations \(SPO\) application by using the conversational interface in the Now Assist panel.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_fulfiller
 
 ## About this task
 
-You can use the Now Assist panel in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to summarize procurement-related records.
+You can use the Now Assist panel in Source-to-Pay Workspace to summarize procurement-related records.
 
 For more information about the Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md). For information about activating the Now Assist panel, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
@@ -39,8 +39,8 @@ For more information about the Now Assist panel, see [Now Assist panel](https://
 
 3.  Request the generative AI capabilities in SPO for procurement-related records for the following skills by selecting the Now Assist icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: Now assist icon.:
 
-    -   [[sourcing-request|Sourcing request]] summarization for fulfillers
-    -   [[purchase-requisition|Purchase requisition]] summarization for fulfillers
+    -   Sourcing request summarization for fulfillers
+    -   Purchase requisition summarization for fulfillers
     -   Procurement case summarization for fulfillers
     -   Negotiation summarization for fulfillers
     -   Sourcing event summarization for fulfillers
@@ -82,9 +82,3 @@ Description
 
 [Analyze sentiment in procurement cases]()
 
-## Related
-
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]

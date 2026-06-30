@@ -14,7 +14,7 @@ breadcrumb: [Marketplace, Contractor capabilities, Set up workforce, Configure, 
 
 # Modify marketplace eligibility criteria for Field Service Marketplace
 
-Configure the eligibility criteria within task filter settings for [[fsm-marketplace|Field Service Marketplace]].
+Configure the eligibility criteria within task filter settings for Field Service Marketplace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 Ensure that the Field Service Marketplace plugin is active. For more information, see [Activate Field Service Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-contractor-marketplace.md).
 
-**Note:** To utilize automation in Field Service Marketplace, the [[dynamic-scheduling|Dynamic Scheduling]] plugin must also be installed and the **Use task filters for determining contractor tasks** property must be enabled.
+**Note:** To utilize automation in Field Service Marketplace, the Dynamic Scheduling plugin must also be installed and the **Use task filters for determining contractor tasks** property must be enabled.
 
 ## About this task
 
@@ -52,7 +52,4 @@ For more information on task filters, see [Create a task filter for dynamic sche
 
 6.  Click **Update**.
 
-## Related
 
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[dynamic-scheduling|Dynamic scheduling]]

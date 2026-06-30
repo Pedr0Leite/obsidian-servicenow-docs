@@ -14,7 +14,7 @@ breadcrumb: [Classic assessments, Configure, Third-party Risk Management, Govern
 
 # View the sample questions in the base system
 
-TPRM includes [[tprm-questionnaire-types|sample questionnaires]] that you can use to define questionnaire templates for your organization.
+TPRM includes sample questionnaires that you can use to define questionnaire templates for your organization.
 
 ## Before you begin
 
@@ -72,6 +72,3 @@ A set of related questions within a questionnaire template.**Note:** There can b
 
 [Using the SIG questionnaire for a risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sig-use-and-support.md)
 
-## Related
-
-- [[tprm-questionnaire-types|Sample questionnaires]]

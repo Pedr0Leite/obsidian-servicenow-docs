@@ -18,7 +18,7 @@ Public Sector Digital Services provides many functional and granular roles that 
 
 You can assign roles to users or groups that have been configured in the ServiceNow AI Platform®. A user is an individual who can access your instance, and a group is a set of users who share a common purpose. The users associated with a group are listed as group members. After your users and groups are configured, you can assign roles to them. When you apply roles to groups, their members inherit the applied roles.
 
-For more information about roles, see [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]].
+For more information about roles, see [Roles installed with Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/roles-installed-with-public-sector-digital-services.md).
 
 **Note:** Role-based access controls govern UI interactions. They do not restrict access by users with system-level scripting privileges or elevated platform roles.
 
@@ -53,7 +53,3 @@ Assign roles to users and groups
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]]

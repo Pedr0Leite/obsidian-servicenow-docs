@@ -44,13 +44,10 @@ After a questionnaire or document request has been submitted to the third party,
 
 6.  When you have completed all questionnaires or document requests in the assessment, select **Submit Assessment**.
 
-    **Note:** You cannot [[submit-an-assessment|submit an assessment]] until all items that require e-signatures have been signed.
+    **Note:** You cannot submit an assessment until all items that require e-signatures have been signed.
 
 
 ## Result
 
 The state of the assessment changes to **Response Received**, and risk scores are calculated.
 
-## Related
-
-- [[submit-an-assessment|Submit an assessment]]

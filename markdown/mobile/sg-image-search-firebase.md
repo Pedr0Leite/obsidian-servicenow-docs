@@ -73,8 +73,5 @@ Photo search requires a Google Cloud / Firebase account to analyze images and re
 19. Click **Update**.
 
 
-**Parent Topic:**[[sg-configure-image-search|Configure photo search]]
+**Parent Topic:**[Configure photo search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md)
 
-## Related
-
-- [[sg-configure-image-search|Configure photo search]]

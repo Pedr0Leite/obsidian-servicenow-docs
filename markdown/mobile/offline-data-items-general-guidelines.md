@@ -12,14 +12,14 @@ breadcrumb: [Configure data items, Supported screens, Align apps, screens, and f
 
 # General guidelines for working with data items in offline mode
 
-When working with [[sg-data-item|data items]] keep these general guidelines in mind for usability and a good user experience.
+When working with data items keep these general guidelines in mind for usability and a good user experience.
 
 -   **Understand how data usage differs between online and offline modes**
 
     Consider the following differences when configuring data items.
 
     -   Online mode: Queries run against the entire instance, allowing users to search and access larger datasets.
-    -   [[mobile-offline-mode|Offline mode]]: The app relies only on what was cached through data items. This is a more condense, filtered subset that you configure to verify performance, storage efficiency, and relevance.
+    -   Offline mode: The app relies only on what was cached through data items. This is a more condense, filtered subset that you configure to verify performance, storage efficiency, and relevance.
     When configuring data items, you have control to broaden queries for online use but can restrict and fine-tune queries for offline use.
 
 -   **Recognize cached data storage locations**
@@ -49,10 +49,5 @@ When working with [[sg-data-item|data items]] keep these general guidelines in m
     -   Declarative conditions: Configure simple field-based filters, such as restricting downloads to active records or records of a certain type. For example, open incidents assigned to me.
     -   Scripted conditions: Write logic for advanced rules that provide more flexibility, including querying multiple tables and plugins. For example, urgent work orders updated in the last 48 hours within my region.
 
-**Parent Topic:**[[config-offline-data-item|Configure data items in offline mode]]
+**Parent Topic:**[Configure data items in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-offline-data-item.md)
 
-## Related
-
-- [[config-offline-data-item|Configure data items in offline mode]]
-- [[sg-data-item|Data items]]
-- [[mobile-offline-mode|Offline mode]]

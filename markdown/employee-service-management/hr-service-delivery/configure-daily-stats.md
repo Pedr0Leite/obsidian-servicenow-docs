@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Configure daily stats
 
-Configure daily stats records that you want to display on the [[manager-hub-overview|Manager Hub]]. Daily stats can be information related to employee PTO, employee location, and so on.
+Configure daily stats records that you want to display on the Manager Hub. Daily stats can be information related to employee PTO, employee location, and so on.
 
 ## Before you begin
 
@@ -78,6 +78,3 @@ Role required: sn\_mh.admin
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]

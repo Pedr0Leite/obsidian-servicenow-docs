@@ -183,7 +183,7 @@ Distribution channel
 
 </td><td>
 
-Option to set and lock in a distribution channel. For example, you can specify web as a channel. You can specify multiple channels. **Note:** If you're using the [[tmt-service-bridge-both-landing-page|Service Exchange]] Order Management for Providers application, enter Service Exchange as distribution channel.
+Option to set and lock in a distribution channel. For example, you can specify web as a channel. You can specify multiple channels. **Note:** If you're using the Service Exchange Order Management for Providers application, enter Service Exchange as distribution channel.
 
 </td></tr><tr><td>
 
@@ -295,7 +295,7 @@ Specification Relationships
 
 </td><td>
 
-[[create-specification-relationships-somt|Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications]].
+[Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-specification-relationships-somt.md).
 
 </td></tr><tr><td>
 
@@ -344,8 +344,3 @@ Copy the data in this specification so that you can create a specification from 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-specification-relationships-somt|Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

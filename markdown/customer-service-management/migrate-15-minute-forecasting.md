@@ -36,13 +36,13 @@ Starting with the Tokyo release, 15-minute forecasting is the default forecastin
 
 2.  Deactivate the existing demo data definitions.
 
-    1.  Navigate to **All** &gt; **Workforce [[optimization|Optimization]]** &gt; **Demand Forecast** &gt; **Data Collection Definitions**.
+    1.  Navigate to **All** &gt; **Workforce Optimization** &gt; **Demand Forecast** &gt; **Data Collection Definitions**.
 
     2.  Set the **Active** value of **Cases Assigned** and **Chat Interaction Created** demo definitions to **false**.
 
 3.  Create new data collection definitions, formula parameters, and group forecast configuration.
 
-    For more info, see [[configure-data-collection-demand-forecast|Configure the data collection for resources demands]].
+    For more info, see [Configure the data collection for resources demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-collection-demand-forecast.md).
 
 4.  Run the **Collect historical data** on-demand job to collect historical data at 15-minute interval.
 
@@ -61,10 +61,5 @@ Starting with the Tokyo release, 15-minute forecasting is the default forecastin
     3.  Select **Execute Now**.
 
 
-**Parent Topic:**[[configuring-demand-forecast-configurable-wfo-cs|Setting up Demand Forecast in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-demand-forecast-configurable-wfo-cs.md)
 
-## Related
-
-- [[configure-data-collection-demand-forecast|Configure the data collection for resources demands]]
-- [[configuring-demand-forecast-configurable-wfo-cs|Setting up Demand Forecast in Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]

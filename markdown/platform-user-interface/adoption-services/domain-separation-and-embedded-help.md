@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help reference, Embedded Help, In-product help, Adoption s
 
 # Domain separation and Embedded Help
 
-Domain separation is supported for [[embedded-help|Embedded Help]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Embedded Help. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -49,6 +49,3 @@ If your organization uses domain separation, you can create custom embedded help
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]

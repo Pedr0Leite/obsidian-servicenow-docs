@@ -51,7 +51,7 @@ Depending on the reclassification, the following occurs.
 
 **Note:** Avoid the CI class downgrade and CI class switch operations as those can lead to data loss. When automatic CI reclassification is enabled \(which is by default\), the [identification process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md) can result in some automatic reclassifications which lead to data loss.
 
-For information about CI reclassification by the [[ire|Identification and Reconciliation Engine \(IRE\)]] and related system properties that control the behavior of automatic CI reclassification, see [Configure CI reclassification during IRE processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIReclassification.md).
+For information about CI reclassification by the Identification and Reconciliation Engine \(IRE\) and related system properties that control the behavior of automatic CI reclassification, see [Configure CI reclassification during IRE processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIReclassification.md).
 
 ## Procedure
 
@@ -65,7 +65,7 @@ For information about CI reclassification by the [[ire|Identification and Reconc
 
 3.  Double-click the **Class** value for the CI, and select a new class.
 
-4.  Click the green [[check-box|check box]] to confirm your selection.
+4.  Click the green check box to confirm your selection.
 
 
 **Parent Topic:**[CMDB classifications and class dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBClassifications.md)
@@ -87,7 +87,3 @@ For information about CI reclassification by the [[ire|Identification and Reconc
 
 [Update the list of classes in the Principal Class filter]()
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[check-box|Check box]]

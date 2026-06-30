@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
     If you continue from the **Set Objectives** page, you are on the **Scope your analysis** page.
 
@@ -41,7 +41,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
     -   **Touchpoint metrics**: Touchpoint metrics are used to study specific interactions within a process to identify areas of high interaction, particularly spotlighting inefficient, redundant, or excessive activities. By pinpointing these areas, it enables process optimization through automation or other improvements, enhancing performance and reducing operational costs.
     -   **Idle time metrics**: Idle time metrics help track the duration when cases are awaiting assignment to agents but are expected to progress by the provider. These metrics identify delays during unassigned periods, highlighting inefficiencies where cases are stagnant in the process. By analyzing idle time, teams can improve task allocation and resource management, reducing delays and ensuring smooth case flow, ultimately boosting productivity and compliance with service level agreements.
 
-        **Note:** If a field that is selected in the promin.blocked.tables list is selected in the [[project-view-screen|Process details page]], then the Idle time metrics is not available.
+        **Note:** If a field that is selected in the promin.blocked.tables list is selected in the Process details page, then the Idle time metrics is not available.
 
 5.  Toggle each of the metrics to enable them.
 
@@ -49,13 +49,8 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
     **Note:** These two metrics are not available without configuring in process configuration.
 
-6.  Select **[[improve-opportunities|Set improvement opportunities]]**.
+6.  Select **Set improvement opportunities**.
 
 
 **Parent Topic:**[Scoping your analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/scope-analysis.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[project-view-screen|Process details page]]
-- [[improve-opportunities|Set improvement opportunities]]

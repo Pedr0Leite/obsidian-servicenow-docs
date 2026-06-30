@@ -14,11 +14,11 @@ breadcrumb: [Configure conversational AI, Configure, Now Assist for Health and S
 
 # Configure keywords for conversational AI
 
-Configure keywords on the incident and observation record producers to enable conversational [[health-safety-overview|Health and Safety]] reporting in the Now Assist panel.
+Configure keywords on the incident and observation record producers to enable conversational Health and Safety reporting in the Now Assist panel.
 
 ## Before you begin
 
-Verify that the application scope is selected as [[hs-core-landing|Health and Safety Core]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Verify that the application scope is selected as Health and Safety Core. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_ohs\_im.admin
 
@@ -49,7 +49,3 @@ The keywords are saved to the record producer. Employees can use these keywords 
 
 **Parent Topic:**[Configure conversational AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-configure-conversational-ai.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-core-landing|Health and Safety Core]]

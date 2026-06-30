@@ -24,14 +24,14 @@ When there are no intent matches found for Issue Auto Resolution, AI Search can 
 -   Navigate to the **AI Search** tab.
 -   Select the **Apply AI Search** check box to enable fallback.
 
-You can see the following AI Search [[settings-mobile|settings]] from the IAR configuration record which will be used when there are no intent matches for the topic.
+You can see the following AI Search settings from the IAR configuration record which will be used when there are no intent matches for the topic.
 
 -   **EVAM definition**: The entity view action mapper definition is set to **Virtual Agent Search** by default.
 -   **Search application**: The default application for AI Search fallback is set to **Service Portal default Search Application**.
 -   **AI Search display topic**: The AI Search display topic that is provided by default is the **IAR - AI Search** topic.
 -   **Search results portal**: The default portal for AI Search fallback is set to the **Service Portal**.
 
-To support AI Search fallback, [[itsm-virtual-agent|ITSM Virtual Agent]] provides the following intent to topic mappings.
+To support AI Search fallback, ITSM Virtual Agent provides the following intent to topic mappings.
 
 |Auto-resolution intent|Matched topic|
 |----------------------|-------------|
@@ -39,9 +39,9 @@ To support AI Search fallback, [[itsm-virtual-agent|ITSM Virtual Agent]] provide
 |Emailissues|Email Issues \(Template\)|
 |RSAToken|RSA Token \(Template\)|
 |LocalAdminAccess|Local Admin Access \(Template\)|
-|CollaborationSoftwareIssues|Collaboration [[dex-workspace-application-tab|Applications]] \(Template\)|
+|CollaborationSoftwareIssues|Collaboration Applications \(Template\)|
 
-Whenever you try to [[create-an-incident|create an incident]] using Email or Self-service as the channel that triggers IAR, you will receive the relevant recommendations.
+Whenever you try to create an incident using Email or Self-service as the channel that triggers IAR, you will receive the relevant recommendations.
 
 There are three types for recommendations, KBs, Catalogs, and VA Topics. For example, if you create an incident and check for its email notifications, you will be shown various recommendations \(including KBs and Catalogs\) for the incident resolution from Issue Auto Resolution.\[Omitted image "email-notif-rcmndtn-kb.png"\] Alt text: IAR triggered email notification with KB and Catalog recommendations.
 
@@ -53,9 +53,3 @@ Once you click **View recommendations** from your email notification, you will b
 
 **Parent Topic:**[Issue Auto Resolution for ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-auto-resolution.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[dex-workspace-application-tab|Applications]]
-- [[create-an-incident|Create an incident]]

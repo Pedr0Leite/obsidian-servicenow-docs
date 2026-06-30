@@ -30,7 +30,7 @@ Resources
 
 </th></tr></thead><tbody><tr><td>
 
-[[admin-center-intro|Admin Center]]
+Admin Center
 
 </td><td>
 
@@ -66,7 +66,7 @@ Troubleshooting
 
 </td></tr><tr><td>
 
-[[ia-ai-search|AI Search]]
+AI Search
 
 </td><td>
 
@@ -116,7 +116,7 @@ Training
 
 </td></tr><tr><td>
 
-[[application-manager|Application Manager]]
+Application Manager
 
 </td><td>
 
@@ -140,7 +140,7 @@ Release notes
 
 </td></tr><tr><td>
 
-[[c_DataManagement|Data Management]]
+Data Management
 
 </td><td>
 
@@ -252,7 +252,7 @@ Training
 
 </td></tr><tr><td>
 
-[[dynamic-translation|Dynamic Translation]]
+Dynamic Translation
 
 </td><td>
 
@@ -276,7 +276,7 @@ Release notes
 
 </td></tr><tr><td>
 
-[[hs-landing-page|Instance Scan]]
+Instance Scan
 
 </td><td>
 
@@ -300,7 +300,7 @@ Training
 
 </td></tr><tr><td>
 
-[[notifications|Notifications]]
+Notifications
 
 </td><td>
 
@@ -390,7 +390,7 @@ Getting Started
 
 </td></tr><tr><td>
 
-[[platform-performance-landing|Platform Performance]]
+Platform Performance
 
 </td><td>
 
@@ -414,7 +414,7 @@ Best practices
 
 </td></tr><tr><td>
 
-[[subscription-management-landing-page-v2|Subscription Management]]
+Subscription Management
 
 </td><td>
 
@@ -486,7 +486,7 @@ Tips and examples
 
 </td></tr><tr><td>
 
-[[system-localization-landing|System Localization]]
+System Localization
 
 </td><td>
 
@@ -510,7 +510,7 @@ Training
 
 </td></tr><tr><td>
 
-[[c_TableAdministration|Table Administration]]
+Table Administration
 
 </td><td>
 
@@ -534,7 +534,7 @@ Training
 
 </td></tr><tr><td>
 
-[[uc-landing-page|Upgrade Center]]
+Upgrade Center
 
 </td><td>
 
@@ -620,7 +620,7 @@ Release notes
 
 </td></tr><tr><td>
 
-[[c_UserAdministration|User Administration]]
+User Administration
 
 </td><td>
 
@@ -632,19 +632,3 @@ Best practices
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[ia-ai-search|AI Search]]
-- [[application-manager|Application Manager]]
-- [[c_DataManagement|Data Management]]
-- [[dynamic-translation|Dynamic translation]]
-- [[hs-landing-page|Instance Scan]]
-- [[notifications|Notifications]]
-- [[platform-performance-landing|Platform performance]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[system-localization-landing|System Localization]]
-- [[c_TableAdministration|Table administration]]
-- [[uc-landing-page|Upgrade Center]]
-- [[c_UserAdministration|User administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # View project analytics in classic Project Workspace
 
-View the summary of a project in **Analytics** tab of classic [[project-workspace-landing-page|Project Workspace]].
+View the summary of a project in **Analytics** tab of classic Project Workspace.
 
 **Important:**
 
@@ -26,7 +26,7 @@ Role required: it\_project\_user
 
 ## About this task
 
-The **Analytics** tab is a PA dashboard which displays preconfigured widgets and reports to track the progress on various aspects of a project such as open risks, actual cost, and delayed milestones. The information in the reports is rolled up from the [[create-a-project-form|project form]] fields. For information about various widgets and reports for different project types, see [Project analytics widgets and reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-analytics-widgets.md)
+The **Analytics** tab is a PA dashboard which displays preconfigured widgets and reports to track the progress on various aspects of a project such as open risks, actual cost, and delayed milestones. The information in the reports is rolled up from the project form fields. For information about various widgets and reports for different project types, see [Project analytics widgets and reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-analytics-widgets.md)
 
 ## Procedure
 
@@ -42,7 +42,3 @@ Widgets and reports that provide information for the project summary in the **An
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]

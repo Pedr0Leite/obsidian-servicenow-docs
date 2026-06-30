@@ -53,8 +53,5 @@ To remove the **Upload from URL** option in the HTML editor, add a new property 
 **Related topics**  
 
 
-[[t_AddAPropertyUsingSysPropsList|Add a system property]]
+[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]

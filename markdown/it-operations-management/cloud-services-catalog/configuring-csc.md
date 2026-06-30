@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Manage
 
 # Configuring Cloud Services Catalog
 
-You can configure the [[csc-home|Cloud Services Catalog]] application so that so can begin to automate cloud management tooling.
+You can configure the Cloud Services Catalog application so that so can begin to automate cloud management tooling.
 
 ## Configuration overview
 
@@ -32,11 +32,11 @@ An overview of the Day 1 setup process is outlined here:
 6.  Set up a cloud account to represent your entire managed cloud infrastructure, and set up a service account that works with one of your provider accounts.
 7.  Specify the datacenters in the service account that should be included in the cloud account.
 
-On Day 2, you can set up the additional [[cloud-accounts|cloud accounts]] and service accounts from the same or other providers.
+On Day 2, you can set up the additional cloud accounts and service accounts from the same or other providers.
 
 1.  Use the Configuration Management Database \(CMDB\) data to help you request and manage the cloud resources and manage your cloud infrastructure.
 2.  Manually run the [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r-discovery.md) process on each datacenter in the service account to populate the CMDB with the resource data for all datacenters.
-3.  Configure [[r-discovery|Discovery]] to run on a regular schedule to ensure that the data remains updated.
+3.  Configure Discovery to run on a regular schedule to ensure that the data remains updated.
 
 ## Using Guided Setup to implement Cloud Services Catalog
 
@@ -57,8 +57,3 @@ After you set up the Cloud Services Catalog application, you must set up some ad
 
 **Parent Topic:**[Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-home.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Translation and localization, Configure core features, Administer t
 
 # Dynamic Translation
 
-With [[dynamic-translation|Dynamic Translation]] you can support machine translation from one language to another across your instance.
+With Dynamic Translation you can support machine translation from one language to another across your instance.
 
 Dynamic Translation works with your choice of third-party machine translation services so you can offer your users content in their own languages. Enable your agents to translate form fields, Agent Chat messages, and knowledge articles on demand.
 
@@ -38,7 +38,7 @@ Dynamic Translation works with your choice of third-party machine translation se
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:[[reference-for-dynamic-translation|Reference for Dynamic Translation]] properties, actions, and error messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Reference for Dynamic Translation properties, actions, and error messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
 
 </td><td>
 
@@ -52,7 +52,3 @@ Dynamic Translation works with your choice of third-party machine translation se
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[reference-for-dynamic-translation|Reference for Dynamic Translation]]

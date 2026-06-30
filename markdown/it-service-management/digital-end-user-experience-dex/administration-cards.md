@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # Administration cards
 
-The administration cards provide you with the capability to monitor and manage [[dex-workspace-application-tab|applications]], where you can add, enable, or disable as necessary. You can get insights into the policies applied for compliance, view the list of DEX users and DEX administrators, manage the metric rules and [[dex-workspace-devices-tab|devices]] with Agent Client Collector installed for data analysis.
+The administration cards provide you with the capability to monitor and manage applications, where you can add, enable, or disable as necessary. You can get insights into the policies applied for compliance, view the list of DEX users and DEX administrators, manage the metric rules and devices with Agent Client Collector installed for data analysis.
 
 <table id="table_rjd_p1l_1xb"><thead><tr><th>
 
@@ -82,7 +82,7 @@ Activate the DEX Google ChromeOS or Microsoft Edge extension on your device to c
 
 </td></tr><tr><td>
 
-[[dex-self-service|Digital End-user Experience Self-service]] configuration
+Digital End-user Experience Self-service configuration
 
 </td><td>
 
@@ -152,7 +152,7 @@ Review and manage user devices on which ACC is installed.Agent health also displ
 
 </td></tr><tr><td>
 
-[[proactive-engagement-landing-page|Proactive Engagement]] workbench
+Proactive Engagement workbench
 
 </td><td>
 
@@ -170,25 +170,15 @@ Get an insight of Desktop Assistant usage across all your organization's employe
 </table>To return to the administration details page, see [DEX Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-workspace-administration-tab.md).
 
 -   **[Application management card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/app-mngmt-card.md)**  
-The [[app-mngmt-card|Application management card]] shows the list of the used applications, application type, end-user OS, and whether an application is included in the metrics or compliance monitoring.
+The Application management card shows the list of the used applications, application type, end-user OS, and whether an application is included in the metrics or compliance monitoring.
 -   **[New web or installed application form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/admin-new-app-form.md)**  
-Using a custom form, you can add an application to be monitored for compliance or [[perf-metrics-mob|performance metrics]].
+Using a custom form, you can add an application to be monitored for compliance or performance metrics.
 -   **[Edit web or installed application form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/admin-edit-app-form.md)**  
 Using a custom form, you can edit an application to be monitored for compliance or performance metrics.
 -   **[Metric rules page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/metric-rule-form.md)**  
-The [[metric-rule-form|metric rules page]] shows information about a specific rule, including its name, CI type, application name, alert severity, and alert status.
+The metric rules page shows information about a specific rule, including its name, CI type, application name, alert severity, and alert status.
 -   **[Agent policies list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/agent-policies-list.md)**  
-The [[agent-policies-list|agent policies list]] shows information about each agent policy including its name, status, cron expressions, and updated time.
+The agent policies list shows information about each agent policy including its name, status, cron expressions, and updated time.
 
 **Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-self-service|Digital End-user Experience Self-service]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[app-mngmt-card|Application management card]]
-- [[perf-metrics-mob|Performance metrics]]
-- [[metric-rule-form|Metric rules page]]
-- [[agent-policies-list|Agent policies list]]

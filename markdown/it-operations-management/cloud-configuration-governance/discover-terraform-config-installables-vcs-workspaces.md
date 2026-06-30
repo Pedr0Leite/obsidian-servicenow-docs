@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog Terraform Connector, Cloud Servi
 
 # Run the IaC Discovery
 
-Run the Infrastructure as Code \(IaC\) [[r-discovery|discovery]] to identify the resources of the Terraform environment.
+Run the Infrastructure as Code \(IaC\) discovery to identify the resources of the Terraform environment.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn.cmp.cloud\_service\_designer
 
 ## About this task
 
-Depending on the configuration provider, [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] discovers the following resources from the Terraform environment:
+Depending on the configuration provider, Cloud Services Catalog Terraform Connector discovers the following resources from the Terraform environment:
 
 -   **Terraform Open Source**
 
@@ -54,7 +54,7 @@ Depending on the configuration provider, [[cpg-terraform-connector-landing-page|
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]**.
+1.  Navigate to **All** &gt; **Cloud Provisioning and Governance** &gt; **Cloud Admin Portal**.
 
     The Cloud Admin Portal opens in a new browser tab.
 
@@ -142,9 +142,4 @@ Frequency of schedule execution.Configure the schedule execution frequency in th
     -   Deactivate the affected catalog item, and then create a catalog item per the updated template.
     For more information, see [Manage the Terraform template-based catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-or-update-terraform-based-catalog-item.md).
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

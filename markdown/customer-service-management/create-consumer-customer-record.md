@@ -13,7 +13,7 @@ breadcrumb: [Verify user details, Engage via email interactions, Using Email Int
 
 # Create a consumer or contact record
 
-Create a consumer or contact from the [[lookup-and-verify-overview|Lookup and Verify]] feature in the contextual side panel.
+Create a consumer or contact from the Lookup and Verify feature in the contextual side panel.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ If you can't find a consumer or contact or if the customer is a guest, you can c
 
 3.  In the Interactions section, select **My Interactions**.
 
-4.  Open an [[email-as-an-interaction|email interaction]].
+4.  Open an email interaction.
 
 5.  In the contextual side panel, select the Consumer Verify icon \(\[Omitted image "consumer\_verify\_icon\_EaaI.jpg"\] Alt text: Consumer Verify icon\) or the Contact Verify icon \(\[Omitted image "contact\_verify\_icon\_EaaI.jpg"\] Alt text: Contact Verify icon\).
 
@@ -56,7 +56,3 @@ The system performs these actions:
 -   Creates and displays the consumer or contact card.
 -   Adds the information to the interaction record.
 
-## Related
-
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[email-as-an-interaction|Email Interaction]]

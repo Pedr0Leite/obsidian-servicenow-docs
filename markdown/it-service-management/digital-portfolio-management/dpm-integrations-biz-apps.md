@@ -14,9 +14,9 @@ breadcrumb: [Integrate Digital Portfolio Management with other ServiceNow applic
 
 # View business application data in Digital Portfolio Management
 
-See business application data in the context of your solutions in the [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace.
+See business application data in the context of your solutions in the Digital Portfolio Management \(DPM\) Workspace.
 
-The following image shows the business application data views when you integrate the stated [[dex-workspace-application-tab|applications]] with your DPM Workspace.
+The following image shows the business application data views when you integrate the stated applications with your DPM Workspace.
 
 \[Omitted image "dpm-integrations-biz-apps-DEB.png"\] Alt text: Business application integrations.
 
@@ -104,7 +104,7 @@ Agile data like epics and stories
 
 </td></tr><tr><td>
 
-[[c_ITILChangeManagement|Change Management]]
+Change Management
 
 </td><td>
 
@@ -197,8 +197,3 @@ General information about the business application like relationship data, depar
 
 [View business application details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-business-apps-details.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ITILChangeManagement|Change Management]]

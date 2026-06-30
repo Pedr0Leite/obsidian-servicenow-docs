@@ -24,7 +24,7 @@ To help meet the air-gapped challenge, ServiceNow provides containerized version
 
 ## Procedure
 
-1.  On your ServiceNow instance, navigate to the [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]] Guided Setup page.
+1.  On your ServiceNow instance, navigate to the Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery Guided Setup page.
 
 2.  Select **Get Started**.
 
@@ -84,6 +84,4 @@ To help meet the air-gapped challenge, ServiceNow provides containerized version
     
     ```
 
-## Related
 
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]

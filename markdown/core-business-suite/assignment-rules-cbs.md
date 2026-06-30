@@ -13,7 +13,7 @@ breadcrumb: [Reference, Core Business Suite]
 
 # Assignment rule form
 
-Field descriptions for the Edit assignment rule form, used to define when and how tasks are assigned to a group or user in [[cbs-landing|Core Business Suite]].
+Field descriptions for the Edit assignment rule form, used to define when and how tasks are assigned to a group or user in Core Business Suite.
 
 |Field|Description|
 |-----|-----------|
@@ -30,9 +30,5 @@ Field descriptions for the Edit assignment rule form, used to define when and ho
 |Group|Group to assign the task to when the assignment conditions are met. For example, `HR Request managers`.|
 |User|User to assign the task to when the assignment conditions are met. Can be used with or without a group assignment.|
 
-**Parent Topic:**[[cbs-reference-parent|Core Business Suite reference]]
+**Parent Topic:**[Core Business Suite reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 
-## Related
-
-- [[cbs-reference-parent|Core Business Suite reference]]
-- [[cbs-landing|Core Business Suite]]

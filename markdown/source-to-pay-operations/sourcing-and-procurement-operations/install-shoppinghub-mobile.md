@@ -14,7 +14,7 @@ breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply 
 
 # Install ShoppingHub Mobile
 
-Install the [[shoppinghub-mobile|Shopping Hub Mobile]] application from the ServiceNow Store.
+Install the Shopping Hub Mobile application from the ServiceNow Store.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Enable the mobile experience for Shopping Hub Mobile so that users can complete 
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
 [Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/application-plugin-list.md)
 
@@ -79,7 +79,3 @@ Enable the mobile experience for Shopping Hub Mobile so that users can complete 
 
 [Using Shopping Hub Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-sh-mobile.md)
 
-## Related
-
-- [[shoppinghub-mobile|Shopping Hub Mobile]]
-- [[universal-request|Universal Request]]

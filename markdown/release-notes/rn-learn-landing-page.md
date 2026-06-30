@@ -25,21 +25,15 @@ Before you upgrade, review release notes from your current version to the Austra
 
 <table id="table_qvn_nkz_smb" class="nav-card"><tbody><tr><td>
 
-[Upgrade from Zurich \[Omitted image "n-1-upgrades.png"\] Alt text: icon for the tile upgrade from n-1 to n [[rn-n-1-landing-page|Release notes for upgrading from Zurich]] to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-n-1-landing-page.md)
+[Upgrade from Zurich \[Omitted image "n-1-upgrades.png"\] Alt text: icon for the tile upgrade from n-1 to n Release notes for upgrading from Zurich to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-n-1-landing-page.md)
 
 </td><td>
 
-[Upgrade from Yokohama \[Omitted image "n-2-upgrades.png"\] Alt text: icon for the tile upgrade from n-2 to n [[rn-n-2-landing-page|Release notes for upgrading from Yokohama]] to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-n-2-landing-page.md)
+[Upgrade from Yokohama \[Omitted image "n-2-upgrades.png"\] Alt text: icon for the tile upgrade from n-2 to n Release notes for upgrading from Yokohama to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-n-2-landing-page.md)
 
 </td><td>
 
-[Upgrade from Xanadu \[Omitted image "n-3-upgrades.png"\] Alt text: icon for the tile upgrade from n-3 to n [[rn-n-3-landing-page|Release notes for upgrading from Xanadu]] to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-n-3-landing-page.md)
+[Upgrade from Xanadu \[Omitted image "n-3-upgrades.png"\] Alt text: icon for the tile upgrade from n-3 to n Release notes for upgrading from Xanadu to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-n-3-landing-page.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[rn-n-1-landing-page|Release notes for upgrading from Zurich]]
-- [[rn-n-2-landing-page|Release notes for upgrading from Yokohama]]
-- [[rn-n-3-landing-page|Release notes for upgrading from Xanadu]]

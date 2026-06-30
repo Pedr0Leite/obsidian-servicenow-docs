@@ -20,11 +20,11 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-The [[r_CustomerServiceCaseForm|Case form]] displays [[osp-contextual-search|contextual search]] results based on text entered in the **Short Description** field. These search results provide targeted knowledge articles, pinned articles, and community content to customer service agents.
+The Case form displays contextual search results based on text entered in the **Short Description** field. These search results provide targeted knowledge articles, pinned articles, and community content to customer service agents.
 
 Customer service agents can search for information that is related to a case when opening a case or in a case that is already open. If the search results in any related content, the agent can preview the content. If the information is relevant, the agent can mark it as helpful. Knowledge articles can be also attached to the case.
 
-By default, search results include knowledge articles, pinned articles, and solved community questions and blogs. Depending on the configuration, search results can also include other types of information, such as open and resolved cases and problems. With the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\), you can also view similar cases and similar knowledge articles.
+By default, search results include knowledge articles, pinned articles, and solved community questions and blogs. Depending on the configuration, search results can also include other types of information, such as open and resolved cases and problems. With the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\), you can also view similar cases and similar knowledge articles.
 
 Customer service case managers can use the Demand Insights for Cases dashboard to identify which cases have no or insufficient knowledge coverage. For more information, see [Demand Insights for Cases dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/demand-insights-cases-dashboard.md).
 
@@ -36,7 +36,7 @@ Customer service case managers can use the Demand Insights for Cases dashboard t
 
     -   Open a new case and start typing in the **Short description** field.
     -   Open an existing case and click **Related Search Results**.
-    Any matching search results are displayed in the **Related Search Results** section. The content displayed depends on the permissions assigned to the agent in Knowledge and [[servicenow-communities|Communities]].
+    Any matching search results are displayed in the **Related Search Results** section. The content displayed depends on the permissions assigned to the agent in Knowledge and Communities.
 
 3.  Click one of the results to open the content in a pop-up window.
 
@@ -86,10 +86,3 @@ Use the arrow keys to scroll up to the previous or down to the next result.
     -   If you opened a case, click **Submit**.
     -   If you updated an existing case, click **Update**.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[servicenow-communities|Communities]]

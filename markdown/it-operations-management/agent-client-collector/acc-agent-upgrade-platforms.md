@@ -15,7 +15,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Supported platforms for Agent Client Collector auto-upgrade
 
-Operating systems and package types supported for [[acc-landing-page|Agent Client Collector]] auto-upgrade, and the minimum agent version required.
+Operating systems and package types supported for Agent Client Collector auto-upgrade, and the minimum agent version required.
 
 The minimum agent version for upgrade eligibility is 2.7.0 on all platforms. Agents on unsupported platforms are skipped with error code ACC-5005.
 
@@ -106,6 +106,3 @@ Agents must run with elevated privileges on the host to perform a self-upgrade:
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

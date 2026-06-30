@@ -12,7 +12,7 @@ breadcrumb: [Common Security Operations integration flows and orchestration acti
 
 # Filter Allowlisted Observables activity
 
-The Filtered Allowlisted [[c_Observables|Observables]] workflow activity removes observables that can be ignored from the list of observables. This activity can accelerate the investigation and remediation process.
+The Filtered Allowlisted Observables workflow activity removes observables that can be ignored from the list of observables. This activity can accelerate the investigation and remediation process.
 
 The Filter Allowlisted Observables activity can be used with any workflow to filter observables prior to taking any action.
 
@@ -41,9 +41,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |filteredObservables|Filtered observables.|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[c_Observables|Observables]]

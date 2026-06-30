@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-**Important:** This task is applicable only if you have installed the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application along with [[cloud-insights-landing-page|Cloud Cost Management]] version 8.1.
+**Important:** This task is applicable only if you have installed the Cloud Cost Management Infra Stack application along with Cloud Cost Management version 8.1.
 
 A single Azure billing blob can be large, resulting in performance issues during the download. If you have installed the Cloud Cost Management Infra Stack application, bill processing only happens on the Kubernetes cluster that's outside Glide but within ServiceNow datacenters. This new framework with Kubernetes cluster supports parallel processing of multiple chunks of blobs, making the billing file download faster. You can also set the system property **sn\_cld\_intg\_azure.billing\_chunk\_duration** to specify the duration in number of days for which the billing data will be included in each chunk.
 
@@ -40,7 +40,4 @@ A single Azure billing blob can be large, resulting in performance issues during
 
 4.  Save the property.
 
-## Related
 
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

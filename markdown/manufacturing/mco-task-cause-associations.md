@@ -12,7 +12,7 @@ breadcrumb: [Create a root cause analysis, Product Non-conformance without playb
 
 # Associating a task cause
 
-Associate a cause to a RCA for the root cause analysis of the [[mco-product-non-conformances|product non-conformance]].
+Associate a cause to a RCA for the root cause analysis of the product non-conformance.
 
 ## Before you begin
 
@@ -74,9 +74,5 @@ Type of task cause.-   Possible
 </table>4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-root-cause-analysis-task|Create a root cause analysis]]
+**Parent Topic:**[Create a root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-root-cause-analysis-task.md)
 
-## Related
-
-- [[mco-root-cause-analysis-task|Create a root cause analysis]]
-- [[mco-product-non-conformances|Product non-conformance]]

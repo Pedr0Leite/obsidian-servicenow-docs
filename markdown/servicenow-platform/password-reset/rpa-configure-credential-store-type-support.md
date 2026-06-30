@@ -22,7 +22,7 @@ Role required: password\_reset\_credential\_manager, password\_reset\_admin, or 
 
 ## About this task
 
-Users can easily reset their passwords for the credential stores that don't have REST APIs to reset the password. For example, the [[password-reset-landing-page|password reset]] subflows support Robotic Process Automation. The Password Reset process can be automated with a Robotic Process Automation robot to reset the password of an application that does not have an API to reset the password.
+Users can easily reset their passwords for the credential stores that don't have REST APIs to reset the password. For example, the password reset subflows support Robotic Process Automation. The Password Reset process can be automated with a Robotic Process Automation robot to reset the password of an application that does not have an API to reset the password.
 
 For more information about Robotic Process Automation, see [Robotic Process Automation \(RPA\) Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-explore.md).
 
@@ -32,7 +32,7 @@ For more information about Robotic Process Automation, see [Robotic Process Auto
 
 2.  Open the credential store type.
 
-3.  To use password reset subflows in the Integration Hub, leave the **Use Flow** [[check-box|check box]] selected.
+3.  To use password reset subflows in the Integration Hub, leave the **Use Flow** check box selected.
 
 4.  In the **Password reset flow** field, enter a required value for the password reset subflow.
 
@@ -40,15 +40,10 @@ For more information about Robotic Process Automation, see [Robotic Process Auto
 
 6.  If you want your users to change the password immediately after signing in post password reset, select the **Supports Force Password Change On First Log In** check box.
 
-    **Note:** Ensure that the **User must reset password** check box is selected on the [[configure-password-reset-form|Password Reset Process form]] of the associated process. But these settings of changing passwords after first sign-in post reset work only if the credential store you are configuring supports the settings.
+    **Note:** Ensure that the **User must reset password** check box is selected on the Password Reset Process form of the associated process. But these settings of changing passwords after first sign-in post reset work only if the credential store you are configuring supports the settings.
 
 7.  Click **Update** or save the changes.
 
 
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]
-- [[configure-password-reset-form|Password Reset Process form]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**.
 
 2.  Open an email notification record.
 
@@ -37,9 +37,5 @@ Role required: admin
 7.  On the form, click **Update**.
 
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]

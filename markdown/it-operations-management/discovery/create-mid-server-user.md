@@ -22,8 +22,8 @@ Create a user account with the mid\_server role so MID Servers can authenticate 
 Verify the following:
 
 -   You're using the Zurich Patch 8 or later version of the ServiceNow AI Platform.
--   You have installed the [[itom-visibility-landing-page|ITOM Visibility]] plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
--   You have installed the Now Assist for [[r_ITOMApplications|IT Operations Management]] plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
+-   You have installed the ITOM Visibility plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
+-   You have installed the Now Assist for IT Operations Management plugin. For more information, see [Install Now Assist for IT Operations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/install-na-itom.md).
 -   You're on the Configure IT Operations Management page of the Configuration Console. For more information, see [Access the ITOM Configuration Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/access-itom-config-console-disco.md).
 
 Role required: admin
@@ -32,11 +32,11 @@ Role required: admin
 
 MID Servers require a MID Server user account to authenticate with the instance. Assigning the mid\_server role allows the MID Server to connect and pass validation checks. ServiceNow monitors MID Server user settings to help prevent validation failures. You can use a dedicated user per MID Server or share a user across multiple MID Servers.
 
-**Note:** Using the same logged‑in user across multiple MID Servers can generate issue records when more than one MID Server is **Up**. Configure a unique logged‑in user per MID Server. See [\(KB1552863\) MID Server Unique Logged In User](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1552863) for more information and [[ccg-remediation|remediation]] steps.
+**Note:** Using the same logged‑in user across multiple MID Servers can generate issue records when more than one MID Server is **Up**. Configure a unique logged‑in user per MID Server. See [\(KB1552863\) MID Server Unique Logged In User](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1552863) for more information and remediation steps.
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[r-discovery|Discovery]]** &gt; **Platform foundations**.
+1.  Navigate to **Configuration Summary** &gt; **Discovery** &gt; **Platform foundations**.
 
 2.  Expand **Platform foundations**.
 
@@ -79,7 +79,7 @@ Enter a password for the MID Server user. This password is specified in the **mi
 
     You're returned to the MID server user page.
 
-    **Note:** The MID Server user is limited to MID Server setup. To complete [[discovery-setup|Discovery setup]] through the ITOM Configuration Console, you must have the discovery\_admin role.
+    **Note:** The MID Server user is limited to MID Server setup. To complete Discovery setup through the ITOM Configuration Console, you must have the discovery\_admin role.
 
 7.  To complete the setup, select **Mark as configured**.
 
@@ -89,10 +89,3 @@ Enter a password for the MID Server user. This password is specified in the **mi
 
 [Create the MID Server user and grant the role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetupMIDServerRole.md)
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[ccg-remediation|Remediation]]
-- [[r-discovery|Discovery]]
-- [[discovery-setup|Discovery setup]]

@@ -28,7 +28,7 @@ For more details on calibration attributes, see [Add calibration attributes to a
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Admin center view.
+1.  From the Enterprise Asset Workspace, open the Admin center view.
 
 2.  From the left navigation menu of the Admin center view, navigate to **Calibration configuration** &gt; **Service frequency**.
 
@@ -49,6 +49,3 @@ For more details on calibration attributes, see [Add calibration attributes to a
 
 The service frequency is available to use in your calibration attributes.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

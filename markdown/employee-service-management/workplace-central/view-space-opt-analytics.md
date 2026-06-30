@@ -14,12 +14,12 @@ breadcrumb: [Working with Workplace Analytics, Use, Workplace Central, Workplace
 
 # View Space Optimization metrics
 
-Use the [[space-optimization|Space Optimization]] dashboard [[workplace-analytics|Workplace Analytics]] to analyze space capacity and utilization trends to achieve optimal use of workspaces.
+Use the Space Optimization dashboard Workplace Analytics to analyze space capacity and utilization trends to achieve optimal use of workspaces.
 
 ## Prerequisites for accessing the Space Optimization dashboard
 
--   Ensure that the [[workplace-central-feat|Workplace Central]] application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
--   Ensure that the [[workplace-space-mgmt-ovw|Workplace Space Management]] \(sn\_wsd\_spcmgmt\) application is installed. For more information, see [Install Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/install-workplace-space-mgmt.md).
+-   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
+-   Ensure that the Workplace Space Management \(sn\_wsd\_spcmgmt\) application is installed. For more information, see [Install Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/install-workplace-space-mgmt.md).
 -   Ensure that the Workplace Central and Workplace Space Management applications and all of their associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Run the scheduled job **Workplace Analytics Space Management report data generation** before viewing the Space Optimization dashboard for the first time. For more information, see [Run the scheduled job for the Space Optimization dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/run-job-space-opt-dashboard.md).
 
@@ -57,7 +57,7 @@ Utilization is calculated using the following criteria:
 
 -   For employees with permanent seat allocation, space utilization is calculated using the reservation properties Start time of the working day \[sn\_wsd\_rsv.day\_start\] and End time of the working day \[sn\_wsd\_rsv.day\_end\].
 -   For employees that don’t have a permanent seat allocation, space utilization is calculated from the total reservation time in day's work shift hours. The work shift or office hours is calculated from the Start time of the working day \[sn\_wsd\_rsv.day\_start\] and End time of the working day \[sn\_wsd\_rsv.day\_end\].
--   For example, if the office work hours are 9 hours and a meeting room is reserved for 11 hours, the total utilization in this case is 9 hours. The Start time of the working day \[sn\_wsd\_rsv.day\_start\] and End time of the working day \[sn\_wsd\_rsv.day\_end\] properties are used while calculating office hours. The unallocated hours in a day for a reserved space aren’t considered while calculating the total reservation time duration for a day or a multi-day reservation. The reservation property for office hours is set in **\(** &gt; **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Properties**.
+-   For example, if the office work hours are 9 hours and a meeting room is reserved for 11 hours, the total utilization in this case is 9 hours. The Start time of the working day \[sn\_wsd\_rsv.day\_start\] and End time of the working day \[sn\_wsd\_rsv.day\_end\] properties are used while calculating office hours. The unallocated hours in a day for a reserved space aren’t considered while calculating the total reservation time duration for a day or a multi-day reservation. The reservation property for office hours is set in **\(** &gt; **All** &gt; **Workplace Reservation Management** &gt; **Properties**.
 
 -   **Capacity vs utilization**
 
@@ -141,10 +141,3 @@ As an admin, run the scheduled job **Workplace Analytics Space Management report
 
 [Manage Workplace Dashboards]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

@@ -22,7 +22,7 @@ Role required: sn\_vaccine\_sm.admin
 
 ## About this task
 
-[[hcls-vam|Vaccine Administration Management]] provides an appointment configuration that you can modify to meet your organization's requirements.
+Vaccine Administration Management provides an appointment configuration that you can modify to meet your organization's requirements.
 
 Appointments are automatically scheduled for users according to the configuration that you set up. If the automatically scheduled time isn’t convenient, the users can select a different appointment time in the portal.
 
@@ -45,6 +45,3 @@ Appointments are automatically scheduled for users according to the configuratio
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

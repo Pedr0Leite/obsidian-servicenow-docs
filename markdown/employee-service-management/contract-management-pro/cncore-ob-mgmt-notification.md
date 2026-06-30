@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Obligation Management notifications
 
-[[cncore-obligation-management|Obligation Management]] uses email notifications to notify obligation fulfiller and obligation users when an obligation task is created, assigned, submitted, approved, or rejected.
+Obligation Management uses email notifications to notify obligation fulfiller and obligation users when an obligation task is created, assigned, submitted, approved, or rejected.
 
 |Name|Recipient|Title|
 |----|---------|-----|
@@ -64,6 +64,3 @@ For information about how to activate notifications, see [Configure Obligation M
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

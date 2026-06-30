@@ -14,17 +14,17 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Add tasks to an activity set using Journey designer
 
-Add tasks to a [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] [[activity-lxp|activity]] set to personalize an employee’s journey. Adding tasks gives you the flexibility to tailor journeys to individual employee needs without modifying the underlying journey configuration.
+Add tasks to a Lifecycle Events activity set to personalize an employee’s journey. Adding tasks gives you the flexibility to tailor journeys to individual employee needs without modifying the underlying journey configuration.
 
 ## Before you begin
 
-An administrator must [[enable-team-tasks|enable team tasks]] before you can add tasks to an activity set from the Journey detail page. For more information about enabling this feature, see [Enable team tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/enable-team-tasks.md).
+An administrator must enable team tasks before you can add tasks to an activity set from the Journey detail page. For more information about enabling this feature, see [Enable team tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/enable-team-tasks.md).
 
 Role required: manager \[sn\_jny.reader or sn\_jny.writer\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Journeys**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Journeys**.
 
 2.  Select a journey for an employee on your team.
 
@@ -61,7 +61,7 @@ Task type
 The type of task that you want to assign to your employee.Use the drop-down list to select the task that you want to assign. You can select from the following options:
 
 -   **Add a catalog request**
--   **Add a [[exploring-learning-exp|learning]] assignment**
+-   **Add a learning assignment**
 -   **Add an order guide**
 -   **Complete a general to-do**
 -   **Schedule a meeting**
@@ -135,10 +135,3 @@ Check box to specify whether the task is optional.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[enable-team-tasks|Enable team tasks]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

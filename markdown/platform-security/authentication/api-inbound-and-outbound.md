@@ -15,9 +15,9 @@ breadcrumb: [Authentication, Access Management]
 
 # OAuth Inbound and Outbound authentication
 
-[[oauth-inbound-and-outbound|OAuth]] based [[c_Authentication|authentication]] validates the [[identity-landing|identity]] of the client that attempts to establish a trust on the system by using an authentication protocol.
+OAuth based authentication validates the identity of the client that attempts to establish a trust on the system by using an authentication protocol.
 
-[[c_OAuthApplications|OAuth 2.0]] - Open Authorization is the industry-standard protocol for authorization, that ocuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, and mobile devices.
+OAuth 2.0 - Open Authorization is the industry-standard protocol for authorization, that ocuses on client developer simplicity while providing specific authorization flows for web applications, desktop applications, and mobile devices.
 
 It is a standard that is designed to allow a website or application to access resources hosted by other web apps on behalf of a user.
 
@@ -27,7 +27,7 @@ From Zurich, you can configure OAuth integration with the following enhancements
 
 -   Increase client secret length to 2048 characters to meet security requirements of third-party systems like Azure DevOps \(ADO\).
 -   Provide a JSON Web Key Set \(JWKS\) URL to automatically manage and update the public key for JSON Web Tokens \(JWT\) signature validation.
--   [[c_requestAPI|Request]] OAuth tokens using the JWT grant type signed with Enhanced Security \(ES\) algorithms.
+-   Request OAuth tokens using the JWT grant type signed with Enhanced Security \(ES\) algorithms.
 -   Configure a unique identifier for JWT tokens.
 
 ## Inbound
@@ -38,10 +38,3 @@ Create an endpoint for external clients that want to access your instance. This 
 
 Use a third-party OAuth provider that provides the authorization for access to your instance. Specify an OAuth profile and OAuth scope when you are connecting to another OAuth provider. For more information see, [OAuth Outbound](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/oauth-outbound.md).
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[c_requestAPI|request]]

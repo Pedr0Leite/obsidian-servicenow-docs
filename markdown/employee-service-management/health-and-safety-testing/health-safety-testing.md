@@ -18,11 +18,11 @@ Streamline the user health testing process to help organizations reduce the spre
 
 \[Omitted image "health-safety-testing.png"\] Alt text: Request, schedule, and report testing with the Health and Safety Testing application.
 
-The ServiceNow® Health and Safety Testing application streamlines the user health testing process to identify affected users and help reduce the spread of infectious diseases in the workplace. It provides organizations, where they are legally required or permitted to use them, with two options: request that users get tested or allow users to request optional health testing upon being notified of potential exposure to an infectious disease, such as COVID-19. Users can submit health testing preferences such as test type and preferred testing date and location. Administrators can use the employee request forms to coordinate testing availability and scheduling. After health testing is complete, users can use Health and Safety Testing to provide a test result to satisfy the organization’s [[health-safety-overview|health and safety]] requirement, clearing the user for a safe return to the workplace.
+The ServiceNow® Health and Safety Testing application streamlines the user health testing process to identify affected users and help reduce the spread of infectious diseases in the workplace. It provides organizations, where they are legally required or permitted to use them, with two options: request that users get tested or allow users to request optional health testing upon being notified of potential exposure to an infectious disease, such as COVID-19. Users can submit health testing preferences such as test type and preferred testing date and location. Administrators can use the employee request forms to coordinate testing availability and scheduling. After health testing is complete, users can use Health and Safety Testing to provide a test result to satisfy the organization’s health and safety requirement, clearing the user for a safe return to the workplace.
 
 ## Use with other Safe Workplace suite applications
 
-Health and Safety Testing is part of a suite of ServiceNow® [[safe-workplace|Safe Workplace]] suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
+Health and Safety Testing is part of a suite of ServiceNow® Safe Workplace suite applications. Use it with these other applications to help your organization prepare its workforce and workplaces to resume operations after emergencies and pandemics like COVID-19.
 
 -   With the [Employee Readiness Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-readiness-surveys.md) application, evaluate the readiness of your users to return to the workplace by asking them to fill in a survey.
 -   Before users re-enter workspaces, use the [Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md) application to screen users and ensure compliance with your entry requirements, such as a temperature check and PPE.
@@ -58,7 +58,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -100,29 +100,19 @@ All decisions in connection with the implementation of this application are at t
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
 -   **[Install Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/install-health-testing.md)**  
-You can [[install-health-testing|install Health and Safety Testing]] if you have the admin role.
+You can install Health and Safety Testing if you have the admin role.
 -   **[Configure Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/configure-health-safety-testing.md)**  
 Complete all configuration tasks to ensure that Health and Safety Testing is set up correctly for your company.
 -   **[Request a COVID-19 diagnostic test](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/request-health-test.md)**  
-[[request-health-test|Request a COVID-19 diagnostic test]] if you have been potentially exposed, are having symptoms, or want testing for another reason.
+Request a COVID-19 diagnostic test if you have been potentially exposed, are having symptoms, or want testing for another reason.
 -   **[Report your COVID-19 diagnostic test result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/report-health-test-result.md)**  
-If you would like to provide your company with an update on your health status, [[report-health-test-result|report your COVID-19 diagnostic test result]].
+If you would like to provide your company with an update on your health status, report your COVID-19 diagnostic test result.
 -   **[Review your health test results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/review-your-health-test-results.md)**  
 If you would like to review your recently reported COVID-19 diagnostic test result or add an attachment to a health test, access your previous test results.
 -   **[Confirm COVID-19 test results for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/confirm-health-test-result.md)**  
-Confirm a user's reported COVID-19 test results through the [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]].
+Confirm a user's reported COVID-19 test results through the Employee Readiness Core Approval Portal.
 -   **[Health and Safety Testing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-and-safety-testing-dashboard.md)**  
-Use the [[health-and-safety-testing-dashboard|Health and Safety Testing dashboard]] to gain insight on the health of your users with reports detailing testing trends, the types of tests performed, and approvals.
+Use the Health and Safety Testing dashboard to gain insight on the health of your users with reports detailing testing trends, the types of tests performed, and approvals.
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[install-health-testing|Install Health and Safety Testing]]
-- [[request-health-test|Request a COVID-19 diagnostic test]]
-- [[report-health-test-result|Report your COVID-19 diagnostic test result]]
-- [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]]
-- [[health-and-safety-testing-dashboard|Health and Safety Testing dashboard]]

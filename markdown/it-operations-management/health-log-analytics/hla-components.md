@@ -14,7 +14,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Components installed with Health Log Analytics
 
-Activating the [[hla-landing-page|Health Log Analytics]], Health Log Analytics Viewer and Health Log Analytics Core plugins adds several components.
+Activating the Health Log Analytics, Health Log Analytics Viewer and Health Log Analytics Core plugins adds several components.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -47,7 +47,7 @@ Health Log Analytics Viewer
 
 </td><td>
 
-[[c_EM|Event Management]] operators use the Health Log Analytics Viewer plugin to browse logs by timestamp or time range. Health Log Analytics Viewer enables Event Management operators to search for a specific log text and visualize the frequency of hits in a particular time period.Dependency: The ServiceNow® [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md) application.
+Event Management operators use the Health Log Analytics Viewer plugin to browse logs by timestamp or time range. Health Log Analytics Viewer enables Event Management operators to search for a specific log text and visualize the frequency of hits in a particular time period.Dependency: The ServiceNow® [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md) application.
 
 </td></tr><tr><td>
 
@@ -67,7 +67,7 @@ Health Log Analytics uses the following roles.
 |Role title \[name\]|Description|
 |-------------------|-----------|
 |Event Management Administrator \[evt\_mgmt\_admin\]|Has read and write access to all Event Management features to configure Health Log Analytics.|
-|Event Management Operator \[evt\_mgmt\_operator\]|Has read access to all Event Management features. Has write access to alerts to manage the alert life cycle. Has the itil role to manage incidents created from alerts. Can also activate operations on alerts, such as to acknowledge, close, and open an incident and [[ccg-run-remediation|run remediation]].|
+|Event Management Operator \[evt\_mgmt\_operator\]|Has read access to all Event Management features. Has write access to alerts to manage the alert life cycle. Has the itil role to manage incidents created from alerts. Can also activate operations on alerts, such as to acknowledge, close, and open an incident and run remediation.|
 
 ## Lists
 
@@ -135,7 +135,7 @@ Excluded Values \[sn\_occ\_auto\_service\_normalizer\]
 
 </td><td>
 
-Enables [[hla-configuring|configuring Health Log Analytics]] to stop extracting specific log data that is not descriptive enough or contains redundant text or information.
+Enables configuring Health Log Analytics to stop extracting specific log data that is not descriptive enough or contains redundant text or information.
 
 </td></tr><tr><td>
 
@@ -260,9 +260,3 @@ Health Log Analytics adds the following forms.
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]
-- [[ccg-run-remediation|Run remediation]]
-- [[hla-configuring|Configuring Health Log Analytics]]

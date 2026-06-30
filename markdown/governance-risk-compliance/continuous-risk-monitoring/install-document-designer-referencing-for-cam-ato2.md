@@ -14,7 +14,7 @@ breadcrumb: [Configuring ATO artifacts report templates, CAM reference, Continuo
 
 # Install the ServiceNow Document Designer add-in
 
-Install the ServiceNow Document designer add-in to your Microsoft Word document to create audit and CAM report templates and generate report content using the [[ai-reporting-assistant|AI Reporting Assistant]].
+Install the ServiceNow Document designer add-in to your Microsoft Word document to create audit and CAM report templates and generate report content using the AI Reporting Assistant.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ There are several properties that get installed with the Document designer plugi
 
 [AI reporting assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/ai-reporting-assistant.md)
 
-## Related
-
-- [[ai-reporting-assistant|AI reporting assistant]]

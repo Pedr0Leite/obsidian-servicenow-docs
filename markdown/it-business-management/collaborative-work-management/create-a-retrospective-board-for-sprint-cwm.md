@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Create a retrospective board for a sprint in CWM
 
-When marking a sprint complete, choose to create a sprint retrospective board for your team to collaborate and reflect on the recent sprint in [[cwm-landing|Collaborative Work Management]].
+When marking a sprint complete, choose to create a sprint retrospective board for your team to collaborate and reflect on the recent sprint in Collaborative Work Management.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ A new retrospective Board is created for the sprint that is just marked complete
 
 **Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-sprint-planning-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

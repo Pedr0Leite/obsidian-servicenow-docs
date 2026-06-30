@@ -14,7 +14,7 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Create LEAP problem records
 
-Create problem records for LEAP from available incident clusters, also known as [[automation-opportunities|automation opportunities]], for further analysis.
+Create problem records for LEAP from available incident clusters, also known as automation opportunities, for further analysis.
 
 ## Before you begin
 
@@ -55,9 +55,6 @@ The automated data transfer is characterized with:
 
     \[Omitted image "create-leap-problem-record-updated.png"\] Alt text: Create problem records
 
-    Another option is to invoke the [[leap-ai-agent|LEAP AI agent]] by selecting the Explore button \[Omitted image "explore-button.png"\] Alt text: Explore button and creating problem record.
+    Another option is to invoke the LEAP AI agent by selecting the Explore button \[Omitted image "explore-button.png"\] Alt text: Explore button and creating problem record.
 
-## Related
 
-- [[automation-opportunities|Automation opportunities]]
-- [[leap-ai-agent|LEAP AI agent]]

@@ -18,7 +18,7 @@ Provides prescriptive guidance to improve IT Asset Management \(ITAM\) health.
 
 ## Accelerator Overview
 
-This accelerator provides [[impact-landing-page|Impact]] Customers with an analysis of common IT Asset Management problem areas through HealthScan along with recommendations on addressing those findings. It aims to [[io-help|help]] customers understand how to identify problem areas within your ITAM setup, including a review of the top challenging areas and leading practices on how to best remediate gaps.
+This accelerator provides Impact Customers with an analysis of common IT Asset Management problem areas through HealthScan along with recommendations on addressing those findings. It aims to help customers understand how to identify problem areas within your ITAM setup, including a review of the top challenging areas and leading practices on how to best remediate gaps.
 
 ## Package Availability
 
@@ -63,7 +63,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing IT Asset Management recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

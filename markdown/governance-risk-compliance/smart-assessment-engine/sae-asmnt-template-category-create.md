@@ -14,7 +14,7 @@ breadcrumb: [Create an assessment template, Use template designer, Manage, Smart
 
 # Create an assessment template category
 
-Create an assessment template category in the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application so that you can organize and grant access to the [[airc-assessment-templates|assessment templates]] that are related.
+Create an assessment template category in the Smart Assessment Engine application so that you can organize and grant access to the assessment templates that are related.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Additional fields may appear on this form depending on which plugins are active.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Smart Assessment Engine** &gt; **[[Administration|Administration]]** &gt; **Template Categories**.
+1.  Navigate to **All** &gt; **Smart Assessment Engine** &gt; **Administration** &gt; **Template Categories**.
 
 2.  On the Assessment template categories list, select **New** and then fill in the form.
 
@@ -80,7 +80,7 @@ Is AI response enabled
 
 </td><td>
 
-Option to activate automated AI-generated responses for assessments associated with that category. When this option is selected, responders working on assessments triggered from templates in this category see the **Draft responses with AI** action and can run the [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] on those assessments. The Smart Assessment Response Assist skill must also be turned on in the Now Assist Admin console for the action to be functional. For more information, see [Activate smart assessment response assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/activate-smart-assessment-response-assist-skill.md).
+Option to activate automated AI-generated responses for assessments associated with that category. When this option is selected, responders working on assessments triggered from templates in this category see the **Draft responses with AI** action and can run the Smart Assessment Response Assist skill on those assessments. The Smart Assessment Response Assist skill must also be turned on in the Now Assist Admin console for the action to be functional. For more information, see [Activate smart assessment response assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/activate-smart-assessment-response-assist-skill.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -102,7 +102,7 @@ Inherit read access for embedded assessment
 
 Option that enables read-access inheritance from a parent record to assessments triggered from templates in this category. When selected, assessments in this category inherit read access from the parent record in which they are embedded — a user must have both the Smart Assessment role required for the assessment and read access to the parent record to view the assessment.
 
- For more information on [[embedded-assessments|embedded assessments]], see [Embedded assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/embedded-assessments.md).
+ For more information on embedded assessments, see [Embedded assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/embedded-assessments.md).
 
 </td></tr><tr><td>
 
@@ -161,10 +161,4 @@ Default normalization strategy for an assessment assigned with this category. Th
 
     The system generates the assessment template category and adds it to the list of categories that can be specified when designing an assessment template. Active categories are only available for use while categorizing templates.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[Administration|Administration]]
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[embedded-assessments|Embedded assessments]]

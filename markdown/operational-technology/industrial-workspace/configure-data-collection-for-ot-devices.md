@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Visibility dashboard, Configu
 
 # Configure the data collection for Operational Technology devices
 
-Configure the data collection for [[operational-technology-overview|Operational Technology]] \(OT\) devices so that you can collect and display the daily data for all indicators from Performance Analytics. This configuration ensures that your OT data is displayed accurately on the OT Visibility dashboard.
+Configure the data collection for Operational Technology \(OT\) devices so that you can collect and display the daily data for all indicators from Performance Analytics. This configuration ensures that your OT data is displayed accurately on the OT Visibility dashboard.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Now, you can review the indicator sources and determine if you need to override 
 
 **Parent Topic:**[Setting up the Operational Technology Visibility dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-devices-dashboard.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

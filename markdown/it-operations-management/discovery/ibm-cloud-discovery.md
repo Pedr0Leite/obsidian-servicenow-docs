@@ -38,7 +38,7 @@ Order
 
 </td><td>
 
-Order \(sequence\) in which [[r-discovery|Discovery]] tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Bluemix API Key
 Bluemix API key.
 
 </td></tr></tbody>
-</table>## Data collected by [[c_ServiceMappingOverview|Service Mapping]] during top-down discovery
+</table>## Data collected by Service Mapping during top-down discovery
 
 To include discovered components into service instances, enable CI relationships used in tag-based discovery by Service Mapping. These CI relationships are available from the 1.0.68 release on the ServiceNow Store. For operational steps, see [Tag-based discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag_discovery_configuration.md).
 
@@ -437,7 +437,3 @@ locationGroupType.name
 |allow\_ssh|allow\_ssh|
 |guid|metadata.guid|
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

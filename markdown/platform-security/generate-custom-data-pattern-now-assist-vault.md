@@ -16,7 +16,7 @@ Use the generate custom data pattern skill to create a custom regular expression
 
 ## Before you begin
 
--   [[install-vault|Install ServiceNow Vault]]. For more information, see [[configuring-servicenow-vault|Configuring ServiceNow Vault]].
+-   Install ServiceNow Vault. For more information, see [Configuring ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-servicenow-vault.md).
 -   Ensure that the generate custom data pattern skill is active. For more information, see [Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md).
 
 Role required: sn\_vault\_console.vault\_console\_admin
@@ -34,10 +34,5 @@ This skill improves your efficiency by reducing the time required to understand 
     Example prompt: `I need help creating a regex to detect sensitive data for a Netherlands drivers license.`
 
 
-**Parent Topic:**[[using-now-assist-vault|Use generative AI skills in Now Assist for Vault]]
+**Parent Topic:**[Use generative AI skills in Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-now-assist-vault.md)
 
-## Related
-
-- [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
-- [[using-now-assist-vault|Use generative AI skills in Now Assist for Vault]]
-- [[install-vault|Install ServiceNow Vault]]

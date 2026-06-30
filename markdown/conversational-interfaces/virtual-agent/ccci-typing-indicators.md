@@ -16,7 +16,7 @@ breadcrumb: [Supported features for custom chat integrations, Conversational cus
 
 Display a typing indicator when a bot or live agent is preparing a response to a requester.
 
-When [[virtual-agent-landing-page|Virtual Agent]] processes a request, the Start typing indicator action is called. When Virtual Agent completes the request processing, the End typing indicator action is called before Virtual Agent processes any output or input controls.
+When Virtual Agent processes a request, the Start typing indicator action is called. When Virtual Agent completes the request processing, the End typing indicator action is called before Virtual Agent processes any output or input controls.
 
 These actions call the defaultText control outbound transformation. The following example shows how the typing indicator is handled in the defaultText control outbound transformation.
 
@@ -42,6 +42,3 @@ Example: Typing indicator script
 
 **Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-features-custom-chat-integrations.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

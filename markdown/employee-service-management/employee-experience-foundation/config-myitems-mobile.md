@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Navigate to **System Mobile** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **Applet Launchers**.
+1.  Navigate to **System Mobile** &gt; **Now Mobile App** &gt; **Applet Launchers**.
 
 2.  In the Launcher screens page, select **Homepage**.
 
@@ -41,6 +41,3 @@ You have set up My items on your Now Mobile® application.
 
 **Parent Topic:**[Configure Now Mobile Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/nm-home.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

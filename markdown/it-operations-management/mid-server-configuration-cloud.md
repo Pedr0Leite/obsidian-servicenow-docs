@@ -16,7 +16,7 @@ Install and configure the MID Servers correctly to enable ITOM products to acces
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or sn\_cmp.cloud\_admin \(for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]\)
+Role required: discovery\_admin or sn\_cmp.cloud\_admin \(for Cloud Provisioning and Governance\)
 
 ## About this task
 
@@ -62,16 +62,10 @@ Role required: [[r-discovery|discovery]]\_admin or sn\_cmp.cloud\_admin \(for [[
     For a description of the parameter values, see the **Proxy server parameters** section in [MID Server parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-parameters.md).
 
 
-**Parent Topic:**[[accessing-cloud-itom|Access to cloud environments for ITOM products]]
+**Parent Topic:**[Access to cloud environments for ITOM products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/accessing-cloud-itom.md)
 
 **Related topics**  
 
 
-[[mid-server-proxy|Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance]]
+[Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-proxy.md)
 
-## Related
-
-- [[accessing-cloud-itom|Access to cloud environments for ITOM products]]
-- [[mid-server-proxy|Proxy server configuration for MID Servers used for Cloud Discovery and Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

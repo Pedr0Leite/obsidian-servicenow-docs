@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Remove item restrictions
 
-[[service-catalog|Service Catalog]] enables you to remove or apply restrictions on all [[c_ServiceCatalogOrderGuides|order guides]], record producers, and wizard launchers.
+Service Catalog enables you to remove or apply restrictions on all order guides, record producers, and wizard launchers.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Catalog administrators can use [[r_ServiceCatalogProperties|Service Catalog properties]] to configure the behavior and usage of a catalog item.
+Catalog administrators can use Service Catalog properties to configure the behavior and usage of a catalog item.
 
 By default, all order guides, record producers, and wizard launchers have these restrictions:
 
@@ -42,8 +42,3 @@ To remove these restrictions or apply these restrictions to other types of items
 
 **Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogCustomization.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[r_ServiceCatalogProperties|Service Catalog properties]]

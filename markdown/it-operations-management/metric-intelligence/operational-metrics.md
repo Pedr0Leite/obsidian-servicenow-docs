@@ -14,7 +14,7 @@ breadcrumb: [IT Operations Management]
 
 # Metric Intelligence
 
-ServiceNow® Metric Intelligence provides the ability to capture, and then explore and analyze operational metrics data, identifying and indicating anomalies. Metric Intelligence generates anomaly alerts that can be promoted to IT alerts and appear on the [[workspace-dashboard-use|Service Operations Workspace]] and service health dashboard. You can leverage this analysis to prevent potential service outages.
+ServiceNow® Metric Intelligence provides the ability to capture, and then explore and analyze operational metrics data, identifying and indicating anomalies. Metric Intelligence generates anomaly alerts that can be promoted to IT alerts and appear on the Service Operations Workspace and service health dashboard. You can leverage this analysis to prevent potential service outages.
 
 ## Get started
 
@@ -36,7 +36,3 @@ ServiceNow® Metric Intelligence provides the ability to capture, and then explo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

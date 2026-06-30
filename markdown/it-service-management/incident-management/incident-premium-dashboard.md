@@ -18,7 +18,7 @@ This dashboard uses Workbench widgets and other advanced Platform Analytics feat
 
 **Important:**
 
-Starting in Xanadu release, the Incident Premium dashboard is deprecated. Users can use [[incident|Incident management dashboard]] for Workbench widgets and other advanced Platform Analytics features to know about the Incident process in one place.
+Starting in Xanadu release, the Incident Premium dashboard is deprecated. Users can use [Incident management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident.md) for Workbench widgets and other advanced Platform Analytics features to know about the Incident process in one place.
 
 \[Omitted image "incident-premium-tab-p.gif"\] Alt text: Incident Premium dashboard tabs
 
@@ -197,6 +197,3 @@ The dashboard includes the following filters:
 
 **Parent Topic:**[Legacy: Incident Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-content-pack.md)
 
-## Related
-
-- [[incident|Incident management dashboard]]

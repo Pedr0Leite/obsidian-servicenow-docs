@@ -14,7 +14,7 @@ breadcrumb: [Software reconciliation for compliance, Exploring Software Asset Ma
 
 # Determining license compliance through Virtualization Adapter
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] Virtualization Adapter determines the license compliance of several software products deployed on virtualization technologies by applying license compliance rules. This feature is activated and installed with the base system in Software Asset Management.
+Software Asset Management Virtualization Adapter determines the license compliance of several software products deployed on virtualization technologies by applying license compliance rules. This feature is activated and installed with the base system in Software Asset Management.
 
 The following are the software products for which Software Asset Management Virtualization Adapter determines the license compliance:
 
@@ -40,6 +40,3 @@ Software Asset Management considers the architecture of the virtualization techn
 
 **Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks - WildFire integration, Security Incident Respon
 
 # Get WildFire Data Enrichment Flow
 
-When the **[[security-operations-landing-page|Security Operations]] Palo Alto Networks - Get WildFire Data Enrichment** flow is executed, a hash file is uploaded to WildFire. The data is enriched, and reports are downloaded to the instance to aid in processing potential [[threat-intelligence-malware|malware]] attacks.
+When the **Security Operations Palo Alto Networks - Get WildFire Data Enrichment** flow is executed, a hash file is uploaded to WildFire. The data is enriched, and reports are downloaded to the instance to aid in processing potential malware attacks.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The **Security Operations Palo Alto Networks - Get WildFire Data Enrichment** fl
 
 2.  Based on the email notification received from Firewall, locate and open the security incident that was created.
 
-3.  Select the **[[c_IoCs|Indicators of Compromise]]** tab and populate the **Malware hash** with the hash you received in the alert.
+3.  Select the **Indicators of Compromise** tab and populate the **Malware hash** with the hash you received in the alert.
 
 4.  Select **Update**.
 
@@ -110,8 +110,3 @@ The output variables contain data that can be used in subsequent actions.
 |commandStatus \[Boolean\]|True if a result is obtained and attached successfully.|
 |errorMessage|The error, if any, that occurred in the action.|
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]
-- [[c_IoCs|Indicators of compromise]]

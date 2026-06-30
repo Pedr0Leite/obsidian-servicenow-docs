@@ -40,7 +40,7 @@ The ServiceNow® Critical Event Management \(CEM\) application enables streamlin
 
 </td><td>
 
-[Managing related records in a critical event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/manage-related-records.md)\[Omitted image "bus-log-store.svg"\] Alt text:Manage critical event tasks, create [[health-safety-overview|Health and Safety]] incidents, and relate child critical events.
+[Managing related records in a critical event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/manage-related-records.md)\[Omitted image "bus-log-store.svg"\] Alt text:Manage critical event tasks, create Health and Safety incidents, and relate child critical events.
 
 </td></tr><tr><td>
 
@@ -56,7 +56,3 @@ The ServiceNow® Critical Event Management \(CEM\) application enables streamlin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[health-safety-overview|Health and Safety]]

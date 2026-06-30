@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Service Delivery for Mobile, Workplace Service
 
 # Components installed with Workplace Service Delivery for Mobile
 
-The following table, role, and properties are installed with [[wsd-mobile-overview|Workplace Service Delivery for Mobile]].
+The following table, role, and properties are installed with Workplace Service Delivery for Mobile.
 
 ## Table installed with Workplace Service Delivery for Mobile
 
@@ -28,6 +28,3 @@ The following table, role, and properties are installed with [[wsd-mobile-overvi
 
 **Next topic:**[Properties installed with Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/properties-installed-with-wsd-for-mobile.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

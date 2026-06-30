@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Documentation Sections**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Documentation Sections**.
 
 2.  Select **New**.
 
@@ -30,7 +30,7 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[doc-section-record-form|Documentation Section record form]].
+    For more information on the fields, see [Documentation Section record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/doc-section-record-form.md).
 
     The example shows the documentation section template from the demo data.
 
@@ -42,10 +42,5 @@ Role required: sn\_bcm.admin, sn\_bcp.plan\_admin
 -   **[Documentation Section record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/doc-section-record-form.md)**  
 Use the Documentation Section record form to describe a plan in the structured sections in the BCM UIB Workspace.
 
-**Parent Topic:**[[bcp-admin-documentation-sections|Configuring the documentation section]]
+**Parent Topic:**[Configuring the documentation section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-admin-documentation-sections.md)
 
-## Related
-
-- [[doc-section-record-form|Documentation Section record form]]
-- [[bcp-admin-documentation-sections|Configuring the documentation section]]
-- [[Administration|Administration]]

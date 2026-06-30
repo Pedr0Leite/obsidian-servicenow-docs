@@ -14,7 +14,7 @@ breadcrumb: [ACC-M reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector Monitoring Footprint
 
-The following table describes [[acc-landing-page|Agent Client Collector]] resource consumption. We supply performance testing values to specific customers upon request.
+The following table describes Agent Client Collector resource consumption. We supply performance testing values to specific customers upon request.
 
 |Parameters|Linux|Windows|
 |----------|-----|-------|
@@ -27,6 +27,3 @@ The following table describes [[acc-landing-page|Agent Client Collector]] resour
 
 **Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

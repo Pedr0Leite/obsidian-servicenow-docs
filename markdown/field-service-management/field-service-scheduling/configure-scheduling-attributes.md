@@ -28,7 +28,7 @@ You must [Configure Schedule Optimization](https://raw.githubusercontent.com/Ser
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Administration** &gt; **Scheduling Attributes**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Administration** &gt; **Scheduling Attributes**.
 
 2.  Select **New**.
 
@@ -58,11 +58,11 @@ You must [Configure Schedule Optimization](https://raw.githubusercontent.com/Ser
 
     4.  Select **Submit**.
 
-        If your task filter references a custom field or a custom table, you must grant the sharedservice.worker user read access to those elements. For example, this applies if you use a table other than the default work order task table to submit work orders. For details, see [[schedule-optimization-integration-user-access-requirements|User access requirements]].
+        If your task filter references a custom field or a custom table, you must grant the sharedservice.worker user read access to those elements. For example, this applies if you use a table other than the default work order task table to submit work orders. For details, see [User access requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-integration-user-access-requirements.md).
 
         The **Optimization Restricted** tab is displayed after the task filter record is created. This read-only field shows the conditions of work order tasks that are excluded from the optimization run.
 
-7.  Enable dispatchers to run optimization for a group or territory from [[dispatcher-activities|Dispatcher Workspace]] by adding a policy to the **On-demand applicable policies** related list.
+7.  Enable dispatchers to run optimization for a group or territory from Dispatcher Workspace by adding a policy to the **On-demand applicable policies** related list.
 
     Dispatcher can manually trigger optimization to run for different policies at any time. For example, adding a policy that allows overtime will enable dispatchers to run optimization if agents are running behind schedule.
 
@@ -79,8 +79,3 @@ You must [Configure Schedule Optimization](https://raw.githubusercontent.com/Ser
 
 [Create a batch for Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/create-an-optimization-batch.md)
 
-## Related
-
-- [[schedule-optimization-integration-user-access-requirements|Schedule Optimization integration user access requirements]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

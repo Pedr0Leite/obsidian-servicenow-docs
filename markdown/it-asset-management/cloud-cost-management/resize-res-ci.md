@@ -18,7 +18,7 @@ Gain better visibility of resource usage by identifying your over-provisioned or
 
 You can [configure Rightsizing operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-settings-config-cloudin.md) by selecting **Settings**.
 
-\[Omitted image "rightsizing-ws.png"\] Alt text: Rightsizing recommendations in [[operation-view-ccm-ws|Operations view]].
+\[Omitted image "rightsizing-ws.png"\] Alt text: Rightsizing recommendations in Operations view.
 
 |Chart|Description|
 |-----|-----------|
@@ -193,7 +193,7 @@ Rationale
 
 </td><td>
 
-The reason that the system recommends resizing.-   AWS: Based on [[cloud-insights-landing-page|Cloud Cost Management]] analysis of provisioning and usage levels over the last 14 days.
+The reason that the system recommends resizing.-   AWS: Based on Cloud Cost Management analysis of provisioning and usage levels over the last 14 days.
 -   Microsoft Azure: Recommendation from the Azure Advisor service.
 
 </td></tr><tr><td>
@@ -297,7 +297,3 @@ View and manage the upcoming and completed Rightsizing jobs.
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[operation-view-ccm-ws|Operations view]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

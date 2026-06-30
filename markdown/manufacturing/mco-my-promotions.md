@@ -12,7 +12,7 @@ breadcrumb: [Sales promotion management, Sales promotion, Agent management, Use,
 
 # My promotions
 
-Agents workspace enables OEM to create the sales promotions campaigns. OEM agent can view all the [[mco-sales-promotion|sales promotion]] campaign created by them.
+Agents workspace enables OEM to create the sales promotions campaigns. OEM agent can view all the sales promotion campaign created by them.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 3.  On the My Promotion form, fill in the fields.
 
-    For a description of the field values, see [[mco-my-promotions-form|My promotions form]].
+    For a description of the field values, see [My promotions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-my-promotions-form.md).
 
 4.  Select **Save**.
 
 5.  Select **Create checklist**.
 
-    For further instruction, see [[mco-create-checklist|Create a checklist template]].
+    For further instruction, see [Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md).
 
 6.  Select **Publish**.
 
@@ -44,11 +44,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 -   **[Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)**  
 Agents workspace enables the manufacturer to create a checklist for verification.
 
-**Parent Topic:**[[mco-sls-pro-mgmt|Sales promotion management]]
+**Parent Topic:**[Sales promotion management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-mgmt.md)
 
-## Related
-
-- [[mco-my-promotions-form|My promotions form]]
-- [[mco-create-checklist|Create a checklist template]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-sales-promotion|Sales promotion]]

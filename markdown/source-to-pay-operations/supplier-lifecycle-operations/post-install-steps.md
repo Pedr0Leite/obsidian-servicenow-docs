@@ -14,7 +14,7 @@ breadcrumb: [Install Supplier Collaboration Portal, Configure, Supplier Lifecycl
 
 # Post installation mandatory step for Supplier Collaboration Portal
 
-After you install the [[supplier-central|Supplier Collaboration Portal]], ensure that you [[enable-access-supp-central|enable access to Supplier Collaboration Portal]].
+After you install the Supplier Collaboration Portal, ensure that you enable access to Supplier Collaboration Portal.
 
 -   **[Enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-access-supp-central.md)**  
 Enable users to access the Supplier Collaboration Portal either by configuring the user criteria or by running the fix script.
@@ -26,7 +26,3 @@ Enable users to access the Supplier Collaboration Portal either by configuring t
 
 [Run the fix script to enable access to Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fix-script-supp-central.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[enable-access-supp-central|Enable access to Supplier Collaboration Portal]]

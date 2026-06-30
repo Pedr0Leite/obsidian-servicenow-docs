@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for HR Service Delivery \(HRSD\), HR Service 
 
 # Configure the Now Assist for HRSD Virtual Agent topics
 
-Complete the configuration steps to enable your employees place requests to the Human Capital Management \(HCM\) system using the [[now-assist-ohcm|Now Assist for HRSD Virtual Agent topics]] in [[employee-center-landing-page|Employee Center]].
+Complete the configuration steps to enable your employees place requests to the Human Capital Management \(HCM\) system using the Now Assist for HRSD Virtual Agent topics in Employee Center.
 
 ## Before you begin
 
@@ -22,25 +22,25 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 ## Procedure
 
-1.  Install the Now Assist for HRSD and [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] \(v3.6\) applications from ServiceNow Store.
+1.  Install the Now Assist for HRSD and Enterprise Service Management Integrations Framework \(v3.6\) applications from ServiceNow Store.
 
 2.  Configure the required ServiceNow spokes or customize spokes to pull data from HCM systems.
 
-3.  Create [[flows-ukg|subflows]] for provider aligning with Template Integration Gateway.
+3.  Create subflows for provider aligning with Template Integration Gateway.
 
     See [Create a subflow using Template Integration Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-gateway.md).
 
     **Note:**
 
     -   Subflows have been created for Oracle HCM, except for the Request Time off and Add Expense Virtual Agent topics. The Virtual Agent experience has been provided for the Request Time off and Add Expense topics, but without the back-end support through subflows. For more information on the default Virtual Agent topics, see [Now Assist for HRSD Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-ohcm.md).
-    -   The subflows for Oracle HCM can be used as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to build subflows for any other HCM systems.
+    -   The subflows for Oracle HCM can be used as a reference to build subflows for any other HCM systems.
 4.  [Configure Integration Provider Mapping \(Decision table\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-mapping.md) by adding input choices, configuring conditions on input choices and results.
 
 5.  Create a Virtual Agent topic block:
 
     1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
     2.  From the **LLM Assistant** list, select **Now Assist in Virtual Agent**.
-    3.  Filter the topics by setting the category to **Now assist for [[hr-service-delivery|HR service Delivery]]**.
+    3.  Filter the topics by setting the category to **Now assist for HR service Delivery**.
     4.  Select a Virtual Agent topic.
         1.  Edit topic properties and make the necessary edits in the topic, such as update the node name, and response message.
         2.  In Integration Gateway, specify the appropriate feature, service name, user, and make the necessary edits.
@@ -54,11 +54,3 @@ When an Virtual Agent topic invokes the Integration Gateway subflow, the subflow
 
 **Parent Topic:**[Configure Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/configure-now-assist-hr.md)
 
-## Related
-
-- [[now-assist-ohcm|Now Assist for HRSD Virtual Agent topics]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[flows-ukg|Subflows]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-service-delivery|HR Service Delivery]]

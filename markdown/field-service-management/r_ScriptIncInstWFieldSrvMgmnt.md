@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Field Service Management]
 
 # Script includes installed with Field Service Management
 
-Script includes are added with [[fsm-application-landing-page|Field Service Management]].
+Script includes are added with Field Service Management.
 
 |Script include|Description|
 |--------------|-----------|
@@ -35,16 +35,10 @@ Field Service Management adds the following geolocation script includes.
 |WMGeolocationUtils|Provides utilities for Field Service Management geolocation maps.|
 |WorkTaskRouting|Routing functionality for work order tasks.|
 
--   **[[customizations|Advanced configurations]]**  
+-   **[Advanced configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customizations.md)**  
 Describes the customization extension model for separating default functionality from custom scripts using read-only SNC and exposed includes.
--   **[[manager-mobile-ref|Field Service Manager Mobile script includes]]**  
+-   **[Field Service Manager Mobile script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/manager-mobile-ref.md)**  
 Update the script includes if you want to change the base system value.
 
-**Parent Topic:**[[r_InstalledWithFSM|Components installed with Field Service Management]]
+**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
-## Related
-
-- [[customizations|Advanced configurations]]
-- [[manager-mobile-ref|Field Service Manager Mobile script includes]]
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

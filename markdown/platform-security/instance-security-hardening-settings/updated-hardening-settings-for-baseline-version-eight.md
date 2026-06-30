@@ -14,7 +14,7 @@ breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, 
 
 # Updated hardening settings for baseline version 8.0
 
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 8.0.
+Some hardening settings have been updated with the release of Security Center baseline version 8.0.
 
 <table id="table_baseline_v8_changes"><thead><tr><th>
 
@@ -61,13 +61,13 @@ Rule Script updated to improve detection accuracy.
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-If "com.glide.snap.enable\_scan" is not set to the recommended value of "true", then [[antivirus-protection|antivirus scanning]] is disabled.
+If "com.glide.snap.enable\_scan" is not set to the recommended value of "true", then antivirus scanning is disabled.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-[[users|Users]] may download malicious files leading to desktop and session compromise.
+Users may download malicious files leading to desktop and session compromise.
 
 
 </td></tr><tr><td>
@@ -232,7 +232,7 @@ If "glide.script.allow.ajaxevaluate" is not set to the recommended value of "fal
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-If "password\_reset.verification.delay" is not set to the recommended value of "1000" or more, then [[c_SelfServicePasswordReset|password reset]] verification codes will be susceptable to brute force attacks.
+If "password\_reset.verification.delay" is not set to the recommended value of "1000" or more, then password reset verification codes will be susceptable to brute force attacks.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -270,7 +270,7 @@ Inactive users may still access the instance and any data they could previously 
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-The High Security plugin, activated by default, creates more than 900 different configurations to control the level of security on your instance. These configurations enable strict [[sc-access-control|access control]], input validation, and output encoding. It separates user functionality from access control management functionality through requiring administrators to explictly elevate into a "security\_admin" role before making access control changes.
+The High Security plugin, activated by default, creates more than 900 different configurations to control the level of security on your instance. These configurations enable strict access control, input validation, and output encoding. It separates user functionality from access control management functionality through requiring administrators to explictly elevate into a "security\_admin" role before making access control changes.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -288,17 +288,17 @@ Critical parts of the instance may be exposed to unauthorized access or manipula
 -   Short Description
     -   \(Old\)
 
-[[limit-concurrent-sessions|Limit Concurrent Sessions]] Plugin
+Limit Concurrent Sessions Plugin
 
     -   \(New\)
 
-[[sc-limit-concurrent-sessions-plugin|Activate Limit Concurrent Sessions Plugin]]
+Activate Limit Concurrent Sessions Plugin
 
 -   Description
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-The Limit Concurrent Sessions plugin \(com.glide.limit.concurrent.sessions\) allows an administrator to limit the number of [[sc-active-sessions|active sessions]] per user/role. It is recommended this plugin be enabled and configured to reduce the likelihood of session hijacking. If this plugin is enabled and configured, there will be a limit to the number of open sessions that can be hijacked.
+The Limit Concurrent Sessions plugin \(com.glide.limit.concurrent.sessions\) allows an administrator to limit the number of active sessions per user/role. It is recommended this plugin be enabled and configured to reduce the likelihood of session hijacking. If this plugin is enabled and configured, there will be a limit to the number of open sessions that can be hijacked.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -326,7 +326,7 @@ Proactively Invalidate Inactive Sessions
 
     -   \(New\)
 
-[[sc-proactively-invalidate-inactive-sessions|Proactively Invalidate Sessions After Defined Durations]]
+Proactively Invalidate Sessions After Defined Durations
 
 -   Description
     -   \(Old\) &lt;blank&gt;
@@ -360,7 +360,7 @@ If a session is hijacked, an attacker may be able to use a session during this s
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-The Zero Trust - Policy Based Session Access plugin allows security admins to reduce user access in a session based on IP, Location, [[identity-landing|Identity]] provider attributes and user attributes using [[adaptive-authentication|adaptive authentication]] [[ca-policies|policies]]. When this property is enabled \(set to 'true'\), then users logging in via mobile device will have their roles restricted as configured by the plugin policies.
+The Zero Trust - Policy Based Session Access plugin allows security admins to reduce user access in a session based on IP, Location, Identity provider attributes and user attributes using adaptive authentication policies. When this property is enabled \(set to 'true'\), then users logging in via mobile device will have their roles restricted as configured by the plugin policies.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -495,7 +495,7 @@ Blurring mobile backgrounding screenshots provides a higher level of confidentia
 
 </td></tr><tr><td>
 
-[Enforce device [[encryption-landing|encryption]] and passcode requirements \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-device-encryption-and-passcode-requirements.md)
+[Enforce device encryption and passcode requirements \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-device-encryption-and-passcode-requirements.md)
 
 </td><td>
 
@@ -509,7 +509,7 @@ When the Glide Property 'glide.sg.device\_encryption\_enabled' is set to true, t
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-This creates a risk that sensitive data stored or accessed through the mobile app could be exposed if the device is lost, stolen, or compromised. Without encryption and passcode enforcement, unauthorized users can gain physical access to confidential information, undermining compliance with FIPS 140-2 and weakening overall [[naai-data-protection|data protection]].
+This creates a risk that sensitive data stored or accessed through the mobile app could be exposed if the device is lost, stolen, or compromised. Without encryption and passcode enforcement, unauthorized users can gain physical access to confidential information, undermining compliance with FIPS 140-2 and weakening overall data protection.
 
 
 </td></tr><tr><td>
@@ -581,7 +581,7 @@ Displaying unsanitized input to the user is dangerous, as unsanitized input may 
 
 This property "password\_reset.sms.use\_notify" controls usage SMS code notification for enrollment and verification. If "password\_reset.sms.use\_notify" is set to the recommended value "true", then user will be notifed for password reset for SMS verification method and new device enrollment. Using
 
-SMS code notification for enrollment and verification is more secure that default [[email|email]] notification.
+SMS code notification for enrollment and verification is more secure that default email notification.
 
 -   Remediation
     -   \(Old\)
@@ -609,7 +609,7 @@ Email-based notifications are generally less secure because they are more suscep
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-The demo [[c_Certificates|certificates]] provided by ServiceNow should not be used in production [[c_SAML2.0WebBrowserSSOProfile|SAML]] configurations. The certificates are common among all instances with known passphrase. If one of the SAML properties utilizing a certificate keystore is active \(require\_signed\_authnrequest, require\_signed\_logoutrequest or encrypt\_assertion\) then the demo data must not be used. Since demo data is shared among all instance, there is no integrity garuntee of requests signed with shared certificates.
+The demo certificates provided by ServiceNow should not be used in production SAML configurations. The certificates are common among all instances with known passphrase. If one of the SAML properties utilizing a certificate keystore is active \(require\_signed\_authnrequest, require\_signed\_logoutrequest or encrypt\_assertion\) then the demo data must not be used. Since demo data is shared among all instance, there is no integrity garuntee of requests signed with shared certificates.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -628,7 +628,7 @@ Messages encrypted by the IDP could be decrypted by any actor, if intercepted.
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-The property "glide.authenticate.multifactor.email.otp.enabled" controls if a token for the second [[c_Authentication|authentication]] factor can be sent via email. Email is considered a weak MFA factor which an attacker is more likely to gain access into for defeating MFA. If the property is false: 1. The user will not see email OTP option on the MFA validation screen. If the property is true:
+The property "glide.authenticate.multifactor.email.otp.enabled" controls if a token for the second authentication factor can be sent via email. Email is considered a weak MFA factor which an attacker is more likely to gain access into for defeating MFA. If the property is false: 1. The user will not see email OTP option on the MFA validation screen. If the property is true:
 
 2. The email factor is shown in cases where the email factor policy is inactive and no other 2fa registered. 3. The email factor is shown if the email factor policy is active and evaluated to true. 4. The email factor is not shown if the email factor policy is active and evaluated to false.
 
@@ -737,7 +737,7 @@ It is best security practice to have scope fencing restrictions in place. Scopin
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-This property controls the [[c_ChSetRemMeChkbxCookie|Remember Me]] check box from the login page to prevent login information from being cached when set to true. If the value is set to false, caching of authentication information is allowed and the "Remember Me" checkbox is displayed.
+This property controls the Remember Me check box from the login page to prevent login information from being cached when set to true. If the value is set to false, caching of authentication information is allowed and the "Remember Me" checkbox is displayed.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -958,7 +958,7 @@ Require XMLdoc2 entity validation with allowlistDisable Entity Expansion
 
 -   \(New\)
 
-[[sc-xmldoc2-entity-validation-with-entity-expansion|Require XMLdoc2 entity validation with allowlist]]
+Require XMLdoc2 entity validation with allowlist
 
 
 </td></tr><tr><td>
@@ -971,7 +971,7 @@ Require XMLdoc2 entity validation with allowlistDisable Entity Expansion
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-The "glide.[[oauth-inbound-and-outbound|oauth]].state.paramater.required system" property enables the "State" parameter to be required in an OAuth [[c_requestAPI|request]] for authorization code flow. Beginning in the Madrid release, the system property "glide.oauth.state.parameter.required" adds a "State" parameter for an OAuth request. For zbooted instances, the property is true. For upgraded instances, the property is not present, so the "State" parameter is not enabled. The "State" parameter is a string value, and should not contain special characters. The State parameter cannot be empty or " ". Not enabling the "State" parameter to "true" ensures that an attacker cannot perform CSRF attacks during authentication can allow an attacker to perform operations as the victim.
+The "glide.oauth.state.paramater.required system" property enables the "State" parameter to be required in an OAuth request for authorization code flow. Beginning in the Madrid release, the system property "glide.oauth.state.parameter.required" adds a "State" parameter for an OAuth request. For zbooted instances, the property is true. For upgraded instances, the property is not present, so the "State" parameter is not enabled. The "State" parameter is a string value, and should not contain special characters. The State parameter cannot be empty or " ". Not enabling the "State" parameter to "true" ensures that an attacker cannot perform CSRF attacks during authentication can allow an attacker to perform operations as the victim.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -1009,7 +1009,7 @@ Too many comments could lead to resource exhaustion.
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-If "glide.cs.debug" is not set to the recommended value of "false", then chat server messages logging is enabled. Setting the property value to true enables logging chat server messages on [[system-logs|system logs]]. As a lot of log messages are generated, it is advised to enable it only when troubleshooting chat server. After troubleshooting, the property should be disabled to avoid clogging system logs. Setting the property to false, which is also the default value does not log chat server messages on system logs.
+If "glide.cs.debug" is not set to the recommended value of "false", then chat server messages logging is enabled. Setting the property value to true enables logging chat server messages on system logs. As a lot of log messages are generated, it is advised to enable it only when troubleshooting chat server. After troubleshooting, the property should be disabled to avoid clogging system logs. Setting the property to false, which is also the default value does not log chat server messages on system logs.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -1156,7 +1156,7 @@ Allowing unauthenticated access to sensitive data can cause inadvertent informat
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-If "glide.basicauth.required.jsonv2" is not set to the recommended value of "true", then this will disable [[basic-authentication|Basic Authentication]] for JSONv2 format [[export|export]] processor. This also happens when combined with a wrong role within the guest\_user related property \(For example a high privileged user such as Admin\).
+If "glide.basicauth.required.jsonv2" is not set to the recommended value of "true", then this will disable Basic Authentication for JSONv2 format export processor. This also happens when combined with a wrong role within the guest\_user related property \(For example a high privileged user such as Admin\).
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -1484,7 +1484,7 @@ The HTTPOnly attribute is used to prevent attacks, such as cross-site scripting,
 -   Short Description
     -   \(Old\)
 
-[[sc-prevent-empty-acl-creation|Prevent Empty ACL Creation]]
+Prevent Empty ACL Creation
 
     -   \(New\)
 
@@ -1502,7 +1502,7 @@ can create, update, or save an invalid ACL that has an invalid data condition, s
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-Misconfigured or empty Access Control Lists \(ACLs\) can unintentionally grant unrestricted access to sensitive data and system functionality. When ACLs lack proper conditions, roles, or [[security-attributes-landing|security attributes]], they fail to enforce authorization boundaries, enabling attackers or unauthorized users to bypass security controls. This can lead to data breaches, privilege escalation, and compromise of confidentiality, integrity, and availability across the platform.
+Misconfigured or empty Access Control Lists \(ACLs\) can unintentionally grant unrestricted access to sensitive data and system functionality. When ACLs lack proper conditions, roles, or security attributes, they fail to enforce authorization boundaries, enabling attackers or unauthorized users to bypass security controls. This can lead to data breaches, privilege escalation, and compromise of confidentiality, integrity, and availability across the platform.
 
 -   Fallback Value
     -   \(Old\) &lt;blank&gt;
@@ -1721,7 +1721,7 @@ Configure the glide.active.session.timeout.exception.roles property to roles whi
 
 </td><td>
 
--   Technical [[sc-configuration|Configuration]] Name
+-   Technical Configuration Name
     -   \(Old\)
 
 glide.integrations.active.session.life\_span
@@ -1856,7 +1856,7 @@ Minimize Concurrent Interactive Session Quantity When Limit Concurrent Sessions 
 
     -   \(New\)
 
-[[sc-glide-authenticate-limit-concurrent-interactive-sessions|Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin]]
+Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin
 
 -   Description
     -   \(Old\) &lt;blank&gt;
@@ -2278,7 +2278,7 @@ A Denial-of-Service \(DoS\) vulnerability poses a security risk by allowing atta
 -   Short Description
     -   \(Old\)
 
-[[sc-restrict-global-app-development-by-role|Restrict Global App Development by Role]]
+Restrict Global App Development by Role
 
     -   \(New\)
 
@@ -2383,7 +2383,7 @@ This could lead to server-side resources being accessed by users without proper 
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-If the glide property "com.glide.[[sc-communications|communications]].httpclient.ocsp\_allow\_network\_error" is not explicitly set to the recommended value of false, and the OCSP \(Online Certificate Status Protocol\) check encounters a network-related issue—such as a timeout or failure to retrieve revocation data —the system will treat the OCSP validation as successful by default.
+If the glide property "com.glide.communications.httpclient.ocsp\_allow\_network\_error" is not explicitly set to the recommended value of false, and the OCSP \(Online Certificate Status Protocol\) check encounters a network-related issue—such as a timeout or failure to retrieve revocation data —the system will treat the OCSP validation as successful by default.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -2516,7 +2516,7 @@ Users may perform operations they may not be authorized for— potentially leadi
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-When the Glide Property 'glide.translated\_html.sanitize\_all\_fields' is set to the value 'true', all translated\_html elements will be sanitized using an [[c_HTMLSanitizer|HTML sanitizer]]. When the property is set to 'false', an element will only be sanitized if a dictionary attribute, html\_sanitize, is set to true.
+When the Glide Property 'glide.translated\_html.sanitize\_all\_fields' is set to the value 'true', all translated\_html elements will be sanitized using an HTML sanitizer. When the property is set to 'false', an element will only be sanitized if a dictionary attribute, html\_sanitize, is set to true.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -2573,13 +2573,13 @@ Knowledge bases lacking explicit "can read" or "can contribute" user criteria ma
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-This property enforces [[mfa-landing|multi-factor authentication]] based on the roles assigned to the user. If this property is set to true, then it will enforce role-based multi-factor authentication for all users described in the multi\_factor\_criteria table. This table enforces multi-factor authentication based on the roles assigned to the user. If a user has been assigned "admin", "security\_admin" or "user\_admin" roles in the multi-factor roles list, MFA will be enforced.
+This property enforces multi-factor authentication based on the roles assigned to the user. If this property is set to true, then it will enforce role-based multi-factor authentication for all users described in the multi\_factor\_criteria table. This table enforces multi-factor authentication based on the roles assigned to the user. If a user has been assigned "admin", "security\_admin" or "user\_admin" roles in the multi-factor roles list, MFA will be enforced.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-Enforcing MFA based on roles strengthens authentication security and aligns with [[best-practices|best practices]] for protecting privileged accounts.
+Enforcing MFA based on roles strengthens authentication security and aligns with best practices for protecting privileged accounts.
 
 
 </td></tr><tr><td>
@@ -2945,7 +2945,7 @@ This could allow an attacker to bypass cookie validation leading to unauthorized
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-This property contains Java classname of current Java security manager. ServiceNow has standardized on the [[r_ContextualSecurity|Contextual Security Manager]]. If "glide.security.manager" is not set to the recommended value of "com.glide.sys.security.ContextualSecurityManager", then the instance may be using an obsolete Java security manager which is missing expected hardening policies.
+This property contains Java classname of current Java security manager. ServiceNow has standardized on the Contextual Security Manager. If "glide.security.manager" is not set to the recommended value of "com.glide.sys.security.ContextualSecurityManager", then the instance may be using an obsolete Java security manager which is missing expected hardening policies.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -2964,7 +2964,7 @@ Without this hardening, it may be possible for a malicious actor with script exe
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-This plugin when set to true restricts access to specific IP ranges. Unless public access is intended for the instance, administrators should limit access to their assigned IP net blocks. An exclusion list \(Deny\) or an inclusion list \(Allow\) of IP addresses can be created through [[t_AccessControl|IP Address Access Control]] \(ip\_access\_list.do\).
+This plugin when set to true restricts access to specific IP ranges. Unless public access is intended for the instance, administrators should limit access to their assigned IP net blocks. An exclusion list \(Deny\) or an inclusion list \(Allow\) of IP addresses can be created through IP Address Access Control \(ip\_access\_list.do\).
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -3078,13 +3078,13 @@ This could allow information disclosure in the event that stale accounts are com
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-If "glide.security.sandbox\_no\_logging" is set to "false", then logging will be available for low-[[privileged-users|privileged users]] using sandboxed scripts. This property controls Glide System's ability to log scripts being executed in the sandbox environment.
+If "glide.security.sandbox\_no\_logging" is set to "false", then logging will be available for low-privileged users using sandboxed scripts. This property controls Glide System's ability to log scripts being executed in the sandbox environment.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-A low privileged user could inject [[logs|logs]] allowing the malicious user to potentially obfuscate an attack.
+A low privileged user could inject logs allowing the malicious user to potentially obfuscate an attack.
 
 
 </td></tr><tr><td>
@@ -3103,7 +3103,7 @@ This property makes sure that Client-Callable Script Includes, also known as Aja
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-Sensitive [[sc-business-logic|business logic]] or data is potentially exposed, increasing the risk of unauthorized access to instance resources.
+Sensitive business logic or data is potentially exposed, increasing the risk of unauthorized access to instance resources.
 
 
 </td></tr><tr><td>
@@ -3334,7 +3334,7 @@ The MID Server command audit log tracks details such as the command name, comman
 -   Remediation
     -   \(Old\)
 
-Set mid.log.command\_audit.enable to "true" in the ecc\_agent\_property table to turn on [[c_AuditedTables|auditing]] for commands run by the MID server. See the following documentation for editng this mid server property: https://docs.servicenow.com/csh?topicname=mid-audit-log.html&amp;version=latest
+Set mid.log.command\_audit.enable to "true" in the ecc\_agent\_property table to turn on auditing for commands run by the MID server. See the following documentation for editng this mid server property: https://docs.servicenow.com/csh?topicname=mid-audit-log.html&amp;version=latest
 
     -   \(New\)
 
@@ -3470,7 +3470,7 @@ Enabling and configuring email filtering is essential for reducing exposure to s
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-When the property "com.glide.snap.infected\_download\_allowed" is set to "true", users can still download nonscanned attachments in the case that the [[antivirus|antivirus]] service is down or unreachable.
+When the property "com.glide.snap.infected\_download\_allowed" is set to "true", users can still download nonscanned attachments in the case that the antivirus service is down or unreachable.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -3495,7 +3495,7 @@ If "glide.sg.allow\_rooted\_jailbroken\_device" is not set to the recommended va
     -   \(Old\) &lt;blank&gt;
     -   \(New\)
 
-Allowing rooted or jailbroken mobile devices significantly increases the risk of credential theft, data leakage, and [[sc-malicious-code|malicious code]] execution.
+Allowing rooted or jailbroken mobile devices significantly increases the risk of credential theft, data leakage, and malicious code execution.
 
 
 </td></tr><tr><td>
@@ -3519,7 +3519,7 @@ value of true. When the record does not exist in the sys\_properties table, the 
 
     -   \(New\)
 
-Ensure the glide.authenticate.oauth.post.token.expiration.cookie\_auth.disabled system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, and is set to a value of true.
+Ensure the glide.authenticate.oauth.post.token.expiration.cookie\_auth.disabled system property exists in the System Properties \[sys\_properties\] table, and is set to a value of true.
 
 -   Security Risk
     -   \(Old\) &lt;blank&gt;
@@ -3985,7 +3985,7 @@ Define Allowed ServiceNow Internal IP Addresses
 
     -   \(New\)
 
-[[sc-ip-addresses-access-allowlist|Reduce the Scope of the IP Allow List for an Instance]]
+Reduce the Scope of the IP Allow List for an Instance
 
 -   Description
     -   \(Old\) &lt;blank&gt;
@@ -4094,7 +4094,7 @@ Enable URL Allowlist for Cross-Origin iframe Communication
 
     -   \(New\)
 
-[[sc-enable-url-allowlist-for-cross-origin-iframe-communication|Restrict allowed domains for cross-origin iframe communication]]
+Restrict allowed domains for cross-origin iframe communication
 
 -   Description
     -   \(Old\) &lt;blank&gt;
@@ -4164,7 +4164,7 @@ Set Minimal Password Length
 
     -   \(New\)
 
-[[sc-set-minimal-password-length|Require Minimum and Maximum Password Length]]
+Require Minimum and Maximum Password Length
 
 -   Description
     -   \(Old\)
@@ -4243,7 +4243,7 @@ Boolean and Integer
 -   Short Description
     -   \(Old\)
 
-[[sc-limit-maximum-number-of-attachments-in-email|Limit Maximum Number of Attachments in Email]]
+Limit Maximum Number of Attachments in Email
 
     -   \(New\)
 
@@ -4283,53 +4283,3 @@ If an email contains more attachments than the allowed count, the attachments ar
 </td></tr></tbody>
 </table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[users|Users]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-access-control|Access control]]
-- [[limit-concurrent-sessions|Limit concurrent sessions]]
-- [[sc-limit-concurrent-sessions-plugin|Activate Limit Concurrent Sessions Plugin]]
-- [[sc-active-sessions|Active Sessions]]
-- [[sc-proactively-invalidate-inactive-sessions|Proactively Invalidate Sessions After Defined Durations]]
-- [[identity-landing|Identity]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[naai-data-protection|Data protection]]
-- [[email|Email]]
-- [[c_Certificates|Certificates]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[sc-xmldoc2-entity-validation-with-entity-expansion|Require XMLdoc2 entity validation with allowlist]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[system-logs|System logs]]
-- [[basic-authentication|Basic authentication]]
-- [[export|Export]]
-- [[sc-prevent-empty-acl-creation|Prevent Empty ACL Creation]]
-- [[security-attributes-landing|Security Attributes]]
-- [[sc-configuration|Configuration]]
-- [[sc-glide-authenticate-limit-concurrent-interactive-sessions|Minimize Concurrent Interactive Sessions with Limit Concurrent Sessions Plugin]]
-- [[sc-restrict-global-app-development-by-role|Restrict Global App Development by Role]]
-- [[sc-communications|Communications]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[best-practices|Best Practices]]
-- [[r_ContextualSecurity|Contextual Security Manager]]
-- [[t_AccessControl|IP Address Access Control]]
-- [[privileged-users|Privileged Users]]
-- [[logs|Logs]]
-- [[sc-business-logic|Business Logic]]
-- [[c_AuditedTables|Auditing]]
-- [[antivirus|Antivirus]]
-- [[sc-malicious-code|Malicious code]]
-- [[ca-system-properties|System properties]]
-- [[sc-ip-addresses-access-allowlist|Reduce the Scope of the IP Allow List for an Instance]]
-- [[sc-enable-url-allowlist-for-cross-origin-iframe-communication|Restrict allowed domains for cross-origin iframe communication]]
-- [[sc-set-minimal-password-length|Require Minimum and Maximum Password Length]]
-- [[sc-limit-maximum-number-of-attachments-in-email|Limit maximum number of attachments in email]]

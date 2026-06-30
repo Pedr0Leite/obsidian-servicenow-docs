@@ -16,7 +16,7 @@ breadcrumb: [Service Catalog widgets, Widget library, Using portal widgets, Conf
 
 Use this widget to add catalog items or record producers to the wish list so that you can review them. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-If the wish list is enabled for Service Catalog, SC Wish List Cart widget \(sc\_wishlist\_cart\) is available in [[c_ServicePortal|Service Portal]]. Once enabled, the following options are available:
+If the wish list is enabled for Service Catalog, SC Wish List Cart widget \(sc\_wishlist\_cart\) is available in Service Portal. Once enabled, the following options are available:
 
 -   The **Wish List** menu option on the main navigation bar.
 -   The **Add to Wish List** button in the Ordering widget for catalog items and record producers.
@@ -84,6 +84,3 @@ Update the wish list automatically with user-specific changes from multiple tabs
 
 [Add an item to the wish list in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-to-wishlist-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

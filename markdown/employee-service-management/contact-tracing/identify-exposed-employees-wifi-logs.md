@@ -22,7 +22,7 @@ Role required: sn\_imt\_tracing.wifi\_admin
 
 ## About this task
 
-ServiceNow [[contact-tracing|Contact Tracing]] integrates with an external application, Mist Systems, to collect and process Wi-Fi access logs for organizations. To leverage access logs from Mist Systems, you must have Mist access points installed at your workplace.
+ServiceNow Contact Tracing integrates with an external application, Mist Systems, to collect and process Wi-Fi access logs for organizations. To leverage access logs from Mist Systems, you must have Mist access points installed at your workplace.
 
 ## Procedure
 
@@ -83,6 +83,3 @@ Mist Systems identifies the MAC addresses of the affected user for the specified
 
 **Parent Topic:**[Retrieving Wi-Fi access log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/wifi-access-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB administrator tasks, Configure, API Insights, Configuration Ma
 
 # Configure settings to manage APIs in API Insights
 
-Configure [[api-insights|API Insights]] settings, including API creation tools, relationship models, [[enable-ownership-group|ownership groups]], and automated workflows, to streamline API governance and operational processes.
+Configure API Insights settings, including API creation tools, relationship models, ownership groups, and automated workflows, to streamline API governance and operational processes.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Uses a third-party tool for API creation, requiring the URL for the external too
 
     |Option|Description|
     |------|-----------|
-    |**CSDM**|Links an API to an application service and then to business context also called as business application using the [[csdm-landing-page|Common Service Data Model]] \(CSDM\).|
+    |**CSDM**|Links an API to an application service and then to business context also called as business application using the Common Service Data Model \(CSDM\).|
     |**Digital Integration Management**|Links an API to a digital interface and then to business context.|
 
 6.  In the Ownership group section, set the ownership group responsible for managing the API.
@@ -115,8 +115,4 @@ Assigns the API to a support group responsible for resolving incidents, maintain
 
 8.  Select **Save**.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[enable-ownership-group|Ownership groups]]
-- [[csdm-landing-page|Common Service Data Model]]

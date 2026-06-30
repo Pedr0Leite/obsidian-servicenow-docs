@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Create Universal Request
 
-Create a [[ur-landing-limitedaccess|universal request]] record on behalf of the requester from the Universal Request application.
+Create a universal request record on behalf of the requester from the Universal Request application.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: sn\_uni\_req.routing\_agent or admin.
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

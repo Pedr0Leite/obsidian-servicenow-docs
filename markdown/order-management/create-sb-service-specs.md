@@ -180,7 +180,7 @@ Distribution channel
 
 </td><td>
 
-Option to set and lock in a distribution channel. For example, you can specify web as a channel. You can specify multiple channels. **Note:** If you're using the Service Exchange [[explore-order-management|Order Management]] for Providers application, enter Service Exchange as distribution channel.
+Option to set and lock in a distribution channel. For example, you can specify web as a channel. You can specify multiple channels. **Note:** If you're using the Service Exchange Order Management for Providers application, enter Service Exchange as distribution channel.
 
 </td></tr><tr><td>
 
@@ -257,9 +257,5 @@ You can't change this field.
 
 ## What to do next
 
-[[associate-criteria-remote-catalog|Associate consumer criteria to a remote record producer]] for this remote catalog item.
+[Associate consumer criteria to a remote record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-criteria-remote-catalog.md) for this remote catalog item.
 
-## Related
-
-- [[associate-criteria-remote-catalog|Associate consumer criteria to a remote record producer]]
-- [[explore-order-management|Order management]]

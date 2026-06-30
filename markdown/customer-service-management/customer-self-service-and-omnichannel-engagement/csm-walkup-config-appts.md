@@ -102,7 +102,7 @@ The service in the service catalog for which this appointment booking configurat
 
 **Note:** The catalog item must exist in the service catalog.
 
- If you are using appointment booking with work orders, [[create-work-orders|create a work order]] template before you [[csm-walkup-appointment|configure appointment booking]].
+ If you are using appointment booking with work orders, create a work order template before you configure appointment booking.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Appointment is mandatory
 
 </td><td>
 
-Enable this check box if it is mandatory that a customer [[osp-create-appt|create an appointment]] when requesting this service. -   If enabled, the **Appointment** field appears on the record producer and the user must select an available appointment on the [Select Appointment window](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-select-appt-window.md) before submitting the service request.
+Enable this check box if it is mandatory that a customer create an appointment when requesting this service. -   If enabled, the **Appointment** field appears on the record producer and the user must select an available appointment on the [Select Appointment window](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appt-booking-select-appt-window.md) before submitting the service request.
 -   If disabled, the user can submit the service request without selecting an appointment.
 
 
@@ -249,8 +249,4 @@ Provides a preview of the appointment windows and times based on the selected st
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[create-work-orders|Create a work order]]
-- [[csm-walkup-appointment|Configure appointment booking]]
-- [[osp-create-appt|Create an appointment]]

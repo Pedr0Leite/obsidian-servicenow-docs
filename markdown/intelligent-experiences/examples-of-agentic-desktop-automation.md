@@ -17,15 +17,12 @@ Learn the key concepts and workflow for creating end-to-end desktop actions and 
 
 The tasks that you can automate are done manually on desktop-native applications and repetitive in nature. Here are examples:
 
--   **[[example-badging-magmt-concept-ad|Badge management automation]]**
+-   **[Badge management automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-badging-magmt-concept-ad.md)**
 
     Shows how an HR team automates the end-to-end workflow for issuing, replacing, and disabling badges for their employees.
 
--   **[[example-shipping-magmt-concept-ad|Shipping order processing]]**
+-   **[Shipping order processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-shipping-magmt-concept-ad.md)**
 
     Demonstrates how to extract order data from Excel, interact with a shipping management tool, and complete the data processing life cycle.
 
-## Related
 
-- [[example-badging-magmt-concept-ad|example badging magmt concept ad]]
-- [[example-shipping-magmt-concept-ad|example shipping magmt concept ad]]

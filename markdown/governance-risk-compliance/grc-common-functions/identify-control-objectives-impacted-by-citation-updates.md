@@ -21,7 +21,7 @@ Identify and manage control objectives impacted by latest citation updates by us
 
 Role required: sn\_grc\_sharegenai.compliance\_library\_gen\_ai\_user
 
-Verify that the [[control-objective-impact-analyzer-skill|Control Objective Impact Analyzer skill]] is activated.
+Verify that the Control Objective Impact Analyzer skill is activated.
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
@@ -46,14 +46,11 @@ Verify that the [[control-objective-impact-analyzer-skill|Control Objective Impa
     The impacted control objectives have the following states:
 
     -   New: This state is assigned when an impacted control objective is first identified, indicating that no action has yet been taken.
-    -   In progress: This state is assigned when the [[control-objective-change-agent|Control Objective Change Agent]] is triggered from the NAP panel, indicating active review or update of the control objective.
+    -   In progress: This state is assigned when the Control Objective Change Agent is triggered from the NAP panel, indicating active review or update of the control objective.
     -   Completed: This state is assigned after the update process is completed and the control objective’s description and supplemental guidance have been successfully updated, marking the end of the workflow for that item.
     -   Canceled: This state is assigned when a user manually removes a control objective from the impacted list, the system marks the record as 'Canceled' in the background for audit purposes. This state isn't displayed in the UI.
 7.  In the Change impacts tab, the user can also manually add or remove control objectives.
 
     For manually added control objectives, the Additional info column displays 'Manually added'.
 
-## Related
 
-- [[control-objective-impact-analyzer-skill|Control Objective Impact Analyzer skill]]
-- [[control-objective-change-agent|Control Objective Change Agent]]

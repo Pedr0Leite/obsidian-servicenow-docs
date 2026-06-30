@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select a case from which you want to create a copy.
 
@@ -30,11 +30,6 @@ Role required: sn\_hr\_core.case\_writer
 
 4.  Select **Copy case**.
 
-    -   A copy of the case is created in **Draft** state.The [[activity-lxp|activity]] stream displays information about the previous case from which this case is created.
+    -   A copy of the case is created in **Draft** state.The activity stream displays information about the previous case from which this case is created.
     -   By default, opened\_for, subject\_person, hr\_service, skills, priority, assignment\_group, assigned\_to, and short\_description, are copied to the new case. You can configure the fields that you want to copy to the new case in the Copy case attributes setting in [Page configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/page-configurations.md).
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[activity-lxp|Activity]]

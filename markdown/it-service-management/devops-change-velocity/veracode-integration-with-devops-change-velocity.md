@@ -14,11 +14,11 @@ breadcrumb: [Integrate, DevOps Change Velocity, IT Service Management]
 
 # Veracode integration with DevOps Change Velocity
 
-Connect to your Veracode instance that is integrated with your CI/CD pipelines to retrieve [[security-tool-framework|security scan results]]. This helps you determine how vulnerable your code is.
+Connect to your Veracode instance that is integrated with your CI/CD pipelines to retrieve security scan results. This helps you determine how vulnerable your code is.
 
 ## Veracode integration overview
 
-Veracode scans that are configured on GitHub Actions, Jenkins, Azure DevOps, GitLab, and Harness pipelines are supported in [[devops-landing-page-new|DevOps Change Velocity]].
+Veracode scans that are configured on GitHub Actions, Jenkins, Azure DevOps, GitLab, and Harness pipelines are supported in DevOps Change Velocity.
 
 Ensure that your Veracode credentials have the following API roles.
 
@@ -57,7 +57,3 @@ Connect to your Veracode instance to retrieve scan results.
 
 **Parent Topic:**[Integrating DevOps Change Velocity with third party tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/integrating-devops-change-with-third-party-tools.md)
 
-## Related
-
-- [[security-tool-framework|Security scan results]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

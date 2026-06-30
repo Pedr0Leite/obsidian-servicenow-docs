@@ -13,7 +13,7 @@ breadcrumb: [Engage via email interactions, Using Email Interaction for CSM, Cus
 
 # Compose an email or a work note
 
-Use the Compose section in the [[email-as-an-interaction|email interaction]] to draft emails, create internal work notes, or draft email responses using response templates.
+Use the Compose section in the email interaction to draft emails, create internal work notes, or draft email responses using response templates.
 
 ## Compose an email response
 
@@ -116,6 +116,3 @@ The work note is visible exclusively to the agent and remains private from the c
 
 The work note is posted on the **Activity** stream of the email interaction and is marked with the New Activity marker.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

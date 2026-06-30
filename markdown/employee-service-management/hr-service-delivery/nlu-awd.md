@@ -44,11 +44,7 @@ Role required: sn\_hr\_workday.admin
 
 [Report an issue with your payslip]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Advanced Integration with Workday]()
+[Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Workday]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Advanced Integration with Workday]()
+[Use HCM AI agents for HR Service Delivery Advanced Integration with Workday]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # View the promoted anomaly alerts
 
-View the anomaly alerts that the [[advanced-promotion-engine|Advanced Promotion Engine]] promoted to events, which are then processed as alerts in the All Alerts table. Viewing alerts in the All Alerts table enables you to track the source of the alert.
+View the anomaly alerts that the Advanced Promotion Engine promoted to events, which are then processed as alerts in the All Alerts table. Viewing alerts in the All Alerts table enables you to track the source of the alert.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_user
 
 ## About this task
 
-The [[c_EM|Event Management]] [[c_ServiceAnalyticsOverview|alert grouping]] feature takes the anomaly alerts that are promoted to the IT events and groups them into new IT alerts.
+The Event Management alert grouping feature takes the anomaly alerts that are promoted to the IT events and groups them into new IT alerts.
 
 The Alerts table displays all of the relevant issues in the system.
 
@@ -41,8 +41,3 @@ The Alerts table displays all of the relevant issues in the system.
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[advanced-promotion-engine|Advanced Promotion Engine]]
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

@@ -15,7 +15,7 @@ breadcrumb: [Activate Now Assist skills in Now Assist for IT Operations Manageme
 
 # Activate the Service Mapping Candidate skill
 
-The [[c_ServiceMappingOverview|Service Mapping]] Candidate skill provides Now Assist the ability to classify app service candidates and generate a description for them. The skill is active by default. If needed, administrators can activate or deactivate the skill.
+The Service Mapping Candidate skill provides Now Assist the ability to classify app service candidates and generate a description for them. The skill is active by default. If needed, administrators can activate or deactivate the skill.
 
 ## About this task
 
@@ -28,12 +28,12 @@ The Service Mapping Candidate skill provides names for processes and application
 
 ## Before you begin
 
-Before activating the Now Assist skills, you must [[install-now-assist-itom|install the Now Assist for IT Operations Management \(ITOM\) plugin]]. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+Before activating the Now Assist skills, you must install the Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 
 You must configure the following settings:
 
 -   ITOM pro plus SKU
--   [[now-assist-itom|Now Assist for ITOM]] 9.10
+-   Now Assist for ITOM 9.10
 -   Service Mapping Plus \(minimum version 1.16.3\)
 -   Now Assist for IT Service Management \(ITSM\)
 -   Now Assist for Platform \(minimum version 9.1.0\)
@@ -66,8 +66,3 @@ Role required: admin
 
 **Parent Topic:**[Activate Now Assist skills in Now Assist for IT Operations Management \(ITOM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/activate-now-assist-skills-itom.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[install-now-assist-itom|Install the Now Assist for IT Operations Management \(ITOM\) plugin]]
-- [[now-assist-itom|Now Assist for ITOM]]

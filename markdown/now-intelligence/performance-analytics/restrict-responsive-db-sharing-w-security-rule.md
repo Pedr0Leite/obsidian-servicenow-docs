@@ -14,11 +14,11 @@ breadcrumb: [Restrict responsive dashboard access to specific roles, Dashboard p
 
 # Restrict responsive dashboard sharing with security rules
 
-You can configure the users, roles, and groups that users can see on the **Share** panel when they [[t_ControlAccessToADashboard|share a responsive dashboard]].
+You can configure the users, roles, and groups that users can see on the **Share** panel when they share a responsive dashboard.
 
 ## Before you begin
 
-Role required: admin. To modify the [[access-control|Access Control]] List, the admin must elevate to the security\_admin role. For information, see Elevate to a privileged role.
+Role required: admin. To modify the Access Control List, the admin must elevate to the security\_admin role. For information, see Elevate to a privileged role.
 
 ## About this task
 
@@ -42,7 +42,3 @@ Only users whose roles are specified in the field labeled **List of roles \(comm
 
 [Share a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ControlAccessToADashboard.md)
 
-## Related
-
-- [[t_ControlAccessToADashboard|Share a responsive dashboard]]
-- [[access-control|Access control]]

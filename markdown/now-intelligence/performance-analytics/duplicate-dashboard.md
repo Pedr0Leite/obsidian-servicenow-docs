@@ -14,7 +14,7 @@ breadcrumb: [Install a dashboard, Platform Analytics solutions, Reporting, dashb
 
 # Duplicate an Analytics and Reporting Solution dashboard
 
-Copy an [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution dashboard, including the tabs, portal pages, and canvas records. [[widgets|Widgets]] on the dashboard are not duplicated.
+Copy an Platform Analytics Solution dashboard, including the tabs, portal pages, and canvas records. Widgets on the dashboard are not duplicated.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ A copy of the dashboard with the name Copy of \(original dashboard name\) is cre
 
 **Parent Topic:**[Install a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-content.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

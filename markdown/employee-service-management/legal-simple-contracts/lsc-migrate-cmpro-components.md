@@ -14,7 +14,7 @@ breadcrumb: [Migrate to Contract Management Pro for Legal Service Delivery from 
 
 # Data copied to Contract Management Pro for Legal Service Delivery during migration from Legal Simple Contracts
 
-A migration utility copies data from [[legal-simple-contracts-landing-page|Legal Simple Contracts]] tables to [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] tables.
+A migration utility copies data from Legal Simple Contracts tables to Contract Management Pro for Legal Service Delivery tables.
 
 <table id="table_mfq_4kl_zyb"><thead><tr><th>
 
@@ -473,7 +473,3 @@ The file in the document field is copied to the newly created revision record.
 </td></tr></tbody>
 </table>**Parent Topic:**[Migrate to Contract Management Pro for Legal Service Delivery from Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/migration-to-cmpro.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]

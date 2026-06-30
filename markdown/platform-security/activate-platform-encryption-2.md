@@ -12,7 +12,7 @@ breadcrumb: [Configuring Column Level Encryption, Column Level Encryption, Encry
 
 # Activate Column Level Encryption Enterprise
 
-With subscription to [[now-platform-encryption-2|Column Level Encryption Enterprise]], an admin can activate the com.glide.now.platform.[[encryption-landing|encryption]] plugin.
+With subscription to Column Level Encryption Enterprise, an admin can activate the com.glide.now.platform.encryption plugin.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Activating the Column Level Encryption Enterprise plugin \(`com.glide.now.platfo
 
 -   The Encryption Support \(com.glide.encryption\) plugin is also activated.
 
-    **Note:** The [[encryption|Key Management Framework]] \(com.glide.kmf.global\) plugin is already active by default.
+    **Note:** The Key Management Framework \(com.glide.kmf.global\) plugin is already active by default.
 
 -   The `glide_encryption.set_value_support_cle.disabled` property is set to **false**, which turns on the SetValue feature. The SetValue support enables both `setDisplayValue()` and `setValue()` APIs to support encrypted data. It also enables both `getDisplayValue()` and `getValue()` to return clear text values.
 -   Two scheduled jobs are enabled:
@@ -40,22 +40,14 @@ Activating the Column Level Encryption Enterprise plugin \(`com.glide.now.platfo
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the plugin, `Platform Encryption - com.glide.now.platform.encryption` using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the plugin, `Platform Encryption - com.glide.now.platform.encryption` using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install**, and then in the Activate Plugin dialog box, select **Activate**.
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
 
-**Parent Topic:**[[configuring-column-level-encryption-2|Configuring Column Level Encryption]]
+**Parent Topic:**[Configuring Column Level Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption-2.md)
 
-## Related
-
-- [[configuring-column-level-encryption-2|Configuring Column Level Encryption]]
-- [[now-platform-encryption-2|Column Level Encryption Enterprise]]
-- [[encryption-landing|Encryption]]
-- [[encryption|Key Management Framework]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

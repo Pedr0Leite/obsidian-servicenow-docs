@@ -14,7 +14,7 @@ breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Configure healthcare case types for EMR Help
 
-Configure healthcare case types for EMR Help to fulfill service requests made from the [[emr-exploring|EMR Help]] portal.
+Configure healthcare case types for EMR Help to fulfill service requests made from the EMR Help portal.
 
 The base healthcare case type \[sn\_hcls\_case\] is an abstract case type, which provides a foundation to extend from when building your own healthcare case types.
 
@@ -28,9 +28,5 @@ The following steps walk you through creating a case type and modifying the defa
 
 -   A ServiceNow administrator
 -   EMR Help
--   [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
+-   Healthcare and Life Sciences Service Management Core
 
-## Related
-
-- [[emr-exploring|EMR Help]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

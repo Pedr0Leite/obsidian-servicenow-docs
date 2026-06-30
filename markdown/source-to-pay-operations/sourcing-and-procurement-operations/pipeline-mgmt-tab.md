@@ -18,8 +18,8 @@ The Pipeline management tab enables you to get insights into savings and pipelin
 
 To view the Pipeline management tab in the Source-to-Pay Worksapce, you must have the sn\_spend\_pipeline.sourcing\_pipeline\_user role and have the following applications installed:
 
--   [[spo-spend-mgmt|Spend and Savings Management]] \(sn\_spend\_mgmt\)
--   [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]] \(sn\_spend\_pipeline\)
+-   Spend and Savings Management \(sn\_spend\_mgmt\)
+-   Sourcing Pipeline Management \(sn\_spend\_pipeline\)
 
 \[Omitted image "pipeline-management-tab.png"\] Alt text: Pipeline management tab
 
@@ -67,7 +67,7 @@ Displays the pipeline projects assigned to the logged-in user with an estimated 
 
 </td></tr><tr><td>
 
-[[contracts|Contracts]] expiring within 180 days
+Contracts expiring within 180 days
 
 </td><td>
 
@@ -179,8 +179,3 @@ Displays the total estimated savings \(estimated hard savings + estimated cost a
 
 **Parent Topic:**[Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-sourcing-pipeline-mgmt.md)
 
-## Related
-
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]
-- [[contracts|Contracts]]

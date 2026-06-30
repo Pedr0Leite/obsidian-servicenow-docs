@@ -26,7 +26,7 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -66,6 +66,3 @@ If changes are made to a contract end date or its terms and conditions, a copy o
 
 [Manage clauses and contract templates]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

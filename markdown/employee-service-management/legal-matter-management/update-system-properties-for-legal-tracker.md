@@ -39,10 +39,7 @@ Role required: admin
 
 ## Result
 
-The system property update to add the new URL to directly open external matters for the Legal Tracker application that is to be integrated with [[legal-matter-management-landing-page|Legal Matter Management]].
+The system property update to add the new URL to directly open external matters for the Legal Tracker application that is to be integrated with Legal Matter Management.
 
 **Parent Topic:**[Configure Legal Matter Management to engage with outside counsel using Legal Tracker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/configurations-for-legal-tracker-integration.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]

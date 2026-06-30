@@ -14,7 +14,7 @@ breadcrumb: [Using Microsoft Power Virtual Agents as a secondary bot with Virtua
 
 # Locate and copy the Direct Line secret key in Microsoft Power Virtual Agents
 
-To use Power Virtual Agents with [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect, you must locate and copy the Direct Line security key in your Power Virtual Agents account.
+To use Power Virtual Agents with Virtual Agent Bot Interconnect, you must locate and copy the Direct Line security key in your Power Virtual Agents account.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Next topic:**[Add the Direct Line secret key to your Virtual Agent Bot Interconnect instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-dl-secret-key-sn-instance.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

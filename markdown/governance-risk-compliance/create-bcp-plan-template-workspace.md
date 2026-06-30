@@ -52,7 +52,7 @@ As a BCM program manager you can create a plan by clicking the **New** button. W
 
     **Note:**
 
-    The tabs that are available in the Plan view depends on the value that you have selected in the **Plan authoring type** field of the [[configure-bcp-template|Configure a business continuity plan template]] that is used in this plan.
+    The tabs that are available in the Plan view depends on the value that you have selected in the **Plan authoring type** field of the [Configure a business continuity plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-bcp-template.md) that is used in this plan.
 
     \[Omitted image "PlanTabAuthoringType.png"\] Alt text: Plan authoring type values
 
@@ -102,7 +102,7 @@ As a BCM program manager you can create a plan by clicking the **New** button. W
 
     -   **Archived**
 
-        When you archive the plan, it becomes read only. All underlying tables from where the plan retrieves its data to populate in the plan assets, related asset dependencies, recovery strategy, documentation, [[recovery-teams|recovery teams, loss scenarios, and recovery tasks]] tabs become read only. You cannot edit the information in these tabs anymore.
+        When you archive the plan, it becomes read only. All underlying tables from where the plan retrieves its data to populate in the plan assets, related asset dependencies, recovery strategy, documentation, recovery teams, loss scenarios, and recovery tasks tabs become read only. You cannot edit the information in these tabs anymore.
 
     **Note:** A scheduled job runs weekly to move the plans that have expired to **Archived** state.
 
@@ -114,7 +114,4 @@ As a BCM program manager you can create a plan by clicking the **New** button. W
 
     The plan is exported in its entirety with its summary, recovery teams, loss scenarios, recovery tasks, and an appendix table listing the contact number of every member who is part of the recovery team.
 
-## Related
 
-- [[configure-bcp-template|Configure a business continuity plan template]]
-- [[recovery-teams|Recovery teams, loss scenarios, and recovery tasks]]

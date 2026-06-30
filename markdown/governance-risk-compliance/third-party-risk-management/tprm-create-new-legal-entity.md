@@ -14,7 +14,7 @@ breadcrumb: [Create a legal entity and enhance digital resilience data, Use digi
 
 # Create New Legal entity form
 
-On the [[create-new-legal-entity|Create New Legal entity form]], fill in the fields to set up the digital resilience information.
+On the Create New Legal entity form, fill in the fields to set up the digital resilience information.
 
 ## Create New Legal entity form
 
@@ -153,7 +153,3 @@ Monetary value of the total assets of the entity using the ICT services, as per 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-legal-entity|Create New Legal entity form]]

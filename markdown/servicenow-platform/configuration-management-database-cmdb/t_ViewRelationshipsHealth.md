@@ -18,7 +18,7 @@ View health scores for relationship health such as orphan, stale, and duplicate 
 
 ## Before you begin
 
-The [[c_CMDBHealth|CMDB Health]] Dashboard - Relationship Compliance Processor dashboard job must run to generate data for these reports.
+The CMDB Health Dashboard - Relationship Compliance Processor dashboard job must run to generate data for these reports.
 
 **Note:** As a general guideline, activate this job only if you need the relationship reports as this job can affect performance.
 
@@ -105,6 +105,3 @@ For troubleshooting information, see the [How to identify and delete duplicate C
 
 [Enable and configure a CMDB Health Dashboard job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_EnableCMDBHealthDashboardJob.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

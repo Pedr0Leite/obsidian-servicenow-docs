@@ -27,10 +27,7 @@ As a host or a user with the incident manager role, you can end the conference c
 -   **[Reinitiate a conference call from Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/reinitiate-teams-conference-call.md)**  
 Reinitiate a conference call to discuss about the resolution of an incident.
 -   **[View a conference call recording from Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-call-recording-teams.md)**  
-View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a [[reference-for-itsm-mobile-agent|reference]].
+View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a reference.
 
 **Parent Topic:**[Notify in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/notify-sow.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -12,7 +12,7 @@ breadcrumb: [OAuth profile to use certificates, Read email using Microsoft Graph
 
 # Configure a JWT provider
 
-[[config-jwt-credential-flow|Configure a JWT provider]] on the ServiceNow AI Platform to configure an OAuth application profile to authenticate using certificates.
+Configure a JWT provider on the ServiceNow AI Platform to configure an OAuth application profile to authenticate using certificates.
 
 ## Before you begin
 
@@ -66,12 +66,7 @@ Client ID copied from Microsoft Azure
 
 ## What to do next
 
-[[generate-thumbprint|Generate a SHA-1 thumbprint]]
+[Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/generate-thumbprint.md)
 
-**Parent Topic:**[[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]
+**Parent Topic:**[Configure an OAuth profile to use certificates for authentication with Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-oauth-profile-using-certificates.md)
 
-## Related
-
-- [[generate-thumbprint|Generate a SHA-1 thumbprint]]
-- [[configure-oauth-profile-using-certificates|Configure an OAuth profile to use certificates for authentication with Microsoft Azure]]
-- [[config-jwt-credential-flow|Configure a JWT provider]]

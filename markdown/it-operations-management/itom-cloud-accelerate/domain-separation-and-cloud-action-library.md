@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Action Library, Cloud Action Library, ITOM Cloud Ac
 
 # Domain separation and Cloud Action Library
 
-Domain separation is not supported in [[cloud-actions-library-landing-page|Cloud Action Library]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is not supported in Cloud Action Library. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -30,6 +30,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

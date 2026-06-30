@@ -111,7 +111,7 @@ Base Invoice\[sn\_fin\_base\_invoice\]
 
 </td><td>
 
-Stores high-level details about [[invoices|invoices]], such as invoice number, date, [[supplier|supplier]], customer, and total amount.
+Stores high-level details about invoices, such as invoice number, date, supplier, customer, and total amount.
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Defines rules for determining when accounts payable or receivable amounts are du
 
 </td></tr><tr><td>
 
-[[erp-source|ERP Source]]\[sn\_fin\_erp\_source\]
+ERP Source\[sn\_fin\_erp\_source\]
 
 </td><td>
 
@@ -199,7 +199,7 @@ GL Rule\[sn\_fin\_gl\_rule\]
 
 </td><td>
 
-Defines rules and policies for general [[ledger-account|ledger account]] management, including rules for automated journal entries and account mappings.
+Defines rules and policies for general ledger account management, including rules for automated journal entries and account mappings.
 
 </td></tr><tr><td>
 
@@ -215,7 +215,7 @@ Import Error\[sn\_fin\_import\_error\]
 
 </td><td>
 
-Tracks errors encountered during the import process, typically for financial data, to aid in [[troubleshooting|troubleshooting]] and data validation.
+Tracks errors encountered during the import process, typically for financial data, to aid in troubleshooting and data validation.
 
 </td></tr><tr><td>
 
@@ -259,7 +259,7 @@ Holds the balance of general ledger accounts, tracking current balances, debits,
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal Entity]]\[sn\_fin\_legal\_entity\]
+Legal Entity\[sn\_fin\_legal\_entity\]
 
 </td><td>
 
@@ -283,7 +283,7 @@ Contains details about the organizations within the financial system, including 
 
 </td></tr><tr><td>
 
-[[organization-tax-details|Organization Tax Details]]\[sn\_fin\_org\_tax\_detail\]
+Organization Tax Details\[sn\_fin\_org\_tax\_detail\]
 
 </td><td>
 
@@ -327,11 +327,11 @@ Supplier\[sn\_fin\_supplier\]
 
 </td><td>
 
-Contains details about suppliers, including name, address, contact information, and [[payment-terms|payment terms]]
+Contains details about suppliers, including name, address, contact information, and payment terms
 
 </td></tr><tr><td>
 
-[[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]\[sn\_fin\_supplier\_detail\]
+Supplier Legal Entity Mapping\[sn\_fin\_supplier\_detail\]
 
 </td><td>
 
@@ -387,15 +387,3 @@ Manages the unit of measurement \(UOM\) standards used across financial transact
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[erp-source|ERP source]]
-- [[ledger-account|Ledger account]]
-- [[troubleshooting|Troubleshooting]]
-- [[legal-entity|Legal entity]]
-- [[organization-tax-details|Organization tax details]]
-- [[payment-terms|Payment terms]]
-- [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]

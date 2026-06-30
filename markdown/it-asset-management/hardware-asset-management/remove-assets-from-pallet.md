@@ -28,7 +28,7 @@ You can remove assets only from a pallet whose **State** field value is In stock
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset estate**.
 
 2.  Select the **Pallets** tab.
 
@@ -54,9 +54,5 @@ The assets that you removed from the pallet are no longer shown under the Assets
 
 [Delete pallet assets]()
 
-[Using [[pallet-assets|pallet assets]] for managing inventory]()
+[Using pallet assets for managing inventory]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[pallet-assets|Pallet assets]]

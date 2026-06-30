@@ -12,7 +12,7 @@ breadcrumb: [Working with themes, Configure, Next Experience UI, Configure UIs a
 
 # Configure login theming in Next Experience
 
-[[configure-onboarding-modals|Configure]] Next Experience login illustrations and welcome text to provide a login experience that reflects your branding.
+Configure Next Experience login illustrations and welcome text to provide a login experience that reflects your branding.
 
 ## Before you begin
 
@@ -53,9 +53,5 @@ This procedure is specific to login pages and does not apply if you are using Si
 
 The welcome text appears on the Next Experience login page when users are not logged in and is hidden after authentication.
 
-**Parent Topic:**[[next-experience-theming|Working with themes in Next Experience]]
+**Parent Topic:**[Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md)
 
-## Related
-
-- [[next-experience-theming|Working with themes in Next Experience]]
-- [[configure-onboarding-modals|Configure]]

@@ -15,7 +15,7 @@ breadcrumb: [Running process-based discovery, Agent Client Collector File-Based 
 
 # Exclude directories from running process-based discovery
 
-Exclude specific directories from [[running-process-based-discovery|running process-based discovery]] so that processes running from those locations aren't recorded or included in [[file-based-discovery|File-Based Discovery]] scans.
+Exclude specific directories from running process-based discovery so that processes running from those locations aren't recorded or included in File-Based Discovery scans.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: disco\_admin
 
 ## About this task
 
-Some running processes have no Software Asset Management \(SAM\) value and only add noise to [[r-discovery|discovery]] output, such as security tooling or the agent's own processes. Use the FBD Process Path Exclusions \[sn\_acc\_vis\_content\_fbd\_proc\_path\_exclude\] table to prevent those directories from being recorded. A set of common exclusions is included in the base system.
+Some running processes have no Software Asset Management \(SAM\) value and only add noise to discovery output, such as security tooling or the agent's own processes. Use the FBD Process Path Exclusions \[sn\_acc\_vis\_content\_fbd\_proc\_path\_exclude\] table to prevent those directories from being recorded. A set of common exclusions is included in the base system.
 
 ## Procedure
 
@@ -51,8 +51,3 @@ The exclusion is pushed to the relevant agents automatically. New collection cyc
 
 **Parent Topic:**[Running process-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/running-process-based-discovery.md)
 
-## Related
-
-- [[running-process-based-discovery|Running process-based discovery]]
-- [[file-based-discovery|File-based Discovery]]
-- [[r-discovery|Discovery]]

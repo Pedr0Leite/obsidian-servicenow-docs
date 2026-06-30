@@ -12,7 +12,7 @@ breadcrumb: [Configure a record UI section, Launcher screen UI sections, Launche
 
 # Configure additional capabilities in a record section
 
-Define additional record section capabilities like the number of rows, specifying the card size, and the type of card-swiping action. These features are configured in the web-based UI as opposed to the [[mab-concept|Mobile App Builder]].
+Define additional record section capabilities like the number of rows, specifying the card size, and the type of card-swiping action. These features are configured in the web-based UI as opposed to the Mobile App Builder.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 4.  On the form, fill in the fields.
 
-    **Note:** This table lists all features that are not yet available for configuration in the Mobile App Builder. For configurations available within Mobile App Builder, see [[sg-ui-section-config-item|Configure a record UI section]].
+    **Note:** This table lists all features that are not yet available for configuration in the Mobile App Builder. For configurations available within Mobile App Builder, see [Configure a record UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-item.md).
 
 <table id="table_oqd_tzg_rrb"><thead><tr><th>
 
@@ -83,7 +83,7 @@ Size of card displayed in all rows. The following card sizes, in pixels, are ava
 -   **Medium**: \(width 304 x height 148\)
 -   **Large**: \(width 304 x height 243\)
 -   **XLarge**: \(width 304 x height 314\)
-If the listed card sizes do not meet your requirements, you can customize a card size. For more information, see [[sg-ui-section-config-custom-card|Customize a card size for a record section]].This field is not available if you select the field **Is custom size**.
+If the listed card sizes do not meet your requirements, you can customize a card size. For more information, see [Customize a card size for a record section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-custom-card.md).This field is not available if you select the field **Is custom size**.
 
 </td></tr><tr><td>
 
@@ -114,8 +114,4 @@ This number of columns displayed in each record section for either larger device
 </td></tr></tbody>
 </table>5.  Right-click in the header and select **Save**.
 
-## Related
 
-- [[sg-ui-section-config-item|Configure a record UI section]]
-- [[sg-ui-section-config-custom-card|Customize a card size for a record section]]
-- [[mab-concept|Mobile App Builder]]

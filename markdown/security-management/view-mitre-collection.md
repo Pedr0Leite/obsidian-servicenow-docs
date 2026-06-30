@@ -12,11 +12,11 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Manage matrices
 
-Manage the matrices that have been imported from the MITRE TAXII collections. Matrices are a collection of tactics and techniques. You can view the matrices to review if your collections are available in the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]].
+Manage the matrices that have been imported from the MITRE TAXII collections. Matrices are a collection of tactics and techniques. You can view the matrices to review if your collections are available in the MITRE-ATT&amp;CK repository.
 
 ## Before you begin
 
-**Note:** Review and verify that only the matrix you intend to use in your organization is set to active and disable the other matrices. For example, if you intend to use the Enterprise ATT&amp;CK matrix, then the Enterprise ATT&amp;CK matrix is activated at the [[setup-mitre-profile|TAXII collection]] level and in the Matrices level. Disable the other Mobile ATT&amp;CK and ICS ATT&amp;CK matrices at the TAXII collection and at the Matrices level.
+**Note:** Review and verify that only the matrix you intend to use in your organization is set to active and disable the other matrices. For example, if you intend to use the Enterprise ATT&amp;CK matrix, then the Enterprise ATT&amp;CK matrix is activated at the [TAXII collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md) level and in the Matrices level. Disable the other Mobile ATT&amp;CK and ICS ATT&amp;CK matrices at the TAXII collection and at the Matrices level.
 
 Role required:
 
@@ -26,7 +26,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Repository** &gt; **Matrices**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Repository** &gt; **Matrices**.
 
     All matrices are disabled by default.
 
@@ -42,16 +42,16 @@ Role required:
 
 7.  Under the related lists, view the associations that are available for the technique that you selected.
 
-    In the following illustration, you can see the navigational path from the Enterprise ATT&amp;CK matrix, to the Initial Access \(TA0001\) tactic, and then to the Phishing \(T1566\) technique. On the Attack Pattern - Phishing technique page, you can view the related list - Tactic, Sub Technique, Group, Mitigation, External References, [[threat-intelligence-malware|Malware]], and [[tools|Tools]].
+    In the following illustration, you can see the navigational path from the Enterprise ATT&amp;CK matrix, to the Initial Access \(TA0001\) tactic, and then to the Phishing \(T1566\) technique. On the Attack Pattern - Phishing technique page, you can view the related list - Tactic, Sub Technique, Group, Mitigation, External References, Malware, and Tools.
 
     \[Omitted image "enterprise-matrice-view.gif"\] Alt text: Threat Intelligence: MITRE ATT&amp;CK matrix.
 
 
 ## What to do next
 
-You can [[view-and-extend-information|extend the information]] in some of these related list objects based on the technique that you selected. For example, you can add new information for Group, Mitigation, External References, Malware, and Tools.
+You can [extend the information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-and-extend-information.md) in some of these related list objects based on the technique that you selected. For example, you can add new information for Group, Mitigation, External References, Malware, and Tools.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -82,7 +82,7 @@ You can [[view-and-extend-information|extend the information]] in some of these 
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -102,13 +102,3 @@ You can [[view-and-extend-information|extend the information]] in some of these 
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[setup-mitre-profile|Set up the MITRE-ATT&amp;CK framework]]
-- [[view-and-extend-information|Extend the MITRE-ATT&amp;CK data]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[threat-intelligence-malware|Malware]]
-- [[tools|Tools]]
-- [[data-component|Data Component]]

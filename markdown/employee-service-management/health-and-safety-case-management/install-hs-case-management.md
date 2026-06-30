@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Case Management, Health and Safety, Em
 
 # Install Health and Safety Case Management
 
-You can install the [[hs-case-management-landing-page|Health and Safety Case Management]] application \(sn\_hs\_cm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Health and Safety Case Management application \(sn\_hs\_cm\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]\[sn\_hs\_im\_incident\]
+Health and Safety Incident Management\[sn\_hs\_im\_incident\]
 
 </td><td>
 
@@ -56,12 +56,12 @@ Human Resources Scoped App: Core \[com.sn\_hr\_core\]
 
 </td><td>
 
-Installs [[case-knowledge-management-landing-page|Case and Knowledge Management]] for creating HR cases from injury and illness records in Health and Safety Incident Management.-   For more information on activating it, see [Activate Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
+Installs Case and Knowledge Management for creating HR cases from injury and illness records in Health and Safety Incident Management.-   For more information on activating it, see [Activate Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/activate-case-and-knowledge-management-scoped.md).
 -   For information on creating HR cases from injury and illness records, see [Create an HR case from an injury or illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-hr-case-injury-illness.md).
 
 </td></tr><tr><td>
 
-[[ur-landing-limitedaccess|Universal Request]]\[com.snc.universal\_request\]
+Universal Request\[com.snc.universal\_request\]
 
 </td><td>
 
@@ -97,9 +97,3 @@ Installs Universal Request application that supports cross-departmental collabor
 
 **Next topic:**[Configure HR service for creating an HR case for an injury](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-case-management/hs-configure-hr-service-property-case-injury.md)
 
-## Related
-
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[ur-landing-limitedaccess|Universal Request]]

@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Display field values as interaction record tab titles
 
-Display field values, such as contact or consumer names, as titles on interaction record tabs in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Display field values, such as contact or consumer names, as titles on interaction record tabs in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ The system evaluates these fields in the order that they appear in the string. T
 
 4.  Select **Update**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

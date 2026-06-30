@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # Discovery API plugin
 
-The Discovery API plugin provides APIs for scoped applications and is loaded when the [[r-discovery|Discovery]] plugin is activated.
+The Discovery API plugin provides APIs for scoped applications and is loaded when the Discovery plugin is activated.
 
 Details about these [Discovery API methods](https://developer.servicenow.com/app.do#!/api_doc?v=paris&id=c_DiscoveryAPIScopedAPI) are available on the ServiceNow® Developer Site. They are listed here by class.
 
@@ -25,7 +25,7 @@ Details about these [Discovery API methods](https://developer.servicenow.com/app
     The methods in this class launch a quick Discovery of a single IPv4 address and return summaries of previously launched Discovery statuses for a single CI or for all scanned CIs. A MID Server is selected automatically, based on the IP address provided or the application specified.
 
     -   **discoverIpAddress\(\)**: Discovers a single IPv4 address.
-    -   **reportCiIpAddressStatus\(\)**: Returns a summary of a configuration item's [[c_DiscoveryStatus|Discovery status]] given the specific status sys\_id and IPv4 address.
+    -   **reportCiIpAddressStatus\(\)**: Returns a summary of a configuration item's Discovery status given the specific status sys\_id and IPv4 address.
     -   **reportCiStatus\(\)**: Returns a summary of a CI Discovery status given a specific Discovery Status sys\_id.
 -   **ReportCiStatusOutputJS**
 
@@ -41,7 +41,3 @@ Details about these [Discovery API methods](https://developer.servicenow.com/app
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

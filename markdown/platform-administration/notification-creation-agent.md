@@ -12,7 +12,7 @@ breadcrumb: [Now Assist in Notifications, Configure core features, Administer th
 
 # Notification agent
 
-Use the Notification agent to create and modify email [[notifications|notifications]], templates, and layouts through conversation, reducing the need of navigating complex forms and scripts.
+Use the Notification agent to create and modify email notifications, templates, and layouts through conversation, reducing the need of navigating complex forms and scripts.
 
 ## Notification agent capabilities
 
@@ -22,14 +22,10 @@ Describe your notification requirement, and the agent handles configuration, tem
 
 ## End to end notification creation using the Notification agent
 
-The following table shows how a platform administrator creates, applies [[c_EmailTemplates|email templates]], tests, and activates a P1 incident notification using the agent chat interface.
+The following table shows how a platform administrator creates, applies email templates, tests, and activates a P1 incident notification using the agent chat interface.
 
 |Example|Scenario|Action|Agent output|
 |-------|--------|------|------------|
 |Creating a notification from a natural language prompt.|A platform administrator needs to notify users when a P1 incident is assigned to them without navigating the Notifications module.|Create a notification whenever a P1 incident is assigned to a user from the sys\_user \[sys\_user\] table. Set the email template to **incident.ess.resolve**.|The agent checks for duplicates and generates a notification record with the name, table, trigger, template, and recipients populated for review.|
 |Modifying preview content.|After previewing the generated notification, the administrator wants to adjust the email template content.|Add the incident priority to the email body.|The agent updates the email template to include the incident priority field and presents it for review.|
 
-## Related
-
-- [[notifications|Notifications]]
-- [[c_EmailTemplates|Email templates]]

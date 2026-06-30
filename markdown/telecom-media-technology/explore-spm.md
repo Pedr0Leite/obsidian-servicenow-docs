@@ -12,7 +12,7 @@ breadcrumb: [Customer Service Problem Management, Telecommunications, Media, and
 
 # Exploring Customer Service Problem Management
 
-Learn how you, as a service provider, can use the [[cspm-landing-page|Customer Service Problem Management]] \(CSPM\) application to streamline the resolution process for handling service-related problems experienced by your customers.
+Learn how you, as a service provider, can use the Customer Service Problem Management \(CSPM\) application to streamline the resolution process for handling service-related problems experienced by your customers.
 
 ## Request apps on the Store
 
@@ -22,6 +22,3 @@ Customer Service Problem Management \(CSPM\) offers a step-by-step process to ad
 
 If customers experience an issue with their internet service, they can report it to create a case for resolution. The case is then routed to the CSPM application, which analyzes the issue and suggests the relevant diagnostic tests to identify the root cause of the problem. The system then assigns the case to an agent who runs these tests and examines the results. Based on the findings, the agent takes necessary actions to fix the problem and restore the internet service for the customer.
 
-## Related
-
-- [[cspm-landing-page|Customer Service Problem Management]]

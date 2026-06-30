@@ -32,7 +32,7 @@ In this integration, you will:
 
 ## Procedure
 
-1.  In the platform UI, navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Portals** and select the portal you want to add the search source to.
+1.  In the platform UI, navigate to **Service Portal** &gt; **Portals** and select the portal you want to add the search source to.
 
 2.  From the **Search Sources** related list, click **New**.
 
@@ -134,6 +134,3 @@ Each search result opens in the external site defined in the search page templat
 
 **Parent Topic:**[Define a search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/add-table-search-source.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

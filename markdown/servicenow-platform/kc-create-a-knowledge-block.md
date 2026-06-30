@@ -12,18 +12,18 @@ breadcrumb: [Using knowledge blocks in the Knowledge Center, Using Knowledge Cen
 
 # Create a knowledge block in the Knowledge Center
 
-[[create-modify-knowledge-block|Create a knowledge block]] to define a reusable piece of content that can be inserted into knowledge articles in a knowledge base. The knowledge block is secured by user criteria, which controls what users, groups, and roles, can read the content in an article, allowing display of content that is relevant only to them.
+Create a knowledge block to define a reusable piece of content that can be inserted into knowledge articles in a knowledge base. The knowledge block is secured by user criteria, which controls what users, groups, and roles, can read the content in an article, allowing display of content that is relevant only to them.
 
 ## Before you begin
 
 -   -   You must have 'contribute' access to the knowledge base.
--   Confirm that the [[knowledge-blocks|knowledge blocks]] feature is enabled for the knowledge base that the article is in. For more information, see [[kc-enable-knowledge-blocks|Enable knowledge blocks in the Knowledge Center]]
+-   Confirm that the knowledge blocks feature is enabled for the knowledge base that the article is in. For more information, see [Enable knowledge blocks in the Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-enable-knowledge-blocks.md)
 
 Role required: knowledge
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[knowledge-center|Knowledge Center]]**
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Center**
 
 2.  Check whether a knowledge block on this subject is already available.
 
@@ -82,7 +82,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge block. This field appears when the [[enable-ownership-group|ownership groups]] feature is enabled \(see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
+Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled \(see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
 
 </td></tr><tr><td>
 
@@ -132,7 +132,7 @@ Version
 
 </td><td>
 
-Version number of the knowledge block. This field is automatically set to a version number when the [[article-versioning|article versioning]] feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+Version number of the knowledge block. This field is automatically set to a version number when the article versioning feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Article type
 
 </td><td>
 
-Markup language used for formatting the block. This field is automatically set to [[html|HTML]] because**Note:** knowledge blocks are supported only with HTML knowledge articles.
+Markup language used for formatting the block. This field is automatically set to HTML because**Note:** knowledge blocks are supported only with HTML knowledge articles.
 
 </td></tr><tr><td>
 
@@ -165,12 +165,4 @@ Publication state of the block. This field is automatically set to the publicati
     -   **Knowledge - Approval Publish**: The knowledge block is published on approval completion.
     When published, your knowledge block appears in the **Published** and **All** lists under **Knowledge Blocks**. If the article versioning feature is enabled, the version number of the knowledge block is incremented.
 
-## Related
 
-- [[kc-enable-knowledge-blocks|Enable knowledge blocks in the Knowledge Center]]
-- [[create-modify-knowledge-block|Create a knowledge block]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[knowledge-center|Knowledge Center]]
-- [[enable-ownership-group|Ownership groups]]
-- [[article-versioning|Article versioning]]
-- [[html|HTML]]

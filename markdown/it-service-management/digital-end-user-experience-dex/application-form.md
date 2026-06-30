@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # Applications list
 
-It provides details about an application, including its Name and classification as either an installed or Web-based application, counts of alerts and incidents, and Impacted [[dex-workspace-devices-tab|devices]].
+It provides details about an application, including its Name and classification as either an installed or Web-based application, counts of alerts and incidents, and Impacted devices.
 
 <table id="table_g5j_2zt_mwb"><thead><tr><th>
 
@@ -72,7 +72,7 @@ The overview page for a Web application provides information on the active alert
 -   **[Web application — Performance page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/web-app-health-form.md)**  
 Monitor the application performance to enable proactive detection and resolution of issues, maintain optimal performance, improve user experience, troubleshoot the performance issues, and confirm that the application meets its intended purpose.
 -   **[Web application — Devices page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/web-app-users-form.md)**  
-The Active devices and Impacted [[devices-form|devices list]] captures data about the devices, latest logged-in user, last logged in location, and time when the application was last accessed on the device. This information helps with security, access control, and provides insights into user behavior and application usage.
+The Active devices and Impacted devices list captures data about the devices, latest logged-in user, last logged in location, and time when the application was last accessed on the device. This information helps with security, access control, and provides insights into user behavior and application usage.
 -   **[Web application — Trends page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/web-app-trends-form.md)**  
 The trends page captures metrics such as alert trends, average page load time, average response time, metrics for failed web requests, total usage, and mean time to resolve incidents. This information is essential for evaluating system performance, identifying areas for improvement, and take data-driven decisions.
 -   **[Installed application — Overview page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/installed-application-overview-form.md)**  
@@ -86,7 +86,3 @@ The devices lists capture data regarding All devices, Active devices, and Impact
 
 **Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[devices-form|Devices list]]

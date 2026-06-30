@@ -12,7 +12,7 @@ breadcrumb: [Track cases and tasks from the Retail portal, Retail]
 
 # View your organization's knowledge articles from the Retail portal
 
-View the knowledge articles that were posted by your organization directly from the [[rahi-retail-portal|Retail portal]].
+View the knowledge articles that were posted by your organization directly from the Retail portal.
 
 ## Before you begin
 
@@ -28,6 +28,3 @@ Role required: Store associate, Store manager, Regional manager
     -   Select an article from the **Top Rated Articles** or **Most Viewed Articles** lists.
     -   From the Categories list, filter the articles by selecting a category.
 
-## Related
-
-- [[rahi-retail-portal|Retail portal]]

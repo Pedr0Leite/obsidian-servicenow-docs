@@ -15,11 +15,11 @@ breadcrumb: [Scripting Governance Tool, Access Management]
 
 # Manage Scripting Governance Tool
 
-Enable or disable the [[scripting-governance|Scripting Governance Tool]] on your instance by running the appropriate script. Only [[users|users]] with the `security_admin` role can run these scripts and modify the associated properties.
+Enable or disable the Scripting Governance Tool on your instance by running the appropriate script. Only users with the `security_admin` role can run these scripts and modify the associated properties.
 
 ## Scripting Governance Tool states
 
-Scripting Governance Tool operates in one of two states. The active state determines whether scripting governance [[ca-policies|policies]] are enforced and whether users are provisioned to the Conditional Script Writer group.
+Scripting Governance Tool operates in one of two states. The active state determines whether scripting governance policies are enforced and whether users are provisioned to the Conditional Script Writer group.
 
 **Note:**
 
@@ -44,7 +44,7 @@ Enabled
 -   Users are evaluated against scripting access rules and assigned to the appropriate script writer groups.
 -   The `security_admin` can run scans to identify users with scripting access and manage group membership.
 -   Scripting governance policies are enforced across all applicable records and transactions.
--   Audit [[logs|logs]] and visibility into scripting access are available to the security admin.
+-   Audit logs and visibility into scripting access are available to the security admin.
 
 </td></tr><tr><td>
 
@@ -55,7 +55,7 @@ Disabled
 -   Scripting Governance Tool and all associated ACLs are deactivated on the instance.
 -   No scripting governance policies are enforced. Users are not evaluated or assigned to script writer groups.
 -   Existing group memberships from a prior enabled state are preserved but have no enforcement effect.
--   The Scripting Governance Tool interface remains accessible to the security admin but scanning and [[access-management-landing|access management]] actions are inactive.
+-   The Scripting Governance Tool interface remains accessible to the security admin but scanning and access management actions are inactive.
 -   Scripting Governance Tool can be re-enabled by the `security_admin` at any time without data loss.
 
 </td></tr></tbody>
@@ -82,10 +82,3 @@ Running this script performs the following actions:
 -   Enables the **Add Users** to **Conditional Script Writer Group** and **Update Users** in **Conditional Script Writer Group** scheduled jobs.
 -   Schedules the **Add Users** to **Conditional Script Writer Group** job to run.
 
-## Related
-
-- [[scripting-governance|Scripting Governance Tool]]
-- [[users|Users]]
-- [[ca-policies|Policies]]
-- [[logs|Logs]]
-- [[access-management-landing|Access Management]]

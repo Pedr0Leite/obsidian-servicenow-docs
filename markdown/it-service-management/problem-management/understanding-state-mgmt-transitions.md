@@ -14,24 +14,19 @@ breadcrumb: [Problem Management process, Exploring Problem Management, Problem M
 
 # Life cycle of a problem
 
-[[c_ProblemManagement|Problem Management]] is responsible for managing the life cycle of underlying problems. State transition of a problem guides you through the stages of a problem life cycle, from creation to closure.
+Problem Management is responsible for managing the life cycle of underlying problems. State transition of a problem guides you through the stages of a problem life cycle, from creation to closure.
 
 Problem Management has one single goal: Identifying and resolving the underlying issues that cause Incidents. Problem Management is a systematic, methodical process where time to resolution is less important than identifying and resolving the root cause.
 
 **Note:** The state-based information is available only in new instances starting from the Madrid release. Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Existing users \(London and prior releases\) cannot activate this plugin.
 
-The [[c_ProblemManagementProcess|Problem Management process]] has many states, and each is vitally important to the success of the process and the quality of service delivered. The different states can be represented in a diagram as follows:
+The Problem Management process has many states, and each is vitally important to the success of the process and the quality of service delivered. The different states can be represented in a diagram as follows:
 
 \[Omitted image "pm-state-transitions.png"\] Alt text: Diagram describing how a problem transitions from one state to another state.
 
 **Note:**
 
-You can use [[problem-mgmt-models|Problem Management models]] to tailor processes for specific use cases. For more information, see [Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md).
+You can use Problem Management models to tailor processes for specific use cases. For more information, see [Problem Management models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-models.md).
 
 **Parent Topic:**[Problem Management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/c_ProblemManagementProcess.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[problem-mgmt-models|Problem Management models]]

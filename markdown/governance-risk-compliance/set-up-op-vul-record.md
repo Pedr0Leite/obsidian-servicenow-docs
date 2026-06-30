@@ -12,7 +12,7 @@ breadcrumb: [Reporting Operational vulnerability, Managing Operational vulnerabi
 
 # Report an operational vulnerability from the module
 
-Report an [[exploring-op-vul|operational vulnerability]] from the Operational vulnerability module in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Report an operational vulnerability from the Operational vulnerability module in the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Users of the operational vulnerability are listed in the Assignment section on t
 
 4.  On the Vulnerability New record form, fill in the fields.
 
-    To view more information on the fields, see the [[create-new-op-vul-form|Create Operational vulnerability form]].
+    To view more information on the fields, see the [Create Operational vulnerability form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-op-vul-form.md).
 
 5.  Select the treatment decision for the vulnerability.
 
@@ -86,8 +86,4 @@ Users of the operational vulnerability are listed in the Assignment section on t
 
 13. To delete the vulnerability record, select **Delete**.
 
-## Related
 
-- [[create-new-op-vul-form|Create Operational vulnerability form]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Connected Workforce Mobile Experience, Industrial C
 
 # Execute an Industrial Guided Task with the Industrial Connected Workforce Mobile Experience
 
-Execute an Industrial Guided Task \(IGT\) with the [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] to keep operations consistent, safe, and aligned with industry standards.
+Execute an Industrial Guided Task \(IGT\) with the Industrial Connected Workforce Mobile Experience to keep operations consistent, safe, and aligned with industry standards.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: sn\_icw\_igt.user
 
 7.  Navigate to the three-dot menu and then tap **Add attachment** to provide additional information while executing the task.
 
-8.  Navigate to the three-dot menu and then tap **Follow up actions** to access the list of follow-up actions or to [[create-follow-up-action|create a follow-up action]] directly from the task.
+8.  Navigate to the three-dot menu and then tap **Follow up actions** to access the list of follow-up actions or to create a follow-up action directly from the task.
 
 9.  If you're working in offline mode, save your progress by navigating to the three-dot menu and selecting **Save**.
 
@@ -59,7 +59,3 @@ The task is completed successfully, and its status is changed to Closed Complete
 
 **Parent Topic:**[Using the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/using-icw-mobile-experience.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[create-follow-up-action|Create a follow-up action]]

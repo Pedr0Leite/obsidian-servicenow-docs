@@ -19,13 +19,13 @@ If the dashboard you want to create is similar to an existing one, duplicating t
 ## Before you begin
 
 -   Users or groups that you want to share the dashboard with must have the sn\_align\_core.ap\_read\_only or sn\_align\_core.apw\_user role to get the read or edit access to the portfolio plan respectively.
--   When you [[copy-dashboard-ppw|duplicate a dashboard]], you copy all settings and details of the original. Content that exists locally on the original dashboard is duplicated onto the new dashboard. If the original dashboard contains references to content in a library, such as a shared visualization, the references are duplicated. The role requirements for editing an element in a library apply to the latter.
+-   When you duplicate a dashboard, you copy all settings and details of the original. Content that exists locally on the original dashboard is duplicated onto the new dashboard. If the original dashboard contains references to content in a library, such as a shared visualization, the references are duplicated. The role requirements for editing an element in a library apply to the latter.
 
 Role required: sn\_align\_core.ap\_read\_only
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Dashboards**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Dashboards**.
 
     By default, the Execution Dashboard appears on the Dashboards page.
 
@@ -56,7 +56,7 @@ The dashboard is copied with the new name. The appearance of the dashboard is id
 
 ## What to do next
 
-[[edit-dashboard-ppw|Edit a dashboard]] as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/edit-dashboard-spw.md).
+Edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/edit-dashboard-spw.md).
 
 **Parent Topic:**[Using Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/using-dashboards-spw.md)
 
@@ -71,8 +71,3 @@ The dashboard is copied with the new name. The appearance of the dashboard is id
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 
-## Related
-
-- [[copy-dashboard-ppw|Duplicate a dashboard]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[edit-dashboard-ppw|Edit a dashboard]]

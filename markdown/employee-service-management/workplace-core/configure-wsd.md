@@ -14,11 +14,11 @@ breadcrumb: [Workplace Core, Workplace Service Delivery, Employee Service Manage
 
 # Configure Workplace Core
 
-[[install-workplace-safety-mgmt-hr|Install Workplace Core]] application. Provide your workplace data to configure spreadsheets and import workplace data. Modify your existing spreadsheets. Upload floor plans to provide floor maps for a selected floor.
+Install Workplace Core application. Provide your workplace data to configure spreadsheets and import workplace data. Modify your existing spreadsheets. Upload floor plans to provide floor maps for a selected floor.
 
-[[workplace-safety-mgmt-hr|Workplace Core]] administrators can install and configure the Workplace Core and application to enable [[workplace-services|workplace services]] for employees. It covers installation of Workplace Core application, preparing and importing workplace data, and enabling supporting capabilities that enable employees to interact with workplace services effectively. Administrators can set up workplace locations, spaces, and upload floor plans.
+Workplace Core administrators can install and configure the Workplace Core and application to enable workplace services for employees. It covers installation of Workplace Core application, preparing and importing workplace data, and enabling supporting capabilities that enable employees to interact with workplace services effectively. Administrators can set up workplace locations, spaces, and upload floor plans.
 
-[[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] administrators can configure the following:
+Workplace Service Delivery administrators can configure the following:
 
 -   Workplace Core application and dependent plugins, if necessary.
 -   Create campus, buildings, floors, and spaces.
@@ -38,14 +38,7 @@ In the Workplace Core application, provide data related to your workplace locati
 -   **[Configuring spreadsheets to import workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/importing-workspace-data-wsd.md)**  
 Import work location data in bulk through spreadsheets into the Workplace Core application to avoid manually entering redundant data for each workplace, which saves time and effort.
 -   **[Activate Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/actuvate-va-for-wsd.md)**  
-[[actuvate-va-for-wsd|Activate Virtual Agent for Workplace Service Delivery]] to provide user assistance to employees through a chat interface.
+Activate Virtual Agent for Workplace Service Delivery to provide user assistance to employees through a chat interface.
 
 **Parent Topic:**[Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-service-delivery-feat.md)
 
-## Related
-
-- [[install-workplace-safety-mgmt-hr|Install Workplace Core]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[actuvate-va-for-wsd|Activate Virtual Agent for Workplace Service Delivery]]

@@ -32,7 +32,7 @@ Quick links are stored in the Quick Links \[sn\_cmdb\_ws\_quick\_links\] table i
 
 3.  Enter the **URL** and **Display text** for the link and then click **Add**.
 
-    A valid URL must start with "http:" or "https:". To link to a tool in the instance such as the [[ci-class-manager-landing-page|CI Class Manager]], enter the full URL to the tool's landing page.
+    A valid URL must start with "http:" or "https:". To link to a tool in the instance such as the CI Class Manager, enter the full URL to the tool's landing page.
 
 4.  Click **Done**.
 
@@ -47,6 +47,3 @@ Click on the Edit quick links icon to edit, delete, or reposition an added link.
 
 **Parent Topic:**[Configuring CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-cmdb-workspace.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]

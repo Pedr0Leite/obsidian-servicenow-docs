@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction, Email channel, Enable communication channels, Co
 
 # Enable Recommended Actions for an email interaction
 
-Help the agent to find relevant resources based on the context of an email by enabling [[configure-nba|recommended actions]].
+Help the agent to find relevant resources based on the context of an email by enabling recommended actions.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: admin
 
 ## About this task
 
-For more information, see [[nba|Configuring Recommended Actions]].
+For more information, see [Configuring Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md).
 
 ## Procedure
 
@@ -31,7 +31,4 @@ For more information, see [[nba|Configuring Recommended Actions]].
 
 3.  Set the **Active** column as true.
 
-## Related
 
-- [[nba|Configuring Recommended Actions]]
-- [[configure-nba|Recommended Actions]]

@@ -14,17 +14,17 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create user subscriptions in the workspace
 
-Create software subscriptions for SaaS and SSO applications for users in the [[sam-workspace|Software Asset Workspace]].
+Create software subscriptions for SaaS and SSO applications for users in the Software Asset Workspace.
 
 ## Before you begin
 
-The User subscription option is available only if the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) plugin is activated.
+The User subscription option is available only if the Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) plugin is activated.
 
 Role required: sam\_admin or sam\_user
 
 ## About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create user subscriptions in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create user subscriptions in Core UI is inactive.
 
 ## Procedure
 
@@ -77,9 +77,3 @@ Navigate to **All** &gt; **Software Asset** &gt; **Software Subscriptions**.
 
 [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]

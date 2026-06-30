@@ -56,7 +56,7 @@ Application
 
 </td><td>
 
-[[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]]
+Software Asset Management - SaaS License Management
 
 </td></tr><tr><td>
 
@@ -193,7 +193,7 @@ Identifier
 
 </td><td>
 
-A unique identifier to identify the integration. [[c_CreatingSoftwareModels|Software models]] are automatically created for subscription with an identifier that matches an identifier in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table.
+A unique identifier to identify the integration. Software models are automatically created for subscription with an identifier that matches an identifier in the Subscription Product Definitions \[samp\_sw\_subscription\_product\_definition\] table.
 
 If an identifier doesn't exist, configure an identifier. For more information, see [Configure an identifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-subflow-get-users.md).
 
@@ -438,8 +438,4 @@ Check box indicating the identifier is used or not.
 </td></tr></tbody>
 </table>    3.  Select **Submit**.
 
-## Related
 
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_CreatingSoftwareModels|Software models]]

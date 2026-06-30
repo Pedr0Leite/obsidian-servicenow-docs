@@ -14,7 +14,7 @@ breadcrumb: [Multilingual model management, Natural Language Understanding, Enab
 
 # Assign an NLU editor to a model
 
-Assign an editor to review your [[nlu-landing|Natural Language Understanding]] \(NLU\) model translations and edit model content. Delegate the maintenance, testing, and optimization of model content to an editor.
+Assign an editor to review your Natural Language Understanding \(NLU\) model translations and edit model content. Delegate the maintenance, testing, and optimization of model content to an editor.
 
 ## Before you begin
 
@@ -57,7 +57,7 @@ The nlu\_editor can't do the following:
 -   Provide feedback in [NLU Expert Feedback Loop](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-expert-feedback-loop.md).
 -   Manage other editors, such as assigning an editor to a model or removing an editor from a model.
 
-\[Omitted image "assign-editor1U.png"\] Alt text: In the [[managing-model-content|Build and train your model]] phase, the Intents need review card is highlighted. In the list of the model's intents, three intents are marked as Needs review.
+\[Omitted image "assign-editor1U.png"\] Alt text: In the Build and train your model phase, the Intents need review card is highlighted. In the list of the model's intents, three intents are marked as Needs review.
 
 First, an admin assigns the nlu\_editor role to a user. Next, the NLU admin assigns the editor to a model.
 
@@ -99,7 +99,3 @@ Assign more editors to the model, if necessary. You can assign up to four editor
 
 As an NLU admin, ensure that your editors have what they need to properly review and edit models.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[managing-model-content|Build and train your model]]

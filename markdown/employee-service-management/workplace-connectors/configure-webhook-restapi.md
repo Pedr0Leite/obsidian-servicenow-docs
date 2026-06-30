@@ -26,7 +26,7 @@ The badging data \(JSON\) is processed using the ServiceNow Rest API explorer. S
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Provider [[connector-configuration-occupancy|Connector Configurations]]**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Provider Connector Configurations**.
 
 2.  Select **Create New**.
 
@@ -124,7 +124,7 @@ Option to select the callback URL icon \(\[Omitted image "wsd-callback-url-icon.
         If the Response code is **200 OK** and the response result is **Success**, the badging data is loaded into the Connector Events table.
 
         -   The Connector Events table \(sn\_wsd\_wc\_connector\_events\) loads the badging data shared by badging vendors. The State of the badging data is **New** when it’s loaded by the REST API Explorer.
-        -   The scheduled Job **Process webhook provider data records** runs every minute to load the badging data from the Connector Events table \(data with the State **New**\) to the [[employee-attendance|Employee Attendance Data]] table.
+        -   The scheduled Job **Process webhook provider data records** runs every minute to load the badging data from the Connector Events table \(data with the State **New**\) to the Employee Attendance Data table.
     The scheduled job takes the source data from the **Webhook** event to transform the data in the required format and then place it in the target Employee Attendance Data table.
 
     **Note:** To access the Workplace Connectors scheduled jobs, navigate to **All** &gt; **System Definition** &gt; **Scheduled jobs**. Search for **Workplace connectors** in the Application column. Two scheduled jobs are available for Workplace Connectors.
@@ -132,7 +132,7 @@ Option to select the callback URL icon \(\[Omitted image "wsd-callback-url-icon.
     -   **Process provider data records**: Reads data from vendor badging data \(source table\). After processing the badging data, the record loads it into the Employee Attendance Data table \(target table\). For more information, see [Configure badging table data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-configuration-wsd-connectors.md).
     -   **Process webhook provider data records**: Reads data from the Connector Events table. Processes the webhook event data and loads it into the Employee Attendance Data table \(target table\).
     -   Data is loaded to the Employee Attendance Data table. The state of the badging data in the Connector Events table changes to **Processed**.
-    -   From the Employee Attendance Data table, the data is loaded into the [[attendance-analytics|Attendance Analytics]] table.
+    -   From the Employee Attendance Data table, the data is loaded into the Attendance Analytics table.
 
         **Note:** Badging data records in the Connector Events table with the state of Processed are purged after two days from the date of creation or the current date by the Connector Events table \[sn\_wsd\_wc\_connector\_events\]. Data in the Error state is purged after seven days from the date of creation. Data in the New state isn’t purged.
 
@@ -143,9 +143,3 @@ Option to select the callback URL icon \(\[Omitted image "wsd-callback-url-icon.
 
 **Next topic:**[Employee attendance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/employee-attendance.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[connector-configuration-occupancy|Connector Configurations]]
-- [[employee-attendance|Employee attendance data]]
-- [[attendance-analytics|Attendance Analytics]]

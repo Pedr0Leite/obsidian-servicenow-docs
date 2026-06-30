@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Check Definitions**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Check Definitions**.
 
 2.  Click **New**.
 
@@ -38,6 +38,4 @@ Role required: agent\_client\_collector\_admin
 
     The information you can add for parameters is described in [Check definition form parameters tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/check-definition-parameters-tab.md).
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

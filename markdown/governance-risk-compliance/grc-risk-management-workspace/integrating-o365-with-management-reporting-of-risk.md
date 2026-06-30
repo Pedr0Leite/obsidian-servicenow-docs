@@ -16,7 +16,7 @@ breadcrumb: [Integrate, Risk Management, Governance, Risk, and Compliance]
 
 The Management Reporting of Risk \(sn\_grc\_mgmt\_report\) integration provides reporting capabilities to Risk reporting managers to report ServiceNow Risk Management system data, list reports, charts, pivot, and multi-pivot reports using Microsoft Word.
 
-The risk managers prepare reports for board members or senior management periodically to provide updates on the [[tprm-risk-profile-what-is|risk profile]] based on the information available in ServiceNow.
+The risk managers prepare reports for board members or senior management periodically to provide updates on the risk profile based on the information available in ServiceNow.
 
 This integration enables the risk reporting managers to view the inventory of the ServiceNow Risk Management data links on the report and refresh the inserted data to be in synchronization with the latest ServiceNow Risk Management data. An audit trail is also established between the data imported and the ServiceNow instance. The audit trail provides any auditor the ability to select the links in the document and access the source of the data in the ServiceNow instance.
 
@@ -81,6 +81,3 @@ Horizontal bar chart
 
 \[Omitted image "data-imported-risk-instance-word.jpg"\] Alt text: How the imported data appears in a Word document.
 
-## Related
-
-- [[tprm-risk-profile-what-is|Risk profile]]

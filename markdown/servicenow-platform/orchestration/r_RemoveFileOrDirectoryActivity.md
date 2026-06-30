@@ -20,7 +20,7 @@ The Remove File or Directory activity removes a file or a directory on an SFTP s
 
 |Variable|Description|
 |--------|-----------|
-|sourceHost|Name or [[ip-address|IP address]] of the server containing the files you want to remove.|
+|sourceHost|Name or IP address of the server containing the files you want to remove.|
 |sourcePort|Port number to use to communicate with the target server. The default port number is **22**.|
 |sourceFilePath|Full path to the file or directory to remove. To remove multiple files or directories using a single activity, enter a semicolon-separated list of paths in this field.|
 |isDirectory|True/false variable that determines if the specified file path is a directory. The default value for this variable is **false**.|
@@ -73,6 +73,3 @@ The **deletionResults** array contains these attributes:-   **fullPath**: Full p
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

@@ -30,7 +30,7 @@ If no agent accepts the chat request, the conversation automatically times out f
 
 ## Fulfiller experience
 
-In the [[legal-counsel-center-landing|Legal Counsel Center]], users in the Legal department with the legal\_fulfiller role can make themselves available when they are ready to take any incoming chat requests.
+In the Legal Counsel Center, users in the Legal department with the legal\_fulfiller role can make themselves available when they are ready to take any incoming chat requests.
 
 -   **Interaction records**
 
@@ -54,6 +54,3 @@ Configure settings to enable live agent support for legal services.
 
 [Start a chat session through Legal Counsel Center Inbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/chat-employee-counsel-center.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

@@ -30,7 +30,7 @@ Review and prioritize the items in the Prioritization, Kanban, or Hierarchy tab 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -93,7 +93,4 @@ Update the **Planning state** field of the item.
 
     \[Omitted image "backlog-multi-row-update.gif"\] Alt text: Update planning state of multiple rows at once in Prioritization page.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

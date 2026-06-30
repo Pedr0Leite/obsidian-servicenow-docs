@@ -22,9 +22,9 @@ Role required: user
 
 After you add ServiceNow mobile apps to your mobile device, you must connect them to the web-based UI instance that you work with.
 
-**Note:** For more information about working with multiple ServiceNow accounts within the same mobile app, see [[instance-multiple|Working with multiple ServiceNow accounts on a single mobile device]].
+**Note:** For more information about working with multiple ServiceNow accounts within the same mobile app, see [Working with multiple ServiceNow accounts on a single mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/instance-multiple.md).
 
-If you download the mobile app from an enterprise mobility management \(EMM\) suite, enter your user credentials as prompted. For more details on EMM, see [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]]. If you didn't download the mobile app from an EMM suite, follow the steps in this topic.
+If you download the mobile app from an enterprise mobility management \(EMM\) suite, enter your user credentials as prompted. For more details on EMM, see [Enterprise mobility management \(EMM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enterprise-mobility-management.md). If you didn't download the mobile app from an EMM suite, follow the steps in this topic.
 
 ## Procedure
 
@@ -67,7 +67,7 @@ Tap the QR icon \(\[Omitted image "mobile-qr-scan.png"\] Alt text: Mobile QR sca
  The QR code automatically fills in the ServiceNow url.
 
 </td></tr></tbody>
-</table>    **Note:** For both the [[now-mobile-app|Now Mobile app]] and [[mobile-experience|Mobile Agent app]], there's an option to test with a demo account, where you can select a role that matches the demo you would like to see. For more information, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sg-mobile-demo.md) and [[sg-agent-demo|Mobile Agent app demo]].
+</table>    **Note:** For both the Now Mobile app and Mobile Agent app, there's an option to test with a demo account, where you can select a role that matches the demo you would like to see. For more information, see [Now Mobile app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sg-mobile-demo.md) and [Mobile Agent app demo](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-agent-demo.md).
 
 3.   Enter a nickname for this instance to help you easily locate changes you make within the instance.
 
@@ -85,13 +85,5 @@ Tap the QR icon \(\[Omitted image "mobile-qr-scan.png"\] Alt text: Mobile QR sca
 **Related topics**  
 
 
-[[mobile-authentication|Mobile authentication]]
+[Mobile authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-authentication.md)
 
-## Related
-
-- [[instance-multiple|Working with multiple ServiceNow accounts on a single mobile device]]
-- [[enterprise-mobility-management|Enterprise mobility management \(EMM\)]]
-- [[sg-agent-demo|Mobile Agent app demo]]
-- [[mobile-authentication|Mobile authentication]]
-- [[now-mobile-app|Now Mobile app]]
-- [[mobile-experience|Mobile Agent app]]

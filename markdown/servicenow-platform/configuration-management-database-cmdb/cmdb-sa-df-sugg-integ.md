@@ -24,13 +24,13 @@ The Data Foundations advisor dashboard must be configured before you can access 
 
 ## Procedure
 
-1.  Navigate to the [[cmdb-sa|CMDB success advisor]] landing page.
+1.  Navigate to the CMDB success advisor landing page.
 
 2.  On the Data Foundations card, select **View insights**.
 
 3.  Select the **Data integrations** tab.
 
-4.  In the **Suggested integrations** section, review the recommended [[cmdb-sgc-available|Service Graph Connectors]] and Discovery patterns to identify potential data sources for improving CI coverage for your principal classes.
+4.  In the **Suggested integrations** section, review the recommended Service Graph Connectors and Discovery patterns to identify potential data sources for improving CI coverage for your principal classes.
 
     Suggested integrations are recommended based on your selected advisor scope. Installing them can expand data coverage by populating additional CI attributes for your principal classes. All suggested integration sources are accessible for setup from the dashboard.
 
@@ -43,7 +43,3 @@ The Data Foundations advisor dashboard must be configured before you can access 
 
 You have identified the integrations recommended for your Data Foundations scope. To evaluate attribute coverage for integrations that are already installed, see [Evaluate Data Foundations data integration coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-evaluate-data-integration.md).
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

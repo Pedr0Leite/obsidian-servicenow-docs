@@ -14,13 +14,13 @@ breadcrumb: [Configure, Gifts and Entertainment Compliance, Legal Service Delive
 
 # Install Gifts and Entertainment Compliance
 
-You can install the [[lsd-ge-landing-page|Gifts and Entertainment Compliance]] application \(sn\_lg\_gifts\) if you have the admin role.
+You can install the Gifts and Entertainment Compliance application \(sn\_lg\_gifts\) if you have the admin role.
 
 ## Before you begin
 
 **Note:**
 
-The Gifts and Entertainment Compliance application is installed automatically when you install the [[legal-simple-compliance-applications|Legal Simple Compliance]] suite.
+The Gifts and Entertainment Compliance application is installed automatically when you install the Legal Simple Compliance suite.
 
 Gifts and Entertainment Compliance requires a separate subscription from the rest of the ServiceNow AI Platform.
 
@@ -60,7 +60,3 @@ For more information, see [Components installed with Gifts and Entertainment Com
 
 **Parent Topic:**[Configure Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-administration.md)
 
-## Related
-
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]
-- [[legal-simple-compliance-applications|Legal Simple Compliance]]

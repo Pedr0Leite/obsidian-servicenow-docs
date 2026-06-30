@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-Related parties and their assigned responsibilities are part of the Customer Access Management feature. Customer access management enables you to support multiple contacts and consumers on cases and [[sold-product|sold products]], providing them with varying levels of access to the case. For more information, see [[configuring-cam|Configuring Customer Access Management]].
+Related parties and their assigned responsibilities are part of the Customer Access Management feature. Customer access management enables you to support multiple contacts and consumers on cases and sold products, providing them with varying levels of access to the case. For more information, see [Configuring Customer Access Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-cam.md).
 
 Related parties that are added to cases must also be assigned the sn\_customerservice.case\_authorized\_contributor role.
 
@@ -85,7 +85,7 @@ Specifies the sequence in which records are displayed, organized according to bu
 
 Once related parties are added to the case with a proper functional role having Authorized Representative responsibility, they can perform the following actions.
 
--   [[osp-close-case|Close a case]].
+-   Close a case.
 -   Update customer-visible case tasks.
 -   Add additional comments and attachments.
 -   Accept or reject a solution.
@@ -100,11 +100,5 @@ Once related parties are added to the case with a proper functional role having 
 **Related topics**  
 
 
-[[case-update-notification-cam|Case update notifications]]
+[Case update notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-update-notification-cam.md)
 
-## Related
-
-- [[configuring-cam|Configuring customer access management]]
-- [[case-update-notification-cam|Case update notifications]]
-- [[sold-product|Sold products]]
-- [[osp-close-case|Close a case]]

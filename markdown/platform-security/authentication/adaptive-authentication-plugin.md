@@ -14,7 +14,7 @@ breadcrumb: [Adaptive authentication, Authentication, Access Management]
 
 # Activate adaptive authentication
 
-You can activate the [[adaptive-authentication|Adaptive Authentication]] plugin \(com.snc.adaptive\_authentication\) for Adaptive Authentication if you have the admin role.
+You can activate the Adaptive Authentication plugin \(com.snc.adaptive\_authentication\) for Adaptive Authentication if you have the admin role.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ You can activate the [[adaptive-authentication|Adaptive Authentication]] plugin 
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the **Adaptive Authentication** \(com.snc.adaptive\_authentication\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.\[Omitted image "adaptive-auth-plugin.png"\] Alt text: Adaptive Authentication plugin
+2.  Find the **Adaptive Authentication** \(com.snc.adaptive\_authentication\) plugin using the filter criteria and search bar.\[Omitted image "adaptive-auth-plugin.png"\] Alt text: Adaptive Authentication plugin
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -37,15 +37,7 @@ You can activate the [[adaptive-authentication|Adaptive Authentication]] plugin 
 
 ## What to do next
 
-Configure your [[authentication-policies|authentication policies]] to enforce contextual [[c_Authentication|authentication]] controls on your instance.
+Configure your authentication policies to enforce contextual authentication controls on your instance.
 
-Once your [[ca-policies|policies]] are configured. Enable adaptive authentication using the **Enable Authentication Policy** policy. For details on adaptive authentication properties, see [Configure adaptive authentication properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-adaptive-auth-properties.md).
+Once your policies are configured. Enable adaptive authentication using the **Enable Authentication Policy** policy. For details on adaptive authentication properties, see [Configure adaptive authentication properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-adaptive-auth-properties.md).
 
-## Related
-
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]
-- [[authentication-policies|Authentication policies]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]

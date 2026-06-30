@@ -14,7 +14,7 @@ breadcrumb: [Attach a Knowledge article, Managing contextual search, Contextual 
 
 # Specify field for attached Knowledge article links
 
-Specify which field to add a note to when you [[t_AttachAnArticle|attach a Knowledge article]] to a record.
+Specify which field to add a note to when you attach a Knowledge article to a record.
 
 ## Before you begin
 
@@ -32,11 +32,11 @@ You can specify the local field using the following procedure.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Table Configuration**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Table Configuration**.
 
 2.  Open the table configuration that you want to change attachment fields for.
 
-3.  Select the Search Action [[clone-configurations-tab|Configurations]] related list.
+3.  Select the Search Action Configurations related list.
 
     \[Omitted image "polaris-ui-kb-attach-field.png"\] Alt text: Field where a link to the Knowledge article is embedded.
 
@@ -67,8 +67,3 @@ Clearing the system cache can affect overall performance and degrade system resp
 
 **Parent Topic:**[Attach a Knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_AttachAnArticle.md)
 
-## Related
-
-- [[t_AttachAnArticle|Attach a Knowledge article]]
-- [[c_ContextualSearch|Contextual search]]
-- [[clone-configurations-tab|Configurations]]

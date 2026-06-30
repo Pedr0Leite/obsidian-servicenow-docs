@@ -14,7 +14,7 @@ breadcrumb: [Standard ticket page, Creating portal pages, Configuring Service Po
 
 # Activate the page route map for the standard ticket page
 
-If you have upgraded your instance, redirect the ticket page to standard\_ticket page in [[c_ServicePortal|Service Portal]] and view requests on the [[standard-ticket-page|standard ticket page]].
+If you have upgraded your instance, redirect the ticket page to standard\_ticket page in Service Portal and view requests on the standard ticket page.
 
 ## Before you begin
 
@@ -38,7 +38,3 @@ Role required: admin or sp\_admin
 
 [Define filters for My Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-my-requests.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[standard-ticket-page|Standard ticket page]]

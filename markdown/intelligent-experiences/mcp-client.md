@@ -13,7 +13,7 @@ breadcrumb: [Now Assist AI agents, Enable AI experiences]
 
 # Model Context Protocol Client
 
-The ServiceNow® Model Context Protocol Client \(MCP Client\) enables you to access the Model Context Protocol tools that are hosted externally and published using an MCP Server in the ServiceNow® [[ai-agent-studio|AI Agent Studio]].
+The ServiceNow® Model Context Protocol Client \(MCP Client\) enables you to access the Model Context Protocol tools that are hosted externally and published using an MCP Server in the ServiceNow® AI Agent Studio.
 
 ## Get started
 
@@ -51,12 +51,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [[platform-now-assist-landing|Now Assist documentation]].
+For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]

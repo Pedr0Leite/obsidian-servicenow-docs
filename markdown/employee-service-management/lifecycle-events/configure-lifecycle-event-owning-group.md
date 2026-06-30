@@ -14,7 +14,7 @@ breadcrumb: [Configure the supporting components for a lifecycle event, Building
 
 # Configure an owning group for a lifecycle event
 
-Create or modify an owning group to define the user group that owns a lifecycle event [[activity-lxp|activity]]. Each owning group is responsible for overseeing the activities that fall under their purview.
+Create or modify an owning group to define the user group that owns a lifecycle event activity. Each owning group is responsible for overseeing the activities that fall under their purview.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ To create, update, or delete an activity, you must be both a member of the assoc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|LIfecycle Events]]** &gt; **Administration** &gt; **Manage Owner Groups**.
+1.  Navigate to **All** &gt; **LIfecycle Events** &gt; **Administration** &gt; **Manage Owner Groups**.
 
 2.  Click **New** or open a record.
 
@@ -88,7 +88,3 @@ HR skills assigned to the owning group.**Note:** Any HR skills assigned to the p
 
 **Parent Topic:**[Configure the supporting components for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-supporting-components-for-lifecycle-event.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Incident Management OSHA Content Pack, Health and
 
 # Setting up the OSHA Content Pack
 
-Set up the [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] application to enable the generation of OSHA forms.
+Set up the Health and Safety Incident Management OSHA Content Pack application to enable the generation of OSHA forms.
 
 The following table gives an overview of the required configuration tasks.
 
@@ -32,7 +32,7 @@ Description
 
 </td><td>
 
-Install the Health and Safety Incident Management OSHA Content Pack application on your ServiceNow instance that has [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]].
+Install the Health and Safety Incident Management OSHA Content Pack application on your ServiceNow instance that has Health and Safety Incident Management.
 
 </td></tr><tr><td>
 
@@ -66,7 +66,3 @@ Update a saved OSHA form PDF template if changes to an OSHA form PDF file are re
 
 **Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/generating-osha-forms.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

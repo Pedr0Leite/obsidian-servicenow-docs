@@ -14,11 +14,11 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # Limit AWS discovery to datacenters with resources
 
-Optimize AWS [[r-discovery|discovery]] by limiting it to datacenters with resources.
+Optimize AWS discovery by limiting it to datacenters with resources.
 
 ## Before you begin
 
-Verify that you have installed Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns, starting with version 1.29.0.
+Verify that you have installed Discovery and Service Mapping Patterns, starting with version 1.29.0.
 
 Role required: discovery\_admin
 
@@ -46,7 +46,3 @@ Starting with version 1.29.0, Discovery and Service Mapping Patterns introduces 
 
 [AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -18,11 +18,11 @@ Plan owners update plan configurations and publish the changes for review and ap
 
 ## Before you begin
 
-Role required: Owner or co-owner of a [[jny-dsgnr-landing-page-1|Journey designer]] plan configuration.
+Role required: Owner or co-owner of a Journey designer plan configuration.
 
 ## About this task
 
-[[jny-dsgnr-owner-role-and-responsibility|Journey designer plan configuration owners]] update and publish plan configurations from the [[employee-center-landing-page|Employee Center]] service portal.
+Journey designer plan configuration owners update and publish plan configurations from the Employee Center service portal.
 
 **Important:** In the Employee Center, Plan configurations are also referred to as Journey templates.
 
@@ -33,7 +33,7 @@ Plan configuration owners can:
     **Note:** Only empty stages can be deleted.
 
 -   Add task templates to a stage.
--   [[jny-dsgnr-create-task-template|Create a task template]].
+-   Create a task template.
 -   Preview a template as a selected employee.
 -   Publish a journey template \(plan configuration\) for approval by reviewer.
 
@@ -72,9 +72,3 @@ Plan configuration owners can:
 
 **Parent Topic:**[Journey designer plan configuration owners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-owner-role-and-responsibility.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-dsgnr-owner-role-and-responsibility|Journey designer plan configuration owners]]
-- [[employee-center-landing-page|Employee Center]]
-- [[jny-dsgnr-create-task-template|Create a task template]]

@@ -12,7 +12,7 @@ breadcrumb: [Case form, Customer Service forms, Reference, Customer Service Mana
 
 # Create a case for a new install base item
 
-Create a case for a new install base item by using the [[r_CustomerServiceCaseForm|case form]] in the CSM Agent Workspace.
+Create a case for a new install base item by using the case form in the CSM Agent Workspace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
 4.  Perform one of the following actions before selecting an install base item on the Create Case form.
 
-    For a description of the field values, see [[csm-case-task-form|Case task form]].
+    For a description of the field values, see [Case task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-task-form.md).
 
     |Field|Action|
     |-----|------|
@@ -38,7 +38,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
 5.  Next to the **Install Base** field, select the search icon \[Omitted image "search\_icon.png"\] Alt text: Search icon., and then select the install bases from the pop-up window.
 
-    The pop-up window displays only the list of [[install-base-item|install base items]] that are related to the selected account or consumer.
+    The pop-up window displays only the list of install base items that are related to the selected account or consumer.
 
 6.  In the **Short Description** field, enter a description of the install base item.
 
@@ -46,8 +46,4 @@ Role required: sn\_customerservice\_agent or sn\_customerservice.consumer\_agent
 
     A new case with the install base item details appears in the My cases list.
 
-## Related
 
-- [[csm-case-task-form|Case task form]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[install-base-item|Install base items]]

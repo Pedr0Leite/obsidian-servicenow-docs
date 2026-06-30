@@ -30,7 +30,7 @@ Limitation: When searching the body of emails, you can search a maximum of 1,500
 
 ## About this task
 
-This feature is used by the [[secops-integ-email-search-delete|Security Operations Integration - Email Search and Delete flow]] to run a query against your email server. Depending on the search criteria you select, the search identifies all emails within a phishing attack, and returns the total number of emails affected or details from the emails affected.
+This feature is used by the [Security Operations Integration - Email Search and Delete flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-email-search-delete.md) to run a query against your email server. Depending on the search criteria you select, the search identifies all emails within a phishing attack, and returns the total number of emails affected or details from the emails affected.
 
 ## Procedure
 
@@ -169,6 +169,4 @@ The text to search for. Single quotation marks, double quotation marks, and colo
 
 14. To search for emails in the selected server that meet the search criteria you defined, click **Search on Email Server\(s\)**.
 
-## Related
 
-- [[secops-integ-email-search-delete|Security Operations Integration - Email Search and Delete flow]]

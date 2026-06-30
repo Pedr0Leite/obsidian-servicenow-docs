@@ -16,7 +16,7 @@ Generally data filters are applied after absolute ACLs \(also sometimes called t
 
 ## Default applied security data filters
 
-[[security-data-filters|Security data filters]] are applied by default to the following places:
+Security data filters are applied by default to the following places:
 
 <table id="table_wgc_wk1_b2c"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Reports and Dashboards
 
 </td></tr><tr><td>
 
-Data [[export|Export]]
+Data Export
 
 </td><td>
 
@@ -100,8 +100,3 @@ REST and GraphQL APIs
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[security-data-filters|Security data filters]]
-- [[export|Export]]

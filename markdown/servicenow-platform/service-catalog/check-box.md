@@ -18,7 +18,7 @@ The check box variable lets you enable and disable options by selecting and clea
 
 To make a check box mandatory, select the **Selection Required** option when you create the variable. For example, use this option to require users to select the **I agree** check box for an agreement form. If users try to submit the agreement form without selecting the check box, an alert message is displayed to tell users that they must select the check box.
 
-A group of check box variables is created when you create consecutive check box variables. These check box variables are sorted by their order within the group. If you want to define a custom [[label|label]] for the group of check boxes, create a label variable at the start of the consecutive check box variables. The label is then considered a part of this group and acts a label of the group. If there is no custom label, check boxes are grouped under an **Options** label by the application.
+A group of check box variables is created when you create consecutive check box variables. These check box variables are sorted by their order within the group. If you want to define a custom label for the group of check boxes, create a label variable at the start of the consecutive check box variables. The label is then considered a part of this group and acts a label of the group. If there is no custom label, check boxes are grouped under an **Options** label by the application.
 
 In a group of check box variables:
 
@@ -30,7 +30,7 @@ In a group of check box variables:
 
 In Service Portal, to make a group of check box variables mandatory, set at least one of the check box variables as mandatory. While defining the label for a group of check boxes, setting a label mandatory does not make the group of check box variables mandatory.
 
-In [[catalog-builder|catalog builder]], the following scenarios are applicable:
+In catalog builder, the following scenarios are applicable:
 
 -   If there are two consecutive check boxes, then a virtual container is created for a group of check boxes. Only check box variable types can be added inside the group
 -   Even if a check box variable is added immediately after a group of check boxes, it is automatically added to the group.
@@ -102,7 +102,3 @@ For information on the pricing models, see [Price fields](https://raw.githubuser
 
 [Variable support in various channels]()
 
-## Related
-
-- [[label|Label]]
-- [[catalog-builder|Catalog Builder]]

@@ -22,7 +22,7 @@ Role required: admin, sn\_cbs.admin
 
 1.  Navigate to **Admin** &gt; **Admin Home**.
 
-2.  On the [[cbs-landing|Core Business Suite]] Foundation card, select **View product overview**.
+2.  On the Core Business Suite Foundation card, select **View product overview**.
 
 3.  In the configuration insights section, select **Configure**.
 
@@ -196,7 +196,7 @@ Indicates whether the supplier is active.
         4.  On the manage your supplier details page, select **Mark as configured**.
         **Note:** To add multiple suppliers, select **+ New supplier** and repeat the steps.
 
-    -   [[manage-bulk-upload-using-na|Bulk upload]]:
+    -   Bulk upload:
         1.  Select **Upload suppliers**.
         2.  Download the supplier template.
         3.  Enter the supplier details in the template.
@@ -241,10 +241,5 @@ Indicates whether the supplier is active.
     -   To create Portal or Workspace notifications, see [Trigger conditions form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/notif-trigger-form.md).
     -   After configuring notifications, select **Mark as configured**.
 
-**Parent Topic:**[[config-cbs-using-guided-setup|Configure Core Business Suite using guided setup]]
+**Parent Topic:**[Configure Core Business Suite using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/config-cbs-using-guided-setup.md)
 
-## Related
-
-- [[config-cbs-using-guided-setup|Configure Core Business Suite using guided setup]]
-- [[cbs-landing|Core Business Suite]]
-- [[manage-bulk-upload-using-na|Bulk upload]]

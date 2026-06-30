@@ -14,7 +14,7 @@ breadcrumb: [Sidebar, Conversational Interfaces]
 
 # Using Sidebar
 
-You can create a [[sidebar-landing|Sidebar]] discussion for a task-based or interaction record or as a standalone conversation. Sidebar discussions for a task-based or interaction record can be created from a configurable workspace or a Next Experience Core UI record page.
+You can create a Sidebar discussion for a task-based or interaction record or as a standalone conversation. Sidebar discussions for a task-based or interaction record can be created from a configurable workspace or a Next Experience Core UI record page.
 
 To create a Sidebar discussion for a task-based or interaction record, see [Create a Sidebar discussion for a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-discussions-record.md). To create a standalone Sidebar conversation, see [Create a standalone Sidebar discussion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-discussions-standalone.md).
 
@@ -33,6 +33,3 @@ After selecting the chat widget button, the floating chat window opens and repla
 
 \[Omitted image "nass-dw-pinned-yp6.png"\] Alt text: Pinned chat window to the right-hand side of the screen.
 
-## Related
-
-- [[sidebar-landing|Sidebar]]

@@ -19,8 +19,8 @@ Configure a table for an assigned entity type so that the goal user can associat
 ## Before you begin
 
 -   By default, with the installation of Goal Framework, the assigned entities, Business Unit \[business\_unit\], Department \[cmn\_department\], and Company \[core\_company\] are installed.
--   With the activation of [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]], the Portfolio \[pm\_portfolio\] assigned entity is installed.
--   With the installation of [[alignment-planner-workspace-landing-page|Strategic Planning]], the assigned entities, Product Model \[cmdb\_model\], Value Stream \[cmn\_value\_stream\], Initiative \[sn\_align\_core\_initiative\], and Strategic Program \[sn\_align\_core\_program\] are installed.
+-   With the activation of PPM Standard \(Project Portfolio Management\), the Portfolio \[pm\_portfolio\] assigned entity is installed.
+-   With the installation of Strategic Planning, the assigned entities, Product Model \[cmdb\_model\], Value Stream \[cmn\_value\_stream\], Initiative \[sn\_align\_core\_initiative\], and Strategic Program \[sn\_align\_core\_program\] are installed.
 
 Role required: sn\_gf.goal\_admin
 
@@ -43,7 +43,3 @@ An assigned entity is an organizational unit or structure that a goal can be ass
 
 **Parent Topic:**[Configuring Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/configuring-goal-framework.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

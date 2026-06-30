@@ -14,7 +14,7 @@ breadcrumb: [Working with external datasets, Use, Process Mining, Platform Analy
 
 # Import data into the audit table
 
-Import external dataset into the audit table to start working with the data in [[process-mining|Process Mining]].
+Import external dataset into the audit table to start working with the data in Process Mining.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Role required: sn\_process\_mining\_admin
 
 **Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/external-dataset.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -14,13 +14,13 @@ breadcrumb: [Now Assist for Workplace Service Delivery \(WSD\), Workplace Servic
 
 # Exploring Now Assist for Workplace Service Delivery \(WSD\)
 
-The Now Assist in Virtual Agent assists [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] workplace employees to book meeting spaces conveniently and quickly.
+The Now Assist in Virtual Agent assists Workplace Service Delivery workplace employees to book meeting spaces conveniently and quickly.
 
 ## Now Assist for Workplace Service Delivery \(WSD\) overview
 
-[[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]] provides workplace users with a streamlined, conversational experience based on generative AI. Workplace employees can submit a workplace reservation request to reserve a space and add services to a reservation. Now Assist for Workplace Service Delivery \(WSD\) enhances the user experience by combining AI Search with Now Assist in Virtual Agent generative AI chat skills.
+Now Assist for Workplace Service Delivery \(WSD\) provides workplace users with a streamlined, conversational experience based on generative AI. Workplace employees can submit a workplace reservation request to reserve a space and add services to a reservation. Now Assist for Workplace Service Delivery \(WSD\) enhances the user experience by combining AI Search with Now Assist in Virtual Agent generative AI chat skills.
 
-The generative AI capabilities provides a human-like conversational experience for [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] reservation request submissions.
+The generative AI capabilities provides a human-like conversational experience for Workplace Reservation Management reservation request submissions.
 
 ## Now Assist for Workplace Service Delivery \(WSD\) users
 
@@ -42,7 +42,7 @@ The Now Assist for Workplace Service Delivery \(WSD\) retrieves details from Wor
 
  -   Reserving a space for meeting
 -   Adding co-workers to a reservation
--   [[adding-visitors|Adding visitors]] or guests to a reservation
+-   Adding visitors or guests to a reservation
 -   Adding a Zoom meeting link for remote joining
 -   Ordering and adding catering services
 
@@ -52,7 +52,7 @@ Agentic AI Workflow
 
 </td><td>
 
-The following Agentic AI workflows are available for Now Assist for WSD:-   Reserve a space quickly with [[create-reservation-request-1|Create a reservation]] AI agent
+The following Agentic AI workflows are available for Now Assist for WSD:-   Reserve a space quickly with Create a reservation AI agent
 -   Manage temporary space closures
 -   Help manage workplace reservations
 -   Optimize cleaning activities
@@ -68,10 +68,3 @@ To learn more about configuring and using Now Assist for Workplace Service Deliv
 -   [Configuring Now Assist for WSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-configuring.md)
 -   [Using Now Assist for WSD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-using.md)
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[adding-visitors|Adding visitors]]
-- [[create-reservation-request-1|Create a reservation]]

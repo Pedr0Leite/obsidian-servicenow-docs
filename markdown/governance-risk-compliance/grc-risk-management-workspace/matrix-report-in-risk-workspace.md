@@ -14,11 +14,11 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Matrix report in Risk Workspace
 
-Matrix report is a structured report that you can configure to view in a grid or table format in the [[risk-workspace|Risk Workspace]]. You can use the matrix report to access and analyze the risk posture of your organization using entity-related data, such as risks, controls, KRIs, and events.
+Matrix report is a structured report that you can configure to view in a grid or table format in the Risk Workspace. You can use the matrix report to access and analyze the risk posture of your organization using entity-related data, such as risks, controls, KRIs, and events.
 
 The Matrix Report offers a configurable, grid-based view within the Risk Workspace, designed to centralize and simplify access to entity-related risk data, including risks, controls, KRIs, and events. By consolidating fragmented information into a single interface, the Matrix Report provides risk managers with a clear, comprehensive picture of an entity's risk posture.
 
-The Matrix report is accessible from both the Entity [[tprm-risk-profile-what-is|Risk Profile]] Matrix landing page and the individual entity record page. The Matrix Report helps reduce the need to switch between different views, making it easier to assess an entity’s overall risk profile. It supports faster identification of data gaps and enables more efficient risk analysis and decision-making.
+The Matrix report is accessible from both the Entity Risk Profile Matrix landing page and the individual entity record page. The Matrix Report helps reduce the need to switch between different views, making it easier to assess an entity’s overall risk profile. It supports faster identification of data gaps and enables more efficient risk analysis and decision-making.
 
 ## Benefits of Matrix report
 
@@ -39,7 +39,3 @@ Access and analyze the risk posture of your organization using entity-related da
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[tprm-risk-profile-what-is|Risk profile]]

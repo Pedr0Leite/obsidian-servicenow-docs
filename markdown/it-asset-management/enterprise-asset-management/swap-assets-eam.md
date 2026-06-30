@@ -32,7 +32,7 @@ The swap functionality is available only for the parent asset of a multicomponen
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Enterprise model management**.
 
 2.  Select a multi-component record.
 
@@ -50,7 +50,7 @@ The swap functionality is available only for the parent asset of a multicomponen
 
     2.  In the **Choose stockroom for asset swap** field, select the stockroom from which you want to choose an asset to swap with your asset.
 
-    3.  To display assets that are based on substitute [[c_Models|models]], select the **Include assets based on substitute models** check box.
+    3.  To display assets that are based on substitute models, select the **Include assets based on substitute models** check box.
 
         Assets of a substitute model are shown in the **Replacement asset** field only if they meet the following criteria:
 
@@ -79,7 +79,3 @@ The swap functionality is available only for the parent asset of a multicomponen
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]

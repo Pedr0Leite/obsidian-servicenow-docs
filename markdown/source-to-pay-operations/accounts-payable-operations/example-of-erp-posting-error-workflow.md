@@ -15,7 +15,7 @@ breadcrumb: [Integration errors, Accounts Payable Operations integration framewo
 
 # Example of ERP posting error workflow
 
-Follow a step-by-step example of how to close ERP posting [[integration-errors-during-erp-posting|integration errors]] using the error task workflow in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Follow a step-by-step example of how to close ERP posting integration errors using the error task workflow in Accounts Payable Operations.
 
 ## Before you begin
 
@@ -23,13 +23,13 @@ Role required: Accounts Payable admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]** &gt; **Accounts Payable Operations**.
+1.  Navigate to **All** &gt; **Source-to-Pay Workspace** &gt; **Accounts Payable Operations**.
 
     The Accounts Payable Operations landing page appears.
 
 2.  Click **ERP Posting error**.
 
-    The **ERP Posting error [[invoices|invoices]]** page lists the invoice cases with **ERP integration status** as **Failed**.
+    The **ERP Posting error invoices** page lists the invoice cases with **ERP integration status** as **Failed**.
 
 3.  Click an invoice case.
 
@@ -59,9 +59,4 @@ Role required: Accounts Payable admin
 
     The ERP integration error tasks are closed and the invoice is successfully processed for payment.
 
-## Related
 
-- [[integration-errors-during-erp-posting|Integration errors]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoices|Invoices]]

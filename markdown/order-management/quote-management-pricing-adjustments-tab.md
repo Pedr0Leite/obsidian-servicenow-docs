@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # View and update manual pricing adjustments in quotes
 
-Use the Pricing Adjustments tab in [[quote-management|Quote Management]] to view and update manual pricing adjustments made to order line items in your quote.
+Use the Pricing Adjustments tab in Quote Management to view and update manual pricing adjustments made to order line items in your quote.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sales agent
 
 ## About this task
 
-To create a pricing adjustment, see [[quote-management-add-pricing-adjustment|Add pricing adjustment to a quote line item]].
+To create a pricing adjustment, see [Add pricing adjustment to a quote line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-add-pricing-adjustment.md).
 
 ## Procedure
 
@@ -39,10 +39,5 @@ To create a pricing adjustment, see [[quote-management-add-pricing-adjustment|Ad
     The pricing adjustment is updated and reflected on the overall quote pricing field.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-management-add-pricing-adjustment|Add pricing adjustment to a quote line item]]
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

@@ -16,7 +16,7 @@ breadcrumb: [Administer PaCE policies, Policy as Code Engine \(PaCE\), Extend Se
 
 The Test Playground enables you to test updates to a PaCE policy at any time, without the need to test or evaluate them in a Production environment.
 
-You can update API Variables, Config Parameters, and Record [[reference-document-management|References]], and modify the policy script. After completing your changes, evaluate the updates in the Test Playground and review the execution output to ensure that the policy is compliant. Use the Test Playground to fine-tune your policy administration. Updates to a policy can be made on-the-fly, and tested in real time in a test environment. In addition, use the Test Playground to:
+You can update API Variables, Config Parameters, and Record References, and modify the policy script. After completing your changes, evaluate the updates in the Test Playground and review the execution output to ensure that the policy is compliant. Use the Test Playground to fine-tune your policy administration. Updates to a policy can be made on-the-fly, and tested in real time in a test environment. In addition, use the Test Playground to:
 
 -   Set execution parameters.
 -   Set and modify variables.
@@ -25,6 +25,3 @@ You can update API Variables, Config Parameters, and Record [[reference-document
 -   Review the execution output and the decision of compliance \(compliant or non-compliant\).
 -   Review a log of executions.
 
-## Related
-
-- [[reference-document-management|References]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Incident Management, Health and Safety
 
 # Domain separation and Health and Safety Incident Management
 
-Domain separation is supported for [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Health and Safety Incident Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -44,6 +44,3 @@ All tables in the Health and Safety Incident Management can be domain-separated 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

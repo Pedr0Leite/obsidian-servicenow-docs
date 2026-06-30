@@ -34,7 +34,7 @@ If you add a work order task number to the work notes of another work order task
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -108,6 +108,3 @@ The tasks that meet the search requirements are displayed in the task panel.
 
 [Assign work order tasks to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/manage-work-order-tasks-dw.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

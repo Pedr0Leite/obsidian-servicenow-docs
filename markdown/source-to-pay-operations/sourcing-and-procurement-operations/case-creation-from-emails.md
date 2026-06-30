@@ -16,7 +16,7 @@ breadcrumb: [Using Advanced Work Assignment Source-to-Pay, Advanced Work Assignm
 
 Cases are automatically created from incoming emails from shoppers based on the keywords used by them in the subject lines and bodies of the emails.
 
-As an admin, you can set an email ID where all emails from shoppers are to be received. You can do this by navigating to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Administration** &gt; **Procurement Properties**.
+As an admin, you can set an email ID where all emails from shoppers are to be received. You can do this by navigating to **All** &gt; **Procurement Case Management** &gt; **Administration** &gt; **Procurement Properties**.
 
 **Note:** The following are some examples of cases created from emails with specific keywords.
 
@@ -27,20 +27,14 @@ As an admin, you can set an email ID where all emails from shoppers are to be re
 
 ## Automatically create supplier case or procurement case from an inbound email
 
-If you use the automatic case creation functionality in both [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \(SLO\) and [[psm-overview|Sourcing and Procurement Operations]] \(SPO\), ensure that each instance is configured with a unique email address in the Automatic creation of cases from email property. This ensures the instance can correctly match incoming emails to the appropriate user and create the corresponding case.
+If you use the automatic case creation functionality in both Supplier Lifecycle Operations \(SLO\) and Sourcing and Procurement Operations \(SPO\), ensure that each instance is configured with a unique email address in the Automatic creation of cases from email property. This ensures the instance can correctly match incoming emails to the appropriate user and create the corresponding case.
 
 For example:
 
--   In SLO, set the email address to supplierhelp@acme.com for creating [[supplier|supplier]] cases. For more information, see [Enable automatic creation of supplier cases from incoming emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-email-properties.md).
+-   In SLO, set the email address to supplierhelp@acme.com for creating supplier cases. For more information, see [Enable automatic creation of supplier cases from incoming emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-email-properties.md).
 -   In Sourcing and Procurement Operations, set the email address to procurementhelp@acme.com for creating procurement cases.
 
 This approach enables seamless case creation and accurate email-to-user mapping.
 
 **Parent Topic:**[Using Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-awa-spo.md)
 
-## Related
-
-- [[psd-overview|Procurement Case Management]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]

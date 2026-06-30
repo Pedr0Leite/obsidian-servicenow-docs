@@ -22,11 +22,11 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 ## About this task
 
-When you select the **Decline dispute transaction** option in the **[[resolve-friendly-fraud|Detect friendly fraud]]** activity, the **Customer communication** activity is displayed. Provide the customer feedback and the reason. You can accept or deny the response.
+When you select the **Decline dispute transaction** option in the **Detect friendly fraud** activity, the **Customer communication** activity is displayed. Provide the customer feedback and the reason. You can accept or deny the response.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -92,7 +92,7 @@ The **Issue credit** activity is displayed.
 1.  Provide a **Resolution reason**.
 2.  Select **Mark complete**.
 
-The next activity **[[report-fraud-visa|Report fraud]]** is displayed.
+The next activity **Report fraud** is displayed.
 
 3.  Proceed with activities in the playbook as required. For more information about resolving fraud, see [Report fraud to a card network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/report-fraud-to-card-network.md).
 
@@ -101,8 +101,3 @@ The next activity **[[report-fraud-visa|Report fraud]]** is displayed.
 </table>
 **Parent Topic:**[Investigating a dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-a-dispute.md)
 
-## Related
-
-- [[resolve-friendly-fraud|Detect friendly fraud]]
-- [[fso-overview|Financial Services]]
-- [[report-fraud-visa|Report fraud]]

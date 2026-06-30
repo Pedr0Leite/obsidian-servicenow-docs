@@ -14,7 +14,7 @@ breadcrumb: [Standard ticket page, Creating portal pages, Configuring Service Po
 
 # Configure the standard ticket page
 
-Give [[c_ServicePortal|Service Portal]] users a consistent way to view their submitted requests. You can configure the standard ticket page for different request types.
+Give Service Portal users a consistent way to view their submitted requests. You can configure the standard ticket page for different request types.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or sp\_admin
 
 You can add a standard ticket configuration only for a task-extended table.
 
-Widgets containing **Date/Time** values display the date and time only in the **Time Ago** \(for example, 11 minutes ago\) format, and [[c_UserPreferences|user preferences]] for such widgets aren’t considered. For example, the **Created date** and the **Updated date** values are displayed in the **Time Ago** format.
+Widgets containing **Date/Time** values display the date and time only in the **Time Ago** \(for example, 11 minutes ago\) format, and user preferences for such widgets aren’t considered. For example, the **Created date** and the **Updated date** values are displayed in the **Time Ago** format.
 
 ## Procedure
 
@@ -72,7 +72,7 @@ State field
 
 </td><td>
 
-Any field of the task-extended table. By default, this field maps to the **State** field of the task-extended table. You have to [[configure-onboarding-modals|configure]] the form to add this field.**Note:** You can't add fields for any of the following information:
+Any field of the task-extended table. By default, this field maps to the **State** field of the task-extended table. You have to configure the form to add this field.**Note:** You can't add fields for any of the following information:
 
 -   Number
 -   Short description
@@ -103,7 +103,7 @@ Description field
 
 </td><td>
 
-Field that the sp\_admin can select from the fields of the ticket record \(for example, sc\_req\_item, incident\), which is displayed as description on the [[standard-ticket-page|Standard Ticket Page]].
+Field that the sp\_admin can select from the fields of the ticket record \(for example, sc\_req\_item, incident\), which is displayed as description on the Standard Ticket Page.
 
 </td></tr><tr><td>
 
@@ -216,9 +216,3 @@ Configure summary fields on the standard ticket page such that the page displays
 
 [Now Assist in Standard Ticket Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-standard-ticket-page.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_UserPreferences|User preferences]]
-- [[configure-onboarding-modals|Configure]]
-- [[standard-ticket-page|Standard ticket page]]

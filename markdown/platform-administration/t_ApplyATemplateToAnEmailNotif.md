@@ -12,7 +12,7 @@ breadcrumb: [Email templates, Email and SMS notifications, System notifications,
 
 # Apply a template to an email notification
 
-After you [[t_CreateAnEmailTemplate|create an email template]], you can apply it to a notification.
+After you create an email template, you can apply it to a notification.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**.
 
 2.  Open the email notification record that should use the template.
 
@@ -31,10 +31,5 @@ Role required: admin
 5.  Click **Update**.
 
 
-**Parent Topic:**[[c_EmailTemplates|Email templates]]
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-## Related
-
-- [[c_EmailTemplates|Email templates]]
-- [[t_CreateAnEmailTemplate|Create an email template]]
-- [[notifications|Notifications]]

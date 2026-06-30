@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Work plan fields for Enterprise Asset Management
 
-A detailed description of all work plan fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all work plan fields in the Enterprise Asset Management application.
 
 ## Work Plan
 
@@ -165,7 +165,7 @@ Filter conditions that enable you to apply the work plan to specific subsets of 
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -193,7 +193,3 @@ Filter conditions that enable you to apply the work plan to specific subsets of 
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

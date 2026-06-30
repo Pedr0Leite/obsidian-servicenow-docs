@@ -14,7 +14,7 @@ breadcrumb: [Configure, Instance Data Replication, Manage instance data sources,
 
 # Request an Instance Data Replication subscription
 
-The [[instance-data-replication|Instance Data Replication]] \(IDR\) plugin requires a separate subscription and must be activated by ServiceNow personnel.
+The Instance Data Replication \(IDR\) plugin requires a separate subscription and must be activated by ServiceNow personnel.
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ Which plugin would you like to activate
 
 Select the name of the plugin to activate.
 
- **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** [[check-box|check box]]. Enter the plugin name in the field that appears.
+ **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** check box. Enter the plugin name in the field that appears.
 
 </td></tr><tr id="date-time"><td>
 
@@ -95,7 +95,3 @@ Plan your replication strategy. See [Preparing for Instance Data Replication](ht
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[check-box|Check box]]

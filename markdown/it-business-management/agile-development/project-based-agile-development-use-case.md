@@ -14,13 +14,13 @@ breadcrumb: [Agile Development use cases, Exploring Agile Development 2.0, Agile
 
 # Project-based development use case in Agile Development
 
-An example of project-based development and delivery model in [[agile-development|Agile Development]].
+An example of project-based development and delivery model in Agile Development.
 
 The usual activities involved in a project-based Agile Development include the following:
 
 -   Product Backlog: Product owners maintain the product backlog. They continuously groom their backlogs by adding stories, prioritizing and estimating them.
 
-    In [[agile-landing-page|Agile Development 2.0]], navigate to **Agile Development** &gt; **Backlog** &gt; **All Stories** for the list of all the stories.
+    In Agile Development 2.0, navigate to **Agile Development** &gt; **Backlog** &gt; **All Stories** for the list of all the stories.
 
 -   Project Backlog: Product owners select the prioritized stories and assign them to one or more projects, thus creating the project backlog. Product owners can create one or more projects and capture additional details such as required resources, cost, risk, strategic alignment. All these projects undergo portfolio prioritization process, and the selected projects are executed by the project teams.
 
@@ -41,7 +41,3 @@ The usual activities involved in a project-based Agile Development include the f
 
 **Parent Topic:**[Agile Development use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-workflow-use-cases.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

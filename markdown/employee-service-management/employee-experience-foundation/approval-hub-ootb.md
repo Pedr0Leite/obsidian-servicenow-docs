@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Approvals experience reference
 
-Use the following [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information for better approval experience.
+Use the following reference information for better approval experience.
 
 ## Default task configurations
 
@@ -23,7 +23,7 @@ Use the following default task configurations available for approvals.
 -   Request with **sysapproval** as reference column and **sc\_request** as reference table.
 -   Requested item with **sysapproval** as reference column and **sc\_req\_item** as reference table.
 
-You can customize the task configurations to suit your requirements. The data model is an extension to the [[employee-center-landing-page|Employee Center]] **To-do configuration** as a related list. Follow the instructions [Enable task configuration for approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-to-dos-page-filters.md) about configuring the approval experience. For more information on how to configure approvals, see [Approvals hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-intro.md).
+You can customize the task configurations to suit your requirements. The data model is an extension to the Employee Center **To-do configuration** as a related list. Follow the instructions [Enable task configuration for approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-to-dos-page-filters.md) about configuring the approval experience. For more information on how to configure approvals, see [Approvals hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/approval-hub-intro.md).
 
 **Note:** A user must have the approval\_user or business\_stakeholder role to approve IT requests \(not applicable to other requests such as HR approvals\) on Employee Centre. Role validation has not been implemented in Core UI16 because modifying ACLs in UI16 might have broader implications at the NowPlatform level.
 
@@ -110,7 +110,7 @@ Use the out-of-the-box **Approvals action group** to display the actions such as
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -140,7 +140,7 @@ Use the out-of-the-box **Approvals action group** to display the actions such as
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -162,9 +162,3 @@ Use the out-of-the-box **Approvals action group** to display the actions such as
 
 [Website configuration form]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

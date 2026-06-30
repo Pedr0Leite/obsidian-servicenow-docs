@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Microsoft SharePoint discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of Microsoft SharePoint.
+Discovery creates or updates a CMDB record when it detects a running instance of Microsoft SharePoint.
 
 By default, Discovery uses the **SharePoint** pattern to discover Microsoft SharePoint. For information on supported Microsoft SharePoint versions, see [Detailed information on products discovered by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_SupportedApplications.md).
 
@@ -34,6 +34,3 @@ The following data is collected in the SharePoints`[cmdb_ci_appl_sharepoint]` ta
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

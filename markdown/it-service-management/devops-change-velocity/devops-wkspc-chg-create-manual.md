@@ -32,7 +32,7 @@ For more information on using Change features, see [Create a Change](https://raw
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **DevOps Change** &gt; **[[dex-workspace-application-tab|Applications]] \(\[Omitted image "icon-devops-applications.png"\] Alt text: Applications icon.\)**.
+1.  Navigate to **Workspaces** &gt; **DevOps Change** &gt; **Applications \(\[Omitted image "icon-devops-applications.png"\] Alt text: Applications icon.\)**.
 
 2.  Select an application from **Applications** list.
 
@@ -82,7 +82,7 @@ The specific data to associate with the change request. You can select multiple 
 
     3.  Navigate the tabs to verify that the associated data is mapped accurately.
 
-        Update [[settings-mobile|settings]] as needed.
+        Update settings as needed.
 
         -   Work Items
         -   Commits
@@ -110,7 +110,3 @@ To modify the data that is associated to the change request, select **Edit DevOp
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

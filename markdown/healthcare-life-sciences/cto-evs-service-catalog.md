@@ -12,7 +12,7 @@ breadcrumb: [Reference, Care Team Operations for Environmental Services, Healthc
 
 # Service Catalog installed with Care Team Operations for Environmental Services
 
-The [[cto-evs-landing|Care Team Operations for Environmental Services]] service catalog is organized into a hierarchy of EVS-related categories and subcategories that care teams commonly report.
+The Care Team Operations for Environmental Services service catalog is organized into a hierarchy of EVS-related categories and subcategories that care teams commonly report.
 
 |Name|Short Description|Description|
 |----|-----------------|-----------|
@@ -166,7 +166,3 @@ Expedited turnover and cleaning of patient rooms for urgent admissions or emerge
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

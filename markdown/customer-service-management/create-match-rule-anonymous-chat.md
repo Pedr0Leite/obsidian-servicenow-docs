@@ -24,7 +24,7 @@ A chat request is tied to a chat queue based on the selected issue type.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Matching [[gamification-components-rules|Rules]]**.
+1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Matching Rules**.
 
 2.  Click **New**.
 
@@ -76,6 +76,4 @@ Select one of the categories created for anonymous users to define an issue on t
 </td></tr></tbody>
 </table>6.  Click **Submit**.
 
-## Related
 
-- [[gamification-components-rules|Rules]]

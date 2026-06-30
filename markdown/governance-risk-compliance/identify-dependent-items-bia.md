@@ -22,7 +22,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 Add a description of use and a timeframe to recover the item and provide data backup for the item. Assessing dependencies for a group helps you to know the underlying dependent items or assets of your business process. This assessment helps to prioritize critical dependencies that require recovery strategies to be established during the planning phase.
 
-The BIA template that you use to [[create-bia-in-uib-ws|create a business impact analysis]] has dependency groups associated to it. When you do an assessment, the dependency groups are automatically populated in the BIA. You can view them as Applications, Hardware, Software, Vendors, Workplaces, and others, each in its own container depending on how many of these groups are associated to the template. Each of them is a dependency group and you can add or remove items that belong to each group within its container.
+The BIA template that you use to create a business impact analysis has dependency groups associated to it. When you do an assessment, the dependency groups are automatically populated in the BIA. You can view them as Applications, Hardware, Software, Vendors, Workplaces, and others, each in its own container depending on how many of these groups are associated to the template. Each of them is a dependency group and you can add or remove items that belong to each group within its container.
 
 **Note:** You can add or remove dependent items only if you are a user with appropriate access.
 
@@ -40,7 +40,7 @@ The BIA template that you use to [[create-bia-in-uib-ws|create a business impact
 
 5.  To add an item to a dependency group, click the **Add New** button of that container.
 
-    -   If it is the Application, Hardware, or Software dependency group that uses class extensions to populate configuration items and discover technologies or software, see [[add-dependencies-based-on-cmdb|Add dependencies based on CI relationships in CMDB]].
+    -   If it is the Application, Hardware, or Software dependency group that uses class extensions to populate configuration items and discover technologies or software, see [Add dependencies based on CI relationships in CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-dependencies-based-on-cmdb.md).
     -   If it is Vendors or Locations group, add assets accordingly. You can add multiple items in the modal form. The grid in the container becomes editable and you can enter data in each cell for an item.
     The state of the dependency group changes to **Pending**.
 
@@ -84,7 +84,4 @@ The BIA template that you use to [[create-bia-in-uib-ws|create a business impact
 
     The filter condition in the Element definition is used to add specific configuration items \(CIs\) via the pop-up. The **Update dependencies** UI action also considers the element definition's filter and retrieves the related CIs of the configuration item listed in the **Applies to** field of the BIA. These relationships are retrieved from the CI Relationships table.
 
-## Related
 
-- [[add-dependencies-based-on-cmdb|Add dependencies based on CI relationships in CMDB]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]

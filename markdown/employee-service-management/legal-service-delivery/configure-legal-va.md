@@ -22,7 +22,7 @@ Role required: admin or virtual\_agent\_admin
 
 ## About this task
 
-The [[legal-va-conversations|Legal Virtual Agent Conversations]] application installs various [virtual agent conversation topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md) for seeking legal services.
+The Legal Virtual Agent Conversations application installs various [virtual agent conversation topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md) for seeking legal services.
 
 These virtual agent conversation topics are built using ServiceNow Virtual Agent Designer, so make sure you’re familiar with the [Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversation-designer-virtual-agent.md) basics.
 
@@ -32,7 +32,7 @@ These virtual agent conversation topics are built using ServiceNow Virtual Agent
 
 2.  Configure a new conversation topic or customize a predefined conversation topic for a legal service.
 
-    **Note:** All conversation topics for legal services are grouped under the [[legal-management-overview|Legal Service Delivery]] category.
+    **Note:** All conversation topics for legal services are grouped under the Legal Service Delivery category.
 
 <table id="choicetable_rw4_m3w_s4b"><thead><tr><th align="left" id="d769325e114">
 
@@ -76,7 +76,3 @@ For more information, see [duplicate the topic](https://raw.githubusercontent.co
 
 **Parent Topic:**[Legal Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md)
 
-## Related
-
-- [[legal-va-conversations|Legal Virtual Agent Conversations]]
-- [[legal-management-overview|Legal Service Delivery]]

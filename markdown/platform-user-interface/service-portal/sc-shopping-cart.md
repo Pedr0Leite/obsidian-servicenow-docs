@@ -80,7 +80,7 @@ Automatically update the shopping cart across all sessions when users make chang
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
@@ -88,6 +88,3 @@ Automatically update the shopping cart across all sessions when users make chang
 
 [Add a catalog item to the shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-to-cart-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

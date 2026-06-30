@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Service Management Integrations Framework reference, Ent
 
 # Components installed with Enterprise Service Management Integrations Framework
 
-Several types of components are installed with activation of the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] \[sn\_hr\_integre\_fw\], including tables and user roles.
+Several types of components are installed with activation of the Enterprise Service Management Integrations Framework \[sn\_hr\_integre\_fw\], including tables and user roles.
 
 ## Roles
 
@@ -104,6 +104,3 @@ Stores modified records that are pushed from a ServiceNow application into a thi
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise Service Management Integrations Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ent-service-mgmt-int-framework-reference.md)
 
-## Related
-
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

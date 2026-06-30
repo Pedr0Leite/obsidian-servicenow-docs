@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Indexed Source History form
 
-The Indexed Source History form enables you to review details from the ingestion history for an [[ia-ai-search|AI Search]] indexed source.
+The Indexed Source History form enables you to review details from the ingestion history for an AI Search indexed source.
 
 To learn how to review the ingestion history for an indexed source, see [Review ingestion history for an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/review-history-indexed-source-ais.md).
 
@@ -32,7 +32,7 @@ Indexed Source
 
 </td><td>
 
-[[reference-email-admin|Reference]] to the indexed source from which AI Search ingested records for indexing.
+Reference to the indexed source from which AI Search ingested records for indexing.
 
 </td></tr><tr><td>
 
@@ -149,7 +149,3 @@ Average number of source records and attachments processed per second for the in
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]

@@ -30,8 +30,5 @@ Role required: sn\_customerservice.consumer
 **Related topics**  
 
 
-[[csm-pre-chat-overview|Pre-chat surveys]]
+[Pre-chat surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-pre-chat-overview.md)
 
-## Related
-
-- [[csm-pre-chat-overview|Pre-chat surveys]]

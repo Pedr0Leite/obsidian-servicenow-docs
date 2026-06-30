@@ -14,9 +14,9 @@ breadcrumb: [Complete a document task, Use, Document Intelligence, Enable AI exp
 
 # Classify documents using the Document Intelligence workspace
 
-Use the [[document-intelligence-landing|Document Intelligence]] workspace to label your documents. The workspace enables you to train the AI model by providing direct input and by validating or correcting the recommendations provided by DocIntel.
+Use the Document Intelligence workspace to label your documents. The workspace enables you to train the AI model by providing direct input and by validating or correcting the recommendations provided by DocIntel.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Overview of the Document Intelligence workspace
 
@@ -33,7 +33,7 @@ The following image shows the Document Intelligence workspace for a document tas
 
 -   1 - Thumbnail panel
 -   2 - Document image panel
--   3 - Document [[controls|controls]]
+-   3 - Document controls
 -   4 - Classify panel
 
 **Note:** In this view, the documents in the Classify panel are expanded so that the categories are visible.
@@ -104,8 +104,4 @@ If the categories are already auto-filled with values, you can review them to en
 
 5.  If needed, flag the documents or pages for later attention by selecting **Flag for follow-up** in the options menu from the options icon \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Options icon.\).
 
-## Related
 
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[controls|Controls]]

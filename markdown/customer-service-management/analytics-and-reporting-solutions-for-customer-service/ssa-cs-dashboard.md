@@ -20,7 +20,7 @@ Measure and track the effectiveness of self-service content through user activit
 
 \[Omitted image "self-service-dashboard-knowledge.png"\] Alt text: Knowledge tab displaying different widgets to analyse the engagements, success rates, and deflection activity.
 
-\[Omitted image "self-service-dashboard-[[servicenow-communities|communities]].png"\] Alt text: Communities tab displaying different widgets to analyse the engagements, success rates, and deflection activity.
+\[Omitted image "self-service-dashboard-communities.png"\] Alt text: Communities tab displaying different widgets to analyse the engagements, success rates, and deflection activity.
 
 \[Omitted image "self-service-dashboard-catalog.png"\] Alt text: Catalog tab displaying different widgets to analyse the engagements, success rates, and deflection activity.
 
@@ -219,6 +219,3 @@ This dashboard includes the following breakdowns:
 
 [Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service-analytics.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

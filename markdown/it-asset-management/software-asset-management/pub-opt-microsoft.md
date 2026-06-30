@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Microsoft 365 subscription details**Note:** This report appears only if you request and install the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] application.
+Microsoft 365 subscription details**Note:** This report appears only if you request and install the Software Asset Management - SaaS License Management application.
 
 </td><td>
 
@@ -39,7 +39,7 @@ Microsoft 365 subscription details**Note:** This report appears only if you requ
 
 </td><td>
 
-Number of active, inactive, and unassigned user subscription details for Microsoft 365 products, which are grouped by [[c_CreatingSoftwareModels|software models]].
+Number of active, inactive, and unassigned user subscription details for Microsoft 365 products, which are grouped by software models.
 
  Select a data point to view more details about the user subscriptions for a software model.
 
@@ -139,8 +139,3 @@ Select the report to view details about the cost savings that you have achieved 
 
 [Microsoft 365 integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-o365.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_CreatingSoftwareModels|Software models]]

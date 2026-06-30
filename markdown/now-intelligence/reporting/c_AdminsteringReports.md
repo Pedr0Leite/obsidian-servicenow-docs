@@ -16,14 +16,14 @@ breadcrumb: [Reporting, Reporting, dashboards, and Performance Analytics in the 
 
 Learn about the tasks report administrators typically perform, the objects that they work with, and the roles and rules that apply.
 
-To administer reports, [[reporting-roles|reporting roles]], and [[c_ReportSources|report sources]], navigate to **Reports** &gt; **Administration** and select the area to administer.
+To administer reports, reporting roles, and report sources, navigate to **Reports** &gt; **Administration** and select the area to administer.
 
 ## Reporting roles
 
 **Note:**
 
 -   Users must have the report\_user role to see the **Reports** module on the application navigator \(left navigation pane\).
--   Users with any [[reporting-landing-page|reporting]] role or the itil role can access the following report options for all reports that are visible to them: **Insert**, **Insert and Stay**, **Add to Dashboard**, and **Export to PDF**.
+-   Users with any reporting role or the itil role can access the following report options for all reports that are visible to them: **Insert**, **Insert and Stay**, **Add to Dashboard**, and **Export to PDF**.
 -   In the table below, the term manage indicates access to the following report options: **Update** \(edit\), **Delete**, and **Export settings**.
 
 |Role title\[name\]|Description|
@@ -38,13 +38,13 @@ To administer reports, [[reporting-roles|reporting roles]], and [[c_ReportSource
 |report description administrator \[report\_description\_admin\]|Can read and update table and field descriptions for reports.|
 
 -   **[Restrict report creation with an ACL rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_RestrictRepCreationWAnACLRule.md)**  
-Create an [[access-control|access control]] list rule to restrict who can [[t_CreateYourOwnReport|create a report]] on a table, data source, or database view.
+Create an access control list rule to restrict who can create a report on a table, data source, or database view.
 -   **[Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md)**  
 The report\_view operation is a record type access control list \(ACL\) that restricts access to reports. Only users who have one of the required roles can view reports that contain the restricted resource.
 -   **[ACL Assessment for Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-acl-dashboard.md)**  
-Use the ServiceNow® [[report-view-acl-dashboard|ACL Assessment for Reports]] to identify reports that are blocked by report\_view ACLs \(access control lists\).
+Use the ServiceNow® ACL Assessment for Reports to identify reports that are blocked by report\_view ACLs \(access control lists\).
 -   **[Column view access control for list reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/column-view-access-control-list-reports.md)**  
-For [[list-reports|list reports]], the **glide.report.add\_to\_list\_supported** system property enables the add\_to\_list access control list. This access control list \(ACL\) prevents users from reporting on list report columns with sensitive data.
+For list reports, the **glide.report.add\_to\_list\_supported** system property enables the add\_to\_list access control list. This access control list \(ACL\) prevents users from reporting on list report columns with sensitive data.
 -   **[Report permission issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-permission-issues.md)**  
 There are several reasons why a report is showing less information than expected or possibly no data at all. These include insufficient permissions on the report and the report not being shared.
 -   **[Report statistics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-statistics.md)**  
@@ -58,7 +58,7 @@ Imported Excel spreadsheets enable you to generate reports based on data maintai
 -   **[Reporting on system tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportOnSystemTables.md)**  
 System tables are excluded from reporting by default. However, you can exempt system tables from the prohibition. Some system tables are exempt from the restriction by default. Be very careful when creating reports on these system tables.
 -   **[Map report administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdministeringMapReports.md)**  
-Learn how about the different objects that are used in [[c_MapReport|map reports]], and how to create and modify them.
+Learn how about the different objects that are used in map reports, and how to create and modify them.
 -   **[Administer table and field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/admin-table-field-descriptions.md)**  
 Users with the report\_description\_admin role can add and edit table and field descriptions that users see when they create reports.
 -   **[Create coloring rules for multilevel pivot reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_DefineAPivotTableColoringRule.md)**  
@@ -85,13 +85,3 @@ Learn how to administer reports on the ServiceNow platform using the **Reports**
 
 [Dashboard permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_DashboardRoles.md)
 
-## Related
-
-- [[reporting-roles|Reporting roles]]
-- [[c_ReportSources|Report sources]]
-- [[reporting-landing-page|Reporting]]
-- [[access-control|Access control]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]
-- [[list-reports|List reports]]
-- [[c_MapReport|Map reports]]

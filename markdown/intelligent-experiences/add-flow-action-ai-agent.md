@@ -12,11 +12,11 @@ breadcrumb: [Add tools and information, Create an AI agent, Now Assist AI agents
 
 # Add a flow action to an AI agent
 
-Add a flow action to an AI agent in [[ai-agent-studio|AI Agent Studio]]. Define the flow action to use it as a reusable operation in automating the ServiceNow AI Platform features without having to write code.
+Add a flow action to an AI agent in AI Agent Studio. Define the flow action to use it as a reusable operation in automating the ServiceNow AI Platform features without having to write code.
 
 ## Before you begin
 
-When an AI agent uses a flow action tool, the user the AI agent is running as must pass the ACL of the flow action. Ensure that the security [[exploring-ai-governance|configurations]] for the flow action are met by the AI agent and agentic workflow. For more information, see [[aia-security-implementation|Security for AI agents]].
+When an AI agent uses a flow action tool, the user the AI agent is running as must pass the ACL of the flow action. Ensure that the security configurations for the flow action are met by the AI agent and agentic workflow. For more information, see [Security for AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
 
 Role required: sn\_aia.admin
 
@@ -86,9 +86,9 @@ Display output
 
 </td><td>
 
-Permission to display the output of the execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
-If you want the AI agent to work in Off Glide architecture with [[now-assist-panel-premium|Premium Chat]] experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
+If you want the AI agent to work in Off Glide architecture with Premium Chat experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with Premium Chat experiences. The widget configuration includes:
 
 -   **Widget**: Defines the display output to render the content in a better user experience. You can select the widget from the drop-down.
 -   **Require widget transformation**: An additional LLM call is required to transform the raw tool. If you choose to skip this transformation step, the tool output will be directly mapped to the widget.
@@ -131,10 +131,4 @@ Message to display to users during tool execution.-   In-progress message: Write
 
     A flow action is added in the Flow actions list on the Add tools and information page.
 
-## Related
 
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-premium|Premium chat]]

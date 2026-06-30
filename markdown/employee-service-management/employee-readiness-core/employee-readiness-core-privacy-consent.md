@@ -14,15 +14,15 @@ breadcrumb: [Employee Readiness Core, Safe Workplace, Health and Safety, Employe
 
 # Maintaining privacy consent in Employee Readiness Core
 
-The [[employee-readiness-core|Employee Readiness Core]] application enables your organization to maintain the data privacy of all employees and obtain consent to various privacy policies in [[safe-workplace|Safe Workplace]] suite applications.
+The Employee Readiness Core application enables your organization to maintain the data privacy of all employees and obtain consent to various privacy policies in Safe Workplace suite applications.
 
 Manage your organization's privacy policies with Employee Readiness Core:
 
 -   Create and manage privacy consent templates for your various privacy policies.
 -   Manage location-based privacy configurations and assign templates to various regions.
 -   Review the consent status to see whether an employee has agreed, disagreed, withdrawn consent, or not responded.
--   Use [[emergency-outreach|Emergency Outreach]] to send email and mobile push notifications for employees to consent to privacy policies.
--   Enable users to consent to privacy policies when reporting diagnostic test results with [[health-safety-testing|Health and Safety Testing]].
+-   Use Emergency Outreach to send email and mobile push notifications for employees to consent to privacy policies.
+-   Enable users to consent to privacy policies when reporting diagnostic test results with Health and Safety Testing.
 
 Employers remain solely responsible for complying with their legal obligations under applicable law, including data protection laws on collection, use, disclosure, and retention of personal data, and should enable, choose not to enable, or customize any functionality available within the application to meet the Employers’ specific requirements.
 
@@ -37,9 +37,3 @@ Review user privacy consent responses submitted by employees indicating their re
 
 **Parent Topic:**[Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md)
 
-## Related
-
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[health-safety-testing|Health and Safety Testing]]

@@ -40,7 +40,7 @@ Follow these steps to achieve domain separation:
 
 ## Replicate TAXII Collection
 
-1.  Navigate to **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **Sources** &gt; **TAXII Profiles**.
+1.  Navigate to **Threat Intelligence** &gt; **Sources** &gt; **TAXII Profiles**.
 2.  In the header bar, use the domain picker to select your domain.
 3.  Select the TAXII collection that is relevant to your organization \(Enterprise ATT&amp;CK, Mobile ATT&amp;CK, or ICS ATT&amp;CK\).
 4.  Right-click in the header bar and select **Insert and Stay**. The duplicate TAXII collection is created under the selected domain
@@ -50,7 +50,7 @@ The following illustration shows how to select the domain TOP/Initech, replicate
 
 \[Omitted image "mitre-insert-stay.gif"\] Alt text: Replicate the TAXII collection using the Insert and Stay option.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -81,7 +81,7 @@ The following illustration shows how to select the domain TOP/Initech, replicate
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -101,8 +101,3 @@ The following illustration shows how to select the domain TOP/Initech, replicate
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-component|Data Component]]

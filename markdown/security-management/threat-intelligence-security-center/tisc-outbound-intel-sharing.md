@@ -14,7 +14,7 @@ breadcrumb: [Configuring Threat Intelligence External Sharing, Administer, Threa
 
 # Exploring Outbound Intel Sharing
 
-Using Outbound Sharing intelligence, you can define and share what [[threat-intel-landing-page|threat intelligence]] entities and attributes, exclusion rules, profiles and groups, and approval rules that can be shared externally and internally.
+Using Outbound Sharing intelligence, you can define and share what threat intelligence entities and attributes, exclusion rules, profiles and groups, and approval rules that can be shared externally and internally.
 
 -   **[Configuring Outbound Intel Sharing Controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-outbound-sharing.md)**  
 Use this section to configure outbound sharing controls, which determine the entities enabled for intelligence sharing from TISC to external systems.
@@ -27,7 +27,7 @@ Outbound Intel Sharing Groups allow you to combine multiple profiles and use the
 -   **[Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-outbound-intel.md)**  
 Define approval rules to control whether certain users require approval before sharing the shared intelligence.
 -   **[Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)**  
-Outbound Intel Sharing Templates enable you to define and control the data shared externally from the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\).
+Outbound Intel Sharing Templates enable you to define and control the data shared externally from the Threat Intelligence Security Center \(TISC\).
 -   **[Working on the Redaction Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-redaction-library.md)**  
 Redaction is the process of replacing sensitive information from shared data to protect confidentiality during intelligence sharing.
 
@@ -40,7 +40,3 @@ Redaction is the process of replacing sensitive information from shared data to 
 
 [Exploring TAXII Outbound Server]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

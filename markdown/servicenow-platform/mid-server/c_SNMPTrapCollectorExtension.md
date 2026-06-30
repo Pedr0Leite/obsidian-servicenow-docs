@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # SNMP trap collector extension
 
-The SNMP trap collector is a [[mid-server-landing|MID Server]] extension that listens for SNMP traps from the devices on your network.
+The SNMP trap collector is a MID Server extension that listens for SNMP traps from the devices on your network.
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
@@ -114,7 +114,7 @@ Execute on
 
 </td><td>
 
-The location for running this extension: a **Specific MID Server** or a **Specific MID Server Cluster**. The recommended setting is **Specific MID Server**. Network hardware typically has to be configured to send to a specific [[ip-address|IP address]]. If the listener moved to a different MID Server in the cluster, the trap would not be received.
+The location for running this extension: a **Specific MID Server** or a **Specific MID Server Cluster**. The recommended setting is **Specific MID Server**. Network hardware typically has to be configured to send to a specific IP address. If the listener moved to a different MID Server in the cluster, the trap would not be received.
 
 </td></tr><tr><td>
 
@@ -151,7 +151,4 @@ Executing on
     |Test|Verifies that the configured MID Server can run the SNMP trap collector extension on the specified port. Running a test does not affect any extensions that are currently running.|
     |Update parameters|If you make changes to the extension configuration, use this option to update the parameters of the currently running extension. First, the parameters are tested for validity. If the parameters are valid, the extension disconnects and reconnects with the new parameters.|
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

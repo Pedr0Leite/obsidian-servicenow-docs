@@ -14,7 +14,7 @@ breadcrumb: [Qualify a work order, Manage work orders, Prepare work orders, Use,
 
 # Move a work order task to the dispatch queue
 
-If [[fsm-application-landing-page|Field Service Management]] is configured to automatically qualify work orders, tasks are also automatically created for the orders. When one of these automatically created tasks is assigned to you, select a dispatch group for it and move it to the dispatch queue.
+If Field Service Management is configured to automatically qualify work orders, tasks are also automatically created for the orders. When one of these automatically created tasks is assigned to you, select a dispatch group for it and move it to the dispatch queue.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: wm\_initiator\_qualifier, wm\_admin, or admin
 
 4.  Click **Ready for Dispatch**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

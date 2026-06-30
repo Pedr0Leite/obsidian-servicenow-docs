@@ -96,7 +96,7 @@ Context window
 Size of input sequences that the model can handle \(number of tokens\).
 
 </td></tr></tbody>
-</table>AI dataset product model: Product Information for the collection of data that is used to train and test [[ai-models|AI models]] \(cmdb\_ai\_dataset\_product\_model\).
+</table>AI dataset product model: Product Information for the collection of data that is used to train and test AI models \(cmdb\_ai\_dataset\_product\_model\).
 
 |Attribute|Description|
 |---------|-----------|
@@ -122,13 +122,13 @@ AI system product model: Product Information for software that provides ML / AI 
 
 |Attribute|Description|
 |---------|-----------|
-|ServiceNow® record reference|Reference to [[platform-now-assist-landing|Now Assist]] record.|
+|ServiceNow® record reference|Reference to Now Assist record.|
 |ServiceNow® table|Now Assist table.|
 
 |Attribute|Description|
 |---------|-----------|
 |AI models|Reference to more than one associated models.|
-|Evaluation Dataset|Reference to more than one associated [[ai-datasets|datasets]] used for evaluation.|
+|Evaluation Dataset|Reference to more than one associated datasets used for evaluation.|
 |Evaluation Metrics Report|Details of evaluation results.|
 
 |Attribute|Description|
@@ -201,9 +201,3 @@ Reference to the AI model for which the prompt is created.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-models|AI models]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-datasets|Datasets]]

@@ -14,7 +14,7 @@ breadcrumb: [Indexed source retention policies and filter conditions, Indexed so
 
 # Purge stale records from the AI Search index
 
-Execute a scheduled job to delete stale records from the [[ia-ai-search|AI Search]] index.
+Execute a scheduled job to delete stale records from the AI Search index.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ The background script executes, deleting stale records from the AI Search index.
 
 **Parent Topic:**[Indexed source retention policies and filter conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/retention-policies-conditions-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

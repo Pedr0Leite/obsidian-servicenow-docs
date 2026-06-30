@@ -13,7 +13,7 @@ breadcrumb: [Alerts in Instance Observer, Monitoring instance health with Instan
 
 # Use popular alerts to receive notifications – Advanced and Total users
 
-Get started with the popular alerts that are most widely used to receive notifications about your instance [[instance-observer-performance|performance]] if you’re new to the Instance Observer \(IO\) alerting system. The most popular alerts appear on the first page of your Configure Alerts page.
+Get started with the popular alerts that are most widely used to receive notifications about your instance performance if you’re new to the Instance Observer \(IO\) alerting system. The most popular alerts appear on the first page of your Configure Alerts page.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Out of the 45 or more alerts that are available, the most popular ones are liste
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**.
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure Alerts**.
 
@@ -44,11 +44,5 @@ Out of the 45 or more alerts that are available, the most popular ones are liste
 4.  Hover over \[Omitted image "io-popular-alert-icon.png"\] Alt text: most used alert by customers icon., which indicates that it’s a popular alert, and select to customize your alert and notification preferences.
 
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

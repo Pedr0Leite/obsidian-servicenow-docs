@@ -71,10 +71,10 @@ pa\_viewerContained by: All roles except pa\_contributor
 
 Before Quebec, this role was necessary for the following actions. It may still be necessary on upgraded instances.
 
--   View [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+-   View Analytics Hub.
 -   Create personal thresholds and targets for indicators.
 -   Read, Update, and Delete thresholds and targets that they created.
--   View text analytics [[widgets|widgets]] on dashboards.
+-   View text analytics widgets on dashboards.
 
 </td><td>
 
@@ -116,7 +116,7 @@ pa\_kpi\_signal\_adminContained by: admin
 
 </td><td>
 
-Enables the user to dismiss a signal or reset the baseline for [[process-behavior-charts-for-kpis|KPI Signals]].
+Enables the user to dismiss a signal or reset the baseline for [KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md).
 
 </td><td>
 
@@ -157,7 +157,7 @@ pa\_analystContained by: pa\_power\_user, pa\_admin
 </td><td>
 
 -   CRUD text analytics keywords, phrases, and stop words
--   Read [[c_IndicatorSources|indicator sources]].
+-   Read indicator sources.
 
 </td><td>
 
@@ -173,7 +173,7 @@ pa\_power\_userContained by: pa\_admin
 
 -   CRUD indicators and breakdowns.
 -   CRUD widgets
--   Add [[c_Widgets|Performance Analytics widgets]] to dashboards.
+-   Add Performance Analytics widgets to dashboards.
 -   CRUD text index configurations for text analytics.
 -   CRUD bucket groups.
 -   CRUD indicator groups
@@ -189,12 +189,12 @@ pa\_data\_collectorContained by: pa\_admin
 </td><td>
 
 -   CRUD, schedule, and run [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md)
--   CRUD indicator and [[breakdown-sources|breakdown sources]]
+-   CRUD indicator and breakdown sources
 -   Read some system properties
 -   CRUD system units
 -   CRUD scripts and automated notifications
 -   CRUD bucket groups
--   Activate or [[deactivate-mlb-for-indicator|deactivate Data snapshots]]
+-   Activate or deactivate Data snapshots
 
 </td><td>
 
@@ -206,9 +206,9 @@ pa\_adminThe pa\_admin role contains the pa\_power\_user, sn\_pa\_diagnostics.pa
 
 </td><td>
 
--   Read [[pa-properties|Performance Analytics properties]].
+-   Read Performance Analytics properties.
 -   Access Admin Console
--   [[launch-dependency-assessment|Launch Dependency Assessment]]
+-   Launch Dependency Assessment
 
 </td><td>
 
@@ -259,7 +259,7 @@ pa\_spotlight\_viewer
 
 </td><td>
 
-Access to the dashboards from the Analytics and [[reporting-landing-page|Reporting]] Spotlight Solutions.
+Access to the dashboards from the Analytics and Reporting Spotlight Solutions.
 
 </td><td>
 
@@ -336,7 +336,7 @@ None, since Quebec. However, upgraded instances may still require pa\_viewer.
 
 </td></tr><tr><td>
 
-[[automated-indicators|Automated indicators]]
+Automated indicators
 
 </td><td>
 
@@ -396,7 +396,7 @@ pa\_data\_collector or pa\_power\_user
 
 </td></tr><tr><td>
 
-[[color-schemes-pa-widgets|Color schemes]] for charts and targets
+Color schemes for charts and targets
 
 </td><td>
 
@@ -408,7 +408,7 @@ pa\_power\_user
 
 </td></tr><tr><td>
 
-Dashboards \(Responsive or [[c_performanceAnalyticsAndReporting|Platform Analytics]]\)
+Dashboards \(Responsive or Platform Analytics\)
 
 </td><td>
 
@@ -516,7 +516,7 @@ pa\_data\_collector or pa\_power\_user
 
 </td></tr><tr><td>
 
-Formula and [[t_CreateAManualIndicator|manual indicators]]
+Formula and manual indicators
 
 </td><td>
 
@@ -552,7 +552,7 @@ pa\_data\_collector
 
 </td></tr><tr><td>
 
-[[pa-targets|Indicator targets]]
+Indicator targets
 
 </td><td>
 
@@ -576,7 +576,7 @@ None, since Quebec. However, upgraded instances may still require pa\_viewer.
 
 </td></tr><tr><td>
 
-[[pa-threshold|Indicator thresholds]]
+Indicator thresholds
 
 </td><td>
 
@@ -588,7 +588,7 @@ pa\_threshold\_administrator
 
 </td></tr><tr><td>
 
-[[in-form-analytics|In-form analytics]]
+In-form analytics
 
 </td><td>
 
@@ -604,7 +604,7 @@ KPI Signals
 
 </td><td>
 
-[[reset-baseline-dismiss-signal|Reset baseline or dismiss signal]]
+Reset baseline or dismiss signal
 
 </td><td>
 
@@ -616,7 +616,7 @@ Lists in all applications
 
 </td><td>
 
-Access an [[interactive-analysis|interactive analysis]]
+Access an interactive analysis
 
 </td><td>
 
@@ -776,24 +776,3 @@ pa\_power\_user
 
 [Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[widgets|Widgets]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[breakdown-sources|Breakdown sources]]
-- [[deactivate-mlb-for-indicator|Deactivate Data snapshots]]
-- [[pa-properties|Performance Analytics properties]]
-- [[launch-dependency-assessment|Launch Dependency Assessment]]
-- [[reporting-landing-page|Reporting]]
-- [[automated-indicators|Automated indicators]]
-- [[color-schemes-pa-widgets|Color schemes]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[pa-targets|Indicator targets]]
-- [[pa-threshold|Indicator thresholds]]
-- [[in-form-analytics|In-form analytics]]
-- [[reset-baseline-dismiss-signal|Reset baseline or dismiss signal]]
-- [[interactive-analysis|Interactive Analysis]]

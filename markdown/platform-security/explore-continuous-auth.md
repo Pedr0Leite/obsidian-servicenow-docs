@@ -13,9 +13,9 @@ breadcrumb: [Continuous Authentication \(CA\), Zero Trust Access, Access Managem
 
 # Exploring Continuous Authentication
 
-ServiceNow's [[ca-homepage|continuous authentication \(CA\)]] enables you to re-verify and authenticate a user if they access resources that are protected by you.
+ServiceNow's continuous authentication \(CA\) enables you to re-verify and authenticate a user if they access resources that are protected by you.
 
-ServiceNow's continuous [[c_Authentication|authentication]] is a security mechanism designed to verify a user's [[identity-landing|identity]] not just at the initial login, but throughout the user's entire session. CA is built on ServiceNow's zero trust access security architecture that aims to enhance security by ensuring that the user remains who they claim to be, even after the initial authentication process.
+ServiceNow's continuous authentication is a security mechanism designed to verify a user's identity not just at the initial login, but throughout the user's entire session. CA is built on ServiceNow's zero trust access security architecture that aims to enhance security by ensuring that the user remains who they claim to be, even after the initial authentication process.
 
 CA works on the following zero trust access principles:
 
@@ -23,9 +23,9 @@ CA works on the following zero trust access principles:
 -   **Use least privilege access**: Grant only the minimum access or permissions needed to perform specific tasks and limit potential damage from compromised accounts or systems."
 -   **Assume breach**: Instead of relying only on prevention, assume breach and focus on proactive detection, containment, and response.
 
-CA provides the ability to enforce step-up authentication or re-authentication based on the data [[users|users]] are accessing and activities they are performing​. It be opted by administrators for creating security policies at a table or data class level.
+CA provides the ability to enforce step-up authentication or re-authentication based on the data users are accessing and activities they are performing​. It be opted by administrators for creating security policies at a table or data class level.
 
-You can enforce step-up authentication \(MFA\) or re-authentication \(SSO - [[c_SAML2.0WebBrowserSSOProfile|SAML]] or OIDC\) within a logged-in session whenever there is an attempt by the user to access Personally Identifiable Information \(PII\) and sensitive data.
+You can enforce step-up authentication \(MFA\) or re-authentication \(SSO - SAML or OIDC\) within a logged-in session whenever there is an attempt by the user to access Personally Identifiable Information \(PII\) and sensitive data.
 
 **Note:** You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) for opting CA which requires a license.
 
@@ -51,7 +51,7 @@ CA has the following roles:
 
 -   CA Admin \(ca\_admin\): Ability to create, edit, and view CA policies. Configure CA properties and view dashboards \(Metrics\) of CA.
 -   Policy Admin \(ca\_policy\_admin\): Ability to create, edit, and view CA policies..
--   Auditor \(ca\_auditor\): Ability to view dashboards \(Metrics\) of CA. And policies, and [[logs|logs]] of CA.
+-   Auditor \(ca\_auditor\): Ability to view dashboards \(Metrics\) of CA. And policies, and logs of CA.
 
 To configure CA you must elevate your role to **ca\_admin** and perform the policy configurations.
 
@@ -61,9 +61,9 @@ To configure CA you must elevate your role to **ca\_admin** and perform the poli
 
 Following are the different modules within CA:
 
--   [[ca-policies|Policies]]: View the different continuous [[authentication-policies|authentication policies]] that are created.
--   [[ca-metrics|Metrics]]: View the different metrics for continuous authentication for KPI purposes and understand the usage of CA within your organization.
--   [[ca-system-properties|System Properties]]: Use system properties to enable and customize continuous authentication \(CA\) to meet your zero trust access security requirements.
+-   [Policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-policies.md): View the different continuous authentication policies that are created.
+-   [Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-metrics.md): View the different metrics for continuous authentication for KPI purposes and understand the usage of CA within your organization.
+-   [System Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md): Use system properties to enable and customize continuous authentication \(CA\) to meet your zero trust access security requirements.
 
 **Related topics**  
 
@@ -74,27 +74,11 @@ Following are the different modules within CA:
 
 [System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-system-properties.md)
 
-[[pre-work-ca|Pre-work for Continuous Authentication]]
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-[[activate-continuous-authentication|Activating Continuous Authentication]]
+[Activating Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-continuous-authentication.md)
 
-[[configure-ca|Configuring Continuous Authentication]]
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-ca.md)
 
-[[high-assurance-ca|High Assurance session with Continuous Authentication]]
+[High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[ca-metrics|Metrics]]
-- [[ca-system-properties|System properties]]
-- [[pre-work-ca|Pre-work for Continuous Authentication]]
-- [[activate-continuous-authentication|Activating Continuous Authentication]]
-- [[configure-ca|Configuring Continuous Authentication]]
-- [[high-assurance-ca|High Assurance session with Continuous Authentication]]
-- [[ca-homepage|Continuous Authentication \(CA\)]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[users|Users]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[logs|Logs]]
-- [[authentication-policies|Authentication policies]]

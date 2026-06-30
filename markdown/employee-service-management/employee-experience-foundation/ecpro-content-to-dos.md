@@ -27,14 +27,14 @@ Create to-do links for your banner or styled content items to make it easier to 
 
 To create to-do links for a banner or styled content, do the following:
 
--   [[ecpro-manage-content-to-do|Create to-do content]]: For more information, see [Create to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-content-to-do.md).
--   Create link content referencing your [[ec-to-do-content|to-do content]]: For details, see [Add or modify links to other content sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-link-content.md)
+-   Create to-do content: For more information, see [Create to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-content-to-do.md).
+-   Create link content referencing your to-do content: For details, see [Add or modify links to other content sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-link-content.md)
 
     **Note:** Select **To-do** in the **Type** field. And, select the to-do content you created previously from the **To-do content** list.
 
     .
 
--   Create [[ec-streamline-content|portal content]] that references your link content.
+-   Create portal content that references your link content.
 -   Schedule your content using Content Publishing.
     -   Schedule the portal content \(banner or styled content\).
 
@@ -52,7 +52,7 @@ To create to-do links for a banner or styled content within a campaign, you must
 -   Create to-do content.
 -   Create link content referencing your to-do link content.
 -   Create portal content that references your link content.
--   Add your portal content to a stage/bundle as an [[activity-lxp|activity]] in your campaign.
+-   Add your portal content to a stage/bundle as an activity in your campaign.
     -   You can use the legacy lists and forms or the campaign builder UI to add your portal content.
     -   For more information, see [Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-campaigns.md).
 -   If you use the campaign builder UI, you will see the banner and link content.
@@ -64,9 +64,4 @@ To create to-do links for a banner or styled content within a campaign, you must
 
     **Note:** You cannot delete the link content without deleting the banner \(parent\) content. You also cannot move the link content to another stage \(bundle\) without moving the banner \(parent\) content.
 
-## Related
 
-- [[ecpro-manage-content-to-do|Create to-do content]]
-- [[ec-to-do-content|To-do content]]
-- [[ec-streamline-content|Portal content]]
-- [[activity-lxp|Activity]]

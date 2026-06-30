@@ -14,7 +14,7 @@ breadcrumb: [Industrial Knowledge Management, Industrial Connected Workforce]
 
 # Exploring Industrial Knowledge Management
 
-[[icw-knowledge-management-landing-page|Industrial Knowledge Management]] for [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) enables you to organize and manage your knowledge resources in a single place.
+Industrial Knowledge Management for Industrial Connected Workforce \(ICW\) enables you to organize and manage your knowledge resources in a single place.
 
 ## Industrial Knowledge Management overview
 
@@ -28,7 +28,3 @@ Knowledge articles can be linked to functional locations and equipment records. 
 
 **Parent Topic:**[Industrial Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/icw-knowledge-management-landing-page.md)
 
-## Related
-
-- [[icw-knowledge-management-landing-page|Industrial Knowledge Management]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

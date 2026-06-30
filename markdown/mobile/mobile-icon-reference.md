@@ -12,13 +12,13 @@ breadcrumb: [Mobile icons, Mobile styles, Mobile app components, Building mobile
 
 # Mobile icon reference
 
-Use [[mab-concept|Mobile App Builder]] to insert these icons in your mobile apps.
+Use Mobile App Builder to insert these icons in your mobile apps.
 
-[[sg-mobile-icon|Mobile icons]] include the following types of icons:
+Mobile icons include the following types of icons:
 
 -   **Action font icons**
 
-    Action font icons are commonly used in functions and on buttons that are located on cards or for [[sg-config-quick-actions|quick actions]]. These icons are in the **now-mobile-icons-buttons** font family.
+    Action font icons are commonly used in functions and on buttons that are located on cards or for quick actions. These icons are in the **now-mobile-icons-buttons** font family.
 
 -   **Screen font icons**
 
@@ -30,7 +30,7 @@ Use [[mab-concept|Mobile App Builder]] to insert these icons in your mobile apps
 
 -   **Launcher screen font icons**
 
-    Launcher screen font icons are used in the upper right corner of [[mobile-screens-landing|mobile screens]]. They are used as navigation to another screen. Don't use these icons for quick actions. These icons are in the **now-mobile-icons-ALPnavbar** font family.
+    Launcher screen font icons are used in the upper right corner of mobile screens. They are used as navigation to another screen. Don't use these icons for quick actions. These icons are in the **now-mobile-icons-ALPnavbar** font family.
 
 -   **Image icons**
 
@@ -39,25 +39,14 @@ Use [[mab-concept|Mobile App Builder]] to insert these icons in your mobile apps
 
 The following topics contain information for the **Name** and **Value** fields you must complete in Mobile App Builder to use icons in your mobile apps.
 
--   **[[actions-font-icons|Actions font icons]]**  
+-   **[Actions font icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actions-font-icons.md)**  
 Use actions font icons for functions. They can be used on buttons that are located on cards or for quick actions. Actions font icons are in the **now-mobile-icons-buttons** font family.
--   **[[screen-font-icons|Screen font icons]]**  
+-   **[Screen font icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/screen-font-icons.md)**  
 Use screen font icons for lists or section destinations. You can use them to represent a work flow or a screen that you want users to navigate to. Screen font icons are in the **now-mobile-icons** font family.
--   **[[mobile-card-font-icons|Mobile card font icons]]**  
+-   **[Mobile card font icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-card-font-icons.md)**  
 Use mobile card font icons in the body of mobile cards. Mobile card font icons are in the **now-mobile-icons-cards** font family.
--   **[[launcher-screen-font-icons|Launcher screen font icons]]**  
+-   **[Launcher screen font icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/launcher-screen-font-icons.md)**  
 Use launcher screen font icons in the upper right corner of your mobile screen. They are used as navigation to another screen. Don't use these icons for quick actions. Launcher screen font icons are in the **now-mobile-icons-ALPnavbar** font family.
--   **[[image-icons|Image icons]]**  
+-   **[Image icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/image-icons.md)**  
 Use image icons on navigation bars and tab bars. Image icons are not font-type icons.
 
-## Related
-
-- [[actions-font-icons|Actions font icons]]
-- [[screen-font-icons|Screen font icons]]
-- [[mobile-card-font-icons|Mobile card font icons]]
-- [[launcher-screen-font-icons|Launcher screen font icons]]
-- [[image-icons|Image icons]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-mobile-icon|Mobile icons]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[mobile-screens-landing|Mobile screens]]

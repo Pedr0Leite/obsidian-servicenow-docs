@@ -14,13 +14,13 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View engineering license servers in workspace
 
-View the list of license management servers that OpenLM or Open iT connect with to get data into your ServiceNow instance in the [[sam-workspace|Software Asset Workspace]].
+View the list of license management servers that OpenLM or Open iT connect with to get data into your ServiceNow instance in the Software Asset Workspace.
 
 ## Before you begin
 
 Information such as the name and type of the server, its current status, whether it's currently active, and the last connection time is displayed.
 
-**Note:** [[eng-license-server|Engineering license servers]] only appear if the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Engineering Applications \(com.sn\_samp\_eng\_app\) [plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) is activated.
+**Note:** Engineering license servers only appear if the Software Asset Management Professional for Engineering Applications \(com.sn\_samp\_eng\_app\) [plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) is activated.
 
 Role required: sam\_admin or sam\_user
 
@@ -33,8 +33,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[eng-license-server|Engineering license servers]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

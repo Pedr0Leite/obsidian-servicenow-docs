@@ -22,13 +22,13 @@ Role required: sn\_grc\_workspace.admin \(CRUD\), sn\_grc\_workspace.user \(Read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Cloud file configuration**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Cloud file configuration**.
 
 2.  Select **New**.
 
 3.  On the Cloud file configuration form, fill in the fields.
 
-    For more information on the fields in the form, see [Cloud file configuration record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration-record-form.md). Once the parent cloud file configuration is active, you can configure the [[file-access-permissions|File access permissions]] for the Cloud file configuration record as shown in the example.
+    For more information on the fields in the form, see [Cloud file configuration record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/document-access-configuration-record-form.md). Once the parent cloud file configuration is active, you can configure the File access permissions for the Cloud file configuration record as shown in the example.
 
     \[Omitted image "cloud-file-configuration-record.png"\] Alt text: Cloud file configuration record.
 
@@ -53,7 +53,4 @@ Role required: sn\_grc\_workspace.admin \(CRUD\), sn\_grc\_workspace.user \(Read
 
 4.  Select **Submit**.
 
-## Related
 
-- [[Administration|Administration]]
-- [[file-access-permissions|File access permissions]]

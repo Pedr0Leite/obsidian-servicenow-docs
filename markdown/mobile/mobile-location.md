@@ -29,7 +29,7 @@ To monitor your activity, turn on location tracking from your mobile device. Loc
 
 -   **Enable location tracking**
 
-Access Location tracking by tapping the  **Settings**  tab in the [[sg-mobile-tab-bar|navigation bar]], and selecting  **Location Tracking**.
+Access Location tracking by tapping the  **Settings**  tab in the navigation bar, and selecting  **Location Tracking**.
 
 On the next screen, enable the **Location tracking** option.
 
@@ -97,6 +97,4 @@ If your administrator has enabled both options, you can select the tracking opti
 
     If during an active location tracking session you tap another action that starts location tracking, the last tapped action overrides the existing tracking session.
 
-## Related
 
-- [[sg-mobile-tab-bar|Navigation bar]]

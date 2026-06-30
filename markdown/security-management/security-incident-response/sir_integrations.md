@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Security Incident Response integrations
 
-All the [[security-operations-landing-page|Security Operations]] core applications and non-core third-party integrations are available from the ServiceNow Store. This section provides instructions for activating the integrations and configuring both ServiceNow and third-party integrations. Also included are some basic guidelines for developing your own integrations, as well as details on specific integrations included in the base system.
+All the Security Operations core applications and non-core third-party integrations are available from the ServiceNow Store. This section provides instructions for activating the integrations and configuring both ServiceNow and third-party integrations. Also included are some basic guidelines for developing your own integrations, as well as details on specific integrations included in the base system.
 
 ## Integration Configurations
 
@@ -35,6 +35,3 @@ Integration cards display different buttons depending on the current state of th
 |New|Certain integrations, such as Carbon Black and IBM QRadar, allow you to define multiple implementations of the same integration. For those integrations, click **New** after the plugin is activated. The cards allow you to install plugins \(where applicable\) and configure the implementations for use.|
 |Open Page|In the base system, your instance performs a query to the ServiceNow Store for any applications that have dependencies on Security Operations plugins. When those applications are found, and the associated application plugins are activated, integration cards for them are displayed with the other security integration cards. Click **Open Page** to access the website of the third-party application to configure the integration. After you have completed the configuration, the **Open Page** button changes to **Configure**.|
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Control Tower, Enable AI experiences]
 
 # Tables installed with AI Control Tower
 
-Certain Tables or fields are installed along with the activation of the [[ai-control-tower-landing|AI Control Tower]] core plugin.
+Certain Tables or fields are installed along with the activation of the AI Control Tower core plugin.
 
-The following table is provided to understand the AI assessment and [[ai-task-all-security-tasks|AI task]] fields.
+The following table is provided to understand the AI assessment and AI task fields.
 
 | | | |
 |---|---|---|
@@ -41,7 +41,3 @@ The following table is provided to understand the AI assessment and [[ai-task-al
 |State|state| |
 |Type|type|Choice|
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-task-all-security-tasks|AI Task]]

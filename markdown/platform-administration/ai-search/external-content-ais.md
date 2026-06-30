@@ -14,11 +14,11 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Indexing and searching external content in AI Search
 
-With a subscription for the External Content for [[ia-ai-search|AI Search]] plugin, you can enable AI Search users to search content and metadata from documents in external repositories and remote tables.
+With a subscription for the External Content for AI Search plugin, you can enable AI Search users to search content and metadata from documents in external repositories and remote tables.
 
 The External Content for AI Search plugin enables you to index documents located outside of your ServiceNow AI Platform® instance, such as those stored in SharePoint collections, Confluence sites, and [remote tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables.md). Indexing these documents makes their content and metadata searchable in AI Search.
 
-AI Search displays search [[hs-results|results]] for indexed external documents just as it does for indexed ServiceNow AI Platform records. Users don't need to perform any special searches to match content and metadata from external documents.
+AI Search displays search results for indexed external documents just as it does for indexed ServiceNow AI Platform records. Users don't need to perform any special searches to match content and metadata from external documents.
 
 Indexing doesn't duplicate external documents as records in your ServiceNow AI Platform instance. When a user selects an external document search result, they are directed to the source document in its original location.
 
@@ -44,7 +44,7 @@ Search connector applications
 
 </td><td>
 
-Search connector applications available in the [[servicenow-store|ServiceNow Store]] provide simple tools for indexing content and metadata from documents in supported external sources. They handle some of the configuration work, such as creation of external content schema tables, for you. Each search connector application supports a specific external document source \(or set of sources\). For example, the [SharePoint Online Search Connector](https://store.servicenow.com/sn_appstore_store.do#!/store/application/32e3b8addb2a5450e7048d7e13961908/) only supports documents in SharePoint collections, while the [Raytion Connector Hub for AI Search](https://store.servicenow.com/sn_appstore_store.do#!/store/application/f7a8af54db9ee01035d0c6cd13961901/) supports multiple document sources. If no search connector application is available for your external document source, you must use the Integration Hub AI Search spoke or the External Content REST API to index content and metadata for documents from that source.
+Search connector applications available in the ServiceNow Store provide simple tools for indexing content and metadata from documents in supported external sources. They handle some of the configuration work, such as creation of external content schema tables, for you. Each search connector application supports a specific external document source \(or set of sources\). For example, the [SharePoint Online Search Connector](https://store.servicenow.com/sn_appstore_store.do#!/store/application/32e3b8addb2a5450e7048d7e13961908/) only supports documents in SharePoint collections, while the [Raytion Connector Hub for AI Search](https://store.servicenow.com/sn_appstore_store.do#!/store/application/f7a8af54db9ee01035d0c6cd13961901/) supports multiple document sources. If no search connector application is available for your external document source, you must use the Integration Hub AI Search spoke or the External Content REST API to index content and metadata for documents from that source.
 
  Search connector applications provide the most straightforward way to index document content and metadata from supported external sources.
 
@@ -107,7 +107,7 @@ Define an external content schema table for the external document source
 
 </td><td>
 
-An external content schema table doesn't store external document content in the database. Instead, its columns serve as a map of [[index-fields-list-ais|AI Search index fields]] to populate when you index content from external data sources. For instructions on creating a new external content schema table, see [Create an external content schema table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-content-schema-ais.md).
+An external content schema table doesn't store external document content in the database. Instead, its columns serve as a map of AI Search index fields to populate when you index content from external data sources. For instructions on creating a new external content schema table, see [Create an external content schema table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-ext-content-schema-ais.md).
 
  When documents from multiple external data sources share the same set of fields and have unique document identifiers, you can use a single external content schema table for all of them. To avoid data loss, the external data sources must satisfy these conditions:
 
@@ -120,7 +120,7 @@ An external content schema table doesn't store external document content in the 
 
 </td></tr><tr><td>
 
-[[create-indexed-source-ais|Create an indexed source]] with your external content schema table specified as the table to index
+Create an indexed source with your external content schema table specified as the table to index
 
 </td><td>
 
@@ -146,10 +146,3 @@ When you activate the External Content for AI Search plugin \(com.glide.ais.exte
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[servicenow-store|ServiceNow Store]]
-- [[index-fields-list-ais|AI Search index fields]]
-- [[create-indexed-source-ais|Create an indexed source]]

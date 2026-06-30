@@ -12,7 +12,7 @@ breadcrumb: [Configure action buttons, Declarative actions, Administer, Configur
 
 # Configure dynamic conditions for a list action
 
-[[configure-onboarding-modals|Configure]] a list or related list action to perform an action only when it satisfies dynamic conditions.
+Configure a list or related list action to perform an action only when it satisfies dynamic conditions.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The action will only be available when selected list items satisfy the dynamic c
 
 **Note:** You may experience slowness and unresponsiveness if this feature is used in combination with **Select All**, which selects all records in a list, as conditions must be evaluated for all of the selected records.
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

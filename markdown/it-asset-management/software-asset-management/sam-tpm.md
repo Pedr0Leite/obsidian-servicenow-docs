@@ -14,11 +14,11 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Use Software Asset Management and Application Portfolio Management to manage technology onboarding
 
-Use the [[c_SoftwareAssetMgmt|Software Asset Management]] application along with Technology Reference Model \(TRM\) of Application Portfolio Management to manage onboarding of technologies.
+Use the Software Asset Management application along with Technology Reference Model \(TRM\) of Application Portfolio Management to manage onboarding of technologies.
 
 TRM is a list of software products with information on their approval of use. Each product is associated with a set of lifecycle phases with a start and end date. The TRM library is maintained by the enterprise architect and used by application owners.
 
-The Software Asset Management application gives visibility into the TRM lifecycle phases for all products associated with [[c_CreatingSoftwareModels|software models]]. When a software model is created and associated with a product that is approved for use in TRM, the **Certified** check box in the software model form is selected by default. All software models associated with that product are then available for use.
+The Software Asset Management application gives visibility into the TRM lifecycle phases for all products associated with software models. When a software model is created and associated with a product that is approved for use in TRM, the **Certified** check box in the software model form is selected by default. All software models associated with that product are then available for use.
 
 \[Omitted image "sam-tpm.png"\] Alt text: Software model from
 
@@ -40,7 +40,3 @@ If you create another software model SW2, on September 19, 2022, and associate i
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

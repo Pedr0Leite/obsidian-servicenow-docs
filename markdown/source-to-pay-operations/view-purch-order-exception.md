@@ -13,7 +13,7 @@ breadcrumb: [Source-to-Pay Workspace, Explore, Purchase Order Management, Source
 
 # View a purchase order exception
 
-As an Operational Buyer, view a purchase order exception in the [[purchase-order-mgmt-landing-page|Purchase Order Management]] landing page for further processing.
+As an Operational Buyer, view a purchase order exception in the Purchase Order Management landing page for further processing.
 
 ## Before you begin
 
@@ -31,18 +31,12 @@ Role required: sn\_poem\_core.operational\_buyer
 
 4.  From the list page, navigate to either of the following submodules:
 
-    -   **My work** &gt; **Open [[purchase-order-table|purchase order]] exceptions**
+    -   **My work** &gt; **Open purchase order exceptions**
     -   **All work** &gt; **Open purchase order exceptions**
 5.  Select an exception number link from the Number column.
 
-    The details of purchase order exceptions are displayed on the **Details** tab. For more information, see [[purch-order-exception-details|Purchase order exception Details page]].\[Omitted image "pom-view-exception.png"\] Alt text: View a purchase order exception
+    The details of purchase order exceptions are displayed on the **Details** tab. For more information, see [Purchase order exception Details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-details.md).\[Omitted image "pom-view-exception.png"\] Alt text: View a purchase order exception
 
 
-**Parent Topic:**[[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+**Parent Topic:**[Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-mgmt-ws.md)
 
-## Related
-
-- [[purch-order-exception-details|Purchase order exception Details page]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]

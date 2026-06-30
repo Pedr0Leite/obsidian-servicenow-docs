@@ -12,7 +12,7 @@ breadcrumb: [Setup and administration, Domain separation for service providers, 
 
 # Add a domain field to a table
 
-As an administrator, [[bp-ds-custom-table|domain-separate a custom table]] by adding a sys\_domain field to it.
+As an administrator, domain-separate a custom table by adding a sys\_domain field to it.
 
 ## Before you begin
 
@@ -44,6 +44,4 @@ Do not add domains to base system tables.
 
     Adding domains to base system tables requires prohibitively thorough testing, updates and adding new logic. In addition in many cases, the source code is not accessible to the customer.
 
-## Related
 
-- [[bp-ds-custom-table|Domain-separate a custom table]]

@@ -28,7 +28,7 @@ Configure a project definition that displays visualized, interactive routes of f
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Projects** &gt; **All projects**.
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Projects** &gt; **All projects**.
 
 2.  Select **New**.
 
@@ -48,22 +48,15 @@ Report on steps that occur within your business process.
 -   **[Configure a breakdown definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-breakdown.md)**  
 Add a breakdown to filter records and analyze a process map by categories.
 -   **[Configuring improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configuring-finding-definitions.md)**  
-Configure an improvement opportunities to view the insights on the [[summary-insights-dashboard|Summary and insights page]].
+Configure an improvement opportunities to view the insights on the Summary and insights page.
 -   **[Import improvement opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/import-finding-definitions.md)**  
-[[import-finding-definitions|Import improvement opportunities]] as templates into the project associated with the table. Improvement opportunities from the parent table that are in Active state are available for import. If you don’t import the improvement opportunities from the process table, the improvement opportunities aren’t used during project mining.
+Import improvement opportunities as templates into the project associated with the table. Improvement opportunities from the parent table that are in Active state are available for import. If you don’t import the improvement opportunities from the process table, the improvement opportunities aren’t used during project mining.
 -   **[Mine a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/generate-process-map.md)**  
 After you’ve configured the data you want to visualize, you can begin mining the project.
 -   **[Schedule a Process Mining job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/schedule-mining-job.md)**  
-[[schedule-mining-job|Schedule a Process Mining job]] to mine one or more projects later.
+Schedule a Process Mining job to mine one or more projects later.
 -   **[Manage a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/edit-project.md)**  
-Edit or delete a project from the [[new-project-def|Project Definition form]]. Delete a project if you are not using it and want to clean up data. Deleting a project deletes the project's configurations and versions or projects it has generated.
+Edit or delete a project from the Project Definition form. Delete a project if you are not using it and want to clean up data. Deleting a project deletes the project's configurations and versions or projects it has generated.
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[summary-insights-dashboard|Summary and insights page]]
-- [[import-finding-definitions|Import improvement opportunities]]
-- [[schedule-mining-job|Schedule a Process Mining job]]
-- [[new-project-def|Project definition form]]

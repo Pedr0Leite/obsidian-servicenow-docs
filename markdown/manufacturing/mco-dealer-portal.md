@@ -32,7 +32,7 @@ Campaigns
 
 </td><td>
 
-Displays the campaigns created for [[mco-sales-promotion|sales promotion]] and recall.
+Displays the campaigns created for sales promotion and recall.
 
 </td></tr><tr><td>
 
@@ -43,7 +43,7 @@ My lists
 Displays the list of claims that includes:-   Sales promotion claims
 -   Sales promotion bulk upload
 -   Repair claims
--   [[mco-report-an-issue|Report an issue]]
+-   Report an issue
 -   All Cases
 
 </td></tr><tr><td>
@@ -123,13 +123,7 @@ Display user profile information. To learn more about user profile, see [User Pr
 </table>**Related topics**  
 
 
-[[dealer-data-model-overview|Dealer data model]]
+[Dealer data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/dealer-data-model-overview.md)
 
-[[mco-use-dealer-portal|Dealer management]]
+[Dealer management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-dealer-portal.md)
 
-## Related
-
-- [[dealer-data-model-overview|Dealer data model]]
-- [[mco-use-dealer-portal|Dealer management]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[mco-report-an-issue|Report an issue]]

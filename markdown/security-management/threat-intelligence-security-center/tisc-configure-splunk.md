@@ -27,7 +27,7 @@ The TISC add-on connects your ServiceNow account to Splunk and pulls observable 
 
 ## Procedure
 
-1.  Search for **[[tisc-landing-page|Threat Intelligence Security Center]] for Splunk** app from the left navigation.
+1.  Search for **Threat Intelligence Security Center for Splunk** app from the left navigation.
 
 2.  Select **Set up** under the **Actions** column.
 
@@ -53,7 +53,7 @@ The TISC add-on connects your ServiceNow account to Splunk and pulls observable 
 
 7.  Select **Create Input**.
 
-    The **Add Input** dialogue box is displayed for you to add the inputs to your ServiceNow account. After the input set is defined, the application sends the information to the TISC instance to retrieve a specific number of [[c_Observables|observables]] that meet the criteria.
+    The **Add Input** dialogue box is displayed for you to add the inputs to your ServiceNow account. After the input set is defined, the application sends the information to the TISC instance to retrieve a specific number of observables that meet the criteria.
 
 8.  Fill in the input details, as appropriate.
 
@@ -247,7 +247,3 @@ Sample JSON filter:
 
 **Parent Topic:**[TISC add-on for Splunk overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-addon-splunk.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]

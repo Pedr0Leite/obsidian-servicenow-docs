@@ -21,7 +21,7 @@ If the general classes that are provided aren't appropriate for a specific group
 Built-in functionality allows you to use asset classes for financial tracking, in a model bundle, and as a pre-allocated asset.
 
 -   **[Create an asset class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreateAnAssetClass.md)**  
-Creating an asset class requires defining a new table and creating a corresponding application and module, then adding the new asset class to new or existing [[model-hierarchy|model categories]]. The default asset classes are Hardware, Software License, and Consumable. These general classes can be used to manage various assets.
+Creating an asset class requires defining a new table and creating a corresponding application and module, then adding the new asset class to new or existing model categories. The default asset classes are Hardware, Software License, and Consumable. These general classes can be used to manage various assets.
 -   **[Create license assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingLicenseAssets.md)**  
 You can manage your organization's software license assets.
 -   **[Set asset states and substates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_SettingAssetStatesAndSubstates.md)**  
@@ -50,6 +50,3 @@ Depreciation is the reduction in the value of an asset over time.
 
 [Use Organization Management]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]

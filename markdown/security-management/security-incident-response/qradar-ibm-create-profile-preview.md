@@ -14,7 +14,7 @@ breadcrumb: [Setup IBM QRadar profile, Set up instance, IBM QRadar Offense Inges
 
 # Preview security incident
 
-After you complete the [[mapping-logrhythm|mapping]] step, preview the values that you mapped in a SIR security incident. This preview permits you to verify that you have mapped all the offense fields that you want displayed on the security incident.
+After you complete the mapping step, preview the values that you mapped in a SIR security incident. This preview permits you to verify that you have mapped all the offense fields that you want displayed on the security incident.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-As a user with the sn\_si.admin role, preview a security incident and edit the mapping again as required to fix fields with errors or to populate any missing data. If the preview is not successfully completed, you cannot proceed to the scheduling step. Previews of SIR security incidents are not saved as actual incidents in the [[sir-landing-page|Security Incident Response]] product.
+As a user with the sn\_si.admin role, preview a security incident and edit the mapping again as required to fix fields with errors or to populate any missing data. If the preview is not successfully completed, you cannot proceed to the scheduling step. Previews of SIR security incidents are not saved as actual incidents in the Security Incident Response product.
 
 ## Procedure
 
@@ -48,7 +48,7 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
     \[Omitted image "ibm-qradar-profile-preview-2.png"\] Alt text: Work note and Description fields on the security incident preview.
 
-    **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or [[identity|identity]] records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
+    **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or identity records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
 
 7.  Select **Continue**.
 
@@ -57,8 +57,3 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
 If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to define the schedule. For more information, see [Define schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/qradar-ibm-create-profile-schedule.md).
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[identity|Identity]]

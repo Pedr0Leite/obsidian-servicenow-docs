@@ -16,7 +16,7 @@ breadcrumb: [Run the automated phishing response playbook flow, Playbook for Aut
 
 You can drill down to the Subflow Designer to view detailed information about the subflow being executed as part of the automated phishing response playbook flow.
 
-You can launch the Subflow Designer to view additional details of a subflow. The Subflow Designer page for the Run Threat Lookups for [[c_Observables|Observables]] subflow is shown here. Select the \[Omitted image "cj-sir-flow-actiondesign-icon.png"\] Alt text: Subflow designer icon to view the Subflow Designer.
+You can launch the Subflow Designer to view additional details of a subflow. The Subflow Designer page for the Run Threat Lookups for Observables subflow is shown here. Select the \[Omitted image "cj-sir-flow-actiondesign-icon.png"\] Alt text: Subflow designer icon to view the Subflow Designer.
 
 In the Subflow Designer page, you can see the inputs and outputs for this subflow, and the underlying workflow actions that are being executed.
 
@@ -24,6 +24,3 @@ In the Subflow Designer page, you can see the inputs and outputs for this subflo
 
 **Parent Topic:**[Run the automated phishing response playbook flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/run-phishing-playbook.md)
 
-## Related
-
-- [[c_Observables|Observables]]

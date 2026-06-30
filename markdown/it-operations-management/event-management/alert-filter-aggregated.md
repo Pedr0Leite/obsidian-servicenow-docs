@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Automatic Group Filters**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Automatic Group Filters**.
 
 2.  On the Automatic Group Filters page, add the **Aggregated** column.
 
@@ -50,6 +50,3 @@ Role required: evt\_mgmt\_admin
 
 [Specify and manage pattern identifier attributes for alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ptrn-attributes-alrt-aggregate.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hermes Messaging Service, Manage service capabilities, E
 
 # Hermes Messaging Service roles
 
-[[hermes-messaging-service|Hermes Messaging Service]] is installed with these roles.
+Hermes Messaging Service is installed with these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -113,11 +113,7 @@ None.
 
 ### Special considerations
 
-Stream [[c_Connect|Connect]] administrators with the kafka\_namespace\_admin role can view message data across different domains.
+Stream Connect administrators with the kafka\_namespace\_admin role can view message data across different domains.
 
 For example, in a Managed Service Provider \(MSP\) instance with Kafka integrations in multiple domains, managing namespace definitions properly is important to maintain separation between domains, so don't grant this role to administrators within a single domain.
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]

@@ -58,7 +58,7 @@ Order
 
 </td><td>
 
-When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or [[employee-center-landing-page|Employee Center]]. Content appears closer to the beginning of the carousel when assigned a lower number.
+When you have multiple pieces of content that appear in a carousel, you can define the order they appear.Enter a number defining the order the content appears on the service portal or Employee Center. Content appears closer to the beginning of the carousel when assigned a lower number.
 
 **Note:** Use increments of 100 when determining the order. This method makes it easier to edit. For example, you numbered your links 1, 2, 3, 4, 5 and wanted to place a new content after 2. You would have to renumber 3, 4, and 5. If you use 100, 200, and 300 and wanted to place content from 100 through 200, you would simply use any number from 101 through 199.
 
@@ -76,7 +76,7 @@ Use block content
 
 </td><td>
 
-You can create rich text or use block content for [[ec-streamline-content|portal content]].Select the toggle switch to show the Block content field.
+You can create rich text or use block content for portal content.Select the toggle switch to show the Block content field.
 
 </td></tr><tr><td>
 
@@ -90,13 +90,13 @@ The block content you want to appear on the Employee Center.Only appears when yo
 
 </td></tr><tr><td>
 
-User [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] table
+User reference table
 
 </td><td>
 
 Determines the variables you can use to personalize text for the **Rich text** field.Appears when the **Use block content** is turned off.
 
- Select **[[c_HRProfileRecords|HR Profile]]** to select variables from the sn\_hr\_core\_profile table.
+ Select **HR Profile** to select variables from the sn\_hr\_core\_profile table.
 
 **Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, only **HR Profile** appears.
 
@@ -141,9 +141,4 @@ Message you want to appear as portal content. Use the editing tools to format yo
 
         **Note:** To edit the content after a review, the content request item state must be changed to **Work in Progress**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-streamline-content|Portal content]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]

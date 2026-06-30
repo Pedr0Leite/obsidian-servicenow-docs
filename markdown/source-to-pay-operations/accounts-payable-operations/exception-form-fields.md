@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Invoice exception form
 
-Field descriptions for the Invoice Exception form, organized by section, for reviewing and resolving [[work-with-invoice-exceptions|invoice exceptions]].
+Field descriptions for the Invoice Exception form, organized by section, for reviewing and resolving invoice exceptions.
 
 |Field|Description|
 |-----|-----------|
@@ -31,12 +31,12 @@ Field descriptions for the Invoice Exception form, organized by section, for rev
 |Invoice|Invoice that contains this exception.|
 |Purchase order|Purchase order corresponding to this invoice.|
 |Supplier|Supplier who delivers the product or service.|
-|Total amount|Total amount to be paid to the [[supplier|supplier]].|
+|Total amount|Total amount to be paid to the supplier.|
 
 -   **[Invoice exception form tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-tabs.md)**  
 Descriptions of the tabs on the Invoice exception form, including the invoice exception information available for exception resolution.
 -   **[Invoice Exception Rule Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-rule-form.md)**  
-Invoice exception rules in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] define which [[invoices|invoices]] trigger exceptions and how they are handled. Use this reference to understand each form field and its configuration options.
+Invoice exception rules in Accounts Payable Operations define which invoices trigger exceptions and how they are handled. Use this reference to understand each form field and its configuration options.
 
 **Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
@@ -47,7 +47,7 @@ Invoice exception rules in [[acc-pay-mgmt-landing-page|Accounts Payable Operatio
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -73,10 +73,3 @@ Invoice exception rules in [[acc-pay-mgmt-landing-page|Accounts Payable Operatio
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

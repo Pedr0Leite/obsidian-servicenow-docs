@@ -14,7 +14,7 @@ breadcrumb: [Set up self-service, Configure, Customer Service Management]
 
 # Configure Conversational Appointment Booking
 
-Install and set up the [[conv_appt_booking|Conversational Appointment Booking]] application to enable customers to book, reschedule, or cancel an appointment with a Virtual Agent.
+Install and set up the Conversational Appointment Booking application to enable customers to book, reschedule, or cancel an appointment with a Virtual Agent.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ This procedure provides general steps to set up the Conversational Appointment B
 
     [duplicate the topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/duplicate-virtual-agent-topic.md).
 
-    **Note:** Translation for custom controls is currently unavailable. You can manually add the translation in the ServiceNow® [[csm-walkup-appt-booking|Walk-up Experience appointment booking]] application. See [Walk-up Experience appointment booking configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-walkup-appt-booking-config.md) for more information.
+    **Note:** Translation for custom controls is currently unavailable. You can manually add the translation in the ServiceNow® Walk-up Experience appointment booking application. See [Walk-up Experience appointment booking configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/csm-walkup-appt-booking-config.md) for more information.
 
 4.  Confirm that the **Appointment Booking** custom control is published.
 
@@ -55,7 +55,4 @@ This procedure provides general steps to set up the Conversational Appointment B
 
     See [Test Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/va-designer-testing.md) for more information.
 
-## Related
 
-- [[conv_appt_booking|Conversational Appointment Booking]]
-- [[csm-walkup-appt-booking|Walk-up Experience appointment booking]]

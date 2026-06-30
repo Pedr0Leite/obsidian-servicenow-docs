@@ -14,7 +14,7 @@ breadcrumb: [Configure Entity Based Access, Entity Based Access, Common GRC feat
 
 # Set up Entity Based Access properties
 
-Enable or disable the [[entity-based-access|Entity Based Access]] properties to control access to the objects that are associated with an entity.
+Enable or disable the Entity Based Access properties to control access to the objects that are associated with an entity.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: sn\_grc\_ent\_access.admin
 
 4.  On the **Access settings** tab, select **Entity based access restriction**.
 
-    The **Entity based access restriction** field is available only on the [[issue-form|Issue form]]. For all other records, you must configure a bulk access update to enable an entity-based access restriction.
+    The **Entity based access restriction** field is available only on the Issue form. For all other records, you must configure a bulk access update to enable an entity-based access restriction.
 
     \[Omitted image "eba-issue-form.png"\] Alt text: Access settings for entity-based access restriction on the Issue form.
 
@@ -50,7 +50,3 @@ You have completed configuring entity-based access properties in your system.
 
 **Parent Topic:**[Configuring Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/setting-up-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[issue-form|Issue form]]

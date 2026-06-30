@@ -14,13 +14,13 @@ breadcrumb: [Task Mining, Integration, Activate, Process Mining, Platform Analyt
 
 # Create Task Mining project
 
-Generate a [[task-mining|Task Mining]] project analysis from the [[analyst-workbench-overview|Process Mining Workspace]] by selecting a process flow node.
+Generate a Task Mining project analysis from the Process Mining Workspace by selecting a process flow node.
 
 ## Before you begin
 
 Role required: sn\_tm\_core.analyst, sn\_tm\_core.admin, or sn\_tm\_core.power\_user
 
-Creating a Task Mining project enables you to get task-level insights across workstation apps, including third parties. You can [[create-task-mining-projects|create a Task Mining project]] either from the Analyst workbench or the [[opportunity-details|Opportunity details page]] of [[process-mining|Process Mining]]. The integration preserves traceability between process-level insights and task-level findings, avoiding fragmented analysis and reducing navigation between tools.
+Creating a Task Mining project enables you to get task-level insights across workstation apps, including third parties. You can create a Task Mining project either from the Analyst workbench or the Opportunity details page of Process Mining. The integration preserves traceability between process-level insights and task-level findings, avoiding fragmented analysis and reducing navigation between tools.
 
 **Important:** To create a Task Mining project from Process Mining, you must have the Task Mining \(sn\_tm\_core\) plugin installed and configured. For more information, see [Configuring Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/configuring-task-mining.md).
 
@@ -60,14 +60,14 @@ Creating a Task Mining project enables you to get task-level insights across wor
 
 8.  Select **View project** for the project you created.
 
-    The project opens in the [[task-mining-workspace|Task Mining Workspace]]. For information on [[task-mining-dashboard|Task Mining analyses]], see [Task Mining analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining-dashboard.md). After project creation once the analysis becomes available, we can view the task mining user activity dashboard for the selected list of users by clicking **View project**.
+    The project opens in the Task Mining Workspace. For information on Task Mining analyses, see [Task Mining analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining-dashboard.md). After project creation once the analysis becomes available, we can view the task mining user activity dashboard for the selected list of users by clicking **View project**.
 
     You can also create a draft project, and continue project creation later from the Associated projects section.
 
 
 ## What to do next
 
-[[mine-project-data|Run a mining job]] to generate a project analysis. Using categorization, refine the presentation of the project data and share your analysis. For more information, see [Generating a project data analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mining-a-task-mining-project.md).
+Run a mining job to generate a project analysis. Using categorization, refine the presentation of the project data and share your analysis. For more information, see [Generating a project data analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mining-a-task-mining-project.md).
 
 **Parent Topic:**[Integration with Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-taskmining.md)
 
@@ -76,13 +76,3 @@ Creating a Task Mining project enables you to get task-level insights across wor
 
 [Categorize workstation activities to simplify analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/define-default-categorization-rules.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[create-task-mining-projects|Create a Task Mining project]]
-- [[opportunity-details|Opportunity details page]]
-- [[process-mining|Process Mining]]
-- [[task-mining-workspace|Task Mining Workspace]]
-- [[task-mining-dashboard|Task Mining analyses]]
-- [[mine-project-data|Run a mining job]]

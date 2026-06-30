@@ -111,8 +111,5 @@ It is a one-time meeting only.
 
 You can view the meeting series on your team calendar. You can select the meeting invite on the team calendar and edit the whole meeting series or a particular meeting in the whole series.
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]

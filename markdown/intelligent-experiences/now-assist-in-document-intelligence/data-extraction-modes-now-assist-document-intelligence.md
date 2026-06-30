@@ -15,9 +15,9 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Data extraction modes in Now Assist in Document Intelligence
 
-The extraction mode determines how [[docintel-nowassist-landing|Now Assist in Document Intelligence]] processes a document task.
+The extraction mode determines how Now Assist in Document Intelligence processes a document task.
 
-Now Assist in Document Intelligence uses the following [[data-extraction-modes|data extraction modes]].
+Now Assist in Document Intelligence uses the following data extraction modes.
 
 <table id="table_iqg_n4k_w2c"><thead><tr><th>
 
@@ -33,7 +33,7 @@ Default
 
 </td><td>
 
-[[platform-now-assist-landing|Now Assist]] auto-fills each field in the [[document-intelligence-landing|Document Intelligence]] workspace if it recognizes a value for it in the document.
+Now Assist auto-fills each field in the Document Intelligence workspace if it recognizes a value for it in the document.
 
  Now Assist may not always produce accurate, complete, or appropriate information. All fields should be reviewed for accuracy.
 
@@ -73,9 +73,3 @@ Now Assist automatically completes and submits the document task without an agen
 
 [Languages supported by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[data-extraction-modes|Data extraction modes]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

@@ -37,14 +37,10 @@ Role required: now\_assist\_explorer\_user and ownership of the exploration. Use
         \[Omitted image "nowass-del-option.png"\] Alt text: Deletion option in the additional options menu.
 
 
-**Parent Topic:**[[use-now-assist-explorer|Using AI Data Explorer]]
+**Parent Topic:**[Using AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/use-now-assist-explorer.md)
 
 **Related topics**  
 
 
-[[nowass-expl-dup-del-question-resp|Duplicate, delete, copy to another exploration, or move an answer in an exploration]]
+[Duplicate, delete, copy to another exploration, or move an answer in an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/nowass-expl-dup-del-question-resp.md)
 
-## Related
-
-- [[use-now-assist-explorer|Using AI Data Explorer]]
-- [[nowass-expl-dup-del-question-resp|Duplicate, delete, copy to another exploration, or move an answer in an exploration]]

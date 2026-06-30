@@ -16,9 +16,9 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 Use the **glide.basicauth.required.soap** property to designate if incoming SOAP requests should require basic authorization.
 
-The **glide.basicauth.required.soap** system property controls whether [[basic-authentication|basic authentication]] is required to make a SOAP [[c_requestAPI|request]] to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of **true**, then unauthenticated [[users|users]] performing SOAP operations are mapped to the soap.guest user. This may enable an unauthenticated user to perform operations on the instance as if a logged in user to the instance. There may be additional impact if the user define within **com.glide.soap.guest\_user** is assigned additional roles.
+The **glide.basicauth.required.soap** system property controls whether basic authentication is required to make a SOAP request to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of **true**, then unauthenticated users performing SOAP operations are mapped to the soap.guest user. This may enable an unauthenticated user to perform operations on the instance as if a logged in user to the instance. There may be additional impact if the user define within **com.glide.soap.guest\_user** is assigned additional roles.
 
-Ensure that the property **glide.basicauth.required.soap** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] tableand is set to the value **true**. Alternatively, configure the instance for WS Security by setting the property **glide.soap.require\_ws\_security** to **true** and following the product documentation to configure WS Security Profiles. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
+Ensure that the property **glide.basicauth.required.soap** exists in the System Properties \[sys\_properties\] tableand is set to the value **true**. Alternatively, configure the instance for WS Security by setting the property **glide.soap.require\_ws\_security** to **true** and following the product documentation to configure WS Security Profiles. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -99,7 +99,7 @@ Security risk
 
 -   Severity score: 8.1
 -   CVSS rating: High
--   Security risk details: Unauthenticated access to SOAP [[export|export]] data, when combined with misconfigured guest user role, poses a significant risk of unauthorized data exposure.
+-   Security risk details: Unauthenticated access to SOAP export data, when combined with misconfigured guest user role, poses a significant risk of unauthorized data exposure.
 
 </td></tr><tr><td>
 
@@ -107,7 +107,7 @@ Functional impact
 
 </td><td>
 
-This remediation enforces a combination of [[c_Authentication|authentication]] methods, in the form of basic authentication and system level [[sc-access-control|access control]]. -   It performs this authentication while retrieving data from tables/pages in the form of SOAP data on the instance.
+This remediation enforces a combination of authentication methods, in the form of basic authentication and system level access control. -   It performs this authentication while retrieving data from tables/pages in the form of SOAP data on the instance.
 -   It restricts any guest users who are currently accessing this data.
 -   Create an account for a user who needs access to this content, with the necessary access control permissions.
 
@@ -124,13 +124,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[export|Export]]
-- [[c_Authentication|Authentication]]
-- [[sc-access-control|Access control]]

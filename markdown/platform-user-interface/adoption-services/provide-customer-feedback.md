@@ -14,7 +14,7 @@ breadcrumb: [Using Help Center, Help Center, In-product help, Adoption services,
 
 # Provide feedback to ServiceNow
 
-The [[help-center|Help Center]] menu includes an option you can use to provide your feedback to ServiceNow about your experience with the current product. All feedback is reviewed and may be used to improve the product.
+The Help Center menu includes an option you can use to provide your feedback to ServiceNow about your experience with the current product. All feedback is reviewed and may be used to improve the product.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: none
 
     **Note:** If you do not want the **Provide Feedback** button to appear in the Help Center, you can [disable it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/disable-feedbak.md).
 
-## Related
 
-- [[help-center|Help Center]]

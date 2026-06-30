@@ -14,7 +14,7 @@ breadcrumb: [TISC Data archival and cleanup, Use, Threat Intelligence Security C
 
 # Delete intelligence records
 
-Delete records from [[threat-intel-landing-page|Threat Intelligence]] library.
+Delete records from Threat Intelligence library.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click **Threat Intel Library** icon on the workspace.
 
@@ -39,7 +39,3 @@ Role required: sn\_sec\_tisc.admin
     1.  If a library record with associated source records is deleted, then the source records will be reprocessed, and a new library record will be created by aggregating the field values from the source records.
     2.  To permanently delete the data from the threat intelligence library, use archival rules instead of deleting the library records. For more information, see, [TISC Data archival and cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/data-archival-process.md).
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

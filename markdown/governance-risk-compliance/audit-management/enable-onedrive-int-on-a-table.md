@@ -27,7 +27,7 @@ Ensure that you have installed the following applications:
 -   Document Management \(com.snc.platform\_document\_management\)
 -   Microsoft OneDrive Spoke for Document Service Framework \(sn\_docs\_onedrive\)
 
-    **Note:** Integration Hub entitlements included in the [[audit-management-overview-ws|Audit Workspace]] are solely restricted to the use for Microsoft integration. All other use requires the applicable purchase of an additional Integration Hub entitlement.
+    **Note:** Integration Hub entitlements included in the Audit Workspace are solely restricted to the use for Microsoft integration. All other use requires the applicable purchase of an additional Integration Hub entitlement.
 
 
 ## Procedure
@@ -48,6 +48,4 @@ Ensure that you have installed the following applications:
 
     For more information on the fields, see [Create a Cloud file configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/manage-access-permissions-to-the-cloud-file.md).
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

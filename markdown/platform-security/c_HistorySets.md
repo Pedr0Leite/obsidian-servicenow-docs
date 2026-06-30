@@ -64,7 +64,7 @@ Type
 
 </td><td>
 
-Indicates if the entry is for a normal field, an [[email|email]] record, or a relationship change record.
+Indicates if the entry is for a normal field, an email record, or a relationship change record.
 
 </td></tr><tr><td>
 
@@ -107,6 +107,3 @@ Since the History view includes a calendar view, but doesn’t use the normal li
 
 There are two ways of viewing the history set, accessible through the Context Menu action **History**.
 
-## Related
-
-- [[email|Email]]

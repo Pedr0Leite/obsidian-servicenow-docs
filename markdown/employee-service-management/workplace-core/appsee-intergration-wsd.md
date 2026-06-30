@@ -14,13 +14,13 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # View workplace service usage analytics with Usage Insights
 
-The ServiceNow® Usage Insights provides you with qualitative analytics on how the services provided by the [[workplace-service-delivery-apps|Workplace Service Delivery applications]] are used by the workplace managers, employees, and other workplace users.
+The ServiceNow® Usage Insights provides you with qualitative analytics on how the services provided by the Workplace Service Delivery applications are used by the workplace managers, employees, and other workplace users.
 
 ## User analytics
 
-The Usage Insights application provides you with data as to how an employee uses the various services and other actions that you provide them in the [[workplace-services-portal-hr|Workplace Service Portal]]. You can understand how an employee experiences and uses those services, such as their behavior and their journey around the portal. You can get an insight about the performance of the application by viewing a real-time analysis through data visualization.
+The Usage Insights application provides you with data as to how an employee uses the various services and other actions that you provide them in the Workplace Service Portal. You can understand how an employee experiences and uses those services, such as their behavior and their journey around the portal. You can get an insight about the performance of the application by viewing a real-time analysis through data visualization.
 
-You can log the events and get the analysis by enabling the analytics-related setting either on the Workplace Service Portal level, on the workplace service level, and anywhere throughout [[workplace-safety-mgmt-hr|Workplace Core]].
+You can log the events and get the analysis by enabling the analytics-related setting either on the Workplace Service Portal level, on the workplace service level, and anywhere throughout Workplace Core.
 
 For more information about Usage Insights, refer to [Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/user-exp-analytics-landing.md).
 
@@ -30,7 +30,7 @@ ServiceNow®, by default, provides a set of properties with Usage Insights that 
 
 ## Settings
 
-The Usage Insights application enables you to specify the analytics settings on the portal level. Navigate to **All** &gt; **Service Portal** &gt; **Portals** &gt; **[[workplace-services|Workplace Services]]** and select **Create Analytics Settings** to enable user analytics.
+The Usage Insights application enables you to specify the analytics settings on the portal level. Navigate to **All** &gt; **Service Portal** &gt; **Portals** &gt; **Workplace Services** and select **Create Analytics Settings** to enable user analytics.
 
 **Parent Topic:**[Manage workplace safety activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/manage-wsd-activites.md)
 
@@ -75,9 +75,3 @@ The Usage Insights application enables you to specify the analytics settings on 
 
 [Location migration]()
 
-## Related
-
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]

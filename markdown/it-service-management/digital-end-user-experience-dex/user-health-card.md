@@ -62,7 +62,7 @@ Operating system
 
 </td><td>
 
-OS that manages and controls the device hardware and enables the execution of [[dex-workspace-application-tab|applications]], such as Windows or macOS.
+OS that manages and controls the device hardware and enables the execution of applications, such as Windows or macOS.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Location
 
 </td><td>
 
-Physical place where the device is located, indicating its position or network address.**Note:** To identify and determine the number of impacted [[dex-workspace-devices-tab|devices]] based on the location, define a custom logic. The available options to determine the location of the device are:
+Physical place where the device is located, indicating its position or network address.**Note:** To identify and determine the number of impacted devices based on the location, define a custom logic. The available options to determine the location of the device are:
 
 -   Consider the device assigned to location or logged-in user location \(`sn_dex.location_determination`\).
 -   Consider the default gateway \(router\) IP of the device to determine whether it’s connected from office location or connected remotely \(`sn_dex.remote_location_config`\).
@@ -121,7 +121,7 @@ Computer Asset Tag
 
 </td><td>
 
-Unique identifier for tracking and [[c_AssetManagement|asset management]]
+Unique identifier for tracking and asset management
 
 </td></tr><tr><td>
 
@@ -396,7 +396,7 @@ Power plan
 
 </td><td>
 
-[[settings-mobile|Settings]] that control how the device uses power.Monitor and manage power plans to optimize energy use and reduce costs. Confirm that the devices are set to an appropriate power plan. The available options are:
+Settings that control how the device uses power.Monitor and manage power plans to optimize energy use and reduce costs. Confirm that the devices are set to an appropriate power plan. The available options are:
 
 -   Balanced: Adjusts CPU speed and system components dynamically based on workload, balancing performance, and energy consumption.
 -   Power Saver: Reduces performance and energy consumption by lowering CPU speed and dimming the display. Useful for extending battery life on laptops.
@@ -434,7 +434,7 @@ Name
 
 </td><td>
 
-A quick [[reference-for-itsm-mobile-agent|reference]] to the BIOS name and version for easier identification.
+A quick reference to the BIOS name and version for easier identification.
 
 </td></tr><tr><td>
 
@@ -466,7 +466,7 @@ Boot time
 
 </td></tr><tr><td colspan="2">
 
-View detailed boot [[perf-metrics-mob|performance metrics]] and identify issues that might cause slow startup times on the device.
+View detailed boot performance metrics and identify issues that might cause slow startup times on the device.
 
 This tab appears on Windows machines only.
 
@@ -1206,11 +1206,3 @@ Registry path value that is reported for the monitored Windows registry path for
 </td></tr></tbody>
 </table>**Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[c_AssetManagement|Asset Management]]
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[perf-metrics-mob|Performance metrics]]

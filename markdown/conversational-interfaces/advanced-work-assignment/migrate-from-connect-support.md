@@ -14,7 +14,7 @@ breadcrumb: [Get started, Configure, Advanced Work Assignment, Manage people and
 
 # Move from Connect Support to Advanced Work Assignment and Agent Chat
 
-Move from ServiceNow® Connect Support to [[ci-use-agent-chat|Agent Chat]] \(live chat\), which is the messaging system that agents use in Agent Workspace to interact with customers. Moving from Connect Support also involves [[using-awa|using Advanced Work Assignment]] \(AWA\) to create the chat queues for routing chat [[awa-work-items|work items]] to agents.
+Move from ServiceNow® Connect Support to Agent Chat \(live chat\), which is the messaging system that agents use in Agent Workspace to interact with customers. Moving from Connect Support also involves using Advanced Work Assignment \(AWA\) to create the chat queues for routing chat work items to agents.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 **Important:**
 
-As of Utah, Connect Support is deprecated. For similar capabilities, please move to [[awa-application-landing-page|Advanced Work Assignment]] and Agent Chat.
+As of Utah, Connect Support is deprecated. For similar capabilities, please move to Advanced Work Assignment and Agent Chat.
 
 ## About this task
 
@@ -51,14 +51,14 @@ If you are currently using Connect Support APIs, see AWA Routing API for informa
 
 5.  In [Agent Chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ac-configure-agent-chat.md), access the Chat Setup form to specify Agent Workspace as the fulfiller interface for live chat and enable other live chat features.
 
-6.  Activate the [[ac-configure-bot-portal|chat client on your end user Service Portal]].
+6.  Activate the [chat client on your end user Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-bot-portal.md).
 
 
 Troubleshooting suggestions include these common problems and solutions:
 
 Problem: While using AWA, the chat remains in routing and is not offered to an available agent.
 
-Solution: This problem may happen if AWA attempts to route the chat to a Connect Support queue. In this case, the interaction remains assigned to the [[virtual-agent-landing-page|Virtual Agent]] user and no awa\_work\_item record is created. A common cause of this problem is the Chat Setup entry for the chat’s application still being set to **Connect**.
+Solution: This problem may happen if AWA attempts to route the chat to a Connect Support queue. In this case, the interaction remains assigned to the Virtual Agent user and no awa\_work\_item record is created. A common cause of this problem is the Chat Setup entry for the chat’s application still being set to **Connect**.
 
 Problem: When trying to route to a live agent, the requester is incorrectly told that no live agents are available.
 
@@ -75,11 +75,3 @@ Here are a few questions to ask and places to look if agents are not receiving c
 -   In the Chat setup, are the fulfillers set appropriately for each application?
 -   In the interaction\_json\_blob referenced by the **interaction.context\_document** field, is the *Liveagent\_application* variable set to the expected value?
 
-## Related
-
-- [[ac-configure-bot-portal|Add your bot to a portal]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[using-awa|Using Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[virtual-agent-landing-page|Virtual Agent]]

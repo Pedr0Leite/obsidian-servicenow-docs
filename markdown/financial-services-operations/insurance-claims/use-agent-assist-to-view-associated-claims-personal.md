@@ -22,11 +22,11 @@ Role required: sn\_ins\_claim\_pers.fnol\_representative, sn\_ins\_claim\_pers.a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
-3.  Open the task from the case playbook or the Personal auto claim [[adjuster-tasks-workspace-pers|adjuster tasks]] list.
+3.  Open the task from the case playbook or the Personal auto claim adjuster tasks list.
 
 <table id="choicetable_lgv_1db_hmb"><thead><tr><th align="left" id="d74448e85">
 
@@ -61,7 +61,4 @@ Steps
 
     For more detailed information about Agent assist, refer to [Agent assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/agent-assist-configurable-workspace.md).
 
-## Related
 
-- [[fso-overview|Financial Services]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]

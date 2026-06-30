@@ -22,7 +22,7 @@ Role required: sn\_esg.metric\_manager
 
 Creating unit families also supports conversion of units. Sometimes, the unit in which metric data is entered may be different from the reporting unit of the metric definition. In such cases, the units must be converted. For example, the metric data may be entered in US gallons and the reporting unit in the metric definition is Liters. If US gallon and liters belong to the same unit family such as Volume, you can convert the units.
 
-Various formulas are used to convert different units. If the reporting unit of a metric definition belongs to a unit family that has the conversion factor as **Calculated**, then the metric data tasks for that metric must be provided in the same unit as the metric definition. For example, if the reporting unit for temperature in a metric definition is Celsius, and if the conversion factor of temperature is set to **Calculated**, then all the metric data tasks for that metric definition can only be provided in Celsius. In such cases, users can specify the formula that must be used for the conversion. For more information see, [[configure-formula-builder|Configure the formula builder]].
+Various formulas are used to convert different units. If the reporting unit of a metric definition belongs to a unit family that has the conversion factor as **Calculated**, then the metric data tasks for that metric must be provided in the same unit as the metric definition. For example, if the reporting unit for temperature in a metric definition is Celsius, and if the conversion factor of temperature is set to **Calculated**, then all the metric data tasks for that metric definition can only be provided in Celsius. In such cases, users can specify the formula that must be used for the conversion. For more information see, [Configure the formula builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-formula-builder.md).
 
 ## Procedure
 
@@ -62,9 +62,5 @@ Conversion factor that must be applied when converting units from the family. Th
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[configure-formula-builder|Configure the formula builder]]
-- [[configuring-grc-metrics|configuring grc metrics]]

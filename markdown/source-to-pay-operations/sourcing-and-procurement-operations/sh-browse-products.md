@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Browse punchout and native catalog items from the Categories and Suppliers lists in Shopping Hub \(SH\)
 
-In [[shopping-hub-overview|Shopping Hub]], you can view both the punchout \(third-party\) and the native catalog items from the Categories or the Suppliers list on the Shopping Hub home page.
+In Shopping Hub, you can view both the punchout \(third-party\) and the native catalog items from the Categories or the Suppliers list on the Shopping Hub home page.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ For more information about the checkout experiences for shoppers based on whethe
 
 4.  Navigate to **All** &gt; **ShoppingHub** &gt; **ShoppingHub Home**.
 
-5.  From the Suppliers list, select the letter corresponding to the first letter of the [[supplier|supplier]]'s name.
+5.  From the Suppliers list, select the letter corresponding to the first letter of the supplier's name.
 
     \[Omitted image "sh-suppliers-list.png"\] Alt text: Suppliers list on the ShoppingHub home page.
 
@@ -63,7 +63,3 @@ For more information about the checkout experiences for shoppers based on whethe
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

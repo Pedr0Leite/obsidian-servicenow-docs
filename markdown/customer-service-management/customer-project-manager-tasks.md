@@ -113,7 +113,7 @@ Assign project tasks to internal users, customer contacts, or customer partner c
 
 </td><td>
 
-See [[csm-ppm-assign-project-task|Assign a project task]] .
+See [Assign a project task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ppm-assign-project-task.md) .
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ See the cases that have been created for a project or project task
 
 </td><td>
 
-[[osp-view-cases|View cases]] in the **Cases** related list on the Customer Project form and Customer Project Task form. Click a case to view the case details. **Note:** The customer project manager has read-only access to the [[r_CustomerServiceCaseForm|Case form]].
+View cases in the **Cases** related list on the Customer Project form and Customer Project Task form. Click a case to view the case details. **Note:** The customer project manager has read-only access to the Case form.
 
 </td></tr><tr><td>
 
@@ -142,8 +142,8 @@ Create project change requests and project issues for cases that have been creat
 
 </td><td>
 
-See the following tasks:-   [[csm-ppm-create-project-issue|Create a project issue for a case]]
--   [[csm-ppm-create-project-change|Create a project change request for a case]]
+See the following tasks:-   [Create a project issue for a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ppm-create-project-issue.md)
+-   [Create a project change request for a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ppm-create-project-change.md)
 
 </td></tr><tr><td>
 
@@ -160,11 +160,3 @@ Save a customer project as a template
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-ppm-assign-project-task|Assign a project task]]
-- [[csm-ppm-create-project-issue|Create a project issue for a case]]
-- [[csm-ppm-create-project-change|Create a project change request for a case]]
-- [[osp-view-cases|View cases]]
-- [[r_CustomerServiceCaseForm|Case form]]

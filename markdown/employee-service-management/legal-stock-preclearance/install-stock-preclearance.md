@@ -14,13 +14,13 @@ breadcrumb: [Configure, Legal Stock Preclearance, Legal Service Delivery Practic
 
 # Install Legal Stock Preclearance
 
-You can install the [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]] application \(sn\_lg\_stock\_cp\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Legal Stock Preclearance application \(sn\_lg\_stock\_cp\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
 **Note:**
 
-The Legal Stock Preclearance application is installed automatically when you install the [[legal-simple-compliance-applications|Legal Simple Compliance]] suite.
+The Legal Stock Preclearance application is installed automatically when you install the Legal Simple Compliance suite.
 
 -   Verify that the application and all of its associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Legal Stock Preclearance](https://store.servicenow.com/sn_appstore_store.do#!/store/application/523a117673da2300844489b954f6a7d6) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
@@ -62,14 +62,9 @@ For more information, see [Components installed with Legal Stock Preclearance](h
 
 ## What to do next
 
-Use the [[legal-management-overview|Legal Service Delivery]] Guided Setup to configure the application on your instance.
+Use the Legal Service Delivery Guided Setup to configure the application on your instance.
 
 To access Legal Service Delivery Guided Setup, navigate to **Legal Administration** &gt; **Legal Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 **Parent Topic:**[Configure Legal Stock Preclearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/legal-stock-pre-administration.md)
 
-## Related
-
-- [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]
-- [[legal-simple-compliance-applications|Legal Simple Compliance]]
-- [[legal-management-overview|Legal Service Delivery]]

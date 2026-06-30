@@ -14,31 +14,24 @@ breadcrumb: [Code Signing, Platform Security]
 
 Learn how to sign records, messages, and attachments to help verify the authenticity and integrity of your data.
 
--   **[[cs-jdbc|Sign the JDBC data source records in the protected instance]]**
+-   **[Sign the JDBC data source records in the protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-jdbc.md)**
 
-    Use update sets to sign and validate the JDBC data sources by enabling the [[code-signing-landing|code signing]] in protected and trusted instances.
+    Use update sets to sign and validate the JDBC data sources by enabling the code signing in protected and trusted instances.
 
--   **[[cs-rest-soap|Sign the REST and SOAP messages in the production instance]]**
+-   **[Sign the REST and SOAP messages in the production instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-rest-soap.md)**
 
     Use update sets to sign and validate the REST and SOAP messages by enabling the code signing in protected and trusted instances.
 
--   **[[cs-fdih|Sign the flows, subflows, and actions in the protected instance]]**
+-   **[Sign the flows, subflows, and actions in the protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-fdih.md)**
 
     Use update sets to sign and validate the flows, subflows, and actions by enabling the Code Signing in protected and trusted instances.
 
--   **[[sign-specific-records|Sign specific records or attachments]]**
+-   **[Sign specific records or attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sign-specific-records.md)**
 
     Create a security job to sign specific records or attachments rather than all records or attachments on a table.
 
--   **[[sa-code-signing-tool|Standalone signing tool]]**
+-   **[Standalone signing tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sa-code-signing-tool.md)**
 
     Use the standalone Signing Tool to sign supported records in ServiceNow applications using your own private key.
 
-## Related
 
-- [[cs-jdbc|Sign the JDBC data source records in the protected instance]]
-- [[cs-rest-soap|Sign the REST and SOAP messages in the production instance]]
-- [[cs-fdih|Sign the flows, subflows, and actions in the protected instance]]
-- [[sign-specific-records|Sign specific records or attachments]]
-- [[sa-code-signing-tool|Standalone signing tool]]
-- [[code-signing-landing|Code Signing]]

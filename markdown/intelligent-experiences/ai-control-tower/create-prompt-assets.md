@@ -15,7 +15,7 @@ breadcrumb: [Creating AI assets, Use, AI Control Tower, Enable AI experiences]
 
 # Create prompt assets
 
-Create [[ai-assets|AI assets]] to track and manage the life cycles of your [[ai-prompts|prompts]].
+Create AI assets to track and manage the life cycles of your prompts.
 
 ## Before you begin
 
@@ -23,15 +23,15 @@ Role required: sn\_ai\_governance\_ai\_steward or sn\_ai\_asset\_mgmt.ai\_asset\
 
 ## About this task
 
-A prompt is the instructive input that you provide to [[ai-models|AI models]] to elicit specific responses or outputs. The more detailed and descriptive a prompt is, the higher the quality of the response or output. Examples of prompts include instructions, questions, and commands.
+A prompt is the instructive input that you provide to AI models to elicit specific responses or outputs. The more detailed and descriptive a prompt is, the higher the quality of the response or output. Examples of prompts include instructions, questions, and commands.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
 2.  From the AI Control Tower, open the AI assets view.
 
-3.  From the [[now-assist-global-navigation|navigation]] menu of the AI assets view, navigate to either **[[ai-inventory|AI asset inventory]] - Managed** &gt; **Prompts** or **AI asset inventory - Unmanaged** &gt; **Prompts**.
+3.  From the navigation menu of the AI assets view, navigate to either **AI asset inventory - Managed** &gt; **Prompts** or **AI asset inventory - Unmanaged** &gt; **Prompts**.
 
 4.  Select **Add prompt**.
 
@@ -125,11 +125,3 @@ Users who are assigned the AI steward \(sn\_ai\_governance.ai\_steward\) role ca
 
 **Parent Topic:**[Creating AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-prompts|Prompts]]
-- [[ai-models|AI models]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-inventory|AI asset inventory]]

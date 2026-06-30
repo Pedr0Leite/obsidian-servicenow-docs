@@ -16,7 +16,7 @@ breadcrumb: [Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Manage
 
 Observe and interact with discovered resources by using the **My Resources** option under **More** tab on the Employee Center toolbar.
 
-You can designate the operators or owners for the identified resources so that they can handle these resources with standard Day 2 operations. By performing these actions through the ServiceNow AI Platform of the [[csc-home|Cloud Services Catalog]] application, you can leverage the workflows for proper change management, audit trails, and overall governance.
+You can designate the operators or owners for the identified resources so that they can handle these resources with standard Day 2 operations. By performing these actions through the ServiceNow AI Platform of the Cloud Services Catalog application, you can leverage the workflows for proper change management, audit trails, and overall governance.
 
 The following example shows the **My Resources** tab.
 
@@ -33,6 +33,3 @@ Access the resources that you own, resources that are owned by a group, or anyon
 
 **Parent Topic:**[Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-home.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

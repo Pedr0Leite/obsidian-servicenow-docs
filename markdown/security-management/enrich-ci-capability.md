@@ -14,7 +14,7 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 The Enrich CI capability allows you to enrich data for configuration items associated with a security incident.
 
-The **Enrich CI** capability has a flow, [[secops-integ-enrich-ci-wf|Security Operations Integration - CI Enrichment flow]]. When the capability flow runs, it executes additional flows for the activated implementations. You can specify an implementation to use to perform enrichment on the selected CIs, or you can perform the enrichment using all implementations.
+The **Enrich CI** capability has a flow, [Security Operations Integration - CI Enrichment flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-enrich-ci-wf.md). When the capability flow runs, it executes additional flows for the activated implementations. You can specify an implementation to use to perform enrichment on the selected CIs, or you can perform the enrichment using all implementations.
 
 **Note:** This enriched data is not the type of data you would want to store in your CMDB as it is forensic data that is specific to a given investigation--for example, performing a memdump from a CI. Instead, the data is stored in the Configuration Item Enrichment \[sn\_sec\_cmn\_ci\_enrichment\_result\] table.
 
@@ -23,7 +23,7 @@ The **Enrich CI** capability has a flow, [[secops-integ-enrich-ci-wf|Security Op
 -   **[Security Operations Integration - CI Enrichment flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-enrich-ci-wf.md)**  
 The Security Operations Integration - CI Enrichment flow allows you to enrich data in configuration items \(CI\) associated with a security incident.
 
-**Parent Topic:**[[integration-capabilities|Integration capabilities]]
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
@@ -42,15 +42,9 @@ The Security Operations Integration - CI Enrichment flow allows you to enrich da
 
 [Security Operations Integration- Publish to Watchlist capability]()
 
-[Security Operations Integration- [[indicator-sightings|Sightings]] Search capability]()
+[Security Operations Integration- Sightings Search capability]()
 
-[Security Operations Integration - [[tisc-threat-lookup|Threat Lookup]] capability]()
+[Security Operations Integration - Threat Lookup capability]()
 
 [Change the order of flow execution]()
 
-## Related
-
-- [[secops-integ-enrich-ci-wf|Security Operations Integration - CI Enrichment flow]]
-- [[integration-capabilities|Integration capabilities]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-threat-lookup|Threat Lookup]]

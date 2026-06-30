@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create a cable model
 
-Create a cable model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to define the physical characteristics data of the cable according to the product recommendations of the manufacturer.
+Create a cable model in the Telecommunications Network Inventory application to define the physical characteristics data of the cable according to the product recommendations of the manufacturer.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a cable model, it creates the model record in the Cable Model \[
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Cable Models**.
 
@@ -54,7 +54,3 @@ To delete a model, select the options icon \(\[Omitted image "options-icon.png"\
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

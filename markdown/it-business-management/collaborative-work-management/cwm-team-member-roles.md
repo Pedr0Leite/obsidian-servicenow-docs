@@ -15,7 +15,7 @@ breadcrumb: [Use, Collaborative Work Management, Strategic Portfolio Management]
 
 # Managing SPM work in Collaborative Work Management
 
-Team members can view and update [[t_CreateAProjectTask|project tasks]] and [[demand-task|demand tasks]] directly in [[cwm-landing|Collaborative Work Management]] \(CWM\) using team member roles, without requiring access to [[project-workspace-landing-page|Project Workspace]] or Next Experience for [[c_DemandManagement|Demand Management]].
+Team members can view and update project tasks and demand tasks directly in Collaborative Work Management \(CWM\) using team member roles, without requiring access to Project Workspace or Next Experience for Demand Management.
 
 Collaborative Work Management application provides roles that give team members access to project tasks and demand tasks within CWM. Using these roles, team members can manage their assigned work through CWM features such as My Work and Connected Work ad submit time card against the project tasks and demand tasks.
 
@@ -51,7 +51,7 @@ By default, team member roles provide broad access to the tasks assigned to them
 
 ## Accessing My Calendar
 
-Users assigned these team member roles can access [[c_MyCalendar|My Calendar]] and perform the following actions:
+Users assigned these team member roles can access My Calendar and perform the following actions:
 
 -   View My calendar
 -   Edit My calendar
@@ -80,11 +80,3 @@ Access permissions for the team member read and team member read-write roles in 
 
 [Team member role access permissions in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-team-member-role-permissions.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[demand-task|Demand tasks]]
-- [[cwm-landing|Collaborative Work Management]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_DemandManagement|Demand Management]]
-- [[c_MyCalendar|My Calendar]]

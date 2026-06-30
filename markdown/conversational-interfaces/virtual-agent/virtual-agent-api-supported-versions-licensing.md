@@ -14,7 +14,7 @@ breadcrumb: [Explore, Virtual Agent API, Build and deploy, Virtual Agent, Conver
 
 # Supported versions and licensing requirements in Virtual Agent API
 
-Get a quick overview of the important information that is related to the [[virtual-agent-api-landing-page|Virtual Agent API]].
+Get a quick overview of the important information that is related to the Virtual Agent API.
 
 ## Version and release compatibility
 
@@ -24,11 +24,7 @@ Get a quick overview of the important information that is related to the [[virtu
 |3.14.2|Xanadu|
 |3.14.1|Xanadu|
 
-**Note:** The Virtual Agent API requires a Pro/Enterprise license similar to that of [[virtual-agent-landing-page|Virtual Agent]].
+**Note:** The Virtual Agent API requires a Pro/Enterprise license similar to that of Virtual Agent.
 
 **Parent Topic:**[Exploring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/explore-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]

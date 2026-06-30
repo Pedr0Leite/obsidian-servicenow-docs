@@ -20,7 +20,7 @@ When working on a knowledge article task, you can edit the knowledge article fro
 
 Role required: You must have contribute access to the knowledge base that stores the knowledge article.
 
-**Note:** If the [[article-versioning|article versioning]] feature is enabled, only the knowledge administrator, knowledge managers, and author can edit the checked-out version of an article. If the feature is disabled, any users with contribute access to an article can edit the draft version of the article. An administrator can [[article-versioning-disable-property|disable the article versioning feature]] by setting the **glide.knowman.versioning.enabled** property \(from the **System Property** \[sys\_properties\] table\) to **false**.
+**Note:** If the article versioning feature is enabled, only the knowledge administrator, knowledge managers, and author can edit the checked-out version of an article. If the feature is disabled, any users with contribute access to an article can edit the draft version of the article. An administrator can disable the article versioning feature by setting the **glide.knowman.versioning.enabled** property \(from the **System Property** \[sys\_properties\] table\) to **false**.
 
 Role required: agent\_workspace\_user
 
@@ -60,7 +60,7 @@ Knowledge article content and its metadata.**Note:** If the article versioning f
 
 -   If the **Article Validity** field in the knowledge base associated with the article is empty, the **Valid to** date value from the earlier version of the article is retained.
 -   If the **Article Validity** field in the knowledge base associated with the article isn’t empty, the **Valid to** date is automatically updated to start from the date the article was updated until the number of days specified in the **Article Validity** field \(Article updated date + article validity\).
-If you [[t_MoveAnArticle|move a knowledge article]] to another knowledge base, the default value of the **Valid to** date in the updated article is automatically set based on the following criteria:
+If you move a knowledge article to another knowledge base, the default value of the **Valid to** date in the updated article is automatically set based on the following criteria:
 
 -   If the **Article Validity** field in the selected knowledge base is empty, the earlier **Valid to** date value is retained for the knowledge article.
 -   If the **Article Validity** field in the selected knowledge base isn't empty, the **Valid to** date is automatically updated to start from the date the article was updated until the number of days specified in the **Article Validity** field \(Article updated date + article validity\).
@@ -104,7 +104,7 @@ Translated Versions
 
 </td><td>
 
-Translated versions of the knowledge article. This related list appears only when the [[translation-management|translation management]] feature is enabled. To translate a knowledge article, select **New**. The **New** button on this related list appears when the **glide.knowman.translation.enable\_translation\_task** property is inactive.
+Translated versions of the knowledge article. This related list appears only when the translation management feature is enabled. To translate a knowledge article, select **New**. The **New** button on this related list appears when the **glide.knowman.translation.enable\_translation\_task** property is inactive.
 
 </td></tr><tr><td>
 
@@ -163,7 +163,7 @@ Products mapped to the knowledge article. For more information, see [Add an affe
 
         -   To find knowledge articles that have high text similarity with the entered search text, choose **Similar Articles \(ML\)**.
 
-            **Note:** This option is available only when the Predictive Intelligence feature is enabled and your administrator has trained the similarity solution for [[knowledge-management|Knowledge Management]]. For more information, see [Train the similarity solution for Knowledge Management to find related articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/train-similarity-solution-km.md).
+            **Note:** This option is available only when the Predictive Intelligence feature is enabled and your administrator has trained the similarity solution for Knowledge Management. For more information, see [Train the similarity solution for Knowledge Management to find related articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/train-similarity-solution-km.md).
 
         -   To find knowledge articles that match the entered search text, choose **Knowledge Articles**.
 9.  Click **Save**.
@@ -197,10 +197,3 @@ Products mapped to the knowledge article. For more information, see [Add an affe
 
 [bundle-platux.agent-assist]
 
-## Related
-
-- [[article-versioning|Article versioning]]
-- [[article-versioning-disable-property|Disable the article versioning feature]]
-- [[t_MoveAnArticle|Move a knowledge article]]
-- [[translation-management|Translation management]]
-- [[knowledge-management|Knowledge Management]]

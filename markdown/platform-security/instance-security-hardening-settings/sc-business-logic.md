@@ -23,15 +23,11 @@ Configure the **sn\_kb\_social\_qa.max\_comments\_per\_user\_daily** property to
 -   **[Limit max subscriptions per user per day](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-limit-max-subscriptions-per-user-per-day.md)**  
 Configure the **sn\_kb\_social\_qa.max\_subscriptions\_per\_user\_daily** property to limit the max number subscriptions a user can subscribe to in a day.
 -   **[Minimize SMTP Recipient Quantity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-max-smtp-recipients.md)**  
-The **glide.[[email|email]].smtp.max\_recipients** specifies the maximum number of recipients the instance can list in the **To:** line for a single email notification.
+The **glide.email.smtp.max\_recipients** specifies the maximum number of recipients the instance can list in the **To:** line for a single email notification.
 -   **[Timeout Guest Sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-timeout-guest-sessions.md)**  
-Use a system property to control the inactive session timeout for unauthenticated [[users|users]].
+Use a system property to control the inactive session timeout for unauthenticated users.
 -   **[Validate remote host](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-validate-remote-host.md)**  
 Set the property to true to prevent bad actors from using internal port scanning in your network.
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[email|Email]]
-- [[users|Users]]

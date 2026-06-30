@@ -22,7 +22,7 @@ Role required: sn\_communities.forum\_admin
 
 ## About this task
 
-There are two ways of creating a sub forum in [[servicenow-communities|Communities]].
+There are two ways of creating a sub forum in Communities.
 
 ## Procedure
 
@@ -41,6 +41,3 @@ The forum hierarchy of forums and sub forums is displayed on the community home 
 
 **Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

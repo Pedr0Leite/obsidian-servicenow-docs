@@ -44,7 +44,7 @@ Description of the data input.
 
 </td></tr><tr><td>
 
-[[mid-web-server|MID Web Server]]
+MID Web Server
 
 </td><td>
 
@@ -119,6 +119,3 @@ The time when the last log streamed in the data input.
 </td></tr></tbody>
 </table>**Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-config-fields.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

@@ -14,13 +14,13 @@ breadcrumb: [Manage email Notifications, Administer, Threat Intelligence Securit
 
 # Email Notifications
 
-Use email notifications to send selected users email notifications about specific tasks within the application, such as updates to observables/indicators/various [[tisc-other-objects|other objects]].
+Use email notifications to send selected users email notifications about specific tasks within the application, such as updates to observables/indicators/various other objects.
 
 Role required: admin
 
 **Note:** As a System Administrator you can view, create or edit the email notification rule details in the classic view of the application.
 
-[[tisc-landing-page|Threat Intelligence Security Center]] provides rules driven email notifications which are sent to individual email addresses or a list of email addresses. Usually, Dissemination of Threat Intel information to internal users are sent typically in the form of an email. The process involves in delivering the [[threat-intel-landing-page|threat intelligence]] data to users according to their specified format and time lines.
+Threat Intelligence Security Center provides rules driven email notifications which are sent to individual email addresses or a list of email addresses. Usually, Dissemination of Threat Intel information to internal users are sent typically in the form of an email. The process involves in delivering the threat intelligence data to users according to their specified format and time lines.
 
 Email notifications allow administrators to specify:
 
@@ -56,8 +56,3 @@ The following table details the email notification rules that are provisioned in
 
 [Email logs]()
 
-## Related
-
-- [[tisc-other-objects|Other Objects]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

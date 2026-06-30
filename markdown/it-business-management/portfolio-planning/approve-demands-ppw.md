@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Next Experience for Demand Management in Portfolio 
 
 # Approve demands
 
-Review and approve demands in Next Experience for [[c_DemandManagement|Demand Management]] to move them forward in the demand life cycle.
+Review and approve demands in Next Experience for Demand Management to move them forward in the demand life cycle.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: demand\_approver, it\_demand\_manager
 
     **Note:** The **Approve** option is available only when a demand is in the Qualified state.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]

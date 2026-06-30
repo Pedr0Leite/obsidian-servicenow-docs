@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Service Delivery for Mobile, Workplace Service Deliv
 
 # Search for a campus, building and a space using AI Search
 
-The AI search capability in [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] provides AI contextual search for campuses, buildings, floors, and spaces.
+The AI search capability in Workplace Service Delivery for Mobile provides AI contextual search for campuses, buildings, floors, and spaces.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Ensure that you have installed and configured AI search for Workplace Service De
 
 7.  Click **Get Directions** for getting directions in a workplace.
 
-    **Note:** The **Get Directions** option appears only if the workplace has a floor map and you have configured a map provider \(**[[Indoor-mapping|Indoor Mapping]]** or **Mappedin**\) in the Map Properties.
+    **Note:** The **Get Directions** option appears only if the workplace has a floor map and you have configured a map provider \(**Indoor Mapping** or **Mappedin**\) in the Map Properties.
 
 
 ## Result
@@ -61,7 +61,3 @@ AI search provides better search results based on the following.
 
 **Next topic:**[Make a reservation using the Now Mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/make-a-reservation-on-mobile.md)
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[Indoor-mapping|Indoor Mapping]]

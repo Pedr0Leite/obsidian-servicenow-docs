@@ -40,7 +40,7 @@ Role required: admin
 
 7.  In the **Widget** field, add a widget.
 
-    **Note:** The Uni Task Parent is the default widget that you can use to add the **[[universal-task-landing|Universal Task]]** tab in the Standard Ticket.
+    **Note:** The Uni Task Parent is the default widget that you can use to add the **Universal Task** tab in the Standard Ticket.
 
 8.  Click **Submit**.
 
@@ -51,6 +51,3 @@ Role required: admin
 
 **Next topic:**[Define the agent criteria for Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-config-extn-point-agent.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

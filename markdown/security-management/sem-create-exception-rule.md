@@ -16,7 +16,7 @@ Create a rule to automatically request an exception for a specific condition for
 
 ## Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ## About this task
 
@@ -24,13 +24,13 @@ The rule is applied from the "Valid from" until the "Valid to" date. The remedia
 
 **Note:**
 
-[[tisc-email-notifications|Email notifications]] are sent at every stage of the exception rule work flow. These emails provide the status and other details of a request. For example, when an exception rule is requested, the requester receives an email that confirms that the request is submitted.
+Email notifications are sent at every stage of the exception rule work flow. These emails provide the status and other details of a request. For example, when an exception rule is requested, the requester receives an email that confirms that the request is submitted.
 
 **Note:** If the rule is rejected, you can reopen it in the Draft state, update it, and then resubmit it for approval.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -62,11 +62,5 @@ The rule is applied from the "Valid from" until the "Valid to" date. The remedia
     The status of the request changes to In review. Until you submit the exception rule, it remains in the Draft state.
 
 
-**Parent Topic:**[[sem-configure-exception-rule|Configuring an exception rule]]
+**Parent Topic:**[Configuring an exception rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exception-rule.md)
 
-## Related
-
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-configure-exception-rule|Configuring an exception rule]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

@@ -40,7 +40,7 @@ As an administrator for **Teams**, you can:
 
 As a manager, you can:
 
--   [[analyze-team-KPI-trends-configurable-workspace|Analyze the performance trends for your teams]].
+-   Analyze the performance trends for your teams.
 -   Drill down into the performance of teams, agents, or incidents.
 
 ## Getting started with Teams n Workforce Optimization for ITSM
@@ -49,12 +49,8 @@ Select a task that you would like to perform to navigate to the topic for detail
 
 |Benefit|Users|Finding tasks to complete in Teams|
 |-------|-----|----------------------------------|
-|Activate Teams in the [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].|admin|[Activate Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md)|
+|Activate Teams in the Workforce Optimization for ITSM.|admin|[Activate Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/activate-configurable-workforce-optimization-itsm.md)|
 |Refer to the roles, tables, and other components used in Teams.|[Any Teams role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-teams-reference.md)|[Teams components in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-teams-reference.md)|
 |Organize teams into assignment groups for managers so that they can analyze team performance.|admin|[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md)|
 |Analyze your teams' performance|Team performance admin|[Analyzing team performance using Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/teams-workforce-optimization-configurable-wfo-itsm.md)|
 
-## Related
-
-- [[analyze-team-KPI-trends-configurable-workspace|Analyze the performance trends for your teams]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

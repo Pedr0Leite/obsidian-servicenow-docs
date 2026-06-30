@@ -26,7 +26,7 @@ Role required: pps\_admin
 
 2.  Select **New**.
 
-3.  On the [[widget-form|Widget form]], fill in the fields.
+3.  On the Widget form, fill in the fields.
 
     For a description of the field names, see [Widget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/widget-form.md).
 
@@ -44,6 +44,3 @@ After you configure a widget, associate it with the Demand table to show the fin
 
 **Next topic:**[Associate a widget to the Demand table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/associate-widget-to-demand.md)
 
-## Related
-
-- [[widget-form|Widget form]]

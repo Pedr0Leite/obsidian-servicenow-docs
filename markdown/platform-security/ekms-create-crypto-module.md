@@ -12,7 +12,7 @@ breadcrumb: [Configuring External Key Management Service, External Key Managemen
 
 # Create a cryptographic module with external key wrapping
 
-[[create-cryptographic-module|Create a cryptographic module]] that uses external Amazon Web Services Key Management System \(AWS KMS\) key wrapping to encrypt ServiceNow data.
+Create a cryptographic module that uses external Amazon Web Services Key Management System \(AWS KMS\) key wrapping to encrypt ServiceNow data.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Roles required: admin, security\_admin, and sn\_kmf.cryptographic\_manager
 
 ## About this task
 
-A cryptographic module with external key wrapping generates [[encryption-landing|encryption]] keys that are wrapped \(encrypted\) by your AWS KMS key in addition to ServiceNow's internal key management. ServiceNow can't decrypt your data without access to your external AWS key.
+A cryptographic module with external key wrapping generates encryption keys that are wrapped \(encrypted\) by your AWS KMS key in addition to ServiceNow's internal key management. ServiceNow can't decrypt your data without access to your external AWS key.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]] Modules**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption Modules**.
 
 2.  Select **New**.
 
@@ -34,7 +34,7 @@ A cryptographic module with external key wrapping generates [[encryption-landing
 
     **Important:** If **Externally Wrap Key** isn't selected, the module uses ServiceNow key wrapping, which doesn't use your AWS KMS key.
 
-5.  In the **External KMS [[sc-configuration|Configuration]]** field, enter or use the search function to select your EKMS configuration.\[Omitted image "ekms-crypto-module.png"\] Alt text: Enable the External Wrap Key option on a cryptographic module and select your [[ekms-external-key-management|External Key Management Service]] \(EKMS\) configuration.
+5.  In the **External KMS Configuration** field, enter or use the search function to select your EKMS configuration.\[Omitted image "ekms-crypto-module.png"\] Alt text: Enable the External Wrap Key option on a cryptographic module and select your External Key Management Service \(EKMS\) configuration.
 
 6.  Select **Submit** to save the cryptographic module.
 
@@ -45,25 +45,14 @@ The cryptographic module is created and ready to be used for encrypting Field En
 
 When you enable external key wrapping on an existing cryptographic module, all keys for this module are automatically rewrapped with your External Key Encryption Key \(EKEK\). This protects them with your EKMS key. Both existing keys and future keys you create will be externally wrapped.
 
-A security task is created to track the rewrapping process. To monitor the status, navigate to **All** &gt; **[[sec-center-v2|Security Center]]** &gt; **Security Task Manager** and look for the task with description 'Module key rewrap process for crypto module \[module\_id\]'. See [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+A security task is created to track the rewrapping process. To monitor the status, navigate to **All** &gt; **Security Center** &gt; **Security Task Manager** and look for the task with description 'Module key rewrap process for crypto module \[module\_id\]'. See [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 ## What to do next
 
 Next steps:
 
--   [[ekms-create-encrypted-field-config|Create encrypted field configurations to specify which tables and columns to encrypt]]
--   [[ekms-set-up-maps|Set up module access policies to control who can view the encrypted data]]
+-   [Create encrypted field configurations to specify which tables and columns to encrypt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-create-encrypted-field-config.md)
+-   [Set up module access policies to control who can view the encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-set-up-maps.md)
 
-**Parent Topic:**[[ekms-configuring-external-key-management|Configuring External Key Management Service]]
+**Parent Topic:**[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
-## Related
-
-- [[ekms-create-encrypted-field-config|Create Encrypted Field Configurations]]
-- [[ekms-set-up-maps|Set up Module Access Policies]]
-- [[ekms-configuring-external-key-management|Configuring External Key Management Service]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[sec-center-v2|Security Center]]

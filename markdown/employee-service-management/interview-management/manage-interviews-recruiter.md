@@ -20,11 +20,11 @@ Manage interviews as a recruiter or recruitment coordinator. Update interviews a
 
 Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitment\_coordinator
 
-You must activate the [[interview-management-landing|Interview Management]] plugin to have access to this functionality.
+You must activate the Interview Management plugin to have access to this functionality.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the job requisition that you want to manage an interview for.
 
@@ -90,7 +90,7 @@ From the **Feedback** tab, open the feedback record and select **Send reminder**
 
 </td></tr><tr><td id="d524004e205">
 
-**[[provide-interview-feedback-hm-interviewer|Provide interview feedback]]**
+**Provide interview feedback**
 
 </td><td>
 
@@ -115,7 +115,7 @@ From the **Feedback** tab:-   To provide interview feedback, open the feedback r
 
 For a description of the field values, see [Schedule interview form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/schedule-interview-form.md).
 
- **Note:** The reschedule count of an interview, and the reason and notes entered during rescheduling are saved in the [[activity-lxp|activity]] stream of the interview record.
+ **Note:** The reschedule count of an interview, and the reason and notes entered during rescheduling are saved in the activity stream of the interview record.
 
 </td></tr><tr><td id="d524004e297">
 
@@ -130,7 +130,7 @@ For a description of the field values, see [Schedule interview form](https://raw
 5.  Add any **Additional message to substitute**, if needed.
 6.  Select **Notify the interviewer** to let the interviewer know about the substitution.
 7.  Select **Confirm**.
- A confirmation message is displayed, both interviewers' calendars are updated, an invite is sent to the substitute, and the recruiter, coordinator, [[hiring-tab-concept|hiring]] manager, and other interviewers are notified. The feedback task is reassigned, and the change is logged in the activity log.
+ A confirmation message is displayed, both interviewers' calendars are updated, an invite is sent to the substitute, and the recruiter, coordinator, hiring manager, and other interviewers are notified. The feedback task is reassigned, and the change is logged in the activity log.
 
 </td></tr><tr><td id="d524004e355">
 
@@ -160,10 +160,3 @@ From the Mark as complete list, select **Cancel interview**.
 </table>
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[interview-management-landing|Interview Management]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[provide-interview-feedback-hm-interviewer|Provide interview feedback]]
-- [[activity-lxp|Activity]]
-- [[hiring-tab-concept|Hiring]]

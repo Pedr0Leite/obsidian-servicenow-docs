@@ -19,7 +19,7 @@ Generate a Web Services Description Language \(WSDL\) URL for the SAP service de
 
 ## Before you begin
 
-The SAP transport files for your ServiceNow instance version must be available from the SAP ABAP Program for the [[c_SoftwareAssetMgmt|Software Asset Management]] application. You must import the central transport request \(TR\) into the central system. If your satellite system is SAP S/4HANA, you must also import the corresponding satellite TR into the satellite system.
+The SAP transport files for your ServiceNow instance version must be available from the SAP ABAP Program for the Software Asset Management application. You must import the central transport request \(TR\) into the central system. If your satellite system is SAP S/4HANA, you must also import the corresponding satellite TR into the satellite system.
 
 Role required: SAP Basis administrator
 
@@ -83,11 +83,7 @@ After importing the transport files into your SAP system, configure the service 
 
 ## What to do next
 
-[[create-sap-users-roles-auth|Create SAP users, roles, and authorizations]] that can be used with the Software Asset Management integration. For details, see [Create SAP users, roles, and authorizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sap-users-roles-auth.md).
+Create SAP users, roles, and authorizations that can be used with the Software Asset Management integration. For details, see [Create SAP users, roles, and authorizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sap-users-roles-auth.md).
 
 **Parent Topic:**[Set up SAP integration to establish a connection with SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/setup-sap-integration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[create-sap-users-roles-auth|Create SAP users, roles, and authorizations]]

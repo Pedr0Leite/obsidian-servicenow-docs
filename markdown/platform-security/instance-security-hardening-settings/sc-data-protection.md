@@ -14,7 +14,7 @@ breadcrumb: [Hardening settings, Platform Security]
 
 # Data protection
 
-The [[naai-data-protection|data protection]] category addresses the elements of confidentiality, integrity and availability \(CIA\) of data.
+The data protection category addresses the elements of confidentiality, integrity and availability \(CIA\) of data.
 
 The CIA components are:
 
@@ -23,22 +23,13 @@ The CIA components are:
 -   Availability: Data is accessible when required.
 
 -   **[Remove remember me](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-remove-remember-me.md)**  
-Use the **glide.ui.forgetme** property to remove the **[[c_ChSetRemMeChkbxCookie|Remember Me]]** check box from the login page to prevent login information from being cached.
+Use the **glide.ui.forgetme** property to remove the **Remember Me** check box from the login page to prevent login information from being cached.
 -   **[Require clearing pasteboard when backgrounding mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-require-clearing-pasteboard-when-backgrounding-mobile-application.md)**  
 The **glide.sg.clear\_pasteboard\_when\_backgrounded** property controls if text copied from ServiceNow mobile app is kept in the clipboard and pasteboard after the app is in background mode. If it is not set to the recommended value of true, then sensitive information may be disclosed to the Android or iOS clipboard where it can be exposed to other applications on the device.
 -   **[Restrict HR case updates from personal emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-hr-case-updates-from-personal-emails-plugin-applicability-human-resources-scoped-app.md)**  
-Use the **sn\_hr\_core.restrict\_guest\_email** property to control whether a user can respond back to a HR case with their personal [[email|email]].
--   **[Restrict [[oauth-inbound-and-outbound|oauth]] parameters to POST body \[New in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-oauth-parameters-to-post-body.md)**  
-Use the **glide.oauth.allow.parameters.in.post.body.only** property to control the inbound OAuth [[c_Authentication|authentication]]'s acceptance of access tokens. Access tokens are sensitive and should only be accepted when located within a POST [[c_requestAPI|request]] body.
+Use the **sn\_hr\_core.restrict\_guest\_email** property to control whether a user can respond back to a HR case with their personal email.
+-   **[Restrict oauth parameters to POST body \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-oauth-parameters-to-post-body.md)**  
+Use the **glide.oauth.allow.parameters.in.post.body.only** property to control the inbound OAuth authentication's acceptance of access tokens. Access tokens are sensitive and should only be accepted when located within a POST request body.
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[naai-data-protection|Data protection]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[email|Email]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[sec-center-v2|Security Center]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

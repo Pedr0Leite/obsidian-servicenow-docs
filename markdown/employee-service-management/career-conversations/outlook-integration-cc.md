@@ -17,7 +17,7 @@ breadcrumb: [Install and configure Career Conversations, Career Conversations, G
 Perform the following steps to set up an integration with Microsoft Outlook
 
 -   **[Create a connection with Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/set-up-ms-exhchange-cc.md)**  
-Integrate the [[egd-activities-conversations-module|Career Conversations]] ServiceNow instance and Microsoft Exchange Online account by creating a custom OAuth application in Microsoft Exchange Online to authenticate ServiceNow requests.
+Integrate the Career Conversations ServiceNow instance and Microsoft Exchange Online account by creating a custom OAuth application in Microsoft Exchange Online to authenticate ServiceNow requests.
 -   **[Configure Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/ms-outlook-azure-cc.md)**  
 Set up a authentication with Microsoft Azure to connect Microsoft Exchange Online.
 -   **[Configure the webhook registry of Microsoft Exchange Online spoke in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/webhook-registry-cc.md)**  
@@ -27,6 +27,3 @@ Use system properties to enable integration between Career Conversations and Mic
 
 **Parent Topic:**[Install and configure Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-install-config.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

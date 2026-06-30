@@ -15,7 +15,7 @@ breadcrumb: [Manage Hardware Asset Management subscriptions, Use, Hardware Asset
 
 # Exclude assets
 
-Exclude an asset for which you don't want to use [[ham-landing-page|Hardware Asset Management]] licensed features.
+Exclude an asset for which you don't want to use Hardware Asset Management licensed features.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate** &gt; **Hardware assets**.
+1.  Navigate to **Hardware Asset Workspace** &gt; **Asset estate** &gt; **Hardware assets**.
 
 2.  Select a hardware asset that you want to exclude.
 
@@ -51,7 +51,3 @@ The asset is excluded from using the licensed Hardware Asset Management features
 
 [View the license report for the Hardware Asset Management application]()
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

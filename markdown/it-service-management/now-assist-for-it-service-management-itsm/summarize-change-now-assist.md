@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Summarize a change request by using Now Assist for IT Service Management \(ITSM\)
 
-Quickly capture the important details of a change request, including the current status, by using the change request summarization skill in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Quickly capture the important details of a change request, including the current status, by using the change request summarization skill in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ A change request summary provides you with a concise summary of a change request
 
 For information about the change request states, see [State progression for normal, standard, and emergency changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/normal-standard-emergency-states.md).
 
-You can summarize a change request in Core UI and [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can summarize a change request in Core UI and Service Operations Workspace for ITSM.
 
 ## Procedure
 
@@ -120,8 +120,3 @@ If you want to check some details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

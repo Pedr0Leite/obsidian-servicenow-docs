@@ -21,7 +21,7 @@ The following are required to access the voice testing experience:
 -   Conversational Studio v7 or later
 -   Zurich Patch 7 or later
 -   Microphone enabled on your device
--   [[platform-now-assist-landing|Now Assist]] for Virtual Agent version 19 or later
+-   Now Assist for Virtual Agent version 19 or later
 
 Roles required: sn\_aia.admin and sn\_voice\_aia.admin
 
@@ -40,7 +40,7 @@ As the conversation progresses, the Analysis tab shows a turn-by-turn breakdown 
 
     The voice testing interface opens in a new window. The window displays:
 
-    -   Left panel: A drop down for testing mode with Voice and Chat options. Live transcription of the conversation along with the assistant greeting and input [[controls|controls]].
+    -   Left panel: A drop down for testing mode with Voice and Chat options. Live transcription of the conversation along with the assistant greeting and input controls.
     -   Right panel: Assistant summary showing the assistant name, telephony provider \(if configured\), language, voice personality, and the Analysis tab.
     \[Omitted image "ai-voice-assistant-test-window.png"\] Alt text: Voice assistant testing window
 
@@ -96,7 +96,3 @@ As the conversation progresses, the Analysis tab shows a turn-by-turn breakdown 
 
 You have tested your voice assistant using the voice testing interface. Use the analysis results to identify issues with agent routing, tool execution, or voice assistant performance, and refine your assistant configuration as needed.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]

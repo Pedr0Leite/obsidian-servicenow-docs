@@ -12,7 +12,7 @@ breadcrumb: [User management, Explore, Financial Services Operations \(FSO\)]
 
 # Using agent connector and contributor roles in Financial Services Operations
 
-[[fso-overview|Financial Services]] Operations \(FSO\) applications install agent connector and contributor roles to manage and monitor user privileges effectively. To provide the right level of access, these roles must be paired with roles in the CSM Industry data model and contributor user roles.
+Financial Services Operations \(FSO\) applications install agent connector and contributor roles to manage and monitor user privileges effectively. To provide the right level of access, these roles must be paired with roles in the CSM Industry data model and contributor user roles.
 
 ## Core roles in FSO
 
@@ -55,6 +55,3 @@ The following are a few examples of how you can assign roles to users in Loan Op
 
 \[Omitted image "example-fso-csm-combine-roles.png"\] Alt text: Infographic displaying the titles of the various Loan operations role employees combined with various CSM agent and contributor roles.
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -38,7 +38,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr><tr><td>
 
-[Map [[custom-tables|custom tables]] and applications\[Omitted image "bus-service-map.svg"\] Alt text:Stay in compliance by mapping custom tables and applications to subscriptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocating-custom-tables-subscr-apps-v2.md)
+[Map custom tables and applications\[Omitted image "bus-service-map.svg"\] Alt text:Stay in compliance by mapping custom tables and applications to subscriptions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocating-custom-tables-subscr-apps-v2.md)
 
 </td><td>
 
@@ -46,12 +46,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about types of subscriptions, meters, and domain separation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-[[reference-email-admin|reference]]-v2.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about types of subscriptions, meters, and domain separation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[custom-tables|Custom tables]]
-- [[reference-email-admin|Reference]]

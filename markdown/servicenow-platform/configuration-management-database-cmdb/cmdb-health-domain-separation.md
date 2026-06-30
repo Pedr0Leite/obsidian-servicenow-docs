@@ -14,7 +14,7 @@ breadcrumb: [Reference, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Domain separation in CMDB Health
 
-This is an overview of [[domain-separation-relationship-formatter-editor|domain separation]] as it pertains to [[c_CMDBHealth|CMDB Health]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation as it pertains to CMDB Health. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Overview of domain separation in CMDB Health
 
@@ -61,18 +61,18 @@ See CMDB Health-related rules settings at:
 -   [Orphan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCMDBHealthOrphanRule.md)
 -   [Staleness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCMDBHealthStaleRule.md)
 
-Most of the CMDB Health-related rules are domain separated and provided by the users. Users can define different rules for different domains by logging in to each domain and adding/overriding rules in the [[ci-class-manager-landing-page|CI Class Manager]].
+Most of the CMDB Health-related rules are domain separated and provided by the users. Users can define different rules for different domains by logging in to each domain and adding/overriding rules in the CI Class Manager.
 
 1.  Completeness
     1.  Required fields – These are based on the class schema defined in the platform’s [System dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SystemDictionary.md) and is fixed for all domains. These cannot be changed.
     2.  Recommended fields – These are domain separated. The table used is CMDB Recommended Fields \[cmdb\_recommended\_fields\], which is domain separated. The user can set these up for different domains.
 2.  Correctness
-    1.  Duplicates – Duplicates are based on [[c_IdentificationRules|Identification rules]], which are not domain separated, so the same rules apply to all domains.
+    1.  Duplicates – Duplicates are based on Identification rules, which are not domain separated, so the same rules apply to all domains.
     2.  Orphan – Orphan rules are domain separated; there are different orphan rules for different domains. The table used in the CMDB Health Orphan Rule \[cmdb\_health\_orphan\_rule\] table and is domain separated.
     3.  Staleness – Staleness rules are domain separated. The table used is cmdb\_health\_staleness\_rule. The base system rule \(60 days\) is set for global domain so is inherited by all domains as the default rule.
 3.  Compliance
 
-    Audit – Audit scores are based on the [[c_DesiredState|desired state]] or [[c_ScriptedAudits|scripted audits]] defined in the compliance module by the user.Audits themselves are domain separated. When audit score evaluation is enabled for a domain, scores become based only on the audits visible in that domain.
+    Audit – Audit scores are based on the desired state or scripted audits defined in the compliance module by the user.Audits themselves are domain separated. When audit score evaluation is enabled for a domain, scores become based only on the audits visible in that domain.
 
 
 Health inclusion rules:
@@ -80,7 +80,7 @@ Health inclusion rules:
 -   Health inclusion rules are domain separated. The rules are stored in the cmdb\_health\_config table which is domain separated.
 -   Each domain can have its specific health inclusion rules and domain-specific rules for each sub-metric.
 -   When a health inclusion rule is defined globally, all sub-domains inherit the rule according to the domain structure and the rule can be overridden at any domain.
--   When a health inclusion rule is defined at the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]] level, all descending classes inherit the rule and the rule can be overridden at any class level.
+-   When a health inclusion rule is defined at the Configuration Item \[cmdb\_ci\] class level, all descending classes inherit the rule and the rule can be overridden at any class level.
 
 ## CMDB Health Dashboard
 
@@ -108,12 +108,3 @@ In general, CMDB Health dashboards are domain aware and show data according to t
 
 [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_IdentificationRules|Identification rules]]
-- [[c_DesiredState|Desired State]]
-- [[c_ScriptedAudits|Scripted audits]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]

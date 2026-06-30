@@ -12,7 +12,7 @@ breadcrumb: [Survey distribution, Survey administration, Use surveys, Surveys, A
 
 # Define a recipients list for surveys
 
-Use a recipients list to define targeted set of users for whom the survey invite can be sent. You can use a recipients list for multiple [[r_SurveyManagementLandingPage|surveys]].
+Use a recipients list to define targeted set of users for whom the survey invite can be sent. You can use a recipients list for multiple surveys.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin or survey\_admin or survey\_creator
 
 3.  On the Recipients List form, fill in the fields:
 
-    For a description of the field values, see [[recipients-list-form|Recipients List form]].
+    For a description of the field values, see [Recipients List form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/recipients-list-form.md).
 
 4.  Click **Submit**.
 
@@ -35,7 +35,7 @@ Role required: admin or survey\_admin or survey\_creator
 5.  To get the updated user list, navigate to the recipient list and click **Refresh Recipient List**.
 
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -46,7 +46,7 @@ Role required: admin or survey\_admin or survey\_creator
 
 [Add a recipients list to a survey]()
 
-[Embed a survey within the Outlook [[email|email]] client]()
+[Embed a survey within the Outlook email client]()
 
 [Enable localization for a survey]()
 
@@ -56,12 +56,5 @@ Role required: admin or survey\_admin or survey\_creator
 
 [Sharing surveys]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[recipients-list-form|Recipients List form]]
-- [[c_SurveyDistribution|Survey distribution]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[email|Email]]
-- [[c_Collaboration|Connect Chat]]

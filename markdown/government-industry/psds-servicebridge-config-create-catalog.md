@@ -12,7 +12,7 @@ breadcrumb: [Configuring Service Exchange for Providers, Service Exchange, Case 
 
 # Create remote service catalog items in Service Exchange for Providers for Public Sector Digital Services
 
-As a government agency provider, you can create remote catalogs to automate the task fulfillment process for constituents that are using the [[gsp-overview-public-sector|Government Service Portal]]. By using remote catalogs, agency providers can maintain the development of shared service catalogs on their instances and provide consumers with native catalog items in their instances remotely.
+As a government agency provider, you can create remote catalogs to automate the task fulfillment process for constituents that are using the Government Service Portal. By using remote catalogs, agency providers can maintain the development of shared service catalogs on their instances and provide consumers with native catalog items in their instances remotely.
 
 ## About this task
 
@@ -128,11 +128,7 @@ Detailed description for the record producer.
 
 ## Result
 
-The remote catalog item is now created, and will create a provider task in the provider instance. For more information on how to configure remote provider task definitions, see [[psds-servicebridge-config-create-remote-task-def|Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services]].
+The remote catalog item is now created, and will create a provider task in the provider instance. For more information on how to configure remote provider task definitions, see [Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-servicebridge-config-create-remote-task-def.md).
 
 For more information on record producers in Service Exchange, see [Remote record producers in Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-remote-record.md)
 
-## Related
-
-- [[psds-servicebridge-config-create-remote-task-def|Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]

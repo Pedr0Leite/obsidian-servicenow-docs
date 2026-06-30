@@ -14,7 +14,7 @@ breadcrumb: [3E Regulatory Intelligence, 3E, Integration with third-party servic
 
 # Sync regulatory list regulations for a chemical substance
 
-You can trigger a sync with the [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]] server to retrieve all regulatory list data associated with a chemical substance based on its CAS \(Chemical Abstracts Service\) number.
+You can trigger a sync with the 3E Regulatory Intelligence server to retrieve all regulatory list data associated with a chemical substance based on its CAS \(Chemical Abstracts Service\) number.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hs\_chm.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select **Environmental Management** \(\[Omitted image "icon-hs-envt-mgmt.png"\] Alt text: environmental management\) icon.
 
@@ -46,8 +46,3 @@ Role required: sn\_hs\_chm.manager
 
 **Parent Topic:**[3E Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-regulatory-intelligence.md)
 
-## Related
-
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

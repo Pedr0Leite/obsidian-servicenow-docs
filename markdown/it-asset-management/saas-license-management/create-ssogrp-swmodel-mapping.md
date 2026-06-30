@@ -22,7 +22,7 @@ Role required: sam\_integrator or admin
 
 ## About this task
 
-You must map an SSO group with a specific software model before connecting the SSO application to view all users and groups with access to the application. This mapping enables you to manage applications that have different license [[c_Models|models]] that are associated at group level.
+You must map an SSO group with a specific software model before connecting the SSO application to view all users and groups with access to the application. This mapping enables you to manage applications that have different license models that are associated at group level.
 
 ## Procedure
 
@@ -50,6 +50,3 @@ You must map an SSO group with a specific software model before connecting the S
 
 [Viewing SSO subscription information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/sso-subscriptions.md)
 
-## Related
-
-- [[c_Models|Models]]

@@ -22,7 +22,7 @@ Role required: sn\_gamification.admin
 
 ## About this task
 
-[[communities-gamification|Gamification]] includes predefined global, forum, and topic levels.
+Gamification includes predefined global, forum, and topic levels.
 
 ## Procedure
 
@@ -39,6 +39,3 @@ Role required: sn\_gamification.admin
 
 **Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]

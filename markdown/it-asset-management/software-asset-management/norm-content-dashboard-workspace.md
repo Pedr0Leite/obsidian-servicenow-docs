@@ -14,7 +14,7 @@ breadcrumb: [Software asset analytics view, Software Asset Workspace, Exploring 
 
 # Normalization and content dashboard
 
-View normalization trend charts on the Normalization and content dashboard, which is integrated with Performance Analytics in [[sam-workspace|Software Asset Workspace]].
+View normalization trend charts on the Normalization and content dashboard, which is integrated with Performance Analytics in Software Asset Workspace.
 
 Normalization chart results are updated daily when the **SAM - Discovery Model Normalization** job is run.
 
@@ -42,7 +42,7 @@ Percentage of normalized installs
 
 </td><td>
 
-[[sam-software-discovery|Software Discovery]] [[c_Models|Models]] \[cmdb\_sam\_sw\_discovery\_model\]
+Software Discovery Models \[cmdb\_sam\_sw\_discovery\_model\]
 
 </td><td>
 
@@ -80,8 +80,3 @@ The Central Data Service Download Status related list is updated daily when the 
 |Last updated on|Last date and time the data was pulled.|
 |Next action|Next scheduled date and time to pull data from the table.|
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

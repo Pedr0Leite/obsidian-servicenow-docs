@@ -12,7 +12,7 @@ breadcrumb: [Configuring decision trees in Decision Tree Builder, Configuring gu
 
 # Activate a decision tree
 
-Activate a completed decision tree so you can use it in playbooks created using Playbooks, in recommendations created using [[ra-csm-configure|Recommended Actions for Service]], or in Service Portal.
+Activate a completed decision tree so you can use it in playbooks created using Playbooks, in recommendations created using Recommended Actions for Service, or in Service Portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 When you activate a decision tree, Decision Tree Builder checks for errors such as missing information, invalid input mappings due to changes in prior node inputs, or missing guidance inputs. After all the errors are resolved, you can activate the decision tree.
 
-If you make changes to an activated decision tree, remember to activate the decision tree again to display the updated decision tree in a workspace.When a decision tree is activated to create a new version, the success message [[migration-lists|lists]] all playbooks and activities that reference the decision tree with direct links to facilitate version updates.
+If you make changes to an activated decision tree, remember to activate the decision tree again to display the updated decision tree in a workspace.When a decision tree is activated to create a new version, the success message lists all playbooks and activities that reference the decision tree with direct links to facilitate version updates.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ If you make changes to an activated decision tree, remember to activate the deci
 
 4.  In Decision Tree Builder, select **Activate**.
 
-    -   If there are errors in your decision tree, error icons and alert messages are displayed. You must resolve the errors before you can activate the decision tree. For more information, see [[validation-errors-builder|Validation error notifications in Decision Tree Builder]].
+    -   If there are errors in your decision tree, error icons and alert messages are displayed. You must resolve the errors before you can activate the decision tree. For more information, see [Validation error notifications in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/validation-errors-builder.md).
     -   If there are no errors, the confirmation dialog box to activate the decision tree displays.
 5.  In the confirmation dialog box, select **Activate now**.
 
@@ -48,17 +48,7 @@ If you make changes to an activated decision tree, remember to activate the deci
 
 ## What to do next
 
--   Configure [[configure-nba|recommended actions]] to use the activated decision tree as a recommendation. The recommendations appear as cards in the contextual side panel of a workspace. For more information, see [[add-guided-decisions-to-recommended-actions|Add Guided Decisions to Recommended Actions]].
--   Configure Playbooks to use the activated decision tree as part of a playbook in a record tab. For more information, see [[add-guided-decision-playbook|Add Guided Decisions to playbooks]] and [[add-gd-input-output-playbook|Add Guided Decision with inputs/outputs to Playbook]].
--   Configure a Service Portal page to use the activated decision tree for providing troubleshooting process to internal users. For more information, see [[add-guided-decisions-service-portal|Add Guided Decisions to Service Portal]].
+-   Configure recommended actions to use the activated decision tree as a recommendation. The recommendations appear as cards in the contextual side panel of a workspace. For more information, see [Add Guided Decisions to Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decisions-to-recommended-actions.md).
+-   Configure Playbooks to use the activated decision tree as part of a playbook in a record tab. For more information, see [Add Guided Decisions to playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decision-playbook.md) and [Add Guided Decision with inputs/outputs to Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-gd-input-output-playbook.md).
+-   Configure a Service Portal page to use the activated decision tree for providing troubleshooting process to internal users. For more information, see [Add Guided Decisions to Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-guided-decisions-service-portal.md).
 
-## Related
-
-- [[validation-errors-builder|Validation error notifications in Decision Tree Builder]]
-- [[add-guided-decisions-to-recommended-actions|Add Guided Decisions to Recommended Actions]]
-- [[add-guided-decision-playbook|Add Guided Decisions to playbooks]]
-- [[add-gd-input-output-playbook|Add Guided Decision with inputs/outputs to Playbook]]
-- [[add-guided-decisions-service-portal|Add Guided Decisions to Service Portal]]
-- [[ra-csm-configure|Recommended Actions for Service]]
-- [[migration-lists|Lists]]
-- [[configure-nba|Recommended Actions]]

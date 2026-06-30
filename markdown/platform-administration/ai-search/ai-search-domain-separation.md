@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Domain separation and AI Search
 
-Domain separation is unsupported for the [[ia-ai-search|AI Search]] application tables, but user search queries respect domain restrictions from indexed ServiceNow AI Platform® table records. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for the AI Search application tables, but user search queries respect domain restrictions from indexed ServiceNow AI Platform® table records. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Note:** Refer to the Overview and following sections for details on how AI Search search queries respect domain settings from indexed records.
 
@@ -33,9 +33,9 @@ AI Search enables users to index and search content from records in ServiceNow A
 
 When indexing searchable content from a ServiceNow AI Platform table, AI Search stores the sys\_domain field values for records on the source table and referenced tables.
 
-If domain separation is enabled, AI Search applies a filter for the current session domain to every search query. This filter excludes records that aren't visible in the session domain. Only records visible in the session domain appear as search query [[hs-results|results]].
+If domain separation is enabled, AI Search applies a filter for the current session domain to every search query. This filter excludes records that aren't visible in the session domain. Only records visible in the session domain appear as search query results.
 
-For child tables that have the **domain\_master** attribute set, both indexing and search use the appropriate [[reference-email-admin|reference]] field to derive the child record domain from a referenced parent record.
+For child tables that have the **domain\_master** attribute set, both indexing and search use the appropriate reference field to derive the child record domain from a referenced parent record.
 
 Restrictions apply to referenced records in search queries, as summarized in the following table.
 
@@ -107,8 +107,3 @@ Configure a field setting to automatically index domain field value updates for 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Personal authentication, Integrate with Document Services, Multi Pr
 
 # Authenticate Microsoft OneDrive account
 
-Enable [[personal-authentication-documents|personal authentication]] for Microsoft OneDrive for [[mp-document-services-framework-landing|Multi Provider Document Services Framework]].
+Enable personal authentication for Microsoft OneDrive for Multi Provider Document Services Framework.
 
 ## Before you begin
 
@@ -29,7 +29,3 @@ Role required: sn\_personal\_auth.personal\_auth\_user
 
 **Parent Topic:**[Personal authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/personal-authentication-documents.md)
 
-## Related
-
-- [[personal-authentication-documents|Personal authentication]]
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]

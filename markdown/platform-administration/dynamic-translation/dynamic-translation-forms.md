@@ -14,19 +14,19 @@ breadcrumb: [Translating with Dynamic Translation, Dynamic Translation, Translat
 
 # Dynamic translation on forms and activity streams
 
-For a seamless [[ia-localization-il|localization]] experience on forms and activity streams, you can dynamically translate text based on the preferred language of a user​.
+For a seamless localization experience on forms and activity streams, you can dynamically translate text based on the preferred language of a user​.
 
 ## Dynamic translation on forms
 
-You can translate the field values on forms on the ServiceNow AI Platform and the configurable workspaces. For more information on [[dynamic-translation|Dynamic Translation]] support for configurable workspaces, see Dynamic Translation support for configurable workspace.
+You can translate the field values on forms on the ServiceNow AI Platform and the configurable workspaces. For more information on Dynamic Translation support for configurable workspaces, see Dynamic Translation support for configurable workspace.
 
-To [[enable-email-notification-translation|enable dynamic translation]] at the field-level on Platform forms, see [Enable dynamic translation for a field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configure-field-translation.md). After dynamic translation is enabled, select the translate icon \(\[Omitted image "Translation.png"\] Alt text: Translate icon\) to show or hide the translated content.
+To enable dynamic translation at the field-level on Platform forms, see [Enable dynamic translation for a field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/configure-field-translation.md). After dynamic translation is enabled, select the translate icon \(\[Omitted image "Translation.png"\] Alt text: Translate icon\) to show or hide the translated content.
 
 ## Dynamic translation in activity streams
 
 You can enable dynamic translation in activity streams on the ServiceNow AI Platform, configurable workspace, and Service Portal. For more information on Dynamic Translation support for configurable workspaces, see Dynamic Translation support for configurable workspace.
 
-Use the [[dynamic-translation-properties|dynamic translation properties]] to enable or prevent the option for dynamic translation in the activity stream of the tables you list. When enabled, select the translate icon \(\[Omitted image "Translation.png"\] Alt text: Translate icon\) to show or hide the translated content for each comment or work note in the activity stream. For more information, see [Dynamic Translation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dynamic-translation-properties.md).
+Use the dynamic translation properties to enable or prevent the option for dynamic translation in the activity stream of the tables you list. When enabled, select the translate icon \(\[Omitted image "Translation.png"\] Alt text: Translate icon\) to show or hide the translated content for each comment or work note in the activity stream. For more information, see [Dynamic Translation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dynamic-translation-properties.md).
 
 ## Length limitations for translation service providers
 
@@ -37,9 +37,3 @@ The following are the length limitations for translation service providers:
 
 **Note:** Starting with the Rome release, you can use Dynamic Translation without the snc-internal role.
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[dynamic-translation|Dynamic translation]]
-- [[enable-email-notification-translation|Enable dynamic translation]]
-- [[dynamic-translation-properties|Dynamic Translation properties]]

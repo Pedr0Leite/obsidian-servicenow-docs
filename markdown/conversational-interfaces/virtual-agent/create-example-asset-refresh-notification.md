@@ -15,7 +15,7 @@ breadcrumb: [Example Asset Refresh Virtual Agent conversation with notifications
 
 # Create the notification for the Asset Refresh topic
 
-Create an actionable notification to trigger the Asset Refresh [[virtual-agent-landing-page|Virtual Agent]] example topic you just created. The user will automatically receive the notification when it's time for them to order a new hardware asset.
+Create an actionable notification to trigger the Asset Refresh Virtual Agent example topic you just created. The user will automatically receive the notification when it's time for them to order a new hardware asset.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ The ServiceNow AI Platform and ITSM Virtual Agent Conversations come with pre-bu
 
 [ITSM Virtual Agent pre-built actionable notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-actionable-notifications.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

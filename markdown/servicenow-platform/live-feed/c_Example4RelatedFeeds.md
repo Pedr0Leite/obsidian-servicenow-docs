@@ -19,10 +19,10 @@ This example demonstrates table notifications to be sent out to related feeds.
 For this example, whenever the status of a story changes to **Complete**, a table notification message is sent to the related sprint, release, or epic. Messages are posted only if the related feed already exists; this notification does not create a new feed.
 
 -   **Table**: Story \[rm\_story\]
--   **Active**: Select the [[check-box|check box]].
+-   **Active**: Select the check box.
 -   **Update**: Select the check box.
 -   **Post to Live Feed**: Select the check box.
--   **[[c_RecordFeeds|Record feeds]]**: Move **Sprint**, **Release**, and **Epic** to the **Selected** column.
+-   **Record feeds**: Move **Sprint**, **Release**, and **Epic** to the **Selected** column.
 -   **Conditions**: \[State\] \[changes to\] \[Complete\]
 -   **Description**: `Story is done; message to Epic, Release, and Sprint`
 -   **Message**:
@@ -34,7 +34,3 @@ For this example, whenever the status of a story changes to **Complete**, a tabl
 
 **Parent Topic:**[Live Feed table notification examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_LFTableNotifiExamples.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[c_RecordFeeds|Record feeds]]

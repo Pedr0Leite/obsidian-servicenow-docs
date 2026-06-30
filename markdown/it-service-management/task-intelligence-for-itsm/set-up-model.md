@@ -14,7 +14,7 @@ breadcrumb: [Create an incident prediction model, Manage, Task Intelligence for 
 
 # Set up your incident prediction model
 
-Use [[c-itsm-task-intelligence|Task Intelligence for ITSM]] to set up your incident prediction model and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model.
+Use Task Intelligence for ITSM to set up your incident prediction model and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model.
 
 ## Before you begin
 
@@ -45,13 +45,13 @@ Role required: sn\_ti\_admin.tia\_admin or admin
 
 ### About this task
 
-When you train a machine learning model, the model learns patterns from past data to make predictions about new data. [[c_Models|Models]] are trained using large amounts of data so that they can learn patterns. A large data set makes the learned patterns statistically significant. As you answer questions about your information systems, business process, and service operations, the system actively learns from your responses.
+When you train a machine learning model, the model learns patterns from past data to make predictions about new data. Models are trained using large amounts of data so that they can learn patterns. A large data set makes the learned patterns statistically significant. As you answer questions about your information systems, business process, and service operations, the system actively learns from your responses.
 
 You can select the table and fields that you want to predict, such as the Output table and Output fields. Also, you can select the tables and fields that you want the model to use to predict the incident information, such as the Input table and Input fields.
 
 Select this information to tell the model what to look for during training.
 
-**Note:** You can either use the recommended [[settings-mobile|settings]] or customize the settings to fit your needs.
+**Note:** You can either use the recommended settings or customize the settings to fit your needs.
 
 ### Procedure
 
@@ -192,8 +192,3 @@ A pop-up appears confirming that your model was deployed.
 
 Select **Configure Recommended Actions** to configure the implementation of the incident prediction model in the incident fields. For more information, see [Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/recommended-actions-for-itsm-in-service-operations-workspace.md).
 
-## Related
-
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[c_Models|Models]]
-- [[settings-mobile|Settings]]

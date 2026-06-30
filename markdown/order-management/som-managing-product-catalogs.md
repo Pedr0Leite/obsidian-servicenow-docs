@@ -12,9 +12,9 @@ breadcrumb: [Lead-to-cash foundation apps, Configure, Sales Customer Relationshi
 
 # Configuring product offerings and catalogs
 
-Create product offerings and the associated product catalogs that can be used by [[order-mgt-overview|Sales Customer Relationship Management]] agents for pre-sales activities, order capture, and [[configuring-post-sales-engagement|post-sales engagement]].
+Create product offerings and the associated product catalogs that can be used by Sales Customer Relationship Management agents for pre-sales activities, order capture, and post-sales engagement.
 
-As a product catalog administrator or catalog manager, you complete various configuration tasks to create the product catalogs and offerings for products and services sold by your organization. You also work with your pricing administrator, who [[cpq-sets|sets]] the pricing for your product offerings. For more information on pricing, see [[som-managing-product-pricing|Configuring product pricing]].
+As a product catalog administrator or catalog manager, you complete various configuration tasks to create the product catalogs and offerings for products and services sold by your organization. You also work with your pricing administrator, who sets the pricing for your product offerings. For more information on pricing, see [Configuring product pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-managing-product-pricing.md).
 
 The following workflow example shows a typical series of steps for setting up catalogs and product offerings, including the pricing configuration tasks performed by your pricing administrator. Some steps may be optional in your organization, and other steps, such as setting up product relationships between catalog entities, may occur in a slightly different sequence.
 
@@ -30,55 +30,28 @@ The following table identifies the configuration tasks for setting up the variou
 
 |Configuration task|Description|
 |------------------|-----------|
-|[[som-create-product-catalog|Create a product offering catalog]]|Create a catalog, which is the top-level entity in the catalog hierarchy. Catalogs can have categories, and categories can have subcategories or product offers.|
-|[[som-create-product-offering-category|Create a product offering category]]|Define a product offering category used to organize similar product offerings in a catalog. Catalog categories make it easier for agents to browse and navigate product offerings when creating opportunities, quotes, and orders.|
-|[[create-product-offering-family|Create a product offering family]]|Create a product offering family for products with similar or common features that have multiple variations. You can apply common [[rules_101|rules]] or attributes for product offerings at the product offering family level instead of applying them individually to each product offering.|
-|[[som-product-config-add-characteristics|Create product characteristics and characteristic options]]|Define the specific attributes, properties, and options that distinguish a product offering, influencing its configuration and pricing.|
-|[[som-create-product-offering|Create product offerings]]|Configure and add product offerings to catalogs and categories. Once published, product offerings are available to Sales Customer Relationship Management agents as they create opportunities, quotes, and orders.|
-|[[som-product-config-add-visuals|Add product visuals]]|Add images and thumbnails to your product offerings to help agents as they build opportunities, quotes, and orders.|
-|[[som-product-config-offering-relationships|Create product offering relationships]]|Create product relationships to bundle products and services together to streamline the order process. Product offering relationships drive the order capture experience by letting you group multiple product offerings into bundles. Bundles also let you offer special bundle pricing.|
-|[[som-activate-cascade-quantity|Control cascading quantity values in child product offerings]]|Control how the quantities for child line items in a product offering for a quote or order are calculated by using the **sn\_prd\_pm.enable\_cascade\_quantity** system property.|
-|[[som-product-config-related-contracts|Add related contracts to product offerings]]|Add related contracts to your product offerings in the Sales Customer Relationship Management application.|
-|[[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]|Add a unit of measure \(UOM\) to a product offering in Sales Customer Relationship Management.|
-|[[som-product-config-create-new-version|Create a product offering version]]|Create a product version to add updates to a published product offering.|
-|[[som-product-config-relationship-groups|Create product offering relationship groups]]|Combine bundles of product offerings into related groups in Sales Customer Relationship Management.|
-|[[configuring-needs-analysis|Configure needs analysis]]|Create needs templates, which are questionnaires from product selection guides that your agents use to determine what product offers can be added to opportunities.|
-|[[configuring-offer-recommendations|Configure product offering recommendations for quotes]]|Create offer recommendations that sales agents can use to complement or supplement items in their quotes.|
-|[[export-import-product-catalog-entities|Export and import product catalog entities]]|Export and [[import-product-catalog-entities|import product catalog entities]] between ServiceNow instances. For example, you can promote catalog entities from a non-production instance to a production instance.|
-|[[som-catalog-hierarchy|View product offering hierarchy and associated specification hierarchy]]|View the complete hierarchy of a product offering and any associated specifications \(product, service, and resource\). Use these views to verify that all entities have been defined and associated correctly.|
-|[[configuring-sales-eligibility|Configure product offer eligibility]]|Filter the product catalog, product categories, and product offerings dynamically, to display only eligible product offerings for a customer in the product catalog.|
+|[Create a product offering catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-catalog.md)|Create a catalog, which is the top-level entity in the catalog hierarchy. Catalogs can have categories, and categories can have subcategories or product offers.|
+|[Create a product offering category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering-category.md)|Define a product offering category used to organize similar product offerings in a catalog. Catalog categories make it easier for agents to browse and navigate product offerings when creating opportunities, quotes, and orders.|
+|[Create a product offering family](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-product-offering-family.md)|Create a product offering family for products with similar or common features that have multiple variations. You can apply common rules or attributes for product offerings at the product offering family level instead of applying them individually to each product offering.|
+|[Create product characteristics and characteristic options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md)|Define the specific attributes, properties, and options that distinguish a product offering, influencing its configuration and pricing.|
+|[Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md)|Configure and add product offerings to catalogs and categories. Once published, product offerings are available to Sales Customer Relationship Management agents as they create opportunities, quotes, and orders.|
+|[Add product visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)|Add images and thumbnails to your product offerings to help agents as they build opportunities, quotes, and orders.|
+|[Create product offering relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-relationships.md)|Create product relationships to bundle products and services together to streamline the order process. Product offering relationships drive the order capture experience by letting you group multiple product offerings into bundles. Bundles also let you offer special bundle pricing.|
+|[Control cascading quantity values in child product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-activate-cascade-quantity.md)|Control how the quantities for child line items in a product offering for a quote or order are calculated by using the **sn\_prd\_pm.enable\_cascade\_quantity** system property.|
+|[Add related contracts to product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)|Add related contracts to your product offerings in the Sales Customer Relationship Management application.|
+|[Add a unit of measure to a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)|Add a unit of measure \(UOM\) to a product offering in Sales Customer Relationship Management.|
+|[Create a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)|Create a product version to add updates to a published product offering.|
+|[Create product offering relationship groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-relationship-groups.md)|Combine bundles of product offerings into related groups in Sales Customer Relationship Management.|
+|[Configure needs analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-needs-analysis.md)|Create needs templates, which are questionnaires from product selection guides that your agents use to determine what product offers can be added to opportunities.|
+|[Configure product offering recommendations for quotes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-offer-recommendations.md)|Create offer recommendations that sales agents can use to complement or supplement items in their quotes.|
+|[Export and import product catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/export-import-product-catalog-entities.md)|Export and import product catalog entities between ServiceNow instances. For example, you can promote catalog entities from a non-production instance to a production instance.|
+|[View product offering hierarchy and associated specification hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-catalog-hierarchy.md)|View the complete hierarchy of a product offering and any associated specifications \(product, service, and resource\). Use these views to verify that all entities have been defined and associated correctly.|
+|[Configure product offer eligibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-sales-eligibility.md)|Filter the product catalog, product categories, and product offerings dynamically, to display only eligible product offerings for a customer in the product catalog.|
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-managing-product-pricing|Configuring product pricing]]
-- [[som-create-product-catalog|Create a product offering catalog]]
-- [[som-create-product-offering-category|Create a product offering category]]
-- [[create-product-offering-family|Create a product offering family]]
-- [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
-- [[som-create-product-offering|Create product offerings]]
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[som-product-config-offering-relationships|Create product offering relationships]]
-- [[som-activate-cascade-quantity|Control cascading quantity values in child product offerings]]
-- [[som-product-config-related-contracts|Add related contracts to product offerings]]
-- [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
-- [[som-product-config-create-new-version|Create a product offering version]]
-- [[som-product-config-relationship-groups|Create product offering relationship groups]]
-- [[configuring-needs-analysis|Configuring needs analysis]]
-- [[configuring-offer-recommendations|Configuring product offering recommendations]]
-- [[export-import-product-catalog-entities|Exporting and importing product catalog entities]]
-- [[som-catalog-hierarchy|Product catalog hierarchy visualization]]
-- [[configuring-sales-eligibility|Configuring product offer eligibility]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[configuring-post-sales-engagement|Post-sales engagement]]
-- [[cpq-sets|Sets]]
-- [[rules_101|Rules]]
-- [[import-product-catalog-entities|Import product catalog entities]]

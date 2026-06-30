@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Digital Product Release properties
 
-Configure the system properties to customize various features of [[dpr-landing-page|Digital Product Release]] according to your organization's needs.
+Configure the system properties to customize various features of Digital Product Release according to your organization's needs.
 
 These properties are available for Digital Product Release.
 
@@ -125,7 +125,7 @@ sn\_dpr.out\_of\_band\_release\_allowed
 
 </td><td>
 
-Determines whether a release can be created on any given date, without a release target.**Note:** When the property is set to true, you can still set out-of-band release targets at individual product level from the product's release [[settings-mobile|settings]]. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
+Determines whether a release can be created on any given date, without a release target.**Note:** When the property is set to true, you can still set out-of-band release targets at individual product level from the product's release settings. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
 
 -   Type: true\|false
 -   Default value: true
@@ -277,7 +277,3 @@ Specifies the comma-separated list of work item types that can be mapped to a pr
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[settings-mobile|Settings]]

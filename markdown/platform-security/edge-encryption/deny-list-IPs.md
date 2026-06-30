@@ -20,7 +20,7 @@ Prevent an IP address in your network from sending requests to your instance
 
 Role required: security\_admin
 
-Because the [[edge-encryption|Edge Encryption]] proxy server resides in your network, it may be subject to vulnerability scans by your network software. To prevent IP scanner or other requests from being forwarded to your ServiceNow instance, you can add IP addresses, IP ranges, or network masks to a deny list. Any connection to the proxy server from a deny listed address is terminated and is not forwarded to your instance.
+Because the Edge Encryption proxy server resides in your network, it may be subject to vulnerability scans by your network software. To prevent IP scanner or other requests from being forwarded to your ServiceNow instance, you can add IP addresses, IP ranges, or network masks to a deny list. Any connection to the proxy server from a deny listed address is terminated and is not forwarded to your instance.
 
 To place an IP address on a deny list, you must be logged in to your instance through the proxy server.
 
@@ -28,9 +28,9 @@ To place an IP address on a deny list, you must be logged in to your instance th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Maintenance** &gt; **Denylist IP Addresses**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Maintenance** &gt; **Denylist IP Addresses**.
 
-    The [[encryption-landing|Encryption]] Proxy IP Denylists \[edge\_encryption\_ip\_blacklist\] list view opens.
+    The Encryption Proxy IP Denylists \[edge\_encryption\_ip\_blacklist\] list view opens.
 
 2.  Click **New**.
 
@@ -87,13 +87,7 @@ Description of the deny list record.
 
 ## Result
 
-The Edge Encryption proxy server terminates any connection from IP addresses, ranges, or network masks on the deny list and cannot forward the [[c_requestAPI|request]] to the instance.
+The Edge Encryption proxy server terminates any connection from IP addresses, ranges, or network masks on the deny list and cannot forward the request to the instance.
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]

@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin
 
 As a preparation for tag-based mapping, create tag categories that contain tags with similar use.
 
-**Note:** Starting with [[c_ServiceMappingOverview|Service Mapping]] Plus version 1.16.3, take advantage of the Tag-based [[sm-dashboard|Service Mapping workspace]] to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
 
 Define a tag-based service family and define tags that you want Service Mapping to use for mapping. Based on the tag definitions for the tag-based service family, Service Mapping creates service candidates - suggested service instances. You review the candidates and decide which ones you want to use to create the actual tag-based service instances. For details on the tag-based mapping process, see [Tag-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping.md).
 
@@ -36,7 +36,7 @@ CIs that have discovered tag values for the tag categories you selected become p
 
 1.  Analyze the tag usage in your organization and make a list of all tags and their purposes. Use the Key Value \[cmdb\_key\_value\] table to see the tags in the CMDB.
 
-    Use [[landing-page-tag-governance|Tag Governance]] to analyze and optimize tag application in your organization. See [Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/landing-page-tag-governance.md).
+    Use Tag Governance to analyze and optimize tag application in your organization. See [Tag Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/landing-page-tag-governance.md).
 
 2.  If necessary, assign tags to CIs that you want to include in application services.
 
@@ -57,16 +57,10 @@ CIs that have discovered tag values for the tag categories you selected become p
 
     **Note:** To see detailed examples of defining tag-based mapping criteria for service families, see [Example definitions for service families in tag-based mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/examples-tag-based-criteria-service-families.md).
 
-4.  Run [[r-discovery|Discovery]] to horizontally discover CIs. Discovery populates the CMDB with the CI data, including tags.
+4.  Run Discovery to horizontally discover CIs. Discovery populates the CMDB with the CI data, including tags.
 
     If your ServiceNow instance uses domain separation and you have access to the global domain, log in to the relevant domain. The selected domain must be a domain without any child domains.
 
 
 **Parent Topic:**[Map application services using tags with classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-service-tag.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[landing-page-tag-governance|Tag Governance]]
-- [[r-discovery|Discovery]]

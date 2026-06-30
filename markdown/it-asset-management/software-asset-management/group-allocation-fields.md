@@ -41,7 +41,7 @@ Status
 
 </td><td>
 
-Status of the group allocation to the software model. When a group allocation is created, this field is automatically set to **New**. When the group allocation record is saved and the [[c_SoftwareAssetMgmt|Software Asset Management]] application allocates licenses, the **Status** field value is automatically updated based on the availability of unallocated licenses. Possible values are:-   **Not allocated**: None of the group members are allocated to the software entitlement.
+Status of the group allocation to the software model. When a group allocation is created, this field is automatically set to **New**. When the group allocation record is saved and the Software Asset Management application allocates licenses, the **Status** field value is automatically updated based on the availability of unallocated licenses. Possible values are:-   **Not allocated**: None of the group members are allocated to the software entitlement.
 -   **Fully allocated**: All the members from the user group are allocated to the software entitlement.
 -   **Partially allocated**: A partial number of group members are allocated to the software model.
 
@@ -108,6 +108,3 @@ Entitlement condition to allocate a user group to the filtered software entitlem
 
 [Allocating licenses to a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/group-user-allocation.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

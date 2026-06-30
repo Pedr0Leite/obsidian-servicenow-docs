@@ -18,7 +18,7 @@ You can use the Oracle Infrastructure report to gain visibility into your Oracle
 
 **Note:** The Oracle infrastructure report is domain separated.
 
-You can view the Oracle Infrastructure report in both the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application and the [[sam-workspace|Software Asset Workspace]].
+You can view the Oracle Infrastructure report in both the Software Asset Management classic application and the Software Asset Workspace.
 
 To view this report in the Software Asset Management classic application, navigate to **All** &gt; **Reports** &gt; **View/Run** on your ServiceNow instance. At the top of the Reports page, select **All**. From the list of all available reports, locate and select **Oracle infrastructure report**.
 
@@ -179,7 +179,7 @@ Number of slots available on the motherboard.
 </td></tr></tbody>
 </table>## Licenses Required By form
 
-To view additional information about the licensing requirements for a specific configuration item, select the configuration item from the **Required by \(Device\)** field of the Oracle Infrastructure report. The corresponding Licenses Required By form opens, where you can view information about the license consumption, Oracle Database and WebLogic Server software installations, [[oracle-options|Oracle Database options and management packs]], database, and WebLogic Server instances that are associated with the selected configuration item.
+To view additional information about the licensing requirements for a specific configuration item, select the configuration item from the **Required by \(Device\)** field of the Oracle Infrastructure report. The corresponding Licenses Required By form opens, where you can view information about the license consumption, Oracle Database and WebLogic Server software installations, Oracle Database options and management packs, database, and WebLogic Server instances that are associated with the selected configuration item.
 
 <table id="table_xtz_s2h_vpb"><thead><tr><th>
 
@@ -472,8 +472,3 @@ Vendor of the database or WebLogic Server that the instance accesses and manages
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[oracle-options|Oracle Database options and management packs]]

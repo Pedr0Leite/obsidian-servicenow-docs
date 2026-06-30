@@ -18,7 +18,7 @@ You can control how currency fields are configured and used in your instance.
 
 These properties are available for currency fields.
 
-**Note:** To open the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
+**Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
 <table id="table_rv2_c1t_gx"><thead><tr><th>
 
@@ -102,7 +102,7 @@ When **true**, currency fields in a table are converted to US dollars.-   Type: 
 
 Value is of the format `Language.Country` where the language is an ISO 639 language code and the country is an ISO 3166 language code. Internally, this value is used as specified by Java. The system locale setting should be in the [Java supported locales](http://www.oracle.com/technetwork/java/javase/javase7locales-334809.html) list.-   Type: String
 -   Default value: empty
--   Location: **System Properties** &gt; **[[system-localization-landing|System Localization]]**
+-   Location: **System Properties** &gt; **System Localization**
 -   Learn more: [Locale settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/locales.md)
 
 </td></tr></tbody>
@@ -113,7 +113,3 @@ Value is of the format `Language.Country` where the language is an ISO 639 langu
 
 [Exporting currency fields to Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_ExportingCurrencyFields.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]

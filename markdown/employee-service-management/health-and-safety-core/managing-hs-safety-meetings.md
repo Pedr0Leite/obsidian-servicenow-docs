@@ -24,16 +24,11 @@ Safety meeting management provides the safety team and safety meeting manager wi
 -   Flag meetings and minutes as sensitive.
 
 -   **[Log a safety meeting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/log-hs-safety-meeting.md)**  
-[[log-hs-safety-meeting|Log a safety meeting]] and keep a track of it in the [[health-safety-overview|Health and Safety]] application.
+Log a safety meeting and keep a track of it in the Health and Safety application.
 -   **[Add attendees to a safety meeting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/add-attendees-safety-meeting.md)**  
 Add users to a safety meeting who need to attend this meeting.
 -   **[Create a meeting minute for a safety meeting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/create-meeting-minute-hs-safety-meeting.md)**  
-[[create-meeting-minute-hs-safety-meeting|Create a meeting minute for a safety meeting]] to track discussions and accountability.
+Create a meeting minute for a safety meeting to track discussions and accountability.
 
 **Parent Topic:**[Using Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/using-hs-core.md)
 
-## Related
-
-- [[log-hs-safety-meeting|Log a safety meeting]]
-- [[health-safety-overview|Health and Safety]]
-- [[create-meeting-minute-hs-safety-meeting|Create a meeting minute for a safety meeting]]

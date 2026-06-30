@@ -298,7 +298,7 @@ Consumer Profile
 
 </td></tr><tr><td>
 
-[[c_CustomerServiceManagement|Customer Service Management]] for Orders \(com.snc.csm.order\)
+Customer Service Management for Orders \(com.snc.csm.order\)
 
 </td><td>
 
@@ -312,7 +312,3 @@ Household​
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

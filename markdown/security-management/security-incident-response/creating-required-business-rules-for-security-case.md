@@ -24,8 +24,8 @@ Create the three following business rules for the new source table Security Case
 
 Business rules for the new source table:
 
-1.  **Deactivate link when inactive**: Once the security case is closed, related information will no longer be shown in [[msim-workspace|Major Security Incident Management workspace]] page.
-2.  **Sync up team info on update**: Major [[security-incident-details-form|Security Incident details tab]] shows the information about the all the active teams and users working on different tasks. Once we update assigned to user or assignment group is changed in the security case, we need to update security case team information in the Major Security Incident active team section. These business rules will update new assigned to user and assignment group in the active team section.
+1.  **Deactivate link when inactive**: Once the security case is closed, related information will no longer be shown in Major Security Incident Management workspace page.
+2.  **Sync up team info on update**: Major Security Incident details tab shows the information about the all the active teams and users working on different tasks. Once we update assigned to user or assignment group is changed in the security case, we need to update security case team information in the Major Security Incident active team section. These business rules will update new assigned to user and assignment group in the active team section.
 3.  **Sync up team info on delete**: Major Security Incident details tab shows the information about the all the active teams and users working on different tasks. Once we close the security case, we no longer need to show security case team information in the Major Security Incident active team section. These business rules will remove the assigned to user and assignment group from the active team.
 
 **Create business rules for new source table:**
@@ -53,7 +53,3 @@ Business rules for the new source table:
 
 **Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[security-incident-details-form|Security incident Details tab]]

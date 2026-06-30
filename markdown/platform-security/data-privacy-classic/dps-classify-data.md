@@ -14,7 +14,7 @@ breadcrumb: [Data classification, Data privacy, Data Privacy, Platform Privacy]
 
 # Classify data
 
-Group data by type, using pre-defined or user-defined data classifications. Assign data classifications to specific table columns in the Dictionary \[sys\_dictionary\] table. When you assign data classifications, it creates entries in the Dictionary-Data Class \[m2m\_dictionary\_dataclass\] table, which you can then review in the [[overview|Overview dashboard]].
+Group data by type, using pre-defined or user-defined data classifications. Assign data classifications to specific table columns in the Dictionary \[sys\_dictionary\] table. When you assign data classifications, it creates entries in the Dictionary-Data Class \[m2m\_dictionary\_dataclass\] table, which you can then review in the Overview dashboard.
 
 ## Before you begin
 
@@ -34,12 +34,8 @@ Role required: data\_classification\_admin, admin
 
     The data is classified under the Classification Name in the Classified Data table.
 
-5.  View or [[export|export]] the data to Excel, CSV, JSON, or PDF.
+5.  View or export the data to Excel, CSV, JSON, or PDF.
 
-    Choose to download the data in the chosen format or receive it via [[email|email]].
+    Choose to download the data in the chosen format or receive it via email.
 
-## Related
 
-- [[overview|Overview Dashboard]]
-- [[export|Export]]
-- [[email|Email]]

@@ -14,7 +14,7 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Trigger additional actions in McAfee ePO integration
 
-The List Threat Events and Initiate [[threat-intelligence-malware|Malware]] Scan capabilities can be triggered from Run Additional Actions.​
+The List Threat Events and Initiate Malware Scan capabilities can be triggered from Run Additional Actions.​
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-You can configure and trigger additional actions in the [[mcaffee-epo-overview-arch|McAfee ePO integration]] enables by using **Run Additional Actions on Endpoint**, which include the McAfee ePO List Threat Events and McAfee ePO Initiate Malware Scan capabilities.
+You can configure and trigger additional actions in the McAfee ePO integration enables by using **Run Additional Actions on Endpoint**, which include the McAfee ePO List Threat Events and McAfee ePO Initiate Malware Scan capabilities.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ You can configure and trigger additional actions in the [[mcaffee-epo-overview-a
 
 6.  Select **Run Additional Actions**.
 
-7.  View and validate the McAfee ePO [[threat-event|Threat Event]] Details on the related lists.
+7.  View and validate the McAfee ePO Threat Event Details on the related lists.
 
 
 **Parent Topic:**[McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-overview-arch.md)
@@ -51,8 +51,3 @@ You can configure and trigger additional actions in the [[mcaffee-epo-overview-a
 
 **Next topic:**[Using McAfee ePO integration in Analyst Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-mcafee-integration-aws.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]
-- [[threat-event|Threat Event]]

@@ -24,7 +24,7 @@ Role required: admin or virtual\_agent\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Live Agent Connections**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Live Agent Connections**.
 
 2.  Select **New** to create a connection.
 
@@ -52,7 +52,3 @@ Role required: admin or virtual\_agent\_admin
 
 **Next topic:**[Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/debug-bot-sn-sn-configuration.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

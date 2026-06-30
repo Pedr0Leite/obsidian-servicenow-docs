@@ -38,7 +38,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[response-templates-templated-snippets|Response templates]] administrator\[sn\_templated\_snip.template\_snippet\_admin\]
+Response templates administrator\[sn\_templated\_snip.template\_snippet\_admin\]
 
 </td><td>
 
@@ -126,9 +126,5 @@ Maps notes to response templates.
 </td></tr></tbody>
 </table>For further information on table administration and how to manage data, see [Table administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableAdministration.md).
 
-**Parent Topic:**[[activate-templated-snippets|Activate response templates]]
+**Parent Topic:**[Activate response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/activate-templated-snippets.md)
 
-## Related
-
-- [[activate-templated-snippets|Activate response templates]]
-- [[response-templates-templated-snippets|Response templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Third-party contract review requests, Use, Contract Management Pro 
 
 # Modify a third-party review request
 
-As a requester, [[update-legal-contract-request-tpc|modify a legal request]] to update the request details or replace the attached contract document with an updated version.
+As a requester, modify a legal request to update the request details or replace the attached contract document with an updated version.
 
 ## Before you begin
 
@@ -49,7 +49,7 @@ Action
 
 </td></tr><tr><td id="d781028e141">
 
-**[[employee-center-landing-page|Employee Center]]**
+**Employee Center**
 
 </td><td>
 
@@ -74,7 +74,3 @@ Action
 
 **Parent Topic:**[Third-party contract review requests]()
 
-## Related
-
-- [[update-legal-contract-request-tpc|Modify a legal request]]
-- [[employee-center-landing-page|Employee Center]]

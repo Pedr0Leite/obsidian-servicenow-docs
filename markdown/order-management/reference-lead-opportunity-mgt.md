@@ -12,32 +12,18 @@ breadcrumb: [Reference, Sales Customer Relationship Management]
 
 # Lead and opportunity management reference
 
-Reference for [[lead-opportunity-landing|lead and opportunity management]] applications.
+Reference for lead and opportunity management applications.
 
--   **[[lead-management-reference|Lead Management reference]]**  
-Reference topics provide additional information about the [[lead-management|Lead Management]] application.
--   **[[opportunity-management-reference|Opportunity Management reference]]**  
-Reference topics provide additional information about the [[opportunity-management|Opportunity Management]] application.
--   **[[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]**  
-Reference topics provide additional information about the [[explore-customer-engagement-sequences|Customer Engagement Sequences]] application.
--   **[[components-installed-sales-territory-management|Components installed with Sales Territory Management​]]**  
-Several types of components are installed with activation of the [[explore-sales-territory-management|Sales Territory Management​]] plugin, including user roles.
--   **[[activity-management-reference|Activity Management reference]]**  
-Reference topics provide additional information about the [[explore-activity-management|Activity Management]] application.
+-   **[Lead Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-reference.md)**  
+Reference topics provide additional information about the Lead Management application.
+-   **[Opportunity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-reference.md)**  
+Reference topics provide additional information about the Opportunity Management application.
+-   **[Customer Engagement Sequences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customer-engagement-sequences-reference.md)**  
+Reference topics provide additional information about the Customer Engagement Sequences application.
+-   **[Components installed with Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-sales-territory-management.md)**  
+Several types of components are installed with activation of the Sales Territory Management​ plugin, including user roles.
+-   **[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)**  
+Reference topics provide additional information about the Activity Management application.
 
-**Parent Topic:**[[som-reference|Sales Customer Relationship Management reference]]
+**Parent Topic:**[Sales Customer Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-reference.md)
 
-## Related
-
-- [[lead-management-reference|Lead Management reference]]
-- [[opportunity-management-reference|Opportunity Management reference]]
-- [[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]
-- [[components-installed-sales-territory-management|Components installed with Sales Territory Management​]]
-- [[activity-management-reference|Activity Management reference]]
-- [[som-reference|Sales Customer Relationship Management reference]]
-- [[lead-opportunity-landing|Lead and opportunity management]]
-- [[lead-management|Lead Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[explore-sales-territory-management|Sales Territory Management​]]
-- [[explore-activity-management|Activity Management]]

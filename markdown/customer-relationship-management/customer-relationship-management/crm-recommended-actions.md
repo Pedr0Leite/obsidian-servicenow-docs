@@ -44,11 +44,11 @@ Recommended Actions is available across the CRM solution, with each product cont
 
     Field service technicians and dispatchers use Recommended Actions to access service procedures, equipment manuals, and resolution guides relevant to the active work order. The component can be configured with work order fields, such as asset type, failure code, and location, as contextual inputs, so returned results reflect the specific equipment and issue being addressed. Administrators can configure separate instances for dispatcher and technician record pages with distinct knowledge sources and filter criteria for each role.
 
--   **[[crm-about-som-in-crm|Sales CRM]]**
+-   **Sales CRM**
 
     Sales CRM users can use Recommended Actions to surface product documentation, pricing guidance, and resolution steps relevant to active orders and cases. Administrators configure the component with order and account fields as contextual inputs to return content appropriate to the sales or fulfillment context.
 
--   **[[crm-about-industry-solutions-in-crm|Industry solutions]]**
+-   **Industry solutions**
 
     Telecommunications, financial services, and manufacturing solutions include preconfigured Recommended Actions setups tailored to the knowledge sources and workflows common in those industries. Organizations can deploy preconfigured configurations as a starting point and modify the knowledge sources, contextual inputs, and relevancy settings in UI Builder as requirements evolve.
 
@@ -63,7 +63,7 @@ Recommended Actions is available across the CRM solution, with each product cont
 
 -   **Field service: telecommunications**
 
-    A telecom provider uses Recommended Actions on work order record pages in the FSM [[crm-configurable-workspace|Configurable Workspace]] to help field technicians locate installation and fault-resolution procedures on-site. The component is configured with equipment type, fault code, and service area as contextual inputs. Dynamic filters restrict results by equipment model and certified procedure status.
+    A telecom provider uses Recommended Actions on work order record pages in the FSM Configurable Workspace to help field technicians locate installation and fault-resolution procedures on-site. The component is configured with equipment type, fault code, and service area as contextual inputs. Dynamic filters restrict results by equipment model and certified procedure status.
 
     When a technician opens a work order for a fiber splice fault, Recommended Actions returns procedures specific to that equipment model and fault type. The technician can review the steps, mark the procedure as used, and attach it to the work order, all without leaving the record page or navigating to a separate knowledge portal.
 
@@ -85,8 +85,3 @@ Recommended Actions is available across the CRM solution, with each product cont
 
 [Example configurations of recommended actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/recommended-actions-use-case.md)
 
-## Related
-
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-industry-solutions-in-crm|Industry Solutions]]
-- [[crm-configurable-workspace|Configurable workspace]]

@@ -60,7 +60,7 @@ Application
 
 </td><td>
 
-[[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams
+HR Service Delivery integration with Microsoft Teams
 
 </td></tr><tr><td>
 
@@ -116,6 +116,3 @@ Check this box.Copy and paste the **Workspace Client Script**of the existing Sta
 
 **Parent Topic:**[Customize UI actions for HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ui-actions-ms-teams-hr.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

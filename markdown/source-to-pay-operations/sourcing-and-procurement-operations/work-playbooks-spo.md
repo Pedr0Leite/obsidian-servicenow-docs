@@ -14,7 +14,7 @@ breadcrumb: [Use, Sourcing and Procurement Operations, Finance and Supply Chain]
 
 # Working with Sourcing and Procurement Operations playbooks in the Source-to-Pay Workspace
 
-Playbooks provide a streamlined and consistent way of accomplishing various tasks, such as editing a [[purchase-order-table|purchase order]], editing a [[purchase-requisition|purchase requisition]], approving or rejecting cancellation requests, and so on.
+Playbooks provide a streamlined and consistent way of accomplishing various tasks, such as editing a purchase order, editing a purchase requisition, approving or rejecting cancellation requests, and so on.
 
 -   **[Process a purchase order edit in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/process-purchase-order.md)**  
 You can edit and revise the quantity of the product or delivery location of the purchase orders based on your requirements.
@@ -25,7 +25,7 @@ Use the procurement playbook to approve or reject return requests.
 -   **[Process a replacement request in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/playbook-replacement-request.md)**  
 Use the procurement playbook to approve or reject replacement requests.
 -   **[Process an edit receipt request in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/playbook-process-edit-receipt.md)**  
-You can revise previously approved [[receipts|receipts]] to correct any discrepancies, ensuring the delivery receipt accurately reflects the quantities received for a specific purchase order.
+You can revise previously approved receipts to correct any discrepancies, ensuring the delivery receipt accurately reflects the quantities received for a specific purchase order.
 -   **[Fulfilling request for copy of contract in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/fulfilling-request-for-contract.md)**  
 Reduce manual effort by providing your procurement specialist with a playbook for attaching the contract from and sending it as an email to the employee who requested for it.
 -   **[Routing NDAs to suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/routing-ndas-to-suppliers.md)**  
@@ -46,7 +46,7 @@ As procurement specialists, track activity on the Third-Party Risk Management \(
 
 [Using Shopping Hub]()
 
-[Using [[shopping-hub-overview|Shopping Hub]] Mobile]()
+[Using Shopping Hub Mobile]()
 
 [Using Procurement Case Management]()
 
@@ -56,9 +56,3 @@ As procurement specialists, track activity on the Third-Party Risk Management \(
 
 [Create a Universal Request]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[receipts|Receipts]]
-- [[shopping-hub-overview|Shopping Hub]]

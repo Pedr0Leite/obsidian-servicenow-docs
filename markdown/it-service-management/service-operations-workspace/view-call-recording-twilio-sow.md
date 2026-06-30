@@ -14,7 +14,7 @@ breadcrumb: [Use Twilio to make conference calls in Service Operations Workspace
 
 # View a conference call recording from Twilio in Service Operations Workspace
 
-View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a [[reference-for-itsm-mobile-agent|reference]].
+View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a reference.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ You can view the list of all the conference call recordings related to the incid
 
 **Parent Topic:**[Use Twilio to make conference calls in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/telephony-sow.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

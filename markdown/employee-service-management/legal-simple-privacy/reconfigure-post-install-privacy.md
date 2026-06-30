@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Simple Privacy, Legal Service Delivery Practice Ap
 
 # Reconfigure forms to use new components
 
-As an administrator, after installing [[legal-simple-privacy-landing-page|Legal Simple Privacy]] reconfigure forms to use the new privacy assessment record producer, catalog category, and content taxonomy.
+As an administrator, after installing Legal Simple Privacy reconfigure forms to use the new privacy assessment record producer, catalog category, and content taxonomy.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The privacy assessment legal request that was part of [[legal-request-management-landing-page|Legal Request Management]] has been moved to a new application Legal Simple Privacy. With the new application, new privacy assessment components are available for Legal Simple Privacy. You can reconfigure the intake forms to use the new privacy assessment record producer, catalog category, and content taxonomy depending on the following points.
+The privacy assessment legal request that was part of Legal Request Management has been moved to a new application Legal Simple Privacy. With the new application, new privacy assessment components are available for Legal Simple Privacy. You can reconfigure the intake forms to use the new privacy assessment record producer, catalog category, and content taxonomy depending on the following points.
 
 -   If you use the new privacy assessment components, you must redo any customizations you made to the previous forms.
 -   The previous privacy assessment components won’t be enhanced for new functionalities.
@@ -109,7 +109,3 @@ The privacy assessment legal request that was part of [[legal-request-management
 
 [Install Legal Simple Privacy]()
 
-## Related
-
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]
-- [[legal-request-management-landing-page|Legal Request Management]]

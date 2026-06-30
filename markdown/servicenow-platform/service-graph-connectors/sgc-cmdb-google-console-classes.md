@@ -68,7 +68,7 @@ Owns::Owned by
 
 </td><td>
 
-[[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\]
+IP Address \[cmdb\_ci\_ip\_address\]
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Computer \[cmdb\_ci\_computer\]
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -161,7 +161,3 @@ The following attributes in the Software Instance \[cmdb\_software\_instance\] t
 |------------|-----------------|-----------|
 |Software Instance \[cmdb\_software\_instance\]|Reference|Computer \[cmdb\_ci\_computer\]|
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[reference|Reference]]

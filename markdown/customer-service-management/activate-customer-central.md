@@ -12,11 +12,11 @@ breadcrumb: [Configure Customer Central, Agent tools, Organize agent workspaces,
 
 # Activate Customer Central
 
-Activate the Customer Central plugin to [[use-customer-central|use Customer Central]].
+Activate the Customer Central plugin to use Customer Central.
 
 ## About this task
 
-Starting with the Yokohama release, the [[customer-central|Customer Central]] application \(com.sn\_csm\_customer\_central\) is activated with the [[csm-workspaces-configure|CSM Configurable Workspace]] application \(com.snc.uib.csm\_agent\_workspace\). The CSM Configurable Workspace application is activated with the Customer Service plugin \(com.sn\_customerservice\).
+Starting with the Yokohama release, the [Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md) application \(com.sn\_csm\_customer\_central\) is activated with the CSM Configurable Workspace application \(com.snc.uib.csm\_agent\_workspace\). The CSM Configurable Workspace application is activated with the Customer Service plugin \(com.sn\_customerservice\).
 
 Starting with the Yokohama release, the Customer Central application \(com.sn\_csm\_customer\_central\) has moved to the ServiceNow Store.
 
@@ -32,11 +32,6 @@ Role required: admin
 
 3.  Select **Activate**.
 
-    **Note:** To use Customer Central demo data, activate the [[c_CustomerServiceManagement|Customer Service Management]] Demo Data \(com.snc.customerservice.demo\) plugin.
+    **Note:** To use Customer Central demo data, activate the Customer Service Management Demo Data \(com.snc.customerservice.demo\) plugin.
 
-## Related
 
-- [[customer-central|Customer Central]]
-- [[use-customer-central|Use Customer Central]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

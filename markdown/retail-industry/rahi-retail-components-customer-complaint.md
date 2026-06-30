@@ -12,7 +12,7 @@ breadcrumb: [Components installed with plugins, Reference, Retail]
 
 # Components installed with Retail customer complaint
 
-Certain roles and dependencies must be considered when using the [[rahi-retail-operations-overview|Retail]] customer complaint plugin.
+Certain roles and dependencies must be considered when using the Retail customer complaint plugin.
 
 ## Plugins installed with Retail customer complaint
 
@@ -36,7 +36,7 @@ Retail Customer Complaint
 
 </td><td>
 
-The [[rahi-retail-retail-customer-complaint|customer complaint case]] type helps manage and resolve customer feedback related to store experiences. This case type enables customers to submit complaints anonymously to encourage honest feedback and help stores improve their service. This case type is included in the Retail customer complaint plugin.
+The customer complaint case type helps manage and resolve customer feedback related to store experiences. This case type enables customers to submit complaints anonymously to encourage honest feedback and help stores improve their service. This case type is included in the Retail customer complaint plugin.
 
 </td><td>
 
@@ -84,10 +84,5 @@ Create, update, resolve, and manage retail complaint cases.
 -   sn\_customerservice\_manager
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-customer-complaint|Customer complaint case]]

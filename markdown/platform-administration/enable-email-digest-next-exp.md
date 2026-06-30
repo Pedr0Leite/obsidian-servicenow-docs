@@ -12,7 +12,7 @@ breadcrumb: [Email digests, Email and SMS notifications, System notifications, N
 
 # Enable email digest in Next Experience
 
-Reduce the number of email [[notifications|notifications]] you receive by enabling email digest notifications. An email digest is a single email that summarizes the activity for a selected notification and its target record during a specified time interval.
+Reduce the number of email notifications you receive by enabling email digest notifications. An email digest is a single email that summarizes the activity for a selected notification and its target record during a specified time interval.
 
 ## Before you begin
 
@@ -26,17 +26,12 @@ Notifications do not include the option to be received as an email digest by def
 
 1.  From the user profile, navigate to **Preferences** &gt; **Notifications** and then select **Advanced Preferences**.
 
-2.  Select **[[system-notifications-landing|System Notifications]]**.
+2.  Select **System Notifications**.
 
 3.  Expand the notification.
 
 4.  Enable **Email Digest** and select the digest interval in which you want to receive the notification communication.
 
 
-**Parent Topic:**[[email-digests|Email digests]]
+**Parent Topic:**[Email digests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digests.md)
 
-## Related
-
-- [[email-digests|Email digests]]
-- [[notifications|Notifications]]
-- [[system-notifications-landing|System notifications]]

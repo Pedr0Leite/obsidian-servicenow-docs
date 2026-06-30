@@ -14,7 +14,7 @@ breadcrumb: [Monitor a contract, Contracts, Contract Management use, Contract Ma
 
 # Run a contract report
 
-A variety of contract reports are available to help track and manage [[c_Contracts|contracts]].
+A variety of contract reports are available to help track and manage contracts.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: contract\_manager or admin
 
 **Parent Topic:**[Monitor a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_MonitoringContracts.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]

@@ -24,7 +24,7 @@ Role required: inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Inventory** &gt; **Stock** &gt; **[[c_Stockrooms|Stockrooms]]**.
+1.  Navigate to **All** &gt; **Inventory** &gt; **Stock** &gt; **Stockrooms**.
 
 2.  Select the check box beside the stockroom name.
 
@@ -35,6 +35,3 @@ Role required: inventory\_admin
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]

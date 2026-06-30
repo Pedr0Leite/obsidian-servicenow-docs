@@ -20,7 +20,7 @@ Role required: snc\_external
 
 ## About this task
 
-A registration request or a change request may require approval from another employee within the same organization. For details on registration request, see [[c_PortalSelfRegistration|Customer contact self-registration]].
+A registration request or a change request may require approval from another employee within the same organization. For details on registration request, see [Customer contact self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_PortalSelfRegistration.md).
 
 ## Procedure
 
@@ -37,13 +37,9 @@ A registration request or a change request may require approval from another emp
     The system makes the following updates:
 
     -   The record status is set to **Approved**.
-    -   The record status is displayed after the record number in the Related Records widget on the [[r_CustomerServiceCaseForm|Case form]].
+    -   The record status is displayed after the record number in the Related Records widget on the Case form.
     -   The record status is added to the Case form.
         -   If the record is approved by the customer administrator or if the customer self-approves the request, the change in status is added to the **Additional comments** field.
         -   For other approvers, the change in status is added to the **Work notes** field.
     -   The approval record is updated in the Approval table.
 
-## Related
-
-- [[c_PortalSelfRegistration|Customer contact self-registration]]
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the left of the page, select the External data integration icon \( \[Omitted image "ext-dataset-modules.png"\] Alt text: External data integration icon\).
 
@@ -59,6 +59,3 @@ Role required: sn\_process\_mining\_admin
 
 **Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/external-dataset.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]

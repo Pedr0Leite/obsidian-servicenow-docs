@@ -14,7 +14,7 @@ breadcrumb: [Task Mining, Platform Analytics]
 
 # Task Mining Reference
 
-Reference topics provide additional information about the terms, forms, and concepts that you use for [[task-mining|Task Mining]].
+Reference topics provide additional information about the terms, forms, and concepts that you use for Task Mining.
 
 -   **[Components installed with Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/installed-with-task-mining.md)**  
 Several types of components are installed with the Task Mining application, including tables, user roles, and scheduled jobs.
@@ -31,6 +31,3 @@ Modify configuration records to set up Task Mining. Configuration records can be
 
 **Parent Topic:**[Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]

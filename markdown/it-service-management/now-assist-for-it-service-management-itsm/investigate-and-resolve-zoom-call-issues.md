@@ -36,7 +36,7 @@ The Now Assist for Zoom Call Issues analyzes Zoom telemetry, including audio, vi
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-devices-tab|Devices]] icon \[Omitted image "icon-devices.png"\].
+2.  In the primary navigation pane, select the Devices icon \[Omitted image "icon-devices.png"\].
 
 3.  Select a device.
 
@@ -78,6 +78,3 @@ The Now Assist for Zoom Call Issues analyzes Zoom telemetry, including audio, vi
 
 Use the Zoom calls data and AI-generated insights to resolve performance issues and improve the end-user experience.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

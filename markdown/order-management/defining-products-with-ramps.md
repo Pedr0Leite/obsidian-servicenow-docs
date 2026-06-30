@@ -18,9 +18,9 @@ Price and quantity ramps enable sales agents to set incremental increases in pro
 
 Different product adoption scenarios by customers can affect product pricing and quantities for subscription products or products under contract. For example, customers might want to scale their purchases over time, based on product use that increases annually as the company grows. Changes to products in subscriptions or contracts, such as changes to product characteristics or quantity, can cause pricing or quantity increases that must be applied.
 
-Ramps provide a flexible pricing structure for sales agents to schedule pricing and quantity increases over specific time periods, called ramp segments. During the quote process, sales agents can create ramps for [[configurable-products-explore|configurable products]].
+Ramps provide a flexible pricing structure for sales agents to schedule pricing and quantity increases over specific time periods, called ramp segments. During the quote process, sales agents can create ramps for configurable products.
 
-**Note:** Products that can have ramps must have the **Price method** set to Recurring and the **Enable ramps** option selected. Your product catalog admin [[cpq-sets|sets]] those options when [[som-create-product-offering|creating a product offering]].
+**Note:** Products that can have ramps must have the **Price method** set to Recurring and the **Enable ramps** option selected. Your product catalog admin sets those options when [creating a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md).
 
 Ramps can be defined using yearly, quarterly, or custom structures. Yearly and quarterly ramps generate ramp segments automatically based on the selected term and frequency. Custom ramps allow agents to define ramp segments with flexible durations, rather than relying on automatically generated segments.
 
@@ -59,10 +59,10 @@ Ramps have certain limitations.
 
 -   Ramps aren't supported for these features:
     -   Quotes of types sale agreement
-    -   [[multiple-child-offering-configurations|Multiple configurations]]
+    -   Multiple configurations
     -   Product inventory \(not applicable\)
--   Ramps for order lines are displayed, but order changes to ramps by order agents aren't supported. [[explore-order-management|Order Management]] supports viewing price and quantity ramps on order line items to provide visibility into planned pricing and quantity changes over time. All ramp creation and management is performed in [[quote-management|Quote Management]].
--   Ramps for sold products \(SP\) are displayed just like any other line, but [[Modify|Modify]], Add, Change, Delete \(MACD\) operations aren't supported for sold products.
+-   Ramps for order lines are displayed, but order changes to ramps by order agents aren't supported. Order Management supports viewing price and quantity ramps on order line items to provide visibility into planned pricing and quantity changes over time. All ramp creation and management is performed in Quote Management.
+-   Ramps for sold products \(SP\) are displayed just like any other line, but Modify, Add, Change, Delete \(MACD\) operations aren't supported for sold products.
 
 ## Setting up ramps
 
@@ -95,7 +95,7 @@ Product catalog admin
 
 </td></tr><tr><td>
 
-[[add-price-ramps-on-a-quote-line-item|Add price ramps on a quote line item]]
+[Add price ramps on a quote line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-price-ramps-on-a-quote-line-item.md)
 
 </td><td>
 
@@ -107,14 +107,3 @@ Sales agent
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[som-create-product-offering|Create product offerings]]
-- [[add-price-ramps-on-a-quote-line-item|Add price ramps on a quote line item]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-sets|Sets]]
-- [[multiple-child-offering-configurations|Multiple configurations]]
-- [[explore-order-management|Order management]]
-- [[quote-management|Quote Management]]
-- [[Modify|Modify]]

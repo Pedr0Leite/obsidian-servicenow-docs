@@ -16,7 +16,7 @@ breadcrumb: [Active Directory activity pack, Orchestration activity packs, Class
 
 The Reset AD User Password activity resets the password of a user account in Windows Active Directory.
 
-If the new password violates any Active Directory password requirements, such as length or character combinations, the reset activity fails and returns the appropriate error message. This error appears in the ECC Queue and when you point to the activity in the [[workflow-editor|Workflow Editor]].
+If the new password violates any Active Directory password requirements, such as length or character combinations, the reset activity fails and returns the appropriate error message. This error appears in the ECC Queue and when you point to the activity in the Workflow Editor.
 
 To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
@@ -79,6 +79,3 @@ Powershell command result.
 
 **Parent Topic:**[Active Directory activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

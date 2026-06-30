@@ -14,7 +14,7 @@ breadcrumb: [Rightsizing resources, Exploring Cloud Cost Management, Cloud Cost 
 
 # Rightsizing analysis for Microsoft Azure
 
-[[cloud-insights-landing-page|Cloud Cost Management]] uses an optimized Rightsizing process for each provider.
+Cloud Cost Management uses an optimized Rightsizing process for each provider.
 
 ## How Rightsizing analysis works for Microsoft Azure
 
@@ -22,6 +22,3 @@ The Azure Advisor service generates the recommendations that appear in the Right
 
 For details on how the values are generated, see the Azure Advisor documentation at [Microsoft Learn](https://docs.microsoft.com).
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

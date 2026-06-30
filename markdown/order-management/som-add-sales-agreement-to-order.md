@@ -28,7 +28,7 @@ A sales agreement is a contract to purchase a defined set of products and servic
 -   Agents can configure product bundles for orders.
 -   Agents can move quickly through the order process.
 
-See [[sales-agreement-mgmt-using|Using Sales Agreement Management]] and [[create-new-sales-agreement|Create a sales agreement]] to learn more about creating a sales agreement.
+See [Using Sales Agreement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-agreement-mgmt-using.md) and [Create a sales agreement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-sales-agreement.md) to learn more about creating a sales agreement.
 
 ## Procedure
 
@@ -51,19 +51,12 @@ See [[sales-agreement-mgmt-using|Using Sales Agreement Management]] and [[create
 
 ## What to do next
 
-[[som-add-products-services-to-orders|Add products or services to an order in Order Management]]
+[Add products or services to an order in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-add-products-services-to-orders.md)
 
 **Related topics**  
 
 
-[[sales-agreement-mgmt|Sales Agreement Management]]
+[Sales Agreement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-agreement-mgmt.md)
 
-[[configure-sales-agreement-mgmt|Configure Sales Agreement Management]]
+[Configure Sales Agreement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-agreement-mgmt.md)
 
-## Related
-
-- [[sales-agreement-mgmt-using|Using Sales Agreement Management]]
-- [[create-new-sales-agreement|Create a sales agreement]]
-- [[som-add-products-services-to-orders|Add products or services to an order in Order Management]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]
-- [[configure-sales-agreement-mgmt|Configure Sales Agreement Management]]

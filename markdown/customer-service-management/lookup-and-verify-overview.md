@@ -27,7 +27,7 @@ Agents can perform a type-ahead search across multiple configurable fields such 
 
 ## Plugins
 
-The lookup and verify feature is included with the Customer Service \(com.sn\_customerservice\) plugin. This plugin provides the configuration for contact and consumer lookup as well as **Lookup Contact** and **Lookup Consumer** UI actions that can be added to the interaction record in [[csm-workspaces-configure|CSM Configurable Workspace]].
+The lookup and verify feature is included with the Customer Service \(com.sn\_customerservice\) plugin. This plugin provides the configuration for contact and consumer lookup as well as **Lookup Contact** and **Lookup Consumer** UI actions that can be added to the interaction record in CSM Configurable Workspace.
 
 **Note:** These actions are not enabled by default. The workspace admin can enable these actions as part of the lookup and verify feature configuration.
 
@@ -73,9 +73,5 @@ The lookup and verify feature uses the following tables:
 **Related topics**  
 
 
-[[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
+[Look up and verify a contact or consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-verify-contact-consumer.md)
 
-## Related
-
-- [[lookup-verify-contact-consumer|Look up and verify a contact or consumer]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

@@ -52,8 +52,5 @@ Using the conversational interface, employees select items, fill out forms, subm
 
 ## Result
 
-The request submits through the conversational flow. The submitted request appears as a link in the chat response and in the **Everything Else** tab of [[emp-slate-inbox|Tasks and requests]]. Track status from either location and receive notifications when the status changes.
+The request submits through the conversational flow. The submitted request appears as a link in the chat response and in the **Everything Else** tab of Tasks and requests. Track status from either location and receive notifications when the status changes.
 
-## Related
-
-- [[emp-slate-inbox|Tasks and requests]]

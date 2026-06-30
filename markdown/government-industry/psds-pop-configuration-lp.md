@@ -145,8 +145,6 @@ Driver’s license – New Request
 
 25. Select **Save**.
 
-26. Verify the playbook content item you created displays under **Services** &gt; **Licenses/Permits** on the [[gsp-overview-public-sector|Government Service Portal]].
+26. Verify the playbook content item you created displays under **Services** &gt; **Licenses/Permits** on the Government Service Portal.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

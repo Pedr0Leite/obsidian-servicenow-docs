@@ -14,7 +14,7 @@ breadcrumb: [Reference, CMDB Workspace, Configuration Management Database \(CMDB
 
 # Class criteria in Cloud vs Non-cloud resources chart in CMDB Workspace
 
-The [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]] provides counts for several key classes. The chart uses different classes and relationship criteria for each class to determine which resources count as cloud and which count as non-cloud.
+The Cloud vs Non-cloud resources chart provides counts for several key classes. The chart uses different classes and relationship criteria for each class to determine which resources count as cloud and which count as non-cloud.
 
 The Cloud vs Non-cloud resources chart shows in the CI overview tile in the [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md).
 
@@ -162,6 +162,3 @@ N/A \(This table can never have non-cloud records\)
 </td></tr></tbody>
 </table>**Parent Topic:**[CMDB Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/reference-cmdb-workspace.md)
 
-## Related
-
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]

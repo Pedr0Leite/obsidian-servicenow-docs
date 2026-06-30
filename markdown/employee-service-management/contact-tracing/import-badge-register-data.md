@@ -24,7 +24,7 @@ Role required: sn\_imt\_tracing.badge\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Badge Management** &gt; **Badge Access Register**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Badge Management** &gt; **Badge Access Register**.
 
 2.  Click **Import Badge Data**.
 
@@ -64,6 +64,3 @@ Role required: sn\_imt\_tracing.badge\_manager
 
 [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

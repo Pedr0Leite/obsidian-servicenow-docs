@@ -14,13 +14,13 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Managing change requests across sites
 
-You can view, create, or edit the change requests that belong to your site or other sites by using the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] application. By viewing the change requests from other sites, you can implement similar changes at your site.
+You can view, create, or edit the change requests that belong to your site or other sites by using the Operational Technology Change Management application. By viewing the change requests from other sites, you can implement similar changes at your site.
 
 ## Change requests across sites overview
 
 If you have the sn\_ot\_change\_write role, you can do the following tasks:
 
--   View and edit the [[operational-technology-overview|Operational Technology]] \(OT\) change requests that are assigned to you or the change requests that belong to your site.
+-   View and edit the Operational Technology \(OT\) change requests that are assigned to you or the change requests that belong to your site.
 -   Create the OT change requests.
 -   View the OT change requests that belong to the other sites.
 
@@ -52,7 +52,7 @@ The following table describes the additional roles and permissions that you, as 
 
 ## Where to view or edit change requests
 
-The following OT change request lists are available in the Lists module on the [[industrial-workspace-for-operational-technology|Industrial Workspace]]:
+The following OT change request lists are available in the Lists module on the Industrial Workspace:
 
 -   Assigned to me: View and edit your assigned change records by navigating to **OT Change Requests** &gt; **Assigned to me**.
 -   Belong to my sites: View and edit the change records that belong to your sites by navigating to **OT Change Requests** &gt; **Belong to my sites**.
@@ -60,8 +60,3 @@ The following OT change request lists are available in the Lists module on the [
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

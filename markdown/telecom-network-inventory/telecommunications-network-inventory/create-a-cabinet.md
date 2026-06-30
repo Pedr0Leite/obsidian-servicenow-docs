@@ -14,7 +14,7 @@ breadcrumb: [Create and maintain racks and cabinets, Manually creating and revie
 
 # Create a cabinet
 
-Create a cabinet to add, organize equipment, and manage all assets. You can also [[edit-a-cabinet|edit a cabinet]] using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create a cabinet to add, organize equipment, and manage all assets. You can also edit a cabinet using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a cabinet record, it creates a corresponding configuration item 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Cabinet**.
 
@@ -57,8 +57,3 @@ Edit a cabinet to remove, add, or move the equipment from the selected cabinet. 
 
 [Edit a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-cabinet.md)
 
-## Related
-
-- [[edit-a-cabinet|Edit a cabinet]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

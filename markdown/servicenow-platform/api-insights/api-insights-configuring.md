@@ -14,7 +14,7 @@ breadcrumb: [API Insights, Configuration Management Database \(CMDB\), Configura
 
 # Configuring API Insights
 
-Complete the configuration tasks to start using the [[api-insights|API Insights]] workspace.
+Complete the configuration tasks to start using the API Insights workspace.
 
 ## Configuration overview
 
@@ -30,6 +30,4 @@ Complete the configuration tasks to start using the [[api-insights|API Insights]
 
     As an enterprise architect administrator with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role, configure API management workflows, including automating API actions and defining settings to monitor and organize APIs in API Insights.
 
-## Related
 
-- [[api-insights|API Insights]]

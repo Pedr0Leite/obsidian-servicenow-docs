@@ -13,7 +13,7 @@ breadcrumb: [Data sharing and processes, Now Assist Admin Settings, Exploring No
 
 # Assign the data steward role
 
-Select a data steward to make decisions about data sharing with ServiceNow in [[platform-now-assist-landing|Now Assist]] applications.
+Select a data steward to make decisions about data sharing with ServiceNow in Now Assist applications.
 
 ## Before you begin
 
@@ -21,9 +21,9 @@ Role required: sys\_admin
 
 ## About this task
 
-A data steward is responsible for determining whether [[ai-prompts|prompts]], inputs, and responses with generative AI in Now Assist applications on your instance are shared with ServiceNow.
+A data steward is responsible for determining whether prompts, inputs, and responses with generative AI in Now Assist applications on your instance are shared with ServiceNow.
 
-The ServiceNow customer data sharing program allows you to provide data to improve ServiceNow AI products. This data helps improve prediction accuracy, enhance user experience, tailor products to your business needs, and reduce hallucinations for your activated [[now-assist-skills|Now Assist skills]].
+The ServiceNow customer data sharing program allows you to provide data to improve ServiceNow AI products. This data helps improve prediction accuracy, enhance user experience, tailor products to your business needs, and reduce hallucinations for your activated Now Assist skills.
 
 The following steps explain how to assign a role to a specific user. Another option is to make a group, such as "AI Data Stewards," assign the role to the group, and then put the user in that group. See [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md) for more information.
 
@@ -42,11 +42,5 @@ The following steps explain how to assign a role to a specific user. Another opt
 
 Once the data steward has the correct role, they can review the data sharing information on the Now Assist Admin console in the **Settings** tab under **Data privacy and sharing** &gt; **Data sharing**.
 
-**Parent Topic:**[[now-assist-data-sharing-and-processes|Data sharing and processes]]
+**Parent Topic:**[Data sharing and processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-sharing-and-processes.md)
 
-## Related
-
-- [[now-assist-data-sharing-and-processes|Data sharing and processes]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]
-- [[now-assist-skills|Now Assist skills]]

@@ -28,7 +28,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **COE Security Diagnostics**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **COE Security Diagnostics**.
 
 <table id="table_jyp_n3v_13c"><thead><tr><th>
 
@@ -136,6 +136,3 @@ Result
 </table>
 **Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

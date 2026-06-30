@@ -26,7 +26,7 @@ You can view events assigned to a single person only. **View on calendar** is un
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select **Dispatcher Workspace**.
 
@@ -38,6 +38,4 @@ You can view events assigned to a single person only. **View on calendar** is un
 
     The agent that is assigned to the task or event is added to the **Added resources** section with the task that you selected highlighted.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

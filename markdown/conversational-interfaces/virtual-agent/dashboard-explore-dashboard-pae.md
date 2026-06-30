@@ -15,7 +15,7 @@ breadcrumb: [Conversational Analytics dashboard in Platform Analytics experience
 
 # Exploring the Conversational Analytics dashboard in Platform Analytics experience
 
-Use Conversational Analytics dashboard to improve [[virtual-agent-landing-page|Virtual Agent]] \(VA\) interactions with users. The dashboard provides insights into conversational data, and helps you refine topics and improve the deflection rate of VA.
+Use Conversational Analytics dashboard to improve Virtual Agent \(VA\) interactions with users. The dashboard provides insights into conversational data, and helps you refine topics and improve the deflection rate of VA.
 
 ## Conversational Analytics dashboard
 
@@ -28,7 +28,7 @@ Conversational Analytics dashboard provides insights into conversations so you c
 -   Conversation details using advanced filters
 -   How to optimize conversation design
 
-\[Omitted image "vaa-next-exp-overview-pae.png"\] Alt text: Virtual agent analytics [[overview-tab-pae|overview tab]]
+\[Omitted image "vaa-next-exp-overview-pae.png"\] Alt text: Virtual agent analytics overview tab
 
 ## Key features
 
@@ -57,7 +57,7 @@ The following sections provide a high-level overview of how to use each section 
 
     All data is continually pushed from Virtual Agent to the dashboard in real time, and retained for up to two years.
 
-    For information about setting the date range, see [[use-the-dashboad-pae|Set the date range of the data]].
+    For information about setting the date range, see Set the date range of the data.
 
     Certain data visualizations might not have data available for the start date and end date selected in the **Start date** and **End date** fields. In such cases, the indicator shows data for a start date and end date based on data availability within the selected date range.
 
@@ -75,7 +75,7 @@ The following sections provide a high-level overview of how to use each section 
     |Tab|Description|
     |---|-----------|
     |Overview|View the key indicators of the performance of VA.|
-    |Now Assist in VA|View key indicators to monitor the performance of [[now-assist-in-va-landing|Now Assist in Virtual Agent]]. This is visible only when Now Assist in Virtual Agent is enabled.|
+    |Now Assist in VA|View key indicators to monitor the performance of Now Assist in Virtual Agent. This is visible only when Now Assist in Virtual Agent is enabled.|
     |Usage|View VA conversation usage, for example, the language and conversation type. You can also drill down to the list of conversations of a certain language or conversation type.|
     |Conversations|View conversation details and troubleshoot individual conversations. Advanced filtering enables you to filter the list of conversations by conversation type, duration, user, and language.|
     |Users|View how your users are conversing with VA. Advanced filtering enables you to filter the list by user, channel, and last conversation.|
@@ -103,9 +103,3 @@ The following sections provide a high-level overview of how to use each section 
 
 **Parent Topic:**[Conversational Analytics dashboard in Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-dashboard-landing-page-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[overview-tab-pae|Overview tab]]
-- [[use-the-dashboad-pae|Set the date range of the data]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

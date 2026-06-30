@@ -15,7 +15,7 @@ breadcrumb: [Strategy Accelerators, Accelerator catalog, View the Initiatives an
 
 # OCM: Preparing for Change
 
-This accelerator provides [[impact-landing-page|Impact]] customers with structured coaching and proven frameworks to build change readiness and ensure successful user adoption ahead of go-live during ServiceNow transformations.
+This accelerator provides Impact customers with structured coaching and proven frameworks to build change readiness and ensure successful user adoption ahead of go-live during ServiceNow transformations.
 
 ## Accelerator Overview
 
@@ -33,7 +33,7 @@ Includes the following CSE-led sessions and activities, as applicable \(up to 1.
     -   Set expectations on the process and depth of deliverables
     -   Confirm participant roles and establish the foundation for the engagement
 -   **Organizational Readiness Assessment &amp; Success Criteria**
-    -   An 11-question diagnostic of your organization's change readiness — covering leadership alignment, communication maturity, prior change experience, and resource [[io-availability|availability]]
+    -   An 11-question diagnostic of your organization's change readiness — covering leadership alignment, communication maturity, prior change experience, and resource availability
     -   Identify risk areas and prioritize focus preparation where it matters most
     -   Define Change vision with measurable success criteria and name KPI owners
 -   **Executive Sponsor Activation**
@@ -105,7 +105,3 @@ Includes the following CSE-led sessions and activities, as applicable \(up to 1.
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-availability|Availability]]

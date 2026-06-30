@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Service Graph Connector for Microsoft Excel, Servic
 
 # Review the system properties used by the Service Graph Connector for Microsoft Excel
 
-As an OT Admin or CMDB Integration Admin, view system properties related to the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]].
+As an OT Admin or CMDB Integration Admin, view system properties related to the Service Graph Connector for Microsoft Excel.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: cmdb\_ot\_admin or cmdb\_inst\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Manager Admin** &gt; **Import OT Devices - System Properties**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Manager Admin** &gt; **Import OT Devices - System Properties**.
 
     The list shows records whose names begin with **sn\_otsm\_sgc.excel**.
 
@@ -97,7 +97,3 @@ sn\_otsm\_sgc.enable.cmdb.validations
 </table>
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

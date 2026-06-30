@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Next-Generation Fortinet Network Firewall SNMP-based discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Next Generation Fortinet Network Firewall pattern to find Fortinet firewalls through a series of SNMP calls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Next Generation Fortinet Network Firewall pattern to find Fortinet firewalls through a series of SNMP calls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The Next Generation Fortinet Network Firewall pattern uses a set of SNMP calls to find the Fortinet firewalls. Discovery uses the pattern to run horizontal discovery.
 
@@ -108,7 +108,7 @@ Discovery populates the data in the CMDB when running the Next Generation Fortin
 |Name \[name\]|Name of the Domain Name System \(DNS\).|
 |IP Address \[ip\_address\]|IP address of the DNS.|
 
-This [[dependency-views-map|Dependency Views map]] on the Fortinet Firewall Device CI shows the Fortinet Firewall Cluster to which it belongs.
+This Dependency Views map on the Fortinet Firewall Device CI shows the Fortinet Firewall Cluster to which it belongs.
 
 \[Omitted image "fortinet-fw-dependency-views.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -133,8 +133,3 @@ The Next Generation Fortinet Network Firewall pattern creates the following rela
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

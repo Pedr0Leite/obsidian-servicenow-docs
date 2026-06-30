@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce scoped ACL access for information request playbooks \[New in Security Center 1.3 and updated in 1.5\]
 
-Use the **glide.enforce\_security\_scope.sn\_gsm\_info\_req** property to control access to playbook data for the Information [[c_requestAPI|Request]] playbooks feature.
+Use the **glide.enforce\_security\_scope.sn\_gsm\_info\_req** property to control access to playbook data for the Information Request playbooks feature.
 
-The Information Request Playbook application enables public sector end [[users|users]] to submit and track public record requests and provides government agents with a pre-defined process for handling and resolving these requests. If **glide.enforce\_security\_scope.sn\_gsm\_info\_req** is not set to true, unexpected access could be granted to playbook data for the Information Request playbooks application. Set this property to true to only consider ACLs from the sn\_gsm\_info\_req scope when granting access.
+The Information Request Playbook application enables public sector end users to submit and track public record requests and provides government agents with a pre-defined process for handling and resolving these requests. If **glide.enforce\_security\_scope.sn\_gsm\_info\_req** is not set to true, unexpected access could be granted to playbook data for the Information Request playbooks application. Set this property to true to only consider ACLs from the sn\_gsm\_info\_req scope when granting access.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -106,9 +106,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

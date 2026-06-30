@@ -14,15 +14,15 @@ breadcrumb: [Manage, Workplace Space Management, Workplace Service Delivery, Emp
 
 # Create a Space Recommender rule
 
-Define a space recommender rule using which the qualifying spaces must be calculated when a user raises a [[space-assistance|space assistance]] request using [[workplace-services-portal-hr|Workplace Service Portal]]. You must have [[workplace-central-feat|Workplace Central]] plugin.
+Define a space recommender rule using which the qualifying spaces must be calculated when a user raises a space assistance request using Workplace Service Portal. You must have Workplace Central plugin.
 
 ## Before you begin
 
 Ensure the following:
 
 -   Workplace Central plugin is installed.
--   [[workplace-case-mgmt-feat|Workplace Case Management]] is installed.
--   [[workplace-safety-mgmt-hr|Workplace Core]] is installed.
+-   Workplace Case Management is installed.
+-   Workplace Core is installed.
 
 Role required: sn\_wsd\_core.admin
 
@@ -184,10 +184,3 @@ Add rules to a space recommender rule set based on which qualifying spaces must 
 
 [Reviewing allocation changes]()
 
-## Related
-
-- [[space-assistance|Space assistance]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

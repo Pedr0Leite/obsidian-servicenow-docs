@@ -27,11 +27,11 @@ The map uses icons to display:
 -   Assignment group locations
 -   Task locations
 -   Event locations
--   Personal event locations when [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is enabled
+-   Personal event locations when Workforce Optimization for Field Service is enabled
 
 |Icon|Description|
 |----|-----------|
-|\[Omitted image "agent-location.png"\] Alt text: [[c_AgentLocation|Agent location]] marker.|An agent's location.|
+|\[Omitted image "agent-location.png"\] Alt text: Agent location marker.|An agent's location.|
 |\[Omitted image "agent-at-home.png"\] Alt text: Agent home location.|The agent is at their home location.|
 |\[Omitted image "multiple-agents.png"\] Alt text: Multiple agents marker.|Multiple agents are at this location.|
 |\[Omitted image "assigned.png"\] Alt text: Assigned map marker.|A task is accepted, assigned, or scheduled.|
@@ -57,7 +57,3 @@ The map uses icons to display:
 |\[Omitted image "personal-event.png"\] Alt text: Personal event|Indicates the location that a meeting or training personal event is located.|
 |\[Omitted image "colocated-event.png"\] Alt text: co-located event|Indicates the location that more than one meeting or training personal event is located.|
 
-## Related
-
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[c_AgentLocation|Agent location]]

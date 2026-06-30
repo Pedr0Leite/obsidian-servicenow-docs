@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Configure encryption keys on the instance
 
-[[edge-encryption|Edge Encryption]] provides the tools to manage [[encryption-landing|encryption]] keys without taking the proxy offline.
+Edge Encryption provides the tools to manage encryption keys without taking the proxy offline.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Key aliases must be unique. Each key alias must have the same key size and type 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Edge Encryption [[sc-configuration|Configuration]]** &gt; **Encryption Key Configuration** &gt; **Set Up Keys**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Encryption Key Configuration** &gt; **Set Up Keys**.
 
 2.  On the Add New Keys section of the form, complete the following steps to add a new key.
 
@@ -97,8 +97,3 @@ Key aliases must be unique. Each key alias must have the same key size and type 
 
 **Next topic:**[Configure additional properties in the Edge Encryption properties file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-props.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

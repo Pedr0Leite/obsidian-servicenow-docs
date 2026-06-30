@@ -22,7 +22,7 @@ A simple text string is the most basic example of the way a mail script works. T
 template.print("Incident number - "+ current.number);
 ```
 
-More advanced scripts, like this one, can be found by browsing through the base system [[c_EmailTemplates|email templates]].
+More advanced scripts, like this one, can be found by browsing through the base system email templates.
 
 ```
 template.print("Summary of Requested items:<br />");  
@@ -87,7 +87,7 @@ if(!current.watch_list.nil()){
       email.addAddress("cc", user.email, user.getDisplayValue());}}
 ```
 
-**Parent Topic:**[[c_ScriptingForEmailNotifications|Scripting for email notifications]]
+**Parent Topic:**[Scripting for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
@@ -102,7 +102,3 @@ if(!current.watch_list.nil()){
 
 [GlideEmailOutbound API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideEmailOutboundScopedAPI.md)
 
-## Related
-
-- [[c_ScriptingForEmailNotifications|Scripting for email notifications]]
-- [[c_EmailTemplates|Email templates]]

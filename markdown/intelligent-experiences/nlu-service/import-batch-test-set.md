@@ -18,8 +18,8 @@ To create or add to an NLU test set, you can upload a file of test utterances ma
 
 ## Before you begin
 
--   Ensure that the NLU Workbench - Core plugin, NLU Workbench plugin, [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] plugin and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated
--   You can use test sets with [[nlu-models|NLU models]] for Virtual Agent and AI Search.
+-   Ensure that the NLU Workbench - Core plugin, NLU Workbench plugin, NLU Workbench - Advanced Features plugin and Predictive Intelligence plugin are all installed and activated
+-   You can use test sets with NLU models for Virtual Agent and AI Search.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The editor must be assigned to the model.
 
 ## About this task
@@ -45,7 +45,7 @@ Aim to include about 10% of test utterances with no expected intents. Including 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **NLU Workbench** &gt; **NLU Advanced Features** &gt; **[[batch-testing-nlu|Multi-model Batch Testing]]**.
+1.  Navigate to **All** &gt; **NLU Workbench** &gt; **NLU Advanced Features** &gt; **Multi-model Batch Testing**.
 
 2.  Click **Test sets**
 
@@ -78,9 +78,3 @@ Select a CSV or XLSX \(Excel Workbook\) file with your additional utterances to 
 
 Click **Import**. The system adds your utterances to the test set. After importing, rerun any tests that use the test set.
 
-## Related
-
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[nlu-models|NLU models]]
-- [[batch-testing-nlu|Multi-model Batch Testing]]

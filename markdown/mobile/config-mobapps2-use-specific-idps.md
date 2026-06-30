@@ -83,8 +83,5 @@ Open the mobile app on a mobile device and select the instance. You should be re
 
 **Note:** If **login\_locate\_sso.do** was saved as the Login URL and no default IdP is configured or the **sso\_source** for the user isn’t set, then an error displays when the user name is entered. This behavior is similar to web UI behavior.
 
-**Parent Topic:**[[mobile-authentication|Mobile authentication]]
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-authentication.md)
 
-## Related
-
-- [[mobile-authentication|Mobile authentication]]

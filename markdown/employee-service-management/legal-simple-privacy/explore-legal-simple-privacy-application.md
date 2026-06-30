@@ -14,14 +14,14 @@ breadcrumb: [Legal Simple Privacy, Legal Service Delivery Practice Applications,
 
 # Explore Legal Simple Privacy
 
-The ServiceNow® [[legal-simple-privacy-landing-page|Legal Simple Privacy]] provides a mechanism to raise a request for a privacy assessment to resolve privacy-related concerns.
+The ServiceNow® Legal Simple Privacy provides a mechanism to raise a request for a privacy assessment to resolve privacy-related concerns.
 
 ## Features
 
 The features of this application include:
 
 -   The ability to submit a request for privacy assessment.
--   Tracking of [[privacy-assessment-requests|privacy assessment requests]].
+-   Tracking of privacy assessment requests.
 
 ## Benefits
 
@@ -32,7 +32,3 @@ The benefits of this application include:
 
 **Parent Topic:**[Legal Simple Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-landing-page.md)
 
-## Related
-
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]
-- [[privacy-assessment-requests|Privacy assessment requests]]

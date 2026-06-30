@@ -27,10 +27,7 @@ For an interaction, ensure that related records of a requester are displayed as 
 -   **[ITSM Configurable Workspace chat session tabs in SOW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-itsm-workspace-chat-session-tabs.md)**  
 Use visual indicators on chat session tabs, such as colors and icons, to alert agents about unread messages and SLA threshold timers.
 -   **[ITSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/itsm-native-voice-record-page.md)**  
-The [[itsm-native-voice-record-page|ITSM voice interaction record page]] provides a component that customers can use for integration with Contact Center as a Service \(CCaaS\) providers and an interface that agents can use to handle customer phone calls.
+The ITSM voice interaction record page provides a component that customers can use for integration with Contact Center as a Service \(CCaaS\) providers and an interface that agents can use to handle customer phone calls.
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-sow-to-improve-experience.md)
 
-## Related
-
-- [[itsm-native-voice-record-page|ITSM voice interaction record page]]

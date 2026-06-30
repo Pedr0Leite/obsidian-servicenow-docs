@@ -14,10 +14,10 @@ breadcrumb: [Employee Service Management]
 
 Legal and Contract Operations empowers organizations to accelerate the delivery of legal and contract services by transforming manual, unstructured processes into a seamless digital experience.
 
-Through [[legal-management-overview|Legal Service Delivery]] \(LSD\) and [[cncore-cmpro-landing-page|Contract Management Pro]] \(CM Pro\) of Legal and Contract Operations, transform fragmented and manual legal and contract processes into efficient and structured workflow. By replacing fragmented, manual processes with centralized request handling, automated workflows, and intuitive self-service, empower teams to operate with greater speed, precision, and agility.
+Through Legal Service Delivery \(LSD\) and Contract Management Pro \(CM Pro\) of Legal and Contract Operations, transform fragmented and manual legal and contract processes into efficient and structured workflow. By replacing fragmented, manual processes with centralized request handling, automated workflows, and intuitive self-service, empower teams to operate with greater speed, precision, and agility.
 
 -   Legal Service Delivery provides a unified experience between the employees requesting legal support and the legal teams serving them.
--   Contract Management Pro solution enables you to set up contract [[document-templates-overview|document templates]], clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
+-   Contract Management Pro solution enables you to set up contract document templates, clauses, and clause variations, and to initiate contract and amendmentrequests. It also supports Now Assist driven contract analysis and metadata extraction, e-signatures, wet signatures, and external storage systems.
 
 \[Omitted image "MMASSET0021500\_LCO.png"\] Alt text: Overview image of Legal and Contract Operations displaying the various components of Legal Service Delivery and Contract Management Pro.
 
@@ -40,13 +40,8 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     Connect with other Legal and Contract Operations users at [ServiceNow Community](https://www.servicenow.com/community/legal-service-delivery/ct-p/legal-service-delivery).
 
--   **\[Omitted image "dcx-icon-[[exploring-learning-exp|learning]].svg"\] ServiceNow University**
+-   **\[Omitted image "dcx-icon-learning.svg"\] ServiceNow University**
 
     Access real-time courses, self-paced training, and career resources, such as [Legal Service Delivery \(LSD\) Essentials](https://learning.servicenow.com/lxp/en/legal-service-delivery/legal-service-delivery-lsd-essentials-tokyo?id=learning_course_prev&course_id=9dbcfc34974b8a10524eb3cf9153affb) and more, from [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow).
 
-## Related
 
-- [[legal-management-overview|Legal Service Delivery]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[document-templates-overview|Document Templates]]
-- [[exploring-learning-exp|Learning]]

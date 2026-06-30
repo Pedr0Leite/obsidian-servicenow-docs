@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Context Variable form
 
-Use the [[context-variable-form|Context Variable form]] to [[create-context-variable-for-a-target-source-apw|create a context variable for a target source]] for calculating the actual value of the target based on the configured input values.
+Use the Context Variable form to create a context variable for a target source for calculating the actual value of the target based on the configured input values.
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -62,7 +62,7 @@ ID of the context variable for which the context variable type is created.
 
 </td><td>
 
-Option to display the context variables on the [[target-form|Target form]] in the Actual Value Source Configuration section.
+Option to display the context variables on the Target form in the Actual Value Source Configuration section.
 
 </td></tr><tr><td>
 
@@ -75,8 +75,3 @@ Default value to consider for updating the actual value of the target.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[context-variable-form|Context Variable form]]
-- [[create-context-variable-for-a-target-source-apw|Create a context variable for a target source]]
-- [[target-form|Target form]]

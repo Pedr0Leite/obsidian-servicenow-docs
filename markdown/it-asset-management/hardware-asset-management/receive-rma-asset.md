@@ -20,12 +20,12 @@ After the shipment of the asset to the DaaS provider is complete, confirm the re
 
 Role required: sn\_daas\_ham.daas\_asset\_manager or inventory\_user
 
--   Install the [[ham-landing-page|Hardware Asset Management]] for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+-   Install the Hardware Asset Management for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 -   Install the Hardware Asset Management application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **DaaS provider** view.
 
@@ -170,7 +170,3 @@ Unique number for the Receive task.
 
 [Evaluate the RMA asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/evaluate-rma-asset.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

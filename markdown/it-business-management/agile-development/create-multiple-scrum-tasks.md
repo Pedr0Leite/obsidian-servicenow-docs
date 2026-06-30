@@ -14,7 +14,7 @@ breadcrumb: [Create a scrum task for Agile Development 2.0 stories, Managing you
 
 # Create multiple scrum tasks for stories in Agile Development 2.0
 
-For your [[agile-landing-page|Agile Development 2.0]] stories, create batches of different types of scrum tasks at a time, to save time.
+For your Agile Development 2.0 stories, create batches of different types of scrum tasks at a time, to save time.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Select a story that need scrum tasks and create all these tasks together. You ca
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Stories**
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Stories**
 
 2.  Right-click a story number and select **Add Scrum Tasks**.
 
@@ -49,7 +49,3 @@ Open each scrum task record and fill in more details such as description, priori
 
 **Parent Topic:**[Create a scrum task for Agile Development 2.0 stories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-scrum-task.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

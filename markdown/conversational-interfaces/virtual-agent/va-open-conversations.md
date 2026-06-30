@@ -14,7 +14,7 @@ breadcrumb: [Using Virtual Agent with a live agent, Build and deploy, Virtual Ag
 
 # Closing Virtual Agent and Agent Chat conversations
 
-[[virtual-agent-landing-page|Virtual Agent]] and [[ci-use-agent-chat|Agent Chat]] conversations that are abandoned by requesters remain open until they are automatically closed by the scheduled job, **Time Out Abandoned VA Conversations**. This job runs hourly each day.
+Virtual Agent and Agent Chat conversations that are abandoned by requesters remain open until they are automatically closed by the scheduled job, **Time Out Abandoned VA Conversations**. This job runs hourly each day.
 
 The default timeout period for abandoned Virtual Agent and live agent conversations is two hours \(7200 seconds\). The **Time Out Abandoned VA Conversations** job runs hourly to find and close any conversations that have been open longer than the default \(or configured\) timeout period.
 
@@ -109,7 +109,3 @@ To change the time that this hourly scheduled job runs or to make other adjustme
 
 **Parent Topic:**[Using Virtual Agent with a live agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-va-agent-chat.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

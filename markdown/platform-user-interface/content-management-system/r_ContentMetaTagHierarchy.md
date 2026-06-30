@@ -14,13 +14,13 @@ breadcrumb: [Content Management meta tags, Configure Content Management sites, C
 
 # Content meta tag hierarchy
 
-Page and site level meta [[c_Tags|tags]] are included in a content meta tag hierarchy.
+Page and site level meta tags are included in a content meta tag hierarchy.
 
 ## Site and page level tags
 
 CMS supports page level and site level tags. The system behavior is to show the sum of all page level and site level tags. For example, if you have two tags on the site and one tag on the page, all with different names, you see three tags on the page. Two are from the site and one is from the page. If both the site and the page have a tag of the same name, only the page tag is used.
 
-**Note:** The [[c_ContentManagementSystem|Content Management System]] does not support some commonly used meta tags. For example, you cannot use the X-UA-Compatible meta tag, which allows you to specify which version of Internet Explorer a site should be rendered in.
+**Note:** The Content Management System does not support some commonly used meta tags. For example, you cannot use the X-UA-Compatible meta tag, which allows you to specify which version of Internet Explorer a site should be rendered in.
 
 ## Example: all tags have unique names
 
@@ -63,7 +63,3 @@ dinner       steak
 
 **Parent Topic:**[Content Management meta tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementMetaTags.md)
 
-## Related
-
-- [[c_Tags|Tags]]
-- [[c_ContentManagementSystem|Content Management System]]

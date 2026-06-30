@@ -15,7 +15,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # Task import into CWM Boards using Now Assist
 
-Save time and effort by importing tasks or stories from a spreadsheet or document into a [[cwm-landing|Collaborative Work Management]] Board. Now Assist proposes column mapping so you can bring existing work onto a Board without manually recreating each row.
+Save time and effort by importing tasks or stories from a spreadsheet or document into a Collaborative Work Management Board. Now Assist proposes column mapping so you can bring existing work onto a Board without manually recreating each row.
 
 Teams migrating to CWM from external task tracking tools often have months of structured work already documented in spreadsheets or documents. Recreating that work manually on a CWM Board is time-consuming and error-prone.
 
@@ -106,6 +106,3 @@ The available target columns in the mapping step depend on the record type that 
 
 [Import existing tasks into a CWM Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/import-tasks-cwm-board.md).
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

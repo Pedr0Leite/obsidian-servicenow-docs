@@ -14,11 +14,11 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 # Prevent Reuse of REST API Sessions in UI/Web
 
-Prevent REST API session cookies from bypassing Single Sign-On \(SSO\) and [[mfa-landing|Multi-Factor Authentication]] \(MFA\) controls using a system property.
+Prevent REST API session cookies from bypassing Single Sign-On \(SSO\) and Multi-Factor Authentication \(MFA\) controls using a system property.
 
 Use the **com.glide.processors.aprocessor.donot\_reuse\_api\_session** to help prevent the cookies associated with the session created through the REST API from being reused to initiate UI/web sessions.
 
-Verify that **com.glide.processors.aprocessor.donot\_reuse\_api\_session** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to `true`.
+Verify that **com.glide.processors.aprocessor.donot\_reuse\_api\_session** exists in the System Properties \[sys\_properties\] table and is set to `true`.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -105,13 +105,13 @@ Functional impact
 When **com.glide.processors.aprocessor.donot\_reuse\_api\_session** is set to true:
 
  -   API session cookies can no longer be reused to initiate web sessions.
--   All web sessions require full [[c_Authentication|authentication]] \(SSO/MFA\), regardless of any existing API session.
+-   All web sessions require full authentication \(SSO/MFA\), regardless of any existing API session.
 
  Potential Breakage:
 
  -   Custom integrations, scripts, or legacy workflows that relied on the ability to transition from an API session to a web session without re-authentication will fail.
 -   Automated processes or tools that previously bypassed SSO/MFA using API session cookies are forced to complete the full authentication flow.
--   [[users|Users]] may experience unexpected authentication prompts if their workflows were implicitly relying on this behavior.
+-   Users may experience unexpected authentication prompts if their workflows were implicitly relying on this behavior.
 
  Before enabling, customers should review integrations and customizations:
 
@@ -129,10 +129,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

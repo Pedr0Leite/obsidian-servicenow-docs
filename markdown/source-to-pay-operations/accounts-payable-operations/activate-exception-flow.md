@@ -15,7 +15,7 @@ breadcrumb: [Invoice exceptions, Using Accounts Payable Invoice Processing, Use,
 
 # Activate the Exceptions Monitoring Scheduler
 
-Activate the **Exception Monitoring Scheduler** to run the exception engine on a regular schedule to identify [[work-with-invoice-exceptions|invoice exceptions]].
+Activate the **Exception Monitoring Scheduler** to run the exception engine on a regular schedule to identify invoice exceptions.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ The default automatically runs every 5 minutes after you activate it.
 
 **Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-## Related
-
-- [[work-with-invoice-exceptions|Invoice exceptions]]

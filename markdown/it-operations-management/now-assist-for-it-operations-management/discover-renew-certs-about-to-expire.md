@@ -18,7 +18,7 @@ Use Now Assist to find out which certificates expire on a certain date or within
 
 ## Before you begin
 
-Complete the following steps to configure your system for the [[now-assist-cert-renewal-ai-agent|Now Assist certificate renewal AI agent]]:
+Complete the following steps to configure your system for the Now Assist certificate renewal AI agent:
 
 1.  [Configure the MID Server for automatic certificate renewal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/configure-mid-server-automatic-cert-renewal.md)
 2.  [Add the required applications and capabilities to your MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/add-req-apps-capabilities-to-mid-server.md)
@@ -42,6 +42,3 @@ Role required: sn\_disco\_certmgmt.pki\_admin
 
 Now Assist directs you to a list of certificates that expire between 1 May 2026 and 1 August 2026. Now Assist then asks you if you want to renew these certificates. Renew them all at once by selecting **yes**.
 
-## Related
-
-- [[now-assist-cert-renewal-ai-agent|Now Assist certificate renewal AI agent]]

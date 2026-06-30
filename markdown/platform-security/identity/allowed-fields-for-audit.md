@@ -14,7 +14,7 @@ breadcrumb: [Identity and Access Audit, Identity]
 
 # Supported and unsupported fields in Identity Access and Audit
 
-A list of fields that support [[c_AuditedTables|auditing]] and those that do not.
+A list of fields that support auditing and those that do not.
 
 Audit Fields Validation prevents some fields from being selected in the field\_list in the Security Field Audit Config \(sys\_sec\_field\_audit\_config\) table.
 
@@ -59,7 +59,7 @@ Fields that are supported:-   User
 Fields that aren't supported:-   Last Login \(last\_login\)
 -   Last Login Time \(last\_login\_time\)
 -   Last Login Device \(last\_login\_device\)
--   Enable [[mfa-landing|Multi-factor Authentication]] \(enable\_multifactor\_authn\)
+-   Enable Multi-factor Authentication \(enable\_multifactor\_authn\)
 -   Default Perspective \(default\_perspective\)
 -   Calendar Integration \(calendar\_integration\)
 -   Federated ID \(federated\_id\)
@@ -79,8 +79,3 @@ Fields that aren't supported:-   Last Login \(last\_login\)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_AuditedTables|Auditing]]
-- [[mfa-landing|Multi-factor authentication]]

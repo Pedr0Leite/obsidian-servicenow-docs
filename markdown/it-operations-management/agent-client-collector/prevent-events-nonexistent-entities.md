@@ -34,7 +34,7 @@ A process, service, or log does not exist when the following checks do not conta
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **Check Definitions**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **Check Definitions**.
 
 2.  Locate the check definition for which you want to block events.
 
@@ -47,6 +47,3 @@ A process, service, or log does not exist when the following checks do not conta
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

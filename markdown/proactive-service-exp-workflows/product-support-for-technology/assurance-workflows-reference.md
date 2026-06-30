@@ -14,7 +14,7 @@ breadcrumb: [Proactive Service Experience Workflows, Product Support for Technol
 
 # Product Support for Technology reference
 
-Reference topics provide additional information about [[psew-landing-page|Proactive Service Experience Workflows]].
+Reference topics provide additional information about Proactive Service Experience Workflows.
 
 -   **[Domain separation and Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/domain-separation-assurance-workflows.md)**  
 Domain separation is supported for Proactive Service Experience Workflows. With Proactive Service Experience Workflows, you can quickly restore normal service operation when network-initiated incidents occur and proactively identify and notify the customers that are impacted by those incidents. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
@@ -25,6 +25,3 @@ Learn about the terms and concepts that are unique to Proactive Service Experien
 
 **Parent Topic:**[Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-landing-page.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

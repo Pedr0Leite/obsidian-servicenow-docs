@@ -50,7 +50,7 @@ Safety operations manager
 
 </td><td>
 
-Accesses [[health-safety-overview|Health and Safety]] operations landing page to report safety incidents and observations.
+Accesses Health and Safety operations landing page to report safety incidents and observations.
 
 </td></tr><tr><td>
 
@@ -92,19 +92,13 @@ On the workspace landing page, the Health and Safety dashboard gives a quick ove
 
 **Note:** The widgets and the data that are displayed in the widgets depend on your role.
 
-The following is an example of the workspace landing page for the [[hs-core-landing|Health and Safety Core]] where the [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] application is installed.
+The following is an example of the workspace landing page for the Health and Safety Core where the Health and Safety Incident Management application is installed.
 
 \[Omitted image "health-safety-core-landing.png"\] Alt text: health and safety core landing page
 
 ## Primary navigation
 
-The primary navigation displays icons for the installed Health and Safety applications. Clicking on these icons takes you to the list view for each application. For example, if you have the [[hs-risk-management-landing-page|Health and Safety risk management]] application installed, then you can view the risk related records by clicking the **Risk management** icon \[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon.
+The primary navigation displays icons for the installed Health and Safety applications. Clicking on these icons takes you to the list view for each application. For example, if you have the Health and Safety risk management application installed, then you can view the risk related records by clicking the **Risk management** icon \[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon.
 
 \[Omitted image "health-safety-core-list-view.png"\] Alt text: health and safety core list view
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]

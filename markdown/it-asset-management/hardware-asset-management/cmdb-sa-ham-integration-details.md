@@ -49,8 +49,6 @@ The **Data integrations** tab displays two key data sources that support HAM:
     |Active connections|Represents the number of connections actively importing data into the CMDB.|
     |Inactive connections|Displays connections that are configured but not currently importing data and may need troubleshooting.|
 
-    If a Service Graph Connector shows low attribute coverage or no active connections, it may indicate that the specific version being evaluated has limited attribute coverage. This can happen if the connector is installed but not fully mapped to populate key attributes or if the data source is unavailable or misconfigured. As a result, critical hardware data, such as serial numbers, [[c_Models|models]], or manufacturers, may not be imported into the CMDB, affecting the completeness and reliability of asset records.
+    If a Service Graph Connector shows low attribute coverage or no active connections, it may indicate that the specific version being evaluated has limited attribute coverage. This can happen if the connector is installed but not fully mapped to populate key attributes or if the data source is unavailable or misconfigured. As a result, critical hardware data, such as serial numbers, models, or manufacturers, may not be imported into the CMDB, affecting the completeness and reliability of asset records.
 
-## Related
 
-- [[c_Models|Models]]

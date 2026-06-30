@@ -19,7 +19,7 @@ Use Now Assist to generate themes from your brand image or brand guidelines. Thi
 This feature requires:
 
 -   Now Assist for Creator installed. See 
--   A theme creation workflow enabled in AI Agent Studio. See [[turn-on-theme-creation-workflow|Turn on theme creation workflow for use in the Now Assist panel]].
+-   A theme creation workflow enabled in AI Agent Studio. See [Turn on theme creation workflow for use in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/turn-on-theme-creation-workflow.md).
 -   Now Assist panel turned on. See [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
 Roles required:
@@ -119,13 +119,7 @@ Your theme is saved as a draft in Theme Builder and appears in the Unpublished s
 
 ## What to do next
 
-Customize and publish your theme in Theme Builder. See [[tb-edit-theme|Manage or edit a theme with Theme Builder]]\[Publish a theme\] and [[tb-apply-theme|Publish your themes with Theme Builder]].
+Customize and publish your theme in Theme Builder. See [Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md)\[Publish a theme\] and [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[theme-creation-with-ai|Theme creation with AI]]
+**Parent Topic:**[Theme creation with AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/theme-creation-with-ai.md)
 
-## Related
-
-- [[turn-on-theme-creation-workflow|Turn on theme creation workflow for use in the Now Assist panel]]
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[theme-creation-with-ai|Theme creation with AI]]

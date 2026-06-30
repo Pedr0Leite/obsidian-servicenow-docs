@@ -81,7 +81,7 @@ Type
 
 Type of data used for the input.
 
- When the data type is **[[reference-for-itsm-mobile-agent|Reference]]**, a new column titled Reference appears in the form. The reference is the table associated with the input.
+ When the data type is **Reference**, a new column titled Reference appears in the form. The reference is the table associated with the input.
 
  The available input types are:
 
@@ -187,6 +187,3 @@ A change approval policy is created and is evaluated on a change request that ma
 
 **Parent Topic:**[Creating change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/using-change-approval-policies-cf.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

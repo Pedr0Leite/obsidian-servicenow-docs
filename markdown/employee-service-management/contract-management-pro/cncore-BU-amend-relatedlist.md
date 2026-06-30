@@ -26,7 +26,7 @@ Role required: admin
 Once the contract amendment is signed, you can see the details in the following tabs of the contract repository record:
 
 -   Contract Documents: Provides access to all signed documents related to the contract, including those generated or updated as part of amendment processes.
--   Contract Requests: Displays all [[cncore-expl-ss-nss-contracts|contract and amendment requests]] associated with the contract.
+-   Contract Requests: Displays all contract and amendment requests associated with the contract.
 -   Amendment Field Changes: Shows a detailed log of all field changes made through amendments, enabling easy tracking of modifications over time.
 
 You must add these tabs to the contract repository record for your workspace.
@@ -75,7 +75,7 @@ For more information on contract amendment, see [Contract amendments](https://ra
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -85,7 +85,3 @@ For more information on contract amendment, see [Contract amendments](https://ra
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[cncore-expl-ss-nss-contracts|Contract and amendment requests]]
-- [[cncore-obligation-management|Obligation Management]]

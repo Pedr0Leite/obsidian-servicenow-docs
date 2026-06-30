@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK Repository, TISC Library Repository, Threat Intell
 
 # Manage Groups
 
-Manage the groups that are imported from the MITRE TAXII collections. Groups are sets of related intrusion activity that are tracked by a common name in the security community. Analysts track clusters of activities using various terms such as threat groups, activity groups, [[threat-actors|threat actors]], intrusion sets, and [[threat-intelligence-campaigns|campaigns]]. In STIX, groups are known as intrusion sets.
+Manage the groups that are imported from the MITRE TAXII collections. Groups are sets of related intrusion activity that are tracked by a common name in the security community. Analysts track clusters of activities using various terms such as threat groups, activity groups, threat actors, intrusion sets, and campaigns. In STIX, groups are known as intrusion sets.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Groups**.
+1.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Groups**.
 
     You can view the listed groups.
 
@@ -48,14 +48,8 @@ Role required: sn\_sec\_tisc.analyst
 
 4.  Click **Save**.
 
-5.  To view how these objects are related, click **[[stix-relationships|Relationships]]**.
+5.  To view how these objects are related, click **Relationships**.
 
 
 **Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-## Related
-
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[stix-relationships|Relationships]]

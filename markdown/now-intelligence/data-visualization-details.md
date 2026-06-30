@@ -46,7 +46,7 @@ Mark as certified
 
 </td><td>
 
-If you have a role that lets you certify a data visualization for use in your organization, certify or decertify the visualization here. For more information, see [[certify-dv-ac|Certify a data visualization in the Visualization Designer]].
+If you have a role that lets you certify a data visualization for use in your organization, certify or decertify the visualization here. For more information, see [Certify a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/certify-dv-ac.md).
 
 </td></tr><tr><td>
 
@@ -84,13 +84,8 @@ Shared with
 
 </td><td>
 
-Icons for every user who the visualization is shared with. Point to an icon to view the user's full name and the sharing details. For more information, see [[share-dv-ac|Share a data visualization in the Visualization Designer]].
+Icons for every user who the visualization is shared with. Point to an icon to view the user's full name and the sharing details. For more information, see [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]]
+</table>**Parent Topic:**[Edit a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-dv-ac-center.md)
 
-## Related
-
-- [[certify-dv-ac|Certify a data visualization in the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[edit-dv-ac-center|Edit a data visualization in the Visualization Designer]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Portfolio Management, IT Service Management]
 
 # Service Portfolio Management activation administration
 
-[[SPM2-landing-page|Service Portfolio Management]] includes several plugins to enable the organization, documentation, and management of service portfolios within your IT business department.
+Service Portfolio Management includes several plugins to enable the organization, documentation, and management of service portfolios within your IT business department.
 
 Administrators can activate plugins and assign specific Service Portfolio Management roles to system users.
 
@@ -59,7 +59,7 @@ Service Portfolio Management Foundation Demo Data \(com.snc.service\_portfolio.d
 Adds demo data for Service Portfolio Management and service level agreement commitments.**Note:** If you installed the Service Portfolio Management SLA Commitments plugin \(com.snc.service\_portfolio.sla\_commitment\) before the New York release, this plugin activates the newer version.
 
 </td></tr></tbody>
-</table>## [[SPM2-taxonomy|Service Portfolio Management Taxonomy]] Content Pack
+</table>## Service Portfolio Management Taxonomy Content Pack
 
 You can also activate the Service Portfolio Management Taxonomy Content Pack plugin \[com.snc.spm.content\]. This plugin contains demo data and provides sample taxonomy metadata, complete with portfolio, taxonomy layers, and nodes. Users can view services and service offerings, including related items, such as SLAs, incidents, changes, and more as a demonstration.
 
@@ -67,7 +67,3 @@ Portfolio managers benefit from the Service Portfolio Management Taxonomy Conten
 
 **Parent Topic:**[Configuring Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-configuring.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[SPM2-taxonomy|Service Portfolio Management taxonomy]]

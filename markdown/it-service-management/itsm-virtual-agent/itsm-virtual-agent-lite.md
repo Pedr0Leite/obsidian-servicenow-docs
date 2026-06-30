@@ -14,11 +14,11 @@ breadcrumb: [IT Service Management]
 
 # ITSM Virtual Agent Lite
 
-Access a pre-built subset of [[itsm-virtual-agent|ITSM Virtual Agent]] features to quickly and easily implement a virtual agent for your end users. ITSM Virtual Agent Lite offers an introductory collection of conversation topics for IT support.
+Access a pre-built subset of ITSM Virtual Agent features to quickly and easily implement a virtual agent for your end users. ITSM Virtual Agent Lite offers an introductory collection of conversation topics for IT support.
 
 ## Understanding ITSM Virtual Agent Lite
 
-ITSM Virtual Agent Lite enables you to use a limited version of Virtual Agent. The available keyword-based conversations run in the web chat client and also in the messaging [[dex-workspace-application-tab|applications]], such as Slack, Microsoft Teams, Workplace by Facebook, and Facebook Messenger.
+ITSM Virtual Agent Lite enables you to use a limited version of Virtual Agent. The available keyword-based conversations run in the web chat client and also in the messaging applications, such as Slack, Microsoft Teams, Workplace by Facebook, and Facebook Messenger.
 
 ## ITSM Virtual Agent Lite topic category and conversations
 
@@ -32,10 +32,5 @@ The ITSM Virtual Agent Lite pre-built, read-only topic conversation templates ar
 -   **[Setting up ITSM Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/setup-itsm-virtual-agent-lite.md)**  
 Setup ITSM Virtual Agent Lite using to use the read-only, pre-built conversation topics for your most common ITSM self-service cases. For example, you can connect your users with a virtual agent to check ticket status, search the knowledge base, and report an issue.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[dex-workspace-application-tab|Applications]]

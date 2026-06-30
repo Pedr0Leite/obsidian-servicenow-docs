@@ -19,7 +19,7 @@ Request the development or procurement of an AI model to support an AI system. T
 
 ## Before you begin
 
-Role required: [[ai-risk-and-compliance|AI risk and compliance]] business user \([[employee-center|Employee Center]]\), sn\_ai\_asset\_mgmt.ai\_asset\_owner \(AI Control Tower dashboard\)
+Role required: AI risk and compliance business user \(Employee Center\), sn\_ai\_asset\_mgmt.ai\_asset\_owner \(AI Control Tower dashboard\)
 
 ## About this task
 
@@ -44,7 +44,7 @@ Description
 </td><td>
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
-2.  Select **Help center** &gt; **Technology services** and then select **[[ai-assets-airc|AI assets]]** from the Technology services topics section.
+2.  Select **Help center** &gt; **Technology services** and then select **AI assets** from the Technology services topics section.
 3.  Select the **Request an AI model** card.
  **Note:** AI Risk and Compliance Business User and AI Asset owner can complete this option.
 
@@ -75,11 +75,11 @@ Description
 
 ## What to do next
 
-After submitting an AI model request, the next steps depend on your role in the [[ai-gov-lifecycle|AI governance life cycle]].
+After submitting an AI model request, the next steps depend on your role in the AI governance life cycle.
 
-AI Product Owner or Requester \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_user\]: Provide additional information as requested during intake and onboarding, including details about the model purpose, training approach, intended usage, and how the model supports one or more [[ai-system-airc|AI systems]]. You may be asked to clarify model sourcing \(in-house or third-party\), data dependencies, or expected business outcomes.
+AI Product Owner or Requester \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_user\]: Provide additional information as requested during intake and onboarding, including details about the model purpose, training approach, intended usage, and how the model supports one or more AI systems. You may be asked to clarify model sourcing \(in-house or third-party\), data dependencies, or expected business outcomes.
 
-AI Steward or AI Center of Excellence \(AI CoE\) \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager, sn\_ai\_asset\_mgmt.ai\_asset\_owner\]: Review submitted requests for business and strategy alignment, initiate the review process and trigger required assessments, and coordinate cross‑functional reviews. Continue to oversee the AI model through its life cycle, including inventory tracking, governance activities, linkage to related [[dataset-airc|datasets]] and AI systems, and collaboration across stakeholders.
+AI Steward or AI Center of Excellence \(AI CoE\) \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager, sn\_ai\_asset\_mgmt.ai\_asset\_owner\]: Review submitted requests for business and strategy alignment, initiate the review process and trigger required assessments, and coordinate cross‑functional reviews. Continue to oversee the AI model through its life cycle, including inventory tracking, governance activities, linkage to related datasets and AI systems, and collaboration across stakeholders.
 
 For more information, see [AI Control Tower dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-governance.md).
 
@@ -87,20 +87,10 @@ Risk and Compliance Manager \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manage
 
 For more information, see [AI Risk and Compliance workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance-workspace.md), [Initiate AI assessment on an AI asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-assessment-on-an-ai-asset.md), [Initiate risk assessment on AI asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/initiate-risk-assessment-on-ai-systems.md), [Initiate risk assessment on AI asset's risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-risk-assessments-for-ai-systems.md), and [Manage controls using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/manage-controls-in-airc.md).
 
-For an overview of how [[ai-model-airc|AI models]] move from intake through assessment, development, deployment, monitoring, and value tracking, see [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md).
+For an overview of how AI models move from intake through assessment, development, deployment, monitoring, and value tracking, see [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md).
 
 -   **[Request an AI model form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-model-form.md)**  
-The [[request-ai-model-form|Request an AI model form]] is designed to streamline the request process for developing or procuring an AI model. This intake form confirms that all necessary details, supporting documents, and compliance considerations are captured before moving forward with the approval process.
+The Request an AI model form is designed to streamline the request process for developing or procuring an AI model. This intake form confirms that all necessary details, supporting documents, and compliance considerations are captured before moving forward with the approval process.
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[employee-center|employee center]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-gov-lifecycle|AI governance life cycle]]
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]
-- [[ai-model-airc|AI models]]
-- [[request-ai-model-form|Request an AI model form]]

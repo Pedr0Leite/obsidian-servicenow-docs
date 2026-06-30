@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Recommended Actions application, Recommended Action
 
 # Configure the arbitration parameters in Recommended Actions
 
-Configure the [[configure-nba|recommended actions]] by the frequency of issues or by the order of priority so that your agents get the guidance that they must help resolve customer issues.
+Configure the recommended actions by the frequency of issues or by the order of priority so that your agents get the guidance that they must help resolve customer issues.
 
 ## Before you begin
 
@@ -34,11 +34,8 @@ The recommended actions in the New state appear by ranking. For example, the sco
     |-----|-----------|
     |Rule Order Weight \(sn\_nb\_action.rule\_order\_weight\)|Weight given to an action based on the priority of the rule that recommends it. The default value is 0.9.|
     |Recommendation Order Weight \(sn\_nb\_action.recommendation\_order\_weight\)|Weight given to an action based on the priority of the rule that recommends it. The default value is 0.9.|
-    |Frequency Weight \(sn\_nb\_action.frequency\_weight\)|Weight applied based on the number of times an action is recommended across [[gamification-components-rules|rules]]. The default value is 1.5.|
+    |Frequency Weight \(sn\_nb\_action.frequency\_weight\)|Weight applied based on the number of times an action is recommended across rules. The default value is 1.5.|
 
 3.  Select **Save**.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]

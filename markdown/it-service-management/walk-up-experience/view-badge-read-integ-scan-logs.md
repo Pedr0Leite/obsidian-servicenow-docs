@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience reference, Walk-up Experience, IT Service Manage
 
 # View Badge Scanner Integration scan logs
 
-Monitor scanner-use error activity at a [[walkup-experience-landing-page|Walk-up Experience]] onsite location by viewing the scan logs. Each time a badge reader device triggers an error, a scan event is logged in the **Badge Scan Logs** module.
+Monitor scanner-use error activity at a Walk-up Experience onsite location by viewing the scan logs. Each time a badge reader device triggers an error, a scan event is logged in the **Badge Scan Logs** module.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Walk-up Experience badge scan errors can be found in the System Log.
 
 2.  Select an event in the Badge Scan Logs list to view the associated **Message**, **Badge Reader**, and **User Badge**.
 
-## Related
 
-- [[walkup-experience-landing-page|Walk-up Experience]]

@@ -37,8 +37,5 @@ To create an event that fires when a work order task moves from a starting state
     The ServiceNow system automatically creates a business rule called **State Flow Events for wm\_task**.
 
 
-**Parent Topic:**[[c_StateFlowCustomization|State flow customization]]
+**Parent Topic:**[State flow customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md)
 
-## Related
-
-- [[c_StateFlowCustomization|State flow customization]]

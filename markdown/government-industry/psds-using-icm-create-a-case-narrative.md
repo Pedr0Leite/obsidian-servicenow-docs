@@ -30,7 +30,7 @@ Role required: icm.investigator
 
 4.  In the Case Narrative field, enter the narrative details.
 
-    You can refine the text entered in this field using the Now Assist for PSDS Case Narrative refinement skill. For more information on this skill and how to use it, see [[psds-using-na-refine-icm-case-narrative|Refine an investigative case narrative using the Now Assist for PSDS Investigative case narrative refinement skill]].
+    You can refine the text entered in this field using the Now Assist for PSDS Case Narrative refinement skill. For more information on this skill and how to use it, see [Refine an investigative case narrative using the Now Assist for PSDS Investigative case narrative refinement skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-na-refine-icm-case-narrative.md).
 
     \[Omitted image "psds-narrative-skill-activated.png"\] Alt text: case narrative refinement skill view
 
@@ -48,7 +48,7 @@ Add an entity to the case. For information on how to do this, see the following:
 **Related topics**  
 
 
-[[psds-using-icm-add-entities|Add an associated person to an Investigative case]]
+[Add an associated person to an Investigative case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md)
 
 [Add a location to an investigative case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md)
 
@@ -62,7 +62,3 @@ Add an entity to the case. For information on how to do this, see the following:
 
 [Add an associated firearm to an investigative case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-icm-add-entities.md)
 
-## Related
-
-- [[psds-using-na-refine-icm-case-narrative|Refine an investigative case narrative using the Now Assist for PSDS Investigative case narrative refinement skill]]
-- [[psds-using-icm-add-entities|Add entities to an investigative case using Investigative Case Management Entity Management]]

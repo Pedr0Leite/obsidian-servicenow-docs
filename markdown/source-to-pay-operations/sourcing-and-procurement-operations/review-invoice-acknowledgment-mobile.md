@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos on your mobile, Using Shopping Hub Mobile, Use, Sour
 
 # Review invoice acknowledgment task from your mobile device
 
-Review [[invoices|invoices]] that require acknowledgment from your mobile application. Invoice acknowledgments are sent to the recipients of the purchases, and each line associated with an invoice can be marked as correct or incorrect. Your action on these to-dos moves the invoices to their respective workflows.
+Review invoices that require acknowledgment from your mobile application. Invoice acknowledgments are sent to the recipients of the purchases, and each line associated with an invoice can be marked as correct or incorrect. Your action on these to-dos moves the invoices to their respective workflows.
 
 ## Before you begin
 
-When you are assigned as the recipient of an order that requires invoice acknowledgment, and that invoice is sent to you for acknowledgment by the procurement team, an invoice acknowledgment task is displayed on your Now Mobile **My Tasks** tab, in addition to the [[shopping-hub-overview|Shopping Hub]] desktop to-dos page.
+When you are assigned as the recipient of an order that requires invoice acknowledgment, and that invoice is sent to you for acknowledgment by the procurement team, an invoice acknowledgment task is displayed on your Now Mobile **My Tasks** tab, in addition to the Shopping Hub desktop to-dos page.
 
 **Note:** This only applies to orders where the underlying services acknowledgment is defined as invoice acknowledgment.
 
@@ -50,7 +50,3 @@ Role required: sn\_shop.shopper
 
 **Parent Topic:**[Shopper to-dos on your mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos-mobile.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[shopping-hub-overview|Shopping Hub]]

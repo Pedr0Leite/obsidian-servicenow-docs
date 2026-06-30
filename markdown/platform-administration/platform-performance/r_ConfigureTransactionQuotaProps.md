@@ -14,7 +14,7 @@ breadcrumb: [Reference, Platform performance, Maintain and monitor, Administer t
 
 # Transaction quota properties
 
-An administrator can add the following [[r_SetArchiveRuleProcessingBehavior|system properties]] to manage [[c_TransactionQuotas|transaction quotas]].
+An administrator can add the following system properties to manage transaction quotas.
 
 <table id="table_l2r_nx1_rp"><thead><tr><th>
 
@@ -66,10 +66,5 @@ Controls whether to display \(true\) or hide \(false\) additional debugging info
 **Related topics**  
 
 
-[[t_AddAPropertyUsingSysPropsList|Add a system property]]
+[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_TransactionQuotas|Transaction quotas]]

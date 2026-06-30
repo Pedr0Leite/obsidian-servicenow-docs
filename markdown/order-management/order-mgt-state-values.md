@@ -12,11 +12,11 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Customer order states
 
-Use the State [[fields|fields]] on the customer [[explore-order-management|order management]] forms to determine the current processing state for the customer order and to perform certain types of customer order actions, such as canceling a customer order.
+Use the State fields on the customer order management forms to determine the current processing state for the customer order and to perform certain types of customer order actions, such as canceling a customer order.
 
 ## Customer Order form states
 
-Use the **State** field on the customer order form to determine the current processing state for the order, including all of its associated line items. You can also use it to perform certain types of order actions, such as canceling an order. To learn more, see [[managing-orders|Managing post-fulfillment order changes]]. The following flowchart illustrates how customer and service order state processing works.
+Use the **State** field on the customer order form to determine the current processing state for the order, including all of its associated line items. You can also use it to perform certain types of order actions, such as canceling an order. To learn more, see [Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md). The following flowchart illustrates how customer and service order state processing works.
 
 \[Omitted image "add-order-states.svg"\] Alt text: Infographic showing the customer order processing workflow. For the text description, refer to the Customer Order states section.
 
@@ -162,8 +162,8 @@ All associated customer order line items are complete.**Note:** After your agent
 </td></tr></tbody>
 </table>**Note:** To learn more about Inflight Order Change functions and how they affect the Revision in Process, Assessing Cancellation, Cancellation in Progress, and Canceled customer order states, see the following:
 
--   [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
--   [[key-inflight-order-change-cancellation-request-fields|Key inflight order change and cancellation request fields]]
+-   [Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
+-   [Key inflight order change and cancellation request fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/key-inflight-order-change-cancellation-request-fields.md)
 
 ## Order line item form states
 
@@ -396,7 +396,7 @@ Product, service, or resource order that is in the process of being cancelled.
 </td></tr></tbody>
 </table>## Order Task form states
 
-Use the **State** field on the Order Task form to determine the processing state for an order task. To learn more, see [[order-mgt-customer-order-tasks|Review and close fulfillment tasks]].
+Use the **State** field on the Order Task form to determine the processing state for an order task. To learn more, see [Review and close fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-tasks.md).
 
 <table id="table_c4f_154_v4b"><thead><tr><th>
 
@@ -479,14 +479,5 @@ Draft
 Order task that is still in the capture stage or the manual entry of the order task is not complete.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
-## Related
-
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
-- [[key-inflight-order-change-cancellation-request-fields|Key inflight order change and cancellation request fields]]
-- [[order-mgt-customer-order-tasks|Review and close fulfillment tasks]]
-- [[order-mgt-reference|Order Management reference]]
-- [[fields|Fields]]
-- [[explore-order-management|Order management]]

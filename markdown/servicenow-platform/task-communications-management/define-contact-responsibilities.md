@@ -28,7 +28,7 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
     |Field|Description|
     |-----|-----------|
-    |Global|Option to determine whether the contact responsibility is available for all tables or for a specific table. If the [[check-box|check box]] is not selected, the **Table** field appears where you can select the table that you are defining the contact responsibility for.|
+    |Global|Option to determine whether the contact responsibility is available for all tables or for a specific table. If the check box is not selected, the **Table** field appears where you can select the table that you are defining the contact responsibility for.|
     |Name|Unique name of the contact, such as Business Director or Communication Manager, involved in the communication process.|
     |Type|Type of contact such as user, group, or recipient list.|
     |Table|Table that the contact is activated on when a communication plan is attached.|
@@ -40,11 +40,7 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
 ## What to do next
 
-[[create-comm-contact-definition|Define a communication contact]] for the task.
+Define a communication contact for the task.
 
 **Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/working-with-tcm.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[create-comm-contact-definition|Define a communication contact]]

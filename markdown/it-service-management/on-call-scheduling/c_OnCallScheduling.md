@@ -50,7 +50,7 @@ The On-Call Scheduling application helps you to ensure that dedicated support te
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about On-Call Scheduling components such as roles and dependent [[dex-workspace-application-tab|applications]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about On-Call Scheduling components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -59,6 +59,3 @@ The On-Call Scheduling application helps you to ensure that dedicated support te
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

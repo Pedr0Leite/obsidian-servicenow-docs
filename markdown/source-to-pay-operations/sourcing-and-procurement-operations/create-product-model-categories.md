@@ -42,7 +42,7 @@ Name
 
 </td><td>
 
-Display name of your product category on the [[shopping-hub-overview|Shopping Hub]] portal.
+Display name of your product category on the Shopping Hub portal.
 
 </td></tr><tr><td>
 
@@ -102,11 +102,11 @@ Acknowledgment type
 
 </td><td>
 
-Receipt of confirmation and the type of receipt. The options are **[[milestones|Milestones]]**, **Service Acknowledgment**, or **Two Way Match**.This field appears only if the product type is set to **Service.**
+Receipt of confirmation and the type of receipt. The options are **Milestones**, **Service Acknowledgment**, or **Two Way Match**.This field appears only if the product type is set to **Service.**
 
 </td></tr><tr><td>
 
-Goods [[sourcing-checkout|sourcing checkout]]
+Goods sourcing checkout
 
 </td><td>
 
@@ -126,15 +126,15 @@ Contract type
 
 </td><td>
 
-Contract types that are applicable to this product category. Related [[contracts|contracts]], based on the specified contract models, are created for any [[purchase-requisition|purchase requisition]] of a product of this category.
+Contract types that are applicable to this product category. Related contracts, based on the specified contract models, are created for any purchase requisition of a product of this category.
 
 </td></tr><tr><td>
 
-Display [[pricing|pricing]]?
+Display pricing?
 
 </td><td>
 
-Determines if pricing is to be displayed in Shopping Hub for [[supplier|supplier]] products associated to this category.
+Determines if pricing is to be displayed in Shopping Hub for supplier products associated to this category.
 
 </td></tr><tr><td>
 
@@ -158,7 +158,7 @@ Purchasing time in days
 
 </td><td>
 
-Number of days that are required to complete a [[purchase-order-table|purchase order]] for products in this category.
+Number of days that are required to complete a purchase order for products in this category.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -226,7 +226,7 @@ The product category is created and the form reopens with its related lists.
 
 ## What to do next
 
-Use the related lists of the model category form to view the product models, supplier products, and [[ledger-assignment-rules|ledger assignment rules]] that are associated with this category.
+Use the related lists of the model category form to view the product models, supplier products, and ledger assignment rules that are associated with this category.
 
 <table id="table_story_related_list"><thead><tr><th>
 
@@ -263,14 +263,3 @@ Ledger assignment rules for this product category.Select **New** to [add a ledge
 </td></tr></tbody>
 </table>**Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[milestones|Milestones]]
-- [[sourcing-checkout|Sourcing checkout]]
-- [[contracts|Contracts]]
-- [[purchase-requisition|Purchase requisition]]
-- [[pricing|Pricing]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[ledger-assignment-rules|Ledger assignment rules]]

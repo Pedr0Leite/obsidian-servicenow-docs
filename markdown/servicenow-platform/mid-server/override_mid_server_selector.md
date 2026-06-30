@@ -14,7 +14,7 @@ breadcrumb: [MID Server selection, Configuring MID Servers, Configuring MID Serv
 
 # Override the MID Server selection filter
 
-Use the override feature to write your own filter condition that overrides the normal [[c_MIDServerSelector|MID Server selection]] criteria for an application. An override has precedence over the default filter and can be defined for a specific selection condition.
+Use the override feature to write your own filter condition that overrides the normal MID Server selection criteria for an application. An override has precedence over the default filter and can be defined for a specific selection condition.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ There are four MID Server selection filters included in the base ServiceNow syst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mid-server-landing|MID Server]]** &gt; **Mid Selector Override**.
+1.  Navigate to **All** &gt; **MID Server** &gt; **Mid Selector Override**.
 
     The list of MID Server overrides appears.
 
@@ -52,7 +52,7 @@ There are four MID Server selection filters included in the base ServiceNow syst
 
     -   **Name**: Unique name for this override. Ensure that you can identify the override type by the name.
     -   **Script**: Condition for this filter. Create the MID Server selection logic for your override in this field, using the directions provided in the function template. Look at the **Override by capability** filter as an example before starting to create your filter.
-    -   **Type**: Type of override being configured. Select one of the four default filters to override with your condition, or select **Override selector** to [[t_CreatingFilters|create a filter]] that overrides all the others.
+    -   **Type**: Type of override being configured. Select one of the four default filters to override with your condition, or select **Override selector** to create a filter that overrides all the others.
 4.  Select **Submit**.
 
     \[Omitted image "MIDSelectionOverride.png"\] Alt text: MID Server override filter script
@@ -76,8 +76,3 @@ var result = [];
 
 **Parent Topic:**[MID Server selection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerSelector.md)
 
-## Related
-
-- [[c_MIDServerSelector|MID Server selection]]
-- [[mid-server-landing|MID Server]]
-- [[t_CreatingFilters|Create a filter]]

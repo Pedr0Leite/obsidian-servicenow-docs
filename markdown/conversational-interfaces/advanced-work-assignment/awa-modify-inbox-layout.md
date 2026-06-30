@@ -22,15 +22,15 @@ Role required: awa\_admin or admin. Users with the awa\_manager or agent role ca
 
 ## About this task
 
-Cards represent [[awa-work-items|work items]] in an agent's inbox in Agent Workspace. Each channel has a default layout for these cards, which can display up to five fields from the related table record. Use the [[awa-inbox-layout|Inbox Layout]] form to change a default layout, such as the name, short description, and the specific fields displayed on the card, for example channel and contact or consumer name. You can also specify certain conditions that determine when the card layout is used.
+Cards represent work items in an agent's inbox in Agent Workspace. Each channel has a default layout for these cards, which can display up to five fields from the related table record. Use the Inbox Layout form to change a default layout, such as the name, short description, and the specific fields displayed on the card, for example channel and contact or consumer name. You can also specify certain conditions that determine when the card layout is used.
 
 ## Procedure
 
 1.  Navigate to the service channel settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
-        In the Essential settings section, select **Set up [[awa-service-channels|service channels]]**.
+        In the Essential settings section, select **Set up service channels**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Service Channels**.
 2.  Select the service channel to be updated.
@@ -150,9 +150,3 @@ As needed:
 -   [Override the agent capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-change-agent-capacity.md) value for selected agents or groups.
 -   [Create or change a work item queue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-queue.md) for the channel.
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-inbox-layout|Inbox layout]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-service-channels|Service channels]]

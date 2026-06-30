@@ -14,7 +14,7 @@ breadcrumb: [Configuration tasks for knowledge demand insights, Configuring Know
 
 # Configure solution definitions to find gaps in a knowledge base
 
-The [[knowledge-demand-insights|Knowledge Demand Insights]] feature finds knowledge gaps by comparing knowledge bases with existing tasks. To enable comparing knowledge bases with a task type, you must first configure similarity and clustering solution definitions.
+The Knowledge Demand Insights feature finds knowledge gaps by comparing knowledge bases with existing tasks. To enable comparing knowledge bases with a task type, you must first configure similarity and clustering solution definitions.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Configure one similarity type and one clustering type solution definitions for e
     -   For tasks other than customer service cases, incidents, and HR cases, click **New** to create another similarity solution definition.
 3.  On the Similarity Definition form, verify the default field values for customer service cases or incidents, or fill in the values for a custom configuration.
 
-    **Note:** If the application scope isn't set to [[knowledge-management|Knowledge Management]] - Machine Learning, you cannot edit the form and a warning message appears. To make the form editable, click the word **here** at the end of the message.
+    **Note:** If the application scope isn't set to Knowledge Management - Machine Learning, you cannot edit the form and a warning message appears. To make the form editable, click the word **here** at the end of the message.
 
 <table id="table_bxj_sbx_4jb"><thead><tr><th>
 
@@ -52,7 +52,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[label|Label]]
+Label
 
 </td><td>
 
@@ -258,8 +258,3 @@ Complete the KB curation configuration form to define the scheduled jobs for dem
 
 [Analyze knowledge gaps from a demand insights dashboard and create knowledge gap feedback tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/analyze-knowledge-gaps-demand-insights.md)
 
-## Related
-
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[knowledge-management|Knowledge Management]]
-- [[label|Label]]

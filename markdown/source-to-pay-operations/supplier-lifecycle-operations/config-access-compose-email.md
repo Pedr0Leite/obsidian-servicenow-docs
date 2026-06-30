@@ -14,7 +14,7 @@ breadcrumb: [Composing emails with predefined content, Using Source-to-Pay Works
 
 # Configure access to the compose email feature
 
-Configure the role required to access the compose email feature that enables you to send emails directly from a [[supplier|supplier]] case or supplier task in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Configure the role required to access the compose email feature that enables you to send emails directly from a supplier case or supplier task in the Source-to-Pay Workspace.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ The role required to access the compose email feature is configured.
 
 [Communicate using emails from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/send-emails-slm-ws.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

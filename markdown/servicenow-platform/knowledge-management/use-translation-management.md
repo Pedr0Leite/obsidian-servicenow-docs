@@ -19,7 +19,7 @@ Use translation management to create and manage translation tasks.
 -   **[Create translation assignments for knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-translation-assignments.md)**  
 Assign knowledge articles to language experts to ensure accurate translations. Identify the language experts and create assignment rules so that translation tasks are automatically assigned to language experts and groups.
 -   **[Auto-create translation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/auto-create-translation-tasks.md)**  
-[[auto-create-translation-tasks|Auto-create translation tasks]] in specified languages to avoid having to manually create translation tasks after an article is published. The available languages are determined by the language plugins that have been installed on your instance.
+Auto-create translation tasks in specified languages to avoid having to manually create translation tasks after an article is published. The available languages are determined by the language plugins that have been installed on your instance.
 -   **[Bulk Translation for knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/bulk-translation.md)**  
 Perform bulk translations of knowledge articles in multiple languages using the Localization Framework application.
 -   **[Translate a knowledge article from a translation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translate-knowledge-article.md)**  
@@ -31,6 +31,3 @@ Manually create translation tasks if an article does not have translation tasks 
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[auto-create-translation-tasks|Auto-create translation tasks]]

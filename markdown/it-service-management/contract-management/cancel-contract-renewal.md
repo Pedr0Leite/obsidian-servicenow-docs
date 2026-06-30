@@ -32,7 +32,7 @@ Contract Renewal Request
 
 -   The entire renewal request is canceled.
 -   The substate of the contract that is being renewed is cleared.
--   All the draft [[c_Contracts|contracts]] are canceled.
+-   All the draft contracts are canceled.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,3 @@ Contract
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Contracts|Contracts]]

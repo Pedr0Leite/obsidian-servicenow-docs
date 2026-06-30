@@ -12,7 +12,7 @@ breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
 
 # Setting up the SharePoint Online Search Connector
 
-Set up the [[sharepoint-search-overview|SharePoint Online Search Connector]] by configuring and connecting the Microsoft SharePoint tenant with your instance. Validate the connection to avoid any setup failures before indexing the sites for search.
+Set up the SharePoint Online Search Connector by configuring and connecting the Microsoft SharePoint tenant with your instance. Validate the connection to avoid any setup failures before indexing the sites for search.
 
 ## Configure the Microsoft SharePoint tenant
 
@@ -178,11 +178,11 @@ Role required: sn\_sp\_con.admin and admin.
 
     1.  On the Graph connection form, fill in the fields.
 
-        For a description of the field value, see [[graph-connection-form|Graph connection form]].
+        For a description of the field value, see [Graph connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/graph-connection-form.md).
 
     2.  On the REST connection form, fill in the fields.
 
-        For a description of the field value, see [[rest-connection-form|REST connection form]].
+        For a description of the field value, see [REST connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/rest-connection-form.md).
 
     3.  Right-click the form header and click **Save**.
 
@@ -443,7 +443,7 @@ Global
 
     4.  Configure the [AI Search server connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/setup-ais-spoke.md) before you proceed with the next steps.
 
-    The Entity View Action Mapper \(EVAM\) configuration is available by default with [[employee-center-pro-landing|Employee Center Pro]] version 32.0.
+    The Entity View Action Mapper \(EVAM\) configuration is available by default with Employee Center Pro version 32.0.
 
     For more information on EVAM definition, see [Create an EVAM action definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/define-evam-action.md) and [Create a multi-data source list display in Entity View Action Mapper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/tutorial-create-evam.md).
 
@@ -487,12 +487,5 @@ The validation rules out any configuration failure and ensures a seamless setup 
 
 ### What to do next
 
-Index sites for search. For more information, see [[sharepoint-how-to-configure-search|Index sites for search]].
+Index sites for search. For more information, see [Index sites for search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-how-to-configure-search.md).
 
-## Related
-
-- [[graph-connection-form|Graph connection form]]
-- [[rest-connection-form|REST connection form]]
-- [[sharepoint-how-to-configure-search|Index sites for search]]
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[employee-center-pro-landing|Employee Center Pro]]

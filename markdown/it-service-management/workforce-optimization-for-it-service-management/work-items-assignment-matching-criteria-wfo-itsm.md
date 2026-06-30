@@ -35,7 +35,7 @@ Several matching criteria are provided with the assignment workbench:
 
 To create matching criteria, select the type and use the fields related to that type to build the query. After creating matching criteria, you can create a configuration for the assignment workbench by creating a matching rule of the type **Selection criteria** and selecting the desired matching criteria.
 
-As part of selecting the matching criteria for the workbench configuration, you can specify the following [[settings-mobile|settings]] for each individual criterion:
+As part of selecting the matching criteria for the workbench configuration, you can specify the following settings for each individual criterion:
 
 -   ranking and display usage
 -   ranking method
@@ -108,6 +108,3 @@ This calculation is performed for each agent in the assignment group. Agents are
 
 **Parent Topic:**[Create a criteria for a matching rule in Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/assignment-rules-work-scheduler-wfo-itsm.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

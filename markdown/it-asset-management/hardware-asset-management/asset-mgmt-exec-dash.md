@@ -14,7 +14,7 @@ breadcrumb: [Explore, Hardware Asset Management, IT Asset Management]
 
 # Asset Management Executive Dashboard
 
-Use the Asset Management Executive Dashboard to gain visibility into critical KPIs for [[ham-landing-page|Hardware Asset Management]], [[c_SoftwareAssetMgmt|Software Asset Management]], and [[cloud-insights-landing-page|Cloud Cost Management]] applications via a single dashboard.
+Use the Asset Management Executive Dashboard to gain visibility into critical KPIs for Hardware Asset Management, Software Asset Management, and Cloud Cost Management applications via a single dashboard.
 
 To access the Asset Management Executive dashboard, you must either have Software Asset Management or Hardware Asset Management in your ServiceNow instance.
 
@@ -32,7 +32,7 @@ After you select a filter, a blue box gets displayed on the right side of each w
 
 **Note:** To use the domain filter, you must activate the plugins: com.glide.domain.msp\_extensions.installer and com.snc.pa.domain\_support.
 
-The schedule job, **[[am-landing-page|Asset Management]] - Populate KPI aggregate table**, runs daily to update the data on the dashboard. To view the latest data for a widget, select the widget to display the list view page.
+The schedule job, **Asset Management - Populate KPI aggregate table**, runs daily to update the data on the dashboard. To view the latest data for a widget, select the widget to display the list view page.
 
 The dashboard widgets vary depending on the application plugins that you've activated in your instance. The widgets available with each application are listed in the following table:
 
@@ -112,7 +112,7 @@ Not applicable
 
 </td><td>
 
-Total of potential savings on a monthly basis on cloud rightsizing, cloud unused machines, cloud reservations, and cloud [[bh-cloudin|business hours]].
+Total of potential savings on a monthly basis on cloud rightsizing, cloud unused machines, cloud reservations, and cloud business hours.
 
 **Note:** This widget appears only if you have the Software Asset Management application installed on your instance.
 
@@ -152,7 +152,7 @@ Number of success goals completed for the Software Asset Management application.
 
  Source table: SAM Success Goal \[samp\_success\_goal\].
 
-**Note:** This widget is available only when the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application is installed.
+**Note:** This widget is available only when the Software Asset Workspace \(sn\_sam\_workspace\) store application is installed.
 
 </td><td>
 
@@ -260,7 +260,7 @@ Not applicable
 
 </td></tr><tr><td>
 
-Expiring [[c_Contracts|contracts]] in 90 days
+Expiring contracts in 90 days
 
 </td><td>
 
@@ -286,7 +286,7 @@ Assets pulled from pool vs net new purchase
 
 Bar charts representing the number of requests for software assets being fulfilled from your inventory versus creating purchase orders for new assets.
 
-**Note:** Ensure that the [[c_Procurement|Procurement]] \(com.snc.procurement\) plugin is activated in your instance to view software-related data for this widget.
+**Note:** Ensure that the Procurement \(com.snc.procurement\) plugin is activated in your instance to view software-related data for this widget.
 
  Source tables:
 
@@ -313,11 +313,11 @@ Bar charts representing the number of assets used from your inventory versus new
 
 </td></tr><tr><td>
 
-End of life [[c_Models|models]] in next 90 days
+End of life models in next 90 days
 
 </td><td>
 
-Number of [[c_CreatingSoftwareModels|software models]] that are reaching their end of life in the next 90 days.
+Number of software models that are reaching their end of life in the next 90 days.
 
 -   End of life
 -   End of support
@@ -348,15 +348,3 @@ You must install the Sustainable IT plugin \(sn\_esg\_sustain\) to view the Sust
 
 To know more about the Sustainable IT dashboard data for your hardware assets, see [Sustainable IT dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/sustainable-it-dashboard.md).
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[am-landing-page|Asset Management]]
-- [[bh-cloudin|Business hours]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]

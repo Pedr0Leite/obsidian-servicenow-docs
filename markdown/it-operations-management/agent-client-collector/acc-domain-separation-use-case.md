@@ -18,7 +18,7 @@ Optimizing data isolation and monitoring with domain separation ensures financia
 
 ## Use case overview
 
-In a large financial institution, departments like IT, Finance, Compliance, and HR need to manage their systems independently while keeping sensitive data protected. The [[acc-landing-page|Agent Client Collector]] \(ACC\) collects data from various agents on servers and devices, and domain separation ensures that each department's data is securely isolated. This allows departments to manage their own monitoring, troubleshooting, and reporting, greatly reducing the risk of cross-domain interference or unauthorized access.
+In a large financial institution, departments like IT, Finance, Compliance, and HR need to manage their systems independently while keeping sensitive data protected. The Agent Client Collector \(ACC\) collects data from various agents on servers and devices, and domain separation ensures that each department's data is securely isolated. This allows departments to manage their own monitoring, troubleshooting, and reporting, greatly reducing the risk of cross-domain interference or unauthorized access.
 
 ## Challenges without domain separation
 
@@ -41,6 +41,3 @@ In a large financial institution, departments like IT, Finance, Compliance, and 
 -   Regulatory compliance: Easier adherence to data privacy regulations \(GDPR, SOX\) due to secure data segregation.
 -   Reduced data corruption: Isolated environments prevent unintended cross-departmental impacts, enhancing system stability.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

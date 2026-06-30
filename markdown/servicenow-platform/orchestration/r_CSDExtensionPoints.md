@@ -14,7 +14,7 @@ breadcrumb: [Client software distribution extension framework, Client Software D
 
 # Client software distribution extension points
 
-The [[c_ClientSoftwareDistribution|client software distribution]] \(CSD\) extension points create the customization code for the specific provider and the extension keys.
+The client software distribution \(CSD\) extension points create the customization code for the specific provider and the extension keys.
 
 The purpose of the extension points is to associate extension keys with a specific provider, and then create a script that sets input variables for your custom deployment and revocation workflows. Another extension point script tells CSD if the provider has the capability to revoke software. If this is the case, CSD enables the UI action that triggers revocation from the provider.
 
@@ -56,6 +56,3 @@ The script must set the **csdExtensionResult** object with these attributes:
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]

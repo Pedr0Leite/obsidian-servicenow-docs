@@ -14,9 +14,9 @@ breadcrumb: [Using DevOps Config, DevOps Config, IT Service Management]
 
 # Sharing components among applications — Component libraries
 
-Some [[dex-workspace-application-tab|applications]] may share the same basic structure and require nearly identical configuration data. Shared components in CDM enables you to use a component across several applications. For better organization, these shared components are managed in component libraries.
+Some applications may share the same basic structure and require nearly identical configuration data. Shared components in CDM enables you to use a component across several applications. For better organization, these shared components are managed in component libraries.
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 ## Component libraries
 
@@ -34,10 +34,6 @@ In this example, an organization sells tea on its website. Both the **Shopping-C
 -   While working in an application changeset, you cannot modify a shared component in the same way as you can modify a direct component. A collection in an application can, however, override any value in a shared component.
 -   For a shared component to be available for use in applications, the component must be in the **Published** state and the library that holds the component must be in the **Available** state.
 
-    In the example, no application can use the **Flavor-Sort-[[settings-mobile|settings]]** component because it has not been published.
+    In the example, no application can use the **Flavor-Sort-settings** component because it has not been published.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

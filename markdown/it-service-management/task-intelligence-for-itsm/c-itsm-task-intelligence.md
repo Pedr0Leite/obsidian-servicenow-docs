@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management]
 
 # Task Intelligence for ITSM
 
-ServiceNow® Task Intelligence for ITSM uses machine learning to set up, deploy, and track solution-based [[c_Models|models]] to achieve important business outcomes.
+ServiceNow® Task Intelligence for ITSM uses machine learning to set up, deploy, and track solution-based models to achieve important business outcomes.
 
 ## Get started
 
@@ -36,7 +36,7 @@ ServiceNow® Task Intelligence for ITSM uses machine learning to set up, deploy,
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Task Intelligence for ITSM components, such as roles and dependent [[dex-workspace-application-tab|applications]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/task-intelligence-itsm-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Task Intelligence for ITSM components, such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-intelligence-for-itsm/task-intelligence-itsm-reference.md)
 
 </td><td>
 
@@ -49,8 +49,3 @@ ServiceNow® Task Intelligence for ITSM uses machine learning to set up, deploy,
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_Models|Models]]
-- [[dex-workspace-application-tab|Applications]]
-- [[reference-for-itsm-mobile-agent|Reference]]

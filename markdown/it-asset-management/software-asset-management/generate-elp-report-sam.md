@@ -26,7 +26,7 @@ An ELP report groups your data on existing reconciliation groups, by consumption
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace**.
 
 2.  Select **License usage**.
 
@@ -59,6 +59,3 @@ An ELP report groups your data on existing reconciliation groups, by consumption
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

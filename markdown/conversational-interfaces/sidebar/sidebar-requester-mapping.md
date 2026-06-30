@@ -14,7 +14,7 @@ breadcrumb: [Setting up Sidebar, Configuring Sidebar, Sidebar, Conversational In
 
 # Sidebar requester mapping
 
-Create a requester mapping to define the requesting user for a record. This requester is used to identify the main contact for a record and [[sidebar-landing|Sidebar]] sends an email notification to the requester when they have unread messages in their discussions in the last 24 hours.
+Create a requester mapping to define the requesting user for a record. This requester is used to identify the main contact for a record and Sidebar sends an email notification to the requester when they have unread messages in their discussions in the last 24 hours.
 
 ## Before you begin
 
@@ -84,7 +84,3 @@ Domain for the record.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sidebar-landing|Sidebar]]

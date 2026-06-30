@@ -28,7 +28,7 @@ Use Acknowledge to denote that the alert is known, and can temporarily be ignore
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -79,6 +79,3 @@ To display the individual alerts inside a group, select the chevron icon \(\[Omi
 
 The alert is acknowledged and its status is displayed at the top of the preview panel.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

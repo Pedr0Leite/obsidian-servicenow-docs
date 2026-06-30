@@ -37,9 +37,9 @@ Additionally, the EOL workflow can be completed using the Software End of Life F
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Software Asset Analytics** &gt; **Lifecycle management**.
+1.  Navigate to **Software Asset Workspace** &gt; **Software Asset Analytics** &gt; **Lifecycle management**.
 
-2.  On the [[lifecycle-management-dashboard|Lifecycle management dashboard]], open the End of life \(EOL\) products page by selecting the **Upcoming end of life product lifecycles in next 18 months** report or the **Current and past end of life product lifecycles** report.
+2.  On the Lifecycle management dashboard, open the End of life \(EOL\) products page by selecting the **Upcoming end of life product lifecycles in next 18 months** report or the **Current and past end of life product lifecycles** report.
 
 3.  From the list of available EOL products, select the product for which you want to complete the EOL workflow.
 
@@ -130,7 +130,3 @@ After the change request is complete, the workflow request is also complete.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[lifecycle-management-dashboard|Lifecycle management dashboard]]

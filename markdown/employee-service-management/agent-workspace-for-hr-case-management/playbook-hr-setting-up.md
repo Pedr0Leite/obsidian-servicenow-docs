@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Playbook, Agent Workspace, HR Service Delivery,
 
 # Setting up HR Service Delivery Playbook
 
-Set up [[playbook-hr|HR Service Delivery Playbook]] so that your agents can easily manage, track, and lifecycle event cases.
+Set up HR Service Delivery Playbook so that your agents can easily manage, track, and lifecycle event cases.
 
 -   **Activation**
 
@@ -32,9 +32,9 @@ Set up [[playbook-hr|HR Service Delivery Playbook]] so that your agents can easi
 
 -   **HR cards**
 
-    The Playbook tab under [[hr-service-delivery|HR Service Delivery]] Agent Workspace has HR cards.
+    The Playbook tab under HR Service Delivery Agent Workspace has HR cards.
 
-    HR cards represent each [[activity-lxp|activity]] in the activity set which could represent various records such as HR tasks, HR cases, requests, incidents, approvals, and more.
+    HR cards represent each activity in the activity set which could represent various records such as HR tasks, HR cases, requests, incidents, approvals, and more.
 
     Below is an example of an HR card showing an HR task record.
 
@@ -50,8 +50,3 @@ The base system provides 19 records.
 
 **Note:** For more information on playbook configuration, see Set up a playbook.
 
-## Related
-
-- [[playbook-hr|HR Service Delivery Playbook]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[activity-lxp|Activity]]

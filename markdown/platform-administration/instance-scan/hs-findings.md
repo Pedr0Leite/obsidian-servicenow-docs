@@ -14,7 +14,7 @@ breadcrumb: [Reviewing of scans, Using Instance Scan, Instance Scan, Maintain an
 
 # Findings
 
-A finding is a [[reference-email-admin|reference]] to a record that has violated a rule from a check on the instance. You can find the source record and the number of times the record triggered rules of a given check.
+A finding is a reference to a record that has violated a rule from a check on the instance. You can find the source record and the number of times the record triggered rules of a given check.
 
 Each finding is specific to a result and each result is specific to a scan that has been executed.
 
@@ -27,14 +27,9 @@ The Scan Finding gives information about the check that has been violated by a r
 **Note:** If you use the **Mute Rule**, you must also select a reason for muting the finding.
 
 -   **[Mute a finding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-update-scan-finding-form.md)**  
-[[hc-update-scan-finding-form|Mute a finding]] on the Scan Finding form to avoid the finding from being reported in the later [[hc-scan-results|scan results]].
+Mute a finding on the Scan Finding form to avoid the finding from being reported in the later scan results.
 -   **[Creating scan tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-create-scan-tasks.md)**  
 Create a scan task to facilitate task assignments from the finding of a record.
 
 **Parent Topic:**[Reviewing of scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-review-scans.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hc-update-scan-finding-form|Mute a finding]]
-- [[hc-scan-results|Scan results]]

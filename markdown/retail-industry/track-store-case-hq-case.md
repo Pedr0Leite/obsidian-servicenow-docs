@@ -33,8 +33,5 @@ Role required: admin
     |**Tasks**|Displays the associated store tasks.|
 
 
-**Parent Topic:**[[track-monitor-store-plans|Track and monitor store plans]]
+**Parent Topic:**[Track and monitor store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/track-monitor-store-plans.md)
 
-## Related
-
-- [[track-monitor-store-plans|Track and monitor store plans]]

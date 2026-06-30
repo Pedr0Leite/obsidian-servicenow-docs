@@ -18,20 +18,20 @@ The ServiceNow® Test Management application streamlines the management of testi
 
 Test Management is available in two versions.
 
--   [[test-management2-landing-page|Test Management 2.0]] offers many enhancements, including integration with [[agile-landing-page|Agile Development 2.0]] and [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
--   [[c_TestManagement|Test Management 1.0]] may have specific capabilities that are useful for your organization.
+-   Test Management 2.0 offers many enhancements, including integration with Agile Development 2.0 and Scaled Agile Framework \(SAFe\)
+-   Test Management 1.0 may have specific capabilities that are useful for your organization.
 
 Use the following comparison to make an informed decision for your organization.
 
 ## Differences between Test Management 1.0 and Test Management 2.0
 
-Test Management 1.0 covers user acceptance testing. It does not include some key data model structures like test versions, test runs, or test results. In addition, you cannot structure [[c_TestPlans|test plans]] in Test Management 1.0.
+Test Management 1.0 covers user acceptance testing. It does not include some key data model structures like test versions, test runs, or test results. In addition, you cannot structure test plans in Test Management 1.0.
 
 Test Management 2.0 includes data model structures that match industry standards. It provides you with an intuitive user interface called the [Test Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md) from which you can structure test plans and plan the phases of your testing effort.
 
 **Tip:**
 
-If you need [[agile-development|Agile Development]] integration, test versioning, or detailed test run traceability, use Test Management 2.0. If your organization requires only basic user acceptance testing without Agile integration, Test Management 1.0 may be sufficient.
+If you need Agile Development integration, test versioning, or detailed test run traceability, use Test Management 2.0. If your organization requires only basic user acceptance testing without Agile integration, Test Management 1.0 may be sufficient.
 
 <table id="table_test_differences"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Test Management 2.0
 
 </th></tr></thead><tbody><tr><td>
 
-Integration with [[c_ProjectPortfolioSuite|Project Portfolio Management]]
+Integration with Project Portfolio Management
 
 </td><td>
 
@@ -111,7 +111,7 @@ Time duration
 
 </td><td>
 
-You can [[t_CreateATestPlan|create a test plan]] describing how a product or a feature is to be tested.
+You can create a test plan describing how a product or a feature is to be tested.
 
 </td><td>
 
@@ -148,16 +148,5 @@ The ServiceNow® Test Management 2.0 application streamlines the management of t
 -   **[Migration from Test Management 1.0 to Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/migrate-test.md)**  
 Migrate your test data from Test Management 1.0 to Test Management 2.0, and start using Test Management 2.0 for its enhanced testing capabilities and features.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[c_TestManagement|Test Management 1.0]]
-- [[c_TestPlans|Test plans]]
-- [[agile-development|Agile Development]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[t_CreateATestPlan|Create a test plan]]

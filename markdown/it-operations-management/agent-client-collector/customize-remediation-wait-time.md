@@ -14,7 +14,7 @@ breadcrumb: [Check Zscaler monitoring, Perform Zscaler remediation, ACC deployme
 
 # Customize the Zscaler remediation wait time
 
-Configure the amount of time \(in seconds\) by which the Zscaler [[ccg-remediation|remediation]] check verifies the Zscaler status. This amount of time indicates how often the system checks the Zscaler status after the remediation check runs.
+Configure the amount of time \(in seconds\) by which the Zscaler remediation check verifies the Zscaler status. This amount of time indicates how often the system checks the Zscaler status after the remediation check runs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents** &gt; **Configuration** &gt; **Check Definition**.
+1.  Navigate to **Agent Client Collector** &gt; **Agents** &gt; **Configuration** &gt; **Check Definition**.
 
 2.  Select **zscaler-remediation-check**.
 
@@ -35,7 +35,3 @@ Role required: agent\_client\_collector\_admin
     -   If the Zscaler app is running within the configured `wait_time`, the remediation result is **Success**.
     -   If the Zscaler app is not running within the configured `wait_time`, the remediation result is **Failed**.
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[acc-landing-page|Agent Client Collector]]

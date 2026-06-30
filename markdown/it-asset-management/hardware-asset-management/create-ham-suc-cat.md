@@ -14,7 +14,7 @@ breadcrumb: [Assess performance of Hardware Asset Management, Use, Hardware Asse
 
 # Create a success goal category for hardware assets
 
-Create a success goal category to associate it with the [[ham-landing-page|Hardware Asset Management]] success goal.
+Create a success goal category to associate it with the Hardware Asset Management success goal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ham\_admin
 
 ## Procedure
 
-1.  Navigate to **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations** &gt; **Success goals** &gt; **Categories**.
+1.  Navigate to **Hardware Asset Workspace** &gt; **Asset operations** &gt; **Success goals** &gt; **Categories**.
 
 2.  Select **New**.
 
@@ -37,7 +37,3 @@ The category that you add gets listed as an option in the **Category** field whi
 
 **Parent Topic:**[Assess performance of Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/suc-goal-act-hw.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

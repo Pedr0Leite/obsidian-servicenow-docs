@@ -14,7 +14,7 @@ breadcrumb: [Capacity, Managing workforce, Use, Field Service Management]
 
 # View Capacity Usages information
 
-View Capacity Usages information to track the [[capacity|capacity]] used by groups and agents.
+View Capacity Usages information to track the capacity used by groups and agents.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ Date until which the capacity definition and reservations should applied.
 
 [Configuring Field Service Capacity and Reservations Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-capacity-management.md)
 
-## Related
-
-- [[capacity|Capacity]]

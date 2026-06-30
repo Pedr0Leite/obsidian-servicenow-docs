@@ -14,7 +14,7 @@ breadcrumb: [Setting up integrations in Service Operations Workspace for ITSM, C
 
 # Install Universal Task for Service Operations Workspace
 
-You can install the Universal Task application \(sn\_uni\_task\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they are not already installed.
+You can install the Universal Task application \(sn\_uni\_task\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ For more information, see [Universal Task in Service Operations Workspace refere
 
 **Parent Topic:**[Setting up integrations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/setting-up-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

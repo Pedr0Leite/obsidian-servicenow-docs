@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare Operations Core, Healthcare Operations, Healt
 
 # Create a group for all care team managers in Healthcare Operations Core
 
-Create a group for care team managers with the sn\_hco.care\_team\_manager role assigned so that users added to this group inherits the collection of roles for [[hcls-cto-app|Healthcare Operations Core]].
+Create a group for care team managers with the sn\_hco.care\_team\_manager role assigned so that users added to this group inherits the collection of roles for Healthcare Operations Core.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: admin
 
 A user group has been created that you can assign care team managers to when doing automated user imports.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

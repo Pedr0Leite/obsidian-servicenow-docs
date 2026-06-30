@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d364519e136">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -82,7 +82,7 @@ Jira Server
 1.  From the **Platform** list, select **Jira Server**.
 2.  In the **Tool name** field, enter a name for the tool.
 
-This name is used to identify your Jira instance from the list of tools connected to [[devops-landing-page-new|DevOps Change Velocity]].
+This name is used to identify your Jira instance from the list of tools connected to DevOps Change Velocity.
 
  \[Omitted image "jira-plybk-02.png"\] Alt text: Connect to Jira server.
 
@@ -274,7 +274,3 @@ Authenticate a Jira tool connection using OAuth 2.0 with three-legged OAuth \(3L
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

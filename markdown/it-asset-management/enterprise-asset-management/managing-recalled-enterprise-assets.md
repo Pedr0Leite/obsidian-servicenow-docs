@@ -18,7 +18,7 @@ You can track and take action on enterprise assets that have been recalled by th
 
 ## Recall flow
 
-When you submit a recall order, the [[enterprise-asset-management|Enterprise Asset Management]] application automatically generates an enterprise recalled asset record for each enterprise asset that you included in the order. You can then use these records to track and manage the recall process for each of those enterprise assets.
+When you submit a recall order, the Enterprise Asset Management application automatically generates an enterprise recalled asset record for each enterprise asset that you included in the order. You can then use these records to track and manage the recall process for each of those enterprise assets.
 
 Within each recall order, you must indicate how you are going to proceed with the recall process for the given enterprise asset based on the remediation option that is recommended by the asset vendor in the corresponding recall notification. You can choose to
 
@@ -38,6 +38,3 @@ After you submit a recall order for any enterprise assets that have been recalle
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td rowspan="5">
 
-[[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
+Notify connector for Microsoft Teams
 
 </td><td>
 
@@ -95,6 +95,3 @@ Permission allows the app to open a tab with incident details within a meeting a
 </td></tr></tbody>
 </table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

@@ -14,7 +14,7 @@ breadcrumb: [Document Template integration with AdobeSign, Integration of HR Ser
 
 # Components installed with Document Template integration with AdobeSign
 
-Several types of components are installed with activation of the [[adobe-sign-doc|Document Template Integration with AdobeSign]] \[sn\_dt\_adobesign\] plugin, including tables and user roles.
+Several types of components are installed with activation of the Document Template Integration with AdobeSign \[sn\_dt\_adobesign\] plugin, including tables and user roles.
 
 Demo data is available for this feature.
 
@@ -38,8 +38,8 @@ Adobe Sign Admin \[sn\_dt\_adobesign.admin\]
 
 </td><td>
 
--   Can [[sign-adobe-doc|configure document templates for Adobe Sign]].
--   Can [[create-adobe-groups|create Adobe Sign groups]].
+-   Can configure document templates for Adobe Sign.
+-   Can create Adobe Sign groups.
 
 </td><td>
 
@@ -52,8 +52,3 @@ None
 |-----|-----------|
 |Document temoplate Adobe Sign groups \[sn\_dt\_adobesign\_group\]|Stores Adobe Sign groups. For more information, see [Create adobe sign groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-adobe-groups.md)|
 
-## Related
-
-- [[adobe-sign-doc|Document Template integration with AdobeSign]]
-- [[sign-adobe-doc|Configure document templates for Adobe Sign]]
-- [[create-adobe-groups|Create adobe sign groups]]

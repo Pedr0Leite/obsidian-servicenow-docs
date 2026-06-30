@@ -14,7 +14,7 @@ breadcrumb: [Create a work order for an enterprise asset, Managing work orders f
 
 # Select descendant models of multi-component assets to create part requirements
 
-qFor work orders and work order tasks that have multi-component assets, select descendant [[c_Models|models]] to create part requirement records.
+qFor work orders and work order tasks that have multi-component assets, select descendant models to create part requirement records.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or wm\_agent
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Work management**.
 
 2.  Open the record for either the work order or work order task that you want to create a part requirement for.
 
@@ -44,7 +44,4 @@ Role required: sn\_eam.enterprise\_asset\_manager or wm\_agent
 
     The new part requirement records are created and appear in the Part Requirements page.
 
-## Related
 
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

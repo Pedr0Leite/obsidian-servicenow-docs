@@ -14,7 +14,7 @@ breadcrumb: [Creating an event rule, Alert rules, Configure, Digital End-User Ex
 
 # Select event rule filters
 
-Configure filtering criteria for event rules to target specific [[dex-workspace-devices-tab|devices]] and users. Use filters to control which events trigger alerts based on operating system, location, department, or custom conditions.
+Configure filtering criteria for event rules to target specific devices and users. Use filters to control which events trigger alerts based on operating system, location, department, or custom conditions.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  Select **Configure** on the Alert rules card.
 
@@ -60,7 +60,3 @@ Role required: sn\_dex.admin
 
 [Define alert criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/define-alert-criteria-event.md).
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-administration-tab|DEX Administration]]

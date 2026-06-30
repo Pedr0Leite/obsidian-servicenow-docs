@@ -33,8 +33,5 @@ Do the following task to set up domain separation:
 
 -   Domain separation setup and administration. See [Domain separation setup and administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationSetup.md).
 -   Benefits of domain separation. See [Benefits of domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-advantages-dom-sep.md).
--   Domain separation and Customer Service Management \(CSM\). See [[domain-separation-customer-service|Domain separation and Customer Service Management]].
+-   Domain separation and Customer Service Management \(CSM\). See [Domain separation and Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/domain-separation-customer-service.md).
 
-## Related
-
-- [[domain-separation-customer-service|Domain separation and Customer Service Management]]

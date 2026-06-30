@@ -20,11 +20,11 @@ Role required: sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin
 
 ## About this task
 
-For version 18.0 of [[vuln-landing-page|Vulnerability Response]], you cannot create a Remediation Task from the record view of a Remediation Effort.
+For version 18.0 of Vulnerability Response, you cannot create a Remediation Task from the record view of a Remediation Effort.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **[[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]**.
+1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **Vulnerability Manager Workspace**.
 
 2.  At the top left of the workspace with the Home page displayed, click the **List** view icon, to display the List landing page.
 
@@ -32,7 +32,7 @@ For version 18.0 of [[vuln-landing-page|Vulnerability Response]], you cannot cre
 
 4.  From the list that is displayed, click a record to open it.
 
-    The [[vr-va-ws-overview-tab|overview tab]] of the record is displayed.
+    The overview tab of the record is displayed.
 
 5.  Click the **Vulnerable Items** tab.
 
@@ -54,11 +54,5 @@ For version 18.0 of [[vuln-landing-page|Vulnerability Response]], you cannot cre
 10. The new remediation task is displayed with the active records you selected.
 
 
-**Parent Topic:**[[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
+**Parent Topic:**[Use Remediation Effort records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ws-remed-eff-rcd.md)
 
-## Related
-
-- [[sem-ws-remed-eff-rcd|Use Remediation Effort records]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[vr-va-ws-overview-tab|Overview tab]]

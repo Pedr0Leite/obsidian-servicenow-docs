@@ -18,37 +18,37 @@ Configure the Auto-Responder feature for sharing relevant content in email notif
 
 Role required: admin
 
-Activate the Predictive [[intelligence-csm|Intelligence]] for [[c_CustomerServiceManagement|Customer Service Management]] plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]].
+Activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md) and [Predictive Intelligence for CSM solution definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/predictive-intelligence-for-csm.md).
 
 ## About this task
 
 When you install and activate the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\), the following related plugins are also activated:
 
 -   Customer Service plugin \(com.sn\_customerservice\)
--   Predictive Intelligence for [[osp-contextual-search|Contextual Search]] plugin \(com.snc.contextual\_search\_ml\)
+-   Predictive Intelligence for Contextual Search plugin \(com.snc.contextual\_search\_ml\)
 -   Email Notification Script for Contextual Search Results plugin \(com.snc.adv\_cxs\_results\_email\_script\)
 
-You can also configure the Auto-Responder feature for tasks other than customer service cases. For more information, see [[config-auto-responder-other-tasks|Configure Auto-Responder for tasks other than cases]].
+You can also configure the Auto-Responder feature for tasks other than customer service cases. For more information, see [Configure Auto-Responder for tasks other than cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder-other-tasks.md).
 
 ## Procedure
 
-1.  Follow the steps in this link: [[enable-auto-responder|Enable Auto-Responder]].
+1.  Follow the steps in this link: [Enable Auto-Responder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-auto-responder.md).
 
-2.  Follow the steps in this link: [[train-sol-defn-auto-responder|Train the similarity solution for finding Auto-Responder notification content]].
+2.  Follow the steps in this link: [Train the similarity solution for finding Auto-Responder notification content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/train-sol-defn-auto-responder.md).
 
-3.  Follow the steps in this link: [[config-context-auto-responder|Configure the search context for Auto-Responder]].
+3.  Follow the steps in this link: [Configure the search context for Auto-Responder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-context-auto-responder.md).
 
-4.  Follow the steps in this link: [[config-limit-auto-responder|Limit the number of articles in Auto-Responder notifications for cases]].
+4.  Follow the steps in this link: [Limit the number of articles in Auto-Responder notifications for cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-limit-auto-responder.md).
 
-5.  Follow the steps in this link: [[use-extension-point-auto-responder|Include advanced contextual search results in Auto-Responder notifications]].
+5.  Follow the steps in this link: [Include advanced contextual search results in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-extension-point-auto-responder.md).
 
     **Note:** By default, any knowledge articles viewed in the last 30 days by the user are not included in the email notification. You can use the getViewedContent extension point to modify the filter out by the duration of the last viewed content.
 
-6.  Follow the steps in this link: [[enable-text-based-auto-responder|Enable text search recommendations in Auto-Responder notifications]].
+6.  Follow the steps in this link: [Enable text search recommendations in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-text-based-auto-responder.md).
 
-7.  Follow the steps in this link: [[config-auto-responder-channels|Include cases logged using specified communication channels in Auto-Responder notifications]].
+7.  Follow the steps in this link: [Include cases logged using specified communication channels in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder-channels.md).
 
-8.  Follow the steps in this link: [[config-auto-responder-custom-portal|Include knowledge articles from custom portals in Auto-Responder notifications]].
+8.  Follow the steps in this link: [Include knowledge articles from custom portals in Auto-Responder notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-auto-responder-custom-portal.md).
 
     **Note:** When you configure the Auto-Responder feature to use a custom portal, the default configuration for the customer service portal and consumer service portal are not used. Ensure that you use this configuration when you have your own custom portal and don't want to use the customer service portal or consumer service portal.
 
@@ -56,21 +56,5 @@ You can also configure the Auto-Responder feature for tasks other than customer 
 **Related topics**  
 
 
-[[auto-responder-case|Using Auto-Responder for case deflections]]
+[Using Auto-Responder for case deflections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/auto-responder-case.md)
 
-## Related
-
-- [[predictive-intelligence-for-csm|Predictive Intelligence for CSM solution definitions]]
-- [[config-auto-responder-other-tasks|Configure Auto-Responder for tasks other than cases]]
-- [[enable-auto-responder|Enable Auto-Responder]]
-- [[train-sol-defn-auto-responder|Train the similarity solution for finding Auto-Responder notification content]]
-- [[config-context-auto-responder|Configuring the search context for Auto-Responder]]
-- [[config-limit-auto-responder|Limit the number of articles in Auto-Responder notifications for cases]]
-- [[use-extension-point-auto-responder|Include advanced contextual search results in Auto-Responder notifications]]
-- [[enable-text-based-auto-responder|Enable text search recommendations in Auto-Responder notifications]]
-- [[config-auto-responder-channels|Include cases logged using specified communication channels in Auto-Responder notifications]]
-- [[config-auto-responder-custom-portal|Include knowledge articles from custom portals in Auto-Responder notifications]]
-- [[auto-responder-case|Using Auto-Responder for case deflections]]
-- [[intelligence-csm|Intelligence]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-contextual-search|Contextual search]]

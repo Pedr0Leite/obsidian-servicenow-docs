@@ -22,7 +22,7 @@ Role required: sn\_mktplace\_core.mktplace\_admin
 
 ## About this task
 
-Marketplace engagement methods determine the criteria that contractors can respond to for requests. [[fsm-marketplace|Field Service Marketplace]] comes installed with following methods:
+Marketplace engagement methods determine the criteria that contractors can respond to for requests. Field Service Marketplace comes installed with following methods:
 
 <table id="table_vcw_hpb_1cc"><thead><tr><th>
 
@@ -196,6 +196,4 @@ There are two default option for Response evaluation flow:
 </td></tr></tbody>
 </table>7.  Select **Submit**.
 
-## Related
 
-- [[fsm-marketplace|Field Service Marketplace]]

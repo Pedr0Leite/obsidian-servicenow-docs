@@ -14,7 +14,7 @@ breadcrumb: [Creating Microsoft 365 From SA and Add-on entitlements, Microsoft 3
 
 # Create Microsoft 365 From SA and Add-on entitlements in the Software Asset Workspace
 
-Create a Microsoft 365 From SA or Add-on entitlement in the [[sam-workspace|Software Asset Workspace]] so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
+Create a Microsoft 365 From SA or Add-on entitlement in the Software Asset Workspace so that you can track and manage the From SA or Add-on licensing terms for your Microsoft 365 subscription software products and services.
 
 ## Before you begin
 
@@ -26,8 +26,8 @@ Role required: sam\_user or sam\_admin
 
 2.  Create a software entitlement.
 
-    -   From the [[sam-workspace-landing|Software asset overview]], select **Create entitlement**.
-    -   From the [[operations-workspace|License operations view]], navigate to **Licensing** &gt; **Software entitlements** and then select **Create entitlement**.
+    -   From the Software asset overview, select **Create entitlement**.
+    -   From the License operations view, navigate to **Licensing** &gt; **Software entitlements** and then select **Create entitlement**.
 3.  In the Create new entitlement dialog box, select the option to **Fill out the details in a standard form** and then select **Next**.
 
     The dialog box closes and you’re automatically redirected to the Create New Software Entitlement form.
@@ -38,7 +38,7 @@ Role required: sam\_user or sam\_admin
 
     **Important:** To create a Microsoft 365 From SA or Add-on entitlement, set the **Software model** field to a Microsoft 365 software model and then set the **License type** field to either **From SA** or **Add-on**.
 
-    **Tip:** If you’re using both Full and Add-on USLs for the same Microsoft 365 subscription software product or service, associate the corresponding entitlements with different [[c_CreatingSoftwareModels|software models]] to avoid licensing conflicts.
+    **Tip:** If you’re using both Full and Add-on USLs for the same Microsoft 365 subscription software product or service, associate the corresponding entitlements with different software models to avoid licensing conflicts.
 
 5.  Select **Save**.
 
@@ -117,9 +117,3 @@ Number of From SA or Add-on rights that you want to grant to the corresponding M
 
 [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-workspace-landing|Software asset overview]]
-- [[operations-workspace|License operations view]]
-- [[c_CreatingSoftwareModels|Software models]]

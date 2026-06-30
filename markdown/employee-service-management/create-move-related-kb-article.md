@@ -18,8 +18,8 @@ Create a knowledge base article so that you can provide move-related information
 
 Ensure that you have the following applications installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]].
+-   Workplace Core
+-   Workplace Case Management.
 
 Role required: sn\_wsd\_core.admin or sn\_wsd\_core.kb\_writer
 
@@ -45,7 +45,7 @@ Knowledge base
 
 </td><td>
 
-Name of the knowledge base. Select the **[[workplace-services|Workplace services]]** knowledge base.
+Name of the knowledge base. Select the **Workplace services** knowledge base.
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ The knowledge base article is created.
 
 [Create a workplace knowledge base article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/create-workplace-kb-article-wsd.md)
 
-**Parent Topic:**[[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
@@ -154,9 +154,3 @@ The knowledge base article is created.
 
 [Review move conflicts]()
 
-## Related
-
-- [[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]

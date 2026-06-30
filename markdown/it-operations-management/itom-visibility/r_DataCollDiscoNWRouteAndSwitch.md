@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # Network switch and router discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about network switches and routers.
+Discovery identifies and classifies information about network switches and routers.
 
 Network switches and routers often have very similar capabilities. It is very common for some switches known as Layer 3 switches to have IP routing. Larger routers with optional modules might accept switching modules. Because of these overlaps and the resulting ambiguity of a particular device's classification, Discovery collects the same data for both routers and switches, if it is available in any given device. For details on how Discovery collects data about connections between network devices and other components, see [Layer 2 discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Layer2Discovery.md).
 
@@ -25,7 +25,7 @@ Network switches and routers often have very similar capabilities. It is very co
 -   The router or switch needs to have IP Address information.
 -   The system property glide.discovery.L3\_mapping is set to true to discover routers and switches.
 -   The router or Layer 3 switch that provides the IP Address needs to have been successfully discovered with populated Exit Interface Routing Rules.
--   If you must populate the \[discovery\_device\_neighbors\] table during horizontal [[c_Layer2Discovery|layer 2 discovery]] of the bgp-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
+-   If you must populate the \[discovery\_device\_neighbors\] table during horizontal layer 2 discovery of the bgp-enabled devices, set the **BGP router exploration disable** property to **No**. Notice that enabling this property can cause performance issues including out-of-memory issues on the MID Server.
 
 ## System properties
 
@@ -107,7 +107,7 @@ Standard Network RouterStandard Network Switch
 
 ^This probe remains active by default for the Standard Network Router classifier, even when Discovery uses pattern discovery.
 
-To use patterns, verify that the correct pattern is specified in the [[r-HorizontalPatternProbe|horizontal pattern probe]] on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+To use patterns, verify that the correct pattern is specified in the horizontal pattern probe on the classifier. See [Add the Horizontal Pattern probe to a classifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 ## Discovering stacked switches
 
@@ -1227,8 +1227,3 @@ In some environments you may not want to collect the port data for SNMP network 
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_Layer2Discovery|Layer 2 discovery]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

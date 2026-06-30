@@ -14,7 +14,7 @@ breadcrumb: [Create a service catalog variable, Service catalog variables, Servi
 
 # Define a question choice for a variable
 
-Define a question choice for a variable with [[service-catalog|service catalog]].
+Define a question choice for a variable with service catalog.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Some variable types present the user with a list of choices. For example, a [[multiple-choice|multiple choice]] variable that asks how much memory you want in a computer requires you to define the available choices, such as 1 GB and 2 GB.
+Some variable types present the user with a list of choices. For example, a multiple choice variable that asks how much memory you want in a computer requires you to define the available choices, such as 1 GB and 2 GB.
 
 ## Procedure
 
@@ -52,7 +52,3 @@ Some variable types present the user with a list of choices. For example, a [[mu
 
 [Service Catalog variable attributes]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[multiple-choice|Multiple choice]]

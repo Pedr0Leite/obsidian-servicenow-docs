@@ -20,7 +20,7 @@ The Operational Risk Management dashboard enables an entity owner, with the role
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
-To open the dashboard, navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **Analytics Operational Risk Dashboard**.
+To open the dashboard, navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Analytics Operational Risk Dashboard**.
 
 \[Omitted image "operational-risk-management-dashboard-nextgen-coral.jpg"\] Alt text: Operational Risk Management dashboard in the Next Experience
 
@@ -66,7 +66,7 @@ sn\_risk.user
 
 ## Indicators
 
-Indicators define a performance measurement taken at regular intervals of a business service, an activity, or organizational behavior. These performance measurements result in a series of indicator scores over time. To view this dashboard, users must have Advanced Risk and [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugins activated
+Indicators define a performance measurement taken at regular intervals of a business service, an activity, or organizational behavior. These performance measurements result in a series of indicator scores over time. To view this dashboard, users must have Advanced Risk and Policy and Compliance Management plugins activated
 
 To view the list of all indicators for all the associated plugins, see the following:
 
@@ -89,10 +89,10 @@ Organization \(Entity\)
 
 |Title|Description|
 |-----|-----------|
-|Risk Response by Residual Risk Rating|Heatmap which shows the number of different [[risk-response|risk response]] tasks for each residual risks.|
+|Risk Response by Residual Risk Rating|Heatmap which shows the number of different risk response tasks for each residual risks.|
 |Controls by owner|Controls distributed on the basis of their owners.|
 |Risks by owner|Risks distributed on the basis of their owners.|
-|Inherent risks by category|Number of [[risk-assessments|risk assessments]] with different inherent risk levels grouped by risk statement categories such as credit, market and so on.|
+|Inherent risks by category|Number of risk assessments with different inherent risk levels grouped by risk statement categories such as credit, market and so on.|
 |Residual risks by category|Number of risk assessments with different residual risk levels grouped by risk statement categories such as credit, market, and so on.|
 |Control Test|List of all controls.|
 |Control Indicators|Indicators associated with each control.|
@@ -112,7 +112,7 @@ Organization \(Entity\)
 -   **[GRC Advanced Risk plugin indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/indicators-advanced-risk.md)**  
 The GRC Advanced Risk plugin contains various indicators.
 -   **[GRC Audit Management plugin indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/indicators-audit-mgmt.md)**  
-The GRC [[c_GRCAudits|Audit Management]] plugin contains various indicators.
+The GRC Audit Management plugin contains various indicators.
 -   **[GRC Policy and Compliance Management plugin indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/indicators-policy-compliance.md)**  
 The GRC Policy and Compliance Management plugin contains various indicators.
 -   **[GRC Risk Management plugin Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/indicators-risk-mgmt.md)**  
@@ -124,10 +124,3 @@ The risk register contains the information about identified risks, results of ri
 
 **Parent Topic:**[Analytics and reporting solutions for Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-mgmt-content-pack.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-response|risk response]]
-- [[risk-assessments|risk assessments]]
-- [[c_GRCAudits|Audit Management]]

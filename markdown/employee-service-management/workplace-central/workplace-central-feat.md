@@ -24,11 +24,11 @@ Maintain workplaces more efficiently using a single workspace, Workplace Central
 
 </td><td>
 
-[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: [[install-workplace-central|Install Workplace Central]] and related plugins to get started.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/configure-workplace-central.md)
+[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Install Workplace Central and related plugins to get started.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/configure-workplace-central.md)
 
 </td><td>
 
-[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: [[use-workplace-central|Use Workplace Central]] to efficiently perform workplace-related activities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-workplace-central.md)
+[Use\[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Use Workplace Central to efficiently perform workplace-related activities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-workplace-central.md)
 
 </td></tr><tr><td>
 
@@ -51,7 +51,3 @@ Maintain workplaces more efficiently using a single workspace, Workplace Central
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[install-workplace-central|Install Workplace Central]]
-- [[use-workplace-central|Use Workplace Central]]

@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Now Mobile for Employees introduces [[impact-landing-page|Impact]] customers to Now Mobile, providing an overview of its base system capabilities along with a demonstration of the configuration steps needed to get started. The session focuses on key employee-facing features such as viewing tasks, requests, and knowledge articles. We will also highlight how Now Mobile aligns with Employee Center to create a seamless employee experience. Additionally, this accelerator includes key resources and leading practice guides to [[io-help|help]] customers get started with success.
+Jumpstart Your Now Mobile for Employees introduces Impact customers to Now Mobile, providing an overview of its base system capabilities along with a demonstration of the configuration steps needed to get started. The session focuses on key employee-facing features such as viewing tasks, requests, and knowledge articles. We will also highlight how Now Mobile aligns with Employee Center to create a seamless employee experience. Additionally, this accelerator includes key resources and leading practice guides to help customers get started with success.
 
 ## Package Availability
 
@@ -62,7 +62,3 @@ Certain Now Mobile functionalities require Employee Center or Employee Center Pr
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

@@ -14,13 +14,13 @@ breadcrumb: [Manage chat messages from a record, Agent actions, Use Microsoft Te
 
 # Initiate chat with an employee from a record
 
-As an agent, initiate chats with the requester or an employee from the watchlist of a [[ur-landing-limitedaccess|universal request]] using Microsoft Teams.
+As an agent, initiate chats with the requester or an employee from the watchlist of a universal request using Microsoft Teams.
 
 ## Before you begin
 
 The **Start Microsoft Teams Chat** button is available only if the following conditions are met:
 
--   At least one of the users marked in the universal request has [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] enabled.
+-   At least one of the users marked in the universal request has Universal Request integration with Microsoft Teams enabled.
 -   The universal request is not associated with a primary ticket.
 
 Role required: agent
@@ -46,7 +46,3 @@ The Microsoft Teams application opens the tab where you can chat with the select
 
 **Parent Topic:**[Manage chat messages from a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-start-import-chat.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]

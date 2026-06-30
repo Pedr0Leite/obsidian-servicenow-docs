@@ -37,13 +37,10 @@ When you create a question of the **Template** data type, the system sets the **
     **Note:** When the data type is **Template**, a UI policy prevents the editing of **Min** and **Max** from the form.
 
 
-**Parent Topic:**[[c_SurveyQuestionTemplate|Survey question template]]
+**Parent Topic:**[Survey question template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyQuestionTemplate.md)
 
 **Related topics**  
 
 
 [Create a survey question template]()
 
-## Related
-
-- [[c_SurveyQuestionTemplate|Survey question template]]

@@ -14,7 +14,7 @@ breadcrumb: [Oracle Database options and management packs, Software Asset Manage
 
 # Request Data Collection for Oracle Global Licensing and Advisory Services \(GLAS\)
 
-Request the Data Collection for Oracle GLAS application from the ServiceNow Store so that you can track and measure usage for your [[oracle-options|Oracle Database options and management packs]].
+Request the Data Collection for Oracle GLAS application from the ServiceNow Store so that you can track and measure usage for your Oracle Database options and management packs.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ The Data Collection for Oracle GLAS application includes two configurations, V1 
 
 [Download Oracle Global License Advisory Services \(GLAS\) data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/download-oracle-glas-data.md)
 
-## Related
-
-- [[oracle-options|Oracle Database options and management packs]]

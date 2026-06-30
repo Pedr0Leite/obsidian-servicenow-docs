@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response Integration with Proofpoint,
 
 # Install and configure the Proofpoint integration for Data Loss Prevention
 
-[[configure-cortex-xsiam-siem|Install and configure]] the  Proofpoint DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Proofpoint DLP incident data.
+Install and configure the  Proofpoint DLP integration from the  ServiceNow® Store on your  ServiceNow AI Platform instance. Start investigating DLP incidents using the  Proofpoint DLP incident data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_dlir.admin
 
 1.  Download the  Proofpoint DLP integration from the  ServiceNow® Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations ** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations ** &gt; **Integration Configurations**.
 
 3.  Search for the  `DLP Incident Response Integration with Proofpoint` tile, and click  **Configure**.
 
@@ -55,7 +55,3 @@ Configure a webhook on Proofpoint using the REST API endpoint to start getting t
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-proofpoint.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

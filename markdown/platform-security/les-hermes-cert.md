@@ -16,24 +16,24 @@ Secure your Kafka topics by generating a ServiceNow® instance-signed certificat
 
 ## Before you begin
 
-Setting up the Hermes Messaging Service requires coordination with your network administrator and with your Kafka administrator. Work with your network administrator to obtain required security [[c_Certificates|certificates]] and open the required ports. Work with your Kafka administrator to ensure that your Kafka environment is configured correctly and that your applications can connect to the Hermes Messaging Service using the standard Kafka protocol.
+Setting up the Hermes Messaging Service requires coordination with your network administrator and with your Kafka administrator. Work with your network administrator to obtain required security certificates and open the required ports. Work with your Kafka administrator to ensure that your Kafka environment is configured correctly and that your applications can connect to the Hermes Messaging Service using the standard Kafka protocol.
 
 Make sure the following setup is in place:
 
 -   The Hermes Messaging Service is activated. See [Activating the Hermes Messaging Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/hermes-messaging-service-activation.md).
--   The [[encryption|Key Management Framework]] plugin \(com.glide.kmf.global\) is activated.
+-   The Key Management Framework plugin \(com.glide.kmf.global\) is activated.
 -   The Certificates \[sys\_kmf\_certificate\] table contains a ServiceNow instance root CA certificate.
 -   The instance isn't configured with a Custom URL. Custom URLs are not supported with the Instance PKI Certificate Generator.
 
 Role required: hermes\_admin, sn\_kmf.cryptographic\_manager, or admin
 
-For details on assigning [[kmf-roles|KMF roles]], see [Roles installed with Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf-roles.md).
+For details on assigning KMF roles, see [Roles installed with Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/kmf-roles.md).
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Certificate Generator** &gt; **Instance PKI Certificate Generator**.
 
-2.  Control access to topics by configuring [[sc-access-control|Access Control]] Lists \(ACLs\) at the namespace or topic-level.
+2.  Control access to topics by configuring Access Control Lists \(ACLs\) at the namespace or topic-level.
 
 <table id="choicetable_ebz_1jn_zyb"><thead><tr><th align="left" id="d127351e135">
 
@@ -101,7 +101,7 @@ You can now create a secure connection to the Hermes Messaging Service.
 
 [Check the status of and connection to the Hermes Kafka cluster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/run-hermes-messaging-service-diagnostics.md).
 
-**Parent Topic:**[[les-configure|Configuring Log Export Service \(LES\)]]
+**Parent Topic:**[Configuring Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-configure.md)
 
 **Related topics**  
 
@@ -110,10 +110,3 @@ You can now create a secure connection to the Hermes Messaging Service.
 
 [MID server consumer]()
 
-## Related
-
-- [[les-configure|Configuring Log Export Service \(LES\)]]
-- [[c_Certificates|Certificates]]
-- [[encryption|Key Management Framework]]
-- [[kmf-roles|kmf roles]]
-- [[sc-access-control|Access control]]

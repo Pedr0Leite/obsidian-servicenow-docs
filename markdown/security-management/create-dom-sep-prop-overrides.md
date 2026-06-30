@@ -12,7 +12,7 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 # Create domain-separated property overrides
 
-When you use domain separation, you can create overrides to existing [[security-operations-landing-page|Security Operations]] properties that allow you to customize the functions of the applications in each of your domains.
+When you use domain separation, you can create overrides to existing Security Operations properties that allow you to customize the functions of the applications in each of your domains.
 
 ## Before you begin
 
@@ -46,14 +46,10 @@ Role required: admin
     The property override is applied to the selected property in the specified domain. When the logic for this property is triggered, the system checks for domain-separated property overrides. If an override for the domain is found, the new value is used. Otherwise, the value for the default domain is used.
 
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
 **Related topics**  
 
 
 [Understanding domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
-## Related
-
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[security-operations-landing-page|Security Operations]]

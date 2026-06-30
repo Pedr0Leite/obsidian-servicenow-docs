@@ -14,14 +14,14 @@ breadcrumb: [Contextual search, Search administration, Configure core features, 
 
 # Domain separation and Contextual Search
 
-Domain separation is supported in [[c_ContextualSearch|Contextual Search]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Contextual Search. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
 -   Includes all aspects of **Basic** level support.
 -   Application properties are domain-aware as needed.
 -   Business logic: The service provider \(SP\) creates or modifies processes per customer. The use cases reflect proper use of the application by multiple SP customers in a single instance.
--   The instance owner must configure the minimum viable product \(MVP\) business logic and data [[r_DirectJDBCProbeParameters|parameters]] per tenant as expected for the specific application.
+-   The instance owner must configure the minimum viable product \(MVP\) business logic and data parameters per tenant as expected for the specific application.
 
 Sample use case: An admin must be able to make comments required when a record closes for one tenant, but not for another.
 
@@ -29,7 +29,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in Contextual Search
 
-By default, Contextual Search Suggestions [[hs-results|results]] that appear use the domain of the currently logged-in user.
+By default, Contextual Search Suggestions results that appear use the domain of the currently logged-in user.
 
 ## Search as a different user
 
@@ -38,7 +38,7 @@ In addition to being able to search for results using the domain of the logged-i
 When **Search as** is configured, two tabs appear in the search results:
 
 1.  **My Results** tab searches using the currently logged-in user domain.
-2.  The **Search as** user tab searches using the domain of the User [[reference-email-admin|Reference]] field selected by the administrator. For example, selecting a request's **Opened by** or **Caller** field searches using the domain of the user who made the request.
+2.  The **Search as** user tab searches using the domain of the User Reference field selected by the administrator. For example, selecting a request's **Opened by** or **Caller** field searches using the domain of the user who made the request.
 
 **Note:**
 
@@ -60,9 +60,3 @@ Example: The same Incident displaying search results for the user from the **Cal
 
 [Enable viewing of search results for the current and another selected user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/t_SearchAsDifferentUser.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

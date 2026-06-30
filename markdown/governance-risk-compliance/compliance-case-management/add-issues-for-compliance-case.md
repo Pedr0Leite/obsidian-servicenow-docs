@@ -14,7 +14,7 @@ breadcrumb: [Use, Compliance Case Management, Governance, Risk, and Compliance]
 
 # Add an issue for a compliance case
 
-Identify and add an issue that is related to the impacted areas of a reported compliance case. You can also create an issue from the GRC: [[compliance-case-management|Compliance Case Management]] landing page.
+Identify and add an issue that is related to the impacted areas of a reported compliance case. You can also create an issue from the GRC: Compliance Case Management landing page.
 
 ## Before you begin
 
@@ -62,11 +62,7 @@ See the [Create an Issue form](https://raw.githubusercontent.com/ServiceNow/Serv
 
 
 -   **[Create an Issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-issue-compliance-ws.md)**  
-Use the [[create-an-issue-form-mrm|Create an Issue form]] in GRC: Compliance Case Management to add an issue to a compliance case, report findings or observations or compliance deficiencies, or matters that require immediate attention from the respective owners.
+Use the Create an Issue form in GRC: Compliance Case Management to add an issue to a compliance case, report findings or observations or compliance deficiencies, or matters that require immediate attention from the respective owners.
 
 **Parent Topic:**[Using Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/use-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[create-an-issue-form-mrm|Create an issue form]]

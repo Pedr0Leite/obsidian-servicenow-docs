@@ -12,7 +12,7 @@ breadcrumb: [User management, Explore, Financial Services Operations \(FSO\)]
 
 # User roles and FSO Business rules
 
-This section defines the various roles within [[financial-services-operations-core-data-model|Financial Services Operations Core]] and explains the business rules that guide the system’s actions.
+This section defines the various roles within Financial Services Operations Core and explains the business rules that guide the system’s actions.
 
 ## Roles installed
 
@@ -34,7 +34,7 @@ FSO admin\[sn\_bom.admin\]
 
 </td><td>
 
-Application-specific system administrator role for the [[fso-overview|Financial Services]] Operations \(FSO\) applications. Users with this role have read, write, and create access to the FSO tables.
+Application-specific system administrator role for the Financial Services Operations \(FSO\) applications. Users with this role have read, write, and create access to the FSO tables.
 
 </td><td>
 
@@ -381,8 +381,3 @@ Business rule that prevents storing more than four characters in an **Account nu
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Executing Portfolio Planning work in PPM
 
-Facilitate execution of the work planned in [[portfolio-planning-app-landing-page|Portfolio Planning]] in ServiceNow [[c_ProjectPortfolioSuite|Project Portfolio Management]] application.
+Facilitate execution of the work planned in Portfolio Planning in ServiceNow Project Portfolio Management application.
 
 Import, export, and manage your planning items between Portfolio Planning and PPM.
 
@@ -34,7 +34,7 @@ To get started on integrating Portfolio Planning with PPM, see [Configuring Port
 
 -   **Can I use PPM Standard for project execution without Agile 2.0 or SAFe?**
 
-    Yes. If your teams follow waterfall or traditional [[c_ProjectApplicationOverview|Project Management]] methodology, use [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]] as your execution system. Planning items created in Portfolio Planning can be exported to PPM as projects. Changes in PPM \(project status, costs, resources\) sync back to Portfolio Planning automatically.
+    Yes. If your teams follow waterfall or traditional Project Management methodology, use PPM Standard \(Project Portfolio Management\) as your execution system. Planning items created in Portfolio Planning can be exported to PPM as projects. Changes in PPM \(project status, costs, resources\) sync back to Portfolio Planning automatically.
 
     Use case: Infrastructure team plans in Portfolio Planning, executes data-center migration project in PPM Standard with Gantt charts, task dependencies, and resource management.
 
@@ -74,9 +74,3 @@ Scenario: PPM only organization \(waterfall projects\)
     -   Check that the planning item and PPM project/epic are properly linked \(primary planning item field is populated\).
     -   Review transformation maps for any table, field, or choice mapping issues.
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]

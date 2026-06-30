@@ -28,7 +28,7 @@ Leader's can use the organizational chart or the **Search for employees in your 
 
 
 
-To access the Org talent page, navigate to the [[employee-center-landing-page|Employee Center]] and select **Org talent** from the [[td-lh-landing|Leader hub]] drop-down list.
+To access the Org talent page, navigate to the Employee Center and select **Org talent** from the Leader hub drop-down list.
 
 ## Org talent widgets
 
@@ -52,8 +52,3 @@ Widget is a search bar that appears above the organizational chart. Search resul
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-landing|Leader Hub]]

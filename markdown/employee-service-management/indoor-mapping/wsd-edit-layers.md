@@ -18,7 +18,7 @@ Select a layer on the Map Configuration preview and edit it.
 
 ## Before you begin
 
-\[Omitted video\] Description: Configure layers in the [[Indoor-mapping|Indoor Mapping]] application.
+\[Omitted video\] Description: Configure layers in the Indoor Mapping application.
 
 Layers are the shapes or geometries in your CAD file.
 
@@ -61,7 +61,7 @@ Role required: sn\_map\_core.map\_admin
 
     The selected layer elements are displayed on the Map configuration preview panel based on your selection.
 
-    \[Omitted image "wsd-layer-elements-in-map-preview.png"\] Alt text: Selected layer type shown on the [[map-preview-indoor-mapping|map preview]].
+    \[Omitted image "wsd-layer-elements-in-map-preview.png"\] Alt text: Selected layer type shown on the map preview.
 
 7.  Resolve a missing layer type \(highlighted in red in the summary pill\) by selecting a layer type from the **Select layer type** options.
 
@@ -88,7 +88,3 @@ Role required: sn\_map\_core.map\_admin
 
 **Next topic:**[Configure places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-places.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[map-preview-indoor-mapping|Map preview]]

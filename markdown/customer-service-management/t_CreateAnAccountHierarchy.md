@@ -34,9 +34,6 @@ Role required: One of the following roles:
 
 4.  Select **Update**.
 
-    The [[c_AccountHierarchy|account hierarchy]] is displayed in a tree map on the [[customer-service-account-form|Account form]] for the parent account.
+    The account hierarchy is displayed in a tree map on the Account form for the parent account.
 
-## Related
 
-- [[c_AccountHierarchy|Account hierarchy]]
-- [[customer-service-account-form|Account form]]

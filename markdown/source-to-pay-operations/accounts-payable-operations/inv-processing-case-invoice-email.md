@@ -14,20 +14,20 @@ breadcrumb: [Configure Accounts payable document classification skill, Configure
 
 # Copy and configure Invoice Processing Case for Invoice email flow
 
-Configure the invoice processing case invoice email flow to process [[invoices|invoices]] received through email.
+Configure the invoice processing case invoice email flow to process invoices received through email.
 
 ## Before you begin
 
 Role required: admin
 
-Scope: [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]].
+Scope: Accounts Payable Operations integration with Document Intelligence.
 
 Plugins required:
 
 -   Now assist in Document Intelligence
 -   Account Payable Invoice Processing
 -   Now assist for Account Payable Operations
--   Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack
+-   Document Intelligence for Accounts Payable Operations Content Pack
 
 ## Procedure
 
@@ -53,8 +53,4 @@ Plugins required:
 
     The Invoice Processing Case for Invoice email flow is activated.
 
-## Related
 
-- [[invoices|Invoices]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

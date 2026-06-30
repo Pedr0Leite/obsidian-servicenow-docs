@@ -19,7 +19,7 @@ You can measure the effectiveness of your company's risk management program by h
 To know more about how issues function across all GRC applications, see [GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-issues-common-core.md).
 
 -   **[Manually create GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIssue.md)**  
-As a GRC user, you can manually create issues to document policy, risk, or [[audit-observations|audit observations]], or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
+As a GRC user, you can manually create issues to document policy, risk, or audit observations, or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
 -   **[Report self-identified issues via the Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/create-self-identified-issues.md)**  
 Your employees and business users within your company can self-identify an issue and submit it via the ServiceNow® Service Portal. Following submission, a triage issue is automatically created.
 -   **[Remediate an issue in Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/remediate-issue.md)**  
@@ -27,6 +27,3 @@ After an issue has been identified, triaged, and investigated, you can remediate
 
 **Parent Topic:**[Classic UI for Policy and Control Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/using-policy-compliance-legacy-ui.md)
 
-## Related
-
-- [[audit-observations|Audit observations]]

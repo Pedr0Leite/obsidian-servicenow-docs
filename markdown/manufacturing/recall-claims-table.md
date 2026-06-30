@@ -12,7 +12,7 @@ breadcrumb: [Recall campaign data model, Data model, Reference, Manufacturing Co
 
 # Recall campaign tables
 
-This section explains the recall campaign tables in [[manufacturing-overview|Manufacturing Commercial Operations]].
+This section explains the recall campaign tables in Manufacturing Commercial Operations.
 
 ## Recall claim plugin
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[mco-rcl-clms|Recall Campaign]]\[sn\_rcl\_claim\_mgmt\_rcp\]
+Recall Campaign\[sn\_rcl\_claim\_mgmt\_rcp\]
 
 </td><td>
 
@@ -121,10 +121,5 @@ Recall phase part allocation\[sn\_rcl\_claim\_mgmt\_phase\_part\_allocation\]
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[recall-claims|Recall campaign data model]]
+</table>**Parent Topic:**[Recall campaign data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/recall-claims.md)
 
-## Related
-
-- [[recall-claims|Recall campaign data model]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]
-- [[mco-rcl-clms|Recall campaign]]

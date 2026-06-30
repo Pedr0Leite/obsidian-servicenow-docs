@@ -14,7 +14,7 @@ breadcrumb: [Domain Separation and Discovery, Configuring Discovery, Discovery, 
 
 # Configure domain-separated Discovery schedules
 
-Configuring the "Run as" user in a [[r-discovery|Discovery]] schedule directs discovered Configuration Items \(CIs\) to the correct domain and maintains data isolation.
+Configuring the "Run as" user in a Discovery schedule directs discovered Configuration Items \(CIs\) to the correct domain and maintains data isolation.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ In domain-separated environments, the domain of the user who creates a Discovery
 
 **Parent Topic:**[Domain Separation and Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryDomainSeparation.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

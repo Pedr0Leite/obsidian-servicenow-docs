@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Slack external content connector
 
-The Slack external content connector retrieves attachments from public channels in your Slack source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Slack external content connector retrieves attachments from public channels in your Slack source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to update searchable content and metadata from your source system. Content crawls feed their data to AI Search for indexing.
 
@@ -43,6 +43,3 @@ Specify the public channels you want your Slack external content connector to cr
 
 [Create a content crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-content-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

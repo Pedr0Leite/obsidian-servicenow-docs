@@ -14,17 +14,12 @@ breadcrumb: [HR Service Delivery integration with Oracle Cloud HCM, Integration 
 
 # Reference - HR Service Delivery integration with Oracle Cloud HCM
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]], including lists and forms.
+Reference topics provide additional information about the HR Service Delivery integration with Oracle Cloud HCM, including lists and forms.
 
 -   **[Components installed with HR Service Delivery integration with Oracle Cloud HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-oracle-hcm.md)**  
 Several types of components are installed with the activation of the HR Service Delivery integration with Oracle Cloud HCM \(sn\_hr\_oracle\_hcm\) application, including tables, user roles, and scheduled jobs.
 -   **[Transform maps for HR Service Delivery integration with Oracle Cloud HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/oracle-hcm-transform-maps.md)**  
-[[transform-maps-navex|Transform maps]] specify data relationships between a source table and a target table.
+Transform maps specify data relationships between a source table and a target table.
 
 **Parent Topic:**[Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[integration-hr-oracle-hcm|HR Service Delivery integration with Oracle Cloud HCM]]
-- [[transform-maps-navex|Transform maps]]

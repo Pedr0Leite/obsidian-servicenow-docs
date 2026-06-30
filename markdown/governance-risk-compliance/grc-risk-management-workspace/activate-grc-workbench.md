@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-To create [[entity-class-in-risk-ws|entity classes]], entity dependencies, and risk dependencies activate the GRC: Workbench, and the GRC: Risk Management plugin \[com.sn\_risk\].
+To create entity classes, entity dependencies, and risk dependencies activate the GRC: Workbench, and the GRC: Risk Management plugin \[com.sn\_risk\].
 
 ## Procedure
 
@@ -46,6 +46,3 @@ To create [[entity-class-in-risk-ws|entity classes]], entity dependencies, and r
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/activate-grc-workbench.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]

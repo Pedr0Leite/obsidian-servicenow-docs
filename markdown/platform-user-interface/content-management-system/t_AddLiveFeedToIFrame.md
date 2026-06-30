@@ -14,7 +14,7 @@ breadcrumb: [Configure iFrames, Types of content blocks, Content blocks, Configu
 
 # Integrate Live Feed with CMS
 
-You can provide access to Live Feed from pages built in the [[c_ContentManagementSystem|Content Management System]] \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
+You can provide access to Live Feed from pages built in the Content Management System \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The ESS Portal template includes the **Portal - Live page** and **Live Feed** dy
 
 [Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 
-## Related
-
-- [[c_ContentManagementSystem|Content Management System]]

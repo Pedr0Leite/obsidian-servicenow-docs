@@ -14,11 +14,11 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Discovery Home page
 
-The Discovery Home page provides a summary of discoveries that were triggered by cloud and non-cloud schedules. You can view any errors that occurred during a [[r-discovery|Discovery]] and find [[ccg-remediation|remediation]] suggestions. Use the Home page view to examine the cloud resources discovered for the service accounts you selected in a cloud schedule.
+The Discovery Home page provides a summary of discoveries that were triggered by cloud and non-cloud schedules. You can view any errors that occurred during a Discovery and find remediation suggestions. Use the Home page view to examine the cloud resources discovered for the service accounts you selected in a cloud schedule.
 
 To open the Discovery Home page, navigate to **Discovery** &gt; **Home**. The Home page shows the Discovery totals for each of the following categories. Select a tile to view details for that category.
 
-**Note:** [[discovery-admin-workspace|Discovery Admin Workspace]] provides an updated experience for monitoring discoveries, managing schedules, and resolving errors. For more information, see [Discovery Admin Workspace Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-home.md).
+**Note:** Discovery Admin Workspace provides an updated experience for monitoring discoveries, managing schedules, and resolving errors. For more information, see [Discovery Admin Workspace Home](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace-home.md).
 
 \[Omitted image "DiscoHomeSummary.png"\] Alt text: Discovery Home page
 
@@ -144,7 +144,7 @@ Use these controls to filter Discovery results by schedules:
 
 -   **Advanced View**
 
-    Displays the [[c_DiscoveryStatus|Discovery status]] record for the selected schedule. Use this link to examine the results of the schedule in the ECC Queue and the Discovery log.
+    Displays the Discovery status record for the selected schedule. Use this link to examine the results of the schedule in the ECC Queue and the Discovery log.
 
 
 ## Viewing IP-based schedules
@@ -244,9 +244,3 @@ Role required: discovery\_admin
 
 [Create Discovery schedules for cloud resources]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[c_DiscoveryStatus|Discovery status]]

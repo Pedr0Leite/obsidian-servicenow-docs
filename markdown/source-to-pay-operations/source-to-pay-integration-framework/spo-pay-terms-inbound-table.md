@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Payment Terms Stage inbound staging table
 
-The [[payment-terms|Payment Terms]] Stage inbound \[sn\_fcms\_intg\_payment\_term\_stage\] staging table temporarily stores important data about payment terms before this data is sent to the primary table.
+The Payment Terms Stage inbound \[sn\_fcms\_intg\_payment\_term\_stage\] staging table temporarily stores important data about payment terms before this data is sent to the primary table.
 
 The following table lists the mandatory fields for the Payment Terms Stage inbound \[sn\_fcms\_intg\_payment\_term\_stage\] staging table.
 
@@ -22,7 +22,7 @@ The following table lists the mandatory fields for the Payment Terms Stage inbou
 |-----|---------|-----------|
 |Discount days|Integer|Specific days or periods during which you receive discounts on products.|
 |Discount percentage|Decimal|Cash discount percentage rate.|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |Name|String|The name or code of the payment term. Example: Net 060.|
 |Net days to pay|Integer|Number of days within which payment is due after receiving an invoice.|
 |Payment term|String|Term for making the payment.|
@@ -106,9 +106,3 @@ The following table lists the mandatory fields for the Payment Terms Stage inbou
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[payment-terms|Payment terms]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

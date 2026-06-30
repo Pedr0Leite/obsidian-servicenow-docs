@@ -14,7 +14,7 @@ breadcrumb: [Exploring the Key Management Framework, Key Management Framework, E
 
 # Instance level keys in the Key Management Framework
 
-Learn about the [[encryption|Key Management Framework]] \(KMF\) key structure, which uses envelope [[encryption-landing|encryption]] to ensure that all platform keys under KMF management are protected through a chain of keys. Customer Data Encryption Keys \(CDEKs\) created by KMF are also included in this structure
+Learn about the Key Management Framework \(KMF\) key structure, which uses envelope encryption to ensure that all platform keys under KMF management are protected through a chain of keys. Customer Data Encryption Keys \(CDEKs\) created by KMF are also included in this structure
 
 .
 
@@ -78,7 +78,7 @@ Instance
 
 </td><td>
 
-Unique per instance, the IHK is used internally for Hash-Based Message [[c_Authentication|Authentication]] Code \(HMAC\) purposes. The IHK helps to verify the authenticity and integrity of module keys and is wrapped on either KeySecure or the File Key Store.
+Unique per instance, the IHK is used internally for Hash-Based Message Authentication Code \(HMAC\) purposes. The IHK helps to verify the authenticity and integrity of module keys and is wrapped on either KeySecure or the File Key Store.
 
 </td></tr><tr><td>
 
@@ -155,8 +155,3 @@ Specific encryption keys used for the IDR process.
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/explore-kmf.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[encryption-landing|Encryption]]
-- [[c_Authentication|Authentication]]

@@ -30,7 +30,7 @@ From
 
 </td><td>
 
-The CI class or fingerprint process of the CI that is the connection source. This field appears only when you access connection suggestions by navigating to **[[c_ServiceMappingOverview|Service Mapping]]** &gt; **Administration** &gt; **Connection Suggestions**.
+The CI class or fingerprint process of the CI that is the connection source. This field appears only when you access connection suggestions by navigating to **Service Mapping** &gt; **Administration** &gt; **Connection Suggestions**.
 
 </td></tr><tr><td>
 
@@ -79,7 +79,7 @@ The confidence level indicates the likelihood of this connection being part of t
 
 If the confidence level appears as **N/A**, wait until the application fingerprints training is complete. See the [Application fingerprint training status report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/readiness-dashboard-ml.md).
 
- Confidence level is available only if fingerprint based [[r-discovery|discovery]] is enabled. See [Discover applications based on fingerprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discover-application-based-process.md) for more information.
+ Confidence level is available only if fingerprint based discovery is enabled. See [Discover applications based on fingerprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discover-application-based-process.md) for more information.
 
 </td></tr><tr><td>
 
@@ -138,7 +138,3 @@ The timestamp of when this connection last changed.
 
 [Add or remove CIs for multiple application services using connection suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/manipulate-connections-suggestions-in-bulk.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

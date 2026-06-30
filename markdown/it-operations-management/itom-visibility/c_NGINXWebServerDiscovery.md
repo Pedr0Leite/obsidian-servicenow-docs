@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # NGINX web server discovery
 
-NGINX is an open source web server with a load balancer. [[r-discovery|Discovery]] identifies the web server and information related to the load balancer.
+NGINX is an open source web server with a load balancer. Discovery identifies the web server and information related to the load balancer.
 
 Discovery identifies NGINX server software using the following process:
 
@@ -105,6 +105,3 @@ In the table \[cmdb\_rel\_ci\] the following relationships are populated:
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Investigation using Agent Client Collector, Setting up Investigatio
 
 # Install Agent Client Collector for Investigation
 
-Install the Agent Client Collector for Investigation application \(sn\_acc\_adapter\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store [[dex-workspace-application-tab|applications]] and plugins if they are not already installed.
+Install the Agent Client Collector for Investigation application \(sn\_acc\_adapter\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ For more information, see [Components installed with Agent Client Collector for 
 
 **Parent Topic:**[Setting up investigation framework using Agent Client Collector for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate-fw-using-acc.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

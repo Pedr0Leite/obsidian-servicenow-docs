@@ -15,7 +15,7 @@ breadcrumb: [Putting away enterprise assets, Create and manage enterprise asset 
 
 # View open put away tasks for your stockroom in the Enterprise Asset Workspace
 
-View the open put away tasks for your stockroom in the [[using-eam-workspace|Enterprise Asset Workspace]] to get the details of the tasks that need action.
+View the open put away tasks for your stockroom in the Enterprise Asset Workspace to get the details of the tasks that need action.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: inventory\_user
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
-2.  View the open put away task either from the Inventory overview section or the All [[c_Stockrooms|Stockrooms]] tab.
+2.  View the open put away task either from the Inventory overview section or the All Stockrooms tab.
 
     -   In the Inventory overview section, select the **Open put away tasks** number.
     -   In the **Stockrooms** tab, select a stockroom. In the Open stockroom tasks section, select the **Open put away tasks** number.
@@ -40,7 +40,3 @@ Put away the asset in the desired drop-off location in the stock room and close 
 
 **Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

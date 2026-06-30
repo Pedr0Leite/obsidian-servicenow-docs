@@ -17,7 +17,7 @@ A geomap visualization shows the geographical distribution of data for a world, 
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -25,7 +25,7 @@ For information about the use of a Geomap visualization in a dashboard, see [the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -33,7 +33,7 @@ For information about the use of a Geomap visualization in a dashboard, see [the
 
 4.  Choose a table data source.
 
-    For general descriptions of the data sources, see [[data-sources-visualizations|Data sources for data visualizations]].
+    For general descriptions of the data sources, see [Data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-sources-visualizations.md).
 
     1.  Configure the map settings.
 
@@ -132,7 +132,7 @@ Option to show or hide the refresh option from data visualizations. If cache is 
 </td></tr></tbody>
 </table>6.  Set the options for your data source.
 
-    Go to [[config-dv-geomap-table-data|Table data options for Geomap visualizations]].
+    Go to [Table data options for Geomap visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-geomap-table-data.md).
 
 7.  Under **Presentation**, provide display and color information.
 
@@ -241,25 +241,14 @@ Only the **Go to data view** interaction is available for geomaps. This action o
 
 ## What to do next
 
--   [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
--   [[share-dv-ac|Share a data visualization in the Visualization Designer]]
--   [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
+-   [Add a visualization to a dashboard from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dv-new-db.md)
+-   [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md)
 
 -   **[Table data options for Geomap visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-geomap-table-data.md)**  
 When you select a table data source for a Geomap visualization, the following Data configuration options are available.
--   **[[geomap-map-source|Map sources for geomap data visualizations]]**  
+-   **[Map sources for geomap data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/geomap-map-source.md)**  
 Geomap data visualizations are connected to location tables in a special map source.
 
-**Parent Topic:**[[creating-data-visualizations|Creating data visualizations]]
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[data-sources-visualizations|Data sources for data visualizations]]
-- [[config-dv-geomap-table-data|Table data options for Geomap visualizations]]
-- [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[geomap-map-source|Map sources for geomap data visualizations]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

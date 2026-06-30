@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Major Security Incident Management, Security Incident Re
 
 # Integrate Major Security Incident Management with Microsoft SharePoint
 
-[[integrating-threat-intelligence-security-center|Integrate]] your Microsoft SharePoint with [[major-security-incident-management-landing-page|Major Security Incident Management]].
+Integrate your Microsoft SharePoint with Major Security Incident Management.
 
 -   **[Register a new application at Azure portal for SharePoint connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-azure-app-msim.md)**  
 Register a new application at Azure portal for Microsoft SharePoint integration.
@@ -34,7 +34,3 @@ Set up Major Security Incident Management with Microsoft SharePoint connection.
 
 [Major Security Incident Management Conference Call Integration]()
 
-## Related
-
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

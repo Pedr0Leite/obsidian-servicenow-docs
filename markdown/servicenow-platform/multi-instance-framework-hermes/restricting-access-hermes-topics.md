@@ -14,7 +14,7 @@ breadcrumb: [Configure, Hermes Messaging Service, Manage service capabilities, E
 
 # Restricting access to Hermes
 
-[[t_ContrlAccessByCDGUOrLoc|Restrict access]] to Hermes by [[ip-address|IP address]].
+Restrict access to Hermes by IP address.
 
 You can filter client access to the Hermes cluster using the IP Address Access Control module. When IP address filtering is enabled, the system only blocks an IP address if a matching Deny rule exists and no matching Allow rule exists. By default, there are no restrictions on access to your instance.
 
@@ -36,7 +36,3 @@ Receive a notification when an attempt to access Hermes is received from an unau
 
 [Revoke a Hermes certificate]()
 
-## Related
-
-- [[t_ContrlAccessByCDGUOrLoc|Restrict access]]
-- [[ip-address|IP Address]]

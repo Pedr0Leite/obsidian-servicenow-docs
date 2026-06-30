@@ -14,7 +14,7 @@ breadcrumb: [Advanced ACL configuration, Access Control List Rules, Access Manag
 
 # Apply ACLs to AJAXGlideRecord \(client-side Glide record\)
 
-Use a system property to perform [[sc-access-control|access control]] list \(ACL\) rule validation when server-side records \(for example, tables\) are accessed using GlideAjax APIs within a client script.
+Use a system property to perform access control list \(ACL\) rule validation when server-side records \(for example, tables\) are accessed using GlideAjax APIs within a client script.
 
 If you choose to apply access control lists \(ACL\) to GlideAjax API calls, then you can only query data to which the currently connected user has rights to access. For example, if the user is logged in as an ESS user who has no rights to read the `cmn_location` table, then any GlideAjax API call by the user will fail.
 
@@ -22,7 +22,7 @@ If the ServiceNow AI Platform is running without GlideAjax ACL call checking, an
 
 Use GlideRecordSecure when querying data to ensure the highest level of security. GlideRecord relies on ACL enforcement through configurations whereas GlideRecordSecure applies stricter security controls. GlideRecordSecure offers a more secure, out-of-the-box solution for handling sensitive data.
 
-**Note:** Set this property in **[[ca-system-properties|System Properties]]** &gt; **Security**.
+**Note:** Set this property in **System Properties** &gt; **Security**.
 
 |Property|Default|
 |--------|-------|
@@ -30,10 +30,5 @@ Use GlideRecordSecure when querying data to ensure the highest level of security
 
 **Warning:** The `sys_class_name, sys_id` and `sys_domain` are ignored for ACL checks.
 
-To learn more about this property, see [Require AJAXGlideRecord ACL checking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enabling-ajaxgliderecord-acl-checking.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+To learn more about this property, see [Require AJAXGlideRecord ACL checking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enabling-ajaxgliderecord-acl-checking.md) in Instance Security Hardening Settings.
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[ca-system-properties|System properties]]
-- [[sc-hardening|Security hardening]]

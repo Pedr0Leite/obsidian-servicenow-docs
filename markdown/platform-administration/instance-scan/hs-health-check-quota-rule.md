@@ -14,7 +14,7 @@ breadcrumb: [Timeout threshold, Configuring Instance Scan, Instance Scan, Mainta
 
 # Implement a check timeout threshold
 
-Set the execution time of an individual check by implementing timeout system property. Setting of a [[hs-quota-rules|timeout threshold]] prevents your instance from running a long check.
+Set the execution time of an individual check by implementing timeout system property. Setting of a timeout threshold prevents your instance from running a long check.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  In the navigation filter, enter **sys\_properties.list**.
 
-2.  From the [[r_SetArchiveRuleProcessingBehavior|System Properties]] list, select **glide.scan.process\_check.time\_out**.
+2.  From the System Properties list, select **glide.scan.process\_check.time\_out**.
 
     **Note:** If **glide.scan.process\_check.time\_out** is not present in the list, see [Create a new check timeout system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-new-heath-check-timeout.md) for more information.
 
@@ -37,7 +37,3 @@ Role required: admin
 
 A timeout threshold for a check is set by the user. Individual checks will be cancelled after the set time threshold exceeds.
 
-## Related
-
-- [[hs-quota-rules|Timeout threshold]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

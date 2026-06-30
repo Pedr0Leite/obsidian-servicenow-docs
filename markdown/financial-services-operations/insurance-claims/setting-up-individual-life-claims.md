@@ -14,7 +14,7 @@ breadcrumb: [Individual Life Claims, Exploring insurance claims applications, In
 
 # Setting up Individual Life Claims
 
-You can install and configure the [[individual-life-claims-landing-page|Individual Life Claims]] application so that the first-notice-of-loss \(FNOL\) representatives, adjusters, and others can begin servicing the individual life claims.
+You can install and configure the Individual Life Claims application so that the first-notice-of-loss \(FNOL\) representatives, adjusters, and others can begin servicing the individual life claims.
 
 -   **[Install Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/install-individual-life-claims.md)**  
 If you have the admin role, you can install the Individual Life Claims application \(sn\_ins\_claim\_indl\). The application includes demo data and installs related ServiceNow Store applications and plugins that aren’t already installed.
@@ -27,6 +27,3 @@ Individual life claims contain personal or sensitive data fields that may requir
 
 **Parent Topic:**[Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/individual-life-claims-landing-page.md)
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]

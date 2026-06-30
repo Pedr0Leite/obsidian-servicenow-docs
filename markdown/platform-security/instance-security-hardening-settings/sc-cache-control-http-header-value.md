@@ -52,11 +52,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ Security risk
 
 </td><td>
 
-\(High\) If you set this property to **public**, instances with CDN/proxies may cache static content and render without [[c_Authentication|authentication]]. -   **private** is a more appropriate setting for instances with CDN/proxy setup.
+\(High\) If you set this property to **public**, instances with CDN/proxies may cache static content and render without authentication. -   **private** is a more appropriate setting for instances with CDN/proxy setup.
 -   If an the instance does not have a CDN/proxy setup, either value should be fine.
 
 </td></tr></tbody>
@@ -120,8 +120,3 @@ Security risk
 
 **Parent Topic:**[Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-configuration.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_Authentication|Authentication]]

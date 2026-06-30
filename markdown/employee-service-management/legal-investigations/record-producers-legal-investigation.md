@@ -16,9 +16,9 @@ breadcrumb: [Reference, Legal Investigations, Legal Service Delivery Practice Ap
 
 A record producer helps you set up an intake form containing fields that a requester has to fill in and initiate a request.
 
-When [[legal-investigations-landing-page|Legal Investigations]] is installed, record producers for ethic complaints are installed.
+When Legal Investigations is installed, record producers for ethic complaints are installed.
 
-When an employee submits a complaint, a legal request or [[ur-landing-limitedaccess|universal request]] is created based on the active record producers' mapping to different tables.
+When an employee submits a complaint, a legal request or universal request is created based on the active record producers' mapping to different tables.
 
 **Important:** At any given time, only one set of record producers mapped to a specific table can be active.
 
@@ -26,7 +26,7 @@ When an employee submits a complaint, a legal request or [[ur-landing-limitedacc
 
 The following record producers can be activated for creating legal requests when a complaint is submitted.
 
-**Note:** To [[submit-legal-request|submit a legal request]] via the Anonymous Report Center portal, you require a HRSD Pro/Enterprise license in addition to the Legal Investigations subscription.
+**Note:** To submit a legal request via the Anonymous Report Center portal, you require a HRSD Pro/Enterprise license in addition to the Legal Investigations subscription.
 
 <table id="table_qll_chd_jvb"><thead><tr><th>
 
@@ -50,7 +50,7 @@ Ethics \[sn\_lg\_ops\_ethics\]
 
 </td><td>
 
--   Submitting via Legal Service Portal or via the **Legal** menu option in the [[employee-center-landing-page|Employee Center]] portal.
+-   Submitting via Legal Service Portal or via the **Legal** menu option in the Employee Center portal.
 -   Creates a legal request.
 
 </td></tr><tr><td>
@@ -71,7 +71,7 @@ Ethics \[sn\_lg\_ops\_ethics\]
 
 The following record producers can be activated for creating universal requests when a complaint is submitted.
 
-**Note:** These record producers are inactive by default. If you want to integrate Legal Investigations with [[hr-service-delivery|HR Service Delivery]] [[hr-case-employee-relations|Employee Relations]] and transfer complaints between the Legal and HR departments, you must activate them.
+**Note:** These record producers are inactive by default. If you want to integrate Legal Investigations with HR Service Delivery Employee Relations and transfer complaints between the Legal and HR departments, you must activate them.
 
 <table id="table_oxq_j3k_2vb"><thead><tr><th>
 
@@ -118,11 +118,3 @@ Universal Request \[universal\_request\]
 
 **Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 
-## Related
-
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[submit-legal-request|Submit a legal request]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]

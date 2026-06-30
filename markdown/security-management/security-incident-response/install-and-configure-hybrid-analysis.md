@@ -14,7 +14,7 @@ breadcrumb: [Hybrid Analysis integration, Security Incident Response integration
 
 # Install and configure Hybrid Analysis
 
-Before you run the integration on your instance, complete the installation and configuration steps so the Hybrid Analysis application properly integrates with ServiceNow AI Platform [[security-operations-landing-page|Security Operations]].
+Before you run the integration on your instance, complete the installation and configuration steps so the Hybrid Analysis application properly integrates with ServiceNow AI Platform Security Operations.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have assigned the required ServiceNow AI Platform and [[sir-landing-page|Security Incident Response]] roles.
+Verify that you have assigned the required ServiceNow AI Platform and Security Incident Response roles.
 
 </td><td>
 
@@ -60,14 +60,14 @@ For the Madrid release and later family releases, the com.snc.si\_dep plugin is 
 3.  Security Support Orchestration
 4.  Security Incident Response
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr></tbody>
 </table>Role required: admin
 
 ## About this task
 
-Perform the following steps to update system properties and [[configure-cortex-xsiam-siem|install and configure]] the integration.
+Perform the following steps to update system properties and install and configure the integration.
 
 ## Procedure
 
@@ -89,7 +89,7 @@ Perform the following steps to update system properties and [[configure-cortex-x
 
     \[Omitted image "hybrid-analysis-system-property.png"\] Alt text: Attributes for the system property required for this integration.
 
-4.  If you have not installed the application for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+4.  If you have not installed the application for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 5.  After the installation completes, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Hybrid Analysis tile.
 
@@ -114,11 +114,3 @@ Perform the following steps to update system properties and [[configure-cortex-x
 
 **Next topic:**[Verify expected results for Hybrid Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-results-hybrid-analysis-.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]

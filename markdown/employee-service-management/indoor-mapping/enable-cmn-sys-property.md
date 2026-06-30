@@ -14,7 +14,7 @@ breadcrumb: [Synchronize Indoor Mapping with CMN Locations, Manage map objects a
 
 # Enable the CMN location property
 
-To synchronize CMN Location types with [[Indoor-mapping|Indoor Mapping]], enable the system property **sn\_map\_core.cmn\_location\_sync\_enabled**.
+To synchronize CMN Location types with Indoor Mapping, enable the system property **sn\_map\_core.cmn\_location\_sync\_enabled**.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
     Default value of this property is **true**.
 
-    **Note:** If [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] is installed in your system, this property should be set to **false**. You can enable this property \(if it is set to false and if Workplace Service Delivery is not installed \) to synchronize CMN locations and location types with Indoor Mapping map data.
+    **Note:** If Workplace Service Delivery is installed in your system, this property should be set to **false**. You can enable this property \(if it is set to false and if Workplace Service Delivery is not installed \) to synchronize CMN locations and location types with Indoor Mapping map data.
 
 
 **Parent Topic:**[Synchronize Indoor Mapping with CMN Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/sync-cmn-location.md)
@@ -41,7 +41,3 @@ Role required: admin
 
 **Next topic:**[Add CMN locations and map it to Indoor Mapping Place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-cmn-location-types.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

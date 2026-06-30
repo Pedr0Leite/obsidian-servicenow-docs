@@ -14,7 +14,7 @@ breadcrumb: [Reference, Strategy and Goals, Strategic Planning, Strategic Portfo
 
 # Strategic Priority form
 
-Use the [[strategic-priority-form|Strategic Priority form]] to orient your organization strategic plan toward your goal.
+Use the Strategic Priority form to orient your organization strategic plan toward your goal.
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -107,6 +107,3 @@ A detailed description of the strategic priority.
 </td></tr></tbody>
 </table>**Parent Topic:**[Strategy and Goals reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/strategy-goals-reference.md)
 
-## Related
-
-- [[strategic-priority-form|Strategic Priority form]]

@@ -12,7 +12,7 @@ breadcrumb: [Using bulk edit in the Security Exposure Management Workspace, Bulk
 
 # Update the state of records in bulk in the Security Exposure Management Workspace
 
-Update the state of multiple findings concurrently according to their remediation progress using the bulk edit feature in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Update the state of multiple findings concurrently according to their remediation progress using the bulk edit feature in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -95,9 +95,5 @@ Text that you enter to describe the changes.
     A bulk edit asynchronous job updates the selected records.
 
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

@@ -16,20 +16,20 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 Revisions for the quantity of the product, budget, or delivery location can be made to orders placed from ShoppingHub.
 
-The shopper can revise an order from ShoppingHub or the procurement specialist can submit revision from the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module.
+The shopper can revise an order from ShoppingHub or the procurement specialist can submit revision from the Sourcing and Purchasing Automation module.
 
-When a shopper updates the **[[pricing|Pricing]]** reference field on the [[purchase-requisition|purchase requisition]] line, a revision is triggered for both standard and blanket purchase requests.
+When a shopper updates the **Pricing** reference field on the purchase requisition line, a revision is triggered for both standard and blanket purchase requests.
 
 -   For standard purchase requests, the quantity is left as-is. The total line amount is updated, which in turn updates the total amount of the purchase request and triggers reassessment of approvals, if applicable. Budget, even if populated, is not considered as a revision attribute.
 -   For blanket purchase requests, the quantity is left as-is. The total line amount is updated, which in turn updates the total amount of the purchase request and triggers reassessment of approvals, if applicable. In this scenario, the revision line captures the change in the pricing reference as well as the budget.
 
-When a [[purchase-order-table|purchase order]] is created, the pricing reference on the purchase requisition line cannot be revised.
+When a purchase order is created, the pricing reference on the purchase requisition line cannot be revised.
 
 ## Revisions with no purchase order
 
 If no purchase order is created, and state of the purchase requisition is not **Closed Rejected**, **Closed Complete**, or **Closed Canceled**, you can manually revise the purchase requisition. In this case, neither a revision request nor a new purchase requisition is created. You can view the updates in the Revision Lines related list of the purchase requisition line.
 
-The addition of a new purchase requisition or purchase order line is restricted to the same [[supplier|supplier]] and business owner for a revision process.
+The addition of a new purchase requisition or purchase order line is restricted to the same supplier and business owner for a revision process.
 
 ## Purchase order revisions
 
@@ -46,7 +46,7 @@ The addition of a new purchase requisition or purchase order line is restricted 
 
 For both the shopper-initiated and procurement specialist-initiated purchase order and blanket purchase order revisions, the status of the purchase requisition is updated to **Pending Revision** and delegation of authority is reassessed.
 
-The state of the purchase order and the [[purchase-order-lines|purchase order lines]] that were revised are updated to **Pending Revision**. The state of the purchase order lines which are not revised does not change.
+The state of the purchase order and the purchase order lines that were revised are updated to **Pending Revision**. The state of the purchase order lines which are not revised does not change.
 
 When the state of the purchase requisition is **Final Review** and the purchase requisition is of the type **Revision**, you can select **Update Purchase Order** to update the existing purchase order and purchase order lines with the revised information.
 
@@ -72,8 +72,8 @@ If a purchase requisition or purchase order is revised, and the re-approval is r
 
 -   **Cost allocation behavior**
 
-    -   [[cost-allocations|Cost allocations]] from the original purchase requisition are updated in the revised purchase requisition.
-    -   If an increase or decrease in funds happens, a new cost allocation is created for the primary [[cost-center|cost center]] \(cost center of the business owner on the purchase requisition\) on the revised purchase requisition.
+    -   Cost allocations from the original purchase requisition are updated in the revised purchase requisition.
+    -   If an increase or decrease in funds happens, a new cost allocation is created for the primary cost center \(cost center of the business owner on the purchase requisition\) on the revised purchase requisition.
 
         This amount reflects either as an increase \(positive amount\) or decrease \(negative amount\) in funds.
 
@@ -84,7 +84,7 @@ If a purchase requisition or purchase order is revised, and the re-approval is r
 -   **Milestone behavior**
 
     -   Milestone details are copied from the original purchase requisition to the revised purchase requisition.
-    -   User can create any additional [[milestones|milestones]], as needed, on completion of the revision.
+    -   User can create any additional milestones, as needed, on completion of the revision.
     -   Once the purchase order is updated, the original milestone on the purchase order is updated to the **Closed Canceled** state, as a copy is already created during the revision process.
     For more details on milestones, see [Milestones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/milestones.md).
 
@@ -96,14 +96,3 @@ If a purchase requisition or purchase order is revised, and the re-approval is r
 
 [Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
-## Related
-
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[pricing|Pricing]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[cost-allocations|Cost allocations]]
-- [[cost-center|Cost center]]
-- [[milestones|Milestones]]

@@ -14,16 +14,16 @@ breadcrumb: [REST API Auth Scope, REST API access policies, API access policy, A
 
 # Configure REST API Auth scope
 
-Link the [[oauth-inbound-and-outbound|OAuth]] entity with an auth scope to manage the token to access the REST APIs that are linked with the auth scope.
+Link the OAuth entity with an auth scope to manage the token to access the REST APIs that are linked with the auth scope.
 
 ## Before you begin
 
 Install the following plugins:
 
--   [[c_OAuthApplications|OAuth 2.0]]
+-   OAuth 2.0
 -   REST API Provider
--   [[c_Authentication|Authentication]] scope
--   [[rest-api-auth-scope|REST API Auth Scope]]
+-   Authentication scope
+-   REST API Auth Scope
 
 **Note:** The **REST API Auth Scope** plugin is added as part of the Tokyo release.
 
@@ -61,7 +61,7 @@ Active
 
 </td><td>
 
-Select the check box to make the [[sc-configuration|configuration]] active.
+Select the check box to make the configuration active.
 
 </td></tr><tr><td>
 
@@ -165,10 +165,3 @@ The third auth scope is mapped to the **Table API** without the http methods, ve
 
 If all these auth scopes are created, you can use **GET** method with all the three scopes, but for **POST**, **PUT**, **DELETE**, or **PATCH** methods only **scope3** can be used.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[c_Authentication|Authentication]]
-- [[rest-api-auth-scope|REST API Auth Scope]]
-- [[sc-configuration|Configuration]]

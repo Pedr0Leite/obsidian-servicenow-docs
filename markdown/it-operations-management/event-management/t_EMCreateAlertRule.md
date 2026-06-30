@@ -24,11 +24,11 @@ Role required: evt\_mgmt\_admin
 
 Existing alert action rules are active, read-only rules. An alert action rule can be modified only after it is migrated to an alert management rule.
 
-To automate alert responses with an easier interface, you can also create a respond automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
+To automate alert responses with an easier interface, you can also create a respond automation in Service Operations Workspace. For more information, see [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Alert Action Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Alert Action Rules**.
 
 2.  Select an alert action rule to migrate or delete.
 
@@ -59,7 +59,7 @@ If the alert action rule that was migrated had a task template, you can customiz
     \[Omitted image "task-template.png"\] Alt text: Task template
 
 4.  In the **Task template** field, select the required template.
-5.  In the Actions tab, in the [[ccg-remediation|Remediation]] Subflows area, select the Create Task \(legacy\) subflow to run the task template.
+5.  In the Actions tab, in the Remediation Subflows area, select the Create Task \(legacy\) subflow to run the task template.
 
     \[Omitted image "create-task-legacy.png"\] Alt text: Subflow to run task template
 
@@ -71,8 +71,3 @@ If the alert action rule that was migrated had a task template, you can customiz
 
 [Apply a quick response in an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apply-quick-response-in-alert.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_EM|Event Management]]
-- [[ccg-remediation|Remediation]]

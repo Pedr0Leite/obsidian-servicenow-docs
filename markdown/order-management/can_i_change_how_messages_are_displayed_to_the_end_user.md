@@ -16,7 +16,7 @@ Control how messages appear in CPQ.
 
 You can show messages to the end user in different formats.
 
-By default, the messages shown for [[fields|fields]] on a layout when messaging [[rules_101|rules]] are fired are shown below the field.
+By default, the messages shown for fields on a layout when messaging rules are fired are shown below the field.
 
 \[Omitted image "cpq-messages-below.png"\] Alt text: Field showing the default message style
 
@@ -24,7 +24,7 @@ However, you can override this behavior, such as to show an icon which can be ho
 
 \[Omitted image "cpq-messages-tooltip.png"\] Alt text: Field showing the tooltip message style
 
-In the [[layout_editor|layout editor]], add `{“messageDisplayType”: “<type>”}` to the raw value in the field properties \(the gear icon\) of the element where you want to add the custom message display type.
+In the layout editor, add `{“messageDisplayType”: “<type>”}` to the raw value in the field properties \(the gear icon\) of the element where you want to add the custom message display type.
 
 Accepted type values are `above`, `below`, `popup`, and `tooltip`.
 
@@ -32,8 +32,3 @@ The following image shows a popup message \(`{“messageDisplayType”: “popup
 
 \[Omitted image "cpq-messages-popup.png"\] Alt text: Field showing the popup message style
 
-## Related
-
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[layout_editor|Layout editor]]

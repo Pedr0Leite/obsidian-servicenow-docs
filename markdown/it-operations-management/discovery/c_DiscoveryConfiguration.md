@@ -14,7 +14,7 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 
 # Configuring Discovery
 
-Configure the elements that [[r-discovery|Discovery]] requires to investigate your network, such as credentials, schedules, and IP addresses.
+Configure the elements that Discovery requires to investigate your network, such as credentials, schedules, and IP addresses.
 
 ## Configuration overview
 
@@ -74,7 +74,3 @@ Use the following links to configure Discovery for your environment. You don't n
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]

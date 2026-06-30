@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Book Walk-up Experience appointments
 
-With the [[walkup-experience-landing-page|Walk-up Experience]] appointment booking feature, walk-up users can view available appointment windows, make a selection, and book an appointment for a walk-up location using online **Walk-up Check-in** feature. Walk-up agents can also book appointments on behalf of customers.
+With the Walk-up Experience appointment booking feature, walk-up users can view available appointment windows, make a selection, and book an appointment for a walk-up location using online **Walk-up Check-in** feature. Walk-up agents can also book appointments on behalf of customers.
 
 Create appointment windows for walk-up queue locations enabling requesters to book service appointments.
 
@@ -25,7 +25,7 @@ The Appointment Booking plugin \(com.snc.appointment\_booking\) must be activate
 
 Appointment booking requires configuration at both the application level, in this case, Walk-up Experience, and at the walk-up queue service level, represented by the actual location of the walk-up queue.
 
-The Walk-up Experience application configuration contains [[settings-mobile|settings]] that apply to all of the service locations within the application that support appointment booking.
+The Walk-up Experience application configuration contains settings that apply to all of the service locations within the application that support appointment booking.
 
 A service configuration is required for each of the walk-up queue locations within the application that offer scheduled appointments. A service configuration includes settings that apply only to that specific walk-up queue service location.
 
@@ -38,7 +38,3 @@ Create or modify the Walk-up Experience **Appointment Booking** feature.
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[settings-mobile|Settings]]

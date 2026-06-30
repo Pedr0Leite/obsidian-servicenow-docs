@@ -20,7 +20,7 @@ Automatically send campaign notifications in Microsoft Teams for better collabor
 
 A manifest file to enable the campaign notification display in Microsoft Teams must exist.
 
-If the configured [[employee-center-landing-page|Employee Center]] version is v.24 or above, then the Employee Center tab is present by default in your Microsoft Teams application. If the Employee Center version is lower than v.24, you must update the value of the portal in the `sn_now_teams.portal.suffix` property to `esc`. This value enables Employee Center in your instance.
+If the configured Employee Center version is v.24 or above, then the Employee Center tab is present by default in your Microsoft Teams application. If the Employee Center version is lower than v.24, you must update the value of the portal in the `sn_now_teams.portal.suffix` property to `esc`. This value enables Employee Center in your instance.
 
 Role required: admin
 
@@ -38,7 +38,7 @@ Role required: admin
 
 4.  Fill in the details in the **Configure Virtual Agent** section and select **Next**.
 
-5.  In the **Configure Tab** section, verify that **Enable [[activity-lxp|activity]] feed** is selected and select **Next**.
+5.  In the **Configure Tab** section, verify that **Enable activity feed** is selected and select **Next**.
 
     **Note:** If you are modifying the base system manifest file, select **Enable activity feed** to receive notifications for campaigns.
 
@@ -53,7 +53,3 @@ Role required: admin
 
 **Parent Topic:**[Working on campaigns in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-campaigns-ms-teams.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

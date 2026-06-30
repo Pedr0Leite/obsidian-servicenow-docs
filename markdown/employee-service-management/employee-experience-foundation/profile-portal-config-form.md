@@ -38,7 +38,7 @@ Use the Employee Profile Portal Configuration form to configure the profile for 
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -66,7 +66,7 @@ Use the Employee Profile Portal Configuration form to configure the profile for 
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -88,7 +88,3 @@ Use the Employee Profile Portal Configuration form to configure the profile for 
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

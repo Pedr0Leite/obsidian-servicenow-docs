@@ -14,13 +14,13 @@ breadcrumb: [Portal Taxonomy Topic widget, Configurable Portal widgets, Set up s
 
 # Configure a Portal Browse Taxonomy widget to work with the Portal Taxonomy Topic widget
 
-Enable users to access knowledge articles and catalog items in the Portal Taxonomy widget by selecting a topic on the card in the [[portal-taxo-topic-widget|Portal Taxonomy Topic widget]].
+Enable users to access knowledge articles and catalog items in the Portal Taxonomy widget by selecting a topic on the card in the Portal Taxonomy Topic widget.
 
 ## Before you begin
 
-You must [[config-portal-browse-taxo-widget|add and configure the Portal Browse Taxonomy widget]] before accessing taxonomic topic on the Portal Taxonomy Topic widget. Otherwise, a blank page displays on the Portal Taxonomy Topic widget. For more information, see [Add and configure the Portal Browse Taxonomy widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-browse-taxo-widget.md).
+You must add and configure the Portal Browse Taxonomy widget before accessing taxonomic topic on the Portal Taxonomy Topic widget. Otherwise, a blank page displays on the Portal Taxonomy Topic widget. For more information, see [Add and configure the Portal Browse Taxonomy widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-portal-browse-taxo-widget.md).
 
-You must [[add-conf-port-taxo-topic|add and configure the Portal Taxonomy Topic widget]] in your portal. For more information, see [Add and configure the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/add-conf-port-taxo-topic.md).
+You must add and configure the Portal Taxonomy Topic widget in your portal. For more information, see [Add and configure the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/add-conf-port-taxo-topic.md).
 
 Role required: sp\_admin
 
@@ -43,11 +43,5 @@ Role required: sp\_admin
 
 ## Result
 
-Selecting topics redirects the user to a [[browse-taxo-widget|Portal Browse Taxonomy widget]] that displays related knowledge articles and catalog items.
+Selecting topics redirects the user to a Portal Browse Taxonomy widget that displays related knowledge articles and catalog items.
 
-## Related
-
-- [[portal-taxo-topic-widget|Portal Taxonomy Topic widget]]
-- [[config-portal-browse-taxo-widget|Add and configure the Portal Browse Taxonomy widget]]
-- [[add-conf-port-taxo-topic|Add and configure the Portal Taxonomy Topic widget]]
-- [[browse-taxo-widget|Portal Browse Taxonomy widget]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure Tagging Rules in TISC, About Rules Engine in TISC, Admini
 
 # Automated creation of zero day vulnerability
 
-A zero day vulnerability scenario demonstrates how TISC detects and manages [[vulnerabilities|vulnerabilities]] that have not yet received CVE assignments.
+A zero day vulnerability scenario demonstrates how TISC detects and manages vulnerabilities that have not yet received CVE assignments.
 
 Role required: sn\_sec\_tisc.admin
 
@@ -55,6 +55,3 @@ The following entities are extracted from RSS feeds:
 
 For more information about the extraction and correlation mechanism, see [KB2936701](https://support.servicenow.com/kb?sys_kb_id=ef0c61718348c3d0cdbbc430feaad32e&id=kb_article_view) article.
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]

@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin and sm\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
     **Note:** Scroll down to an alert with **Network Traffic** as the group, and in the **Group** column, right-click and select **Show Matching**. This displays all alerts related to **Network Traffic**.
 
@@ -40,6 +40,4 @@ Role required: evt\_mgmt\_admin and sm\_admin
 
     Service candidates mapping provides a visual representation of how different service candidates are connected, making it easier to understand relationships, identify potential issues, and analyze dependencies more effectively.
 
-## Related
 
-- [[c_EM|Event Management]]

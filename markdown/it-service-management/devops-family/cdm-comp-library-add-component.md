@@ -18,7 +18,7 @@ Add or update a shared component in a component library.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_editor or cdm\_admin
 
@@ -73,6 +73,4 @@ You can also add a component to the library as a shared component from a request
 
         **Note:** For a shared component, only one version can be published at a time. So, any existing published version is unpublished and the new version is published.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]

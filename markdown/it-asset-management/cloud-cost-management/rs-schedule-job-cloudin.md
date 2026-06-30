@@ -28,7 +28,7 @@ Role required: insights\_admin or insights\_owner
 
 ## About this task
 
-When you change the resources that are included in a job, [[cloud-insights-landing-page|Cloud Cost Management]] checks for the following conditions:
+When you change the resources that are included in a job, Cloud Cost Management checks for the following conditions:
 
 -   A resource in the job is owned by another user \(as when a insights\_admin updates a job that was created by an insights\_owner or an insights\_owner updates a job that was created by a different insights\_owner\).
 -   The job was created by another user.
@@ -39,7 +39,7 @@ If either condition is met, the app sends an email notification to the owner of 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Rightsizing**.
 
 2.  In the list on the appropriate tab, select the check boxes for the resources to rightsize.
 
@@ -127,7 +127,3 @@ The Rightsizing job is created and will run at the scheduled time.
 
 [Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

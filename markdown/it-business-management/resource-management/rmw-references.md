@@ -14,16 +14,12 @@ breadcrumb: [Resource Management Workspace, Project Portfolio Management, Strate
 
 # Resource Management Workspace references
 
-Reference fields and form details for [[rsrc-mgmt-wrkspc|Resource Management Workspace]].
+Reference fields and form details for Resource Management Workspace.
 
 -   **[New Resource Assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-form-rmw.md)**  
-Fill in the following fields to create a resource assignment [[using-rmw|using Resource Management Workspace]].
+Fill in the following fields to create a resource assignment using Resource Management Workspace.
 -   **[New Operational Assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-op-ra-form-rmw.md)**  
 Fill in the following fields to create a operational assignment using Resource Management Workspace.
 
 **Parent Topic:**[Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-wrkspc.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[using-rmw|Using Resource Management Workspace]]

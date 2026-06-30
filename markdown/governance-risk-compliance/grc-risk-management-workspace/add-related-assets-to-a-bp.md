@@ -26,7 +26,7 @@ A business process is supported by various assets such as business applications,
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Lists** &gt; **Business Processes**.
+1.  Navigate to **All** &gt; **Risk Workspace** &gt; **Lists** &gt; **Business Processes**.
 
 2.  Open the business process to which you want to add assets and click the Related assets related list.
 
@@ -43,6 +43,3 @@ A business process is supported by various assets such as business applications,
 
 **Parent Topic:**[Create a business process in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-business-process-ws.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

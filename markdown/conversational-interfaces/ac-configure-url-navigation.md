@@ -14,7 +14,7 @@ breadcrumb: [URL navigation in Conversational Interfaces, General chat settings,
 
 # Configure URL navigation for chat links
 
-Configure the portals in which links to ServiceNow records in Live Agent and [[virtual-agent-landing-page|Virtual Agent]] conversations are opened, including links in output cards and cards for Virtual Agent notifications and AI Search results.
+Configure the portals in which links to ServiceNow records in Live Agent and Virtual Agent conversations are opened, including links in output cards and cards for Virtual Agent notifications and AI Search results.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  Under **URL navigation,** select **View All**.
 
@@ -100,10 +100,5 @@ For new custom mappings, specify the combination of portal and table values to f
 </table>5.  Select **Save** to enter a new mapping or update an existing mapping.
 
 
-**Parent Topic:**[[url-navigation-ci|URL navigation in Conversational Interfaces]]
+**Parent Topic:**[URL navigation in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/url-navigation-ci.md)
 
-## Related
-
-- [[url-navigation-ci|URL navigation in Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

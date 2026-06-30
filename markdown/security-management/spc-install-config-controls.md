@@ -16,14 +16,14 @@ The CrowdStrike Service Graph Connector and API integrations require separate co
 
 ## Before you begin
 
--   Verify you have installed and activated the [[spc-landing|Security Posture Control]] and the Mitigation Controls Monitoring applications in your instance. These applications are available in the ServiceNow Store.
+-   Verify you have installed and activated the Security Posture Control and the Mitigation Controls Monitoring applications in your instance. These applications are available in the ServiceNow Store.
 -   The CrowdStrike Service Graph Connector must be installed and configured before you configure the CrowdStrike API integration.
 
 Roles required: admin for installation of plugins, and SPC Admin Group and SPC Analyst Group for configuration of integrations in the workspace.
 
 ## Procedure
 
-1.  To [[configure-cortex-xsiam-siem|install and configure]] the CrowdStrike Service Graph Connector integration, follow these steps:
+1.  To install and configure the CrowdStrike Service Graph Connector integration, follow these steps:
 
     **Note:** If you have installed the Service Graph Connector for CrowdStrike, proceed to step 2 for how to configure the CrowdStrike API Integration.
 
@@ -96,7 +96,4 @@ Roles required: admin for installation of plugins, and SPC Admin Group and SPC A
 
         The CrowdStrike Asset Insight Integration imports only information about assets that have changed since the last integration run. The CrowdStrike Device Control Policy Integration and the CrowdStrike Prevention Policy Integration import all data for each run.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]

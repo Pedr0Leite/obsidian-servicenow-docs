@@ -12,11 +12,11 @@ breadcrumb: [Email client, Notifications, Configure core features, Administer th
 
 # Components installed with the email client
 
-Several types of components are installed with activation of the [[c_EnableTheEmailClient|Email Client]] \(com.glide.email\_client\) and Email Client Template \(com.glide.email\_client\_template\) plugins, including tables and user roles and tables.
+Several types of components are installed with activation of the Email Client \(com.glide.email\_client\) and Email Client Template \(com.glide.email\_client\_template\) plugins, including tables and user roles and tables.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [[find-components|Find components installed with an application]].
+**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 ## Tables installed
 
@@ -62,9 +62,3 @@ Templates that are applied automatically to qualified email client messages.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[find-components|Find components installed with an application]]
-- [[c_EnableTheEmailClient|Email client]]

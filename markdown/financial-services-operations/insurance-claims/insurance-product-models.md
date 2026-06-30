@@ -14,7 +14,7 @@ breadcrumb: [Setting up the policy data for Insurance claims, Configure, Insuran
 
 # Insurance product models
 
-Use an insurance product model to customize the essential features, terms, conditions, and coverages that an insurance policy offers by using the [[insurance-claims-flow|Insurance claims]] application. You must first establish an insurance product model before you can [[create-an-insurance-policy-for-a-consumer|create an insurance policy]].
+Use an insurance product model to customize the essential features, terms, conditions, and coverages that an insurance policy offers by using the Insurance claims application. You must first establish an insurance product model before you can create an insurance policy.
 
 An insurance product model acts as a blueprint for designing and managing insurance policies. This model gives you a structured approach to policy creation while allowing flexibility for customization, including the following considerations:
 
@@ -52,7 +52,3 @@ For more information, see [Create an insurance product model](https://raw.github
 
 [Create an insurance product model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/creating-an-insurance-product-model.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[create-an-insurance-policy-for-a-consumer|Create an insurance policy]]

@@ -89,7 +89,7 @@ Asset
 
 </td><td>
 
-Asset requested by the transfer order line. For example, a specific printer. The asset can filter on [[c_Stockrooms|stockrooms]].**Note:** To create transfer order for an asset, the asset must have a state of **In Stock** and a substate of either **Available** or **Pre-allocated**.
+Asset requested by the transfer order line. For example, a specific printer. The asset can filter on stockrooms.**Note:** To create transfer order for an asset, the asset must have a state of **In Stock** and a substate of either **Available** or **Pre-allocated**.
 
 </td></tr><tr><td>
 
@@ -113,6 +113,3 @@ Number of items that already needed to be returned.
 
 [Create transfer order line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/create-transfer-order-line.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]

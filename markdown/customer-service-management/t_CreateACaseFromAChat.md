@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent or sn\_customerservice\_manager
 
 ## About this task
 
-When you [[t_CreateACaseFromCustServApp|create a customer service case]] from a support conversation, the system copies the conversation history to the case [[csm-config-ws-activity-stream|activity stream]] as comments and work notes. Future messages are tracked in the case as well.
+When you create a customer service case from a support conversation, the system copies the conversation history to the case activity stream as comments and work notes. Future messages are tracked in the case as well.
 
 **Important:**
 
@@ -40,7 +40,7 @@ Starting in Utah, Connect Support has been deprecated and is no longer supported
 
 5.  In the Connect actions menu, select **Create Case**.
 
-    The system opens a new [[r_CustomerServiceCaseForm|case form]] in a record tab and automatically fills in some fields based on conversation details.
+    The system opens a new case form in a record tab and automatically fills in some fields based on conversation details.
 
 6.  Complete the form as necessary and click **Submit**.
 
@@ -64,8 +64,3 @@ Starting in Utah, Connect Support has been deprecated and is no longer supported
 
 [Connect workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CollaborationWorkspace.md)
 
-## Related
-
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[r_CustomerServiceCaseForm|Case form]]

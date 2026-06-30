@@ -18,7 +18,7 @@ Enable viewing different work item types in the Backlog and Planning board pages
 
 ## Before you begin
 
-Ensure that you set the **Application Scope** in your instance to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that you set the **Application Scope** in your instance to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -58,6 +58,3 @@ This task provides guidance on updating the **Planning work types** or **Backlog
 
 [Perform PI planning in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/pi-planning-eap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

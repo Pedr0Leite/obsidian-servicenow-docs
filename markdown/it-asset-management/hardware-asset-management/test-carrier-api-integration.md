@@ -22,7 +22,7 @@ Role required: admin or domain\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Shipment** list, select **Carrier integration profiles**.
 
@@ -58,6 +58,3 @@ A message that indicates the success or failure of the connection is displayed.
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

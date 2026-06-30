@@ -20,34 +20,34 @@ Analyze the performance and self-solve data visually and drive business outcomes
 
 With the Now Assist for Success Dashboard, you can summarize the chat conversations and incident details, generate the incident resolution notes to share with other agents, and wrap up incidents faster.
 
-The **Self-solved using QnA** KPI in the ITSM Success Dashboard uses Now Assist and AI search QnA as contributing indicators. You can interact with a Virtual Agent, read the Knowledge base article, get a summarized/succinct response by Now LLM in Virtual Agent or on the portal. This interaction, subsequently does not [[create-an-incident|create an incident]], access any knowledge base article, or interact with a live agent in the next 24 hours.
+The **Self-solved using QnA** KPI in the ITSM Success Dashboard uses Now Assist and AI search QnA as contributing indicators. You can interact with a Virtual Agent, read the Knowledge base article, get a summarized/succinct response by Now LLM in Virtual Agent or on the portal. This interaction, subsequently does not create an incident, access any knowledge base article, or interact with a live agent in the next 24 hours.
 
-To [[update-live-agent-script-include|update the live agent script include]] see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
+To update the live agent script include see, [Update the live agent script include](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/update-live-agent-script-include.md).
 
 ## Proactive Engagement for DEX
 
-The **Self-solved [[using-proactive-engagement|using Proactive Engagement]] for DEX** KPI listed under the self-solved percentage, helps the users resolve their digital experience issues. It proactively suggests the resolutions and resolves the issue.
+The **Self-solved using Proactive Engagement for DEX** KPI listed under the self-solved percentage, helps the users resolve their digital experience issues. It proactively suggests the resolutions and resolves the issue.
 
 ## Getting started with the Admin Console
 
-With the Admin Console, you can access the ITSM Success Dashboard, [[operational-success-ref|Operational Success]], and [[benchmarks-landing|Benchmarks]] dashboard. The Admin Console displays all the admin-related work at a glance and tasks that need attention, including installation of the related application and configuration [[settings-mobile|settings]].
+With the Admin Console, you can access the ITSM Success Dashboard, Operational Success, and Benchmarks dashboard. The Admin Console displays all the admin-related work at a glance and tasks that need attention, including installation of the related application and configuration settings.
 
-As an admin, you see the role-specific variant of the [[dex-workspace-dashboard-tab|landing page]]. Admin landing pages include the following items:
+As an admin, you see the role-specific variant of the landing page. Admin landing pages include the following items:
 
--   Related [[dex-workspace-application-tab|applications]] that have a latest update available.
+-   Related applications that have a latest update available.
 -   Related applications that aren't activated or installed.
 -   Configurations for all the installed applications.
 -   Common questions and more information related to the applications.
 
 ## Performance overview in the ITSM Success Dashboard indicators
 
-Measure the key performance indicators \(KPIs\) like Self-solved percentage, Call deflection percentage, Requests completed, and Successful predictions on the **[[performance-overview-ref|Performance overview]]** tab. For more information, see [ITSM Success Dashboard KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md).
+Measure the key performance indicators \(KPIs\) like Self-solved percentage, Call deflection percentage, Requests completed, and Successful predictions on the **Performance overview** tab. For more information, see [ITSM Success Dashboard KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md).
 
 \[Omitted image "itsm-sd-landing-page-nov23.png"\] Alt text: Success Dashboard showing the Performance overview tab.
 
 ## Service quality in the ITSM Success Dashboard indicators
 
-Measure the key performance indicators \(KPIs\) like Customer satisfaction score, Mean time to resolve, % Breached SLA, and % First assignment resolution on the **[[service-quality-ref|Service quality]]** tab. For more information, see [ITSM Success Dashboard KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md).
+Measure the key performance indicators \(KPIs\) like Customer satisfaction score, Mean time to resolve, % Breached SLA, and % First assignment resolution on the **Service quality** tab. For more information, see [ITSM Success Dashboard KPI definitions and formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/sd-kpi-formulae.md).
 
 \[Omitted image "service-quality-nov23.png"\] Alt text: Success Dashboard showing the Service quality tab.
 
@@ -145,22 +145,9 @@ Only the top two insights that are the least efficient are displayed in the cont
 
 The Operational Success dashboard provides a consolidated view of the end-to-end performance of the IT processes that are implemented in your organization.
 
-The dashboard showcases a snapshot of the performances for the Incident, Major Incident, Change, Request, Service Catalog, Interaction, Problem, and [[c_OnCallScheduling|On-Call Scheduling]] applications. These indicators help teams and the leadership focus on areas that have an impact on business outcomes.
+The dashboard showcases a snapshot of the performances for the Incident, Major Incident, Change, Request, Service Catalog, Interaction, Problem, and On-Call Scheduling applications. These indicators help teams and the leadership focus on areas that have an impact on business outcomes.
 
 \[Omitted image "operational-success.png"\] Alt text: Operational Success dashboard showing the Service Catalog tab.
 
 **Parent Topic:**[Exploring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[update-live-agent-script-include|Update the live agent script include]]
-- [[using-proactive-engagement|Using Proactive Engagement]]
-- [[operational-success-ref|Operational Success]]
-- [[benchmarks-landing|Benchmarks]]
-- [[settings-mobile|Settings]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[dex-workspace-application-tab|Applications]]
-- [[performance-overview-ref|Performance overview]]
-- [[service-quality-ref|Service Quality]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

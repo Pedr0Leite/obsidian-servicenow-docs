@@ -14,7 +14,7 @@ breadcrumb: [Reference, Deposit Operations, Banking applications, Financial Serv
 
 # Components installed with Financial Services Business Deposit Operations
 
-Several types of components are installed with installation of the [[fso-overview|Financial Services]] Business Deposit Operations application, including tables, user roles, and scheduled jobs. The application also installs related plugins and store applications if they aren’t already installed.
+Several types of components are installed with installation of the Financial Services Business Deposit Operations application, including tables, user roles, and scheduled jobs. The application also installs related plugins and store applications if they aren’t already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -41,8 +41,8 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make deposit service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
-|Document Processor|Enables management of document services tasks that are used in Financial Services Business Deposit Operations workflows. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make deposit service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
+|Document Processor|Enables management of document services tasks that are used in Financial Services Business Deposit Operations workflows. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 |CSM Contributor User|Enables middle office teams to create cases for customer requests. For more information, see [CSM Contributor User](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md) [Configure Contributor Users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md).|
 
@@ -105,7 +105,7 @@ Deposit contributor\[sn\_bom\_deposit\_b2b.contributor\]
 -   View the overall status of cases
 -   Work on deposit service cases and tasks until the Initiate and review stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -212,9 +212,3 @@ Stores all deposit tasks for all business deposit cases. This table extends the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Deposit Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-deposit-ops-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]

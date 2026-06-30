@@ -14,7 +14,7 @@ breadcrumb: [Planning item form, Form field information for Strategic Planning, 
 
 # Project planning item form
 
-Learn about the fields of the [[create-a-project-form|project form]]. Use this form to create or edit the details of a planning item of the type Project in [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn about the fields of the project form. Use this form to create or edit the details of a planning item of the type Project in Strategic Planning workspace.
 
 These fields are displayed on the full details page of the planning item.
 
@@ -80,7 +80,7 @@ Planning state
 
 </td><td>
 
-State of the planning item in the Strategic Planning or [[portfolio-planning-app-landing-page|Portfolio Planning]] Backlog.
+State of the planning item in the Strategic Planning or Portfolio Planning Backlog.
 
 </td></tr><tr><td>
 
@@ -88,7 +88,7 @@ Execution URL
 
 </td><td>
 
-Link to the project's execution record in the [[project-workspace-landing-page|Project Workspace]].
+Link to the project's execution record in the Project Workspace.
 
 </td></tr><tr><td>
 
@@ -304,9 +304,3 @@ Business capabilities of this planning item.
 
 [Add planning items to Prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/add-new-items-to-backlog-alignment-planner-workspace.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[project-workspace-landing-page|Project Workspace]]

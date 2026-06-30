@@ -14,7 +14,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 # Accessibility options on dashboards
 
-Understand how accessibility settings affect reports and [[c_Widgets|Performance Analytics widgets]] on dashboards. Data visualizations on a Workspace are also affected.
+Understand how accessibility settings affect reports and Performance Analytics widgets on dashboards. Data visualizations on a Workspace are also affected.
 
 \[Omitted image "visualization-accessibility-dashboard.png"\] Alt text: Data visualization accessibility on a dashboard
 
@@ -57,6 +57,3 @@ Click the plus icon to display the corresponding data table.
 
 \[Omitted image "accessibility-enabled-chart.png"\] Alt text: Accessibility enabled - chart view
 
-## Related
-
-- [[c_Widgets|Performance Analytics widgets]]

@@ -14,11 +14,11 @@ breadcrumb: [Configuring assistants overview, Now Assist in Virtual Agent, Conve
 
 # Customize citation message
 
-Inline citations are intended to show from which ServiceNow knowledge articles the response is generated. This can include information from attachments and knowledge blocks, or from external content such as Microsoft SharePoint and Confluence. Inline citations also appear when the user is presented with an action to perform, for example, within a [[virtual-agent-landing-page|Virtual Agent]] topic or a catalog item.
+Inline citations are intended to show from which ServiceNow knowledge articles the response is generated. This can include information from attachments and knowledge blocks, or from external content such as Microsoft SharePoint and Confluence. Inline citations also appear when the user is presented with an action to perform, for example, within a Virtual Agent topic or a catalog item.
 
 ## Before you begin
 
-For more information about [[now-assist-in-va-landing|Now Assist in Virtual Agent]] citations, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
+For more information about Now Assist in Virtual Agent citations, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/using-now-assist-in-va.md).
 
 Role required: admin
 
@@ -34,7 +34,4 @@ Role required: admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

@@ -14,17 +14,12 @@ breadcrumb: [Tanium Endpoints, Service Graph Connectors, Integrating third-party
 
 # Service Graph Connector for Tanium Endpoints reference
 
-[[reference|Reference]] topics provide additional information about [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]] components.
+Reference topics provide additional information about Service Graph Connector for Tanium Endpoints components.
 
 -   **[Supported Tanium resource types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-tanium-endpoints-resource-types.md)**  
 Several Tanium resource types are imported as CMDB data.
 -   **[Service Graph Connector for Tanium Endpoints properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-tanium-endpoints-properties.md)**  
-[[sgc-tanium-endpoints-properties|Service Graph Connector for Tanium Endpoints properties]] control the behavior of the connector.
+Service Graph Connector for Tanium Endpoints properties control the behavior of the connector.
 
 **Parent Topic:**[Service Graph Connector for Tanium Endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-integration-tanium-endpoints.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[sgc-tanium-endpoints-properties|Service Graph Connector for Tanium Endpoints properties]]

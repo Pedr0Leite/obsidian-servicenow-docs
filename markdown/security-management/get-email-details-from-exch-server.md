@@ -36,7 +36,7 @@ Mandatory search query used to find emails in the Exchange Server across all mai
 
 </td></tr><tr><td>
 
-exchange [[location|Location]]
+exchange Location
 
 </td><td>
 
@@ -71,9 +71,5 @@ Possible exit conditions for this action are:
 |Search Creation Failed due to a Parsing Error|When search creation fails due to parsing issue.|
 |Error|When exception occurs in flow action.|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[location|Location]]

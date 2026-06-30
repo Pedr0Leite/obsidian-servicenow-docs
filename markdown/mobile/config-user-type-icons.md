@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-You can configure an icon within the work flow of configuring a screen in [[mab-concept|Mobile App Builder]] or you can configure an icon by selecting the **Cards &amp; icons** category from the menu. This procedure uses the **Cards &amp; icons** category.
+You can configure an icon within the work flow of configuring a screen in Mobile App Builder or you can configure an icon by selecting the **Cards &amp; icons** category from the menu. This procedure uses the **Cards &amp; icons** category.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ You can configure an icon within the work flow of configuring a screen in [[mab-
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Cards &amp; icons** category, and then select **New**.
 
@@ -53,11 +53,5 @@ You can configure an icon within the work flow of configuring a screen in [[mab-
 
 ## What to do next
 
-To use the user type icon, you must configure a header function in the launcher screen that enables users to navigate to an employee profile. For more information, see [[create-alp-header|Configure a launcher screen header]]. To configure a mobile app to use a user icon, see [[config-user-icon-in-mobile-app|Configure using a user icon in a mobile app]].
+To use the user type icon, you must configure a header function in the launcher screen that enables users to navigate to an employee profile. For more information, see [Configure a launcher screen header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-alp-header.md). To configure a mobile app to use a user icon, see [Configure using a user icon in a mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-user-icon-in-mobile-app.md).
 
-## Related
-
-- [[create-alp-header|Configure a launcher screen header]]
-- [[config-user-icon-in-mobile-app|Configure using a user icon in a mobile app]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

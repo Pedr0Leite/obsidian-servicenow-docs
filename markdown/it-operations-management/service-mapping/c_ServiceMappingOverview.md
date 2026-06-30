@@ -26,7 +26,7 @@ Service Mapping enables IT departments of companies, organizations, and cloud co
 
 ## Reach time to value quickly
 
-Shorten the mapping process and improve accuracy with out-of-the-box options. Service Mapping deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and [[predictive-intelligence-discovery|discovery based on Predictive Intelligence]].
+Shorten the mapping process and improve accuracy with out-of-the-box options. Service Mapping deploys different methods for collecting information about configuration items \(CIs\) and organizing them into application services. The available mapping methods are: pattern-based, tag-based, traffic-based, and discovery based on Predictive Intelligence.
 
 ## Deliver on your multicloud strategy
 
@@ -58,7 +58,3 @@ Map services across dynamic cloud-based providers with a high degree of accuracy
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[predictive-intelligence-discovery|Discovery based on Predictive Intelligence]]

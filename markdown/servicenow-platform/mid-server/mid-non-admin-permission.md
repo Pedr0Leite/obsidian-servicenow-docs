@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # File permission enforcement for Windows MID Servers
 
-To improve security, Windows MID Servers enforce Windows file permission restrictions. The enforcement limits access to the [[mid-server-landing|MID Server]] files to a restricted allow list of users and groups.
+To improve security, Windows MID Servers enforce Windows file permission restrictions. The enforcement limits access to the MID Server files to a restricted allow list of users and groups.
 
 <table id="table_p53_ms4_nhb"><tbody><tr><td>
 
@@ -31,6 +31,3 @@ Changes to the file permissions are recorded, and the last used settings are sav
 
 To run a MID Server as a non-admin user, it must first be installed using an admin account. Then add the non-admin user to allow list and restart the MID Server. Once the new enforcement rules run, the MID Server can be switched to the non-admin service account. See [Manually install a MID Server on Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-install-prereqs.md) for more information on setting up non-admin Windows MID Servers, or [Run Linux MID Servers as non-root users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallAMIDServerOnLinux.md) for Linux MID Servers.
 
-## Related
-
-- [[mid-server-landing|MID Server]]

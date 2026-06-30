@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Use the email digest in the Vulnerability Response Workspaces
 
-Use [[tisc-email-notifications|email notifications]] to view your remediation progress and remind you when tasks are nearing, or are past SLA.
+Use email notifications to view your remediation progress and remind you when tasks are nearing, or are past SLA.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ The email by default shows the tasks you've closed, the total active tasks assig
 
 2.  Click **Go to workspace** to navigate to your work area.
 
-## Related
 
-- [[tisc-email-notifications|Email Notifications]]

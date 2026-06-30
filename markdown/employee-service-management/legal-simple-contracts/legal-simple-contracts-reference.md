@@ -14,21 +14,14 @@ breadcrumb: [Legal Simple Contracts, Legal Service Delivery Practice Application
 
 # Legal Simple Contracts reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in [[legal-simple-contracts-landing-page|Legal Simple Contracts]].
+Reference topics provide additional information about the lists and forms that you use in Legal Simple Contracts.
 
 -   **[Components installed with Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/installed-with-legal-simple-contracts.md)**  
 Several types of components are installed with activation of the Legal Simple Contracts application, including tables and user roles.
 -   **[Third Party Contract Review form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/tpc-request-intake-form-fields.md)**  
-The [[tpc-request-intake-form-fields|Third Party Contract Review form]] is used to [[submit-legal-request|submit a legal request]] to the legal department to get the third-party contracts reviewed.
+The Third Party Contract Review form is used to submit a legal request to the legal department to get the third-party contracts reviewed.
 -   **[Word Template New Record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsc-word-tmple-rec-form.md)**  
-The [[lsc-word-tmple-rec-form|Word Template New Record form]] is used to create document template.
+The Word Template New Record form is used to create document template.
 
 **Parent Topic:**[Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[tpc-request-intake-form-fields|Third Party Contract Review form]]
-- [[submit-legal-request|Submit a legal request]]
-- [[lsc-word-tmple-rec-form|Word Template New Record form]]

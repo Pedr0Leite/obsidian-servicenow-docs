@@ -88,7 +88,7 @@ For more information about related lists, see [Related lists](https://raw.github
 
     -   -   In the Application Navigator \(All\), enter `sn_rec_pg_vertical_view_config.list`.
 -   Select **VRM vertical nav configuration**.
-    -   **All** &gt; **Third-party Risk Management** &gt; **[[Administration|Administration]]** &gt; **Vertical layout configuration**.
+    -   **All** &gt; **Third-party Risk Management** &gt; **Administration** &gt; **Vertical layout configuration**.
     This table defines which related lists appear in the vertical navigation for workspace record pages.
 
 4.  Create or update a vertical navigation entry.
@@ -130,6 +130,3 @@ If the related list does not appear, confirm that:
 -   A configuration entry exists in the vertical layout table.
 -   The correct application scope is selected.
 
-## Related
-
-- [[Administration|Administration]]

@@ -30,7 +30,7 @@ Role required: admin
 
 5.  In the Source field, select **Search App Store** then search for **ServiceNow**.
 
-    If the search cannot find the ServiceNow application, the app might not be approved for your organization. You can [[approve-app-google|approve the app in the Google Play store]].
+    If the search cannot find the ServiceNow application, the app might not be approved for your organization. You can [approve the app in the Google Play store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/approve-app-google.md).
 
 6.  Next to the ServiceNow App search result, click **Select**.
 
@@ -69,9 +69,5 @@ If your instance is on an internal network, you might need to configure the VPN.
 
 For more information on app distribution with Workspace ONE UEM, see the [official Workspace ONE UEM documentation](https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/index.html).
 
-**Parent Topic:**[[airwatch-mdm|Workspace ONE UEM Mobile Device Management \(MDM\)]]
+**Parent Topic:**[Workspace ONE UEM Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/airwatch-mdm.md)
 
-## Related
-
-- [[approve-app-google|Approve the ServiceNow app for Google Play]]
-- [[airwatch-mdm|Workspace ONE UEM Mobile Device Management \(MDM\)]]

@@ -18,10 +18,10 @@ A content site is a group of related content pages that have the same basic them
 
 Content sites are made up of a series of basic building blocks. The Employee Self-Service site is an out-of-box sample site that is included in the CMS activation. It provides existing, working examples or each CMS component, which you can use like a template to build your own site.
 
-\[Omitted image "CMSSiteComponents.png"\] Alt text: CMS sites are made up of content pages, [[c_ContentTypes|content types]], and themes.
+\[Omitted image "CMSSiteComponents.png"\] Alt text: CMS sites are made up of content pages, content types, and themes.
 
 -   **[Create a site](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateANewSite.md)**  
-[[configure-onboarding-modals|Configure]] a site by either creating a new site with CMS or by editing a copy of either the ESS Portal or the Service Management Portal.
+Configure a site by either creating a new site with CMS or by editing a copy of either the ESS Portal or the Service Management Portal.
 -   **[Copy a site](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CopyASite.md)**  
 To create a new site quickly, you can copy an existing site.
 -   **[Content Management security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementSecurity.md)**  
@@ -46,7 +46,3 @@ To configure CMS to use SSO, make the view\_content page private.
 
 [Content Management meta tags]()
 
-## Related
-
-- [[c_ContentTypes|Content types]]
-- [[configure-onboarding-modals|Configure]]

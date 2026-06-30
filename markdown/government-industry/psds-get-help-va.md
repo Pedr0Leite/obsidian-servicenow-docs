@@ -13,7 +13,7 @@ breadcrumb: [Government Service Portal, Portals, Use, Public Sector Digital Serv
 
 # Get help with Public Service requests using Virtual Agent
 
-Public sector users can get assistance completing or updating their requests for various public services by using a pre-built Virtual Agent chatbot conversation. Users can run this Virtual Agent conversation from the [[gsp-overview-public-sector|Government Service Portal]] or from Engagement Messenger. Virtual Agent is currently supported by Service Request Playbook and License and Permit Playbook.
+Public sector users can get assistance completing or updating their requests for various public services by using a pre-built Virtual Agent chatbot conversation. Users can run this Virtual Agent conversation from the Government Service Portal or from Engagement Messenger. Virtual Agent is currently supported by Service Request Playbook and License and Permit Playbook.
 
 **Note:** Requires Glide Virtual Agent \(com.glide.cs.chatbot\) plugin.
 
@@ -78,6 +78,4 @@ The information \(user inputs and bot responses\) exchanged during the Virtual A
     -   For existing requests, the bot displays the list of license and permit requests submitted by the user, and then prompts the user to update the case with an image, comment, file, or additional information.
     The bot creates or updates the case for the license and permit request. The user can continue working on a different issue with the bot or indicate that no further help is needed, which ends the Virtual Agent conversation.
 
-## Related
 
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -20,7 +20,7 @@ As a shopper, you can select a valid delivery location based on the preconfigure
 
 Based on the countries configured, you can prevent products from being shipped to invalid locations. Perform the address validation at various stages.
 
--   See the [[valid-countries|valid countries for delivery]] from the product and purchase pages.
+-   See the valid countries for delivery from the product and purchase pages.
 -   See the product availability and unavailability when a shopper changes delivery location from the **Deliver to** list to an unsupported country on the product details page.
 -   Add, edit, and select the available delivery addresses and office addresses.
 -   See the product availability based on the office address or delivery location in the primary navigation bar.
@@ -50,7 +50,7 @@ The following example shows how a shopper can add or select valid addresses duri
     See the product availability on the products page. When the product is unavailable for delivery, these buttons are disabled with the following error message:`This item does not deliver to <countryname>` or `This item does not deliver to this address`.
 
 -   You can add or select the delivery location for the valid countries and complete the shopping.
--   From your [[shopping-cart|shopping cart]], when you select **Proceed to checkout**, select valid addresses for each product based on the countries or office locations where the delivery is available.
+-   From your shopping cart, when you select **Proceed to checkout**, select valid addresses for each product based on the countries or office locations where the delivery is available.
 
 **Parent Topic:**[Valid countries for delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/valid-countries.md)
 
@@ -63,7 +63,3 @@ The following example shows how a shopper can add or select valid addresses duri
 
 [Delivery location options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/delivery-location-details.md)
 
-## Related
-
-- [[valid-countries|Valid countries for delivery]]
-- [[shopping-cart|Shopping cart]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Case Management, Workplace Service Delivery, E
 
 # Properties installed with Workplace Case Management
 
-Customize the properties available with [[workplace-case-mgmt-feat|Workplace Case Management]].
+Customize the properties available with Workplace Case Management.
 
 These properties are available for Workplace Case Management.
 
@@ -66,6 +66,3 @@ If a Workplace case has 'Enable user acceptance' set to True and no 'Acceptance 
 
 [Workplace Location Assignment service]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

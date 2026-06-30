@@ -12,7 +12,7 @@ breadcrumb: [Track cases and tasks from the Retail portal, Retail]
 
 # View your associated retail organizations from the Retail portal
 
-Track your associated [[rahi-retail-operations-overview|retail]] organizations from the [[rahi-retail-portal|Retail portal]].
+Track your associated retail organizations from the Retail portal.
 
 ## Before you begin
 
@@ -26,7 +26,4 @@ Role required: Store associate, Store manager, Regional manager
 
 2.  Select a retail organization from the list to see a detailed view of all the cases, tasks, and members.
 
-## Related
 
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-portal|Retail portal]]

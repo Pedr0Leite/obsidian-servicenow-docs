@@ -14,7 +14,7 @@ breadcrumb: [Monitoring instance usage, Monitor, Platform performance, Maintain 
 
 # ServiceNow Store usage overview dashboard
 
-The ServiceNow Store Usage Overview dashboard displays reports on the use of [[servicenow-store|ServiceNow Store]] applications on your instance.
+The ServiceNow Store Usage Overview dashboard displays reports on the use of ServiceNow Store applications on your instance.
 
 <table id="table_cqz_4wn_yq"><thead><tr><th>
 
@@ -43,6 +43,3 @@ Shows the number of active users who have used the instance, grouped by month. A
 </td></tr></tbody>
 </table>**Parent Topic:**[Monitoring instance usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/usage-analytics-module-subscription.md)
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]

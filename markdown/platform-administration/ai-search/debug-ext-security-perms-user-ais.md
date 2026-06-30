@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-[[session-debugging-ais|Enable session debugging for AI Search]] to view debug log messages for external content security. Each debug log message shows the external content security filter that [[ia-ai-search|AI Search]] applies to determine whether the current ServiceNow AI Platform user can see a search result for an external document.
+Enable session debugging for AI Search to view debug log messages for external content security. Each debug log message shows the external content security filter that AI Search applies to determine whether the current ServiceNow AI Platform user can see a search result for an external document.
 
 ## Procedure
 
-1.  To enable session debugging for AI Search, navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Session Debug** &gt; **Debug AI Search**.
+1.  To enable session debugging for AI Search, navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug AI Search**.
 
 2.  Navigate to **All** &gt; **System Diagnostics** &gt; **Session Debug** &gt; **Debug Log**.
 
@@ -47,8 +47,3 @@ If the external content security filters don't include the desired external user
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[session-debugging-ais|Enable session debugging for AI Search]]
-- [[ia-ai-search|AI Search]]
-- [[sys-diag|System Diagnostics]]

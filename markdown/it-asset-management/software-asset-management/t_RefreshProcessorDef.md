@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Refresh processor definitions
 
-After activating [[c_SoftwareAssetMgmt|Software Asset Management]], refresh processor definitions to normalize processors on servers in the CMDB.
+After activating Software Asset Management, refresh processor definitions to normalize processors on servers in the CMDB.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Refreshing processor definitions can be time consuming when running for the firs
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

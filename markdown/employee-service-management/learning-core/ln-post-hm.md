@@ -14,7 +14,7 @@ breadcrumb: [Exploring Learning Core, Learning Core, HR Service Delivery, Employ
 
 # Learning Core Home page
 
-Learning Core home page provides a consolidated view of the [[exploring-learning-exp|learning]] catalogs and learning management systems that have been configured in the [[learning-core_overview|Learning Core]] application.
+Learning Core home page provides a consolidated view of the learning catalogs and learning management systems that have been configured in the Learning Core application.
 
 ## Learning Catalogs
 
@@ -39,7 +39,3 @@ Using the **Related Lists** for **Catalog**, you can define users who can read, 
 
 Collections are groupings of courses that are orchestrated within ServiceNow.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]

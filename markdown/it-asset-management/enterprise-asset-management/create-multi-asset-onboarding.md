@@ -30,7 +30,7 @@ To close an onboarding task, you should either complete or skip all the activiti
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Onboarding** list, select **Onboarding tasks**.
 
@@ -77,6 +77,4 @@ To close an onboarding task, you should either complete or skip all the activiti
 
     Your assets are successfully onboarded. The onboarding task is completed and the request and requested item's state changes to **Closed Complete**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

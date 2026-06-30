@@ -89,11 +89,7 @@ Group Life Underwriting Service Task
 
 </td><td>
 
-Stores all underwriting tasks for group policy service requests for all [[fso-overview|Financial Services]] Operations applications. This table extends the Financial Task \[sn\_bom\_task\] table.
+Stores all underwriting tasks for group policy service requests for all Financial Services Operations applications. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

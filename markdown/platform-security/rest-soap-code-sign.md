@@ -12,7 +12,7 @@ breadcrumb: [REST and SOAP Signing, Using Code Signing, Code Signing, Platform S
 
 # Sign the existing REST and SOAP messages
 
-Sign and validate the existing REST and SOAP messages by enabling the [[code-signing-landing|Code Signing]] in protected and trusted instances.
+Sign and validate the existing REST and SOAP messages by enabling the Code Signing in protected and trusted instances.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 1.  In the trusted instance, configure the KMF signing job to sign the UI actions.
 
-    1.  Navigate to KMF Signature [[sc-configuration|Configuration]].
+    1.  Navigate to KMF Signature Configuration.
 
     2.  On the form, fill these values.
 
@@ -48,10 +48,10 @@ Role required: sn\_kmf.cryptographic\_manager
         |Field|Description|
         |-----|-----------|
         |Name|Name to identify the record.|
-        |Type|Type of the [[encryption-landing|encryption]] job. Select **Mass Sign Records**.|
+        |Type|Type of the encryption job. Select **Mass Sign Records**.|
         |Table|Table from which the records should be signed. Select **UI Action**.|
 
-    4.  Click **[[export|Export]] Code Signing job to production**.
+    4.  Click **Export Code Signing job to production**.
 
         Two locally signed update sets are created.
 
@@ -79,9 +79,4 @@ Role required: sn\_kmf.cryptographic\_manager
 
     A confirmation message is displayed mentioning that the records are signed.
 
-## Related
 
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[export|Export]]

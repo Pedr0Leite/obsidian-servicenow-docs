@@ -14,7 +14,7 @@ breadcrumb: [Treasury Operations, Banking applications, Financial Services Opera
 
 # Configure Financial Services Treasury Operations
 
-Review the components that are installed with the [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] application and modify as needed for your organization's business needs.
+Review the components that are installed with the Financial Services Treasury Operations application and modify as needed for your organization's business needs.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_bom\_treasury.admin and admin
 
 1.  Import your financial accounts, financial products, financial institutions, and transactions data into ServiceNow tables.
 
-    For more information, see [[import-financial-accounts-products-institutions|Import your financial data using import sets]].
+    For more information, see [Import your financial data using import sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/import-financial-accounts-products-institutions.md).
 
 2.  Review the installed components.
 
@@ -46,7 +46,7 @@ Description
 
 </td><td>
 
-[[configure-service-definitions|Configure service definitions]] to enable unique flows and views for treasury service cases and tasks. You can add new case types and configure service definitions for each type.
+[Configure service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md) to enable unique flows and views for treasury service cases and tasks. You can add new case types and configure service definitions for each type.
 
 </td></tr><tr><td id="d112131e158">
 
@@ -54,7 +54,7 @@ Description
 
 </td><td>
 
-[[configure-flow-designer-flows-fso-apps|Edit or create flows]] using Workflow Studio.
+[Edit or create flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md) using Workflow Studio.
 
 </td></tr><tr><td id="d112131e180">
 
@@ -62,7 +62,7 @@ Description
 
 </td><td>
 
-[[configure-playbooks-fso-apps|Edit or create a new playbook]] using Playbooks.
+[Edit or create a new playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-playbooks-fso-apps.md) using Playbooks.
 
 </td></tr><tr><td id="d112131e202">
 
@@ -70,7 +70,7 @@ Description
 
 </td><td>
 
-[[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]] to enable agents to interact with customers and create and work on cases.
+[Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md) to enable agents to interact with customers and create and work on cases.
 
 </td></tr><tr><td id="d112131e230">
 
@@ -78,7 +78,7 @@ Description
 
 </td><td>
 
-[[configure-sla-definitions-fso-cases|Configure the installed SLAs]] to configure SLA timings for treasury service cases and tasks.
+[Configure the installed SLAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-sla-definitions-fso-cases.md) to configure SLA timings for treasury service cases and tasks.
 
 </td></tr><tr><td id="d112131e249">
 
@@ -86,7 +86,7 @@ Description
 
 </td><td>
 
-[[configure-groups-fso|Configure user groups]] for assignment of cases and tasks. You can also assign roles to groups and users.
+[Configure user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-groups-fso.md) for assignment of cases and tasks. You can also assign roles to groups and users.
 
 </td></tr><tr><td id="d112131e268">
 
@@ -94,7 +94,7 @@ Description
 
 </td><td>
 
-[[configure-assignment-rules-fso-applications|Configure assignment rules]] to identify cases that meet certain conditions and then route those cases to agents.
+[Configure assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-assignment-rules-fso-applications.md) to identify cases that meet certain conditions and then route those cases to agents.
 
 </td></tr><tr><td id="d112131e284">
 
@@ -102,20 +102,7 @@ Description
 
 </td><td>
 
-[[configuring-fso-document-processor|Configure Document Processor]] for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
+[Configure Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md) for document categories, document types, inbound and outbound document rules, and approval rules for document deferments and exceptions.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[import-financial-accounts-products-institutions|Import your financial data using import sets]]
-- [[configure-service-definitions|Configure service definitions]]
-- [[configure-flow-designer-flows-fso-apps|Configure flows]]
-- [[configure-playbooks-fso-apps|Configure playbooks]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[configure-sla-definitions-fso-cases|Configure SLA definitions]]
-- [[configure-groups-fso|Configure groups]]
-- [[configure-assignment-rules-fso-applications|Configure assignment rules]]
-- [[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]

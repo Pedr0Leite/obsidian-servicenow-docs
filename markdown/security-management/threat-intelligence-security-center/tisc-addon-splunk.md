@@ -14,10 +14,10 @@ breadcrumb: [TISC Security Tools integrations, TISC Integrations, Integrate, Thr
 
 # TISC add-on for Splunk overview
 
-Configure the [[tisc-landing-page|Threat Intelligence Security Center]] \(TISC\) integration with Splunk to import [[threat-intel-landing-page|threat intelligence]] data, set up indicator collections, and analyze search matches using dashboards.
+Configure the Threat Intelligence Security Center \(TISC\) integration with Splunk to import threat intelligence data, set up indicator collections, and analyze search matches using dashboards.
 
 -   **[TISC integration with Splunk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/splunk-observables-enrichment-integration.md)**  
-The integration between the Threat Intelligence Security Center \(TISC\) and Splunk lets you filter and pull relevant threat intelligence [[c_Observables|observables]] data into Splunk.In Splunk, you can use this data to generate security alerts.
+The integration between the Threat Intelligence Security Center \(TISC\) and Splunk lets you filter and pull relevant threat intelligence observables data into Splunk.In Splunk, you can use this data to generate security alerts.
 -   **[Create users in TISC instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-users.md)**  
 Users can be created in the ServiceNow TISC instance with any valid user role \[`sn_sec_tisc.api_obs_read_access]`.
 -   **[Configure TISC add-on in Splunk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-configure-splunk.md)**  
@@ -29,8 +29,3 @@ Enable debug logging on the add-on, view the resulting log entries in Splunk, an
 
 **Parent Topic:**[TISC Security Tools integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]

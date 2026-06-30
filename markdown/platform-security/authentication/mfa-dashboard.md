@@ -14,15 +14,15 @@ breadcrumb: [Multi-factor authentication, Authentication, Access Management]
 
 # MFA Dashboard
 
-View the different [[faq-familiar-with-mfa|MFA metrics]] to understand the MFA adoption and usage.
+View the different MFA metrics to understand the MFA adoption and usage.
 
-The MFA enhances security by requiring an additional verification step during the login process. The MFA Dashboard helps you to monitor and manage MFA settings for your organization. This dashboard provides an overview of MFA user enrollment, privileged admins who haven't opted MFA, and compliance. You can use it to ensure that all [[users|users]] have MFA enabled for enhanced security.
+The MFA enhances security by requiring an additional verification step during the login process. The MFA Dashboard helps you to monitor and manage MFA settings for your organization. This dashboard provides an overview of MFA user enrollment, privileged admins who haven't opted MFA, and compliance. You can use it to ensure that all users have MFA enabled for enhanced security.
 
-To access the MFA Dashboard, navigate **All** &gt; **[[mfa-landing|Multi-factor Authentication]]** &gt; **MFA Dashboard**.
+To access the MFA Dashboard, navigate **All** &gt; **Multi-factor Authentication** &gt; **MFA Dashboard**.
 
 \[Omitted image "mfa-dashboard.png"\] Alt text: MFA Dashboard
 
-**Note:** You must enable MFA to view the [[ca-metrics|metrics]]. For more information, see [Multi-factor Authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-properties.md).
+**Note:** You must enable MFA to view the metrics. For more information, see [Multi-factor Authentication system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-properties.md).
 
 Following are the types of metrics displayed on the MFA Dashboard:
 
@@ -31,7 +31,7 @@ Following are the types of metrics displayed on the MFA Dashboard:
 
 ## User Metrics
 
-The following table provides details of the [[instance-sec-center-user-metrics|User Metrics]] in the MFA Dashboard.
+The following table provides details of the User Metrics in the MFA Dashboard.
 
 <table id="table_bwy_g2c_cfc"><thead><tr><th>
 
@@ -55,7 +55,7 @@ Privileged admins without Multi-factor Authentication \(MFA\)
 
 </td><td>
 
-Privileged admins not using MFA is a significant risk to [[platsec-sublanding|platform security]]. It’s recommended that you get these people using MFA. **Note:** Privileged admins are the users who have at least one role from the sys\_icenter\_role\_config table. \(Refreshed once a day to collect records for a day before\).
+Privileged admins not using MFA is a significant risk to platform security. It’s recommended that you get these people using MFA. **Note:** Privileged admins are the users who have at least one role from the sys\_icenter\_role\_config table. \(Refreshed once a day to collect records for a day before\).
 
 </td></tr></tbody>
 </table>## Login Metrics
@@ -88,12 +88,3 @@ The percentage of username-password based logins without MFA. This metric provid
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[faq-familiar-with-mfa|MFA metrics]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[ca-metrics|Metrics]]
-- [[instance-sec-center-user-metrics|User metrics]]
-- [[platsec-sublanding|Platform Security]]

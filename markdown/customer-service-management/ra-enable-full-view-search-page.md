@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-AI search results appear in the [[configure-nba|Recommended Actions]] tab in the contextual side panel in the form of guidances that you can act on. Selecting the Full view search icon displays the AI search results in a new subtab with an expanded view.
+AI search results appear in the Recommended Actions tab in the contextual side panel in the form of guidances that you can act on. Selecting the Full view search icon displays the AI search results in a new subtab with an expanded view.
 
 When a user selects the Full view search icon, the Recommended Actions application dispatches an event called **RECOMMENDED\_ACTIONS\#ACTION\_CLICKED** with a type of **raExpandedSearch**. This event needs to be handled in the corresponding team layer that wants to uptake the full view search page. The following code snippet provides an example about how to navigate to the page with the correct properties.
 
@@ -78,6 +78,4 @@ Use the following steps to define the full view search page in a configurable wo
 
     **Note:** Be sure to use a different route/parent macroponent composition element ID to avoid any conflicts with the CSM Recommended Actions Full View Search page.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]

@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d428647e128">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -85,7 +85,7 @@ Steps
 
     On successful connection, the tool is created in ServiceNow and connected to your Rally instance.
 
-    \[Omitted image "rally-plybk-01.png"\] Alt text: Connect Rally to [[devops-landing-page-new|DevOps Change Velocity]].
+    \[Omitted image "rally-plybk-01.png"\] Alt text: Connect Rally to DevOps Change Velocity.
 
 5.  Specify the access for the tool.
 
@@ -153,7 +153,3 @@ From the tool record page, you can do the following:
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

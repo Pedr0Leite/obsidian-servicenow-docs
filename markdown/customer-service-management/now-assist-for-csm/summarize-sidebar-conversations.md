@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Summarize a Sidebar discussion by using Now Assist for Customer Service Management \(CSM\)
 
-Generate a summary of the Sidebar discussions between agents, requesters, and subject matter experts by using the [[csm-config-ws-chat-summary|chat summarization]] skill in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Generate a summary of the Sidebar discussions between agents, requesters, and subject matter experts by using the chat summarization skill in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -82,7 +82,3 @@ If you'd like to provide feedback, select either the helpful icon \(\[Omitted im
 </table>
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

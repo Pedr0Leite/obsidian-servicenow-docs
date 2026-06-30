@@ -12,11 +12,11 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 # Transaction Manager: Advanced product filtering
 
-In [[transaction-manager|Transaction Manager]], you can dynamically filter products based on any number of factors, with real-time data synchronization from managed tables and fast search speeds even in very large catalogs.
+In Transaction Manager, you can dynamically filter products based on any number of factors, with real-time data synchronization from managed tables and fast search speeds even in very large catalogs.
 
-CPQ Advanced Product Filtering feature enables dynamic product catalog filtering using Admin-defined business [[rules_101|rules]]. This includes support for real-time data synchronization from managed tables and sub-second search speeds, even with product catalogs over millions of SKUs.
+CPQ Advanced Product Filtering feature enables dynamic product catalog filtering using Admin-defined business rules. This includes support for real-time data synchronization from managed tables and sub-second search speeds, even with product catalogs over millions of SKUs.
 
-This article explains how to use and manage this feature, and outlines performance benefits, configuration steps, and common [[use-cases|use cases]].
+This article explains how to use and manage this feature, and outlines performance benefits, configuration steps, and common use cases.
 
 ## Use case
 
@@ -24,7 +24,7 @@ As your catalog grows and your business logic becomes more dependent on regions 
 
 -   Country, region, or compliance constraints
 -   Available pricing or configuration status
--   Transaction-specific input [[fields|fields]]
+-   Transaction-specific input fields
 
 ## Key features
 
@@ -130,9 +130,3 @@ To test the filter in a transaction, start a transaction in the Transaction Mana
 
 Only products that match the filter logic will be displayed.
 
-## Related
-
-- [[transaction-manager|Transaction Manager]]
-- [[rules_101|Rules]]
-- [[use-cases|Use cases]]
-- [[fields|Fields]]

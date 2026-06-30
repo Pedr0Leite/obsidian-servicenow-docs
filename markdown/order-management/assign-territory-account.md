@@ -29,17 +29,12 @@ Role required: sales territory admin \(or a user with sales territory override r
 4.  Select **Save**.
 
 
-**Parent Topic:**[[use-sales-territory-management|Using Sales Territory Management​]]
+**Parent Topic:**[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
 **Related topics**  
 
 
-[[configure-sales-territory-management|Configuring Sales Territory Management​]]
+[Configuring Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-territory-management.md)
 
-[[explore-sales-territory-management|Sales Territory Management​]]
+[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)
 
-## Related
-
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[configure-sales-territory-management|Configuring Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]

@@ -83,8 +83,5 @@ sn\_analytics\_rcmnd.recommendation\_metrics\_time\_period
 Sets the period on which usage is calculated. Add it to the System Properties \[sys\_properties\] table. The value is an integer that defines a number of days. If the property is not specified, the default is 180 days.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[pa-library-recommendations|Platform Analytics library recommendations]]
+</table>**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-library-recommendations.md)
 
-## Related
-
-- [[pa-library-recommendations|Platform Analytics library recommendations]]

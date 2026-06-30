@@ -14,7 +14,7 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 # Domain separation and Safe Workplace suite
 
-The [[safe-workplace|Safe Workplace]] suite applications support domain separation at the Basic level with the exception of [[safe-workplace-dashboard|Safe Workplace Dashboard]].
+The Safe Workplace suite applications support domain separation at the Basic level with the exception of Safe Workplace Dashboard.
 
 With domain separation, you can separate data, processes, and administrative tasks into logical groupings called domains. You can then control aspects in each domain, including what users can see or whether they can access the data.
 
@@ -37,10 +37,10 @@ For more detail on the support levels, see [Application support for domain separ
 
 The following applications use the Safe Workplace domain table:
 
--   [[contact-tracing|Contact Tracing]]
--   [[health-safety-testing|Health and Safety Testing]]
--   [[emergency-outreach|Emergency Outreach]] \(Daily Contact Logs, Privacy Consent, and Privacy Consent \(common\)\)
--   [[emergency-exposure-management|Emergency Exposure Management]]
+-   Contact Tracing
+-   Health and Safety Testing
+-   Emergency Outreach \(Daily Contact Logs, Privacy Consent, and Privacy Consent \(common\)\)
+-   Emergency Exposure Management
 
 Admins must install the [Domain separation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateDomainSeparation.md)before working with these application tables. Most of those tables contain a **sys\_domain** field so they are able to be domain-separated if they have data that needs to be partitioned by domain.
 
@@ -69,7 +69,7 @@ Scheduled jobs in applications with this level of domain separation run separate
 
 The **Domain Source Table** value is also set to Safe Workplace Domains by default. If you don't see the tables, verify that the **Domain Iterator** and Safe Workplace Domains settings are selected, and refresh the instance.
 
-\[Omitted image "ds-iterator-checkbox.png"\] Alt text: Domain iterator option selected in the [[employee-readiness-core|Employee Readiness Core]] Scheduled Script Execution form.
+\[Omitted image "ds-iterator-checkbox.png"\] Alt text: Domain iterator option selected in the Employee Readiness Core Scheduled Script Execution form.
 
 ## Parent-child domains
 
@@ -81,7 +81,7 @@ When the Domain separation plugin is installed and you navigate to the Propertie
 
 \[Omitted image "ds-properties-none.png"\] Alt text: Domain-separated properties list with no properties displaying.
 
-To display the properties, click **New** on the Properties page. In the form that creates a new domain-separated property, search in the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field for the property you would like to override. Enter a specific prefix to narrow your search:
+To display the properties, click **New** on the Properties page. In the form that creates a new domain-separated property, search in the reference field for the property you would like to override. Enter a specific prefix to narrow your search:
 
 -   `sn_imt_core` for Employee Readiness Core
 -   `sn_imt_diagnosis` for Emergency Exposure Management
@@ -116,13 +116,3 @@ Learn more about how these properties function in the following topics:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[contact-tracing|Contact Tracing]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

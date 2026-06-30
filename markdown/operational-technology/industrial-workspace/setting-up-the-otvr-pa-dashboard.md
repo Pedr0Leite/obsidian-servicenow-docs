@@ -14,7 +14,7 @@ breadcrumb: [Configure, Industrial Workspace, Operational Technology]
 
 # Setting up the Operational Technology Vulnerability Response \(PA\) dashboard
 
-Set up the [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]] in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] so that your users can access their critical tasks.
+Set up the Operational Technology Vulnerability Response \(PA\) dashboard in the Industrial Workspace so that your users can access their critical tasks.
 
 The following table lists the Guided Setup tasks and their purposes for the Operational Technology Vulnerability Response \(PA\) dashboard.
 
@@ -30,7 +30,3 @@ Review and update an indicator source to override the expected record count if y
 
 **Parent Topic:**[Configuring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configuring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

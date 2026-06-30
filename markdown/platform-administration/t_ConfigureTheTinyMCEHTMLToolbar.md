@@ -28,7 +28,7 @@ Role required: admin
 
 </td><td>
 
-1.  Navigate to the [[r_SetArchiveRuleProcessingBehavior|System properties]] \[sys\_properties\] table by entering `sys_properties.list` in the application navigator.
+1.  Navigate to the System properties \[sys\_properties\] table by entering `sys_properties.list` in the application navigator.
 2.  In the **Name** column, search for `glide.ui.html.toolbar`.
 3.  Select the **glide.ui.html.toolbar** property.
 
@@ -217,9 +217,5 @@ Extended functions
 
 ## What to do next
 
-See [[tinymce|Change the TinyMCE default toolbar]] for more detailed information.
+See [Change the TinyMCE default toolbar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/tinymce.md) for more detailed information.
 
-## Related
-
-- [[tinymce|Configuring the TinyMCE toolbar via Dictionary attributes]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

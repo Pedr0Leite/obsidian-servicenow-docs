@@ -14,7 +14,7 @@ breadcrumb: [Common applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Complaint Management
 
-The ServiceNow® Financial Services Complaint Management application is a solution in [[fso-overview|Financial Services]] Operations that enables financial organizations to quickly and efficiently resolve customer complaints. This solution automates processes that facilitate cross-departmental collaboration and enable everyone to monitor and track complaint status, from initiation to resolution.
+The ServiceNow® Financial Services Complaint Management application is a solution in Financial Services Operations that enables financial organizations to quickly and efficiently resolve customer complaints. This solution automates processes that facilitate cross-departmental collaboration and enable everyone to monitor and track complaint status, from initiation to resolution.
 
 ## Request apps on the Store
 
@@ -46,7 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

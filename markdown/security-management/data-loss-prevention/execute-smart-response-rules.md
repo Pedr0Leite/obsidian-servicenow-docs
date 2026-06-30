@@ -40,11 +40,8 @@ The response options on the workspace will be available for the end user or anal
 
 5.  Click **Submit**.
 
-    **Note:** You can also configure the approval rule\(s\) for the Response Options by following the procedure explained in the [Create Approval Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-approval-rules.md) section. When an approval rule is configured for the Smart Response Rule, the approval flow will be triggered first and after receiving all the approvals, the Smart Response Option flow will be triggered. The state of the DLP Incident will be updated as per the target state of the Response Option [[mapping-logrhythm|mapping]] after successful run of response option.
+    **Note:** You can also configure the approval rule\(s\) for the Response Options by following the procedure explained in the [Create Approval Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-approval-rules.md) section. When an approval rule is configured for the Smart Response Rule, the approval flow will be triggered first and after receiving all the approvals, the Smart Response Option flow will be triggered. The state of the DLP Incident will be updated as per the target state of the Response Option mapping after successful run of response option.
 
 
 **Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/symantec-dlp-integration.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

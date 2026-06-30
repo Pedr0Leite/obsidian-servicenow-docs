@@ -17,9 +17,9 @@ breadcrumb: [Use, Interview Management, Hiring Experiences, HR Service Delivery,
 
 Recruiters and coordinators need to proactively monitor interview health, look at interviews that need attention, and reduce reactive coordination effort. The Interview health tracker gives recruiters and coordinators a unified list view to centrally monitor interview health and surface support needs early and in priority order, so they can address them proactively.
 
-The system generates alerts automatically based on built-in scenarios and displays them in the [[recruitment-workspace-concept|Recruitment workspace]] and on the affected records.
+The system generates alerts automatically based on built-in scenarios and displays them in the Recruitment workspace and on the affected records.
 
-**Note:** This feature requires Now Assist skills from the HR Talent AI Agent Collection application, available in [[hr-service-delivery|HR Service Delivery]] version 2.0.0 and later.
+**Note:** This feature requires Now Assist skills from the HR Talent AI Agent Collection application, available in HR Service Delivery version 2.0.0 and later.
 
 ## Benefits
 
@@ -35,7 +35,7 @@ Needs-attention alerts provide the following benefits:
 
     -   Identify records that need follow-up without manually reviewing them.
     -   Statuses update automatically as records change, and recruiters can also manually close alerts that are no longer relevant with a categorized reason or snooze them for later review.
-    -   Stay on top of [[hiring-tab-concept|hiring]] [[activity-lxp|activity]] through a daily digest and notifications for urgent items, with detailed, in-context alerts available on each affected record.
+    -   Stay on top of hiring activity through a daily digest and notifications for urgent items, with detailed, in-context alerts available on each affected record.
 
 ## Alert lifecycle
 
@@ -63,15 +63,8 @@ The following are the default scenarios available that trigger the alerts:
 
 Recruiters can view the needs-attention alerts in the following areas:
 
--   **List view**: The Needs attention [[list-view-recruit-workspace|list view in Recruitment workspace]] displays a consolidated list of all open alerts and their details. With everything in one place, recruiters can plan their work more effectively and address higher-priority items first.
+-   **List view**: The Needs attention list view in Recruitment workspace displays a consolidated list of all open alerts and their details. With everything in one place, recruiters can plan their work more effectively and address higher-priority items first.
 -   **Interview record**: Alert messages and an AI-generated interview alert summary appear on the interview record page. A detailed view of each alert is available under the **Alerts** tab, where users may also choose to close or snooze individual alerts.
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hiring-tab-concept|Hiring]]
-- [[activity-lxp|Activity]]
-- [[list-view-recruit-workspace|List view in Recruitment workspace]]

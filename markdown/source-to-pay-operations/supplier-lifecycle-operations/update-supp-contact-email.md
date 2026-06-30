@@ -22,13 +22,13 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-The **Update email** option is available only to the primary [[supplier-contact|supplier contact]] and the [[supplier|supplier]] administrator.
+The **Update email** option is available only to the primary supplier contact and the supplier administrator.
 
 **Note:** Ensure that the email domain of the supplier already exists in the sn\_supplier\_email\_domain table.
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -60,8 +60,3 @@ The email address of the supplier contact is updated.
 
 [Remove a supplier contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supplier-contact.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]

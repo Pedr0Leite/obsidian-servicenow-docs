@@ -15,7 +15,7 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 
 # Configuring DEX for Zoom
 
-The DEX for Zoom gets installed automatically when you [[install-app-device-health|install Digital End-User Experience]].
+The DEX for Zoom gets installed automatically when you install Digital End-User Experience.
 
 1.  Integrate your Zoom account with your ServiceNow instance so that you can use the DEX for Zoom to perform various actions on your Zoom account. You can also create a custom OAuth application in the Zoom account to authenticate requests from your instance.
 
@@ -25,6 +25,3 @@ The DEX for Zoom gets installed automatically when you [[install-app-device-heal
     -   [Add Zoom connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-zoom-connection.md).
 2.  [Enable application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/enable-app-monitor.md) to gain insights into call quality metrics and diagnose issues to enhance performance.
 
-## Related
-
-- [[install-app-device-health|Install Digital End-User Experience]]

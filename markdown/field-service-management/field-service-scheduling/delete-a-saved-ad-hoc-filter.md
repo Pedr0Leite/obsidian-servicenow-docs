@@ -14,7 +14,7 @@ breadcrumb: [Managing ad hoc filters, Using Dispatcher Workspace, Assigning task
 
 # Delete a saved ad hoc filter
 
-Delete ad hoc filters saved in [[dispatcher-activities|Dispatcher Workspace]].
+Delete ad hoc filters saved in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: wm\_dispatcher
 
 The filter is removed from the saved filters.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,16 +14,16 @@ breadcrumb: [Explore, Case and Knowledge Management, HR Service Delivery, Employ
 
 # Understanding Case and Knowledge Management
 
-[[case-knowledge-management-landing-page|Case and Knowledge Management]] for the scoped version of HR benefits your enterprise by automating standard HR processes within your organization that support relationships between employees and the HR department.
+Case and Knowledge Management for the scoped version of HR benefits your enterprise by automating standard HR processes within your organization that support relationships between employees and the HR department.
 
 ## Who uses HR Service Delivery
 
-[[hr-service-delivery|HR Service Delivery]] is used by the enterprise HR department. An enterprise HR department is composed of many areas, such as [[hr-case-employee-relations|employee relations]], benefits administration, policy enforcement, recruitment and employment, and performance management. The members of a large HR organization typically include:
+HR Service Delivery is used by the enterprise HR department. An enterprise HR department is composed of many areas, such as employee relations, benefits administration, policy enforcement, recruitment and employment, and performance management. The members of a large HR organization typically include:
 
 -   HR specialists who specialize in one or more HR disciplines. For example, the benefits area has specialists in insurance administration, leave and vacation time, and employee stock purchase.
 -   HR generalists who work with a business group or in a geographical region to assist employees with questions, careers, performance management, and other employee relations requests.
 -   HR managers who monitor and measure the effectiveness of the HR group in supporting employees across the organization. They also ensure that the enterprise is compliant with federal, state, and local regulations.
--   HR systems administrators who configure and maintain systems such as the central employee database, payroll, [[exploring-learning-exp|learning]] and performance management system, and others, including the Human Resources application.
+-   HR systems administrators who configure and maintain systems such as the central employee database, payroll, learning and performance management system, and others, including the Human Resources application.
 
 ## How you use HR Service Delivery
 
@@ -35,7 +35,7 @@ HR Service Delivery enhances and supports your enterprise. The relationships bet
     **Note:** Connect Support will be deprecated. For similar capabilities, please move to Advanced Work Assignment and Agent Chat. For details, see [Move from Connect Support to Advanced Work Assignment and Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/migrate-from-connect-support.md).
 
 -   HR staff can create, manage, and view HR cases to answer questions and process the requests that employees submit.
--   HR managers can [[t_RunningHRReports|run reports]] and view overview information to monitor and manage work done by the HR department.
+-   HR managers can run reports and view overview information to monitor and manage work done by the HR department.
 -   HR and corporate IT administrators can more effectively manage the company HR systems, such as the payroll and performance management systems, through the Enterprise Configuration Management Database \(ECMDB\).
 
 ## How you benefit from HR Service Delivery
@@ -48,7 +48,7 @@ Your entire organization benefits by using the application in the following ways
 
 -   **Improves employee access**
 
-    Employees access [[hr-service-administration|HR services]] through a service catalog, rather than having to write individual emails, make phone calls, or personally visit HR for each request.
+    Employees access HR services through a service catalog, rather than having to write individual emails, make phone calls, or personally visit HR for each request.
 
 -   **Tracks requests and progress**
 
@@ -103,11 +103,3 @@ The following terminology is used for the application.
 
 **Parent Topic:**[Explore Case and Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-ckm-use-explore.md)
 
-## Related
-
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[exploring-learning-exp|Learning]]
-- [[t_RunningHRReports|Run Reports]]
-- [[hr-service-administration|HR services]]

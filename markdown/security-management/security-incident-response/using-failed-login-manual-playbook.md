@@ -26,7 +26,7 @@ Role required: sn\_si.admin or sn\_si.manager or sn\_si.analyst
 
 2.  Select the **Playbook** tab.
 
-    You can view the [[tisc-playbooks-admin|playbooks]] that have been enabled for the security incident. You can also see details like the category of the security incident, risk score.
+    You can view the playbooks that have been enabled for the security incident. You can also see details like the category of the security incident, risk score.
 
     **Note:** If you don’t see any playbooks listed, then you need to go to PAD and enable them to see it in the **Playbook** tab.
 
@@ -49,6 +49,3 @@ Role required: sn\_si.admin or sn\_si.manager or sn\_si.analyst
 
 **Parent Topic:**[Playbook for Failed Login Manual](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-failed-login.md)
 
-## Related
-
-- [[tisc-playbooks-admin|Playbooks]]

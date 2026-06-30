@@ -22,13 +22,13 @@ Role required: sn\_eam.enterprise\_admin
 
 ## About this task
 
-You can specify the calibrations that are required for your enterprise assets by using calibration attributes. When you create a calibration attribute, you must select a calibration category to indicate the type of calibration that you need to perform. The [[enterprise-asset-management|Enterprise Asset Management]] application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories.
+You can specify the calibrations that are required for your enterprise assets by using calibration attributes. When you create a calibration attribute, you must select a calibration category to indicate the type of calibration that you need to perform. The Enterprise Asset Management application includes default calibration categories such as Electrical, Flow, Humidity, and Pressure. You can create additional calibration categories for any calibrations that do not fall under the default categories.
 
 For more details on calibration attributes, see [Add calibration attributes to an enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-asset.md) or [Add calibration attributes to an enterprise model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/add-calibration-attributes-enterprise-model.md).
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Admin center view.
+1.  From the Enterprise Asset Workspace, open the Admin center view.
 
 2.  From the left navigation menu of the Admin center view, navigate to **Calibration configuration** &gt; **Category**.
 
@@ -48,7 +48,3 @@ For more details on calibration attributes, see [Add calibration attributes to a
 
 The calibration category is available to use in your calibration attributes.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

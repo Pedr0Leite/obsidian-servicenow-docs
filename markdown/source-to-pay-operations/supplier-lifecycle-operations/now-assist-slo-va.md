@@ -15,15 +15,15 @@ breadcrumb: [Use, Now Assist for SLO, Supplier Lifecycle Operations, Finance and
 
 # Use Now Assist for Supplier Lifecycle Operations \(SLO\) in a Virtual Agent chat
 
-Use the conversational interface of [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] to request contextually relevant generative AI capabilities through a Virtual Agent chat.
+Use the conversational interface of Now Assist for Supplier Lifecycle Operations \(SLO\) to request contextually relevant generative AI capabilities through a Virtual Agent chat.
 
 Role required: sn\_supplier\_gen\_ai.now\_assist\_supplier
 
 **Note:** This role must be provided to the sn\_slm.contact user.
 
-As a [[supplier|supplier]], you can use the predefined topics \(chatbot conversations\) that are designed to help you complete self-service tasks. You can manage a profile, manage users, submit a request, track request status, or connect to a live agent by using contextual generative AI capabilities.
+As a supplier, you can use the predefined topics \(chatbot conversations\) that are designed to help you complete self-service tasks. You can manage a profile, manage users, submit a request, track request status, or connect to a live agent by using contextual generative AI capabilities.
 
-To start a conversation, navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[supplier-central|Supplier Collaboration Portal]]** and select the Virtual Agent chat icon.
+To start a conversation, navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Supplier Collaboration Portal** and select the Virtual Agent chat icon.
 
 You can also select **Show all my options** to access the following predefined topics.
 
@@ -31,7 +31,7 @@ You can also select **Show all my options** to access the following predefined t
 
 -   **Update banking details**
 
-    As a [[supplier-contact|supplier contact]], you can update your existing bank details or submit a new one by selecting **Show all my options** &gt; **Update banking details**. You could also directly start entering the instructions. You must enter the email address that is associated with your organization's account to update your bank details. You must upload proof of the beneficiary's bank account to edit the request.
+    As a supplier contact, you can update your existing bank details or submit a new one by selecting **Show all my options** &gt; **Update banking details**. You could also directly start entering the instructions. You must enter the email address that is associated with your organization's account to update your bank details. You must upload proof of the beneficiary's bank account to edit the request.
 
 -   **Update location details**
 
@@ -87,10 +87,3 @@ For information on configuring Now Assist for SLO, see [Configure Now Assist for
 
 [Summarize a case by using Now Assist for Supplier Lifecycle Operations \(SLO\) in Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-summarize-case.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]

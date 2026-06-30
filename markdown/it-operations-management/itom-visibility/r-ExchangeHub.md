@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # Exchange Hub Transport Servers discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of Exchange Hub.
+Discovery creates or updates a CMDB record when it detects a running instance of Exchange Hub.
 
 By default, Discovery uses the Hub Transport Server On Windows pattern to discover Exchange Hub Transport Servers.
 
@@ -40,6 +40,3 @@ The Hub Transport Server On Windows pattern doesn't discover any relationships.
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

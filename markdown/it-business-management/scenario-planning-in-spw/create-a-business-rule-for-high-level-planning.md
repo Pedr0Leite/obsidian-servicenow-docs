@@ -14,7 +14,7 @@ breadcrumb: [High-level planning configuration in Strategic Planning, Configure,
 
 # Create a business rule for high-level planning
 
-To enable high-level planning on a table that is not a planning item in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, create a business rule to allow assigning a rank value for all future records of this table.
+To enable high-level planning on a table that is not a planning item in Strategic Planning Workspace, create a business rule to allow assigning a rank value for all future records of this table.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ This task is the end of the series of tasks to enable high-level planning on a t
 
 See [Managing portfolio plans in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-portfolio-plans-in-alignment-planner-workspace.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

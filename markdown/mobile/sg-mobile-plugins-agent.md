@@ -12,7 +12,7 @@ breadcrumb: [Mobile plugins, Plugins &amp; upgrades, Before implementation, Conf
 
 # Mobile plugins for Mobile Agent
 
-Use these plugins to extend functionality for the [[mobile-experience|Mobile Agent app]].
+Use these plugins to extend functionality for the Mobile Agent app.
 
 <table id="table_rjz_j1z_hlb"><thead><tr><th>
 
@@ -100,7 +100,7 @@ Field Service Mobile
 
 </td><td>
 
-Manages the Field Service mobile components on an iOS or an Android mobile device. Field service agents and dispatchers can execute work order tasks, manage assets, and close work order tasks on their mobile device in online or [[mobile-offline-mode|offline mode]].
+Manages the Field Service mobile components on an iOS or an Android mobile device. Field service agents and dispatchers can execute work order tasks, manage assets, and close work order tasks on their mobile device in online or offline mode.
 
 </td><td>
 
@@ -179,10 +179,5 @@ Store
 Yes
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[sg-mobile-plugins|Mobile plugins]]
+</table>**Parent Topic:**[Mobile plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins.md)
 
-## Related
-
-- [[sg-mobile-plugins|Mobile plugins]]
-- [[mobile-experience|Mobile Agent app]]
-- [[mobile-offline-mode|Offline mode]]

@@ -22,7 +22,7 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  Select the list \[Omitted image "ws-list-icon.png"\] icon.
 
@@ -43,6 +43,3 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 **Parent Topic:**[Using Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md)
 
-## Related
-
-- [[privacy-management|privacy management]]

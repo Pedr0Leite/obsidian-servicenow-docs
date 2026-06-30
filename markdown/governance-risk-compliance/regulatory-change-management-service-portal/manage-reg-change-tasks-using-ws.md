@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Manage regulatory change tasks
 
-[[manage-regulatory-change-tasks|Manage the regulatory change tasks]] that are associated with the regulatory event alert. When a business entity owner completes the impact assessment on the regulatory event alert, the user with the sn\_grc\_reg\_change.user role reviews the assessment summary and marks the alert as applicable.
+Manage the regulatory change tasks that are associated with the regulatory event alert. When a business entity owner completes the impact assessment on the regulatory event alert, the user with the sn\_grc\_reg\_change.user role reviews the assessment summary and marks the alert as applicable.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ The coordinator of the regulatory event alert identifies the steps to comply wit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]] application** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management application** &gt; **Compliance Workspace**.
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-2.  Navigate to **Lists** &gt; **[[list-view-of-reg-alerts|Regulatory Alerts]]** view.
+2.  Navigate to **Lists** &gt; **Regulatory Alerts** view.
 
 3.  Select the regulatory event alert for which a business entity owner has completed the assessment.
 
@@ -274,8 +274,3 @@ Verify that the regulatory change task is updated with the **Responded** state a
 
 [Create a new action task for the alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/create-action-task-using-ws.md)
 
-## Related
-
-- [[manage-regulatory-change-tasks|Manage the regulatory change tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

@@ -24,7 +24,7 @@ Users can create multiple attestation types and set their control objectives to 
 
 ## About this task
 
-When controls are attested, a new questionnaire is created. As a result, attestations do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module. Hundreds of GRC assessment records could be generated at once and should be separated from other assessments in a separate [[list-view-uib-ws|list view]].
+When controls are attested, a new questionnaire is created. As a result, attestations do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module. Hundreds of GRC assessment records could be generated at once and should be separated from other assessments in a separate list view.
 
 ## Procedure
 
@@ -57,7 +57,3 @@ When controls are attested, a new questionnaire is created. As a result, attesta
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[list-view-uib-ws|List view]]

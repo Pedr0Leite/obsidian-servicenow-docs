@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Threat Intelligence Security Center, Security Operations
 
 # Threat Intelligence Feeds
 
-Configure [[threat-intel-landing-page|threat intelligence]] [[data-sources|data sources]] to automatically import security [[indicator|indicators]] into your ServiceNow instance. Use feeds to keep threat data current and enhance security monitoring capabilities.
+Configure threat intelligence data sources to automatically import security indicators into your ServiceNow instance. Use feeds to keep threat data current and enhance security monitoring capabilities.
 
 Use Threat Intelligence Feeds to add, edit, or remove threat intelligence feed data sources. Access data source feeds from the Threat Intel Catalog under the Integrations section.
 
@@ -24,7 +24,7 @@ The catalog for threat intelligence feeds displays available feed data sources a
 
 You can enable and use feeds displayed as cards in the base system.
 
-To view feeds, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Integrations** &gt; **Threat Intel Feeds** &gt; **All Feeds**.
+To view feeds, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations** &gt; **Threat Intel Feeds** &gt; **All Feeds**.
 
 \[Omitted image "tisc-all-feeds.png"\] Alt text: Threat Intelligence Feeds
 
@@ -197,15 +197,15 @@ Feeds configured with custom parsers.**Note:** Only URLs, domains, file names, h
 </table>For configuration steps, refer to the respective topic for your feed type.
 
 -   **[Configure a new threat intelligence feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-new-data-source.md)**  
-[[tisc-new-data-source|Configure a new threat intelligence feed]].
+Configure a new threat intelligence feed.
 -   **[Configure Custom Field Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-field-mapping.md)**  
-Field [[mapping-logrhythm|Mapping]] allows you to configure how each field in a data feed such as Text, CSV or JSON is interpreted and assigned to the corresponding observable.
+Field Mapping allows you to configure how each field in a data feed such as Text, CSV or JSON is interpreted and assigned to the corresponding observable.
 -   **[View Threat Intel Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/base-system-threat-intel-feeds.md)**  
 View threat intelligence feeds that automatically imports security data into your TISC ServiceNow instance. This enables real-time threat detection and response capabilities.
 -   **[About STIX TAXII](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-security-center-feeds.md)**  
 Structured Threat Information Expression \(STIX\) is a language and serialization format used to exchange cyberthreat intelligence \(CTI\). Trusted Automated Exchange of Intelligence Information \(TAXII\) is a protocol used to exchange cyberthreat intelligence \(CTI\) over HTTPS.
 -   **[Duplicate threat intelligence feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-duplicate-feeds.md)**  
-Duplicate a threat feed to create an exact copy with all associated [[c_Observables|observables]], indicators, and actors when you want to modify settings without affecting the original feed.
+Duplicate a threat feed to create an exact copy with all associated observables, indicators, and actors when you want to modify settings without affecting the original feed.
 
 **Parent Topic:**[Integrate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/integrating-threat-intelligence-security-center.md)
 
@@ -216,12 +216,3 @@ Duplicate a threat feed to create an exact copy with all associated [[c_Observab
 
 [TISC Integrations]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-sources|Data Sources]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-new-data-source|Configure a new threat intelligence feed]]
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]

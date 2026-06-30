@@ -14,7 +14,7 @@ breadcrumb: [Common Security Operations integration flows and orchestration acti
 
 The Get IP from CI flow activity gathers the IP address from configuration items \(CIs\) to use in the flow.
 
-The [[get-ip-from-ci-activity-reference|Get IP from CI activity]] can be used with any flow to gather configuration item \(CI\) IP addresses to use in the flow.
+The Get IP from CI activity can be used with any flow to gather configuration item \(CI\) IP addresses to use in the flow.
 
 ## Results
 
@@ -41,9 +41,5 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |ip\_addr|IP addresses.|
 
-**Parent Topic:**[[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
+**Parent Topic:**[Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[get-ip-from-ci-activity-reference|Get IP from CI activity]]

@@ -14,7 +14,7 @@ breadcrumb: [Use business services with expenses, Cost Management, Strategic Por
 
 # Default allocation rule
 
-For every expense line generated for a business service, the default allocation rule Process Svc-CC Relationships will attempt to process the expense and [[t_AllocateWResAllocationsRelList|create allocations]] for each cost center that is consuming the service.
+For every expense line generated for a business service, the default allocation rule Process Svc-CC Relationships will attempt to process the expense and create allocations for each cost center that is consuming the service.
 
 The amount of the expense allocation is calculated by dividing the number of units the cost center is consuming by the total number of units for the business service. This calculation method is refereed to as "all unit" allocation as it uses the total unit capacity to determine the allocation percentage.
 
@@ -31,6 +31,3 @@ This is a system wide setting that can be configured by navigating to **Financia
 
 **Parent Topic:**[Use business services with expenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/c_UseBusinessServicesWithExpenses.md)
 
-## Related
-
-- [[t_AllocateWResAllocationsRelList|Create allocations]]

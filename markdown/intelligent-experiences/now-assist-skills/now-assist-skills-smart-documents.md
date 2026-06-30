@@ -14,7 +14,7 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Smart Documents Skill
 
-Accelerate document insights with instant summaries, interactive Q&amp;A, and FAQs using [[platform-now-assist-landing|Now Assist]] in Document Management.
+Accelerate document insights with instant summaries, interactive Q&amp;A, and FAQs using Now Assist in Document Management.
 
 ## Smart Documents Skill overview
 
@@ -72,7 +72,3 @@ Governance,Risk, and Compliance
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

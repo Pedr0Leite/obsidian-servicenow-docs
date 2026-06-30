@@ -15,7 +15,7 @@ breadcrumb: [Now Assist in Conversational Catalog Request, Service Catalog, Mana
 
 # Conversational catalog request reference
 
-[[reference|Reference]] topics provide additional information about configuration properties, roles, and more.
+Reference topics provide additional information about configuration properties, roles, and more.
 
 -   **[Topic blocks to request catalog items through conversational experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-topic-blocks-va-llm.md)**  
 You can design a topic conversation in Virtual Agent powered Now LLM by including reusable topic blocks to perform request submission tasks.
@@ -24,6 +24,3 @@ Let's understand what determines whether a catalog item can deliver a fully conv
 
 **Parent Topic:**[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)
 
-## Related
-
-- [[reference|Reference]]

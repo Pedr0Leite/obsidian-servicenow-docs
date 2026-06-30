@@ -14,7 +14,7 @@ breadcrumb: [Document Templates of type PDF \(Advanced forms\), Configuring Docu
 
 # Define a PDF field mapping
 
-Define editable fields and store signature mappings using the PDF [[field-mappings-sf|field mappings]] section.
+Define editable fields and store signature mappings using the PDF field mappings section.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Information on the PDF is parsed and stored in the PDF Mapping table. **Parse PD
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **All Document Templates**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **All Document Templates**.
 
 2.  Select **PDF Document Template**.
 
@@ -92,7 +92,7 @@ Advanced script
 
 </td><td>
 
-Use to configure script fields for complex mapping of a field.For example, to map a Social Security Number from the [[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\] table to a document and format it correctly, a script is used.
+Use to configure script fields for complex mapping of a field.For example, to map a Social Security Number from the HR Profile \[sn\_hr\_core\_profile\] table to a document and format it correctly, a script is used.
 
 </td></tr><tr><td>
 
@@ -218,9 +218,3 @@ Options stored for the non text fields. For example, social status might include
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[field-mappings-sf|Field mappings]]
-- [[document-templates-overview|Document Templates]]
-- [[c_HRProfileRecords|HR Profile]]

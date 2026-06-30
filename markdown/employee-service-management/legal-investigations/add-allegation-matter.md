@@ -22,11 +22,11 @@ Role required: sn\_lg\_investigate.fulfiller
 
 ## About this task
 
-You can also associate an allegation with an involved party from the [[involved-party-form|Involved Party form]].
+You can also associate an allegation with an involved party from the Involved Party form.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Open a legal matter assigned to you in which you want to add an allegation record.
 
@@ -60,7 +60,4 @@ You can also associate an allegation with an involved party from the [[involved-
 
     The selected involved party is listed in the **Subjects of Allegation** tab.
 
-## Related
 
-- [[involved-party-form|Involved Party form]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

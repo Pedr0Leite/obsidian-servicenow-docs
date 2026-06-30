@@ -14,7 +14,7 @@ breadcrumb: [Employee Center for Zoom, Employee Center Integrations, Unified Emp
 
 # Set up a custom portal
 
-Configure the ServiceNow® [[employee-center-landing-page|Employee Center]] portal appearance of your organization’s custom portal in Zoom.
+Configure the ServiceNow® Employee Center portal appearance of your organization’s custom portal in Zoom.
 
 ## Before you begin
 
@@ -134,6 +134,3 @@ Description for the HTTP response header.
 
 **Parent Topic:**[Employee Center for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-ec-create-app.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

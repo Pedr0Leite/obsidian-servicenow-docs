@@ -134,7 +134,7 @@ Match All
 
 </td><td>
 
-Option to determine whether all elements from each populated user criteria field must match. If selected, only users who match all user criteria are given access. If cleared, the user must meet one or more of the set user criteria to be given access. By default, this [[check-box|check box]] is cleared so that any condition met provides a match.
+Option to determine whether all elements from each populated user criteria field must match. If selected, only users who match all user criteria are given access. If cleared, the user must meet one or more of the set user criteria to be given access. By default, this check box is cleared so that any condition met provides a match.
 
  For example, consider a user criteria record for the following:
 
@@ -159,6 +159,3 @@ With **Match All** selected, only users that meet all of these conditions are ma
 
 [Control access at the knowledge article level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_SelectUCArticle.md)
 
-## Related
-
-- [[check-box|Check box]]

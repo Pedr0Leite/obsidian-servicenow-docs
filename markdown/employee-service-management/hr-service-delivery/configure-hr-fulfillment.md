@@ -14,7 +14,7 @@ breadcrumb: [HR fulfillment instructions, HR services, HR Administration, Config
 
 # Configure HR fulfillment instructions
 
-Use [[hr-fulfillment-instructions|HR fulfillment instructions]] to provide focused and targeted instructions for an HR case.
+Use HR fulfillment instructions to provide focused and targeted instructions for an HR case.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **HR Fulfillment Instructions**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Fulfillment Instructions**.
 
 2.  Click **New** or open an existing fulfillment instruction.
 
@@ -96,7 +96,7 @@ Knowledge articles
 
 </td><td>
 
-Knowledge articles that you want to attach to the fulfillment instructions. HR agents use knowledge articles as [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] when fulfilling an HR case.**Note:** Knowledge articles are visible only to HR agents and not to employees.
+Knowledge articles that you want to attach to the fulfillment instructions. HR agents use knowledge articles as reference when fulfilling an HR case.**Note:** Knowledge articles are visible only to HR agents and not to employees.
 
 </td></tr></tbody>
 </table>    **Note:** Previously, Fulfillment Instructions and Checklists were configured from HR services. Checklists are still configured from HR services. For more information on checklists, see [Checklists in HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ChecklistsInHRCasesAndTasks.md).
@@ -106,9 +106,3 @@ Knowledge articles that you want to attach to the fulfillment instructions. HR a
 
 **Parent Topic:**[HR fulfillment instructions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-fulfillment-instructions.md)
 
-## Related
-
-- [[hr-fulfillment-instructions|HR fulfillment instructions]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

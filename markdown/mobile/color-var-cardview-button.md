@@ -24,7 +24,7 @@ Use color variables in **Card template element attributes** to control color val
 -   **BorderColorVariable**
 -   **TextColorVariable**
 
- For more information on these attributes, see [[mca-attributes|Card template element attributes]].
+ For more information on these attributes, see [Card template element attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mca-attributes.md).
 
 </td><td>
 
@@ -188,7 +188,3 @@ Use this style when the action is unavailable while offline.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mca-attributes|Card template element attributes]]

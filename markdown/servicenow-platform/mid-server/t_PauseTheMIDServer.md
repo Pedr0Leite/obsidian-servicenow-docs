@@ -29,7 +29,7 @@ Role required: agent\_admin
 
 You can only pause [validated MID Servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_ValidateAMIDServer.md). You might want to pause the MID Server when your network infrastructure is undergoing changes. This prevents applications like Discovery from throwing errors during a particular maintenance window.
 
-A paused [[mid-server-landing|MID Server]] continues processing commands that it had already retrieved before it was paused. When you resume the MID Server, the MID Server starts retrieving new commands to process.
+A paused MID Server continues processing commands that it had already retrieved before it was paused. When you resume the MID Server, the MID Server starts retrieving new commands to process.
 
 **Note:** Discovery continues to assign jobs to MID Servers that are **Paused**. MID Servers that are **Down** are not assigned jobs.
 
@@ -110,6 +110,3 @@ To prevent these events from being processed, stop the extensions from running. 
 -   [Configure and run the vCenter event collector extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_VCenterEventProcessorExtension.md)
 -   [Configure the SNMP Trap Collector Extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_SNMPTrapCollectorExtension.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

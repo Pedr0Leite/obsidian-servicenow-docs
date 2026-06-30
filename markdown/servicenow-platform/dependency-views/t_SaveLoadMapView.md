@@ -14,7 +14,7 @@ breadcrumb: [Use, Dependency Views, Configuration Management Database \(CMDB\), 
 
 # Save or load a Dependency Views map
 
-In the **View Map** module, use the menu icon to save and load [[c_BusinesssServiceManagementMaps|Dependency Views]] maps.
+In the **View Map** module, use the menu icon to save and load Dependency Views maps.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: None
 
 [View a Dependency Views map]()
 
-[Delete a saved [[c_NextGenBSMMaps|Dependency Views map]] view]()
+[Delete a saved Dependency Views map view]()
 
 [Change the layout of Dependency Views map]()
 
@@ -48,7 +48,3 @@ Role required: None
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

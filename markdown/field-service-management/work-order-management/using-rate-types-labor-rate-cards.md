@@ -18,7 +18,7 @@ Use rate types and labor rate cards to define different cost rates for different
 
 ## Rate types
 
-When multiple rate types are enabled for [[fsm-application-landing-page|Field Service Management]], agents can select active rate types when creating time worked entries. Active rate types can be selected in the **Rate Type** field on:
+When multiple rate types are enabled for Field Service Management, agents can select active rate types when creating time worked entries. Active rate types can be selected in the **Rate Type** field on:
 
 -   Time worked records
 -   Time cards
@@ -56,6 +56,3 @@ To enable multiple rate types for Field Service Management:
 6.  Enable the **Auto fill time card with time worked entries** field.
 7.  Click **Update**.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

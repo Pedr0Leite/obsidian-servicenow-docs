@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Reliability Management, Service Reliability Man
 
 # Approve a change request for SRM
 
-Approve a service change request in [[sr-landing-page|Service Reliability Management]] \(SRM\) to allow the requested action to proceed.
+Approve a service change request in Service Reliability Management \(SRM\) to allow the requested action to proceed.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: SRM approval team or admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -51,8 +51,3 @@ Role required: SRM approval team or admin
 
 **Next topic:**[Configure fields for escalation triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/srm-configure-trigger-fields.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]

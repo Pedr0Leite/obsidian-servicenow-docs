@@ -39,8 +39,5 @@ On the portal record page, you can change aspects such as portal title, URL suff
 3.  Select **Try it** to test out the edits your portal before publishing, or **Update** to save and publish your changes immediately.
 
 
-**Parent Topic:**[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+**Parent Topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-## Related
-
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]

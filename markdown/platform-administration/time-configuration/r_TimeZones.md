@@ -60,7 +60,7 @@ The date and time stamp of a notification uses the **system time zone** and not 
 
 **Note:**
 
-The **glide.email.append.timezone** property in **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **Email** controls whether to append the time zone. If set to true, the system time zone of the instance is appended to any dates or date/times in [[ia-outbound-email-il|outbound email]] messages \(for example, 2010-07-02 04:01:14 PST\).
+The **glide.email.append.timezone** property in **System Properties** &gt; **Email** controls whether to append the time zone. If set to true, the system time zone of the instance is appended to any dates or date/times in outbound email messages \(for example, 2010-07-02 04:01:14 PST\).
 
 ## Time zones in service level agreements
 
@@ -96,7 +96,3 @@ The time zone changer is active by default. Users can change their time zone for
 
 [Change a time zone in a scheduled data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_ChangeTimeZoneInScheduledImport.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[ia-outbound-email-il|Outbound email]]

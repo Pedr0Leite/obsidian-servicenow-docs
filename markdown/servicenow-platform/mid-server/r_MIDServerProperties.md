@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server properties
 
-Properties control the behavior of all MID Servers or a particular [[mid-server-landing|MID Server]].
+Properties control the behavior of all MID Servers or a particular MID Server.
 
 <table id="table_gwj_2sf_khb"><tbody><tr><td>
 
@@ -133,7 +133,7 @@ Properties control the behavior of all MID Servers or a particular [[mid-server-
 
 -   **mid.discovery.multiprobe.skip\_others\_on\_error**
 
-    Prevents probes in a [multi-probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r_MultiprobesIncludedWithDiscovery.md) from iterating through available credentials when another member probe has already failed or timed out. If this property is set to **false**, each probe in the multi-probe attempts to [[c_Connect|connect]] to the target with the same invalid credentials. This condition results in longer probe execution times on the MID Server.
+    Prevents probes in a [multi-probe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r_MultiprobesIncludedWithDiscovery.md) from iterating through available credentials when another member probe has already failed or timed out. If this property is set to **false**, each probe in the multi-probe attempts to connect to the target with the same invalid credentials. This condition results in longer probe execution times on the MID Server.
 
     This property is not visible by default and must be added to the sys\_properties table to change the value.
 
@@ -224,7 +224,7 @@ Properties control the behavior of all MID Servers or a particular [[mid-server-
     -   Default value: 60
 -   **mid.log.command\_audit.enable**
 
-    Enables the [[mid-audit-log|MID Server command audit log]].
+    Enables the MID Server command audit log.
 
     -   Type: string
     -   Default value: false
@@ -468,7 +468,7 @@ Role required: admin
 
 ### About this task
 
-You set MID Server properties to override [[mid-server-parameters|MID Server parameters]]. Configure MID Server properties in the MID Server plugin. Do not configure MID Server properties in the **glide.properties** file that is located in the properties folder of the agent. The **glide.properties** file gets overwritten during the upgrade process.
+You set MID Server properties to override MID Server parameters. Configure MID Server properties in the MID Server plugin. Do not configure MID Server properties in the **glide.properties** file that is located in the properties folder of the agent. The **glide.properties** file gets overwritten during the upgrade process.
 
 ### Procedure
 
@@ -513,9 +513,4 @@ Leave this field blank to set a MID Server property that affects all MID Servers
 </td></tr></tbody>
 </table>4.  After setting any MID Server properties, restart the MID Server to ensure the properties sync with the instance.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[mid-audit-log|MID Server command audit log]]
-- [[mid-server-parameters|MID Server parameters]]

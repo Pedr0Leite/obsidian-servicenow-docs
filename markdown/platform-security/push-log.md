@@ -14,7 +14,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 Consult the push log to track the status of push notifications that are queued to send from your system.
 
-To view the push log, navigate to **[[system-logs|System Logs]]** &gt; **Push Notifications**. [[users|Users]] are required to have the push\_admin or admin role to view the push log.
+To view the push log, navigate to **System Logs** &gt; **Push Notifications**. Users are required to have the push\_admin or admin role to view the push log.
 
 <table id="table_b35_kkk_sq"><thead><tr><th>
 
@@ -54,11 +54,11 @@ Number of times that the system tried to send the push notification. The status 
 
 </td></tr><tr><td>
 
-[[c_requestAPI|Request]] ID
+Request ID
 
 </td><td>
 
-Unique identification number for the push notification. Similar to the message ID for an [[email|email]], the request ID is used as a correlation token for the push notification.
+Unique identification number for the push notification. Similar to the message ID for an email, the request ID is used as a correlation token for the push notification.
 
 </td></tr><tr><td>
 
@@ -76,9 +76,3 @@ Status to indicate whether the push notification has been sent. The Type column 
 
 [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md)
 
-## Related
-
-- [[system-logs|System logs]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[email|Email]]

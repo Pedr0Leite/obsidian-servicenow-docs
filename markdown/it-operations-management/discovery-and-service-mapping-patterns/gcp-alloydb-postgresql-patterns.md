@@ -15,7 +15,7 @@ breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patter
 
 # Google Cloud Platform \(GCP\) AlloyDB for PostgreSQL discovery using patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses the Google Cloud Platform \(GCP\) - AlloyDB for PostgreSQL pattern to discover AlloyDB for PostgreSQL during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses the Google Cloud Platform \(GCP\) - AlloyDB for PostgreSQL pattern to discover AlloyDB for PostgreSQL during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Pattern-based discovery and mapping requirements
 
@@ -198,7 +198,7 @@ IP Address \[ip\_address\]
 IP address for the Instance, which is the endpoint for an end-user application.
 
 </td></tr></tbody>
-</table>On the [[dependency-views-map|Dependency Views map]], you can view all discovered AlloyDB for PostgreSQL resources in your organization and the relationships between them.
+</table>On the Dependency Views map, you can view all discovered AlloyDB for PostgreSQL resources in your organization and the relationships between them.
 
 \[Omitted image "gcp-alloydb-postgressql-instance-dependency-view.png"\] Alt text: AlloyDB for PostgreSQL instance CIs and connections on a Dependency View map
 
@@ -206,7 +206,7 @@ IP address for the Instance, which is the endpoint for an end-user application.
 
 ## CI relationships
 
-Discovery creates these relationships to support the AlloyDB for [[r_DiscoverPostgreSQLInstances|PostgreSQL discovery]].
+Discovery creates these relationships to support the AlloyDB for PostgreSQL discovery.
 
 |CI|Relationship|CI|
 |---|------------|---|
@@ -231,9 +231,3 @@ The Google Cloud Platform \(GCP\) - AlloyDB for PostgreSQL pattern collects tags
 
 **Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]
-- [[r_DiscoverPostgreSQLInstances|PostgreSQL discovery]]

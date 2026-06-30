@@ -83,7 +83,7 @@ The URL link to content you want to appear for your employees.Select the Lookup 
 
     -   **Content Governance**
 
-        When [[ec-streamline-content|portal content]] is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
+        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
 
         When the **Content Request Item** has a state of **Work in Progress**, the **Send for Review** button appears.
 
@@ -91,6 +91,4 @@ The URL link to content you want to appear for your employees.Select the Lookup 
 
         **Note:** To edit the content after a review, the content request item state must be changed to **Work in Progress**.
 
-## Related
 
-- [[ec-streamline-content|Portal content]]

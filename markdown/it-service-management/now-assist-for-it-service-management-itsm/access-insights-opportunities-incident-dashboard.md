@@ -16,7 +16,7 @@ breadcrumb: [Insights and Opportunities for Incident dashboard, Now Assist for I
 
 # Access the Insights and Opportunities for Incident dashboard
 
-Use the [[insights-opportunities-incident-dashboard|Insights and Opportunities for Incident dashboard]] in Service Operations Workspace to monitor incident trends, SLA compliance, sentiment, and operational patterns across your organization.
+Use the Insights and Opportunities for Incident dashboard in Service Operations Workspace to monitor incident trends, SLA compliance, sentiment, and operational patterns across your organization.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: **sn\_sow\_itsm\_common.sn\_service\_desk\_manager** or **inciden
 
     The associated incident records appear in the following panel.
 
-## Related
 
-- [[insights-opportunities-incident-dashboard|Insights and Opportunities for Incident dashboard]]

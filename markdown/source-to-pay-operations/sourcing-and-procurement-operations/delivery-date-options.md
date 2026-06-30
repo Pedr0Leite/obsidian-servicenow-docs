@@ -23,9 +23,9 @@ Delivery dates are selected during checkout and are tracked throughout the purch
 
 ## Delivery date selection during checkout
 
-During the **Delivery date** step in the checkout flow, shoppers select delivery dates for each product line. [[shopping-hub-overview|Shopping Hub]] supports the following options:
+During the **Delivery date** step in the checkout flow, shoppers select delivery dates for each product line. Shopping Hub supports the following options:
 
--   **Get it as soon as possible**: Schedules delivery for the earliest possible date based on [[supplier|supplier]] lead time and product category. This option is commonly used when no specific delivery timing is required.
+-   **Get it as soon as possible**: Schedules delivery for the earliest possible date based on supplier lead time and product category. This option is commonly used when no specific delivery timing is required.
 -   **On a specific date**: Allows the shopper to select an exact delivery date. Shoppers can select a date that is in the past, present, or future. Selecting a past date requires the purchase to be marked as after the fact.
 -   **I have a time frame in mind \(blanket order\)**: Allows the shopper to specify an estimated delivery time frame instead of a specific date. Shoppers can select a date range or a term \(for example, days, weeks, months, quarters, or years\). If a date range is selected, both the requested start and end dates must be entered to proceed. Selecting a time frame creates a blanket type order, and no payment method is required during checkout. If the cart includes a product with an eligible credit, the option to provide a time frame is not available.
 -   **Service delivery dates**: For service-based products, delivery dates are represented using a **start date** and an **end date** instead of a single delivery date. A service time frame can be used when the duration of the service is flexible.
@@ -57,7 +57,3 @@ After a purchase is submitted, delivery date information remains visible through
 
 **Parent Topic:**[Select a delivery date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/select-delivery-date.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]

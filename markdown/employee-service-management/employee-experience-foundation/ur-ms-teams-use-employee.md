@@ -17,13 +17,9 @@ breadcrumb: [Use Microsoft Teams for Universal Request, Use Microsoft Teams inte
 Employees can create and update universal requests and track existing universal requests by using Microsoft Teams.
 
 -   **[Create a Universal request from Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use-create-ur-va.md)**  
-Create a [[ur-landing-limitedaccess|universal request]] with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
+Create a universal request with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
 -   **[Update or cancel a universal request using Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use-track-ur-va.md)**  
-Update or [[cancel-ur|cancel a universal request]] with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
+Update or cancel a universal request with the help of the Virtual Agent. You can access the Virtual Agent from the Microsoft Teams application.
 
 **Parent Topic:**[Use Microsoft Teams for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[cancel-ur|Cancel a universal request]]

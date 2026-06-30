@@ -24,7 +24,7 @@ Cases that have been created from a community discussion have the **Channel** fi
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a case that was created from a community discussion.
 
@@ -34,6 +34,4 @@ Cases that have been created from a community discussion have the **Channel** fi
 
 4.  View the community discussion in a new browser window and respond as necessary.
 
-## Related
 
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

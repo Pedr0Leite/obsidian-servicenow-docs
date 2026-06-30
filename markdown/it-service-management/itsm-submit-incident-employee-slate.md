@@ -37,8 +37,5 @@ Role required: none
     \[Omitted image "ai-native-submit-incident-form-empslate.png"\] Alt text: Submit an incident form in Employee Slate
 
 
-**Parent Topic:**[[employee-experience-using-employee-slate|Employee experience in Employee Slate]]
+**Parent Topic:**[Employee experience in Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-using-employee-slate.md)
 
-## Related
-
-- [[employee-experience-using-employee-slate|Employee experience in Employee Slate]]

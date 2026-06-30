@@ -12,7 +12,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # Setting up the Image Viewer
 
-You can use the Image Viewer to add images to [[fields|fields]] for viewing in a media carousel.
+You can use the Image Viewer to add images to fields for viewing in a media carousel.
 
 The image viewer allows a Logik Admin to add featured images to supported fields that can be viewed in a media carousel. This article covers how to set up the Image Viewer in the Logik Admin and how it displays on your layout.
 
@@ -164,6 +164,3 @@ Once clicked, the image view will open in a dialog box.
 
 A user can move between images with the arrow buttons or by clicking the thumbnails below the feature image. This carousel displays any label and alt text if provided. A user can close the dialog box by clicking outside it or by clicking **X** in the top right.
 
-## Related
-
-- [[fields|Fields]]

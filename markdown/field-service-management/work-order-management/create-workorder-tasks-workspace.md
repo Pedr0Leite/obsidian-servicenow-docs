@@ -26,7 +26,7 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 2.  Navigate to **Work Orders** &gt; **Created by me**
 
-3.  Select the work order for which you would like to [[create-task-manager-mobile|create a work order task]].
+3.  Select the work order for which you would like to create a work order task.
 
 4.  Do one of the following:
 
@@ -44,6 +44,3 @@ Role required: wm\_qualifier and sn\_customerservice\_agent, or wm\_qualifier an
 
 [Book work order appointment in the CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/appointment-booking/book-workorder-appointment-workspace.md)
 
-## Related
-
-- [[create-task-manager-mobile|Create a work order task]]

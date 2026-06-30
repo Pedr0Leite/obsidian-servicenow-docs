@@ -14,7 +14,7 @@ breadcrumb: [Emergency Outreach, Emergency Response Management, Employee Service
 
 # Modify or add Employee Readiness Surveys
 
-Review the Employee workplace readiness survey that is installed with the [[employee-readiness-surveys|Employee Readiness Surveys]] app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
+Review the Employee workplace readiness survey that is installed with the Employee Readiness Surveys app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
 
 ## Before you begin
 
@@ -67,7 +67,7 @@ Select the Introduction &amp; End Notes section tab and update the text.
 </td><td>
 
 1.  In the Metric Categories related list, select **Please complete this confidential survey**. Questions appear in the Assessment Metrics related list.
-2.  Select the question to open the Survey [[question-form|Question form]]. Modify and complete your edits. The answers are listed in the Assessment Metric Definitions related list.
+2.  Select the question to open the Survey Question form. Modify and complete your edits. The answers are listed in the Assessment Metric Definitions related list.
 
 
 </td></tr><tr><td id="d373061e171">
@@ -114,7 +114,3 @@ Consider how you want to begin to reopen your workplace, and what you must under
 
 [Send a readiness survey in Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/send-notification-to-exposed-contact.md)
 
-## Related
-
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[question-form|Question form]]

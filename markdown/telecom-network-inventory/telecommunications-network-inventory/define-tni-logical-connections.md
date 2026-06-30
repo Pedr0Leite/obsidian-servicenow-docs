@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the logical connection details
 
-Review, update, or create a network asset instance for a logical or virtual port connection on your network interface cards. You define these attributes so that you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Review, update, or create a network asset instance for a logical or virtual port connection on your network interface cards. You define these attributes so that you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -30,19 +30,19 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then select **Inventory** &gt; **[[design-logical-connection-design-assign-playbook|Logical Connections]]**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then select **Inventory** &gt; **Logical Connections**.
 
-    **Note:** You can also access the logical connection list by selecting the **Logical connection** count in the Network entities. Logical connection count is under the categories widget of the Network Inventory Workspace [[network-inventory-workspace-landing-page|landing page]]. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md).
+    **Note:** You can also access the logical connection list by selecting the **Logical connection** count in the Network entities. Logical connection count is under the categories widget of the Network Inventory Workspace landing page. To learn more, see [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md).
 
 3.  Select **New**.
 
 4.  On the **Details** tab, in the Logical Connection section, fill in the general information for the logical connection.
 
-    To learn more about the fields that are unique to the [[tni-logical-connection-forms|Logical Connection form]], see [Logical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-logical-connection-forms.md).
+    To learn more about the fields that are unique to the Logical Connection form, see [Logical Connection form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-logical-connection-forms.md).
 
-    To learn about the remaining identification fields that are common to most of the Inventory and [[inventory_number_allocation|Inventory number allocation]] menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
+    To learn about the remaining identification fields that are common to most of the Inventory and Inventory number allocation menu forms, see [Commonly used network asset instance identification fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/commonly-used-tni-identification-fields.md).
 
 5.  On the **Details** tab, in the Configuration section, fill in the configuration information for the logical connection.
 
@@ -58,7 +58,7 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a Telecommunications Network Inventory CI record. In the network inventory workspace, the **Set Inventory Attributes** is visible only for the Telecommunications Network Inventory roles.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the Telecommunications Network Inventory attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -102,12 +102,3 @@ The **Overview** tab in the logical connection record displays a consolidated de
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[network-inventory-workspace-landing-page|Landing page]]
-- [[tni-logical-connection-forms|Logical Connection form]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ci-attribue-form|TNI CI Attributes form]]

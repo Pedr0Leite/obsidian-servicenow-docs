@@ -14,7 +14,7 @@ breadcrumb: [Calculated lifecycle templates, Use, Hardware Asset Management, IT 
 
 # Create Calculated lifecycle templates in the Hardware Asset Workspace
 
-Create Calculated lifecycle templates to manage the complete lifecycle of hardware [[c_Models|models]] efficiently.
+Create Calculated lifecycle templates to manage the complete lifecycle of hardware models efficiently.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset Operations**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset Operations**.
 
 2.  From the **Hardware asset normalization** list, select **Calculated lifecycle templates**.
 
@@ -64,7 +64,3 @@ Role required: asset
 
 **Parent Topic:**[Manage the lifecycle of hardware models with calculated lifecycle templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-ham-lifecycle-temp.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

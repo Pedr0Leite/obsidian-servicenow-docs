@@ -32,7 +32,7 @@ The score calculation mechanism for each external assessment uses the ServiceNow
 
 -   Questions \(metrics\)
 
-    For more information on how to [[tprm-questions-create|define a question]], see [Define a question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-questions-create.md).
+    For more information on how to define a question, see [Define a question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-questions-create.md).
 
 -   Metric scale definition
 
@@ -244,7 +244,7 @@ The final rating for the assessment is calculated by using this equation:
 
 `assessmentRating = (AVG (Questionnaire 1 + Document Request 1) * 10 + MAX (Questionnaire 2 + Questionnaire 3) * 20) / (10 + 20).`
 
-The final rating is the overall assessment rating that considers the scores and ratings from all assessments conducted for a third-party or engagement. It’s calculated by taking the weighted average of the questionnaires and document requests within each risk area. This calculation process ensures that all relevant metrics, categories, and weights are taken into account based on how you defined these parameters and configurations. The calculation process and the [[factors|factors]] involved can help you make informed decisions and take appropriate actions based on the final rating.
+The final rating is the overall assessment rating that considers the scores and ratings from all assessments conducted for a third-party or engagement. It’s calculated by taking the weighted average of the questionnaires and document requests within each risk area. This calculation process ensures that all relevant metrics, categories, and weights are taken into account based on how you defined these parameters and configurations. The calculation process and the factors involved can help you make informed decisions and take appropriate actions based on the final rating.
 
 **Note:** For information on verifying risk ratings and scoring calculations, see [Verifying scoring calculations using the classic assessment engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-verif-q.md).
 
@@ -258,7 +258,3 @@ You can review scores and risk ratings in your questionnaires to help ensure the
 
 [Verifying scoring calculations using the classic assessment engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-verif-q.md)
 
-## Related
-
-- [[tprm-questions-create|Define a question]]
-- [[factors|factors]]

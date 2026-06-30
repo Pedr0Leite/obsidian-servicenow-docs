@@ -16,7 +16,7 @@ Create CoPQ \(Cost of Poor Quality\) expense line enables you to capture the act
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|product non-conformance]] submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
+Role required: Quality Issue Management Admin or product non-conformance submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
 
 ## Procedure
 
@@ -26,16 +26,10 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 3.  On the CoPQ Expense Line form, fill in the fields.
 
-    For a description of the field values, see [[mco-copq-expense-line-form|CoPQ expense line form]].
+    For a description of the field values, see [CoPQ expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line-form.md).
 
 4.  Select **Save**.
 
 
-**Parent Topic:**[[mco-correction-actions|Create a correction action]]
+**Parent Topic:**[Create a correction action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-correction-actions.md)
 
-## Related
-
-- [[mco-copq-expense-line-form|CoPQ expense line form]]
-- [[mco-correction-actions|Create a correction action]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Natural Language Understanding, Natural Language Understa
 
 # NLU Workbench properties
 
-Refer to these system properties for the [[nlu-landing|Natural Language Understanding]] \(NLU\) application.
+Refer to these system properties for the Natural Language Understanding \(NLU\) application.
 
 ## NLU Workbench properties and their usage
 
@@ -86,7 +86,7 @@ Keep the value under 1,000.
 
 </td></tr><tr><td>
 
-Enable [[prebuilt-vocabulary|pre-built vocabulary]] for software names**glide.mlpredictor.option.nlu.@LookupSources:software**
+Enable pre-built vocabulary for software names**glide.mlpredictor.option.nlu.@LookupSources:software**
 
 </td><td>
 
@@ -135,7 +135,7 @@ Recommended usage
 
 </th></tr></thead><tbody><tr><td>
 
-Maximum number of records for [[intent-discovery|Intent Discovery]] classification**sn\_nlu\_discovery.intent\_discovery\_max\_classification\_limit**
+Maximum number of records for Intent Discovery classification**sn\_nlu\_discovery.intent\_discovery\_max\_classification\_limit**
 
 </td><td>
 
@@ -175,7 +175,7 @@ Minimum number of records for NLU performance analysis**sn\_nlu\_workbench.glide
 
 </td><td>
 
-[[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
+NLU Workbench - Advanced Features
 
 </td><td>
 
@@ -328,9 +328,3 @@ False
 </td></tr></tbody>
 </table>To get more feedback data from Virtual Agent \(VA\) chat logs, refer to the **Procuring additional VA feedback data on demand** section in the [Expert Feedback Loop documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-expert-feedback-loop.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[prebuilt-vocabulary|Pre-built vocabulary]]
-- [[intent-discovery|Intent Discovery]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]

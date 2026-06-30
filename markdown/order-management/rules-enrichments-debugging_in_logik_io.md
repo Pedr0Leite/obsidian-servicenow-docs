@@ -12,9 +12,9 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 # Debugging in CPQ
 
-How to use the debugger to perfect your [[scripts|scripts]] before deployment.
+How to use the debugger to perfect your scripts before deployment.
 
-When you need to fix a script in CPQ, the debugging tool in Advanced Functions and Enrichment Scripts can help. This guide shows you how to write debug JSONs to isolate and test your scripts before deployment. By following these best practices for debugging faulty scripts, you can help ensure your [[blueprints|blueprints]] run flawlessly.
+When you need to fix a script in CPQ, the debugging tool in Advanced Functions and Enrichment Scripts can help. This guide shows you how to write debug JSONs to isolate and test your scripts before deployment. By following these best practices for debugging faulty scripts, you can help ensure your blueprints run flawlessly.
 
 ## General guidelines for debugging
 
@@ -24,7 +24,7 @@ Comment out blocks of codes: When a script becomes long, it may be necessary to 
 
 Comment out debug JSON for future use: If you are continually updating a rule during implementation, itʼs a good idea to save your debugging JSON either at the top or bottom of the script inside a comment block. That way, when the script is saved, the JSON can also be saved for future reference.
 
-For more tips on these features, see [[rules-enrichments-comments-and-console_log|Using comments and the console to debug scripts]].
+For more tips on these features, see [Using comments and the console to debug scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rules-enrichments-comments-and-console_log.md).
 
 ## How to use the debugger
 
@@ -40,7 +40,7 @@ When in the script editor:
 
 -   Returned objects and console.log information appear in the Debugger Output panel \(d\).
 
-The CPQ debugger uses JSON format, which is written using attribute-value pairs. The attributes are the variable names of the [[fields|fields]] used in the rule, and the value is the fieldʼs data in its object format.
+The CPQ debugger uses JSON format, which is written using attribute-value pairs. The attributes are the variable names of the fields used in the rule, and the value is the fieldʼs data in its object format.
 
 **Note:** As long as a field is referenced in the rule or enrichment, it must have a corresponding attribute in the JSON, or the script cannot be run in the debugger.
 
@@ -90,7 +90,7 @@ The structure of the JSON you use depends on the object type of each field, as w
     }
     ```
 
--   [[product_picker_overview|Product pickers]] are unique to reference in a rule or enrichment, since they have their own type of simple [[rules_101|rules]], bulk actions. They can be referenced only by their picklist option, treating them as a single-select or multi-select field. Or, the debugger can reference a product picker subfield or aggregate using the key `pkr`.
+-   Product pickers are unique to reference in a rule or enrichment, since they have their own type of simple rules, bulk actions. They can be referenced only by their picklist option, treating them as a single-select or multi-select field. Or, the debugger can reference a product picker subfield or aggregate using the key `pkr`.
 
     ```
     {
@@ -121,7 +121,7 @@ The structure of the JSON you use depends on the object type of each field, as w
     let x = pkr.productPickerName.subFieldName
     ```
 
--   [[cpq-sets|Sets]] cannot be referenced by advanced functions, but the fields contained in them can. Due to the nature of the set field, a setʼs rows can be determined and referenced only in the On Configure/Reconfigure enrichment. However, you can test for when a field such as optionValue is in a rule.
+-   Sets cannot be referenced by advanced functions, but the fields contained in them can. Due to the nature of the set field, a setʼs rows can be determined and referenced only in the On Configure/Reconfigure enrichment. However, you can test for when a field such as optionValue is in a rule.
 
     ```
     {
@@ -137,7 +137,7 @@ The structure of the JSON you use depends on the object type of each field, as w
     }
     ```
 
-    To learn more about defaulting a setʼs fields, see [[enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values|Scripting: How to populate set values]].
+    To learn more about defaulting a setʼs fields, see [Scripting: How to populate set values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values.md).
 
 
 ## Context-specific JSON formatting
@@ -174,7 +174,7 @@ On configuration and reconfiguration, inputs are entered in JSON format, using t
 }
 ```
 
-For more information about how to use the **userEdited** property, see [[enrichments_on_configurer_and_reconfigure_behavior|Scripting: Checking for first and subsequent configurations]]
+For more information about how to use the **userEdited** property, see [Scripting: Checking for first and subsequent configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments_on_configurer_and_reconfigure_behavior.md)
 
 ## Context-specific JSON formatting: product pickers
 
@@ -365,14 +365,3 @@ In other cases, similar rules may be acting on the same field. In this situation
 
 If neither method is successful, open a case with our support team by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
-## Related
-
-- [[rules-enrichments-comments-and-console_log|Using comments and the console to debug scripts]]
-- [[enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values|enrichments on configure reconfigure scripts how to populate set values]]
-- [[enrichments_on_configurer_and_reconfigure_behavior|enrichments_on_configurer_and_reconfigure_behavior]]
-- [[scripts|Scripts]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[product_picker_overview|Product pickers]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]

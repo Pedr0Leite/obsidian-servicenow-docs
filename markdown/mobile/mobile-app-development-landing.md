@@ -16,7 +16,7 @@ Use these low-code tools to build your mobile apps.
 
 ## Get started
 
-Select a tile to learn about the main mobile app building tool, [[mab-concept|Mobile App Builder]], and [[mobile-card-builder|Mobile Card Builder]], a visual tool you can use to edit templates and cards used in your mobile apps.
+Select a tile to learn about the main mobile app building tool, Mobile App Builder, and Mobile Card Builder, a visual tool you can use to edit templates and cards used in your mobile apps.
 
 <table id="table_k2x_wd5_g1c" class="nav-card"><tbody><tr><td>
 
@@ -44,8 +44,3 @@ Select a tile to learn about the main mobile app building tool, [[mab-concept|Mo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]

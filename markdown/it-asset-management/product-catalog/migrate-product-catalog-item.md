@@ -15,7 +15,7 @@ breadcrumb: [Product catalog items, Product Catalog, IT Asset Management]
 
 # Import a Product Catalog item
 
-Import a hardware and software [[c_ProductCatalog|product catalog]] item from one ServiceNow instance to another ServiceNow instance to include it in the product catalog.
+Import a hardware and software product catalog item from one ServiceNow instance to another ServiceNow instance to include it in the product catalog.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-To import hardware or software [[c_ManagingProductCatalogItems|product catalog items]] from one ServiceNow instance to another, use the product model and update sets XML file exported from the source ServiceNow instance.
+To import hardware or software product catalog items from one ServiceNow instance to another, use the product model and update sets XML file exported from the source ServiceNow instance.
 
 **Note:** Product model records aren’t included in update sets. When you import an update set into the target instance, only the catalog item records are transferred. To avoid validation errors, first import the product model records, and then import the catalog item’s update set into the target ServiceNow instance.
 
@@ -45,7 +45,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product [[c_Models|Models]]** &gt; **Hardware Models**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**.
 2.  Select the required hardware model name link.
 3.  On the hardware model form, select the \[Omitted image "additional-actions.png"\] Alt text: Additional actions Additional actions icon and then select **Export XML \(This record\)**.
 4.  Save the exported hardware model XML file on your local system.
@@ -57,7 +57,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **[[c_CreatingSoftwareModels|Software Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Software Models**.
 2.  Select the required software model name link.
 3.  On the software model form, select the \[Omitted image "additional-actions.png"\] Alt text: Additional actions Additional actions icon and then select **Export XML \(This record\)**.
 4.  Save the exported software model XML file on your local system.
@@ -145,9 +145,3 @@ Navigate to the Hardware Models or Software Models page in the target ServiceNow
 
 [Deactivate a product catalog item]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]

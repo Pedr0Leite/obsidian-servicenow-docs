@@ -14,7 +14,7 @@ breadcrumb: [DEX Content Playbook reference, Reference, Digital End-User Experie
 
 # DEX check definitions for macOS
 
-Check definitions for macOS are predetermined sets of rules and criteria that assess the performance, security, and conformance of macOS [[dex-workspace-devices-tab|devices]]. These checks can cover various aspects such as CPU usage, memory usage, battery details, and firewall status.
+Check definitions for macOS are predetermined sets of rules and criteria that assess the performance, security, and conformance of macOS devices. These checks can cover various aspects such as CPU usage, memory usage, battery details, and firewall status.
 
 **Note:** You can configure the check definitions and associated retrievable data. Some of the listed check definitions might retrieve data that contains or is considered personal information.
 
@@ -523,7 +523,7 @@ Retrieves the system’s compliance details. This includes the list of all confi
 -   This check definition provides the following details:
     -   **Condition for app to be said as compliant**: Every process mentioned in primary process should be running.
     -   **Condition for metric value to be said as compliant**: Value should be matching with the configured expected value.
--   The score is then calculated using this formula: Score = \( Complaint Application + Compliant metric value\) / \(Total [[dex-workspace-application-tab|Applications]] and metric value - Failed Ones\) \*100
+-   The score is then calculated using this formula: Score = \( Complaint Application + Compliant metric value\) / \(Total Applications and metric value - Failed Ones\) \*100
 
 </td></tr><tr><td>
 
@@ -807,7 +807,7 @@ Purging Recycle Bin will clear all the files in the recycle bin.
 
 </td></tr><tr><td>
 
-os.mac.action-reset-google-chrome-[[settings-mobile|settings]]
+os.mac.action-reset-google-chrome-settings
 
 </td><td>
 
@@ -846,8 +846,3 @@ Elevates temporary admin access to users for a period of time to perform specifi
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

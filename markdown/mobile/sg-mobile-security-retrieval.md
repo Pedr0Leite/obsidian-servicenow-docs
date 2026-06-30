@@ -31,8 +31,5 @@ When a user requests to download documents from the app, the following steps occ
 2.  The instance receives the request and checks if the Token is valid.
 3.  If valid, the document becomes available to view or take further actions on the device.
 
-**Parent Topic:**[[sg-security-mobile-data-flow|Mobile data flow for ServiceNow mobile apps]]
+**Parent Topic:**[Mobile data flow for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-security-mobile-data-flow.md)
 
-## Related
-
-- [[sg-security-mobile-data-flow|Mobile data flow for ServiceNow mobile apps]]

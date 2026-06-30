@@ -22,7 +22,7 @@ Role required: safe\_scrum\_user or safe\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**.
 
 2.  From the list at the top-left corner, select the level as **Team**.
 
@@ -45,6 +45,3 @@ Role required: safe\_scrum\_user or safe\_admin
 
 **Parent Topic:**[SAFe Board — Team level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/team-level-tabs.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

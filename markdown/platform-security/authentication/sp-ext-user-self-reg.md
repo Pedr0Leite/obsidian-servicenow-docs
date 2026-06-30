@@ -14,7 +14,7 @@ breadcrumb: [Self-register to ServiceNow instance, Authentication, Access Manage
 
 # Enable external user self-registration for Service Portal
 
-Enable external [[users|users]] to register to a ServiceNow app through Service Portal.
+Enable external users to register to a ServiceNow app through Service Portal.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Open a portal record.
 
-3.  On the form, fill in the **External user registration [[sc-configuration|configuration]]** field.
+3.  On the form, fill in the **External user registration configuration** field.
 
     Select a user registration configuration.
 
@@ -37,7 +37,3 @@ Role required: admin
 
 The login widget includes a link to the registration form that you previously configured.
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

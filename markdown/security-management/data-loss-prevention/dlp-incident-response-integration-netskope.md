@@ -42,11 +42,11 @@ This integration includes the following key features:
 -   **[Getting started with Netskope DLP integration for Data Loss Prevention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/getting-started-netskope-dlp-integration.md)**  
 Review the following information before you start setting up your Netskope DLP integration for Data Loss Prevention.
 -   **[Install and configure the Netskope DLP integration for Data Loss Prevention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/install-configure-netskope-dlp-integration.md)**  
-[[configure-cortex-xsiam-siem|Install and configure]] the Netskope DLP integration from   ServiceNow Store   ServiceNow AI Platform instance. You can start investigating DLP incidents using the  Netskope DLP incident data.
+Install and configure the Netskope DLP integration from   ServiceNow Store   ServiceNow AI Platform instance. You can start investigating DLP incidents using the  Netskope DLP incident data.
 -   **[Create a Profile for Netskope DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-netskope-dlp-integration.md)**  
-[[ms-defender-profile|Create an incident profile]] in your ServiceNow AI Platform instance.
+Create an incident profile in your ServiceNow AI Platform instance.
 -   **[Mapping DLP incident status with Netskope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/map-incident-status.md)**  
-The incident status [[mapping-logrhythm|mapping]] section enables the users to provide the mappings between the DLP Incident status in ServiceNow and Netskope Object status.
+The incident status mapping section enables the users to provide the mappings between the DLP Incident status in ServiceNow and Netskope Object status.
 -   **[Configure Netskope DLP integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/configure-netskope-dlp-integration-settings.md)**  
 Modify the  Netskope DLP  integration default system properties.
 -   **[Download evidence files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/download-files-netskope.md)**  
@@ -73,8 +73,3 @@ Domain separation enables you to separate data, processes, and administrative ta
 
 [Data Loss Prevention Incident Response with Microsoft]()
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[ms-defender-profile|Create an incident profile]]
-- [[mapping-logrhythm|Mapping]]

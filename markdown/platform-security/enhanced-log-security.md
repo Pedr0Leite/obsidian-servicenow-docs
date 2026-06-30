@@ -12,7 +12,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 # Enhanced logging security
 
-Explore the **Attribution** field in the node log lines to identify the script or component that generated the log message. Transaction start lines include the new field to identify the type of [[c_requestAPI|request]] made.
+Explore the **Attribution** field in the node log lines to identify the script or component that generated the log message. Transaction start lines include the new field to identify the type of request made.
 
 Achieve the following using the new enhancements:
 
@@ -33,7 +33,7 @@ The following is the list of transaction types:
 -   XMLHttp
 -   Report
 -   SOAP
--   [[export|Export]]
+-   Export
 -   Scheduler
 -   TextSearch
 -   Other
@@ -46,13 +46,8 @@ The following is the list of transaction types:
 
 ## System properties
 
-The following are the [[ca-system-properties|system properties]] required for the feature:
+The following are the system properties required for the feature:
 
 -   Glide.log.append.attribution: This property is enabled by default. It turns on/off the attribution information of each node line
 -   Glide.db.log.append.classname.attribution: This property is enabled by default. It turns on/off logging java class name attribution
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[export|Export]]
-- [[ca-system-properties|System properties]]

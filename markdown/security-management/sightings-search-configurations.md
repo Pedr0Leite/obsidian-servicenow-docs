@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration- Sightings Search capability, Integ
 
 # Create sightings search configuration records
 
-Create multiple [[indicator-sightings|sightings]] search configuration records and use them while querying multiple log stores or varying the search parameters.
+Create multiple sightings search configuration records and use them while querying multiple log stores or varying the search parameters.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ In your Splunk instance, define the saved search with the same name, Default Sav
 
 ## Procedure
 
-1.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Sightings Search Configuration** and create a new record \(see table for field descriptions\).
+1.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Sightings Search Configuration** and create a new record \(see table for field descriptions\).
 
     |Field|Description|
     |-----|-----------|
@@ -65,7 +65,7 @@ In your Splunk instance, define the saved search with the same name, Default Sav
     |Sightings search source|The source for the sightings search. Select the Splunk log store as the source.|
     |Active|Option for the saved search status. Only active search configurations can be used to perform a sightings search.|
     |Observable type|Observable type can be any observable type such as IP, hash value, URL, domain name, and so on.|
-    |Maximum [[c_Observables|observables]] per search|Maximum number of observables to be returned from the search.|
+    |Maximum observables per search|Maximum number of observables to be returned from the search.|
     |Search|The default search string is`$(observable)`, but you can define your own search query by specifying parameters that are supported by the Splunk log store.|
 
 2.  Select **Submit**.
@@ -79,28 +79,16 @@ You have created a sightings search configuration record.
 
 After defining the search query, select **Generate Sightings Search Test Query**, and specify a list of observable values to generate a test query based on this saved search configuration.
 
--   **[[run-sightings-search|Run a Sightings Search]]**  
+-   **[Run a Sightings Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/run-sightings-search.md)**  
 Determine the prevalence of a threat over time or test remediation or eradication efforts. You can select individual or multiple observables and the date range for your search from a security incident. Results are included in the **Security Incident Observables** related list.
--   **[[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]**  
+-   **[Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md)**  
 **Security Operations Integration - Sightings Search** flow is a high-level flow independent of integrations. It uses the configured queries to search for a set of observables based on the configured integrations which support the capability. Use it to fulfill an integration such as Splunk or Elasticsearch.
--   **[[view-sightings-search-results|View Sightings Search Results]]**  
-You can review Sightings Search Results for internal and external malicious [[indicator|indicators]].
--   **[[view-sightings-search-details|View Sightings Search Details]]**  
+-   **[View Sightings Search Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-results.md)**  
+You can review Sightings Search Results for internal and external malicious indicators.
+-   **[View Sightings Search Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-details.md)**  
 Review the aggregate details of all sighting searches.
--   **[[view-sightings-search-data|View Sightings Search Data]]**  
+-   **[View Sightings Search Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-sightings-search-data.md)**  
 Review the aggregate data of all sighting searches.
 
-**Parent Topic:**[[sightings-search-capability|Security Operations Integration- Sightings Search capability]]
+**Parent Topic:**[Security Operations Integration- Sightings Search capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-capability.md)
 
-## Related
-
-- [[run-sightings-search|Run a Sightings Search]]
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[view-sightings-search-results|View Sightings Search Results]]
-- [[view-sightings-search-details|View Sightings Search Details]]
-- [[view-sightings-search-data|View Sightings Search Data]]
-- [[sightings-search-capability|Security Operations Integration- Sightings Search capability]]
-- [[indicator-sightings|Sightings]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

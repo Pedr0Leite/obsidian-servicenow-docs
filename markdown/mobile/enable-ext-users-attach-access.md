@@ -25,14 +25,14 @@ When you assign the snc\_external role to users who are external to your organiz
 You can use the mobile property **allow\_snc\_external\_attachment\_access** to remove restrictions on attachments for users assigned the snc\_external role. When the **allow\_snc\_external\_attachment\_access** mobile property is set `true`, external users can use the mobile offline mode and access attachments from the following components and locations:
 
 -   [Activity streams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_activity-streams.md)
--   [[parameter-input-screen|Legacy parameter screen \(UI parameters\), Quebec and earlier]]
+-   [Legacy parameter screen \(UI parameters\), Quebec and earlier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-input-screen.md)
 -   [Input form screen \(sys\_sg\_parameter\_screen table\), Rome and later](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-input-screen.md)
--   [[sg-mobile-attachments|Details screen using the Attachment list]]
--   [[mobile-offline-mode|Offline mode]]
+-   [Details screen using the Attachment list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-attachments.md)
+-   [Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md)
 
 The **allow\_snc\_external\_attachment\_access** mobile property is turned off by default and external users can't access attachments.
 
-Mobile properties are configured as records in the sys\_sg\_properties table on the ServiceNow [[mobile-config-navigation|Mobile Platform]] server. The ServiceNow instance sends the mobile property to mobile apps after authentication. Then the property turns on or turns off a feature on the mobile app.
+Mobile properties are configured as records in the sys\_sg\_properties table on the ServiceNow Mobile Platform server. The ServiceNow instance sends the mobile property to mobile apps after authentication. Then the property turns on or turns off a feature on the mobile app.
 
 ## Procedure
 
@@ -66,7 +66,7 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe UI icon.\) on the instance banner. Then select **Application scope: _application\_scope_**. For information about how mobile properties are affected by application scope, see [[mobile-properties|Mobile properties]].
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe UI icon.\) on the instance banner. Then select **Application scope: _application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -144,10 +144,3 @@ After updating this property, the end user must pull to refresh on the launcher 
 
 **Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[parameter-input-screen|Input form screen]]
-- [[sg-mobile-attachments|Manage attachments on details screens]]
-- [[mobile-offline-mode|Offline mode]]
-- [[mobile-properties|Mobile properties]]
-- [[mobile-config-navigation|Mobile Platform]]

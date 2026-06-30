@@ -32,7 +32,7 @@ Removing the dependency also deletes the dependency record in the Planned Task R
 
 <table id="choicetable_pjv_3lx_ft"><tbody><tr><td id="d104911e71">
 
-**On the [[c_GanttChart|Gantt chart]]**
+**On the Gantt chart**
 
 </td><td>
 
@@ -61,6 +61,3 @@ Removing the dependency also deletes the dependency record in the Planned Task R
 
 [Create a dependency from the planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateADependency.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]

@@ -21,7 +21,7 @@ To use tokenized data with a Third-Party System, update the endpoint URL for the
 
 Set up your Third-Party System connections in our tokenizer service. For more information, see [Initial setup for Vault schema, Connections and Service Account for Card data security \(KB2830577\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2830577).
 
-Install and set up integrations to the Third-Party Systems \(such as Visa Spoke or Mastercard Spoke\). [[card-data-security|Card Data Security]] requires these integrations to function correctly. For more information, see [[spokes|Integrating with spokes]].
+Install and set up integrations to the Third-Party Systems \(such as Visa Spoke or Mastercard Spoke\). Card Data Security requires these integrations to function correctly. For more information, see [Integrating with spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/spokes.md).
 
 Role required: admin
 
@@ -46,7 +46,3 @@ Role required: admin
 
 Repeat these steps for each REST message entry you need to set up.
 
-## Related
-
-- [[spokes|Integrating with spokes]]
-- [[card-data-security|Card Data Security]]

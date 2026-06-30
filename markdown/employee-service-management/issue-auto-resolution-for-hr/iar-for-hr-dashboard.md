@@ -22,7 +22,7 @@ The dashboard shows you a near real-time window into the application's case reso
 
 The following example shows the viewing perspective of the dashboard.
 
-\[Omitted image "iar-hr-dashboard.png"\] Alt text: [[issue-auto-resolution-hr|Issue Auto Resolution for HR]] application's dashboard view.
+\[Omitted image "iar-hr-dashboard.png"\] Alt text: Issue Auto Resolution for HR application's dashboard view.
 
 ## Reports and indicators
 
@@ -50,7 +50,7 @@ Donut
 
 </td><td>
 
-Total number of general inquiries that the employees raised.**Note:** The data points for this report are predicted by the underlying Machine [[exploring-learning-exp|Learning]] \(ML\) solution and differ from the Non critical cases report.
+Total number of general inquiries that the employees raised.**Note:** The data points for this report are predicted by the underlying Machine Learning \(ML\) solution and differ from the Non critical cases report.
 
 </td></tr><tr><td>
 
@@ -201,7 +201,3 @@ The following example shows what the date filter option looks like in the dashbo
 
 \[Omitted image "iar-hr-dashboard-filter.png"\] Alt text: Issue Auto Resolution for HR dashboard date filter.
 
-## Related
-
-- [[issue-auto-resolution-hr|Issue Auto Resolution for HR]]
-- [[exploring-learning-exp|Learning]]

@@ -12,27 +12,18 @@ breadcrumb: [Data Management, Tables and data, Configure core features, Administ
 
 # Data Management reference
 
-[[reference-email-admin|Reference]] topics provide information about system properties and data limits.
+Reference topics provide information about system properties and data limits.
 
--   **[[r_SetArchiveRuleProcessingBehavior|System properties]]**  
+-   **[System properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SetArchiveRuleProcessingBehavior.md)**  
 These system properties control the behavior of the Data Management capabilities.
--   **[[data-archive-table-limits|Archive table size limits]]**  
+-   **[Archive table size limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-archive-table-limits.md)**  
 There are constraints to the size of the table you use to archive your instance data.
--   **[[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]**  
+-   **[Unique record identifier \(sys\_id\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UniqueRecordIdentifier.md)**  
 A unique 32-character GUID \(Globally Unique ID\), called a Sys ID \(sys\_id\) identifies each record in an instance.
--   **[[domain-separation-data-management|Domain separation and Data Management]]**  
+-   **[Domain separation and Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/domain-separation-data-management.md)**  
 Domain separation is supported in Data Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[[data-management-roles|Data Management roles]]**  
+-   **[Data Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-roles.md)**  
 Data Management includes the following roles.
 
-**Parent Topic:**[[c_DataManagement|Data Management]]
+**Parent Topic:**[Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataManagement.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[data-archive-table-limits|Archive table size limits]]
-- [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]
-- [[domain-separation-data-management|Domain separation and Data Management]]
-- [[data-management-roles|Data Management roles]]
-- [[c_DataManagement|Data Management]]
-- [[reference-email-admin|Reference]]

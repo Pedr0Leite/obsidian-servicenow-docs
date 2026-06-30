@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 # Platform Analytics overview
 
-Provides a role-specific, quick direct view of the Dashboards, Data Visualizations, Indicators, Filters, and Scheduled exports from the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Also provides a direct link to the [[user-exp-analytics-landing|Usage Insights]] page for the Platform Analytics library.
+Provides a role-specific, quick direct view of the Dashboards, Data Visualizations, Indicators, Filters, and Scheduled exports from the Platform Analytics library. Also provides a direct link to the Usage Insights page for the Platform Analytics library.
 
 To find Platform Analytics Overview, navigate to **All** &gt; **Platform Analytics** &gt; **Analytics Overview**.
 
@@ -36,7 +36,7 @@ Library pages like this one include a navigation pane that provides access to th
 
 \[Omitted image "overview-left-nav-admin.png"\] Alt text: Left navigation pane in PA library for analytics admin users
 
-**Note:** Users with non-admin roles \(roles other than analytics admin category\) can only access Dashboards, Data Visualizations, and Indicators in the left navigation pane. For more information on role-based access and enabled actions, see [[platform-analytics-roles|Platform Analytics roles]].
+**Note:** Users with non-admin roles \(roles other than analytics admin category\) can only access Dashboards, Data Visualizations, and Indicators in the left navigation pane. For more information on role-based access and enabled actions, see [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 \[Omitted image "overview-left-nav-non-admin.png"\] Alt text: Left navigation pane in PA library for users with non-admin roles
 
@@ -180,9 +180,3 @@ List
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]

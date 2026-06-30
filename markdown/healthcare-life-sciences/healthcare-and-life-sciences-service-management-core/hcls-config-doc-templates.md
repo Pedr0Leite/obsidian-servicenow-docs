@@ -18,13 +18,9 @@ Improve the patient experience by automatically identifying and assigning releva
 
 As a user with the sn\_hcls.admin role, you can digitize the generation of healthcare documents and forms by using in-built digital document templates. Healthcare documents can be used to collect information and get consent and signature from a patient, a practitioner, or both.
 
-To create pre-filled and reusable healthcare documents, you map fields and variables from the tables to a document template. Document templates are created within the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application. You can also decide who are the participants associated with the fields in the document by mapping appropriate user roles with participants.
+To create pre-filled and reusable healthcare documents, you map fields and variables from the tables to a document template. Document templates are created within the Healthcare and Life Sciences Service Management Core application. You can also decide who are the participants associated with the fields in the document by mapping appropriate user roles with participants.
 
 You configure document templates in the Healthcare and Life Sciences Service Management Core application by navigating to **All** &gt; **HCLS Service Management** &gt; **Administration** &gt; **Configure documents**. By default, you can create a document template of type HTML or PDF. For more information, see [Document Templates of type HTML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/document-templates-flow.md.md) and [Document Templates of type PDF \(Advanced forms\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/document-templates-PDF-flow.md).
 
-After configuring a document template for a [[hcls-case-table|healthcare case table]], you can configure decisions as to when initiate the document fulfillment process in a workflow. For more information, see [Configure the auto-generation of documents for healthcare cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-config-decision-tables.md).
+After configuring a document template for a healthcare case table, you can configure decisions as to when initiate the document fulfillment process in a workflow. For more information, see [Configure the auto-generation of documents for healthcare cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-config-decision-tables.md).
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-case-table|Healthcare case table]]

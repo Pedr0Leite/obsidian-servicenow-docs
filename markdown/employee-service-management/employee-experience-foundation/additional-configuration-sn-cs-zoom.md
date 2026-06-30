@@ -18,10 +18,10 @@ Configure chat-specific options for Collaboration services for Zoom.
 
 ServiceNow Collaboration services for Zoom enables agents to customize the following aspects of Zoom chats:
 
--   [[oncall-users-start-zoom-chat|Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat]]
+-   Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat
 -   Configure chat form for different record types
 -   Create chat configuration to auto-import chats
--   [[create-requester-mapping-zoom|Create requester mapping]]
+-   Create requester mapping
 -   Configure chat close condition
 
 If you have the ServiceNow Collaboration services for Zoom in your environment, the customized chat-specific additional configuration is applicable by default for the following tables:
@@ -40,7 +40,7 @@ All the chat messages from Zoom Team Chat will be auto imported to the ServiceNo
 
 To prevent polling from running indefinitely on inactive conversations, if there are no new messages, the polling interval gradually extends until the polling stops.
 
-The system verifies the record for new messages for every 30 minutes. If there are no new messages, the system checks for the new messages for an interval of 1 hour, 2 hours, 4 hours, and 8 hours. If there are no new messages in an interval of eight hours for seven days, the Auto Import polling [[activity-lxp|activity]] is disabled.
+The system verifies the record for new messages for every 30 minutes. If there are no new messages, the system checks for the new messages for an interval of 1 hour, 2 hours, 4 hours, and 8 hours. If there are no new messages in an interval of eight hours for seven days, the Auto Import polling activity is disabled.
 
 If there is any message during any of the intervals, the auto import timer looks for new messages in the next interval and imports the messages. The timer is then reset to 30-minutes interval.
 
@@ -67,8 +67,3 @@ Define the way a Zoom chat is closed.
 
 **Parent Topic:**[Enhance employee experience by integrating ServiceNow with Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enhance-emp-exp-integrating-sn-zoom.md)
 
-## Related
-
-- [[oncall-users-start-zoom-chat|Configure Chat group to include On-call Scheduling users for Start Zoom Team Chat]]
-- [[create-requester-mapping-zoom|Create requester mapping]]
-- [[activity-lxp|Activity]]

@@ -32,7 +32,7 @@ You can monitor the progress of an individual product release, or you can track 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -96,15 +96,11 @@ You can work on the following sections for the selected product's release:-   **
 -   **Configuration items**: View and [manage configuration items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-config-items.md) related to the release.
 -   **Change requests**: View and [manage change requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-change-request.md) related to the release.
 -   **Release notes**: Create, publish, and share release notes for the release. You can add release notes manually or generate using AI. For more information, see [Generate AI-powered release notes for a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-generate-release-notes.md).
-On the [[create-release-form|Release form]] header, select the number under the **Artifacts** label to manage artifacts in the product's release. The **Artifacts** label is available only in the **Overview**, **Release scope**, **Configuration items**, and **Change requests** section. For more information, see [Manage artifacts in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-artifact.md).
+On the Release form header, select the number under the **Artifacts** label to manage artifacts in the product's release. The **Artifacts** label is available only in the **Overview**, **Release scope**, **Configuration items**, and **Change requests** section. For more information, see [Manage artifacts in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-artifact.md).
 
 </td></tr></tbody>
-</table>8.  [[dpr-complete-release|Close a release]] after verifying its completeness.
+</table>8.  Close a release after verifying its completeness.
 
     For more information, see [Close a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-complete-release.md).
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[create-release-form|Release form]]
-- [[dpr-complete-release|Close a release]]

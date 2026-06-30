@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Lens structure form
 
-Learn about the fields of the [[lens-structure-form-portfolio-planning|Lens structure form]]. Use this form to define a structure for your lens in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Learn about the fields of the Lens structure form. Use this form to define a structure for your lens in Strategic Planning.
 
 <table id="table_hvj_25t_fvb"><thead><tr><th>
 
@@ -81,7 +81,3 @@ Then the field of the Strategic Program \[sn\_align\_core\_program\] table that 
 
 [Add or modify lens structure in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/define-lens-structure-in-alignment-planner-workspace.md)
 
-## Related
-
-- [[lens-structure-form-portfolio-planning|Lens structure form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

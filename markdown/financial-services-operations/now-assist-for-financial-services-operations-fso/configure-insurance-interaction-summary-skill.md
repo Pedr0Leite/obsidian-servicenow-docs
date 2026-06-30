@@ -14,11 +14,11 @@ breadcrumb: [Configure AI skills, Configure, Now Assist for FSO, Financial Servi
 
 # Configure insurance customer interaction context summary skill in Now Assist for FSO
 
-Configure the Insurance interaction context summary skill in Now Assist for FSO to enable AI-powered real-time summaries of insurance customer interactions in the Interaction page of [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]].
+Configure the Insurance interaction context summary skill in Now Assist for FSO to enable AI-powered real-time summaries of insurance customer interactions in the Interaction page of Agentic Contact Center for Insurance.
 
 ## Before you begin
 
-Verify the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] plugin \(`sn_fso_now_assist`\) and the Agentic Contact Center for Insurance plugin \(`com.sn_ins_csr`\) are installed.
+Verify the Now Assist for Financial Services Operations \(FSO\) plugin \(`sn_fso_now_assist`\) and the Agentic Contact Center for Insurance plugin \(`com.sn_ins_csr`\) are installed.
 
 -   For information about the plugin dependencies and plugin activation order, see [Application information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/supporting-information-for-now-assist-for-financial-services-operations-fso.md).
 -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
@@ -70,7 +70,3 @@ You can choose which service provider to use for this skill [in the Now Assist A
 
 **Parent Topic:**[Configure Financial Services Operations Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-fso-now-assist-skills.md)
 
-## Related
-
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]

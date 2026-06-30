@@ -22,9 +22,9 @@ Role required: sn\_hr\_le.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**, and open a record.
 
-2.  Click the **[[activity-lxp|Activity]] Sets** tab to access the lifecycle event builder.
+2.  Click the **Activity Sets** tab to access the lifecycle event builder.
 
 3.  Click the Test icon to open the **Test** side panel.
 
@@ -53,7 +53,3 @@ Role required: sn\_hr\_le.admin
 
 **Parent Topic:**[Using the Test Activity Sets tool for a lifecycle event activity set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/hr-lifecycle-event-test-tool.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

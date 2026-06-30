@@ -14,7 +14,7 @@ breadcrumb: [Manage a Universal Request from the Health and Safety Workspace, Un
 
 # Assign a Health and Safety case linked to a Universal Request
 
-Assign the [[health-safety-overview|Health and Safety]] case that is associated with the [[ur-landing-limitedaccess|Universal Request]] to an agent. If the assignment group is selected then an agent in that group can be selected.
+Assign the Health and Safety case that is associated with the Universal Request to an agent. If the assignment group is selected then an agent in that group can be selected.
 
 ## Before you begin
 
@@ -43,10 +43,5 @@ The case gets assigned to the new agent and the options to **Close case**, **Tra
 
 ## What to do next
 
-The agent can either resolve or close the primary case or transfer it to another department or agent from the [[health-safety-core-workspace|Health and Safety Workspace]].
+The agent can either resolve or close the primary case or transfer it to another department or agent from the Health and Safety Workspace.
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

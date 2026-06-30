@@ -16,12 +16,12 @@ Deliver a pre-integrated chat conversation experience with the Conversational In
 
 As an administrator, if you have configured the Conversational Integration with Apple Messages for Business application, then your customer contacts and consumers can initiate a Apple Messages for Business chat conversation with a virtual agent or live agent. An agent can accept a conversation initiated from a Apple Messages for Business chat conversation. For more information, see [Conversational Integration with Apple Messages for Business](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/integration-apple-mssg.md). Refer to the Apple [documentation](https://register.apple.com/resources/messages/messaging-documentation/) for more details about Apple Messages for Business.
 
-**Note:** As an administrator, you can also use any predefined Customer Service Virtual Agent conversations to capture information from customer contacts or consumers. For more information, see [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]].
+**Note:** As an administrator, you can also use any predefined Customer Service Virtual Agent conversations to capture information from customer contacts or consumers. For more information, see [Customer Service Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-virtual-agent-chatbot.md).
 
 Key features of the integration include the following:
 
 -   Customers can initiate Apple Messages for Business chat conversations with a virtual agent or live agent.
--   Use the chat to search for articles in community posts and knowledge articles, access service catalogs, or [[t_CreateACaseFromCustServApp|create a customer service case]].
+-   Use the chat to search for articles in community posts and knowledge articles, access service catalogs, or create a customer service case.
 -   View the Apple Messages for Business chat conversation details from which a work item was initiated in Agent Workspace.
 -   Indicate your presence in the Agent Workspace Inbox with the Apple Messages for Business service channel.
 
@@ -30,7 +30,7 @@ Key features of the integration include the following:
 In this example workflow, the Conversational Integration with Apple Messages for Business application is used to resolve a consumer issue:
 
 1.  A customer wants to get a replacement credit card, and initiates a Apple Messages for Business chat conversation on iMessage using the Virtual Agent bot.
-2.  The [[c_CustomerServiceManagement|Customer Service Management]] application identifies the customer and starts an interaction of type **Messaging**.
+2.  The Customer Service Management application identifies the customer and starts an interaction of type **Messaging**.
 3.  The customer is presented with a list of credit card options that they own and picks that card that they want to replace.
 4.  A form opens and asks about the reason for replacement, date lost, address, and phone number. The customer submits the form.
 5.  The customer selects the iMessage app to schedule the delivery.
@@ -48,11 +48,5 @@ Users with the roles listed in the following table can use the Conversational In
 |-----|-----|
 |agent\_workspace\_user|Accept an ongoing Apple Messages for Business chat conversation with a customer through the Apple Messages for Business service channel in Advanced Work Assignment.|
 |sn\_customerservice\_manager|View details of a Apple Messages for Business chat conversation by using interaction records of type **Messaging** and subtype Apple.|
-|sn\_customerservice.consumer, sn\_customerservice.customer|Initiate Apple Messages for Business chat conversations with a virtual agent or live agent so that you can search for articles in [[servicenow-communities|Communities]] and Knowledge Management, access service catalogs, and create a customer service case.|
+|sn\_customerservice.consumer, sn\_customerservice.customer|Initiate Apple Messages for Business chat conversations with a virtual agent or live agent so that you can search for articles in Communities and Knowledge Management, access service catalogs, and create a customer service case.|
 
-## Related
-
-- [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[servicenow-communities|Communities]]

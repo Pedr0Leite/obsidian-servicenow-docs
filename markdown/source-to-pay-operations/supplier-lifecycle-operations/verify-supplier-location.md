@@ -14,7 +14,7 @@ breadcrumb: [Review supplier information using Relish, Manage supplier cases, Us
 
 # Verify supplier location change request
 
-When a location change request is assigned to a [[supplier|supplier]] manager and they start working on it, they can verify the new location using Relish.
+When a location change request is assigned to a supplier manager and they start working on it, they can verify the new location using Relish.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Navigate to **Lists** &gt; **All work** &gt; **Cases**.
 
@@ -61,8 +61,3 @@ Request and response parameters for location change requests sent to and receive
 
 [Playbook for updating the supplier primary data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/primary-playbook-cases.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

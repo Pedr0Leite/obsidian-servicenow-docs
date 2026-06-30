@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-If records are older than 90 days, by default they are purged. If records are retained for a longer period, larger volumes of data are stored, and performance may be impacted. The data cleanup is done by two jobs: [[c_EM|Event Management]] - Clean Alert History Table and Event Management - Clean Impact Status Table.
+If records are older than 90 days, by default they are purged. If records are retained for a longer period, larger volumes of data are stored, and performance may be impacted. The data cleanup is done by two jobs: Event Management - Clean Alert History Table and Event Management - Clean Impact Status Table.
 
 ## Procedure
 
@@ -49,6 +49,3 @@ Schedule jobs to mark and remove old alert records in the Alert History \[em\_al
 
 [Alert table clean up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/auto-close-alerts.md)
 
-## Related
-
-- [[c_EM|Event Management]]

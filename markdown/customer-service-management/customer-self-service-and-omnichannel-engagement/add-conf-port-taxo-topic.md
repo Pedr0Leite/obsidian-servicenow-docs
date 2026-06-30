@@ -14,7 +14,7 @@ breadcrumb: [Portal Taxonomy Topic widget, Configurable Portal widgets, Set up s
 
 # Add and configure the Portal Taxonomy Topic widget
 
-Add a [[portal-taxo-topic-widget|Portal Taxonomy Topic widget]] to your portal to display topics that your users can get more information about and modify its presentation and behavior. Once a topic card is selected, users are redirected to relevant knowledge articles and catalog items configured through the [[browse-taxo-widget|Portal Browse Taxonomy widget]].
+Add a Portal Taxonomy Topic widget to your portal to display topics that your users can get more information about and modify its presentation and behavior. Once a topic card is selected, users are redirected to relevant knowledge articles and catalog items configured through the Portal Browse Taxonomy widget.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[port-taxo-topic-inst-optns|Portal Taxonomy Topic widget instance options form]].
+    For a description of the field values, see [Portal Taxonomy Topic widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/port-taxo-topic-inst-optns.md).
 
 12. Select **Save**.
 
@@ -57,8 +57,3 @@ Role required: sp\_admin
 
 [Configure a Portal Browse Taxonomy widget to work with the Portal Taxonomy Topic widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/map-browse-taxo-with-taxo-topic.md)
 
-## Related
-
-- [[port-taxo-topic-inst-optns|Portal Taxonomy Topic widget instance options form]]
-- [[portal-taxo-topic-widget|Portal Taxonomy Topic widget]]
-- [[browse-taxo-widget|Portal Browse Taxonomy widget]]

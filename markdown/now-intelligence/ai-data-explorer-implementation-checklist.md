@@ -21,7 +21,7 @@ Use this checklist to verify that AI Data Explorer is properly configured and re
 
 -   Verify that required AI skills are activated.
 -   Enable Record Level Analysis in the Analytics Exploration skill to get better insights.
--   Check the base health of [[query-generation|Query Generation]] using the [[querygen-health-page|Query Generation Health page]].
+-   Check the base health of Query Generation using the [Query Generation Health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-health-page.md).
 -   Confirm that AI Search is active.
 -   Verify that the Semantic Layer is built. Entities and dimensions should not be 0.
 
@@ -41,28 +41,19 @@ Grant users who need access to AI Data Explorer the **now-assist-explorer-user**
 
 -   Use short, simple questions for best results.
 -   Only simple analytical questions are supported. Questions should be answerable with a single chart or single data source.
--   AI Data Explorer cannot answer general definition questions or questions requiring comparison across [[multiple-data-sources|multiple data sources]]. Break down complex analysis into multiple questions.
+-   AI Data Explorer cannot answer general definition questions or questions requiring comparison across multiple data sources. Break down complex analysis into multiple questions.
 -   When asking follow-up questions, use words like "these" to ensure that filters are not dropped. For example, "Of these incidents, how many are critical?"
 
-**Parent Topic:**[[configure-now-ass-explorer|Configure AI Data Explorer]]
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-now-ass-explorer.md)
 
 **Related topics**  
 
 
-[[add-table-semantic-layer|Add a table to the semantic data layer]]
+[Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md)
 
-[[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
+[Enabling access to protected scope applications for AI Data Explorer and Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-aide-secure-scope-apps.md)
 
 [Query Generation Health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-health-page.md)
 
-[[tables-sched-jobs-query-gen|Roles, tables, and scheduled jobs included with Query Generation]]
+[Roles, tables, and scheduled jobs included with Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/tables-sched-jobs-query-gen.md)
 
-## Related
-
-- [[querygen-health-page|Query Generation Health page]]
-- [[configure-now-ass-explorer|Configure AI Data Explorer]]
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[enable-aide-secure-scope-apps|Enabling access to protected scope applications for AI Data Explorer and Query Generation]]
-- [[tables-sched-jobs-query-gen|Roles, tables, and scheduled jobs included with Query Generation]]
-- [[query-generation|Query Generation]]
-- [[multiple-data-sources|multiple data sources]]

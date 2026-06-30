@@ -14,12 +14,12 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Create and manage plan configurations in Journey designer
 
-Create and manage plan configurations that are based on a plan type. Plan configurations are customized for specific employee [[ecpro-audience|audiences]].
+Create and manage plan configurations that are based on a plan type. Plan configurations are customized for specific employee audiences.
 
 ## Before you begin
 
 -   A plan type must exist: [Create and manage plan types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-create-manage-plans.md)
--   [[jny-dsgnr-landing-page-1|Journey designer]] v1
+-   Journey designer v1
 -   Role required: admin \[sn\_jny.admin\]
 
 ## Procedure
@@ -54,8 +54,8 @@ Audience
 
 A group of users. Select an audience so that you can control which specific groups of users can access the plans.**Note:** The plan configuration preview feature depends on whether the plan configuration owner has access to the selected **Audience type**. These **Audience types** are accessible to all plan configuration owners.
 
--   [[c_HRProfileRecords|HR Profile]]
--   [[hr-criteria|HR Criteria]]
+-   HR Profile
+-   HR Criteria
 -   Users
 -   Users Criteria
 -   Upload file
@@ -71,7 +71,7 @@ Option that you can select to make the configuration available for use. **Note:*
 
 </td></tr><tr><td>
 
-[[journey-accelerator-1|Journey Accelerator]] plan type
+Journey Accelerator plan type
 
 </td><td>
 
@@ -114,10 +114,3 @@ Detailed description of the plan.
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[ecpro-audience|Audiences]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-criteria|HR criteria]]
-- [[journey-accelerator-1|Journey Accelerator]]

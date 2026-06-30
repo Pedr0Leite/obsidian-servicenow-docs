@@ -16,7 +16,7 @@ Integrate a third-party phone system with your ServiceNow® Voice instance to dr
 
 ## ServiceNow Voice in action
 
-Here's an overview on how ServiceNow Voice is integrated with Amazon [[c_Connect|Connect]].
+Here's an overview on how ServiceNow Voice is integrated with Amazon Connect.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -36,7 +36,7 @@ Here's an overview on how ServiceNow Voice is integrated with Amazon [[c_Connect
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, contact flows, and operation handlers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-[[reference|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, contact flows, and operation handlers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 
 </td><td>
 
@@ -47,7 +47,3 @@ Here's an overview on how ServiceNow Voice is integrated with Amazon [[c_Connect
 
 [Voice API on the ServiceNow® Developer Site](https://developer.servicenow.com/dev.do#!/reference/api/sandiego/rest/cti-api)
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

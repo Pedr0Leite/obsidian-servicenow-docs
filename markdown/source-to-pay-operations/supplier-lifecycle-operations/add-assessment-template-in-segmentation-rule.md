@@ -14,7 +14,7 @@ breadcrumb: [Configure smart assessments, Configure, Supplier Lifecycle Operatio
 
 # Map assessment template with segmentation rule
 
-You can map assessment templates with segmentation rules in the [[purch-order-mgmt-ws|Source-to-Pay workspace]]. A rule defines which suppliers receive assessments based on the configured criteria.
+You can map assessment templates with segmentation rules in the Source-to-Pay workspace. A rule defines which suppliers receive assessments based on the configured criteria.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Create a segmentation rule.
 
@@ -50,7 +50,3 @@ Trigger assessments from the segmentation rule assessment mapping templates.
 
 **Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

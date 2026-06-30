@@ -14,7 +14,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 # Install DevOps Config
 
-Install the [[devops-config-landing-page|DevOps Config]] application from ServiceNow Store [[dex-workspace-application-tab|applications]]. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the DevOps Config application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -38,15 +38,9 @@ Role required: admin
 
 
 -   **[Install DevOps Config Policy content pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-install-policy-pack.md)**  
-[[devops-config-install-policy-pack|Install DevOps Config Policy content pack]] for a default set of DevOps Config policies that you can use as-is, or customize for your needs.
+Install DevOps Config Policy content pack for a default set of DevOps Config policies that you can use as-is, or customize for your needs.
 -   **[Install DevOps Config Exporter content pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-install-launch-pack.md)**  
-[[devops-config-install-launch-pack|Install DevOps Config Exporter content pack]] for a default set of DevOps Config exporters that you can use as-is, or customize for your needs.
+Install DevOps Config Exporter content pack for a default set of DevOps Config exporters that you can use as-is, or customize for your needs.
 
 **Parent Topic:**[Configuring DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/setting-up-devops-config-validation.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-install-policy-pack|Install DevOps Config Policy content pack]]
-- [[devops-config-install-launch-pack|Install DevOps Config Exporter content pack]]

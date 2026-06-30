@@ -14,7 +14,7 @@ breadcrumb: [Using Evaluate access, Using Access Analyzer, Access Analyzer, Acce
 
 # View permissions for a group
 
-Use [[access-analyzer|Access Analyzer]] to view permissions for a selected group.
+Use Access Analyzer to view permissions for a selected group.
 
 ## Before you begin
 
@@ -89,12 +89,8 @@ Specify the UI page. For example, **incident.do**.
 
     \[Omitted image "permissions-for-a-group.png"\] Alt text: Permission results
 
-    The results can be read by referring to the Legends, [[sc-access-control|access control]] list \(ACL\), IAccesshandler, and Data filters.
+    The results can be read by referring to the Legends, access control list \(ACL\), IAccesshandler, and Data filters.
 
-    The overall access for the group is `passed`, which means that the [[users|users]] within the group \(**Incident Management**\) are able to access the Incident record.
+    The overall access for the group is `passed`, which means that the users within the group \(**Incident Management**\) are able to access the Incident record.
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[sc-access-control|Access control]]
-- [[users|Users]]

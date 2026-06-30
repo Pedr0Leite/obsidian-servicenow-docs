@@ -80,7 +80,7 @@ Internal profile
 
 </td><td>
 
-The [[c_HRProfileRecords|HR profile]] of the user.
+The HR profile of the user.
 
 </td></tr><tr><td>
 
@@ -149,6 +149,4 @@ The user ID created after you fill in the fields and click **Generate Proposed U
 
     The Import Approved Staged to Alumni scheduled job runs.
 
-## Related
 
-- [[c_HRProfileRecords|HR Profile]]

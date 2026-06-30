@@ -36,13 +36,13 @@ You can also create your own list on the panel based and view the workplace case
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **[[case-management-workspace|Case Management]]** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
+2.  On the left pane, select the **Case Management** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
 
     The Case Management dashboard opens.
 
@@ -80,9 +80,3 @@ The custom list is added to the **My Lists** tab on the left panel. At any time,
 
 **Parent Topic:**[Manage workplace cases using Case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-cases-using-case-management.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[case-management-workspace|Case management]]

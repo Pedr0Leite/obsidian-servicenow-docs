@@ -14,17 +14,17 @@ breadcrumb: [Work with solution data in Digital Portfolio Management, Digital Po
 
 # List modules
 
-List modules in [[dpm-landing|Digital Portfolio Management]] \(DPM\) provide information that may or may not be in [[dpm-personal-portfolio|personal portfolios]] or [[dpm-enterprise-portfolios|enterprise portfolios]]. You don't have to own solutions to view or create list modules.
+List modules in Digital Portfolio Management \(DPM\) provide information that may or may not be in personal portfolios or enterprise portfolios. You don't have to own solutions to view or create list modules.
 
 The list module in the DPM Workspace includes two tabs - **Lists** and **My Lists**. The following categories are in the **Lists** tab, each with the options of **Owned by me** and **All**.
 
 -   Services
 -   Offerings
--   Business [[dex-workspace-application-tab|applications]]
+-   Business applications
 -   Service instances
 -   Demands
 -   Projects
--   [[c_Contracts|Contracts]]
+-   Contracts
 
 When you select **All** for a given category, you see all the records for that category, even if you don't own them. Like any list of records, you can sort, filter, and change the columns in view. You can also add them to your own personal list, called **My Lists**.
 
@@ -37,10 +37,3 @@ Create a personal list by adding any records that interest you, like service off
 
 [Work with lists in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-list-modules.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_Contracts|Contracts]]

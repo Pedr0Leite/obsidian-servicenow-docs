@@ -12,7 +12,7 @@ breadcrumb: [AI Search for product catalog, Configuring product offerings and ca
 
 # Run scheduled job to publish stop words dictionary, search profiles, and index tables
 
-After upgrading to the Australia release and the [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]] plugin has been installed, run a scheduled job that publishes the stop word dictionary, search profiles, and index tables for using AI Search in the product catalog.
+After upgrading to the Australia release and the Now Assist for Sales Force Automation \(SFA\) plugin has been installed, run a scheduled job that publishes the stop word dictionary, search profiles, and index tables for using AI Search in the product catalog.
 
 ## Before you begin
 
@@ -36,12 +36,7 @@ The stop words dictionary, search profiles, and index tables for running AI Sear
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]]

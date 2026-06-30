@@ -14,7 +14,7 @@ breadcrumb: [Gating approvals, Approval rules, Classic approvals, Exploring Serv
 
 # Set up a gating approval based on the item being ordered
 
-In addition to adding approvals via [[c_ApprovalRules|approval rules]], you can also add approvals based on what kind of item is being ordered.
+In addition to adding approvals via approval rules, you can also add approvals based on what kind of item is being ordered.
 
 **Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
@@ -36,6 +36,3 @@ Notes and limitations:
 
 **Parent Topic:**[Gating approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_GatingApprovals.md)
 
-## Related
-
-- [[c_ApprovalRules|Approval rules]]

@@ -12,11 +12,11 @@ breadcrumb: [Landing page and dashboard views, Operational Resilience, Governanc
 
 # Services overview tab
 
-The **Services overview** tab in the [[grc-opres-landing-page|Operational Resilience]] Workspace provides a comprehensive summary of active services, highlighting any red flags or urgent issues, status of resilience activities like assessments, [[scenario-analysis-ov|scenario analysis]], self-attestations. It also offers suggestions for mitigating top risks or vulnerabilities and strengthening top controls.
+The **Services overview** tab in the Operational Resilience Workspace provides a comprehensive summary of active services, highlighting any red flags or urgent issues, status of resilience activities like assessments, scenario analysis, self-attestations. It also offers suggestions for mitigating top risks or vulnerabilities and strengthening top controls.
 
 ## Services overview section on the landing page
 
-Existing customers typically use the [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]], while new customers use the [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]. Administrators can show the **Services overview** tab and hide the **Business services overview** tab from the Operational Resilience Workspace view based on your organizational needs.
+Existing customers typically use the Service \(CMDB\) Main node configuration, while new customers use the Opres with CSDM header Main node configuration. Administrators can show the **Services overview** tab and hide the **Business services overview** tab from the Operational Resilience Workspace view based on your organizational needs.
 
 \[Omitted image "s-ov-hp.png"\] Alt text: Services overview.
 
@@ -100,7 +100,7 @@ Source table for change requests: Change requests \[sn\_oper\_res\_change\_reque
 
 Source table for Operational vulnerabilities: Operational vulnerabilities \[sn\_oper\_res\_vulnerability\_profile\]
 
-Source table for [[crisis-management-uib|Crisis events]]: Crisis events \[sn\_oper\_res\_bcm\_plan\]
+Source table for Crisis events: Crisis events \[sn\_oper\_res\_bcm\_plan\]
 
 Source table for vulnerabilities: Vulnerabilities \[sn\_oper\_res\_vul\_profile\]
 
@@ -190,7 +190,7 @@ The Services report on the **Services overview** tab provides a quick summary wi
 
 ## Report on the red flags
 
-The Red flags report on the **Services overview** tab shows the total number of red flags that require immediate attention for the associated assets, controls, issues, and risks related to the selected service. It breaks down details of the red flags based on the integrations with the Operational Resilience application. For example, if you have installed the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, services data for the failed controls is pulled from that application and displayed in this report.
+The Red flags report on the **Services overview** tab shows the total number of red flags that require immediate attention for the associated assets, controls, issues, and risks related to the selected service. It breaks down details of the red flags based on the integrations with the Operational Resilience application. For example, if you have installed the Policy and Compliance Management application, services data for the failed controls is pulled from that application and displayed in this report.
 
 A sample Red flags report for the services is shown in the example.
 
@@ -224,7 +224,7 @@ The Activities report on the **Services overview** tab displays tasks and status
 
 ## Suggestions for mitigating the issues
 
-The Suggestions report on the **Services overview** tab offers recommendations and workarounds to mitigate issues and risks for various [[opres-ws-homepage-overview|resilience metrics]] for the services.
+The Suggestions report on the **Services overview** tab offers recommendations and workarounds to mitigate issues and risks for various resilience metrics for the services.
 
 \[Omitted image "s-suggestions.png"\] Alt text: Suggestions.
 
@@ -234,12 +234,3 @@ Depending on the applications integrated with Operational Resilience, suggestion
 -   Top risks to be mitigated
 -   Top vulnerabilities to be fixed
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]
-- [[crisis-management-uib|Crisis events]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[opres-ws-homepage-overview|Resilience metrics]]

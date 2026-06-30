@@ -15,25 +15,18 @@ Industrial Connected Workforce \(ICW\) helps you run manufacturing operations an
 
 The Industrial Connected Workforce \(ICW\) is a set of applications that helps you run your industry operations and digitize the factory floor and its procedures.
 
-It can be accessed either from the workspace or on mobile. All authoring tasks are performed in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+It can be accessed either from the workspace or on mobile. All authoring tasks are performed in the Digital Factory Workspace.
 
 Dynamic filtering of tasks by location, functional location, equipment, and shift is supported.
 
--   **[[industrial-connected-workforce-core-landing-page|Industrial Connected Workforce Core]]**  
+-   **[Industrial Connected Workforce Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-core-landing-page.md)**  
 Industrial Connected Workforce \(ICW\) Core helps industrial organizations structure and manage shop floor operations efficiently. It establishes essential frameworks, such as organizational hierarchy, equipment models, shift patterns, and task flows, which enables reliable execution of industrial work.
 -   **[Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-digital-factory-workspace-landing-page.md)**  
 Digital Factory Workspace helps standardize processes and improve efficiency on the factory shop floor by bringing tasks, equipment details, and standards together in one place. It provides structured layouts and a Standards hub to support consistent task execution and better operational performance.
 -   **[Industrial Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-knowledge-management/icw-knowledge-management-landing-page.md)**  
-[[icw-knowledge-management-landing-page|Industrial Knowledge Management]] for Industrial Connected Workforce \(ICW\) enables you to organize and manage your knowledge resources in a single place.
+Industrial Knowledge Management for Industrial Connected Workforce \(ICW\) enables you to organize and manage your knowledge resources in a single place.
 -   **[Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/icw-mobile-exp-landing-page.md)**  
-Use [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] to streamline your factory shop floor processes.
--   **[[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]**  
+Use Industrial Connected Workforce Mobile Experience to streamline your factory shop floor processes.
+-   **[AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/ai-enhanced-ra-icw-landing.md)**  
 The AI Enhanced recommended actions for Industrial Connected Workforce \(ICW\) feature accesses external sources related to a deviation, and contextualizes how the document is relevant to the deviation.
 
-## Related
-
-- [[industrial-connected-workforce-core-landing-page|Industrial Connected Workforce Core]]
-- [[ai-enhanced-ra-icw-landing|AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[icw-knowledge-management-landing-page|Industrial Knowledge Management]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

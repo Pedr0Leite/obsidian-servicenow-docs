@@ -22,7 +22,7 @@ The Now Mobile app provides different services for tasks and requests.
 
 To view all the assets that are assigned to you, navigate to **My Items** &gt; **My Assets** &gt; **Hardware**. The tab shows the assets that have the State field set to In transit or In use, Sub-state set to Reserved, and the Reserved to field set to your name. You can create an incident for an asset that is in use.
 
-When you are away from your office, you can remotely [[t_ReceiveAnAsset|receive an asset]] that is in transit. Scan the QR code for the asset tag so that you can automatically notify the IT department that you have received the asset.
+When you are away from your office, you can remotely receive an asset that is in transit. Scan the QR code for the asset tag so that you can automatically notify the IT department that you have received the asset.
 
 **Parent Topic:**[Mobile app for Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/mobile-my-asset.md)
 
@@ -31,6 +31,3 @@ When you are away from your office, you can remotely [[t_ReceiveAnAsset|receive 
 
 [ServiceNow Agent app]()
 
-## Related
-
-- [[t_ReceiveAnAsset|Receive an asset]]

@@ -14,7 +14,7 @@ breadcrumb: [Using, Conversational Integration with WhatsApp \(WhatsApp Cloud AP
 
 # Create a provider notification
 
-Execute the following steps to [[create-provider-notification|create a provider notification]] for [[virtual-agent-landing-page|Virtual Agent]] and Workspace providers.
+Execute the following steps to create a provider notification for Virtual Agent and Workspace providers.
 
 ## Before you begin
 
@@ -205,7 +205,3 @@ Option to select when the recipients are from more than 2 tables. These are dyna
 
 [Create default content in a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-default-content.md)
 
-## Related
-
-- [[create-provider-notification|Create a provider notification]]
-- [[virtual-agent-landing-page|Virtual Agent]]

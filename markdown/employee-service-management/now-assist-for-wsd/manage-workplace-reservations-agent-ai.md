@@ -22,7 +22,7 @@ A change event request is submitted for updating an existing reservation by a wo
 
 The team of AI agents autonomously perform the following:
 
--   Retrieve the change event request workplace case details when it assigned to a Workplace [[event-planner|Event planner]].
+-   Retrieve the change event request workplace case details when it assigned to a Workplace Event planner.
 -   Analyze the reservation retrieved from the previous step. If the old location is available while updating a reservation's date, time, and duration, AI agents update the reservation. If the old location is not available for reservation, AI agents move the reservation to a new location while updating the reservation date, time, and duration.
 -   Send notification to Workplace Event planners using the Now Assist panel conversational interface.
 
@@ -30,7 +30,7 @@ The team of AI agents autonomously perform the following:
 
     For more information, see [Review notifications in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/agentic-workflow-notifications-nowassist.md).
 
--   Update the change event request case work notes with all the actions taken. Workplace Event planners can review the [[activity-lxp|activity]] log to see the actions taken by AI agents to update a planned reservation event.
+-   Update the change event request case work notes with all the actions taken. Workplace Event planners can review the activity log to see the actions taken by AI agents to update a planned reservation event.
 
     For more information, see [View change event reservation case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-case-change-event-reservation.md).
 
@@ -161,7 +161,3 @@ Select this option to receive and review notifications by AI agents in the Now A
 
 [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
 
-## Related
-
-- [[event-planner|Event Planner]]
-- [[activity-lxp|Activity]]

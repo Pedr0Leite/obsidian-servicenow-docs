@@ -22,7 +22,7 @@ A condition consists of three parts:
 -   Operator: a choice list based on the field type. For example, in the Incident \[incident\] table, the greater than operator does not apply to the **Active** field but it does apply to the **Priority** field.
 -   Value: a text entry field or a choice list, depending on field type. For example, in the Incident \[incident\] table, the **Active** field offers a choice list with the values **true**, **false**, and **empty**, while the **Short Description** field offers a text entry field.
 
-The conditions display [[lists-configurable-workspace|lists]] in [[c_UI16|Core UI]] as a breadcrumb, summarizing what you have selected.
+The conditions display lists in Core UI as a breadcrumb, summarizing what you have selected.
 
 \[Omitted image "condition-builder-breadcrumb.png"\] Alt text: Condition builder breadcrumb list in Core UI.
 
@@ -41,34 +41,23 @@ You can add a dependent condition by clicking **AND** or **OR** next to the cond
 
 For an example of a scripted filter see the KB article [Creating dynamic JavaScript filters in reports](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0746219).
 
--   **[[t_FilteringOnEmptyFields|Filtering on empty fields]]**  
+-   **[Filtering on empty fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_FilteringOnEmptyFields.md)**  
 Most filter operations do not return empty fields in their result set. You can create a filter that displays records with an empty field value in addition to records that match the initial filter conditions.
--   **[[c_ValuesForDateTimeFields|Values for date/time fields]]**  
+-   **[Values for date/time fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ValuesForDateTimeFields.md)**  
 When you filter on fields of type date/time, such as the **Created** field on any task record, several time-related options are available, such as **Today**, **This week**, **Last 3 months**, and so on.
--   **[[r_ComparingFieldValues|Comparing field values]]**  
+-   **[Comparing field values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_ComparingFieldValues.md)**  
 Field comparison allows users to evaluate equality between fields on the same table or on related tables by using operators in the condition builder.
 
-**Parent Topic:**[[create-cond-state-using-cond-build|Create a condition statement using the condition builder]]
+**Parent Topic:**[Create a condition statement using the condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-cond-state-using-cond-build.md)
 
 **Related topics**  
 
 
 [Operators available for filters and queries]()
 
-[[c_UsingORConditions|OR conditions]]
+[OR conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingORConditions.md)
 
-[[c_Filters|Filters]]
+[Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)
 
-[[c_DotWalking|Dot-walking to data in related tables]]
+[Dot-walking to data in related tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md)
 
-## Related
-
-- [[t_FilteringOnEmptyFields|Filtering on empty fields]]
-- [[c_ValuesForDateTimeFields|Values for date/time fields]]
-- [[r_ComparingFieldValues|Comparing field values]]
-- [[create-cond-state-using-cond-build|Create a condition statement using the condition builder]]
-- [[c_UsingORConditions|c_UsingORConditions]]
-- [[c_Filters|Filters]]
-- [[c_DotWalking|Dot-walking to data in related tables]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16|Core UI]]

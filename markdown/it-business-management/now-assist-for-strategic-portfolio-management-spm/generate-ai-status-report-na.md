@@ -37,7 +37,7 @@ After submission, the same information appears in the report view, including rat
 
 ## Procedure
 
-1.  Open a project from the home page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the home page of Project Workspace.
 
     For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -78,6 +78,3 @@ An AI-assisted status report is generated with predicted health values, an execu
 
 **Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

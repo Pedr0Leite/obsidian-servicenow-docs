@@ -14,7 +14,7 @@ breadcrumb: [Cost Management, Strategic Portfolio Management]
 
 # Task and labor rate cards
 
-In [[r_CostManagement|Cost Management]], task rate cards and labor rate cards capture operating costs by generating expense lines representing the cost of performing a task
+In Cost Management, task rate cards and labor rate cards capture operating costs by generating expense lines representing the cost of performing a task
 
 -   Task rate cards are templates used to define the type of task and the method of calculating the associated costs.
 -   Labor rate cards are templates used to define worker's labor rates when calculating task cost based on time worked.
@@ -24,11 +24,7 @@ The labor rate card associates a rate code with a labor rate.
 -   **[Manage a task rate card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/t_ManageATaskRateCard.md)**  
 Task rate cards are rate cards associated with records in a task table.
 -   **[Process task rate cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_ProcessTaskRateCards.md)**  
-The business rule [[r_ProcessTaskRateCards|Process Task Rate Cards]] runs when tasks close and checks to see if any task rate cards apply. If they do, an expense line is created according to the rate card.
+The business rule Process Task Rate Cards runs when tasks close and checks to see if any task rate cards apply. If they do, an expense line is created according to the rate card.
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]
-- [[r_ProcessTaskRateCards|Process task rate cards]]

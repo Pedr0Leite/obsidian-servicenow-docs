@@ -14,11 +14,11 @@ breadcrumb: [Configuring Localization Workspace, Localization Workspace, Transla
 
 # Install Localization Workspace
 
-You can install the [[localization-workspace|Localization Workspace]] application \(sn\_lw\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed. Demo data isn't available.
+You can install the Localization Workspace application \(sn\_lw\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed. Demo data isn't available.
 
 ## Before you begin
 
--   Ensure that the application and all of its associated [[servicenow-store|ServiceNow Store]] applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Localization Workspace](https://store.servicenow.com/sn_appstore_store.do#!/store/application/03226056b7125210a5e5911cde11a950) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 -   Localization Workspace requires a Pro or Pro+ subscription.
 
@@ -30,7 +30,7 @@ The following items are installed with Localization Workspace:
 
 -   Plugins
 -   Roles
--   [[c_ScheduledJobs|Scheduled jobs]]
+-   Scheduled jobs
 -   Tables
 
 For more information, see [Components installed with Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-components-installed-with.md).
@@ -47,26 +47,18 @@ For more information, see [Components installed with Localization Workspace](htt
 
 3.  Select a version from the list and select **Install**.
 
-    In the Review [[installation-details|Installation Details]] dialog box, any dependencies installed with your application are listed.
+    In the Review Installation Details dialog box, any dependencies installed with your application are listed.
 
 4.  If you're prompted, follow the links to the ServiceNow Store to get any additional entitlements for dependencies.
 
 5.  Select **Install**.
 
-6.  For more information about investigating installed components, see [[find-components|Find components installed with an application]].
+6.  For more information about investigating installed components, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## What to do next
 
-Configure the dependencies including [[localization-framework-landing|Localization Framework]], then configure Localization Workspace. For more information see [Configuring Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/configuring-localization-workspace.md).
+Configure the dependencies including Localization Framework, then configure Localization Workspace. For more information see [Configuring Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/configuring-localization-workspace.md).
 
 **Parent Topic:**[Configuring Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/configuring-localization-workspace.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[localization-workspace|Localization Workspace]]
-- [[servicenow-store|ServiceNow Store]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[installation-details|Installation details]]
-- [[localization-framework-landing|Localization Framework]]

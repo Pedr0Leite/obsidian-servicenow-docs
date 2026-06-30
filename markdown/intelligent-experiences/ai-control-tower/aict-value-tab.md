@@ -16,9 +16,9 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 Use the Value dashboard page to gain insights into the value realized from multiple types of AI in your organization.
 
-The Value dashboard page contains visualizations that help you assess the value of your [[ai-assets|AI assets]]. Creator skills are included in the Value dashboard page. Value metrics for creator skills are aggregated across non-production and production instances.
+The Value dashboard page contains visualizations that help you assess the value of your AI assets. Creator skills are included in the Value dashboard page. Value metrics for creator skills are aggregated across non-production and production instances.
 
-**Note:** Depending on your license, you have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 \[Omitted image "value-tab-aict.png"\] Alt text: Value tab in AI Control Tower.
 
@@ -26,7 +26,7 @@ The Value dashboard page contains visualizations that help you assess the value 
 
 The indicators on the dashboard are based on the value templates associated with each AI asset. See [Using value templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/using-value-templates.md) for more information.
 
--   **Top 5 [[ai-system|AI systems]] by value**
+-   **Top 5 AI systems by value**
 
     This area of the dashboard shows the five AI systems that generated most value \(in hrs\).
 
@@ -81,8 +81,4 @@ The indicators on the dashboard are based on the value templates associated with
 
     \[Omitted image "aict-value-system-summary.png"\] Alt text: AI system summary.
 
-## Related
 
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]

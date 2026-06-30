@@ -36,13 +36,13 @@ Role required: sn\_telco\_adr\_mgmt\_manager
 
     1.  On the Capture initiator details form, fill in the fields.
 
-        You can submit the details of the initiator of the complaint in the Capture initiator details form. To learn more about field information, see [[capture-initiator-details-form|Capture initiator details form]].
+        You can submit the details of the initiator of the complaint in the Capture initiator details form. To learn more about field information, see [Capture initiator details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/capture-initiator-details-form.md).
 
     2.  Select **Continue**.
 
     3.  On the Capture ADR information form, fill in the fields.
 
-        You can submit the details of your complaint in the Capture ADR information form. To learn more about field information, see [[capture-adr-information-form|Capture ADR information form]].
+        You can submit the details of your complaint in the Capture ADR information form. To learn more about field information, see [Capture ADR information form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/capture-adr-information-form.md).
 
     4.  Select **Mark Complete**.
 
@@ -162,18 +162,12 @@ A deadlock letter is generated in PDF format and sent to the customer via an ema
 </table>8.  On the Closure stage, Select **Close complete**.
 
 
-**Parent Topic:**[[use-alternative-dispute-resolution-case|Using alternative dispute resolution case]]
+**Parent Topic:**[Using alternative dispute resolution case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/use-alternative-dispute-resolution-case.md)
 
 **Related topics**  
 
 
 [View an Alternative Dispute Resolution case record]()
 
-[[alternative-dispute-resolution|Alternative dispute resolution management]]
+[Alternative dispute resolution management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/alternative-dispute-resolution.md)
 
-## Related
-
-- [[capture-initiator-details-form|Capture initiator details form]]
-- [[capture-adr-information-form|Capture ADR information form]]
-- [[use-alternative-dispute-resolution-case|Using alternative dispute resolution case]]
-- [[alternative-dispute-resolution|Alternative dispute resolution management]]

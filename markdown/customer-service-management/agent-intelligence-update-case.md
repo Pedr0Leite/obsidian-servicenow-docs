@@ -12,7 +12,7 @@ breadcrumb: [Predictive Intelligence for case management, Machine learning solut
 
 # Update cases with missing field predictions
 
-View the list of open cases for which the prediction of category, priority, or assignment group was skipped by the Predictive [[intelligence-csm|Intelligence]] feature.
+View the list of open cases for which the prediction of category, priority, or assignment group was skipped by the Predictive Intelligence feature.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ In the event that Predictive Intelligence cannot predict one or more case attrib
 
 3.  Provide the missing information and click **Update**.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]

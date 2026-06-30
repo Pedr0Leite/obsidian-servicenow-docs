@@ -16,7 +16,7 @@ breadcrumb: [SaaS License Management, Software Asset Management, IT Asset Manage
 
 View a list of all subscriptions for your SaaS and Single Sign-On \(SSO\) applications.
 
-**Important:** You can view your SaaS and SSO subscriptions in both the [[c_SoftwareAssetMgmt|Software Asset Management]] Core UI and the [[sam-workspace|Software Asset Workspace]]. This topic provides details on viewing your subscriptions in the Software Asset Management Core UI application. For more information on viewing your subscriptions in the Software Asset Workspace, see [SaaS overview dashboard in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-dashboard-workspace.md).
+**Important:** You can view your SaaS and SSO subscriptions in both the Software Asset Management Core UI and the Software Asset Workspace. This topic provides details on viewing your subscriptions in the Software Asset Management Core UI application. For more information on viewing your subscriptions in the Software Asset Workspace, see [SaaS overview dashboard in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/saas-dashboard-workspace.md).
 
 To view subscriptions for all SaaS and SSO applications, navigate to **All** &gt; **SaaS License** &gt; **All User Subscriptions**.
 
@@ -76,7 +76,3 @@ Create a mapping for an SSO group with a software model to manage your licenses 
 
 [Subscription exclusions for SaaS and SSO applications]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

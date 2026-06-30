@@ -15,7 +15,7 @@ breadcrumb: [Set up HLA on your instance, Configuring, Health Log Analytics, ITO
 
 # Set up data inputs in Health Log Analytics manually
 
-Set up your [[hla-landing-page|Health Log Analytics]] data inputs for Health Log Analytics manually. Data input configuration is an essential step in setting up the Health Log Analytics application.
+Set up your Health Log Analytics data inputs for Health Log Analytics manually. Data input configuration is an essential step in setting up the Health Log Analytics application.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[acc-landing-page|Agent Client Collector]]
+Agent Client Collector
 
 </td><td>
 
@@ -240,7 +240,3 @@ You can stop using a data input for streaming log messages to your ServiceNow in
 
 [Supported data inputs for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-supported.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]

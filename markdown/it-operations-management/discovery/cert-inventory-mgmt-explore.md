@@ -14,11 +14,11 @@ breadcrumb: [Certificate Inventory and Management, ITOM Visibility, IT Operation
 
 # Exploring Certificate Inventory and Management
 
-[[cert-inventory-mgmt|Certificate Inventory and Management]] serves as a centralized and automated solution for handling the complexities of certificate management. It enhances security, ensures compliance, and provides a streamlined approach to managing the life-cycle of digital certificates within an organization.
+Certificate Inventory and Management serves as a centralized and automated solution for handling the complexities of certificate management. It enhances security, ensures compliance, and provides a streamlined approach to managing the life-cycle of digital certificates within an organization.
 
 ## Certificate Inventory and Management overview
 
-Certificate Inventory and Management is a centralized and automated solution designed to streamline the tracking and management of digital certificates in an IT infrastructure. By automating the [[r-discovery|discovery]], inventory, and monitoring processes, Certificate Inventory and Management enables organizations to maintain a comprehensive record of certificates, including essential details like expiration dates and issuers.
+Certificate Inventory and Management is a centralized and automated solution designed to streamline the tracking and management of digital certificates in an IT infrastructure. By automating the discovery, inventory, and monitoring processes, Certificate Inventory and Management enables organizations to maintain a comprehensive record of certificates, including essential details like expiration dates and issuers.
 
 The system facilitates real-time tracking, automates routine tasks such as renewals, and supports customization to align with specific organizational needs. With integration capabilities into existing CI-based Discovery schedules and support for IPv6, Certificate Inventory and Management offers flexibility and efficiency in managing the entire life-cycle of certificates. Role-based access control ensures secure and tailored usage, while alerts and notifications keep administrators informed about critical events, contributing to enhanced security, compliance, and operational efficiency in certificate management.
 
@@ -82,8 +82,3 @@ Certificate Approver \[pki\_approver\]
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[r-discovery|Discovery]]

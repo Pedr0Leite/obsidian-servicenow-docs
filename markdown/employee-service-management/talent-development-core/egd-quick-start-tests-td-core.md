@@ -14,7 +14,7 @@ breadcrumb: [Installing and configuring the Talent Development Core app, Talent 
 
 # Quick start tests for Talent Development Core
 
-Validate that these [[egd-landing-page|Talent Development Core]] features still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that these Talent Development Core features still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 **Danger**
 
@@ -57,6 +57,3 @@ Run quick start tests to verify the Talent Development Core app and features sti
 
 **Parent Topic:**[Installing and configuring the Talent Development Core app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-install-config.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]

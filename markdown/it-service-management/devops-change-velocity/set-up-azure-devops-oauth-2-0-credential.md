@@ -180,7 +180,7 @@ Role required: admin
 
 ### Procedure
 
-1.  In ServiceNow [[devops-landing-page-new|DevOps Change Velocity]], navigate to **All** &gt; **System OAuth** &gt; **Application Registry**.
+1.  In ServiceNow DevOps Change Velocity, navigate to **All** &gt; **System OAuth** &gt; **Application Registry**.
 
 2.  Select **New**.
 
@@ -266,7 +266,7 @@ Where, Directory \(tenant\) ID is the alphanumeric value found in the Overview s
 
 ## Configure organization and project level settings
 
-Configure organization and project level [[settings-mobile|settings]] for your app.
+Configure organization and project level settings for your app.
 
 ### Before you begin
 
@@ -337,7 +337,4 @@ For ADO OAuth 2.0, you must create separate credential records for build, releas
 
 7.  Repeat the procedure to create release and feeds credentials.
 
-## Related
 
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

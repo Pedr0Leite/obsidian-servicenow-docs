@@ -59,7 +59,7 @@ The benefits of knowledge articles include the following.
     |Short description|The title of the article. This title appears when browsing and searching knowledge, and at the top of the article.|
     |Text|Content for the article. Use the WYSIWYG HTML editor to create content. A preview of the content appears when browsing and searching knowledge.|
 
-    **Note:** If you're creating a [knowledge article to be associated with a playbook task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-the-playbook.md), set the **Knowledge base** field to **[[sir-landing-page|Security Incident Response]] Runbook**.
+    **Note:** If you're creating a [knowledge article to be associated with a playbook task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-the-playbook.md), set the **Knowledge base** field to **Security Incident Response Runbook**.
 
 4.  Select **Submit** to create the article.
 
@@ -73,6 +73,3 @@ Any additional steps required to publish the article, such as approvals, depend 
 
 [Create a Security Incident Response runbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/setup-assistant-reference.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

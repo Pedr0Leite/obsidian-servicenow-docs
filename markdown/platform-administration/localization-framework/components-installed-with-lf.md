@@ -14,7 +14,7 @@ breadcrumb: [Activating the Localization Framework, Configure the Localization F
 
 # Components installed with Localization Framework
 
-The [[localization-framework-landing|Localization Framework]] Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\) activates several related plugins that are not already active. With installation of the core plugins, optional plugins for the [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]] are available.
+The Localization Framework Installer plugin \(com.glide.localization\_framework.installer\) activates several related plugins that are not already active. With installation of the core plugins, optional plugins for the Localization Framework Hub and Spoke architecture are available.
 
 <table id="table_ul5_xyw_xjb"><thead><tr><th>
 
@@ -50,7 +50,7 @@ Enables translation of Virtual Agent topics using Localization Framework.
 
 </td></tr><tr><td>
 
-[[sdl-spoke|RWS Translation Management System Spoke]] for Localization Framework \[com.glide.localization\_framework.sdl\_spoke\]
+RWS Translation Management System Spoke for Localization Framework \[com.glide.localization\_framework.sdl\_spoke\]
 
 </td><td>
 
@@ -58,7 +58,7 @@ Integrates Localization Framework with the RWS Translation Management System.
 
 </td></tr><tr><td>
 
-[[xtm-spoke|XTM Translation Management System Spoke]] for Localization Framework \[com.glide.localization\_framework.xtm\_spoke\]
+XTM Translation Management System Spoke for Localization Framework \[com.glide.localization\_framework.xtm\_spoke\]
 
 </td><td>
 
@@ -114,7 +114,7 @@ sn\_lf\_setting
 
 </td></tr><tr><td>
 
-[[framework-configuration|Artifact Configurations]]\(Sn Lf Config\)
+Artifact Configurations\(Sn Lf Config\)
 
 </td><td>
 
@@ -211,14 +211,5 @@ sn\_lf\_hub\_translation\_request
 **Related topics**  
 
 
-[[find-components|Find components installed with an application]]
+[Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
 
-## Related
-
-- [[find-components|Find components installed with an application]]
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]]
-- [[sdl-spoke|RWS Translation Management System spoke]]
-- [[xtm-spoke|XTM Translation Management System spoke]]
-- [[framework-configuration|Artifact configurations]]

@@ -14,7 +14,7 @@ breadcrumb: [Retail]
 
 # Retail Task Management
 
-Use the ServiceNow® Retail Task Management application to optimize the planning, organizing, and assigning of tasks to staff in your [[rahi-retail-operations-overview|retail]] environment. The broader ServiceNow® platform offers many tools to streamline and optimize task management. The Retail Task Management application enables specific retail use cases with a case generator that can create cases for multiple retail locations at once.
+Use the ServiceNow® Retail Task Management application to optimize the planning, organizing, and assigning of tasks to staff in your retail environment. The broader ServiceNow® platform offers many tools to streamline and optimize task management. The Retail Task Management application enables specific retail use cases with a case generator that can create cases for multiple retail locations at once.
 
 ## Get started
 
@@ -49,6 +49,3 @@ Use the ServiceNow® Retail Task Management application to optimize the planning
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]

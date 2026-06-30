@@ -16,9 +16,9 @@ Create a Strategic Portfolio Management \(SPM\) or Collaborative Work Management
 
 ## Work items overview
 
-Work items enable the automatic conversion of [[impact-landing-page|impact]] entities into actionable items. Using work items eliminates manual coordination across systems, reduces fragmented workflows, avoids inefficiencies, presents delays in leveraging valuable insights, and duplicate efforts.
+Work items enable the automatic conversion of impact entities into actionable items. Using work items eliminates manual coordination across systems, reduces fragmented workflows, avoids inefficiencies, presents delays in leveraging valuable insights, and duplicate efforts.
 
-You can use the Impact Workspace to convert [[impact-squad|impact squad]] recommendations, free-form recommendations, or initiatives, and [[impact-par|product adoption roadmaps]] into SPM or CWM work items such as:
+You can use the Impact Workspace to convert impact squad recommendations, free-form recommendations, or initiatives, and product adoption roadmaps into SPM or CWM work items such as:
 
 -   Product Idea
 -   Demand
@@ -38,11 +38,5 @@ You can view the grouped view of various work items grouped under SPM Work Items
 
 You can search the work items on the **Work Items** page by using the search text box. You can also search for work items using filters like source, state, and status on the **Work Items** page.
 
-Select the Filter \[Omitted image "filter-icon.png"\] Alt text: filter icon icon to add a filter and choose from impact source, state, progress, or status. Then select the corresponding values. For example, to filter by **Source**, select **Source** from the filter options, and then choose one or more source types such as **Recommendation**, **Initiative**, or **[[product-adoption|Product Adoption]] Roadmap** from the displayed list.
+Select the Filter \[Omitted image "filter-icon.png"\] Alt text: filter icon icon to add a filter and choose from impact source, state, progress, or status. Then select the corresponding values. For example, to filter by **Source**, select **Source** from the filter options, and then choose one or more source types such as **Recommendation**, **Initiative**, or **Product Adoption Roadmap** from the displayed list.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[impact-par|Product Adoption Roadmaps]]
-- [[product-adoption|Product Adoption]]

@@ -28,7 +28,7 @@ See [Set up MID Servers to use PowerShell](https://raw.githubusercontent.com/Ser
 
 ## Application discovery
 
-The PowerShell remote execution framework has options for copying files to the remote target when executing a scan. Copying files to the target is important for probes like Windows — File [[r-discovery|discovery]] because its script invokes itself on the remote target to spawn off a new process. MID Servers using WMI to execute scripts remotely can experience an error with launchProcess if the script is too long. Copying the script to the remote target resolves this error. Copying a script to a remote target may result in anti-virus software on the target flagging the script. To avoid issues with anti-virus software, add the scripts to the permitted list in the anti-virus app.
+The PowerShell remote execution framework has options for copying files to the remote target when executing a scan. Copying files to the target is important for probes like Windows — File discovery because its script invokes itself on the remote target to spawn off a new process. MID Servers using WMI to execute scripts remotely can experience an error with launchProcess if the script is too long. Copying the script to the remote target resolves this error. Copying a script to a remote target may result in anti-virus software on the target flagging the script. To avoid issues with anti-virus software, add the scripts to the permitted list in the anti-virus app.
 
 ## Probe configuration
 
@@ -48,6 +48,3 @@ The framework handles remote execution whether the MID Server is configured to u
 
 **Parent Topic:**[PowerShell for Discovery and Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_PowerShellForDiscovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

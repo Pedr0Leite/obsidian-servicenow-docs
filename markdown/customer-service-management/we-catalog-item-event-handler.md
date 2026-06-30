@@ -30,10 +30,7 @@ A component triggers an event when a certain condition is met or on user interac
 
 [Embed the Catalog item component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-catalog-item-component-on-third-party-website.md)
 
-[[component-properties-for-catalog-item|Component properties for the Catalog item]]
+[Component properties for the Catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/component-properties-for-catalog-item.md)
 
 [Sample code for the Catalog item component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-catalog-item-sample-code.md)
 
-## Related
-
-- [[component-properties-for-catalog-item|Component properties for the Catalog item]]

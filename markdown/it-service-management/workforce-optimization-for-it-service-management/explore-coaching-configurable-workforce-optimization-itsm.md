@@ -20,11 +20,11 @@ Initiate a skill review process to have your teams assess their own skill set an
 
 ## Coaching overview
 
-The image shows a high-level workflow on how [[cf-coaching-landing|coaching]] admins set up Coaching, and how managers and agents use Coaching.
+The image shows a high-level workflow on how coaching admins set up Coaching, and how managers and agents use Coaching.
 
 \[Omitted image "coaching-wfo-itsm.svg"\] Alt text: The infographic shows a high-level workflow on how coaching admins set up Coaching and how coaches and trainees use it.
 
-Here's an example of how [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] uses Predictive Intelligence to recommend skills for agents:
+Here's an example of how Workforce Optimization for ITSM uses Predictive Intelligence to recommend skills for agents:
 
 <table id="table_dsl_tmr_cmb"><thead><tr><th>
 
@@ -219,7 +219,7 @@ You can create a manual assessment and complete the following tasks manually:-  
 -   Associate coaching surveys to the assessment
 
 </td></tr></tbody>
-</table>You can use Coaching for any task-based process for such as [[c_ITILChangeManagement|Change Management]], Customer Service Management or [[c_IncidentManagement|Incident Management]] to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md).
+</table>You can use Coaching for any task-based process for such as Change Management, Customer Service Management or Incident Management to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md).
 
 As a coach, you can:
 
@@ -249,9 +249,3 @@ Easily find the tasks that you must complete in the Coaching module.
 |Train your teams using Coaching with Learning.|[Coach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-coaching-reference.md)|[Train your teams using Coaching with Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/coaching-configurable-wfo-itsm.md)|
 |Manage skills for your teams from a central location|Skill admin|[Manage skills in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/skills-management-wfo-itsm.md)|
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_IncidentManagement|Incident Management]]

@@ -26,7 +26,7 @@ You can also add enhancement from an epic. For more information, see [Add a prod
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -107,6 +107,4 @@ Short description of the enhancement.
 
 12. Select the attachment icon \(\[Omitted image "dpr-icon-attachment.png"\] Alt text: Attachment icon.\) to open the **Attachments** pane to upload and attach a file related to the enhancement.
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]

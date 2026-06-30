@@ -12,18 +12,18 @@ breadcrumb: [Export dashboards and visualizations, Platform Analytics in the Now
 
 # Supported export output types
 
-The dashboard and visualization output skill supports the same outputs for the same data visualizations as [[c_performanceAnalyticsAndReporting|Platform Analytics]] generally.
+The dashboard and visualization output skill supports the same outputs for the same data visualizations as Platform Analytics generally.
 
-You can export dashboards as Microsoft PowerPoint or PDF files, but not all dashboard components support these formats. Unsupported components are not exported. The formats for [[export-data|exporting data]] visualizations directly also depend on the visualization type.
+You can export dashboards as Microsoft PowerPoint or PDF files, but not all dashboard components support these formats. Unsupported components are not exported. The formats for exporting data visualizations directly also depend on the visualization type.
 
 |Data visualization or dashboard element|Supported dashboard export formats|Supported data visualization export formats|
 |---------------------------------------|----------------------------------|-------------------------------------------|
-|Calendar reports, Indicator scorecards, [[c_PivotTables|Pivot tables]], Geomap|None|None|
+|Calendar reports, Indicator scorecards, Pivot tables, Geomap|None|None|
 |Lists|PDF|PDF, Microsoft Excel \(.xls or .xlsx\), Embedded LIST, CSV|
 |Other data visualizations|PowerPoint, PDF|PowerPoint, PDF, PNG, JPEG, Embedded PNG|
-|Non-data visualization [[dashboard-elements|dashboard elements]], like Headings|None|Not applicable|
+|Non-data visualization dashboard elements, like Headings|None|Not applicable|
 
-**Parent Topic:**[[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
@@ -34,10 +34,3 @@ You can export dashboards as Microsoft PowerPoint or PDF files, but not all dash
 
 [Export guidelines and examples]()
 
-## Related
-
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[export-data|Exporting data]]
-- [[c_PivotTables|Pivot tables]]
-- [[dashboard-elements|Dashboard elements]]

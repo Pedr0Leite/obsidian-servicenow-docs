@@ -20,7 +20,7 @@ Select the Lifecycle Event that you want to use with Now Mobile. When an onboard
 
 Role required: sn\_hr\_le.admin
 
-You must also make sure that the **Display [[activity-lxp|activity]] sets to subject person** option is selected, as well as the **Show case to subject person** option on the corresponding HR service.
+You must also make sure that the **Display activity sets to subject person** option is selected, as well as the **Show case to subject person** option on the corresponding HR service.
 
 A Lifecycle Event administrator must have set up the Lifecycle Event and the corresponding HR service you want to use with Now Mobile. See [Building a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/hr-lifecycle-event-configuration.md) for more information.
 
@@ -30,7 +30,7 @@ A Lifecycle Event administrator must have set up the Lifecycle Event and the cor
 
     Also make sure that the **Display activity sets to subject person** option is selected.
 
-    1.  Navigate to **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Administration** &gt; **Manage Lifecycle Events**.
+    1.  Navigate to **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**.
 
     2.  Open the Lifecycle Event record.
 
@@ -46,7 +46,7 @@ A Lifecycle Event administrator must have set up the Lifecycle Event and the cor
 
 2.  On the corresponding HR service form, make sure that the **Show case to subject person** option is selected.
 
-    1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+    1.  Navigate to **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
     2.  Open the corresponding HR service record.
 
@@ -63,10 +63,3 @@ A Lifecycle Event administrator must have set up the Lifecycle Event and the cor
 
 **Next topic:**[Lifecycle Events employee requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/employee-requests.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-service-configuration|HR service configuration]]

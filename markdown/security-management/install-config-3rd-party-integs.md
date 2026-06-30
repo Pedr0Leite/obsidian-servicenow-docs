@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integration Configuration**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Integration Configuration**.
 
     The available security integrations appear as a series of cards, similar to the following group of cards. You can point to any card to get a description of the integration.
 
@@ -43,14 +43,10 @@ Role required: sn\_sec\_cmn.admin
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[third-party-integrations|Security Operations Integration Configurations]]
+**Parent Topic:**[Security Operations Integration Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/third-party-integrations.md)
 
 **Related topics**  
 
 
 [Create an integration]()
 
-## Related
-
-- [[third-party-integrations|Security Operations Integration Configurations]]
-- [[security-operations-landing-page|Security Operations]]

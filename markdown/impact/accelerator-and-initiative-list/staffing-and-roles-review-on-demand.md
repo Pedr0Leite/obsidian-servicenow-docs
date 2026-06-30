@@ -15,11 +15,11 @@ breadcrumb: [Staffing and Roles Review, Strategy Accelerators, Accelerator catal
 
 # Staffing and Roles Review-On Demand
 
-This accelerator provides [[impact-landing-page|Impact]] customers with a guided, self-service experience to assess their ServiceNow platform staffing model, identify capability gaps, and build a prioritized action plan to strengthen their team.
+This accelerator provides Impact customers with a guided, self-service experience to assess their ServiceNow platform staffing model, identify capability gaps, and build a prioritized action plan to strengthen their team.
 
 ## Accelerator Overview
 
-**[[staffing-and-roles-review|Staffing and Roles Review]] – On Demand** provides Impact customers with a structured methodology to evaluate their current ServiceNow platform team against leading practices, identify staffing and capability gaps across key operational domains, and develop a prioritized, actionable plan to close those gaps. Customers complete the accelerator independently, using example-driven content and built-in tools, enabling them to identify gaps, prioritize improvements, and define next steps. Designed for independent execution, customers progress at their own pace.
+**Staffing and Roles Review – On Demand** provides Impact customers with a structured methodology to evaluate their current ServiceNow platform team against leading practices, identify staffing and capability gaps across key operational domains, and develop a prioritized, actionable plan to close those gaps. Customers complete the accelerator independently, using example-driven content and built-in tools, enabling them to identify gaps, prioritize improvements, and define next steps. Designed for independent execution, customers progress at their own pace.
 
 ## Package Availability
 
@@ -75,7 +75,3 @@ The following are recommended resources suggested to participate and contribute 
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[staffing-and-roles-review|Staffing and Roles Review]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage content capabilities, Extend ServiceNow AI Platform capabili
 
 # Document Services
 
-Document Services provides a broad range of services related to [[doc-management-landing|document management]], creation, maintenance, and conversion, and integrating with third parties such as Microsoft SharePoint.
+Document Services provides a broad range of services related to document management, creation, maintenance, and conversion, and integrating with third parties such as Microsoft SharePoint.
 
 <table id="table_tx3_sgc_5yb" class="nav-card"><tbody><tr><td>
 
@@ -35,15 +35,15 @@ Document Services provides a broad range of services related to [[doc-management
 </td></tr></tbody>
 </table>-   **[Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-management-landing.md)**
 
-    Manage large numbers of documents efficiently. Document Management provides storage space and a tracking system to easily upload, retrieve, and [[delete-a-doc|delete documents]].
+    Manage large numbers of documents efficiently. Document Management provides storage space and a tracking system to easily upload, retrieve, and delete documents.
 
 -   **[Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)**
 
-    View documents directly in the ServiceNow AI Platform® rather than having to download them. [[Documentviewer|Document Viewer]] supports viewing various file types in the platform. The maximum document file size is 50 MB. Enable  Document Viewer and the tables you want to use with it at the instance level.
+    View documents directly in the ServiceNow AI Platform® rather than having to download them. Document Viewer supports viewing various file types in the platform. The maximum document file size is 50 MB. Enable  Document Viewer and the tables you want to use with it at the instance level.
 
 -   **[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)**
 
-    Control electronic documents within your instance. Documents can move through the managed document cycle after the parameters have been set by the administrator and the [[c_KnowledgeDocument|Knowledge Document plugin]] installed.
+    Control electronic documents within your instance. Documents can move through the managed document cycle after the parameters have been set by the administrator and the Knowledge Document plugin installed.
 
 -   **[Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/mp-document-services-framework-landing.md)**
 
@@ -67,9 +67,3 @@ Document Services provides a broad range of services related to [[doc-management
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[delete-a-doc|Delete documents]]
-- [[Documentviewer|Document Viewer]]
-- [[c_KnowledgeDocument|Knowledge Document plugin]]

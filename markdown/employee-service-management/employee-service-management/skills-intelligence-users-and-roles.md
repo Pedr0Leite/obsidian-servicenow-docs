@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Components installed with Skills Foundation
 
-Several types of components are installed with the activation of the [[skills-intelligence|Skills Foundation]] application, including user roles and tables.
+Several types of components are installed with the activation of the Skills Foundation application, including user roles and tables.
 
 ## Skills Foundation roles
 
@@ -56,6 +56,3 @@ You can assign these roles to the appropriate roles, groups, or users in your ap
 |sn\_skills\_int\_dynamic\_skill|Stores the new skills requested from the dynamic sources \( currently only from Credly\).|
 |sn\_skills\_int\_dynamic\_skill\_requestor|Stores the requester information for the dynamic skills added.|
 
-## Related
-
-- [[skills-intelligence|Skills Foundation]]

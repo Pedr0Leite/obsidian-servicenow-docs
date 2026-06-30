@@ -14,7 +14,7 @@ breadcrumb: [Create an AI issue, Use, AI Risk and Compliance, Governance, Risk, 
 
 # Create New AI Issue form
 
-Use the [[create-new-issue-opres-ws|Create New Issue form]] to identify and [[manage-issues-common-core|manage issues]] related to the impacted areas for the reported AI case.
+Use the Create New Issue form to identify and manage issues related to the impacted areas for the reported AI case.
 
 See the following table for a description of the field values.
 
@@ -348,13 +348,8 @@ Functional domain
 
 </td><td>
 
-Functional domain that the issue belongs to. For example, an issue may belong to the [[ai-risk-and-compliance|AI Risk and Compliance]] domain.
+Functional domain that the issue belongs to. For example, an issue may belong to the AI Risk and Compliance domain.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Create an AI issue in the AI Risk and Compliance workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-ai-issue-in-the-ai-risk-and-compliance-workspace.md)
 
-## Related
-
-- [[create-new-issue-opres-ws|Create New Issue form]]
-- [[manage-issues-common-core|Manage issues]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

@@ -14,7 +14,7 @@ breadcrumb: [Invite a member to access the Supplier Collaboration Portal, Using 
 
 # Register to the Supplier Collaboration Portal as an invited member
 
-As an invited member, you can register and get access to the [[supplier-central|Supplier Collaboration Portal]].
+As an invited member, you can register and get access to the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-After a [[supplier-contact|supplier contact]] invites you as a member, you receive an email with the registration link to the Supplier Collaboration Portal.
+After a supplier contact invites you as a member, you receive an email with the registration link to the Supplier Collaboration Portal.
 
 ## Procedure
 
 1.  Select the registration link in the email.
 
-2.  On the [[supplier|Supplier]] Self Registration form, fill in the fields.
+2.  On the Supplier Self Registration form, fill in the fields.
 
     **Note:**
 
@@ -55,8 +55,3 @@ After a [[supplier-contact|supplier contact]] invites you as a member, you recei
 
 Your registration is complete. You can now log in to the Supplier Collaboration Portal.
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

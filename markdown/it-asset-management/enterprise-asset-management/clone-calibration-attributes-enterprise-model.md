@@ -22,11 +22,11 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Enterprise [[model-management-view-am|model management view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise model management view.
 
 2.  Select either the **All enterprise** tab or the tab for a specific model category, such as **Construction**.
 
-3.  From the list of available enterprise [[c_Models|models]], select the enterprise model that you want to clone a calibration attribute to or from.
+3.  From the list of available enterprise models, select the enterprise model that you want to clone a calibration attribute to or from.
 
 4.  On the **Calibration attributes** tab of the enterprise model record, use one of the following options to clone a calibration attribute:
 
@@ -56,8 +56,3 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[model-management-view-am|Model management view]]
-- [[c_Models|Models]]

@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Create a quote
 
-Create a quote in [[quote-management|Quote Management]] to start the quote building process.
+Create a quote in Quote Management to start the quote building process.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ When you start a quote, a dialog box prompts you for quote information. You can 
 
 2.  Navigate to **Quotes** &gt; **All** and select **New**.
 
-3.  On the **Create new quote** form, fill in the [[fields|fields]].
+3.  On the **Create new quote** form, fill in the fields.
 
 <table id="choicetable_wss_lcm_11c"><thead><tr><th align="left" id="d154501e105">
 
@@ -90,13 +90,7 @@ Select the **Consumer** name and enter the following:-   Deal type: Indicates th
 
 ## What to do next
 
-[[quote-management-details-tab|Add and view details of a quote]].
+[Add and view details of a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-details-tab.md).
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-management-details-tab|Add and view details of a quote]]
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]
-- [[fields|Fields]]

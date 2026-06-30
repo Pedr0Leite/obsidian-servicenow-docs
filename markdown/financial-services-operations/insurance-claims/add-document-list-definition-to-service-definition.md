@@ -14,7 +14,7 @@ breadcrumb: [Creating a service definition for Insurance claims, Configure, Insu
 
 # Add a document list definition to a service definition
 
-Add a document list definition to a service definition by using the [[insurance-claims-flow|Insurance claims]] application so that you can define the required documents that a customer needs to provide for a particular claim.
+Add a document list definition to a service definition by using the Insurance claims application so that you can define the required documents that a customer needs to provide for a particular claim.
 
 ## Before you begin
 
@@ -50,9 +50,5 @@ This decision table executes in the background when a case is created through th
 **Related topics**  
 
 
-[[integrating-with-document-processor|Integrating with Document Processor]]
+[Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md)
 
-## Related
-
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[insurance-claims-flow|Insurance claims]]

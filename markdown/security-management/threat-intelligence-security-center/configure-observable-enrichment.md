@@ -14,13 +14,13 @@ breadcrumb: [TISC Enrichment integrations, TISC Integrations, Integrate, Threat 
 
 # Configure Observable Enrichment
 
-Enrich one or more [[c_Observables|observables]] to identify whether they're associated with known threats. The results are based on the enrichment integrations active in your environment.
+Enrich one or more observables to identify whether they're associated with known threats. The results are based on the enrichment integrations active in your environment.
 
 ## Before you begin
 
 Role required: sn\_sec\_tisc.admin
 
-The [[tisc-landing-page|Threat Intelligence Security Center]] supports [[tisc-observable-enrichment|Observable Enrichment]] only for the [[tisc-whoisxml-integration|WHOIS Integration]] currently. For more information, see [Configure and enable Whois integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-whoisxml-api-integration.md).
+The Threat Intelligence Security Center supports Observable Enrichment only for the WHOIS Integration currently. For more information, see [Configure and enable Whois integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-whoisxml-api-integration.md).
 
 **Note:** Enrichment Integrations module is only shown if at least one of the integration supporting any of the capability is installed in the application.
 
@@ -36,7 +36,7 @@ The Observable Enrichment section contains only the integrations with the integr
 
     \[Omitted image "enrich-observables.png"\] Alt text: Observable Enrichment integrations
 
-3.  Select **[[tisc-config-new-enrich|Configure new enrichment]]**.
+3.  Select **Configure new enrichment**.
 
 4.  Select an integration from the list of available integrations.
 
@@ -76,19 +76,9 @@ The Observable Enrichment section contains only the integrations with the integr
 -   **[Have I Been Pwned integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-hibp-integration.md)**  
 The Have I Been Pwned \(HIBP\) integration enables you to enrich email address and domain observables with breach data directly within the TISC.
 -   **[Whois integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-whoisxml-integration.md)**  
-Submit Whois lookups on domain names and URLs to gather [[threat-intel-landing-page|threat intelligence]] and assess potential security risks. Use this integration to obtain registration details, ownership information, and other contextual data for suspicious domains.
+Submit Whois lookups on domain names and URLs to gather threat intelligence and assess potential security risks. Use this integration to obtain registration details, ownership information, and other contextual data for suspicious domains.
 -   **[Shodan integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-shodan.md)**  
-Configure [[shodan-lookups|Shodan integration]] to enable automated discovery and analysis of internet-connected devices in your network [[threat-intelligence-infrastructure|infrastructure]].
+Configure Shodan integration to enable automated discovery and analysis of internet-connected devices in your network infrastructure.
 
 **Parent Topic:**[TISC Enrichment integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-enrichment-integrations.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[shodan-lookups|Shodan integration]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

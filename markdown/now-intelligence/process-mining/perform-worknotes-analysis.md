@@ -14,7 +14,7 @@ breadcrumb: [Work notes analysis, Analyzing and getting process insights, Use, P
 
 # Perform work notes analysis
 
-Generate a [[worknotes-analysis|work notes analysis]] on a transition.
+Generate a work notes analysis on a transition.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  From the list of projects, select a project.
 
@@ -49,7 +49,3 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 **Parent Topic:**[Work notes analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/worknotes-analysis.md)
 
-## Related
-
-- [[worknotes-analysis|Work notes analysis]]
-- [[analyst-workbench-overview|Process Mining workspace]]

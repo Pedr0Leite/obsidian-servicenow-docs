@@ -25,12 +25,12 @@ Starting with previous release, many terms within all the GRC core applications 
 |GRC module|Previous|Current|
 |----------|--------|-------|
 |**Scoping**|**Profile**|**Entity**|
-|**Profile Types**|**[[entity-type-in-risk-ws|Entity Types]]**|
-|**Profile Classes**|**[[entity-class-in-risk-ws|Entity Classes]]**|
+|**Profile Types**|**Entity Types**|
+|**Profile Classes**|**Entity Classes**|
 |**My Profiles**|**My Entities**|
 |**All Profiles**|**All Entities**|
-|**[[Administration|Administration]]**|**Profile Tiers**|**[[entity-tier-in-risk-ws|Entity Tiers]]**|
-|**Profile Class Rules**|**[[entity-class-rules-in-risk-ws|Entity Class Rules]]**|
+|**Administration**|**Profile Tiers**|**Entity Tiers**|
+|**Profile Class Rules**|**Entity Class Rules**|
 |**Indicators**|**Indicators** &gt; **Item** field|**Control/Risk** field|
 | |**Category** field indicates whether it is a compliance or risk indicator|
 |**Indicator Template** &gt; **Content** field|**Control Objective/Risk Statement**|
@@ -62,7 +62,7 @@ Starting with previous release, many terms within all the GRC core applications 
 |CISA|Cybersecurity Information Sharing Act|
 |CISM|[Certified Information Security Manager](http://en.wikipedia.org/wiki/Certified_Information_Security_Manager)|
 |COBIT|Control Objectives for Information and Related Technologies \(COBIT\) provides an IT governance framework to manage risk and compliance issues based on best practices. Published by the IT Governance Institute and the Information Systems Audit and Control Association \(ISACA\).|
-|COSO|The Committee of Sponsoring Organizations \(COSO\) was formed in 1985 to sponsor the National Commission on Fraudulent Financial Reporting. COSO is an independent private sector initiative that studied the causal [[factors|factors]] that can lead to fraudulent financial reporting and developed recommendations for public companies, the SEC, and other regulators and educational institutions.|
+|COSO|The Committee of Sponsoring Organizations \(COSO\) was formed in 1985 to sponsor the National Commission on Fraudulent Financial Reporting. COSO is an independent private sector initiative that studied the causal factors that can lead to fraudulent financial reporting and developed recommendations for public companies, the SEC, and other regulators and educational institutions.|
 |EDPA|European Data Privacy Act|
 |ENISA|[European Network &amp; Information Security Agency](https://www.enisa.europa.eu/)|
 |EUP|Energy use in products \(EUP\) is an EU directive that requires companies to design products to use less energy.|
@@ -182,7 +182,7 @@ When obtaining evidence in support of financial statement assertions, the audito
 
 </td></tr><tr><td>
 
-[[audit-observations|Audit observations]]
+Audit observations
 
 </td><td>
 
@@ -430,7 +430,7 @@ Policies and procedures to assure proper operation of computer systems, includin
 
 </td></tr><tr><td>
 
-[[r_WhatIsGRC|Governance, Risk, and Compliance]] \(GRC\)
+Governance, Risk, and Compliance \(GRC\)
 
 </td><td>
 
@@ -846,7 +846,7 @@ A repository of the key attributes of potential and known IT risk issues. Attrib
 
 </td></tr><tr><td>
 
-[[risk-response|Risk response]]
+Risk response
 
 </td><td>
 
@@ -999,14 +999,3 @@ The state of being unable to completely predict, determine, or define something.
 </td></tr></tbody>
 </table>**Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[Administration|Administration]]
-- [[entity-tier-in-risk-ws|Entity tiers]]
-- [[entity-class-rules-in-risk-ws|Entity class rules]]
-- [[factors|factors]]
-- [[audit-observations|Audit observations]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-response|risk response]]

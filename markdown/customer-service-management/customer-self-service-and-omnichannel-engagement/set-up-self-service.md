@@ -18,7 +18,7 @@ Create a self-service portal to help customers resolve issues independently and 
 
 <table id="table_gg4_j41_l1c" class="nav-card"><tbody><tr><td>
 
-[Portals\[Omitted image "bus-personalized-self-service-portal.svg"\] Alt text:Set up and customize self-service portals to provide customers with access to knowledge bases, service catalogs, and other essential features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-[[omnichannel|omnichannel]]-engagement/configure-portals.md)
+[Portals\[Omitted image "bus-personalized-self-service-portal.svg"\] Alt text:Set up and customize self-service portals to provide customers with access to knowledge bases, service catalogs, and other essential features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-portals.md)
 
 </td><td>
 
@@ -26,7 +26,7 @@ Create a self-service portal to help customers resolve issues independently and 
 
 </td><td>
 
-[Conversational Appointment Booking\[Omitted image "bus-mobile-phone.svg"\] Alt text:Set up [[conv_appt_booking|Conversational Appointment Booking]] to enable customers to book, reschedule, and cancel appointments from Virtual Agent conversations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/conv-appt-booking-config.md)
+[Conversational Appointment Booking\[Omitted image "bus-mobile-phone.svg"\] Alt text:Set up Conversational Appointment Booking to enable customers to book, reschedule, and cancel appointments from Virtual Agent conversations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/conv-appt-booking-config.md)
 
 </td></tr><tr><td>
 
@@ -34,7 +34,7 @@ Create a self-service portal to help customers resolve issues independently and 
 
 </td><td>
 
-[Web Embeddables\[Omitted image "we-ss-landing-page.svg"\] Alt text:Embed [[servicenow-web-components-overview|ServiceNow components]] into external websites to interact with the ServiceNow platform without requiring users to access the ServiceNow instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/using-web-embeddables.md)
+[Web Embeddables\[Omitted image "we-ss-landing-page.svg"\] Alt text:Embed ServiceNow components into external websites to interact with the ServiceNow platform without requiring users to access the ServiceNow instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/using-web-embeddables.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Create a self-service portal to help customers resolve issues independently and 
 </td></tr></tbody>
 </table>-   **[Portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-portals.md)**
 
-    Set up and customize self-service portals to provide customers with access to knowledge bases, service catalogs, [[case-management|case management]], and other essential features through configurable interfaces. Choose from Customer and Consumer Service Portals or Business and Consumer Portal based on your organizational needs.
+    Set up and customize self-service portals to provide customers with access to knowledge bases, service catalogs, case management, and other essential features through configurable interfaces. Choose from Customer and Consumer Service Portals or Business and Consumer Portal based on your organizational needs.
 
 -   **[Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-walk-up-csm.md)**
 
@@ -65,9 +65,4 @@ Create a self-service portal to help customers resolve issues independently and 
 
     With the [Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/engagement-center.md) web application, your customers can easily access the information or services they need from your third-party web applications, even if they’re located outside of the ServiceNow environment.
 
-## Related
 
-- [[omnichannel|Omnichannel]]
-- [[conv_appt_booking|Conversational Appointment Booking]]
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[case-management|Case management]]

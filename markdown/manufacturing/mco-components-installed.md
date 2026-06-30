@@ -12,7 +12,7 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 # Components installed
 
-Several types of components are installed with installation of the [[manufacturing-overview|Manufacturing Commercial Operations]] application. These components include user roles, tables, plugins, ServiceNow Store applications, and business rules.
+Several types of components are installed with installation of the Manufacturing Commercial Operations application. These components include user roles, tables, plugins, ServiceNow Store applications, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -157,15 +157,10 @@ sn\_claim\_cmn.warranty\_specialist
 -   sn\_repr\_claim\_mgmt.pre\_auth\_navigation\_menu
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[manufacturing-reference|Reference]]
+</table>**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
 **Related topics**  
 
 
-[[manufacturing-explore|Explore Manufacturing Commercial Operations]]
+[Explore Manufacturing Commercial Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-explore.md)
 
-## Related
-
-- [[manufacturing-reference|Reference]]
-- [[manufacturing-explore|Explore Manufacturing Commercial Operations]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

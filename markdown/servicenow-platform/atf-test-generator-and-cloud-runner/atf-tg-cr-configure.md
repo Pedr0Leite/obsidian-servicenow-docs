@@ -14,7 +14,7 @@ breadcrumb: [ATF Test Generator and Cloud Runner, Extend ServiceNow AI Platform 
 
 # Configuring ATF Test Generator and Cloud Runner
 
-Configure the [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]] store application by setting up the cloud user.
+Configure the ATF Test Generator and Cloud Runner store application by setting up the cloud user.
 
 ## Set up cloud user
 
@@ -49,13 +49,10 @@ Role required: admin
     -   User wasn't found
     -   User is inactive
     -   User is locked out
-    -   User needs a [[password-reset-landing-page|password reset]]
+    -   User needs a password reset
     -   User doesn't have an admin role
     -   User has read-only access
     -   User has web services only access
     **Note:** Selecting an admin user might take some time because it tries spinning a cloud browser and then log in to the selected user.
 
-## Related
 
-- [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]]
-- [[password-reset-landing-page|Password Reset]]

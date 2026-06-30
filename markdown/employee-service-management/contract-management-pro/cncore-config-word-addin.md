@@ -19,7 +19,7 @@ As an admin, configure the Microsoft Word add-in for ServiceNow Contracts.
 
 ## About this task
 
-[[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] will be installed when you [[cncore-install-cmpro|install Contract Management Pro]]. You need to configure it to be available in the Microsoft Word as an add-in.
+Microsoft Word add-in for ServiceNow Contracts will be installed when you install Contract Management Pro. You need to configure it to be available in the Microsoft Word as an add-in.
 
 The following video walks you through the process of configuring Microsoft Word add-in for ServiceNow Contracts on macOS.\[Omitted video\] Description: Video explaining the steps to configure Microsoft Word add-in for ServiceNow Contracts on macOS.
 
@@ -35,7 +35,7 @@ Role required: admin
 
 2.  From the Office Manifests list, select **ServiceNow Contracts**.
 
-    \[Omitted image "cmpro-office-add-in.png"\] Alt text: Microsoft Word add-in for [[cncore-cmpro-landing-page|Contract Management Pro]].
+    \[Omitted image "cmpro-office-add-in.png"\] Alt text: Microsoft Word add-in for Contract Management Pro.
 
 3.  If your ServiceNow instance is configured with single sign-on \(SSO\) login, clear the **Login Page not Required** check box, right-click the form header, and then select **Save**.
 
@@ -131,8 +131,3 @@ The **ServiceNow Contracts** add-in is available on the Home ribbon. When you lo
 
 [Creating a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-setup-ct-add-in.md)
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-install-cmpro|Install Contract Management Pro]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

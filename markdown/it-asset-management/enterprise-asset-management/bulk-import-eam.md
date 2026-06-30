@@ -14,7 +14,7 @@ breadcrumb: [Bulk import of your enterprise models and assets, Managing enterpri
 
 # Import enterprise models and assets in workspace
 
-Import multiple enterprise [[c_Models|models]] and assets at one go in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Import multiple enterprise models and assets at one go in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -69,7 +69,4 @@ Role required: sn\_eam.enterprise\_admin
 
 12. Fix the error, upload the spreadsheet, and import the record again.
 
-## Related
 
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

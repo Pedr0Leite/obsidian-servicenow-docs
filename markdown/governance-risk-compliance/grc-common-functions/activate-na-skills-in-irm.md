@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist, Common GRC features, Governance, Risk, and C
 
 # Activate Now Assist skills in Now Assist for Integrated Risk Management \(IRM\)
 
-Activate a skill before you can use the generative AI capabilities for the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] application.
+Activate a skill before you can use the generative AI capabilities for the Now Assist for Integrated Risk Management \(IRM\) application.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ You can perform the following actions on Now Assist skills if you have the sn\_g
 -   [Make a copy of a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/make-a-copy-of-a-now-assist-skill.md).
 -   [Troubleshoot a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/troubleshoot-a-now-assist-skill.md).
 
-## Related
-
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]

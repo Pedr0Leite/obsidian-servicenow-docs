@@ -14,7 +14,7 @@ breadcrumb: [Controlling alert generation, prioritization, and anomaly detection
 
 # Influence anomaly detection in Health Log Analytics with lexical keywords
 
-Influence how [[hla-landing-page|Health Log Analytics]] finds anomalies by managing keywords it looks for in your log data. When text in log data for a source matches a lexical keyword that exceeds a specified count threshold, the system identifies an anomaly and generates an alert.
+Influence how Health Log Analytics finds anomalies by managing keywords it looks for in your log data. When text in log data for a source matches a lexical keyword that exceeds a specified count threshold, the system identifies an anomaly and generates an alert.
 
 Health Log Analytics scans your logs for words that can indicate important issues. Lexical keywords such as 'crashed' or 'failed' signal conditions that may require attention. The application sets a threshold for each lexical keyword based on its normal occurrence pattern and frequency in your logs.
 
@@ -34,6 +34,4 @@ You can manage lexical keywords as follows:
 
     View the list of lexical keywords that can indicate important issues in log entries. By default, the table lists only global keywords.
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]

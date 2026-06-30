@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-This action is intended to stop background processes, such as [[c_ScheduledJobs|scheduled jobs]], and not user-initiated transactions.
+This action is intended to stop background processes, such as scheduled jobs, and not user-initiated transactions.
 
 ## Procedure
 
@@ -30,8 +30,8 @@ This action is intended to stop background processes, such as [[c_ScheduledJobs|
 
 2.  Navigate to the appropriate **Active Transactions** module.
 
-    -   To view and kill transactions on the current node for your instance, navigate to **[[c_UserAdministration|User Administration]]** &gt; **Active Transactions**.
-    -   To view and kill transactions on all nodes for your instance, navigate to **[[sys-diag|System Diagnostics]]** &gt; **Active Transactions \(All Nodes\)**.
+    -   To view and kill transactions on the current node for your instance, navigate to **User Administration** &gt; **Active Transactions**.
+    -   To view and kill transactions on all nodes for your instance, navigate to **System Diagnostics** &gt; **Active Transactions \(All Nodes\)**.
 3.  Find the transaction that you want to stop.
 
     The process to display the transactions is included in the list. Don’t kill that process.
@@ -43,8 +43,3 @@ This action is intended to stop background processes, such as [[c_ScheduledJobs|
 
 **Parent Topic:**[Transaction cancellation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-cancellation.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_UserAdministration|User administration]]
-- [[sys-diag|System Diagnostics]]

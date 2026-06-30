@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 # Activating Virtual Agent and getting started
 
-Using the [[ci-console|Conversational Interfaces console]], you can quickly add [[virtual-agent-landing-page|Virtual Agent]] to a portal, configure branding, personalize the greeting, and begin to use pre-built ITSM Virtual Agent conversations.
+Using the Conversational Interfaces console, you can quickly add Virtual Agent to a portal, configure branding, personalize the greeting, and begin to use pre-built ITSM Virtual Agent conversations.
 
 If you have a license for a Now Assist product, you can also quickly deploy Now Assist skills in Virtual Agent in a matter of minutes. For details, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
@@ -23,7 +23,7 @@ If you have a license for a Now Assist product, you can also quickly deploy Now 
 
 If you have a license for Virtual Agent, the following sections will help you get started and create conversations for your organization quickly.
 
-If you do not have a license for Virtual Agent, you can try [[va-lite|Virtual Agent Lite]], which comes preinstalled. For information about getting started with Virtual Agent Lite, see [Quick start for Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/quick-start-va-lite.md).
+If you do not have a license for Virtual Agent, you can try Virtual Agent Lite, which comes preinstalled. For information about getting started with Virtual Agent Lite, see [Quick start for Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/quick-start-va-lite.md).
 
 ## Get started with Virtual Agent
 
@@ -35,17 +35,17 @@ If you do not have a license for Virtual Agent, you can try [[va-lite|Virtual Ag
 
     Install predefined conversations for your business applications, NLU tools, and the Conversational Analytics dashboard.
 
-3.  [[ac-configure-bot-portal|Add your bot to a portal]]
+3.  [Add your bot to a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-bot-portal.md)
 
     Add a chat entry to the menu of your web portal. You can add Virtual Agent to additional portals later.
 
-    For conversations based on generative AI large language models \(LLMs\), you can quickly set up [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and add it to a portal. For information about adding Now Assist in Virtual Agent to a portal, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
+    For conversations based on generative AI large language models \(LLMs\), you can quickly set up Now Assist in Virtual Agent and add it to a portal. For information about adding Now Assist in Virtual Agent to a portal, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
-4.  [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
+4.  [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md)
 
     Change the way Virtual Agent looks to the end user. You can change the colors, add your company logo, and change the icon that represents your bot.
 
-    If you're [[using-now-assist-in-va|using Now Assist in Virtual Agent]], you can customize the look and feel during the configuration process. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
+    If you're using Now Assist in Virtual Agent, you can customize the look and feel during the configuration process. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 
 5.  [Get recommended topics for your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/getting-started-topic-recommendations.md)
 
@@ -59,20 +59,10 @@ As you work with Virtual Agent, you can expand its capabilities by implementing 
 -   [Configure Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md)
 -   [Set up chat experiences for Virtual Agent users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-conversation-settings.md)
 -   [Create new Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
--   [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
+-   [Change Virtual Agent and Agent Chat system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md)
 -   [Enable AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-ai-search.md)
 -   [Implement Natural Language Understanding \(NLU\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/advantages-nlu.md)
 -   [Use Virtual Agent with a live agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-va-agent-chat.md)
 -   [Use language detection and dynamic machine translation in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 -   [Localize Virtual Agent topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[ac-configure-bot-portal|Add your bot to a portal]]
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[ci-console|Conversational Interfaces Console]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[using-now-assist-in-va|Using Now Assist in Virtual Agent]]

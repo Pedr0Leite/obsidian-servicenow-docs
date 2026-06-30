@@ -12,9 +12,5 @@ breadcrumb: [Care Team Operations for Environmental Services, Healthcare Operati
 
 # Creating service requests for Care Team Operations for Environmental Services
 
-Use [[cto-evs-landing|Care Team Operations for Environmental Services]] to report environmental services issues [[care-team-portal-using|using Care Team Portal]].
+Use Care Team Operations for Environmental Services to report environmental services issues using Care Team Portal.
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[care-team-portal-using|Using Care Team Portal]]

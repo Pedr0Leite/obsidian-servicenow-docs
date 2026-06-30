@@ -14,7 +14,7 @@ breadcrumb: [Propose, promote, and link incident records, Use, Major Security In
 
 # Promote to a Major Security Incident
 
-Promote a security incident to a major security incident or reject promoted proposals through the [[major-security-incident-management-landing-page|Major Security Incident Management]] \(MSIM\) Workspace.
+Promote a security incident to a major security incident or reject promoted proposals through the Major Security Incident Management \(MSIM\) Workspace.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_msi.workspace\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Security Incidents** &gt; **Lists**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Security Incidents** &gt; **Lists**.
 
 2.  Select the security incident in the related category that you want to promote as major security incident.
 
     Review the details of the security incident in the Details section or view extended details in the incident record in a separate tab by clicking **View more details**.
 
-3.  Select the **More Actions** icon and select **[[promote-to-major-security-incident|Promote to Major Security Incident]]**.
+3.  Select the **More Actions** icon and select **Promote to Major Security Incident**.
 
 4.  In the Promote Major Security Incident dialog box, fill in the fields.
 
@@ -78,8 +78,3 @@ Once an incident is promoted, the default configuration is applied.
 
 [Link to Major Security Incident]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[promote-to-major-security-incident|Promote to Major Security Incident]]

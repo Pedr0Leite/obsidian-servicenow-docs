@@ -61,7 +61,7 @@ For more information on initiating a contract request, see [Initiating a contrac
 
 [Activate a system property to generate a certificate of completion]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Enable keyword search for contract templates]()
 
@@ -73,6 +73,3 @@ For more information on initiating a contract request, see [Initiating a contrac
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[activity-lxp|Activity]]

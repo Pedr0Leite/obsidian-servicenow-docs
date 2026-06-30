@@ -12,7 +12,7 @@ breadcrumb: [Configure Service Exchange for Consumers, Service Exchange, Case Ma
 
 # Activate remote catalog item entitlements for Service Exchange Consumers
 
-Create an entitlement for a remote catalog item/record producer so that the associated service will be displayed in the constituent\(s\) [[gsp-overview-public-sector|Government Service Portal]] catalog for use. You can entitle content explicitly to a single constituent, or to multiple constituents in designated groups.
+Create an entitlement for a remote catalog item/record producer so that the associated service will be displayed in the constituent\(s\) Government Service Portal catalog for use. You can entitle content explicitly to a single constituent, or to multiple constituents in designated groups.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 5.  Select the Remote task definition tab and select a remote task definition that you want to activate.
 
-    For information on how to utilize remote task definitions to create task assignments between constituent and agency provider instances, see [[psds-servicebridge-config-create-remote-task-def|Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services]].
+    For information on how to utilize remote task definitions to create task assignments between constituent and agency provider instances, see [Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-servicebridge-config-create-remote-task-def.md).
 
 6.  In the Remote task definition page, select **Activate** to activate the entitlement.
 
@@ -39,7 +39,3 @@ Role required: admin
 
 The remote record producer is now added to the configured catalog and is visible on the consumer instance, the Government Service Portal.
 
-## Related
-
-- [[psds-servicebridge-config-create-remote-task-def|Create remote task definitions in Service Exchange for Providers in Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]

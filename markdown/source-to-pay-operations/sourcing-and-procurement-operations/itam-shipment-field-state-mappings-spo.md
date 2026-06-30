@@ -19,7 +19,7 @@ Lists the field and state mappings between ITAM Shipment records and SPO Shipmen
 
 ## Field mappings
 
-Shipment records created in asset management have corresponding readN/Aonly records created on the SPO [[shipment-details|shipment details]] table. ITAM shipment state mappings are driven by the ITAM shipment table, which contains conditional logic. The SPO shipment table is readN/Aonly.
+Shipment records created in asset management have corresponding readN/Aonly records created on the SPO shipment details table. ITAM shipment state mappings are driven by the ITAM shipment table, which contains conditional logic. The SPO shipment table is readN/Aonly.
 
 |Field on ITAM Shipment Table|Field on SPO Shipment Table|
 |----------------------------|---------------------------|
@@ -57,6 +57,3 @@ Shipment records created in asset management have corresponding readN/Aonly reco
 
 [ITAM receipt field mappings to SPO receipt]()
 
-## Related
-
-- [[shipment-details|Shipment details]]

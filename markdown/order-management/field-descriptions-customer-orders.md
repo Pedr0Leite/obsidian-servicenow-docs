@@ -12,9 +12,9 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Customer and Service order details forms
 
-The Order details forms enable you to select, review, and [[Modify|modify]] captured customer or service orders.
+The Order details forms enable you to select, review, and modify captured customer or service orders.
 
-**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
 ## Order details page - Customer Order fields
 
@@ -36,7 +36,7 @@ Number
 
 Unique system-assigned customer order number.
 
-**Note:** Both customer orders and service orders have an assigned ID with a prefix of ORD. To learn more about order types, see [[som-order-types|Order types in Sales Customer Relationship Management]].
+**Note:** Both customer orders and service orders have an assigned ID with a prefix of ORD. To learn more about order types, see [Order types in Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-order-types.md).
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ State
 
 </td><td>
 
-Indicator of the current processing state for the customer order, including all of its associated line items. **Note:** To view a comprehensive listing of customer order states with detailed descriptions, see [[order-mgt-state-values|Customer Order form states]] and [Customer order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md).
+Indicator of the current processing state for the customer order, including all of its associated line items. **Note:** To view a comprehensive listing of customer order states with detailed descriptions, see [Customer Order form states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md) and [Customer order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ No update or cancellation is taking place for the customer order. This setting i
 
 A Characteristic, Contact, or Price inflight revision has been submitted for the customer order.
 
--   **[[cancel|Cancel]]**
+-   **Cancel**
 
 A customer order is canceled or in the process of being canceled.
 
@@ -168,7 +168,7 @@ Sales agreement
 
 </td><td>
 
-If you're using the [[sales-agreement-mgmt|Sales Agreement Management]] application and one or more sales agreement were created by an agent, this field shows the system-generated number for the sales agreement linked to this account. The oldest active agreement is auto-populated. You can manually select any valid agreement from the list.
+If you're using the Sales Agreement Management application and one or more sales agreement were created by an agent, this field shows the system-generated number for the sales agreement linked to this account. The oldest active agreement is auto-populated. You can manually select any valid agreement from the list.
 
 </td></tr><tr><td>
 
@@ -194,7 +194,7 @@ Option that indicates if this order is past the Point of No Return.
 The value for this option is a system-assigned flag that you can't manually update.
 
 </td></tr></tbody>
-</table>## Order details page - Pricing [[fields|fields]]
+</table>## Order details page - Pricing fields
 
 The Orders details page - pricing section enables you to review and modify the pricing details for a customer or service order.
 
@@ -299,7 +299,7 @@ Actual start date
 
 </td><td>
 
-Real date when the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] or contract execution began. This field is updated once the first fulfillment activity or service activation occurs.
+Real date when the order fulfillment or contract execution began. This field is updated once the first fulfillment activity or service activation occurs.
 
 </td></tr><tr><td>
 
@@ -324,7 +324,7 @@ Calendar days by which the buyer must pay the full invoice amount from the invoi
 
 </td></tr><tr><td>
 
-Auto-[[Renew|renew]] contract
+Auto-renew contract
 
 </td><td>
 
@@ -358,7 +358,7 @@ Shows the number of months the subscription is valid based on the contract start
 </table>**Related topics**  
 
 
-[[add-subscription-pricing-to-an-order|Add subscription pricing to an order]]
+[Add subscription pricing to an order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-subscription-pricing-to-an-order.md)
 
 ## Order details page - Address fields
 
@@ -459,16 +459,3 @@ File attachments for the customer or service order. Select **Select file** to ad
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[som-order-types|Order types in Sales Customer Relationship Management]]
-- [[order-mgt-state-values|Customer order states]]
-- [[add-subscription-pricing-to-an-order|Add subscription pricing to an order]]
-- [[Modify|Modify]]
-- [[cancel|Cancel]]
-- [[sales-agreement-mgmt|Sales Agreement Management]]
-- [[fields|Fields]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[Renew|Renew]]

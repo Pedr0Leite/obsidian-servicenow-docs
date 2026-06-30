@@ -14,7 +14,7 @@ breadcrumb: [Using MISP to investigate and analyze threats, MISP integration for
 
 You can create events in MISP automatically or manually from the ServiceNow AI Platform. You can also edit the event data in MISP from the ServiceNow AI Platform.
 
-**Parent Topic:**[[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
+**Parent Topic:**[Using MISP to investigate and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-misp-to-detect-and-analyze-threats.md)
 
 ## Verifying automatically created events in MISP
 
@@ -22,7 +22,7 @@ You can verify the automatically created events after you configure the event cr
 
 ### Automatic event creation profile
 
-[[configure-automatic-event-creation-profile|Configuring the automatic event creation profile]] is done by the sn\_si.admin or the sn\_ti.admin user roles in the **MISP Integration** &gt; **Automatic Event Creation Profiles** module.
+[Configuring the automatic event creation profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-automatic-event-creation-profile.md) is done by the sn\_si.admin or the sn\_ti.admin user roles in the **MISP Integration** &gt; **Automatic Event Creation Profiles** module.
 
 ### Viewing the MISP event data
 
@@ -32,11 +32,11 @@ You can view the created events in the following ways:
 
     \[Omitted image "misp-event-creation-worknotes.png"\] Alt text: View the work notes for created events.
 
--   Click the [[associated-misp-events|Associated MISP Events]] related list. Here, you can view the event in relation to the security incident and the MISP resources as shown in the following example.
+-   Click the [Associated MISP Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associated-misp-events.md) related list. Here, you can view the event in relation to the security incident and the MISP resources as shown in the following example.
 
     \[Omitted image "misp-associated-event-list.png"\] Alt text: View the list of associated events
 
--   View the [[misp-event-data|MISP event data]] in the form view to review the detailed information about the MISP events as shown in the following example.
+-   View the MISP event data in the form view to review the detailed information about the MISP events as shown in the following example.
 
     \[Omitted image "misp-event-data-form-view.png"\] Alt text: View the event data in the form view to see the detailed MISP event information.
 
@@ -47,14 +47,14 @@ Manually create events in MISP from the ServiceNow AI Platform to capture contex
 
 ### Before you begin
 
--   [[misp-user-roles-and-permissions|Review the MISP user role and permissions]] for using the MISP bi-directional features.
+-   [Review the MISP user role and permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-user-roles-and-permissions.md) for using the MISP bi-directional features.
 -   Role required: sn\_sec\_misp.write
 
 ### Procedure
 
 1.  Navigate to **All** &gt; **Security Incident** &gt; **Show All Incidents**.
 
-2.  Select the security incident that contains the [[c_Observables|observables]] that you want to create an event for.
+2.  Select the security incident that contains the observables that you want to create an event for.
 
 3.  Click **Create a new event in MISP**.
 
@@ -82,7 +82,7 @@ Event Info
 
 </td><td>
 
-Event information that is automatically created from the ServiceNow AI Platform [[sir-landing-page|Security Incident Response]].
+Event information that is automatically created from the ServiceNow AI Platform Security Incident Response.
 
 </td></tr><tr><td colspan="2">
 
@@ -90,7 +90,7 @@ Threat Level
 
 </td><td>
 
-Risk level of the event. You can categorize the incidents into three different threat categories \(low, medium, high\). This field can also be left as undefined. The following are the options:-   Low: General mass [[threat-intelligence-malware|malware]]
+Risk level of the event. You can categorize the incidents into three different threat categories \(low, medium, high\). This field can also be left as undefined. The following are the options:-   Low: General mass malware
 -   Medium: Advanced Persistent Threats \(APT\)
 -   High: Sophisticated APTs and 0-day attacks
 
@@ -152,7 +152,7 @@ Filter observables based on security tags
 
 </td><td>
 
-Option to filter the observables based on the selected security tags. This option provides the capability to distinguish and manage the MISP events in [[threat-intel-landing-page|threat intelligence]].**Security tags**: Add tags to filter the observables. For example, if you are adding a tag called 'Block from sharing' or 'TLP: White' then if one of the observables has any of these tags associated then these observables will not be added as an attribute to the MISP event during the MISP event creation.
+Option to filter the observables based on the selected security tags. This option provides the capability to distinguish and manage the MISP events in threat intelligence.**Security tags**: Add tags to filter the observables. For example, if you are adding a tag called 'Block from sharing' or 'TLP: White' then if one of the observables has any of these tags associated then these observables will not be added as an attribute to the MISP event during the MISP event creation.
 
 </td></tr><tr><td>
 
@@ -515,14 +515,4 @@ Add or remove galaxies in ServiceNow AI Platform MISP so that you can classify t
 
 5.  Click **Reload Form** in the success message to view the changes in the record.
 
-## Related
 
-- [[using-misp-to-detect-and-analyze-threats|Using MISP to investigate and analyze threats]]
-- [[configure-automatic-event-creation-profile|Configure how an automatic event is created]]
-- [[associated-misp-events|Associated MISP events]]
-- [[misp-user-roles-and-permissions|MISP user roles and permissions]]
-- [[misp-event-data|MISP event data]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Enterprise model management**.
 
 2.  Select the **All enterprise** tab.
 
@@ -48,6 +48,3 @@ The list of lifecycle phases with details such as Phase start date, Phase end da
 
 [Create Calculated model lifecycle templates in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -13,7 +13,7 @@ breadcrumb: [Model Risk Management, Governance, Risk, and Compliance]
 
 # Exploring Model Risk Management
 
-Learn how you can use the [[model-risk-management|Model Risk Management]] application to identify, assess, and mitigate risks related to the quantitative models.
+Learn how you can use the Model Risk Management application to identify, assess, and mitigate risks related to the quantitative models.
 
 ## Model Risk Management overview
 
@@ -33,12 +33,12 @@ For example, a financial institution uses a Value at Risk \(VaR\) model to estim
 
 ## Model Risk Management workflow
 
-The following section describes the steps from the submission of a model risk in the [[employee-center|Employee Center]] to the assessment and monitoring of the risks associated with that model.
+The following section describes the steps from the submission of a model risk in the Employee Center to the assessment and monitoring of the risks associated with that model.
 
 \[Omitted image "mrm-workflow.png"\] Alt text: Infographic showing how Model Owner, Model Governance, and Model Validator submit, assess, validate, and monitor a model risk. For details, refer to the following description.
 
 1.  An employee can use the Employee Center and submit a new model request.
-2.  A new model record is automatically created in the model inventory and can be assessed in the [[model-risk-workspace|Model Risk Workspace]].
+2.  A new model record is automatically created in the model inventory and can be assessed in the Model Risk Workspace.
 3.  The Model Governance team reviews the submitted model, fills in the required details such as stakeholders, and then creates relevant assessments.
 4.  The Model Owner performs the risk assessment on the model and submits it to the Model Governance team for review. The assessment task is then sent for approval to the defined approvers configured in the Approver Configurator.
 5.  The Model Governance team reviews and approves the assessment. The model then moves to the Pre-deployment stage.
@@ -100,7 +100,7 @@ Model Risk Assessment
 
 </td><td>
 
-Helps quickly identify and prioritize high-risk models so resources focus where they matter most. To perform a model risk assessment and evaluate the risks associated with a quantitative model, refer to [[perform-model-risk-assessment|Perform model risk assessment]].
+Helps quickly identify and prioritize high-risk models so resources focus where they matter most. To perform a model risk assessment and evaluate the risks associated with a quantitative model, refer to [Perform model risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-assessment.md).
 
 </td><td>
 
@@ -113,7 +113,7 @@ Model Validation
 
 </td><td>
 
-Builds confidence in model reliability through independent checks that reduce errors and regulatory concerns.To perform model validation, refer to [[perform-model-risk-validation|Perform model validation]].
+Builds confidence in model reliability through independent checks that reduce errors and regulatory concerns.To perform model validation, refer to [Perform model validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-validation.md).
 
 </td><td>
 
@@ -125,7 +125,7 @@ Model Documentation
 
 </td><td>
 
-Makes it easy to maintain clear, audit-ready documentation that streamlines reviews and improves transparency.To link documents from your repository to a model record, refer to [[link-existing-documents-model-record|Link existing documents to a model record]].
+Makes it easy to maintain clear, audit-ready documentation that streamlines reviews and improves transparency.To link documents from your repository to a model record, refer to [Link existing documents to a model record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/link-existing-documents-model-record.md).
 
 </td><td>
 
@@ -139,7 +139,7 @@ Model Issue &amp; Remediation
 
 </td><td>
 
-Enables timely detection and resolution of model issues, minimizing business disruption and confirming continuous compliance.To report an issue, refer to [[create-an-issue-for-model-risk|Create an issue for model]].
+Enables timely detection and resolution of model issues, minimizing business disruption and confirming continuous compliance.To report an issue, refer to [Create an issue for model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-an-issue-for-model-risk.md).
 
 </td><td>
 
@@ -152,20 +152,8 @@ Enables timely detection and resolution of model issues, minimizing business dis
 
 To learn more about configuring and using Model Risk Management, see:
 
--   [[configuring-mrm|Configuring Model Risk Management]]
+-   [Configuring Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configuring-mrm.md)
 -   [Configure scoring logic for model risk assessments](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2287605)
--   [[using-mrm|Using Model Risk Management]]
--   [[mrm-reference|Model Risk Management reference]]
+-   [Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
+-   [Model Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mrm-reference.md)
 
-## Related
-
-- [[perform-model-risk-assessment|Perform model risk assessment]]
-- [[perform-model-risk-validation|Perform model validation]]
-- [[link-existing-documents-model-record|Link existing documents to a model record]]
-- [[create-an-issue-for-model-risk|Create an issue for model]]
-- [[configuring-mrm|Configuring Model Risk Management]]
-- [[using-mrm|Using Model Risk Management]]
-- [[mrm-reference|Model Risk Management reference]]
-- [[model-risk-management|Model Risk Management]]
-- [[employee-center|employee center]]
-- [[model-risk-workspace|Model Risk Workspace]]

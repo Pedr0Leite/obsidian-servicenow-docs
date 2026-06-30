@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MIDSystem methods
 
-MIDSystem variables \(referred to by the variable name ms.\) provide a variety of methods to get information about the [[mid-server-landing|MID Server]].
+MIDSystem variables \(referred to by the variable name ms.\) provide a variety of methods to get information about the MID Server.
 
 <table id="table_lhn_gsf_khb"><tbody><tr><td>
 
@@ -67,6 +67,3 @@ This example writes a message to the log:
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

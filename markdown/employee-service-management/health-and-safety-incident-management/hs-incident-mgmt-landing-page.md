@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety, Employee Service Management]
 
 # Health and Safety Incident Management
 
-The ServiceNow® Health and Safety Incident Management application is a solution in [[health-safety-overview|Health and Safety]] that enables organizations to record, track, and report on health and safety related employee incidents and observations. Furthermore, it provides capabilities to investigate and reduce incidents.
+The ServiceNow® Health and Safety Incident Management application is a solution in Health and Safety that enables organizations to record, track, and report on health and safety related employee incidents and observations. Furthermore, it provides capabilities to investigate and reduce incidents.
 
 This solution automates processes that facilitate cross-departmental collaboration and enable everyone to monitor and track incident status, from initiation to resolution and reporting needs.
 
@@ -22,7 +22,7 @@ This solution automates processes that facilitate cross-departmental collaborati
 
 The image shows an overview of Health and Safety Incident Management and its capabilities such as:
 
--   Report incidents and observations through mobile or [[employee-center-landing-page|Employee Center]].
+-   Report incidents and observations through mobile or Employee Center.
 -   Report safety concern anonymously through the **Anonymous Report Center**.
 -   Investigate incidents and log injuries
 -   Mitigate incidents through tools such as root cause analyses and actions
@@ -54,13 +54,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

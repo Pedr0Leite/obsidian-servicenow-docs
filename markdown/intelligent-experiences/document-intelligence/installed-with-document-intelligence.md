@@ -14,9 +14,9 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 # Components installed with Document Intelligence
 
-Several types of components are installed with activation of the [[document-intelligence-landing|Document Intelligence]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Document Intelligence plugin, including tables and user roles.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Roles installed with Document Intelligence
 
@@ -104,7 +104,7 @@ DocIntel Manager
 
 </td><td>
 
-Creates and edits use [[cases|cases]], fields, field groups, and document tasks. Views, measures, and analyzes the usage and effectiveness of Document Intelligence using the Platform Document Intelligence Usage dashboard. Grants access to submit document tasks and interact with the Document Intelligence workspace.
+Creates and edits use cases, fields, field groups, and document tasks. Views, measures, and analyzes the usage and effectiveness of Document Intelligence using the Platform Document Intelligence Usage dashboard. Grants access to submit document tasks and interact with the Document Intelligence workspace.
 
 </td><td>
 
@@ -136,7 +136,7 @@ Billable Event
 
 </td><td>
 
-Contains all the billable events for the instance. A billable event corresponds to pages that have been processed [[doc-intel-using|using Document Intelligence]].
+Contains all the billable events for the instance. A billable event corresponds to pages that have been processed using Document Intelligence.
 
 </td></tr><tr><td>
 
@@ -336,7 +336,7 @@ DocIntel Training Input
 
 </td><td>
 
-\[Internal table\] Contains the data needed to improve the [[ai-models|AI models]].
+\[Internal table\] Contains the data needed to improve the AI models.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Document Intelligence references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/docintel-references.md)
@@ -368,10 +368,3 @@ DocIntel Training Input
 
 [Limitations in Document Intelligence]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]
-- [[doc-intel-using|Using Document Intelligence]]
-- [[ai-models|AI models]]

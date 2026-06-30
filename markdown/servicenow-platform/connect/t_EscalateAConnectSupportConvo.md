@@ -14,7 +14,7 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Escalate a Connect Support conversation
 
-If an escalation path is defined for a [[c_ConnectSupport|Connect Support]] conversation, you can use a shortcut to escalate a Connect Support conversation to a different queue.
+If an escalation path is defined for a Connect Support conversation, you can use a shortcut to escalate a Connect Support conversation to a different queue.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Define an escalation path for the queue, using the **Escalate to** field on the 
 
 1.  Open a Connect Support conversation.
 
-2.  At the bottom of the conversation, click the menu icon \(\[Omitted image "IconMenu.png"\] Alt text: Menu icon\) to open the [[c_Connect|Connect]] actions menu.
+2.  At the bottom of the conversation, click the menu icon \(\[Omitted image "IconMenu.png"\] Alt text: Menu icon\) to open the Connect actions menu.
 
 3.  In the Connect actions menu, select **Escalate**.
 
@@ -34,7 +34,4 @@ Define an escalation path for the queue, using the **Escalate to** field on the 
 
     The system automatically removes you from the conversation and the conversation enters the escalated queue.
 
-## Related
 
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]

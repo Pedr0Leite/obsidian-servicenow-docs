@@ -30,7 +30,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in AWS Security Hub
 
-The AWS Security Hub integration with ServiceNow [[sir-landing-page|Security Incident Response]] \(SIR\) supports domain separation, enabling you to route AWS Security Hub findings into the appropriate domain-scoped security incidents.
+The AWS Security Hub integration with ServiceNow Security Incident Response \(SIR\) supports domain separation, enabling you to route AWS Security Hub findings into the appropriate domain-scoped security incidents.
 
 Follow these steps to achieve domain separation:
 
@@ -52,6 +52,3 @@ The following example shows how to replicate the AWS Security Hub comments and S
 
 \[Omitted image "aws-domain-sep.png"\] Alt text: AWS Domain Separation
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

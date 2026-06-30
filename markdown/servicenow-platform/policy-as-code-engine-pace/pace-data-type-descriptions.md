@@ -46,7 +46,7 @@ Choice
 
 </td><td>
 
-Script that returns an array of choices that will be displayed for selection in a drop-down menu. If you select the **Multi select** [[check-box|check box]], then multiple options can be selected from the drop-down. If it’s unselected, then only one option can be selected.
+Script that returns an array of choices that will be displayed for selection in a drop-down menu. If you select the **Multi select** check box, then multiple options can be selected from the drop-down. If it’s unselected, then only one option can be selected.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Number with up to two digits after the decimal points.
 
 </td></tr><tr><td>
 
-[[email|Email]]
+Email
 
 </td><td>
 
@@ -90,7 +90,7 @@ Number with zero decimal points.
 
 </td></tr><tr><td>
 
-[[ip-address|IP Address]]
+IP Address
 
 </td><td>
 
@@ -114,7 +114,7 @@ Date, which can be selected with a calendar widget.
 
 </td></tr><tr><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -126,7 +126,7 @@ String
 
 </td><td>
 
-For 255 characters or less, the string field is a [[single-line-text|single-line text]] field.
+For 255 characters or less, the string field is a single-line text field.
 
 </td></tr><tr><td>
 
@@ -146,11 +146,3 @@ Boolean field that appears as a one-digit integer.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[check-box|Check box]]
-- [[email|Email]]
-- [[ip-address|IP Address]]
-- [[reference|Reference]]
-- [[single-line-text|Single-line text]]

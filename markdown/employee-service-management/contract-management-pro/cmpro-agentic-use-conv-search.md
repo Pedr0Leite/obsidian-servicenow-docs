@@ -14,7 +14,7 @@ breadcrumb: [Use agentic workflows, Now Assist in CM Pro, Contract Management Pr
 
 # Conversational contract search and insights Workflow
 
-[[cncore-conf-converse-skill|Configure conversational contract search and insights]] workflow to enable searching information in contracts using natural language and dialogue-driven queries, making it easier to find relevant information.
+Configure conversational contract search and insights workflow to enable searching information in contracts using natural language and dialogue-driven queries, making it easier to find relevant information.
 
 ## Conditions for the Agentic Workflow to trigger
 
@@ -31,6 +31,3 @@ Conversational query supports the following types of searches:
 -   Combined queries related to fields in the contract AND clauses within the contract document. Example: List contracts for Acme vendor with Confidentiality clause.
 -   Summarization and Q&amp;A on contract documents. Example: Summarize the contract CNTR21002.
 
-## Related
-
-- [[cncore-conf-converse-skill|Configure Conversational contract search and insights]]

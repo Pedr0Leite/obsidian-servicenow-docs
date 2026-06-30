@@ -23,7 +23,7 @@ Create and manage monetary benefit plans to capture the potential benefits while
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Create a monetary benefit plan using one of the options.
 
@@ -57,7 +57,7 @@ Procedure
 
 
 </td></tr></tbody>
-</table>3.  On the [[benefit-plan-form-project-management|Benefit Plan form]], fill the fields.
+</table>3.  On the Benefit Plan form, fill the fields.
 
 4.  Select **Save**.
 
@@ -69,7 +69,3 @@ Capture the actual benefit from the planned benefits to measure revenue and calc
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

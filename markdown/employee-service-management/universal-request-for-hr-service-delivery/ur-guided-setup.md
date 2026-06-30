@@ -14,7 +14,7 @@ breadcrumb: [Exploring Universal Request, Universal Request, Employee Service Ma
 
 # Guided setup for Universal Request
 
-Before you start using the ServiceNow® [[ur-landing-limitedaccess|Universal Request]] application in your organization, you must set up Universal Request. Work with your stakeholders to define requirements for setting up the application effectively to meet the needs of your organization.
+Before you start using the ServiceNow® Universal Request application in your organization, you must set up Universal Request. Work with your stakeholders to define requirements for setting up the application effectively to meet the needs of your organization.
 
 ## Requirement
 
@@ -46,6 +46,3 @@ Navigate to **Universal Request** &gt; **Administration**, open the following gu
 
 **Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

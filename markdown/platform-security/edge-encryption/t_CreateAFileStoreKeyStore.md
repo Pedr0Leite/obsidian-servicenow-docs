@@ -14,7 +14,7 @@ breadcrumb: [Set up a keystore and encryption keys, Install the Edge Encryption 
 
 # Create an encryption key stored in a file
 
-You can use a simple text file as a keystore. Each file holds a single [[encryption-landing|encryption]] key.
+You can use a simple text file as a keystore. Each file holds a single encryption key.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ Place the encryption key, exactly 32 bytes, into the file.
 
 **Parent Topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]

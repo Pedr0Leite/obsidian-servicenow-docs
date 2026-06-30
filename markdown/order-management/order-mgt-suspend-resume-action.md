@@ -12,11 +12,11 @@ breadcrumb: [Managing post-fulfillment order changes, Order Management, Use, Sal
 
 # Suspend and resume products and services
 
-You can use [[Suspend|suspend]] and [[Resume|resume]] actions to temporarily suspend or inactivate your product and service inventories. That way, you can capture a customer's suspend request and resume the products and services later.
+You can use suspend and resume actions to temporarily suspend or inactivate your product and service inventories. That way, you can capture a customer's suspend request and resume the products and services later.
 
 ## About suspend and resume actions
 
-You can temporarily suspend or inactivate your product and service inventories. The suspend and resume requests are managed as orders with the changes in the inventory of the product and service orders during the [[order-mgt-order-decomposition|order decomposition]] and fulfillment process. An order suspension and resume action can occur immediately or at a future date.
+You can temporarily suspend or inactivate your product and service inventories. The suspend and resume requests are managed as orders with the changes in the inventory of the product and service orders during the order decomposition and fulfillment process. An order suspension and resume action can occur immediately or at a future date.
 
 With suspend and resume actions, you can do the following tasks:
 
@@ -55,25 +55,16 @@ In the suspend or resume type of customer orders, the parent order has precedenc
 
 If the top order line item for suspend or resume action is scheduled for a future date, the entire inventory hierarchy is then considered for the suspend or resume action. Child order line items are considered for suspend or resume action when they’re combined with a change or a no-change action.
 
-For an inflight change of the suspend or resume type order, only Cancellation is supported. If an order line item or the entire order gets canceled, the Product inventory Operations record is marked as Canceled during the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process. The state change doesn't occur for the Product inventory record.
+For an inflight change of the suspend or resume type order, only Cancellation is supported. If an order line item or the entire order gets canceled, the Product inventory Operations record is marked as Canceled during the order fulfillment process. The state change doesn't occur for the Product inventory record.
 
 In the order creation process for the suspend or resume action, you can use the external inventory ID in the payload instead of the system-generated ID for the inventory.
 
-**Parent Topic:**[[managing-orders|Managing post-fulfillment order changes]]
+**Parent Topic:**[Managing post-fulfillment order changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/managing-orders.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[managing-orders|Managing post-fulfillment order changes]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[order-mgt-order-decomposition|Order decomposition]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

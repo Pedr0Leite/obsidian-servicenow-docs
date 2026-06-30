@@ -14,7 +14,7 @@ breadcrumb: [Integrate Azure Monitor as an authenticated data source, Integrate 
 
 # Configure Azure Monitor Bi-directional connector
 
-The Azure Monitor Pull connector sends information from ServiceNow [[c_EM|Event Management]] to the Azure Portal. The pull connector sends the alert state changes from the ServiceNow environment to the Azure Portal.
+The Azure Monitor Pull connector sends information from ServiceNow Event Management to the Azure Portal. The pull connector sends the alert state changes from the ServiceNow environment to the Azure Portal.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ Multiple alerts from the Azure Portal may be mapped to a single ServiceNow alert
 
 **Parent Topic:**[Integrate Azure Monitor as an authenticated data source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/azure-integration.md)
 
-## Related
-
-- [[c_EM|Event Management]]

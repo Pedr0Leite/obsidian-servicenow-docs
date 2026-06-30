@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Manage MITRE relationships
 
-Manage the MITRE [[stix-relationships|relationships]] information that you imported from the MITRE TAXII collections.
+Manage the MITRE relationships information that you imported from the MITRE TAXII collections.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Repository** &gt; **MITRE Relationships**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Repository** &gt; **MITRE Relationships**.
 
-    You can view the listed [[tools|tools]].
+    You can view the listed tools.
 
 2.  Click a source object to view all the associated information.
 
@@ -37,9 +37,9 @@ Role required:
 
 ## What to do next
 
-Use the [[view-techniques|techniques module]] to add or modify the MITRE relationships data.
+Use the [techniques module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-techniques.md) to add or modify the MITRE relationships data.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -70,7 +70,7 @@ Use the [[view-techniques|techniques module]] to add or modify the MITRE relatio
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -90,11 +90,3 @@ Use the [[view-techniques|techniques module]] to add or modify the MITRE relatio
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[view-techniques|Manage techniques]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[stix-relationships|Relationships]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]
-- [[data-component|Data Component]]

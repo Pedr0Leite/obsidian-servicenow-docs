@@ -39,7 +39,7 @@ You can analyze the critical or high priority security incidents, or SLAs that n
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Security Incident Response**.
 
 2.  Click the **SIR Dashboards** icon on the left side of the workspace homepage.
 
@@ -49,6 +49,4 @@ You can analyze the critical or high priority security incidents, or SLAs that n
 
 4.  View the Security Incident Manager Overview for further action.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]

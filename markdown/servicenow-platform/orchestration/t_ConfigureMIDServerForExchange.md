@@ -14,7 +14,7 @@ breadcrumb: [Exchange activity pack, Orchestration activity packs, Classic Orche
 
 # Configure MID Server for Exchange
 
-Configure a [[mid-server-landing|MID Server]] with defined IP ranges to use Exchange.
+Configure a MID Server with defined IP ranges to use Exchange.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ If the MID Server manages resources within defined IP ranges, instead of all com
 
 4.  Right-click the form header and select **Save**.
 
-5.  In the **[[ip-address|IP Address]]** related list, click **New**.
+5.  In the **IP Address** related list, click **New**.
 
 6.  In the **IP Address** field, enter the IP address of your Exchange server.
 
@@ -47,7 +47,3 @@ If the MID Server manages resources within defined IP ranges, instead of all com
 
 **Parent Topic:**[Exchange activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationExchangeActivities.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

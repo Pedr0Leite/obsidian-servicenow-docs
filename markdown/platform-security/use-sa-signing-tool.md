@@ -24,7 +24,7 @@ To perform these steps, you must have the following:
 -   A private key for signing records.
 -   The `signRecords.sh` script in your local environment, with execute permission.
 
-    **Important:** The `signRecords.sh` script is included as part of the signing-tool jar file, which you must [[c_requestAPI|request]] from [ServiceNow customer support](https://support.servicenow.com/).
+    **Important:** The `signRecords.sh` script is included as part of the signing-tool jar file, which you must request from [ServiceNow customer support](https://support.servicenow.com/).
 
 
 ## Procedure
@@ -67,6 +67,4 @@ To perform these steps, you must have the following:
 
     For more information, see .
 
-## Related
 
-- [[c_requestAPI|request]]

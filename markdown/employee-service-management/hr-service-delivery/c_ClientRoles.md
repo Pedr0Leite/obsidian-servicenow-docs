@@ -14,7 +14,7 @@ breadcrumb: [Manage HR roles, HR Administration, Configure, Case and Knowledge M
 
 # Client roles
 
-You can control what HR functionality that an employee can access using Client Roles. You can license all employees or provide [[hr-service-administration|HR services]] to users in a specific location or group.
+You can control what HR functionality that an employee can access using Client Roles. You can license all employees or provide HR services to users in a specific location or group.
 
 Client roles define access within the application. For more information, see [Manage HR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManageRoles.md).
 
@@ -25,7 +25,7 @@ ServiceNow provides these roles and modifying them is not recommended. These rol
 
 Both roles contains conditions depending on the type of user:
 
--   Alumni \(only used when you have the [[alumni-service-center|Alumni Center]] installed\). For more information, see [Setting up your Alumni Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/alumni-center/asc-configure.md).
+-   Alumni \(only used when you have the Alumni Center installed\). For more information, see [Setting up your Alumni Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/alumni-center/asc-configure.md).
 -   Contingent
 -   Contractor
 -   Employee
@@ -42,15 +42,10 @@ Both roles contains conditions depending on the type of user:
 
 Client roles are defined and administered like regular roles. ServiceNow tracks them for licensing purposes.
 
-Assignment of client role rules is defined in the **[[t_ClientRoleAssignRules|Client Role Assignment Rules]]** module.
+Assignment of client role rules is defined in the **Client Role Assignment Rules** module.
 
 -   **[Client role assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ClientRoleAssignRules.md)**  
 Use Client Role Assignment Rules to automatically assign or reassign a role to an employee.
 
 **Parent Topic:**[Manage HR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManageRoles.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[alumni-service-center|Alumni Center]]
-- [[t_ClientRoleAssignRules|Client role assignment rules]]

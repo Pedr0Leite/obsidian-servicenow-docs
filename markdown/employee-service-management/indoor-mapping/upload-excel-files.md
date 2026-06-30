@@ -33,13 +33,13 @@ The Upload Excel files feature uses Import Sets to import the information from t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
-2.  On the **[[bulk-upload-hierarchy|Bulk hierarchy upload]]** card, select **Upload hierarchy**.
+2.  On the **Bulk hierarchy upload** card, select **Upload hierarchy**.
 
 3.  In the Upload Excel Files section, select **Upload hierarchy data**.
 
-4.  On the [[import-set-table|Load Data form]], fill in the fields; make sure that you import the campus file first.
+4.  On the Load Data form, fill in the fields; make sure that you import the campus file first.
 
     For a description of the field values, see [Load data form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/import-set-table.md).
 
@@ -53,7 +53,7 @@ The Upload Excel files feature uses Import Sets to import the information from t
 
 7.  Select a map from the Available maps column, then select **Add**.
 
-8.  After selecting the [[transform-maps-navex|transform maps]] that you want to run, select **Transform**.
+8.  After selecting the transform maps that you want to run, select **Transform**.
 
     The transform maps run in the order that they’re selected. After running the transform, you can view the import set for the loaded data.
 
@@ -64,9 +64,3 @@ You can repeat the procedure to import the Excel files for your buildings, and t
 
 Campuses and buildings are created based on precise geographical coordinates. You can preview your campus on the Map Studio after importing the files. For more information about viewing the map, see [Map preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/map-preview-indoor-mapping.md).
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[bulk-upload-hierarchy|Bulk hierarchy upload]]
-- [[import-set-table|Load data form]]
-- [[transform-maps-navex|Transform maps]]

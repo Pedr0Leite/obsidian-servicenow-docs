@@ -14,13 +14,13 @@ breadcrumb: [Admin Center reference, Admin Center, Get started, Administer the S
 
 # Admin Center roles
 
-[[admin-center-intro|Admin Center]] is installed with these roles.
+Admin Center is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System Administrator \[admin\]
 
-The admin role allows you to access admin home features, [[ac-achieve-business-objective|adoption blueprints]] and [[ac-configuration-hub|configuration hub]]. You can create your own personalized admin home page on your instance with the information that is most important to you.
+The admin role allows you to access admin home features, adoption blueprints and configuration hub. You can create your own personalized admin home page on your instance with the information that is most important to you.
 
 -   **Contains Roles**
 
@@ -47,9 +47,3 @@ The admin role allows you to access admin home features, [[ac-achieve-business-o
 
 **Parent Topic:**[Admin Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-reference.md)
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[admin-center-intro|Admin Center]]
-- [[ac-achieve-business-objective|Adoption blueprints]]
-- [[ac-configuration-hub|Configuration Hub]]

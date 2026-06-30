@@ -14,7 +14,7 @@ breadcrumb: [Maintaining privacy consent in Employee Readiness Core, Employee Re
 
 # Send an Emergency Outreach notification for employee privacy consents
 
-Send an [[emergency-outreach|Emergency Outreach]] notification, on demand, to employees to provide a privacy policy and seek consent to use of their data in accordance with the privacy policy.
+Send an Emergency Outreach notification, on demand, to employees to provide a privacy policy and seek consent to use of their data in accordance with the privacy policy.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_imt\_checkin.checkin\_admin
 
 2.  Review and edit an existing outreach record or click **New** to create one.
 
-3.  On the **[[safe-workplace|Safe Workplace]] Audience** tab, select the audience from the list and click **Save**.
+3.  On the **Safe Workplace Audience** tab, select the audience from the list and click **Save**.
 
     If you don't have an audience defined, click **New** and define an audience from user lists, groups, departments, locations, and so on. After you save the Safe Workplace audience, you can use it to send any outreach message.For more information, see [Add a Safe Workplace audience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/add-safe-workplace-audience.md).
 
@@ -80,7 +80,3 @@ If you need to resend the notification, navigate to **Emergency Outreach** &gt; 
 
 **Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core-privacy-consent.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[safe-workplace|Safe Workplace]]

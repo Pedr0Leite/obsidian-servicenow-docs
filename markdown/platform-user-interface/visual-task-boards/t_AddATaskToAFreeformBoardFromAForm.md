@@ -28,7 +28,7 @@ You can add cards from multiple task tables, such as Incident or Problem, to the
 
 1.  Open a task record, such as an incident.
 
-2.  Click the menu icon \(\[Omitted image "additionalIcon.png"\] Alt text: Menu icon\) or right-click the form header to show the [[c_FormContextMenu|form context menu]].
+2.  Click the menu icon \(\[Omitted image "additionalIcon.png"\] Alt text: Menu icon\) or right-click the form header to show the form context menu.
 
 3.  Select **Add to Visual Task Board**.
 
@@ -41,6 +41,3 @@ You can add cards from multiple task tables, such as Incident or Problem, to the
 
 **Parent Topic:**[Freeform Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_FreeformBoardTasks.md)
 
-## Related
-
-- [[c_FormContextMenu|Form context menu]]

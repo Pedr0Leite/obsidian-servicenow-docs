@@ -14,14 +14,14 @@ breadcrumb: [Plan your installation, Integrating ServiceNow with Microsoft Teams
 
 # Install Universal Request integration with Microsoft Teams application
 
-Install the [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] application \(sn\_uni\_req\_msteams\). You can initiate Microsoft Teams conversations within your ServiceNow instance by using this application. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+Install the Universal Request integration with Microsoft Teams application \(sn\_uni\_req\_msteams\). You can initiate Microsoft Teams conversations within your ServiceNow instance by using this application. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Universal Request integration with Microsoft Teams requires the following plugin. Ensure that the plugin is activated before you install Universal Request integration with Microsoft Teams.
     -   **Required ServiceNow plugins**
-        -   **[[ur-landing-limitedaccess|Universal Request]]: Virtual Agent Conversations \(com.snc.universal\_request.va\)**
+        -   **Universal Request: Virtual Agent Conversations \(com.snc.universal\_request.va\)**
 
             The Universal Request Virtual agent conversations plugin is required for the Virtual Agent functionalities to be activated.
 
@@ -62,7 +62,3 @@ Approve restricted caller access \(RCA\) privileges in the target scope so that 
 
 **Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/plan-installation-ms-teams.md)
 
-## Related
-
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]
-- [[ur-landing-limitedaccess|Universal Request]]

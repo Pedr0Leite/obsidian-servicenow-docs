@@ -16,7 +16,7 @@ breadcrumb: [Configure Event Management connectors, Event Management Integration
 
 You can configure listeners and connectors to push event information to the instance or MID Server.
 
-[[c_EM|Event Management]] receives external events through a push connector or script. If you are using a script to collect events, no configuration is required. All other methods of collecting events require configuration.
+Event Management receives external events through a push connector or script. If you are using a script to collect events, no configuration is required. All other methods of collecting events require configuration.
 
 After event collection configuration, Event Management can collect events that are sent directly to the instance, or via the MID Server, SNMP trap, or email.
 
@@ -97,6 +97,3 @@ Email listener. See [Configure event collection from email](https://raw.githubus
 
 [Push connector instance form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/push-connector-instance-form.md)
 
-## Related
-
-- [[c_EM|Event Management]]

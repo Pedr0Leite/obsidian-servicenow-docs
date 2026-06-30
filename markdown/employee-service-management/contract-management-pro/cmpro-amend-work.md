@@ -122,7 +122,7 @@ The state and the Contract status of the contract request is Work in progress.
 
     6.  Edit the document for the amendments requested.
 
-        While authoring or negotiating a contract revision, add clauses from the clause library listed in the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+        While authoring or negotiating a contract revision, add clauses from the clause library listed in the Microsoft Word add-in for ServiceNow Contracts.
 
 9.  Upload the revised contract document.
 
@@ -171,7 +171,7 @@ The state and the Contract status of the contract request is Work in progress.
 -   The following tabs are available within the contract repository record to view the amendment details:
     -   Details: View the changes done to the contract request for the amendment request. Example: If the end date is changed, it is reflected in the details section. \(Example: If the end date is changed, it will be reflected in the details section.\)
     -   Contract Documents: Provides access to all signed documents related to the contract, including those generated or updated as part of amendment processes. The amendment contract documents have **Amend&lt;version&gt;** \(Example: CNTR0010003 - Non Disclosure Agreement - Amend001\) appended to the name. The &lt;version&gt; is automatically incremented for each signed amendment, but not for intermediate amendment versions.
-    -   Contract Requests: Displays all [[cncore-expl-ss-nss-contracts|contract and amendment requests]] associated with the contract repository record.
+    -   Contract Requests: Displays all contract and amendment requests associated with the contract repository record.
     -   Amendment Field Changes: Shows a detailed log of all field changes made through amendments. Example: Change in the contract end date is available in this tab.
 
         \[Omitted image "snlc-amend-field-changes.png"\] Alt text: View the field changes due to amendment
@@ -180,7 +180,3 @@ The state and the Contract status of the contract request is Work in progress.
 
 **Parent Topic:**[Contract amendments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-amend-landing.md)
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-expl-ss-nss-contracts|Contract and amendment requests]]

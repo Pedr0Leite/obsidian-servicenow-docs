@@ -24,7 +24,7 @@ Role required: sn\_shop.procurement\_administrator
 
 1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Primary Data** &gt; **Suppliers**.
 
-    You can also navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **[[supplier|Supplier]]**.
+    You can also navigate to **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Supplier**.
 
 2.  Ensure that the **Punchout** check box is selected for the designated third-party supplier.
 
@@ -139,7 +139,7 @@ The URL used to initiate the punchout session to the supplier system.
 </td></tr></tbody>
 </table>    -   Select the **APIs exchange** check box and fill in the fields in the **APIs configuration** tab.
 
-        This option is designed for punchout suppliers using the Search API, Order API, and Product Details API, enabling shoppers to search for products, place orders, and view product details seamlessly within the [[shopping-hub-overview|Shopping Hub]] experience.
+        This option is designed for punchout suppliers using the Search API, Order API, and Product Details API, enabling shoppers to search for products, place orders, and view product details seamlessly within the Shopping Hub experience.
 
         |Field|Description|
         |-----|-----------|
@@ -165,9 +165,9 @@ When integrating with a punchout supplier, customers are required to provide spe
 -   **[Configure extension point for Product search API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-ext-point-punchout.md)**  
 The sn\_spend\_intg.ThirdPartySystemApiExtension scripted extension point provides the configuration that punchout suppliers can use to ensure that all details about their product, such as product's name, brand, manufacturer, price, availability, SKU, and so on, is displayed in Shopping Hub.
 -   **[Mapping Product Categories and Units of Measure for seamless checkout in Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/product-category-mapping-shoppinghub.md)**  
-You can map the product categories and units of measure for third-party products to the corresponding model categories. This ensures that during checkout, Shopping Hub accurately considers and displays the product category for the [[purchase-order-lines|purchase order lines]] \(POL\) and [[purchase-requisition|purchase requisition]] lines \(PRL\) based on your predefined mappings.
+You can map the product categories and units of measure for third-party products to the corresponding model categories. This ensures that during checkout, Shopping Hub accurately considers and displays the product category for the purchase order lines \(POL\) and purchase requisition lines \(PRL\) based on your predefined mappings.
 -   **[Add third-party catalog data in an Excel file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-third-party-catalog-spo.md)**  
-You can download and [[add-third-party-catalog-spo|add third-party catalog data in an Excel file]] template.
+You can download and add third-party catalog data in an Excel file template.
 
 **Parent Topic:**[Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md)
 
@@ -192,7 +192,7 @@ You can download and [[add-third-party-catalog-spo|add third-party catalog data 
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
 [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
@@ -206,15 +206,5 @@ You can download and [[add-third-party-catalog-spo|add third-party catalog data 
 
 [Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-[[my-purchases|My purchases on Shopping Hub]]
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-requisition|Purchase requisition]]
-- [[add-third-party-catalog-spo|Add third-party catalog data in an Excel file]]
-- [[universal-request|Universal Request]]

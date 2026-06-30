@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-When clicked, [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]] display for codeless user experience, facilitating upgrades to future releases. Advanced Map Pages do not support mobile. To display Map Pages on mobile devices, use the classic Map Page or the mobile map applet in the Now® Mobile app instead.
+When clicked, lists and forms display for codeless user experience, facilitating upgrades to future releases. Advanced Map Pages do not support mobile. To display Map Pages on mobile devices, use the classic Map Page or the mobile map applet in the Now® Mobile app instead.
 
 ## Procedure
 
@@ -45,14 +45,14 @@ When clicked, [[lists-configurable-workspace|lists]] and [[form-configurable-wor
 
 Click the **Create Map Data Item** related link, and complete the form.
 
--   **[[configure-map-data-items|Configure map data items]]**  
+-   **[Configure map data items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-data-items.md)**  
 Add map data items to render data on your Map Page using the Classic Environment.
--   **[[configure-map-markers|Create a map marker]]**  
+-   **[Create a map marker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-map-markers.md)**  
 Add a map marker icon and define the click behavior to differentiate between data on your Map Page using the Classic Environmentlis.
--   **[[set-up-map-filters|Add a map filter]]**  
+-   **[Add a map filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-map-filters.md)**  
 Add a map filter to display filtered map markers. This filter enables you to see only the map markers for the data that you want.
 
-**Parent Topic:**[[c_MapPages|Map pages]]
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_MapPages.md)
 
 **Related topics**  
 
@@ -69,11 +69,3 @@ Add a map filter to display filtered map markers. This filter enables you to see
 
 [Scripting for map pages]()
 
-## Related
-
-- [[configure-map-data-items|Configure map data items]]
-- [[configure-map-markers|Create a map marker]]
-- [[set-up-map-filters|Add a map filter]]
-- [[c_MapPages|Map pages]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

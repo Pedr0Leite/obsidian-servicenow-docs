@@ -14,7 +14,7 @@ breadcrumb: [Approval with e-signature, Classic approvals, Exploring Service Adm
 
 # Set up an approval from a local database
 
-Enable users to authorize [[e-signature|e-signature]] approvals using local database credentials.
+Enable users to authorize e-signature approvals using local database credentials.
 
 ## Before you begin
 
@@ -29,6 +29,3 @@ Role required: none
 
 **Parent Topic:**[Approval with e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/approval-with-e-signature.md)
 
-## Related
-
-- [[e-signature|E-signature]]

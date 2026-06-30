@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Complaint Management dashboard
 
-With the [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] dashboard, you can get an insight into how your team and business are performing for the complaints that were received for your [[fso-overview|financial services]]. You can monitor the status of the complaint service cases, see trends, and drill down into the details from a single view.
+With the Financial Services Complaint Management dashboard, you can get an insight into how your team and business are performing for the complaints that were received for your financial services. You can monitor the status of the complaint service cases, see trends, and drill down into the details from a single view.
 
 **Important:** The Financial Services Complaint Management dashboard has been modernized to give you a better user experience.
 
@@ -153,10 +153,5 @@ The following table shows the available filters in the Financial Services Compla
 |Complaint Category|Choice|Shows all the active complaint categories for the Complaint service \[sn\_bom\_compl\_service\] table.|
 |Complaint Type|Choice|Shows all the active complaint types for the Complaint service \[sn\_bom\_compl\_service\] table.|
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-overview|Financial Services]]

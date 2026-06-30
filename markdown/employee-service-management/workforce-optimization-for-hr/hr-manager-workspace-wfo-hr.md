@@ -14,7 +14,7 @@ breadcrumb: [Using Workforce Optimization for HR, Workforce Optimization overvie
 
 # Workforce Optimization for HR Manager workspace
 
-Monitor your teams' work and organizational performance [[use-wfo-hr|using Workforce Optimization for HR]]. Stay on top of the status of cases your teams are working on at a given time.
+Monitor your teams' work and organizational performance using Workforce Optimization for HR. Stay on top of the status of cases your teams are working on at a given time.
 
 
 
@@ -77,6 +77,3 @@ Graph of open and unassigned cases and graph of open cases since 10-15 days, 15-
 
 [Coaching in Workforce Optimization for HR]()
 
-## Related
-
-- [[use-wfo-hr|Using Workforce Optimization for HR]]

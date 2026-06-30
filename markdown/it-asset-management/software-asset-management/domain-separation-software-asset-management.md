@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Domain separation and Software Asset Management
 
-Domain separation is supported in [[c_SoftwareAssetMgmt|Software Asset Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Software Asset Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Enhanced
 
@@ -43,8 +43,8 @@ Multi-tenant support for Software Asset Management offers the following benefits
     -   Software reconciliation, optimization, and licensing expertise
     -   Audit response
     -   Software lifecycle and vulnerability reporting
-    -   [[sam-subscription-management|SaaS license management]]
-    -   [[concurrent-licenses|Engineering license management]]
+    -   SaaS license management
+    -   Engineering license management
 
 ## Customer benefits
 
@@ -67,7 +67,7 @@ In a domain-separated instance, the content data service \(CDS\) should populate
 
 Avoid customizing the base system domain configuration record. For more information, see [Recommended practice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md).
 
-\[Omitted image "mmasset0021805-ham-sam-multitenant.svg"\] Alt text: Diagram showing how a service provider manages the [[it-asset-management|IT Asset Management]] lifecycle for multiple tenant customers in a shared ServiceNow instance, with complete data and process separation between tenants
+\[Omitted image "mmasset0021805-ham-sam-multitenant.svg"\] Alt text: Diagram showing how a service provider manages the IT Asset Management lifecycle for multiple tenant customers in a shared ServiceNow instance, with complete data and process separation between tenants
 
 ## Required plugins
 
@@ -78,9 +78,9 @@ Avoid customizing the base system domain configuration record. For more informat
 ## Other supported plugins
 
 -   Service Catalog – Domain Separation \(com.glideapp.servicecatalog.domain\_separation\)
--   [[c_Procurement|Procurement]] \(com.snc.procurement\)
+-   Procurement \(com.snc.procurement\)
 -   Cost Management \(com.snc.cost\_management\)
--   [[c_ContractManagement|Contract Management]] \(com.snc.contract\_management\)
+-   Contract Management \(com.snc.contract\_management\)
 
 To learn more, see [Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md), [Contains queries and domain access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-contains-domain-visibility.md), and [Importance of Default domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-default-domain.md).
 
@@ -94,11 +94,3 @@ There are certain domain separation aspects to consider when running software li
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[concurrent-licenses|Engineering license management]]
-- [[it-asset-management|IT Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[c_ContractManagement|Contract Management]]

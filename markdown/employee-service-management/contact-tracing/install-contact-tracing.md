@@ -18,16 +18,16 @@ You can install Contact Tracing if you have the admin role.
 
 ## Before you begin
 
-The following applications are also installed when you install the [[contact-tracing|Contact Tracing]] application:
+The following applications are also installed when you install the Contact Tracing application:
 
--   ServiceNow® [[emergency-exposure-management|Emergency Exposure Management]]
--   ServiceNow® [[employee-readiness-core|Employee Readiness Core]]
+-   ServiceNow® Emergency Exposure Management
+-   ServiceNow® Employee Readiness Core
 
 You can also install and activate the following applications to use all Contact Tracing features:
 
--   ServiceNow® [[emergency-outreach|Emergency Outreach]]
--   ServiceNow® [[emergency-self-report|Emergency Self Report]]
--   ServiceNow® [[safe-workplace-dashboard|Safe Workplace Dashboard]]
+-   ServiceNow® Emergency Outreach
+-   ServiceNow® Emergency Self Report
+-   ServiceNow® Safe Workplace Dashboard
 
 Role required: admin
 
@@ -53,7 +53,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -79,18 +79,18 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
 -   Emergency Outreach \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
 -   Contact Tracing \(sn\_imt\_tracing\)
 -   Emergency Self Report \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
+-   Workplace Core \(sn\_wsd\_core\)
 -   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
 
@@ -203,7 +203,7 @@ Case manager\[sn\_imt\_tracing.case\_manager\]
 
 </td><td>
 
-Can create and manage outreach cases, run diagnostic requests to [[identify-exposed-contacts|identify potentially exposed contacts]]. Can create, assign, and supervise tasks.
+Can create and manage outreach cases, run diagnostic requests to identify potentially exposed contacts. Can create, assign, and supervise tasks.
 
 </td><td>
 
@@ -518,22 +518,3 @@ User interaction records captured using the proximity sensing data via their han
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[identify-exposed-contacts|Identify potentially exposed contacts]]

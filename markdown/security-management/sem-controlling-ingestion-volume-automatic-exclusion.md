@@ -12,11 +12,11 @@ breadcrumb: [Automating prioritization and triaging, Security Exposure Managemen
 
 # Controlling the ingestion volume with automatic exclusion
 
-Exclusion rules provide a way to filter or exclude detections from getting converted into VITs during the ingestion process in [[vuln-landing-page|Vulnerability Response]].
+Exclusion rules provide a way to filter or exclude detections from getting converted into VITs during the ingestion process in Vulnerability Response.
 
 These rules can be set up to handle various scenarios such as:
 
--   Excluding [[vulnerabilities|vulnerabilities]] with low severity or risk that don’t require immediate remediation.
+-   Excluding vulnerabilities with low severity or risk that don’t require immediate remediation.
 -   Improving the remediation process by prioritizing the most critical VITs for action.
 -   Reducing the processing time during data import by excluding a percentage of detections from VITs conversion.
 
@@ -32,16 +32,10 @@ During the process of ingesting data, there are distinct approaches for handling
         -   If one detection is marked as Closed while the remaining are excluded, the finding is designated as Closed Fixed.
         -   If the finding has open detections, then the finding remains Open.
 
-**Parent Topic:**[[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
+**Parent Topic:**[Automating prioritization and triaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-automating-prioritization-triaging.md)
 
 **Related topics**  
 
 
-[[sem-configure-exclusion-rules|Configuring exclusion rules]]
+[Configuring exclusion rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exclusion-rules.md)
 
-## Related
-
-- [[sem-automating-prioritization-triaging|Automating prioritization and triaging]]
-- [[sem-configure-exclusion-rules|Configuring exclusion rules]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -146,7 +146,7 @@ The contract template is saved in the Draft state.
 ## What to do next
 
 1.  To add participants with whom you must obtain signatures, see [Create and configure participants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-participants.md).
-2.  To [[insert-signatures|insert signatures]], open a **Signature\_** record in the **Template mappings** related list. For more information, see [Update contract template mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-template-mapping.md)
+2.  To insert signatures, open a **Signature\_** record in the **Template mappings** related list. For more information, see [Update contract template mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-template-mapping.md)
 
     1.  In **Document field type**, specify `Signature`.
     2.  In the **Participant** field, specify the participant with whom you require the signature.
@@ -176,6 +176,3 @@ The contract template is saved in the Draft state.
 
 [Update contract template mappings]()
 
-## Related
-
-- [[insert-signatures|Insert signatures]]

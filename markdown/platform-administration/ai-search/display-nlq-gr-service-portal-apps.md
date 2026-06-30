@@ -18,7 +18,7 @@ Configure the system to display search result preview lists for NLQ Genius Resul
 
 ## Before you begin
 
-Only perform this task if you want to use [[genius-result-nlq-ais|NLQ Genius Results]] in your Service Portal search applications. If you only use NLQ Genius Results in Next Experience search applications, you don't need to perform this task.
+Only perform this task if you want to use NLQ Genius Results in your Service Portal search applications. If you only use NLQ Genius Results in Next Experience search applications, you don't need to perform this task.
 
 Role required: admin
 
@@ -57,6 +57,3 @@ Administrators should set this system property's value to **true** if the NLQ Ge
 
 **Parent Topic:**[NLQ Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-nlq-ais.md)
 
-## Related
-
-- [[genius-result-nlq-ais|NLQ Genius Results]]

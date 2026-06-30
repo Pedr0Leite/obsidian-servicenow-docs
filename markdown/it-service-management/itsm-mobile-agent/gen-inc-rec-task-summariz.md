@@ -42,13 +42,10 @@ For more information on Now Assist for mobile, see [Now Assist for Mobile](https
 
 ## Activation of incident record summarization skill
 
-To enable the summarization feature in [[itsm-mobile-agent|ITSM Mobile Agent]] application, you must activate or customize the incident summarization skill from the Now Assist for ITSM admin console. For more information on activating and customizing the incident summarization skill, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/cust-now-assist-itsm-skill.md).
+To enable the summarization feature in ITSM Mobile Agent application, you must activate or customize the incident summarization skill from the Now Assist for ITSM admin console. For more information on activating and customizing the incident summarization skill, see [Customize a Now Assist for IT Service Management \(ITSM\) skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/cust-now-assist-itsm-skill.md).
 
 If you have already configured the incident summarization skill in the Now Assist for ITSM application console and then installed ITSM Mobile Agent application, you must do the following actions:
 
 1.  On the Input form actions table, filter the action records by **Label** with `Summarize`, and **Application** with `ITSM Mobile Agent`. The summarization records such as `Incident summarize action` and `Incident summarize action (Reassign)` are displayed.
 2.  Select the records and set the **Active** field to `true`.
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

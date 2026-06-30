@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Discover related items together with the main CI
 
-Add related items to the patterns to perform horizontal [[r-discovery|discovery]] of configuration items with all their related items: CIs or non-CIs, like ports or serial numbers.
+Add related items to the patterns to perform horizontal discovery of configuration items with all their related items: CIs or non-CIs, like ports or serial numbers.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Continue editing the pattern by adding more steps as necessary. To view or use a
 
 **Next topic:**[Enhance patterns without modifying identification sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/modify-pattern-using-extensions.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

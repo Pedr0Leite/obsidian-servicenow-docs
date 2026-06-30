@@ -24,8 +24,8 @@ Role required: sam\_user
 
 1.  Open the Resource Value \[samp\_sw\_resource\_value\] table.
 
-    -   If you're using the [[sam-workspace|Software Asset Workspace]], open the [[operations-workspace|License operations view]]. From the License operations view, navigate to **Resource value** &gt; **Resource value**.
-    -   If you're using the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application, navigate to **All** &gt; **Software Asset** &gt; **Administration** &gt; **Resource Value**.
+    -   If you're using the Software Asset Workspace, open the License operations view. From the License operations view, navigate to **Resource value** &gt; **Resource value**.
+    -   If you're using the Software Asset Management classic application, navigate to **All** &gt; **Software Asset** &gt; **Administration** &gt; **Resource Value**.
 2.  Select **New**.
 
 3.  On the form, fill in the fields.
@@ -51,8 +51,3 @@ When subsequent reconciliations run, the Software Asset Management application d
 
 **Parent Topic:**[Add a custom license metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/add-custom-license-metric.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

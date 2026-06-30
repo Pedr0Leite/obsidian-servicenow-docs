@@ -14,7 +14,7 @@ breadcrumb: [Use, Process Mining, Platform Analytics]
 
 # Creating and tracking improvement initiatives
 
-View, create, and associate improvement initiatives from within the [[process-mining|Process Mining]] application.
+View, create, and associate improvement initiatives from within the Process Mining application.
 
 An improvement initiative contains goals to measure success, and phases that contain tasks with specific actions to complete the improvement.
 
@@ -31,6 +31,3 @@ Remove an associated improvement initiative from a project once you complete or 
 
 **Parent Topic:**[Using Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/use-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

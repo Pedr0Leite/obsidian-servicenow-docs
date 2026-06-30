@@ -14,7 +14,7 @@ breadcrumb: [Machine Identity Console, Identity]
 
 # Activating Machine Identity Console
 
-Activate the **Machine [[identity-landing|Identity]] Management** `com.glide.identity.machine_identity_management` to manage your service accounts which are used for integrations with ServiceNow.
+Activate the **Machine Identity Management** `com.glide.identity.machine_identity_management` to manage your service accounts which are used for integrations with ServiceNow.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the **Machine Identity Management** \(`com.glide.identity.machine_identity_management`\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the **Machine Identity Management** \(`com.glide.identity.machine_identity_management`\) plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -34,8 +34,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

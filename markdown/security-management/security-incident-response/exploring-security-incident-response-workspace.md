@@ -14,12 +14,12 @@ breadcrumb: [Security Incident Response Workspace, Security Incident Response, E
 
 # Exploring SIR Workspace
 
-[[threat-intelligence-security-center-overview|Explore]] [[sir-workspace-landing-page|Security Incident Response Workspace]] to understand how the security analysts and managers perform their day-to-day operations with an improved user experience, do a complete incident investigation, and get an overview of the security incidents, response tasks and SLAs assigned to the security analyst and team.
+Explore Security Incident Response Workspace to understand how the security analysts and managers perform their day-to-day operations with an improved user experience, do a complete incident investigation, and get an overview of the security incidents, response tasks and SLAs assigned to the security analyst and team.
 
 This section describes the following:
 
--   [[components-installed-with-analyst-workspace|SIR Workspace plugins]] and required roles.
--   Key [[key-features|SIR Workspace features]].
+-   SIR Workspace plugins and required roles.
+-   Key SIR Workspace features.
 
 -   **[SIR Workspace plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/components-installed-with-analyst-workspace.md)**  
 The following are the required applications to work with Security Incident Response Workspace \(sn\_si\_aw\) plugin.
@@ -38,9 +38,3 @@ The list view consists of the security incidents, response tasks, phishing email
 
 **Parent Topic:**[Security Incident Response Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/sir-workspace-landing-page.md)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[components-installed-with-analyst-workspace|SIR Workspace plugins]]
-- [[key-features|SIR Workspace features]]

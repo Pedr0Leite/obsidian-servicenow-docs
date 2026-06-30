@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d362543e133">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -119,7 +119,7 @@ To connect using OAuth 2.0 with a JWT, you must first perform the following:
 -   [Create and configure a GitHub App](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-github-apps-oath-jwt.md)
 -   [Generate the Java KeyStore certificate for GitHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-github-apps-oath-jwt.md)
 -   [Attach the GitHub Java KeyStore certificate to your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-github-apps-oath-jwt.md)
- After completing the prerequisites, you can continue with the [[devops-landing-page-new|DevOps Change Velocity]] Connect playbook activity:
+ After completing the prerequisites, you can continue with the DevOps Change Velocity Connect playbook activity:
 
 1.  Select the **Use an existing JWT credential record** option if you want to use an already existing JWT credential record. If this option is not selected, the fields to create a new JWT credential record are displayed. Proceed to the next step.
 2.  In the **JKS certificate** field, select an existing JKS certificate. This is the name you entered to uniquely identify the JWT provider. JKS certificates are created using shell commands to create a sys\_certificate record.
@@ -150,7 +150,7 @@ For the installation id, go to Install App section in your GitHub App configurat
 
     3.  Enter a value in the **GitHub app slug name** field to check the permission requirements of the tool before connecting if you have created your Oauth 2.0 credentials using GitHub Apps.
 
-        You can find the app slug name on the [[settings-mobile|settings]] page of your app.
+        You can find the app slug name on the settings page of your app.
 
     4.  If your GitHub instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
@@ -292,8 +292,3 @@ If you are an upgrading customer, plans will be discovered for your repositories
 
 [Configure webhooks from the tool record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/configure-webhooks-from-the-tool-record.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure the scenario planning type and scope, Scenario Planning f
 
 # Impact of modifying the scenario planning type and scope
 
-Modifying the planning type and scope impacts the demands and project selection in your planning scenarios and [[portfolio-planning-app-landing-page|portfolio planning]]. You can change the planning type and scope at any time during portfolio planning.
+Modifying the planning type and scope impacts the demands and project selection in your planning scenarios and portfolio planning. You can change the planning type and scope at any time during portfolio planning.
 
 ## Changing the planning type
 
@@ -52,6 +52,3 @@ Changing the planning scope from a single selected portfolio to all portfolios h
 
 **Parent Topic:**[Configure the scenario planning type and scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/configure-scenario-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Migrate, Legal Simple Contracts, Legal Service Delivery Practice Ap
 
 # Migrate to Contract Management Pro for Legal Service Delivery from Legal Simple Contracts
 
-As a legal contracts administrator, migrate data from [[legal-simple-contracts-landing-page|Legal Simple Contracts]] to [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] using the migration script.
+As a legal contracts administrator, migrate data from Legal Simple Contracts to Contract Management Pro for Legal Service Delivery using the migration script.
 
 ## Before you begin
 
@@ -75,7 +75,3 @@ A migration utility copies data from Legal Simple Contracts tables to Contract M
 
 **Parent Topic:**[Migrating to Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/migration-landing-page.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]

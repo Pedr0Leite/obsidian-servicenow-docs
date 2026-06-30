@@ -18,7 +18,7 @@ Managing a crisis event in BCM UIB Workspace helps you to minimize the downtime 
 
 Creating a crisis event includes these steps:
 
--   BCM program manager creates a crisis event either from the Home page or the Crisis events record page in the [[list-view-uib-ws|List view]] of the BCM UIB Workspace.
+-   BCM program manager creates a crisis event either from the Home page or the Crisis events record page in the List view of the BCM UIB Workspace.
 -   BCM program manager adds additional details for the crisis event such as an asset, plan, and event task.
 -   BCM program manager submits the event task related to the exercise event for an approval.
 -   Assigned BCM program manager reviews the details on the event task and approves the event.
@@ -33,14 +33,9 @@ if you are the BCM program manager, you can create a crisis event in Business Co
 
     \[Omitted image "crisis-events-homepage.png"\] Alt text: Crisis events tab in the Home page.
 
-    For the description of the cards and action buttons in the **Crisis events** tab of the Home page, see [[home-page-uib-ws|Home page view]].
+    For the description of the cards and action buttons in the **Crisis events** tab of the Home page, see [Home page view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
 -   You can also navigate to the List view and select **New** in the Crisis events records.
 
-To create a crisis event in Business Continuity Workspace, see [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]].
+To create a crisis event in Business Continuity Workspace, see [Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md).
 
-## Related
-
-- [[home-page-uib-ws|Home page view]]
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[list-view-uib-ws|List view]]

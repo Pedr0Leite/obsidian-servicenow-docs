@@ -16,9 +16,9 @@ breadcrumb: [Preconfigured metrics and dashboards, Explore, Sourcing and Procure
 
 Visually analyze how you’re placed with your work and achievements over a given period of time.
 
-**Note:** This dashboard is available only if you install the [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]] application.
+**Note:** This dashboard is available only if you install the Performance Analytics for Sourcing and Procurement Operations application.
 
-You can use the Procurement Buyer Dashboard to view all your open sourcing requests, [[negotiations|negotiations]], purchasing tasks, purchase requisitions, and expiring [[contracts|contracts]], in widgets that distinguish these by due dates. You can also view your achievements, which include your year-to-date total spend, further broken down by spend categorization, total savings, negotiation outcomes, and the average cycle time of your assigned sourcing requests and purchase requisitions.
+You can use the Procurement Buyer Dashboard to view all your open sourcing requests, negotiations, purchasing tasks, purchase requisitions, and expiring contracts, in widgets that distinguish these by due dates. You can also view your achievements, which include your year-to-date total spend, further broken down by spend categorization, total savings, negotiation outcomes, and the average cycle time of your assigned sourcing requests and purchase requisitions.
 
 ## End user and roles
 
@@ -31,18 +31,18 @@ You can use the Procurement Buyer Dashboard to view all your open sourcing reque
 ## Indicators
 
 -   Number of Open Purchasing Task
--   Number of Open [[purchase-requisition|Purchase Requisition]]
+-   Number of Open Purchase Requisition
 -   Number of Closed Purchase Requisitions - Monthly
 -   Purchase Requisition - Avg Cycle Time \(Days\) - Monthly
 -   Number of Closed Sourcing Requests - Monthly
--   Number of Open [[sourcing-request|Sourcing Request]]
+-   Number of Open Sourcing Request
 -   Number of Open Negotiations
 -   Sourcing Request - Avg Cycle Time \(Days\) - Monthly
 -   Number of Expiring Contracts
 
 ## Breakdowns
 
--   [[cost-center|Cost center]]
+-   Cost center
 -   Department
 -   Negotiation - AssignedTo
 -   PurchaseRequisition - AssignedTo
@@ -224,7 +224,7 @@ Widget
 
 </td><td>
 
-View the year-to-date sum of all the spend for [[purchase-lines|purchase lines]] managed by the buyer, excluding blanket purchase orders.
+View the year-to-date sum of all the spend for purchase lines managed by the buyer, excluding blanket purchase orders.
 
 </td></tr><tr><td>
 
@@ -238,7 +238,7 @@ Pie chart
 
 View the breakdown of your total year-to-date spend by addressable and non-addressable categories.
 
- The total spend is the sum of the total line amount on the [[purchase-order-table|purchase order]] line, excluding blanket purchase orders, where the logged-in user is also the one assigned, the state of the purchase order isn’t closed canceled, and the spend categorization is either addressable or non-addressable.
+ The total spend is the sum of the total line amount on the purchase order line, excluding blanket purchase orders, where the logged-in user is also the one assigned, the state of the purchase order isn’t closed canceled, and the spend categorization is either addressable or non-addressable.
 
 </td></tr><tr><td>
 
@@ -303,13 +303,3 @@ For information on how to work with widgets and data visualizations in configura
 
 **Parent Topic:**[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-## Related
-
-- [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]]
-- [[negotiations|Negotiations]]
-- [[contracts|Contracts]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[cost-center|Cost center]]
-- [[purchase-lines|Purchase lines]]
-- [[purchase-order-table|Purchase order]]

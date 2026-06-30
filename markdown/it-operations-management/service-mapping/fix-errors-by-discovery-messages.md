@@ -14,7 +14,7 @@ breadcrumb: [Fix errors in individual application service maps, Application serv
 
 # Fix errors in individual application services using discovery messages
 
-[[c_ServiceMappingOverview|Service Mapping]] does not offer semi-automated resolution options for errors that require advanced resolution. Fix such errors using symptoms and [[r-discovery|discovery]] messages.
+Service Mapping does not offer semi-automated resolution options for errors that require advanced resolution. Fix such errors using symptoms and discovery messages.
 
 ## Before you begin
 
@@ -109,7 +109,7 @@ The following error message displays for the configuration item: `Access is deni
 </td></tr><tr><td>
 
 -   The service instance map displays the warning icon \[Omitted image "MapWarningIcon.png"\] Alt text: The Warning icon instead of the load balancer CI.
--   The following discovery message is displayed: `Service Mapping triggered the horizontal discovery to find the host x.x.x.x, because this host was not in the CMDB. The horizontal discovery failed. See [[c_DiscoveryStatus|discovery status]] for more info`.
+-   The following discovery message is displayed: `Service Mapping triggered the horizontal discovery to find the host x.x.x.x, because this host was not in the CMDB. The horizontal discovery failed. See discovery status for more info`.
 
 
 </td><td>
@@ -244,8 +244,3 @@ Perform the following steps:1.  \(Optional for grayed out segments\) Identify th
 
 [Resolve pattern-related mapping errors]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

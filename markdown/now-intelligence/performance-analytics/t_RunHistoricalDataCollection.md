@@ -22,18 +22,18 @@ Role required: pa\_data\_collector or admin
 
 ## About this task
 
-Performance Analytics regularly collects scores from your data on an ongoing basis. When you first set up Performance Analytics for an application, or when you create new indicators or [[c_IndicatorSources|indicator sources]], run historical data collection to collect scores on your existing data. Historical data collection enables you to analyze data that existed prior to setting up Performance Analytics.
+Performance Analytics regularly collects scores from your data on an ongoing basis. When you first set up Performance Analytics for an application, or when you create new indicators or indicator sources, run historical data collection to collect scores on your existing data. Historical data collection enables you to analyze data that existed prior to setting up Performance Analytics.
 
 **Warning:**
 
 -   Avoid running a historical collection job more than once. If for example you create a new indicator, consider creating a new data collection job for that indicator instead of adding it to an existing job.
 -   A historical data collection job deletes any previously collected data for the periods and the indicators that the job covers. It does not delete data from outside that date range or for other indicators.
 
-Historical jobs also collect snapshots of the existing data. [[pa-snapshots|Performance Analytics snapshots]] are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for [[automated-indicators|automated indicators]] with **Collect records** selected.
+Historical jobs also collect snapshots of the existing data. Performance Analytics snapshots are the lists of records \(sys\_ids\) that are collected at the time that the scores for those records are collected. A snapshot is made only for automated indicators with **Collect records** selected.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Jobs**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Jobs**.
 
 2.  Select a historical data collection job, such as \[PA Change\] Historic Data Collection, or create a new historic data collection job.
 
@@ -54,9 +54,3 @@ After collecting historical data, use a scheduled data collection job to collect
 
 **Parent Topic:**[Collecting indicator scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ClctData.md)
 
-## Related
-
-- [[c_IndicatorSources|Indicator sources]]
-- [[pa-snapshots|Performance Analytics snapshots]]
-- [[automated-indicators|Automated indicators]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

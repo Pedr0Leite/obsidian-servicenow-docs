@@ -16,7 +16,7 @@ You can use this enrichment to work with ProductList items whenever there is an 
 
 The On BOM Response enrichment is enabled by default in environments and can be used to manipulate items in the ProductList whenever there is an update to the bill of materials \(BOM\).
 
-**Note:** The CPQ environment must include [[rules_101|rules]] with product actions, or there will be nothing for the enrichment to loop through.
+**Note:** The CPQ environment must include rules with product actions, or there will be nothing for the enrichment to loop through.
 
 \[Omitted image "cpq-enrichments-on-bom-response.png"\] Alt text: BOM response
 
@@ -89,6 +89,3 @@ The BOM Response enrichment might be used to:
 -   change attributes of products in the BOM that are reliant on some condition in the BOM, such as the quantity of free stickers given out once $100+ of tax has been quoted.
 -   remove a line item from the BOM.
 
-## Related
-
-- [[rules_101|Rules]]

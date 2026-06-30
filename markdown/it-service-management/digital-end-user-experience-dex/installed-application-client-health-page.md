@@ -14,7 +14,7 @@ breadcrumb: [Applications list, DEX Application and Device Health reference, Ref
 
 # Installed application — Client health page
 
-The installed application Client health section presents details on the [[dex-workspace-devices-tab|devices]] on which the Microsoft Configuration Manager \(MCM\) policy has run.
+The installed application Client health section presents details on the devices on which the Microsoft Configuration Manager \(MCM\) policy has run.
 
 ## Installed application client health page — MCM
 
@@ -32,7 +32,7 @@ Operating system
 
 </td><td>
 
-OS that manages and controls the device hardware and enables the execution of [[dex-workspace-application-tab|applications]], such as Windows or macOS.
+OS that manages and controls the device hardware and enables the execution of applications, such as Windows or macOS.
 
 </td></tr><tr><td>
 
@@ -121,7 +121,3 @@ Number of devices where a specific metric ran.
 </td></tr></tbody>
 </table>**Parent Topic:**[Applications list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/application-form.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-workspace-application-tab|Applications]]

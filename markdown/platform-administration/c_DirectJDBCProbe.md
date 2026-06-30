@@ -12,7 +12,7 @@ breadcrumb: [JDBCProbe, Supported integration interfaces, Integration options, I
 
 # Direct JDBC Probe
 
-A direct JDBC probe specifies all the [[r_DirectJDBCProbeParameters|parameters]] necessary in the outbound ECC Queue XML payload.
+A direct JDBC probe specifies all the parameters necessary in the outbound ECC Queue XML payload.
 
 It is a standalone probe that is decoupled from a JDBC Data Source and does not insert into an import set. The required field in the ECC Queue record for a direct JDBC probe is **Topic** and it must equal **JDBCProbe**. The **Source** field is reserved for the `sys_id` of the data source record in the case of a JDBC data source.
 
@@ -30,14 +30,10 @@ A direct JDBC probe has the following XML payload structure
     </select></parameter></parameters>
 ```
 
-**Parent Topic:**[[t_JDBCProbe|JDBCProbe]]
+**Parent Topic:**[JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
 **Related topics**  
 
 
 [JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
-## Related
-
-- [[t_JDBCProbe|JDBCProbe]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

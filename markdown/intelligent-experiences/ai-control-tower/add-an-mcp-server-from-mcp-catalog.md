@@ -14,7 +14,7 @@ breadcrumb: [Process flow of MCP servers Via AI Gateway, AI Gateway, Explore, AI
 
 # Add an MCP server from the MCP Catalog
 
-Add an MCP server from the Model Context Protocol \(MCP\) Catalog in the [[ai-control-tower-landing|AI Control Tower]].
+Add an MCP server from the Model Context Protocol \(MCP\) Catalog in the AI Control Tower.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_ai\_governance.ai\_steward
 
 ## Procedure
 
-1.  Navigate to **[[ai-assets|AI assets]]** &gt; **[[ai-inventory|AI asset inventory]]** &gt; **MCP servers**.
+1.  Navigate to **AI assets** &gt; **AI asset inventory** &gt; **MCP servers**.
 
 2.  Select **Add**.
 
@@ -58,11 +58,5 @@ Role required: sn\_ai\_governance.ai\_steward
 
 ## Result
 
-The MCP server is added to AI Control Tower with the status of In review and synced to [[ai-agent-studio|AI Agent Studio]] within 15 minutes.
+The MCP server is added to AI Control Tower with the status of In review and synced to AI Agent Studio within 15 minutes.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-agent-studio|AI Agent Studio]]

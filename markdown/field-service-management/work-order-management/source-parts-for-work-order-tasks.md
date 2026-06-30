@@ -14,11 +14,11 @@ breadcrumb: [Part requirements, Manage inventory in FSM, Manage work order tasks
 
 # Source parts for work order tasks
 
-[[c_SourceParts|Source parts]] from your preferred stockrooms or assignment groups to ensure work order tasks are completed promptly.
+Source parts from your preferred stockrooms or assignment groups to ensure work order tasks are completed promptly.
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
@@ -35,7 +35,7 @@ You can source parts for the work order task either manually or automatically.
 
     **Note:** Open a work order task that is in **Assigned** state. When a task is assigned to an agent the part requests are automatically sourced from their preferred stockroom if it has the parts. If any part isn’t available in the preferred stockroom, then agents can manually source from the assignment groups or stockrooms.
 
-3.  In the **[[c_PartRequirements|Part Requirements]]** tab, you can view a list of required parts for the task.
+3.  In the **Part Requirements** tab, you can view a list of required parts for the task.
 
 4.  To source parts manually, do the following:
 
@@ -58,8 +58,3 @@ You can source parts for the work order task either manually or automatically.
 
 Complete the transfer orders: If the agent sources parts from other stockrooms or assignment groups, a transfer order line is created automatically. You can then complete the transfer order, ensuring the parts are moved to the designated location.
 
-## Related
-
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[c_SourceParts|Source parts]]
-- [[c_PartRequirements|Part requirements]]

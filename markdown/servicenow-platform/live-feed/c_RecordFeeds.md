@@ -16,14 +16,14 @@ breadcrumb: [Administering Live Feed, Live Feed Core UI, Manage people and work 
 
 A record feed is a Live Feed group that is associated with a record, such as an incident or change.
 
-Record feeds allow users to work on tasks and other records through the Live Feed interface. Users can post messages in Live Feed that are automatically maintained as comments or [[c_WorkNotes|work notes]] on the record if the record has these journal fields.
+Record feeds allow users to work on tasks and other records through the Live Feed interface. Users can post messages in Live Feed that are automatically maintained as comments or work notes on the record if the record has these journal fields.
 
 You can use record feeds to do the following:
 
 -   Improve communication between users working on the same record.
 -   Improve visibility into progress for end users.
 -   Provide a single place to see updates on multiple records.
--   Save feed history in the record so that knowledge is not lost in an [[email|email]] chain.
+-   Save feed history in the record so that knowledge is not lost in an email chain.
 
 -   **[Activate the Live Feed Document plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_ActivateLiveFeedDocument.md)**  
 The Live Feed Document plugin is active by default.
@@ -47,7 +47,3 @@ Record feeds honor the access control rules \(ACLs\) for the associated record.
 
 [Provide access to Live Feed from CMS pages]()
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[email|Email]]

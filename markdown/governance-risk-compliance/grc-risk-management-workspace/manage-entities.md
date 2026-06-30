@@ -16,7 +16,7 @@ breadcrumb: [Explore, Risk Management, Governance, Risk, and Compliance]
 
 Entities are one of the most fundamental and crucial elements for using Governance, Risk, and Compliance. Entities can be people, processes, departments, applications or objects that are examined for risks.
 
-To effectively maintain the risk universe of your organization, we recommend that you define [[entity-type-in-risk-ws|entity types]], [[entity-class-in-risk-ws|entity classes]], and [[entity-tier-in-risk-ws|entity tiers]]. A risk universe refers to a list of risks that your organization either faces or might face in the future. The list contains a description of each risk's criticality and frequency. Entities are used within all offerings of GRC such as GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]], [[c_GRCAudits|Audit Management]], and GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]].
+To effectively maintain the risk universe of your organization, we recommend that you define entity types, entity classes, and entity tiers. A risk universe refers to a list of risks that your organization either faces or might face in the future. The list contains a description of each risk's criticality and frequency. Entities are used within all offerings of GRC such as GRC: Policy and Compliance Management, Audit Management, and GRC: Regulatory Change Management.
 
 -   **[Entities in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/what-is-an-entity.md)**  
 An entity is a person, process, department, application, or other object whose compliance exposure is tracked in GRC. Each entity has an owner, so non-compliant items and their owners can be identified individually.
@@ -27,14 +27,5 @@ Entity classes are used to tag your entities and to provide a complete view of t
 -   **[Entity tiers in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/entity-tier.md)**  
 By creating entity tiers, you can prioritize the entity classes.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-tier-in-risk-ws|Entity tiers]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

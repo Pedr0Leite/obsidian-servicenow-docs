@@ -14,7 +14,7 @@ breadcrumb: [Encryption]
 
 # Database Encryption
 
-ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for [[naai-data-protection|data protection]] which may require at-rest protection for all data.
+ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for data protection which may require at-rest protection for all data.
 
 **Important:** Starting with the Washington DC release, Database Encryption is being prepared for future deprecation. Cloud Encryption is the replacement solution for data at rest encryption. For details, see [Cloud Encryption with Key Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-overview.md)
 
@@ -40,14 +40,9 @@ ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods
 </table>-   **[Exploring Database Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/explore-database-encryption.md)**  
 ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for data protection which may require at-rest protection for all data.
 -   **[Requesting database key rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/request-dbkek-rotation.md)**  
-Rotate the database key annually or as needed by submitting a [[c_requestAPI|request]] to support.
+Rotate the database key annually or as needed by submitting a request to support.
 -   **[Database Encryption with Customer Controlled Switch](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/dbe-with-ccs.md)**  
 Database Encryption with Customer-Controlled Switch \(DBE-CCS\) is an encryption solution that encrypts all data-at-rest when not in use in the database.
 
-**Parent Topic:**[[encryption-landing|Encryption]]
+**Parent Topic:**[Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[naai-data-protection|Data protection]]
-- [[c_requestAPI|request]]

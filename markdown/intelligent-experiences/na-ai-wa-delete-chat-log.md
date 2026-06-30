@@ -25,7 +25,7 @@ Role required: now\_assist\_panel\_user
 
 As you're interacting with an AI agent, the text of your conversation with the AI agent is recorded in a chat log. The screenshots taken during the session are also recorded in the chat.
 
-While interacting with an AI agent in the [[now-assist-center-now-assist-panel|Now Assist panel]], the **Web view** tab displays the following notice from the title's information icon \[Omitted image "info-icon.png"\]:
+While interacting with an AI agent in the Now Assist panel, the **Web view** tab displays the following notice from the title's information icon \[Omitted image "info-icon.png"\]:
 
 **Screenshots are being captured by the system. You can delete the chat log if any sensitive information was captured.**
 
@@ -56,9 +56,5 @@ Review your chat log by selecting its title. Use the following procedure if you 
 
 The chat history and its screenshots are deleted from the system.
 
-**Parent Topic:**[[na-ai-wa-access-using-nap|Trigger an AI agent to execute adaptive path desktop actions]]
+**Parent Topic:**[Trigger an AI agent to execute adaptive path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-access-using-nap.md)
 
-## Related
-
-- [[na-ai-wa-access-using-nap|Trigger an AI agent to execute adaptive path desktop actions]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

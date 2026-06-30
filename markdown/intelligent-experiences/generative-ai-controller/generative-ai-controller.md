@@ -19,7 +19,7 @@ Use Generative AI Controller to integrate third-party large language models \(LL
 
 ## Get started
 
-Get started with Generative AI Controller to integrate directly with external LLMs. With Workflow Studio and Virtual Agent Designer, you can create your own use [[cases|cases]] for AI-generated text and sentiment analysis, including advanced workflows and custom scripts.
+Get started with Generative AI Controller to integrate directly with external LLMs. With Workflow Studio and Virtual Agent Designer, you can create your own use cases for AI-generated text and sentiment analysis, including advanced workflows and custom scripts.
 
 <table id="table_uc5_2v3_wwb" class="nav-card"><tbody><tr><td>
 
@@ -31,7 +31,7 @@ Get started with Generative AI Controller to integrate directly with external LL
 
 </td></tr><tr><td>
 
-[Reference \[Omitted image "icon-references-pi.png"\] Alt text: [[reference-for-generative-ai-controller|Reference for Generative AI Controller]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/reference-for-generative-ai-controller.md)
+[Reference \[Omitted image "icon-references-pi.png"\] Alt text: Reference for Generative AI Controller.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/reference-for-generative-ai-controller.md)
 
 </td><td>
 
@@ -54,10 +54,5 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-## Related
-
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[cases|Cases]]
-- [[reference-for-generative-ai-controller|Reference for Generative AI Controller]]

@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace Overview, Audit Management, Governance, Risk, and C
 
 # Approve or reject an engagement in Audit Workspace
 
-If you are an audit user and are assigned as an approver for an engagement, you can [[approve-reject-engagement|approve or reject an engagement]] in the **Awaiting Approval** state.
+If you are an audit user and are assigned as an approver for an engagement, you can approve or reject an engagement in the **Awaiting Approval** state.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_audit.user, sn\_audit\_ws.auditor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click the tasks icon \(\[Omitted image "TasksIcon.jpg"\] Alt text: Tasks icon\).
 
@@ -42,7 +42,3 @@ Role required: sn\_audit.user, sn\_audit\_ws.auditor
     -   If the engagement is approved and there are no remaining open tasks or issues, it automatically moves into the **Closed** state.
     -   If the engagement is rejected, it automatically moves back to the **Fieldwork** state
 
-## Related
-
-- [[approve-reject-engagement|Approve or reject an engagement]]
-- [[audit-management-overview-ws|Audit Workspace]]

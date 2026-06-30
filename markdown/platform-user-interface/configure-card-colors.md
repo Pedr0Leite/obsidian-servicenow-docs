@@ -12,7 +12,7 @@ breadcrumb: [Card illustrations, Image styles, Manage or edit a theme, Configuri
 
 # Configure colors for card illustrations
 
-[[configure-onboarding-modals|Configure]] and control the colors automatically applied to card illustrations images to keep your visual experience engaging while maintaining brand recognition.
+Configure and control the colors automatically applied to card illustrations images to keep your visual experience engaging while maintaining brand recognition.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ For information on granular roles, see [Granular admin roles](https://raw.github
 
 As a category, all card illustrations share color hook mappings. As a result, the colors that you apply to one card illustration type are also applied to the entire card illustration category.
 
-**Important:** Configuring card illustration colors applies to Workspaces and isn’t supported in the [[c_UI16|Core UI]].
+**Important:** Configuring card illustration colors applies to Workspaces and isn’t supported in the Core UI.
 
 ## Procedure
 
@@ -73,13 +73,7 @@ As a category, all card illustrations share color hook mappings. As a result, th
 
 The new colors are applied to all card illustration types.
 
-If your theme is published, your card illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your card illustration edits are visible to users who have your theme applied on refresh. For information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[card-illustrations-tb|Card illustrations in Theme Builder]]
+**Parent Topic:**[Card illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/card-illustrations-tb.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[card-illustrations-tb|Card illustrations in Theme Builder]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_UI16|Core UI]]

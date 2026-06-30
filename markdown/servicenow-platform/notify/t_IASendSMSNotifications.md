@@ -18,9 +18,9 @@ Update users on the latest communication on an incident through selected communi
 
 ## Before you begin
 
--   Role required: [[notify-landing-page|notify]]\_view, or notify\_setup\_admin
+-   Role required: notify\_view, or notify\_setup\_admin
 -   Activate the Notify plugin \(com.snc.notify\) if you want to send communication through SMS.
--   Set at least one communication channel for a communication task as SMS or [[email|email]].
+-   Set at least one communication channel for a communication task as SMS or email.
 
 ## Procedure
 
@@ -46,7 +46,3 @@ Update users on the latest communication on an incident through selected communi
 
 [Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentAlertManagement.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[email|Email]]

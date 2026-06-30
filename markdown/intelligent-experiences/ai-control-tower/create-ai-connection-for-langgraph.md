@@ -14,7 +14,7 @@ breadcrumb: [LangGraph, Service Graph Connectors for AI Control Tower, AI connec
 
 # Create an AI connection for LangGraph
 
-Create an AI connection for LangGraph in [[ai-control-tower-landing|AI Control Tower]] using the  [[langgraph|AI Service Graph Connector for LangGraph]].
+Create an AI connection for LangGraph in AI Control Tower using the  AI Service Graph Connector for LangGraph.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 ## Procedure
 
-1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **AI Control Tower** &gt; **Configuration** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -77,8 +77,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for LangGraph is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[langgraph|AI Service Graph connector for LangGraph]]
-- [[enterprise-ai-discovery|AI connections]]

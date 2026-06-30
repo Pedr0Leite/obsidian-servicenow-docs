@@ -14,7 +14,7 @@ breadcrumb: [Using ServiceNow Virtual Agent as a secondary bot with Virtual Agen
 
 # Create an auth token in the ServiceNow secondary instance
 
-To use ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] as a secondary bot with Virtual Agent Bot Interconnect, create an authentication token in the secondary instance.
+To use ServiceNow® Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect, create an authentication token in the secondary instance.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Ensure that the type of authentication \(Static or Hash\) and token or hash secr
 
 **Next topic:**[Create a Virtual Agent Bot Interconnect shell topic to call Virtual Agent secondary topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-va-topic-sn-primary-secondary-config.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

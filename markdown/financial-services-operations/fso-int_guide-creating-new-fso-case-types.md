@@ -38,8 +38,5 @@ When implementing, for example, ACH payment disputes, you may want to create a n
 -   The attributes needed to capture the ACH disputes
 -   Different teams processing disputes that have differing access and training requirements
 
-**Parent Topic:**[[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]
+**Parent Topic:**[Using case types and service definitions in FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-work_case_types.md)
 
-## Related
-
-- [[fso-int_guide-work_case_types|Using case types and service definitions in FSO]]

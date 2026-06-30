@@ -14,7 +14,7 @@ breadcrumb: [Using MFA, Multi-factor authentication, Authentication, Access Mana
 
 # Set up Multi-factor authentication on your user profile
 
-Enable [[mfa-landing|multi-factor authentication]] for your account in your user profile settings.
+Enable multi-factor authentication for your account in your user profile settings.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ Authenticator App
 
 </td><td>
 
-Time-Based One Time Password \(TOTP\) authenticator appSelect **Set up authenticator app** and follow the instructions on the screen to register for an authenticator app as the second factor for [[c_Authentication|authentication]].
+Time-Based One Time Password \(TOTP\) authenticator appSelect **Set up authenticator app** and follow the instructions on the screen to register for an authenticator app as the second factor for authentication.
 
 \[Omitted image "mfa-authenticator-app.png"\] Alt text: MFA Authenticator App setup screen
 
@@ -82,7 +82,3 @@ Multi-factor authentication is enabled for your user account. You will be prompt
 
 **Note:** You cannot disable multi-factor authentication on your account after you have enabled it. If you need to disable multi-factor authentication, contact your administrator.
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]

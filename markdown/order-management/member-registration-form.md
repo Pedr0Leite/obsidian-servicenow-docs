@@ -76,21 +76,15 @@ Role type
 
 </td><td>
 
-Type of role that is assigned to a member, whether Partner Manager or Partner Associate.To learn more about the roles installed with PRM, see [[roles-and-components-of-partner-relationship-management|Roles and components of Partner Relationship Management]].
+Type of role that is assigned to a member, whether Partner Manager or Partner Associate.To learn more about the roles installed with PRM, see [Roles and components of Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/roles-and-components-of-partner-relationship-management.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
 **Related topics**  
 
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-[[register-a-member-on-partner-portal|Register a member on Partner portal]]
+[Register a member on Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-a-member-on-partner-portal.md)
 
-## Related
-
-- [[roles-and-components-of-partner-relationship-management|Roles and components of Partner Relationship Management]]
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[register-a-member-on-partner-portal|Register a member on Partner portal]]

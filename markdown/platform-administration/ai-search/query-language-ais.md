@@ -14,7 +14,7 @@ breadcrumb: [Search, AI Search, Search administration, Configure core features, 
 
 # AI Search query language
 
-Learn how to construct search queries using terms, phrases, and [[ia-ai-search|AI Search]] query operators.
+Learn how to construct search queries using terms, phrases, and AI Search query operators.
 
 ## Search query terms and phrases
 
@@ -55,7 +55,7 @@ Quoted phrase search. Finds records that contain the term `conference` followed 
 </td></tr></tbody>
 </table>AI Search ignores letter case for search query terms and phrases. For example, searching for `PIN` finds records containing `PIN` and `pin`.
 
-**Note:** When processing search query terms, AI Search automatically strips out HTML and XML content by removing strings that start with `<` and end with `>`. As an example, if you enter `user <beth.anglin@example.com>` as your search terms, AI Search only searches for `user`. If you search for `<abel.tuter@example.com>`, AI Search treats the search as empty and returns no [[hs-results|results]]. This behavior isn't configurable.
+**Note:** When processing search query terms, AI Search automatically strips out HTML and XML content by removing strings that start with `<` and end with `>`. As an example, if you enter `user <beth.anglin@example.com>` as your search terms, AI Search only searches for `user`. If you search for `<abel.tuter@example.com>`, AI Search treats the search as empty and returns no results. This behavior isn't configurable.
 
 ## Boolean search operators
 
@@ -133,12 +133,7 @@ String wildcard operator. Include `*` in a search query term to match any string
 Universal wildcard operator. Specify `***` as a search query to find all indexed terms and thus all records.**Note:** AI Search doesn't apply relevancy ranking to `***` queries. Results from `***` queries appear in an unspecified order.
 
 </td></tr></tbody>
-</table>**Note:** When expanding search terms that contain `%` or `*` wildcard operators, AI Search ignores terms defined as [[stop-words-ais|stop words]]. For example, suppose you define `the` and `their` as stop words. A search for `the*` won't expand to match `the` or `their`, but will still match non-stop word terms such as `there` and `these`.
+</table>**Note:** When expanding search terms that contain `%` or `*` wildcard operators, AI Search ignores terms defined as stop words. For example, suppose you define `the` and `their` as stop words. A search for `the*` won't expand to match `the` or `their`, but will still match non-stop word terms such as `there` and `these`.
 
 **Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]

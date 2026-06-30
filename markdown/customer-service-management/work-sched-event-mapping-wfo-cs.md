@@ -90,13 +90,10 @@ Do this
 
 [Configure container components for Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/work-sched-card-based-container.md)
 
-**Parent Topic:**[[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-workscheduler-card-wfo-cs.md)
 
 **Related topics**  
 
 
 [Events in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-events.md)
 
-## Related
-
-- [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]

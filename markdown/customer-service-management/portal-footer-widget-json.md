@@ -62,7 +62,7 @@ sitemap\_links\_menu\_sys\_id
 
 </td><td>
 
-The system identifier \(sys\_id\) of the menu record is used to display sitemap links in the [[portal-footer-widget|Portal Polaris Footer widget]]. You can create a menu record and map it to the sitemap links by including its sys\_id in the JSON code. For more information on how to create a menu record, see [Menu Item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/menu-item-form.md).
+The system identifier \(sys\_id\) of the menu record is used to display sitemap links in the Portal Polaris Footer widget. You can create a menu record and map it to the sitemap links by including its sys\_id in the JSON code. For more information on how to create a menu record, see [Menu Item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/menu-item-form.md).
 
 </td></tr><tr><td>
 
@@ -82,7 +82,3 @@ The system identifier \(sys\_id\) of the menu record is used to display social l
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[portal-footer-widget|Portal Polaris Footer widget]]

@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_integration or agent\_client\_collector
 
 ## Procedure
 
-1.  In an [[c_EM|Event Management]] instance, enter `sn_agent_check_type.list` into the navigation bar.
+1.  In an Event Management instance, enter `sn_agent_check_type.list` into the navigation bar.
 
     The **Check Types** page appears.
 
@@ -52,6 +52,4 @@ Role required: agent\_client\_collector\_integration or agent\_client\_collector
 
 5.  Click **Submit**.
 
-## Related
 
-- [[c_EM|Event Management]]

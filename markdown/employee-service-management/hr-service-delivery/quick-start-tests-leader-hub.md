@@ -14,7 +14,7 @@ breadcrumb: [Install and configure, Leader Hub, HR Service Delivery, Employee Se
 
 # Quick start tests for Leader Hub
 
-Validate that [[td-lh-landing|Leader Hub]] still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Leader Hub still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 **Danger**
 
@@ -54,12 +54,12 @@ Release version
 
 </td><td>
 
--   Verifies that the following widgets are present on the [[td-lh-at-a-glance|At a glance page]] for user Maria Davies:
+-   Verifies that the following widgets are present on the At a glance page for user Maria Davies:
     -   Org talent
     -   Skill growth area
     -   Growth engagement
--   Verifies the employee card for the leader who has accessed Leader Hub appears at the top of the organizational chart on the [[td-lh-org-talent|Org talent page]].
--   Verifies that selecting the **[[td-lh-view-team-details|View team details]]** button on a card for an employee navigates the leader to the [[td-lh-team-details|Team details page]].
+-   Verifies the employee card for the leader who has accessed Leader Hub appears at the top of the organizational chart on the Org talent page.
+-   Verifies that selecting the **View team details** button on a card for an employee navigates the leader to the Team details page.
 
 -   Verifies that the Skills widget is present on the Org Skills page.
 
@@ -82,10 +82,3 @@ Run quick start tests to verify the Leader Hub app still works after each upgrad
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[td-lh-landing|Leader Hub]]
-- [[td-lh-at-a-glance|At a glance page]]
-- [[td-lh-org-talent|Org talent page]]
-- [[td-lh-view-team-details|View team details]]
-- [[td-lh-team-details|Team details page]]

@@ -52,7 +52,7 @@ Role required: sn\_oper\_res.manager
 
     \[Omitted image "ent-fil-active-field-on-form.png"\] Alt text: Activate the Entity filter.
 
-    Once this change is made for one entity filter, all the other records within the [[what-is-an-entity-filter|Entity filters]] list have the Active option set to **True** by default.
+    Once this change is made for one entity filter, all the other records within the Entity filters list have the Active option set to **True** by default.
 
 6.  Test the filter using the **Update entities from filter** button after adding or modifying the filter.
 
@@ -60,6 +60,4 @@ Role required: sn\_oper\_res.manager
 
     \[Omitted image "update-ent-from-filters.png"\] Alt text: Updates the entities in the Entities tab.
 
-## Related
 
-- [[what-is-an-entity-filter|Entity filters]]

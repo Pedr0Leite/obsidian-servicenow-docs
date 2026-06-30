@@ -12,7 +12,7 @@ breadcrumb: [View an assessment scorecard, Assessment administrator tasks, Using
 
 # Assessment scorecard categories
 
-The Categories view displays a bar chart showing the [[r_AverageRatings|average ratings]] for each category in the selected time interval.
+The Categories view displays a bar chart showing the average ratings for each category in the selected time interval.
 
 Select from these reporting periods:
 
@@ -22,7 +22,7 @@ Select from these reporting periods:
 
 \[Omitted image "ScorecardCategories.png"\] Alt text: Scorecard categories
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -41,7 +41,3 @@ Select from these reporting periods:
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[r_AverageRatings|Average ratings]]

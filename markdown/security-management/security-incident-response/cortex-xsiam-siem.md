@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Security Incident Response Integration with Cortex XSIAM by Palo Alto Networks
 
-Security Incident Response Integration with Cortex XSIAM by Palo Alto Networks ingests Alerts and Incidents from Cortex XSIAM into ServiceNow®'s [[sir-landing-page|Security Incident Response]] platform, enabling seamless post-incident management while maintaining bi-directional status and work note synchronization.
+Security Incident Response Integration with Cortex XSIAM by Palo Alto Networks ingests Alerts and Incidents from Cortex XSIAM into ServiceNow®'s Security Incident Response platform, enabling seamless post-incident management while maintaining bi-directional status and work note synchronization.
 
 ## Request apps on the Store
 
@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Security teams can leverage XSIAM's detection capabilities alongside ServiceNow®'s workflow Orchestration without manual updates or context switching for a rapid issue resolution.
 
-See the following graphic to learn how Cortex XSIAM integrates with the ServiceNow AI Platform [[security-operations-landing-page|Security Operations]] applications.
+See the following graphic to learn how Cortex XSIAM integrates with the ServiceNow AI Platform Security Operations applications.
 
 \[Omitted image "pan-xsiam.png"\] Alt text: Pan XSIAM process overview
 
@@ -38,7 +38,3 @@ Use the key features of this integration to do the following actions:
 -   Correlate incidents to existing open security incidents so that you don't have to create duplicate security incidents.
 -   Bi-directional synchronization of status, priority, and work notes between Cortex XSIAM and ServiceNow® SIR.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

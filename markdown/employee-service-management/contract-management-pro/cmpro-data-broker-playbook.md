@@ -38,7 +38,7 @@ Role required: admin
 
 5.  In the **Description** field, enter a description.
 
-    For example, `Whether to show or hide the Playbook tab on the [[legal-counsel-center-landing|Legal Counsel Center]]`
+    For example, `Whether to show or hide the Playbook tab on the Legal Counsel Center`
 
 6.  In the **Properties** field, add the following JSON configuration:
 
@@ -78,6 +78,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

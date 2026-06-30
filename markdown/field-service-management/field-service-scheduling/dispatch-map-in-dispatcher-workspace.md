@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Viewing agents and tasks in the Dispatcher Workspace map
 
-You can use the [[dispatcher-activities|Dispatcher Workspace]] map to track, manage, and analyze agent assignments and work order tasks in specific locations. The map is found in the [[dispatcher-dashboard|Dispatcher Dashboard]] and Dispatcher Workspace.
+You can use the Dispatcher Workspace map to track, manage, and analyze agent assignments and work order tasks in specific locations. The map is found in the Dispatcher Dashboard and Dispatcher Workspace.
 
 You can manage tasks and routing from the map, filter the view, and determine which agents are on time or behind schedule. The Dispatcher Workspace map uses geolocation data to display tasks and agents in field locations. When you select a map pin in the Dispatcher Workspace map, the record for that task or agent shows in the contextual side panel. The map pins serve as quick access points.
 
@@ -22,8 +22,8 @@ You can manage tasks and routing from the map, filter the view, and determine wh
 -   Map pins in the Dispatcher Workspace map mark the location of tasks and agents in the dispatcher's area. The icons serve as access points to corresponding records. Unique task pins are displayed based on the state of the work order task.
 -   Map pins corresponding to a single task or agent show in the contextual side panel with scheduling information.
 -   The map shows individual markers, not every task on the map. Showing individual markers is important because multiple tasks or agents might be at a single location, but only indicated by a single map marker.
--   To optimize performance, the map only renders current tasks that are loaded on the calendar, not every task that’s available. You can change this setting so that more tasks are loaded on the page, which causes more markers to show on the map. For more information, see [[configuring-filters-for-taskpanel|Determine the tasks to appear in the task panel]].
--   If you want to change each cluster to show the total count of tasks and agents, see the sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.cluster\_label property here: [[configuring-map-settings|Configure the appearance of the map in Dispatcher Workspace]].
+-   To optimize performance, the map only renders current tasks that are loaded on the calendar, not every task that’s available. You can change this setting so that more tasks are loaded on the page, which causes more markers to show on the map. For more information, see [Determine the tasks to appear in the task panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-filters-for-taskpanel.md).
+-   If you want to change each cluster to show the total count of tasks and agents, see the sn\_fsm\_disp\_wrkspc.dispatcher\_workspace.cluster\_label property here: [Configure the appearance of the map in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-map-settings.md).
 
 -   If an agent has a closed task today or a work in progress task, then the map pin shows the agent at the task location of whichever is latest: the task work end time for a closed task, or task work start time for a work in progress task. Otherwise, the map pin shows the agent's location in user record \(the default location\).
 
@@ -36,9 +36,3 @@ You can manage tasks and routing from the map, filter the view, and determine wh
 
 [Execute a task from the agent map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_ExecuteATaskFromTheAgentMap.md)
 
-## Related
-
-- [[configuring-filters-for-taskpanel|Determine the tasks to appear in the task panel]]
-- [[configuring-map-settings|Configure the appearance of the map in Dispatcher Workspace]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dispatcher-dashboard|Dispatcher dashboard]]

@@ -16,7 +16,7 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 The **glide.security.manager** property contains the Java classname of the current Java security manager.
 
-The **glide.security.manager** system property contains Java classname of current Java security manager. ServiceNow has standardized on the [[r_ContextualSecurity|Contextual Security Manager]]. If **glide.security.manager** is not set to the recommended value of `com.glide.sys.security.ContextualSecurityManager`, then the instance may be using an obsolete Java security manager, which is missing expected hardening [[ca-policies|policies]].
+The **glide.security.manager** system property contains Java classname of current Java security manager. ServiceNow has standardized on the Contextual Security Manager. If **glide.security.manager** is not set to the recommended value of `com.glide.sys.security.ContextualSecurityManager`, then the instance may be using an obsolete Java security manager, which is missing expected hardening policies.
 
 Ensure the property **glide.security.manager** is set to `com.glide.sys.security.ContextualSecurityManager`.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -109,9 +109,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[r_ContextualSecurity|Contextual Security Manager]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

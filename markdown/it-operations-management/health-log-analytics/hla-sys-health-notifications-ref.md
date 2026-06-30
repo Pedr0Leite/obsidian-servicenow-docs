@@ -16,7 +16,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 Health Log Analytics system health notifications help to ensure that you're aware of potentially dangerous conditions. You can manually adjust the status of a notification as the issue is being addressed.
 
-[[hla-landing-page|Health Log Analytics]] uses self-health checks to monitor the health of its components. When it discovers a system health issue, a notification is created and an email sent to all subscribers. The Health Log Analytics Administration **System Health - Notifications** list displays all HLA system health notifications, including those about internal errors. You can ask your admin to subscribe you to the system health notifications.
+Health Log Analytics uses self-health checks to monitor the health of its components. When it discovers a system health issue, a notification is created and an email sent to all subscribers. The Health Log Analytics Administration **System Health - Notifications** list displays all HLA system health notifications, including those about internal errors. You can ask your admin to subscribe you to the system health notifications.
 
 <table id="table_ozm_mz2_wmb"><thead><tr><th>
 
@@ -74,6 +74,3 @@ Field that indicates the status of the issue mentioned in the notification.The t
 </td></tr></tbody>
 </table>**Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

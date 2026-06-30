@@ -49,7 +49,7 @@ You can specify the following property settings:
     -   Enter `answer` to enable TPR assessors \[sn\_vdr\_risk\_asmt.vendor\_assessor\] to answer questions or modify responses \(default\).
     -   Enter `edit` to enable TPR assessors to modify responses.
     -   Enter `false` to not enable TPR assessors to answer questions or modify responses.
--   **[[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \[`sn_vdr_risk_asmt.sae_enabled`\]**
+-   **Smart Assessment Engine enabled \[`sn_vdr_risk_asmt.sae_enabled`\]**
 
     The option to use Smart Assessment Engine or Assessment Engine.
 
@@ -60,14 +60,10 @@ You can specify the following property settings:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **[[Administration|Administration]]** &gt; **Properties**
+1.  Navigate to **All** &gt; **Third-party Risk Management** &gt; **Administration** &gt; **Properties**
 
 2.  For each property, enter the value that meets your need.
 
     -   Each property entry describes the value to enter.
     -   To view the name of a property, select the help icon \[Omitted image "help-icon.png"\] Alt text:.
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

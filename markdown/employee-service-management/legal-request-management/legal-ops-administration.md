@@ -32,7 +32,7 @@ Configure the foundation data to provide legal request services to employees who
 
 4.  [External storage system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/integrate-legal-ext-storage.md)
 
-    [[cncore-integrate-ext-storage|Configure an external storage system]] to store documents attached to legal requests and legal matters . The integration with an external storage system enables organizations to have a centralized documentation management and retention policy.
+    Configure an external storage system to store documents attached to legal requests and legal matters . The integration with an external storage system enables organizations to have a centralized documentation management and retention policy.
 
 5.  [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-lsd-response-template.md)
 
@@ -44,7 +44,7 @@ Configure the foundation data to provide legal request services to employees who
 
 6.  [Email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md) Create or modify email notifications that are sent when specific events occur. Some possible event triggers might be: When a request is assigned to a legal department member to work on, a request is closed or canceled, or a message is posted to get additional information.
 
-    New email notification templates are available for [[legal-management-overview|Legal Service Delivery]] applications from [[legal-request-management-landing-page|Legal Request Management]] 4.2.2 version onwards when you also have the [[employee-center-landing-page|Employee Center]] installed. You can differentiate them from the existing ones by the **EC:** prefix in their names.
+    New email notification templates are available for Legal Service Delivery applications from Legal Request Management 4.2.2 version onwards when you also have the Employee Center installed. You can differentiate them from the existing ones by the **EC:** prefix in their names.
 
     -   These email notifications are active by default for new installations of Legal Request Management 5.0 version and later versions.
     -   These email notifications are inactive by default when you upgrade from Legal Request Management version earlier than 5.0. You must manually activate them while deactivating the existing notifications.
@@ -52,11 +52,11 @@ Configure the foundation data to provide legal request services to employees who
         To activate the email notifications based on the applications installed, the admin can run the following scripts:
 
         -   `Activate EC email template for legal req`: Activates email notifications for Legal Request Management.
-        -   `Activate EC email template for lg matter`: Activates email notifications for [[legal-matter-management-landing-page|Legal Matter Management]].
-        -   `Activate EC email template lg contracts`: Activates email notifications for [[legal-simple-contracts-landing-page|Legal Simple Contracts]].
-        -   `Activate EC email template for Legal COI`: Activates email notifications for [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]].
-        -   `Activate EC email template for lg stock`: Activates email notifications for [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]].
-        **Note:** Links in the new email notifications navigate to either Employee Center or [[legal-counsel-center-landing|Legal Counsel Center]] based on the user's role:
+        -   `Activate EC email template for lg matter`: Activates email notifications for Legal Matter Management.
+        -   `Activate EC email template lg contracts`: Activates email notifications for Legal Simple Contracts.
+        -   `Activate EC email template for Legal COI`: Activates email notifications for Legal Conflict of Interest.
+        -   `Activate EC email template for lg stock`: Activates email notifications for Legal Stock Preclearance.
+        **Note:** Links in the new email notifications navigate to either Employee Center or Legal Counsel Center based on the user's role:
 
         -   For requesters, the link in the email opens the Standard Ticket page in the Employee Center portal.
         -   For legal fulfillers, the link in the email opens the record form in the Legal Counsel Center.
@@ -68,7 +68,7 @@ Configure the foundation data to provide legal request services to employees who
 -   **[Install Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/install-legal-request-management.md)**  
 You can install the Legal Request Management application \(sn\_lg\_ops\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configure a practice area table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/configure-pa-tables-for-reporting.md)**  
-[[configure-pa-tables-for-reporting|Configure a practice area table]] so you can use fields from legal request and legal matter tables to include in the Lists section of Legal Counsel Center.
+Configure a practice area table so you can use fields from legal request and legal matter tables to include in the Lists section of Legal Counsel Center.
 -   **[Create or modify a legal catalog category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/add-catalog-categories.md)**  
 Create or modify a catalog category to organize your legal catalog items into logical groups in the Legal Operations Catalog.
 -   **[Create or modify a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/manage-practice-areas.md)**  
@@ -94,15 +94,3 @@ Legal fulfillers can delegate their legal duties to other users while they are u
 
 **Parent Topic:**[Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-landing-page.md)
 
-## Related
-
-- [[cncore-integrate-ext-storage|Configure an external storage system]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
-- [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[configure-pa-tables-for-reporting|Configure a practice area table]]

@@ -12,7 +12,7 @@ breadcrumb: [Add a scenario event, Adding a scenario event to the analysis, Enab
 
 # Scenario analysis response task form
 
-Use the Scenario analysis response task form in [[grc-opres-landing-page|Operational Resilience]] Workspace to add the details about the response task that is associated with a scenario event.
+Use the Scenario analysis response task form in Operational Resilience Workspace to add the details about the response task that is associated with a scenario event.
 
 ## Scenario analysis response task form
 
@@ -21,7 +21,7 @@ For a description of the field values, see the following table.
 |Field|Description|
 |-----|-----------|
 |Scenario Analysis Response panel|
-|Number|Number of the [[scenario-analysis-ov|scenario analysis]] response task such as SAR0001006. This field is auto-filled.|
+|Number|Number of the scenario analysis response task such as SAR0001006. This field is auto-filled.|
 |Role|Role of the assignee of the response task.|
 |Instruction|Instruction for the assignee of the response task.|
 |Impact panel|
@@ -36,7 +36,3 @@ For a description of the field values, see the following table.
 |Description|Description of the scenario analysis.|
 |Goal|Goal for performing the scenario analysis.|
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics experience, Platform Analytics]
 
 Library recommendations help you maintain healthy analytics ecosystems. The recommendations surface problematic analytics resources for you to clean up, making it easier for analysts to find the resources they need.
 
-**Note:** The feature requires the Analytics Library Recommendations \(app-analytics-recommendations\) application from the ServiceNow® Store. This application is part of [[c_performanceAnalyticsAndReporting|Platform Analytics]] Advanced and has additional license requirements.
+**Note:** The feature requires the Analytics Library Recommendations \(app-analytics-recommendations\) application from the ServiceNow® Store. This application is part of Platform Analytics Advanced and has additional license requirements.
 
 Library recommendations are a tool to help analytics managers help analysts.
 
@@ -28,22 +28,14 @@ The recommendations are provided as tiles on a panel on each library page. Visib
 
 The following pages describe the existing library recommendation types and the underlying artifacts.
 
--   **[[dashboard-library-recommendations|Dashboard library recommendations]]**  
+-   **[Dashboard library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dashboard-library-recommendations.md)**  
 Analytics managers can view information about potentially problematic dashboards.
--   **[[data-viz-library-recommendations|Data visualization library recommendations]]**  
+-   **[Data visualization library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-viz-library-recommendations.md)**  
 Analytics managers can view information about potentially problematic data visualizations.
--   **[[ind-library-recommendations|Indicator library recommendations]]**  
+-   **[Indicator library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ind-library-recommendations.md)**  
 Analytics managers can view information about potentially problematic indicators.
--   **[[installed-tables-jobs-and-properties|Installed jobs, tables, and properties for Platform Analytics library recommendations]]**  
+-   **[Installed jobs, tables, and properties for Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/installed-tables-jobs-and-properties.md)**  
 Several types of components are installed with activation of the  plugin, including tables, properties, and scheduled jobs.
 
-**Parent Topic:**[[par-workspace|Platform Analytics experience]]
+**Parent Topic:**[Platform Analytics experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/par-workspace.md)
 
-## Related
-
-- [[dashboard-library-recommendations|Dashboard library recommendations]]
-- [[data-viz-library-recommendations|Data visualization library recommendations]]
-- [[ind-library-recommendations|Indicator library recommendations]]
-- [[installed-tables-jobs-and-properties|Installed jobs, tables, and properties for Platform Analytics library recommendations]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

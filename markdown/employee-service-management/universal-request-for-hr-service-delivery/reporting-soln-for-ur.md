@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Reporting solutions for Universal Request
 
-[[ur-landing-limitedaccess|Universal Request]] \(UR\) reporting solutions contain preconfigured dashboards with actionable data visualizations to improve your employee service delivery processes.
+Universal Request \(UR\) reporting solutions contain preconfigured dashboards with actionable data visualizations to improve your employee service delivery processes.
 
 Use the widgets on the dashboard to visualize data over time, analyze your business processes, and identify areas of improvement. To view the Universal Request reports and dashboard, install the Universal Request Reporting plugin \(com.snc.universal\_request.reporting\) .
 
@@ -32,6 +32,3 @@ Analyze the behavior of universal requests in your organization and track transf
 
 **Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

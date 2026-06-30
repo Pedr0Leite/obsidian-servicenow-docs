@@ -12,7 +12,7 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 # Asynchronous order processing for large customer and consumer orders
 
-Asynchronous order processing handles high-volume enterprise and consumer orders without waiting for immediate processing, improving system performance for communications service providers \(CSP\) [[using-order-management|using Order Management]].
+Asynchronous order processing handles high-volume enterprise and consumer orders without waiting for immediate processing, improving system performance for communications service providers \(CSP\) using Order Management.
 
 ## Overview of asynchronous order processing
 
@@ -20,7 +20,7 @@ CSPs support both enterprise customers and consumers. Enterprise customers typic
 
 When you submit an asynchronous order request, the system responds with a `202 Accepted` status and an order ID. This indicates the order is received for processing but not yet created. This differs from synchronous processing, which returns `201 Created` when the order is immediately created.
 
-If you have a Telecommunications Service Management subscription, you can use the Product Order Open API to receive an order in the [[explore-order-management|Order Management]] application. Order processing goes through three stages:
+If you have a Telecommunications Service Management subscription, you can use the Product Order Open API to receive an order in the Order Management application. Order processing goes through three stages:
 
 -   Order validation
 -   Order ingestion
@@ -47,9 +47,9 @@ When the order details are successfully validated, a scheduled job runs to pick 
 The asynchronous order processing follows these steps:
 
 1.  You must activate the Product Order Open API. The new parameter mode enables the API to process orders synchronously or asynchronously. For more information about the API, see [Product Order Open API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/tmf622_product_ordering-api.md).
-2.  After you receive high-volume orders or large numbers of order payloads through the Product Order Open API in asynchronous mode, the system responds with a `202 Accepted` status and an order ID. The order details are validated first and include the product offering, order line items, order specifications, order line item characteristics, and the specification relationship of order line items. For more information on how the validation works, see [[asynchronous-order-validation|Validating your orders through asynchronous order processing]].
-3.  After the validation of the order details is complete, an entry for each order with a unique record ID is created in the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table. To learn more about how the order entries are created, see [[creation-of-order-entries-in-the-asynchronous-order-processing|Create order entries manually during the asynchronous order processing]].
-4.  When all the orders are captured in the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table, a scheduled job runs to create the customer orders for the records in the New state. You can also manually trigger order creation from the Inbound Queue module by selecting the **Create Order** button, bypassing the wait for the automated job. After processing, you can verify the created orders in the customer orders section. To learn how a scheduled job creates orders, see [[running-scheduled-job|Configure a scheduled job for asynchronous order creation]].
+2.  After you receive high-volume orders or large numbers of order payloads through the Product Order Open API in asynchronous mode, the system responds with a `202 Accepted` status and an order ID. The order details are validated first and include the product offering, order line items, order specifications, order line item characteristics, and the specification relationship of order line items. For more information on how the validation works, see [Validating your orders through asynchronous order processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/asynchronous-order-validation.md).
+3.  After the validation of the order details is complete, an entry for each order with a unique record ID is created in the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table. To learn more about how the order entries are created, see [Create order entries manually during the asynchronous order processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creation-of-order-entries-in-the-asynchronous-order-processing.md).
+4.  When all the orders are captured in the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table, a scheduled job runs to create the customer orders for the records in the New state. You can also manually trigger order creation from the Inbound Queue module by selecting the **Create Order** button, bypassing the wait for the automated job. After processing, you can verify the created orders in the customer orders section. To learn how a scheduled job creates orders, see [Configure a scheduled job for asynchronous order creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/running-scheduled-job.md).
 
 -   **[Validating your orders through asynchronous order processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/asynchronous-order-validation.md)**  
 You can validate your orders before the order records are created in the customer order table during asynchronous order processing in the ServiceNow® Order Management application.
@@ -58,19 +58,10 @@ Skip the scheduled job and create order entries manually in the Order Management
 -   **[Configure a scheduled job for asynchronous order creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/running-scheduled-job.md)**  
 Run a scheduled job in the Order Management application to create a customer order from the Inbound Queue \[sn\_tmt\_core\_inbound\_queue\] table.
 
-**Parent Topic:**[[order-mgt-configuring|Configuring Order Management]]
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
 **Related topics**  
 
 
-[[inbound-queue-states|Inbound request states]]
+[Inbound request states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inbound-queue-states.md)
 
-## Related
-
-- [[asynchronous-order-validation|Validating your orders through asynchronous order processing]]
-- [[creation-of-order-entries-in-the-asynchronous-order-processing|Create order entries manually during the asynchronous order processing]]
-- [[running-scheduled-job|Configure a scheduled job for asynchronous order creation]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[inbound-queue-states|Inbound request states]]
-- [[using-order-management|Using Order Management]]
-- [[explore-order-management|Order management]]

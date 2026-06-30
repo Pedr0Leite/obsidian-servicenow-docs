@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand
 
-Specify the frequency and time at which you want to run the scheduled flow that pulls [[exploring-learning-exp|learning]] objects, users, and transcripts from the Cornerstone OnDemand application into the ServiceNow system.
+Specify the frequency and time at which you want to run the scheduled flow that pulls learning objects, users, and transcripts from the Cornerstone OnDemand application into the ServiceNow system.
 
 ## Before you begin
 
@@ -31,6 +31,3 @@ Role required: sn\_hr\_cornerstone.admin
     1.  Select a frequency such as daily or weekly or monthly. The default value is **Daily**.
     2.  Specify a time. The default value is **21:00:00**.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

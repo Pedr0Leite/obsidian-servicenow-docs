@@ -15,7 +15,7 @@ breadcrumb: [Generate recommendations for regulatory alert impacted areas, Use g
 
 # Accept or dismiss recommendations for regulatory alert impacted citations
 
-Accept recommendations to mark specific business areas as impacted, helping compliance practitioners capture and address relevant [[list-view-of-reg-alerts|regulatory alerts]] for citations. Dismiss recommendations to filter out irrelevant or unnecessary information.
+Accept recommendations to mark specific business areas as impacted, helping compliance practitioners capture and address relevant regulatory alerts for citations. Dismiss recommendations to filter out irrelevant or unnecessary information.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ For more information on related roles and regulatory alerts, see [Types of alert
 1.  Navigate to one of the following locations:
 
     -   **Workspaces** &gt; **Compliance Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **Regulatory alerts**.
-    -   **Workspaces** &gt; **Compliance Workspace** select the [[reg-change-mgmt-landing-page|Regulatory Change Management]] dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
+    -   **Workspaces** &gt; **Compliance Workspace** select the Regulatory Change Management dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
 2.  Select the regulatory alert that you want and review the recommendations by selecting the Recommendations tab.
 
     **Note:** If recommendations haven’t already been generated, you can generate recommendations for a regulatory alert in any state except Closed or Cancelled by completing one of the following.
@@ -161,7 +161,3 @@ Related goal or requirement that can be associated with the citation.For each co
 
 If you accepted any recommendations, confirm the creation of an impacted area by navigating to the Impacted areas tab. If you dismissed all recommendations or must add more impacted areas, you can manually add impacted areas. For more information, see [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md).
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Notifications, Configure core features, Administer the ServiceNow A
 
 # Email Administration
 
-All email [[notifications|notifications]] use the [[c_EmailProperties|email properties]] that you define for your instance and the [[c_EmailAccounts|email accounts]] that you set up. Your [[email-service|email service]] can also affect the successful transmission of incoming and outgoing email.
+All email notifications use the email properties that you define for your instance and the email accounts that you set up. Your email service can also affect the successful transmission of incoming and outgoing email.
 
 ## Get started
 
@@ -43,15 +43,8 @@ All email [[notifications|notifications]] use the [[c_EmailProperties|email prop
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   [[troubleshooting-notification-emails|Troubleshooting Notification emails]]
+-   [Troubleshooting Notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/troubleshooting-notification-emails.md)
 -   Ask or answer questions in the [Platform](https://community.servicenow.com/community/service-automation-platform) community
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[troubleshooting-notification-emails|Email FAQs and troubleshooting notification emails]]
-- [[notifications|Notifications]]
-- [[c_EmailProperties|Email properties]]
-- [[c_EmailAccounts|Email accounts]]
-- [[email-service|Email service]]

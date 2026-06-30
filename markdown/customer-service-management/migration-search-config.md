@@ -12,7 +12,7 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 # Global Search in configurable workspaces
 
-Learn about how the CSM Agent Workspace Global Search functions with [[csm-workspaces-configure|CSM Configurable Workspace]].
+Learn about how the CSM Agent Workspace Global Search functions with CSM Configurable Workspace.
 
 Global Search provides users with the ability to search for information within the defined search sources.
 
@@ -20,9 +20,5 @@ Global Search provides users with the ability to search for information within t
 |-----------------|--------------|
 |sys\_aw\_global\_search\_config|sys\_ux\_page\_property|
 
-For more information, see [[csm-config-workspace-ai-search|Using AI Search with CSM Configurable Workspace]].
+For more information, see [Using AI Search with CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-ai-search.md).
 
-## Related
-
-- [[csm-config-workspace-ai-search|Using AI Search with CSM Configurable Workspace]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

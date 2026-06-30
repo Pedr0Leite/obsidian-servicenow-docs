@@ -16,7 +16,7 @@ breadcrumb: [Create a new incident profile for Microsoft DLP integration, Data L
 
 Microsoft Purview endpoint evidence files storage configuration tells you where the endpoint evidence files are being stored by the purview- Custom managed store or Microsoft managed storage environments.
 
-In case of Microsoft managed store, Microsoft itself stores the evidence files in some [[location|location]] and for Custom managed store, you need to specify the container in which the evidence files will be stored by the purview when an alert gets generated.
+In case of Microsoft managed store, Microsoft itself stores the evidence files in some location and for Custom managed store, you need to specify the container in which the evidence files will be stored by the purview when an alert gets generated.
 
 Select either of the two storage types based on what is being configured at the purview end for the system to fetch the evidence files of the corresponding endpoint DLP incidents.
 
@@ -26,6 +26,3 @@ Select either of the two storage types based on what is being configured at the 
 
 **Parent Topic:**[Create a new incident profile for Microsoft DLP integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/create-profile-microsoft-dlp-integration.md)
 
-## Related
-
-- [[location|Location]]

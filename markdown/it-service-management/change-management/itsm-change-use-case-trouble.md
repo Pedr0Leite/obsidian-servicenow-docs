@@ -16,8 +16,8 @@ breadcrumb: [Applying CSDM guidelines to Change Management, Configure, Change Ma
 
 Consider these points while implementing the CSDM framework.
 
--   Business [[dex-workspace-application-tab|applications]] not referenced in the [[itsm-change-use-case-example|Change Management use case]]: Business applications are portfolio objects you can use for designing and planning an Enterprise Architecture. Business application portfolio objects don't contain version, environment, and localization details for deployments using one or more applications.
--   Change approval process: It depends on how you implement [[c_ITILChangeManagement|Change Management]]. After you populate the CIs on the Change form \(if there's a relationship between the CI and the impacted services and service offerings\), the Approval group approves the change.
+-   Business applications not referenced in the Change Management use case: Business applications are portfolio objects you can use for designing and planning an Enterprise Architecture. Business application portfolio objects don't contain version, environment, and localization details for deployments using one or more applications.
+-   Change approval process: It depends on how you implement Change Management. After you populate the CIs on the Change form \(if there's a relationship between the CI and the impacted services and service offerings\), the Approval group approves the change.
 -   CI attributes used for routing changes: If you are initiating the change or the change task, use the Assignment Group attribute CI. If you are using build run teams, you could use the Support Group attribute CI for the team assignments.
 
 ## For more information
@@ -26,8 +26,3 @@ Consider these points while implementing the CSDM framework.
 
 **Parent Topic:**[Applying CSDM guidelines to Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/itsm-change-use-case-product-view.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[itsm-change-use-case-example|Change Management use case]]
-- [[c_ITILChangeManagement|Change Management]]

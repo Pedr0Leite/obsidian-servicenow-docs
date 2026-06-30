@@ -48,13 +48,13 @@ The ServiceNow Integration Hub Starter Pack Installer \[com.glide.hub.integratio
 |Plugin|Description|
 |------|-----------|
 |FRISS Spoke \(com.sn\_friss\_spoke\)|Provides a list of the actions to solve the fraudulent activity in the insurance industry. The actions include reducing the number of false reporting of claims, increasing the number of avoided claims, and processing the genuine claims immediately.|
-|Financial Services Operations Core \(sn\_bom\)|Stores the customer data that is needed to make claim requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core \(sn\_bom\)|Stores the customer data that is needed to make claim requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 
 ## Tables installed
 
 Financial Services Operations Integration with FRISS references information from the following tables to store data:
 
--   [[fso-overview|Financial Services]] Operations tables that are installed when [[commercial-lines-claims-landing-page|Commercial Lines Claims]] and [[personal-lines-claims-landing-page|Personal Lines Claims]] applications are installed.
+-   Financial Services Operations tables that are installed when Commercial Lines Claims and Personal Lines Claims applications are installed.
 -   Tables from Customer Service Management \(CSM\) application.
 -   The ServiceNow AI Platform tables.
 
@@ -75,12 +75,5 @@ Claim Fraud Indicator\[sn\_fso\_intg\_friss\_indicator\]
 Stores details on the indicators that contribute to the fraud score.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
+</table>**Parent Topic:**[Financial Services Operations Integration with FRISS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integration-with-friss-overview.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-integration-with-friss-overview|Financial Services Operations Integration with FRISS]]
-- [[fso-overview|Financial Services]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]

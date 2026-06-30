@@ -16,9 +16,9 @@ breadcrumb: [Access controls in Service Operations Workspace for ITSM, Getting s
 
 Landing pages provide an agent with quick visibility into the work assigned, announcements, upcoming tasks, and so on.
 
-Following landing pages are available by default for the Service Operations Workspace ITSM [[dex-workspace-application-tab|Applications]] \(sn\_sow\_itsm\_cont\) application.
+Following landing pages are available by default for the Service Operations Workspace ITSM Applications \(sn\_sow\_itsm\_cont\) application.
 
--   Tier 1 [[dex-workspace-dashboard-tab|landing page]]
+-   Tier 1 landing page
 -   Tier 2 landing page
 
 Other landing pages are available if you have the corresponding plugins installed, for example, Service Operations Workspace ITOM Apps \(sn\_sow\_itom\_cont\).
@@ -46,7 +46,3 @@ Any user that meets the following audience criteria is redirected by default to 
 |--------|----|-----------------------|
 |SOW Tier 2/3 landing page Audience|itil|None|
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-dashboard-tab|Landing page]]

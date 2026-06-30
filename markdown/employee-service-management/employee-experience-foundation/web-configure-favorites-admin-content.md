@@ -24,7 +24,7 @@ Role required: portal admin and sp\_admin
 
 You can configure the favorites and favorite icon. Once you enable favorites for content types such as requests, articles, and applications \(EC Pro only\), your employees can mark content as favorites.
 
-**Note:** Favorites for **Applications** is available to only [[employee-center-pro-landing|Employee Center Pro]] customers as Applications is an Employee Center Pro feature.
+**Note:** Favorites for **Applications** is available to only Employee Center Pro customers as Applications is an Employee Center Pro feature.
 
 You can configure favorites for content types of your choice.
 
@@ -45,6 +45,3 @@ You can configure favorites for content types of your choice.
 
 The content type display is configured.
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]

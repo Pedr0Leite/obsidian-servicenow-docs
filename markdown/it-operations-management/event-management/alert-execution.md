@@ -14,7 +14,7 @@ breadcrumb: [View alert information, Using Event Management, Event Management, I
 
 # Alert execution information
 
-Alert execution information provides a reference to the actions that have been performed concerning the alert. Among the information presented is which alert management rules ran on the alert, incidents that were opened, and which [[ccg-remediation|remediation]] workflows ran.
+Alert execution information provides a reference to the actions that have been performed concerning the alert. Among the information presented is which alert management rules ran on the alert, incidents that were opened, and which remediation workflows ran.
 
 ## Alert Executions
 
@@ -41,6 +41,3 @@ The log reveals which alert management rule initiated the action. It shows, for 
 
 **Parent Topic:**[View alert information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewAlert.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

@@ -14,7 +14,7 @@ breadcrumb: [NIST RMF Use Case Accelerator, GRC use case accelerators, Common GR
 
 # Install the NIST RMF Use Case Accelerator
 
-The [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] is used with the GRC core applications: [[r_PolicyComplianceMgmt|Policy and Compliance Management]], Risk Management, and [[c_GRCAudits|Audit Management]] applications.
+The NIST RMF Use Case Accelerator is used with the GRC core applications: Policy and Compliance Management, Risk Management, and Audit Management applications.
 
 ## Before you begin
 
@@ -87,8 +87,3 @@ The System Admin \(admin\) assigns the following roles:
 
 **Parent Topic:**[NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-and-nistrmf-usecase-accelerator.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

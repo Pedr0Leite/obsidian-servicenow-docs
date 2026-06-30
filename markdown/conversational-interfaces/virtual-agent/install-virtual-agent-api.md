@@ -14,7 +14,7 @@ breadcrumb: [Configure, Virtual Agent API, Build and deploy, Virtual Agent, Conv
 
 # Install Virtual Agent API
 
-Install the [[virtual-agent-api-landing-page|Virtual Agent API]] app to integrate any chat interface or a bot with ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] or [[ci-use-agent-chat|Agent Chat]].
+Install the Virtual Agent API app to integrate any chat interface or a bot with ServiceNow® Virtual Agent or Agent Chat.
 
 ## Before you begin
 
@@ -56,8 +56,3 @@ Role required: admin or virtual\_agent\_admin
 
 **Parent Topic:**[Configuring Virtual Agent API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent-api.md)
 
-## Related
-
-- [[virtual-agent-api-landing-page|Virtual Agent API]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

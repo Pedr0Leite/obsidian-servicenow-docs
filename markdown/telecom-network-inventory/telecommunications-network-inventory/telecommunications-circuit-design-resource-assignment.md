@@ -14,7 +14,7 @@ breadcrumb: [Modeling your workflow, Explore, Telecommunications Network Invento
 
 # Design and assign
 
-With the [[using-playbooks-design-assign-inventory-record|design and assign function]], you can build a digital representation of your network inventories and your network service in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+With the design and assign function, you can build a digital representation of your network inventories and your network service in the Telecommunications Network Inventory application.
 
 ## Design and assign overview
 
@@ -65,7 +65,3 @@ You can create a set of network inventory records to fulfill an order request fo
 
 [Modeling network inventory relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-modeling-process.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

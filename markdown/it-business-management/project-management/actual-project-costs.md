@@ -14,7 +14,7 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 # Actual project costs
 
-Actual project costs come after you create expense lines for cost plans or after human resources use [[c_TimeCards|time cards]] to create expense lines.
+Actual project costs come after you create expense lines for cost plans or after human resources use time cards to create expense lines.
 
 **Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
 
@@ -45,6 +45,3 @@ Actual project costs come after you create expense lines for cost plans or after
 
 [View actual project costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ViewActualProjectCosts.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]

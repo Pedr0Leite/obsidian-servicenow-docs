@@ -30,7 +30,7 @@ Role required: none
 
 3.  View the generated answer.
 
-    For information about catalog items available in the base system, see [[catalog-items-base-system|Catalog items installed with Simplified IT Service Management]].
+    For information about catalog items available in the base system, see [Catalog items installed with Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/catalog-items-base-system.md).
 
     \[Omitted image "ai-native-view-answer-emp-slate.png"\] Alt text: View the generated answer in Employee Slate
 
@@ -41,9 +41,5 @@ Role required: none
 5.  In the Order Confirmation window, specify the required information and select **Checkout**.
 
 
-**Parent Topic:**[[employee-experience-using-employee-slate|Employee experience in Employee Slate]]
+**Parent Topic:**[Employee experience in Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-using-employee-slate.md)
 
-## Related
-
-- [[catalog-items-base-system|Catalog items installed with Simplified IT Service Management]]
-- [[employee-experience-using-employee-slate|Employee experience in Employee Slate]]

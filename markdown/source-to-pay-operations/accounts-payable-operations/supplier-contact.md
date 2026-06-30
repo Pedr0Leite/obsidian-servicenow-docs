@@ -15,7 +15,7 @@ breadcrumb: [Data required for invoice processing, Reference, Accounts Payable O
 
 # Supplier contact
 
-Field descriptions for the \[vm\_vdr\_contact\] table, which stores supplier contact details used in the [[supplier-central|Supplier Collaboration Portal]].
+Field descriptions for the \[vm\_vdr\_contact\] table, which stores supplier contact details used in the Supplier Collaboration Portal.
 
 ## vm\_vdr\_contact table
 
@@ -23,7 +23,7 @@ You can view the supplier contact details.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|First Name|String|Name of the [[supplier|supplier]].|
+|First Name|String|Name of the supplier.|
 |Vendor|Reference|Name of the assigned vendor.|
 |Email|email|email address of the supplier|
 |User ID|String|User ID to identify the supplier|
@@ -31,7 +31,3 @@ You can view the supplier contact details.
 
 **Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

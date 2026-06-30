@@ -23,7 +23,7 @@ Role required: sn\_cm\_obligation.obligation\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations**.
 
 2.  Open an active obligation record either from the **Obligations** tab within the contract record or from the **Obligations** view.
 
@@ -41,7 +41,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Software [[c_Contracts|contracts]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Software contracts**.
 2.  Select an active contract record.
 3.  Select the **Obligations** tab.
 4.  Select an active obligation record.
@@ -91,7 +91,3 @@ View the obligation record by navigating to one of the following paths:
 
 [Create an obligation record in the Software Asset Workspace]()
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]

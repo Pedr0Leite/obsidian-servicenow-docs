@@ -14,7 +14,7 @@ breadcrumb: [Zing displays search suggestions as users enter search terms, Zing 
 
 # Enable and disable Search Suggestions in Zing
 
-Enable the [[search-suggestions-overview|Search Suggestions]] application to improve the Zing search user experience.
+Enable the Search Suggestions application to improve the Zing search user experience.
 
 ## Before you begin
 
@@ -26,12 +26,12 @@ Role required: admin
 
 The Search Suggestions application is available on new instances by default. On upgraded instances, Search Suggestions is enabled for Now Mobile and disabled for Service Portal by default.
 
-The following [[r_SetArchiveRuleProcessingBehavior|system properties]] enable and disable Search Suggestions:
+The following system properties enable and disable Search Suggestions:
 
 -   **glide.search.suggestions.enabled**: Set to **true** \(default\) to enable Search Suggestions in Zing, or set to **false** to disable Search Suggestions in Zing.
 -   **glide.service\_portal.search\_as\_you\_type\_behavior**: Select **Suggestions** or **Typeahead** functionality in the Service Portal.
 
-On new instances, the first parameter is set to **true** and the second is set to **Suggestions**. In upgraded instances, the [[r_DirectJDBCProbeParameters|parameters]] are set to whatever was previously enabled.
+On new instances, the first parameter is set to **true** and the second is set to **Suggestions**. In upgraded instances, the parameters are set to whatever was previously enabled.
 
 ## Procedure
 
@@ -65,8 +65,3 @@ On new instances, the first parameter is set to **true** and the second is set t
 
 [Set the maximum number of search suggestions Zing displays]()
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

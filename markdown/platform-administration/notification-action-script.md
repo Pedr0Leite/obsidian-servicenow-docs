@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Provider** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Provider** &gt; **Notifications**.
 
     A list of notifications shows up.
 
@@ -52,9 +52,5 @@ Role required: admin
 6.  Select **Update**.
 
 
-**Parent Topic:**[[create-provider-notification-using|Create provider notification]]
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-provider-notification-using.md)
 
-## Related
-
-- [[create-provider-notification-using|Create provider notification]]
-- [[notifications|Notifications]]

@@ -18,7 +18,7 @@ You can create the same type of HR case, for multiple employees, without having 
 
 Bulk case creation can save you time and effort. For example, onboarding 20 new hires, a payroll run issue, or an annual recertification process, are cases that can be created as a bulk case.
 
-Bulk HR cases can be created for all active users. For users without an [[c_HRProfileRecords|HR profile]], like new hires, an HR profile is automatically created.
+Bulk HR cases can be created for all active users. For users without an HR profile, like new hires, an HR profile is automatically created.
 
 You can create one bulk case that creates individual HR cases for each employee in a group. Examples include:
 
@@ -83,6 +83,3 @@ After creating a user group segment, you can review and edit it before you creat
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

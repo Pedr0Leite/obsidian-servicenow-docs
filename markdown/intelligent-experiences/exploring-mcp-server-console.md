@@ -19,9 +19,9 @@ Learn about how you can use Model Context Protocol \(MCP\) servers to allow AI a
 
 The Model Context Protocol defines a standard method of communication between large language models \(LLMs\) and external systems, such as a ServiceNow instance. AI applications connect to an external system from an MCP client, such as an AI agent, using an MCP server. The server tells the client which external resources it can access and how to access them. Then, from an MCP client, users can request information from the server and automate functionality using the available tools and data that the server returns. For general information about the Model Context Protocol and MCP terminology, see the [Model Context Protocol documentation](https://modelcontextprotocol.io/docs/learn/server-concepts) on the modelcontextprotocol.io website.
 
-With [[mcp-platform-manager-landing|MCP Server Console]], you can create MCP servers on an instance and configure the tools that they expose or use a preconfigured Quickstart Server. Tools define which functionality and data a server exposes to clients and the actions that can be performed on an instance by clients. You can create tools based on existing capabilities, such as [[now-assist-skills|Now Assist skills]].
+With MCP Server Console, you can create MCP servers on an instance and configure the tools that they expose or use a preconfigured Quickstart Server. Tools define which functionality and data a server exposes to clients and the actions that can be performed on an instance by clients. You can create tools based on existing capabilities, such as Now Assist skills.
 
-Then any AI application, such as Microsoft Copilot or Claude, can call a server from a client using OAuth 2.0 authentication and get a list of available tools. With these tools, employees using MCP clients can prompt the server for information from the instance or to perform an action on the instance, such as to summarize a list of recently closed incidents or [[cases|cases]]. You can also use the ServiceNow Model Context Protocol Client to let an AI application on one instance access tools from an MCP server on another instance.
+Then any AI application, such as Microsoft Copilot or Claude, can call a server from a client using OAuth 2.0 authentication and get a list of available tools. With these tools, employees using MCP clients can prompt the server for information from the instance or to perform an action on the instance, such as to summarize a list of recently closed incidents or cases. You can also use the ServiceNow Model Context Protocol Client to let an AI application on one instance access tools from an MCP server on another instance.
 
 ## MCP Server Console users
 
@@ -48,15 +48,15 @@ The following infographic shows the workflow for AI administrators to get starte
 
 6.  Employees use clients, such as AI agents, to prompt the server for data from the instance or to perform an action on the instance.
 
-**Note:** With [[ai-gateway-overview|AI Gateway]] in [[ai-control-tower-landing|AI Control Tower]], AI administrators can monitor MCP server access and view metrics for servers and their tools. For more information, see [AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway-overview.md).
+**Note:** With AI Gateway in AI Control Tower, AI administrators can monitor MCP server access and view metrics for servers and their tools. For more information, see [AI Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-gateway-overview.md).
 
 ## MCP Server Console benefits
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Integrate with any AI application and MCP client using a standard protocol.|[[create-mcp-server|Create a Model Context Protocol server]]|AI administrator|
-|Control which tools and fields are exposed to MCP clients.|[[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]|AI administrator|
-|Securely access functionality from a ServiceNow instance in any external employee experience.|[[connect-mcp-server-client|Configure an MCP client to connect to an MCP server]]|AI administrator|
+|Integrate with any AI application and MCP client using a standard protocol.|[Create a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-mcp-server.md)|AI administrator|
+|Control which tools and fields are exposed to MCP clients.|[Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md)|AI administrator|
+|Securely access functionality from a ServiceNow instance in any external employee experience.|[Configure an MCP client to connect to an MCP server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md)|AI administrator|
 
 ## Quickstart Server in MCP Server Console
 
@@ -64,7 +64,7 @@ MCP Server Console includes a preconfigured Quickstart Server to help you get st
 
 |Name|Description|
 |----|-----------|
-|Case summarization|Get a summary of details in a case record generated by [[platform-now-assist-landing|Now Assist]].|
+|Case summarization|Get a summary of details in a case record generated by Now Assist.|
 |Incident summarization|Get a summary of details in an incident record generated by Now Assist.|
 |Look up Case Records|Look up case records to enable summarizing them with the Case Summarization tool.|
 |Look up Incident Records|Look up incident records to enable summarizing them with Incident summarization tool.|
@@ -73,26 +73,12 @@ MCP Server Console includes a preconfigured Quickstart Server to help you get st
 
 To learn more about configuring and using MCP Server Console, see:
 
--   [[configuring-mcp-server-console|Configuring MCP Server Console]]
+-   [Configuring MCP Server Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-mcp-server-console.md)
 -   [Configure an MCP client to connect to an MCP server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md)
--   [[mcp-server-console-reference|MCP Server Console reference]]
+-   [MCP Server Console reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
 **Related topics**  
 
 
-[[mcp-client|Model Context Protocol Client]]
+[Model Context Protocol Client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-client.md)
 
-## Related
-
-- [[create-mcp-server|Create a Model Context Protocol server]]
-- [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
-- [[connect-mcp-server-client|Connecting to an MCP server from an MCP client]]
-- [[configuring-mcp-server-console|Configuring MCP Server Console]]
-- [[mcp-server-console-reference|MCP Server Console reference]]
-- [[mcp-client|Model Context Protocol Client]]
-- [[mcp-platform-manager-landing|MCP Server Console]]
-- [[now-assist-skills|Now Assist skills]]
-- [[cases|Cases]]
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[platform-now-assist-landing|Now Assist]]

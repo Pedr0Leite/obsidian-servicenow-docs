@@ -14,7 +14,7 @@ breadcrumb: [Workplace Concierge agentic workflow, Using AI agent workflows in N
 
 # Use Workplace Concierge with email or calendar invite
 
-Add the [[workplace-concierge-feat|Workplace Concierge]] to an email thread or a calendar invite.
+Add the Workplace Concierge to an email thread or a calendar invite.
 
 ## Before you begin
 
@@ -59,7 +59,7 @@ Workplace Concierge then scans for the date and time, location, visitor type, at
 
 3.  Reply to the Workplace Concierge email clarifying the information.
 
-    For example, if an email thread contains two locations, or if the location is not found in the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] location hierarchy, reply with the exact location name.
+    For example, if an email thread contains two locations, or if the location is not found in the Workplace Service Delivery location hierarchy, reply with the exact location name.
 
     After receiving all the information, Workplace Concierge sends an email with the visit details for confirmation.
 
@@ -76,7 +76,3 @@ If Workplace Concierge is included in any emails that are sent to the visitors, 
 
 **Parent Topic:**[Workplace Concierge agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-concierge-ai-agent.md)
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

@@ -24,7 +24,7 @@ Role required: None
 
 ## Procedure
 
-1.  Open the Anonymous Report Center portal either via [[employee-center-landing-page|Employee Center]] portal or using a direct URL.
+1.  Open the Anonymous Report Center portal either via Employee Center portal or using a direct URL.
 
 <table id="choicetable_rlf_djt_h5b"><thead><tr><th align="left" id="d486001e72">
 
@@ -65,7 +65,7 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
 
 
 </td></tr></tbody>
-</table>    If you are [[using-emp-center|using Employee Center]] or Legal Service Portal, you are signed out of your account to keep your identity anonymous. The Anonymous Report Center portal opens in a new browser tab.
+</table>    If you are using Employee Center or Legal Service Portal, you are signed out of your account to keep your identity anonymous. The Anonymous Report Center portal opens in a new browser tab.
 
 2.  If you're asked to provide credentials to log in, you can copy this URL and enter your instance details to access the Anonymous Report Center.
 
@@ -90,7 +90,3 @@ Navigate to the Anonymous Report Center by accessing your instance URL and addin
 
 **Parent Topic:**[Submit a complaint through the Anonymous Report Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/submit-complaint-arc.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[using-emp-center|Using Employee Center]]

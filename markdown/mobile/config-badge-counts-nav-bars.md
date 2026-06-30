@@ -12,7 +12,7 @@ breadcrumb: [Navigation bar, Mobile app components, Building mobile apps, Mobile
 
 # Configure badge counts on navigation bars
 
-Configure [[sg-mobile-tab-bar|navigation bar]] launcher screen tabs and screen tabs to display badge counts. These badge counts indicate how many rows in the Badge Count \[sys\_sg\_badge\_count\] table match a condition that you can configure. For example, how many work orders are waiting for your attention or how many new and unread Sidebar messages have been received.
+Configure navigation bar launcher screen tabs and screen tabs to display badge counts. These badge counts indicate how many rows in the Badge Count \[sys\_sg\_badge\_count\] table match a condition that you can configure. For example, how many work orders are waiting for your attention or how many new and unread Sidebar messages have been received.
 
 ## Before you begin
 
@@ -109,6 +109,4 @@ The condition that is used to count the records that match the condition in orde
 </td></tr></tbody>
 </table>3.  Select **Submit**.
 
-## Related
 
-- [[sg-mobile-tab-bar|Navigation bar]]

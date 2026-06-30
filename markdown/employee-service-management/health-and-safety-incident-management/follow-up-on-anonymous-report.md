@@ -28,9 +28,9 @@ After submitting the anonymous report, you’ll see a modal dialogue requesting 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center-landing-page|Employee Center]]**
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center**
 
-2.  In the [[health-safety-overview|Health and Safety]] tab,
+2.  In the Health and Safety tab,
 
     -   Select the **Anonymously report a safety concern** quick link.
     -   Select **Health and safety observations** and then select the **Anonymously report a safety concern** card.
@@ -62,7 +62,3 @@ After submitting the anonymous report, you’ll see a modal dialogue requesting 
 
 [Work on an anonymous safety concern]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]

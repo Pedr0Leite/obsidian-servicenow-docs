@@ -18,8 +18,5 @@ A **Close Complete** button is visible to the agent assigned to the request. The
 
 **Note:** To view all closed tasks, navigate to **All** &gt; **Field Service** &gt; **All Work Orders** and enter **Close Complete** in the **State** field.
 
-**Parent Topic:**[[t_CloseARequest|Close a request]]
+**Parent Topic:**[Close a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_CloseARequest.md)
 
-## Related
-
-- [[t_CloseARequest|Close a request]]

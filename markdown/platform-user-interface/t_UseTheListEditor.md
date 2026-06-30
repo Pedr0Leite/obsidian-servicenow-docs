@@ -20,7 +20,7 @@ Role required: none
 
 ## About this task
 
-The list editor lets you edit field values in a list without opening a form. Administrators can [[configure-onboarding-modals|configure]] the list editor. By default, list editing is disabled for some tables. Fields of [certain types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringTheListEditor.md) cannot be edited from [[lists-configurable-workspace|lists]].
+The list editor lets you edit field values in a list without opening a form. Administrators can configure the list editor. By default, list editing is disabled for some tables. Fields of [certain types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringTheListEditor.md) cannot be edited from lists.
 
 Before the list editor opens, access rights to edit the field are verified. If this process takes longer than expected, a loading indicator appears. If the field has a dependency relationship \(for example, Category and Subcategory\), then a composite editor opens to enable editing of all dependent fields. You must have permissions to edit all dependent fields to use the list editor.
 
@@ -30,7 +30,7 @@ Before the list editor opens, access rights to edit the field are verified. If t
 
     The appropriate editor for the field type opens.
 
-    **Note:** You can enable single-click editing from the [[c_PersonalLists|list personalization interface]]. You can also use keyboard navigation to access the list editor.
+    **Note:** You can enable single-click editing from the [list personalization interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md). You can also use keyboard navigation to access the list editor.
 
 2.  Enter the appropriate values.
 
@@ -65,7 +65,7 @@ Before the list editor opens, access rights to edit the field are verified. If t
     **Note:** Certain browsers use different key combinations to edit certain field values. For example, to edit a list using Chrome, press the Spacebar.
 
 
-**Parent Topic:**[[r_MethodsForListEdits|Methods for list edits]]
+**Parent Topic:**[Methods for list edits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_MethodsForListEdits.md)
 
 **Related topics**  
 
@@ -74,9 +74,3 @@ Before the list editor opens, access rights to edit the field are verified. If t
 
 [Edit multiple records in a list using an editing form]()
 
-## Related
-
-- [[c_PersonalLists|Personal lists]]
-- [[r_MethodsForListEdits|Methods for list edits]]
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]

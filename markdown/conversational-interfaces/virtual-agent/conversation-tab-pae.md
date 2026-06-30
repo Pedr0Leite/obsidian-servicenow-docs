@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Conversations tab
 
-Use the **Conversations** tab to view the list of [[virtual-agent-landing-page|Virtual Agent]] conversations and details of each conversation that occurred during the selected date range.
+Use the **Conversations** tab to view the list of Virtual Agent conversations and details of each conversation that occurred during the selected date range.
 
 All conversations from the Conversation table \[sys\_cs\_conversation\], that run on the Virtual Agent Designer are listed on the Conversations page, except for notifications, open \(ongoing\) conversations, and previews.
 
@@ -141,6 +141,3 @@ You can filter out conversation for a deeper understanding.
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

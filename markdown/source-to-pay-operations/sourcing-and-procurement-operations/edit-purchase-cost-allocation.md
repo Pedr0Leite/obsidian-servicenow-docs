@@ -26,11 +26,11 @@ Suppose 20% is allocated to Customer Success and 80% to Engineering.
 
 If you purchase 6 quantities of the energy monitoring device priced at $230 each. The total cost amounts to $1380.
 
-\[Omitted image "cost-purchase-qty.png"\] Alt text: Purchase products in [[shopping-hub-overview|Shopping Hub]]
+\[Omitted image "cost-purchase-qty.png"\] Alt text: Purchase products in Shopping Hub
 
 The cost for this purchase is allocated as follows:
 
--   Customer Success [[cost-center|Cost Center]]: $276 \(20% of $1380\)
+-   Customer Success Cost Center: $276 \(20% of $1380\)
 -   Engineering Cost Center: $1104 \(80% of $1380\)
 
 \[Omitted image "cost-initial-amt.png"\] Alt text: Initial amount with cost allocation adjustments
@@ -59,7 +59,3 @@ For more information, see [Cost allocations](https://raw.githubusercontent.com/S
 
 [Edit a purchase line from a purchase requisition or order from Employee Center \(EC\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/edit-pur-req-emp-central.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[cost-center|Cost center]]

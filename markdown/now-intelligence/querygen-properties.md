@@ -12,7 +12,7 @@ breadcrumb: [Reference, Query Generation, Now Assist in Platform Analytics, Plat
 
 # Query Generation properties
 
-The properties included with [[query-generation|Query Generation]] apply to segments. They define whether the record or indicator that is the basis for a segment has been recently used or changed.
+The properties included with Query Generation apply to segments. They define whether the record or indicator that is the basis for a segment has been recently used or changed.
 
 These properties are available for Query Generation.
 
@@ -37,7 +37,7 @@ The target number of group-by fields for extended analysis in AI Data Explorer. 
 -   Type: Integer
 -   Default value: 5
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [[hidden-insights|Extended analysis]]
+-   Learn more: [Extended analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/hidden-insights.md)
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ sn\_query\_gen.segment\_enabled
 When set to true, segments are created and used. When false, no segments are created, and all existing segments are excluded from AI Data Explorer search results. During the next Sync Segments Job, all segments are deactivated.-   Type: Boolean \(true/false\)
 -   Default value: true
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [[querygen-segments|Segments in the Query Generation semantic layer]]
+-   Learn more: [Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
 
 </td></tr><tr><td>
 
@@ -84,7 +84,7 @@ sn\_query\_gen.segments.disable.pa\_cubes
 
 </td><td>
 
-When set to true, excludes all segments from [[c_IndicatorSources|indicator sources]] \(pa\_cubes\) from AI Data Explorer search results. During the next Sync Segments Job, all segments of that type are deactivated in the Segment table.
+When set to true, excludes all segments from indicator sources \(pa\_cubes\) from AI Data Explorer search results. During the next Sync Segments Job, all segments of that type are deactivated in the Segment table.
 
 -   Type: Boolean \(true/false\)
 -   Default value: false
@@ -193,7 +193,7 @@ sn\_query\_gen.segments.reports.last\_viewed\_threshold\_days
 
 </td><td>
 
-Defines how many days ago a report can have run for that report to be considered "recently run." The \[Query Generation\] Sync Segments job deactivates segments based on reports that have not run recently. It also deactivates [[c_ReportSources|report sources]] whose reports have not run recently.-   Type: Integer
+Defines how many days ago a report can have run for that report to be considered "recently run." The \[Query Generation\] Sync Segments job deactivates segments based on reports that have not run recently. It also deactivates report sources whose reports have not run recently.-   Type: Integer
 -   Default value: 180
 -   Location: System Property \[sys\_properties\] table
 -   Learn more: [Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
@@ -221,13 +221,5 @@ The maximum number of segments that AI Search can return after filtering.-   Typ
 -   Learn more: [Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[query-generation-reference|Query Generation reference]]
+</table>**Parent Topic:**[Query Generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-reference.md)
 
-## Related
-
-- [[hidden-insights|Extended analysis]]
-- [[querygen-segments|Segments in the Query Generation semantic layer]]
-- [[query-generation-reference|Query Generation reference]]
-- [[query-generation|Query Generation]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[c_ReportSources|Report sources]]

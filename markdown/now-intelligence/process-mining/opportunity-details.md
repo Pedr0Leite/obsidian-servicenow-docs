@@ -14,7 +14,7 @@ breadcrumb: [Details page, Workspace, Explore, Process Mining, Platform Analytic
 
 # Opportunity details page
 
-The Opportunity details page displays details about the improvement opportunities for a project. Access the page from a [[process-mining|Process Mining]] project.
+The Opportunity details page displays details about the improvement opportunities for a project. Access the page from a Process Mining project.
 
 From the Improvement Opportunities icon \(\[Omitted image "icon-imp-opp.png"\] Alt text: Improvement opportunities icon\) on the side panel, you can choose which improvement opportunity you want to view in detail.
 
@@ -40,9 +40,9 @@ In the process graph widget, the improvement opportunity pattern in the process 
 
 When you select **Analyze in analyst workbench**, Analyst workbench opens in the context of the improvement opportunity.
 
-Select the options in the **Investigate** list to view the details of the records, run a [[cluster-analysis|cluster analysis]], or to run a root cause analysis.
+Select the options in the **Investigate** list to view the details of the records, run a cluster analysis, or to run a root cause analysis.
 
-Select any transition from the graph, a details window is displayed. Use the options under **Investigate** section on this window to view the records and run a [[worknotes-analysis|work notes analysis]].
+Select any transition from the graph, a details window is displayed. Use the options under **Investigate** section on this window to view the records and run a work notes analysis.
 
 These tasks are run using the scheduled tasks that run in the background. After the task completes, you can view the result.
 
@@ -84,14 +84,7 @@ The variants of the improvement opportunity are displayed in the **Variants** ta
 
 ## Task Mining
 
-[[create-task-mining-projects|Create a Task Mining project]] from opportunity details page. For more information on creating [[task-mining|Task Mining]] project, see [Create Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-task-mining-project.md).
+Create a Task Mining project from opportunity details page. For more information on creating Task Mining project, see [Create Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-task-mining-project.md).
 
 **Parent Topic:**[Process details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-view-screen.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[create-task-mining-projects|Create a Task Mining project]]
-- [[task-mining|Task Mining]]

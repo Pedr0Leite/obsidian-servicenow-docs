@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Reviewing the Knowledge Management property for an Operational Technology knowledge base
 
-As an administrator, you can configure the look and functionalities of [[operational-technology-overview|Operational Technology]] \(OT\) knowledge bases with the Knowledge Management properties.
+As an administrator, you can configure the look and functionalities of Operational Technology \(OT\) knowledge bases with the Knowledge Management properties.
 
 You can access the Knowledge Management properties by navigating to **All** &gt; **Knowledge** &gt; **Administration** &gt; **Properties**.
 
@@ -41,6 +41,3 @@ Enter the role names exactly as they appear in **User Administration** &gt; **Ro
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # View, edit, and reassign your response tasks with the Security Incident Response Mobile app
 
-View, edit, and reassign response tasks that are assigned to you. Your changes are saved on the [[sir-landing-page|Security Incident Response]] Task of the parent security incident.
+View, edit, and reassign response tasks that are assigned to you. Your changes are saved on the Security Incident Response Task of the parent security incident.
 
 ## Before you begin
 
@@ -105,7 +105,3 @@ On the bottom of the screen, choose one to continue.-   If displayed, tap anothe
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

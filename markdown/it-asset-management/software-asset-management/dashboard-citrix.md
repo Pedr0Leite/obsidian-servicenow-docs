@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Citrix, Supported soft
 
 # Software Publisher Analytics dashboard for Citrix in Software Asset Management classic
 
-View compliance analysis results for Citrix on the Software Publisher Analytics dashboard in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+View compliance analysis results for Citrix on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 
 Access the Software Publisher Analytics dashboard by navigating to **All** &gt; **Software Asset** &gt; **Publisher Overview**.
 
@@ -127,6 +127,3 @@ License consumption trends for your Citrix software products. Each data point re
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management publisher pack for Citrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/citrix-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

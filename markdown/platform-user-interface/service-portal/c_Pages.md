@@ -28,7 +28,7 @@ Use pages to organize content, ensure responsive mobile optimization, and design
 
 Containers are markup artifacts that are put on a page to contain the layouts that house the widgets.
 
-You can view containers and how they make up a page in the [[c_ServicePortal|Service Portal]] Designer \(**Service Portal** &gt; **Service Portal Configuration** &gt; **Designer**\). Open a page in the Service Portal Designer, then click anything on the page. In the top left corner, breadcrumbs appear to show you which element on the page you have selected. Use the breadcrumbs to select a container, then click the edit icon \(\[Omitted image "IconEditOption.png"\] Alt text: Edit icon from the top of the Service Portal Designer\).
+You can view containers and how they make up a page in the Service Portal Designer \(**Service Portal** &gt; **Service Portal Configuration** &gt; **Designer**\). Open a page in the Service Portal Designer, then click anything on the page. In the top left corner, breadcrumbs appear to show you which element on the page you have selected. Use the breadcrumbs to select a container, then click the edit icon \(\[Omitted image "IconEditOption.png"\] Alt text: Edit icon from the top of the Service Portal Designer\).
 
 \[Omitted image "ContainerBreadCrumbs.png"\] Alt text: Cool clocks widgets with a widget selected and the breadcrumbs at the top of the page highlighted
 
@@ -44,16 +44,11 @@ You can also edit a container by navigating to the Page Editor and selecting the
 -   **[Create and edit a page using the Service Portal Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_ConfigureAPage.md)**  
 Create or edit a page and use layouts to organize the columns that house the widgets.
 -   **[Standard ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/standard-ticket-page.md)**  
-[[configure-onboarding-modals|Configure]] individual request types to display the request-specific information, while still having a consistent layout that is similar to other request types. This configuration verifies a consistent experience when viewing submitted requests.
+Configure individual request types to display the request-specific information, while still having a consistent layout that is similar to other request types. This configuration verifies a consistent experience when viewing submitted requests.
 -   **[Redirect a reference to a page ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reroute-page.md)**  
 Redirect all references from Service Portal widgets to route to a new page with a single record to avoid manually replacing the hard-coded page ID in widgets.
 -   **[Attaching files to records from portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/attaching-files-portal-pages.md)**  
-[[attachments-configurable-workspace|Attachments]] can be added to records from portal pages by navigating the file system, pasting files from the clipboard, or dragging and dropping files.
+Attachments can be added to records from portal pages by navigating the file system, pasting files from the clipboard, or dragging and dropping files.
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[attachments-configurable-workspace|Attachments]]

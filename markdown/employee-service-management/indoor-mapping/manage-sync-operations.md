@@ -22,13 +22,13 @@ Role required: sn\_wsd\_indoor\_map.admin or sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Enhanced Sync** &gt; **Enhanced Sync Operations**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Enhanced Sync** &gt; **Enhanced Sync Operations**.
 
 2.  Filter the list to include the records that you want to process.
 
     Only the records that are included in the filter are processed. For more information about filtering lists, see [Create a filter in List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md).
 
-    Review the pending operations, which include Workplace Space retirements or [[Indoor-mapping|Indoor Mapping]] Place deactivations.
+    Review the pending operations, which include Workplace Space retirements or Indoor Mapping Place deactivations.
 
 3.  Edit the operation based on your requirement.
 
@@ -49,7 +49,3 @@ If some records aren’t processed, you can review the error logs. You can view 
 
 **Parent Topic:**[Using enhanced synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/using-enhanced-sync.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]

@@ -14,17 +14,17 @@ breadcrumb: [Collaborative Work Management, Strategic Portfolio Management]
 
 # Exploring Collaborative Work Management
 
-[[cwm-landing|Collaborative Work Management]] \(CWM\) is a work management tool that centralizes tasks, documentation, and planning in a single workspace, helping knowledge workers, project managers, and agile teams manage work without switching between applications.
+Collaborative Work Management \(CWM\) is a work management tool that centralizes tasks, documentation, and planning in a single workspace, helping knowledge workers, project managers, and agile teams manage work without switching between applications.
 
 ## Collaborative Work Management overview
 
 Teams managing work across disconnected tools often lose context, duplicate effort, and struggle to maintain a clear picture of progress. Tasks live in one tool, documentation in another, and sprint planning in a third, with dependencies tracked in spreadsheets and status updates shared over email or chat.
 
-CWM solves this by bringing tasks, documentation, and planning into a single workspace organized around Spaces. Each Space contains Boards for task and [[c_ProjectApplicationOverview|project management]] and Docs for documentation, so everything related to a team's work stays connected and accessible from one place.
+CWM solves this by bringing tasks, documentation, and planning into a single workspace organized around Spaces. Each Space contains Boards for task and project management and Docs for documentation, so everything related to a team's work stays connected and accessible from one place.
 
 Teams can choose how they work within CWM. Use a custom workflow for general task management, or run sprints end-to-end using the built-in Agile capabilities, including sprint planning, scrum tasks, and cross-team dependencies. Boards are highly configurable without admin involvement, and generative AI features help reduce manual overhead on task creation, formula building, and content generation.
 
-CWM integrates with the broader ServiceNow AI Platform, connecting to other ServiceNow applications, records, and the [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace so that team-level execution stays aligned with organizational goals.
+CWM integrates with the broader ServiceNow AI Platform, connecting to other ServiceNow applications, records, and the Strategic Planning workspace so that team-level execution stays aligned with organizational goals.
 
 ## Collaborative Work Management users
 
@@ -33,7 +33,7 @@ CWM integrates with the broader ServiceNow AI Platform, connecting to other Serv
 |Knowledge worker/Team member|Creates and manages tasks on Boards, collaborates on Docs, and tracks personal work in My Space. Uses [Now Assist for Collaborative Work Management \(CWM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/now-assist-for-cwm-landing.md) to reduce manual overhead in task creation and formula building.|
 |Project manager|Organizes work into Spaces and Boards, tracks progress across teams, and connects work to business goals and the Strategic Planning workspace.|
 |Agile practitioner|Plans and runs sprints, manages backlogs, generates scrum tasks from user stories, and tracks cross-team dependencies.|
-|SPM team member|Views and updates project and [[demand-task|demand tasks]] from [[project-workspace-landing-page|Project Workspace]] and Next Experience for [[c_DemandManagement|Demand Management]] directly in CWM using the team member read or team member read-write role.|
+|SPM team member|Views and updates project and demand tasks from Project Workspace and Next Experience for Demand Management directly in CWM using the team member read or team member read-write role.|
 
 ## Collaborative Work Management benefits
 
@@ -122,7 +122,7 @@ All users
 
 </td></tr><tr><td>
 
-Run sprints end-to-end in CWM without switching to a separate Agile tool. Plan work into sprints, manage backlogs, [[t_SDLCPPSTrackProgress|track progress]] through the sprint lifecycle, and conduct retrospectives, all within your Board.
+Run sprints end-to-end in CWM without switching to a separate Agile tool. Plan work into sprints, manage backlogs, track progress through the sprint lifecycle, and conduct retrospectives, all within your Board.
 
 </td><td>
 
@@ -273,19 +273,9 @@ Knowledge worker
 
 ## What to explore next
 
-To learn more about configuring and [[using-collaborative-work-management|using Collaborative Work Management]], see:
+To learn more about configuring and using Collaborative Work Management, see:
 
 -   [Configuring Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/configuring-cwm.md)
 -   [Using Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/using-collaborative-work-management.md)
 -   [Collaborative Work Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/reference-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[demand-task|Demand tasks]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_DemandManagement|Demand Management]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[using-collaborative-work-management|Using Collaborative Work Management]]

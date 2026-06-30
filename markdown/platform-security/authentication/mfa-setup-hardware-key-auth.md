@@ -24,7 +24,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Self-Service** &gt; **My Profile**.
 
-2.  Under **Related Links**, click **[[mfa-landing|Multi-factor Authentication]]**.
+2.  Under **Related Links**, click **Multi-factor Authentication**.
 
     The Multi-factor authentication page opens.
 
@@ -45,6 +45,3 @@ Role required: none
 
 Your hardware key is registered. You can see the hardware key listed in the Multi-factor authentication page.
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]

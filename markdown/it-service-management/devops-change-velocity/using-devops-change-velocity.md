@@ -14,8 +14,5 @@ breadcrumb: [DevOps Change Velocity, IT Service Management]
 
 # Managing DevOps Change Velocity
 
-Utilize the features of [[devops-landing-page-new|DevOps Change Velocity]] to efficiently manage your DevOps tools and processes.
+Utilize the features of DevOps Change Velocity to efficiently manage your DevOps tools and processes.
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring up External Legal Service Center, External Legal Servic
 
 # Install External Legal Service Center
 
-You can activate the [[lsd-ext-portal-landing-page|External Legal Service Center]] plugin \(sn\_lg\_ext\_portal\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the External Legal Service Center plugin \(sn\_lg\_ext\_portal\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -48,6 +48,4 @@ For more information, see [External Legal Service Center reference](https://raw.
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

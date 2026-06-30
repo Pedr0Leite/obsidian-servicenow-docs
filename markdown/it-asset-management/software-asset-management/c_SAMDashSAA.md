@@ -16,10 +16,10 @@ breadcrumb: [Platform Analytics Solution for Software Asset Management classic, 
 
 View true-up costs and license, compliance, and removal summaries trend charts on the Software Asset Analytics dashboard integrated with Performance Analytics.
 
-**Note:** The Software Asset Analytics dashboard is no longer available for new Australia users who have activated the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
+**Note:** The Software Asset Analytics dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
 -   If you activated the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia but didn't activate the Workspace plugin \(com.sn\_sam\_workspace\), you have access to this dashboard.
--   If you activated the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application after upgrading to Australia, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
+-   If you activated the Software Asset Workspace \(sn\_sam\_workspace\) store application after upgrading to Australia, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
 
 The Software Asset Analytics dashboard tab is accessed by navigating to **Software Asset** &gt; **Overview**. Select an element within a report to see more information, or add and move widgets as needed.
 
@@ -381,7 +381,3 @@ Active removal candidates in various breakdowns \(State, Publisher, Product, Jus
 </td></tr></tbody>
 </table>**Parent Topic:**[Platform Analytics Solution for Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-asset-mgmt-content-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent for Universal Request, Universal Request, Employee Se
 
 # Create a universal request using Virtual Agent
 
-Create a [[ur-landing-limitedaccess|universal request]] with the help of Virtual Agent. You can access the Virtual Agent using the chat option in the search page of Service Portal.
+Create a universal request with the help of Virtual Agent. You can access the Virtual Agent using the chat option in the search page of Service Portal.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ A universal request is created for your issue.
 
 **Parent Topic:**[Virtual Agent for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-va-landing.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

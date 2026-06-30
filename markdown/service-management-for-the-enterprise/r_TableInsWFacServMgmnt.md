@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 # Tables installed with Facilities Service Management
 
-[[FacilitiesLandingPage|Facilities Service Management]] adds the following tables.
+Facilities Service Management adds the following tables.
 
 <table id="table_u5j_fry_dt"><thead><tr><th>
 
@@ -79,9 +79,5 @@ Facilities Request Task Model\[cmdb\_factask\_product\_model\]
 Stores request task models
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+</table>**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

@@ -22,13 +22,13 @@ Role required: sn\_cmdb\_editor and itil have read access, sn\_cmdb\_admin and i
 
 ## About this task
 
-Data refresh rules are used in conjunction with static [[r_ReconciliationRulesPrinciples|reconciliation rules]] to determine reconciliation steps for a CI. These rules determine if, when, and by which discovery source a CI can be updated. The precedence order of applying reconciliation rules to a class, remains the same even when there are data refresh rules for that same class.
+Data refresh rules are used in conjunction with static reconciliation rules to determine reconciliation steps for a CI. These rules determine if, when, and by which discovery source a CI can be updated. The precedence order of applying reconciliation rules to a class, remains the same even when there are data refresh rules for that same class.
 
 Data refresh rules have no impact when dynamic reconciliation rules are in effect.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to show the CI Classes list and then select the class for which to create a data refresh rule.
 
@@ -85,7 +85,3 @@ Activates the rule.
 
 [Create a CI reconciliation rule]()
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

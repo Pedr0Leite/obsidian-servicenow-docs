@@ -14,7 +14,7 @@ breadcrumb: [Search widgets, Widget library, Using portal widgets, Configuring S
 
 # AI Search Assist widget
 
-Improve incident deflection for [[c_ServicePortal|Service Portal]] users by displaying the most relevant search results within a record producer.
+Improve incident deflection for Service Portal users by displaying the most relevant search results within a record producer.
 
 ## Using the widget
 
@@ -37,6 +37,3 @@ The AI Search Assist widget doesn't include instance options.
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

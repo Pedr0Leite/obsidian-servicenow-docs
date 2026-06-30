@@ -28,8 +28,8 @@ The push application handles sending notifications to mobile devices. Add your n
 
 3.  Open the record for the push application you want to modify.
 
-    -   Open **ServiceNow Mobile Application** for the [[mobile-experience|Mobile Agent app]].
-    -   Open **ServiceNow Request Application** for the [[now-mobile-app|Now Mobile app]].
+    -   Open **ServiceNow Mobile Application** for the Mobile Agent app.
+    -   Open **ServiceNow Request Application** for the Now Mobile app.
     -   Open **ServiceNow Onboarding Mobile Application** for the Mobile Onboarding app.
     If you are using a branded mobile application, select the record for the branded app. For example, select **ServiceNow Onboarding Intune Mobile Application** if you are using the Microsoft Intune branded application.
 
@@ -43,15 +43,8 @@ The push application handles sending notifications to mobile devices. Add your n
 
 8.  Click **Submit**.
 
-    Your push message is rendered on mobile devices that it is registered to. To see how [[sg-mobile-security-push-notif|push notifications]] appear to end users, see [[sg-mobile-push-notifications|Mobile push notifications]].
+    Your push message is rendered on mobile devices that it is registered to. To see how push notifications appear to end users, see [Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md).
 
 
-**Parent Topic:**[[configure-mobile-push-notifications|Mobile push notification components]]
+**Parent Topic:**[Mobile push notification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-push-notifications.md)
 
-## Related
-
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[configure-mobile-push-notifications|Mobile push notification components]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]
-- [[sg-mobile-security-push-notif|Push notifications]]

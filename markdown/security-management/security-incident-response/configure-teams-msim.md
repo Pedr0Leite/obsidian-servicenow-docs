@@ -14,7 +14,7 @@ breadcrumb: [Integrate Major Security Incident Management with Microsoft Teams, 
 
 # Configure Microsoft Teams connection with Major Security Incident Management
 
-Set up [[major-security-incident-management-landing-page|Major Security Incident Management]] with Microsoft Teams connection.
+Set up Major Security Incident Management with Microsoft Teams connection.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Role required: admin
 
 **Parent Topic:**[Integrate Major Security Incident Management with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-teams-msim.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

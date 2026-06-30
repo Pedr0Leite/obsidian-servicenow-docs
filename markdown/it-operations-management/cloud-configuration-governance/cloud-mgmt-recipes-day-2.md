@@ -67,7 +67,7 @@ Attaches and exposes an Amazon \(Elastic Block Store\) EBS volume to the instanc
 
 </td></tr><tr><td>
 
-CreateSnapshot\[AWS datacenter level [[r-discovery|discovery]] operation\]
+CreateSnapshot\[AWS datacenter level discovery operation\]
 
 </td><td>
 
@@ -115,7 +115,3 @@ Catalog Item for Day 2 operations for an AWS VM, Set 1.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]

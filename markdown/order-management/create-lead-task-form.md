@@ -12,7 +12,7 @@ breadcrumb: [Lead Management reference, Lead and opportunity management, Referen
 
 # Create new lead task form
 
-Field descriptions for editing or reviewing details on the Create New Lead Task form in the [[lead-management|Lead Management]] and [[explore-crm-touchpoints|CRM Touchpoints]] modules.
+Field descriptions for editing or reviewing details on the Create New Lead Task form in the Lead Management and CRM Touchpoints modules.
 
 <table id="table_jtn_5t3_1cc"><thead><tr><th>
 
@@ -83,16 +83,10 @@ Work notes
 Internal notes visible only to team members with appropriate access.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[lead-management-reference|Lead Management reference]]
+</table>**Parent Topic:**[Lead Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-reference.md)
 
 **Related topics**  
 
 
-[[lead-management-use-tasks-tab|Add lead tasks]]
+[Add lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md)
 
-## Related
-
-- [[lead-management-reference|Lead Management reference]]
-- [[lead-management-use-tasks-tab|Add lead tasks]]
-- [[lead-management|Lead Management]]
-- [[explore-crm-touchpoints|CRM Touchpoints]]

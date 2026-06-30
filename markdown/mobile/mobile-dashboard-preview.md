@@ -18,21 +18,13 @@ Adding data visualizations helps users more easily identify trends and turning p
 
 Dashboard previews support the follow reporting charts:
 
--   [[mobile-reporting-bar|Bar \(vertical bar chart\)]]
--   [[mobile-reporting-donut|Donut]]
--   [[mobile-reporting-pie|Pie]]
--   [[mobile-reporting-time-series|Line]]
--   [[mobile-reporting-single-score|Single score]]
+-   [Bar \(vertical bar chart\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-bar.md)
+-   [Donut](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-donut.md)
+-   [Pie](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-pie.md)
+-   [Line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-time-series.md)
+-   [Single score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-single-score.md)
 -   [Spline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-time-series.md)
 -   [Step line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-time-series.md)
 
-For more information on how users use these data visualizations on the mobile devices, see [[mobile-reporting-dashboard|Mobile platform dashboards]].
+For more information on how users use these data visualizations on the mobile devices, see [Mobile platform dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-dashboard.md).
 
-## Related
-
-- [[mobile-reporting-bar|Bar reports for mobile]]
-- [[mobile-reporting-donut|Donut reports for mobile]]
-- [[mobile-reporting-pie|Pie charts for mobile]]
-- [[mobile-reporting-time-series|Time series reports for mobile]]
-- [[mobile-reporting-single-score|Single score reports for mobile]]
-- [[mobile-reporting-dashboard|Mobile platform dashboards]]

@@ -28,7 +28,7 @@ Project and demand managers can also [cancel resource plans from a project, proj
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **[[c_ResourcePlans|Resource Plans]]** &gt; **All**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Resource Plans** &gt; **All**.
 
 2.  Open the resource plan record that you want to cancel.
 
@@ -88,6 +88,3 @@ If a project or a project task is marked Closed, the project manager can cancel 
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]

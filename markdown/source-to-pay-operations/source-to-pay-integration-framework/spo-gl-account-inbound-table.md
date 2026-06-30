@@ -25,8 +25,8 @@ The following table lists the mandatory fields for the GL Account Stage inbound 
 |Alternate currency|String|Alternate currency name of the GL account.|
 |Category|String|Category of the GL account.|
 |Entity|String|Name of the entity.|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
-|GL Account|String|Name of the general [[ledger-account|ledger account]].|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
+|GL Account|String|Name of the general ledger account.|
 |Inactive|String|Status of the GL account. By default the checkbox is inactive.|
 |Ledger type|String|Type of ledger account.|
 |Local currency|String|Local currency that corresponds to the entity's operating location.|
@@ -112,9 +112,3 @@ The following table lists the mandatory fields for the GL Account Stage inbound 
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[ledger-account|Ledger account]]

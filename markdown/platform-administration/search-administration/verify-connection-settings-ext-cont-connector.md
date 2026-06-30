@@ -29,7 +29,7 @@ Permission changes and revocations that occur after the connector is created can
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  In the Connectors list, select the record for the external content connector that you want to verify the connection settings and source system permissions for.
 
@@ -52,6 +52,3 @@ If the test crawl encountered errors, review its crawl history entries to see wh
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

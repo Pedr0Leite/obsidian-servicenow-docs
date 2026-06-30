@@ -22,7 +22,7 @@ Joining or subscribing to a waitlist helps workplace administrators and reservat
 
 -   Reduces scheduling friction for both employees and workplace administrators.
 -   Helps avoid manual monitoring for available or freed-up spaces for reservation.
--   Improves office space utilization by filling vacated spaces automatically. Workplace Event Planners and Workplace Managers get insights on space utilization, [[space-optimization|space optimization]], and space demand requirements for a given location.
+-   Improves office space utilization by filling vacated spaces automatically. Workplace Event Planners and Workplace Managers get insights on space utilization, space optimization, and space demand requirements for a given location.
 -   Event planners can review and update waitlist records that are queued. They can change the weight or priority of a Queued waitlist record and move it up in the queue for space allocation. They can also manage space assignments on behalf of employees. They can assign a space when employees are unable to find a preferred reservable space and time slot.
 
 ## Reservation waitlist workflow
@@ -34,8 +34,8 @@ The following steps describe the waitlist lifecycle:
 
     **Note:** The **Enable browse by neighborhood** check box must be selected by workplace administrators .
 
-3.  Employees can [[reservation-portal|make a reservation]] using the reservation portal. For more information, see [Create a reservation]().
-4.  Employees can submit a Reservation waitlist record using the [[employee-center-landing-page|Employee Center]] portal. The application creates a waitlist record.
+3.  Employees can make a reservation using the reservation portal. For more information, see [Create a reservation]().
+4.  Employees can submit a Reservation waitlist record using the Employee Center portal. The application creates a waitlist record.
 
     **Note:** Employees can only subscribe to the waitlist when the Reservation waitlist record producer is enabled by workplace administrators.
 
@@ -52,7 +52,7 @@ The following steps describe the waitlist lifecycle:
 
     For more information, see [Reservation Waitlist data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/waitlist-configuration.md).
 
-8.  Workplace event planners can also assign a space manually on behalf of employees. If employees are unable to find a space or when they request event planners to assign a space, they can assign a space. If a space is available, the waitlist request is fulfilled immediately and confirmed. A reservation is created and the **Fulfilled by** column in the Reservation Waitlist table is updated with the [[event-planner|event planner]]'s name who assigned a space manually.
+8.  Workplace event planners can also assign a space manually on behalf of employees. If employees are unable to find a space or when they request event planners to assign a space, they can assign a space. If a space is available, the waitlist request is fulfilled immediately and confirmed. A reservation is created and the **Fulfilled by** column in the Reservation Waitlist table is updated with the event planner's name who assigned a space manually.
 
     For more information, see [Reservation Waitlist data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/waitlist-configuration.md).
 
@@ -62,7 +62,7 @@ The following steps describe the waitlist lifecycle:
 10. Expired and canceled entries older than one month are permanently deleted from the system . For more information, see [Purge a waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/purge-waitlist.md).
 
 1.  [Reservation Waitlist data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/waitlist-configuration.md)  
-The [[waitlist-configuration|Reservation Waitlist data model]] describes the tables and configuration options that support waitlist requests, space allocation, and reservation fulfillment for employees.
+The Reservation Waitlist data model describes the tables and configuration options that support waitlist requests, space allocation, and reservation fulfillment for employees.
 2.  [Create a reservation waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-rsv-waitlist.md)  
 When all spaces in a location are fully booked, and when employees are unable to find a space, they can join a reservation waitlist queue.
 3.  [Create a schedule job for waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/schedule-job-waitlist.md)  
@@ -81,10 +81,3 @@ An auto flush rule on the Reservation Waiting List \(**sn\_wsd\_rsv\_waitlist**\
 
 [Print workplace reservations]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[reservation-portal|Make a reservation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[event-planner|Event Planner]]
-- [[waitlist-configuration|Reservation Waitlist data model]]

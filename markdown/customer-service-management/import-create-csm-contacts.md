@@ -12,7 +12,7 @@ breadcrumb: [Configure accounts and contacts, Customer data, Set up your environ
 
 # Create customer contacts
 
-A contact is a user who is an employee of an account. Use the [[c_CustomerServiceManagement|Customer Service Management]] application to create contact records.
+A contact is a user who is an employee of an account. Use the Customer Service Management application to create contact records.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ An account can have multiple contacts but a contact can be associated with only 
 
     After a registration request is approved, the customer contact receives an email with a user ID and temporary password. When logging in for the first time, the contact is asked to change the password.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

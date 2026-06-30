@@ -15,7 +15,7 @@ breadcrumb: [Now Assist, Common GRC features, Governance, Risk, and Compliance]
 
 # Exploring Now Assist for Integrated Risk Management \(IRM\)
 
-With the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] application, you can use generative AI to support key IRM tasks such as summarizing issues, identifying risks, and reviewing controls. These capabilities are integrated into IRM records and help streamline how you work with issues, risks, controls, policy exceptions, and more.
+With the Now Assist for Integrated Risk Management \(IRM\) application, you can use generative AI to support key IRM tasks such as summarizing issues, identifying risks, and reviewing controls. These capabilities are integrated into IRM records and help streamline how you work with issues, risks, controls, policy exceptions, and more.
 
 ## Now Assist for IRM overview
 
@@ -102,7 +102,7 @@ Risk Assessment Summarization
 
 </td><td>
 
-Use Now LLM Service to generate risk assessment summaries from inherent, residual, target risks, and control effectiveness data. These summaries highlight key [[factors|factors]] and relevant comments, helping assessors and approvers gain actionable insights.
+Use Now LLM Service to generate risk assessment summaries from inherent, residual, target risks, and control effectiveness data. These summaries highlight key factors and relevant comments, helping assessors and approvers gain actionable insights.
 
 </td><td>
 
@@ -154,7 +154,3 @@ To learn more about configuring and using Now Assist for IRM, see:
 -   [Using agentic workflows in IRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-agentic-ai-workflows.md)
 -   [Optimize GRC issue resolution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/generate-grc-issue-resolution.md)
 
-## Related
-
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]
-- [[factors|factors]]

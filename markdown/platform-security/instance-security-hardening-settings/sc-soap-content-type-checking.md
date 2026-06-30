@@ -16,7 +16,7 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 Use the **glide.soap.require\_content\_type\_xml** property to enable validation of a content type as text/xml and protect against invalid SOAP requests.
 
-If the **glide.soap.require\_content\_type\_xml** system property is not set to the recommended value of **true**, then there is no validation for the SOAP [[c_requestAPI|request]].
+If the **glide.soap.require\_content\_type\_xml** system property is not set to the recommended value of **true**, then there is no validation for the SOAP request.
 
 Ensure that the property **glide.soap.require\_content\_type\_xml** is set to **true**.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 8.8
 -   CVSS rating: High
--   Security risk details: This lack of validation can enable Cross-Site Request Forgery \(CSRF\) attacks, allowing malicious actors to trick authenticated [[users|users]] into sending unauthorized SOAP requests.
+-   Security risk details: This lack of validation can enable Cross-Site Request Forgery \(CSRF\) attacks, allowing malicious actors to trick authenticated users into sending unauthorized SOAP requests.
 
 </td></tr><tr><td>
 
@@ -118,9 +118,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

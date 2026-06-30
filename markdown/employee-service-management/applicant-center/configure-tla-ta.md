@@ -14,19 +14,15 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Configure time limited authentication
 
-Configure the time limited authentication for your external applicants to log in to the [[applicant-center-concept|Applicant Center]].
+Configure the time limited authentication for your external applicants to log in to the Applicant Center.
 
 Time limited authentication \(TLA\) gives the applicant a more accessible and easy option to log in to the Applicant Center portal, as opposed to remembering different passwords.
 
 Create post-authentication policies for your external applicant role, so that they can log in to the Applicant Center, using a magic link.
 
-Depending on the post-authentication policy you’ve enabled, add a condition for the external applicant role and the Applicant Center identity provider. For more information on the [[roles-in-ta|roles in Hiring Experiences]], see [Roles in Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/roles-in-ta.md). The identity provider is unique for each portal.
+Depending on the post-authentication policy you’ve enabled, add a condition for the external applicant role and the Applicant Center identity provider. For more information on the roles in Hiring Experiences, see [Roles in Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/roles-in-ta.md). The identity provider is unique for each portal.
 
 For more information on setting up the post-authentication policy, see [Configure an authentication policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-allow-access-policy.md).
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[applicant-center-concept|Applicant Center]]
-- [[roles-in-ta|Roles in Hiring Experiences]]

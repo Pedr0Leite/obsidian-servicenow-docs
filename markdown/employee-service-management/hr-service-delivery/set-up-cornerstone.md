@@ -14,13 +14,13 @@ breadcrumb: [HR Service Delivery Integration with Cornerstone OnDemand, Integrat
 
 # Setting up HR Service Delivery Integration with Cornerstone OnDemand
 
-Understand how to set up the [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]] application for pulling [[exploring-learning-exp|learning]] courses from the Cornerstone OnDemand system into the ServiceNow system.
+Understand how to set up the HR Service Delivery Integration with Cornerstone OnDemand application for pulling learning courses from the Cornerstone OnDemand system into the ServiceNow system.
 
 ## Before you begin
 
 -   Role required: sn\_hr\_cornerstone.admin
 -   Activate the Human Resources Scoped App: Core plugin \[com.sn\_hr\_core\].
--   Activate the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\] from ServiceNow Store. This plugin activates Cornerstone spoke in IntegrationHub and [[hr-service-delivery|HR Service Delivery]] Integrations Framework plugin \[sn\_hr\_integr\_fw\].
+-   Activate the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\] from ServiceNow Store. This plugin activates Cornerstone spoke in IntegrationHub and HR Service Delivery Integrations Framework plugin \[sn\_hr\_integr\_fw\].
 
 ## Procedure
 
@@ -34,13 +34,8 @@ Understand how to set up the [[hr-cornerstone-int|HR Service Delivery Integratio
 
     **Important:** Once you have activated the necessary plugins and set up the Cornerstone spoke, HR Integration Services \(for Cornerstone OnDemand application\) are automatically created. For more information, refer to [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/cornerstone-hr-service.md).
 
-3.  [[schedule-job-hrint|Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand]].
+3.  Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand.
 
     For more information, refer to [Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/schedule-job-hrint.md).
 
-## Related
 
-- [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]]
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[schedule-job-hrint|Configure the flow for HR Service Delivery Integration with Cornerstone OnDemand]]

@@ -14,7 +14,7 @@ breadcrumb: [Workplace Case Management, Workplace Service Delivery, Employee Ser
 
 # Managing Workplace cases
 
-As a Workplace case manager, you can manage workplace cases created through [[workplace-services|workplace services]]. You can view and update cases if required.
+As a Workplace case manager, you can manage workplace cases created through workplace services. You can view and update cases if required.
 
 -   **[View and track workplace cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-workplace-cases.md)**  
 View and track open, closed, and unassigned workplace cases.
@@ -23,13 +23,9 @@ Workplace Event planners can view the emergency maintenance case details and the
 -   **[View change event reservation case details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/view-case-change-event-reservation.md)**  
 Workplace Event planners can view the change event reservation case details and the actions taken by AI agents in the case work notes.
 -   **[Print workplace cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/print-workplace-cases.md)**  
-Print case details along with associated services or service items to support effective [[case-management-workspace|case management]] and resolution.
+Print case details along with associated services or service items to support effective case management and resolution.
 -   **[Managing print cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/manage-case-print.md)**  
 Filter workplace cases using criteria such as the Short Description, Workplace Location, or other relevant fields to generate a consolidated report.
 
 **Parent Topic:**[Workplace Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-feat.md)
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[case-management-workspace|Case management]]

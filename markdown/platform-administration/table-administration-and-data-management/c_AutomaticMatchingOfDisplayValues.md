@@ -14,7 +14,7 @@ breadcrumb: [Exporting and importing data via XML, Exporting data, Tables and da
 
 # Automatic matching of display values
 
-During the import of XML records, the system attempts to match some [[reference-email-admin|reference]] field [[c_DisplayValues|display values]] to a local sys\_id value.
+During the import of XML records, the system attempts to match some reference field display values to a local sys\_id value.
 
 If the system finds an existing record with a matching display value on the local instance, the import uses the sys\_id of the existing record rather than the sys\_id of the imported record.
 
@@ -55,7 +55,3 @@ The system can match display values for the following tables.
 -   Role \[sys\_user\_role\]
 -   Group Roles \[sys\_group\_has\_role\]
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[c_DisplayValues|Display values]]

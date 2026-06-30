@@ -31,7 +31,7 @@ Package the resource block as an update set. Then export the update set from its
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
     All resource blocks, in published and draft mode, appear in the Resource Blocks window.
 
@@ -91,6 +91,4 @@ Package the resource block as an update set. Then export the update set from its
 
     The resource block you imported should appear in the listed resource blocks.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

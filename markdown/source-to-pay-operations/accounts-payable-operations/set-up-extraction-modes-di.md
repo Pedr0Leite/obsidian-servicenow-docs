@@ -25,11 +25,11 @@ Role required: sn\_docintel.manager
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-2.  In the workflow group, select &gt; **[[finance-supply-chain-landing|Finance and Supply Chain]]** &gt; **Invoice data extraction** to view the skills for the APO features.
+2.  In the workflow group, select &gt; **Finance and Supply Chain** &gt; **Invoice data extraction** to view the skills for the APO features.
 
 3.  Select the settings \[Omitted image "icon-docintel-settings-gear.png"\] Alt text: docintel settings icon.
 
-4.  Select the extraction mode for the use case**[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]**.\[Omitted image "settings-na.png"\] Alt text: Extraction mode
+4.  Select the extraction mode for the use case**Accounts Payable Operations**.\[Omitted image "settings-na.png"\] Alt text: Extraction mode
 
 5.  Adjust the DocIntel full automation mode.
 
@@ -37,7 +37,4 @@ Role required: sn\_docintel.manager
     -   When you turn on the **Any required field is missing in the document**, the full automation mode is turned off and requires an agent review.
 6.  Select **Save**.
 
-## Related
 
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

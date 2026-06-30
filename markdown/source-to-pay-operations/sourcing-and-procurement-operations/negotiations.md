@@ -14,7 +14,7 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Negotiations
 
-A negotiation represents individual [[supplier|supplier]] negotiations and tracks the items and activities according to supplier. These activities involve obtaining the price for the products or services requested by the shopper, or negotiating the terms.
+A negotiation represents individual supplier negotiations and tracks the items and activities according to supplier. These activities involve obtaining the price for the products or services requested by the shopper, or negotiating the terms.
 
 The type and outcome of a negotiation record can be used for reporting purposes.
 
@@ -169,7 +169,7 @@ Sourcing Requests
 
 </td><td>
 
-View and track all the sourcing requests associated with the [[purchase-lines|purchase lines]] in the negotiation​.For details, see [Sourcing request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-request.md).
+View and track all the sourcing requests associated with the purchase lines in the negotiation​.For details, see [Sourcing request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-request.md).
 
 </td></tr><tr><td>
 
@@ -197,7 +197,7 @@ View information on all the cases that are related to the sourcing event.
 
 </td></tr><tr><td>
 
-Draft [[contracts|Contracts]]
+Draft Contracts
 
 </td><td>
 
@@ -225,7 +225,7 @@ Contract Requests
 
 </td><td>
 
-Displays all the associated contract requests against this negotiation.**Note:** This field is displayed only if you have the [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
+Displays all the associated contract requests against this negotiation.**Note:** This field is displayed only if you have the Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
 
 </td></tr><tr><td>
 
@@ -233,7 +233,7 @@ Purchasing SLAs
 
 </td><td>
 
-View all the purchasing SLAs associated to the purchasing tasks against the negotiation, along with tasks associated to the underlying [[purchase-requisition|purchase requisition]] line.
+View all the purchasing SLAs associated to the purchasing tasks against the negotiation, along with tasks associated to the underlying purchase requisition line.
 
 </td></tr><tr><td>
 
@@ -254,10 +254,10 @@ Associated email communication that has been sent.
 </td></tr></tbody>
 </table>## Negotiation state flows
 
-The status of the purchase line and the [[sourcing-request|sourcing request]] updates automatically depending on the status of the negotiation. Negotiations are grouped by supplier.
+The status of the purchase line and the sourcing request updates automatically depending on the status of the negotiation. Negotiations are grouped by supplier.
 
 -   When the state of the negotiation is updated to Awaiting Supplier Response, all applicable purchase requisition lines, for the same supplier, of sourcing requests associated to the negotiation are also updated to Awaiting Supplier Response. The purchase requisition lines not belonging to sourcing requests associated to the negotiation aren’t updated.
--   When all applicable purchase requisition lines, for the same supplier, of sourcing requests associated to the negotiation are updated to [[pricing|Pricing]] Obtained, the state of the negotiation should be Closed Complete. If one purchase requisition line is in Pricing Obtained state, while another is still in Awaiting Supplier Response, the state of the negotiation remains in the Awaiting Supplier Response state.
+-   When all applicable purchase requisition lines, for the same supplier, of sourcing requests associated to the negotiation are updated to Pricing Obtained, the state of the negotiation should be Closed Complete. If one purchase requisition line is in Pricing Obtained state, while another is still in Awaiting Supplier Response, the state of the negotiation remains in the Awaiting Supplier Response state.
 -   When the state of the negotiation is updated to Negotiation in Progress, all applicable purchase requisition lines, for the same supplier, of sourcing requests associated to the negotiation are updated to Negotiation in Progress. The purchase requisition lines not belonging to sourcing requests associated to the negotiation aren’t updated.
 -   When the state of the negotiation is updated to Closed Complete or Closed Canceled, no state updates are affected on the purchase requisition lines.
 
@@ -278,12 +278,3 @@ The default states that are available for a negotiation are listed.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-lines|Purchase lines]]
-- [[contracts|Contracts]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[pricing|Pricing]]

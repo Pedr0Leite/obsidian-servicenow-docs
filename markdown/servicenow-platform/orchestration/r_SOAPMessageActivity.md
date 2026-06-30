@@ -14,7 +14,7 @@ breadcrumb: [Deprecated Orchestration activities, Activate Orchestration, Classi
 
 # SOAP Message workflow activity
 
-The **SOAP Message** activity uses SOAP messages defined in the System Web Services plugin and can call the messages using a [[mid-server-landing|MID Server]].
+The **SOAP Message** activity uses SOAP messages defined in the System Web Services plugin and can call the messages using a MID Server.
 
 Your instance must have access to a MID Server configured to use SOAP.
 
@@ -94,7 +94,7 @@ use\_midserver
 
 </td><td>
 
-[[check-box|Check box]] for using a MID Server to send the SOAP message. A MID Server might be necessary to reach an endpoint within a firewall or a sub-network that is not visible from the instance. If this check box is selected \(true\), but no MID Server is defined in the **MID Server** field, workflow automatically attempts to find a MID Server.
+Check box for using a MID Server to send the SOAP message. A MID Server might be necessary to reach an endpoint within a firewall or a sub-network that is not visible from the instance. If this check box is selected \(true\), but no MID Server is defined in the **MID Server** field, workflow automatically attempts to find a MID Server.
 
 </td></tr><tr><td>
 
@@ -123,7 +123,3 @@ The script to execute after the request has been made and a response has been re
 </td></tr></tbody>
 </table>**Parent Topic:**[Deprecated Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationBasicActivities.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

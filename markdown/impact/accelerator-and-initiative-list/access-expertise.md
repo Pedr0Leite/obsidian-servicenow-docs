@@ -14,11 +14,11 @@ breadcrumb: [Access to Expertise, Initiatives catalog, View the Initiatives and 
 
 # Request Access to Expertise
 
-Use the [[access-expertise-initiative|Access to Expertise]] Initiative to connect to ServiceNow subject matter experts via personalized virtual coaching sessions.
+Use the Access to Expertise Initiative to connect to ServiceNow subject matter experts via personalized virtual coaching sessions.
 
 ## Before you begin
 
-Role required: [[impact-landing-page|impact]] admin or impact platform owner
+Role required: impact admin or impact platform owner
 
 ## Procedure
 
@@ -37,7 +37,7 @@ Role required: [[impact-landing-page|impact]] admin or impact platform owner
     |Which instance is this related to?|If multiple instances are available, the drop-down is enabled for selection|
     |Phase of implementation that this request pertains to|Phase available in the drop-down|
 
-3.  Select a **Primary category** on the What do you need [[io-help|help]] with? form.
+3.  Select a **Primary category** on the What do you need help with? form.
 
 4.  Fill out the fields on the Workflow and product details form.
 
@@ -55,13 +55,8 @@ Role required: [[impact-landing-page|impact]] admin or impact platform owner
 
 7.  **Submit** the form.
 
-    Members of the [[impact-squad|Impact squad]] will reach out to you to request additional information, next steps, or with a resolution to your inquiry.
+    Members of the Impact squad will reach out to you to request additional information, next steps, or with a resolution to your inquiry.
 
 8.  Monitor the status and the related tasks under **Impact** &gt; **Initiatives &amp; Accelerators** &gt; **Your initiatives**.
 
-## Related
 
-- [[access-expertise-initiative|Access to Expertise]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[impact-squad|Impact Squad]]

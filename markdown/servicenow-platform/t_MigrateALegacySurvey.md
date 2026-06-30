@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 ## About this task
 
-To avoid timing out for very large [[r_SurveyManagementLandingPage|surveys]], you can disable the transaction quota. See [Transaction quotas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TransactionQuotas.md).
+To avoid timing out for very large surveys, you can disable the transaction quota. See [Transaction quotas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TransactionQuotas.md).
 
 ## Procedure
 
@@ -30,15 +30,15 @@ To avoid timing out for very large [[r_SurveyManagementLandingPage|surveys]], yo
 
 2.  Open a survey and click the **Migrate to New Survey Management** related link or **Migrate to New Survey Management** in the title bar.
 
-    A dialog box describes what happens when you migrate the survey. Note that certain types of [[c_SurveyQuestion|survey questions]] cannot be migrated.
+    A dialog box describes what happens when you migrate the survey. Note that certain types of survey questions cannot be migrated.
 
 3.  Click **OK**.
 
     The system generates records on assessment tables based on the survey master, eligible questions and choices, results, and other related survey components. The original survey components are unaffected.
 
-    System messages may appear at the top of the Survey form to [[notify-landing-page|notify]] you of questions that could not be migrated and to advise you to review migrated **[[multiple-choice|Multiple Choice]]** questions.
+    System messages may appear at the top of the Survey form to notify you of questions that could not be migrated and to advise you to review migrated **Multiple Choice** questions.
 
-4.  Click the [[reference|reference]] icon beside the **Assessment** field to view the new survey definition.
+4.  Click the reference icon beside the **Assessment** field to view the new survey definition.
 
 5.  Remove survey users from the assessment survey if you want all users to be able to take it.
 
@@ -57,7 +57,7 @@ To avoid timing out for very large [[r_SurveyManagementLandingPage|surveys]], yo
 
 The **Migrate to Assessment** related link on the legacy survey record becomes unavailable after the migration. However, if you delete the record referenced in the **Assessment** field, the related link reappears and you can migrate the legacy survey again.
 
-**Parent Topic:**[[c_MigrateSurveys|Legacy survey migration]]
+**Parent Topic:**[Legacy survey migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MigrateSurveys.md)
 
 **Related topics**  
 
@@ -68,11 +68,3 @@ The **Migrate to Assessment** related link on the legacy survey record becomes u
 
 [Migrated question review]()
 
-## Related
-
-- [[c_MigrateSurveys|Legacy survey migration]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[notify-landing-page|Notify]]
-- [[multiple-choice|Multiple choice]]
-- [[reference|Reference]]

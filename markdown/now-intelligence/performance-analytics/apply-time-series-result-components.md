@@ -16,11 +16,11 @@ breadcrumb: [Formula indicators, Indicators, Configure fundamentals, Performance
 
 For a formula indicator, a time series aggregation can apply either to each indicator in the formula individually or to the formula result.
 
-Decide how time series aggregation apply with the **Apply time series to result** option. You can select or disable this option in the **Other** properties tab of a formula indicator record. This option applies to any time series aggregation you apply to the indicator in Core UI [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md) and [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]], or in [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]. This option also applies to the default time series if one is set on the indicator.
+Decide how time series aggregation apply with the **Apply time series to result** option. You can select or disable this option in the **Other** properties tab of a formula indicator record. This option applies to any time series aggregation you apply to the indicator in Core UI [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md) and Analytics Hub, or in [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md). This option also applies to the default time series if one is set on the indicator.
 
 **Note:**
 
--   The default time series applies only on the Analytics Hub and [[kpi-details|KPI Details]]. If you do not select a time series aggregation on a widget or data visualization, the default time series does not apply.
+-   The default time series applies only on the Analytics Hub and KPI Details. If you do not select a time series aggregation on a widget or data visualization, the default time series does not apply.
 -   For the setting to take effect on the Analytics Hub or KPI Details, you must choose a real aggregate, if the indicator does not have a default time series set. If the time series is just the indicator frequency \(daily, weekly, and so on\), the**Apply time series to result** setting does not apply.
 
 When **Apply time series to result** is checked, first the formula is evaluated and then the selected time series is applied to the final result. When **Apply time series to result** is not checked, each [contributing indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) is evaluated and the default time series is applied to it. Then the formula is evaluated. The results between the two settings can differ significantly. Neither setting is wrong, but you have to think carefully about what you are measuring before making your choice.
@@ -41,7 +41,7 @@ You aren't sure if you want the 7-day average of the final result or the average
 
 \(New P1Day 1 + New P1Day 2 + … New P1Day 7\) / \(All newDay 1 + All newDay 2 + … All newDay 7\) \* 100
 
-You plot both [[formula-indicators|formula indicators]] in a time series widget to see the difference in outcome between the two settings. Because the default time series only applies on the Analytics Hub, you also add the 7d running AVG time series to the widget:\[Omitted image "formula-indic-ts-apply-result-vs-components.png"\] Alt text: Same formula applied to same data, but with a time series applied to each contributing indicator versus a time series applied to the result
+You plot both formula indicators in a time series widget to see the difference in outcome between the two settings. Because the default time series only applies on the Analytics Hub, you also add the 7d running AVG time series to the widget:\[Omitted image "formula-indic-ts-apply-result-vs-components.png"\] Alt text: Same formula applied to same data, but with a time series applied to each contributing indicator versus a time series applied to the result
 
 **Parent Topic:**[Formula indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/formula-indicators.md)
 
@@ -64,9 +64,3 @@ You plot both [[formula-indicators|formula indicators]] in a time series widget 
 
 [Applying time series aggregations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/applying-time-series-aggregations.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[formula-indicators|Formula indicators]]

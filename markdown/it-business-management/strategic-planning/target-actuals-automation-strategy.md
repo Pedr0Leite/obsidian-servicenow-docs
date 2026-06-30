@@ -23,7 +23,7 @@ You must perform the following steps on the [Target form](https://raw.githubuser
 1.  Enter the Start value, Final target value, and Check-in frequency, and fill the other required fields for the target.
 2.  Select the **Automate actual value** field.
 
-    \[Omitted image "target-automation-enabling-strategy.png"\] Alt text: Enabling target automation in [[alignment-planner-workspace-landing-page|Strategic Planning]]
+    \[Omitted image "target-automation-enabling-strategy.png"\] Alt text: Enabling target automation in Strategic Planning
 
 3.  Select a target source in the **Actual value source** field, from which the value must be fetched for target automation.
 
@@ -56,6 +56,3 @@ You must perform the following steps on the [Target form](https://raw.githubuser
 
 [Send a reminder for target actuals check in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/send-reminder-target-checkin-strategy.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

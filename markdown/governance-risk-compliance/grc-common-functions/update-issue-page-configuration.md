@@ -34,7 +34,7 @@ Role required: sn\_grc.admin
     -   Issues: Configuration to be performed to display the issues widget in the workspace.
     -   Issue triage: Configuration to be performed to display the issue triage widget in the workspace.
     -   Tracking: Configuration to be performed to display the Policy exceptions and Evidence requests in the workspace.
-    -   Observations: Configuration to be performed to display the [[audit-observations|audit observations]] in the workspace.
+    -   Observations: Configuration to be performed to display the audit observations in the workspace.
     \[Omitted image "issue-page-configuration-tabs.png"\] Alt text: Issue page configuration tabs
 
 3.  In the **Issues** tab, check the filter conditions for the selected table and update the fields if necessary.
@@ -43,7 +43,7 @@ Role required: sn\_grc.admin
 
 5.  In the **Tracking** tab, select the **Policy exceptions** and **Evidence** options.
 
-6.  In the **Observations** tab, select the **Show observations in the [[audit-management-overview-ws|Audit workspace]]** option, and update the filter condition.
+6.  In the **Observations** tab, select the **Show observations in the Audit workspace** option, and update the filter condition.
 
     The page displays the name of the table for observations \(sn\_audit\_advanced\_observation\) and the filter condition to be selected such as **Active is True**.
 
@@ -54,7 +54,3 @@ Role required: sn\_grc.admin
 
 **Parent Topic:**[Issue Page Configuration module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issue-page-config-record.md)
 
-## Related
-
-- [[audit-observations|Audit observations]]
-- [[audit-management-overview-ws|Audit Workspace]]

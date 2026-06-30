@@ -86,13 +86,8 @@ The following tables list the tables and their related entities that are support
 |**Assessments**|
 |asmt\_assessment\_instance|Assessment|pm\_project / dmn\_demand|
 |asmt\_category\_result|Assessment|pm\_project / dmn\_demand|
-|**[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace or [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace integration**|
+|**Strategic Planning Workspace or Portfolio Planning Workspace integration**|
 |sn\_align\_core\_planning\_item|Strategic Planning Workspace or Portfolio Planning Workspace|Strategic Planning or Portfolio Planning integration \(partition enforcement applies when internal integration is enabled\)|
 
-**Parent Topic:**[[ewd-reference|SPM Enterprise-Wide Deployment reference]]
+**Parent Topic:**[SPM Enterprise-Wide Deployment reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ewd-reference.md)
 
-## Related
-
-- [[ewd-reference|SPM Enterprise-Wide Deployment reference]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

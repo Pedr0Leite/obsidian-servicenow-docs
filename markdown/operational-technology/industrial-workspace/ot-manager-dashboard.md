@@ -14,11 +14,11 @@ breadcrumb: [Dashboard Library in the Industrial Workspace, Explore, Industrial 
 
 # Operational Technology Visibility dashboard
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Visibility dashboard helps you manage your OT device in a centralized location. The OT Visibility dashboard lets you the access your OT device data.
+The Operational Technology \(OT\) Visibility dashboard helps you manage your OT device in a centralized location. The OT Visibility dashboard lets you the access your OT device data.
 
 ## OT Visibility dashboard overview
 
-The OT Visibility dashboard is a centralized location in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]. You can use this dashboard to review your [[operational-technology-manager|Operational Technology Manager]] and [[industrial-process-manager-overview|Industrial Process Manager]] data. You can also use it to review or edit the detailed information for the OT devices and equipment model entities in your OT network.
+The OT Visibility dashboard is a centralized location in the Industrial Workspace. You can use this dashboard to review your Operational Technology Manager and Industrial Process Manager data. You can also use it to review or edit the detailed information for the OT devices and equipment model entities in your OT network.
 
 With the OT Visibility dashboard, you can achieve the following:
 
@@ -187,16 +187,9 @@ To access the OT Visibility dashboard, you must have the **cmdb\_ot\_viewer** an
 
 ## Site filter
 
-You can use the **Site** filter to search for and select the site that you want to view on the dashboard. To access and [[use-business-unit-and-site-filters-vr|use the site filter]], you must have the **cmdb\_ot\_isa\_viewer** role with access to the site you want to view.
+You can use the **Site** filter to search for and select the site that you want to view on the dashboard. To access and use the site filter, you must have the **cmdb\_ot\_isa\_viewer** role with access to the site you want to view.
 
 For more information, see [Use the site filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 **Parent Topic:**[Dashboard Library in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/dashboard-library-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[use-business-unit-and-site-filters-vr|Use the site filter]]

@@ -14,7 +14,7 @@ breadcrumb: [Tutorial: Route interactions by context, Configure reasons for reje
 
 # Create a queue for order issues
 
-[[skills-example-queue|Create a queue]] for the Chat service channel that routes order issues.
+Create a queue for the Chat service channel that routes order issues.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Role required: awa\_admin or admin
 
 4.  Click **Submit**.
 
-## Related
 
-- [[skills-example-queue|Create a queue]]

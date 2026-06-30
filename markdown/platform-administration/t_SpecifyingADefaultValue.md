@@ -33,7 +33,7 @@ The default value populates the field on the blank form for a new record, and al
     **Note:** The default value should be the underlying value that would be present in the field, not the label. For example, in a choice list field, use the **value** of the choice as the default value, not the choice's name.
 
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
 ## Default field value examples
 
@@ -51,7 +51,7 @@ To view out-of-box examples of JavaScript default values, navigate to **System D
 
 ### Set a default value for assignment\_group
 
-The following example sets a default value in a \[sys\_user\_group\] [[reference-email-admin|reference]] field by getting the ID from the name of a group.
+The following example sets a default value in a \[sys\_user\_group\] reference field by getting the ID from the name of a group.
 
 ```
 javascript:GetIDValue('sys_user_group', 'Development');
@@ -83,7 +83,3 @@ javascript:current.duration_field.setDisplayValue('3 04:30:14');
 
 Avoid hard-coding a particular date-time. If the system date-time format changes, the value becomes invalid. Instead, select the **Use dynamic default** check box and assign a dynamic filter option. For more information on dynamic filters, see [Create a dynamic filter option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md) .
 
-## Related
-
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
-- [[reference-email-admin|Reference]]

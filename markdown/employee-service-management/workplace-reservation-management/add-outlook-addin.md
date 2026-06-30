@@ -14,7 +14,7 @@ breadcrumb: [Manage Workplace Reservations for Microsoft Outlook Add-in, Workpla
 
 # Activate the add-in for Microsoft Outlook
 
-[[workplace-rsv-mgmt-feat|Workplace Reservation Management]] administrators can activate the manifest add-in for Microsoft Outlook. Add a manifest add-in file and customize it as per your requirements.
+Workplace Reservation Management administrators can activate the manifest add-in for Microsoft Outlook. Add a manifest add-in file and customize it as per your requirements.
 
 ## Before you begin
 
@@ -113,6 +113,4 @@ Link to the instance where the add-in is installed.
 
     The manifest file for the add-in is created. Employees can now make reservations in Workplace Reservation Management using the add-in file. For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
-## Related
 
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

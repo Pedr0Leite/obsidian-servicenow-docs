@@ -22,11 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-The integration allows you to ingest different types of alerts such as unauthorized access attempts and [[threat-intelligence-malware|malware]], for example. These alerts are ingested based on the profiles that you configure in the [[security-operations-landing-page|Security Operations]] environment of your instance. All alerts are initially ingested for a configured alert type in a profile. Ingested alerts can then be further filtered to specify which alerts create security incidents.
+The integration allows you to ingest different types of alerts such as unauthorized access attempts and malware, for example. These alerts are ingested based on the profiles that you configure in the Security Operations environment of your instance. All alerts are initially ingested for a configured alert type in a profile. Ingested alerts can then be further filtered to specify which alerts create security incidents.
 
 For example, you may prefer filters that create security incidents only for alerts that are identified as high-risk. Before a profile is activated, and it creates security incidents from ingested alerts, individual field values on the filtered alerts are mapped to corresponding fields on a layout of security incident for a preview. All alerts that meet the selection criteria in your Microsoft Azure tenant and are available over the Microsoft Graph Security API are initially ingested into your ServiceNow AI Platform instance.
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]

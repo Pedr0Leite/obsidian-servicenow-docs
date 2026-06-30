@@ -42,7 +42,7 @@ The **Allocation Units** record defines the amount of capacity that this service
 
 The CI Cost Center Relationships list shows which cost centers are using the service and how many units they are using. This information is used to determine how much of the service expenses to allocate to each cost center. For example, the Trading department is using 10 of the 50 allocated units, so they will be allocated 20% of all Retail expenses. There's also an option to allocate based on the total \(10 or 45\).
 
-To see how the expense lines are allocated, select an entry in the **Expense Lines** related list and add the **Expense Allocation** related list to the [[expense-line-form-demand|Expense Line form]].
+To see how the expense lines are allocated, select an entry in the **Expense Lines** related list and add the **Expense Allocation** related list to the Expense Line form.
 
 The following is an expense from the dbaix901nyc server for $2,500. Two expense allocations are generated from the expense. The **Trading** cost center was allocated $500 \(20%\) of the expense based on the CI cost center relationship seen earlier.
 
@@ -50,6 +50,3 @@ This type of business-service-to-cost-center allocation is accomplished through 
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[expense-line-form-demand|Expense line form]]

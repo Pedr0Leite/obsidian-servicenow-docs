@@ -14,7 +14,7 @@ breadcrumb: [Manage Workplace Reservations for Microsoft Outlook Add-in, Workpla
 
 # Configure Reservable Module for Microsoft Outlook
 
-Configure Reservable Module settings for Microsoft Outlook in [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] version 3.0.2. Employees can create a meeting or an event in the Microsoft Outlook calendar, and reserve a space using the Workplace Reservation Management manifest add-in file.
+Configure Reservable Module settings for Microsoft Outlook in Workplace Reservation Management version 3.0.2. Employees can create a meeting or an event in the Microsoft Outlook calendar, and reserve a space using the Workplace Reservation Management manifest add-in file.
 
 ## Before you begin
 
@@ -27,11 +27,11 @@ Configure the Reservable module for Microsoft Outlook Add-in, and configure it w
 Install and configure the following:
 
 -   Workplace Reservation Management
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-case-mgmt-feat|Workplace Case Management]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+-   Workplace Core
+-   Workplace Calendar Synchronization
+-   Workplace Indoor Mapping
+-   Workplace Case Management
+-   Workplace Space Management
 
 Role required: admin
 
@@ -218,7 +218,7 @@ Enable browse by neighborhood
 
 </td><td>
 
-Reservation admin can indicate if neighborhood spaces are available for reservations. Employees can search in the context of a neighborhood and only the available spaces in a neighborhood are displayed for space reservation. For more information, see [Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).This option is also available on the [[mobile-employee-experience|Now Mobile app]].
+Reservation admin can indicate if neighborhood spaces are available for reservations. Employees can search in the context of a neighborhood and only the available spaces in a neighborhood are displayed for space reservation. For more information, see [Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).This option is also available on the Now Mobile app.
 
 </td></tr><tr><td>
 
@@ -226,7 +226,7 @@ Enable browse favorites on Native Mobile
 
 </td><td>
 
-Option to enable employees to search from their favorite spaces on the Now Mobile app.**Note:** This option appears only if you have [[employee-center-landing-page|Employee Center]] 25.0.0 and for employees who have Now Mobile app installed. Verify that the Mobile Employee Service Portal is enabled.
+Option to enable employees to search from their favorite spaces on the Now Mobile app.**Note:** This option appears only if you have Employee Center 25.0.0 and for employees who have Now Mobile app installed. Verify that the Mobile Employee Service Portal is enabled.
 
  **Note:** This option is available only for the Now Mobile app app.
 
@@ -247,7 +247,7 @@ Apply to shift
 
 </td><td>
 
-Option to [[enable-shift-based-reservation|enable shift-based reservation]] on the module.**Note:** Shift-based reservations aren’t supported for Microsoft Outlook Add-in reservations.
+Option to enable shift-based reservation on the module.**Note:** Shift-based reservations aren’t supported for Microsoft Outlook Add-in reservations.
 
 </td></tr><tr><td>
 
@@ -298,7 +298,7 @@ Enable employees to make spaces as private
 
 </td><td>
 
-Option to enable employees to make the space details private when they [[reservation-portal|make a reservation]]. When an employee is creating a reservation, the option **Make space details private** is displayed only if the employees are allowed to override their privacy preference for the selected space. Whether an employee can override privacy or not depends on the location privacy setup.
+Option to enable employees to make the space details private when they make a reservation. When an employee is creating a reservation, the option **Make space details private** is displayed only if the employees are allowed to override their privacy preference for the selected space. Whether an employee can override privacy or not depends on the location privacy setup.
 
 </td></tr><tr><td>
 
@@ -344,7 +344,7 @@ Allow Multiple Building Reservations
 
 </td><td>
 
-Option to add multiple buildings and select spaces from the buildings in a single reservation. The buildings can belong to different regions or locations and can be from different time zones. **Note:** Adding multiple buildings to a reservation is available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. Recurring reservations aren’t supported for multi-building reservations. For more information, see [Create multi-building reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md).
+Option to add multiple buildings and select spaces from the buildings in a single reservation. The buildings can belong to different regions or locations and can be from different time zones. **Note:** Adding multiple buildings to a reservation is available only on the Workplace Service Portal. Recurring reservations aren’t supported for multi-building reservations. For more information, see [Create multi-building reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-building-reservation.md).
 
 </td></tr><tr><td>
 
@@ -668,17 +668,3 @@ Option to specify what status of the reservation that is shown on the employee's
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[enable-shift-based-reservation|Enable shift-based reservation]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]

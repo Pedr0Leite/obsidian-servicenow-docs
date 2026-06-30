@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Task attributes in Create logical connection form
 
-The Task attributes in Create logical connection form enables you to create a logical connection between network interfaces in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Task attributes in Create logical connection form enables you to create a logical connection between network interfaces in the Telecommunications Network Inventory application.
 
 <table id="table_g1h_xdv_xfc"><thead><tr><th>
 
@@ -112,6 +112,3 @@ Network interface on which new logical interface is representing the **Port Z** 
 
 [Create logical connection record using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-record-using-design-assign.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

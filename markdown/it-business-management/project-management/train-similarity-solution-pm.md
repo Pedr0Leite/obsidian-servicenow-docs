@@ -43,7 +43,7 @@ Role required: admin
 
 ## Result
 
-When the solution is complete, the similar projects appear in the Similar projects section on the [[create-a-project-form|Project form]].
+When the solution is complete, the similar projects appear in the Similar projects section on the Project form.
 
 ## What to do next
 
@@ -60,6 +60,3 @@ When the solution is complete, the similar projects appear in the Similar projec
 
 [Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

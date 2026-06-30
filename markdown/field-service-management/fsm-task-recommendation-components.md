@@ -23,7 +23,7 @@ Intelligent Task Recommendations adds the Task Recommendations Administration me
 
 ## Tables
 
-[[fsm-application-landing-page|Field Service Management]] Intelligent Task Recommendations adds the following tables.
+Field Service Management Intelligent Task Recommendations adds the following tables.
 
 <table id="table_dv4_3wc_xpb"><thead><tr><th>
 
@@ -119,12 +119,12 @@ Task Recommendation Policy \[task\_rec\_recommendation\_policy\]
 Prevents the deletion of a policy if the policy is specified in the **Default task recommendation policy** field of the Task Recommendation Applicability form.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
 **Related topics**  
 
 
-[[fsm-task-recommendation|Intelligent Task Recommendation]]
+[Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-task-recommendation.md)
 
 [Configuring Intelligent Task Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/administer-task-recommendations.md)
 
@@ -170,7 +170,7 @@ sn\_fsm\_task\_rec.task\_recomm\_use\_geo\_history
 
 </td><td>
 
-Enables the system to look up the [[c_AgentLocation|agent location]] using the geo history table.-   Type: true/false
+Enables the system to look up the agent location using the geo history table.-   Type: true/false
 -   Default value: **true**
 
 </td></tr><tr><td>
@@ -227,7 +227,7 @@ Filters out tasks for which the defined mandatory parts are not available with t
 
 </td></tr><tr><td>
 
-Must have [[mandatory-skills|mandatory skills]]
+Must have mandatory skills
 
 </td><td>
 
@@ -239,7 +239,7 @@ Filter Tasks on Agent Efficiency Criteria
 
 </td><td>
 
-Filters out the tasks that match with the agent's efficiency.**Note:** Requires the activation of the [[agent-efficiency|Field Service Agent Efficiency]] plugin \(com.snc.fsm\_agent\_efficiency\).
+Filters out the tasks that match with the agent's efficiency.**Note:** Requires the activation of the Field Service Agent Efficiency plugin \(com.snc.fsm\_agent\_efficiency\).
 
 </td></tr></tbody>
 </table><table id="table_lwz_mnc_gqb"><thead><tr><th>
@@ -284,12 +284,3 @@ Ranks the tasks that are pending to be dispatched, based on the Agent Efficiency
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_AgentLocation|Agent location]]
-- [[mandatory-skills|Mandatory skills]]
-- [[agent-efficiency|Field Service Agent Efficiency]]

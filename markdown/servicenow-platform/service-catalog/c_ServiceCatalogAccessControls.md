@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog security, Configuring Service Catalog, Service Cata
 
 # Set security for items and categories
 
-An administrator can control access to content in the [[service-catalog|service catalog]] by creating and applying user criteria records.
+An administrator can control access to content in the service catalog by creating and applying user criteria records.
 
 Catalog managers and catalog editors can apply existing user criteria for items and categories to which they are assigned. Catalog managers and catalog editors cannot create or edit user criteria directly.
 
@@ -38,9 +38,9 @@ Create a user criteria record to define conditions that are evaluated against us
 -   **[Apply user criteria to items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_AppUserCritItemsCat.md)**  
 Apply a user criteria record to items and categories, either from the item or category form or from the user criteria form.
 -   **[Extend user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_ExtendUserCriteria.md)**  
-Extend the user criteria table when the available user criteria fields are not sufficient. User criteria [[reference-document-management|references]] various user fields \(fields from the User \[sys\_user\] table\), such as department, company, and groups. You can [[t_ExtendUserCriteria|extend user criteria]] with a custom field to include any other user [[reference|reference]] field \(field from the User \[sys\_user\] table\) of interest.
+Extend the user criteria table when the available user criteria fields are not sufficient. User criteria references various user fields \(fields from the User \[sys\_user\] table\), such as department, company, and groups. You can extend user criteria with a custom field to include any other user reference field \(field from the User \[sys\_user\] table\) of interest.
 -   **[User criteria migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MigrtSvcCatUserCriteria.md)**  
-Service catalog user criteria records provide access control for [[c_IntroductionToCatalogItems|service catalog items]] and categories.
+Service catalog user criteria records provide access control for service catalog items and categories.
 
 **Parent Topic:**[Service Catalog security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogSecurity.md)
 
@@ -49,10 +49,3 @@ Service catalog user criteria records provide access control for [[c_Introductio
 
 [Debug user criteria of a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debug-user-criteria-cat-item.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference-document-management|References]]
-- [[t_ExtendUserCriteria|Extend user criteria]]
-- [[reference|Reference]]
-- [[c_IntroductionToCatalogItems|Service Catalog items]]

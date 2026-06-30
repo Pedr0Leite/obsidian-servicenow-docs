@@ -14,11 +14,11 @@ breadcrumb: [Migration job, Migration Utility, Configuring Problem Management, P
 
 # Activate Problem Management Best Practice — Madrid — State Model
 
-You can activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) on your instance using the Problem Management [[migration-utility|Migration Utility]] store app.
+You can activate the Problem Management Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) on your instance using the Problem Management Migration Utility store app.
 
 ## Before you begin
 
-Before you activate the plugin, be sure to [[resolve-blocking-modifications|resolve blocking modifications]]. For more information, see [Resolve blocking modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/resolve-blocking-modifications.md).
+Before you activate the plugin, be sure to resolve blocking modifications. For more information, see [Resolve blocking modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/resolve-blocking-modifications.md).
 
 Role required: admin
 
@@ -40,7 +40,7 @@ New York Patch 9 or Orlando Patch 3 or later are required before the administrat
 
 </td><td>
 
-1.  Click **Request Plugin** in the plugin activation stage of the migration utility [[migrating-existing-records|migration job]].
+1.  Click **Request Plugin** in the plugin activation stage of the migration utility migration job.
 2.  On the System Plugin page, click the **Activate/Repair** related link.
 3.  Click **Activate**.
 4.  Close and reload the form.
@@ -71,9 +71,3 @@ The plugin status changes to **Activated**. You can return to the Migration Util
 
 [Prepare base plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/prepare-base-plugins.md).
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]
-- [[resolve-blocking-modifications|Resolve blocking modifications]]
-- [[migrating-existing-records|Migration job]]

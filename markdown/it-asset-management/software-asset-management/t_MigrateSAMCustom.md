@@ -14,7 +14,7 @@ breadcrumb: [Configuring Software Asset Management, Software Asset Management, I
 
 # Overwrite customizations for Software Asset Management migration
 
-When migrating from the [[c_SoftwareAssetMgmt|Software Asset Management]] plugin \(ITSM Software Asset Management feature of [[am-landing-page|Asset Management]]\) to the Software Asset Management application, further actions are required by the customer after plugin activation to ensure successful migration of customized forms and lists.
+When migrating from the Software Asset Management plugin \(ITSM Software Asset Management feature of Asset Management\) to the Software Asset Management application, further actions are required by the customer after plugin activation to ensure successful migration of customized forms and lists.
 
 ## Before you begin
 
@@ -26,8 +26,8 @@ If these lists and forms have been customized before the migration, they may hav
 
 -   Software Entitlements \(formerly Software Licenses\)
 -   Software Allocations \(formerly Software Entitlements\)
--   [[c_CreatingSoftwareModels|Software Models]]
--   Discovery [[c_Models|Models]]
+-   Software Models
+-   Discovery Models
 -   Software Installations
 
 You can review plugin activation changes in the [Upgrade History module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/uc-history-module.md) to determine what changes have automatically been skipped so you can [Resolve a skipped update and set a resolution status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/uc-resolve-skipped-update.md), if needed.
@@ -40,7 +40,7 @@ Certain fields added by the migration also must be configured to take advantage 
 
 2.  Identify the records that correspond to the upgrade history for the activation of the Software Asset Management Professional \(com.snc.samp\) plugin.
 
-    The records in System Upgrades list that represent plugin activation contain the value **n/a** in the **From** field, and plugin name in the **To** field \(such as com.snc.samp, com.snc.samp.core, com.snc.sam.core, com.glide.data\_services\_canonicalization.client, com.snc.asset\_management, com.snc.model, com.snc.[[c_Procurement|procurement]]\). You can determine the list of related plugins based on the time stamp of when the Software Asset Management plugin was activated by sorting on the **Upgrade started** column.
+    The records in System Upgrades list that represent plugin activation contain the value **n/a** in the **From** field, and plugin name in the **To** field \(such as com.snc.samp, com.snc.samp.core, com.snc.sam.core, com.glide.data\_services\_canonicalization.client, com.snc.asset\_management, com.snc.model, com.snc.procurement\). You can determine the list of related plugins based on the time stamp of when the Software Asset Management plugin was activated by sorting on the **Upgrade started** column.
 
 3.  Open a Software Asset Management upgrade record that has changes skipped.
 
@@ -77,10 +77,3 @@ Certain fields added by the migration also must be configured to take advantage 
 
 [plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_SoftwareAssetManagement.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[am-landing-page|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]

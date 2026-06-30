@@ -14,11 +14,11 @@ breadcrumb: [Exploring Edge Encryption, Edge Encryption, Encryption]
 
 # Encryption configurations and patterns
 
-With [[edge-encryption|Edge Encryption]], you can encrypt fields and tokenize strings.
+With Edge Encryption, you can encrypt fields and tokenize strings.
 
 ## Encryption configurations
 
-You can encrypt individual fields using [[encryption-landing|encryption]] configurations. Edge Encryption supports AES 128-bit encryption keys. If the Java Cryptography Extension \(JCE\) Unlimited Strength Jurisdiction Policy files are installed, Edge Encryption supports AES 256-bit encryption keys for each encryption type. Edge Encryption supports the following types of encryption configurations.
+You can encrypt individual fields using encryption configurations. Edge Encryption supports AES 128-bit encryption keys. If the Java Cryptography Extension \(JCE\) Unlimited Strength Jurisdiction Policy files are installed, Edge Encryption supports AES 256-bit encryption keys for each encryption type. Edge Encryption supports the following types of encryption configurations.
 
 -   **Standard encryption**
 
@@ -61,7 +61,3 @@ You can secure sensitive data found in strings using encryption patterns. Once a
 
 [Tokenize strings using encryption patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_ConfigureBasicEncryptionPatterns.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]

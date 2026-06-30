@@ -14,7 +14,7 @@ breadcrumb: [Interaction wrap up, Configuring Interaction Management, Interactio
 
 # Create an interaction wrap-up configuration
 
-Create a configuration for each type of interaction that uses the [[interaction-wrap-up-state|interaction wrap up]] feature.
+Create a configuration for each type of interaction that uses the interaction wrap up feature.
 
 ## Before you begin
 
@@ -124,7 +124,7 @@ Show duration to agent
 
 Enables a duration countdown timer for the agent. The default value is false. The system displays this field when you enable the **Enforce wrap up duration** field.
 
-The [[interaction-wrap-up-timer|interaction wrap up timer]] display is available in CSM Configurable Workspace.
+The interaction wrap up timer display is available in CSM Configurable Workspace.
 
 </td></tr><tr><td>
 
@@ -180,7 +180,7 @@ Use AI code as default
 
 </td><td>
 
-Enable this [[check-box|check box]] to use the AI-recommended code as the default code in place of the code selected in the **Default wrap up code** field.
+Enable this check box to use the AI-recommended code as the default code in place of the code selected in the **Default wrap up code** field.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -188,8 +188,3 @@ Enable this [[check-box|check box]] to use the AI-recommended code as the defaul
 
 **Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 
-## Related
-
-- [[interaction-wrap-up-state|Interaction wrap up]]
-- [[interaction-wrap-up-timer|Interaction wrap up timer]]
-- [[check-box|Check box]]

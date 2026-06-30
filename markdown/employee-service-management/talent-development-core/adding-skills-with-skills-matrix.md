@@ -14,7 +14,7 @@ breadcrumb: [Working with job architecture, Skills Workspace, Exploring Skills F
 
 # Add more skills to a role group
 
-Add new skills at each role level in a role group that were not added when creating the role group using the Skills Matrix in the [[skills-intelligence-workspace|Skills Workspace]].
+Add new skills at each role level in a role group that were not added when creating the role group using the Skills Matrix in the Skills Workspace.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ Role required: sn\_skills\_int.job\_arch\_admin
 
 [Create related role groups]()
 
-## Related
-
-- [[skills-intelligence-workspace|Skills Workspace]]

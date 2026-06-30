@@ -14,7 +14,7 @@ breadcrumb: [Configure, ITSM Success Dashboard indicators, IT Service Management
 
 # Run Update formula script for ITSM Success Dashboard indicators
 
-Run the `UpdateFormulasSD` script to recalculate all the formulas in [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]] if you see outdated data in the dashboard.
+Run the `UpdateFormulasSD` script to recalculate all the formulas in ITSM Success Dashboard indicators if you see outdated data in the dashboard.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-success-dashboards.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]

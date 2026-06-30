@@ -36,7 +36,7 @@ Maximum number of periods prior to today for which scores are collected and kept
 
  -   Type: String
 -   Default value: 732;105;53;40;60;30;20;20;20;10;10
--   Location: **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Properties** &gt; **PA Properties**
+-   Location: **Platform Analytics Administration** &gt; **Properties** &gt; **PA Properties**
 
 </td></tr><tr><td>
 
@@ -55,6 +55,3 @@ Maximum number of periods prior to today for which lists of records \([snapshots
 </td></tr></tbody>
 </table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

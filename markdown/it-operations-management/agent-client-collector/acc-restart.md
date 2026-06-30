@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agents**.
 
     The **Agent Client Collectors** page appears with the list of agents.
 
@@ -42,6 +42,4 @@ Role required: agent\_client\_collector\_admin
 
     Alternatively, you can restart the agent from within the agent record by selecting the agent name and, in the **Related Links** section, select **Restart agent**.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

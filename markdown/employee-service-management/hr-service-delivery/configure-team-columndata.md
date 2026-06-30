@@ -22,7 +22,7 @@ Role required: sn\_mh.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[manager-hub-overview|Manager Hub]]** &gt; **Administration** &gt; **Team Column Configuration**.
+1.  Navigate to **All** &gt; **Manager Hub** &gt; **Administration** &gt; **Team Column Configuration**.
 
 2.  Click **New**.
 
@@ -83,7 +83,7 @@ Column display fields
 
 </td><td>
 
-Fields of the table that you want to display on the Team members tab in Your team menu in Employee CenterFor example, you want to display time zone, city, state, and country fields \(of employees\) from the sys\_user table on the Location column on the Team members tab in Your team menu in [[employee-center-landing-page|Employee Center]]
+Fields of the table that you want to display on the Team members tab in Your team menu in Employee CenterFor example, you want to display time zone, city, state, and country fields \(of employees\) from the sys\_user table on the Location column on the Team members tab in Your team menu in Employee Center
 
 </td></tr><tr><td>
 
@@ -121,7 +121,3 @@ Order in which you want to display the column display fields on the Team members
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]

@@ -23,15 +23,15 @@ Role required: sn\_na\_center.nac\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  In the Automation opportunities section of the [[now-assist-center-home-page|home page]], do one of the following.
+2.  In the Automation opportunities section of the home page, do one of the following.
 
     -   Select **Review opportunity** in a card to view its details.
     -   Select **View all** to view the complete list of automation opportunities and select an automation opportunity to view its details.
     The Resolution Steps tab opens showing the opportunity details.
 
-    For more information on finding an automation opportunity, see [[now-assist-center-view-automation-opportunities|View your automation opportunities]].
+    For more information on finding an automation opportunity, see [View your automation opportunities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-view-automation-opportunities.md).
 
 3.  Select the **AI Agents** tab to view AI agents created from the automation opportunity.
 
@@ -45,28 +45,19 @@ Role required: sn\_na\_center.nac\_admin
 
     \[Omitted image "now-assist-center-agent-advisor-opportunity-agent-setup-define.png"\] Alt text: Guided setup of the AI agent.
 
-5.  Edit the AI agent in the Agent guided setup tab using [[ai-agent-studio|AI Agent Studio]] capabilities.
+5.  Edit the AI agent in the Agent guided setup tab using AI Agent Studio capabilities.
 
     Select **Save and continue** to progress through the forms.
 
-    For more details on the guided setup forms, see [[configure-next-best-action-agent|Create an AI agent]].
+    For more details on the guided setup forms, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 
-**Parent Topic:**[[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
+**Parent Topic:**[Using AI Agent Advisor in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-ai-agent-advisor.md)
 
 **Related topics**  
 
 
 [View your automation opportunities]()
 
-[Implement an automation opportunity from [[platform-now-assist-landing|Now Assist]] Center]()
+[Implement an automation opportunity from Now Assist Center]()
 
-## Related
-
-- [[now-assist-center-view-automation-opportunities|View your automation opportunities]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[now-assist-center-using-ai-agent-advisor|Using AI Agent Advisor in Now Assist Center]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]

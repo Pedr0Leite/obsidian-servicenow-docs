@@ -22,13 +22,13 @@ Model validators \[sn\_model\_risk\_mgmt.model\_validator\] can also reassign ta
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
 3.  Navigate to the right location based on the type of task.
 
-    1.  To [[reassign-an-assessment|reassign an assessment]] task, navigate to **Assessment tasks** &gt; **In-progress**.
+    1.  To reassign an assessment task, navigate to **Assessment tasks** &gt; **In-progress**.
 
     2.  To reassign a validation task, navigate to **Validation tasks** &gt; **In-progress**.
 
@@ -43,10 +43,5 @@ Model validators \[sn\_model\_risk\_mgmt.model\_validator\] can also reassign ta
 7.  Select **Reassign model task**.
 
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]
-- [[reassign-an-assessment|Reassign an assessment]]

@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-In order to use models with Azure OpenAI as your LLM provider for [[generative-ai-controller|Generative AI Controller]] capabilities, you must have an active connection configured.
+In order to use models with Azure OpenAI as your LLM provider for Generative AI Controller capabilities, you must have an active connection configured.
 
 ## Procedure
 
@@ -64,6 +64,3 @@ If you want to use generative AI capabilities through your MID Server, open the 
 
 [Configure a custom resource path for BYOK models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-custom-resource-path-byok.md)
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]

@@ -33,7 +33,7 @@ For more help with selecting the appropriate container type, see the [Determinin
 To reproduce the container shown in the following figure, enter the following settings when creating a container start variable:
 
 -   Select a **Layout** with 2 Columns Wide, alternating sides.
--   Select the **Display title** [[check-box|check box]] to use a collapsible title bar.
+-   Select the **Display title** check box to use a collapsible title bar.
 
 \[Omitted image "VariableContainerG.png"\] Alt text: A variable container
 
@@ -94,6 +94,3 @@ To reproduce the container shown in the following figure, enter the following se
 
 [Variable support in various channels]()
 
-## Related
-
-- [[check-box|Check box]]

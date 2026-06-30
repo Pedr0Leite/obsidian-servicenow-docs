@@ -14,7 +14,7 @@ breadcrumb: [Managing an equipment model entity schedule, Configure, Industrial 
 
 # Create an equipment model entity schedule
 
-Create an equipment model entity schedule with the [[industrial-process-manager-overview|Industrial Process Manager]] application. With these schedules, you can easily maintain multiple equipment model entities.
+Create an equipment model entity schedule with the Industrial Process Manager application. With these schedules, you can easily maintain multiple equipment model entities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_isa\_schedule\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Entity Schedules**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Entity Schedules**.
 
 2.  Select **New**.
 
@@ -78,7 +78,3 @@ Now, you can create the entries for an equipment model entity schedule. For more
 
 **Parent Topic:**[Managing an equipment model entity schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/managing-equipment-entity-schedules.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

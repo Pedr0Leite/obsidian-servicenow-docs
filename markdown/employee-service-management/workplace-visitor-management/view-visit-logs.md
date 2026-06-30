@@ -14,7 +14,7 @@ breadcrumb: [Analytics and Reporting, Workplace Visitor Management, Workplace Se
 
 # View visit logs
 
-View the visit logs which display all the state changes of a [[register-visitors|visitor registration]].
+View the visit logs which display all the state changes of a visitor registration.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can view all the status changes of a visitor registration at any point. You 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visit Logs**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visit Logs**.
 
 2.  Search for the visitor registration which you want to view.
 
@@ -42,7 +42,3 @@ You can view all the status changes of a visitor registration at any point. You 
 
 [Visitor Reception Dashboard]()
 
-## Related
-
-- [[register-visitors|Visitor registration]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

@@ -15,7 +15,7 @@ breadcrumb: [Composing emails with predefined content from the Source-to-Pay Wor
 
 # Communicate using emails from the Source-to-Pay Workspace
 
-Compose and send emails directly from an invoice inquiry case or an invoice processing case in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to communicate with suppliers and stakeholders.
+Compose and send emails directly from an invoice inquiry case or an invoice processing case in the Source-to-Pay Workspace to communicate with suppliers and stakeholders.
 
 ## Before you begin
 
@@ -23,17 +23,17 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist, sn\_ap\_apm.admin, sn\
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
 3.  Do one of the following:
 
     -   As an Accounts Payable Specialist:
-        -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[working-with-ingestion-cases|invoice processing cases]]**
+        -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice processing cases**
         -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice processing cases**
     -   As an agent:
-        -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[work-with-inquiry-cases|invoice inquiry cases]]**
+        -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice inquiry cases**
         -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice inquiry cases**
 4.  In the Number column, select the link to the case to open it.
 
@@ -57,9 +57,3 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist, sn\_ap\_apm.admin, sn\
 
 **Parent Topic:**[Composing emails with predefined content from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/email-composer-apm-workspace.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]

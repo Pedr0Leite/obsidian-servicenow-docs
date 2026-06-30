@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Introduction to CMDB: Ingestion provides [[impact-landing-page|Impact]] customers with a comprehensive overview and demonstration of how to standardize input sources for their Configuration Management Database \(CMDB\). This offering covers core functionality for obtaining and importing data, providing a clear understanding of the various methods to populate CMDB tables within a ServiceNow instance. This Accelerator also includes key resources and leading practice guides to [[io-help|help]] customers get started.
+Introduction to CMDB: Ingestion provides Impact customers with a comprehensive overview and demonstration of how to standardize input sources for their Configuration Management Database \(CMDB\). This offering covers core functionality for obtaining and importing data, providing a clear understanding of the various methods to populate CMDB tables within a ServiceNow instance. This Accelerator also includes key resources and leading practice guides to help customers get started.
 
 The focus of this session is on Service Graph Connectors. Additional methods of population such as via Discovery or Agent Client Collector \(ACC\) are not deeply explored within this accelerator.
 
@@ -74,7 +74,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

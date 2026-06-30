@@ -14,9 +14,9 @@ breadcrumb: [Setting up the Operational Technology Unified Map experience, Confi
 
 # Default settings of the Operational Technology Unified Map experience
 
-You can modify the default settings available for the [[operational-technology-overview|Operational Technology]] \(OT\) Unified Map experience.
+You can modify the default settings available for the Operational Technology \(OT\) Unified Map experience.
 
-With the **admin** or **sn\_cmdb\_ws.config\_admin** role, you can modify the default settings of the [[industrial-workspace-for-operational-technology|Industrial Workspace]] Config Identifier available with the OT Unified Map experience. A configuration identifier, or config identifier, is a configuration element within the configuration identifiers framework. A config identifier contains settings and table-driven configurations used in a UX application such as a workspace.
+With the **admin** or **sn\_cmdb\_ws.config\_admin** role, you can modify the default settings of the Industrial Workspace Config Identifier available with the OT Unified Map experience. A configuration identifier, or config identifier, is a configuration element within the configuration identifiers framework. A config identifier contains settings and table-driven configurations used in a UX application such as a workspace.
 
 If a property isn't set or if there are no entries in the table-driven configuration, look-up uses the values in the default configuration identifier instead. For more information about the configuration identifiers framework, see [Configuration identifiers framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-identifiers-framework.md).
 
@@ -61,7 +61,3 @@ Each class has a unique set of extended properties that appear in the Unified Ma
 
 **Parent Topic:**[Setting up the Operational Technology Unified Map experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-unified-maps-experience.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

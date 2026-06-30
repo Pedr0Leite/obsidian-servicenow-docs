@@ -28,7 +28,7 @@ Role required: sn\_asc.admin
     |-----|-----------|
     |Name|Name for the preference.|
     |Active|Make the preference active or in active.|
-    |Application|The application where this preference question is displayed. [[alumni-service-center|Alumni center]] in this case.|
+    |Application|The application where this preference question is displayed. Alumni center in this case.|
     |Domain|The scope of this preference. For example, global.|
     |Display type|The selection type for the preference options. For example, single select or multi select.|
     |Display question|The question that is displayed to the alumni for this preference.|
@@ -38,6 +38,4 @@ Role required: sn\_asc.admin
 
 4.  Select **Save**.
 
-## Related
 
-- [[alumni-service-center|Alumni Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Overview dashboard, Visual representatio
 
 # Access Security Incident Response Explorer
 
-You can access the [[sir-landing-page|Security Incident Response]] Explorer dashboard to view security incident activity in order to instantly pinpoint areas of concern and quickly resolve issues.
+You can access the Security Incident Response Explorer dashboard to view security incident activity in order to instantly pinpoint areas of concern and quickly resolve issues.
 
 ## Before you begin
 
@@ -36,11 +36,7 @@ The Security Incident Response Explorer dashboard appears.
 
 ## What to do next
 
-To view Security Incident Response Explorer dashboard in [[sir-workspace-landing-page|Security Incident Response Workspace]] in detail, see [Viewing SIR Workspace Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-analysts-dashboard.md).
+To view Security Incident Response Explorer dashboard in Security Incident Response Workspace in detail, see [Viewing SIR Workspace Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/working-with-analysts-dashboard.md).
 
 **Parent Topic:**[Security Incident Response Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SIROverview.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

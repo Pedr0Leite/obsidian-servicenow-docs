@@ -22,21 +22,14 @@ You can renumber auto-incremented tables that extend the task table or manage nu
 
 **Note:** If you reset numbering in Number Maintenance, it only renumbers new records. It leaves the numbering as-is for existing records in system tables.
 
--   **[[t_AutoNumberingRecordsInATable|Add auto-numbering records in a table]]**  
+-   **[Add auto-numbering records in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AutoNumberingRecordsInATable.md)**  
 You can define one number format per table in the system.
--   **[[t_PrepToLeftPadNumFldsInCustmTbls|Prepare to left-pad number fields in custom tables]]**  
+-   **[Prepare to left-pad number fields in custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PrepToLeftPadNumFldsInCustmTbls.md)**  
 Before you configure left padding of number fields on a custom table or a table that does not extend the task table, you must prepare business rules and script includes.
--   **[[t_PreventNumberingGaps|Prevent numbering gaps]]**  
+-   **[Prevent numbering gaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PreventNumberingGaps.md)**  
 By default, numbers are generated every time a new record is created.
--   **[[c_EnforcingUniqueNumbering|Enforcing unique numbering]]**  
+-   **[Enforcing unique numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnforcingUniqueNumbering.md)**  
 Although duplicate numbers are rare, numbering does not enforce uniqueness, by default.
 
-**Parent Topic:**[[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]
+**Parent Topic:**[Customizing fields on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/customize-fields-now-platform-landing.md)
 
-## Related
-
-- [[t_AutoNumberingRecordsInATable|Add auto-numbering records in a table]]
-- [[t_PrepToLeftPadNumFldsInCustmTbls|Prepare to left-pad number fields in custom tables]]
-- [[t_PreventNumberingGaps|Prevent numbering gaps]]
-- [[c_EnforcingUniqueNumbering|Enforcing unique numbering]]
-- [[customize-fields-now-platform-landing|Customizing fields on the ServiceNow AI Platform]]

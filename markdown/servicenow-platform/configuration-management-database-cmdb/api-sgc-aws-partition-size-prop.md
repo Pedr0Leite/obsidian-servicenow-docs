@@ -19,7 +19,7 @@ You can optimize their performance of AWS API Gateway data sources by setting th
 
 ## Before you begin
 
-Set the application scope to [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to API Service Graph Connector for AWS API Gateway using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -35,11 +35,11 @@ The parallel loading feature is available for the following AWS API Gateway data
 
 This feature determines how many Managed APIs execute as parallel jobs to retrieve configuration item \(CI\) data. The partition size specifies how many Managed APIs a single parallel thread evaluates for data retrieval. For example, if you set the **PartitionSize** property to `5` and there are `25` Managed APIs, the application generates `5` parallel jobs during data loading.
 
-**Note:** If the **PartitionSize** property isn't configured, the partition size computation feature of the [[integration-commons-for-cmdb|Integration Commons for CMDB]] application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-part-size.md).
+**Note:** If the **PartitionSize** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-part-size.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **AWS API Gateway** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **AWS API Gateway** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -49,8 +49,4 @@ This feature determines how many Managed APIs execute as parallel jobs to retrie
 
 5.  Select **Update**.
 
-## Related
 
-- [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

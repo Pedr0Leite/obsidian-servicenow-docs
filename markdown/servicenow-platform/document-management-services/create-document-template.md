@@ -26,7 +26,7 @@ Role required: sn\_doc.admin, sn\_doc.reader, or admin
 
 ## Procedure
 
-1.  [[c_CreateADocument|Create a document]] template.
+1.  Create a document template.
 
     1.  [Configure a PDF document template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-editable-pdf.md).
 
@@ -34,7 +34,7 @@ Role required: sn\_doc.admin, sn\_doc.reader, or admin
 
     2.  [Map fields for the PDF document template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/edit-pdf-mappings.md)
 
-    3.  Select **Edit Document Preview** to define the [[label|label]] and placement of the button to submit the signature.
+    3.  Select **Edit Document Preview** to define the label and placement of the button to submit the signature.
 
     4.  [Create participants for the PDF document template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-participant.md).
 
@@ -74,7 +74,3 @@ Specify the method that will be used to identify and validate the user who has s
 
 **Parent Topic:**[Digital signature for PDF documents using CAC or PIV smart cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/digital-signature.md)
 
-## Related
-
-- [[c_CreateADocument|Create a document]]
-- [[label|Label]]

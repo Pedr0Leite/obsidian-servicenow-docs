@@ -121,7 +121,7 @@ Add stakeholders associated with the demand.You can view the details of an entry
 
 </td></tr><tr><td>
 
-Add [[demand-task|demand tasks]]
+Add demand tasks
 
 </td><td>
 
@@ -282,7 +282,7 @@ In this stage, confirm the demand details and convert the demand to a work entit
 
 ## Complete demand
 
-This stage is the final stage of the [[demand-workflow-ppw|demand workflow]].
+This stage is the final stage of the demand workflow.
 
 |Activity|Type|Description|
 |--------|----|-----------|
@@ -295,7 +295,3 @@ This stage is the final stage of the [[demand-workflow-ppw|demand workflow]].
 
 [Use Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/use-playbooks-in-ppw.md)
 
-## Related
-
-- [[demand-task|Demand tasks]]
-- [[demand-workflow-ppw|Demand workflow]]

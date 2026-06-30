@@ -16,9 +16,9 @@ The STIX Visualizer visually represents the structure of the STIX object and its
 
 You can learn more information about the selected object or relationship from the details pane.
 
-The relationship graph shows the [[stix-relationships|relationships]] for an object and provides context for you to investigate. You can click any node in the graph to see more details.
+The relationship graph shows the relationships for an object and provides context for you to investigate. You can click any node in the graph to see more details.
 
-**Note:** The STIX Visualizer is available for all SDOs except the Report and [[threat-intelligence-observed-data|Observed Data]] objects.
+**Note:** The STIX Visualizer is available for all SDOs except the Report and Observed Data objects.
 
 ## Access STIX Visualizer
 
@@ -36,7 +36,7 @@ You can zoom in to an object, drag the nodes, or pin them to focus on a particul
 
 Click any object to open the details pane. On the details pane, you can learn more information that is associated with the object.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -87,8 +87,3 @@ Click any object to open the details pane. On the details pane, you can learn mo
 
 [Relationships]()
 
-## Related
-
-- [[ioc-repository|IoC Repository]]
-- [[stix-relationships|Relationships]]
-- [[threat-intelligence-observed-data|Observed data]]

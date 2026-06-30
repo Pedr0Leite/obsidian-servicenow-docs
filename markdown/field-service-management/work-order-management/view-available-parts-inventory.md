@@ -100,19 +100,15 @@ Do this
 
 </td><td>
 
-For more information, see [[perform-asset-audit|Perform asset audit for personal stockrooms]].
+For more information, see [Perform asset audit for personal stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/perform-asset-audit.md).
 
 </td></tr></tbody>
 </table>
 ## Result
 
-The stockroom locations' information appear in the form of interactive map and cards in the **Asset map** screen. You can select the desired stockroom and [[request-inventory|request inventory]].
+The stockroom locations' information appear in the form of interactive map and cards in the **Asset map** screen. You can select the desired stockroom and request inventory.
 
 ## What to do next
 
 [Request inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/request-inventory.md)
 
-## Related
-
-- [[perform-asset-audit|Perform asset audit for personal stockrooms]]
-- [[request-inventory|Request inventory]]

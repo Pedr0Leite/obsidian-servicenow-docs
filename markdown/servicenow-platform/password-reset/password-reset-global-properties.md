@@ -18,7 +18,7 @@ You can configure the Password Reset global properties.
 
 <table id="table_wln_rl1_rq"><thead><tr><th>
 
-Property [[label|Label]]
+Property Label
 
 </th><th>
 
@@ -34,7 +34,7 @@ Password Reset Global Properties
 
 </td></tr><tr><td>
 
-[[email|Email]] template for enrollment reminder emails
+Email template for enrollment reminder emails
 
 </td><td>
 
@@ -42,7 +42,7 @@ password\_reset.enroll \_reminder.email\_template
 
 </td><td>
 
-The instance can send email reminders to users who are not yet enrolled in the [[password-reset-landing-page|Password Reset]] process.
+The instance can send email reminders to users who are not yet enrolled in the Password Reset process.
 
 Template to use for the email messages that remind users to enroll for the password reset process. See [Send email to remind users to enroll for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/config-pwd-reset-enroll-reminder.md).
 
@@ -173,7 +173,7 @@ glide.pwd\_reset.onetime.token.validity
 Time period during which a user must perform the Password Reset process using the email link.-   Type: integer
 -   Default value: 12 \(hours\)
 
- **Note:** The setting for the `glide.pwd_reset.onetime.token.validity` property takes precedence over the setting for `password_reset.request.expiry` when the **Email Password Reset URL** [[check-box|check box]] on the process record is selected.
+ **Note:** The setting for the `glide.pwd_reset.onetime.token.validity` property takes precedence over the setting for `password_reset.request.expiry` when the **Email Password Reset URL** check box on the process record is selected.
 
 </td></tr><tr><td>
 
@@ -316,7 +316,7 @@ Time, in minutes, until the SMS code sent to the user expires.
 
 </td></tr><tr><td>
 
-Use [[notify-landing-page|Notify]] for SMS code notification for enrollment and verification
+Use Notify for SMS code notification for enrollment and verification
 
 </td><td>
 
@@ -324,7 +324,7 @@ password\_reset.sms.use\_notify
 
 </td><td>
 
-Support for SMS channel used for notifying users for password reset enrollment and verification. If selected, the users would [[c_ReceiveNotifications|receive notifications]] through Notify.-   Type: Yes\|No
+Support for SMS channel used for notifying users for password reset enrollment and verification. If selected, the users would receive notifications through Notify.-   Type: Yes\|No
 -   Default value: Yes
 
 **Note:** To use Notify, you must activate the Notify plugin \(com.snc.notify\).
@@ -491,11 +491,3 @@ Properties accessible from the System Properties \[sys\_properties\] table:
 
 [Configure Password Reset properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_SetPwdResetProps.md)
 
-## Related
-
-- [[label|Label]]
-- [[email|Email]]
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]
-- [[notify-landing-page|Notify]]
-- [[c_ReceiveNotifications|Receive notifications]]

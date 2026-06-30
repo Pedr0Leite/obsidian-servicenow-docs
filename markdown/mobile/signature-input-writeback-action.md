@@ -12,13 +12,13 @@ breadcrumb: [Configure input form screens with signature inputs, Input form scre
 
 # Configure a scripted writeback action that saves a signature input
 
-Configure an action item's scripted writeback action that can save the signature input in your [[parameter-input-screen|input form screen]].
+Configure an action item's scripted writeback action that can save the signature input in your input form screen.
 
 ## Before you begin
 
-You must create an input form screen with signature inputs. For more information, see [[configure-signature-inputs|Configure input form screens with signature inputs]].
+You must create an input form screen with signature inputs. For more information, see [Configure input form screens with signature inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-signature-inputs.md).
 
-In addition, you must have configured an action item to use for this input form screen. For more information, see [[sg-studio-create-action-item|Configure an action item]].
+In addition, you must have configured an action item to use for this input form screen. For more information, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 Role required: admin
 
@@ -65,8 +65,4 @@ You can also write custom code to handle saving your signature inputs. For infor
 
 4.  Select **Update** to save the configuration.
 
-## Related
 
-- [[configure-signature-inputs|Configure input form screens with signature inputs]]
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[parameter-input-screen|Input form screen]]

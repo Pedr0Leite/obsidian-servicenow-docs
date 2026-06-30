@@ -14,7 +14,7 @@ breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, IT
 
 # Schedule a horizontal discovery
 
-A [[r-discovery|discovery]] schedule determines what horizontal discovery searches for, when it runs, and which MID Servers are used. Create a discovery schedule for your local environment or a schedule for discovering the resources in your cloud service account.
+A discovery schedule determines what horizontal discovery searches for, when it runs, and which MID Servers are used. Create a discovery schedule for your local environment or a schedule for discovering the resources in your cloud service account.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Roles required: discovery\_admin or admin
 
 You can use a Discovery schedule to launch horizontal discovery, which uses probes, sensors, and pattern operations to scan your network for CIs. Use this procedure to create a schedule manually from the **Discovery Schedules** form.
 
-[[c_ServiceMappingOverview|Service Mapping]] also provides a Discovery schedule for top-down discovery. See [Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md) for more information.
+Service Mapping also provides a Discovery schedule for top-down discovery. See [Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md) for more information.
 
 Use the **Discovery Schedules** module in the Discovery application to:
 
@@ -73,7 +73,7 @@ After you create and save a Discovery schedule, you can optionally configure the
 
 -   Define IP addresses or ranges to exclude from all Discovery schedules. See [Use Global Excludes List for IP addresses and ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ip-address-configuration.md).
 -   Define Discovery schedule attributes to automatically set CI field values such as location or asset tag on discovered CIs. You can define attributes at the schedule, range set, or IP address range level. See [Define CI field attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/define-ci-attributes.md).
--   Configure [[c_DiscoveryBehaviors|Discovery behaviors]] to use multiple MID Servers for load balancing or to scan with multiple credentials. See [Discovery behaviors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryBehaviors.md).
+-   Configure Discovery behaviors to use multiple MID Servers for load balancing or to scan with multiple credentials. See [Discovery behaviors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryBehaviors.md).
 
 ## Run a Quick Discovery
 
@@ -98,12 +98,12 @@ You can run DiscoverNow from a Discovery schedule form or from a script.
 1.  Open Quick Discovery from one of these locations:
 
     -   Navigate to **Discovery** &gt; **Discovery Schedules** and click **Quick Discovery** in the header bar.
-    -   Navigate to **Discovery** &gt; **Home** and click **[[discovery-quick-start|Discovery Quick Start]]** under the Schedules tile.
+    -   Navigate to **Discovery** &gt; **Home** and click **Discovery Quick Start** under the Schedules tile.
     A dialog box appears asking for an IP address and the name of the MID Server to use. Only **Up** and **Validated** MID Servers are available.
 
 2.  Enter the target IP address for a discovery in the **Target IP** field.
 
-    **Note:** DiscoverNow does not currently support [[r_DataCollDiscoIPNetworks|IP network discovery]]. Make sure that you enter a single IP address only and not an entire network, such as 10.105.37.0/24.
+    **Note:** DiscoverNow does not currently support IP network discovery. Make sure that you enter a single IP address only and not an entire network, such as 10.105.37.0/24.
 
     When a MID Server is assigned to the subnet containing the target IP address and currently in an operational status of **Up**, the name appears automatically in the **MID Server** field. If multiple MID servers are found, the system selects one for you. The value in the **MID Server** field can be overwritten if you want to select a different MID Server.
 
@@ -117,7 +117,7 @@ You can run DiscoverNow from a Discovery schedule form or from a script.
 
     The status record for that discovery appears. The **Schedule** column is empty because no schedule is associated with this discovery.
 
-    \[Omitted image "QuickDiscoveryStatusList.png"\] Alt text: Quick [[c_DiscoveryStatus|discovery status]] list
+    \[Omitted image "QuickDiscoveryStatusList.png"\] Alt text: Quick discovery status list
 
 
 ## Run DiscoverNow from a script
@@ -249,7 +249,7 @@ Displays the IP address explored by the probe. Click this link to examine all th
     -   The existing sensor jobs that are in a **Ready** state, but have not started processing, are deleted from the system.
 4.  View the [Discovery Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-home-page.md) for details about all schedules, cloud resources \(virtual machines\), discovered devices, and related errors that might have occurred.
 
-    [Error details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-home-page.md) include possible [[ccg-remediation|remediation]] steps.
+    [Error details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-home-page.md) include possible remediation steps.
 
 
 ## MID Server selection sequence for Discovery schedules
@@ -303,12 +303,3 @@ Shazzam can process IP lists containing up to 20,000 addresses that include both
 
 [MID Server cluster configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureAMIDServerCluster.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_DiscoveryBehaviors|Discovery behaviors]]
-- [[discovery-quick-start|Discovery Quick Start]]
-- [[r_DataCollDiscoIPNetworks|IP network discovery]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[ccg-remediation|Remediation]]

@@ -16,7 +16,7 @@ Use these data visualizations to get high-level and detailed views of how inform
 
 ## Overview tab
 
-For more information about indicator data sources, see [[cio-db-indicators|Chief Information Officer Dashboard indicators]].
+For more information about indicator data sources, see [Chief Information Officer Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/cio-db-indicators.md).
 
 |Column|Visualization|Visualization Type|Data Source|
 |------|-------------|------------------|-----------|
@@ -130,6 +130,3 @@ For more information about indicator data sources, see [[cio-db-indicators|Chief
 |Survey Management|eSAT monthly trend|Area|Automated indicator: eSAT monthly|
 |Survey Management|cSAT monthly trend|Area|Automated indicator: cSAT monthly|
 
-## Related
-
-- [[cio-db-indicators|Chief Information Officer Dashboard indicators]]

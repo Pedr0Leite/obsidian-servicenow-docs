@@ -50,11 +50,11 @@ Unique name that describes the content.
 
 </td><td>
 
-The content type category. The types are:-   [[ec-streamline-content|Portal Content]]
--   [[ec-notification-content|Notification Content]]
+The content type category. The types are:-   Portal Content
+-   Notification Content
 -   Community Content
--   [[ec-to-do-content|To-do Content]]
--   [[ec-mobile-content|Mobile Content]]
+-   To-do Content
+-   Mobile Content
 
 See [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
 
@@ -85,9 +85,4 @@ Unique identification of the content type.
 </td></tr></tbody>
 </table>3.  Click **Submit** or **Update**.
 
-## Related
 
-- [[ec-streamline-content|Portal content]]
-- [[ec-notification-content|Notification content]]
-- [[ec-to-do-content|To-do content]]
-- [[ec-mobile-content|Mobile content]]

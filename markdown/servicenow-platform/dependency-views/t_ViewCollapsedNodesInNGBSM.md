@@ -32,11 +32,11 @@ Role required: None
 **Related topics**  
 
 
-[View a [[c_BusinesssServiceManagementMaps|Dependency Views]] map]()
+[View a Dependency Views map]()
 
 [Save or load a Dependency Views map]()
 
-[Delete a saved [[c_NextGenBSMMaps|Dependency Views map]] view]()
+[Delete a saved Dependency Views map view]()
 
 [Change the layout of Dependency Views map]()
 
@@ -46,7 +46,3 @@ Role required: None
 
 [Export a Dependency Views map]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

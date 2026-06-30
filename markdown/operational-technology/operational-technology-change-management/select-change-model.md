@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Change Management, Operational Te
 
 # Select a change model to fulfill change requests
 
-Select an [[operational-technology-overview|Operational Technology]] \(OT\) change model to begin fulfilling your change requests depending on the needs of your organization.
+Select an Operational Technology \(OT\) change model to begin fulfilling your change requests depending on the needs of your organization.
 
 ## Before you begin
 
@@ -37,9 +37,9 @@ For more information about the Advanced OT Change Model, see [Advanced OT Change
 
 ## Procedure
 
-1.  Navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+1.  Navigate to **Industrial Workspace Admin** &gt; **Guided Setup**.
 
-2.  In the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] category, select **Get Started**.
+2.  In the Operational Technology Change Management category, select **Get Started**.
 
 3.  Next to the Change Models section, select **Configure**.
 
@@ -59,8 +59,3 @@ Learn about the Advanced Operational Technology \(OT\) Change Model playbook sta
 
 **Parent Topic:**[Configuring Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/configuring-operational-technology-change-request.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]

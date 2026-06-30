@@ -20,7 +20,7 @@ Workforce Optimization for HR simplifies the daily routine of HR Agent Managers 
 
 ## Workforce Optimization for HR
 
-Manage and maintain the productivity of your workforce from a single application [[use-wfo-hr|using Workforce Optimization for HR]]. With this application, you can efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.
+Manage and maintain the productivity of your workforce from a single application using Workforce Optimization for HR. With this application, you can efficiently route work to your team, manage your team's skills and schedules, and monitor their performance.
 
 The application is available on configurable workspaces. Administrators can configure and customize the workspace using the application capabilities to complete the service objectives efficiently.
 
@@ -29,7 +29,7 @@ Workforce Optimization for HR WFO enables you to do these tasks:
 -   Gain real-time visibility into work items, escalations, and KPIs by each channel so you can manage for optimal performance.
 -   Manage normal work shifts and on-call shifts from one, centralized experience. Track shift coverage, swaps, and time off requests.
 -   Forecast agent demand with precision modeling demand scenarios to analyze impact to agent schedules, and update forecast to properly staff for demand surges.
--   Empower agents with the skills they need to succeed using internal and external [[exploring-learning-exp|learning]] management platforms.
+-   Empower agents with the skills they need to succeed using internal and external learning management platforms.
 
 ### Workforce Optimization for HR key features
 
@@ -39,7 +39,7 @@ Workforce Optimization for HR WFO enables you to do these tasks:
 
 -   **Integrated application data**
 
-    Drive workforce optimization effectively by managing schedules, shifts, and queues for your teams. You can assess skills, automate agent recommendations based on those skills, and provide [[mentoring-egd-overview|mentoring]] opportunities for employees.
+    Drive workforce optimization effectively by managing schedules, shifts, and queues for your teams. You can assess skills, automate agent recommendations based on those skills, and provide mentoring opportunities for employees.
 
 -   **Scheduling**
 
@@ -66,7 +66,7 @@ Workforce Optimization for HR WFO enables you to do these tasks:
 
 </td></tr><tr><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text:Learn about the components and roles installed with Workforce Optimization for HR.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/wfo-hr-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text:Learn about the components and roles installed with Workforce Optimization for HR.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/wfo-hr-reference.md)
 
 </td><td>
 
@@ -85,9 +85,3 @@ Workforce Optimization for HR WFO enables you to do these tasks:
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[use-wfo-hr|Using Workforce Optimization for HR]]
-- [[exploring-learning-exp|Learning]]
-- [[mentoring-egd-overview|Mentoring]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

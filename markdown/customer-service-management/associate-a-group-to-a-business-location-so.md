@@ -40,8 +40,5 @@ Role required: admin
 
 ## What to do next
 
-Add group members to a business location. For more information, see [[add-group-members-to-a-business-location-so|Add group members to a business location]].
+Add group members to a business location. For more information, see [Add group members to a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-group-members-to-a-business-location-so.md).
 
-## Related
-
-- [[add-group-members-to-a-business-location-so|Add group members to a business location]]

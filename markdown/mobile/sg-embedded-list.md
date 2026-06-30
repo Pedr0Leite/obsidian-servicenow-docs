@@ -12,7 +12,7 @@ breadcrumb: [Record screen, Mobile screen types, Mobile screens, Mobile app comp
 
 # Embedded lists for a record screen
 
-Use an embedded list to place a list of information that is related to your current record within a segment on your [[form-screen|record screen]] so that your users don't have to navigate to a related list.
+Use an embedded list to place a list of information that is related to your current record within a segment on your record screen so that your users don't have to navigate to a related list.
 
 <table id="table_ryt_ynb_xlb"><tbody><tr><td>
 
@@ -22,15 +22,15 @@ Use embedded lists to display lists of related information in an easily accessib
 
  -   **Create a data item to contain the data for your embedded list**
 
-You need a data item to store the data that appears in your embedded list. To create a data item, follow the process in [[sg-studio-create-data-item|Configure a standard data item]].
+You need a data item to store the data that appears in your embedded list. To create a data item, follow the process in [Configure a standard data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-data-item.md).
 
--   **Create a [[list-screen|list screen]] using that data item**
+-   **Create a list screen using that data item**
 
-You need to configure a list to embed into your record screen. You can create this list using the process detailed in [[sg-configure-list-screen|List screen configuration]].
+You need to configure a list to embed into your record screen. You can create this list using the process detailed in [List screen configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-list-screen.md).
 
 -   **Embed your list into your record screen**
 
-For details on this process, see [[create-embedded-list-1|Configure an embedded list for a record screen]].
+For details on this process, see [Configure an embedded list for a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-embedded-list-1.md).
 
 
 </td><td>
@@ -39,11 +39,3 @@ For details on this process, see [[create-embedded-list-1|Configure an embedded 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-studio-create-data-item|Configure a standard data item]]
-- [[sg-configure-list-screen|List screen configuration]]
-- [[create-embedded-list-1|Configure an embedded list for a record screen]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

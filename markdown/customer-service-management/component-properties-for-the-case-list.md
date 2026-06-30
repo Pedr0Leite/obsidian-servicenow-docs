@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Case list
 
-Component properties enable you to configure the behavior of the [[case-list-component|Case list component]] instance on a third-party website.
+Component properties enable you to configure the behavior of the Case list component instance on a third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -119,7 +119,7 @@ Display columns from the case or task table. Select **Add** to add new columns t
 **Note:**
 
 -   If both the View and Columns attributes are provided, the fields specified in Columns will be displayed.
--   If the first column is the reference column, selecting on the case record shows the error in the [[case-view-web-component|Case View component]].
+-   If the first column is the reference column, selecting on the case record shows the error in the Case View component.
 
 </td></tr><tr><td>
 
@@ -163,12 +163,7 @@ Option to show or hide the component when there are no cases to display. By defa
 
 [Embed the Case list component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-list-component-on-third-party-website.md)
 
-[[we-case-list-event-handlers|Event handler in the Case list component]]
+[Event handler in the Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-list-event-handlers.md)
 
 [Sample code for the Case list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-list-sample-code.md)
 
-## Related
-
-- [[we-case-list-event-handlers|Event handler in the Case list component]]
-- [[case-list-component|Case list component]]
-- [[case-view-web-component|Case view component]]

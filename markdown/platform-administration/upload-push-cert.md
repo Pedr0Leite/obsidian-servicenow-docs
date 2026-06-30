@@ -12,7 +12,7 @@ breadcrumb: [Push notification setup with a custom push application for ServiceN
 
 # Upload a push certificate to your instance
 
-Upload a push certificate to your instance so that you can use it later to connect your iOS device to the [[r_PushMessageArchitecture|push notification system]].
+Upload a push certificate to your instance so that you can use it later to connect your iOS device to the push notification system.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ After you create a PKCS \(.p12\) file that contains the iPhone developer certifi
 
 ## What to do next
 
-[[t_CreateAMobileApplication|Create a push application record for your custom app]]
+[Create a push application record for your custom app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAMobileApplication.md)
 
-## Related
-
-- [[t_CreateAMobileApplication|Create a push application record for your custom app]]
-- [[r_PushMessageArchitecture|Push notification system]]

@@ -14,7 +14,7 @@ breadcrumb: [Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM
 
 # Using LEAP
 
-Use LEAP to analyze [[automation-opportunities|automation opportunities]] \(AOs\), generate resolution steps and playbooks, create problem records, build knowledge base articles, and execute Ansible automations during incident [[ccg-remediation|remediation]].
+Use LEAP to analyze automation opportunities \(AOs\), generate resolution steps and playbooks, create problem records, build knowledge base articles, and execute Ansible automations during incident remediation.
 
 ## LEAP tasks
 
@@ -71,7 +71,4 @@ The Now Assist Explore feature streamlines artifact creation. Select **Explore**
 
     Use the Ansible Execution Agent to launch mapped Ansible job templates during incident remediation.
 
-## Related
 
-- [[automation-opportunities|Automation opportunities]]
-- [[ccg-remediation|Remediation]]

@@ -12,12 +12,12 @@ breadcrumb: [Knowledge Center, Manage content capabilities, Extend ServiceNow AI
 
 # Exploring Knowledge Center
 
-The [[knowledge-center|Knowledge Center]] Knowledge Center helps in the effective management of knowledge articles by using an intuitive interface. Beyond traditional knowledge bases, the Knowledge Center provides actionable insights and identifies gaps so that your content stays relevant and accurate.
+The Knowledge Center Knowledge Center helps in the effective management of knowledge articles by using an intuitive interface. Beyond traditional knowledge bases, the Knowledge Center provides actionable insights and identifies gaps so that your content stays relevant and accurate.
 
 ## Benefits
 
--   Knowledge Center Article editor provides a range of formatting tools to help you edit and format the content of knowledge articles, including text, images, tables, and media. You can search and add [[knowledge-blocks|knowledge blocks]] to an article.
--   Insights Dashboard- Track top actions, duplicates, [[knowledge-health-score|knowledge health score]], and optimization opportunities.
+-   Knowledge Center Article editor provides a range of formatting tools to help you edit and format the content of knowledge articles, including text, images, tables, and media. You can search and add knowledge blocks to an article.
+-   Insights Dashboard- Track top actions, duplicates, knowledge health score, and optimization opportunities.
 -   Gap Analysis- Identify missing topics and improve coverage.
 -   Article optimization- Generate and edit articles with Now Assist. Turn a text prompt into an article, helping you overcome writer's block and speed up the article writing process.
 -   Article length scan- Use the scan results to optimize article length and ensure it falls within the recommended word count range.
@@ -29,8 +29,3 @@ The [[knowledge-center|Knowledge Center]] Knowledge Center helps in the effectiv
 -   Enhance article quality through AI-driven recommendations.
 -   Close gaps and keep your content aligned with audience needs.
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[knowledge-health-score|Knowledge Health score]]

@@ -15,7 +15,7 @@ breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM
 
 # Oracle Cloud Infrastructure \(OCI\) discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Oracle Cloud Infrastructure \(OCI\) discovery patterns to provide real-time elasticity for enterprise applications by combining Oracle autonomous services, integrated security, and cloud compute. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the Oracle Cloud Infrastructure \(OCI\) discovery patterns to provide real-time elasticity for enterprise applications by combining Oracle autonomous services, integrated security, and cloud compute. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Starting with version 1.29.0, Discovery and Service Mapping Patterns supports the discovery of OCI GovCloud accounts.
 
@@ -35,11 +35,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     -   Discovery and Service Mapping Patterns
 -   **Configure Oracle API credentials**
 
-    Ensure that your OCI credentials are configured and that your private and public keys are converted to the RSA format. For more information, see [[create-oracle-api-credentials|Create Oracle API credentials]].
+    Ensure that your OCI credentials are configured and that your private and public keys are converted to the RSA format. For more information, see [Create Oracle API credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oracle-api-credentials.md).
 
 -   **Create OCI service account**
 
-    For more information, see [[create-oci-service-accounts|Create OCI service accounts]].
+    For more information, see [Create OCI service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oci-service-accounts.md).
 
 -   **Create a cloud discovery schedule**
 
@@ -195,9 +195,3 @@ Tags are populated to the **cmdb\_key\_value** table and related to the relevant
 
 **Parent Topic:**[Available cloud discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns-cloud.md)
 
-## Related
-
-- [[create-oracle-api-credentials|Create Oracle API credentials]]
-- [[create-oci-service-accounts|Create OCI service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

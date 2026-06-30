@@ -30,7 +30,7 @@ Create a Engagement Messenger module and configure its behavior, appearance, and
 
 2.  Choose to create an Engagement Messenger module or edit an existing module.
 
-    -   To [[create-we-module|create a module]], select **New**.
+    -   To create a module, select **New**.
     -   To edit an existing module, select **Edit** in the Edit module column of your messenger module.
     The guided configuration view is displayed.
 
@@ -396,6 +396,3 @@ A new messenger configuration is created and listed in the Modules module of the
     -   [Engagement Messenger module theme requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/engagement-messenger-theme-requirements.md) to reuse Service Portal theme to customize the visual appearance in Engagement Messenger.
     -   [Default font sizes for search result text in Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/modify-search-result-font-size-auto-spell-correction-text.md).
 
-## Related
-
-- [[create-we-module|Create a module]]

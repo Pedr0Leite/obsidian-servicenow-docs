@@ -28,9 +28,9 @@ Attribute propagation enables you to define attribute mappings by setting mappin
 -   Select different characteristics and characteristic options in the source and target specifications, including complex characteristics.
 -   Select a higher-level specification and lower-level specification, or a lower-level specification and a higher-level specification, in a product offering.
 
-**Note:** If you create specification relationships and accompanying decomposition rules, the ServiceNow AI Platform performs the required validations when you attempt to create attribute mappings. These validations ensure that your attribute mappings are unique and don’t adversely impact existing decomposition rules. To learn more about specification relationships and decomposition rules, see [[create-specification-relationships-somt|Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications]].
+**Note:** If you create specification relationships and accompanying decomposition rules, the ServiceNow AI Platform performs the required validations when you attempt to create attribute mappings. These validations ensure that your attribute mappings are unique and don’t adversely impact existing decomposition rules. To learn more about specification relationships and decomposition rules, see [Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-specification-relationships-somt.md).
 
-If a decomposition rule depends on an attribute-mapping rule, the [[sales-crm-order-decomposition|order decomposition]] process isn’t able to decompose the order because it’s waiting for the attribute-mapping rule to provide the characteristic value that is required for order decomposition. The following warning appears when you save a decomposition or an attribute-mapping rule that would cause a dependent relationship with an adverse impact:`Attribute mapping rule impacts decomposition rule in {0} specification for {1} characteristic. Update this record to eliminate this rule dependency.`
+If a decomposition rule depends on an attribute-mapping rule, the order decomposition process isn’t able to decompose the order because it’s waiting for the attribute-mapping rule to provide the characteristic value that is required for order decomposition. The following warning appears when you save a decomposition or an attribute-mapping rule that would cause a dependent relationship with an adverse impact:`Attribute mapping rule impacts decomposition rule in {0} specification for {1} characteristic. Update this record to eliminate this rule dependency.`
 
 ## Procedure
 
@@ -139,7 +139,3 @@ The order fulfillment process evaluates the attribute-mapping rules that you def
 
 Create and publish your offerings to a product catalog.
 
-## Related
-
-- [[create-specification-relationships-somt|Create specification relationships, quantity mapping, and decomposition rules for Sales CRM for Telecommunications]]
-- [[sales-crm-order-decomposition|Order decomposition]]

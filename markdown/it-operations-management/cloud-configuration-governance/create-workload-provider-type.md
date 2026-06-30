@@ -22,7 +22,7 @@ Role required: cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Config Management**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Config Management**.
 
 2.  Select **Workload Config Provider Types**, and then select **New**.
 
@@ -97,13 +97,10 @@ Types of credentials stored for this provider.
 
 4.  Add properties for the workload type in the **Workload Provider Properties** section.
 
-    In addition to the existing properties, you can add more properties. Workload provider properties are displayed in the order catalog form \(in the [[cloudmgt-cloud-user-portal|Cloud User Portal]]\) as management attributes.
+    In addition to the existing properties, you can add more properties. Workload provider properties are displayed in the order catalog form \(in the Cloud User Portal\) as management attributes.
 
     For example, for an Ansible provider type, **Inventory**, and **Hostgroup** are required. The values for these properties come from Resource Pools.
 
 5.  Select **Submit**.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

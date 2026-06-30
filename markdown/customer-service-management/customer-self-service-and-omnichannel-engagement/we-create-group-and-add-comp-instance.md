@@ -14,11 +14,11 @@ breadcrumb: [Configure module in Web Embeddables, Web Embeddables, Set up self-s
 
 # Create a group and add a component instance
 
-[[create-a-group-so|Create a group]] to model third-party website structure such as page or sections. Use the default group or create new groups to manage the component instances on that page or section.
+Create a group to model third-party website structure such as page or sections. Use the default group or create new groups to manage the component instances on that page or section.
 
 ## Before you begin
 
-You must [[create-we-module|create a module]]. For more information, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-we-module.md).
+You must create a module. For more information, see [Create a module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/create-we-module.md).
 
 Role required: sn\_embeddable\_core.emb\_admin
 
@@ -50,7 +50,4 @@ Similar to groups, you can also clone, delete, and rename component instances an
 
 7.  Configure the component instance properties.
 
-## Related
 
-- [[create-a-group-so|Create a group]]
-- [[create-we-module|Create a module]]

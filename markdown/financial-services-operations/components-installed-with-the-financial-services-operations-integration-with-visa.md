@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Visa, Integrate, Financial Service
 
 # Financial Services Operations Integration with Visa subflows
 
-You can use the following [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]] application subflows to handle the card [[dispute-management|dispute management]] process.
+You can use the following Financial Services Operations Integration with Visa application subflows to handle the card dispute management process.
 
 ## Financial Services Operations Integration with Visa subflows
 
@@ -30,7 +30,7 @@ You can use the following [[financial-services-operations-integration-with-visa-
 |Stage 1: Pre-Dispute|Select Associated Transactions|Enables you to associate related transactions to the disputed transaction.|`SIAssociatedTranSelectionRequest`|`/rsrv_rolti/api/SIAssociatedTranSelection`|
 |Stage 1: Pre-Dispute|Cardholder Purchase Inquiry|Enables you to request purchase information and additional merchant information regarding a transaction by supplying TransactionID.|`SISubmitPurchaseInquiryRequest`|`/rsrv_rolsi/api/SISubmitPurchaseInquiry`|
 |Stage 2: Case Creation|Create Case from Transaction|Enables you to create a case in Visa Resolve Online \(VROL\) from a transaction.|`SICreateCaseFromTransactionRequest`|`/rsrv_rolsi/api/SICreateCaseFromTransaction`|
-|Stage 3: Dispute|Initiate Dispute from Transaction or Case|Enables you to [[create-case-with-intake-workspace|initiate a dispute]] in VROL from a transaction or from an existing Visa case.|`SIInitiateDisputeFromTransactionOrCaseRequest`|`/rsrv_rolsi/api/SIInitiateDisputeFromTransactionOrCase`|
+|Stage 3: Dispute|Initiate Dispute from Transaction or Case|Enables you to initiate a dispute in VROL from a transaction or from an existing Visa case.|`SIInitiateDisputeFromTransactionOrCaseRequest`|`/rsrv_rolsi/api/SIInitiateDisputeFromTransactionOrCase`|
 |Stage 3: Dispute|Submit Dispute Questionnaire|Enables you to submit or save the dispute questionnaire in VROL.|`SISubmitDisputeQuestionnaireRequest`|`/rsrv_rolsi/api/SISubmitDisputeQuestionnaire`|
 |Stage 3: Dispute|Look up Dispute Response Details|Enables you to retrieve the details of a submitted or received dispute response.|`SIGetDisputeResponseDetailsRequest`|`/rsrv_rolsi/api/SIGetDisputeResponseDetails`|
 |Stage 3: Dispute|Accept Dispute|Accepts the dispute liability or the other side's decision, and removes the dispute transaction from the queue.|`SIAcceptDisputeRequest`|`/rsrv_rolsi/api/SIAcceptDispute`|
@@ -57,11 +57,5 @@ All four following batch queue subflows call the same RTSI operation \(SIGetBatc
 |Process Incoming Arbitration Batch Queue|The acquirer initiates an arbitration request, or the issuer submits an arbitration and receives an acknowledgment or decision from Visa, which places the case in this queue.|`INCOMING_BQ_ARBITRATIONS`|`/rsrv_rolsi/api/SIGetBatchQueue`|
 |Processes Incoming Recall Batch Queue|The acquirer processes recalls at various stages, including dispute response, pre-arbitration, and pre-arbitration response, which places the Visa case in this queue. Processing this batch queue alerts the FSO case with the received response.|`INCOMING_BQ_RECALLS`|`/rsrv_rolsi/api/SIGetBatchQueue`|
 
-**Parent Topic:**[[financial-services-operations-integration-with-visa-reference|Components installed with Financial Services Operations Integration with Visa]]
+**Parent Topic:**[Components installed with Financial Services Operations Integration with Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-integration-with-visa-reference.md)
 
-## Related
-
-- [[financial-services-operations-integration-with-visa-reference|Components installed with Financial Services Operations Integration with Visa]]
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]
-- [[dispute-management|Dispute Management]]
-- [[create-case-with-intake-workspace|Initiate a dispute]]

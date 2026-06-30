@@ -30,11 +30,8 @@ Role required: it\_project\_manager
 
     If you don't see the group that you need, work with your admin to create it. See [Define an Agile group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/t_SDLCPPSCreateATeam.md).
 
-4.  Save the [[create-a-project-form|project form]].
+4.  Save the project form.
 
 
 **Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

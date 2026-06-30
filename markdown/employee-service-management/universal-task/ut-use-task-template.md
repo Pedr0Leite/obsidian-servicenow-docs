@@ -14,7 +14,7 @@ breadcrumb: [Universal Task templates, Using Universal Task, Universal Task, Emp
 
 # Use Task templates
 
-Use a task template to auto-populate a [[universal-task-form|Universal Task form]]. Using a task template enables agents to [[create-applicant-tasks|create tasks]] faster.
+Use a task template to auto-populate a Universal Task form. Using a task template enables agents to create tasks faster.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: write access to the parent table, if the parent table is defined 
 
 ## Procedure
 
-1.  Open the ticket that you want to [[create-unitask|create a universal task]] for.
+1.  Open the ticket that you want to create a universal task for.
 
-2.  Click the UI action for creating a [[universal-task-landing|universal task]].
+2.  Click the UI action for creating a universal task.
 
 3.  In the **Template** field of the Universal Task form, select the template to be used.
 
@@ -42,9 +42,3 @@ Role required: write access to the parent table, if the parent table is defined 
 
 **Parent Topic:**[Universal Task templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-task-template-landing.md)
 
-## Related
-
-- [[universal-task-form|Universal Task form]]
-- [[create-applicant-tasks|Create tasks]]
-- [[create-unitask|Create a universal task]]
-- [[universal-task-landing|Universal Task]]

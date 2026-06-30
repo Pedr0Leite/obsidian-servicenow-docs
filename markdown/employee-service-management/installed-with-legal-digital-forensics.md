@@ -12,7 +12,7 @@ breadcrumb: [Reference, Legal Digital Forensics, Legal Service Delivery Practice
 
 # Components installed with Legal Digital Forensics
 
-Several types of components are installed with activation of the [[legal-digital-forensics-landing-page|Legal Digital Forensics]] application, including tables and user roles.
+Several types of components are installed with activation of the Legal Digital Forensics application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -127,9 +127,5 @@ Non Custodial Core\[sn\_lg\_forensics\_non\_custodial\_data\]
 Extends the Custodial Core table and has additional fields to store information of non-custodial records added in a digital forensics request.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[legal-dft-reference|Legal Digital Forensics reference]]
+</table>**Parent Topic:**[Legal Digital Forensics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-dft-reference.md)
 
-## Related
-
-- [[legal-dft-reference|Legal Digital Forensics reference]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]

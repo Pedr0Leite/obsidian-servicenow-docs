@@ -14,10 +14,7 @@ breadcrumb: [Managing major incidents using Major Incident applet, ITSM Mobile A
 
 # Collaboration with major incidents
 
-Initiate and manage the collaboration for the major incident records from the [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+Initiate and manage the collaboration for the major incident records from the ITSM Mobile Agent app.
 
 You need to add the deep linking support for ITSM Mobile Agent on the Mobile studio. For more information on adding the deep linking support, refer [Add deep linking support to ITSM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/deep-link-itsm-mobile-agent.md)
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

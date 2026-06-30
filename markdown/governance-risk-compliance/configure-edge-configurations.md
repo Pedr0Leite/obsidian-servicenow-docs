@@ -20,13 +20,13 @@ Role required: sn\_oper\_res.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configuration** and open the desired Main node configuration from the [[list-view-uib-ws|list view]].
+1.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configuration** and open the desired Main node configuration from the list view.
 
-2.  Open the Nexus map configuration record from the [[nexus-map-configuration|Nexus map configurations]] related list.
+2.  Open the Nexus map configuration record from the Nexus map configurations related list.
 
 3.  In the Edge configurations related list, select **New**.
 
-    For more information on the fields, see [[edge-configuration-form|Edge configuration form]].
+    For more information on the fields, see [Edge configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/edge-configuration-form.md).
 
     \[Omitted image "edge-config-record.png"\] Alt text: Edge configurations related list.
 
@@ -44,9 +44,4 @@ Role required: sn\_oper\_res.admin
 
 9.  To submit the details of the Edge configuration, select **Submit**.
 
-## Related
 
-- [[edge-configuration-form|Edge configuration form]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[list-view-uib-ws|List view]]
-- [[nexus-map-configuration|Nexus map configurations]]

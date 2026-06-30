@@ -16,7 +16,7 @@ Create the relationship between parent and child and assign the type of relation
 
 ## Before you begin
 
-Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin or [[mco-product-non-conformances|product non-conformance]] submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
+Role required: Quality Issue Management Admin or product non-conformance submitter \(sn\_mfg\_qm.product\_non\_conformance\_submitter\)
 
 ## Procedure
 
@@ -37,14 +37,7 @@ Role required: [[mco-quality-issue-management|Quality Issue Management]] Admin o
 
 ## Result
 
-The [[mco-copq-expense-line|Create a CoPQ expense line]] and [[mco-impacted-asset-action|Impacted asset action]] forms are displayed.
+The [Create a CoPQ expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-copq-expense-line.md) and [Impacted asset action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-impacted-asset-action.md) forms are displayed.
 
-**Parent Topic:**[[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
+**Parent Topic:**[Product Non-conformance without playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-lists-product-non-conformance.md)
 
-## Related
-
-- [[mco-copq-expense-line|Create a CoPQ expense line]]
-- [[mco-impacted-asset-action|Impacted asset action]]
-- [[mco-related-lists-product-non-conformance|Product Non-conformance without playbook]]
-- [[mco-quality-issue-management|Quality issue management]]
-- [[mco-product-non-conformances|Product non-conformance]]

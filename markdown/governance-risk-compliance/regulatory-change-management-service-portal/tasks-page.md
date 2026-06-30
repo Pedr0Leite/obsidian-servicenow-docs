@@ -16,7 +16,7 @@ breadcrumb: [Overview page and dashboard views, Regulatory Change Management, Go
 
 The Tasks page within the Compliance Workspace provides a centralized, task-centric interface for managing all activities related to regulatory events, source documents, and compliance workflows. It helps you stay organized, ensures timely and accountable action, and promotes overall regulatory readiness.
 
-Each task relates to a step in the regulatory response process, such as impact assessment, policy review, control updates, or evidence collection. Tasks can be created both manually and automatically. Automatic task creation depends on workflow settings linked to [[list-view-of-reg-alerts|regulatory alerts]] or change requests.
+Each task relates to a step in the regulatory response process, such as impact assessment, policy review, control updates, or evidence collection. Tasks can be created both manually and automatically. Automatic task creation depends on workflow settings linked to regulatory alerts or change requests.
 
 This interface supports individual and team-level accountability, promotes timely completion of tasks, and enables compliance with internal and external regulatory obligations. You can filter, sort, and act on tasks directly within this interface, making it an essential tool for compliance officers, analysts, and business stakeholders.
 
@@ -75,6 +75,3 @@ The following image shows the Tasks page in the Compliance Workspace.
 
 \[Omitted image "rcm-tasks-page-compliance-ws.png"\] Alt text: Tasks page in the Compliance workspace.
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]

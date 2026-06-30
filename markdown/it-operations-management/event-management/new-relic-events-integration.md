@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate New Relic platform events
 
-Integrate New Relic with [[c_EM|Event Management]] by adding a standard webhook in the New Relic old and new consoles.
+Integrate New Relic with Event Management by adding a standard webhook in the New Relic old and new consoles.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_integration
 
 Configure the Event Management environment for the collection of events from New Relic by authenticating New Relic as a data source. Set your ServiceNow AI Platform instance as the rest endpoint using a standard webhook. Use procedure step 1 for the new console. Use procedure step 2 for the old console.
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
@@ -98,15 +98,10 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rul
 
 Alerts start flowing from the New Relic console into the Event Management plugin. The plugin extracts information from the original New Relic alert message to populate the required event fields and inserts the event into the database. In your ServiceNow AI Platform instance, navigate to**All Events**to see the events.
 
-**Note:** By default, host binding is enabled for New Relic events for all providers \(Azure/AWS/GCP\). If all hosts in the environment are discovered using Cloud [[r-discovery|Discovery]] by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the**New Relic - General**event rule. For further information about Event rules, see [Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md).
+**Note:** By default, host binding is enabled for New Relic events for all providers \(Azure/AWS/GCP\). If all hosts in the environment are discovered using Cloud Discovery by providing credentials and discovered resources are in the cmdb\_ci\_vm\_object list, then the VM binding may not occur. To resolve this, you must enable the**New Relic - General**event rule. For further information about Event rules, see [Event rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-event-rules.md).
 
 -   **[Integrate New Relic with REST API key token](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/integrate-newrelic-api-key.md)**  
 Integrate using an API key to establish secure communication and automate data exchange via REST API. This simplifies integration, enabling seamless access to services and enhancing operational efficiency.
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]
-- [[r-discovery|Discovery]]

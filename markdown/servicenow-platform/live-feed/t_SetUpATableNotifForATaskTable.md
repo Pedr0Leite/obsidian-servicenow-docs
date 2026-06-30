@@ -52,7 +52,7 @@ Post to chat rooms
 
 </td><td>
 
-Select the [[check-box|check box]] to generate the notification in chat rooms that are associated with the record, This applies to task records only and requires that the Chat plugin is active.
+Select the check box to generate the notification in chat rooms that are associated with the record, This applies to task records only and requires that the Chat plugin is active.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Post to Live Feed
 
 </td><td>
 
-Select the check box to generate the notification on Live Feed. If [[c_RecordFeeds|record feeds]] are not set up and the **Feed group** field is blank, the notification is posted to the company feed.
+Select the check box to generate the notification on Live Feed. If record feeds are not set up and the **Feed group** field is blank, the notification is posted to the company feed.
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ High priority incident opened: ${URI}
  Short description: ${short_description}
 ```
 
- **Note:** For security reasons, any [[html|HTML]] code is automatically stripped out of a message before it is posted.
+ **Note:** For security reasons, any HTML code is automatically stripped out of a message before it is posted.
 
 </td></tr><tr><td>
 
@@ -167,8 +167,3 @@ Create a script that runs before a notification is generated. The script runs on
 
 [Live Feed table notification examples]()
 
-## Related
-
-- [[check-box|Check box]]
-- [[c_RecordFeeds|Record feeds]]
-- [[html|HTML]]

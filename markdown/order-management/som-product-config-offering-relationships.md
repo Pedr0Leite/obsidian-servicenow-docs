@@ -32,7 +32,7 @@ Create product offering relationships that bundle products together. A bundled p
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
 <table id="table_urm_gvt_g1c"><thead><tr><th>
 
@@ -140,30 +140,18 @@ Option indicating the minimum quantity of products in the bundle. These flags me
 
 ## What to do next
 
--   [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
--   [[som-product-config-add-visuals|Add product visuals]]
--   [[som-product-config-offering-categories|Add product catalog categories]]
--   [[som-product-config-related-contracts|Add related contracts to product offerings]]
--   [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
--   [[som-product-config-create-new-version|Create a product offering version]]
--   [[som-product-config-relationship-groups|Create product offering relationship groups]]
+-   [Create product characteristics and characteristic options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md)
+-   [Add product visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add product catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-categories.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
+-   [Create product offering relationship groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-relationship-groups.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[som-product-config-offering-categories|Add product catalog categories]]
-- [[som-product-config-related-contracts|Add related contracts to product offerings]]
-- [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
-- [[som-product-config-create-new-version|Create a product offering version]]
-- [[som-product-config-relationship-groups|Create product offering relationship groups]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

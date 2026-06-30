@@ -15,11 +15,11 @@ breadcrumb: [AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Exploring AI Risk and Compliance
 
-Learn how you can use the [[ai-risk-and-compliance|AI Risk and Compliance]] application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.
+Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.
 
 ## AI Risk and Compliance overview
 
-The AI risk and compliance team is responsible for identifying and [[assessing-risks|assessing risks]] associated with AI. This includes evaluating legal, regulatory, and ethical considerations to ensure that the AI capabilities are implemented responsibly. Their role is to establish guidelines and frameworks that enable the organization to adopt AI solutions while maintaining compliance with industry standards and ethical principles. The AI Risk and Compliance application enables the risk and compliance team of an organization to manage their AI capabilities and assets.
+The AI risk and compliance team is responsible for identifying and assessing risks associated with AI. This includes evaluating legal, regulatory, and ethical considerations to ensure that the AI capabilities are implemented responsibly. Their role is to establish guidelines and frameworks that enable the organization to adopt AI solutions while maintaining compliance with industry standards and ethical principles. The AI Risk and Compliance application enables the risk and compliance team of an organization to manage their AI capabilities and assets.
 
 ## AI Risk and Compliance users
 
@@ -37,9 +37,9 @@ AI product owner, Business user, IT asset owner, AI practitioner
 
 </td><td>
 
--   Initiates requests to create AI use cases, models, and [[dataset-airc|datasets]] through the workspace or the [[employee-center|Employee Center]].
+-   Initiates requests to create AI use cases, models, and datasets through the workspace or the Employee Center.
 -   Monitors AI system performance drives continuous improvements, and assesses business impact.
--   Actively engages in responsible AI practices at key development and [[Administration|administration]] points, and accesses approved [[ai-assets-airc|AI Assets]] for discovery and reuse.
+-   Actively engages in responsible AI practices at key development and administration points, and accesses approved AI Assets for discovery and reuse.
 
 </td></tr><tr><td>
 
@@ -47,9 +47,9 @@ AI steward
 
 </td><td>
 
--   Ensures that the [[ai-system-airc|AI systems]] adhere to ethical principles like fairness, transparency, accountability, and non-discrimination, and regularly reviews models and outputs to help prevent harm and bias.
--   Promotes fairness in AI decision-making by identifying and addressing biases in training data, algorithms, and outcomes, and conducts periodic impact and [[risk-assessments|risk assessments]].
--   Oversees the entire life cycle of [[ai-model-airc|AI models]], from ideation to retirement, and acts as a liaison between teams to integrate governance across departments, ensuring compliance with data privacy, security, and intellectual property protection.
+-   Ensures that the AI systems adhere to ethical principles like fairness, transparency, accountability, and non-discrimination, and regularly reviews models and outputs to help prevent harm and bias.
+-   Promotes fairness in AI decision-making by identifying and addressing biases in training data, algorithms, and outcomes, and conducts periodic impact and risk assessments.
+-   Oversees the entire life cycle of AI models, from ideation to retirement, and acts as a liaison between teams to integrate governance across departments, ensuring compliance with data privacy, security, and intellectual property protection.
 -   Identifies and mitigates potential risks, such as privacy concerns and technological malfunctions, through regular testing, monitoring, and updates, and quickly adapts to changes in policies and regulations through workflow updates and issue management.
 -   Monitors AI system performance drives continuous improvements, and assesses business impact.
 
@@ -63,7 +63,7 @@ AI risk and compliance analyst
 -   Reviews impact assessment response to validate applicability of AI risks and controls.
 -   Performs risk assessment.
 -   Initiates request for control attestation.
--   [[manage-issues-common-core|Manage Issues]], Policy Exceptions, AI Cases.
+-   Manage Issues, Policy Exceptions, AI Cases.
 -   Manage continuous controls monitoring of AI systems.
 -   Views and manages compliance and risk inventories, for example, authority documents, risk statements, policies, and controls, as well as accesses the Advanced Risk dashboards.
 
@@ -73,7 +73,7 @@ AI risk and compliance admin
 
 </td><td>
 
--   Sets up risk and impact assessment frameworks by configuring [[airc-rams|risk assessment methodologies]], contribution [[factors|factors]], and impact templates, for example, conformity assessments.
+-   Sets up risk and impact assessment frameworks by configuring risk assessment methodologies, contribution factors, and impact templates, for example, conformity assessments.
 -   Sets up automation rules for impact assessments to identify applicable AI risks and controls.
 -   Defines AI case types, applies business rules for form fields and assignments, and designs reporting templates to meet business needs.
 
@@ -98,7 +98,7 @@ The workflow for an AI asset creation and deployment is the following:
 2.  A new inventory record is automatically created in the AI Control Tower workspace.
 3.  The AI Center of Excellence \(COE\) team reviews the submitted use case.
 4.  AI assets such as AI models \(Claude, OpenAI, LLMs, etc.\), Datasets \(Public, Private, Transactions, etc.\), Prompts \(Decisions\) are added to the inventory to help determine if the use case should proceed to the next stage.
-5.  In the [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]], either an AI impact assessment is initiated.
+5.  In the AI Risk and Compliance workspace, either an AI impact assessment is initiated.
 6.  The assigned business user completes the assessment in the workspace.
 7.  Based on the assessment results, potential risks and necessary controls are identified and mapped.
 8.  After the assessment is approved, the AI use case is built by the appropriate teams.
@@ -199,7 +199,7 @@ AI Risk and Compliance Analyst
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[using-ai-risk-and-compliance|using AI Risk and Compliance]], see:
+To learn more about configuring and using AI Risk and Compliance, see:
 
 -   [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md)
 -   [Configuring AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configuring-ai-risk-and-compliance.md)
@@ -217,19 +217,3 @@ To learn more about configuring and [[using-ai-risk-and-compliance|using AI Risk
 
 [Roles installed with AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/roles-installed-with-ai-risk-and-compliance.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[assessing-risks|assessing risks]]
-- [[dataset-airc|Datasets]]
-- [[employee-center|employee center]]
-- [[Administration|Administration]]
-- [[ai-assets-airc|AI assets]]
-- [[ai-system-airc|AI systems]]
-- [[risk-assessments|risk assessments]]
-- [[ai-model-airc|AI models]]
-- [[manage-issues-common-core|Manage issues]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[factors|factors]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[using-ai-risk-and-compliance|Using AI Risk and Compliance]]

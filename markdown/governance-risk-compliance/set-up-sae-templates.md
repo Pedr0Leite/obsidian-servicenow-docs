@@ -12,7 +12,7 @@ breadcrumb: [Configure, Using Digital resilience incident reporting, Manage, Ope
 
 # Set up DRI Smart Assessment templates
 
-Set up the Smart [[airc-assessment-templates|Assessment templates]] in the Assessment Workspace. You can then use them to set up the action task configuration templates in the Regulatory Agency Profile for Digital resilience incident reporting.
+Set up the Smart Assessment templates in the Assessment Workspace. You can then use them to set up the action task configuration templates in the Regulatory Agency Profile for Digital resilience incident reporting.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     \[Omitted image "dri-temp-sae.png"\] Alt text: Demo data in the Assessment Workspace.
 
-    When you select **New template**, the [[create-assessment-template-form|Create assessment template form]], **General** tab, and **Questions** tab are displayed.
+    When you select **New template**, the Create assessment template form, **General** tab, and **Questions** tab are displayed.
 
 3.  Fill in the fields in the Create assessment template form and select **Create**.
 
@@ -122,7 +122,7 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
 8.  Configure scoring settings on the **Scoring** tab.
 
-    For more information on assigning scores to the assessments, see [Scoring assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/scoring-in-assessments.md). For more information on the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], see [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md).
+    For more information on assigning scores to the assessments, see [Scoring assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/scoring-in-assessments.md). For more information on the Smart Assessment Engine, see [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md).
 
 9.  Select **Save**.
 
@@ -158,11 +158,6 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
     **Note:** After setting up Smart Assessment templates in the Assessment Workspace, you can use them to configure action task templates in the Regulatory Agency Profile table.
 
-    For more information on setting up action task templates, see the [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]] section.
+    For more information on setting up action task templates, see the [Set up action task templates in Regulatory agency profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-action-task-templates.md) section.
 
-## Related
 
-- [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[create-assessment-template-form|Create assessment template form]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

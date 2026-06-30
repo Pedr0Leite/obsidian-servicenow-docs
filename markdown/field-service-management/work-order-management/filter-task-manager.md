@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]] and Tap **Teams**
+1.  Open Field Service Manager Mobile and Tap **Teams**
 
 2.  Select the assignment group or territory that the Field Service agent you want to manage is art of.
 
@@ -34,6 +34,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 6.  Tap **Apply**.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

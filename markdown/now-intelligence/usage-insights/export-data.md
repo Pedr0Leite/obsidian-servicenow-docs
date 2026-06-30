@@ -18,7 +18,7 @@ You can export data records to CSV format. Exporting user and session lists, and
 
 **Note:**
 
--   When you download raw data, keep in mind that the internal schema structure that [[user-exp-analytics-landing|Usage Insights]] uses can vary between product versions.
+-   When you download raw data, keep in mind that the internal schema structure that Usage Insights uses can vary between product versions.
 -   You cannot export data from visualizations that do not have the download icon. Use the Export data button on most Events pages to export data from the entire page in CSV format.
 
 The Overview, Retention, Users, Sessions, Events, and Pages modules all contain visualizations with exportable data. Export of data from tables is limited to 10,000 records.
@@ -29,6 +29,3 @@ Select the \(\[Omitted image "csv-download.png"\] Alt text: CSV export download 
 
 **Parent Topic:**[Using Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/using-uxa.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

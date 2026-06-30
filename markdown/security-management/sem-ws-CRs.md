@@ -23,7 +23,7 @@ Role required:
 -   sn\_vul\_container.remediation\_owner for container vulnerable items \(CVITs\)
 -   sn\_vulc.remediation\_owner for configuration test results \(CTRs\)
 
-**Note:** The itil role is required if you want to submit change requests from the [[sem-workspaces-ui-remediation-module|Remediation view]].
+**Note:** The itil role is required if you want to submit change requests from the Remediation view.
 
 ## About this task
 
@@ -65,9 +65,5 @@ The remediation task record opens and a message indicates that the change reques
 
 When you submit the change and it is implemented, if state synchronization is enabled, the remediation task automatically moves to `Resolved`. For more information about states and state synchronization in change requests, see [Create a change request from a remediation task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln-change_mgmnt_create_change.md).
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[sem-workspaces-ui-remediation-module|Remediation view]]

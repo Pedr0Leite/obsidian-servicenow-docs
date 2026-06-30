@@ -15,7 +15,7 @@ breadcrumb: [Using Virtual Agent Topic Recommendations, Build and deploy, Virtua
 
 # Add recommended topics and intents to Virtual Agent
 
-After you run and review a Topic Recommendations report, select the pre-built topics and suggested intents to add to [[virtual-agent-landing-page|Virtual Agent]].
+After you run and review a Topic Recommendations report, select the pre-built topics and suggested intents to add to Virtual Agent.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ When you add a recommended topic to Virtual Agent, the Topic Recommendations app
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
 2.  Go to the analysis results for your data source.
 
@@ -66,12 +66,7 @@ When you add a recommended topic to Virtual Agent, the Topic Recommendations app
 
 For recommended pre-built topics, Virtual Agent duplicates the topic \(but removes the **Template** portion of the file name\). For recommended intents, Virtual Agent creates a new topic mapped to the intent. These topics are added to the **Recommended** category in the Virtual Agent Designer Topics page.
 
-In the [[topic-recommendations-page|Topic recommendations page]], the topic card shows the date it was added and its status \(**Active** or **Inactive**\). To open the new topic from the Topic Recommendations page, select the info icon to open the overlay card. Select the open link icon \[Omitted image "icon-open-link.png"\] Alt text: Open link icon. to open the topic in Virtual Agent Designer.
+In the Topic recommendations page, the topic card shows the date it was added and its status \(**Active** or **Inactive**\). To open the new topic from the Topic Recommendations page, select the info icon to open the overlay card. Select the open link icon \[Omitted image "icon-open-link.png"\] Alt text: Open link icon. to open the topic in Virtual Agent Designer.
 
 \[Omitted image "tr-vad-topic.png"\] Alt text: The pre-built topic card in Topic Recommendations page shows the date that it was added and its current state. The duplicated topic card displays in the Topics page.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[topic-recommendations-page|Topic Recommendations page]]

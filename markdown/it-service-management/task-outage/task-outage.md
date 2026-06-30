@@ -23,13 +23,9 @@ By default, the **Create Outage** UI action is available on the incident and pro
 -   **[Associate a task with an outage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-outage/t_AssociateATaskToAnOutage.md)**  
 You can associate multiple tasks with a defined outage.
 -   **[Create an outage from a task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-outage/t_CreateAnOutageFromATask.md)**  
-[[t_CreateAnOutageFromATask|Create an outage from a task]] record to understand the down time of a configuration item.
+Create an outage from a task record to understand the down time of a configuration item.
 -   **[Domain separation and task outage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/task-outage/domain-separation-task-outage.md)**  
 Domain separation is supported in task outage. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[t_CreateAnOutageFromATask|Create an outage from a task]]

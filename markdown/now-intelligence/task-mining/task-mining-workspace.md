@@ -14,7 +14,7 @@ breadcrumb: [Explore, Task Mining, Platform Analytics]
 
 # Task Mining Workspace
 
-Explore the [[task-mining|Task Mining]] interface to understand how to identify inefficiencies and make data-driven decisions by collecting and analyzing workstation activities.
+Explore the Task Mining interface to understand how to identify inefficiencies and make data-driven decisions by collecting and analyzing workstation activities.
 
 ## Access Task Mining Workspace
 
@@ -54,6 +54,3 @@ Configure system setting and create event filters on the Configuration page. The
 
 \[Omitted image "task-mining-system-page.png"\] Alt text: Screenshot showing the Configuration page in Task Mining.
 
-## Related
-
-- [[task-mining|Task Mining]]

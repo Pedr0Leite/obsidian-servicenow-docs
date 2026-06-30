@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Script bot response control
 
-Use the Script bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to run a script that returns a single response or a multi-part response.
+Use the Script bot response control in a Virtual Agent topic to run a script that returns a single response or a multi-part response.
 
 Use the Script bot response control when creating a more complex response that relies on scripted calculations or requires a multi-part response. Scripted output can include text, image, cards, links, and HTML to create a versatile response.
 
@@ -126,6 +126,3 @@ Script bot response output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

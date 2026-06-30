@@ -22,7 +22,7 @@ Role required: sn\_lg\_ops.legal\_user and sn\_cm\_core.contract\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -83,12 +83,8 @@ Attachment documents in internal storage
 Preview
 
 </td></tr></tbody>
-</table>5.  Track the activities in the request and post messages for the fulfiller working on it by accessing the **[[activity-lxp|Activity]]** tab.
+</table>5.  Track the activities in the request and post messages for the fulfiller working on it by accessing the **Activity** tab.
 
 
 **Parent Topic:**[Non-disclosure agreement requests]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

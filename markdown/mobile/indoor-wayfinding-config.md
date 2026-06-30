@@ -14,7 +14,7 @@ breadcrumb: [Before implementation, Configuration detail, Configuring the Mobile
 
 Indoor Wayfinding enables ServiceNow mobile app users to locate an asset, such as a desk or meeting room, on a map and then reserve it.
 
-Indoor Wayfinding involves an indoor map that is rendered on a custom [[map-screen|map screen]]. Reservations are rendered as a custom map input on the indoor map. [[indoor-wayfinding-reservations|Indoor Wayfinding and reservations]] are part of Workplace Service Delivery for Mobile [Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/Indoor-mapping.md).
+Indoor Wayfinding involves an indoor map that is rendered on a custom map screen. Reservations are rendered as a custom map input on the indoor map. Indoor Wayfinding and reservations are part of Workplace Service Delivery for Mobile [Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/Indoor-mapping.md).
 
 To use this feature on your instance, you must install and enable the following ServiceNow Store apps and plugins:
 
@@ -36,21 +36,11 @@ After installing and activating these plugins, you must do the following configu
     -   Create a campus with buildings and floors.
     -   Upload and import the AutoCAD floor plans for floors that you have created.
     -   Upload and import raster floor plan sources.
--   [[param-screen-config-inputs|Configure input form screen inputs]] so that you can add the Custom Map input to an [[parameter-input-screen|input form screen]] on your organization's mobile app. Adding this input to your mobile app enables end users to select and view the map. For more information about the Custom Map input type, see [[parameter-screen-var-attr|Input form screen attributes for inputs]].
+-   [Configure input form screen inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/param-screen-config-inputs.md) so that you can add the Custom Map input to an input form screen on your organization's mobile app. Adding this input to your mobile app enables end users to select and view the map. For more information about the Custom Map input type, see [Input form screen attributes for inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-var-attr.md).
 -   [Configure a custom map screen to use your provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-custom-map-screen.md) .
 
--   **[[configure-indoor-positioning|Configure indoor positioning]]**  
-[[indoor-positioning-end-user|Indoor positioning]] enables end users to see their live location on an Indoor Wayfinding map and get guided navigation to their desired destination.
+-   **[Configure indoor positioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-indoor-positioning.md)**  
+Indoor positioning enables end users to see their live location on an Indoor Wayfinding map and get guided navigation to their desired destination.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[param-screen-config-inputs|Configure input form screen inputs]]
-- [[parameter-screen-var-attr|Input form screen attributes for inputs]]
-- [[configure-indoor-positioning|Configure indoor positioning]]
-- [[imp-considerations|Considerations before implementation]]
-- [[map-screen|Map screen]]
-- [[indoor-wayfinding-reservations|Indoor Wayfinding and reservations]]
-- [[parameter-input-screen|Input form screen]]
-- [[indoor-positioning-end-user|Indoor positioning]]

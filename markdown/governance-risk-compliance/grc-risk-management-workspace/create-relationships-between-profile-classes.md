@@ -14,7 +14,7 @@ breadcrumb: [Use entity and risk dependencies using the GRC: Workbench, Use, Ris
 
 # Create relationships between entity classes using the GRC: Workbench
 
-Managers create relationships between [[entity-class-in-risk-ws|entity classes]] using the GRC: Workbench to build out the dependency map and better understand how entities relate to one another.
+Managers create relationships between entity classes using the GRC: Workbench to build out the dependency map and better understand how entities relate to one another.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Entity classes can roll up to each other, leading to the development of the depe
 
 </td><td>
 
-Drag an [[entity-class|entity class]] from the left to the center and drop it.
+Drag an entity class from the left to the center and drop it.
 
 </td></tr><tr><td id="d147865e107">
 
@@ -66,7 +66,3 @@ After generating risks, [Relate risks to each other](https://raw.githubuserconte
 
 **Parent Topic:**[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-class|entity class]]

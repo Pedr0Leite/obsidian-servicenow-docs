@@ -22,11 +22,11 @@ Role required: sn\_risk.manager and sn\_compliance.manager
 
 ## About this task
 
-Risks, citations, and policies can be associated manually or by using the [[recommendation-engine|recommendation engine]]. The recommendation engine provides automatic suggestions for risk, citations, and policies. The choice to enable the recommendation engine is made in the risk identification configuration record. The choice is available only for the business application table. For the recommendations to be enabled, the risks statements, citations, and policies must have [[information-objects|information objects]].
+Risks, citations, and policies can be associated manually or by using the recommendation engine. The recommendation engine provides automatic suggestions for risk, citations, and policies. The choice to enable the recommendation engine is made in the risk identification configuration record. The choice is available only for the business application table. For the recommendations to be enabled, the risks statements, citations, and policies must have information objects.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **Risk Identification** &gt; **All**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Risk Identification** &gt; **All**.
 
 2.  Open the record for which you want to associate risks, citations, and policies.
 
@@ -73,8 +73,3 @@ Information objects are a part of the information portfolio management capabilit
 
 [Recommendation engine for risk and compliance mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/recommendation-engine.md)
 
-## Related
-
-- [[recommendation-engine|recommendation engine]]
-- [[information-objects|information objects]]
-- [[advanced-risk-assessment|advanced risk assessment]]

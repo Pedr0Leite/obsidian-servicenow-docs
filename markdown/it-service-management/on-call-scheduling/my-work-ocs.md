@@ -16,7 +16,7 @@ breadcrumb: [Mobile experience for On-Call Scheduling, On-Call Scheduling, IT Se
 
 As a member of a shift, view your upcoming shifts, request time off, and accomplish daily tasks related to your schedule.
 
-My work application in the [[itsm-mobile-agent|ITSM Mobile Agent]] app has the [[c_OnCallScheduling|On-Call Scheduling]] applet to view your upcoming shifts and request time-off. You can also view the members of your group available on call.
+My work application in the ITSM Mobile Agent app has the On-Call Scheduling applet to view your upcoming shifts and request time-off. You can also view the members of your group available on call.
 
 For detailed procedure see [Managing incidents and tasks using My Work applet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/my-work-application.md).
 
@@ -44,7 +44,3 @@ For detailed procedure see [Managing incidents and tasks using My Work applet](h
 
 **Parent Topic:**[Mobile experience for On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/mobile-experience-ocs.md)
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

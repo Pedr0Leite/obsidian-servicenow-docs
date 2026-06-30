@@ -14,7 +14,7 @@ breadcrumb: [Reusable ITSM Virtual Agent pre-built topic blocks, Using ITSM Virt
 
 # Employee Experience topic blocks
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] helps you manage meetings in Microsoft Exchange Online. Using the Manage Meetings EXO v1.0 topic, you can schedule, reschedule, and cancel a meeting.
+ITSM Virtual Agent helps you manage meetings in Microsoft Exchange Online. Using the Manage Meetings EXO v1.0 topic, you can schedule, reschedule, and cancel a meeting.
 
 Use the **Category** list on the Topics page in Virtual Agent Designer to sort by **Self Service** to view all Employee Experience topics blocks.
 
@@ -611,6 +611,3 @@ Join URL for the virtual meeting.
 </td></tr></tbody>
 </table>**Parent Topic:**[Reusable ITSM Virtual Agent pre-built topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-va-topic-blocks.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

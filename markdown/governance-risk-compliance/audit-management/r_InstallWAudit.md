@@ -14,7 +14,7 @@ breadcrumb: [Audit Management reference, Audit Management, Governance, Risk, and
 
 # Components installed with Audit Management
 
-Activating the GRC: [[c_GRCAudits|Audit Management]] \(com.sn\_audit\) plugin adds or modifies several tables, user roles, and other components.
+Activating the GRC: Audit Management \(com.sn\_audit\) plugin adds or modifies several tables, user roles, and other components.
 
 **Parent Topic:**[Audit Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-management-reference.md)
 
@@ -188,7 +188,7 @@ External Auditor\[sn\_audit.external\_auditor\]
 
 </td><td>
 
-External auditors can be assigned as auditors for an engagement and can be assigned to audit tasks. They can view closed engagements, audit tasks that are assigned to them, and closed audit tasks. If the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugin or Risk Management plugins are installed, they can also view published policies and all controls and risks in the **Monitor** state.
+External auditors can be assigned as auditors for an engagement and can be assigned to audit tasks. They can view closed engagements, audit tasks that are assigned to them, and closed audit tasks. If the Policy and Compliance Management plugin or Risk Management plugins are installed, they can also view published policies and all controls and risks in the **Monitor** state.
 
 </td><td>
 
@@ -538,7 +538,3 @@ Extends Planned Task table and stores plans.
 </td></tr></tbody>
 </table>**Note:** All additional tables installed by the dependent plugins are also needed for GRC: Audit Management.
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

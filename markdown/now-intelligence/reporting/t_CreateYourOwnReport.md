@@ -30,7 +30,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 </td><td>
 
-Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **Create data visualization**. In the modal, select **Core UI**. For more information, see .
+Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **Create data visualization**. In the modal, select **Core UI**. For more information, see .
 
 </td></tr><tr><td id="d198403e116">
 
@@ -46,7 +46,7 @@ Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analyti
 
 </td><td>
 
-Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**, select the Core UI dashboard where you want to add the report, and select the Add [[widgets|Widgets]] icon \(\[Omitted image "AddWidgetButton.png"\] Alt text: Plus sign button\).
+Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**, select the Core UI dashboard where you want to add the report, and select the Add Widgets icon \(\[Omitted image "AddWidgetButton.png"\] Alt text: Plus sign button\).
 
 </td></tr><tr><td id="d198403e182">
 
@@ -83,7 +83,7 @@ Analytics Q&amp;A requires Natural Language Query \(NLQ\).
 
 NLQ also must be enabled for use with the Report Designer, in [Reporting properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-properties.md). Check with your administrator.
 
-**Note:** This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. For more information, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]].
+**Note:** This topic refers to Reporting in the Core UI. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
 Analytics Q&amp;A is not available when using Microsoft Internet Explorer.
 
@@ -127,7 +127,7 @@ When you edit a form, you can also choose to save, share, run, delete, or view m
 
 **Note:**
 
-On net new Australia instances and instances migrated to [[par-workspace|Platform Analytics experience]], Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
+On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
 All actions are available from the upper right side of the form, from the **Save** and **Share** lists and the **Info**, **Delete**, and **Run** buttons. Available report options vary depending on the role of the user working with the report.
 
@@ -179,7 +179,7 @@ Schedule
 
 </td><td>
 
-Creates a schedule for running the report. **Note:** You cannot schedule [[c_CalendarReport|calendar reports]].
+Creates a schedule for running the report. **Note:** You cannot schedule calendar reports.
 
 </td></tr><tr><td>
 
@@ -279,11 +279,3 @@ Creates the report based on the conditions and layout you select.
 
 [Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_CalendarReport|Calendar reports]]

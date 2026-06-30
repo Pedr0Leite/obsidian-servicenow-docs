@@ -14,9 +14,9 @@ breadcrumb: [Analyze change request risk and impact, Reference, Change Managemen
 
 # Risk conditions and calculation
 
-[[c_ITILChangeManagement|Change Management]] features provide ways to calculate and assess the risk of change requests, and to identify and resolve conflicts.
+Change Management features provide ways to calculate and assess the risk of change requests, and to identify and resolve conflicts.
 
-[[c_RskAsmtCalc|Risk assessment]] and calculation assists you with understanding the urgency and impact of change requests. [Conflict detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ConflictDetection.md) assists you with scheduling change requests for the least impact to stakeholders. This features minimize the risk and cost of rapid changes in your environment.
+Risk assessment and calculation assists you with understanding the urgency and impact of change requests. [Conflict detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ConflictDetection.md) assists you with scheduling change requests for the least impact to stakeholders. This features minimize the risk and cost of rapid changes in your environment.
 
 -   **[Risk Calculator property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/r_ChangeRiskCalculator.md)**  
 The Best Practice - Change Risk Calculator plugin enables dynamic calculations of the risk and impact of a change. The administrator specifies how and when risk and impact rules are applied.
@@ -25,7 +25,3 @@ You can define risk calculation rules on which the risk and impact of a change a
 
 **Parent Topic:**[Analyze change request risk and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-risk-conflict-analysis.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]

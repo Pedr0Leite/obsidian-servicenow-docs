@@ -27,7 +27,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one.
 
@@ -77,6 +77,3 @@ Share the portfolio plan with your stakeholders to start collaborating on the po
 
 [Delete a portfolio plan view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/delete-portfolio-plan-view-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -12,7 +12,7 @@ breadcrumb: [Related list for an install base item, Create an install base item,
 
 # Create a child install base item
 
-Create a child install base item in the [[c_CustomerServiceManagement|Customer Service Management]] application to view a list of all the cases and issues of the parent install base item.
+Create a child install base item in the Customer Service Management application to view a list of all the cases and issues of the parent install base item.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A child install base related list provides the information about all the child i
 
 1.  Navigate to **All** &gt; **Customer Service** &gt; **Product** &gt; **Install Base Item**.
 
-2.  In the related list section of the Install base form, select an install base item and open **Child [[install-base-item|Install Base Items]]**.
+2.  In the related list section of the Install base form, select an install base item and open **Child Install Base Items**.
 
 3.  Select **New.**
 
@@ -34,7 +34,4 @@ A child install base related list provides the information about all the child i
 
 4.  Select **Submit**.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]

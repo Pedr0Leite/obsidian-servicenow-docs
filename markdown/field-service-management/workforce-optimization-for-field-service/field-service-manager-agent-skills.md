@@ -16,7 +16,7 @@ breadcrumb: [Users, Set up workforce, Configure, Field Service Management]
 
 Field Service and Customer Service managers can create or edit skills, assign skills to agents, and view agents with a specific skill.
 
-Users with the wm\_manager role \([[fsm-application-landing-page|Field Service Management]]\) or sn\_customerservice\_manager \(Customer Service Management\) can manage agent skills.
+Users with the wm\_manager role \(Field Service Management\) or sn\_customerservice\_manager \(Customer Service Management\) can manage agent skills.
 
 Navigate to **Field Service** &gt; **Manager** &gt; **Manage Skills** or **Customer Service** &gt; **Manage Skills** to access the Manage Skills form. This form displays a list of the available skills and the agents in the manager's assignment groups.
 
@@ -34,6 +34,3 @@ From this form, managers can:
 
 There are two default skills: Field Service Skill and Customer Service Skill. These are parent skills; other skills created by the manager are stored under these parent skills.
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

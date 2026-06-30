@@ -14,9 +14,9 @@ breadcrumb: [Search profiles, Configuring AI Search, AI Search, Search administr
 
 # Result improvement rules
 
-Define rules with configurable trigger conditions to boost, block, or promote search [[hs-results|results]] for specific searches. You can also boost search results for documents matching elements of the user context, such as a user's country, OS, or device type.
+Define rules with configurable trigger conditions to boost, block, or promote search results for specific searches. You can also boost search results for documents matching elements of the user context, such as a user's country, OS, or device type.
 
-Result improvement rules with boost actions override the default search result order produced by the [[ia-ai-search|AI Search]] machine learning relevancy feature. Rules with block or promote actions override the default result set for a search query.
+Result improvement rules with boost actions override the default search result order produced by the AI Search machine learning relevancy feature. Rules with block or promote actions override the default result set for a search query.
 
 ## Rule structure
 
@@ -37,7 +37,7 @@ Rule actions include the following types:
     -   Boost relevancy for all search results from the indexed source.
     -   Boost relevancy for search results from the indexed source that include field values matching a dynamically populated value from the user context.
     -   Boost relevancy for search results from the indexed source that include field values matching a static string value that you specify.
-    -   Boost relevancy for search results from the indexed source that include field values matching [[synonyms-ais|synonyms]] from one of your synonym dictionaries.
+    -   Boost relevancy for search results from the indexed source that include field values matching synonyms from one of your synonym dictionaries.
 -   **Block**: Exclude specific results from the search query's results list.
 -   **Promote**: Display specific results at the start of the search query's results list.
 
@@ -63,7 +63,7 @@ The following table describes interactions between result improvement rules with
 |[Typo handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/typo-handling-ais.md)|An auto-corrected search query term can trigger a result improvement rule if it matches the rule's Query trigger.|
 
 -   **[Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md)**  
-Create a rule to boost, block, or promote search results or to block [[genius-results-ais|Genius Results]]. Specify the conditions that activate your rule and choose the action it performs when activated.
+Create a rule to boost, block, or promote search results or to block Genius Results. Specify the conditions that activate your rule and choose the action it performs when activated.
 -   **[Boost search results using a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/boost-results-ais.md)**  
 Increase the relevancy scores for search results that satisfy a custom set of conditions.
 -   **[Block search results and Genius Results using a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/block-results-ais.md)**  
@@ -75,9 +75,3 @@ Make your search experiences more consistent by configuring a search profile to 
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[synonyms-ais|Synonyms]]
-- [[genius-results-ais|Genius Results]]

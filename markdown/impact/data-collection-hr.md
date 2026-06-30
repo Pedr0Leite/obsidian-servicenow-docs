@@ -16,18 +16,10 @@ Install and configure the HR Data Collection Content Pack.
 
 Perform the steps in the following order:
 
-1.  [[dc-hr-install|Install the Data Collection Pack for HR]]
-2.  [[dc-hr-config|Configure Data Collection for HR]]
-3.  [[dc-hr-activate|Activate Data Collection for HR]]
-4.  [[dc-hr-install-artifacts|Review HR artifacts]]
+1.  [Install the Data Collection Pack for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-hr-install.md)
+2.  [Configure Data Collection for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-hr-config.md)
+3.  [Activate Data Collection for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-hr-activate.md)
+4.  [Review HR artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-hr-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-hr-install|Install the Data Collection Pack for HR]]
-- [[dc-hr-config|Configure Data Collection for HR]]
-- [[dc-hr-activate|Activate Data Collection for HR]]
-- [[dc-hr-install-artifacts|Review HR artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

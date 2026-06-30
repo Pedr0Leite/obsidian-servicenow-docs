@@ -13,7 +13,7 @@ breadcrumb: [Segments, Tuning the semantic layer, Configure, Query Generation, N
 
 # Create a manual segment
 
-Manual segments are admin-created saved searches with friendly names that bridge natural language questions and database filters for the [[query-generation|Query Generation]] semantic layer.
+Manual segments are admin-created saved searches with friendly names that bridge natural language questions and database filters for the Query Generation semantic layer.
 
 ## Before you begin
 
@@ -67,7 +67,7 @@ Follow these guidelines when creating segment names and descriptions:
     |-----|-----------|
     |Table Name|The table \(entity\) the segment applies to. Must have an active entity in the semantic layer. The system looks for the entity table first, then the segment within that table.|
     |Name|User-friendly name describing the segment in plain language a user would use when asking a question. Use the same language a user would use when asking a question. Avoid abbreviations, internal codes, or technical jargon. Maximum 255 characters. Examples: "Critical Open Incidents" \(good\) instead of "P1\_OPEN\_INC" \(poor\), "Active Benefits HR Cases" \(good\) instead of "HR Cases — Active, Cat=Benefits" \(poor\).|
-    |Description|Optional but strongly recommended. Gives the LLM additional context to decide whether a segment is relevant. Use commonly-used terms and explain what the segment captures. Helps disambiguate similar segments. Maximum 4,000 characters. Example: "High priority incidents that are currently open and unresolved. Includes all assignment groups. Useful for executive dashboards and escalation [[reporting-landing-page|reporting]]." \(good\) instead of "Filters for priority 1." \(poor\).|
+    |Description|Optional but strongly recommended. Gives the LLM additional context to decide whether a segment is relevant. Use commonly-used terms and explain what the segment captures. Helps disambiguate similar segments. Maximum 4,000 characters. Example: "High priority incidents that are currently open and unresolved. Includes all assignment groups. Useful for executive dashboards and escalation reporting." \(good\) instead of "Filters for priority 1." \(poor\).|
     |Filter|Encoded query defining the segment's filter conditions. Uses the condition builder \(v2\). Maximum 4,000 characters, although filters longer than 2,000 characters may be truncated in the LLM prompt.|
     |Active|Whether the system uses the segment. Defaults to selected. When cleared, the segment is deactivated and excluded from search.|
 
@@ -90,25 +90,16 @@ The following examples show well-crafted manual segments for the `incident` tabl
 |My Team's Overdue Incidents|Incidents assigned to the current user's group that have passed their SLA due date.|`incident`|`assignment_group=javascript:getMyGroups()^sla_due<javascript:gs.nowDateTime()^state!=7`|
 |Recent P1 and P2 Escalations|Priority 1 and 2 incidents escalated in the last 7 days.|`incident`|`priority<=2^escalation=1^sys_updated_on>=javascript:gs.daysAgoStart(7)`|
 
-**Parent Topic:**[[querygen-segments|Segments in the Query Generation semantic layer]]
+**Parent Topic:**[Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)
 
 **Related topics**  
 
 
-[[manual-segment-data-model-sync|Manual segment data model and sync behavior]]
+[Manual segment data model and sync behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/manual-segment-data-model-sync.md)
 
-[[shipping-manual-segments-plugins|Shipping manual segments via plugins]]
+[Shipping manual segments via plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/shipping-manual-segments-plugins.md)
 
-[[general-guidelines-segments|Guidelines for segments]]
+[Guidelines for segments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)
 
-[[querygen-properties|Query Generation properties]]
+[Query Generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md)
 
-## Related
-
-- [[querygen-segments|Segments in the Query Generation semantic layer]]
-- [[manual-segment-data-model-sync|Manual segment data model and sync behavior]]
-- [[shipping-manual-segments-plugins|Shipping manual segments via plugins]]
-- [[general-guidelines-segments|Guidelines for segments]]
-- [[querygen-properties|Query Generation properties]]
-- [[query-generation|Query Generation]]
-- [[reporting-landing-page|Reporting]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Workspace, Exploring Software Asset Management, Soft
 
 # Software asset analytics view
 
-The unified and streamlined dashboards in the Software asset analytics view in the [[sam-workspace|Software Asset Workspace]] enable you to track your performance and view your analytics.
+The unified and streamlined dashboards in the Software asset analytics view in the Software Asset Workspace enable you to track your performance and view your analytics.
 
 You can access the Software asset analytics view by navigating to **Software Asset Workspace** &gt; **Software asset analytics**.
 
@@ -30,6 +30,3 @@ The Software asset analytics view includes the following dashboards:
 -   [Engineering License Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/engineering-license-dashboard-workspace.md): View all your engineering applications license position and usage.
 -   [Cloud cost simulator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/cloud-simulator-dashboard.md): Compare and evaluate the estimated costs of migrating your on-premises resources to the cloud for each cloud environment.
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

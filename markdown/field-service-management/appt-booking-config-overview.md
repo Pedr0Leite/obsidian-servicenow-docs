@@ -12,12 +12,12 @@ breadcrumb: [Reference, Field Service Management]
 
 # Learn about task assignment
 
-The application configuration works with the [[fsm-application-landing-page|Field Service Management]] configuration for task assignment.
+The application configuration works with the Field Service Management configuration for task assignment.
 
-[[appointment-booking|Appointment booking]] works with the task-driven process life cycle and the following task assignment methods:
+Appointment booking works with the task-driven process life cycle and the following task assignment methods:
 
 -   Auto-assignment
--   [[dynamic-scheduling|Dynamic scheduling]]
+-   Dynamic scheduling
 -   Manual
 
 Auto-assignment and dynamic scheduling include enhancements that support appointment booking:
@@ -46,19 +46,12 @@ For work order tasks that have scheduled appointments, dispatchers receive warni
 -   Scheduled start
 -   Scheduled travel start
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
 **Related topics**  
 
 
-[[t_ConfigureFieldService|Global domain configurations]]
+[Global domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md)
 
 [Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UseSchedules.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[appointment-booking|Appointment booking]]
-- [[dynamic-scheduling|Dynamic scheduling]]

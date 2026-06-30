@@ -22,11 +22,11 @@ Cloning is the easiest way to synchronize your instances. It’s essential to ha
 -   Cloning is used to test changes such as upgrades, new applications, and new capabilities.
 -   Cloning data comes from the most recent daily backup.
 
-A list of helpful terminology and definitions for clone is included here [[clone-terminology|Clone terminology]].
+A list of helpful terminology and definitions for clone is included here [Clone terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-terminology.md).
 
 ## Instance Clone workflow
 
-\[Omitted image "instance-clone-workflow-diagram-final.png"\] Alt text: [[system-clone-landing|Instance clone]] workflow diagram.
+\[Omitted image "instance-clone-workflow-diagram-final.png"\] Alt text: Instance clone workflow diagram.
 
 1.  Clone build configuration: Basic definitions, configurations, and profile options are prepared. Data to be included, excluded, or preserved is verified.
 
@@ -58,9 +58,9 @@ A list of helpful terminology and definitions for clone is included here [[clone
 
 |Benefit|Feature|
 |-------|-------|
-|Tidy up data with exclusions and preservers for specific clone scenarios.|[[clone-exclusions-preservers-cleanupscripts|Definitions]]|
-|Establish consistent clone outcomes with clone profiles and registered instances.|[[clone-configurations-tab|Configurations]]|
-|Copy data from a production instance to a non-production instance or to copy data between non-production instances.|[[t_StartAClone|Request a clone]]|
+|Tidy up data with exclusions and preservers for specific clone scenarios.|[Definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-exclusions-preservers-cleanupscripts.md)|
+|Establish consistent clone outcomes with clone profiles and registered instances.|[Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-configurations-tab.md)|
+|Copy data from a production instance to a non-production instance or to copy data between non-production instances.|[Request a clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_StartAClone.md)|
 
 ## Instance Clone use cases
 
@@ -80,15 +80,7 @@ When starting a clone from a backup, the date and time the backup was taken, as 
 
 As long as the system property **glide.db.clone.allow\_clone\_target** is `TRUE`, an instance can serve as a clone target. Please ensure the property **glide.db.clone.allow\_clone\_target** is set back to `FALSE` after a production instance has served as a clone target. This helps prevent accidental or unintended clones over production in the future.
 
-**Note:** Beginning with the Australia release, users attempting to access the legacy Instance Clone page, **clone\_instance.do**, are redirected instead to the [[Clone-UI|Clone Admin Console]]. To view clone history for clones prior to the Australia release, view the legacy Clone History \[clone\_instance\] table.
+**Note:** Beginning with the Australia release, users attempting to access the legacy Instance Clone page, **clone\_instance.do**, are redirected instead to the [Clone Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/Clone-UI.md). To view clone history for clones prior to the Australia release, view the legacy Clone History \[clone\_instance\] table.
 
 For more information about using Clone Admin Console instead of the legacy Instance Clone, see [KB1425858: Clone Admin Console: Quick Start Guide &amp; Instructions](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1425858).
 
-## Related
-
-- [[clone-terminology|Clone terminology]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[clone-configurations-tab|Configurations]]
-- [[t_StartAClone|Request a clone]]
-- [[Clone-UI|Clone Admin Console]]
-- [[system-clone-landing|Instance Clone]]

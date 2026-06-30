@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], navigate to **Asset operations** &gt; **Moves** &gt; **Move orders**.
+1.  From the Enterprise Asset Workspace, navigate to **Asset operations** &gt; **Moves** &gt; **Move orders**.
 
 2.  From the list of available move orders, select the move order that you want to add enterprise assets to.
 
@@ -49,6 +49,3 @@ The selected enterprise assets are added to the move order.
 
 **Parent Topic:**[Managing enterprise asset move orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-move-orders.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

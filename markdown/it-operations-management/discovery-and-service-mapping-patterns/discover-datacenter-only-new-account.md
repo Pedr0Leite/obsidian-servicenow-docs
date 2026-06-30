@@ -14,12 +14,12 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Discover datacenters only for new cloud accounts
 
-If you have multiple [[cloud-accounts|cloud accounts]] and datacenters in AWS and Azure, you can discover datacenters for new cloud accounts only, instead of refreshing the entire list.
+If you have multiple cloud accounts and datacenters in AWS and Azure, you can discover datacenters for new cloud accounts only, instead of refreshing the entire list.
 
 ## Before you begin
 
 -   Verify that you're using at least Zurich Patch 2.
--   Verify that the **glide.[[r-discovery|discovery]].cdu.auto\_refresh\_sub\_accounts\_and\_ldcs** system property is set to true. For more information, see [Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md).
+-   Verify that the **glide.discovery.cdu.auto\_refresh\_sub\_accounts\_and\_ldcs** system property is set to true. For more information, see [Create Discovery schedules for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-manager.md).
 
 Role required: discovery\_admin
 
@@ -53,7 +53,3 @@ Either execute discovery immediately or wait until the predefined schedule trigg
 
 [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]

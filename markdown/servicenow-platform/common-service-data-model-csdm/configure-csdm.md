@@ -20,15 +20,11 @@ Activate and configure CSDM capabilities.
 ## Configuration overview
 
 -   **[Activate the CSDM plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-enable.md)**  
-[[csdm-enable|Activate the CSDM plugin]] so you can begin implementing the CSDM data model.
+Activate the CSDM plugin so you can begin implementing the CSDM data model.
 -   **[Configure the CSDM Data Foundations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-foundations-dashboard.md)**  
-Use the [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]] to monitor and evaluate key foundational metrics of the CSDM framework.
+Use the CSDM Data Foundations dashboard to monitor and evaluate key foundational metrics of the CSDM framework.
 -   **[Migrate and synchronize existing data to the CSDM framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/migrate.md)**  
 You complete several tasks to confirm that your existing application data migrates successfully to the required tables in the CMDB.
 
 **Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md)
 
-## Related
-
-- [[csdm-enable|Activate the CSDM plugin]]
-- [[csdm-data-foundations-dashboard|CSDM Data Foundations dashboard]]

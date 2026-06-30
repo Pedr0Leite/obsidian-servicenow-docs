@@ -12,7 +12,7 @@ breadcrumb: [Explore, KPI Signals, Platform Analytics experience, Platform Analy
 
 # Signal, no signal, and anti-signal
 
-When [[process-behavior-charts-for-kpis|KPI Signals]] detects abnormal variation in the scores of a KPI, it generates a signal. When KPI Signals does not detect abnormal variation for a significant amount of time, it generates an "anti-signal." The anti-signal lets you know that your workflow is under control.
+When KPI Signals detects abnormal variation in the scores of a KPI, it generates a signal. When KPI Signals does not detect abnormal variation for a significant amount of time, it generates an "anti-signal." The anti-signal lets you know that your workflow is under control.
 
 Both the presence and absence of signals conveys information:
 
@@ -42,7 +42,7 @@ The KPI Signals application considers the following behaviors to 'signal' specia
 
 In the following example, you see a "Long run" signal: seven consecutive scores above or below the central line.
 
-\[Omitted image "kpi-signals-signal.png"\] Alt text: KPI Signals panel open on the [[kpi-details|KPI Details]] tab, showing a Long Run signal of seven consecutive scores all greater than or all less than the average value.
+\[Omitted image "kpi-signals-signal.png"\] Alt text: KPI Signals panel open on the KPI Details tab, showing a Long Run signal of seven consecutive scores all greater than or all less than the average value.
 
 **Note:** The KPI Signals application can detect signals for an indicator with no more than one first-level [breakdown element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md). The application does not support multiple breakdown elements or a second-level breakdown.
 
@@ -54,7 +54,7 @@ The application issues an anti-signal when it has not detected a signal for a le
 Length of time to calculate the baseline for the KPI * Anti-signal factor
 ```
 
-The application takes 14 days by default to calculate the baseline for a daily indicator. The default anti-signal factor is two. Thus, the default length of time to detect an anti-signal on a daily indicator is 28 days. For more information about setting the time to calculate a baseline, see [[configure-signal-detection|Configure signal detection]]. For more information about setting the anti-signal factor, see [[configure-signal-notifications|Configure signal notifications]].
+The application takes 14 days by default to calculate the baseline for a daily indicator. The default anti-signal factor is two. Thus, the default length of time to detect an anti-signal on a daily indicator is 28 days. For more information about setting the time to calculate a baseline, see [Configure signal detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-signal-detection.md). For more information about setting the anti-signal factor, see [Configure signal notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-signal-notifications.md).
 
 In this example, the default configuration values apply to a daily indicator. The application has not detected a signal for 28 days, so it shows a 28-day anti-signal.
 
@@ -70,12 +70,5 @@ In the following example, no signal is detected for five days after the baseline
 
 \[Omitted image "kpi-signals-no-signal.png"\] Alt text: KPI Signals showing no signal for a KPI: neither a signal nor an anti-signal
 
-**Parent Topic:**[[exploring-kpi-signals|Exploring KPI Signals]]
+**Parent Topic:**[Exploring KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/exploring-kpi-signals.md)
 
-## Related
-
-- [[configure-signal-detection|Configure signal detection]]
-- [[configure-signal-notifications|Configure signal notifications]]
-- [[exploring-kpi-signals|Exploring KPI Signals]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[kpi-details|KPI Details]]

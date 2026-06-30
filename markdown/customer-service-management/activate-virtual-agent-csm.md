@@ -22,8 +22,6 @@ Role required: admin
 
 ## Procedure
 
-1.  Activate the [[csm-virtual-agent-chatbot|Customer Service Virtual Agent Conversations]] plugin \(com.sn\_csm.virtualagent\) to access the predefined Customer Service topics.
+1.  Activate the Customer Service Virtual Agent Conversations plugin \(com.sn\_csm.virtualagent\) to access the predefined Customer Service topics.
 
-## Related
 
-- [[csm-virtual-agent-chatbot|Customer Service Virtual Agent conversations]]

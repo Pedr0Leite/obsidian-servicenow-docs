@@ -18,7 +18,7 @@ Publish a snapshot so that it can be exported to enable the CI/CD pipeline to ac
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: CDM Editor \[sn\_cdm.cdm\_editor\] or CDM Admin \[sn\_cdm.cdm\_admin\]
 
@@ -116,6 +116,3 @@ Timestamp when the snapshot was published.
     -   On any tab for an open snapshot, select **Unpublish**.
     -   On the **Version** tab for an application, select **Unpublish** from the **Actions** menu for the snapshot.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

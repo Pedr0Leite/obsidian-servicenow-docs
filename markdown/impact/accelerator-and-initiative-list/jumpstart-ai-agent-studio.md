@@ -14,11 +14,11 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your AI Agent Studio
 
-This accelerator provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration of AI agents within the Platform.
+This accelerator provides Impact customers with an overview and applied demonstration of AI agents within the Platform.
 
 ## Jumpstart Your AI Agent Studio Overview
 
-Jumpstart Your AI Agent Studio highlights how AI agents empower customers to build an ecosystem of autonomous or Human-on-the-loop \(HOTL\) Agents equipped with tools that integrate seamlessly across the platform and beyond. These Agents are orchestrated to perform a wide range of tasks with minimal to no human intervention, significantly enhancing organizational efficiency and demonstrating the transformative potential of AI. The offering includes key resources and leading practices guides to [[io-help|help]] customers get started with ServiceNow AI Agents.
+Jumpstart Your AI Agent Studio highlights how AI agents empower customers to build an ecosystem of autonomous or Human-on-the-loop \(HOTL\) Agents equipped with tools that integrate seamlessly across the platform and beyond. These Agents are orchestrated to perform a wide range of tasks with minimal to no human intervention, significantly enhancing organizational efficiency and demonstrating the transformative potential of AI. The offering includes key resources and leading practices guides to help customers get started with ServiceNow AI Agents.
 
 ## Package Availability
 
@@ -41,7 +41,7 @@ Jumpstart Your AI Agent Studio highlights how AI agents empower customers to bui
         -   AI agents: What value do they bring?
         -   TapeAgents framework
         -   AI Agent Studio
-    -   End-[[user-experience-insights|user experience]] demo
+    -   End-user experience demo
     -   Technical demo
     -   Review reporting options
     -   Temporary instance with 30 days of access
@@ -70,8 +70,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[user-experience-insights|User Experience]]

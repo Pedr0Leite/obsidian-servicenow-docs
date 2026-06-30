@@ -14,11 +14,11 @@ breadcrumb: [Edit a responsive dashboard, Create and use dashboards, Responsive 
 
 # Configure the layout of a responsive dashboard
 
-You can change the appearance of [[widgets|widgets]]; change widget layouts; change the colors of the widget title, header, and background; and show or hide widget headers.
+You can change the appearance of widgets; change widget layouts; change the colors of the widget title, header, and background; and show or hide widget headers.
 
 ## Before you begin
 
-Role required: User. dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [[pa-dashboard-roles|Platform Analytics dashboard roles]] for more information about viewing and editing rights on dashboards.
+Role required: User. dashboard\_admin for all dashboards, or any role for dashboards that you own or ones that you have been given the right to edit. See [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md) for more information about viewing and editing rights on dashboards.
 
 **Note:** Responsive dashboards do not support the Sticky Notes widget.
 
@@ -86,7 +86,7 @@ Drag to move and resize widgets.
 </td><td>
 
 1.  Click the configuration icon \(\[Omitted image "ConfigurationPaneButton.png"\] Alt text: Configuration pane icon\) to open the Configuration pane.
-2.  Select **Use custom background color** and click on the color to open the color picker. It has five option icons: Color Wheel, Color Sliders, [[color-palettes|Color Palettes]], Spectrum, and Pencils.
+2.  Select **Use custom background color** and click on the color to open the color picker. It has five option icons: Color Wheel, Color Sliders, Color Palettes, Spectrum, and Pencils.
 3.  From the Sliders option, choose Grayscale, RGB, CMYK, or HSB. RGB enables you to specify hexadecimal codes.
 4.  Drag any color to the palette at the bottom of the color picker to use it in other Core UI dashboard backgrounds.
 5.  Uncheck **Use custom background color** to return to the default background color.
@@ -122,8 +122,3 @@ Core UI dashboard backgrounds are not themeable with custom colors.
 
 **Parent Topic:**[Edit a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_EditADashboard.md)
 
-## Related
-
-- [[pa-dashboard-roles|Platform Analytics dashboard roles]]
-- [[widgets|Widgets]]
-- [[color-palettes|Color palettes]]

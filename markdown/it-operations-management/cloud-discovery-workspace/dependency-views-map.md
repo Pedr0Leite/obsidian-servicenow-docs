@@ -24,7 +24,7 @@ The Dependency Views module is active in all instances, and includes demo data.
 
 In a Dependency Views map, map indicators indicate if a CI has any active, pending issues. You can investigate the tasks that are connected to a CI to get more details. When you return to the map from another form, the system restores the last map viewed, using the default filter and layout settings.
 
-Many of the relationships in the map are created through the [[r-discovery|discovery]] process. You can also create, define, and delete CI relationships in the map. You can display the map from different perspectives and open specific records that relate to configuration items. The system refreshes the map automatically to reflect changes to the CMDB.
+Many of the relationships in the map are created through the discovery process. You can also create, define, and delete CI relationships in the map. You can display the map from different perspectives and open specific records that relate to configuration items. The system refreshes the map automatically to reflect changes to the CMDB.
 
 **Note:** CIs not extended from the Configuration Item \[cmdb\_ci\] table, aren’t displayed in Dependency Views maps and in CI relation formatters.
 
@@ -32,6 +32,3 @@ Many of the relationships in the map are created through the [[r-discovery|disco
 
 Users with the itil and ecmdb\_admin roles can view maps and perform all actions in the map. Actions include access to the map views and saved filters, both from the lists in the map and from the **Saved Filters** module.
 
-## Related
-
-- [[r-discovery|Discovery]]

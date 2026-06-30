@@ -16,7 +16,7 @@ breadcrumb: [Managing security incidents and inbound requests, Security Incident
 
 Based on the requirements of your business, a review of the origins and handling of security incidents is often needed.
 
-The Post Incident Review functionality in ServiceNow provides many [[tools|tools]] for automating, tracking, auditing, and simplifying this process.
+The Post Incident Review functionality in ServiceNow provides many tools for automating, tracking, auditing, and simplifying this process.
 
 This section describes the following:
 
@@ -26,6 +26,3 @@ This section describes the following:
 -   [Create post incident review assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-pir-assignment-rules.md)
 -   [Post incident review report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/new-post-incident-review-report.md)
 
-## Related
-
-- [[tools|Tools]]

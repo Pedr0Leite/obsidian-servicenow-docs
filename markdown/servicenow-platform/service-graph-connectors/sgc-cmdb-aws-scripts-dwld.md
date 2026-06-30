@@ -14,7 +14,7 @@ breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integ
 
 # Download the AWS scripts
 
-Download the AWS scripts included within the guided setup of the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]].
+Download the AWS scripts included within the guided setup of the Service Graph Connector for AWS.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ Role required: admin
 
 6.  Set the Download the scripts task to complete by selecting **Mark as Complete**.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

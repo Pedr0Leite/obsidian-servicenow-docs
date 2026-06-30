@@ -22,7 +22,7 @@ Data in the workflow scratchpad is not encrypted by default. The Workflow engine
 
 ## Incompatibility with domain separation
 
-The Encrypted Workflow Scratchpad plugin is incompatible with [[domain-separation-relationship-formatter-editor|domain separation]]. Activating the Encrypted Workflow Scratchpad plugin on a domain separated instance can produce encryption errors when running some workflows. Consider using a Workflow Studio flow instead.
+The Encrypted Workflow Scratchpad plugin is incompatible with domain separation. Activating the Encrypted Workflow Scratchpad plugin on a domain separated instance can produce encryption errors when running some workflows. Consider using a Workflow Studio flow instead.
 
 **Parent Topic:**[Workflow administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowAdministration.md)
 
@@ -36,13 +36,13 @@ Role required: admin
 
 The Encrypted Workflow Scratchpad plugin must be activated via a Customer Service and Support request. You should activate and thoroughly test the plugin in a non-production instance. Only after you satisfied with the results should you request activation in a production instance.
 
-When requesting activation in a production instance, you should schedule a low transactional volume time to do so. Prior to its activation, first activate the [[workflow-pause-utility|Workflow Pause Utility]] \(com.glideapp.workflow.pause\), and then pause all active workflows. Refer to [Workflow pause utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-pause-utility.md). After activation of the Encrypted Workflow Scratchpad plugin, resume all paused workflows.
+When requesting activation in a production instance, you should schedule a low transactional volume time to do so. Prior to its activation, first activate the Workflow Pause Utility \(com.glideapp.workflow.pause\), and then pause all active workflows. Refer to [Workflow pause utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-pause-utility.md). After activation of the Encrypted Workflow Scratchpad plugin, resume all paused workflows.
 
 ### About this task
 
 There are two ways to request a plugin:
 
--   Access the Now Support [[service-catalog|Service Catalog]] directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
+-   Access the Now Support Service Catalog directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
 -   Access the Now Support Service Catalog through the All Applications page on your instance by following these steps.
 
 For additional details about requesting a plugin, see [Requesting a Plugin from the Service Catalog \[KB0751715\] article in the Now Support Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0751715)
@@ -98,7 +98,7 @@ Which plugin would you like to activate
 
 Select the name of the plugin to activate.
 
- **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** [[check-box|check box]]. Enter the plugin name in the field that appears.
+ **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** check box. Enter the plugin name in the field that appears.
 
 </td></tr><tr id="date-time"><td>
 
@@ -125,9 +125,3 @@ After plugin activation, resume all paused workflows. Refer to [Pause and resume
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[workflow-pause-utility|Workflow pause utility]]
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

@@ -16,7 +16,7 @@ breadcrumb: [Reporting, dashboards, and Performance Analytics in the Core UI, Pl
 
 The Analytics Hub is an exploratory view of indicators, used for more detailed analysis. It lets you see trends, predictions, breakdowns, and associated records for a specific indicator. The Analytics Hub replaces scorecards.
 
-**Note:** In [[c_performanceAnalyticsAndReporting|Platform Analytics]], Analytics Hub functionality is in [[kpi-details|KPI Details]]. Navigate to **Platform Analytics** &gt; **Indicators**. After you migrate to Platform Analytics, only the [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md) option is available.
+**Note:** In Platform Analytics, Analytics Hub functionality is in [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md). Navigate to **Platform Analytics** &gt; **Indicators**. After you migrate to Platform Analytics, only the [KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details.md) option is available.
 
 Watch this five-minute video to learn how to use Analytics Hub to analyze, explore, and compare Performance Analytics indicator data.
 
@@ -31,7 +31,3 @@ On the indicator form, you can set the indicator to be included in the Analytics
 
 [Performance Analytics indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Indicators.md)
 
-## Related
-
-- [[kpi-details|KPI Details]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

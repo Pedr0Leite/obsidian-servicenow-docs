@@ -250,8 +250,5 @@ Template
 Panel to populate the template for the business continuity plan. You can view all or customized templates in this panel.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-bcp-plan-in-uib-ws|Create a business continuity plan]]
+</table>**Parent Topic:**[Create a business continuity plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-bcp-plan-in-uib-ws.md)
 
-## Related
-
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]

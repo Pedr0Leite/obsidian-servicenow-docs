@@ -15,19 +15,19 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # Soft PIN authentication
 
-Soft PIN is a six-digit numeric PIN that verifies a caller's [[identity-landing|identity]] during an AI voice agent session.
+Soft PIN is a six-digit numeric PIN that verifies a caller's identity during an AI voice agent session.
 
 ## When to use Soft PIN
 
 Soft PIN is appropriate for low-risk caller verification, such as confirming a returning user before granting access to self-service tasks.
 
-Soft PIN can be configured as a single factor, the first factor in a [[mfa-landing|multi-factor authentication]] flow, or a second factor.
+Soft PIN can be configured as a single factor, the first factor in a multi-factor authentication flow, or a second factor.
 
-Soft PIN is a medium-assurance factor and is not suitable as the only [[c_Authentication|authentication]] factor for sensitive operations. For those flows, combine Soft PIN with a higher-assurance factor such as Okta Verify push notification or a time-based one-time password \(TOTP\). For guidance on combining factors, see [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md).
+Soft PIN is a medium-assurance factor and is not suitable as the only authentication factor for sensitive operations. For those flows, combine Soft PIN with a higher-assurance factor such as Okta Verify push notification or a time-based one-time password \(TOTP\). For guidance on combining factors, see [Explore authentication factors for AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/explore-authentication-factors.md).
 
 ## How Soft PIN works
 
-Each user enrolls a Soft PIN before it can be used for authentication. [[users|Users]] can change their PIN by re-enrolling at any time.
+Each user enrolls a Soft PIN before it can be used for authentication. Users can change their PIN by re-enrolling at any time.
 
 When Soft PIN is selected as an authentication factor for an AI voice agent service, the agent prompts the caller for the PIN during the session. The platform validates the response against the user's enrolled PIN and returns the result to the orchestrator.
 
@@ -70,9 +70,3 @@ When the plugin is not installed, no Soft PIN module exists on the instance and 
 
 [Authentication factors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/authentication-factors.md)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

@@ -14,13 +14,13 @@ breadcrumb: [AWS SSM discovery, Discovery for AWS, Discovery for cloud environme
 
 # Configure MID Server for AWS S3 access
 
-Configure MID Server properties to enable Simple Storage Service \(S3\) access from the ServiceNow AI Platform® when performing Systems Manager \(SSM\) Agent [[r-discovery|discovery]].
+Configure MID Server properties to enable Simple Storage Service \(S3\) access from the ServiceNow AI Platform® when performing Systems Manager \(SSM\) Agent discovery.
 
 ## Before you begin
 
 Confirm the following:
 
--   You have at least one MID Server installed and in the **Up** state. For more information, see [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]].
+-   You have at least one MID Server installed and in the **Up** state. For more information, see [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 -   You have an AWS credential that allows the MID Server to access and make API calls into the AWS environment. For more information, see [AWS Access for MID Server](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2150362#midawsaccess).
 -   You created a custom S3 bucket with necessary access enabled for the IAM roles. For more information, see [Setting up an S3 Bucket](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2150362#s3bucket) and [Setting up a Policy for accessing the S3 Bucket](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2150362#bucketpolicysetup).
 
@@ -50,7 +50,4 @@ Because the SSM Run Command console has a 24,000-character limit, results that e
 
 9.  Select the check mark \(\[Omitted image "icon-check-mark.png"\] Alt text: check mark icon\) icon.
 
-## Related
 
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[r-discovery|Discovery]]

@@ -21,12 +21,12 @@ The LDAP Log file lists industry standard error codes for both LDAP and Active D
 |Error / data code|Text|Description|
 |-----------------|----|-----------|
 |0|LDAP\_SUCCESS|Indicates the requested client operation completed successfully.|
-|2|LDAP\_PROTOCOL\_ERROR|Indicates that the server has received an invalid or malformed [[c_requestAPI|request]] from the client.|
+|2|LDAP\_PROTOCOL\_ERROR|Indicates that the server has received an invalid or malformed request from the client.|
 |3|LDAP\_TIMELIMIT\_EXCEEDED|Indicates that the operation's time limit specified by either the client or the server has been exceeded. On search operations, incomplete results are returned.|
 |4|LDAP\_SIZELIMIT\_EXCEEDED|Indicates that in a search operation, the size limit specified by the client or the server has been exceeded. Incomplete results are returned.|
 |5|LDAP\_COMPARE\_FALSE|Does not indicate an error condition. Indicates that the results of a compare operation are false.|
 |6|LDAP\_COMPARE\_TRUE|Does not indicate an error condition. Indicates that the results of a compare operation are true.|
-|7|LDAP\_AUTH\_METHOD\_NOT\_SUPPORTED|Indicates that during a bind operation the client requested an [[c_Authentication|authentication]] method not supported by the LDAP server.|
+|7|LDAP\_AUTH\_METHOD\_NOT\_SUPPORTED|Indicates that during a bind operation the client requested an authentication method not supported by the LDAP server.|
 |8|LDAP\_STRONG\_AUTH\_REQUIRED|Indicates one of the following: In bind requests, the LDAP server accepts only strong authentication. In a client request, the client requested an operation such as delete that requires strong authentication. In an unsolicited notice of disconnection, the LDAP server discovers the security protecting the communication between the client and server has unexpectedly failed or been compromised.|
 |9| |Reserved.|
 |10|LDAP\_REFERRAL|Does not indicate an error condition. In LDAPv3, indicates that the server does not hold the target entry of the request, but that the servers in the referral field may.|
@@ -63,7 +63,7 @@ The LDAP Log file lists industry standard error codes for both LDAP and Active D
 |51|LDAP\_BUSY|Indicates that the LDAP server is too busy to process the client request at this time but if the client waits and resubmits the request, the server may be able to process it then.|
 |52|LDAP\_UNAVAILABLE|Indicates that the LDAP server cannot process the client's bind request, usually because it is shutting down.|
 |52e|AD\_INVALID CREDENTIALS|Indicates an Active Directory \(AD\) AcceptSecurityContext error, which is returned when the username is valid but the combination of password and user credential is invalid. This is the AD equivalent of LDAP error code 49: LDAP\_INVALID\_CREDENTIALS.|
-|53|LDAP\_UNWILLING\_TO\_PERFORM|Indicates that the LDAP server cannot process the request because of server-defined restrictions. This error is returned for the following reasons: The add entry request violates the server's structure rules...OR...The modify attribute request specifies attributes that [[users|users]] cannot modify...OR...Password restrictions prevent the action...OR...Connection restrictions prevent the action.|
+|53|LDAP\_UNWILLING\_TO\_PERFORM|Indicates that the LDAP server cannot process the request because of server-defined restrictions. This error is returned for the following reasons: The add entry request violates the server's structure rules...OR...The modify attribute request specifies attributes that users cannot modify...OR...Password restrictions prevent the action...OR...Connection restrictions prevent the action.|
 |54|LDAP\_LOOP\_DETECT|Indicates that the client discovered an alias or referral loop, and is thus unable to complete this request.|
 |55-63| |Not used.|
 |64|LDAP\_NAMING\_VIOLATION|Indicates that the add or modify DN operation violates the schema's structure rules. For example, The request places the entry subordinate to an alias. The request places the entry subordinate to a container that is forbidden by the containment rules. The RDN for the entry uses a forbidden attribute type.|
@@ -97,8 +97,3 @@ The LDAP Log file lists industry standard error codes for both LDAP and Active D
 |10403|LDAP\_ERROR\_SSL\_CERT\_EXPIRED|
 |10500|LDAP\_ERROR\_INVALID\_SEARCH\_FILTER\_EXCEPTION|
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

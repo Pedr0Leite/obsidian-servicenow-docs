@@ -15,7 +15,7 @@ breadcrumb: [Log data auto-mapping and mapping, Set up HLA on your instance, Con
 
 # Map raw log data in Health Log Analytics
 
-Mapping raw log data that streams into your instance determines how the data is handled. [[hla-landing-page|Health Log Analytics]] automatically structures logs, creates metrics for anomaly detection, and presents alerts based on how your data is tagged.
+Mapping raw log data that streams into your instance determines how the data is handled. Health Log Analytics automatically structures logs, creates metrics for anomaly detection, and presents alerts based on how your data is tagged.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ In the JavaScript function, you're required to map only the service instance \(h
 
 **Note:**
 
-\(ACC data inputs only\) When the [[acc-landing-page|Agent Client Collector]] switches to a different MID Server to provide failover protection, it must switch to a different ACC data input. Therefore, all ACC data inputs must have the same JavaScript function. Health Log Analytics provides the latest published JavaScript function to all existing and future ACC data inputs, replacing the previous script. This feature is supported in the Health Log Analytics application, Version 22.0.12 - December 2021 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). For information about failover protection in [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\), see [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md).
+\(ACC data inputs only\) When the Agent Client Collector switches to a different MID Server to provide failover protection, it must switch to a different ACC data input. Therefore, all ACC data inputs must have the same JavaScript function. Health Log Analytics provides the latest published JavaScript function to all existing and future ACC data inputs, replacing the previous script. This feature is supported in the Health Log Analytics application, Version 22.0.12 - December 2021 and later, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home). For information about failover protection in Agent Client Collector Log Analytics \(ACC-L\), see [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md).
 
 **Note:** You can manipulate raw log data before Health Log Analytics maps and structures it. For more information, see [Edit raw log data before processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-preprocess.md).
 
@@ -67,7 +67,7 @@ In the JavaScript function, you're required to map only the service instance \(h
 
     **Note:**
 
-    -   Automatic log context mapping can only be configured in the [[workspace-dashboard-use|Service Operations Workspace]]. For more information about this feature, see [Map logs to service instances, components, and source types for contextual alerts in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-map-business-context.md).
+    -   Automatic log context mapping can only be configured in the Service Operations Workspace. For more information about this feature, see [Map logs to service instances, components, and source types for contextual alerts in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-map-business-context.md).
     -   If a manually-defined mapping script exists, automatic log context mapping overwrites it.
     -   To be able to define a JavaScript function manually in the current form, the **Enable auto map from log field** check box must be clear.
 8.  Define a JavaScript function that maps your data input sources to the correct service instance \(here called application service\), component, and source type.
@@ -210,9 +210,3 @@ The new script is automatically added to the list of JS function templates from 
 
 [Extract specific log data in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-log-data-extract.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

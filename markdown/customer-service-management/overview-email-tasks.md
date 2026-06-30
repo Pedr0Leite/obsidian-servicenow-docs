@@ -12,19 +12,12 @@ breadcrumb: [Using CSM Configurable Workspace in Customer Service Management, Ma
 
 # Manage email tasks
 
-You can compose, reply to, and preview emails directly from cases in [[csm-workspaces-configure|CSM Configurable Workspace]]. This capability helps you save time and effort instead of having to address and send a separate email message.
+You can compose, reply to, and preview emails directly from cases in CSM Configurable Workspace. This capability helps you save time and effort instead of having to address and send a separate email message.
 
 You can perform the following email tasks from cases in CSM Configurable Workspace:
 
--   [[compose-email-cases|Compose an email from a case]]
--   [[open-email-customer-360|Compose an email from the ribbon component]]
--   [[respond-cases-reply-forward|Send an email response from a case activity stream]]
--   [[preview-email-cases|Preview an email from the Emails related list]]
+-   [Compose an email from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/compose-email-cases.md)
+-   [Compose an email from the ribbon component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/open-email-customer-360.md)
+-   [Send an email response from a case activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/respond-cases-reply-forward.md)
+-   [Preview an email from the Emails related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/preview-email-cases.md)
 
-## Related
-
-- [[compose-email-cases|Compose an email from a case]]
-- [[open-email-customer-360|Compose an email from the ribbon component]]
-- [[respond-cases-reply-forward|Send an email response from a case activity stream]]
-- [[preview-email-cases|Preview an email from the Emails related list]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

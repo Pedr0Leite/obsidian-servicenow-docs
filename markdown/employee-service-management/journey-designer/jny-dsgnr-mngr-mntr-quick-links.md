@@ -14,7 +14,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Add, edit, or delete journey quick links
 
-Journey owners and mentors add, edit, and delete [[emp-center-quick-link-config|quick links]] in a journey.
+Journey owners and mentors add, edit, and delete quick links in a journey.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Journey owners and mentors have permissions assigned to them from a Journey Conf
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], navigate to **Journeys**.
+1.  From the Employee Center, navigate to **Journeys**.
 
 2.  Open the journey to add the quick link to.
 
@@ -45,7 +45,3 @@ Journey owners and mentors have permissions assigned to them from a Journey Conf
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

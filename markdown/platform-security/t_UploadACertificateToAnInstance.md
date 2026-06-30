@@ -36,7 +36,7 @@ When a certificate is updated on the ADFS server, you must also upload an update
     |-----|-----------|
     |**Name**|Specify a unique name for the certificate.|
     |**Expiration notification**|\[Optional\] Select whether you want to send a notification when the certificate is about to expire.|
-    |**Active**|Select whether the instance should use this certificate for secure [[sc-communications|communications]] and signing requests.|
+    |**Active**|Select whether the instance should use this certificate for secure communications and signing requests.|
     |**Short Description**|\[Optional\] Enter a text description of the certificate such as the requester or server name.|
     |**Format**|Select the certificate format. The instance supports the PEM and DER formats.|
     |**Type**|Select the certificate container. The instance recognizes certificates from trust stores, Java keystore, and PKCS\#12 keystores.|
@@ -55,10 +55,10 @@ When a certificate is updated on the ADFS server, you must also upload an update
     If the instance encounters any errors with the certificate or keystore, it displays an error message.
 
 
--   **[[t_UploadATrustedServerCertificate|Uploading a trusted server certificate]]**  
+-   **[Uploading a trusted server certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadATrustedServerCertificate.md)**  
 By uploading the service provider's trusted server certificate, the instance ensures it is connecting to a valid and secure service.
 
-**Parent Topic:**[[c_Certificates|Certificates]]
+**Parent Topic:**[Certificates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_Certificates.md)
 
 **Related topics**  
 
@@ -67,8 +67,3 @@ By uploading the service provider's trusted server certificate, the instance ens
 
 [Generating an LDAP client certificate]()
 
-## Related
-
-- [[t_UploadATrustedServerCertificate|Uploading a trusted server certificate]]
-- [[c_Certificates|Certificates]]
-- [[sc-communications|Communications]]

@@ -29,7 +29,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin
 
 **Important:** This agentic workflow is active by default. All fields are read-only except for the Triggers and Channels and status sections. To modify other fields, clone the workflow. Currently, you can't edit agent prompts or provide feedback for training.
 
-If you have the RCM user \[sn\_grc\_reg\_change.user\] role and the sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user role, you can [[generate_regulatory_action_plans|generate regulatory action plans]] using the [[rcm-agent-actions-workflow|generate regulatory action plan agentic workflow]] in the Now Assist panel.
+If you have the RCM user \[sn\_grc\_reg\_change.user\] role and the sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user role, you can generate regulatory action plans using the generate regulatory action plan agentic workflow in the Now Assist panel.
 
 This workflow analyzes impacted areas and similar historical alerts to create change tasks and action tasks that help implement regulatory change. The regulatory alert must be in the In Progress state and have impacted areas before generating an action plan.
 
@@ -54,7 +54,7 @@ You can perform the following actions on Now Assist workflows if you have the sn
     |Field|Description|
     |-----|-----------|
     |Workflow Name|Generate regulatory action plan.|
-    |Workflow description|This agentic workflow supports [[reg-change-mgmt-landing-page|regulatory change management]] users in handling [[list-view-of-reg-alerts|regulatory alerts]]. The workflow helps users implement regulatory change and action tasks by analyzing similar past alerts and identifying the impacted areas.|
+    |Workflow description|This agentic workflow supports regulatory change management users in handling regulatory alerts. The workflow helps users implement regulatory change and action tasks by analyzing similar past alerts and identifying the impacted areas.|
     |List of steps|Instructions for the LLM service.|
 
     |Name|Description|Tools and knowledge sources|Model support|Active|
@@ -75,7 +75,7 @@ LLM providers
 
 </td><td>
 
-Model providers that this agentic workflow doesn’t support.All model providers are supported by the [[rcm-agent-insights-workflow|get regulatory analysis agentic workflow]].
+Model providers that this agentic workflow doesn’t support.All model providers are supported by the get regulatory analysis agentic workflow.
 
 </td></tr></tbody>
 </table>4.  Review how user and data access is defined to confirm that the default settings meet your requirements by selecting **Define security controls**.
@@ -143,10 +143,3 @@ After confirming that the workflow performs as expected, you can get started by 
 
 If you have not already set up the Now Assist panel, see [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-## Related
-
-- [[generate_regulatory_action_plans|Generate regulatory action plans]]
-- [[rcm-agent-actions-workflow|Generate regulatory action plan agentic workflow]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[rcm-agent-insights-workflow|Get regulatory analysis agentic workflow]]

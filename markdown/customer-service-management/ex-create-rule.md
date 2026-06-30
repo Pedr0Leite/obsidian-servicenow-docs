@@ -20,11 +20,11 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
 ## About this task
 
-New [[gamification-components-rules|rules]] can only be created from context records.
+New rules can only be created from context records.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
 2.  Select the Case context.
 
@@ -46,14 +46,10 @@ New [[gamification-components-rules|rules]] can only be created from context rec
 
 8.  Enable the **Apply to tables extended from the context table** check box, so that the rule and its recommendations are applied to tables that are extended from the context table.
 
-    For more information, see [[ra-csm-rules|Apply rules to tables extended from the context table]].
+    For more information, see [Apply rules to tables extended from the context table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md).
 
 9.  In the **Field affecting this rule** field, select Short description from the slush bucket.
 
 10. Select **Submit**.
 
-## Related
 
-- [[ra-csm-rules|Rules in Recommended Actions]]
-- [[gamification-components-rules|Rules]]
-- [[configure-nba|Recommended Actions]]

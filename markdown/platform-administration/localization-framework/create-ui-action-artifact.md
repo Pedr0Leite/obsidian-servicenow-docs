@@ -14,11 +14,11 @@ breadcrumb: [Artifact configurations, Configure the Localization Framework, Loca
 
 # Create a UI action for the custom artifact
 
-Create a UI action to [[language-picker-ui|request translations]] for the custom artifact.
+Create a UI action to request translations for the custom artifact.
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_admin
+Role required: localization\_admin
 
 ## Procedure
 
@@ -131,15 +131,10 @@ List choice
 Option to enable the UI action in the choice list.
 
 </td></tr></tbody>
-</table>    **Note:** Configure the form to see all the fields. For more information, see [[t_EditingAUIAction|Create a UI action]].
+</table>    **Note:** Configure the form to see all the fields. For more information, see [Create a UI action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EditingAUIAction.md).
 
 5.  Click **Submit**.
 
 
 **Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md)
 
-## Related
-
-- [[t_EditingAUIAction|Create a UI action]]
-- [[language-picker-ui|Request translations]]
-- [[ia-localization-il|Localization]]

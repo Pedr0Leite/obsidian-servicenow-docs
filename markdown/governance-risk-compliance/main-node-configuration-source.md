@@ -16,7 +16,7 @@ You can set up the source for the Main node configurations.
 
 You can select the Main node configuration table and set up the element type as source. You can also add the label for the source such as CMDB, OpRes CMDB and then set up the Value, Sequence, Active flag, and so on.
 
-In the Main node configuration source [[list-view-uib-ws|list view]], you can review the available source configurations as shown in the example.
+In the Main node configuration source list view, you can review the available source configurations as shown in the example.
 
 \[Omitted image "main-node-config-source-list-view.png"\] Alt text: List view.
 
@@ -24,9 +24,5 @@ You can create a Main node configuration source configuration as shown in the ex
 
 \[Omitted image "main-node-config-source-form.png"\] Alt text: Form.
 
-**Parent Topic:**[[nexus-map-configuration|Nexus map configurations]]
+**Parent Topic:**[Nexus map configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/nexus-map-configuration.md)
 
-## Related
-
-- [[nexus-map-configuration|Nexus map configurations]]
-- [[list-view-uib-ws|List view]]

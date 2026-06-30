@@ -13,7 +13,7 @@ breadcrumb: [Activating actionable use cases, Use, Now Assist Center, Enable AI 
 
 # Install and configure essential Now Assist plugins using Now Assist Center
 
-Install the [[platform-now-assist-landing|Now Assist]] plugins required to enable AI solutions on your instance before activating use [[cases|cases]].
+Install the Now Assist plugins required to enable AI solutions on your instance before activating use cases.
 
 ## Before you begin
 
@@ -21,13 +21,13 @@ Role required: sn\_na\_center.nac\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
     The first time you access Now Assist Center, a welcome message displays prompting you to get started by installing essential Now Assist plugins. If you already have these plugins installed, the message simply introduces the benefits of Now Assist Center.
 
     \[Omitted image "now-assist-center-home-welcome-message.png"\] Alt text: Welcome message showing the benefits of Now Assist Center.
 
-2.  Select **Let’s get started** to continue to the [[now-assist-center-home-page|home page]].
+2.  Select **Let’s get started** to continue to the home page.
 
     The home page opens.
 
@@ -41,7 +41,7 @@ Role required: sn\_na\_center.nac\_admin
 
     Now Assist Center identifies which plugins are needed based on your license entitlements.
 
-4.  Follow the [[ai-prompts|prompts]] to install the required Now Assist plugins.
+4.  Follow the prompts to install the required Now Assist plugins.
 
 5.  After installation completes, return to the Now Assist Center home page.
 
@@ -54,21 +54,12 @@ Actionable use case cards tailored to your instance and entitlements now appear 
 
 ## What to do next
 
-To activate a use case, see [[activate-solution-now-assist-center|Activate an actionable use case in Now Assist Center]].
+To activate a use case, see [Activate an actionable use case in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-solution-now-assist-center.md).
 
-**Parent Topic:**[[now-assist-center-actionable-use-cases|Activating actionable use cases from Now Assist Center]]
+**Parent Topic:**[Activating actionable use cases from Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-actionable-use-cases.md)
 
 **Related topics**  
 
 
 [Activate an actionable use case in Now Assist Center]()
 
-## Related
-
-- [[activate-solution-now-assist-center|Activate an actionable use case in Now Assist Center]]
-- [[now-assist-center-actionable-use-cases|Activating actionable use cases from Now Assist Center]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-prompts|Prompts]]

@@ -18,7 +18,7 @@ When you are ready to close an incident, you can create a knowledge article so t
 
 ## Before you begin
 
-KCS Integration for [[c_IncidentManagement|Incident Management]] plugin \(com.snc.incident.knowledge\) must be activated. When activated, **Incident Create Knowledge** business rule does not run. For more information, see [Activate KCS Integration for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-kcs-integration-for-im.md).
+KCS Integration for Incident Management plugin \(com.snc.incident.knowledge\) must be activated. When activated, **Incident Create Knowledge** business rule does not run. For more information, see [Activate KCS Integration for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-kcs-integration-for-im.md).
 
 Role required: itil, sn\_incident\_write, or admin
 
@@ -63,6 +63,4 @@ When an incident is closed automatically or by the caller, a draft knowledge art
 
     **Note:** Draft articles appear in the knowledge base only after they are reviewed and published. If the draft is still missing from **My Knowledge Articles**, contact your knowledge administrator to verify the configuration of your KCS plugin.
 
-## Related
 
-- [[c_IncidentManagement|Incident Management]]

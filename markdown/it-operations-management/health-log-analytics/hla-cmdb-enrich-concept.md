@@ -14,7 +14,7 @@ breadcrumb: [Administer HLA, Configuring, Health Log Analytics, ITOM AIOps, IT O
 
 # Enhancing the CMDB with host data Health Log Analytics found in logs
 
-When [[hla-landing-page|Health Log Analytics]] streams logs, it extracts host data from the log events. If host data is discovered that doesn't match the information in the Configuration Management Database \(CMDB\), the system creates a configuration item \(CI\) candidate for you to review based on the data it found in the logs.
+When Health Log Analytics streams logs, it extracts host data from the log events. If host data is discovered that doesn't match the information in the Configuration Management Database \(CMDB\), the system creates a configuration item \(CI\) candidate for you to review based on the data it found in the logs.
 
 After reviewing a CI candidate, you can choose to either add it to the CMDB or dismiss it as irrelevant. The **Log-Based CI Candidates** table lists all CI candidates that Health Log Analytics has created, sorted by system update time. The **Operation** column shows the suggested action to take on each CI candidate. You are automatically notified when there are new CI candidates for your consideration. For more information, see [Add log-based CIs to the CMDB in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-cmdb-enrich.md).
 
@@ -27,6 +27,3 @@ Keep the Configuration Management Database \(CMDB\) updated with host data Healt
 
 **Parent Topic:**[Administering Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-administer.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

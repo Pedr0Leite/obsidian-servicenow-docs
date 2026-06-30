@@ -40,7 +40,7 @@ Now Assist Genius Results
 
 </th></tr></thead><tbody><tr><td>
 
-[[deskless-kiosk-overview|Employee Center Pro Kiosk]] Search Profile
+Employee Center Pro Kiosk Search Profile
 
 </td><td>
 
@@ -56,7 +56,7 @@ ESC Portal Default Search Profile
 
 </td><td>
 
-[[employee-center-landing-page|Employee Center]]
+Employee Center
 
 </td><td>
 
@@ -96,7 +96,3 @@ Now Assist Q&amp;A; Now Assist Actions
 
 You have enabled Now Assist in AI Search to use the Now Assist genius results functionality.
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]

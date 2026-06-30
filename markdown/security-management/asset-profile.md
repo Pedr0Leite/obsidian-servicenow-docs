@@ -20,7 +20,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[spc-landing|Security Posture Control]] Workspace** &gt; **Asset profiles**.
+1.  Navigate to **All** &gt; **Security Posture Control Workspace** &gt; **Asset profiles**.
 
 2.  Select **New**.
 
@@ -37,7 +37,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
     -   **With CMDB metadata** - Collection of CMDB CI properties such as Host name, OS, OS version, First and Last seen, for example, or connections that have network adaptors or installed software.
     -   **With aggregated data** - Collection of properties with aggregated values reported by different sources for a given asset. An example is the various ways sources might report an OS version: `windows11`,`Win11`, `Windows 11`, and so on.
     -   **From CI class** - Collection of CI classes that includes Computer, Server, Virtual Machine Instance and others.
-    The operators and logic for this asset profile policy builder is similar to the one described in [[spc-creating-policies|Creating your own policies in the Security Posture Control application]].
+    The operators and logic for this asset profile policy builder is similar to the one described in [Creating your own policies in the Security Posture Control application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-creating-policies.md).
 
 6.  Select **Create**.
 
@@ -53,7 +53,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 10. Select **Save changes**.
 
-    The policy audits your assets based on data imported from your service graph connectors and includes the conditions of the asset profiles that you added. You can [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]] and add asset profiles as a filter.
+    The policy audits your assets based on data imported from your service graph connectors and includes the conditions of the asset profiles that you added. You can [Create and activate a configured insight for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-custom-insight.md) and add asset profiles as a filter.
 
 11. Navigate to **All** &gt; **Security Posture Control Workspace** &gt; **Configured insights**.
 
@@ -71,8 +71,4 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
     The custom insights visualizations are filtered to show data for the policies that included the asset profiles you chose. A message in the Filter pane indicates how many configured insights are filtered out as a result of the asset profiles you added. There might be a delay for updates to trending data, because the Run SPC Policy scheduled job must complete to update trending data.
 
-## Related
 
-- [[spc-creating-policies|Creating your own policies in the Security Posture Control application]]
-- [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]

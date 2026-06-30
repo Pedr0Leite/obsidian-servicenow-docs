@@ -55,7 +55,7 @@ Payments
 
 </td><td>
 
-Payments made to the [[supplier|supplier]].
+Payments made to the supplier.
 
 </td></tr><tr><td>
 
@@ -67,15 +67,15 @@ A list of cases associated with the invoice.
 
 </td></tr><tr><td>
 
-Other [[invoices|invoices]] of same PO
+Other invoices of same PO
 
 </td><td>
 
-Other invoices associated with the same [[purchase-order-table|purchase order]] as that of the invoice that you are currently viewing.
+Other invoices associated with the same purchase order as that of the invoice that you are currently viewing.
 
 </td></tr><tr><td>
 
-Goods [[receipts|receipts]]
+Goods receipts
 
 </td><td>
 
@@ -84,9 +84,3 @@ Displays the corresponding goods receipt information for the invoice.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create New Invoice form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-new-invoice-form.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]
-- [[receipts|Receipts]]

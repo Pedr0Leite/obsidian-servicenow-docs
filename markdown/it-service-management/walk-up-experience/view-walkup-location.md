@@ -14,7 +14,7 @@ breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience
 
 # View assigned Walk-up Experience locations
 
-[[walkup-experience-landing-page|Walk-up Experience]] agents can view a list of the walk-up queues they are assigned to support. Locations queues reveal all the information an agent needs to know to operate the queue efficiently.
+Walk-up Experience agents can view a list of the walk-up queues they are assigned to support. Locations queues reveal all the information an agent needs to know to operate the queue efficiently.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ The agents can view associated walk-up location stockrooms in following ways:
 
 **Parent Topic:**[Manage Walk-up Experience queue and interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/use-walkup-to-manage-demand.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

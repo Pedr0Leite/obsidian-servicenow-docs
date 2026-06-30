@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Integrate Microsoft Office 365 calendar with Walk-up Experience
 
-With Microsoft Office 365 calendar integration, [[walkup-experience-landing-page|Walk-up Experience]] users can view appointments in their primary calendar. When they make an appointment, modify it, or cancel it, they are sent invites and updates via their Outlook calendar.
+With Microsoft Office 365 calendar integration, Walk-up Experience users can view appointments in their primary calendar. When they make an appointment, modify it, or cancel it, they are sent invites and updates via their Outlook calendar.
 
 This feature is only available when Microsoft Office 365 Outlook is the hosted calendar service. Administrators enable the flows that execute the integration using Workflow Studio. Other prerequisites include:
 
@@ -29,6 +29,3 @@ Enable Walk-up Experience Microsoft Office 365 calendar integration. When reques
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

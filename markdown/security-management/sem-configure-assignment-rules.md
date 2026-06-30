@@ -17,16 +17,16 @@ By configuring assignment rules, you can automate the process of routing finding
 
 Assignment rules help streamline vulnerability management by automatically assigning ownership to the correct team, reducing manual triage and accelerating response times.
 
-In the [[sem-workspace-user-interface|Security Exposure Management Workspace]], you can set up a single assignment rule that applies to all types of findings, including vulnerable items \(VITs\), application [[vulnerabilities|vulnerabilities]] \(AVITs\), container vulnerabilities \(CVITs\), and configuration test results \(CTRs\). This rule can then be applied to all the findings or a specific combination of findings.
+In the Security Exposure Management Workspace, you can set up a single assignment rule that applies to all types of findings, including vulnerable items \(VITs\), application vulnerabilities \(AVITs\), container vulnerabilities \(CVITs\), and configuration test results \(CTRs\). This rule can then be applied to all the findings or a specific combination of findings.
 
 Configuration of assignment rules includes the following steps.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-assigning-findings-to-remediation-teams|Assigning findings to remediation teams using assignment rules]]
+[Assigning findings to remediation teams using assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-assigning-findings-to-remediation-teams.md)
 
 ## Create or edit assignment rules
 
@@ -34,7 +34,7 @@ Create rules to assign findings automatically based on specific filter condition
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### About this task
 
@@ -222,7 +222,7 @@ When you delete an assignment rule:
 
 ## Remove assignments from findings and remediation tasks
 
-Clear the **Assigned to** and **Assignment group** fields on vulnerable item records in the [[vuln-landing-page|Vulnerability Response]], [[avr-landing|Application Vulnerability Response]], and [[cvr-landing|Container Vulnerability Response]] applications.
+Clear the **Assigned to** and **Assignment group** fields on vulnerable item records in the Vulnerability Response, Application Vulnerability Response, and Container Vulnerability Response applications.
 
 ### Before you begin
 
@@ -241,7 +241,7 @@ The **Unassign** UI action is supported in both the classic environment and the 
 -   Application vulnerable items \(AVITs\).
 -   Container vulnerable items \(CVITs\).
 
-**Important:** You can unassign host vulnerable items in bulk in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]. For more information, see [Using bulk edit in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-using-bulk-edit.md).
+**Important:** You can unassign host vulnerable items in bulk in the Vulnerability Manager Workspace. For more information, see [Using bulk edit in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-using-bulk-edit.md).
 
 ### Procedure
 
@@ -249,7 +249,7 @@ The **Unassign** UI action is supported in both the classic environment and the 
 
 2.  To clear the **Assigned to** and **Assignment group** fields in the classic view, at the top of the record, select **Unassign**.
 
-3.  Alternatively, navigate to a vulnerable item \(VIT, AVIT, or CVIT\) record in the [[it-remediation-workspace-landing-page|IT Remediation workspace]] that is assigned to you or your groups and select **Unassign** in the More options menu to clear the assignment fields.
+3.  Alternatively, navigate to a vulnerable item \(VIT, AVIT, or CVIT\) record in the IT Remediation workspace that is assigned to you or your groups and select **Unassign** in the More options menu to clear the assignment fields.
 
 4.  For remediation task records in the workspace that are assigned to you or your groups, open a record select **Unassign** in the More options menu to clear the assignment fields.
 
@@ -283,15 +283,3 @@ The request is approved by using a default, one-level approval workflow.
 
 Navigate to the Unassigned modules for the Vulnerability Response and Application Vulnerability Response Container Vulnerability Response applications, monitor any unassigned records for items that might fall under your scope, and reassign them to yourself.
 
-## Related
-
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-assigning-findings-to-remediation-teams|Assigning findings to remediation teams using assignment rules]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

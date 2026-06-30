@@ -14,7 +14,7 @@ breadcrumb: [Create a demand, Manage demands, Use, Next Experience for Demand Ma
 
 # Customize the demand record form
 
-The demand record form in Next Experience for [[c_DemandManagement|Demand Management]] displays a predefined set of fields. Adjust which fields appear on the form to match your organization's demand management process.
+The demand record form in Next Experience for Demand Management displays a predefined set of fields. Adjust which fields appear on the form to match your organization's demand management process.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Changes to the APW New view affect all users who open a new demand record. Coord
 
 Your customized form layout is applied to the demand record form. Users in your organization see the updated field configuration when they open a new demand record in the APW New view.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

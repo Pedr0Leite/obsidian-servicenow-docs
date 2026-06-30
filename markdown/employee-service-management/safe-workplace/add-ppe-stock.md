@@ -26,7 +26,7 @@ Role required: sn\_imt\_ppe.ppe\_admin
 
 1.  Navigate to **PPE Inventory Management** &gt; **Inventory** and select **Add Consumable Stock** or **Add Hardware Stock**.
 
-    **Note:** To add PPE stock in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Manage PPE Inventory** and select **Add Consumable Stock** or **Add Hardware Stock**.
+    **Note:** To add PPE stock in the Now Mobile app, navigate to **Health** &gt; **Manage PPE Inventory** and select **Add Consumable Stock** or **Add Hardware Stock**.
 
 2.  On the form, fill in the fields.
 
@@ -98,6 +98,3 @@ After adding PPE stock, you can view all of your available PPE by navigating to 
 
 **Next topic:**[Reduce PPE stock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/reduce-ppe-stock.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

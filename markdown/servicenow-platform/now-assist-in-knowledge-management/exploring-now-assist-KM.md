@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Knowledge Management, Manage content capabilities, Ex
 
 # Exploring Now Assist in Knowledge Management
 
-[[now-assist-knowledge-management|Now Assist in Knowledge Management]] enables agents to generate, edit, and publish knowledge articles from a case or incident using the Now Assist panel, classic environment, and configurable workspace.
+Now Assist in Knowledge Management enables agents to generate, edit, and publish knowledge articles from a case or incident using the Now Assist panel, classic environment, and configurable workspace.
 
 \[Omitted video\] Description: Generate a KB article from similar incidents by using Now Assist
 
@@ -33,7 +33,7 @@ After activation and configuration, Now Assist in Knowledge Management provides 
 
 ## Now Assist in Knowledge Management Skills
 
-The Now Assist in Knowledge Management application includes KB generation skills that enable agents to generate knowledge articles when working on a case or incident. Agents can document resolutions using generative AI features in [[knowledge-management|Knowledge Management]] and share them with customers to address their queries and issues.
+The Now Assist in Knowledge Management application includes KB generation skills that enable agents to generate knowledge articles when working on a case or incident. Agents can document resolutions using generative AI features in Knowledge Management and share them with customers to address their queries and issues.
 
 ## Now Assist panel
 
@@ -70,7 +70,3 @@ Agents can use the Now Assist panel available in their workspace. This conversat
 
 [Enable article optimization recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/enable-ao-recommendations.md)
 
-## Related
-
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]
-- [[knowledge-management|Knowledge Management]]

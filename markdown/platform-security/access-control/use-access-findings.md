@@ -22,9 +22,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[access-management-landing|Access Management]]** &gt; **[[access-findings|Access Findings]]**.
+1.  Navigate to **All** &gt; **Access Management** &gt; **Access Findings**.
 
-    **Note:** You can also select **Access Findings** from the [[access-management-console|Access Management Console]].
+    **Note:** You can also select **Access Findings** from the Access Management Console.
 
 2.  Select **Access Findings** from the options on the left to view the current findings.
 
@@ -96,13 +96,13 @@ When the finding was created.
     -   **Status tabs** -- Toggle between Open, Muted, and Resolved views. Each tab shows a count of findings in that state.
     -   **Filtering** -- Filter by priority level, check type, or other finding attributes.
     -   **Sorting** -- Sort by priority, date detected, status, or other columns.
-    -   **[[export|Export]]** -- Export findings for offline review or reporting.
+    -   **Export** -- Export findings for offline review or reporting.
 3.  Select each record to learn more about the vulnerability and detailed resolutions, including:
 
     -   Finding description and affected resource
     -   Priority level and the check that detected it
     -   Remediation guidance with documentation link
-    -   Related [[security-task-manager|Security Tasks]]
+    -   Related Security Tasks
 4.  Select any of the following remediation actions for managing the finding lifecycle:
 
 <table id="table_yqw_xwn_bjc"><thead><tr><th>
@@ -168,11 +168,3 @@ Create a Security Task \(`sn_vsc_security_task`\) from the finding to route reme
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[access-management-landing|Access Management]]
-- [[access-findings|Access findings]]
-- [[access-management-console|Access management console]]
-- [[export|Export]]
-- [[security-task-manager|Security Tasks]]

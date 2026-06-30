@@ -15,7 +15,7 @@ breadcrumb: [Configure, Agent Chat, Conversational Interfaces]
 
 # Configuring quick actions
 
-Quick actions are shortcuts that perform [[ci-use-agent-chat|Agent Chat]] tasks. Agents can work more efficiently with customers by using quick actions because they don't have to enter as many characters to perform a task.
+Quick actions are shortcuts that perform Agent Chat tasks. Agents can work more efficiently with customers by using quick actions because they don't have to enter as many characters to perform a task.
 
 ## Activate quick actions
 
@@ -51,7 +51,7 @@ autopilot
 
 </td><td>
 
-Starts a [[virtual-agent-landing-page|Virtual Agent]] topic \(Conversation Autopilot\).
+Starts a Virtual Agent topic \(Conversation Autopilot\).
 
 </td><td>
 
@@ -67,7 +67,7 @@ help
 
 </td><td>
 
-Indicates to the chat supervisor that an agent needs help with a conversation. To use this quick action, new customers must enable Agent Chat and [[ci-agent-whisper|Agent Whisper]] and update customers must enable Agent Whisper on chat setup.
+Indicates to the chat supervisor that an agent needs help with a conversation. To use this quick action, new customers must enable Agent Chat and Agent Whisper and update customers must enable Agent Whisper on chat setup.
 
 </td><td>
 
@@ -441,7 +441,7 @@ The toolbar of the Workspace chat window contains three buttons. Selecting the l
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Chat Settings** &gt; **Agent Chat**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Chat Settings** &gt; **Agent Chat**.
 
 2.  In the Agent Experience section, select **View all** next to Quick actions.
 
@@ -619,9 +619,4 @@ Context quick actions are a default quick action, but require activation.
 
 2.  In the **Get Chat Context Variables** record, use the list editor to set the **Active** value to true.\[Omitted image "quick-actions.png"\] Alt text: Get Chat Context Variable record, with Active value of True highlighted.
 
-## Related
 
-- [[ci-use-agent-chat|Agent Chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-agent-whisper|Agent Whisper]]
-- [[convint-landing-page|Conversational Interfaces]]

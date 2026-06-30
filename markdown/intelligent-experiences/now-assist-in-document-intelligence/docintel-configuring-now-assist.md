@@ -15,9 +15,9 @@ breadcrumb: [Now Assist in Document Intelligence, Enable AI experiences]
 
 # Configuring Now Assist in Document Intelligence
 
-If you have the admin role, you can configure the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] feature, enabling agents to use its generative AI skills within their application workspace.
+If you have the admin role, you can configure the Now Assist in Document Intelligence feature, enabling agents to use its generative AI skills within their application workspace.
 
-The following diagram shows the process for setting up the extract informationplatform skill in [[platform-now-assist-landing|Now Assist]].
+The following diagram shows the process for setting up the extract informationplatform skill in Now Assist.
 
 \[Omitted image "mmasset0021089-configuring-nadi-horizontal.svg"\] Alt text: Diagram showing the steps to configure Now Assist in Document Intelligence.
 
@@ -25,7 +25,7 @@ In this workflow:
 
 -   Install Now Assist.
 -   Activate the extract informationskill in the Platform workflow.
--   Create one or more use [[cases|cases]] for the skill.
+-   Create one or more use cases for the skill.
 -   Define fields, tables, or questions for the use case.
 -   Test use case performance with a sample document.
 -   Set up integrations with your workflows.
@@ -50,8 +50,3 @@ Delete a use case when it is no longer needed for your documents.
 
 **Parent Topic:**[Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md)
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

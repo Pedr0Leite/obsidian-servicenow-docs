@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Problem Management, Telecommunications,
 
 # Capture ADR information form
 
-The [[capture-initiator-details-form|Capture initiator details form]] enables you to collect the escalated complaint details for an Alternative Dispute Resolution \(ADR\) case.
+The Capture initiator details form enables you to collect the escalated complaint details for an Alternative Dispute Resolution \(ADR\) case.
 
 |Field|Description|
 |-----|-----------|
@@ -30,9 +30,5 @@ The [[capture-initiator-details-form|Capture initiator details form]] enables yo
 **Related topics**  
 
 
-[[create-adr-case-record|Create an Alternative Dispute Resolution case]]
+[Create an Alternative Dispute Resolution case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-adr-case-record.md)
 
-## Related
-
-- [[create-adr-case-record|Create an Alternative Dispute Resolution case]]
-- [[capture-initiator-details-form|Capture initiator details form]]

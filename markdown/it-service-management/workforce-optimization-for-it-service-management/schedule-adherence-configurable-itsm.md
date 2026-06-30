@@ -22,7 +22,7 @@ Use Schedule Adherence to:
 
 -   Gain insights into how agent resources were historically used and plan your staffing needs based on that data.
 -   Measure whether the effort spent on [forecasting agent demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-demand-forecast-configurable-wfo-itsm.md) and scheduling team members is used in an optimal manner.
--   Discover [[cf-coaching-landing|coaching]] opportunities for your agents when you find gaps in their adherence. For more information, see [Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-coaching-configurable-workforce-optimization-itsm.md).
+-   Discover coaching opportunities for your agents when you find gaps in their adherence. For more information, see [Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-coaching-configurable-workforce-optimization-itsm.md).
 
 As a manager, you can do the following actions:
 
@@ -39,7 +39,7 @@ As an agent, you can clock-in to and clock-out of your work shift. For more info
 
 Here's a typical schedule adherence and conformance workflow:
 
-1.  The administrator sets the **Agent Time Work Event Trigger** business rule as active to record the clock-in and clock-out times of [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] agents.
+1.  The administrator sets the **Agent Time Work Event Trigger** business rule as active to record the clock-in and clock-out times of Workforce Optimization for ITSM agents.
 2.  An agent works for the ITSM team and reports to a manager. Let's assume this scenario is a typical work day​:
     1.  The agent logs in to ITSM Agent Workspace ​.
     2.  The agent changes the presence status to **Available** and starts work. The clock-in event gets generated.
@@ -60,7 +60,3 @@ Configure schedule adherence properties to calculate the adherence and conforman
 
 **Parent Topic:**[Scheduling in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-schedule-configurable-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

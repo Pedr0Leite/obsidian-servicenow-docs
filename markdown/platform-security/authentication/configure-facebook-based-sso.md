@@ -29,7 +29,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers**.
 
 2.  To create a new Facebook identity provider, click **New**.
 
@@ -39,7 +39,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     |Fields|Description|
     |------|-----------|
-    |Name|Unique name for the OIDC identity provider [[sc-configuration|configuration]].|
+    |Name|Unique name for the OIDC identity provider configuration.|
     |Client ID|The client ID of the application registered in the third-party OIDC identity provider.|
     |Client Secret|The client secret of the application registered in the third-party OIDC identity provider.|
     |Well known Configuration URL|The URL that contains metadata about the third-party OIDC identity provider.|
@@ -56,7 +56,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     2.  Provide your **SSO label**.
 
-8.  In the **User Provisioning** tab, specify the fields that you need to configure [[users|users]] to specific user provisioning and roles.
+8.  In the **User Provisioning** tab, specify the fields that you need to configure users to specific user provisioning and roles.
 
     Only the mandatory fields are required. You can specify the remaining fields depending on what you need.
 
@@ -66,7 +66,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     2.  Set the **Redirect URL** field to your Facebook redirect URL.
 
-10. In the **[[oauth-inbound-and-outbound|OAuth]] Entity Profiles** tab, do the following:
+10. In the **OAuth Entity Profiles** tab, do the following:
 
     1.  In the profile details, click a profile.
 
@@ -74,7 +74,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
         For example, select **scope-1**
 
-11. In the **OAuth Entity Scopes** tab, click the **scope-1** link and add the scope as `[[email|email]]`.
+11. In the **OAuth Entity Scopes** tab, click the **scope-1** link and add the scope as `email`.
 
 12. To save the configuration, right-click the header and click **Save**.
 
@@ -85,10 +85,3 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 Users are displayed with the Facebook SSO option on the login form.
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[email|Email]]

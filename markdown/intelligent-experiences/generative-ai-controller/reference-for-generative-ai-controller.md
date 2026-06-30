@@ -14,7 +14,7 @@ breadcrumb: [Generative AI Controller, Now Assist, Enable AI experiences]
 
 # Reference for Generative AI Controller
 
-Reference topics provide information about [[generative-ai-controller-tables|Generative AI Controller tables]], and properties.
+Reference topics provide information about Generative AI Controller tables, and properties.
 
 ## Tables installed
 
@@ -40,7 +40,7 @@ sys\_one\_extend\_capability
 
 </td><td>
 
-[[generative-ai-controller|Generative AI Controller]] capabilities that include Summarize, Record Summarization, Generate Content, and Generic Prompt.
+Generative AI Controller capabilities that include Summarize, Record Summarization, Generate Content, and Generic Prompt.
 
 </td></tr><tr><td>
 
@@ -112,7 +112,7 @@ sys\_gen\_ai\_log\_metadata
 
 </td><td>
 
-Logs data about requests to the LLMs, including information about definition, errors, user, and feedback provided. AI-generated content can be tracked for a duration beyond six months with [[platform-now-assist-landing|Now Assist]] configuration option. You can export historical data by writing a script to copy it into a different table without deleting the information.
+Logs data about requests to the LLMs, including information about definition, errors, user, and feedback provided. AI-generated content can be tracked for a duration beyond six months with Now Assist configuration option. You can export historical data by writing a script to copy it into a different table without deleting the information.
 
 </td></tr><tr><td>
 
@@ -148,7 +148,7 @@ sys\_generative\_ai\_log
 
 </td><td>
 
-Logs Generative AI [[ai-prompts|prompts]], responses, and edited responses to debug LLM calls. Log records are retained for 180 days. HR-related logs are restricted to HR Administrators, ensuring sensitive information remains protected.
+Logs Generative AI prompts, responses, and edited responses to debug LLM calls. Log records are retained for 180 days. HR-related logs are restricted to HR Administrators, ensuring sensitive information remains protected.
 
 For more information, see [Generative AI Controller tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/generative-ai-controller-tables.md).
 
@@ -237,9 +237,3 @@ Default value: true
 |Microsoft Azure OpenAI|[Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)|[Code of conduct for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)|
 |OpenAI|[API data usage policies](https://openai.com/policies/api-data-usage-policies)|[Usage policies](https://openai.com/policies/usage-policies)|
 
-## Related
-
-- [[generative-ai-controller-tables|Generative AI Controller tables]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]

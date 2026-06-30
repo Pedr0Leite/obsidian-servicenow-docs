@@ -20,7 +20,7 @@ Role required: sn\_publications.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Publication Workflow**.
+1.  Navigate to **All** &gt; **Targeted Communications** &gt; **Publication Workflow**.
 
 2.  Select a workflow.
 
@@ -36,6 +36,4 @@ Role required: sn\_publications.admin
 
 5.  Click **Update**.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]

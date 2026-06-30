@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier cases, Using Source-to-Pay Workspace, Use, Supplier
 
 # Complete a supplier case from the Source-to-Pay Workspace
 
-You can mark a [[supplier|supplier]] case as complete when you finish all the tasks related to that case.
+You can mark a supplier case as complete when you finish all the tasks related to that case.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\).
 
@@ -36,7 +36,7 @@ Role required: sn\_slm.fulfiller, sn\_slm.owner, or sn\_slm.admin
 
 6.  Add closing notes to the case.
 
-    -   If the **sn.slm.isAcceptedFlowEnabled** property is enabled, the case state is changed to Awaiting acceptance and an email is sent to the [[supplier-contact|supplier contact]] with the resolution details. Supplier contacts can accept or reject the resolution either by replying to the email or by navigating to My tasks in the [[supplier-central|Supplier Collaboration Portal]].
+    -   If the **sn.slm.isAcceptedFlowEnabled** property is enabled, the case state is changed to Awaiting acceptance and an email is sent to the supplier contact with the resolution details. Supplier contacts can accept or reject the resolution either by replying to the email or by navigating to My tasks in the Supplier Collaboration Portal.
     -   If the **sn.slm.isAcceptedFlowEnabled** property is not enabled, the case state is changed to closed after the addition of the closing notes.
 
 ## Result
@@ -52,10 +52,3 @@ If the supplier contact accepts the resolution, the supplier case is marked as *
 
 [Reopen a supplier case from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/reopen-supplier-case.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

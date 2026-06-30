@@ -50,7 +50,7 @@ Capabilities
 
 The **ALL** setting includes all required applications and capabilities. Alternatively, you can specify the following settings:
 
-**Note:** You can specify the following settings for any number of MID Servers. If you specify multiple MID Servers, then Discovery, billing data download operations, and actions that are recommended by [[cloud-insights-landing-page|Cloud Cost Management]] are assigned to one of the MID Servers at random.
+**Note:** You can specify the following settings for any number of MID Servers. If you specify multiple MID Servers, then Discovery, billing data download operations, and actions that are recommended by Cloud Cost Management are assigned to one of the MID Servers at random.
 
  Option 1: To use this MID Server only for Azure, specify both of the following values:
 
@@ -78,6 +78,3 @@ You can use a proxy server for the Cloud Cost Management MID Server. See [Proxy 
 
 [Install a MID Server on Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_InstallAMIDServerOnLinux.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

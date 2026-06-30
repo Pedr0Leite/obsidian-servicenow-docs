@@ -14,7 +14,7 @@ breadcrumb: [Using Evaluate access, Using Access Analyzer, Access Analyzer, Acce
 
 # View permissions for a role
 
-Use [[access-analyzer|Access Analyzer]] to view permissions for a selected role.
+Use Access Analyzer to view permissions for a selected role.
 
 ## Before you begin
 
@@ -95,11 +95,8 @@ Specify a REST endpoint method. For example, GET.
 
     The **Access results** for the **user\_admin** role is displayed.
 
-    The results can be read by referring to the Legends, [[sc-access-control|access control]] list \(ACL\), IAccesshandler, and Data filters.
+    The results can be read by referring to the Legends, access control list \(ACL\), IAccesshandler, and Data filters.
 
     The overall access for the role is `passed`, which means that the role \(**user\_admin**\) is able to access the **REST endpoint** for the selected **GET** method.
 
-## Related
 
-- [[access-analyzer|Access Analyzer]]
-- [[sc-access-control|Access control]]

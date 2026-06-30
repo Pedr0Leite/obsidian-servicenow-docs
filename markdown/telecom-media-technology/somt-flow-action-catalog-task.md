@@ -52,7 +52,7 @@ Create the template and set the conditions as to when the template applies.-   T
 
 </td></tr><tr><td>
 
-[[configure-task-plan-template|Configure task plan template]]
+[Configure task plan template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/configure-task-plan-template.md)
 
 </td><td>
 
@@ -99,7 +99,3 @@ While in the Draft state, you can make changes to the template, template items, 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[configure-task-plan-template|Configure the task plan template]]

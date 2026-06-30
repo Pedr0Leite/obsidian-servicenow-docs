@@ -16,11 +16,8 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 Surface the sentiment in AWA Inbox for agents to get the visibility of requester sentiment \( if available\) during live agent handoff or agent transfer for all channels.
 
-With [[awa-application-landing-page|Advanced Work Assignment]] sentiment, you can:
+With Advanced Work Assignment sentiment, you can:
 
 -   Display the sentiment \(negative or positive\) in Advanced Work Assignment inbox card for interactions​ during live agent handoff ​and agent transfer.
 -   Admin configuration to enable or disable sentiment per service channel.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -56,7 +56,7 @@ You can view the following information on the financials screen.
 
 -   Time scale: time period breakdowns to view the financials. Default value is set to Month/Period, depending on the fiscal calendar type.
 -   Display mode: list options to switch between different modes to get a focused view of financials.
--   [[generate-labor-cost-demand|Generate labor costs]]: one-click solution to generate or refresh the planned labor costs for the planning item depending on resource assignments.
+-   Generate labor costs: one-click solution to generate or refresh the planned labor costs for the planning item depending on resource assignments.
 
     **Note:** This option is enabled for the projects with resource assignments only.
 
@@ -74,6 +74,3 @@ Financial widgets provide at-a-glance visibility into the portfolio’s financia
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]

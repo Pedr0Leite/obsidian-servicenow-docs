@@ -39,7 +39,7 @@ Elements of the Service Portal platform such as settings, portals, pages and wid
 
     3.  Paste the ID in a text editor and save it for later.
 
-3.  Navigate to **All** &gt; **Service Portal** &gt; **[[ci-use-agent-chat|Agent Chat]]**.
+3.  Navigate to **All** &gt; **Service Portal** &gt; **Agent Chat**.
 
 4.  Select the name of the portal that you want to restrict to a domain, or [create a new one](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-a-portal.md).
 
@@ -58,6 +58,3 @@ The **sysparm\_domain\_id** parameter gets passed in the portal URL.
 
 **Parent Topic:**[Domain separation and Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/domain-separation-virtual-agent.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

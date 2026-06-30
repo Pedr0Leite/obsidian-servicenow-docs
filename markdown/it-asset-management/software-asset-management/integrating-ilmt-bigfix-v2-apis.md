@@ -22,7 +22,7 @@ See [REST API resources and HTTP methods](https://www.ibm.com/docs/en/license-me
 
 \[Omitted image "mmasset0021803-ilmt-bigfix-inventory-integration-v2-apis.svg"\] Alt text: Integration between ILMT and ServiceNow.
 
-The ILMT and BigFix Inventory integration enables you to create connections between one or more IBM servers and the ServiceNow AI Platform using HTTP or HTTPS. When you initiate the integration, you receive an IBM Server connection alias that you can use to set up your IBM server connections. If a connection is successful, the [[c_SoftwareAssetMgmt|Software Asset Management]] application retrieves peak usage data within the aggregated period that you defined in ILMT or BigFix Inventory.
+The ILMT and BigFix Inventory integration enables you to create connections between one or more IBM servers and the ServiceNow AI Platform using HTTP or HTTPS. When you initiate the integration, you receive an IBM Server connection alias that you can use to set up your IBM server connections. If a connection is successful, the Software Asset Management application retrieves peak usage data within the aggregated period that you defined in ILMT or BigFix Inventory.
 
 ## Prerequisites
 
@@ -58,6 +58,3 @@ If you are integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inven
 
 **Parent Topic:**[IBM License Metric Tool \(ILMT\) and BigFix Inventory integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-ilmt-bigfix-inventory-integration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

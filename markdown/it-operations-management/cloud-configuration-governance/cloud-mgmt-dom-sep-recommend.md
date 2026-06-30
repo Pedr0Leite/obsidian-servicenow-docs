@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance administration guide, Cloud Provi
 
 # Domain separation in Cloud Provisioning and Governance - considerations for service providers
 
-Review the following considerations to effectively create, implement, and maintain domain separation for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] services in the instance that you are setting up for your customers.
+Review the following considerations to effectively create, implement, and maintain domain separation for Cloud Provisioning and Governance services in the instance that you are setting up for your customers.
 
 -   Includes all aspects of **Basic** level support.
 -   Application properties are domain-aware as needed.
@@ -25,7 +25,7 @@ Review the following considerations to effectively create, implement, and mainta
 
 Domain separation for Cloud Provisioning and Governance aligns one or more companies to a domain. To use domain separation with the application, assign all user accounts to a specific company associated with that domain.
 
-All entities that are related to the company, such as [[cloud-accounts|cloud accounts]] and service accounts, are created in the same domain as the company. When a new company is created, create a domain with a unique name and assign it to the company. All related entities for an account, such as contacts and cases, must reside in the same domain. When you create a related entity for a domain-separated account, the entity is assigned to the company domain.
+All entities that are related to the company, such as cloud accounts and service accounts, are created in the same domain as the company. When a new company is created, create a domain with a unique name and assign it to the company. All related entities for an account, such as contacts and cases, must reside in the same domain. When you create a related entity for a domain-separated account, the entity is assigned to the company domain.
 
 Members of a domain can only view the data that is contained within their domain or child domains that are lower in the domain hierarchy. By default, all users and all records are members of the global domain unless you assign them to a particular domain. Once you assign a user or a record to a domain, the instance compares the user's domain to the record's domain to determine whether the user can view the record.
 
@@ -52,7 +52,7 @@ Perform the following tasks to set up your domain-separated instance:
 
     -   Create a domain hierarchy. For more information, see [Create Domain hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-hierarchy.md).
 
-        Create a domain hierarchy that mirrors organization structures for grouping under the top domain. Because you can perform [[r-discovery|discovery]] and provisioning only from the leaf domain, set up leaf domains in the hierarchy that represent concrete entities and organizations.
+        Create a domain hierarchy that mirrors organization structures for grouping under the top domain. Because you can perform discovery and provisioning only from the leaf domain, set up leaf domains in the hierarchy that represent concrete entities and organizations.
 
         Based on the domain hierarchy, users have access to data in their home domain and any child domains. The process flows down and the data bubbles up. You can assign user records with a domain value that represents the user’s home domain. While users have no access to data in parent domains, peer domains, or domains in other branches of the hierarchy. A process that is setup in a parent domain is applicable to all child domains. For more information, see
 
@@ -87,7 +87,7 @@ Perform the following tasks to set up your domain-separated instance:
 
         **Note:** Don’t use the manual-managed domain option to choose the domain for users.
 
-    2.  Create groups and assign roles to the groups. Users that are assigned to the group inherit the roles. You can create [[cloudmgt-cloud-user-portal|cloud user portal]] users for a company in the leaf domain. For more information on creating groups, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAGroup.md).
+    2.  Create groups and assign roles to the groups. Users that are assigned to the group inherit the roles. You can create cloud user portal users for a company in the leaf domain. For more information on creating groups, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAGroup.md).
     3.  Create these users in each of the leaf domains:
         -   MID Server user for each leaf domain and company. Assign the mid\_server role to MID Server users.
         -   Domain admin for each leaf domain and company. Assign the sn\_cmp.cmp\_root\_admin role to cloud \(domain\) administrators.
@@ -114,9 +114,3 @@ For more information on onboarding customers or companies in a domain-separated 
 
 [Understanding Domain Separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

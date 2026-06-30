@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Innovation Management, Innovation Manage
 
 # Create an Idea form
 
-Learn about the fields of the Idea form. Use this form to create or edit the details of an idea in [[innovation-management-landing|Innovation Management]].
+Learn about the fields of the Idea form. Use this form to create or edit the details of an idea in Innovation Management.
 
 |Field|Description|
 |-----|-----------|
@@ -33,6 +33,3 @@ Learn about the fields of the Idea form. Use this form to create or edit the det
 
 [View, filter, and sort ideas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/view-filter-sort-ideas.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]

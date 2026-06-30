@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -58,7 +58,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
     You can use these sections to add your findings:
 
     -   **Attachments** section to attach findings in the form of image, video, and documentation such as a signed witness statement.
-    -   **[[activity-lxp|Activity]]** section to add findings in the form of free text. You can also use this section to add links to related knowledge base articles.
+    -   **Activity** section to add findings in the form of free text. You can also use this section to add links to related knowledge base articles.
 8.  Research content related to the observation by selecting the Agent assist icon \(\[Omitted image "Form\_AgentAssistIcon.png"\] Alt text: agent assist icon\).
 
     Agent assist searches the knowledge base using the text from the observation's **Short description** field and shows relevant articles.
@@ -76,8 +76,3 @@ The observation moves to the Closed Complete state.
 
 **Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/managing-hs-incidents-obs.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

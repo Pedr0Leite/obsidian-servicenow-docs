@@ -14,7 +14,7 @@ breadcrumb: [AIOps Dashboards in SOW for ITOM, Using SOW for ITOM, Service Opera
 
 # Event and Alert dashboard
 
-The Event and Alert dashboard uses Performance Analytics to provide real-time visibility into events and alerts in [[c_EM|Event Management]], showcasing key trends, outcomes, and the most impacted configuration items. It highlights metrics such as noise reduction, [[c_ServiceAnalyticsOverview|alert grouping]] coverage, and top alert sources.
+The Event and Alert dashboard uses Performance Analytics to provide real-time visibility into events and alerts in Event Management, showcasing key trends, outcomes, and the most impacted configuration items. It highlights metrics such as noise reduction, alert grouping coverage, and top alert sources.
 
 \[Omitted image "aiops-events-and-alerts-dashboard.png"\] Alt text: Events and Alerts dashboard.
 
@@ -37,8 +37,8 @@ Ensure that the Event Management application is installed.
 
 To open the dashboard, use one of the following methods:
 
--   Navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **AIOps Operational** &gt; **Events and Alerts**.
--   Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\).
+-   Navigate to **All** &gt; **AIOps Dashboards** &gt; **AIOps Operational** &gt; **Events and Alerts**.
+-   Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\).
 
     By default, the **Events and Alerts** tab is selected.
 
@@ -162,9 +162,3 @@ The distribution of grouped alerts over the last 7 days.
 
 The Most Impacted Configuration Items section of the Event and Alert dashboard provides a comprehensive overview of the configuration items \(CIs\) that are most impacted by the issue. This section lists key details such as the name of each CI, the number of associated alerts, their classification \(such as application service\), and location. Additionally, it identifies the owner and support group responsible for each CI, facilitating targeted and efficient incident resolution. By highlighting the most impacted CIs, this section helps prioritize critical assets and resources, ensuring that the most significant issues are addressed promptly to maintain system stability and performance.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

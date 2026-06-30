@@ -138,11 +138,7 @@ Boolean
 </table>**Related topics**  
 
 
-[[personas-roles-and-tables-post-integration|Roles and responsibilities]]
+[Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration.md)
 
-[[activate-order-management-for-business-locations|Activate Order Management for Business Locations]]
+[Activate Order Management for Business Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-order-management-for-business-locations.md)
 
-## Related
-
-- [[personas-roles-and-tables-post-integration|Roles and responsibilities]]
-- [[activate-order-management-for-business-locations|Activate Order Management for Business Locations]]

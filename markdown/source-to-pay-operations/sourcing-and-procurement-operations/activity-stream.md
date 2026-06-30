@@ -16,7 +16,7 @@ breadcrumb: [Shopping Hub, Explore, Sourcing and Procurement Operations, Finance
 
 Track the updates on a selected purchase by navigating to the **Activity** tab. The activity stream shows the progress that your order has made since the time you placed it.
 
-The activity stream on the purchase line or [[purchase-order-table|purchase order]] line displays updates for the parent [[sourcing-request|sourcing request]], negotiation, [[purchase-requisition|purchase requisition]], purchase order, purchasing tasks associated with the parent, and purchasing tasks associated with the purchase line.
+The activity stream on the purchase line or purchase order line displays updates for the parent sourcing request, negotiation, purchase requisition, purchase order, purchasing tasks associated with the parent, and purchasing tasks associated with the purchase line.
 
 For each activity stream update, the following text is displayed before showing the update from the old value to the new value: “`<Object name> <Number>` has been updated with the following changes". For example, if the purchase line is within the context of a sourcing request, it displays: “Sourcing Request SRC0001001 has been updated with the following changes”.
 
@@ -49,7 +49,7 @@ Updates to the following fields on the respective parent objects are displayed i
 -   Purchase requisition
     -   **State**
     -   **Assigned to**
-    -   **[[cost-center|Cost center]]**
+    -   **Cost center**
     -   **Total amount**
 -   Purchase order
     -   **Status**
@@ -62,9 +62,3 @@ Updates to the following fields on the respective parent objects are displayed i
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[cost-center|Cost center]]

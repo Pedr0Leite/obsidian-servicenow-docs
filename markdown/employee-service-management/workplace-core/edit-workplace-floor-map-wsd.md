@@ -14,7 +14,7 @@ breadcrumb: [Providing your workplace data, Configure, Workplace Core, Workplace
 
 # Update a workplace floor plan
 
-[[edit-workplace-floor-map|Update a workplace floor plan]] by uploading a new plan.
+Update a workplace floor plan by uploading a new plan.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration** &gt; **Floors**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration** &gt; **Floors**.
 
 2.  Select the floor you want to update.
 
@@ -99,7 +99,3 @@ A original floor record is updated with the floor plan attached to it. The Space
 
 **Parent Topic:**[Providing your workplace data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/providing-your-workplace-data-wsd.md)
 
-## Related
-
-- [[edit-workplace-floor-map|Update a workplace floor plan]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

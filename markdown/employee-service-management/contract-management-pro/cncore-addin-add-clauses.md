@@ -14,7 +14,7 @@ breadcrumb: [Add content controls, Create templates in Microsoft Word, Configure
 
 # Map clauses and clause variations using the Microsoft Word add-in for ServiceNow Contracts
 
-As a contract configurator, add clause and clause variations to a contract using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+As a contract configurator, add clause and clause variations to a contract using the Microsoft Word add-in for ServiceNow Contracts.
 
 ## About this task
 
@@ -97,7 +97,7 @@ In the **Clauses** tab, select **Use this clause** for the clause that you want 
 
 </td></tr><tr><td id="d147129e349">
 
-**[[cncore-add-clauses-doc-tmplt|Create a clause variation]] for an existing clause**
+**Create a clause variation for an existing clause**
 
 </td><td>
 
@@ -127,7 +127,3 @@ In the **Clauses** tab, select **Create Variation** for the clause that you want
 
 [Map contract tables using the Microsoft Word add-in for ServiceNow Contracts]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-add-clauses-doc-tmplt|Create a clause variation]]

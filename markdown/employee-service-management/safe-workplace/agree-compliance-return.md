@@ -24,7 +24,7 @@ Role required: none
 
 Typically, you receive an email or a mobile notification from your organization with a link to the health verification form.
 
-**Note:** If the ServiceNow® Customer Service Management application is activated, consumers and contacts can access the health verification form on the Consumer or Customer Service Portals. To set up the health verification form on the portals, [allow external users access to "Health Verification" catalog item \(KB0856301\)](https://support.servicenow.com/kb_view.do?sysparm_article=KB0856301). For more information about using Customer Service Management with [[employee-health-screening|Employee Health Screening]], see [Integrate Customer Service Management with Safe Workplace applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-safe-workplace.md).
+**Note:** If the ServiceNow® Customer Service Management application is activated, consumers and contacts can access the health verification form on the Consumer or Customer Service Portals. To set up the health verification form on the portals, [allow external users access to "Health Verification" catalog item \(KB0856301\)](https://support.servicenow.com/kb_view.do?sysparm_article=KB0856301). For more information about using Customer Service Management with Employee Health Screening, see [Integrate Customer Service Management with Safe Workplace applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-safe-workplace.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Typically, you receive an email or a mobile notification from your organization 
 
     -   Click the link provided by your organization.
     -   In your organization's ServiceNow instance, navigate to **Employee Health Screening** &gt; **Health Verification**.
-    -   In the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Follow these safety practices** &gt; **Verify my health**.
+    -   In the Now Mobile app, navigate to **Health** &gt; **Follow these safety practices** &gt; **Verify my health**.
     \[Omitted image "health-verify-form.png"\] Alt text: Health verification form with the user agreement selected.
 
 2.  Carefully read the form and evaluate whether you can honestly answer that you agree.
@@ -84,7 +84,3 @@ Your organization may have health monitors at entrances to check that you comple
 
 [Review daily health verification acknowledgements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/daily-health-verif-review-outreach-acks.md)
 
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]
-- [[mobile-employee-experience|Now Mobile app]]

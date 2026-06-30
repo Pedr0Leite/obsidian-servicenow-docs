@@ -14,7 +14,7 @@ breadcrumb: [Audit Supervisor Workspace, Audit Workspace Overview, Audit Managem
 
 # Create an issue for an engagement
 
-Create an issue to document policy, risk, or [[audit-observations|audit observations]], or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
+Create an issue to document policy, risk, or audit observations, or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon.\).
 
@@ -430,7 +430,4 @@ Public information about the issue.
 </td></tr></tbody>
 </table>8.  Click **Save**.
 
-## Related
 
-- [[audit-observations|Audit observations]]
-- [[audit-management-overview-ws|Audit Workspace]]

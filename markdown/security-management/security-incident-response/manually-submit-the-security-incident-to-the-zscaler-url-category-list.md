@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integration with Zscaler, Security Incid
 
 # Submit the security incident to the Zscaler URL category list
 
-Submit entries directly for [[c_Observables|observables]] that are not associated with a specific ServiceNow AI Platform security incident record so that observable entries are in the appropriate allow or deny lists.
+Submit entries directly for observables that are not associated with a specific ServiceNow AI Platform security incident record so that observable entries are in the appropriate allow or deny lists.
 
 ## Before you begin
 
@@ -131,6 +131,4 @@ Field where you can add more details about the observable.
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[c_Observables|Observables]]

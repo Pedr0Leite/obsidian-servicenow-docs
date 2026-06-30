@@ -14,13 +14,13 @@ breadcrumb: [Report on service catalog variables, Advanced Core UI reporting top
 
 # Use service catalog variables in a report
 
-In reports on service catalog data, stack and group by variables, use variables as columns in [[list-reports|list reports]], and as columns and rows in [[c_MultilevelPivotCharts|multilevel pivot tables]].
+In reports on service catalog data, stack and group by variables, use variables as columns in list reports, and as columns and rows in multilevel pivot tables.
 
 ## Before you begin
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-Users with the report\_admin role can [[rep-service-catalog-variables|report on service catalog variables]]. Add the report\_admin role to the ACLs for the Options \[sc\_item\_option\], Variable Ownership \[sc\_item\_option\_mtom\], and Variables \[item\_option\_new\] tables.
+Users with the report\_admin role can report on service catalog variables. Add the report\_admin role to the ACLs for the Options \[sc\_item\_option\], Variable Ownership \[sc\_item\_option\_mtom\], and Variables \[item\_option\_new\] tables.
 
 **Note:**
 
@@ -33,7 +33,7 @@ For primary **Group by** and **Stack by**, these steps are intuitive.
 
 \[Omitted image "VariableGroupByStackBy.png"\] Alt text: Service catalog variable use in Group by and Stack by fields.
 
-**Note:** List, Box, Trendbox, and Pivot reports cannot use service catalog variables as a primary or secondary **Group by**. Single Score, Calendar, Control, and [[c_MapReport|Map reports]] do not support **Group by** on any fields. List reports can use service catalog variables as columns.
+**Note:** List, Box, Trendbox, and Pivot reports cannot use service catalog variables as a primary or secondary **Group by**. Single Score, Calendar, Control, and Map reports do not support **Group by** on any fields. List reports can use service catalog variables as columns.
 
 Use a variable as an extra **Group by**, as a column in a list report, or as a column or row in a multilevel pivot table.
 
@@ -87,9 +87,3 @@ Click **Select columns** or **Select rows**, then select **Variables+** at the b
 
 **Parent Topic:**[Report on service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/rep-service-catalog-variables.md)
 
-## Related
-
-- [[list-reports|List reports]]
-- [[c_MultilevelPivotCharts|Multilevel pivot tables]]
-- [[rep-service-catalog-variables|Report on service catalog variables]]
-- [[c_MapReport|Map reports]]

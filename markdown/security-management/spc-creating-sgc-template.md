@@ -12,13 +12,13 @@ breadcrumb: [Use the workspace, Security Posture Control, Security Operations]
 
 # Creating your own API connectors in Security Posture Control
 
-Create your own [[spc-landing|Security Posture Control]] \(SPC\) API connectors using the connector framework that is included with the application.
+Create your own Security Posture Control \(SPC\) API connectors using the connector framework that is included with the application.
 
 ## Overview for the connector builder framework
 
 ## Benefits
 
-Create your own SPC API connectors quickly to help you [[integrating-threat-intelligence-security-center|integrate]] with security [[tools|tools]] and import asset data that is based on the unique requirements of your environment. Use imported data to help you monitor your overall security posture and identify assets that are missing key security tools.
+Create your own SPC API connectors quickly to help you integrate with security tools and import asset data that is based on the unique requirements of your environment. Use imported data to help you monitor your overall security posture and identify assets that are missing key security tools.
 
 The connector framework includes the following features.
 
@@ -32,13 +32,13 @@ You use the Connector builder in the Security Posture Control workspace to creat
 
 ## Prerequisites
 
-Before you start creating your API connector, you might prefer to set up any credentials for the service \(vendor\) that you want to implement with and have their API documentation and credentials handy as you work through the Connector builder. See [[spc-sgc-template-stepper1|Enter metadata]] for more information.
+Before you start creating your API connector, you might prefer to set up any credentials for the service \(vendor\) that you want to implement with and have their API documentation and credentials handy as you work through the Connector builder. See [Enter metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-sgc-template-stepper1.md) for more information.
 
 ## Required applications and plugins
 
 The following applications and plugins are required.
 
-For more information about applications in the ServiceNow® Store, see [Exploring the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-servicenow-store.md) and downloading and activating applications [[download-app-first-time|Download an application from the ServiceNow Store for the first time]].
+For more information about applications in the ServiceNow® Store, see [Exploring the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/exploring-servicenow-store.md) and downloading and activating applications [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 **Note:** If you're downloading applications to non-production or development instances, it's not necessary to get entitlements.
 
@@ -64,13 +64,5 @@ Assign the sn\_sec\_spc\_core.developer role to the users who you want to view a
 
 Assign the sn\_spc\_cxf.admin role if you want users to configure SPC API connectors with advance scripting with the Connector builder.
 
-See [[spc-install|Install the supported applications for Security Posture Control]] for information about assigning roles to Security Posture Control groups.
+See [Install the supported applications for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install.md) for information about assigning roles to Security Posture Control groups.
 
-## Related
-
-- [[spc-sgc-template-stepper1|Enter metadata]]
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[spc-install|Install the supported applications for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[tools|Tools]]

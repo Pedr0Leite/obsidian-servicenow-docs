@@ -34,13 +34,13 @@ You can also perform changes on a building using a floor map directly. Refer to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  Select the **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space Optimization icon.\).
+2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space Optimization icon.\).
 
     The Space optimization dashboard opens.
 
@@ -130,9 +130,3 @@ You can also perform changes on a building using a floor map directly. Refer to 
 
 **Parent Topic:**[View or edit space allocations of a building](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-or-edit-space-alloctions-of-a-building.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]

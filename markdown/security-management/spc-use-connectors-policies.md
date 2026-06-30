@@ -12,7 +12,7 @@ breadcrumb: [Explore, Security Posture Control, Security Operations]
 
 # Service Graph Connectors for Security Posture Control
 
-[[spc-landing|Security Posture Control]] relies on API integrations or Service Graph Connectors as a key source for the asset data used to identify security gaps.
+Security Posture Control relies on API integrations or Service Graph Connectors as a key source for the asset data used to identify security gaps.
 
 Security Posture Control currently supports service graph connectors \(SGC\)s that can provide you with a wide variety of data about your assets. These integration applications are available from the ServiceNow Store.
 
@@ -26,7 +26,7 @@ Service graph connectors supported by Security Posture Control currently include
 -   Discovery
 -   Endpoint Management: Microsoft Intune or Jamf Device and Endpoint Management.
 -   IT Asset Management
--   [[threat-intelligence-infrastructure|Infrastructure]] Monitoring
+-   Infrastructure Monitoring
 -   Networking
 -   Network Security
 -   Network Performance Monitoring
@@ -44,21 +44,13 @@ After you install them, you can view the connectors and their categories on the 
 
 You can view Asset types and how they map to CI classes and Connectors on the \[sn\_sec\_spc\_core\_asset\_type\_connector\] table.
 
-See [[scp-hw-connectors-ci-classes|Supported hardware service graph connectors for Security Posture Control]] and [[spc-connector-types-ci-classes|Supported software service graph connectors for Security Posture Control]] for more information and examples of these tables. Although not extensive lists, you can see how the supported connectors provide a wide variety of data.
+See [Supported hardware service graph connectors for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/scp-hw-connectors-ci-classes.md) and [Supported software service graph connectors for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-connector-types-ci-classes.md) for more information and examples of these tables. Although not extensive lists, you can see how the supported connectors provide a wide variety of data.
 
 Security Posture Control supports ServiceNow products such as Software Asset Management \(SAM\) and Hardware Asset Management \(HAM\) that you can use along with service graph connectors to help you to look for any discrepancies that exist between the installed software reported by your vulnerability scanner products and the software reported by scanners that is already accounted for in SAM and other ServiceNow products.
 
 For more information about downloading, configuring, and activating supported applications for service graph connectors, see the following topics:
 
 -   [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-sgc-available.md).
--   [[download-app-first-time|Download an application from the ServiceNow Store for the first time]].
--   [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+-   [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
+-   [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
-## Related
-
-- [[scp-hw-connectors-ci-classes|Supported hardware service graph connectors for Security Posture Control]]
-- [[spc-connector-types-ci-classes|Supported software service graph connectors for Security Posture Control]]
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[spc-landing|Security Posture Control]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

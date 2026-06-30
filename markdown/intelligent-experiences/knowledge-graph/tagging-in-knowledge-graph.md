@@ -14,7 +14,7 @@ breadcrumb: [Using Enterprise graph schema, Knowledge Graph, Enable AI experienc
 
 # Tagging in Knowledge Graph Designer
 
-Use [[knowledge-graph-landing|Knowledge graph]] tags to mark the key tables, that are important for answering natural language questions for specific use [[cases|cases]].
+Use Knowledge graph tags to mark the key tables, that are important for answering natural language questions for specific use cases.
 
 Use Knowledge Graph Designer to create and edit tags from the **Enterprise Graph Tags** section.
 
@@ -42,7 +42,7 @@ Enterprise Graph \(Small\)
 
 Provides a list of tables to run the search operation. Enterprise Graph \(Small\) will only search on the tables provided by tags.
 
- It is mandatory to add a tag when Enterprise Graph \(Small\) is used with any of the prebuilt integration with AI agent, Virtual Agent or [[now-assist-center-now-assist-panel|Now Assist Panel]].
+ It is mandatory to add a tag when Enterprise Graph \(Small\) is used with any of the prebuilt integration with AI agent, Virtual Agent or Now Assist Panel.
 
  You can tag a maximum of 50 tables.
 
@@ -62,7 +62,7 @@ Follow these steps to create or edit tags:
 
 -   Go to the Knowledge Graph Designer to view the existing tags and their associated tables. You can use an existing tag, edit one to fit your needs, or create a new tag for your particular use case.
 -   Navigate to the admin center for consuming apps.
-    -   For the [[platform-now-assist-landing|Now Assist]] Virtual Agent or Now Assist Panel, go to your virtual agent’s setup, select Information Sources, and open the Knowledge Graph.
+    -   For the Now Assist Virtual Agent or Now Assist Panel, go to your virtual agent’s setup, select Information Sources, and open the Knowledge Graph.
     -   For AI agent, proceed to its setup and open the Knowledge Graph tool for the AI agent.
 -   Select Enterprise graph or Enterprise Graph \(Small\) as the KG schema and select the required tag from Tag drop down to link it to graph schema.
 
@@ -75,12 +75,6 @@ Follow these steps to create or edit tags:
     -   An individual tag for each workspace that encompasses key tables relevant to that workspace. This ensures the Now Assist panel can deliver responses specific to queries related to the workspace tables when accessed within each workspace.
     -   Create a general tag that includes the most important tables required to answer users questions on Now Assist panel, allowing the Now Assist panel to provide relevant answers when used outside of any workspace.
     -   For more information on adding workspace tags in Now Assist Panel, see .
--   AI agent: For an AI agent use case, include key tables relevant to the agent's purpose. For example, for asset manager agents User, Asset, and other crucial tables should be included in the tag. For more information, see [[add-knowledge-graph|Add a Knowledge Graph to an AI agent]].
+-   AI agent: For an AI agent use case, include key tables relevant to the agent's purpose. For example, for asset manager agents User, Asset, and other crucial tables should be included in the tag. For more information, see [Add a Knowledge Graph to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-knowledge-graph.md).
 
-## Related
 
-- [[add-knowledge-graph|Add a Knowledge Graph to an AI agent]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[cases|Cases]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]

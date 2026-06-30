@@ -144,7 +144,7 @@ Create an Okta integration profile in your ServiceNow instance.
 
 ### Before you begin
 
-To create an Okta integration profile, request the [[c_SoftwareAssetMgmt|Software Asset Management]] - [[sam-subscription-management|SaaS License Management]] plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
+To create an Okta integration profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
 
 ServiceNow Role required: sam\_integrator
 
@@ -154,7 +154,7 @@ ServiceNow Role required: sam\_integrator
 
 **Note:** Starting with version 7.0.0 of Software Asset Management - SaaS License Management and version 4.1.2 of the Okta spoke, your ServiceNow instance creates a separate Okta connection for each Okta integration profile that you create. Each connection runs independently of each other, which enables your instance to support multiple independent Okta integration profiles.
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the Okta integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the Okta integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -181,7 +181,7 @@ Action
 
 </td></tr><tr><td id="d237830e566">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -341,7 +341,7 @@ Select the **Create New Connection &amp; Credential** related link on the SSO in
 
 ### Result
 
-Both scheduled jobs and directory jobs download a list of all applications, users, groups, and software subscriptions that are associated with your Okta application. View the status of your job in the **Scheduled Jobs Results** and **Directory Job Results** tabs of your integration profile. Software Asset Management automatically creates [[c_CreatingSoftwareModels|software models]] for applications with an external catalog ID that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product-definition\] table.
+Both scheduled jobs and directory jobs download a list of all applications, users, groups, and software subscriptions that are associated with your Okta application. View the status of your job in the **Scheduled Jobs Results** and **Directory Job Results** tabs of your integration profile. Software Asset Management automatically creates software models for applications with an external catalog ID that matches an **Identifier** in the Subscription Product Definitions \[samp\_sw\_subscription\_product-definition\] table.
 
 ### What to do next
 
@@ -436,7 +436,7 @@ If you have already created a direct integration for an application, then connec
 
 4.  Select the **Enable group based software model** check box for mapping an SSO group with a specific software model for the application.
 
-    For example, if an application has multiple license [[c_Models|models]] that are linked to specific groups, then you can map a group to a software model to optimize license usage.
+    For example, if an application has multiple license models that are linked to specific groups, then you can map a group to a software model to optimize license usage.
 
     **Important:** If you select this option, you must create a mapping for the SSO group before connecting the application. After the mapping is complete, the SSO subscriptions get automatically created or updated according to the mapped software model. For more information, see [Create an SSO group software model mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-ssogrp-swmodel-mapping.md).
 
@@ -455,7 +455,7 @@ If you have already created a direct integration for an application, then connec
 
 After the SSO application connects, your ServiceNow instance automatically creates users, groups, subscriptions, and reclamation rules that are refreshed daily. If you delete a user, application, group, or group membership from the Okta Developer Console, the changes are reflected on your ServiceNow instance.
 
-Review all automatically generated reclamation rules to confirm that they meet your specifications for [[reclaiming-user-subscriptions-saas|reclaiming user subscriptions]]. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
+Review all automatically generated reclamation rules to confirm that they meet your specifications for reclaiming user subscriptions. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
 After connecting the SSO application, view information about the SSO profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **SSO integration profiles**. You can select an integration profile to view the following related lists.
 
@@ -473,12 +473,3 @@ Create software entitlements for the automatically generated software models to 
 
 Reconciliation also runs on your subscriptions as a scheduled job or on-demand. You can view your reconciliation results in the [License Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md) \(Software Asset Management classic application\) or the [License usage view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-workspace-workbench.md) \(Software Asset Workspace\). Use these results to determine your license compliance position and to remediate any non-compliance. For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md). For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[reclaiming-user-subscriptions-saas|Reclaiming user subscriptions]]

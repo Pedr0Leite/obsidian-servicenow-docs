@@ -34,13 +34,10 @@ Setup the **Field Service Order Configuration** to book an appointment for work 
 
 4.  In the related list, select the work order or work order task number for which you would like to book an appointment.
 
-5.  Use the [[appointment-booking|appointment booking]] widget to schedule an appointment.
+5.  Use the appointment booking widget to schedule an appointment.
 
 
 ## Result
 
 When work order task is accepted by the assigned technician, customer receives SMS and email notification that their appointment is confirmed.
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

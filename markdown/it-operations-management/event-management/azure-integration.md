@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Azure Monitor as an authenticated data source
 
-Integrate Microsoft Azure with [[c_EM|Event Management]] by adding the Azure Monitor as an authenticated data source.
+Integrate Microsoft Azure with Event Management by adding the Azure Monitor as an authenticated data source.
 
 You can configure the Event Management environment for the collection of events from Azure Monitor by setting your ServiceNow AI Platform instance as the rest endpoint.
 
@@ -38,11 +38,11 @@ You can use your integrated Azure Monitor as a data source only after you have v
 
 -   For both methods of authentication, the relevant ServiceNow sys\_user is assigned the evt\_mgmt\_integration role.
 -   The Event Management Connectors plugin is installed in the ServiceNow AI Platform instance. You can download the plugin from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website.
--   Azure Cloud [[r-discovery|Discovery]] must be performed to ensure that the created alerts are bound to the configuration items in the ServiceNow AI Platform. For more information, see [Discovery for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-cloud-discovery.md).
+-   Azure Cloud Discovery must be performed to ensure that the created alerts are bound to the configuration items in the ServiceNow AI Platform. For more information, see [Discovery for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-cloud-discovery.md).
 
 ## Event Rules and Event Field mappings
 
-These [[create-event-rules|event rules]] and event field mappings are provided with the base system:
+These event rules and event field mappings are provided with the base system:
 
 |Module|Description|
 |------|-----------|
@@ -84,8 +84,3 @@ The Azure Monitor Pull connector sends information from ServiceNow Event Managem
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[create-event-rules|Event rules]]

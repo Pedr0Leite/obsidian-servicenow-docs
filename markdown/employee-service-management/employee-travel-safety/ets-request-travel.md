@@ -22,7 +22,7 @@ Use the following process when requesting permission to travel:
 
 1.  From your service portal or Employee Service Center \(ESC\), request permission to travel.
 2.  An email is sent to your manager to approve or reject the request. The email has a link to the travel request.
-3.  After approval, the **Additional comments** field on the [[employee-travel-safety|Employee Travel Safety]] Request form is updated with the travel destination and details on the number of COVID-19 cases for the past 14 days for the location.
+3.  After approval, the **Additional comments** field on the Employee Travel Safety Request form is updated with the travel destination and details on the number of COVID-19 cases for the past 14 days for the location.
 4.  Travel requesters can request travel on the **Catalog** or **Request Something** tabs in the service portal.
 5.  Travel requesters can request travel on the **Catalog** tab in the ESC.
 6.  Travel requesters can check the status of their requests on the **Requests** tab in the service portal or the ESC.
@@ -42,7 +42,7 @@ Role required: none
 
 1.  Navigate to **All** &gt; **Employee Travel Safety** &gt; **Request Travel**.
 
-    **Note:** To create a travel request in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Request Travel Permission**.
+    **Note:** To create a travel request in the Now Mobile app, navigate to **Health** &gt; **Follow These Safety Practices** &gt; **Request Travel Permission**.
 
 2.  On the form, fill in the fields.
 
@@ -74,7 +74,3 @@ Depending on your organization's policies, you may need to complete daily health
 
 To view all your travel requests, navigate to **Employee Travel Safety** &gt; **My Requests**.
 
-## Related
-
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[mobile-employee-experience|Now Mobile app]]

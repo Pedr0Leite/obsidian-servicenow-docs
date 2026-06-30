@@ -174,8 +174,5 @@ Description
 Description of the business location.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
-## Related
-
-- [[repair-form|Repair form]]

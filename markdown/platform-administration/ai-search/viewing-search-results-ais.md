@@ -14,7 +14,7 @@ breadcrumb: [Search, AI Search, Search administration, Configure core features, 
 
 # Viewing search results in AI Search
 
-Learn about the components that [[ia-ai-search|AI Search]] uses to display [[hs-results|results]] for search queries.
+Learn about the components that AI Search uses to display results for search queries.
 
 ## Search result page elements
 
@@ -123,7 +123,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-1. [[typo-handling-ais|Typo handling]] auto-correction message and link to original search term
+1. Typo handling auto-correction message and link to original search term
 
 </td><td>
 
@@ -132,8 +132,3 @@ Displays the auto-corrected query term used for the search. To repeat the search
 </td></tr></tbody>
 </table>**Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[typo-handling-ais|Typo handling]]

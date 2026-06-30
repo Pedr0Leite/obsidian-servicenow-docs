@@ -14,7 +14,7 @@ breadcrumb: [Configuring Incident Management, Incident Management, IT Service Ma
 
 # Quick start tests for Incident Management
 
-Validate that [[c_IncidentManagement|Incident Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Incident Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Incident Management quick start tests require activating the Incident Management - ATF Tests plugin \(com.snc.incident.atf\).
 
@@ -45,6 +45,3 @@ Incident Management quick start tests require activating the Incident Management
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

@@ -23,7 +23,7 @@ Role required: evt\_mgmt\_user, evt\_mgmt\_operator, or evt\_mgmt\_admin
 
 ## About this task
 
-The enhanced service map in [[workspace-dashboard-use|Service Operations Workspace]] displays the impacted path of an alert to enable you to quickly assess its impact on a service. You can access the enhanced service map directly from the Service Dashboard, or from the preview panel or from an impacted service in the Express List.The service map has several modes of display:
+The enhanced service map in Service Operations Workspace displays the impacted path of an alert to enable you to quickly assess its impact on a service. You can access the enhanced service map directly from the Service Dashboard, or from the preview panel or from an impacted service in the Express List.The service map has several modes of display:
 
 -   For a service with up to 60 CIs, regardless of alert status, the map shows all CIs.
 -   For a service with more than 60 CIs without alerts, the map shows up to 60 CIs.
@@ -86,6 +86,3 @@ You can also investigate a wider view of the service topology on the service map
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

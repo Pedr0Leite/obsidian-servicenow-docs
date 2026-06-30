@@ -18,13 +18,13 @@ Service Portal allows you to build a mobile-friendly self-service portal experie
 
 \[Omitted video\] Description: Using widgets with Service Portal
 
-Both beginner and expert developers can [[configure-onboarding-modals|configure]] portals using Service Portal. Less technical users can make basic configuration changes to the UI using Branding Editor and other components of Service Portal. More advanced users can edit and extend portals, pages, and widgets. Expert users can use the Widget Editor tool to write scripts to power a portal, and even create rich web applications on the ServiceNow AI Platform.
+Both beginner and expert developers can configure portals using Service Portal. Less technical users can make basic configuration changes to the UI using Branding Editor and other components of Service Portal. More advanced users can edit and extend portals, pages, and widgets. Expert users can use the Widget Editor tool to write scripts to power a portal, and even create rich web applications on the ServiceNow AI Platform.
 
 ## Get started
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[exploring|explore]].svg"\] Alt text:Learn about how administrators, developers, and end users use portals built with Service Portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/exploring-service-portal.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about how administrators, developers, and end users use portals built with Service Portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/exploring-service-portal.md)
 
 </td><td>
 
@@ -49,13 +49,8 @@ Both beginner and expert developers can [[configure-onboarding-modals|configure]
 </td></tr></tbody>
 </table>## Troubleshoot and get help
 
--   To learn more about [[whats-new|what's new]] and what's changed in Australia, see the [Service Portal release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/service-portal-rn.md).
+-   To learn more about what's new and what's changed in Australia, see the [Service Portal release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/service-portal-rn.md).
 -   [Ask or answer questions in the ServiceNow AI Platform community forum](https://www.servicenow.com/community/now-platform/ct-p/now-platform)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[exploring|Explore]]
-- [[whats-new|What's New]]

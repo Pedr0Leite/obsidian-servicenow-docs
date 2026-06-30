@@ -15,13 +15,13 @@ breadcrumb: [Now Assist for ITOM, IT Operations Management]
 
 # Use generative AI in Now Assist for ITOM
 
-Use the ServiceNow® [[now-assist-itom|Now Assist for ITOM]] application to view alert or incident analyses that Now Assist creates using generative AI.
+Use the ServiceNow® Now Assist for ITOM application to view alert or incident analyses that Now Assist creates using generative AI.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 Alert analyses include human-readable briefs of the alert and additional technical information to help you investigate the alert more effectively. The analyses are provided in English, irrespective of the language used in the alert description.
 
-For more information about the ServiceNow® Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) application, see [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
+For more information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application, see [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
@@ -34,7 +34,7 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 See the following documentation to learn more about using Now Assist for ITOM skills.
 
 -   **[View an alert analysis by Now Assist in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-summarization-now-assist.md)**  
-View an alert analysis by Now Assist for an alert on the alert's Overview tab in the [[workspace-dashboard-use|Service Operations Workspace]]. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
+View an alert analysis by Now Assist for an alert on the alert's Overview tab in the Service Operations Workspace. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
 -   **[View an alert analysis by Now Assist in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-summary-now-assist-express-list.md)**  
 View an alert analysis created by Now Assist using generative AI. Alert analyses include a human-readable brief of the alert and technical information to help you investigate the alert more effectively.
 -   **[View an alert group analysis by Now Assist in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/alert-group-analysis-el.md)**  
@@ -52,16 +52,9 @@ Create an incident with a human-readable, AI-generated description from the Expr
 -   **[Speed up alert resolution with a Now Assist analysis of past related incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/nai-past-incidents.md)**  
 Use Now Assist to investigate relevant past incidents and present effective strategies used to resolve them.
 -   **[Analyze a dashboard in Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/analyze-a-dashboard-in-service-observability.md)**  
-Use the analyze [[service-observability|Service Observability]] dashboard skill to view an analysis of a single Service Observability dashboard.
+Use the analyze Service Observability dashboard skill to view an analysis of a single Service Observability dashboard.
 -   **[Analyze service health in Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/analyze-service-health-in-service-observability.md)**  
-Use the Analyze Service Health skill to view an analysis of all Service Observability [[otto-aiops-dashboards|dashboards]] for the selected service.
+Use the Analyze Service Health skill to view an analysis of all Service Observability dashboards for the selected service.
 
 **Parent Topic:**[Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md)
 
-## Related
-
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]

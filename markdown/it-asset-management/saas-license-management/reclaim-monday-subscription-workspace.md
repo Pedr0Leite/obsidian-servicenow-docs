@@ -18,7 +18,7 @@ Reclaim unused monday.com subscriptions to reduce your total software costs.
 
 ## Before you begin
 
-To [[reclaim-user-subscription-saas-workspace|reclaim user subscriptions in the Software Asset Workspace]], you must request and activate the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
+To reclaim user subscriptions in the Software Asset Workspace, you must request and activate the Software Asset Workspace \(sn\_sam\_workspace\) store application. See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) for more details on requesting and activating the Software Asset Workspace \(sn\_sam\_workspace\) store application.
 
 monday.com Role required: admin
 
@@ -26,7 +26,7 @@ ServiceNow Role required: sam\_user
 
 ## About this task
 
-The [[sam-subscription-management|SaaS License Management]] monday.com integration doesn’t support reclamation through the ServiceNow AI Platform. When [[c_SoftwareAssetMgmt|Software Asset Management]] creates a removal candidate for your monday.com integration, you can reclaim the user subscription by deactivating the associated user on your monday.com account. After you deactivate the user, you must update the state of the removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table.
+The SaaS License Management monday.com integration doesn’t support reclamation through the ServiceNow AI Platform. When Software Asset Management creates a removal candidate for your monday.com integration, you can reclaim the user subscription by deactivating the associated user on your monday.com account. After you deactivate the user, you must update the state of the removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ The [[sam-subscription-management|SaaS License Management]] monday.com integrati
 
     2.  From the side navigation menu of the Software Asset Workspace, select **License usage**.
 
-        The [[sam-workspace-workbench|License usage view]] opens.
+        The License usage view opens.
 
     3.  On the **Publishers** tab of the License usage view, select **monday.com Ltd.** from the list of available publishers.
 
@@ -103,10 +103,3 @@ The [[sam-subscription-management|SaaS License Management]] monday.com integrati
 
 **Parent Topic:**[Reclaim user subscriptions in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaim-user-subscription-saas-workspace.md)
 
-## Related
-
-- [[reclaim-user-subscription-saas-workspace|Reclaim user subscriptions in the Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace-workbench|License usage view]]

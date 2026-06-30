@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Functions** from the menu and then select **New**.
 
@@ -82,7 +82,7 @@ Context
 
 Context for your smart button. Select from:-   **Record**
 -   **Global**
-Use **Record** context [[mobile-nav-functions|navigation functions]] in situations where the navigation depends on information from a record. For example, you want to navigate from the **Assigned to** field in an incident record to the assignee's user record.
+Use **Record** context navigation functions in situations where the navigation depends on information from a record. For example, you want to navigate from the **Assigned to** field in an incident record to the assignee's user record.
 
 Use **Global** context navigation functions in situations where the navigation does not depend on information from a record.
 
@@ -185,10 +185,10 @@ Button attributes
 \(Optional\) Specifies an additional attribute for your smart button. Select **New** to create one of the following button attributes:
 
  -   **alerts\_require\_dismissal**: When set to `true`, this button attribute enables the banner messages to persist until the user dismisses it. By default, banner messages are automatically dismissed.
--   **used\_for\_deeplink**: When set to `true`, this button attribute specifies that the button is used for deep linking. For more information, see [[deep-link-mobile|Deep linking for mobile]].
+-   **used\_for\_deeplink**: When set to `true`, this button attribute specifies that the button is used for deep linking. For more information, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 -   **trigger\_offline\_cache\_download**: When set to `true`, this button attribute triggers offline cache generation. After the cache is successfully generated, a download of it is triggered.
 -   **check\_acl\_on\_url\_parameter\_field**: When set to `true`, any field in the URL string, is checked against the ACL \(access control list\). For example, a string like `{{meeting_id}}`. If a field does not pass this check, the field value is not included in the URL. By default, the URL parameter field is not checked against the ACL for backward compatibility.
--   **hidden\_attachment\_sources**: Enter values in the **Value** field from where you don’t want images sourced from. Values can be `camera`, `files` or `gallery`, or any combination separated by commas. If this field is left blank, then images and files can be sourced from all locations. For more information, see [[attachment-source-define|Define attachment sources available to users]].
+-   **hidden\_attachment\_sources**: Enter values in the **Value** field from where you don’t want images sourced from. Values can be `camera`, `files` or `gallery`, or any combination separated by commas. If this field is left blank, then images and files can be sourced from all locations. For more information, see [Define attachment sources available to users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/attachment-source-define.md).
 
 
 </td></tr><tr><td>
@@ -207,13 +207,5 @@ Limit user access to an action by role.
 
 ## What to do next
 
-After you create a smart button function, you must associate it with a specific location in the mobile app. You can add a smart button function to a top menu, a swipe action, or to a specific field. For more information on associating the smart button function to a location, see [[sg-studio-button-instances|Associate a function with a location in the app]].
+After you create a smart button function, you must associate it with a specific location in the mobile app. You can add a smart button function to a top menu, a swipe action, or to a specific field. For more information on associating the smart button function to a location, see [Associate a function with a location in the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-button-instances.md).
 
-## Related
-
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[attachment-source-define|Define attachment sources available to users]]
-- [[sg-studio-button-instances|Associate a function with a location in the app]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-nav-functions|Navigation functions]]

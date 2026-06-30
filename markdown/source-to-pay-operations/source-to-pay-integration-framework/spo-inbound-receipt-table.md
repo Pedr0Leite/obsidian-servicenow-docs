@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Receipt inbound staging table
 
-The Receipt inbound \[sn\_fcms\_intg\_imp\_receipt\] staging table temporarily stores important data about [[receipts|receipts]] before this data is sent to the primary table.
+The Receipt inbound \[sn\_fcms\_intg\_imp\_receipt\] staging table temporarily stores important data about receipts before this data is sent to the primary table.
 
 The following table lists the mandatory fields for the Receipt inbound \[sn\_fcms\_intg\_imp\_receipt\] staging table.
 
@@ -40,7 +40,7 @@ String
 
 </td><td>
 
-[[purchase-order-table|Purchase order]] line number from the ERP system.
+Purchase order line number from the ERP system.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Unique number generated within the ERP system for the receipt.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -76,7 +76,7 @@ String
 
 </td><td>
 
-ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the [[legal-entity|legal entity]] associated with these records.
+ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ Current state of the receipt.
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] product
+Supplier product
 
 </td><td>
 
@@ -240,10 +240,3 @@ Type of the receipt based on the product type. For example, Goods Receipt or Ser
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[receipts|Receipts]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]

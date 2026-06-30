@@ -22,12 +22,10 @@ Role required: sn\_cmp.cloud\_service\_user
 
 ## Procedure
 
-1.  On the **[[cloudmgt-cloud-user-portal|Cloud User Portal]]**, click **Activities**.
+1.  On the **Cloud User Portal**, click **Activities**.
 
 2.  In the **Activities** list, select **Manage** &gt; **Keys**.
 
 3.  Click a key in the **SSH Key Pair** list and then click **Download Private Key** in the **SSH private key** section.
 
-## Related
 
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

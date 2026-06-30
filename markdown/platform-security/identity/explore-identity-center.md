@@ -14,16 +14,11 @@ breadcrumb: [Identity Center, Identity]
 
 # Exploring Identity Center
 
-[[identity-center|Identity Center]] is a collection of user attributes, access, devices, login history, security activity, and much more.
+Identity Center is a collection of user attributes, access, devices, login history, security activity, and much more.
 
-Identity Center offers capabilities to monitor, manage, and minimize [[identity-landing|identity]]-based risk and security gaps.
+Identity Center offers capabilities to monitor, manage, and minimize identity-based risk and security gaps.
 
 Identity Center is one stop to monitor, manage, and minimize identity-based risk and security gaps on ServiceNow.
 
-To activate the Identity Center, install the Identity Center \(`com.snc.identity_center`\) plugin. Identity Center is available for the end user - to view the details about the [[sc-active-sessions|active sessions]], login history, and trusted devices with the Identity Center. For more information see, [Identity Center for users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-user.md).
+To activate the Identity Center, install the Identity Center \(`com.snc.identity_center`\) plugin. Identity Center is available for the end user - to view the details about the active sessions, login history, and trusted devices with the Identity Center. For more information see, [Identity Center for users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/identity-center-for-user.md).
 
-## Related
-
-- [[identity-center|Identity Center]]
-- [[identity-landing|Identity]]
-- [[sc-active-sessions|Active Sessions]]

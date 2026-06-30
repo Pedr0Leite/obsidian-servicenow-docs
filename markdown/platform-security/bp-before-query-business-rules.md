@@ -12,11 +12,11 @@ breadcrumb: [Recommended practices for service providers, Domain separation for 
 
 # Before Query business rules
 
-You can use a Before Query business rule to help support data segregation on an instance. ServiceNow applications that support domain separation may support the separation of data and data routing only, have advanced [[sc-business-logic|business logic]] separation, or support tenant \(customer\) level administration of the application.
+You can use a Before Query business rule to help support data segregation on an instance. ServiceNow applications that support domain separation may support the separation of data and data routing only, have advanced business logic separation, or support tenant \(customer\) level administration of the application.
 
 A Before Query business rule is supplementary code that you use to support data segregation within domain-separated environments.
 
-**Warning:** Do not use the Before Query business rule in place of the [[domain-sep-plugin|Domain Separation plugin]]. This business rule does not prevent data leakage as securely as the plugin.
+**Warning:** Do not use the Before Query business rule in place of the Domain Separation plugin. This business rule does not prevent data leakage as securely as the plugin.
 
 ## Using the Before Query business rule for data segregation
 
@@ -35,7 +35,7 @@ You can use the Before Query business rule with data segregation in these situat
 
 You can script Before Query business rules to prevent parent and child table access based on a combination of user information, group memberships, companies, roles, or record-specific field conditions. Before Query business rules are put into separate domains and created to apply globally, to a specific branch of a domain hierarchy.
 
--   Where you can, create Before Query business rules at the lowest possible part of the domain hierarchy so that the rule runs only for [[users|users]] that it applies to.
+-   Where you can, create Before Query business rules at the lowest possible part of the domain hierarchy so that the rule runs only for users that it applies to.
 -   Know that there are scenarios in the system where business rules may not run or where a user-triggered interaction may not trigger a business rule to run. For example, a business rule won't run when you have transform maps with Run business rules turned off, or you have scripts with the workflow disabled.
 -   Always populate the condition field to specify when the rule runs. For example, you can specify if the business rule applies only to certain vendors in a domain.
 
@@ -44,7 +44,7 @@ You can script Before Query business rules to prevent parent and child table acc
 -   Use Before Query business rules only when necessary. Too many Before Query rules can affect how your instance performs.
 
 
-Before Query business rules run before [[sc-access-control|access control]] lists \(ACLs\) and perform better in general. This is true especially when you limit the returned results to those users in service provider \(SP\) environments who have access to several domains in the system.
+Before Query business rules run before access control lists \(ACLs\) and perform better in general. This is true especially when you limit the returned results to those users in service provider \(SP\) environments who have access to several domains in the system.
 
 **Note:** Filtering the data is transparent \(unlike with ACLs\) to users who do not see the message `Data Security restricts….` when interacting with data.
 
@@ -60,7 +60,7 @@ For companies with many customers in many instances, excessive use of Before que
 
 You can enable domain separation with a ServiceNow plugin. A product manager, supported by a development team, manages the functionality. Enhancements and fixes for domain separation functionality are included with ServiceNow releases. Instance owners can consult Customer Service and Support resources, such as the Service Portal, at [https://support.servicenow.com](https://support.servicenow.com) for assistance with domain separation.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -99,7 +99,7 @@ You can enable domain separation with a ServiceNow plugin. A product manager, su
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -115,11 +115,3 @@ You can enable domain separation with a ServiceNow plugin. A product manager, su
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sc-business-logic|Business Logic]]
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[logs|Logs]]

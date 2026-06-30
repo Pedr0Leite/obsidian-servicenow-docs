@@ -24,11 +24,11 @@ Role required: sn\_si.ingestion\_profile\_admin
 
 ## About this task
 
-Before ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents are created from ingested notable events, the field values from alerts are displayed on a layout of a ServiceNow AI Platform security incident so that you can preview how the actual security incident will be created.
+Before ServiceNow AI Platform Security Incident Response \(SIR\) security incidents are created from ingested notable events, the field values from alerts are displayed on a layout of a ServiceNow AI Platform security incident so that you can preview how the actual security incident will be created.
 
-From an integration perspective using the available APIs, Splunk ES notable events are forwarded individually and manually as discrete notable events, or they’re automatically ingested into the [[security-operations-landing-page|Security Operations]] environment of your ServiceNow AI Platform instance depending on the profile type defined.
+From an integration perspective using the available APIs, Splunk ES notable events are forwarded individually and manually as discrete notable events, or they’re automatically ingested into the Security Operations environment of your ServiceNow AI Platform instance depending on the profile type defined.
 
-The integration workflows ingest different types of notable events such as unauthorized access attempts and [[threat-intelligence-malware|malware]], for example. These notable events are ingested based on the profiles that you configure in the Security Operations environment of your instance.
+The integration workflows ingest different types of notable events such as unauthorized access attempts and malware, for example. These notable events are ingested based on the profiles that you configure in the Security Operations environment of your instance.
 
 All notables are initially ingested for a configured correlation search type in a profile. Ingested notables can then be further filtered to specify which notables create security incidents. For example, you may prefer filters that create security incidents only for notable events that are identified as high-risk. Before a profile is activated, and it creates security incidents from ingested notable events, individual field values on the notable events are mapped to corresponding fields on a layout the security incident for a preview.
 
@@ -48,8 +48,4 @@ All notables are initially ingested for a configured correlation search type in 
 
 5.  To create profiles for manual event forwarding, see [Set up a profile for manual event forwarding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-manual-security.md).
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]

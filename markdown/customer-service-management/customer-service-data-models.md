@@ -12,11 +12,11 @@ breadcrumb: [Configure customer data models for B2B2C, Data models, Set up your 
 
 # Customer service business models
 
-The [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application provides different business models that you can use to support your business needs. Select a business model based on the type of services and support that you provide to your customers.
+The Customer Service Management \(CSM\) application provides different business models that you can use to support your business needs. Select a business model based on the type of services and support that you provide to your customers.
 
 ## Understanding business models in the customer data model
 
-To implement the Customer Service Management application successfully, the technical teams within your organization must distinguish between the different business models being serviced. Each model defines how [[customer-data|customer data]] and relationships are structured. The CSM application provides the flexibility to adopt multiple models through its customer data model, including B2C, B2B, B2B2B, B2B2C, and B2B2E.​
+To implement the Customer Service Management application successfully, the technical teams within your organization must distinguish between the different business models being serviced. Each model defines how customer data and relationships are structured. The CSM application provides the flexibility to adopt multiple models through its customer data model, including B2C, B2B, B2B2B, B2B2C, and B2B2E.​
 
 \[Omitted image "business-models.png"\] Alt text: An infographic showing customer service business models: Business-to-Consumer \(B2C\), Business-to-Business \(B2B\), and multi-level models like B2B2C and B2B2E.
 
@@ -66,7 +66,3 @@ The contributor user model provides unified customer support for internal and ex
 -   Enable service organizations to serve one another and external customers.
 -   Assign tasks to middle office agents who work on specific tasks that are required to resolve a case.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[customer-data|Customer data]]

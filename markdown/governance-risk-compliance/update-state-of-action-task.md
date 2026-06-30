@@ -12,7 +12,7 @@ breadcrumb: [Creating an action task for the operational vulnerability, Managing
 
 # Manage an investigation-type action task
 
-Manage an investigation-type action task for the [[exploring-op-vul|Operational vulnerability]]. An investigation-type action task is initiated when additional investigation is needed to resolve the vulnerability. If the approver rejects the Operational vulnerability and requests more investigation, the task owner can create an investigation-type of action task, assign it to an appropriate user, review their completed work, and then request an approval again.
+Manage an investigation-type action task for the Operational vulnerability. An investigation-type action task is initiated when additional investigation is needed to resolve the vulnerability. If the approver rejects the Operational vulnerability and requests more investigation, the task owner can create an investigation-type of action task, assign it to an appropriate user, review their completed work, and then request an approval again.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ If the approver rejects the vulnerability, its state is updated to **Treatment**
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Navigate to the vulnerability record and select **New** in the Action tasks related list.
 
@@ -37,7 +37,7 @@ If the approver rejects the vulnerability, its state is updated to **Treatment**
 
 3.  On the Create New Action task form, fill in the fields.
 
-    For more information, see [[action-task-form|Create New Action task form]].
+    For more information, see [Create New Action task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/action-task-form.md).
 
 4.  Select the type of the action task as **Investigation**.
 
@@ -70,11 +70,5 @@ If the approver rejects the vulnerability, its state is updated to **Treatment**
 
 ## What to do next
 
-The task owner reviews the work on the action task and then requests an approval for the vulnerability record. For more information on the steps, see [[submit-vul-for-approval|Request an approval]].
+The task owner reviews the work on the action task and then requests an approval for the vulnerability record. For more information on the steps, see [Request an approval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-vul-for-approval.md).
 
-## Related
-
-- [[action-task-form|Create New Action task form]]
-- [[submit-vul-for-approval|Request an approval]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

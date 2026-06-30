@@ -34,7 +34,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[remedial-action|Remedial action]] user\[sn\_reacf.sn\_remedial\_action\_read\]
+Remedial action user\[sn\_reacf.sn\_remedial\_action\_read\]
 
 </td><td>
 
@@ -134,7 +134,7 @@ Remedial action origin\[sn\_reacf\_remedial\_action\_origin\]
 
 </td><td>
 
-List of [[dex-workspace-application-tab|applications]] where the Remedial Action Framework is used.
+List of applications where the Remedial Action Framework is used.
 
 </td></tr><tr><td>
 
@@ -149,7 +149,3 @@ List of execution records that are created for each remedial action when execute
 
 **Parent Topic:**[Incident Management in Service Operations Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-im-reference.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-application-tab|Applications]]

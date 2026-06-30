@@ -32,7 +32,7 @@ The following informational notifications are triggered for a major incident whe
 
 1.  Launch **Microsoft Teams** application.
 
-2.  Click **[[activity-lxp|Activity]]**.
+2.  Click **Activity**.
 
 3.  View the list of notifications feeds for the major incident.
 
@@ -45,6 +45,3 @@ The following informational notifications are triggered for a major incident whe
 
 **Parent Topic:**[Add communication plan from MIM workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/add-communication-plan-mim-workbench.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

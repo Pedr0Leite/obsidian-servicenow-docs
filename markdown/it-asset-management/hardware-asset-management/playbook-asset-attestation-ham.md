@@ -14,7 +14,7 @@ breadcrumb: [Audit assets using Asset Attestation, Use, Hardware Asset Managemen
 
 # Playbook for asset attestation
 
-The Create [[asset-attestation-ham|asset attestation]] playbook provides detailed, step-by-step instructions for creating an asset attestation. This playbook guides you through each stage of the attestation process, starting from filling in the asset attestation details to the completion of attestation.
+The Create asset attestation playbook provides detailed, step-by-step instructions for creating an asset attestation. This playbook guides you through each stage of the attestation process, starting from filling in the asset attestation details to the completion of attestation.
 
 The Create asset attestation playbook includes multiple lanes on the left-hand pane, each corresponding to the different activities in the asset attestation process. Each lane includes status indicators that display the current state of each activity.
 
@@ -27,6 +27,3 @@ Resume work on the incomplete asset attestation activities in the playbook by us
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]

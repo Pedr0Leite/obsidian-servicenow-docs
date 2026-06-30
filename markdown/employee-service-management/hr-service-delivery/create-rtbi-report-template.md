@@ -22,10 +22,10 @@ Role required: admin
 
 To use this template, you can create a new HR service, and record producer, then add the template in the Template field. For more information on configuring an HR service, see [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
-Verify that the following [[hr-service-administration|HR services]] are active:
+Verify that the following HR services are active:
 
 -   Erasure of Personal Data
--   [[request-personal-information-report-rtbi|Request Personal Information Report]]
+-   Request Personal Information Report
 
 Verify the following In Record produces are active:
 
@@ -59,7 +59,4 @@ Verify the following In Record produces are active:
 
 10. Select **Publish** to publish the new report template.
 
-## Related
 
-- [[hr-service-administration|HR services]]
-- [[request-personal-information-report-rtbi|Request personal information report]]

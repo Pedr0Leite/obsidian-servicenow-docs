@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics in the Now Assist panel, Now Assist in Platform 
 
 # Export dashboards and data visualizations from the Now Assist panel
 
-Export or [[schedule-export-dboards-data-viz|schedule the export of dashboards and data visualizations]] conversationally through AI instead of going through the [[c_performanceAnalyticsAndReporting|Platform Analytics]] user interface.
+Export or schedule the export of dashboards and data visualizations conversationally through AI instead of going through the Platform Analytics user interface.
 
 ## Before you begin
 
@@ -45,36 +45,23 @@ Role required: now\_assist\_panel\_user. To schedule an export, you also need pa
 
 **Tip:** After an export request is complete, reset the conversation before beginning a new request. Otherwise, some option selections might carry over to the new request. If this happens anyway, consider clearing your browser cache.
 
--   **[[nowass-supported-export-output|Supported export output types]]**  
+-   **[Supported export output types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/nowass-supported-export-output.md)**  
 The dashboard and visualization output skill supports the same outputs for the same data visualizations as Platform Analytics generally.
--   **[[nowass-export-destinations|Export destinations]]**  
+-   **[Export destinations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-destinations.md)**  
 When you export a dashboard or data visualization in the Now Assist panel, you have to specify the destination.
--   **[[limitations-exporting-db-dv|Limitations for exporting dashboards and visualizations]]**  
-The [[activate-db-dv-export-skill|dashboard and visualization export skill]] supports only some dashboards for export. Requests for export are not always recognized or understood correctly.
--   **[[nowass-export-guidelines-examples|Export guidelines and examples]]**  
+-   **[Limitations for exporting dashboards and visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/limitations-exporting-db-dv.md)**  
+The dashboard and visualization export skill supports only some dashboards for export. Requests for export are not always recognized or understood correctly.
+-   **[Export guidelines and examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/nowass-export-guidelines-examples.md)**  
 In your prompts for the dashboard and visualization export skill, you can describe the export you want with a variable amount of detail. You are prompted for any necessary information that is missing. Before the export runs, you are asked to review the request, giving you a chance to change any options.
 
-**Parent Topic:**[[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
+**Parent Topic:**[Generate or export dashboards and data visualizations in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-assist-landing-page.md)
 
 **Related topics**  
 
 
-[[export-visualization-vd|Export a data visualization from the Visualization Designer]]
+[Export a data visualization from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md)
 
-[[export-pae-dashboard-ppt|Export a Platform Analytics dashboard]]
+[Export a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-pae-dashboard-ppt.md)
 
-[[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]]
+[Schedule the export of data visualizations or dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/schedule-visn-export-vd.md)
 
-## Related
-
-- [[nowass-supported-export-output|Supported export output types]]
-- [[nowass-export-destinations|Export destinations]]
-- [[limitations-exporting-db-dv|Limitations for exporting dashboards and visualizations]]
-- [[nowass-export-guidelines-examples|Export guidelines and examples]]
-- [[analytics-assist-landing-page|Generate or export dashboards and data visualizations in the Now Assist panel]]
-- [[export-visualization-vd|Export a data visualization from the Visualization Designer]]
-- [[export-pae-dashboard-ppt|Export a Platform Analytics dashboard]]
-- [[schedule-visn-export-vd|Schedule the export of data visualizations or dashboards]]
-- [[schedule-export-dboards-data-viz|Schedule the export of dashboards and data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[activate-db-dv-export-skill|Dashboard and visualization export skill]]

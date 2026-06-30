@@ -28,7 +28,7 @@ Generating expense lines is a three-step procedure.
 
 -   
 1.  [Add a user or asset to a contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step1AddAUserOrAssetToAContract.md)  
-You can [[t_Step1AddAUserOrAssetToAContract|add a user or asset to a contract]] to generate expense lines.
+You can add a user or asset to a contract to generate expense lines.
 2.  [Create a rate card and assign a user or asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step2CreatRCAsgnUseAsset.md)  
 You can assign a user or asset when you create a rate card. You can only assign the user or asset that is assigned to the contract.
 3.  [Configure rate card expense generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step3ConfigRCExpenseGen.md)  
@@ -45,6 +45,3 @@ After assets or users are added to the rate card, you can use the **Distribute c
 
 [View contract expense lines]()
 
-## Related
-
-- [[t_Step1AddAUserOrAssetToAContract|Add a user or asset to a contract]]

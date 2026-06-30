@@ -14,9 +14,9 @@ breadcrumb: [Activate Notify, Configuring Notify, Notify, Manage service capabil
 
 # Migrating from Legacy Notify
 
-When migrating to [[notify-landing-page|Notify]] from the Legacy Notify functionality, several changes are made to the instance.
+When migrating to Notify from the Legacy Notify functionality, several changes are made to the instance.
 
-If the Legacy Notify functionality is already enabled, several automatic changes occur when you [[t_ActivateNotify|activate Notify]]:
+If the Legacy Notify functionality is already enabled, several automatic changes occur when you activate Notify:
 
 -   The Legacy Notify menu is removed from the application navigator.
 -   Two separators are added to the new Notify menu: **Legacy Notify** and **Legacy Notify Admin**. New modules that replace the Legacy Notify modules are added to these sections.
@@ -25,12 +25,7 @@ If the Legacy Notify functionality is already enabled, several automatic changes
 
 -   The notify\_admin role allows access to Notify modules.
 -   The notifynow\_admin role allows access to Legacy Notify modules.
--   All [[c_WorkflowActivities|workflow activities]] from the Legacy Notify application are moved to the **Legacy Notify** group.
+-   All workflow activities from the Legacy Notify application are moved to the **Legacy Notify** group.
 
 **Parent Topic:**[Activate Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ActivateNotify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[t_ActivateNotify|Activate Notify]]
-- [[c_WorkflowActivities|Workflow activities]]

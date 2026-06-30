@@ -14,9 +14,9 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 Use integrations to exchange data with third-party sources, including Salesforce.
 
-To gather information from external data sources such as Salesforce in [[transaction-manager|Transaction Manager]], the admin creates integrations. Transaction Manager integrations define the information necessary to connect to a data source, extract information, and map the data into Transaction Manager. Integrations can also be used to extract information from Transaction Manager and send it to be mapped in a third-party environment.
+To gather information from external data sources such as Salesforce in Transaction Manager, the admin creates integrations. Transaction Manager integrations define the information necessary to connect to a data source, extract information, and map the data into Transaction Manager. Integrations can also be used to extract information from Transaction Manager and send it to be mapped in a third-party environment.
 
-Before an integration can be defined for Transaction Manager, the admin must first create a connection to the third-party environment, much like an external connection in the configuration environment. Connections are defined in the [[cpq-utilities|Utilities]] section of the Admin UI.
+Before an integration can be defined for Transaction Manager, the admin must first create a connection to the third-party environment, much like an external connection in the configuration environment. Connections are defined in the Utilities section of the Admin UI.
 
 ## Creating a connection
 
@@ -30,7 +30,7 @@ To create a new connection, in the Utilities area of the Admin UI, click **Conne
 
 On the New Connection page, name the new connection and assign a variable name. Next, choose the integration type: Salesforce or External.
 
-If you are creating a connection to Salesforce, none of the other [[fields|fields]] are required. CPQ knows how to authenticate and knows the required endpoints to use when communicating with Salesforce.
+If you are creating a connection to Salesforce, none of the other fields are required. CPQ knows how to authenticate and knows the required endpoints to use when communicating with Salesforce.
 
 If you are creating an external integration, choose the authentication type. Supported authentication methods are None, Bearer Token, and OAuth. If you choose Bearer Token, use the Authentication Token field to provide the bearer token for the site with which you are communicating. If you choose OAuth, use the Client ID, Client Secret, and Token URL fields to provide the required OAuth information.
 
@@ -55,7 +55,7 @@ The Integration Editor page opens. Continue defining the new integration by conf
 -   **Additional Path**: Enter the query command to execute on the third-party site. If you are connecting to Salesforce, this will probably be a SOQL query. On other platforms, it may be a standard SQL query.
 -   **Timeout**: Defines the amount of time \(in milliseconds\) that the request will wait for a response before declaring an error.
 -   **Async**: This toggle allows you to run the query asynchronously in the background so that the user can continue working.
--   **Headers**: You can use static text in header-level [[transaction-manager-fields|Transaction Manager fields]] by using simple handlebar syntax, you can set key-value pairs for headers, or you can combine both these methods.`{{txn.fieldname}}`
+-   **Headers**: You can use static text in header-level Transaction Manager fields by using simple handlebar syntax, you can set key-value pairs for headers, or you can combine both these methods.`{{txn.fieldname}}`
 
 \[Omitted image "cpq-txn-mgr-get-oppty-id.png"\] Alt text: Integration screen
 
@@ -90,9 +90,3 @@ This example uses Mustache syntax for the Salesforce data that was extracted fro
 
 You can use the Sample Return Data area and the Transformation Result area to troubleshoot an Integration that is not working. If you perform the query in a tool like Postman, where you can see and copy the query response, you can paste the query response in the Sample Response Data area and then click **Run Transformation** below the Transformation Template area. The query response data runs through the defined transformation template, and the results of the Transformation is displayed in the Transformation Result area.
 
-## Related
-
-- [[transaction-manager|Transaction Manager]]
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]
-- [[transaction-manager-fields|transaction manager fields]]

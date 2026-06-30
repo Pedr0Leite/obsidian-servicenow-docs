@@ -25,16 +25,11 @@ When you switch between dark, light or coral user interface themes, the images i
 -   **[Exploring new experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/exploring-onboarding-modals.md)**  
 Onboarding modals introduce you to new ServiceNow® experiences through wizard-like interfaces in Next Experience. Learn about capabilities, benefits, and implementation approaches for effective user onboarding.
 -   **[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-onboarding-modals.md)**  
-Plan and [[configure-onboarding-modals|configure]] the Onboarding modals to experience new applications.
+Plan and configure the Onboarding modals to experience new applications.
 -   **[Edit the default onboarding modal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configure-next-experience-onboarding.md)**  
-[[configure-next-experience-onboarding|Edit the default onboarding modal]] to personalize content for your users.
+Edit the default onboarding modal to personalize content for your users.
 -   **[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/onboarding-modals-reference.md)**  
-[[onboarding-modals-reference|Reference]] information for user roles and best practices when implementing onboarding modals.
+Reference information for user roles and best practices when implementing onboarding modals.
 
 **Parent Topic:**[Adoption services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/adoption-services.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[configure-next-experience-onboarding|Edit the default onboarding modal]]
-- [[onboarding-modals-reference|Reference]]

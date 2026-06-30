@@ -16,7 +16,7 @@ breadcrumb: [Configuring Azure DevOps integration with SAFe, Setting up the inte
 
 Set up SAFe related configuration in Azure DevOps projects and understand the workflow of SAFe PI and Sprint integration with Azure DevOps.
 
-After creating map configuration for [[key-entities-SAFe|SAFe entities]], [import areas, teams, and iterations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/import-areas-teams-azure-agile.md) for your Azure DevOps projects and update the following fields. These fields are mandatory if **Sync Sprints** is set to **true**.
+After creating map configuration for SAFe entities, [import areas, teams, and iterations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/import-areas-teams-azure-agile.md) for your Azure DevOps projects and update the following fields. These fields are mandatory if **Sync Sprints** is set to **true**.
 
 -   **ART**: Select an agile release train \(ART\).
 -   **ART Iteration Path**: Select an iteration that is an equivalent to the parent of PI.
@@ -39,6 +39,3 @@ The application will then automatically identify PI 1 as the program increment a
 
 \[Omitted image "SAFe-Sprint-ADO-Import-Sprints.jpg"\] Alt text: Import Sprints workflow between SAFe and Azure DevOps.
 
-## Related
-
-- [[key-entities-SAFe|SAFe entities]]

@@ -22,11 +22,11 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  From the [[td-lh-landing|Leader Hub]] drop-down list, select **Org talent**.
+2.  From the Leader Hub drop-down list, select **Org talent**.
 
-    The [[td-lh-org-talent|Org talent page]] appears.
+    The Org talent page appears.
 
 3.  Use the organizational chart or the **Search for employees in your org** field to select an employee who leads a team in your organization.
 
@@ -34,7 +34,7 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 4.  Select **View team details** on the card for the employee that you selected.
 
-    The [[td-lh-team-details|Team details page]] appears.
+    The Team details page appears.
 
 5.  View the data on the Team details page to gauge your team's growth and development.
 
@@ -46,9 +46,3 @@ Role required: organizational leader \[sn\_egd\_lh.leader\]
 
 **Parent Topic:**[Using Leader Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/td-lh-using.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-landing|Leader Hub]]
-- [[td-lh-org-talent|Org talent page]]
-- [[td-lh-team-details|Team details page]]

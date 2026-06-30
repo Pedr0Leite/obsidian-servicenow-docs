@@ -20,8 +20,5 @@ With the Delta Price Treatment Matrix, you can specify how pricing is to be hand
 -   Use Original Prices: Use original list price as basis for calculation.
 -   Retain Original Attribute Adjustments: Original attribute adjustments calculated from original list price.
 -   Set Net Prices to Zero; Zero out pricing for the line item.
--   Honor Renewal Adjustments: [[Renew|Renew]] line items at prices specified in renewal adjustments.
+-   Honor Renewal Adjustments: Renew line items at prices specified in renewal adjustments.
 
-## Related
-
-- [[Renew|Renew]]

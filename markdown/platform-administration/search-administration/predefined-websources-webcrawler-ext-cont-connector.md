@@ -15,7 +15,7 @@ breadcrumb: [Webcrawler external content connector, Configure, External Content 
 
 # Webcrawler external content connector predefined web sources
 
-Predefined public web sources are available for the [[webcrawler-external-content-connector|Webcrawler external content connector]]. Search administrators can run Webcrawler connector crawls to make content from these web sources searchable.
+Predefined public web sources are available for the Webcrawler external content connector. Search administrators can run Webcrawler connector crawls to make content from these web sources searchable.
 
 ## Predefined web sources
 
@@ -60,12 +60,7 @@ Predefined public web sources are available for the [[webcrawler-external-conten
 
 **Note:** The Webcrawler external content connector includes a dedicated search source for each predefined web source. Each dedicated search source includes content from the specified predefined web source that's stored in the connector's indexed source. Use these search sources to access searchable content and metadata retrieved from predefined web sources. As an example, searchable content and metadata retrieved from the Google Drive predefined web source is accessible in a search source named **Google Drive**.
 
-To [[create-ext-cont-connector-webcrawler|create a Webcrawler external content connector]], see [Create a Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-ext-cont-connector-webcrawler.md). To [[configure-crawl-settings-webcrawler-external-content-connector|configure crawl settings for a Webcrawler external content connector]], see [Configure crawl settings for a Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-crawl-settings-webcrawler-external-content-connector.md).
+To create a Webcrawler external content connector, see [Create a Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-ext-cont-connector-webcrawler.md). To configure crawl settings for a Webcrawler external content connector, see [Configure crawl settings for a Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-crawl-settings-webcrawler-external-content-connector.md).
 
 **Parent Topic:**[Webcrawler external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/webcrawler-external-content-connector.md)
 
-## Related
-
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]
-- [[create-ext-cont-connector-webcrawler|Create a Webcrawler external content connector]]
-- [[configure-crawl-settings-webcrawler-external-content-connector|Configure crawl settings for a Webcrawler external content connector]]

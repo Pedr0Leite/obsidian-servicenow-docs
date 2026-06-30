@@ -94,15 +94,10 @@ The top 5 quotes filtered by highest amount value.
 </td></tr></tbody>
 </table>4.  You can also view all the active quotes from highest to lowest in quote amount.
 
-    To learn more about the [[fields|fields]] on the Quotes list, see [[quote-detail-form-fields|Quote details forms]].
+    To learn more about the fields on the Quotes list, see [Quote details forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-detail-form-fields.md).
 
 5.  View all the quotes that the user has access to from the **All Quotes** tab.
 
 
-**Parent Topic:**[[using-partner-relationship-management|Using Partner Relationship Management]]
+**Parent Topic:**[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[quote-detail-form-fields|Quote details forms]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

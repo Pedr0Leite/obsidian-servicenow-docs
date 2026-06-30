@@ -37,7 +37,7 @@ If the correct assignment information was not added, check to see whether you ar
 
 **Note:** Assignment groups are assigned at the time an HR case is created from the HR case form. Once the State is changed to Ready, an agent is assigned. When an HR case is created from the Employee Service Center, an HR agent is assigned immediately.
 
--   **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[hr-service-administration|HR Services]]** &gt; **[[hr-template-configuration|HR Templates]]**: Look at the template that corresponds to the assignment rule to see what skills, if any, are required.
+-   **HR Administration** &gt; **HR Services** &gt; **HR Templates**: Look at the template that corresponds to the assignment rule to see what skills, if any, are required.
 -   **HR Administration** &gt; **Manage Roles** &gt; **Manage HR Skills**: Find the HR user assigned to the case and click the **Skills: \#** button to see whether the required skill is assigned. If not, check the box to assign it, and click **Save**.
 
 After verifying that the necessary skills are assigned to the correct users, test the assignment rule again.
@@ -49,8 +49,3 @@ After verifying that the necessary skills are assigned to the correct users, tes
 
 [HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-administration|HR services]]
-- [[hr-template-configuration|HR templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for Employee Experience, Unified Employee Exper
 
 # Supporting information for Now Assist for Employee Experience
 
-Get a quick overview of the key information related to the [[now-assisit-employee-exp|Now Assist for Employee Experience]].
+Get a quick overview of the key information related to the Now Assist for Employee Experience.
 
 ## Supported versions
 
@@ -34,13 +34,9 @@ Activate the Now Assist for Employee Experience store app \(sn\_ex\_gen\_ai\).
 This store app has the following dependencies:
 
 -   Now Assist for platform \(sn\_genai\_platform\)
--   [[employee-center-landing-page|Employee Center]] \(sn\_ex\_sp\)
+-   Employee Center \(sn\_ex\_sp\)
 
 For more information, see [Configure Now Assist for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-nowassist-emp-exp.md).
 
 **Parent Topic:**[Explore Now Assist for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/explore-now-assist-for-emp-exp.md)
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]
-- [[employee-center-landing-page|Employee Center]]

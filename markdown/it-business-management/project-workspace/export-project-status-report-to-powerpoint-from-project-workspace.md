@@ -14,11 +14,11 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Export a project status report to Microsoft PowerPoint from Project Workspace
 
-Generate a status report of your project and export it as a Microsoft PowerPoint file from [[project-workspace-landing-page|Project Workspace]]. You can use this file to present the project status to stakeholders or to collaborate with them over risks and next steps. Save time by generating a Microsoft PowerPoint file with the latest information and avoid copying information into slides.
+Generate a status report of your project and export it as a Microsoft PowerPoint file from Project Workspace. You can use this file to present the project status to stakeholders or to collaborate with them over risks and next steps. Save time by generating a Microsoft PowerPoint file with the latest information and avoid copying information into slides.
 
 ## Before you begin
 
--   Install the [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]] application from ServiceNow store. For more information, see [Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/install-export-to-ppt.md).
+-   Install the Export to PowerPoint for Strategic Portfolio Management application from ServiceNow store. For more information, see [Install Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/install-export-to-ppt.md).
 -   Create and upload a Microsoft PowerPoint template to apply to your status report. For more information on how to create and upload a template, see [Create a Microsoft PowerPoint template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/create-ppt-template.md) and [Upload your Microsoft PowerPoint template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/upload-ppt-template.md) respectively.
 
 Role required: it\_project\_manager
@@ -39,7 +39,7 @@ Exporting the project is beneficial if your stakeholders prefer a slide deck rat
 
 2.  From the More actions menu \(\[Omitted image "icon-more-actions.png"\] Alt text: More actions.\), select **Export status report**.
 
-3.  On the Export [[status-report-form-project-management|status report form]], fill in the fields for an existing project.
+3.  On the Export status report form, fill in the fields for an existing project.
 
     For field information, see [Export status report form on Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/export-status-report-form-project-workspace.md).
 
@@ -74,8 +74,3 @@ The project status report is downloaded as a Microsoft PowerPoint file with the 
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]]
-- [[status-report-form-project-management|Status report form]]

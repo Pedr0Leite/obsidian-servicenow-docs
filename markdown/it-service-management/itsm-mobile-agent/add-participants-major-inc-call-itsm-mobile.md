@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  In **Major incidents** tab.
 
@@ -47,6 +47,4 @@ Role required: major\_incident\_manager, itil, itil\_admin, or admin
 
 7.  In the **Add participants** screen, click **Submit**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

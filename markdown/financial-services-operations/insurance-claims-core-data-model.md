@@ -16,25 +16,18 @@ The Insurance Claims Core application includes a framework that provides generic
 
 ## Introduction to Insurance Claims Core
 
-The Insurance Claims Core application includes all the required common entities in an insurance claim process for your different lines of business. A financial institution can use these common entities for all the other applications that relate to [[insurance-claims-flow|insurance claims]]. The main components in the Insurance Claims Core application are the data model such as the claim property, claim participant, claim coverage, claim reserve, and claim payment, approval engine and validations.
+The Insurance Claims Core application includes all the required common entities in an insurance claim process for your different lines of business. A financial institution can use these common entities for all the other applications that relate to insurance claims. The main components in the Insurance Claims Core application are the data model such as the claim property, claim participant, claim coverage, claim reserve, and claim payment, approval engine and validations.
 
 The claim reserve and claim payment components have a claims approval engine for approval process. This approval engine consists of decision tables and flows along with ServiceNow AI Platform `sysapproval_approver` table to ensure that the requests are accurate and monitored as per your company guidelines.
 
 \[Omitted image "insurance-claims-core-data-model.png"\] Alt text: Diagram illustrating the high-level data model of Insurance Claims Core, in addition to FSO Core and its extensions.
 
--   **[[insurance-claims-core-tables|Insurance Claims Core tables]]**  
+-   **[Insurance Claims Core tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-tables.md)**  
 This section explains the insurance tables in Insurance Claims Core and how they handle insurance data.
--   **[[insurance-claims-core-roles-and-properties|Insurance Claims Core roles and properties]]**  
+-   **[Insurance Claims Core roles and properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-roles-and-properties.md)**  
 This section outlines the core roles involved in managing insurance claims and highlights their system properties.
--   **[[approval-engine-for-reserves-and-payments|Approval Engine for Reserves and Payments]]**  
+-   **[Approval Engine for Reserves and Payments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/approval-engine-for-reserves-and-payments.md)**  
 Insurance claims core includes a claim reserve and payment approval rules engine. It can be found in the decision table **Claim reserve and payment approval rules**.
 
-**Parent Topic:**[[data-models|Data Models]]
+**Parent Topic:**[Data Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/data-models.md)
 
-## Related
-
-- [[insurance-claims-core-tables|Insurance Claims Core tables]]
-- [[insurance-claims-core-roles-and-properties|Insurance Claims Core roles and properties]]
-- [[approval-engine-for-reserves-and-payments|Approval Engine for Reserves and Payments]]
-- [[data-models|Data Models]]
-- [[insurance-claims-flow|Insurance claims]]

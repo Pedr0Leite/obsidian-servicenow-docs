@@ -15,9 +15,9 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # In-product trigger for agentic AI in Customer Service Management
 
-In-product trigger for agentic AI shows agentic workflow status, presence indicators, and AI-generated insights directly on [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) record and interaction pages.
+In-product trigger for agentic AI shows agentic workflow status, presence indicators, and AI-generated insights directly on Customer Service Management \(CSM\) record and interaction pages.
 
-The AI workflow feature is built directly into Customer Service Management \(CSM\). This feature is available on Core UI and Configurable Workspace of the case records. You can view AI activity, respond to workflow prompts, and track progress — all from the case record page. AI indicators, workflow presence, and a dedicated AI Workflow tab are available on case records and interaction pages in the contextual side panel. The feature also introduces a **Triage Cases** button that initiates agentic workflows directly from the [[r_CustomerServiceCaseForm|case form]].
+The AI workflow feature is built directly into Customer Service Management \(CSM\). This feature is available on Core UI and Configurable Workspace of the case records. You can view AI activity, respond to workflow prompts, and track progress — all from the case record page. AI indicators, workflow presence, and a dedicated AI Workflow tab are available on case records and interaction pages in the contextual side panel. The feature also introduces a **Triage Cases** button that initiates agentic workflows directly from the case form.
 
 ## AI Workflow integration
 
@@ -29,7 +29,7 @@ The following table describes the key user interface components that support in-
 
 |UI component|Description|
 |------------|-----------|
-|**Triage Cases** button|Trigger agentic workflows directly from case records using the Triage Cases button, eliminating the need to navigate to Now Assist panel. When you select the Triage Cases button on a case record, the system automatically initiates an agentic workflow for the case and [[email-as-an-interaction|email interaction]] record. You can monitor workflow progress by accessing the **AI Workflow** tab, where the same workflow appears with complete visibility. From this tab, you can drill into the workflow details to review individual steps or provide any required input to advance the workflow.|
+|**Triage Cases** button|Trigger agentic workflows directly from case records using the Triage Cases button, eliminating the need to navigate to Now Assist panel. When you select the Triage Cases button on a case record, the system automatically initiates an agentic workflow for the case and email interaction record. You can monitor workflow progress by accessing the **AI Workflow** tab, where the same workflow appears with complete visibility. From this tab, you can drill into the workflow details to review individual steps or provide any required input to advance the workflow.|
 |AI presence indicator|View the visual indicator showing that Now Assist is actively running an agentic workflow on the current record. Selecting the indicator displays AI activity status and shows up when **Triage Cases** button is selected.|
 |**AI Workflow** tab|A dedicated tab that displays in‑progress, completed, input‑required, ready for review, failed, and cancelled workflows. You can view workflow details, AI‑generated findings, and workflow history.|
 |Workflow detail experience|Provides a step‑by‑step view of workflow execution. You can see each step in the workflow as it happens. You can check the workflow’s status at any time. You can easily tell when the system needs information from you. You can also read the main findings and insights the AI has prepared. When you’re ready, you can choose to continue to the next step, skip extra details, or let the workflow finish on its own. For example, if a workflow requires input like "Do you want deeper insights?", responding with No moves the workflow directly to complete state.|
@@ -55,12 +55,12 @@ This allows admin to control whether the **Triage Cases** button appears in the 
 
 \[Omitted image "ai-workflow-triage-cases.png"\] Alt text: Add triggers page showing Triage Cases UI actions with display toggles and configuration options.
 
-The **AI Workflow** tab is visible on following pages in [[csm-workspaces-configure|CSM Configurable Workspace]]:
+The **AI Workflow** tab is visible on following pages in CSM Configurable Workspace:
 
--   [[csm-default-record-page|CSM default record page]]
+-   CSM default record page
 -   CSM frontline case page
--   [[csm-interaction-record-page|CSM interaction record page]]
--   [[csm-email-interaction-record-page|Email interaction record page]]
+-   CSM interaction record page
+-   Email interaction record page
 -   Voice interaction record page
 -   Centered chat record page
 
@@ -71,12 +71,3 @@ The **AI Workflow** tab is visible on following pages in Core UI:
 
 **Note:** The in-product trigger **Triage Cases** button is only enabled for case records and email type interactions.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-email-interaction-record-page|Email Interaction record page]]

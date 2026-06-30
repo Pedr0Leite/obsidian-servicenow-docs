@@ -23,13 +23,13 @@ Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user or sn\_ai\_case\_mgmt
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance|AI Risk and Compliance]]** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  On the AI cases dashboard, on the **AI cases** tab, select **Create AI case**.
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values on the [[create-new-ai-case-form|Create New AI case form]], see [Create New AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-new-ai-case-form.md).
+    For a description of the field values on the Create New AI case form, see [Create New AI case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/create-new-ai-case-form.md).
 
 4.  Select **Save**.
 
@@ -51,8 +51,3 @@ Use the Create New AI case form in the AI Risk and Compliance workspace to repor
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[create-new-ai-case-form|Create New AI case form]]

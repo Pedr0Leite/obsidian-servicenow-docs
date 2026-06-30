@@ -14,9 +14,9 @@ breadcrumb: [Administer, Hermes Messaging Service, Manage service capabilities, 
 
 # Tracking message usage in Hermes
 
-Message usage through the [[hermes-messaging-service|Hermes Messaging Service]] is tracked for monitoring and management purposes through the Kafka topic name.
+Message usage through the Hermes Messaging Service is tracked for monitoring and management purposes through the Kafka topic name.
 
-You access the Hermes Messaging Service exclusively through integrations with other applications, such as Stream [[c_Connect|Connect]] and Log Export Service.
+You access the Hermes Messaging Service exclusively through integrations with other applications, such as Stream Connect and Log Export Service.
 
 You can access Kafka topics in your namespace using the following naming convention:
 
@@ -50,7 +50,3 @@ Kafka message usage and licensing impact vary by application. License usage is t
 
 [View Hermes Messaging Service log messages]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]

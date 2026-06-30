@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Lease Administration, Workplace Service Delive
 
 # Components installed with Workplace Lease Administration
 
-Several types of components are installed with activation of the [[workplace-lease-admin-feat|Workplace Lease Administration]] application, including user roles and tables.
+Several types of components are installed with activation of the Workplace Lease Administration application, including user roles and tables.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -77,7 +77,7 @@ sn\_wsd\_la.workplace\_central\_user
 
 </td><td>
 
-Enables users to access the Workplace Lease Administration application in [[workplace-central-feat|Workplace Central]].
+Enables users to access the Workplace Lease Administration application in Workplace Central.
 
 </td><td>
 
@@ -120,7 +120,3 @@ Stores workplace contract services related to the contract.
 
 [Scripts installed with Workplace Lease Administration]()
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[workplace-central-feat|Workplace Central]]

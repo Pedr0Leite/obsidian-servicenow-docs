@@ -22,11 +22,11 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management**.
 
 2.  From the Major Security Incident list, select a major security incident.
 
-3.  Select the **[[start-conference-call|Start a conference call]]** action.
+3.  Select the **Start a conference call** action.
 
 4.  You can also start a conference call by clicking the \[Omitted image "msim-conf-call-icon.png"\] Alt text: Conference call icon on the right-context menu and selecting the + icon.
 
@@ -69,7 +69,3 @@ Role required: sn\_msi.workspace\_manager
 
 **Parent Topic:**[Integrate MSIM Conference Calls with Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-conf-calls-zoom.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[start-conference-call|Start a conference call]]

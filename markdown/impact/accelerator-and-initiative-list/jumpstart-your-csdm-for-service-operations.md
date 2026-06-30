@@ -25,7 +25,7 @@ The accelerator aligns you with CSDM leading practices and enables you to build 
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided, Guided+ \(SV or PG\), Advanced, and Total packages.
+**Note:** This Accelerator is available for Impact Guided, Guided+ \(SV or PG\), Advanced, and Total packages.
 
 ## Prerequisites
 
@@ -67,6 +67,3 @@ Customers are encouraged to complete the [Jumpstart Your CSDM: Foundation accele
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]

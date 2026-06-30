@@ -30,7 +30,7 @@ You can create special handling notes from the Special Handling Notes module in 
 
 1.  Perform one of the following actions.
 
-    -   **[[csm-workspaces-configure|CSM Configurable Workspace]]**: Navigate to the desired form, select the More actions menu in the record header and then select **Special Handling Notes**.
+    -   **CSM Configurable Workspace**: Navigate to the desired form, select the More actions menu in the record header and then select **Special Handling Notes**.
     -   **Core UI**: Navigate to the desired form and select the **Create Special Handling Notes** related link. You can find these links in the Related Links section at the bottom of the form.
     -   Navigate to **All** &gt; **Special Handling Notes** &gt; **Special Handling Notes** and select **New** in the Special Handling Notes list form header.
 2.  Fill in the fields, as necessary.
@@ -164,9 +164,5 @@ This field appears when you select **Conditional** in the **Type** field.Use the
 **Related topics**  
 
 
-[[c_OnScreenAlerts|Special handling notes]]
+[Special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OnScreenAlerts.md)
 
-## Related
-
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

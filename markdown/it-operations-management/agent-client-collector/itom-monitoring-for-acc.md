@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # Operating system and application monitoring using Agent Client Collector
 
-[[r_ITOMApplications|IT Operations Management]] \(ITOM\) monitoring for the [[acc-landing-page|Agent Client Collector]] is installed on the ServiceNow® instance. It monitors the specific operating system and applications that are installed on the host machine.
+IT Operations Management \(ITOM\) monitoring for the Agent Client Collector is installed on the ServiceNow® instance. It monitors the specific operating system and applications that are installed on the host machine.
 
 The Agent Client Collector monitors the following applications.
 
@@ -88,7 +88,7 @@ Microsoft SQL Server
 
 </td><td>
 
-No special configuration required. Ensure that the instance name is populated in the CI record, either by running [[r-discovery|Discovery]] or by manually populating the record.
+No special configuration required. Ensure that the instance name is populated in the CI record, either by running Discovery or by manually populating the record.
 
 </td></tr><tr><td>
 
@@ -119,8 +119,3 @@ No special configuration required. Accessed via a JMX port. Default port is **70
 
 When the application is running on a port other than the default, ensure that you update the port number in the check instance's parameters.
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

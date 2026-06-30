@@ -14,7 +14,7 @@ breadcrumb: [Using Impact, Impact]
 
 # Product Adoption
 
-View your capabilities, [[impact-par|product adoption roadmaps]], and [[subscriptions|subscriptions]] for your ServiceNow instance.
+View your capabilities, product adoption roadmaps, and subscriptions for your ServiceNow instance.
 
 <table id="table_uqc_flp_fsb" class="nav-card"><tbody><tr><td>
 
@@ -40,8 +40,3 @@ View your capabilities, [[impact-par|product adoption roadmaps]], and [[subscrip
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[impact-par|Product Adoption Roadmaps]]
-- [[subscriptions|Subscriptions]]

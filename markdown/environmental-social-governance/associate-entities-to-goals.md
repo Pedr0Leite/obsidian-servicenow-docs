@@ -33,8 +33,5 @@ Role required: sn\_esg.program.manager
     2.  Select **Add**.
 
 
-**Parent Topic:**[[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]
+**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-goal.md)
 
-## Related
-
-- [[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Obligation form
 
-The obligation form provides the details to create or modify an obligation record in [[cncore-obligation-management|Obligation Management]].
+The obligation form provides the details to create or modify an obligation record in Obligation Management.
 
 <table id="table_jb1_f2v_rcc"><thead><tr><th>
 
@@ -209,6 +209,3 @@ This field appears only when **Recurring** is selected from the **Schedule** fie
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Tabs sidebar, Explore, Configurable Workspace UI, Configure UIs and
 
 # Attachments
 
-Learn about the Attachments component in the [[contextual-sidebar-configurable-workspace|tabs sidebar]] for a Configurable Workspace record page.
+Learn about the Attachments component in the tabs sidebar for a Configurable Workspace record page.
 
 The Attachments tab enables an agent to add, preview, download, or remove files from the current record.
 
@@ -22,6 +22,3 @@ It appears within the tabs sidebar for a standard record page.
 
 The Attachments component is configured and customized by admins in UI Builder. For information on Attachments component configurations, see [Attachments UIB Setup](https://developer.servicenow.com/dev.do#!/reference/next-experience/yokohama/now-components/now-record-common-attachments-connected/uib-setup).
 
-## Related
-
-- [[contextual-sidebar-configurable-workspace|Tabs sidebar]]

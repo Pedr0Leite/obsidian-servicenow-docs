@@ -14,7 +14,7 @@ breadcrumb: [All settings, Security hardening, Security configuration console, S
 
 # Filter hardening settings
 
-Simplify your hardening review process using filters. These filters can create a working list of [[security-hardening-settings|hardening settings]] for review, which restored for later use and shared with other [[users|users]].
+Simplify your hardening review process using filters. These filters can create a working list of hardening settings for review, which restored for later use and shared with other users.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[sec-center-v2|Security Center]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Security Center**.
 
-2.  In the **Security Consoles** section, select the **[[homepage|Security configuration console]]**.
+2.  In the **Security Consoles** section, select the **Security configuration console**.
 
-3.  Select the **[[sc-hardening|Security Hardening]]** tab.
+3.  Select the **Security Hardening** tab.
 
-4.  Select **[[all-settings|All settings]]**.
+4.  Select **All settings**.
 
 5.  Select the **Show filter panel** button \(\[Omitted image "filter-panel-icon.png"\] Alt text: Show filter panel\).
 
@@ -49,11 +49,3 @@ After saving a filter you can load it in the **Advanced View** using the **Use e
 
 **Parent Topic:**[All settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/all-settings.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[users|Users]]
-- [[sec-center-v2|Security Center]]
-- [[homepage|Security configuration console]]
-- [[sc-hardening|Security hardening]]
-- [[all-settings|All settings]]

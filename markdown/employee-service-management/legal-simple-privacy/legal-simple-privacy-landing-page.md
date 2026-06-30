@@ -18,7 +18,7 @@ The ServiceNow® Legal Simple Privacy application provides a mechanism to raise 
 
 As a legal requester, you can submit a **Privacy Assessment** request and track it.
 
-As a legal fulfiller, you can collaborate in a centralized **[[legal-counsel-center-landing|Legal Counsel Center]]** to work on [[privacy-assessment-requests|privacy assessment requests]] and resolve them.
+As a legal fulfiller, you can collaborate in a centralized **Legal Counsel Center** to work on privacy assessment requests and resolve them.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -54,7 +54,7 @@ Configure the foundation data to enable submitting a privacy impact assessment r
 -   **[Privacy assessment requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/privacy-assessment-requests.md)**  
 Privacy assessment requests enables employees to seek services from the Legal Privacy department to resolve privacy-related concerns.
 -   **[Legal Simple Privacy Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-reference.md)**  
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in Legal Simple Privacy.
+Reference topics provide additional information about the lists and forms that you use in Legal Simple Privacy.
 
 **Parent Topic:**[Legal Service Delivery Practice Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-practice-app-landing.md)
 
@@ -81,8 +81,3 @@ Privacy assessment requests enables employees to seek services from the Legal Pr
 
 [Legal Hold Notification]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[privacy-assessment-requests|Privacy assessment requests]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

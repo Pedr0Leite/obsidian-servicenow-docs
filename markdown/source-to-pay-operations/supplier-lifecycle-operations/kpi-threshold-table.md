@@ -14,7 +14,7 @@ breadcrumb: [Primary data tables for SRPM, Supplier Relationship and Performance
 
 # KPI Threshold table
 
-The KPI Threshold \[sn\_kpi\_threshold\] table stores the information about threshold values or value ranges configured for KPIs or [[kpi-templates|KPI templates]].
+The KPI Threshold \[sn\_kpi\_threshold\] table stores the information about threshold values or value ranges configured for KPIs or KPI templates.
 
 ## KPI Threshold \[sn\_kpi\_threshold\] table
 
@@ -38,6 +38,3 @@ The KPI Threshold \[sn\_kpi\_threshold\] table contains the following fields.
 
 [Create KPI thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-threshold.md)
 
-## Related
-
-- [[kpi-templates|KPI templates]]

@@ -34,7 +34,7 @@ If you have the TPR assessment reviewer \[sn\_vdr\_risk\_asmt.vendor\_assessment
 
 ## Requesting risk intelligence
 
-As a TPR manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\], TPR assessor \[sn\_vdr\_risk\_asmt.vendor\_risk\_assessor\] that is the due diligence request owner, or contract negotiator \[sn\_vdr\_risk\_asmt.contract\_negotiator\] that is assigned to the due diligence request, you can [[tprm-riskintel-request-tp|request a Risk Intelligence Report]] \(RIR\) or score to gain insight on how trustworthy a particular third party can be. You would follow this process to request risk intelligence reports or scores:
+As a TPR manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\], TPR assessor \[sn\_vdr\_risk\_asmt.vendor\_risk\_assessor\] that is the due diligence request owner, or contract negotiator \[sn\_vdr\_risk\_asmt.contract\_negotiator\] that is assigned to the due diligence request, you can request a Risk Intelligence Report \(RIR\) or score to gain insight on how trustworthy a particular third party can be. You would follow this process to request risk intelligence reports or scores:
 
 1.  Fill out the RIR request form. An RIR request can be associated with a third party or due diligence request. When you associate a RIR request with a due diligence request, reviewers and approvers can more easily access all the related activity, scores, reports, and details through the **Risk Intelligence report request** tab in the Vendor Management Workspace\[var.vendor-management-ws\]. For more information, see [Request a risk intelligence report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintel-request-tp.md) and [Request a risk intelligence report associated with a due diligence request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintel-request-dd.md).
 
@@ -59,6 +59,3 @@ You can manually add scores to third parties and use the Risk intelligence score
 
 By tracking sanction-related information about your third parties, you can check if that third party is involved in any activities that are prohibited or restricted by government sanctions or regulations. Logging and updating sanctions-related information for third parties keeps your team informed as you review and approve a due diligence request as part of your third-party risk program. For more information about tracking sanctions-related information, see [Track sanctions-related information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintel-track-sanctions.md).
 
-## Related
-
-- [[tprm-riskintel-request-tp|Request a risk intelligence report]]

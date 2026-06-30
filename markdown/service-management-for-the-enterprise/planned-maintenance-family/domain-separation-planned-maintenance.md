@@ -14,7 +14,7 @@ breadcrumb: [Planned Maintenance, Service Management]
 
 # Domain separation and Planned Maintenance
 
-Domain separation is supported in [[c_SMPlanMaint|Planned Maintenance]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Planned Maintenance. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard\*
 
@@ -41,6 +41,3 @@ You can set maintenance plans to include or exclude domains or set them globally
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

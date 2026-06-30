@@ -14,7 +14,7 @@ breadcrumb: [DevOps Config reference, DevOps Config, IT Service Management]
 
 # APIs and DevOps Config
 
-You can use [[devops-config-landing-page|DevOps Config]] and CDM APIs to access your config data.
+You can use DevOps Config and CDM APIs to access your config data.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -29,7 +29,7 @@ You can use [[devops-config-landing-page|DevOps Config]] and CDM APIs to access 
 
 -   **[CdmApplicationsApi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/applications-api.md)**
 
-    Upload configuration data to the component, collection, deployable, and component variable folders found in the DevOps Config Workspace UI. Export deployable configuration data to your DevOps pipeline and manage shared components and shared [[dex-workspace-application-tab|applications]].
+    Upload configuration data to the component, collection, deployable, and component variable folders found in the DevOps Config Workspace UI. Export deployable configuration data to your DevOps pipeline and manage shared components and shared applications.
 
 -   **[CdmChangesetsApi](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/changesets-api.md)**
 
@@ -65,7 +65,3 @@ You can use [[devops-config-landing-page|DevOps Config]] and CDM APIs to access 
 
 **Parent Topic:**[DevOps Config reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-reference.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

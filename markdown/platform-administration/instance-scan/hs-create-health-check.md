@@ -22,7 +22,7 @@ Role required: scan\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
 2.  Select **New** from the Checks context menu.
 
@@ -40,9 +40,9 @@ Create a check by selecting **Create a new Table Check** if you know which speci
 -   **[Create a column type check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-column-health-check.md)**  
 Retrieve all records containing a specific column field type from all tables in an instance by selecting **Create a new Column Type Check**. The **Column Type Check** type implements the rule you created to iterate all records matching the target column field type.
 -   **[Create a script only check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-create-script-health-check.md)**  
-Create a check without specifying a table or a column type by selecting **Create a new Script Only Check**. You can verify meta data, [[clone-configurations-tab|configurations]], and execute complex checks by writing your own script.
+Create a check without specifying a table or a column type by selecting **Create a new Script Only Check**. You can verify meta data, configurations, and execute complex checks by writing your own script.
 -   **[Create a linter check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-linter-check.md)**  
-[[hc-linter-check|Create a linter check]] to identify any issues in a script. When a linter check is run on a record, an abstract syntax tree for its code is generated. You can use the abstract syntax tree to analyze issues with the code.
+Create a linter check to identify any issues in a script. When a linter check is run on a record, an abstract syntax tree for its code is generated. You can use the abstract syntax tree to analyze issues with the code.
 
 **Parent Topic:**[Using Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-using-scans.md)
 
@@ -69,8 +69,3 @@ Create a check without specifying a table or a column type by selecting **Create
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[clone-configurations-tab|Configurations]]
-- [[hc-linter-check|Create a linter check]]

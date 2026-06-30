@@ -15,7 +15,7 @@ breadcrumb: [Data required for invoice processing, Reference, Accounts Payable O
 
 # Organization tax details
 
-Field descriptions for the organization tax table \[sn\_fin\_org\_tax\_detail\], which stores [[supplier|supplier]] tax registration details used when reviewing or configuring supplier tax information in Accounts Payable.
+Field descriptions for the organization tax table \[sn\_fin\_org\_tax\_detail\], which stores supplier tax registration details used when reviewing or configuring supplier tax information in Accounts Payable.
 
 ## Organization tax table
 
@@ -31,6 +31,3 @@ The organization table `sn_fin_org_tax_detail` stores supplier or organization t
 
 **Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[supplier|Supplier]]

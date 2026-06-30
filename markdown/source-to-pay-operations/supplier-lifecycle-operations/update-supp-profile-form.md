@@ -30,7 +30,7 @@ Basic Profile
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -173,6 +173,3 @@ Additional information about the company.
 
 [Update company profile using the supplier catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/update-supp-profile.md)
 
-## Related
-
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Qualys, Integrate with other applications, Configuration Compliance
 
 # Update configuration items with the network partition identifier for the Qualys Integration
 
-Create unique configuration items \(CIs\) for assets in your environment that share IP addresses. Identify the distinct assets across your environment and automatically update the CIs on your existing discovered item, vulnerable item, and detection records to give you more details about your [[vulnerabilities|vulnerabilities]].
+Create unique configuration items \(CIs\) for assets in your environment that share IP addresses. Identify the distinct assets across your environment and automatically update the CIs on your existing discovered item, vulnerable item, and detection records to give you more details about your vulnerabilities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default in the [[vuln-landing-page|Vulnerability Response]] application, one way to identify your assets is by IP address. In certain cases, assets can share IP addresses, but they are stored as one CI in your CMDB.
+By default in the Vulnerability Response application, one way to identify your assets is by IP address. In certain cases, assets can share IP addresses, but they are stored as one CI in your CMDB.
 
 For example, as shown in the following tables, multiple assets \(CI\)s in your environment can share IP addresses but have unique network and repository ids. However, by default, these assets are typically identified and stored as a single CI `(CI 1)` during the IP address lookup.
 
@@ -36,7 +36,7 @@ For example, as shown in the following tables, multiple assets \(CI\)s in your e
 |Qualys Vulnerability Integration: Assets and Fixed and Open Vulnerabilities Integrations|123.12.12.141|12|CI 1|
 | |123.12.12.141|13|CI 1|
 
-You can create individual CIs for assets that have the same IP address so that you can identify them as distinct assets. Starting from a fresh data import, you can update your existing CIs with more granularity that includes the network partition identifier \[network\_partition\_identifier\] by running the scheduled job, **Update existing [[cj-discovered-items|discovered items]] with network partition identifier**.
+You can create individual CIs for assets that have the same IP address so that you can identify them as distinct assets. Starting from a fresh data import, you can update your existing CIs with more granularity that includes the network partition identifier \[network\_partition\_identifier\] by running the scheduled job, **Update existing discovered items with network partition identifier**.
 
 This scheduled job is deactivated by default. Activate this feature for the Assets and Fixed and Open Vulnerabilities Integrations for Qualys Vulnerability Integration in the Setup Assistant to view this identifier on your records.
 
@@ -77,8 +77,4 @@ Starting with v14.0 of Vulnerability Response and v12.1 of the Qualys Vulnerabil
 
     After you activate the scheduled job and save the records, you alternatively can update your existing discovered items with CIs that include the network partition identifier by launching scheduled jobs on-demand. The CIs on your existing discovered item, vulnerable item, and detection records are automatically updated.
 
-## Related
 
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[cj-discovered-items|Discovered Items]]

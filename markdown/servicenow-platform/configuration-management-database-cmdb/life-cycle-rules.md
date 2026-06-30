@@ -28,11 +28,11 @@ Retirement definitions are used in life-cycle policies as follows:
 
 ## Derivation across the CMDB hierarchy
 
-Retirement definitions are derived throughout the CMDB hierarchy in the same way that rules, such as [[c_IdentificationRules|identification rules]], are derived. Child classes extended from a parent class with a retirement definition, derive that definition unless there’s a retirement definition defined at the child class level.
+Retirement definitions are derived throughout the CMDB hierarchy in the same way that rules, such as identification rules, are derived. Child classes extended from a parent class with a retirement definition, derive that definition unless there’s a retirement definition defined at the child class level.
 
 When retirement definitions for classes exist in different levels in the class hierarchy, then the retirement definition that applies is the one that is most specific for a class. For example, if there are retirement definitions for both, the Computer and the Configuration Item class, then the Computer class definition also applies to its descendant classes. All other classes that aren't descendants of the Computer class, use the Configuration Item retirement definition.
 
-Always be aware of the automatic derivation of retirement definitions throughout the class hierarchy. For example, an active retirement definition for the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]] can potentially be in effect throughout the entire CMDB hierarchy \(aside from classes with their own retirement definition\).
+Always be aware of the automatic derivation of retirement definitions throughout the class hierarchy. For example, an active retirement definition for the Configuration Item \[cmdb\_ci\] class can potentially be in effect throughout the entire CMDB hierarchy \(aside from classes with their own retirement definition\).
 
 ## Predefined retirement definitions
 
@@ -50,7 +50,3 @@ You can use the default retirement definitions, or customize a definition to ref
 
 To manage or delete a retirement definition, see [Manage retirement definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-manage-ret-def-wrkspc.md).
 
-## Related
-
-- [[c_IdentificationRules|Identification rules]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]

@@ -14,7 +14,7 @@ breadcrumb: [Document approval and publish process, Use, Document Management, Do
 
 # Approve or reject a document version through email
 
-[[approve-document|Approve or reject a document version]] request directly from your [[email|email]].
+Approve or reject a document version request directly from your email.
 
 ## Before you begin
 
@@ -29,7 +29,3 @@ Role required: approver\_user
 
 **Parent Topic:**[Document approval and publish process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/document-review-approval.md)
 
-## Related
-
-- [[approve-document|Approve or reject a document version]]
-- [[email|Email]]

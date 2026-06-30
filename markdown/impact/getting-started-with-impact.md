@@ -12,7 +12,7 @@ breadcrumb: [Impact Foundations, Impact operating model, Exploring Impact, Impac
 
 # Getting Started with Impact
 
-A set of activities that [[io-help|help]] new [[impact-landing-page|Impact]] customers get started with ServiceNow Impact.
+A set of activities that help new Impact customers get started with ServiceNow Impact.
 
 ## About Getting Started with Impact
 
@@ -25,9 +25,9 @@ In addition, the Advanced and Total packages are entitled to the following activ
 
 -   Executive Kickoff/meetings
 -   Get Started with Instance Observer
--   [[getting-started-developer-support|Get started with Developer Support]]
+-   Get started with Developer Support
 
-It’s a proven effective onboarding experience that is available as part of the Impact deliverable for Guided, Advanced, and Total Customers. The [[impact-squad|Impact Squad]] works with the customer to discuss their business objectives and create a plan to achieve them.
+It’s a proven effective onboarding experience that is available as part of the Impact deliverable for Guided, Advanced, and Total Customers. The Impact Squad works with the customer to discuss their business objectives and create a plan to achieve them.
 
 Get Started with Impact provides standard prescriptive guidance specific to:
 
@@ -36,9 +36,3 @@ Get Started with Impact provides standard prescriptive guidance specific to:
 -   Outlining the customer’s objectives and priorities
 -   Receiving a personalized experience and plan to achieve those objectives and priorities
 
-## Related
-
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]
-- [[getting-started-developer-support|Get started with Developer Support]]
-- [[impact-squad|Impact Squad]]

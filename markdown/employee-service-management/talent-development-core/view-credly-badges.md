@@ -18,15 +18,15 @@ As an employee, sync external badges into your organization’s Credly account a
 
 ## Before you begin
 
-Role required: [[exploring-learning-exp|learning]].user
+Role required: learning.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In the Employee Center, navigate to **Profile** &gt; **Career**.
 
-3.  Select the **[[achievements-lxp|Achievements]]** menu item and view your Credentials and badges.
+3.  Select the **Achievements** menu item and view your Credentials and badges.
 
 4.  Select **Get credentials** to import your credentials from the Credly application.
 
@@ -37,8 +37,3 @@ Role required: [[exploring-learning-exp|learning]].user
 
 **Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[achievements-lxp|Achievements]]

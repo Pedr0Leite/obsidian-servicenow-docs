@@ -14,13 +14,13 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Account recovery \(ACR\)
 
-Administrators can configure account recovery \(ACR\) to perform recovery activities such as addressing SSO misconfiguration or expired [[c_Certificates|certificates]].
+Administrators can configure account recovery \(ACR\) to perform recovery activities such as addressing SSO misconfiguration or expired certificates.
 
 **Note:** Enabling ACR disables the local interactive log-ins \(username or password based\) when SSO is enabled to your instances.
 
 ACR provides the following capabilities:
 
--   Bypass your single sign-on \(SSO\) login to address issues with SSO [[sc-configuration|configuration]] as an administrator.
+-   Bypass your single sign-on \(SSO\) login to address issues with SSO configuration as an administrator.
 -   Log in with using SSO to perform tasks with an administrator account configured as an account recovery.
 -   ACR flows enable the administrators to use self-service capabilities to address account recovery when there’s a need for recovery, for example, SSO miss-configuration, expired certificates.
 -   Reduce unauthorized access to the instance and provide a strong foundation to use ACR outside SSO use cases.
@@ -57,17 +57,11 @@ To use account recovery, you must register at least one admin account as an acco
 
 ## Account recovery configuration
 
-The account recovery feature is included with the **Integration - Multiple Provider Single Sign-On Installer \(com.snc.integration.sso.multi.installer\) plugins**. The feature is enabled by default. You can change this and other account recovery settings using [[ca-system-properties|system properties]]. For details on these properties, see [Account recovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/acr-properties.md).
+The account recovery feature is included with the **Integration - Multiple Provider Single Sign-On Installer \(com.snc.integration.sso.multi.installer\) plugins**. The feature is enabled by default. You can change this and other account recovery settings using system properties. For details on these properties, see [Account recovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/acr-properties.md).
 
 ## Account recovery policy context
 
 After you’ve registered an account recovery user and enabled single sign-on \(SSO\), your instance restricts all local logins. This restriction is defined in the **SSO - ACR Context** auth policy context. For more information about the context, see [Account recovery context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/account-recovery-context.md).
 
-For details on how [[authentication-policies|authentication policies]] and policy contexts, and how they work on your instance, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
+For details on how authentication policies and policy contexts, and how they work on your instance, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 
-## Related
-
-- [[c_Certificates|Certificates]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[authentication-policies|Authentication policies]]

@@ -29,7 +29,7 @@ To complete this example you need:
 
 ## External connection: SOQL call
 
-In the CPQ Admin screen, find the external connections under [[cpq-utilities|Utilities]].
+In the CPQ Admin screen, find the external connections under Utilities.
 
 \[Omitted image "cpq-admin-external-connections.png"\] Alt text: Admin screen
 
@@ -89,7 +89,7 @@ To reuse this script, make changes to the following lines:
 
 If instead you want defaulted data to overwrite whatever the user had entered in the previous configuration, delete the `if` clause in line 4.
 
-If you want only certain [[fields|fields]] in the set to overwrite user-edited fields, but you want to keep other fields between configurations, you must reference the set indexes explicitly:
+If you want only certain fields in the set to overwrite user-edited fields, but you want to keep other fields between configurations, you must reference the set indexes explicitly:
 
 ```
 cfgRequest.[setName].data[i].set("fieldName",{"value":"fieldValue"});
@@ -119,7 +119,3 @@ Notice that while the `length` function returns “1”, the index is “0”, b
 
 [Use Case: Using the Init enrichment to Populate set values](https://www.youtube.com/watch?v=RrhdFJEvT8U)
 
-## Related
-
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]

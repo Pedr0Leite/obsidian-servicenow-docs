@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery
 
 # Kiosk Check-in Flow Configuration form
 
-Use the Kiosk Check-in Flow Configuration form to create a check-in flow for the [[workplace-services-kiosk|Workplace Services Kiosk]].
+Use the Kiosk Check-in Flow Configuration form to create a check-in flow for the Workplace Services Kiosk.
 
 |Field|Description|
 |-----|-----------|
@@ -57,6 +57,3 @@ Use the Kiosk Check-in Flow Configuration form to create a check-in flow for the
 
 [Additional requirement form]()
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

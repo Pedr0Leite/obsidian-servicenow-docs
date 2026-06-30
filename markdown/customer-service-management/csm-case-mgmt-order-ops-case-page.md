@@ -12,7 +12,7 @@ breadcrumb: [Order Operations Case Management, Case management, Organize agent w
 
 # Order case pages
 
-The [[csm-case-mgmt-order-ops|Order Operations Case Management]] application includes record pages that display order cases and order case line items in [[csm-workspaces-configure|CSM Configurable Workspace]].
+The Order Operations Case Management application includes record pages that display order cases and order case line items in CSM Configurable Workspace.
 
 The Order Operations Case Management application enables agents to create order cases that reference customer orders and order lines. Using order cases, agents can manage and track customer requests and the actions taken to fulfill these requests.
 
@@ -28,15 +28,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-order-ops-order-case-intake-page|Create New Order Case intake page]]
+[Create New Order Case intake page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-intake-page.md)
 
 </td><td>
 
-When an agent initiates an order case and selects a service from the [[csm-case-type-select-modals|case type selector]] modal, the system displays the Create New Order Case intake page.The agent uses this page to enter basic information about the order case, such as the account, order number, and scope of request, and then create the case.
+When an agent initiates an order case and selects a service from the case type selector modal, the system displays the Create New Order Case intake page.The agent uses this page to enter basic information about the order case, such as the account, order number, and scope of request, and then create the case.
 
 </td></tr><tr><td>
 
-[[csm-order-ops-order-case-record-page|Order case record page]]
+[Order case record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-record-page.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ The Order case record page displays the order case and a list of the order case 
 
 </td></tr><tr><td>
 
-[[csm-order-ops-order-case-line-page|Order case line item record page]]
+[Order case line item record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-order-ops-order-case-line-page.md)
 
 </td><td>
 
@@ -58,12 +58,3 @@ The Order case line item record page displays information about an order case li
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-order-ops-order-case-intake-page|Order case intake page]]
-- [[csm-order-ops-order-case-record-page|Order case record page]]
-- [[csm-order-ops-order-case-line-page|Order case line item page]]
-- [[csm-case-mgmt-order-ops|Order Operations Case Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-case-type-select-modals|Case type selector]]

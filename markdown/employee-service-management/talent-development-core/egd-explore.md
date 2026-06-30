@@ -14,9 +14,9 @@ breadcrumb: [Talent Development Core, Growth Experiences, HR Service Delivery, E
 
 # Exploring Talent Development Core
 
-The [[egd-landing-page|Talent Development Core]] application provides employees and managers with an intuitive and streamlined process for managing career growth and development.
+The Talent Development Core application provides employees and managers with an intuitive and streamlined process for managing career growth and development.
 
-When you open Career hub from the [[employee-center-landing-page|Employee Center]], you see a summary of your career growth plan that includes only your information.
+When you open Career hub from the Employee Center, you see a summary of your career growth plan that includes only your information.
 
 -   **[Career hub overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-career-hub-expl.md)**  
 The Career hub tab provides a summary view of your growth and development plans.
@@ -27,15 +27,9 @@ Build your growth plan to organize and track your career goals.
 -   **[Conversations overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-conversations-ovrvw.md)**  
 Conversations with managers, peers, and mentors are a critical part of your career growth. Identify and manage the important conversations you have.
 -   **[Learning overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-learning-ovrvw.md)**  
-Identify, manage, and complete all your [[exploring-learning-exp|learning]] goals from the Learning tab in Talent Development.
+Identify, manage, and complete all your learning goals from the Learning tab in Talent Development.
 -   **[Opportunity Marketplace overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-opportunity-marketplace-ovrvw.md)**  
-The [[egd-oppt-mrktplc-landing|Opportunity Marketplace]] is a single, unified space where individuals and organizations can share opportunities that are discoverable by employees.
+The Opportunity Marketplace is a single, unified space where individuals and organizations can share opportunities that are discoverable by employees.
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[egd-landing-page|Talent Development Core]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

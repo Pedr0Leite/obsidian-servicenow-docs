@@ -14,11 +14,11 @@ breadcrumb: [Claim incidents, Configure, Insurance claims, Exploring insurance c
 
 # Create a Claim Incident table
 
-Create a Claim Incident \[sn\_ins\_claim\_property\] table for your business needs and the type of claims that you’re processing by using the [[insurance-claims-flow|Insurance claims]] application.
+Create a Claim Incident \[sn\_ins\_claim\_property\] table for your business needs and the type of claims that you’re processing by using the Insurance claims application.
 
 ## Before you begin
 
-Set the application scope of your instance to **[[insurance-claims-core-data-model|Insurance Claims Core]]**.
+Set the application scope of your instance to **Insurance Claims Core**.
 
 Role required: admin
 
@@ -47,7 +47,3 @@ You can add script includes for the new incident table, including the code for g
 
 You can also create a workspace view for this new incident table if necessary.
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[insurance-claims-core-data-model|Insurance Claims Core]]

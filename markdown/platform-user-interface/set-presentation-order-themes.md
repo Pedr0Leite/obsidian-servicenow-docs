@@ -12,11 +12,11 @@ breadcrumb: [Publish themes, Configuring Next Experience with Theme Builder, Wor
 
 # Set the presentation order of your Theme Builder themes
 
-Set the order of your Theme Builder themes to [[configure-onboarding-modals|configure]] how they’re displayed in the user's Theme preferences.
+Set the order of your Theme Builder themes to configure how they’re displayed in the user's Theme preferences.
 
 ## Before you begin
 
--   Before setting the order of your themes, verify that you have more than one theme published. For more information on publishing your Theme Builder themes, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+-   Before setting the order of your themes, verify that you have more than one theme published. For more information on publishing your Theme Builder themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 -   Verify that you have selected the correct scope for the theme from the application scope picker.
 
 Role required: ui\_builder\_admin
@@ -50,7 +50,3 @@ Currently, setting order to your themes is only available to web instances. Mobi
 
 **Parent Topic:**[Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[configure-onboarding-modals|Configure]]

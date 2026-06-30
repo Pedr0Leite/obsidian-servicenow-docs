@@ -18,7 +18,7 @@ User criteria enables you to allow access to users based on role, department, gr
 
 User criteria records define conditions that are evaluated against user records. When user criteria is defined, portal records are only visible to users who pass the defined conditions.
 
-User criteria is a platform feature used in [[c_ServicePortal|Service Portal]]. Learn more about user criteria in the ServiceNow AI Platform:
+User criteria is a platform feature used in Service Portal. Learn more about user criteria in the ServiceNow AI Platform:
 
 -   Service Catalog: [Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ServiceCatalogAccessControls.md).
 -   Knowledge Management: [Control access at the knowledge base level through user criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelectUserCriteria.md).
@@ -60,6 +60,3 @@ Assign user criteria to search sources to limit user access to content in a port
 
 **Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-security.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

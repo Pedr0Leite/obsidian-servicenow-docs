@@ -19,7 +19,7 @@ Use the group allocation feature to manage the user allocation to a software ent
 
 ## How license allocation to a user group works
 
-The SAM Manager can allocate licenses to a group rather than creating user allocation for individual users for the user-based licensing metric software. When a group allocation is created, the [[c_SoftwareAssetMgmt|Software Asset Management]] application creates a user allocation record for each group member based on the availability of the unallocated licenses for the software entitlement. When allocating licenses to the group members, the Software Asset Management application avoids duplication of user allocation. If an assignment group includes a child group and some members belong to both the parent and child groups, only the unique members from the parent and child groups are considered for the license allocation.
+The SAM Manager can allocate licenses to a group rather than creating user allocation for individual users for the user-based licensing metric software. When a group allocation is created, the Software Asset Management application creates a user allocation record for each group member based on the availability of the unallocated licenses for the software entitlement. When allocating licenses to the group members, the Software Asset Management application avoids duplication of user allocation. If an assignment group includes a child group and some members belong to both the parent and child groups, only the unique members from the parent and child groups are considered for the license allocation.
 
 ## Managing license allocation for updated user groups
 
@@ -43,6 +43,3 @@ For more information about creating a group allocation record, see [Create group
 
 [Software model fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

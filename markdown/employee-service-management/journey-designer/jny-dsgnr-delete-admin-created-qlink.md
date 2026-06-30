@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing quick links for journeys, Configure Journey d
 
 # Delete a quick link created by an administrator
 
-To delete an administrator created quick link in [[jny-dsgnr-landing-page-1|Journey designer]], you must be an administrator.
+To delete an administrator created quick link in Journey designer, you must be an administrator.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: sn\_jny.admin
 
 **Parent Topic:**[Creating and managing quick links for journeys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-quick-links-why-who.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

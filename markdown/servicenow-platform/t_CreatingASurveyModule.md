@@ -38,13 +38,13 @@ When a user clicks a survey module, the system performs one of the following act
 
     -   **Link type**: Assessment
 
-        Do not select **Survey**, which is used for legacy [[r_SurveyManagementLandingPage|surveys]] only.
+        Do not select **Survey**, which is used for legacy surveys only.
 
     -   **Assessment**: Select the survey you want the module to open.
 4.  Complete and save the form.
 
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -57,7 +57,7 @@ When a user clicks a survey module, the system performs one of the following act
 
 [Add a recipients list to a survey]()
 
-[Embed a survey within the Outlook [[email|email]] client]()
+[Embed a survey within the Outlook email client]()
 
 [Enable localization for a survey]()
 
@@ -65,11 +65,5 @@ When a user clicks a survey module, the system performs one of the following act
 
 [Sharing surveys]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[c_SurveyDistribution|Survey distribution]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[email|Email]]
-- [[c_Collaboration|Connect Chat]]

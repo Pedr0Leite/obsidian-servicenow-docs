@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Work management view.
+1.  From the Enterprise Asset Workspace, open the Work management view.
 
 2.  On the **Maintenance plans** tab, select **New**.
 
@@ -44,6 +44,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
     You can further configure your maintenance plan by creating [maintenance schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-maintenance-schedule.md), work orders, and work order tasks. You can view all your maintenance plan records in the list view in the **Maintenance plans** tab. Every maintenance plan record is prefixed with **MP**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

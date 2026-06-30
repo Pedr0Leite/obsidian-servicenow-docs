@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist, Common GRC features, Governance, Risk, and Com
 
 # AI-driven regulatory alert summarization skill
 
-The AI-driven summarization feature is designed to provide concise, AI-driven overviews of [[list-view-of-reg-alerts|regulatory alerts]] directly within the regulatory alert record in the Compliance Workspace. It offers contextual information, including important dates, regulatory authority details, and key changes, helping users to better respond to new alerts.
+The AI-driven summarization feature is designed to provide concise, AI-driven overviews of regulatory alerts directly within the regulatory alert record in the Compliance Workspace. It offers contextual information, including important dates, regulatory authority details, and key changes, helping users to better respond to new alerts.
 
 ## Overview of a summary
 
@@ -91,6 +91,3 @@ Any incurred penalties or fines related to the regulatory alert if relevant.**No
 
 [Generate a regulatory alert summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-a-summary-of-a-reg-alert.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]

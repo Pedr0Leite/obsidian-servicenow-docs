@@ -14,7 +14,7 @@ breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Install Supplier Operations
 
-You can install the [[supplier-operations|Supplier Operations]] application \(com.snc.sn\_so\) to access advanced case management capabilities to handle key [[supplier|supplier]] lifecycle events.
+You can install the Supplier Operations application \(com.snc.sn\_so\) to access advanced case management capabilities to handle key supplier lifecycle events.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To install Supplier Operations, the following plugins have to be installed:
 
 -   **Required plugin**: Supplier Operations \(com.snc.sn\_so\)
 -   **Dependent plugins**:
-    -   [[supplier-case-management|Supplier Case Management]] \(com.snc.sn\_supplier\_mgmt\)
+    -   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
     -   Document Management \(com.snc.platform\_document\_management\)
 
 **Note:** The application installs required ServiceNow® Store applications and plugins if they are not already installed.
@@ -69,20 +69,13 @@ To install Supplier Operations, the following plugins have to be installed:
 
 [Advanced Work Assignment for Supplier Lifecycle Operations]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
 [Configure Supplier Relationship and Performance Management]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Configure smart assessments]()
 
 [Install Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/install-supp-mgmt.md)
 
-## Related
-
-- [[supplier-operations|Supplier Operations]]
-- [[supplier|Supplier]]
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

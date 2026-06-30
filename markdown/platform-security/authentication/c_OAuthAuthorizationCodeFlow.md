@@ -14,7 +14,7 @@ breadcrumb: [Old Inbound integrations experience, OAuth Inbound, OAuth authentic
 
 # OAuth authorization code grant flow
 
-[[authorization-code-grant|Authorization code grant]] flow allows a user to access a resource by authenticating directly with an [[oauth-inbound-and-outbound|OAuth]] server that trusts the resource, in contrast with authenticating with username/password credentials.
+Authorization code grant flow allows a user to access a resource by authenticating directly with an OAuth server that trusts the resource, in contrast with authenticating with username/password credentials.
 
 This implementation of OAuth authorization code flow allows access to a resource via REST. The authorization code framework gets the access token through the authorized URL that the user configures rather than requiring the user to enter a username/password. The username/password are never exposed to the client that is requesting access to the resource.
 
@@ -30,7 +30,7 @@ The Authorization code grant flow process consists of these three steps:
 
 \[Omitted image "AuthCodeGrantFlow1.png"\] Alt text: Authorization code grant flow process
 
-In step one, the client application or website initiates a REST API call in the form of a GET [[c_requestAPI|request]] to the instance via the user agent. Typically, the REST call is initiated when the end user clicks a button or a link on the client application or website to request an access token. In the client application, the end user also has to specify the authorization URL, token URL, client ID, and client secret. For an explanation of these items, see the field descriptions in this topic: [Use a third-party OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_UseAThirdPartyOAuthProvider.md). If the client asks for a grant type, the end user must select **Authorization Code**.
+In step one, the client application or website initiates a REST API call in the form of a GET request to the instance via the user agent. Typically, the REST call is initiated when the end user clicks a button or a link on the client application or website to request an access token. In the client application, the end user also has to specify the authorization URL, token URL, client ID, and client secret. For an explanation of these items, see the field descriptions in this topic: [Use a third-party OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_UseAThirdPartyOAuthProvider.md). If the client asks for a grant type, the end user must select **Authorization Code**.
 
 Example GET request from the client application to the instance:
 
@@ -81,15 +81,8 @@ https://myinstance.service-now.com/api/now/table/incident?access_token={the_toke
 Authorization code flow supports the following integrations on the instance:
 
 -   Multi-SSO
--   [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 Update 1
--   Multifactor [[c_Authentication|authentication]]
+-   SAML 2.0 Update 1
+-   Multifactor authentication
 
 The mobile interface is also supported.
 
-## Related
-
-- [[authorization-code-grant|Authorization code grant]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]

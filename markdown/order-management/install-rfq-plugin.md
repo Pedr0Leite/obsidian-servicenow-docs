@@ -29,7 +29,7 @@ The following items are installed with Customer Request for Quote:
 -   Roles
 -   Tables
 
-For more information, see [[components-install-with-customer-request-for-quote|Components installed with Customer Request for Quote]].
+For more information, see [Components installed with Customer Request for Quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-install-with-customer-request-for-quote.md).
 
 ## Procedure
 
@@ -49,7 +49,7 @@ For more information, see [[components-install-with-customer-request-for-quote|C
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
@@ -57,13 +57,7 @@ For more information, see [[components-install-with-customer-request-for-quote|C
 **Related topics**  
 
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-[[order-mgt-business-portal|Customer self-service using the Business Portal]]
+[Customer self-service using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-business-portal.md)
 
-## Related
-
-- [[components-install-with-customer-request-for-quote|Components installed with Customer Request for Quote]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[order-mgt-business-portal|Customer self-service using the Business Portal]]
-- [[use-cases|Use cases]]

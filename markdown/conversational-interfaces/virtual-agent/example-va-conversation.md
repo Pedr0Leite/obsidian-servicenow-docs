@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent chat widget interface for NLU, Explore, Virtual Agent
 
 # Example Asset Refresh Virtual Agent conversation with notifications
 
-[[virtual-agent-landing-page|Virtual Agent]] can automate many workflows, and a number of common solutions are available when you install Virtual Agent and related plugins, such as ITSM Virtual Agent Conversations.
+Virtual Agent can automate many workflows, and a number of common solutions are available when you install Virtual Agent and related plugins, such as ITSM Virtual Agent Conversations.
 
 For an overview of the Asset Refresh workflow from the user perspective, watch this video.
 
@@ -38,7 +38,7 @@ The Asset Refresh Virtual Agent topic provides the action for the notification. 
 
 \[Omitted image "crawl-ex-workflow-graphic.png"\] Alt text: The conversation workflow includes the primary path for upgrading the asset, as well as workflows for creating an Incident or helping the customer to understand the organization's upgrade policy first.
 
-After a greeting message, Virtual Agent asks the user if they want to upgrade now or get more information. If they choose to upgrade now, they are directed through the primary flow. Virtual Agent uses the [[va-lookup|Lookup utility]] to find the expiring asset that is assigned to the user. Then Virtual Agent makes sure the user still has the asset. If they do not, Virtual Agent uses the Create Incident topic block to open an Incident to resolve the problem. If the user still has the asset, Virtual Agent uses the Search Catalog Item topic block to find a replacement. The Request Catalog Item topic block is used to request it. The request is sent to the user, and the workflow ends.
+After a greeting message, Virtual Agent asks the user if they want to upgrade now or get more information. If they choose to upgrade now, they are directed through the primary flow. Virtual Agent uses the Lookup utility to find the expiring asset that is assigned to the user. Then Virtual Agent makes sure the user still has the asset. If they do not, Virtual Agent uses the Create Incident topic block to open an Incident to resolve the problem. If the user still has the asset, Virtual Agent uses the Search Catalog Item topic block to find a replacement. The Request Catalog Item topic block is used to request it. The request is sent to the user, and the workflow ends.
 
 If the user chooses to get more information, the AI Search topic block returns one or more specific KB articles that explain the organization's policy. Once the user has viewed these, they are given the option to upgrade now or later. If they choose to upgrade now, they are redirected through the primary workflow; otherwise, the conversation ends.
 
@@ -52,7 +52,3 @@ The following topics describe how to use Virtual Agent Designer and actionable n
 4.  [Create the notification for the Asset Refresh topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-example-asset-refresh-notification.md).
 5.  [Associate content with the Asset Refresh notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/associate-content-example-notification.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lookup|Lookup utility]]

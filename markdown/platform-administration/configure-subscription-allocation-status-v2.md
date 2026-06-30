@@ -12,7 +12,7 @@ breadcrumb: [Configure, Subscription Management, Get started, Administer the Ser
 
 # Configure subscription allocation status in Subscription Management
 
-Identify when you're close to allocating all of your subscriptions by configuring an allocation status threshold if you prefer a threshold other than the default value of 90 percent in [[subscription-management-landing-page-v2|Subscription Management]].
+Identify when you're close to allocating all of your subscriptions by configuring an allocation status threshold if you prefer a threshold other than the default value of 90 percent in Subscription Management.
 
 ## Before you begin
 
@@ -35,9 +35,5 @@ Role required: usage\_admin, sn\_sub\_man.admin, or admin
 
 When the number of allocated subscriptions exceeds the percentage you configured, the value Near capacity appears in the **Status** column throughout Subscription Management.
 
-**Parent Topic:**[[configuring-subscription-management-v2|Configuring Subscription Management]]
+**Parent Topic:**[Configuring Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-subscription-management-v2.md)
 
-## Related
-
-- [[configuring-subscription-management-v2|Configuring Subscription Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

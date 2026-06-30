@@ -80,7 +80,7 @@ Microsoft implies both Microsoft OneDrive and Microsoft SharePoint.
 ## Setting up system properties to connect with cloud hosting services
 
 -   **Enable system properties to use policy redlining in Compliance Workspace**
-    1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **GRC properties**.
+    1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **GRC properties**.
         1.  To opt Microsoft OneDrive as your cloud hosting service, select **One drive** in the **Select a file sharing service to host documents and attachments** system property list.
 
             If you select **None** in the **Select a file sharing service to host documents and attachments** system property list, then you can import the policy text. For more information, see [Import policy text for redlining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/import-policy-text-redlining.md).
@@ -95,6 +95,3 @@ Microsoft implies both Microsoft OneDrive and Microsoft SharePoint.
 
 As a sys admin you can establish the cloud hosting connection, enable system properties, and provide the mp\_document\_user role and compliance user \(sn\_compliance.user\) role for the policy redlining users.
 
-## Related
-
-- [[Administration|Administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Data collection, Configure advanced features, Performance Analytics
 
 # View data collection usage
 
-To view statistics about data collection jobs, click **Data Collection Overview** in the Usage tile on the [[pa-admin-console|Performance Analytics Admin Console]].
+To view statistics about data collection jobs, click **Data Collection Overview** in the Usage tile on the Performance Analytics Admin Console.
 
 ## Before you begin
 
@@ -24,14 +24,14 @@ Role required: pa\_admin, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Admin Console**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Admin Console**.
 
 2.  In the Usage tile, click **Data Collection Overview**.
 
 
 ## Result
 
-The following [[widgets|widgets]] are displayed:
+The following widgets are displayed:
 
 -   The net new scores, average run time, and number of errors for the day
 -   The weekly net new scores and average run time
@@ -39,13 +39,7 @@ The following [[widgets|widgets]] are displayed:
 
 ## What to do next
 
-By default, weekly statistics are shown in an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]], broken down by data collector. You can select different visualizations and breakdowns in the widget.
+By default, weekly statistics are shown in an Analytics Hub, broken down by data collector. You can select different visualizations and breakdowns in the widget.
 
 **Parent Topic:**[Data collection process and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/data-collection-process-logging.md)
 
-## Related
-
-- [[pa-admin-console|Performance Analytics Admin Console]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

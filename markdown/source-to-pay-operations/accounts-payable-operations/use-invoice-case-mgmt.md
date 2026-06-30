@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Using Invoice Case Management
 
-Manage and resolve [[work-with-inquiry-cases|invoice inquiry cases]] raised by employees and suppliers using Invoice Case Management to address invoice-related issues.
+Manage and resolve invoice inquiry cases raised by employees and suppliers using Invoice Case Management to address invoice-related issues.
 
 -   **[Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md)**  
 Invoice inquiry cases help resolve invoice-related issues raised by suppliers or employees through structured case workflows.
@@ -33,7 +33,7 @@ Invoice inquiry cases help resolve invoice-related issues raised by suppliers or
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -47,10 +47,5 @@ Invoice inquiry cases help resolve invoice-related issues raised by suppliers or
 
 [Playbook for updating the invoice primary data]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-central|Supplier Collaboration Portal]]

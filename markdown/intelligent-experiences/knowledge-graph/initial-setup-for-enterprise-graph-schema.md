@@ -14,7 +14,7 @@ breadcrumb: [Using Enterprise graph schema, Knowledge Graph, Enable AI experienc
 
 # Initial setup for Enterprise Graph schema in production instance
 
-Setup and use Enterprise Graph Schema, a unified [[knowledge-graph-landing|knowledge graph]] schema, that captures all the ServiceNow and third party tables and their connections.
+Setup and use Enterprise Graph Schema, a unified knowledge graph schema, that captures all the ServiceNow and third party tables and their connections.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Connections &amp; Credentials** &gt; **Connection &amp; Credential Aliases**.
 
-    \[Omitted image "image.connection-and-credntials-page"\] Alt text: Connection and credentials [[now-assist-global-navigation|navigation]]
+    \[Omitted image "image.connection-and-credntials-page"\] Alt text: Connection and credentials navigation
 
 2.  Open the record with name **Description\_Connector**.
 
@@ -85,7 +85,4 @@ Role required: admin
 
 13. Repeat the import set and transformation steps for other three tables.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-global-navigation|Navigation]]

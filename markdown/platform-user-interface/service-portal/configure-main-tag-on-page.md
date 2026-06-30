@@ -26,7 +26,7 @@ The **&lt;main&gt;** tag is a semantic HTML element that contains the main conte
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration**.
 
 2.  Select **Designer**.
 
@@ -55,6 +55,3 @@ In the HTML of the page, the **&lt;main&gt;** tag contains the container, row, o
 
 **Parent Topic:**[Improving search engine optimization for portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/seo-sp.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

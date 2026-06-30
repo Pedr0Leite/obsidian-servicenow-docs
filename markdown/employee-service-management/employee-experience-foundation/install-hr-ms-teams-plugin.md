@@ -14,7 +14,7 @@ breadcrumb: [Plan your installation, Integrating ServiceNow with Microsoft Teams
 
 # Install HR Service Delivery integration with Microsoft Teams application
 
-Install the [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams application to integrate with ServiceNow instance for the collaboration between the agents and employees.
+Install the HR Service Delivery integration with Microsoft Teams application to integrate with ServiceNow instance for the collaboration between the agents and employees.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ Import update set from XML to provide cross-scope access to HR Service Delivery 
 
 **Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/plan-installation-ms-teams.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

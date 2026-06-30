@@ -14,19 +14,19 @@ breadcrumb: [Cloud Provisioning and Governance administration guide, Cloud Provi
 
 # Troubleshooting tools for Cloud Provisioning and Governance
 
-The [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application provides several tools to help you troubleshoot errors you might encounter during the [[r-discovery|Discovery]] of [[cloud-accounts|cloud accounts]], the provisioning and managing of cloud resources, and the updating of the CMDB.
+The Cloud Provisioning and Governance application provides several tools to help you troubleshoot errors you might encounter during the Discovery of cloud accounts, the provisioning and managing of cloud resources, and the updating of the CMDB.
 
 These troubleshooting tools are available:
 
 -   **Cloud Orchestration Trail**
 
-    [[cloud-orch-trail|The Cloud Orchestration Trail]] is an activity log for all cloud resource activity on the instance. Use the Cloud Orchestration Trail to find errors that occur with cloud resources, such as credential errors during Discovery or API execution errors.
+    The Cloud Orchestration Trail is an activity log for all cloud resource activity on the instance. Use the Cloud Orchestration Trail to find errors that occur with cloud resources, such as credential errors during Discovery or API execution errors.
 
     See [Open the Cloud Orchestration Trail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/open-cloud-orch-api-trail.md) for instructions.
 
 -   **Cloud API Trail**
 
-    [[cloud-api-trail|The Cloud API Trail]] is an activity log for all activity that uses the Cloud API and goes through the MID Server. Use the Cloud API Trail to see API invocations and errors related to the route data, specific API route errors, and Java runtime exceptions.
+    The Cloud API Trail is an activity log for all activity that uses the Cloud API and goes through the MID Server. Use the Cloud API Trail to see API invocations and errors related to the route data, specific API route errors, and Java runtime exceptions.
 
     See [Open the Cloud API Trail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-api-trail.md) for instructions.
 
@@ -42,10 +42,4 @@ These troubleshooting tools are available:
 
     See [Open cloud orchestrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/open-cloud-orchestrations.md) for instructions.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-accounts|Cloud accounts]]
-- [[cloud-orch-trail|The Cloud Orchestration Trail]]
-- [[cloud-api-trail|The Cloud API Trail]]

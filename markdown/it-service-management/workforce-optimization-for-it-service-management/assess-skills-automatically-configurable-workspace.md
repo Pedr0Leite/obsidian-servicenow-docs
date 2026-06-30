@@ -18,7 +18,7 @@ Assess the ability of your agents to resolve incidents or the quality of their c
 
 ## Before you begin
 
-You can create an assessment from an interaction or any task type. When you manually create an assessment, you can add a survey to it. [[cf-coaching-landing|Coaching]] assessments also get created and assigned to the coach based on the trigger conditions that are defined in coaching opportunities.
+You can create an assessment from an interaction or any task type. When you manually create an assessment, you can add a survey to it. Coaching assessments also get created and assigned to the coach based on the trigger conditions that are defined in coaching opportunities.
 
 Role required: sn\_coaching.coach
 
@@ -34,7 +34,7 @@ The Coaching Overview screen displays the average quality of the tasks that were
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Manager Workspace**.
+1.  Navigate to **All** &gt; **Workforce Optimization for ITSM** &gt; **Manager Workspace**.
 
 2.  Perform adhoc assessments or the ones triggered by coaching opportunities.
 
@@ -170,7 +170,3 @@ Training to assign to the trainee.You can also assign learning tasks from course
 
 **Parent Topic:**[Surveys in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/surveys-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -14,7 +14,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 # Dashboard URL parameters
 
-Dashboard URL parameters allow you to control the visibility of headers and the [[breakdown-sources|breakdown sources]] of dashboards used in application pages.
+Dashboard URL parameters allow you to control the visibility of headers and the breakdown sources of dashboards used in application pages.
 
 ## Dashboard header
 
@@ -78,6 +78,3 @@ The example URL shows only the dashboards in the group CMDB Overview.
 <your-servicenow-instance.com>nav_to.do?uri=%2F$pa_dashboards_overview.do?sysparm_group=CMDB Overview
 ```
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]

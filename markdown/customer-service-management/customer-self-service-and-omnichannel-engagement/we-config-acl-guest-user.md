@@ -14,7 +14,7 @@ breadcrumb: [Guest user access for Web Embeddables, Web Embeddables, Set up self
 
 # Configure ACL for guest access
 
-Enable guest users to access Web Embeddables components by activating the required guest access control [[migration-lists|lists]] \(ACLs\).
+Enable guest users to access Web Embeddables components by activating the required guest access control lists \(ACLs\).
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Activate only the ACLs that correspond to the components you want to make availa
 
 Guest users can now access the Knowledge Article View and Catalog Item components based on the ACLs you activated. These ACLs enable access to the components, not to specific knowledge articles or catalog items within them. The system applies these ACLs when guests interact with embedded components on your website.
 
-## Related
-
-- [[migration-lists|Lists]]

@@ -25,7 +25,7 @@ Role required:
 
 ## About this task
 
-You can identify repeat offenders by using certain rules or criteria. [[dlp-landing|Data Loss Prevention Incident Response]] provides fields that you can use to identify repeat offenders.
+You can identify repeat offenders by using certain rules or criteria. Data Loss Prevention Incident Response provides fields that you can use to identify repeat offenders.
 
 ## Procedure
 
@@ -162,6 +162,3 @@ Define the repeat offender threshold limit in the form of days. After the user r
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

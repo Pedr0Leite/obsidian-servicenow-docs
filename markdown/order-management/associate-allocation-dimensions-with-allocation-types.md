@@ -30,9 +30,9 @@ An allocation dimension defines the attributes \(for example, Territory, Product
 
 3.  On the **Opportunity Allocation Dimension table** related links, select **Show List**.
 
-4.  Select **New** to [[create-new-opportunity|create an opportunity]] allocation dimension record.
+4.  Select **New** to create an opportunity allocation dimension record.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -53,23 +53,14 @@ The opportunity allocation dimension is created and listed on the **Opportunity 
 
 ## What to do next
 
--   [[manage-allocations|Manage allocations]]
--   [[add-or-edit-opportunity-allocations|Add or edit opportunity allocations]]
--   [[split-an-opportunity-allocation|Split opportunity allocation]]
+-   [Manage allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-allocations.md)
+-   [Add or edit opportunity allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-or-edit-opportunity-allocations.md)
+-   [Split opportunity allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/split-an-opportunity-allocation.md)
 
 **Related topics**  
 
 
-[[opportunity-mgmt-using|Using Opportunity Management]]
+[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[manage-allocations|Manage allocations]]
-- [[add-or-edit-opportunity-allocations|Add or edit opportunity allocations]]
-- [[split-an-opportunity-allocation|Split opportunity allocation]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[create-new-opportunity|Create an opportunity]]
-- [[fields|Fields]]

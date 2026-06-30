@@ -14,7 +14,7 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Connect Support and Service Portal
 
-Use [[c_ConnectSupport|Connect Support]] in your portal to allow your users to ask questions or submit requests to support agents. You configure the instance options to control the appearance of your widget and how it functions.
+Use Connect Support in your portal to allow your users to ask questions or submit requests to support agents. You configure the instance options to control the appearance of your widget and how it functions.
 
 The Connect Support and Service Portal integration creates a Connect Support widget that you can add to a page in the Service Portal.
 
@@ -50,6 +50,4 @@ Role required: admin
     |Window|Use this option to open the chat in another tab rather than in a new window.|
     |Title|The name in the widget header|
 
-## Related
 
-- [[c_ConnectSupport|Connect Support]]

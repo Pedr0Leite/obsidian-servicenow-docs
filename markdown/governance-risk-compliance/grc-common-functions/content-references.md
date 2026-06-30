@@ -28,7 +28,7 @@ After selecting GDPR DPIA, a series of related lists show all records tagged wit
 
 ## Records you can tag with content references
 
-In the GRC [[c_GRCAudits|Audit Management]], [[r_PolicyComplianceMgmt|Policy and Compliance Management]], and Risk Management applications, you can tag any of the following types of records.
+In the GRC Audit Management, Policy and Compliance Management, and Risk Management applications, you can tag any of the following types of records.
 
 **Note:** Not all of these records are available within each of the GRC applications listed above The related lists displayed in each of the applications, however, include all of the record types regardless of whether they are available.
 
@@ -37,7 +37,7 @@ In the GRC [[c_GRCAudits|Audit Management]], [[r_PolicyComplianceMgmt|Policy and
 -   Control Objectives
 -   Controls
 -   Engagements
--   [[entity-type-in-risk-ws|Entity Types]]
+-   Entity Types
 -   Entities
 -   Indicator Templates
 -   Indicators
@@ -82,11 +82,11 @@ Role required: admin
 
 4.  Select **Save**.
 
-    Move the integrations, use case accelerators, and so forth to which you want to associate with this policy exception record from the **Collection** box to the **Content References List**, then select **Save**. In this example, policy exception record PER0000105 has been tagged as being associated with the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]].
+    Move the integrations, use case accelerators, and so forth to which you want to associate with this policy exception record from the **Collection** box to the **Content References List**, then select **Save**. In this example, policy exception record PER0000105 has been tagged as being associated with the NIST RMF Use Case Accelerator.
 
 5.  Navigate to the **Content References** module under that application and select the associated use case accelerator.
 
-    To view all records tagged for a specific use case accelerator within a specific GRC application, For example, to see all records tagged with content references in Risk Management for the SOX content pack, navigate to **Risk** &gt; **[[Administration|Administration]]** &gt; **Content References**, and select **SOX**.
+    To view all records tagged for a specific use case accelerator within a specific GRC application, For example, to see all records tagged with content references in Risk Management for the SOX content pack, navigate to **Risk** &gt; **Administration** &gt; **Content References**, and select **SOX**.
 
     \[Omitted image "content-reference-sox.png"\] Alt text: Records tagged as content references to SOX
 
@@ -121,10 +121,4 @@ Role required: admin
 
     The new content reference tag is added to the list and is available from the Content Reference module in the GRC Audit Management, Policy and Compliance Management, and Risk Management applications.
 
-## Related
 
-- [[c_GRCAudits|Audit Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[Administration|Administration]]

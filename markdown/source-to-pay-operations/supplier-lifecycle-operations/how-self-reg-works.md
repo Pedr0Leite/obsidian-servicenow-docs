@@ -14,7 +14,7 @@ breadcrumb: [Supplier contact self-registration, Using Supplier Collaboration Po
 
 # Supplier contact self-registration
 
-The process of self-registering to the [[supplier-central|Supplier Collaboration Portal]] involves a series of tasks that the [[supplier-contact|supplier contact]] must complete.
+The process of self-registering to the Supplier Collaboration Portal involves a series of tasks that the supplier contact must complete.
 
 ## Workflow of the self-registration process
 
@@ -23,7 +23,7 @@ In this workflow:
 1.  The supplier contact starts the self-registration process by selecting **Register** on the Supplier Collaboration Portal home page. For more information, see [Self-register to the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/self-reg-to-supp-central.md).
 2.  A verification email is sent to the email address provided when registering.
 3.  The supplier contact verifies the email address.
-4.  An approval request is created for the self-registration [[supplier|supplier]] case.
+4.  An approval request is created for the self-registration supplier case.
 5.  The supplier manager approves the self-registration request. For more information, see [Approve a request associated with the Enroll a new supplier user case type from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-supp-case.md).
 6.  The supplier contact receives an email to reset the password.
 7.  The supplier contact resets the password and logs in to the Supplier Collaboration Portal.
@@ -38,8 +38,3 @@ As a supplier manager, you can approve or reject the assigned approve requests.
 
 [Approve a request associated with the Enroll a new supplier user case type from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-supp-case.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

@@ -14,18 +14,18 @@ breadcrumb: [Cloud Cost Management, IT Asset Management]
 
 # Using Cloud Cost Management
 
-Use [[cloud-insights-landing-page|Cloud Cost Management]] to rightsize, identify, assign, manage, and analyze usage data of your cloud resources.
+Use Cloud Cost Management to rightsize, identify, assign, manage, and analyze usage data of your cloud resources.
 
 -   **[Reduce resource cost with Reservation Plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/reserve-plan-using.md)**  
 View the Reserved Instances \(RI\) report, implement recommendations, and configure processes to convert on-demand payment plans to reservation plans, and save the cost of your resources.
 -   **[Resize resources with Rightsizing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/resize-res-ci.md)**  
 Gain better visibility of resource usage by identifying your over-provisioned or underused resources, configuring rightsizing operations, implementing rightsizing recommendations, and performing various rightsizing operations.
 -   **[Manage unused resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-unused-mac.md)**  
-Reduce cost by identifying the [[um-cloudin|unused resources]] and scheduling jobs to power-off or terminate the unused resources.
+Reduce cost by identifying the unused resources and scheduling jobs to power-off or terminate the unused resources.
 -   **[Improve resource usage with Business hours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/improve-res-use-business.md)**  
-Improve resource usage and reduce your cloud spend by running resources during the specified [[bh-cloudin|business hours]].
+Improve resource usage and reduce your cloud spend by running resources during the specified business hours.
 -   **[Manage cloud budgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/manage-cloud-budgets.md)**  
-Define and monitor custom budget plans for managing your cloud spend by using the [[budget-view-ws|Budget view]] in the [[ci-workspace|Cloud Cost Management Workspace]].
+Define and monitor custom budget plans for managing your cloud spend by using the Budget view in the Cloud Cost Management Workspace.
 -   **[Manage Cloud Cost Management subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/managing-ccm-subscriptions.md)**  
 Reduce your licensing costs by choosing only the Cloud Cost Management Resource Categories that you use.
 -   **[Assign service accounts to an insights\_owner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/insights-owner-new-cloudin.md)**  
@@ -45,13 +45,5 @@ Choose your preferred currency from the available options that will be shown for
 -   **[Compare MetricBase data with spend data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/compare-metricbase-spend.md)**  
 Compare MetricBase \(Clotho\) data with your Spend data for Amazon Web Services \(AWS\), Microsoft Azure, and Google Cloud Platform \(GCP\) to diagnose and troubleshoot Cloud Cost Management billing issues.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[um-cloudin|Unused resources]]
-- [[bh-cloudin|Business hours]]
-- [[budget-view-ws|Budget view]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

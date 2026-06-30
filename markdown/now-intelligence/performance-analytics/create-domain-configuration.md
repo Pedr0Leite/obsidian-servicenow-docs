@@ -24,7 +24,7 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Collector** &gt; **Domain Configurations** and create a record.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Collector** &gt; **Domain Configurations** and create a record.
 
 <table id="table_mff_5qm_tw"><thead><tr><th>
 
@@ -103,6 +103,3 @@ Select **All child domains** to roll up scores from the specified domains and al
 
 [bundle-psec.c_DomainSeparationSetup]
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

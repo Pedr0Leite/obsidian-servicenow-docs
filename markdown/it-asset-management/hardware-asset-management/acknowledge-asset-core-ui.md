@@ -14,7 +14,7 @@ breadcrumb: [Manage refresh of assets using Zero Touch Refresh, Use, Hardware As
 
 # Acknowledge receipt of an asset through the Core UI
 
-As an employee, acknowledge receipt of the new asset that you received through a [[zero-touch-asset-refresh|Zero Touch Refresh]] request through the Core UI on your ServiceNow instance.
+As an employee, acknowledge receipt of the new asset that you received through a Zero Touch Refresh request through the Core UI on your ServiceNow instance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: none
 
 2.  Select the Zero Touch Refresh request.
 
-3.  In the **Zero Touch Refresh Tasks** tab, select the **[[receive-rma-asset|Receive asset]]** task.
+3.  In the **Zero Touch Refresh Tasks** tab, select the **Receive asset** task.
 
 4.  Select **Close task**.
 
@@ -40,7 +40,7 @@ The state of the Receive asset task of the Zero Touch Refresh request changes to
 **Related topics**  
 
 
-[Configure replacement [[c_Models|models]] for a refresh model]()
+[Configure replacement models for a refresh model]()
 
 [Request a hardware asset refresh through Zero Touch Refresh]()
 
@@ -50,8 +50,3 @@ The state of the Receive asset task of the Zero Touch Refresh request changes to
 
 [Acknowledge receipt of an asset on a mobile device]()
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[receive-rma-asset|Receive asset]]
-- [[c_Models|Models]]

@@ -18,11 +18,11 @@ Migration from ITSM Agent Workspace to Service Operations Workspace \(SOW\) for 
 
 ## Associated system property
 
-If ITSM Agent Workspace contains [[dpm-list-modules-concept|list modules]] that use group-based list applicabilities, then only enable the **glide.ux.user\_criteria\_enabled** property mentioned in the System Property \[sys\_properties\] table.
+If ITSM Agent Workspace contains list modules that use group-based list applicabilities, then only enable the **glide.ux.user\_criteria\_enabled** property mentioned in the System Property \[sys\_properties\] table.
 
 ## How the migration utility identifies list categories and modules for migration
 
-The [[migration-utility|Migration utility]] for SOW identifies the list categories and modules to migrate based on the type of migration.
+The Migration utility for SOW identifies the list categories and modules to migrate based on the type of migration.
 
 Mapping list categories and modules
 
@@ -78,7 +78,7 @@ Migrating list items or modules for each category
     -   order
     -   active
     -   condition
-5.  Performs the following migration after the list item is [[migrated-records|migrated]] \(if the mapping is found\) or created \(if the mapping isn’t found\):
+5.  Performs the following migration after the list item is migrated \(if the mapping is found\) or created \(if the mapping isn’t found\):
     1.  Migrates list applicability for the migrated or created list item:
 
         1.  Creates a list applicability using the List Applicability \[sys\_ux\_applicability\_m2m\_list\] table and user criteria \(if groups are specified in the list item\) with the corresponding ITSM Agent Workspace list module, roles, and groups.
@@ -101,7 +101,7 @@ Migrating list items or modules for each category
         2.  Sets the corresponding attributes in the UX List \[sys\_ux\_list\] table.
 
 -   **[Perform post-migration tasks for list categories and modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-migration-status-list-categories-modules.md)**  
-Verify that the list categories and modules in Service Operations Workspace \(SOW\) are consistent with the list categories and modules in ITSM Agent Workspace \(ITSM AW\) and the list categories and modules are ready for use in SOW. You can update the migrated list categories and modules [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the list categories and modules in Service Operations Workspace \(SOW\) are consistent with the list categories and modules in ITSM Agent Workspace \(ITSM AW\) and the list categories and modules are ready for use in SOW. You can update the migrated list categories and modules settings in SOW based on your requirements.
 
 **Parent Topic:**[Configurations and customizations that can be migrated from ITSM Agent workspace to SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configurations-and-customizations-from-itsm-aw-sow-itsm.md)
 
@@ -130,9 +130,3 @@ Verify that the list categories and modules in Service Operations Workspace \(SO
 
 [Migration of field decorators from ITSM Agent Workspace to Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[dpm-list-modules-concept|List modules]]
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]

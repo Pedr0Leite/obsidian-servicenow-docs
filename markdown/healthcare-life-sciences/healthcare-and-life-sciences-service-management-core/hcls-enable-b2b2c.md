@@ -16,7 +16,7 @@ breadcrumb: [Configure, Healthcare and Life Sciences Service Management Core, He
 
 You can configure the Customer Service Management \(CSM\) data models to enable business-to-business-to-consumer \(B2B2C\). This model can be used to support employees of a business customer or end consumers of a business customer.
 
-The business-to-business \(B2B\) model supports customer accounts and the contacts within those accounts. The business-to-consumer \(B2C\) model supports individual consumers. These models are supported by default in [[hcls-core-app|Healthcare and Life Sciences Service Management Core]].
+The business-to-business \(B2B\) model supports customer accounts and the contacts within those accounts. The business-to-consumer \(B2C\) model supports individual consumers. These models are supported by default in Healthcare and Life Sciences Service Management Core.
 
 The B2B2C model enables you to support business customers and third-party channel partners who, in turn, support the end consumers. This model must be enabled manually for use with Healthcare and Life Sciences Service Management Core.
 
@@ -31,6 +31,3 @@ Configure the Customer Data Models for B2B2C to enable contacts of accounts to o
 5.  [Create a record producer for B2B2C in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-b2b2c-create-record-producer.md)
 6.  [Add a record producer to CSM portal for B2B2C in Healthcare and Life Sciences Service Management Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-add-record-producer-csm-portal.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

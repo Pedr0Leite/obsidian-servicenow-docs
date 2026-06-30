@@ -16,10 +16,10 @@ You can help make your pages responsive by following a few guidelines.
 
 \[Omitted image "cpq-rule-engine-performance.png"\] Alt text: Optimizing rules engine performance writeup
 
-In any online shopping or configuration experience, end-user engagement requires a responsive web page. CPQ achieves excellent performance as a result of its proprietary [[rules_101|rules]] engine. CPQ also provides the following benefits:
+In any online shopping or configuration experience, end-user engagement requires a responsive web page. CPQ achieves excellent performance as a result of its proprietary rules engine. CPQ also provides the following benefits:
 
 -   The end user receives instantaneous feedback after every input change.
--   End users do not need to click an Update button for the configurator to evaluate their input. Administrators do not need to distinguish [[fields|fields]] that automatically run from fields that must be updated through user interaction.
+-   End users do not need to click an Update button for the configurator to evaluate their input. Administrators do not need to distinguish fields that automatically run from fields that must be updated through user interaction.
 -   Because the rules engine evaluates the optimal rule order, rules do not have to manually ordered by the admin.
 
 Although the CPQ rules engine is engineered to process rules quickly, not all rules perform the same. Therefore, the administrator plays an essential role in optimizing the performance of the CPQ UI. Use the following rules of thumb when you build rules:
@@ -34,10 +34,5 @@ Although the CPQ rules engine is engineered to process rules quickly, not all ru
 
 -   Table lookups adversely impact end-user performance.
     -   Table lookups feature inherent costs of query, matching against unbounded volumes of tabular data, and scripted post-processing of the retrieved data.
-    -   In contrast, some CPQ vendors simplify administration by leveraging tabular data and [[scripts|scripts]] that query and process the tables, CPQ converts these tables to many simple rules. This conversion short-cuts the queries and post-processing, eliminates inefficient coding practices, and allows the rules engine to intelligently determine when a rule should run, and the specific tasks it must accomplish.
+    -   In contrast, some CPQ vendors simplify administration by leveraging tabular data and scripts that query and process the tables, CPQ converts these tables to many simple rules. This conversion short-cuts the queries and post-processing, eliminates inefficient coding practices, and allows the rules engine to intelligently determine when a rule should run, and the specific tasks it must accomplish.
 
-## Related
-
-- [[rules_101|Rules]]
-- [[fields|Fields]]
-- [[scripts|Scripts]]

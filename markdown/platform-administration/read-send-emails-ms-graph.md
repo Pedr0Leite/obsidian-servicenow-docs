@@ -29,19 +29,12 @@ To receive and email, go to the **Email Account** form, select, **Microsoft Grap
 
 To send and email, go to the **Email Account** form, select, **Microsoft Graph \(Send\)** in the **Type** field.
 
--   **[[ms-graph-plugin|Activate Email - Support for Email Processing by Microsoft Graph API]]**  
-You can activate the Email - Support for Email Processing by Microsoft Graph API plugin \(com.glide.email.graph\) for [[notifications|Notifications]] if you have the admin role.
--   **[[read-email-using-ms-graph|Reading email using Microsoft Graph]]**  
+-   **[Activate Email - Support for Email Processing by Microsoft Graph API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ms-graph-plugin.md)**  
+You can activate the Email - Support for Email Processing by Microsoft Graph API plugin \(com.glide.email.graph\) for Notifications if you have the admin role.
+-   **[Reading email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/read-email-using-ms-graph.md)**  
 Use Microsoft Graph API to retrieve emails from Microsoft Exchange Online and save them to sys\_email table.
--   **[[send-email-using-ms-graph|Sending email using Microsoft Graph]]**  
+-   **[Sending email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-using-ms-graph.md)**  
 Use Microsoft Graph endpoints to deliver emails through Microsoft Exchange Online using the SMTP Sender.
 
-**Parent Topic:**[[c_AlternateEmailConfigurations|Advanced email setup]]
+**Parent Topic:**[Advanced email setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AlternateEmailConfigurations.md)
 
-## Related
-
-- [[ms-graph-plugin|ms graph plugin]]
-- [[read-email-using-ms-graph|Reading email using Microsoft Graph]]
-- [[send-email-using-ms-graph|Sending email using Microsoft Graph]]
-- [[c_AlternateEmailConfigurations|Advanced email setup]]
-- [[notifications|Notifications]]

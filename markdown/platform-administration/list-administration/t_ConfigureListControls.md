@@ -108,7 +108,7 @@ Omit links
 
 </td><td>
 
-Option to hide links for fields that [[reference-email-admin|reference]] other files in this list. Leave this button unchecked to generate links or to control the use of links with roles \(**Link roles** field\).
+Option to hide links for fields that reference other files in this list. Leave this button unchecked to generate links or to control the use of links with roles \(**Link roles** field\).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ List edit tag
 
 </td><td>
 
-Unique tag that is sent to a [[c_ReferenceQualifiers|reference qualifier]] as the script variable *listEditRefQualTag*. Enter an arbitrary string of letters or numbers.
+Unique tag that is sent to a [reference qualifier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) as the script variable *listEditRefQualTag*. Enter an arbitrary string of letters or numbers.
 
 </td></tr><tr><td>
 
@@ -239,7 +239,4 @@ In this example, a related list label is configured to say `Child Incidents`, no
 
     In the problem record, the label for the embedded incident list has changed and the **New** button is no longer available.
 
-## Related
 
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[reference-email-admin|Reference]]

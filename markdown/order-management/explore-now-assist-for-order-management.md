@@ -13,7 +13,7 @@ breadcrumb: [Now Assist for Order Management, Sales Customer Relationship Manage
 
 # Exploring Now Assist for Order Management
 
-With the [[now-assist-order-management|Now Assist for Order Management]] application, you can use generative AI to summarize complex orders involving multiple products, services, and fulfillment tasks for faster, more accurate decision-making and improved customer responsiveness.
+With the Now Assist for Order Management application, you can use generative AI to summarize complex orders involving multiple products, services, and fulfillment tasks for faster, more accurate decision-making and improved customer responsiveness.
 
 ## Now Assist for Order Management overview
 
@@ -37,7 +37,7 @@ The Now Assist for Order Management application includes the generative AI skill
 
 The Now Assist for Order Management includes the following applications that enable business-to-business \(B2B\) customers to submit order and invoice cases autonomously in simple conversational format from the Business Portal.
 
--   **Manage [[order-operations-landing|Order Operations]]**
+-   **Manage Order Operations**
 
     The Manage Order Operations application \(com.sn\_ord\_ops\_aias\) includes the following AI agents:
 
@@ -45,8 +45,8 @@ The Now Assist for Order Management includes the following applications that ena
     -   Order exception AI voice agent: Enables B2B customers to submit order cases using voice calls.
     Get started by performing the following tasks:
 
-    -   [[enable-manage-order-operations-ai-agent|Enable the manage order operations agent on the Business Portal]]
-    -   [[create-atp-api-call|Configure scripted extension points for the manage order operations agent]]
+    -   [Enable the manage order operations agent on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-manage-order-operations-ai-agent.md)
+    -   [Configure scripted extension points for the manage order operations agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-atp-api-call.md)
 -   **Manage Invoice Operations**
 
     The Manage Invoice Operations application \(com.sn\_inv\_ops\_aias\) includes the following AI agents and agentic workflow:
@@ -56,27 +56,15 @@ The Now Assist for Order Management includes the following applications that ena
     -   Invoice dispute assist agentic workflow: Enables finance agents to validate and resolve invoice disputes using a guided experience from the Now Assist panel in the CSM/FSM Configurable Workspace. Internally, it uses the invoice dispute support assistant AI agent to validate invoice information, trigger API calls to check quantity discrepancies and provide resolutions.
     Get started by performing the following tasks:
 
-    -   [[enable-manage-invoice-operations-ai-agent|Configure AI-assisted invoice dispute intake on the Business Portal]]
-    -   [[configure-invoice-quantity-check-ep|Configure the invoice quantity validation extension point]]
-    -   [[configure-invoice-case-resolution-ep|Configure the invoice dispute resolution extension point]]
-    -   [[enable-invoice-dispute-assist-agentic-workflow|Make the invoice dispute assist workflow available in the Now Assist panel]]
+    -   [Configure AI-assisted invoice dispute intake on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-manage-invoice-operations-ai-agent.md)
+    -   [Configure the invoice quantity validation extension point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-invoice-quantity-check-ep.md)
+    -   [Configure the invoice dispute resolution extension point](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-invoice-case-resolution-ep.md)
+    -   [Make the invoice dispute assist workflow available in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-invoice-dispute-assist-agentic-workflow.md)
 
 **Related topics**  
 
 
-[[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
+[Configuring Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-for-order-management-configuring.md)
 
-[[now-assist-order-management-using|Using Now Assist for Order Management]]
+[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
-## Related
-
-- [[enable-manage-order-operations-ai-agent|Enable the manage order operations agent on the Business Portal]]
-- [[create-atp-api-call|Configure scripted extension points for the manage order operations agent]]
-- [[enable-manage-invoice-operations-ai-agent|Configure AI-assisted invoice dispute intake on the Business Portal]]
-- [[configure-invoice-quantity-check-ep|Configure the invoice quantity validation extension point]]
-- [[configure-invoice-case-resolution-ep|Configure the invoice dispute resolution extension point]]
-- [[enable-invoice-dispute-assist-agentic-workflow|Make the invoice dispute assist workflow available in the Now Assist panel]]
-- [[now-assist-for-order-management-configuring|Configuring Now Assist for Order Management]]
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]
-- [[now-assist-order-management|Now Assist for Order Management]]
-- [[order-operations-landing|Order operations]]

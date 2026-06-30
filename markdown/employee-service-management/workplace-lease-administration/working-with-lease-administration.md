@@ -14,13 +14,13 @@ breadcrumb: [Use, Workplace Lease Administration, Workplace Service Delivery, Em
 
 # Working with Workplace Lease Administration from the Workplace Central
 
-Create and [[manage-lease-contracts|manage workplace contracts]] from the [[workplace-central-feat|Workplace Central]].
+Create and manage workplace contracts from the Workplace Central.
 
 ## Access Workplace Lease Administration from the Workplace Central Workspace
 
 -   Activate Workplace Central plugin \(sn\_wsd\_central\).
 -   Ensure you have the role sn\_wsd\_la.workplace\_central\_user assigned.
--   Access [[workplace-lease-admin-feat|Workplace Lease Administration]] using one of the following methods:
+-   Access Workplace Lease Administration using one of the following methods:
     -   Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central** &gt; **Lease Administration**
     -   Navigate to **Workspaces** &gt; **Workplace Central** &gt; **Lease Administration**
 
@@ -35,8 +35,3 @@ Approve or reject a workplace contract after it is submitted for review.
 
 **Parent Topic:**[Using Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/use-lease-administration.md)
 
-## Related
-
-- [[manage-lease-contracts|Manage workplace contracts]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

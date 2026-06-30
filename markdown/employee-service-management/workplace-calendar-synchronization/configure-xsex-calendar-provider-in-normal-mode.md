@@ -22,7 +22,7 @@ Configure Microsoft Exchange Online as a calendar provider in normal mode to syn
 
 Ensure that the application scope is set to **Microsoft Exchange Online Spoke**. Otherwise, do the following:
 
-1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope icon.\) on the top-right corner of your [[employee-center-landing-page|Employee Center]] homepage.
+1.  Select the Application scope icon \(\[Omitted image "application-scope-globe-icon.png"\] Alt text: Application scope icon.\) on the top-right corner of your Employee Center homepage.
 2.  In the drop- down, select the option consisting **Application scope:**.
 3.  In the filter navigator, search and select **Microsoft Exchange Online Spoke**.
 4.  Refresh the page.
@@ -37,7 +37,7 @@ Configure Microsoft Exchange Online as calendar provider. If you want to specify
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Calendar Providers**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Calendar Providers**.
 
 2.  Select **New**.
 
@@ -121,7 +121,7 @@ Sync past reservations
 
 </td><td>
 
-Select the option to synchronize all the past reservations from the specified **Sync start date time** to the **Sync end date time**. You can configure the setting using the **[[sync-past-reservation|Synchronize past reservations]]**.
+Select the option to synchronize all the past reservations from the specified **Sync start date time** to the **Sync end date time**. You can configure the setting using the **Synchronize past reservations**.
 
 </td></tr><tr><td>
 
@@ -141,11 +141,11 @@ Delegated user email address that is used to create reservations and to receive 
 
 The calendar provider is added.
 
-**Warning:** Reservations that are created using calendar providers cannot be edited in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+**Warning:** Reservations that are created using calendar providers cannot be edited in the Workplace Reservation Management application.
 
 ## What to do next
 
-[[run-instance-scan-on-your-workplace-cal-sync-configs|Run Instance scan to check Microsoft Exchange Online synchronization configuration]]. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/run-instance-scan-on-your-workplace-cal-sync-configs.md).
+Run Instance scan to check Microsoft Exchange Online synchronization configuration. For more information, see [Run Instance scan to check Microsoft Exchange Online synchronization configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/run-instance-scan-on-your-workplace-cal-sync-configs.md).
 
 **Parent Topic:**[Create a normal mode connection with Microsoft Exchange Online](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-calendar-synchronization/create-connection-with-msex-in-normal-mode.md)
 
@@ -162,10 +162,3 @@ The calendar provider is added.
 
 [Create your own connection and credential alias for Microsoft Exchange Online]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[sync-past-reservation|Synchronize past reservations]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[run-instance-scan-on-your-workplace-cal-sync-configs|Run Instance scan to check Microsoft Exchange Online synchronization configuration]]

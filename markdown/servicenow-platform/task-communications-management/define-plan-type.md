@@ -29,7 +29,7 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
     |Field|Description|
     |-----|-----------|
     |Name|Unique name of the communication plan type.|
-    |Global|Option to determine whether the plan type is available for all tables or for a specific table. If the [[check-box|check box]] is not selected, the **Table** field appears where you can select the table for which the plan type appears.|
+    |Global|Option to determine whether the plan type is available for all tables or for a specific table. If the check box is not selected, the **Table** field appears where you can select the table for which the plan type appears.|
     |Application|Application scope of the plan type. The plan type is available for all applications or for scoped applications.|
     |Active|Option to define whether the plan type is active.|
     |Description|Detailed description of the plan type.|
@@ -41,11 +41,7 @@ Role required: sn\_comm\_management.comm\_plan\_admin or admin
 
 ## What to do next
 
-[[create-comm-plan-definition|Define a communication plan]].
+Define a communication plan.
 
 **Parent Topic:**[Working with Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/working-with-tcm.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[create-comm-plan-definition|Define a communication plan]]

@@ -22,11 +22,11 @@ Role required: survey\_admin or admin, survey\_creator
 
 ## About this task
 
-All associated questions \(type\), configurations, categories, metrics, [[domain-separation-relationship-formatter-editor|domain separation]] rules, and role-based categories are copied. Assigned users, category users, instances, and trigger conditions are not copied.
+All associated questions \(type\), configurations, categories, metrics, domain separation rules, and role-based categories are copied. Assigned users, category users, instances, and trigger conditions are not copied.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
@@ -58,7 +58,7 @@ In the title bar, select **Copy** from the context menu.
 
 </td></tr><tr><td id="d144735e122">
 
-**From [[c_SurveyDesigner|survey designer]]**
+**From survey designer**
 
 </td><td>
 
@@ -68,7 +68,7 @@ In the title bar, select **Copy** from the context menu.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -105,9 +105,3 @@ In the title bar, select **Copy** from the context menu.
 
 [Legacy survey migration]()
 
-## Related
-
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyDesigner|Survey designer]]

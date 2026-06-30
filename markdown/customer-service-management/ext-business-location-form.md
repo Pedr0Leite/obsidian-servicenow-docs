@@ -12,7 +12,7 @@ breadcrumb: [Customer Service forms, Reference, Customer Service Management]
 
 # External Business Location form
 
-In the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application, the Service Model Foundation uses the External Business Location \(EBL\) form to store information about an external business location. This information includes the staff members assigned to that location, cases, [[sold-product|sold products]], and [[install-base-item|install base items]] created for customers.
+In the Customer Service Management \(CSM\) application, the Service Model Foundation uses the External Business Location \(EBL\) form to store information about an external business location. This information includes the staff members assigned to that location, cases, sold products, and install base items created for customers.
 
 <table id="table_oxs_s2g_qtb"><thead><tr><th>
 
@@ -194,7 +194,7 @@ Description
 Description of the business location.
 
 </td></tr></tbody>
-</table>## External business location related [[migration-lists|lists]]
+</table>## External business location related lists
 
 The External Business Location form includes the following related lists.
 
@@ -213,9 +213,9 @@ Members
 </td><td>
 
 Internal and external users who have been added as staff members at this business location. -   Staff members can create cases for customers at their business locations.
--   Staff members can access customer cases and information where the **Service Organization** field on the [[r_CustomerServiceCaseForm|Case form]] matches their business locations.
+-   Staff members can access customer cases and information where the **Service Organization** field on the Case form matches their business locations.
 
-For more information about adding staff members to an external business location, see [[add-staff-members-biz-loc|Add staff members to a business location]].
+For more information about adding staff members to an external business location, see [Add staff members to a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-staff-members-biz-loc.md).
 
 </td></tr><tr><td>
 
@@ -223,7 +223,7 @@ Child External Business Locations
 
 </td><td>
 
-List of external business location records.For more information about creating external business locations, see [[create-external-business-location|Create an external business location]].
+List of external business location records.For more information about creating external business locations, see [Create an external business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-external-business-location.md).
 
 </td></tr><tr><td>
 
@@ -231,7 +231,7 @@ Assignment Groups
 
 </td><td>
 
-List of all associated assigned groups of the internal business location.For more information, see [[setting-up-assignment-groups|Setting up assignment groups]].
+List of all associated assigned groups of the internal business location.For more information, see [Setting up assignment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-assignment-groups.md).
 
 </td></tr><tr><td>
 
@@ -239,7 +239,7 @@ Available Services
 
 </td><td>
 
-List of services supported by the business location.For more information, see [[products-services-at-bus-loc|Setting up products and available services at a business location]].
+List of services supported by the business location.For more information, see [Setting up products and available services at a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/products-services-at-bus-loc.md).
 
 </td></tr><tr><td>
 
@@ -251,10 +251,10 @@ List of all projects assigned to the business location. Select a project to see 
 
  **Note:**
 
--   A location manager can see projects of their respective and child business locations. To learn more about roles, see [[csm-data-model-roles|Service Model Foundation roles]].
+-   A location manager can see projects of their respective and child business locations. To learn more about roles, see [Service Model Foundation roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-roles.md).
 -   A list of project tasks under the customer project tab is visible only if the **Visible to Customer** is selected during project task creation.
 
- To learn more about project creation, see [[create-customer-projects|Create customer projects]].
+ To learn more about project creation, see [Create customer projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-customer-projects.md).
 
  To learn more about project task creation, see [Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/t_CreateATaskFromAProject.md).
 
@@ -264,7 +264,7 @@ Organization Customer Criteria
 
 </td><td>
 
-List of customers supported by an external business location.For more information about associating customer criteria to an external business location, see [[associate-customer-criteria-to-service-organization|Define the configuration type for customers or business locations]].
+List of customers supported by an external business location.For more information about associating customer criteria to an external business location, see [Define the configuration type for customers or business locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-customer-criteria-to-service-organization.md).
 
 </td></tr><tr><td>
 
@@ -272,7 +272,7 @@ Cases Requested by Location
 
 </td><td>
 
-Cases that have been created and requested by this location.For more information about assigning cases to an external business location, see [[manage-business-location-cases|Create and manage cases for a business location]].
+Cases that have been created and requested by this location.For more information about assigning cases to an external business location, see [Create and manage cases for a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-business-location-cases.md).
 
 </td></tr><tr><td>
 
@@ -292,7 +292,7 @@ Account Staff Relationships
 
 Relationships that have been created between staff members and accounts at this location. Account staff relationships are created using the Account Manager responsibility.
 
-For more information about creating an account staff relationship, see [[create-staff-account-relationship|Create an account staff relationship]].
+For more information about creating an account staff relationship, see [Create an account staff relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-staff-account-relationship.md).
 
 </td></tr><tr><td>
 
@@ -302,7 +302,7 @@ Consumer Staff Relationships
 
 Relationships that have been created between staff members and consumers at this location. Consumer staff relationships are created using the Relationship Manager responsibility.
 
-For more information about creating a consumer staff relationship, see [[create-staff-consumer-relationship|Create a consumer staff relationship]].
+For more information about creating a consumer staff relationship, see [Create a consumer staff relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-staff-consumer-relationship.md).
 
 </td></tr><tr><td>
 
@@ -312,7 +312,7 @@ Household Staff Relationships
 
 Relationships that have been created between staff members and households at this location. Household staff relationships are created using the Relationship Manager responsibility.
 
-For more information about creating a household staff relationship, see [[create-staff-household-relationship|Create a household staff relationship]].
+For more information about creating a household staff relationship, see [Create a household staff relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-staff-household-relationship.md).
 
 </td></tr><tr><td>
 
@@ -320,7 +320,7 @@ Sold Products
 
 </td><td>
 
-Sold products that have been created for customers at this location.To learn more about creating and managing sold products for an external business location, see [[create-sp-for-business-location|Create and manage sold products for a business location]].
+Sold products that have been created for customers at this location.To learn more about creating and managing sold products for an external business location, see [Create and manage sold products for a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-sp-for-business-location.md).
 
 </td></tr><tr><td>
 
@@ -328,35 +328,13 @@ Install Base Items
 
 </td><td>
 
-Install base items that have been created for customers at this location.For more information about creating and managing install base items for an external business location, see [[create-ib-items-for-business-locations|Create and manage install base items for a business location]].
+Install base items that have been created for customers at this location.For more information about creating and managing install base items for an external business location, see [Create and manage install base items for a business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-ib-items-for-business-locations.md).
 
 </td></tr></tbody>
 </table>**Related topics**  
 
 
-[[create-internal-business-location|Create an internal business location]]
+[Create an internal business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-internal-business-location.md)
 
-[[csm-data-model-relationships|Service Model Foundation relationships]]
+[Service Model Foundation relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-relationships.md)
 
-## Related
-
-- [[add-staff-members-biz-loc|Add staff members to a business location]]
-- [[create-external-business-location|Create an external business location]]
-- [[setting-up-assignment-groups|Setting up assignment groups]]
-- [[products-services-at-bus-loc|Setting up products and available services at a business location]]
-- [[csm-data-model-roles|Service Model Foundation roles]]
-- [[create-customer-projects|Create customer projects]]
-- [[associate-customer-criteria-to-service-organization|Define the configuration type for customers or business locations]]
-- [[manage-business-location-cases|Create and manage cases for a business location]]
-- [[create-staff-account-relationship|Create an account staff relationship]]
-- [[create-staff-consumer-relationship|Create a consumer staff relationship]]
-- [[create-staff-household-relationship|Create a household staff relationship]]
-- [[create-sp-for-business-location|Create and manage sold products for a business location]]
-- [[create-ib-items-for-business-locations|Create and manage install base items for a business location]]
-- [[create-internal-business-location|Create an internal business location]]
-- [[csm-data-model-relationships|Service Model Foundation relationships]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]

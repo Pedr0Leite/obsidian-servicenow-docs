@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[knowledge-graph-landing|Knowledge Graph]]** &gt; **Knowledge Graph Designer** &gt; **Enterprise Graph**.
+1.  Navigate to **All** &gt; **Knowledge Graph** &gt; **Knowledge Graph Designer** &gt; **Enterprise Graph**.
 
 2.  Select **Open your last view** to load and view the recently opened Enterprise Graph schema.
 
@@ -67,6 +67,4 @@ Role required: admin
 
 12. Select **Run Query**.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

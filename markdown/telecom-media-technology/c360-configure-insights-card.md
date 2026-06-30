@@ -28,18 +28,13 @@ Role required: sn\_telecom\_c360.admin
 
     |Variable name|Description|
     |-------------|-----------|
-    |Enable proactive trigger|This variable is enabled by default. If this variable is inactive, the insights are not automatically generated when you open the customer or consumer account. After you open the account, select **[[c360-ai-insights|Generate telecom customer 360 insights]]** to generate the insights for the account.|
+    |Enable proactive trigger|This variable is enabled by default. If this variable is inactive, the insights are not automatically generated when you open the customer or consumer account. After you open the account, select **Generate telecom customer 360 insights** to generate the insights for the account.|
 
 
-**Parent Topic:**[[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
+**Parent Topic:**[Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md)
 
 **Related topics**  
 
 
-[[c360-insights-card|Insights card]]
+[Insights card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-insights-card.md)
 
-## Related
-
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-insights-card|Insights card]]
-- [[c360-ai-insights|Generate Telecom customer 360 insights]]

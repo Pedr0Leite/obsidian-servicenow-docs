@@ -14,7 +14,7 @@ breadcrumb: [Telecom Discovery, Telecom Visibility, Explore, Telecommunications 
 
 # Direct Discovery using Discovery Patterns
 
-The Telecommunications Discovery Patterns plugin \(also known as TSOM Patterns\) extends ServiceNow AI Platform [[exploring-telecom-discovery|Telecom Discovery]] to support direct discovery of standalone network elements—such as routers and switches—without relying on traditional network management systems. These patterns enable Communication Service Providers \(CSPs\) to identify and map multivendor xNFs using protocols like SNMP and CLI.
+The Telecommunications Discovery Patterns plugin \(also known as TSOM Patterns\) extends ServiceNow AI Platform Telecom Discovery to support direct discovery of standalone network elements—such as routers and switches—without relying on traditional network management systems. These patterns enable Communication Service Providers \(CSPs\) to identify and map multivendor xNFs using protocols like SNMP and CLI.
 
 Telecommunications Discovery Patterns provide a powerful, pattern-based approach to discover and manage telecom network resources directly from network elements. These patterns are especially valuable for discovering standalone xNFs \(such as routers and switches\) that aren't managed through traditional EMS/NMS systems.
 
@@ -60,11 +60,11 @@ For more information, see [Horizontal discovery process flow with patterns](http
 
 A pattern is a sequence of commands to detect attributes of a configuration item \(CI\) and its outbound connections. Telecom Discovery provides a set of preconfigured Patterns that cover a wide range of network elements. ServiceNow offers several predefined TSOM patterns, including:
 
--   [[telecom-router-pattern|Telecom Router Pattern]] – Generic SNMP-based router discovery.
--   [[telecom-cisco7613-router-pattern|Telecom Cisco 7613 Router Pattern]] – For Cisco 7613 routers using SNMP.
--   [[telecom-juniper-mx-ssh-router-pattern|Telecom Juniper MX SSH Router Pattern]] – SNMP + CLI discovery of Juniper MX routers.
--   [[telecom-cisco-switch-pattern|Telecom Cisco Switch Pattern]] – SNMP-based Cisco switch discovery.
--   [[telecom-switch-pattern|Telecom Switch Pattern]] – SNMP-based generic switch discovery.
+-   Telecom Router Pattern – Generic SNMP-based router discovery.
+-   Telecom Cisco 7613 Router Pattern – For Cisco 7613 routers using SNMP.
+-   Telecom Juniper MX SSH Router Pattern – SNMP + CLI discovery of Juniper MX routers.
+-   Telecom Cisco Switch Pattern – SNMP-based Cisco switch discovery.
+-   Telecom Switch Pattern – SNMP-based generic switch discovery.
 
 ## TNI entity creation
 
@@ -90,11 +90,3 @@ IRE offers a centralized framework for identifying and reconciling data from mul
 
 [Install Horizontal Discovery and set up Discovery Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/install-horizontal-telecommunication-discoverypatterns.md)
 
-## Related
-
-- [[exploring-telecom-discovery|Telecom Discovery]]
-- [[telecom-router-pattern|Telecom Router Pattern]]
-- [[telecom-cisco7613-router-pattern|Telecom Cisco 7613 Router Pattern]]
-- [[telecom-juniper-mx-ssh-router-pattern|Telecom Juniper MX SSH Router Pattern]]
-- [[telecom-cisco-switch-pattern|Telecom Cisco Switch Pattern]]
-- [[telecom-switch-pattern|Telecom Switch Pattern]]

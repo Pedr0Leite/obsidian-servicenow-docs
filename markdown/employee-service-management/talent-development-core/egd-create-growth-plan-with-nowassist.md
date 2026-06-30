@@ -14,7 +14,7 @@ breadcrumb: [Using the Talent Development Core application, Talent Development C
 
 # Create a growth plan with the help of Now Assist
 
-Use Now Assist to help [[egd-create-growth-plan|create a growth plan]] to give your career goals guidance and structure.
+Use Now Assist to help create a growth plan to give your career goals guidance and structure.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: No role is required, but you must be a licensed user.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  Select **Your Career** &gt; **Growth plans**.
 
@@ -50,16 +50,10 @@ Role required: No role is required, but you must be a licensed user.
     -   **Launch plan**: Share this plan with your manager as soon as it launches. Is your plan ready to go?
     You can also add activities.
 
-    -   **[[exploring-learning-exp|Learning]] activities**: Search for a course name or keyword to find more learning activities.
+    -   **Learning activities**: Search for a course name or keyword to find more learning activities.
     -   **Check-in**: Schedule a conversation and add it to your calendar once you have launched your plan.
     -   **Mentorship**: Add a reminder to your growth plan that you want to connect with a mentor. See, [Enroll as a mentor or mentee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mentoring/enroll-mentoring.md).
-    -   **Something else**: Add your own [[activity-lxp|activity]] to your plan.
+    -   **Something else**: Add your own activity to your plan.
 
 **Parent Topic:**[Using the Talent Development Core application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-use.md)
 
-## Related
-
-- [[egd-create-growth-plan|Create a growth plan]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

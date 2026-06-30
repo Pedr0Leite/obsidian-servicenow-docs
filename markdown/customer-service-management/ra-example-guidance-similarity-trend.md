@@ -12,7 +12,7 @@ breadcrumb: [Example configurations, Recommended Actions configuration, Implemen
 
 # Example: Link the similar major case to the current case
 
-Learn how process analysts or business owners configure a recommended action of type guidance to [[osp-propose-major-case|propose a major case]] that can be linked to the current case. This guidance uses a resource generator of type similarity with trend to recommend the similar case that has a common trend.
+Learn how process analysts or business owners configure a recommended action of type guidance to propose a major case that can be linked to the current case. This guidance uses a resource generator of type similarity with trend to recommend the similar case that has a common trend.
 
 ## Problem scenario
 
@@ -38,17 +38,9 @@ Help Daniel configure a recommended action of type guidance that uses Similarity
 
 |Task|Description|
 |----|-----------|
-|[[ex-ra-config-subflow-link-major-case|Configuring a subflow for the guidance action automation]]|Configure a subflow that you can use in a guidance to link the proposed major case to the current case automatically on a click of an action button.|
-|[[ex-ra-resource-generator-similarity-trend|Configure a resource generator for providing a similar major case to the current case]]|Configure a resource generator of type similarity with trend that provides a similar major case to the current case.|
-|[[ra-ex-guidance-link-major-case|Create a guidance for linking the similar major case to the current case]]|Create a guidance to link the similar major case to the current case by configuring guidance inputs, preview experience, and guidance action.|
-|[[ex-create-rule|Create a rule from the Case context record]]|Create a rule to show recommendations for active cases that meet the condition specified in this rule.|
-|[[ex-create-recommendation-guidance|Create a recommendation with guidance as an action type]]|Create a recommendation to select the Guidance as an action type for linking a major case to the current case record.|
+|[Configuring a subflow for the guidance action automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-ra-config-subflow-link-major-case.md)|Configure a subflow that you can use in a guidance to link the proposed major case to the current case automatically on a click of an action button.|
+|[Configure a resource generator for providing a similar major case to the current case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-ra-resource-generator-similarity-trend.md)|Configure a resource generator of type similarity with trend that provides a similar major case to the current case.|
+|[Create a guidance for linking the similar major case to the current case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-ex-guidance-link-major-case.md)|Create a guidance to link the similar major case to the current case by configuring guidance inputs, preview experience, and guidance action.|
+|[Create a rule from the Case context record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-rule.md)|Create a rule to show recommendations for active cases that meet the condition specified in this rule.|
+|[Create a recommendation with guidance as an action type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ex-create-recommendation-guidance.md)|Create a recommendation to select the Guidance as an action type for linking a major case to the current case record.|
 
-## Related
-
-- [[ex-ra-config-subflow-link-major-case|Configuring a subflow for the guidance action automation]]
-- [[ex-ra-resource-generator-similarity-trend|Configure a resource generator for providing a similar major case to the current case]]
-- [[ra-ex-guidance-link-major-case|Create a guidance for linking the similar major case to the current case]]
-- [[ex-create-rule|Create a rule from the Case context record]]
-- [[ex-create-recommendation-guidance|Create a recommendation with guidance as an action type]]
-- [[osp-propose-major-case|Propose a major case]]

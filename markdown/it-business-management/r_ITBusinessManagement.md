@@ -33,7 +33,7 @@ Strategically align work with business goals to deliver products and services. S
 
 </td></tr><tr><td>
 
-[Portfolio Planning Workspace\[Omitted image "bus-manage.svg"\] Alt text:Enhance your traditional product and [[c_PortfolioManagement|portfolio management]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md)
+[Portfolio Planning Workspace\[Omitted image "bus-manage.svg"\] Alt text:Enhance your traditional product and portfolio management.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Strategically align work with business goals to deliver products and services. S
 
 </td><td>
 
-[Enterprise-Wide Deployment\[Omitted image "bus-business-management.svg"\] Alt text:Separate and control record visibility across departments and [[c_BusinessUnits|business units]] within a single instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ewd-landing-page.md)
+[Enterprise-Wide Deployment\[Omitted image "bus-business-management.svg"\] Alt text:Separate and control record visibility across departments and business units within a single instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ewd-landing-page.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ Business Applications and Business Capabilities modules are also available withi
 -   [Now Assist for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
 -   [Collaborative Work Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-landing.md)
 -   [Now Assist for CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-collaborative-work-management-cwm/now-assist-for-cwm-landing.md)
--   [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]
+-   [Retail Strategic Portfolio Management Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-retail-suite-landing-page.md)
 -   [Product Feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-landing.md)
 -   [Portfolio Planning in SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/planning-in-spw.md)
 -   [Enterprise Agile Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-landing.md)
@@ -114,11 +114,5 @@ Business Applications and Business Capabilities modules are also available withi
 -   [Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/agile-jira-integration-overview.md)
 -   [Test Management applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-management-overview.md)
 -   [Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
--   [[spm-extension-capabilities-overview|SPM custom tables]]
+-   [SPM custom tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-extension-capabilities-overview.md)
 
-## Related
-
-- [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]
-- [[spm-extension-capabilities-overview|SPM custom tables]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[c_BusinessUnits|Business units]]

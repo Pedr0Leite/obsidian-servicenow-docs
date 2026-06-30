@@ -14,7 +14,7 @@ breadcrumb: [Connect administration, Connect, ServiceNow AI Platform Additional 
 
 # Customize the Connect audio notification sound
 
-You can replace the default [[c_Connect|Connect]] audio notification sound with an audio file of your choice.
+You can replace the default Connect audio notification sound with an audio file of your choice.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ## About this task
 
-The audio notification sound is used for all Connect conversation types, including [[c_ConnectSupport|Connect Support]] conversations.
+The audio notification sound is used for all Connect conversation types, including Connect Support conversations.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ The audio notification sound is used for all Connect conversation types, includi
 
 3.  Navigate to **Connect** &gt; **Administration** &gt; **Properties**.
 
-4.  Locate the property called **Audio file to play to [[notify-landing-page|notify]] users of new messages, support conversation transfers and @mentions in Connect** \(**connect.notification.audio\_alert**\) and replace the default value with the name of the audio file.
+4.  Locate the property called **Audio file to play to notify users of new messages, support conversation transfers and @mentions in Connect** \(**connect.notification.audio\_alert**\) and replace the default value with the name of the audio file.
 
 5.  Click **Save**.
 
@@ -45,8 +45,3 @@ The audio notification sound is used for all Connect conversation types, includi
 
 End users receive audio notifications when sending and receiving support chats. Support agents only receive audio notifications for inbound chats when the chat window is not in focus.
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[c_ConnectSupport|Connect Support]]
-- [[notify-landing-page|Notify]]

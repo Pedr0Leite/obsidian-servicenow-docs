@@ -33,9 +33,9 @@ With Microsoft OneDrive integration you can do the following:
 
 ## Activation information
 
-To integrate Microsoft OneDrive with [[document-services-landing-page|Document Services]], install the [[mp-document-services-framework-landing|Multi Provider Document Services Framework]] plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activate-multi-provider-doc-framework.md).
+To integrate Microsoft OneDrive with Document Services, install the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\). For more information, see [Activate Multi Provider Document Services Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activate-multi-provider-doc-framework.md).
 
-You also need to install the [[onedrive-spoke-document-services-framework|Document Services Framework for Microsoft OneDrive]].
+You also need to install the Document Services Framework for Microsoft OneDrive.
 
 -   **[Document Services Framework for Microsoft OneDrive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/onedrive-spoke-document-services-framework.md)**  
 Integrate the Document Services Framework with Microsoft OneDrive.
@@ -46,8 +46,3 @@ Use the information generated during Microsoft OneDrive account configuration to
 
 **Parent Topic:**[Integrate with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integrate-with-document-services-mp.md)
 
-## Related
-
-- [[document-services-landing-page|Document Services]]
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]
-- [[onedrive-spoke-document-services-framework|Document Services Framework for Microsoft OneDrive]]

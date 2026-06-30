@@ -12,7 +12,7 @@ breadcrumb: [Configure Visualization library, Implement, Unified Security Exposu
 
 # Update a widget
 
-Update a widget in the [[sem-visualization-library|Visualization Library]] to modify its configuration or presentation. You can update attributes to refine how data appears in Findings dashboards and ensure that the visualizations stay relevant to your reporting needs.
+Update a widget in the Visualization Library to modify its configuration or presentation. You can update attributes to refine how data appears in Findings dashboards and ensure that the visualizations stay relevant to your reporting needs.
 
 ## Before you begin
 
@@ -42,9 +42,5 @@ The widget is updated in the Visualization Library and can be used when creating
 -   You can create or update widgets in the Findings view, but not in the Remediation overview page. Widgets in the Remediation overview are predefined and can’t be created or edited. You can only change their display order or activate or deactivate them.
 -   Only the widgets marked **Active** = true appear for selection while creating a dashboard in the finding view.
 
-**Parent Topic:**[[sem-configure-visualization-library|Configure Visualization library]]
+**Parent Topic:**[Configure Visualization library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 
-## Related
-
-- [[sem-configure-visualization-library|Configure Visualization library]]
-- [[sem-visualization-library|Visualization library]]

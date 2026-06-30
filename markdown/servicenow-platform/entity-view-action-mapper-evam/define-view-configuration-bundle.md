@@ -14,7 +14,7 @@ breadcrumb: [Configuring entity view action mapper, Entity view action mapper, M
 
 # Define an EVAM configuration bundle
 
-Create a view configuration to combine conditions, database fields, and declarative actions with an associated view template using the [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\).
+Create a view configuration to combine conditions, database fields, and declarative actions with an associated view template using the Entity View Action Mapper \(EVAM\).
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ Role required: admin or evam\_admin
 
 3.  Select **Submit**.
 
-## Related
 
-- [[entity-view-action-mapper|Entity view action mapper]]

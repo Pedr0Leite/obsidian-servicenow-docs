@@ -23,8 +23,5 @@ To generate Microsoft Word disclosures:
 3.  As an ESG administrator, you can configure additional reporting filters. These filters specify at a granular level what data must be imported to the disclosure report from a table.
 4.  As an ESG reporting and disclosure manager, go to your Microsoft Word document, authenticate yourself, and import the data from your instance to the document. You can alter the formatting of the data according to your preferences.
 
-**Parent Topic:**[[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]
+**Parent Topic:**[Integrating Microsoft 365 with ServiceNow reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-o365-with-servicenow.md)
 
-## Related
-
-- [[integrating-o365-with-servicenow|Integrating Microsoft 365 with ServiceNow reporting]]

@@ -50,7 +50,7 @@ While requesting a loaner asset, ensure that the start date is within three mont
     |Return date|Date when you want to return the asset.|
     |Justification|Reason why you need the asset.|
 
-    After entering the **Start date** and **Return date**, if there are no [[loaner-asset|loaner assets]] available in the selected location and for the selected time period, a warning appears. If you still submit the loaner order, your loaner order will be in a waitlist. For more information on waitlisted loaner orders, see [Loaner asset reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/loaner-asset.md).
+    After entering the **Start date** and **Return date**, if there are no loaner assets available in the selected location and for the selected time period, a warning appears. If you still submit the loaner order, your loaner order will be in a waitlist. For more information on waitlisted loaner orders, see [Loaner asset reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/loaner-asset.md).
 
 5.  Select **Submit**.
 
@@ -68,6 +68,3 @@ Select and prepare the loaner asset or consumable for deployment and reclamation
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[loaner-asset|Loaner assets]]

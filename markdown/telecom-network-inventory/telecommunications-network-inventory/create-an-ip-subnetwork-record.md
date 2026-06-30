@@ -30,21 +30,21 @@ When you create an IP Subnetwork record, the system creates a corresponding conf
 
 An IP Subnetwork can itself contain further nested IP Subnetworks. The nesting depth is not limited. To create a nested subnetwork, follow this procedure but start from the parent IP Subnetwork’s record rather than from the IP Address Block.
 
-The IP Subnetwork label in the user interface refers to the Managed IP Network Subnet class in the underlying [[uses-for-network-inventory-data|data model]].
+The IP Subnetwork label in the user interface refers to the Managed IP Network Subnet class in the underlying data model.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]** or **Service Operations Workspace**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace** or **Service Operations Workspace**.
 
 2.  Open the parent record under which you want to create the subnetwork:
 
-    -   To create a top-level subnetwork, open an IP Address Block record \(**[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **IP Address Block** &gt; select the block\).
+    -   To create a top-level subnetwork, open an IP Address Block record \(**Inventory Number Allocation** &gt; **IP Address Block** &gt; select the block\).
     -   To create a nested subnetwork, open an IP Subnetwork record \(**Inventory Number Allocation** &gt; **IP Network Subnets** &gt; select the subnetwork\).
 3.  Select the **IP Subnetwork** tab \(for top-level subnetworks\) or the **Nested IP Subnet** tab \(for nested subnetworks\).
 
 4.  Select **Create IP Subnetwork**.
 
-5.  On the Create Nested [[ip-subnetwork-form|IP Subnetwork form]], fill in the fields:
+5.  On the Create Nested IP Subnetwork form, fill in the fields:
 
     |Field|Description|Required|
     |-----|-----------|--------|
@@ -65,7 +65,7 @@ The IP Subnetwork label in the user interface refers to the Managed IP Network S
 
     When you select Set Inventory Attributes, the system creates a TNI CI Attributes record in the CI table and in the [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) CI Attributes tables, and links it to the CI record.
 
-    **Note:** If you select Save without selecting Set Inventory Attributes, the system creates a CI record but not a [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) CI record. In the Network Inventory Workspace, Set Inventory Attributes is visible only for [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) roles. In the [[ci-attribue-form|TNI CI attributes form]], the name is fetched from the Name field by default, and the Inventory Category is set as IP Address.
+    **Note:** If you select Save without selecting Set Inventory Attributes, the system creates a CI record but not a [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) CI record. In the Network Inventory Workspace, Set Inventory Attributes is visible only for [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) roles. In the TNI CI attributes form, the name is fetched from the Name field by default, and the Inventory Category is set as IP Address.
 
 8.  To add packs to this service, select **Add Packs**.
 
@@ -86,7 +86,7 @@ Allocate IP address slots from this subnetwork to begin managing individual addr
 -   To create IP Address records for selected slots after allocation, see [Create IP Address records from allocated IPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-ip-address-records-from-allocated-ips.md).
 -   To create a single IP Address record at the subnetwork level, see [Create an IP Address record at subnet level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-an-ip-address-record-at-subnet-level.md) .
 
-You can also review or update the fields, create a related tab record, or [[delete-inventory-record|delete a record]]. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md) .
+You can also review or update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md) .
 
 **Parent Topic:**[Manage IP addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/manage-ip-addresses.md)
 
@@ -105,11 +105,3 @@ You can also review or update the fields, create a related tab record, or [[dele
 
 [IP Subnetwork form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ip-subnetwork-form.md)
 
-## Related
-
-- [[uses-for-network-inventory-data|Data model]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ip-subnetwork-form|IP Subnetwork form]]
-- [[ci-attribue-form|TNI CI Attributes form]]
-- [[delete-inventory-record|Delete a record]]

@@ -14,12 +14,12 @@ breadcrumb: [IoC Repository, Threat Intelligence, Enterprise security case manag
 
 Identities represent actual individuals, organizations, or groups \(ACME, Inc.\) and classes of individuals, systems, or groups \(the finance sector\). Identities apply for STIX 2.x.
 
-The [[identity|Identity]] SDO can capture basic identifying information, contact information, and the sectors that the Identity belongs to. Identity represents targets of attacks, information sources, object creators, and [[threat-actor|threat actor]] identities.
+The Identity SDO can capture basic identifying information, contact information, and the sectors that the Identity belongs to. Identity represents targets of attacks, information sources, object creators, and threat actor identities.
 
--   **[[define-identities|Define identities]]**  
+-   **[Define identities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-identities.md)**  
 Define identities who represent actual individuals, organizations, or groups.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -70,9 +70,3 @@ Define identities who represent actual individuals, organizations, or groups.
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-identities|Define identities]]
-- [[ioc-repository|IoC Repository]]
-- [[identity|Identity]]
-- [[threat-actor|Threat Actor]]

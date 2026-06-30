@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables Sourcing Procurement, Outbound staging tabl
 
 # Outbound Order Line staging table
 
-The Outbound Order Line \[sn\_spend\_intg\_outbound\_purchase\_order\_line\] staging table stores important data about the [[purchase-order-lines|purchase order lines]] created so that an ERP integrator can export this data to a third-party ERP system.
+The Outbound Order Line \[sn\_spend\_intg\_outbound\_purchase\_order\_line\] staging table stores important data about the purchase order lines created so that an ERP integrator can export this data to a third-party ERP system.
 
 The following table lists the key fields for the Outbound Order Line \[sn\_spend\_intg\_outbound\_purchase\_order\_line\] staging table.
 
@@ -42,7 +42,7 @@ String
 
 </td><td>
 
-Account assignment category of the [[purchase-order-table|purchase order]] line.
+Account assignment category of the purchase order line.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Contract number of the purchase order line.
 
 </td></tr><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -394,7 +394,7 @@ Street address of the purchase order line.
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] part number
+Supplier part number
 
 </td><td>
 
@@ -454,10 +454,3 @@ Zip code of the purchase order line.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[purchase-order-lines|Purchase order lines]]
-- [[purchase-order-table|Purchase order]]
-- [[cost-center|Cost center]]
-- [[supplier|Supplier]]

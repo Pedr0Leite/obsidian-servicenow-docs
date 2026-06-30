@@ -14,7 +14,7 @@ breadcrumb: [Reference for on-call scheduling, On-Call Scheduling, IT Service Ma
 
 # Definitions of On-Call Scheduling terms
 
-Some terms have specific meaning in the [[c_OnCallScheduling|On-Call Scheduling]] application.
+Some terms have specific meaning in the On-Call Scheduling application.
 
 -   **Shift**
 
@@ -60,6 +60,3 @@ Some terms have specific meaning in the [[c_OnCallScheduling|On-Call Scheduling]
 
 [On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

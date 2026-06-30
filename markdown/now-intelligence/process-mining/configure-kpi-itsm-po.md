@@ -14,7 +14,7 @@ breadcrumb: [ITSM, Activate content packs, Activate, Process Mining, Platform An
 
 # Configure KPIs for ITSM work items in the Process Mining dashboard
 
-Add the desired Key Performance Indicators \(KPIs\) to monitor the performance of the ITSM work items in the [[process-mining|Process Mining]] [[summary-insights-dashboard|Summary and insights page]]. Remove the indicators that you no longer want to use.
+Add the desired Key Performance Indicators \(KPIs\) to monitor the performance of the ITSM work items in the Process Mining Summary and insights page. Remove the indicators that you no longer want to use.
 
 ## Before you begin
 
@@ -90,7 +90,3 @@ Requested item
 </table>
 **Parent Topic:**[Content pack for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/itsm-proc-opti-content-pack.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[summary-insights-dashboard|Summary and insights page]]

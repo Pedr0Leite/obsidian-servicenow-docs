@@ -14,7 +14,7 @@ breadcrumb: [Manage contractors, Health and Safety Contractor Management, Health
 
 # Register a contractor company through Employee Center
 
-Register a contractor company to initiate its [[health-safety-overview|health and safety]] pre-qualification process with safety contractor coordinators in your organization.
+Register a contractor company to initiate its health and safety pre-qualification process with safety contractor coordinators in your organization.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_hs\_crm.reporter
 
 ## About this task
 
-A safety contractor coordinator can also directly add a contractor company from the [[health-safety-core-workspace|Health and Safety Workspace]]. For more information, see [Add a contractor company from Health and Safety Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-contractor-company-from-workspace.md).
+A safety contractor coordinator can also directly add a contractor company from the Health and Safety Workspace. For more information, see [Add a contractor company from Health and Safety Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-contractor-company-from-workspace.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  In the Employee Center, under the **Health and Safety** menu, select **Contractor management** and then select **Register a contractor company**.
 
@@ -52,8 +52,3 @@ A safety contractor coordinator can also directly add a contractor company from 
 
 A safety contractor coordinator can complete the pre-qualification information for this company from Health and Safety Workspace. For more information, see [Add a contractor company from Health and Safety Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-contractor-company-from-workspace.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a macOS system, ACC deployment - endpoints, Con
 
 # Upgrade Agent Client Collector manually on a macOS system
 
-Perform a manual upgrade of your existing [[acc-landing-page|Agent Client Collector]] version on a system running a macOS. Manual upgrade is useful if the single-line command script isn’t connected to the instance or you want to use enhanced customization options.
+Perform a manual upgrade of your existing Agent Client Collector version on a system running a macOS. Manual upgrade is useful if the single-line command script isn’t connected to the instance or you want to use enhanced customization options.
 
 ## Before you begin
 
@@ -69,6 +69,3 @@ Perform a manual upgrade of your existing [[acc-landing-page|Agent Client Collec
 
 **Parent Topic:**[Agent Client Collector installation on a macOS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-mac-os.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -59,7 +59,7 @@ Identifies the scope of the change for an order caseAgents can use this field to
 
 Selecting **Specific line items, Single order** sets the **Origin table** field to "Order Line Item" and makes the **Order number** field mandatory.
 
-When the user selects the order number in the **Order number** field and selects **Add** on the Order Case form, the system displays the Add order lines to case modal. This modal [[migration-lists|lists]] the order lines for the specified order number.
+When the user selects the order number in the **Order number** field and selects **Add** on the Order Case form, the system displays the Add order lines to case modal. This modal lists the order lines for the specified order number.
 
 Selecting **Multiple orders** sets the **Origin table** field to "Customer Order".
 
@@ -220,7 +220,7 @@ Resolution code
 
 </td><td>
 
-Choice list indicating the resolution states for the case. This field is mandatory when an agent proposes a solution for a case.The [[csm-case-mgmt-order-ops|Order Operations Case Management]] application adds the following resolution codes to the **Resolution code** field:
+Choice list indicating the resolution states for the case. This field is mandatory when an agent proposes a solution for a case.The Order Operations Case Management application adds the following resolution codes to the **Resolution code** field:
 
 -   Change approved
 -   Added replacement product
@@ -238,8 +238,3 @@ Request reason code
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[csm-case-mgmt-order-ops|Order Operations Case Management]]

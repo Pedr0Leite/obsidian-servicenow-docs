@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Discover root certificates hosted outside your server
 
-Collect information about root certificates stored outside your server. Create a specialized [[r-discovery|Discovery]] schedule.
+Collect information about root certificates stored outside your server. Create a specialized Discovery schedule.
 
 ## Before you begin
 
@@ -79,6 +79,3 @@ Your Discovery collects information on your root certificate located outside a s
 
 [Connect an intermediate certificate to its root certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/connect-intermediate-certificate-to-root.md) to complete your certificate chain.
 
-## Related
-
-- [[r-discovery|Discovery]]

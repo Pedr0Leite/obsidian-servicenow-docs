@@ -20,8 +20,5 @@ This section describes the tables installed with the Service Applicant Informati
 |Point in time content \(sn\_svc\_appl\_info\_pitc\)|Contains applicant information captured at specific moments, preserving historical records for audits, appeals, and compliance requirements.|N/A|
 |Letter Detail \(sn\_svc\_appl\_info\_letter\_details\)|Contains details about correspondence and official communications related to applicants.|N/A|
 
-**Parent Topic:**[[psds-data-model-service-applicant|Service Applicant Data Model]]
+**Parent Topic:**[Service Applicant Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-service-applicant.md)
 
-## Related
-
-- [[psds-data-model-service-applicant|Service Applicant Data Model]]

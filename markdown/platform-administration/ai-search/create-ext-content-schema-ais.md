@@ -14,7 +14,7 @@ breadcrumb: [Indexing and searching external content, Configuring AI Search, AI 
 
 # Create an external content schema table
 
-Define a schema table with columns corresponding to fields on records from an external data source. [[ia-ai-search|AI Search]] uses the schema when indexing content from the external data source.
+Define a schema table with columns corresponding to fields on records from an external data source. AI Search uses the schema when indexing content from the external data source.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-An external content schema table doesn't store data in the database. Instead, its columns serve as a map of [[index-fields-list-ais|AI Search index fields]] to populate when you index content from external data sources.
+An external content schema table doesn't store data in the database. Instead, its columns serve as a map of AI Search index fields to populate when you index content from external data sources.
 
 When you index or delete records associated with this content schema using endpoints from the [External Content Ingestion REST API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/external-content-ingestion-api.md), you must specify the schema table name as a path parameter.
 
@@ -40,7 +40,7 @@ When you index or delete records associated with this content schema using endpo
 
     1.  In the Columns related list, select **New**.
 
-    2.  On the [[r_DictionaryEntryForm|Dictionary Entry form]], fill in the fields.
+    2.  On the Dictionary Entry form, fill in the fields.
 
         For descriptions of these form fields, see [Dictionary Entry form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_DictionaryEntryForm.md).
 
@@ -57,8 +57,3 @@ Create a new indexed source with your external content schema table defined as i
 
 **Parent Topic:**[Indexing and searching external content in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[index-fields-list-ais|AI Search index fields]]
-- [[r_DictionaryEntryForm|Dictionary entry form]]

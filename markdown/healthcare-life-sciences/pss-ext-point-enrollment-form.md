@@ -18,7 +18,7 @@ Use scripted extension points to decide what records are created or updated afte
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -90,6 +90,4 @@ Include the `createPatient` method of the `EnrollmentCaseServiceExtPoint` extens
 </td></tr></tbody>
 </table>5.  On the Extension Point form, click **Update**.
 
-## Related
 
-- [[pss-app|Patient Support Services]]

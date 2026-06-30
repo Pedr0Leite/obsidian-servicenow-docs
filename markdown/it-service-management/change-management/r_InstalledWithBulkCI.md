@@ -14,7 +14,7 @@ breadcrumb: [Activate Change Management - Mass Update CI, Change Management plug
 
 # Installed with Change Management - Mass Update CI
 
-Several types of components are installed with the [[c_ITILChangeManagement|Change Management]] - [[bulk-ci-change|Mass update CI]].
+Several types of components are installed with the Change Management - Mass update CI.
 
 **Parent Topic:**[Activate Change Management - Mass Update CI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ActivateChangeManagementBulkCI.md)
 
@@ -40,8 +40,3 @@ Adds the **Mass Update CI Class** \(is\_bulk\) field to the table to use when th
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[bulk-ci-change|Mass Update CI]]

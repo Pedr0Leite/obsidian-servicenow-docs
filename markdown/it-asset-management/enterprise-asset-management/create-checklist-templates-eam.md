@@ -26,7 +26,7 @@ You can either copy from an existing checklist template and edit and add more ch
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work Management** &gt; **Checklist templates**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Work Management** &gt; **Checklist templates**.
 
 2.  Select **New**.
 
@@ -74,6 +74,3 @@ The checklist items for the template. -   If you selected a template from the **
 
 The checklist template is created and appears in the Checklist templates list. After a checklist template is created, it can't be edited and can be used by other applications too.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -157,7 +157,7 @@ Title
 
 </td><td>
 
-Subject line that is displayed in escalation notifications to [[dex-workspace-devices-tab|devices]] for various channels, such as Email or Microsoft Teams.**Note:** This field is not available for SMS channel type.
+Subject line that is displayed in escalation notifications to devices for various channels, such as Email or Microsoft Teams.**Note:** This field is not available for SMS channel type.
 
 </td></tr><tr><td>
 
@@ -206,7 +206,7 @@ Instruction that is used to reject escalation sent to the catch all users from c
 </td></tr></tbody>
 </table>    **Note:** The following variables are used and applicable in the content for messages, titles, accept and reject instructions:
 
-    -   Dynamic Variables: Placeholders like `{number}` represent field values from the source record. For example, you can [[reference-for-itsm-mobile-agent|reference]] fields such as `{caller_id.user_name}` for incidents.
+    -   Dynamic Variables: Placeholders like `{number}` represent field values from the source record. For example, you can reference fields such as `{caller_id.user_name}` for incidents.
     -   Reserved Variables: Functional placeholders, including Response keywords \(`{accept_keyword}`, `{reject_keyword}`\) and Notify variables \(`{message_number}`, `{on_call_group_notify_number}`\), are critical and cannot not be modified.
     -   Hyperlink Variables: `{URI}` and `{URI_REF}` generate clickable links in the notifications to the source record. `{URI}` appear as LINK, clicking which opens the source record while `{URI_REF}` appears as the clickable source record number, clicking which also opens the source record.
 4.  Select **Submit**.
@@ -214,7 +214,3 @@ Instruction that is used to reject escalation sent to the catch all users from c
 
 **Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/manage-schedules-and-shifts.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[reference-for-itsm-mobile-agent|Reference]]

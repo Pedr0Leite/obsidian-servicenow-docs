@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  In the **Lists** tab under **Incident Management**, open the safety incident or observation list.
 
@@ -34,21 +34,15 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 5.  Select **Copy action**.
 
-    The action is duplicated. However, if the original action includes a [[exploring-learning-exp|Learning]] material, it is not copied to the duplicated action.
+    The action is duplicated. However, if the original action includes a Learning material, it is not copied to the duplicated action.
 
 6.  Share the action using the **Assignment group** or **Assigned to** field and select **Save**.
 
 
 ## Result
 
--   The action appears in the **My Tasks** list of the assigned user on the [[employee-center-landing-page|Employee Center]].
+-   The action appears in the **My Tasks** list of the assigned user on the Employee Center.
 -   The action is also listed in the **Actions** list on the Health and Safety Workspace.
 
 **Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/managing-hs-incidents-obs.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

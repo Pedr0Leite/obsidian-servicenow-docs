@@ -14,17 +14,17 @@ breadcrumb: [Integration of HR Service Delivery with third-party systems, HR Ser
 
 # HR Service Delivery Integration with Cornerstone OnDemand
 
-The ServiceNow® HR Service Delivery Integration with Cornerstone OnDemand application enables you to display relevant [[exploring-learning-exp|learning]] courses for employees as part of their To-do tasks in the ServiceNow [[employee-center-landing-page|Employee Center]].
+The ServiceNow® HR Service Delivery Integration with Cornerstone OnDemand application enables you to display relevant learning courses for employees as part of their To-do tasks in the ServiceNow Employee Center.
 
 Cornerstone OnDemand is a learning system that hosts learning videos, training, and certifications for employees. Using HR Service Delivery Integration with Cornerstone OnDemand, you can pull learning tasks from the Cornerstone OnDemand system to ServiceNow so that employees can view all their To-do tasks in a single location, Employee Center.
 
 ## Setting up the application
 
-To set up the HR Service Delivery Integration with Cornerstone OnDemand application, you must first activate the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\] from ServiceNow Store. This plugin activates Cornerstone spoke in IntegrationHub and [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]. Next you must set up the Cornerstone spoke in IntegrationHub. For details on how to complete the set up, refer to [Setting up HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-cornerstone.md).
+To set up the HR Service Delivery Integration with Cornerstone OnDemand application, you must first activate the HR Service Delivery Integration with Cornerstone OnDemand plugin \[sn\_hr\_cornerstone\] from ServiceNow Store. This plugin activates Cornerstone spoke in IntegrationHub and Enterprise Service Management Integrations Framework. Next you must set up the Cornerstone spoke in IntegrationHub. For details on how to complete the set up, refer to [Setting up HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-cornerstone.md).
 
 ## Using Enterprise Service Management Integrations Framework
 
-Enterprise Service Management Integrations Framework provides a consistent way of building integrations for common use cases such as pulling [[emp-slate-employee-profile|employee profile]] information, pulling to-dos, or pulling other data from third-party systems and storing it in ServiceNow instance. It contains common components, such as the Source table, HR Integration Services table, scheduled flows, and [[transform-maps-navex|transform maps]], that can be used for building integrations.
+Enterprise Service Management Integrations Framework provides a consistent way of building integrations for common use cases such as pulling employee profile information, pulling to-dos, or pulling other data from third-party systems and storing it in ServiceNow instance. It contains common components, such as the Source table, HR Integration Services table, scheduled flows, and transform maps, that can be used for building integrations.
 
 By default, when the HR Service Delivery Integration with Cornerstone OnDemand application is set up, source, HR integration services, scheduled flows, and transform maps are automatically set up for the Cornerstone OnDemand system in Enterprise Service Management Integrations Framework. The schedule flows in Enterprise Service Management Integrations Framework interact with the Cornerstone OnDemand system to pull users, learning objects, and transcripts into ServiceNow.
 
@@ -57,10 +57,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[transform-maps-navex|Transform maps]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing your product development using Agile Development 2.0, Agil
 
 # Create a release in Agile Development 2.0
 
-Create a release to start associating the stories and scrum tasks of your product development to the release in [[agile-landing-page|Agile Development 2.0]].
+Create a release to start associating the stories and scrum tasks of your product development to the release in Agile Development 2.0.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ A release has a start and end date during which several development iterations a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Releases**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Releases**.
 
 2.  Select **New** in the record list.
 
@@ -138,7 +138,3 @@ For information on the related lists of a release, see [Related lists for a Rele
 
 **Parent Topic:**[Managing your product development using Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/using-agile-development-2-0.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

@@ -24,7 +24,7 @@ The ServiceNow AI Platform® uses a table-based data structure to store and orga
 
 |User|Description|
 |----|-----------|
-|Administrator|Admins can create [[custom-tables|custom tables]] for specific business requirements, define field properties, create relationships between tables, and extend existing tables without modifying the originals. Administrators also define access controls to allow only approved user access to records, business rules for various tasks, and table cleanup policies for unused and outdated records.|
+|Administrator|Admins can create custom tables for specific business requirements, define field properties, create relationships between tables, and extend existing tables without modifying the originals. Administrators also define access controls to allow only approved user access to records, business rules for various tasks, and table cleanup policies for unused and outdated records.|
 
 ## Table administration workflow
 
@@ -32,7 +32,7 @@ This infographic depicts how an administrator can extend both core tables and cu
 
 \[Omitted image "exploring-now-platform-tables.png"\] Alt text: Data can be exported and imported between Core Tables and Custom Tables. Admins define access controls to restrict access.
 
-1.  An administrator views [[table-relationships|table relationships]] and learns how [[table-extension|table extension]] works on the ServiceNow AI Platform®.
+1.  An administrator views table relationships and learns how table extension works on the ServiceNow AI Platform®.
 2.  The administrator creates a custom parent table and extends it by creating a custom child table.
 3.  The administrator defines access controls to restrict access to each table.
 4.  The administrator exports and imports data to core and custom tables as needed.
@@ -52,7 +52,7 @@ This infographic depicts how an administrator can extend both core tables and cu
 
 ## What to explore next
 
-To learn more about using [[c_TableAdministration|table administration]] features, see:
+To learn more about using table administration features, see:
 
 -   [Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 -   [Working with the Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TaskTable.md)
@@ -63,21 +63,13 @@ Custom tables enable you to expand the functionality of the ServiceNow AI Platfo
 -   **[Data dictionary tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DataDictionaryTables.md)**  
 Access details related to tables, columns, and field labels in your instance.
 -   **[System dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_SystemDictionary.md)**  
-View a list of all tables in columns in your instance from the [[c_SystemDictionary|system dictionary]].
+View a list of all tables in columns in your instance from the system dictionary.
 -   **[Table relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-relationships.md)**  
 You can create relationships between tables by extending tables, referencing records in another table, creating many-to-many relationships, and joining tables in a database view.
 -   **[Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/table-extension-and-classes.md)**  
 Enable one or more child tables to share fields and records with a parent table. Administrators and application developers can only extend tables during table creation.
 -   **[Storage aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/storage-aliases.md)**  
-Learn about the role [[storage-aliases|storage aliases]] play in data manipulation and field creation in the ServiceNow AI Platform.
+Learn about the role storage aliases play in data manipulation and field creation in the ServiceNow AI Platform.
 
 **Parent Topic:**[ServiceNow AI Platform tables and data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/tables-fields-and-forms.md)
 
-## Related
-
-- [[custom-tables|Custom tables]]
-- [[table-relationships|Table relationships]]
-- [[table-extension|Table extension]]
-- [[c_TableAdministration|Table administration]]
-- [[c_SystemDictionary|System dictionary]]
-- [[storage-aliases|Storage aliases]]

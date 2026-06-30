@@ -22,7 +22,7 @@ Role required: pf\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -46,6 +46,3 @@ Role required: pf\_user
 
 [Manage documentation in Feedback application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/manage-documents-with-pf.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

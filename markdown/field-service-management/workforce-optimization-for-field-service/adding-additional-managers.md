@@ -24,10 +24,10 @@ Roles and responsibilities of additional managers:
     -   Onboard contractor companies and their employees
     -   Approve or reject onboarding agent requests
     -   Assign work to the contractor companies and their workforce
-    -   Track the progress of work order tasks assigned to the contractor companies using the [[contractor-dashboard|Contractor dashboard]].
+    -   Track the progress of work order tasks assigned to the contractor companies using the Contractor dashboard.
 -   **External manager**
     -   Onboard agents for contractor companies
-    -   Assign and [[manage-work-order-tasks-dw|manage work order tasks]] to the contractor agents using the Field Service [[field-service-contractor-portal|Contractor portal]].
+    -   Assign and manage work order tasks to the contractor agents using the Field Service Contractor portal.
 
 **Note:** An off-boarded agent automatically gets deleted from the additional manager role if assigned to. For more information, see [Offboard agents on the Field Service Contractor Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/offboard-agents-fsmcp.md).
 
@@ -101,8 +101,3 @@ This procedure explains how an internal manager can onboard additional external 
 
 The additional external manager is added to the company.
 
-## Related
-
-- [[contractor-dashboard|Contractor dashboard]]
-- [[manage-work-order-tasks-dw|Manage work order tasks]]
-- [[field-service-contractor-portal|Contractor Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring communities, Communities, Customer Service Management]
 
 # Migrate Social Q&amp;A data to Communities
 
-If you want to migrate existing Social Q&amp;A content to [[servicenow-communities|Communities]], you can use a script to migrate the data.
+If you want to migrate existing Social Q&amp;A content to Communities, you can use a script to migrate the data.
 
 ## Before you begin
 
@@ -98,6 +98,3 @@ Verify the following information.
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

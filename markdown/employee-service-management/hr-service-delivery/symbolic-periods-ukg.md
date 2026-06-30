@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery with Ultimate Kronos Group, Integrat
 
 # Set up symbolic periods
 
-By default, the symbolic periods of Ultimate Kronos Group application are set up when you activate the [[hr-service-delivery|HR Service Delivery]] Integration with Ultimate Kronos Group application. Symbolic periods denote the time periods that are identifiable by the Ultimate Kronos Group application.
+By default, the symbolic periods of Ultimate Kronos Group application are set up when you activate the HR Service Delivery Integration with Ultimate Kronos Group application. Symbolic periods denote the time periods that are identifiable by the Ultimate Kronos Group application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_ukg.admin
 
 ## About this task
 
-When an employee posts a question in virtual chat in [[employee-center-landing-page|Employee Center]], an [NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/nlu-ukg-model.md) selects an utterance from the question, checks for its mention in vocabulary sources, identifies its symbolic code and ID. A flow uses the ID to pull the requested information from the Ultimate Kronos Group application and display in virtual chat in Employee Center.
+When an employee posts a question in virtual chat in Employee Center, an [NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/nlu-ukg-model.md) selects an utterance from the question, checks for its mention in vocabulary sources, identifies its symbolic code and ID. A flow uses the ID to pull the requested information from the Ultimate Kronos Group application and display in virtual chat in Employee Center.
 
 ## Procedure
 
@@ -32,7 +32,3 @@ When an employee posts a question in virtual chat in [[employee-center-landing-p
     2.  Navigate to **NLU Workbench** &gt; **Vocabulary sources**, and synchronize **@UKGTimeKeepingSymbolicPeriod**.
     3.  Navigate to**NLU Workbench** &gt; **Models**, select **UKG Topics Model**, and click **Train**.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

@@ -15,7 +15,7 @@ breadcrumb: [Obligation Management, Use, Contract Management Pro, Legal and Cont
 
 # Create obligation records
 
-Create obligation records for signed contracts in [[cncore-obligation-management|Obligation Management]] to fulfill the responsibilities specified in the contract through obligation tasks. Recurring obligation tasks are automatically created from the record. You can also add ad hoc obligation tasks that are performed only once or at irregular intervals.
+Create obligation records for signed contracts in Obligation Management to fulfill the responsibilities specified in the contract through obligation tasks. Recurring obligation tasks are automatically created from the record. You can also add ad hoc obligation tasks that are performed only once or at irregular intervals.
 
 ## About this task
 
@@ -43,7 +43,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d712752e92">
 
-**[[cncore-contract-workspace|Contract Workspace]]**
+**Contract Workspace**
 
 </td><td>
 
@@ -85,7 +85,3 @@ Create an obligation task required only once or at irregular intervals to track 
 
 **Parent Topic:**[Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-management.md)
 
-## Related
-
-- [[cncore-obligation-management|Obligation Management]]
-- [[cncore-contract-workspace|Contract Workspace]]

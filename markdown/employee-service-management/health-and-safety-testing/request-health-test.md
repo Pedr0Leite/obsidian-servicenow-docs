@@ -26,9 +26,9 @@ You must agree to a user privacy consent when you request a COVID-19 diagnostic 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-testing|Health and Safety Testing]]** &gt; **Set up a COVID-19 diagnostic test**.
+1.  Navigate to **All** &gt; **Health and Safety Testing** &gt; **Set up a COVID-19 diagnostic test**.
 
-    **Note:** To request testing in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Follow These Safety Practices** &gt; **COVID-19 Testing** &gt; **Set up a COVID-19 diagnostic test**.
+    **Note:** To request testing in the Now Mobile app, navigate to **Health** &gt; **Follow These Safety Practices** &gt; **COVID-19 Testing** &gt; **Set up a COVID-19 diagnostic test**.
 
 2.  On the form, fill in the fields.
 
@@ -94,7 +94,3 @@ When you receive your test result, you can choose to report the result to your c
 
 **Parent Topic:**[Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/health-safety-testing.md)
 
-## Related
-
-- [[health-safety-testing|Health and Safety Testing]]
-- [[mobile-employee-experience|Now Mobile app]]

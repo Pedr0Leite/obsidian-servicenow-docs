@@ -23,7 +23,7 @@ Security tag rules provide filtering for security tag access.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -31,7 +31,7 @@ Security tag rules provide filtering for security tag access.
 
 4.  Security tags are displayed in a list grouped by Security tag groups.
 
-5.  Choose or [[create-class-group-and-tags|create a security tag]].
+5.  Choose or [create a security tag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-class-group-and-tags.md).
 
 6.  In the **Security Tag Rules** related tab, select **New**.
 
@@ -57,10 +57,5 @@ Security tag rules provide filtering for security tag access.
 10. Select **Submit**
 
 
-**Parent Topic:**[[sem-create-class-group-and-tags|Set up security tag groups and tags]]
+**Parent Topic:**[Set up security tag groups and tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-class-group-and-tags.md)
 
-## Related
-
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[sem-create-class-group-and-tags|Set up security tag groups and tags]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

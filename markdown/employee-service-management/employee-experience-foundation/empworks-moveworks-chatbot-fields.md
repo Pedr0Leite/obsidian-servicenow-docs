@@ -15,13 +15,13 @@ breadcrumb: [Employee Slate for Moveworks, Configuration flow, Employee Slate, U
 
 # Moveworks chatbot configuration fields
 
-Field [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] for the Moveworks web chatbot record and the internal setup record that [[employee-slate-moveworks|Employee Slate for Moveworks]] uses.
+Field reference for the Moveworks web chatbot record and the internal setup record that Employee Slate for Moveworks uses.
 
 ## chatbot record fields
 
 |Field|Description|
 |-----|-----------|
-|Channel|Set to Moveworks web chat for the [[employee-slate-landing-page|Employee Slate]] surface.|
+|Channel|Set to Moveworks web chat for the Employee Slate surface.|
 |Selected connector|Set to Moveworks web chat.|
 |Bot ID|Enter `1234`. The Moveworks Setup application replaces this placeholder with a randomized numerical value after you save the record.|
 |Bot name|Unique identifier for the chatbot. The recommended pattern is `<org-name>-employee-slate-web-chat`.|
@@ -38,16 +38,10 @@ Field [[reference-hr-service-delivery-advanced-integration-with-workday|referenc
 |User Inbox|Turn on this control to activate the notifications experience for the chatbot.|
 |Connector|Select the ServiceNow connector that replicates ServiceNow users into the Moveworks identity roster. The default label is **snow**.|
 |Trusted issuer|Enter the ServiceNow instance URL. The trusted issuer lets Employee Slate and the Moveworks assistant authenticate seamlessly. Add multiple trusted issuers if you deploy the same chatbot across multiple ServiceNow instances.|
-|Universal Assistance suggested prompts|Enter up to four suggested prompts on the [[emp-slate-home-page|Employee Slate home]] page. The Moveworks Setup application enforces a character limit on each prompt.|
+|Universal Assistance suggested prompts|Enter up to four suggested prompts on the Employee Slate home page. The Moveworks Setup application enforces a character limit on each prompt.|
 
 **Related topics**  
 
 
 [Configure the Moveworks chatbot for Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/empworks-configure-moveworks-chatbot.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-home-page|Employee Slate home]]

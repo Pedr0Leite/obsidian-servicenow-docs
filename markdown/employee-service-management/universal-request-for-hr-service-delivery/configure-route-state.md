@@ -14,7 +14,7 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Transfer configuration
 
-You can enable agents to transfer department-specific tickets, such as an incident ticket or an HR case back to the [[ur-landing-limitedaccess|Universal Request]] \(UR\), to another department, or service. This transfer configuration allows you to determine what happens to the departmental ticket when the request is transferred to another department or back to UR.
+You can enable agents to transfer department-specific tickets, such as an incident ticket or an HR case back to the Universal Request \(UR\), to another department, or service. This transfer configuration allows you to determine what happens to the departmental ticket when the request is transferred to another department or back to UR.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ For example, if an incident ticket is transferred without resolution, in the **T
 
 To perform this transfer action, you must configure the transfer configuration details in the Universal Request application.
 
-\[Omitted image "ur-route-config.png"\] Alt text: [[ur-route-config-form|Transfer configuration form]]
+\[Omitted image "ur-route-config.png"\] Alt text: Transfer configuration form
 
 ## Procedure
 
@@ -63,7 +63,3 @@ To perform this transfer action, you must configure the transfer configuration d
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-route-config-form|Transfer configuration form]]

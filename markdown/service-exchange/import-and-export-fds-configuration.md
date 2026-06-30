@@ -14,7 +14,7 @@ breadcrumb: [Configure inbound FDS as consumers, Configure for consumers, Servic
 
 # Import and export foundation data sync configuration
 
-Export ETL configurations for [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) from one instance to another using update sets.
+Export ETL configurations for foundation data sync \(FDS\) from one instance to another using update sets.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ You can export ETL configurations from one instance and import them into another
 
     2.  Request a foundation data sync \(FDS\) offering, complete the configuration, and verify that the data sync is working correctly.
 
-        For more information on how to request a foundation data sync \(FDS\) offering, see [[service-bridge-v2-request-fds-offerings|Request foundation data sync offerings]].
+        For more information on how to request a foundation data sync \(FDS\) offering, see [Request foundation data sync offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-request-fds-offerings.md).
 
     3.  Complete the update sets and export it.
 
@@ -60,14 +60,10 @@ You can export ETL configurations from one instance and import them into another
 
     4.  Select **ETL Transform Map Assistance**.
 
-        In the guided setup, step 1, step 2, and step 3 are marked as completed. For more information, see [[service-bridge-v2-validate-fds-subscription|Validate foundation data sync subscription items]]
+        In the guided setup, step 1, step 2, and step 3 are marked as completed. For more information, see [Validate foundation data sync subscription items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-validate-fds-subscription.md)
 
     5.  Verify all the steps in ETL configuration to make sure everything is mapped correctly, and run the integration and perform rollback.
 
         For details, see [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrationhub-etl.md).
 
-## Related
 
-- [[service-bridge-v2-request-fds-offerings|Request foundation data sync offerings]]
-- [[service-bridge-v2-validate-fds-subscription|Validate foundation data sync subscription items]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]

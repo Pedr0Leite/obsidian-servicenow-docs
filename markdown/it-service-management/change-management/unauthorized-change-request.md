@@ -16,7 +16,7 @@ breadcrumb: [Create a change request, Use, Change Management, IT Service Managem
 
 Understand how an unauthorized change activity on a configuration item \(CI\) is captured and managed, so that you can review and take timely action on this change.
 
-As part of the ServiceNow® Service Mapping integration with ServiceNow® ITSM, the [[c_ITILChangeManagement|Change Management]] application receives an event notification when an unauthorized change activity is detected. As a result, an emergency unauthorized change request is created for the relevant CI. You can review and approve or reject the unauthorized change from the Change Management application.
+As part of the ServiceNow® Service Mapping integration with ServiceNow® ITSM, the Change Management application receives an event notification when an unauthorized change activity is detected. As a result, an emergency unauthorized change request is created for the relevant CI. You can review and approve or reject the unauthorized change from the Change Management application.
 
 **Note:** Unauthorized change requests are created only for the CIs that are part of the application services. Also, there is a flapper algorithm that uses a learning pattern to minimize false positives.
 
@@ -68,7 +68,7 @@ If you are an ITIL user, clear the **Unauthorized** check box by creating an out
 -   **[Disable the creation of an unauthorized change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/disable-unauth-notification.md)**  
 You can choose to disable the generation of unauthorized change requests that you receive on any unauthorized change event. When a configuration item \(CI\) that is part of an application service is updated, the system identifies this update and verifies whether the updated CI is part of an open change request.
 -   **[Unauthorized change properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/unauth-change-properties.md)**  
-Use the [[unauth-change-properties|Unauthorized Change Properties]] page to enable or disable the unauthorized change capability, and to configure the criteria for additional unauthorized change properties.
+Use the Unauthorized Change Properties page to enable or disable the unauthorized change capability, and to configure the criteria for additional unauthorized change properties.
 
 **Parent Topic:**[Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateAChange.md)
 
@@ -83,7 +83,3 @@ Use the [[unauth-change-properties|Unauthorized Change Properties]] page to enab
 
 [Create a change task]()
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[unauth-change-properties|Unauthorized change properties]]

@@ -20,12 +20,12 @@ Return the asset to the DaaS provider and record the shipment details using the 
 
 Role required: sn\_daas\_ham.daas\_asset\_manager or inventory\_user
 
--   Install the [[ham-landing-page|Hardware Asset Management]] for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+-   Install the Hardware Asset Management for DaaS application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 -   Install the Hardware Asset Management application from [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace**.
 
 2.  Select the **DaaS provider** view.
 
@@ -189,7 +189,7 @@ Notes about the task that are visible to all users within your organization.
 
 ## Result
 
--   After the Ship task is completed and you refresh the list, a task is created displaying a unique asset task number with the task type as **[[receive-rma-asset|Receive asset]]**.
+-   After the Ship task is completed and you refresh the list, a task is created displaying a unique asset task number with the task type as **Receive asset**.
 -   The **Shipment assets** tab is displayed, which includes the shipment information.
 -   The **State** field of the Ship task is set to **Closed Complete**.
 -   The **Stage** field of the RMA response order line is set to **Receive**.
@@ -198,8 +198,3 @@ Notes about the task that are visible to all users within your organization.
 
 [Receive asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-rma-asset.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[receive-rma-asset|Receive asset]]

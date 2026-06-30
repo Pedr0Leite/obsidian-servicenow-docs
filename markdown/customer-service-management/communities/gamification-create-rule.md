@@ -14,7 +14,7 @@ breadcrumb: [Administer gamification, Configuring communities, Communities, Cust
 
 # Create a gamification rule
 
-Create [[communities-gamification|gamification]] [[gamification-components-rules|rules]] so that users can earn [[gamification-components-points|points]] for community activities.
+Create gamification rules so that users can earn points for community activities.
 
 ## Before you begin
 
@@ -90,7 +90,7 @@ Gamification Track
 
 </td><td>
 
-The gamification track to which this rule belongs. Click the lookup icon to select one of the available [[gamification-components-tracks|tracks]] from the Gamification Tracks list. By default, two tracks are available:-   Community Expertise
+The gamification track to which this rule belongs. Click the lookup icon to select one of the available tracks from the Gamification Tracks list. By default, two tracks are available:-   Community Expertise
 -   Community Participation
 
 
@@ -113,15 +113,8 @@ The points accrued can be used towards a forum or topic level expertise. Click t
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-    The newly created rule appears on the Gamification Rules list. This rule appears on the [[gamification-ui-how-to-earn-points|How to Earn Points]] page.
+    The newly created rule appears on the Gamification Rules list. This rule appears on the How to Earn Points page.
 
 
 **Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-points|Points]]
-- [[gamification-components-tracks|Tracks]]
-- [[gamification-ui-how-to-earn-points|How to earn points]]

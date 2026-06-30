@@ -14,11 +14,11 @@ breadcrumb: [Workflow stages, Workflow management, Classic Workflow, ServiceNow 
 
 # Workflow stage sets
 
-Stage sets are named groups of [[c_WorkflowStages|workflow stages]] commonly used together. Create a stage set and assign it as a default set to any number of tables. You can import the choice list values of a workflow field as stages for a workflow, and export a stage set to create a new one.
+Stage sets are named groups of workflow stages commonly used together. Create a stage set and assign it as a default set to any number of tables. You can import the choice list values of a workflow field as stages for a workflow, and export a stage set to create a new one.
 
-A single stage set usually represents a process, such as the stages required to display the progress of a [[service-catalog|service catalog]] request. You can also assign a stage set as the default set for workflows on specific tables.
+A single stage set usually represents a process, such as the stages required to display the progress of a service catalog request. You can also assign a stage set as the default set for workflows on specific tables.
 
-In an active context, workflow stages provide summary-level feedback about the progress of a workflow. Stage icons display the status of each activity as it is being driven by a workflow. The system updates a **Stage** field, defined in the [[r_WorkflowProperties|workflow properties]], to indicate the progress of the workflow through the possible stage values.
+In an active context, workflow stages provide summary-level feedback about the progress of a workflow. Stage icons display the status of each activity as it is being driven by a workflow. The system updates a **Stage** field, defined in the workflow properties, to indicate the progress of the workflow through the possible stage values.
 
 ## Updates to workflow stage values
 
@@ -111,7 +111,7 @@ For more information, see [Create a workflow stage field](https://raw.githubuser
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workflow** &gt; **[[workflow-editor|Workflow Editor]]**.
+1.  Navigate to **All** &gt; **Workflow** &gt; **Workflow Editor**.
 
 2.  Open and check out the workflow.
 
@@ -182,12 +182,5 @@ When multiple stage sets have stage set entries with the same **Value**, the sta
 
 ### What to do next
 
-After you add all necessary stage sets to the workflow, you can add them to the [[c_WorkflowActivities|workflow activities]]. For more information, see [Add a stage to a workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/add-translate-stages.md).
+After you add all necessary stage sets to the workflow, you can add them to the workflow activities. For more information, see [Add a stage to a workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/add-translate-stages.md).
 
-## Related
-
-- [[c_WorkflowStages|Workflow stages]]
-- [[service-catalog|Service Catalog]]
-- [[r_WorkflowProperties|Workflow properties]]
-- [[workflow-editor|Workflow editor]]
-- [[c_WorkflowActivities|Workflow activities]]

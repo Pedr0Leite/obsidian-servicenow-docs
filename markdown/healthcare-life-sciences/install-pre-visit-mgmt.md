@@ -12,7 +12,7 @@ breadcrumb: [Configure, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Install Pre-Visit Management
 
-You can install the [[pre-visit-mgmt-app|Pre-Visit Management]] application \(sn\_previsit\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Pre-Visit Management application \(sn\_previsit\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 **Important:**
 
@@ -36,7 +36,7 @@ The following items are installed with Pre-Visit Management:
 -   Scheduled jobs
 -   Business rules
 
-For more information, see [[pre-visit-components-installed|Components installed with Pre-Visit Management]].
+For more information, see [Components installed with Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-components-installed.md).
 
 ## Procedure
 
@@ -52,7 +52,4 @@ For more information, see [[pre-visit-components-installed|Components installed 
 
 4.  Select **Install**.
 
-## Related
 
-- [[pre-visit-components-installed|Components installed with Pre-Visit Management]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

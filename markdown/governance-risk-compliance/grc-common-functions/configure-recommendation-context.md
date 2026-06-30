@@ -26,7 +26,7 @@ For information about the roles required for the recommendation contexts, see [U
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Recommendation contexts** &gt; **New**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Recommendation contexts** &gt; **New**.
 
 2.  On the form, fill in the fields.
 
@@ -37,15 +37,10 @@ For information about the roles required for the recommendation contexts, see [U
 
 ## Result
 
-A new recommendation context is created. You can now [[create-a-recommendation-template|create a recommendation template]].
+A new recommendation context is created. You can now create a recommendation template.
 
 -   **[Recommendation context form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-context-form.md)**  
-Use the [[recommendation-context-form|recommendation context form]] to create a configuration.
+Use the recommendation context form to create a configuration.
 
 **Parent Topic:**[Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[create-a-recommendation-template|Create a recommendation template]]
-- [[recommendation-context-form|Recommendation context form]]

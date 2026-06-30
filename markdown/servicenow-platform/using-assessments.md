@@ -14,18 +14,12 @@ breadcrumb: [Assessments, Assessments and Surveys, Exploring Service Administrat
 
 Before you create assessments, assign the assessment\_admin role to the appropriate users in your organization and determine your objectives for the assessment.
 
--   **[[c_AssessmentProcess|Assessment administrator tasks]]**  
+-   **[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)**  
 Before you create assessments, assign the assessment\_admin role to the appropriate users in your organization and determine your objectives for the assessment.
--   **[[t_TakeAnAssessment|Take an assessment]]**  
+-   **[Take an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeAnAssessment.md)**  
 Take the assessments assigned to you from the assessment and survey queue.
--   **[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]**  
+-   **[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)**  
 In the Assessments application, assessment administrators create and administer metric types and assessable records.
 
-**Parent Topic:**[[r_Assessments|Assessments]]
+**Parent Topic:**[Assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_Assessments.md)
 
-## Related
-
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[t_TakeAnAssessment|Take an assessment]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_Assessments|Assessments]]

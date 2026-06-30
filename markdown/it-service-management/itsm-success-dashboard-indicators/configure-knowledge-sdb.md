@@ -14,7 +14,7 @@ breadcrumb: [Set the refresh interval for Success Dashboard indicators, ITSM Suc
 
 # Configure the knowledge base for ITSM Success Dashboard indicators
 
-Include only the relevant knowledge bases related to IT while determining the **Self-solved using Knowledge** KPI in [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]].
+Include only the relevant knowledge bases related to IT while determining the **Self-solved using Knowledge** KPI in ITSM Success Dashboard indicators.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Set the refresh interval for Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/configure-knowledge-deflection.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]

@@ -154,11 +154,7 @@ Copy the data in this specification so that you can create a specification from 
 
 [bundle-omgmt.order-mgt-product-data-model]
 
-[[create-product-specifications|Create and publish product specifications]]
+[Create and publish product specifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-product-specifications.md)
 
-[[create-service-specification|Create and publish service specifications]]
+[Create and publish service specifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-service-specification.md)
 
-## Related
-
-- [[create-product-specifications|Create and publish product specifications]]
-- [[create-service-specification|Create and publish service specifications]]

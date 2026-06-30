@@ -14,13 +14,13 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Create a discovery schedule in Cloud Discovery Workspace
 
-Create schedules for discovering cloud resources based on the [[r-discovery|discovery]] method that you choose: service accounts or IP ranges. The discovery schedule defines the various settings for the cloud discovery.
+Create schedules for discovering cloud resources based on the discovery method that you choose: service accounts or IP ranges. The discovery schedule defines the various settings for the cloud discovery.
 
 ## Before you begin
 
 **Important:**
 
--   Starting with the Zurich release, [[cow-landing-page|Cloud Discovery Workspace]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported. [[discovery-admin-workspace|Discovery Admin Workspace]] provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
+-   Starting with the Zurich release, Cloud Discovery Workspace is being prepared for future deprecation. It will be hidden and no longer activated on new instances, but will continue to be supported. Discovery Admin Workspace provides the latest experience for this functionality. For details, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 -   Starting with version 1.11.0, you can create [AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-AWS-schedule-DAW.md), [Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-azure-schedule-DAW.md), and [GCP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-gcp-schedule-DAW.md) schedules in Discovery Admin Workspace.
 -   Starting with version 1.13.0, you can create [Alibaba](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-schedule-DAW.md), [IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-ibm-schedule-DAW.md), [OCI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-oci-schedule-DAW.md), [OpenStack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-openstack-schedule-DAW.md), [oVirt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-ovirt-schedule-DAW.md), and [VMware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-vmware-schedule-DAW.md) schedules in Discovery Admin Workspace
 
@@ -33,7 +33,7 @@ Role required: discovery\_admin
 
 ## About this task
 
-The ServiceNow® [[cloud-discovery-wizard|Cloud Discovery wizard]] begins with the account selection and testing phase. To prevent long waits or unexpected timeouts, use the **cdu.record.watcher.timeout** system property to define the maximum waiting period for these Cloud Discovery configuration processes:
+The ServiceNow® Cloud Discovery wizard begins with the account selection and testing phase. To prevent long waits or unexpected timeouts, use the **cdu.record.watcher.timeout** system property to define the maximum waiting period for these Cloud Discovery configuration processes:
 
 -   Service account validation
 -   Member account discovery
@@ -57,7 +57,7 @@ You can configure Cloud Discovery to auto-refresh the list of subaccounts and da
 
     2.  Select **Next**.
 
-4.  Select service account for the Cloud Discovery scheduleor [[create-service-account|create a service account]].
+4.  Select service account for the Cloud Discovery scheduleor create a service account.
 
     For description of the service account form fields, see [Cloud Discovery service account form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-operations-disco-service-account-form.md). If you select an existing account, the system auto-completes the form with the available information.
 
@@ -112,10 +112,4 @@ You can configure Cloud Discovery to auto-refresh the list of subaccounts and da
     |**Finish and run**|Cloud Discovery saves the schedule and executes it.|
     |**Finish**|Cloud Discovery saves the schedule and executes it as per the defined frequency.|
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[cloud-discovery-wizard|cloud discovery wizard]]
-- [[create-service-account|Create a service account]]

@@ -38,7 +38,7 @@ current.total_cost.setValue(currencyCode + ";" + totalCost);
 
 ```
 
-You are working with the [[reference-email-admin|reference]] currency value when you use GlideAggregate on currency or [[price-fields|price fields]]. Be sure to convert the aggregate values to the user's session currency for display. The resulting value may not be what you expect. The conversion rate used for the currency or price field value, and for its reference currency, which is used for the aggregation, may have changed.
+You are working with the reference currency value when you use GlideAggregate on currency or price fields. Be sure to convert the aggregate values to the user's session currency for display. The resulting value may not be what you expect. The conversion rate used for the currency or price field value, and for its reference currency, which is used for the aggregation, may have changed.
 
 When you delete a record containing a currency value, the platform deletes any associated currency records.
 
@@ -47,7 +47,7 @@ When you delete a record containing a currency value, the platform deletes any a
 Currency values contain four decimal places.
 
 -   APIs that return values such as getValue\(\) return up to four decimal places. Trailing zeros are always removed.
--   APIs that return [[c_DisplayValues|display values]] such as getDisplayValue\(\) have at least two decimal places and up to four decimal places.
+-   APIs that return display values such as getDisplayValue\(\) have at least two decimal places and up to four decimal places.
 -   GlideAggregate returns four decimal places.
 
 You can have the system use two decimal places. When you set it to two decimal places, numeric values returned by the API contain two decimal places. Although currency conversion rates may have more decimal places, currency fields store only two decimal places. APIs that accept numeric values round decimal places to two places.
@@ -245,8 +245,3 @@ Sets the currency value as:-   A number formatted in the user's locale that is t
 </td></tr></tbody>
 </table>**Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[price-fields|Price fields]]
-- [[c_DisplayValues|Display values]]

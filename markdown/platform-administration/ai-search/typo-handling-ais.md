@@ -14,7 +14,7 @@ breadcrumb: [Search profiles, Configuring AI Search, AI Search, Search administr
 
 # Typo handling
 
-[[ia-ai-search|AI Search]] replaces misspelled search query terms with auto-correction terms derived from indexed content. Configure typo handling dictionary settings to control derivation of auto-correction terms.
+AI Search replaces misspelled search query terms with auto-correction terms derived from indexed content. Configure typo handling dictionary settings to control derivation of auto-correction terms.
 
 To define auto-correction terms for a search profile, modify settings in the profile's linked typo handling dictionary. The typo handling dictionary derives a list of auto-correction terms from indexed content found in search sources linked to its search profile. Update the typo handling dictionary to save its settings. Publish the linked search profile to make auto-correction terms available for searches that use the profile.
 
@@ -114,7 +114,7 @@ Interaction with typo handling
 
 </td><td>
 
-Auto-corrected search query terms can't trigger Genius Result [[clone-configurations-tab|configurations]] with Term trigger conditions. When computing [[genius-result-q-a-ais|Q&amp;A Genius Results]] for a search query, AI Search corrects terms in the query.
+Auto-corrected search query terms can't trigger Genius Result configurations with Term trigger conditions. When computing Q&amp;A Genius Results for a search query, AI Search corrects terms in the query.
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Auto-corrected search query terms can't trigger Genius Result [[clone-configurat
 
 </td><td>
 
-AI Search performs [[lemma-unicode-normalization-ais|lemma and Unicode normalization]] on auto-corrected search query terms.
+AI Search performs lemma and Unicode normalization on auto-corrected search query terms.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,7 @@ An auto-corrected search query term can trigger a result improvement rule if it 
 
 If a misspelled search query term is defined as a stop word, AI Search auto-corrects that term normally instead of removing it.
 
- AI Search ignores terms defined as [[stop-words-ais|stop words]] when determining an auto-correction for a misspelled search query term. For example, if you define `email` as a stop word, AI Search doesn't offer `email` as an auto-correction when you search for `emial`.
+ AI Search ignores terms defined as stop words when determining an auto-correction for a misspelled search query term. For example, if you define `email` as a stop word, AI Search doesn't offer `email` as an auto-correction when you search for `emial`.
 
 </td></tr><tr><td>
 
@@ -158,10 +158,3 @@ Prevent AI Search from auto-correcting a term in user search queries by excludin
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]
-- [[lemma-unicode-normalization-ais|Lemma and Unicode normalization]]
-- [[stop-words-ais|Stop words]]

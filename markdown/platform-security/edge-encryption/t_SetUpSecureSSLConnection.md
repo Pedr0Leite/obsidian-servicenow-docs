@@ -24,7 +24,7 @@ You must obtain the server certificate and matching private key before adding it
 
 ## Procedure
 
-1.  [[inf-sec-generate-csr|Generate a Certificate Signing Request]] \(CSR\) using the `openssl` command.
+1.  Generate a Certificate Signing Request \(CSR\) using the `openssl` command.
 
     ```
     openssl req -newkey rsa:2048 -keyout PRIVATEKEY.key -out MYCSR.csr
@@ -35,7 +35,7 @@ You must obtain the server certificate and matching private key before adding it
 3.  Create a P12 keystore for import using the `openssl` command.
 
     ```
-    openssl pkcs12 -[[export|export]] -in MYSIGNEDCERT.pem -inkey PRIVATEKEY.key -name shared > MY_SERVER.p12
+    openssl pkcs12 -export -in MYSIGNEDCERT.pem -inkey PRIVATEKEY.key -name shared > MY_SERVER.p12
     ```
 
 4.  Store your certificate and private key into a jceks file.
@@ -57,7 +57,3 @@ You must obtain the server certificate and matching private key before adding it
 
 **Next topic:**[Set up a keystore and encryption keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/set-up-keystore.md)
 
-## Related
-
-- [[inf-sec-generate-csr|Generate a Certificate Signing Request]]
-- [[export|Export]]

@@ -14,7 +14,7 @@ breadcrumb: [Content Management meta tags, Configure Content Management sites, C
 
 # Configure DIV-based layouts
 
-After you create your site, you can change the site layout with DIV [[c_Tags|tags]].
+After you create your site, you can change the site layout with DIV tags.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ A theme named **Administration Theme - Charcoal** is included as an example of C
 
 **Parent Topic:**[Content Management meta tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementMetaTags.md)
 
-## Related
-
-- [[c_Tags|Tags]]

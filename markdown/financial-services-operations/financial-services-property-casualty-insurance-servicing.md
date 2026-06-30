@@ -16,15 +16,10 @@ Property and Casualty Insurance Servicing policy service requests are supported 
 
 The personal and commercial insurance policy service requests are supported through the following applications:
 
--   **[[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]**  
+-   **[Personal Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-personal-policy-ops-landing-page.md)**  
 ServiceNow® Personal Lines Servicing enables underwriters and processors in your financial institution to quickly resolve personal insurance policy service requests, and can help you transform your middle and back-office insurance policy operations.
--   **[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]**  
+-   **[Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-commercial-policy-ops-landing-page.md)**  
 ServiceNow® Commercial Lines Servicing enables underwriters and processors in your financial institution to quickly resolve commercial insurance policy service requests, and can help you transform your middle and back-office insurance policy operations.
 
-**Parent Topic:**[[fso-overview|Financial Services]]
+**Parent Topic:**[Financial Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-overview.md)
 
-## Related
-
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[fso-overview|Financial Services]]

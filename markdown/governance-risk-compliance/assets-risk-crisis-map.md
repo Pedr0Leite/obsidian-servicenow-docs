@@ -65,12 +65,10 @@ Role required: BCM admin or BCM Program Manager
 
 7.  Click an asset card like a location or datacenter in the **Assets at Risk** section.
 
-    The [[list-view-uib-ws|list view]] of the records opens up in a new tab.
+    The list view of the records opens up in a new tab.
 
 8.  To view the details of the asset, click the link to the record in the **Name** column.
 
     You can view the complete details of the asset including its latitude and longitude.
 
-## Related
 
-- [[list-view-uib-ws|List view]]

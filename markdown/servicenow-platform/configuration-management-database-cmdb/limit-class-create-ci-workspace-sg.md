@@ -18,11 +18,11 @@ Limit the selection of classes for a new CI being manually created in your works
 
 ## About this task
 
-Creating a new CI is an experience in [[sg-workspace|Service Graph Workspace]] which you might be integrating into another workspace. Within Service Graph Workspace, there are default settings for some of the behaviors of the create CI experience. However, you can use configuration identifiers to customize some of those default settings for Service Graph Workspace or other workspaces. For example, you can customize the list of classes to choose from, for the new CI.
+Creating a new CI is an experience in Service Graph Workspace which you might be integrating into another workspace. Within Service Graph Workspace, there are default settings for some of the behaviors of the create CI experience. However, you can use configuration identifiers to customize some of those default settings for Service Graph Workspace or other workspaces. For example, you can customize the list of classes to choose from, for the new CI.
 
 By default, when creating a new CI in Service Graph Workspace, the list of classes to choose from for the new CI, contains almost all classes in the CMDB hierarchy. For your workspace, it might be important to reduce that list to specific classes or hierarchy branches.
 
-Settings for specific classes available for new CIs are stored in the CI class config \[sn\_cmdb\_ws\_ci\_class\_config\] table which is part of the [[cnfg-identifiers-framework-sg|configuration identifiers framework]]. Therefore, to manage the list of classes for new CIs in your workspace, you must use config identifiers. To manage that list, you must create a config identifier for each class or hierarchy branch that you want to include or exclude in the class drop-down list. By default, the CI class config table contains a single entry for the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]], which is derived by the entire CMDB hierarchy. Any class or workspace without direct config identifiers for inclusion or exclusion, uses the default entry.
+Settings for specific classes available for new CIs are stored in the CI class config \[sn\_cmdb\_ws\_ci\_class\_config\] table which is part of the configuration identifiers framework. Therefore, to manage the list of classes for new CIs in your workspace, you must use config identifiers. To manage that list, you must create a config identifier for each class or hierarchy branch that you want to include or exclude in the class drop-down list. By default, the CI class config table contains a single entry for the Configuration Item \[cmdb\_ci\] class, which is derived by the entire CMDB hierarchy. Any class or workspace without direct config identifiers for inclusion or exclusion, uses the default entry.
 
 For more information:
 
@@ -105,8 +105,3 @@ Include or exclude the **CI class** in the list of classes for a new CI.
 
 When manually creating a new CI in the respective workspace, the specified **CI class** is included in the **Class** drop-down list on the Select class page only if it is set to be available.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cnfg-identifiers-framework-sg|Configuration identifiers framework]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]

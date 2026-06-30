@@ -14,7 +14,7 @@ breadcrumb: [Content blocks, Configure Content Management sites, Content Managem
 
 # Types of content blocks
 
-[[c_ContentBlocks|Content blocks]], which make up content pages, are reusable pieces of content defined within the system.
+Content blocks, which make up content pages, are reusable pieces of content defined within the system.
 
 Each content block can be used for a different type of content.
 
@@ -54,6 +54,3 @@ A detailed content block displays the content of an existing document, such as a
 
 [Integrate Live Feed with CMS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AddLiveFeedToIFrame.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]

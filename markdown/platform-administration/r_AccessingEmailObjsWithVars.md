@@ -12,7 +12,7 @@ breadcrumb: [References, Inbound email, Notifications, Configure core features, 
 
 # Accessing email object variables
 
-An [[ia-inbound-email-il|inbound email]] action script contains the email object to access various pieces of an inbound email through variables. You can use the global variable *sys\_email* with [[actions-inbound-email|inbound email actions]].
+An inbound email action script contains the email object to access various pieces of an inbound email through variables. You can use the global variable *sys\_email* with inbound email actions.
 
 <table id="table_sbj_31q_n4"><thead><tr><th>
 
@@ -133,7 +133,7 @@ Contains the MIME content type of the email \(for example,*text/plain; charset="
 
 </td><td>
 
-Contains details about the sender, route, and receiver as a plain text string in the format of the sending [[c_EnableTheEmailClient|email client]].
+Contains details about the sender, route, and receiver as a plain text string in the format of the sending email client.
 
 </td></tr><tr><td>
 
@@ -156,14 +156,7 @@ var rarray  = email.recipients_array ; for ( var i  = 0 ; i  < rarray.length ; i
 
 ## The sys\_email variable
 
-This variable lets you access the received sys\_email record that triggered the inbound email action. It can be used to [[reference-email-admin|reference]] fields on the email record, such as **uid**, **sys\_id**, **content\_type**, and so on.
+This variable lets you access the received sys\_email record that triggered the inbound email action. It can be used to reference fields on the email record, such as **uid**, **sys\_id**, **content\_type**, and so on.
 
-**Parent Topic:**[[references-inbound-email|References for Inbound email]]
+**Parent Topic:**[References for Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/references-inbound-email.md)
 
-## Related
-
-- [[references-inbound-email|References for Inbound email]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[reference-email-admin|Reference]]

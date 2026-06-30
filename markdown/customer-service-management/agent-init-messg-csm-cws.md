@@ -12,7 +12,7 @@ breadcrumb: [Using CSM Configurable Workspace in Customer Service Management, Ma
 
 # Initiate messaging conversations from CSM Configurable Workspace
 
-Compose an SMS message from [[csm-workspaces-configure|CSM Configurable Workspace]] to interact with a customer contact or a consumer regarding customer service cases.
+Compose an SMS message from CSM Configurable Workspace to interact with a customer contact or a consumer regarding customer service cases.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: agent\_workspace\_user
 
 1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **CSM Configurable Workspace Home**.
 
-2.  On the CSM Configurable Workspace Home page, navigate to **[[migration-lists|Lists]]** &gt; **Interactions** &gt; **My Interactions**.
+2.  On the CSM Configurable Workspace Home page, navigate to **Lists** &gt; **Interactions** &gt; **My Interactions**.
 
 3.  In the My Interactions list, select the interaction number in **Number** column of the My Interactions list.
 
@@ -35,7 +35,7 @@ Role required: agent\_workspace\_user
 
 4.  On the Details tab of the workspace form, fill in the details for a new interaction or modify the details.
 
-    For more information about the form, see [[csm-workspace-agent-actions|CSM workspace form features]].
+    For more information about the form, see [CSM workspace form features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-agent-actions.md).
 
     **Note:** The user profile associated with an interaction is configured by an administrator by using the sn\_agent\_initiated.AgentInitiatedMessagingUserDocument extension point. The AgentMessagingInteractionUserDocument script include that implements the sn\_agent\_initiated.AgentInitiatedMessagingUserDocument extension point is available for the Agent-Initiated Messaging Interface application. For more information, see [Associate user profiles with agent-initiated messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-init-messg-user-record-ext-pt.md).
 
@@ -161,9 +161,3 @@ An active interaction record associated with a different user exists
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-workspace-agent-actions|CSM Configurable Workspace form features]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a demand, Manage demands, Next Experience for Demand Managem
 
 # Customize the demand record form
 
-You can customize the fields displayed on the demand new record form in Next Experience for [[c_DemandManagement|Demand Management]] by modifying the APW New view
+You can customize the fields displayed on the demand new record form in Next Experience for Demand Management by modifying the APW New view
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ By default, the demand new record form in Next Experience for Demand Management 
 
 The updated field layout is applied to the demand new record form for all users.
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]

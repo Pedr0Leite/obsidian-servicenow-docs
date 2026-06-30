@@ -26,7 +26,7 @@ Entity owners can define the risk appetite and tolerance and then copy the quali
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-riskworkspace.png"\] Alt text: List icon. and navigate to the entity.
 
@@ -50,6 +50,3 @@ Learn about the risk appetite fields on the Entity form. Use these fields to def
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

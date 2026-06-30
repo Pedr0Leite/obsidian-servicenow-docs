@@ -14,7 +14,7 @@ breadcrumb: [Resolve conflicts for an individual record, Upgrade Monitor tool in
 
 # Resolve Conflicts form
 
-The [[uc-resolve-conflicts-form|Resolve Conflicts form]] you compare to the base system version with the customized version of a record and reconcile the differences.
+The Resolve Conflicts form you compare to the base system version with the customized version of a record and reconcile the differences.
 
 \[Omitted image "uc-resolve-conflict-form.png"\] Alt text: Image showing Resolve Conflicts form
 
@@ -24,6 +24,3 @@ The fields this form displays depend on the type of record you are reconciling. 
 
 **Parent Topic:**[Resolve conflicts for an individual record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-resolve-conflict.md)
 
-## Related
-
-- [[uc-resolve-conflicts-form|Resolve Conflicts form]]

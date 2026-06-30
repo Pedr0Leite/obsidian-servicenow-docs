@@ -14,7 +14,7 @@ breadcrumb: [DEX Application and Device Health reference, Reference, Digital End
 
 # Non-persistent VDI parameters, scripts, and settings
 
-Use this [[reference-for-itsm-mobile-agent|reference]] to find the Agent Client Collector mid-less installation command syntax, logon and logoff script file names and locations, and an installation command example when setting up a non-persistent VDI golden image.
+Use this reference to find the Agent Client Collector mid-less installation command syntax, logon and logoff script file names and locations, and an installation command example when setting up a non-persistent VDI golden image.
 
 ## Agent Client Collector mid-less installation command
 
@@ -51,7 +51,7 @@ If you place the PowerShell scripts in a location other than `C:\DEXScripts\`, u
 
 ## Non-persistent VDI settings in acc.yml
 
-The following table lists the `acc.yml` [[settings-mobile|settings]] that apply to a non-persistent VDI golden image. `acc.yml` is located at `C:\ProgramData\ServiceNow\agent-client-collector\`.
+The following table lists the `acc.yml` settings that apply to a non-persistent VDI golden image. `acc.yml` is located at `C:\ProgramData\ServiceNow\agent-client-collector\`.
 
 |Setting|Required value|Purpose|
 |-------|--------------|-------|
@@ -61,7 +61,3 @@ The following table lists the `acc.yml` [[settings-mobile|settings]] that apply 
 
 **Parent Topic:**[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]

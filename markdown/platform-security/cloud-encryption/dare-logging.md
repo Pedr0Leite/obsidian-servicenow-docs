@@ -14,7 +14,7 @@ breadcrumb: [Cloud Encryption with Key Management, Encryption]
 
 # Cloud Encryption logging
 
-Learn about logging options for Cloud [[encryption-landing|Encryption]].
+Learn about logging options for Cloud Encryption.
 
 ## Cloud Encryption logging tables
 
@@ -30,7 +30,7 @@ Use these tables to find logging information related to Cloud Encryption transac
 
 Use the Cloud Encryption Key Metadata \[dare\_key\_metadata\] table to find information on the life-cycle of your key. In this table you can find information like the origin, activation date, state, and version of your keys.
 
-Use the [[key-mgmt-transactions-ce|Key Management Transactions]] \[dare\_key\_request\] table to monitor transactions of key operations. In this table you can find all requests relating to your keys, including the state, status, and which step in the process the [[c_requestAPI|request]] is in. Completed requests are retained on this table with the **Completed** status.
+Use the Key Management Transactions \[dare\_key\_request\] table to monitor transactions of key operations. In this table you can find all requests relating to your keys, including the state, status, and which step in the process the request is in. Completed requests are retained on this table with the **Completed** status.
 
 This example shows a key rotation operation. During this operation, the old key life- cycle state updates from active to rotated, and the version state updates from active to retired.
 
@@ -58,8 +58,3 @@ Looking at the Sys Audits\[sys\_audit\] table, admins can the Cloud Encryption K
 
 **Parent Topic:**[Cloud Encryption with Key Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-overview.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[key-mgmt-transactions-ce|Key management transactions]]
-- [[c_requestAPI|request]]

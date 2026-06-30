@@ -14,14 +14,14 @@ breadcrumb: [Explore, Security Incident Response Workspace, Security Incident Re
 
 # SIR Workspace plugins
 
-The following are the required applications to work with [[sir-workspace-landing-page|Security Incident Response Workspace]] \(sn\_si\_aw\) plugin.
+The following are the required applications to work with Security Incident Response Workspace \(sn\_si\_aw\) plugin.
 
 ## Applications
 
-Installing the [[sir-landing-page|Security Incident Response]] application version 13.4.5 or later automatically installs the Security Incident Response Workspace and the following apps.
+Installing the Security Incident Response application version 13.4.5 or later automatically installs the Security Incident Response Workspace and the following apps.
 
--   Enterprise [[case-mgmt|Security Case Management]] PAD Commons \[sn\_escm\_pad\_cmn\]
--   [[security-operations-landing-page|Security Operations]] Common Workspace \[sn\_escm\_ws\_cmn\]
+-   Enterprise Security Case Management PAD Commons \[sn\_escm\_pad\_cmn\]
+-   Security Operations Common Workspace \[sn\_escm\_ws\_cmn\]
 -   Security Incident UI Card Component \[sn\_sirw\_evam\]
 -   Security Operations spoke \[sn\_sec\_spoke\]
 
@@ -51,9 +51,3 @@ For information on the Security Incident Response roles, tables, properties, and
 
 [List view in SIR Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]
-- [[case-mgmt|Security Case Management]]
-- [[security-operations-landing-page|Security Operations]]

@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce SOAP request strict security
 
-Use the **glide.soap.strict\_security** property to enforces [[c_WebServiceSecurity|web service security]].
+Use the **glide.soap.strict\_security** property to enforces web service security.
 
-If the **glide.soap.strict\_security** system property is not set to the recommended value of **true**, then [[users|users]] do not need a SOAP role to make requests of non-public pages when the high security or web service plugin is installed.
+If the **glide.soap.strict\_security** system property is not set to the recommended value of **true**, then users do not need a SOAP role to make requests of non-public pages when the high security or web service plugin is installed.
 
 Ensure the property **glide.soap.strict\_security** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,9 +117,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[c_WebServiceSecurity|Web service security]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

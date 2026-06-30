@@ -14,7 +14,7 @@ breadcrumb: [Configure, Process Mining, Platform Analytics]
 
 # Configure Process Mining map in PAR dashboard
 
-Configure a [[process-mining|Process Mining]] map to view the process graph in the PAR dashboard.
+Configure a Process Mining map to view the process graph in the PAR dashboard.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 6.  Select **Save** and **Exit editing mode**.
 
-    For more information about [[c_performanceAnalyticsAndReporting|Platform Analytics]] \(PAR\) dashboards, see [[ac-elements|Exploring Platform Analytics dashboards]].
+    For more information about Platform Analytics \(PAR\) dashboards, see [Exploring Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ac-elements.md).
 
 
 ## Result
@@ -61,8 +61,3 @@ The Process Mining map is available in the PAR dashboard.
 
 **Parent Topic:**[Configuring Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/setting-up-process-mining.md)
 
-## Related
-
-- [[ac-elements|Exploring Platform Analytics dashboards]]
-- [[process-mining|Process Mining]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

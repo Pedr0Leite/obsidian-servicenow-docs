@@ -18,8 +18,8 @@ Use the Maintenance Management dashboard to get an insight into maintenance case
 
 ## Prerequisites for accessing the View Maintenance Management dashboard
 
--   Ensure that the [[workplace-central-feat|Workplace Central]] application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
--   Ensure that the [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]] \(sn\_wsd\_maintenance\) application is installed. For more information, see [Install Workplace Maintenance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/intall-workplace-maintenance-mgmt.md).
+-   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
+-   Ensure that the Workplace Maintenance Management \(sn\_wsd\_maintenance\) application is installed. For more information, see [Install Workplace Maintenance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/intall-workplace-maintenance-mgmt.md).
 -   Create and publish a maintenance plan. For more information, see [Create and publish maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-publish-maintenance-plans.md) and [Workplace maintenance cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/create-maint-cases.md).
 
     You can also create a maintenance plan record by using the Preventative Maintenance option on the Workplace central home page. Navigate to **All** &gt; **Workplace Central**. Select the Preventative Maintenance icon \(\[Omitted image "icon-preventative-maintenance.png"\] Alt text: Preventative Maintenance icon on the context side bar to create a maintenance plan.\) on the context side bar to create a maintenance plan.
@@ -37,7 +37,7 @@ To access the Maintenance Management dashboard, you must have the sn\_wsd\_maint
     -   **Workspaces** &gt; **Workplace Central**
 -   Select the **Maintenance Management** tab.
 
-\[Omitted image "wpa-maintenance-dashboard.png"\] Alt text: [[workplace-analytics|Workplace Analytics]] Maintenance Management dashboard
+\[Omitted image "wpa-maintenance-dashboard.png"\] Alt text: Workplace Analytics Maintenance Management dashboard
 
 ## Scorecards
 
@@ -177,7 +177,7 @@ As an admin, run the scheduled job **Workplace Maintenance Case Historical Data 
 **Related topics**  
 
 
-[View [[space-optimization|Space Optimization]] metrics]()
+[View Space Optimization metrics]()
 
 [View Occupancy Dashboard]()
 
@@ -185,9 +185,3 @@ As an admin, run the scheduled job **Workplace Maintenance Case Historical Data 
 
 [Manage Workplace Dashboards]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-maintenance-mgmt-ovw|Workplace Maintenance Management]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]

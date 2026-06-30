@@ -46,7 +46,7 @@ web\_service\_message
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -102,7 +102,7 @@ Array of JavaScript objects, expressed with the `executionParam`. prefix. For in
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|mid server]]
+Use mid server
 
 </td><td>
 
@@ -130,7 +130,7 @@ String \(comma separated\)
 
 </td><td>
 
-List of [[reference-document-management|references]] to required [[mid-server-capabilities|MID Server capabilities]].
+List of references to required MID Server capabilities.
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). Use this example to customize the [[c_MIDServerSelector|MID Server selection]] if there are additional capabilities that are assigned by value: ```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). Use this example to customize the MID Server selection if there are additional capabilities that are assigned by value: ```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'}; executionParam.valueCapabilities.push(valueCapability);
 ```
 
@@ -202,10 +202,3 @@ Credentials to use for this SOAP message when the `auth_type` is `basic_auth_pic
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a SOAP web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateASOAPWebServiceActivity.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[mid-server-landing|MID Server]]
-- [[reference-document-management|References]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[c_MIDServerSelector|MID Server selection]]

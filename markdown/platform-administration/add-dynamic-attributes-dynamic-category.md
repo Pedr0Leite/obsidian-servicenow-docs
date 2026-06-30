@@ -24,7 +24,7 @@ After creating dynamic attributes, you can build out your taxonomy by including 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Categories**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Categories**.
 
 2.  Select a dynamic category that you want to update.
 
@@ -48,6 +48,3 @@ After creating dynamic attributes, you can build out your taxonomy by including 
 
 Add more dynamic attributes to the dynamic category as needed.
 
-## Related
-
-- [[dynamic-schema|Dynamic Schema]]

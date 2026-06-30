@@ -40,12 +40,8 @@ Accept the ideas that are feasible for implementation and create a task such as 
 
 5.  Select **Update**.
 
-    Convert the accepted ideas to a demand, epic, story, or feature based on how you would like to execute your idea. Use relevant options such as Epic, SAFe epic, or Improvement initiative based on the plugins installed such as PPM Standard, [[agile-landing-page|Agile Development 2.0]] and [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]. After creating a demand or a project, change the state of the idea to track its status during different stages of development.
+    Convert the accepted ideas to a demand, epic, story, or feature based on how you would like to execute your idea. Use relevant options such as Epic, SAFe epic, or Improvement initiative based on the plugins installed such as PPM Standard, Agile Development 2.0 and Scaled Agile Framework \(SAFe\). After creating a demand or a project, change the state of the idea to track its status during different stages of development.
 
 
 **Parent Topic:**[Managing ideas using Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/using-innovation-management.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

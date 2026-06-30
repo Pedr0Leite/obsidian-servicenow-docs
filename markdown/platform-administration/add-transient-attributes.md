@@ -46,7 +46,7 @@ Description
 
 </td><td>
 
-1.  In the category [[reference-email-admin|reference]] field, select the dynamic category that contains the dynamic attributes that you want to use.
+1.  In the category reference field, select the dynamic category that contains the dynamic attributes that you want to use.
 2.  Enter one or more attributes and their values. For example:
 
     ```
@@ -81,7 +81,7 @@ gr.query();
 
 ## What to do next
 
-Decide whether to create formal [[clone-exclusions-preservers-cleanupscripts|definitions]] for each attribute. Providing a formal definition makes the attribute non-transient and allows you to modify its behavior. To provide this definition, navigate to the dynamic namespace record the store field is configured with and create a dynamic attribute record using the name of the attribute you wish to modify. See [[add-dynamic-attributes|Create a dynamic attribute]].
+Decide whether to create formal definitions for each attribute. Providing a formal definition makes the attribute non-transient and allows you to modify its behavior. To provide this definition, navigate to the dynamic namespace record the store field is configured with and create a dynamic attribute record using the name of the attribute you wish to modify. See [Create a dynamic attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes.md).
 
 Note that modifying the definition of an attribute doesn't modify any data stored for that attribute. Rather, it simply modifies how the system interacts with that data. For example, attributes defined as strings sort differently than when defined as integers.
 
@@ -107,8 +107,3 @@ Sorting age values as integers:
 
 Any saved data that might be invalid for its defined type is treated as having a nil value appropriate for the type. For example, storing a value of "dog" for an attribute, and then formally defining it as an integer will effectively use 0 in all queries and calculations that attribute is used in, even though the data stored for the attribute remains as “dog".
 
-## Related
-
-- [[add-dynamic-attributes|Create a dynamic attribute]]
-- [[reference-email-admin|Reference]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

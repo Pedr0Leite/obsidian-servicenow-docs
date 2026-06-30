@@ -14,7 +14,7 @@ breadcrumb: [Service Reliability Management reference, Service Reliability Manag
 
 # SRM roles and responsibilities
 
-Roles grant users access to different parts of the SRM console. Roles determine the actions that users can or can't perform in [[sr-landing-page|Service Reliability Management]].
+Roles grant users access to different parts of the SRM console. Roles determine the actions that users can or can't perform in Service Reliability Management.
 
 SRM has the following predefined roles:
 
@@ -109,6 +109,3 @@ Administrator \[admin\]
 </td></tr></tbody>
 </table>**Parent Topic:**[Service Reliability Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/service-reliability-management-reference.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce security scope license and permit playbook \[New in Security Center 1.5 and updated in 2.0\]
 
-Use this property to determine if only the [[sc-access-control|access control]] lists \(ACLs\) within the License and Permit plugin will be used in determining access to the scope, or if ACLs from all scopes will be considered.
+Use this property to determine if only the access control lists \(ACLs\) within the License and Permit plugin will be used in determining access to the scope, or if ACLs from all scopes will be considered.
 
 When the **glide.enforce\_security\_scope.sn\_gsm\_lic\_prmt** property is set to the recommended value of true, then only ACLs within the License and Permit plugin are used to determine access to the scope. When this setting is configured to false, then License and Permit Playbooks data in scope master tables are exposed because ACLs from all scopes are granted access. To reduce data exposure, set **glide.enforce\_security\_scope.sn\_gsm\_lic\_prmt** to the recommended value of true.
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -106,8 +106,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -31,7 +31,7 @@ Role required:
 
 1.  Navigate to **Workspaces** &gt; **Assessment Workspace** to access the Assessment Workspace landing page.
 
-2.  [[sae-asmnt-template-create|Create an assessment template]] or open an existing assessment template that is in the Draft state.
+2.  Create an assessment template or open an existing assessment template that is in the Draft state.
 
     For more information on creating a template, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
@@ -59,7 +59,7 @@ Role required:
     -   The first condition that meets the criteria triggers the default response. Priority is determined by the order of the conditions. For instance, if you have three conditions and the first one is true, the system doesn't check the remaining two.
 9.  In the **Default response is** field in the **If nothing matches** section, set the default response for situations where none of the condition sets meet the set criteria.
 
-    \[Omitted image "automate-response-add-condition.png"\] Alt text: Screen of the [[automate-response|Automate response]] pop-up window, which shows theIf section, Then section, and If nothing matches section.
+    \[Omitted image "automate-response-add-condition.png"\] Alt text: Screen of the Automate response pop-up window, which shows theIf section, Then section, and If nothing matches section.
 
 10. Create a script for a dynamic response by selecting the script icon \[Omitted image "script-icon.png"\] Alt text:.
 
@@ -74,7 +74,4 @@ Role required:
     -   For a question to be marked as required, the **Set response as editable** option must be selected. If **Set response as editable** is cleared, the **Required** option is automatically turned off.
 13. Select **Save**.
 
-## Related
 
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[automate-response|Automate response]]

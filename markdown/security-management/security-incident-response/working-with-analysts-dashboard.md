@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response Workspace, Security Incident Response, E
 
 # Viewing SIR Workspace Dashboards
 
-This section present the important metrics to analyze your [[sir-landing-page|Security Incident Response]] process such as new security incidents or the average age of open security incidents.
+This section present the important metrics to analyze your Security Incident Response process such as new security incidents or the average age of open security incidents.
 
 In the Classic UI, there are few standard dashboards available under homepage and Performance Analytics Dashboards that are available when Performance Analytics for Security Incident Response plugin is installed. All of these will now be available in the new workspace under the **SIR Dashboards** section.
 
@@ -26,10 +26,10 @@ In the Classic UI, there are few standard dashboards available under homepage an
     -   CISO Overview \(supported in future releases\)
 -   **Platform Analytics for Security Incident Response**
     -   Security Incident Explorer
-    -   [[ciso-dashboard|CISO Dashboard]] \(future release\)
+    -   CISO Dashboard \(future release\)
     -   Security Incident Management
     -   Security Incident Management Premium KPIs
-    -   [[security-operations-landing-page|Security Operations]] Efficiency
+    -   Security Operations Efficiency
     -   Context Sensitive Analytics – SI Dashboard
 
 **Note:** There might be some repetition of dashboards across standard and platform analytics for security incident response dashboards such as CISO Dashboard. When the plugin is installed, there will be additional content in these dashboards and will not be available as duplicate.
@@ -43,7 +43,7 @@ In the current version of the SIR Workspace, the following dashboards are availa
 |Standard Dashboard|
 |Security Analyst Overview|With this dashboard, security analysts can view security incidents summarized based on analyst’s critical priority work, high priority work, security Incidents that are assigned to the analyst, tasks assigned to the analysts, and incident count.|
 |Performance Analytics \(PA\) for Security Incident Response Dashboards|
-|Security Incident Explorer|With this dashboard, security managers and analysts can view security incidents summarized and grouped by category, subcategory, [[location|location]], priority, and business impact. These views let managers and analysts quickly gain insight into the frequency in which attacks are occurring and which business services are affected.|
+|Security Incident Explorer|With this dashboard, security managers and analysts can view security incidents summarized and grouped by category, subcategory, location, priority, and business impact. These views let managers and analysts quickly gain insight into the frequency in which attacks are occurring and which business services are affected.|
 |Security Incident Management|With this dashboard, security managers can easily track the volume, performance, and progress of security incidents from initial analysis/detection to containment, eradication, and recovery.|
 |CISO Dashboard|Proposed to support in future release.|
 |Security Operations Efficiency|With this dashboard, managers and analysts can view overall efficiency metrics and measure the performance of the SOC.|
@@ -60,15 +60,8 @@ The **SIR Dashboards** icon displayed on the left side of the workspace home pag
 2.  Click on the **SIR Dashboards** \[Omitted image "dashboard.png"\] Alt text: Dashboard iconicon.
 3.  Select the desired Dashboard from the drop down list.
 
-    \[Omitted image "dashboard-drop-down.png"\] Alt text: Selecting the [[si-explorer-dashboard|Security Incident Explorer Dashboard]].
+    \[Omitted image "dashboard-drop-down.png"\] Alt text: Selecting the Security Incident Explorer Dashboard.
 
 
 You can edit the dashboards, add new elements to the dashboards, and create your own dashboards. For more information on how to use dashboards, see [Working with responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_ResponsiveDashboards.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[ciso-dashboard|CISO dashboard]]
-- [[security-operations-landing-page|Security Operations]]
-- [[location|Location]]
-- [[si-explorer-dashboard|Security Incident Explorer dashboard]]

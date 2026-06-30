@@ -22,8 +22,5 @@ Field descriptions for the CBS Client Role Rule form, used to define the conditi
 |Table|Table that the role rule applies to. This field is automatically set to User \[sys\_user\].|
 |Condition|Filter conditions that determine which employees receive the CBS requester role. Use **Add Filter Condition** to add a condition, or **Add OR Clause** to add an alternative condition set.|
 
-**Parent Topic:**[[cbs-reference-parent|Core Business Suite reference]]
+**Parent Topic:**[Core Business Suite reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 
-## Related
-
-- [[cbs-reference-parent|Core Business Suite reference]]

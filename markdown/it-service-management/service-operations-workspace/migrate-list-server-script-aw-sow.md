@@ -14,7 +14,7 @@ breadcrumb: [List actions migration from ITSM Agent Workspace to Service Operati
 
 # Migrate the server script from ITSM Agent Workspace to Service Operations Workspace for ITSM
 
-Configure the server script to migrate list actions from ITSM Agent Workspace to [[sow-landing-page|Service Operations Workspace for ITSM]].
+Configure the server script to migrate list actions from ITSM Agent Workspace to Service Operations Workspace for ITSM.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-actions-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

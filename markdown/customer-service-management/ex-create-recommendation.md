@@ -20,11 +20,11 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
 ## About this task
 
-New recommendations can only be created inside the [[gamification-components-rules|rules]].
+New recommendations can only be created inside the rules.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[configure-nba|Recommended Actions]]** &gt; **Contexts**.
+1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
 2.  Select the Case context.
 
@@ -48,7 +48,7 @@ New recommendations can only be created inside the [[gamification-components-rul
 
     2.  In the **Document** field, select the Troubleshoot credit card transaction failure decision tree by clicking the lookup icon.
 
-        For more information about how to create this decision tree, see [[preparation-for-creating-a-decision-tree|Create Troubleshoot credit card transaction failure decision tree]].
+        For more information about how to create this decision tree, see [Create Troubleshoot credit card transaction failure decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/preparation-for-creating-a-decision-tree.md).
 
     3.  Select **OK**.
 
@@ -58,8 +58,4 @@ New recommendations can only be created inside the [[gamification-components-rul
 
 9.  Select **Update**.
 
-## Related
 
-- [[preparation-for-creating-a-decision-tree|Preparation for creating a decision tree]]
-- [[gamification-components-rules|Rules]]
-- [[configure-nba|Recommended Actions]]

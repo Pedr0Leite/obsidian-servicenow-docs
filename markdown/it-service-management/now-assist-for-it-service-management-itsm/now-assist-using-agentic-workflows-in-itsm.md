@@ -15,7 +15,7 @@ breadcrumb: [Use agentic AI in IT Service Management, Now Assist for IT Service 
 
 # Agentic AI in Now Assist for ITSM
 
-Use the [[r_ITServiceManagement|IT Service Management]] AI agents within an agentic workflow to complete tasks autonomously.
+Use the IT Service Management AI agents within an agentic workflow to complete tasks autonomously.
 
 ## Overview of Incident triaging and resolution agentic workflows
 
@@ -124,7 +124,3 @@ Answers questions about an open incident, including caller assets, recent incide
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]

@@ -50,7 +50,7 @@ The particular third-party engagements that you might have depend on your indust
 
 ## Subsidiaries
 
-A subsidiary is an organization owned or controlled by the third party and is considered part of the third party's organization. They’re typically managed as part of the third party's [[tprm-risk-profile-what-is|risk profile]]. They’re different from fourth to nth parties which have contracts with a third party and aren’t owned or controlled by that third party.
+A subsidiary is an organization owned or controlled by the third party and is considered part of the third party's organization. They’re typically managed as part of the third party's risk profile. They’re different from fourth to nth parties which have contracts with a third party and aren’t owned or controlled by that third party.
 
 Risk assessment for subsidiaries is the same as for other third parties. The risk ratings of the subsidiaries contribute to their controlling third party's score.
 
@@ -58,7 +58,7 @@ Risk assessment for subsidiaries is the same as for other third parties. The ris
 
 During the internal assessment process, internal employees in your organization answer questions in the IRQ. These responses help with assessing the inherent risk that is associated with engaging with a third party. An inherent risk refers to the level of risk before implementing any risk mitigation measures. An IRQ supports the following activities:
 
--   **Determining risk [[factors|factors]]**
+-   **Determining risk factors**
     -   The nature of the services provided by the third party.
     -   The sensitivity of the data involved.
     -   The geographic location of the third party.
@@ -81,7 +81,7 @@ During the internal assessment process, internal employees in your organization 
 
 ## Due diligence \(DD\)
 
-Due diligence is the process of conducting a thorough investigation or examination of the integrity, reputation, financial stability, legal compliance, operation capabilities, supply chain, and other relevant factors of a potential business partner, supplier, or vendor. Conducting due diligence on third parties is a crucial component of your comprehensive third-party risk program. You conduct due diligence to become aware of the risks that are associated with a third party so that you can confidently decide how to form your relationship. Use due diligence workflows to onboard new engagements or to reassess or retire any existing engagements. Due diligence workflows include gathering information through internal assessments, external assessments, and risk intelligence. All the scores from these steps are analyzed by the third-party risk managers to decide whether to onboard, reassess, or retire an engagement. Due diligence also has an optional contract negotiation process before closing the [[tprm-workflow-in-workspace|due diligence workflow]].
+Due diligence is the process of conducting a thorough investigation or examination of the integrity, reputation, financial stability, legal compliance, operation capabilities, supply chain, and other relevant factors of a potential business partner, supplier, or vendor. Conducting due diligence on third parties is a crucial component of your comprehensive third-party risk program. You conduct due diligence to become aware of the risks that are associated with a third party so that you can confidently decide how to form your relationship. Use due diligence workflows to onboard new engagements or to reassess or retire any existing engagements. Due diligence workflows include gathering information through internal assessments, external assessments, and risk intelligence. All the scores from these steps are analyzed by the third-party risk managers to decide whether to onboard, reassess, or retire an engagement. Due diligence also has an optional contract negotiation process before closing the due diligence workflow.
 
 See [Why you conduct due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-due-diligence-why.md) and [Types of due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-due-diligence-types.md).
 
@@ -113,7 +113,7 @@ These scores help organizations make informed decisions about selecting and mana
 
 ## Risk rating components
 
-A component is the entity for which you can assess risk. The base system includes engagements, external monitoring, subsidiaries, and third-party [[risk-assessments|risk assessments]]. Risk is calculated for each component and then the risk is aggregated and rolled up to calculate a third-party risk rating.
+A component is the entity for which you can assess risk. The base system includes engagements, external monitoring, subsidiaries, and third-party risk assessments. Risk is calculated for each component and then the risk is aggregated and rolled up to calculate a third-party risk rating.
 
 A component criteria is the definition of how a component is going to be used by a third party. A component criteria is a group of components that should apply to a particular type of third party or engagement.
 
@@ -216,9 +216,3 @@ Here are some examples of Third-party elements and their associated controls and
 
 **Parent Topic:**[Third-party Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-reference.md)
 
-## Related
-
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[factors|factors]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]
-- [[risk-assessments|risk assessments]]

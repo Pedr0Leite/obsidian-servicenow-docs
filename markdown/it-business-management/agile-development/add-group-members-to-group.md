@@ -24,7 +24,7 @@ Any user that you want to add to the assignment group must have the scrum\_user 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Groups**.
 
 2.  Open the group to which you want to add members.
 
@@ -39,6 +39,3 @@ The selected scrum user is listed in the Group Members related list.
 
 **Parent Topic:**[Assignment groups in Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/manage-groups-agile-dev.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

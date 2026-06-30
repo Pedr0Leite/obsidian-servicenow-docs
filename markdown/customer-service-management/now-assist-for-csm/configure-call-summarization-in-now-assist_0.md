@@ -27,7 +27,7 @@ Call summarization is generated from the information that you enter in the follo
 -   Chat Summary \(automatically populated at the end of call\)
 -   Integration setup:
 
-    **Note:** Verify that your telephony or call center system is integrated with ServiceNow if call data needs to be captured directly. For more information, see [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]] and [[interaction-controls-component-icc-callback-integration-features|Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks]].Additionally, set your status as **Available** in [[csm-workspaces-configure|CSM Configurable Workspace]] to be able to receive call requests from customers.
+    **Note:** Verify that your telephony or call center system is integrated with ServiceNow if call data needs to be captured directly. For more information, see [Interaction Controls Component \(ICC\) for voice calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-center-integration-with-icc.md) and [Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-controls-component-icc-callback-integration-features.md).Additionally, set your status as **Available** in CSM Configurable Workspace to be able to receive call requests from customers.
 
 
 Any modifications to the names or labels of these fields can result in issues with summarization generation.
@@ -73,15 +73,10 @@ Any modifications to the names or labels of these fields can result in issues wi
 
 6.  Select **Display** to determine where the resolution notes appear.
 
-    -   Select In-product desktop to display Now Assist skills on [[migration-forms|forms]] and workspaces.
+    -   Select In-product desktop to display Now Assist skills on forms and workspaces.
     -   Select Now Assist panel to display Now Assist skills in the Now Assist panel.
 7.  After selecting **Review and Activate** to examine changes, select **Done** to close the Call Summarization generation settings.
 
 8.  Select **Activate** to turn on the skill for agents and complete the configuration.
 
-## Related
 
-- [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]]
-- [[interaction-controls-component-icc-callback-integration-features|Integrating contact centers with Interaction Controls Component \(ICC\) for callbacks]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-forms|Forms]]

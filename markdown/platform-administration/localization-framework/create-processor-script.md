@@ -18,11 +18,11 @@ You can create a processor script to include in your custom artifact configurati
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_admin and script\_include\_admin
+Role required: localization\_admin and script\_include\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **[[framework-configuration|Artifact Configurations]]**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **Artifact Configurations**.
 
 2.  Click **New** or open an artifact that you want to update the processor script for.
 
@@ -35,8 +35,3 @@ Role required: [[ia-localization-il|localization]]\_admin and script\_include\_a
 
 **Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]
-- [[framework-configuration|Artifact configurations]]

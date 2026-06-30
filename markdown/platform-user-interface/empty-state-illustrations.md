@@ -18,7 +18,7 @@ Empty state illustrations in Theme Builder provide visually engaging placeholder
 
 When a component or a part of your Next Experience web page doesn’t contain data, an empty state illustration appears. Empty state illustrations are theme-able, and adapt to the theme colors of your instance.
 
-**Important:** Empty state illustrations apply to Workspaces and are not supported in the [[c_UI16|Core UI]].
+**Important:** Empty state illustrations apply to Workspaces and are not supported in the Core UI.
 
 \[Omitted image "empty-state-no-data-available.png"\] Alt text: No data available empty state illustration.
 
@@ -46,17 +46,10 @@ To override the default empty state illustrations with custom images, upload eac
 |Format|SVG|
 |File size limit|2 MB|
 
--   **[[customize-colors-empty-state|Configure the colors for empty state illustrations]]**  
-[[configure-onboarding-modals|Configure]] and control the colors automatically applied to empty state illustrations to keep your visual experience engaging while maintaining brand recognition.
--   **[[override-empty-state-illustrations|Override empty state illustrations with custom images]]**  
+-   **[Configure the colors for empty state illustrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customize-colors-empty-state.md)**  
+Configure and control the colors automatically applied to empty state illustrations to keep your visual experience engaging while maintaining brand recognition.
+-   **[Override empty state illustrations with custom images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/override-empty-state-illustrations.md)**  
 Modify or override the default empty state illustrations with your own custom images to promote visual elements that reflect your company's branding.
 
-**Parent Topic:**[[working-with-image-styles|Working with Image styles]]
+**Parent Topic:**[Working with Image styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-image-styles.md)
 
-## Related
-
-- [[customize-colors-empty-state|Configure the colors for empty state illustrations]]
-- [[override-empty-state-illustrations|Override empty state illustrations with custom images]]
-- [[working-with-image-styles|Working with Image styles]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

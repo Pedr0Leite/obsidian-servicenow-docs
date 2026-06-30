@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle Listener HD discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the Oracle Listener HD pattern to find and map Oracle real application cluster components. To discover these resources, install the CMDB CI Class Models and the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow Store.
+ServiceNow Discovery uses the Oracle Listener HD pattern to find and map Oracle real application cluster components. To discover these resources, install the CMDB CI Class Models and the Discovery and Service Mapping Patterns from the ServiceNow Store.
 
 Oracle RAC enables you to cluster an Oracle database. Oracle RAC uses Oracle Clusterware for the infrastructure to bind multiple servers so they operate as a single system. Oracle Clusterware enables you to create a clustered pool of storage that can be used by any combination of non-cluster and Oracle RAC databases. Discovery uses Oracle Listener HD patterns to discover information about the Oracle Database Listener and the components in the Oracle RAC infrastructure, when such a setup is configured.
 
@@ -165,7 +165,3 @@ The Listener HD pattern creates the following relationships to support Oracle Li
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

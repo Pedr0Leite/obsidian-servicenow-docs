@@ -14,7 +14,7 @@ breadcrumb: [Microsoft 365 SaaS License Management success guide, Success Guides
 
 # Microsoft 365 license optimization
 
-Find [[c_SoftwareAssetMgmt|Software Asset Management]] optimization recommendations for Microsoft 365 based on usage.
+Find Software Asset Management optimization recommendations for Microsoft 365 based on usage.
 
 <table id="table_vzd_qhc_2xb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Microsoft 365 subscription details
 
 </td><td>
 
-Number of active, inactive, and unassigned user subscription details for Microsoft 365, Office 365, and Power BI products, which are grouped by [[c_CreatingSoftwareModels|software models]].
+Number of active, inactive, and unassigned user subscription details for Microsoft 365, Office 365, and Power BI products, which are grouped by software models.
 
  Select a data point to view more details about the user subscriptions for a software model.
 
@@ -102,8 +102,3 @@ Number of licenses that are available on the Microsoft portal per subscription.S
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

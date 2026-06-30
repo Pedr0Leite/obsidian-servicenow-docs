@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # View agent information
 
-View details about an agent at a particular location by selecting the agent icon on the [[dispatcher-activities|Dispatcher Workspace]] map.
+View details about an agent at a particular location by selecting the agent icon on the Dispatcher Workspace map.
 
 The contextual side panel shows the agent's profile that displays the agent schedule and these additional details:
 
@@ -88,9 +88,5 @@ All the skills assigned to the agent.
 **Related topics**  
 
 
-[[configuring-popover-fields|Configure the fields to appear on task cards or in the Contextual Side Panel]]
+[Configure the fields to appear on task cards or in the Contextual Side Panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-popover-fields.md)
 
-## Related
-
-- [[configuring-popover-fields|Configure the fields to appear on task cards or in the Contextual Side Panel]]
-- [[dispatcher-activities|Dispatcher Workspace]]

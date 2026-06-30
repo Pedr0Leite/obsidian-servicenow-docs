@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management Foundation plugin, Software Ass
 
 # Software Asset Management Foundation plugin discovery models and software installations
 
-Software discovery [[c_Models|models]] are automatically created during discovery so you can manually normalize the software installed in your environment.
+Software discovery models are automatically created during discovery so you can manually normalize the software installed in your environment.
 
 Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table.
 
@@ -339,6 +339,3 @@ Check box for not counting the software install as a component of a suite during
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/exploring-sam-foundation.md)
 
-## Related
-
-- [[c_Models|Models]]

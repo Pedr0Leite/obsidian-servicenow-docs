@@ -24,7 +24,7 @@ Role required: sn\_ssa\_core.self\_service\_manager
 
 ## About this task
 
-By default, the system includes pattern element groups for analyzing activity patterns within the Knowledge, Catalog, Communities, and Virtual Agent [[self-service-landing|self-service]] channels. These pattern elements are available with the [[self-service-analytics|Self-Service Analytics]] for Customer Service plugin \[com.snc.pa.self\_service\_analytics\_csm\].
+By default, the system includes pattern element groups for analyzing activity patterns within the Knowledge, Catalog, Communities, and Virtual Agent self-service channels. These pattern elements are available with the Self-Service Analytics for Customer Service plugin \[com.snc.pa.self\_service\_analytics\_csm\].
 
 ## Procedure
 
@@ -129,7 +129,3 @@ Maximum occurrence of the result of the logical combination of the first and sec
 
 **Parent Topic:**[Configure Self-Service Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/config-ssa.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[self-service-analytics|Self-Service Analytics]]

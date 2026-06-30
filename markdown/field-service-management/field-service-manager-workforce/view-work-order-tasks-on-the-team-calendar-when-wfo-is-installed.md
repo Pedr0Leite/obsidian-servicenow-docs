@@ -14,7 +14,7 @@ breadcrumb: [Using the team calendar, Managing agents and tasks from Workforce, 
 
 # View events on the Team calendar in Workforce when Workforce Optimization for Field Service is installed
 
-View or hide events, such as appointments and work order tasks, on the Team calendar when [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is installed to view only the events you want to see.
+View or hide events, such as appointments and work order tasks, on the Team calendar when Workforce Optimization for Field Service is installed to view only the events you want to see.
 
 ## Before you begin
 
@@ -32,6 +32,4 @@ Role required: wm\_manager, wm\_agent
 
     Events that are toggled are visible on the Team calendar.
 
-## Related
 
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

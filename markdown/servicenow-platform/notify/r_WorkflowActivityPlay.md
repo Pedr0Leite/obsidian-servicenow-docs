@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Play workflow activity
 
-The **Play** activity plays a sound file on a [[notify-landing-page|Notify]] call.
+The **Play** activity plays a sound file on a Notify call.
 
 ## Input Variables
 
@@ -33,6 +33,3 @@ You can create an error condition to handle errors with the sound file. The acti
 
 **Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

@@ -18,7 +18,7 @@ The Legal Operations dashboard provides comprehensive reports to the legal depar
 
 General Counsel and the practice area leads can use the Performance Analytics [Legal Executive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-executive-dashboard.md) to gain insights into legal operations, performance, and trends with real-time reporting.
 
-**Note:** The classic version of the Legal Operations dashboard has been deprecated. If you open a saved URL to access the classic [[legal-executive-dashboard|Legal Executive Dashboard]], the Next Experience dashboard is automatically displayed. If you have customized the classic version, review and migrate your customizations to the Next Experience Legal Operations dashboard.
+**Note:** The classic version of the Legal Operations dashboard has been deprecated. If you open a saved URL to access the classic Legal Executive Dashboard, the Next Experience dashboard is automatically displayed. If you have customized the classic version, review and migrate your customizations to the Next Experience Legal Operations dashboard.
 
 ## Access the Legal Operations dashboard
 
@@ -228,6 +228,3 @@ Top 10 knowledge articles viewed the most number of times. The articles in this 
 </td></tr></tbody>
 </table>**Parent Topic:**[Analytics and Reporting Solutions for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legalsd-content-pack.md)
 
-## Related
-
-- [[legal-executive-dashboard|Legal Executive dashboard]]

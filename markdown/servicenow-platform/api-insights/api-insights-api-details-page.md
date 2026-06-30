@@ -14,7 +14,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 # Viewing API details in API Insights
 
-As an enterprise architect, gain insights into your organization's API performance, relationships, and governance from the API details page within the [[api-insights|API Insights]] workspace.
+As an enterprise architect, gain insights into your organization's API performance, relationships, and governance from the API details page within the API Insights workspace.
 
 The API details page in the API Insights workspace provides a detailed view of an API's operational status, usage, security, and relationships within CMDB.
 
@@ -163,11 +163,11 @@ Security incidents, if enabled, providing insights into security breaches or iss
 
     Provides a hierarchical overview of the API relationships with its components, management platforms, business applications, and designs, making it easier to understand the API's role within the broader system architecture.In addition, provides the option to manage application service relationships. See [Managing application service relationships for APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-manage-serv-reln.md).
 
-    A relationship map is a partial [[cmdb-workspace-unified-map|unified map]] similar to the one used in the CMDB Workspace. To open the unified map for APIs, select **Open full map** in the Relationship map section of the API details page. To learn more, see [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md).
+    A relationship map is a partial unified map similar to the one used in the CMDB Workspace. To open the unified map for APIs, select **Open full map** in the Relationship map section of the API details page. To learn more, see [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md).
 
     \[Omitted image "api-insights-rel-map.png"\] Alt text: API unified map
 
-    Nodes on the map represent the API and its components in the CMDB and lines represent connections and relationships between API components. The connections help you, for example, to assess the impact of a change to a selected node by showing components that are connected to it through relationships and [[reference-document-management|references]]. Products such as [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md), [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentManagement.md), and [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) benefit from such information.
+    Nodes on the map represent the API and its components in the CMDB and lines represent connections and relationships between API components. The connections help you, for example, to assess the impact of a change to a selected node by showing components that are connected to it through relationships and references. Products such as [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md), [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentManagement.md), and [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) benefit from such information.
 
     The map also shows the composition of application services useful with products such as [Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_EM.md) and [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_IncidentManagement.md). You can review historical changes.
 
@@ -198,8 +198,4 @@ Security incidents, if enabled, providing insights into security breaches or iss
 
         The timeline indicates events \(related items\) like incidents, problems, and changes for the selected API over a specified period of time. You can use the timeline to visualize the history of changes to an API and how they affect the topology of the CMDB.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[reference-document-management|References]]

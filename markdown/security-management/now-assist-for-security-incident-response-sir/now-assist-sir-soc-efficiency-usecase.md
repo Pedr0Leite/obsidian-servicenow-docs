@@ -14,11 +14,11 @@ breadcrumb: [Use agentic workflows, Now Assist for Security Incident Response, S
 
 # Security Incident Response AI agent collection for the Analyze security operations metrics agentic workflow
 
-The [[assess-metrics-sir-aiagent|Analyze security operations metrics agentic workflow]] helps [[security-operations-landing-page|security operations]] center managers analyze the performance of their security teams.
+The Analyze security operations metrics agentic workflow helps security operations center managers analyze the performance of their security teams.
 
 ## The Analyze security operations metrics agentic workflow overview
 
-Security operations center \(SOC\) managers can analyze metrics for overall case volume, mean time to assign \(MTTA\), and mean time to resolve \(MTTR\) on [[sir-landing-page|security incident response]] \(SIR\) records to give them insight into their security analysts' performance. They can also ask for recommendations for how to improve the metrics.
+Security operations center \(SOC\) managers can analyze metrics for overall case volume, mean time to assign \(MTTA\), and mean time to resolve \(MTTR\) on security incident response \(SIR\) records to give them insight into their security analysts' performance. They can also ask for recommendations for how to improve the metrics.
 
 ## Agents used in the Analyze security operations metrics agentic workflow
 
@@ -27,7 +27,7 @@ Security operations center \(SOC\) managers can analyze metrics for overall case
 
 ## Tools mapped to the Analyze security operations metrics agentic workflow
 
-The following [[tools|tools]] are mapped to the AI agents that are used in the Analyze security operations metrics agentic workflow.
+The following tools are mapped to the AI agents that are used in the Analyze security operations metrics agentic workflow.
 
 |Tool type|Execution mode|Name|Description|
 |---------|--------------|----|-----------|
@@ -40,9 +40,3 @@ The following [[tools|tools]] are mapped to the AI agents that are used in the A
 
 There are no triggers for this use case. If required, you can add a trigger to invoke the use case automatically.
 
-## Related
-
-- [[assess-metrics-sir-aiagent|Analyze security operations metrics agentic workflow]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[tools|Tools]]

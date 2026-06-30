@@ -34,7 +34,7 @@ The features available in these roadmaps are:
 -   Planning item dependencies
 -   Tracking mode
 
-**Note:** Roadmaps are available with [[portfolio-planning-app-landing-page|Portfolio Planning]] by default. Roadmap Planning \(sn\_roadmap\_plng\) is no longer available to install as a separate application.
+**Note:** Roadmaps are available with Portfolio Planning by default. Roadmap Planning \(sn\_roadmap\_plng\) is no longer available to install as a separate application.
 
 ## Portfolio plan roadmaps
 
@@ -76,7 +76,7 @@ You can create milestones for your roadmap, or for each planning item on the roa
 
     Using the milestones created at the item level, you can focus better on strategic outcomes. These milestones help with tracking deadlines or other important dates. You can access milestones on projects and demands.
 
-    You can create and update milestones for all types of planning items from the roadmap, but the project milestones are read-only. As any changes to project milestones may impact the associated project plans, it is recommended to create or update project milestones using [[project-workspace-landing-page|Project Workspace]] in [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+    You can create and update milestones for all types of planning items from the roadmap, but the project milestones are read-only. As any changes to project milestones may impact the associated project plans, it is recommended to create or update project milestones using Project Workspace in Project Portfolio Management \(PPM\).
 
     To learn how to create item-level milestones on a roadmap, see [Add milestones for roadmap items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-milestones-for-roadmap-items-portfolio-planning.md).
 
@@ -107,8 +107,3 @@ See [Track the progress of roadmap items](https://raw.githubusercontent.com/Serv
 
 **Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

@@ -18,7 +18,7 @@ The example below demonstrates the implementation\(s\).
 
 ## Example 1: Only Screen 1: Threat Look Up
 
-You can perform **[[tisc-run-threat-lookup|Run Threat Lookup]]** related [[integration-capabilities|integration capabilities]] action using the **Investigation** tab from the SIR Workspace.
+You can perform **Run Threat Lookup** related integration capabilities action using the **Investigation** tab from the SIR Workspace.
 
 1.  On the **Investigation** tab, navigate to the **Entry Points Lists** section displayed on the left side of the page.
 2.  Select any entry point and run the integration capability action.
@@ -37,12 +37,7 @@ Select one or more implementations as applicable.
 **Related topics**  
 
 
-[Example 2: [[common-inputs|Common Inputs]]: Sighting Search]()
+[Example 2: Common Inputs: Sighting Search]()
 
 [Example 3: Add specific runtime details inputs to an implementation: Run Additional Actions]()
 
-## Related
-
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[integration-capabilities|Integration capabilities]]
-- [[common-inputs|common inputs]]

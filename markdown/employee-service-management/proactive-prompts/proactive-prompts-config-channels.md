@@ -22,7 +22,7 @@ Role required: sn\_pp.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[proactive-prompts-for-hrsd|Proactive Prompts]]** &gt; **Signal Channel Configurations**.
+1.  Navigate to **All** &gt; **Proactive Prompts** &gt; **Signal Channel Configurations**.
 
 2.  Select **New**.
 
@@ -58,7 +58,7 @@ Portal
 
 </td><td>
 
-Option to select [[employee-center-portal-overview|Employee Portal]] as the channel to display the prompts.
+Option to select Employee Portal as the channel to display the prompts.
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ Option to select Virtual Agent as the channel to display the prompts.
 
 </td></tr><tr><td>
 
-Virtual [[agent-sn-ms-teams|agent actions]]
+Virtual agent actions
 
 </td><td>
 
@@ -87,8 +87,4 @@ The Virtual Agent actions \(both NLU and LLM type\) from the Signal action \[sn\
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[agent-sn-ms-teams|Agent actions]]

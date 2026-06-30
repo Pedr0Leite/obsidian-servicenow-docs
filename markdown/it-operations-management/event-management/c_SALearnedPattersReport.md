@@ -18,7 +18,7 @@ The Learned Patterns report helps assess the efficiency of alert aggregation and
 
 ## Navigating and sorting the report
 
-To access the Learned Patterns report, navigate to **[[c_EM|Event Management]]** &gt; **Reporting** &gt; **Learned Patterns**.
+To access the Learned Patterns report, navigate to **Event Management** &gt; **Reporting** &gt; **Learned Patterns**.
 
 Sorting Options: You can sort patterns by Pattern Score, Frequency, and Size to prioritize which alerts to address first.
 
@@ -27,7 +27,7 @@ Sorting Options: You can sort patterns by Pattern Score, Frequency, and Size to 
 The report displays key metrics associated with learned patterns, including:
 
 -   Frequency: The occurrence count of pattern identifier attributes \(CI/MetricName\).
--   Pattern Identifier Attributes: Describes how [[c_ServiceAnalyticsOverview|alert grouping]] combines relevant pattern attributes to create a learned pattern. These patterns can reappear across multiple alerts, often indicating the same underlying issue.
+-   Pattern Identifier Attributes: Describes how alert grouping combines relevant pattern attributes to create a learned pattern. These patterns can reappear across multiple alerts, often indicating the same underlying issue.
 -   Presentation Format: Metrics are shown in a table format, organized by learned patterns.
 
 This report allows you to:
@@ -98,8 +98,3 @@ Link in the **Configuration Item** column to view details of the CI information.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

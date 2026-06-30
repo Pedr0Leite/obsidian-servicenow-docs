@@ -20,7 +20,7 @@ Contextual Security: Role Management V2 is automatically installed on new instan
 
 Role required: admin, security\_admin
 
-You must have the admin role and [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]] to obtain the effective [[security-admin-role|security\_admin role]].
+You must have the admin role and [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md) to obtain the effective security\_admin role.
 
 **Note:** Before upgrading to Contextual Security: Role: Management V2, you must enable the Audit Roles table to create audit records related to user roles. To learn more about setting the required system property, see [Enable role auditing with Contextual Security: Role Management V2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/enable-audit-roles.md).
 
@@ -72,7 +72,7 @@ Enables API functionality for role management.
         Example result based on test data:
 
         ```
-        *** Script: 2016-12-01 19:58:54 Starting checking of inherited roles for all [[users|users]]... 
+        *** Script: 2016-12-01 19:58:54 Starting checking of inherited roles for all users... 
         *** Script: User: itam, inherited roles to be ADDED: financial_mgmt_user 
         *** Script: User: bernard.laboy, inherited roles to be DELETED: api_analytics_read,pa_viewer,rest_api_explorer,a123 
         *** Script: User: bernard.laboy, inherited roles to be ADDED: dependency_views 
@@ -100,8 +100,3 @@ Enables API functionality for role management.
 
 After activating Role Management V2, the changes outlined in the script result are enacted. The Inheritance Count \(inh\_count\) column in the User Roles table is read-only and automatically reflects the number of times the user inherits a role.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[security-admin-role|Security\_admin role]]
-- [[users|Users]]

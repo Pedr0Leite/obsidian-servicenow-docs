@@ -14,7 +14,7 @@ breadcrumb: [Using Notify with tasks, Using Notify, Notify, Manage service capab
 
 # Start a conference call from a task
 
-Use [[notify-landing-page|Notify]] to start conference calls from a task record.
+Use Notify to start conference calls from a task record.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Use **glide.enable.notify\_on\_task** property to enable Notify integration for 
 
 [Send an SMS alert from a task]()
 
-## Related
-
-- [[notify-landing-page|Notify]]

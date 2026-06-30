@@ -14,11 +14,11 @@ breadcrumb: [Claim incidents, Configure, Insurance claims, Exploring insurance c
 
 # Create roles for a claim incident table
 
-Create roles to access claim incident tables by using the [[insurance-claims-flow|Insurance claims]] application. This way, you can ensure that only authorized users can access the [[claim-incidents|claim incidents]] that are relevant to their roles.
+Create roles to access claim incident tables by using the Insurance claims application. This way, you can ensure that only authorized users can access the claim incidents that are relevant to their roles.
 
 ## Before you begin
 
-Set the application scope of your instance to **[[insurance-claims-core-data-model|Insurance Claims Core]]**.
+Set the application scope of your instance to **Insurance Claims Core**.
 
 Role required: admin
 
@@ -42,8 +42,3 @@ Role required: admin
 
 Create access control lists for the claim incident table so that specific roles can interact with the claim incident table. For more information, see [Create an access control list for a claim incident table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-acls-for-a-claim-incident-table.md).
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[claim-incidents|Claim incidents]]
-- [[insurance-claims-core-data-model|Insurance Claims Core]]

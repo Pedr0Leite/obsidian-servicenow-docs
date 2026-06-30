@@ -12,7 +12,7 @@ breadcrumb: [Record screen, Mobile screen types, Mobile screens, Mobile app comp
 
 # Configure a parameterized record screen
 
-Configure a [[form-screen|record screen]] to query a user for a parameter. The screen then uses this parameter to determine the record that appears on the screen.
+Configure a record screen to query a user for a parameter. The screen then uses this parameter to determine the record that appears on the screen.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder
 
@@ -30,7 +30,7 @@ Role required: admin
 
 3.  Select the **Screens** category, and then select **New**.
 
-4.  Select the **Record** option in the [[sg-studio-configure-applet-screens|Create a screen]] page, and then select **Continue**.
+4.  Select the **Record** option in the Create a screen page, and then select **Continue**.
 
 5.  Complete the following fields as needed.
 
@@ -94,7 +94,7 @@ View using \(Legacy Card/Card\)
 
 </td><td>
 
-A Card used for the header section of the record screen. Use the [[mobile-card-builder|Mobile Card Builder]] to change the appearance of your mobile card or the fields displayed on the card. For more detail on using the Mobile Card Builder, see [[mcb-customize-item-view|Customize a screen using Mobile Card Builder]].
+A Card used for the header section of the record screen. Use the Mobile Card Builder to change the appearance of your mobile card or the fields displayed on the card. For more detail on using the Mobile Card Builder, see [Customize a screen using Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mcb-customize-item-view.md).
 
  The best practice is using **Card**.
 
@@ -243,7 +243,7 @@ Offline condition
 
 </td><td>
 
-Conditions to apply when the user sets the app to [[mobile-offline-mode|offline mode]].
+Conditions to apply when the user sets the app to offline mode.
 
 </td></tr><tr><td>
 
@@ -258,7 +258,7 @@ Data Parameter used for filtering the data item. Use parameters to accept values
 
 8.  In the New Data Parameter screen, enter a name for your parameter in the **Name** field, and select the parameter **Type**.
 
-    The available types are Integer, String, Decimal, Boolean, Datetime, or Date. For more detail on available options when creating parametrized [[sg-data-item|data items]], see [[sg-config-parametrized-data-item|Configure a parametrized data item]].
+    The available types are Integer, String, Decimal, Boolean, Datetime, or Date. For more detail on available options when creating parametrized data items, see [Configure a parametrized data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-parametrized-data-item.md).
 
 9.  Use the left panel hierarchy tree to return to the data item you just created a data parameter for.
 
@@ -386,13 +386,3 @@ Whether this parameter a carried parameter. Use carried parameters to move infor
 
 The UI parameter in your form is associated with the data parameter in your data item. When a user accesses this form, the screen prompts the user for a value for the parameter. The data item uses that value to filter the record displayed in the form.
 
-## Related
-
-- [[mcb-customize-item-view|Customize a screen using Mobile Card Builder]]
-- [[sg-config-parametrized-data-item|Configure a parametrized data item]]
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mobile-offline-mode|Offline mode]]
-- [[sg-data-item|Data items]]

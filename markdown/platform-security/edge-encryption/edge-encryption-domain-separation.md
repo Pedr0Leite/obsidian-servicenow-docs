@@ -14,14 +14,14 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Domain separation and Edge Encryption
 
-Domain separation is supported in limited circumstances with [[edge-encryption|Edge Encryption]]. Edge Encryption provides the ability to encrypt data from within the customer's environment through the use of specific configurations, rules, and keys defined on the Edge Encryption proxy. The Edge Encryption proxy is not domain aware and cannot support domain-specific settings. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which [[users|users]] can see and access data.
+Domain separation is supported in limited circumstances with Edge Encryption. Edge Encryption provides the ability to encrypt data from within the customer's environment through the use of specific configurations, rules, and keys defined on the Edge Encryption proxy. The Edge Encryption proxy is not domain aware and cannot support domain-specific settings. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
--   The domain field may exist on data tables but there is no [[sc-business-logic|business logic]] to manage the data.
+-   The domain field may exist on data tables but there is no business logic to manage the data.
 -   This level is not considered domain-separated.
 
-For more information on support levels, see [[domain-separated-apps|Application support for domain separation]].
+For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
 ## How domain separation works in Edge Encryption
 
@@ -34,9 +34,3 @@ Edge Encryption can be used where domain-specific keys, configurations, and rule
 
 [Domain separation for service providers]()
 
-## Related
-
-- [[domain-separated-apps|Application support for domain separation]]
-- [[edge-encryption|Edge Encryption]]
-- [[users|Users]]
-- [[sc-business-logic|Business Logic]]

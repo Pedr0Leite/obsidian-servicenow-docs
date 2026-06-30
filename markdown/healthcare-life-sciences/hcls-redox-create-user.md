@@ -12,7 +12,7 @@ breadcrumb: [Configure, Redox Inbound Integration, Healthcare and Life Sciences 
 
 # Create a user for Redox Inbound Integration
 
-Create a user for the [[hcls-redox-app|Redox Inbound Integration]] application to receive data from a Redox healthcare system.
+Create a user for the Redox Inbound Integration application to receive data from a Redox healthcare system.
 
 ## Before you begin
 
@@ -47,14 +47,10 @@ Role required: admin
 
 ## What to do next
 
-[[hcls-redox-assign-roles|Assign roles for Redox Inbound Integration users]].
+[Assign roles for Redox Inbound Integration users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-redox-assign-roles.md).
 
 **Related topics**  
 
 
 [Create a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUser.md)
 
-## Related
-
-- [[hcls-redox-assign-roles|Assign roles for Redox Inbound Integration users]]
-- [[hcls-redox-app|Redox Inbound Integration]]

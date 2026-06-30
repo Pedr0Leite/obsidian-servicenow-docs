@@ -14,7 +14,7 @@ breadcrumb: [Reference, Customer Lifecycle Operations, Common applications, Fina
 
 # Components installed with Financial Services Business Lifecycle
 
-Several types of components are installed with the activation of the [[fso-overview|Financial Services]] Business Lifecycle \(sn\_bom\_clo\_b2b\) plugin, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
+Several types of components are installed with the activation of the Financial Services Business Lifecycle \(sn\_bom\_clo\_b2b\) plugin, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -92,7 +92,7 @@ CLO contributor\[sn\_bom\_clo\_b2b.contributor\]
 -   View the overall status of cases
 -   Work on CLO service cases and tasks until the Initiate and review stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -242,7 +242,7 @@ KYC Account Agent\[sn\_bom\_kyc.b2b\_account\_agent\]
 
 </td><td>
 
-This role gives access to all [[fso-kyc-landing-page|Financial Services Know Your Customer]] business-level operations, account, and contact data.
+This role gives access to all Financial Services Know Your Customer business-level operations, account, and contact data.
 
 </td><td>
 
@@ -282,8 +282,8 @@ This role grants read-only views of Financial Services Know Your Customer accoun
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the data that is needed to create Customer Lifecycle Operations cases. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
-|Financial Services Credit Operations|Enables the management of Credit service cases and tasks that are used in [[customer-lifecycle-ops-workflows|Customer Lifecycle Operations workflows]]. For more information, see [Components installed with Financial Services Credit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-credit-operations/installed-with-credit-assessment.md).|
+|Financial Services Operations Core|Stores the data that is needed to create Customer Lifecycle Operations cases. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
+|Financial Services Credit Operations|Enables the management of Credit service cases and tasks that are used in Customer Lifecycle Operations workflows. For more information, see [Components installed with Financial Services Credit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-credit-operations/installed-with-credit-assessment.md).|
 |Financial Services Know Your Customer \(KYC\)|Enables KYC Agents to review and evaluate the eligibility of new account applicants.|
 |CSM Playbook|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations.|
 |CSM Contributor User|Enables middle office teams to engage in resolving customer issues and requests.|
@@ -341,10 +341,3 @@ Contact Lifecycle Task extends the Financial Task \[sn\_bom\_task\] table.
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Customer Lifecycle Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/reference-customer-lifecycle-ops.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-overview|Financial Services]]
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]
-- [[customer-lifecycle-ops-workflows|Customer Lifecycle Operations workflows]]

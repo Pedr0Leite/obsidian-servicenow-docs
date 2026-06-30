@@ -20,21 +20,21 @@ Role required: admin
 
 Before configuring your mobile pop-ups, consider the following:
 
--   Mobile cards are used in the display of pop-ups. You can either design one of your own mobile cards or use one of the template cards provided. For more information, see [[mobile-card-builder|Mobile Card Builder]].
--   Supported button types that trigger pop-ups are action item and navigation. For more information, see [[mobile-actions|Action functions]].
+-   Mobile cards are used in the display of pop-ups. You can either design one of your own mobile cards or use one of the template cards provided. For more information, see [Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-card-builder.md).
+-   Supported button types that trigger pop-ups are action item and navigation. For more information, see [Action functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-actions.md).
 -   All button locations are supported. For example, swipe, top menu action, and footer function.
--   Buttons are supported in the following UI sections, record, icon, media, and content. For more information, see [[alp-ui-sections|Launcher screen UI sections]].
+-   Buttons are supported in the following UI sections, record, icon, media, and content. For more information, see [Launcher screen UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/alp-ui-sections.md).
 -   Mobile pop-ups aren't supported in offline.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -277,7 +277,7 @@ The card to be used for the pop-up.
 
 15. Assign configurable functions or predefined functions to a button on a mobile pop-up card.
 
-    **Note:** For more information about configurable functions, see [[sg-studio-mobile-button-types|Mobile functions]] and [[create-mca-with-mcb|Configure a card action using Mobile Card Builder]]. Also, see the What to do next section in this topic.
+    **Note:** For more information about configurable functions, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mca-with-mcb.md). Also, see the What to do next section in this topic.
 
 16. Select **Save**.
 
@@ -292,19 +292,8 @@ You can add two types of functions to a button on a mobile pop-up card, configur
 
 For more information, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md) and [Configure a card action using Mobile Card Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mca-with-mcb.md).
 
--   **[[popups-system-button|Assign predefined functions to mobile pop-ups]]**  
+-   **[Assign predefined functions to mobile pop-ups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/popups-system-button.md)**  
 Use predefined functions within mobile pop-ups to perform actions like dismiss the pop-up, proceed with the suggested instruction, or log out of the instance.
 
-**Parent Topic:**[[mobile_popups|Mobile pop-ups]]
+**Parent Topic:**[Mobile pop-ups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile_popups.md)
 
-## Related
-
-- [[mobile-card-builder|Mobile Card Builder]]
-- [[mobile-actions|Action functions]]
-- [[alp-ui-sections|Launcher screen UI sections]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[create-mca-with-mcb|Configure a card action using Mobile Card Builder]]
-- [[popups-system-button|Assign predefined functions to mobile pop-ups]]
-- [[mobile_popups|Mobile pop-ups]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -30,7 +30,7 @@ The following items are installed with ITOM SU Licensing:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[components-installed-otm-su-licensing|Components installed with ITOM SU Licensing for OTM]].
+For more information, see [Components installed with ITOM SU Licensing for OTM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/components-installed-otm-su-licensing.md).
 
 ## Procedure
 
@@ -54,6 +54,4 @@ For more information, see [[components-installed-otm-su-licensing|Components ins
 
 6.  Select **Update**.
 
-## Related
 
-- [[components-installed-otm-su-licensing|Components installed with ITOM SU Licensing for OTM]]

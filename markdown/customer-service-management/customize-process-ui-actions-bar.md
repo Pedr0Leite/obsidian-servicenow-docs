@@ -22,7 +22,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **[[migration-form-declarative-actions|Declarative Actions]]** &gt; **Form Actions**.
+1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Declarative Actions** &gt; **Form Actions**.
 
 2.  Select an **Action label** to display the Action Assignment form.
 
@@ -34,12 +34,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 **Related topics**  
 
 
-[[migration-form-ui-actions|UI Action Bar]]
+[UI Action Bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/migration-form-ui-actions.md)
 
-[[config-csm-config-ws-form-action|Set up a form action in CSM Configurable Workspace]]
+[Set up a form action in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-form-action.md)
 
-## Related
-
-- [[migration-form-ui-actions|UI Action Bar]]
-- [[config-csm-config-ws-form-action|Set up a form action in CSM Configurable Workspace]]
-- [[migration-form-declarative-actions|Declarative actions]]

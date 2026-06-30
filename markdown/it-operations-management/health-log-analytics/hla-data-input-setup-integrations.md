@@ -15,7 +15,7 @@ breadcrumb: [Set up HLA on your instance, Configuring, Health Log Analytics, ITO
 
 # Set up integrations for Health Log Analytics from the Integrations Launchpad
 
-Set up integrations from the [[c_EMEvent|Event Management Integrations]] Launchpad in [[sow-landing-page-itom|Service Operations Workspace for ITOM]].
+Set up integrations from the Event Management Integrations Launchpad in Service Operations Workspace for ITOM.
 
 ## Integrations Launchpad
 
@@ -23,7 +23,7 @@ The Integrations Launchpad tool provides a unified interface for convenient inte
 
 ## Integrations for Health Log Analytics
 
-The Integrations Launchpad enables the following integrations for [[hla-landing-page|Health Log Analytics]]:
+The Integrations Launchpad enables the following integrations for Health Log Analytics:
 
 -   **Pull integrations**
 
@@ -232,8 +232,3 @@ Enables Health Log Analytics to process log messages that are streaming into the
 </table>
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[c_EMEvent|Event Management Integrations]]
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[hla-landing-page|Health Log Analytics]]

@@ -20,7 +20,7 @@ To execute scripted actions during VM provisioning, you can map a script to an O
 
 Role required: sn\_cmp.cloud\_admin
 
-You must have a cloud account with datacenters. You must run [[r-discovery|Discovery]] on the service accounts to populate the datacenters.
+You must have a cloud account with datacenters. You must run Discovery on the service accounts to populate the datacenters.
 
 ## About this task
 
@@ -30,7 +30,7 @@ In this procedure, you specify an existing script. See [Create cloud initializat
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-resource-profiles|Resource Profiles]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Profiles**.
 
 2.  In the **Profiles** list, select **OS Profile** and then open the profile.
 
@@ -74,7 +74,7 @@ Application
 
 </td><td>
 
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] is auto-selected.
+Cloud Provisioning and Governance is auto-selected.
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ If you specify a resource alias for the blueprint, then the cloud script is exec
 
 [Create an OS profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-os-profile.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-resource-profiles|Resource Profiles]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

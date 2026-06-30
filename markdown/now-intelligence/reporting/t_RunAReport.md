@@ -20,9 +20,9 @@ Open a report in the Report Designer to view current data in an existing report.
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin. To create a meaningful report, you must have the right to access the data you want to report on.
 
-To administer reports, [[reporting-roles|reporting roles]], and [[c_ReportSources|report sources]], navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Usage and governance** &gt; **Reports** and select the area to administer.
+To administer reports, reporting roles, and report sources, navigate to **Platform Analytics Administration** &gt; **Usage and governance** &gt; **Reports** and select the area to administer.
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. On net new Australia instances and instances migrated to [[par-workspace|Platform Analytics experience]], Reporting functionality is replaced with Data Visualizations. For more information, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]].
+This topic refers to Reporting in the Core UI. On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
 ## Procedure
 
@@ -89,11 +89,3 @@ Users with the report\_admin role can create different kinds of reports in the R
 
 [Vertical and horizontal bar reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_CreateBarCharts.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[reporting-roles|Reporting roles]]
-- [[c_ReportSources|Report sources]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]

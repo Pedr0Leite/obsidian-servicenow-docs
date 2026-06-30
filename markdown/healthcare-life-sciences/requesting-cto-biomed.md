@@ -12,18 +12,14 @@ breadcrumb: [Care Team Operations for Biomed, Healthcare Operations, Healthcare 
 
 # Creating service requests in Care Team Operations for Biomed
 
-Use the [[care-team-portal-landing|Care Team Portal]] to report medical device issues or request other biomed support.
+Use the Care Team Portal to report medical device issues or request other biomed support.
 
--   [[hcls-cto-biomed-report-medical-device-issue|Report a medical device issue with Care Team Operations for Biomed]]
+-   [Report a medical device issue with Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-biomed-report-medical-device-issue.md)
 
     Report any issue with a medical device issue using the Report a medical device issue catalog item from the Care Team Operations portal.
 
--   [[hcls-cto-biomed-request-other|Request other biomed service with Care Team Operations for Biomed]]
+-   [Request other biomed service with Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-biomed-request-other.md)
 
     Request non-medical device issue biomed service using the Request other biomed service catalog item from the Care Team Portal.
 
-## Related
 
-- [[hcls-cto-biomed-report-medical-device-issue|Report a medical device issue with Care Team Operations for Biomed]]
-- [[hcls-cto-biomed-request-other|Request other biomed service with Care Team Operations for Biomed]]
-- [[care-team-portal-landing|Care Team Portal]]

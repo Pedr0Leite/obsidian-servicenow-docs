@@ -14,7 +14,7 @@ breadcrumb: [Data Classification, Platform Privacy]
 
 # Exploring Data Classification
 
-Explore about [[data-classification|data classification]].
+Explore about data classification.
 
 Data Classification enables support for:
 
@@ -25,7 +25,7 @@ Data Classification enables support for:
 
 Data classification is a standalone process in which you manually apply data classifications to existing dictionary entries in any table. See [Data dictionary tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataDictionaryTables.md) for additional information.
 
--   You [[dps-classify-data|classify data]] as you find appropriate for your business and you can alter the available data classes as necessary.
+-   You classify data as you find appropriate for your business and you can alter the available data classes as necessary.
 -   When you classify data, you can use the pre-defined data classifications, or create your own. Although use of pre-defined data classifications is optional, it is advisable do so as a starting point. These pre-defined data classifications are included in demo data that you can install in your instance. To learn more, see [Installing Data Classification plugin demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/install-data-classification-plugin-demo-data.md) and [Components installed with Data Classification demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/install-data-classification-plugin-demo-data.md).
 -   If you create your own data classifications, you can also design a tiered hierarchical system with parent and child data classifications.
 -   When creating manual data classifications on an extended or child table, base fields inherited from the parent table are not available for selection.
@@ -35,7 +35,7 @@ Data classification is a standalone process in which you manually apply data cla
 
 ## Overview dashboard
 
-Use the [[overview|Overview dashboard]] to understand how your current data tables map to different data classifications. You can also analyze how your global, regional, international [[users|users]] may require different approaches to data classification, regarding the use or access to data. You can also customize the Overview dashboard content and layout to fit your needs.
+Use the Overview dashboard to understand how your current data tables map to different data classifications. You can also analyze how your global, regional, international users may require different approaches to data classification, regarding the use or access to data. You can also customize the Overview dashboard content and layout to fit your needs.
 
 To learn how to use the available scripted and REST APIs to apply the classification metadata within existing processes, workflows, and applications, see the following:
 
@@ -47,7 +47,7 @@ To learn how to use the available scripted and REST APIs to apply the classifica
 
 ## Use cases
 
-General [[naai-data-protection|Data Protection]] Regulation \(GDPR\) is a European Union regulation whose purpose is to provide individuals with control over their own personal data. You can use data classifications, such as Personally Identifiable Information, to identify where personal data is being stored in your instance. By applying the appropriate security mechanisms to protect that personal data from leaking out, your organization satisfies GDPR requirements.
+General Data Protection Regulation \(GDPR\) is a European Union regulation whose purpose is to provide individuals with control over their own personal data. You can use data classifications, such as Personally Identifiable Information, to identify where personal data is being stored in your instance. By applying the appropriate security mechanisms to protect that personal data from leaking out, your organization satisfies GDPR requirements.
 
 If you store customer information in the ServiceNow AI Platform, use the Personally Identifiable Information \(PII\) classification code where needed to track data subject to regulation by local privacy laws. When you install demo data, it automatically applies this classification code to certain security-sensitive fields in the User \[sys\_user\] table. To learn more, see:
 
@@ -56,10 +56,3 @@ If you store customer information in the ServiceNow AI Platform, use the Persona
 
 You can apply a Restricted data classification to Employee table columns that store sensitive employee information such as Social Security Numbers \(SSN\). Administrators and auditors can then use the Overview dashboard to confirm that you have assigned data classifications to the correct columns. They can also view the classification details for restricted types of information.
 
-## Related
-
-- [[data-classification|Data Classification]]
-- [[dps-classify-data|Classify data]]
-- [[overview|Overview Dashboard]]
-- [[users|Users]]
-- [[naai-data-protection|Data protection]]

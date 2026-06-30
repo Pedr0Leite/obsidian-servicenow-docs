@@ -12,7 +12,7 @@ breadcrumb: [Configure Customer Central, Agent tools, Organize agent workspaces,
 
 # Configure the Customer Information view using CSM Configurable Workspace
 
-Configure the display of the Customer Information view using [[csm-workspaces-configure|CSM Configurable Workspace]].
+Configure the display of the Customer Information view using CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: csm\_guided\_setup\_user or admin
 
 ## About this task
 
-The Customer Information view displays all touch [[gamification-components-points|points]] that a customer has had with a contact center in the form of information cards.
+The Customer Information view displays all touch points that a customer has had with a contact center in the form of information cards.
 
 **Note:** The following steps can be used to configure the Customer Information view in CSM Configurable Workspace. This workspace is configured using UI Builder.
 
@@ -30,12 +30,12 @@ The Customer Information view displays all touch [[gamification-components-point
 
 2.  On the Getting Started page of the guided setup, select **Get Started**
 
-3.  In the [[customer-central|Customer Central]] - Customer Information for CSM Configurable Workspace category, view the list of tasks to configure the feature.
+3.  In the Customer Central - Customer Information for CSM Configurable Workspace category, view the list of tasks to configure the feature.
 
     |Task|Description|
     |----|-----------|
     |Configure your settings for the Customer Information view|Set the Customer Central properties as required.|
-    |Configure customer information lists|Configure the [[migration-lists|lists]] to display on the Customer Information view. For example, a list can be recent cases or recent chat interactions.|
+    |Configure customer information lists|Configure the lists to display on the Customer Information view. For example, a list can be recent cases or recent chat interactions.|
     |Configure customer information reports|Configure which reports to display on the Customer Information view.|
     |Configure customer contact cards|Configure the contact card to display contact information on the Customer Information view. For example, a contact card could provide information on the contact,consumer, or account.|
 
@@ -43,9 +43,4 @@ The Customer Information view displays all touch [[gamification-components-point
 
     This button opens the page in your instance where the configuration is completed.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]
-- [[customer-central|Customer Central]]
-- [[migration-lists|Lists]]

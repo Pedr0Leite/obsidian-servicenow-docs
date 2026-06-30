@@ -43,8 +43,5 @@ Use the ServiceNow® Customer Relationship Management \(CRM\) products to manage
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying CRM features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
--   Connect with other [[crm-about-csm-in-crm|Customer Service Management]] users at [Now Community](https://www.servicenow.com/community/).
+-   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[crm-about-csm-in-crm|Customer Service Management]]

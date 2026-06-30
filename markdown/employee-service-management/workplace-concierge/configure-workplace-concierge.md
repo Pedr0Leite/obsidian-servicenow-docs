@@ -14,7 +14,7 @@ breadcrumb: [Workplace Concierge, Workplace Service Delivery, Employee Service M
 
 # Configure Workplace Concierge
 
-Install and configure the [[workplace-concierge-feat|Workplace Concierge]] application.
+Install and configure the Workplace Concierge application.
 
 -   **[Install Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/install-workplace-concierge.md)**  
 Install the Workplace Concierge application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
@@ -25,6 +25,3 @@ Configure the workplace space suggestions table to fetch workspace suggestions. 
 
 **Parent Topic:**[Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-feat.md)
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]

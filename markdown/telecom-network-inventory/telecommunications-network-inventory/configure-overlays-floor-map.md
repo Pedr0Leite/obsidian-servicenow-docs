@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Configuring overlays on floor map
 
-Update the decision table to configure the operational data overlay on the [[using-floor-map|floor map]]. You can view the operational data of the datacenters for a selected time range as colored layer on the floor map in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Update the decision table to configure the operational data overlay on the floor map. You can view the operational data of the datacenters for a selected time range as colored layer on the floor map in the Telecommunications Network Inventory application.
 
 -   **[Customize overlays on the floor map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/customize-ovarlays-floor-map.md)**  
 Update the decision table to configure the overlays appearing on the floor map. You can view the operational data of the datacenters as overlay on the floor map in the Telecommunications Network Inventory application.
@@ -32,7 +32,3 @@ Update the decision table to configure the time duration option on the floor map
 
 [Upload and manage floor map for your datacenter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-floor-map-data-center.md)
 
-## Related
-
-- [[using-floor-map|Floor map]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

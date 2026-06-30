@@ -14,7 +14,7 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Encryption options in Healthcare and Life Sciences Service Management Core
 
-[[hcls-core-app|Healthcare and Life Sciences Service Management Core]] provides encryption support to secure sensitive information.
+Healthcare and Life Sciences Service Management Core provides encryption support to secure sensitive information.
 
 Encryption prevents unauthorized users from viewing sensitive healthcare data.
 
@@ -721,6 +721,3 @@ performed\_date\_time
 </td></tr></tbody>
 </table>**Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a view rule, Configure, Privacy Case Management, Privacy Man
 
 # View rule form
 
-Learn about the fields on the [[view-rule-form|view rule form]]. Use this form to define workspace and default view rules in the Privacy Case Management application.
+Learn about the fields on the view rule form. Use this form to define workspace and default view rules in the Privacy Case Management application.
 
 On the view rule form, fill in the fields.
 
@@ -86,6 +86,3 @@ Option to activate the view rule.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a view rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-create-a-view-rule.md)
 
-## Related
-
-- [[view-rule-form|view rule form]]

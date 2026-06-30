@@ -153,8 +153,5 @@ Copy the data in this template so that you can create a template from it.
 </table>
 ## What to do next
 
-Create and publish the service specifications and associate them with the templates. For more information, see [[create-service-specification|Create and publish service specifications]].
+Create and publish the service specifications and associate them with the templates. For more information, see [Create and publish service specifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-service-specification.md).
 
-## Related
-
-- [[create-service-specification|Create and publish service specifications]]

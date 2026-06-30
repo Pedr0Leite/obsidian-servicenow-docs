@@ -14,7 +14,7 @@ breadcrumb: [SCIM Client, System for Cross-domain Identity Management \(SCIM\), 
 
 # Create a REST message
 
-Configure a REST message for all outbound calls for a particular [[scim-provider|SCIM Provider]].
+Configure a REST message for all outbound calls for a particular SCIM Provider.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Base URL of SCIM Provider. For example, `https://example.service-now.com/api/now
 
 </td></tr><tr><td>
 
-[[c_Authentication|Authentication]] Type
+Authentication Type
 
 </td><td>
 
@@ -68,7 +68,7 @@ HTTP Headers
 
 The content type that is expected from the external SCIM Provider.
 
- For example, Header Name is the content type in the following API [[c_requestAPI|request]] body: `Content-type: application/scim+json`
+ For example, Header Name is the content type in the following API request body: `Content-type: application/scim+json`
 
 </td></tr></tbody>
 </table>4.  In the  HTTP Methods  related list, click  **New**.
@@ -128,7 +128,7 @@ POST
 </td></tr></tbody>
 </table>    **Note:**
 
-    -   You must create all the HTTP methods for the operation of the [[scim-client-app|SCIM Client]].
+    -   You must create all the HTTP methods for the operation of the SCIM Client.
     -   A sample REST message is shipped from the base system.
     \[Omitted image "rest-message.png"\] Alt text: REST message
 
@@ -141,14 +141,7 @@ The REST message record is created.
 
 ## What to do next
 
-Use the REST message to [[create-scim-provider|create a SCIM Provider]]. For more information, see [Create a SCIM Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/create-scim-provider.md).
+Use the REST message to create a SCIM Provider. For more information, see [Create a SCIM Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/create-scim-provider.md).
 
 To learn more about how to create a REST message, see [Create a REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfiguringARESTMessage.md).
 
-## Related
-
-- [[scim-provider|SCIM Provider]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[scim-client-app|SCIM Client]]
-- [[create-scim-provider|Create a SCIM Provider]]

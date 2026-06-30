@@ -14,13 +14,13 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Enable the Cloud Hardware Type class extension
 
-Enable the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the predefined virtual machine \(VM\) hardware type records for Amazon AWS Cloud Microsoft Azure Cloud and Google Cloud Platform \(GCP\). This class extension helps prevent duplication of the VM hardware type records in the Hardware Type \[cmdb\_ci\_compute\_template\] table, which improves performance for [[r-discovery|Discovery]] and related flows.
+Enable the Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table to store the predefined virtual machine \(VM\) hardware type records for Amazon AWS Cloud Microsoft Azure Cloud and Google Cloud Platform \(GCP\). This class extension helps prevent duplication of the VM hardware type records in the Hardware Type \[cmdb\_ci\_compute\_template\] table, which improves performance for Discovery and related flows.
 
 ## Before you begin
 
 -   Veirfy that the latest versions of the following applications are installed:
     -   CMDB CI Class Models
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
 
         If the version of Discovery and Service Mapping Patterns is earlier than 1.6.0, see the Knowledge Base article [KB0955939](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0955939).
 
@@ -88,7 +88,3 @@ The Cloud Hardware Type \[cmdb\_ci\_cloud\_hardware\_type\] table uses the objec
 
 [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

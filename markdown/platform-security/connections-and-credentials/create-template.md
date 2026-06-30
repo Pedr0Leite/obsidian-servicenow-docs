@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **IntegrationHub** &gt; **Connections &amp; Credentials** &gt; **[[sc-configuration|Configuration]] Templates**.
+1.  Navigate to **All** &gt; **IntegrationHub** &gt; **Connections &amp; Credentials** &gt; **Configuration Templates**.
 
 2.  Select **New**.
 
@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d74553e86">
 
-**HTTP Connection with [[oauth-inbound-and-outbound|OAuth]] [[authorization-code-grant|Authorization Code grant]] type**
+**HTTP Connection with OAuth Authorization Code grant type**
 
 </td><td>
 
@@ -46,7 +46,7 @@ Creates a template to register the third-party system as an OAuth provider using
 
 </td></tr><tr><td id="d74553e95">
 
-**HTTP Connection with OAuth [[jwt-bearer|JWT Bearer]] grant type**
+**HTTP Connection with OAuth JWT Bearer grant type**
 
 </td><td>
 
@@ -54,11 +54,11 @@ Creates a template to register the third-party system as an OAuth provider using
 
 </td></tr><tr><td id="grant-type">
 
-**HTTP OAuth with [[client-credential-grant|Client Credentials grant]] type**
+**HTTP OAuth with Client Credentials grant type**
 
 </td><td>
 
-Creates a template to integrate with a third-party application via the [[c_OAuthApplications|OAuth 2.0]] [[c_Authentication|authentication]] that uses the client credentials grant type.
+Creates a template to integrate with a third-party application via the OAuth 2.0 authentication that uses the client credentials grant type.
 
 </td></tr><tr><td id="d74553e116">
 
@@ -66,7 +66,7 @@ Creates a template to integrate with a third-party application via the [[c_OAuth
 
 </td><td>
 
-Creates a template that enables the sending of OAuth token [[c_requestAPI|request]] that comprises [[client-credentials|client credentials]] stored by an external storage to an OAuth server via the MID Server.
+Creates a template that enables the sending of OAuth token request that comprises client credentials stored by an external storage to an OAuth server via the MID Server.
 
 </td></tr><tr><td id="d74553e129">
 
@@ -74,7 +74,7 @@ Creates a template that enables the sending of OAuth token [[c_requestAPI|reques
 
 </td><td>
 
-Creates a template to integrate with the third-party system using [[basic-authentication|basic authentication]].
+Creates a template to integrate with the third-party system using basic authentication.
 
 </td></tr><tr><td id="d74553e138">
 
@@ -118,7 +118,7 @@ Creates a blank template, enabling you to set up a template for custom authentic
 
     You can use the `additional` object to set up data for a custom table, and use the post processing script to insert the data into the table.
 
-    **Note:** In the default data template for the OAuth Authorization Code grant type, the values for the `oauth_entity_profile_scope` and the `oauth_entity_scope` keys must match. In the following example, both keys have the `Read user's [[email|email]]` value.
+    **Note:** In the default data template for the OAuth Authorization Code grant type, the values for the `oauth_entity_profile_scope` and the `oauth_entity_scope` keys must match. In the following example, both keys have the `Read user's email` value.
 
     ```
     "oauth_entity_profile": [
@@ -350,16 +350,3 @@ Test the template by navigating to the associated Connection &amp; Credential al
 
 **Parent Topic:**[Connection &amp; Credential configuration templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/spoke-configuration-template.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[authorization-code-grant|Authorization code grant]]
-- [[jwt-bearer|JWT Bearer]]
-- [[client-credential-grant|Client credentials grant]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[client-credentials|Client Credentials]]
-- [[basic-authentication|Basic authentication]]
-- [[email|Email]]

@@ -20,16 +20,16 @@ Role required: sn\_aia.admin
 
 ## About this task
 
-Custom metrics enable you to choose you measure your AI agents and agentic workflow for effectiveness. You can create custom metrics that apply to one agentic AI asset or multiple ones. Once created, you can select custom metrics in the guided setup for agentic evaluations. You can select both or either custom metrics and metrics installed with [[platform-now-assist-landing|Now Assist]] applications. Examples of custom metrics include:
+Custom metrics enable you to choose you measure your AI agents and agentic workflow for effectiveness. You can create custom metrics that apply to one agentic AI asset or multiple ones. Once created, you can select custom metrics in the guided setup for agentic evaluations. You can select both or either custom metrics and metrics installed with Now Assist applications. Examples of custom metrics include:
 
 -   Testing that a certain phrase is in the response
 -   Measuring the length of a response to test verbosity
 
-When writing the script, you have access to the output of a parser tool. See [[eval-parser-tool|agentic evaluation parser tool]] for more details on how it works.
+When writing the script, you have access to the output of a parser tool. See [agentic evaluation parser tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/eval-parser-tool.md) for more details on how it works.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Agentic Evaluations**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Agentic Evaluations**.
 
 2.  Go to the Evaluation metrics tab and select **Create metric**.
 
@@ -90,18 +90,11 @@ When writing the script, you have access to the output of a parser tool. See [[e
 
 ## Result
 
-You have a new custom metric that can be used for [[evaluating-aia|evaluating agentic AI assets]].
+You have a new custom metric that can be used for evaluating agentic AI assets.
 
 ## What to do next
 
-Execute an evaluation run and select your custom metric in the guided setup. See [[execute-aia-eval|Evaluate agentic AI]] for more information on executing an evaluation run.
+Execute an evaluation run and select your custom metric in the guided setup. See [Evaluate agentic AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md) for more information on executing an evaluation run.
 
 If you do not see your custom metric in the guided setup for an evaluation run, make sure that you have published it.
 
-## Related
-
-- [[eval-parser-tool|Agentic evaluation parser tool]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[evaluating-aia|Evaluating agentic AI assets]]

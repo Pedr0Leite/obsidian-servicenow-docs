@@ -54,7 +54,7 @@ Widget
 
 </td><td>
 
-A widget to render the videos from the source. Enter `[[servicenow-communities|Communities]] render video`.
+A widget to render the videos from the source. Enter `Communities render video`.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Communities references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communitie-references.md)
@@ -74,6 +74,3 @@ A widget to render the videos from the source. Enter `[[servicenow-communities|C
 
 [Configure video sources for a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-video-configuration.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

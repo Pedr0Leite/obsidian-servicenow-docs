@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.agent or sn\_ohs\_im.manager
 
 ## About this task
 
-Easily create safety incident records. Assign the new incident records to yourself or to a safety agent from the assigned groups. On the Mobile Agent app, add more details, such as hazards and watch-lists, if necessary. Use the [[activity-lxp|activity]] stream for each related list to view the activity for that incident record.
+Easily create safety incident records. Assign the new incident records to yourself or to a safety agent from the assigned groups. On the Mobile Agent app, add more details, such as hazards and watch-lists, if necessary. Use the activity stream for each related list to view the activity for that incident record.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Easily create safety incident records. Assign the new incident records to yourse
 
 2.  In the navigation bar, tap **Home**.
 
-3.  Tap **Safety incidents** icon \(\[Omitted image "casemgmt-templateicon.png"\] Alt text: safety incident icon\) from the [[emp-center-quick-link-config|quick links]] section.
+3.  Tap **Safety incidents** icon \(\[Omitted image "casemgmt-templateicon.png"\] Alt text: safety incident icon\) from the quick links section.
 
     Opens the **All safety incidents list** page where you can view the list of safety incidents.
 
@@ -55,7 +55,3 @@ Easily create safety incident records. Assign the new incident records to yourse
 
 **Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-manage-safety-incident-mobile-agent.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[emp-center-quick-link-config|Quick links]]

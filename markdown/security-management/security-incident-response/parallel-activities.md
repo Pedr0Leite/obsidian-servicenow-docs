@@ -20,7 +20,7 @@ If the **When to Start** field is set to **With Previous**, then parallel activi
 
 If no run condition is defined, the stages and activities are executed sequentially.
 
-You can use the run condition to skip activities or stages. In this example, **Contain stage begins when the outcome of ‘Does the email have threat [[indicator|indicators]]?’ is Yes**.
+You can use the run condition to skip activities or stages. In this example, **Contain stage begins when the outcome of ‘Does the email have threat indicators?’ is Yes**.
 
 To move from one stage to another stage, you can use the platform provided **activity definition – Update Record**. This will update the state field of security incident, and resume the playbook execution to the next stage.
 
@@ -34,6 +34,3 @@ A process definition always requires a trigger condition. But, if you aren’t s
 
 **Parent Topic:**[Create playbooks for Manual Phishing in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-process-manual-phishing.md)
 
-## Related
-
-- [[indicator|Indicators]]

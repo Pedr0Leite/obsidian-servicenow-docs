@@ -14,12 +14,12 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Purchase lines
 
-Purchase lines provide information of the individual lines under a [[purchase-requisition|purchase requisition]] or a [[sourcing-request|sourcing request]] for the referenced [[supplier|supplier]].
+Purchase lines provide information of the individual lines under a purchase requisition or a sourcing request for the referenced supplier.
 
 A procurement specialist or procurement administrator can manually create a purchase line, in Pending Review state. Populate the following fields on the purchase line:
 
--   [[legal-entity|Legal entity]] and [[cost-center|cost center]], based on the specified business owner
--   General [[ledger-account|ledger account]] fields, based on the [[ledger-assignment-rules|ledger assignment rules]]
+-   Legal entity and cost center, based on the specified business owner
+-   General ledger account fields, based on the ledger assignment rules
 -   Starting unit cost and Negotiated unit cost, based on the supplier product's underlying contractual price
 -   Unit, based on the underlying product model of the supplier product
 
@@ -56,7 +56,7 @@ Supplier
 Supplier for which the shopper places the order.For a non-catalog intake, if the shopper provides a supplier name for which a supplier record doesn’t exist, a new supplier record is manually created with some of these details:
 
 -   Legal name, according to the name provided by the shopper.
--   Onboarding status of the supplier. An onboarding playbook is triggered for new suppliers as part of [[supp-mgmt-landing-page|Supplier Lifecycle Operations]], to guide the registration process for the new [[supplier-contact|supplier contact]].
+-   Onboarding status of the supplier. An onboarding playbook is triggered for new suppliers as part of Supplier Lifecycle Operations, to guide the registration process for the new supplier contact.
 -   Relationship status of the supplier
 -   Preferred status of the supplier
 
@@ -76,7 +76,7 @@ Supplier product
 
 </td><td>
 
-Supplier product for which the purchase line is created.This field isn’t displayed if the product type is [[handling-fees|handling fees]].
+Supplier product for which the purchase line is created.This field isn’t displayed if the product type is handling fees.
 
 </td></tr><tr><td>
 
@@ -254,7 +254,7 @@ Indicates if a receipt is required in addition to the invoice. This field is vis
 
 </td></tr><tr><td>
 
-One-time [[pricing|pricing]]
+One-time pricing
 
 </td><td>
 
@@ -274,9 +274,9 @@ Acknowledgment type
 
 </td><td>
 
-Indicates if receipt of confirmation is necessary and the type of receipt. The available options are **[[milestones|Milestones]]**, **Service Acknowledgment**, and **Two Way Match**.This field is displayed as **Invoice** if the product type is handling fees.
+Indicates if receipt of confirmation is necessary and the type of receipt. The available options are **Milestones**, **Service Acknowledgment**, and **Two Way Match**.This field is displayed as **Invoice** if the product type is handling fees.
 
-**Note:** If you’re an existing customer continuing with the Source-to-Pay Common Architecture \(sn\_shop\) plugin, and skipping the [[shopping-hub-overview|Shopping Hub]] \(sn\_spend\_uib\) plugin, service acknowledgment is replaced with invoice acknowledgment for you.
+**Note:** If you’re an existing customer continuing with the Source-to-Pay Common Architecture \(sn\_shop\) plugin, and skipping the Shopping Hub \(sn\_spend\_uib\) plugin, service acknowledgment is replaced with invoice acknowledgment for you.
 
 </td></tr><tr><td>
 
@@ -366,7 +366,7 @@ Net amount
 
 </td><td>
 
-Amount included as a cost allocation on the [[purchase-order-table|purchase order]]. This doesn’t include any estimates.
+Amount included as a cost allocation on the purchase order. This doesn’t include any estimates.
 
 </td></tr><tr><td>
 
@@ -498,7 +498,7 @@ Indicates the schedule of payments to the supplier.
 
 </td></tr><tr><td>
 
-[[pre-payments|Pre-payments]] required
+Pre-payments required
 
 </td><td>
 
@@ -563,7 +563,7 @@ Pricing
 
 </td><td>
 
-Stores the relationship between supplier product, [[contracts|contracts]], and price of a product.For more details, see [Pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pricing.md).
+Stores the relationship between supplier product, contracts, and price of a product.For more details, see [Pricing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/pricing.md).
 
 </td></tr><tr><td>
 
@@ -577,7 +577,7 @@ For details, see [Milestones](https://raw.githubusercontent.com/ServiceNow/Servi
 
 </td></tr><tr><td>
 
-[[cost-allocations|Cost Allocations]]
+Cost Allocations
 
 </td><td>
 
@@ -599,7 +599,7 @@ Contract Requests
 
 </td><td>
 
-Displays all the associated contract requests against this purchase line.**Note:** This field is displayed only if you have the [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
+Displays all the associated contract requests against this purchase line.**Note:** This field is displayed only if you have the Source-to-Pay Operations with Contract Management Pro plugin \(sn\_spend\_clm\) installed.
 
 </td></tr></tbody>
 </table>-   **[Milestones](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/milestones.md)**  
@@ -616,23 +616,3 @@ A prepayment is the amount paid for services before their receipt or invoiced du
 
 [Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]
-- [[cost-center|Cost center]]
-- [[ledger-account|Ledger account]]
-- [[ledger-assignment-rules|Ledger assignment rules]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-contact|Supplier contact]]
-- [[handling-fees|Handling fees]]
-- [[pricing|Pricing]]
-- [[milestones|Milestones]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-order-table|Purchase order]]
-- [[pre-payments|Pre-payments]]
-- [[contracts|Contracts]]
-- [[cost-allocations|Cost allocations]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

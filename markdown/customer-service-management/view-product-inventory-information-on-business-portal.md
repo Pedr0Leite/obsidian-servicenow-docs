@@ -22,7 +22,7 @@ Role required: sn\_customerservice.customer, sn\_customerservice.customer\_admin
 
 Install the Customer Life Cycle Self Service plugin \(com.snc.customer\_lifecycle\_mgmt\_self\_service\) to perform the **Modify**, **Suspend**, **Resume**, and **Disconnect** actions on product inventories.
 
-To learn how to install the Customer Life Cycle Self Service plugin \(com.snc.customer\_lifecycle\_mgmt\_self\_service\), see [[activate-customer-life-cycle-management-self-service|Activate Customer Life Cycle Management Self-Service]].
+To learn how to install the Customer Life Cycle Self Service plugin \(com.snc.customer\_lifecycle\_mgmt\_self\_service\), see [Activate Customer Life Cycle Management Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-customer-life-cycle-management-self-service.md).
 
 ## Procedure
 
@@ -228,31 +228,22 @@ Net price of a single unit of a product inventory.
     |------------|-----------|
     |Cases|View all cases associated to the product inventory.|
     |Characteristics|View the characteristics associated to a particular sold product like the characteristic value and the option.|
-    |Child sold products|View the child [[sold-product|sold products]] associated to the sold product.|
+    |Child sold products|View the child sold products associated to the sold product.|
     |Product information|View the pricing related information of the sold product.|
 
 6.  Perform one of the desired actions on the product inventory.
 
     Install the Customer Life Cycle Management Self service plugin \(sn\_clm\_selfservice\) to perform the **Modify**, **Suspend**, **Resume**, and **Disconnect** actions. The flows can be performed only by the customer personas and only on the sold products where the **Contact** field is the same as the logged in user.
 
-    -   Modify a product inventory. To learn how to modify a product inventory, see [[modify_product_inventory_records|Modify product inventory records]]
-    -   Suspend a product inventory. To learn how to suspend a product inventory, see [[suspend_product_inventory_records|Suspend product inventory records]].
-    -   Resume a product inventory. To learn how to resume a sold product, see [[resume_product_inventory_records|Resume product inventory records]].
-    -   Disconnect a product inventory. To learn how to disconnect a sold product, see [[disconnect_product_inventory_records|Disconnect product inventory records]]
+    -   Modify a product inventory. To learn how to modify a product inventory, see [Modify product inventory records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/modify_product_inventory_records.md)
+    -   Suspend a product inventory. To learn how to suspend a product inventory, see [Suspend product inventory records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/suspend_product_inventory_records.md).
+    -   Resume a product inventory. To learn how to resume a sold product, see [Resume product inventory records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/resume_product_inventory_records.md).
+    -   Disconnect a product inventory. To learn how to disconnect a sold product, see [Disconnect product inventory records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/disconnect_product_inventory_records.md)
 
 **Related topics**  
 
 
 [Activate Customer Life Cycle Management Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-customer-life-cycle-management-self-service.md)
 
-[[view-product-info-business-portal|View product information from Business Portal]]
+[View product information from Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-product-info-business-portal.md)
 
-## Related
-
-- [[activate-customer-life-cycle-management-self-service|Activate Customer Life Cycle Management Self-Service]]
-- [[modify_product_inventory_records|Modify product inventory records]]
-- [[suspend_product_inventory_records|Suspend product inventory records]]
-- [[resume_product_inventory_records|Resume product inventory records]]
-- [[disconnect_product_inventory_records|Disconnect product inventory records]]
-- [[view-product-info-business-portal|View product information from Business Portal]]
-- [[sold-product|Sold products]]

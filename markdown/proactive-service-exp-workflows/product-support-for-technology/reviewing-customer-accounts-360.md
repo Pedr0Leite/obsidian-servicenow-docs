@@ -14,7 +14,7 @@ breadcrumb: [Use, Proactive Service Experience Workflows, Product Support for Te
 
 # Reviewing customer or partner accounts in Proactive Service Experience Workflows
 
-Learn how your Technical Support teams \(e,g. Cloud Ops, Server, or Network operations teams\) can use the Operations Account 360 view in the [[psew-landing-page|Proactive Service Experience Workflows]] application to get insight about your customer's or partner's accounts.
+Learn how your Technical Support teams \(e,g. Cloud Ops, Server, or Network operations teams\) can use the Operations Account 360 view in the Proactive Service Experience Workflows application to get insight about your customer's or partner's accounts.
 
 As a technical support agent, you can collect information related to tasks, escalations, key customer data, and metrics associated with your customer's or partner's accounts in the Service Operations Workspace. With this data, you can track the following types of information:
 
@@ -37,11 +37,7 @@ To learn more about Analytics dashboards, see [Service delivery overview](https:
 -   **[Review an account by using the 360 View in Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/review-customer-account-360-psew.md)**  
 Review a customer or partner's account by using the Operations Account 360 view provided by the Proactive Service Experience Workflows application inside of Service Operations Workspace. You can track your data and tasks related to customer's or partner's and then take action to improve your delivery of service.
 -   **[Service delivery overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/account-360-analytics-dashboard.md)**  
-Use the [[account-360-analytics-dashboard|Service delivery overview]] to view the Analytics dashboards of the customer accounts. You can explore the details about the operational status of the accounts.
+Use the Service delivery overview to view the Analytics dashboards of the customer accounts. You can explore the details about the operational status of the accounts.
 
 **Parent Topic:**[Using Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/use-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]
-- [[account-360-analytics-dashboard|Service delivery overview]]

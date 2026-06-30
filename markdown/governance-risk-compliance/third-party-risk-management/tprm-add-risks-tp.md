@@ -22,7 +22,7 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 ## About this task
 
-When you associate a risk with a third party or engagement, the risk becomes part of the entity’s [[tprm-risk-profile-what-is|risk profile]] and can be included in scoring calculations. This does not automatically trigger assessments unless configured through TPRM rules.
+When you associate a risk with a third party or engagement, the risk becomes part of the entity’s risk profile and can be included in scoring calculations. This does not automatically trigger assessments unless configured through TPRM rules.
 
 Controls are automatically generated when you associate a policy with an entity type or an entity type with a control objective. A control is created for each entity listed in the entity type for the control objective. Controls can also be manually created.
 
@@ -54,7 +54,7 @@ To understand the difference between a control objective and a control, see [Rel
 
 
 -   **[Create new risk form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-risk-record-form.md)**  
-Use the [[tprm-risk-record-form|create new risk form]] to capture all the information that you need to associate a control with a third party or engagement using the Third-party Risk Management application. As a third-party risk admin, you can [[t_CreateAControl|create a control]].
+Use the create new risk form to capture all the information that you need to associate a control with a third party or engagement using the Third-party Risk Management application. As a third-party risk admin, you can create a control.
 
 **Parent Topic:**[Integrating Third-party Risk Management with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/rm-assessment-integration.md)
 
@@ -71,8 +71,3 @@ Use the [[tprm-risk-record-form|create new risk form]] to capture all the inform
 
 [Define the risk appetite for a risk statement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-risk-appetite-on-risk-statement.md)
 
-## Related
-
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[tprm-risk-record-form|Create new risk form]]
-- [[t_CreateAControl|Create a control]]

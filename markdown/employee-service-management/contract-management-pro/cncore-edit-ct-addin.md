@@ -14,7 +14,7 @@ breadcrumb: [Manage clauses, tables, and contract templates, Manage, Contract Ma
 
 # Edit a contract template using Microsoft Word add-in for ServiceNow Contracts
 
-Edit the metadata, signatories, or clauses in a contract template that must be included in the contract template to generate a standard contract when an employee submits a contract request using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+Edit the metadata, signatories, or clauses in a contract template that must be included in the contract template to generate a standard contract when an employee submits a contract request using the Microsoft Word add-in for ServiceNow Contracts.
 
 ## Before you begin
 
@@ -109,6 +109,3 @@ As a contract configurator, edit or delete table mappings in a contract template
 
 [Delete a contract template]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

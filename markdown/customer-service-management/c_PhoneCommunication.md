@@ -14,21 +14,21 @@ breadcrumb: [Enable communication channels, Configure, Customer Service Manageme
 
 Configure phone support for customers with Computer Telephony Integration \(CTI\), OpenFrame, and Interaction Controls Component \(ICC\) integrations.
 
-Integrate your [[csm-workspaces-configure|CSM Configurable Workspace]] with Computer Telephony Integration \(CTI\) to enable and support voice features in your Workspace. See [[cti-csm-integration|Integrating with Computer Telephony Integration \(CTI\)]].
+Integrate your CSM Configurable Workspace with Computer Telephony Integration \(CTI\) to enable and support voice features in your Workspace. See [Integrating with Computer Telephony Integration \(CTI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cti-csm-integration.md).
 
--   **[[t_CreateAnOpenFrameConfiguration|Create an OpenFrame configuration]]**
+-   **[Create an OpenFrame configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAnOpenFrameConfiguration.md)**
 
     This configuration specifies the OpenFrame window settings and the URL to be launched within OpenFrame.
 
--   **[[openframe-cti-events|Configure OpenFrame events]]**
+-   **[Configure OpenFrame events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/openframe-cti-events.md)**
 
     Use OpenFrame events to achieve better integration between Advanced Work Assignment AWA and Computer telephony integration \(CTI\) and aide in improved call routing.
 
--   **[[enable-icc-for-ccaas|Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations]]**
+-   **[Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-icc-for-ccaas.md)**
 
     The Interaction Controls Component \(ICC\) feature enables CCaaS providers to display native voice and callback integrations so agents can manage customer calls directly from their Workspace. Implement prebuilt, certified integrations with Contact Center as a Service \(CCaaS\) providers using the ServiceNow Voice architecture.
 
--   **[[configure-omni-callback|Configuring Omnichannel Callback for Customer Service Management]]**
+-   **[Configuring Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-omni-callback.md)**
 
     Installing and configuring Omnichannel Callback for Customer Service Management enables your customers to request a callback from various channels such a Virtual Agent, the Customer Service Portal, and Engagement Messenger.
 
@@ -38,11 +38,3 @@ Integrate your [[csm-workspaces-configure|CSM Configurable Workspace]] with Comp
 
 [Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify-landing-page.md)
 
-## Related
-
-- [[cti-csm-integration|Integrating with Computer Telephony Integration \(CTI\)]]
-- [[t_CreateAnOpenFrameConfiguration|Create an OpenFrame configuration]]
-- [[openframe-cti-events|OpenFrame events for work items, agent presence, and interactions]]
-- [[enable-icc-for-ccaas|Implement the Interaction Controls Component \(ICC\) for contact center voice call and callback integrations]]
-- [[configure-omni-callback|Configuring Omnichannel Callback for Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

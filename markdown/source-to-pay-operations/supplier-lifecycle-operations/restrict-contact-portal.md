@@ -14,7 +14,7 @@ breadcrumb: [Managing supplier contacts, Using Supplier Collaboration Portal, Us
 
 # Restrict the primary contact role for a contact from the Supplier Collaboration Portal
 
-Restrict the primary contact role for a contact to prevent them from accessing all the contacts and tasks in the [[supplier-central|Supplier Collaboration Portal]].
+Restrict the primary contact role for a contact to prevent them from accessing all the contacts and tasks in the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
 ## About this task
 
-The **Restrict access** option is available only to the primary [[supplier-contact|supplier contact]] and the [[supplier|supplier]] administrator.
+The **Restrict access** option is available only to the primary supplier contact and the supplier administrator.
 
 ## Procedure
 
@@ -60,8 +60,3 @@ The Primary contact column is set to **false** for this contact on the Vendor Co
 
 [Remove a supplier contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supplier-contact.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

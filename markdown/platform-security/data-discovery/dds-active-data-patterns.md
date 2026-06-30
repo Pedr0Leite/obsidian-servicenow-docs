@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery sources, Data Discovery Store, Data Discovery, Platf
 
 # Select active data patterns
 
-Select the active data patterns to be used for [[data-discovery-jobs|Data Discovery jobs]].
+Select the active data patterns to be used for Data Discovery jobs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Sources**.
+1.  Navigate to **All** &gt; **Data Discovery** &gt; **Sources**.
 
 2.  Select **Active Patterns** in the navigation pane.
 
@@ -38,7 +38,4 @@ Role required: discovery.admin
 
 6.  Select the **Save** button.
 
-## Related
 
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[data-discovery-landing|Data Discovery]]

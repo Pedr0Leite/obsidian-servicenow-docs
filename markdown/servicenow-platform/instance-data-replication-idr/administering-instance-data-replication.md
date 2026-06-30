@@ -14,7 +14,7 @@ breadcrumb: [Instance Data Replication, Manage instance data sources, Extend Ser
 
 # Administering Instance Data Replication
 
-Perform administrative duties in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Perform administrative duties in Instance Data Replication \(IDR\).
 
 ## Overview of administering IDR
 
@@ -29,7 +29,7 @@ Copy a replication configuration from one instance to another through an update 
 -   **[Cloning options with Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/cloning-with-instance-data-replicaton.md)**  
 Ensure that certain tables are preserved or excluded to clone your database from one instance to another successfully with Instance Data Replication \(IDR\).
 -   **[Monitoring replication status in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication-dashboard.md)**  
-Monitor the status of active producer and consumer replication sets, scheduled jobs, seeding requests, license usage, or [[scheduled-replication|scheduled replication]] through the Instance Data Replication \(IDR\) Monitoring Dashboard.
+Monitor the status of active producer and consumer replication sets, scheduled jobs, seeding requests, license usage, or scheduled replication through the Instance Data Replication \(IDR\) Monitoring Dashboard.
 -   **[Monitoring queues in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/idr-queue-dashboard.md)**  
 Monitor the replication record queue, message produced queue, message consumed queue, and the messages processed for all replications sets through the Instance Data Replication \(IDR\) Queue Dashboard.
 -   **[Avoiding insert and update errors in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/preventing-insert-update-errors.md)**  
@@ -39,7 +39,3 @@ Resolve errors and monitor the status of Instance Data Replication \(IDR\) repli
 
 **Parent Topic:**[Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[scheduled-replication|Scheduled replication]]

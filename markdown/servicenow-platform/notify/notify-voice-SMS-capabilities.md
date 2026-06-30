@@ -14,16 +14,12 @@ breadcrumb: [Exploring Notify, Notify, Manage service capabilities, Extend Servi
 
 # Notify voice and SMS capabilities
 
-[[notify-landing-page|Notify]] provides support for SMS and voice channels for communicating internally with team members and externally with customers and contractors.
+Notify provides support for SMS and voice channels for communicating internally with team members and externally with customers and contractors.
 
 Notify provides a way for applications to start and manage a conference, send/receive SMS, send/receive calls and present them with IVR like system.
 
 -   **[How Notify processes incoming calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_ProcessingNotifyCalls.md)**  
-Notify processes incoming calls using [[c_WorkflowActivities|workflow activities]].
+Notify processes incoming calls using workflow activities.
 
 **Parent Topic:**[Exploring Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/exploring-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_WorkflowActivities|Workflow activities]]

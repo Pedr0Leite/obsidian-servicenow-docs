@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Risk Management, Health and Safety, Em
 
 # Risk matrix form
 
-Safety team can use the risk matrixes to create and conduct risk assessments in the [[health-safety-core-workspace|Health and Safety Workspace]].
+Safety team can use the risk matrixes to create and conduct risk assessments in the Health and Safety Workspace.
 
 For more information, see [Conduct a safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-conduct-risk-assessment.md).
 
@@ -100,7 +100,7 @@ Risk tolerance
 
 </td><td>
 
-Range, color, and description of the risk level. Select a range and color and enter a title for it.This risk tolerance range and title computes the risk level for a hazard on the **Hazard assessment** form, **Risk analyses** tab, and the [[hs-risk-assessment-form|risk assessment form]] header. For more information, see [Assess a hazard and its risk levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
+Range, color, and description of the risk level. Select a range and color and enter a title for it.This risk tolerance range and title computes the risk level for a hazard on the **Hazard assessment** form, **Risk analyses** tab, and the risk assessment form header. For more information, see [Assess a hazard and its risk levels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/add-a-risk-and-its-controls-for-a-safety-risk-assessment.md).
 
 The value of the range is determined by multiplying likelihood level by severity level. For example, according to the grid in the following image, a hazard with a level 3 likelihood \(Once per month\) and a level 2 severity \(Minor\) has a risk tolerance of 3\*2 = 6. The risk level for this hazard lies in the range 3 to 6, therefore, its risk level is displayed as Moderate.
 
@@ -121,7 +121,3 @@ Heatmap for visual representation of the risk matrix based on the defined levels
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-risk-assessment-form|Risk assessment form]]

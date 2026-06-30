@@ -105,11 +105,7 @@ Condition that determines which records belong to this partition. Use the **Fiel
 
 ## What to do next
 
-Assign the partition role to the relevant users or groups so they can access records within this partition. For details, see [[assign-partition-role-ewd|Assign partition role for access to the partition]].
+Assign the partition role to the relevant users or groups so they can access records within this partition. For details, see [Assign partition role for access to the partition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/assign-partition-role-ewd.md).
 
-**Note:** If your instance has existing records to associate with the new partition, run the partition backfill job. For details, see [[update-partition-details-for-existing-records|Update partition details for existing records]].
+**Note:** If your instance has existing records to associate with the new partition, run the partition backfill job. For details, see [Update partition details for existing records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/update-partition-details-for-existing-records.md).
 
-## Related
-
-- [[assign-partition-role-ewd|Assign partition role for access to the partition]]
-- [[update-partition-details-for-existing-records|Update partition details for existing records]]

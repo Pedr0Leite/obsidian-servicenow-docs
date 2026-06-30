@@ -12,7 +12,7 @@ breadcrumb: [Renew, Using Contracts and Entitlements Workflows, Customer Contrac
 
 # Renew a customer contract line
 
-Renew a customer contract line on the CSM Configurable Workspace. You can [[Renew|renew]] the services specified in the customer contract line and its associated child customer contract lines and entitlements.
+Renew a customer contract line on the CSM Configurable Workspace. You can renew the services specified in the customer contract line and its associated child customer contract lines and entitlements.
 
 ## About this task
 
@@ -25,7 +25,7 @@ The order processing for product inventory based contract lines are executed acc
 Role required:
 
 -   To create an order, you need sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
--   To [[create-new-quote|create a quote]] or opportunity, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
+-   To create a quote or opportunity, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
 
 ## Procedure
 
@@ -39,14 +39,14 @@ Role required:
 
 5.  Select **Renew**.
 
-    The target entity is created depending on the [[rules_101|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    The target entity is created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to renew the customer contract line is created. You can select the quote number from the confirmation message to review the renewal quote. After the quote is approved and the status is updated to **Complete**, an order is created for further processing.
     -   If the selected target entity is an order, an order to renew the customer contract line is created. You can select the order number from the confirmation message to review the renewal order.
     -   If the selected target entity is an opportunity, an opportunity to renew the customer contract is created. You can select the opportunity number from the confirmation message to review the renewal opportunity.
     -   If the selected target entity is an opportunity and a quote, both opportunity and quote to renew the customer contract are created. You can navigate to the opportunity and quote by selecting the numbers from the confirmation message.
 
-        **Note:** If you select a quote or an opportunity, the line items with same product offerings and configuration will be consolidated into a single quote or opportunity line. The consolidated line item reflects the total quantity of all the combined items. For more info, see [[consolidate-quotes|Consolidate quotes]].
+        **Note:** If you select a quote or an opportunity, the line items with same product offerings and configuration will be consolidated into a single quote or opportunity line. The consolidated line item reflects the total quantity of all the combined items. For more info, see [Consolidate quotes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/consolidate-quotes.md).
 
     If more than 20 contract lines are renewed, the target entities are created asynchronously. You can configure the threshold value for the number of contract lines.
 
@@ -66,10 +66,3 @@ Role required:
 
 The new customer contract line is created with the renewed contract line in the Draft state. You can see more details in the Renewal History related list.
 
-## Related
-
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[consolidate-quotes|Consolidate quotes]]
-- [[Renew|Renew]]
-- [[create-new-quote|Create a quote]]
-- [[rules_101|Rules]]

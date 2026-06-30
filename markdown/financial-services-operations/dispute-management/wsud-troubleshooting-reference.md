@@ -42,8 +42,5 @@ This reference topic provides troubleshooting steps to resolve a customer or con
 
 [About dispute intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-intake-overview.md)
 
-[[integrating-with-document-processor|Integrating with Document Processor]]
+[Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md)
 
-## Related
-
-- [[integrating-with-document-processor|Integrating with Document Processor]]

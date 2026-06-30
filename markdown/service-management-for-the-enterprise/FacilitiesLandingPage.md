@@ -22,33 +22,33 @@ Facilities Service Management is being prepared for future deprecation. It will 
 
 **Explore**
 
- -   [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
--   [[domain-separation-facilities-service-mgt|Domain separation and Facilities Service Management]]
+ -   [Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
+-   [Domain separation and Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/domain-separation-facilities-service-mgt.md)
 
 </td><td>
 
 **Set up**
 
- -   [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
+ -   [Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacVisWorkbench.md)
 
 </td><td>
 
 **Administer**
 
- -   [[c_FacilitiesSMProcess|Facilities service management process]]
--   [[t_ConfigureFacilities|Configure Facilities Service Management]]
--   [[t_ConfigureEnterpriseMove|Configure Enterprise Move]]
--   [[r_PropInstallWFacServMgmnt|Properties installed with Facilities Service Management]]
--   [[r_PropsInstallWFacMoveMgmt|Properties installed with Facilities Move Management]]
+ -   [Facilities service management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesSMProcess.md)
+-   [Configure Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ConfigureFacilities.md)
+-   [Configure Enterprise Move](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ConfigureEnterpriseMove.md)
+-   [Properties installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_PropInstallWFacServMgmnt.md)
+-   [Properties installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_PropsInstallWFacMoveMgmt.md)
 
 </td></tr><tr><td>
 
 **Use**
 
- -   [[c_FacilitiesRequests|Facilities requests]]
--   [[c_FacRequestTasks|Facilities request tasks]]
--   [[r_SpaceManagement|Space management]]
--   [[c_FacMoveMgmt|Facilities move management]]
+ -   [Facilities requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesRequests.md)
+-   [Facilities request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacRequestTasks.md)
+-   [Space management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SpaceManagement.md)
+-   [Facilities move management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveMgmt.md)
 
 </td><td>
 
@@ -56,7 +56,7 @@ Facilities Service Management is being prepared for future deprecation. It will 
 
  -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
--   [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+-   [Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
 </td><td>
 
@@ -80,19 +80,3 @@ Facilities Service Management is being prepared for future deprecation. It will 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[domain-separation-facilities-service-mgt|Domain separation and Facilities Service Management]]
-- [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
-- [[c_FacilitiesSMProcess|Facilities service management process]]
-- [[t_ConfigureFacilities|Configure Facilities Service Management]]
-- [[t_ConfigureEnterpriseMove|Configure Enterprise Move]]
-- [[r_PropInstallWFacServMgmnt|Properties installed with Facilities Service Management]]
-- [[r_PropsInstallWFacMoveMgmt|Properties installed with Facilities Move Management]]
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[c_FacRequestTasks|Facilities request tasks]]
-- [[r_SpaceManagement|Space management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]

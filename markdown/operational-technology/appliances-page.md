@@ -29,7 +29,7 @@ The Appliances page displays the current Sensors and Collectors that have run or
 
 \[Omitted image "appliances-page.png"\] Alt text: Appliances page
 
-Selecting the appliance name in the list, opens its record. See [[edit-appliance-record|Edit an Appliance record]] for more information.
+Selecting the appliance name in the list, opens its record. See [Edit an Appliance record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/edit-appliance-record.md) for more information.
 
 ## Search by type
 
@@ -43,10 +43,5 @@ The Discovery Sensor for OT executes the query to discovery assets and creates t
 
 When you create an Auto Query in the Console, you can choose specific Appliances in the Assets section. When choosing Assets for the query, you can assign the Target to all appliances, specific appliances, or auto targeting. If you select **Specific Appliances**, you can select the appliances you want from a provided list. One restriction is that you must select at least one Sensor from the list as well.\[Omitted image "use-appliances-create-auto-query.png"\] Alt text: Select Assets and Targets
 
-For more information on Auto Queries and creating an Auto Query, see [[auto-query-console|Auto Query page]] and [[add-auto-query-console|Create an Auto Query]].
+For more information on Auto Queries and creating an Auto Query, see [Auto Query page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/auto-query-console.md) and [Create an Auto Query](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/add-auto-query-console.md).
 
-## Related
-
-- [[edit-appliance-record|Edit an Appliance record]]
-- [[auto-query-console|Auto Query page]]
-- [[add-auto-query-console|Create an Auto Query]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Employee Center, Employee Center, Unified Employee Experience
 
 # Use Personalized Answers
 
-Employees can use the AI-search enabled feature to seek information about their leave balance and more on the [[employee-center-landing-page|Employee Center]] search page.
+Employees can use the AI-search enabled feature to seek information about their leave balance and more on the Employee Center search page.
 
 Personalized Answers is an AI search-enabled feature, integrated with one or more third-party integrations to provide relevant and informative content from the search page on Employee Center.
 
@@ -45,7 +45,7 @@ Employee can quickly scan the remainder of leaves for the year and select **Requ
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -61,7 +61,3 @@ Employee can quickly scan the remainder of leaves for the year and select **Requ
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

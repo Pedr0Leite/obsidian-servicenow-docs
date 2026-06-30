@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 As a user with the ServiceNow AI Platform® compliance manager \(sn\_compliance.manager\) role, manage your work without being tied to the desktop. Receive timely notifications for current alerts, as well as risk and compliance status for your critical assets, vendors, and impacted essential business services all on your mobile device.
 
-With the GRC Mobile application, you can perform the following [[r_PolicyComplianceMgmt|Policy and Compliance Management]] activities without being tied to the desktop:
+With the GRC Mobile application, you can perform the following Policy and Compliance Management activities without being tied to the desktop:
 
 -   Approve or reject pending Policies and Policy Exception requests that are assigned to you.
 -   Assign unassigned tasks and issues to your team with the Indicator Tasks, Issues, and Remediation Tasks applets.
@@ -38,7 +38,7 @@ For step-by-step instructions about how to set up your ServiceNow AI Platform in
 
 -   **Applications**
 
-    Applications are the ServiceNow® software components such as Policy and Compliance Management, Risk Management, and [[c_GRCAudits|Audit Management]] that provide specific features and functionalities within your ServiceNow AI Platform instance. After you install these core applications and the GRC Mobile app on your ServiceNow AI Platform instance, these applications are displayed as icons on the bottom of your Android or iOS mobile device after you log in.
+    Applications are the ServiceNow® software components such as Policy and Compliance Management, Risk Management, and Audit Management that provide specific features and functionalities within your ServiceNow AI Platform instance. After you install these core applications and the GRC Mobile app on your ServiceNow AI Platform instance, these applications are displayed as icons on the bottom of your Android or iOS mobile device after you log in.
 
     \[Omitted image "p\_n\_c\_icons.jpg"\] Alt text: Icons on the bottom of the screen of the mobile device.
 
@@ -74,7 +74,3 @@ Set additional filters to limit the number of records that are displayed on a sc
 
 **Parent Topic:**[Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PolicyComplianceMgmt.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

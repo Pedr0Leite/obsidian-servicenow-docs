@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Translate a Universal Request field
 
-Use dynamic translation to translate [[ur-landing-limitedaccess|Universal Request]] fields to another language.
+Use dynamic translation to translate Universal Request fields to another language.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-As of now, you can only translate the short description, description and work notes fields on a [[new-ur-record-form|Universal Request form]].
+As of now, you can only translate the short description, description and work notes fields on a Universal Request form.
 
 ## Procedure
 
@@ -41,7 +41,3 @@ As of now, you can only translate the short description, description and work no
 
 **Parent Topic:**[Using Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/using-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[new-ur-record-form|Universal Request form]]

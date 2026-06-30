@@ -16,7 +16,7 @@ Smart Assessment questionnaires enable Field Service technicians to capture accu
 
 As part of completing work order tasks, Field Service technicians can be mandated to fill out questionnaires or complete checklists. Questionnaires collect different types of information from technicians, such as confirming compliance with safety protocols, recording the results of an asset inspection, or verifying that the required steps were completed before closing the task.
 
-Smart Assessment is built on Smart Assessment Engine- a platform-level capability available for [[fsm-application-landing-page|Field Service Management]] through a dedicated store application.
+Smart Assessment is built on Smart Assessment Engine- a platform-level capability available for Field Service Management through a dedicated store application.
 
 -   Smart Assessment questionnaires are used to collect task-specific information such as safety checks, inspection details, compliance confirmations, and work completion checklists from field service agents. Additionally, these questionnaires can be configured as mandatory, ensuring a work order or work order task is not closed until all its relevant details are captured by the agent.
 -   The questionnaires help in verifying if the field service agent has completed all the required steps and complied with organizational, safety, and regulatory requirements of the work order.
@@ -26,12 +26,7 @@ Smart Assessment is built on Smart Assessment Engine- a platform-level capabilit
 **Related topics**  
 
 
-[[survey-based-questionnaires|Survey-based questionnaires]]
+[Survey-based questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/survey-based-questionnaires.md)
 
-[[questionnaires-in-field-service-management|Questionnaires in Field Service Management]]
+[Questionnaires in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/questionnaires-in-field-service-management.md)
 
-## Related
-
-- [[survey-based-questionnaires|Survey-based questionnaires]]
-- [[questionnaires-in-field-service-management|Questionnaires in Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

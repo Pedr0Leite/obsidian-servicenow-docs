@@ -14,7 +14,7 @@ breadcrumb: [Record Producer, Types of catalog items, Explore, Service Catalog, 
 
 # Create a record producer
 
-You can create a record producer for tables and database views that are in the same scope as the [[c_RecordProducer|record producer]]. Also for tables that allow create access from applications in other scopes.
+You can create a record producer for tables and database views that are in the same scope as the record producer. Also for tables that allow create access from applications in other scopes.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: catalog\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Record Producers**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Record Producers**.
 
 2.  Click **New** or select the record producer to edit.
 
-3.  Complete the [[record-producer-form|Record Producer form]].
+3.  Complete the Record Producer form.
 
     For more information about the fields and their descriptions on the Record Producer form, see [Record Producer form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/record-producer-form.md).
 
@@ -50,8 +50,3 @@ Role required: catalog\_admin or admin
 
 [Populate record producer data and redirect users]()
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]
-- [[service-catalog|Service Catalog]]
-- [[record-producer-form|Record Producer form]]

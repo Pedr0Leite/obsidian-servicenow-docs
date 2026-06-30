@@ -27,10 +27,6 @@ As an admin or asset viewer, you can access the home page in either of two ways.
 
 **Note:**
 
--   The Needs attention widget appears only for admins with the [[cam-landing|Cloud Account Management]] entitlement.
--   The Other cloud tools widget displays the applications installed on your instance. Cloud [[r-discovery|Discovery]] is a prerequisite for installing Cloud Account Management.
+-   The Needs attention widget appears only for admins with the Cloud Account Management entitlement.
+-   The Other cloud tools widget displays the applications installed on your instance. Cloud Discovery is a prerequisite for installing Cloud Account Management.
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[r-discovery|Discovery]]

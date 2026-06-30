@@ -14,7 +14,7 @@ breadcrumb: [Get started with Sighting Search Configurations, Configure Sighting
 
 # Configure and enable Splunk integration
 
-Configure the Splunk Enrichment integration to automatically search your logs and add relevant sighting information to [[threat-intel-landing-page|threat intelligence]] data.
+Configure the Splunk Enrichment integration to automatically search your logs and add relevant sighting information to threat intelligence data.
 
 ## Before you begin
 
@@ -23,14 +23,14 @@ Role required: sn\_sec\_tisc.admin
 **Important:**
 
 -   Download the Splunk Search app from the ServiceNow Store to get started.
--   Install and activate the [[tisc-landing-page|Threat Intelligence Security Center]] plugin to enable the Splunk Search integration.
+-   Install and activate the Threat Intelligence Security Center plugin to enable the Splunk Search integration.
 -   From your Splunk instance, copy the API Base URL, Link URL, Username, and Password.
 
 ## Procedure
 
 1.  In your instance, navigate to **Threat Intelligence Security Center**.
 
-2.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+2.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 3.  When the installation is complete, navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
@@ -40,7 +40,7 @@ Role required: sn\_sec\_tisc.admin
 
     The configured integrations appear as a series of cards.
 
-6.  In the **Splunk Search** card, select **[[tisc-config-new-enrich|Configure New Enrichment]]** to configure **Splunk Search** integration.
+6.  In the **Splunk Search** card, select **Configure New Enrichment** to configure **Splunk Search** integration.
 
 7.  Complete the fields on the Configure New Enrichment form.
 
@@ -48,8 +48,8 @@ Role required: sn\_sec\_tisc.admin
     |-----|-----------|
     |Name|Name for the sighting search configuration.|
     |Vendor Name|Name of the vendor. The details of the selected vendor is populated by default. For example, Splunk.|
-    |Integration Type|Type of integration that you selected. For example, [[tisc-threat-lookup|Threat Lookup]].|
-    |Description|Description for the Splunk integration. For example, The Splunk enrichment integration aids in the investigation of an observable by supporting the querying of logs in your Splunk deployment in relation to potentially malicious [[indicator|indicators]].|
+    |Integration Type|Type of integration that you selected. For example, Threat Lookup.|
+    |Description|Description for the Splunk integration. For example, The Splunk enrichment integration aids in the investigation of an observable by supporting the querying of logs in your Splunk deployment in relation to potentially malicious indicators.|
     |**Integration Configuration**|
     |Splunk API Base URL|Base URL from the Splunk site.|
     |Link URL|\[Optional\] The URL that links to the Splunk web interface, when available.|
@@ -57,7 +57,7 @@ Role required: sn\_sec\_tisc.admin
     |Password|Your Intel Splunk password.|
     |Max Rows|Maximum number of rows to search.|
     |Earliest Result \(days\)|Displays earliest results in number of days.|
-    |Include raw data samples in search results|When selected, includes samples of raw data in [[indicator-sightings|sightings]] search results. The amount of data returned depends on your setting in the number of rows of raw data property in [Security Incident Response properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md).|
+    |Include raw data samples in search results|When selected, includes samples of raw data in sightings search results. The amount of data returned depends on your setting in the number of rows of raw data property in [Security Incident Response properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md).|
     |On Premises Deployment|Indicates whether the deployment is on premises.|
     |MID Server|Select **Any** option to use any active MID Server, or select a specific MID Server name.|
 
@@ -72,17 +72,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## What to do next
 
-After you configure the integration, you can select Splunk to perform sighting searches on [[c_Observables|observables]] in Threat Intelligence Security Center.
+After you configure the integration, you can select Splunk to perform sighting searches on observables in Threat Intelligence Security Center.
 
 **Parent Topic:**[Get started with Sighting Search Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-get-sighting-configs.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[indicator|Indicators]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

@@ -14,7 +14,7 @@ breadcrumb: [Working with process inefficiency highlights using Now Assist, Conf
 
 # Activate Process Inefficiency Highlights skill
 
-Activate the Process Inefficiency Highlights skill to be able to use [[now-assist|Now Assist for Process Mining]] to [[generate-highlights|generate highlights for improvement opportunities]].
+Activate the Process Inefficiency Highlights skill to be able to use Now Assist for Process Mining to generate highlights for improvement opportunities.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Working with process inefficiency highlights using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/highlights.md)
 
-## Related
-
-- [[now-assist|Now Assist for Process Mining]]
-- [[generate-highlights|Generate highlights for improvement opportunities]]

@@ -28,7 +28,7 @@ You can update the hour field for a specified day for a particular time card. Th
 
 1.  Log in to your instance using the Now Mobile application.
 
-2.  Open a time sheet from **My active [[time-sheets|time sheets]]**.
+2.  Open a time sheet from **My active time sheets**.
 
 3.  Select the day for which you want to update hours.
 
@@ -41,6 +41,3 @@ You can update the hour field for a specified day for a particular time card. Th
 
 **Parent Topic:**[Add a time card and log time through the Mobile Time Sheets application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/create-timecard-mobile.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

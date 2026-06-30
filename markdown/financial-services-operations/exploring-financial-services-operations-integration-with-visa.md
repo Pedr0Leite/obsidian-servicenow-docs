@@ -12,7 +12,7 @@ breadcrumb: [Visa, Integrate, Financial Services Operations \(FSO\)]
 
 # Exploring Financial Services Operations Integration with Visa
 
-Learn how you can use the [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]] application to seamlessly connect with dispute workflows and manage dispute resolution.
+Learn how you can use the Financial Services Operations Integration with Visa application to seamlessly connect with dispute workflows and manage dispute resolution.
 
 ## Overview on the application
 
@@ -28,10 +28,10 @@ For more information on setting up the integration to invoke Visa APIs for the V
 
 ## Workflow
 
-Integrating [[fso-overview|Financial Services]] Operations card dispute flow with the Visa spoke in the VROL system, you perform the following actions:
+Integrating Financial Services Operations card dispute flow with the Visa spoke in the VROL system, you perform the following actions:
 
 1.  Create a dispute case.
-2.  [[create-case-with-intake-workspace|Initiate a dispute]].
+2.  Initiate a dispute.
 3.  Submit a Visa questionnaire.
 
 ## Key benefits to Issuers
@@ -46,8 +46,3 @@ Integrating [[fso-overview|Financial Services]] Operations card dispute flow wit
 
 [Visa Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/visa-spoke.md)
 
-## Related
-
-- [[financial-services-operations-integration-with-visa-landing-page|Financial Services Operations Integration with Visa]]
-- [[fso-overview|Financial Services]]
-- [[create-case-with-intake-workspace|Initiate a dispute]]

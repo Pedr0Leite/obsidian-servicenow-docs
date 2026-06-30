@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Monitoring queues in Instance Data Replication
 
-Monitor the replication record queue, message produced queue, message consumed queue, and the messages processed for all replications sets through the [[instance-data-replication|Instance Data Replication]] \(IDR\) Queue Dashboard.
+Monitor the replication record queue, message produced queue, message consumed queue, and the messages processed for all replications sets through the Instance Data Replication \(IDR\) Queue Dashboard.
 
 ## Accessing the IDR Queue Dashboard
 
@@ -116,6 +116,3 @@ Position your cursor over a point in the chart to see the message count and repl
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

@@ -16,7 +16,7 @@ breadcrumb: [Performance Analytics widgets, Reporting, dashboards, and Performan
 
 Time series widgets show changes in an indicator score over time. Different visualizations emphasize the trend in the scores or the scores themselves, and can display one indicator or compare several indicators.
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -84,7 +84,7 @@ Comparing scores in an indicator
 
 </td><td>
 
-Shows changes between scores over time by displaying them as proportional vertical columns. Use either to visualize score changes in one indicator or to compare indicators. To compare indicators with a column visualization, either add indicators to the widget, or place several column visualization [[widgets|widgets]] next to each other in a dashboard.
+Shows changes between scores over time by displaying them as proportional vertical columns. Use either to visualize score changes in one indicator or to compare indicators. To compare indicators with a column visualization, either add indicators to the widget, or place several column visualization widgets next to each other in a dashboard.
 
 </td></tr><tr><td>
 
@@ -140,10 +140,3 @@ Shows how multiple indicators diverge over time.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

@@ -34,10 +34,7 @@ In this scenario, Database Instance 1 and Database Instance 2 are running Oracle
 
 In this scenario, Database Instance 1 and Database Instance 2 are running Oracle Database 12.1 Enterprise Edition. Database Instance 1 contains three user-created PDBs, while Database Instance 2 contains one user-created PDB. Database Instance 3 is running Oracle Database 18c Enterprise Edition and contains 255 user-created PDBs. Since both Database Instance 1 and Database Instance 3 exceed the minimum number of user-created PDBs for which the Oracle Multitenant option is required, the option is in use on both database instances. Additional licensing for the Oracle Multitenant option is required on all hosts within the cluster.
 
-However, Database Instance 3 is considered to be out of compliance. Based on licensing rules for the Oracle Multitenant option, the maximum number of user-created PDBs that are supported on database instances running Oracle Database 18c Enterprise Edition is 252. Since Database Instance 3 contains 255 user-created PDBs, [[c_SoftwareAssetMgmt|Software Asset Management]] creates removal candidates for the three additional user-created PDBs. These additional PDBs must be removed to maintain compliance.
+However, Database Instance 3 is considered to be out of compliance. Based on licensing rules for the Oracle Multitenant option, the maximum number of user-created PDBs that are supported on database instances running Oracle Database 18c Enterprise Edition is 252. Since Database Instance 3 contains 255 user-created PDBs, Software Asset Management creates removal candidates for the three additional user-created PDBs. These additional PDBs must be removed to maintain compliance.
 
 **Parent Topic:**[Oracle Database licensing in multitenant architectures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-licensing-multitenant-architectures.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -15,7 +15,7 @@ breadcrumb: [GCP discovery, Available cloud discovery patterns, Discovery patter
 
 # Google Cloud Platform \(GCP\) Cloud Functions discovery using patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses the Google Cloud Platform \(GCP\) - Cloud Functions pattern to discover Cloud Functions in a Google Cloud Platform \(GCP\) deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses the Google Cloud Platform \(GCP\) - Cloud Functions pattern to discover Cloud Functions in a Google Cloud Platform \(GCP\) deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Pattern-based discovery and mapping requirements
 
@@ -124,7 +124,7 @@ Operational status \[operational\_status\]
 Operational status of the function. Default value is Operational.
 
 </td></tr></tbody>
-</table>On the [[dependency-views-map|Dependency Views map]], you can view all discovered GCP Cloud Functions resources in your organization and the relationships between them.
+</table>On the Dependency Views map, you can view all discovered GCP Cloud Functions resources in your organization and the relationships between them.
 
 \[Omitted image "gcp-cloud-functions-dependency-view.png"\] Alt text: GCP Cloud Functions CIs and connections on a Dependency Views map
 
@@ -151,8 +151,3 @@ The Google Cloud Platform \(GCP\) - Cloud Functions pattern collects tags and po
 
 **Parent Topic:**[Google Cloud Platform \(GCP\) Cloud discovery using Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/gcp-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

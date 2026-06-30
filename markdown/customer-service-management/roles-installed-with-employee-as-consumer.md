@@ -12,7 +12,7 @@ breadcrumb: [Configuring a user as a Unified Consumer, Configuring a Unified Use
 
 # Roles installed with Employee as a Consumer
 
-Use different roles to establish the relationships between your users and entities. By using the Employee as a Consumer functionality within the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application, your organization can support both requesters and supporters.
+Use different roles to establish the relationships between your users and entities. By using the Employee as a Consumer functionality within the Customer Service Management \(CSM\) application, your organization can support both requesters and supporters.
 
 ## Overview of Employee as a Consumer
 
@@ -60,15 +60,9 @@ Supports consumers and runs parallel to the Consumer \(sn\_customerservice.consu
 </table>**Related topics**  
 
 
-[[configuring-employee-as-a-consumer|Configuring a user as a Unified Consumer]]
+[Configuring a user as a Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-employee-as-a-consumer.md)
 
-[[features-supp-and-unsupp-by-unified-consumer|Supported and unsupported roles and features]]
+[Supported and unsupported roles and features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/features-supp-and-unsupp-by-unified-consumer.md)
 
-[[setting-up-a-user|Setting up a user as a Unified Consumer]]
+[Setting up a user as a Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-a-user.md)
 
-## Related
-
-- [[configuring-employee-as-a-consumer|Configuring a user as a Unified Consumer]]
-- [[features-supp-and-unsupp-by-unified-consumer|Supported and unsupported roles and features]]
-- [[setting-up-a-user|Setting up a user as a Unified Consumer]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

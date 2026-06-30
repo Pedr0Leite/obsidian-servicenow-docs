@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Create and configure a profile for the sighting search
 
-Use [[indicator-sightings|sightings]] searches for CrowdStrike Falcon Insight to locate infected machines across your organization's network and to address [[sir-landing-page|security incident response]] cases.
+Use sightings searches for CrowdStrike Falcon Insight to locate infected machines across your organization's network and to address security incident response cases.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-Select individual or multiple [[c_Observables|observables]] and perform a manual sighting search in CrowdStrike Falcon Insight to determine the prevalence of a threat over time.
+Select individual or multiple observables and perform a manual sighting search in CrowdStrike Falcon Insight to determine the prevalence of a threat over time.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight Integration]]** &gt; **Sightings Search Profiles**.
+1.  Navigate to **All** &gt; **CrowdStrike Falcon Insight Integration** &gt; **Sightings Search Profiles**.
 
 2.  Select **New**.
 
@@ -152,9 +152,4 @@ Parameters to define more complex queries that include logic and other operators
 
     12. Select the **Sightings Search Details** to view the sighting search details, and select the **Sightings Search Results** tab for search results.
 
-## Related
 
-- [[indicator-sightings|Sightings]]
-- [[sir-landing-page|Security Incident Response]]
-- [[c_Observables|Observables]]
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]

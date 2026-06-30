@@ -14,7 +14,7 @@ breadcrumb: [Password Reset script includes, Password Reset reference, Password 
 
 # Password Reset extension scripts
 
-Extension scripts allow you to extend [[password-reset-landing-page|Password Reset]] functionality in credential store, verification, or identification types.
+Extension scripts allow you to extend Password Reset functionality in credential store, verification, or identification types.
 
 ## Password Reset extension script includes
 
@@ -448,6 +448,3 @@ SampleVerificationFormProcessor.prototype = {
 
 [Extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

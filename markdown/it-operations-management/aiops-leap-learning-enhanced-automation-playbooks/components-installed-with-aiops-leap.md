@@ -38,7 +38,7 @@ You have full control over LEAP capabilities, including the following:
 -   Execute scheduled jobs
 -   Manage LEAP tables and the LEAP Workspace
 -   Generate and update resolution steps
--   Create and view problems and [[generate-playbooks|generate LEAP playbooks]] from [[automation-opportunities|automation opportunities]] \(AO\)
+-   Create and view problems and generate LEAP playbooks from automation opportunities \(AO\)
 
 </td></tr><tr><td>
 
@@ -54,7 +54,7 @@ LEAP agent \[sn\_itom\_leap.leap\_agent\]
 
 </td><td>
 
-You can access the LEAP menu from the [[workspace-dashboard-use|Service Operations Workspace]] \(SOW\) and trigger LEAP executions directly from within SOW.
+You can access the LEAP menu from the Service Operations Workspace \(SOW\) and trigger LEAP executions directly from within SOW.
 
 </td></tr></tbody>
 </table>## Scheduled jobs installed
@@ -86,8 +86,3 @@ You can access the LEAP menu from the [[workspace-dashboard-use|Service Operatio
 |LEAP Ansible Step Mapping|Maintains record of the step to job mapping performed by LEAP.|
 |Discovered Job Catalog|Maintains record of discovered Ansible jobs and their associations with automation opportunities.|
 
-## Related
-
-- [[generate-playbooks|Generate LEAP playbooks]]
-- [[automation-opportunities|Automation opportunities]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

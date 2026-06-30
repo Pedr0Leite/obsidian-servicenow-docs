@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Indicator Sightings**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicator Sightings**.
 
 2.  Click **New**.
 
@@ -49,15 +49,8 @@ Click any of the following related lists to view additional information about ob
 |Related Lists|Description|
 |-------------|-----------|
 |External References|Lists external references which refer to non-STIX information. This property is used to provide one or more external object identifiers.|
-|Identities|List of [[threat-intelligence-identities|identities]] associated with this object.|
-|Observed Data|Lists [[threat-intelligence-observed-data|observed data]] associated with this object.|
+|Identities|List of identities associated with this object.|
+|Observed Data|Lists observed data associated with this object.|
 
-**Parent Topic:**[[indicator-sightings|Sightings]]
+**Parent Topic:**[Sightings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/indicator-sightings.md)
 
-## Related
-
-- [[indicator-sightings|Sightings]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-identities|Identities]]
-- [[threat-intelligence-observed-data|Observed data]]

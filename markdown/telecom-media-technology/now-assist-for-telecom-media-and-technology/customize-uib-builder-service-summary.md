@@ -28,7 +28,7 @@ Role required: Admin
 
 3.  Select **here** if you see the notice that says:
 
-    This record is in the [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]] application, but Global is the current application. To edit this record, click **here**.
+    This record is in the Now Assist for Telecommunications, Media and Technology \(TMT\) application, but Global is the current application. To edit this record, click **here**.
 
     \[Omitted image "now-assist-wwna-quick-action.png"\] Alt text: generate record summary.
 
@@ -43,6 +43,3 @@ Role required: Admin
 
 **Parent Topic:**[Generate service summary for a product inventory using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-tmt-summarize-knowledge-graph.md)
 
-## Related
-
-- [[now-assist-spmc|Now Assist for Telecommunications, Media and Technology \(TMT\)]]

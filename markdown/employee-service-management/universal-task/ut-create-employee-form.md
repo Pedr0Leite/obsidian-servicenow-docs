@@ -14,15 +14,15 @@ breadcrumb: [Using Universal Task, Universal Task, Employee Service Management]
 
 # Create an employee form
 
-Create or modify an [[ut-emp-form|employee form]] to [[employee-form-configuration|collect employee input]]. Employee forms are questionnaires that are built using the survey designer to collect or update information from employees.
+Create or modify an employee form to collect employee input. Employee forms are questionnaires that are built using the survey designer to collect or update information from employees.
 
 ## Before you begin
 
-To use this task, first [[configure-hr-employee-form|create an employee form]] record. Then, use the survey designer to design a questionnaire for the employee.
+To use this task, first create an employee form record. Then, use the survey designer to design a questionnaire for the employee.
 
 Role required: sn\_uni\_task.emp\_form\_admin or sn\_uni\_task.emp\_form\_creator
 
-**Note:** You will need sn\_hr\_le.[[activity-lxp|activity]]\_reader role or any role that starts with sn\_hr\_core to have read access to the employee form page being utilized, and view data that is passed between case and child task.
+**Note:** You will need sn\_hr\_le.activity\_reader role or any role that starts with sn\_hr\_core to have read access to the employee form page being utilized, and view data that is passed between case and child task.
 
 ## Procedure
 
@@ -55,9 +55,3 @@ You can now assign the form to an employee by using the Collect Employee input t
 
 **Parent Topic:**[Using Universal Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/use-universal-task.md)
 
-## Related
-
-- [[ut-emp-form|Employee form]]
-- [[employee-form-configuration|Collect employee input]]
-- [[configure-hr-employee-form|Create an employee form]]
-- [[activity-lxp|Activity]]

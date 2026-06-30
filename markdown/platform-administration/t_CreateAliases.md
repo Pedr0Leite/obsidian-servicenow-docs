@@ -24,11 +24,11 @@ The list of potential aliases is the contents of the **Pending Values** related 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Normalization** &gt; **[[clone-configurations-tab|Configurations]]** &gt; **Normalizations**.
+1.  Navigate to **All** &gt; **Field Normalization** &gt; **Configurations** &gt; **Normalizations**.
 
 2.  Open a normalization record.
 
-3.  Click the **[[c_WhatFieldNormalizationDoes|Normal Values]]** related list.
+3.  Click the **Normal Values** related list.
 
 4.  Select one of the values.
 
@@ -43,7 +43,3 @@ The list of potential aliases is the contents of the **Pending Values** related 
 
 Apply the aliases by running the associated data jobs.
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[c_WhatFieldNormalizationDoes|Normal values]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure Customer Central, Agent tools, Organize agent workspaces,
 
 # Configure Customer Central properties
 
-Set how many days you want to display data from in [[customer-central|Customer Central]].
+Set how many days you want to display data from in Customer Central.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ This property applies to both the Customer Information and Customer History view
 
     The default is set to 30.
 
-## Related
 
-- [[customer-central|Customer Central]]

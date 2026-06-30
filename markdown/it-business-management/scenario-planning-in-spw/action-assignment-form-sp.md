@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Action Assignment form
 
-Learn about the fields of the [[action-assignment-form|Action Assignment form]]. Use this form to add the **New** action button to the APW List Menu Configuration page.
+Learn about the fields of the Action Assignment form. Use this form to add the **New** action button to the APW List Menu Configuration page.
 
 |Field|Description|
 |-----|-----------|
@@ -27,6 +27,3 @@ Learn about the fields of the [[action-assignment-form|Action Assignment form]].
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[action-assignment-form|Action Assignment form]]

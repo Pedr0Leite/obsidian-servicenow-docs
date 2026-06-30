@@ -19,7 +19,7 @@ Configure the Risk Management application to use the features it provides for th
 -   **[Risk Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-impl-overview.md)**  
 Use the steps in the Risk Management application checklist to download the Risk Management from the ServiceNow Store, and get it ready for operation. Mandatory and optional setup steps, as well as an implementation checklist are provided to simplify the setup.
 -   **[Risk Management detailed setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/setup-risk-management.md)**  
-Set up Risk Management so that you can use the features such as [[risk-assessments|risk assessments]], risk events, and other capabilities of the GRC Risk Management application.
+Set up Risk Management so that you can use the features such as risk assessments, risk events, and other capabilities of the GRC Risk Management application.
 -   **[Set up checklist for the GRC Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-setup-risk-app.md)**  
 The following checklist includes the set up tasks that you're required to complete in your ServiceNow AI Platform® instance and on your mobile device. Complete these set up tasks before using the GRC Mobile application to view the Risk Management application on your mobile device.
 -   **[Risk appetite setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-appetite-setup.md)**  
@@ -29,9 +29,5 @@ Modify the messages displayed on the risk assessment form using the Advanced Ris
 -   **[Create related list groupings in Advanced Risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-related-list-groupings-advanced-risk.md)**  
 Simplify the groupings of related lists on a record page and customize them to your specific needs, assigning meaningful names in the process. This configuration enhances readability and user experience when interacting with the forms.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]

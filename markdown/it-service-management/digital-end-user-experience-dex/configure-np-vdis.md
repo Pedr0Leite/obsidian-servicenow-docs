@@ -40,8 +40,6 @@ Role required: sn-dex-admin
 
 3.  Depending on the tool your organization uses for authentication, modify the authentication steps in the logon and logoff scripts to connect to your persistent storage location.
 
-4.  Create the golden image from the [[reference-for-itsm-mobile-agent|reference]] device and configure the VDI pool to use it.
+4.  Create the golden image from the reference device and configure the VDI pool to use it.
 
-## Related
 
-- [[reference-for-itsm-mobile-agent|Reference]]

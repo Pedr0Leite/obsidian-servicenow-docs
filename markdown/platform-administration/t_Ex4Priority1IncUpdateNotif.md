@@ -24,7 +24,7 @@ Send emails to an assignment group whenever there are updates to an incident in 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[notifications|Notifications]]**, and then click **New**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Notifications**, and then click **New**.
 
 2.  On the email notification form, enter the following values:
 
@@ -165,9 +165,5 @@ Priority ${priority} Incident updated
     6.  Check the email account of the user member in the assignment group.
 
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]

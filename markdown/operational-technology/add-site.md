@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[sites-page|Sites page]].
+1.  Navigate to the Sites page.
 
 2.  Select the add icon\[Omitted image "add-icon-msi.jpg"\] Alt text:.
 
@@ -121,6 +121,3 @@ Role required: admin
 
 The system creates the site and returns you to the Sites page where your new site appears in the list.
 
-## Related
-
-- [[sites-page|Sites page]]

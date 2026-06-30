@@ -31,7 +31,7 @@ Role required: sn\_sre.admin
 
 1.  Configure the properties for the Skill recommendation application.
 
-    For more information, see [[components-wfo-fsm|properties for the Skill Recommendation application]].
+    For more information, see [properties for the Skill Recommendation application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md).
 
 2.  Run the solution definition models such as **Recommend similar skills for cases** or **Recommend skills from similar cases** to train the supervised and unsupervised solutions.
 
@@ -72,6 +72,4 @@ Note that the Skill Recommendation extension point is included with the Skill Re
 
 5.  Click **Update**.
 
-## Related
 
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]

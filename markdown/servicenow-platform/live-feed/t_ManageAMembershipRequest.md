@@ -14,7 +14,7 @@ breadcrumb: [Use teams in Live Feed, Using Live Feed, Live Feed Core UI, Manage 
 
 # Manage a membership request
 
-When a user requests membership to a private team, the team administrator receives an [[email|email]].
+When a user requests membership to a private team, the team administrator receives an email.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ If you are the team administrator, you can manage membership requests.
 
 **Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseTeamsInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]

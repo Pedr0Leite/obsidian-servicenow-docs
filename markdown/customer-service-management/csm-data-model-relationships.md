@@ -12,7 +12,7 @@ breadcrumb: [Overview, Configure Service Model Foundation, Data models, Set up y
 
 # Service Model Foundation relationships
 
-[[configure-data-model-relationships|Create relationships]] between an agent and a customer or between two consumers that provide additional access to [[customer-data|customer data]].
+Create relationships between an agent and a customer or between two consumers that provide additional access to customer data.
 
 With the Service Model Foundation feature, you can create relationships between the following users:
 
@@ -81,7 +81,7 @@ Authorized Representative
 
 </td><td>
 
-[[create-user-consumer-relationship|Create a relationship between two consumers]], regardless of household.
+Create a relationship between two consumers, regardless of household.
 
 </td></tr><tr><td>
 
@@ -98,21 +98,21 @@ Create a relationship between two consumers within a household.
 </td></tr></tbody>
 </table>## Relationships between internal users and customers
 
-Internal users can have relationships with accounts, consumers, and households. These relationships provide internal users with additional access to customer cases and information. An internal user with a relationship to a customer can create and [[manage-cases|manage cases]] on behalf of that customer.
+Internal users can have relationships with accounts, consumers, and households. These relationships provide internal users with additional access to customer cases and information. An internal user with a relationship to a customer can create and manage cases on behalf of that customer.
 
 Relationships are created using responsibilities. Use the following responsibilities to create relationships between internal users and customers:
 
 -   Account Manager: Use this responsibility to create a relationship between a staff member and an account.
 -   Relationship Manager: Use this responsibility to create a relationship between a staff member and a household or a consumer.
 
-Relationships that you create are added to the following related [[migration-lists|lists]]:
+Relationships that you create are added to the following related lists:
 
 -   Account Staff Relationships on the Business Location form
 -   Consumer Staff Relationships on the Business Location form
 -   Household Staff Relationships on the Business Location form
 -   Account Team on the Consumer form
 -   Consumer Team on the Consumer form
--   Household Team on the [[data-model-household-form|Household form]]
+-   Household Team on the Household form
 
 ## Relationships between consumers
 
@@ -138,11 +138,3 @@ When a household is deleted, all the relationships created for the household are
 
 When a consumer stops being a current member of a household, all the relationships created for the consumer within the household are also deleted.
 
-## Related
-
-- [[configure-data-model-relationships|Create relationships]]
-- [[customer-data|Customer data]]
-- [[create-user-consumer-relationship|Create a relationship between two consumers]]
-- [[manage-cases|Manage cases]]
-- [[migration-lists|Lists]]
-- [[data-model-household-form|Household form]]

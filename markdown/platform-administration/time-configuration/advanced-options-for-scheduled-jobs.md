@@ -15,7 +15,7 @@ breadcrumb: [Scheduled jobs, System scheduler, Explore, Time configuration, Conf
 
 # Advanced options for scheduled jobs
 
-Advanced scheduling options for [[c_ScheduledJobs|scheduled jobs]] support greater flexibility in job planning and execution. You can configure jobs to start on a future date, end on a particular date, and define how the job should repeat.
+Advanced scheduling options for scheduled jobs support greater flexibility in job planning and execution. You can configure jobs to start on a future date, end on a particular date, and define how the job should repeat.
 
 When the **Run** field is set to one of the following values, an **Advanced** option displays on the scheduled job form:
 
@@ -78,6 +78,3 @@ If you change the value of the **Repeat every** field to 2, the job runs every 2
 
 [Enable run types for scheduled job child tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/customize-run-times-for-scheduled-jobs.md)
 
-## Related
-
-- [[c_ScheduledJobs|Scheduled jobs]]

@@ -14,7 +14,7 @@ breadcrumb: [Mobile app settings, Using the mobile apps, Mobile Platform]
 
 Access and submit actions to records in your mobile apps, even if you don't have an internet connection.
 
-Plan ahead when you use [[mobile-offline-mode|offline mode]]. If you're working in an area with no internet access, download what you want to work on ahead of time while you're still connected to the internet.
+Plan ahead when you use offline mode. If you're working in an area with no internet access, download what you want to work on ahead of time while you're still connected to the internet.
 
 When you're in offline mode, the changes that you make to your records are logged in your outbox. Your outbox tracks all the actions that you made on your cached records. After your device has internet access, you can synchronize your device with the instance. The cached changes in your outbox update to the instance.
 
@@ -106,11 +106,7 @@ To view the errors in your cached changes, navigate to **Settings** &gt; **Offli
 
 \[Omitted image "offline-mode-user-setting.png"\] Alt text: Offline mode user settings
 
-Enable [[offline-caching-scheduled|scheduled offline caching]] to automatically download your cache according to your work schedule. Scheduled caching works in the background, so you can continue to use the app while the download completes. You can enable or disable this feature in your app settings.
+Enable scheduled offline caching to automatically download your cache according to your work schedule. Scheduled caching works in the background, so you can continue to use the app while the download completes. You can enable or disable this feature in your app settings.
 
 **Note:** To download content only when connected to Wi-Fi, enable the **Wi-Fi only** option.
 
-## Related
-
-- [[mobile-offline-mode|Offline mode]]
-- [[offline-caching-scheduled|Scheduled offline caching]]

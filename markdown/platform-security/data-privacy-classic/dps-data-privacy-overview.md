@@ -14,9 +14,9 @@ breadcrumb: [Data privacy, Data Privacy, Platform Privacy]
 
 # Data privacy overview
 
-The Overview homepage is a starting point to manage your data and [[data-privacy-landing|data privacy]] compliance.
+The Overview homepage is a starting point to manage your data and data privacy compliance.
 
-The [[overview|Overview dashboard]] reports the current state of data classifications and anonymization jobs within your instance. You can view your data with the Overview dashboard to see how much data can be classified, the data classes available, the amount of data in each class, and more.
+The Overview dashboard reports the current state of data classifications and anonymization jobs within your instance. You can view your data with the Overview dashboard to see how much data can be classified, the data classes available, the amount of data in each class, and more.
 
 **Note:** Some classified data is broken into different categories. Selecting a sub-category in any chart will add or remove the category from the overall chart and adjust the counts.
 
@@ -24,15 +24,15 @@ The [[overview|Overview dashboard]] reports the current state of data classifica
 
 ## Basic metrics
 
-You can view several basic privacy [[ca-metrics|metrics]] at the top of the display.
+You can view several basic privacy metrics at the top of the display.
 
 \[Omitted image "dps-basic-metrics.png"\] Alt text: Basic metrics
 
 |Metric|Description|
 |------|-----------|
-|Records anonymized by job|Data in tables and column in the instance anonymized using job and user based anonymization [[ca-policies|policies]].|
+|Records anonymized by job|Data in tables and column in the instance anonymized using job and user based anonymization policies.|
 |Real time records anonymized|Data in transit \(via tables/columns and real-time channels\) to the instance, anonymized using real-time anonymization policies\).|
-|Alert submissions|Notifications provided to [[users|users]] when sensitive data is detected in a field.|
+|Alert submissions|Notifications provided to users when sensitive data is detected in a field.|
 |Blocked submissions|Data entry submissions prevented due to sensitive data blocking policies.|
 |Quarantined attachments|Attachments containing sensitive data that have been isolated from the system for security review.|
 
@@ -49,7 +49,7 @@ Select **View more data** underneath any metric to review it in more detail.
 
 Displays information on data records.
 
-\[Omitted image "dps-data-classification.png"\] Alt text: [[data-classification|Data classification]]
+\[Omitted image "dps-data-classification.png"\] Alt text: Data classification
 
 <table id="table_pd2_sdm_k3c"><thead><tr><th>
 
@@ -80,11 +80,11 @@ Classified data
 -   Provides a quick understanding how much data has been classified in each area.
 
 </td></tr></tbody>
-</table>## [[dps-data-anonymization|Data anonymization]]
+</table>## Data anonymization
 
 You can track anonymization methods applied to protect data.
 
-**Note:** The metrics displayed here apply to real-time anonymization and job-based anonymization when the [data pattern anonymization technique](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-techniques.md) is selected. Both real-time anonymization and data pattern anonymization configurations make use of active data patterns, as defined in **ALL &gt; System Security &gt; [[data-discovery-landing|Data Discovery]] \(Classic\) &gt; Active Data Patterns**.
+**Note:** The metrics displayed here apply to real-time anonymization and job-based anonymization when the [data pattern anonymization technique](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-techniques.md) is selected. Both real-time anonymization and data pattern anonymization configurations make use of active data patterns, as defined in **ALL &gt; System Security &gt; Data Discovery \(Classic\) &gt; Active Data Patterns**.
 
 \[Omitted image "dps-data-anonymization.png"\] Alt text: Data anonymization
 
@@ -120,13 +120,3 @@ You can choose to sort the information with the time dropdown, to any of the fol
 
 For additional information on how to get started securing your instance with data privacy, you can access additional product learning resources about classification or anonymization on the right, including links to videos, documentation, and FAQs.
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[overview|Overview Dashboard]]
-- [[ca-metrics|Metrics]]
-- [[ca-policies|Policies]]
-- [[users|Users]]
-- [[data-classification|Data Classification]]
-- [[dps-data-anonymization|Data anonymization]]
-- [[data-discovery-landing|Data Discovery]]

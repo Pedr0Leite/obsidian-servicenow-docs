@@ -15,7 +15,7 @@ breadcrumb: [Box external content connector, Configure, External Content Connect
 
 # Create a public/private key pair for the Box external content connector
 
-Generate an encrypted private key and a public key for use by the [[box-external-content-connector|Box external content connector]].
+Generate an encrypted private key and a public key for use by the Box external content connector.
 
 ## Before you begin
 
@@ -137,6 +137,3 @@ Provide this encrypted private key file and its password to your connector admin
 </td></tr></tbody>
 </table>**Parent Topic:**[Box external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/box-external-content-connector.md)
 
-## Related
-
-- [[box-external-content-connector|Box external content connector]]

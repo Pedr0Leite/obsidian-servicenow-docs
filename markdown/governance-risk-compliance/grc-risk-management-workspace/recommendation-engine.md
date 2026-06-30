@@ -16,9 +16,9 @@ breadcrumb: [Associate risks, citations, policies, and controls with a risk iden
 
 A recommendation engine is a system that suggests products, services, and information to users based on data analysis. A recommendation engine boosts revenues and other essential metrics.
 
-Recommendations derive from various [[factors|factors]], such as the history of the user and the behavior of similar users. An example of a recommendation engine is a video-sharing website. Based on your viewing history and preferences, the website recommends videos. Some recommendation engines are rule-based. Risk and compliance mapping in GRC uses a rule-based recommendation engine.
+Recommendations derive from various factors, such as the history of the user and the behavior of similar users. An example of a recommendation engine is a video-sharing website. Based on your viewing history and preferences, the website recommends videos. Some recommendation engines are rule-based. Risk and compliance mapping in GRC uses a rule-based recommendation engine.
 
-When using the recommendation engine, the risk manager has to map the [[information-objects|information objects]] with their risk statements, citations, and policies. The key features of the recommendation engine are the following:
+When using the recommendation engine, the risk manager has to map the information objects with their risk statements, citations, and policies. The key features of the recommendation engine are the following:
 
 -   Uses the concept of information objects to recommend the risks and compliances.
 -   Matches the business applications with the risk and compliance libraries by comparing the information objects of the libraries.
@@ -28,7 +28,3 @@ When using the recommendation engine, the risk manager has to map the [[informat
 
 **Parent Topic:**[Associate risks, citations, policies, and controls with a risk identification record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/associate-risks-pols-citations-risk-idenfn.md)
 
-## Related
-
-- [[factors|factors]]
-- [[information-objects|information objects]]

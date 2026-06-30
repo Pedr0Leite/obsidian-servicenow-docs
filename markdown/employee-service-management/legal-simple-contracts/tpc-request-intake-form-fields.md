@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Simple Contracts, Legal Service Delivery Practice 
 
 # Third Party Contract Review form
 
-The Third Party Contract Review form is used to [[submit-legal-request|submit a legal request]] to the legal department to get the third-party contracts reviewed.
+The Third Party Contract Review form is used to submit a legal request to the legal department to get the third-party contracts reviewed.
 
 [Submit a legal request for a third-party contract review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/submit-legal-request-tpc-review.md).
 
@@ -93,6 +93,3 @@ Email address of the point of contact.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Simple Contracts reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-reference.md)
 
-## Related
-
-- [[submit-legal-request|Submit a legal request]]

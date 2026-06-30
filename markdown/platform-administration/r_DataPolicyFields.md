@@ -12,7 +12,7 @@ breadcrumb: [Create a data policy, Data policy, Administer, Field administration
 
 # Data policy fields
 
-These fields appear on the [[c_DataPolicy|Data Policy]] form and related forms.
+These fields appear on the Data Policy form and related forms.
 
 <table id="table_cml_whn_jq"><thead><tr><th>
 
@@ -151,12 +151,7 @@ How the data policy affects the mandatory state of the field. Choices are:
 -   True
 -   False
 
- **Note:** For tables that are in a different scope than the data policy record, you cannot [[t_MakingAFieldMandatory|make a field mandatory]].
+ **Note:** For tables that are in a different scope than the data policy record, you cannot make a field mandatory.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DataPolicy|Data policy]]
-- [[t_MakingAFieldMandatory|Make a field mandatory]]

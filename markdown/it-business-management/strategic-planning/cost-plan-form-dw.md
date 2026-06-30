@@ -14,7 +14,7 @@ breadcrumb: [Forms, Reference, Next Experience for Demand Management in Strategi
 
 # Create cost plan form
 
-The [[demand-plan-form|cost plan form]] information is used to create a cost plan for a demand.
+The cost plan form information is used to create a cost plan for a demand.
 
 <table id="table_m2l_pjp_c3c"><thead><tr><th>
 
@@ -147,7 +147,7 @@ Source
 
 Funding entity value from which you request fund.The field is available when you select a value in the Source type field.
 
-This field appears only if the legacy [[investment-funding-overview|Investment Funding]] \(com.snc.investment\_funding\) plugin is activated or the Investment Funding \(sn\_invst\_pln\) application is installed.
+This field appears only if the legacy Investment Funding \(com.snc.investment\_funding\) plugin is activated or the Investment Funding \(sn\_invst\_pln\) application is installed.
 
 </td></tr><tr><td>
 
@@ -167,8 +167,3 @@ Funding entity type from which you request fund.This field appears only if the l
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[demand-plan-form|Cost plan form]]
-- [[investment-funding-overview|Investment Funding]]

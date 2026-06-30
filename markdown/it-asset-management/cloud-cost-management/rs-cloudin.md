@@ -46,7 +46,7 @@ For pending, rejected, and failed change requests, you can reschedule the resour
 
 ## How Cloud Cost Management generates Rightsizing recommendations
 
-[[cloud-insights-landing-page|Cloud Cost Management]] uses a process that is optimized for each provider.
+Cloud Cost Management uses a process that is optimized for each provider.
 
 -   [Rightsizing analysis for AWS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-how-rs-works-cloudin.md)
 -   [Rightsizing analysis for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/azure-how-rs-works-cloudin.md)
@@ -73,6 +73,3 @@ Each recommendation that the system makes to rightsize a resource has an associa
     -   The current and recommended family/generation are identical.
 -   Low confidence: The current and recommended family/generation are different.
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

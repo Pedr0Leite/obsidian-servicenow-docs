@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for Software Asset Management \(SAM\), Software
 
 # Supporting information for Now Assist for Software Asset Management \(SAM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Software Asset Management \(SAM\) application.
 
 ## Supported versions
 
@@ -34,7 +34,7 @@ Feature
 
 </th></tr></thead><tbody><tr><td>
 
-[[sam-workspace|Software Asset Workspace]]
+Software Asset Workspace
 
 </td><td>
 
@@ -77,7 +77,7 @@ Activate the Now Assist for Software Asset Management \(SAM\) store app \(sn\_no
 
 This store app has the following dependencies:
 
--   [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\)
+-   Software Asset Management Professional \(com.snc.samp\)
 -   Software Asset Workspace \(sn\_sam\_workspace\)
 -   Now Assist for Platform \(sn\_genai\_platform\)
 -   Now Assist AI Agents \(sn\_aia\)
@@ -92,8 +92,3 @@ Activate the applications in the following order:
 
 **Parent Topic:**[Exploring Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/exploring-now-assist-sam.md)
 
-## Related
-
-- [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -14,18 +14,18 @@ breadcrumb: [Define a new planning item type in Strategic Planning, Planning ite
 
 # Create workspace view rules for new planning item forms in Strategic Planning
 
-Define workspace view rules for the form views of new planning item types in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Define workspace view rules for the form views of new planning item types in Strategic Planning.
 
 ## Before you begin
 
 -   [Create form views for new planning item tables in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-form-views-for-planning-item-tables-in-apw.md)
--   Ensure the application scope in your instance is set to [[portfolio-planning-app-landing-page|Portfolio Planning]]
+-   Ensure the application scope in your instance is set to Portfolio Planning
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspace Experience** &gt; **[[form-field-information-for-dw|Forms]]** &gt; **Workspace View Rules**.
+1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Forms** &gt; **Workspace View Rules**.
 
 2.  Select **New**.
 
@@ -46,8 +46,3 @@ Role required: admin
 
 [Enable custom item types in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/enable-custom-item-types-strategic-planning-workspace.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[form-field-information-for-dw|Forms]]

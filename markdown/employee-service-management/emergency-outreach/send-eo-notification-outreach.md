@@ -14,7 +14,7 @@ breadcrumb: [Emergency Outreach, Emergency Response Management, Employee Service
 
 # Send notifications for an emergency
 
-Use [[emergency-outreach|Emergency Outreach]] to notify users to report their health status. Use Emergency Outreach also to quickly notify users of important information if there is an emergency.
+Use Emergency Outreach to notify users to report their health status. Use Emergency Outreach also to quickly notify users of important information if there is an emergency.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Users must have the Now® Mobile app installed on their phones to receive mobile
 
 Note the following requirements to be able to send and receive SMS notifications:
 
--   Your company must have a [[safe-workplace|Safe Workplace]] suite subscription and [[employee-readiness-core|Employee Readiness Core]] installed.
+-   Your company must have a Safe Workplace suite subscription and Employee Readiness Core installed.
 -   Your company must have a Twilio account and phone number.
 -   The Notify plug-in and the Notify-Twilio Direct driver must be enabled.
 -   The Label for your number in **Notify** &gt; **Messages** must be set to **Outreach**.
@@ -37,10 +37,10 @@ Emergency Outreach is available in the ServiceNow Store without a subscription. 
 
 Some of the Safe Workplace suite apps leverage the Emergency Outreach notification feature to communicate with users. The Safe Workplace suite apps provide more flexible functions than using Emergency Outreach as a standalone app.
 
--   [[employee-readiness-surveys|Employee Readiness Surveys]] provides notification with a survey link to assess user readiness to return to the workplace.
--   Employee Readiness Core provides the ability to use Safe Workplace [[ecpro-audience|audiences]] to simplify the selection of recipients for an outreach.
--   [[employee-health-screening|Employee Health Screening]]: Request that users acknowledge their health status verification each day before they can return to the workplace.
--   [[contact-tracing|Contact Tracing]] supports these outreach notification needs:
+-   Employee Readiness Surveys provides notification with a survey link to assess user readiness to return to the workplace.
+-   Employee Readiness Core provides the ability to use Safe Workplace audiences to simplify the selection of recipients for an outreach.
+-   Employee Health Screening: Request that users acknowledge their health status verification each day before they can return to the workplace.
+-   Contact Tracing supports these outreach notification needs:
     -   A scheduled notification for returning users to fill out a daily contact log.
     -   A request to review the organization's privacy policy and provide consent to use their contact tracing data.
 
@@ -88,7 +88,7 @@ Keep the default **Mode** value of **None**. The outreach is sent when you selec
     -   For outreaches that are only sent once, schedule the date and time that you want to send the outreach in the **Starting** field.
 3.  \(Optional\) To send the outreach based on the time zone set in the user profile, select the **Send in local time** check box.
 
-The outreach messages [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] a send time based on the time zone of the user sending the notification. For example, if the sender is in the US Pacific time zone, an outreach scheduled to be sent at 4:30 p.m. shows a send time of 16:30:00 for users in that time zone and 18:30:00 \(6:30 p.m.\) for users in the US Central time zone because the Pacific time zone is two hours earlier than the Central time zone.
+The outreach messages reference a send time based on the time zone of the user sending the notification. For example, if the sender is in the US Pacific time zone, an outreach scheduled to be sent at 4:30 p.m. shows a send time of 16:30:00 for users in that time zone and 18:30:00 \(6:30 p.m.\) for users in the US Central time zone because the Pacific time zone is two hours earlier than the Central time zone.
 
 </td></tr></tbody>
 </table>    **Note:**
@@ -172,7 +172,7 @@ Modify the subject and body as desired. The default message template asks users 
 
 1.  Select the **Now Mobile Push Notification** check box.
 
-The check box is active if the ServiceNow NowMobile App Screens and Applet Launcher \[com.glide.mobile-employee\] is activated. The push [[ec-notification-content|notification content]] appears when the check box is active, and you can modify it.
+The check box is active if the ServiceNow NowMobile App Screens and Applet Launcher \[com.glide.mobile-employee\] is activated. The push notification content appears when the check box is active, and you can modify it.
 
 2.  Modify the push message text as desired.
  Push notifications use the ServiceNow Request Application notification device. When mobile application is registered to an instance, this notification device is automatically created in the user's notification preferences. Ensure that this device is active for the users that you want to receive the push notification.
@@ -226,14 +226,3 @@ Review the Emergency Outreach acknowledgements.
 
 [Send notifications for daily health verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-daily-health-verif-notif-outreach.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[safe-workplace|Safe Workplace]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[ecpro-audience|Audiences]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[contact-tracing|Contact Tracing]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[ec-notification-content|Notification content]]

@@ -86,7 +86,7 @@ Date and time that the rule started to run. For rules that are currently running
 
 If a rule seems to be stuck running for an excessive time:
 
-1.  Go to **Process automation** &gt; **Flow [[Administration|Administration]]** &gt; **Event Queue**.
+1.  Go to **Process automation** &gt; **Flow Administration** &gt; **Event Queue**.
 2.  Find the platform background task with a name that starts with `sn_vdr` or `sn_tprm` that is in the **error** state.
 
 
@@ -111,7 +111,3 @@ State
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[Administration|Administration]]

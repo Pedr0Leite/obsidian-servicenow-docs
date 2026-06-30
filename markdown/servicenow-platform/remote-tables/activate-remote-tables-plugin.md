@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[remote-tables|Remote Tables]] activates these related plugins if they are not already active.
+Remote Tables activates these related plugins if they are not already active.
 
 <table id="table_afh_nxh_5gb"><thead><tr><th>
 
@@ -59,7 +59,7 @@ Supports use of Transform APIs that are associated with the remote tables.
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -71,7 +71,3 @@ Supports use of Transform APIs that are associated with the remote tables.
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[remote-tables|Remote tables]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

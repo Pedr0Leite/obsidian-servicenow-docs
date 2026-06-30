@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector data collection tables
 
-[[acc-landing-page|Agent Client Collector]] performs data collection based on the scoped apps that you've installed. Agent Client Collector Framework performs basic data collection, and Agent Client Collector for Visibility - Content performs enhanced data collection.
+Agent Client Collector performs data collection based on the scoped apps that you've installed. Agent Client Collector Framework performs basic data collection, and Agent Client Collector for Visibility - Content performs enhanced data collection.
 
 The Refresh Host Data for Agents scheduled job collects host data every hour on hosts that haven't had data collection run in the past 12 hours. The job collects the data described in the following tables.
 
@@ -171,6 +171,3 @@ cmdb\_serial\_number
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

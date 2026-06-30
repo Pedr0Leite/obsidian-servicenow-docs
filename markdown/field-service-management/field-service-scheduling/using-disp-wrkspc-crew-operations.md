@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Using Dispatcher Workspace for crew operations
 
-Use the [[dispatcher-activities|Dispatcher Workspace]] to create, modify, and enable crews and assign work order tasks to the crews.
+Use the Dispatcher Workspace to create, modify, and enable crews and assign work order tasks to the crews.
 
 As a dispatcher, you can use Dispatcher Workspace to perform the following activities:
 
@@ -25,6 +25,3 @@ As a dispatcher, you can use Dispatcher Workspace to perform the following activ
 
 **Note:** The drag and drop feature isn’t enabled for the tasks requiring a crew.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

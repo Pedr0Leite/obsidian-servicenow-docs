@@ -14,7 +14,7 @@ breadcrumb: [Setting up HR Service Delivery Playbook, HR Service Delivery Playbo
 
 # Configure HR Service Delivery playbook card
 
-Use Playbook Card Configuration to view and manage what appears for each card in an [[activity-lxp|activity]] set.
+Use Playbook Card Configuration to view and manage what appears for each card in an activity set.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Each activity attempts to show a record \(HR task, HR case, request, and so on\)
 
 The properties from the card configuration record are filled in from the record \(HR task, HR case, request, and so on\).
 
-**Note:** For Classic [[hr-service-delivery|HR Service Delivery]] Agent Workspace and [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]], there are two separate default card configurations and activity overrides. The property **sn\_hr\_agent\_ws.use\_uib\_playbook\_card\_config** \(default value = false\) decides which card configuration is to be used for [[playbook-hr|HR Service Delivery Playbook]] when you have each Agent Workspace installed. By default, the Classic card configuration will be selected in the card configuration.
+**Note:** For Classic HR Service Delivery Agent Workspace and Agent Workspace for HR Case Management, there are two separate default card configurations and activity overrides. The property **sn\_hr\_agent\_ws.use\_uib\_playbook\_card\_config** \(default value = false\) decides which card configuration is to be used for HR Service Delivery Playbook when you have each Agent Workspace installed. By default, the Classic card configuration will be selected in the card configuration.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Playbook Card Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Playbook Card Configuration**.
 
 2.  Fill in the fields on the form.
 
@@ -228,10 +228,4 @@ Works with the **Form fields** and allows you to define an entire section you wa
 </td></tr></tbody>
 </table>3.  Click **Submit** or **Update**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[playbook-hr|HR Service Delivery Playbook]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

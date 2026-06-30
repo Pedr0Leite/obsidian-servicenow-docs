@@ -14,22 +14,17 @@ breadcrumb: [Now Assist for Workplace Service Delivery \(WSD\), Workplace Servic
 
 # Using Now Assist for WSD
 
-Using [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]] for creating a reservation.
+Using Now Assist for Workplace Service Delivery \(WSD\) for creating a reservation.
 
 ## Overview of Now Assist for WSD
 
-Now Assist for Workplace Service Delivery \(WSD\) enhances your ServiceNow® [[workplace-services|Workplace Services]] experience with generative AI capabilities. Enhance the employee experience by using a generative experience to interact with your physical workspace.
+Now Assist for Workplace Service Delivery \(WSD\) enhances your ServiceNow® Workplace Services experience with generative AI capabilities. Enhance the employee experience by using a generative experience to interact with your physical workspace.
 
 It allows employees the following:
 
 -   Reserving a space for meeting
 -   Adding co-workers to a reservation
--   [[adding-visitors|Adding visitors]] or guests to a reservation
+-   Adding visitors or guests to a reservation
 -   Adding a Zoom meeting link for remote joining
 -   Ordering and adding catering services
 
-## Related
-
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]
-- [[workplace-services|Workplace Services]]
-- [[adding-visitors|Adding visitors]]

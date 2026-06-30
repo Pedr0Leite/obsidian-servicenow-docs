@@ -18,9 +18,9 @@ Enable the AI Search Assist Actions to search knowledge articles in the Customer
 
 ## Before you begin
 
-[[t_ActivateCustomerService|Activate Customer Service Management]]
+[Activate Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_ActivateCustomerService.md)
 
-You must [[config_AI_search_csm_csp|configure AI Search for the Customer and Consumer Service Portals]]. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-ais-sp.md).
+You must configure AI Search for the Customer and Consumer Service Portals. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-ais-sp.md).
 
 You must enable the Typeahead Search and AI Search Assist for the authenticated external users to use the AI search feature. For more information on the widgets, see [Typeahead Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/typeahead-search-widget.md) and [AI Search Assist widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/ais-assist-widget.md).
 
@@ -57,7 +57,3 @@ Role required: web\_service\_admin
 
 **Parent Topic:**[AI Search Assist for authenticated external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/enable-ai-search-for-portal-auth-external.md)
 
-## Related
-
-- [[t_ActivateCustomerService|Activate Customer Service Management]]
-- [[config_AI_search_csm_csp|Configure AI Search for the Customer and Consumer Service Portals]]

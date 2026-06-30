@@ -40,7 +40,7 @@ Incident resolution notes are generated from the information that you enter in t
 
 **Note:** To change resolution notes generation from automatic to manual \(requiring user input\), set the trigger for the skill in the Now Assist Admin console.
 
-You can generate incident resolution notes in Core UI and [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can generate incident resolution notes in Core UI and Service Operations Workspace for ITSM.
 
 ## Procedure
 
@@ -143,7 +143,3 @@ In the **Details** tab of the incident, change the state to Resolved. The resolu
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

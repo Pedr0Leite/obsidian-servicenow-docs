@@ -18,7 +18,7 @@ Activate your preferred Dynamic Translation provider and mark it as the default 
 
 ## Before you begin
 
-**Note:** The following content is only relevant to NLU conversations and live agent LLM conversations that use Dynamic Translation for [[ci-use-agent-chat|Agent Chat]].
+**Note:** The following content is only relevant to NLU conversations and live agent LLM conversations that use Dynamic Translation for Agent Chat.
 
 Complete the [prerequisites for using Dynamic Translation in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prereq-using-dt-va.md).
 
@@ -47,6 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

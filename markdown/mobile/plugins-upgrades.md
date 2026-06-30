@@ -12,24 +12,16 @@ breadcrumb: [Before implementation, Configuration detail, Configuring the Mobile
 
 # Mobile plugins and upgrades
 
-Learn about upgrading to ServiceNow mobile, and how to install plugins to get your users started with the ServiceNow [[mobile-config-navigation|mobile platform]].
+Learn about upgrading to ServiceNow mobile, and how to install plugins to get your users started with the ServiceNow mobile platform.
 
--   **[[sg-mobile-plugins|Mobile plugins]]**  
+-   **[Mobile plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-plugins.md)**  
 Learn about the plugins used to enable ServiceNow mobile on your instance.
--   **[[classic-mobile-migration|Migrate from the ServiceNow Classic mobile app to the ServiceNow Mobile Platform]]**  
+-   **[Migrate from the ServiceNow Classic mobile app to the ServiceNow Mobile Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/classic-mobile-migration.md)**  
 Migrate from the Mobile Classic app to the Mobile Platform to take advantage of features such as rapid development, offline capabilities, and native mobile device feature integrations.
--   **[[sg-mobile-migration-ny|Mobile migration from Madrid to New York and later releases]]**  
+-   **[Mobile migration from Madrid to New York and later releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-migration-ny.md)**  
 Migrate your mobile applications in New York or later releases to take advantage of the improved features and continue editing within Studio.
--   **[[mobile-migration-ny-onward|Migration from New York and later releases]]**  
+-   **[Migration from New York and later releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-migration-ny-onward.md)**  
 Learn about migration from the New York to later releases.
 
-**Parent Topic:**[[imp-considerations|Considerations before implementation]]
+**Parent Topic:**[Considerations before implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/imp-considerations.md)
 
-## Related
-
-- [[sg-mobile-plugins|Mobile plugins]]
-- [[classic-mobile-migration|Migrate from the ServiceNow Classic mobile app to the ServiceNow Mobile Platform]]
-- [[sg-mobile-migration-ny|Mobile migration from Madrid to New York and later releases]]
-- [[mobile-migration-ny-onward|Migration from New York and later releases]]
-- [[imp-considerations|Considerations before implementation]]
-- [[mobile-config-navigation|Mobile Platform]]

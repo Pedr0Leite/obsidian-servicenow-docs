@@ -14,7 +14,7 @@ breadcrumb: [Questions and responses in an exploration, Use, AI Data Explorer, N
 
 Generate a deeper level of analysis that can reveal new insights, enabling you to make more informed decisions.
 
-[Extended analysis]() involves aggregating the records related to a response in an [exploration](). It examines the same columns that you see when you view the list of records for the relevant table. It takes a Count of Choice, Reference, and Boolean columns. Therefore, you can influence extended analysis by selecting which fields to view in the relevant tables. The relevant tables include any related tables that [[query-generation|Query Generation]] dot-walks to.
+[Extended analysis]() involves aggregating the records related to a response in an [exploration](). It examines the same columns that you see when you view the list of records for the relevant table. It takes a Count of Choice, Reference, and Boolean columns. Therefore, you can influence extended analysis by selecting which fields to view in the relevant tables. The relevant tables include any related tables that Query Generation dot-walks to.
 
 The number of columns that extended analysis examines is set in the system property **sn\_query\_gen.hidden\_insights.groupby.min\_fields**. The default value is 5. If the number of eligible columns that are visible on the record list is lower than this value, the system searches for more fields on the table. The search stops when the total number of fields from both the list view and the table search reaches the value of the system property. If the system can’t find that many fields, it uses the fields it does find.
 
@@ -34,9 +34,9 @@ Sometimes different questions or follow-up questions return the same extended an
 -   You don't need to posit as many follow-up questions to get the insights you need, because the system drills down automatically, directing you to the interesting part of the data to focus on.
 -   Results are faster, because extended analysis focuses on an increasingly specific subset of the data.
 
-Extended analysis requires the analytics hidden insight skill from Query Generation to be active. For more information, see [[enable-query-generation|Query Generation skills]].
+Extended analysis requires the analytics hidden insight skill from Query Generation to be active. For more information, see [Query Generation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md).
 
-To turn on extended analysis for an exploration, select it in the **Ask Now Assist a question about data** field. You have the same choice when you [[launch-now-assist-explorer|launch AI Data Explorer]] in a data visualization or list.
+To turn on extended analysis for an exploration, select it in the **Ask Now Assist a question about data** field. You have the same choice when you launch AI Data Explorer in a data visualization or list.
 
 \[Omitted image "nowass-expl-extended-vs-standard-analysis.png"\] Alt text: Selecting extended or standard analysis.
 
@@ -59,11 +59,5 @@ Making the same request with extended analysis, you get the same insight plus th
 
 \[Omitted image "nowass-explr-extd-analysis.png"\] Alt text: Resulting insights from an extended analysis of the request to analyze the incident creation trend over the past 12 months.
 
-**Parent Topic:**[[ask-expl-questions|Questions and responses in an exploration]]
+**Parent Topic:**[Questions and responses in an exploration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/ask-expl-questions.md)
 
-## Related
-
-- [[enable-query-generation|Query Generation skills]]
-- [[ask-expl-questions|Questions and responses in an exploration]]
-- [[query-generation|Query Generation]]
-- [[launch-now-assist-explorer|Launch AI Data Explorer]]

@@ -16,7 +16,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 Automatically discover the newly provisioned cloud resources and store their information in the ServiceNow® ServiceNow® Configuration Management Database \(CMDB\) by using pattern-based targeted discovery.
 
-After the cloud provisions the resources mentioned in the resource template, such as Azure Resource Manager \(ARM\) or CloudFormation Template \(CFT\), it sends a response to the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application. The response contains information about the provisioned resources. Cloud Provisioning and Governance uses this information to launch a [[r-discovery|discovery]]—called targeted discovery—to discover only the newly provisioned or modified resources and update their attributes in the appropriate CMDB CI class.
+After the cloud provisions the resources mentioned in the resource template, such as Azure Resource Manager \(ARM\) or CloudFormation Template \(CFT\), it sends a response to the Cloud Provisioning and Governance application. The response contains information about the provisioned resources. Cloud Provisioning and Governance uses this information to launch a discovery—called targeted discovery—to discover only the newly provisioned or modified resources and update their attributes in the appropriate CMDB CI class.
 
 The pattern-based targeted discovery offers an easier alternative to the existing CAPI-based approach. Cloud Provisioning and Governance uses single-resource-discovery patterns to discover only the newly provisioned or modified resources. Contrary to the other patterns, the single-resource-discovery pattern doesn’t scan the entire cloud landscape for changes. It only discovers the newly provisioned or modified resource of a given type.
 
@@ -50,7 +50,7 @@ Define a one-to-one association between the resource type and the single-resourc
 ### Before you begin
 
 -   Ensure that the Cloud Provisioning and Governance application is deployed.
--   Ensure that the latest Discovery and [[c_ServiceMappingOverview|Service Mapping]] is installed.
+-   Ensure that the latest Discovery and Service Mapping is installed.
 -   Ensure that the application scope is Cloud API.
 
 Role required: sn\_cmp.cloud\_service\_designer or sn\_cmp.cloud\_admin
@@ -116,8 +116,4 @@ Dependency sequence
 </td></tr></tbody>
 </table>4.  Select **Update**.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -22,7 +22,7 @@ A playbook takes a workflow and breaks it into multiple stages. Each stage inclu
 -   Status indicators that display the current state of each activity or step.
 -   Check boxes and counters that indicate where an agent is in the workflow.
 
-The following image illustrates the [[appointment-booking|Appointment Booking]] Playbook workflow created using a playbook.
+The following image illustrates the Appointment Booking Playbook workflow created using a playbook.
 
 ## Playbooks for the ServiceNow Agent
 
@@ -48,6 +48,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 [Configuring Playbooks for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/configuring-playbooks-fsm.md)
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

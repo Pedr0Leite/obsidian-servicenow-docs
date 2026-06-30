@@ -14,9 +14,9 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Using value templates
 
-Use value templates to define, calculate, and track the value delivered by your [[ai-system|AI systems]] and models.
+Use value templates to define, calculate, and track the value delivered by your AI systems and models.
 
-Value templates introduces a unified and structured framework for defining, calculating, and tracking the value delivered by your [[ai-assets|AI assets]]. You can define value based on personas and formulas using customizable templates.
+Value templates introduces a unified and structured framework for defining, calculating, and tracking the value delivered by your AI assets. You can define value based on personas and formulas using customizable templates.
 
 Value templates offer the following benefits.
 
@@ -59,8 +59,3 @@ Daily AI agent invocations \(Usage\) x 15 mins \(Time\) x 50% \(Acceptance rate\
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-system|AI systems]]
-- [[ai-assets|AI assets]]

@@ -22,7 +22,7 @@ Role required:sn\_process\_mining\_admin, sn\_process\_mining\_power\_user, or s
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[process-mining|Process Mining]]** &gt; **Process Configurations**.\[Omitted image "rca-configure.png"\] Alt text: [[auto-rca|Automated root cause analysis]] form
+1.  Navigate to **All** &gt; **Process Mining** &gt; **Process Configurations**.\[Omitted image "rca-configure.png"\] Alt text: Automated root cause analysis form
 
 2.  Open the process configuration for which you want to configure the automated root cause analysis.
 
@@ -39,7 +39,3 @@ Automated root cause analysis is configured for the table.
 
 **Parent Topic:**[Automated root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/auto-rca.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[auto-rca|Automated root cause analysis]]

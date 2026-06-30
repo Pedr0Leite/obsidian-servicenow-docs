@@ -25,9 +25,9 @@ An asset bundle comprises consumable and hardware assets.
 |Logitech mouse PB567VT|consumable|
 |Apple keyboard MT65021R|consumable|
 
-Asset bundles are based on [[c_CreatingBundledModels|bundled models]]. A bundled model is a grouping of [[c_Models|models]]. For more information on bundled models, see [Bundled models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_CreatingBundledModels.md).
+Asset bundles are based on bundled models. A bundled model is a grouping of models. For more information on bundled models, see [Bundled models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_CreatingBundledModels.md).
 
-Existing assets from [[c_Stockrooms|stockrooms]] are used to create an asset bundle. Only assets that are in the **In stock** status and **Available** substatus are added to an asset bundle. If you want to exclude any assets, you must remove the asset from the bundle. For more information about asset exclusion, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md). Assets that are part of an asset bundle aren’t available as individual assets. No CIs are associated with an asset bundle.
+Existing assets from stockrooms are used to create an asset bundle. Only assets that are in the **In stock** status and **Available** substatus are added to an asset bundle. If you want to exclude any assets, you must remove the asset from the bundle. For more information about asset exclusion, see [Hardware Asset Management license exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-license-exclusion.md). Assets that are part of an asset bundle aren’t available as individual assets. No CIs are associated with an asset bundle.
 
 An asset bundle goes through the entire asset life cycle. From building an asset bundle, allocating the bundle to a user, moving it to a state of maintenance if assets need repair, and finally retiring the bundle when its purpose is fulfilled.
 
@@ -39,17 +39,9 @@ You can retire an asset bundle and release all the assets belonging to the bundl
 
 Assets belonging to a bundle are excluded from sourcing, transfer orders, and disposal orders flows.
 
-**Important:** [[reclaim-asset|Asset reclamation]] supports hardware and [[c_ReceiveAConsumableAsset|consumable assets]]. Asset bundles and pallets aren't supported by default and require customization of the reclamation flow and request to handle these asset classes.
+**Important:** Asset reclamation supports hardware and consumable assets. Asset bundles and pallets aren't supported by default and require customization of the reclamation flow and request to handle these asset classes.
 
 For more information on creating asset bundles, see [Manage asset bundles from your inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-bundled-assets.md).
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[c_CreatingBundledModels|Bundled models]]
-- [[c_Models|Models]]
-- [[c_Stockrooms|Stockrooms]]
-- [[reclaim-asset|Asset reclamation]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

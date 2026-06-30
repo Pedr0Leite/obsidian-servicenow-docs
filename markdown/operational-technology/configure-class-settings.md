@@ -12,7 +12,7 @@ breadcrumb: [SGC Central, Service Graph Connector for ServiceNow Operational Tec
 
 # Configure classification settings in SGC Central
 
-In [[sgc-central-for-ot-discovery|SGC Central]], you can configure the Service Graph Connector for ServiceNow OT Discovery classifications settings to define how OT Discovery categories are mapped to the CMDB classes.
+In SGC Central, you can configure the Service Graph Connector for ServiceNow OT Discovery classifications settings to define how OT Discovery categories are mapped to the CMDB classes.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  When you select Continue in the [[sgcc-configure-and-test-connection|Configure and test connections]] step, the Configure classification settings step opens.
+1.  When you select Continue in the Configure and test connections step, the Configure classification settings step opens.
 
 2.  Review the classification settings.
 
@@ -91,7 +91,4 @@ For OT devices, you can select the OT device type to apply the device type to th
 </td></tr></tbody>
 </table>8.  Select **Continue** to move to the next step.
 
-## Related
 
-- [[sgc-central-for-ot-discovery|SGC Central]]
-- [[sgcc-configure-and-test-connection|Configure and test connections]]

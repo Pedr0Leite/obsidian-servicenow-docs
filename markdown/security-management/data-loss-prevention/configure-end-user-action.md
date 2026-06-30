@@ -116,7 +116,7 @@ Conditions in the condition builder. These conditions are based on the DLP incid
 **Note:** The conditions in the condition builder are case sensitive.
 
 </td></tr></tbody>
-</table>    The following example shows the end-user action configuration for an endpoint. The condition requires the scan source to be an endpoint file system that then triggers this end-user action configuration. The [[mapping-logrhythm|mapping]] shows that the report wrong owner, report false positive, and deleted file are the response options available to the end user.
+</table>    The following example shows the end-user action configuration for an endpoint. The condition requires the scan source to be an endpoint file system that then triggers this end-user action configuration. The mapping shows that the report wrong owner, report false positive, and deleted file are the response options available to the end user.
 
 4.  In the **Response Option Mappings** section, click **New**.
 
@@ -191,7 +191,7 @@ Option to determine the user roles to show the response options for.You can choo
 
 [Create email templates]()
 
-[Create a [[dlp-landing|Data Loss Prevention Incident Response]] SLA trigger]()
+[Create a Data Loss Prevention Incident Response SLA trigger]()
 
 [Create a Data Loss Prevention Incident Response SLA definition]()
 
@@ -217,7 +217,3 @@ Option to determine the user roles to show the response options for.You can choo
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

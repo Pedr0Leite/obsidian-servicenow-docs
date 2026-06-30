@@ -14,7 +14,7 @@ breadcrumb: [Configure, Enterprise Asset Management, IT Asset Management]
 
 # Create a site in the Enterprise Asset Management application
 
-Create a site for asset groups in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+Create a site for asset groups in the Enterprise Asset Management application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ For detailed information on what sites are and how are they used in asset groups
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate** &gt; **Asset groups**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Enterprise asset estate** &gt; **Asset groups**.
 
 2.  Select **Sites**.
 
@@ -187,7 +187,4 @@ Current operational status of the entity:-   **Operational**: Entity that is ful
 
     The newly created site appears in the Sites tab.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

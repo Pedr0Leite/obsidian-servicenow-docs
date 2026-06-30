@@ -14,8 +14,5 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage and monitor hardware asset performance
 
-Configure settings for asset KPI tracking and monitor asset KPIs using performance reports in the [[using-ham-workspace|Hardware Asset Workspace]].
+Configure settings for asset KPI tracking and monitor asset KPIs using performance reports in the Hardware Asset Workspace.
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

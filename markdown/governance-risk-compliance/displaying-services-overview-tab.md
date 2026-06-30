@@ -12,13 +12,13 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Show Business services overview tab in Workspace view
 
-Starting with Release 20.1.x, the **Services overview** and **Business services overview** tabs are displayed on the landing page of the [[grc-opres-landing-page|Operational Resilience]] Workspace. Administrators or UI Builder administrators can show or hide one of these tabs from the Workspace view based on organizational needs.
+Starting with Release 20.1.x, the **Services overview** and **Business services overview** tabs are displayed on the landing page of the Operational Resilience Workspace. Administrators or UI Builder administrators can show or hide one of these tabs from the Workspace view based on organizational needs.
 
 ## Showing the Business services overview tab
 
 To show the **Business services overview** tab and hide the **Services overview** tab, UI Builder administrators can open the **Settings** tab in the UI Builder and choose **Hide tab** as shown in the example.
 
-\[Omitted image "hide-services-overview-tab.png"\] Alt text: Hiding the [[ser-ov|Services overview tab]].
+\[Omitted image "hide-services-overview-tab.png"\] Alt text: Hiding the Services overview tab.
 
 Once the settings are saved, the **Business services overview** tab is displayed and the **Services overview** tab is hidden from the landing page.
 
@@ -26,7 +26,7 @@ Once the settings are saved, the **Business services overview** tab is displayed
 
 To show the **Services overview** tab and hide the **Business services overview** tab, UI Builder administrators can open the **Settings** tab in the UI Builder and deselect the **Active** flag \(mark it as inactive\) as shown in the example.
 
-\[Omitted image "hide-b-services-overview-tab.png"\] Alt text: Hiding the [[bs-ov|Business services overview tab]].
+\[Omitted image "hide-b-services-overview-tab.png"\] Alt text: Hiding the Business services overview tab.
 
 Once the settings are saved, the **Services overview** tab is displayed and the **Business services overview** tab is hidden from the landing page.
 
@@ -39,8 +39,3 @@ For more information, see the following reference links:
 -   [UIB setup for tabs](https://developer.servicenow.com/dev.do#!/reference/next-experience/xanadu/now-components/now-uxf-tab-set/uib-setup)
 -   [Community article on displaying a component in UI Builder](https://www.servicenow.com/community/next-experience-articles/practical-uib-examples-hide-a-container-component-based-on-the/ta-p/2331910)
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[ser-ov|Services overview tab]]
-- [[bs-ov|Business services overview tab]]

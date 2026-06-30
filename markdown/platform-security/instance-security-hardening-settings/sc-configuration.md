@@ -16,7 +16,7 @@ breadcrumb: [Hardening settings, Platform Security]
 
 The Configuration category ensures applications have a secure build environment and hardened third party library components. Specifically, ensuring a build and deploy pipeline is repeatable and includes automated testing and prevents known security issues from being deployed. This includes keeping dependencies up to date and free from known vulnerabilities.
 
--   **[Auto set content type options \[Removed in [[sec-center-v2|Security Center]] 1.3.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-auto-set-content-type-options.md)**  
+-   **[Auto set content type options \[Removed in Security Center 1.3.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-auto-set-content-type-options.md)**  
 Configure the Auto set content type options property on your instance to prevent MIME confusion attacks.
 -   **[Cache-Control HTTP Header Value \[Updated in Security Center 1.3 and removed in 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-cache-control-http-header-value.md)**  
 Use the **glide.http.cache\_control** property to set the default cache-control value in the HTTP response headers that the ServiceNow AI Platform sends when requesting static content data for a page. Examples of static content include images, CSS, and JavaScript rendered from within, for a page.
@@ -39,7 +39,7 @@ Use the **glide.security.diag\_txns\_acl** property to control stats.do, threads
 -   **[Enforce secure referrer policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-secure-referrer-policy.md)**  
 Use the **com.glide.security.referrerpolicy** property to ensure that the Referrer-Policy HTTP header sends the appropriate level of data to each ServiceNow® page to help prevent data leaks.
 -   **[Ensure minimum private key size](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-ensure-minimum-private-key-size.md)**  
-Use a system property to determine the minimum size of the private key used for Certificate Signing [[c_requestAPI|Request]] \(CSR\) generation with the Certificate Inventory Management application.
+Use a system property to determine the minimum size of the private key used for Certificate Signing Request \(CSR\) generation with the Certificate Inventory Management application.
 -   **[Implement the x-frame-options: SAMEORIGIN security header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-x-frame-options-sameorigin.md)**  
 Use the **glide.set\_x\_frame\_options** property to set the X-Frame-Options response header to SAMEORIGIN for all UI pages.
 -   **[Require write access to access service catalog add item page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-require-write-access-to-access-service-catalog-add-item-page.md)**  
@@ -49,7 +49,3 @@ Configure this property to prevent the content of a web-application from being e
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[c_requestAPI|request]]

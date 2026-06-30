@@ -14,17 +14,17 @@ breadcrumb: [OAuth authorization code grant flow, Old Inbound integrations exper
 
 # Authorize access to an OAuth endpoint using auth code flow
 
-End [[users|users]] who own a protected resource on the ServiceNow instance must authorize access to the resource before the instance can provide the access token.
+End users who own a protected resource on the ServiceNow instance must authorize access to the resource before the instance can provide the access token.
 
 ## Before you begin
 
-Role required: none. You must already be logged in to the instance that holds the protected resource. Alternatively, you can log in using the [[c_Authentication|authentication]] method \(such as [[mfa-landing|multi-factor authentication]] or [[c_SAML2.0WebBrowserSSOProfile|SAML]]\) that your ServiceNow administrator already set up.
+Role required: none. You must already be logged in to the instance that holds the protected resource. Alternatively, you can log in using the authentication method \(such as multi-factor authentication or SAML\) that your ServiceNow administrator already set up.
 
 ## Procedure
 
 1.  Click the link or button on the client application where you are requesting access to the protected resource on the instance.
 
-    This kicks off the token [[c_requestAPI|request]]. If you are making a REST call from one instance to another, this link is **Get [[oauth-inbound-and-outbound|OAuth]] Token** on the REST Message form.
+    This kicks off the token request. If you are making a REST call from one instance to another, this link is **Get OAuth Token** on the REST Message form.
 
 2.  If you are not logged in, log in now.
 
@@ -40,11 +40,4 @@ Role required: none. You must already be logged in to the instance that holds th
 
     A message that confirms access should appear. If you are requesting access from the REST Message form on an instance, the following message appears at the top of the form: OAuth Refresh token is available and will expire at \{date\}.
 
-## Related
 
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]

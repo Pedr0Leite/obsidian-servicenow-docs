@@ -16,7 +16,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 Convert any multiple-character search keyword to its stem form to find derived versions of the word.
 
-Stemming removes a variety of common word inflections, such as plurals and past tense forms. Zing treats all words with a common stem as [[synonyms-ais|synonyms]] of the original search term. Stemming doesn't apply to searches involving single-character words such as Chinese and Japanese pictograms.
+Stemming removes a variety of common word inflections, such as plurals and past tense forms. Zing treats all words with a common stem as synonyms of the original search term. Stemming doesn't apply to searches involving single-character words such as Chinese and Japanese pictograms.
 
 Zing uses the [Porter Stemming Algorithm](https://tartarus.org/martin/PorterStemmer/), which is most effective for English text, but supports stemming in these languages.
 
@@ -37,7 +37,7 @@ The stemming language determines how the system generates indexes of record data
 
 [Global search finds records from multiple tables]()
 
-[Zing generates search [[hs-results|results]] in four phases]()
+[Zing generates search results in four phases]()
 
 [Zing filters search results with access controls]()
 
@@ -47,17 +47,11 @@ The stemming language determines how the system generates indexes of record data
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[synonyms-ais|Synonyms]]
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

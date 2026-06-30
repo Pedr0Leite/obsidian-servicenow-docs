@@ -25,20 +25,20 @@ Not all visualizations support all output types. Some export options shown in th
 
 | |Supported data visualization export formats|
 |---|-------------------------------------------|
-|Calendar reports, Indicator scorecards, [[c_PivotTables|Pivot tables]], Geomap|None|
+|Calendar reports, Indicator scorecards, Pivot tables, Geomap|None|
 |Lists|PDF, Microsoft Excel \(.xls or .xlsx\), Embedded LIST, CSV|
 |Other data visualizations|PowerPoint, PDF, PNG, JPEG, Embedded PNG|
-|Non-data visualization [[dashboard-elements|dashboard elements]], like Headings|Not applicable|
+|Non-data visualization dashboard elements, like Headings|Not applicable|
 
 Data visualizations exported to PowerPoint include the title and the description if this information is provided in the source visualization.
 
 **Note:**
 
-If you have any Now Assist applications installed, you can probably export a dashboard conversationally through the Now Assist panel. See [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]].
+If you have any Now Assist applications installed, you can probably export a dashboard conversationally through the Now Assist panel. See [Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select the visualization that you want to export.
 
@@ -89,12 +89,5 @@ Choose Portrait or Landscape. Not available when exporting to Microsoft PowerPoi
         **Note:** To send email to persons who are not on your instance, make sure outbound email is configured. See [Outbound Email Configuration](https://developer.servicenow.com/dev.do#!/learn/courses/xanadu/app_store_learnv2_automatingapps_xanadu_automating_application_logic/app_store_learnv2_automatingapps_xanadu_notifications/app_store_learnv2_automatingapps_xanadu_outbound_email_configuration) in the Developer Site.
 
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_PivotTables|Pivot tables]]
-- [[dashboard-elements|Dashboard elements]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

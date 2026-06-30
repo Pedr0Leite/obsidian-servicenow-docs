@@ -15,7 +15,7 @@ breadcrumb: [SAP DMS external content connector, Configure, External Content Con
 
 # Create a subaccount in the SAP Business Technology Platform \(BTP\)
 
-Create a subaccount with required entitlements in your SAP global account using the SAP BT cockpit. You need this subaccount in order to configure SAP access for the [[sap-dms-external-content-connector|SAP DMS external content connector]].
+Create a subaccount with required entitlements in your SAP global account using the SAP BT cockpit. You need this subaccount in order to configure SAP access for the SAP DMS external content connector.
 
 ## Before you begin
 
@@ -120,6 +120,3 @@ Now that you've created a subaccount with the required entitlements, go on to co
 
 **Parent Topic:**[SAP DMS external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/sap-dms-external-content-connector.md)
 
-## Related
-
-- [[sap-dms-external-content-connector|SAP DMS external content connector]]

@@ -100,7 +100,7 @@ Model weights info
 
 </td><td>
 
-Additional model information if available. For example, Refer to weights and biases project.**Note:** This information is mostly applicable for [[ai-model-airc|AI models]] developed within the organization.
+Additional model information if available. For example, Refer to weights and biases project.**Note:** This information is mostly applicable for AI models developed within the organization.
 
 </td></tr><tr><td>
 
@@ -171,7 +171,7 @@ Performance measurement results used to assess the AI model's effectiveness duri
 
 </td></tr><tr><td>
 
-Training [[dataset-airc|datasets]]
+Training datasets
 
 </td><td>
 
@@ -208,7 +208,3 @@ Description of the Hardware and software resources needed to deploy and run the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Request an AI model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-model.md)
 
-## Related
-
-- [[ai-model-airc|AI models]]
-- [[dataset-airc|Datasets]]

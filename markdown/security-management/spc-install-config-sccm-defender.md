@@ -50,7 +50,7 @@ Roles required:
 
 ## Procedure
 
-1.  To [[configure-cortex-xsiam-siem|install and configure]] the Service Graph Connector for Microsoft SCCM integration, follow these steps:
+1.  To install and configure the Service Graph Connector for Microsoft SCCM integration, follow these steps:
 
     **Note:** If you have installed the Service Graph Connector for Microsoft SCCM integration, proceed to step 2 to configure the Microsoft Defender Mitigation Control Integration.
 
@@ -122,6 +122,4 @@ Roles required:
 
     The configuration page should look like the screen in the following image.\[Omitted image "spc-api-integration-sccm.png"\] Alt text: SPC API Integrations page after successful configuration of Microsoft SCCM
 
-## Related
 
-- [[configure-cortex-xsiam-siem|Install and Configure]]

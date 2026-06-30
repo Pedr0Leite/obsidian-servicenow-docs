@@ -18,21 +18,21 @@ Create a navigation function that directs to a screen or launcher screen.
 
 Role required: admin
 
-[[mobile-nav-functions|Navigation functions]] enable you to define simple ways for end users to navigate within the [[mobile-config-navigation|mobile platform]]. For example, navigating to a record from a field on another record. Before you create a navigation function, you should have a source and a destination for your navigation.
+Navigation functions enable you to define simple ways for end users to navigate within the mobile platform. For example, navigating to a record from a field on another record. Before you create a navigation function, you should have a source and a destination for your navigation.
 
 ## About this task
 
-In the following steps you create a navigation function to direct your users to an existing screen or launcher. You will need to have an existing screen or screen launcher to use as a destination for this function. For detail on creating screen launchers, see [[sg-mobile-applet-launcher|Launcher screens]].
+In the following steps you create a navigation function to direct your users to an existing screen or launcher. You will need to have an existing screen or screen launcher to use as a destination for this function. For detail on creating screen launchers, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Functions** category, and then select **New**.
 
@@ -86,7 +86,7 @@ Available offline
 
 </td><td>
 
-Option to determine whether the navigation function will be available in [[mobile-offline-mode|Offline mode]].
+Option to determine whether the navigation function will be available in Offline mode.
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Button attributes
 Specifies an additional attribute for a button. Select **New** to configure this option. You can select from the following button attributes:
 
  -   **alerts\_require\_dismissal**: The button attribute when set to true enables the banner messages to persist until the user dismisses it. By default, banner messages are automatically dismissed.
--   **used\_for\_deeplink**: The button attribute when set to true determines that the button is used for deep linking. For more information, see [[deep-link-mobile|Deep linking for mobile]].
+-   **used\_for\_deeplink**: The button attribute when set to true determines that the button is used for deep linking. For more information, see [Deep linking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/deep-link-mobile.md).
 -   **trigger\_offline\_cache\_download**: The button attribute when set to true triggers offline cache generation. After the cache is successfully generated, a download of it is triggered.
 -   **check\_acl\_on\_url\_parameter\_field**: When this button attribute is selected and set to true, any field in the URL string, is checked against the ACL \(access control list\). For example, a string like `{{meeting_id}}`. If a field does not pass this check, the field value is not included in the URL. By default, the URL parameter field is not checked against the ACL for backward compatibility.
 
@@ -224,15 +224,5 @@ UI parameters for the source screen.**Note:** Displays only if the redirection p
 </table>6.  Select **Save**.
 
 
-**Parent Topic:**[[sg-launcher-nav-example|Configure navigation to a launcher screen]]
+**Parent Topic:**[Configure navigation to a launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-launcher-nav-example.md)
 
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[deep-link-mobile|Deep linking for mobile]]
-- [[sg-launcher-nav-example|Configure navigation to a launcher screen]]
-- [[mobile-nav-functions|Navigation functions]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[mobile-offline-mode|Offline mode]]

@@ -34,7 +34,7 @@ The hermes\_admin is required to view the Hermes Usage Dashboard.
 
 ## Accessing the Hermes Usage Dashboard
 
-View usage by navigating to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Usage Dashboard**.
+View usage by navigating to **All** &gt; **Hermes Messaging Service** &gt; **Usage Dashboard**.
 
 ## Use cases
 
@@ -86,7 +86,7 @@ Topics with the prefix \[Internal\] are for applications used only by ServiceNow
 |--------------|-------------------|------------|--------------------|
 |All|All|Two roll-up rows: one for external topics \(\*All Topics\*\), one for internal topics \(“\[Internal\]\*All Topics\*”\).|Quickly compare total data usage for external integrations and internal ServiceNow workflows organization-wide.|
 |All|INSTANCE\_ALL\_TOPICS|Roll-up plus individual topic rows for all topics \(external + internal\) across the organization.|Identify which specific topics are driving the most data usage while still seeing the aggregate totals.|
-|All|\*All Topics\*|External topics roll-up per application \(topics without \[Internal\] prefix\), grouped by app.|Compare external integration usage across different applications \(for example, Stream [[c_Connect|Connect]], Log Export Service\).|
+|All|\*All Topics\*|External topics roll-up per application \(topics without \[Internal\] prefix\), grouped by app.|Compare external integration usage across different applications \(for example, Stream Connect, Log Export Service\).|
 |All|\[Internal\]All Topics|Internal topics roll-up per application \(topics with \[Internal\] prefix\), grouped by app.|Monitor internal ServiceNow data flows across applications \(for example, IDR internal topics\).|
 |Specific App|Any topic option|Usage for topics related to that application, based on the topic filter selected.|Focus on data usage for a particular application \(for example, view Log Export Service topic usage\).|
 
@@ -107,7 +107,3 @@ Topics with the prefix \[Internal\] are for applications used only by ServiceNow
 
 [View Hermes Messaging Service log messages]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]

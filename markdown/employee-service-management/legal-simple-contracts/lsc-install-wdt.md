@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Simple Contracts, Legal Service Delivery Practice 
 
 # Activate Word Document Templates
 
-You can activate the [[cncore-expl-wdt|Word Document Templates]] plugin \(sn\_doc\_word\) if you have the admin role. The application activates related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Word Document Templates plugin \(sn\_doc\_word\) if you have the admin role. The application activates related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## About this task
 
@@ -38,6 +38,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[cncore-expl-wdt|Word Document Templates]]

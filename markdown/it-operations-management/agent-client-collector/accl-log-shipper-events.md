@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Log Analytics setup, ACC deployment - server
 
 # View log shipper events
 
-View all log shipper events with all severity levels for [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) agents.
+View all log shipper events with all severity levels for Agent Client Collector Log Analytics \(ACC-L\) agents.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-The ACC Events list shows all log shipper-related events in one place. The list only includes events about the success or failure of log shipper execution on a CI on a specific agent. These events are a subset of the events shown in the [[c_EM|Event Management]] Events list, which includes events of all types.
+The ACC Events list shows all log shipper-related events in one place. The list only includes events about the success or failure of log shipper execution on a CI on a specific agent. These events are a subset of the events shown in the Event Management Events list, which includes events of all types.
 
 ## Procedure
 
@@ -40,7 +40,3 @@ The ACC Events list shows all log shipper-related events in one place. The list 
 
 [View log shipper alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-log-shipper-alerts.md)
 
-## Related
-
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[c_EM|Event Management]]

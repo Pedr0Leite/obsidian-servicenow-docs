@@ -26,7 +26,7 @@ Role required: sys\_admin
 
 2.  In the search box, enter `sn_clin`.
 
-3.  Find the **[[cloud-insights-landing-page|Cloud Cost Management]]** app.
+3.  Find the **Cloud Cost Management** app.
 
 4.  In the selection list, select **Update** for version **9.0**.
 
@@ -36,6 +36,4 @@ Role required: sys\_admin
 
 6.  Clear the server cache: `<instanceIP>/cache.do`
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]

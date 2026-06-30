@@ -20,33 +20,25 @@ Role required: sn\_prm.partner\_ui
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[partner-relationship-management|Partner Relationship Management]]** &gt; **Program Segments**.
+1.  Navigate to **All** &gt; **Partner Relationship Management** &gt; **Program Segments**.
 
 2.  Open a program from the list.
 
 3.  From the **Program Segment Criteria** related list, select **New**.
 
-4.  On the form, fill in the [[fields|fields]].
+4.  On the form, fill in the fields.
 
-    To learn more about the fields and descriptions, see [[program-segment-criteria-table-fields|Program segment criteria table fields]].
+    To learn more about the fields and descriptions, see [Program segment criteria table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/program-segment-criteria-table-fields.md).
 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
+**Parent Topic:**[Data model for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[configure-program-segment-mapping|Configure Program Segment Mapping]]
+[Configure Program Segment Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-segment-mapping.md)
 
-[[configure-program-criteria|Configure Program Criteria]]
+[Configure Program Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-program-criteria.md)
 
-## Related
-
-- [[program-segment-criteria-table-fields|Program segment criteria table fields]]
-- [[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
-- [[configure-program-segment-mapping|Configure Program Segment Mapping]]
-- [[configure-program-criteria|Configure Program Criteria]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[fields|Fields]]

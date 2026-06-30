@@ -18,7 +18,7 @@ Enable and define the AI Search experience in your portal.
 
 ## Before you begin
 
-AI Search is only supported in [[c_ServicePortal|Service Portal]], Employee Center \(ESC\), Consumer Service Portal, Business Portal and Customer Service Portal. Custom portals must be built off a baseline of one of these portals to have the AI Search capability. The **glide.service\_portal.enable\_ais\_portal.allow\_list** property contains a list of supported baseline portals.
+AI Search is only supported in Service Portal, Employee Center \(ESC\), Consumer Service Portal, Business Portal and Customer Service Portal. Custom portals must be built off a baseline of one of these portals to have the AI Search capability. The **glide.service\_portal.enable\_ais\_portal.allow\_list** property contains a list of supported baseline portals.
 
 Role required: sp\_admin or admin
 
@@ -63,11 +63,7 @@ To use AI Search for knowledge articles, you can keep the default **Knowledge Ba
 
 ## What to do next
 
-[[search-widgets|Search widgets]] that you cloned or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reclassify-search-widgets.md).
+Search widgets that you cloned or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reclassify-search-widgets.md).
 
 **Parent Topic:**[AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ai-search.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[search-widgets|Search widgets]]

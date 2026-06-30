@@ -16,7 +16,7 @@ breadcrumb: [Input variable movement, Workflow administration, Classic Workflow,
 
 Update sets manage the published state of all versions of a workflow prior to committing the workflow version on a local instance.
 
-The last version of a workflow committed as an Insert or Update using an update set becomes the currently published version, regardless of the publishing sequence for the [[c_WorkflowVersions|workflow versions]].
+The last version of a workflow committed as an Insert or Update using an update set becomes the currently published version, regardless of the publishing sequence for the workflow versions.
 
 **Parent Topic:**[Input variable movement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_InputVariableMovement.md)
 
@@ -79,6 +79,4 @@ Update Set B is migrated and committed to the production instance.
 
     The workflow has gone back a version, perhaps unintentionally. The regressed version becomes the currently published version.
 
-## Related
 
-- [[c_WorkflowVersions|Workflow versions]]

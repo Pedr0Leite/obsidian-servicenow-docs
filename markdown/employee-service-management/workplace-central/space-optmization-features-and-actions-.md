@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Central, Workplace Service Delivery, Employee 
 
 # Space Optimization - Key features and actions
 
-As a space planner, you can perform multiple scenario-related actions using the [[space-optimization|Space Optimization]] module. You can [[create-multi-building-scenario|create a scenario]] using the stack plan and view it on a floor map and make changes directly.
+As a space planner, you can perform multiple scenario-related actions using the Space Optimization module. You can create a scenario using the stack plan and view it on a floor map and make changes directly.
 
 \[Omitted image "workplace-central-homepage.png"\] Alt text: Space Optimization homepage.
 
@@ -29,7 +29,7 @@ You can create a scenario, track the scenario metrics, view scenario details, an
     You can select a scenario or building to view more details.
 
 
-You can also view scenarios created by you in the [[scenario-planning|Scenario planning]] application. Navigate to **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**.
+You can also view scenarios created by you in the Scenario planning application. Navigate to **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**.
 
 ## Scenario metrics
 
@@ -65,7 +65,7 @@ When you select a building, the building is opened in a stack plan view where yo
 
 -   The details of the building such as its total capacity, total number of spaces, and location are displayed on top of the plan.
 -   You can see the total number of unallocated spaces of the building in total as well as floor-wise.
--   You can view the building details in a stack plan view or a floor map view. The floor map view is available only if you have Workplace [[Indoor-mapping|Indoor Mapping]] floor maps configured. The floor map view enables you to view the allocation on a floor map and make any changes directly.
+-   You can view the building details in a stack plan view or a floor map view. The floor map view is available only if you have Workplace Indoor Mapping floor maps configured. The floor map view enables you to view the allocation on a floor map and make any changes directly.
 -   You can view the spaces allocated to a department, cost center, or workplace entity in the stack plan or on the floor map. You can choose how you want to view the allocations. Select a view using the **View by** option.
 -   You can select a bar on the stack plan or a space on the floor map to view more details, such as capacity count, capacity ratio, and total capacity. You can also select a bar to view the same details in a tooltip. Select a bar to to display details related to assignments and the department.
 -   You can view other scenarios related to the building in the **Related scenarios** tab.
@@ -109,9 +109,3 @@ When you select a building, the building is opened in a stack plan view where yo
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[scenario-planning|Scenario Planning]]
-- [[Indoor-mapping|Indoor Mapping]]

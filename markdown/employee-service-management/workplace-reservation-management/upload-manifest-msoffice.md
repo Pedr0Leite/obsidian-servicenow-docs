@@ -26,7 +26,7 @@ Role required: admin
 
 1.  Log in to the Microsoft Office 365 admin account.
 
-2.  Select [[web-application-employee-about|app launcher]] and select **Admin**.
+2.  Select app launcher and select **Admin**.
 
 3.  In the admin center, go to **Settings** &gt; **Services &amp; add-ins**.
 
@@ -53,6 +53,4 @@ Role required: admin
 
     The add-in is uploaded to Microsoft Office 365. Employees can view the add-in option and make a workplace reservation while scheduling a meeting. For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
-## Related
 
-- [[web-application-employee-about|App Launcher]]

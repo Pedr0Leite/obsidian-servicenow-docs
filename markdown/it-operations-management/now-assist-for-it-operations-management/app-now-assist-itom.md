@@ -15,13 +15,13 @@ breadcrumb: [Reference, Now Assist for ITOM, IT Operations Management]
 
 # Applications installed with Now Assist for ITOM
 
-Table that lists applications installed with the Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) application. When you update your application, any newly required application dependencies are installed.
+Table that lists applications installed with the Now Assist for IT Operations Management \(ITOM\) application. When you update your application, any newly required application dependencies are installed.
 
 |Application name|Description|
 |----------------|-----------|
 |Now Assist for Platform \(sn\_genai\_platform\)|Enables Now Assist skills and Features across various BU applications.|
-|AI agents for AIOps \(sn\_aiops\_ai\_agents\)|Enables IT operations with AI Agents that can help autonomously triage alerts, assess business and technical impact, investigate root causes, and recommend or execute [[ccg-remediation|remediation]] steps. These agents operate within coordinated agentic workflows.|
-|AI Agents for [[c_ServiceMappingOverview|Service Mapping]] \(sn\_sm\_gen\_ai\)|Provides autonomous AI Specialists for Service Mapping. It automates the creation of ML-based service maps from Application Service Candidates and the connection of Business Applications to discovered Application Services in the CMDB.|
+|AI agents for AIOps \(sn\_aiops\_ai\_agents\)|Enables IT operations with AI Agents that can help autonomously triage alerts, assess business and technical impact, investigate root causes, and recommend or execute remediation steps. These agents operate within coordinated agentic workflows.|
+|AI Agents for Service Mapping \(sn\_sm\_gen\_ai\)|Provides autonomous AI Specialists for Service Mapping. It automates the creation of ML-based service maps from Application Service Candidates and the connection of Business Applications to discovered Application Services in the CMDB.|
 |AI agents for Observability \(sn\_obs\_aia\)|Helps IT operators assess business and application service impact, and formulate probable cause theories. Helps prioritize investigations by analyzing data from ServiceNow and collaborating with third-party AI agents from leading APM and observability vendors.|
 |LEAP \(sn\_itom\_leap\)|LEAP \(Learning-Enhanced Automation Playbook\) leverages AI-driven insights to mine historical incident data, dynamically prioritize tasks, and generate actionable resolution playbooks.|
 
@@ -34,14 +34,7 @@ Table that lists applications installed with the Now Assist for [[r_ITOMApplicat
 
 [Plugins or applications installed with ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/plugin-app-itom-visibility.md)
 
-[[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
+[Plugins or applications installed with ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-app-itom-health.md)
 
-[[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
+[Plugins activated with ITOM Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-itom-optimization.md)
 
-## Related
-
-- [[plugin-app-itom-health|Plugins or applications installed with ITOM AIOps]]
-- [[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[ccg-remediation|Remediation]]
-- [[c_ServiceMappingOverview|Service Mapping]]

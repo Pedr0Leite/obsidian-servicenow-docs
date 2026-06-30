@@ -16,7 +16,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 After a security incident has been created, there are numerous types of information that can be added and viewed as your analysis of the issue progresses toward resolution.
 
-**Important:** The latest features in [[sir-landing-page|Security Incident Response]] are exclusively available in the [[sir-workspace-landing-page|Security Incident Response Workspace]]. Please install or upgrade to the latest Security Incident Response or Security Incident Response Workspace version to access and leverage features such as Shift-Handover, Risk Score Calculator, etc.
+**Important:** The latest features in Security Incident Response are exclusively available in the Security Incident Response Workspace. Please install or upgrade to the latest Security Incident Response or Security Incident Response Workspace version to access and leverage features such as Shift-Handover, Risk Score Calculator, etc.
 
 This section describes the following:
 
@@ -27,7 +27,3 @@ This section describes the following:
 -   [Manage post incident activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_PostIncidentReview.md)
 -   [Close security incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_ClosingSecIncidents.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

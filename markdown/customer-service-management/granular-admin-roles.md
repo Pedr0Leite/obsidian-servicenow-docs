@@ -96,7 +96,7 @@ sn\_csm\_ocs.csm\_ocs\_admin
 
 </td><td>
 
-Provide full CRUD access to [[outsourced-service-provider|Outsourced Customer Service]] flow
+Provide full CRUD access to Outsourced Customer Service flow
 
 </td><td>
 
@@ -113,14 +113,10 @@ The following are the roles required to perform Service Model Foundation \(SMF\)
 
 |Role name|Description|Plugin\(s\) required|
 |---------|-----------|--------------------|
-|sn\_queryrules.admin|Provides admin access to all query [[gamification-components-rules|rules]].|com.snc.query\_rules|
+|sn\_queryrules.admin|Provides admin access to all query rules.|com.snc.query\_rules|
 |user\_admin|Administers users, groups, locations, and companies.|None|
 |service\_definition\_admin|Provides full CRUD access to the service definition and related tables|None|
 |sn\_crm\_account\_relationship\_data\_manager|Extends the sn\_crm\_account\_data\_manager role by granting additional admin access to account relationships.|cs\_base|
 |sn\_crm\_consumer\_relationship\_data\_manager|Extends the sn\_crm\_consumer\_data\_manager role by granting additional admin access to consumer relationships.|cs\_base|
 |sn\_crm\_household\_relationship\_data\_manager|Extends the sn\_crm\_household\_data\_manager role by granting additional admin access to household relationships.It also contains sn\_crm\_consumer\_relationship\_data\_manager role.|com.snc.cs\_base/if/com.snc.household/|
 
-## Related
-
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[gamification-components-rules|Rules]]

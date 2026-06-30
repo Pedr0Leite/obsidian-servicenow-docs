@@ -79,8 +79,5 @@ Review state. Based on the information provided in the **Additional information*
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrating-esg-management-with-urjanet.md)
 
-## Related
-
-- [[integrating-esg-management-with-urjanet|Integrating Operational Sustainability Management \(formerly ESG\) with Urjanet]]

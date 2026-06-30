@@ -31,7 +31,7 @@ To use the Entity Based Access configuration, navigate to **Entity Based Access 
 Key features of the Entity Based Access configuration include:
 
 -   Detailed control over access to various objects via entities within the system.
--   Versatile configuration options. For example, you can configure Entity Based Access within an entity hierarchy to restrict access to the entity and its downstream related records or across a group of entities by using an [[entity-class|entity class]] or entity type. With bulk access update configurations, you can apply access restrictions selectively to scoped records. You can implement access restrictions gradually to help ensure smooth adoption without operational disruptions.
+-   Versatile configuration options. For example, you can configure Entity Based Access within an entity hierarchy to restrict access to the entity and its downstream related records or across a group of entities by using an entity class or entity type. With bulk access update configurations, you can apply access restrictions selectively to scoped records. You can implement access restrictions gradually to help ensure smooth adoption without operational disruptions.
 -   Access that is provided by including specific user field or user group fields in the entity-based access configuration. Users who are part of the configuration get dynamic access to the records.
 
 ## Key points to note about Entity Based Access
@@ -42,8 +42,8 @@ Entity Based Access restricts access to records to users based on the configurat
 
 The details about the entity-based access security flow are:
 
--   If [[user-hierarchy|User Hierarchy]] Access or User Group Access is enabled, you can't use Entity Based Access.
--   Confidential users can continue to access the [[confidential-records|confidential records]] whether they’re or not part of the entity-based access configuration.
+-   If User Hierarchy Access or User Group Access is enabled, you can't use Entity Based Access.
+-   Confidential users can continue to access the confidential records whether they’re or not part of the entity-based access configuration.
 
 **Important:**
 
@@ -56,9 +56,9 @@ Use case scenarios offer a clear and comprehensive explanation of why you would 
 -   **[User roles for Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/user-roles-for-entity-based-access.md)**  
 Users with specific user roles have access to read or update the Entity Based Access configuration or the bulk access update configuration.
 -   **[Entity based record access update utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access-playbook.md)**  
-The [[entity-based-access-playbook|entity based record access update utility]] is a guided assistance, designed to simplify the application of enabling or disabling access restrictions across large volumes of records.
+The entity based record access update utility is a guided assistance, designed to simplify the application of enabling or disabling access restrictions across large volumes of records.
 -   **[Entity-based record access rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/continuous-monitoring-of-entity-based-access.md)**  
-The [[continuous-monitoring-of-entity-based-access|entity-based record access rules]] let admins apply restrictions automatically to new and changed records. This configuration ensures that access settings stay enforced. No manual updates are needed when records are created, modified, or when users are added to user fields or user group fields.
+The entity-based record access rules let admins apply restrictions automatically to new and changed records. This configuration ensures that access settings stay enforced. No manual updates are needed when records are created, modified, or when users are added to user fields or user group fields.
 -   **[Deactivating entity-based access configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/deactivating-entity-based-access.md)**  
 Deactivating entity-based access \(EBA\) not only disables the configuration but also streamlines admin workflows by automating record-level access evaluation.
 -   **[Configuring Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/setting-up-entity-based-access.md)**  
@@ -70,10 +70,3 @@ Entity-based access restriction can be applied on some GRC tables.
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[entity-class|entity class]]
-- [[user-hierarchy|User hierarchy]]
-- [[confidential-records|Confidential records]]
-- [[entity-based-access-playbook|Entity based record access update utility]]
-- [[continuous-monitoring-of-entity-based-access|Entity-based record access rules]]

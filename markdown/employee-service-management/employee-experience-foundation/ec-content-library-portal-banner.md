@@ -14,7 +14,7 @@ breadcrumb: [Portal content, Creating employee communications, Authoring and man
 
 # Create banner content
 
-Using the Content Library, you can create banner content that appears on the [[employee-center-portal-overview|employee portal]].
+Using the Content Library, you can create banner content that appears on the employee portal.
 
 ## Before you begin
 
@@ -66,7 +66,7 @@ Indicates the content is active and available for use.
 
 </td></tr><tr><td>
 
-User [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] table
+User reference table
 
 </td><td>
 
@@ -74,7 +74,7 @@ Determines which table provides the variables you can use to personalize text fo
 
  Since the banner design form does not display a list of available variables, you can [create a rich text content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-richtext.md) item, to view all available variables from the sys\_user table.
 
- **Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, only **[[c_HRProfileRecords|HR Profile]]** appears. Select **HR Profile** to use variables from the sn\_hr\_core\_profile table.
+ **Note:** When the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin is activated, only **HR Profile** appears. Select **HR Profile** to use variables from the sn\_hr\_core\_profile table.
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ Link to add a background image to your banner.The recommended size for banners a
 
     -   **Content Governance**
 
-        When [[ec-streamline-content|portal content]] is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
+        When portal content is requested from Content Governance, the **Content Request Items** related list tab appears. Select the content request item to view information about the request. For more information, see [Edit a content request item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-gov-request.md).
 
         When the **Content Request Item** has a state of **Work in Progress**, the **Send for Review** button appears.
 
@@ -169,9 +169,4 @@ Link to add a background image to your banner.The recommended size for banners a
 
         **Note:** To edit the content after a review, the content request item state must be changed to **Work in Progress**.
 
-## Related
 
-- [[employee-center-portal-overview|Employee portal]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[ec-streamline-content|Portal content]]

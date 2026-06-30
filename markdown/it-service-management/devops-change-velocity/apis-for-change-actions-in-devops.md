@@ -38,7 +38,7 @@ Use one of the following methods to specify change request attributes:
 
 ## Precedence of consideration
 
-When the change attributes are specified through multiple methods, the precedence in which the attribute values are considered will vary. In ServiceNow, attributes can be specified in the pipeline step of [[devops-landing-page-new|DevOps Change Velocity]], in the Default Change Handler subflow, or in an approval flow. In the orchestration tool pipeline, attributes can be passed in the pipeline step, or using the REST APIs. If a change model is used, they can also be specified in model presets.
+When the change attributes are specified through multiple methods, the precedence in which the attribute values are considered will vary. In ServiceNow, attributes can be specified in the pipeline step of DevOps Change Velocity, in the Default Change Handler subflow, or in an approval flow. In the orchestration tool pipeline, attributes can be passed in the pipeline step, or using the REST APIs. If a change model is used, they can also be specified in model presets.
 
 See the following tables and examples to understand the precedence in which the values will be considered.
 
@@ -134,6 +134,3 @@ Consider a scenario where the attributes are specified in the change attributes 
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

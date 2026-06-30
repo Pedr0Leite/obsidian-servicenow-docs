@@ -16,9 +16,9 @@ breadcrumb: [Advanced Core UI reporting topics, Reporting, Reporting, dashboards
 
 Create reports grouped by a variable on a selected service catalog item. You can also create filters on the same variable.
 
-[[reporting-landing-page|Reporting]] on variables can be helpful in determining if certain catalog items are useful on an instance, for example.
+Reporting on variables can be helpful in determining if certain catalog items are useful on an instance, for example.
 
-Additionally, you can create filters on the same variable. For example, if a specific mobile phone item has a storage variable, you can [[t_CreateYourOwnReport|create a report]] that only shows those phones with 32 GB of storage.
+Additionally, you can create filters on the same variable. For example, if a specific mobile phone item has a storage variable, you can create a report that only shows those phones with 32 GB of storage.
 
 See an overview video on dot-walking to, filtering, and using catalog variables in a database view at: [Reporting on Catalog Variables](https://community.servicenow.com/community?id=community_blog&sys_id=6ebecdd8db3a8058d58ea345ca96194e).
 
@@ -29,7 +29,7 @@ See an overview video on dot-walking to, filtering, and using catalog variables 
 For reporting on variable questions, see: [Report on questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-on-questions.md)
 
 -   **[Use service catalog variables in a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/use-service-catalog-variables-in-report.md)**  
-In reports on service catalog data, stack and group by variables, use variables as columns in [[list-reports|list reports]], and as columns and rows in [[c_MultilevelPivotCharts|multilevel pivot tables]].
+In reports on service catalog data, stack and group by variables, use variables as columns in list reports, and as columns and rows in multilevel pivot tables.
 -   **[Group a report by service catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/group-rep-service-catalog-variables.md)**  
 You can create reports grouped by variable on a selected service catalog item. In addition, you can create filters on the same variable. For example, if a mobile phone item has a storage variable, you can create a report that only shows those phones with 32 GB of storage.
 -   **[Add additional group by variables to a service catalog report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/add-addl-group-svc-cat-var-report.md)**  
@@ -37,9 +37,3 @@ You can create reports grouped by any field with an additional group by variable
 
 **Parent Topic:**[Advanced Core UI reporting topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdvancedReporting.md)
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[list-reports|List reports]]
-- [[c_MultilevelPivotCharts|Multilevel pivot tables]]

@@ -26,7 +26,7 @@ If you’re a non-admin user, you can’t add a user to a group that contains th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Groups**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Groups**.
 
 2.  Select a group **Name**.
 
@@ -51,6 +51,3 @@ If you’re a non-admin user, you can’t add a user to a group that contains th
 
 **Parent Topic:**[Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/ua-creating-groups.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

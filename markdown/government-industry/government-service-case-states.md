@@ -59,7 +59,7 @@ New
 
 </td><td>
 
-The initial status for a new public service case created through the [[gsp-overview-public-sector|Government Service Portal]] or one of the Public Sector Digital Services playbooks.In this state, a government service agent can do one of the following:
+The initial status for a new public service case created through the Government Service Portal or one of the Public Sector Digital Services playbooks.In this state, a government service agent can do one of the following:
 
 -   **Assign to me**: Assign themselves the case. The state changes to **Open**.
 -   **Accept**: If the case was assigned to the agent by a government service manager, the can agent accept or re-assign the case. If accepted, the state changes to **Open**.
@@ -253,6 +253,3 @@ The public service request is cancelled.
 </td></tr></tbody>
 </table>**Note:** You can't edit a public service request case when the state of the case is set to **Closed complete** or **Canceled**.
 
-## Related
-
-- [[gsp-overview-public-sector|Government Service Portal]]

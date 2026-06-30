@@ -14,7 +14,7 @@ breadcrumb: [Administer gamification, Configuring communities, Communities, Cust
 
 # Create a gamification track
 
-Create [[gamification-components-tracks|tracks]] to provide a logical way to separate [[gamification-components-points|points]] assigned in the [[servicenow-communities|communities]] into different areas.
+Create tracks to provide a logical way to separate points assigned in the communities into different areas.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_gamification.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Community** &gt; **[[communities-gamification|Gamification]] Administration** &gt; **Tracks**.
+1.  Navigate to **All** &gt; **Community** &gt; **Gamification Administration** &gt; **Tracks**.
 
 2.  Click **New**.
 
@@ -45,9 +45,3 @@ Role required: sn\_gamification.admin
 
 **Parent Topic:**[Administer gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification-administer.md)
 
-## Related
-
-- [[gamification-components-tracks|Tracks]]
-- [[gamification-components-points|Points]]
-- [[servicenow-communities|Communities]]
-- [[communities-gamification|Gamification]]

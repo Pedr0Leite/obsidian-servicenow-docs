@@ -40,7 +40,7 @@ In the question node, you can add the questions that you want to ask customers o
 
     The reference table doesn’t necessarily have to be a task table. For example, you can select a case, incident, or interaction table for the record context to recommend this decision tree in a workspace.
 
-    **Note:** You must select the same table as the reference table for the context record in [[configure-nba|Recommended Actions]].
+    **Note:** You must select the same table as the reference table for the context record in Recommended Actions.
 
 5.  Configure question 1.
 
@@ -127,9 +127,5 @@ In the question node, you can add the questions that you want to ask customers o
 
 ## What to do next
 
-[[configuring-paths-for-next-nodes|Add paths and configure conditions for transactions]] when the next question or guidance node is displayed in a decision tree.
+[Add paths and configure conditions for transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-paths-for-next-nodes.md) when the next question or guidance node is displayed in a decision tree.
 
-## Related
-
-- [[configuring-paths-for-next-nodes|Configuring paths with conditions whether the amount is debited or not]]
-- [[configure-nba|Recommended Actions]]

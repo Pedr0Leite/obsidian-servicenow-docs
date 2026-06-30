@@ -40,7 +40,7 @@ Role required: it\_project\_manager
 
         For information on the form fields, see the descriptions in [Story form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/create-a-story.md).
 
-4.  Save the [[create-a-project-form|project form]].
+4.  Save the project form.
 
 
 ## What to do next
@@ -57,6 +57,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]

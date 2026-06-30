@@ -14,7 +14,7 @@ breadcrumb: [Create a cryptographic module, Configuring the Key Management Frame
 
 # Create a cryptographic specification
 
-After you [[create-cryptographic-module|create a cryptographic module]], create a cryptographic specification to define the module algorithms.
+After you create a cryptographic module, create a cryptographic specification to define the module algorithms.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_kmf.cryptographic\_manager
 
 1.  Navigate to **Key Management** &gt; **Cryptographic Modules** &gt; **All**.
 
-2.  Select the cryptographic module for definition to open the [[sc-configuration|configuration]] options.
+2.  Select the cryptographic module for definition to open the configuration options.
 
 3.  On the **Crypto Specifications** tab, select **New**.
 
@@ -60,7 +60,7 @@ Crypto purpose
 
 </td><td>
 
-Select the purpose of this module. For example, you might use it for data [[encryption-landing|encryption]], signature generation, or key wrapping. The available algorithms adjust based on the selected crypto purpose. See [Cryptographic specification overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/cryptographic-purpose.md) for details.
+Select the purpose of this module. For example, you might use it for data encryption, signature generation, or key wrapping. The available algorithms adjust based on the selected crypto purpose. See [Cryptographic specification overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/cryptographic-purpose.md) for details.
 
 </td></tr><tr><td>
 
@@ -127,14 +127,8 @@ Perform one of the following operations:
 -   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
 -   Select **Next** to create a cryptographic key. See one of the following tasks for key generation:
     -   [Generate a ServiceNow cryptographic key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/generate_sn_key.md).
-    -   [[customer-supplied-keys|Configure properties for customer-supplied keys]].
+    -   [Configure properties for customer-supplied keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/customer-supplied-keys.md).
     -   [Import the wrapping / unwrapping key pair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/import-key-webservice-1.md).
 
 **Parent Topic:**[Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md)
 
-## Related
-
-- [[customer-supplied-keys|Configure properties for customer-supplied keys]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]

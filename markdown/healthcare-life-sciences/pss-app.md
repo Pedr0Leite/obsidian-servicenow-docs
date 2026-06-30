@@ -46,7 +46,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Contribute\[Omitted image "bus-case.svg"\] Alt text: [[pss-create-case-contributor|Create enrollment cases as a contributor]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-create-case-contributor.md)
+[Contribute\[Omitted image "bus-case.svg"\] Alt text: Create enrollment cases as a contributor.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-create-case-contributor.md)
 
 </td></tr><tr><td>
 
@@ -62,7 +62,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pss-create-case-contributor|Create enrollment cases as a contributor]]

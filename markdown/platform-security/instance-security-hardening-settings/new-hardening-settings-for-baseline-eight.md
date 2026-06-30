@@ -14,7 +14,7 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 # New hardening settings for baseline 8.0
 
-[[hardening-settings-new|New hardening settings]] have been released with [[sec-center-v2|Security Center]] baseline version 7.0.
+New hardening settings have been released with Security Center baseline version 7.0.
 
 -   [Enforce field-level ACLs on records created from the query string of the Filtered List view UI of a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-field-level-acls-on-records-created-from-the-query-string-of-the-filtered-list-view-ui-of-a-table.md)
 -   [Enable multiple \(permission policy and boundary\) checks to ensure that the Role is privileged in AWS/Bedrock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-multiple-permission-policy-and-boundary-checks-to-ensure-that-the-role-is-privileged-in-aws-bedrock.md)
@@ -38,7 +38,3 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 **Parent Topic:**[New hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-new.md)
 
-## Related
-
-- [[hardening-settings-new|New hardening settings]]
-- [[sec-center-v2|Security Center]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Preview module**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Preview module**.
 
 2.  Select the target version to be previewed.
 
@@ -92,7 +92,3 @@ Date and time on which the preview completed
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[uc-landing-page|Upgrade Center]]

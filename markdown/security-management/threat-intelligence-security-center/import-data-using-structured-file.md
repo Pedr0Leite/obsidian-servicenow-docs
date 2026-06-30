@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
     The Threat Intel Library page is displayed.
 
@@ -30,7 +30,7 @@ Role required: sn\_sec\_tisc.analyst
 
 3.  Click **Import from structured file** card.
 
-    **Important:** While importing the [[threat-intel-landing-page|threat intelligence]] data in the supported file formats such as TXT, CSV, STIX 2.x JSON, MISP JSON, or Structured File, the file size is limited to 5 MB. The characters limit to raw text is limited to 10,000.
+    **Important:** While importing the threat intelligence data in the supported file formats such as TXT, CSV, STIX 2.x JSON, MISP JSON, or Structured File, the file size is limited to 5 MB. The characters limit to raw text is limited to 10,000.
 
 4.  On the form, fill in the fields.
 
@@ -48,7 +48,7 @@ Choose an option
 
 </td><td>
 
-Select the required option from the drop down list such as [[c_Observables|Observables]] or [[indicator|Indicators]].-   **Observables**: Select the observables data to import.
+Select the required option from the drop down list such as Observables or Indicators.-   **Observables**: Select the observables data to import.
 
 **Note:** Select this option if you are importing observables data. Also do not modify the column headers in the file. The Mandatory fields are Value and Type, and others are optional. Also, enter the date/time in YYYY-MM-DDThh:mm:ssZ format.
 
@@ -193,9 +193,3 @@ Select this check box if you wish to over ride the source values for TLP, Confid
 
 [Import data using unstructured file format]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

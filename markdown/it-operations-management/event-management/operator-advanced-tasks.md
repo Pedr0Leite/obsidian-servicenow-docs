@@ -14,7 +14,7 @@ breadcrumb: [Event Management Operator Tutorial, Using Event Management, Event M
 
 # Advanced tasks for the Event Management operator
 
-As an [[c_EM|Event Management]] operator, you might need to perform additional tasks that are outside of your typical workflow, or tasks that you need to perform only once.
+As an Event Management operator, you might need to perform additional tasks that are outside of your typical workflow, or tasks that you need to perform only once.
 
 |Advanced task|Description|
 |-------------|-----------|
@@ -34,6 +34,3 @@ As an Event Management operator, you might need to modify the impact that an ale
 
 **Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 
-## Related
-
-- [[c_EM|Event Management]]

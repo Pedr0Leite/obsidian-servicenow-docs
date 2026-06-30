@@ -14,9 +14,9 @@ breadcrumb: [Appendix — Test Management 2.0, Migration from Test Management 1.
 
 # Usability enhancements in Test Management 2.0
 
-[[test-management2-landing-page|Test Management 2.0]] offers a few usability enhancements over [[c_TestManagement|Test Management 1.0]].
+Test Management 2.0 offers a few usability enhancements over Test Management 1.0.
 
-Create and track the execution of [[c_Tests|tests]] for stories of the sprint in the **Sprint Tracking** tab in Agile Board. In addition, you can:
+Create and track the execution of tests for stories of the sprint in the **Sprint Tracking** tab in Agile Board. In addition, you can:
 
 -   View the test result of each test.
 -   Run all the tests for a story at one time.
@@ -35,14 +35,7 @@ Test Management 2.0 provides a new user interface for running tests. The interfa
 
 ## Visual approach of structuring test plans
 
-Test Management 2.0 provides a designated user interface, Test Board, for creating and structuring [[c_TestPlans|test plans]]. As a test manager, you can [[t_CreateATestPlan|create a test plan]], test cycles, and test execution suites and define the time frame for their execution. The names of the test cycles and execution suites can be edited inline, without leaving the page. Test execution suites can then be filled with tests, and those tests can be assigned to testers.
+Test Management 2.0 provides a designated user interface, Test Board, for creating and structuring test plans. As a test manager, you can create a test plan, test cycles, and test execution suites and define the time frame for their execution. The names of the test cycles and execution suites can be edited inline, without leaving the page. Test execution suites can then be filled with tests, and those tests can be assigned to testers.
 
 The test plan work hierarchy item in the Test Board provides a visual representation of the timeline of the test plan and its child tasks using a blue task bar. The length of the task bar pertaining to the test plan increases and decreases depending on the adjustments you make to the duration of its child tasks. You can also manually increase or decrease the duration by dragging the edge of the task bar to the required location.
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestManagement|Test Management 1.0]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]
-- [[t_CreateATestPlan|Create a test plan]]

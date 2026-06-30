@@ -28,7 +28,7 @@ The configuration example shows how you would configure an **HR Cases closed in 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[uib-aws|UI Builder for Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **UI Builder for Agent Workspace for HR Case Management**.
 
 2.  Select your variant.
 
@@ -97,7 +97,3 @@ The configuration example shows how you would configure an **HR Cases closed in 
 
 **Parent Topic:**[Create a landing page variant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/agent-workspace-for-hr-case-management/configure-report-aws.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[uib-aws|UI Builder for Agent Workspace for HR Case Management]]

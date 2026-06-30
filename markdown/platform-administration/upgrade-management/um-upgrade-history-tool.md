@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Console tools, Use, Upgrade Console, Upgrade, Administer th
 
 # Upgrade History tool in Upgrade Console
 
-Utilize the [[uc-history-module|Upgrade History module]] to maintain a comprehensive record of all upgrades performed on an instance. Access detailed reports for both historical and recent upgrade versions to facilitate analysis and troubleshooting.
+Utilize the Upgrade History module to maintain a comprehensive record of all upgrades performed on an instance. Access detailed reports for both historical and recent upgrade versions to facilitate analysis and troubleshooting.
 
 See [Reviewing upgrade history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-review-history.md) for more information.
 
@@ -40,6 +40,3 @@ The Upgrade History module tracks every upgrade made to an instance. You can als
 
 [Upgrade Plans tool in Upgrade Console]()
 
-## Related
-
-- [[uc-history-module|Upgrade History module]]

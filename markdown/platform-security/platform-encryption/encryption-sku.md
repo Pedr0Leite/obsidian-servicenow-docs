@@ -14,17 +14,17 @@ breadcrumb: [Key Management Framework Reference, Key Management Framework, Encry
 
 # Encryption and Key Management subscription bundle
 
-With Key Management, Field Encryption is upgraded at no additional charge to include highly configurable encryption modules. You can also optionally upgrade to the unlimited-use license. Subscribe to the new encryption entitlement bundle, Platform Encryption, which includes [[now-platform-encryption|Field Encryption Enterprise]] and Cloud Encryption.
+With Key Management, Field Encryption is upgraded at no additional charge to include highly configurable encryption modules. You can also optionally upgrade to the unlimited-use license. Subscribe to the new encryption entitlement bundle, Platform Encryption, which includes Field Encryption Enterprise and Cloud Encryption.
 
 ## Field Encryption features
 
-[[field-encryption|Field Encryption]] with encryption modules is included for free in your instance and includes [NIST 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) key management.
+[Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption.md) with encryption modules is included for free in your instance and includes [NIST 800-57](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r5.pdf) key management.
 
 ## ServiceNow Platform Encryption group features
 
 The Platform Encryption group adds the following features and offerings:
 
--   [[encryption-landing|Encryption]].
+-   [Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption-landing.md).
 -   [Cloud Encryption with Key Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-overview.md).
 
 ## Additional information
@@ -44,8 +44,3 @@ To learn more about key management, see [Exploring the Key Management Framework]
 
 [Module access policy debugger]()
 
-## Related
-
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]

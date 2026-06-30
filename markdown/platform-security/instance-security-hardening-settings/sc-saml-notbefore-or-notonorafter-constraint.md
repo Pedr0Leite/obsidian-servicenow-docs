@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Minimize SAML notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]
 
-Configure this property to add a grace period in which [[c_SAML2.0WebBrowserSSOProfile|SAML]] requests and responses are considered valid.
+Configure this property to add a grace period in which SAML requests and responses are considered valid.
 
-This property adds a grace period during which SAML requests and responses are considered valid. The property value represents the number of seconds to add to the **NotBefore** and **NotOnOrAfter** constraints to account for time differences between the [[identity-landing|Identity]] Provider \(IdP\) clock, and Service Provider \(SP\) clock. These constraints defend against replay attacks by denying requests that aren’t made within the specified time frame. If the IdP and SP clocks are significantly different, then the network latency may result in the SAML [[c_requestAPI|request]] being unauthorized.
+This property adds a grace period during which SAML requests and responses are considered valid. The property value represents the number of seconds to add to the **NotBefore** and **NotOnOrAfter** constraints to account for time differences between the Identity Provider \(IdP\) clock, and Service Provider \(SP\) clock. These constraints defend against replay attacks by denying requests that aren’t made within the specified time frame. If the IdP and SP clocks are significantly different, then the network latency may result in the SAML request being unauthorized.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -97,10 +97,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

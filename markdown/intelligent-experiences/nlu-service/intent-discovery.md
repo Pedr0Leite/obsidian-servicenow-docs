@@ -20,7 +20,7 @@ Use the Intent Discovery application to help identify opportunities for incident
 
 For applications that consume NLU, such as Virtual Agent and AI Search, Intent Discovery helps you to better understand which prebuilt intents you can benefit from, and which custom intents would be useful to create.
 
-Intent Discovery provides an analysis that you run on historic incident data or other task data. You can also group the run’s remaining records into different clusters so you can manually add utterances to [[intents|NLU intents]]. In addition, you can use specific clusters to create new intents in a model.
+Intent Discovery provides an analysis that you run on historic incident data or other task data. You can also group the run’s remaining records into different clusters so you can manually add utterances to NLU intents. In addition, you can use specific clusters to create new intents in a model.
 
 In this example scenario, you're using Intent Discovery to identify the top intents in your instance, and how much coverage they can provide across your historic incident records.
 
@@ -30,7 +30,7 @@ Intent Discovery is available from the ServiceNow Store. For more information, s
 
 After Intent Discovery is installed and activated, it appears under **All** &gt; **NLU Workbench** &gt; **NLU Advanced Features**.
 
-**Note:** Although organized under NLU Advanced Features in the [[now-assist-global-navigation|navigation]] pane, Intent Discovery is a separate application that is not included when installing [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]].
+**Note:** Although organized under NLU Advanced Features in the navigation pane, Intent Discovery is a separate application that is not included when installing NLU Workbench - Advanced Features.
 
 ## Intent Discovery report details
 
@@ -157,8 +157,3 @@ When the run is complete, a new banner appears that states you have a new versio
 
 \[Omitted image "intent-discovery17.png"\] Alt text: The new time stamp of the Intent Discovery report
 
-## Related
-
-- [[intents|NLU intents]]
-- [[now-assist-global-navigation|Navigation]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]

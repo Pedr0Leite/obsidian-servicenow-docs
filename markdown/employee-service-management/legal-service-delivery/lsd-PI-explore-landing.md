@@ -14,7 +14,7 @@ breadcrumb: [Predictive intelligence for Legal Service Delivery, Integration wit
 
 # Explore Predictive Intelligence for Legal Service Delivery
 
-With Predictive Intelligence, you can train a model to predict a target value based on one or more input values. The [[lsd-predictive-intelligence-landing|Predictive Intelligence for Legal Service Delivery]] includes machine [[exploring-learning-exp|learning]] algorithms that predict the subcategory and assignment group for General Legal Requests and Ethics Complaints. You can create your own machine learning solution to meet your needs.
+With Predictive Intelligence, you can train a model to predict a target value based on one or more input values. The Predictive Intelligence for Legal Service Delivery includes machine learning algorithms that predict the subcategory and assignment group for General Legal Requests and Ethics Complaints. You can create your own machine learning solution to meet your needs.
 
 ## Predictive Intelligence for Legal Service Delivery overview
 
@@ -28,7 +28,7 @@ The Predictive Intelligence for Legal Service Delivery solution helps you reduce
 
 ## Predictive Intelligence for Legal Service Delivery workflow
 
-1.  The predictive intelligence administrator for [[legal-management-overview|Legal Service Delivery]] for Legal Service Delivery defines a solution definition that will be used to train a classification solution.
+1.  The predictive intelligence administrator for Legal Service Delivery for Legal Service Delivery defines a solution definition that will be used to train a classification solution.
 2.  The predictive intelligence administrator for Legal Service Delivery for Legal Service Delivery defines a use case.
 3.  The predictive intelligence administrator for Legal Service Delivery for Legal Service Delivery defines a business rule which defines under what conditions the predictions will triggered.
 4.  The legal user submits a legal request.
@@ -53,8 +53,3 @@ To learn more about configuring and using Predictive Intelligence for Legal Serv
 -   [Use Predictive Intelligence for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-pi-use-legal-request.md)
 -   [Predictive Intelligence for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-PI-reference-landing.md)
 
-## Related
-
-- [[lsd-predictive-intelligence-landing|Predictive intelligence for Legal Service Delivery]]
-- [[exploring-learning-exp|Learning]]
-- [[legal-management-overview|Legal Service Delivery]]

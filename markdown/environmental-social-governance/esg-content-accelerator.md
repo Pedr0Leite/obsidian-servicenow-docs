@@ -33,9 +33,9 @@ The application contains the following frameworks and regulations.
 
 ## Emission factors
 
-An emission factor is a coefficient that quantifies the emissions released per unit of activity or output. It is used extensively in environmental science, engineering, and regulatory contexts to estimate the amount of pollutants or greenhouse gases emitted into the atmosphere from various sources. The Unified content management also contains several emission factors. For more information on emission factors, refer to [[emission-factor-library|Emission factor library]].
+An emission factor is a coefficient that quantifies the emissions released per unit of activity or output. It is used extensively in environmental science, engineering, and regulatory contexts to estimate the amount of pollutants or greenhouse gases emitted into the atmosphere from various sources. The Unified content management also contains several emission factors. For more information on emission factors, refer to [Emission factor library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/emission-factor-library.md).
 
-Emission factors are sourced from certain standard content providers. These content providers publish the emission factors for a variety of industries and geographies. As an ESG administrator, while you can create your own [[create-an-emission-factor|emission factor]] to calculate your emissions, you can also use the emission factors provided through the Unified content management application. Using the emission factors through the Unified content management application saves your time and effort. The following emission factors are provided by this application.
+Emission factors are sourced from certain standard content providers. These content providers publish the emission factors for a variety of industries and geographies. As an ESG administrator, while you can create your own [emission factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-emission-factor.md) to calculate your emissions, you can also use the emission factors provided through the Unified content management application. Using the emission factors through the Unified content management application saves your time and effort. The following emission factors are provided by this application.
 
 -   eGRID
 -   GHG Emission Factors by US EPA
@@ -64,13 +64,7 @@ The following figure displays the life cycle of the Unified content management a
 
 \[Omitted image "esg-unified-content-management.png"\] Alt text: Workflow of how the Unified content management application works.
 
-For more information see, [[install-citations-frameworks-from-esg-content-accelerator|Activate or update a framework and install citations using the Unified content management]].
+For more information see, [Activate or update a framework and install citations using the Unified content management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/install-citations-frameworks-from-esg-content-accelerator.md).
 
-**Parent Topic:**[[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]
+**Parent Topic:**[Exploring Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-new-explore.md)
 
-## Related
-
-- [[emission-factor-library|Emission factor library]]
-- [[create-an-emission-factor|Create an emission factor]]
-- [[install-citations-frameworks-from-esg-content-accelerator|Activate or update a framework and install citations using the Unified content management]]
-- [[esg-new-explore|Exploring Operational Sustainability Management \(formerly ESG Management\)]]

@@ -18,8 +18,8 @@ If you need more customizations than the Branding Editor can provide, you can cr
 
 Only users with an understanding of CSS should create custom themes.
 
-1.  Navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Themes**, then select **New**.
-2.  Complete the [[c_FormFields|form fields]] and then from the [[c_FormContextMenu|form context menu]], select **Save**.
+1.  Navigate to **Service Portal** &gt; **Themes**, then select **New**.
+2.  Complete the form fields and then from the form context menu, select **Save**.
 
 <table id="table_anh_ljr_mz"><thead><tr><th>
 
@@ -133,7 +133,7 @@ Source
 
 </td><td>
 
-Select one of the following options:-   **Style Sheet**: Add an internal style sheet that has been uploaded to the CSS table \[sp\_css\]. For example, ng-sortable.min.css. Internal [[c_StyleSheets|style sheets]] use standard CSS in the CSS field.
+Select one of the following options:-   **Style Sheet**: Add an internal style sheet that has been uploaded to the CSS table \[sp\_css\]. For example, ng-sortable.min.css. Internal style sheets use standard CSS in the CSS field.
 -   **URL**: Link to an external style sheet. Use external style sheets to use the same CSS as a corporate website or other online resource.
 
 
@@ -242,14 +242,7 @@ The Service Portal package that the JS include is associated with. For example, 
 -   **[Enable dark theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-dark-theme.md)**  
 Use Coral dark theme on a portal to improve focus, readability, and accessibility.
 -   **[Create a theme variant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-theme-variant.md)**  
-[[create-theme-variant|Create a theme variant]] from the Coral theme. A theme variant uses customizable styling CSS variables and branding options to tailor the visual experience for your users.
+Create a theme variant from the Coral theme. A theme variant uses customizable styling CSS variables and branding options to tailor the visual experience for your users.
 
 **Parent Topic:**[Defining portal styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-css.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_FormFields|Form fields]]
-- [[c_FormContextMenu|Form context menu]]
-- [[c_StyleSheets|Style sheets]]
-- [[create-theme-variant|Create a theme variant]]

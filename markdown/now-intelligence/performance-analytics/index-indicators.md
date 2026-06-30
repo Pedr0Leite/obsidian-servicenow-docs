@@ -45,7 +45,7 @@ For indicators that have a **Minimize** direction, the formula is:
 
 If you are weighting the indicators evenly, you can index the final aggregation to 100 instead of indexing the individual indicators to 100.
 
-You can use methods of the PAFormulaUtils\(\) API to get the gap between score and target for the indicator from the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. For more information, see [Get analytics methods in formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/get-indicator-analytics.md):
+You can use methods of the PAFormulaUtils\(\) API to get the gap between score and target for the indicator from the Analytics Hub. For more information, see [Get analytics methods in formulas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/get-indicator-analytics.md):
 
 ```
 pa.getGap(indicator, On date) / pa.getGlobalTarget(indicator, On date)
@@ -69,7 +69,7 @@ In the following example, you want a single index that aggregates the gap betwee
 
 To get this single index, follow these steps to produce an index indicator:
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **[[formula-indicators|Formula Indicators]]** and select **New**. Index indicators are a use case of formula indicators.
+1.  Navigate to **Platform Analytics Administration** &gt; **Indicators** &gt; **Formula Indicators** and select **New**. Index indicators are a use case of formula indicators.
 2.  Give the indicator a meaningful name, such as **Aggregate incident gap**.
 3.  Set the **Direction** to **Maximize**.
 4.  In the **Formula** field, use the **Browse for a method** and **Browse for an indicator** functions to create the following formula:
@@ -104,8 +104,3 @@ To get this single index, follow these steps to produce an index indicator:
 
 [Changes to score\_start/end because of different user time zones]()
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[formula-indicators|Formula indicators]]

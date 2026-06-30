@@ -22,7 +22,7 @@ Role required: itil, admin, problem\_admin, problem\_coordinator or problem\_man
 
 ## About this task
 
-The topic applies to problems where you’ve activated the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
+The topic applies to problems where you’ve activated the Problem Management Best Practice — Madrid \(com.snc.best\_practice.problem.madrid\) plugin.
 
 ## Procedure
 
@@ -48,6 +48,3 @@ Extension points enable you to extend the functionality of an application and in
 
 **Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-lifecycle.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

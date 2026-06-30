@@ -15,7 +15,7 @@ breadcrumb: [Managing indexed sources, Using AI Search Admin console, AI Search 
 
 # Index the content from an indexed source for searchability
 
-Enable [[ia-ai-search|AI Search]] to index the records from your source tables to make the content searchable.
+Enable AI Search to index the records from your source tables to make the content searchable.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ You can also index the content from an indexed source for external documents. Fo
 
 1.  Navigate to **All** &gt; **AI Search Admin** &gt; **AI Search Admin Home**.
 
-2.  On the **Shared [[clone-configurations-tab|Configurations]]** tab, select **Indexed Sources** .
+2.  On the **Shared Configurations** tab, select **Indexed Sources** .
 
 3.  Select the indexed source that you want to index.
 
@@ -73,7 +73,7 @@ Procedure
 </td></tr></tbody>
 </table>    The AI Search Indexed Source History page appears.
 
-6.  To monitor the progress of the indexing task, refresh the AI Search [[indexed-source-history-form-ais|Indexed Source History form]] page.
+6.  To monitor the progress of the indexing task, refresh the AI Search Indexed Source History form page.
 
     When the task completes, the **Ingestion State** field of the indexed source shows its status as indexed.
 
@@ -90,8 +90,3 @@ Define search sources to make searchable content from the indexed source availab
 
 **Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-managing-indexed-source.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[indexed-source-history-form-ais|Indexed Source History form]]

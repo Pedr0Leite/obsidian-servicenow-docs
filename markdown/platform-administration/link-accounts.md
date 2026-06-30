@@ -12,7 +12,7 @@ breadcrumb: [Notifications in messaging applications, System notifications, Noti
 
 # Link your ServiceNow user account to your Slack or MS Teams account for Now Actions
 
-Link your ServiceNow account to your Slack or Teams account to take action on ServiceNow [[notifications|notifications]] from within Slack or Teams. If you do not link accounts, you can still receive notifications within group channels. However, you cannot to approve ServiceNow requests or take action on notifications from within Slack or Teams.
+Link your ServiceNow account to your Slack or Teams account to take action on ServiceNow notifications from within Slack or Teams. If you do not link accounts, you can still receive notifications within group channels. However, you cannot to approve ServiceNow requests or take action on notifications from within Slack or Teams.
 
 ## Before you begin
 
@@ -42,13 +42,8 @@ Role required: none
 
     A confirmation message is displayed at the top of the screen.
 
-    \[Omitted image "va-link-confirm-success.png"\] Alt text: The link confirmation message shown on [[user|the user record]].
+    \[Omitted image "va-link-confirm-success.png"\] Alt text: The link confirmation message shown on the user record.
 
 
-**Parent Topic:**[[messaging-integration|Notifications in messaging applications]]
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md)
 
-## Related
-
-- [[messaging-integration|Notifications in messaging applications]]
-- [[notifications|Notifications]]
-- [[user|The User record]]

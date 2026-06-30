@@ -18,7 +18,7 @@ The MID WebService Event Collector enables you to collect event information from
 
 ## Before you begin
 
-Ensure that the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
+Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
 Role required: evt\_mgmt\_admin
 
@@ -82,6 +82,3 @@ Example showing XML formatted event messages:
 
 [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md)
 
-## Related
-
-- [[c_EM|Event Management]]

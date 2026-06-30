@@ -14,11 +14,11 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Cluster nodes in a Dependency Views map
 
-[[c_BusinesssServiceManagementMaps|Dependency Views]] maps can display cluster group nodes alongside individual CI nodes, and the child nodes of these cluster groups.
+Dependency Views maps can display cluster group nodes alongside individual CI nodes, and the child nodes of these cluster groups.
 
 Clusters are CIs in the Cluster \[cmdb\_ci\_cluster\] table. A cluster CI is an organized set of computer CIs that work together as a single system. Each node in a cluster group represents a CI, typically a server, that can have referenced hardware, such as disks and network adapters.
 
-Cluster nodes on a [[c_NextGenBSMMaps|Dependency Views map]] can display in two modes:
+Cluster nodes on a Dependency Views map can display in two modes:
 
 -   Collapsed mode: Displays only the cluster CI node without its child CI nodes. This mode avoids unnecessary clutter in large maps.
 -   Expanded mode: Displays the cluster CI node and all its child CI nodes.
@@ -33,7 +33,3 @@ Icons for cluster nodes and cluster group CI nodes are noted by the string "Clus
 
 \[Omitted image "ClusterExpandedandCollapsed.png"\] Alt text: An expanded cluster node displays its child nodes.
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

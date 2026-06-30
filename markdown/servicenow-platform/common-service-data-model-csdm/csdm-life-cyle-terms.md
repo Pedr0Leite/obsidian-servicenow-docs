@@ -14,7 +14,7 @@ breadcrumb: [Reference, CSDM, Configuration Management, Extend ServiceNow AI Pla
 
 # CSDM life-cycle terms
 
-Most ServiceNow products and ServiceNow AI Platform applications align closely with the [[csdm-landing-page|Common Service Data Model]]. This table defines terms as they are used across the ServiceNow AI Platform.
+Most ServiceNow products and ServiceNow AI Platform applications align closely with the Common Service Data Model. This table defines terms as they are used across the ServiceNow AI Platform.
 
 ## Terms related to life cycle
 
@@ -76,6 +76,3 @@ In contrast, in sys\_choice inheritance definitions in child tables override the
 
 **Parent Topic:**[CSDM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-content-frame-reference.md)
 
-## Related
-
-- [[csdm-landing-page|Common Service Data Model]]

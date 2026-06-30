@@ -14,7 +14,7 @@ breadcrumb: [Optimize planning with scenario planning, Portfolio Planning in Str
 
 # Create a scenario
 
-[[create-a-scenario-in-portfolio-planning|Create a scenario]] from a live plan or another scenario in a simulated environment to compare the scenario with the live plan and other scenarios.
+Create a scenario from a live plan or another scenario in a simulated environment to compare the scenario with the live plan and other scenarios.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Creating a scenario enables you to visualize and anticipate potential outcomes. 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -92,11 +92,6 @@ Creating a scenario enables you to visualize and anticipate potential outcomes. 
 ## What to do next
 
 -   Create more scenarios, if necessary.
--   [Compare scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/compare-scenarios-in-strategic-planning.md). You can directly [[compare-scenarios-in-portfolio-planning|compare scenarios]] from simulation mode by selecting **Compare scenarios** from the Scenario actions list.
+-   [Compare scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/compare-scenarios-in-strategic-planning.md). You can directly compare scenarios from simulation mode by selecting **Compare scenarios** from the Scenario actions list.
 -   [Approve a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/approve-a-scenario-in-strategic-planning.md)
 
-## Related
-
-- [[create-a-scenario-in-portfolio-planning|Create a scenario]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[compare-scenarios-in-portfolio-planning|Compare scenarios]]

@@ -35,7 +35,7 @@ Domain separated systems can use the Data Certification application.
 
 ## Data Certification experience in CMDB Workspaceand in Service Graph Workspace
 
-You can use [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or [[sg-workspace|Service Graph Workspace]] landing page and views to fully administer and use Data Certification, view various analytics, and handle Data Certification functions such as:
+You can use [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or Service Graph Workspace landing page and views to fully administer and use Data Certification, view various analytics, and handle Data Certification functions such as:
 
 -   [Create a certification policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-manager-create-policy-wrkspc.md).
 -   [Convert legacy certification schedules into Data Manager certification policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/convert-data-cert-definitions.md).
@@ -46,6 +46,3 @@ The Data Certification experience in CMDB Workspace doesn’t provide functional
 
 For more information about using Data Certification, see [Data Certification experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-cert-exp-cmdb-workspace.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

@@ -16,7 +16,7 @@ breadcrumb: [Configure the AWS environment, AWS, Service Graph Connectors, Integ
 
 Complete the prerequisites before you execute the AWS scripts.
 
-**Important:** Ensure that you have downloaded the scripts available within the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]. See [Download the AWS scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-dwld.md).
+**Important:** Ensure that you have downloaded the scripts available within the Service Graph Connector for AWS. See [Download the AWS scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-dwld.md).
 
 Decide the following details to be used later during the execution of the AWS scripts:
 
@@ -166,6 +166,4 @@ Create an S3 bucket for the Service Graph Connector for AWS application and enab
 
     **Note:** Make sure you add the suffix `/*` at the end of the bucket name to enable creating files under the bucket name.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]

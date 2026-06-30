@@ -14,7 +14,7 @@ breadcrumb: [View alert information, Using Event Management, Event Management, I
 
 # Apply a quick response in an alert
 
-In an alert, use the `Quick Response` feature to apply [[ccg-remediation|remediation]] to the alert or to launch a web application.
+In an alert, use the `Quick Response` feature to apply remediation to the alert or to launch a web application.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ If you select a remediation link when invoking a Quick Response, a workflow is e
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  In the Alerts list, right-click the required alert and select **Quick Response**.
 
@@ -83,7 +83,3 @@ To create a remediation task or web application link, see [Migrate an alert acti
 
 [Launch web application from alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMLaunchAnApplication.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

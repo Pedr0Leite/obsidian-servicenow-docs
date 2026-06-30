@@ -14,11 +14,11 @@ breadcrumb: [Create an invoice line manually, Create an invoice manually, Work w
 
 # Invoice rejection modes
 
-Invoice rejection modes control how [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] handles exceptions that require an invoice to be rejected, either automatically by the system or through manual review by an AP specialist.
+Invoice rejection modes control how Accounts Payable Operations handles exceptions that require an invoice to be rejected, either automatically by the system or through manual review by an AP specialist.
 
 When the exception engine processes an invoice, it evaluates each exception associated with that invoice. The **Rejection mode** field on each exception rule table determines whether the invoice is rejected without AP intervention or routed to an AP specialist for review.
 
-When rejection mode is set to "None" in APO, the system disables the ability to manually reject [[invoices|invoices]].
+When rejection mode is set to "None" in APO, the system disables the ability to manually reject invoices.
 
 ## Manual rejection mode
 
@@ -27,11 +27,11 @@ When manual rejection is triggered, the invoice is routed to an AP specialist fo
 -   A notification that exceptions flagged for manual rejection mode require review.
 -   A **Reject invoice** button that the AP specialist selects to initiate the rejection.
 
-When the AP specialist selects **Reject invoice**, the system prompts them to enter a rejection reason. After confirmation, the system cancels the exception and invoice, populates the appropriate comments in the audit history and [[activity-stream|activity stream]], and sends an email notification to the [[supplier|supplier]] with the rejection comments.
+When the AP specialist selects **Reject invoice**, the system prompts them to enter a rejection reason. After confirmation, the system cancels the exception and invoice, populates the appropriate comments in the audit history and activity stream, and sends an email notification to the supplier with the rejection comments.
 
 ## Condition builder
 
-The exception rule allows AP admin to add conditions to any invoice exception definition by [[legal-entity|Legal entity]], Supplier type and many more as shown in the following screen shot:\[Omitted image "inv-exception-defn.png"\] Alt text: Invoice exception definition configured with rule For more information on the fields in the exception rule, see [Invoice Exception Rule Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-rule-form.md).
+The exception rule allows AP admin to add conditions to any invoice exception definition by Legal entity, Supplier type and many more as shown in the following screen shot:\[Omitted image "inv-exception-defn.png"\] Alt text: Invoice exception definition configured with rule For more information on the fields in the exception rule, see [Invoice Exception Rule Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-rule-form.md).
 
 **Parent Topic:**[Create an invoice line manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line.md)
 
@@ -40,10 +40,3 @@ The exception rule allows AP admin to add conditions to any invoice exception de
 
 [Invoice Exception Rule Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-rule-form.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[activity-stream|Activity stream]]
-- [[supplier|Supplier]]
-- [[legal-entity|Legal entity]]

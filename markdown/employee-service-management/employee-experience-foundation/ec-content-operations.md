@@ -54,7 +54,7 @@ Content Library and Campaigns
 
 </td><td>
 
-Provides a quick view of the status of your scheduled content and campaign content \(if the Content Experiences plugin is installed\) via the following cards:-   **Content to be published**: The number of your content items that are scheduled but not yet published on the portal or [[mobile-employee-experience|Now mobile app]].
+Provides a quick view of the status of your scheduled content and campaign content \(if the Content Experiences plugin is installed\) via the following cards:-   **Content to be published**: The number of your content items that are scheduled but not yet published on the portal or Now mobile app.
 
 Click this card to open the Schedule content records.
 
@@ -105,7 +105,7 @@ The Content request appears on the Content request item due date. For more infor
 
 -   Content Library
 
-Content appears based on the content schedule record, with the exception of [[ec-news-articles|news articles]] and [[ec-to-do-content|to-do content]], which are explained in the **Channel type** section below.
+Content appears based on the content schedule record, with the exception of news articles and to-do content, which are explained in the **Channel type** section below.
 
 **Note:** The calendar only displays content with configured start date. Content set to "Always active" will not appear in the calendar.
 
@@ -128,10 +128,10 @@ Channel type
 
 </td><td>
 
-The calendar uses different colors to distinguish between channel types, helping you easily differentiate them. Use the filter to narrow the items displayed on the calendar to show specific content delivery channels.-   [[ec-mobile-content|Mobile content]]
+The calendar uses different colors to distinguish between channel types, helping you easily differentiate them. Use the filter to narrow the items displayed on the calendar to show specific content delivery channels.-   Mobile content
 -   News content displays based on the article publish start date
--   [[ec-notification-content|Notification content]]
--   [[ec-streamline-content|Portal content]]
+-   Notification content
+-   Portal content
 -   To-do content displays based on the **When to process** date
 
 </td></tr><tr><td>
@@ -171,14 +171,5 @@ You can use filters to specify a group or user to view information by:
 |Owned content|View all the content that you created or have ownership permissions for|
 |Owned pages|View all the content that you created or have ownership permissions for|
 |Owned topics|View all the topics that you have ownership permissions for|
-|Owned audiences|View all the [[ecpro-audience|audiences]] that you have ownership permissions for|
+|Owned audiences|View all the audiences that you have ownership permissions for|
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[ec-news-articles|News articles]]
-- [[ec-to-do-content|To-do content]]
-- [[ec-mobile-content|Mobile content]]
-- [[ec-notification-content|Notification content]]
-- [[ec-streamline-content|Portal content]]
-- [[ecpro-audience|Audiences]]

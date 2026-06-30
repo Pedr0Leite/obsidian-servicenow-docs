@@ -12,7 +12,7 @@ breadcrumb: [Analytics and reporting, Field Service Management]
 
 # View work order trends topics
 
-Analyze the backlog of support work orders and identify clusters of work orders that point to similar underlying issues by using Predictive Intelligence for [[fsm-application-landing-page|Field Service Management]].​
+Analyze the backlog of support work orders and identify clusters of work orders that point to similar underlying issues by using Predictive Intelligence for Field Service Management.​
 
 ## Before you begin
 
@@ -28,9 +28,5 @@ Role required: wm\_admin or wm\_manager.
     -   Cluster size indicates the number of work orders in the cluster.
     -   Cluster quality gives a percentage value of how similar the work orders are.
 
-**Parent Topic:**[[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 
-## Related
-
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]

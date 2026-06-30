@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the [[dispute-rules-content-pack-for-mastercard-landing-page|Dispute Rules Content Pack for Mastercard]] application \(sn\_bom\_mcard\_cp\) using the filter criteria and search bar.
+2.  Find the Dispute Rules Content Pack for Mastercard application \(sn\_bom\_mcard\_cp\) using the filter criteria and search bar.
 
     You can search for the application by its name or ID. If you can't find the application, you might have to request it from the ServiceNow Store.
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Dispute Rules Content Pack for Mastercard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-landing-page.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-mastercard-landing-page|Dispute Rules Content Pack for Mastercard]]

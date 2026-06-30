@@ -14,7 +14,7 @@ breadcrumb: [Enable SAP connector configurations, Configure SAP Solution Manager
 
 # Use the SAP Solution Manager Pull connector
 
-The SAP Solution Manager Pull connector sends information from [[c_EM|Event Management]] to the SAP Solution Manager. The Pull connector sends responses received from a Push connector in a bi-directional environment.
+The SAP Solution Manager Pull connector sends information from Event Management to the SAP Solution Manager. The Pull connector sends responses received from a Push connector in a bi-directional environment.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[SAP configurations enabling the SAP Solution Manager connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/sap-manager-connector.md)
 
-## Related
-
-- [[c_EM|Event Management]]

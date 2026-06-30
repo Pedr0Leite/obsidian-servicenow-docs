@@ -14,9 +14,9 @@ breadcrumb: [CMDB Identification and Reconciliation \(IRE\), Configuration Manag
 
 # Using identification simulation
 
-Identification simulation is a central location for automatically constructing a payload that is guaranteed to be complete and valid. You can then simulate the processing of the payload by the [[ire|Identification and Reconciliation Engine \(IRE\)]] and examine the results before actually submitting it for execution by IRE.
+Identification simulation is a central location for automatically constructing a payload that is guaranteed to be complete and valid. You can then simulate the processing of the payload by the Identification and Reconciliation Engine \(IRE\) and examine the results before actually submitting it for execution by IRE.
 
-Use identification simulation to construct an input payload, and simulate processing of the payload by IRE. You can then examine the results, adjust [[c_IdentificationRules|identification rules]] if needed, and re-run the simulation of the updated payload.
+Use identification simulation to construct an input payload, and simulate processing of the payload by IRE. You can then examine the results, adjust identification rules if needed, and re-run the simulation of the updated payload.
 
 Use the identification simulation to:
 
@@ -186,7 +186,3 @@ You can control the logging level by using the **glide.discovery.identification.
     -   **Logs**: Displays all the logged messages that the identification engine generated while running the payload, according to the specified logging level.
     -   **Output**: Displays the output payload returned by the identification engine.
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]

@@ -14,11 +14,11 @@ breadcrumb: [Manage CAD source files, Indoor Mapping, Workplace Service Delivery
 
 # Compute Autocad floor surface area
 
-Compute floor size area and dimensions in [[Indoor-mapping|Indoor Mapping]] Map Studio while importing your AutoCAD floor sources.
+Compute floor size area and dimensions in Indoor Mapping Map Studio while importing your AutoCAD floor sources.
 
 ## Before you begin
 
-The computed floor size area measurements in Indoor Mapping are available in the [[workplace-safety-mgmt-hr|Workplace Core]] Floor table form with pre-filled field values. For example, **Total Square feet**, **Usable Square feet**.
+The computed floor size area measurements in Indoor Mapping are available in the Workplace Core Floor table form with pre-filled field values. For example, **Total Square feet**, **Usable Square feet**.
 
 Role required: admin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 1.  To compute the Floor size area from an AutoCAD file, activate the floor size computation property.
 
-    1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **[[indoor-mapping-properties|Indoor Mapping Properties]]**.
+    1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Indoor Mapping Properties**.
 
     2.  Enable editing and set the property **Set true to activate floor size computation** to true.
 
@@ -158,7 +158,7 @@ Default value is **Global**. Retain **Global** to avoid any conflicts between yo
         -   Select the More actions icon \(\[Omitted image "more-options-icon.png"\] Alt text: more options icon.\) on the top right pane of the Map Studio.
         -   Select the **Edit file unit** option.
 
-            \[Omitted image "wsd-edit-file-unit-autocad.png"\] Alt text: CAD file edit unit option on the [[autocad-v2-config-layout|CAD configuration]] page.
+            \[Omitted image "wsd-edit-file-unit-autocad.png"\] Alt text: CAD file edit unit option on the CAD configuration page.
 
         -   Select a unit from the drop-down list.
 
@@ -171,9 +171,4 @@ Default value is **Global**. Retain **Global** to avoid any conflicts between yo
 
             The conversions are now accurate.
 
-## Related
 
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[indoor-mapping-properties|Indoor Mapping properties]]
-- [[autocad-v2-config-layout|CAD configuration]]

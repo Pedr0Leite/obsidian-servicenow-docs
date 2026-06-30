@@ -22,7 +22,7 @@ Role required: sn\_voice\_aia.admin or sn\_hr\_voice\_aia.admin
 
 Install the following plugins:
 
--   [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin \[sn\_hr\_gen\_ai\]
+-   Now Assist for HR Service Delivery \(HRSD\) plugin \[sn\_hr\_gen\_ai\]
 -   Now Assist Voice \[sn\_voice\_aia\]
 -   HR Voice AI Agents \[sn\_hr\_voice\_aia\]
 
@@ -30,7 +30,7 @@ Install the following plugins:
 
 1.  Follow the steps to [Create an AI voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-an-ai-voice-service.md)
 
-2.  Activate the [[now-assist-hrsd-voice-ai-agents|HR AI voice agents]].
+2.  Activate the HR AI voice agents.
 
     1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage** and select the AI agents tab.
 
@@ -89,7 +89,3 @@ Assign roles to admins and users to grant them access to Voice features. See [Co
 
 [HR AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd-voice-ai-agents.md)
 
-## Related
-
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[now-assist-hrsd-voice-ai-agents|HR AI voice agents]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Create Code Signing key pairs and certificates
 
-Create two key pairs to signed [[c_Certificates|certificates]] to establish trust between your protected and trusted instances.
+Create two key pairs to signed certificates to establish trust between your protected and trusted instances.
 
 To establish trust between your instances, you must create a key pair and certificate for each of the `cm_code_attest` and `cm_code_signing` cryptographic modules.
 
@@ -51,6 +51,3 @@ RSASSA\_PKCS1\_V1\_5\_SHA\_512
 
 Certificates must be signed by a public certificate authority.
 
-## Related
-
-- [[c_Certificates|Certificates]]

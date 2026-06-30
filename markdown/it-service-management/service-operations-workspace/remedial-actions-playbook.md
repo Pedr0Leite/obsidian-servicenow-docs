@@ -16,7 +16,7 @@ breadcrumb: [Incident Management in Service Operations Workspace, Operating IT s
 
 Resolve the CI-related issues using the remedial actions using Playbook in the Investigate tab.
 
-The Investigate tab includes the following types of [[remedial-action|remedial action]] to resolve CI-related issues:
+The Investigate tab includes the following types of remedial action to resolve CI-related issues:
 
 -   End process
 -   Restart service
@@ -57,7 +57,7 @@ The **End process** remedial action is available with the following metric infor
 Select the CI and then select **End process** to stop the process running on the CI. The remediation process then is added to the playbook. Select the Playbook \(\[Omitted image "playbook\_icon.png"\] Alt text: Playbook icon\) icon from the contextual side panel to open the playbook on a separate panel and execute the process. You can execute the End process remedial action for the following CI classes:
 
 -   Device: For this CI class, a two-step process is executed where you must get the user approval before the End process remediation process can be executed. After it’s approved, you can directly stop the process on the device, which is also known as the endpoint.
--   Server: For this CI class, you must [[t_CreateAChange|create a change request]] before the End process remedial action can be executed using a standard change request. You must also provide additional information to create a change request.
+-   Server: For this CI class, you must create a change request before the End process remedial action can be executed using a standard change request. You must also provide additional information to create a change request.
 
 ## Restart service
 
@@ -89,7 +89,3 @@ Select the CI and then select **Restart service** to restart the services runnin
 
 [Incident Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[t_CreateAChange|Create a change request]]

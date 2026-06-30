@@ -14,7 +14,7 @@ breadcrumb: [Components installed with On-call scheduling, Reference for on-call
 
 # Tables installed with On-Call Scheduling
 
-[[c_OnCallScheduling|On-Call Scheduling]] adds the following tables.
+On-Call Scheduling adds the following tables.
 
 ## Tables installed with On-Call Scheduling
 
@@ -23,9 +23,9 @@ breadcrumb: [Components installed with On-call scheduling, Reference for on-call
 |Display name \[Table name\]|Description|
 |---------------------------|-----------|
 |On-call Member \[cmn\_rota\_member\]|Table of group members that are participating in the on-call schedule and escalations.|
-|Roster \[cmn\_rota\_roster\]|Table that holds the members of the shift, the shift interval, and escalation [[settings-mobile|settings]].|
+|Roster \[cmn\_rota\_roster\]|Table that holds the members of the shift, the shift interval, and escalation settings.|
 |Shift \[cmn\_rota\]|The table that holds the on-call schedule for a shift.|
-|Roster Schedule Span \[roster\_schedule\_span\]|Table that contains the schedule span definitions. On-Call Scheduling adds a group [[reference-for-itsm-mobile-agent|reference]] and the On-call type to the Type field.|
+|Roster Schedule Span \[roster\_schedule\_span\]|Table that contains the schedule span definitions. On-Call Scheduling adds a group reference and the On-call type to the Type field.|
 |Trigger Rule \[trigger\_rule\]|Table that extends the Assignment Rule \[sysrule\_assignment\] table and stores when the escalation process is triggered and what actions to take.|
 |On-call Notifications \[v\_on\_call\]|Table that lists the reminder notifications that were sent.|
 |Rotation Schedule \[v\_rotation\]|Table that lists shift schedules by start date and time and includes user contact information, if available.|
@@ -51,8 +51,3 @@ breadcrumb: [Components installed with On-call scheduling, Reference for on-call
 
 **Parent Topic:**[Components installed with On-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/components-installed-with-on-call-scheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]
-- [[reference-for-itsm-mobile-agent|Reference]]

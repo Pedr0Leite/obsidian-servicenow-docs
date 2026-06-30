@@ -14,7 +14,7 @@ breadcrumb: [Using the mobile apps, Mobile Platform]
 
 Learn how to provide feedback regarding your ServiceNow in-app experience.
 
-ServiceNow strives to continuously improve the [[mobile-config-navigation|Mobile Platform]], and therefore it is important to gather valuable feedback from you. While ServiceNow is not directly responsible for your in-app experience or the functionality available for your role, we aim to guide you toward directing your feedback and concerns to the appropriate stakeholder who can take direct action.
+ServiceNow strives to continuously improve the Mobile Platform, and therefore it is important to gather valuable feedback from you. While ServiceNow is not directly responsible for your in-app experience or the functionality available for your role, we aim to guide you toward directing your feedback and concerns to the appropriate stakeholder who can take direct action.
 
 Starting with version 11.3 of the native client, anyone using a ServiceNow® mobile app can provide feedback regarding their in-app experience.
 
@@ -56,7 +56,3 @@ If you want to provide feedback at any time, tap **Settings** from the navigatio
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]

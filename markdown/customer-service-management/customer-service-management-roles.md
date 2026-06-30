@@ -17,21 +17,21 @@ The Customer Service Management \(CSM\) application uses roles to provide access
 
 Customer Service Management provides several primary roles that support the following business models:
 
--   Business-to-business \(B2B\): With this business model, you can support accounts and contacts. Additionally, you can [[configure-data-model-relationships|create relationships]] and account teams to support your customers.
+-   Business-to-business \(B2B\): With this business model, you can support accounts and contacts. Additionally, you can create relationships and account teams to support your customers.
 -   Business-to-consumer \(B2C\): With this business model, you can support individual consumers.
 
 These roles ensure access to data while maintaining data security for different types of business relationships.
 
-Besides the Base and Primary roles \(that are based on the Base roles\), there are Explicit roles as well. You may have business requirements that can vary how you use the roles. The [[explicit-roles-in-csm|Explicit roles in CSM]] feature lets you assign both internal and external roles to external users. It is important to regularly review user role assignments to ensure that they are set according to your business requirements.
+Besides the Base and Primary roles \(that are based on the Base roles\), there are Explicit roles as well. You may have business requirements that can vary how you use the roles. The Explicit roles in CSM feature lets you assign both internal and external roles to external users. It is important to regularly review user role assignments to ensure that they are set according to your business requirements.
 
 For more information about reviewing and updating user role assignments, see:
 
 -   [KB0829930](https://support.servicenow.com/kb_view.do?sysparm_article=KB0829930)
--   [[fixing-external-role-assignment|Fix external user role assignments]]
+-   [Fix external user role assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/fixing-external-role-assignment.md)
 
-To learn more about managing Customer Service Management roles, see [[installed-with-cust-serv-workspace|Components installed with CSM workspaces]] and [[inst-wi-cust-serv-addtl-plugins|Components installed with additional plugins for Customer Service Management]].
+To learn more about managing Customer Service Management roles, see [Components installed with CSM workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/installed-with-cust-serv-workspace.md) and [Components installed with additional plugins for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/inst-wi-cust-serv-addtl-plugins.md).
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 ## Service management agent \[sn\_esm\_agent\]
 
@@ -56,7 +56,7 @@ All users.
 
 ### Special considerations
 
-For more information see [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]].
+For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
 ## Service management partner \[sn\_esm\_partner\]
 
@@ -244,7 +244,7 @@ List of roles contained within the role.
 
 -   notify\_view
 
-    **Note:** The notify\_view role is added to the sn\_customerservice\_manager role only when the [[chat-zoom-connector|Chat Zoom Connector]] application is installed.
+    **Note:** The notify\_view role is added to the sn\_customerservice\_manager role only when the Chat Zoom Connector application is installed.
 
 
 ### Groups
@@ -377,7 +377,7 @@ A partner can view and edit all of the cases they have created:
 -   For their own account.
 -   On behalf of customer accounts they are related to.
 
-**Note:** If you are establishing a new relationship between a partner and a customer, the partner or partner admin does not have access to historic cases created for the customer. This is because the historic cases do not have the Partner or Partner Contact fields populated on the [[r_CustomerServiceCaseForm|Case form]].
+**Note:** If you are establishing a new relationship between a partner and a customer, the partner or partner admin does not have access to historic cases created for the customer. This is because the historic cases do not have the Partner or Partner Contact fields populated on the Case form.
 
 For more information see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
@@ -577,7 +577,7 @@ None.
 
 ## Recipients list user \[sn\_publications\_recipients\_list\_user\]
 
-The recipients list user can create and view recipient [[migration-lists|lists]].
+The recipients list user can create and view recipient lists.
 
 ### Contains Roles
 
@@ -766,7 +766,7 @@ If there are no special considerations, enter "None".
 
 ## Case Line Viewer \[sn\_case\_line.viewer\]
 
-Role that allows read only access for [[csm-case-mgmt-case-lines|case lines and workflows]] records.
+Role that allows read only access for case lines and workflows records.
 
 ### Contains Roles
 
@@ -784,16 +784,3 @@ None.
 
 None.
 
-## Related
-
-- [[fixing-external-role-assignment|Fix external user role assignments]]
-- [[installed-with-cust-serv-workspace|Components installed with CSM workspaces]]
-- [[inst-wi-cust-serv-addtl-plugins|Components installed with additional plugins for Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[explicit-roles-in-csm|Explicit Roles in CSM]]
-- [[chat-zoom-connector|Chat Zoom Connector]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]

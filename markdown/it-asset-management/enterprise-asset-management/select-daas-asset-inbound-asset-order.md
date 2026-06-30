@@ -22,7 +22,7 @@ Role required: sn\_eam\_provider.provider\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  Open the Asset tasks list.
 
@@ -117,7 +117,7 @@ Asset
 
 </td><td>
 
-Asset that you are selecting for the inbound asset order line. [[select-daas-asset|Select an asset]] that meets the following criteria:-   Matches all criteria specified in the order line.
+Asset that you are selecting for the inbound asset order line. Select an asset that meets the following criteria:-   Matches all criteria specified in the order line.
 -   The **DaaS asset** option is enabled in the corresponding asset record.
 -   An account is specified in the **DaaS account** field of the corresponding asset record.
 **Note:** For more information on the **DaaS asset** and **DaaS account** fields, see [Asset fields for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-fields-eam.md).
@@ -163,8 +163,3 @@ The provider asset technician must complete the corresponding Asset pick task by
 
 **Parent Topic:**[Completing an inbound asset order for requested Device as a Service \(DaaS\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-inbound-asset-order-daas-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]
-- [[select-daas-asset|Select an asset]]

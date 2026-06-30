@@ -12,7 +12,7 @@ breadcrumb: [Configuring service definitions, Service definitions, Case manageme
 
 # Associate a product with a service definition
 
-After creating a service definition, you can associate one or more [[product-models|product models]] or [[sold-product|sold products]] with the definition.
+After creating a service definition, you can associate one or more product models or sold products with the definition.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ A product model or a sold product can have multiple services associated with it.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **[[csm-service-definitions|Service Definitions]]**.
+1.  Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **Service Definitions**.
 
 2.  Select a service definition.
 
@@ -42,8 +42,4 @@ A product model or a sold product can have multiple services associated with it.
 
     The relationship record is added to the Product Service Relationships related list. If the relationship is for a specific product, the name is displayed in the **Product** column.
 
-## Related
 
-- [[product-models|Product models]]
-- [[sold-product|Sold products]]
-- [[csm-service-definitions|Service definitions]]

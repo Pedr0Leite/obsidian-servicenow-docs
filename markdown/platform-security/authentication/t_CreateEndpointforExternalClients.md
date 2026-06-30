@@ -14,7 +14,7 @@ breadcrumb: [Old Inbound integrations experience, OAuth Inbound, OAuth authentic
 
 # Create an endpoint for clients to access the instance
 
-Create an [[oauth-inbound-and-outbound|OAuth]] application endpoint for external client applications to access the ServiceNow instance.
+Create an OAuth application endpoint for external client applications to access the ServiceNow instance.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Client Secret
 
 </td><td>
 
-\[Required\] The shared secret string that both the instance and the client application or website use to authorize [[sc-communications|communications]] with one another. The instance uses the client secret when requesting an access token. Leave this field blank to have the instance auto-generate a client secret. To display existing client secrets, click the lock icon.
+\[Required\] The shared secret string that both the instance and the client application or website use to authorize communications with one another. The instance uses the client secret when requesting an access token. Leave this field blank to have the instance auto-generate a client secret. To display existing client secrets, click the lock icon.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Redirect URL
 
 </td><td>
 
-The callback URL that the authorization server redirects to. Enter the full URLs of the clients requesting access to the resource, appended by `/oauth_redirect.do`. For example, `http://token_consumer:port/oauth_redirect.do`. Enter as many URLs as needed for all possible token consumers. The instance matches the URL of the incoming [[c_requestAPI|request]] to one of the redirect URLs. If no match is made, the instance uses the first redirect URL.
+The callback URL that the authorization server redirects to. Enter the full URLs of the clients requesting access to the resource, appended by `/oauth_redirect.do`. For example, `http://token_consumer:port/oauth_redirect.do`. Enter as many URLs as needed for all possible token consumers. The instance matches the URL of the incoming request to one of the redirect URLs. If no match is made, the instance uses the first redirect URL.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Enforce Token Restrictions
 
 </td><td>
 
-Select to only allow tokens to be used with APIs set to allow the [[c_Authentication|authentication]] profile. You can set grant access using an [[api-access-policy|API access policy]]. For more information, see [Create REST API access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-api-access-policy.md).Default: Unselected.
+Select to only allow tokens to be used with APIs set to allow the authentication profile. You can set grant access using an API access policy. For more information, see [Create REST API access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-api-access-policy.md).Default: Unselected.
 
 </td></tr><tr><td>
 
@@ -157,10 +157,3 @@ To know more, see [Configure client type for OAuth and SSO records](https://raw.
 
 The system creates a record in the Application Registries \[oauth\_entity\] table with of type OAuth Client. When the instance actually issues tokens and authorization codes, they are stored in the table. See [Manage OAuth tokens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ManageTokens.md) for more information.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[sc-communications|Communications]]
-- [[c_requestAPI|request]]
-- [[c_Authentication|Authentication]]
-- [[api-access-policy|API access policy]]

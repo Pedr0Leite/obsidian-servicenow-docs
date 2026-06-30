@@ -12,7 +12,7 @@ breadcrumb: [Modify a sold product and hierarchy, Customer Life Cycle Management
 
 # Modify a sold product to create a quote
 
-Modify a sold product and its complete hierarchy on the [[csm-workspaces-configure|CSM Configurable Workspace]] to generate a quote for any updated characteristics or configurations. For example, a customer may want to find the price to modify a sold product's characteristics and the line items \(hierarchy\) that are associated with it.
+Modify a sold product and its complete hierarchy on the CSM Configurable Workspace to generate a quote for any updated characteristics or configurations. For example, a customer may want to find the price to modify a sold product's characteristics and the line items \(hierarchy\) that are associated with it.
 
 ## About this task
 
@@ -30,7 +30,7 @@ Role required: Sales Agent \(sn\_sales\_common.sales\_agent\) and Sales Manager 
 
 3.  Open the account that the sold product belongs to.
 
-4.  In the [[sold-product|Sold products]] related list, select the product that you want to modify the characteristics and line items for.
+4.  In the Sold products related list, select the product that you want to modify the characteristics and line items for.
 
 5.  Select **Modify** to update the characteristics of the sold product.
 
@@ -46,7 +46,4 @@ Role required: Sales Agent \(sn\_sales\_common.sales\_agent\) and Sales Manager 
 
     In the Sold product to Quote flow, the data from **Account**, **Contact**, **Name**,**Product Offering**, **Quantity**, **Sys\_id**, **Characteristic**, **Characteristic Option**, and **Characteristic Value** fields are transferred from the Sold Product to Quote Line Item records.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]

@@ -14,7 +14,7 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # Install the ACL Assessment for Reports
 
-The [[report-view-acl-dashboard|ACL Assessment for Reports]] enables you to identify users that don't have access to reports and to enable access where appropriate.
+The ACL Assessment for Reports enables you to identify users that don't have access to reports and to enable access where appropriate.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The ACL Assessment for Reports is a store app. For more information about instal
 
 **Parent Topic:**[ACL Assessment for Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-acl-dashboard.md)
 
-## Related
-
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]

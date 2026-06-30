@@ -16,7 +16,7 @@ With the Commercial Lines Claims dashboard, you can get an insight into how your
 
 The Commercial Lines Claims dashboard enables you to monitor the status of the claim cases, see trends, and drill down into the details from a single view. For any time that you specify, you can view the details for the closed cases that breached an SLA, the open cases that need immediate attention, and the average closing times of the claim cases.
 
-To access the Commercial Lines Claims dashboard, navigate to **All** &gt; **[[commercial-lines-claims-landing-page|Commercial Lines Claims]]** &gt; **Dashboard**.
+To access the Commercial Lines Claims dashboard, navigate to **All** &gt; **Commercial Lines Claims** &gt; **Dashboard**.
 
 ## Required ServiceNow AI Platform roles
 
@@ -110,9 +110,5 @@ Needs to be able to customize views.
 -   Commercial Claim.Service
 -   Commercial Claim.Stage
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]

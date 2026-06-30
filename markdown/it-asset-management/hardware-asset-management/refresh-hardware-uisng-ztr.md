@@ -14,16 +14,16 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage refresh of assets using Zero Touch Refresh
 
-Enable your employees to request hardware refreshes through an external vendor by using the [[zero-touch-asset-refresh|Zero Touch Refresh]] flow on your ServiceNow instance. This process enables you to eliminate having to maintain a local inventory of new assets.
+Enable your employees to request hardware refreshes through an external vendor by using the Zero Touch Refresh flow on your ServiceNow instance. This process enables you to eliminate having to maintain a local inventory of new assets.
 
 -   **[Configure replacement models for a refresh model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-replacement-model.md)**  
-Configure replacement [[c_Models|models]] for a hardware asset model that is refreshed. When configured, employees can select replacement models for their hardware assets on the Zero Touch Refresh form.
+Configure replacement models for a hardware asset model that is refreshed. When configured, employees can select replacement models for their hardware assets on the Zero Touch Refresh form.
 -   **[Request a hardware asset refresh through Zero Touch Refresh](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-zero-touch-refresh-request.md)**  
 Request to replace a hardware asset that you own with a new asset directly with the provider through Zero Touch Refresh.
 -   **[Fulfill a Zero Touch Refresh Fulfillment Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-zero-touch-refresh-order.md)**  
 As a provider, ship a replacement asset requested through a Zero Touch Refresh Fulfillment Request to the requester.
 -   **[Process a Zero Touch Refresh request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/process-zero-touch-asset-request.md)**  
-[[process-zero-touch-asset-request|Process a Zero Touch Refresh request]] to receive the assets from your provider and complete the Zero Touch Refresh flow.
+Process a Zero Touch Refresh request to receive the assets from your provider and complete the Zero Touch Refresh flow.
 -   **[Acknowledge receipt of an asset on a mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/receive-assets-from-ztr.md)**  
 As an employee, acknowledge receipt of the new asset that you received through a Zero Touch Refresh request on a mobile device.
 -   **[Acknowledge receipt of an asset through the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/acknowledge-asset-core-ui.md)**  
@@ -38,7 +38,7 @@ As an employee, acknowledge receipt of the new asset that you received through a
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -60,7 +60,7 @@ As an employee, acknowledge receipt of the new asset that you received through a
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
@@ -82,7 +82,7 @@ As an employee, acknowledge receipt of the new asset that you received through a
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -98,11 +98,3 @@ As an employee, acknowledge receipt of the new asset that you received through a
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[c_Models|Models]]
-- [[process-zero-touch-asset-request|Process a Zero Touch Refresh request]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[ham-landing-page|Hardware Asset Management]]

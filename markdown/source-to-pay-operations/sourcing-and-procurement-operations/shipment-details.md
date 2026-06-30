@@ -16,9 +16,9 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 Shipment details display tracking information of a product that is shipped to the employee shopper.
 
-Shipments can be tracked for USPS, FedEx, UPS, or other carrier services. The tracking information from shipping details is displayed to the employee shopper on the ShoppingHub portal. Shipment details are referenced to a receipt task and a [[purchase-order-table|purchase order]] line.
+Shipments can be tracked for USPS, FedEx, UPS, or other carrier services. The tracking information from shipping details is displayed to the employee shopper on the ShoppingHub portal. Shipment details are referenced to a receipt task and a purchase order line.
 
-You can view all shipment details from the **Receipt Acknowledgment** sub-module under the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module. The following are the key fields for a shipment:
+You can view all shipment details from the **Receipt Acknowledgment** sub-module under the Sourcing and Purchasing Automation module. The following are the key fields for a shipment:
 
 <table id="table_yd3_sdz_hlb"><thead><tr><th>
 
@@ -109,7 +109,3 @@ Purchase order line associated with the shipment.
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

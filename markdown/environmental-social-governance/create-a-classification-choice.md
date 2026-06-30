@@ -32,7 +32,7 @@ If you have many metric definitions that are similar, then you can create groups
 
     |Field|Description|
     |-----|-----------|
-    |Set|Area where you want to create the choice. This field is set to **[[esg-metrics|ESG Metrics]]**. You can modify this field.|
+    |Set|Area where you want to create the choice. This field is set to **ESG Metrics**. You can modify this field.|
     |Name|Name of the choice. For example, `Emissions`.|
     |Reporting classification|Tag under which the metric definition and metric is categorized. For example, **GRI**, **SASB**, or **Steering Committee Review**.|
     |Choice category|Classification of the choice. Example, groups, subgroups, labels.|
@@ -44,9 +44,5 @@ If you have many metric definitions that are similar, then you can create groups
 
 The grouping is ready to be used in the metric definition form under the Classification section.
 
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[using-grc-metrics|using grc metrics]]
-- [[esg-metrics|esg metrics]]

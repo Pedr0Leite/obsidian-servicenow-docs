@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # Set up checklist for the Security Incident Response Mobile app
 
-The following checklist includes the set up tasks that you are required to complete in your ServiceNow AI Platform® instance and on your mobile device prior to using the [[sir-landing-page|Security Incident Response]] Mobile app.
+The following checklist includes the set up tasks that you are required to complete in your ServiceNow AI Platform® instance and on your mobile device prior to using the Security Incident Response Mobile app.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ As a user with the admin role, verify that you have the Security Incident Respon
 
  For more information about installing the Security Incident Response core application, see [Install and configure Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/install-and-configure-sir.md).
 
- If the Security Incident Response core application is not visible in Plugins, for more information about installing core applications and entitlements to applications, see [[secops-and-store|Security Operations and the ServiceNow Store]].
+ If the Security Incident Response core application is not visible in Plugins, for more information about installing core applications and entitlements to applications, see [Security Operations and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-and-store.md).
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ As a user with the admin role, verify that you have the Security Incident Respon
 
 As a user with the ServiceNow AI Platform admin role, verify that you have assigned mobile users with the required roles in your ServiceNow AI Platform instance. 1.  To view the roles that are assigned to a user, navigate to **Users and Groups** &gt; **Users**.
 2.  Select the user name followed by the roles related list. All roles assigned to this user are displayed.
-3.  Verify a user is assigned, or assign a user with the IT [[threat-intelligence-infrastructure|Infrastructure]] Library role \(itil\). Users with the itil role can create, open, update and [[t_ClosingSecIncidents|close security incidents]]. Only users with the itil role can have tasks assigned to them.
+3.  Verify a user is assigned, or assign a user with the IT Infrastructure Library role \(itil\). Users with the itil role can create, open, update and close security incidents. Only users with the itil role can have tasks assigned to them.
 4.  Verify a user is assigned, or assign a user with the security analyst role \(sn\_si.analyst\). Users with the sn\_si.analyst role can read and edit security incident records. This role is automatically added when you assign the itil role.
 5.  Verify you have created any required assignment groups and assigned mobile users to these groups.
 
@@ -114,9 +114,3 @@ For more information about setting notifications, see [Setting user notification
 </td></tr></tbody>
 </table>You have successfully set up your mobile device and the ServiceNow AI Platform for the Security Incident Response Mobile app. The next step is to log in to your ServiceNow AI Platform instance with your mobile device.
 
-## Related
-
-- [[secops-and-store|Security Operations and the ServiceNow Store]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[t_ClosingSecIncidents|Close security incidents]]

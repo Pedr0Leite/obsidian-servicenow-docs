@@ -14,7 +14,7 @@ breadcrumb: [Authentication policies, Adaptive authentication, Authentication, A
 
 # Configure an authentication policy
 
-Configure an authentication policy to define inputs and conditions to used to grant access to an instance or enforce [[mfa-landing|multi-factor authentication]].
+Configure an authentication policy to define inputs and conditions to used to grant access to an instance or enforce multi-factor authentication.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **[[authentication-policies|Authentication Policies]]** &gt; **All [[ca-policies|Policies]]**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **All Policies**.
 
     **Note:** To see examples of completed policies, you can review these policies on your instance:
 
     -   DEMO POLICY - Allow Local Login for Admins from the Trusted IP Range only
     -   DEMO POLICY - Allow Local Login for Admins only
-    -   DEMO POLICY - Restrict Username and Password based [[c_Authentication|Authentication]] for specific [[users|users]]
+    -   DEMO POLICY - Restrict Username and Password based Authentication for specific users
 2.  Click the **New** button to create a new policy record.
 
 3.  In the **Policy** form, fill in the fields.
@@ -42,7 +42,7 @@ Role required: adaptive\_auth\_admin
 
 4.  From the **Policy Inputs** tab, click **Edit**.
 
-5.  Select one or more [[adaptive-auth-filter-criteria|filter criteria]] from the **Collection** list and move them to **Policy Inputs List** of **Allow Access Policy** list.
+5.  Select one or more filter criteria from the **Collection** list and move them to **Policy Inputs List** of **Allow Access Policy** list.
 
     \[Omitted image "filter-criteria-allow-access-policy.png"\] Alt text: sample filter criteria for allow access policy
 
@@ -64,12 +64,4 @@ Role required: adaptive\_auth\_admin
 
 9.  Click **Save**.
 
-## Related
 
-- [[mfa-landing|Multi-factor authentication]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[authentication-policies|Authentication policies]]
-- [[ca-policies|Policies]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

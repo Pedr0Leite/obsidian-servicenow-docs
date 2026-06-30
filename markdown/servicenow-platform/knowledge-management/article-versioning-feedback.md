@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Feedback on article versions
 
-With the [[article-versioning|article versioning]] feature, users can view and contribute to feedback on the current versions of knowledge articles.
+With the article versioning feature, users can view and contribute to feedback on the current versions of knowledge articles.
 
 For more information about feedback options, see [Knowledge feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeFeedback.md).
 
@@ -27,6 +27,3 @@ For more information about feedback options, see [Knowledge feedback](https://ra
 |View count|The view count is carried over to the checked out article. Any view of a version of an article increments the view count of all the subsequent published versions. Views to a newer version of an article do not affect the view count of previous versions. When a draft article is published, the total view count shows sum of previous published article view count and its own standalone view count.|
 |Use count|The use count is carried over to the checked out article. Any use of a version of an article increments the use count of all subsequent versions. Any use of a newer version of an article does not affect the use count of previous versions.|
 
-## Related
-
-- [[article-versioning|Article versioning]]

@@ -28,7 +28,7 @@ To determine the appropriate person or group to handle a privacy case, establish
 
 1.  Navigate to **All** &gt; **Privacy Case Management** &gt; **Case type**.
 
-2.  Select the **Assignment Rules** related list on the [[assignment-rule-form|Assignment Rule form]].
+2.  Select the **Assignment Rules** related list on the Assignment Rule form.
 
 3.  Select **New**.
 
@@ -44,6 +44,3 @@ Learn about the fields on the assignment rule form. Use this form to define case
 
 **Parent Topic:**[Configuring Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-privacy-case-management.md)
 
-## Related
-
-- [[assignment-rule-form|Assignment Rule form]]

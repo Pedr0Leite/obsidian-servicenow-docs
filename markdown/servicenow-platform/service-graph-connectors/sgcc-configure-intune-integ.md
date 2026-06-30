@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Intune, Service Graph Connectors, Integrating third-party
 
 # Configure Service Graph Connector for Microsoft Intune using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[cmdb-integration-intune|Service Graph Connector for Microsoft Intune]] for pulling in Microsoft Intune data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Microsoft Intune for pulling in Microsoft Intune data into the CMDB.
 
 ## Before you begin
 
@@ -49,11 +49,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts, to provide access to global tables to the SGC-Admin user, and to configure advanced data sources. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts, to provide access to global tables to the SGC-Admin user, and to configure advanced data sources. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 For more details on permissions, see [Service Graph Connector for Microsoft Intune - Troubleshooting connection issues](https://community.servicenow.com/community?id=community_blog&sys_id=a405ef9bdbbd7018bb4a474d13961903) on ServiceNow Community and [Microsoft Graph permissions reference](https://learn.microsoft.com/en-us/graph/permissions-reference) on the Microsoft documentation site.
 
@@ -71,7 +71,7 @@ For more details on permissions, see [Service Graph Connector for Microsoft Intu
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Select the data source type.
 
@@ -84,7 +84,7 @@ For more details on permissions, see [Service Graph Connector for Microsoft Intu
             **Note:**
 
             -   The admin role is required to configure advanced data sources.
-            -   To enable the creation of attachments, the **glide.[[attachment|attachment]].extensions** system property must be set to either null or `zip, json`.
+            -   To enable the creation of attachments, the **glide.attachment.extensions** system property must be set to either null or `zip, json`.
 
                 For more information, see the [Service Graph Connector For Microsoft Intune – Advanced \[KB1641546\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB1641546) article in the Now Support Knowledge Base.
 
@@ -119,7 +119,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to your Microsoft Intune application. Based on the region of your Microsoft Intune application, enter the connection URL in one of the following formats:
+Base URL to connect to your Microsoft Intune application. Based on the region of your Microsoft Intune application, enter the connection URL in one of the following formats:
 
 -   Global
 
@@ -197,7 +197,7 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Microsoft Intune application.
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID server]]
+Use MID server
 
 </td><td>
 
@@ -209,7 +209,7 @@ Mid Selection
 
 </td><td>
 
-MID Server for the connection.This field appears only when you select the **Use MID Server** [[check-box|check box]].
+MID Server for the connection.This field appears only when you select the **Use MID Server** check box.
 
 </td></tr></tbody>
 </table>    3.  Select **Create and test connection**.
@@ -276,15 +276,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Accessing the connection details of Service Graph Connector for Microsoft Intune](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-intune-conn.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-intune|Service Graph Connector for Microsoft Intune]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[attachment|Attachment]]
-- [[c_Connect|Connect]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

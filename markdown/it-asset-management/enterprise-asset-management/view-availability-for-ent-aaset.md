@@ -32,7 +32,7 @@ The Asset KPIs report is available for an enterprise asset under the following c
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise asset estate**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Enterprise asset estate**.
 
 2.  Select the **All assets** tab.
 
@@ -55,6 +55,3 @@ The Asset KPIs report is available for an enterprise asset under the following c
 
 **Parent Topic:**[Asset performance reports in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-performance-reports-eam.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

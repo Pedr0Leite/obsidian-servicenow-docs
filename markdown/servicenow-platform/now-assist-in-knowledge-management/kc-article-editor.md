@@ -14,7 +14,7 @@ breadcrumb: [Use Now Assist in Knowledge Management, Now Assist in Knowledge Man
 
 # Generate and edit articles using Now Assist in the Knowledge Center article editor
 
-This task explains how to create and improve a knowledge article with the [[knowledge-center|Knowledge center]] article editor.
+This task explains how to create and improve a knowledge article with the Knowledge center article editor.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Suggested reading: [Edit an article using the Now Assist context menu](https://r
 
 4.  Choose either the desired template and select **Next** to open the Knowledge center article editor.
 
-5.  Enter the instructions for generating content, such as `Generate an article for [[password-reset-landing-page|password reset]]`.
+5.  Enter the instructions for generating content, such as `Generate an article for password reset`.
 
     Review the generated article. You can edit the content, check grammar, and make the article easy to read. You can also select **Regenerate** to create an article based on your prompt.
 
@@ -45,7 +45,3 @@ Suggested reading: [Edit an article using the Now Assist context menu](https://r
 
 **Parent Topic:**[Using Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/using-now-assist-in-km.md)
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]
-- [[password-reset-landing-page|Password Reset]]

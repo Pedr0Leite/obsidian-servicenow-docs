@@ -50,8 +50,5 @@ Each drawing in the campus map file represents a building or campus overview. Th
 -   The `display_name` is used to name the building.
 -   The `ref frame` is used to align the building horizontally and vertically. The GeoJSON data, contains WGS 84 information used to rotate the image so it displays at a natural horizontal orientation.
 
-**Parent Topic:**[[r_CommunityFile|Community file]]
+**Parent Topic:**[Community file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_CommunityFile.md)
 
-## Related
-
-- [[r_CommunityFile|Community file]]

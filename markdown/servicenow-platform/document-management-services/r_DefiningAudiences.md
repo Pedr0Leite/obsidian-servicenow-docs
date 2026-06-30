@@ -14,13 +14,13 @@ breadcrumb: [Defining Document Parameters, Features, Managed Documents, Document
 
 # Defining Audiences
 
-To define a new audience, navigate to **[[c_ManagedDocuments|Managed Documents]]** &gt; **Administration** &gt; **Audience** and click **New**.
+To define a new audience, navigate to **Managed Documents** &gt; **Administration** &gt; **Audience** and click **New**.
 
 |Field|Description|
 |-----|-----------|
 |Audience Name|A unique name for the audience.|
 |Audience Code|A short code for the audience. Referenced as a name component for the name format.|
-|Label|A [[label|label]] to display in the **Audience** choice list.|
+|Label|A label to display in the **Audience** choice list.|
 |Order|A number indicating this audience's sequence in the choice list.|
 
 The following audiences are available in the base system.
@@ -37,7 +37,3 @@ The following audiences are available in the base system.
 
 [Defining Document Parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[label|Label]]

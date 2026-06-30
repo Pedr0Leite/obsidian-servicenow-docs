@@ -14,7 +14,7 @@ breadcrumb: [Legacy theming, Configuring the Mobile Platform, Mobile Platform]
 
 Learn how the colors that you select in your mobile themes are applied on your mobile applications.
 
-**Important:** Use [[sg-themes|legacy mobile theming]] on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [[explore-ne-theming|Next Experience theming for mobile]].
+**Important:** Use legacy mobile theming on Tokyo and earlier ServiceNow® instances. For Utah and later releases, see [Next Experience theming for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/explore-ne-theming.md).
 
 ## Color choice considerations
 
@@ -46,7 +46,7 @@ Use the following figures to see how your color choices affect the elements with
 
     \[Omitted image "mobile-theme-alp.png"\] Alt text: Diagram of where theme colors are applied in an application launch page.
 
--   **[[sg-mobile-tab-bar|Navigation Bar]]**
+-   **Navigation Bar**
 
     \[Omitted image "mobile-theme-tabbar.png"\] Alt text: Diagram of where theme colors are applied in the navigation bar.
 
@@ -69,7 +69,7 @@ Use the following figures to see how your color choices affect the elements with
 
 ## Record screen and components
 
-Use the following figures to see how your color choices affect a [[form-screen|record screen]] and its components within your mobile apps.
+Use the following figures to see how your color choices affect a record screen and its components within your mobile apps.
 
 -   **Record screen**
 
@@ -104,7 +104,7 @@ Use the following figures to see how your color choices affect the various scree
 
     \[Omitted image "mobile-theme-map.png"\] Alt text: Diagram of where theme colors are applied in map screens.
 
-    **Note:** The **Pin color** field in the list stream record that is associated to your [[map-screen|map screen]] determines the color of the pins on your maps.
+    **Note:** The **Pin color** field in the list stream record that is associated to your map screen determines the color of the pins on your maps.
 
 -   **URL template**
 
@@ -123,7 +123,7 @@ Use the following figures to see how your color choices affect the various setti
 
     \[Omitted image "mobile-theme-settings.png"\] Alt text: Diagram of where theme colors are applied in the settings screen.
 
--   **[[mobile-offline-mode|Offline mode]] settings**
+-   **Offline mode settings**
 
     \[Omitted image "mobile-theme-offline.png"\] Alt text: Diagram of where theme colors are applied in the offline mode settings screen.
 
@@ -135,7 +135,7 @@ Use the following figures to see how your color choices affect the various setti
 
     \[Omitted image "mobile-theme-pin.png"\] Alt text: Diagram of where theme colors are applied in the PIN settings screen.
 
--   **[[siri-shortcuts|Siri shortcuts]] settings \(iOS Only\)**
+-   **Siri shortcuts settings \(iOS Only\)**
 
     \[Omitted image "mobile-theme-siri.png"\] Alt text: Diagram of where theme colors are applied in the Siri shortcuts settings screen.
 
@@ -152,12 +152,4 @@ Use the following figures to see how your color choices display in your Android 
 
     \[Omitted image "mobile-theme-ios-modal.png"\] Alt text: Diagram of where theme colors are applied in iOS modals.
 
-## Related
 
-- [[explore-ne-theming|Next Experience theming for mobile]]
-- [[sg-themes|Legacy mobile theming]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[form-screen|Record screen]]
-- [[map-screen|Map screen]]
-- [[mobile-offline-mode|Offline mode]]
-- [[siri-shortcuts|Siri shortcuts]]

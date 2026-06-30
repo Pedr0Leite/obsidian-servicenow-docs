@@ -14,7 +14,7 @@ breadcrumb: [Self-health monitors for Event Management, Manage and monitor alert
 
 # Configure the Event Management - Insert Health Monitor scheduled job
 
-Determine what the [[c_EM|Event Management]] - Insert Health Monitor scheduled job is to monitor. After the job runs, you can view the **ServiceNow Event Management** application services.
+Determine what the Event Management - Insert Health Monitor scheduled job is to monitor. After the job runs, you can view the **ServiceNow Event Management** application services.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/self-monitoring.md)
 
-## Related
-
-- [[c_EM|Event Management]]

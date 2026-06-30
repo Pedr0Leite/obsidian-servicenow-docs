@@ -14,11 +14,11 @@ breadcrumb: [Creating Interactive Filters, Interactive Filters, Reporting, dashb
 
 # Create a reference field interactive filter
 
-A reference field interactive filter allows users to filter report [[widgets|widgets]] based on the value of a reference field.
+A reference field interactive filter allows users to filter report widgets based on the value of a reference field.
 
 ## Before you begin
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing [[c_HomepagePublishers|interactive filters]] in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 When a user selects `All`, they do not see a report with all filter options applied, they see the unfiltered report. This example of reference filter provides filter options from the Assignment Group field on the Group \[sys\_user\_group\] table.
 
@@ -173,8 +173,3 @@ Repeat steps 10–13 as needed for each reference field you want to filter on. A
 
 [bundle-platux.create-related-list-query]
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]

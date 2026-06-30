@@ -37,8 +37,5 @@ Role required: admin
 5.  Select **Update**.
 
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]

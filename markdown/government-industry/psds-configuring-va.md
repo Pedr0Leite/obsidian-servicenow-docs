@@ -12,7 +12,7 @@ breadcrumb: [Enable communication channels, Configure, Public Sector Digital Ser
 
 # Configure Virtual Agent for Public Sector Digital Services
 
-Set up ServiceNow® Virtual Agent so that conversation designers \(topic authors\) can create and modify automated conversations for public sector use cases. Virtual Agent for Public Sector Digital Services also helps your constituents complete common self-service tasks on the [[gsp-overview-public-sector|Government Service Portal]] with predefined Government Service Virtual Agent topics \(chatbot conversations\).
+Set up ServiceNow® Virtual Agent so that conversation designers \(topic authors\) can create and modify automated conversations for public sector use cases. Virtual Agent for Public Sector Digital Services also helps your constituents complete common self-service tasks on the Government Service Portal with predefined Government Service Virtual Agent topics \(chatbot conversations\).
 
 **Note:** The Virtual Agent plugin \(com.glide.cs.chatbot\) must be activated.
 
@@ -28,9 +28,9 @@ Before you or your topic authors \(users with the virtual\_agent\_admin role\) c
 -   Activate the Glide Virtual Agent plugin \(com.glide.cs.chatbot\) to access platform topics and topic blocks and run Virtual Agent Designer.
 -   [Activate the Customer Service Virtual Agent plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-virtual-agent-csm.md) \(com.sn\_csm.virtualagent\) to access prebuilt Customer Service Management conversations and topic blocks.
 -   Become familiar with Virtual Agent Designer to create and update conversation topics.
--   [[install-public-sector-digital-services-core|Install Public Sector Digital Services Core]] application to access public sector topic blocks that can be used in public sector conversations.
--   [[install-psds-service-request-playbook|Install Service Request Playbook for Public Sector Digital Services]] to access the prebuilt topic, **Create a Service Request**.
--   [[install-psds-license-permit-request-playbook|Install License and Permit Playbook for Public Sector Digital Services]] to access the prebuilt topic, **Start a License/Permit Application**.
+-   [Install Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-public-sector-digital-services-core.md) application to access public sector topic blocks that can be used in public sector conversations.
+-   [Install Service Request Playbook for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-service-request-playbook.md) to access the prebuilt topic, **Create a Service Request**.
+-   [Install License and Permit Playbook for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-license-permit-request-playbook.md) to access the prebuilt topic, **Start a License/Permit Application**.
 
 ## Configure Virtual Agent conversations for public sector users
 
@@ -43,7 +43,7 @@ These blocks are subflows that run conversational elements or common tasks in a 
     2.  Locate **GSP Chat**, and select the check box to set the record to **Active**.
 2.  In Virtual Agent Designer, search for the corresponding topic block.
     -   For Service Request Playbook requests, search for and select **Create a Service Request**.
-    -   For License and Permit Playbook requests, search for and select **Start a License/Permit Application**. For more information, see [[psds-lpr-configure-va|Configure Virtual Agent for License and Permit Playbook]].
+    -   For License and Permit Playbook requests, search for and select **Start a License/Permit Application**. For more information, see [Configure Virtual Agent for License and Permit Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-lpr-configure-va.md).
 3.  Select **Publish** to set the topic block to Active and make it available to your end users. For more information on creating and publishing Virtual Agent topics, see [Publish a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/publish-virtual-agent-topic.md).
 
 For more information on working with topics in Virtual Agent Designer, see Getting Started with Virtual Agent Designer.
@@ -93,10 +93,3 @@ Extension of the base public sector service.
 </table>
 To learn more about topic blocks and how to use them in Virtual Agent conversations, see Maximizing code reuse with topic blocks
 
-## Related
-
-- [[install-public-sector-digital-services-core|Install Public Sector Digital Services Core]]
-- [[install-psds-service-request-playbook|Install Service Request Playbook for Public Sector Digital Services]]
-- [[install-psds-license-permit-request-playbook|Install License and Permit Playbook for Public Sector Digital Services]]
-- [[psds-lpr-configure-va|Configure Virtual Agent for License and Permit Playbook]]
-- [[gsp-overview-public-sector|Government Service Portal]]

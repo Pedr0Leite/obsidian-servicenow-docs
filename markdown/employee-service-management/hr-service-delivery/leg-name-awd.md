@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Advanced Integration with Workday, I
 
 # Legal name change configuration
 
-Complete the legal name change configuration to allow employees to change their legal name through virtual agent conversation in [[employee-center-landing-page|Employee Center]].
+Complete the legal name change configuration to allow employees to change their legal name through virtual agent conversation in Employee Center.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_workday.admin
 
 1.  Navigate to **All** &gt; **Workday Advanced Use Cases** &gt; **Legal Name Change** &gt; **Document Categories**.
 
-2.  To pull the legal name change document categories from Workday into a ServiceNow application, click **Get [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] IDs**.
+2.  To pull the legal name change document categories from Workday into a ServiceNow application, click **Get Reference IDs**.
 
     A data source with a predefined script imports document categories into the Workday Reference ID List Staging \[sn\_hr\_workday\_adv\_reference\_id\_list\_staging\] table and from staging table into the Workday Reference ID List \[sn\_hr\_workday\_adv\_reference\_id\_list\] table.
 
@@ -36,7 +36,3 @@ Role required: sn\_hr\_workday.admin
 3.  To allow an employee to upload the name change document in Virtual Agent conversation in Employee Center, click the **Enable document upload** option and select a relevant document category.
 4.  Click **Submit**.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

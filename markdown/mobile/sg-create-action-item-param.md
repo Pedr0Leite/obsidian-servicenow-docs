@@ -24,19 +24,19 @@ Use action items to define what an action function does when a user uses that fu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Functions** category and then select **New**.
 
 4.  In the **Action item** area of the form, select **New** and complete the fields for the action item as needed.
 
-    For more information on creating an action item, see [[sg-studio-create-action-item|Configure an action item]].
+    For more information on creating an action item, see [Configure an action item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-create-action-item.md).
 
 5.  In the **Data parameters** area of the Action Item form, select **New**.
 
@@ -67,8 +67,4 @@ Use action items to define what an action function does when a user uses that fu
 
     Confirm that the Data Parameter you created in Steps 5-9 appears in the **Data parameters** section of the Action item form.
 
-## Related
 
-- [[sg-studio-create-action-item|Configure an action item]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

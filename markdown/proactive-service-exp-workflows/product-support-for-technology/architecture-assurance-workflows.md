@@ -14,7 +14,7 @@ breadcrumb: [Explore, Proactive Service Experience Workflows, Product Support fo
 
 # Proactive Service Experience Workflows architecture
 
-There are multiple components that make up the architecture of the [[psew-landing-page|Proactive Service Experience Workflows]] application.
+There are multiple components that make up the architecture of the Proactive Service Experience Workflows application.
 
 The main components are as follows:
 
@@ -60,6 +60,3 @@ Use the customer impact tab to reduce navigation time, and enhance tracking and 
 
 **Parent Topic:**[Exploring the Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/explore-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

@@ -12,7 +12,7 @@ breadcrumb: [System properties, Zero Trust Access, Access Management]
 
 # Session Access Audits
 
-The Session Access Audits displays the Session Access [[logs|logs]] and information related to a user's session.
+The Session Access Audits displays the Session Access logs and information related to a user's session.
 
 ## Audits
 
@@ -26,8 +26,8 @@ The Session Access audit displays audit information as follows:
 |-----|-----------|
 |User|Details of the user.|
 |Session ID|Details about the session displayed as a unique ID.|
-|Mobile Client|The mobile client details. **ServiceNow Agent** \(Now Agent\) and **ServiceNow [[c_requestAPI|Request]]** \(Now Mobile\).|
-|Session Access [[ca-policies|Policies]] Applied|The Session Access policy that is applied.|
+|Mobile Client|The mobile client details. **ServiceNow Agent** \(Now Agent\) and **ServiceNow Request** \(Now Mobile\).|
+|Session Access Policies Applied|The Session Access policy that is applied.|
 |Roles to Remove|Roles that were removed from the user while logging.|
 |Limit To Roles|Roles that were limited to the user while logging.|
 |Group List to Remove Roles|Information about the group that has removed roles for the user.|
@@ -37,8 +37,3 @@ The Session Access audit displays audit information as follows:
 |IP Address|Details of the IP address used by the user to log in.|
 |Created|Details of the created user record's date and time.|
 
-## Related
-
-- [[logs|Logs]]
-- [[c_requestAPI|request]]
-- [[ca-policies|Policies]]

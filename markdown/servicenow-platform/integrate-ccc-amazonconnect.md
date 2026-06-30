@@ -12,7 +12,7 @@ breadcrumb: [Integrating Voice with other applications, ServiceNow Voice, Manage
 
 # Integrate ServiceNow Voice with Amazon Connect
 
-[[c_Connect|Connect]] [[cloud-call-center-overview|ServiceNow Voice]] of your ServiceNow instance with the Amazon Connect instance to provide a seamless inbound and outbound voice call experience for your callers and agents.
+Connect ServiceNow Voice of your ServiceNow instance with the Amazon Connect instance to provide a seamless inbound and outbound voice call experience for your callers and agents.
 
 ## Before you begin
 
@@ -179,7 +179,7 @@ Import Contact Flows
     -   Upload the hold music. See the [AWS documentation](https://docs.aws.amazon.com/connect/latest/adminguide/prompts.html#howto-prompts).
 -   Define a call tree for inbound and outbound calls between Amazon Connect and your ServiceNow instance. For more information on contact flows, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/connect-contact-flows.html).
 
--   Based on your subscription, you have default inbound and outbound contact flows. For example, for the integration of ServiceNow Voice with ITSM applications, see [[instld-with-cloud-call-center-itsm|Components installed with ServiceNow Voice for ITSM]].
+-   Based on your subscription, you have default inbound and outbound contact flows. For example, for the integration of ServiceNow Voice with ITSM applications, see [Components installed with ServiceNow Voice for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-cloud-call-center-itsm.md).
 
 -   For an inbound contact flow, create queues to route contacts from AWS queues to ServiceNow queues. For information on creating queues in AWS, see the Amazon [documentation](https://docs.aws.amazon.com/connect/latest/adminguide/transfer-to-agent.html).
 
@@ -193,7 +193,7 @@ Setup Real Time Transcription
 
 </td><td>
 
-Set up the properties in the Amazon Connect integration in order to enable Real-Time Transcription. Refer to [[configure-rtt-sn-voice|Configure Real Time Transcription for ServiceNow Voice Customer Service Management]] for configuration instructions.
+Set up the properties in the Amazon Connect integration in order to enable Real-Time Transcription. Refer to [Configure Real Time Transcription for ServiceNow Voice Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-rtt-sn-voice.md) for configuration instructions.
 
 </td></tr><tr><td>
 
@@ -233,22 +233,12 @@ See [Use Interaction Controls Component \(ICC\) call controls with Amazon Connec
 
 </td></tr></tbody>
 </table>
--   **[[amazon-connect-sso-integration-with-servicenow|Amazon Connect SSO integration with ServiceNow]]**  
+-   **[Amazon Connect SSO integration with ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/amazon-connect-sso-integration-with-servicenow.md)**  
 Single Sign-On \(SSO\) integration between Amazon Connect and ServiceNow eliminates duplicate authentication by using a shared identity provider \(IdP\) to authenticate agents automatically when they open the Amazon Connect softphone.
--   **[[establish-automated-bot-interactions|Configure a contact flow for an automated caller interaction]]**  
+-   **[Configure a contact flow for an automated caller interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/establish-automated-bot-interactions.md)**  
 Invoke an automated caller interaction with bots to fulfill the caller's request within the ServiceNow instance.
--   **[[vdi-support-for-voice-calls-with-amazon-connect|Configure a Virtual Desktop Infrastructure \(VDI\) for voice calls with Amazon Connect]]**  
+-   **[Configure a Virtual Desktop Infrastructure \(VDI\) for voice calls with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/vdi-support-for-voice-calls-with-amazon-connect.md)**  
 Contact centers commonly use Virtual Desktop Infrastructure \(VDI\) to optimize agent usage of browser applications. This feature enables agents to use ServiceNow and the Amazon Connect Contact Control Panel \(CCP\) within a VDI environment, taking both inbound and outbound calls without disruption. Administrators can configure groups of agents to use either VDI or non-VDI browsers based on OpenFrame configuration values.
 
-**Parent Topic:**[[integrate-ccc-other-apps|Integrating Voice with other applications]]
+**Parent Topic:**[Integrating Voice with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrate-ccc-other-apps.md)
 
-## Related
-
-- [[instld-with-cloud-call-center-itsm|Components installed with ServiceNow Voice for ITSM]]
-- [[configure-rtt-sn-voice|Configure Real Time Transcription for ServiceNow Voice Customer Service Management]]
-- [[amazon-connect-sso-integration-with-servicenow|Amazon Connect SSO integration with ServiceNow]]
-- [[establish-automated-bot-interactions|Configure a contact flow for an automated caller interaction]]
-- [[vdi-support-for-voice-calls-with-amazon-connect|Configure a Virtual Desktop Infrastructure \(VDI\) for voice calls with Amazon Connect]]
-- [[integrate-ccc-other-apps|Integrating Voice with other applications]]
-- [[c_Connect|Connect]]
-- [[cloud-call-center-overview|ServiceNow Voice]]

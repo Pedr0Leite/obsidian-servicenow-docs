@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Glassfish default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for Glassfish monitoring.
+Agent Client Collector provides the following default checks and policies for Glassfish monitoring.
 
 <table id="table_a3f_qsc_g5b"><thead><tr><th>
 
@@ -228,7 +228,3 @@ metric-glassfish-deployment-lifecycle.rb (options)
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

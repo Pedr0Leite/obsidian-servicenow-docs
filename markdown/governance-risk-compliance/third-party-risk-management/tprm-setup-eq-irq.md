@@ -20,7 +20,7 @@ Set up an internal questionnaire's responses to automatically attach questionnai
 
 Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
-**Note:** Automatic attachment of questionnaires to external assessments based on inherent risk questionnaire \(IRQ\) responses or IRQ-calculated risk tiers is currently not supported in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+**Note:** Automatic attachment of questionnaires to external assessments based on inherent risk questionnaire \(IRQ\) responses or IRQ-calculated risk tiers is currently not supported in Smart Assessment Engine.
 
 ## About this task
 
@@ -103,6 +103,4 @@ Type of external assessment that the questionnaire is attached to.
 </td></tr></tbody>
 </table>6.  Select **Submit**.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

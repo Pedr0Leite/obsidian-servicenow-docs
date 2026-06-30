@@ -14,7 +14,7 @@ breadcrumb: [Configure, Personal Lines Claims, Exploring insurance claims applic
 
 # Install Personal Lines Claims
 
-If you have the admin role, you can install the [[personal-lines-claims-landing-page|Personal Lines Claims]] application \(sn\_ins\_claim\_pers\). The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
+If you have the admin role, you can install the Personal Lines Claims application \(sn\_ins\_claim\_pers\). The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ For more information, see [Components installed with Personal Lines Claims](http
 
 6.  Select **Install**.
 
-## Related
 
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]

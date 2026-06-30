@@ -14,7 +14,7 @@ breadcrumb: [Cloud Action Library, ITOM Cloud Accelerate, IT Operations Manageme
 
 # Cloud Action Library reference
 
-Reference topics provide additional information about the [[cloud-actions-library-landing-page|Cloud Action Library]] application.
+Reference topics provide additional information about the Cloud Action Library application.
 
 -   **[AWS Enable EC2 Instance Monitoring action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cal-aws-enable-ec2-instance-monitoring.md)**  
 Action that turns on monitoring for the selected Amazon Web Services \(AWS\) Virtual Machine \(VM\) instance.
@@ -57,6 +57,3 @@ You need appropriate cloud permissions to execute the Cloud Action Library actio
 
 **Parent Topic:**[Cloud Action Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/cloud-actions-library-landing-page.md)
 
-## Related
-
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

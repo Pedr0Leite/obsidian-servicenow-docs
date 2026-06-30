@@ -14,7 +14,7 @@ breadcrumb: [High-level planning configuration in Strategic Planning, Configure,
 
 # Populate global rank for high-level planning items
 
-To enable high-level planning on a table that is not a planning item in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, populate global rank for existing records of this table.
+To enable high-level planning on a table that is not a planning item in Strategic Planning Workspace, populate global rank for existing records of this table.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-Use the [[strategic-planning-diagnostics|Strategic Planning diagnostics]] module to populate global rank for all existing records of the table that your planning managers chose for high-level planning. Completing this task would generate a value for the Global rank field of your table.
+Use the Strategic Planning diagnostics module to populate global rank for all existing records of the table that your planning managers chose for high-level planning. Completing this task would generate a value for the Global rank field of your table.
 
 For this task, consider the example of generating a rank value for all existing records of the Strategic Priority \[sn\_gf\_strategy\] table.
 
@@ -45,7 +45,3 @@ For this task, consider the example of generating a rank value for all existing 
 
 Create a business rule to populate global rank on any future records create on your high-level planning table. See [Create a business rule for high-level planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-business-rule-for-high-level-planning.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategic-planning-diagnostics|Strategic Planning diagnostics]]

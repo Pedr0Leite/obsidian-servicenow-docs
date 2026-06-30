@@ -35,7 +35,7 @@ This priority order is also applicable for variable sets and containers. If a va
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Catalog Client Scripts**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Catalog Client Scripts**.
 
     A list of current custom catalog client scripts appears.
 
@@ -75,7 +75,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to enable the client script. Clear the check box to disable the script.
+Check box to enable the client script. Clear the check box to disable the script.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,3 @@ Check box to support the catalog client script on a record created for task-exte
 
 **Parent Topic:**[Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

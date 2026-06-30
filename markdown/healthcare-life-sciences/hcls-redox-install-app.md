@@ -12,7 +12,7 @@ breadcrumb: [Configure, Redox Inbound Integration, Healthcare and Life Sciences 
 
 # Install Redox Inbound Integration
 
-You can install the [[hcls-redox-app|Redox Inbound Integration]] application \(sn\_redox\) if you have the admin role.
+You can install the Redox Inbound Integration application \(sn\_redox\) if you have the admin role.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Role required: admin
 
 6.  Select **Install**.
 
-## Related
 
-- [[hcls-redox-app|Redox Inbound Integration]]

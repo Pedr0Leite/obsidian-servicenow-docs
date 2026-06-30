@@ -26,7 +26,7 @@ The list of questions is presented in the language that you requested while logg
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Enroll** and then click the **QA Verification** tab.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Enroll** and then click the **QA Verification** tab.
 
     If you are required to enroll for the QA verification method, then the tab is marked with an asterisk \(\*\).
 
@@ -44,6 +44,3 @@ The list of questions is presented in the language that you requested while logg
     -   [Enroll for the Password Reset program using an authenticator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/authenticator-app-verification.md)
     -   [Enroll for the Password Reset program using emailed codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/enroll-email-verification.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

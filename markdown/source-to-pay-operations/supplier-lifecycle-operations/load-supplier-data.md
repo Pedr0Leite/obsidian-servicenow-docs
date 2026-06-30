@@ -14,7 +14,7 @@ breadcrumb: [SLO integration framework, Integrate, Supplier Lifecycle Operations
 
 # Load supplier data
 
-Load the [[supplier|supplier]] data from the excel template into the supplier inbound​ staging tables.
+Load the supplier data from the excel template into the supplier inbound​ staging tables.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required: admin
 3.  From the **Import set table** list, select one of the following inbound tables depending on the type of supplier data you want to import:
 
     -   Supplier location inbound \[sn\_fcms\_intg\_supplier\_location\_inbound\]
-    -   [[supplier-contact|Supplier contact]] inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound​\]
+    -   Supplier contact inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound​\]
     -   Supplier payment inbound \[sn\_fcms\_intg\_supplier\_payment\_inbound\_stage\]
 4.  In **Source of the Import**, choose **File**.
 
@@ -53,7 +53,7 @@ The supplier data from the Excel file is processed successfully. That is, the re
 Run the transform map to import supplier data from the SLO inbound staging tables into the SLO primary tables.
 
 -   **[Run transform to update supplier primary data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-transform-supplier.md)**  
-Use transform map and run transform to map the supplier fields from the import set into primary data target tables in [[supp-mgmt-landing-page|Supplier Lifecycle Operations]].
+Use transform map and run transform to map the supplier fields from the import set into primary data target tables in Supplier Lifecycle Operations.
 -   **[Monitor the integration status of the SLO inbound data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/monitor-integration-status.md)**  
 Monitor the status of the integration after a transform runs and completes successfully.
 
@@ -64,8 +64,3 @@ Monitor the status of the integration after a transform runs and completes succe
 
 [Add supplier inbound data in an Excel file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/import-external-data-into-slo.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

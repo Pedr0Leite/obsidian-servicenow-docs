@@ -14,7 +14,7 @@ breadcrumb: [Zoom extension for Omnichannel Callback, Manage people and work, Co
 
 # Install Zoom extension for Omnichannel Callback
 
-You can install the [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]] application \(com.sn.zoom.callback\) if you have the admin role.
+You can install the Zoom extension for Omnichannel Callback application \(com.sn.zoom.callback\) if you have the admin role.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ For more information, see [Components installed with Zoom extension for Omnichan
 
 6.  Select **Install**.
 
-## Related
 
-- [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]]

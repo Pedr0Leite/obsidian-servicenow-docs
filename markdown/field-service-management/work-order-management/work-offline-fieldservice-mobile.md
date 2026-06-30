@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow Agent mobile app, Completing work on mobile, Use, Field 
 
 # Working offline on ServiceNow Agent
 
-When you are at a task site that doesn't have an internet connection, you can work on field service tasks, record time, track asset usage, create [[c_PartRequirements|part requirements]], and complete work orders and tasks using the ServiceNow Agent application.
+When you are at a task site that doesn't have an internet connection, you can work on field service tasks, record time, track asset usage, create part requirements, and complete work orders and tasks using the ServiceNow Agent application.
 
 ## Run ServiceNow Agent in offline mode
 
@@ -126,7 +126,7 @@ Do this
 
 ## Working with tasks when your mobile device is offline
 
-Manage tasks, record time, [[view-available-parts-inventory|track inventory]], pause tasks, complete tasks, and view knowledge articles using your mobile device when you're offline.
+Manage tasks, record time, track inventory, pause tasks, complete tasks, and view knowledge articles using your mobile device when you're offline.
 
 With your Field Service instance on your mobile device in offline mode, you can:
 
@@ -139,11 +139,11 @@ With your Field Service instance on your mobile device in offline mode, you can:
 -   **Track asset usage.**
     -   Tap **My Inventory** on your mobile app to view your inventory.
     -   After you work on a task [record assets used for a task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/use-create-asset-mobile.md).
--   **[[t_RecordAnIncidentalExpense|Record an incidental expense]].**
+-   **Record an incidental expense.**
 
     Record an incidental expense that occurred when you’re offline: [Record an incidental expense](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_RecordAnIncidentalExpense.md)
 
--   **[[create-task-manager-mobile|Create a work order task]].**
+-   **Create a work order task.**
 
     Create, work on, and mark a task as closed complete while offline: [Create a work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrderTask.md)
 
@@ -151,7 +151,7 @@ With your Field Service instance on your mobile device in offline mode, you can:
 
     When you want to take a break from the task activity [pause a work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md).
 
--   **[[t_CreateAPartRequirement|Create a part requirement]].**
+-   **Create a part requirement.**
 
     Create a new part requirement when offline: [Request inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/request-inventory.md)
 
@@ -198,10 +198,3 @@ Agents and dispatchers can close work-order SLAs when their mobile application i
 
 [Repair SLAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_RepairSLAs.md)
 
-## Related
-
-- [[c_PartRequirements|Part requirements]]
-- [[view-available-parts-inventory|Track inventory]]
-- [[t_RecordAnIncidentalExpense|Record an incidental expense]]
-- [[create-task-manager-mobile|Create a work order task]]
-- [[t_CreateAPartRequirement|Create a part requirement]]

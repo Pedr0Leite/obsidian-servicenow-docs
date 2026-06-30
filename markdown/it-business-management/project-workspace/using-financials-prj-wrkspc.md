@@ -14,7 +14,7 @@ breadcrumb: [Project Workspace, Project Portfolio Management, Strategic Portfoli
 
 # Managing financials for your projects
 
-Manage budget, cost plans as forecasts, actual expenses as expense lines, [[generate-labor-cost-demand|generate labor costs]], [[create-financial-baselines-ppw|create financial baselines]], and view, analyze, and compare the financial performance of your projects at required cadence in [[project-workspace-landing-page|Project Workspace]].
+Manage budget, cost plans as forecasts, actual expenses as expense lines, generate labor costs, create financial baselines, and view, analyze, and compare the financial performance of your projects at required cadence in Project Workspace.
 
 The comprehensive financials view helps you to understand planned and actual costs, Forecast \(previously EAC - Estimate At Completion\), Remaining Estimates \(previously ETC - Estimate To Completion\), Actual \(previously Actuals to date\), and so on, for the selected item. You can manage cost plans and associate the expense lines and process them to reflect the actuals for a planning item.
 
@@ -28,10 +28,10 @@ In the Cost screen, you can:
 
 -   As a Project Manager, you have the enhanced visibility and ability to manage the financial data across multiple project levels. Cost view of financials shows cost plans and expense lines from sub-projects, allowing you to track the finances.
 -   The parent project widgets display the consolidated values of forecasted costs and expenses.
--   Identify and [[c_ManageCosts|manage costs]] using the **Project/Demand** column for any sub project or demand directly from Cost view of the parent planning item.
+-   Identify and manage costs using the **Project/Demand** column for any sub project or demand directly from Cost view of the parent planning item.
 -   Re-forecast all the cost plan values for future fiscal periods by double-clicking to edit the value in the least time scale view, either by month or by period.
 -   Manage cost plans for your projects. For more information, see [Add, edit, or delete cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-cost-plan-prj-wrkspc.md).
--   [[add-or-edit-expense-lines-demand-ppw|Add or edit expense lines]] for your projects to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-expense-line-prj-wrkspc.md).
+-   Add or edit expense lines for your projects to record any planned or unplanned expenses. For more information, see [Add or edit expense lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-expense-line-prj-wrkspc.md).
 -   Generate labor costs for the fiscal period. For more information, see [Generate labor costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/gen-labor-costs-prj-wrkspc.md).
 -   Create and compare baselines to capture the financial snapshot of your projects. For more information, see [Create and compare financial baselines for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-compare-baselines-pws.md).
 -   [Configure widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-financial-widgets.md) to get a high-level overview of the financial data for your planning item.
@@ -319,10 +319,3 @@ Export the costs or baseline comparison data of your projects to share them with
 
 **Parent Topic:**[Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[create-financial-baselines-ppw|Create financial baselines]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ManageCosts|Manage costs]]
-- [[add-or-edit-expense-lines-demand-ppw|Add or edit expense lines]]

@@ -14,7 +14,7 @@ breadcrumb: [Learning, Growth Experiences, HR Service Delivery, Employee Service
 
 # Install and configure Learning
 
-Configure [[exploring-learning-exp|Learning]] by setting up the following dependencies.
+Configure Learning by setting up the following dependencies.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Dependent plugins and apps for Learning:
 -   [Manager Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/manager-hub-overview.md)
 -   [Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence.md)
 
-    When the [[skills-intelligence|Skills Foundation]] property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Learning. See [Configuring Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
+    When the Skills Foundation property **sn\_skills\_int.enable\_skills** is set to true, the use of Skills Foundation is enabled for all Learning. See [Configuring Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/configuring-skills-intelligence.md) for more information about Skills Foundation properties.
 
 
 Role required: admin
@@ -58,18 +58,10 @@ Allow RCAs
 After you install Learning you might encounter Restricted Caller Access \(RCA\) approval messages requesting an update in the access request. Allow the following RCAs:
 
 -   Target Human Resources Core
--   Target [[journey-accelerator-1|Journey Accelerator]]
--   Target [[jny-dsgnr-landing-page-1|Journey Designer]]
+-   Target Journey Accelerator
+-   Target Journey Designer
 
 Dependencies
 
-The Learning application depends on other applications such as [[learning-core_overview|Learning Core]] and [[emp-slate-employee-profile|Employee Profile]].
+The Learning application depends on other applications such as Learning Core and Employee Profile.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[skills-intelligence|Skills Foundation]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[learning-core_overview|Learning Core]]
-- [[emp-slate-employee-profile|Employee profile]]

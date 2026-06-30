@@ -14,11 +14,11 @@ breadcrumb: [Exploring Conversational Interfaces Console, Conversational Interfa
 
 # Monitoring and managing Conversational Interfaces applications
 
-Use the [[convint-landing-page|Conversational Interfaces]] Home page to monitor the performance of recent [[virtual-agent-landing-page|Virtual Agent]] conversations or test your bot. Plugin update notices will alert you when a feature update is ready.
+Use the Conversational Interfaces Home page to monitor the performance of recent Virtual Agent conversations or test your bot. Plugin update notices will alert you when a feature update is ready.
 
 -   **Monitor your Virtual Agent performance**
 
-    Review the performance of recent Virtual Agent conversations from the [[ci-console|Conversational Interfaces console]]. For more details, select **See details in Conversational Analytics** to open the [Conversational Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-dashboard-landing-page-pae.md).
+    Review the performance of recent Virtual Agent conversations from the Conversational Interfaces console. For more details, select **See details in Conversational Analytics** to open the [Conversational Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/VA-dashboard-landing-page-pae.md).
 
     \[Omitted image "ci-home-conv-analytics.png"\] Alt text: Conversational Interfaces Home Virtual Agent performance metrics on the dashboard.
 
@@ -35,11 +35,5 @@ Use the [[convint-landing-page|Conversational Interfaces]] Home page to monitor 
     \[Omitted image "ci-home-update-plugin.png"\] Alt text: ITSM plugin card indicating that a new version is available.
 
 
-**Parent Topic:**[[exploring-ci|Exploring Conversational Interfaces Console]]
+**Parent Topic:**[Exploring Conversational Interfaces Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/exploring-ci.md)
 
-## Related
-
-- [[exploring-ci|Exploring Conversational Interfaces Console]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-console|Conversational Interfaces Console]]

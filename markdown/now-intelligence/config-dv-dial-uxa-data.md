@@ -12,7 +12,7 @@ breadcrumb: [Dial visualizations, Create, Data visualizations, Platform Analytic
 
 # Usage Insights data options for dial data visualizations
 
-When you select a [[user-exp-analytics-landing|Usage Insights]] data source for a dial visualization, the following Data configuration options are available.
+When you select a Usage Insights data source for a dial visualization, the following Data configuration options are available.
 
 <table id="table_wqy_sjr_qtb"><thead><tr><th>
 
@@ -28,7 +28,7 @@ Data source
 
 </td><td>
 
-You have selected a Usage Insights data source in [[create-dv-dial-ac|Create a dial data visualization]].
+You have selected a Usage Insights data source in [Create a dial data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-dial-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -271,7 +271,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a dial data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-dial-ac.md)
 
-## Related
-
-- [[create-dv-dial-ac|Create a dial data visualization]]
-- [[user-exp-analytics-landing|Usage Insights]]

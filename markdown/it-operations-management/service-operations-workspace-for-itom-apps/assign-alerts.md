@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -85,6 +85,3 @@ Select **Assign to you** and then select **OK**.
 
 The assigned person appears in the **Assigned to** column and the assignment group appears in the **Assignment group** column in the Express List pane.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

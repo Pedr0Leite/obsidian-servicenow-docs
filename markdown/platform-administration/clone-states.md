@@ -12,7 +12,7 @@ breadcrumb: [Reference, Instance Clone, Configure core features, Administer the 
 
 # Clone states
 
-A [[reference-email-admin|reference]] topic displaying the various states of a clone.
+A reference topic displaying the various states of a clone.
 
 |Clone state|Description|
 |-----------|-----------|
@@ -29,9 +29,5 @@ A [[reference-email-admin|reference]] topic displaying the various states of a c
 |Rolling back|The clone is in the process of rolling back to a previous state.|
 |Rolled back|The clone request to roll back to a previous state is complete.|
 
-**Parent Topic:**[[instance-clone-reference|Instance Clone reference]]
+**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
-## Related
-
-- [[instance-clone-reference|Instance Clone reference]]
-- [[reference-email-admin|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Create adhoc incident communication plan, Managing Incident Communi
 
 # Create adhoc incident communication plan from Incident Communications Management
 
-[[create-an-incident|Create an incident]] communication plan from [[c_IncidentAlertManagement|Incident Communications Management]] when an issue is not considered earlier. If you need collaboration on that issue, you can create an incident communication plan.
+Create an incident communication plan from Incident Communications Management when an issue is not considered earlier. If you need collaboration on that issue, you can create an incident communication plan.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: major\_incident\_manager, ia\_admin, or admin
     |Number|Unique incident communication plan ID, in the ICPxxxxxxxx format.|
     |Source incident|The source incident for this communication plan, if any. If you select a source incident, the **Background** field is populated with data from this incident, unless there is existing data in this field.|
     |Type|Type of communication plan available are Ad hoc, End User, Stakeholder, and Technical.|
-    |Communication plan definition|The [[communication-plan-definition|communication plan definition]] based on which this incident communication plan is attached.|
+    |Communication plan definition|The communication plan definition based on which this incident communication plan is attached.|
     |State|The state of the communication plan. The available values are **Open**, **Closed**, or **Canceled**.|
     |Assignment group|The assignment group, if any, for that incident communication plan. For example, there might be a group that represents a crisis management team, including several Incident Managers, Duty Directors, and Duty Managers.|
     |Assigned to|The assigned user for the communication plan. By default, the assigned to user is the one who creates the communication plan. The communication plan can also be assigned to an ITIL user or an incident communication plan administrator.|
@@ -51,8 +51,3 @@ Role required: major\_incident\_manager, ia\_admin, or admin
 
 **Parent Topic:**[Create adhoc incident communication plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/c_CreateIncidentAlerts.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[communication-plan-definition|Communication plan definition]]

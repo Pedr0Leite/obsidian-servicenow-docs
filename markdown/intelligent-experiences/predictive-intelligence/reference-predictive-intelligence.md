@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence, Enable AI experiences]
 
 # Predictive Intelligence references
 
-Reference pages for components of [[predictive-intelligence-landing|Predictive Intelligence]].
+Reference pages for components of Predictive Intelligence.
 
 -   **[Domain separation and Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/domain-separation-predictive-intelligence.md)**  
 Domain separation is supported in the Predictive Intelligence application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
@@ -29,6 +29,3 @@ Predictive Intelligence is installed with these roles.
 
 **Parent Topic:**[Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/predictive-intelligence-landing.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

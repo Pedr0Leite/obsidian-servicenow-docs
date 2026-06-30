@@ -14,13 +14,13 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle Catalog discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the **Get Catalog info** pattern extension of the Oracle DB on Unix and Oracle DB on Windows patterns to find Oracle Catalog objects. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the **Get Catalog info** pattern extension of the Oracle DB on Unix and Oracle DB on Windows patterns to find Oracle Catalog objects. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery uses the Oracle DB on Unix and Oracle DB on Windows patterns and the Get Catalog info pattern extension to run horizontal discovery.
 
 You can use this pattern on the ServiceNow AI Platform® using the Madrid release or later.
 
-For information on [[c_OracleDatabaseDiscovery|Oracle database discovery]], see [Oracle database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_OracleDatabaseDiscovery.md).
+For information on Oracle database discovery, see [Oracle database discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_OracleDatabaseDiscovery.md).
 
 ## Request apps on the Store
 
@@ -62,7 +62,7 @@ Discovery populates the data in the CMDB when running the Get Catalog info Patte
 
 The following is a dependency view of the relationship between an Oracle Catalog and an Oracle instance.
 
-\[Omitted image "oracle-catalog-discovery.png"\] Alt text: CIs and connections on a [[dependency-views-map|Dependency Views map]]
+\[Omitted image "oracle-catalog-discovery.png"\] Alt text: CIs and connections on a Dependency Views map
 
 ## CI relationships
 
@@ -81,9 +81,3 @@ This relationship is created to support Oracle Catalog discovery.
 
 [Oracle GLAS data collection using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/oracle-glas-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_OracleDatabaseDiscovery|Oracle database discovery]]
-- [[dependency-views-map|Dependency Views map]]

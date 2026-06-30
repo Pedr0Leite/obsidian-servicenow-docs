@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-From the server certificate consoles you used above, [[export|export]] a public key to be used by the clients.
+From the server certificate consoles you used above, export a public key to be used by the clients.
 
 ## Procedure
 
@@ -40,6 +40,3 @@ From the server certificate consoles you used above, [[export|export]] a public 
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[export|Export]]

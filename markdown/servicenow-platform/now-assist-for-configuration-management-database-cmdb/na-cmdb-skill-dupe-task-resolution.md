@@ -18,7 +18,7 @@ Now Assist recommends resolutions for duplication tasks by automating the choice
 
 ## Before you begin
 
-The de-duplication task resolution assistant skill used in this process is supported starting with the Australia release. The skill is auto-activated when you activate the [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]] ServiceNow Store app.
+The de-duplication task resolution assistant skill used in this process is supported starting with the Australia release. The skill is auto-activated when you activate the Now Assist for Configuration Management Database \(CMDB\) ServiceNow Store app.
 
 Role required: cmdb\_dedup\_admin
 
@@ -70,7 +70,7 @@ This procedure describes how you can manually access the skill. In addition, any
 
     \[Omitted image "na-cmdb-skill-dupe-task-confirm.png"\] Alt text: Proceed with remediation.
 
-    The system performs all remediation actions. The skill updates the Remediate Duplicate Task form with the `Closed Complete` value for **State** and documents all changes in the**[[c_WorkNotes|Work notes]]**.
+    The system performs all remediation actions. The skill updates the Remediate Duplicate Task form with the `Closed Complete` value for **State** and documents all changes in the**Work notes**.
 
 
 ## Example: Review, possibly modify, and confirm recommended attribute merges
@@ -109,7 +109,3 @@ This example follows your work to determine whether the recommended attribute me
 
 [View CMDB Health Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_MonitorCMDBHealth.md)
 
-## Related
-
-- [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]]
-- [[c_WorkNotes|Work notes]]

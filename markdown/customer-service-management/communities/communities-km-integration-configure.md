@@ -46,7 +46,7 @@ Community administrators perform the following tasks to configure knowledge harv
 
 [Create a case from a discussion]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -70,6 +70,3 @@ Community administrators perform the following tasks to configure knowledge harv
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

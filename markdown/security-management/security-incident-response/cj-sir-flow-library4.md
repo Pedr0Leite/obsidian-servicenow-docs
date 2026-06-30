@@ -16,7 +16,7 @@ breadcrumb: [Flow-based Playbooks, Security Incident Response playbooks, Playboo
 
 Duplicate security incidents are categorized as child security incidents and are rolled up to the parent security incidents.
 
-The Child Security Incident Automation playbook helps reduce the time required to investigate and close duplicate security incidents. This playbook automatically rolls up specific unique artifacts of the child security incident \([[c_Observables|observables]], affected users, CIs\) to the parent security incident.
+The Child Security Incident Automation playbook helps reduce the time required to investigate and close duplicate security incidents. This playbook automatically rolls up specific unique artifacts of the child security incident \(observables, affected users, CIs\) to the parent security incident.
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Spoke: Install [[security-operations-landing-page|Security Operations]] Spoke \(sn\_sec\_spoke\)
+Spoke: Install Security Operations Spoke \(sn\_sec\_spoke\)
 
 ## Key capabilities
 
@@ -75,7 +75,3 @@ The following steps walk you through the actions and tasks that are available in
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[security-operations-landing-page|Security Operations]]

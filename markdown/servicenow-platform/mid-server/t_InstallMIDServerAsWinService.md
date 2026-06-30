@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # Manually start, stop, and restart a MID Server
 
-If you did not start the [[mid-server-landing|MID Server]] at the end of the installation procedure, you can manually start the MID Server.
+If you did not start the MID Server at the end of the installation procedure, you can manually start the MID Server.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ This procedure is only for users who install the MID Server using the ZIP file. 
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

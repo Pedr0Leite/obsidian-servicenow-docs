@@ -16,15 +16,10 @@ MobileIron is a cloud-based service you can use to manage applications for your 
 
 Before adding the ServiceNow app to MobileIron, complete the [MobileIron setup procedures](http://mi.extendedhelp.mobileiron.com/49/all/en/desktop/Getting_Started.htm).
 
--   **[[add-ios-mobileiron|Add the ServiceNow app for iOS to MobileIron]]**  
+-   **[Add the ServiceNow app for iOS to MobileIron](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-ios-mobileiron.md)**  
 Configure the ServiceNow app for iOS for MobileIron distribution.
--   **[[add-android-mobileiron|Add the ServiceNow app for Android to MobileIron]]**  
+-   **[Add the ServiceNow app for Android to MobileIron](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-android-mobileiron.md)**  
 Configure the ServiceNow app for Android for MobileIron distribution.
 
-**Parent Topic:**[[mobile-vendors|Supported mobile device management vendors]]
+**Parent Topic:**[Supported mobile device management vendors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-vendors.md)
 
-## Related
-
-- [[add-ios-mobileiron|Add the ServiceNow app for iOS to MobileIron]]
-- [[add-android-mobileiron|Add the ServiceNow app for Android to MobileIron]]
-- [[mobile-vendors|Supported mobile device management vendors]]

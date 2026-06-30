@@ -14,7 +14,7 @@ breadcrumb: [Configure a pull connector, Configure Event Management connectors, 
 
 # Configure event collection from vRealize
 
-Configure the VMware vRealize Operations \(vRealize or vRealize\_V2\) connector instance to receive events from the vRealize Operations Log and [[c_EM|Event Management]] servers. vRealize uses basic authentication. vRealize\_V2 uses token-based authentication.
+Configure the VMware vRealize Operations \(vRealize or vRealize\_V2\) connector instance to receive events from the vRealize Operations Log and Event Management servers. vRealize uses basic authentication. vRealize\_V2 uses token-based authentication.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ Create credentials to access vRealize.
 
 [Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]

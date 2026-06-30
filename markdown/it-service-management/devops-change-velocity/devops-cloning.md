@@ -14,7 +14,7 @@ breadcrumb: [Manage, DevOps Change Velocity, IT Service Management]
 
 # Cloning guidelines for DevOps Change Velocity
 
-Clone the [[devops-landing-page-new|DevOps Change Velocity]] application from one instance to another.
+Clone the DevOps Change Velocity application from one instance to another.
 
 **Note:** Valid for Utah and later.
 
@@ -100,7 +100,7 @@ Aim to preserve the existing tools, tool connections, and apps on the target ins
     Track the required pipelines, plans, and repositories.
 
 4.  Configure
-    -   Optional for tools where the webhook url holds a [[reference-for-itsm-mobile-agent|reference]] to tool sys\_id only. For example, GitHub, GitLab, Jira, Bitbucket.
+    -   Optional for tools where the webhook url holds a reference to tool sys\_id only. For example, GitHub, GitLab, Jira, Bitbucket.
     -   You must reconfigure Azure DevOps projects because the project sys\_id has changed after rediscover.
     -   Token remains the same for the tool.
     -   Verify that there are no duplicate webhooks created in the third-party DevOps tool after reconfiguring.
@@ -233,7 +233,3 @@ Aim to have all the m2m mapping intact in the target instance.
 
 **Parent Topic:**[Managing DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-devops-change-velocity.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[reference-for-itsm-mobile-agent|Reference]]

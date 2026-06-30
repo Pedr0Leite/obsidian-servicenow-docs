@@ -20,9 +20,9 @@ Role required: none
 
 ## About this task
 
-All fields on the activity list display in alphabetical order by default. You can change the order that fields appear on the form by using the **[[configure-onboarding-modals|Configure]] available fields** option in the activity formatter.
+All fields on the activity list display in alphabetical order by default. You can change the order that fields appear on the form by using the **Configure available fields** option in the activity formatter.
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
 ## Use the activity filter
 
@@ -48,7 +48,4 @@ All fields on the activity list display in alphabetical order by default. You ca
 
 3.  Click the activity filter icon again to close the filter.
 
-## Related
 
-- [[c_UsingForms|Forms in the classic environment]]
-- [[configure-onboarding-modals|Configure]]

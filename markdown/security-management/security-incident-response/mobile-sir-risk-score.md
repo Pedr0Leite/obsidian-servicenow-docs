@@ -14,7 +14,7 @@ breadcrumb: [Mobile Experience for Security Incident Response, Security Incident
 
 # View, edit, and assign security incidents with a risk score greater than 60 with the Security Incident Response Mobile app
 
-From your mobile device, view and edit [[sir-landing-page|Security Incident Response]] \(SIR\) incidents with a value in the risk score field that is greater than 60. View related lists and the audit trail of work notes for more details about incidents.
+From your mobile device, view and edit Security Incident Response \(SIR\) incidents with a value in the risk score field that is greater than 60. View related lists and the audit trail of work notes for more details about incidents.
 
 ## Before you begin
 
@@ -135,7 +135,3 @@ On the bottom of the screen, choose one to continue.-   Tap the Security Inciden
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

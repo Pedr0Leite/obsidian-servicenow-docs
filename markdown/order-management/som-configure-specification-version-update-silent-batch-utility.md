@@ -49,17 +49,12 @@ There are two steps to perform this process. The first is to update the specific
     The number of inbound queue requests indicates the number of product inventories that matched the source specification. Once all the inbound queue records are processed, the request creates a change order for each of the inbound queue records processed successfully.
 
 
-**Parent Topic:**[[som-specification-version-update|Updating specification versions]]
+**Parent Topic:**[Updating specification versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-specification-version-update.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-specification-version-update|Updating specification versions]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]

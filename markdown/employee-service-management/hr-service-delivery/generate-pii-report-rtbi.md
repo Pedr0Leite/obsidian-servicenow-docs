@@ -20,17 +20,17 @@ As an HR agent, generate the PII report requested by the employee or alumni.
 
 Role required: HR agent \(sn\_hr\_core.basic\)
 
-PII in HR Core tables are manually identified and classified into categories called classes. For example, Contact information, Identification information, and so on. These classifications serve as a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]], you can also create your own classifications. For more information, see [Data Classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification.md).
+PII in HR Core tables are manually identified and classified into categories called classes. For example, Contact information, Identification information, and so on. These classifications serve as a reference, you can also create your own classifications. For more information, see [Data Classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification.md).
 
 **Note:** The classes are available in the data classification module which is auto-installed with HR Core. The classified dictionary entries under each class are included in the HR Core plugin's demo data.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**.
 
 2.  Select **Assigned to me**.
 
-3.  Select a case with [[request-personal-information-report-rtbi|Request Personal Information Report]] as the HR service and in Ready state.
+3.  Select a case with Request Personal Information Report as the HR service and in Ready state.
 
     **Note:** If the employee in the HR case has a manager, the case must be approved by the manager before it is moved to the agent. The case is in the Awaiting approval status until the manager approves. If an approver is missing, agents can manually add the approver.
 
@@ -45,8 +45,3 @@ The PII report is generated and is added as an attachment to the case.
 
 **Note:** In case there are ACLs in place to hide information for some of the fields, those fields remain empty in the report and the fields information is displayed in the work notes.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[case-management-workspace|Case management]]
-- [[request-personal-information-report-rtbi|Request personal information report]]

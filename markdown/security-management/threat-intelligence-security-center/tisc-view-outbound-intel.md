@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intelligence Sharing**.
 
     The Threat Intelligence Sharing page is displayed with the following intelligence sharing sections that requires the appropriate action.
 
@@ -67,7 +67,3 @@ Role required: sn\_sec\_tisc.analyst
 
 [Viewing TAXII Collections]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

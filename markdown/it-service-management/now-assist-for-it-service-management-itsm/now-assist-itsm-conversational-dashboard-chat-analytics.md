@@ -15,7 +15,7 @@ breadcrumb: [Track metrics, Use ITSM Virtual Agent analytics dashboard, Now Assi
 
 # ITSM Virtual Agent chat analytics
 
-Track all closed chats, [[itsm-virtual-agent|ITSM Virtual Agent]] chat resolutions, and the chat resolution rate to measure overall demand and ITSM Virtual Agent effectiveness.
+Track all closed chats, ITSM Virtual Agent chat resolutions, and the chat resolution rate to measure overall demand and ITSM Virtual Agent effectiveness.
 
 Using the Chat analytics tab you can monitor the ITSM Virtual Agent chat metrics. It provides comprehensive metrics on chat volume, resolution effectiveness, escalation patterns, user engagement, and channel distribution. These insights help evaluate automation success and identify opportunities to improve Virtual Agent capabilities.
 
@@ -158,7 +158,3 @@ The distribution of chat interactions based on the geographical location of the 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

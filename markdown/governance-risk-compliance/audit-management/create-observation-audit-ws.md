@@ -22,7 +22,7 @@ Role required: sn\_audit.manager, sn\_audit\_ws.supervisor, sn\_audit.user, sn\_
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: List icon\).
 
@@ -290,7 +290,7 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
         Additionally, you can also add random users to the record, who are neither audit users nor GRC business users. However, an email notification is sent to all confidential users who have neither an audit user nor a GRC business user role intimating them to acquire the confidential role \(sn\_grc.confidential\_user\) from the admin if they are to access the record.
 
-        You can also select groups as **Confidential groups** who can access the record as well. For more information, see [[confidential-records|Confidential records]] in GRC common features.
+        You can also select groups as **Confidential groups** who can access the record as well. For more information, see Confidential records in GRC common features.
 
         To enable the Confidentiality property at the system level:
 
@@ -302,7 +302,4 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
     You can monitor the state of the observation record in the **State** banner of the default Overview page as the record progresses through the different states.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[confidential-records|Confidential records]]

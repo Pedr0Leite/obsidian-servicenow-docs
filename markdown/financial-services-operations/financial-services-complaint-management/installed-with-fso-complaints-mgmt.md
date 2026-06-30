@@ -14,7 +14,7 @@ breadcrumb: [Reference, Complaint Management, Common applications, Financial Ser
 
 # Components installed with Financial Services Complaint Management
 
-Several types of components are installed with installation of the [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]] application, including tables, user roles, and scheduled jobs. The application also installs related plugins and store applications if they are not already installed.
+Several types of components are installed with installation of the Financial Services Complaint Management application, including tables, user roles, and scheduled jobs. The application also installs related plugins and store applications if they are not already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -34,14 +34,14 @@ Customer Service\[com.sn\_customerservice\]
 
 </td><td>
 
-Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.
+Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.
 
 </td></tr></tbody>
 </table>## Store applications installed
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make complaint service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make complaint service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -102,7 +102,7 @@ Complaint contributor\[sn\_bom\_compl.contributor\]
 -   Submit complaint service requests
 -   Work on complaint cases and tasks for accounts managed by them until the Initiate and Review stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -239,10 +239,3 @@ Stores all regulation subcategories associated with regulation categories.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-overview|Financial Services]]

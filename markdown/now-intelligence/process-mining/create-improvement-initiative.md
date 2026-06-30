@@ -14,7 +14,7 @@ breadcrumb: [Creating and tracking improvement initiatives, Use, Process Mining,
 
 # Create an improvement initiative from Process Mining
 
-Create an improvement initiative associated with the project you're analyzing in [[process-mining|Process Mining]].
+Create an improvement initiative associated with the project you're analyzing in Process Mining.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ To change a record, from the CIM record:
 
 **Parent Topic:**[Creating and tracking improvement initiatives](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/initiatives-from-process-optimization.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

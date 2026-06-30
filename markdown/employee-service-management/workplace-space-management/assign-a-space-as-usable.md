@@ -21,7 +21,7 @@ Specify if a space type is usable or not by using the Space type configuration f
 Ensure that you have the following:
 
 -   The space type is configured in the application. Otherwise, refer to [Add a space type configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-space-type-configuration-wsd.md).
--   [[workplace-space-mgmt-ovw|Workplace Space Management]] is installed.
+-   Workplace Space Management is installed.
 
 Role required: sn\_wsd\_spcmgmt.manager
 
@@ -31,7 +31,7 @@ Configure a space type as usable. Specify if the space type can be used for rese
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Space type configuration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Space type configuration**.
 
 2.  Select the space type that you want to configure as usable.
 
@@ -56,7 +56,3 @@ The size of all the spaces that are assigned to this space type is calculated in
 
 **Parent Topic:**[Add a space using Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/add-a-space.md)
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

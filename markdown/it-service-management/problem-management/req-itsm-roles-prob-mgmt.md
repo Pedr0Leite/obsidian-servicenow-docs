@@ -14,7 +14,7 @@ breadcrumb: [Problem Management plugins, Configuring Problem Management, Problem
 
 # Request ITSM Roles — Problem Management
 
-Request the ITSM Roles plugin \(com.snc.itsm.roles\) to activate the ITSM Roles — [[c_ProblemManagement|Problem Management]] plugin \(com.snc.itsm.roles.problem\_management\) to gain more control over the access that different service desk agents, technicians, and managers have within your [[c_ProblemManagementProcess|Problem Management process]].
+Request the ITSM Roles plugin \(com.snc.itsm.roles\) to activate the ITSM Roles — Problem Management plugin \(com.snc.itsm.roles.problem\_management\) to gain more control over the access that different service desk agents, technicians, and managers have within your Problem Management process.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: admin
 
 ## About this task
 
-The ITSM Roles plugin activates several related plugins such as Business Stakeholder \(com.snc\_business\_stakeholder\), ITSM Roles — [[c_IncidentManagement|Incident Management]] \(com.snc.itsm.roles.incident\_management\), ITSM Roles — Problem Management \(com.snc.itsm.roles.problem\_management\), ITSM Roles — [[c_ITILChangeManagement|Change Management]] \(com.snc.itsm.roles.change\_management\), and ITSM Roles — [[c_RequestManagement|Request Management]] \(com.snc.service\_management.roles.request\_management\). The related plugins updates the security model and introduces roles for respective products.
+The ITSM Roles plugin activates several related plugins such as Business Stakeholder \(com.snc\_business\_stakeholder\), ITSM Roles — Incident Management \(com.snc.itsm.roles.incident\_management\), ITSM Roles — Problem Management \(com.snc.itsm.roles.problem\_management\), ITSM Roles — Change Management \(com.snc.itsm.roles.change\_management\), and ITSM Roles — Request Management \(com.snc.service\_management.roles.request\_management\). The related plugins updates the security model and introduces roles for respective products.
 
 With the introduction of the new roles, ITSM provides more control over the access that users have within the process.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Select **Request plugin** to open the **Activate Plugin** form on Now Support.
 
@@ -86,11 +86,3 @@ Several user roles are installed with activation of the ITSM Roles — Problem M
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ProblemManagementProcess|Problem Management process]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RequestManagement|Request Management]]
-- [[dex-workspace-application-tab|Applications]]

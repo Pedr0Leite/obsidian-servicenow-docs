@@ -22,7 +22,7 @@ Role required: asset or inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset Estate**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset Estate**.
 
 2.  Select the **Hardware assets** tab.
 
@@ -34,7 +34,7 @@ Role required: asset or inventory\_admin
 
     An attestation is created for the asset.
 
-6.  View the [[asset-attestation-ham|asset attestation]] record details.
+6.  View the asset attestation record details.
 
     1.  Navigate to the **Asset operations** view.
 
@@ -45,7 +45,3 @@ Role required: asset or inventory\_admin
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-attestation-ham|Asset Attestation]]

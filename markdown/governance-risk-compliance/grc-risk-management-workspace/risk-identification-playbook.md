@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Workflow for risk identification in the Risk Workspace
 
-Workflows provide step-by-step guidance for completing the risk identification process in the GRC [[risk-workspace|Risk Workspace]].
+Workflows provide step-by-step guidance for completing the risk identification process in the GRC Risk Workspace.
 
 In the Risk Workspace, a risk manager can use the risk identification workflow to identify risks. The workflow has multiple stages. The stage progress gets updated as activities are completed. The risk identification workflow is broken it into multiple lanes. Each lane in the workflow includes one or more activities for a task owner to complete.
 
@@ -32,7 +32,7 @@ For risk identification, after a risk identification record is created, the info
 5.  View the assessment scores.
 6.  Relate either the recommended risks or relate them from the library. Alternatively, the risk manager can also create risks.
 
-    **Note:** Recommended risks are risks that are generated from [[information-objects|information objects]].
+    **Note:** Recommended risks are risks that are generated from information objects.
 
 7.  Mark the activity as complete.
 8.  Relate either the recommended policies or relate them from the library.
@@ -58,7 +58,3 @@ The following figures show the workflow stages and actions:
 
 [Template versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/template-versioning.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[information-objects|information objects]]

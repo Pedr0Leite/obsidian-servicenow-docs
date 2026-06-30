@@ -14,7 +14,7 @@ breadcrumb: [Collaboration workflow, Initiate chargeback, Processing a Visa disp
 
 # Review a dispute response and initiate pre-arbitration
 
-Review a merchant’s response for the dispute and initiate pre-arbitration, if necessary for the [[collaboration-dispute-workflow|collaboration dispute workflow]] for the [[chargeback-stage|Chargeback stage]].
+Review a merchant’s response for the dispute and initiate pre-arbitration, if necessary for the collaboration dispute workflow for the Chargeback stage.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -46,7 +46,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
     The response might include the amount accepted for the chargeback or reasons the dispute wasn't accepted. You can also view the merchant response as an attachment in the activity stream.
 
-    **Note:** If [[card-data-security|Card Data Security]] is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 9.  In the **Response outcome** field, select **Resolved** or **Unresolved**.
 
@@ -66,7 +66,7 @@ Result
 
 </td><td>
 
-1.  Based on the policy rule, the **[[fso-ach-dispute-reverse-provisional|Reverse Provisional Credit]]** field appears only for the IPC policy.
+1.  Based on the policy rule, the **Reverse Provisional Credit** field appears only for the IPC policy.
 2.  The Reverse Provisional Credit field does not appear for the Immediate Final Credit \(IFC\) policy.
 3.  The **Final Credit** field appears for **No Credit**.
 4.  When pre-arbitration is created, reject the dispute response from the merchant.
@@ -108,10 +108,3 @@ To recall the request, select **Recall**. When a response is received, the **Pre
 
 **Parent Topic:**[Collaboration dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/collaboration-dispute-workflow.md)
 
-## Related
-
-- [[collaboration-dispute-workflow|Collaboration dispute workflow]]
-- [[chargeback-stage|chargeback stage]]
-- [[fso-overview|Financial Services]]
-- [[card-data-security|Card Data Security]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]

@@ -34,7 +34,7 @@ Role required: admin
 
 6.  Provide a description of your choice in the **Description** field, select SN\_CI\_CC\_Inbound\_Contact\_Flow from the **Contact flow / IVR** drop-down, and click **Save**.
 
-    After the number is published, customers can make a call and start conversations with the [[virtual-agent-landing-page|Virtual Agent]].
+    After the number is published, customers can make a call and start conversations with the Virtual Agent.
 
 7.  Navigate to **Routing** &gt; **Queues** and select **BasicQueue**.
 
@@ -53,6 +53,3 @@ Invoke an automated caller interaction with bots to fulfill the caller's request
 
 **Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

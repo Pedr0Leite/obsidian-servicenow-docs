@@ -89,7 +89,7 @@ For advanced customization of the **Overview** tab with SRP record, use the foll
 
     1.  Close the Variant creation page.
 
-    2.  Under **Overview**, point to the **Incident Overview SNC** variant, select the options icon \(\[Omitted image "options-variant.png"\] Alt text: Options icon.\), then select **View [[settings-mobile|settings]]**.
+    2.  Under **Overview**, point to the **Incident Overview SNC** variant, select the options icon \(\[Omitted image "options-variant.png"\] Alt text: Options icon.\), then select **View settings**.
 
     3.  Select **Open records**, then select **Variant record**.
 
@@ -223,7 +223,7 @@ Role required: workspace\_admin, ui\_builder\_admin, or admin
 
 ## Customize the Remedial action playbook for an incident
 
-Customize the [[remedial-action|Remedial action]] playbook displayed on the contextual side panel of an incident record page.
+Customize the Remedial action playbook displayed on the contextual side panel of an incident record page.
 
 ### Before you begin
 
@@ -407,7 +407,7 @@ Configure the display of service level agreement \(SLA\) information in the inci
 
 Role required: admin
 
-The following [[sla-timer|SLA timer]] configurations display the response and resolution SLA for an incident.
+The following SLA timer configurations display the response and resolution SLA for an incident.
 
 -   Incident Response
 -   Incident Resolution
@@ -452,7 +452,7 @@ Role required: admin
 
 ### About this task
 
-If the Hardware [[c_AssetManagement|Asset Management]] Professional plugin \(com.sn\_hamp\) is installed, you should enable inline list editing to specify asset actions for a configuration item \(CI\) from the Affected CI related list of an incident.
+If the Hardware Asset Management Professional plugin \(com.sn\_hamp\) is installed, you should enable inline list editing to specify asset actions for a configuration item \(CI\) from the Affected CI related list of an incident.
 
 ### Procedure
 
@@ -498,7 +498,7 @@ Use this task to customize and configure the **Investigate** tab of the Incident
 
 5.  In the **Script** field, paste the required function and edit to customize the UI elements that are displayed on the different sections of the **Investigate** tab.
 
-    The `sn_sow.SOWInvestigateConfigSNC` script include record contains the configuration that is required to render the Investigate tab UI. Use this script include record as a [[reference-for-itsm-mobile-agent|reference]] to override the configuration as required, using the `sn_sow.SOWInvestigateConfig` script include record.
+    The `sn_sow.SOWInvestigateConfigSNC` script include record contains the configuration that is required to render the Investigate tab UI. Use this script include record as a reference to override the configuration as required, using the `sn_sow.SOWInvestigateConfig` script include record.
 
 6.  Click **Save**.
 
@@ -587,10 +587,3 @@ Role required: sn\_cimaf.sn\_cimaf\_admin or sn\_invest\_fwk.sn\_investigate\_ad
 
 The collection rule is created and mapped to the metric definition. When the collection rule is triggered, the mapped metric definition is retrieved and displayed on the **Investigate** tab of the Incident record. The configured collection rule is triggered only when the **Configuration Item** field is modified on the Incident record.
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[remedial-action|Remedial action]]
-- [[sla-timer|SLA timer]]
-- [[c_AssetManagement|Asset Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

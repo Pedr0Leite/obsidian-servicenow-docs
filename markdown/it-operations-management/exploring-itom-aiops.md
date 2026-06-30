@@ -13,7 +13,7 @@ breadcrumb: [ITOM AIOps, IT Operations Management]
 
 # Exploring ITOM AIOps
 
-Overview of [[itom-health-landing-page|ITOM AIOps]] applications and capabilities that enable proactive [[r_ITOMApplications|IT operations management]] through AI-powered monitoring, analytics, and automation.
+Overview of ITOM AIOps applications and capabilities that enable proactive IT operations management through AI-powered monitoring, analytics, and automation.
 
 ## ITOM AIOps overview
 
@@ -23,9 +23,9 @@ ServiceNow® ITOM AIOps provides AIOps capabilities that transform how organizat
 
 ## Service Operations Workspace
 
-Network Operations Center \(NOC\) operators and IT operations teams use [[workspace-dashboard-use|Service Operations Workspace]] as their primary interface for managing IT operations powered by ITOM AIOps. The workspace consolidates alerts, incidents, and operational data from multiple AIOps applications into unified [[otto-aiops-dashboards|dashboards]] and workflows.
+Network Operations Center \(NOC\) operators and IT operations teams use Service Operations Workspace as their primary interface for managing IT operations powered by ITOM AIOps. The workspace consolidates alerts, incidents, and operational data from multiple AIOps applications into unified dashboards and workflows.
 
-In their daily work, operators use the workspace to [[t_EMViewDashboard|monitor service health]] across the entire IT infrastructure, investigate alerts with full context from multiple data sources, and coordinate response activities. The workspace presents correlated events, suggested [[ccg-remediation|remediation]] actions, and service impact information in a single interface, enabling operators to quickly understand and respond to issues.
+In their daily work, operators use the workspace to monitor service health across the entire IT infrastructure, investigate alerts with full context from multiple data sources, and coordinate response activities. The workspace presents correlated events, suggested remediation actions, and service impact information in a single interface, enabling operators to quickly understand and respond to issues.
 
 The workspace integrates data from all AIOps products to provide operators with comprehensive situational awareness and streamlined incident management capabilities.
 
@@ -33,31 +33,31 @@ The workspace integrates data from all AIOps products to provide operators with 
 
 Each AIOPs application focuses on specific aspects of IT operations while contributing to a unified AIOps platform.
 
--   **[[acc-landing-page|Agent Client Collector]]**
+-   **Agent Client Collector**
 
-    Monitors service availability and infrastructure performance in real-time. Combined with [[operational-metrics|Metric Intelligence]], it establishes dynamic thresholds and detects anomalies that may indicate potential service outages before they occur.
+    Monitors service availability and infrastructure performance in real-time. Combined with Metric Intelligence, it establishes dynamic thresholds and detects anomalies that may indicate potential service outages before they occur.
 
 -   **Synthetic monitoring**
 
     Monitors critical services by simulating user transactions on API endpoints, identifying performance bottlenecks and helping maintain optimal user experiences. It provides early warning of service degradation before real users are affected.
 
--   **[[hla-landing-page|Health Log Analytics]]**
+-   **Health Log Analytics**
 
-    Collects log data in real time and uses machine learning to identify patterns and detect anomalies. It typically ingests logs through the MID Server, identifies normal operating patterns, and [[user-guide|using Event Management]], raises actionable alerts when it detects significant deviations that might indicate emerging issues.
+    Collects log data in real time and uses machine learning to identify patterns and detect anomalies. It typically ingests logs through the MID Server, identifies normal operating patterns, and using Event Management, raises actionable alerts when it detects significant deviations that might indicate emerging issues.
 
--   **[[c_EM|Event Management]]**
+-   **Event Management**
 
-    Serves as the central nervous system for your IT operations. It receives alerts from monitoring tools and correlates related events to reduce noise. The system maps alerts to configuration items in the Configuration Management Database \(CMDB\) and calculates business impact using service dependencies from [[c_ServiceMappingOverview|Service Mapping]]. This correlation transforms hundreds of individual alerts into prioritized, context-rich incidents that focus teams on the most critical issues.
+    Serves as the central nervous system for your IT operations. It receives alerts from monitoring tools and correlates related events to reduce noise. The system maps alerts to configuration items in the Configuration Management Database \(CMDB\) and calculates business impact using service dependencies from Service Mapping. This correlation transforms hundreds of individual alerts into prioritized, context-rich incidents that focus teams on the most critical issues.
 
 -   **Express List**
 
     Is the SOW view into Event Management, allowing operators to efficiently monitor systems and services,​ resolve alerts, evaluate the alert impact,​ track issues, and report incidents.
 
--   **[[service-observability|Service Observability]]**
+-   **Service Observability**
 
     Combines external observability telemetry with Configuration Management Database \(CMDB\) data, to reveal dependencies that may not be obvious from individual alerts. Charts provide critical insights by showing how infrastructure components may be affecting a single service.
 
--   **[[sr-landing-page|Service Reliability Management]]**
+-   **Service Reliability Management**
 
     Enables teams to respond to incidents with structured workflows, automated escalation, and collaborative tools that streamline incident response.
 
@@ -122,7 +122,7 @@ Predictive issue detection
 </td><td>
 
 -   [Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-landing-page.md)
--   [[synthetic-monitoring-landing-page|Synthetic monitoring]]
+-   [Synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-landing-page.md)
 
 </td><td>
 
@@ -182,7 +182,7 @@ Admin, operator
 
 In the context of ITOM AIOps, which focuses on maintaining the health and performance of IT systems and infrastructure, there are several ServiceNow products that can add significant value:
 
--   **[[r-discovery|Discovery]]**
+-   **Discovery**
 
     Discovery automatically identify and collect information about IT assets, configurations, and relationships, providing organizations with a comprehensive inventory to effectively manage and monitor their IT infrastructure.
 
@@ -199,7 +199,7 @@ In the context of ITOM AIOps, which focuses on maintaining the health and perfor
 
 -   **Incident Management**
 
-    Incident Management tools leverage downstream information from Event Management to [[create-incidents|create incidents]] swiftly, ensuring timely resolution of issues.
+    Incident Management tools leverage downstream information from Event Management to create incidents swiftly, ensuring timely resolution of issues.
 
 -   **Customer Service Management \(CSM\)**
 
@@ -212,28 +212,7 @@ Before implementing ITOM AIOps, verify that your instance has the necessary prer
 
 A well-populated Configuration Management Database \(CMDB\) is crucial to get the most out of AIOps. ITOM AIOps relies on accurate configuration item data to map events to infrastructure components, calculate service impact, and provide context for alert correlation. Use Discovery to populate your CMDB with current infrastructure data before activating AIOps applications.
 
-[[configure-mid-web-server-extension|Configure the MID Web Server extension]] to enable ITOM AIOps features. The [[mid-web-server|MID Web Server]] is an extension that enables external clients to push metric data and events to the MID Server, which is required for Event Management, and many instances of Agent Client Collector, and Health Log Analytics.
+Configure the MID Web Server extension to enable ITOM AIOps features. The MID Web Server is an extension that enables external clients to push metric data and events to the MID Server, which is required for Event Management, and many instances of Agent Client Collector, and Health Log Analytics.
 
 Setup Hub provides a sequence of tasks that help you configure Event Management on your ServiceNow instance. For more information about using the Setup Hub, see [Configure Event Management using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/aiops-conf-console.md).
 
-## Related
-
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[t_EMViewDashboard|Monitor service health]]
-- [[ccg-remediation|Remediation]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[operational-metrics|Metric Intelligence]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[user-guide|Using Event Management]]
-- [[c_EM|Event Management]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[service-observability|Service Observability]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[r-discovery|Discovery]]
-- [[create-incidents|Create incidents]]
-- [[configure-mid-web-server-extension|Configure the MID Web Server extension]]
-- [[mid-web-server|MID Web Server]]

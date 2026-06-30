@@ -60,8 +60,8 @@ Category
 
 The classification or grouping of the AI prompt configuration. Select the required category from the following options:-   Reservation
 -   Space Management
--   [[workplace-connectors-landing-page|Workplace Connectors]]
-For example, when you select **Reservation** and specify the instructions to the AI system, the system displays reservation insights on the **Reservation Management** tab on the [[workplace-central-feat|Workplace Central]] dashboard.
+-   Workplace Connectors
+For example, when you select **Reservation** and specify the instructions to the AI system, the system displays reservation insights on the **Reservation Management** tab on the Workplace Central dashboard.
 
 </td></tr><tr><td>
 
@@ -85,7 +85,7 @@ AI instructions
 
 </td><td>
 
-Description of the specific tasks or analysis that the AI system is configured to perform. Include instructions and actions like data analysis, pattern detection, or predictive modeling. Provide clear and direct instructions for the AI system to follow when generating outputs. For example, Systematically analyze 2-week occupancy data to identify capacity utilization patterns, [[space-optimization|space optimization]] opportunities, and operational anomalies.
+Description of the specific tasks or analysis that the AI system is configured to perform. Include instructions and actions like data analysis, pattern detection, or predictive modeling. Provide clear and direct instructions for the AI system to follow when generating outputs. For example, Systematically analyze 2-week occupancy data to identify capacity utilization patterns, space optimization opportunities, and operational anomalies.
 
 </td></tr><tr><td>
 
@@ -119,8 +119,3 @@ Illustrative cases or scenarios that demonstrate how AI system instructions and 
 
 **Parent Topic:**[Insight cards on the Workplace Central dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/insight-cards-on-the-workplace-central-dashboard.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[workplace-central-feat|Workplace Central]]
-- [[space-optimization|Space Optimization]]

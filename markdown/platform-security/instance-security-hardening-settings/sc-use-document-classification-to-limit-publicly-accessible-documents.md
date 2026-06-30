@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Use Document Classification to limit publicly accessible documents \[New in Security Center 7.0\]
 
-Control public access to permalinked documents using [[ca-system-properties|system properties]].
+Control public access to permalinked documents using system properties.
 
-**Note:** This hardening setting is not a part of the hardening baseline. It does not appear in [[sec-center-v2|Security Center]] hardening pages and affect your hardening score.
+**Note:** This hardening setting is not a part of the hardening baseline. It does not appear in Security Center hardening pages and affect your hardening score.
 
 By default, the Document Management plugin includes these classifications:
 
@@ -25,7 +25,7 @@ By default, the Document Management plugin includes these classifications:
 -   **confidential**
 -   **none** \(no classification provided\)
 
-Use the **com.snc.documents.permalink.allowed\_classifications** to create a list of document classifications. Documents under these classifications \(and documents without classification\) are publicly accessible to any unauthenticated [[users|users]] with an appropriate link.
+Use the **com.snc.documents.permalink.allowed\_classifications** to create a list of document classifications. Documents under these classifications \(and documents without classification\) are publicly accessible to any unauthenticated users with an appropriate link.
 
 Use this property to control public access to document permalinks. Previously, these links were publicly accessible to anyone with the link. The value of this property depends on your specific needs. You may have additional custom document categories that may need to be added to this property to enable public access.
 
@@ -45,7 +45,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -130,9 +130,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

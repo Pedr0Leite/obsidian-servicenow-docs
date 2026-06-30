@@ -50,8 +50,5 @@ The following example shows a sample notification.
 **Related topics**  
 
 
-[[next-experience-notifications-preferences|Configure Next Experience notification preferences]]
+[Configure Next Experience notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-notifications-preferences.md)
 
-## Related
-
-- [[next-experience-notifications-preferences|Configure Next Experience notification preferences]]

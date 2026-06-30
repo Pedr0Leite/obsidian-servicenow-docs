@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables Sourcing Procurement, Outbound staging tabl
 
 # Outbound Receipt staging table
 
-The Outbound Receipt \[sn\_spend\_intg\_outbound\_receipt\] staging table stores important data about the [[receipts|receipts]] created so that an ERP integrator can export this data to a third-party ERP system.
+The Outbound Receipt \[sn\_spend\_intg\_outbound\_receipt\] staging table stores important data about the receipts created so that an ERP integrator can export this data to a third-party ERP system.
 
 The following table lists the key fields for the Outbound Receipt \[sn\_spend\_intg\_outbound\_receipt\] staging table.
 
@@ -46,7 +46,7 @@ Unique number generated within the ERP system for the receipt.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -54,7 +54,7 @@ String
 
 </td><td>
 
-ERP source from which the receipt is imported. The ERP source is determined through the [[legal-entity|legal entity]] associated with these records.
+ERP source from which the receipt is imported. The ERP source is determined through the legal entity associated with these records.
 
 </td></tr><tr><td>
 
@@ -66,7 +66,7 @@ String
 
 </td><td>
 
-Current status of the [[receipt-integration|receipt integration]].
+Current status of the receipt integration.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ A message that describes the current processing status of the receipt.
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]] line number
+Purchase order line number
 
 </td><td>
 
@@ -178,7 +178,7 @@ Type of the receipt based on the product type. For example, Goods Receipt or Ser
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] product
+Supplier product
 
 </td><td>
 
@@ -190,12 +190,3 @@ Supplier product for which the receipt is generated.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[receipts|Receipts]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]
-- [[receipt-integration|Receipt integration]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

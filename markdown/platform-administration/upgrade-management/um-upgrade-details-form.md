@@ -14,7 +14,7 @@ breadcrumb: [Resolve conflicts for an individual record, Upgrade Monitor tool in
 
 # Upgrade details form
 
-From the [[uc-upgrade-details-form|Upgrade Details form]], you can review an individual record affected by the upgrade and reconcile conflicts between the upgrade and customizations.
+From the Upgrade Details form, you can review an individual record affected by the upgrade and reconcile conflicts between the upgrade and customizations.
 
 \[Omitted image "uc-upgrade-details-form.png"\] Alt text: Image showing the Upgrade Details form
 
@@ -124,6 +124,3 @@ The table containing this record.
 </td></tr></tbody>
 </table>**Parent Topic:**[Resolve conflicts for an individual record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-resolve-conflict.md)
 
-## Related
-
-- [[uc-upgrade-details-form|Upgrade details form]]

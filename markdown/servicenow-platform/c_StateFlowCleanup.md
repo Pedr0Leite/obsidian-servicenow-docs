@@ -14,7 +14,7 @@ breadcrumb: [Use state flows, State flows, Exploring Service Administration, Ser
 
 The business rules, client scripts, and UI actions that the system creates automatically to perform custom transitions exist only while the state flow records that use them are present.
 
-When all the [[c_StateFlows|state flows]] on a table are deleted, the system attempts to delete any unnecessary programming elements that were created on that table, using these criteria:
+When all the state flows on a table are deleted, the system attempts to delete any unnecessary programming elements that were created on that table, using these criteria:
 
 <table id="table_qvn_t2l_cp"><thead><tr><th>
 
@@ -60,25 +60,19 @@ All state flows with field controls are deleted.
 
 </td></tr><tr><td>
 
-[[c_WorkNotes|Work notes]] business rule
+Work notes business rule
 
 </td><td>
 
 All state flows with field controls or work notes are deleted
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_UseStateFlows|Use state flows]]
+</table>**Parent Topic:**[Use state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
 **Related topics**  
 
 
 [Use state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_UseStateFlows.md)
 
-[[t_CreateAStateFlow|Create a state flow]]
+[Create a state flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAStateFlow.md)
 
-## Related
-
-- [[c_UseStateFlows|Use state flows]]
-- [[t_CreateAStateFlow|Create a state flow]]
-- [[c_StateFlows|State flows]]
-- [[c_WorkNotes|Work notes]]

@@ -16,9 +16,9 @@ Several types of components are installed with installation of the Commercial Li
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-The Commercial Lines Underwriting plugin \(sn\_ins\_uw\_b2b\) is automatically installed with the [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]] plugin.
+The Commercial Lines Underwriting plugin \(sn\_ins\_uw\_b2b\) is automatically installed with the Commercial Lines Servicing plugin.
 
-Commercial Lines Underwriting manages the underwriting tasks that are used in workflows across [[fso-overview|Financial Services]] Operations applications.
+Commercial Lines Underwriting manages the underwriting tasks that are used in workflows across Financial Services Operations applications.
 
 ## Roles installed
 
@@ -98,10 +98,5 @@ Commercial Underwriting Service Task \[sn\_ins\_uw\_b2b\_task\]
 Stores all underwriting tasks for business policy service requests for all Financial Services Operations applications. This table extends the Financial Task \[sn\_bom\_task\] table.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[commercial-lines-servicing-reference|Commercial Lines Servicing reference]]
+</table>**Parent Topic:**[Commercial Lines Servicing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/commercial-lines-servicing-reference.md)
 
-## Related
-
-- [[commercial-lines-servicing-reference|Commercial Lines Servicing reference]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[fso-overview|Financial Services]]

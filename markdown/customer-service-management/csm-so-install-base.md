@@ -18,7 +18,7 @@ Business locations are extensions of a service organization and are critical to 
 
 Businesses have multiple products installed at these locations to serve their customers. In the past, there was no easy way for companies to track and manage these products and services. It was only possible to track products and services for accounts and consumers, often resulting in broken equipment, delayed service, and lower customer satisfaction.
 
-By extending proactive customer support to the Service Model Foundation, you can track [[sold-product|sold products]] and [[install-base-item|install base items]] installed at service organizations.
+By extending proactive customer support to the Service Model Foundation, you can track sold products and install base items installed at service organizations.
 
 Service organizations can:
 
@@ -29,13 +29,7 @@ Service organizations can:
 **Related topics**  
 
 
-[[so-install-base-plugins|Sold products and install base plugins for service organizations]]
+[Sold products and install base plugins for service organizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/so-install-base-plugins.md)
 
-[[configure-data-model-roles|Assign roles]]
+[Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-roles.md)
 
-## Related
-
-- [[so-install-base-plugins|Sold products and install base plugins for service organizations]]
-- [[configure-data-model-roles|Assign roles]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

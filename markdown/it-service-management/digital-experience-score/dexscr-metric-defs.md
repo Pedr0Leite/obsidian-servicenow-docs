@@ -81,7 +81,7 @@ Number of closed major incidents
 
 </td><td>
 
-The number of major incidents resolved or closed for an application or device group.Major incidents are filtered by confirming that the Major [[c_IncidentManagement|Incident Management]] plugin \(com.snc.incident.mim\) is active and the **Major incident state** field on incident records is set to **Accepted**.
+The number of major incidents resolved or closed for an application or device group.Major incidents are filtered by confirming that the Major Incident Management plugin \(com.snc.incident.mim\) is active and the **Major incident state** field on incident records is set to **Accepted**.
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Percentage of incidents that breached SLA
 
 </td><td>
 
-This percentage is calculated by dividing the number of incidents that have breached the SLA time by the total number of incidents, and multiplying the result by 100.The total number of incidents with SLA breach is the sum of incidents with the **Has breached** state marked as **true** in the [[r_TaskSLATable|Task SLA table]] of the incident records.
+This percentage is calculated by dividing the number of incidents that have breached the SLA time by the total number of incidents, and multiplying the result by 100.The total number of incidents with SLA breach is the sum of incidents with the **Has breached** state marked as **true** in the Task SLA table of the incident records.
 
 </td></tr><tr><td>
 
@@ -120,7 +120,3 @@ The total duration of outages or degradation \(in hours\) caused by incidents.It
 
 **Parent Topic:**[Digital Experience Score​ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[r_TaskSLATable|Task SLA table]]

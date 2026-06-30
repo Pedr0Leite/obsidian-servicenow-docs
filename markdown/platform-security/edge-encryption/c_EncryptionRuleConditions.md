@@ -16,7 +16,7 @@ breadcrumb: [Define a custom encryption rule, Configuring Edge Encryption, Edge 
 
 Encryption rule conditions determine if the rule should be executed.
 
-An [[encryption-landing|encryption]] rule condition must return true if the rule is to handle the HTTP [[c_requestAPI|request]]; otherwise, it must return false.
+An encryption rule condition must return true if the rule is to handle the HTTP request; otherwise, it must return false.
 
 As you build your condition, keep in mind that only one rule is executed per request. As a result, the condition must be as general or specific as needed to run under the intended circumstances.
 
@@ -60,7 +60,3 @@ function SampleCondition2(request) {
 
 **Parent Topic:**[Define a custom encryption rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionRules.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]

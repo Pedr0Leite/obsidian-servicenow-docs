@@ -16,7 +16,7 @@ breadcrumb: [Widget library, Using portal widgets, Configuring Service Portal, S
 
 Use the service status widgets to display current, planned, and historical outages for business services to your end users.
 
-The service status widgets are part of the [[c_ServicePortal|Service Portal]] service status \[com.glide.service-portal.service-status\] plugin, which is activated automatically with the Service Portal for Enterprise Service Management \[com.glide.service-portal.esm\] plugin.
+The service status widgets are part of the Service Portal service status \[com.glide.service-portal.service-status\] plugin, which is activated automatically with the Service Portal for Enterprise Service Management \[com.glide.service-portal.esm\] plugin.
 
 Service Portal service status widgets show whether services are working as expected. They show real-time service health information directly on the Service Portal, so you can stay informed without contacting the service desk.
 
@@ -25,13 +25,13 @@ Service Portal service status widgets provide visibility into service availabili
 -   **[Business Service Status widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/business-service-status-widget.md)**  
 View how services are running on your system. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Current Status widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/current-status-widget.md)**  
-The [[current-status-widget|Current Status widget]] displays any issues reported in the system. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Current Status widget displays any issues reported in the system. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Planned Maintenance widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/planned-maintenance-widget.md)**  
 Describes any planned system maintenance. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Service History widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-history-widget.md)**  
 Displays the history of specific service's status. For example, if the Bond Trading widget has a history of planned outages or degradations, the widget displays those with a varied color scheme to differentiate the outage type. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Service Status widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-widget.md)**  
-The [[service-status-widget|Service Status widget]] provides a visual representation of service availability over the past three months. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Service Status widget provides a visual representation of service availability over the past three months. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Service Status Legend widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-legend.md)**  
 Use concurrently with the Status History widget to show what the icons in the Status History widget mean. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 -   **[Service Status Subscription widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-status-subscription.md)**  
@@ -39,8 +39,3 @@ Used in conjunction with the service status widget. Users subscribe to receive u
 
 **Parent Topic:**[Widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-showcase.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[current-status-widget|Current Status widget]]
-- [[service-status-widget|Service Status widget]]

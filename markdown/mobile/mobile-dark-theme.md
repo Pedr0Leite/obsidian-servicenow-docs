@@ -18,7 +18,7 @@ Switch between theme variants in ServiceNow® applications.
 
 Use a dark theme on the Mobile Agent and Now Mobile apps to improve focus and readability, and accessibility. Dark theme support is available in the following areas of your mobile apps:
 
- -   Native [[mobile-screens-landing|mobile screens]] and components
+ -   Native mobile screens and components
 -   Embedded web screens
 -   Virtual Agent
 -   Performance Analytics and Reporting dashboards
@@ -36,9 +36,5 @@ Administrators can enable dark mode on an instance using the `glide.ui.polaris.d
 
 ## Access dark theme in the mobile UI
 
-As a user, you can switch between the default and dark theme in the **Preferences** section of the **Settings** tab. For details see [[enable-dark-theme|Enable dark theme]].
+As a user, you can switch between the default and dark theme in the **Preferences** section of the **Settings** tab. For details see [Enable dark theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-dark-theme.md).
 
-## Related
-
-- [[enable-dark-theme|Enable dark theme]]
-- [[mobile-screens-landing|Mobile screens]]

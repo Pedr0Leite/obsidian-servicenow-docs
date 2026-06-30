@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The org chart displays in the [[virtual-agent-landing-page|Virtual Agent]]'s interactive view whenever you open a people citation's popover. You can disable the org chart so that it doesn’t display as an option in the people citation's popover.
+The org chart displays in the Virtual Agent's interactive view whenever you open a people citation's popover. You can disable the org chart so that it doesn’t display as an option in the people citation's popover.
 
 ## Procedure
 
@@ -64,7 +64,3 @@ Steps
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

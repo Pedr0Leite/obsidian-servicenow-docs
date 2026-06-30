@@ -26,7 +26,7 @@ While Live Feed has been discontinued, we are always exploring new ways to enhan
 
 In addition to entering text, you can attach files, such as images, documents, and spreadsheet files in any ServiceNow supported file type to Live Feed messages.
 
-Administrators can manage [[attachment|attachment]] file settings, such as supported file types and maximum attachment file size, by [editing system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
+Administrators can manage attachment file settings, such as supported file types and maximum attachment file size, by [editing system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md).
 
 You can also include links to user-defined URLs and knowledge articles contained in your instance's knowledge base.
 
@@ -49,14 +49,9 @@ When you are posting a message, you have the option of creating a poll in order 
 -   **[Add mentions to a message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/add-mentions-to-message.md)**  
 An @mention is any posted update that contains @username anywhere in the body of the message.
 -   **[Like a message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_LikeAMessage.md)**  
-[[t_LikeAMessage|Like a message]] to provide feedback to the author.
+Like a message to provide feedback to the author.
 -   **[Delete a message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/t_DeleteAMessage.md)**  
 Users can delete any of their own posts or replies. A conversation administrator can also delete messages.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[attachment|Attachment]]
-- [[t_LikeAMessage|Like a message]]

@@ -53,14 +53,10 @@ To enable filters to apply to a local data source, you first have to create a cl
 
 Add filter components to the UI Builder page and configure them for relevant values from the local data instance.
 
-**Parent Topic:**[[dv-local-data-instance|Use a local data instance with a data visualization]]
+**Parent Topic:**[Use a local data instance with a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-local-data-instance.md)
 
 **Related topics**  
 
 
-[[interactive-filters-workspace|Filters in Platform Analytics]]
+[Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md)
 
-## Related
-
-- [[dv-local-data-instance|Use a local data instance with a data visualization]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]

@@ -14,11 +14,11 @@ breadcrumb: [NLU intents, Build and train your model, Model management, Natural 
 
 # Import an NLU intent
 
-As you create intents for your [[nlu-landing|Natural Language Understanding]] \(NLU\) model, you can also import and reuse intents from other models in the same application scope. Reusing intents saves time when building new models.
+As you create intents for your Natural Language Understanding \(NLU\) model, you can also import and reuse intents from other models in the same application scope. Reusing intents saves time when building new models.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   You can import intents for Virtual Agent and AI Search models.
 -   Verify that the application scope of your source model and target model are the same.
 -   Role required: nlu\_editor, nlu\_admin, or admin
@@ -50,13 +50,13 @@ In this example scenario, you are building the content of your NLU model and you
 
 2.  Select the tab for your model's application, then select the name of the model you want to add an intent to.
 
-3.  In the model overview page, find the **[[managing-model-content|Build and train your model]]** phase and select **View phase**.
+3.  In the model overview page, find the **Build and train your model** phase and select **View phase**.
 
 4.  In the **Intents** tab, select **Import intents**.
 
     \[Omitted image "import-intent01U.png"\] Alt text: On the intents tab of the Build and train your model phase, the Import intents button is highlighted.
 
-    The **Import intents** screen appears, showing a list of [[nlu-models|NLU models]] from which you can select intents to import.
+    The **Import intents** screen appears, showing a list of NLU models from which you can select intents to import.
 
 5.  Locate the intents you want to import, and select their check boxes.
 
@@ -79,9 +79,3 @@ If there are any secondary language models associated to your target model, cons
 
 For information about prebuilt Virtual Agent models that you can import from, see [Reusing intents from prebuilt NLU models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/reusing-predefined-nlu-intents.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[managing-model-content|Build and train your model]]
-- [[nlu-models|NLU models]]

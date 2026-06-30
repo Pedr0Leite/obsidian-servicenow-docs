@@ -14,12 +14,12 @@ breadcrumb: [Importing and exporting projects, Using Project Management, Project
 
 # Project import from Microsoft Project
 
-Import Microsoft project files into the ServiceNow [[c_ProjectApplicationOverview|Project Management]] application.
+Import Microsoft project files into the ServiceNow Project Management application.
 
 Users with the project manager role can import a project using:
 
 -   Import module
--   [[create-a-project-form|Project form]]
+-   Project form
 -   Planning Console
 
 When you import a project as a new project or into an existing project, the projects are updated as follows:
@@ -58,7 +58,7 @@ Import project data, from a Microsoft Project file, into an existing project in 
 
 [Create custom field mapping for Microsoft Project file import]()
 
-[Import [[t_CreateAProjectTask|project tasks]] for multiple projects]()
+[Import project tasks for multiple projects]()
 
 [Project export to Microsoft Project]()
 
@@ -66,8 +66,3 @@ Import project data, from a Microsoft Project file, into an existing project in 
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]

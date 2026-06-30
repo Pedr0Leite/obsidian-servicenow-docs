@@ -14,11 +14,11 @@ breadcrumb: [Platform Analytics Solutions for Advanced Work Assignment, Analytic
 
 # Advanced Work Assignment dashboard for operations
 
-Enable managers to monitor [[awa-work-items|work items]] across all [[awa-service-channels|service channels]] so that their agents can better support customer needs.
+Enable managers to monitor work items across all service channels so that their agents can better support customer needs.
 
-This dashboard is available in the Performance Analytics - Content Pack - [[awa-application-landing-page|Advanced Work Assignment]] plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-content-pack.md).
+This dashboard is available in the Performance Analytics - Content Pack - Advanced Work Assignment plugin. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-content-pack.md).
 
-The [[overview-tab-pae|Overview tab]] of the [[operations-dashboard|Operations dashboard]] displays information across all queues, teams, and channels.
+The Overview tab of the Operations dashboard displays information across all queues, teams, and channels.
 
 \[Omitted image "awa-operations-dashboard-update.png"\] Alt text: The overview tab of the dashboard displays indicators and reports to track agent operations with customers.
 
@@ -175,11 +175,3 @@ Count and list of agents in an assignment group with their current presence stat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-service-channels|Service channels]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[overview-tab-pae|Overview tab]]
-- [[operations-dashboard|Operations dashboard]]

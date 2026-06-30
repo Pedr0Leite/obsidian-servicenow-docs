@@ -12,7 +12,7 @@ breadcrumb: [Assessment administrator tasks, Using assessments, Assessments, Ass
 
 # View an assessment metric category
 
-View assessment metric categories that are used with assessment metric types and [[c_AssessmentMetrics|assessment metrics]] in generating the bubble charts on the Demand Workbench. The bubble charts help the demand managers to assess the demands visually.
+View assessment metric categories that are used with assessment metric types and assessment metrics in generating the bubble charts on the Demand Workbench. The bubble charts help the demand managers to assess the demands visually.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The Demand Management application comes with an assessment metric type named **D
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Project Administration** &gt; **Settings** &gt; **[[r_Assessments|Assessments]] Metric Categories**.
+1.  Navigate to **All** &gt; **Project Administration** &gt; **Settings** &gt; **Assessments Metric Categories**.
 
 2.  Open an assessment metric category to review it.
 
@@ -33,22 +33,14 @@ The Demand Management application comes with an assessment metric type named **D
     |Assessment metric category|Data source|Description|
     |--------------------------|-----------|-----------|
     |**Size**|**T-Shirt size** field on the [Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/t_CreatingDemands.md) form.|Assesses demand size relative to the size of other demands.|
-    |**Strategic Alignment**|[[t_ViewACategoryResult|View an assessment category result]] field in the assessment category result for the Strategic Alignment metric category.|Assesses how closely the demand aligns with strategic goals of the organization compared to other demands.|
+    |**Strategic Alignment**|[View an assessment category result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md) field in the assessment category result for the Strategic Alignment metric category.|Assesses how closely the demand aligns with strategic goals of the organization compared to other demands.|
     |**Risk**|**Rating** field in the assessment category result for the Risk metric category.|Assesses demand risks compared to other demands.|
     |**ROI**|**Impact** and **Financial return** fields on the Demand form.|Assesses demand return on investment compared to other demands.|
     |**Cost**|**Labor costs**, **Capital expense**, and **Operating expense** fields on the Demand form.|Assesses demand cost compared to other demands.|
 
 
--   **[[c_AssessmentMetricCategories|Assessment metric categories]]**  
-In the Assessments application, a metric category represents a theme for evaluating [[c_assessable-records|assessable records]] in a given metric type.
+-   **[Assessment metric categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetricCategories.md)**  
+In the Assessments application, a metric category represents a theme for evaluating assessable records in a given metric type.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
-## Related
-
-- [[t_ViewACategoryResult|View an assessment category result]]
-- [[c_AssessmentMetricCategories|Assessment metric categories]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[r_Assessments|Assessments]]
-- [[c_assessable-records|Assessable records]]

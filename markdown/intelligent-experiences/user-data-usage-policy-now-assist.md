@@ -13,7 +13,7 @@ breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
 
 # User data usage policy for Now Assist
 
-[[platform-now-assist-landing|Now Assist]] is designed to keep user data safe and secure. You can also mask sensitive data or opt-out of sharing data for model improvements.
+Now Assist is designed to keep user data safe and secure. You can also mask sensitive data or opt-out of sharing data for model improvements.
 
 ## How your data is sent and stored
 
@@ -45,12 +45,7 @@ ServiceNow might use Retrieval Augmented Generation \(RAG\) for selected AI feat
 
 Data Sharing helps ServiceNow to continuously advance and improve its Now LLMs, based on the latest customer usage. If you no longer want to participate in the customer data-sharing program, you’re able to opt out.
 
-To opt out, follow the instructions in [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]].
+To opt out, follow the instructions in [Opt out of data sharing for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-**Parent Topic:**[[now-assist-reference-landing|Now Assist reference]]
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
-## Related
-
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[now-assist-reference-landing|Now Assist reference]]
-- [[platform-now-assist-landing|Now Assist]]

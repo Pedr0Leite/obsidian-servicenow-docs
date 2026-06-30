@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  To [[arcsight-esm-create-profile|create a profile]] for an alert in your ServiceNow AI Platform instance, navigate to **Microsoft Graph Security API Integration** &gt; **Microsoft Graph Security API Profile**.
+1.  To create a profile for an alert in your ServiceNow AI Platform instance, navigate to **Microsoft Graph Security API Integration** &gt; **Microsoft Graph Security API Profile**.
 
 2.  Select **New**.
 
@@ -88,6 +88,3 @@ Additional text to help you distinguish this profile from other profiles.
 
 The next step is to map the alert fields.
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]

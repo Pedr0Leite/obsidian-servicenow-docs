@@ -20,7 +20,7 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 ## Procedure
 
-1.  Open [[kpi-details|KPI Details]] for a native Data snapshots indicator, as described in [[view-kpi-details|View KPI Details]].
+1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-details.md).
 
 2.  In the sidebar of KPI Details, select the Filter icon. \[Omitted image "kpi-details-filter-icon.png"\] Alt text: Filter icon highlighted on sidebar.
 
@@ -58,7 +58,7 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 6.  In the **Sort by** menu, sort the elements by name, by the score for the selected date, or by the change from the previous date.
 
-    If [[real-time-scores|real-time scores]] are turned on, only sorting by name is available.
+    If real-time scores are turned on, only sorting by name is available.
 
 7.  Select one or more field values.
 
@@ -66,12 +66,12 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 8.  If you have selected multiple elements, select how to display the elements.
 
-    By default, the aggregate score is displayed. Select **Display as separate time series** to show each element separately. You can make a selection only in cases where both aggregate and separate score displays are possible. For more information, see [[apply-brkdowns-element-kpi-details|Aggregate score of multiple elements]].
+    By default, the aggregate score is displayed. Select **Display as separate time series** to show each element separately. You can make a selection only in cases where both aggregate and separate score displays are possible. For more information, see [Aggregate score of multiple elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/apply-brkdowns-element-kpi-details.md).
 
 9.  Click **Apply**
 
 
-**Parent Topic:**[[kpi-details-components|Examining indicators with KPI Details]]
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
 **Related topics**  
 
@@ -92,10 +92,3 @@ Role required: None. However, upgraded instances may require pa\_viewer.
 
 [Access indicator record or scoresheet from KPI Details]()
 
-## Related
-
-- [[view-kpi-details|View KPI Details]]
-- [[apply-brkdowns-element-kpi-details|Filter indicator scores by breakdown elements in KPI Details]]
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[kpi-details|KPI Details]]
-- [[real-time-scores|Real-time scores]]

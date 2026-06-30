@@ -14,14 +14,14 @@ breadcrumb: [CPQ with other apps, Integrate, Sales Customer Relationship Managem
 
 Explore the admin settings in CPQ.
 
-Several settings in CPQ control how CPQ interacts with the rest of your application. To get to the Settings page in CPQ, navigate to the CPQ Admin screen, click the arrow to expand the [[cpq-utilities|Utilities]] section, and then click the Settings tab near the bottom of the menu.
+Several settings in CPQ control how CPQ interacts with the rest of your application. To get to the Settings page in CPQ, navigate to the CPQ Admin screen, click the arrow to expand the Utilities section, and then click the Settings tab near the bottom of the menu.
 
 \[Omitted image "cpq-admin-settings.png"\] Alt text: Admin settings user interface
 
-1.  Admin Version: Determines which UI theme is used for the Admin interface. The setting is maintained at the user level; each administrator can select their preference. If your CPQ environment contains both Configuration Manager and [[transaction-manager|Transaction Manager]], we highly recommend you use the new Admin UI.
+1.  Admin Version: Determines which UI theme is used for the Admin interface. The setting is maintained at the user level; each administrator can select their preference. If your CPQ environment contains both Configuration Manager and Transaction Manager, we highly recommend you use the new Admin UI.
     -   The new Admin UI introduces top-level navigation and color theming that helps administrators easily identify and access different administration areas.
     -   The Legacy setting retains the administration platform UI used since the application’s inception.
-2.  Product Id Field: Determines the field that CPQ uses to match products when using product [[rules_101|rules]]. Select one of the following:
+2.  Product Id Field: Determines the field that CPQ uses to match products when using product rules. Select one of the following:
     -   Product Code: Corresponds to the `Product2.ProductCode` field in Salesforce
     -   Partner Id: Corresponds to the `Product2.Id` field in Salesforce
 
@@ -40,8 +40,4 @@ Several settings in CPQ control how CPQ interacts with the rest of your applicat
 
     Salesforce objects are synchronized every thirty minutes. If you have an issue synchronizing product, pricebook, or pricebook entries, reset the user name and wait thirty minutes to see whether the issue has been resolved.
 
-## Related
 
-- [[cpq-utilities|Utilities]]
-- [[transaction-manager|Transaction Manager]]
-- [[rules_101|Rules]]

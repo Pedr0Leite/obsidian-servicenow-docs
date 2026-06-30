@@ -14,7 +14,7 @@ breadcrumb: [Trigger flows, MetricBase, Manage instance data sources, Extend Ser
 
 # Execute triggers conditionally
 
-[[metricbase|MetricBase]] triggers execute based on a single metric. Condition Scripts impose additional requirements that determine whether a trigger kicks off a flow.
+MetricBase triggers execute based on a single metric. Condition Scripts impose additional requirements that determine whether a trigger kicks off a flow.
 
 ## Before you begin
 
@@ -87,6 +87,3 @@ You can also associate a condition script with a trigger flow in the MetricBase 
 
 \[Omitted image "condition-script-trigger-flow.png"\] Alt text: Associate a Condition Script in MetricBase trigger flows table
 
-## Related
-
-- [[metricbase|MetricBase]]

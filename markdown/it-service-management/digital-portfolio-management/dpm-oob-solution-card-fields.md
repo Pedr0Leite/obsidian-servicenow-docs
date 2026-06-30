@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
 
 # Digital Portfolio Management homepage default solution cards
 
-[[dpm-landing|Digital Portfolio Management]] uses certain fields to auto-generate a set of default solution cards to display on your DPM homepage. After you add or remove solutions from your homepage, DPM remembers your updates by displaying your personalized solutions cards instead of the auto-generated set.
+Digital Portfolio Management uses certain fields to auto-generate a set of default solution cards to display on your DPM homepage. After you add or remove solutions from your homepage, DPM remembers your updates by displaying your personalized solutions cards instead of the auto-generated set.
 
 ## DPM homepage overview
 
@@ -66,7 +66,7 @@ dpm.homepage.cmdb\_ci\_business\_app\_limit
 
 </td><td>
 
-The query limit when auto-generating business [[dex-workspace-application-tab|applications]] for your DPM homepage.
+The query limit when auto-generating business applications for your DPM homepage.
 
 </td><td>
 
@@ -168,7 +168,3 @@ cmdb\_ci\_service\_auto including dynamic configuration item \(CI\) groups
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery Store, Data Discovery, Platform Privacy]
 
 # Data Discovery scheduled discovery
 
-Set up and schedule [[data-discovery-jobs|data discovery jobs]] to scan your instance for sensitive information.
+Set up and schedule data discovery jobs to scan your instance for sensitive information.
 
 ## Discovery Jobs
 
@@ -83,7 +83,7 @@ State
 
 </td><td>
 
-State of the [[data-discovery-landing|Data Discovery]] job. The possible states are as follows:-   **Ready to Schedule**: Default state for new jobs.
+State of the Data Discovery job. The possible states are as follows:-   **Ready to Schedule**: Default state for new jobs.
 -   **Scheduled**: The job is scheduled to run.
 -   **In Progress**: Job is actively running.
 -   **Completed**: Job has finished running successfully.
@@ -117,7 +117,7 @@ The **Discovery Findings** table lists all the discovered findings from discover
 
 ## Granular Configuration
 
-The **Granular [[sc-configuration|Configuration]]** table lists all granular discovery jobs. See [Create granular job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-create-granular-job.md) to learn how to create a granular discovery job.
+The **Granular Configuration** table lists all granular discovery jobs. See [Create granular job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-create-granular-job.md) to learn how to create a granular discovery job.
 
 <table id="table_jmf_q4g_cgc"><thead><tr><th>
 
@@ -160,7 +160,7 @@ Active
 The state of the granular discovery job.
 
 </td></tr></tbody>
-</table>## [[granular-findings|Granular Findings]]
+</table>## Granular Findings
 
 The **Granular Findings** table lists all the granular findings from granular discovery jobs. See [Review granular findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-review-granular-findings.md) to review the findings from granular discovery jobs.
 
@@ -235,16 +235,8 @@ When user chosen action has been successfully applied on the finding
 
 When applying user chosen action has failed
 
-**Warning:** Findings in Manual Review should be deleted by [[users|users]] after taking appropriate actions.
+**Warning:** Findings in Manual Review should be deleted by users after taking appropriate actions.
 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[data-discovery-landing|Data Discovery]]
-- [[sc-configuration|Configuration]]
-- [[granular-findings|Granular Findings]]
-- [[users|Users]]

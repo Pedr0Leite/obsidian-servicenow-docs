@@ -12,7 +12,7 @@ breadcrumb: [Card Disputes, Data Models, Explore, Financial Services Operations 
 
 # Dispute decision tables
 
-Decision tables in [[dispute-management|Dispute Management]] provide decision logic for card dispute processing.
+Decision tables in Dispute Management provide decision logic for card dispute processing.
 
 The following table lists the decision tables used in Dispute Management.
 
@@ -160,14 +160,10 @@ Dispute Document Rules
 Determines whether an ACH dispute requires a Written Statement of Unauthorized Debit \(WSUD\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[dispute-data-model|Card Disputes data model]]
+</table>**Parent Topic:**[Card Disputes data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-data-model.md)
 
 **Related topics**  
 
 
 [Decision Tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/decision-table.md)
 
-## Related
-
-- [[dispute-data-model|Card Disputes data model]]
-- [[dispute-management|Dispute Management]]

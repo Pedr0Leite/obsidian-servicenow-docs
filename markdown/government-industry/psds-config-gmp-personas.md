@@ -35,7 +35,7 @@ The combination of user roles and responsibilities determines what a user can do
 
 ## Grants Management user personas
 
-A persona role is pre-configured role in the application that is made up of multiple granular roles, and are designed to correspond to common job titles for members of an agency. Each persona role represents a different way a user interacts with an agency.. The following table contains the persona roles included with the Grants Management, and a description of each persona as it may pertain to an agency. For more information on the roles installed with Grants Management, including the roles contained in each persona, see [[roles-installed-with-public-sector-digital-services|Grants Management roles]].
+A persona role is pre-configured role in the application that is made up of multiple granular roles, and are designed to correspond to common job titles for members of an agency. Each persona role represents a different way a user interacts with an agency.. The following table contains the persona roles included with the Grants Management, and a description of each persona as it may pertain to an agency. For more information on the roles installed with Grants Management, including the roles contained in each persona, see [Grants Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/roles-installed-with-public-sector-digital-services.md).
 
 <table id="table_idr_2r2_1hc"><thead><tr><th>
 
@@ -146,9 +146,5 @@ A grant program viewer can view grant programs that they are assigned to.
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[psds-config-gmp-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Grants Management]]
+</table>**Parent Topic:**[Assign user personas, roles, groups, and responsibilities in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-assign-user-roles-responsibilities.md)
 
-## Related
-
-- [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]]
-- [[psds-config-gmp-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Grants Management]]

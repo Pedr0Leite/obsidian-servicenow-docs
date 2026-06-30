@@ -12,7 +12,7 @@ breadcrumb: [Journal field type, Reference, Field administration, Forms, fields,
 
 # Journal field display limits
 
-[[r_JournalFields|Journal fields]] can greatly increase the size of task records because they allow users to enter very large string values.
+Journal fields can greatly increase the size of task records because they allow users to enter very large string values.
 
 Display limits prevent the instance from loading the entire journal field into memory. Administrators have the option to:
 
@@ -38,7 +38,7 @@ When a journal field exceeds the length set in this property, the instance shows
 
 ### Procedure
 
-1.  [[t_AddAPropertyUsingSysPropsList|Add a system property]] with the following settings.
+1.  [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) with the following settings.
 
     |Property|Value|
     |--------|-----|
@@ -105,10 +105,5 @@ Role required: admin
 **Related topics**  
 
 
-[[c_ActivityFormatter|Activity formatter]]
+[Activity formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ActivityFormatter.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[c_ActivityFormatter|Activity formatter]]
-- [[r_JournalFields|Journal fields]]

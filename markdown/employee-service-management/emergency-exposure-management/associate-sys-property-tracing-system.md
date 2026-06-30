@@ -26,7 +26,7 @@ For a list of system properties associated with various tracing systems, see [Sy
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-exposure-management|Emergency Exposure Management]]** &gt; **Administration** &gt; **Tracing Systems**.
+1.  Navigate to **All** &gt; **Emergency Exposure Management** &gt; **Administration** &gt; **Tracing Systems**.
 
 2.  Open a tracing system to associate a system property.
 
@@ -42,6 +42,4 @@ For a list of system properties associated with various tracing systems, see [Sy
 
     3.  Click **Save**.
 
-## Related
 
-- [[emergency-exposure-management|Emergency Exposure Management]]

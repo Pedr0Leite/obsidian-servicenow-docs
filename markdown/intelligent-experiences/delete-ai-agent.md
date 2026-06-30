@@ -12,7 +12,7 @@ breadcrumb: [Create an AI agent, Now Assist AI agents, Enable AI experiences]
 
 # Delete an AI agent
 
-Delete an AI agent from [[ai-agent-studio|AI Agent Studio]] if you no longer need it.
+Delete an AI agent from AI Agent Studio if you no longer need it.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_aia\_admin
 
 You must assign appropriate permissions by using the access control lists \(ACLs\) to delete AI agents on AI Agent Studio.
 
-**Note:** You can't delete the AI agents that come installed with [[platform-now-assist-landing|Now Assist]] applications.
+**Note:** You can't delete the AI agents that come installed with Now Assist applications.
 
 ## Procedure
 
@@ -41,7 +41,3 @@ You must assign appropriate permissions by using the access control lists \(ACLs
 
 The selected AI agents are deleted from the AI agents list in AI Agent Studio.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[platform-now-assist-landing|Now Assist]]

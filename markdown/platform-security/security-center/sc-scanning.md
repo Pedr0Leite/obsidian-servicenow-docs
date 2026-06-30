@@ -16,31 +16,24 @@ breadcrumb: [Security configuration console, Security Center, Platform Security]
 
 Scan your instance against a set of security checks to identify misconfiguration. The scanner tool simplifies the process of creating different suites of checks for different use cases so that you can analyze the results over time.
 
-\[Omitted image "security-scanner.png"\] Alt text: Security scanner tab in the [[sec-center-v2|Security Center]]
+\[Omitted image "security-scanner.png"\] Alt text: Security scanner tab in the Security Center
 
 Security scanning is a method to investigate your instance for configurations that indicate security health issues. This method enables you to identify opportunities to implement security recommendations for your organization.
 
-When accessing the scanner tool, there’s no comparison available until you select the suite to be compared with at least two [[scan-results|scan results]] of the suite. You can use the default suite and checks, or you can create your own custom checks and suites.
+When accessing the scanner tool, there’s no comparison available until you select the suite to be compared with at least two scan results of the suite. You can use the default suite and checks, or you can create your own custom checks and suites.
 
 -   **[Scan findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/scan-findings.md)**  
 A finding is a reference to a record that has violated a rule from a check on the instance. You can find the source record and the number of times the record triggered the rules of a given check.
 -   **[Security scan comparison](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/score-comparison.md)**  
-Compare two scans of the same security suite to gain visibility to the health of your [[security-hardening-settings|hardening settings]] and improve the security posture of your instance.
+Compare two scans of the same security suite to gain visibility to the health of your hardening settings and improve the security posture of your instance.
 -   **[Auditor suite findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-auditor-finding.md)**  
-Review Security Center [[sc-auditor-finding|Auditor suite findings]] over time.
+Review Security Center Auditor suite findings over time.
 -   **[Scan checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/scan-checks.md)**  
 Use checks to detect anomalies within an instance, running against tables, records, or metadata.
 -   **[Scan suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-suites.md)**  
-Review details on the [[sec-center-suites|scan suites]] available on your instance.
+Review details on the scan suites available on your instance.
 -   **[Scan results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/scan-results.md)**  
 View data related to your scan results from a single view.
 
 **Parent Topic:**[Security configuration console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[scan-results|Scan results]]
-- [[security-hardening-settings|Hardening settings]]
-- [[sc-auditor-finding|Auditor suite findings]]
-- [[sec-center-suites|Scan suites]]

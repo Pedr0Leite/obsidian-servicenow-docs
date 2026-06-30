@@ -14,7 +14,7 @@ breadcrumb: [AI reporting assistant, Microsoft Word based audit report templates
 
 # Configure knowledge graph tags for AI reporting assistant
 
-Map knowledge graph tags to a business domain to improve the accuracy of [[ai-reporting-assistant|AI reporting assistant]] results when querying ServiceNow data. This configuration is optional.
+Map knowledge graph tags to a business domain to improve the accuracy of AI reporting assistant results when querying ServiceNow data. This configuration is optional.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: sn\_grc\_doc\_design.admin
 
 [Create a business domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-a-business-domain.md)
 
-## Related
-
-- [[ai-reporting-assistant|AI reporting assistant]]

@@ -48,11 +48,11 @@ Build the foundation
 
 </td><td>
 
-Use [[dynamic-translation|Dynamic Translation]] to enhance your experience of dynamically translating text entered in an application for a seamless [[ia-localization-il|localization]] experience.
+Use Dynamic Translation to enhance your experience of dynamically translating text entered in an application for a seamless localization experience.
 
 </td><td>
 
-Uses bases [[base-system-roles|system roles]]. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -216,7 +216,7 @@ Build the foundation
 
 </td><td>
 
-Use the [[ia-knowledge-mgmt|Knowledge Management]] application to share information in knowledge bases, contributing toward self-resolution of incidents.
+Use the Knowledge Management application to share information in knowledge bases, contributing toward self-resolution of incidents.
 
 </td><td>
 
@@ -258,7 +258,7 @@ Build the foundation
 
 </td><td>
 
-Use the [[ia-ai-search|AI Search]] application for a modern consumer-grade search engine for Service Portal, Now Mobile, and Virtual Agent. Intelligent query features enable you to find the answers you need quickly.
+Use the AI Search application for a modern consumer-grade search engine for Service Portal, Now Mobile, and Virtual Agent. Intelligent query features enable you to find the answers you need quickly.
 
 </td><td>
 
@@ -476,10 +476,3 @@ nlu\_admin
 </td></tr></tbody>
 </table>**Parent Topic:**[Select your adoption blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-select-business-objective.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[ia-localization-il|Localization]]
-- [[base-system-roles|System roles]]
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[ia-ai-search|AI Search]]

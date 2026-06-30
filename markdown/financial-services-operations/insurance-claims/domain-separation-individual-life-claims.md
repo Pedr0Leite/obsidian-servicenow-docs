@@ -14,7 +14,7 @@ breadcrumb: [Reference, Individual Life Claims, Exploring insurance claims appli
 
 # Domain separation and Individual Life Claims
 
-[[domain-separation-dispute-content-pack-for-mastercard|Domain separation]] is supported for the [[individual-life-claims-landing-page|Individual Life Claims]] application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for the Individual Life Claims application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -30,7 +30,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## How domain separation works in Individual Life Claims
 
-All [[fso-overview|FSO integrations]] applications are built on top of and use many Customer Service Management \(CSM\) tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
+All [FSO integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-overview.md) applications are built on top of and use many Customer Service Management \(CSM\) tables. The key reference tables are the customer tables such as Consumer, Account, and Contact, and these tables are domain-separated.
 
 ## Tables
 
@@ -70,8 +70,3 @@ All new tables in Individual Life Claims are domain-separated:
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[domain-separation-dispute-content-pack-for-mastercard|Domain separation]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]

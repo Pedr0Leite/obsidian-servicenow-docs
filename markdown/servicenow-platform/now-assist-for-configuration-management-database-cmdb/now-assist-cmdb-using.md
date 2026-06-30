@@ -38,7 +38,7 @@ Create configuration item
 
 </td><td>
 
-Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks [[ire|Identification and Reconciliation engine \(IRE\)]] rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI. For more information, see [Create a CI using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-ci-creator.md)
+Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks Identification and Reconciliation engine \(IRE\) rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI. For more information, see [Create a CI using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-ci-creator.md)
 
 </td><td>
 
@@ -55,9 +55,9 @@ Data governance can be an overwhelming task. The Provide advice on CMDB governan
 </td><td>
 
 -   CMDB data manager
--   CMDB [[c_DataCertification|data certification]] and attestation manager
+-   CMDB data certification and attestation manager
 -   CMDB data ownership manager
--   [[c_CMDBHealth|CMDB health]] metrics manager
+-   CMDB health metrics manager
 -   CMDB life cycle manager
 -   CMDB principal class manager
 
@@ -94,7 +94,7 @@ The Duplicate CI remediator agentic workflow completes the full range of de-dupl
 
 -   **Configuration item summarizer Al agent**
 
-    Given a CMDB \([[manage-cmdb|Configuration Management]] Database\) record GUID or' sys\_id" summarize the Cl using an existing skill.
+    Given a CMDB \(Configuration Management Database\) record GUID or' sys\_id" summarize the Cl using an existing skill.
 
 -   **CMDB data certification and attestation manager AI agent**
 
@@ -110,7 +110,7 @@ The Duplicate CI remediator agentic workflow completes the full range of de-dupl
 
 -   **CMDB data ownership manager AI agent**
 
-    The CMDB data ownership manager AI agent helps you to assess the quality of CI ownership data for a CI class to determine ownership, validate ownership, and evaluate ownership quality. You can validate fields that [[reference|reference]] sys\_user or sys\_user\_group like **Assigned To**, **Managed by Group** \(default\), **Support Group**, and so on. The agent answers the following questions:
+    The CMDB data ownership manager AI agent helps you to assess the quality of CI ownership data for a CI class to determine ownership, validate ownership, and evaluate ownership quality. You can validate fields that reference sys\_user or sys\_user\_group like **Assigned To**, **Managed by Group** \(default\), **Support Group**, and so on. The agent answers the following questions:
 
     -   Is CI ownership specified? Is the **Managed by group** attribute value set for the CI? Does it indicate an active and correctly configured record? The value of the system property for ownership is a default field for the evaluation. For the **Managed by group** CI attribute, you can specify the percentage values that classify the result as `Poor`, `Average`, or `Healthy`. For more information, see [Property settings for Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-data-fdn-properties.md).
     -   If you provide a user referencing value: Does the **User Referencing** value indicate an active record? This evaluation identifies CIs that have inactive users and CIs with no **User** value.
@@ -159,15 +159,7 @@ Data governance can be an overwhelming task. The Provide advice on CMDB governan
 -   **[Use Now Assist to search the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-search.md)**  
 The Search CMDB agentic workflow enables you to search for CIs by specifying any of several attributes of the CI of interest. The workflow accepts your natural language request, verifies your search goal, and then, depending on the information you provided, generates a keyword search, a single-table search with dot walks, or a multi-table search that involves relationship navigation. The workflow can infer CI relationship data to generate an appropriate query.
 -   **[Recommend service graph connector agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/na-cmdb-awf-suggest-sgc-mappings.md)**  
-Sometimes you're not sure which integration to use to capture CI data. When you provide Now Assist with then name of a particular CI class, it can recommend the data sources or [[cmdb-sgc-available|Service Graph Connectors]] and ingestion sources that can best populate CMDB data.
+Sometimes you're not sure which integration to use to capture CI data. When you provide Now Assist with then name of a particular CI class, it can recommend the data sources or Service Graph Connectors and ingestion sources that can best populate CMDB data.
 
 **Parent Topic:**[Now Assist for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-landing-cmdb.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_DataCertification|Data Certification]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[manage-cmdb|Configuration Management]]
-- [[reference|Reference]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

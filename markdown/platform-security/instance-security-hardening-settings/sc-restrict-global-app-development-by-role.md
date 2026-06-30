@@ -14,11 +14,11 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Restrict Global App Development by Role
 
-Use the **sn\_g\_app\_creator.allow\_global** property to control which [[users|users]] can create applications in the global scope using the Guided Application Creator.
+Use the **sn\_g\_app\_creator.allow\_global** property to control which users can create applications in the global scope using the Guided Application Creator.
 
 The **sn\_g\_app\_creator.allow\_global** system property controls which users can create applications in the global scope using the Guided Application Creator. If **sn\_g\_app\_creator.allow\_global** is set to the recommended value of **false**, users need the sn\_g\_app\_creator.global role to create an application in the global scope using Guided Application Creator. If **sn\_g\_app\_creator.allow\_global** is set to the insecure value of **true** then all users with only the base role "sn\_g\_app\_creator.app\_creator" can create an application in the global scope using Guided Application Creator. Applications in the global scope do not contain scope protections allowing a developer to access greater features and functions beyond a specific scope.
 
-Ensure the property **sn\_g\_app\_creator.allow\_global** is set to **false** or does not appear in the [[ca-system-properties|System Properties]] \[sys\_properties\] table. If the property is not present in the System Properties \[sys\_properties\] table the secure default is used.
+Ensure the property **sn\_g\_app\_creator.allow\_global** is set to **false** or does not appear in the System Properties \[sys\_properties\] table. If the property is not present in the System Properties \[sys\_properties\] table the secure default is used.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,8 +115,3 @@ Enhanced the API \(/api/now/templates\) to validate the create global applicatio
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

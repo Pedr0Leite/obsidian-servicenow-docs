@@ -33,7 +33,7 @@ Role required: assigned as approver for a plan configuration
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] service portal, navigate to **Journeys** page.
+1.  From the Employee Center service portal, navigate to **Journeys** page.
 
 2.  Select **My Tasks**.
 
@@ -76,7 +76,7 @@ Description
 </td><td>
 
 1.  Select the link to the plan configuration details.
-2.  Select the **[[activity-lxp|Activity]]** tab.
+2.  Select the **Activity** tab.
 3.  Review the comments for any special instructions.
 4.  Select **My Tasks** to go back to the approval task, and **Approve** or **Reject** add the reason you’re rejecting the changes.
 
@@ -93,7 +93,3 @@ Description
 
 **Parent Topic:**[Journey designer plan configuration approvers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-config-plan-approvers.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

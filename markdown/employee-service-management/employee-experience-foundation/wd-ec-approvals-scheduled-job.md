@@ -43,7 +43,7 @@ Role required: sn\_hr\_workday.admin, sp\_admin, and sn\_hr\_integr\_fw.admin
     -   Compensation Change Request ToDos Items \[**sn\_hr\_workday\_compensation\_change\_request\_todos\_items**\]
 6.  See the sample Workday report and its metadata.
 
-    After data is pulled into staging tables, [[transform-maps-w|use transform maps]] to move data into target tables.
+    After data is pulled into staging tables, use transform maps to move data into target tables.
 
     **Note:** If event data does not appear on the Workday event table, check the Workday credentials. If credentials are fine, check **Run Workday Integration Flow** flow execution and **Workday Pull-Todos Scheduled Import** subflow execution for more information.
 
@@ -71,6 +71,3 @@ For data protection, use the default purge policy to delete data more often. By 
 
 **Parent Topic:**[Approvals hub integration with Workday](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/wd-ec-integration.md)
 
-## Related
-
-- [[transform-maps-w|Use transform maps]]

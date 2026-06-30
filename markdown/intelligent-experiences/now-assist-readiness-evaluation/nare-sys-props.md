@@ -39,7 +39,7 @@ sn\_assess.effort\_visibility
 
 </td><td>
 
-Customize the estimated remediation effort for select efforts. This property [[controls|controls]] multiple sections associated with remediation effort. The default value is `false`. When this system property is set to `true`, the **Remediation properties** tab appears on the [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] dashboard. You customize the estimated remediation efforts via the **Remediation properties** tab. All input values represent estimated remediation efforts in days. After making changes to the estimated remediation efforts, select **Save**, and then re-run the assessments to see the updated remediation efforts reflected.
+Customize the estimated remediation effort for select efforts. This property controls multiple sections associated with remediation effort. The default value is `false`. When this system property is set to `true`, the **Remediation properties** tab appears on the Now Assist Readiness Evaluation dashboard. You customize the estimated remediation efforts via the **Remediation properties** tab. All input values represent estimated remediation efforts in days. After making changes to the estimated remediation efforts, select **Save**, and then re-run the assessments to see the updated remediation efforts reflected.
 
 </td></tr><tr><td>
 
@@ -51,8 +51,3 @@ Decide the maximum number of records to process for the ITSM assessment. The def
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[controls|Controls]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]

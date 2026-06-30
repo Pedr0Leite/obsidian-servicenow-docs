@@ -37,21 +37,14 @@ The **sn\_sales\_common.enable\_location\_based\_transactions** system property 
 
 ## What to do next
 
-Define the [[som-create-rule-entity-filter|product eligibility rule filters]] and [[som-define-eligibility-rules|matrices]] that control the product offerings displayed by location.
+Define the [product eligibility rule filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-rule-entity-filter.md) and [matrices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-define-eligibility-rules.md) that control the product offerings displayed by location.
 
-**Parent Topic:**[[config-location-transaction|Configuring location-based product transactions]]
+**Parent Topic:**[Configuring location-based product transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/config-location-transaction.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-## Related
-
-- [[som-create-rule-entity-filter|Create a rule entity filter]]
-- [[som-define-eligibility-rules|Define product eligibility rules in a product eligibility matrix]]
-- [[config-location-transaction|Configuring location-based product transactions]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]

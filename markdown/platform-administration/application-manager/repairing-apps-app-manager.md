@@ -18,7 +18,7 @@ Repairing an application or plugin returns it to its original state without need
 
 ## Overview of repairing applications and plugins
 
-When you [[repair-application-app-mgr|repair an application or plugin]], all the files with sys\_update\_xml records are added to the remote update set. The remote update set is named with the format: "Repair/Upgrade app &lt;app scope name&gt; at &lt;timestamp&gt;".
+When you repair an application or plugin, all the files with sys\_update\_xml records are added to the remote update set. The remote update set is named with the format: "Repair/Upgrade app &lt;app scope name&gt; at &lt;timestamp&gt;".
 
 ## Repairing applications with customizations
 
@@ -29,12 +29,7 @@ It’s assumed the complete set of customizations for an application is within t
 For more information about customizations, see [Customization vs. configuration with Creator Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/creator-studio-custom-vs-config.md).
 
 -   **[Repair an application or plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/repair-application-app-mgr.md)**  
-Repair an application procured through the [[servicenow-store|ServiceNow Store]] or a plugin included in your instance. Repairing apps or plugins can resolve issues caused by unintentional modifications, corrupted files, or partial deletion.
+Repair an application procured through the ServiceNow Store or a plugin included in your instance. Repairing apps or plugins can resolve issues caused by unintentional modifications, corrupted files, or partial deletion.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[administering-applications|Administering applications]]
-- [[repair-application-app-mgr|Repair an application or plugin]]
-- [[servicenow-store|ServiceNow Store]]

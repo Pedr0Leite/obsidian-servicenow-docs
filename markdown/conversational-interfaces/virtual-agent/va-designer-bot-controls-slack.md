@@ -14,7 +14,7 @@ breadcrumb: [VA feature support in Slack conversations, Conversational Integrati
 
 # Virtual Agent Designer user input and bot response controls in Slack
 
-The [[virtual-agent-landing-page|Virtual Agent]] Designer user input controls and bot responses for creating conversation topics are supported in Slack conversations, including the table bot response and the card control that can display images.
+The Virtual Agent Designer user input controls and bot responses for creating conversation topics are supported in Slack conversations, including the table bot response and the card control that can display images.
 
 ## Virtual Agent Designer user input controls and bot responses
 
@@ -32,6 +32,3 @@ To upload multiple image files or other attachments during your conversation wit
 
 **Parent Topic:**[Virtual Agent features supported in Slack conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-slack-other-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

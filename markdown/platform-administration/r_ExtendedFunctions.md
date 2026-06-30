@@ -92,7 +92,7 @@ Cleanup Messy Code
 
 </td><td>
 
-Fixes standard HTML errors for the selected text, such as invalid tags. Selecting this button might change the layout of existing content. If you don’t like the [[hs-results|results]], you can select **Undo** to revert this action.
+Fixes standard HTML errors for the selected text, such as invalid tags. Selecting this button might change the layout of existing content. If you don’t like the results, you can select **Undo** to revert this action.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Edit HTML Source/Code
 
 </td><td>
 
-Opens HTML source code in a separate window. See [[c_UseHTMLFields|Editing in HTML Source Mode]].
+Opens HTML source code in a separate window. See [Editing in HTML Source Mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UseHTMLFields.md).
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Insert/Edit Embedded Media
 
 </td><td>
 
-Embeds a video from the video library or an attachment. You can also add videos to the video library with this feature. To learn more, see [[t_EmbeddingVideoInHTMLFields|Embedding Video in HTML Fields]].
+Embeds a video from the video library or an attachment. You can also add videos to the video library with this feature. To learn more, see [Embedding Video in HTML Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EmbeddingVideoInHTMLFields.md).
 
 </td></tr><tr><td>
 
@@ -172,7 +172,7 @@ Insert/Edit Image
 
 </td><td>
 
-Inserts an image from the image library or an attachment. You can also add images to the image library with this feature. To learn more, see [[t_EmbeddingImagesInHTMLFields|Embedding Images in HTML Fields]].
+Inserts an image from the image library or an attachment. You can also add images to the image library with this feature. To learn more, see [Embedding Images in HTML Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_EmbeddingImagesInHTMLFields.md).
 
 </td></tr><tr><td>
 
@@ -323,9 +323,3 @@ Shows or hides invisible elements in the article, such as collapsed table border
 </td></tr></tbody>
 </table>**Note:** \*These options aren’t available with htmlArea.
 
-## Related
-
-- [[c_UseHTMLFields|HTML field editors]]
-- [[t_EmbeddingVideoInHTMLFields|Embed videos in the HTML editor]]
-- [[t_EmbeddingImagesInHTMLFields|Embed images in the HTML editor]]
-- [[hs-results|Results]]

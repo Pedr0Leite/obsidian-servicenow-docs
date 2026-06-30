@@ -14,30 +14,22 @@ breadcrumb: [Legal Investigations, Legal Service Delivery Practice Applications,
 
 # Legal Investigations reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in [[legal-investigations-landing-page|Legal Investigations]].
+Reference topics provide additional information about the lists and forms that you use in Legal Investigations.
 
 -   **[Components installed with Legal Investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/installed-with-legal-investigations.md)**  
 Several types of components are installed with activation of the Legal Investigations application, including tables, user roles, and scheduled jobs.
 -   **[Record producers for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/record-producers-legal-investigation.md)**  
 A record producer helps you set up an intake form containing fields that a requester has to fill in and initiate a request.
 -   **[Ethics complaints intake form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/ethics-complaint-intake-form.md)**  
-Employees can use the [[ethics-complaint-intake-form|Ethics Complaints intake form]] to report an ethics violation incident.
+Employees can use the Ethics Complaints intake form to report an ethics violation incident.
 -   **[Ethics complaints intake form in the Anonymous Report Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/ethics-complaint-intake-form-arc.md)**  
-Employees can use the Ethics Complaints intake form in the [[arc-portal|Anonymous Report Center \(ARC\)]] portal to report an ethics violation incident. Different sets of fields appear on the form based on the active record producers.
+Employees can use the Ethics Complaints intake form in the Anonymous Report Center \(ARC\) portal to report an ethics violation incident. Different sets of fields appear on the form based on the active record producers.
 -   **[Involved Party form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/involved-party-form.md)**  
-Legal fulfillers or matter owners can use the [[involved-party-form|Involved Party form]] to add or modify an involved party in a legal request or legal matter assigned to them.
+Legal fulfillers or matter owners can use the Involved Party form to add or modify an involved party in a legal request or legal matter assigned to them.
 -   **[Legal Matter Task form for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-matter-task-form.md)**  
 Matter owners can use the Legal Matter Task form for adding task type of Documents, Recommended Actions, and Interviews as part of the legal investigation.
 -   **[Data mapping fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/deep-data-copy-mapping.md)**  
-Data mapping of tables is necessary when ethics matter is transferred by the legal fulfiller to HR and an HR [[hr-case-employee-relations|Employee Relations]] case is transferred to the Legal department.
+Data mapping of tables is necessary when ethics matter is transferred by the legal fulfiller to HR and an HR Employee Relations case is transferred to the Legal department.
 
 **Parent Topic:**[Legal Investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[ethics-complaint-intake-form|Ethics complaints intake form]]
-- [[arc-portal|Anonymous Report Center \(ARC\)]]
-- [[involved-party-form|Involved Party form]]
-- [[hr-case-employee-relations|Employee Relations]]

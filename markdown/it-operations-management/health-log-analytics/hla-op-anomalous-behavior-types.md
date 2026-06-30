@@ -16,7 +16,7 @@ breadcrumb: [Exploring, Health Log Analytics, ITOM AIOps, IT Operations Manageme
 
 Anomalous behavior in a CI or a service can indicate an important issue. For example, a spike in the frequency or number of messages of a particular type can indicate a problem.
 
-To build models of expected behavior, [[hla-landing-page|Health Log Analytics]] monitors the log stream to learn baselines for patterns, metrics, and gauges over various time periods. Time periods can be hourly, daily, weekly, or unlimited. Behavior that departs from the learned models is considered anomalous behavior.
+To build models of expected behavior, Health Log Analytics monitors the log stream to learn baselines for patterns, metrics, and gauges over various time periods. Time periods can be hourly, daily, weekly, or unlimited. Behavior that departs from the learned models is considered anomalous behavior.
 
 ## Types of log property
 
@@ -57,6 +57,3 @@ In this example, the system tracks the baseline rate \(the average number of eve
 |Baseline reference​ increase or decrease|An increase or decrease in the value or volume of a log property as compared to the one-hour or one-week baseline.|
 |Correlation of severity and keyword alerts|An increase in the volume of a severity level or keyword.|
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -15,11 +15,11 @@ breadcrumb: [Configure multi-theme, Employee Slate for Now Assist, Configuration
 
 # User criteria form and reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] information for configuring audience applicability criteria used in multi-theme functionality and other platform features.
+Reference information for configuring audience applicability criteria used in multi-theme functionality and other platform features.
 
 ## User Criteria form fields
 
-The [[ec-user-criteria-form|User Criteria form]] contains fields for defining user access criteria and restrictions. For more information, see [Configure additional themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/es-configure-multi-theme.md).
+The User Criteria form contains fields for defining user access criteria and restrictions. For more information, see [Configure additional themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/es-configure-multi-theme.md).
 
 |Field|Description|
 |-----|-----------|
@@ -50,7 +50,3 @@ Audience applicability criteria define which users receive specific themes, conf
 |Time zones|Target users based on time zone settings|Regional themes, time-based configurations|
 |Domains|Target users based on domain separation|Multi-tenant environments, domain-specific branding|
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[ec-user-criteria-form|User Criteria form]]

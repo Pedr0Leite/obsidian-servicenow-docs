@@ -14,7 +14,7 @@ breadcrumb: [Monitor an upgrade to an instance, Upgrade Monitor tool in Upgrade 
 
 # Upgrade Progress
 
-When an upgrade is underway, [[uc-monitor-progress|Upgrade Progress]] displays progress bars and other information to help you monitor the process.
+When an upgrade is underway, Upgrade Progress displays progress bars and other information to help you monitor the process.
 
 You can view the status of each of the stages during an upgrade process. It helps you to know exactly which stage you are in at any point of the upgrade process.
 
@@ -48,6 +48,3 @@ Once the database upgrade starts, the following details show up. \[Omitted image
 
 **Parent Topic:**[Monitor an upgrade to an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-monitor-instance-upgrade.md)
 
-## Related
-
-- [[uc-monitor-progress|Upgrade Progress]]

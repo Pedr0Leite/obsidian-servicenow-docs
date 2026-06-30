@@ -28,7 +28,7 @@ Role required: admin
 
     Two apps are installed with Enterprise Onboarding and Transitions:
 
-    -   Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] for Enterprise \[com.sn\_hr\_lifecycle\_ent\]
+    -   Human Resources Scoped App: Lifecycle Events for Enterprise \[com.sn\_hr\_lifecycle\_ent\]
     -   Performance Analytics - Content Pack - Human Resources Lifecycle Events Enterprise Scoped App \[com.sn\_hr\_lifecycle\_pa\]
 
 **Related topics**  
@@ -38,6 +38,3 @@ Role required: admin
 
 [Activate Lifecycle Events for Enterprise]()
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

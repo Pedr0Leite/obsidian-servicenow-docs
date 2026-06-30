@@ -14,7 +14,7 @@ breadcrumb: [Reference, Instance Data Replication, Manage instance data sources,
 
 # Adapter descriptions for Instance Data Replication
 
-Adapters modify the producer data before inserting the data on consumer instances in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Adapters modify the producer data before inserting the data on consumer instances in Instance Data Replication \(IDR\).
 
 ## Adapter fields
 
@@ -268,7 +268,7 @@ The product is Madrid. The product is Madrid. The product is London.
 </td></tr></tbody>
 </table>## Split adapter
 
-Use the split adapter to [[break|break]] a string into two or more strings using a specified delimiter made up of letters, numbers, or special characters \(no spaces\). In **Output Pattern**, use `$` to specify groups. `$0` represents the entire input, `$1` represents the first group, `$2` represents the second group, and so on. You can repeat a group in an output pattern, for example, `$2, $1, $1`. Multiple instances of a delimiter in source data create three or more groups.
+Use the split adapter to break a string into two or more strings using a specified delimiter made up of letters, numbers, or special characters \(no spaces\). In **Output Pattern**, use `$` to specify groups. `$0` represents the entire input, `$1` represents the first group, `$2` represents the second group, and so on. You can repeat a group in an output pattern, for example, `$2, $1, $1`. Multiple instances of a delimiter in source data create three or more groups.
 
 <table id="table_hxv_jkq_qfb"><thead><tr><th>
 
@@ -395,7 +395,3 @@ Use the time zone conversion adapter to convert one time zone to another.
 
 [Instance Data Replication roles]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[break|Break]]

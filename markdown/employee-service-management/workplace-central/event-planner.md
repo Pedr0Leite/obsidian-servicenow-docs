@@ -27,7 +27,7 @@ Ensure that you have installed the Calendar component \(sn\_calendar\) of versio
 Using the Event planner schedule view, you can perform various actions on reservation. However, note the following:
 
 -   Open and view the Location directory portal from the Scheduled view. For more information, see [Open and view Location directory from Event Planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/open-location-directory-eventplanner.md).
--   You can only manage reservations that are created using [[workplace-safety-mgmt-hr|Workplace Core]] applications.
+-   You can only manage reservations that are created using Workplace Core applications.
 -   You can manage single and occurrence reservations.
 -   You can manage a multi-location or a group reservation only by opening the reservation details and not with the schedule view.
 -   As a reservation planner, you can perform the following actions:
@@ -41,7 +41,7 @@ Using the Event planner schedule view, you can perform various actions on reserv
 
 \[Omitted image "event-planner-schedule-view.png"\] Alt text: Event planner schedule view.
 
-The Event planner also provides you with an option to [[create-reservation-request-1|create a reservation]]. The planner navigates you to the reservation portal from where you can [[reservation-portal|make a reservation]]. As a Reservation planner, you can edit a reservation's number of attendees, the reservation purpose, and the cost center.
+The Event planner also provides you with an option to create a reservation. The planner navigates you to the reservation portal from where you can make a reservation. As a Reservation planner, you can edit a reservation's number of attendees, the reservation purpose, and the cost center.
 
 **Note:** In scheduled view, you cannot update a reservation after editing any custom field.
 
@@ -74,8 +74,3 @@ For more information about the Reservation planner role, refer to [Components in
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[reservation-portal|Make a reservation]]

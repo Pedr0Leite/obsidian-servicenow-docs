@@ -14,11 +14,11 @@ breadcrumb: [Platform performance, Maintain and monitor, Administer the ServiceN
 
 # Exploring platform performance
 
-The ServiceNow AI Platform provides [[clone-configurations-tab|configurations]], monitoring, and diagnostics that administrators can use to support optimized system performance.
+The ServiceNow AI Platform provides configurations, monitoring, and diagnostics that administrators can use to support optimized system performance.
 
 ## ServiceNow AI Platform performance overview
 
-Managing [[platform-performance-landing|platform performance]] is important for enabling a smooth and reliable user experience, and for enhancing your instance's scalability. Instance administrators can use various tools to improve, monitor, and troubleshoot ServiceNow AI Platform performance. These proactive measures help maintain optimal functionality and avoid potential disruptions.
+Managing platform performance is important for enabling a smooth and reliable user experience, and for enhancing your instance's scalability. Instance administrators can use various tools to improve, monitor, and troubleshoot ServiceNow AI Platform performance. These proactive measures help maintain optimal functionality and avoid potential disruptions.
 
 ## Users that manage ServiceNow AI Platform performance
 
@@ -42,7 +42,3 @@ To learn more about improving ServiceNow AI Platform performance, see:
 -   [Resolving platform performance issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-plat-performance-issues.md)
 -   [Monitoring platform performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[platform-performance-landing|Platform performance]]

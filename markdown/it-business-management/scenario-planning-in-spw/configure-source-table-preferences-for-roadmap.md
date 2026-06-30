@@ -15,7 +15,7 @@ breadcrumb: [Prioritization display settings in Strategic Planning, Configure, P
 
 # Customize the planning item display preferences for Prioritization and Roadmap
 
-Update the default display configuration of planning item attributes in Prioritization, portfolio plan Roadmap, and Free-form roadmap pages so that data relevant to you is displayed in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Update the default display configuration of planning item attributes in Prioritization, portfolio plan Roadmap, and Free-form roadmap pages so that data relevant to you is displayed in Strategic Planning Workspace.
 
 ## Before you begin
 
@@ -91,6 +91,3 @@ Rank configuration
 
 **Parent Topic:**[Prioritization display settings in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-prioritization-and-roadmap-settings-strategic-planning.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

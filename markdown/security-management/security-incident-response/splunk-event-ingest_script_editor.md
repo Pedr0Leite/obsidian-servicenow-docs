@@ -14,11 +14,11 @@ breadcrumb: [Integration architecture and external systems connection, Splunk En
 
 # Use the script editor to format alert values for the Splunk Enterprise Event Ingestion integration
 
-Use the script editor to format field values on the security incident during the [[mapping-logrhythm|mapping]] step.
+Use the script editor to format field values on the security incident during the mapping step.
 
 ## Before you begin
 
-In addition to the directly mapped fields from the pulled alert values, and the alert values you enter manually, you can optionally use the script editor to format field values on the security incident during the mapping step. The script editor changes the values of a Splunk alert so that values that are supported by the ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] security incident are mapped to the Category, Configuration item \(CI\), and Observable fields.
+In addition to the directly mapped fields from the pulled alert values, and the alert values you enter manually, you can optionally use the script editor to format field values on the security incident during the mapping step. The script editor changes the values of a Splunk alert so that values that are supported by the ServiceNow AI Platform® Security Incident Response security incident are mapped to the Category, Configuration item \(CI\), and Observable fields.
 
 Role required: sn\_si.ingestion\_profile\_admin
 
@@ -55,7 +55,3 @@ In certain cases, Splunk Enterprise alert values are mapped to the Category, Con
 
 **Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-integration-architecture.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

@@ -30,7 +30,7 @@ Agents can only create personal events for themselves, while managers can create
 
     -   Managers, navigate to **All** &gt; **Field Service** &gt; **Manager** &gt; **Workforce**.
     -   Agents, navigate to **All** &gt; **Field Service** &gt; **Agent** &gt; **Workforce**.
-    -   If [[using-wfo-fsm|Workforce Optimization]] is installed and activated, navigate to **Workspaces** &gt; **Manager Workspace** &gt; **Workforce**.
+    -   If Workforce Optimization is installed and activated, navigate to **Workspaces** &gt; **Manager Workspace** &gt; **Workforce**.
 2.  Click the **Event Management** icon in the right side panel.
 
 3.  On the form, fill in the fields.
@@ -51,6 +51,3 @@ Agents can only create personal events for themselves, while managers can create
 
 [View personal events on the Team calendar in Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/view-personal-events-on-the-team-calendar.md)
 
-## Related
-
-- [[using-wfo-fsm|Workforce Optimization]]

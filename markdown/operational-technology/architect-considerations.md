@@ -12,7 +12,7 @@ breadcrumb: [Deploy Operational Technology Discovery, Operational Technology Nat
 
 # Architectural considerations
 
-This document intends to describe the ServiceNow [[operational-technology-discovery-landing|Operational Technology Discovery]] architecture and covers how discovery components find, identify, and inventory devices in an [[operational-technology-overview|Operational Technology]] environment.
+This document intends to describe the ServiceNow Operational Technology Discovery architecture and covers how discovery components find, identify, and inventory devices in an Operational Technology environment.
 
 ## Operational Technology Discovery software architecture
 
@@ -80,7 +80,7 @@ Because both Sensors and Collectors are independently deployed and selectable, a
 
 As devices respond, their details are collected and returned to the Console. These include device type, vendor, model, firmware version, network address, zone, Purdue level, and where applicable, photographic data. From the Console, the data is uploaded to the ServiceNow instance.
 
-**Note:** It should be noted that depending your network structure, there are additional OT components used to reach the ServiceNow instance, if needed. For further information on OT Discovery connections, see the [[deployment-scenarios|Operational Technology Discovery deployment scenarios]] or the [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]].
+**Note:** It should be noted that depending your network structure, there are additional OT components used to reach the ServiceNow instance, if needed. For further information on OT Discovery connections, see the [Operational Technology Discovery deployment scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md) or the [Service Graph Connector for ServiceNow OT Discovery Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-ot-discovery-guided-setup.md).
 
 Within the ServiceNow instance, discovered devices are mapped to configuration items predefined in the CMDB. These configuration items are based on industry and operational device types, reflecting the OT world your team works in every day. They can be edited and adjusted to fit the data retrieved, giving your team flexibility to tailor the inventory to your environment.
 
@@ -115,9 +115,3 @@ The key advantage of active discovery is coverage. Because it reaches out to dev
 
 Operational Technology Discovery is built on the principle that visibility should not come at the cost of safety. By deploying the Console, Sensor, and Collector at deliberate positions within your network — and querying devices in a way that is safe for operational environments — the system adapts to your environment rather than requiring you to adapt your environment to it. Whether you're managing a single compact site or a large enterprise with dozens of segmented zones, the architecture scales accordingly. The result is a current, accurate inventory of your OT environment, fully integrated into ServiceNow and built without disrupting the operational processes your network supports.
 
-## Related
-
-- [[deployment-scenarios|Operational Technology Discovery deployment scenarios]]
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]
-- [[operational-technology-overview|Operational Technology]]

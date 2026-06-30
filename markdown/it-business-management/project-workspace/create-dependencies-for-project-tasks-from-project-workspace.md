@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Add internal project task dependencies from Project Workspace
 
-Create dependencies between [[t_CreateAProjectTask|project tasks]] using the interactive UI of [[project-workspace-landing-page|Project Workspace]].
+Create dependencies between project tasks using the interactive UI of Project Workspace.
 
 ## Before you begin
 
@@ -77,7 +77,3 @@ Update the details of the dependency including its type and lag time from Projec
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]

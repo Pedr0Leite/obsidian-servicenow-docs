@@ -12,7 +12,7 @@ breadcrumb: [Reference, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Components installed with Pre-Visit Management
 
-Several types of components are installed with installation of the [[pre-visit-mgmt-app|Pre-Visit Management]] application, including tables, user roles, ServiceNow Store applications, scheduled jobs, and business rules.
+Several types of components are installed with installation of the Pre-Visit Management application, including tables, user roles, ServiceNow Store applications, scheduled jobs, and business rules.
 
 **Important:**
 
@@ -82,7 +82,7 @@ sn\_previsit.agent\_connector
 
 Views, creates, and updates procedure request cases for all associated objects.
 
- You can combine this role with other roles for a user with the agent connector profile. For more information, see [[pre-visit-connector-contributor|Determining additional user profiles in Pre-Visit Management]].
+ You can combine this role with other roles for a user with the agent connector profile. For more information, see [Determining additional user profiles in Pre-Visit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-connector-contributor.md).
 
 </td><td>
 
@@ -166,7 +166,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hcls-core-app|Healthcare and Life Sciences Service Management Core]] \(sn\_hcls\)
+Healthcare and Life Sciences Service Management Core \(sn\_hcls\)
 
 </td><td>
 
@@ -276,9 +276,3 @@ Enables patients to view their procedure request cases.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pre-visit-connector-contributor|Determining additional user profiles in Pre-Visit Management]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

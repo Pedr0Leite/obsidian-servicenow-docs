@@ -16,7 +16,7 @@ breadcrumb: [Planned Work Management, Set up work orders and tasks, Configure, F
 
 Extension points enable you to extend the functionality of an application and integrate customizations without altering the application code. Extension points are stored in the Extension Point \[sys\_extension\_point\] table.
 
-The [[planned-work-management|Planned Work Management]] plugin \(com.snc.fsm\_planned\_work\_management\) adds the global.PlannedMaintenanceExtensionPoint extension point, which creates a logic to create work orders for the planned work schedule using the enhanced capabilities of Planned work management. For more information on the other extension points for Planned Work Management, see [[extension-points-field-service|Extension points in Field Service Management]].
+The Planned Work Management plugin \(com.snc.fsm\_planned\_work\_management\) adds the global.PlannedMaintenanceExtensionPoint extension point, which creates a logic to create work orders for the planned work schedule using the enhanced capabilities of Planned work management. For more information on the other extension points for Planned Work Management, see [Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md).
 
 The default extension points that are provided with an application cannot be modified or deactivated. If modification is necessary, if you have the administrator role, you can do the following:
 
@@ -32,7 +32,3 @@ The default extension points that are provided with an application cannot be mod
 
 [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 
-## Related
-
-- [[extension-points-field-service|Extension points in Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

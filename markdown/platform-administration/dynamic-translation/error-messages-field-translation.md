@@ -14,7 +14,7 @@ breadcrumb: [Reference for Dynamic Translation, Dynamic Translation, Translation
 
 # Error messages in Dynamic Translation
 
-You must be aware of a few error scenarios while using [[dynamic-translation|Dynamic Translation]].
+You must be aware of a few error scenarios while using Dynamic Translation.
 
 ## Error messages on forms and activity streams
 
@@ -88,6 +88,3 @@ Unable to translate.
 
 **Parent Topic:**[Reference for Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/reference-for-dynamic-translation.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]

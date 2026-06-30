@@ -12,7 +12,7 @@ breadcrumb: [Run your first scan, Configure the Impact Store Application, Config
 
 # Scan blocking and override behavior scenarios
 
-The Scan Engine blocks concurrent scans to protect instance [[instance-observer-performance|performance]]. Understanding these rules helps you plan scan execution efficiently and how the system handles concurrent scan requests and when Force Full Scan override is necessary.
+The Scan Engine blocks concurrent scans to protect instance performance. Understanding these rules helps you plan scan execution efficiently and how the system handles concurrent scan requests and when Force Full Scan override is necessary.
 
 ## Scenario 1: Attempting to initiate a scan while another scan is in progress
 
@@ -51,9 +51,5 @@ The system requires a page refresh to display the most current scan information.
 -   The Scan Results list updates to show the latest scan status.
 -   New scans appear with **Getting ready** status before transitioning to in-progress
 
-**Parent Topic:**[[run-scan-engine|Run your first scan with the Scan Engine]]
+**Parent Topic:**[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md)
 
-## Related
-
-- [[run-scan-engine|Run your first scan with the Scan Engine]]
-- [[instance-observer-performance|Performance]]

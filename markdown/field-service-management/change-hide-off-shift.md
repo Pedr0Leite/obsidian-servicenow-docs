@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Change the number of days that dispatchers can hide off shift agents
 
-Increase the amount of time that the hide off-shift agent shows on the calendar in [[dispatcher-activities|Dispatcher Workspace]] so dispatchers can plan around agent schedules farther in advance.
+Increase the amount of time that the hide off-shift agent shows on the calendar in Dispatcher Workspace so dispatchers can plan around agent schedules farther in advance.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ For more information on hiding off shift agents, see [Show or hide off shift age
 
 [Show or hide off shift agents from the calendar in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/hide-off-shift-agents.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

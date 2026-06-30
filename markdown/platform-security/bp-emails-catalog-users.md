@@ -12,7 +12,7 @@ breadcrumb: [Recommended practices for service providers, Domain separation for 
 
 # Managing domain separation for specific uses
 
-You can set up separate domains for [[email|email]] notifications and customize the properties of catalog, tables, [[users|users]], groups, and views. This enables you to provide more specific behavior in each domain, giving your customers more flexibility.
+You can set up separate domains for email notifications and customize the properties of catalog, tables, users, groups, and views. This enables you to provide more specific behavior in each domain, giving your customers more flexibility.
 
 ## Emails
 
@@ -49,7 +49,7 @@ There are several points to consider when you work with fields. Pay close attent
 
 When you create a table, you should add a `sys_domain` or an `sys_overrides` field. Any table that contains data that your instance users need to access, needs the `sys_domain` field. Tables that extend or support processes and that need to flow down to children domains also need the `sys_domain` field.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -86,7 +86,7 @@ When you create a table, you should add a `sys_domain` or an `sys_overrides` fie
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -104,9 +104,3 @@ When you create a table, you should add a `sys_domain` or an `sys_overrides` fie
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[email|Email]]
-- [[users|Users]]
-- [[logs|Logs]]

@@ -28,7 +28,7 @@ You can only harvest solved questions with accepted solutions into a knowledge a
 
 ## Procedure
 
-1.  From the [[servicenow-communities|Communities]] homepage, perform one of the following actions.
+1.  From the Communities homepage, perform one of the following actions.
 
     -   Go to the Content List.
     -   Click a forum.
@@ -92,6 +92,3 @@ Click **Delete** to delete the knowledge article and all records associated with
 </table>
 **Parent Topic:**[Moderate a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/moderate-communities.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

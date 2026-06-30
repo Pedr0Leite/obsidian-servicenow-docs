@@ -20,7 +20,7 @@ Role required: sn\_ti.admin, sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Properties**.
 
 2.  On the form, fill in the fields.
 
@@ -34,21 +34,21 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Roll up MITRE ATT&amp;CK information automatically from [[c_Observables|Observables]] to security incident\[sn\_ti.rollup\_mitre\_att&amp;ck\_technique\_observable\_si\]
+Roll up MITRE ATT&amp;CK information automatically from Observables to security incident\[sn\_ti.rollup\_mitre\_att&amp;ck\_technique\_observable\_si\]
 
 </td><td>
 
-Rollup of MITRE-ATT&amp;CK information from observables to the security incident. For more information, see [[associate-mitre-observables|Associate MITRE ATT&amp;CK information with observables]].
+Rollup of MITRE-ATT&amp;CK information from observables to the security incident. For more information, see [Associate MITRE ATT&amp;CK information with observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/associate-mitre-observables.md).
 
  Default value: Yes
 
 </td></tr><tr><td>
 
-Roll up MITRE ATT&amp;CK information automatically from [[tisc-threat-lookup|Threat Lookup]] results to security incident\[sn\_ti.rollup\_mitre\_att&amp;ck\_technique\_threat\_lookup\_si\]
+Roll up MITRE ATT&amp;CK information automatically from Threat Lookup results to security incident\[sn\_ti.rollup\_mitre\_att&amp;ck\_technique\_threat\_lookup\_si\]
 
 </td><td>
 
-Rollup of MITRE-ATT&amp;CK information from threat lookup results to the security incident. For more information, see [[auto-extract-technique-rules|Threat lookup auto-extraction]].Default value: Yes
+Rollup of MITRE-ATT&amp;CK information from threat lookup results to the security incident. For more information, see [Threat lookup auto-extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/auto-extract-technique-rules.md).Default value: Yes
 
 </td></tr><tr><td>
 
@@ -56,7 +56,7 @@ Roll up MITRE ATT&amp;CK information automatically from alert rules to security 
 
 </td><td>
 
-Rollup of MITRE-ATT&amp;CK TTP information automatically from alert rules to security incidents. For more information, see [[create-detection-rules|map detection rules]].Default value: No
+Rollup of MITRE-ATT&amp;CK TTP information automatically from alert rules to security incidents. For more information, see [map detection rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-detection-rules.md).Default value: No
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Roll up MITRE-ATT&amp;CK information automatically from child security incidents
 
 </td></tr><tr><td>
 
-Enabling this property allows [[mapping-logrhythm|mapping]] of Security Incident Fields like category and sub category with Detection Rules in "Detection Rules - MITRE ATT&amp;CK mapping" table\[sn\_ti.enable\_category\_mapping\_with\_alert\_rule\]
+Enabling this property allows mapping of Security Incident Fields like category and sub category with Detection Rules in "Detection Rules - MITRE ATT&amp;CK mapping" table\[sn\_ti.enable\_category\_mapping\_with\_alert\_rule\]
 
 </td><td>
 
@@ -88,7 +88,7 @@ The scheduled time in hours to calculate the CVE and VUL information.Default val
 </table>3.  Click **Save**.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -121,7 +121,7 @@ The scheduled time in hours to calculate the CVE and VUL information.Default val
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -139,14 +139,3 @@ The scheduled time in hours to calculate the CVE and VUL information.Default val
 
 [Threat group to technique heatmap definition]()
 
-## Related
-
-- [[associate-mitre-observables|Associate MITRE-ATT&amp;CK information with observables]]
-- [[auto-extract-technique-rules|Auto-extract technique rules for importing MITRE-ATT&amp;CK information]]
-- [[create-detection-rules|Create and map detection rules]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[mapping-logrhythm|Mapping]]
-- [[data-component|Data Component]]

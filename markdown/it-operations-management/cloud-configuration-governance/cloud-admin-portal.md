@@ -16,11 +16,11 @@ breadcrumb: [Cloud Provisioning and Governance administration guide, Cloud Provi
 
 The Cloud Admin Portal is a role-based portal. You can manage, design, govern, operate, and analyze all your cloud resources from a unified base.
 
-Depending on the role you are logged in with, the Cloud Admin Portal displays different metrics. As an example, if you are logged in to the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application as a Cloud Service Designer, the Cloud Admin Portal displays only the **Design** metrics.
+Depending on the role you are logged in with, the Cloud Admin Portal displays different metrics. As an example, if you are logged in to the Cloud Provisioning and Governance application as a Cloud Service Designer, the Cloud Admin Portal displays only the **Design** metrics.
 
 \[Omitted image "admin-portal.png"\] Alt text: Cloud Admin Portal
 
-Starting this release, you can now use the **[[otto-aiops-dashboards|Dashboards]]** link on the left navigation pane of Cloud Admin Portal to access these Next Experience dashboard pages:
+Starting this release, you can now use the **Dashboards** link on the left navigation pane of Cloud Admin Portal to access these Next Experience dashboard pages:
 
 \[Omitted image "admin-portal-dashboard.png"\] Alt text: Link to Next Experience Dashboard from Cloud Admin Portal
 
@@ -122,7 +122,3 @@ Click **Guided Setup** to configure the Cloud Provisioning and Governance applic
 
 Click **Get Help** to ask a question, open an incident, go to the product documentation or the Knowledge base website.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[otto-aiops-dashboards|Dashboards]]

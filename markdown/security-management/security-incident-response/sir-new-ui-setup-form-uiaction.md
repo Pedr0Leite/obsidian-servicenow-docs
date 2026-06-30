@@ -57,7 +57,7 @@ Application
 
 </td><td>
 
-The name of the application scope \([[sir-landing-page|Security Incident Response]] UI\) in which the UI action is being added is displayed here.
+The name of the application scope \(Security Incident Response UI\) in which the UI action is being added is displayed here.
 
 </td></tr><tr><td colspan="2">
 
@@ -114,6 +114,3 @@ Select the Scripted Rest Resource that defines the action.**Note:** The **SIR UI
 
 To modify an existing Form UI action, click the Action Name to navigate to the Form UI Actions page. You can modify the Action Name, Type, and the rest of the fields based on the selected type.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

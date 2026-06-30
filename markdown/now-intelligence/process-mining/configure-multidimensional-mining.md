@@ -18,7 +18,7 @@ Use multi-dimensional mining to identify inefficiencies and improve performance 
 
 ## Before you begin
 
-You must install and configure [[process-mining|Process Mining]] plugins before configuring multi-dimensional mining on tables.
+You must install and configure Process Mining plugins before configuring multi-dimensional mining on tables.
 
 Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, or sn\_process\_mining\_admin
 
@@ -99,12 +99,8 @@ If you select the **Reference** relation, then select a field from the child tab
 
     A new child table configuration is created.
 
-    [[configure-activity|Configure an activity definition]] for the table configuration. For more information, see [Configure an activity definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-activity.md).
+    Configure an activity definition for the table configuration. For more information, see [Configure an activity definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/configure-activity.md).
 
 
 **Parent Topic:**[Set up a table configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/po-table-configuration.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[configure-activity|Configure an activity definition]]

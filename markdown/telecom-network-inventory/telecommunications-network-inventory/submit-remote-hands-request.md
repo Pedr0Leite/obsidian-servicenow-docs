@@ -22,7 +22,7 @@ Plugins: Activate the following plugins:
 
 -   Customer service installs base management \(sn\_install\_base\)
 -   Customer service with request management \(sn\_cs\_sm\_request\)
--   [[remote-hands-request-management|Remote Hands Request Management]] \(sn\_remote\_hands\)
+-   Remote Hands Request Management \(sn\_remote\_hands\)
 
 Role required: sn\_ni\_dcim\_user
 
@@ -38,9 +38,9 @@ The Remote Hand Request form enables your customers to request services for equi
 
 3.  Select **Data Centre** tab under categories.
 
-4.  Select **[[remote-hands-request|Remote Hands Request]]**.
+4.  Select **Remote Hands Request**.
 
-5.  On the [[remote-hands-request-form|Remote Hands Request form]], fill in the fields.
+5.  On the Remote Hands Request form, fill in the fields.
 
     To learn about the fields in the Remote Hands Request form, see [Remote Hands Request form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remote-hands-request-form.md)
 
@@ -49,8 +49,3 @@ The Remote Hand Request form enables your customers to request services for equi
 
 **Parent Topic:**[Remote Hands Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remote-hands-request.md)
 
-## Related
-
-- [[remote-hands-request-management|Remote Hands Request Management]]
-- [[remote-hands-request|Remote Hands Request]]
-- [[remote-hands-request-form|Remote Hands Request form]]

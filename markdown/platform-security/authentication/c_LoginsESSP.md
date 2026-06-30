@@ -24,7 +24,7 @@ Example 1:
 2.  The system redirects the user to the login page.
 3.  Rather than logging in, the user tries to access another site, such as the Employee Self-Service \(/ess\) Portal.
 4.  The system redirects the user to the login page again.
-5.  The user [[logs|logs]] in and is redirected to the record that the user was first trying to access rather than the Employee Self-Service Portal.
+5.  The user logs in and is redirected to the record that the user was first trying to access rather than the Employee Self-Service Portal.
 
 Example 2:
 
@@ -34,6 +34,3 @@ Example 2:
 4.  The system redirects the user to the login page again.
 5.  The user logs in and is redirected to the first record rather than the second.
 
-## Related
-
-- [[logs|Logs]]

@@ -12,7 +12,7 @@ breadcrumb: [Percent complete field type, Reference, Field administration, Forms
 
 # Target threshold colors attribute
 
-If the **target\_field** attribute is configured, a second attribute called **target\_threshold\_colors** enables an administrator to define additional [[r_DirectJDBCProbeParameters|parameters]].
+If the **target\_field** attribute is configured, a second attribute called **target\_threshold\_colors** enables an administrator to define additional parameters.
 
 The parameters are:
 
@@ -67,6 +67,4 @@ If a target field is not specified, the target of 100 is assumed.
 
     \[Omitted image "PercentComplete4.png"\] Alt text: Feature task list with the % complete column color-coded based on comparison to the Target % complete column.
 
-## Related
 
-- [[r_DirectJDBCProbeParameters|Parameters]]

@@ -22,7 +22,7 @@ Role required: sn\_mh.manager\_hub\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     The Employee Center portal opens.
 
@@ -36,7 +36,7 @@ Role required: sn\_mh.manager\_hub\_user
 
     Get a breakdown of journeys by its type: Career growth or Onboarding.
 
-    **Note:** This widget appears only when you install the [[jny-dsgnr-landing-page-1|Journey Designer]] application.
+    **Note:** This widget appears only when you install the Journey Designer application.
 
 6.  In the **Understanding employee journeys** widget, click **Start a journey**.
 
@@ -44,7 +44,4 @@ Role required: sn\_mh.manager\_hub\_user
 
     **Note:** This widget appears only when you install the Journey Designer application.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

@@ -14,11 +14,11 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # Exploring CMDB success advisor
 
-Learn about [[cmdb-sa|CMDB success advisor]] and review the benefits it can provide for different users in your organization.
+Learn about CMDB success advisor and review the benefits it can provide for different users in your organization.
 
 ## CMDB success advisor overview
 
-With the CMDB success advisor application, you can review CMDB Data Manager policies and [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] settings to identify areas where improvements can be made in Data Foundations and the Hardware Asset Management \(HAM\) application. The advisor uses customized CMDB metrics to improve data quality for targeted configuration item \(CI\) classes, identifying and monitoring the CI classes most critical to your organizational processes to enable complete and accurate data in Data Foundations, and tracking hardware model categories for HAM.
+With the CMDB success advisor application, you can review CMDB Data Manager policies and Configuration Management Database \(CMDB\) settings to identify areas where improvements can be made in Data Foundations and the Hardware Asset Management \(HAM\) application. The advisor uses customized CMDB metrics to improve data quality for targeted configuration item \(CI\) classes, identifying and monitoring the CI classes most critical to your organizational processes to enable complete and accurate data in Data Foundations, and tracking hardware model categories for HAM.
 
 ## CMDB success advisor users
 
@@ -50,7 +50,7 @@ For Hardware Asset Management, administrators can focus on critical hardware mod
 
 -   **cmdb\_inst\_admin**
 
-Required to manage Service Graph Connector connections in [[sgcc-landing|SGC Central]] through CMDB success advisor.
+Required to manage Service Graph Connector connections in SGC Central through CMDB success advisor.
 
 -   **pd\_user**
 
@@ -67,7 +67,7 @@ CMDB user
 
 </td><td>
 
-Users with the sn\_cmdb\_user role can view CMDB success advisor dashboards in read-only mode from the [[sg-workspace-insights-view|Insights view in Service Graph Workspace]]. With Dashboard tab access only, CMDB users can monitor data quality metrics and remediation progress across principal classes and hardware model categories. The Settings and Integrations tabs aren't available to these users.
+Users with the sn\_cmdb\_user role can view CMDB success advisor dashboards in read-only mode from the Insights view in Service Graph Workspace. With Dashboard tab access only, CMDB users can monitor data quality metrics and remediation progress across principal classes and hardware model categories. The Settings and Integrations tabs aren't available to these users.
 
 For Data Foundations, CMDB users can view CI data quality metrics by principal CI class, including missing attributes, stale records, duplicate CIs, and discovery source breakdown.
 
@@ -174,7 +174,7 @@ Remediation actions panel available for a chart in the dashboardTo learn more, s
 
 </td></tr><tr><td>
 
-Better alignment of CMDB rules and policiesFor Data Foundations, align CMDB Data Manager ownership policies and [[r_ReconciliationRulesPrinciples|reconciliation rules]] for principal classes.
+Better alignment of CMDB rules and policiesFor Data Foundations, align CMDB Data Manager ownership policies and reconciliation rules for principal classes.
 
 For HAM, configure synchronization rules, asset creation rules, and status mappings.
 
@@ -210,17 +210,9 @@ You can use CMDB success advisor for the following business outcomes:
 
 ## What to explore next
 
-To learn more about configuring and using CMDB success advisor for [[cmdb-sa-outcomes|supported business outcomes]], see:
+To learn more about configuring and using CMDB success advisor for supported business outcomes, see:
 
 -   [Configuring CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-configuring.md)
 -   [Supported business outcomes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-outcomes.md)
 -   [CMDB success advisor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-reference.md)
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace-insights-view|Insights view in Service Graph Workspace]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[cmdb-sa-outcomes|Supported business outcomes]]

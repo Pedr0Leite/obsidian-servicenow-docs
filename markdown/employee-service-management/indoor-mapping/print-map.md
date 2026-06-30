@@ -21,7 +21,7 @@ Print a map by configuring relevant options and applying filters.
 You can print a map from one of the following applications.
 
 -   Location directory
--   [[workplace-central-feat|Workplace Central]]
+-   Workplace Central
     -   Building overview
 
 ## Before you begin
@@ -150,6 +150,3 @@ You can use your web browser to print the map or save it as a PDF.
 
 **Next topic:**[Create Snapshots to migrate Indoor Mapping data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/snapshot-ind-mapping.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

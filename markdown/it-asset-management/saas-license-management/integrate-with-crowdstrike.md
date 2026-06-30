@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with CrowdStrike
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the CrowdStrike enables you to view CrowdStrike active host sensors information and check license compliance.
+Integrating your Software Asset Management application with the CrowdStrike enables you to view CrowdStrike active host sensors information and check license compliance.
 
 **Note:** CrowdStrike currently doesn't support the APIs for integration in regulated environments, including US-GOV-1 \(GovCloud\) or US-GOV-2 CrowdStrike clouds.
 
@@ -24,7 +24,7 @@ Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application w
 |-------|-------------------------------------------------|---------------------|
 |Download consumption|Falcon administrator|Sensor usage scope with read permissions|
 
-This process is applicable for Zurich Patch 7, Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) 17.0.5, and Software Asset Management \(sn\_itam\_samp\) 4.1.0 version onwards.
+This process is applicable for Zurich Patch 7, Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) 17.0.5, and Software Asset Management \(sn\_itam\_samp\) 4.1.0 version onwards.
 
 ## Register a CrowdStrike OAuth application
 
@@ -78,7 +78,7 @@ ServiceNow Role required: sam\_admin or sam\_integrator
 
 ### About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the CrowdStrike integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the CrowdStrike integration profile in Core UI is inactive.
 
 **Note:** When upgrading to Yokohama patch 1 with Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) 15.0.8 and Software Asset Management \(sn\_itam\_samp\) 2.1.0 store applications installed, you must delete the entitlements for the existing CrowdStrike integration profiles. Then, create entitlements for various CrowdStrike products, such as Falcon Endpoint Protection and Falcon Discover, based on their license metrics. These metrics include Reserved Hourly Average Sensor and Sensor Subscription, which are found under the CrowdStrike license metric group.
 
@@ -112,7 +112,7 @@ Action
 
 </td></tr><tr><td id="d72267e508">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -248,7 +248,7 @@ OAuth Redirect URL
 
 9.  On the Integration Profile form, proceed with the Workload product mapping by selecting the **CrowdStrike Product Workload Mappings** tab.
 
-    **Note:** The software entitlements and [[c_CreatingSoftwareModels|software models]] must be created before proceeding to the next step.
+    **Note:** The software entitlements and software models must be created before proceeding to the next step.
 
     -   For more information on creating software entitlements in the Software Asset Management classic application, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/track-software-rights.md).
     -   For more information on creating software entitlements in the Software Asset Workspace, see [Create entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlements-workspace.md).
@@ -287,10 +287,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

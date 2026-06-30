@@ -113,7 +113,7 @@ Data is Archived
 
 </td></tr><tr><td>
 
-[[ai-models|AI Models]]
+AI Models
 
 </td><td>
 
@@ -285,7 +285,7 @@ external\_ref\_id
 Connection URL, model name, type version
 
 </td></tr></tbody>
-</table>## Target Tables for AI [[ai-prompts|prompts]]
+</table>## Target Tables for AI prompts
 
 cdmb\_ai\_prompt\_product\_model
 
@@ -493,8 +493,3 @@ runData.executions.length
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]

@@ -14,7 +14,7 @@ breadcrumb: [For projects, Setting improvement opportunities, Use, Process Minin
 
 # Edit improvement opportunities from Summary and insights page
 
-Edit improvement opportunities from the [[summary-insights-dashboard|Summary and insights page]] to [[improvement-opportunities|configure improvement opportunities]] for the project.
+Edit improvement opportunities from the Summary and insights page to configure improvement opportunities for the project.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  Select a project.
 
@@ -42,8 +42,3 @@ Role required:
 
 **Parent Topic:**[Setting improvement opportunity for projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-imp-opp.md)
 
-## Related
-
-- [[summary-insights-dashboard|Summary and insights page]]
-- [[improvement-opportunities|Configure improvement opportunities]]
-- [[analyst-workbench-overview|Process Mining workspace]]

@@ -20,8 +20,8 @@ Watch this four-minute video to learn about the portfolio structure, creating a 
 
 You must have the it\_portfolio\_manager [role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/roles-installed-with-PPS-finance.md) to manage a portfolio. The Portfolio Management application provides these capabilities to the portfolio manager:
 
--   [[t_CreateAPortfolio|Create a portfolio]] by adding related programs, projects, and demands.
--   Perform annual [[portfolio-planning-app-landing-page|portfolio planning]] by selecting demands, projects, and programs.
+-   Create a portfolio by adding related programs, projects, and demands.
+-   Perform annual portfolio planning by selecting demands, projects, and programs.
 -   Track the progress and status of all the programs, projects, and demands that are part of the portfolio. You can track the costs, resources, schedules, risks, and issues.
 
 The following diagram provides an overview of Portfolio Management.
@@ -37,15 +37,9 @@ Create a portfolio to manage related programs, projects, and demands.
 -   **[Open a portfolio status list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/t_OpenThePortfolioStatusList.md)**  
 Open the status list of a portfolio to see the projects that are included in it.
 -   **[Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md)**  
-The [[portfolio-planning-overview|Scenario Planning for PPM]] application provides a central location for portfolio managers to create and track the roadmap for project execution for a given fiscal year. Optimize your budget and resource usage by creating and comparing different scenarios for your project and demand roadmap or resources.
+The Scenario Planning for PPM application provides a central location for portfolio managers to create and track the roadmap for project execution for a given fiscal year. Optimize your budget and resource usage by creating and comparing different scenarios for your project and demand roadmap or resources.
 -   **[Portfolio Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/c_PortfolioManagerDashboard.md)**  
-[[c_PortfolioManagerDashboard|Portfolio Dashboard]] provides a central location to a portfolio manager to generate different graphical reports of the portfolios.
+Portfolio Dashboard provides a central location to a portfolio manager to generate different graphical reports of the portfolios.
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[t_CreateAPortfolio|Create a portfolio]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[portfolio-planning-overview|Scenario Planning for PPM]]
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]

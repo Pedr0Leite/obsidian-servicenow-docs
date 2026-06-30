@@ -33,7 +33,7 @@ By default, the following roles can’t be delegated.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Roles**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Roles**.
 
 2.  Open the role.
 
@@ -46,6 +46,3 @@ By default, the following roles can’t be delegated.
 
 **Parent Topic:**[Delegating roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_DelegateRoles.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

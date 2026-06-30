@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Approve demands
 
-Review and [[approve-demands-ppw|approve demands]] in Next Experience for [[c_DemandManagement|Demand Management]] to move them forward in the demand life cycle.
+Review and approve demands in Next Experience for Demand Management to move them forward in the demand life cycle.
 
 ## Before you begin
 
@@ -34,7 +34,4 @@ Role required: demand\_approver, it\_demand\_manager
 
     **Note:** The **Approve** option is available only when a demand is in the Qualified state.
 
-## Related
 
-- [[approve-demands-ppw|Approve demands]]
-- [[c_DemandManagement|Demand Management]]

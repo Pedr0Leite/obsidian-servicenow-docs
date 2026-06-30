@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Mappedin is integrated with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] depending on the release version:
+Mappedin is integrated with Workplace Service Delivery depending on the release version:
 
 -   For the Rome and later releases, install the Workplace Service Delivery with Mappedin \(sn\_wsd\_mappedin\) plugin and the Mappedin plugin from store.
 
@@ -28,7 +28,7 @@ Mappedin is integrated with [[workplace-service-delivery-suite-landing-page|Work
 
     -   ServiceNow IntegrationHub Runtime \(com.glide.hub.integration.runtime\)
     -   ServiceNow IntegrationHub Action Step - REST \(com.glide.hub.action\_step.rest\)
-    After these plugins are activated, activate [[wsm-mappedin-admin|Workplace Space Mapping]] \(sn\_wsd\_space\_map\).
+    After these plugins are activated, activate Workplace Space Mapping \(sn\_wsd\_space\_map\).
 
 
 ## Procedure
@@ -46,10 +46,5 @@ Mappedin is integrated with [[workplace-service-delivery-suite-landing-page|Work
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[mappedin-integration-topics|Configure Mappedin]]
+**Parent Topic:**[Configure Mappedin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/mappedin-integration-topics.md)
 
-## Related
-
-- [[mappedin-integration-topics|Configure Mappedin]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]

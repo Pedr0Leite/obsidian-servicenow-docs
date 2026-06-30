@@ -12,7 +12,7 @@ breadcrumb: [Use Task Intelligence, Automate and optimize, Use, Customer Service
 
 # View prediction on field change
 
-Agents can use Task [[intelligence-csm|Intelligence]] to predict values for configured fields before a case is created and after a case is created.
+Agents can use Task Intelligence to predict values for configured fields before a case is created and after a case is created.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ When you create a case or after a case is created, the Task Intelligence feature
 
 2.  Enter information in the **Short description** or **description** field and then tab to the next field.
 
-    Based on this information, the system predicts the values for configured fields without saving the [[r_CustomerServiceCaseForm|case form]].
+    Based on this information, the system predicts the values for configured fields without saving the case form.
 
     **Note:** If the system cannot predict values based on the short description, these fields remain blank.
 
@@ -45,7 +45,4 @@ When you create a case or after a case is created, the Task Intelligence feature
 
     The data is saved in the record and persisted in the predictions table. A message is displayed to the agent indicating that the fields may have been modified, prompting them to save the revised predictions.
 
-## Related
 
-- [[intelligence-csm|Intelligence]]
-- [[r_CustomerServiceCaseForm|Case form]]

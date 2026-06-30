@@ -14,7 +14,7 @@ breadcrumb: [Configure, Agent Chat, Conversational Interfaces]
 
 # Configuring Profanity Filter
 
-Configure the Profanity Filter for [[ci-use-agent-chat|Agent Chat]] to detect flagged words in the manner that best suits your company's needs.
+Configure the Profanity Filter for Agent Chat to detect flagged words in the manner that best suits your company's needs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, virtual\_agent\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **Chat Settings** &gt; **Agent Chat**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Chat Settings** &gt; **Agent Chat**.
 
 2.  On the Chat settings card, select **View settings** next to Profanity detection.
 
@@ -217,7 +217,3 @@ Name of the user who most recently updated the message.
 </table>
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]
-- [[convint-landing-page|Conversational Interfaces]]

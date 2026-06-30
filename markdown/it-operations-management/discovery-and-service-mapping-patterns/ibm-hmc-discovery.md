@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # IBM Virtualization and Hardware Management Console discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the IBM HMC Server pattern to find information about Hardware Management Console \(HMC\), frame, and logical partition \(LPAR\) servers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the IBM HMC Server pattern to find information about Hardware Management Console \(HMC\), frame, and logical partition \(LPAR\) servers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery supports the following configuration items \(CIs\):
 
@@ -47,7 +47,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
         -   `lssysconn -r all -F type_model_serial_num:ipaddr`
     -   Verify you have permissions for the following AIX \(LPAR\) command: `lparstat -i`.
 
-        **Note:** The `lparstat -i` command is in addition to the commands required for [[r_DataCollDiscoAIXComputers|AIX server discovery]]. For more information on AIX server discovery, see [AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user]().
+        **Note:** The `lparstat -i` command is in addition to the commands required for AIX server discovery. For more information on AIX server discovery, see [AIX server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoAIXComputers.md). For a list of the AIX commands, see [Service Mapping commands requiring a privileged user]().
 
 -   **Configure SSH credentials**
 
@@ -326,8 +326,3 @@ Discovery creates these relationships to support the IBM Virtualization and HMC 
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_DataCollDiscoAIXComputers|AIX server discovery]]

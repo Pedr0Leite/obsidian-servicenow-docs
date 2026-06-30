@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration- Publish to Watchlist capability, I
 
 # Security Operations Integration - Publish to Watchlist Flow
 
-The **[[security-operations-landing-page|Security Operations]] Integrations - Publish to Watchlist** flow is a high-level flow independent of integrations. It adds [[c_Observables|observables]] to third-party watchlist that support the capability. Use it to fulfill an integration.
+The **Security Operations Integrations - Publish to Watchlist** flow is a high-level flow independent of integrations. It adds observables to third-party watchlist that support the capability. Use it to fulfill an integration.
 
 ## Before you begin
 
@@ -20,18 +20,11 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-This flow is visible and runs only when an integration is available. It is triggered from the **Observables** or **Associated [[indicator|Indicators]]** tab on a security incident.
+This flow is visible and runs only when an integration is available. It is triggered from the **Observables** or **Associated Indicators** tab on a security incident.
 
 \[Omitted image "publish-to-watchlist.png"\] Alt text: Security Operations Integration - Publish to Watchlist capability flow
 
-Activities specific to this flow are described here. For more information on other activities, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
-**Parent Topic:**[[pubish-to-watchlist-capability|Security Operations Integration- Publish to Watchlist capability]]
+**Parent Topic:**[Security Operations Integration- Publish to Watchlist capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/pubish-to-watchlist-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[pubish-to-watchlist-capability|Security Operations Integration- Publish to Watchlist capability]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

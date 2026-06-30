@@ -18,7 +18,7 @@ If you have the admin role, you can configure Disputes intake via Virtual Agent 
 
 ## Before you begin
 
-Confirm that [[card-ops-landing-page|Financial Services Card Operations]] \(sn\_bom\_credit\_card\) is installed on your instance.
+Confirm that Financial Services Card Operations \(sn\_bom\_credit\_card\) is installed on your instance.
 
 Role required: admin
 
@@ -32,7 +32,7 @@ Now LLM Service is currently the only provider for this Now Assist application's
 
 ## Procedure
 
-1.  Install the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] plugin \(sn\_fso\_gen\_ai\).
+1.  Install the Now Assist for Financial Services Operations \(FSO\) plugin \(sn\_fso\_gen\_ai\).
 
     -   For information about the plugin dependencies and plugin activation order, see [Application information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/supporting-information-for-now-assist-for-financial-services-operations-fso.md).
     -   For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
@@ -62,7 +62,3 @@ Review and modify the Virtual Agent topic in Disputes intake via Virtual Agent. 
 
 **Parent Topic:**[Configure Financial Services Operations Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-fso-now-assist-skills.md)
 
-## Related
-
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]

@@ -24,7 +24,7 @@ Define each transformation entry to apply either when there is a match to the se
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Utilities** &gt; **Field Value Transforms**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Utilities** &gt; **Field Value Transforms**.
 
 2.  Click **New**.
 
@@ -92,9 +92,5 @@ Scope of the application.
 </table>4.  Click **Submit.**
 
 
-**Parent Topic:**[[field-value-transforms|Security Operations field value transforms]]
+**Parent Topic:**[Security Operations field value transforms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/field-value-transforms.md)
 
-## Related
-
-- [[field-value-transforms|Security Operations field value transforms]]
-- [[security-operations-landing-page|Security Operations]]

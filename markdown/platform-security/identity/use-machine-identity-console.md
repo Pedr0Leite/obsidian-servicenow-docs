@@ -14,13 +14,13 @@ breadcrumb: [Machine Identity Console, Identity]
 
 # Using Machine Identity Console
 
-Manage your service accounts which are used for integrations with ServiceNow using the [[machine-identity-console|Machine Identity Console]].
+Manage your service accounts which are used for integrations with ServiceNow using the Machine Identity Console.
 
 ## Before you begin
 
 Role required: admin
 
-Activate the **Machine [[identity-landing|Identity]] Management** `com.glide.identity.machine_identity_management` plugin. For more information, see [Activating Machine Identity Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/activate-machine-identity-console.md).
+Activate the **Machine Identity Management** `com.glide.identity.machine_identity_management` plugin. For more information, see [Activating Machine Identity Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/activate-machine-identity-console.md).
 
 ## Procedure
 
@@ -28,17 +28,11 @@ Activate the **Machine [[identity-landing|Identity]] Management** `com.glide.ide
 
     The Machine Identity Console has the following tabs:
 
-    -   Overview: Displays the overall machine identity accounts and their [[ca-metrics|metrics]]
-    -   [Inbound integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/inbound-integrations.md): Configure [[inbound-integrations|Inbound integrations]] for the APIs.
-    -   [Security findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/security-score.md): Displays the security score is based on different [[security-score|security findings]].
+    -   Overview: Displays the overall machine identity accounts and their metrics
+    -   [Inbound integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/inbound-integrations.md): Configure Inbound integrations for the APIs.
+    -   [Security findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/security-score.md): Displays the security score is based on different security findings.
     -   [Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/machine-identity-metrics.md): Displays the different metrics for the machine identity accounts
     -   [Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/machine-identity-console-settings.md): Configure the machine identity console.
 2.  Select the appropriate tabs based on your security requirements.
 
-## Related
 
-- [[machine-identity-console|Machine Identity Console]]
-- [[identity-landing|Identity]]
-- [[ca-metrics|Metrics]]
-- [[inbound-integrations|Inbound integrations]]
-- [[security-score|Security findings]]

@@ -14,11 +14,11 @@ breadcrumb: [Incident categories and subcategories, Configure, Operational Techn
 
 # Delete a category or subcategory
 
-Delete an [[operational-technology-overview|Operational Technology]] incident category or subcategory if your organization no longer uses that category or subcategory.
+Delete an Operational Technology incident category or subcategory if your organization no longer uses that category or subcategory.
 
 ## Before you begin
 
--   Set the application scope to **[[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]**.
+-   Set the application scope to **Operational Technology Incident Management**.
 -   Role required: admin or sn\_ot\_incident\_admin
 
 ## Procedure
@@ -38,7 +38,3 @@ The deleted category or subcategory is no longer available on an Operational Tec
 
 **Parent Topic:**[Incident categories and subcategories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/ot-incident-categories-subcategories.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

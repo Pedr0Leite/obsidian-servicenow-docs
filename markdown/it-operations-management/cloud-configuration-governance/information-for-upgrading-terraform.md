@@ -36,7 +36,7 @@ Upgrade the existing Terraform Open Source installation to a newer supported ver
 
  Perform the following actions to upgrade the existing Terraform Open Source installation:
 
-1.  Upgrade the Terraform Open Source server to a version that is supported by the [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]].
+1.  Upgrade the Terraform Open Source server to a version that is supported by the Cloud Services Catalog Terraform Connector.
 
 For more information on upgrading Terraform, see Upgrade Guides in [Terraform documentation](https://www.terraform.io/docs).
 
@@ -62,7 +62,7 @@ Cloud Services Catalog Terraform Connector supports Terraform Open Source versio
 **Note:** Ensure that all the templates are stored in separate directories and all the template directories are in the same base directory.
 
 4.  Test and modify the copied Terraform templates to ensure compatibility with the target Terraform Open Source version.
-5.  [[setup-cpg-terraform-connector-for-terraform-open-source|Create a Terraform Open Source config provider]]. For more information, see [Create a Terraform Open Source config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-open-source.md).
+5.  Create a Terraform Open Source config provider. For more information, see [Create a Terraform Open Source config provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/setup-cpg-terraform-connector-for-terraform-open-source.md).
 6.  Remove the old catalog items per the business strategy of your organization, and then retire the old Terraform server.
 
 
@@ -73,7 +73,4 @@ Cloud Services Catalog Terraform Connector supports Terraform Open Source versio
 
     **Note:** The stacks and Terraform workspaces are tied to the Terraform version through which they were provisioned. Therefore, the same Terraform version is used to provision and deprovision a stack or Terraform workspace.
 
-## Related
 
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[setup-cpg-terraform-connector-for-terraform-open-source|Create a Terraform Open Source config provider]]

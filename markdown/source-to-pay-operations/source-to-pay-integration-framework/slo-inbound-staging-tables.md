@@ -14,14 +14,14 @@ breadcrumb: [Inbound staging tables, Source-to-Pay integration framework, Integr
 
 # Inbound staging tables for Supplier Lifecycle Operations
 
-The inbound staging tables for Supplier Lifecycle Operations temporarily store [[supplier|supplier]] data before it is sent to the SLO primary data tables.
+The inbound staging tables for Supplier Lifecycle Operations temporarily store supplier data before it is sent to the SLO primary data tables.
 
 -   **[Supplier Contact inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-contact-inbound-table.md)**  
-The [[supplier-contact|Supplier contact]] inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound\] staging table temporarily stores important data about a supplier contact before this data is sent to the Supplier Contact \[vm\_vdr\_contact\] primary table.
+The Supplier contact inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound\] staging table temporarily stores important data about a supplier contact before this data is sent to the Supplier Contact \[vm\_vdr\_contact\] primary table.
 -   **[Supplier inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supplier-inbound-table.md)**  
 The Supplier inbound \[sn\_fcms\_intg\_imp\_supplier\] staging table temporarily stores important data about the supplier before this data is sent to the Supplier \[sn\_fin\_supplier\] primary table.
 -   **[Supplier Legal Entity mapping inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-legal-entity-inbound-table.md)**  
-The [[supplier-legal-entity-mapping|Supplier legal entity mapping]] inbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_inbound\] staging table temporarily stores important data about the legal entities of a supplier before this data is sent to the Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) primary table.
+The Supplier legal entity mapping inbound \[sn\_fcms\_intg\_supplier\_legal\_entity\_inbound\] staging table temporarily stores important data about the legal entities of a supplier before this data is sent to the Supplier Legal Entity Mapping \(sn\_fin\_supplier\_detail\) primary table.
 -   **[Supplier Location inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-location-inbound-table.md)**  
 The Supplier location inbound \[sn\_fcms\_intg\_supplier\_location\_inbound\] staging table temporarily stores important data about the geographical location of a supplier before this data is sent to the Supplier Location \[sn\_slm\_m2m\_location\] and Location \[cmn\_location\] primary tables.
 -   **[Supplier Payment inbound staging table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/slo-supp-payment-inbound-table.md)**  
@@ -36,8 +36,3 @@ The Supplier payment inbound \[sn\_fcms\_intg\_supplier\_payment\_inbound\_stage
 
 [Inbound staging tables for Accounts Payable Operations]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]

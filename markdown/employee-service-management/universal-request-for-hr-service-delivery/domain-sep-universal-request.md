@@ -14,7 +14,7 @@ breadcrumb: [Setting up and configuring Universal Request, Universal Request, Em
 
 # Domain separation and Universal Request
 
-Domain separation is supported for ServiceNow [[ur-landing-limitedaccess|Universal Request]]. Universal Request helps Help Desk agents to resolve cases across the enterprise for a better employee experience. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for ServiceNow Universal Request. Universal Request helps Help Desk agents to resolve cases across the enterprise for a better employee experience. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -54,6 +54,3 @@ Data tables \(data separated\): universal\_request.
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

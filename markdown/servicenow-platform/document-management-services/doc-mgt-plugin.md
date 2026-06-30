@@ -18,20 +18,16 @@ With the ServiceNow® Document Management plugin \(**com.snc.platform\_document\
 
 ## Overview
 
-There are [[document-management-roles|Document Management roles]] the system admin can assign to maintain the lifecycle of documents. The system admin installs the plugin and then assigns one or more of these roles to users.
+There are Document Management roles the system admin can assign to maintain the lifecycle of documents. The system admin installs the plugin and then assigns one or more of these roles to users.
 
 The system admin installs the Document Management plugin \(**com.snc.platform\_document\_management**\).
 
 The application contains four modules:
 
 -   Documents
--   [[reference-document-management|References]]
+-   References
 -   Lists
 -   List Entries
 
 **Parent Topic:**[Exploring Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/explore-doc-management.md)
 
-## Related
-
-- [[document-management-roles|Document Management roles]]
-- [[reference-document-management|References]]

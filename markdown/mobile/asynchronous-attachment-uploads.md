@@ -118,8 +118,5 @@ Mobile application to send the mobile property to. This setting limits the mobil
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[mobile-properties|Mobile properties]]
+**Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[mobile-properties|Mobile properties]]

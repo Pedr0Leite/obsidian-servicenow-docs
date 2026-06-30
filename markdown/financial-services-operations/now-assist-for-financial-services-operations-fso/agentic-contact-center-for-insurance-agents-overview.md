@@ -15,7 +15,7 @@ breadcrumb: [AI agents in FSO, Use agentic AI, Now Assist for FSO, Financial Ser
 
 # Agentic Contact Center for Insurance AI agents overview
 
-[[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] uses AI agents to enhance customer service by providing insurance customer service representatives with intelligent assistance during interactions. The two key agents—Insurance CSR Customer Insights and Insurance CSR Support—help reduce handling time, enable proactive outreach, and deliver personalized customer experiences through AI-driven analysis and contextual insurance data.
+Agentic Contact Center for Insurance uses AI agents to enhance customer service by providing insurance customer service representatives with intelligent assistance during interactions. The two key agents—Insurance CSR Customer Insights and Insurance CSR Support—help reduce handling time, enable proactive outreach, and deliver personalized customer experiences through AI-driven analysis and contextual insurance data.
 
 ## Benefits
 
@@ -59,6 +59,3 @@ Use the Insurance CSR customer insights AI agent in the Customer 360 page to qui
 
 [Supporting information for Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/supporting-information-for-now-assist-for-financial-services-operations-fso.md)
 
-## Related
-
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]

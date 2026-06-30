@@ -216,7 +216,7 @@ Amount of time to keep unused software before it’s reclaimed.-   One Month Ago
 
     Additionally, when a product is added to the related list, the product process related list appears as well as any product processes \(if already present in the system\) for the parent and suite products.
 
-6.  If a product process doesn’t exist for the software product, you can [[add-custom-hardware-model|add a custom product]] process.
+6.  If a product process doesn’t exist for the software product, you can add a custom product process.
 
     1.  Select **New** in the Product Process related list.
 
@@ -250,6 +250,4 @@ Amount of time to keep unused software before it’s reclaimed.-   One Month Ago
 
     4.  Select **Save**.
 
-## Related
 
-- [[add-custom-hardware-model|Add a custom product]]

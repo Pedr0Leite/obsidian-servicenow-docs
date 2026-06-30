@@ -42,7 +42,7 @@ List of all your skills and strengths as a mentor.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[mentoring-egd-overview|Mentoring]] focus areas
+Mentoring focus areas
 
 </td></tr><tr><td>
 
@@ -123,7 +123,3 @@ Option to select either 1 or 2 mentees.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mentoring-egd-overview|Mentoring]]

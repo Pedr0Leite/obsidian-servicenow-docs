@@ -22,7 +22,7 @@ Role required: sn\_risk.admin
 
 ## About this task
 
-Configure the criteria for an inherent risk assessment by adding the [[factors|factors]], scoring logic, and rating criteria to the [[inherent-assessment-form|Inherent Assessment form]]. Each [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] has its own inherent assessment criteria. For example, you can assess the inherent risk for such factors as the financial impact, regulatory impact, and client impact. To get the inherent assessment score, the impact of these factors is multiplied by the likelihood that a risk would occur.
+Configure the criteria for an inherent risk assessment by adding the factors, scoring logic, and rating criteria to the Inherent Assessment form. Each risk assessment methodology \(RAM\) has its own inherent assessment criteria. For example, you can assess the inherent risk for such factors as the financial impact, regulatory impact, and client impact. To get the inherent assessment score, the impact of these factors is multiplied by the likelihood that a risk would occur.
 
 ## Procedure
 
@@ -92,7 +92,7 @@ Risk appetite scale
 
 </td><td>
 
-Risk appetite scale for the risk rating criteria. The appetite scales must be mapped to the qualitative risk rating criteria in the risk assessment methodology. You can compute the qualitative appetite status that is based on the latest assessment or aggregated rating to provide the qualitative appetite status. For example, you can select a risk appetite scale of **Hungry** for the risk rating of **Very High**. This field appears only when the risk appetite feature is configured in the [[advanced-risk-assessment|advanced risk assessment]] properties. **Important:** In a qualitative risk assessment, map the risk appetite scale to the risk rating criteria for the final assessment type. For example, if you have both residual and inherent assessments, map the risk appetite scale to the risk rating criteria in the residual assessment.
+Risk appetite scale for the risk rating criteria. The appetite scales must be mapped to the qualitative risk rating criteria in the risk assessment methodology. You can compute the qualitative appetite status that is based on the latest assessment or aggregated rating to provide the qualitative appetite status. For example, you can select a risk appetite scale of **Hungry** for the risk rating of **Very High**. This field appears only when the risk appetite feature is configured in the advanced risk assessment properties. **Important:** In a qualitative risk assessment, map the risk appetite scale to the risk rating criteria for the final assessment type. For example, if you have both residual and inherent assessments, map the risk appetite scale to the risk rating criteria in the residual assessment.
 
 </td></tr></tbody>
 </table>    **Note:** Don’t enter negative values in the Qualitative Rating Criteria form.
@@ -140,9 +140,3 @@ Use the Inherent Assessment form in the Advanced Risk application to assess the 
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[inherent-assessment-form|inherent assessment form]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[advanced-risk-assessment|advanced risk assessment]]

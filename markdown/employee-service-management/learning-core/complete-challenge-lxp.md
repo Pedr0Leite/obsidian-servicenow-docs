@@ -22,9 +22,9 @@ Role required: no role required
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
-2.  On the [[exploring-learning-exp|learning]] challenge widget, click the context \[Omitted image "icon-menu.png"\] Alt text: context icon icon.
+2.  On the learning challenge widget, click the context \[Omitted image "icon-menu.png"\] Alt text: context icon icon.
 
     **Note:** You might see different labels on the widget depending on your current status on the challenge. If you have started the challenge, you will see Your current challenge.
 
@@ -35,13 +35,7 @@ Role required: no role required
 
 ## Result
 
-The current challenge will be completed, but you can always revisit it under the **[[activity-lxp|Activity]]** tab.
+The current challenge will be completed, but you can always revisit it under the **Activity** tab.
 
 **Parent Topic:**[Create a Learning challenge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-challenge.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]

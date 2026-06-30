@@ -41,17 +41,12 @@ Use Workflow Studio to define which product, service, or resource specification 
 
 ## What to do next
 
-After [[configuring-jeopardy-management|configuring Jeopardy Management]], see [[monitoring-jeopardy-management|Monitoring order jeopardy]] to review different ways to monitor Jeopardy Management.
+After configuring Jeopardy Management, see [Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md) to review different ways to monitor Jeopardy Management.
 
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
 [Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[configuring-jeopardy-management|Configuring Jeopardy Management]]

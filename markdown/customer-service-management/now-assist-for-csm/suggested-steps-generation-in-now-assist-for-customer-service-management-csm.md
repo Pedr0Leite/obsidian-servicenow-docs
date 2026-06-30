@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Suggested steps generation in Now Assist for Customer Service Management \(CSM\)
 
-Generate suggested steps automatically by analyzing clusters of closed cases with similar case resolution in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Generate suggested steps automatically by analyzing clusters of closed cases with similar case resolution in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_customerservice\_agent and sn\_customerservice.consumer\_agen
 
 The system uses data from the **Short description** field and the filter conditions set in the case input table to generate the suggested actions based on similar past resolved cases. These steps outline the next best actions that agents can take as part of resolving cases.
 
-If suggested steps are available for a case, Now Assist for CSM generates and displays these steps in a card at the top of the [[configure-nba|Recommended Actions]] tab in the contextual side panel.
+If suggested steps are available for a case, Now Assist for CSM generates and displays these steps in a card at the top of the Recommended Actions tab in the contextual side panel.
 
 ## Procedure
 
@@ -56,7 +56,3 @@ If suggested steps are available for a case, Now Assist for CSM generates and di
 
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[configure-nba|Recommended Actions]]

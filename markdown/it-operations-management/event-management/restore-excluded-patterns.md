@@ -14,7 +14,7 @@ breadcrumb: [Automated alert grouping, Alert grouping types and creation methods
 
 # Restore excluded patterns
 
-Restoring excluded patterns to the [[c_SALearnedPattersReport|learned patterns report]] lets you reintegrate valuable insights lost due to incorrect alerts. This flexibility maintains accurate alert aggregation and enhances monitoring. For example, if you excluded a pattern due to an incorrect alert, you can restore it without that alert, ensuring relevant data remains accessible for analysis and decision-making.
+Restoring excluded patterns to the learned patterns report lets you reintegrate valuable insights lost due to incorrect alerts. This flexibility maintains accurate alert aggregation and enhances monitoring. For example, if you excluded a pattern due to an incorrect alert, you can restore it without that alert, ensuring relevant data remains accessible for analysis and decision-making.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Excluded patterns**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Excluded patterns**.
 
     \[Omitted image "em-restore-pattern-nav.png"\] Alt text: Restore pattern navigation
 
@@ -55,7 +55,3 @@ Role required: evt\_mgmt\_admin
 
 The pattern appears with its restored alerts on the Learned Patterns report page. To access this page, navigate to **Event Management** &gt; **Reporting** &gt; **Learned Patterns**.
 
-## Related
-
-- [[c_SALearnedPattersReport|Learned patterns report]]
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Domain separation and Enterprise Asset Management
 
-Domain separation is supported in [[enterprise-asset-management|Enterprise Asset Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Enterprise Asset Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -48,7 +48,7 @@ The [Recommended practice](https://raw.githubusercontent.com/ServiceNow/ServiceN
 ## Other supported plugins
 
 -   Service Catalog – Domain Separation \(com.glideapp.servicecatalog.domain\_separation\)
--   [[c_Procurement|Procurement]] \(com.snc.procurement\)
+-   Procurement \(com.snc.procurement\)
 
 To learn more, see [Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md), [Contains queries and domain access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-contains-domain-visibility.md), and [Importance of Default domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-default-domain.md).
 
@@ -67,7 +67,7 @@ To learn more, see [Domain separation explained](https://raw.githubusercontent.c
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -99,8 +99,3 @@ To learn more, see [Domain separation explained](https://raw.githubusercontent.c
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[model-hierarchy|Model categories]]

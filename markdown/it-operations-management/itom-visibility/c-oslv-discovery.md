@@ -14,11 +14,11 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Operating system-level virtualization discovery
 
-[[r-discovery|Discovery]] can collect image and container information from Operating system-level virtualization \(OS-level virtualization\) engines.
+Discovery can collect image and container information from Operating system-level virtualization \(OS-level virtualization\) engines.
 
 Discovery can determine container status and size and identify images and their tags provided by operating-system-level virtualization.
 
-**Note:** Currently, the ServiceNow® platform supports the discovery of [[c-docker-virtualization|Docker virtualization]] containers only.
+**Note:** Currently, the ServiceNow® platform supports the discovery of Docker virtualization containers only.
 
 ## Table schema
 
@@ -94,7 +94,3 @@ Discovery uses the **Docker Pattern** to collect data about specific objects in 
 
 **Parent Topic:**[Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-by-itom-visibility.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c-docker-virtualization|Docker virtualization]]

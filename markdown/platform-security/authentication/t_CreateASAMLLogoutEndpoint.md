@@ -28,7 +28,7 @@ See [this article on ADFS signout](https://social.technet.microsoft.com/Forums/w
 
 1.  Go to **ADFS manager** &gt; **Trust Relationships** &gt; **Relying Party Trusts** &gt; **properties**.
 
-2.  Under the Endpoints tab, click **Add [[c_SAML2.0WebBrowserSSOProfile|SAML]]**.
+2.  Under the Endpoints tab, click **Add SAML**.
 
 3.  Configure the settings:
 
@@ -46,6 +46,4 @@ See [this article on ADFS signout](https://social.technet.microsoft.com/Forums/w
         https://{instancename}.service-now.com/external_logout_complete.do
         ```
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

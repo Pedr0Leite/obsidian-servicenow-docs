@@ -18,8 +18,8 @@ Granular admin roles enable organizations to assign specific administrative perm
 
 |Role name|Functionality|Description|
 |---------|-------------|-----------|
-|document\_admin|PDF generation, document conversion and [[Documentviewer|document viewer]] OOB plugins|Provides access for managing system properties, security ACLs, and security ACL roles|
-|platform\_document\_management\_admin|Documents, [[reference-document-management|references]], versions, lists and list entry tables|Provides access to perform Create, Read, Update and Delete operations|
+|document\_admin|PDF generation, document conversion and document viewer OOB plugins|Provides access for managing system properties, security ACLs, and security ACL roles|
+|platform\_document\_management\_admin|Documents, references, versions, lists and list entry tables|Provides access to perform Create, Read, Update and Delete operations|
 
 **Parent Topic:**[References](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-document-management.md)
 
@@ -32,7 +32,3 @@ Granular admin roles enable organizations to assign specific administrative perm
 
 [Domain separation and Document Management]()
 
-## Related
-
-- [[Documentviewer|Document Viewer]]
-- [[reference-document-management|References]]

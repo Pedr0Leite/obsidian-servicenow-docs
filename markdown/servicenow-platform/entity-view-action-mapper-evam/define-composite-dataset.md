@@ -14,7 +14,7 @@ breadcrumb: [Managing Entity View Action Mapper, Entity view action mapper, Mana
 
 # Create an EVAM definition
 
-Define the list of data sources to render. The [[entity-view-action-mapper|Entity View Action Mapper]] \(EVAM\) definition is the main record for an EVAM configuration.
+Define the list of data sources to render. The Entity View Action Mapper \(EVAM\) definition is the main record for an EVAM configuration.
 
 ## Before you begin
 
@@ -105,6 +105,4 @@ You can remove the selected configuration bundle from your EVAM definition.
 
 8.  Select **Submit**.
 
-## Related
 
-- [[entity-view-action-mapper|Entity view action mapper]]

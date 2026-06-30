@@ -14,7 +14,7 @@ breadcrumb: [Create form configuration record, Configure external-facing PDR for
 
 # External-facing form configuration fields
 
-An external facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form configuration record holds the form-wide content that the requester sees across regions.
+An external facing Personal Data Rights \(PDR\) form configuration record holds the form-wide content that the requester sees across regions.
 
 |Field|Description|
 |-----|-----------|
@@ -29,6 +29,3 @@ An external facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form co
 
 **Parent Topic:**[Create a PDR external-facing form configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/config-pdr-ext-form-record.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

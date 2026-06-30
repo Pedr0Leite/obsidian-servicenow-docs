@@ -16,7 +16,7 @@ breadcrumb: [Cloud Provisioning and Governance, ITOM Cloud Accelerate, IT Operat
 
 To set up Google Cloud for the first time, follow the steps in this Day 1 setup guide in the order they are presented. After completing the Day 1 setup, you can proceed with the optional Day 2 configuration steps as needed, in any order. Detailed instructions for each step are provided in the sections below.
 
-**Note:** The ServiceNow® [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]: Google Cloud Connector is no longer deployed, enhanced, or supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
+**Note:** The ServiceNow® Cloud Provisioning and Governance: Google Cloud Connector is no longer deployed, enhanced, or supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
 ## Roles required to set up Google Cloud Platform
 
@@ -31,12 +31,12 @@ Cloud providers often use different names for accounts, regions, and credential 
 
 Your Day 1 setup process includes these tasks:
 
--   If needed: [[request-plugin-cloud-mgt|Request the Cloud Provisioning and Governance application]].
+-   If needed: Request the Cloud Provisioning and Governance application.
 -   [Download the Connector app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) and supporting store apps on the ServiceNow Store and [activate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md) the store applications.
 -   Assign appropriate roles to cloud admins and end users.
--   On the provider portal, collect your account settings and the credentials that the [[r-discovery|Discovery]] process will use \(through a MID Server\) to programmatically access your provider accounts. Securely associate the account settings and credentials with a service account in Cloud Provisioning.
+-   On the provider portal, collect your account settings and the credentials that the Discovery process will use \(through a MID Server\) to programmatically access your provider accounts. Securely associate the account settings and credentials with a service account in Cloud Provisioning.
 -   Set up the MID Servers that will handle secure communications with the provider API endpoints.
--   Set up a cloud account to represent your entire managed cloud infrastructure and set up a service account that works with one of your provider accounts. You specify which datacenters in the service account should be included in the cloud account. \(Later, on "Day 2", you can set up additional [[cloud-accounts|cloud accounts]] and service accounts from the same or other providers.\)
+-   Set up a cloud account to represent your entire managed cloud infrastructure and set up a service account that works with one of your provider accounts. You specify which datacenters in the service account should be included in the cloud account. \(Later, on "Day 2", you can set up additional cloud accounts and service accounts from the same or other providers.\)
 -   To populate the CMDB with resource data for all datacenters, you manually run the Discovery process on each datacenter in the service account. Then, to ensure that the data continues to be updated, you configure Discovery to run on a regular schedule. Your cloud account might look like this:
 
     \[Omitted image "cloud-acct-day-1.png"\] Alt text: Structure of a cloud account on Day 1
@@ -48,21 +48,21 @@ Your Day 1 setup process includes these tasks:
 Detailed instructions for each procedure follow this overview.
 
 1.  Get the CSC Terraform Connector app on the ServiceNow Store
-2.  [[gcp-assign-roles-cloud-mgt|Assign roles to Google Cloud Platform users]]
+2.  Assign roles to Google Cloud Platform users
 
     You assign Cloud Provisioning and Governance roles to user groups and to individual users based on user activities and responsibilities.
 
-3.  [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
+3.  [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md)
 
     To ensure secure and reliable communications, the Discovery process communicates with your cloud provider accounts and cloud resources through one or more MID Servers. You can set up the MID Servers on your network or in one of your cloud networks.
 
     **Note:** Data is encrypted to the MID Server and between the MID Server and the API endpoint. To ensure high performance and security, you should configure one or more MID Server for each datacenter under management. Configure the MID Server even if you have already configured other MID Servers while setting up Cloud Provisioning and Governance for another cloud provider.
 
-4.  [[gcp-create-creds-cloud-mgt|Specify the credentials that CSC Terraform Connector uses to access Google Cloud Platform data]]
+4.  Specify the credentials that CSC Terraform Connector uses to access Google Cloud Platform data
 
     To securely access data on your provider account, the Discovery process must present appropriate credentials. To make the credentials available to Discovery, you open the Google Cloud Console to identify the Google Cloud Platform project that will have programmatic access to your Google Cloud Platform data. You then securely store the credentials in a service account in your instance.
 
-5.  [[gcp-first-cld-and-srvc-accts|Set up a cloud account and service account for Google Cloud Platform]]
+5.  Set up a cloud account and service account for Google Cloud Platform
 
     A service account is a secure record on your instance that stores the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter.
 
@@ -71,13 +71,3 @@ Detailed instructions for each procedure follow this overview.
 
 When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[request-plugin-cloud-mgt|Request the Cloud Provisioning and Governance application]]
-- [[r-discovery|Discovery]]
-- [[cloud-accounts|Cloud accounts]]
-- [[gcp-assign-roles-cloud-mgt|Assign roles to Google Cloud Platform users]]
-- [[gcp-create-creds-cloud-mgt|Specify the credentials that CSC Terraform Connector uses to access Google Cloud Platform data]]
-- [[gcp-first-cld-and-srvc-accts|Set up a cloud account and service account for Google Cloud Platform]]

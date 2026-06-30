@@ -70,7 +70,7 @@ Application
 
 </td><td>
 
-This field is automatically set to [[employee-center-landing-page|Employee Center]].
+This field is automatically set to Employee Center.
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Option to make every condition required when the user criteria is applied. The c
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -156,7 +156,7 @@ Option to make every condition required when the user criteria is applied. The c
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -176,8 +176,3 @@ Option to make every condition required when the user criteria is applied. The c
 
 [Website configuration form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

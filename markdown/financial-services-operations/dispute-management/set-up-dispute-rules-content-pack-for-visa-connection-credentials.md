@@ -14,10 +14,7 @@ breadcrumb: [Dispute Rules Content Pack for Visa, Dispute Management, Banking ap
 
 # Setting up Dispute Rules Content Pack for Visa
 
-You can set up your implementation of the [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]] application by installing the application from the ServiceNow Store.
+You can set up your implementation of the Dispute Rules Content Pack for Visa application by installing the application from the ServiceNow Store.
 
 **Parent Topic:**[Dispute Rules Content Pack for Visa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-visa-landing-page-1.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]

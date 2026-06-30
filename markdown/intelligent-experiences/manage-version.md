@@ -18,11 +18,11 @@ Manage the version of the model providers across skills and instance levels. You
 
 Role required: admin
 
-See [[default-and-target-model-model-version|Default and target model version]] to know more about default and target model versions.
+See [Default and target model version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/default-and-target-model-model-version.md) to know more about default and target model versions.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin**.
+1.  Navigate to **All** &gt; **Now Assist Admin**.
 
 2.  Navigate to **Settings** &gt; **Manage AI models**.
 
@@ -67,10 +67,5 @@ See [[default-and-target-model-model-version|Default and target model version]] 
     4.  Select **Update model version for skills** to override ServiceNow shipped mappings or create a new default and target model versions mapping, at the skill level.
 
 
-**Parent Topic:**[[manage-large-language-models|Manage AI models]]
+**Parent Topic:**[Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md)
 
-## Related
-
-- [[default-and-target-model-model-version|Default and target model version]]
-- [[manage-large-language-models|Manage AI models]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -14,9 +14,9 @@ breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
 
 # Natural language queries use cases and examples
 
-View example use [[cases|cases]] of some natural language queries used in [[knowledge-graph-landing|Knowledge Graph]] and Enterprise Graph.
+View example use cases of some natural language queries used in Knowledge Graph and Enterprise Graph.
 
-[[natural-language-query|Natural Language Query]] support in Knowledge Graph and Enterprise Graph allows users to interact with structured data using human-like language. This feature enhances the user experience by enabling more intuitive and flexible search capabilities within the ServiceNow platform.
+Natural Language Query support in Knowledge Graph and Enterprise Graph allows users to interact with structured data using human-like language. This feature enhances the user experience by enabling more intuitive and flexible search capabilities within the ServiceNow platform.
 
 ## Supported Queries
 
@@ -57,7 +57,7 @@ Here are some example queries and description of how they works in Knowledge Gra
 |Find details of problem linked to INC0000047.|This query requests the details of problem record linked to incident INC0000047.|
 |Show incidents assigned to Fred Luddy.|Finds Incident table with user in assigned to column.|
 |List tasks created by Beth Anglin.|Task refers to task table and User name refers to created by column.|
-|Find [[approvals|approvals]] pending for Joe’s reportees.|Find approvals from the sysapproval\_approver table for approval that are pending for the user's reportees.|
+|Find approvals pending for Joe’s reportees.|Find approvals from the sysapproval\_approver table for approval that are pending for the user's reportees.|
 |Display incidents created more than 3 days ago and are not resolved yet.|Uses Incident table, created date, and state column to fetch the details.|
 |Find certificates expiring in the next 30 days.|Certificates refer to table name, the next 30 days reference can be converted to date related condition and can be understood from the date reference in query.|
 |Find case task created in last 30 minutes.|Case task refers to table, created refers to created column and time related condition can be understood from time reference in query.|
@@ -68,7 +68,7 @@ Here are some example queries and description of how they works in Knowledge Gra
 
 ## Aggregate or Sorting Queries
 
-These queries let users perform simple statistics and sorting directly in the Virtual Agent or [[now-assist-center-now-assist-panel|Now Assist panel]].
+These queries let users perform simple statistics and sorting directly in the Virtual Agent or Now Assist panel.
 
 Here are some example queries and description of how they works in Knowledge Graph.
 
@@ -126,10 +126,3 @@ Here are a few examples of unsupported queries:
 
 Knowledge Graph supports CI Relationship \(Rel CI\) queries, enabling natural language questions about CMDB configuration item dependencies and infrastructure topology. For more details see [Configuration item relationships and Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/knowledge-graph/ci-relationships-knowledge-graph.md)
 
-## Related
-
-- [[cases|Cases]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[natural-language-query|Natural Language Query]]
-- [[approvals|Approvals]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

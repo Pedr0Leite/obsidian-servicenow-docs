@@ -14,11 +14,11 @@ breadcrumb: [Service Builder, IT Service Management]
 
 # Install Service Builder
 
-You can install the [[service-builder|Service Builder]] application \(sn\_service\_builder\) using the admin role. The application installs related plugins that aren’t already installed. It also installs the Service Builder components plugin to enable UI components for the product.
+You can install the Service Builder application \(sn\_service\_builder\) using the admin role. The application installs related plugins that aren’t already installed. It also installs the Service Builder components plugin to enable UI components for the product.
 
 ## Before you begin
 
-Confirm that the application and all of its associated ServiceNow Store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+Confirm that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 Role required: admin
 
@@ -39,7 +39,3 @@ Role required: admin
         -   Open the version that you want, and then select **View Details**.
         -   Select **Install** and follow the onscreen instructions.
 
-## Related
-
-- [[service-builder|Service Builder]]
-- [[dex-workspace-application-tab|Applications]]

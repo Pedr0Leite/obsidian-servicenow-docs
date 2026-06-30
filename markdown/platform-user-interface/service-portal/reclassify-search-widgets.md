@@ -14,7 +14,7 @@ breadcrumb: [Enable and configure AI Search in Service Portal, AI Search in Serv
 
 # Reclassify cloned or customized search widgets
 
-[[search-widgets|Search widgets]] that you cloned or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances.
+Search widgets that you cloned or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 ## About this task
 
-If you're unable to use [[ai-search|AI Search in Service Portal]], you may need to reclassify your cloned or customized search widgets. You can run the **Reclassifying Search widgets** fix script, which reclassifies widget instances to the *sp\_instance\_ais* class.
+If you're unable to use AI Search in Service Portal, you may need to reclassify your cloned or customized search widgets. You can run the **Reclassifying Search widgets** fix script, which reclassifies widget instances to the *sp\_instance\_ais* class.
 
 ## Procedure
 
@@ -53,7 +53,3 @@ If you're unable to use [[ai-search|AI Search in Service Portal]], you may need 
 
 **Parent Topic:**[Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md)
 
-## Related
-
-- [[search-widgets|Search widgets]]
-- [[ai-search|AI Search in Service Portal]]

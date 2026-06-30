@@ -14,14 +14,14 @@ breadcrumb: [Use mitigation controls, Security Posture Control, Security Operati
 
 This category of mitigation controls covers mitigations available on your assets in the form of endpoint protection agent configuration. This applies to endpoint protection agents such as CrowdStrike and SentinelOne.
 
-Exploit mitigation settings such as ‘Force Address Space Layout Randomization’ and ‘Force DEP’ can be enabled in endpoint protection [[tools|tools]] like CrowdStrike. SPC automatically detects this configuration on devices with the help of the policies included with the application and the API integration with endpoint protection tools.
+Exploit mitigation settings such as ‘Force Address Space Layout Randomization’ and ‘Force DEP’ can be enabled in endpoint protection tools like CrowdStrike. SPC automatically detects this configuration on devices with the help of the policies included with the application and the API integration with endpoint protection tools.
 
 Roles required: SPC Admin Group and SPC Analyst Group.
 
 ## Prerequisites for CrowdStrike Exploit Protection \(EDR\) mitigation control detection
 
-1.  Verify that you have activated the CrowdStrike Service Graph Connector. This application is available in the ServiceNow Store. The installation and configuration information is included on the app listing. See [[spc-install-config-controls|Install and configure the CrowdStrike integrations for mitigation controls monitoring]] for more information.
-2.  Verify that the CrowdStrike API integration is activated in the [[spc-landing|Security Posture Control]] Workspace.
+1.  Verify that you have activated the CrowdStrike Service Graph Connector. This application is available in the ServiceNow Store. The installation and configuration information is included on the app listing. See [Install and configure the CrowdStrike integrations for mitigation controls monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-controls.md) for more information.
+2.  Verify that the CrowdStrike API integration is activated in the Security Posture Control Workspace.
 
 ## Prerequisites for Microsoft Exploit Protection \(EDR\) mitigation control detection
 
@@ -29,7 +29,7 @@ Microsoft SCCM credentials that include the Script Authors role. The Script Auth
 
 You must activate the SCCM integration to identify mitigation controls configured in Microsoft Defender.
 
-See [[spc-install-config-sccm-defender|Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration]] for more information.
+See [Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-sccm-defender.md) for more information.
 
 -   Defender – Exploit Mitigation – CFG
 
@@ -47,14 +47,7 @@ See [[spc-install-config-sccm-defender|Install and configure the Service Graph C
 
 1.  Verify that you have activated the SentinelOne Service Graph Connector.
 
-    This application is available in the ServiceNow Store. The installation and configuration information is included on the app listing. See [[spc-install-config-sentinelone-mc|Install and configure the Service Graph Connector for SentinelOne and the SentinelOne Mitigation Control Integration]] for more information.
+    This application is available in the ServiceNow Store. The installation and configuration information is included on the app listing. See [Install and configure the Service Graph Connector for SentinelOne and the SentinelOne Mitigation Control Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-install-config-sentinelone-mc.md) for more information.
 
 2.  Verify that the SentinelOne API integration is activated in the Security Posture Control Workspace.
 
-## Related
-
-- [[spc-install-config-controls|Install and configure the CrowdStrike integrations for mitigation controls monitoring]]
-- [[spc-install-config-sccm-defender|Install and configure the Service Graph Connector for Microsoft SCCM and the Microsoft Defender Mitigation Control Integration]]
-- [[spc-install-config-sentinelone-mc|Install and configure the Service Graph Connector for SentinelOne and the SentinelOne Mitigation Control Integration]]
-- [[tools|Tools]]
-- [[spc-landing|Security Posture Control]]

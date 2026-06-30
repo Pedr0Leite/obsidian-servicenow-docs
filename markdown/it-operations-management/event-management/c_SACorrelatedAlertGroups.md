@@ -16,7 +16,7 @@ breadcrumb: [Alert grouping types and creation methods, Alert grouping, Configur
 
 Automated alert grouping is a process that uses historical data to automatically organize similar alerts into groups. These alerts could be system issues, like server errors or network outages. By grouping related alerts together, it helps teams quickly identify patterns, manage recurring problems, and reduce the noise from too many individual alerts.
 
-Imagine you’re monitoring a city’s traffic system. You get a lot of alerts—like reports of accidents, traffic jams, and road closures. Automated alert grouping works like a smart assistant that organizes these alerts based on patterns, so you can see related issues together and respond more efficiently. These automated alert groups are displayed in the Express List within the [[workspace-dashboard-use|Service Operations Workspace]].
+Imagine you’re monitoring a city’s traffic system. You get a lot of alerts—like reports of accidents, traffic jams, and road closures. Automated alert grouping works like a smart assistant that organizes these alerts based on patterns, so you can see related issues together and respond more efficiently. These automated alert groups are displayed in the Express List within the Service Operations Workspace.
 
 ## How do you enable this grouping
 
@@ -48,6 +48,3 @@ Automated alert grouping works like a smart assistant by analyzing these alerts 
 -   Save Time: Handle groups of related alerts instead of individual ones.
 -   Improve Response: Focus on fixing the root cause rather than dealing with scattered issues.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

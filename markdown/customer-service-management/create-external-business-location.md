@@ -25,9 +25,9 @@ Both internal and external users can be added as managers for external business 
 The manager of an external business location can access all the cases for an account, household, or consumer in the location hierarchy, including cases for child business locations. The manager can also:
 
 -   Create staff members for internal and external business location.
--   [[configure-data-model-roles|Assign roles]] and responsibilities to the staff members.
+-   Assign roles and responsibilities to the staff members.
 -   Assign staff members to the location.
--   View and [[manage-cases|manage cases]] created in the location hierarchy.
+-   View and manage cases created in the location hierarchy.
 -   Submit a case on behalf of the location.
 
 ## Procedure
@@ -38,18 +38,18 @@ The manager of an external business location can access all the cases for an acc
 
 3.  On the form, fill in the fields.
 
-    For a description of the field values, see [[ext-business-location-form|External Business Location form]].
+    For a description of the field values, see [External Business Location form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ext-business-location-form.md).
 
 4.  Select **Submit**.
 
     The location is added to the External Business Locations list.
 
-    After creating an external business location, add staff members to it. You can then [[configure-data-model-relationships|create relationships]] between staff members and accounts, households, and consumers, and track the list of customers serviced by a business location.
+    After creating an external business location, add staff members to it. You can then create relationships between staff members and accounts, households, and consumers, and track the list of customers serviced by a business location.
 
 
 ## What to do next
 
-Create related [[migration-lists|lists]] as required:
+Create related lists as required:
 
 <table id="table_xyg_yhc_2jc"><thead><tr><th>
 
@@ -109,7 +109,7 @@ List and details of the cases assigned to your location
 
 </td></tr><tr><td>
 
-[[sold-product|Sold Products]]
+Sold Products
 
 </td><td>
 
@@ -121,7 +121,7 @@ A manager can assign a member by selecting **Assign member** and then choosing t
 
 </td></tr><tr><td>
 
-[[install-base-item|Install Base Items]]
+Install Base Items
 
 </td><td>
 
@@ -133,15 +133,5 @@ View details of install base items, including the Buyer organization member and 
 </table>**Related topics**  
 
 
-[[create-internal-business-location|Create an internal business location]]
+[Create an internal business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-internal-business-location.md)
 
-## Related
-
-- [[ext-business-location-form|External Business Location form]]
-- [[create-internal-business-location|Create an internal business location]]
-- [[configure-data-model-roles|Assign roles]]
-- [[manage-cases|Manage cases]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[migration-lists|Lists]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

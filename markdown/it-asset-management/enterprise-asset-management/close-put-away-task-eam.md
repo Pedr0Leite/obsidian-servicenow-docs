@@ -15,7 +15,7 @@ breadcrumb: [Putting away enterprise assets, Create and manage enterprise asset 
 
 # Close an Asset put away task in the Enterprise Asset Workspace
 
-Add the asset drop-off location for an open Asset put away task and close it in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Add the asset drop-off location for an open Asset put away task and close it in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can bulk close selected Asset put away tasks that are open and assigned to y
 
 1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
-2.  Open the put away task either from the Inventory overview section or the **All [[c_Stockrooms|Stockrooms]]** tab.
+2.  Open the put away task either from the Inventory overview section or the **All Stockrooms** tab.
 
     -   In the Inventory overview section, select the **Open put away tasks** card and select the **Number** link to open the Asset put away task.
     -   In the **All Stockrooms** tab, select a stockroom. In the Open stockroom tasks section, select the **Open put away tasks** card and then select the **Number** link to open the Asset put away task.
@@ -58,7 +58,3 @@ You can bulk close selected Asset put away tasks that are open and assigned to y
 
 **Parent Topic:**[Manage asset put away using the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-asset-putaway-stockroom-enterprise-asset-workspace.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

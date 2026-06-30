@@ -14,7 +14,7 @@ breadcrumb: [Configuring Certificate Inventory and Management, Certificate Inven
 
 # Certificate alerts and notifications
 
-From version 1.2.0 onward, [[cert-inventory-mgmt|Certificate Inventory and Management]] integrates with [[c_EM|Event Management]], providing a unified solution for streamlined operations. This integration enables the generation of events and notifications, with the added capability of sending alerts to Slack. Certificate Inventory and Management also supports sending certificate notifications via email and Microsoft Teams.
+From version 1.2.0 onward, Certificate Inventory and Management integrates with Event Management, providing a unified solution for streamlined operations. This integration enables the generation of events and notifications, with the added capability of sending alerts to Slack. Certificate Inventory and Management also supports sending certificate notifications via email and Microsoft Teams.
 
 -   **[Integrate Event Management with Certificate Inventory and Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/integrating-certs-event-mgmt.md)**  
 In Certificate Inventory and Management version 1.2.0 and later, Event Management can create events and alerts for both expiring and expired certificates, enhancing the system's monitoring capabilities.
@@ -27,7 +27,3 @@ Configure certificate notifications to be delivered to a Microsoft Teams channel
 
 **Parent Topic:**[Configuring Certificate Inventory and Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-config.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[c_EM|Event Management]]

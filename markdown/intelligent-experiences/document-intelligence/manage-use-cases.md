@@ -14,9 +14,9 @@ breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
 
 # Manage document extraction use cases
 
-Manage your [[document-intelligence-landing|Document Intelligence]] use [[cases|cases]] to efficiently support your document extraction requirements.
+Manage your Document Intelligence use cases to efficiently support your document extraction requirements.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 The following topics describe features that you can use to manage your document extraction use cases.
 
@@ -27,18 +27,11 @@ The following topics describe features that you can use to manage your document 
 -   **[Duplicate a document extraction use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/duplicate-a-use-case.md)**  
 Make a copy of a use case to save time when you want to create a new use case that shares a similar structure to another.
 -   **[Export a document extraction use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/export-a-use-case.md)**  
-[[export-a-use-case|Export a document extraction use case]] for use in another ServiceNow instance by adding it to an update set.
+Export a document extraction use case for use in another ServiceNow instance by adding it to an update set.
 -   **[Import a document extraction use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/import-a-use-case.md)**  
-[[import-a-use-case|Import a document extraction use case]] for use in your ServiceNow instance.
+Import a document extraction use case for use in your ServiceNow instance.
 -   **[Delete a document extraction use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/delete-a-use-case.md)**  
 Delete a use case when it’s no longer needed for your documents.
 
 **Parent Topic:**[Configuring Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/doc-intel-administration.md)
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[cases|Cases]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[export-a-use-case|Export a document extraction use case]]
-- [[import-a-use-case|Import a document extraction use case]]

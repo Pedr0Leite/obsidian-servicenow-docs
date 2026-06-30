@@ -12,7 +12,7 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Domain separation in Workforce Optimization for Customer Service
 
-Domain separation is supported in [[configurable-wfo-cs|Workforce Optimization for Customer Service]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Domain separation in Workforce Optimization for Customer Service is configured to apply to all features of the application. Separation of data is configured along with separation of logic and process.
+Domain separation is supported in Workforce Optimization for Customer Service. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Domain separation in Workforce Optimization for Customer Service is configured to apply to all features of the application. Separation of data is configured along with separation of logic and process.
 
 ## Support level: Basic
 
@@ -69,17 +69,12 @@ Domain separated tables for Skill Recommendation
 
 ## Domain separation for Coaching in Workforce Optimization for Customer Service
 
-For information on how domain separation works in Coaching for Workforce [[optimization|Optimization]] for ITSM, refer to [Domain separation and Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/cf-domain-separation-coaching.md)
+For information on how domain separation works in Coaching for Workforce Optimization for ITSM, refer to [Domain separation and Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/cf-domain-separation-coaching.md)
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]

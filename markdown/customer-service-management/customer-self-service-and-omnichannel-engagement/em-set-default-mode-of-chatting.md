@@ -26,7 +26,7 @@ Role required: sn\_csm\_ec.ec\_admin
 
 2.  On the Engagement Messenger Modules page, in the **Edit module** column, select **Edit**.
 
-3.  On the [[create-engagement-messenger-module|Configure Engagement Messenger]] Module page, select **Features**.
+3.  On the Configure Engagement Messenger Module page, select **Features**.
 
 4.  Enable the Chat feature by turning on **Chat** in the Feature settings pane.
 
@@ -43,6 +43,4 @@ Role required: sn\_csm\_ec.ec\_admin
 
 7.  Select **Update**.
 
-## Related
 
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

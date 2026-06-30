@@ -14,7 +14,7 @@ breadcrumb: [Managing tasks, Execute from the agent map, Execute work order task
 
 # Customize the display of task information on the agent map
 
-Configure the agent map to display assigned and unassigned tasks for an agent on the specified date. Display [[c_AgentLocation|agent location]] and routing numbers for tasks dispatched on that day.
+Configure the agent map to display assigned and unassigned tasks for an agent on the specified date. Display agent location and routing numbers for tasks dispatched on that day.
 
 ## Before you begin
 
@@ -83,6 +83,3 @@ Displays all unassigned tasks for the selected date. Clear the checkbox to hide 
     -   To cancel the changes made to the configuration, click **Cancel**.
     -   To optimize the agent's task route, click **Optimize Route**.
 
-## Related
-
-- [[c_AgentLocation|Agent location]]

@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-During this step of the configuration, as a user with the sn\_si.admin role, verify that the profile you configured with the isolate host capability returns security incidents and matching asset IDs as expected. View the actual ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents that are created when security event conditions occur that match the settings of your profile.
+During this step of the configuration, as a user with the sn\_si.admin role, verify that the profile you configured with the isolate host capability returns security incidents and matching asset IDs as expected. View the actual ServiceNow AI Platform Security Incident Response \(SIR\) security incidents that are created when security event conditions occur that match the settings of your profile.
 
 After a request to isolate a host machine is submitted, as a user with an approver role, process the request.
 
@@ -80,7 +80,7 @@ After a request to isolate a host machine is submitted, as a user with an approv
 
 8.  To remove the host from quarantine and return it to the network, follow these steps.
 
-    1.  If the McAfee ePO Isolate Host Entries table is not displayed, navigate to **[[mcaffee-epo-overview-arch|McAfee epO Integration]]** &gt; **Mcafee epO integration Isolate Host Entries**.
+    1.  If the McAfee ePO Isolate Host Entries table is not displayed, navigate to **McAfee epO Integration** &gt; **Mcafee epO integration Isolate Host Entries**.
 
         The Isolate Host Entries list is displayed. At the top of the list in the Status column, search for the asset you isolated.
 
@@ -114,7 +114,3 @@ After a request to isolate a host machine is submitted, as a user with an approv
 
 **Next topic:**[Edit the start and completion tag names and colors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-edit-security-tag.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]

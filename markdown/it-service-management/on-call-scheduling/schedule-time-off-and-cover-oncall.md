@@ -24,7 +24,7 @@ Role required: itil
 
 ## Procedure
 
-1.  Navigate to **[[c_OnCallScheduling|On-call Scheduling]]** &gt; **On-call Calendar**.
+1.  Navigate to **On-call Scheduling** &gt; **On-call Calendar**.
 
 2.  Select the shift entry for the time off.
 
@@ -47,6 +47,3 @@ Role required: itil
 
 **Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-schedules-and-escalation.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

@@ -26,13 +26,13 @@ Role required: admin
 
 3.  Create a new function for one of your push actions.
 
-    When selecting a function type in the **Type** field, you must select one of the type supported for actionable [[sg-mobile-security-push-notif|push notifications]].
+    When selecting a function type in the **Type** field, you must select one of the type supported for actionable push notifications.
 
     -   Action item
     -   Navigation
     -   URL
     -   Chat launcher
-    For information on function types, and detailed steps for creating functions, see [[sg-studio-mobile-button-types|Mobile functions]].
+    For information on function types, and detailed steps for creating functions, see [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
 4.  Create additional functions for each push action.
 
@@ -43,10 +43,5 @@ Role required: admin
 
 You have functions to perform actions for each of the buttons that display in your push notification. In the next steps, you will associate these functions to the notification actions so your functions trigger when users tap the buttons.
 
-**Parent Topic:**[[actionable-push-notification|Configure actionable push notifications]]
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)
 
-## Related
-
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[actionable-push-notification|Configure actionable push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

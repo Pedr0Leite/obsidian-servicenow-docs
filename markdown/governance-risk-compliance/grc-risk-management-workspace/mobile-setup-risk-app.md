@@ -18,7 +18,7 @@ The following checklist includes the set up tasks that you're required to comple
 
 ## Before you begin
 
-As an option, print this checklist and use it to guide you through the set up tasks that are required for the GRC Mobile application. Verify that each item on the list is completed so that you can [[mobile-login-P-C-app|log in to the GRC Mobile application]] and add a ServiceNow AI Platform instance.
+As an option, print this checklist and use it to guide you through the set up tasks that are required for the GRC Mobile application. Verify that each item on the list is completed so that you can log in to the GRC Mobile application and add a ServiceNow AI Platform instance.
 
 Roles required: admin, sn\_risk.manager
 
@@ -42,11 +42,11 @@ As a user with the admin role, verify that you have the GRC core applications in
 
  1.  To verify the GRC: Profile Dependencies core application is installed on your instance, navigate to **Plugins** and search for GRC Profile.
 2.  If the GRC Profile core application is not already installed, click **Install** to install it.
-3.  After the GRC Profile application is installed, install either the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] core application, or the Risk Management core application, or both the Policy and Compliance Management and Risk Management applications. These are the two GRC applications that you can view with the GRC Mobile application.
+3.  After the GRC Profile application is installed, install either the Policy and Compliance Management core application, or the Risk Management core application, or both the Policy and Compliance Management and Risk Management applications. These are the two GRC applications that you can view with the GRC Mobile application.
 
  If not visible in your instance, all of the GRC core applications are available from the ServiceNow Store.
 
- For more information about getting entitlement, downloading, and installing the GRC core applications, see [[grc-and-store|GRC and the ServiceNow Store]].
+ For more information about getting entitlement, downloading, and installing the GRC core applications, see [GRC and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-and-store.md).
 
 When you install the GRC core applications, the dependency plugins for the GRC Mobile application, \(com.glide.sg and com.glide.sg.agent\_native\_client\) are also automatically installed.To verify that these dependency plugins are installed and activated:
 
@@ -119,8 +119,3 @@ For more information about setting notifications, see "User notification prefere
 
 **Parent Topic:**[Configuring Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-risk-mgmt.md)
 
-## Related
-
-- [[grc-and-store|GRC and the ServiceNow Store]]
-- [[mobile-login-P-C-app|Log in to the GRC Mobile application]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

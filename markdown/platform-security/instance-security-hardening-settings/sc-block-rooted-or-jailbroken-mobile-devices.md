@@ -14,11 +14,11 @@ breadcrumb: [Malicious code, Hardening settings, Platform Security]
 
 # Block rooted or jailbroken mobile devices
 
-[[platsec-landing|Secure your instance]] by preventing unauthorized access from jailbroken devices.
+Secure your instance by preventing unauthorized access from jailbroken devices.
 
-If **glide.sg.allow\_rooted\_jailbroken\_device** is not set to the recommended value of **false**, then the mobile app allows [[users|users]] to use the app from jailbroken or rooted mobile devices. Jailbroken or rooted mobile devices run untrusted code at the system level that can bypass the platform's security model which our mobile apps rely on. Setting **glide.sg.allow\_rooted\_jailbroken\_device** to **false** enables a limited client-side check to display an error message to the user if attempting to use the app from one of these devices.
+If **glide.sg.allow\_rooted\_jailbroken\_device** is not set to the recommended value of **false**, then the mobile app allows users to use the app from jailbroken or rooted mobile devices. Jailbroken or rooted mobile devices run untrusted code at the system level that can bypass the platform's security model which our mobile apps rely on. Setting **glide.sg.allow\_rooted\_jailbroken\_device** to **false** enables a limited client-side check to display an error message to the user if attempting to use the app from one of these devices.
 
-This [[sc-configuration|configuration]] maps to MASVS v1.4.2 requirement 8.1 at R-level.
+This configuration maps to MASVS v1.4.2 requirement 8.1 at R-level.
 
 Ensure that the property **glide.sg.allow\_rooted\_jailbroken\_device**is set to **false**.
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 4.5
 -   CVSS score: Medium
--   Security risk details: Allowing rooted or jailbroken mobile devices significantly increases the risk of credential theft, data leakage, and [[sc-malicious-code|malicious code]] execution.
+-   Security risk details: Allowing rooted or jailbroken mobile devices significantly increases the risk of credential theft, data leakage, and malicious code execution.
 
 </td></tr><tr><td>
 
@@ -117,10 +117,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Malicious code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-malicious-code.md)
 
-## Related
-
-- [[platsec-landing|Secure your instance]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[sc-malicious-code|Malicious code]]

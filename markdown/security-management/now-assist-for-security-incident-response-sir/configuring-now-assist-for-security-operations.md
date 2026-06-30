@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Security Incident Response, Security Operations]
 
 # Configuring Now Assist for Security Incident Response
 
-The [[now-assist-security-incident-landing|Now Assist for Security Incident Response]] application is supported in the [[sir-workspace-landing-page|Security Incident Response Workspace]] and in the legacy Core UI \(UI16\). Use the guided setup in the Now Assist Admin console to configure Now Assist for Security Incident Response.
+The Now Assist for Security Incident Response application is supported in the Security Incident Response Workspace and in the legacy Core UI \(UI16\). Use the guided setup in the Now Assist Admin console to configure Now Assist for Security Incident Response.
 
 ## Configuration overview
 
@@ -56,7 +56,7 @@ Resolution notes generation.
 
 </td></tr><tr><td>
 
-[[security-operations-landing-page|Security operations]] metrics analysis
+Security operations metrics analysis
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Security incident quality assessment
 </td></tr></tbody>
 </table>1.  [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
-    Install the Now Assist for Security Incident Response application \(sn\_sec\_gen\_ai\) and [[sir-landing-page|Security Incident Response]] Core \[sn\_si\] applications.
+    Install the Now Assist for Security Incident Response application \(sn\_sec\_gen\_ai\) and Security Incident Response Core \[sn\_si\] applications.
 
     **Note:**
 
@@ -97,9 +97,4 @@ Security incident quality assessment
 
     You can deactivate, configure, and reactivate generative AI skills and agentic workflows in the Guided Setup.
 
-## Related
 
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

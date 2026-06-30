@@ -19,11 +19,11 @@ Use the Contract Approval flow to get approval from the approver defined in the 
 
 ## Prerequisites
 
-Ensure that the [[c_ContractManagement|Contract Management]] \(com.snc.contract\_management\) plugin is installed.
+Ensure that the Contract Management \(com.snc.contract\_management\) plugin is installed.
 
 ## Contract Approval flow
 
-Submit your contract for approval by selecting an approver in the contract record. This workflow enables you to manage the [[c_TermsAndConditions|terms and conditions]] the contract must meet to approve a contract.
+Submit your contract for approval by selecting an approver in the contract record. This workflow enables you to manage the terms and conditions the contract must meet to approve a contract.
 
 \[Omitted image "contract-approval-workflow-actions.png"\] Alt text: Contract approval flow actions
 
@@ -53,7 +53,3 @@ Submit your contract for approval by selecting an approver in the contract recor
 
 [View approval history on contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/t_ObtainContractApproval.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_TermsAndConditions|Terms and conditions]]

@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # NetApp SolidFire storage system discovery
 
-ServiceNow [[r-discovery|Discovery]] uses the NetApp SolidFire storage system discovery pattern to find clusters and nodes on the SolidFire storage system. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+ServiceNow Discovery uses the NetApp SolidFire storage system discovery pattern to find clusters and nodes on the SolidFire storage system. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -34,7 +34,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     Verify the MID Server can access the target device.
 
--   **Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **Create a serverless discovery schedule**
 
     Create a serverless discovery schedule to perform targeted discovery of SolidFire clusters and nodes. For more information, see [Create a serverless discovery schedule for NetApp SolidFire discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-solidfire.md).
 
@@ -109,7 +109,7 @@ Discovery populates the data in the CMDB when running the NetApp SolidFire Stora
 |Netmask \[netmask\]|The netmask of the server hosting the CI.|
 |Nic \[nic\]|References the Network Adapter \[cmdb\_ci\_network\_adapter\] table.|
 
-The [[dependency-views-map|Dependency Views map]] shows all discovered SolidFire storage system clusters and nodes in your organization and the relationships between them.
+The Dependency Views map shows all discovered SolidFire storage system clusters and nodes in your organization and the relationships between them.
 
 \[Omitted image "storage-system-dependency.jpg"\] Alt text: SolidFire storage system dependency view
 
@@ -144,9 +144,3 @@ Set up a dedicated serverless discovery schedule for NetApp SolidFire cluster an
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[dependency-views-map|Dependency Views map]]

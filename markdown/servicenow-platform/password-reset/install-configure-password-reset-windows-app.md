@@ -14,16 +14,16 @@ breadcrumb: [Password Reset, Manage service capabilities, Extend ServiceNow AI P
 
 # Installing and configuring Password Reset Windows Application
 
-Request the [[password-reset-landing-page|Password Reset]] Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin that enables connections to the Active Directory \(AD\) credential store types.
+Request the Password Reset Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin that enables connections to the Active Directory \(AD\) credential store types.
 
 Administrators download and run an EXE or MSI file to install or distribute the application to user computers. The application installs a link on the Windows login screen.
 
 -   **[Password Reset Windows Application installation requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/pass-reset-win-app-install-requirements.md)**  
-Activate the Password Reset Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin and activate the Microsoft AD for Password Reset store app to use the [[win-password-reset-overview|Password Reset Windows Application]].
+Activate the Password Reset Windows App \(Password Reset Orchestration\) \(com.glideapp.password\_reset\_desktop\) plugin and activate the Microsoft AD for Password Reset store app to use the Password Reset Windows Application.
 -   **[Download the Password Reset Windows Application installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-dwnld-installer-pwr-reset.md)**  
-[[win-dwnld-installer-pwr-reset|Download the Password Reset Windows Application installer]].
+Download the Password Reset Windows Application installer.
 -   **[Install Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-install-password-reset.md)**  
-[[win-install-password-reset|Install Password Reset Windows Application]] using different available methods.
+Install Password Reset Windows Application using different available methods.
 -   **[Configure security settings for the Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-security-properties-password-reset.md)**  
 Configuring security settings for the Password Reset Windows Application.
 -   **[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)**  
@@ -41,9 +41,3 @@ You can run either an EXE or an MSI file to uninstall the application.
 
 **Parent Topic:**[Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-landing-page.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[win-dwnld-installer-pwr-reset|Download the Password Reset Windows Application installer]]
-- [[win-install-password-reset|Install Password Reset Windows Application]]

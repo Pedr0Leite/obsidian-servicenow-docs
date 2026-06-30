@@ -38,11 +38,11 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d253359e87">
 
-**From the [[worker-portal|Time Sheet Portal]]**
+**From the Time Sheet Portal**
 
 </td><td>
 
-1.  Navigate to **[[time-sheets|Time Sheets]]** &gt; **Time Sheet Portal**.
+1.  Navigate to **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Click the **My Time Sheet** list and select a user under **My Resources**.
 
@@ -68,15 +68,10 @@ The time sheet must be within the recall period.
 
 ## Result
 
--   Changes the state of the time sheet and associated [[c_TimeCards|time cards]] to **Recalled**.
+-   Changes the state of the time sheet and associated time cards to **Recalled**.
 -   Reverts the actual effort and resource hours in a project or demand created when time cards that have task types were approved.
 -   Creates negative expense lines to zero out the corresponding expense lines created when the time sheet was approved.
 -   Returns the time sheet to its submitter for modifications.
 
 **Parent Topic:**[Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheets.md)
 
-## Related
-
-- [[worker-portal|Time Sheet Portal]]
-- [[time-sheets|Time Sheets]]
-- [[c_TimeCards|Time cards]]

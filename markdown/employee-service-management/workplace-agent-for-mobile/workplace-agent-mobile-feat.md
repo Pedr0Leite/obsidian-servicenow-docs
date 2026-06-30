@@ -25,11 +25,11 @@ Manage all your workplace cases and tasks using the Workplace Agent for mobile a
 
 </td><td>
 
-[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: [[install-agent-workplace-services-for-mobile|Install Workplace Agent for mobile]] to get started.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/configure-workplace-mobile-agent.md)
+[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Install Workplace Agent for mobile to get started.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/configure-workplace-mobile-agent.md)
 
 </td></tr><tr><td>
 
-[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: [[use-workplace-agent-mobile|Use Workplace Agent for mobile]] to manage, edit, update and resolve workplace cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/use-workplace-agent-mobile.md)
+[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Use Workplace Agent for mobile to manage, edit, update and resolve workplace cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/use-workplace-agent-mobile.md)
 
 </td><td>
 
@@ -37,8 +37,3 @@ Manage all your workplace cases and tasks using the Workplace Agent for mobile a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[install-agent-workplace-services-for-mobile|Install Workplace Agent for mobile]]
-- [[use-workplace-agent-mobile|Use Workplace Agent for mobile]]

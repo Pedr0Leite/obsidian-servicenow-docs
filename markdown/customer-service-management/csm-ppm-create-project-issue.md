@@ -30,7 +30,7 @@ The project manager can create one issue for a case.
 
 3.  In the **Cases** related list, click a case.
 
-4.  Click **Create Issue** on the [[r_CustomerServiceCaseForm|Case form]].
+4.  Click **Create Issue** on the Case form.
 
     The system creates a new issue for the project and copies the **Short description** and **Priority** from the case.
 
@@ -38,12 +38,8 @@ The project manager can create one issue for a case.
 
     The system does the following after you save the issue:
 
-    -   Adds the case number to the [[csm-config-ws-activity-stream|activity stream]] on the Issue form.
+    -   Adds the case number to the activity stream on the Issue form.
     -   Adds the issue number to the activity stream on the Case form.
     -   Adds the issue to the **Issues** related list on the Customer Project form.
     -   Adds the issue to the **Issue** field in the Related Records section of the Case form.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-config-ws-activity-stream|Activity stream]]

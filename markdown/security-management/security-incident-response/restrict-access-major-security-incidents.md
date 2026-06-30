@@ -28,7 +28,7 @@ After you enforce the restriction on major security incidents or related lists t
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **Major Security Incidents**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management** &gt; **Major Security Incidents**.
 
 2.  Select the **Lists** view.
 
@@ -53,6 +53,3 @@ After you enforce the restriction on major security incidents or related lists t
 
 **Parent Topic:**[Update Major Security Incident details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msim-details-tab.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

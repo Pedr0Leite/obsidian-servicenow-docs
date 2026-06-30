@@ -14,16 +14,16 @@ breadcrumb: [Creating Platform Analytics pages, Platform Analytics experience, P
 
 The App Engine Studio includes a prebuilt workspace that you can add to an application. This workspace includes an Analytics Center page, along with the pages that the Analytics Center links to.
 
-The event handlers for the Analytics Center components of the workspace are all preconfigured. For example, selecting an indicator in the Indicator Scorecard opens that indicator in [[kpi-details|KPI Details]].
+The event handlers for the Analytics Center components of the workspace are all preconfigured. For example, selecting an indicator in the Indicator Scorecard opens that indicator in KPI Details.
 
 For more information about using App Engine Studio to create a workspace with an Analytics Center, see [Add an application experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/add-experience.md).
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
 
-[Add [[c_performanceAnalyticsAndReporting|Platform Analytics]] pages to a configurable workspace]()
+[Add Platform Analytics pages to a configurable workspace]()
 
 [Add a dashboard to a Dashboards page]()
 
@@ -35,8 +35,3 @@ For more information about using App Engine Studio to create a workspace with an
 
 [Configure dashboard data broker]()
 
-## Related
-
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[kpi-details|KPI Details]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

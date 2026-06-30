@@ -75,16 +75,12 @@ Simplified AI-native fulfiller experience
 
 -   Agentic workflows that evaluate, triage, draft smart responses, and suggest resolution steps.
 -   Contextual AI support for instant summaries, resolution notes, knowledge articles, and next steps.
--   A role-based manager dashboard that gives insights into team [[perf-metrics-mob|performance metrics]] and backlog \(for incident and requested items\).
+-   A role-based manager dashboard that gives insights into team performance metrics and backlog \(for incident and requested items\).
 
 </td><td>
 
 Fulfiller or service desk agent
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
+</table>**Parent Topic:**[Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/ai-native-it-service-desk-landing-page.md)
 
-## Related
-
-- [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
-- [[perf-metrics-mob|Performance metrics]]

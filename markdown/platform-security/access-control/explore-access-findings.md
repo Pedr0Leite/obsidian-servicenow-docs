@@ -14,7 +14,7 @@ breadcrumb: [Access findings, Access Management]
 
 # Explore Access findings
 
-[[access-findings|Access Findings]] runs eight out-of-box access checks against your instance on a daily schedule, letting you know when misconfigurations are detected. It also provides a complete remediation workflow that includes AI-powered guidance.
+Access Findings runs eight out-of-box access checks against your instance on a daily schedule, letting you know when misconfigurations are detected. It also provides a complete remediation workflow that includes AI-powered guidance.
 
 Access Findings include two core components that work in tandem: **Access checks** and **Access findings**.
 
@@ -27,7 +27,7 @@ Access checks are the security definitions and logic that run in the background.
 -   `Do all client-callable Script Includes have appropriate Access Controls?`
 -   `Are there any public pages that should be restricted?`
 
-Think of Access checks as the questions the system asks about your [[sc-configuration|configuration]]. They define what to look for.
+Think of Access checks as the questions the system asks about your configuration. They define what to look for.
 
 ## Access findings \(Results\)
 
@@ -51,15 +51,9 @@ The relationship between checks and findings is linear and automated:
 
 This combined capability transforms security from a manual, reactive task into an automated, proactive workflow.
 
--   Automated Detection: Instead of manually [[c_AuditedTables|auditing]] thousands of scripts and ACLs, the system automatically flags issues for you.
+-   Automated Detection: Instead of manually auditing thousands of scripts and ACLs, the system automatically flags issues for you.
 -   Prioritized Remediation: findings are categorized by priority \(for example, High, Medium\), allowing you to focus your limited time on the most critical vulnerabilities first.
 -   Clear Context: Every finding links back to the specific check that triggered it and the Source record involved. This tells you exactly why it was flagged and where to fix it, eliminating the guesswork in security patching.
 
-By using the Access findings dashboard to monitor these results, you ensure that your instance remains compliant with [[security-best-practices-manager|security best practices]] and that potential entry points—like client-callable scripts—are properly secured.
+By using the Access findings dashboard to monitor these results, you ensure that your instance remains compliant with security best practices and that potential entry points—like client-callable scripts—are properly secured.
 
-## Related
-
-- [[access-findings|Access findings]]
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]
-- [[security-best-practices-manager|Security Best Practices]]

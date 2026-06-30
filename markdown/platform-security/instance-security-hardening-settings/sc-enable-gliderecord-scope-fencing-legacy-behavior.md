@@ -18,7 +18,7 @@ The **glide.record.legacy\_cross\_scope\_access\_policy\_in\_script** property d
 
 GlideRecord provided cross scope create/update access to tables that were not configured with that level of access. In order to prevent customers from having applications broken when this scoped access behavior was patched, the property **glide.record.legacy\_cross\_scope\_access\_policy\_in\_script** was created. When set to **true**, cross scope access falls back onto legacy behavior \(insecure\). This property disables scope fencing, allowing scoped apps to access global script interfaces.
 
-Set the **glide.record.legacy\_cross\_scope\_access\_policy\_in\_script** system property to **false**. When not present in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is **true**.
+Set the **glide.record.legacy\_cross\_scope\_access\_policy\_in\_script** system property to **false**. When not present in the System Properties \[sys\_properties\] table, the default value is **true**.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,7 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

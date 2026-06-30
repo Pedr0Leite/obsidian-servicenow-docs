@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Exchange]
 
 # Service Exchange data model
 
-The [[tmt-service-bridge-both-landing-page|Service Exchange]] applications data model provides insight into how the tables that are used in Service Exchange relate to each other.
+The Service Exchange applications data model provides insight into how the tables that are used in Service Exchange relate to each other.
 
 The data model uses a combination of the following types of tables to store data:
 
@@ -277,7 +277,3 @@ None
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

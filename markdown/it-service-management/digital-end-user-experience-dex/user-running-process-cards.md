@@ -54,7 +54,7 @@ CPU time in seconds
 
 </td><td>
 
-Exact amount of time that the CPU spends for processing data for a specific program or process**Note:** By tracking CPU usage over time, your organization can identify potential performance issues and take steps to optimize system resources and improve the overall [[dex-landing|digital end-user experience]].
+Exact amount of time that the CPU spends for processing data for a specific program or process**Note:** By tracking CPU usage over time, your organization can identify potential performance issues and take steps to optimize system resources and improve the overall digital end-user experience.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Memory in KB
 
 Amount of memory \(RAM\) consumed in kilobytes \(KB\) for a specific program or process
 
-**Note:** High memory usage can result in degraded application performance, slower response times, and potentially lead to crashes or system instability. Monitor memory usage to optimize resource allocation and capacity planning, verifying that [[dex-workspace-application-tab|applications]] have sufficient resources to meet user demands.
+**Note:** High memory usage can result in degraded application performance, slower response times, and potentially lead to crashes or system instability. Monitor memory usage to optimize resource allocation and capacity planning, verifying that applications have sufficient resources to meet user demands.
 
 </td></tr><tr><td>
 
@@ -99,12 +99,7 @@ Service type
 Type of the service, for example system or user
 
 </td></tr></tbody>
-</table>To return to the [[dex-workspace-user-details|device details]] page, see [Device details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-workspace-user-details.md).
+</table>To return to the device details page, see [Device details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-workspace-user-details.md).
 
 **Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-user-details|Device details]]

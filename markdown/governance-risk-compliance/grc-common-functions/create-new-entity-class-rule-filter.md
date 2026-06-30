@@ -22,11 +22,11 @@ Role required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, and sn\_r
 
 ## Procedure
 
-1.  Navigate to the desired workspace, go to the [[list-view-uib-ws|List view]], and click **[[entity-class-rules-in-risk-ws|Entity class rules]]**.
+1.  Navigate to the desired workspace, go to the List view, and click **Entity class rules**.
 
     **Note:** You can't create an entity class rule filter from the Compliance Workspace. You can create it only in the Core UI.
 
-2.  Select any [[entity-class|entity class]] rule from the list.
+2.  Select any entity class rule from the list.
 
 3.  To add a new entity class rule filter, in the **Entity class rule filters** tab, click **New**.
 
@@ -46,8 +46,3 @@ You can create an entity class rule filter by filling out the fields that displa
 
 **Parent Topic:**[Entity class rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-class-rules-in-risk-ws.md)
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[entity-class-rules-in-risk-ws|Entity class rules]]
-- [[entity-class|entity class]]

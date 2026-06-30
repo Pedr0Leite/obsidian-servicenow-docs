@@ -14,7 +14,7 @@ breadcrumb: [Create a personal authentication mode connection with Microsoft Exc
 
 # Configure Microsoft Azure
 
-Set up a personal mode of authentication with Microsoft Azure to connect Microsoft Exchange Online with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Set up a personal mode of authentication with Microsoft Azure to connect Microsoft Exchange Online with Workplace Calendar Synchronization.
 
 ## Before you begin
 
@@ -107,6 +107,3 @@ Configure resource room and specify the delegated user email details. For more i
 
 [Configure the Microsoft Exchange Online calendar provider in personal authentication mode]()
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

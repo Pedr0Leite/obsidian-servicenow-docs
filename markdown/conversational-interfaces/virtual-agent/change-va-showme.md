@@ -15,7 +15,7 @@ breadcrumb: [Working with setup topics, Customizing a chat experience, Configure
 
 # Change text in the Show me everything button
 
-Configure the text in the **Show me everything** button displayed in the chat window to control the display of the initial greetings and the **Show me everything** button in [[virtual-agent-landing-page|Virtual Agent]] conversations. Edit the message in the System Properties \[sys\_properties\] table, or in a copy of the Greetings setup topic.
+Configure the text in the **Show me everything** button displayed in the chat window to control the display of the initial greetings and the **Show me everything** button in Virtual Agent conversations. Edit the message in the System Properties \[sys\_properties\] table, or in a copy of the Greetings setup topic.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Description
 
 </td><td>
 
-1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 2.  Select the copy of the Greetings setup topic that you created.
 3.  In the **Flow** tab, select the node for the Send Topic Picker script action.
 4.  In the Script action properties sheet, select the Script icon \[Omitted image "icon-script.png"\] Alt text: Script icon. to open the **Action expression** script.
@@ -93,7 +93,3 @@ If you customized your Greetings topic, add it to the default chat experience or
 
 **Parent Topic:**[Working with setup topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/working-setup-topics.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

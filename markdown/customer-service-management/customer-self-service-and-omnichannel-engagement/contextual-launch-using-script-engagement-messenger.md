@@ -44,7 +44,7 @@ SN_CSM_EC.init({
 
 1.  Navigate to **Engagement Messenger** &gt; **Modules**.
 
-2.  In the [[create-engagement-messenger-module|Configure Engagement Messenger]] Module, open the Implement tab.
+2.  In the Configure Engagement Messenger Module, open the Implement tab.
 
 3.  Copy the code from the Embed code section.
 
@@ -71,7 +71,7 @@ SN_CSM_EC.init({
 
     -   **feature**
 
-        The feature name. For more information, see [[contextual-launch-supported-features|Feature context parameters supported in Engagement Messenger]] .
+        The feature name. For more information, see [Feature context parameters supported in Engagement Messenger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contextual-launch-supported-features.md) .
 
     -   **openOnLoad**
 
@@ -171,7 +171,4 @@ SN_CSM_EC.init({
 
     *fr*: Sets the default chat language to French.
 
-## Related
 
-- [[contextual-launch-supported-features|Feature context parameters supported in Engagement Messenger]]
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

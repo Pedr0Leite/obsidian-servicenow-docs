@@ -18,11 +18,11 @@ Create an email subflow according to your requirements. You can then select this
 
 ## Before you begin
 
-Roles required: [[ia-localization-il|localization]]\_admin and flow\_designer
+Roles required: localization\_admin and flow\_designer
 
 ## About this task
 
-The [[localization-framework-landing|Localization Framework]] provides a default email subflow that you can customize.
+The Localization Framework provides a default email subflow that you can customize.
 
 Copy the existing email subflow configured for the Localization Framework and then customize it. Publish the customized subflow so that it is available for selection when setting up the translation preference for a language. For more information, see [Create a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-subflow.md).
 
@@ -199,7 +199,3 @@ Use the published subflow to define the translation preference for a language.
 
 **Parent Topic:**[Localization Framework settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-settings.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]

@@ -15,16 +15,16 @@ breadcrumb: [Contract Management Pro, Legal and Contract Operations, Employee Se
 
 # Using Contract Management Pro
 
-Use [[cncore-cmpro-landing-page|Contract Management Pro]] to initiate and manage contract requests for self served and non-self served contracts.
+Use Contract Management Pro to initiate and manage contract requests for self served and non-self served contracts.
 
 -   **[Contract Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-contract-workspace.md)**  
-As a contract fulfiller, you can work with the actionable widgets on [[cncore-contract-workspace|Contract Workspace]] to categorize, prioritize, and efficiently work on contract requests.
+As a contract fulfiller, you can work with the actionable widgets on Contract Workspace to categorize, prioritize, and efficiently work on contract requests.
 -   **[Initiating a contract or amendment request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-initiate-contract.md)**  
 As a case owner or fulfiller, initiate a contract or amendment request for the case you are working on.
 -   **[View and track contract request details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-view-creq-details.md)**  
 As a contract user or contract administrator, view the details and track the activities of the contract request.
 -   **[Assign a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-assign-con-req.md)**  
-As a contract fulfiller or contract administrator, [[cncore-assign-con-req|assign a contract request]] to yourself or to someone in your assignment group.
+As a contract fulfiller or contract administrator, assign a contract request to yourself or to someone in your assignment group.
 -   **[Use self-served contract request]()**  
 Use Contract Management Pro to submit contract requests that will generate contract documents using a predefined contract template and template rules.
 -   **[Use non-self-served contract request]()**  
@@ -34,15 +34,15 @@ The contract amendment workflow enables you to initiate, manage, and track chang
 -   **[Send email to stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-send-email.md)**  
 As a contract fulfiller, set up an email to stakeholders to request review of the contract document reviewed and confirm the changes.
 -   **[Add clauses during authoring or negotiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-clauses-from-library.md)**  
-As a contract fulfiller or reviewer, while authoring or negotiating a contract revision, add clauses from the clause library listed in the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+As a contract fulfiller or reviewer, while authoring or negotiating a contract revision, add clauses from the clause library listed in the Microsoft Word add-in for ServiceNow Contracts.
 -   **[Create a document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-doc-rev.md)**  
-As a contract fulfiller, [[cncore-create-doc-rev|create a document revision]] to upload an updated version of the contract that contains the latest changes in the contract request, corrections, or suggestions from a third party.
+As a contract fulfiller, create a document revision to upload an updated version of the contract that contains the latest changes in the contract request, corrections, or suggestions from a third party.
 -   **[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)**  
 Get your contract document reviewed by internal subject matter experts who have the expertise you need.
 -   **[Linking parent-child contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-linking-parent-child.md)**  
 Link a parent contract to a child contract to establish hierarchical relationships between contract requests and inherit fields from the parent contract request.
 -   **[Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-initiate-approval-contract-request.md)**  
-[[cmpro-initiate-approval-contract-request|Initiate an ad hoc approval for a contract document revision]] from a user or a user group.
+Initiate an ad hoc approval for a contract document revision from a user or a user group.
 -   **[Compare contract revisions in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-compare-docs.md)**  
 Streamline the contract negotiation process by comparing two contract revisions to quickly identify and review all changes between the two versions, thereby reducing manual effort and minimizing the risk of missing critical updates.
 -   **[Ask Now Assist to generate summary of contract documents in a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-summarize-contract-cmr.md)**  
@@ -50,27 +50,15 @@ Generate summaries, frequently asked questions \(FAQs\), or ask questions to ret
 -   **[Signature workflow for a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-signature-workflow.md)**  
 Contract Management Pro supports electronic signature, wet \(manual\) signature, and offline signature for a contract request.
 -   **[Cancel a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cancel-request-tpc.md)**  
-[[cncore-cancel-request-tpc|Cancel a contract request]] if it is no longer necessary.
+Cancel a contract request if it is no longer necessary.
 -   **[Preview and download a signed contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-preview-contract.md)**  
-[[snlc-preview-contract|View and download a signed contract document]].
+View and download a signed contract document.
 -   **[Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-management.md)**  
-[[cncore-obligation-management|Obligation Management]] in Contract Management Pro enables you to track and fulfill the responsibilities specified in a contract.
+Obligation Management in Contract Management Pro enables you to track and fulfill the responsibilities specified in a contract.
 -   **[Search for keywords in contract templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-search-in-doct.md)**  
-[[cncore-search-in-doct|Search for keywords in contract templates]] easily.
+Search for keywords in contract templates easily.
 -   **[Search in Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-search-addin.md)**  
 As a contract configurator, search for templates and clauses in the Microsoft Word add-in for ServiceNow Contracts.
 
 **Parent Topic:**[Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-cmpro-landing-page.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[cncore-assign-con-req|Assign a contract request]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-create-doc-rev|Create a document revision]]
-- [[cmpro-initiate-approval-contract-request|Initiate an ad hoc approval for a contract document revision]]
-- [[cncore-cancel-request-tpc|Cancel a contract request]]
-- [[snlc-preview-contract|View and download a signed contract document]]
-- [[cncore-obligation-management|Obligation Management]]
-- [[cncore-search-in-doct|Search for keywords in contract templates]]

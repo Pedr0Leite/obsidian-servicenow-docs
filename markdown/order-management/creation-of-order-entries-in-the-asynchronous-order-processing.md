@@ -139,20 +139,14 @@ Name of the target table, such as Customer Order.
 
 ## What to do next
 
-[[som-om-approve-product-order|Approve orders in Order Management]]
+[Approve orders in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-om-approve-product-order.md)
 
-**Parent Topic:**[[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
+**Parent Topic:**[Asynchronous order processing for large customer and consumer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/asynchronous-order-processing.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-## Related
-
-- [[som-om-approve-product-order|Approve orders in Order Management]]
-- [[asynchronous-order-processing|Asynchronous order processing for large customer and consumer orders]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]

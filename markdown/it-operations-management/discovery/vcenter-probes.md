@@ -44,7 +44,7 @@ VMWare - vCenter Datacenters
 
 </td><td>
 
--   datacenter\_only \([[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]\)
+-   datacenter\_only \(Cloud Provisioning and Governance\)
 -   debug
 -   disable\_vm\_probe
 -   disable\_network\_probe
@@ -65,7 +65,7 @@ VMWare - vCenter VMs
 
 -   disable\_vm\_nic\_probe
 -   disable\_vm\_nic\_vnics \(set to **false**\)
--   disable\_vm\_nic\_vdisks \(set to **true** for [[r-discovery|Discovery]] only and **false** when Cloud Provisioning and Governance is enabled\)
+-   disable\_vm\_nic\_vdisks \(set to **true** for Discovery only and **false** when Cloud Provisioning and Governance is enabled\)
 -   disable\_vm\_tags\_probe
 -   refresh\_state \(Cloud Provisioning and Governance\)
 -   page\_size \(100\)
@@ -157,7 +157,7 @@ This probe relies on the statistics intervals configured for the vCenter. By def
 -   data\_sampling\_minutes: The time lapse between taking the data samples.
 -   metrics: The collected metrics \(CPU / memory / network / disk\).
 
- This probe is used only by [[cloud-migration-landing-page|Cloud Migration Assessment]].
+ This probe is used only by Cloud Migration Assessment.
 
  **Important:** To modify the default values for this probe, coordinate with the administrator responsible for the vCenter management. For more information, see [VMware documentation](https://communities.vmware.com/t5/Storage-Performance/vCenter-Performance-Counters/ta-p/2790328).
 
@@ -210,8 +210,4 @@ vCenter sensor records support triggering custom probes that use conditional scr
 
     \[Omitted image "vCenterConditionalProbes.png"\] Alt text: Conditional Probes Triggered by Sensor record
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-migration-landing-page|Cloud Migration Assessment]]

@@ -42,7 +42,7 @@ Federal hosted
 
 </td><td>
 
-See the [Federal downloads for the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
+See the [Federal downloads for the Emergency Response Management and Safe Workplace suite apps \[KB0030260\]](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030260) article in the Store Help Center for more information.
 
 </td></tr><tr><td>
 
@@ -65,25 +65,25 @@ See the [Commercial downloads for the Emergency Response Management and Safe Wor
 </td></tr></tbody>
 </table>If you've subscribed to the Safe Workplace suite and you already have some of the apps installed, refer to the following order of installation for the remaining apps.
 
--   [[emergency-outreach|Emergency Outreach]] \(sn\_imt\_checkin\)
--   [[employee-health-screening|Employee Health Screening]] \(sn\_imt\_monitoring\)
--   [[ppe-inventory-management|Workplace PPE Inventory Management]] \(sn\_imt\_ppe\)
--   [[employee-readiness-surveys|Employee Readiness Surveys]] \(sn\_imt\_readiness\)
+-   Emergency Outreach \(sn\_imt\_checkin\)
+-   Employee Health Screening \(sn\_imt\_monitoring\)
+-   Workplace PPE Inventory Management \(sn\_imt\_ppe\)
+-   Employee Readiness Surveys \(sn\_imt\_readiness\)
 -   COVID-19 Global Health Data Set \(sn\_imt\_c19datafeed\)
--   [[contact-tracing|Contact Tracing]] \(sn\_imt\_tracing\)
--   [[emergency-self-report|Emergency Self Report]] \(sn\_imt\_quarantine\)
--   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\)
--   [[safe-workplace-dashboard|Safe Workplace Dashboard]] \(sn\_imt\_dashboard\)
+-   Contact Tracing \(sn\_imt\_tracing\)
+-   Emergency Self Report \(sn\_imt\_quarantine\)
+-   Workplace Core \(sn\_wsd\_core\)
+-   Safe Workplace Dashboard \(sn\_imt\_dashboard\)
 -   Emergency Response Management for Now Mobile \(sn\_imt\_mobile\)
--   [[employee-travel-safety|Employee Travel Safety]] \(sn\_imt\_travel\)
--   [[health-safety-testing|Health and Safety Testing]] \(sn\_imt\_health\_test\)
--   [[vaccination-status|Vaccination Status]] \(sn\_imt\_vaccine\)
+-   Employee Travel Safety \(sn\_imt\_travel\)
+-   Health and Safety Testing \(sn\_imt\_health\_test\)
+-   Vaccination Status \(sn\_imt\_vaccine\)
 
 ## Procedure
 
 1.  Navigate to **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Search for `[[emergency-exposure-management|Emergency Exposure Management]]`.
+2.  Search for `Emergency Exposure Management`.
 
 3.  Click **Install**.
 
@@ -103,19 +103,3 @@ Several types of components are installed with Emergency Exposure Management, in
 
 **Parent Topic:**[Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/emergency-exposure-management.md)
 
-## Related
-
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[ppe-inventory-management|Workplace PPE Inventory Management]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[safe-workplace-dashboard|Safe Workplace Dashboard]]
-- [[employee-travel-safety|Employee Travel Safety]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[emergency-exposure-management|Emergency Exposure Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Components installed with the email client, Email client, Notificat
 
 # Read-only role for email client templates \[email\_client\_template\_read\]
 
-Reads [[c_EnableTheEmailClient|email client]] templates.
+Reads email client templates.
 
 ## Contains Roles
 
@@ -28,6 +28,3 @@ None.
 
 None.
 
-## Related
-
-- [[c_EnableTheEmailClient|Email client]]

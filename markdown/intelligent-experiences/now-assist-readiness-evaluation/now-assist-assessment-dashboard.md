@@ -15,7 +15,7 @@ breadcrumb: [Using Now Assist Readiness Evaluation dashboard, Use, Now Assist Re
 
 # Now Assist assessment dashboard tab
 
-The [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] Dashboard's [[platform-now-assist-landing|Now Assist]] dashboard tab helps determine generative AI readiness for Now Assist by delivering automated, data-driven insights.
+The Now Assist Readiness Evaluation Dashboard's Now Assist dashboard tab helps determine generative AI readiness for Now Assist by delivering automated, data-driven insights.
 
 **Note:** For results to appear in this dashboard, verify that you have completed the configuration steps first. For more information on configuration, see [Configuring Now Assist Readiness Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/configuring-now-assist-readiness-evaluation.md).
 
@@ -50,7 +50,3 @@ You can select each widget on the dashboard to have that table data open in a se
 
 \[Omitted image "nare-dashboard-na-assessment.png"\] Alt text: Now Assist Assessment tab showing each area of the dashboard, all including data that is automatically populated.
 
-## Related
-
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[platform-now-assist-landing|Now Assist]]

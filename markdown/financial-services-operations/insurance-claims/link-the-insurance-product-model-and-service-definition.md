@@ -14,7 +14,7 @@ breadcrumb: [Creating a service definition for Insurance claims, Configure, Insu
 
 # Link the insurance product model and claim case service definition
 
-Link the insurance product model and claim case service definition by using the [[insurance-claims-flow|Insurance claims]] application. Without this link, the system doesn’t know which policies are relevant to the case service definition.
+Link the insurance product model and claim case service definition by using the Insurance claims application. Without this link, the system doesn’t know which policies are relevant to the case service definition.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Associate another product model by repeating steps 3–5.
 
 **Parent Topic:**[Creating a service definition for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-service-definitions-for-insurance-claims.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

@@ -20,17 +20,17 @@ With the GCP Monitoring Technology Dashboard, you can monitor the health and per
 
 The GCP Monitoring Technology Dashboard shows the five CIs and servers with the highest metric readouts during the past six hours. The dashboard also shows the 50 most recent active alerts in your GCP environment.
 
-To view the dashboard, navigate to **All** &gt; **AIOps [[otto-aiops-dashboards|Dashboards]]** &gt; **Monitoring Technology Dashboards** and select **GCP Monitoring**.
+To view the dashboard, navigate to **All** &gt; **AIOps Dashboards** &gt; **Monitoring Technology Dashboards** and select **GCP Monitoring**.
 
 ## Using the Monitoring Technology Dashboard for GCP
 
 Before using the Monitoring Technology Dashboard for GCP:
 
--   Create a GCP credential and use it to create a [[r-discovery|Discovery]] schedule. For details on creating GCP credentials, see [Discovery for Google Cloud Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md).
+-   Create a GCP credential and use it to create a Discovery schedule. For details on creating GCP credentials, see [Discovery for Google Cloud Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md).
 -   Create a Discovery schedule, using the credential created in the previous step. For details on creating a Discovery schedule, see [Discovery for Google Cloud Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md).
--   Ensure that you’re working in the [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] scope in your ServiceNow instance.
+-   Ensure that you’re working in the Agent Client Collector Monitoring scope in your ServiceNow instance.
 -   Ensure that the agent\_client\_collector\_admin and dashboard\_admin roles are enabled.
--   Enable [[operational-metrics|Metric Intelligence]] on the MID Server.
+-   Enable Metric Intelligence on the MID Server.
 -   Ensure that the **GCP GCE Metrics** policy is enabled.
 
     Enabling this policy activates metric to CI mapping.
@@ -57,9 +57,3 @@ You can customize the appearance of the individual widgets on the GCP Monitoring
 
 **Parent Topic:**[Understanding the Monitoring Technology Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/monitor-tech-dashboard-concept.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r-discovery|Discovery]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[operational-metrics|Metric Intelligence]]

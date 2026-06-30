@@ -14,7 +14,7 @@ breadcrumb: [Configuring Embedded Help, Embedded Help, In-product help, Adoption
 
 # Add custom Embedded Help from a copy
 
-To customize [[embedded-help|embedded help]] for your organization, you can edit a topic in the base system and save it as a copy.
+To customize embedded help for your organization, you can edit a topic in the base system and save it as a copy.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In base system topics, the read-only **ServiceNow Help** check box is selected. 
 
 When a user navigates to a UI page for which custom content exists, the custom content displays instead of the base system content.
 
-**Note:** Embedded help records are also used to create content for the [[help-center|Help Center]] within a configurable workspace. For more information, see [Create Help Center content for configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/create-help-center-content.md).
+**Note:** Embedded help records are also used to create content for the Help Center within a configurable workspace. For more information, see [Create Help Center content for configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/create-help-center-content.md).
 
 ## Procedure
 
@@ -69,7 +69,7 @@ Mode
 </td><td>
 
 -   **Normal** content appears for any user with the appropriate role who navigates to the page.
--   **Setup** content appears when the page is accessed from a link in [[guided-setup|Guided Setup]].
+-   **Setup** content appears when the page is accessed from a link in Guided Setup.
 
 
 </td></tr><tr><td>
@@ -154,8 +154,3 @@ Specify the domain this content is used for, if applicable.This field appears in
 
 **Parent Topic:**[Configuring Embedded Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/configuring-embedded-help.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]
-- [[help-center|Help Center]]
-- [[guided-setup|Guided Setup]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Commonly used network asset instance configuration fields
 
-These fields, listed in alphabetic order, are common to some or most of the Configuration sections in the [[telecom-network-inventory|Telecommunications Network Inventory]] forms. The ServiceNow AI Platform uses them to configure individual network assets when you define your network asset instances.
+These fields, listed in alphabetic order, are common to some or most of the Configuration sections in the Telecommunications Network Inventory forms. The ServiceNow AI Platform uses them to configure individual network assets when you define your network asset instances.
 
 <table id="table_htp_wkd_wrb"><thead><tr><th>
 
@@ -139,6 +139,3 @@ Assigned serial number for this network asset.
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

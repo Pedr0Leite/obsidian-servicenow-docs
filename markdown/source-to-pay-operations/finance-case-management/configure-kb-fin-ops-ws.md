@@ -37,7 +37,7 @@ Role required: admin
 
 2.  Select the knowledge base that you want to configure.
 
-    For example, select **[[fin-case-mgmt-landing-page|Finance Case Management]] Knowledge base**.
+    For example, select **Finance Case Management Knowledge base**.
 
 3.  On the Can Read related list, select **Edit**.
 
@@ -74,6 +74,4 @@ Role required: admin
 
     A confirmation message appears, notifying you that the article is published.
 
-## Related
 
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

@@ -15,7 +15,7 @@ breadcrumb: [Additional data input setup tasks, Set up data inputs manually, Set
 
 # Delete a log source in Health Log Analytics
 
-Delete a log source with or without its associated log data in [[hla-landing-page|Health Log Analytics]].
+Delete a log source with or without its associated log data in Health Log Analytics.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ When you delete a log source, Health Log Analytics automatically deletes its rel
 
 **Parent Topic:**[Additional data input setup tasks in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-extra.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

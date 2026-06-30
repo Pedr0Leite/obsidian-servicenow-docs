@@ -12,7 +12,7 @@ breadcrumb: [Installed products, Configure install base, Configure product data,
 
 # Import installed products with guided setup
 
-[[installed-products|Installed products]] provide information on the [[sold-product|sold products]] and how they are deployed or installed. Import installed products to create an association between sold products and [[install-base-item|install base items]].
+Installed products provide information on the sold products and how they are deployed or installed. Import installed products to create an association between sold products and install base items.
 
 ## Before you begin
 
@@ -32,8 +32,4 @@ Role required: csm\_guided\_setup\_user or admin
 
 6.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[installed-products|Installed products]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

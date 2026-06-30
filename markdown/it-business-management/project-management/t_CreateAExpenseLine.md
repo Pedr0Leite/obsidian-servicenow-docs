@@ -20,15 +20,15 @@ A project expense line is cost associated with a specific source, such as a user
 
 Role required: it\_project\_manager
 
-Application required: [[c_ProjectPortfolioSuite|Project Portfolio Management]] with Financials
+Application required: Project Portfolio Management with Financials
 
 ## About this task
 
-Only processed expense lines are considered for projects, [[t_CreateAProjectTask|project tasks]], and demands. You can create multiple expense lines for a project or demand.
+Only processed expense lines are considered for projects, project tasks, and demands. You can create multiple expense lines for a project or demand.
 
 ## Procedure
 
-1.  Open the [[create-a-project-form|project form]].
+1.  Open the project form.
 
 2.  In the related lists, select **Cost Plans**.
 
@@ -72,7 +72,7 @@ If you create an expense line without populating the **Cost Plan** field, a [sys
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create and manage waterfall projects]()
 
@@ -104,9 +104,3 @@ If you create an expense line without populating the **Cost Plan** field, a [sys
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]
-- [[c_ResourcePlans|Resource plans]]

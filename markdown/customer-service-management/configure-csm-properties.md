@@ -12,9 +12,9 @@ breadcrumb: [Getting started with Customer Service Management, Set up your envir
 
 # Customer Service properties
 
-Use system properties to customize the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Use system properties to customize the Customer Service Management application.
 
-These properties control settings for several different features, including email communication, asset [[c_ContactRelationships|contact relationships]], and the Consumer Service Portal.
+These properties control settings for several different features, including email communication, asset contact relationships, and the Consumer Service Portal.
 
 To access these properties, navigate to **Customer Service** &gt; **Administration** &gt; **Properties**.
 
@@ -23,13 +23,7 @@ You can also access Customer Service Management properties using the system prop
 **Related topics**  
 
 
-[[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
+[Properties installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md)
 
-[[inst-wi-cust-serv-addtl-plugins|Components installed with additional plugins for Customer Service Management]]
+[Components installed with additional plugins for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/inst-wi-cust-serv-addtl-plugins.md)
 
-## Related
-
-- [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
-- [[inst-wi-cust-serv-addtl-plugins|Components installed with additional plugins for Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[c_ContactRelationships|Contact relationships]]

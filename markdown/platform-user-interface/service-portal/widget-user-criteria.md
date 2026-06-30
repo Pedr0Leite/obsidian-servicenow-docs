@@ -18,7 +18,7 @@ Assign user criteria to pages, widgets, or widget instances to limit user access
 
 ## Before you begin
 
-Activate the [[c_ServicePortal|Service Portal]] User Criteria Support \(com.glide.service-portal.user-criteria\) plugin and set the **glide.service\_portal.user\_criteria\_enabled** system property to **true**.
+Activate the Service Portal User Criteria Support \(com.glide.service-portal.user-criteria\) plugin and set the **glide.service\_portal.user\_criteria\_enabled** system property to **true**.
 
 Role required: admin or sp\_admin
 
@@ -28,13 +28,13 @@ You can apply several user criteria records to a single portal item.
 
 ## Procedure
 
-1.  In the [[service-portal-configuration-page|Service Portal Configuration page]] \(**Service Portal** &gt; **Service Portal Configuration**\), open the Page Editor.
+1.  In the Service Portal Configuration page \(**Service Portal** &gt; **Service Portal Configuration**\), open the Page Editor.
 
 2.  Select a page from the list.
 
 3.  Select a page, widget, or widget instance node from the page tree.
 
-4.  Under [[c_RelatedLists|related lists]], click **Who Can View** or **Who Cannot View**.
+4.  Under related lists, click **Who Can View** or **Who Cannot View**.
 
 5.  Click **New**.
 
@@ -47,8 +47,3 @@ You can apply several user criteria records to a single portal item.
 
 **Parent Topic:**[User criteria for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[service-portal-configuration-page|Service Portal configuration page]]
-- [[c_RelatedLists|Related lists]]

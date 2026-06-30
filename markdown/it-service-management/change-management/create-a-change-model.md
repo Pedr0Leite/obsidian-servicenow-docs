@@ -14,7 +14,7 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Create a Change model
 
-Create change [[c_Models|models]] to configure the states and transitions to match your organization's change processes.
+Create change models to configure the states and transitions to match your organization's change processes.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Color
 
 </td><td>
 
-Color that appears on the side of the change model bar on the **Models** tab in the change [[dex-workspace-dashboard-tab|landing page]].
+Color that appears on the side of the change model bar on the **Models** tab in the change landing page.
 
 </td></tr><tr><td>
 
@@ -167,7 +167,7 @@ Roles to edit the change model.
 
     4.  Select **Submit**.
 
-6.  In the **Template Management** tab, provide information regarding the [[change-templates|change templates]] associated with the change model.
+6.  In the **Template Management** tab, provide information regarding the change templates associated with the change model.
 
 <table id="table_wr2_xb1_g3c"><thead><tr><th>
 
@@ -226,8 +226,3 @@ Create, customize, and then propose for publication a change template aligned to
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[change-templates|Change templates]]

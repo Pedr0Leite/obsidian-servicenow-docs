@@ -44,8 +44,5 @@ For indicator scores above 10,000, the score is rounded off and displayed with u
 
 Y-axis values plotted on a line or column chart are not rounded. The score and tooltip displayed when you point to a value on the chart are rounded based on the indicator **Precision**.
 
-**Note:** In [[formula-indicators|formula indicators]], rounding applies only to the formula result. Values within the formula are not rounded.
+**Note:** In formula indicators, rounding applies only to the formula result. Values within the formula are not rounded.
 
-## Related
-
-- [[formula-indicators|Formula indicators]]

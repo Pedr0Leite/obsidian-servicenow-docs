@@ -26,21 +26,17 @@ As a provider, you can:
 
 <table id="table_k52_dyx_yxb" class="nav-card"><tbody><tr><td>
 
-[Configure for providers\[Omitted image "bus-optimize-manage-sb.svg"\]Learn how to install and [[service-bridge-v2-configure-provider|configure Service Exchange for providers]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-provider.md)
+[Configure for providers\[Omitted image "bus-optimize-manage-sb.svg"\]Learn how to install and configure Service Exchange for providers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-provider.md)
 
 </td><td>
 
 [Use for providers\[Omitted image "bus-try-a-demo.svg"\] Alt text:Learn how to use Service Exchange for providers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
 </td></tr></tbody>
-</table>If you’re a consumer, see [[service-bridge-consumers-landing-page|Service Exchange for Consumers]].
+</table>If you’re a consumer, see [Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-consumers-landing-page.md).
 
 **Related topics**  
 
 
 [Service Exchange for Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-consumers-landing-page.md)
 
-## Related
-
-- [[service-bridge-consumers-landing-page|Service Exchange for Consumers]]
-- [[service-bridge-v2-configure-provider|Configure Service Exchange for Providers]]

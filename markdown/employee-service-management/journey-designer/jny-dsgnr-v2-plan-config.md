@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey designer, Employee Journey Management, HR Servic
 
 # Journey designer version 2 plan configuration fields
 
-These fields are for [[jny-dsgnr-landing-page-1|Journey designer]] version 2 plan configurations.
+These fields are for Journey designer version 2 plan configurations.
 
 <table id="table_msg_jfl_bwb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Description
 
 </td><td>
 
-The title of the plan configuration that is visible in the [[employee-center-landing-page|Employee Center]].
+The title of the plan configuration that is visible in the Employee Center.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ A published plan configuration is active. If **Active** is selected, it’s avai
 
 </td></tr><tr><td>
 
-**[[journey-accelerator-1|Journey Accelerator]] plan type**
+**Journey Accelerator plan type**
 
 </td><td>
 
@@ -93,8 +93,3 @@ A Journey designer plan configuration must be associated with a Journey Accelera
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]

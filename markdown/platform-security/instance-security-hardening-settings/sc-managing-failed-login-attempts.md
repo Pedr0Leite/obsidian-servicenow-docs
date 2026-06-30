@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -51,7 +51,7 @@ Configuration type
 </td><td>
 
 -   Script Action \(/sysevent\_script\_action.do\)
--   [[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+-   System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -102,7 +102,7 @@ Security risk
 
 -   Severity score: 7.3
 -   CVSS rating: High
--   Security risk details: Allowing more attempts gives attackers additional opportunities to guess passwords, increasing the likelihood of unauthorized access and credential compromise. Proper lockout configuration is critical to maintaining strong [[c_Authentication|authentication]] security.
+-   Security risk details: Allowing more attempts gives attackers additional opportunities to guess passwords, increasing the likelihood of unauthorized access and credential compromise. Proper lockout configuration is critical to maintaining strong authentication security.
 
 </td></tr><tr><td>
 
@@ -123,8 +123,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_Authentication|Authentication]]

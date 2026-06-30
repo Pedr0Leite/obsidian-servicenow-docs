@@ -14,7 +14,7 @@ breadcrumb: [Freeform Visual Task Boards, Creating Visual Task Boards, Using Vis
 
 # Create a freeform Visual Task Board
 
-You can create [[c_FreeformBoardTasks|freeform Visual Task Boards]] \(VTBs\) for tracking any kind of task or project.
+You can create freeform Visual Task Boards \(VTBs\) for tracking any kind of task or project.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Next to My Task Boards, click **New**, or if you have never created a task board before, click **Create New Visual Task Board**.
 
@@ -41,7 +41,3 @@ Role required: none
 
 **Parent Topic:**[Freeform Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/c_FreeformBoardTasks.md)
 
-## Related
-
-- [[c_FreeformBoardTasks|Freeform Visual Task Boards]]
-- [[c_VisualTaskBoards|Visual Task Boards]]

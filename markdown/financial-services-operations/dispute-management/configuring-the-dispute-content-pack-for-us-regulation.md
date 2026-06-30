@@ -14,7 +14,7 @@ breadcrumb: [Dispute Content Pack for US Regulations, Dispute Management, Bankin
 
 # Configuring the Dispute Content Pack for US Regulations
 
-[[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] includes predefined Service Level Agreement \(SLA\) definitions that align with Regulation E and Regulation Z. SLA durations are calculated from key dates such as the dispute reported date, task creation date, statement date, and billing cycle date.
+Dispute Content Pack for US Regulations includes predefined Service Level Agreement \(SLA\) definitions that align with Regulation E and Regulation Z. SLA durations are calculated from key dates such as the dispute reported date, task creation date, statement date, and billing cycle date.
 
 ## Service Level Agreement definitions
 
@@ -37,6 +37,3 @@ For a full list of the predefined SLA definitions in Dispute Content Pack for US
 
 **Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md)
 
-## Related
-
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]

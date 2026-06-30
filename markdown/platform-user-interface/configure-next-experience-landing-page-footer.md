@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include [[lists-configurable-workspace|lists]], Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
+Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include lists, Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
 
-The footer is hidden by default. To [[configure-onboarding-modals|configure]] the footer, you enable it in UI Builder and then edit the link set components.
+The footer is hidden by default. To configure the footer, you enable it in UI Builder and then edit the link set components.
 
 ## Procedure
 
@@ -59,10 +59,5 @@ The footer is hidden by default. To [[configure-onboarding-modals|configure]] th
     For more information, see [Link set UIB Setup](https://developer.servicenow.com/dev.do#!/reference/now-experience/rome/shared-components/now-link-set/uib-setup) in the ServiceNow Developer documentation.
 
 
-**Parent Topic:**[[next-experience-landing-pages|Next Experience landing pages]]
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-pages.md)
 
-## Related
-
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[lists-configurable-workspace|Lists]]
-- [[configure-onboarding-modals|Configure]]

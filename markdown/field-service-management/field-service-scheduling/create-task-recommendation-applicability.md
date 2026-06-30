@@ -22,7 +22,7 @@ Role required: admin, wm\_admin, sn\_task\_recommend.task\_rec\_admin
 
 ## About this task
 
-By default, [[dispatcher-activities|Dispatcher Workspace]] and Mobile are mapped to a task recommendation policy.
+By default, Dispatcher Workspace and Mobile are mapped to a task recommendation policy.
 
 ## Procedure
 
@@ -37,7 +37,7 @@ By default, [[dispatcher-activities|Dispatcher Workspace]] and Mobile are mapped
     |Display Name|Display name of the recommendation application.|
     |Name|Name of the recommendation application.|
     |Table|Task table that is selected for the recommendation policy.|
-    |Application module|Module of the application. This field is automatically set to **[[fsm-application-landing-page|Field Service Management]]**.|
+    |Application module|Module of the application. This field is automatically set to **Field Service Management**.|
     |Active|Option to indicate whether the application is available for consideration when recommending work order tasks.|
     |Default task recommendation policy|The default task recommendation policy for this application.|
     |Application|Application that contains this record.|
@@ -52,7 +52,3 @@ By default, [[dispatcher-activities|Dispatcher Workspace]] and Mobile are mapped
 
 [Assign tasks to yourself based on Intelligent Task Recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/recommend-task-fsm-mobile.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

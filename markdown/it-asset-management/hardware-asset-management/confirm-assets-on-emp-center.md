@@ -22,7 +22,7 @@ Role required: Log in as an employee.
 
 To view the **My Assets** option on the global header navigation bar of the Employee Center portal, the value of the **enable\_assets** option must be set to **true** on the Additional options, JSON format field of the Employee Center menu record. For more details, see [Enable or disable global header options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-global-header-components.md).
 
-**Note:** The **My Assets** option requires the [[ham-landing-page|Hardware Asset Management]] application to be activated.
+**Note:** The **My Assets** option requires the Hardware Asset Management application to be activated.
 
 ## Procedure
 
@@ -39,7 +39,7 @@ To view the **My Assets** option on the global header navigation bar of the Empl
     -   View the list of assets from the Employee Profile.
         1.  Select **Profile** on the global header navigation bar of the Employee Center portal.
         2.  Select the **Assets** tab.
-    The page displays all the hardware and [[c_ReceiveAConsumableAsset|consumable assets]] assigned to you. However, you can only confirm serialized hardware assets that are opted-in.
+    The page displays all the hardware and consumable assets assigned to you. However, you can only confirm serialized hardware assets that are opted-in.
 
 2.  For the hardware asset that you want to confirm, select **Confirm asset**.
 
@@ -61,7 +61,7 @@ To view the **My Assets** option on the global header navigation bar of the Empl
 ## Result
 
 -   The **Confirm asset** option is no longer displayed for the asset.
--   The **Attestation date** field of the asset on the [[asset-attestation-ham|asset attestation]] form is updated with the actual date on which you confirmed the asset.
+-   The **Attestation date** field of the asset on the asset attestation form is updated with the actual date on which you confirmed the asset.
 -   The **State** field of the asset attestation changes from In progress to Closed complete only when that attestation has no other users and assets involved.
 -   The **Status** field of the asset on the asset attestation form is updated based on your confirmation:
     -   If you selected **Yes**, the **Status** field changes from **Open** to **Yes**.
@@ -74,8 +74,3 @@ To view the **My Assets** option on the global header navigation bar of the Empl
 
 [Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-center-landing-page.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[asset-attestation-ham|Asset Attestation]]

@@ -36,7 +36,7 @@ Group
 
 </td><td>
 
-Group for the template. Search and select a group from the list, or select **New** to [[create-a-group-so|create a group]]. **Note:** On entering or by selecting the user or group name from the list, all other fields are disabled.
+Group for the template. Search and select a group from the list, or select **New** to create a group. **Note:** On entering or by selecting the user or group name from the list, all other fields are disabled.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,3 @@ Appropriate member type for the service organization criteria. **Note:** This fi
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-a-group-so|Create a group]]

@@ -14,22 +14,15 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 You can configure the BCM properties in the **Properties** module.
 
-If you are the [[business-continuity-mangmt-overview|Business Continuity Management]] application user, you can view the properties for the Business Continuity Management application in **Properties** in **General [[Administration|Administration]]**.
+If you are the Business Continuity Management application user, you can view the properties for the Business Continuity Management application in **Properties** in **General Administration**.
 
 You can view the **Properties** menu option in **General Administration** as shown in the example.
 
-\[Omitted image "gen-admin-module.png"\] Alt text: General [[manage-admin-portal|Administration module]].
+\[Omitted image "gen-admin-module.png"\] Alt text: General Administration module.
 
 You can select the **Properties** module to view and configure the BCM application properties as shown in the example.\[Omitted image "properties-module.png"\] Alt text: Properties module.
 
-For more information on BCM properties, see [[properties-bcm|Properties installed with BCM]].
+For more information on BCM properties, see [Properties installed with BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/properties-bcm.md).
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[properties-bcm|Properties installed with BCM]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]
-- [[manage-admin-portal|Administration module]]

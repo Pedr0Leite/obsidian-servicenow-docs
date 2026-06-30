@@ -14,7 +14,7 @@ breadcrumb: [Add or remove access to assignment groups in manager workspace, Adv
 
 # Using extension points to include access for specific groups in Workforce Optimization for ITSM manager workspace
 
-Use scripted extension points to add access for managers to view assignment groups data other than the default groups that they manage in [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] manager workspace.
+Use scripted extension points to add access for managers to view assignment groups data other than the default groups that they manage in Workforce Optimization for ITSM manager workspace.
 
 To see a list of extension points that you can use for Workforce Optimization for ITSM, navigate to **System Extension Points** &gt; **Scripted Extension Points**. In the Extension Points list, open the sn\_wfo\_common.ApplicableGroupsDefinitionManager extension point.
 
@@ -31,6 +31,3 @@ Use scripted extension points to integrate customizations without altering the c
 
 [Using scripted extension points in server-side scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/scripted-extension-points.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

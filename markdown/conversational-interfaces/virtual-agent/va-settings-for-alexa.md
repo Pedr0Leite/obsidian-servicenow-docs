@@ -14,7 +14,7 @@ breadcrumb: [Configure Conversational Integration with Alexa, Conversational Int
 
 # Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience
 
-Fine-tune your [[virtual-agent-landing-page|Virtual Agent]] settings and topics provided by the Virtual Agent Designer for the best voice chat experience with Alexa.
+Fine-tune your Virtual Agent settings and topics provided by the Virtual Agent Designer for the best voice chat experience with Alexa.
 
 -   Virtual Agent Designer is a diagram tool for creating and managing topics, which are blueprints for conversation between a Virtual Agent and a user. For more information, see [Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
 
@@ -42,7 +42,7 @@ Fine-tune your [[virtual-agent-landing-page|Virtual Agent]] settings and topics 
 
     **Note:** On the screen-based Alexa enabled devices, the presentation of cards and images has limitations as per the Alexa skill kit specification.
 
-    The [[conv-integ-alexa|Conversational Integration with Alexa]] application supports the following user input controls in Virtual Agent Designer.
+    The Conversational Integration with Alexa application supports the following user input controls in Virtual Agent Designer.
 
     **Note:** Conversational Integration with Alexa also supports touch input for screen-based devices.
 
@@ -273,7 +273,3 @@ Use the contextual actions supported by Conversational Integration with Alexa to
 
 **Parent Topic:**[Configure Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-amazon-alexa.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[conv-integ-alexa|Conversational Integration with Alexa]]

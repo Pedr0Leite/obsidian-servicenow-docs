@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Add or create an issue
 
-Add an existing issue from the available issues or create an issue for the [[exploring-op-vul|Operational vulnerability]].
+Add an existing issue from the available issues or create an issue for the Operational vulnerability.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ While addressing the Operational vulnerability, an issue can be in the open stat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Open the vulnerability for which you want to add an issue.
 
@@ -55,7 +55,7 @@ Action
 
 </td><td>
 
-Create an issue. Follow the steps in the [[create-new-issue-opres-ws|Create New Issue form]].
+Create an issue. Follow the steps in the [Create New Issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-issue-opres-ws.md).
 
 </td></tr></tbody>
 </table>4.  Select **Save**.
@@ -64,8 +64,4 @@ Create an issue. Follow the steps in the [[create-new-issue-opres-ws|Create New 
 
     The vulnerability record is still in the **Assessment** state.
 
-## Related
 
-- [[create-new-issue-opres-ws|Create New Issue form]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Invention Disclosure, Legal Service Delivery Pract
 
 # Legal Invention Disclosure form
 
-List of fields in the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request in the Legal Service Portal.
+List of fields in the Legal Invention Disclosure request in the Legal Service Portal.
 
 <table id="table_sjz_dhn_fyb"><thead><tr><th>
 
@@ -93,6 +93,3 @@ Indicates whether the invention is already used anywhere. If the choice is **Yes
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Invention Disclosure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-reference.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

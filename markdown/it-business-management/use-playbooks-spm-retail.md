@@ -21,17 +21,17 @@ Role required: sn\_spm\_retail.project\_manager
 
 ## About this task
 
-A playbook defines the stages of a retail store project and includes action items to complete at each stage. The [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]], includes predefined playbooks for each store life cycle scenario and is triggered automatically when a project is created. For more information about the available playbooks, see [[playbooks-spm-retail-suite|Explore playbooks for retail projects]].
+A playbook defines the stages of a retail store project and includes action items to complete at each stage. The Retail Strategic Portfolio Management Suite, includes predefined playbooks for each store life cycle scenario and is triggered automatically when a project is created. For more information about the available playbooks, see [Explore playbooks for retail projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/playbooks-spm-retail-suite.md).
 
 **Note:** The playbook presents project information in a guided, stage-based workflow.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Project Workspace**.
 
 2.  Open an existing retail project or create one.
 
-    For more information on creating retail projects, see [[spmr-create-retail-projects|Create a retail project]].
+    For more information on creating retail projects, see [Create a retail project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spmr-create-retail-projects.md).
 
 3.  Select **Playbooks** from the L-2 \(level 2\) navigation menu.
 
@@ -64,9 +64,3 @@ A playbook defines the stages of a retail store project and includes action item
 
 [Designing Playbook Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-experience-admins.md)
 
-## Related
-
-- [[playbooks-spm-retail-suite|Explore playbooks for retail projects]]
-- [[spmr-create-retail-projects|Create a retail project]]
-- [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]
-- [[project-workspace-landing-page|Project Workspace]]

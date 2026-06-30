@@ -39,8 +39,5 @@ Connect to an instance using the browser on your tablet for an experience simila
 -   Printer friendly view: This view, which shows the current screen in a pop-up window without frames and the application navigator, is not available from the tablet.
 -   Timeline sliders and the Timeline Metrics UI actions: Features that use timelines, such as the workflow timeline and the Gantt chart are not supported from the tablet.
 
-**Parent Topic:**[[mobile-access-options|Accessing an instance on a mobile device web browser]]
+**Parent Topic:**[Accessing an instance on a mobile device web browser](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-access-options.md)
 
-## Related
-
-- [[mobile-access-options|Accessing an instance on a mobile device web browser]]

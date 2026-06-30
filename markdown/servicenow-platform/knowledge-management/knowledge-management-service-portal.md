@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Configure the Knowledge Management Service Portal
 
-The [[knowledge-management|Knowledge Management]] Service Portal enables users to perform the same operations that are available with the Knowledge Management V3 plugin. From the portal, users can view knowledge bases and articles, search for information, sort and filter search results, and provide feedback.
+The Knowledge Management Service Portal enables users to perform the same operations that are available with the Knowledge Management V3 plugin. From the portal, users can view knowledge bases and articles, search for information, sort and filter search results, and provide feedback.
 
 -   For new customers on the Madrid and later releases, the Knowledge Management Service Portal plugin \(com.snc.knowledge\_serviceportal\) is active by default.
 -   For existing customers on release versions prior to Madrid, activate the plugin, if required.
@@ -64,6 +64,3 @@ Enable and define the AI Search experience in Knowledge Management Service Porta
 
 [Import a Word document to a knowledge base using Knowledge Management v3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_ImportADocument.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

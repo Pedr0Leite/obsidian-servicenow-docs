@@ -12,7 +12,7 @@ breadcrumb: [Using customer access management, Customer management, Use, Custome
 
 # Restrict contact access
 
-Restrict contact access to [[sold-product|sold products]] and install bases by limiting the access for associated contacts and their access levels for customer access management.
+Restrict contact access to sold products and install bases by limiting the access for associated contacts and their access levels for customer access management.
 
 ## Before you begin
 
@@ -76,9 +76,5 @@ Access that is restricted to entities based on associated contacts.
 **Related topics**  
 
 
-[[adding-additional-contacts-soldproduct|Add additional contacts for the sold product]]
+[Add additional contacts for the sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-additional-contacts-soldproduct.md)
 
-## Related
-
-- [[adding-additional-contacts-soldproduct|Add additional contacts for the sold product]]
-- [[sold-product|Sold products]]

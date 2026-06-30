@@ -14,11 +14,11 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Overview tab
 
-Use the Overview tab to view key indicators that help you evaluate the performance of [[virtual-agent-landing-page|Virtual Agent]].
+Use the Overview tab to view key indicators that help you evaluate the performance of Virtual Agent.
 
 The **Overview** tab is the landing page for the dashboard. The visualizations in the **Overview** tab are important indicators of how VA is performing. You must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role to use the **Overview** tab.
 
-**Note:** [[now-assist-in-va-landing|Now Assist in Virtual Agent]] Analytics appears in the left navigation only when you have [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md) enabled.
+**Note:** Now Assist in Virtual Agent Analytics appears in the left navigation only when you have [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md) enabled.
 
 \[Omitted image "vaa-next-exp-overview-pae.png"\] Alt text: Virtual agent analytics dashboard overview tab
 
@@ -157,7 +157,3 @@ Number of conversations that have ended in the out-of-the-box conversation end s
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]

@@ -16,7 +16,7 @@ breadcrumb: [Migrate target breakdowns, Configuring goals in Strategic Planning,
 
 As an administrator, when you run the **Migrate BreakdownInterval To Checkinfrequency** scheduled job, the existing values in the **Review frequency** and **Breakdown interval** fields are migrated to the **Check-in frequency** field in the target records.
 
-The value in the **Actuals to date** field for the target and values in the **Planned target value** and **Actual** fields for the [[target-breakdowns-gf|target breakdowns]] are populated based on the current actual value of the target and values in the existing target breakdowns.
+The value in the **Actuals to date** field for the target and values in the **Planned target value** and **Actual** fields for the target breakdowns are populated based on the current actual value of the target and values in the existing target breakdowns.
 
 ## Target breakdowns migration for targets with breakdown interval set to None
 
@@ -158,6 +158,3 @@ In this case, after running the scheduled job 8 quarterly breakdowns are created
 
 **Parent Topic:**[Migrate target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/migrate-target-breakdowns-spw.md)
 
-## Related
-
-- [[target-breakdowns-gf|Target breakdowns]]

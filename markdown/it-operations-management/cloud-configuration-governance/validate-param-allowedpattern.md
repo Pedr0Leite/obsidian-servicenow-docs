@@ -26,7 +26,7 @@ You can provide rules to validate a parameter value before sending the provision
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Templates**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Templates**.
 
 2.  Select a template or click **New** to create a new cloud template.
 
@@ -76,6 +76,4 @@ You can provide rules to validate a parameter value before sending the provision
 
 4.  Click **Submit**.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

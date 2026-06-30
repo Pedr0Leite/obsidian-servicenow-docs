@@ -24,12 +24,10 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Alert Correlation Properties**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **Alert Correlation Properties**.
 
 2.  Clear that check box for the property Enable Network Traffic correlation \(**sa\_analytics.agg.query\_network\_traffic\_correlation\_enabled**\).
 
 3.  Set the property **sa\_analytics.enable\_process\_mapping\_calculation** to false.
 
-## Related
 
-- [[c_EM|Event Management]]

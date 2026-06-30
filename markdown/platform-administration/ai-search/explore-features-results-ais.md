@@ -14,11 +14,11 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Display relevant and actionable search results
 
-[[ia-ai-search|AI Search]] provides users with clear answers for their search queries.
+AI Search provides users with clear answers for their search queries.
 
 -   **Hit highlighting**
 
-    AI Search highlights search query terms that appear in search [[hs-results|results]]. This highlighting enables users to see which query terms contributed to record matches.
+    AI Search highlights search query terms that appear in search results. This highlighting enables users to see which query terms contributed to record matches.
 
 -   **Display the most relevant results first with machine learning relevancy**
 
@@ -28,23 +28,16 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 -   **Display the best answers as actionable Genius Result cards**
 
-    Configure [[genius-results-ais|Genius Results]] to analyze search query intent and put the best answers first. Search users can read a Knowledge article, view a user's profile or organization chart, or request a Catalog Item directly from a Genius Result answer card.
+    Configure Genius Results to analyze search query intent and put the best answers first. Search users can read a Knowledge article, view a user's profile or organization chart, or request a Catalog Item directly from a Genius Result answer card.
 
-    Search administrators can link Genius Results to search profiles, modify their settings, and create new [[clone-configurations-tab|configurations]]. To learn more about Genius Results configurations, see [Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md).
+    Search administrators can link Genius Results to search profiles, modify their settings, and create new configurations. To learn more about Genius Results configurations, see [Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md).
 
 -   **Boost, block, or promote search results**
 
-    Define [[result-improvement-rules-ais|result improvement rules]] with configurable trigger conditions. A rule can boost search result relevancy based on the search query or user context, or can block or promote specific results for a particular search query.
+    Define result improvement rules with configurable trigger conditions. A rule can boost search result relevancy based on the search query or user context, or can block or promote specific results for a particular search query.
 
     Search administrators define result improvement rules in search profiles. For details on creating rules and configuring their boost, block, or promote actions, see [Result improvement rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/result-improvement-rules-ais.md). AI Search supports result improvement rules for Arabic, Brazilian Portuguese, Czech, Danish, Dutch, English, Finnish, French, French - Canada, German, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian \(Bokmål\), Polish, Portuguese, Russian, Simplified Chinese, Spanish, Swedish, Traditional Chinese, and Turkish search queries.
 
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[genius-results-ais|Genius Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[result-improvement-rules-ais|Result improvement rules]]

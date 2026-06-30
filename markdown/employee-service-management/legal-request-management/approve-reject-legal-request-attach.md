@@ -24,7 +24,7 @@ Role required: approver\_user and legal\_user
 
 ## Procedure
 
-1.  Open the approval record from the email notification, [[legal-counsel-center-landing|Legal Counsel Center]], Self-Service, or [[employee-center-landing-page|Employee Center]] portal.
+1.  Open the approval record from the email notification, Legal Counsel Center, Self-Service, or Employee Center portal.
 
 <table id="choicetable_ix4_gbl_trb"><thead><tr><th align="left" id="d455291e59">
 
@@ -119,7 +119,3 @@ If the requested item was assigned to a user group for approval, then the state 
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[employee-center-landing-page|Employee Center]]

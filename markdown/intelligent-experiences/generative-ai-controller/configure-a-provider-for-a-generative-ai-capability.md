@@ -14,7 +14,7 @@ breadcrumb: [Configuring Generative AI Controller, Generative AI Controller, Now
 
 # Set a provider for a generative AI capability
 
-Determine which AI provider to use for each of the generative AI capabilities of [[generative-ai-controller|Generative AI Controller]].
+Determine which AI provider to use for each of the generative AI capabilities of Generative AI Controller.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: admin
 
 ## About this task
 
-Generative AI Controller comes with four capabilities by default. You can only configure a provider for the capabilities listed in the table in step 2. If you have installed other [[platform-now-assist-landing|Now Assist]] applications, you may see other capabilities on the OneExtend Capability table. Those other capabilities use the Now LLM Service as their provider and can't be reconfigured.
+Generative AI Controller comes with four capabilities by default. You can only configure a provider for the capabilities listed in the table in step 2. If you have installed other Now Assist applications, you may see other capabilities on the OneExtend Capability table. Those other capabilities use the Now LLM Service as their provider and can't be reconfigured.
 
 ## Procedure
 
-1.  In the [[now-assist-global-navigation|navigation]] filter, search for the OneExtend Capability table by entering `sys_one_extend_capability.list`.
+1.  In the navigation filter, search for the OneExtend Capability table by entering `sys_one_extend_capability.list`.
 
 2.  Open the record for the capability that you would like to configure, such as Sentiment Analysis.
 
@@ -158,8 +158,3 @@ Flows, topics, and scripts that use the generative AI capability use the provide
 
 [Configure a custom resource path for BYOK models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-custom-resource-path-byok.md)
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]

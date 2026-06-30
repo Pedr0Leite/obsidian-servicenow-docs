@@ -14,7 +14,7 @@ breadcrumb: [Set up Virtual Agent for Universal Request, Configuring Universal R
 
 # Enable Natural Language Understanding model for Universal Request topic
 
-Apply the Natural Language Understanding vocabulary in the [[ur-landing-limitedaccess|Universal Request]] application to help the system to understand human-expressed language.
+Apply the Natural Language Understanding vocabulary in the Universal Request application to help the system to understand human-expressed language.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ To use the Universal Request topic for your chatbot conversations, select and en
 
 **Parent Topic:**[Set up Virtual Agent for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-virtual-agent-setup.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

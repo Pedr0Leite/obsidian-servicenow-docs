@@ -26,11 +26,11 @@ Before you can move your employee documents from your source document repository
 
 -   Identify the type of repository you are pulling documents from.
 -   Identify the URL and credentials from the repository you are pulling documents from. Or, identify the directory you are pulling documents from.
--   Test to make sure that there is communication from your source repository and [[hr-employee-doc-management|Employee Document Management]].
+-   Test to make sure that there is communication from your source repository and Employee Document Management.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Bulk Import** &gt; **Import Configuration**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Bulk Import** &gt; **Import Configuration**.
 
 2.  Fill in the fields on the form.
 
@@ -697,7 +697,4 @@ The subflow, flow action, workflow, or script that launches the source step base
 
 7.  Reload the form to see if the Stage import step completed and have a state of **Complete**.
 
-## Related
 
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

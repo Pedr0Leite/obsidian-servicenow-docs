@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Administrators can [[configure-onboarding-modals|configure]] [[attachments-configurable-workspace|attachments]] and how they work in the system. For more information, see [Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md).
+Administrators can configure attachments and how they work in the system. For more information, see [Administering attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringAttachments.md).
 
 The default maximum size limit for an attachment file that can be added to a record on the ServiceNow AI Platform is 1024MB for a new out-of-box instance. If the field is left blank the default limit \(currently set at 1GB\) will be used as the maximum attachment file size.
 
@@ -57,7 +57,7 @@ The default maximum size limit for an attachment file that can be added to a rec
 
         **Note:** The default setting for this property on an out-of-box instance is No \(unchecked\).
 
-    3.  For a file size error, see [[t_ManagingAttachments|Manage attachments]].
+    3.  For a file size error, see [Manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ManagingAttachments.md).
 
 7.  Close the pop-up window to return to the form.
 
@@ -68,15 +68,8 @@ Limit the users who can view attachments by applying ACL rules. For more informa
 
 -   **[Manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ManagingAttachments.md)**  
 View, rename, and remove the attachments on a record and adjust the maximum allowable size of attachments.
--   **[[t_AttachingFilesWithDragAndDrop|Attach files with drag-and-drop]]**  
+-   **[Attach files with drag-and-drop](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AttachingFilesWithDragAndDrop.md)**  
 You can drag files from your local computer into your browser window to attach them to the current record.
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
-## Related
-
-- [[t_ManagingAttachments|Manage attachments]]
-- [[t_AttachingFilesWithDragAndDrop|Attach files with drag-and-drop]]
-- [[c_UsingForms|Forms in the classic environment]]
-- [[configure-onboarding-modals|Configure]]
-- [[attachments-configurable-workspace|Attachments]]

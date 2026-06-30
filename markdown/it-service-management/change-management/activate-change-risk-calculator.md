@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -51,7 +51,7 @@ Several types of components are installed with the Best Practice- Change Risk Ca
 
 [Activate Business Stakeholder]()
 
-[Activate [[c_ITILChangeManagement|Change Management]] - State Model]()
+[Activate Change Management - State Model]()
 
 [Activate Change Management - Collision Detector]()
 
@@ -91,7 +91,3 @@ Several types of components are installed with the Best Practice- Change Risk Ca
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ITILChangeManagement|Change Management]]

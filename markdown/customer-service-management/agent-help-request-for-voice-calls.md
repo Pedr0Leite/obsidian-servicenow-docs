@@ -26,7 +26,7 @@ The following are some key functionality:
 -   View supervisor name and phone number with clear **Coaching** or **Barge In** labels
 -   Track help-request metrics including reason, frequency, duration, and supervisor involvement
 -   Automatically cancel help requests when completing Consult or Blind transfer actions
--   Configure [[ccaas-phone-directory|phone directory]] to show or hide Agents, Queues, or External tabs based on CCaaS provider settings. Agents see tabs enabled by the CCaaS provider, preventing transfers to unsupported numbers.
+-   Configure phone directory to show or hide Agents, Queues, or External tabs based on CCaaS provider settings. Agents see tabs enabled by the CCaaS provider, preventing transfers to unsupported numbers.
 -   While handling a customer call, agents can now see accurate availability status for other agents, supporting informed transfer decisions. Agent availability status updates in the transfer list and phone directory in real-time during call transfers.
 
 ## Dependencies
@@ -101,6 +101,3 @@ Supervisors can follow these steps to participate in a voice call when an issue 
 
 **Note:** Once a voice connection has been established with an Interaction, the supervisor can go through all or one of the preceding actions. An action must be completed before attempting a new one.
 
-## Related
-
-- [[ccaas-phone-directory|Phone directory]]

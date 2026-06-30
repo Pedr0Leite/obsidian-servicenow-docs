@@ -14,7 +14,7 @@ breadcrumb: [Customizing map configuration for your Jira projects, Setting up th
 
 # Create a business rule to apply a custom Agile Development 2.0 table map configuration
 
-Create a business rule to enable export from your new custom [[agile-landing-page|Agile Development 2.0]] table map configuration to your Jira projects.
+Create a business rule to enable export from your new custom Agile Development 2.0 table map configuration to your Jira projects.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ Select the Agile Development 2.0 table for which you've created the custom map.F
 
 **Parent Topic:**[Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-map-configuration.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

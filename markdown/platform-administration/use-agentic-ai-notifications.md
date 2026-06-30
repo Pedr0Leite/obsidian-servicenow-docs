@@ -31,7 +31,7 @@ Available AI agents
 
 </th></tr></thead><tbody><tr><td>
 
-[[email-agentic-workflow|Intent to action]]
+[Intent to action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-agentic-workflow.md)
 
 </td><td>
 
@@ -58,9 +58,5 @@ The execution role provides the minimum required permissions to execute intents.
 
 **Email Generation for Reply Email Action**
 
-After you connect an [[ia-ai-search|AI Search]] profile to the reply-email action, users can submit queries that can be answered using the profile’s content. AI Search check the sender’s permissions and returns only the information permitted for their role.
+After you connect an AI Search profile to the reply-email action, users can submit queries that can be answered using the profile’s content. AI Search check the sender’s permissions and returns only the information permitted for their role.
 
-## Related
-
-- [[email-agentic-workflow|Email Intent to Action Agentic Workflow]]
-- [[ia-ai-search|AI Search]]

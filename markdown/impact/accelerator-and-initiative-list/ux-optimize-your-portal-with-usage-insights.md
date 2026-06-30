@@ -15,11 +15,11 @@ breadcrumb: [Architecture Accelerators, Accelerator catalog, View the Initiative
 
 # UX: Optimize Your Portal with Usage Insights
 
-This accelerator provides guidance to customers on how to measure, monitor and analyze user behavior with UX [[io-analytics|analytics]] to identify and prioritize portal improvements.
+This accelerator provides guidance to customers on how to measure, monitor and analyze user behavior with UX analytics to identify and prioritize portal improvements.
 
 ## Accelerator Overview
 
-UX: Optimize Your Portal with Usage Insights guides the [[impact-landing-page|Impact]] customers in using Usage Insights to understand how their users interact with Employee Center or another ServiceNow portal. It helps them analyze user behavior to identify friction points, drop-offs, and usability challenges affecting adoption and satisfaction. They will learn how to validate assumptions with usage data, prioritize portal improvements, and implement outcome-focused enhancements aligned with their business and product strategy.
+UX: Optimize Your Portal with Usage Insights guides the Impact customers in using Usage Insights to understand how their users interact with Employee Center or another ServiceNow portal. It helps them analyze user behavior to identify friction points, drop-offs, and usability challenges affecting adoption and satisfaction. They will learn how to validate assumptions with usage data, prioritize portal improvements, and implement outcome-focused enhancements aligned with their business and product strategy.
 
 ## Package Availability
 
@@ -29,7 +29,7 @@ UX: Optimize Your Portal with Usage Insights guides the [[impact-landing-page|Im
 
 -   **Session Preparation**
     -   Confirm access to temporary instances.
-    -   Review portal to gain insights of the [[user-experience-insights|user experience]] and identify opportunities and recommendations for leveraging UX analytics.
+    -   Review portal to gain insights of the user experience and identify opportunities and recommendations for leveraging UX analytics.
 -   **Customer Coaching Session \#1 \(up to 90 min\)**
 
     Includes the following:
@@ -56,8 +56,3 @@ UX: Optimize Your Portal with Usage Insights guides the [[impact-landing-page|Im
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

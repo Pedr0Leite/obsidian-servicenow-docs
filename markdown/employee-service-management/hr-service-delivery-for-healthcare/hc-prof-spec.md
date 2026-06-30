@@ -110,7 +110,7 @@ Option to select when the user is not certified by a medical board.**Note:** Thi
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -118,7 +118,7 @@ Option to select when the user is not certified by a medical board.**Note:** Thi
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Malpractice history form]()
 
@@ -136,7 +136,3 @@ Option to select when the user is not certified by a medical board.**Note:** Thi
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

@@ -31,7 +31,7 @@ Role required: HR agent
 2.  To add an HR task for the remote HR case:
 
     1.  In Related lists, click **Add task**. For more information, see [Adding an HR task to an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewAnHRTask.md).
-    2.  In the **Assigned to** field, specify the consumer user to whom you want to assign the task. A [[universal-task-landing|universal task]] of type URL is assigned to the consumer user.
+    2.  In the **Assigned to** field, specify the consumer user to whom you want to assign the task. A universal task of type URL is assigned to the consumer user.
     **Note:**
 
     A universal task is created only for consumer user, and not for local users on provider instance. The universal task is created only when the email ID of the consumer user matches in both provider and consumer instances.
@@ -50,20 +50,15 @@ Role required: HR agent
     2.  In **Assigned to** field, specify the HR agent on provider instance. The assigned HR agent can set a due date, modify the description, and short description of the document task. A universal task of type URL is assigned to the consumer user.
     **Note:**
 
-    -   To initiate document tasks, the [[document-templates-overview|Document Templates]] plugin must be installed on the [[multi-instance-int|HR Multi Instance Integration]] for Provider application.
+    -   To initiate document tasks, the Document Templates plugin must be installed on the HR Multi Instance Integration for Provider application.
 
         For more information on how document tasks are initiated, see [Document tasks generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/task-mapped-participants.md).
 
     -   In the HR service additional information, Document template must be added in the **Service table** fields.
 5.  Request for any additional information from the consumer employee by adding comments or attachments to the case.
 
-    The requested details are synchronized with the provider task in consumer instance. The consumer user can view the updates on their catalog request from [[employee-center-portal-overview|Employee Portal]].
+    The requested details are synchronized with the provider task in consumer instance. The consumer user can view the updates on their catalog request from Employee Portal.
 
 6.  Close the HR case when the all the tasks associated to it are complete.
 
-## Related
 
-- [[universal-task-landing|Universal Task]]
-- [[document-templates-overview|Document Templates]]
-- [[multi-instance-int|HR Multi Instance Integration]]
-- [[employee-center-portal-overview|Employee portal]]

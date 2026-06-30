@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with Magnit, Integration
 
 # Source for HR Service Delivery Integration with Magnit
 
-Once you set up the [[hr-magnit-int|HR Service Delivery Integration with Magnit]] application, the source record for HR Service Delivery Integration with Magnit application is automatically created in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]], Source module. The Magnit source record in the Enterprise Service Management Integrations Framework application contains a predefined set of properties and HR integration service.
+Once you set up the HR Service Delivery Integration with Magnit application, the source record for HR Service Delivery Integration with Magnit application is automatically created in Enterprise Service Management Integrations Framework, Source module. The Magnit source record in the Enterprise Service Management Integrations Framework application contains a predefined set of properties and HR integration service.
 
 <table id="table_xsd_mpx_xvb"><thead><tr><th>
 
@@ -61,7 +61,3 @@ Once you set up the HR Service Delivery Integration with Magnit application, HR 
 |----|-----------|
 |Get Contingent Worker|Pulls contingent workers from Magnit application into ServiceNow AI Platform instance.|
 
-## Related
-
-- [[hr-magnit-int|HR Service Delivery Integration with Magnit]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

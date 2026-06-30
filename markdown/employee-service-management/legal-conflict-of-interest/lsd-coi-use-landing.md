@@ -19,7 +19,7 @@ Employees who engage in activities that could potentially conflict with their pr
 
 ## Overview of Legal Conflict of Interest workflow
 
-Employees can submit disclosures using the intake form in the [[employee-center-landing-page|Employee Center]] or through the conversational interface of Now Assist in Virtual Agent.
+Employees can submit disclosures using the intake form in the Employee Center or through the conversational interface of Now Assist in Virtual Agent.
 
 1.  The legal user submits a new conflict of interest disclosure request by selecting the appropriate conflict type.
 2.  The risk assessment evaluates the request and assigns a risk level \(Low, Medium, or High\) based on the calculated risk score.
@@ -29,22 +29,15 @@ Employees can submit disclosures using the intake form in the [[employee-center-
 6.  A corresponding record is automatically generated in the system.
 
 -   **[Submit COI request form Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/submit-coi-disclosure-request.md)**  
-Submit a request to obtain the legal clearance before you involve in any [[activity-lxp|activity]] that might pose a risk of potential conflict with the primary employer duties.
+Submit a request to obtain the legal clearance before you involve in any activity that might pose a risk of potential conflict with the primary employer duties.
 -   **[Update an existing conflict of interest disclosure request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/update-existing-coi-disclosure-request.md)**  
-[[update-existing-coi-disclosure-request|Update an existing conflict of interest disclosure request]] to obtain the legal clearance again before it expires. You might want to get fresh approvals for an extension of the period or for the revised conditions that might pose a risk of potential conflict with the primary employer duties.
+Update an existing conflict of interest disclosure request to obtain the legal clearance again before it expires. You might want to get fresh approvals for an extension of the period or for the revised conditions that might pose a risk of potential conflict with the primary employer duties.
 -   **[Approve or reject a conflict of interest disclosure request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/approve-reject-coi-request.md)**  
-[[approve-reject-coi-request|Approve or reject a conflict of interest disclosure request]] assigned to you or a legal user group of which you're a member.
+Approve or reject a conflict of interest disclosure request assigned to you or a legal user group of which you're a member.
 -   **[Update an existing conflict of interest disclosure record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/update-existing-coi-disclosure-records.md)**  
-You can [[update-existing-coi-disclosure-records|update an existing conflict of interest disclosure record]] to change the validity period or the status of the record.
+You can update an existing conflict of interest disclosure record to change the validity period or the status of the record.
 -   **[View risk assessment details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-view-risk-asmt-dets.md)**  
 Review the risk assessment results for a conflict of interest disclosure, including the overall risk score, risk level, individual risk factor responses, and the risk assessment report.
 
 **Parent Topic:**[Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-conflict-of-interest-landing-page.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[update-existing-coi-disclosure-request|Update an existing conflict of interest disclosure request]]
-- [[approve-reject-coi-request|Approve or reject a conflict of interest disclosure request]]
-- [[update-existing-coi-disclosure-records|Update an existing conflict of interest disclosure record]]

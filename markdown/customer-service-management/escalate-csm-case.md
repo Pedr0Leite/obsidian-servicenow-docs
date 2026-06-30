@@ -12,7 +12,7 @@ breadcrumb: [Case and account escalation, Manage cases, Use, Customer Service Ma
 
 # Escalate a case or an account
 
-Users with the escalation requester role can [[osp-escalate-case|escalate a case]] or account.
+Users with the escalation requester role can escalate a case or account.
 
 ## Before you begin
 
@@ -139,9 +139,6 @@ Additional information that explains why this escalation is needed.
 
     **Note:** Multiple escalations cannot be created for the same case.
 
-    For more details see, [[use-case-account-escalation|Case and account escalation]].
+    For more details see, [Case and account escalation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-case-account-escalation.md).
 
-## Related
 
-- [[use-case-account-escalation|Case and account escalation]]
-- [[osp-escalate-case|Escalate a case]]

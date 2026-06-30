@@ -21,7 +21,7 @@ Control which users and groups can see a report in their Reports list.
 
 Role required: report\_admin, report\_global, or report\_group.
 
-This topic refers to [[reporting-landing-page|Reporting]] in the Core UI. If your instance is a Australia release or migrated to [[par-workspace|Platform Analytics experience]], see [[share-dv-ac|Share a data visualization in the Visualization Designer]].
+This topic refers to Reporting in the Core UI. If your instance is a Australia release or migrated to Platform Analytics experience, see [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md).
 
 The following roles can share reports:
 
@@ -111,7 +111,7 @@ It is not possible to grant edit rights on a report when you share it.
 
 1.  Navigate to **All** &gt; **Reports** &gt; **View / Run** and select the report you want to control.
 
-    On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]].
+    On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/differences-between-core-ui-ne-dbs.md).
 
 2.  In the upper right side of the report form, click the **Sharing** icon \(\[Omitted image "Form\_ShareIcon.png"\] Alt text: Sharing icon\) and select **Share**.
 
@@ -181,10 +181,3 @@ Users who have permission to see the report.This field is available when the **G
 
 [Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]]
-- [[reporting-landing-page|Reporting]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

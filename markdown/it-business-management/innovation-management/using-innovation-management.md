@@ -14,10 +14,10 @@ breadcrumb: [Innovation Management, Project Portfolio Management, Strategic Port
 
 # Managing ideas using Innovation Management
 
-Use the features and capabilities of [[innovation-management-landing|Innovation Management]] to capture, analyze, and manage your ideas. As an idea manager, manage submitted ideas by reviewing them, making modifications, or deleting outdated ones, identifying duplicates, and updating and tracking their state.
+Use the features and capabilities of Innovation Management to capture, analyze, and manage your ideas. As an idea manager, manage submitted ideas by reviewing them, making modifications, or deleting outdated ones, identifying duplicates, and updating and tracking their state.
 
 -   **[Submit an idea](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/submit-idea-in-idea-portal.md)**  
-[[submit-idea-in-idea-portal|Submit an idea]] for a product, feature, enhancement, or change in the Idea Portal for others to vote on. Select categories relevant to the idea and, if useful, attach files to add details.
+Submit an idea for a product, feature, enhancement, or change in the Idea Portal for others to vote on. Select categories relevant to the idea and, if useful, attach files to add details.
 -   **[View, filter, and sort ideas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/view-filter-sort-ideas.md)**  
 View ideas submitted by you or all submitted ideas. Filter and sort the ideas based on idea state, category, or date.
 -   **[Collaborate on ideas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/collaborate-on-an-idea.md)**  
@@ -40,7 +40,3 @@ Use a guided template that walks you through training the Similar Ideas solution
 
 [Innovation Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-reference.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]
-- [[submit-idea-in-idea-portal|Submit an idea]]

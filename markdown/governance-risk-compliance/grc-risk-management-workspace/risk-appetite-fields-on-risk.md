@@ -18,7 +18,7 @@ Learn about the risk appetite fields on the Risk form. Use these fields to defin
 
 See the following table for a description of the field values.
 
-**Note:** The risk appetite fields that appear on the entity form depends on the [[advanced-risk-assessment|advanced risk assessment]] properties set by the risk administrator.
+**Note:** The risk appetite fields that appear on the entity form depends on the advanced risk assessment properties set by the risk administrator.
 
 <table id="table_g2y_bgb_pvb"><thead><tr><th>
 
@@ -112,7 +112,7 @@ Qualitative appetite status
 
 </td><td>
 
-Qualitative appetite status of the risk. The qualitative appetite status is calculated by comparing the defined qualitative appetite with the qualitative appetite that is mapped to the final risk rating. A risk administrator can map the appetite scales to the risk rating criteria for the final assessment type in the [[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]].**Note:** The primary RAM that is defined in the associated entity is considered for status calculation.
+Qualitative appetite status of the risk. The qualitative appetite status is calculated by comparing the defined qualitative appetite with the qualitative appetite that is mapped to the final risk rating. A risk administrator can map the appetite scales to the risk rating criteria for the final assessment type in the Risk assessment methodology \(RAM\).**Note:** The primary RAM that is defined in the associated entity is considered for status calculation.
 
  For example, if you define the qualitative appetite as 2-Minimalist and the qualitative tolerance as 4-Open, then the following statuses appear:
 
@@ -145,7 +145,3 @@ Overall appetite status. The overall appetite status considers the worst-case sc
 </td></tr></tbody>
 </table>**Parent Topic:**[Define the risk appetite for a risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-risk-appetite-on-risk.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

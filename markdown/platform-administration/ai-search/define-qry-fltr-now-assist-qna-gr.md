@@ -15,11 +15,11 @@ breadcrumb: [Now Assist Q&amp;A Genius Results, Configuring Now Assist in AI Sea
 
 # Define a query filter for Now Assist Q&amp;A Genius Results
 
-Define a Java regular expression pattern that a search must match to be eligible for triggering [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]. Searches that don't match this pattern don't return Genius Result answers from Now Assist Q&amp;A Genius Results.
+Define a Java regular expression pattern that a search must match to be eligible for triggering Now Assist Q&amp;A Genius Results. Searches that don't match this pattern don't return Genius Result answers from Now Assist Q&amp;A Genius Results.
 
 ## Before you begin
 
-The [[now-assist-ais|Now Assist in AI Search]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
+The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
 
 Make sure that you're familiar with Java's regular expression pattern syntax. To learn about the regular expression pattern syntax, see [the Javadoc for the java.regex.util.Pattern class](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/regex/Pattern.html).
 
@@ -27,7 +27,7 @@ Role required: admin
 
 ## About this task
 
-Now Assist Q&amp;A Genius Results send eligible knowledge article search [[hs-results|results]] to the Now LLM Service for Q&amp;A Genius Result answer generation.
+Now Assist Q&amp;A Genius Results send eligible knowledge article search results to the Now LLM Service for Q&amp;A Genius Result answer generation.
 
 By default, the system only sends knowledge article results to the Now LLM Service when the search satisfies all of these conditions.
 
@@ -36,7 +36,7 @@ By default, the system only sends knowledge article results to the Now LLM Servi
 -   The search contains two or more terms.
 -   The search matches the Java regular expression pattern defined by the **sn\_ais\_assist.u\_question\_regex** system property's value. This system property has no value set in the base system, so by default all search queries satisfy this condition.
 
-You can customize the pattern match condition by defining your own Java regular expression pattern for use by Now Assist Q&amp;A Genius Result [[clone-configurations-tab|configurations]].
+You can customize the pattern match condition by defining your own Java regular expression pattern for use by Now Assist Q&amp;A Genius Result configurations.
 
 ## Procedure
 
@@ -65,9 +65,3 @@ Now Assist Q&amp;A Genius Results don't send knowledge article search results to
 
 **Parent Topic:**[Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md)
 
-## Related
-
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

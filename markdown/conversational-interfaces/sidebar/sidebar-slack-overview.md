@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Sidebar and Slack
 
-[[sidebar-landing|Sidebar]]'s integration with Slack enables Sidebar users and Slack users to communicate with each other from their respective platforms.
+Sidebar's integration with Slack enables Sidebar users and Slack users to communicate with each other from their respective platforms.
 
 The base system Sidebar-Slack integration requires at least one participant is an external only user \(a user that doesn't have a corresponding sys\_user record\).
 
@@ -82,6 +82,3 @@ The discussion participants aren’t synchronized if the integration between Sid
 
 If Sidebar is integrated with Slack, domain separation is not supported on the Slack instance. As a result, the **Set up** button for Slack is inactive on the Settings page. For example, if you’ve configured two domains on ServiceNow but use only one Microsoft Teams instance, you can't partition the Microsoft Teams instance to have part of it point to one domain and the other part to another domain.
 
-## Related
-
-- [[sidebar-landing|Sidebar]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Comparing replicated data between instances in Instance Data Replication
 
-Find missing or mismatched records by comparing replication data between instances in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Find missing or mismatched records by comparing replication data between instances in Instance Data Replication \(IDR\).
 
 IDR synchronizes data between a producer instance and one or more consumer instances. After you activate a producer replication set and subscribe at least one consumer, you can send existing records from the producer to the consumer by seeding records. After seeding is finished, IDR maintains data synchronization between the instances by replicating new and changed records from the producer to the consumer.
 
@@ -36,7 +36,7 @@ When comparing transformed data, note the following details:
 
 ## Compatibility
 
-Beginning in the Washington DC release, you can compare replicated data in [[bidirectional-replication|bidirectional replication]] sets, [[discrete-producer-replication-sets|discrete replication]] sets, and replication sets with transformations configured on either the producer or the consumer.
+Beginning in the Washington DC release, you can compare replicated data in bidirectional replication sets, discrete replication sets, and replication sets with transformations configured on either the producer or the consumer.
 
 When comparing data on different family releases, note the following compatibility options.
 
@@ -203,8 +203,3 @@ Synchronize data between instances by reseeding records missing from the consume
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[bidirectional-replication|Bidirectional replication]]
-- [[discrete-producer-replication-sets|Discrete replication]]

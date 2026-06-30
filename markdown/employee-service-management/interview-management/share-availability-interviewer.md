@@ -18,13 +18,13 @@ As an interviewer, when requested by recruiters, share your scheduling preferenc
 
 ## Before you begin
 
-Role required: sn\_ta\_hiring\_core.interviewer or sn\_ta\_hiring\_core.[[hiring-tab-concept|hiring]]\_manager
+Role required: sn\_ta\_hiring\_core.interviewer or sn\_ta\_hiring\_core.hiring\_manager
 
 ## Procedure
 
 1.  Open the email notification that you received stating that the recruiter has requested to share your scheduling preferences.
 
-2.  Select **[[share-availability-applicant-ac|Share scheduling preferences]]**.
+2.  Select **Share scheduling preferences**.
 
 3.  On the Share scheduling preferences for upcoming interview form, fill in the fields.
 
@@ -37,7 +37,3 @@ Role required: sn\_ta\_hiring\_core.interviewer or sn\_ta\_hiring\_core.[[hiring
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[share-availability-applicant-ac|Share scheduling preferences]]

@@ -20,7 +20,7 @@ Create a private or a public slack channel to collaborate with support teams or 
 
 -   Role required: sn\_incident\_write, itil, or admin
 -   Plugins required:
-    -   [[collab-services-tcm|Collaboration Services]] plugin \(sn\_tcm\_collab\_hook\) version 2.0.x
+    -   Collaboration Services plugin \(sn\_tcm\_collab\_hook\) version 2.0.x
     -   Slack Spoke for ServiceNow Integration Hub plugin \(com.sn.slack.ahv2\) version 1.3.x
 -   Ensure you have set up interactivity and shortcuts for slack. For more information, refer [configure slack app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/set-up-slack.md).
 
@@ -51,6 +51,4 @@ The system property **sn\_tcm\_collab\_hook.slack\_on\_task** enables the slack 
 
     A slack channel is created and an invitation is sent to the participants. Any duplicate user is removed from the selected participant list before the notification is sent. The participants can click **Skip** or **Join Channel** to ignore or join a slack channel.
 
-## Related
 
-- [[collab-services-tcm|Collaboration services]]

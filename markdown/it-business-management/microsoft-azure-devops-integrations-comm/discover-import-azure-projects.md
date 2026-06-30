@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 # Discover and import Azure DevOps projects
 
-Discover and import all available Azure DevOps projects into [[agile-landing-page|Agile Development 2.0]] to start using the integration between the two applications.
+Discover and import all available Azure DevOps projects into Agile Development 2.0 to start using the integration between the two applications.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Understand the default field map configuration, of different process types, betw
 
 **Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/setting-up-agile-azure-integration.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

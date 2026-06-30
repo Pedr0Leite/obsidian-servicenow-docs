@@ -20,7 +20,7 @@ You can select the option to attest controls using an assessment method. This as
 
 -   **Smart assessment scoped applications**
 
-    The base system ships the GRC smart assessment template to the users when the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(sn\_compliance\) plugin is installed. However, the following scoped applications are required:
+    The base system ships the GRC smart assessment template to the users when the GRC: Policy and Compliance Management \(sn\_compliance\) plugin is installed. However, the following scoped applications are required:
 
     1.  Smart Assessment core \(sn\_smart\_asmt\)
     2.  Smart assessment Migration tools \(sn\_smart\_asmt\_mig\). For more information, see [Migrate a legacy metric type to an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-tmplt-migrate-metrics-to.md)
@@ -32,14 +32,14 @@ You can select the option to attest controls using an assessment method. This as
 
 -   **Migrate the template**
 
-    Create a new template in [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-migrating.md).
+    Create a new template in Smart Assessment Engine. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-migrating.md).
 
 
 ## Access control limitations for smart assessment user roles
 
 -   **sn\_grc.business\_user and sn\_grc.business\_user\_lite**
 
-    As logged in users they can respond to attestations in **My Attestations** on the Task page of Compliance Workspace, [[risk-portal|Risk Portal]], and [[employee-center|Employee Center]].
+    As logged in users they can respond to attestations in **My Attestations** on the Task page of Compliance Workspace, Risk Portal, and Employee Center.
 
 -   **sn\_compliance\_ws.corporate\_compliance\_manager and sn\_compliance\_ws.it\_compliance\_manager**
 
@@ -99,9 +99,3 @@ When the **Enable smart assessments on control** system property is set to true 
 -   To view the attestation widgets in the control and control objective overview pages, see [User interface changes for assessments based on GRC attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/smart-assessments-ui.md).
 -   To view the control attestations in 360° view, see [360° Relationship Visualization for Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-data-navigtor.md).
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[risk-portal|risk portal]]
-- [[employee-center|employee center]]

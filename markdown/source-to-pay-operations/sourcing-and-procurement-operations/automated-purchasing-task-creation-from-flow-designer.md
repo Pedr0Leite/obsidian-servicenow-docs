@@ -14,20 +14,20 @@ breadcrumb: [Purchasing tasks and procurement cases, Sourcing and Purchasing Aut
 
 # Purchasing task and procurement case creation
 
-Create [[purchasing-tasks|purchasing tasks and procurement cases]] in sourcing requests and purchase requisitions.
+Create purchasing tasks and procurement cases in sourcing requests and purchase requisitions.
 
 ## Sourcing request
 
-If a negotiation does not exist, the [[supplier|supplier]] risk assessment and send NDA for signature cases are triggered when the state of the [[sourcing-request|sourcing request]] is Awaiting Supplier Response. The procurement cases are created on the cases related list of the sourcing request.
+If a negotiation does not exist, the supplier risk assessment and send NDA for signature cases are triggered when the state of the sourcing request is Awaiting Supplier Response. The procurement cases are created on the cases related list of the sourcing request.
 
 -   Conduct a supplier risk assessment: If risk assessment on the referenced supplier record is not valid, create a supplier risk assessment case for each supplier on the sourcing request.
 -   Send NDA for signature: If the NDA on the referenced supplier record is not valid, create an NDA case for each supplier on the sourcing request. This requires adding a supplier reference field on the case template.
 -   If the user skips updating the state of the sourcing request to Awaiting Supplier Response, these cases are created when the state of the sourcing request is Requires Decision.
--   If the user decides to manually create [[contracts|contracts]] against the sourcing request, trigger the contract review case once a contract is created.
+-   If the user decides to manually create contracts against the sourcing request, trigger the contract review case once a contract is created.
 
 If a new supplier is added to the sourcing request, the risk assessment and send NDA for signature cases for that supplier are triggered when the state of the sourcing request is Awaiting Supplier Response or Requires Decision \(if the user skipped the Awaiting Supplier Response state\).
 
-Purchasing tasks and procurement cases for the awarded supplier that are created on a sourcing request are also shown on the [[purchase-requisition|purchase requisition]].
+Purchasing tasks and procurement cases for the awarded supplier that are created on a sourcing request are also shown on the purchase requisition.
 
 For information on how a supplier tiering assessment case influences sourcing request states, see [Sourcing and Procurement Operations integration with Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/better-together-with-vrm.md).
 
@@ -51,10 +51,3 @@ If a purchase requisition is created directly without a sourcing request, all pu
 
 **Parent Topic:**[Purchasing tasks and procurement cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchasing-tasks.md)
 
-## Related
-
-- [[purchasing-tasks|Purchasing tasks and procurement cases]]
-- [[supplier|Supplier]]
-- [[sourcing-request|Sourcing request]]
-- [[contracts|Contracts]]
-- [[purchase-requisition|Purchase requisition]]

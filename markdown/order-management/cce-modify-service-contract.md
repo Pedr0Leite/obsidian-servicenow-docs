@@ -19,7 +19,7 @@ Modify a customer contract so that you can update its existing configurations.
 Role required:
 
 -   To create an order, you need sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
--   To [[create-new-quote|create a quote]], you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
+-   To create a quote, you need sn\_customerservice\_manager and sn\_sales\_common.sales\_agent.
 
 ## Procedure
 
@@ -29,17 +29,17 @@ Role required:
 
 3.  In the Contracts and Entitlements - Customer Contracts list, select the customer contract.
 
-4.  Select **[[Modify|Modify]] all lines** to modify the customer contract.
+4.  Select **Modify all lines** to modify the customer contract.
 
 5.  On the Configurator UI, modify the existing configurations for the customer contract line.
 
-    To learn more about the Configurator UI, see [[som-exploring|Exploring Sales Customer Relationship Management]].
+    To learn more about the Configurator UI, see [Exploring Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-exploring.md).
 
     **Note:** The Configurator UI is displayed only if the customer contract has a single customer contract line. For multiple customer contract lines, a quote or an order will be created with contract lines in Draft or Active state.
 
 6.  Select **Update**.
 
-    An order or a quote will be created depending on the [[rules_101|rules]] set in the Customer Life Cycle Workflows Policy decision table. For more info, see [[create-cont-ent-workflows-csm|Configuring Customer Life Cycle Workflows Policy decision table]].
+    An order or a quote will be created depending on the rules set in the Customer Life Cycle Workflows Policy decision table. For more info, see [Configuring Customer Life Cycle Workflows Policy decision table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cont-ent-workflows-csm.md).
 
     -   If the selected target entity is a quote, a quote to modify the customer contract is created. You can select the quote number from the confirmation message to view the modified quote line items. The quote is approved and the status changes to **Complete** to create an order.
     -   If the selected target entity is an order, an order to modify the customer contract is created. You can click the order number from the confirmation message to view the modified order line items.
@@ -47,10 +47,4 @@ Role required:
 
     The modifications are visible on the customer contract.
 
-## Related
 
-- [[som-exploring|Exploring Sales Customer Relationship Management]]
-- [[create-cont-ent-workflows-csm|Creating contracts and entitlements using workflows]]
-- [[create-new-quote|Create a quote]]
-- [[Modify|Modify]]
-- [[rules_101|Rules]]

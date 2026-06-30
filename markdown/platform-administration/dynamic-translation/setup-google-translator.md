@@ -19,7 +19,7 @@ Integrate your Google account with your ServiceNow instance.
 ## Before you begin
 
 -   Request an Integration Hub subscription.
--   Activate the [[google-translator-spoke|Google Cloud Translator Service spoke]].
+-   Activate the Google Cloud Translator Service spoke.
 -   Create a service account on Google Cloud, generate a service account key of JSON type and download it. For information on creating the service account key, see the [Google](https://cloud.google.com/docs/authentication/getting-started#creating_a_service_account) documentation.
 -   Enable the Cloud Translation API service. For information on enabling a service, see the [Google](https://cloud.google.com/service-usage/docs/enable-disable#enabling) documentation.
 -   Role required: admin
@@ -39,6 +39,3 @@ Connect to the Google's translation service by configuring the Google connection
 
 **Parent Topic:**[Google Cloud Translator Service Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/google-translator-spoke.md)
 
-## Related
-
-- [[google-translator-spoke|Google Cloud Translator Service Spoke]]

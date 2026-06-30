@@ -20,20 +20,20 @@ Edit and test the pre-trained model to detect the language used to create custom
 
 -   **About this task**
 
-    The [[case-language-detection|language detection]] model is a pre-trained model. You select a set of records to test the model and then view the results before deploying.
+    The language detection model is a pre-trained model. You select a set of records to test the model and then view the results before deploying.
 
-    Using the language detection model automatically enables the Task [[intelligence-csm|Intelligence]] Case Language Detection flow and the **sn\_csm\_ml\_task.case.language.mlpredictor.enabled** property.
+    Using the language detection model automatically enables the Task Intelligence Case Language Detection flow and the **sn\_csm\_ml\_task.case.language.mlpredictor.enabled** property.
 
 -   **Prerequisite**
 
     -   Activate the I18N: Internationalization plugin
     -   Enable the ServiceNow translator.
-    For more information, see [[case-language-detection-configure|Configure language detection]].
+    For more information, see [Configure language detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-language-detection-configure.md).
 
 
 ## Set up your model
 
-1.  Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Setup** to access the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup** to access the Task Intelligence Admin Console.
 2.  Select **Edit model** on this model: **Predict case language to improve assignments**.
 
     This opens the model and displays the first of four pages. Each page in the model asks you questions and helps you select the information you need to build an effective model.
@@ -82,10 +82,3 @@ Review your selections from the previous pages. Then you can select **Deploy** t
 
 \[Omitted image "task-intel-language-detection-pg4.png"\] Alt text: Details menu with information about model testing, functions, and predictions.
 
-## Related
-
-- [[case-language-detection-configure|Configure language detection]]
-- [[case-language-detection|Language detection]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]

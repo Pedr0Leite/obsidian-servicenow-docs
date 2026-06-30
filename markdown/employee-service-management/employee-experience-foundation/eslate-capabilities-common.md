@@ -15,9 +15,9 @@ breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Manag
 
 # Employee Slate capabilities
 
-You can access essential workplace tools and information through [[employee-slate-landing-page|Employee Slate]] core capabilities. Use [[emp-slate-inbox|Tasks and requests]], canvas, notifications, org chart, profile, communication tools, and calendar to manage your daily work tasks efficiently.
+You can access essential workplace tools and information through Employee Slate core capabilities. Use Tasks and requests, canvas, notifications, org chart, profile, communication tools, and calendar to manage your daily work tasks efficiently.
 
-Employee Slate provides a unified workspace where you can access all your essential work tools from one location. Use these features from both [[employee-slate-nowassist|Employee Slate for Now Assist]] and [[employee-slate-moveworks|Employee Slate for Moveworks]].
+Employee Slate provides a unified workspace where you can access all your essential work tools from one location. Use these features from both Employee Slate for Now Assist and Employee Slate for Moveworks.
 
 ## Tasks and requests
 
@@ -61,9 +61,3 @@ You can view and manage your schedule through the integrated calendar functional
 
 Check upcoming meetings, schedule appointments, view team availability, and manage your time effectively without leaving the Employee Slate environment. For more information, see [Calendar and schedule management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-calendar-schedule.md).
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]
-- [[employee-slate-moveworks|Employee Slate for Moveworks]]

@@ -21,8 +21,5 @@ These default configurations are applied automatically when Apply default config
 |Notifications|Configures standard notifications to support Health and Safety workflows and communication.|
 |Intake forms|Activates required intake forms for submitting Health and Safety requests and capturing case details.|
 
-**Parent Topic:**[[install-health-and-safety|Install Health and Safety]]
+**Parent Topic:**[Install Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/install-health-and-safety.md)
 
-## Related
-
-- [[install-health-and-safety|Install Health and Safety]]

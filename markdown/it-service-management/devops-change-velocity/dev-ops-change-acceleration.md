@@ -14,7 +14,7 @@ breadcrumb: [DevOps Change Velocity, IT Service Management]
 
 # Accelerating your DevOps change process
 
-Enable the change acceleration feature of [[devops-landing-page-new|DevOps Change Velocity]] for automatic change request creation in your pipeline, and use change approval flows and policies to automate approval under certain conditions.
+Enable the change acceleration feature of DevOps Change Velocity for automatic change request creation in your pipeline, and use change approval flows and policies to automate approval under certain conditions.
 
 **Note:** ServiceNow [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md) must be installed for change acceleration.
 
@@ -46,7 +46,7 @@ For ADO: `"changeState":"Closed"`
 
 ## Automatic approval of change requests using flows and policies
 
-You can automate the change approval process for all your DevOps change requests. DevOps Change Velocity uses flows and DevOps data \(such as work items, commits, code coverage, code security, risk, and test results\) to update the state of a change request and automatically approve it based on [[change-approval-policy|change approval policies]]. Three flows are available in the base system that you can clone, customize, and activate \(in Flow Designer\). By default, the DevOps Change Request Manual Approval Flow is activated. DevOps flows are applicable to only automatically created change requests or change requests that have change receipt turned off.
+You can automate the change approval process for all your DevOps change requests. DevOps Change Velocity uses flows and DevOps data \(such as work items, commits, code coverage, code security, risk, and test results\) to update the state of a change request and automatically approve it based on change approval policies. Three flows are available in the base system that you can clone, customize, and activate \(in Flow Designer\). By default, the DevOps Change Request Manual Approval Flow is activated. DevOps flows are applicable to only automatically created change requests or change requests that have change receipt turned off.
 
 ## Flows
 
@@ -150,7 +150,7 @@ The three outcomes for the DevOps Change Request Minimal Automation and DevOps C
 -   Auto reject: If one or more of the conditions specified in the policy are not met, the change request is automatically rejected.
 -   Manual approval: If one or more conditions need manual approval by a user or group, that is specified in the policy. Notifications are sent by the policy to the relevant users or groups to expedite the manual approval and progress the change request.
 
-You can apply your change approval policy in the [[c_ITILChangeManagement|Change Management]] Workflow Studio action to control the approval process for a change request. For more information, [Use the Apply Change Approval Policy flow action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/use-apply-change-approval-policy-flow-activity.md).
+You can apply your change approval policy in the Change Management Workflow Studio action to control the approval process for a change request. For more information, [Use the Apply Change Approval Policy flow action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/use-apply-change-approval-policy-flow-activity.md).
 
 ## Change approval work notes
 
@@ -229,7 +229,7 @@ For a change request automatically created by DevOps, the **Category** field is 
 
     List of security summaries for a pipeline execution associated with an artifact, package, or task execution before the change request.
 
-    **Note:** [[security-tool-framework|Security scan results]] on the change record associated to a pipeline execution with a linked package are also displayed in the Security Summaries tab.
+    **Note:** Security scan results on the change record associated to a pipeline execution with a linked package are also displayed in the Security Summaries tab.
 
 
 \[Omitted image "dev-ops-change-rel-lists.png"\] Alt text: DevOps Change Related Lists
@@ -312,7 +312,7 @@ Enable categorizing DevOps change request from DevOps properties. Change request
 -   **[Change request creation with DevOps data retrieval errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/change-request-creation-with-devops-data-retrieval-errors.md)**  
 Create change requests even with errors in DevOps data retrieval.
 -   **[Artifacts and packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md)**  
-[[using-dev-ops-release-change|Artifacts and packages]] enable DevOps Change Velocity to track development and testing activities across a wide range of deployment and release [[c_Models|models]]. This feature ensures that pipeline activity stored in the DevOps data model can be retrieved and applied when artifacts are created and released at different times or in different pipelines.
+Artifacts and packages enable DevOps Change Velocity to track development and testing activities across a wide range of deployment and release models. This feature ensures that pipeline activity stored in the DevOps data model can be retrieved and applied when artifacts are created and released at different times or in different pipelines.
 -   **[DevOps Pipeline UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-pipeline-ui.md)**  
 Use the Pipeline UI to visualize interactions and results across a pipeline execution. This graphical view shows pipeline step progression and other details for each pipeline.
 -   **[Configuring DevOps change request details within the pipeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-config-change-details.md)**  
@@ -324,18 +324,9 @@ Retrieve data associated with a change request based on the specified relation t
 -   **[Manage Pull Requests \(PR\) or Merge Requests in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/manage-pull-request-pipelines.md)**  
 Manage Jenkins, GitHub Actions, and Azure DevOps \(ADO\) pipeline’s pull requests for GitHub, Bitbucket, and ADO coding sources from ServiceNow DevOps. You can enable the change approval process on your pull request to control pull request merge approvals from ServiceNow DevOps and monitor pull request details associated with the change request.
 -   **[DevOps change request attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/apis-for-change-actions-in-devops.md)**  
-Add or update [[apis-for-change-actions-in-devops|DevOps change request attributes]] using the changeInfo REST API, the Default Change Handler subflow, by passing attributes through the pipeline, Update function, or automated flows.
+Add or update DevOps change request attributes using the changeInfo REST API, the Default Change Handler subflow, by passing attributes through the pipeline, Update function, or automated flows.
 -   **[Import based evidence collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/import-based-evidence-collection-for-orchestration-capability.md)**  
 Reduce instance overhead by skipping step-level pipeline processing for accelerated change management and evidence collection for GitHub Actions, Azure DevOps \(ADO\), Jenkins and GitLab orchestration tools.
 
 **Parent Topic:**[DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-landing-page-new.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[change-approval-policy|Change approval policies]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[security-tool-framework|Security scan results]]
-- [[using-dev-ops-release-change|Artifacts and packages]]
-- [[c_Models|Models]]
-- [[apis-for-change-actions-in-devops|DevOps change request attributes]]

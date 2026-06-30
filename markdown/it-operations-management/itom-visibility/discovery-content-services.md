@@ -14,13 +14,13 @@ breadcrumb: [ITOM Visibility, IT Operations Management]
 
 # ITOM Content Service
 
-ServiceNow® ITOM Content Service offers extensive visibility of products in your infrastructure. The classification of processes identified by Predictive Intelligence enables wider [[r-discovery|discovery]] and weekly updates of new configuration items in the CMDB. Use the [[discovery-admin-workspace|Discovery Admin Workspace]] to review and manage ITOM Content Service suggestions.
+ServiceNow® ITOM Content Service offers extensive visibility of products in your infrastructure. The classification of processes identified by Predictive Intelligence enables wider discovery and weekly updates of new configuration items in the CMDB. Use the Discovery Admin Workspace to review and manage ITOM Content Service suggestions.
 
 \[Omitted image "ics-mm-diagram.png"\] Alt text: Discovery admins upload their fingerprints to Data Services, AI librarians tag and classify them and then deliver classifiers back to the admins.
 
 ## About ITOM Content Service
 
-[[itom-visibility-landing-page|ITOM Visibility]] offers multiple methods of discovering products in your infrastructure. When running discovery with Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns for example, each pattern searches for one version of a product and can offer in-depth visibility of the product's information.
+ITOM Visibility offers multiple methods of discovering products in your infrastructure. When running discovery with Discovery and Service Mapping Patterns for example, each pattern searches for one version of a product and can offer in-depth visibility of the product's information.
 
 While your infrastructure is growing at scale, and new IT products are rapidly released to the market, you must have wider, rapidly updating visibility. Every week, ITOM Content Service identifies products that you’re currently using and delivers new Configuration Items \(CI\) for your usage. The latest version of Discovery Admin Workspace enables you to refresh the content service suggestions manually before reviewing them.
 
@@ -37,7 +37,7 @@ ITAM Software Asset Management \(SAM\) users benefit from the integration with I
 
 -   Gain visibility on the processes currently running on the installed software. This also enables you to find out which installed software doesn't have running processes and might be redundant.
 -   ITOM Content Service compliments Software Asset Management in cases of services that don't require installation, for example, an Oracle database that runs as a service and isn’t installed. In cases like this, ITOM Content Service creates the installed software record based on combining the process fingerprint data with the data discovered by SAM. Without ITOM Content Service, you can’t gain this kind of visibility.
--   Using [[file-based-discovery|file-based discovery]] capabilities, ITOM Content Service can discover a running system file that is identified with an app. For example, ITOM Content Service can match an installed software record to an Apache Kafka running an `exe` file. For more information, see [File-based Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/file-based-discovery.md).
+-   Using file-based discovery capabilities, ITOM Content Service can discover a running system file that is identified with an app. For example, ITOM Content Service can match an installed software record to an Apache Kafka running an `exe` file. For more information, see [File-based Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/file-based-discovery.md).
 
 For more information on Software Asset Management, see [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_SAMContentService.md).
 
@@ -95,7 +95,7 @@ Process's publisher.
 
 </td><td>
 
-**Content service suggestions** tab in [[discovery-workspace-content-360|Discovery Admin Workspace Content 360]]
+**Content service suggestions** tab in Discovery Admin Workspace Content 360
 
 </td></tr><tr><td>
 
@@ -121,7 +121,7 @@ Service's publisher.
 
 </td><td>
 
-**Service Fingerprints** tab in [[sm-dashboard|Service Mapping workspace]]
+**Service Fingerprints** tab in Service Mapping workspace
 
 </td></tr></tbody>
 </table>For more information about using Service Fingerprints in Service Mapping, see [Map application services based on Automated Service Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/map-application-suggestion.md).
@@ -150,12 +150,3 @@ The three options for sharing your data are:
 
 For more information on setting the permissions, see [Share data on ITOM Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/share-data-itom-content-service.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[file-based-discovery|File-based Discovery]]
-- [[discovery-workspace-content-360|Discovery Admin Workspace Content 360]]
-- [[sm-dashboard|Service Mapping Workspace]]

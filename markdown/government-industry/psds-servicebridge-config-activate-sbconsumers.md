@@ -12,14 +12,10 @@ breadcrumb: [Service Exchange, Case Management, Configure agent workspaces, Conf
 
 # Configuring Service Exchange for Consumers for Public Sector Digital Services
 
-You can do the following configuration tasks to customize your Service Bridge for consumers instance, the [[gsp-overview-public-sector|Government Service Portal]].
+You can do the following configuration tasks to customize your Service Bridge for consumers instance, the Government Service Portal.
 
 **Related topics**  
 
 
-[[psds-servicebridge-config-activate-entitlements|Activate remote catalog item entitlements for Service Exchange Consumers]]
+[Activate remote catalog item entitlements for Service Exchange Consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-servicebridge-config-activate-entitlements.md)
 
-## Related
-
-- [[psds-servicebridge-config-activate-entitlements|Activate remote catalog item entitlements for Service Exchange Consumers]]
-- [[gsp-overview-public-sector|Government Service Portal]]

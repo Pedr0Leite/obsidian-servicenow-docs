@@ -24,7 +24,7 @@ Role required: sn\_ohs\_im.admin or sn\_ohs\_im.agent
 
 PDF templates for OSHA forms are required to fill and export OSHA forms for safety incidents and the injuries and illnesses that happened in your organization.
 
-The [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] includes preconfigured PDF templates and associated sys\_ids for OSHA 300, 300A, and 301 forms. However, if changes to the OSHA form PDF files are needed, they can be updated.
+The Health and Safety Incident Management OSHA Content Pack includes preconfigured PDF templates and associated sys\_ids for OSHA 300, 300A, and 301 forms. However, if changes to the OSHA form PDF files are needed, they can be updated.
 
 ## Procedure
 
@@ -58,7 +58,7 @@ The [[generating-osha-forms|Health and Safety Incident Management OSHA Content P
 
 3.  Update the sys\_id of the OSHA form PDF template file in the corresponding system property.
 
-    1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+    1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
     2.  Select the corresponding system property for the OSHA form PDF template that you updated.
 
@@ -75,7 +75,3 @@ The new OSHA form PDF template is available and is used when exporting the corre
 
 **Parent Topic:**[Setting up the OSHA Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/configuring-osha-forms.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[health-safety-overview|Health and Safety]]

@@ -16,7 +16,7 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 Key responsibilities of individuals involved in optimizing task assignments and resource management.
 
-The following personas and roles can implement and control access to [[dynamic-scheduling|dynamic scheduling]], manage resources, and complete work order tasks.
+The following personas and roles can implement and control access to dynamic scheduling, manage resources, and complete work order tasks.
 
 |Role|Responsibility|
 |----|--------------|
@@ -29,6 +29,3 @@ The following personas and roles can implement and control access to [[dynamic-s
 
 [Set up Dynamic Scheduling as scheduling mechanism](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-config-field-service.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

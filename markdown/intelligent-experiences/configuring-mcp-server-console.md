@@ -17,20 +17,14 @@ Create a Model Context Protocol \(MCP\) server and configure the tools and input
 
 ## Configuration overview
 
-1.  [[create-mcp-server|Create a Model Context Protocol server]]
+1.  [Create a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-mcp-server.md)
 
     An AI administrator creates a server and adds tools to the server.
 
-2.  [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
+2.  [Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md)
 
-    If additional tools are needed, the AI administrator identifies which functionality to expose and creates tools based on [[now-assist-skills|Now Assist skills]]. From the tools, they configure which fields are exposed to clients as tool inputs.
+    If additional tools are needed, the AI administrator identifies which functionality to expose and creates tools based on Now Assist skills. From the tools, they configure which fields are exposed to clients as tool inputs.
 
 
-After configuring a server, the AI administrator creates an OAuth inbound integration for each client and configures clients to connect to the server using the server and authentication details. For more information, see [[connect-mcp-server-client|Connecting to an MCP server from an MCP client]].
+After configuring a server, the AI administrator creates an OAuth inbound integration for each client and configures clients to connect to the server using the server and authentication details. For more information, see [Connecting to an MCP server from an MCP client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/connect-mcp-server-client.md).
 
-## Related
-
-- [[create-mcp-server|Create a Model Context Protocol server]]
-- [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
-- [[connect-mcp-server-client|Connecting to an MCP server from an MCP client]]
-- [[now-assist-skills|Now Assist skills]]

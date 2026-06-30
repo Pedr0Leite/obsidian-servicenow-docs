@@ -14,7 +14,7 @@ breadcrumb: [Configuring DevOps Config, DevOps Config, IT Service Management]
 
 # Create an application in DevOps Config
 
-Create an app in [[devops-config-landing-page|DevOps Config]] to manage its configuration data, and link DevOps Config with other ServiceNow products, including [[devops-landing-page-new|DevOps Change Velocity]].
+Create an app in DevOps Config to manage its configuration data, and link DevOps Config with other ServiceNow products, including DevOps Change Velocity.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_devops\_config.admin
 
 Watch this short video to see how to create an application in DevOps Config.
 
-An app in DevOps Config is the container for the config data of an application. An app also ties it with the DevOps Change Velocity application, where configuration data can be viewed in the [[dev-ops-pipeline-ui|DevOps Pipeline UI]].
+An app in DevOps Config is the container for the config data of an application. An app also ties it with the DevOps Change Velocity application, where configuration data can be viewed in the DevOps Pipeline UI.
 
 In DevOps Change Velocity, an app links work items, code commits and CI/CD pipeline executions together in the DevOps data model, which is displayed in change request, as well as the DevOps Insights dashboard.
 
@@ -45,7 +45,7 @@ You can edit or delete apps in DevOps Config. When you delete an app:
 
 2.  Click the apps icon \(\[Omitted image "devops-config-apps-icon.png"\] Alt text: DevOps Config apps icon\) in the left navigation to open the Apps tab.
 
-3.  On the [[dex-workspace-application-tab|Applications]] form, click **New** to create an application and a new model, or to create an application and specify an existing model \(or service\).
+3.  On the Applications form, click **New** to create an application and a new model, or to create an application and specify an existing model \(or service\).
 
     \[Omitted image "devops-config-create-app.png"\] Alt text: DevOps Config create application
 
@@ -103,9 +103,3 @@ Manufacturer of the application.
 
 \[Omitted image "devops-config-app-overview.png"\] Alt text: DevOps Config app overview
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dev-ops-pipeline-ui|DevOps Pipeline UI]]
-- [[dex-workspace-application-tab|Applications]]

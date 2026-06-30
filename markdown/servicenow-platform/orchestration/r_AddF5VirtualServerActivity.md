@@ -16,7 +16,7 @@ breadcrumb: [F5 Network Management activity pack, Orchestration activity packs, 
 
 The Add F5 Virtual Server activity adds a virtual server.
 
-This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+This activity was built using the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md). To access the activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## REST settings
 
@@ -30,7 +30,7 @@ This activity was built using the [REST web service activity template](https://r
 |name|The virtual server's name, such as `testVIP`.|
 |description|Description of this virtual server.|
 |ipProtocol|Protocol used for this virtual server, such as `tcp`.|
-|destination|Virtual server [[ip-address|IP address]] and port number, such as 192.168.4.20:80.|
+|destination|Virtual server IP address and port number, such as 192.168.4.20:80.|
 |mask|Subnet mask for this virtual server, such as 255.255.255.255.|
 |F5IPAddress|IP address of the F5 console.|
 |sourceAddressTranslation|Source address translation mode.|
@@ -53,7 +53,3 @@ This activity was built using the [REST web service activity template](https://r
 
 **Parent Topic:**[F5 Network Management activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchF5LoadBalancerActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

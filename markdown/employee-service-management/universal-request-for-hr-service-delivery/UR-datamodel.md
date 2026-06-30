@@ -14,12 +14,12 @@ breadcrumb: [Exploring Universal Request, Universal Request, Employee Service Ma
 
 # Universal Request data model
 
-[[ur-landing-limitedaccess|Universal Request]] is a task type that supports cross-departmental collaboration and unified employee experience. Universal Request becomes the parent record for departmental primary tickets, such as IT incidents and HR cases, and enables your organization to measure cross-departmental SLAs and OLAs.
+Universal Request is a task type that supports cross-departmental collaboration and unified employee experience. Universal Request becomes the parent record for departmental primary tickets, such as IT incidents and HR cases, and enables your organization to measure cross-departmental SLAs and OLAs.
 
 The Universal Request \(UR\) is a task that can be created from any of the following sources.
 
 -   Requester-created: An employee uses any of following options to submit a request.
-    -   Clicks **Request Help** on the Service Portal or [[employee-center-landing-page|Employee Center]].
+    -   Clicks **Request Help** on the Service Portal or Employee Center.
     -   Taps **Needs Help** on a mobile device.
     -   Uses the virtual agent chat on the portals.
 -   Agent created: An IT service desk agent receives a phone call or live chat from an employee, starts a new call record or an Interaction Record, and in some cases, can create a Universal Request instead of a department ticket. The agent can then assign that UR to an appropriate Tier 1 assignment group.
@@ -147,7 +147,3 @@ When a record producer is configured to automatically create a Universal Request
 
 **Parent Topic:**[Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[employee-center-landing-page|Employee Center]]

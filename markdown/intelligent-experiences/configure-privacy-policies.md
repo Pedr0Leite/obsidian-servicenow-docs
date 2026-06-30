@@ -12,13 +12,13 @@ breadcrumb: [Data sharing and processes, Now Assist Admin Settings, Exploring No
 
 # Configure Now Assist privacy policies
 
-Configure privacy policies to anonymize data in [[platform-now-assist-landing|Now Assist]].
+Configure privacy policies to anonymize data in Now Assist.
 
 ## Before you begin
 
 You must have the following applications installed on your instance:
 
-If you do not have a data steward, see [[assign-data-steward-role|Assign the data steward role]] documentation.
+If you do not have a data steward, see [Assign the data steward role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/assign-data-steward-role.md) documentation.
 
 Role required: sn\_generative\_ai.data\_steward
 
@@ -30,7 +30,7 @@ The Now Assist **Privacy Policies** enables you to review and configure how pers
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Settings**.
 
-2.  In the [[now-assist-global-navigation|navigation]] pane, go to **Data sharing and processing** &gt; **Privacy policies**.
+2.  In the navigation pane, go to **Data sharing and processing** &gt; **Privacy policies**.
 
 3.  Select **View detail** of the privacy polic you want to review.
 
@@ -41,11 +41,5 @@ The Now Assist **Privacy Policies** enables you to review and configure how pers
     See [Configuring Data Privacy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-now-assist-data-privacy.md) for more information on configuring Now Assist policies.
 
 
-**Parent Topic:**[[now-assist-data-sharing-and-processes|Data sharing and processes]]
+**Parent Topic:**[Data sharing and processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-sharing-and-processes.md)
 
-## Related
-
-- [[assign-data-steward-role|Assign the data steward role]]
-- [[now-assist-data-sharing-and-processes|Data sharing and processes]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]

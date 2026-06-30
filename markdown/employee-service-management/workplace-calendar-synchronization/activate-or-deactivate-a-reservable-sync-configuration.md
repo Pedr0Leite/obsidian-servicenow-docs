@@ -28,13 +28,13 @@ When you configure a reservable sync config record for Microsoft Exchange Online
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Calendar Providers**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Calendar Providers**.
 
 2.  Select the Microsoft Exchange calendar provider to which the reservable sync configuration is added.
 
     **Note:** If the calendar provider is already deactivated, you cannot activate or deactivate any reservable sync configuration related to it.
 
-3.  On the [[wsd-calendar-provider-form-fields|Provider form]], scroll down to the Reservable sync configuration related list.
+3.  On the Provider form, scroll down to the Reservable sync configuration related list.
 
 4.  In the related list, to activate or to deactivate the reservable sync configuration, do any one of the following:
 
@@ -52,7 +52,3 @@ When you configure a reservable sync config record for Microsoft Exchange Online
 
 The selected reservation sync configurations is activated or deactivated.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]
-- [[wsd-calendar-provider-form-fields|Provider form]]

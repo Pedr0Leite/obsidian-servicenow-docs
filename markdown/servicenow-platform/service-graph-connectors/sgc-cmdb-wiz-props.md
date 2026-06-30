@@ -18,9 +18,9 @@ Service Graph Connector properties control the behavior of connections.
 
 ## Connection properties
 
-These connection properties are available for [[sgc-cmdb-integration-wiz|Service Graph Connector for Wiz]].
+These connection properties are available for Service Graph Connector for Wiz.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Wiz** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Wiz** &gt; **Connections** and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 |Property|Description|
 |--------|-----------|
@@ -55,8 +55,3 @@ Enter the page size used in REST requests to fetch Wiz entities.-   Type: string
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgc-cmdb-integration-wiz|Service Graph Connector for Wiz]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

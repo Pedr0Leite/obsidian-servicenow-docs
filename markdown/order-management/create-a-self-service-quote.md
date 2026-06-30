@@ -33,9 +33,9 @@ Role required: sn\_prm\_qm.quote\_partner\_ui along with and one of the followin
 
 4.  Alternatively, you can select **Catalog &gt; All Services &gt; Create Quote**.
 
-5.  On the form, fill in the [[fields|fields]].\[Omitted image "create-quote.png"\] Alt text: Quote details form\[Omitted image "self-service-quote-additional-details.png"\] Alt text: Additional details form\[Omitted image "self-service-quote-additional-details1.png"\] Alt text: Additional details address form\[Omitted image "self-service-quote-line-items.png"\] Alt text: Line items form\[Omitted image "self-service-quote-product-offerings.png"\] Alt text: Product offerings catalog form\[Omitted image "self-service-quote-review-submit.png"\] Alt text: Review and submit form
+5.  On the form, fill in the fields.\[Omitted image "create-quote.png"\] Alt text: Quote details form\[Omitted image "self-service-quote-additional-details.png"\] Alt text: Additional details form\[Omitted image "self-service-quote-additional-details1.png"\] Alt text: Additional details address form\[Omitted image "self-service-quote-line-items.png"\] Alt text: Line items form\[Omitted image "self-service-quote-product-offerings.png"\] Alt text: Product offerings catalog form\[Omitted image "self-service-quote-review-submit.png"\] Alt text: Review and submit form
 
-    To learn more about the fields on the create quote form and their descriptions, see [[quote-creation-fields|Quote creation via Self-Service fields for Channel Partners]].
+    To learn more about the fields on the create quote form and their descriptions, see [Quote creation via Self-Service fields for Channel Partners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-creation-fields.md).
 
 6.  After reviewing the details of the quote, select **Review and Submit**.
 
@@ -49,7 +49,7 @@ Role required: sn\_prm\_qm.quote\_partner\_ui along with and one of the followin
     -   Submit a quote for review
     -   Download a quote
     -   Create a revision of a quote
-    -   [[cancel|Cancel]] a quote
+    -   Cancel a quote
     -   Delete a quote
 
 ## Result
@@ -63,19 +63,12 @@ The Partner portal home page shows the different states of quotes:
 -   Completed
 -   Accepted
 
-**Parent Topic:**[[using-partner-relationship-management|Using Partner Relationship Management]]
+**Parent Topic:**[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[self-service-quote_generic|Quote creation via Self-Service]]
+[Quote creation via Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/self-service-quote_generic.md)
 
 [Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[quote-creation-fields|Quote creation via Self-Service fields for Channel Partners]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[self-service-quote_generic|Quote creation via Self-Service]]
-- [[fields|Fields]]
-- [[cancel|Cancel]]

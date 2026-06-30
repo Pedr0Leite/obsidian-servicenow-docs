@@ -22,19 +22,19 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-After you deactivate a portal, users are either redirected to an alternate portal that you [[configure-onboarding-modals|configure]], or they receive a message that the portal is inactive.
+After you deactivate a portal, users are either redirected to an alternate portal that you configure, or they receive a message that the portal is inactive.
 
 If an alternate portal is selected, pages are redirected by replacing the URL suffix of the inactive portal with the suffix of the alternate portal. To confirm that users are redirected to the correct page, complete the following steps:
 
 -   Verify that all necessary resources, such as knowledge base articles and catalog items, are available on the alternate portal.
--   If different pages are used on each portal, set up page route maps to [[c_MapPages|map pages]] from the inactive portal to the alternate portal. For more information, see [Redirect a reference to a page ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reroute-page.md).
+-   If different pages are used on each portal, set up page route maps to map pages from the inactive portal to the alternate portal. For more information, see [Redirect a reference to a page ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reroute-page.md).
 -   If customizations exist for page redirects using the SPEntryPage script include or other methods, test these customizations thoroughly to confirm that there are no conflicts or remove the customizations. For more information, see [Single sign-on, logins, and URL redirects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_SPSSOLoginAndRedirects.md).
 
 To support deactivating and reactivating public portals without search engines deindexing their pages, temporary HTTP 302 redirects are used for inactive portals.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Portals**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Portals**.
 
 2.  Select a portal.
 
@@ -61,8 +61,3 @@ To reactivate a portal, clear the **Inactive** option.
 
 **Parent Topic:**[Managing portal access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-security.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_MapPages|Map pages]]
-- [[c_ServicePortal|Service Portal]]

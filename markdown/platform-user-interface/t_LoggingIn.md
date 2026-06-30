@@ -39,8 +39,5 @@ Users log in to the instance from a web browser. Administrators can [associate a
 4.  Press the Enter key or click **Login**.
 
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
-## Related
-
-- [[p_CommonUIElements|Common UI elements]]

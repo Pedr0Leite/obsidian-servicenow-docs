@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Tools**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Tools**.
 
 2.  Click **New**.
 
@@ -77,7 +77,7 @@ Lists indicator types associated with this object.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -85,7 +85,7 @@ Lists the attack patterns that help categorize attacks that are associated with 
 
 </td></tr><tr><td>
 
-[[threat-intelligence-campaigns|Campaigns]]
+Campaigns
 
 </td><td>
 
@@ -93,7 +93,7 @@ Lists campaigns associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-course-actions|Course of Actions]]
+Course of Actions
 
 </td><td>
 
@@ -101,7 +101,7 @@ Lists the associated course of actions with this object that are technical or au
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -109,15 +109,15 @@ List of identities associated with this object.
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
-Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.
+Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-infrastructure|Infrastructure]]
+Infrastructure
 
 </td><td>
 
@@ -125,7 +125,7 @@ Lists systems, software services, and any associated physical or virtual resourc
 
 </td></tr><tr><td>
 
-[[threat-intelligence-intrusion-sets|Intrusion Set]]
+Intrusion Set
 
 </td><td>
 
@@ -133,7 +133,7 @@ Lists a set of adversarial behaviors and resources with common properties associ
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -141,7 +141,7 @@ Lists locations that provide geographic context to this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -149,7 +149,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -157,7 +157,7 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
@@ -165,31 +165,12 @@ Lists a weakness or defect in a software or hardware that attackers exploit whic
 
 </td></tr><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[tools|Tools]]
+</table>**Parent Topic:**[Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/tools.md)
 
-## Related
-
-- [[tools|Tools]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[threat-intelligence-course-actions|Course of actions]]
-- [[threat-intelligence-identities|Identities]]
-- [[indicator|Indicators]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]

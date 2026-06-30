@@ -23,16 +23,12 @@ See [Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubus
 
 ## New in the Australia release
 
-[[australia-patch-1|Australia Patch 1]]
+[Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)
 
 -   **[AI-generated insights for goals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/generate-insights-for-goal.md)**
 
     Generate AI‑powered insights using the goal insights skill to gain predictive, actionable visibility into goal health. By analyzing the goal, goal targets, subgoals, and aligned work, the system delivers data‑driven insights that help goal owners and contributors manage risks proactively and improve goal outcomes. Insights include AI-forecasted status, confidence of achieving the goal, targets at risk, and aligned work or recommendations that have been delayed or stalled.
 
 
-**Parent Topic:**[[now-assist-rn-landing|Now Assist and agentic AI release notes]]
+**Parent Topic:**[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-rn-landing.md)
 
-## Related
-
-- [[australia-patch-1|Australia Patch 1]]
-- [[now-assist-rn-landing|Now Assist and agentic AI release notes]]

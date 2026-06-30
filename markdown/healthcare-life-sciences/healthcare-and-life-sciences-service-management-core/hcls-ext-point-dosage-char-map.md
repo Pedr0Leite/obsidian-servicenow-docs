@@ -14,11 +14,11 @@ breadcrumb: [Configure dosage specifications, Configure, Healthcare and Life Sci
 
 # Configure the mapping between a dosage characteristic and a dosage details field
 
-Use scripted extension points to decide which dosage characteristics are mapped to the fields on the Dosage details section of a [[hcls-med-prescription-form|Medication Prescription form]].
+Use scripted extension points to decide which dosage characteristics are mapped to the fields on the Dosage details section of a Medication Prescription form.
 
 ## Before you begin
 
-Set the application scope to [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to Healthcare and Life Sciences Service Management Core using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -89,7 +89,4 @@ An implementation is available in the base system for scripted extension points.
 
 5.  On the Extension Point form, click **Update**.
 
-## Related
 
-- [[hcls-med-prescription-form|Medication Prescription form]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

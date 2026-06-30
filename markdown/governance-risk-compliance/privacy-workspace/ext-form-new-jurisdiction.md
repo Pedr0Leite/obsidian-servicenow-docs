@@ -14,7 +14,7 @@ breadcrumb: [Configure jurisdiction, Configure external-facing PDR form, Configu
 
 # Personal Data Rights external facing form location configuration
 
-Populate a new location configuration record. Field choices determine whether requesters in the mapped jurisdictions see authorized agent paths, what URLs the form links to, and what introductory text appears at the start of the [[personal-data-rights|Personal Data Rights]] \(PDR\) form.
+Populate a new location configuration record. Field choices determine whether requesters in the mapped jurisdictions see authorized agent paths, what URLs the form links to, and what introductory text appears at the start of the Personal Data Rights \(PDR\) form.
 
 <table id="table_dsf_pt3_jjc"><thead><tr><th>
 
@@ -100,6 +100,3 @@ Location-specific URL to the terms of service of your organization. If you leave
 
 [Personal Data Rights \(PDR\) external-facing form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/pdr-external-facing.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

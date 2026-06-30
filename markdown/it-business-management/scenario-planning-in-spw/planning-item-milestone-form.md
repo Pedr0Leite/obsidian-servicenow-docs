@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Planning item milestone form
 
-Learn about the fields of the [[planning-item-milestone-form-portfolio-planning|planning item milestone form]]. Use this form to create milestones for the planning items in your roadmap in [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn about the fields of the planning item milestone form. Use this form to create milestones for the planning items in your roadmap in Strategic Planning workspace.
 
 <table id="table_planning_milestone"><thead><tr><th>
 
@@ -90,7 +90,3 @@ Brief description about the milestone.
 
 [Customizing the dependencies display on the roadmap in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/customizing-dependencies-display-on-roadmap.md)
 
-## Related
-
-- [[planning-item-milestone-form-portfolio-planning|Planning item milestone form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

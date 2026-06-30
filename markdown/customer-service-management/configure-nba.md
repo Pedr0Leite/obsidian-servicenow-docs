@@ -43,7 +43,7 @@ A guidance is an action that an agent can take or information that an agent can 
 </td><td>
 
 -   Mary created a case to report an issue with a router. The agent assigned to this case is recommended to apply a resolution from a solved case to resolve the customer issue. The resolution notes and a resolution code from the solved case are copied into the Closure Information section of the current case.
--   Paul, who has an account with StellarVest bank created a case to report a loss of credit card. The agent assigned to this case is recommended to [[create-work-orders|create a work order]] to dispatch a new credit card for Paul.
+-   Paul, who has an account with StellarVest bank created a case to report a loss of credit card. The agent assigned to this case is recommended to create a work order to dispatch a new credit card for Paul.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ A field recommendation is a value that is recommended for a field. Depending on 
 </td><td>
 
 -   An agent wants to reassign the case to a different team who is better equipped to resolve a customer issue. A field recommendation can recommend the assignment group based on the text in the case short description.
--   While interacting with a customer, an agent creates a case on behalf of the customer. Based on the short description the agent enters in the [[r_CustomerServiceCaseForm|case form]], the values for the fields **Product**, **Assignment group**, and **Assigned to** are recommended to the agent.
+-   While interacting with a customer, an agent creates a case on behalf of the customer. Based on the short description the agent enters in the case form, the values for the fields **Product**, **Assignment group**, and **Assigned to** are recommended to the agent.
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Actions of the type **Field Recommendation** are auto-filled in the fields or ap
 
 \[Omitted image "ra-field-recommendations-short-desc.png"\] Alt text: Case form showing highlighted field recommendations under the appropriate fields. For example, based on short description, service desk is the recommended field for assignment group.
 
-For more information, see [[ra-csm-config-recommendations|Creating guidance and field recommendation in Recommended Actions]].
+For more information, see [Creating guidance and field recommendation in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-config-recommendations.md).
 
 ## Elements for configuring recommended actions
 
@@ -91,37 +91,26 @@ Configuring a recommended action is a multi-step process that involves:
 
 -   **Context**
 
-    A context enables agents to see recommended actions for a record in that table when certain [[gamification-components-rules|rules]] are met. For more information, see [[ra-csm-contexts|Contexts in Recommended Actions]].
+    A context enables agents to see recommended actions for a record in that table when certain rules are met. For more information, see [Contexts in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts.md).
 
 -   **Context input**
 
-    A context input enables you to utilize the entities other than the context table to define rules, recommendations, and resource generators so that recommendations are updated dynamically as the context changes. For more information, see [[ra-csm-dynamic-context-inputs|Context inputs in Recommended Actions]].
+    A context input enables you to utilize the entities other than the context table to define rules, recommendations, and resource generators so that recommendations are updated dynamically as the context changes. For more information, see [Context inputs in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-dynamic-context-inputs.md).
 
 -   **Rule**
 
-    A rule is a set of conditions that applies to a context and determines when a recommended action appears for records in the context table. For more information, see [[ra-csm-rules|Rules in Recommended Actions]].
+    A rule is a set of conditions that applies to a context and determines when a recommended action appears for records in the context table. For more information, see [Rules in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md).
 
 -   **Recommendation**
 
-    A recommendation is a way to suggest an action to an agent. You can create recommendations with action types of guidance and field recommendation. For more information, see [[ra-csm-recommendations|Recommendations in Recommended Actions]].
+    A recommendation is a way to suggest an action to an agent. You can create recommendations with action types of guidance and field recommendation. For more information, see [Recommendations in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations.md).
 
 -   **Resource generators**
 
-    Resource generators provide helpful information for guidance and field recommendations. The resource generators use decision table, flow, scripts, Predictive [[intelligence-csm|Intelligence]] framework, or AI search capabilities to generate resources. For example, a resource generator can provide a knowledge article link that can then be used as a recommended action for a case. For more information, see [[ra-csm-resource-generators|Resource generators in Recommended Actions]].
+    Resource generators provide helpful information for guidance and field recommendations. The resource generators use decision table, flow, scripts, Predictive Intelligence framework, or AI search capabilities to generate resources. For example, a resource generator can provide a knowledge article link that can then be used as a recommended action for a case. For more information, see [Resource generators in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-resource-generators.md).
 
 -   **Arbitration parameters**
 
     Arbitration parameters determine the frequency of issues or the priority order of the recommended actions so that agents get the guidance that they must help resolve customer issues.
 
-## Related
 
-- [[ra-csm-config-recommendations|Creating guidance and field recommendation in Recommended Actions]]
-- [[ra-csm-contexts|Contexts in Recommended Actions]]
-- [[ra-csm-dynamic-context-inputs|Context inputs in Recommended Actions]]
-- [[ra-csm-rules|Rules in Recommended Actions]]
-- [[ra-csm-recommendations|Recommendations in Recommended Actions]]
-- [[ra-csm-resource-generators|Resource generators in Recommended Actions]]
-- [[create-work-orders|Create a work order]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[gamification-components-rules|Rules]]
-- [[intelligence-csm|Intelligence]]

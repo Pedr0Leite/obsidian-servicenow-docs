@@ -15,7 +15,7 @@ breadcrumb: [Customizing Lists in Portfolio Planning Workspace, Configure, Portf
 
 # Define audience for new lists in Portfolio Planning
 
-Manage who can view the newly created categories and lists in the Lists page of [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace.
+Manage who can view the newly created categories and lists in the Lists page of Portfolio Planning Workspace.
 
 ## Before you begin
 
@@ -35,6 +35,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

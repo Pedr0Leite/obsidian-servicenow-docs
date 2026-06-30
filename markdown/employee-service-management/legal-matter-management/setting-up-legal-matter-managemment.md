@@ -14,13 +14,13 @@ breadcrumb: [Legal Matter Management, Legal Service Delivery, Legal and Contract
 
 # Setting up Legal Matter Management
 
-Configure the foundation data for legal matters through [[legal-matter-management-landing-page|Legal Matter Management]] to provide legal services to employees.
+Configure the foundation data for legal matters through Legal Matter Management to provide legal services to employees.
 
 ## Configuration overview
 
 -   [Legal matter templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-administration.md)
 
-    Create [[legal-matter-administration|legal matter templates]] to standardize legal procedures​ for handling legal matters.
+    Create legal matter templates to standardize legal procedures​ for handling legal matters.
 
 -   [Email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
@@ -40,7 +40,3 @@ Configure the requirements to enable outside counsel engagement and matter creat
 
 **Parent Topic:**[Legal Matter Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-management-landing-page.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-matter-administration|Legal matter templates]]

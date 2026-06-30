@@ -22,7 +22,7 @@ Role required:sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Space type configuration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Space type configuration**.
 
     The Space Types page opens.
 
@@ -89,6 +89,3 @@ The space type is configured. You can select this space type while creating a sp
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

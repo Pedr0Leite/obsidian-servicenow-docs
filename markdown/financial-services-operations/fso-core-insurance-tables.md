@@ -19,7 +19,7 @@ This section explains the insurance tables in FSO Core and how they handle insur
 |Label|Table name|Description|
 |-----|----------|-----------|
 |Business Owners Policy|sn\_bom\_bo\_ins\_policy|Insurance Policy|
-|Claim Base|sn\_bom\_claim\_base|Claim base is the table from which all the insurance app specific claim case types are extended. This table contains all the common attributes which can be used across [[insurance-claims-flow|insurance claims]] case types.|
+|Claim Base|sn\_bom\_claim\_base|Claim base is the table from which all the insurance app specific claim case types are extended. This table contains all the common attributes which can be used across insurance claims case types.|
 |Commercial Auto Policy|sn\_bom\_ca\_ins\_policy|Insurance commercial auto policy table extended from insurance policy.|
 |Commercial Property Policy|sn\_bom\_cp\_ins\_policy|Insurance commercial property policy table extended from insurance policy.|
 |Commercial Travel Policy|sn\_bom\_ct\_ins\_policy|Stores information about a commercial travel policy issued to a policy holder. Extends Insurance Policy \[sn\_bom\_ins\_policy\].|
@@ -44,9 +44,5 @@ This section explains the insurance tables in FSO Core and how they handle insur
 |Renters Policy|sn\_bom\_renters\_ins\_policy|Insurance personal renters policy table extended from insurance policy.|
 |Transaction|sn\_bom\_ins\_policy\_transaction|Stores all policy transaction records. Extends the Financial Transaction \[sn\_bom\_transaction\] table.|
 
-**Parent Topic:**[[financial-services-operations-core-data-model|Financial Services Operations Core]]
+**Parent Topic:**[Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[insurance-claims-flow|Insurance claims]]

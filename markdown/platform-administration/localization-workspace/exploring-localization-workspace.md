@@ -14,15 +14,15 @@ breadcrumb: [Localization Workspace, Translation and localization, Configure cor
 
 # Exploring Localization Workspace
 
-[[localization-workspace|Localization Workspace]] is a targeted translation management experience for content owners and translation requesters. With Localization Workspace you can manage and deliver multilingual content at scale.
+Localization Workspace is a targeted translation management experience for content owners and translation requesters. With Localization Workspace you can manage and deliver multilingual content at scale.
 
 ## Localization Workspace overview
 
-Localization Workspace contains all the components and data a [[ia-localization-il|Localization]] manager needs to understand and manage which content types and activities are required to complete translations. It streamlines and automates task creation and translation workflows.
+Localization Workspace contains all the components and data a Localization manager needs to understand and manage which content types and activities are required to complete translations. It streamlines and automates task creation and translation workflows.
 
 In the initial release, Localization Workspace supports translation requests when the sources are English and the targets are non-English languages. Translation requests for non-English texts \(into any language including English\) are not currently supported.
 
-After configuration, translation requests follow a translation workflow through a Translation Management System \(TMS\) or a machine translation \(MT\) service. Localization Workspace leverages the project bundling capabilities of [[localization-framework-landing|Localization Framework]].
+After configuration, translation requests follow a translation workflow through a Translation Management System \(TMS\) or a machine translation \(MT\) service. Localization Workspace leverages the project bundling capabilities of Localization Framework.
 
 Localization Workspace is available for on-premise \(self-hosted\) customers. It has not been certified for regulated markets.
 
@@ -44,7 +44,7 @@ For more information see [Localization Workspace Roles](https://raw.githubuserco
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Submit and manage translation requests from a single interface.|Localization Workspace enables you to [[language-picker-ui|request translations]] into multiple languages, using multiple different providers.|Localization Workspace user.|
+|Submit and manage translation requests from a single interface.|Localization Workspace enables you to request translations into multiple languages, using multiple different providers.|Localization Workspace user.|
 |Select multiple types of content for translation.|When you select types of content to translate, Localization Workspace automatically identifies and collects all untranslated or partially translated content in scope.|Localization Workspace user.|
 |Generate an informational cost estimate.|Informational cost estimates enable you to plan and control your localization budget.|Localization Workspace user.|
 
@@ -56,9 +56,3 @@ To learn more about setting up and using Localization Workspace, see:
 -   [Requesting translations in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/requesting-translations-localization-workspace.md)
 -   [Localization Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace-reference.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]
-- [[language-picker-ui|Request translations]]

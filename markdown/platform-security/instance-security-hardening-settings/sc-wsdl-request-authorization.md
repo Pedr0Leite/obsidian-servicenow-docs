@@ -14,13 +14,13 @@ breadcrumb: [API and web service, Hardening settings, Platform Security]
 
 # Require authorization for WSDL request
 
-Use the **glide.basicauth.required.wsdl** property to designate if incoming WSDL \(Web Services Description Language\) requests should require [[basic-authentication|basic authentication]].
+Use the **glide.basicauth.required.wsdl** property to designate if incoming WSDL \(Web Services Description Language\) requests should require basic authentication.
 
-If **glide.basicauth.required.wsdl** system property is not set to the recommended value of **true**, then Basic Authentication for WSDL requests are disabled. WSDL is a protocol that is used to describe web services such as instance table schemas, and is not a mechanism for sharing the data within tables. Setting this property to **true** allows for disclosure of table schemas to unauthenticated [[users|users]].
+If **glide.basicauth.required.wsdl** system property is not set to the recommended value of **true**, then Basic Authentication for WSDL requests are disabled. WSDL is a protocol that is used to describe web services such as instance table schemas, and is not a mechanism for sharing the data within tables. Setting this property to **true** allows for disclosure of table schemas to unauthenticated users.
 
-Ensure the property **glide.basicauth.required.wsdl** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table and is set to **true**.
+Ensure the property **glide.basicauth.required.wsdl** exists in the System Properties \[sys\_properties\] table and is set to **true**.
 
-**Note:** If you choose not to require basic authentication for incoming WSDL requests, you must modify [[sc-access-control|Access Control]] \(ACL\) rules to enable guest users to access the WSDL content.
+**Note:** If you choose not to require basic authentication for incoming WSDL requests, you must modify Access Control \(ACL\) rules to enable guest users to access the WSDL content.
 
 ## More information
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -106,7 +106,7 @@ Functional impact
 
 </td><td>
 
-This remediation enforces a combination of [[c_Authentication|authentication]] methods, in the form of basic authentication and system level access control. -   It performs this authentication while retrieving data from tables/pages in the form of WSDL data on the instance.
+This remediation enforces a combination of authentication methods, in the form of basic authentication and system level access control. -   It performs this authentication while retrieving data from tables/pages in the form of WSDL data on the instance.
 -   It restricts any guest users who are currently accessing this data. If applicable, you may need to create a new account for users who need access to this content, with necessary access control permissions.
 
 </td></tr><tr><td>
@@ -120,11 +120,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[API and web service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-api-web-service.md)
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

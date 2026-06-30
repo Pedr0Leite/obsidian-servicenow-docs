@@ -175,7 +175,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Minimum test [[cases|cases]]
+Minimum test cases
 
 </td><td>
 
@@ -203,12 +203,7 @@ Data representativeness
 
 </td><td>
 
-[[ai-datasets|Datasets]] should reflect all of the tasks that the AI agent or agentic workflow will handle. Include edge cases and failure-prone scenarios to help ensure that you're testing against common real-world scenarios.
+Datasets should reflect all of the tasks that the AI agent or agentic workflow will handle. Include edge cases and failure-prone scenarios to help ensure that you're testing against common real-world scenarios.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cases|Cases]]
-- [[ai-datasets|Datasets]]

@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Define the data source and detection tool mapping
 
-Define the data source and detection tool mapping for MITRE-ATT&amp;CK tactics and techniques. The data source [[mapping-logrhythm|mapping]] provides you with insight into the relevance and availability of the [[data-sources|data sources]] and the detection [[tools|tools]] for monitoring the data sources in your environment.
+Define the data source and detection tool mapping for MITRE-ATT&amp;CK tactics and techniques. The data source mapping provides you with insight into the relevance and availability of the data sources and the detection tools for monitoring the data sources in your environment.
 
 ## Before you begin
 
@@ -27,11 +27,11 @@ You can identify the data sources and the detection tools that your organization
 
 For example, if your organization focuses on 5 techniques, you may need 10 data sources and 10 detection tools to monitor those sources. Let's say that you identify that your organization does not have two data sources and five detection tools. This exercise gives you visibility into the data sources, their relevance to your organization, and to identify gaps in the coverage. You can also focus on enhancing your environment with the right data sources and detection tools.
 
-All the active tactics, techniques, ID, and data sources are automatically populated based on your [[setup-mitre-profile|TAXII profile]]
+All the active tactics, techniques, ID, and data sources are automatically populated based on your [TAXII profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/setup-mitre-profile.md)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Data Source Mapping**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Data Source Mapping**.
 
     The following illustration shows the list of tactics, techniques, and their IDs that have been populated based on your collection updates.
 
@@ -59,7 +59,7 @@ ID
 
 </td><td>
 
-Technique’s unique [[identity|identity]].
+Technique’s unique identity.
 
 </td></tr><tr><td>
 
@@ -83,7 +83,7 @@ Data Source Revoked
 
 </td><td>
 
-Data source is revoked if set to true, however the data source mapping is still retained.If the data source value is not found in MITRE, then the Data Source Revoked value is automatically marked as true. The data source mapping for a record is revoked if the technique and data source [[stix-relationships|relationships]] are missing from the updated MITRE data.
+Data source is revoked if set to true, however the data source mapping is still retained.If the data source value is not found in MITRE, then the Data Source Revoked value is automatically marked as true. The data source mapping for a record is revoked if the technique and data source relationships are missing from the updated MITRE data.
 
  Default: false
 
@@ -127,7 +127,7 @@ The data source mapping for a record is revoked if the technique and data source
     \[Omitted image "mitre-select-detection-tool.gif"\] Alt text: How to map the detection tool.
 
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -158,7 +158,7 @@ The data source mapping for a record is revoked if the technique and data source
 
 [Extend the MITRE-ATT&amp;CK data]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -178,14 +178,3 @@ The data source mapping for a record is revoked if the technique and data source
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[setup-mitre-profile|Set up the MITRE-ATT&amp;CK framework]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mapping-logrhythm|Mapping]]
-- [[data-sources|Data Sources]]
-- [[tools|Tools]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[identity|Identity]]
-- [[stix-relationships|Relationships]]
-- [[data-component|Data Component]]

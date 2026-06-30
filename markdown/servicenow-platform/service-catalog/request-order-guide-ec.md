@@ -22,7 +22,7 @@ Role required: requester
 
 ## About this task
 
-An order guide submits a single [[service-catalog|service catalog]] request that contains several catalog items so that you don't have to request each item manually. For more information, see [Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md).
+An order guide submits a single service catalog request that contains several catalog items so that you don't have to request each item manually. For more information, see [Order guides](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogOrderGuides.md).
 
 For example, a New Employee Hire order guide can contain several items that new employees commonly need, such as business cards, computer, and cell phone. After selecting this order guide, the customer can then provide information about the new employee, including location and job title. The order guide then submits an order for catalog items like business cards, based on the details provided.
 
@@ -48,7 +48,7 @@ For example, a New Employee Hire order guide can contain several items that new 
 
         **Note:** When the item is excluded from the order guide request, the item is not editable and the corresponding mandatory field restrictions are ignored.
 
-    3.  To add an [[attachment|attachment]] for the catalog item, click the Add attachments icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: Icon to add attachments\) and select the required attachment.
+    3.  To add an attachment for the catalog item, click the Add attachments icon \(\[Omitted image "IconAddAttachmnt.png"\] Alt text: Icon to add attachments\) and select the required attachment.
 
     4.  Click **Previous** to navigate to the **Describe Needs** section.
 
@@ -88,7 +88,3 @@ For example, a New Employee Hire order guide can contain several items that new 
 
 [Create an order guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAnOrderGuide.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[attachment|Attachment]]

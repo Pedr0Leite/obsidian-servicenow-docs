@@ -47,7 +47,7 @@ OpenFrame includes these components:
 OpenFrame provides support for embedded and contextual phone conversations, including:
 
 -   Context identification: Incoming calls maximize the OpenFrame window and display details about the caller, including the account, contact or consumer name, and phone number.
--   Links to [[migration-forms|forms]]: Use the openFrameAPI \(openServiceNowForm\) to create links to forms. When an incoming call is received, an agent can select the account, contact, consumer, or case number in the OpenFrame window to open the corresponding record.
+-   Links to forms: Use the openFrameAPI \(openServiceNowForm\) to create links to forms. When an incoming call is received, an agent can select the account, contact, consumer, or case number in the OpenFrame window to open the corresponding record.
     -   In Agent Workspace, records open in either a primary tab or a subtab depending on the tab configuration.
     -   In the platform interface, records open in TopFrame \(that is, the current page\).
 -   Select-to-call capability: Click phone number fields to make a call.
@@ -74,12 +74,12 @@ Open the window
 In Agent Workspace, select the phone icon:
 
 -   In the navigation bar.
--   Next to the **Contact** or **Consumer** fields on the [[r_CustomerServiceCaseForm|Case form]].
+-   Next to the **Contact** or **Consumer** fields on the Case form.
  In the platform interface, select the phone icon:
 
 -   In the banner frame.
 -   Next to the **Contact** or **Consumer** fields on the Case form.
- With the admin role, you can configure the phone icon. For more information, see [[c_CTIIntegrationWithTheCaseForm|CTI integration with the Case form]].
+ With the admin role, you can configure the phone icon. For more information, see [CTI integration with the Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CTIIntegrationWithTheCaseForm.md).
 
 </td></tr><tr><td>
 
@@ -109,10 +109,10 @@ Select and drag the OpenFrame window header.
 </table>
 ## Using OpenFrame in CSM Configurable Workspace
 
-In the [[csm-workspaces-configure|CSM Configurable Workspace]], you can:
+In the CSM Configurable Workspace, you can:
 
 -   Integrate OpenFrame with the Interaction Management System \(IMS\) and interaction records. This enables agents to manage the phone interaction life cycle.
--   Use the native voice control capability from the Interaction Controls Component \(ICC\) plugin to integrate to the contact center voice channel. You must enable this in the CSM Configurable Workspace to manage the voice channel. For more information, see [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]] and [[interaction-controls-component-icc-call-interaction-features|Interaction Controls Component \(ICC\) call features]].
+-   Use the native voice control capability from the Interaction Controls Component \(ICC\) plugin to integrate to the contact center voice channel. You must enable this in the CSM Configurable Workspace to manage the voice channel. For more information, see [Interaction Controls Component \(ICC\) for voice calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-center-integration-with-icc.md) and [Interaction Controls Component \(ICC\) call features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/interaction-controls-component-icc-call-interaction-features.md).
 
 ## Creating an OpenFrame configuration
 
@@ -127,11 +127,3 @@ With the admin role, you can create or modify an OpenFrame configuration. This c
 
 [openFrameAPI - Client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_openFrameAPI.md)
 
-## Related
-
-- [[c_CTIIntegrationWithTheCaseForm|Computer Telephony demo integration with the Case form]]
-- [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]]
-- [[interaction-controls-component-icc-call-interaction-features|Interaction Controls Component \(ICC\) call features]]
-- [[migration-forms|Forms]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

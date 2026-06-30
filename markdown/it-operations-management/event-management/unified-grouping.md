@@ -16,13 +16,7 @@ breadcrumb: [Alert grouping types and creation methods, Alert grouping, Configur
 
 Mixed alert grouping combines multiple strategies—currently CMDB-based, tag-based, related log entities-based, and shared impacted services-based grouping—to form a single, cohesive alert group. It reduces noise, bridges gaps when one method isn't enough, and delivers a clearer, end-to-end view of incidents. This approach helps operators identify root causes faster and take informed action, even in complex or incomplete data environments.
 
-To understand how Mixed grouping works in practice, it's important to look at the individual strategies it currently supports. At this stage, Mixed Grouping includes four core methods. CMDB-based [[c_ServiceAnalyticsOverview|alert grouping]] uses service relationships defined in the CMDB. [[alert-clustering-tag-definitions-concept|Tag cluster alert grouping]] uses shared metadata across alerts. [[log-analytics-alert-grouping|Related log entities alert grouping]] correlates alerts based on associated log entities. [[shared-impacted-services-grouping|Shared impacted services alert grouping]] groups alerts that affect common services. Each method plays a distinct role in effectively correlating related alerts.
+To understand how Mixed grouping works in practice, it's important to look at the individual strategies it currently supports. At this stage, Mixed Grouping includes four core methods. CMDB-based alert grouping uses service relationships defined in the CMDB. Tag cluster alert grouping uses shared metadata across alerts. Related log entities alert grouping correlates alerts based on associated log entities. Shared impacted services alert grouping groups alerts that affect common services. Each method plays a distinct role in effectively correlating related alerts.
 
 If you're looking to group alerts, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[alert-clustering-tag-definitions-concept|Tag cluster alert grouping]]
-- [[log-analytics-alert-grouping|Related log entities alert grouping]]
-- [[shared-impacted-services-grouping|Shared impacted services alert grouping]]

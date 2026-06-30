@@ -20,7 +20,7 @@ To capture updates to the linked records, business rules must be created on the 
 
 These business rules work on insert, update, and delete operations. When you perform insert or update, you need to add or update rolled up information to MSI. If you delete then the rolled up information will be removed from MSI.
 
-For example, once a security incident is linked to MSI, the related information will be rolled up automatically MSI. But later, if you add a new observable to an MSI, then the newly added observable also will be rolled up to MSI. Here, **Sync rolled up observable** business rule captures the update and rollup the updated record to MSI. Similarly, the same business rule also handles the removal of the existing rolled up [[c_Observables|observables]], if it gets removed from the security incident.
+For example, once a security incident is linked to MSI, the related information will be rolled up automatically MSI. But later, if you add a new observable to an MSI, then the newly added observable also will be rolled up to MSI. Here, **Sync rolled up observable** business rule captures the update and rollup the updated record to MSI. Similarly, the same business rule also handles the removal of the existing rolled up observables, if it gets removed from the security incident.
 
 |Rule|Description|
 |----|-----------|
@@ -42,6 +42,3 @@ For example, once a security incident is linked to MSI, the related information 
 
 [Rollup example use case implementation for a Security Case]()
 
-## Related
-
-- [[c_Observables|Observables]]

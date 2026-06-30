@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Non-monetary benefit plan form
 
-The [[benefit-plan-form-project-management|benefit plan form]] information is used to create [[monetary-non-monetary-benefit-plans|monetary and non-monetary benefit plans]] for a demand.
+The benefit plan form information is used to create monetary and non-monetary benefit plans for a demand.
 
 <table id="table_demand_benefit_plan_form"><thead><tr><th>
 
@@ -188,8 +188,3 @@ Determines how the roll-up happens from breakdowns to the benefit plan and updat
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[benefit-plan-form-project-management|Benefit Plan form]]
-- [[monetary-non-monetary-benefit-plans|Monetary and non-monetary benefit plans]]

@@ -40,7 +40,7 @@ States of a record when submitted for approval:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -87,14 +87,10 @@ States of a record when submitted for approval:
 
 ## What to do next
 
-The approvers can respond to the submitted record from the [[employee-center-landing-page|Employee Center]].
+The approvers can respond to the submitted record from the Employee Center.
 
 -   When all approvers respond, the state of the submitted record updates to Approved or Rejected and the **Close audit** button appears for it.
 -   Select **Close audit** to complete and close the audit. If all objectives in this audit are complete, the audit moves to the Closed complete state.
 
 **Parent Topic:**[Create and manage a safety audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-create-manage-safety-audit-workspace.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

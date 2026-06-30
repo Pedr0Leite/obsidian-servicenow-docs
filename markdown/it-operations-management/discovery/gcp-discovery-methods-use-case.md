@@ -14,9 +14,9 @@ breadcrumb: [Discovery for Google Cloud Platform, Discovery for cloud environmen
 
 # GCP cloud discovery methods and use cases
 
-Comparison of use cases and requirements for cloud [[r-discovery|discovery]] methods in GCP.
+Comparison of use cases and requirements for cloud discovery methods in GCP.
 
-[[itom-visibility-landing-page|ITOM Visibility]] offers several methods for GCP cloud discovery. Each method supports different use cases and has its own requirements.
+ITOM Visibility offers several methods for GCP cloud discovery. Each method supports different use cases and has its own requirements.
 
 ## GCP cloud discovery use cases
 
@@ -50,7 +50,7 @@ Service Graph Connectors
 
 </th><th>
 
-[[acc-landing-page|Agent Client Collector]] for Visibility - Content \(without MID Server\)
+Agent Client Collector for Visibility - Content \(without MID Server\)
 
 </th><th>
 
@@ -278,9 +278,3 @@ Yes
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[acc-landing-page|Agent Client Collector]]

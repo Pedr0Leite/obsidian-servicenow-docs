@@ -12,11 +12,11 @@ breadcrumb: [Workplace Space Mapping, Workplace Service Delivery, Employee Servi
 
 # Exploring Workplace Space Mapping
 
-[[wsm-mappedin-admin|Workplace Space Mapping]] provides interactive locations and wayfinding solutions in your workplace with [[Indoor-mapping|Indoor Mapping]] and Mappedin. Indoor Mapping provides inbuilt indoor maps for Workplace Space Mapping. Mappedin is a third-party map provider.
+Workplace Space Mapping provides interactive locations and wayfinding solutions in your workplace with Indoor Mapping and Mappedin. Indoor Mapping provides inbuilt indoor maps for Workplace Space Mapping. Mappedin is a third-party map provider.
 
 ## Synchronize Workplace Indoor Mapping with Workplace Service Delivery
 
--   Indoor Mapping is the inbuilt map provider with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] suite for wayfinding within workplaces.
+-   Indoor Mapping is the inbuilt map provider with Workplace Service Delivery suite for wayfinding within workplaces.
 
     **Note:** Install both Indoor Mapping and the dependent plugin Workplace Indoor Mapping.
 
@@ -26,8 +26,3 @@ breadcrumb: [Workplace Space Mapping, Workplace Service Delivery, Employee Servi
 
 Use external IDs to resolve spaces that do not match the locations in Workplace Service Delivery from Indoor Mapping or Mappedin maps after importing or synchronizing a building.
 
-## Related
-
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

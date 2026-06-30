@@ -12,7 +12,7 @@ breadcrumb: [Configure, Task Intelligence for Customer Service, Machine learning
 
 # Export a model
 
-Export a Task [[intelligence-csm|Intelligence]] model to another instance.
+Export a Task Intelligence model to another instance.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: ti\_admin or tia\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Setup**, depending on which application and context you want to export for.
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup**, depending on which application and context you want to export for.
 
 2.  In the **Models** list, select the more options menu of the model you want to export.
 
@@ -41,7 +41,3 @@ The browser downloads the XML file to your system.
 
 You can use the XML file to transfer the model to another instance using update sets. To learn more, see [System update sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/system-update-sets.md). Find out [How to move your trained Task Intelligence Models to a different instance](https://www.servicenow.com/community/intelligence-ml-articles/how-to-move-your-trained-task-intelligence-models-to-a-different/ta-p/2537933).
 
-## Related
-
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]

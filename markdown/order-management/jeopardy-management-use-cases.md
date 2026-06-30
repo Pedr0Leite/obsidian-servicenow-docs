@@ -12,11 +12,11 @@ breadcrumb: [Configuring Jeopardy Management, Order management, Configure, Sales
 
 # Jeopardy Management use cases
 
-Jeopardy Management use cases help you explore and understand how Jeopardy Management works in different scenarios in [[explore-order-management|Order Management]].
+Jeopardy Management use cases help you explore and understand how Jeopardy Management works in different scenarios in Order Management.
 
 ## Design-time use cases
 
-Design-time [[use-cases|use cases]] explain some of the scenarios around configuring and [[jeopardy-management-setup-overview|setting up Jeopardy Management]] for Order Management.
+Design-time use cases explain some of the scenarios around configuring and setting up Jeopardy Management for Order Management.
 
 **Use case: Configure business logic and workflows**
 
@@ -45,7 +45,7 @@ Fulfillment agents and managers use jeopardy management workflows to monitor the
 -   Update jeopardy levels as needed in the order entry forms.
 -   Roll up planned dates for order tasks that complete.
 
-**Use Case: Support staggered [[order-mgt-order-decomposition|order decomposition]] and Jeopardy Management**
+**Use Case: Support staggered order decomposition and Jeopardy Management**
 
 Fulfillment managers and agents expect that when a staggered order decomposition occurs, each occurrence of a staggered order line item causes the Jeopardy Management workflow logic to restart.
 
@@ -65,15 +65,7 @@ Fulfillment managers and agent want Jeopardy Management to pause orders. When th
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[explore-order-management|Order management]]
-- [[use-cases|Use cases]]
-- [[jeopardy-management-setup-overview|Setting up jeopardy management]]
-- [[order-mgt-order-decomposition|Order decomposition]]

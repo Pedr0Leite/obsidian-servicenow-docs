@@ -15,7 +15,7 @@ breadcrumb: [Creating AI assets, Use, AI Control Tower, Enable AI experiences]
 
 # Create AI system assets
 
-Create [[ai-assets|AI assets]] to track and manage the life cycles of your [[ai-system|AI systems]].
+Create AI assets to track and manage the life cycles of your AI systems.
 
 ## Before you begin
 
@@ -23,15 +23,15 @@ Role required: sn\_ai\_governance\_ai\_steward or sn\_ai\_asset\_mgmt.ai\_asset\
 
 ## About this task
 
-An AI system is a software artifact that provides AI and machine learning \(ML\) capabilities to generate outputs, such as predictions, content, recommendations, and decisions, with varying levels of autonomy. Each AI system can be associated with one or more [[ai-models|AI models]], which may also be associated with one or more [[ai-prompts|prompts]] and [[ai-datasets|datasets]]. These AI models, prompts, and datasets enable the AI system to process data and solve complex problems with little to no human intervention.
+An AI system is a software artifact that provides AI and machine learning \(ML\) capabilities to generate outputs, such as predictions, content, recommendations, and decisions, with varying levels of autonomy. Each AI system can be associated with one or more AI models, which may also be associated with one or more prompts and datasets. These AI models, prompts, and datasets enable the AI system to process data and solve complex problems with little to no human intervention.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
 2.  From the AI Control Tower, open the AI assets view.
 
-3.  From the [[now-assist-global-navigation|navigation]] menu of the AI assets view, navigate to either **[[ai-inventory|AI asset inventory]] - Managed** &gt; **AI Systems** or **AI asset inventory - Unmanaged** &gt; **AI Systems**.
+3.  From the navigation menu of the AI assets view, navigate to either **AI asset inventory - Managed** &gt; **AI Systems** or **AI asset inventory - Unmanaged** &gt; **AI Systems**.
 
 4.  Select **Add AI system**.
 
@@ -340,13 +340,3 @@ Users who are assigned the AI steward \(sn\_ai\_governance.ai\_steward\) role ca
 
 **Parent Topic:**[Creating AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/creating-ai-assets.md)
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]
-- [[ai-datasets|Datasets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-inventory|AI asset inventory]]

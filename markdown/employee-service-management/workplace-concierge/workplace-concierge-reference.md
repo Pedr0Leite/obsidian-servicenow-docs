@@ -14,15 +14,10 @@ breadcrumb: [Workplace Concierge, Workplace Service Delivery, Employee Service M
 
 # Workplace Concierge reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the forms and lists used in the [[workplace-concierge-feat|Workplace Concierge]] application.
+Reference topics provide additional information about the forms and lists used in the Workplace Concierge application.
 
 -   **[Employee Presence Calendar Widget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/presence-calendar-widget-frm.md)**  
-You can use the [[presence-calendar-widget-frm|Employee Presence Calendar Widget form]] to add a widget to the calendar section on the Presence dashboard.
+You can use the Employee Presence Calendar Widget form to add a widget to the calendar section on the Presence dashboard.
 
 **Parent Topic:**[Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-feat.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[presence-calendar-widget-frm|Employee Presence Calendar Widget form]]

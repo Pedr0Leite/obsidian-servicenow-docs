@@ -86,7 +86,7 @@ You can view all associated ratings for an engagement by navigating to its Risk 
 
 \[Omitted image "tprm-calc-engage-level.png"\] Alt text: Risk ratings and associated background information for an engagement record.
 
-You can view all associated ratings for an assessment by navigating to its Risk ratings related list. Navigate to **All** &gt; **Third-party Risk Management** &gt; **External [[risk-assessments|Risk Assessments]]** &gt; **All Assessments** and then select the assessment you want. The following example shows you can view all available risk ratings as well as the Third-party risk areas, Questionnaires, Document requests, Downstream supplier related lists, and more.
+You can view all associated ratings for an assessment by navigating to its Risk ratings related list. Navigate to **All** &gt; **Third-party Risk Management** &gt; **External Risk Assessments** &gt; **All Assessments** and then select the assessment you want. The following example shows you can view all available risk ratings as well as the Third-party risk areas, Questionnaires, Document requests, Downstream supplier related lists, and more.
 
 \[Omitted image "tprm-calc-assess-level.png"\] Alt text: Risk ratings and associated background information available for an assessment record.
 
@@ -96,6 +96,3 @@ You can view all associated ratings for a questionnaire by navigating to its Ris
 
 **Parent Topic:**[Scoring calculations using the classic assessment engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vendor-ratings-scoring.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

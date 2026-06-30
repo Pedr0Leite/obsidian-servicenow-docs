@@ -26,7 +26,7 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 ## About this task
 
-[[process-mining|Process Mining]] gathers audit log field data for activities you define. Configure at least one activity to extract for and display in your process map records that start, end, or pass through a specific activity.
+Process Mining gathers audit log field data for activities you define. Configure at least one activity to extract for and display in your process map records that start, end, or pass through a specific activity.
 
 **Note:** While configuring a project, you must first set up a main \(parent\) table configuration, define an activity definition, and set up a breakdown definition. If only one table is needed, you can generate a full project that you can periodically mine and schedule with the data. If multiple tables are required, you must create additional \(child\) tables, relate it to the main \(parent\) table, and define the activity definition. You may also configure breakdown definitions on child tables.
 
@@ -55,6 +55,3 @@ Configure a breakdown or generate a project.
 
 **Parent Topic:**[Create a project using Classic view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-proj.md)
 
-## Related
-
-- [[process-mining|Process Mining]]

@@ -22,7 +22,7 @@ Role required: sn\_coaching.coach and sn\_coaching.admin
 
 ## About this task
 
-You can associate skills with [[cf-coaching-landing|coaching]] opportunities, coaching assessments, or course items. When a trainee completes a coaching assessment, you can automatically assign the skill the trainee has acquired during that coaching opportunity.
+You can associate skills with coaching opportunities, coaching assessments, or course items. When a trainee completes a coaching assessment, you can automatically assign the skill the trainee has acquired during that coaching opportunity.
 
 The coaching assessments generated from coaching opportunities award the skills to the trainee after the assessment is complete. If the assessment is configured to include assigned course items, the skills associated with course items are also added to the assessments.
 
@@ -85,6 +85,3 @@ When the assessment is complete, the skill is automatically added for the traine
 
 **Parent Topic:**[Assess a trainee](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-assess-trainee.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

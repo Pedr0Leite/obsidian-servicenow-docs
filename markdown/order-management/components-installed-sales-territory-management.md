@@ -12,7 +12,7 @@ breadcrumb: [Lead and opportunity management, Reference, Sales Customer Relation
 
 # Components installed with Sales Territory Management​
 
-Several types of components are installed with activation of the [[explore-sales-territory-management|Sales Territory Management​]] plugin, including user roles.
+Several types of components are installed with activation of the Sales Territory Management​ plugin, including user roles.
 
 ## Roles installed
 
@@ -124,9 +124,5 @@ Role for viewing the sales territory associated on the CRM entities like Lead, O
 -   sn\_sales\_territory.sales\_territory\_basic
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
+</table>**Parent Topic:**[Lead and opportunity management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-opportunity-mgt.md)
 
-## Related
-
-- [[reference-lead-opportunity-mgt|Lead and opportunity management reference]]
-- [[explore-sales-territory-management|Sales Territory Management​]]

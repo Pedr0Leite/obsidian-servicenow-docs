@@ -16,7 +16,7 @@ You can define system settings to customize the Core UI for yourself. The gear i
 
 The system settings are organized by tab.
 
-**Note:** This information is applicable to the Core UI. For information about adjusting system settings with Next Experience enabled, see [[set-up-preferences-next-experience|Next Experience preferences]].
+**Note:** This information is applicable to the Core UI. For information about adjusting system settings with Next Experience enabled, see [Next Experience preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-preferences-next-experience.md).
 
 <table id="table_kj4_twh_fr"><thead><tr><th>
 
@@ -40,7 +40,7 @@ More advanced accessibility features are activated when this setting is enabled.
 
 </td></tr><tr><td>
 
-Accessible tooltips on [[form-configurable-workspace|forms]]
+Accessible tooltips on forms
 
 </td><td>
 
@@ -76,7 +76,7 @@ Keyboard shortcuts enabled
 
 </td><td>
 
-Determines whether a user can access parts of the platform using keyboard shortcuts. For more information on available keyboard shortcuts, see [[r_KeyboardShortcuts|Core UI keyboard shortcuts]].
+Determines whether a user can access parts of the platform using keyboard shortcuts. For more information on available keyboard shortcuts, see [Core UI keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_KeyboardShortcuts.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Select a theme for the user interface. Select the **System** theme to return to 
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[lists-configurable-workspace|Lists]] tab
+Lists tab
 
 </td></tr><tr><td>
 
@@ -177,7 +177,7 @@ Tabbed forms
 
 </td><td id="entry_TabbedForms">
 
-Form sections and [[c_RelatedLists|related lists]] appear in tabs when this setting is enabled.
+Form sections and related lists appear in tabs when this setting is enabled.
 
 </td></tr><tr><td>
 
@@ -185,7 +185,7 @@ Related list loading
 
 </td><td>
 
-Determines when related lists load on forms. For more information, see [[t_ConfigureWhenARelatedListLoads|Configure when a related list loads]].
+Determines when related lists load on forms. For more information, see [Configure when a related list loads](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureWhenARelatedListLoads.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -230,7 +230,7 @@ List of notification categories that identify and group related notifications. E
 
  -   Edit settings for a notification:
     -   Enable or disable channels for the selected notification.
-    -   [Apply notification conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md), such as schedules and [[c_Filters|filters]], that affect the delivery of the notification.
+    -   [Apply notification conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/apply-notification-conditions.md), such as schedules and filters, that affect the delivery of the notification.
 -   [Create personal notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-personal-notifications.md), which are subscriptions to specific notifications that matter to you.
 
 </td></tr><tr><td class="sub-head" colspan="2">
@@ -288,15 +288,5 @@ Places the inspect icon in the banner frame when this setting is enabled. Enable
 </td></tr></tbody>
 </table>\[Omitted image "UI16SystemMenu.png"\] Alt text: System Settings window
 
-**Parent Topic:**[[c_UI16|Core UI]]
+**Parent Topic:**[Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UI16.md)
 
-## Related
-
-- [[set-up-preferences-next-experience|Next Experience preferences]]
-- [[r_KeyboardShortcuts|Core UI keyboard shortcuts]]
-- [[t_ConfigureWhenARelatedListLoads|Configure when a related list loads]]
-- [[c_UI16|Core UI]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_RelatedLists|Related lists]]
-- [[c_Filters|Filters]]

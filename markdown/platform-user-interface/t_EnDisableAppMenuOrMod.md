@@ -74,8 +74,5 @@ Use the **Roles** field.
     When you change application menus or modules, the application navigator automatically refreshes to display the changes.
 
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
-## Related
-
-- [[p_CommonUIElements|Common UI elements]]

@@ -18,7 +18,7 @@ For information on configuring the toolbar, see [Change the TinyMCE default tool
 
 ## Change the TinyMCE default toolbar
 
-Set the toolbar items in your [[r_SetArchiveRuleProcessingBehavior|system properties]] to enable or disable throughout Workspace.
+Set the toolbar items in your system properties to enable or disable throughout Workspace.
 
 ### Before you begin
 
@@ -65,7 +65,7 @@ Role required: admin
     **Note:**
 
     -   Include all the toolbar items that you want displayed, not just the toolbar items you want to add.
-    -   The [[clone-configurations-tab|configurations]] made to a field's Attribute field on the associated Dictionary record overrides the value of the System Property glide.ui.html.editor.toolbar.
+    -   The configurations made to a field's Attribute field on the associated Dictionary record overrides the value of the System Property glide.ui.html.editor.toolbar.
     -   Multiple attributes, such as height, toolbar buttons, and toolbar plugins, can be combined within the Attributes field. For example, `editor.height=300,editor.plugins=table colorpicker textcolor link image media codemirror lists advlist fullscreen charmap directionality emoticons hr insertdatetime nonbreaking pagebreak print searchreplace wordcount anchor codesample visualblocks visualchars compat3x autolink align_listitems,editor.toolbar= fontfamily fontsize | bold italic underline strikethrough forecolor backcolor pastetext removeformat | blocks searchreplace undo redo | bullist numlist outdent indent alignleft aligncenter alignright | tableofcontents table link unlink image media codesample | code fullscreen`.
 5.  Select **Update**.
 
@@ -199,7 +199,7 @@ After you set the dictionary attribute, use code view to manually enter deprecat
 
 3.  In the **Attributes** field, enter `tinymce_allow_all=true`, separated by a comma if needed.
 
-    Dictionary entry attributes can only be added to when the [[r_DictionaryEntryForm|dictionary entry form]] is in advanced view, as they are not shown in default view.
+    Dictionary entry attributes can only be added to when the dictionary entry form is in advanced view, as they are not shown in default view.
 
     \[Omitted image "TinyMCEAllowAll.png"\] Alt text: Updated attribute field
 
@@ -404,8 +404,4 @@ Role required: admin
 
     Access the HTML editor and you will see that the new custom style formats \(Bold text, Red text, My-inline\) appear in the formats section of the menu bar.
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[clone-configurations-tab|Configurations]]
-- [[r_DictionaryEntryForm|Dictionary entry form]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Understanding your cluster infrastructure
 
-Get a holistic and strategic analysis of all the entities in your clusters in one view on the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Get a holistic and strategic analysis of all the entities in your clusters in one view on the Software Asset Management application.
 
 The SAM Cluster 360° feature simplifies the process of analyzing a cluster, which is typically a time-consuming task. This feature helps SAM managers to make strategic decisions by providing them with a visually comprehensive view of their cluster setup, licensing, and cluster health issues. Drill down to each node on a cluster for a deeper understanding. For detailed information on your cluster, see [View your cluster setup in 360 degrees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-360-sam-cluster.md).
 
@@ -43,6 +43,3 @@ The SAM Cluster 360° feature helps you to view and analyze the following concep
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

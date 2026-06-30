@@ -30,8 +30,5 @@ The following types of recommendations are currently available:
 |n Empty dashboards|Number of dashboards that do not contain any widgets|
 |n No active owner|Number of dashboards without an active owner|
 
-**Parent Topic:**[[pa-library-recommendations|Platform Analytics library recommendations]]
+**Parent Topic:**[Platform Analytics library recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-library-recommendations.md)
 
-## Related
-
-- [[pa-library-recommendations|Platform Analytics library recommendations]]

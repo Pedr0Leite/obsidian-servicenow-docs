@@ -26,7 +26,7 @@ You can only update conflict of interest disclosure records that have the confli
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Open a conflict of interest disclosure record that you want to review or update.
 
@@ -42,6 +42,3 @@ You can only update conflict of interest disclosure records that have the confli
 
 **Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-use-landing.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

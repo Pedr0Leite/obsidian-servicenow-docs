@@ -14,11 +14,11 @@ breadcrumb: [OIDC as a SSO identity provider, Multi-Provider single sign-on \(SS
 
 # Create an OpenID Connect \(OIDC\) configuration for Single Sign-On \(SSO\)
 
-Create or update an OpenID Connect \(OIDC\) [[sc-configuration|configuration]] by using the Multi-Provider SSO plugin.
+Create or update an OpenID Connect \(OIDC\) configuration by using the Multi-Provider SSO plugin.
 
 ## Before you begin
 
--   Register an OIDC application with your [[identity-landing|Identity]] Provider \(IdP\) and note the Client ID, Client Secret, and Well-known configuration URL.
+-   Register an OIDC application with your Identity Provider \(IdP\) and note the Client ID, Client Secret, and Well-known configuration URL.
 -   [Activate Multi-Provider SSO plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ActivateMultipleProviderSSO.md). Multi-Provider SSO feature supports domain separation, you can specify different IdP's to different domains.
 -   [Configure Multi-provider SSO properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ConfigureMultiProviderSSOProps.md)
 -   [Activate Approval with e-Signature plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/activate-approval-esignature.md) to enable eSignature for the OIDC IdP.
@@ -28,11 +28,11 @@ If you have a client ID, client secret, and well-known configuration URL of the 
 
 **Note:**
 
--   The **Login with OIDC** button is not shown on the login page for OIDC based IDPs if the [[domain-sep-plugin|domain separation plugin]] is installed.
+-   The **Login with OIDC** button is not shown on the login page for OIDC based IDPs if the domain separation plugin is installed.
 -   Admin can use OIDC based IdP to enable SSO for a user of specific company or domain.
--   ServiceNow support the JSON Web [[encryption-landing|Encryption]] \(JWE\) as part of the OIDC SSO flow. To know more, see the [KB Article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2546935).
+-   ServiceNow support the JSON Web Encryption \(JWE\) as part of the OIDC SSO flow. To know more, see the [KB Article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2546935).
 
-If you do not have the required information about the identity provider, you can manually configure OIDC for SSO. After completing the configuration, [[users|users]] can log in to ServiceNow applications using third-party social identity providers like Google Okta.
+If you do not have the required information about the identity provider, you can manually configure OIDC for SSO. After completing the configuration, users can log in to ServiceNow applications using third-party social identity providers like Google Okta.
 
 ## Procedure
 
@@ -50,7 +50,7 @@ If you do not have the required information about the identity provider, you can
 
 </td><td>
 
-If you have the well-known configuration URL along with your associated [[client-credentials|client credentials]], you can directly import an OIDC configuration.**Note:** If you import the OIDC well-known configuration, all related fields are auto-populated.
+If you have the well-known configuration URL along with your associated client credentials, you can directly import an OIDC configuration.**Note:** If you import the OIDC well-known configuration, all related fields are auto-populated.
 
 </td></tr><tr><td id="d208602e181">
 
@@ -58,7 +58,7 @@ If you have the well-known configuration URL along with your associated [[client
 
 </td><td>
 
-If you do not have an existing [[oauth-inbound-and-outbound|OAuth]] OIDC Entity, close the Import OpenID Connect Well-Known Configuration pop-up and manually fill the fields in the OIDC Identity Provider form.
+If you do not have an existing OAuth OIDC Entity, close the Import OpenID Connect Well-Known Configuration pop-up and manually fill the fields in the OIDC Identity Provider form.
 
 </td></tr></tbody>
 </table>    |Property|Description|
@@ -132,7 +132,7 @@ ServiceNow Homepage
 
 </td><td>
 
-The URL of the login page used for [[c_Authentication|authentication]]. This field is automatically set to your instance URL. The format of the URL is: `https://yourinstance.service-now.com/navpage.do`
+The URL of the login page used for authentication. This field is automatically set to your instance URL. The format of the URL is: `https://yourinstance.service-now.com/navpage.do`
 
 </td></tr><tr><td>
 
@@ -178,7 +178,7 @@ Publicly available URL that contains logo of the OIDC IdP provider. This field a
     |Provision data source|ID token data source used for user provisioning.|
     |User Info Datasource|The user info endpoint datasource used for user provisioning. This field is displayed when `User Info` or `Both ID Token and User Info` are selected for the **Provision using** field.|
     |Update User on next login|Option to enable user update during the next login.|
-    |Update User Interval Time \(Seconds\)|Minimum time interval in seconds to update a user record between subsequent logins. This field is automatically set to 3,600 seconds. For example, after a user [[logs|logs]] in, the user record will be updated after 3,600 seconds until the next login. This field is available only when the **Update User on next login** field is enabled.|
+    |Update User Interval Time \(Seconds\)|Minimum time interval in seconds to update a user record between subsequent logins. This field is automatically set to 3,600 seconds. For example, after a user logs in, the user record will be updated after 3,600 seconds until the next login. This field is available only when the **Update User on next login** field is enabled.|
     |User roles applied to provisioned users|List of roles applied to the newly provisioned users.|
 
 5.  OIDC Entity tab
@@ -203,7 +203,7 @@ Publicly available URL that contains logo of the OIDC IdP provider. This field a
     **Note:**
 
     -   The Continuous Authentication tab appears only when you install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin that requires license.
-    -   If you're using continuous authentication policy to protect access to table or data class, see [[ca-homepage|Continuous Authentication \(CA\)]].
+    -   If you're using continuous authentication policy to protect access to table or data class, see [Continuous Authentication \(CA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ca-homepage.md).
     \[Omitted image "ca-tab-oidc.png"\] Alt text: Continuous Authentication - tab information
 
 <table id="table_klg_xrx_4dc"><thead><tr><th>
@@ -255,15 +255,4 @@ Select the look-up icon to choose the script provided from the platform. In this
 
     **Note:** If you have enabled **Selected as login Option**, you can go to the login URL of the instance.
 
-## Related
 
-- [[ca-homepage|Continuous Authentication \(CA\)]]
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[client-credentials|Client Credentials]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[logs|Logs]]

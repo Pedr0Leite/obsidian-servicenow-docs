@@ -25,11 +25,11 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 An invoice case with a category of Inquiry is referred to as an invoice inquiry case.
 
-Typically, an invoice inquiry case is automatically created when you receive an inquiry email. However, the agent can also manually create an invoice inquiry case from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. For more information, see [Create an invoice inquiry case manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-inquiry-case.md).
+Typically, an invoice inquiry case is automatically created when you receive an inquiry email. However, the agent can also manually create an invoice inquiry case from the Source-to-Pay Workspace. For more information, see [Create an invoice inquiry case manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-inquiry-case.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
@@ -55,13 +55,13 @@ Typically, an invoice inquiry case is automatically created when you receive an 
 
         The state of the case updates to Awaiting internal info.
 
-    -   [[create-apm-task|Create an invoice task]] and assign it to a user or group to resolve the invoice inquiry case. For more information, see [Create an invoice task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task.md).
-    -   AP specialist closes the inquiry case and if the system property **sn\_ap\_cm.awaiting\_acceptance\_enabled**is enabled, then the invoice inquiry state changes to awaiting acceptance, and the [[supplier|supplier]] receives an inquiry task in the [[supplier-central|Supplier Collaboration portal]]. If the supplier confirms the state of the invoice inquiry changes then the invoice is closed, otherwise the state of the invoice inquiry changes to **Work in Progress**.
+    -   Create an invoice task and assign it to a user or group to resolve the invoice inquiry case. For more information, see [Create an invoice task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task.md).
+    -   AP specialist closes the inquiry case and if the system property **sn\_ap\_cm.awaiting\_acceptance\_enabled**is enabled, then the invoice inquiry state changes to awaiting acceptance, and the supplier receives an inquiry task in the Supplier Collaboration portal. If the supplier confirms the state of the invoice inquiry changes then the invoice is closed, otherwise the state of the invoice inquiry changes to **Work in Progress**.
     -   The state of an inquiry case changes from**Awaiting requester info** and**Awaiting internal info** to **Work in progress** in the following scenarios:
         -   An email reply from a requester triggers an action to move the inquiry case state to Work in progress.
         -   When all inquiry tasks are closed, the inquiry case state is automatically changed to Work in progress.
         -   An agent can manually change the inquiry state from Awaiting requester info to Work in progress.
-7.  [[close-inquiry-case|Close an invoice inquiry case]] when all the activities and tasks for resolving the case are completed.
+7.  Close an invoice inquiry case when all the activities and tasks for resolving the case are completed.
 
     For more information, see [Close an invoice inquiry case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/close-inquiry-case.md).
 
@@ -75,11 +75,3 @@ Typically, an invoice inquiry case is automatically created when you receive an 
 
 [Using Supplier Collaboration Portal in APO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/using-supplier-collaboration-portal.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[create-apm-task|Create an invoice task]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[close-inquiry-case|Close an invoice inquiry case]]

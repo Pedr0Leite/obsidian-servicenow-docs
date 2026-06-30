@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for Portfolio Planning, Configure, Portfolio P
 
 # Create custom labor costs and map them to sys\_id
 
-Create and map custom labor costs to sys\_id to [[generate-labor-cost-demand|generate labor costs]] based on the relevant expenses.
+Create and map custom labor costs to sys\_id to generate labor costs based on the relevant expenses.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Role required: admin
     3.  In the Value field, enter the labor cost type name and it's sys\_id in the same format as the OOB labor costs mapping format.
     4.  Select **Update**.
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]

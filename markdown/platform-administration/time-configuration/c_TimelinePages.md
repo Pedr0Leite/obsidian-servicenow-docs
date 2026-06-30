@@ -18,7 +18,7 @@ Use timeline pages to track any activity bounded by two dates, such as change re
 
 ## Features
 
--   Make selected [[c_UsingTimelines|timelines]] available to users by role.
+-   Make selected timelines available to users by role.
 -   Select perspective from daily to yearly views.
 -   Create dynamic labels for timeline spans.
 -   Configure tooltips for each span.
@@ -41,7 +41,7 @@ Users with an administrator role can view timelines from the timeline page recor
 
 ## Other users
 
-By default, timeline [[c_MetricDefinitionSupport|metrics]] only appear for incident records. ITIL users can view timelines associated with any task record where the metrics are set to appear as timeline records. To view the Assigned to duration and the State duration metric timelines, ITIL users can select the **Metrics Timeline** context menu UI action.
+By default, timeline metrics only appear for incident records. ITIL users can view timelines associated with any task record where the metrics are set to appear as timeline records. To view the Assigned to duration and the State duration metric timelines, ITIL users can select the **Metrics Timeline** context menu UI action.
 
 1.  Navigate to active task record, such as an incident.
 2.  Right-click the banner, and select **Metrics Timeline**.
@@ -49,9 +49,9 @@ By default, timeline [[c_MetricDefinitionSupport|metrics]] only appear for incid
 To enable non-administrators to view other timelines, [create a custom module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_MakeATimelineVisibleToASelUser.md).
 
 -   **[Timing functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimingFunctionality.md)**  
-[[c_TimingFunctionality|Timing functionality]] are tools that exist to answer the question "How Long?"
+Timing functionality are tools that exist to answer the question "How Long?"
 -   **[Create a timeline page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateATimelinePage.md)**  
-[[t_CreateATimelinePage|Create a timeline page]] to track any activity bounded by two dates.
+Create a timeline page to track any activity bounded by two dates.
 -   **[Customize the timeline page span style](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CustomizeTimelinePageSpanStyle.md)**  
 The Timeline Page Span Styles related list allows you to define conditional span styles.
 -   **[Timeline sub item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_TimelineSubItem.md)**  
@@ -67,9 +67,3 @@ Timelines display a linear calendar of tasks, such as incidents and change reque
 
 **Parent Topic:**[Viewing record information over time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_TimeDisplay.md)
 
-## Related
-
-- [[c_UsingTimelines|Timelines]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[c_TimingFunctionality|Timing functionality]]
-- [[t_CreateATimelinePage|Create a timeline page]]

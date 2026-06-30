@@ -14,7 +14,7 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Example workflow for assigning tasks to agents based on Capacity and Reservations
 
-Explore how [[dynamic-scheduling|dynamic scheduling]] intelligently distributes tasks, considering the defined [[capacity|capacity]] reservations, work types, and overflow settings, ensuring optimal utilization of resources in the group.
+Explore how dynamic scheduling intelligently distributes tasks, considering the defined capacity reservations, work types, and overflow settings, ensuring optimal utilization of resources in the group.
 
 As an administrator, your goal is to ensure that assignment group works 25% on 'Install' work type, 25% on 'Break fix' work type, and the remaining 50% can be of any type or no type of work. The following example demonstrates how to achieve this through dynamic scheduling.
 
@@ -25,9 +25,9 @@ Prerequisites:
 -   Create an agent schedule record \('agent\_work\_schedule'\) for a user, specifying the 'Day Shift \(8:00-5:00\)' work schedule.
 
 1.  Capacity Definition Setup:
-    -   [[create-capacity-definitions|Create a capacity definition]] record with 'Capacity by' set to 'Tasks', assigning a value of '4' tasks daily.
+    -   Create a capacity definition record with 'Capacity by' set to 'Tasks', assigning a value of '4' tasks daily.
     -   Set the frequency of this capacity to 'Daily' to align with your scheduling needs.
-2.  [[capacity-reservations|Capacity Reservation Rules]]: Create two capacity reservation rules
+2.  Capacity Reservation Rules: Create two capacity reservation rules
     -   Rule 1 \('Install Work'\): Conditions set for 'Work type' as 'Install,' allocate 25%, and allow overflow.
     -   Rule 2 \('Break Fix Work'\): Conditions set for 'Work type' as 'Break fix,' allocate 25%, and allow overflow.
 3.  Tag Reservations to Definition: Link the created reservation rules to the definition crafted in step 1, forming a structure.
@@ -52,9 +52,3 @@ Prerequisites:
     -   Open the four tasks created in the list view and click 'Auto Assign' from the overflow action menu.
     -   A modal window displays possible assignments, allocating tasks based on the predefined 25% capacity for 'Install' type, 25% for 'Break fix' type, and the remaining 50% for any type or no type at all.
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[capacity|Capacity]]
-- [[create-capacity-definitions|Create a capacity definition]]
-- [[capacity-reservations|Capacity reservation rules]]

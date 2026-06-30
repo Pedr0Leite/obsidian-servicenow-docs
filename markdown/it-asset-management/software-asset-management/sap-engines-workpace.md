@@ -24,7 +24,7 @@ Role required: sam\_admin or sam\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License Operations**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace** &gt; **License Operations**.
 
 2.  Select **All SAP engines**.
 
@@ -33,6 +33,3 @@ Role required: sam\_admin or sam\_user
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

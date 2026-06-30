@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # Agent Client Collector Monitoring use case
 
-The [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] \(ACC-M\) use case demonstrates how organizations can achieve unified monitoring across hybrid IT environments.
+The Agent Client Collector Monitoring \(ACC-M\) use case demonstrates how organizations can achieve unified monitoring across hybrid IT environments.
 
 ## Use case overview
 
@@ -22,11 +22,11 @@ Many enterprises today operate in a hybrid IT environment, where some resources 
 
 ## Challenge
 
-An IT operations team struggled to cohesively [[t_EMViewDashboard|monitor service health]], due to the disparate nature of its infrastructure. On-premises resources, such as databases and ERP systems, were monitored using traditional methods, while cloud services had separate monitoring tools. This fragmentation resulted in:
+An IT operations team struggled to cohesively monitor service health, due to the disparate nature of its infrastructure. On-premises resources, such as databases and ERP systems, were monitored using traditional methods, while cloud services had separate monitoring tools. This fragmentation resulted in:
 
 -   A lack of real-time visibility into overall service health.
 -   Delayed issue identification and troubleshooting.
--   Multiple monitoring [[otto-aiops-dashboards|dashboards]], increasing complexity for the IT team.
+-   Multiple monitoring dashboards, increasing complexity for the IT team.
 -   Difficulty in correlating on-premises and cloud alerts, leading to inefficiencies.
 
 ## Solution
@@ -92,7 +92,7 @@ Hybrid Alerting and Automation
 ACC-M enables setting up automated alerts for both on-premises and cloud environments, streamlining their incident response processes. When a service in the hybrid environment experiences an issue, ACC-M does the following:
 
  -   Automatically generates alerts with enriched context, identifying whether the issue originated from the on-premises infrastructure or cloud services.
--   Triggers automated workflows for [[ccg-remediation|remediation]] based on the alert type, reducing manual intervention.
+-   Triggers automated workflows for remediation based on the alert type, reducing manual intervention.
 
 </td><td>
 
@@ -120,10 +120,3 @@ Enhanced Business Continuity:
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[t_EMViewDashboard|Monitor service health]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[ccg-remediation|Remediation]]

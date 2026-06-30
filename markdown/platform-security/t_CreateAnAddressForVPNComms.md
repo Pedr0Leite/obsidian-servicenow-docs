@@ -12,7 +12,7 @@ breadcrumb: [Virtual Private Network \(VPN\)]
 
 # Configuring an address for VPN communication
 
-To prevent conflict or overlap with internal ServiceNow networks or with another customer's internal IP address schemes, the instance requires that all tunneled traffic in the [[encryption-landing|encryption]] domain use non-RFC-1918 addresses on both sides of the tunnel.
+To prevent conflict or overlap with internal ServiceNow networks or with another customer's internal IP address schemes, the instance requires that all tunneled traffic in the encryption domain use non-RFC-1918 addresses on both sides of the tunnel.
 
 ## Before you begin
 
@@ -26,6 +26,4 @@ The instance provides a single IP address for the source of queries into your ne
 
 -   Provide Network Address Translation \(NAT\), non-RFC-1918 addresses for each host that is integrating with the instance.
 
-## Related
 
-- [[encryption-landing|Encryption]]

@@ -14,7 +14,7 @@ breadcrumb: [Creating requests for AI assets, Use, AI Control Tower, Enable AI e
 
 # Create offboarding requests for AI assets
 
-Create an offboarding request to retire [[ai-assets|AI assets]] that are no longer needed.
+Create an offboarding request to retire AI assets that are no longer needed.
 
 ## Before you begin
 
@@ -31,18 +31,18 @@ To retire a deployed AI asset, a user with the AI asset owner \(sn\_ai\_asset\_m
 
 You can create offboarding requests for the following AI asset types:
 
--   [[ai-system|AI systems]] \(classic, generative, and agentic\)
--   [[ai-models|AI models]]
--   [[ai-datasets|Datasets]]
+-   AI systems \(classic, generative, and agentic\)
+-   AI models
+-   Datasets
 -   MCP servers
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
 2.  If you have the AI asset owner \(sn\_ai\_asset\_mgmt.ai\_asset\_owner\) role, create an offboarding request.
 
-    1.  Initiate the request by using one of the following [[now-assist-global-navigation|navigation]] options.
+    1.  Initiate the request by using one of the following navigation options.
 
 <table id="table_tsq_c2x_g3c"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Procedure
 
 </th></tr></thead><tbody><tr><td>
 
-[[ai-control-tower-home-page|AI Control Tower Home]] view
+AI Control Tower Home view
 
 </td><td>
 
@@ -80,7 +80,7 @@ AI asset record
 </td><td>
 
 1.  From the AI Control Tower workspace, open the AI assets view.
-2.  From the navigation menu of the AI assets view, locate the **[[ai-inventory|AI asset inventory]] - Managed** section and then select the subsection for the type of AI asset that you want to retire.
+2.  From the navigation menu of the AI assets view, locate the **AI asset inventory - Managed** section and then select the subsection for the type of AI asset that you want to retire.
 
 Alternatively, navigate to **Lifecycle** &gt; **Deploy**.
 
@@ -134,13 +134,4 @@ Justification for creating the request.
 
         The offboarding workflow is initiated. The **Impacted assets** and the**Offboarding workflow** tabs also appear.
 
-## Related
 
-- [[ai-assets|AI assets]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-datasets|Datasets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[now-assist-global-navigation|Navigation]]
-- [[ai-control-tower-home-page|AI Control Tower Home]]
-- [[ai-inventory|AI asset inventory]]

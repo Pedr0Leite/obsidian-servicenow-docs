@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: HR Workspace Lists icon\).
 
@@ -98,7 +98,3 @@ A new list is created for you. Change the order of your lists using the **Reorde
 
 **Note:** Some users \(especially non-admins\) may not have access/visibility to the lists in the workspaces. For information on troubleshooting, see [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1325208](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1325208).
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

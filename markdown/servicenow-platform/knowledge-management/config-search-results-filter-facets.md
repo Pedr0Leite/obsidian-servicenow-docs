@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure filter facet widget instance options
 
-Configure widget instance options for the filter facet widgets on the [[knowledge-management|Knowledge Management]] Service Portal search results page.
+Configure widget instance options for the filter facet widgets on the Knowledge Management Service Portal search results page.
 
 ## Before you begin
 
@@ -111,7 +111,7 @@ Source Field
 
 </td><td>
 
-Field in the **Source Table** that provides the filter facet widget options. Field types that can be used as a source field include string, glide list, integer, [[reference|reference]], and boolean.
+Field in the **Source Table** that provides the filter facet widget options. Field types that can be used as a source field include string, glide list, integer, reference, and boolean.
 
 </td></tr><tr><td>
 
@@ -134,7 +134,7 @@ Template that determines the type of facet interaction. Knowledge Field Facet wi
 -   **Dropdown Select**: users can select more than one filter from a drop-down menu.
  Knowledge Query Facet widget templates
 
--   **Simple Query**: shows a [[label|label]] for each facet value.
+-   **Simple Query**: shows a label for each facet value.
 -   **Rating**: shows rating stars.
 
 
@@ -245,8 +245,3 @@ If enabled, shows categories with their hierarchy list up to the fourth-level. W
 
 [Knowledge Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[reference|Reference]]
-- [[label|Label]]

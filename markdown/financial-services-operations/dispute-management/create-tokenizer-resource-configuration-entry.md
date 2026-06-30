@@ -23,7 +23,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Card Operations** &gt; **[[card-data-security|Card Data Security]]** &gt; **Tokenizer Resource Configurations**.
+1.  Navigate to **All** &gt; **Card Operations** &gt; **Card Data Security** &gt; **Tokenizer Resource Configurations**.
 
 2.  Select **New**.
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Manage Tokenizer Resource Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-tokenizer-resource-configurations.md)
 
-## Related
-
-- [[card-data-security|Card Data Security]]

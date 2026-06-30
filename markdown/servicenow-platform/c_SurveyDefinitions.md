@@ -14,16 +14,16 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 A survey definition is the root record upon which a survey is built.
 
-The [[c_SurveyDesigner|survey designer]] generates a survey definition automatically when you save or publish the survey. Survey administrators may want to modify the survey definition to configure additional options for the survey, or to publish the survey when it is ready for distribution.
+The survey designer generates a survey definition automatically when you save or publish the survey. Survey administrators may want to modify the survey definition to configure additional options for the survey, or to publish the survey when it is ready for distribution.
 
 Survey administrators and survey readers can also send survey invitations directly to users from the survey definition.
 
--   **[[t_ModifySurveyDefinitions|Modify a survey definition]]**  
+-   **[Modify a survey definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ModifySurveyDefinitions.md)**  
 You can configure additional options for a survey definition.
--   **[[c_SchedulePeriods|Schedule periods]]**  
+-   **[Schedule periods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SchedulePeriods.md)**  
 The available schedule periods are **Only Once**, **No Limit**, **Daily**, **Weekly**, **Monthly**, and **Yearly**.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -60,12 +60,5 @@ The available schedule periods are **Only Once**, **No Limit**, **Daily**, **Wee
 
 [Legacy survey migration]()
 
-[[t_SendSurveyInvitationsToUsers|Send survey invitations to users]]
+[Send survey invitations to users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SendSurveyInvitationsToUsers.md)
 
-## Related
-
-- [[t_ModifySurveyDefinitions|Modify a survey definition]]
-- [[c_SchedulePeriods|Schedule periods]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[t_SendSurveyInvitationsToUsers|Send survey invitations to users]]
-- [[c_SurveyDesigner|Survey designer]]

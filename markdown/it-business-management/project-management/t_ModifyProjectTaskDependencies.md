@@ -26,17 +26,17 @@ Project task dependencies are saved on the Planned Task Relationship \[planned\_
 
 ## Procedure
 
-1.  Double-click a dependency on the [[c_GanttChart|Gantt chart]] of the [planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md).
+1.  Double-click a dependency on the Gantt chart of the [planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_TheProjectPlanningConsole.md).
 
 2.  On the form, fill in the details.
 
     For more information, see [Planned Task Relationship form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/planned-task-relationship-form.md).
 
-    \[Omitted image "planned\_task\_relationshipform.png"\] Alt text: [[planned-task-relationship-form|Planned Task Relationship form]]
+    \[Omitted image "planned\_task\_relationshipform.png"\] Alt text: Planned Task Relationship form
 
 3.  Select **Update**.
 
-    You can view dependencies in the Project Task related list on a Project or [[project-task-form|Project Task form]] and from the [[t_CreateAProjectTask|Project Tasks]] list on the workbench. These columns show the dependencies:
+    You can view dependencies in the Project Task related list on a Project or Project Task form and from the Project Tasks list on the workbench. These columns show the dependencies:
 
     -   The **Dependency** column shows the successor task in the relationship.
     -   The **Dependencies** column shows the dependency value. See [Predecessor dependencies in the planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_ProjectTaskDependencyValues.md) for a description of what you see in this column.
@@ -50,9 +50,3 @@ Project task dependencies are saved on the Planned Task Relationship \[planned\_
 
 [Remove a dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_RemoveDependencies.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[planned-task-relationship-form|Planned Task Relationship form]]
-- [[project-task-form|Project task form]]
-- [[t_CreateAProjectTask|Project tasks]]

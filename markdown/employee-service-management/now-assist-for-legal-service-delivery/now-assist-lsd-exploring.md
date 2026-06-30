@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Legal Service Delivery \(LSD\), Legal Service Delive
 
 # Explore Now Assist for Legal Service Delivery \(LSD\)
 
-With the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application, request fulfillers can use generative AI to summarize a legal request or legal matter.Request fulfillers or legal users can also generate actionable answers from knowledge article search results in [[employee-center-landing-page|Employee Center]], [[legal-counsel-center-landing|Legal Counsel Center]], and global search.
+With the Now Assist for Legal Service Delivery \(LSD\) application, request fulfillers can use generative AI to summarize a legal request or legal matter.Request fulfillers or legal users can also generate actionable answers from knowledge article search results in Employee Center, Legal Counsel Center, and global search.
 
 ## Now Assist for Legal Service Delivery \(LSD\) overview
 
@@ -27,9 +27,9 @@ The following generative AI capabilities are available in Now Assist for Legal S
 
 ## Legal Request and Legal Matter summarization
 
-The Now Assist for Legal Service Delivery \(LSD\) application generates an AI‑powered summary of a legal request or matter. This summary captures key details and the actions taken throughout the lifecycle of the request or matter. Request fulfillers can review the summary to quickly understand context, refresh it as needed, and post it to work notes for [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] and collaboration.
+The Now Assist for Legal Service Delivery \(LSD\) application generates an AI‑powered summary of a legal request or matter. This summary captures key details and the actions taken throughout the lifecycle of the request or matter. Request fulfillers can review the summary to quickly understand context, refresh it as needed, and post it to work notes for reference and collaboration.
 
-The summary is displayed above the [[activity-lxp|activity]] stream and includes the information from the fields and variablesconfigured as inputs.\[Omitted image "lsd-sum-matter-landing.png"\] Alt text: Legal matter summarization
+The summary is displayed above the activity stream and includes the information from the fields and variablesconfigured as inputs.\[Omitted image "lsd-sum-matter-landing.png"\] Alt text: Legal matter summarization
 
 For more information on the fields and variables that are considered for summarization, see [Skill inputs for Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-skill-inputs.md) and [Configure variables for Now Assist summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/configure-variables-for-now-assist-summarization.md).
 
@@ -97,10 +97,3 @@ Get a quick overview of the important information that is related to the Now Ass
 
 **Parent Topic:**[Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-landing.md)
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[activity-lxp|Activity]]

@@ -16,7 +16,7 @@ Let users filter on true/false fields and breakdown elements. For example, you c
 
 ## Before you begin
 
-**Important:** This procedure assumes you’ve created a filter in the Filter designer or added a filter to your dashboard with the True/False filter type. For more information, see [[select-workspace-filter-type|Create or add a filter on an inline dashboard]] or [[add-filter-library|Create a filter in the Filter Designer]].
+**Important:** This procedure assumes you’ve created a filter in the Filter designer or added a filter to your dashboard with the True/False filter type. For more information, see [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md) or [Create a filter in the Filter Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-library.md).
 
 Role required: In the dashboard inline editor: dashboard\_admin, or you must be the dashboard owner or have had editing rights shared with you.
 
@@ -32,7 +32,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
 
 2.  Set custom display labels in place of 'True' and 'False,' such as 'Yes' and 'No.'
 
-3.  In **Data to filter**, specify a table field, indicator breakdown, or [[user-exp-analytics-landing|Usage Insights]] property to filter.
+3.  In **Data to filter**, specify a table field, indicator breakdown, or Usage Insights property to filter.
 
     You can add any number of targets to the filter. Select either a table and field or all indicators with a particular breakdown. If you select a table, you can also select to apply the filter to the hierarchy of related tables: Parents, children, siblings, and any [database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) that contain the table.
 
@@ -41,7 +41,7 @@ The filter applies to all elements on the same dashboard or the same dashboard t
     **Note:**
 
     -   If you select a table, you must select at least one true/false \(Boolean\) field. You can only select true/false fields.
-    -   To help you select only true/false [[c_CreatingBreakdowns|indicator breakdowns]], your choice is limited to breakdowns based on a bucket \[pa\_buckets\] with only two values. However, the system can’t check whether the indicator breakdown is really true/false. You have to determine whether the breakdown is Boolean yourself. Ask your ServiceNow AI Platform administrator for help.
+    -   To help you select only true/false indicator breakdowns, your choice is limited to breakdowns based on a bucket \[pa\_buckets\] with only two values. However, the system can’t check whether the indicator breakdown is really true/false. You have to determine whether the breakdown is Boolean yourself. Ask your ServiceNow AI Platform administrator for help.
     -   An empty \(null\) value is possible for a field. Therefore, the total number of true and false values can be less than the total number of records or less than an indicator score that counts records. The viewer can also select **\(empty\)** to clear their selection.
 4.  Specify a default value of true or false.
 
@@ -60,23 +60,14 @@ The filter is ready to use when you exit editing mode.
 
 ## What to do next
 
-If you have the required roles, add the filter to the filter library. You can also reconfigure, delete, or duplicate the filter. For more information, see [[edit-filters-configurable-workspaces|Edit a Platform Analytics filter on a dashboard]].
+If you have the required roles, add the filter to the filter library. You can also reconfigure, delete, or duplicate the filter. For more information, see [Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md).
 
 **Related topics**  
 
 
-[[applying-filters-to-process-optimization-maps|Applying filters to Process Mining maps]]
+[Applying filters to Process Mining maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/applying-filters-to-process-optimization-maps.md)
 
 [Edit a Platform Analytics filter on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-filters-configurable-workspaces.md)
 
-[[configure-dv-follow-filters-or-not|Configure a data visualization to follow filters or not]]
+[Configure a data visualization to follow filters or not](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-dv-follow-filters-or-not.md)
 
-## Related
-
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[add-filter-library|Create a filter in the Filter Designer]]
-- [[edit-filters-configurable-workspaces|Edit a Platform Analytics filter on a dashboard]]
-- [[applying-filters-to-process-optimization-maps|Applying filters to Process Mining maps]]
-- [[configure-dv-follow-filters-or-not|Configure a data visualization to follow filters or not]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]

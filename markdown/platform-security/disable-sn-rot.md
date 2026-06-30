@@ -18,9 +18,9 @@ Run a scheduled job on your trusted instance to disable Root of Trust.
 
 Role required: admin, security\_admin, and sn\_kmf.cryptographic\_manager
 
-[[code-signing-landing|Code Signing]] must be enabled on your protected and trusted instances. You can verify by checking that the **com.snc.kmf.signature.validation.flag** system property is set to `true`.
+Code Signing must be enabled on your protected and trusted instances. You can verify by checking that the **com.snc.kmf.signature.validation.flag** system property is set to `true`.
 
-This procedure is part of a series of procedures to change to a customer Root of Trust \(ROT\) on your instances. For an overview of this process, see [[change-rot-overview|Change your Root of Trust configuration]].
+This procedure is part of a series of procedures to change to a customer Root of Trust \(ROT\) on your instances. For an overview of this process, see [Change your Root of Trust configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/change-rot-overview.md).
 
 ## Procedure
 
@@ -30,7 +30,7 @@ This procedure is part of a series of procedures to change to a customer Root of
 
 3.  Open the **Disable ServiceNow Root of Trust** scheduled job.
 
-4.  Select the **[[export|Export]] signed job to production**.
+4.  Select the **Export signed job to production**.
 
 5.  Navigate to **All** &gt; **System Update Sets** &gt; **Local Update Sets**.
 
@@ -65,8 +65,3 @@ This procedure is part of a series of procedures to change to a customer Root of
 
 Executing the scheduled job sets the ROT property to true. Your instance is configured to use the customer root of trust.
 
-## Related
-
-- [[change-rot-overview|Change your Root of Trust configuration]]
-- [[code-signing-landing|Code Signing]]
-- [[export|Export]]

@@ -26,7 +26,7 @@ Conduct a health screen before people enter a location, such as employees return
 
 The following procedure includes the steps your organization might use in setting up health screening. Some of the steps might not be applicable to your location.
 
-**Note:** If the ServiceNow® Customer Service Management \(CSM\) application is activated, the health screen can be performed for CSM consumers and contacts. The customer service agent \[sn\_customerservice\_agent\] and consumer service agent \[sn\_customerservice.consumer\_agent\] roles can optionally be given to health screeners so that they can view additional CSM information on the health screening form, but these roles are not required for screening consumers and contacts. For more information about using Customer Service Management with [[employee-health-screening|Employee Health Screening]], see [Integrate Customer Service Management with Safe Workplace applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-safe-workplace.md).
+**Note:** If the ServiceNow® Customer Service Management \(CSM\) application is activated, the health screen can be performed for CSM consumers and contacts. The customer service agent \[sn\_customerservice\_agent\] and consumer service agent \[sn\_customerservice.consumer\_agent\] roles can optionally be given to health screeners so that they can view additional CSM information on the health screening form, but these roles are not required for screening consumers and contacts. For more information about using Customer Service Management with Employee Health Screening, see [Integrate Customer Service Management with Safe Workplace applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-integration-safe-workplace.md).
 
 ## Procedure
 
@@ -54,12 +54,12 @@ From the Now Mobile **Health** screen under the **Health Screening** section, ta
 
 </td><td>
 
-Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **View Employee and Visitor Status** and select the person.
+Navigate to **Employee Health and Safety Status** &gt; **View Employee and Visitor Status** and select the person.
 
 </td></tr></tbody>
 </table>2.  Review the requirement status to verify that the person is cleared to enter.
 
-    **Note:** Requirements are created in the [[employee-readiness-core|Employee Readiness Core]] application. For more information, see [Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md).
+    **Note:** Requirements are created in the Employee Readiness Core application. For more information, see [Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md).
 
     If the status is **Not cleared** and your organization's policy is to deny entry at this check point, provide the person with the next steps to take based on your organization's policy. Then, assist the next person in line.
 
@@ -172,8 +172,3 @@ You receive a message that indicates whether to allow the person to enter. If th
 
 **Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md)
 
-## Related
-
-- [[employee-health-screening|Employee Health Screening]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[employee-readiness-core|Employee Readiness Core]]

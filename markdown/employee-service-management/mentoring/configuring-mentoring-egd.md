@@ -18,13 +18,13 @@ Configuring Mentoring.
 
 ## Before you begin
 
-Install dependent plugins and apps for [[mentoring-egd-overview|Mentoring]].
+Install dependent plugins and apps for Mentoring.
 
 Role required: sn\_ecn.mentoring\_admin
 
 ## About this task
 
-When an administrator installs the Mentoring app from the ServiceNow store, it integrates [[exploring-learning-exp|learning]], skills identification, aspirations, and planning for a personal career growth and development plan.
+When an administrator installs the Mentoring app from the ServiceNow store, it integrates learning, skills identification, aspirations, and planning for a personal career growth and development plan.
 
 ## Procedure
 
@@ -52,18 +52,10 @@ Allow RCAs
 After you install Mentoring you might encounter Restricted Caller Access \(RCA\) approval messages requesting an update in the access request. Allow the following RCAs:
 
 -   Target Human Resources Core
--   Target [[journey-accelerator-1|Journey Accelerator]]
--   Target [[jny-dsgnr-landing-page-1|Journey Designer]]
+-   Target Journey Accelerator
+-   Target Journey Designer
 
 Dependencies
 
-The Mentoring application depends on other applications such as [[egd-activities-conversations-module|Career Conversations]] and [[emp-slate-employee-profile|Employee Profile]].
+The Mentoring application depends on other applications such as Career Conversations and Employee Profile.
 
-## Related
-
-- [[mentoring-egd-overview|Mentoring]]
-- [[exploring-learning-exp|Learning]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[emp-slate-employee-profile|Employee profile]]

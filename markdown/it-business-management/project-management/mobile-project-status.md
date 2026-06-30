@@ -18,7 +18,7 @@ The Project Status mobile app enables you to track the status of your projects, 
 
 **Important:**
 
-Starting with the Australia release, the Project Status mobile application is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use [[project-workspace-landing-page|Project Workspace]] to generate status reports while tracking project health, metrics, risks, issues, and milestones.
+Starting with the Australia release, the Project Status mobile application is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use Project Workspace to generate status reports while tracking project health, metrics, risks, issues, and milestones.
 
 You can use the Project Status features to do the following:
 
@@ -47,6 +47,3 @@ The Project Status mobile application runs on the ServiceNow® mobile platform. 
 
 [Collaborate with project stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/collaborate-on-project-mobile.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

@@ -12,19 +12,11 @@ breadcrumb: [Use SIR Integration Builder, LLM-powered SIR integration builder, S
 
 # Add an integration
 
-Use the following steps to add a new integration to your [[sir-landing-page|Security Incident Response]] application.
+Use the following steps to add a new integration to your Security Incident Response application.
 
-1.  [[add-application-details|Add application details]]
-2.  [[add-connection-details|Add connection details]]
-3.  [[choose-capabilities|Add capability details]]
-4.  [[add-apis|Add APIs]]
-5.  [[review-integration|Review integration]]
+1.  [Add application details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-application-details.md)
+2.  [Add connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-connection-details.md)
+3.  [Add capability details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/choose-capabilities.md)
+4.  [Add APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-apis.md)
+5.  [Review integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/review-integration.md)
 
-## Related
-
-- [[add-application-details|Add application details]]
-- [[add-connection-details|Add connection details]]
-- [[choose-capabilities|Add capability details]]
-- [[add-apis|Add APIs]]
-- [[review-integration|Review integration]]
-- [[sir-landing-page|Security Incident Response]]

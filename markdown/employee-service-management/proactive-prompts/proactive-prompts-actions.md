@@ -16,7 +16,7 @@ breadcrumb: [Reference for Proactive Prompts, Proactive Prompts, HR Service Deli
 
 Actions provide the user the ability to act on the prompt.
 
-The types of actions available differ based on the channel. Unless otherwise noted, the actions in the following table are available for [[employee-center-portal-overview|Employee Portal]] and Virtual Agent.
+The types of actions available differ based on the channel. Unless otherwise noted, the actions in the following table are available for Employee Portal and Virtual Agent.
 
 <table id="table_wcw_5fg_vvb"><thead><tr><th>
 
@@ -70,11 +70,11 @@ The user can talk to the stake holder one-on-one via Microsoft Teams.**Note:**
 -   Only active users with their email configured in the User \[sys\_user\] table can be selected to start a chat.
 
 </td></tr></tbody>
-</table>**Note:** The configurable action parameter **selectindividual** under Actions in the [[employee-center-landing-page|Employee Center]] [[action-group-framework|Action framework]] determines whether you can select all employees or one individual employee for the Send email, Set up meeting, and Start chat actions. The default value is false. This parameter is applicable only for actions in Employee Portal.
+</table>**Note:** The configurable action parameter **selectindividual** under Actions in the Employee Center Action framework determines whether you can select all employees or one individual employee for the Send email, Set up meeting, and Start chat actions. The default value is false. This parameter is applicable only for actions in Employee Portal.
 
 ## Action groups
 
-Action groups are a collection of frequently used actions in a framework for quick access. Action groups are used only in Employee Portal. For [[proactive-prompts-for-hrsd|Proactive Prompts]], the action groups available are:
+Action groups are a collection of frequently used actions in a framework for quick access. Action groups are used only in Employee Portal. For Proactive Prompts, the action groups available are:
 
 -   Chat action group
 -   Email action group
@@ -96,9 +96,3 @@ For more information, see [Action group](https://raw.githubusercontent.com/Servi
 
 [Signal configuration form]()
 
-## Related
-
-- [[employee-center-portal-overview|Employee portal]]
-- [[employee-center-landing-page|Employee Center]]
-- [[action-group-framework|Action framework]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

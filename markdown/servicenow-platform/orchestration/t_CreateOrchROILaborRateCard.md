@@ -14,7 +14,7 @@ breadcrumb: [Orchestration ROI, Orchestration applications, Classic Orchestratio
 
 # Create Orchestration ROI labor rate cards
 
-Before calculating your [[c_OrchestrationROI|Orchestration ROI]], you must create labor rate cards for the manual work that would be required to complete the tasks correlated to the ROI calculations.
+Before calculating your Orchestration ROI, you must create labor rate cards for the manual work that would be required to complete the tasks correlated to the ROI calculations.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ The hourly rates defined in the rate cards are used to determine the savings fro
 
 **Parent Topic:**[Orchestration ROI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationROI.md)
 
-## Related
-
-- [[c_OrchestrationROI|Orchestration ROI]]

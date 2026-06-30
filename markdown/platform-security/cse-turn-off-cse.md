@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Turn off Code Signing
 
-Disable [[code-signing-landing|code signing]] on your protected instance.
+Disable code signing on your protected instance.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin, codesigning\_admin
 
 ## Procedure
 
-1.  On your trusted instance, navigate to **All** &gt; **Code Signing** &gt; **[[sc-configuration|Configuration]]** &gt; **Guided Setup** to open the [[code-signing-configuration|Code Signing configuration]] page.
+1.  On your trusted instance, navigate to **All** &gt; **Code Signing** &gt; **Configuration** &gt; **Guided Setup** to open the Code Signing configuration page.
 
 2.  In the **Instance type** field, select **trusted instance**.
 
@@ -28,7 +28,7 @@ Role required: admin, codesigning\_admin
 
 4.  In the **Action** field under **Select the action you’d like to accomplish**, select **Turn off Code Signing**.
 
-5.  In the **[[export|Export]] configuration file** panel, select **Export** to download the update set.
+5.  In the **Export configuration file** panel, select **Export** to download the update set.
 
     The export process downloads an XML file to your local machine for use in the next steps.
 
@@ -36,7 +36,7 @@ Role required: admin, codesigning\_admin
 
 7.  Log in to your protected instance.
 
-8.  Upload your configuration files using the steps in [[cse-upload-cs-config|Upload your Code Signing configuration file to your protected instance]].
+8.  Upload your configuration files using the steps in [Upload your Code Signing configuration file to your protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-upload-cs-config.md).
 
 9.  Navigate to **All** &gt; **Code Signing** &gt; **Configuration** &gt; **Guided Setup** to open the Code Signing configuration page.
 
@@ -55,13 +55,5 @@ Role required: admin, codesigning\_admin
 
 ## Result
 
-You can verify successful completion by looking at your [[ca-system-properties|system properties]]. Look for the **com.snc.kmf.signature.validation.flag** property on the System Properties \[sys\_property\] table, and verify that it has a value of **false**.
+You can verify successful completion by looking at your system properties. Look for the **com.snc.kmf.signature.validation.flag** property on the System Properties \[sys\_property\] table, and verify that it has a value of **false**.
 
-## Related
-
-- [[cse-upload-cs-config|Upload your Code Signing configuration file to your protected instance]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[export|Export]]
-- [[ca-system-properties|System properties]]

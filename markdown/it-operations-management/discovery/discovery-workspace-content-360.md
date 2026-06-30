@@ -17,9 +17,9 @@ breadcrumb: [Discovery Admin Workspace, Exploring Discovery, Discovery, ITOM Vis
 
 The Content 360 page enables you to discover applications and evaluate application suggestions based on machine learning or crowd-sourced resources. Then, create configuration items with a single click.
 
-Content 360 uses data visualizations to offer extensive visibility of your infrastructure's applications and the resources available to create application configuration items \(CIs\). It also provides access to a list of classifiers to add to [[r-discovery|discovery]]. Refresh the page to view the most up-to-date visualizations.
+Content 360 uses data visualizations to offer extensive visibility of your infrastructure's applications and the resources available to create application configuration items \(CIs\). It also provides access to a list of classifiers to add to discovery. Refresh the page to view the most up-to-date visualizations.
 
-To access the Discovery Admin Workspace Content 360 page, navigate to **Workspaces** &gt; **[[discovery-admin-workspace|Discovery Admin Workspace]]** &gt; **Content 360**.
+To access the Discovery Admin Workspace Content 360 page, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Content 360**.
 
 ## Key features
 
@@ -37,7 +37,7 @@ To access the Discovery Admin Workspace Content 360 page, navigate to **Workspac
 
 -   **Application CIs discovered**
 
-    Monitor information about application CIs discovered based on application fingerprints or [[discovery-content-services|ITOM Content Service]] suggestions through the Discovery Admin Workspace. A pie report illustrates the total number of user-defined application CIs discovered, while a bar report presents the top five application CIs discovered, created within the last two days, and grouped by class.
+    Monitor information about application CIs discovered based on application fingerprints or ITOM Content Service suggestions through the Discovery Admin Workspace. A pie report illustrates the total number of user-defined application CIs discovered, while a bar report presents the top five application CIs discovered, created within the last two days, and grouped by class.
 
 -   **ITOM Content Service**
 
@@ -67,8 +67,3 @@ Plugins required for ITOM Content Service:
 -   Discovery
 -   Normalization Data Services
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[discovery-content-services|ITOM Content Service]]

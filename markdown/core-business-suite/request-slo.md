@@ -38,8 +38,5 @@ Role required: sn\_slm.contact
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[cbs-using-parent|Using Core Business Suite]]
+**Parent Topic:**[Using Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
 
-## Related
-
-- [[cbs-using-parent|Using Core Business Suite]]

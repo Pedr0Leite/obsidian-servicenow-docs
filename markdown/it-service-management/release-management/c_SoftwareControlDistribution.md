@@ -14,7 +14,7 @@ breadcrumb: [Release Management, IT Service Management]
 
 # Software control distribution
 
-The application enables the [[c_ITILReleaseManagement|Release Management]] team to control the distribution of software by creating a Definitive Media Library \(DML\) stored in the CMDB.
+The application enables the Release Management team to control the distribution of software by creating a Definitive Media Library \(DML\) stored in the CMDB.
 
 The DML table \[dsl\] consists of a physical store and a logical store.
 
@@ -25,6 +25,3 @@ Both physically and logically stored software are represented as records on the 
 
 **Parent Topic:**[Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]

@@ -15,7 +15,7 @@ breadcrumb: [AI Agent Topology Mapping, ITOM Visibility, IT Operations Managemen
 
 # Configuring AI Agent Topology Mapping
 
-[[install-ai-agent-topology-mapping|Install AI Agent Topology Mapping]] from the ServiceNow Store and configure [[r-discovery|discovery]] schedules to identify AI infrastructure components.
+Install AI Agent Topology Mapping from the ServiceNow Store and configure discovery schedules to identify AI infrastructure components.
 
 ## Configuration overview
 
@@ -35,7 +35,4 @@ breadcrumb: [AI Agent Topology Mapping, ITOM Visibility, IT Operations Managemen
 
     After discovery runs, view discovered AI components in CMDB and non-CMDB tables. See pattern reference topics in [AI Agent Topology Mapping reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ai-agent-topology-mapping-reference.md) for details on data collected.
 
-## Related
 
-- [[install-ai-agent-topology-mapping|Install AI Agent Topology Mapping]]
-- [[r-discovery|Discovery]]

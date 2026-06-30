@@ -12,21 +12,21 @@ breadcrumb: [Configuring External Key Management Service, External Key Managemen
 
 # Create Encrypted Field Configurations
 
-Configure specific fields to be encrypted using your [[ekms-external-key-management|External Key Management Service]] \(EKMS\) cryptographic module with external Amazon Web Services Key Management System \(AWS KMS\) key wrapping.
+Configure specific fields to be encrypted using your External Key Management Service \(EKMS\) cryptographic module with external Amazon Web Services Key Management System \(AWS KMS\) key wrapping.
 
 ## Before you begin
 
 Roles required: admin, security\_admin, and sn\_kmf.cryptographic\_manager
 
-Confirm that you have created a cryptographic module with external key wrapping enabled. See [[ekms-configure-external-key-definition|Configure an external key definition]].
+Confirm that you have created a cryptographic module with external key wrapping enabled. See [Configure an external key definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configure-external-key-definition.md).
 
 ## About this task
 
-An Encrypted Field [[sc-configuration|Configuration]] \(EFC\) connects a specific table column to your EKMS cryptographic module. EFC creates a secure [[encryption-landing|encryption]] chain where your data can only be decrypted if both the ServiceNow data encryption key \(DEK\) and your external AWS key are available.
+An Encrypted Field Configuration \(EFC\) connects a specific table column to your EKMS cryptographic module. EFC creates a secure encryption chain where your data can only be decrypted if both the ServiceNow data encryption key \(DEK\) and your external AWS key are available.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Encrypted Field Configurations** &gt; **New**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Configurations** &gt; **New**.
 
 2.  Complete the EFC form.
 
@@ -116,7 +116,7 @@ Method
 
 Select **Single Module** to apply this access policy to one cryptographic module. Select **Multiple Modules** to apply this access policy across multiple cryptographic modules.-   **Single Module**
 
-Use this option to encrypt all attachments using a single module. Your [[users|users]] need access to this module, otherwise they aren't able to upload attachments.
+Use this option to encrypt all attachments using a single module. Your users need access to this module, otherwise they aren't able to upload attachments.
 
 -   **Multiple Modules**
 
@@ -136,24 +136,11 @@ The field's data established by the EFC are encrypted using the Data Encryption 
 
 Next steps:
 
--   [[ekms-set-up-maps|Configure module access policies to control which user roles can view the encrypted data in clear text]]
--   [[ekms-test-external-key-definition|Test access with users who have appropriate roles]]
--   [[ekms-change-status-aws-kms-key|Test that users without appropriate roles can't view the encrypted data]]
+-   [Configure module access policies to control which user roles can view the encrypted data in clear text](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-set-up-maps.md)
+-   [Test access with users who have appropriate roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-test-external-key-definition.md)
+-   [Test that users without appropriate roles can't view the encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-status-aws-kms-key.md)
 
-**Warning:** Without configured module access [[ca-policies|policies]], users might be unable to view the encrypted data, or access might be unrestricted depending on your system configuration. Configure access policies immediately after creating encrypted field configurations.
+**Warning:** Without configured module access policies, users might be unable to view the encrypted data, or access might be unrestricted depending on your system configuration. Configure access policies immediately after creating encrypted field configurations.
 
-**Parent Topic:**[[ekms-configuring-external-key-management|Configuring External Key Management Service]]
+**Parent Topic:**[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
-## Related
-
-- [[ekms-configure-external-key-definition|Configure an external key definition]]
-- [[ekms-set-up-maps|Set up Module Access Policies]]
-- [[ekms-test-external-key-definition|Test an external key definition]]
-- [[ekms-change-status-aws-kms-key|Change the status of an AWS KMS Key]]
-- [[ekms-configuring-external-key-management|Configuring External Key Management Service]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[users|Users]]
-- [[ca-policies|Policies]]

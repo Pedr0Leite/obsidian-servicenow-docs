@@ -14,7 +14,7 @@ breadcrumb: [Use, Set up instance, ArcSight ESM Event Ingestion integration, Sec
 
 # Preview the security incident for the ArcSight ESM event ingestion Integration
 
-After you complete the [[mapping-logrhythm|mapping]] step, preview the values that you mapped in a ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incident. This preview step permits you to verify that you have mapped all the correlation fields that you want displayed on the security incident.
+After you complete the mapping step, preview the values that you mapped in a ServiceNow AI Platform Security Incident Response \(SIR\) security incident. This preview step permits you to verify that you have mapped all the correlation fields that you want displayed on the security incident.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ As a user with the sn\_si.admin role, preview a security incident and edit the m
 
 If no error messages are displayed, and you're satisfied with the field mapping on the security incident, the next step is to define the schedule.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

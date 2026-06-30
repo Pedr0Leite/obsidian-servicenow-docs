@@ -18,13 +18,13 @@ Resource Exchange supports rekeying of ciphertext on the target instance that wa
 
 ## Overview
 
-Administrators who use KMF for [[field-encryption|Field Encryption]] can use Key Exchange to rekey cryptographic keys between production instances when performing data cloning. An active key must first be available on the target instance for rekey, as rekey requires an active key. An [[encryption-landing|encryption]] job is automatically created and run by the system to rotate and rekey the source key and re-encrypt the ciphertext.
+Administrators who use KMF for Field Encryption can use Key Exchange to rekey cryptographic keys between production instances when performing data cloning. An active key must first be available on the target instance for rekey, as rekey requires an active key. An encryption job is automatically created and run by the system to rotate and rekey the source key and re-encrypt the ciphertext.
 
 Use Key Exchange to do the following:
 
 -   Set an expiration time frame for rekey.
 
-    If the [[c_requestAPI|request]] has expired, then the request is rejected and the key is deleted.
+    If the request has expired, then the request is rejected and the key is deleted.
 
 -   Automate rekeying ciphertext that was encrypted with keys from source instances.
 
@@ -39,8 +39,3 @@ Configure a Key Exchange and select the **Enable Rekeying After Key Imported** c
 
 **Parent Topic:**[Key Management Framework Resource Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/resource-exchange.md)
 
-## Related
-
-- [[field-encryption|Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]

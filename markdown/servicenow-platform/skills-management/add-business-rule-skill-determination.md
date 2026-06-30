@@ -62,7 +62,7 @@ Advanced
 
 </td><td>
 
-1.  Enable the **Advanced** [[check-box|check box]].
+1.  Enable the **Advanced** check box.
 2.  Select the **Advanced** tab.
 3.  In the **Script** field, enter the following code:
 
@@ -85,6 +85,3 @@ Advanced
 
 **Parent Topic:**[Routing work items to agents based on skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/skills-management/skill-based-routing.md)
 
-## Related
-
-- [[check-box|Check box]]

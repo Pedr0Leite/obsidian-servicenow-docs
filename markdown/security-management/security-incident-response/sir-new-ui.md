@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Manage security threats using the Security Analyst Workspace
 
-[[sir-landing-page|Security Incident Response]] includes a new user interface called the Security Analyst Workspace that features powerful [[tools|tools]] for assisting in analysis, including the playbook, peek view, and tabs for working on multiple security incidents.
+Security Incident Response includes a new user interface called the Security Analyst Workspace that features powerful tools for assisting in analysis, including the playbook, peek view, and tabs for working on multiple security incidents.
 
 Purpose-built for security analysts, the powerful tools in the Security Analyst Workspace allow you to analyze the ever-growing volume of data associated with security incidents. And automated actions significantly reduce the security incident investigation time, which can be the difference between stopping an attack and suffering a breach.
 
@@ -58,7 +58,7 @@ After you have selected and opened a specific security incident, you can perform
 -   Click **Manage Attachments** to attach files to the security incident. You can also download or remove attached files and edit the encryption applied to the attachments.
 -   Click **Compose Email** to send a quick email to a colleague. Emails can be free-form, or you can send canned emails selected from a list of templates. Emails sent and replies received are captured in the Incident Timeline.
 
-    **Note:** You can create custom templates that contain reusable content for emails and [[tisc-email-notifications|email notifications]]. Variables can be used for inserting information specific to the security incident or alert, such as the subject line, priority, or threat category. Use the Security Incident \[sn\_si\_incident\] table for emails and email notifications related to Security Incident Response. For more information, see [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
+    **Note:** You can create custom templates that contain reusable content for emails and email notifications. Variables can be used for inserting information specific to the security incident or alert, such as the subject line, priority, or threat category. Use the Security Incident \[sn\_si\_incident\] table for emails and email notifications related to Security Incident Response. For more information, see [Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
 -   Click **More** to view a quick snapshot of the security incident, such as the description, business impact, and priority. You can also click the down-arrow in the **Assignment group** and **Assigned to** fields to make on-the-fly changes to those fields.
 
@@ -71,12 +71,12 @@ The tabbed interface allows you to keep several security incidents open simultan
 When you open a security incident record, three tabs are shown:
 
 -   Overview
--   [[threat-intelligence-security-center-overview|Explore]]
+-   Explore
 -   Incident Timeline
 
 ## Overview tab
 
-Use the **Overview** tab to [[perform-addtl-tasks-on-si|view information in a security incident]] in a single [[location|location]]. No need to open another application or console.
+Use the **Overview** tab to view information in a security incident in a single location. No need to open another application or console.
 
 The tiles that are displayed on the **Overview** tab are customizable. You can collapse and expand them as needed, and you can move them around by dragging the **Grip** icon. Click the **More options** icon to delete a tile or change its heading text.
 
@@ -84,13 +84,13 @@ The tiles that are displayed on the **Overview** tab are customizable. You can c
 
 Configure the tiles displayed on the **Overview** tab using the **Explore** tab. Simply select the tiles you want to view from the left-hand pane, and click the **Pin** icon. Pinned tiles automatically appear in the **Overview** tab.
 
-The left-hand pane of the **Explore** tab includes a wide variety of information that you can display on the **Overview** tab. For example, expand **[[c_Observables|Observables]]** to display these related lists.
+The left-hand pane of the **Explore** tab includes a wide variety of information that you can display on the **Overview** tab. For example, expand **Observables** to display these related lists.
 
 -   Observables
--   [[tisc-threat-lookup|Threat Lookup]] Results
+-   Threat Lookup Results
 -   Security Scan Results
 -   Domain Lookups
--   [[tisc-observable-enrichment|Observable Enrichment]]
+-   Observable Enrichment
 
 Additional related lists are available under **Users**, **Configuration Items**, and **Incidents**.
 
@@ -105,17 +105,5 @@ Use the **Incident Timeline** tab during your investigation for tracking purpose
 
 ## Handle security incidents using the Playbook
 
-Resolve certain types of security threats in a step-by-step manner using the built-in Security Analyst [[tisc-playbooks-admin|Playbooks]]. For example, an analyst can use the playbook to resolve phishing attacks and threats caused by malicious code activities. For more information, see [Resolve security threats with the playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-the-playbook.md).
+Resolve certain types of security threats in a step-by-step manner using the built-in Security Analyst Playbooks. For example, an analyst can use the playbook to resolve phishing attacks and threats caused by malicious code activities. For more information, see [Resolve security threats with the playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-the-playbook.md).
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[tools|Tools]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[perform-addtl-tasks-on-si|View information in a security incident]]
-- [[location|Location]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-playbooks-admin|Playbooks]]

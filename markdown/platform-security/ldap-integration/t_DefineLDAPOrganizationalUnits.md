@@ -22,7 +22,7 @@ Role required: admin.
 
 ## About this task
 
-OU definitions can contain locations, people, or user groups. Every LDAP server definition contains two sample OU definitions: one for importing groups into the system and the other for [[users|users]].
+OU definitions can contain locations, people, or user groups. Every LDAP server definition contains two sample OU definitions: one for importing groups into the system and the other for users.
 
 ## Procedure
 
@@ -72,7 +72,7 @@ Query field
 
 </td><td id="entry_LdapQueryField">
 
-Specify the name of the attribute within the LDAP server to query for records. The query field must be unique in both single and multiple domain instances. For best results, use [[email|email]] addresses or other credentials that uniquely identify the user in a multiple domain instance. Active Directory uses the **sAMAccountName** attribute. Other LDAP servers tend to use the **cn** attribute.**Note:** The **Query field** must map to the **User ID** field in the User \[sys\_user\] table. For example, if an Active Directory user [[logs|logs]] in as `joe.example`, there must be a user record with a **User ID** value of **joe.example** and an LDAP record with an **sAMAccountName** value of **joe.example**.
+Specify the name of the attribute within the LDAP server to query for records. The query field must be unique in both single and multiple domain instances. For best results, use email addresses or other credentials that uniquely identify the user in a multiple domain instance. Active Directory uses the **sAMAccountName** attribute. Other LDAP servers tend to use the **cn** attribute.**Note:** The **Query field** must map to the **User ID** field in the User \[sys\_user\] table. For example, if an Active Directory user logs in as `joe.example`, there must be a user record with a **User ID** value of **joe.example** and an LDAP record with an **sAMAccountName** value of **joe.example**.
 
 </td></tr><tr><td>
 
@@ -129,8 +129,3 @@ If you do not specify additional attributes or filters with an OU definition, th
 
 In these examples, an OU definition with the RDN value of ou=Groups and no filter would have returned all groups. Likewise, an OU definition with the RDN value of ou=Users and no filter would have returned all users and child organizational units.
 
-## Related
-
-- [[users|Users]]
-- [[email|Email]]
-- [[logs|Logs]]

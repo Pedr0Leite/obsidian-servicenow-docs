@@ -22,7 +22,7 @@ You can access the questionnaire template through the Vendor Management Workspac
 
 If you have the Third-party risk \(TPR\) assessor \[sn\_vdr\_risk\_asmt.vendor\_assessor\] or TPR manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\] role, you can download the questionnaire template by navigating to the questionnaire you want and selecting **View responses**. For more information on the questionnaire template process, see [Respond using a Microsoft Excel template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-tpcontact-use-excel.md).
 
-To view a questionnaire using the Classic user interface, select **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External [[risk-assessments|risk assessments]]** &gt; **All open**, select the assessment you want, and then select **View responses** next to the questionnaire you want in the Questionnaire related list. After the questionnaire page has opened, select the Download Excel template link.
+To view a questionnaire using the Classic user interface, select **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External risk assessments** &gt; **All open**, select the assessment you want, and then select **View responses** next to the questionnaire you want in the Questionnaire related list. After the questionnaire page has opened, select the Download Excel template link.
 
 To view a questionnaire using the Vendor Management Workspace, select **Workspaces** &gt; **Vendor Management Workspace**, select the list icon \[Omitted image "icon-tprm-ws-list.png"\] Alt text: and then navigate to **External risk assessments**. After choosing the assessment you want, navigate to the Questionnaires and document requests section of the Risk overview tab and select the questionnaire you want. After the questionnaire page has opened, select the Download Excel template link.
 
@@ -68,6 +68,3 @@ For instructions that you can send to third-party contacts, see [Respond using a
 
 **Note:** Due to license restrictions, you can’t download Shared Assessments Standardized Information Gathering \(SIG\) questionnaire templates. For more information about using SIG questionnaires, see [Using the SIG questionnaire for a risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sig-use-and-support.md).
 
-## Related
-
-- [[risk-assessments|risk assessments]]

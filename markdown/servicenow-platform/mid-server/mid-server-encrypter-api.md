@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server configuration file security
 
-Sensitive [[mid-server-landing|MID Server]] configuration data can be protected using several different schemes, including internal and external data encryption and external data storage.
+Sensitive MID Server configuration data can be protected using several different schemes, including internal and external data encryption and external data storage.
 
 <table id="table_vbn_2v4_nhb"><tbody><tr><td>
 
@@ -76,6 +76,3 @@ Use the methods in this interface to create a custom external encrypter for the 
 
 [MID Server Governance]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

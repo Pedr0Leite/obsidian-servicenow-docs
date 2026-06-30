@@ -14,11 +14,11 @@ breadcrumb: [Test Management 1.0, Test Management applications, Strategic Portfo
 
 # Setting up the manual testing process
 
-Set up and monitor the [[c_TestSuites|test suites]], [[c_TestCases|test cases]], and [[c_TestPlans|test plans]].
+Set up and monitor the test suites, test cases, and test plans.
 
-With [[c_TestManagement|Test Management 1.0]], you can perform the following tasks:
+With Test Management 1.0, you can perform the following tasks:
 
--   Create and maintain the test repository, including test suites, test cases, and [[c_Tests|tests]].
+-   Create and maintain the test repository, including test suites, test cases, and tests.
 -   Create test plans.
 -   Define test environments, if desired.
 -   Add test cases to a test plan.
@@ -28,10 +28,3 @@ With [[c_TestManagement|Test Management 1.0]], you can perform the following tas
 -   Evaluate test results.
 -   Complete the test sign-off form.
 
-## Related
-
-- [[c_TestSuites|Test suites]]
-- [[c_TestCases|Test cases]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestManagement|Test Management 1.0]]
-- [[c_Tests|Tests]]

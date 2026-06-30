@@ -21,7 +21,7 @@ Use the Jobs table to create lifecycle event cases where you can specify which j
 
 Role required: sn\_hr\_core.admin
 
-For example, say that you have an intern that is being transferred to a full-time position. The intern has two associated job records. When an onboarding case for the full-time position is created, the case is associated with the full-time job record, ensuring that downstream [[activity-lxp|activity]] sets and activities are triggered based on information from that relevant job record.
+For example, say that you have an intern that is being transferred to a full-time position. The intern has two associated job records. When an onboarding case for the full-time position is created, the case is associated with the full-time job record, ensuring that downstream activity sets and activities are triggered based on information from that relevant job record.
 
 ## About this task
 
@@ -31,7 +31,7 @@ Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\
 
 1.  If you are using an integration to pull HR profiles from a third-party system, configure your integration to pull jobs information into the Jobs \(sn\_hr\_core\_job\) table.
 
-    For details on how to configure a third-party integration with [[hr-service-delivery|HR Service Delivery]], see [Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md).
+    For details on how to configure a third-party integration with HR Service Delivery, see [Integration of HR Service Delivery with third-party systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-third-party-systems.md).
 
 2.  For HR case creation, associate the subject person's job to the HR case with the **subject\_person\_job** field.
 
@@ -59,7 +59,3 @@ Beginning in the New York release, you can use the new Jobs \(sn\_hr\_core\_job\
 
 [hr\_ActivityUtils - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/hr_ActivityUtilsAPI.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-service-delivery|HR Service Delivery]]

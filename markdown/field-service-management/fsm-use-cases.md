@@ -12,18 +12,12 @@ breadcrumb: [Explore, Field Service Management]
 
 # Field Service Management workflow examples
 
-The sample workflows in this section provide examples of how you can use [[fsm-application-landing-page|Field Service Management]] to resolve issue faster, prevent issues from occurring, and work seamlessly across organizations.
+The sample workflows in this section provide examples of how you can use Field Service Management to resolve issue faster, prevent issues from occurring, and work seamlessly across organizations.
 
--   **[[field-service-operations-use-case|Field Service operations workflow example]]**  
+-   **[Field Service operations workflow example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-operations-use-case.md)**  
 This Field Service operations workflow example shows how a clinical engineering manager at a healthcare provider handles an MRI scanner issue that can be resolved with a firmware upgrade.
--   **[[preventive-maintenance-use-case|Field Service preventive maintenance workflow example]]**  
+-   **[Field Service preventive maintenance workflow example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/preventive-maintenance-use-case.md)**  
 This Field Service preventive maintenance workflow example provides an example of an aircraft maintenance manager setting up a maintenance plan to trigger a diagnostic alert after every 25 hours of flight time.
--   **[[coordinated-field-service-and-it-service-management-use-case|Field Service IT workflow example]]**  
+-   **[Field Service IT workflow example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/coordinated-field-service-and-it-service-management-use-case.md)**  
 This example describes a coordinated Field Service and IT service management situation.
 
-## Related
-
-- [[field-service-operations-use-case|Field Service operations workflow example]]
-- [[preventive-maintenance-use-case|Field Service preventive maintenance workflow example]]
-- [[coordinated-field-service-and-it-service-management-use-case|Field Service IT workflow example]]
-- [[fsm-application-landing-page|Field Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [AIOps Dashboards in SOW for ITOM, Using SOW for ITOM, Service Opera
 
 # AIOps Value Realization dashboard
 
-The AIOps Value Realization dashboard uses Performance Analytics to offer comprehensive visibility into the business outcomes of alerts, events, and incidents. It features metrics such as noise reduction \(events to alerts compression\), average MTTR for incidents created by [[c_EM|Event Management]]\[var.event-mgmt\], and the most critical services impacted by hours.
+The AIOps Value Realization dashboard uses Performance Analytics to offer comprehensive visibility into the business outcomes of alerts, events, and incidents. It features metrics such as noise reduction \(events to alerts compression\), average MTTR for incidents created by Event Management\[var.event-mgmt\], and the most critical services impacted by hours.
 
 The AIOps Value Realization dashboard includes a calendar feature that enables users to select various date ranges such as custom dates, the last 3 months, the last 30 days, the last 6 months, the last 7 days, the last year, today, and year-to-date \(YTD\). You can specify a custom start and end date and apply these selections to view reports specifically for the chosen date range. This feature facilitates tailored analysis and reporting based on specific time periods of interest.
 
@@ -41,7 +41,7 @@ Ensure that the Event Management application is installed.
 
 ## Access the AIOps Value Realization dashboard
 
-To open the dashboard, navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**. From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **[[otto-aiops-dashboards|Dashboards]]** section, select **View AIOps Value Realization dashboard**.
+To open the dashboard, navigate to **Workspaces** &gt; **Service Operations Workspace**. From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.The AIOps configuration center page appears. On the ITOM AIOps configuration center page, under the **Optimize** &gt; **Dashboards** section, select **View AIOps Value Realization dashboard**.
 
 ## Use cases
 
@@ -70,9 +70,3 @@ Breakdowns available in the AIOps Value Realization dashboard are:
 |Number of affected services, by severity|Line graph|The number of services impacted by alerts, grouped by severity, such as the count of services experiencing critical issues per day.|
 |Number of new P1 incidents on monitored services created by users|Line graph|The number of incidents created on services monitored by Event Management: a lower number indicates fewer users are being impacted by a service outage or performance degradation.|
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[otto-aiops-dashboards|Dashboards]]

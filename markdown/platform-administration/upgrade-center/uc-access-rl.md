@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[uc-landing-page|Upgrade Center]]** &gt; **Upgrade History**.
+1.  Navigate to **All** &gt; **Upgrade Center** &gt; **Upgrade History**.
 
     A list of upgrades is displayed.
 
@@ -69,7 +69,7 @@ Role required: admin
 
 ## Upgrade history related lists details
 
-The following table gives the description of each field in all the related lists within the [[uc-history-module|upgrade history module]].
+The following table gives the description of each field in all the related lists within the upgrade history module.
 
 <table id="table_b5b_p14_dlb"><thead><tr><th>
 
@@ -208,8 +208,3 @@ Indicates whether the file has been changed by the vendor since the last upgrade
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-history-module|Upgrade History module]]

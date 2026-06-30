@@ -14,11 +14,11 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # View firmware models discovered on your Operational Technology \(OT\) assets
 
-Get the details of all the firmware [[c_Models|models]] that the discovery tool discovered on your Operational Technology \(OT\) assets.
+Get the details of all the firmware models that the discovery tool discovered on your Operational Technology \(OT\) assets.
 
 ## Before you begin
 
-**Important:** The [[ot-asset-management|OT Asset Management]] application must be activated to access the [[ot-asset-ws-otam|OT Asset Workspace]]. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 
@@ -54,8 +54,4 @@ The Discovered firmware model \[sn\_ent\_discov\_firmware\_model\] table stores 
 
     The form displays the information related to the discovered firmware model in the Details and the Normalization sections.
 
-## Related
 
-- [[c_Models|Models]]
-- [[ot-asset-management|OT Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]

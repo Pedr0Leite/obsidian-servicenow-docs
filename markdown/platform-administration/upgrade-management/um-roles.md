@@ -14,9 +14,9 @@ breadcrumb: [Reference, Upgrade Console, Upgrade, Administer the ServiceNow AI P
 
 # Upgrade Console roles
 
-[[um-landing-page|Upgrade Console]] is installed with these roles.
+Upgrade Console is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## System administrator \[admin\]
 
@@ -50,7 +50,3 @@ Access all tables, tools and information within Upgrade Console on your instance
 
 **Parent Topic:**[Upgrade Console references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-references.md)
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[um-landing-page|Upgrade Console]]

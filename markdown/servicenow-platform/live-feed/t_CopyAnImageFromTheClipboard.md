@@ -34,7 +34,7 @@ Role required: none
 
 5.  When you finish pasting images into the message, click **Done**.
 
-6.  To change the link text, click **Pasted Image** and enter a new [[label|label]].
+6.  To change the link text, click **Pasted Image** and enter a new label.
 
 7.  When you finish, click **Post** or **Reply**.
 
@@ -47,6 +47,3 @@ Role required: none
 
 **Parent Topic:**[Post content in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_PostContentInLiveFeed.md)
 
-## Related
-
-- [[label|Label]]

@@ -52,8 +52,5 @@ Role required: admin
 
 After adding the ServiceNow app from the Apple store, it appears in the App Catalog application. Users can download the app to their iOS devices.
 
-**Parent Topic:**[[IBM-MaaS360-mdm|IBM MaaS360 mobile device management \(MDM\)]]
+**Parent Topic:**[IBM MaaS360 mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/IBM-MaaS360-mdm.md)
 
-## Related
-
-- [[IBM-MaaS360-mdm|IBM MaaS360 mobile device management \(MDM\)]]

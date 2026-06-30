@@ -100,7 +100,7 @@ Software Installation \[cmdb\_sam\_sw\_install\]
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -124,7 +124,7 @@ The following attributes in the Network Adapter \[cmdb\_ci\_network\_adapter\] t
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -222,7 +222,3 @@ The following attributes in the Software Instance \[cmdb\_software\_instance\] t
 |Software Instance \[cmdb\_software\_instance\]|Reference|Handheld Computing Device \[cmdb\_ci\_handheld\_computing\]|
 |Software Instance \[cmdb\_software\_instance\]|Reference|Computer \[cmdb\_ci\_computer\]|
 
-## Related
-
-- [[reference|Reference]]
-- [[ip-address|IP Address]]

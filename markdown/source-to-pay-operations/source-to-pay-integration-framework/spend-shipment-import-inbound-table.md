@@ -40,7 +40,7 @@ The following table lists both the mandatory and optional fields for the Spend S
 |Shipping carrier|String|Name of the shipping carrier.|
 |State|String|Name of the state of the shipment.|
 |Street|String|Street of the shipment.|
-|Supplier ID|String|ID of the [[supplier|supplier]].|
+|Supplier ID|String|ID of the supplier.|
 |Supplier shipment number|String|Shipment number of the supplier.|
 |Third party import ID|String|Third party import ID of the shipment.|
 |Tracking number|String|Tracking number of the shipment.|
@@ -123,6 +123,3 @@ The following table lists both the mandatory and optional fields for the Spend S
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]

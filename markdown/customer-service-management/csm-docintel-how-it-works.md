@@ -40,7 +40,7 @@ Field groups
 
 </td><td>
 
-Field groups help Document [[intelligence-csm|Intelligence]] extract data from documents with tables, check box [[migration-lists|lists]], and other logical groupings of fields.
+Field groups help Document Intelligence extract data from documents with tables, check box lists, and other logical groupings of fields.
 
 </td></tr><tr><td>
 
@@ -48,9 +48,9 @@ Document tasks
 
 </td><td>
 
-A document task includes one or more attached documents that are used to train the use case to identify and extract the correct information. Document tasks are stored in the Document Tasks related list on the Use [[r_CustomerServiceCaseForm|Case form]].
+A document task includes one or more attached documents that are used to train the use case to identify and extract the correct information. Document tasks are stored in the Document Tasks related list on the Use Case form.
 
- The Document Intelligence feature creates these tasks for each case with valid attachments. Each task trains the model. In [[csm-workspaces-configure|CSM Configurable Workspace]], agents can view these tasks, confirm or correct extracted values, and continue to train the model.
+ The Document Intelligence feature creates these tasks for each case with valid attachments. Each task trains the model. In CSM Configurable Workspace, agents can view these tasks, confirm or correct extracted values, and continue to train the model.
 
 </td></tr><tr><td>
 
@@ -168,12 +168,5 @@ The agent can open a case and review the predicted fields or review the predicti
 -   Update incorrect or missing values.
 -   Submit the changes.
 
-**Parent Topic:**[[csm-document-intelligence|Document Intelligence for Customer Service]]
+**Parent Topic:**[Document Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-document-intelligence.md)
 
-## Related
-
-- [[csm-document-intelligence|Document Intelligence for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

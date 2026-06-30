@@ -14,7 +14,7 @@ breadcrumb: [API Key and HMAC Authentication for inbound REST APIs, Token-based 
 
 # Configure HMAC - Token-based authentication
 
-Configure HMAC to support [[c_Authentication|authentication]] for REST API endpoints.
+Configure HMAC to support authentication for REST API endpoints.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Plugin required: API Key and HMAC Authentication \(`com.glide.tokenbased_auth`\)
 
 ## Procedure
 
-1.  Create an HMAC [[sc-configuration|configuration]].
+1.  Create an HMAC configuration.
 
-    1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access [[ca-policies|Policies]]** &gt; **HMAC Configuration**.
+    1.  Navigate to **All** &gt; **System Web Services** &gt; **API Access Policies** &gt; **HMAC Configuration**.
 
     2.  Select **New**.
 
@@ -85,7 +85,7 @@ HMAC util script
 
 </td><td>
 
-Utility script for HMAC.**Note:** If you validate HMAC authentication using [[c_requestAPI|Request]] body, Time stamp and Secret with no Key Id, then do the following:
+Utility script for HMAC.**Note:** If you validate HMAC authentication using Request body, Time stamp and Secret with no Key Id, then do the following:
 
 -   Create a customized script include as HMAC util script
 -   Use that script include util to interpret the passed in timestamp, and request body.
@@ -256,9 +256,9 @@ Time after which the credential is no longer valid. Empty value means no expirat
 
         **Note:** You can add the Key ID that was generated during the Key ID in the Authentication Profile that was created for HMAC if you don't want to specify the Auth or Query parameter for the API call.
 
-4.  Create a REST [[api-access-policy|API access policy]].
+4.  Create a REST API access policy.
 
-    1.  Navigate to **All** &gt; **System Web Services** &gt; **[[inbound-authentication-profile|REST API Access Policies]]**.
+    1.  Navigate to **All** &gt; **System Web Services** &gt; **REST API Access Policies**.
 
     2.  Select **New**.
 
@@ -369,7 +369,7 @@ Apply to all versions
 Enable this field to apply the auth policy for the API to all the resources.
 
 </td></tr></tbody>
-</table>    4.  Add the [[api-authentication|API authentication]] profile that was created.
+</table>    4.  Add the API authentication profile that was created.
 
         \[Omitted image "hmac-profile-added.png"\] Alt text: HMAC Profile added to Access Policy
 
@@ -381,12 +381,4 @@ Enable this field to apply the auth policy for the API to all the resources.
         -   With pre-request Script with Shared Secret specified as part of the request.
         **Warning:** Use **POST** request when submitting any sensitive information to the server.
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]
-- [[c_requestAPI|request]]
-- [[api-access-policy|API access policy]]
-- [[inbound-authentication-profile|REST API access policies]]
-- [[api-authentication|API Authentication]]

@@ -34,8 +34,5 @@ Following are the tables that are synced with anything related to requesting or 
 |request\_notes|sn\_impact\_common\_impact\_accelerator|request\_notes|x\_snc\_cusp\_play\_instance|
 |closed\_at|sn\_impact\_common\_impact\_accelerator|completed\_date|x\_snc\_cusp\_play\_instance|
 
-**Parent Topic:**[[table-field-level-mapping|Table and field level mapping]]
+**Parent Topic:**[Table and field level mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/table-field-level-mapping.md)
 
-## Related
-
-- [[table-field-level-mapping|Table and field level mapping]]

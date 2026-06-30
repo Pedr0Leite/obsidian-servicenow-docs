@@ -34,7 +34,7 @@ Work with your network administrator to confirm that the following port ranges a
 -   Consumer1: 4100-4150
 -   Consumer2: 4200-4250
 
-**Note:** Proxy usage is not supported for Hermes connectivity. Hermes uses Kafka-native TCP connections \(not HTTP\). Therefore, proxy settings configured on a [[mid-server-landing|MID Server]] are ignored and don't provide a supported path to reach the Hermes cluster. The MID Server proxy configuration applies only to HTTP-based communication and does not apply to Kafka traffic. This applies to all applications that [[c_Connect|connect]] to Hermes, including Log Export Service and Stream Connect.
+**Note:** Proxy usage is not supported for Hermes connectivity. Hermes uses Kafka-native TCP connections \(not HTTP\). Therefore, proxy settings configured on a MID Server are ignored and don't provide a supported path to reach the Hermes cluster. The MID Server proxy configuration applies only to HTTP-based communication and does not apply to Kafka traffic. This applies to all applications that connect to Hermes, including Log Export Service and Stream Connect.
 
 To confirm that the ports are accessible through the firewall, run the following command:
 
@@ -51,7 +51,7 @@ If the command fails internally but succeeds from a client outside the network, 
 
 Use the following port mappings to connect producers and consumers to the Kafka cluster bootstrap addresses. All Application Delivery Controllers used by Hermes follow this same convention.
 
-**Important:** The following Hermes bootstrap address examples use ports 4000-4003, 4100-4103, and 4200-4203. However, you must open the following port ranges to ensure connectivity as additional clusters are added to the [[hermes-messaging-service|Hermes Messaging Service]].
+**Important:** The following Hermes bootstrap address examples use ports 4000-4003, 4100-4103, and 4200-4203. However, you must open the following port ranges to ensure connectivity as additional clusters are added to the Hermes Messaging Service.
 
 -   Producer: 4000-4050
 -   Consumer1: 4100-4150
@@ -90,8 +90,3 @@ When accessing the Hermes clusters using the CLI, internal topics appear in addi
 
 You can't delete a topic from both Kafka clusters using a single command in the command-line interface \(CLI\). However, you can delete the topic from both clusters by deleting the topic record in your instance. See [Delete a topic in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/delete-topic-hermes.md).
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

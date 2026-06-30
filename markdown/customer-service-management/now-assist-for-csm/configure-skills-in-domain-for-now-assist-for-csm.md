@@ -15,7 +15,7 @@ breadcrumb: [Domain separation, Configure, Now Assist for CSM, Customer Service 
 
 # Configure skills in a domain for Now Assist for Customer Service Management \(CSM\)
 
-Activate the skills with different skill configurations in each domain in the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Activate the skills with different skill configurations in each domain in the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ By default, the skill configurations in the domains inherit the settings from th
 
     More information about domain separation for CSM can be found in [Domain separation and Customer Service Management](https://www.servicenow.com/docs/access?context=domain-separation-customer-service)
 
-## Related
 
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

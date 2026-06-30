@@ -14,7 +14,7 @@ breadcrumb: [Customizing Agile 2.0 dashboard reports, Performance Analytics Cont
 
 # Customize story states of your Agile Development 2.0 dashboard reports
 
-Configure story states to reflect your customizations on the [[agile-landing-page|Agile Development 2.0]] dashboards.
+Configure story states to reflect your customizations on the Agile Development 2.0 dashboards.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or pa\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Stories**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Stories**.
 
 2.  Open a story to which you would like to add the custom states.
 
@@ -41,7 +41,3 @@ Role required: admin or pa\_admin
 
 **Parent Topic:**[Customizing Agile 2.0 dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/customizing-dashboard-reports.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

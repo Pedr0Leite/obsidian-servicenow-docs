@@ -23,19 +23,19 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
 3.  Do one of the following:
 
-    -   **Lists** &gt; **My Work** &gt; **My open [[work-with-inquiry-cases|invoice inquiry cases]]**
+    -   **Lists** &gt; **My Work** &gt; **My open invoice inquiry cases**
     -   **Lists** &gt; **All Work** &gt; **All open invoice inquiry cases**
 4.  In the Number column, select the link for an invoice inquiry case to open it.
 
 5.  Select the **Tasks** tab and then select **New**.
 
-6.  On the [[create-apm-task-form|Create New Invoice task form]], fill in the fields.
+6.  On the Create New Invoice task form, fill in the fields.
 
     For a description of the field values, see [Create New Invoice task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-apm-task-form.md).
 
@@ -44,8 +44,3 @@ Role required: sn\_ap\_cm.agent or sn\_ap\_cm.admin
 
 **Parent Topic:**[Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[create-apm-task-form|Create New Invoice task form]]

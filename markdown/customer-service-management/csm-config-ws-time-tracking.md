@@ -12,7 +12,7 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 # Activity timer log
 
-The activity timer log feature automatically [[gamification-components-tracks|tracks]] the time that agents spend working on cases and interactions in [[csm-workspaces-configure|CSM Configurable Workspace]]. The feature monitors agent activity, pauses when agents navigate away from records, and provides detailed time reports for project tracking.
+The activity timer log feature automatically tracks the time that agents spend working on cases and interactions in CSM Configurable Workspace. The feature monitors agent activity, pauses when agents navigate away from records, and provides detailed time reports for project tracking.
 
 ## Activity timer log overview
 
@@ -64,7 +64,7 @@ The **My Timelog** list includes these default filter conditions:
 -   Start and end time: Yesterday's data appears by default.
 -   User: The current logged-in user. Agents can only view their own data.
 
-Agents can filter and sort the information in this list to see different views, such as all of the entries for a single record or the total time worked on a record. For more information, see the table descriptions in [[activity-timer-log-components|Activity timer log components]].
+Agents can filter and sort the information in this list to see different views, such as all of the entries for a single record or the total time worked on a record. For more information, see the table descriptions in [Activity timer log components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activity-timer-log-components.md).
 
 ## Plugin
 
@@ -72,27 +72,15 @@ The activity timer log feature is available with the Activity Timer Reporting pl
 
 **Note:** Activate the activity timer log before use. It is not active by default.
 
-For more information about activating the plugin and configuring this feature, see [[configure-activity-timer-log|Configure the activity timer log]].
+For more information about activating the plugin and configuring this feature, see [Configure the activity timer log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-activity-timer-log.md).
 
 ## Record pages with the activity timer log feature
 
-The activity timer log feature is available on these [[csm-config-workspace-record-pages|record pages]] in CSM Configurable Workspace:
+The activity timer log feature is available on these [record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md) in CSM Configurable Workspace:
 
--   [[csm-default-record-page|CSM default record page]]
--   [[csm-front-line-case-page|Front-line case page]]
--   [[csm-interaction-record-page|CSM Interaction record page]]
--   [[csm-native-voice-record-page|CSM voice interaction record page]]
--   [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
+-   CSM default record page
+-   Front-line case page
+-   CSM Interaction record page
+-   CSM voice interaction record page
+-   CSM centered chat interaction record page
 
-## Related
-
-- [[activity-timer-log-components|Activity timer log components]]
-- [[configure-activity-timer-log|Configure the activity timer log]]
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[gamification-components-tracks|Tracks]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]

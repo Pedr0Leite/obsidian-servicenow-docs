@@ -30,7 +30,7 @@ The following topics describe how to use the Now Assist Readiness Evaluation app
 
 -   **[Configuring Now Assist Readiness Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist-readiness-evaluation.md)**
 
-    Run the scheduled jobs and complete the guided setup [[sc-configuration|configuration]] steps before viewing generative AI and agentic AI assessment results.
+    Run the scheduled jobs and complete the guided setup configuration steps before viewing generative AI and agentic AI assessment results.
 
 -   **[Using Now Assist Readiness Evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-readiness-evaluation.md)**
 
@@ -53,7 +53,7 @@ The following topics describe how to use the Now Assist Readiness Evaluation app
 
 Domain separation lets you isolate data and processes across multiple business units or tenants on a single ServiceNow instance. The following topics describe domain separation support across Now Assist products.
 
--   **[[c_DomainSeparation|Exploring domain separation]]**
+-   **[Exploring domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)**
 
     Understand how domain separation works on the ServiceNow AI Platform and how to configure it to keep data isolated across your organization.
 
@@ -74,10 +74,5 @@ Domain separation lets you isolate data and processes across multiple business u
     Domain separation is supported for Now Assist in Virtual Agent. Learn how domain separation affects AI configuration and data visibility in the virtual agent.
 
 
-**Parent Topic:**[[now-assist-security|Agentic AI security and governance]]
+**Parent Topic:**[Agentic AI security and governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/now-assist-security.md)
 
-## Related
-
-- [[c_DomainSeparation|Exploring domain separation]]
-- [[now-assist-security|Agentic AI security and governance]]
-- [[sc-configuration|Configuration]]

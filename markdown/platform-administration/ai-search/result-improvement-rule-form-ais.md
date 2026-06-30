@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # AI Search Results Improvement Rule form
 
-The AI Search Results Improvement Rule form enables you to [[create-result-improve-rule-ais|create a result improvement rule]] in an [[ia-ai-search|AI Search]] search profile.
+The AI Search Results Improvement Rule form enables you to create a result improvement rule in an AI Search search profile.
 
-For details on creating or editing [[result-improvement-rules-ais|result improvement rules]], see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
+For details on creating or editing result improvement rules, see [Create a result improvement rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-result-improve-rule-ais.md).
 
 <table id="table_y3f_rvd_qmb"><thead><tr><th>
 
@@ -87,7 +87,7 @@ Option indicating whether AI Search will delete the result improvement rule the 
 
 </td></tr><tr><td>
 
-Apply only to [[genius-results-ais|Genius Results]]
+Apply only to Genius Results
 
 </td><td>
 
@@ -99,7 +99,7 @@ Triggers
 
 </td></tr><tr><td>
 
-Expand [[synonyms-ais|Synonyms]] For Query Conditions
+Expand Synonyms For Query Conditions
 
 </td><td>
 
@@ -120,10 +120,3 @@ List of conditions that must be met for the result improvement rule to activate.
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[create-result-improve-rule-ais|Create a result improvement rule]]
-- [[ia-ai-search|AI Search]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[genius-results-ais|Genius Results]]
-- [[synonyms-ais|Synonyms]]

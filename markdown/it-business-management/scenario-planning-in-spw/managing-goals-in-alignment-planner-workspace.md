@@ -14,9 +14,9 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Managing portfolio plan goals in Strategic Planning Workspace
 
-Create goals for your portfolio plans, set targets for them, and evaluate the progress of the goals and targets in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace to accomplish your organizational plans and drive business outcomes.
+Create goals for your portfolio plans, set targets for them, and evaluate the progress of the goals and targets in Strategic Planning Workspace to accomplish your organizational plans and drive business outcomes.
 
-\[Omitted video\] Description: Managing [[goal-management-in-alignment-planner-workspace|goals in Strategic Planning]].
+\[Omitted video\] Description: Managing goals in Strategic Planning.
 
 The Goals view in the Strategic Planning Workspace gives you an overview of your goals and their targets with the Dashboard, List, and Hierarchy tabs. The Dashboard tab \(formerly known as the Overview tab\) provides a summary of all your goals in a particular portfolio plan. The List tab helps you view, create, and manage your goals and targets of the particular portfolio level. The Hierarchy tab helps you view the goals and targets of the portfolio plan entities in a hierarchical manner. This tab also helps you view the goals of the parent entities \(of the portfolio plan entities\) along with the goals and targets of the current portfolio plan.
 
@@ -89,7 +89,7 @@ The Dashboard tab has multiple widgets that help you drill down in the goals and
 -   Targets: A section with multiple widgets that help you view and manage your targets set for the portfolio plan.
     -   Status: Displays your targets based on their status. The status indicates whether the target is likely to be completed by the planned end date.
     -   State: Displays the state of the targets from all the entities of the portfolio plan.
-    -   Due for review: Displays the targets that are due in a week or already overdue from their respective review due date perspective. The **Check-in due date** field on the [[target-form|target form]] helps you to update your targets periodically based on their check-in frequency.
+    -   Due for review: Displays the targets that are due in a week or already overdue from their respective review due date perspective. The **Check-in due date** field on the target form helps you to update your targets periodically based on their check-in frequency.
 
         \[Omitted image "goals-dashboard-targets.png"\] Alt text: Example Targets section on the Dashboard tab.
 
@@ -105,7 +105,7 @@ The Dashboard tab has multiple widgets that help you drill down in the goals and
 
 ## List view in the Goals and targets tab
 
-The List view helps you view, create, and manage your goals and targets of the particular portfolio plan. The List tab hides the downstream and upstream goals, enabling you to focus on only the goals and targets of the current portfolio plan. The List tab helps you update the actual values for your [[target-breakdowns-gf|target breakdowns]] directly. However, you can view the downstream and upstream goals and targets from the Hierarchy tab. The following figure shows a sample goals list and indicates the different features for goals in Strategic Planning Workspace on the List tab.
+The List view helps you view, create, and manage your goals and targets of the particular portfolio plan. The List tab hides the downstream and upstream goals, enabling you to focus on only the goals and targets of the current portfolio plan. The List tab helps you update the actual values for your target breakdowns directly. However, you can view the downstream and upstream goals and targets from the Hierarchy tab. The following figure shows a sample goals list and indicates the different features for goals in Strategic Planning Workspace on the List tab.
 
 -   The row context menu icon \(\[Omitted image "action-menu-icon.png"\] Alt text: Row context menu icon.\) gives you options for managing a goal such as create subgoal, set target, and align work for the selected goal.
 -   Assigned entity: Name of the entity to which the goal belongs.
@@ -119,7 +119,7 @@ The List view helps you view, create, and manage your goals and targets of the p
 
 ## Hierarchy view in the Goals and targets tab
 
-The Hierarchy view helps you view the goals and targets of the portfolio plan entities in a hierarchical manner. Also, the tab helps you view the goals of the parent entities \(of the portfolio plan entities\) along with the goals and targets of the current portfolio plan. For example, in the following figure, the departments are the portfolio plan entities and [[c_BusinessUnits|business units]] are their parent entities. Enabling the **Parent entities goals** option shows the goals of the parent entities \(of the portfolio plan entities\) along with the goals and targets of the current portfolio plan. Enabling the **Parent entities goals** option helps you plan and align your portfolio goals with the goals of the parent entities.
+The Hierarchy view helps you view the goals and targets of the portfolio plan entities in a hierarchical manner. Also, the tab helps you view the goals of the parent entities \(of the portfolio plan entities\) along with the goals and targets of the current portfolio plan. For example, in the following figure, the departments are the portfolio plan entities and business units are their parent entities. Enabling the **Parent entities goals** option shows the goals of the parent entities \(of the portfolio plan entities\) along with the goals and targets of the current portfolio plan. Enabling the **Parent entities goals** option helps you plan and align your portfolio goals with the goals of the parent entities.
 
 -   Parent entities goals: Displays the goals of the parent entities \(of the portfolio plan entities\) that helps you plan and align your portfolio goals with the goals of the parent entities.
 -   Personalize: Helps you customize the columns that you want to view on the Hierarchy tab. Select the settings icon \(\[Omitted image "personalize-icon.png"\] Alt text: Settings icon.\) to enable the columns that you want to view on the Hierarchy tab.
@@ -128,10 +128,3 @@ The Hierarchy view helps you view the goals and targets of the portfolio plan en
 
 \[Omitted image "goals-module-hierarchy.png"\] Alt text: Example goals view on the Hierarchy tab with multiple targets.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[goal-management-in-alignment-planner-workspace|Goals in Strategic Planning]]
-- [[target-form|Target form]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[c_BusinessUnits|Business units]]

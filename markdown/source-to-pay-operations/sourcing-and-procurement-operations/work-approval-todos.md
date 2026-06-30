@@ -14,17 +14,17 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Approve your purchase requisition from Shopping Hub Home
 
-Provide approvals for your purchase requisitions and invoice requests that are in pending approval state. [[purchase-requisition|Purchase requisition]] approvals are generated when an approval rule is triggered on meeting certain criteria. [[invoice-approvals|Invoice approvals]] are sent to the recipient of the line.
+Provide approvals for your purchase requisitions and invoice requests that are in pending approval state. Purchase requisition approvals are generated when an approval rule is triggered on meeting certain criteria. Invoice approvals are sent to the recipient of the line.
 
 ## Before you begin
 
 Role required: sn\_shop.shopper
 
-To provide approvals for your purchase requisitions and invoice requests, you should have received such requests. Only then, this to-do is displayed to you on [[shopping-hub-overview|Shopping Hub]] Home.
+To provide approvals for your purchase requisitions and invoice requests, you should have received such requests. Only then, this to-do is displayed to you on Shopping Hub Home.
 
-You can choose to reject them along with your reasons for rejection. Your action on these to-dos moves the purchase requisitions and [[invoices|invoices]] to their respective workflows.
+You can choose to reject them along with your reasons for rejection. Your action on these to-dos moves the purchase requisitions and invoices to their respective workflows.
 
-An approver can also access the purchase details page on Shopping Hub to gather more information on a purchase request before approving it. Select the card that shows the purchase line in the approval details page to view the purchase details. Approvers are however, not allowed to revise [[purchase-lines|purchase lines]].
+An approver can also access the purchase details page on Shopping Hub to gather more information on a purchase request before approving it. Select the card that shows the purchase line in the approval details page to view the purchase details. Approvers are however, not allowed to revise purchase lines.
 
 ## About this task
 
@@ -60,10 +60,3 @@ You can approve or reject your purchase requisitions and invoice requests from t
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[invoice-approvals|Invoice approvals]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[invoices|Invoices]]
-- [[purchase-lines|Purchase lines]]

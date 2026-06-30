@@ -24,7 +24,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 1.  Access **Cloud Workspace**.
 
-    As an admin, you can access the [[cloud-accounts|Cloud Accounts]] page using one of the following.
+    As an admin, you can access the Cloud Accounts page using one of the following.
 
     -   Navigate to **All** &gt; **Cloud Workspace**
     -   Navigate to **Workspaces** &gt; **Cloud Workspace**
@@ -100,7 +100,3 @@ This section provides critical budgeting information for the cloud account:-   *
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-accounts|Cloud accounts]]

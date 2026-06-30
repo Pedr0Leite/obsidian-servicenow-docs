@@ -18,7 +18,7 @@ The **glide.sys.domain.include\_domain\_condition\_on\_join** property controls 
 
 The **glide.sys.domain.include\_domain\_condition\_on\_join** system property controls whether join queries are given domain separated conditions or not, in order to ensure they apply domain separation functionality for dot walked fields.
 
-Ensure that the property **glide.sys.domain.include\_domain\_condition\_on\_join** is set to **true** when the [[domain-sep-plugin|Domain Separation plugin]] is active.
+Ensure that the property **glide.sys.domain.include\_domain\_condition\_on\_join** is set to **true** when the Domain Separation plugin is active.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It is non-revertible.
 
@@ -42,11 +42,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -120,14 +120,8 @@ References
 
 </td><td>
 
-[[domain-sep-landing-page|Domain separation for service providers]]
+[Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[domain-sep-landing-page|Domain separation for service providers]]
-- [[domain-sep-plugin|Domain separation plugin]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -12,7 +12,7 @@ breadcrumb: [Related lists, Forms in the classic environment, Working in the cla
 
 # Configure the edit option
 
-You can configure the edit option that allows users to add records to related lists in [[form-configurable-workspace|forms]].
+You can configure the edit option that allows users to add records to related lists in forms.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The **Edit** button is available for related lists that represent many-to-many and one-to-many relationships. Defined related lists may not have an **Edit** button, as related records are added to these [[lists-configurable-workspace|lists]] automatically based on the relationship between the records.
+The **Edit** button is available for related lists that represent many-to-many and one-to-many relationships. Defined related lists may not have an **Edit** button, as related records are added to these lists automatically based on the relationship between the records.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ The **Edit** button is available for related lists that represent many-to-many a
 
     |Version|Action|
     |-------|------|
-    |**List v2**|Right-click any column heading and select **[[configure-onboarding-modals|Configure]]** &gt; **List Control**.|
+    |**List v2**|Right-click any column heading and select **Configure** &gt; **List Control**.|
     |**List v3**|Open the list title menu and select **List Control**.|
 
 3.  Perform one of the following actions.
@@ -66,7 +66,7 @@ Click **Enable Edit**.
 
     2.  Right-click the header and select **Configure** &gt; **Dictionary**.
 
-    3.  Open the dictionary entry for the [[onboarding-modals-reference|reference]] field \(example, **Problem ID** on **Incident**\).
+    3.  Open the dictionary entry for the reference field \(example, **Problem ID** on **Incident**\).
 
     4.  In the Reference Specification section, select the **Reference floats** check box.
 
@@ -75,7 +75,7 @@ Click **Enable Edit**.
 5.  Click **Update**.
 
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -92,10 +92,3 @@ Click **Enable Edit**.
 
 [Create a default filter for list selector records]()
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

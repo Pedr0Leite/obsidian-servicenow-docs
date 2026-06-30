@@ -12,7 +12,7 @@ breadcrumb: [Extend ServiceNow AI Platform capabilities]
 
 # Manage service capabilities
 
-Give your customers tailored catalogs for products, and create portals for service requests, using the ServiceNow® [[service-catalog|Service Catalog]] app.
+Give your customers tailored catalogs for products, and create portals for service requests, using the ServiceNow® Service Catalog app.
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
@@ -24,16 +24,16 @@ Give your customers tailored catalogs for products, and create portals for servi
 
 </td><td>
 
-[Service Catalog\[Omitted image "bus-service-catalog.svg"\] Alt text:Create and manage catalogs to give your customers [[self-service-landing|self-service]] options.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
+[Service Catalog\[Omitted image "bus-service-catalog.svg"\] Alt text:Create and manage catalogs to give your customers self-service options.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog.md)
 
 </td></tr></tbody>
 </table>## Self-service
 
-Make use of various common actions and catalog requests with Self-service. The ServiceNow AI Platform gives you access to homepages, knowledge articles, and catalogs, along with handling incidents and [[r_SurveyManagementLandingPage|surveys]]. Go even farther with [[c_ServiceDelegation|Service Delegation]], and select other users to work with your approvals, tasks, and communications.
+Make use of various common actions and catalog requests with Self-service. The ServiceNow AI Platform gives you access to homepages, knowledge articles, and catalogs, along with handling incidents and surveys. Go even farther with Service Delegation, and select other users to work with your approvals, tasks, and communications.
 
 ## Service administration
 
-Give tailored support to your business infrastructure with [[service-administration-landing|Service Administration]]. Use [[assessments-surveys-landing-page|Assessments and Surveys]] to collect data from recipients or assess data from tables in your system. Track tasks with Approvals, and assign authorizing roles to users or groups. Customize data changes with [[c_StateFlows|State Flows]], and create system work triggers based on those transitions. Give your team efficient travel routes and travel times with [[c_Geolocation|Geolocation]].
+Give tailored support to your business infrastructure with Service Administration. Use Assessments and Surveys to collect data from recipients or assess data from tables in your system. Track tasks with Approvals, and assign authorizing roles to users or groups. Customize data changes with State Flows, and create system work triggers based on those transitions. Give your team efficient travel routes and travel times with Geolocation.
 
 ## Service Catalog management
 
@@ -41,16 +41,5 @@ Give your customers tailored self-service options, using the ServiceNow® Servic
 
 ## Password Reset
 
-Maintain login security and user verification with the ServiceNow® [[password-reset-landing-page|Password Reset]] system. Give users self-service and agent-assisted options for handling their passwords, along with multiple verification and authentication types, and enrollments for various reset programs.
+Maintain login security and user verification with the ServiceNow® Password Reset system. Give users self-service and agent-assisted options for handling their passwords, along with multiple verification and authentication types, and enrollments for various reset programs.
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_ServiceDelegation|Service Delegation]]
-- [[service-administration-landing|Service Administration]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[c_StateFlows|State flows]]
-- [[c_Geolocation|Geolocation]]
-- [[password-reset-landing-page|Password Reset]]

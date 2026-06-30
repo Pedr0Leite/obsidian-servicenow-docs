@@ -68,13 +68,9 @@ create\_case.description.enable\_html\_editor
 
 </td><td>
 
-Enable the flag to add description using the HTML editor on the Create [[r_CustomerServiceCaseForm|Case form]] page. -   **Type**: boolean
+Enable the flag to add description using the HTML editor on the Create Case form page. -   **Type**: boolean
 -   **Default value**: True for new customers and False for upgrade customers.
 -   **Location**: **Customer Service** &gt; **Administration** &gt; **Properties**
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

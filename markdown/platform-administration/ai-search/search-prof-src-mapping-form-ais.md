@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Search Profile - Search Source Mapping form
 
-The Search Profile - Search Source Mapping form enables you to [[link-search-source-profile-ais|link a search source to a search profile]] in [[ia-ai-search|AI Search]].
+The Search Profile - Search Source Mapping form enables you to link a search source to a search profile in AI Search.
 
 For details on linking search sources to your search profiles, see [Link a search source to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/link-search-source-profile-ais.md).
 
@@ -48,7 +48,7 @@ Exclude in Regular Search
 
 </td><td>
 
-Option to exclude content from this search source when generating standard search [[hs-results|results]] for searches that use the selected search profile.
+Option to exclude content from this search source when generating standard search results for searches that use the selected search profile.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Application scope for the search source mapping record. This field is automatica
 
 </td></tr><tr><td>
 
-Exclude in Now Assist [[genius-results-ais|Genius Results]]
+Exclude in Now Assist Genius Results
 
 </td><td>
 
@@ -77,9 +77,3 @@ Option to exclude attachments from this search source when generating Genius Res
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[link-search-source-profile-ais|Link a search source to a search profile]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[genius-results-ais|Genius Results]]

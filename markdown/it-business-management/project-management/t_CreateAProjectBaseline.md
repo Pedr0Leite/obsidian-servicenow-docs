@@ -26,7 +26,7 @@ Role required: it\_project\_manager
 
 You can create as many schedule baselines as necessary and review the changes that have been made to the project since the previous baseline. If a project is not on schedule, you can create a schedule baseline to know how much schedule slippage has occurred. It also helps to view the real-time deviations between actual and planned values.
 
-The baseline appears as a set of gray lines below the bars that represent the actual tasks on the [[c_GanttChart|Gantt chart]]. These baselines represent planned dates, while the task bars represent the actual dates. If the [[t_CreateAProjectTask|project tasks]] are shifted to the right of the baselines, the project is running behind schedule.
+The baseline appears as a set of gray lines below the bars that represent the actual tasks on the Gantt chart. These baselines represent planned dates, while the task bars represent the actual dates. If the project tasks are shifted to the right of the baselines, the project is running behind schedule.
 
 **Financial baseline**
 
@@ -56,7 +56,7 @@ Steps
 
 </td><td>
 
-1.  Open a project from planning page in [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from planning page in Project Workspace.
 2.  Select the **Financials** and select **Create baseline**.
 3.  In the Create Baseline pop-up, enter a suitable name and description.
 4.  Select **Save**.
@@ -123,7 +123,7 @@ Compare baselines to review variance between tasks and identify which task has v
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -159,9 +159,3 @@ Compare baselines to review variance between tasks and identify which task has v
 
 [Compare schedule baselines of a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/compare-schedule-baselines-prj.md)
 
-## Related
-
-- [[c_GanttChart|Gantt chart]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ResourcePlans|Resource plans]]

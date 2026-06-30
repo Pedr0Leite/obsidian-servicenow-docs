@@ -22,11 +22,11 @@ Role required: sn\_walkup.walkup\_admin, asset\_user, inventory\_user, or admin
 
 ## About this task
 
-Stockrooms are separate, standalone entities in the [[c_AssetManagement|Asset Management]] application.
+Stockrooms are separate, standalone entities in the Asset Management application.
 
 ## Procedure
 
-1.  To view walk-up location stockrooms, navigate to **[[walkup-experience-landing-page|Walk-up Experience]]** &gt; **Administration** &gt; **Walk-up Stockrooms**.
+1.  To view walk-up location stockrooms, navigate to **Walk-up Experience** &gt; **Administration** &gt; **Walk-up Stockrooms**.
 
 2.  To modify an existing walk-up stockroom, click the stockroom name, otherwise click **New** to create a stockroom.
 
@@ -44,7 +44,3 @@ Stockrooms are separate, standalone entities in the [[c_AssetManagement|Asset Ma
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[walkup-experience-landing-page|Walk-up Experience]]

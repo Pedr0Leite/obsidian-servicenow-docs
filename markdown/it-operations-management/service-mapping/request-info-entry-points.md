@@ -24,7 +24,7 @@ Roles required: service\_mapping\_admin
 
 ## About this task
 
-An entry point is a point where clients access a service instance. Usually, it is either a URL or a combination of the IP address and port. [[c_ServiceMappingOverview|Service Mapping]] starts the mapping process from this point. For example, to map your electronic mailing service instance, define an IP address or host name of the email server as an entry point.
+An entry point is a point where clients access a service instance. Usually, it is either a URL or a combination of the IP address and port. Service Mapping starts the mapping process from this point. For example, to map your electronic mailing service instance, define an IP address or host name of the email server as an entry point.
 
 Entry points vary depending on the nature of the service instance. Service Mapping comes with a wide range of preconfigured entry point types that cover many commonly used applications.
 
@@ -55,6 +55,3 @@ Entry points vary depending on the nature of the service instance. Service Mappi
 
 **Parent Topic:**[Map a single application service using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_DefineNewBusinessService.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

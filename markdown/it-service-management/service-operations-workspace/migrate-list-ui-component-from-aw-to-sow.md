@@ -54,7 +54,7 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 11. Select **Update**.
 
-    The [[migration-utility|migration utility]] supports MRA and interceptor declarative actions of UI component type only.
+    The migration utility supports MRA and interceptor declarative actions of UI component type only.
 
 12. For MRA, create an action payload as mentioned in the code block, update the values in action attributes with component attributes of the ITSM Agent Workspace declarative action.
 
@@ -92,7 +92,7 @@ At the end of the migration process, a confirmation message specifies if the mig
     } 
     ```
 
-14. Add an add-on event mapping to the [[migrated-records|migrated]] declarative action.
+14. Add an add-on event mapping to the migrated declarative action.
 
     Find the matching declarative action in SOW and add all the add-on event mapping to the migrated declarative action. Use the following steps to find the equivalent declarative action in SOW.
 
@@ -121,7 +121,3 @@ At the end of the migration process, a confirmation message specifies if the mig
 
 **Parent Topic:**[List actions migration from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/list-actions-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]

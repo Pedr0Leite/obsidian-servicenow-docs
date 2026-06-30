@@ -14,7 +14,7 @@ breadcrumb: [Use, AI Control Tower, Enable AI experiences]
 
 # Complete AI asset lifecycle
 
-Complete the [[ai-asset-lifecycle|AI asset lifecycle]] process starting from assessment through deployment.
+Complete the AI asset lifecycle process starting from assessment through deployment.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: AI steward \[sn\_ai\_governance.ai\_steward\] or Asset owner \[sn
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
-2.  From the AI Control Tower, open the [[ai-assets|AI assets]] view.
+2.  From the AI Control Tower, open the AI assets view.
 
 3.  From the AI assets view, locate and open an asset which has its **Lifecycle status** as steward review.
 
@@ -55,8 +55,3 @@ The life cycle status of an AI asset is deployed and completed.
 
 To manage the approval workflow for ServiceNow® AI, see [Create an AI Control Tower Playbook workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/create-a-playbook-workflow-for-now-assist-approvals.md).
 
-## Related
-
-- [[ai-asset-lifecycle|AI asset lifecycle]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]

@@ -14,7 +14,7 @@ breadcrumb: [Chemical management, Use, Health and Safety Environmental Managemen
 
 # View the chemical library as an employee
 
-The chemical library is a centralized repository that lists all chemicals used or managed by an organization. Employees can access the chemical library through the [[employee-center-landing-page|Employee Center]].
+The chemical library is a centralized repository that lists all chemicals used or managed by an organization. Employees can access the chemical library through the Employee Center.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: sn\_hs\_chm.requestor
 
 1.  Navigate to **All** &gt; **Self service** &gt; **Employee Center**.
 
-2.  Select **[[health-safety-overview|Health and Safety]]** menu.
+2.  Select **Health and Safety** menu.
 
-3.  Under the **[[emp-center-quick-link-config|Quick links]]**, select **View chemical library**.
+3.  Under the **Quick links**, select **View chemical library**.
 
 
 ## Result
@@ -39,8 +39,3 @@ You can use the chemical library to search for chemicals by name or keyword, and
 
 **Parent Topic:**[Chemical management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-chemical-management.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[emp-center-quick-link-config|Quick links]]

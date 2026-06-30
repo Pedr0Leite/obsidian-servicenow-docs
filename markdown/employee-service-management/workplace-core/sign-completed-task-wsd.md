@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Sign a completed workplace task
 
-As the workplace manager for a space, sign the workplace tasks [[workplace-safety-mgmt-hr|Workplace Core]] for complete and closed activities. Signing a task generates a PDF document for the workplace [[activity-lxp|activity]], which is useful for compliance procedures.
+As the workplace manager for a space, sign the workplace tasks Workplace Core for complete and closed activities. Signing a task generates a PDF document for the workplace activity, which is useful for compliance procedures.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ A PDF document of the signed form is generated based on the signing template ass
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[activity-lxp|Activity]]

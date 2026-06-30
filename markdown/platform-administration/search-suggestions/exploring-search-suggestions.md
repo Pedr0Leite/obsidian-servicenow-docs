@@ -14,11 +14,11 @@ breadcrumb: [Search Suggestions, Search administration, Configure core features,
 
 # Exploring Search Suggestions
 
-Learn how [[search-suggestions-overview|Search Suggestions]] displays suggestions to users in [[ia-ai-search|AI Search]] applications and the [[c_ZingTextSearch|Zing text indexing and search engine]]. Review the rules that dictate which suggestions are offered in each search application and context.
+Learn how Search Suggestions displays suggestions to users in AI Search applications and the Zing text indexing and search engine. Review the rules that dictate which suggestions are offered in each search application and context.
 
 ## Search Suggestions overview
 
-The Search Suggestions application makes it possible for search applications to display suggested search completions or [[hs-results|results]] to users as they enter terms into a search field.
+The Search Suggestions application makes it possible for search applications to display suggested search completions or results to users as they enter terms into a search field.
 
 Search Suggestions saves query terms and results from user searches. A Build Search Suggestions script runs against this saved data periodically to generate auto-complete suggestions for AI Search and search suggestions for Zing text search. The Prune Search Suggestions script runs periodically to remove low-relevancy suggestions.
 
@@ -34,7 +34,7 @@ In this Search Suggestions workflow:
 
 1.  -   Administrators configure Search Suggestions settings, including scheduling of scripts and restrictions on which saved search results the system uses to create auto-complete suggestions and search suggestions.
 -   The system saves users' search results and uses them to generate new auto-complete suggestions and search suggestions.
-2.  -   Search users view and select generated [[auto-complete-ais|auto-complete suggestions in AI Search applications]].
+2.  -   Search users view and select generated auto-complete suggestions in AI Search applications.
 -   Search users view and select generated search suggestions in Zing.
 -   Non-authenticated guest users access and review the list of generated suggestions created from searches by external users.
 3.  Administrators review and analyze saved search results to improve understanding of how users interact with generated suggestions, allowing for more effective tuning of Search Suggestions settings.
@@ -43,21 +43,12 @@ In this Search Suggestions workflow:
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|View and select relevant auto-complete suggestions when [[use-ais|searching in AI Search]] applications.|[Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md)|AI Search users|
+|View and select relevant auto-complete suggestions when searching in AI Search applications.|[Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md)|AI Search users|
 |View and select relevant search suggestions when searching with the Zing text search engine.|[Zing displays search suggestions as users enter search terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-suggestions-zing.md)|Zing search users|
 |See the list of auto-complete suggestions and search suggestions created from searches by external users.|[Use the GraphQL REST API to view suggestions created from external user searches](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/view-ext-user-search-suggestions.md)|Non-authenticated guest user|
 |Control suggestion generation time by configuring how often the system builds auto-complete suggestions and search suggestions from user search strings.|[Schedule the Build Search Suggestions script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/schedule-search-suggestion-builds.md)|Administrator|
 |Improve suggestion relevancy by configuring how often the system prunes the least relevant auto-complete suggestions and search suggestions from the Search Suggestion \[sys\_search\_suggestion\] table.|[Schedule suggestion pruning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/limit-number-of-suggestions.md)|Administrator|
 |Increase suggestion freshness by using only the most recent search event records to create auto-complete suggestions and search suggestions.|[Set maximum age for searches used in suggestion generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/set-maximum-number-of-search-strings.md)|Administrator|
 |Prevent creation of unwanted auto-complete suggestions and search suggestions.|[Prevent the creation of suggestions in special cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/preventing-suggestions.md)|Administrator|
-|Understand how users interact with search by analyzing data from the [[understanding-search-suggestion-tables|Search Suggestions tables]].|[Analyze search relevancy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/improve-search-results.md)|Administrator|
+|Understand how users interact with search by analyzing data from the Search Suggestions tables.|[Analyze search relevancy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/improve-search-results.md)|Administrator|
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[ia-ai-search|AI Search]]
-- [[c_ZingTextSearch|Zing text indexing and search engine]]
-- [[hs-results|Results]]
-- [[auto-complete-ais|Auto-complete suggestions in AI Search applications]]
-- [[use-ais|Searching in AI Search]]
-- [[understanding-search-suggestion-tables|Search Suggestions tables]]

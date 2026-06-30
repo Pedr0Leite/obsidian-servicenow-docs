@@ -16,7 +16,7 @@ breadcrumb: [Advanced Core UI reporting topics, Reporting, Reporting, dashboards
 
 You can create reports that use datasets from up to five tables in a single report.
 
-The following [[report-types-creation-details-rd|report types]] support multiple datasets: bar, horizontal bar, column, line, step line, area, spline.
+The following report types support multiple datasets: bar, horizontal bar, column, line, step line, area, spline.
 
 Multiple **Group by**s are not supported on multiple datasets. When using multiple datasets, the report legend is always displayed.
 
@@ -46,9 +46,9 @@ The property **glide.ui.doctype** must be enabled.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  [[t_CreateYourOwnReport|Create a report]] of a type that supports multiple datasets, or select an existing report of one of these types.
+2.  Create a report of a type that supports multiple datasets, or select an existing report of one of these types.
 
     You can add additional sets to bar, horizontal bar, line, column, area, and spline reports.
 
@@ -79,8 +79,3 @@ The property **glide.ui.doctype** must be enabled.
 
 The report is generated with the information from the additional dataset.
 
-## Related
-
-- [[report-types-creation-details-rd|Report types]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[t_CreateYourOwnReport|Create a report]]

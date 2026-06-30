@@ -31,7 +31,7 @@ Access, review and validate the Payers Enrollment details of a healthcare profes
 **Related topics**  
 
 
-[Installed with [[hr-service-delivery|HR Service Delivery]] for Healthcare]()
+[Installed with HR Service Delivery for Healthcare]()
 
 [Healthcare professional profile form]()
 
@@ -39,7 +39,7 @@ Access, review and validate the Payers Enrollment details of a healthcare profes
 
 [Professional liability Insurances form]()
 
-[Professional [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] form]()
+[Professional reference form]()
 
 [Professional speciality form]()
 
@@ -57,7 +57,3 @@ Access, review and validate the Payers Enrollment details of a healthcare profes
 
 [Healthcare Employee Onboarding form]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

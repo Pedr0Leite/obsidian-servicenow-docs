@@ -30,7 +30,7 @@ Sending the reminders to the contributor owner of the target helps them ensuring
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select the goal-based board for which your target belongs to.
 
@@ -54,7 +54,3 @@ Contributors are notified with a check‑in reminder to update the target actual
 
 [Align work with a goal or target](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/associate-work-with-goals-strategy.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

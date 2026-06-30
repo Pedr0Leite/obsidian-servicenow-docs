@@ -12,11 +12,11 @@ breadcrumb: [Email and SMS notifications, System notifications, Notifications, C
 
 # Email notifications dashboard
 
-The email notification dashboard provides visibility into key [[c_MetricDefinitionSupport|metrics]] and enables admins to configure the dashboard to enable access to other users.
+The email notification dashboard provides visibility into key metrics and enables admins to configure the dashboard to enable access to other users.
 
 To access Email notifications dashboard, navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Email notifications dashboard**
 
-The dashboard enhances visibility and supports proactive management of email [[notifications|notifications]], and includes highlights about:
+The dashboard enhances visibility and supports proactive management of email notifications, and includes highlights about:
 
 -   Email notification insights
 -   Active notifications
@@ -25,7 +25,7 @@ The dashboard enhances visibility and supports proactive management of email [[n
 
 \[Omitted video\] Description: Email notifications dashboard
 
-Data collection is triggered by configuring and executing jobs. For more information, see [[configure-jobs-email-dashboard|Configure jobs for email notifications dashboard]].
+Data collection is triggered by configuring and executing jobs. For more information, see [Configure jobs for email notifications dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-jobs-email-dashboard.md).
 
 **Note:** Configuration of jobs is required for data to be displayed on the dashboard.
 
@@ -162,7 +162,7 @@ To view all the email notifications, select **View all email notifications**.
 -   **[Configure jobs for email notifications dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-jobs-email-dashboard.md)**  
 Configure data collection jobs for the email notification dashboard.
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -189,9 +189,3 @@ Configure data collection jobs for the email notification dashboard.
 
 [Email FAQs and troubleshooting notification emails]()
 
-## Related
-
-- [[configure-jobs-email-dashboard|Configure jobs for email notifications dashboard]]
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[notifications|Notifications]]

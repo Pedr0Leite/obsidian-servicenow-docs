@@ -14,10 +14,7 @@ breadcrumb: [Document Templates, HR Documents, HR Service Delivery, Employee Ser
 
 # Frequently Asked Questions \(FAQs\) on Document Templates
 
-Find answers to some common questions on [[document-templates-overview|Document Templates]].
+Find answers to some common questions on Document Templates.
 
 Refer to this [KB0966931](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0966931).
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

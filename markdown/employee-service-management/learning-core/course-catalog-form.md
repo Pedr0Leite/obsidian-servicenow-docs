@@ -14,7 +14,7 @@ breadcrumb: [Learning reference, Learning, Growth Experiences, HR Service Delive
 
 # Learning course catalog form
 
-Use the [[course-catalog-table|course catalog form]] to create a new [[exploring-learning-exp|learning]] course catalog.
+Use the course catalog form to create a new learning course catalog.
 
 |Field|Description|
 |-----|-----------|
@@ -31,7 +31,3 @@ Use the [[course-catalog-table|course catalog form]] to create a new [[exploring
 
 **Parent Topic:**[Learning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
-## Related
-
-- [[course-catalog-table|Course catalog form]]
-- [[exploring-learning-exp|Learning]]

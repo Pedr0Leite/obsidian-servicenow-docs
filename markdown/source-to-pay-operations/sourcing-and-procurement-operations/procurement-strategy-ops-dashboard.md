@@ -16,9 +16,9 @@ breadcrumb: [Preconfigured metrics and dashboards, Explore, Sourcing and Procure
 
 Visually analyze how your organization is placed strategically and operationally, over a given period of time.
 
-**Note:** This dashboard is available only if you install the [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]] application.
+**Note:** This dashboard is available only if you install the Performance Analytics for Sourcing and Procurement Operations application.
 
-You can use the Procurement Strategy &amp; Ops Dashboard to view your organization's strategic performance, which includes year-to-date total spend, spend categorization, total savings, negotiation outcomes, spend by category and [[supplier|supplier]], and utilization of active blanket purchase orders. On the operations side, you can view your organization's open sourcing requests, [[negotiations|negotiations]], expiring [[contracts|contracts]], and purchase requisitions and their details. You can filter by [[cost-center|cost center]] or department and select specific elements to view relevant details.
+You can use the Procurement Strategy &amp; Ops Dashboard to view your organization's strategic performance, which includes year-to-date total spend, spend categorization, total savings, negotiation outcomes, spend by category and supplier, and utilization of active blanket purchase orders. On the operations side, you can view your organization's open sourcing requests, negotiations, expiring contracts, and purchase requisitions and their details. You can filter by cost center or department and select specific elements to view relevant details.
 
 On the SLA side, you can view the basic cycle times for different record types, time taken for each state, comparison of breached versus unbreached records, breached time in comparison with standard SLA time, and team performance in terms of processing records and also the excess time taken for breached records. You can filter the records by task type.
 
@@ -35,8 +35,8 @@ On the SLA side, you can view the basic cycle times for different record types, 
 
 -   Number of Expiring Contracts
 -   Number of Open Negotiations
--   Number of Open [[purchase-requisition|Purchase Requisition]]
--   Number of Open [[sourcing-request|Sourcing Request]]
+-   Number of Open Purchase Requisition
+-   Number of Open Sourcing Request
 -   Number of Total \(ATF\) Purchase Requisition
 -   Order Line Revisioned Line Amount
 -   Order Line Total Line Amount\(History Line\)
@@ -47,7 +47,7 @@ On the SLA side, you can view the basic cycle times for different record types, 
 -   PSM - Procurement Team Performance.Count
 -   PSM - ProcurementSLA.duration of records
 -   PSM - ProcurementSLA.standard time
--   [[purchase-order-table|Purchase Order]] - Total Line Amount
+-   Purchase Order - Total Line Amount
 -   \(ATF\) Purchase Line - Total Line Amount
 
 ## Breakdowns
@@ -295,7 +295,7 @@ Bar with line
 
 </td><td>
 
-View the count and $ value of After-the-Fact \(ATF\) purchase requisitions.$ value is the value of [[purchase-lines|purchase lines]] that satisfy the ATF criteria. For example, if there’s one ATF purchase requisition with two lines \(purchase requisition line 1 is ATF with line amount $10, and purchase requisition line 2 isn’t ATF with line amount $5\), the count of ATF purchase requisitions is 1 and the $ value is $10.
+View the count and $ value of After-the-Fact \(ATF\) purchase requisitions.$ value is the value of purchase lines that satisfy the ATF criteria. For example, if there’s one ATF purchase requisition with two lines \(purchase requisition line 1 is ATF with line amount $10, and purchase requisition line 2 isn’t ATF with line amount $5\), the count of ATF purchase requisitions is 1 and the $ value is $10.
 
 Revised ATF purchase requisitions and their values aren’t considered.
 
@@ -390,14 +390,3 @@ For information on how to work with widgets and data visualizations in configura
 
 **Parent Topic:**[Performance Analytics for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/performance-analytics-for-spo.md)
 
-## Related
-
-- [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]]
-- [[supplier|Supplier]]
-- [[negotiations|Negotiations]]
-- [[contracts|Contracts]]
-- [[cost-center|Cost center]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-lines|Purchase lines]]

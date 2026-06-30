@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 # Email notifications installed with Facilities Service Management
 
-Email notifications are a way to send selected users email or SMS notifications about specific activities in [[FacilitiesLandingPage|Facilities Service Management]].
+Email notifications are a way to send selected users email or SMS notifications about specific activities in Facilities Service Management.
 
 Facilities Service Management adds the following email notifications.
 
@@ -20,9 +20,5 @@ Facilities Service Management adds the following email notifications.
 |------------|-----------|
 |Facilities Request is assigned|Sends an email message to the facilities staff member who is assigned to the facilities request.|
 
-**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Business Logic, Hardening settings, Platform Security]
 
 # Minimize SMTP Recipient Quantity
 
-The **glide.[[email|email]].smtp.max\_recipients** specifies the maximum number of recipients the instance can list in the **To:** line for a single email notification.
+The **glide.email.smtp.max\_recipients** specifies the maximum number of recipients the instance can list in the **To:** line for a single email notification.
 
 The **glide.email.smtp.max\_recipients** system property specifies the maximum number of recipients the instance can list in the To: line for a single email notification. Notifications that would exceed this limit instead create duplicate email notifications addressed to a subset of the recipient list. Each email notification has the same maximum number of recipients.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ None
 
 **Parent Topic:**[Business Logic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-business-logic.md)
 
-## Related
-
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Configure Virtual Agent notifications in Microsoft Teams
 
-Configure the [[va-notification-ta|Virtual Agent notifications]] to provide prompt updates for the [[hiring-tab-concept|hiring]] managers and recruiters in Microsoft Teams.
+Configure the Virtual Agent notifications to provide prompt updates for the hiring managers and recruiters in Microsoft Teams.
 
 ## Before you begin
 
@@ -18,7 +18,7 @@ Role required: admin
 
 You must activate the following plugins for the Virtual Agent notification functionality.
 
--   [[employee-center-pro-landing|Employee Center Pro]] plugin \(sn\_ex\_sp\_pro\)
+-   Employee Center Pro plugin \(sn\_ex\_sp\_pro\)
 -   Glide Virtual Agent plugin \(com.glide.cs.chatbot\)
 
 **Note:** The Glide Virtual Agent Lite plugin \(com.glide.cs.chatbot.lite\), if enabled, only provides read-only notification. It doesn't support actionable notification.
@@ -44,8 +44,3 @@ After you have set up the Glide Virtual Agent plugin \(com.glide.cs.chatbot\), i
 
 **Parent Topic:**[Integrations for Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-with-talent-acquisition.md)
 
-## Related
-
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[hiring-tab-concept|Hiring]]
-- [[employee-center-pro-landing|Employee Center Pro]]

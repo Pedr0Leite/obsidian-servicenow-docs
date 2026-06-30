@@ -33,8 +33,5 @@ Role required: admin
 
 ## Result
 
-The new role will appear in the dropdown to be selected during the internal program team activity. To configure read/write access for these roles, see [[psds-config-gmp-internal-team-default-roles|Configure read/write access roles for the Grants Management internal program team]].
+The new role will appear in the dropdown to be selected during the internal program team activity. To configure read/write access for these roles, see [Configure read/write access roles for the Grants Management internal program team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-internal-team-default-roles.md).
 
-## Related
-
-- [[psds-config-gmp-internal-team-default-roles|Configure read/write access roles for the Grants Management internal program team]]

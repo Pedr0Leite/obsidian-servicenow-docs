@@ -23,7 +23,7 @@ As a knowledge administrator, manager of a knowledge base, or owner of a knowled
 
 As a knowledge administrator, manager of a knowledge base, or owner of a knowledge base, you can assign user criteria, or roles, or both, to control read access at the knowledge article level.
 
-Try to use only user criteria, which were introduced in [[knowledge-management|Knowledge Management]] v3, to control access to knowledge articles. Roles were used for this purpose in Knowledge Management v2. If no user criteria is selected for a knowledge base, all users can read and all users with roles can contribute to that knowledge base.
+Try to use only user criteria, which were introduced in Knowledge Management v3, to control access to knowledge articles. Roles were used for this purpose in Knowledge Management v2. If no user criteria is selected for a knowledge base, all users can read and all users with roles can contribute to that knowledge base.
 
 **Note:** By default, when contribute access isn't provided for a knowledge base, a user must meet both roles and user criteria conditions for read access. However, you can override roles set for a knowledge article and provide access through user criteria only by setting the **glide.knowman.search.apply\_role\_based\_security** system property to `false`. Because this property isn't available by default, you must add it. For more information, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
@@ -106,7 +106,7 @@ Knowledge administrator
 -   Contribute to and read all knowledge bases and their articles.
 -   Modify the definition of all knowledge bases and assign user criteria to them.
 
- **Note:** This access doesn't apply to [[scoped-knowledge-base-administration|scoped knowledge bases]]. For more information, see [Scoped knowledge bases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/scoped-knowledge-base-administration.md).
+ **Note:** This access doesn't apply to scoped knowledge bases. For more information, see [Scoped knowledge bases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/scoped-knowledge-base-administration.md).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Manager of a knowledge base
 -   Contribute to and read that knowledge base.
 -   Modify the definition of that knowledge base and assign user criteria to it.
 
- **Note:** If the [[article-versioning|article versioning]] feature is enabled, the manager of a knowledge base can’t modify knowledge articles of other authors that are in the **Draft** state. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+ **Note:** If the article versioning feature is enabled, the manager of a knowledge base can’t modify knowledge articles of other authors that are in the **Draft** state. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -139,7 +139,7 @@ Read, modify, approve, and retire that knowledge article \(see [Ownership groups
 </td></tr></tbody>
 </table>## Explicit roles and user criteria
 
-Explicit roles \(snc\_external and snc\_internal\) are added to your instance when your administrator installs a plugin, such as the Customer Service plugin \(com.sn\_customerservice\), that also activates the Explicit Roles plugin \(com.glide.explicit\_roles\). If you [[create-a-knowledgebase|create a knowledge base]] with the Explicit Roles plugin \(com.glide.explicit\_roles\) activated, the application automatically adds the following predefined user criteria at the knowledge base level:
+Explicit roles \(snc\_external and snc\_internal\) are added to your instance when your administrator installs a plugin, such as the Customer Service plugin \(com.sn\_customerservice\), that also activates the Explicit Roles plugin \(com.glide.explicit\_roles\). If you create a knowledge base with the Explicit Roles plugin \(com.glide.explicit\_roles\) activated, the application automatically adds the following predefined user criteria at the knowledge base level:
 
 -   **Users with 'snc\_internal' role** – Added to the Can Read user criteria enabling only users with the snc\_internal role have read access to the knowledge base.
 -   **Users with snc\_internal' and another role** – Added to the Can Contribute user criteria enabling only users with the snc\_internal role and at least one additional role have contribute access to the knowledge base.
@@ -252,9 +252,3 @@ You specify user criteria for a knowledge article to control which users are gra
 
 [Create user criteria for controlling access to knowledge bases and articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-user-criteria-record-in-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[scoped-knowledge-base-administration|Scoped knowledge bases]]
-- [[article-versioning|Article versioning]]
-- [[create-a-knowledgebase|Create a knowledge base]]

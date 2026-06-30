@@ -18,12 +18,12 @@ Data markings represent restrictions, permissions, and other guidance for how da
 
 For example, data may be shared with the restriction that it must not be reshared, or that it must be encrypted at rest.
 
-In STIX, data markings are specified using the [[marking-definition|marking definition]] object. These definitions are applied to STIX Objects using object markings and to individual properties of STIX Objects via granular markings.
+In STIX, data markings are specified using the marking definition object. These definitions are applied to STIX Objects using object markings and to individual properties of STIX Objects via granular markings.
 
--   **[[define-marking-definitions|Define marking definitions]]**  
+-   **[Define marking definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-marking-definitions.md)**  
 Define marking definitions that represent a specific data marking.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -74,8 +74,3 @@ Define marking definitions that represent a specific data marking.
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-marking-definitions|Define marking definitions]]
-- [[ioc-repository|IoC Repository]]
-- [[marking-definition|Marking Definition]]

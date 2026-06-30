@@ -14,9 +14,9 @@ breadcrumb: [Explore, Operational Technology Incident Management, Operational Te
 
 # Integrating with Industrial Process Manager
 
-Integrate [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] with [[industrial-process-manager-overview|Industrial Process Manager]] to report incidents on equipment model entities.
+Integrate Operational Technology Incident Management with Industrial Process Manager to report incidents on equipment model entities.
 
-Industrial Process Manager creates the [[isa-95-equipment-model|ISA-95 Equipment Model]] data foundation that is required for the ServiceNow® [[operational-technology-overview|Operational Technology]] solution. When integrated with Operational Technology Incident Management, you're enabled to view incident impact against production processes.
+Industrial Process Manager creates the ISA-95 Equipment Model data foundation that is required for the ServiceNow® Operational Technology solution. When integrated with Operational Technology Incident Management, you're enabled to view incident impact against production processes.
 
 The ISA Equipment Model plugin \(sn\_isa\_model\) installed with Industrial Process Manager enables views for specified roles. For more information, see [ISA-95 equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/isa-95-equipment-model.md).
 
@@ -35,9 +35,3 @@ The **OT incident** related list on the equipment model entity record shows all 
 
 **Parent Topic:**[Exploring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/exploring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[operational-technology-overview|Operational Technology]]

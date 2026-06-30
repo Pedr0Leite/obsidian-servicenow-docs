@@ -14,9 +14,9 @@ breadcrumb: [Reports and dashboards, Enterprise Agile Planning, Strategic Planni
 
 # EAP Portfolio dashboard
 
-The [[c_PortfolioManagerDashboard|Portfolio dashboard]] provides a high-level view of all the active work items in your portfolio.
+The Portfolio dashboard provides a high-level view of all the active work items in your portfolio.
 
-\[Omitted image "eap-portfolio-inline-dashboard.png"\] Alt text: [[portfolio-planning-app-landing-page|Portfolio Planning]] Inline dashboard.
+\[Omitted image "eap-portfolio-inline-dashboard.png"\] Alt text: Portfolio Planning Inline dashboard.
 
 You can use a default dashboard or you can configure a custom dashboard and associate it with your Agile configuration. For more information, see [Configuring custom dashboards in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/configuring-eap-dashboard.md).
 
@@ -26,7 +26,7 @@ The EAP read-only \(sn\_apw\_advanced.eap\_read\_only\) role is required to view
 
 ## Access the Portfolio dashboard
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 2.  From the Agile structure section of the navigation panel, choose your EAP Portfolio.
 3.  Select the **Home** tab.
 
@@ -112,9 +112,3 @@ Distribution of work items for the selected attribute. You can group the data us
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

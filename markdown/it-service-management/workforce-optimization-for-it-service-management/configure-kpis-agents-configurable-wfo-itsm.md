@@ -39,7 +39,7 @@ The KPI scores are automatically refreshed at an interval of 30 seconds. However
 
 3.  Click the Agents Reports related list.
 
-4.  Add the [reports for agents in Channel Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-channel-management-reference.md) that are by default configured with [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]].
+4.  Add the [reports for agents in Channel Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-channel-management-reference.md) that are by default configured with Workforce Optimization for ITSM.
 
     **Note:** Review the report's definition and add the corresponding filters that are applicable to the service channel that matters the most to you.
 
@@ -63,7 +63,7 @@ The KPI scores are automatically refreshed at an interval of 30 seconds. However
 
     6.  Select the Interactive filter references related list and click **New**.
 
-        The Interactive Filter [[reference-for-itsm-mobile-agent|Reference]] - Channel Management Agent Filter page appears.
+        The Interactive Filter Reference - Channel Management Agent Filter page appears.
 
     7.  Select the KPI report's table name and field name.
 
@@ -82,7 +82,3 @@ The KPIs that are configured in the service channel appear in the Current Work s
 
 **Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[reference-for-itsm-mobile-agent|Reference]]

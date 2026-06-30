@@ -22,7 +22,7 @@ Watch this four-minute video to learn how to create and configure a report visua
 
 You can generate the following types of reports, organized by category:
 
--   [Bar reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) enable you to [[scorecard-compare-tab|compare scores]] across data dimensions.
+-   [Bar reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) enable you to compare scores across data dimensions.
 -   [Pie and Donut reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) visualize the relationship between the parts and the whole of a data set using a single round shape.
 -   [Time Series reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) visualize data over time. In addition to data from within your instances and imported data sources, you can also use MetricBase data in time series reports. For more information, see MetricBase application.
 -   [Multidimensional reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-types-creation-details-rd.md) visualize data across dimensions in a single table or graph.
@@ -66,7 +66,7 @@ Shows vertical or horizontal bars with lengths proportional to the values that t
 
 </td><td>
 
-Combines bar and [[c_CreateLineCharts|line reports]] to identify the most important factors in a large set of factors.
+Combines bar and line reports to identify the most important factors in a large set of factors.
 
 </td></tr><tr><td>
 
@@ -123,7 +123,3 @@ Provides visual interpretation of numerical data by indicating the number of dat
 |\[Omitted image "inline-data-vis-96px-pivot-table.png"\] Alt text: Data visualization pivot table type - large|[Pivot tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_PivotTables.md)|Aggregates data from a table to display the source of summarized data. This functionality is expanded in [multilevel pivot reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_MultilevelPivotCharts.md).|
 |\[Omitted image "inline-data-vis-96px-pyramid.png"\] Alt text: Data visualization pyramid type - large|[Pyramid reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_CreateFunnelAndPyramidCharts.md)|Visualizes a variation on a bar report using pyramid sections instead of rectangles. \(Found in the Other reports section.\)|
 
-## Related
-
-- [[scorecard-compare-tab|Compare scores]]
-- [[c_CreateLineCharts|Line reports]]

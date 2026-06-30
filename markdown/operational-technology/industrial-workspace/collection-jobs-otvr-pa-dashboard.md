@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Operational Technology Vulnerability Response \(PA\) dashboard collection jobs
 
-The [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]] uses collection jobs to collect the data that is shown on the dashboard.
+The Operational Technology Vulnerability Response \(PA\) dashboard uses collection jobs to collect the data that is shown on the dashboard.
 
 The following collection jobs collect the data that is shown on the Operational Technology Vulnerability Response \(PA\) dashboard:
 
@@ -39,6 +39,3 @@ The following collection jobs collect the data that is shown on the Operational 
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]

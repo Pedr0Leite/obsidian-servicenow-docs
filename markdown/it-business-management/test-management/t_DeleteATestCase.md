@@ -14,7 +14,7 @@ breadcrumb: [Test cases, Setting up the manual testing process, Test Management 
 
 # Delete a test case
 
-Delete a test case and all the [[c_Tests|tests]] associated to it.
+Delete a test case and all the tests associated to it.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tm\_test\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **[[c_TestCases|Test Cases]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Repository** &gt; **Test Cases**.
 
 2.  Open the test case that you want to delete.
 
@@ -39,7 +39,3 @@ The test case is removed from the list and all the associated tests are deleted.
 
 **Parent Topic:**[Test cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_TestCases.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[c_TestCases|Test cases]]

@@ -26,7 +26,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[document-templates-overview|Document Templates]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Document Templates**.
 
 2.  Click **New** or open a record.
 
@@ -98,7 +98,7 @@ Select the Adobe Sign template to use.**Note:** You must synchronize each time y
 
 </td></tr><tr><td>
 
-[[hr-criteria|HR criteria]]
+HR criteria
 
 </td><td>
 
@@ -109,7 +109,7 @@ Defines the conditions that the subject person of an HR case must meet for an HR
 
     The PDF Template Mappings section is displayed.
 
-6.  In the **PDF Template Mappings** section, you must manually [[map-fields-navex|map fields]] from the Adobe Sign template to corresponding table fields to populate the document when it is generated for signing.
+6.  In the **PDF Template Mappings** section, you must manually map fields from the Adobe Sign template to corresponding table fields to populate the document when it is generated for signing.
 
     \[Omitted image "pdf-mapping-adobe.png"\] Alt text: How to assign the signing order for serial signing in Adobesign.
 
@@ -159,7 +159,7 @@ Mapping table
 
 </td><td>
 
-HR table that stores all the [[field-mappings-sf|field mappings]].
+HR table that stores all the field mappings.
 
 </td></tr><tr><td>
 
@@ -167,7 +167,7 @@ Mapping field
 
 </td><td>
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] field from which the value is rendered in the **Document** field.
+Reference field from which the value is rendered in the **Document** field.
 
 </td></tr><tr><td>
 
@@ -198,11 +198,3 @@ Option for enabling or disabling a field mapping.
 
 **Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrating-with-adobe-sign-service.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[document-templates-overview|Document Templates]]
-- [[hr-criteria|HR criteria]]
-- [[map-fields-navex|Map fields]]
-- [[field-mappings-sf|Field mappings]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

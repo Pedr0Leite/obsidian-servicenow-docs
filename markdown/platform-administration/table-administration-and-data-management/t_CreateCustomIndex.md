@@ -70,7 +70,7 @@ Steps
 
 4.  Select **Create Index**.
 
-    The **Table Name** field is there for your [[reference-email-admin|reference]] only. Overriding the default has no effect.
+    The **Table Name** field is there for your reference only. Overriding the default has no effect.
 
 5.  Select an index type.
 
@@ -85,6 +85,3 @@ Steps
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

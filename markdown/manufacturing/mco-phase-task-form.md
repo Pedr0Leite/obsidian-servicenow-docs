@@ -28,7 +28,7 @@ Number
 
 </td><td>
 
-[[mco-rcl-clms|Recall campaign]] phase task number. This field is automatically generated. The number starts with `TASK`.
+Recall campaign phase task number. This field is automatically generated. The number starts with `TASK`.
 
 </td></tr><tr><td>
 
@@ -98,15 +98,10 @@ Description
 Detailed description of the phase task.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[[mco-phase-task|Adding a phase task]]
+[Adding a phase task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-phase-task.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-phase-task|Adding a phase task]]
-- [[mco-rcl-clms|Recall campaign]]

@@ -40,7 +40,7 @@ Role required: admin
 
     3.  Create a PKCS\#12 keystore file \(a .p12 file\) by using the command `openssl pkcs12 -export -in publickey.cer -inkey private.key -out keystore.p12 -name "<cert_name>"`.
 
-        This keystore file bundles the signed certificate and private key together and [[cpq-sets|sets]] the alias for the key+cert entry in the keystore. The file is encrypted using a password \(also called the export password\). This password is required to import and export the certificate.
+        This keystore file bundles the signed certificate and private key together and sets the alias for the key+cert entry in the keystore. The file is encrypted using a password \(also called the export password\). This password is required to import and export the certificate.
 
     4.  Convert the .p12 \(PKCS\#12\) keystore file to .jks \(Java KeyStore\) format by using the command `keytool -importkeystore -srckeystore keystore.p12 -srcstoretype pkcs12 -destkeystore keystore.jks`.
 
@@ -70,7 +70,7 @@ Role required: admin
 
         **Note:** Step 3 must be repeated whenever CPQ integration is reinstalled.
 
-4.  Set up API authentication by creating the integration user roles included with the [[order-mgt-overview|Sales Customer Relationship Management]] applications:
+4.  Set up API authentication by creating the integration user roles included with the Sales Customer Relationship Management applications:
 
     1.  Create an integration user.
 
@@ -100,7 +100,7 @@ Role required: admin
 
     2.  Set the user created in Step 4a as the OAuth Application User in the Logik.ai API record.
 
-        If you can't [[Modify|modify]] this field, verify that you're in the correct scope \(CPQ Integration\).
+        If you can't modify this field, verify that you're in the correct scope \(CPQ Integration\).
 
     3.  Open this Logik.ai API record.
 
@@ -117,8 +117,3 @@ Role required: admin
         -   Set the **Value** to true.
         -   Select **Update**.
 
-## Related
-
-- [[cpq-sets|Sets]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[Modify|Modify]]

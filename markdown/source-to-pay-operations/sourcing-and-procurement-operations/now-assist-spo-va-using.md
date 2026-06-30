@@ -15,9 +15,9 @@ breadcrumb: [Use, Now Assist for SPO, Sourcing and Procurement Operations, Finan
 
 # Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat
 
-Request the contextual generative AI capabilities by using the conversational interface in the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] in a Virtual Agent chat.
+Request the contextual generative AI capabilities by using the conversational interface in the Now Assist for Sourcing and Procurement Operations \(SPO\) in a Virtual Agent chat.
 
-As a requester, you can use the predefined topics \(chatbot conversations\) that are designed to help you complete common self-service tasks, such as buying a product or knowing the status of a [[purchase-requisition|purchase requisition]], [[sourcing-request|sourcing request]], or procurement case.
+As a requester, you can use the predefined topics \(chatbot conversations\) that are designed to help you complete common self-service tasks, such as buying a product or knowing the status of a purchase requisition, sourcing request, or procurement case.
 
 As a requester, you can use the Now Assist for SPO skills in a Virtual Agent chat to search against the existing products in the product catalog or to display the available products. You can also inquire about the status of the procurement records, such as sourcing requests, purchase requisitions, procurement cases, and purchase orders.
 
@@ -39,7 +39,7 @@ You could also directly start entering the instructions. The utterance detection
 
 For details, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-now-assist-in-va.md).
 
-Virtual Agent engages you in a guided conversation, asking you relevant questions to help you submit your purchase, sourcing, and off-catalog requests, as well as procurement cases, without the need to reach out to fulfillers. You can then review and track these request records from [[shopping-hub-overview|Shopping Hub]], Employee Center, or Platform.
+Virtual Agent engages you in a guided conversation, asking you relevant questions to help you submit your purchase, sourcing, and off-catalog requests, as well as procurement cases, without the need to reach out to fulfillers. You can then review and track these request records from Shopping Hub, Employee Center, or Platform.
 
 If a product is found with or without a price in the catalog, the requester can then fill out the intake questions through a simple conversation and then submit the purchase request after reviewing the summary of responses. They can also edit a response before submitting. The following example shows a catalog conversation.
 
@@ -53,7 +53,7 @@ It also provides the requester with the option to submit a question to the procu
 
 **Note:** You can ask a question to the procurement team, and create a corresponding procurement case, only if you have the sn\_spend\_psd.requestor role. Verify that your administrator has assigned that role to you.
 
-To learn more about quick checkout and [[sourcing-checkout|sourcing checkout]] processes, see [Order a product with quick checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md) and [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md). For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md).
+To learn more about quick checkout and sourcing checkout processes, see [Order a product with quick checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md) and [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md). For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md).
 
 ## Using a predefined topic to track requests
 
@@ -142,10 +142,3 @@ For information on configuring Now Assist for SPO, see [Configure Now Assist for
 
 [Analyze sentiment in procurement cases]()
 
-## Related
-
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-checkout|Sourcing checkout]]

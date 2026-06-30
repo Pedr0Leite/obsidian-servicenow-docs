@@ -18,10 +18,10 @@ The Email Search and Delete capability has one flow that executes the email sear
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus. Additionally, if none of the **Email Search and Delete** capability implementations are active, the **Email Search** related link on a security incident is not displayed.
 
--   **[[secops-integ-email-search-delete|Security Operations Integration - Email Search and Delete flow]]**  
+-   **[Security Operations Integration - Email Search and Delete flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integ-email-search-delete.md)**  
 The Security Operations Integration - Email Search and Delete flow returns the number of threat emails from an email server search and, optionally, return details for each email found. After the email search is completed, you can delete the emails.
 
-**Parent Topic:**[[integration-capabilities|Integration capabilities]]
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
@@ -40,15 +40,9 @@ The Security Operations Integration - Email Search and Delete flow returns the n
 
 [Security Operations Integration- Publish to Watchlist capability]()
 
-[Security Operations Integration- [[indicator-sightings|Sightings]] Search capability]()
+[Security Operations Integration- Sightings Search capability]()
 
-[Security Operations Integration - [[tisc-threat-lookup|Threat Lookup]] capability]()
+[Security Operations Integration - Threat Lookup capability]()
 
 [Change the order of flow execution]()
 
-## Related
-
-- [[secops-integ-email-search-delete|Security Operations Integration - Email Search and Delete flow]]
-- [[integration-capabilities|Integration capabilities]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-threat-lookup|Threat Lookup]]

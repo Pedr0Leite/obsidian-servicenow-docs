@@ -32,7 +32,7 @@ Manual
 
 </td><td>
 
-Commits from the artifact versions of the package in the change. In addition, the commits from task executions of all the pipeline executions in the change [[reference-for-itsm-mobile-agent|reference]] record when the data\_type column is plan or pipeline execution are included.
+Commits from the artifact versions of the package in the change. In addition, the commits from task executions of all the pipeline executions in the change reference record when the data\_type column is plan or pipeline execution are included.
 
 </td></tr><tr><td>
 
@@ -608,6 +608,3 @@ Continuing with the use case:
 
 **Parent Topic:**[Artifacts and packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/using-dev-ops-release-change.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -14,20 +14,14 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Threat Note
 
-A Threat Note conveys informative text to provide additional analysis not contained in the STIX Objects, [[marking-definition|Marking Definition]] objects, or Language Content objects which the Note relates to. [[threat-intelligence-threat-notes|Threat notes]] applies for STIX 2.x.
+A Threat Note conveys informative text to provide additional analysis not contained in the STIX Objects, Marking Definition objects, or Language Content objects which the Note relates to. Threat notes applies for STIX 2.x.
 
-For example, an analyst may add a Note to a [[campaign|Campaign]] object created by another organization. The note may indicate that they've seen posts related to that Campaign on a hacker forum.
+For example, an analyst may add a Note to a Campaign object created by another organization. The note may indicate that they've seen posts related to that Campaign on a hacker forum.
 
 Notes are usually created by human analysts and are composed of human-oriented text, they contain an extra property to capture the author that created the Note.
 
 -   **[Define Threat Note](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-threat-note.md)**  
-[[define-threat-notes|Define threat notes]] that convey information to provide further context or analysis that is not available in existing objects.
+Define threat notes that convey information to provide further context or analysis that is not available in existing objects.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[marking-definition|Marking Definition]]
-- [[threat-intelligence-threat-notes|Threat notes]]
-- [[campaign|Campaign]]
-- [[define-threat-notes|Define threat notes]]

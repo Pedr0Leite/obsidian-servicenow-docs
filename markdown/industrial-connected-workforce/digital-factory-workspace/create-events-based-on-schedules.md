@@ -24,7 +24,7 @@ Role required: sn\_icw\_std.standard\_author
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]** &gt; **Select the Standards hub menu \(\[Omitted image "icw-standards-hub-icon.png"\] Alt text:\)**
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace** &gt; **Select the Standards hub menu \(\[Omitted image "icw-standards-hub-icon.png"\] Alt text:\)**
 
 2.  Open the standard for which you want to create a plan.
 
@@ -60,6 +60,3 @@ Create a scheduled plan for standard tasks based on shift configuration of a fun
 
 **Parent Topic:**[Scheduling standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/scheduling-standards.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

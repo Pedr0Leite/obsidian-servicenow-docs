@@ -12,7 +12,7 @@ breadcrumb: [Configuring guidances and decision trees, Guided Decisions configur
 
 # Add Guided Decisions to Recommended Actions
 
-Add decision trees created using the Guided Decisions Experience application to [[configure-nba|Recommended Actions]], so customer service agents can work through it to resolve cases more efficiently.
+Add decision trees created using the Guided Decisions Experience application to Recommended Actions, so customer service agents can work through it to resolve cases more efficiently.
 
 ## Before you begin
 
@@ -24,15 +24,15 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 
 1.  Navigate to **All** &gt; **Recommended Actions** &gt; **Contexts**.
 
-2.  [[ra-csm-contexts-create|Create a context for a table.]]
+2.  [Create a context for a table.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md)
 
     A context enables agents to see recommended actions for a record in that table.
 
-3.  [[ra-csm-rules-create|Create a rule for the context.]]
+3.  [Create a rule for the context.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules-create.md)
 
     A rule is a set of conditions that applies to a context and determines when a recommended action appears for records in the context table.
 
-4.  [[ra-csm-recommendations-create|Create a recommendation of type decision tree.]]
+4.  [Create a recommendation of type decision tree.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-recommendations-create.md)
 
     A recommendation is a way to suggest an action to an agent.
 
@@ -40,15 +40,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, admin
 **Related topics**  
 
 
-[[setting-up-guided-decisions|Configuring Guided Decisions]]
+[Configuring Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)
 
-[[configuring-guided-decisions|Configuring guidances and decision trees]]
+[Configuring guidances and decision trees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-guided-decisions.md)
 
-## Related
-
-- [[ra-csm-contexts-create|Create a context in Recommended Actions]]
-- [[ra-csm-rules-create|Create a rule in Recommended Actions]]
-- [[ra-csm-recommendations-create|Create a recommendation in Recommended Actions]]
-- [[setting-up-guided-decisions|Configuring Guided Decisions]]
-- [[configuring-guided-decisions|Configuring guidances and decision trees]]
-- [[configure-nba|Recommended Actions]]

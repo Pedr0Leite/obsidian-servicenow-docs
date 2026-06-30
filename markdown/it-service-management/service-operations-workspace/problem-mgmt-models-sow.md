@@ -14,9 +14,9 @@ breadcrumb: [Problem Management in Service Operations Workspace, Managing IT ser
 
 # Problem Management models in Service Operations Workspace
 
-You can use [[problem-mgmt-models|Problem Management models]] to tailor processes for specific use cases.
+You can use Problem Management models to tailor processes for specific use cases.
 
-You can create custom [[c_Models|models]] for problems and problem tasks to extend their default models without compromising on existing capabilities. To use these capabilities, enable the **com.snc.problem\_management.models.enabled** system property introduced in the Xanadu release. Enabling Problem Management models is optional.
+You can create custom models for problems and problem tasks to extend their default models without compromising on existing capabilities. To use these capabilities, enable the **com.snc.problem\_management.models.enabled** system property introduced in the Xanadu release. Enabling Problem Management models is optional.
 
 Problem Management models enable you to define:
 
@@ -24,7 +24,7 @@ Problem Management models enable you to define:
 -   State transitions
 -   State transition conditions
 
-The following default models are provided to replicate the non-model versions included as part of the base problem life cycle. The base problem life cycle is included with the [[c_ProblemManagement|Problem Management]]  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management [[migration-utility|Migration Utility]] [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
+The following default models are provided to replicate the non-model versions included as part of the base problem life cycle. The base problem life cycle is included with the Problem Management  Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin. Use the Problem Management Migration Utility [store application](https://store.servicenow.com/sn_appstore_store.do#!/store/application/d03b7539dbbb3300f21e7ffdbf9619a8) to enable this plugin and migrate your records to the base problem life cycle.
 
 |Model|Description|
 |-----|-----------|
@@ -45,7 +45,7 @@ To begin working with custom models, see the following topics:
 -   [Create a problem model in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-problem-model-sow.md)
 -   [Create a problem task model in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-problem-task-model-sow.md)
 
-**Note:** Any problems or problem tasks that were created before you [[enable-problem-mgmt-models|enable Problem Management models]] will continue to use the non-model life cycle.
+**Note:** Any problems or problem tasks that were created before you enable Problem Management models will continue to use the non-model life cycle.
 
 ## Disabling Problem Management models
 
@@ -74,10 +74,3 @@ If you are using Service Operations Workspace 5.x and you enable Problem Managem
 
 [Problem Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[problem-mgmt-models|Problem Management models]]
-- [[c_Models|Models]]
-- [[c_ProblemManagement|Problem Management]]
-- [[migration-utility|Migration Utility]]
-- [[enable-problem-mgmt-models|Enable Problem Management models]]

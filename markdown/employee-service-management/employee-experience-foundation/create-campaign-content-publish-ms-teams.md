@@ -93,7 +93,7 @@ Brief description of the notification.
 
 </td></tr><tr><td>
 
-[[employee-center-landing-page|Employee Center]] URL
+Employee Center URL
 
 </td><td>
 
@@ -129,6 +129,3 @@ Alternatively, you can build out a more robust publishing configuration using [C
 
 **Parent Topic:**[Create a Microsoft Teams campaign using direct content publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-campaign-content-publishing.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

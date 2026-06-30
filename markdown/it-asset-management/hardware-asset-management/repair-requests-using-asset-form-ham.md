@@ -22,11 +22,11 @@ Role required: asset
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset Estate**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset Estate**.
 
 2.  Select the **All assets** tab.
 
-3.  [[select-daas-asset|Select an asset]] with State as **In stock** and Substate as **Defective** or **Pending repair**.
+3.  Select an asset with State as **In stock** and Substate as **Defective** or **Pending repair**.
 
 4.  Select the More Options icon \[Omitted image "more-actions-icon.png"\] Alt text: on the asset form.
 
@@ -39,7 +39,3 @@ A repair order with a repair order line in the **Troubleshoot** stage is created
 
 **Parent Topic:**[Request repair of defective hardware assets in your stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/request-repair-defective-ham-assets.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[select-daas-asset|Select an asset]]

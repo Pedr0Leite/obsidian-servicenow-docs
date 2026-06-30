@@ -14,7 +14,7 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Map multiple application services from a CSV file using classic Service Mapping
 
-This method suits you if your organization has performed cross-organization mapping and analysis and collected some information about planned service instances. If so, you can organize the collected information in a specific order and save it as a CSV file. [[c_ServiceMappingOverview|Service Mapping]] extracts information from this file and creates potential service instances referred to as service candidates.
+This method suits you if your organization has performed cross-organization mapping and analysis and collected some information about planned service instances. If so, you can organize the collected information in a specific order and save it as a CSV file. Service Mapping extracts information from this file and creates potential service instances referred to as service candidates.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ If necessary, you can import service candidates from multiple CSV files.
 
 When reimporting service instance candidates, Service Mapping does not import candidates you chose to ignore earlier.
 
-After Service Mapping discovers configuration items \(CIs\) belonging to your service instance for the first time, it then rediscovers CIs to find changes and updates. Create or modify [[r-discovery|discovery]] schedules to control how often Service Mapping rediscovers services or CIs.
+After Service Mapping discovers configuration items \(CIs\) belonging to your service instance for the first time, it then rediscovers CIs to find changes and updates. Create or modify discovery schedules to control how often Service Mapping rediscovers services or CIs.
 
 ## Procedure
 
@@ -89,7 +89,3 @@ Organize information about potential application services \(candidates\) in your
 
 [Application service analysis and maintenance using classic Service Mapping]()
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

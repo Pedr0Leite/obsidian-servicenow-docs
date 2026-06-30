@@ -16,7 +16,7 @@ The All tasks card aggregates tasks from multiple configurable tables and displa
 
 Each tab corresponds to a task type and shows the records related to the current account, consumer, or contact. The tabs shown depend on the plugins are installed on the instance. By default, service problem cases, cases, customer orders, work orders, complaint cases, and invoice cases are displayed if the following plugins are installed:
 
--   [[cspm-landing-page|Customer Service Problem Management]] \(sn\_sprb\_mgmt\)
+-   Customer Service Problem Management \(sn\_sprb\_mgmt\)
 -   Customer Service \(com.sn\_customerservice\)
 -   Order Management \(sn\_ind\_tmt\_orm\)
 -   wm\_order, \(global\)
@@ -29,12 +29,7 @@ You can do the following:
 -   Add filters to the columns to customize the list of records displayed.
 -   Select a link to drill down to the related record page.
 
-You can configure variables such as tables, display fields, and query conditions. See [[c360-configure-tasks-card|Configure the all tasks card variables]] for details.
+You can configure variables such as tables, display fields, and query conditions. See [Configure the all tasks card variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-tasks-card.md) for details.
 
-**Parent Topic:**[[c360-home-page|Telecommunications Customer 360 home page]]
+**Parent Topic:**[Telecommunications Customer 360 home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-home-page.md)
 
-## Related
-
-- [[c360-configure-tasks-card|Configure the all tasks card variables]]
-- [[c360-home-page|Telecommunications Customer 360 home page]]
-- [[cspm-landing-page|Customer Service Problem Management]]

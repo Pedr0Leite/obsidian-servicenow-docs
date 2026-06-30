@@ -14,7 +14,7 @@ breadcrumb: [Use, Legal Conflict of Interest, Legal Service Delivery Practice Ap
 
 # Submit COI request form Employee Center
 
-Submit a request to obtain the legal clearance before you involve in any [[activity-lxp|activity]] that might pose a risk of potential conflict with the primary employer duties.
+Submit a request to obtain the legal clearance before you involve in any activity that might pose a risk of potential conflict with the primary employer duties.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
-    **Note:** If you're using Legal Service Portal, you can [[submit-legal-request|submit a legal request]] by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
+    **Note:** If you're using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
 
 2.  Navigate to **Help center** &gt; **Legal services**.
 
@@ -60,8 +60,3 @@ Role required: sn\_lg\_ops.legal\_user
 
 **Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-use-landing.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-legal-request|Submit a legal request]]

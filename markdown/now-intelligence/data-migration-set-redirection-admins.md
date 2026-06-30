@@ -12,7 +12,7 @@ breadcrumb: [Perform full data migration, Platform Analytics Migration Center, P
 
 # Set redirection for admins
 
-Migrated responsive dashboards automatically redirect to the [[par-workspace|Platform Analytics experience]] library. However, you can set a system property to specify redirection for admins.
+Migrated responsive dashboards automatically redirect to the Platform Analytics experience library. However, you can set a system property to specify redirection for admins.
 
 ## Before you begin
 
@@ -25,11 +25,8 @@ Role required: admin
 2.  Create the boolean property **com.glide.par.coreui.migration.admin\_redirection.enabled**.
 
     -   Set the value to true to redirect users with the admin or dashboard\_admin role from the responsive dashboard to the migrated dashboard.
-    -   Set the value to false to enable users with the admin or dashboard\_admin role to open [[dashboards-landing-page|responsive dashboards in the Core UI]] experience.
+    -   Set the value to false to enable users with the admin or dashboard\_admin role to open responsive dashboards in the Core UI experience.
 
         If Active Experience=Next for dashboards in the bridging tables, redirection is to the migrated version of the dashboard.
 
-## Related
 
-- [[par-workspace|Platform Analytics experience]]
-- [[dashboards-landing-page|Responsive dashboards in the Core UI]]

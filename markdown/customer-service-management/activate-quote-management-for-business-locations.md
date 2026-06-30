@@ -28,7 +28,7 @@ The following items are installed with Quote Management for Business Locationspe
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[personas-roles-and-tables-post-integration-qm|Roles and responsibilities]].
+For more information, see [Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration-qm.md).
 
 ## Procedure
 
@@ -48,9 +48,5 @@ For more information, see [[personas-roles-and-tables-post-integration-qm|Roles 
 **Related topics**  
 
 
-[[quote-management-for-business-location|Quote management for business organization]]
+[Quote management for business organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/quote-management-for-business-location.md)
 
-## Related
-
-- [[personas-roles-and-tables-post-integration-qm|Roles and responsibilities]]
-- [[quote-management-for-business-location|Quote management for business organization]]

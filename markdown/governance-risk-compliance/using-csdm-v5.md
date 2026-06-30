@@ -12,8 +12,5 @@ breadcrumb: [Manage, Operational Resilience, Governance, Risk, and Compliance]
 
 # Gathering data aligned with the CSDM setup
 
-Beginning with Release 20.1.x, the [[grc-opres-landing-page|Operational Resilience]] application supports the latest Common Service Data Model \(CSDM\). This section details the steps for setting up services, business services, service offerings, and business processes in Operational Resilience and gathering data aligned with the latest CSDM setup.
+Beginning with Release 20.1.x, the Operational Resilience application supports the latest Common Service Data Model \(CSDM\). This section details the steps for setting up services, business services, service offerings, and business processes in Operational Resilience and gathering data aligned with the latest CSDM setup.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

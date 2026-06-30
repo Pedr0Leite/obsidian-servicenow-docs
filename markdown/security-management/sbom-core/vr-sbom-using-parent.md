@@ -14,7 +14,7 @@ breadcrumb: [Software Bill of Materials, Unified Security Exposure Management, S
 
 # Uploading and viewing your SBOM files in the SBOM Workspace
 
-The SBOM applications enable you to upload files and view details for entities, component inventories, license information and other details in the [[sbom-landing|Software Bill of Materials]] Workspace.
+The SBOM applications enable you to upload files and view details for entities, component inventories, license information and other details in the Software Bill of Materials Workspace.
 
 ## Overview of uploading SBOM files
 
@@ -26,7 +26,7 @@ You can upload your software bill of material files via an API or manually. View
 
 -   [Upload Software Bill of Materials files manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-ingest.md).
 
-    [[vr-sbom-ingest|Upload software bill of materials files manually]]. The method you use to upload your files depends on whether you have the SBOM Core or SBOM Response applications installed.
+    Upload software bill of materials files manually. The method you use to upload your files depends on whether you have the SBOM Core or SBOM Response applications installed.
 
 -   [Uploading Software Bill of Materials for DevOps SBOM files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-uploading-devops.md).
 
@@ -42,7 +42,4 @@ You can upload your software bill of material files via an API or manually. View
 
     **Note:** You must install SBOM Response if you want to view the data visualizations on the landing \(Home\) page of the workspace.
 
-## Related
 
-- [[sbom-landing|Software Bill of Materials]]
-- [[vr-sbom-ingest|Upload Software Bill of Materials files manually]]

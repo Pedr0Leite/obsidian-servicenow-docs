@@ -14,7 +14,7 @@ breadcrumb: [Testing NLU/Keyword topics, Getting started with Virtual Agent Desi
 
 # Automated testing for Virtual Agent topics that use NLU topic discovery
 
-Automated testing for your [[virtual-agent-landing-page|Virtual Agent]] topic flows uses the ServiceNow Automated Test Framework product through [[assistant-designer|Assistant Designer]]. You can create and run automated tests through the Automated Test Framework to confirm that your topic flow works after making a change.
+Automated testing for your Virtual Agent topic flows uses the ServiceNow Automated Test Framework product through Assistant Designer. You can create and run automated tests through the Automated Test Framework to confirm that your topic flow works after making a change.
 
 Create topic test cases through a topic's **Test** &gt; **Create test case** preview and view the topic's test cases through the Asset library's **Manage NLU/keyword test cases** button. Only run automated tests on a development, test, or other non-production instance to avoid data corruption and outage. For more information, see the Automated Test Framework.
 
@@ -33,7 +33,3 @@ Avoid failures when performing automated tests for topics in Assistant Designer 
 
 **Parent Topic:**[Testing NLU/Keyword topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-designer-testing.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]

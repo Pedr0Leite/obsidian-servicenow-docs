@@ -12,33 +12,24 @@ breadcrumb: [Exploring Impact, Impact]
 
 # Impact operating model
 
-The Impact operating model is a research-backed system of key activities, personalized to your organization, to [[io-help|help]] drive faster time to value with the ServiceNow platform.
+The Impact operating model is a research-backed system of key activities, personalized to your organization, to help drive faster time to value with the ServiceNow platform.
 
-Delivered by your [[impact-squad|Impact Squad]], our unique operating model includes a fit-for-purpose set of Initiatives to start you on the fast track to value.
+Delivered by your Impact Squad, our unique operating model includes a fit-for-purpose set of Initiatives to start you on the fast track to value.
 
 -   Stay focused on your strategic vision with personalized outputs and recommendations.
--   Help prevent distractions with regular [[platform-health-idi|platform health]], operational, and [[instance-observer-performance|performance]] reviews.
+-   Help prevent distractions with regular platform health, operational, and performance reviews.
 -   Enjoy flexibility to add business outcomes, reprioritize objectives, and adapt to the needs of your organization​.
 
-    The [[impact-landing-page|Impact]] program is comprised of two phases, Foundations and Steady State. Foundations kicks off the experience and defines the value baseline, and the Steady State cadence keeps you on track with your Impact plan and associated business goals.
+    The Impact program is comprised of two phases, Foundations and Steady State. Foundations kicks off the experience and defines the value baseline, and the Steady State cadence keeps you on track with your Impact plan and associated business goals.
 
-    -   **[[foundations|Impact Foundations]]**
+    -   **[Impact Foundations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/foundations.md)**
 
         Connects vision to action by baselining your current state and giving you a tailored plan to quicken your time to value. Foundations lays the groundwork for every action you take on the platform.
 
-    -   **[[impact-steady-state|Impact Steady State]]**
+    -   **[Impact Steady State](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-steady-state.md)**
 
         Impact's standard initiatives are executed in consistent, timely intervals to keep you on pace.
 
-    ServiceNow [[impact-packages1|Impact packages]] comprise support tools, self-help resources, human-led engagements, and credits, discounts, and additional benefits made available to you depending on the level of Impact package procured. For information about Guided, Advanced, and Total packages, see .
+    ServiceNow Impact packages comprise support tools, self-help resources, human-led engagements, and credits, discounts, and additional benefits made available to you depending on the level of Impact package procured. For information about Guided, Advanced, and Total packages, see .
 
-## Related
 
-- [[foundations|Impact Foundations]]
-- [[impact-steady-state|Impact Steady State]]
-- [[io-help|Help]]
-- [[impact-squad|Impact Squad]]
-- [[platform-health-idi|Platform Health]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[impact-packages1|Impact Packages]]

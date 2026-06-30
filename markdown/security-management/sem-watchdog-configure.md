@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -48,6 +48,4 @@ Role required: sn\_sec\_cmn.admin
 
 6.  Select **Update**.
 
-## Related
 
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

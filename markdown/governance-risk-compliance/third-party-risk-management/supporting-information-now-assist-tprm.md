@@ -15,7 +15,7 @@ breadcrumb: [Exploring, Now Assist, Third-party Risk Management, Governance, Ris
 
 # Supporting information for Now Assist for Third-party Risk Management \(TPRM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Third-party Risk Management \(TPRM\) application.
 
 ## Supported versions
 
@@ -27,13 +27,9 @@ You can use Now LLM Service, Azure OpenAI, Google Gemini, Anthropic Claude on AW
 
 ## Supported user interfaces
 
-The Now Assist for TPRM application skills TPRM Issue Summarization and TPRM Issue Recommendation can be accessed in the Vendor Management Workspace and Core UI. Issue recommendations are available only for [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] questionnaires.
+The Now Assist for TPRM application skills TPRM Issue Summarization and TPRM Issue Recommendation can be accessed in the Vendor Management Workspace and Core UI. Issue recommendations are available only for Smart Assessment Engine questionnaires.
 
 ## Application information
 
 Activate the Now Assist for TPRM \(sn\_tprm\_gen\_ai\) store app.
 
-## Related
-
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

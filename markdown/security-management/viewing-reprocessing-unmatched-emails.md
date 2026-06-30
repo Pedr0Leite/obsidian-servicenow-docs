@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Unmatched Emails**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Unmatched Emails**.
 
     If any unmatched emails have been found, they are listed.
 
@@ -36,7 +36,7 @@ Role required: sn\_sec\_cmn.read
 
 3.  To reprocess this email, create an email record or edit an existing email record to match the information in this email.
 
-    See [[parsing-emails|Create email parsers in Security Operations]].
+    See [Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md).
 
 4.  Navigate back to **Security Operations** &gt; **Unmatched Emails**.
 
@@ -45,10 +45,5 @@ Role required: sn\_sec\_cmn.read
     It returns you to the Unmatched Emails main list. If the new email record matches, the email event is no longer in the list. A message indicates if it was matched or not.
 
 
-**Parent Topic:**[[umatched-emails|Unmatched Security Operations email events]]
+**Parent Topic:**[Unmatched Security Operations email events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/umatched-emails.md)
 
-## Related
-
-- [[parsing-emails|Create email parsers in Security Operations]]
-- [[umatched-emails|Unmatched Security Operations email events]]
-- [[security-operations-landing-page|Security Operations]]

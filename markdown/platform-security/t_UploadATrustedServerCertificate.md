@@ -31,8 +31,5 @@ The instance validates outbound Web Service calls by using the certificate provi
     -   Attach the service provider's DER formatted certificate.
     -   Copy and paste the service provider's PEM format certificate into the **PEM Certificate** field.
 
-**Parent Topic:**[[t_UploadACertificateToAnInstance|Uploading a certificate to an instance]]
+**Parent Topic:**[Uploading a certificate to an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_UploadACertificateToAnInstance.md)
 
-## Related
-
-- [[t_UploadACertificateToAnInstance|Uploading a certificate to an instance]]

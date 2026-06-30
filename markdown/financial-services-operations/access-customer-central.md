@@ -24,7 +24,7 @@ Use Customer Central to get a quick insight into key customer information. You c
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -32,6 +32,4 @@ Use Customer Central to get a quick insight into key customer information. You c
 
 4.  On the Interaction, Contact, Account, or Consumer record, select the **Customer Information** tab to view key customer information.
 
-## Related
 
-- [[fso-overview|Financial Services]]

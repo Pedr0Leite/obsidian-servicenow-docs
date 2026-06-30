@@ -14,7 +14,7 @@ breadcrumb: [Configure Legal Counsel Center Workspace, Legal Counsel Center, Leg
 
 # Configure AI Search for Legal Counsel Center
 
-Configure your AI Search implementation for [[legal-counsel-center-landing|Legal Counsel Center]] Workspace.
+Configure your AI Search implementation for Legal Counsel Center Workspace.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ The AI Search for Legal Counsel Center is configured and is available for consum
 
 **Parent Topic:**[Configure Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/configure-legal-counsel-center-workspace.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

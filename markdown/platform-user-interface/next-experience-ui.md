@@ -17,17 +17,17 @@ Learn about the key Next Experience features.
 
 ## Next Experience user interface
 
-Next Experience unifies the apps in your instance. Unified Navigation enables you to access content across your instance in a single pane, simplifying access to the items you need to get working. Access the [[c_UI16|Core UI]] and dashboards in the same pane as your Workspace. Contextual navigation shows you where you are while you're working.
+Next Experience unifies the apps in your instance. Unified Navigation enables you to access content across your instance in a single pane, simplifying access to the items you need to get working. Access the Core UI and dashboards in the same pane as your Workspace. Contextual navigation shows you where you are while you're working.
 
 ## Next Experience landing page
 
-[[next-experience-landing-pages|Next Experience landing pages]] provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include [[lists-configurable-workspace|lists]], Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
+Next Experience landing pages provide the information you need to start working. These landing pages typically present content specific to your role and tasks. Landing pages can include lists, Performance Analytics and Reporting \(PAR\) information, and other features to access your new and prioritized tasks from one location.
 
-\[Omitted image "landing-page-v4-1-updated.svg"\] Alt text: [[next-experience-landing-page|Next Experience UI]] landing page.
+\[Omitted image "landing-page-v4-1-updated.svg"\] Alt text: Next Experience UI landing page.
 
 -   **Onboarding**: Get acquainted with the Unified Navigation UI.
 -   **Visualizations**: See where you can start working and go to tasks.
--   **Useful features**: [[exploring|Explore]] additional feature resources.
+-   **Useful features**: Explore additional feature resources.
 
 ## Next Experience Unified Navigation
 
@@ -40,13 +40,5 @@ The Next Experience Unified Navigation provides the tools you need to navigate y
 -   **Global Search**: Search across your instance to return the results that are most relevant to you.
 -   **Notifications**: View and personalize notifications applicable to you based on access and admin configurations.
 -   **Help**: Access on-demand help when you need it.
--   **User menu**: Personalize your instance and set your [[c_UserPreferences|user preferences]].
+-   **User menu**: Personalize your instance and set your user preferences.
 
-## Related
-
-- [[c_UI16|Core UI]]
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[lists-configurable-workspace|Lists]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[exploring|Explore]]
-- [[c_UserPreferences|User preferences]]

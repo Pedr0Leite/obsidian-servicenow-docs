@@ -34,8 +34,5 @@ Requests can be automatically created from the information in forwarded inbound 
 3.  You can use the email action as it is or modify it to meet the needs of your organization.
 
 
-**Parent Topic:**[[r_ReqCreateUseInboundEmailAct|Request creation using inbound email actions]]
+**Parent Topic:**[Request creation using inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_ReqCreateUseInboundEmailAct.md)
 
-## Related
-
-- [[r_ReqCreateUseInboundEmailAct|Request creation using inbound email actions]]

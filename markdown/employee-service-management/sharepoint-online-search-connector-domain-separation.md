@@ -12,7 +12,7 @@ breadcrumb: [SharePoint Online Search Connector, Employee Service Management]
 
 # Domain separation and SharePoint Online Search Connector
 
-Domain separation is unsupported for the [[sharepoint-search-overview|SharePoint Online Search Connector]].
+Domain separation is unsupported for the SharePoint Online Search Connector.
 
 ## Support level: No support
 
@@ -23,15 +23,10 @@ For more information on support levels, see [Application support for domain sepa
 
 ## SharePoint Online Search Connector overview
 
-SharePoint Online Search Connector enables your employees to search for and [[discover-lxp|discover]] content from the ServiceNow® platform. Indexing content from multiple sites enables you to find the right answers through the Employee Service Center, [[mobile-employee-experience|Now Mobile app]], and Virtual Agent.
+SharePoint Online Search Connector enables your employees to search for and discover content from the ServiceNow® platform. Indexing content from multiple sites enables you to find the right answers through the Employee Service Center, Now Mobile app, and Virtual Agent.
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[discover-lxp|Discover]]
-- [[mobile-employee-experience|Now Mobile app]]

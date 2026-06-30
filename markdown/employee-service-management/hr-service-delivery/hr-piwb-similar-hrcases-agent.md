@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench implementation, HR Predictive 
 
 # HR PIWB template: Predict knowledge for HR case resolution
 
-Use the classic setup template to configure and train your Similarity solution template with machine [[exploring-learning-exp|learning]] model to recommend knowledge articles to assist an HR agent for faster case resolution.
+Use the classic setup template to configure and train your Similarity solution template with machine learning model to recommend knowledge articles to assist an HR agent for faster case resolution.
 
 ## Before you begin
 
@@ -46,11 +46,11 @@ Role required: sn\_piwb\_hr\_content.admin
 
 ## Result
 
-When the configuration is complete, agents can [[discover-lxp|discover]] similar information across knowledge articles based on the short description of the HR case and the text in Related Search Results. Display of such similar knowledge articles can help an HR agent to quickly resolve the cases.
+When the configuration is complete, agents can discover similar information across knowledge articles based on the short description of the HR case and the text in Related Search Results. Display of such similar knowledge articles can help an HR agent to quickly resolve the cases.
 
 ## What to do next
 
-You can verify the integration status from **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
+You can verify the integration status from **HR Administration** &gt; **HR AI Configurations** &gt; **Solution definition**. The use case is now mapped to the selected solution definition.
 
 **Parent Topic:**[HR Predictive Intelligence Workbench implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-implementation-guidance.md)
 
@@ -61,8 +61,3 @@ You can verify the integration status from **[[c_AdministerHRServiceManagement|H
 
 [Get started with Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-predictive-intelligence.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[discover-lxp|Discover]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

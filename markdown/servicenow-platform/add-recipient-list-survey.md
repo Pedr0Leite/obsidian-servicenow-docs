@@ -18,11 +18,11 @@ Send the survey invites to targeted sets of users by adding a recipients list to
 
 Role required: admin or survey\_admin
 
-Recipients lists should be pre-defined in the Recipients Lists submodule. For more information on defining recipients lists, see [[define-recipient-list|Define a recipients list for surveys]].
+Recipients lists should be pre-defined in the Recipients Lists submodule. For more information on defining recipients lists, see [Define a recipients list for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/define-recipient-list.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
@@ -49,7 +49,7 @@ Description
 
 </td></tr><tr><td id="d477319e123">
 
-**From [[c_SurveyDesigner|Survey Designer]]**
+**From Survey Designer**
 
 </td><td>
 
@@ -66,7 +66,7 @@ Description
     -   The **Send Invitations** UI action is available when there is at least one recipients list or survey user for the survey.
     -   If a user is available in the **Survey Users** related list and multiple recipients lists, the survey invite is sent only once to the user.
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -77,7 +77,7 @@ Description
 
 [Define a recipients list for surveys]()
 
-[Embed a survey within the Outlook [[email|email]] client]()
+[Embed a survey within the Outlook email client]()
 
 [Enable localization for a survey]()
 
@@ -87,13 +87,5 @@ Description
 
 [Sharing surveys]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[define-recipient-list|Define a recipients list for surveys]]
-- [[c_SurveyDistribution|Survey distribution]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[email|Email]]
-- [[c_Collaboration|Connect Chat]]

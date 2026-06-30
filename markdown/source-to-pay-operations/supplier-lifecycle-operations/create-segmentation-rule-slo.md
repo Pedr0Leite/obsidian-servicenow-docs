@@ -22,7 +22,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Do one of the following:
 
@@ -116,9 +116,9 @@ Option that enables you to build a filter by adding conditions with fields, oper
 A new segmentation rule is created.
 
 -   **[Add KPI templates to a segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-kpi-template-segmentation-rule.md)**  
-You can add new [[kpi-templates|KPI templates]] to a segmentation rule if the existing templates used for suppliers don’t meet your needs.
+You can add new KPI templates to a segmentation rule if the existing templates used for suppliers don’t meet your needs.
 -   **[Add suppliers to a segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-segmentation-rule.md)**  
-You can add a new [[supplier|supplier]] to a segmentation rule if the existing suppliers don’t meet your needs.
+You can add a new supplier to a segmentation rule if the existing suppliers don’t meet your needs.
 
 **Parent Topic:**[Configure Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configuring-supplier-performance-mgmt.md)
 
@@ -129,9 +129,3 @@ You can add a new [[supplier|supplier]] to a segmentation rule if the existing s
 
 [Add suppliers to a segmentation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-segmentation-rule.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[kpi-templates|KPI templates]]
-- [[supplier|Supplier]]

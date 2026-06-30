@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Visitor Management, Workplace Service Delivery, E
 
 # Use the receptionist portal
 
-Use the receptionist portal to manage visitor [[activity-lxp|activity]] in your workplace.
+Use the receptionist portal to manage visitor activity in your workplace.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_wsd\_visitor.staff
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-service** &gt; **Employee Center**.
 
-2.  On the Employee Center portal, select **Help Center** &gt; **[[workplace-services|Workplace Services]]**.
+2.  On the Employee Center portal, select **Help Center** &gt; **Workplace Services**.
 
 3.  From the Workplace Services, select **Manage receptionist desk**.
 
-    The [[receptionist-portal|receptionist portal]] page opens with a dashboard of visits for the current day.
+    The receptionist portal page opens with a dashboard of visits for the current day.
 
 4.  Change the location of the portal from the location list under the `Visitors` header label.
 
@@ -85,7 +85,7 @@ Use the `Command` or `Ctrl` key to select multiple visitors.You can perform acti
 
 </td></tr><tr><td id="d563378e213">
 
-**[[complete-pre-check|Complete pre-check tasks]]**
+**Complete pre-check tasks**
 
 </td><td>
 
@@ -175,14 +175,14 @@ Alternatively, you can drag the visitor card into the checked out visitors colum
 </td><td>
 
 1.  Select **Create new visit**.
-2.  On the [[new-visit-form|New visit form]], fill in the fields.
+2.  On the New visit form, fill in the fields.
 
 For a description of the field values, see [New visit form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/new-visit-form.md).
 
 3.  Select **Create Visit**.
 4.  Add internal or external visitors.
 
-For more information about [[adding-visitors|adding visitors]], see [Adding visitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/adding-visitors.md).
+For more information about adding visitors, see [Adding visitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/adding-visitors.md).
 
 5.  Select **Confirm**.
 
@@ -206,12 +206,3 @@ For more information about [[adding-visitors|adding visitors]], see [Adding visi
 
 [Apply visitor management archive policy]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[receptionist-portal|Receptionist portal]]
-- [[complete-pre-check|Complete pre-check tasks]]
-- [[new-visit-form|New visit form]]
-- [[adding-visitors|Adding visitors]]

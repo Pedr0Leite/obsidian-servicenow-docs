@@ -14,16 +14,10 @@ breadcrumb: [Commercial Lines Servicing, Property and Casualty Insurance Servici
 
 Learn about the components, such as the roles, tables, plugins, and store applications, that are installed when you install the Commercial Lines Servicing application.
 
--   **[[components-installed-with-insurance-policy-operations-business-lines-servicing|Components installed with Commercial Lines Servicing]]**  
-Several types of components are installed with the installation of the [[fso-overview|Financial Services]] Commercial Lines Servicing store application, including tables and user roles. The applications also install related plugins and store applications if they are not already installed.
--   **[[components-installed-with-insurance-commercial-underwriting-operations|Components installed with Commercial Lines Underwriting]]**  
+-   **[Components installed with Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-insurance-policy-operations-business-lines-servicing.md)**  
+Several types of components are installed with the installation of the Financial Services Commercial Lines Servicing store application, including tables and user roles. The applications also install related plugins and store applications if they are not already installed.
+-   **[Components installed with Commercial Lines Underwriting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-insurance-commercial-underwriting-operations.md)**  
 Several types of components are installed with installation of the Commercial Lines Underwriting application \(sn\_ins\_uw\_b2b\), including tables and user roles.
 
-**Parent Topic:**[[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
+**Parent Topic:**[Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-ins-commercial-policy-ops-landing-page.md)
 
-## Related
-
-- [[components-installed-with-insurance-policy-operations-business-lines-servicing|Components installed with Commercial Lines Servicing]]
-- [[components-installed-with-insurance-commercial-underwriting-operations|Components installed with Commercial Lines Underwriting]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[fso-overview|Financial Services]]

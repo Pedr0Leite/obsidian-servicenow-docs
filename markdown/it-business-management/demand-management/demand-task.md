@@ -16,21 +16,21 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 A demand task is a unit of work, created within a demand, to break down initial planning activities before converting the demand into a project, change, enhancement, or defect.
 
-You can [create a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-task.md) from the **Demand Tasks** related list to delegate activities that are helpful for assessing demand feasibility. Demand tasks differ from [[t_CreateAProjectTask|project tasks]] in the following aspects:
+You can [create a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-demand-task.md) from the **Demand Tasks** related list to delegate activities that are helpful for assessing demand feasibility. Demand tasks differ from project tasks in the following aspects:
 
 -   Planned dates, actual dates, and original dates are part of project tasks not demand tasks.
--   The due date indicates the date on which the task is targeted for completion and doesn’t affect the [[demand-workflow-ppw|demand workflow]]. Project tasks, however, affect the project completion dates if the planned dates and actual dates are changed.
+-   The due date indicates the date on which the task is targeted for completion and doesn’t affect the demand workflow. Project tasks, however, affect the project completion dates if the planned dates and actual dates are changed.
 -   Don’t support the creation of nested demand tasks.
 -   Don’t support task constraints such as the settings Start ASAP and Start on a specific date.
 -   Don’t support an execution type such as Agile, Waterfall, or Hybrid.
 
 ## Resource assignment
 
-Assign resources for a demand task using the **Assigned to**, **Additional Assignee list**, and **Assignment Group** fields. Don’t create and [[use-resource-assignment|use resource assignments]] to allocate resources or groups to a demand task or submit the time spent on the demand. If you associate a resource assignment with a demand task, the associated resource plan isn’t transferred to the work entity created from that demand.
+Assign resources for a demand task using the **Assigned to**, **Additional Assignee list**, and **Assignment Group** fields. Don’t create and use resource assignments to allocate resources or groups to a demand task or submit the time spent on the demand. If you associate a resource assignment with a demand task, the associated resource plan isn’t transferred to the work entity created from that demand.
 
 The resource assignments aren’t associated with the demand by default. Make sure that you don’t use the resource assignments that you created for the future work entity created from the demand to submit the time spent on a demand.
 
-When you [[submit-time-card|submit a time card]] for a demand, the time and cost incurred aren’t transferred to the work entity created from the demand. The time and cost remain within the demand as the demand cost and effort.
+When you submit a time card for a demand, the time and cost incurred aren’t transferred to the work entity created from the demand. The time and cost remain within the demand as the demand cost and effort.
 
 Resources assigned to a demand task can submit the time spent on it using a time card. For more information, see [Submit a time card for a demand task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/submit-time-for-demand.md).
 
@@ -40,7 +40,7 @@ The actual effort of the work performed on the demand task is derived from the t
 
 ## Add work items to a Demand
 
-Based on the selected demand task category and role assigned to you, you can use the [[demand-task-form|demand task form]] to:
+Based on the selected demand task category and role assigned to you, you can use the demand task form to:
 
 -   [Add a cost plan to a Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md)
 -   [Add a resource assignment to a Demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/create-manage-resource-plans-demand.md)
@@ -49,10 +49,3 @@ Based on the selected demand task category and role assigned to you, you can use
 
 **Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[demand-workflow-ppw|Demand workflow]]
-- [[use-resource-assignment|Use resource assignments]]
-- [[submit-time-card|Submit a time card]]
-- [[demand-task-form|Demand task form]]

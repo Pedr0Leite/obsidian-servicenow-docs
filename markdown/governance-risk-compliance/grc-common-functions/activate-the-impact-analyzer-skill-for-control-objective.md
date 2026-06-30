@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist, Common GRC features, Governance, Risk, and C
 
 # Activate the Control Objective Impact Analyzer skill
 
-Enable the [[control-objective-impact-analyzer-skill|Control Objective Impact Analyzer skill]] from Now Assist Skills page. When this skill is activated, the system uses Generative AI to identify control objectives that should be updated based on the modified citation details.
+Enable the Control Objective Impact Analyzer skill from Now Assist Skills page. When this skill is activated, the system uses Generative AI to identify control objectives that should be updated based on the modified citation details.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ To recommend impacted control objectives, predefined similarity parameters are u
 
     A skill activation success message appears. After the skill is activated, the **Analyze change** button becomes available on the citation page for users with the appropriate access.
 
-## Related
 
-- [[control-objective-impact-analyzer-skill|Control Objective Impact Analyzer skill]]

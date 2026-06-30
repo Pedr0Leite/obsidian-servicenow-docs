@@ -14,7 +14,7 @@ breadcrumb: [Request ITSM Roles — Incident Management, Incident Management plu
 
 # Components installed with ITSM Roles — Incident Management
 
-Several user roles are installed with activation of the ITSM Roles — [[c_IncidentManagement|Incident Management]] plugin \(com.snc.itsm.roles.incident\_management\).
+Several user roles are installed with activation of the ITSM Roles — Incident Management plugin \(com.snc.itsm.roles.incident\_management\).
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -38,7 +38,7 @@ Incident read\[sn\_incident\_read\]
 
 </td><td>
 
-Read access to the Incident Management application and related records.**Note:** An ESS user \(user with no role\) can view only those incidents that they create or someone else creates on their behalf. A user with the sn\_incident\_read role can view all incidents as well as the [[major-incident-workbench|major incident workbench]].
+Read access to the Incident Management application and related records.**Note:** An ESS user \(user with no role\) can view only those incidents that they create or someone else creates on their behalf. A user with the sn\_incident\_read role can view all incidents as well as the major incident workbench.
 
 </td><td>
 
@@ -103,7 +103,7 @@ Incident Admin\[sn\_incident\_admin\]
 
 </td><td>
 
-Configures all Incident Management features including [[incident-management-properties|incident management properties]].
+Configures all Incident Management features including incident management properties.
 
 </td><td>
 
@@ -114,8 +114,3 @@ Configures all Incident Management features including [[incident-management-prop
 </td></tr></tbody>
 </table>**Parent Topic:**[Request ITSM Roles — Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/req-itsm-roles-inci-mgmt.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[major-incident-workbench|Major incident workbench]]
-- [[incident-management-properties|Incident Management properties]]

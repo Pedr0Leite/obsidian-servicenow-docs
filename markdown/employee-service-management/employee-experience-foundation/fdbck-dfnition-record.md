@@ -67,7 +67,7 @@ Widget mode
 
 </td><td>
 
-**Modal:** Feedback widget visible unless there’s an overlay setting in place to stop the reload.**Note:** **Overlay session limit** can be configured from the [[ex-feedback-new-record|feedback configuration form]].
+**Modal:** Feedback widget visible unless there’s an overlay setting in place to stop the reload.**Note:** **Overlay session limit** can be configured from the feedback configuration form.
 
 </td></tr><tr><td>
 
@@ -303,7 +303,7 @@ Option to create a feedback task post-feedback submission.
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -339,7 +339,3 @@ Option to create a feedback task post-feedback submission.
 
 [To-do content form]()
 
-## Related
-
-- [[ex-feedback-new-record|Feedback configuration form]]
-- [[employee-center-landing-page|Employee Center]]

@@ -74,7 +74,7 @@ ServiceNow AI Lens leverages generative AI to scan, extract, and interpret data 
 
 When you start a new Virtual Agent chat, select **Show all my options** to view the option to open ServiceNow AI Lens. Now Assist then gives you the option to choose an existing image or open your camera app to take a new photo. Once an image is selected, Now Assist allows you to input additional directions for how the image should be analyzed.
 
-For more information, see [[servicenow-lens-mobile|ServiceNow AI Lens for mobile]].
+For more information, see [ServiceNow AI Lens for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/servicenow-lens-mobile.md).
 
 ## Web search mode
 
@@ -82,7 +82,7 @@ For more information, see [[servicenow-lens-mobile|ServiceNow AI Lens for mobile
 
 Web search mode in Now Assist enables you to search the internet directly from within your chat, displaying external results rather than internal company information. Select the Start web search mode icon \(\[Omitted image "na-web-search-icon.png"\] Alt text:\) to enter web search mode.
 
-While active, all user queries are answered using internet search results, and a banner shows that web search mode is enabled. The identifying banner disappears once web search mode is ended. For additional information, see [[using-na-web-search-mobile|Using Now Assist web search on mobile]].
+While active, all user queries are answered using internet search results, and a banner shows that web search mode is enabled. The identifying banner disappears once web search mode is ended. For additional information, see [Using Now Assist web search on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-na-web-search-mobile.md).
 
 ## Feedback and additional support
 
@@ -92,7 +92,7 @@ If you find that your issue can’t be resolved through the Virtual Agent alone,
 
 ## Push notifications
 
-\[Omitted image "na-va-push-notification.png"\] Alt text: Virtual Agent [[sg-mobile-security-push-notif|push notifications]] on a phone locked screen
+\[Omitted image "na-va-push-notification.png"\] Alt text: Virtual Agent push notifications on a phone locked screen
 
 When progress has been made on a request submitted via Virtual Agent, you’ll receive a push notification. Tapping the notification opens the Virtual Agent chat in your mobile app.
 
@@ -108,11 +108,5 @@ For more detailed information on all of standard chat’s specific skills, see [
 
 For information on configuring Virtual Agent, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-now-assist-va.md).
 
-**Parent Topic:**[[using-now-assist-mobile|Using Now Assist for Mobile]]
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 
-## Related
-
-- [[servicenow-lens-mobile|ServiceNow AI Lens for mobile]]
-- [[using-na-web-search-mobile|Using Now Assist web search on mobile]]
-- [[using-now-assist-mobile|Using Now Assist for Mobile]]
-- [[sg-mobile-security-push-notif|Push notifications]]

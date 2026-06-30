@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Relationship and Performance Management, Use, Suppli
 
 # Run segmentation rule
 
-Run a segmentation rule to create and activate KPIs corresponding to the [[kpi-templates|KPI templates]] and suppliers in that segment. This action also creates new collection tasks and assigns them to suppliers to collect their KPI data.
+Run a segmentation rule to create and activate KPIs corresponding to the KPI templates and suppliers in that segment. This action also creates new collection tasks and assigns them to suppliers to collect their KPI data.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and navigate to **Lists** &gt; **Performance management** &gt; **Segmentation rules**.
 
@@ -61,8 +61,3 @@ Running the segmentation rule does the following:
 
 [Create action plan for KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-action-plan-for-kpis.md)
 
-## Related
-
-- [[kpi-templates|KPI templates]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

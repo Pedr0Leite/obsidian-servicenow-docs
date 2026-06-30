@@ -22,7 +22,7 @@ Role required: Scan Engine admin \(sn\_se.scan\_engine\_admin\)
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **[[user-story-integration-properties|User Story Integration]]** properties tab.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
 
 2.  Set **Integration Type** to `Other`.
 
@@ -42,7 +42,7 @@ Role required: Scan Engine admin \(sn\_se.scan\_engine\_admin\)
 5.  Enter the **Username** and **API token** for authentication.
 
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
 ## Other integration leading practices
 
@@ -76,8 +76,4 @@ The payload script runs on the ServiceNow instance when a work item is created. 
 
     To use modern JavaScript syntax, enable **ECMAScript 2021 \(ES12\) mode** in Scan Engine Properties before writing your payload script.
 
-## Related
 
-- [[instance-integration-scan-engine|Scan Engine integrations]]
-- [[impact-landing-page|Impact]]
-- [[user-story-integration-properties|User story integration]]

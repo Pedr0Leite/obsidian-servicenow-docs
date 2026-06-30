@@ -14,18 +14,14 @@ breadcrumb: [Using knowledge blocks, Using Knowledge Management, Knowledge Manag
 
 # Integrating a custom search or knowledge article viewer with knowledge blocks
 
-If you are using a custom search or knowledge article viewer with your application, you can integrate that custom search or viewer with the appropriate knowledge or [[knowledge-blocks|knowledge blocks]] API.
+If you are using a custom search or knowledge article viewer with your application, you can integrate that custom search or viewer with the appropriate knowledge or knowledge blocks API.
 
 **Note:** Integration is only necessary if you are using a custom search or knowledge article viewer.
 
 -   **[KBPortalServiceImpl - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/KBPortalServiceImplAPI.md)**  
-The `KBPortalServiceImpl` API is included with [[knowledge-management|Knowledge Management]] V3 \[com.snc.knowledge3\] as a script include. It provides methods to use with knowledge, such as integration with a custom search.
+The `KBPortalServiceImpl` API is included with Knowledge Management V3 \[com.snc.knowledge3\] as a script include. It provides methods to use with knowledge, such as integration with a custom search.
 -   **[KBBlock - Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/KBBlockAPI.md)**  
 The `KBBlock` API is included with knowledge blocks \[com.snc.knowledge\_blocks\] as a script include. It provides methods to use with the knowledge blocks feature, such as integration with a custom knowledge article viewer.
 
 **Parent Topic:**[Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowlege-blocks.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[knowledge-management|Knowledge Management]]

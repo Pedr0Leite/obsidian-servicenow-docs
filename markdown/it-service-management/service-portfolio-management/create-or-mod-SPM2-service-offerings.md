@@ -34,7 +34,7 @@ You can also auto-create service offerings when creating a service portfolio. Fo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service Offerings** and select **New**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service Offerings** and select **New**.
 
     Alternatively, to edit an existing service offering, select the name of the service offering to open the form. Change any of the form field data as needed. To delete an existing service, select the **Delete** button in the form header.
 
@@ -362,7 +362,7 @@ Longer description of a unit of this offering.
     -   Subscribed by Department
     -   Subscribed by User
     -   Subscribed by Company
-    -   [[perf-metrics-mob|Performance Metrics]]
+    -   Performance Metrics
     -   Improvement Initiatives
 12. Select **Submit** to save your service offering or select **Update** after editing a service offering.
 
@@ -376,7 +376,3 @@ Longer description of a unit of this offering.
 
 [Assign multiple teams to support a service offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/spm2-assign-teams.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[perf-metrics-mob|Performance metrics]]

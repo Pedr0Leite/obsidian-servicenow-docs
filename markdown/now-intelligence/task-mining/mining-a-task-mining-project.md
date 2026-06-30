@@ -18,7 +18,7 @@ Generate an analysis of your project data according to your categorization rules
 
 The process to generate a project data analysis is as follows:
 
-1.  [[mine-project-data|Run a mining job]] on a [[task-mining|Task Mining]] project to generate an analysis of your project data according to your categorization rules so you can make data-driven decisions.
+1.  Run a mining job on a Task Mining project to generate an analysis of your project data according to your categorization rules so you can make data-driven decisions.
 
     For more information, see [Run a mining job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mine-project-data.md).
 
@@ -36,7 +36,3 @@ The process to generate a project data analysis is as follows:
 
 [Task Mining analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/task-mining-dashboard.md)
 
-## Related
-
-- [[mine-project-data|Run a mining job]]
-- [[task-mining|Task Mining]]

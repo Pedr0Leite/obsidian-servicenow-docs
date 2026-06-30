@@ -153,8 +153,5 @@ Select a matching rule for the work configuration.
     5.  Select **Update**.
 
 
-**Parent Topic:**[[setting-up-work-scheduler-wfo-cs|Setting up Work scheduler in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Work scheduler in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-work-scheduler-wfo-cs.md)
 
-## Related
-
-- [[setting-up-work-scheduler-wfo-cs|Setting up Work scheduler in Workforce Optimization for Customer Service]]

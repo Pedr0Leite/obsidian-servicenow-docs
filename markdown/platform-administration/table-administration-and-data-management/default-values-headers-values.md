@@ -14,7 +14,7 @@ breadcrumb: [Data export reference, Exporting data, Tables and data, Configure c
 
 # Default values for column headers and column values
 
-Default values are used for column headers and column values, unless overridden by query [[r_DirectJDBCProbeParameters|parameters]], Export Set fields, or [[r_SetArchiveRuleProcessingBehavior|system properties]].
+Default values are used for column headers and column values, unless overridden by query parameters, Export Set fields, or system properties.
 
 The following table describes the default values used if you do not use query parameters, Export Set fields, or system properties to control output format.
 
@@ -28,7 +28,3 @@ The following table describes the default values used if you do not use query pa
 
 **Parent Topic:**[Data export reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/data-export-reference.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

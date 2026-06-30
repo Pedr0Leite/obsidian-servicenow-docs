@@ -14,7 +14,7 @@ breadcrumb: [Set log levels, Schedule Optimization, Setting up a Field Service s
 
 # View Schedule Optimization logs
 
-View the [[schedule-optimization|Schedule Optimization]] logs to gather insights from each optimization attempt.
+View the Schedule Optimization logs to gather insights from each optimization attempt.
 
 ## Before you begin
 
@@ -59,6 +59,4 @@ You can view system messages for both batch runs and intraday runs, including th
 
     The scheduled job generates logs after the batch runs.
 
-## Related
 
-- [[schedule-optimization|Schedule Optimization]]

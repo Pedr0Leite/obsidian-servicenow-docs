@@ -14,9 +14,9 @@ breadcrumb: [Configure, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Configure Supplier Relationship and Performance Management
 
-Define key performance indicators \(KPIs\) and segmentation criteria to measure [[supplier|supplier]] performance effectively.
+Define key performance indicators \(KPIs\) and segmentation criteria to measure supplier performance effectively.
 
-**Important:** Check your entitlements to determine whether you have access to [[supplier-performance-management-overview|Supplier Relationship and Performance Management]].
+**Important:** Check your entitlements to determine whether you have access to Supplier Relationship and Performance Management.
 
 Configuring Supplier Relationship and Performance Management \(SRPM\) involves the following:
 
@@ -27,13 +27,13 @@ Configuring Supplier Relationship and Performance Management \(SRPM\) involves t
 -   **Configure Segmentation Rules**: Configure segmentation rules to ensure consistent measurement and comparison of supplier performance, categorize suppliers into distinct groups based on specific criteria or characteristics.
 
 -   **[Create KPI units](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-units.md)**  
-[[create-kpi-units|Create KPI units]] to be used as measurement units for the quantitative performance of the supplier KPIs.
+Create KPI units to be used as measurement units for the quantitative performance of the supplier KPIs.
 -   **[Create KPI performance domains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-domain.md)**  
-[[create-kpi-domain|Create KPI performance domains]] to classify various KPIs into categories. The KPIs under different performance domains can be viewed in the KPI management tab and the Performance dashboard to measure the supplier performance.
+Create KPI performance domains to classify various KPIs into categories. The KPIs under different performance domains can be viewed in the KPI management tab and the Performance dashboard to measure the supplier performance.
 -   **[KPI templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-templates.md)**  
-[[kpi-templates|KPI templates]] are created to define KPIs that can be used to measure supplier performance.
+KPI templates are created to define KPIs that can be used to measure supplier performance.
 -   **[Create KPI thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-threshold.md)**  
-[[create-kpi-threshold|Create KPI thresholds]] that consist of predefined values that serve as benchmarks or limits for evaluating performance against specific objectives.
+Create KPI thresholds that consist of predefined values that serve as benchmarks or limits for evaluating performance against specific objectives.
 -   **[Create KPIs by adding suppliers to a KPI template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-kpi-template.md)**  
 You can add a new supplier whose performance you want to measure using the KPI template. Adding a supplier to a KPI template generates corresponding KPI records and KPI collection tasks for this supplier.
 -   **[Create supplier-level KPIs from KPI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-supplier-contract-level-kpis.md)**  
@@ -64,9 +64,9 @@ Create a segmentation rule that defines criteria for categorizing suppliers into
 
 [Advanced Work Assignment for Supplier Lifecycle Operations]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Configure smart assessments]()
 
@@ -76,13 +76,3 @@ Create a segmentation rule that defines criteria for categorizing suppliers into
 
 [Create manual KPI templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-kpi-template-slo.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-performance-management-overview|Supplier Relationship and Performance Management]]
-- [[create-kpi-units|Create KPI units]]
-- [[create-kpi-domain|Create KPI performance domains]]
-- [[kpi-templates|KPI templates]]
-- [[create-kpi-threshold|Create KPI thresholds]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

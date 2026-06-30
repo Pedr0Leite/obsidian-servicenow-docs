@@ -28,7 +28,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -104,7 +104,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 
     If the request needs detailed investigation, you can [promote the request to a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/promote-legal-request-to-matter.md).
 
-    **Note:** To [[promote-legal-request-to-matter|promote a legal request to a legal matter]], you must have the [[legal-matter-management-landing-page|Legal Matter Management]] app installed and the record producer type for the associated intake form must be set to **Request and Matter**. For more information on setting a record producer type, see [Add an intake form to a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md).
+    **Note:** To promote a legal request to a legal matter, you must have the Legal Matter Management app installed and the record producer type for the associated intake form must be set to **Request and Matter**. For more information on setting a record producer type, see [Add an intake form to a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md).
 
 9.  [Manage documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/manage-attachments-legal-request.md) that are part of the resolution to the legal request.
 
@@ -139,21 +139,13 @@ Compose and send emails directly from legal request record form in the Legal Cou
 -   **[Promote a legal request to a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/promote-legal-request-to-matter.md)**  
 Promote a legal request to a legal matter when the request needs additional investigation and cross-departmental collaboration that might take more time to resolve.
 -   **[Transfer a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/transfer-existing-legal-request.md)**  
-[[transfer-existing-legal-request|Transfer a legal request]] to a new practice area or category if the request was submitted with an inappropriate practice area or category.
+Transfer a legal request to a new practice area or category if the request was submitted with an inappropriate practice area or category.
 -   **[Update a legal request by requester](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submit-legal-request-requester.md)**  
 Update the variables in the form fields and submit the legal request by the requester once the request is sent back by the fulfiller.
 -   **[Disable attorney client privilege for a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/lsd-acp-enable.md)**  
-[[lsd-acp-enable|Disable attorney client privilege for a legal request]].
+Disable attorney client privilege for a legal request.
 -   **[Close a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/close-legal-request.md)**  
-You can [[close-legal-request|close a legal request]] assigned to you when you've resolved it.
+You can close a legal request assigned to you when you've resolved it.
 
 **Parent Topic:**[Managing legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/managing-legal-request.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[promote-legal-request-to-matter|Promote a legal request to a legal matter]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[transfer-existing-legal-request|Transfer a legal request]]
-- [[lsd-acp-enable|Disable attorney client privilege for a legal request]]
-- [[close-legal-request|Close a legal request]]

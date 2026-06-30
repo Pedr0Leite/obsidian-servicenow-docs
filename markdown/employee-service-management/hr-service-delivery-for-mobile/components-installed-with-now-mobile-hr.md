@@ -14,7 +14,7 @@ breadcrumb: [Activate HR Service Delivery for mobile, HR Service Delivery for mo
 
 # Components installed with Now Mobile for HR Service Delivery
 
-Several types of components install with the activation of the Now Mobile for [[hr-service-delivery|HR Service Delivery]] plugin, including tables and user roles.
+Several types of components install with the activation of the Now Mobile for HR Service Delivery plugin, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -63,7 +63,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Scripted [[activity-lxp|Activity]] Set Context\[v\_st\_hr\_activity\_set\_context\]
+Scripted Activity Set Context\[v\_st\_hr\_activity\_set\_context\]
 
 </td><td>
 
@@ -72,7 +72,3 @@ Scripted [[activity-lxp|Activity]] Set Context\[v\_st\_hr\_activity\_set\_contex
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate HR Service Delivery for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery-for-mobile/activate-mobile-employee-experience-for-hr-service-delivery.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[activity-lxp|Activity]]

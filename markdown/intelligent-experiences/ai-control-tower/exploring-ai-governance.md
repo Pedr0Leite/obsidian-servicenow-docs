@@ -14,7 +14,7 @@ breadcrumb: [AI Control Tower dashboard, Explore, AI Control Tower, Enable AI ex
 
 # Configurations
 
-Explore the [[ai-control-tower-landing|AI Control Tower]] Configurations page to manage and govern ServiceNow® [[ai-assets|AI assets]].
+Explore the AI Control Tower Configurations page to manage and govern ServiceNow® AI assets.
 
 Role required: AI steward
 
@@ -28,10 +28,5 @@ The **Configurations** page contains the following sections to manage the workfl
 
 For information on configuring AI Control Tower, see [Configure AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/configuring-ai-governance.md).
 
-For information on completing the [[ai-asset-lifecycle|AI asset lifecycle]], see [Complete AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/complete-ai-asset-lifecycle.md).
+For information on completing the AI asset lifecycle, see [Complete AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/complete-ai-asset-lifecycle.md).
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-assets|AI assets]]
-- [[ai-asset-lifecycle|AI asset lifecycle]]

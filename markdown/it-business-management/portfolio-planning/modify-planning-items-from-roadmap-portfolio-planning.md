@@ -27,7 +27,7 @@ Edit the details of planning items from a side panel view, or the full details v
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** and open your roadmap.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** and open your roadmap.
 
 <table id="choicetable_ngc_1zz_5wb"><thead><tr><th align="left" id="d211593e99">
 
@@ -76,6 +76,3 @@ From the Free-form Roadmaps tab, select a roadmap.
 
 **Parent Topic:**[Create planning items from roadmap view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-planning-items-from-roadmap-view-portfolio-planning-workspace.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

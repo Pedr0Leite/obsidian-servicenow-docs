@@ -14,7 +14,7 @@ breadcrumb: [Allowing contractors to bid on work orders and tasks, Scheduling an
 
 # Assign a task to a contractor on Field Service Marketplace
 
-Review contractor responses then assign the task to a contractor on [[fsm-marketplace|Field Service Marketplace]].
+Review contractor responses then assign the task to a contractor on Field Service Marketplace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The task must be pushed to marketplace first. For more information, see [Push a 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher** &gt; **[[dispatcher-activities|Dispatcher Workspace]].**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher** &gt; **Dispatcher Workspace.**.
 
 2.  Select a work order task.
 
@@ -40,7 +40,4 @@ The task must be pushed to marketplace first. For more information, see [Push a 
 
 5.  Select **Assign task**.
 
-## Related
 
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[dispatcher-activities|Dispatcher Workspace]]

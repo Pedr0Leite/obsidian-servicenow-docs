@@ -25,7 +25,7 @@ See the following tables for detailed role descriptions.
 
 ## Roles included with the Customer Service plugin
 
-The following table [[migration-lists|lists]] the contributor roles that are included with the Customer Service \(com.sn\_customerservice\) plugin along with their descriptions and associated roles.
+The following table lists the contributor roles that are included with the Customer Service \(com.sn\_customerservice\) plugin along with their descriptions and associated roles.
 
 <table id="table_q3s_wcc_3nb"><thead><tr><th>
 
@@ -100,13 +100,13 @@ Case contributor editor\[sn\_customerservice.case\_contributor\_editor\]
 
 </td><td>
 
-This role provides limited write access to some of the fields on the [[r_CustomerServiceCaseForm|Case form]] if the user has read access to the case through another role. Limited write access is available for the following fields:
+This role provides limited write access to some of the fields on the Case form if the user has read access to the case through another role. Limited write access is available for the following fields:
 
 -   Work notes
 -   Additional comments
 -   Attachments
 -   State or stage changes
--   [[customer-service-contributor-users|Contributor users]]
+-   Contributor users
 -   Contributor groups
 -   Watchlist
 -   Work notes list
@@ -274,7 +274,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[customer-data|Customer data]] viewer\[sn\_customerservice.customer\_data\_viewer\]
+Customer data viewer\[sn\_customerservice.customer\_data\_viewer\]
 
 </td><td>
 
@@ -295,7 +295,7 @@ This role provides access to case tasks from the following modules in the CSM wo
 
  You can also:
 
--   Use [[migration-agent-assist|Agent Assist]] to search for knowledge articles \(if the User Criteria are set to provide access to knowledge\).
+-   Use Agent Assist to search for knowledge articles \(if the User Criteria are set to provide access to knowledge\).
 -   Create email \(if you have the written access to the record and the email\_composer role\).
 -   View response templates \(if response templates have been configured for the record\).
 
@@ -310,11 +310,3 @@ This role provides access to case tasks from the following modules in the CSM wo
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[customer-service-contributor-users|Contributor users]]
-- [[customer-data|Customer data]]
-- [[migration-agent-assist|Agent assist]]

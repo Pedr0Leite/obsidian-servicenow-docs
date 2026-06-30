@@ -12,7 +12,7 @@ breadcrumb: [Explore, Now Assist for PSDS, Public Sector Digital Services \(PSDS
 
 # Exploring generative AI skills in Now Assist for Public Sector Digital Services \(PSDS\)
 
-With the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application, your agents can use generative AI skills to perform various tasks on a government service case.
+With the Now Assist for Public Sector Digital Services \(PSDS\) application, your agents can use generative AI skills to perform various tasks on a government service case.
 
 ## Skills
 
@@ -60,6 +60,3 @@ The Now Assist for PSDS application includes the generative AI skills that enabl
 -   Some Now Assist products/features are currently available only for customers in some regions. Be sure to check for availability updates in future releases.
 -   Some AI products and skills are not available in Regulated Markets. For more information, see [KB2593939: Regulated Markets AI Products/Skills Not Available](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=e8d7cc82475aba90b7832920326d4362). Be sure to check for availability updates in future releases.
 
-## Related
-
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

@@ -24,7 +24,7 @@ A grant proposal is the formal submission prepared by an individual, non-profit,
 
 Role required: Grant Applicant \(role: sn\_gsm.business\_contact\)
 
-For applicants, the application intake experience happens entirely on the [[psds-gmp-overview|Grants Management Portal]], separate from the grants program manager/agent view. This feature improves self-service with a Grants Management Portal that simplifies finding, applying for, and tracking grants. Reduce applicant effort with guided intake, including save, resume, and export functionality​. Increase agent productivity with tools to make screening submissions easy​. This is where applicants will submit proposals for a grant program that was published by a GPM using the setup step. They can then be screened in the agent portion of the intake and screening feature. With a guided intake setup, including save, resume, and export functionality, Grants Management Intake aims to simplify the process of finding, applying for, and tracking grants for applicants.
+For applicants, the application intake experience happens entirely on the Grants Management Portal, separate from the grants program manager/agent view. This feature improves self-service with a Grants Management Portal that simplifies finding, applying for, and tracking grants. Reduce applicant effort with guided intake, including save, resume, and export functionality​. Increase agent productivity with tools to make screening submissions easy​. This is where applicants will submit proposals for a grant program that was published by a GPM using the setup step. They can then be screened in the agent portion of the intake and screening feature. With a guided intake setup, including save, resume, and export functionality, Grants Management Intake aims to simplify the process of finding, applying for, and tracking grants for applicants.
 
 \[Omitted image "psds-gmp-applicant-view.png"\] Alt text: entity record view
 
@@ -138,7 +138,7 @@ Using the Grants Management Screening feature, managers can:
 
     \[Omitted image "psds-gmp-conf-elig.png"\] Alt text: Enter Applicant information view
 
-    Determine the eligibility of an applicant based on the execution of PaCE polices linked to the proposal’s program, defined during the Program Setup phase. For more information on setting up or modifying PaCE policies to determine post-submission eligibility of a grant application, see [[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]].
+    Determine the eligibility of an applicant based on the execution of PaCE polices linked to the proposal’s program, defined during the Program Setup phase. For more information on setting up or modifying PaCE policies to determine post-submission eligibility of a grant application, see [Configure Eligibility Rules Engine Policies in Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-eligibility.md).
 
 -   **Approve new contacts**
 
@@ -169,7 +169,7 @@ The funding proposal workflow involves the assessment of the evaluations conduct
 
     \[Omitted image "psds-gmp-cond-mer-rev.png"\] Alt text: create merit review tasks view
 
-    Select a reviewer group from the list of reviewers from the grant program and create merit review tasks for each of the reviewers evaluating the grant proposal. Once these tasks are created, the Grant Program Manager can release them to the external reviewers [[psds-gmp-using-merit-review-portal-agent|using the Reviewer Service Portal]], where they score proposals against a pre-defined criteria set forth by the Grant Program Manager or Director.
+    Select a reviewer group from the list of reviewers from the grant program and create merit review tasks for each of the reviewers evaluating the grant proposal. Once these tasks are created, the Grant Program Manager can release them to the external reviewers using the Reviewer Service Portal, where they score proposals against a pre-defined criteria set forth by the Grant Program Manager or Director.
 
 -   **Build Funding Proposal**
 
@@ -196,8 +196,4 @@ The final stage of the workflow is the decision phase. Based on the funding deci
 
     Await the acceptance of the outcome by the respective applicants.
 
-## Related
 
-- [[psds-config-gmp-eligibility|Configure Eligibility Rules Engine Policies in Grants Management]]
-- [[psds-gmp-overview|Grants Management Portal]]
-- [[psds-gmp-using-merit-review-portal-agent|Using the Reviewer Service Portal]]

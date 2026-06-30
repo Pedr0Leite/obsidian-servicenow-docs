@@ -14,7 +14,7 @@ breadcrumb: [AI reporting assistant, Microsoft Word based audit report templates
 
 # Reference information for AI reporting assistant
 
-Use this reference information to configure and manage [[ai-reporting-assistant|AI reporting assistant]] functionality in Microsoft Word documents.
+Use this reference information to configure and manage AI reporting assistant functionality in Microsoft Word documents.
 
 ## AI reporting assistant properties
 
@@ -34,6 +34,3 @@ Use this reference information to configure and manage [[ai-reporting-assistant|
 
 **Parent Topic:**[AI reporting assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/ai-reporting-assistant.md)
 
-## Related
-
-- [[ai-reporting-assistant|AI reporting assistant]]

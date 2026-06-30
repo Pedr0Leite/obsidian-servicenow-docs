@@ -20,7 +20,7 @@ The Sustainable IT dashboard displays data for Hardware assets, datacenters, and
 
 ## IT footprint map
 
-The first tab on the Sustainable IT dashboard showcases a global map depicting the carbon footprint of your datacenters, office buildings, and so on, highlighting your most energy-efficient facilities. The data displayed is determined by the configuration that you configure on the map marker. For more information, refer to [[configure-map-markers|Configure a map marker]]. When you hover over the icons on the map, you can view the classification of the configured marker's efficiency, the metric name, the entity name, and the most recent metric data available. You can configure any of the metric definitions that are provided along with the Sustainable IT plugin. Only those metric definitions that are grouped under Sustainable IT are available for selection. For example, you can use the following the metric definitions:
+The first tab on the Sustainable IT dashboard showcases a global map depicting the carbon footprint of your datacenters, office buildings, and so on, highlighting your most energy-efficient facilities. The data displayed is determined by the configuration that you configure on the map marker. For more information, refer to [Configure a map marker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-map-markers.md). When you hover over the icons on the map, you can view the classification of the configured marker's efficiency, the metric name, the entity name, and the most recent metric data available. You can configure any of the metric definitions that are provided along with the Sustainable IT plugin. Only those metric definitions that are grouped under Sustainable IT are available for selection. For example, you can use the following the metric definitions:
 
 -   **Carbon intensity for office locations**
 -   **DCiE by data center**
@@ -28,7 +28,7 @@ The first tab on the Sustainable IT dashboard showcases a global map depicting t
     **Note:** DCiE stands for datacenter infrastructure efficiency.
 
 
-For more information on how you can filter the metric definitions that are grouped under Sustainable IT, refer to [[filter-sustainable-it-metric-definitions|Filter Sustainable IT metric definitions]].
+For more information on how you can filter the metric definitions that are grouped under Sustainable IT, refer to [Filter Sustainable IT metric definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/filter-sustainable-it-metric-definitions.md).
 
 When you move the cursor over the icon, a popover is displayed. On the popover, you can select the entity name and a side panel opens that shows the metrics related to the selected entity of the following metric definitions.
 
@@ -49,7 +49,7 @@ You can select **Open link** to navigate to the metric record page for details. 
 -   Carbon emissions from hardware assets.
 -   Hardware energy consumption.
 
-You can select the chart to further explore or delve into more detailed information or data related to the chart. The fields from where the data is obtained are specified in the metric definition form. For more information, see [[create-metric-definition|Create an automated metric definition]].
+You can select the chart to further explore or delve into more detailed information or data related to the chart. The fields from where the data is obtained are specified in the metric definition form. For more information, see [Create an automated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-metric-definition.md).
 
 **Energy consumption**: The energy consumption section displays the information in the subsequent formats:
 
@@ -128,11 +128,5 @@ You can select the chart to further explore or delve into more detailed informat
 
 For more information on DEX, see [Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/dex-landing.md).
 
-**Parent Topic:**[[managing-sustainable-it|Managing Sustainable IT]]
+**Parent Topic:**[Managing Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/managing-sustainable-it.md)
 
-## Related
-
-- [[configure-map-markers|Configure a map marker]]
-- [[filter-sustainable-it-metric-definitions|Filter Sustainable IT metric definitions]]
-- [[create-metric-definition|Create an automated metric definition]]
-- [[managing-sustainable-it|Managing Sustainable IT]]

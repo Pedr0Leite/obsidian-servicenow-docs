@@ -21,7 +21,7 @@ Generate a summary of a new regulatory alert for a quick analysis of the alert u
 
 Role required: sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_user
 
-For more information on related roles and [[list-view-of-reg-alerts|regulatory alerts]], see [Types of alerts, user roles, and states of regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/user_roles_and_actions.md).
+For more information on related roles and regulatory alerts, see [Types of alerts, user roles, and states of regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/user_roles_and_actions.md).
 
 ## About this task
 
@@ -42,7 +42,7 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 1.  Navigate to one of the following locations:
 
     -   **Workspaces** &gt; **Compliance Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **Regulatory alerts**.
-    -   **Workspaces** &gt; **Compliance Workspace** select the [[reg-change-mgmt-landing-page|Regulatory Change Management]] dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
+    -   **Workspaces** &gt; **Compliance Workspace** select the Regulatory Change Management dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
 2.  Select a regulatory alert in any state except Closed or Cancelled.
 
 3.  On the Overview tab, select **Summarize**.
@@ -111,8 +111,3 @@ If you think that data might have changed after you viewed the summary, select t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

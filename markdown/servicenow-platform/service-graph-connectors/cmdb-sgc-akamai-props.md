@@ -18,9 +18,9 @@ Service Graph Connector properties control the behavior of connections.
 
 ## Connection properties
 
-These connection properties are available for the [[sgc-integration-akamai|Service Graph Connector for Akamai API Security]].
+These connection properties are available for the Service Graph Connector for Akamai API Security.
 
-**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Akamai API Security** &gt; **Connections**, and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
+**Note:** To open the Service Graph Connection Properties \[sn\_cmdb\_int\_util\_service\_graph\_connection\_property\] table for the connector, navigate to **All** &gt; **Service Graph Connectors** &gt; **Akamai API Security** &gt; **Connections**, and select the connection name. The connection properties are displayed in the Service Graph Connection Properties related list.
 
 <table id="table_d2w_pzn_ygc"><thead><tr><th>
 
@@ -59,8 +59,3 @@ Specify the delimiter to parse tag strings into key-value pairs.​-   Type: cus
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgc-integration-akamai|Service Graph Connector for Akamai API Security]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

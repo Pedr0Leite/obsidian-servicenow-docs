@@ -30,7 +30,7 @@ Use the [Homepage deprecation help tool](https://raw.githubusercontent.com/Servi
 
 For more information, see:
 
--   [[analytics-center-dashboards|Dashboards in the Analytics Center]].
+-   [Dashboards in the Analytics Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 -   [Working with responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ResponsiveDashboards.md).
 
 ## Procedure
@@ -50,6 +50,3 @@ For more information, see:
 
 Users can export dashboards to PDF to archive, print, or distribute.
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]

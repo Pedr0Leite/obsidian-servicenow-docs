@@ -12,7 +12,7 @@ breadcrumb: [Manage store plans to generate cases and tasks, Manage store plans,
 
 # Add affected Retail stores
 
-Determine the affected [[rahi-retail-operations-overview|Retail]] stores from the list of retail stores.
+Determine the affected Retail stores from the list of retail stores.
 
 ## Before you begin
 
@@ -29,9 +29,5 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
 3.  Select **Add** to continue or **Cancel** to stay on the same form.
 
 
-**Parent Topic:**[[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]
+**Parent Topic:**[Manage store plans to generate cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plan-authoring.md)
 
-## Related
-
-- [[rahi-retail-manage-store-plan-authoring|Manage store plans to generate cases and tasks]]
-- [[rahi-retail-operations-overview|Retail]]

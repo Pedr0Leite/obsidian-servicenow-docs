@@ -16,7 +16,7 @@ breadcrumb: [Exploring Talent Development Core, Talent Development Core, Growth 
 
 Conversations with managers, peers, and mentors are a critical part of your career growth. Identify and manage the important conversations you have.
 
-You must have the [[egd-activities-conversations-module|Career Conversations]] app installed for Conversations to work.
+You must have the Career Conversations app installed for Conversations to work.
 
 **Parent Topic:**[Exploring Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-explore.md)
 
@@ -31,6 +31,3 @@ You must have the [[egd-activities-conversations-module|Career Conversations]] a
 
 [Update a growth conversation in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-act-update-growth-conversation.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

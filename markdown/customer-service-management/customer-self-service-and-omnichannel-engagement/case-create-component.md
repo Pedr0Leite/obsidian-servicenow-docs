@@ -14,11 +14,7 @@ breadcrumb: [Configure web components, Web Embeddables, Set up self-service, Con
 
 # Case create component
 
-Enables you to create a case to address any issues related to products and services. You can submit new cases, providing all necessary details such as assets, product, description, urgency, and more, directly from your website. Once the case is created, you can access it in the [[case-list-component|Case list component]].
+Enables you to create a case to address any issues related to products and services. You can submit new cases, providing all necessary details such as assets, product, description, urgency, and more, directly from your website. Once the case is created, you can access it in the Case list component.
 
-\[Omitted image "we-case-create-comp.png"\] Alt text: Case create component instance displaying [[r_CustomerServiceCaseForm|case form]] to submit a case related to you product in the Preview tab.
+\[Omitted image "we-case-create-comp.png"\] Alt text: Case create component instance displaying case form to submit a case related to you product in the Preview tab.
 
-## Related
-
-- [[case-list-component|Case list component]]
-- [[r_CustomerServiceCaseForm|Case form]]

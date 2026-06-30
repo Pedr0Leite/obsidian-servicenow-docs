@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace - Scheduling, Workforce Optimization f
 
 # Request time off using ITSM Virtual Agent
 
-Automate your request for time off using the [[itsm-virtual-agent|ITSM Virtual Agent]]. Type keywords into the chatbot to create and submit your request, which then gets automatically routed to your manager for approval. You can also use Natural Language Understanding to make your time-off request.
+Automate your request for time off using the ITSM Virtual Agent. Type keywords into the chatbot to create and submit your request, which then gets automatically routed to your manager for approval. You can also use Natural Language Understanding to make your time-off request.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ Role required: sn\_shift\_planning.agent
 
 **Parent Topic:**[Service Operations Workspace - Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/itsm-sow-workspace-scheduling.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

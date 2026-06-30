@@ -18,7 +18,7 @@ The SAFe Prior Sprint Dashboard provides data visualization on scope, actual bur
 
 \[Omitted image "safe-prior-sprint-widgets.png"\] Alt text: SAFe prior sprint dashboard widgets.
 
-\[Omitted image "safe-prior-sprint-burndown.png"\] Alt text: [[agile-development-prior-sprint-dashboard|Agile 2.0 prior sprint dashboard]] burndown report.
+\[Omitted image "safe-prior-sprint-burndown.png"\] Alt text: Agile 2.0 prior sprint dashboard burndown report.
 
 \[Omitted image "safe-prior-sprint-burnup.png"\] Alt text: Agile 2.0 prior sprint dashboard burnup report.
 
@@ -89,7 +89,7 @@ SAFe\_scrum\_user
 
 ## Data visualizations
 
-If you are upgrading from version 1.0.2 or earlier of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup report. For more information, see [Using Solution Library for Essential SAFe dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/using-solution-library-for-essential-safe-dashboards.md).
+If you are upgrading from version 1.0.2 or earlier of Performance Analytics Content Pack for Essential SAFe, then install this dashboard from Solution Library to upgrade its layout and access the Sprint Burnup report. For more information, see [Using Solution Library for Essential SAFe dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/using-solution-library-for-essential-safe-dashboards.md).
 
 <table id="table_mbk_ndk_k3b"><thead><tr><th>
 
@@ -150,7 +150,3 @@ Shows the previous sprint burnup trend indicating scope changes. Analyze future 
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[agile-development-prior-sprint-dashboard|Agile 2.0 Prior Sprint Dashboard]]
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]

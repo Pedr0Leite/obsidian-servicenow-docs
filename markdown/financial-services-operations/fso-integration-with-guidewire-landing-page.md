@@ -31,7 +31,7 @@ With the Financial Services Operations Integration with Guidewire, you can do th
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about the benefits that are provided by integrating [[fso-overview|Financial Services]] Operations with Guidewire.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-fso-integration-with-guidewire.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about the benefits that are provided by integrating Financial Services Operations with Guidewire.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-fso-integration-with-guidewire.md)
 
 </td><td>
 
@@ -46,22 +46,14 @@ With the Financial Services Operations Integration with Guidewire, you can do th
 [Integrate\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Work on integrating Financial Services Operations with the Guidewire application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-guidewire-integration-subflows.md)
 
 </td></tr></tbody>
-</table>-   **[[exploring-fso-integration-with-guidewire|Exploring Financial Services Operations Integration with Guidewire]]**  
+</table>-   **[Exploring Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-fso-integration-with-guidewire.md)**  
 With the Financial Services Operations Integration with Guidewire application, insurers can embed the Guidewire Cloud based APIs in the FSO workflows to handle the day to day business operations for policy services, claims services, and billing services.
--   **[[setting-up-fso-integration-with-guidewire|Set upFinancial Services Operations Integration with Guidewire]]**  
+-   **[Set upFinancial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/setting-up-fso-integration-with-guidewire.md)**  
 You can integrate a ServiceNow instance with your Guidewire account so that you can access policy and claims information in the insurance core system.
--   **[[configure-fso-integration-with-guidewire|Configure Financial Services Operations Integration with Guidewire]]**  
+-   **[Configure Financial Services Operations Integration with Guidewire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-fso-integration-with-guidewire.md)**  
 Use this procedure to select and configure the Financial Services Operations Integration with Guidewire application.
--   **[[fso-guidewire-integration-subflows|Financial Services Operations Integration with Guidewire subflows]]**  
+-   **[Financial Services Operations Integration with Guidewire subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-guidewire-integration-subflows.md)**  
 The Financial Services Operations Integration with Guidewire provides these subflows to automate Guidewire tasks. These subflows can be customized as per business needs.
 
-**Parent Topic:**[[fso-integrate-other-applications|Integrate applications]]
+**Parent Topic:**[Integrate applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-integrate-other-applications.md)
 
-## Related
-
-- [[exploring-fso-integration-with-guidewire|Exploring Financial Services Operations Integration with Guidewire]]
-- [[setting-up-fso-integration-with-guidewire|Set upFinancial Services Operations Integration with Guidewire]]
-- [[configure-fso-integration-with-guidewire|Configure Financial Services Operations Integration with Guidewire]]
-- [[fso-guidewire-integration-subflows|Financial Services Operations Integration with Guidewire subflows]]
-- [[fso-integrate-other-applications|Integrate applications]]
-- [[fso-overview|Financial Services]]

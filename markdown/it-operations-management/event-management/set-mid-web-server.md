@@ -14,7 +14,7 @@ breadcrumb: [MID Web Server and agent mTLS Authentication, Configure the MID Web
 
 # Install the .pem file in the MID unified keystore and set up the MID Web Server
 
-Install the .pem file into the MID unified keystore and set up the [[mid-web-server|MID Web Server]] to enable configuring mTLS on your MID Web Server and agent.
+Install the .pem file into the MID unified keystore and set up the MID Web Server to enable configuring mTLS on your MID Web Server and agent.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Role required: agent\_client\_collector\_admin
 
 [Connect the agent to the MID Web Server using TLS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/agent-mid-connect.md).
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

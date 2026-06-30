@@ -16,7 +16,7 @@ breadcrumb: [Universal Request reference, Universal Request, Employee Service Ma
 
 Administrators can use Universal Request properties to determine and configure the application behavior.
 
-Navigate to **[[ur-landing-limitedaccess|Universal Request]]** &gt; **Administration** &gt; **Properties** to view and edit the properties.
+Navigate to **Universal Request** &gt; **Administration** &gt; **Properties** to view and edit the properties.
 
 <table id="table_tdj_glz_mlb"><thead><tr><th>
 
@@ -259,6 +259,3 @@ Creates a universal request when a request is submitted from a catalog item or r
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

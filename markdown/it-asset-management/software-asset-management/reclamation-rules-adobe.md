@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Reclamation rules for Adobe integration
 
-Reclamation rules for Adobe integration set the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, the [[c_SoftwareAssetMgmt|Software Asset Management]] application marks the subscription as a potential reclamation candidate.
+Reclamation rules for Adobe integration set the minimum usage threshold for a subscription. If a subscription remains inactive for a specified period, the Software Asset Management application marks the subscription as a potential reclamation candidate.
 
 The Software Asset Management application automatically provides base system reclamation rules when you create an integration profile for Adobe Cloud. You can customize these rules based on your specific activity thresholds, such as 15, 30, 90, or 180 days. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
@@ -22,6 +22,3 @@ By default, a threshold of three single apps is set to determine whether an Adob
 
 **Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

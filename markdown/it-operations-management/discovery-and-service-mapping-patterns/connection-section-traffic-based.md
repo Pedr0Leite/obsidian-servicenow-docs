@@ -14,7 +14,7 @@ breadcrumb: [Discovery patterns used by ITOM Visibility, ITOM Visibility, IT Ope
 
 # Fine-tune patterns using traffic-based discovery
 
-As an alternative to customizing the pattern from the Pattern Designer side, improve existing patterns so that [[c_ServiceMappingOverview|Service Mapping]] can use them to find configuration item \(CI\) connections previously found using traffic-based [[r-discovery|discovery]].
+As an alternative to customizing the pattern from the Pattern Designer side, improve existing patterns so that Service Mapping can use them to find configuration item \(CI\) connections previously found using traffic-based discovery.
 
 ## Before you begin
 
@@ -177,7 +177,3 @@ User decision
 
 [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/c_MappingPatternsCustomization.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Resource assignments in Project Workspace, Resource planning with P
 
 # Copy a resource assignment from Project Workspace
 
-[[copy-ra-rmw|Copy a resource assignment]] record directly from the resource pane in [[project-workspace-landing-page|Project Workspace]].
+Copy a resource assignment record directly from the resource pane in Project Workspace.
 
 ## Before you begin
 
@@ -56,7 +56,3 @@ Make sure the resource assignment is visible in the bottom resource pane of the 
 
 [Update resource assignment from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/update-resource-assignment-pw.md)
 
-## Related
-
-- [[copy-ra-rmw|Copy a resource assignment]]
-- [[project-workspace-landing-page|Project Workspace]]

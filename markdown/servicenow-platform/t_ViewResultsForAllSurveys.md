@@ -22,14 +22,14 @@ Role required: survey\_admin or survey\_reader
 
 1.  Navigate to **All** &gt; **Survey** &gt; **Survey Responses**.
 
-    Do not confuse this module with **Survey** &gt; **Legacy [[r_SurveyManagementLandingPage|Surveys]]** &gt; **Survey Responses**, which displays legacy survey responses.
+    Do not confuse this module with **Survey** &gt; **Legacy Surveys** &gt; **Survey Responses**, which displays legacy survey responses.
 
     The **Type** column displays the survey definition each response is associated with.
 
 2.  Select a response to view its details.
 
 
-**Parent Topic:**[[c_SurveyResults|Survey responses and results]]
+**Parent Topic:**[Survey responses and results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md)
 
 **Related topics**  
 
@@ -46,7 +46,3 @@ Role required: survey\_admin or survey\_reader
 
 [Survey responses in a database view]()
 
-## Related
-
-- [[c_SurveyResults|Survey responses and results]]
-- [[r_SurveyManagementLandingPage|Surveys]]

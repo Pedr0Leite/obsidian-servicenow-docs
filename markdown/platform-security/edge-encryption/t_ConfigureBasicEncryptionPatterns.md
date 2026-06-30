@@ -18,7 +18,7 @@ You can replace string patterns with tokens before they are sent to and stored i
 
 ## Before you begin
 
-To use [[encryption-landing|encryption]] patterns, you must install and set up a MySQL database in your network. This is the same database used for order-preserving encryption. To create or edit encryption patterns, you must be connected to the instance through the proxy.
+To use encryption patterns, you must install and set up a MySQL database in your network. This is the same database used for order-preserving encryption. To create or edit encryption patterns, you must be connected to the instance through the proxy.
 
 Role required: security\_admin
 
@@ -33,13 +33,13 @@ You can use base system patterns, or create your own patterns. Base system patte
 -   If the same string is sent to the instance multiple times, it is replaced with the same token.
 -   Text search on exact matches is supported. The query string is exchanged with a token when sent to the instance, the search is performed on tokens, and when the search results are returned to the proxy server, the tokens are replaced with the clear text. Features such as stemming are not supported.
 
-When using patterns, the clear text never leaves your network. When the proxy server matches a pattern in a [[c_requestAPI|request]] going to the instance, the proxy replaces the string with a token of the same size. The token is sent to instance instead of the clear text string. When the response is sent from the instance to the proxy server, the proxy replaces the token with the string. When viewed through the proxy server, the string displays as clear text.
+When using patterns, the clear text never leaves your network. When the proxy server matches a pattern in a request going to the instance, the proxy replaces the string with a token of the same size. The token is sent to instance instead of the clear text string. When the response is sent from the instance to the proxy server, the proxy replaces the token with the string. When viewed through the proxy server, the string displays as clear text.
 
 **Note:** Encrypted fields are not checked for encryption patterns.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[edge-encryption|Edge Encryption]] [[sc-configuration|Configuration]]** &gt; **Encryption Patterns** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Edge Encryption Configuration** &gt; **Encryption Patterns** &gt; **Create New**.
 
     Alternatively, you can navigate to **Advanced Patterns** to activate or edit a preconfigured pattern.
 
@@ -75,9 +75,3 @@ A Java RegEx expression. If advanced is selected, you cannot change the input ty
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]
-- [[edge-encryption|Edge Encryption]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Snowflake, Service Graph Connectors for AI Control Tower, AI connec
 
 # Snowflake Statements API Reference
 
-The connector uses the Snowflake Statements API to query [[ai-assets|AI assets]] and usage data. The following queries are executed during discovery and usage collection.
+The connector uses the Snowflake Statements API to query AI assets and usage data. The following queries are executed during discovery and usage collection.
 
 ## Asset Discovery Queries
 
@@ -56,7 +56,7 @@ Query Model Versions
 
 </td><td>
 
-Retrieves detailed version history and metadata for [[ai-models|AI models]] from the information schema.
+Retrieves detailed version history and metadata for AI models from the information schema.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,3 @@ This query analyzes usage within a specified time window and returns the followi
 -   Database and schema names
 -   Request counts
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-models|AI models]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, ServiceNow for Microsoft Teams and Microsoft 365, Unifie
 
 # Properties installed with HR Service Delivery for Microsoft 365
 
-The following properties are installed with the [[hr-service-delivery|HR Service Delivery]] for Microsoft 365 plugin.
+The following properties are installed with the HR Service Delivery for Microsoft 365 plugin.
 
 **Note:** The following properties are located in the System Properties \[sys\_properties\] table. To access the table, enter `sys_properties.list` in the navigation filter.
 
@@ -41,7 +41,7 @@ sn\_now\_teams\_hr.hr\_case\_allow\_list\_for\_teams\_chat\_actions
 
 </td><td>
 
-List of HR Case tables for which the **Start Chat** and **Import Messages** UI actions are available. The default list doesn’t include sensitive HR Cases like [[hr-case-employee-relations|Employee Relations]], Investigation, and Ethics.-   Type: string
+List of HR Case tables for which the **Start Chat** and **Import Messages** UI actions are available. The default list doesn’t include sensitive HR Cases like Employee Relations, Investigation, and Ethics.-   Type: string
 -   Default value: sn\_hr\_core\_case,sn\_hr\_core\_case\_benefits,sn\_hr\_core\_case\_compensation,sn\_hr\_core\_case\_corporate\_communication,sn\_hr\_core\_case\_global\_mobility,sn\_hr\_core\_case\_operations,sn\_hr\_core\_case\_payroll,sn\_hr\_core\_case\_performance,sn\_hr\_core\_case\_talent\_management,sn\_hr\_core\_case\_total\_rewards,sn\_hr\_core\_case\_workforce\_admin,sn\_hr\_le\_case
 
 </td></tr><tr><td>
@@ -74,7 +74,3 @@ List of HR Case table fields that are displayed as recommended participants for 
 </td></tr></tbody>
 </table>**Parent Topic:**[ServiceNow for Microsoft Teams reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]

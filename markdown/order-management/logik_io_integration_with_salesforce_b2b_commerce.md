@@ -68,7 +68,7 @@ You must complete the following steps after installing the components to Salesfo
 
 Setting Field Level Security:
 
-1.  From Setup Home, go to the Object Manager tab, or navigate to Objects and [[fields|Fields]] &gt; Object Manager.
+1.  From Setup Home, go to the Object Manager tab, or navigate to Objects and Fields &gt; Object Manager.
 2.  From Object Manager, search for and open Cart Item \(CartItem\).
 
     \[Omitted image "cpq-integration-SFB2B-cart-item.png"\] Alt text: Object manager screen
@@ -349,15 +349,9 @@ Example response:
 **Related topics**  
 
 
-[[logik_io-salesforce_base_package_overview|CPQ and Salesforce base package overview]]
+[CPQ and Salesforce base package overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io-salesforce_base_package_overview.md)
 
-[[salesforce_amendments_and_logik_io|Salesforce amendments and CPQ]]
+[Salesforce amendments and CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/salesforce_amendments_and_logik_io.md)
 
-[[logik_io-salesforce_managed_packages|CPQ and Salesforce managed packages]]
+[CPQ and Salesforce managed packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/logik_io-salesforce_managed_packages.md)
 
-## Related
-
-- [[logik_io-salesforce_base_package_overview|CPQ and Salesforce base package overview]]
-- [[salesforce_amendments_and_logik_io|Salesforce amendments and CPQ]]
-- [[logik_io-salesforce_managed_packages|CPQ and Salesforce managed packages]]
-- [[fields|Fields]]

@@ -16,7 +16,7 @@ The Targeted Communications application provides the ability to create and send 
 
 Users with the publications author \(sn\_publications.author\) and publications administrator \(sn\_publications.admin\) roles can use the Targeted Communications application to author publication articles and emails for employees, customer contacts and accounts, and consumers. Articles are available for viewing from the self-service portals and can also be sent out as email notifications.
 
-Each publication article includes content and a specified list of recipients. Articles can also include optional email notification. [[major-issue-recipient-lists|Recipients lists]] can be created dynamically by using a condition builder to identify the desired conditions, by running scripts, or by manual file upload. Recipients can be added to or removed from a list manually and [[migration-lists|lists]] can have both dynamically generated and manually added records of the same type.
+Each publication article includes content and a specified list of recipients. Articles can also include optional email notification. Recipients lists can be created dynamically by using a condition builder to identify the desired conditions, by running scripts, or by manual file upload. Recipients can be added to or removed from a list manually and lists can have both dynamically generated and manually added records of the same type.
 
 When creating an article, publication authors specify a publish date and an expiration date. The system uses these dates to automatically publish and expire the article. Authors can also request a review prior to publishing an article. Articles can include an optional email notification that is sent to all recipients in the recipients list when the article is published. In this email notification, all of the recipients are included in a **bcc** list to maintain privacy.
 
@@ -26,7 +26,7 @@ The process of publishing articles is based on workflows and two default workflo
 
 Customer contacts and consumers can view publications by logging in to the Customer Service Portal or the Consumer Service Portal and clicking the **Publications** link in the portal header. Employees can view these publications by navigating to **Targeted Communications** &gt; **Publications** in the application navigator.
 
-**Note:** For more info see, [[inst-wi-cust-serv-addtl-plugins|Components installed with additional plugins for Customer Service Management]]
+**Note:** For more info see, [Components installed with additional plugins for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/inst-wi-cust-serv-addtl-plugins.md)
 
 ## Publication article stages
 
@@ -91,11 +91,5 @@ If customers have customized the legacy workflows, a fix script deactivates the 
 
 **Note:** The new flows are only activated if the legacy workflows have not been customized.
 
-For more information, see [[targeted-comm-publication-workflows|Targeted communications publication workflows]].
+For more information, see [Targeted communications publication workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/targeted-comm-publication-workflows.md).
 
-## Related
-
-- [[inst-wi-cust-serv-addtl-plugins|Components installed with additional plugins for Customer Service Management]]
-- [[targeted-comm-publication-workflows|Targeted Communications publication workflows]]
-- [[major-issue-recipient-lists|Recipients lists]]
-- [[migration-lists|Lists]]

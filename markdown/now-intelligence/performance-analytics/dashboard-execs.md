@@ -16,7 +16,7 @@ breadcrumb: [Dashboard statistics, Administering dashboards, Responsive dashboar
 
 The **Dashboard Executions** list enables you to view how long it takes for your Core UI dashboards to load and the ID of the user who launched it. The list includes one entry for the most recent launch of each dashboard per user.
 
-To view [[dashboard-statistics-exec|dashboard execution statistics]], navigate to **All** &gt; **dashboard\_executions.list**. The admin or dashboard\_admin role is required.
+To view dashboard execution statistics, navigate to **All** &gt; **dashboard\_executions.list**. The admin or dashboard\_admin role is required.
 
 **Note:**
 
@@ -37,6 +37,3 @@ By default, the **Dashboard Executions** list has the following columns:
 
 To view the dashboards that take the most time to run, sort **Execution duration** from z-a.
 
-## Related
-
-- [[dashboard-statistics-exec|Dashboard execution statistics]]

@@ -18,7 +18,7 @@ Quick start test for IP discovery validate configuration items \(CI\) and their 
 
 |Test|Description|
 |----|-----------|
-|TestIPDiscovery|IP [[r-discovery|discovery]] is performed on an IP input by the user. After discovery, the CI and relationships are created in the cmdb\_ci and rel\_ci tables. This test validates the CIs and relationships created and output and discovery errors during the discovery run.|
+|TestIPDiscovery|IP discovery is performed on an IP input by the user. After discovery, the CI and relationships are created in the cmdb\_ci and rel\_ci tables. This test validates the CIs and relationships created and output and discovery errors during the discovery run.|
 
 To learn more about IP Discovery, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
@@ -29,6 +29,3 @@ To learn more about IP Discovery, see [Schedule a horizontal discovery](https://
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

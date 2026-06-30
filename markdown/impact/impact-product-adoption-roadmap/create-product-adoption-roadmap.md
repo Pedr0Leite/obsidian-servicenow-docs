@@ -14,7 +14,7 @@ breadcrumb: [Product Adoption Roadmaps, Product Adoption, Using Impact, Impact]
 
 # Manage product adoption roadmaps for the Impact Store Application
 
-Create a [[product-adoption|product adoption]] roadmap \(PAR\) using either a predefined template or a custom roadmap.
+Create a product adoption roadmap \(PAR\) using either a predefined template or a custom roadmap.
 
 ## Before you begin
 
@@ -23,13 +23,13 @@ Create a [[product-adoption|product adoption]] roadmap \(PAR\) using either a pr
 -   View notes specific to a capability that span across phases.
 -   View notes for a capability specific to that phase to see pre-requisites, plan training, and evaluate additional implementation considerations.
 
-Role required: [[impact-landing-page|Impact]] admin, Platform Owner, Impact Portfolio Owner, and Impact Executive.
+Role required: Impact admin, Platform Owner, Impact Portfolio Owner, and Impact Executive.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Impact** &gt; **Product adoption**.
 
-2.  On the Impact Workspace, select **Product adoption** &gt; **[[impact-par|Product adoption roadmaps]]**.
+2.  On the Impact Workspace, select **Product adoption** &gt; **Product adoption roadmaps**.
 
 3.  Select **Create roadmap**.
 
@@ -91,13 +91,8 @@ Actions
 
 11. Select **Publish**.
 
-    The product adoption roadmap is published and is available to other members on your account and the [[impact-squad|Impact squad]]. 
+    The product adoption roadmap is published and is available to other members on your account and the Impact squad. 
 
 12. Select **Edit** to edit a published roadmap to manage the adoption phases and capabilities.
 
-## Related
 
-- [[product-adoption|Product Adoption]]
-- [[impact-landing-page|Impact]]
-- [[impact-par|Product Adoption Roadmaps]]
-- [[impact-squad|Impact Squad]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate Major Security Incident Management with Microsoft SharePo
 
 # Configure Microsoft SharePoint with Major Security Incident Management
 
-Set up [[major-security-incident-management-landing-page|Major Security Incident Management]] with Microsoft SharePoint connection.
+Set up Major Security Incident Management with Microsoft SharePoint connection.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Role required: admin
 
 **Parent Topic:**[Integrate Major Security Incident Management with Microsoft SharePoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/integrate-msim-sharepoint.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

@@ -204,7 +204,7 @@ Maximum travel radius
 
 </td><td>
 
-The maximum distance \(measured in the specified distance unit\) from the agent's starting location to consider when assigning work order tasks in the [[dispatcher-activities|Dispatcher Workspace]], work order form, or [[dynamic-scheduling|dynamic scheduling]].
+The maximum distance \(measured in the specified distance unit\) from the agent's starting location to consider when assigning work order tasks in the Dispatcher Workspace, work order form, or dynamic scheduling.
 
  A warning message appears if the assigned task is outside of the radius between the task location and the agent's location.
 
@@ -238,7 +238,7 @@ The maximum duration the agent can travel between stops.
 
  **Note:**
 
-This duration is applicable for scheduling and assigning tasks with [[schedule-optimization|Schedule Optimization]].
+This duration is applicable for scheduling and assigning tasks with Schedule Optimization.
 
 </td></tr><tr><td>
 
@@ -269,8 +269,4 @@ The penalty applied for each overtime hour the agent works during work assignmen
 </td></tr></tbody>
 </table>7.  Select **Submit**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]

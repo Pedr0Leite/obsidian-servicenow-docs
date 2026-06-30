@@ -19,8 +19,8 @@ Generate structured release notes for a release using AI-driven summarization, r
 
 ## Before you begin
 
--   **Required [[dex-workspace-application-tab|applications]] and plugins:**
-    -   [[dpr-landing-page|Digital Product Release]] version 2.3 or later.
+-   **Required applications and plugins:**
+    -   Digital Product Release version 2.3 or later.
 
         For more information, see [Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-landing-page.md).
 
@@ -48,7 +48,7 @@ The release notes are generated using the release scope data for the release:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the releases icon \(\[Omitted image "dpr-icon-release.png"\] Alt text: Releases icon.\).
 
@@ -85,8 +85,3 @@ The release notes are generated using the release scope data for the release:
 
 **Parent Topic:**[Manage releases for digital products and services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-manage-releases.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-workspace|Digital Product Release Workspace]]

@@ -32,7 +32,7 @@ As a TISC admin, you define these approval rules to grant consent on approval re
 
 2.  Select **New** to create an approval rule.
 
-    The following rules are the preconfigured rules in the base system for the [[palo-alto-firewall-landing-page|Palo Alto Networks - Firewall integration]].
+    The following rules are the preconfigured rules in the base system for the Palo Alto Networks - Firewall integration.
 
     |Name|Description|EDL Action|
     |----|-----------|----------|
@@ -71,6 +71,3 @@ As a TISC admin, you define these approval rules to grant consent on approval re
 
 [Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)
 
-## Related
-
-- [[palo-alto-firewall-landing-page|Palo Alto Networks - Firewall integration]]

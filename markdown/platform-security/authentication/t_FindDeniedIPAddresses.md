@@ -24,17 +24,14 @@ Role required: admin.
 
 Log entries for blocked IP address appear as follows: `2015-10-21 18:37:43 (175) http-30 WARNING *** WARNING *** Security restricted: Access restricted (xx.xx.xxx.xxx not authorized)`.
 
-**Note:** Denied IP addresses are the viewable instance's node log files, not viewable from the [[system-logs|system logs]].
+**Note:** Denied IP addresses are the viewable instance's node log files, not viewable from the system logs.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **System Logs** &gt; **Utilities** &gt; **Node Log File Browser.**.
 
-2.  Browse the [[logs|logs]] by criteria, such as time period and message.
+2.  Browse the logs by criteria, such as time period and message.
 
 3.  You can also download log files when you know which log you are looking for, by navigating to **System Logs** &gt; **Utilities** &gt; **Node Log File Download**.
 
-## Related
 
-- [[system-logs|System logs]]
-- [[logs|Logs]]

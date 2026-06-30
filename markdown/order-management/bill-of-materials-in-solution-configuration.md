@@ -23,14 +23,9 @@ When two child products share the same parent product and product ID but should 
 **Related topics**  
 
 
-[[view-solution-bom|View the solution bill of materials]]
+[View the solution bill of materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-solution-bom.md)
 
-[[solution-navigation-layout|Solution navigation and layout]]
+[Solution navigation and layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/solution-navigation-layout.md)
 
-[[solution-configurations|Solution configurations]]
+[Solution configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/solution-configurations.md)
 
-## Related
-
-- [[view-solution-bom|View the solution bill of materials]]
-- [[solution-navigation-layout|Solution navigation and layout]]
-- [[solution-configurations|Solution configurations]]

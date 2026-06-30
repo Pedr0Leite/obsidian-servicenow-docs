@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Release form
 
-Product managers or release admins can [[dpr-create-release|create a release for a product or service]] version in [[dpr-landing-page|Digital Product Release]].
+Product managers or release admins can create a release for a product or service version in Digital Product Release.
 
 For more information, see [Create a release for a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-release.md).
 
@@ -75,7 +75,7 @@ Release template
 
 </td><td>
 
-Template that defines the release process. The template applies the predefined phases, tasks, policies, and approvals to this release.**Note:** When product-level release [[settings-mobile|settings]] are configured, only the templates defined in the release settings are available for selection. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
+Template that defines the release process. The template applies the predefined phases, tasks, policies, and approvals to this release.**Note:** When product-level release settings are configured, only the templates defined in the release settings are available for selection. For more information, see [Configure product-level release settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-config-product-release-setting.md).
 
 The list of available templates is filtered based on the **Release validates a new product version** field.
 
@@ -139,8 +139,3 @@ This field appears only when **Out of band** is selected.
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
-## Related
-
-- [[dpr-create-release|Create a release for a product or service]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[settings-mobile|Settings]]

@@ -31,7 +31,7 @@ Attribute type
 </td><td>
 
 Attribute type list.-   Resource: To use the attribute for resources or financials for your project.
--   Task: To use the attribute to [[generate-labor-cost-demand|generate labor costs]] only.
+-   Task: To use the attribute to generate labor costs only.
 
 </td></tr><tr><td>
 
@@ -100,6 +100,3 @@ Table name and field value for a task attribute.This field is visible only while
 
 [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]

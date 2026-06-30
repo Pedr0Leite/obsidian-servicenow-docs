@@ -18,7 +18,7 @@ Create the asset before they're delivered so that you can create the asset recor
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -63,7 +63,7 @@ When the asset state is **In stock**, the **Reserved for** field is maintained a
 
     Hardware assets are listed in the **Assets** related list. Click an asset in the list to view the asset record. Except for consumables, the **Reserved for** field contains the name of the user who made the original request.
 
-    You can also [[t_CreatingAssets|create assets]] for individual purchase order line items. On a purchase order, go to the **Purchase order line items** related list and click a specific purchase order line item number. Then, click the **Create hardware assets prior to delivery** related link. Only the hardware assets included on the purchase order line item are created.
+    You can also create assets for individual purchase order line items. On a purchase order, go to the **Purchase order line items** related list and click a specific purchase order line item number. Then, click the **Create hardware assets prior to delivery** related link. Only the hardware assets included on the purchase order line item are created.
 
 
 **Parent Topic:**[Procurement purchase order management for assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_UseProcurement.md)
@@ -85,7 +85,3 @@ When the asset state is **In stock**, the **Reserved for** field is maintained a
 
 [Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[t_CreatingAssets|Create assets]]

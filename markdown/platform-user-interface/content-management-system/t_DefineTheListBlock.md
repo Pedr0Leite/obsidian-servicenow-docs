@@ -14,7 +14,7 @@ breadcrumb: [Types of content blocks, Content blocks, Configure Content Manageme
 
 # Customize the list block
 
-List blocks are [[c_ContentBlocks|content blocks]] that dynamically generate a list of links to records within the instance. When a user clicks a link in a list block, the associated information is displayed in a detail page determined by its content type.
+List blocks are content blocks that dynamically generate a list of links to records within the instance. When a user clicks a link in a list block, the associated information is displayed in a detail page determined by its content type.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-Make the list using a simple query on any table or by scripting a more advanced query. [[lists-configurable-workspace|Lists]] are powerful and flexible. Here are some places that allow you to have complete control over the list display.
+Make the list using a simple query on any table or by scripting a more advanced query. Lists are powerful and flexible. Here are some places that allow you to have complete control over the list display.
 
 |Option|Description|
 |------|-----------|
@@ -96,7 +96,7 @@ Query
 
 </td><td>
 
-[[c_Filters|Filters]] the results using a [[c_ConditionBuilder|condition builder]].
+Filters the results using a condition builder.
 
 </td></tr><tr><td>
 
@@ -166,9 +166,3 @@ List definitions, similar to content management frames, are decorative container
 
 [Configure a detailed content block]()
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_Filters|Filters]]
-- [[c_ConditionBuilder|Condition builder]]

@@ -14,7 +14,7 @@ breadcrumb: [CPQ admin settings, CPQ with other apps, Integrate, Sales Customer 
 
 Control Admin access levels using CSV imports. Assign NONE, READ, EDIT, or ADMIN permissions to specific areas.
 
-**Note:** The [[please_share_your_feedback_on_admin_assist_responses|User Access]] utility is enabled via a support request. Open a ticket by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
+**Note:** The User Access utility is enabled via a support request. Open a ticket by using the [ServiceNow Support portal](https://support.servicenow.com). For step-by-step instructions, see [Create a case on Now Support for CPQ \(Logik.ai\) Customers](https://support.servicenow.com/kb?sys_kb_id=d67d3e71475d7a90f64de825126d4326&id=kb_article_view).
 
 ## Access levels
 
@@ -28,7 +28,7 @@ Control Admin access levels using CSV imports. Assign NONE, READ, EDIT, or ADMIN
 -   END\_USER
 -   CONFIG
 
-    Users with ADMIN can use the [[matrix_loader_table_of_contents|Matrix Loader]].
+    Users with ADMIN can use the Matrix Loader.
 
 -   TRANSACTION
 
@@ -44,8 +44,8 @@ Control Admin access levels using CSV imports. Assign NONE, READ, EDIT, or ADMIN
 -   DEPLOY
     -   Applies all blueprint, transaction, product catalog enrichment, and product filter deploys
     -   Roles are either NONE or ADMIN
--   [[cpq-utilities|UTILITIES]]
-    -   Logs, user access, runtime clients, admin API keys, external connections, settings, [[cpq-webhooks|webhooks]], connections
+-   UTILITIES
+    -   Logs, user access, runtime clients, admin API keys, external connections, settings, webhooks, connections
     -   Products \(for Ecommerce tenants\)
 -   Access to specific resources
 
@@ -67,7 +67,7 @@ Control Admin access levels using CSV imports. Assign NONE, READ, EDIT, or ADMIN
     -   READ correlates to GET endpoints
     -   EDIT additionally correlates to POST PUT PATCH DELETE endpoints
     -   ADMIN additionally correlates to Matrix Loader endpoints
--   DEPLOY\_NONE / DEPLOY\_ADMIN \(no EDIT or READ\): ADMIN everything deployment related, including Product Filter [[rules_101|Rules]] and Product Catalog Enrichment Deployments
+-   DEPLOY\_NONE / DEPLOY\_ADMIN \(no EDIT or READ\): ADMIN everything deployment related, including Product Filter Rules and Product Catalog Enrichment Deployments
 -   UTILITIES\_NONE / UTILITIES\_READ / UTILITIES\_ADMIN \(no EDIT\)
     -   READ correlates to GET endpoints
     -   ADMIN correlates to everything else
@@ -75,15 +75,7 @@ Control Admin access levels using CSV imports. Assign NONE, READ, EDIT, or ADMIN
 **Related topics**  
 
 
-[[cpq-using-uam|Using CPQ user access management]]
+[Using CPQ user access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-uam.md)
 
 [User access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[cpq-using-uam|Using CPQ user access management]]
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[cpq-utilities|Utilities]]
-- [[cpq-webhooks|Webhooks]]
-- [[rules_101|Rules]]

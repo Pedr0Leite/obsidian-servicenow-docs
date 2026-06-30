@@ -58,13 +58,10 @@ Role required: sn\_lg\_ops.request\_config, sn\_lg\_contracts.contracts\_config,
 
 ## Result
 
-The configuration for the Microsoft Dynamics CRM app is published and is ready to be used in [[legal-request-sales-contracts|sales contract review requests]].
+The configuration for the Microsoft Dynamics CRM app is published and is ready to be used in sales contract review requests.
 
 ## What to do next
 
 -   [Schedule import set jobs to pull data from the CRM system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/schedule-import-sales-contract-crm.md)
 -   [Create a deflection rule for sales contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/create-contract-deflection-rule.md)
 
-## Related
-
-- [[legal-request-sales-contracts|Sales contract review requests]]

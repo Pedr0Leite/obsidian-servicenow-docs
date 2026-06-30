@@ -14,7 +14,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 Configure permissions for non-Admin users in Salesforce to enable configuration and reconfiguration with Logik.
 
-To configure [[cpq-using|using CPQ]], users need access to certain objects and [[fields|fields]] in Salesforce. You can assign permissions by using permission [[cpq-sets|sets]] or by navigating to Profiles &gt; Select Desired Profile &gt; Object Settings. Make sure that the user also has read or edit access for the product option itself \(in the Object Permissions section\).
+To configure using CPQ, users need access to certain objects and fields in Salesforce. You can assign permissions by using permission sets or by navigating to Profiles &gt; Select Desired Profile &gt; Object Settings. Make sure that the user also has read or edit access for the product option itself \(in the Object Permissions section\).
 
 Users must have read or edit access to the following objects. You can assign these permissions in the Field Permissions section.
 
@@ -75,8 +75,3 @@ The full list of objects and fields contained in the Logik packages can be found
 
 Selecting one of these packages and clicking **View Components** shows a list of SFDC objects and fields created by the package, along with their name, type, and parent object \(if any\). Specifically, the fields in "Logik Extension for Salesforce CPQ" are the fields a user must have access to in order to properly configure and reconfigure CPQ enabled products in Salesforce CPQ.
 
-## Related
-
-- [[cpq-using|Using CPQ]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

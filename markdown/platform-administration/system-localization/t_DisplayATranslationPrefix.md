@@ -24,11 +24,11 @@ Role required: admin
 
 You can set translation prefixes to appear only in the current user session or to appear in all sessions.
 
-Translation prefixes map to [[r_TranslationTables|translation tables]] as follows.
+Translation prefixes map to translation tables as follows.
 
 |Prefix|Table|Navigation|
 |------|-----|----------|
-|TRF|Translated Name / Fields \[sys\_translated\]|**[[system-localization-landing|System Localization]]** &gt; **Translated Names / Fields**|
+|TRF|Translated Name / Fields \[sys\_translated\]|**System Localization** &gt; **Translated Names / Fields**|
 |MSG|Messages \[sys\_ui\_message\]|**System Localization** &gt; **Messages**|
 |GMLD|Field Label \[sys\_documentation\]|**System Localization** &gt; **Field Labels**|
 |TRT|Translated Text \[sys\_translated\_text\]|**System Localization** &gt; **Translated Text**|
@@ -44,7 +44,7 @@ Translation prefixes map to [[r_TranslationTables|translation tables]] as follow
 1.  Enable translation prefixes on field labels.
 
     -   To enable prefixes for the current user session, navigate to **All** &gt; **System Localization** &gt; **Enable I18N Debugging**.
-    -   To enable prefixes for all sessions, navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **System Localization** and set **Display translation prefix on translatable strings** to **Yes**.
+    -   To enable prefixes for all sessions, navigate to **All** &gt; **System Properties** &gt; **System Localization** and set **Display translation prefix on translatable strings** to **Yes**.
 
         \[Omitted image "TranslationProperty.png"\] Alt text: Translation property.
 
@@ -67,11 +67,5 @@ When you are done debugging, disable the translation prefixes.
 **Related topics**  
 
 
-[System [[ia-localization-il|Localization]] properties]()
+[System Localization properties]()
 
-## Related
-
-- [[r_TranslationTables|Translation tables]]
-- [[system-localization-landing|System Localization]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[ia-localization-il|Localization]]

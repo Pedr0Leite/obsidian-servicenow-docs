@@ -54,7 +54,7 @@ Active
 
 </td><td>
 
-Option for indicating the status of the widget.Only active widgets can be shown on the **Financials** tab of the [[project-workspace-landing-page|Project Workspace]].
+Option for indicating the status of the widget.Only active widgets can be shown on the **Financials** tab of the Project Workspace.
 
 </td></tr><tr><td>
 
@@ -109,6 +109,3 @@ Description of the widget.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

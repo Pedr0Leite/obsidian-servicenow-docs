@@ -18,14 +18,14 @@ Plan owners create and update task templates that are used in plan configuration
 
 ## Before you begin
 
-Role required: Owner or co-owner of a [[jny-dsgnr-landing-page-1|Journey designer]] plan configuration.
+Role required: Owner or co-owner of a Journey designer plan configuration.
 
 ## About this task
 
-[[jny-dsgnr-owner-role-and-responsibility|Journey designer plan configuration owners]] can change or create task templates for a plan configuration.
+Journey designer plan configuration owners can change or create task templates for a plan configuration.
 
 -   Add task templates to a stage.
--   [[jny-dsgnr-create-task-template|Create a task template]].
+-   Create a task template.
 -   Preview a template as a selected employee.
 -   Publish a journey template \(plan configuration\) for approval by reviewer.
 
@@ -35,7 +35,7 @@ Role required: Owner or co-owner of a [[jny-dsgnr-landing-page-1|Journey designe
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] service portal, navigate to the **Journeys** page.
+1.  From the Employee Center service portal, navigate to the **Journeys** page.
 
 2.  Select the **Journey templates** tab.
 
@@ -60,7 +60,7 @@ Description
 </td><td>
 
 1.  Select **Add task template** for the **Stage** that includes the task template you’re adding a task template to.
-2.  Select **[[ut-use-task-template|Use task templates]]** and click **Next**.
+2.  Select **Use task templates** and click **Next**.
 3.  Select all the templates that you want to add.
 4.  Select **Use templates**.
 5.  Select **Add Templates**.
@@ -96,10 +96,3 @@ Description
 
 **Parent Topic:**[Journey designer plan configuration owners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-owner-role-and-responsibility.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-dsgnr-owner-role-and-responsibility|Journey designer plan configuration owners]]
-- [[jny-dsgnr-create-task-template|Create a task template]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ut-use-task-template|Use Task templates]]

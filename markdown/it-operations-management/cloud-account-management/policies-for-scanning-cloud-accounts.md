@@ -14,7 +14,7 @@ breadcrumb: [Cloud Account Management reference, Cloud Account Management, ITOM 
 
 # Policy list for scanning cloud accounts
 
-A list of default policies provided for scanning the [[cloud-accounts|cloud accounts]].
+A list of default policies provided for scanning the cloud accounts.
 
 ## Default policies for scan accounts
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Check AWS [[r-discovery|Discovery]] Schedule
+Check AWS Discovery Schedule
 
 </td><td>
 
@@ -151,7 +151,3 @@ Verifies if GCP account certification is in a pending state. This monitoring ena
 
 **Parent Topic:**[Cloud Account Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-reference.md)
 
-## Related
-
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]

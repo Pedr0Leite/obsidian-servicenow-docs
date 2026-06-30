@@ -35,8 +35,5 @@ Role required: sn\_hr\_oracle\_adv.admin
 
 ## What to do next
 
-An employee can add the View Oracle Total Rewards widget to any ServiceNow page. An employee will not be able to view this widget if the Person ID \(Correlation\_ID\) is missing in the [[c_HRProfileRecords|HR profile]] \[sn\_hr\_core\_profile\] table.
+An employee can add the View Oracle Total Rewards widget to any ServiceNow page. An employee will not be able to view this widget if the Person ID \(Correlation\_ID\) is missing in the HR profile \[sn\_hr\_core\_profile\] table.
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

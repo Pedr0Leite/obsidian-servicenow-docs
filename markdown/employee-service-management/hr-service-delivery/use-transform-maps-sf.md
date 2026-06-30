@@ -14,7 +14,7 @@ breadcrumb: [Use, HR Service Delivery Integration with SuccessFactors, Integrati
 
 # Use transform maps
 
-[[transform-maps-navex|Transform maps]] specify data relationships between source table and target table.
+Transform maps specify data relationships between source table and target table.
 
 For details on the transform maps, navigate to **Integrations Framework** &gt; **Transform maps**. For more information, see [Create transform maps in Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/transform-maps-HR.md)
 
@@ -31,12 +31,7 @@ For details on the transform maps, navigate to **Integrations Framework** &gt; *
 
 [Field mappings]()
 
-[Now Assist Virtual Agent topics for [[hr-service-delivery|HR Service Delivery]] Integration with SuccessFactors]()
+[Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors]()
 
-[Use [[conversational-agents|HCM AI agents]] for HR Service Delivery Integration with SuccessFactors]()
+[Use HCM AI agents for HR Service Delivery Integration with SuccessFactors]()
 
-## Related
-
-- [[transform-maps-navex|Transform maps]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[conversational-agents|HCM AI agents]]

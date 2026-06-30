@@ -17,7 +17,7 @@ As an administrator, you can roll back the last installation of a selected appli
 ## Before you begin
 
 -   Publish one or more applications to the application repository.
--   The selected application must have been installed in the application repository or the application store. See [[t_InstallApplications|Install a ServiceNow Store application]].
+-   The selected application must have been installed in the application repository or the application store. See [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
 
 Role required: admin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 You can roll back the last installation or upgrade of all applications that are installed from the application store or repository. Rolling back an installation enables you to make needed changes to artifacts associated with an application before you publish and install it again.
 
-**Note:** This rollback does not affect the global application record. To remove the global application record, you must instead perform an uninstall of the application. See [[t_UninstallApplications|Uninstall an application]].
+**Note:** This rollback does not affect the global application record. To remove the global application record, you must instead perform an uninstall of the application. See [Uninstall an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_UninstallApplications.md).
 
 ## Procedure
 
@@ -38,15 +38,10 @@ You can roll back the last installation or upgrade of all applications that are 
 4.  In the custom application record, click the **Rollback** related link.
 
 
-**Parent Topic:**[[c_RemovingApplications|Rolling back and removing applications]]
+**Parent Topic:**[Rolling back and removing applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_RemovingApplications.md)
 
 **Related topics**  
 
 
 [Uninstall an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_UninstallApplications.md)
 
-## Related
-
-- [[t_InstallApplications|Install a ServiceNow Store application]]
-- [[t_UninstallApplications|Uninstall an application]]
-- [[c_RemovingApplications|Rolling back and removing applications]]

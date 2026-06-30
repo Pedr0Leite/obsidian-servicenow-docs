@@ -26,7 +26,7 @@ Role required: sn\_prd\_pm.product\_catalog\_manager
 
 3.  Select **New**.
 
-    In the form, fill in the [[fields|fields]].
+    In the form, fill in the fields.
 
 <table id="table_ltt_nkn_11c"><thead><tr><th>
 
@@ -98,7 +98,7 @@ Start date
 
 </td><td>
 
-Date and time that the catalog is available for [[order-mgt-overview|Sales Customer Relationship Management]] applications. Select the Calendar icon to choose the start date and time, then select **OK**.
+Date and time that the catalog is available for Sales Customer Relationship Management applications. Select the Calendar icon to choose the start date and time, then select **OK**.
 
 </td></tr><tr><td>
 
@@ -133,13 +133,7 @@ Create product offering categories.
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

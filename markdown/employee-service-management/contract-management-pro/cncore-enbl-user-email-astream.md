@@ -15,7 +15,7 @@ breadcrumb: [Configure additional features in CM Pro, Configure, Contract Manage
 
 # Enable users to view email details in activity stream
 
-As a contract configurator, specify the user roles to enable users to view email details in the [[activity-lxp|activity]] stream of contract requests.
+As a contract configurator, specify the user roles to enable users to view email details in the activity stream of contract requests.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ The users with the assigned role that has been added to the system property can 
 
 [Manage notifications in Contract Management Pro]()
 
-## Related
-
-- [[activity-lxp|Activity]]

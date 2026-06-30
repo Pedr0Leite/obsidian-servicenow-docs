@@ -14,7 +14,7 @@ breadcrumb: [Templates, Work orders, Set up work orders and tasks, Configure, Fi
 
 # Create a work order template
 
-[[fsm-application-landing-page|Field Service Management]] uses the work order template as a source of information for populating fields in a work order.
+Field Service Management uses the work order template as a source of information for populating fields in a work order.
 
 ## Before you begin
 
@@ -119,7 +119,7 @@ Parts and quantities
 
 </td><td>
 
-Parts requirements and quantities, as needed. If you selected **[[c_PartRequirements|Part requirements]] are not needed by agents** on the Field Service Configuration screen, the **Parts and quantities** fields aren’t displayed. **Note:** Select the **Mandatory** check box in front of all the parts that are required to perform the work order task.
+Parts requirements and quantities, as needed. If you selected **Part requirements are not needed by agents** on the Field Service Configuration screen, the **Parts and quantities** fields aren’t displayed. **Note:** Select the **Mandatory** check box in front of all the parts that are required to perform the work order task.
 
 </td></tr><tr><td>
 
@@ -179,7 +179,4 @@ Indicator of work type associated with work order tasks that requires a group of
 
 8.  When you have completed your entries, select **Submit**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]

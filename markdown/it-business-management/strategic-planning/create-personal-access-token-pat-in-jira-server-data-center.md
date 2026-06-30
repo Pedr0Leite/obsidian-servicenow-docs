@@ -14,7 +14,7 @@ breadcrumb: [Set up a Jira instance, Configure, SPW Jira Integrations, Strategic
 
 # Create Personal Access Token in Jira Server/Data Center for SPW Jira Integrations
 
-Create a Personal Access Token \(PAT\) for your Jira Server/Data Center instance, which is later used to create a connection between [[alignment-planner-workspace-landing-page|Strategic Planning]] and Jira.
+Create a Personal Access Token \(PAT\) for your Jira Server/Data Center instance, which is later used to create a connection between Strategic Planning and Jira.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Use this PAT as password while creating connection and credential for your Jira 
 
 **Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/setting-up-jira-instance-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

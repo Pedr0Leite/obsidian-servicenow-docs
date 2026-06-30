@@ -12,7 +12,7 @@ breadcrumb: [Set up pillars and entity types from Workspace UI, Setting up pilla
 
 # Entity type New record form
 
-Use the Entity type new record form to [[create-new-entity-type-ws|create an entity type]] depending on your business requirement.
+Use the Entity type new record form to create an entity type depending on your business requirement.
 
 ## Entity type new record form
 
@@ -40,7 +40,7 @@ Compliance Score Percentage
 
 </td><td>
 
-Compliance score percentage for the entity type as defined in the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application. Auto-populated field.
+Compliance score percentage for the entity type as defined in the Policy and Compliance Management application. Auto-populated field.
 
 </td></tr><tr><td>
 
@@ -85,8 +85,3 @@ Functional domain for the entity, for example, IT and risk compliance.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-new-entity-type-ws|Create an entity type]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

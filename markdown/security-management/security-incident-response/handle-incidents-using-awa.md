@@ -22,7 +22,7 @@ Role required: sn\_si.analyst and awa\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select the **Inbox** button.
 
@@ -57,7 +57,7 @@ Role required: sn\_si.analyst and awa\_agent
 
 [Prerequisites for the Playbooks]()
 
-[Rebuilding existing [[tisc-playbooks-admin|playbooks]] in Workflow Studio]()
+[Rebuilding existing playbooks in Workflow Studio]()
 
 [Activity Definitions]()
 
@@ -69,7 +69,3 @@ Role required: sn\_si.analyst and awa\_agent
 
 [Security Incident Closure workflow]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[tisc-playbooks-admin|Playbooks]]

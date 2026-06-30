@@ -16,7 +16,7 @@ breadcrumb: [Project Portfolio Management, Strategic Portfolio Management]
 
 Benefit plans capture the potential benefits accrued by the work item when the work item is executed. You can create benefit plans to specify the estimated benefits in a category for a fiscal period.
 
-Monetary and non-monetary benefit plans capture the financial and non-financial benefits respectively. You can also [[associate-benefit-plans-agile-epic|associate monetary and non-monetary benefit plans]] with each other, so that you can capture the potential benefits \(financial and non-financial\) accrued by the work item for the hybrid benefit plans.
+Monetary and non-monetary benefit plans capture the financial and non-financial benefits respectively. You can also associate monetary and non-monetary benefit plans with each other, so that you can capture the potential benefits \(financial and non-financial\) accrued by the work item for the hybrid benefit plans.
 
 ## Benefit Plans in Project Management
 
@@ -44,6 +44,3 @@ Monetary and non-monetary benefit plans capture the financial and non-financial 
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]

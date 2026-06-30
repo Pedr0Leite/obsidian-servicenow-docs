@@ -12,7 +12,7 @@ breadcrumb: [Create an external agent, Create an AI agent, Now Assist AI agents,
 
 # Create an external AI agent with the Agent2Agent protocol
 
-Create external AI agents in [[ai-agent-studio|AI Agent Studio]] to connect the ServiceNow AI Platform with third-party agentic AI providers.
+Create external AI agents in AI Agent Studio to connect the ServiceNow AI Platform with third-party agentic AI providers.
 
 ## Before you begin
 
@@ -78,7 +78,7 @@ Under **Advanced settings**, Select subflow
 
 </td><td>
 
-Subflow that establishes Agent2Agent protocol. The default subflow should handle the majority of [[cases|cases]], but you can also create your own.
+Subflow that establishes Agent2Agent protocol. The default subflow should handle the majority of cases, but you can also create your own.
 
 </td></tr></tbody>
 </table>    2.  Select **Discover external AI agent** to validate the connection to your external agent.
@@ -99,7 +99,7 @@ Subflow that establishes Agent2Agent protocol. The default subflow should handle
 
     1.  Review your AI agent description.
 
-        You can leave your AI agent description as it is, or you can add a longer description to help differentiate the agent from other AI agents. This helps enable the AI Agent Orchestrator to use your external AI agent more effectively. For suggestions for writing AI agent descriptions, see [[gg-creating-aia|General guidelines for creating AI agents and agentic workflows]].
+        You can leave your AI agent description as it is, or you can add a longer description to help differentiate the agent from other AI agents. This helps enable the AI Agent Orchestrator to use your external AI agent more effectively. For suggestions for writing AI agent descriptions, see [General guidelines for creating AI agents and agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/gg-creating-aia.md).
 
     2.  Set your communication mode to either **Synchronous** or **Asynchronous**.
 
@@ -113,11 +113,11 @@ Subflow that establishes Agent2Agent protocol. The default subflow should handle
 
         \[Omitted image "external-aia-a2a-define.png"\] Alt text: Summary of AI agent details and activate button
 
-        **Note:** For more information about the API Key credential, see [[a2a-api-key-credential-behavior|A2A API Key credential behavior]].
+        **Note:** For more information about the API Key credential, see [A2A API Key credential behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/a2a-api-key-credential-behavior.md).
 
     4.  Configure access control lists \(ACLs\) for the AI agent.
 
-        **Note:** The ACLs determine who has access to discover and execute the AI agent. To learn more about the ACLs you can create in AI Agent Studio and how to add more advanced security [[exploring-ai-governance|configurations]], see [[aia-security-implementation|Implement access control in Now Assist AI agents]].
+        **Note:** The ACLs determine who has access to discover and execute the AI agent. To learn more about the ACLs you can create in AI Agent Studio and how to add more advanced security configurations, see [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
 
         This is a required step. If you have previously configured an AI agent without creating an ACL, you must generate an ACL before you can make other modifications.
 
@@ -183,19 +183,7 @@ Your external AI agent is connected to ServiceNow.
 
 ## What to do next
 
-You can [[test-ai-agent|test an execution of your AI agent]] or [[test-aia-access|its data access]]. You can also add it to a new or existing agentic workflow. See [[configure-use-case-ai-agents|Create an agentic workflow]] for the steps to create or configure an agentic workflow.
+You can [test an execution of your AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) or [its data access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md). You can also add it to a new or existing agentic workflow. See [Create an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-use-case-ai-agents.md) for the steps to create or configure an agentic workflow.
 
-**Parent Topic:**[[create-external-aia|Create an external AI agent]]
+**Parent Topic:**[Create an external AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-external-aia.md)
 
-## Related
-
-- [[gg-creating-aia|General guidelines for creating AI agents and agentic workflows]]
-- [[a2a-api-key-credential-behavior|A2A API Key credential behavior]]
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[test-aia-access|Test user access to an AI agent]]
-- [[configure-use-case-ai-agents|Create an agentic workflow]]
-- [[create-external-aia|Create an external AI agent]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[cases|Cases]]
-- [[exploring-ai-governance|Configurations]]

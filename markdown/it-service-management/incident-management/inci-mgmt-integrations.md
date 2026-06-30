@@ -14,13 +14,10 @@ breadcrumb: [Reference, Incident Management, IT Service Management]
 
 # Incident Management integrations
 
-Users of an [[c_IncidentManagement|incident management]] solution need to have access to a multitude of features so that they can address specific challenges directly. Incident Management integrations aims to fully integrate and automate your incident response system.
+Users of an incident management solution need to have access to a multitude of features so that they can address specific challenges directly. Incident Management integrations aims to fully integrate and automate your incident response system.
 
 -   **[Universal Request integration - Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/inci-mgmt-integ-with-univ-req.md)**  
 Incident Management integrates with Universal Request to provide incident-related service as unified services to users. The integration helps users to have a single service desk.
 
 **Parent Topic:**[Reference section for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

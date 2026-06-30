@@ -14,7 +14,7 @@ breadcrumb: [Integration with ServiceNow applications, Legal Service Delivery, L
 
 # Contract Management Pro for Legal Service Delivery
 
-With the Legal [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]], you can configure and automate the legal contract lifecycle by creating contract [[document-templates-overview|document templates]], clauses, and clause variations. The legal contract lifecycle enables you to submit, review, finalize, and manage legal contract and amendmentrequests. The integration also supports e-signatures and external storage systems.
+With the Legal Contract Management Pro for Legal Service Delivery, you can configure and automate the legal contract lifecycle by creating contract document templates, clauses, and clause variations. The legal contract lifecycle enables you to submit, review, finalize, and manage legal contract and amendmentrequests. The integration also supports e-signatures and external storage systems.
 
 ## Get started
 
@@ -24,11 +24,11 @@ With the Legal [[snlc-expl-legal-contracts|Contract Management Pro for Legal Ser
 
 </td><td>
 
-[Configure \[Omitted image "bus-explore.svg"\] Alt text: Install and [[snlc-config-sn-legal-contracts|configure Contract Management Pro for Legal Service Delivery]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)
+[Configure \[Omitted image "bus-explore.svg"\] Alt text: Install and configure Contract Management Pro for Legal Service Delivery.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)
 
 </td><td>
 
-[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: [[snlc-use-sn-legal-cont-landing|Use Contract Management Pro for Legal Service Delivery]] to submit, review, finalize, and manage legal contract requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
+[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Use Contract Management Pro for Legal Service Delivery to submit, review, finalize, and manage legal contract requests.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-use-sn-legal-cont-landing.md)
 
 </td></tr><tr><td>
 
@@ -40,7 +40,7 @@ With the Legal [[snlc-expl-legal-contracts|Contract Management Pro for Legal Ser
 
 </td><td>
 
-[Now Assist in Contract Management \[Omitted image "bus-ai-sparkle.svg"\] Alt text: Use [[cncore-now-assit-landing|Now Assist in Contract Management]] to enhance user productivity using generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md)
+[Now Assist in Contract Management \[Omitted image "bus-ai-sparkle.svg"\] Alt text: Use Now Assist in Contract Management to enhance user productivity using generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -53,21 +53,11 @@ With the Legal [[snlc-expl-legal-contracts|Contract Management Pro for Legal Ser
 -   **[Explore Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-expl-sn-legal-contracts.md)**  
 Learn more about Contract Management Pro for Legal Service Delivery through a sample workflow and review the benefits it can provide.
 -   **[Configure Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-config-sn-legal-contracts.md)**  
-[[snlc-install-legal-contracts|Install Contract Management Pro for Legal Service Delivery]] and [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]. Set up the requirements for managing legal contract requests.
+Install Contract Management Pro for Legal Service Delivery and Microsoft Word add-in for ServiceNow Contracts. Set up the requirements for managing legal contract requests.
 -   **[Use Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-use-sn-legal-cont-landing.md)**  
 Use Contract Management Pro for Legal Service Delivery to submit legal requests for non-disclosure agreement \(NDA\) and third-party contracts.
 -   **[Contract Management Pro for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-ref-sn-legal-contracts.md)**  
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about Contract Management Pro for Legal Service Delivery.
+Reference topics provide additional information about Contract Management Pro for Legal Service Delivery.
 
 **Parent Topic:**[Integration of Legal Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snclc-integrate-lsd-lp.md)
 
-## Related
-
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[document-templates-overview|Document Templates]]
-- [[snlc-config-sn-legal-contracts|Configure Contract Management Pro for Legal Service Delivery]]
-- [[snlc-use-sn-legal-cont-landing|Use Contract Management Pro for Legal Service Delivery]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[snlc-install-legal-contracts|Install Contract Management Pro for Legal Service Delivery]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

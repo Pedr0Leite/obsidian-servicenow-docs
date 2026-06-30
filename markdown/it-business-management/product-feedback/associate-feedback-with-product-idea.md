@@ -22,7 +22,7 @@ Role required: pf\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -42,6 +42,3 @@ Role required: pf\_user
 
 [Associate a feedback or a product idea record with a non-planning item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/associate-feedback-with-non-planning-item.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

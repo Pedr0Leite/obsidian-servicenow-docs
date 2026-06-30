@@ -18,7 +18,7 @@ You can drill down within benchmark KPI data for further analysis within Perform
 
 ## Before you begin
 
-**Note:** When drilling down on a benchmark value, [[benchmarks-landing|Benchmarks]] viewers must have the pa\_viewer role to view Performance Analytics scorecards.
+**Note:** When drilling down on a benchmark value, Benchmarks viewers must have the pa\_viewer role to view Performance Analytics scorecards.
 
 Role required: sn\_bm\_client.benchmark\_admin or sn\_bm\_client.benchmark\_data\_viewer with pa\_viewer role
 
@@ -38,6 +38,4 @@ You can drill down on a benchmark value from the KPI performance trends chart to
 
     **Note:** For additional analysis on **Chart**, **Scores**, **Comments**, or **More info**, see [Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-overview.md).
 
-## Related
 
-- [[benchmarks-landing|Benchmarks]]

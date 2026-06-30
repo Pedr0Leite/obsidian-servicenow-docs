@@ -28,7 +28,7 @@ The Zscaler internet and web gateway product is delivered from the cloud. It pro
 
 This integration includes the following key features:
 
--   Reputation lookup of [[c_Observables|observables]] against the global threat library that the Zscaler product maintains.
+-   Reputation lookup of observables against the global threat library that the Zscaler product maintains.
 
     **Note:** The Zscaler global threat library lists threats by trends, country of origin, target destination, volume, and various threat categories. This global threat library enables you to investigate your observables against the global threat landscape.
 
@@ -39,7 +39,7 @@ This integration includes the following key features:
 -   ServiceNow AI Platform security incidents that can be tagged to identify the URL category that the observables are added to.
 -   Expiration periods that maintain the size of the URL category list entries by automatically expiring or removing the older entries.
 -   Approval workflow for adding and removing observables from the URL category lists.
--   URL category entries that can be linked to observable records and security incidents that include [[threat-intel-landing-page|threat intelligence]] results and details about why an entry is blocked.
+-   URL category entries that can be linked to observable records and security incidents that include threat intelligence results and details about why an entry is blocked.
 
 ## Learn about this integration
 
@@ -48,7 +48,3 @@ This integration includes the following key features:
 |Zscaler product documentation website|[ZScaler Product Documentation website](https://help.zscaler.com/)|
 |ServiceNow product documentation website|[ServiceNow Product Documentation website](https://www.servicenow.com/docs)|
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]

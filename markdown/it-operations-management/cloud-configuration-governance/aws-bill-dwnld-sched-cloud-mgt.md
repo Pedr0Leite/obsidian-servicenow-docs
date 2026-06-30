@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and
 
 # Define the schedule for downloading AWS billing data
 
-Define the scheduled job that regularly uses a MID Server to download billing data from the provider. [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] saves the data in a cost table and uses the information to generate reports.
+Define the scheduled job that regularly uses a MID Server to download billing data from the provider. Cloud Provisioning and Governance saves the data in a cost table and uses the information to generate reports.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Define the scheduled job that regularly uses a MID Server to download billing da
 Starting with the Vancouver release, the Billing dashboard is no longer available if you have downloaded and activated the ServiceNow Store Cloud Cost Management app. The following changes occur:
 
 -   You are redirected to the Cloud Cost Management home page by default.
--   The View Dashboard widget in the [[cloudmgt-cloud-user-portal|Cloud User portal]] is replaced by the View Resources widget.
+-   The View Dashboard widget in the Cloud User portal is replaced by the View Resources widget.
 -   The Current Month Spend widget and the Budget widget on the Cloud User portal do not show any data if Cloud Cost Management is activated on the instance.
 
 If you have activated the Cloud Cost Management app, you can only navigate to the Billing Dashboard, if you are using Cloud Provisioning and Governance on a domain separated instance.
@@ -46,7 +46,7 @@ This procedure involves two tasks:
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Analyze** &gt; **Billing**.
+1.  In the Cloud Admin Portal, navigate to **Analyze** &gt; **Billing**.
 
 2.  On the **Billing Schedules** tab, click **New**, enter a unique and meaningful **Name**, and then fill in the form.
 
@@ -126,8 +126,3 @@ Time of day that the download job should run.
 
 [Cloud credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CloudManagementCredentialsForm.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

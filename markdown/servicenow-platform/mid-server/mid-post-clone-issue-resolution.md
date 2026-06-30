@@ -14,7 +14,7 @@ breadcrumb: [Resolving MID Server issues, MID Server reference, MID Server, Mana
 
 # Active MID Server post-cloning credential issues
 
-The system provides automatic processes to detect and [[notify-landing-page|notify]] you of possible [[mid-server-landing|MID Server]] credential issues after instance cloning.
+The system provides automatic processes to detect and notify you of possible MID Server credential issues after instance cloning.
 
 During an instance clone, the MID Server \[ecc\_agent\] table is not copied from the source instance, but the User \[sys\_user\] table is copied. As a result, the source MID Server user credentials copied into the target instance might not match those used by the existing set of MID Servers used by the target. Bad credentials can cause those MID Servers to be down for the target instance. Processes on the instance notify you if a MID Server is down from suspected bad credentials following an instance clone.
 
@@ -45,7 +45,3 @@ Attempt to resolve the issue first by comparing the user's credentials with the 
 
 **Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[mid-server-landing|MID Server]]

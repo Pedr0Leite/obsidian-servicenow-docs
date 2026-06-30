@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Create pallet assets in the Enterprise Asset Workspace
 
-[[create-pallet-assets|Create pallet assets]] to track and manage the pallets that can transport and store your enterprise, hardware, base, bundle, and [[c_ReceiveAConsumableAsset|consumable assets]].
+Create pallet assets to track and manage the pallets that can transport and store your enterprise, hardware, base, bundle, and consumable assets.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or sn\_eam.enterprise\_asset\_
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Enterprise [[asset-estate-view-am|asset estate view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 2.  On the **All assets** tab, select **New pallet asset**.
 
@@ -46,7 +46,7 @@ Vendor
 
 </td><td>
 
-Vendor that the pallet was purchased from. If the pallet was automatically created from a [[c_Procurement|procurement]] purchase order, the **Vendor** field is automatically set to the same vendor that was specified on the purchase order.
+Vendor that the pallet was purchased from. If the pallet was automatically created from a procurement purchase order, the **Vendor** field is automatically set to the same vendor that was specified on the purchase order.
 
 </td></tr><tr><td>
 
@@ -247,10 +247,3 @@ You can manage your asset inventory by using pallets and the assets contained wi
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[create-pallet-assets|Create pallet assets]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[c_Procurement|Procurement]]

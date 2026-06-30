@@ -12,7 +12,7 @@ breadcrumb: [Telecommunications, Media, and Technology \(TMT\)]
 
 # Product Support for Technology
 
-ServiceNow® Product Support for Technology provide a way for [[telecom-media-tech-landing|telecommunications, media, and technology \(TMT\)]] service providers to deliver end-to-end support, while understanding customer impact, and offering transparent communication to all parties involved in the support process.
+ServiceNow® Product Support for Technology provide a way for telecommunications, media, and technology \(TMT\) service providers to deliver end-to-end support, while understanding customer impact, and offering transparent communication to all parties involved in the support process.
 
 ## Applications and features
 
@@ -32,13 +32,9 @@ ServiceNow® Product Support for Technology provide a way for [[telecom-media-te
 </table>## Additional resources
 
 -   Learn more about what's new and changed, see the [Product Support for Technology release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/proactive-service-experience-workflows-rn.md).
--   Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [[tmt-api-reference|TMF APIs for TMT]].
+-   Review the multiple TM Forum \(TMF\) Open APIs supported for the product, see [TMF APIs for TMT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/tmt-api-reference.md).
 -   Log in to your ServiceNow® account and find additional information about implementing and deploying Product Support for Technology features at [Now Create](https://learning.servicenow.com/nowcreate).
 -   Access real-time courses, self-paced training, and career resources at [ServiceNow University](https://learning.servicenow.com/lxp/en/pages/servicenow)
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Product Support for Technology users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[tmt-api-reference|TMF APIs for TMT]]
-- [[telecom-media-tech-landing|Telecommunications, Media, and Technology \(TMT\)]]

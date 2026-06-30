@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Alexa, Integrating Virtual Agent wi
 
 # Configure Conversational Integration with Alexa
 
-Install and set up the [[conv-integ-alexa|Conversational Integration with Alexa]] application to enable users to interact with a [[virtual-agent-landing-page|virtual agent]].
+Install and set up the Conversational Integration with Alexa application to enable users to interact with a virtual agent.
 
 Configure Conversational Integration with Alexa to enable interaction with Virtual Agent through the Alexa voice interface.
 
@@ -33,7 +33,3 @@ Enable virtual agents to effectively manage their active Alexa chat conversation
 
 **Parent Topic:**[Conversational Integration with Alexa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conv-integ-alexa.md)
 
-## Related
-
-- [[conv-integ-alexa|Conversational Integration with Alexa]]
-- [[virtual-agent-landing-page|Virtual Agent]]

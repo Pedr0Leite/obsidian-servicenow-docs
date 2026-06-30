@@ -30,7 +30,7 @@ Role required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Deployment** &gt; **Agent Downloads**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Deployment** &gt; **Agent Downloads**.
 
 2.  From the Windows Download section, download the MSI installer by selecting the Download icon \(\[Omitted image "icon-download-blue.png"\] Alt text: Select the download icon to download the application.\).
 
@@ -205,6 +205,3 @@ Uninstall the Agent Client Collector from a Windows machine by running an effici
 
 **Parent Topic:**[Agent Client Collector installation on a Windows machine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-windows-install-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

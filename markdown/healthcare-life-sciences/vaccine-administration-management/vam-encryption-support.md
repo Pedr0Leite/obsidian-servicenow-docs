@@ -14,7 +14,7 @@ breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life S
 
 # Encryption options in Vaccine Administration Management
 
-[[hcls-vam|Vaccine Administration Management]] provides encryption support to secure sensitive information.
+Vaccine Administration Management provides encryption support to secure sensitive information.
 
 Encryption helps to prevent unauthorized users from viewing sensitive healthcare data.
 
@@ -212,7 +212,3 @@ long\_term\_health\_issues
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

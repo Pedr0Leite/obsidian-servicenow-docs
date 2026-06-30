@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.walkup\_admin, sn\_walkup.walkup\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[appointment-booking|Appointment Booking]]** &gt; **Appointment Reasons**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Appointment Booking** &gt; **Appointment Reasons**.
 
 2.  On the Walk-up Reasons for Visit list, select **New**.
 
@@ -42,7 +42,3 @@ Role required: sn\_hr\_core.walkup\_admin, sn\_walkup.walkup\_manager
 
 Add the reasons to the walk-up location queue that you want to use for appointment booking. For more information, see [Create or modify Walk-up Experience locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-walkup-location.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[appointment-booking|Appointment Booking]]

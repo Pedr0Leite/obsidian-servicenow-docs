@@ -16,7 +16,7 @@ breadcrumb: [Explore, Third-party Risk Management, Governance, Risk, and Complia
 
 Conducting due diligence on third parties is a crucial component of your comprehensive third-party risk program. You conduct due diligence to become aware of the risks that are associated with a third party so that you can confidently decide how to form your relationship.
 
-Third-party risk management concentrates on evaluating and managing the risks introduced by external parties. This includes assessing [[factors|factors]] such as cybersecurity risks, data privacy compliance, financial stability, regulatory compliance, and [[grc-opres-landing-page|operational resilience]] associated with the engagements. You conduct due diligence \(an investigation or examination of business relationship risk\), to make informed decisions, establish appropriate controls, and mitigate the potential negative impact of engaging with third parties.
+Third-party risk management concentrates on evaluating and managing the risks introduced by external parties. This includes assessing factors such as cybersecurity risks, data privacy compliance, financial stability, regulatory compliance, and operational resilience associated with the engagements. You conduct due diligence \(an investigation or examination of business relationship risk\), to make informed decisions, establish appropriate controls, and mitigate the potential negative impact of engaging with third parties.
 
 ## Goals of due diligence
 
@@ -50,7 +50,3 @@ Third-party risk management concentrates on evaluating and managing the risks in
 
 [Types of due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-due-diligence-types.md)
 
-## Related
-
-- [[factors|factors]]
-- [[grc-opres-landing-page|Operational Resilience]]

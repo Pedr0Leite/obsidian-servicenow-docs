@@ -22,9 +22,9 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-[[c_requestAPI|Request]] the [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 Update 1 plugin. Contact Customer Service and Support to request the SAML 2.0 Single Sign-On - Update 1: security enhancements plugin. The plugin applies updated versions of the SAML2SingleSignon installation exit \(login script\), SAML2Logout installation exit \(logout script\), and SAML2 script include \(script object\).
+Request the SAML 2.0 Update 1 plugin. Contact Customer Service and Support to request the SAML 2.0 Single Sign-On - Update 1: security enhancements plugin. The plugin applies updated versions of the SAML2SingleSignon installation exit \(login script\), SAML2Logout installation exit \(logout script\), and SAML2 script include \(script object\).
 
-Merge customizations from existing installation exit scripts into new scripts. The update saves an inactive copy of the integration's original installation exit scripts. You can use these copies to merge any customizations that you made to the login and logout scripts to the new versions of these [[r_InstallationExits|installation exits]].
+Merge customizations from existing installation exit scripts into new scripts. The update saves an inactive copy of the integration's original installation exit scripts. You can use these copies to merge any customizations that you made to the login and logout scripts to the new versions of these installation exits.
 
 |Original Installation Exit Script Name|Original Script Status|New Installation Exit Script Name|New Script Status|
 |--------------------------------------|----------------------|---------------------------------|-----------------|
@@ -51,7 +51,7 @@ Test the Update.
 
 2.  Attempt SAML 2.0 login.
 
-3.  Review the [[r_SystemLogs|system log]].
+3.  Review the system log.
 
     SAML2 validation errors begin with the text SAML2ValidationError.
 
@@ -59,9 +59,4 @@ Test the Update.
 
     For more information, see [Multi-SSO \(SAML 2.0\) errors and fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/saml-errors.md).
 
-## Related
 
-- [[c_requestAPI|request]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[r_InstallationExits|Installation exits]]
-- [[r_SystemLogs|System log]]

@@ -38,7 +38,7 @@ Content Review Admin\[sn\_lg\_cont\_review.admin\]
 
 </td><td>
 
-Provides administrative access to the [[legal-content-review|Legal Content Review]] feature and its underlying data.
+Provides administrative access to the Legal Content Review feature and its underlying data.
 
 </td><td>
 
@@ -59,6 +59,3 @@ sn\_lg\_ops.legal\_user
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Content Review reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-cr-reference.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]

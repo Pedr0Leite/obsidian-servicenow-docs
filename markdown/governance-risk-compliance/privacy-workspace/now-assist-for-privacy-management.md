@@ -15,7 +15,7 @@ breadcrumb: [Privacy Management, Governance, Risk, and Compliance]
 
 # Now Assist for Privacy Management
 
-Now Assist for Privacy Management is a GenAI‑powered capability that streamlines privacy workflows by summarizing [[risk-assessments|risk assessments]], condensing issue details, and identifying redundant control objectives for rationalization into a common control objective.
+Now Assist for Privacy Management is a GenAI‑powered capability that streamlines privacy workflows by summarizing risk assessments, condensing issue details, and identifying redundant control objectives for rationalization into a common control objective.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -31,7 +31,7 @@ Now Assist for Privacy Management is delivered as a separate plugin. Administrat
 
 ## Roles required
 
-The role required to access [[privacy-management|Privacy Management]] GenAI features \(risk summaries, issue summaries, and recommendations of similar control objectives\) is sn\_prm\_gen\_ai.user.
+The role required to access Privacy Management GenAI features \(risk summaries, issue summaries, and recommendations of similar control objectives\) is sn\_prm\_gen\_ai.user.
 
 sn\_prm\_gen\_ai.user consists of the following roles:
 
@@ -39,7 +39,3 @@ sn\_prm\_gen\_ai.user consists of the following roles:
 -   sn\_grc\_sharegenai.risk\_asmt\_user
 -   sn\_grc\_genai.issue\_user
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[privacy-management|privacy management]]

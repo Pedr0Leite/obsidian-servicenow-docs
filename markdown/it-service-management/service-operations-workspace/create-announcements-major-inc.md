@@ -20,7 +20,7 @@ Create and manage an announcement to broadcast messages for Service Portal users
 
 Role required: announcement\_admin, sp\_admin or admin
 
-As a major\_incident\_manager, you must inherit any of the required roles to create and manage announcements in Major [[c_IncidentManagement|Incident Management]].
+As a major\_incident\_manager, you must inherit any of the required roles to create and manage announcements in Major Incident Management.
 
 ## About this task
 
@@ -249,6 +249,3 @@ If the **Type** is **Banner**, test your announcement by navigating to the porta
 
 **Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/communicating-with-stakeholders-sow.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

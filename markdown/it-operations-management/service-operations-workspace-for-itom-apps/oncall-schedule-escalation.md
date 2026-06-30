@@ -15,7 +15,7 @@ breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, IT
 
 # On-call scheduling in Service Operations Workspace for ITOM
 
-ITOM [[workspace-dashboard-use|Service Operations Workspace]] supports creating and managing your on-call shifts and schedules. On-call schedule determines who is on-call at a given time. Learn how to configure on-call calendars and escalation policies to ensure timely responses to critical issues, reducing downtime and maintaining service continuity. Streamlining these processes enhances team readiness, minimizes disruptions, and improves service reliability.
+ITOM Service Operations Workspace supports creating and managing your on-call shifts and schedules. On-call schedule determines who is on-call at a given time. Learn how to configure on-call calendars and escalation policies to ensure timely responses to critical issues, reducing downtime and maintaining service continuity. Streamlining these processes enhances team readiness, minimizes disruptions, and improves service reliability.
 
 ## Getting started with on-call scheduling
 
@@ -30,6 +30,3 @@ Enable on-call scheduling by incorporating the Alert table \[em\_alert\] into th
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-sow-itom.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

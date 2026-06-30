@@ -14,13 +14,13 @@ breadcrumb: [HR Service Delivery with Ultimate Kronos Group, Integration of HR S
 
 # Configuring HR Service Delivery with Ultimate Kronos Group
 
-Set up the [[integration-ukg|HR Service Delivery with Ultimate Kronos Group]] application to start pulling information, such as accrual balances and shifts from the Ultimate Kronos Group application into a ServiceNow application.
+Set up the HR Service Delivery with Ultimate Kronos Group application to start pulling information, such as accrual balances and shifts from the Ultimate Kronos Group application into a ServiceNow application.
 
 ## Before you begin
 
 Role required: sn\_hr\_core.admin
 
-Activate the [[hr-service-delivery|HR Service Delivery]] Integration with Ultimate Kronos Group \[sn\_hr\_ukg\] application, which automatically activates the following plugins and spoke:
+Activate the HR Service Delivery Integration with Ultimate Kronos Group \[sn\_hr\_ukg\] application, which automatically activates the following plugins and spoke:
 
 -   Glide Virtual Agent \[com.glide.cs.chatbot\]
 -   Human Resources Scoped App: Core \[com.sn\_hr\_core\]
@@ -44,7 +44,4 @@ Activate the [[hr-service-delivery|HR Service Delivery]] Integration with Ultima
 
     If the **Person number** field in Ultimate Kronos Group application matches with some other field in the ServiceNow User table, you must override the getPersonNumberBySysID method in HRKronosUtils script.
 
-## Related
 
-- [[integration-ukg|HR Service Delivery with Ultimate Kronos Group]]
-- [[hr-service-delivery|HR Service Delivery]]

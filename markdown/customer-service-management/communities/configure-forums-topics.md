@@ -38,21 +38,21 @@ A topic is an area of interest that users can discuss. Topics are visible from t
 
 
 -   **[Create a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-forum.md)**  
-[[create-forum|Create a forum]] to provide a place for users to share content. You can configure forums for membership that registered community users request access to join. You can also configure forums to convert unstructured conversations to structured knowledge articles.
+Create a forum to provide a place for users to share content. You can configure forums for membership that registered community users request access to join. You can also configure forums to convert unstructured conversations to structured knowledge articles.
 -   **[Configure content types for a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-content-type-to-forum.md)**  
 Define which types of content to use in a particular forum and associate a workflow so that content is reviewed before becoming visible to other community users.
 -   **[Invite users to become members of a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/invite-users-forum.md)**  
 Invite users to become members of a particular forum to encourage greater community involvement.
 -   **[Approve forum memberships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/approve-forum-memberships.md)**  
-Manage forum membership approvals when registered community users [[request-membership-forum|request membership to a forum]].
+Manage forum membership approvals when registered community users request membership to a forum.
 -   **[Create a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-topic.md)**  
-[[create-topic|Create a topic]] for users to create and share content.
+Create a topic for users to create and share content.
 -   **[Add a topic to a forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/add-topic-to-forum.md)**  
-[[add-topic-to-forum|Add a topic to a forum]] so that users can associate content to that topic.
+Add a topic to a forum so that users can associate content to that topic.
 -   **[Disable topics in a community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/disable-topics.md)**  
 Disable the topics feature so that no topic information is visible in your community.
 -   **[Create a sub forum](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/create-sub-forum.md)**  
-[[create-sub-forum|Create a sub forum]] and map it to a parent forum to establish a forum hierarchy.
+Create a sub forum and map it to a parent forum to establish a forum hierarchy.
 -   **[Move forum content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/move-forum-content.md)**  
 Move community content posts from one forum to another.
 
@@ -79,7 +79,7 @@ Move community content posts from one forum to another.
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -101,11 +101,3 @@ Move community content posts from one forum to another.
 
 [Community Service Portal]()
 
-## Related
-
-- [[create-forum|Create a forum]]
-- [[request-membership-forum|Request membership to a forum]]
-- [[create-topic|Create a topic]]
-- [[add-topic-to-forum|Add a topic to a forum]]
-- [[create-sub-forum|Create a sub forum]]
-- [[servicenow-communities|Communities]]

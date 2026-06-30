@@ -12,11 +12,11 @@ breadcrumb: [Migrating to Field Encryption, Configuring Field Encryption, Field 
 
 # Field Encryption migration status page
 
-Use the migration status page to track the migration of [[encryption-landing|encryption]] contexts to encryption modules.
+Use the migration status page to track the migration of encryption contexts to encryption modules.
 
 \[Omitted image "encryption-job-status-page.png"\] Alt text: Encryption job status page
 
-The [[field-encryption|Field Encryption]] Migration page displays the status of the steps involved in migrating encryption contexts to encryption modules. Each of the three sections displays the status of a specific step in the process.
+The Field Encryption Migration page displays the status of the steps involved in migrating encryption contexts to encryption modules. Each of the three sections displays the status of a specific step in the process.
 
 ## Page section cards
 
@@ -31,10 +31,5 @@ The page contains three cards representing the steps in the migration progress. 
 \[Omitted image "encryption-job-status-page-2.png"\] Alt text: Encryption job status page
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[migration-to-platform-encryption|Migrating to Field Encryption]]
+</table>**Parent Topic:**[Migrating to Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/migration-to-platform-encryption.md)
 
-## Related
-
-- [[migration-to-platform-encryption|Migrating to Field Encryption]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]

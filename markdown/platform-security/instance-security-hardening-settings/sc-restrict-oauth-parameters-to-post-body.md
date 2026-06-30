@@ -14,7 +14,7 @@ breadcrumb: [Data protection, Hardening settings, Platform Security]
 
 # Restrict oauth parameters to POST body \[New in Security Center 1.3\]
 
-Use the **glide.[[oauth-inbound-and-outbound|oauth]].allow.parameters.in.post.body.only** property to control the inbound OAuth [[c_Authentication|authentication]]'s acceptance of access tokens. Access tokens are sensitive and should only be accepted when located within a POST [[c_requestAPI|request]] body.
+Use the **glide.oauth.allow.parameters.in.post.body.only** property to control the inbound OAuth authentication's acceptance of access tokens. Access tokens are sensitive and should only be accepted when located within a POST request body.
 
 ## More information
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -40,7 +40,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Security risk
 
 -   Severity score: 4.2
 -   CVSS score: Medium
--   Security risk details: If **glide.oauth.allow.parameters.in.post.body.only** isn't set to the recommended value of **true**, access tokens could be present in the GET request parameter. These access tokens could linger in client and infrastructure [[logs|logs]] and potentially lead to account takeover if those logs are leaked.
+-   Security risk details: If **glide.oauth.allow.parameters.in.post.body.only** isn't set to the recommended value of **true**, access tokens could be present in the GET request parameter. These access tokens could linger in client and infrastructure logs and potentially lead to account takeover if those logs are leaked.
 
 </td></tr><tr><td>
 
@@ -112,11 +112,3 @@ Ensures that oauth\_token.do processor accepts only POST body parameters as inpu
 </td></tr></tbody>
 </table>**Parent Topic:**[Data protection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-data-protection.md)
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]

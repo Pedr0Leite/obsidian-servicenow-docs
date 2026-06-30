@@ -14,11 +14,11 @@ breadcrumb: [ADFS integration with SAML 2.0, Integrating SAML 2.0 with other fea
 
 # Set up the instance for ADFS
 
-Configure your instance and [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 settings to work with ADFS.
+Configure your instance and SAML 2.0 settings to work with ADFS.
 
 ## Before you begin
 
-Perform these steps only after you have [[t_DefineADFSServiceURL|set up ADFS for SAML]]. For details on that process, see [set up ADFS for SAML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_ADFSIntegrationWithSAML2.0.md).
+Perform these steps only after you have set up ADFS for SAML. For details on that process, see [set up ADFS for SAML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_ADFSIntegrationWithSAML2.0.md).
 
 Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
@@ -36,12 +36,8 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 5.  Verify that the SAML2SingleSignon\_update1 installation exit is active.
 
-6.  Continue the SAML 2.0 [[sc-configuration|configuration]].
+6.  Continue the SAML 2.0 configuration.
 
     **Note:** When a certificate is updated on the ADFS server, you also need to upload an updated certificate to the instance.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[t_DefineADFSServiceURL|Set up ADFS for SAML]]
-- [[sc-configuration|Configuration]]

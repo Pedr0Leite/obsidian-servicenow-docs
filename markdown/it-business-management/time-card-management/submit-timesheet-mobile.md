@@ -14,7 +14,7 @@ breadcrumb: [Mobile Time Sheets, Time Card management, Project Portfolio Managem
 
 # Submit a time sheet from your mobile device
 
-Once you have updated the time sheet with the time you worked, you can submit the time sheet for the week to submit all the [[c_TimeCards|time cards]] for the week together from your mobile application.
+Once you have updated the time sheet with the time you worked, you can submit the time sheet for the week to submit all the time cards for the week together from your mobile application.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: timecard\_user
 
 **Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/timesheet-mobile.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Jira and Agile Development 2.0, 
 
 # Connecting Agile Development 2.0 to Jira
 
-Establish a connection between [[agile-landing-page|Agile Development 2.0]] and Jira using a Jira connection alias and a Jira instance.
+Establish a connection between Agile Development 2.0 and Jira using a Jira connection alias and a Jira instance.
 
 When you connect Agile Development 2.0 to Jira, a webhook is registered in Jira which receives the following event updates between Jira and Agile Development 2.0.
 
@@ -101,6 +101,3 @@ Role required: sn\_jira\_int.user
 
 .
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

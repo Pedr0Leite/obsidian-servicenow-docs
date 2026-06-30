@@ -14,7 +14,7 @@ breadcrumb: [Zing removes stop words from queries, Zing text indexing and search
 
 # Enable automatic stop words for a table
 
-The system can identify and generate [[stop-words-ais|stop words]] when a search term exceeds an occurrence threshold.
+The system can identify and generate stop words when a search term exceeds an occurrence threshold.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: ts\_admin or admin
 
 ## About this task
 
-By default, the TS Index Stats scheduled job identifies and creates stop words for tables with text indexes on a nightly basis. Automatically adding stop words improves your search [[hs-results|results]] by removing search terms that return too many search results.
+By default, the TS Index Stats scheduled job identifies and creates stop words for tables with text indexes on a nightly basis. Automatically adding stop words improves your search results by removing search terms that return too many search results.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ By default, the TS Index Stats scheduled job identifies and creates stop words f
 
     When a search term generates more search results than the threshold, the system automatically creates a stop word for the search term.
 
-    For example, to [[create-stop-word-ais|create stop words]] for the task table, see the blog post [Configuring auto stop words and regenerating text indexes](https://community.servicenow.com/community?id=community_blog&sys_id=83bc6e25dbd0dbc01dcaf3231f961963&view_source=searchResult) from a ServiceNow employee on the ServiceNow Community.
+    For example, to create stop words for the task table, see the blog post [Configuring auto stop words and regenerating text indexes](https://community.servicenow.com/community?id=community_blog&sys_id=83bc6e25dbd0dbc01dcaf3231f961963&view_source=searchResult) from a ServiceNow employee on the ServiceNow Community.
 
 5.  Select **Update**.
 
@@ -58,8 +58,3 @@ The job identifies and creates stop words for the table with a **Stop mode** val
 
 [Disable a stop word in Zing]()
 
-## Related
-
-- [[stop-words-ais|Stop words]]
-- [[hs-results|Results]]
-- [[create-stop-word-ais|Create stop words]]

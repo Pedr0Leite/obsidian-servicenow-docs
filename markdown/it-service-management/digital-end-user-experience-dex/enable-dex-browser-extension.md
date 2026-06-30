@@ -14,7 +14,7 @@ breadcrumb: [Installing DEX on your local machine, Configure, Digital End-User E
 
 # Enable DEX browser extension
 
-Activate the DEX Chrome or Edge Extension on your system to collect different operational or performance-based metrics for the web [[dex-workspace-application-tab|applications]].
+Activate the DEX Chrome or Edge Extension on your system to collect different operational or performance-based metrics for the web applications.
 
 ## Before you begin
 
@@ -74,6 +74,3 @@ The Google Chrome or Microsoft Edge extension is enabled by default, and when mo
 
 **Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/installing-dex-local.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

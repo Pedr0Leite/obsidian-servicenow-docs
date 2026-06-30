@@ -12,7 +12,7 @@ breadcrumb: [Product data, Set up your environment, Configure, Customer Service 
 
 # Configure product data
 
-Configure product data including [[product-models|product models]], [[sold-product|sold products]], [[install-base-item|install base items]] and [[installed-products|installed products]].
+Configure product data including product models, sold products, install base items and installed products.
 
 ## Before you begin
 
@@ -30,44 +30,24 @@ Role required: admin
 
 ## Procedure
 
--   You can import the following [[product-data|product data]] using guided setup.
+-   You can import the following product data using guided setup.
 
-    -   [[import-csm-product-models|Import product models with guided setup]]
-    -   [[import-csm-sold-products|Import sold products with guided setup]]
-    -   [[import-csm-install-base-items|Import install base items with guided setup]]
-    -   [[import-csm-installed-products|Import installed products with guided setup]]
--   You can create new product data using the [[c_CustomerServiceManagement|Customer Service Management]] application.
+    -   [Import product models with guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-csm-product-models.md)
+    -   [Import sold products with guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-csm-sold-products.md)
+    -   [Import install base items with guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-csm-install-base-items.md)
+    -   [Import installed products with guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-csm-installed-products.md)
+-   You can create new product data using the Customer Service Management application.
 
-    -   [[c_CreateAProductModel|Create a product model]]
-    -   [[create-sold-item|Create sold products]]
-    -   [[create-install-base-item|Create install base items]]
-    -   [[create-deployed-sold-item|Create installed products]]
+    -   [Create a product model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CreateAProductModel.md)
+    -   [Create sold products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-sold-item.md)
+    -   [Create install base items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-install-base-item.md)
+    -   [Create installed products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-deployed-sold-item.md)
 -   You can configure the following relationships and associations after importing or creating product data:
 
     -   Product models
-        -   [[associate-service-offering-product|Associate service offerings to product models]]
-        -   [[create-csm-product-model-items|Configure product model and catalog item relationships]]
+        -   [Associate service offerings to product models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-service-offering-product.md)
+        -   [Configure product model and catalog item relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-csm-product-model-items.md)
     -   Sold products
-        -   [[asssociate-service-offering-sold-prod|Associate service offerings with sold products]]
-        -   [[add-sold-product-contract|Associate sold products with contracts]]
+        -   [Associate service offerings with sold products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/asssociate-service-offering-sold-prod.md)
+        -   [Associate sold products with contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-sold-product-contract.md)
 
-## Related
-
-- [[import-csm-product-models|Import product models with guided setup]]
-- [[import-csm-sold-products|Import sold products with guided setup]]
-- [[import-csm-install-base-items|Import install base items with guided setup]]
-- [[import-csm-installed-products|Import installed products with guided setup]]
-- [[c_CreateAProductModel|Create a product model]]
-- [[create-sold-item|Create a sold product]]
-- [[create-install-base-item|Create an install base item]]
-- [[create-deployed-sold-item|Create installed products]]
-- [[associate-service-offering-product|Associate services with product models]]
-- [[create-csm-product-model-items|Configure product model and catalog item relationships]]
-- [[asssociate-service-offering-sold-prod|Associate service offerings with sold products]]
-- [[add-sold-product-contract|Associate sold products with contracts]]
-- [[product-models|Product models]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[installed-products|Installed products]]
-- [[product-data|Product data]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -16,7 +16,7 @@ breadcrumb: [Topic Recommendations interface reference, Using Virtual Agent Topi
 
 Use the Topic Recommendations settings page to configure analysis reports based on your ServiceNow® data.
 
-You can find the Topic Recommendations settings in the [[convint-landing-page|Conversational Interfaces]] Chat Settings \(**All** &gt; **Conversational Interfaces** &gt; **Settings**\) under [[virtual-agent-landing-page|Virtual Agent]]. When you first install Topic Recommendations, nothing is configured, so the settings page appears empty.
+You can find the Topic Recommendations settings in the Conversational Interfaces Chat Settings \(**All** &gt; **Conversational Interfaces** &gt; **Settings**\) under Virtual Agent. When you first install Topic Recommendations, nothing is configured, so the settings page appears empty.
 
 \[Omitted image "tr-settings-new-install.png"\] Alt text: The Topic Recommendations settings page is empty until you configure reports.
 
@@ -88,7 +88,3 @@ The schedule for running the analysis, which is triggered through the Run Topic 
 
 [Configure analysis reports for Topic Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-tr-settings.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

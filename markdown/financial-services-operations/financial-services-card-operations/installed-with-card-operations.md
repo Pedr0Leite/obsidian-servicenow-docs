@@ -14,7 +14,7 @@ breadcrumb: [Reference, Card Operations, Banking applications, Financial Service
 
 # Components installed with Financial Services Card Operations
 
-Several types of components are installed with the installation of the [[card-ops-landing-page|Financial Services Card Operations]] application, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
+Several types of components are installed with the installation of the Financial Services Card Operations application, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -36,17 +36,17 @@ Customer Service\[com.sn\_customerservice\]
 
 </td><td>
 
-Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.
+Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.
 
 </td></tr></tbody>
 </table>## Store applications installed
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make credit card requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make credit card requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 |Financial Services Credit Operations|Enables management of Credit Risk Assessment tasks that are used in the card operations workflows. For more information, see [Components installed with Financial Services Credit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-credit-operations/installed-with-credit-assessment.md).|
 |Guided Decisions Experience|Allows customers to use Guided Decisions with Playbooks, Recommended Actions, and other features. For more information, see [Configuring Guided Decisions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-guided-decisions.md)|
-|Document Processor|Enables management of document services tasks that are used in card operations workflows. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Document Processor|Enables management of document services tasks that are used in card operations workflows. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 
 ## Roles installed
 
@@ -105,7 +105,7 @@ Credit card contributor\[sn\_bom\_credit\_card.contributor\]
 -   View the status of credit card cases, credit assessment tasks, and document services tasks
 -   Work on credit card case and collect inbound documents for accounts managed by them till the New stage
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -171,7 +171,7 @@ Card dispute manager \[sn\_bom\_credit\_card.dispute\_manager\]
 
 -   Manage dispute functions
 -   View the Performance Analytics reports in the dashboard
--   Use Process Mining projects for [[dispute-management|dispute management]] processes
+-   Use Process Mining projects for dispute management processes
 
 </td><td>
 
@@ -332,11 +332,3 @@ Stores Visa Dispute Questionnaire questions and responses submitted by consumers
 
 [Overview of the Dispute Management workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-management-workflows.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-overview|Financial Services]]
-- [[dispute-management|Dispute Management]]

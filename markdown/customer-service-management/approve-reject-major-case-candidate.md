@@ -28,7 +28,7 @@ You can also approve or reject a major case candidate from Agent Workspace.
 
 2.  Select the desired candidate case.
 
-3.  Select one of the following from the [[r_CustomerServiceCaseForm|Case form]] context menu.
+3.  Select one of the following from the Case form context menu.
 
 <table id="choicetable_oz5_snv_ndb"><thead><tr><th align="left" id="d121908e93">
 
@@ -61,6 +61,4 @@ Rejects the current major case candidate as a major case. If rejected, provide a
 </td></tr></tbody>
 </table>4.  Click **Update**.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

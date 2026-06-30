@@ -14,15 +14,15 @@ breadcrumb: [Explore, Sourcing and Procurement Operations, Finance and Supply Ch
 
 # Performance Analytics for Sourcing and Procurement Operations
 
-With this application, you can use a set of pre-configured metrics and dashboards to assess spend, operational efficiency, and team performance across the [[psm-overview|Sourcing and Procurement Operations]] product.
+With this application, you can use a set of pre-configured metrics and dashboards to assess spend, operational efficiency, and team performance across the Sourcing and Procurement Operations product.
 
 **Important:** Check your entitlements to determine whether you have access to Platform Analytics Advanced.
 
-Visually analyze how you’re placed with your work and achievements over a given period of time, with the [[procurement-buyer-dashboard|Procurement Buyer Dashboard]]. For more information on these, see [Procurement Buyer Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-buyer-dashboard.md).
+Visually analyze how you’re placed with your work and achievements over a given period of time, with the Procurement Buyer Dashboard. For more information on these, see [Procurement Buyer Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-buyer-dashboard.md).
 
-Visually analyze how your organization is placed strategically and operationally, over a given period of time, with the [[procurement-strategy-ops-dashboard|Procurement Strategy &amp; Ops Dashboard]]. For more information on these, see [Procurement Strategy &amp; Ops Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-strategy-ops-dashboard.md).
+Visually analyze how your organization is placed strategically and operationally, over a given period of time, with the Procurement Strategy &amp; Ops Dashboard. For more information on these, see [Procurement Strategy &amp; Ops Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-strategy-ops-dashboard.md).
 
-Visually analyze how your team is performing on sourcing requests, purchase requisitions, negotiated savings, and negotiation outcomes, over a given period of time, with the [[procurement-team-performance-dashboard|Procurement Team Performance Dashboard]]. For more information on these, see [Procurement Team Performance Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-team-performance-dashboard.md).
+Visually analyze how your team is performing on sourcing requests, purchase requisitions, negotiated savings, and negotiation outcomes, over a given period of time, with the Procurement Team Performance Dashboard. For more information on these, see [Procurement Team Performance Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/procurement-team-performance-dashboard.md).
 
 You can access these dashboards by navigating to **All** &gt; **Platform Analytics Workspace** &gt; **Analytics Center** &gt; **Dashboards**.
 
@@ -62,9 +62,3 @@ Visually analyze how your team is performing on sourcing requests, purchase requ
 
 [Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/application-plugin-list.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[procurement-buyer-dashboard|Procurement Buyer Dashboard]]
-- [[procurement-strategy-ops-dashboard|Procurement Strategy &amp; Ops Dashboard]]
-- [[procurement-team-performance-dashboard|Procurement Team Performance Dashboard]]

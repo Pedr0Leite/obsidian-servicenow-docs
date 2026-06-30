@@ -14,7 +14,7 @@ breadcrumb: [Cloud Encryption with Key Management, Encryption]
 
 # Key management operations
 
-The Key Management Operations submodule provides access to view and manage all [[encryption-landing|encryption]] keys used with ServiceNow Cloud Encryption.
+The Key Management Operations submodule provides access to view and manage all encryption keys used with ServiceNow Cloud Encryption.
 
 ## Key life cycle states
 
@@ -66,7 +66,7 @@ Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
     The active key is listed with a key version of 0 and the generated key has a version of 1.
 
-6.  Open the entry for the original key to view the [[key-mgmt-transactions-ce|Key Management Transactions]].
+6.  Open the entry for the original key to view the Key Management Transactions.
 
     For more information, see [Key management transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-transactions-ce.md) for more information.
 
@@ -203,7 +203,7 @@ Roles required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
         If the key is in the proper format, a confirmation message appears, otherwise an error message displays. The key file is attached to the Key Definition record.
 
-        In the Key Management Transactions table, the certificate download and key upload steps are listed. See [Key management transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-transactions-ce.md) for details on the [[c_requestAPI|request]] steps.
+        In the Key Management Transactions table, the certificate download and key upload steps are listed. See [Key management transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/key-mgmt-transactions-ce.md) for details on the request steps.
 
 5.  Navigate to **All** &gt; **Cloud Encryption Key Management** &gt; **Key Management Operations** to see the list of keys.
 
@@ -305,7 +305,7 @@ Role required: sn\_kmf.admin
     |Time of day to perform key rotation|Time of day the key rotation is performed.|
     |Date and time of next key rotation|Date and time of the next scheduled key rotation. This value isn't editable directly, and is automatically calculated based on your choices.|
     |Number of days before key rotation to send reminder \(Maximum of 15 days\)|Number of days before the date of your key rotation that your instance sends notifications.|
-    |Email notifications are sent to the following list of your approved security administrators|List of [[users|users]] who receive notifications for key rotation. The **System Administrator** is on this list by default.|
+    |Email notifications are sent to the following list of your approved security administrators|List of users who receive notifications for key rotation. The **System Administrator** is on this list by default.|
 
 4.  Select **Submit**
 
@@ -356,7 +356,7 @@ This section applies only if you've licensed Cloud Encryption Withdraw and Resup
 
     \[Omitted image "process-key-withdrawal.png"\] Alt text: Key management transaction
 
-    If the [[quorum-ctrl-policy|Quorum Control Policy]] has been activated, the approval workflow must be completed successfully to complete the key withdrawal. See [Manage Quorum Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-mgmt.md) for details.
+    If the Quorum Control Policy has been activated, the approval workflow must be completed successfully to complete the key withdrawal. See [Manage Quorum Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-mgmt.md) for details.
 
 
 ## Resupply a customer managed key
@@ -391,10 +391,4 @@ Role required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
 7.  Click **Rotate key** to complete the re-supply.
 
-## Related
 
-- [[encryption-landing|Encryption]]
-- [[key-mgmt-transactions-ce|Key management transactions]]
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[quorum-ctrl-policy|Quorum Control Policy]]

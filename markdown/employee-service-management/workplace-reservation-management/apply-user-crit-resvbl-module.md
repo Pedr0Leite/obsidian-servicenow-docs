@@ -26,7 +26,7 @@ When a user criteria is applied, the availability of the reservable items in the
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Module**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module**.
 
 2.  Select the reservable module that you want to apply the user criteria on.
 
@@ -53,6 +53,3 @@ The selected user criteria is applied on the reservable module.
 
 **Parent Topic:**[Create a user criteria record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-user-criteria.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

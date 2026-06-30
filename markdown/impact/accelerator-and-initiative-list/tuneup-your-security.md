@@ -18,7 +18,7 @@ Guidance on platform security
 
 ## Accelerator Overview
 
-TuneUp Your Security provides [[impact-landing-page|Impact]] customers with insight into their existing ServiceNow instance security configurations, instance security leading practices, and a demonstration on which instance security settings may be enabled to further enhance instance security. It aims to [[io-help|help]] customers better understand security configuration changes in the context of ServiceNow’s published security guidance.
+TuneUp Your Security provides Impact customers with insight into their existing ServiceNow instance security configurations, instance security leading practices, and a demonstration on which instance security settings may be enabled to further enhance instance security. It aims to help customers better understand security configuration changes in the context of ServiceNow’s published security guidance.
 
 ## Package Availability
 
@@ -67,7 +67,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing any of the recommended security configuration changes in Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

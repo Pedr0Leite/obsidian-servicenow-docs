@@ -22,10 +22,10 @@ You can perform the following actions using the workspace.
 
 |Task|Description|
 |----|-----------|
-|[[create-channel-partner-record|Create Channel Partner record]]|Create and track channel partner records on workspace to manage and store all information related to the channel partners.|
-|[[view-channel-partner-information-on-partner-workspace|View Channel Partner information on partner workspace]]|View all the details, cases, and other entities associated with a channel partner.|
-|[[create-partner-programs-on-workspace|Create Partner Programs on the CSM Configurable Workspace]]|Enable channel partners to create Partner Programs on the workspace.|
-|[[create-partnerships-on-workspace|Create Partnerships on the CSM Configurable Workspace]]|Establish a relationship between channel partners and partner programs on the workspace.|
+|[Create Channel Partner record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md)|Create and track channel partner records on workspace to manage and store all information related to the channel partners.|
+|[View Channel Partner information on partner workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-channel-partner-information-on-partner-workspace.md)|View all the details, cases, and other entities associated with a channel partner.|
+|[Create Partner Programs on the CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-partner-programs-on-workspace.md)|Enable channel partners to create Partner Programs on the workspace.|
+|[Create Partnerships on the CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-partnerships-on-workspace.md)|Establish a relationship between channel partners and partner programs on the workspace.|
 
 -   **[Create Channel Partner record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md)**  
 Create and track channel partner records on the partner workspace to manage and store all information related to the channel partners.
@@ -33,29 +33,17 @@ Create and track channel partner records on the partner workspace to manage and 
 Enable channel partners to participate in structured initiatives designed to drive revenue, enhance market reach, and build customer relationships by creating partner programs on the workspace.
 -   **[Create Partnerships on the CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-partnerships-on-workspace.md)**  
 With the Partner Relationship Management application, you can establish a relationship between channel partners and partner programs on the workspace.
--   **[[create-cases-for-channel-partners|Create cases for channel partners]]**  
+-   **[Create cases for channel partners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-cases-for-channel-partners.md)**  
 Create customer service cases for channel partners to manage customer queries and offer resolution.
--   **[[update-deal-registration-record|Update deal registration record]]**  
-Create a [[deal-registration-management|deal registration]] record or perform actions on an existing record on the CSM Configurable Workspace.
+-   **[Update deal registration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/update-deal-registration-record.md)**  
+Create a deal registration record or perform actions on an existing record on the CSM Configurable Workspace.
 
-**Parent Topic:**[[configure-partner-relationship-management|Configure Partner Relationship Management]]
+**Parent Topic:**[Configure Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[create-channel-partner-record|Create Channel Partner record]]
-- [[view-channel-partner-information-on-partner-workspace|View Channel Partner information on partner workspace]]
-- [[create-partner-programs-on-workspace|Create Partner Programs on the CSM Configurable Workspace]]
-- [[create-partnerships-on-workspace|Create Partnerships on the CSM Configurable Workspace]]
-- [[create-cases-for-channel-partners|Create cases for channel partners]]
-- [[update-deal-registration-record|Update deal registration record]]
-- [[configure-partner-relationship-management|Configure Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[deal-registration-management|Deal Registration]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Hardware Asset Workspace roles
 
-Details of the out-of-the-box roles that can access [[using-ham-workspace|Hardware Asset Workspace]].
+Details of the out-of-the-box roles that can access Hardware Asset Workspace.
 
 <table id="table_iqj_x4q_fgc"><thead><tr><th>
 
@@ -30,11 +30,11 @@ inventory\_admin
 
 </td><td>
 
-Access to create, edit, manage, and delete [[c_Stockrooms|stockrooms]].
+Access to create, edit, manage, and delete stockrooms.
 
 </td></tr><tr><td>
 
-[[c_Procurement|procurement]]\_user
+procurement\_user
 
 </td><td>
 
@@ -62,7 +62,7 @@ contract\_manager
 
 </td><td>
 
-Access to create, edit, and delete [[c_Contracts|contracts]] through the [[c_ContractManagement|Contract Management]] application.
+Access to create, edit, and delete contracts through the Contract Management application.
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ sam\_admin
 
 </td><td>
 
-Access to work on any functionality that the [[c_SoftwareAssetMgmt|Software Asset Management]] application offers.
+Access to work on any functionality that the Software Asset Management application offers.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ ham\_admin
 
 </td><td>
 
-This role is available only when theHardware [[am-landing-page|Asset Management]] \(HAM\) is installed and provides access to all HAM features.
+This role is available only when theHardware Asset Management \(HAM\) is installed and provides access to all HAM features.
 
 </td></tr><tr><td>
 
@@ -134,12 +134,3 @@ Access to Software Asset Management features included with Asset Management. Dif
 </td></tr></tbody>
 </table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_Procurement|Procurement]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[am-landing-page|Asset Management]]

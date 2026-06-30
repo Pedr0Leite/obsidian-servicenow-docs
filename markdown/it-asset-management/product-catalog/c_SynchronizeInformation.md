@@ -14,13 +14,13 @@ breadcrumb: [Vendor catalog items, Product Catalog, IT Asset Management]
 
 # Synchronize information
 
-Certain information is synchronized between [[c_Models|models]], [[c_ManagingProductCatalogItems|product catalog items]], and [[c_ManageVendorCatalogItems|vendor catalog items]].
+Certain information is synchronized between models, product catalog items, and vendor catalog items.
 
 When working with models, product catalog items, and vendor catalog items, keep the following in mind:
 
 -   Changes to model record update vendor catalog items automatically only if the vendor catalog items are published, not linked.
 -   If a model is linked to a vendor catalog item, any changes to the model do not update the vendor catalog item.
--   After publishing a vendor catalog item or model to the hardware or software catalog, some fields become read-only on the vendor catalog item or [[c_ProductCatalog|product catalog]] item record. Information can only be updated on the model record.
+-   After publishing a vendor catalog item or model to the hardware or software catalog, some fields become read-only on the vendor catalog item or product catalog item record. Information can only be updated on the model record.
 
 List of synchronized fields:
 
@@ -47,9 +47,3 @@ List of synchronized fields:
 
 [View a vendor list]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]
-- [[c_ProductCatalog|Product Catalog]]

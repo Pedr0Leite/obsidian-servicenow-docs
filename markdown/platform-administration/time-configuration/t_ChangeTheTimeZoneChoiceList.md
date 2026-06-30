@@ -14,7 +14,7 @@ breadcrumb: [Use, Time configuration, Configure core features, Administer the Se
 
 # Change the time zone choice list
 
-Wherever users have a choice of time zone, the choices are populated using the **Time Zone** choice list on the `User [sys_user]` table. Not all [[r_TimeZones|time zones]] appear by default.
+Wherever users have a choice of time zone, the choices are populated using the **Time Zone** choice list on the `User [sys_user]` table. Not all time zones appear by default.
 
 ## About this task
 
@@ -22,7 +22,7 @@ To add or remove time zones from the list of time zones:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Users** and open any user record, or click **New**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users** and open any user record, or click **New**.
 
     Notice that the default time zone is **System \(America/Los\_Angeles\)**.
 
@@ -33,7 +33,3 @@ To add or remove time zones from the list of time zones:
 
 **Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/using-time-configuration.md)
 
-## Related
-
-- [[r_TimeZones|Time zones]]
-- [[c_UserAdministration|User administration]]

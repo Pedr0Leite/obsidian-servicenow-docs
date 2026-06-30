@@ -18,7 +18,7 @@ Due to unforeseen disruptive events, the business processes in your organization
 
 Recovery time objective \(RTO\) is the maximum amount of time a computer, system, network, or application takes to recover after an outage event or data loss without causing much effect to your business operations.
 
-The business users and IT owners can perform [[bia-uib|business impact analysis]] and technical impact analysis respectively by responding to the assessment in the BIA component in the BCM UIB Workspace. A sample view of the **Assessments** tab is shown in the example.
+The business users and IT owners can perform business impact analysis and technical impact analysis respectively by responding to the assessment in the BIA component in the BCM UIB Workspace. A sample view of the **Assessments** tab is shown in the example.
 
 \[Omitted image "bia-assessments-tab.png"\] Alt text: Assessments in the BIA.
 
@@ -66,7 +66,7 @@ Recovery tiers can be classified as per their importance and criticality:
 
 ## Recovery tier configuration by the administrators
 
-For more information on how to configure a recovery tier in the [[business-continuity-mangmt-overview|Business Continuity Management]] application, see [[configure-recovery-tier-bia-uib-ws|Configure recovery tiers for BIA]].
+For more information on how to configure a recovery tier in the Business Continuity Management application, see [Configure recovery tiers for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-recovery-tier-bia-uib-ws.md).
 
 ## Recovery timeframe
 
@@ -85,14 +85,7 @@ The example shows the configured recovery timeframes in the Business Continuity 
 
 The example shows the configuration of a recovery timeframe in the Business Continuity Management application. \[Omitted image "new-recovery-timeframe.png"\] Alt text: New recovery timeframe.
 
-For more information on how to configure a recovery timeframe in the Business Continuity Management application, see [[configure-recovery-timeframe-bcm|Set up recovery timeframe for a recovery tier]].
+For more information on how to configure a recovery timeframe in the Business Continuity Management application, see [Set up recovery timeframe for a recovery tier](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-recovery-timeframe-bcm.md).
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[configure-recovery-tier-bia-uib-ws|Configure recovery tiers for BIA]]
-- [[configure-recovery-timeframe-bcm|Set up recovery timeframe for a recovery tier]]
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

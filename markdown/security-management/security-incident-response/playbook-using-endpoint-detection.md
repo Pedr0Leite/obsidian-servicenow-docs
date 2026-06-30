@@ -14,7 +14,7 @@ breadcrumb: [Playbook for Endpoint Detection, Flow-based Playbooks, Security Inc
 
 # Use the Endpoint Detection playbook
 
-Use this playbook to investigate [[threat-intelligence-malware|malware]] alerts triggered on a host or endpoint. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the Endpoint Detection playbook.
+Use this playbook to investigate malware alerts triggered on a host or endpoint. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the Endpoint Detection playbook.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
-1.  When the playbook is triggered and starts executing, in Action 1, you need to verify if the file or hash is malicious by analyzing the [[tisc-threat-lookup|Threat lookup]] results in SIR and gathering intel from VirusTotal, WildFire, ThreatCrowd, etc.
+1.  When the playbook is triggered and starts executing, in Action 1, you need to verify if the file or hash is malicious by analyzing the Threat lookup results in SIR and gathering intel from VirusTotal, WildFire, ThreatCrowd, etc.
 
 2.  In Action 2, you need to check whether the file or hash is malicious or not.
 
@@ -83,8 +83,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for Endpoint Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-endpoint-detection.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-threat-lookup|Threat Lookup]]

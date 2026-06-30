@@ -14,7 +14,7 @@ breadcrumb: [Cart layout, Service Catalog customization, Types of catalog items,
 
 # Configure the cart layout
 
-Configure [[c_ConfigureCartLayout|cart layout]] records to define functionality for widgets or screens in the shopping cart.
+Configure cart layout records to define functionality for widgets or screens in the shopping cart.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definitions** &gt; **Maintain Cart Layouts**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Cart Layouts**.
 
 2.  Select a widget or screen.
 
@@ -44,7 +44,7 @@ Role required: admin
     -   In the **Buttons** section, select the buttons to display, such as **Add to Cart**, **Edit Cart**, and **Delete Item**.
     -   In the **Button Labels** section, enter new labels to replace the default button labels.
 
-        A new [[label|label]] is used on all screens that the button appears on. For example, the **Continue Shopping** button is used on several screens, so changing its label affects all those screens.
+        A new label is used on all screens that the button appears on. For example, the **Continue Shopping** button is used on several screens, so changing its label affects all those screens.
 
 6.  If required, configure the widget and column macros.
 
@@ -57,7 +57,7 @@ Role required: admin
 
 ## Cart layout considerations
 
-When you enable cart layouts, [[r_ServiceCatalogProperties|service catalog properties]] are impacted. Consider the possible outcomes and alter the settings or properties to achieve the cart layout and functionality you require.
+When you enable cart layouts, service catalog properties are impacted. Consider the possible outcomes and alter the settings or properties to achieve the cart layout and functionality you require.
 
 Some of these properties are impacted when you use cart layouts. For example, with the order status screen, the **When to show prices and sub-totals on the Service Catalog Cart** \(glide.sc.price.display\) property overrides cart layout settings for displaying prices.
 
@@ -75,7 +75,7 @@ Allow ESS users the option to cancel their requests from the checkout screen.\[g
 
 </td><td>
 
-Overridden when the **Cancel Request** [[check-box|check box]] in cart layout settings is selected. If this check box is selected, the **Cancel** button is displayed even if the property is set to **No**.
+Overridden when the **Cancel Request** check box in cart layout settings is selected. If this check box is selected, the **Cancel** button is displayed even if the property is set to **No**.
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ You can configure these macros to alter the display order of elements, or hide e
 
 4.  Click the **Widget / View Macro** entry of a macro to view its functionality settings.
 
-    You cannot edit functionality settings for default macros, but these settings can be a useful [[reference|reference]] for creating your own widget macros.
+    You cannot edit functionality settings for default macros, but these settings can be a useful reference for creating your own widget macros.
 
 
 ## Create macros for cart layout
@@ -182,7 +182,7 @@ Macros that you create do not affect upgrades because customized widget function
 
 ### Example
 
-This example demonstrates the script to add a **[[requested-for|Requested for]] reference** field as a widget macro to a cart layout record.
+This example demonstrates the script to add a **Requested for reference** field as a widget macro to a cart layout record.
 
 ```
 <?xml version="1.0" encoding="utf-8" ?>
@@ -205,7 +205,7 @@ This example demonstrates the script to add a **[[requested-for|Requested for]] 
 
 ## Configure cart layout for specific items
 
-Set fields in the [[catalog-item-form|Catalog Item form]] to configure the cart layout for specific items.
+Set fields in the Catalog Item form to configure the cart layout for specific items.
 
 ### Before you begin
 
@@ -248,13 +248,3 @@ For example, your cart layout record settings can hide item prices, but you migh
 
 If you are [migrating to cart layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MigrateCartLayouts.md), you can have defined additional settings and properties that impact your cart layout settings.
 
-## Related
-
-- [[c_ConfigureCartLayout|Cart layout]]
-- [[service-catalog|Service Catalog]]
-- [[label|Label]]
-- [[r_ServiceCatalogProperties|Service Catalog properties]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[requested-for|Requested for]]
-- [[catalog-item-form|Catalog Item form]]

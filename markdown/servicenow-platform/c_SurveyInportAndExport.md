@@ -22,19 +22,19 @@ The system exports a single XML file that contains a survey definition \[asmt\_m
 -   Assessment Template Definition \[asmt\_template\_definition\]
 -   Metric definitions \[asmt\_metric\_definition\] \(survey question answer options\)
 -   Scheduled Jobs associated with the Survey \[sys\_trigger\]
--   [[c_SurveyCategory|Survey categories]] \[asmt\_metric\_category\]
--   [[c_SurveyQuestion|Survey questions]] \[asmt\_metric\]
+-   Survey categories \[asmt\_metric\_category\]
+-   Survey questions \[asmt\_metric\]
 -   Survey users \[asmt\_m2m\_category\_user\]
 -   Trigger Condition \[asmt\_condition\]
 
--   **[[t_ExportASurvey|Export a survey]]**  
+-   **[Export a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ExportASurvey.md)**  
 You can export a survey and then import it to another instance.
--   **[[t_ImportASurvey|Import a survey]]**  
+-   **[Import a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ImportASurvey.md)**  
 You can import a survey that has been exported as an XML file. The exported XML file does not contain result data.
--   **[[t_UseUpdateSetsForSurveyAssess|Use update sets for surveys and assessments]]**  
-Use an update set to capture changes to [[r_SurveyManagementLandingPage|surveys]] and [[r_Assessments|assessments]].
+-   **[Use update sets for surveys and assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_UseUpdateSetsForSurveyAssess.md)**  
+Use an update set to capture changes to surveys and assessments.
 
-**Parent Topic:**[[c_SurveyDistribution|Survey distribution]]
+**Parent Topic:**[Survey distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDistribution.md)
 
 **Related topics**  
 
@@ -47,7 +47,7 @@ Use an update set to capture changes to [[r_SurveyManagementLandingPage|surveys]
 
 [Add a recipients list to a survey]()
 
-[Embed a survey within the Outlook [[email|email]] client]()
+[Embed a survey within the Outlook email client]()
 
 [Enable localization for a survey]()
 
@@ -55,17 +55,5 @@ Use an update set to capture changes to [[r_SurveyManagementLandingPage|surveys]
 
 [Create a survey module]()
 
-[Configure a survey in the [[c_Collaboration|Connect chat]] support]()
+[Configure a survey in the Connect chat support]()
 
-## Related
-
-- [[t_ExportASurvey|Export a survey]]
-- [[t_ImportASurvey|Import a survey]]
-- [[t_UseUpdateSetsForSurveyAssess|Use update sets for surveys and assessments]]
-- [[c_SurveyDistribution|Survey distribution]]
-- [[c_SurveyCategory|Survey categories]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[r_Assessments|Assessments]]
-- [[email|Email]]
-- [[c_Collaboration|Connect Chat]]

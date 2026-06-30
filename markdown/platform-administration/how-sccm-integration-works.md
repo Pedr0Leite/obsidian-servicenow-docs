@@ -18,7 +18,7 @@ The Microsoft SCCM versions supported in the ServiceNow® platform offer identic
 
 1.  A schedule called **SCCM System &lt;version&gt; Import** determines when the SCCM tables are imported into the ServiceNow® instance. Imports can be executed immediately or scheduled to run at defined intervals.
 2.  A MID Server retrieves the SCCM data and imports it into staging tables on the instance.
-3.  [[c_FieldTransformations|Transforms]] run on the data in the staging tables and map the SCCM data to existing fields in the CMDB.
+3.  Transforms run on the data in the staging tables and map the SCCM data to existing fields in the CMDB.
 
 \[Omitted image "SCCMDiagram.png"\] Alt text: SCCM data import process
 
@@ -147,7 +147,7 @@ The SCCM integration uses CI identification to update CIs created from data impo
 
 For more information about CMDB Identification and Reconciliation and IRE, see [CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_CMDBIdentifyandReconcile.md).
 
-Upgrades from pre-Geneva versions still preserve the legacy identifiers, but you can switch to the new identifiers using a property: `glide.discovery.use_cmdb_identifiers`. If you upgraded from a pre-Geneva version, you must manually add this property and set it to `true` to use the new identifiers. If you upgraded from Geneva, this property is available in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table. To preserve functionality in custom legacy identifiers, convert them to the new CMDB identifier rules format before enabling this property. The system does not reconfigure your custom identifiers to the new framework automatically.
+Upgrades from pre-Geneva versions still preserve the legacy identifiers, but you can switch to the new identifiers using a property: `glide.discovery.use_cmdb_identifiers`. If you upgraded from a pre-Geneva version, you must manually add this property and set it to `true` to use the new identifiers. If you upgraded from Geneva, this property is available in the System Properties \[sys\_properties\] table. To preserve functionality in custom legacy identifiers, convert them to the new CMDB identifier rules format before enabling this property. The system does not reconfigure your custom identifiers to the new framework automatically.
 
 ## Scripts
 
@@ -159,10 +159,5 @@ The Microsoft SCCM integration reconciles the software package count in the reco
 
 **Note:** The table data imported from SCCM must contain complete data for the CI. The instance assumes that the import represents all relationships that exist and adjusts the CMDB accordingly. Partial data received from SCCM tables can cause the deletion of active relationships.
 
-**Parent Topic:**[[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md)
 
-## Related
-
-- [[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
-- [[c_FieldTransformations|Transforms]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

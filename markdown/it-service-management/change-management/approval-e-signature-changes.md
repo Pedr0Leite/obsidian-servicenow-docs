@@ -21,11 +21,11 @@ e-signatures provide a secure, auditable method for approvers to verify their id
 
 ## Supported approval mechanisms
 
-You can use e-signatures with any approval mechanism available in [[c_ITILChangeManagement|Change Management]], including:
+You can use e-signatures with any approval mechanism available in Change Management, including:
 
 -   The **Ask for Approval** action in Flow Designer.
 -   The **Approval - User** or **Approval - Group** activities in Workflow.
--   [[change-approval-policy|Change approval policies]].
+-   Change approval policies.
 
 ## Supported tables
 
@@ -38,14 +38,8 @@ For more information, see [Approval with e-signature](https://raw.githubusercont
 Before you can use e-signatures with change approvals, verify the following requirements:
 
 -   The e-signature platform plugin is activated on your instance. For activation instructions, see [Activate Approval with e-Signature plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/activate-approval-esignature.md).
--   Change approvals are configured for the relevant change [[c_Models|models]] or [[change-types|change types]] using Flow Designer flows, legacy workflows, or change approval policies.
+-   Change approvals are configured for the relevant change models or change types using Flow Designer flows, legacy workflows, or change approval policies.
 -   Approvers have the appropriate roles to approve change requests.
 
 **Parent Topic:**[Exploring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/exploring-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-approval-policy|Change approval policies]]
-- [[c_Models|Models]]
-- [[change-types|Change types]]

@@ -24,7 +24,7 @@ Role required: sn\_aia\_admin
 
 ## About this task
 
-AI agents are not standalone applications that you can install directly. To enable AI agents on your instance, you must install and activate [[now-assist-hs-landing|Now Assist for Health and Safety]]. For more information, see [Install Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-install.md).
+AI agents are not standalone applications that you can install directly. To enable AI agents on your instance, you must install and activate Now Assist for Health and Safety. For more information, see [Install Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-install.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ AI agents are not standalone applications that you can install directly. To enab
 
 ## Result
 
-The AI Agent for [[health-safety-overview|Health and safety]] \[sn\_hs\_ai\_agents\] plugin associated with the Now Assist for Health and Safety application is installed on your instance.
+The AI Agent for Health and safety \[sn\_hs\_ai\_agents\] plugin associated with the Now Assist for Health and Safety application is installed on your instance.
 
 ## What to do next
 
@@ -45,7 +45,3 @@ To access AI agents in the Now Assist panel, you must enable the panel. See [Act
 
 **Parent Topic:**[Configure Now Assist AI agents for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/ai-agents-now-assist-hs-configuring.md)
 
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[health-safety-overview|Health and Safety]]

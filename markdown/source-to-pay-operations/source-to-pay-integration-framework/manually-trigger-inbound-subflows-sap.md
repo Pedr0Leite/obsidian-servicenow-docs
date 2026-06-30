@@ -22,9 +22,9 @@ Role required: sn\_fcms\_intg.integration\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  In the ERP Configurations view, select the **SAP** [[erp-source|ERP source]] to manually trigger the flows or subflows.
+2.  In the ERP Configurations view, select the **SAP** ERP source to manually trigger the flows or subflows.
 
     For example, SAP ECC, or SAP S4 HANA Cloud, or SAP HANA OData
 
@@ -70,7 +70,3 @@ Role required: sn\_fcms\_intg.integration\_user
 
 [Scheduled jobs to look up primary data in SAP]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

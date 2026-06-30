@@ -14,12 +14,12 @@ breadcrumb: [Now Assist for Employee Experience, Unified Employee Experience, Em
 
 # Using AI Agents with Now Assist for Employee Experience
 
-Use AI Agents with the Now Assist for Virtual Agent in the [[employee-center-landing-page|Employee Center]] for users to have a seamless agent-like conversation.
+Use AI Agents with the Now Assist for Virtual Agent in the Employee Center for users to have a seamless agent-like conversation.
 
 Verify that you have the following plugins:
 
--   [[now-assisit-employee-exp|Now Assist for Employee Experience]] version 2.0.3 and later. The AI Agents for Employee Experience is automatically installed with the updated version.
--   Content Publishing version 36.0.4 \(Installed automatically as part of [[employee-center-pro-landing|Employee Center Pro]]\)
+-   Now Assist for Employee Experience version 2.0.3 and later. The AI Agents for Employee Experience is automatically installed with the updated version.
+-   Content Publishing version 36.0.4 \(Installed automatically as part of Employee Center Pro\)
 
 <table id="table_o2p_xw3_jgc"><thead><tr><th>
 
@@ -31,7 +31,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[check-company-newsevent-ai-agent-for-emp-exp|Company News &amp; Events AI Agent]]
+Company News &amp; Events AI Agent
 
 </td><td>
 
@@ -48,9 +48,3 @@ To run the AI agents autonomously, you must first duplicate the use case, and th
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[check-company-newsevent-ai-agent-for-emp-exp|Company News &amp; Events AI Agent]]

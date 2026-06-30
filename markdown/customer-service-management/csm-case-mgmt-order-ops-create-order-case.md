@@ -12,7 +12,7 @@ breadcrumb: [Order Operations Case Management, Case management, Organize agent w
 
 # Creating an order case
 
-Agents can create order cases from a customer order, from an interaction record, or from the Order Cases list view in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Agents can create order cases from a customer order, from an interaction record, or from the Order Cases list view in CSM Configurable Workspace.
 
 Agents can create order cases in the following ways:
 
@@ -21,7 +21,7 @@ Agents can create order cases in the following ways:
 -   Selecting **Create case** from an interaction record.
 -   Selecting **New** from the Order Cases list view.
 
-After initiating an order case, the agent can select an order-related service from the [[csm-case-type-select-modals|case type selector]] modal. This modal displays the services that are available for order cases, such as Sales Order Change Request or Sales Order Dispute.
+After initiating an order case, the agent can select an order-related service from the case type selector modal. This modal displays the services that are available for order cases, such as Sales Order Change Request or Sales Order Dispute.
 
 Selecting **Create case** from the case type selector modal displays the Create New Order Case intake form where the agent can enter the following order case details:
 
@@ -32,7 +32,7 @@ Selecting **Create case** from the case type selector modal displays the Create 
 
 **Note:** Depending on where the agent creates the order case from, some of these fields are auto filled.
 
-Selecting **Save** on the intake form displays the [[csm-order-ops-order-case-record-page|Order case record page]]. From this record, agents can:
+Selecting **Save** on the intake form displays the Order case record page. From this record, agents can:
 
 -   Add order lines to the order case.
 -   Delete order lines from the order case.
@@ -67,8 +67,3 @@ Once an order case has been created, agents can add additional orders or order l
 
 The agent can select a line item from the modal and then select **Add** to add it to the order case as an order case line item.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-order-ops-order-case-record-page|Order case record page]]

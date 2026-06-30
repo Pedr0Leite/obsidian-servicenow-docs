@@ -14,7 +14,7 @@ breadcrumb: [Self-health monitors for Event Management, Manage and monitor alert
 
 # View the Event Management self-health application services map
 
-You can view [[c_EM|Event Management]] application services maps to have a visualization of the data on configuration items \(CIs\) that comprise this service, and the relations and connections between these CIs.
+You can view Event Management application services maps to have a visualization of the data on configuration items \(CIs\) that comprise this service, and the relations and connections between these CIs.
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ You can select the configuration item that has a critical alert and change the i
 
 **Parent Topic:**[Self-health monitors for Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/self-monitoring.md)
 
-## Related
-
-- [[c_EM|Event Management]]

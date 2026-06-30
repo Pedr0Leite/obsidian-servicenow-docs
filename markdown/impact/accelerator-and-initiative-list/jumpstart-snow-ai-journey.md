@@ -18,7 +18,7 @@ This Accelerator provides guidance on how to achieve your organization's goals a
 
 ## Accelerator Overview
 
-Jumpstart Your ServiceNow AI Journey helps [[impact-landing-page|Impact]] customers navigate ServiceNow's expansive catalog of AI and automation capabilities with prescriptive guidance tailored to organizational objectives. This includes building a personalized roadmap to adopt the ServiceNow capabilities that are aligned with your strategic goals and recommending Impact AI Accelerators to accelerate and enhance adoption.
+Jumpstart Your ServiceNow AI Journey helps Impact customers navigate ServiceNow's expansive catalog of AI and automation capabilities with prescriptive guidance tailored to organizational objectives. This includes building a personalized roadmap to adopt the ServiceNow capabilities that are aligned with your strategic goals and recommending Impact AI Accelerators to accelerate and enhance adoption.
 
 ## Package Availability
 
@@ -66,6 +66,3 @@ Jumpstart Your ServiceNow AI Journey helps [[impact-landing-page|Impact]] custom
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]

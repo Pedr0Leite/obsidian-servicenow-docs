@@ -30,7 +30,7 @@ You can modify or create matching criteria and then modify the **Recommendation 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Matching [[gamification-components-rules|Rules]]** to access the Matching Rules list.
+1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Matching Rules** to access the Matching Rules list.
 
 2.  Click **New**.
 
@@ -120,6 +120,4 @@ A lower value is better. For example, fewer cases are better when determining th
 
     Changing this setting has an immediate impact on the agent ranking. It may be necessary to personalize the list and add the **Active** column.
 
-## Related
 
-- [[gamification-components-rules|Rules]]

@@ -24,7 +24,7 @@ Supported version: 21.3.71.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Click **New** and create a connector instance with the following details:
 
@@ -101,6 +101,3 @@ Supported version: 21.3.71.
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]

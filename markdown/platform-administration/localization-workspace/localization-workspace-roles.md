@@ -14,11 +14,11 @@ breadcrumb: [Localization Workspace reference, Localization Workspace, Translati
 
 # Localization Workspace Roles
 
-[[localization-workspace|Localization Workspace]] is installed with these roles.
+Localization Workspace is installed with these roles.
 
 ## Localization Framework roles used in Localization Workspace
 
-Many roles used in Localization Workspace are inherited from [[localization-framework-landing|Localization Framework]]. For detailed information about the following, see [Localization Framework Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/roles-localization-framework.md).
+Many roles used in Localization Workspace are inherited from Localization Framework. For detailed information about the following, see [Localization Framework Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/roles-localization-framework.md).
 
 |User|Name|
 |----|----|
@@ -32,7 +32,7 @@ Many roles used in Localization Workspace are inherited from [[localization-fram
 
 ## Terminology Manager \(sn\_lw.terminology\_manager\)
 
-Upload, review, and manage glossaries in the [[lw-language-asset-management|Language Asset Management]] area of Localization Workspace.
+Upload, review, and manage glossaries in the Language Asset Management area of Localization Workspace.
 
 ### Contains Roles
 
@@ -83,8 +83,3 @@ None.
 
 The sn\_cd.content\_admin role is required to see Content Publishing items from Localization Workspace. The sn\_cd.content\_admin role is different from the content\_admin role. For more information about sn\_cd.content\_admin, see [Types of Localizable content in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-localizable-content.md).
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[localization-framework-landing|Localization Framework]]
-- [[lw-language-asset-management|Language Asset Management]]

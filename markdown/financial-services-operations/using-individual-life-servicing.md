@@ -12,7 +12,7 @@ breadcrumb: [Individual Life Servicing, Life Insurance Servicing, Insurance appl
 
 # Using Individual Life Servicing
 
-Learn how the following roles use [[individual-life-servicing|Individual Life Servicing]] to update policies, review and approve underwriting, and send documents for individual life policies.
+Learn how the following roles use Individual Life Servicing to update policies, review and approve underwriting, and send documents for individual life policies.
 
 With Individual Life Servicing, contributors/processors can submit cases on behalf of the customer, and processors/underwriters can work on the cases raised on the individual policy case type.
 
@@ -32,7 +32,7 @@ Contributors and processors use personalized Workspace to work on all aspects of
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 <table id="table_qy1_452_wrb"><thead><tr><th>
 
@@ -48,7 +48,7 @@ Policy admin
 
 </td><td>
 
-Configures the insurance policy workspace as per business requirements. For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the insurance policy workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr><tr><td>
 
@@ -96,9 +96,3 @@ Views the status of tasks and works on underwriting-specific tasks.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[individual-life-servicing|Individual Life Servicing]]

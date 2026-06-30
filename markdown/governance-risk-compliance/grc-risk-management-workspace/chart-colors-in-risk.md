@@ -16,7 +16,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 You can view your risk data visualizations in different colors for a quick overview of your risks.
 
-Various risk reports appear on the Risk home page. Some examples of these reports are pie charts, bar graphs and so on. These reports show the risk ratings in different colors. By default, ServiceNow® provides the chart colors for the following risk ratings for Advanced [[risk-assessments|Risk Assessments]].
+Various risk reports appear on the Risk home page. Some examples of these reports are pie charts, bar graphs and so on. These reports show the risk ratings in different colors. By default, ServiceNow® provides the chart colors for the following risk ratings for Advanced Risk Assessments.
 
 -   Very high
 -   Critical
@@ -43,6 +43,3 @@ If you want to add or modify a risk criteria or a risk rating, a report administ
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

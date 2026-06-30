@@ -28,7 +28,7 @@ Only the owner of the board can create the sorting criteria, and add, edit, or d
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  On the My Task Boards page, select **New**.
 
@@ -61,6 +61,3 @@ Only the owner of the board can create the sorting criteria, and add, edit, or d
 
 **Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/configuring-vis-task-boards.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

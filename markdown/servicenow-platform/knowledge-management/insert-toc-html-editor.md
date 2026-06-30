@@ -18,7 +18,7 @@ Insert a hierarchical table of contents \(toc\) based on the headings in your kn
 
 ## Before you begin
 
-Open the knowledge article in which you want to use the [[html|HTML]] editor.
+Open the knowledge article in which you want to use the HTML editor.
 
 **Note:** If your article uses a custom template, you may need to create the table of contents manually using the anchor option in the HTML Toolbar and editing the source code.
 
@@ -26,7 +26,7 @@ Role required: none
 
 ## About this task
 
-You can also use the HTML editor when creating or editing a knowledge article using the [[knowledge-management|Knowledge Management]] application in the ServiceNow AI Platform interface or in Agent Workspace. To create or [[edit-knowledge-article|edit a knowledge article]] in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or [[edit-article-workspace|edit a knowledge article in Agent Workspace]], see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
+You can also use the HTML editor when creating or editing a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface or in Agent Workspace. To create or edit a knowledge article in the ServiceNow AI Platform interface, see [Create a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-knowledge-article.md) or [Edit a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-article.md). To create or edit a knowledge article in Agent Workspace, see [Create a knowledge article in Agent Workspace]() or [Edit a knowledge article in Agent Workspace]().
 
 You can generate a table of contents only if your article uses heading levels from Heading 1 to Heading 3 and is a standard article.
 
@@ -69,9 +69,3 @@ The HTML editor searches for the headings in your content including their levels
 
 **Note:** To add any additional links, use the anchor option in the HTML Toolbar.
 
-## Related
-
-- [[html|HTML]]
-- [[knowledge-management|Knowledge Management]]
-- [[edit-knowledge-article|Edit a knowledge article]]
-- [[edit-article-workspace|Edit a knowledge article in Agent Workspace]]

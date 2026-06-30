@@ -14,13 +14,13 @@ breadcrumb: [CI relationships in the CMDB, Configuration Management Database \(C
 
 # CI relationship editor
 
-Use the relationship editor to view, create, modify, or delete CI relationships. Open the relationship editor from the [[c_CIRelationsFormatterNG|CI Relations formatter]].
+Use the relationship editor to view, create, modify, or delete CI relationships. Open the relationship editor from the CI Relations formatter.
 
 As an alternative to the CI relationship editor, [Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/cmdb-workspace-unified-map.md) in the [CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or in [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md) provides the latest functionality for editing CI relationships. For more information, see [Edit relationships in Unified Map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/unified-map-edit-connection.md).
 
 When you use the relationship editor, the CI from which the editor was launched is designated as the base CI. You can then select one or more CIs as a second CI for the relationship. Depending on the selected relationship type, the base CI can become the parent CI or the child CI in the new relationship.
 
-The relationship editor operates differently, depending on whether you select the **Use suggested relationship** [[check-box|check box]].
+The relationship editor operates differently, depending on whether you select the **Use suggested relationship** check box.
 
 -   With suggested relationships, the relationship editor lists all available relationship types for the base CI. To define a new relationship, select a relationship type, and then select a second CI for the relationship.
 
@@ -53,7 +53,7 @@ Use the relationship editor to view, create, or modify CI relationships. You can
 -   **[Delete a CI relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/delete-ci-relationship.md)**  
 Maintain the integrity of the CMDB by deleting any CI relationships that are no longer relevant or needed for a CI. Use the relationship editor to delete CI relationships.
 -   **[Legacy CI relationship builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationshipBuilder.md)**  
-Used to define CI relationships manually, this page is a sophisticated version of the standard [[list-collector|list collector]]. In the [[r_LegacyCIRelationsFormatter|legacy CI relations formatter]], click the CI relationship builder icon \(\[Omitted image "CIRelationshipBuilderIcon.png"\] Alt text: CI relationship builder icon\) to display the legacy Define Relationships page.
+Used to define CI relationships manually, this page is a sophisticated version of the standard list collector. In the legacy CI relations formatter, click the CI relationship builder icon \(\[Omitted image "CIRelationshipBuilderIcon.png"\] Alt text: CI relationship builder icon\) to display the legacy Define Relationships page.
 
 **Parent Topic:**[CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
@@ -80,9 +80,3 @@ Used to define CI relationships manually, this page is a sophisticated version o
 
 [Legacy CI relationship builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationshipBuilder.md)
 
-## Related
-
-- [[c_CIRelationsFormatterNG|CI relations formatter]]
-- [[check-box|Check box]]
-- [[list-collector|List collector]]
-- [[r_LegacyCIRelationsFormatter|Legacy CI relations formatter]]

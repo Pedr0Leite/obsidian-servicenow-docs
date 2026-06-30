@@ -94,11 +94,7 @@ Under Global sizes, expand Base font size. Locate the individual size that you w
 
 Theme Builder automatically saves your theme record.
 
-If your theme is published, your font sizing edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your font sizing edits are visible to users who have your theme applied on refresh. For information on publishing your theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[working-with-global-styles|Working with Global styles]]
+**Parent Topic:**[Working with Global styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-with-global-styles.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[working-with-global-styles|Working with Global styles]]

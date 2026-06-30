@@ -14,7 +14,7 @@ breadcrumb: [Search signals, Search administration, Configure core features, Adm
 
 # Search signal tables
 
-Search uses tables to store details from user searches, search refinements, and interactions with search [[hs-results|results]]. These details are called [[search-signals|search signals]]. Data from the search signal tables helps improve the relevancy of search results in your system.
+Search uses tables to store details from user searches, search refinements, and interactions with search results. These details are called search signals. Data from the search signal tables helps improve the relevancy of search results in your system.
 
 Search signals refer to user, query, and similar data stored in columns on search suggestion tables. For a guide to search suggestion tables and their columns, see [Search Suggestions tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/understanding-search-suggestion-tables.md).
 
@@ -38,7 +38,7 @@ Search event
 
 </td><td>
 
-[[reference-email-admin|Reference]] to the record for the search event on the Search Event \[sys\_search\_event\] table.
+Reference to the record for the search event on the Search Event \[sys\_search\_event\] table.
 
 </td></tr><tr><td>
 
@@ -78,7 +78,7 @@ First page results
 
 </td><td>
 
-JSON array of objects in which each node represents a single result returned in the first page of results for the search. The result order is preserved. Each object includes the [[c_UniqueRecordIdentifier|unique record identifier \(sys\_id\)]] of a result and the table where the result is located.**Note:** The first page results aren't updated when you refine a search.
+JSON array of objects in which each node represents a single result returned in the first page of results for the search. The result order is preserved. Each object includes the unique record identifier \(sys\_id\) of a result and the table where the result is located.**Note:** The first page results aren't updated when you refine a search.
 
 </td></tr><tr><td>
 
@@ -113,7 +113,7 @@ The Search Signal Result Event \[sys\_search\_signal\_result\_event\] table stor
 |Search Signal Event|Reference to the record for the search on the Search Signal Event \[sys\_search\_signal\_event\] table.|
 |Number|Record number for the selected search result.|
 |Domain|Domain to which the selected search result belongs.|
-|Use for Suggestions|Option indicating whether [[ia-ai-search|AI Search]] uses this result selection when computing auto-complete suggestions. For more details, see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md)|
+|Use for Suggestions|Option indicating whether AI Search uses this result selection when computing auto-complete suggestions. For more details, see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md)|
 |Source URL|URL for the selected search result.|
 |Action Data|JSON array of objects representing the search result selection action.|
 
@@ -181,7 +181,7 @@ Matched Genius Result Intents
 
 </td><td>
 
-List of NLU model intents matched by the action taken from the Genius Result answer card.**Note:** This field is only populated for Genius Result [[clone-configurations-tab|configurations]] with NLU triggers.
+List of NLU model intents matched by the action taken from the Genius Result answer card.**Note:** This field is only populated for Genius Result configurations with NLU triggers.
 
 </td></tr><tr><td>
 
@@ -201,12 +201,3 @@ Reference to the record for the Genius Result answer card on the Search Signal R
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hs-results|Results]]
-- [[search-signals|Search signals]]
-- [[reference-email-admin|Reference]]
-- [[c_UniqueRecordIdentifier|Unique record identifier \(sys\_id\)]]
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]

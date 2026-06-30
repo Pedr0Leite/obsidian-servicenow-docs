@@ -22,7 +22,7 @@ Role required: content\_admin or admin
 
 ## About this task
 
-[[configure-onboarding-modals|Configure]] an iFrame with [[form-configurable-workspace|forms]] you create in the instance and link to the page in which the iFrame resides.
+Configure an iFrame with forms you create in the instance and link to the page in which the iFrame resides.
 
 **Note:** Do not add any type of report, such as a calendar, to iFrames. For more information on adding a report directly onto a page without using iFrames, see [Embedding reports in Jelly](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_EmbeddingReportsInJelly.md).
 
@@ -34,7 +34,7 @@ Role required: content\_admin or admin
 
 2.  Click **New**.
 
-3.  Complete the iFrame [[c_FormFields|form fields]].
+3.  Complete the iFrame form fields.
 
 <table id="table_snn_mgc_gr"><thead><tr><th>
 
@@ -58,7 +58,7 @@ Frame name
 
 </td><td>
 
-Type a name for the frame on the page. When you use iFrames to present ServiceNow content such as forms or [[lists-configurable-workspace|lists]], the frame name must be `gsft_main`. This name allows links within the iFrame to open within the iFrame.
+Type a name for the frame on the page. When you use iFrames to present ServiceNow content such as forms or lists, the frame name must be `gsft_main`. This name allows links within the iFrame to open within the iFrame.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,7 @@ Enter the URL to display in the iFrame. If you use the iFrame to display Service
 
  `sc_req_item_list.do?sysparm_query=active=true`
 
- For more information, see [[navigate-using-url|Navigate to a record or module using a URL]].
+ For more information, see [Navigate to a record or module using a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md).
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Select an option for iFrame block size.**Note:** The **Expand to fit content** c
 
 
 -   **[Integrate Live Feed with CMS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AddLiveFeedToIFrame.md)**  
-You can provide access to Live Feed from pages built in the [[c_ContentManagementSystem|Content Management System]] \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
+You can provide access to Live Feed from pages built in the Content Management System \(CMS\). For example, allow an end user to access your company feed via the ESS portal.
 -   **[iFrame methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_IFrameMethods.md)**  
 The following examples show how system records are pulled into an iFrame that is placed on a content page.
 
@@ -116,11 +116,3 @@ The following examples show how system records are pulled into an iFrame that is
 
 [Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 
-## Related
-
-- [[navigate-using-url|Navigate to a record or module using a URL]]
-- [[configure-onboarding-modals|Configure]]
-- [[form-configurable-workspace|Forms]]
-- [[c_FormFields|Form fields]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_ContentManagementSystem|Content Management System]]

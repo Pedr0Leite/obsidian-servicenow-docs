@@ -14,7 +14,7 @@ breadcrumb: [Exploring Outbound Intel Sharing, Configuring Threat Intelligence E
 
 # Configuring Outbound Intel Sharing Profiles
 
-Use this section to create new Outbound Intelligence Profiles. The outbound intelligence profiles specify the endpoint details to which [[threat-intel-landing-page|threat intelligence]] data is sent.
+Use this section to create new Outbound Intelligence Profiles. The outbound intelligence profiles specify the endpoint details to which threat intelligence data is sent.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Outbound Intel Sharing**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Outbound Intel Sharing**.
 
 2.  Select **Outbound Intel Sharing Profiles**.
 
@@ -157,7 +157,3 @@ Any headers to be passed with the requests can be provided for the outbound inte
 
 [Working on the Redaction Library]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

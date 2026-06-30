@@ -18,7 +18,7 @@ Configure a gift policy in accordance with your organization's policy. This poli
 
 ## Before you begin
 
-Ensure that the [[lsd-ge-landing-page|Gifts and Entertainment Compliance]] application scope is selected.
+Ensure that the Gifts and Entertainment Compliance application scope is selected.
 
 Role required: sn\_lg\_gifts.gifts\_config
 
@@ -37,6 +37,3 @@ Role required: sn\_lg\_gifts.gifts\_config
 
 **Parent Topic:**[Configure Gifts and Entertainment Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-gifts-and-entertainment/lsd-ge-administration.md)
 
-## Related
-
-- [[lsd-ge-landing-page|Gifts and Entertainment Compliance]]

@@ -18,11 +18,7 @@ Role required: sn\_si.analyst
 
 \[Omitted image "get-running-processes-flow.png"\] Alt text: Security Operations - Get Running Processes Flow
 
-Activities specific to this flow are described here. For more information on other activities, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Activities specific to this flow are described here. For more information on other activities, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
-**Parent Topic:**[[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
+**Parent Topic:**[Security Operations Integration- Get Running Processes capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]

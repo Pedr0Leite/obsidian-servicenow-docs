@@ -28,7 +28,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select a free-form roadmap to open it.
 
@@ -50,6 +50,3 @@ Role required: sn\_align\_core.ap\_read\_only
 
 [Edit a free-form roadmap view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-free-form-roadmap-view-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

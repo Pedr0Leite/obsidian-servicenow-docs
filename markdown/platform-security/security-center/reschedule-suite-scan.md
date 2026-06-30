@@ -14,7 +14,7 @@ breadcrumb: [Scan suites, Security scanner, Security configuration console, Secu
 
 # Reschedule a scan suite
 
-Change the schedule of your [[sec-center-suites|scan suites]] to suit your needs.
+Change the schedule of your scan suites to suit your needs.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: admin, sn\_vsc.security\_center\_viewer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[sec-center-v2|Security Center]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Security Center**.
 
-2.  In the **Tools** section, select **[[sc-scanning|Security scanner]]**.
+2.  In the **Tools** section, select **Security scanner**.
 
 3.  Select **Suites** in the menu on the left edge of the screen.
 
@@ -96,8 +96,3 @@ Which timezone the schedule uses when determining when to run.
 </table>
 **Parent Topic:**[Scan suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-suites.md)
 
-## Related
-
-- [[sec-center-suites|Scan suites]]
-- [[sec-center-v2|Security Center]]
-- [[sc-scanning|Security scanner]]

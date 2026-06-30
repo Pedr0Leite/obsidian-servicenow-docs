@@ -12,7 +12,7 @@ breadcrumb: [Schedule Optimization components, Reference, Field Service Manageme
 
 # Objectives and constraints used with Schedule Optimization
 
-Objectives and constraints are optimization features that determine how tasks are assigned to technicians in [[schedule-optimization|Schedule Optimization]].
+Objectives and constraints are optimization features that determine how tasks are assigned to technicians in Schedule Optimization.
 
 ## Objectives
 
@@ -74,7 +74,7 @@ Maximize efficient assignments
 
 Incentive to assign tasks to technicians based on efficiency, with rewards for quicker completion and penalties for slower completion compared to planned durations.
 
-**Note:** The [[agent-efficiency|Field Service Agent Efficiency]] \(com.snc.fsm\_agent\_efficiency\) plugin must be installed to use this feature.
+**Note:** The Field Service Agent Efficiency \(com.snc.fsm\_agent\_efficiency\) plugin must be installed to use this feature.
 
 </td><td>
 
@@ -486,7 +486,7 @@ Enable flexible breaks
 
 </td><td>
 
-Task assignments consider flexible breaks and can move them within their allowable windows for efficient scheduling.**Note:** The Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\) plugin must be installed and [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] must be activated to use the flexible breaks feature. For more information, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
+Task assignments consider flexible breaks and can move them within their allowable windows for efficient scheduling.**Note:** The Shift Scheduling for Field Service \(com.snc.sn\_fsm\_shift\_schdl\) plugin must be installed and Workforce Optimization for Field Service must be activated to use the flexible breaks feature. For more information, see [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md).
 
 </td><td>
 
@@ -506,7 +506,7 @@ A technician has 3 parts. Task "X" requires 3 optional parts, task "Y" requires 
 
 </td></tr><tr><td>
 
-Enable [[mandatory-skills|mandatory skills]]
+Enable mandatory skills
 
 </td><td>
 
@@ -579,12 +579,5 @@ Shift "A" and Shift "B" are assigned to different technicians who complete task 
 **Note:** This constraint works with the **Maximize Efficient Assignments** objective to reward faster completions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[schedule-optimization-components|Schedule Optimization components]]
+</table>**Parent Topic:**[Schedule Optimization components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-components.md)
 
-## Related
-
-- [[schedule-optimization-components|Schedule Optimization components]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[agent-efficiency|Field Service Agent Efficiency]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[mandatory-skills|Mandatory skills]]

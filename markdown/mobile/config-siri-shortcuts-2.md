@@ -39,8 +39,5 @@ As an admin, you can change the destination screen of the three of default Siri 
 3.  In the screen shortcut record, update the **Screen** field by clicking the reference icon \(\[Omitted image "reference-lookup-icon.png"\] Alt text: Reference lookup icon\) and selecting a screen. This screen displays to your users when they access the associated Siri shortcut.
 
 
-**Parent Topic:**[[siri-shortcuts|Siri shortcuts]]
+**Parent Topic:**[Siri shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/siri-shortcuts.md)
 
-## Related
-
-- [[siri-shortcuts|Siri shortcuts]]

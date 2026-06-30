@@ -22,7 +22,7 @@ Role required: sn\_skills\_int.emp
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  In the **Employee Center**, navigate to **Profile** &gt; **Career**.
 
@@ -35,6 +35,3 @@ Role required: sn\_skills\_int.emp
 
 **Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-skills-intelligence.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

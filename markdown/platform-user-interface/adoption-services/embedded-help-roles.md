@@ -14,7 +14,7 @@ breadcrumb: [Embedded Help planning, Configuring Embedded Help, Embedded Help, I
 
 # Embedded Help roles
 
-[[embedded-help|Embedded help]] content can be targeted to users with a specified role who access the UI page. All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page.
+Embedded help content can be targeted to users with a specified role who access the UI page. All roles that contain the role also see the content, unless another topic targeted to their role exists for the same page.
 
 For example, if you add embedded help content for the itil role that describes your business process for entering incidents, the itil\_admin role also sees the content. If you write a different topic with the itil\_admin role, the itil\_admin sees that content instead of the itil content.
 
@@ -93,6 +93,3 @@ You can modify the default order of priority that is assigned to a role in the E
 
 **Parent Topic:**[Embedded Help planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/embedded-help-planning.md)
 
-## Related
-
-- [[embedded-help|Embedded Help]]

@@ -14,14 +14,14 @@ breadcrumb: [Legal Content Review, Legal Service Delivery Practice Applications,
 
 # Exploring Legal Content Review
 
-The [[legal-content-review|Legal Content Review]] \(sn\_lg\_cont\_review\) application enables authorized employees in your organization to submit Legal Content Review compliance requests and to track the progress of the request. Users in the legal department who have appropriate roles can work on and resolve these requests.
+The Legal Content Review \(sn\_lg\_cont\_review\) application enables authorized employees in your organization to submit Legal Content Review compliance requests and to track the progress of the request. Users in the legal department who have appropriate roles can work on and resolve these requests.
 
 ## Features
 
 The features of this application include:
 
 -   Submitting Legal Content Review request through a service portal or Virtual Agent
--   Managing [[legal-content-review-requests|Legal Content Review requests]] by resolving the issue or answering queries
+-   Managing Legal Content Review requests by resolving the issue or answering queries
 
 ## Benefits
 
@@ -29,13 +29,8 @@ The benefits of this application include:
 
 -   Easily accessed employee self-service that replaces manual, unstructured email processes and tasks
 -   Automated responses for common legal requests with virtual agents
--   A centralized [[legal-counsel-center-landing|Legal Counsel Center]] that enables you to track, prioritize, and work on multiple requests concurrently
+-   A centralized Legal Counsel Center that enables you to track, prioritize, and work on multiple requests concurrently
 -   Real-time visibility on legal service demands that helps you make meaningful decisions
 
 **Parent Topic:**[Legal Content Review](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-content-review.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]
-- [[legal-content-review-requests|Legal Content Review requests]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

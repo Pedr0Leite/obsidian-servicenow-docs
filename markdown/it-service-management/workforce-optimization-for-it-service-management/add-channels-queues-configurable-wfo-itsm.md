@@ -28,7 +28,7 @@ A service channel is a means of assigning a specific type of work items to agent
 
 1.  To create a service channel, do the following:
 
-    1.  Navigate to **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Channel Management** &gt; **Service Channels**.
+    1.  Navigate to **Workforce Optimization for ITSM** &gt; **Channel Management** &gt; **Service Channels**.
     2.  Click **New** and refer to the information in the [Create a service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-create-service-channel.md) to create the service channel.
     3.  Click **Submit**.
     The service channel is created.
@@ -42,6 +42,3 @@ A service channel is a means of assigning a specific type of work items to agent
 
 **Parent Topic:**[Setting up Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

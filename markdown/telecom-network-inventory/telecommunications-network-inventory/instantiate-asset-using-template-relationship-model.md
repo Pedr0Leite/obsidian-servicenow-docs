@@ -14,11 +14,11 @@ breadcrumb: [Use, Telecommunications Network Inventory]
 
 # Instantiating your network inventory by using design and assign
 
-By instantiating your network inventory in the [[telecom-network-inventory|Telecommunications Network Inventory]] application, you can generate and validate your inventory records at the site level. You can also generate your individual network instances from your defined inventory templates and models and then verify that they’re properly configured.
+By instantiating your network inventory in the Telecommunications Network Inventory application, you can generate and validate your inventory records at the site level. You can also generate your individual network instances from your defined inventory templates and models and then verify that they’re properly configured.
 
 ## Design and assign overview
 
-You can instantiate a network inventory by using the [[using-playbooks-design-assign-inventory-record|design and assign function]] by doing the following tasks:
+You can instantiate a network inventory by using the design and assign function by doing the following tasks:
 
 1.  Create a change request by using the change model.
 
@@ -39,11 +39,11 @@ The record producers capture the data that you must enter to perform the invento
 -   Change the type of change request. The change task form includes a **Request type** field that describes the type of change request. Based on your selection, a form appears on the **Task Attributes** tab. By assigning a record producer form to the request type field of the change task, you can determine which form appears when you select a type. Based on the selected **Request type** field, a form appears under the **Task Attributes** tab. After filling out the fields in the form, the change request form updates. To learn more, see [Assign a record producer form for a request type of a change task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/assign_record_producer_form_for_a_change_task_of_a_change_request.md).
 
 -   **[Create a change request from Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_change_request_in_tni.md)**  
-Create, review, update, or close a change request for a change model from the [[exploring-network-inventory-workspace|network inventory workspace]] of the Telecommunications Network Inventory application. You can also analyze the instantiation details of the network instance.
+Create, review, update, or close a change request for a change model from the network inventory workspace of the Telecommunications Network Inventory application. You can also analyze the instantiation details of the network instance.
 -   **[Create and execute a change task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-change-task-in-tni.md)**  
 Create a change task after you create a change request in the Telecommunications Network Inventory application. By creating a change task, you can complete the requested change.
 -   **[Create a Link Aggregation Group using design and assign function](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_a_change_request_by_using_the_design_assign_link_aggregation_group.md)**  
-[[telecommunications-circuit-design-resource-assignment|Design and assign]] a Link Aggregation Group \(LAG\) with the creation of Ethernet connections in the Telecommunications Network Inventory application. By creating a LAG connection, you can fulfill an order request from the customer.
+Design and assign a Link Aggregation Group \(LAG\) with the creation of Ethernet connections in the Telecommunications Network Inventory application. By creating a LAG connection, you can fulfill an order request from the customer.
 -   **[Add or remove a member to Link Aggregation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-to-add-or-remove-member-to-link-aggregation.md)**  
 Create a change request to add or remove a member to the design assign link aggregation change request by using the Telecommunications Network Inventory application.
 -   **[Design your GPON Broadband Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/gpon-broadband-change-model.md)**  
@@ -51,9 +51,9 @@ The GPON broadband service change model creates and orchestrates multiple change
 -   **[Modify logical connection endpoints model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-by-using-modify-logical-connection-endpoints-model.md)**  
 Modify logical connection endpoints and its details using design and assign function in the Telecommunications Network Inventory application. By making changes in the logical connection endpoints, you can fulfill an order request from the customer.
 -   **[Modify physical connection endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-by-using-modify-physical-connection.md)**  
-[[create-a-change-request-by-using-modify-physical-connection|Modify physical connection endpoints]] and it's details using design and assign function in the Telecommunications Network Inventory application. By making changes in the physical connection endpoints, you can fulfill an order request from the customer.
+Modify physical connection endpoints and it's details using design and assign function in the Telecommunications Network Inventory application. By making changes in the physical connection endpoints, you can fulfill an order request from the customer.
 -   **[Create a network topology record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-network-topology-design-assign.md)**  
-Create a [[using-network-topology|network topology]] record using the design and assign function in the Telecommunications Network Inventory application. By creating the network topology, you can visualize how the network elements are organized and connected to one another.
+Create a network topology record using the design and assign function in the Telecommunications Network Inventory application. By creating the network topology, you can visualize how the network elements are organized and connected to one another.
 -   **[Add or remove a member to network topology record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/modify-network-topology-record-design-assign.md)**  
 Modify a network topology record using the design and assign function in the Telecommunications Network Inventory application. You can add or delete the elements in an existing network topology record and visualize how the network elements are organized and connected to one another.
 -   **[Create a cable record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-cable-record-using-design-assign.md)**  
@@ -61,7 +61,7 @@ Create a cable record using the design and assign function in the Telecommunicat
 -   **[Create an equipment record by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-equipment-record-design-and-assign.md)**  
 Create an equipment record using the design and assign function in the Telecommunications Network Inventory application. By creating the equipment and its related inventory records, you can fulfill an order request for an equipment record.
 -   **[Add a card to equipment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-card-equipment-design-assign-function.md)**  
-[[add-card-equipment-design-assign-function|Add a card to equipment]] record using design and assign function in the Telecommunications Network Inventory application. By adding a card, you can fulfill an order request for a customer requirement.
+Add a card to equipment record using design and assign function in the Telecommunications Network Inventory application. By adding a card, you can fulfill an order request for a customer requirement.
 -   **[Add an equipment or rack to logical composite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-equipment-rack-logical-composite.md)**  
 Add equipment or rack to a logical composite using design and assign.
 -   **[Remove an equipment or rack from logical composite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remove-equipment-rack-logical-composite.md)**  
@@ -69,29 +69,17 @@ Remove a rack or equipment from a logical composite using design and assign.
 -   **[Add an equipment to rack or cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/add-equipment-rack.md)**  
 Add equipment to a rack or cabinet using design and assign function in the Telecommunications Network Inventory application. By adding the equipment to rack, you can fulfill a customer order request.
 -   **[Remove an equipment or shelf from a rack or cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/remove-equipment-shelf-rack-cabinet.md)**  
-[[remove-equipment-shelf-rack-cabinet|Remove an equipment or shelf from a rack or cabinet]] using design and assign function in the Telecommunications Network Inventory application. By removing the equipment from rack, you can fulfill a customer order request.
+Remove an equipment or shelf from a rack or cabinet using design and assign function in the Telecommunications Network Inventory application. By removing the equipment from rack, you can fulfill a customer order request.
 -   **[Create logical connection record using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-logical-connection-record-using-design-assign.md)**  
-[[create-logical-connection-record-design-assign-playbook|Create a logical connection record using the design and assign function]] in the Telecommunications Network Inventory application. By creating the logical connection and its related inventory records, you can fulfill an order request for an equipment record.
+Create a logical connection record using the design and assign function in the Telecommunications Network Inventory application. By creating the logical connection and its related inventory records, you can fulfill an order request for an equipment record.
 -   **[Create physical connection using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-physical-connection-design-assign.md)**  
 Create an physical connection record using the design and assign function in the Telecommunications Network Inventory application. By creating the physical connection and its related inventory records, you can fulfill an order request for an equipment record.
 -   **[Revise a configuration item using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/revise-a-configuration-item.md)**  
 Revise a CI \(Configuration Item\) of the connection to update a CI in the Telecommunications Network Inventory application.
 -   **[Operationalize a configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/operationalize-a-configuration-item.md)**  
-[[operationalize-a-configuration-item|Operationalize a Configuration Item]] so that you can finalize the changes and apply them on the original CI.
+Operationalize a Configuration Item so that you can finalize the changes and apply them on the original CI.
 -   **[Allocate phone number](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/allocate-phone-number.md)**  
 The phone number allocation change model enables you to design and assign the required telephone number from a pool or standalone telephone number format.
 
 **Parent Topic:**[Using Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[create-a-change-request-by-using-modify-physical-connection|Modify physical connection endpoints]]
-- [[using-network-topology|Network topology]]
-- [[add-card-equipment-design-assign-function|Add a card to equipment]]
-- [[remove-equipment-shelf-rack-cabinet|Remove an equipment or shelf from a rack or cabinet]]
-- [[create-logical-connection-record-design-assign-playbook|Create a logical connection record using the Design and Assign function]]
-- [[operationalize-a-configuration-item|Operationalize a configuration item]]

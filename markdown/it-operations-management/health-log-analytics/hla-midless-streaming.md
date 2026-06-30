@@ -15,7 +15,7 @@ breadcrumb: [MID-less integrations, Set up integrations from Integrations Launch
 
 # MID-less log streaming via ITOM Gateway in Health Log Analytics
 
-[[hla-landing-page|Health Log Analytics]] \(HLA\) can receive log data from external sources directly through the ITOM Gateway, without routing data through a MID Server. This architecture supports cloud-native log sources such as Amazon Data Firehose, Cribl, and OpenTelemetry, and is required for high-volume HLA deployments.
+Health Log Analytics \(HLA\) can receive log data from external sources directly through the ITOM Gateway, without routing data through a MID Server. This architecture supports cloud-native log sources such as Amazon Data Firehose, Cribl, and OpenTelemetry, and is required for high-volume HLA deployments.
 
 ## How log streaming via ITOM Gateway works
 
@@ -84,6 +84,3 @@ Log sources authenticate to HLA using a JWT token. You must configure a JWT prov
 
 [Set up log streaming via ITOM Gateway for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-midless-streaming-setup.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

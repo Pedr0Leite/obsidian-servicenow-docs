@@ -24,7 +24,7 @@ Role required: agent\_client\_collector\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Configuration** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Configuration** &gt; **Policies**.
 
 2.  Select the policy containing the CIs you want the proxy agents to monitor.
 
@@ -41,6 +41,3 @@ Role required: agent\_client\_collector\_user
 
 **Parent Topic:**[Assign a proxy agent cluster to a policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/assign-proxy-cluster-policy.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -22,15 +22,15 @@ Role required: \[sn\_ai\_governance\_ai\_steward\]
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[ai-control-tower-landing|AI Control Tower]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower**.
 
-2.  Select the **[[ai-inventory|AI asset inventory]]** tab and navigate to the asset that you want to assign a value template to.
+2.  Select the **AI asset inventory** tab and navigate to the asset that you want to assign a value template to.
 
 3.  In the **Value template** tab, select **Add template**.
 
     \[Omitted image "aict-add-value-template.png"\] Alt text: Value template tab in AI Control Tower.
 
-4.  On the [[add-value-template-form|Add value template form]], fill in the fields.
+4.  On the Add value template form, fill in the fields.
 
     For a description of the field values, see [Add value template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/add-value-template-form.md).
 
@@ -44,8 +44,4 @@ Role required: \[sn\_ai\_governance\_ai\_steward\]
 
     When a value template is published, it’s modified across all instances and subsequent calculations are based on the new template.
 
-## Related
 
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-inventory|AI asset inventory]]
-- [[add-value-template-form|Add value template form]]

@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector certificate revocation reasons
 
-The following table lists and describes the possible reasons for revoking an [[acc-landing-page|Agent Client Collector]] certificate to stop communication between the agent and ITOM cloud services.
+The following table lists and describes the possible reasons for revoking an Agent Client Collector certificate to stop communication between the agent and ITOM cloud services.
 
 <table id="table_ckg_4yj_tfc"><thead><tr><th>
 
@@ -107,6 +107,3 @@ Indicates suspected or actual compromise of the authentication authority \(AA\) 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

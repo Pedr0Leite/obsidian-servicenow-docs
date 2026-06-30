@@ -52,10 +52,7 @@ When you select a table \(sc\_request\) and enable the e-signature, the approver
 
 \[Omitted image "esignature-authentication.png"\] Alt text: User credential authentication for approval
 
-**Note:** When you do not upgrade to the latest [[employee-center-landing-page|employee center]], you do not see the authentication window.
+**Note:** When you do not upgrade to the latest employee center, you do not see the authentication window.
 
 For more information on approvals, see [Use approval experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-dos-use-approval-hub.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

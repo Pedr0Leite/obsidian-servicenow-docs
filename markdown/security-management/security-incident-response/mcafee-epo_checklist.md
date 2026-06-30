@@ -42,10 +42,10 @@ Check box
 
 </td><td>
 
-As a user with the ServiceNow AI Platform® administrator role, set up your ServiceNow AI Platform® instance.1.  Assign ServiceNow AI Platform® and [[sir-landing-page|Security Incident Response]] roles.
+As a user with the ServiceNow AI Platform® administrator role, set up your ServiceNow AI Platform® instance.1.  Assign ServiceNow AI Platform® and Security Incident Response roles.
 2.  Verify that any ServiceNow Security Incident Response and other plugins that support the integration are installed and activated for your release of the ServiceNow AI Platform.
-3.  [[configure-cortex-xsiam-siem|Install and configure]] a MID server in your ServiceNow AI Platform® instance.
-4.  [[create-approval-group-mcafee|Create an approval group]] if you want to process requests submitted from the security incident analyst for the isolate host and initiate [[threat-intelligence-malware|malware]] scan actions.
+3.  Install and configure a MID server in your ServiceNow AI Platform® instance.
+4.  Create an approval group if you want to process requests submitted from the security incident analyst for the isolate host and initiate malware scan actions.
 For more information, see [Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-setup-now.md).
 
 </td></tr><tr><td>
@@ -57,7 +57,7 @@ Check box
 As McAfee ePO administrator, set up your McAfee ePO console.1.  Verify that you are using version 5.9 of McAfee ePO.
 2.  Install the ServiceNow extension plugin in your McAfee ePO console.
 3.  Verify you have created security tags in your McAfee ePO console for the isolate host and initiate malware scan actions.
-For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md). For more information and to obtain the extension plugin file, in your ServiceNow AI Platform instance, navigate to **Knowledge** &gt; **Articles** &gt; **All** and, in the Search field, enter, `ServiceNow [[security-operations-landing-page|Security Operations]] Extension for McAfee ePO`.
+For more information, see [Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md). For more information and to obtain the extension plugin file, in your ServiceNow AI Platform instance, navigate to **Knowledge** &gt; **Articles** &gt; **All** and, in the Search field, enter, `ServiceNow Security Operations Extension for McAfee ePO`.
 
 </td></tr><tr><td>
 
@@ -81,7 +81,7 @@ Check box
 
 </td><td>
 
-As a user with the security incident administrator role, [[arcsight-esm-create-profile|create a profile]] for McAfee ePO capabilities. For information about profiles, see [McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md). For the steps required to create a profile, see [Create a capability profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-create-profile.md).
+As a user with the security incident administrator role, create a profile for McAfee ePO capabilities. For information about profiles, see [McAfee ePO integration capability profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-creating-profiles.md). For the steps required to create a profile, see [Create a capability profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-create-profile.md).
 
 </td></tr><tr><td>
 
@@ -116,11 +116,3 @@ For more information on processing approval requests, see [Create an approval gr
 
 **Next topic:**[Set up your ServiceNow AI Platform instance for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcaffee-epo-setup-now.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[create-approval-group-mcafee|Create an approval group]]
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]
-- [[arcsight-esm-create-profile|Create a profile]]

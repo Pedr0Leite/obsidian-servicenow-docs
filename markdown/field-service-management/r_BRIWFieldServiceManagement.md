@@ -12,7 +12,7 @@ breadcrumb: [Components installed, Reference, Field Service Management]
 
 # Business rules installed with Field Service Management
 
-Business rules are added with [[fsm-application-landing-page|Field Service Management]].
+Business rules are added with Field Service Management.
 
 <table id="table_BusinessRules"><thead><tr><th>
 
@@ -192,7 +192,7 @@ Work Order Task\[wm\_task\]
 
 </td><td>
 
-Prevents task reassignment if the task has [[c_PartRequirements|part requirements]] that are in a state of **In transit**.
+Prevents task reassignment if the task has part requirements that are in a state of **In transit**.
 
 </td></tr><tr><td>
 
@@ -222,7 +222,7 @@ Example condition: `current.sys_class_name != 'wm_task' && current.sys_class_nam
 
 </td></tr><tr><td>
 
-[[t_StartWork|Start Work]]
+Start Work
 
 </td><td>
 
@@ -440,11 +440,5 @@ Validates the values for the fields. -   Maximum travel radius can’t be negati
 -   Maximum part search radius can’t be negative
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_InstalledWithFSM|Components installed with Field Service Management]]
+</table>**Parent Topic:**[Components installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_InstalledWithFSM.md)
 
-## Related
-
-- [[r_InstalledWithFSM|Components installed with Field Service Management]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]
-- [[t_StartWork|Start work]]

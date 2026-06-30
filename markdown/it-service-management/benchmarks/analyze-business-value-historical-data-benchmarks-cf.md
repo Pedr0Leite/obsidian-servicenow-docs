@@ -14,7 +14,7 @@ breadcrumb: [Use, Benchmarks, IT Service Management]
 
 # Use Benchmarks data for value management analysis
 
-Manually collect historical [[benchmarks-landing|Benchmarks]] data to analyze the benefits of year-over-year growth when you use the ServiceNow Benchmarks application.
+Manually collect historical Benchmarks data to analyze the benefits of year-over-year growth when you use the ServiceNow Benchmarks application.
 
 ## Before you begin
 
@@ -58,6 +58,4 @@ If you want to analyze year-over-year performance, you must collect at least 24 
 
         The data is automatically sent for value management analysis. Connect with your account representative to receive the report and discuss the benefits for your organization's value management.
 
-## Related
 
-- [[benchmarks-landing|Benchmarks]]

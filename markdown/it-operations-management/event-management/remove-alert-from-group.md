@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  Select the alert number to open the alert group.
 
@@ -39,6 +39,3 @@ Role required: evt\_mgmt\_operator
 
 The alert is removed from the group.
 
-## Related
-
-- [[c_EM|Event Management]]

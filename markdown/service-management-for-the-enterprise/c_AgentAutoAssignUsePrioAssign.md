@@ -36,8 +36,5 @@ If the priority of a task matches a priority selected in the **Select priorities
 
 **Note:** If no agent is located in the same time zone as the task, priority assignment fails.
 
-**Parent Topic:**[[c_AgAtAssgnTime|Agent auto assignment using time-based criteria]]
+**Parent Topic:**[Agent auto assignment using time-based criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgnTime.md)
 
-## Related
-
-- [[c_AgAtAssgnTime|Agent auto assignment using time-based criteria]]

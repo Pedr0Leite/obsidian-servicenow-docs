@@ -27,7 +27,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-**[[invoice-line-cost-allocation|Invoice cost allocation]]** tab
+**Invoice cost allocation** tab
 
 </td><td>
 
@@ -39,7 +39,7 @@ Allocation type
 
 </td><td>
 
-Type of cost distribution \([[cost-center|cost center]] or [[ledger-account|ledger account]]\).
+Type of cost distribution \(cost center or ledger account\).
 
 </td></tr><tr><td>
 
@@ -140,8 +140,3 @@ Ledger account that incurs the cost of the allocated transaction amount.
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[invoice-line-cost-allocation|Invoice cost allocation]]
-- [[cost-center|Cost center]]
-- [[ledger-account|Ledger account]]

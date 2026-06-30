@@ -12,11 +12,11 @@ breadcrumb: [Configure, price, quote apps, Use, Sales Customer Relationship Mana
 
 # Using the legacy product configurator
 
-The [[product-configurator|legacy product configurator]] in [[order-mgt-overview|Sales Customer Relationship Management]] is an interface for customizing configurable product offers. The interface displays the product options available and automatically calculates product pricing as you select options.
+The legacy product configurator in Sales Customer Relationship Management is an interface for customizing configurable product offers. The interface displays the product options available and automatically calculates product pricing as you select options.
 
 ## Legacy product configurator interface
 
-\[Omitted image "l2c-configurator-callouts-2.png"\] Alt text: Interface for adding [[configurable-products-explore|configurable products]] that has sections for navigating the product hierarchy, selecting product and characteristic options, and reviewing the current selection with pricing
+\[Omitted image "l2c-configurator-callouts-2.png"\] Alt text: Interface for adding configurable products that has sections for navigating the product hierarchy, selecting product and characteristic options, and reviewing the current selection with pricing
 
 The interface consists of three main sections:
 
@@ -36,15 +36,8 @@ You can expand the product hierarchy to show the available characteristics and o
 
 \[Omitted image "complex-char-configUI-order.png"\] Alt text: Product configurator interface showing the gear icon that identifies hierarchical product characteristics available
 
--   **[[create-multiple-child-configs|Create multiple configurations]]**  
+-   **[Create multiple configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-multiple-child-configs.md)**  
 Create multiple configurations of a child product offering when you're adding a configurable product to an opportunity, quote, or order. You can then configure the product options and characteristics separately for each offering configuration.
 
-**Parent Topic:**[[using-cpq|Using configure, price, quote applications]]
+**Parent Topic:**[Using configure, price, quote applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-cpq.md)
 
-## Related
-
-- [[create-multiple-child-configs|Create multiple configurations]]
-- [[using-cpq|Using configure, price, quote applications]]
-- [[product-configurator|Legacy product configurator]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[configurable-products-explore|Configurable products]]

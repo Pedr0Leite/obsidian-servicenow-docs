@@ -27,7 +27,7 @@ As an example, the agent might have several assets that were removed when comple
 After creating a drop-off list, there are two ways to add items to the list.
 
 -   Use the **Add Defective** button to add items that are in their personal stockroom with a substate of **Defective**. For more information about defective items, see [Recording Asset Usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_RecordAssetUsage.md).
--   [[create-transfer-order|Create a transfer order]] line for an item in the personal stockroom.
+-   Create a transfer order line for an item in the personal stockroom.
 
     The item cannot have a substate of **Reserved** or **Defective**, and cannot already be included on another drop off list.
 
@@ -49,6 +49,4 @@ After creating a drop-off list, there are two ways to add items to the list.
 
         Only items in an agent's personal stockroom that are not reserved, not defective, and not included on another drop off list are available for selection.
 
-## Related
 
-- [[create-transfer-order|Create a transfer order]]

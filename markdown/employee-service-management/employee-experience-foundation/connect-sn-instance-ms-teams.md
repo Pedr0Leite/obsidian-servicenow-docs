@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Integration for Agent Experience, Setup for integrating 
 
 # Connect the ServiceNow instance to your Microsoft Teams tenant
 
-[[connect-sn-instance-ms-teams-mt|Connect your ServiceNow instance to your Microsoft Teams tenant]] to enable the users to create their requests from within Microsoft Teams.
+Connect your ServiceNow instance to your Microsoft Teams tenant to enable the users to create their requests from within Microsoft Teams.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: External admin \(external\_app\_install\_admin\)
 
 3.  Select the **Consent on behalf of your organization** option to provide the consent for all your users, and click **Accept** button to provide the admin consent.
 
-    \[Omitted image "sso-[[activity-lxp|activity]]-notification-admin-consent.png"\] Alt text: Admin consent for the app.
+    \[Omitted image "sso-activity-notification-admin-consent.png"\] Alt text: Admin consent for the app.
 
     SSO and Activity Notification is one of the apps to verify the users and connect the Microsoft tenant to the ServiceNow instance. Provide the desired Microsoft tenant details to connect to the ServiceNow instance.
 
@@ -41,7 +41,3 @@ Role required: External admin \(external\_app\_install\_admin\)
 
 **Parent Topic:**[Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-multi-tenant.md)
 
-## Related
-
-- [[connect-sn-instance-ms-teams-mt|Connect your ServiceNow instance to your Microsoft Teams tenant]]
-- [[activity-lxp|Activity]]

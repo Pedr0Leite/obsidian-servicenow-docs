@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # VMware NSX Advanced load balancer discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses the VMware NSX Advanced load balancer discovery pattern to find VMware NSX load balancers. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the VMware NSX Advanced load balancer discovery pattern to find VMware NSX load balancers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The pattern uses a set of REST APIs to find the load balancers. It is triggered by the NSX HTTP classifier that responds to the **HTTP - Classify** probe. For more information, see [HTTP device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/http-discovery.md).
 
@@ -50,7 +50,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a discovery schedule**
 
-    Create the discovery schedule for VMware NSX [[c_LoadBalancers|load balancer discovery]] or [[quick-disco|run a quick discovery]] on the IP address of the NSX Main Controller. For more information about running a quick discovery, see [Run a Quick Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
+    Create the discovery schedule for VMware NSX load balancer discovery or run a quick discovery on the IP address of the NSX Main Controller. For more information about running a quick discovery, see [Run a Quick Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
 
 ## Data collected by Discovery for VMware NSX Advanced load balancer
@@ -94,7 +94,7 @@ Discovery populates the data in the CMDB when running the VMware NSX Advanced lo
 |Request path \[request\_path\]|Path where the monitor sends the request.|
 |Max retries \[max\_retries\]|The maximum number of times the resource is tested before it is declared "Down".|
 
-The [[dependency-views-map|Dependency Views map]] shows all discovered load balancer CIs and the relationships between them.
+The Dependency Views map shows all discovered load balancer CIs and the relationships between them.
 
 \[Omitted image "dependency-nsx.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -156,10 +156,3 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 </td></tr></tbody>
 </table>**Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_LoadBalancers|Load balancer discovery]]
-- [[quick-disco|Run a Quick Discovery]]
-- [[dependency-views-map|Dependency Views map]]

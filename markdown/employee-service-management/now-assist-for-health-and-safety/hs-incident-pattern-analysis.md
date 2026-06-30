@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI skills, Now Assist for Health and Safety, Health 
 
 # Incident pattern analysis
 
-The incident pattern analysis tool automatically detects recurring patterns across [[health-safety-overview|health and safety]] incidents.
+The incident pattern analysis tool automatically detects recurring patterns across health and safety incidents.
 
 The tool compares the patterns across the list of incident records based on category, location, time, people involved, and assets. The tool runs jobs in the background, automatically creating Health and Safety pattern records on the **Incident pattern** dashboard. No manual intervention from a safety manager is required. The integration of the incident pattern analysis tool with generative AI helps to generate a pattern summary.
 
@@ -23,7 +23,7 @@ Safety managers can view the pattern dashboard and immediately plan and act on e
 ## Benefits
 
 -   Runs on a configurable schedule, automatically analyzing incident data with no manual input required.
--   Generates AI summaries, confidence scores, and recommend corrective actions when the [[now-assist-hs-landing|Now Assist for Health and Safety]] plugin is installed.
+-   Generates AI summaries, confidence scores, and recommend corrective actions when the Now Assist for Health and Safety plugin is installed.
 -   Manages large volumes of incident records and identifies recurring patterns.
 -   Enables safety managers to use the Now Assist panel to chat about a pattern, explore related incidents, and get help drafting actions.
 
@@ -34,7 +34,3 @@ Understand the fields and related lists of the incident pattern record.
 
 **Parent Topic:**[Use generative AI skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-now-assist-use-generative-ai.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]

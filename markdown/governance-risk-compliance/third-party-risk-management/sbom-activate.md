@@ -19,7 +19,7 @@ Install the required applications and verify prerequisites to enable SBOM collec
 
 ## Before you begin
 
--   Verify that the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] is enabled. SBOM collection is not supported for Classic assessments.
+-   Verify that the Smart Assessment Engine is enabled. SBOM collection is not supported for Classic assessments.
 -   Check your entitlements to determine whether you have access to this application and all associated ServiceNow Store applications. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 Role required: admin
@@ -84,6 +84,3 @@ After installing SBOM support, you can request an SBOM from a third party throug
 
 [SBOM records and relationships in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom-relationship.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

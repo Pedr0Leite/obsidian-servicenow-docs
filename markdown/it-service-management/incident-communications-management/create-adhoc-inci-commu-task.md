@@ -22,7 +22,7 @@ Role required: major\_incident\_manager, ia\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_IncidentAlertManagement|Incident Communications Management]]** &gt; **Open**.
+1.  Navigate to **All** &gt; **Incident Communications Management** &gt; **Open**.
 
     **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-ui16-module-links-sow.md).
 
@@ -38,7 +38,7 @@ Role required: major\_incident\_manager, ia\_admin, or admin
     |Incident Communication Plan|\[Read-only field\] Incident communication plan for which you create the task.|
     |Source incident|\[Read-only field\] Lookup icon \[Omitted image "look-up-icon.png"\] Alt text: Look up icon to select the incident on which you want the plan to be attached.|
     |Type|Lookup icon \[Omitted image "look-up-icon.png"\] Alt text: Look up icon to select the type of task such as internal communication.|
-    |Communication task definition|\[Read-only field\] Unique name of the [[communication-task-definition|communication task definition]] for which you are creating the task.|
+    |Communication task definition|\[Read-only field\] Unique name of the communication task definition for which you are creating the task.|
     |State|The state of the communication plan. The available values are **Pending**, **Open**, **In Progress**, **Complete**, and **Skipped**.|
     |Assignment group|The assignment group, if any, for that incident communication task.|
     |Assigned to|The assigned user for the communication task.|
@@ -58,7 +58,3 @@ Create adhoc incident communication channel. For more information on how to defi
 
 **Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/working-with-inci-comm-mgmt.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[communication-task-definition|Communication task definition]]

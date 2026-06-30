@@ -14,7 +14,7 @@ breadcrumb: [Problem Management plugins, Configuring Problem Management, Problem
 
 # Activate Problem Management Best Practice — Madrid — State Model
 
-The [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) introduces new best practice states and guided actions to navigate the [[understanding-state-mgmt-transitions|life cycle of a problem]].
+The Problem Management Best Practice — Madrid — State Model plugin \(com.snc.best\_practice.problem.madrid.state\_model\) introduces new best practice states and guided actions to navigate the life cycle of a problem.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Existing customers should use the [Migration Utility](https://raw.githubusercont
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[dex-workspace-application-tab|Applications]]** &gt; **All Available Applications** &gt; **All**.
+1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
 2.  Find the plugin using the filter criteria and search bar.
 
@@ -48,8 +48,3 @@ Existing customers should use the [Migration Utility](https://raw.githubusercont
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[understanding-state-mgmt-transitions|Life cycle of a problem]]
-- [[dex-workspace-application-tab|Applications]]

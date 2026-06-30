@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Cost Center Stage inbound staging table
 
-The [[cost-center|Cost Center]] Stage inbound \[sn\_fcms\_intg\_imp\_cost\_center\] staging table temporarily stores important data about cost centers before this data is sent to the primary table. You can use this table to lookup all the cost center details.
+The Cost Center Stage inbound \[sn\_fcms\_intg\_imp\_cost\_center\] staging table temporarily stores important data about cost centers before this data is sent to the primary table. You can use this table to lookup all the cost center details.
 
 The following table lists the mandatory fields for the Cost Center Stage inbound \[sn\_fcms\_intg\_imp\_cost\_center\] staging table.
 
@@ -25,7 +25,7 @@ The following table lists the mandatory fields for the Cost Center Stage inbound
 |Code|String|Code of the cost center|
 |Cost center type|String|Type of cost center|
 |Controlling area|String|Controlling area of the cost center|
-|ERP source|String|ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the [[erp-source|ERP source]] is determined through the [[legal-entity|legal entity]] associated with these records.|
+|ERP source|String|ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.|
 |Legal entity|String|Detailed information about individual suppliers, including banking details, payment methods, and credit terms.|
 |Manager|String|Name of the manager of the cost center|
 |Name|String|Name of the cost center|
@@ -110,9 +110,3 @@ The following table lists the mandatory fields for the Cost Center Stage inbound
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[cost-center|Cost center]]
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[legal-entity|Legal entity]]

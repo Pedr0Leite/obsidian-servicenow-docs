@@ -21,13 +21,13 @@ View an alert group analysis created by ServiceNow® Now Assist using generative
 
 Install the ITOM plugin in the Now Assist feature. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 
-View important information about the ServiceNow® Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
+View important information about the ServiceNow® Now Assist for IT Operations Management \(ITOM\) application in [Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md).
 
 Role required: evt\_mgmt\_operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  Select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon.\) in the left navigation bar.
 
@@ -72,7 +72,3 @@ Refresh the alert analysis.**Note:** Refreshing regenerates the results. Past re
 
 [Viewing an alert group analysis by Now Assist in Express List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/el-alert-group-analysis.md)
 
-## Related
-
-- [[r_ITOMApplications|IT Operations Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

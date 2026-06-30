@@ -117,7 +117,7 @@ Content status
 
 </td><td>
 
-The status of your [[ec-to-do-content|to-do content]].
+The status of your to-do content.
 
  -   Pending: The Content Publishing scheduled jobs have not processed the content.
 -   Scheduled: The content is scheduled and is queued to be processed.
@@ -137,7 +137,3 @@ The date and time the Content Publishing: Create To-dos scheduled job completed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ec-to-do-content|To-do content]]

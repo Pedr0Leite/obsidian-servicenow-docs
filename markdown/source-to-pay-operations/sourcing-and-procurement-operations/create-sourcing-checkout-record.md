@@ -22,10 +22,10 @@ Role required: sn\_shop.procurement\_administrator
 
 ## About this task
 
-Utilize record producers to create a custom set of questions to ask Shoppers during checkout while initiating a [[sourcing-request|sourcing request]].
+Utilize record producers to create a custom set of questions to ask Shoppers during checkout while initiating a sourcing request.
 
--   You can use a [[sourcing-checkout|sourcing checkout]] for all the goods or services using the default checkout from [[shoppinghub-configurations|ShoppingHub Configuration]].
--   You can use a sourcing checkout for a specific [[supplier|supplier]] product, or a product model, or a product category from the **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** tab on each record.
+-   You can use a sourcing checkout for all the goods or services using the default checkout from ShoppingHub Configuration.
+-   You can use a sourcing checkout for a specific supplier product, or a product model, or a product category from the **Sourcing and Purchasing Automation** tab on each record.
 
 ## Procedure
 
@@ -51,7 +51,7 @@ Utilize record producers to create a custom set of questions to ask Shoppers dur
 
     |Question set|Description|
     |------------|-----------|
-    |**ShoppingHub: Product &amp; Other data for Checkout**|Collects data about the product that is sourced from the [[shopping-hub-overview|Shopping Hub]] product details page. Includes multiple variables that map to the cart line and purchase line. This is included in every Shopping Hub checkout which cannot be removed when using the catalog builder template.|
+    |**ShoppingHub: Product &amp; Other data for Checkout**|Collects data about the product that is sourced from the Shopping Hub product details page. Includes multiple variables that map to the cart line and purchase line. This is included in every Shopping Hub checkout which cannot be removed when using the catalog builder template.|
     |**ShoppingHub Checkout Delivery Date for Goods Selector**|Select a delivery date or create a blanket PR for a good. Includes multiple variables that map to the cart line and purchase line.|
     |**ShoppingHub Checkout Delivery Date for Services Selector**|Select a start date and end date or create a blanket PR for a service. Includes multiple variables that map to the cart line and purchase line.|
     |**ShoppingHub Delivery Location Selector**|Select an office location or add a new location for a product or service to be delivered to. Includes multiple variables that map to the cart line and purchase line.|
@@ -79,11 +79,3 @@ Utilize record producers to create a custom set of questions to ask Shoppers dur
 
 [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefRecProdInSCat.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]
-- [[sourcing-checkout|Sourcing checkout]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[shopping-hub-overview|Shopping Hub]]

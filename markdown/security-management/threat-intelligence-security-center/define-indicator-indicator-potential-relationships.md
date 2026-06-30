@@ -14,7 +14,7 @@ breadcrumb: [Potential Relationships, TISC Library Repository, Threat Intelligen
 
 # Confirm indicator-indicator potential relationships
 
-Define the [[potential-relationships|potential relationships]] between the objects.
+Define the potential relationships between the objects.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
@@ -32,7 +32,7 @@ Role required: sn\_sec\_tisc.analyst
 
 5.  Click **Confirm Relation**.
 
-    A Potential relationship record is ideally confirmed based on [[automated-correlation-rules|automated correlation]] rules. Once you confirm the relationship, then the [[c_Observables|observables]] record will move to the [[stix-relationships|Relationships]] section which means that the relation between the observables to observables is confirmed.
+    A Potential relationship record is ideally confirmed based on automated correlation rules. Once you confirm the relationship, then the observables record will move to the Relationships section which means that the relation between the observables to observables is confirmed.
 
     The record shows a confirmed relation only when the correlation rules are matched. For example, a potential relationship is confirmed when two observables of type URLs has the same domain name.
 
@@ -55,10 +55,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[Potential Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/potential-relationships.md)
 
-## Related
-
-- [[potential-relationships|Potential Relationships]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[automated-correlation-rules|Automated Correlation]]
-- [[c_Observables|Observables]]
-- [[stix-relationships|Relationships]]

@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management Foundation plugin, ITSM Software Asset Ma
 
 # Exploring Software Asset Management Foundation plugin
 
-The [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] \(com.snc.sams\) supports tracking, evaluating, and managing software licenses and compliance. You can access this functionality through the Software Asset Workspace or the Software [[c_AssetManagement|Asset Management]] Core UI.
+The Software Asset Management Foundation plugin \(com.snc.sams\) supports tracking, evaluating, and managing software licenses and compliance. You can access this functionality through the Software Asset Workspace or the Software Asset Management Core UI.
 
 The Software Asset Management Foundation plugin \(com.snc.sams\) application's core functionality remains the same in both the user interfaces.
 
@@ -39,14 +39,9 @@ Software Asset Management Foundation plugin adds the following roles.
 -   **[Software Asset Management Foundation plugin software discovery and normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMDiscoverySAMF.md)**  
 ServiceNow Discovery is used to automatically populate the Software Installations table so the software can be manually normalized and reconciled.
 -   **[Software Asset Management Foundation plugin discovery models and software installations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_DiscoveryModelsSAMF.md)**  
-Software discovery [[c_Models|models]] are automatically created during discovery so you can manually normalize the software installed in your environment.
+Software discovery models are automatically created during discovery so you can manually normalize the software installed in your environment.
 -   **[Software Asset Management Foundation plugin software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SAMReconciliationSAMF.md)**  
 Automated license reconciliation keeps license positions accurate and up to date without manual calculations. Reconciliation runs weekly or on demand.
 
 **Parent Topic:**[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SoftwareAssetMgmtSAMF.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_Models|Models]]

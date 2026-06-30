@@ -12,7 +12,7 @@ breadcrumb: [Scheduling an auto-update of dependencies, Structured workflows for
 
 # Update the BIA dependencies
 
-Update the [[bia-uib|business impact analysis]] \(BIA\) dependencies manually from the snapshot if the scheduled job is not activated in the Impact analysis dependency update configuration module. You can update the dependencies in an active BIA.
+Update the business impact analysis \(BIA\) dependencies manually from the snapshot if the scheduled job is not activated in the Impact analysis dependency update configuration module. You can update the dependencies in an active BIA.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
 
     If the dependencies have been updated in the sources, the scheduled job fetches the dependencies, and a UI message is displayed on the screen: `To review and apply the changes, select here - SNAP0010078.` You can select the snapshot record to view the updates.
 
-3.  To view the snapshot record, select the **Pending updates** module in the **Business Impact Analysis** [[list-view-uib-ws|list view]] and select a snapshot record.
+3.  To view the snapshot record, select the **Pending updates** module in the **Business Impact Analysis** list view and select a snapshot record.
 
     The Impact analysis dependency delta snapshot is displayed.
 
@@ -50,10 +50,5 @@ Role required: sn\_bcm.program\_manager, sn\_bcm.planner, sn\_bcm.admin
     The BIA owners and approvers can update the dependencies by saving the changes to the BIA.
 
 
-**Parent Topic:**[[update-impactanalysis-dep-based-on-cmdb-changes|Scheduling an auto-update of dependencies]]
+**Parent Topic:**[Scheduling an auto-update of dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-impactanalysis-dep-based-on-cmdb-changes.md)
 
-## Related
-
-- [[update-impactanalysis-dep-based-on-cmdb-changes|Scheduling an auto-update of dependencies]]
-- [[bia-uib|Business impact analysis]]
-- [[list-view-uib-ws|List view]]

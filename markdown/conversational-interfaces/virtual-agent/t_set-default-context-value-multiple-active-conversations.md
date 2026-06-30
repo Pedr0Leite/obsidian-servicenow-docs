@@ -15,7 +15,7 @@ breadcrumb: [Using multiple active conversations in Virtual Agent, Configure, Vi
 
 # Set a default NLU context value for multiple active conversations
 
-Use consumer account context values to define where [[virtual-agent-landing-page|Virtual Agent]] messages are directed by default when using the multiple active conversations feature.
+Use consumer account context values to define where Virtual Agent messages are directed by default when using the multiple active conversations feature.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ You can create as many context values as you need. One consumer account context 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **Virtual Agent**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **Virtual Agent**.
 
 2.  Under **multiple active conversations**, select **View settings**.
 
@@ -85,7 +85,3 @@ Activate the multiple active conversations system. For more information, see [Ac
 
 **Parent Topic:**[Using multiple active conversations in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/c_multiple-active-conversations-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

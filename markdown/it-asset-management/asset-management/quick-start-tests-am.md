@@ -14,7 +14,7 @@ breadcrumb: [Reference, Asset Management, IT Asset Management]
 
 # Quick start test for Asset Management
 
-Validate that [[am-landing-page|Asset Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Asset Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 ## Asset Management
 
@@ -29,6 +29,3 @@ Asset Management quick start tests requires the Asset Management plugin \(com.sn
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]

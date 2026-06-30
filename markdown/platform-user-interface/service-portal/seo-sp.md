@@ -16,15 +16,15 @@ breadcrumb: [Service Portal, Configure UIs and portals, Configure user experienc
 
 Search engine optimization \(SEO\) helps portal users find the information they need and be more engaged with your portal. Adding SEO information to your public portal pages improves how external search engines index and rank pages to make them more findable.
 
-You can add the following types of information to [[c_ServicePortal|Service Portal]] pages to improve SEO:
+You can add the following types of information to Service Portal pages to improve SEO:
 
 -   Human readable keywords in URLs.
--   Meta [[c_Tags|tags]] that include information about the page or portal in the `<head>` section of a page.
+-   Meta tags that include information about the page or portal in the `<head>` section of a page.
 -   Dynamic page titles that are descriptive of the page contents.
 -   **hreflang** tags that specify all the available languages of a page.
 -   Canonical URLs that specify which pages to index from sets of duplicate URLs.
 
-To improve SEO for your portal further, you can also define and automatically generate XML sitemaps for search engines to index using the [[sitemap-generator|Sitemap Generator]] application.
+To improve SEO for your portal further, you can also define and automatically generate XML sitemaps for search engines to index using the Sitemap Generator application.
 
 Some portal pages load data from a record that's specified by a parameter in the URL. For these pages, you can use dynamic page variables to add meta tags, page titles, and human readable URL keywords that vary depending on the record loaded in the page.
 
@@ -51,8 +51,3 @@ Use the ServiceNow® Sitemap Generator application to define and automatically g
 
 **Parent Topic:**[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_Tags|Tags]]
-- [[sitemap-generator|Sitemap Generator]]

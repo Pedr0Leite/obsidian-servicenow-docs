@@ -14,11 +14,11 @@ breadcrumb: [Reference, Enterprise Agile Planning, Strategic Planning, Strategic
 
 # Integration between EAP and Agile Development 2.0
 
-While setting up a configuration in Enterprise Agile Planning, you can establish an integration with [[agile-landing-page|Agile Development 2.0]]. Learn more about the tables connected and the way you access the information.
+While setting up a configuration in Enterprise Agile Planning, you can establish an integration with Agile Development 2.0. Learn more about the tables connected and the way you access the information.
 
 \[Omitted image "eap-new-config-form.png"\] Alt text: Option to enable sync with Agile Development 2.0 in EAP Configuration.
 
-In the EAP configuration form, when you enable the **Sync with [[agile-development|Agile Development]]** option, information of the following tables is synced between the two apps.
+In the EAP configuration form, when you enable the **Sync with Agile Development** option, information of the following tables is synced between the two apps.
 
 <table id="table_p3h_2qz_21c"><thead><tr><th>
 
@@ -62,7 +62,3 @@ Sprint \[rm\_sprint\]
 
 **Parent Topic:**[Enterprise Agile Planning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

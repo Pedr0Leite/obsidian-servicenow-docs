@@ -24,7 +24,7 @@ Role required: sn\_cmdb\_admin, admin, app\_service\_admin, app\_service\_user, 
 
 Specify two points in time for which to compare the two versions of an application service. You can use the change indicators on the timeline to specify one point in time that is before and another that is after a change for which to see the details. For example, if you know that the application service started to fail at a certain time, you can compare two versions of the application service, one before and one after the problem started. This comparison lets you see the summary of changes that possibly led to the problems.
 
-[[c_ServiceMappingOverview|Service Mapping]], if deployed, tracks and shows all changes to a CI including configuration files associated with a CI. When you compare two versions of an application service, you can see changes made to configuration files as changes to CIs. You can also compare two versions of a configuration file to see the actual changes in the files, during the time range specified for the comparison.
+Service Mapping, if deployed, tracks and shows all changes to a CI including configuration files associated with a CI. When you compare two versions of an application service, you can see changes made to configuration files as changes to CIs. You can also compare two versions of a configuration file to see the actual changes in the files, during the time range specified for the comparison.
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Specify two points in time for which to compare the two versions of an applicati
 
 2.  If needed, click **Edit** to ensure that the map is in Edit mode.
 
-    If Service Mapping is deployed, then in Edit mode, the [[r-discovery|Discovery]] Messages section appears below the map.
+    If Service Mapping is deployed, then in Edit mode, the Discovery Messages section appears below the map.
 
 3.  On the history timeline, set the time range of changes that you want to view.
 
@@ -146,7 +146,3 @@ You cannot set the lower limit on your history range to a time before this servi
 
 [Compare versions of CI configuration files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/compare-configuration-files.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -63,7 +63,7 @@ Customer Contracts and Entitlements \[com.sn\_pss\_core\]​
 
 </td></tr><tr><td>
 
-[[configure-cont-ent-workflows-csm|Contracts and Entitlement Workflows​]]\[com.sn\_contract\_ent\_wf\]
+[Contracts and Entitlement Workflows​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-cont-ent-workflows-csm.md)\[com.sn\_contract\_ent\_wf\]
 
 </td><td>
 
@@ -79,7 +79,7 @@ Provides workflows to manage changes on Customer Contracts and Entitlements.
 
 \[com.sn\_l2c\_core\]
 
--   [[customer-life-cycle-management-workflows|Customer Life Cycle Management Workflows]]
+-   Customer Life Cycle Management Workflows
 
 \[com.sn\_l2c\_cust\_flows\]​
 
@@ -87,14 +87,9 @@ Provides workflows to manage changes on Customer Contracts and Entitlements.
 </td></tr></tbody>
 </table>With the activation of Customer Contracts and Entitlements, the existing contracts are available for viewing only.
 
-For more information on the installed roles and tables, see [[components-installed-pss|Components installed with Customer Contracts and Entitlements]].
+For more information on the installed roles and tables, see [Components installed with Customer Contracts and Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-pss.md).
 
 ## Request apps from the ServiceNow Store
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[configure-cont-ent-workflows-csm|Configuring Contracts and Entitlement Workflows]]
-- [[components-installed-pss|Components installed with Customer Contracts and Entitlements]]
-- [[customer-life-cycle-management-workflows|Customer Life Cycle Management Workflows]]

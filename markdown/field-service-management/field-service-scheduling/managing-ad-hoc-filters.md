@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Managing ad hoc filters
 
-Create ad hoc filters in [[dispatcher-activities|Dispatcher Workspace]] to filter work order tasks with custom criteria.
+Create ad hoc filters in Dispatcher Workspace to filter work order tasks with custom criteria.
 
 You can create an ad hoc filters to be either temporary and unique to a working session, or saved for future use.
 
@@ -48,7 +48,3 @@ Saved Filters
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

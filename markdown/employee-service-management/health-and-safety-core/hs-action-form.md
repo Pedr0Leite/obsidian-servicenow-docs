@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[health-safety-overview|Health and Safety]] task
+Health and Safety task
 
 </td><td>
 
@@ -91,9 +91,9 @@ Type
 Type of the action.-   **Corrective**: An action to eliminate the causes of non-conformities or undesirable situations to stop them from happening again.
 -   **Preventive**: An action to prevent the occurrence of such non-conformities.
 -   **Task**: A generic task assigned as an action.
--   **[[exploring-learning-exp|Learning]]**: An action that includes a learning for the user, for example, completing a training.
+-   **Learning**: An action that includes a learning for the user, for example, completing a training.
 
-**Note:** The **Learning** option in this field appears only when the [[learning-core_overview|Learning Core]] \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
+**Note:** The **Learning** option in this field appears only when the Learning Core \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 
 </td></tr><tr><td>
@@ -142,8 +142,3 @@ Detailed description about this action.
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]

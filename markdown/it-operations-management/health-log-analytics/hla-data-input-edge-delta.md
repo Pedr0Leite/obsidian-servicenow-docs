@@ -15,7 +15,7 @@ breadcrumb: [Manual data input configuration, Set up data inputs manually, Set u
 
 # Configure an Edge Delta data input in Health Log Analytics manually
 
-Set up an Edge Delta data input to enable [[hla-landing-page|Health Log Analytics]] to process Edge Delta log messages streaming into your ServiceNow instance.
+Set up an Edge Delta data input to enable Health Log Analytics to process Edge Delta log messages streaming into your ServiceNow instance.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ The data input configuration process is complete. Health Log Analytics adds the 
 
 **Parent Topic:**[Configuring data inputs for Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-inputs-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

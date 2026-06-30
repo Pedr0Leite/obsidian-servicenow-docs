@@ -28,7 +28,7 @@ You can export only questionnaires in the received or returned state.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External [[risk-assessments|risk assessments]]** &gt; **All open**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Third-party risk management** &gt; **External risk assessments** &gt; **All open**.
 
 2.  Select the External assessment \(VRA\) number of an assessment that is in the **Responses received** state.
 
@@ -53,6 +53,4 @@ You can export only questionnaires in the received or returned state.
 
     The **Assessment details** tab in a spreadsheet shows the name and state of the assessment, the planned and completion dates, and signatory details. Each **Section** tab displays the question data for the assessment categories.
 
-## Related
 
-- [[risk-assessments|risk assessments]]

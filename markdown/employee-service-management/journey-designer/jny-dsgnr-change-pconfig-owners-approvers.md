@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Administrators may need to change owners or approvers for [[jny-dsgnr-landing-page-1|Journey designer]] plan configurations if people change roles or leave their job.
+Administrators may need to change owners or approvers for Journey designer plan configurations if people change roles or leave their job.
 
 ## Procedure
 
@@ -43,6 +43,3 @@ Administrators may need to change owners or approvers for [[jny-dsgnr-landing-pa
 
 **Parent Topic:**[Setup the Journey designer plan configuration review and approval process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-plan-config-admin.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

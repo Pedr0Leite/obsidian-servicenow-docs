@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The [[c_CustomerServiceManagement|Customer Service Management]] chat communication channel uses the ServiceNow [Connect Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ConnectSupport.md) feature.
+The Customer Service Management chat communication channel uses the ServiceNow [Connect Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ConnectSupport.md) feature.
 
 ## Procedure
 
@@ -51,6 +51,3 @@ The [[c_CustomerServiceManagement|Customer Service Management]] chat communicati
 
 [Connect Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ConnectSupport.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

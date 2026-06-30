@@ -28,7 +28,7 @@ The maximum document size is 100 MB and concurrent uploads should be less than 1
 
 ## Configure the Related Documents widget
 
-[[configure-onboarding-modals|Configure]] the Related Documents widget for records.
+Configure the Related Documents widget for records.
 
 <table id="table_hqw_mry_qtb"><thead><tr><th>
 
@@ -52,7 +52,7 @@ Record table
 
 </td><td>
 
-Table name of [[onboarding-modals-reference|reference]] record.
+Table name of reference record.
 
 </td></tr><tr><td>
 
@@ -84,14 +84,9 @@ The configured form view to be opened when **Edit Document** is selected or whil
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_ServicePortal|Service Portal]]

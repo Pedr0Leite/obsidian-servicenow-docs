@@ -24,11 +24,11 @@ Some key features of Process Mining are listed in this topic.
 
     You must configure a breakdown that acts as a filter and provides insights into the categorical volume, velocity, and conformance.
 
--   **[[summary-insights-dashboard|Summary and insights page]]**
+-   **Summary and insights page**
 
     Quickly understand process performance. From the Summary and insights page, view key performance indicators, improvement opportunities overview, and list of improvement opportunities. For more information, see [Summary and insights page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/summary-insights-dashboard.md).
 
--   **[[analyst-workbench-dashboard|Analyst workbench page]]**
+-   **Analyst workbench page**
 
     Analyze business workflows visually with the interactive process map, explorative filter panel, and prebuilt performance metrics. You can see process variation, breakdowns, bottleneck analysis, and ML and smart rule-based insights. Also, all duplicate audits are removed, and that removes all self-loops in the graph. For more information, see [Analyst workbench page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-dashboard.md).
 
@@ -42,7 +42,7 @@ Some key features of Process Mining are listed in this topic.
 
 -   **Integration with Performance Analytics and Benchmarks**
     -   Analyze low-performing [indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for root cause analysis with Performance Analytics integration. For more information, see [Integration with indicator data sources \(PA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrate-pa.md).
-    -   Use best practice-based implementation. Predefined ITSM [[process-mining|Process Mining]] projects and improvement initiatives provide you with faster time to value. For more information, see [Content pack for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/itsm-proc-opti-content-pack.md).
+    -   Use best practice-based implementation. Predefined ITSM Process Mining projects and improvement initiatives provide you with faster time to value. For more information, see [Content pack for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/itsm-proc-opti-content-pack.md).
 -   **Compare processes**
 
     Compare processes to investigate performance differences or deviations. For more information, see [Comparing projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/comparing-models.md).
@@ -75,8 +75,3 @@ Some key features of Process Mining are listed in this topic.
 
 [Process Mining workspace]()
 
-## Related
-
-- [[summary-insights-dashboard|Summary and insights page]]
-- [[analyst-workbench-dashboard|Analyst workbench page]]
-- [[process-mining|Process Mining]]

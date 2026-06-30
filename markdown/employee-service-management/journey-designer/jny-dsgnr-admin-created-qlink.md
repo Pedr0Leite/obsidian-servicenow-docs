@@ -14,7 +14,7 @@ breadcrumb: [Creating and managing quick links for journeys, Configure Journey d
 
 # Create a quick link as an administrator
 
-[[jny-dsgnr-landing-page-1|Journey designer]] administrators create [[emp-center-quick-link-config|quick links]] that are part of a journey configuration. Administrator created quick links cannot be deleted or edited by journey owners or mentors.
+Journey designer administrators create quick links that are part of a journey configuration. Administrator created quick links cannot be deleted or edited by journey owners or mentors.
 
 ## Before you begin
 
@@ -33,14 +33,9 @@ Quick links added by an administrator appear in all **Journey Types** they are a
 3.  Select a **Type** and **Quick link**.
 
     -   **Type**: Only active **Journey Types** are available.
-    -   **Quick link**: The **Quick link name** for active [[employee-center-landing-page|Employee Center]] Quick Links. See, [Quick links configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md)
+    -   **Quick link**: The **Quick link name** for active Employee Center Quick Links. See, [Quick links configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-quick-link-config.md)
     **Note:** If you don't see the Journey Type you are looking for, start typing the name of the journey type in the field to search for it.
 
 
 **Parent Topic:**[Creating and managing quick links for journeys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-quick-links-why-who.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

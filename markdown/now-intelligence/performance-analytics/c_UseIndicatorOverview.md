@@ -14,7 +14,7 @@ breadcrumb: [Analytics Hub, Reporting, dashboards, and Performance Analytics in 
 
 # Analytics Hub list of indicators
 
-The [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] provides a list of indicators, their scores, and a customizable selection of other analytics. Click the name of an indicator to see more details about that indicator. The Analytics Hub replaces scorecards.
+The Analytics Hub provides a list of indicators, their scores, and a customizable selection of other analytics. Click the name of an indicator to see more details about that indicator. The Analytics Hub replaces scorecards.
 
 To access the Analytics Hub list, navigate to **Performance Analytics** &gt; **Analytics Hub**.
 
@@ -53,11 +53,11 @@ You can filter which indicators are shown with the following settings:
 
 -   **Formula**
 
-    Only [[formula-indicators|formula indicators]] are shown.
+    Only formula indicators are shown.
 
 -   **Manual**
 
-    Only [[t_CreateAManualIndicator|manual indicators]] are shown.
+    Only manual indicators are shown.
 
 
 \[Omitted image "ah-filter-settings.png"\] Alt text: Filter section of the List Settings with Formula selected
@@ -124,8 +124,3 @@ You can filter the list of indicators based on the indicator performance, in add
 -   **Improved:** Shows indicators that have improved compared to the previous data collection \(moving in the right direction\).
 -   **Degraded:** Shows indicators that have degraded compared to the previous data collection \(moving in the wrong direction\).
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[formula-indicators|Formula indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]

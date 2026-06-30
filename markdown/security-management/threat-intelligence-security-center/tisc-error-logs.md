@@ -26,7 +26,7 @@ The audit logs enables the users to further investigate, debug the execution, an
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Webhooks Configurations** &gt; **Webhooks**.
 
@@ -55,6 +55,3 @@ The audit logs enables the users to further investigate, debug the execution, an
 
 **Parent Topic:**[Configure webhooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/setup-webhooks.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

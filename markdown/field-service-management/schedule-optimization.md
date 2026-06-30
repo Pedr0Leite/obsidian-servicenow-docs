@@ -35,7 +35,7 @@ Schedule Optimization enables you to optimize task scheduling, auto-assign tasks
 
 ## Schedule Optimization based on territories
 
-Use Schedule Optimization with [[territory-planning-fsm|Field Service Territory Planning]] to schedule complex multi-territory assignments. Assign tasks to agents whether they’re primary or secondary members of a single or multiple territories. For more information, see [Territory-Based Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/territory-based-optimization.md).
+Use Schedule Optimization with Field Service Territory Planning to schedule complex multi-territory assignments. Assign tasks to agents whether they’re primary or secondary members of a single or multiple territories. For more information, see [Territory-Based Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/territory-based-optimization.md).
 
 ## Intra-day Schedule Optimization
 
@@ -51,13 +51,13 @@ Use schedule optimization to optimize task assignments to planned crews.
 
 ## Schedule Optimization with Workforce Optimization for Field Service
 
-Use Schedule Optimization to consider agents' schedule and events from the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] application to auto-assign tasks.
+Use Schedule Optimization to consider agents' schedule and events from the Workforce Optimization for Field Service application to auto-assign tasks.
 
 Schedule optimization uses technician schedules and event attributes from Workforce Optimization for Field Service to automatically assign tasks and improve scheduling accuracy.
 
 ## Schedule Optimization based on Field Service Agent Efficiency
 
-Use [[agent-efficiency|Field Service Agent Efficiency]] with Schedule Optimization to identify, schedule, and assign tasks to the most appropriate agent based on the agent efficiency and an accurate estimated duration.
+Use Field Service Agent Efficiency with Schedule Optimization to identify, schedule, and assign tasks to the most appropriate agent based on the agent efficiency and an accurate estimated duration.
 
 For example, the optimization engine can decide on scheduling an agent who might be closer but with a higher penalty value versus someone distant with a lower penalty value.
 
@@ -66,8 +66,3 @@ For example, the optimization engine can decide on scheduling an agent who might
 
 [Configuring Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/schedule-optimization-engine.md)
 
-## Related
-
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[agent-efficiency|Field Service Agent Efficiency]]

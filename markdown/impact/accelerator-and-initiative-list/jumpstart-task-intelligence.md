@@ -22,7 +22,7 @@ Jumpstart Your Task Intelligence enables customers to leverage Task Intelligence
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided, Guided+ \(Strategic Value or Platform Governance\), Advanced, and Total packages.
+**Note:** This Accelerator is available for Impact Guided, Guided+ \(Strategic Value or Platform Governance\), Advanced, and Total packages.
 
 Offered pursuant to the applicable ServiceNow Impact Package and Accelerator descriptions available at [https://www.servicenow.com/legal/servicenow-impact.html](https://www.servicenow.com/legal/servicenow-impact.html).
 
@@ -121,6 +121,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing Task Intelligence recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

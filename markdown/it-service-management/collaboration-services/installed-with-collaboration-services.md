@@ -14,7 +14,7 @@ breadcrumb: [Install Collaboration services, Collaboration services, IT Service 
 
 # Components installed with Collaboration services
 
-Several types of components are installed with activation of the [[collab-services-tcm|Collaboration services]] application.
+Several types of components are installed with activation of the Collaboration services application.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[communication-channel-definition|Communication Channel Definition]] — Slack\[comm\_channel\_def\_slack\]
+Communication Channel Definition — Slack\[comm\_channel\_def\_slack\]
 
 </td><td>
 
@@ -56,8 +56,3 @@ Stores Collaboration Service related data.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[collab-services-tcm|Collaboration services]]
-- [[communication-channel-definition|communication channel definition]]

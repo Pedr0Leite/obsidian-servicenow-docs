@@ -14,7 +14,7 @@ breadcrumb: [Request repair of defective assets, Manage asset repair in stockroo
 
 # Create repair orders for hardware assets in the Inventory view
 
-Request repair of hardware assets that are defective or pending repair by creating a repair order in the [[inventory-view-am|Inventory view]] of the [[using-ham-workspace|Hardware Asset Workspace]].
+Request repair of hardware assets that are defective or pending repair by creating a repair order in the Inventory view of the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -112,7 +112,3 @@ Notes about the repair order.
 
 **Parent Topic:**[Request repair of defective hardware assets in your stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/request-repair-defective-ham-assets.md)
 
-## Related
-
-- [[inventory-view-am|Inventory view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

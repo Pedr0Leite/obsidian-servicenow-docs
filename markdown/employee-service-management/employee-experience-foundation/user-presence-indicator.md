@@ -14,7 +14,7 @@ breadcrumb: [Integration for Employee Experience, Setup for integrating self-con
 
 # User Presence Indicator
 
-[[user-presence-indicator-mt|User presence indicator]] helps the agents to know the status of the users in Microsoft Teams before the agent can initiate a chat using Microsoft Teams.
+User presence indicator helps the agents to know the status of the users in Microsoft Teams before the agent can initiate a chat using Microsoft Teams.
 
 By default, the agents can view the status of the users when they launch the Start chat modal in the ServiceNow instance.
 
@@ -40,6 +40,3 @@ You can modify the system property to configure the cache duration to retain the
 
 **Parent Topic:**[Setup for integrating self-configured apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_s_tnt.md)
 
-## Related
-
-- [[user-presence-indicator-mt|User Presence Indicator]]

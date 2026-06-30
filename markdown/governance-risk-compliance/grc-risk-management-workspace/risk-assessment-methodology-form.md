@@ -14,7 +14,7 @@ breadcrumb: [Configure a risk assessment methodology, Perform Advanced Risk Asse
 
 # Risk Assessment Methodology form
 
-Use the Risk Assessment Methodology form in the Advanced Risk application to specify the types of [[risk-assessments|risk assessments]] and the entities on which the risk assessment is performed.
+Use the Risk Assessment Methodology form in the Advanced Risk application to specify the types of risk assessments and the entities on which the risk assessment is performed.
 
 See the following table for a description of the field values.
 
@@ -32,7 +32,7 @@ Name
 
 </td><td>
 
-Name of the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]]. For example, Organizational risk assessment.
+Name of the risk assessment methodology \(RAM\). For example, Organizational risk assessment.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Assessment context that you can select:-   **Risk**: Performs the assessment for
 
 </td></tr><tr><td>
 
-Applicable [[entity-class-in-risk-ws|entity classes]]
+Applicable entity classes
 
 </td><td>
 
@@ -101,7 +101,7 @@ Option for assessing the control effectiveness.
 
 </td></tr><tr><td>
 
-Enable [[risk-response|risk response]]
+Enable risk response
 
 </td><td>
 
@@ -333,11 +333,11 @@ Option to override the computed scores and the ALE during risk assessment.
 
 </td></tr><tr><td>
 
-Configure section [[tprm-terminology|terminology]]
+Configure section terminology
 
 </td><td>
 
-Option to configure section labels for inherent, control, residual, and target assessments. After you select this option, you can configure the title, score label, and annual loss expectancy label for each assessment type.**Note:** Section label renaming applies only to the [[advanced-risk-assessment|advanced risk assessment]] interface while leaving the terminology used in reports, dashboards, heatmaps, and other areas unchanged.
+Option to configure section labels for inherent, control, residual, and target assessments. After you select this option, you can configure the title, score label, and annual loss expectancy label for each assessment type.**Note:** Section label renaming applies only to the advanced risk assessment interface while leaving the terminology used in reports, dashboards, heatmaps, and other areas unchanged.
 
 </td></tr><tr><td>
 
@@ -379,11 +379,3 @@ Based on the due date of the risk assessment, this field is the number of days a
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure a risk assessment methodology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure-ram.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[risk-response|risk response]]
-- [[tprm-terminology|Terminology]]
-- [[advanced-risk-assessment|advanced risk assessment]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure action plan access in the Employee Center, Configure, Jou
 
 # Add a Journey Accelerator action plan link to My Active Items list
 
-Add a menu item for [[journey-accelerator-1|Journey Accelerator]] action plans to the header menus in the [[employee-center-landing-page|Employee Center]].
+Add a menu item for Journey Accelerator action plans to the header menus in the Employee Center.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Employee Center** &gt; **[[activity-lxp|Activity]] Configuration** and click **New**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Activity Configuration** and click **New**.
 
 2.  Fill in these fields.
 
@@ -39,11 +39,5 @@ Role required: admin
 
 ## What to do next
 
-Go to **Employee Center** &gt; **Activity Configuration**, and [[create-ja-activity-config|create an Employee Center activity configuration]] for the activity you created. See, [Create an Employee Center activity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-ja-activity-config.md).
+Go to **Employee Center** &gt; **Activity Configuration**, and create an Employee Center activity configuration for the activity you created. See, [Create an Employee Center activity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-ja-activity-config.md).
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[create-ja-activity-config|Create an Employee Center activity configuration]]

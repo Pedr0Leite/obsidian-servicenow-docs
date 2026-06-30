@@ -14,11 +14,11 @@ breadcrumb: [IP range based authentication, Authentication, Access Management]
 
 # IP Address Access Control
 
-Apply an IP [[sc-access-control|access control]] to outbound traffic, inbound traffic, or bidirectional traffic. The system only blocks an IP address if a matching Deny rule exists and no matching Allow rule exists. By default, there are no restrictions on access to your instance.
+Apply an IP access control to outbound traffic, inbound traffic, or bidirectional traffic. The system only blocks an IP address if a matching Deny rule exists and no matching Allow rule exists. By default, there are no restrictions on access to your instance.
 
 ## Before you begin
 
-**Note:** Use the [[adaptive-authentication|Adaptive Authentication]] \(AA\) pre-[[c_Authentication|authentication]] context policy to enforce IP based authentications and restrictions for additional capabilities. For more information, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
+**Note:** Use the Adaptive Authentication \(AA\) pre-authentication context policy to enforce IP based authentications and restrictions for additional capabilities. For more information, see [Adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication.md).
 
 Role required: admin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Security** &gt; **IP Address Access Control** to see a list of your IP access controls.
 
-    You might have to activate the [[c_IPRangeBasedAuthentication|IP Range Based Authentication]] \[com.snc.ipauthenticator\] plugin.
+    You might have to activate the IP Range Based Authentication \[com.snc.ipauthenticator\] plugin.
 
 2.  Complete the form.
 
@@ -70,7 +70,7 @@ Direction
 
 Direction of the IP access control rule.-   **Inbound**: Choose Inbound to allow or deny inbound transactions. These are transactions initiated from outside of your instance.
 -   **Outbound**: Choose Outbound to allow or deny outbound transactions. These are transactions initiated from within your instance.
--   **Bidirectional**: Choose Bidirectional for the [[sc-configuration|configuration]] to apply for both Inbound and Outbound.
+-   **Bidirectional**: Choose Bidirectional for the configuration to apply for both Inbound and Outbound.
 
 
 </td></tr><tr><td>
@@ -108,10 +108,4 @@ Ending range of IP addresses to allow or deny.**Note:** To limit access to speci
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-## Related
 
-- [[sc-access-control|Access control]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[c_Authentication|Authentication]]
-- [[c_IPRangeBasedAuthentication|IP range based authentication]]
-- [[sc-configuration|Configuration]]

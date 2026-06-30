@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Either choose to mark specific records for updating or mark all records in a list for updating.
 
-    -   To mark only specific records for updating, navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Update Jobs**.
+    -   To mark only specific records for updating, navigate to **All** &gt; **System Data Management** &gt; **Update Jobs**.
     -   To mark all records in a list for updating, in any list of records, right-click a column heading, and then select **Data Management** &gt; **Update All with preview**.
 2.  Select the table that contains the records you want to update.
 
@@ -57,12 +57,7 @@ The job is saved and the form provides options to schedule the job or execute it
 
 ## What to do next
 
-[[schedule-execute-job-update-records|Schedule or execute a job to update records]]
+[Schedule or execute a job to update records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/schedule-execute-job-update-records.md)
 
-**Parent Topic:**[[updating-records-safely|Updating records safely in Core UI]]
+**Parent Topic:**[Updating records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/updating-records-safely.md)
 
-## Related
-
-- [[schedule-execute-job-update-records|Schedule or execute a job to update records]]
-- [[updating-records-safely|Updating records safely in Core UI]]
-- [[c_DataManagement|Data Management]]

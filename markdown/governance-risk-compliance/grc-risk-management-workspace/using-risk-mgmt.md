@@ -14,14 +14,14 @@ breadcrumb: [Risk Management, Governance, Risk, and Compliance]
 
 # Using Risk Management
 
-You can use the features and capabilities of the Risk Management application perform various activities such as creating issues, reporting risk events, performing [[risk-assessments|risk assessments]] and so on.
+You can use the features and capabilities of the Risk Management application perform various activities such as creating issues, reporting risk events, performing risk assessments and so on.
 
 -   **[Mobile experience for GRC Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/mobile-risk-overview.md)**  
 As a risk manager, use your Android or iOS mobile device to manage your work.
 -   **[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)**  
 Report risk events and monitor their workflow to prevent losses in your organization.
 -   **[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)**  
-Use the ServiceNow® Governance, Risk, and Compliance \(GRC\) [[advanced-risk-assessment|Advanced Risk Assessment]] feature to create an integrated risk platform.
+Use the ServiceNow® Governance, Risk, and Compliance \(GRC\) Advanced Risk Assessment feature to create an integrated risk platform.
 -   **[Assess risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assess-risk-old-way.md)**  
 Use the classic risk assessment and assess the risks in your organization.
 -   **[Manage a business process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-business-process.md)**  
@@ -47,7 +47,7 @@ Connect integrates with Risk Management providing an overlay to the standard int
 -   **[Add a control to a risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_AddControlToRisk.md)**  
 Controls are added to the risks for the on-going review of processes.
 -   **[Manually create GRC issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateAnIssue.md)**  
-As a GRC user, you can manually create issues to document policy, risk, or [[audit-observations|audit observations]], or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
+As a GRC user, you can manually create issues to document policy, risk, or audit observations, or to accept any GRC problems. You can also identify the source of the issue to help analyze and classify the issues.
 -   **[Use entity and risk dependencies using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-workbench.md)**  
 The GRC: Workbench utilizes CMDB information to show the upstream and downstream relationships across all applications. CMDB information is one of the sources. These relationships enable consistent risk mapping and modeling across the enterprise.
 -   **[Monitor risks using GRC Performance Analytics Indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/pa-indicators-risk.md)**  
@@ -59,11 +59,5 @@ Create a risk indicator to identify the possibility of a future adverse impact o
 -   **[View the Risk Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/c_RiskHomepage.md)**  
 The Risk Overview is contained in the Risk Management application and provides an executive view, allowing risk managers to quickly identify areas of concern by pinpointing entities with known high risk.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[audit-observations|Audit observations]]

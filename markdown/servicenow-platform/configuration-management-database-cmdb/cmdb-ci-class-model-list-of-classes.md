@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Management Database \(CMDB\), Configuratio
 
 # List of classes added by the CMDB CI Class Models app
 
-Alphabetical list of classes that are added by the CMDB CI Class Models ServiceNow® Store app. The app adds class models \(name, [[label|label]], and a description of the type of information stored in the table\) to the base-system CMDB. The app can also update the label \(display name\) of an existing base class.
+Alphabetical list of classes that are added by the CMDB CI Class Models ServiceNow® Store app. The app adds class models \(name, label, and a description of the type of information stored in the table\) to the base-system CMDB. The app can also update the label \(display name\) of an existing base class.
 
 ## Classes added by the CMDB CI Class Models app
 
@@ -39,7 +39,7 @@ For more information, see [CMDB CI Class Models app](https://raw.githubuserconte
 |cmdb\_ci\_appl\_ibm\_cics\_region|IBM CICS Region|CICS Region is a named collection of resources that are controlled by CICS as a unit|
 |cmdb\_ci\_appl\_ibm\_cics\_transaction|IBM CICS Transaction|A CICS transaction consists of an item of processing that can be run by one or more application programs|
 |cmdb\_ci\_appl\_ibm\_cicsplex|IBM CICSplex|A CICSplex is any grouping of CICS systems to manage and manipulate as a single entity|
-|cmdb\_ci\_appl\_ibm\_mq\_channel|IBM MQ Channel|In IBM MQ, a channel is a unidirectional communication link that allows two queue managers to [[c_Connect|connect]] over a network and transmit messages between each other.|
+|cmdb\_ci\_appl\_ibm\_mq\_channel|IBM MQ Channel|In IBM MQ, a channel is a unidirectional communication link that allows two queue managers to connect over a network and transmit messages between each other.|
 |cmdb\_ci\_appl\_ibm\_wmq|IBM MQ Manager|IBM Websphere MQ software.|
 |cmdb\_ci\_appl\_ibm\_wmq\_queue|IBM MQ Queue|Inner module of IBM WebSphere MQ software.|
 |cmdb\_ci\_appl\_ims\_program|IMS Program|A program that runs within IMS. An IMS Program name is specified for each IMS Transaction that is defined.|
@@ -94,7 +94,7 @@ For more information, see [CMDB CI Class Models app](https://raw.githubuserconte
 |cmdb\_ci\_dns\_resource\_record|DNS Resource Records|DNS record detail from Domain Name Server \(DNS\) for a WWW Domain|
 |cmdb\_ci\_dns\_zone\_a\_record|DNS Zone A Records|DNS Zone A records hold only IPv4 addresses.|
 |cmdb\_ci\_dns\_zone\_aaaa\_record|DNS Zone AAAA Records|DNS Zone AAAA records hold only IPv6 addresses|
-|cmdb\_ci\_dns\_zone\_alias\_record|DNS Zone Alias|An ALIAS record that points a domain name to a hostname instead of an [[ip-address|IP address]].|
+|cmdb\_ci\_dns\_zone\_alias\_record|DNS Zone Alias|An ALIAS record that points a domain name to a hostname instead of an IP address.|
 |cmdb\_ci\_dns\_zone\_cname\_record|DNS Zone CNAME|A canonical name \(CNAME\) record points from an alias domain to a canonical domain|
 |cmdb\_ci\_drone|Drone|Unmanned Connected Device with mobility.|
 |cmdb\_ci\_dslam|DSLAM|A Digital Subscriber Line Access Multiplexer \(DSLAM\) centralizes DSL connections and optimizes bandwidth. It enables reliable and high-speed internet access for multiple users. It enhances network performance and user experience.|
@@ -284,8 +284,3 @@ For more information, see [CMDB CI Class Models app](https://raw.githubuserconte
 |cmdb\_ci\_webseal\_reverse\_proxy|Webseal Reverse Proxy|Discovered IBM WebSEAL Reverse Proxies. Generally WebSEAL acts as a reverse web proxy by receiving HTTP/HTTPS requests from a web browser and delivering content from its own web server or from junctioned back-end web application servers.|
 |cmdb\_ci\_wireless\_sector|Wireless Sector|A unit of cellular coverage area.|
 
-## Related
-
-- [[label|Label]]
-- [[c_Connect|Connect]]
-- [[ip-address|IP Address]]

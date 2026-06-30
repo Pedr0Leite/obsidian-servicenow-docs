@@ -31,7 +31,7 @@ During the index evaluation period, the Index Suggestion Engine \(ISE\) might ge
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; In Progress**.
+1.  Navigate to **All** &gt; **System Diagnostics** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; In Progress**.
 
 2.  In the Index Suggestions table, select the table associated with the index suggestion you want to drop in the **Table Name** column.
 
@@ -48,6 +48,3 @@ During the index evaluation period, the Index Suggestion Engine \(ISE\) might ge
 
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[sys-diag|System Diagnostics]]

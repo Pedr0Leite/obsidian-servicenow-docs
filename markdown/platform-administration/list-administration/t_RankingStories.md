@@ -14,7 +14,7 @@ breadcrumb: [Scrum ranking definitions, Context ranking, Administer, List admini
 
 # Rank stories in a related list
 
-The [[r_ContextRanking|Context Ranking]] feature enables all scrum users to manually sort a related list of stories by priority.
+The Context Ranking feature enables all scrum users to manually sort a related list of stories by priority.
 
 ## About this task
 
@@ -50,6 +50,3 @@ A product owner or release planner uses this tool to establish the order in whic
 
 [Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development.md)
 
-## Related
-
-- [[r_ContextRanking|Context ranking]]

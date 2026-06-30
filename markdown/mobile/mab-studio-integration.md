@@ -12,7 +12,7 @@ breadcrumb: [Building tools, Building mobile apps, Mobile Platform]
 
 # Mobile App Builder and Mobile Card Builder integration with ServiceNow Studio
 
-[[mab-concept|Mobile App Builder]] and [[mobile-card-builder|Mobile Card Builder]] are both available within ServiceNow Studio, allowing you to do all of your development work in one place.
+Mobile App Builder and Mobile Card Builder are both available within ServiceNow Studio, allowing you to do all of your development work in one place.
 
 ServiceNow Studio offers a streamlined platform for ServiceNow® development, allowing admins and developers to extend system solutions, create custom apps, build app files, edit metadata, and package changes for deployment—all in one tool.
 
@@ -20,7 +20,3 @@ To learn more about ServiceNow Studio, see [ServiceNow Studio](https://raw.githu
 
 \[Omitted image "mab-snstudio.png"\] Alt text: mobile app builder record open in studio
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]

@@ -12,45 +12,33 @@ breadcrumb: [Care Team Mobile, Healthcare Operations, Healthcare and Life Scienc
 
 # Create support requests using Care Team Mobile
 
-Use [[care-team-mobile-landing|Care Team Mobile]] to create requests for supporting departments directly from your mobile device.
+Use Care Team Mobile to create requests for supporting departments directly from your mobile device.
 
 The following plugins are supported by Care Team Mobile:
 
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
--   [[cto-facilities-landing|Care Team Operations for Facilities]]
--   [[cto-evs-landing|Care Team Operations for Environmental Services]]
+-   Care Team Operations for Healthcare IT
+-   Care Team Operations for Biomed
+-   Care Team Operations for Facilities
+-   Care Team Operations for Environmental Services
 
--   [[cto-mobile-create-support-request|Create a support request in Care Team Mobile]]
+-   [Create a support request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-support-request.md)
 
     Use Create a request in Care Team Mobile to create support requests directly from your mobile device.
 
--   [[cto-mobile-track-requests|Track a submitted request in Care Team Mobile]]
+-   [Track a submitted request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-track-requests.md)
 
     Use Track requests in Care Team Mobile to track all requests submitted by you or your team.
 
--   [[cto-cancel-submitted-request|Cancel a submitted request in Care Team Mobile]]
+-   [Cancel a submitted request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-cancel-submitted-request.md)
 
     Cancel a submitted request in Care Team Mobile by locating the request and selecting Cancel case from the action menu.
 
--   [[cto-mobile-create-request-asset-scan|Scan an asset to create a support request in Care Team Mobile]]
+-   [Scan an asset to create a support request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-request-asset-scan.md)
 
     Use Scan asset in Care Team Mobile to generate support requests by scanning bar codes attached to assets.
 
--   [[cto-mobile-create-request-browse-locations|Browse locations to create a support request in Care Team Mobile]]
+-   [Browse locations to create a support request in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-mobile-create-request-browse-locations.md)
 
-    Use [[cto-mobile-browse-locations|Browse locations in Care Team Mobile]] to browse and create support requests for specific locations.
+    Use Browse locations in Care Team Mobile to browse and create support requests for specific locations.
 
-## Related
 
-- [[cto-mobile-create-support-request|Create a support request in Care Team Mobile]]
-- [[cto-mobile-track-requests|Track a submitted request in Care Team Mobile]]
-- [[cto-cancel-submitted-request|Cancel a submitted request in Care Team Mobile]]
-- [[cto-mobile-create-request-asset-scan|Scan an asset to create a support request in Care Team Mobile]]
-- [[cto-mobile-create-request-browse-locations|Browse locations to create a support request in Care Team Mobile]]
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]
-- [[cto-mobile-browse-locations|Browse locations in Care Team Mobile]]

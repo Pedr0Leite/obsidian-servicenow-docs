@@ -14,7 +14,7 @@ breadcrumb: [Authentication policies, Adaptive authentication, Authentication, A
 
 # Add an authentication policy to an authentication policy context
 
-Add an [[c_Authentication|authentication]] policy to one of the [[auth-policy-contexts|authentication policy contexts]]. The authentication context uses the policy inputs and conditions to determine whether uses are granted access to the instance, or whether MFA is enforced for your [[users|users]].
+Add an authentication policy to one of the authentication policy contexts. The authentication context uses the policy inputs and conditions to determine whether uses are granted access to the instance, or whether MFA is enforced for your users.
 
 ## Before you begin
 
@@ -22,21 +22,21 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **Auth Policy Contexts**, and select one of the entries depending on your needs.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Auth Policy Contexts**, and select one of the entries depending on your needs.
 
-    -   **[[pre-auth-context|Pre Authentication Context]]**
+    -   **Pre Authentication Context**
 
         Use the pre-authorization context to evaluate your policy before the user sees the login screen. Users are granted or denied access based on this evaluation.
 
     -   **Post Authentication Context**
 
-        Use the post-authorization context to evaluate your policy after the user enters their login credentials. Users are granted or denied access based on this evaluation. Because this evaluation takes place after the instance identifies the user, [[ca-policies|policies]] in this context can make their evaluation based on user data, such as their role or group.
+        Use the post-authorization context to evaluate your policy after the user enters their login credentials. Users are granted or denied access based on this evaluation. Because this evaluation takes place after the instance identifies the user, policies in this context can make their evaluation based on user data, such as their role or group.
 
     -   **MFA Context**
 
-        Use the MFA context to determine whether a user must use [[mfa-landing|multi-factor authentication]] when logging in.
+        Use the MFA context to determine whether a user must use multi-factor authentication when logging in.
 
-    -   **[[session-context|Session Validation Context]]**
+    -   **Session Validation Context**
 
         Use the session validation context to evaluate the IP-Address that are set based on the conditions defined as a filter and allows access to the instance within a session.
 
@@ -50,7 +50,7 @@ Role required: adaptive\_auth\_admin
 
     The name of the field depends on which context you have selected.
 
-    -   **Pre-authentication and [[post-auth-context|Post-authentication context]]**
+    -   **Pre-authentication and Post-authentication context**
 
         These contexts have a **Deny Policy** or **Allow Policy** field, depending on the selection in the **Default Policy** field.
 
@@ -66,14 +66,4 @@ Role required: adaptive\_auth\_admin
 
     After updating the record, you can see your policy's inputs and conditions in the **Policy Input** and **Policy Conditions** tabs.
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[auth-policy-contexts|Authentication policy contexts]]
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[pre-auth-context|Pre authentication context]]
-- [[ca-policies|Policies]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[session-context|Session validation context]]
-- [[post-auth-context|Post-authentication context]]

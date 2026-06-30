@@ -14,7 +14,7 @@ breadcrumb: [Password complexity requirements, Local authentication, Authenticat
 
 # Configure your password policy
 
-Password policy criteria enables you to secure your password and adhere to the minimum [[password-complexity-requirements|password complexity requirements]].
+Password policy criteria enables you to secure your password and adhere to the minimum password complexity requirements.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: password\_policy\_admin
 
 ## About this task
 
-The Password Policy \[com.glide.password\_policy\] plugin is enabled by default. It goes into effect when a user changes or resets the password. If you customized your instance, through the ValidatePasswordStronger installation exit or your [[c_SelfServicePasswordReset|Password Reset]] credential store \[pwd\_cred\_store\], see [password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md).
+The Password Policy \[com.glide.password\_policy\] plugin is enabled by default. It goes into effect when a user changes or resets the password. If you customized your instance, through the ValidatePasswordStronger installation exit or your Password Reset credential store \[pwd\_cred\_store\], see [password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Password Policy** &gt; **Password [[ca-policies|Policies]]**.
+1.  Navigate to **All** &gt; **Password Policy** &gt; **Password Policies**.
 
     **Note:** **Default Strong** preset in enabled as a default password acceptance criteria. In case, if you want to add a new criteria, you can perform the following steps.
 
@@ -185,7 +185,7 @@ Included Special Characters
 
 </td><td>
 
-Allow a restricted set of special characters without any delimiter. For example, if you enter "$,!" [[users|users]] can only use "$" and "!" as special characters in the password. No other special characters can be used, and a password with other special characters is not allowed.
+Allow a restricted set of special characters without any delimiter. For example, if you enter "$,!" users can only use "$" and "!" as special characters in the password. No other special characters can be used, and a password with other special characters is not allowed.
 
 </td></tr><tr><td>
 
@@ -218,9 +218,4 @@ It is enabled to disallow the user data.
 
     **Note:** Always test your password before submitting.
 
-## Related
 
-- [[password-complexity-requirements|Password complexity requirements]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[ca-policies|Policies]]
-- [[users|Users]]

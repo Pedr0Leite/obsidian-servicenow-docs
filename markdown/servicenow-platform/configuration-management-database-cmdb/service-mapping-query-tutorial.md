@@ -26,7 +26,7 @@ This example Service Mapping query finds all services that include Linux servers
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** and select **[[cmdb-query-builder-landing-page|CMDB Query Builder]]**.
+1.  Navigate to **All** &gt; **Configuration** and select **CMDB Query Builder**.
 
 2.  Select **Create new** and then enter `Linux server in services` in the **Name** field.
 
@@ -44,6 +44,4 @@ This example Service Mapping query finds all services that include Linux servers
 
     Review the query results. Now, each row displays the name of a Service Mapping service that doesn't include the specified Linux server.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

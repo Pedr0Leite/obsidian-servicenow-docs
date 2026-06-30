@@ -13,7 +13,7 @@ breadcrumb: [Now Assist in Notifications, Configure core features, Administer th
 
 # Explore Now Assist in Notifications
 
-Automates [[ia-inbound-email-il|inbound email]] processing and enables the creation and modification of email [[notifications|notifications]], templates, and layouts.
+Automates inbound email processing and enables the creation and modification of email notifications, templates, and layouts.
 
 ## Now Assist in Notifications overview
 
@@ -45,7 +45,7 @@ Automate inbound email processing by intelligently understanding requests, extra
 
 </td><td>
 
-[[use-agentic-ai-notifications|Use email agentic workflow]]
+[Use email agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/use-agentic-ai-notifications.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Create and modify email notifications, templates, and layouts through conversati
 
 </td><td>
 
-[[notification-creation-agent|Notification agent]]
+[Notification agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-creation-agent.md)
 
 </td><td>
 
@@ -66,18 +66,9 @@ Admin
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and using [[now-assist-notifications|Now Assist in Notifications]], see:
+To learn more about configuring and using Now Assist in Notifications, see:
 
--   [[configuring-agentic-workflows-in-notifications|Configure email agentic workflows in Notifications]]
--   [[guidelines-creating-intent|General guidelines for creating and mapping an intent]]
+-   [Configure email agentic workflows in Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-agentic-workflows-in-notifications.md)
+-   [General guidelines for creating and mapping an intent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/guidelines-creating-intent.md)
 -   [Notification agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/notification-creation-agent.md)
 
-## Related
-
-- [[use-agentic-ai-notifications|Use email agentic workflow]]
-- [[notification-creation-agent|Notification agent]]
-- [[configuring-agentic-workflows-in-notifications|Configure email agentic workflows in Notifications]]
-- [[guidelines-creating-intent|General guidelines for creating and mapping an intent]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[notifications|Notifications]]
-- [[now-assist-notifications|Now Assist in Notifications]]

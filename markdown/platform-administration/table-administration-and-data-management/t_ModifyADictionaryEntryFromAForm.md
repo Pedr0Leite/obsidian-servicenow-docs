@@ -26,7 +26,7 @@ Role required: admin
 
     -   Navigate to a field on a form, right-click the field, and select **Configure Dictionary** or **Show &lt;field name&gt;**.
     -   Navigate to **System Definition** &gt; **Dictionary**, and click an entry for a field or table. Entries for tables have **Type** set to **Collection**.
-    The [[c_SystemDictionary|system dictionary]] entry opens.
+    The system dictionary entry opens.
 
 2.  Update the dictionary entry fields.
 
@@ -34,11 +34,7 @@ Role required: admin
 
 
 -   **[Dictionary entry form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/r_DictionaryEntryForm.md)**  
-The [[r_DictionaryEntryForm|Dictionary Entry form]] was redesigned to provide an Advanced view and additional fields. You might need to configure the form to see all fields.
+The Dictionary Entry form was redesigned to provide an Advanced view and additional fields. You might need to configure the form to see all fields.
 
 **Parent Topic:**[Managing tables and indexes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/using-table-administration.md)
 
-## Related
-
-- [[c_SystemDictionary|System dictionary]]
-- [[r_DictionaryEntryForm|Dictionary entry form]]

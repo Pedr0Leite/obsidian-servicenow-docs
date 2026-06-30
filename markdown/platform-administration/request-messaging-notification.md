@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-There are two ways to [[t_RequestAPlugin|request a plugin]]:
+There are two ways to request a plugin:
 
 -   Access the Now Support Service Catalog directly by selecting **Automation Store** &gt; **Service Catalog** &gt; **Activate Plugin** on Now Support.
 -   Access the Now Support Service Catalog through the All Applications page on your instance by following these steps.
@@ -74,18 +74,13 @@ Select the date and time to activate the plugin.
 
 4.  Select **Submit**.
 
-    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the [[application-manager|Application Manager]].
+    After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[[messaging-integration|Notifications in messaging applications]]
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md)
 
 **Related topics**  
 
 
 [List of plugins \(Australia\)]()
 
-## Related
-
-- [[messaging-integration|Notifications in messaging applications]]
-- [[t_RequestAPlugin|Request a plugin]]
-- [[application-manager|Application Manager]]

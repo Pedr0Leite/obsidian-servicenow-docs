@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Domain separation and Service Observability
 
-Domain separation is supported for [[service-observability|Service Observability]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Service Observability. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -30,7 +30,7 @@ For more information on support levels, see [Application support for domain sepa
 
 ## Domain separation and Service Observability overview
 
-Domain separation is present in all aspects of the [[synthetic-monitoring-landing-page|synthetic monitoring]] application. Users belonging to a specific domain see only the data existing in their own domain.
+Domain separation is present in all aspects of the synthetic monitoring application. Users belonging to a specific domain see only the data existing in their own domain.
 
 ## How domain separation works in Service Observability
 
@@ -38,7 +38,7 @@ When data is separated by domains in Service Observability, users can only confi
 
 You define the domain-separated environment when you configure your data inputs. All relevant records and data processing in the Service Observability program flow reside in the same domain as the data input. The domain name of a data input appears in the Domain column that is displayed in the tables in your instance.
 
-Service Observability manages all aspects of the data, such as the data mappings and the data displayed on [[otto-aiops-dashboards|dashboards]]. When a property is changed, the new value affects new sources only in the specific domain.
+Service Observability manages all aspects of the data, such as the data mappings and the data displayed on dashboards. When a property is changed, the new value affects new sources only in the specific domain.
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
@@ -47,8 +47,3 @@ Service Observability manages all aspects of the data, such as the data mappings
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[otto-aiops-dashboards|Dashboards]]

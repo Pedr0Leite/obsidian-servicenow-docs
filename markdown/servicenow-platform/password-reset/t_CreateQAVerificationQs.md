@@ -29,7 +29,7 @@ The base system provides a large set of default questions in all supported langu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Security Questions**.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Security Questions**.
 
     **Note:** Each question in the list is presented to users when they enroll for the Password Reset process. The user selects each question to use by providing a confidential answer to the question.
 
@@ -65,6 +65,3 @@ The base system provides a large set of default questions in all supported langu
 
 **Parent Topic:**[Customizing Password Reset processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/customizing-password-reset.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

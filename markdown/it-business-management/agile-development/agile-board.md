@@ -83,7 +83,7 @@ From the Sprint Tracking tab, you can track the progress of your current sprint 
 
 -   **List**
 
-    The List view displays scrum tasks and [[c_Tests|tests]] for the stories of the current sprint. In the List view, you can:
+    The List view displays scrum tasks and tests for the stories of the current sprint. In the List view, you can:
 
     -   Add scrum task and tests without leaving the context of the record.
     -   View the state, short description, and assignee of the scrum task.
@@ -101,6 +101,3 @@ From the Sprint Tracking tab, you can track the progress of your current sprint 
 
 [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_VisualTaskBoards.md)
 
-## Related
-
-- [[c_Tests|Tests]]

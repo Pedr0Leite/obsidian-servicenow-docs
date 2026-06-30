@@ -18,12 +18,12 @@ The base system provides two preconfigured auto-delete rules that automatically 
 
 Configuration of auto-delete rules includes the following steps.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-deleting-stale-findings-automatically|Deleting stale findings automatically using auto-delete rules]]
+[Deleting stale findings automatically using auto-delete rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-deleting-stale-findings-automatically.md)
 
 ## Create or edit auto-delete rules
 
@@ -31,11 +31,11 @@ Create rules to delete findings and remediation tasks automatically based on spe
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -69,9 +69,4 @@ Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for 
 
     If your environment contains millions of records that match your delete criteria, it's advisable to consult with ServiceNow Customer Support before enabling the auto-delete rules. They can assist you in deleting records through a phased process to ensure smooth and efficient data management.
 
-## Related
 
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-deleting-stale-findings-automatically|Deleting stale findings automatically using auto-delete rules]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

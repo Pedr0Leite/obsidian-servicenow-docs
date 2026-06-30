@@ -20,7 +20,7 @@ Set up and configure how to discover and anonymize sensitive data from generativ
 
 <table id="table_tpg_p4l_ydc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn more about [[data-privacy-landing|Data Privacy]] for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/explore-now-assist-data-privacy.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn more about Data Privacy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/explore-now-assist-data-privacy.md)
 
 </td><td>
 
@@ -40,6 +40,3 @@ There are associated rate limits on how much data can be processed when using Na
 -   Some Now Assist products/features are currently available only for customers in some regions. Be sure to check for availability updates in future releases.
 -   Some AI products and skills are not available in Regulated Markets. For more information, see [KB2593939: Regulated Markets AI Products/Skills Not Available](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=e8d7cc82475aba90b7832920326d4362). Be sure to check for availability updates in future releases.
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]

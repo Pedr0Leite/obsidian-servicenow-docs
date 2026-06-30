@@ -15,21 +15,21 @@ breadcrumb: [Use, Conversational Integration with Apple Messages for Business, I
 
 # Transfer Apple Messages for Business chat conversations to live agents
 
-Configure the [[awa-application-landing-page|Advanced Work Assignment]] application to transfer a Apple Messages for Business chat conversation initiated by a requester to a live agent.
+Configure the Advanced Work Assignment application to transfer a Apple Messages for Business chat conversation initiated by a requester to a live agent.
 
 ## Before you begin
 
 Your administrator must have completed the following tasks:
 
 -   [Activate Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-activate.md).
--   Set the application scope to [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+-   Set the application scope to Conversational Integration with Apple Messages for Business using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 -   Activate the Conversational Messaging plugin \(com.glide.messaging.awa\). For more information, see [Activate Conversational Messaging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/activate-messaging-actions.md).
 
 Role required: admin
 
 ## About this task
 
-\[Omitted image "iMessage-apps.png"\] Alt text: A conversation with a [[virtual-agent-landing-page|virtual agent]] on an iPhone.
+\[Omitted image "iMessage-apps.png"\] Alt text: A conversation with a virtual agent on an iPhone.
 
 \[Omitted image "amb-rich-links.png"\] Alt text: A conversation with a live agent on an iPhone.
 
@@ -37,7 +37,7 @@ Role required: admin
 
 1.  Enable the Apple Messages for Business service channel.
 
-    1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **[[awa-service-channels|Service Channels]]**.
+    1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **Service Channels**.
 
     2.  In the **Name** column of the Queues list, search for `Apple Messages for Business`.
 
@@ -51,7 +51,7 @@ Role required: admin
 
     For more information, see [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-service-channels.md).
 
-2.  Automatically route [[awa-work-items|work items]] for Apple Messages for Business chat conversations to agents by configuring the queue for the Apple Messages for Business service channel.
+2.  Automatically route work items for Apple Messages for Business chat conversations to agents by configuring the queue for the Apple Messages for Business service channel.
 
     1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **Queues**.
 
@@ -65,7 +65,7 @@ Role required: admin
 
     **Note:** By default, the **Apple Messages for Business - Most Capacity** assignment rule is associated with the Agent Apple Messages for Business Queue. You can create another assignment rule and associate it with the queue. For more information, see [Configure agent assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-assignment-rule.md) and [Work item queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-queues.md).
 
-3.  [[awa-configure-agent-presence|Configure agent presence states]] for the Apple Messages for Business service channel.
+3.  Configure agent presence states for the Apple Messages for Business service channel.
 
     1.  Navigate to **Advanced Work Assignment** &gt; **Settings** &gt; **Presence States**.
 
@@ -79,11 +79,4 @@ Role required: admin
 
     For more information, see [Configure agent presence states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-configure-agent-presence.md).
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[integration-apple-mssg|Conversational Integration with Apple Messages for Business]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[awa-service-channels|Service channels]]
-- [[awa-work-items|Work items]]
-- [[awa-configure-agent-presence|Configure agent presence states]]

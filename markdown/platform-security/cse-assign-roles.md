@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Assign the Code Signing Administrator Role
 
-Assign the Code Signing Administrator role to a user to access the [[code-signing-configuration|Code Signing configuration]] experience.
+Assign the Code Signing Administrator role to a user to access the Code Signing configuration experience.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Roles required:
 -   admin
 -   security\_admin
 
-**Important:** The user that is assigned the [[code-signing-landing|Code Signing]] Administrator role must be in the Global scope.
+**Important:** The user that is assigned the Code Signing Administrator role must be in the Global scope.
 
 ## Procedure
 
@@ -31,7 +31,7 @@ Roles required:
 
 2.  Navigate to **All** &gt; **Code Signing** &gt; **Administration** &gt; **Role Administration**.
 
-3.  Grant a user the Code Signing Administrator role by moving a user from the **Available [[users|Users]]** list to the **Selected User\(s\)** list.
+3.  Grant a user the Code Signing Administrator role by moving a user from the **Available Users** list to the **Selected User\(s\)** list.
 
 4.  Select **Save**.
 
@@ -42,11 +42,5 @@ Roles required:
 
 The selected user has the Code Signing Admin role. A user with this role can access the Code Signing configuration experience, and assign other Code Signing roles to users.
 
-To learn more about Code Signing roles, see [[cs-role-landing|Roles installed with Code Signing]].
+To learn more about Code Signing roles, see [Roles installed with Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cs-role-landing.md).
 
-## Related
-
-- [[cs-role-landing|Roles installed with Code Signing]]
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[code-signing-landing|Code Signing]]
-- [[users|Users]]

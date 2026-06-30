@@ -14,7 +14,7 @@ breadcrumb: [Purchase revision flows, Using Shopping Hub, Use, Sourcing and Proc
 
 # Add a line to an existing purchase requisition or order
 
-You can add a new purchase line to an existing [[purchase-requisition|purchase requisition]] or order.
+You can add a new purchase line to an existing purchase requisition or order.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 2.  Select a purchase requisition or order and select **Edit** from the **More options** icon.
 
-    \[Omitted image "spo-edit-purchase-order.png"\] Alt text: Editing a [[purchase-order-table|purchase order]]
+    \[Omitted image "spo-edit-purchase-order.png"\] Alt text: Editing a purchase order
 
-    The Edit a purchase page is displayed with the available [[purchase-lines|purchase lines]].
+    The Edit a purchase page is displayed with the available purchase lines.
 
 3.  Select **Add** to add a new line.
 
@@ -36,7 +36,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 4.  On the form, fill in the fields.
 
-    When adding a new line, you can select a [[supplier|supplier]] product from the existing system catalog or request for a new supplier product from the **Would you like to:** field. The fields displayed are based on the selection of one of the following options:
+    When adding a new line, you can select a supplier product from the existing system catalog or request for a new supplier product from the **Would you like to:** field. The fields displayed are based on the selection of one of the following options:
 
     -   **Browse catalog**
 
@@ -148,7 +148,7 @@ Purchase reason
 Enter your comments on the purchase.
 
 </td></tr></tbody>
-</table>    -   **[[submit-quote|Submit a quote]]**
+</table>    -   **Submit a quote**
 
         \[Omitted image "spo-add-purchase-submit-quote.png"\] Alt text: Requesting for a new supplier product when adding a new purchase line.
 
@@ -341,10 +341,3 @@ Enter additional comments if any.
 
 **Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-lines|Purchase lines]]
-- [[supplier|Supplier]]
-- [[submit-quote|Submit a quote]]

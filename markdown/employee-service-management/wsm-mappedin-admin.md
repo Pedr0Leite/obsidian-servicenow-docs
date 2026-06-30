@@ -12,13 +12,13 @@ breadcrumb: [Workplace Service Delivery, Employee Service Management]
 
 # Workplace Space Mapping
 
-ServiceNow® Workplace Space Mapping provides indoor maps for interactive locations and wayfinding with [[Indoor-mapping|Indoor Mapping]] and Mappedin. Indoor Mapping is part of the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] suite while Mappedin a third-party map provider.
+ServiceNow® Workplace Space Mapping provides indoor maps for interactive locations and wayfinding with Indoor Mapping and Mappedin. Indoor Mapping is part of the Workplace Service Delivery suite while Mappedin a third-party map provider.
 
 ## Get started
 
 <table id="table_s3z_wrb_qtb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Learn about Workplace Space Mapping and [[space-optimization|space optimization]] in your workplace with map providers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-space-mapping-explore.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Learn about Workplace Space Mapping and space optimization in your workplace with map providers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-space-mapping-explore.md)
 
 </td><td>
 
@@ -30,14 +30,7 @@ ServiceNow® Workplace Space Mapping provides indoor maps for interactive locati
 
 </td><td>
 
-[References\[Omitted image "bus-learn.svg"\] Alt text: Work with Workplace Space Mapping tables, properties, and components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[References\[Omitted image "bus-learn.svg"\] Alt text: Work with Workplace Space Mapping tables, properties, and components.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[space-optimization|Space Optimization]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

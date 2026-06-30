@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog administration guide, Configuring Cloud Serv
 
 # Cloud Services Catalog and Terraform Connector
 
-Use the [[csc-home|Cloud Services Catalog]] app with Terraform Connector support with all its features that help in provisioning and managing cloud resources across various public and private clouds.
+Use the Cloud Services Catalog app with Terraform Connector support with all its features that help in provisioning and managing cloud resources across various public and private clouds.
 
 Key features of Terraform Connector:
 
@@ -30,6 +30,3 @@ For more information on Terraform Connector, configuring the advanced features, 
 
 **Parent Topic:**[Cloud Services Catalog administration guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/cloud-services-catalog-administration-guide.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

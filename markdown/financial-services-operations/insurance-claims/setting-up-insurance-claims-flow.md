@@ -14,15 +14,15 @@ breadcrumb: [Insurance claims, Exploring insurance claims applications, Insuranc
 
 # Setting up Insurance claims
 
-Plan and configure your implementation of the [[insurance-claims-flow|Insurance claims]] application by following the tasks in the configuration overview.
+Plan and configure your implementation of the Insurance claims application by following the tasks in the configuration overview.
 
 ## Prerequisites
 
 Before beginning the configuration steps, you should familiarize yourself with the following topics:
 
--   [[financial-services-operations-core-data-model|Financial Services Operations Core]]
--   [[insurance-claims-core-data-model|Insurance Claims Core]]
--   [[integrating-with-document-processor|Integrating with Document Processor]]
+-   [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
+-   [Insurance Claims Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-data-model.md)
+-   [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md)
 -   [Best practices for setting up an instance](https://www.servicenow.com/community/in-other-news/best-practices-for-general-planning-and-setup-of-your-instance/ba-p/2287790)
 -   [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-extension-and-classes.md)
 
@@ -60,7 +60,7 @@ Set up policy data
 
 </td><td>
 
-Review the policy data options in this topic \(importing data or remote tables\). For more information, see [Setting up the policy data for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-policy-data-for-insurance-claims.md).You can also follow these topics to set up [[insurance-product-models|insurance product models]] and coverages, and to create insurance policies:
+Review the policy data options in this topic \(importing data or remote tables\). For more information, see [Setting up the policy data for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/set-up-policy-data-for-insurance-claims.md).You can also follow these topics to set up insurance product models and coverages, and to create insurance policies:
 
 -   [Establish Insurance Product Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/insurance-product-models.md)
 -   [Specify coverages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/coverage-specification.md)
@@ -84,7 +84,7 @@ Create the service definitions for each of your claim types. For more informatio
 
 </td></tr><tr><td>
 
-[[link-the-insurance-product-model-and-service-definition|Link the insurance product model and claim case service definition]]
+Link the insurance product model and claim case service definition
 
 </td><td>
 
@@ -104,7 +104,7 @@ Set up Claim Incident Configuration
 
 </td><td>
 
-Set up the claim incident configuration to define the relationships between the [[claim-incidents|claim incidents]], the service definition, how [[adjuster-tasks-workspace-pers|adjuster tasks]] are created, and whether losses can be itemized. For more information, see [Claim Incident Configuration table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/claim-incident-configuration-table.md).
+Set up the claim incident configuration to define the relationships between the claim incidents, the service definition, how adjuster tasks are created, and whether losses can be itemized. For more information, see [Claim Incident Configuration table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/claim-incident-configuration-table.md).
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Review the reserves and payments approval engine
 
 </td><td>
 
-Go through the rules for the reserve and payment approval process provided in Insurance Claims Core. For more information, see [[approval-engine-for-reserves-and-payments|Approval Engine for Reserves and Payments]].
+Go through the rules for the reserve and payment approval process provided in Insurance Claims Core. For more information, see [Approval Engine for Reserves and Payments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/approval-engine-for-reserves-and-payments.md).
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ Configure assignment rules
 
 </td><td>
 
-Look at the rules that determine how cases and tasks are assigned to personas. For more information, see [[configure-assignment-rules-fso-applications|Configure assignment rules]].
+Look at the rules that determine how cases and tasks are assigned to personas. For more information, see [Configure assignment rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-assignment-rules-fso-applications.md).
 
 </td></tr><tr><td>
 
@@ -152,7 +152,7 @@ Configure SLA definitions
 
 </td><td>
 
-Configure service level agreement \(SLA\) definitions to match your business needs.The SLA definitions are based on the service definition of case and adjuster tasks. For more information, see [[configure-sla-definitions-fso-cases|Configure SLA definitions]].
+Configure service level agreement \(SLA\) definitions to match your business needs.The SLA definitions are based on the service definition of case and adjuster tasks. For more information, see [Configure SLA definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-sla-definitions-fso-cases.md).
 
 </td></tr><tr><td>
 
@@ -164,7 +164,7 @@ See what's included in Insurance claims and review the guidelines for setting up
 
 </td></tr><tr><td>
 
-[[insurance-claim-case-archival|Manage the Archive Claim Case rule]]
+Manage the Archive Claim Case rule
 
 </td><td>
 
@@ -172,18 +172,3 @@ Manage the archive rule that is provisioned in the Claim Case \[sn\_ins\_gen\_cl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[insurance-claims-core-data-model|Insurance Claims Core]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[approval-engine-for-reserves-and-payments|Approval Engine for Reserves and Payments]]
-- [[configure-assignment-rules-fso-applications|Configure assignment rules]]
-- [[configure-sla-definitions-fso-cases|Configure SLA definitions]]
-- [[insurance-claims-flow|Insurance claims]]
-- [[insurance-product-models|Insurance product models]]
-- [[link-the-insurance-product-model-and-service-definition|Link the insurance product model and claim case service definition]]
-- [[claim-incidents|Claim incidents]]
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]
-- [[insurance-claim-case-archival|Manage the Archive Claim Case rule]]

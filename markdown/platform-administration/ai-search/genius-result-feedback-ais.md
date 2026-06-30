@@ -14,7 +14,7 @@ breadcrumb: [Search, AI Search, Search administration, Configure core features, 
 
 # Provide feedback on Genius Results
 
-Users can submit feedback for each Genius Result answer card, specifying whether it was helpful for their search or not. For cards from default Genius Result [[clone-configurations-tab|configurations]], users can also select the reason they found an answer unhelpful. [[ia-ai-search|AI Search]] records feedback responses as [[search-signals|search signals]] that you can use to assess the relevancy of your Genius Result configurations.
+Users can submit feedback for each Genius Result answer card, specifying whether it was helpful for their search or not. For cards from default Genius Result configurations, users can also select the reason they found an answer unhelpful. AI Search records feedback responses as search signals that you can use to assess the relevancy of your Genius Result configurations.
 
 ## Before you begin
 
@@ -47,8 +47,3 @@ AI Search submits your feedback as a search signal.
 
 **Parent Topic:**[Searching in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/use-ais.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[ia-ai-search|AI Search]]
-- [[search-signals|Search signals]]

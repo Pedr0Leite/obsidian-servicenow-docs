@@ -16,9 +16,9 @@ breadcrumb: [Web Authentication, MFA verification methods, Configuring MFA, Mult
 
 Administrators can use the User Public Credentials list to view and manager user created credentials.
 
-When a user registers an authenticator application, biometric [[c_Authentication|authentication]], or hardware key, you instance creates a record on the **User Public Credentials**\[sys\_user\_public\_credential\] table. Use this table to see which [[users|users]] have registered an authenticator, as well as what types, and when they were registered and used. You can also mark these records as inactive to prevent the credentials to prevent users from using these credentials.
+When a user registers an authenticator application, biometric authentication, or hardware key, you instance creates a record on the **User Public Credentials**\[sys\_user\_public\_credential\] table. Use this table to see which users have registered an authenticator, as well as what types, and when they were registered and used. You can also mark these records as inactive to prevent the credentials to prevent users from using these credentials.
 
-The **Integration - [[mfa-web-auth|Web Authentication]] \(com.snc.integration.webauthn\)** plugin must be activated for Web Authentication \(FIDO2\).
+The **Integration - Web Authentication \(com.snc.integration.webauthn\)** plugin must be activated for Web Authentication \(FIDO2\).
 
 **Note:** The **Integration - Web Authentication \(com.snc.integration.webauthn\)** plugin is installed by default.
 
@@ -35,8 +35,3 @@ The **Integration - [[mfa-web-auth|Web Authentication]] \(com.snc.integration.we
 
 If you have restricted an authentication method, such as biometric authenticators, users will not be able to create new credentials of that type. However, any credentials created before you made this restriction will continue to work. You can disable records on the **User Public Credentials** table to prevent these credentials from being used after they have been created.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[mfa-web-auth|Web Authentication]]

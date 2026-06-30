@@ -29,7 +29,7 @@ The Now Assist context menu isn’t available with Core UI.
 
 ## Using the Now Assist context menu
 
-The Now Assist context menu is available on any field where the floating [[platform-now-assist-landing|Now Assist]] button \(\[Omitted image "wwna-icon.png"\] Alt text: Now Assist context menu icon\) appears. If you start typing in the field, a menu appears with the available Now Assist context menu actions. The Now Assist context menu helps you summarize, create or modify existing documentation.
+The Now Assist context menu is available on any field where the floating Now Assist button \(\[Omitted image "wwna-icon.png"\] Alt text: Now Assist context menu icon\) appears. If you start typing in the field, a menu appears with the available Now Assist context menu actions. The Now Assist context menu helps you summarize, create or modify existing documentation.
 
 You can configure the Advanced filter to hide or show the Now Assist Context Menu quick actions option using the wwna\_quick\_actions table. To view more variable set configuration options, see [https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nacm-variable-set-description.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nacm-variable-set-description.md).
 
@@ -110,37 +110,25 @@ You can configure the Advanced filter to hide or show the Now Assist Context Men
 
 -   **Create knowledge article with open prompt**
 
-    Use NAcm to create inline knowledge article using open [[ai-prompts|prompts]]. See [[generate-kb-article-with|Generate KB article with Now Assist context menu]].
+    Use NAcm to create inline knowledge article using open prompts. See [Generate KB article with Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generate-kb-article-with.md).
 
 -   **Set the minimum word count for the Now Assist icon**
 
     You can set a minimum word count required for the Now Assist icon to appear, to control when the icon is displayed based on content length. To set the minimum word count, update the value for the `minSelectedWordCount` property.
 
 
--   **[[email-recommendations-nacm|Email recommendations using the Now Assist context menu]]**  
+-   **[Email recommendations using the Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/email-recommendations-nacm.md)**  
 Use the Now Assist context menu to compose or respond to emails with recommendations from Now Assist with generative AI template suggestions. The Now Assist context menu enables users to generate email response recommendations in new, forward, reply, or reply all scenarios.
--   **[[summarisation-with-now-assist-context-menu|Summarize records with the Now Assist context menu]]**  
+-   **[Summarize records with the Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/summarisation-with-now-assist-context-menu.md)**  
 Use the Now Assist context menu to generate a record summary for the page, using Generative AI application assisted summarization capabilities in workspaces and UI16. The Now Assist context menu can generate a new summary, expand or collapse the summary card, share the summary to work notes, regenerate, or copy the summary.
--   **[[answer-queries-with-now-assist-context-menu|Improve Docs content in Strategic Portfolio Management with Now Assist context menu]]**  
+-   **[Improve Docs content in Strategic Portfolio Management with Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/answer-queries-with-now-assist-context-menu.md)**  
 Use the Now Assist context menu to start conversations and raise queries, using generative AI capabilities and custom built in skills in Strategic Portfolio Management.
 -   **[Generate KB article with Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generate-kb-article-with.md)**  
 Use the Now Assist context menu to generate Knowledge Base articles in Knowledge Management.
--   **[[now-assist-context-menu-dashboard|Now Assist context menu usage dashboard]]**  
+-   **[Now Assist context menu usage dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-context-menu-dashboard.md)**  
 Use the Now Assist Context Menu dashboard to monitor the use of Now Assist context menu across the different applications.
--   **[[use-now-assist-context-menu-for-custom-skill-deployment|Use Now Assist context menu for custom skill deployment]]**  
-Use the Now Assist context menu to deploy the custom skills created [[using-now-assist-skill-kit|using Now Assist skill kit]].
+-   **[Use Now Assist context menu for custom skill deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-now-assist-context-menu-for-custom-skill-deployment.md)**  
+Use the Now Assist context menu to deploy the custom skills created using Now Assist skill kit.
 
-**Parent Topic:**[[now-assist-experiences|Now Assist Experiences]]
+**Parent Topic:**[Now Assist Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-experiences.md)
 
-## Related
-
-- [[generate-kb-article-with|Generate KB article with Now Assist context menu]]
-- [[email-recommendations-nacm|Email recommendations using the Now Assist context menu]]
-- [[summarisation-with-now-assist-context-menu|Summarize records with the Now Assist context menu]]
-- [[answer-queries-with-now-assist-context-menu|Improve Docs content in Strategic Portfolio Management with Now Assist context menu]]
-- [[now-assist-context-menu-dashboard|Now Assist context menu usage dashboard]]
-- [[use-now-assist-context-menu-for-custom-skill-deployment|Use Now Assist context menu for custom skill deployment]]
-- [[now-assist-experiences|Now Assist Experiences]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]
-- [[using-now-assist-skill-kit|Using Now Assist Skill Kit]]

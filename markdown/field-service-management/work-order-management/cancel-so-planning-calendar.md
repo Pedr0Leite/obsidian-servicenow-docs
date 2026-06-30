@@ -22,7 +22,7 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Workspace**
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Workspace**
 
 2.  Select the **Planning calendar** icon \(\[Omitted image "show-schedule-new.png"\] Alt text: Planning calendar icon\).
 
@@ -76,8 +76,3 @@ On the calendar, right-click the work order event, and then select **Cancel work
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

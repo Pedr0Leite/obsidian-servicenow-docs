@@ -14,7 +14,7 @@ breadcrumb: [Connect administration, Connect, ServiceNow AI Platform Additional 
 
 # Disable the Connect overlay
 
-The [[c_CollaborationOverlay|Connect overlay]] is enabled by default and is integrated with the standard user interface. You can disable the Connect overlay.
+The Connect overlay is enabled by default and is integrated with the standard user interface. You can disable the Connect overlay.
 
 ## Before you begin
 
@@ -22,25 +22,18 @@ Role required: admin
 
 ## About this task
 
-To disable the Connect overlay and remove the toggle [[c_Connect|Connect]] sidebar icon from the banner frame, set the **collaboration.frameset** property to **false**.
+To disable the Connect overlay and remove the toggle Connect sidebar icon from the banner frame, set the **collaboration.frameset** property to **false**.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Connect** &gt; **Administration** &gt; **Properties**.
 
-2.  Locate the property called **Enable Connect in the frameset** \(**collaboration.frameset**\) and clear the [[check-box|check box]].
+2.  Locate the property called **Enable Connect in the frameset** \(**collaboration.frameset**\) and clear the check box.
 
 3.  Click **Save**.
 
 
 ## Result
 
-When the frameset is disabled, any Connect chats open in the [[c_CollaborationWorkspace|Connect workspace]]. For more information on completely disabling [[c_Collaboration|Connect Chat]], see [Disable Connect Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_CollaborationAdministration.md).
+When the frameset is disabled, any Connect chats open in the Connect workspace. For more information on completely disabling Connect Chat, see [Disable Connect Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_CollaborationAdministration.md).
 
-## Related
-
-- [[c_CollaborationOverlay|Connect overlay]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]
-- [[c_CollaborationWorkspace|Connect workspace]]
-- [[c_Collaboration|Connect Chat]]

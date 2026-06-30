@@ -30,7 +30,7 @@ Source for updating the shipment record to Closed or Delivered
 
 </th></tr></thead><tbody><tr><td>
 
-[[asset-donation|Asset Donation]]
+Asset Donation
 
 </td><td>
 
@@ -102,7 +102,7 @@ Return confirmation task is closed.
 
 </td></tr><tr><td>
 
-[[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\)
+Return Merchandise Authorization \(RMA\)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Return confirmation task is closed.
 
 </td></tr><tr><td>
 
-[[reclaim-asset|Asset reclamation]]
+Asset reclamation
 
 </td><td>
 
@@ -124,11 +124,11 @@ The Schedule shipment task for the Ship reclaim method is closed.
 
 </td><td>
 
-The [[receive-rma-asset|Receive asset]] task is closed.
+The Receive asset task is closed.
 
 </td></tr><tr><td>
 
-[[zero-touch-asset-refresh|Zero Touch Refresh]]
+Zero Touch Refresh
 
 </td><td>
 
@@ -141,10 +141,3 @@ The User asset receive task is closed.
 </td></tr></tbody>
 </table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[asset-donation|Asset donation]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[reclaim-asset|Asset reclamation]]
-- [[receive-rma-asset|Receive asset]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]

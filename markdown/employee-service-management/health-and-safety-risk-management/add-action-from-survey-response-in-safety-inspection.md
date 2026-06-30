@@ -22,11 +22,11 @@ Role required: sn\_hs\_rm.safety\_inspection\_writer
 
 ## About this task
 
-The safety agent assigned to the survey can create actions on the survey. The actions must first be added to the findings related item of a safety inspection record. For information on adding action to findings, see [Add an action for a safety inspection or audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-add-action-safety-inspection.md). Actions can also be created on the Now Agent app in [[offline-mode|offline mode]] provided all the inspection records are cached before going offline. For more information, see [Add actions for safety inspections survey in Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
+The safety agent assigned to the survey can create actions on the survey. The actions must first be added to the findings related item of a safety inspection record. For information on adding action to findings, see [Add an action for a safety inspection or audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-add-action-safety-inspection.md). Actions can also be created on the Now Agent app in offline mode provided all the inspection records are cached before going offline. For more information, see [Add actions for safety inspections survey in Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/add-actions-for-safety-inspections-survey-in-mobile-agent-app.md).
 
 ## Procedure
 
-1.  Navigate to **[[employee-center-landing-page|Employee Center]]** &gt; **[[health-safety-overview|Health and Safety]]** and select the **View safety inspections** quick link.
+1.  Navigate to **Employee Center** &gt; **Health and Safety** and select the **View safety inspections** quick link.
 
 2.  Select **Open Survey** for one of the inspection record.
 
@@ -58,8 +58,3 @@ The safety agent assigned to the survey can create actions on the survey. The ac
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[offline-mode|Offline mode]]
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-overview|Health and Safety]]

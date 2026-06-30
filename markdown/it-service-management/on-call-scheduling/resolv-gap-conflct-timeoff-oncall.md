@@ -32,7 +32,7 @@ A conflict is possible if a user is assigned as both the primary and secondary p
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **On-Call Schedules**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **On-Call Schedules**.
 
 2.  Click a shift card.
 
@@ -73,6 +73,3 @@ A conflict is possible if a user is assigned as both the primary and secondary p
 
 **Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

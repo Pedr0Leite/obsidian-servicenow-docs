@@ -14,7 +14,7 @@ breadcrumb: [Entity scoping, Explore entities, Common GRC features, Governance, 
 
 # Generate risks and controls from entity types
 
-Create and edit [[entity-type-in-risk-ws|entity types]] and map them to existing ServiceNow® tables for which you must track compliance \(applications, departments, regions, processes, systems, etc.\). Entities are assigned to control objectives and risk statements, which generate controls and risks for every entity type.
+Create and edit entity types and map them to existing ServiceNow® tables for which you must track compliance \(applications, departments, regions, processes, systems, etc.\). Entities are assigned to control objectives and risk statements, which generate controls and risks for every entity type.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-An entity type provides you a method to group Entities together. An entity type can be explained in the following example: Assume that you want to generate a risk of earthquake for all the data centers in a particular region. You could simply [[create-new-entity-type-ws|create an entity type]] called "Data Center" and associate all the entities of that region to the risk of earthquake based on the risk statement.
+An entity type provides you a method to group Entities together. An entity type can be explained in the following example: Assume that you want to generate a risk of earthquake for all the data centers in a particular region. You could simply create an entity type called "Data Center" and associate all the entities of that region to the risk of earthquake based on the risk statement.
 
 ## Procedure
 
@@ -73,7 +73,7 @@ Open the entity type from the list and click **Delete**.The item generation proc
     |Name|Name of the entity type.|
     |Description|Explanation of the entity type with any additional information that a user finds helpful.|
 
-4.  Once the entity type is saved, click the **[[what-is-an-entity-filter|Entity filters]]** tab and On the form, fill in the fields.
+4.  Once the entity type is saved, click the **Entity filters** tab and On the form, fill in the fields.
 
 <table id="table_xdv_yd3_x1b"><thead><tr><th>
 
@@ -136,8 +136,3 @@ Empty owner
 
 **Parent Topic:**[Entity scoping in GRC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/c_Scoping.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]
-- [[create-new-entity-type-ws|Create an entity type]]
-- [[what-is-an-entity-filter|Entity filters]]

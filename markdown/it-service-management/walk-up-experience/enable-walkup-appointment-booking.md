@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience appointment booking administration, Book Walk-up
 
 # Enable Walk-up Experience appointment booking
 
-Enable or disable the appointment booking feature for [[walkup-experience-landing-page|Walk-up Experience]] as well as for the individual walk-up service locations available to requesters.
+Enable or disable the appointment booking feature for Walk-up Experience as well as for the individual walk-up service locations available to requesters.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ When appointment booking is enabled, the **Schedule an appointment** tab appears
 
 **Parent Topic:**[Walk-up Experience appointment booking administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-administration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

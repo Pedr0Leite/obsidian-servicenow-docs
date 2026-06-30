@@ -18,7 +18,7 @@ Learn how to use screens in ServiceNow mobile. Use screens to make your mobile a
 
 Screens are made up of one or more embedded screens, which are screens embedded with a record screen. Each screen has configurable components, conditional formatting, sorting order, and filters.
 
-You can choose one of the available screen types within [[mab-concept|Mobile App Builder]]. Each screen type provides a unique experience or work flow, typically one per navigation tab, which your users can access on their mobile app The screen types may include other optional screens for your users to access for additional information. All screens display information that is based on records in a data item.
+You can choose one of the available screen types within Mobile App Builder. Each screen type provides a unique experience or work flow, typically one per navigation tab, which your users can access on their mobile app The screen types may include other optional screens for your users to access for additional information. All screens display information that is based on records in a data item.
 
 \[Omitted image "mab-screen-select.png"\] Alt text: Menu of screen types
 
@@ -26,9 +26,9 @@ You can choose one of the available screen types within [[mab-concept|Mobile App
 
 Launcher screen
 
- Launcher screens serve as landing pages or home pages. Using a launcher screen, you can access screens in various formats, as well as search, do [[sg-config-quick-actions|quick actions]], and find user information.
+ Launcher screens serve as landing pages or home pages. Using a launcher screen, you can access screens in various formats, as well as search, do quick actions, and find user information.
 
- For more information, see [[sg-mobile-applet-launcher|Launcher screens]].
+ For more information, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md).
 
 </td><td>
 
@@ -40,7 +40,7 @@ List screen
 
  Use list screens to display a list of records queried from a data item. List screens can be configured together with a record screen. When both screens are configured together, your users can tap a record on the list screen to display the record screen for that record.
 
- For more information, see [[list-screen|List screen]].
+ For more information, see [List screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-screen.md).
 
 </td><td>
 
@@ -52,7 +52,7 @@ Grouped list screen
 
  Use a grouped list screen to display a list of records that are grouped by a specific field. A group list screen uses a special group by data item.
 
- For more information, see [[grouped-list-screen|Grouped list screen]].
+ For more information, see [Grouped list screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/grouped-list-screen.md).
 
 </td><td>
 
@@ -64,7 +64,7 @@ Record screen
 
  User record screens to display information from one specific record. On a record screen, you can configure up to 4 different types of embedded screens as segments. These 4 different types of embedded screens include details, activity, related lists, and embedded lists.
 
- For more information, see [[form-screen|Record screen]].
+ For more information, see [Record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/form-screen.md).
 
 </td><td>
 
@@ -80,7 +80,7 @@ Map screen
 -   \(Optional\) The activity stream screen shows the activity stream details for a selected record.
 -   \(Optional\) The related lists screen shows the related lists for a selected record.
 
- For more information, see [[map-screen|Map screen]].
+ For more information, see [Map screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/map-screen.md).
 
 </td><td>
 
@@ -92,7 +92,7 @@ Calendar screen
 
  Use a calendar screen to display records associated with date fields. Users can tap a date on the calendar portion of the screen to see records associated with a specific date, in the event stream displayed in the lower portion of the screen. The record screen shows additional information that you define when a user taps a record.
 
- For more information, see [[calendar-screen|Calendar screen]].
+ For more information, see [Calendar screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/calendar-screen.md).
 
 </td><td>
 
@@ -106,7 +106,7 @@ Mobile web screen
 
  Relative URLs that direct your users to open pages within your instance are opened inside the mobile app. URLs that open external links will open the link in the default browser of the user's mobile device.
 
- For more information, see [[url-screen|Mobile web screen]].
+ For more information, see [Mobile web screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/url-screen.md).
 
 </td><td>
 
@@ -121,7 +121,7 @@ Chart screen
  -   The chart screen can display time series and single score reports that are used in the web-based UI.
 -   The chart screen can display score type reporting charts that are configured to use the **Latest score** visualization.
 
- For more information, see [[chart-screen|Chart screen]].
+ For more information, see [Chart screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/chart-screen.md).
 
 </td><td>
 
@@ -135,7 +135,7 @@ Input form screen
 
  Input form screens are screens that you use to execute an action or a function. They are not the first screen a user interacts with in a workflow.
 
- For more information, see [[parameter-input-screen|Input form screen]].
+ For more information, see [Input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-input-screen.md).
 
 </td><td>
 
@@ -143,17 +143,3 @@ Input form screen
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[list-screen|List screen]]
-- [[grouped-list-screen|Grouped list screen]]
-- [[form-screen|Record screen]]
-- [[map-screen|Map screen]]
-- [[calendar-screen|Calendar screen]]
-- [[url-screen|Mobile web screen]]
-- [[chart-screen|Chart screen]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[sg-config-quick-actions|Quick actions]]

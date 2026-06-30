@@ -19,12 +19,12 @@ Configure the **Priority defaulting for sourcing requests** decision table to au
 
 ## Before you begin
 
-Before [[configuring-work-prioritization|configuring work prioritization]] for sourcing requests, confirm the following:
+Before configuring work prioritization for sourcing requests, confirm the following:
 
--   The [[shopping-hub-overview|Shopping Hub]] application \(`sn_shop`\) is installed and active on the instance.
+-   The Shopping Hub application \(`sn_shop`\) is installed and active on the instance.
 -   The following priority levels exist and are active in the instance's priority choice list: Critical, High, Moderate, Low, and Planning.
 -   Job code records exist in the instance and are associated with user profiles in the expected way.
--   The **Business owner** field is populated on [[sourcing-request|sourcing request]] records. If it is empty, no job code can be evaluated and no rule will match.
+-   The **Business owner** field is populated on sourcing request records. If it is empty, no job code can be evaluated and no rule will match.
 
 Role required: decision\_table\_admin
 
@@ -40,7 +40,7 @@ If your organization does not use job code hierarchy as the basis for sourcing p
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Decision Tables**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Decision Tables**.
 
 2.  In the decision tables list, select **Priority defaulting for sourcing requests**.
 
@@ -91,9 +91,3 @@ Sourcing requests are automatically assigned a priority level when they are crea
 
 **Parent Topic:**[Configuring work prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-work-prioritization.md)
 
-## Related
-
-- [[configuring-work-prioritization|Configuring work prioritization]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

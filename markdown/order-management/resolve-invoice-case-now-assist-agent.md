@@ -17,7 +17,7 @@ Resolve invoice dispute cases using Now Assist directly from the CSM/FSM Configu
 
 ## Before you begin
 
-The invoice dispute assist agentic workflow must be made available on the Now Assist panel. For more information, see [[enable-invoice-dispute-assist-agentic-workflow|Make the invoice dispute assist workflow available in the Now Assist panel]].
+The invoice dispute assist agentic workflow must be made available on the Now Assist panel. For more information, see [Make the invoice dispute assist workflow available in the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-invoice-dispute-assist-agentic-workflow.md).
 
 Now Assist for CSM must be installed to enable generative AI capabilities in the CSM/FSM Configurable Workspace. For more information, see [Install Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/activate-now-assist-for-customer-service-management-csm.md).
 
@@ -89,7 +89,7 @@ You can also use the summarize and chat recommendation features in the Active Ch
 
 When the dispute is resolved, the invoice case is closed with the resolution details documented in the case notes, and an email notification is sent to the customer with a summary and a hyperlink to the case.
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
 **Related topics**  
 
@@ -98,7 +98,3 @@ When the dispute is resolved, the invoice case is closed with the resolution det
 
 [Summarize a chat conversation by using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-csm-summarize-chat.md)
 
-## Related
-
-- [[enable-invoice-dispute-assist-agentic-workflow|Make the invoice dispute assist workflow available in the Now Assist panel]]
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]

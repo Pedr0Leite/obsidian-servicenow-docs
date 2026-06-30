@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If the [[mapping-logrhythm|mapping]] form is not displayed, click **Mapping** on the progress bar.
+1.  If the mapping form is not displayed, click **Mapping** on the progress bar.
 
 2.  You can either pull the five most recent sample tickets or provide the unique ticket IDs for the specific tickets that you want to use for your mapping experience.
 
@@ -41,6 +41,3 @@ Role required: sn\_si.admin
 
 After you have fetched the sample data, the next step is map the ticket fields to the security incident.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

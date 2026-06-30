@@ -28,7 +28,7 @@ This task involves exporting an index suggestion as an .xml file from your produ
 
 1.  In your production instance, navigate to the index suggestion to be exported:
 
-    1.  Navigate to **[[sys-diag|System Diagnostics]]** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; To review**.
+    1.  Navigate to **System Diagnostics** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; To review**.
 
     2.  In the Index Suggestions table, select the table associated with the index suggestion you want to open from the **Table Name** column.
 
@@ -49,6 +49,3 @@ This task involves exporting an index suggestion as an .xml file from your produ
 
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[sys-diag|System Diagnostics]]

@@ -18,7 +18,7 @@ To follow ITIL guidelines, problem records are prioritized by the impact and urg
 
 Problem prioritization is available on new instances.
 
-On the [[problem-form|problem form]], users select values from the **Impact** and **Urgency** fields that determine which priority value is generated for the problem.
+On the problem form, users select values from the **Impact** and **Urgency** fields that determine which priority value is generated for the problem.
 
 |Field|Definition|
 |-----|----------|
@@ -48,11 +48,7 @@ In the Problem Priority Data Lookup \[dl\_problem\_priority\] table, you can mod
 
 When you initially create and save a problem, the **Work notes** field is not mandatory. If you change the priority of the problem by selecting different **Impact** or **Urgency** values on a problem form that was saved, the **Work notes** field becomes mandatory.
 
-**Note:** This feature is available only in new instances starting with Jakarta or a later release. The [[c_ProblemManagement|Problem Management]] Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
+**Note:** This feature is available only in new instances starting with Jakarta or a later release. The Problem Management Best Practice – Jakarta plugin \(com.snc.best\_practice.problem.jakarta\) plugin must be activated.
 
 **Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[problem-form|Problem form]]
-- [[c_ProblemManagement|Problem Management]]

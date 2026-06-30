@@ -12,7 +12,7 @@ breadcrumb: [Set up predefined Playbooks for Portals, Playbooks for Portals, Pla
 
 # Activate the draft state for the onboarding case type
 
-Activate a draft state for the [[onboarding-case-type-overview|onboarding case type]] so that the case remains in the draft state during the intake stage until the case is submitted.
+Activate a draft state for the onboarding case type so that the case remains in the draft state during the intake stage until the case is submitted.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 5.  Select **Update**.
 
-6.  Navigate to **System Definition** &gt; **Scheduled Job** and search for **sys\_id** - **ba5ba3d8944e7110f87759453e4c7084** or **Name** - **Update My [[migration-lists|Lists]] URL for draft cases**.
+6.  Navigate to **System Definition** &gt; **Scheduled Job** and search for **sys\_id** - **ba5ba3d8944e7110f87759453e4c7084** or **Name** - **Update My Lists URL for draft cases**.
 
 7.  Select **Execute Now**.
 
@@ -38,7 +38,4 @@ Role required: admin
 
 8.  If you’re using a custom case type table and you do not see the relevant state upon filtering, you might have to assign requisite ACLs for the state field and its associated values.
 
-## Related
 
-- [[onboarding-case-type-overview|Onboarding case type]]
-- [[migration-lists|Lists]]

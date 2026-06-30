@@ -49,8 +49,5 @@ Role required: admin
 10. After you agree to the ServiceNow® terms and conditions and manage the entitlements, you can entitle the other products with a single click.
 
 
-**Parent Topic:**[[esg-implementation|Operational Sustainability Management \(formerly ESG Management\) implementation]]
+**Parent Topic:**[Operational Sustainability Management \(formerly ESG Management\) implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-implementation.md)
 
-## Related
-
-- [[esg-implementation|Operational Sustainability Management \(formerly ESG Management\) implementation]]

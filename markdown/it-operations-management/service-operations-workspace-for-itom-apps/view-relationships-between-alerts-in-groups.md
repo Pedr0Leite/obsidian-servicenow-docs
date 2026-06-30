@@ -26,7 +26,7 @@ For an overview of Link View in Express List, see [Viewing links between alerts 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon\).
 
@@ -103,7 +103,3 @@ Hover over a node to display text with information about the alert.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -16,7 +16,7 @@ Customize the New Activity marker in UI Builder to differentiate between the lat
 
 ## Before you begin
 
-A duplicate variant must be configured by an administrator. If the duplicate variant isn’t configured, you can't enable or disable the New Activity marker. For more information, see [[customize-email-interaction-experience|Customize the email interaction experience]].
+A duplicate variant must be configured by an administrator. If the duplicate variant isn’t configured, you can't enable or disable the New Activity marker. For more information, see [Customize the email interaction experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-email-interaction-experience.md).
 
 Role required: admin
 
@@ -32,13 +32,13 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 3.  On the Experiences page, search and select **CSM/FSM Configurable Workspace**.
 
-4.  Navigate to **Pages and variants** &gt; **Record** &gt; **[[email-as-an-interaction|Email Interaction]] Page**.
+4.  Navigate to **Pages and variants** &gt; **Record** &gt; **Email Interaction Page**.
 
     **Note:** The Email Interaction Page variant is the newly created variant.
 
 5.  Select **Editor**.
 
-6.  In the Content section, search and select **[[csm-config-ws-activity-stream|Activity Stream]] 1**.
+6.  In the Content section, search and select **Activity Stream 1**.
 
 7.  In the Activity Stream 1 panel, navigate to **Configure** &gt; **Display**
 
@@ -53,8 +53,3 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 You can view the New Activity marker in the email conversation within the activity stream.
 
-## Related
-
-- [[customize-email-interaction-experience|Customize the email interaction experience]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-config-ws-activity-stream|Activity stream]]

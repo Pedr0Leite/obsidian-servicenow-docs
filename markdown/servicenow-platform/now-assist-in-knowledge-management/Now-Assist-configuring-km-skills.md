@@ -20,7 +20,7 @@ Configure the KB generation skill that agents can use to draft a knowledge artic
 
 Before configuring the KB generation skill, the following applications and their respective plugins must be installed.
 
--   The latest [[now-assist-knowledge-management|Now Assist in Knowledge Management]] and Knowledge Capabilities in UI Builder store apps must be installed prior to the following configuration steps.
+-   The latest Now Assist in Knowledge Management and Knowledge Capabilities in UI Builder store apps must be installed prior to the following configuration steps.
 
 -   For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 
@@ -80,6 +80,3 @@ Your skill is configured.
 
 [Skill inputs for Now Assist for Field Service Management \(FSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-fsm-skill-inputs.md)
 
-## Related
-
-- [[now-assist-knowledge-management|Now Assist in Knowledge Management]]

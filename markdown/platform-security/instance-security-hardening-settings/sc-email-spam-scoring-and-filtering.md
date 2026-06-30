@@ -14,7 +14,7 @@ breadcrumb: [File and resources, Hardening settings, Platform Security]
 
 # Enable email spam scoring and filtering
 
-Install the [[email|Email]] Filter \(**com.glide.email\_filter**\) plugin to install email filtering within the instance. This filtering identifies existing headers, which enables you to decide what to do with the email based on the associated header. Alternatively, set **com.glide.email\_filter** to false.
+Install the Email Filter \(**com.glide.email\_filter**\) plugin to install email filtering within the instance. This filtering identifies existing headers, which enables you to decide what to do with the email based on the associated header. Alternatively, set **com.glide.email\_filter** to false.
 
 The Email Filter \(**com.glide.email\_filter**\) plugin installs email filtering within the instance. This filter identifies existing headers, which enables the administrator to decide what to do with the email based on the associated header. The plugin adds a header to each message, which can be used for filtering within the instance. This feature is very helpful for filtering out spam.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -48,7 +48,7 @@ Configuration type
 </td><td>
 
 -   Plugin \(**All** &gt; **System Definition** &gt; **Plugins**\)
--   [[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+-   System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -124,8 +124,3 @@ Before setting this property:
 </td></tr></tbody>
 </table>**Parent Topic:**[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)
 
-## Related
-
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Activate role based multi-factor authentication
 
-Use the **glide.authenticate.multifactor** property to enforce role-based [[mfa-landing|multi-factor authentication]] \(MFA\) for all [[users|users]] assigned to specific roles.
+Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all users assigned to specific roles.
 
 The **glide.authenticate.multifactor** system property enforces multi-factor authentication based on the roles assigned to the user. If this property is set to **true**, then it enforces role-based multi-factor authentication for all users described in the Multi-factor Criteria \[multi\_factor\_criteria\] table. This table enforces multi-factor authentication based on the roles assigned to the user. If a user has been assigned admin, security\_admin or user\_admin roles in the multi-factor roles list, MFA is enforced.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -45,7 +45,7 @@ Configuration type
 
 </td><td>
 
--   [[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+-   System Properties \(/sys\_properties\_list.do\)
 -   Multi-factor Criteria \(/multi\_factor\_criteria\_list.do\)
 
 </td></tr><tr><td>
@@ -99,7 +99,7 @@ Security risk
 
 -   Severity score: 5.7
 -   CVSS rating: Medium
--   Security risk details: Enforcing MFA based on roles strengthens [[c_Authentication|authentication]] security and aligns with [[best-practices|best practices]] for protecting privileged accounts.
+-   Security risk details: Enforcing MFA based on roles strengthens authentication security and aligns with best practices for protecting privileged accounts.
 
 </td></tr><tr><td>
 
@@ -120,11 +120,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_Authentication|Authentication]]
-- [[best-practices|Best Practices]]

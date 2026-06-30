@@ -18,7 +18,7 @@ If an intent is not being chosen when expected, you can troubleshoot NLU predict
 
 ## Quick troubleshooting tips
 
-If a [[virtual-agent-landing-page|Virtual Agent]] is not being discovered, check the following:
+If a Virtual Agent is not being discovered, check the following:
 
 -   **Is NLU enabled for the session language?**
 
@@ -70,7 +70,7 @@ If a [[virtual-agent-landing-page|Virtual Agent]] is not being discovered, check
 
 -   **Is "Setup Topic" the topic in question?**
 
-    If so, it needs to be configured in [[convint-landing-page|Conversational Interfaces]] Chat Settings for it to be discovered. For details, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md).
+    If so, it needs to be configured in Conversational Interfaces Chat Settings for it to be discovered. For details, see [Configure a Virtual Agent chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-default-chat-experience.md).
 
 -   **Questions or issues with mid-topic switching.**
     -   **Why did the conversation return to Topic A after Virtual Agent switched to Topic B?**
@@ -576,7 +576,3 @@ To view the table, enter `open_nlu_driver_http_connection.list` in the navigatio
 
 **Parent Topic:**[Debug a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-troubleshooting-guide.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

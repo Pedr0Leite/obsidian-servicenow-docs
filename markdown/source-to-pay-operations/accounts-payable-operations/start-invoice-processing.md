@@ -22,11 +22,11 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 ## About this task
 
-In a few scenarios, the invoice can be imported via integration with third-party applications. If an invoice is ingested into [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] via integration, the invoice processing is not initiated. No invoice processing case is created for the invoice.
+In a few scenarios, the invoice can be imported via integration with third-party applications. If an invoice is ingested into Accounts Payable Operations via integration, the invoice processing is not initiated. No invoice processing case is created for the invoice.
 
 In such situations, the Accounts Payable Specialist must open the invoice and select the **Start invoice processing** option, which creates an invoice processing case for the invoice and starts processing the invoice.
 
-The **Start invoice processing** option is displayed for [[invoices|invoices]] of type PO and Non-PO only.
+The **Start invoice processing** option is displayed for invoices of type PO and Non-PO only.
 
 The **Start invoice processing** option is not displayed for invoices that are in the Canceled, Closed duplicate, Approved, Pending payment, or Paid status.
 
@@ -75,10 +75,5 @@ Activate the **Start Invoice Processing for Orphan Invoices** flow to process in
 
 [Reset an invoice to the Received status]()
 
-[Check for [[work-with-invoice-exceptions|invoice exceptions]] on a single invoice]()
+[Check for invoice exceptions on a single invoice]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

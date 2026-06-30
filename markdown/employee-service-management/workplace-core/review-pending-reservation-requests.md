@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace reservations for employees, Manage workplace saf
 
 # Review pending workspace reservation requests
 
-[[work-with-pending-reservation-requests|Review pending workplace reservation requests]] from employees in [[workplace-safety-mgmt-hr|Workplace Core]] and assign available workplaces to complete these requests.
+Review pending workplace reservation requests from employees in Workplace Core and assign available workplaces to complete these requests.
 
 ## Before you begin
 
@@ -60,7 +60,3 @@ Once the status of workplace request is updated to **Closed complete**, the rese
 
 **Parent Topic:**[Managing workplace reservations for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-reservations-wsd.md)
 
-## Related
-
-- [[work-with-pending-reservation-requests|Review pending workplace reservation requests]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

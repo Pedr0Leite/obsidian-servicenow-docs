@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Verify that your instance meets the prerequisites for AI Search for Next Experience
 
-Walk through Guided Setup tasks to confirm that your instance meets the requirements for [[ais-next-experience-app|AI Search for Next Experience]].
+Walk through Guided Setup tasks to confirm that your instance meets the requirements for AI Search for Next Experience.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: ais\_admin
 
 ## About this task
 
-The **Prerequisites** Guided Setup tasks walk you through verifying that your instance can use AI Search for Next Experience. Complete these tasks before you begin migrating your Zing [[defining-search-app-cfgs-ais|search application configurations]].
+The **Prerequisites** Guided Setup tasks walk you through verifying that your instance can use AI Search for Next Experience. Complete these tasks before you begin migrating your Zing search application configurations.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search for Next Experience** &gt; **Guided Setup for Zing to AI Search Migration**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search for Next Experience** &gt; **Guided Setup for Zing to AI Search Migration**.
 
 2.  Select **Get Started**.
 
@@ -79,8 +79,3 @@ Now that you've satisfied the prerequisites, it's time to migrate your existing 
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ia-ai-search|AI Search]]

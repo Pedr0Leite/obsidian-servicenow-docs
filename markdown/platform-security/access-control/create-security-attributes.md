@@ -14,7 +14,7 @@ breadcrumb: [Security Attributes, Access Management]
 
 # Create Security Attributes
 
-Create new [[security-attributes-landing|Security Attributes]] with a step-by-step guide.
+Create new Security Attributes with a step-by-step guide.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Type
 
 The type of Security Attribute. -   compound
 
-**Note:** For further information about [[compound-security-attributes|Compound Security Attributes]] see [Compound Security Attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/compound-security-attributes.md)
+**Note:** For further information about Compound Security Attributes see [Compound Security Attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/compound-security-attributes.md)
 
 -   integer
 -   list
@@ -118,8 +118,3 @@ Derive a value from a script.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[security-attributes-landing|Security Attributes]]
-- [[compound-security-attributes|Compound Security Attributes]]

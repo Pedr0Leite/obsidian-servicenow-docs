@@ -22,13 +22,13 @@ Role required: user
 
 ## About this task
 
-[[user-exp-analytics-landing|Usage Insights]] automatically detects all screens, gestures, and user actions in your applications. You can view occurrences of user-triggered events including menu selection, button clicking, and swiping.
+Usage Insights automatically detects all screens, gestures, and user actions in your applications. You can view occurrences of user-triggered events including menu selection, button clicking, and swiping.
 
 \[Omitted image "uxa-event-properties.png"\] Alt text: Analytics module - Events screen
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Usage Insights**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Usage Insights**.
 
 2.  Select the application for which you want to analyze events.
 
@@ -58,7 +58,3 @@ These event KPIs are tracked for web and mobile platforms.
 |Search Start|Search action starts.|
 |Search Complete|Search action completes. This time is recorded in milliseconds.|
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

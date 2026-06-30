@@ -14,7 +14,7 @@ breadcrumb: [Configuring communities, Communities, Customer Service Management]
 
 # Activate Communities plugins
 
-Activate the Customer [[servicenow-communities|Communities]] plugin to use the Communities application.
+Activate the Customer Communities plugin to use the Communities application.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_communities.admin
 
 Communities is available for customers who are:
 
--   Licensed for the [[c_CustomerServiceManagement|Customer Service Management]] application.
+-   Licensed for the Customer Service Management application.
 -   Licensed for HR Service Delivery.
 
 To activate Communities, activate the Customer Communities plugin \(com.sn\_customer\_communities\). This plugin is not active by default.
@@ -33,12 +33,12 @@ When you activate the Customer Communities plugin, the following plugins automat
 
 -   External User Registration plugin \(com.sn\_external\_user\_register\)
 -   Communities plugin \(com.sn\_communities\)
--   [[communities-gamification|Gamification]] plugin \(com.snc.gamification\)
+-   Gamification plugin \(com.snc.gamification\)
 -   Subscriptions and Activity Feed Framework plugin \(com.snc.activity\_subscriptions\)
 
 To activate Communities demo data, activate the Communities Demo Data plugin \(com.sn\_communities\_demo\).
 
-To activate the [[communities-dashboard|Communities dashboard]], activate the Performance Analytics — Content Pack — Communities plugin \(com.snc.pa.communities\).
+To activate the Communities dashboard, activate the Performance Analytics — Content Pack — Communities plugin \(com.snc.pa.communities\).
 
 ## Procedure
 
@@ -96,9 +96,3 @@ To activate the [[communities-dashboard|Communities dashboard]], activate the Pe
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[communities-gamification|Gamification]]
-- [[communities-dashboard|Communities dashboard]]

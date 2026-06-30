@@ -19,9 +19,9 @@ After you submit a recall order for any enterprise assets that have been recalle
 You can either complete the required set of tasks separately for each of your recalled enterprise assets or bulk update and complete the required set of tasks for all recalled enterprise assets that share the same task name, state, assignment group, and assigned user. After you complete all required tasks for a recalled enterprise asset, the corresponding enterprise recalled asset record moves to the Completed stage. Once all enterprise recalled asset records within a recall order reach the Completed stage, the recall order is completed.
 
 -   **[Complete the Prepare task for a recalled enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-prepare-task-recall-order.md)**  
-[[complete-prepare-task-recall-order|Complete the Prepare task for a recalled enterprise asset]] so that you can proceed with replacing, repairing, or retiring the given enterprise asset.
+Complete the Prepare task for a recalled enterprise asset so that you can proceed with replacing, repairing, or retiring the given enterprise asset.
 -   **[Complete the Notation task for a recalled enterprise asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-notation-task-recall-order.md)**  
-[[complete-notation-task-recall-order|Complete the Notation task for a recalled enterprise asset]] so that you can provide your users with additional instructions on how to operate the asset.
+Complete the Notation task for a recalled enterprise asset so that you can provide your users with additional instructions on how to operate the asset.
 -   **[Complete the recall process for an enterprise asset through an on-site repair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-recall-process-on-site-repair.md)**  
 Perform all tasks that are required for an on-site repair so that you can complete the recall process for an enterprise asset that has been recalled by the asset vendor.
 -   **[Complete the recall process for an enterprise asset through an off-site repair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complete-recall-process-off-site-repair.md)**  
@@ -33,7 +33,3 @@ Perform all tasks that are required for an asset retirement so that you can comp
 
 **Parent Topic:**[Managing recalled enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-recalled-enterprise-assets.md)
 
-## Related
-
-- [[complete-prepare-task-recall-order|Complete the Prepare task for a recalled enterprise asset]]
-- [[complete-notation-task-recall-order|Complete the Notation task for a recalled enterprise asset]]

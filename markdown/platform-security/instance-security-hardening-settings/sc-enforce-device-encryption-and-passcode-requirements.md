@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Enforce device encryption and passcode requirements \[New in Security Center 1.3\]
 
-The **glide.sg.device\_encryption\_enabled** property enforces the Federal Information Processing Standard \(FIPS 140-2\) [[encryption-landing|Encryption]]. Mobile device encryption and passcode ensure that an unauthorized user cannot access the content of a device even if the device is physically obtained.
+The **glide.sg.device\_encryption\_enabled** property enforces the Federal Information Processing Standard \(FIPS 140-2\) Encryption. Mobile device encryption and passcode ensure that an unauthorized user cannot access the content of a device even if the device is physically obtained.
 
 When the **glide.sg.device\_encryption\_enabled** system property is set to **true**, the ServiceNow mobile app checks that device encryption is enabled and that device passcode is enabled. If encryption or passcode is not enabled, the user will not be allowed to log into the instance on mobile. This property enforces FIPS 140-2 Encryption. Mobile device encryption and passcode are important security features for ensuring an unauthorized user cannot access the content of the device even if the device is physically obtained.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Security risk
 
 -   Severity score: 4.2
 -   CVSS score: Medium
--   Security risk details: This creates a risk that sensitive data stored or accessed through the mobile app could be exposed if the device is lost, stolen, or compromised. Without encryption and passcode enforcement, unauthorized [[users|users]] can gain physical access to confidential information, undermining compliance with FIPS 140-2 and weakening overall [[naai-data-protection|data protection]].
+-   Security risk details: This creates a risk that sensitive data stored or accessed through the mobile app could be exposed if the device is lost, stolen, or compromised. Without encryption and passcode enforcement, unauthorized users can gain physical access to confidential information, undermining compliance with FIPS 140-2 and weakening overall data protection.
 
 </td></tr><tr><td>
 
@@ -114,10 +114,3 @@ You need a passcode in order to use this instance on this device. Go to your dev
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[naai-data-protection|Data protection]]

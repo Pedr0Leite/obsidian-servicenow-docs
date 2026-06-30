@@ -14,7 +14,7 @@ breadcrumb: [HR Success Dashboard indicators, HR Service Delivery, Employee Serv
 
 # Explore the HR Success Dashboard indicators
 
-Get an overview of the [[success-dashboard-landing|HR Success Dashboard indicators]] to understand the different components on the dashboard and how can you use the dashboard for your organization.
+Get an overview of the HR Success Dashboard indicators to understand the different components on the dashboard and how can you use the dashboard for your organization.
 
 The HR team can analyze and understand the key metrics such as, call deflections and self-service to measure the success of the HR implementation. The leadership team can view the following insights:
 
@@ -29,6 +29,3 @@ Also, process owners can view the records that contribute to these insights, do 
 
 \[Omitted image "dashboard-perf-oview.png"\] Alt text: HR Success Dashboard Overview landing page
 
-## Related
-
-- [[success-dashboard-landing|HR Success Dashboard indicators]]

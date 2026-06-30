@@ -21,7 +21,7 @@ Discovery Quick Start can automatically assign ranges of IP addresses, called su
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>To be automatically assigned to a subnet, a [[mid-server-landing|MID Server]] must be:
+</table>To be automatically assigned to a subnet, a MID Server must be:
 
 -   In a running **\(Up\)** state.
 -   Successfully validated.
@@ -82,6 +82,4 @@ Role required: admin
 
     \[Omitted image "IPRangeAssignments.png"\] Alt text: IP range assignments
 
-## Related
 
-- [[mid-server-landing|MID Server]]

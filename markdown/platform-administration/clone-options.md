@@ -12,7 +12,7 @@ breadcrumb: [Reference, Instance Clone, Configure core features, Administer the 
 
 # Clone options
 
-A [[reference-email-admin|reference]] topic that contains various [[clone-configurations-tab|configurations]] for your data when requesting a clone.
+A reference topic that contains various configurations for your data when requesting a clone.
 
 <table id="table_ajq_bss_gr"><thead><tr><th>
 
@@ -46,7 +46,7 @@ Clone frequency
 
 </td><td>
 
-This option enables you to [[schedule-cloning|schedule recurring clones]] from your source to your target instance. It enables you to define the clone frequency and the maximum number of occurrences. By default, the clone frequency is set to None. -   None
+This option enables you to schedule recurring clones from your source to your target instance. It enables you to define the clone frequency and the maximum number of occurrences. By default, the clone frequency is set to None. -   None
 -   Weekly
 -   Every 2 weeks
 -   Every 4 weeks
@@ -66,9 +66,9 @@ Exclude tables specified in Exclusion List
 
 </td><td>
 
-Helps to prevent cloning records from tables on the source instance, which are listed under  **[[Clone-UI|Clone Admin Console]]****[[clone-exclusions-preservers-cleanupscripts|Definitions]]****Exclude Tables**. If a table is on the Exclusion List, the clone excludes the records on the table as well as records on the child tables. When excluding tables, their table schema and hierarchy are still cloned to your target instance. As a result, your target instance will have empty but usable tables after the clone.
+Helps to prevent cloning records from tables on the source instance, which are listed under  **Clone Admin Console****Definitions****Exclude Tables**. If a table is on the Exclusion List, the clone excludes the records on the table as well as records on the child tables. When excluding tables, their table schema and hierarchy are still cloned to your target instance. As a result, your target instance will have empty but usable tables after the clone.
 
-**Note:** Default table exclusions are still excluded and aren't affected by this setting. Including tables containing auditing, license usage, logging, and [[notifications|notifications]].
+**Note:** Default table exclusions are still excluded and aren't affected by this setting. Including tables containing auditing, license usage, logging, and notifications.
 
 If you need the data from your excluded tables, you can choose to disable this setting.
 
@@ -120,14 +120,5 @@ Preserves the last 90 days of in-progress update sets in the global application 
 The default isn’t to preserve update sets.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[instance-clone-reference|Instance Clone reference]]
+</table>**Parent Topic:**[Instance Clone reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
-## Related
-
-- [[instance-clone-reference|Instance Clone reference]]
-- [[reference-email-admin|Reference]]
-- [[clone-configurations-tab|Configurations]]
-- [[schedule-cloning|Schedule recurring clones]]
-- [[Clone-UI|Clone Admin Console]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[notifications|Notifications]]

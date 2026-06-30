@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Click **Migrate Active Records**.
 
-    If there are no active records to migrate, the [[migrating-existing-records|migration job]] moves to the [[migrate-inactive-records|migrate inactive records]] stage.
+    If there are no active records to migrate, the migration job moves to the migrate inactive records stage.
 
     **Note:** Even if you close the migration window or navigate away from the migration job, the migration of records continues. If you click **Migrate Active Records**, the migration window displays the current progress.
 
@@ -39,7 +39,3 @@ Role required: admin
 
 [Migrate inactive records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/migrate-inactive-records.md).
 
-## Related
-
-- [[migrating-existing-records|Migration job]]
-- [[migrate-inactive-records|Migrate inactive records]]

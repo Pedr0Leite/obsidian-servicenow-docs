@@ -17,7 +17,7 @@ breadcrumb: [Configure, Contract Management Pro, Legal and Contract Operations, 
 
 Set up external applications that provide services such as electronically signing contract documents and saving signed contracts or the documents related to requests in an external storage system.
 
-The [[cncore-cmpro-landing-page|Contract Management Pro]] application use spokes from Integration Hub to integrate with external applications. The contract configurator \(sn\_cm\_core.contract\_config\) can complete configuring these external apps after the administrator completes installation and configuration of these spokes.
+The Contract Management Pro application use spokes from Integration Hub to integrate with external applications. The contract configurator \(sn\_cm\_core.contract\_config\) can complete configuring these external apps after the administrator completes installation and configuration of these spokes.
 
 ## Integration with external storage systems
 
@@ -60,13 +60,9 @@ The [[cncore-cmpro-landing-page|Contract Management Pro]] application use spokes
 
 
 -   **[Configure an external storage system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-ext-storage.md)**  
-As a contract configurator, [[cncore-integrate-ext-storage|configure an external storage system]] to store signed contract documents.
+As a contract configurator, configure an external storage system to store signed contract documents.
 -   **[Configure an e-signature provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-integrate-esign.md)**  
 Configure an electronic signature provider to enable users to sign contract documents electronically.
 
 **Parent Topic:**[Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-integrate-ext-storage|Configure an external storage system]]

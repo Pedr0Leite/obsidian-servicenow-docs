@@ -14,18 +14,18 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Major Security Incident Management workspace
 
-[[major-security-incident-management-landing-page|Major Security Incident Management]] provides a dedicated workspace for managing major security incidents specifically designed for the Major Security Incident manager.
+Major Security Incident Management provides a dedicated workspace for managing major security incidents specifically designed for the Major Security Incident manager.
 
 Easily collaborate on activities that help resolve major security incidents by sharing and viewing files and folders, viewing and updating incident tasks, and communicate with those working on the incident through dedicated chat channels.
 
-Major Security Incident Management \(MSIM\) provides a mechanism to track and resolve major security incidents. MSIM works in conjunction with the existing security incident and [[vuln-landing-page|vulnerability response]] product capabilities and improves the major security incident remediation process with the following features:
+Major Security Incident Management \(MSIM\) provides a mechanism to track and resolve major security incidents. MSIM works in conjunction with the existing security incident and vulnerability response product capabilities and improves the major security incident remediation process with the following features:
 
 -   Dedicated workspace for managing major security incidents specifically designed for the major security incident manager user role.
--   Organize major [[security-incident-response-tasks|security incident response tasks]], including tasks tracked on linked security incidents and vulnerability groups.
+-   Organize major security incident response tasks, including tasks tracked on linked security incidents and vulnerability groups.
 -   Automate creation of collaboration folders and chat communication channels once a major security incident is created, as well as archival as part of incident closure.
 -   File explorer component to organize and track collection of artifacts \(files\) related to the major security incident via a Microsoft SharePoint integration.
 -   Chat channel manager and activity stream components to manage communications across multiple security, IT, and functional groups via a Microsoft Teams integration.
--   Summary reporting of major security incident impact and progress metrics, including rollup of affected assets, users, [[threat-intelligence-locations|locations]], and team resources, as well timeline of significant incident milestones.
+-   Summary reporting of major security incident impact and progress metrics, including rollup of affected assets, users, locations, and team resources, as well timeline of significant incident milestones.
 
 Use the MSIM Workspace to track and resolve major security incidents:
 
@@ -37,9 +37,3 @@ Use the MSIM Workspace to track and resolve major security incidents:
 
 **Parent Topic:**[Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[security-incident-response-tasks|Security Incident Response Tasks]]
-- [[threat-intelligence-locations|Locations]]

@@ -28,7 +28,7 @@ If the [Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/Serv
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **[[case-management-workspace|Case Management]]** &gt; **Create New Case**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Case Management** &gt; **Create New Case**.
 
 2.  On the form, fill in the fields.
 
@@ -151,7 +151,3 @@ If you have the [Safe Workplace Dashboard](https://raw.githubusercontent.com/Ser
 
 **Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[case-management-workspace|Case management]]

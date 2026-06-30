@@ -24,7 +24,7 @@ Role required: Cloud user, designer, admin, sn\_cmp.cloud\_service\_designer
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin portal]], navigate to **Design** &gt; **Cloud Catalog Items**.
+1.  In the Cloud Admin portal, navigate to **Design** &gt; **Cloud Catalog Items**.
 
 2.  Open a catalog item.
 
@@ -75,6 +75,3 @@ Role required: Cloud user, designer, admin, sn\_cmp.cloud\_service\_designer
 
 -   To check whether the flow completes successfully, see [Create a response action for Cloud Provisioning and Governance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-subflow-action-cloud-provision-governance.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

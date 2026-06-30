@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Understanding, Enable AI experiences]
 
 # Multilingual model management
 
-Use multilingual [[nlu-landing|Natural Language Understanding]] \(NLU\) models for the system to understand user input in several languages. The NLU Workbench helps you manage and maintain a consistent structure for content across languages to provide a unified experience.
+Use multilingual Natural Language Understanding \(NLU\) models for the system to understand user input in several languages. The NLU Workbench helps you manage and maintain a consistent structure for content across languages to provide a unified experience.
 
 ## Primary and secondary languages
 
@@ -24,7 +24,7 @@ The NLU Workbench home displays primary and secondary language models nested und
 
 \[Omitted image "nlu-modelsV2.png"\] Alt text: On the NLU Workbench homepage, VA tab, one grouped model is expanded to show two different languages.
 
-Multilingual model management provides a way for you to group, oversee, and update your [[nlu-models|NLU models]]. The designation for the model language works as follows:
+Multilingual model management provides a way for you to group, oversee, and update your NLU models. The designation for the model language works as follows:
 
 -   Primary models have a language you assign to them during model creation and listed as English \(Primary\). The language of the primary model is the source language for the translations that follow later in the secondary models.
 -   Secondary models are translated copies of the primary model. Each secondary model uses a different language, such as Brazilian Portuguese, Polish, or Finnish.
@@ -79,7 +79,3 @@ Following is a list of system behaviors you may encounter when you duplicate the
 
 For more information, see [Duplicate an NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/clone-nlu-model.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-models|NLU models]]

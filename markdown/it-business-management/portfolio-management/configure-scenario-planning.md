@@ -14,7 +14,7 @@ breadcrumb: [Scenario Planning for PPM, Portfolio Management, Project Portfolio 
 
 # Configure the scenario planning type and scope
 
-Configure the scenario planning type and select the scope of portfolios to determine the way you want to plan and work on your portfolios. You can also specify using [[investment-funding-overview|Investment Funding]] for funding demands and projects in your portfolios.
+Configure the scenario planning type and select the scope of portfolios to determine the way you want to plan and work on your portfolios. You can also specify using Investment Funding for funding demands and projects in your portfolios.
 
 ## Before you begin
 
@@ -72,7 +72,7 @@ Steps
 2.  Select **Single Selected Portfolio** from the Planning Scope list.
 3.  Select your default planning duration from the **Default Planning Window** list.
 
-When you select a planning window, all the demands and projects falling within the selected duration appear on the [[portfolio-planning-app-landing-page|Portfolio Planning]] Workbench.
+When you select a planning window, all the demands and projects falling within the selected duration appear on the Portfolio Planning Workbench.
 
 </td></tr><tr><td id="d95333e183">
 
@@ -108,7 +108,3 @@ Modifying the planning type and scope impacts the demands and project selection 
 
 **Parent Topic:**[Scenario Planning for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/portfolio-planning-overview.md)
 
-## Related
-
-- [[investment-funding-overview|Investment Funding]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

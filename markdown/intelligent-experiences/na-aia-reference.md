@@ -12,17 +12,17 @@ breadcrumb: [Now Assist AI agents, Enable AI experiences]
 
 # Now Assist AI agents reference
 
-Find more information about user roles, tables, and the different properties that are installed in [[na-ai-agents|Now Assist AI agents]].
+Find more information about user roles, tables, and the different properties that are installed in Now Assist AI agents.
 
 ## Now Assist AI agents roles
 
-The following roles are installed with Now Assist AI agents with a compatible [[platform-now-assist-landing|Now Assist]] application.
+The following roles are installed with Now Assist AI agents with a compatible Now Assist application.
 
 |Role|Description|
 |----|-----------|
 |AI Agent admin \[sn\_aia.admin\]|Administrator of the application. A user with the sn\_aia\_admin role can create, read, update, and delete records.|
 |AI Agent Viewer \[sn\_aia.viewer\]|Read-only access to the application. A user with the sn\_aia\_viewer role has read and report access on all tables.|
-|agent\_role\_config\_admin|With this role, user can access and modify Agent role [[exploring-ai-governance|configurations]] with AI Agent admin \[sn\_aia\_admin\] being the parent role.|
+|agent\_role\_config\_admin|With this role, user can access and modify Agent role configurations with AI Agent admin \[sn\_aia\_admin\] being the parent role.|
 |agent\_role\_config\_viewer|Can view the Agent role configurations with AI Agent Viewer \[sn\_aia\_viewer\] being the parent role.|
 
 **Note:** The roles can be assigned manually through the user record directly. For the assigned roles to take effect, logout and login back to the application.
@@ -47,11 +47,11 @@ glide.ai\_record\_activity.validation.feature.enabled
 
 Enables UI validation for agentic AI and skills at the instance level. If this feature is enabled, then any UI validation, such as required fields, must be met before the AI process is completed. The following properties are context-specific gates that determine where validation is done when the feature is enabled:
 
- -   glide.ai\_record\_activity.ai\_detection.nap.enabled: [[now-assist-center-now-assist-panel|Now Assist panel]] executions
+ -   glide.ai\_record\_activity.ai\_detection.nap.enabled: Now Assist panel executions
 -   glide.ai\_record\_activity.ai\_detection.skill.enabled: Now Assist skill execution with UI actions or in Virtual Agent
 -   glide.ai\_record\_activity.ai\_agent.validation.enabled: agentic AI-initiated record updates with UI actions or in Virtual Agent
 
- If you want to enable these gates of the UI validation feature, you must create the system property and set the value to **true**. You don't need to enable this feature for individual skills or agentic [[ai-assets|AI assets]].
+ If you want to enable these gates of the UI validation feature, you must create the system property and set the value to **true**. You don't need to enable this feature for individual skills or agentic AI assets.
 
 </td></tr><tr><td>
 
@@ -247,7 +247,7 @@ sn\_aia.user\_context\_data
 
 </td><td>
 
-Defines a comma-separated list of user context data to be used with AI Agents. The list is used to pick the data available from [[knowledge-graph-landing|knowledge graph]] API: getUserContext.
+Defines a comma-separated list of user context data to be used with AI Agents. The list is used to pick the data available from knowledge graph API: getUserContext.
 
 List of available user information:
 
@@ -296,7 +296,7 @@ mcp\_guardian\_check
 
 Enables guardian check for MCP Client when the value is set to **true**.The default value is **false**.
 
-**Note:** To enable guardian check for MCP Client, verify that you enable Now Assist guardian on **[[ai-agent-studio|AI Agent Studio]]** &gt; **Settings** page.
+**Note:** To enable guardian check for MCP Client, verify that you enable Now Assist guardian on **AI Agent Studio** &gt; **Settings** page.
 
 </td></tr><tr><td>
 
@@ -304,7 +304,7 @@ com.glide.agentic\_processes\_view.enabled
 
 </td><td>
 
-Enables the [[in-product-agentic-ai|in-product experience for agentic workflows]] in the AI Workflows panel. Verify that this is set to `true` if you plan on using UI actions to run agentic workflows.
+Enables the in-product experience for agentic workflows in the AI Workflows panel. Verify that this is set to `true` if you plan on using UI actions to run agentic workflows.
 
 </td></tr><tr><td>
 
@@ -521,7 +521,7 @@ kill\_switch.mode
 
 </td><td>
 
-[[controls|Controls]] how the feature responds to a detected breach
+Controls how the feature responds to a detected breach
 
 </td><td>
 
@@ -835,14 +835,3 @@ Functions as a registry of entry points and helps track and define the different
 |GAF action mapper results \[sn\_gaf\_action\_mapper\_result\]|Stores the output of the Mapper skill, which maps new records to existing clusters.|
 |GAF action reducer results \[sn\_gaf\_action\_reducer\_result\]|Stores the result of the Action Reducer skill. The results include insights for entire clusters. For example, how to resolve incidents similar to those gathered in a cluster.|
 
-## Related
-
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[ai-assets|AI assets]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[in-product-agentic-ai|In-product experience for agentic workflows]]
-- [[controls|Controls]]

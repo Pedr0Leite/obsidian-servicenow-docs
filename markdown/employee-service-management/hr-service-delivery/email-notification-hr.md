@@ -14,9 +14,9 @@ breadcrumb: [HR notifications, HR Administration, Configure, Case and Knowledge 
 
 # Email notification layout for HR Service Delivery notifications
 
-Use the email notification layout and template shipped with the Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin to deliver [[HRNotifications|HR notifications]]. Apply the layout to email notifications to elevate the look and feel, and deliver branded notifications.
+Use the email notification layout and template shipped with the Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin to deliver HR notifications. Apply the layout to email notifications to elevate the look and feel, and deliver branded notifications.
 
-The Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin is installed as a dependent plugin with [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]]. However, you can still independently install the plugin from ServiceNow Store.
+The Employee Experience Foundation \(com.snc.sn\_ex\_emp\_fd\) plugin is installed as a dependent plugin with Employee Center or Employee Center Pro. However, you can still independently install the plugin from ServiceNow Store.
 
 By default, the following email notifications use the Employee notification layout. You can choose to modify the email body or use them as provided.
 
@@ -69,15 +69,9 @@ Sends an email notification when comments are added to an HR case.
 Opened for, Watch list
 
 </td></tr></tbody>
-</table>**Important:** These email notifications are automatically set up for a new user of [[hr-service-delivery|HR Service Delivery]].
+</table>**Important:** These email notifications are automatically set up for a new user of HR Service Delivery.
 
 If you are an existing user of HR Service Delivery on a release prior to San Diego, upgrade to Employee Center or Employee Center Pro or install the Employee Experience Foundation plugin from ServiceNow Store to start using these email notifications.
 
 **Parent Topic:**[HR notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/HRNotifications.md)
 
-## Related
-
-- [[HRNotifications|HR notifications]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-service-delivery|HR Service Delivery]]

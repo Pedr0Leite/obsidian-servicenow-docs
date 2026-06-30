@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog, Cloud Services Catalog, ITOM Cl
 
 # Install Cloud Services Catalog
 
-You can install the [[csc-home|Cloud Services Catalog]] application purchased from the ServiceNow® Store, to make it available on your instance.The application also includes demo data and installs related to ServiceNow applications and plugins, if you don’t have them installed already.
+You can install the Cloud Services Catalog application purchased from the ServiceNow® Store, to make it available on your instance.The application also includes demo data and installs related to ServiceNow applications and plugins, if you don’t have them installed already.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ For more information, see the components links.
 
 2.  Search for the application by its name or ID.
 
-    If you can't find the application, you might have to request it from the ServiceNow® Store. CSC is available as a separate subscription and requires the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] plugin \(com.snc.cloud.mgmt\).
+    If you can't find the application, you might have to request it from the ServiceNow® Store. CSC is available as a separate subscription and requires the Cloud Provisioning and Governance plugin \(com.snc.cloud.mgmt\).
 
 3.  Select a version from the list and select **Install**.
 
@@ -61,7 +61,3 @@ For more information, see the components links.
 
 **Parent Topic:**[Configuring Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/configuring-csc.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

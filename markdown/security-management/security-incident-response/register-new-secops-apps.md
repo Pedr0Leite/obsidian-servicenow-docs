@@ -14,7 +14,7 @@ breadcrumb: [Define new on-demand orchestrations, Managing security incidents an
 
 # Register new Security Operations applications for on-demand orchestration
 
-In the base system, [[security-operations-landing-page|Security Operations]] applications are automatically registered when they are activated. Registration allows the workflows associated with the applications to be available for on-demand orchestration requests. If needed, you can define new applications and associate workflows with them for on-demand orchestration.
+In the base system, Security Operations applications are automatically registered when they are activated. Registration allows the workflows associated with the applications to be available for on-demand orchestration requests. If needed, you can define new applications and associate workflows with them for on-demand orchestration.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: sn\_si.write
 
     **Note:** Setting up on-demand orchestration for new applications requires advanced technical knowledge of scripting and creating triggers for the scripts \(business rules, UI action, workflows, and so on\). For more information, contact ServiceNow Professional Services.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]

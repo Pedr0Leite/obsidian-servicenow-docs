@@ -14,7 +14,7 @@ breadcrumb: [Common GRC features, Governance, Risk, and Compliance]
 
 # Anonymous Reporting Center
 
-The Anonymous Reporting Center \(ARC\) enables employees to submit compliance, privacy, or AI‑related concerns without revealing their identity. Employees are automatically signed out of the **[[employee-center|Employee Center]]** when ARC opens.
+The Anonymous Reporting Center \(ARC\) enables employees to submit compliance, privacy, or AI‑related concerns without revealing their identity. Employees are automatically signed out of the **Employee Center** when ARC opens.
 
 After you report an anonymous case in ARC, a designated case analyst reviews the information and initiates an investigation. If additional clarification is required, the analyst adds comments to the report.
 
@@ -24,15 +24,15 @@ After you report an anonymous case in ARC, a designated case analyst reviews the
 
 ARC is included with the following GRC applications:
 
--   [[compliance-case-management|Compliance Case Management]] \(sn\_comp\_case\)
--   [[privacy-management|Privacy Management]] \(sn\_privacy\)
+-   Compliance Case Management \(sn\_comp\_case\)
+-   Privacy Management \(sn\_privacy\)
 -   AI Case Management \(sn\_ai\_case\_mgmt\)
 
 If any of these applications are already installed, no additional setup is required.
 
 For privacy and compliance cases, access ARC from the **Risk and Compliance** tab of the **Employee Center**.
 
-For AI cases, it’s available at **Help center** &gt; **Technology services** &gt; **[[ai-assets-airc|AI assets]]**.
+For AI cases, it’s available at **Help center** &gt; **Technology services** &gt; **AI assets**.
 
 ## ARC landing page
 
@@ -90,9 +90,3 @@ Check the status of your case on the Anonymous Reporting Center using the Report
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[compliance-case-management|compliance case management]]
-- [[privacy-management|privacy management]]
-- [[ai-assets-airc|AI assets]]

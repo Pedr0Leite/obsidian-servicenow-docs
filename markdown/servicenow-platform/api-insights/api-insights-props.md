@@ -18,7 +18,7 @@ API Insights properties control the behavior of the application.
 
 ## System properties
 
-These system properties are available for [[api-insights|API Insights]].
+These system properties are available for API Insights.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -163,6 +163,3 @@ Set the property to `true` to enable showing the Metric Base widgets on the API 
 </td></tr></tbody>
 </table>**Parent Topic:**[API Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-reference.md)
 
-## Related
-
-- [[api-insights|API Insights]]

@@ -14,7 +14,7 @@ breadcrumb: [Product Adoption, Using Impact, Impact]
 
 # Training Insights
 
-[[impact-landing-page|Impact]] Training Insights provide a comprehensive view of organizational learning activities, with real-time data available whenever and wherever it's needed.
+Impact Training Insights provide a comprehensive view of organizational learning activities, with real-time data available whenever and wherever it's needed.
 
 The Impact Learning Dashboard demonstrates the usage and consumption of resources of on-demand courses, with an emphasis on the significance of education and its benefits. Appreciate the value of your learning credits and how they can be utilized. Additional insight into custom training and instructor-led technical courses includes:
 
@@ -35,6 +35,3 @@ The Impact Learning Dashboard demonstrates the usage and consumption of resource
 -   Customer self-service model for the consumption of learning credits
 -   Better understand your entitlements charted in Impact
 
-## Related
-
-- [[impact-landing-page|Impact]]

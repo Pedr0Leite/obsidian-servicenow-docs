@@ -140,8 +140,5 @@ Integration services interact with Udemy application to pull learning courses in
 -   Pull user activity: Pulls details of user activity on learning courses from Udemy into ServiceNow.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[integrate-learning-third-party-configurable-wfo-cs|Integrate Coaching with Learning with third-party learning management systems]]
+</table>**Parent Topic:**[Integrate Coaching with Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrate-learning-third-party-configurable-wfo-cs.md)
 
-## Related
-
-- [[integrate-learning-third-party-configurable-wfo-cs|Integrate Coaching with Learning with third-party learning management systems]]

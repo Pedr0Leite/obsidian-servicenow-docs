@@ -122,7 +122,7 @@ Evaluation type
 
 How you want to define your campaign data collection. You can select three types:-   Target count only: Use this type when you have no historical data to compare your campaign to. This type uses date ranges and a specific **Target value** \(see Target tab\) to determine campaign success.
 -   Date range: Use this type when you want to compare your campaign data to a past campaign.
--   Relative to campaign: Use this type when you only want to compare success within the campaign and not compare it to historical data. For example, you can define the type to start 10 days before and after the campaign and view the [[activity-lxp|activity]]. You can also specify a date that is related to a campaign like Created, Publish time, Updated, and others.
+-   Relative to campaign: Use this type when you only want to compare success within the campaign and not compare it to historical data. For example, you can define the type to start 10 days before and after the campaign and view the activity. You can also specify a date that is related to a campaign like Created, Publish time, Updated, and others.
  **Note:** The fields change based on the evaluation type that you select.
 
 </td></tr><tr><td>
@@ -308,6 +308,4 @@ Percentage of cases deflected or created that you target for your campaign.
 
     After the Content Experiences: Evaluate Campaign Success Goals scheduled job runs \(daily by default\), the base count and evaluation period count populates.
 
-## Related
 
-- [[activity-lxp|Activity]]

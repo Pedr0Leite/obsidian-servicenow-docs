@@ -36,7 +36,7 @@ After creating the workflow to add a laptop fulfillment process, add the activit
 
         -   **Name**: `Manager Approval`
         -   **Stage**: **Waiting for Approval**
-        -   **User**: Click the lock icon in the Approvers section, and then click the select fields icon. Expand **Requested** &gt; **[[requested-for|Requested For]]**, and then select **Manager**.
+        -   **User**: Click the lock icon in the Approvers section, and then click the select fields icon. Expand **Requested** &gt; **Requested For**, and then select **Manager**.
     3.  Click **Submit**.
 
 2.  Complete the following steps to add an action for when the approver rejects the request.
@@ -148,7 +148,7 @@ Set up laptop.
     -   **Priority**: **3 - Moderate**
     -   **Assigned to**: Leave the field blank, as the script in the **Advanced** field assigns this task to the requester.
     -   **Short description**: `Pick up laptop.`
-    -   **Advanced**: Select the [[check-box|check box]] and set the **Advanced Script** value to: `task.assigned_to=current.requested_for;`
+    -   **Advanced**: Select the check box and set the **Advanced Script** value to: `task.assigned_to=current.requested_for;`
     This task informs the requester to come pick up the laptop.
 
 8.  Drag the activity **Log Message** onto the arrow between **Pick Up Laptop** and **End**, add the following information, and click **Submit**.
@@ -161,7 +161,3 @@ Set up laptop.
 
 **Parent Topic:**[Service catalog workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogWorkflowDefinition.md)
 
-## Related
-
-- [[requested-for|Requested for]]
-- [[check-box|Check box]]

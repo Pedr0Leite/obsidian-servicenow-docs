@@ -162,7 +162,7 @@ Rich text field for adding meeting notes when the meeting is in progress or afte
 **Related topics**  
 
 
-[Components installed with [[health-safety-overview|Health and Safety]] Core]()
+[Components installed with Health and Safety Core]()
 
 [Health and Safety action form]()
 
@@ -176,6 +176,3 @@ Rich text field for adding meeting notes when the meeting is in progress or afte
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

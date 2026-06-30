@@ -16,7 +16,7 @@ Use the metric data task to provide data for a manual metric. Metric data helps 
 
 ## Before you begin
 
--   To enable support for data estimation refer to [[set-up-estimation-for-manual-metric-definition|Set up estimation for manual metric definition]].
+-   To enable support for data estimation refer to [Set up estimation for manual metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-estimation-for-manual-metric-definition.md).
 -   Role required: sn\_esg.data\_owner
 
 ## Procedure
@@ -144,9 +144,5 @@ Additional information for the metric data.
 8.  Select **Submit**.
 
 
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[set-up-estimation-for-manual-metric-definition|Set up estimation for manual metric definition]]
-- [[using-grc-metrics|using grc metrics]]

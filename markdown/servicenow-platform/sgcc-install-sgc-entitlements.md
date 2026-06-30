@@ -12,7 +12,7 @@ breadcrumb: [Explore connectors, Configuring SGC Central, SGC Central, Integrati
 
 # Install a Service Graph Connector with an available entitlement in SGC Central
 
-Install a Service Graph Connector that matches an entitlement available in Application Manager from within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+Install a Service Graph Connector that matches an entitlement available in Application Manager from within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 ## Before you begin
 
@@ -32,7 +32,4 @@ Role required: admin
 
     For more information, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager.md).
 
-## Related
 
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

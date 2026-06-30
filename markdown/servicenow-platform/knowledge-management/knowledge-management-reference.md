@@ -14,9 +14,5 @@ breadcrumb: [Knowledge Management, Manage content capabilities, Extend ServiceNo
 
 # Knowledge Management reference
 
-[[reference|Reference]] topics provide additional information that you can use to configure and administer [[knowledge-management|Knowledge Management]].
+Reference topics provide additional information that you can use to configure and administer Knowledge Management.
 
-## Related
-
-- [[reference|Reference]]
-- [[knowledge-management|Knowledge Management]]

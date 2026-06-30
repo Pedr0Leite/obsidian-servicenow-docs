@@ -14,17 +14,17 @@ breadcrumb: [Major issue management overview, Manage cases, Use, Customer Servic
 
 Use recipients lists that contain account or consumer information to create the child cases for a major case.
 
-Major issue managers and customer service managers can select the desired list in the **Affected Customers** field on the Major [[r_CustomerServiceCaseForm|Case form]]. Selecting **Create Child Cases** then creates a child case for each account or consumer in the recipients list.
+Major issue managers and customer service managers can select the desired list in the **Affected Customers** field on the Major Case form. Selecting **Create Child Cases** then creates a child case for each account or consumer in the recipients list.
 
 Managers can change the recipients list before child cases are created. After child cases are created, the **Affected Customers** field becomes read only.
 
 ## Creating recipients lists
 
-Recipients lists are created using the [[c_TargetedCommunications|Targeted Communications]] application. With this application, managers can select the type of list to create and the method used to create the list: by uploading files, selecting dynamic conditions, or using scripts.
+Recipients lists are created using the [Targeted Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_TargetedCommunications.md) application. With this application, managers can select the type of list to create and the method used to create the list: by uploading files, selecting dynamic conditions, or using scripts.
 
 The Targeted Communications application creates several types of recipients lists, including accounts, contacts, consumers, and internal users. The recipients list for a major case must be of type accounts or consumers. Recipients lists are limited to one specific type and can’t contain mixed types, for example accounts and consumers.
 
-**Note:** The Major Issue Management plugin is dependent on the Targeted Communications plugin. If Targeted Communications is active, recipients lists can be created for internal users. If Targeted Communications and [[c_CustomerServiceManagement|Customer Service Management]] are both active, recipients lists can also be created for accounts, contacts, and consumers.
+**Note:** The Major Issue Management plugin is dependent on the Targeted Communications plugin. If Targeted Communications is active, recipients lists can be created for internal users. If Targeted Communications and Customer Service Management are both active, recipients lists can also be created for accounts, contacts, and consumers.
 
 ## Manually editing a recipients list
 
@@ -50,11 +50,5 @@ Refresh a recipients list by selecting **Refresh Recipient List** on the Recipie
 **Related topics**  
 
 
-[[t_TargetCommCreateRecipientList|Create a recipients list]]
+[Create a recipients list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_TargetCommCreateRecipientList.md)
 
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]
-- [[t_TargetCommCreateRecipientList|Create a recipients list]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

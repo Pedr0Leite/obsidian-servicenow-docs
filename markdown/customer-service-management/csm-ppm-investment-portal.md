@@ -12,7 +12,7 @@ breadcrumb: [Integrating with Customer Project Management, Integrate, Customer S
 
 # Customer Service Investment Portal
 
-The [[c_CustomerServiceManagement|Customer Service Management]] integration with Project Portfolio Management provides access to a CSM-specific view of the Investment Portal, which displays customer projects.
+The Customer Service Management integration with Project Portfolio Management provides access to a CSM-specific view of the Investment Portal, which displays customer projects.
 
 Use the CSM Investment Portal to do the following:
 
@@ -21,6 +21,3 @@ Use the CSM Investment Portal to do the following:
 
 You can view both customer projects and IT projects in the IT Investment Portal. For more information, see [Investment Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-portal.md) in the Project Management documentation.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

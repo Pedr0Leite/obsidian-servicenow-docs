@@ -16,7 +16,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Link to any other item. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-[[configure-onboarding-modals|Configure]] Icon Link widgets to link to a specific URL, page within the portal, or a specific category in the knowledge base or the service catalog.
+Configure Icon Link widgets to link to a specific URL, page within the portal, or a specific category in the knowledge base or the service catalog.
 
 \[Omitted image "WidgetIconLink.png"\] Alt text: Icon Link widget
 
@@ -60,7 +60,7 @@ Type
 
 </td><td>
 
-Defines what the widget links to. The fields that appear on the form vary depending on which option you select. Choose from: -   Page: Another page in the [[c_ServicePortal|Service Portal]]
+Defines what the widget links to. The fields that appear on the form vary depending on which option you select. Choose from: -   Page: Another page in the Service Portal
 -   URL: Link to an external website.
 -   Catalog category: Link to a specific catalog category within the service catalog.
 -   Catalog item: Link to a specific catalog item.
@@ -106,7 +106,3 @@ The appearance of the link icon widget. Choose from:-   Top icon
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

@@ -14,19 +14,12 @@ breadcrumb: [Mobile photo search, Global search, Launcher screens, Mobile app co
 
 Configure photo search for your mobile applications by enabling photo search in system properties, creating a Firebase account, and connecting your account to your ServiceNow instance.
 
--   **[[sg-image-search-firebase|Create a Firebase account]]**  
+-   **[Create a Firebase account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-image-search-firebase.md)**  
 Create a Google Firebase project and enable the Google Vision API.
--   **[[sg-mobile-image-config|Connect your instance to your Firebase project]]**  
+-   **[Connect your instance to your Firebase project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-image-config.md)**  
 Enter your project ID and Google Vision API key into your instance to begin using photo search.
--   **[[sg-image-search-prop|Create the image search system property]]**  
+-   **[Create the image search system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-image-search-prop.md)**  
 Create and enable a system property to control access to image search on your instance.
--   **[[sg-image-search-alp|Enable photo search on your launcher screen]]**  
-Enable photo search on your launcher screen record in [[mab-concept|Mobile App Builder]] to present the photo search option for your users.
+-   **[Enable photo search on your launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-image-search-alp.md)**  
+Enable photo search on your launcher screen record in Mobile App Builder to present the photo search option for your users.
 
-## Related
-
-- [[sg-image-search-firebase|Create a Firebase account]]
-- [[sg-mobile-image-config|Connect your instance to your Firebase project]]
-- [[sg-image-search-prop|Create the image search system property]]
-- [[sg-image-search-alp|Enable photo search on your launcher screen]]
-- [[mab-concept|Mobile App Builder]]

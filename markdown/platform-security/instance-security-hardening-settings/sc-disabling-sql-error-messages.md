@@ -16,7 +16,7 @@ breadcrumb: [Error handling and logging, Hardening settings, Platform Security]
 
 Use the **glide.db.loguser** property to disable SQL error messages from rendering in a browser.
 
-If **glide.db.loguser** is not set to the recommended value of **false**, then sensitive server-side error messages could be displayed to end-[[users|users]]. Error messages can include stack traces and information about the structure of the database that could provide an attacker the knowledge needed to perform successful SQL Injection should the preconditions exist.
+If **glide.db.loguser** is not set to the recommended value of **false**, then sensitive server-side error messages could be displayed to end-users. Error messages can include stack traces and information about the structure of the database that could provide an attacker the knowledge needed to perform successful SQL Injection should the preconditions exist.
 
 Ensure that the **glide.db.loguser** system property is set to **false**.
 
@@ -47,7 +47,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -59,7 +59,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -130,8 +130,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Error handling and logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-error-handling-logging.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

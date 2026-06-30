@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Grafana events
 
-Integrate Grafana with [[c_EM|Event Management]] by adding Grafana as an authenticated data source.
+Integrate Grafana with Event Management by adding Grafana as an authenticated data source.
 
 ## What authentication is used
 
@@ -33,6 +33,3 @@ Integrate using an API key to establish secure communication and automate data e
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]

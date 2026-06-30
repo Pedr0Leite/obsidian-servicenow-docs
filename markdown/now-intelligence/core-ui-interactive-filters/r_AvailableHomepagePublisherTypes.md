@@ -14,11 +14,11 @@ breadcrumb: [Interactive Filters, Reporting, dashboards, and Performance Analyti
 
 # Creating Interactive Filters of different types
 
-You can create and configure [[c_HomepagePublishers|Interactive Filters]] for multiple field types.
+You can create and configure Interactive Filters for multiple field types.
 
 Before you create an interactive filter, choose which type of filter to create.
 
-**Note:** From the Australia release, only users with the report\_admin role can create and edit Core UI interactive filters. To create filters in Platform Analytics experience, see [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** From the Australia release, only users with the report\_admin role can create and edit Core UI interactive filters. To create filters in Platform Analytics experience, see [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 <table id="table_ayz_zzg_kr"><thead><tr><th>
 
@@ -86,7 +86,7 @@ Allow you to filter based on multiple values in a hierarchy, such as by region, 
 
 </td></tr></tbody>
 </table>-   **[Create a choice list interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_CreateAChoiceListPublisher.md)**  
-A choice list interactive filter enables users to filter report [[widgets|widgets]] based on the value of a choice list.
+A choice list interactive filter enables users to filter report widgets based on the value of a choice list.
 -   **[Create a reference field interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_CreateAReferenceFieldPublisher.md)**  
 A reference field interactive filter allows users to filter report widgets based on the value of a reference field.
 -   **[Create a date interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_CreateADatePublisher.md)**  
@@ -96,7 +96,7 @@ A Boolean interactive filter allows users to filter report widgets based on the 
 -   **[Create a group interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_CreateAGroupPublisher.md)**  
 A group interactive filter allows users to select multiple interactive filters to apply to reports on a dashboard.
 -   **[Create an interactive filter for whether a field is empty or populated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_CreateAEmptyNonemptyFilter.md)**  
-You can [[t_CreateABooleanPublisher|create a Boolean interactive filter]] that lets users filter report widgets based on whether a specific field is empty or populated.
+You can create a Boolean interactive filter that lets users filter report widgets based on whether a specific field is empty or populated.
 -   **[Create a cascading filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/create-cascading-filter.md)**  
 Cascading filters allow you to filter based on multiple values in a hierarchy, such as by region, country, and city. Lower-level choices are filtered by the values selected at higher levels.
 -   **[Interactive filters on database views and table hierarchies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/apply-filter-to-all-tables-in-hierarchy.md)**  
@@ -106,9 +106,3 @@ The interactive filter **UI control type** field provides several options for di
 
 **Parent Topic:**[Interactive Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_HomepagePublishers.md)
 
-## Related
-
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]
-- [[t_CreateABooleanPublisher|Create a Boolean interactive filter]]

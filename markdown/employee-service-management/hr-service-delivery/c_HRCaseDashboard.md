@@ -18,7 +18,7 @@ The HR Case Dashboard is a central place for HR users to monitor ongoing HR oper
 
 Dashboards are the home pages for products on the ServiceNow instance. The HR Case Dashboard provides summary information about your Open/Assigned cases, High Priority cases, and cases breached by the Service Level Agreement \(SLA\). It displays cases by service and cases assigned to you.
 
-To show the HR Case Dashboard, navigate to **[[c_HRDashboardsReports|HR Dashboards &amp; Reports]]** &gt; **HR Case Dashboard**.
+To show the HR Case Dashboard, navigate to **HR Dashboards &amp; Reports** &gt; **HR Case Dashboard**.
 
 ## Features of the HR Case Dashboard
 
@@ -32,6 +32,3 @@ The HR Case Dashboard shows:
 
 **Parent Topic:**[HR Dashboards &amp; Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRDashboardsReports.md)
 
-## Related
-
-- [[c_HRDashboardsReports|HR Dashboards &amp; Reports]]

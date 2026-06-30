@@ -12,7 +12,7 @@ breadcrumb: [Configure, Dashboards, Platform Analytics experience, Platform Anal
 
 # Domain separation for Platform Analytics dashboards
 
-Domain separation is supported throughout [[c_performanceAnalyticsAndReporting|Platform Analytics]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported throughout Platform Analytics. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -61,6 +61,3 @@ In the following figure, dashboards created in the IT, CS, and HR domains are no
 
 [bundle-psec.bp-domain-sep-recommended]
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

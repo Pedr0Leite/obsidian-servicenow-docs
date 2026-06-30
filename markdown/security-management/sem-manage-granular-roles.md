@@ -16,7 +16,7 @@ After you complete your initial assignment of persona roles using Setup Assistan
 
 ## Before you begin
 
-If you have not already completed your initial set up and configuration for [[vuln-landing-page|Vulnerability Response]] using Setup Assistant, or assigned persona roles to users and groups, navigate to **Vulnerability Response** &gt; **Administration** &gt; **Setup Assistant**. See [Assign the Vulnerability Response persona roles using Setup Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-assign-personas_SA.md).
+If you have not already completed your initial set up and configuration for Vulnerability Response using Setup Assistant, or assigned persona roles to users and groups, navigate to **Vulnerability Response** &gt; **Administration** &gt; **Setup Assistant**. See [Assign the Vulnerability Response persona roles using Setup Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-assign-personas_SA.md).
 
 For key terms and an overview of persona roles, see [Vulnerability Response personas and granular roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-persona-overview.md).
 
@@ -176,6 +176,4 @@ Create a new role using one or more granular roles from the library for a specif
 
         Your new role is displayed on the Roles list.
 
-## Related
 
-- [[vuln-landing-page|Vulnerability Response]]

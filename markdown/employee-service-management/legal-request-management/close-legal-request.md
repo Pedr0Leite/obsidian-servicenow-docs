@@ -18,7 +18,7 @@ You can close a legal request assigned to you when you've resolved it.
 
 ## Before you begin
 
-If you've installed [[legal-matter-management-landing-page|Legal Matter Management]] and have a legal request promoted to a legal matter, the system closes legal requests automatically when the matter owner chooses to close the related requests while closing the matter.
+If you've installed Legal Matter Management and have a legal request promoted to a legal matter, the system closes legal requests automatically when the matter owner chooses to close the related requests while closing the matter.
 
 **Note:** A legal request cannot be closed if there are any open ad hoc approval records for it or its attachments.
 
@@ -30,7 +30,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -67,7 +67,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 
 
 </td></tr></tbody>
-</table>4.  [Attach files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/manage-attachments-legal-request.md) that are a solution for the request or a link to the knowledge base article as [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] material for the requester.
+</table>4.  [Attach files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/manage-attachments-legal-request.md) that are a solution for the request or a link to the knowledge base article as reference material for the requester.
 
 5.  Close the request based on the work done on the request:
 
@@ -89,8 +89,3 @@ The state of the request changes to Closed Complete or Closed Incomplete, depend
 
 **Parent Topic:**[Work on a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/work-on-legal-request.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

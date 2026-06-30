@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events reference, Lifecycle Events, Employee Journey Mana
 
 # Lifecycle event properties
 
-Lifecycle event properties control the behavior of [[hr-lifecycle-events-landing-page-1|lifecycle events]]. You can set the duration of the [[activity-lxp|activity]] set closure time in hours.
+Lifecycle event properties control the behavior of lifecycle events. You can set the duration of the activity set closure time in hours.
 
 ## Before you begin
 
@@ -50,7 +50,3 @@ Duration of the activity set closure time in hours and determine when an activit
 
 **Parent Topic:**[Lifecycle Events reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/lifecycle-events-reference.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

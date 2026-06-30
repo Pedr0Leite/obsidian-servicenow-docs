@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # NLQ Genius Results used in the Industrial Workspace
 
-The [[industrial-workspace-for-operational-technology|Industrial Workspace]] leverages Natural Language Query \(NLQ\) Genius Results for each search.
+The Industrial Workspace leverages Natural Language Query \(NLQ\) Genius Results for each search.
 
 ## NLQ Genius Results overview
 
@@ -24,7 +24,7 @@ For more information about NLQ Genius Results, see [NLQ Genius Results](https://
 
 ## Searching OT CIs
 
-You can search [[operational-technology-overview|Operational Technology]] \(OT\) configuration items \(CIs\) by specifying the table and column, leveraging the NLQ Genius Results.
+You can search Operational Technology \(OT\) configuration items \(CIs\) by specifying the table and column, leveraging the NLQ Genius Results.
 
 The following table contains examples for searching different information for a PLC. If there are additional columns you need to search, you can follow this general pattern.
 
@@ -37,7 +37,3 @@ The following table contains examples for searching different information for a 
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

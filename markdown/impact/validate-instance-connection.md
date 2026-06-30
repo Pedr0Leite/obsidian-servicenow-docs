@@ -16,13 +16,13 @@ Validate the connection between registered instances to confirm that authenticat
 
 ## Before you begin
 
-My SN Instances registration and authentication must be complete before validating. See [[register-your-instance|Register your instance]] and either [[configure-basic-auth-method|Configure the Basic authentication method]] or [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]].
+My SN Instances registration and authentication must be complete before validating. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md) and either [Configure the Basic authentication method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-basic-auth-method.md) or [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md).
 
 Role required: `sn_se.scan_engine_admin`
 
 ## Procedure
 
-1.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** &gt; **My SN Instances**.
+1.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** &gt; **My SN Instances**.
 
 2.  Open the instance record to validate.
 
@@ -46,14 +46,7 @@ If validation fails, resolve the root cause before retrying. Retrying without fi
     4.  Search for Scan Engine in the Script Table Target script: Script Include: ScanEngineApiUtil\[Omitted image "scan-engine-kmf-reject-map-fix.png"\] Alt text: Scan Engine in the Script Table Target script Script Include: ScanEngineApiUtil
     5.  Open the record and set the Result to **Track**.
 
-If the account has been locked out, see [[recover-from-account-lockout|Recover from account lockout]].
+If the account has been locked out, see [Recover from account lockout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/recover-from-account-lockout.md).
 
 **Parent Topic:**[Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[configure-basic-auth-method|Configure the Basic authentication method]]
-- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-- [[recover-from-account-lockout|Recover from account lockout]]
-- [[impact-landing-page|Impact]]

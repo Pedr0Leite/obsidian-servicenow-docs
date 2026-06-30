@@ -24,7 +24,7 @@ Role required: sn\_wsd\_rsvsync.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Configuration** &gt; **Reservable Sync Configuration**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Configuration** &gt; **Reservable Sync Configuration**.
 
 2.  Select **New**.
 
@@ -104,6 +104,3 @@ The workplace item is added.
 
 **Note:** When a Reservable Sync configuration is changed or updated, the synchronization deltas \(Sync delta\) are cleared from the application.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

@@ -16,7 +16,7 @@ breadcrumb: [Security Incident Response Platform Analytics Solutions, Security I
 
 This dashboard reveals the overall security posture of your organization, including security vulnerability and incidents.
 
-\[Omitted image "ciso-dashboard.png"\] Alt text: Partial view of the [[security-operations-landing-page|Security Operations]] Center tab of the CISO dashboard
+\[Omitted image "ciso-dashboard.png"\] Alt text: Partial view of the Security Operations Center tab of the CISO dashboard
 
 \[Omitted image "ciso-dashboard-vulnerability.png"\] Alt text: The Vulnerability Profile tab of the CISO dashboard
 
@@ -32,7 +32,7 @@ This dashboard reveals the overall security posture of your organization, includ
 
 ## CISO dashboard indicators
 
-The CISO dashboard presents the following key performance [[indicator|indicators]]:
+The CISO dashboard presents the following key performance indicators:
 
 -   **SI - Average Time to Identify**
 
@@ -98,7 +98,7 @@ The dashboard includes the following visualizations:
 |Security Incidents Open for More Than 30 Days by Assignment Group and State|Heatmap \[Omitted image "heatmap.png"\] Alt text: Heatmap icon|Displays models with the most vulnerable items.|
 |Risks by Category|Donut \[Omitted image "donut-icon.png"\] Alt text: Donut icon|Lists the age of reopened vulnerable items.|
 |Citations by Authority Document|Donut \[Omitted image "donut-icon.png"\] Alt text: Donut icon|Number of active vulnerabilities|
-|Security Incidents With Assignee That is not Active|Heatmap \[Omitted image "heatmap.png"\] Alt text: Heatmap icon|Displays the number of open vulnerable items associated with [[vulnerabilities|vulnerabilities]], \(Common Vulnerability Enumeration \(CVE\) records\), from most to least.|
+|Security Incidents With Assignee That is not Active|Heatmap \[Omitted image "heatmap.png"\] Alt text: Heatmap icon|Displays the number of open vulnerable items associated with vulnerabilities, \(Common Vulnerability Enumeration \(CVE\) records\), from most to least.|
 |Security Incidents Not Updated for More Than 30 Days by Assignment Group and State|Heatmap \[Omitted image "heatmap.png"\] Alt text: Heatmap icon|Displays publishers with the most vulnerable items.|
 |Vulnerability Map|Map \[Omitted image "map-icon.png"\] Alt text: Map icon|A world map showing vulnerabilities by location|
 |Most Vulnerable Models|Donut \[Omitted image "donut-icon.png"\] Alt text: Donut icon|The applications that contain the most vulnerabilities|
@@ -126,8 +126,3 @@ The dashboard includes the following visualizations:
 
 [Security Operations Efficiency dashboard]()
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[indicator|Indicators]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -12,7 +12,7 @@ breadcrumb: [Subscription-based notifications, Preferences in Core UI, Notificat
 
 # Create personal notifications
 
-Create personal notifications, which are subscriptions to [[notifications|notifications]] of importance to you. You can apply conditions that control specific content included in your personal notification, and also enable or disable the channels for delivery.
+Create personal notifications, which are subscriptions to notifications of importance to you. You can apply conditions that control specific content included in your personal notification, and also enable or disable the channels for delivery.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ A personal notification is a subscribable notification that you can customize by
 
     |Field|Description|
     |-----|-----------|
-    |Name|A descriptive name for your personal notification. Use a meaningful name to distinguish it from [[system-notifications-landing|system notifications]].|
+    |Name|A descriptive name for your personal notification. Use a meaningful name to distinguish it from system notifications.|
     |Notification|The notification to subscribe to. You can subscribe only to notifications that are configured to allow subscriptions. Depending on the notification you select, the **Table**, **Affected record**, and **Send when** fields are displayed.|
     |Table|The database table that the notification is linked to.|
     |Affected record|The specific record that the notification is based on. This field appears when you select a notification that has an affected record \(for example, a notification for a problem record that has multiple affected CIs\). Click the lookup icon, select the table and specific document \(record\) in that table, and click **OK**.|
@@ -59,10 +59,5 @@ A personal notification is a subscribable notification that you can customize by
 7.  Navigate back by selecting the left back arrow \(**&lt;**\) at the top of the form or by selecting the **Notifications** tab.
 
 
-**Parent Topic:**[[c_SubscriptionBasedNotifications|Subscription-based notifications]]
+**Parent Topic:**[Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)
 
-## Related
-
-- [[c_SubscriptionBasedNotifications|Subscription-based notifications]]
-- [[notifications|Notifications]]
-- [[system-notifications-landing|System notifications]]

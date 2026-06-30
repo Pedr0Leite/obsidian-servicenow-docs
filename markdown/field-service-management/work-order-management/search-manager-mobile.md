@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Tap the search bar at the top of the screen.
 
@@ -36,6 +36,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
     \[Omitted image "manage-mobile-search.png"\] Alt text: manager mobile search results page
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

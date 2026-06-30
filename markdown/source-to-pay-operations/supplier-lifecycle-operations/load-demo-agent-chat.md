@@ -38,13 +38,9 @@ Role required: admin
 
 [Source-to-Pay Workspace agent inbox]()
 
-[Setting up [[advanced-work-assignment|Advanced Work Assignment]] for [[supplier|Supplier]] Lifecycle Operations]()
+[Setting up Advanced Work Assignment for Supplier Lifecycle Operations]()
 
 [Using Advanced Work Assignment for Supplier Lifecycle Operations]()
 
 [Source-to-Pay Workspace agent inbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/agent-inbox-ws.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier|Supplier]]

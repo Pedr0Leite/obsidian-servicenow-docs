@@ -22,10 +22,10 @@ Use the Performance Analytics widgets on the dashboard to visualize data over ti
 
 For unlimited access to all features of this Platform Analytics Solution, purchase a Performance Analytics subscription. For more information, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md).
 
-To enable the solution for [[servicenow-communities|Communities]], an admin navigates to **System Definitions** &gt; **Plugins** and activates the Performance Analytics - Content Pack - Communities plugin.
+To enable the solution for Communities, an admin navigates to **System Definitions** &gt; **Plugins** and activates the Performance Analytics - Content Pack - Communities plugin.
 
 -   **[View the Communities performance dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/view-communities-dashboard.md)**  
-The [[communities-dashboard|Communities dashboard]] displays up-to-date status on community usage, membership, content type and activity, and trends by forum and by topic.
+The Communities dashboard displays up-to-date status on community usage, membership, content type and activity, and trends by forum and by topic.
 -   **[Communities dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-dashboard.md)**  
 The Communities dashboard displays up-to-date status on community usage, membership, content type and activity, and trends by forum, topic, and admin.
 
@@ -76,7 +76,3 @@ The Communities dashboard displays up-to-date status on community usage, members
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]
-- [[communities-dashboard|Communities dashboard]]

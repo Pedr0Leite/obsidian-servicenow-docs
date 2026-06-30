@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Add a Universal Task related list
 
-Add a Universal Task related list to a service-specific form in both the ServiceNow AI Platform and Agent Workspace to let agents view a [[universal-task-landing|universal task]] for the request.
+Add a Universal Task related list to a service-specific form in both the ServiceNow AI Platform and Agent Workspace to let agents view a universal task for the request.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Role required: admin
     -   Workspace: To add the Universal Task related list in the Agent Workspace form.
 7.  Click **Save**.
 
-    **Note:** Due to access control list \(ACL\) restrictions, the **New** button might not work while you are creating a task. You can hide the **New** button on the related list and use the UI action to [[create-unitask|create a universal task]].
+    **Note:** Due to access control list \(ACL\) restrictions, the **New** button might not work while you are creating a task. You can hide the **New** button on the related list and use the UI action to create a universal task.
 
     \[Omitted image "ut-relatdlst-new-tab.png"\] Alt text: Disable the New tab.
 
@@ -51,7 +51,3 @@ Role required: admin
 
 **Next topic:**[Add a Task tab on the Standard Ticket page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/config-stdtktpage-for-ut.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[create-unitask|Create a universal task]]

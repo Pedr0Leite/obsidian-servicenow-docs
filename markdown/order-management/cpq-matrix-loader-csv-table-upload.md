@@ -12,7 +12,7 @@ breadcrumb: [Configure the Matrix Loader, CPQ app, Configure, price, quote apps,
 
 # Matrix Loader: CSV table upload
 
-Use the [[matrix_loader_table_of_contents|Matrix Loader]] to import and manage table data in CPQ. Define table schemas, prepare matching CSV files, and upload them to populate or update tables for use in [[rules_101|rules]], lookups, and configurations, with no redeployment required for data updates.
+Use the Matrix Loader to import and manage table data in CPQ. Define table schemas, prepare matching CSV files, and upload them to populate or update tables for use in rules, lookups, and configurations, with no redeployment required for data updates.
 
 ## Before you begin
 
@@ -80,13 +80,7 @@ You are now ready to create queries using the new table. Updates to managed tabl
 **Related topics**  
 
 
-[[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
+[Configure the Matrix Loader](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
-[[matrix_loader_csv_rules_upload|Matrix Loader: CSV rules upload]]
+[Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
 
-## Related
-
-- [[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
-- [[matrix_loader_csv_rules_upload|matrix_loader_csv_rules_upload]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[rules_101|Rules]]

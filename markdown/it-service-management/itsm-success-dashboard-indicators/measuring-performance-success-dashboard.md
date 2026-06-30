@@ -14,12 +14,12 @@ breadcrumb: [ITSM Success Dashboard indicators, IT Service Management]
 
 # Maximise the benefits of using the ITSM Success Dashboard indicators
 
-Use the [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]] to measure the performance of your ITSM implementation using the Key Performance Indicators \(KPIs\) defined.
+Use the ITSM Success Dashboard indicators to measure the performance of your ITSM implementation using the Key Performance Indicators \(KPIs\) defined.
 
 -   **[Monitoring the KPIs of your ITSM implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/monitor-kpi-for-itsm-imlementation.md)**  
 View and monitor the ITSM Success Dashboard indicators to measure the performance of your ITSM implementation using the Key Performance Indicators \(KPIs\) defined by ServiceNow.
 -   **[Share the Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/share-itsm-success-dashboard.md)**  
-[[share-itsm-success-dashboard|Share the Success Dashboard indicators]] with your respective leadership teams, ITSM or HR to view the dashboard and measure the performance of their respective implementations.
+Share the Success Dashboard indicators with your respective leadership teams, ITSM or HR to view the dashboard and measure the performance of their respective implementations.
 -   **[Benchmarks for Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/success-dashboard-benchmark.md)**  
 You can view the global benchmark score for the Success Dashboard KPIs and trends along with comparative insight relative to the customers using Success Dashboard.
 -   **[Estimated Cost Savings for Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/estimated-cost-savings-sd.md)**  
@@ -31,7 +31,3 @@ Create a target for a KPI to be on par with the benchmark score or the organizat
 
 **Parent Topic:**[ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/success-dashboard-indicator-landing.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]
-- [[share-itsm-success-dashboard|Share the Success Dashboard indicators]]

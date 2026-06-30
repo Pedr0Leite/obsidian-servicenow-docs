@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0 reference, Agile Development 2.0, Agile Devel
 
 # Business stakeholder role for Agile Development 2.0
 
-Use the business stakeholder role to read and retrieve data from any table of the [[agile-landing-page|Agile Development 2.0]] and Scrum Programs applications to generate reports.
+Use the business stakeholder role to read and retrieve data from any table of the Agile Development 2.0 and Scrum Programs applications to generate reports.
 
 When you activate the Business Stakeholder plugin \(com.snc.business\_stakeholder\) in your ServiceNow instance, the Read only roles for Agile 2.0 plugin \(com.snc.agile\_read\_roles\) is also activated. This plugin provides a business stakeholder role \(sn\_agile\_read\) with which you can access all the tables of Agile Development 2.0 and Scrum Programs applications. You can assign this role to any user in your organization who is a business stakeholder.
 
@@ -172,6 +172,3 @@ Represents an improvement to an existing product.
 
 **Parent Topic:**[Agile Development 2.0 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development-2-reference.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

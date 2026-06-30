@@ -14,14 +14,14 @@ breadcrumb: [Threat Intelligence Feeds, Integrate, Threat Intelligence Security 
 
 # View Threat Intel Feeds
 
-View [[threat-intelligence-feeds|threat intelligence feeds]] that automatically imports security data into your TISC ServiceNow instance. This enables real-time threat detection and response capabilities.
+View threat intelligence feeds that automatically imports security data into your TISC ServiceNow instance. This enables real-time threat detection and response capabilities.
 
 -   **[View STIX TAXII Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-stix-taxii-feeds.md)**  
 View and manage STIX TAXII threat intelligence feeds that provide automated security data to your ServiceNow instance.
 -   **[View STIX HTTPs Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-stix-https-feeds.md)**  
 View and manage STIX threat intelligence feeds that provide security data to your ServiceNow instance. Use this to monitor feed status and troubleshoot connection issues.
 -   **[View MISP Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-misp-feeds.md)**  
-View configured MISP feeds to monitor [[threat-intel-landing-page|threat intelligence]] sources and verify feed status in your ServiceNow instance.
+View configured MISP feeds to monitor threat intelligence sources and verify feed status in your ServiceNow instance.
 -   **[View Text Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-text-format-feeds.md)**  
 Access and review all text feeds configured in your ServiceNow instance to monitor their status and settings.
 -   **[View CSV Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-csv-feeds.md)**  
@@ -35,7 +35,3 @@ View the custom feed that are shipped within the base system.
 
 **Parent Topic:**[Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 
-## Related
-
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[threat-intel-landing-page|Threat Intelligence]]

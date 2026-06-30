@@ -15,20 +15,20 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Large language models used by Now Assist in Document Intelligence
 
-[[docintel-nowassist-landing|Now Assist in Document Intelligence]] uses large language models \(LLMs\) to perform generative AI and agentic AI capabilities.
+Now Assist in Document Intelligence uses large language models \(LLMs\) to perform generative AI and agentic AI capabilities.
 
 You can select the LLM when creating a use case.The LLM can also be selected for the AI agent to use when processing documents and images.
 
 Multimodal LLMs can support image mode, as they are capable of processing multiple types of inputs like text, sound, images, and more, to generate a text response. Processing may take longer for image inputs.
 
-**Note:** The [[document-and-visual-insights-ai-agent|document and visual insights AI agent]] only uses multimodal LLMs. The text-only Now LLM Service is not a supported model for the AI agent.
+**Note:** The document and visual insights AI agent only uses multimodal LLMs. The text-only Now LLM Service is not a supported model for the AI agent.
 
 The following table lists the available LLMs for Now Assist in Document Intelligence.
 
 |LLM|Highlights|
 |---|----------|
-|Now Assist default|Use the LLM selected as the default for all [[now-assist-skills|Now Assist skills]]. For more information, see [[manage-large-language-models|Manage AI models]].|
-|Now LLM Service - Large|Text-only model used for AI-driven solutions to support [[nlu-landing|natural language understanding]], automation, and decision support.|
+|Now Assist default|Use the LLM selected as the default for all Now Assist skills. For more information, see [Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md).|
+|Now LLM Service - Large|Text-only model used for AI-driven solutions to support natural language understanding, automation, and decision support.|
 |Now LLM Service - Small|Text-only model used for enterprise AI applications by enhancing text-based automation and content generation within ServiceNow workflows.|
 |Google Cloud - Gemini Large|Multimodal model with advanced reasoning and problem-solving capabilities.|
 |Google Cloud - Gemini Small|Multimodal model with strong performance in summarization, rewriting, and content transformation.|
@@ -44,7 +44,7 @@ For more information, see [Large language models on the ServiceNow AI Platform](
 **Related topics**  
 
 
-[Components installed with [[platform-now-assist-landing|Now Assist]] in Document Intelligence]()
+[Components installed with Now Assist in Document Intelligence]()
 
 [Data extraction modes in Now Assist in Document Intelligence]()
 
@@ -54,18 +54,9 @@ For more information, see [Large language models on the ServiceNow AI Platform](
 
 [Field types in Now Assist in Document Intelligence]()
 
-[Now Assist in [[document-intelligence-landing|Document Intelligence]] forms]()
+[Now Assist in Document Intelligence forms]()
 
 [Limitations in Now Assist in Document Intelligence]()
 
 [Languages supported by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[manage-large-language-models|Manage AI models]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[document-and-visual-insights-ai-agent|Document and visual insights AI agent]]
-- [[now-assist-skills|Now Assist skills]]
-- [[nlu-landing|Natural Language Understanding]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

@@ -58,7 +58,7 @@ Create reservation
 
 </td><td>
 
-The following restrictions apply when creating reservations from theWorkplace Service Delivery \(WSD\) portal, [[event-planner|Event planner]], Quick Reservation, and Now Mobile:-   **In Personal mode**
+The following restrictions apply when creating reservations from theWorkplace Service Delivery \(WSD\) portal, Event planner, Quick Reservation, and Now Mobile:-   **In Personal mode**
 
 If the requested-for user doesn’t match the session user, the reservation can’t be created.
 
@@ -96,7 +96,3 @@ Users can only update or cancel a reservation if the Sync mailbox is set to **ot
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[event-planner|Event Planner]]

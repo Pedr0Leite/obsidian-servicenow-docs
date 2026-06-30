@@ -22,13 +22,13 @@ Role required: sn\_fsm\_planned\_wm.planned\_work\_admin and model\_manager
 
 ## About this task
 
-For example, to fulfill the maintenance requirement of two MRI machines from different brands, at the same time. You must create a schedule for these machines and then map it to different work order templates. Add conditions so that the schedule can identify the appropriate template to [[generate-work-orders|generate work orders]] that are specific to each MRI machine.
+For example, to fulfill the maintenance requirement of two MRI machines from different brands, at the same time. You must create a schedule for these machines and then map it to different work order templates. Add conditions so that the schedule can identify the appropriate template to generate work orders that are specific to each MRI machine.
 
 **Note:** When grouping of work orders is enabled for a work plan, you can add conditions only on the fields that are selected as criteria for grouping of work orders. For more information, see [Add grouping criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/add-grouping-criteria.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open a plan from the list of work plans.
 
@@ -86,7 +86,3 @@ Filter conditions to determine the work order template to be used to create work
 
 Work orders created by the scheduled jobs running on the associated work schedule contain the selected template.
 
-## Related
-
-- [[generate-work-orders|Generate work orders]]
-- [[planned-work-management|Planned Work Management]]

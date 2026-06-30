@@ -15,9 +15,9 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # AI Risk and Compliance Content
 
-The AI Risk and Compliance Content application is a centralized repository of frameworks, citations, risk statements, and control objectives. Using this application accelerates the adoption of [[ai-risk-and-compliance|AI Risk and Compliance]] frameworks.
+The AI Risk and Compliance Content application is a centralized repository of frameworks, citations, risk statements, and control objectives. Using this application accelerates the adoption of AI Risk and Compliance frameworks.
 
-You can [[install-ai-risk-content-pack|install AI Risk and Compliance Content]] from the ServiceNow Store. After installation, you can launch the application by selecting the AI Risk and Compliance Content icon \[Omitted image "unified-content-mgmt-icon.png"\] Alt text: on the [[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]].
+You can install AI Risk and Compliance Content from the ServiceNow Store. After installation, you can launch the application by selecting the AI Risk and Compliance Content icon \[Omitted image "unified-content-mgmt-icon.png"\] Alt text: on the AI Risk and Compliance Workspace.
 
 ## Frameworks and regulations
 
@@ -62,8 +62,3 @@ ServiceNow aims to provide software updates for new or updated major regulations
 
 [AI Risk and Compliance Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-content-pack.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[install-ai-risk-content-pack|Install AI Risk and Compliance content]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]

@@ -12,7 +12,7 @@ breadcrumb: [Lead-to-cash foundation apps, Configure, Sales Customer Relationshi
 
 # Sales and Service API Core
 
-Enables seamless tracking and management of [[order-mgt-overview|Sales Customer Relationship Management]] workflows through structured inbound and outbound request handling, configurable flow processing, and integration with external systems.
+Enables seamless tracking and management of Sales Customer Relationship Management workflows through structured inbound and outbound request handling, configurable flow processing, and integration with external systems.
 
 ## Overview of Sales and Service API Core
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[som_request_tracker|Inbound Request]] \(sn\_tmt\_core\_inbound\_queue\)
+[Inbound Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som_request_tracker.md) \(sn\_tmt\_core\_inbound\_queue\)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Tracks the status of both synchronous and asynchronous flows. It enables agents 
 
 </td></tr><tr><td>
 
-[[inbound-request-configuration-table|Inbound Request Configuration]] \(sn\_tmt\_core\_inbound\_queue\_config\)
+[Inbound Request Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inbound-request-configuration-table.md) \(sn\_tmt\_core\_inbound\_queue\_config\)
 
 </td><td>
 
@@ -56,13 +56,13 @@ Defines how each flow is processed and tracked.
 
 </td></tr><tr><td>
 
-[[outbound-request-configuration-table|Outbound Request]] \(sn\_tmt\_core\_outbound\_request\)
+[Outbound Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/outbound-request-configuration-table.md) \(sn\_tmt\_core\_outbound\_request\)
 
 </td><td>
 
-Facilitates outbound interactions with external Service [[explore-order-management|Order Management]] \(SOM\).
+Facilitates outbound interactions with external Service Order Management \(SOM\).
 
- It supports end-to-end [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] via bi-directional REST API integration and requires specific roles.
+ It supports end-to-end order fulfillment via bi-directional REST API integration and requires specific roles.
 
 </td></tr></tbody>
 </table>|Role|Access|
@@ -73,17 +73,7 @@ Facilitates outbound interactions with external Service [[explore-order-manageme
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
+[Lead-to-cash foundation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)
 
-## Related
-
-- [[som_request_tracker|Inbound Request]]
-- [[inbound-request-configuration-table|Inbound Request Configuration]]
-- [[outbound-request-configuration-table|Outbound Request]]
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

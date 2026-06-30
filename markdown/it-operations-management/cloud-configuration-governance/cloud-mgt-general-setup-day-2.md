@@ -20,13 +20,13 @@ After you have performed Day 1 setup, you can perform optional setup and configu
 
 Detailed instructions for each procedure follow this overview.
 
--   **[[add-cloud-account-cloud-mgt|Set up an additional cloud account]]**
+-   **Set up an additional cloud account**
 
-    A cloud account is the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
+    A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
 
--   **[[sched-uni-disco-srvacct-cloudmgt|Schedule discovery of all resources in a service account]]**
+-   **Schedule discovery of all resources in a service account**
 
-    Add a custom schedule for [[r-discovery|Discovery]] to discover all resources in each datacenter in a service account and then update the CMDB with the new information.
+    Add a custom schedule for Discovery to discover all resources in each datacenter in a service account and then update the CMDB with the new information.
 
     You can use the discovery schedules as offered on the cloud discovery schedule page.
 
@@ -34,15 +34,15 @@ Detailed instructions for each procedure follow this overview.
 
     Starting Xanadu release, any new user will run Pattern-based discovery, by default. In scenarios where the latest patterns application is not installed, discovery fails and the System Admin is prompted to install or migrate from CAPI-based discovery.
 
-    Installing [[cow-landing-page|Cloud Discovery Workspace]] triggers automatic installation of the latest patterns application.
+    Installing Cloud Discovery Workspace triggers automatic installation of the latest patterns application.
 
     For more information, see [Migrate from CAPI to Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/migrate-from-capi-to-pattern.md).
 
--   **[[disco-resources-in-datacenter|Discover all resources in a datacenter on-demand]]**
+-   **Discover all resources in a datacenter on-demand**
 
     At any time, you can run Discovery on a datacenter to update the CMDB.
 
--   **[[set-capacity-limits-cloud-mgt|Set capacity limits on user requests for resources]]**
+-   **Set capacity limits on user requests for resources**
 
     Capacity limits place restrictions on the attributes of cloud resources such as the number of virtual machines, virtual CPUs, or aggregate storage. You can set limits on resources separately for each logical datacenter in a cloud account.
 
@@ -52,9 +52,9 @@ Detailed instructions for each procedure follow this overview.
 When you have finished all Day-1 and Day-2 procedures in this setup guide, see the [Cloud Provisioning and Governance administration guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-configuration.md) for information on using the Cloud Provisioning and Governance application in your organization.
 
 -   **[Set up an additional cloud account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/add-cloud-account-cloud-mgt.md)**  
- During initial installation, you set up one cloud account. To organize and compartmentalize your infrastructure, you can set up additional [[cloud-accounts|cloud accounts]] to include different providers or service accounts or datacenters.
+ During initial installation, you set up one cloud account. To organize and compartmentalize your infrastructure, you can set up additional cloud accounts to include different providers or service accounts or datacenters.
 -   **[Discover using Cloud Operations Workspace and Patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/discover-with-cloud-discovery-workspace-and-patterns.md)**  
-You can now schedule and perform discovery using Cloud Discovery Workspace and Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+You can now schedule and perform discovery using Cloud Discovery Workspace and Discovery and Service Mapping Patterns.
 -   **[Discover all datacenters in a service account on-demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/disco-datacntrs-in-srv-acct.md)**  
 After you set up a service account, run Discovery to populate the datacenters in the account.
 -   **[Schedule discovery of all resources in a service account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/sched-uni-disco-srvacct-cloudmgt.md)**  
@@ -68,14 +68,3 @@ You must set up and use the user groups in Cloud Provisioning and Governance as 
 
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[add-cloud-account-cloud-mgt|Set up an additional cloud account]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[sched-uni-disco-srvacct-cloudmgt|Schedule discovery of all resources in a service account]]
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[disco-resources-in-datacenter|Discover all resources in a datacenter on-demand]]
-- [[set-capacity-limits-cloud-mgt|Set capacity limits on user requests for resources]]
-- [[cloud-accounts|Cloud accounts]]
-- [[c_ServiceMappingOverview|Service Mapping]]

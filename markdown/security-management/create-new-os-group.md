@@ -12,7 +12,7 @@ breadcrumb: [Security Operations common functionality, Security Operations]
 
 # Create an operating system group
 
-Operating system groups are used to map an operating system to specific process types and scripts in [[sir-landing-page|Security Incident Response]] workflows. The scripts define how running processes for the defined operating system groups are retrieved. New operating systems can be added as needed.
+Operating system groups are used to map an operating system to specific process types and scripts in Security Incident Response workflows. The scripts define how running processes for the defined operating system groups are retrieved. New operating systems can be added as needed.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Utilities** &gt; **Operating System Groups**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Utilities** &gt; **Operating System Groups**.
 
     The base system includes scripts for three operating systems:
 
@@ -56,15 +56,10 @@ Role required: sn\_sec\_cmn.admin
 7.  Select **Submit**.
 
 
-**Parent Topic:**[[sec-ops-common-functionality|Security Operations common functionality]]
+**Parent Topic:**[Security Operations common functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sec-ops-common-functionality.md)
 
 **Related topics**  
 
 
 [Attach a script file to a file synchronized MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-script-attach.md)
 
-## Related
-
-- [[sec-ops-common-functionality|Security Operations common functionality]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

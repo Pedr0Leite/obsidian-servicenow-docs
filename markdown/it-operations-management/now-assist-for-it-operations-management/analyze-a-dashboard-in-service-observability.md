@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for ITOM, IT Operations Management]
 
 # Analyze a dashboard in Service Observability
 
-Use the analyze [[service-observability|Service Observability]] dashboard skill to view an analysis of a single Service Observability dashboard.
+Use the analyze Service Observability dashboard skill to view an analysis of a single Service Observability dashboard.
 
 ## About this task
 
@@ -41,7 +41,7 @@ Role required: admin, operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -73,7 +73,3 @@ Role required: admin, operator
 
 **Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

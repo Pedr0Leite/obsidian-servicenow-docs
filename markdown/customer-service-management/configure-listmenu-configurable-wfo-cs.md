@@ -12,11 +12,11 @@ breadcrumb: [Setting up Workforce Optimization Coaching, Optimize workforce oper
 
 # Configure a list menu to display in the Learning tab in Workforce Optimization for Customer Service
 
-Add list or list categories to modify the list menu for Coaching with Learning in the Coaching application in [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+Add list or list categories to modify the list menu for Coaching with Learning in the Coaching application in Workforce Optimization for Customer Service.
 
 ## Before you begin
 
-**Important:** This feature is available with the Workforce [[optimization|Optimization]] for [[csm-workspaces-configure|CSM Configurable Workspace]] \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [[request-configurable-wfo-cs|Activate Workforce Optimization for CS configurable workspace]].
+**Important:** This feature is available with the Workforce Optimization for CSM Configurable Workspace \(sn\_csm\_wfo\_workspa\) from the ServiceNow Store. To enable this feature, see [Activate Workforce Optimization for CS configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-configurable-wfo-cs.md).
 
 Set the map application scope to **Coaching With Learning**. For information on how to set the scope, see [Set map application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-map-application-scope.md).
 
@@ -41,7 +41,7 @@ Role required: admin
 
 5.  Select **Submit**.
 
-6.  Under UX [[migration-lists|Lists]], select **New** to create lists under that list category.
+6.  Under UX Lists, select **New** to create lists under that list category.
 
 7.  Enter the following field values.
 
@@ -57,13 +57,5 @@ Role required: admin
 9.  Select **Update**.
 
 
-**Parent Topic:**[[setup-coaching-configurable-wfo-cs|Setting up Coaching in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Setting up Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-coaching-configurable-wfo-cs.md)
 
-## Related
-
-- [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]]
-- [[setup-coaching-configurable-wfo-cs|Setting up Coaching in Workforce Optimization for Customer Service]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]

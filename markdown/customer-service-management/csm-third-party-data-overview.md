@@ -14,7 +14,7 @@ breadcrumb: [Third-party data integration for CSM, CSM Configurable Workspace fe
 
 A typical enterprise ecosystem includes enterprise resource planning \(ERP\), sales management, and service management systems. There are multiple options for implementing the integrations between these systems.
 
-In this example, the ERP system manages [[customer-data|customer data]] \(for example, Accounts\).
+In this example, the ERP system manages customer data \(for example, Accounts\).
 
 \[Omitted image "csm-typical-enterprise-it-ecosystem.png"\] Alt text: Chart of an enterprise ecosystem in which the Enterprise Resource Planning system manages the integration between ServiceNow Service Management and Salesforce Sales Management applications.
 
@@ -37,6 +37,3 @@ ServiceNow integrates with Salesforce through the OAuth 2.0 Bearer Token Flow.
 
 \[Omitted image "csm-third-party-data-integration-hub-architecture.jpg"\] Alt text: Diagram of the script and query processing between the Salesforce Opportunity remote table and Integration Hub.
 
-## Related
-
-- [[customer-data|Customer data]]

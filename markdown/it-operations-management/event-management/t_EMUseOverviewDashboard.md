@@ -14,11 +14,11 @@ breadcrumb: [Using Event Management, Event Management, ITOM AIOps, IT Operations
 
 # Use the Event Management overview dashboard
 
-The [[c_EM|Event Management]] overview module uses Performance Analytics to present data from your instance for you to better visualize and understand your processes and drive continual improvement.
+The Event Management overview module uses Performance Analytics to present data from your instance for you to better visualize and understand your processes and drive continual improvement.
 
 ## About this task
 
-From the Xanadu release onward, the Event Management overview module has been deprecated and replaced with the AIOps [[otto-aiops-dashboards|dashboards]]. The dashboards deprecated include the following:
+From the Xanadu release onward, the Event Management overview module has been deprecated and replaced with the AIOps dashboards. The dashboards deprecated include the following:
 
 -   Event Management insights
 -   Event Management scorecards
@@ -33,7 +33,3 @@ The AIOps dashboards offer comprehensive visualizations of critical operational 
 
 [Performance Analytics and Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_performanceAnalyticsAndReporting.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[otto-aiops-dashboards|Dashboards]]

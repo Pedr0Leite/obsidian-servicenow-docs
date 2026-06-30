@@ -20,15 +20,15 @@ Initiate a request for the card network issuer to credit the customer.
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
-A manual investigation can result in an outcome of [[initiate-a-chargeback|initiating a chargeback]], creating a task to recover transaction funds from the merchant.
+A manual investigation can result in an outcome of initiating a chargeback, creating a task to recover transaction funds from the merchant.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -42,7 +42,7 @@ A manual investigation can result in an outcome of [[initiate-a-chargeback|initi
 
 5.  Select the **Playbook** tab.
 
-6.  Select the **[[initiate-chargeback-and-fill-merchant-response|Initiate chargeback and fill merchant response]]** activity under the Chargeback playbook stage.
+6.  Select the **Initiate chargeback and fill merchant response** activity under the Chargeback playbook stage.
 
 7.  On the form, review the populated fields and add any other related information that you've gathered.
 
@@ -50,7 +50,7 @@ A manual investigation can result in an outcome of [[initiate-a-chargeback|initi
 
 9.  After you have entered the details in the task, select **Update**.
 
-10. To submit the request, select **[[initiate-chargeback-mastercard|Initiate chargeback]]**.
+10. To submit the request, select **Initiate chargeback**.
 
 11. Record the merchant response.
 
@@ -68,7 +68,7 @@ The task state moves to the Closed complete state. Additionally:
 
 -   The merchant’s bank makes a determination whether to provide the credit to the issuing bank.
 
-    **Note:** Tracking funds credited from the merchant's bank occurs outside of the [[card-ops-landing-page|Financial Services Card Operations]] application. The application requires integration with the applicable card network.
+    **Note:** Tracking funds credited from the merchant's bank occurs outside of the Financial Services Card Operations application. The application requires integration with the applicable card network.
 
 -   The merchant can provide evidence for the transaction and refuse the chargeback, or the merchant can accept the chargeback, which will result in the customer being credited back with the funds.
 
@@ -78,11 +78,3 @@ If the merchant has provided representment, proceed to [Review merchant represen
 
 **Parent Topic:**[Initiating a chargeback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/initiate-a-chargeback.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[initiate-a-chargeback|Initiating a chargeback]]
-- [[fso-overview|Financial Services]]
-- [[initiate-chargeback-and-fill-merchant-response|Initiate chargeback and fill merchant response]]
-- [[initiate-chargeback-mastercard|Initiate chargeback]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

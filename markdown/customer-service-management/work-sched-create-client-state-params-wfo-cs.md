@@ -50,13 +50,10 @@ Role required: admin, workspace\_admin, or ui\_builder\_admin​
 
 [Create page scripts for Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/work-sched-create-page-scripts.md)
 
-**Parent Topic:**[[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-workscheduler-card-wfo-cs.md)
 
 **Related topics**  
 
 
 [Create and bind a client state parameter to a component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/state-parameters.md)
 
-## Related
-
-- [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]

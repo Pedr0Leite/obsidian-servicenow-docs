@@ -16,7 +16,7 @@ Select a language for your ServiceNow mobile app that may differ from the langua
 
 **Note:** This capability is available from ServiceNow mobile app version 16.0.
 
-For a list of supported languages, see [[localization-mobile-device|Localization on mobile devices]].
+For a list of supported languages, see [Localization on mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/localization-mobile-device.md).
 
 ## Sources of languages for ServiceNow mobile apps
 
@@ -35,6 +35,3 @@ The display of right-to-left languages is supported in ServiceNow mobile apps. A
 
 \[Omitted image "right-to-left-example.png"\] Alt text: Comparison of screens with different languages.
 
-## Related
-
-- [[localization-mobile-device|Localization on mobile devices]]

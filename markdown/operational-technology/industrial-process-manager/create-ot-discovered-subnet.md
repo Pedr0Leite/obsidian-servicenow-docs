@@ -14,7 +14,7 @@ breadcrumb: [Automated Mapping Across Zone-based IP Network Groups, Managing equ
 
 # Create an OT discovered subnet
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) discovered subnet to use during OT subnet mapping to help identify OT devices and assign them to the correct equipment model entity.
+Create an Operational Technology \(OT\) discovered subnet to use during OT subnet mapping to help identify OT devices and assign them to the correct equipment model entity.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: cmdb\_ot\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **OT Discovered Subnets**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **OT Discovered Subnets**.
 
 2.  Select **New**.
 
@@ -43,8 +43,3 @@ Role required: cmdb\_ot\_admin
 
 **Parent Topic:**[Automated Mapping Across Zone-based IP Network Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/automate-mappings-between-ot-assets-and-equipment-model-entity.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

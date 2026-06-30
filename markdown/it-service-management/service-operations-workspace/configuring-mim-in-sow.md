@@ -14,7 +14,7 @@ breadcrumb: [Setting up Major Incident Management in Service Operations Workspac
 
 # Configuring Major Incident Management in Service Operations Workspace
 
-Configure the features in Major [[c_IncidentManagement|Incident Management]] to use and manage major incidents in Service Operations Workspace.
+Configure the features in Major Incident Management to use and manage major incidents in Service Operations Workspace.
 
 ## Configuration overview
 
@@ -27,6 +27,3 @@ Admin Center enables you to configure the following features in Major Incident M
 -   Email notifications
 -   Timeline configurations for a post incident report
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Telecom Discovery, Telecom Visibility, Explore, Telecommunications 
 
 # Telecom Discovery Builder framework
 
-The Telecom Discovery Builder framework ETL \(Extract, Transform, Load\) is a reusable and schema-aligned component delivered with the [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] \(TSOM\) Core application. It provides a consistent and extensible method for ingesting telecom inventory data into the ServiceNow configuration management database \(CMDB\) across multiple Service Graph Connectors \(SGCs\).
+The Telecom Discovery Builder framework ETL \(Extract, Transform, Load\) is a reusable and schema-aligned component delivered with the Telecommunications Service Operations Management \(TSOM\) Core application. It provides a consistent and extensible method for ingesting telecom inventory data into the ServiceNow configuration management database \(CMDB\) across multiple Service Graph Connectors \(SGCs\).
 
 The Telecom Discovery Builder framework ETL serves as a baseline data ingestion utility to handle telecom-specific configuration item \(CI\) data. It enables connector development teams to avoid building ETLs from scratch by offering a standardized transform logic that can be duplicated and customized for each connector. It provides a standardized, reusable foundation that promotes consistency across implementations.
 
@@ -34,7 +34,7 @@ Use the Telecom Discovery Builder framework when you want to do the following:
 
 -   Auto-provisioned with TSOM core: Installs automatically and is ready to use across telecom connectors.
 -   Generic schema-based ingestion: Supports a unified data schema for telecom CIs.
--   Supports duplication and customization: [[duplicate-the-generic-etl-to-use-a-specific-connector|Duplicate the Telecom Discovery Builder ETL]] framework into your application scope using Integration Hub ETL Studio.
+-   Supports duplication and customization: Duplicate the Telecom Discovery Builder ETL framework into your application scope using Integration Hub ETL Studio.
 -   TNI support: Aligned to the TNI data model and the ETL logic can be extended to generate and link TNI entities.
 -   Flexible field-mapping interface: Configure import sets, data sources, targets, and transformation logic through a UI-driven experience.
 
@@ -52,7 +52,7 @@ These roles control access to the TSOM Visibility and Assurance application scop
 |`sn_tsom_core` \(Telecom Service Operations Core\)|Includes the audit application and various system properties within that app scope.|
 |`sn_tsom_em_core`\(Event Management Core\)|Includes the monitoring and analysis of telecommunications network alerts and performance metrics from SD-WAN infrastructure.|
 |`sn_tsom_em_connect`\(Event Management Connectors\)|Include push connectors and connector definitions used to ingest alerts from external telecommunications network sources.|
-|`sn_tsom_patterns`\([[exploring-telecom-discovery|Telecom Discovery]] Patterns \)|Include the MID Server and system IP Service properties.|
+|`sn_tsom_patterns`\(Telecom Discovery Patterns \)|Include the MID Server and system IP Service properties.|
 |`sn_sgc_aliplano`\(Service Graph Connector for Nokia Altiplano\)|Includes the application properties.|
 |`sn_sgc_meraki`\(Service Graph Conenctor for Cisco Meraki Telco SD-WAN\)|Includes the application properties.|
 |`sn_sgc_fortinet`\(Service Graph Connector for Fortinet Telco SD-WAN\)|Includes the application properties.|
@@ -158,8 +158,3 @@ Benefits of the Telecom Discovery Builder framework ETL include:
 
 [Extend TNI entity support for duplicated ETLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/configuring-tni-entiry-support-for-duplicated-etls.md)
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]
-- [[duplicate-the-generic-etl-to-use-a-specific-connector|Duplicate the Telecom Discovery Builder ETL]]
-- [[exploring-telecom-discovery|Telecom Discovery]]

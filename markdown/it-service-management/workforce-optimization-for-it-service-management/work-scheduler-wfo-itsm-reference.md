@@ -14,7 +14,7 @@ breadcrumb: [Work scheduler, Workforce Optimization for ITSM, IT Service Managem
 
 # Work Scheduler components in Workforce Optimization for ITSM reference
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] has properties to configure the Work scheduler default behavior.
+Workforce Optimization for ITSM has properties to configure the Work scheduler default behavior.
 
 ## Properties
 
@@ -53,7 +53,7 @@ sn\_wfo\_work\_sched.should\_fetch\_shift\_data
 
 </td><td>
 
-Enables the display of shift spans in [[work-scheduling-wfo-itsm|Work scheduler in Workforce Optimization for ITSM]] manager workspace.-   **Type:** true\|false
+Enables the display of shift spans in Work scheduler in Workforce Optimization for ITSM manager workspace.-   **Type:** true\|false
 -   **Default value:** true
 
 </td></tr><tr><td>
@@ -76,8 +76,3 @@ Defines which users are shown in Work scheduler when suggestions are enabled and
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[work-scheduling-wfo-itsm|Work scheduler in Workforce Optimization for ITSM]]

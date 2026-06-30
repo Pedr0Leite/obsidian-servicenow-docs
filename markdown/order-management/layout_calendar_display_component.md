@@ -12,7 +12,7 @@ breadcrumb: [CPQ app, Configure, price, quote apps, Configure, Sales Customer Re
 
 # The calendar display component
 
-Use the calendar display component in CPQ to present time-based configuration options in a monthly view. [[sets|Configure sets]], [[fields|fields]], and selection settings to let users view, select, and manage date-specific records directly in the configuration interface.
+Use the calendar display component in CPQ to present time-based configuration options in a monthly view. Configure sets, fields, and selection settings to let users view, select, and manage date-specific records directly in the configuration interface.
 
 CPQ native UI allows the administrator to present a calendar display component to the user to aid in time-based configurations. The calendar displays in the context of a month. The data underlying the calendar display is a set, with each calendar day represented by one record in the set.
 
@@ -72,7 +72,3 @@ The Set Properties &gt; Raw Value area contains the JSON output by the selection
 
 \[Omitted image "cpq-layout-calendar-display-raw-value.png"\] Alt text: Raw value code
 
-## Related
-
-- [[sets|Configure sets]]
-- [[fields|Fields]]

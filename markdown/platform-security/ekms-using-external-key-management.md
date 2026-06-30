@@ -12,11 +12,11 @@ breadcrumb: [External Key Management Service, Field Encryption, Encryption]
 
 # Using External Key Management Service
 
-Manage and maintain your External Key Management Service \(EKMS\) [[sc-configuration|configuration]] after initial setup
+Manage and maintain your External Key Management Service \(EKMS\) configuration after initial setup
 
 ## What you can do
 
-Once EKMS is configured, you perform ongoing management tasks to maintain your [[encryption-landing|encryption]] infrastructure. These operational tasks include managing AWS key status, monitoring synchronization, and updating access [[ca-policies|policies]] as your organization's needs change.
+Once EKMS is configured, you perform ongoing management tasks to maintain your encryption infrastructure. These operational tasks include managing AWS key status, monitoring synchronization, and updating access policies as your organization's needs change.
 
 ## Common tasks
 
@@ -32,7 +32,7 @@ Use the related links to find information related to these common EKMS tasks.
 
 ## Key status impact
 
-AWS KMS key status directly affects encryption and decryption operations in ServiceNow. When you change a key's status in AWS, EKMS synchronizes the change automatically every 30 minutes. Understanding how status changes impact your data access is critical for maintaining operations. This default frequency is configurable if you need a different synchronization interval. See [[ekms-change-synchronization-frequency|Change synchronization frequency]].
+AWS KMS key status directly affects encryption and decryption operations in ServiceNow. When you change a key's status in AWS, EKMS synchronizes the change automatically every 30 minutes. Understanding how status changes impact your data access is critical for maintaining operations. This default frequency is configurable if you need a different synchronization interval. See [Change synchronization frequency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-synchronization-frequency.md).
 
 ## Automatic key wrapping after AWS key rotation
 
@@ -45,16 +45,16 @@ This automatic process:
 -   Causes no service interruption.
 -   Typically completes within 30 minutes when the synchronization job runs.
 
--   **[[ekms-change-status-aws-kms-key|Change the status of an AWS KMS Key]]**  
+-   **[Change the status of an AWS KMS Key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-status-aws-kms-key.md)**  
 Modify the status of your Amazon Web Services Key Management System \(AWS KMS\) key and synchronize the status with your ServiceNow instance.
--   **[[ekms-check-key-status|Check External Key Management Service Key Status]]**  
+-   **[Check External Key Management Service Key Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-check-key-status.md)**  
 View the status of your Amazon Web Services Key Management System \(AWS KMS\) key in your instance.
 -   **[Change synchronization frequency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-change-synchronization-frequency.md)**  
 Modify the system property to change how often External Key Management Service \(EKMS\) synchronizes Amazon Web Service Key Management Service \(AWS KMS\) key status with your instance.
--   **[[ekms-instance-automation|External Key Management Service and instance automation]]**  
+-   **[External Key Management Service and instance automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-instance-automation.md)**  
 Understand requirements and limitations for instance automation operations when External Key Management Service is enabled.
 
-**Parent Topic:**[[ekms-external-key-management|External Key Management Service]]
+**Parent Topic:**[External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-external-key-management.md)
 
 **Related topics**  
 
@@ -65,13 +65,3 @@ Understand requirements and limitations for instance automation operations when 
 
 [Check External Key Management Service Key Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-check-key-status.md)
 
-## Related
-
-- [[ekms-change-synchronization-frequency|Change synchronization frequency]]
-- [[ekms-change-status-aws-kms-key|Change the status of an AWS KMS Key]]
-- [[ekms-check-key-status|Check External Key Management Service Key Status]]
-- [[ekms-instance-automation|External Key Management Service and instance automation]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]

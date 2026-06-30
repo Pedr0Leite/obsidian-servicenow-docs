@@ -15,9 +15,9 @@ breadcrumb: [Discovery Admin Workspace Diagnostics, Discovery Admin Workspace, E
 
 # Discovery Admin Workspace Error Details
 
-The Error Details page displays the root cause and [[ccg-remediation|remediation]] steps for a specific [[r-discovery|Discovery]] error, along with the list of individual error instances associated with that error.
+The Error Details page displays the root cause and remediation steps for a specific Discovery error, along with the list of individual error instances associated with that error.
 
-To access Discovery error details in [[discovery-admin-workspace|Discovery Admin Workspace]], navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Diagnostics** &gt; **Errors**.
+To access Discovery error details in Discovery Admin Workspace, navigate to **Workspaces** &gt; **Discovery Admin Workspace** &gt; **Diagnostics** &gt; **Errors**.
 
 **Note:** The capabilities described here are available in Discovery Admin Workspace v1.17.0. This page is only accessible when the **sn\_disco\_workspace.enable\_error\_framework** system property is enabled. Specific version requirements are noted for individual features where applicable.
 
@@ -63,8 +63,3 @@ After selecting an error card, the header displays key information including the
     -   The Error Analysis and Remediation Workflow and Error Analysis and Remediation Agent are enabled by default with the Now Assist for Error Framework plugin.
     -   To interact with an agent, you must first [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

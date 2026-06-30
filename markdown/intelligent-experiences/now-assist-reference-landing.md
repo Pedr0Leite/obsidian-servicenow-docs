@@ -15,32 +15,20 @@ breadcrumb: [Now Assist, Enable AI experiences]
 
 Reference topics include information about user roles, data usage, and domain separation for Now Assist.
 
--   **[[default-and-target-model-model-version|Default and target model version]]**  
+-   **[Default and target model version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/default-and-target-model-model-version.md)**  
 Model version is the large language model version a skill uses to route requests to process users' queries. Default model version is where all the requests route to by default. This is pre-set by ServiceNow®. A target model version is chosen to route your requests to a different version at run-time, rather than using the default version.
--   **[[domain-separation-in-the-now-assist-admin-console|Domain separation in the Now Assist Admin console]]**  
+-   **[Domain separation in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/domain-separation-in-the-now-assist-admin-console.md)**  
 Domain separation is supported for the Now Assist Admin console. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[[fetch-end-points-in-conversational-help-skill|Fetch end points in Now Assist Conversational Help skills]]**  
-The [[conversational-help-skills|Now Assist Conversational Help]] skills architecture solves latency by fetching answers hosted at the nearest location, which is best suited to the user.
--   **[[roles-installed-with-now-assist-admin|Now Assist Admin roles]]**  
+-   **[Fetch end points in Now Assist Conversational Help skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/fetch-end-points-in-conversational-help-skill.md)**  
+The Now Assist Conversational Help skills architecture solves latency by fetching answers hosted at the nearest location, which is best suited to the user.
+-   **[Now Assist Admin roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/roles-installed-with-now-assist-admin.md)**  
 Certain roles are required to use Now Assist Admin functionality.
--   **[[user-data-usage-policy-now-assist|User data usage policy for Now Assist]]**  
+-   **[User data usage policy for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/user-data-usage-policy-now-assist.md)**  
 Now Assist is designed to keep user data safe and secure. You can also mask sensitive data or opt-out of sharing data for model improvements.
--   **[[troubleshoot-a-now-assist-skill|Troubleshoot a Now Assist skill]]**  
+-   **[Troubleshoot a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/troubleshoot-a-now-assist-skill.md)**  
 Run diagnostics for a skill on the Now Assist Admin console and get information about the status of your skill configuration.
--   **[[nap-sys-props|Now Assist panel system properties]]**  
-Use system properties to customize [[now-assist-center-now-assist-panel|Now Assist panel]]. Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table.
+-   **[Now Assist panel system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nap-sys-props.md)**  
+Use system properties to customize Now Assist panel. Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table.
 
-**Parent Topic:**[[platform-now-assist-landing|Now Assist]]
+**Parent Topic:**[Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md)
 
-## Related
-
-- [[default-and-target-model-model-version|Default and target model version]]
-- [[domain-separation-in-the-now-assist-admin-console|Domain separation in the Now Assist Admin console]]
-- [[fetch-end-points-in-conversational-help-skill|Fetch end points in Now Assist Conversational Help skills]]
-- [[roles-installed-with-now-assist-admin|Now Assist Admin roles]]
-- [[user-data-usage-policy-now-assist|User data usage policy for Now Assist]]
-- [[troubleshoot-a-now-assist-skill|Troubleshoot a Now Assist skill]]
-- [[nap-sys-props|Now Assist panel system properties]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[conversational-help-skills|Now Assist Conversational Help]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

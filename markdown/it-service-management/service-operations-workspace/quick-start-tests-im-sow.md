@@ -14,11 +14,11 @@ breadcrumb: [Incident Management in Service Operations Workspace reference, Inci
 
 # Quick start tests for Incident Management in Service Operations Workspace
 
-Validate that [[incident-sow|Incident Management in Service Operations Workspace]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Incident Management in Service Operations Workspace still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 ## Incident Management in Service Operations Workspace
 
-Incident Management in Service Operations Workspace quick start tests are available in the base system when you install or update to Service Operations Workspace ITSM [[dex-workspace-application-tab|Applications]] \(sn-sow-itsm-cont\) 6.0 version.
+Incident Management in Service Operations Workspace quick start tests are available in the base system when you install or update to Service Operations Workspace ITSM Applications \(sn-sow-itsm-cont\) 6.0 version.
 
 |Test|Description|Release version|
 |----|-----------|---------------|
@@ -34,7 +34,3 @@ To learn more about Incident Management in Service Operations Workspace, see [In
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[incident-sow|Incident Management in Service Operations Workspace]]
-- [[dex-workspace-application-tab|Applications]]

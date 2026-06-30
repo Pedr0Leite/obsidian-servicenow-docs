@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Add a new notification delivery channel
 
-Add new channels for email, instant message, SMS, and voice to receive [[notifications|notifications]] and set a schedule for the channel for the notifications you want to receive.
+Add new channels for email, instant message, SMS, and voice to receive notifications and set a schedule for the channel for the notifications you want to receive.
 
 ## Before you begin
 
@@ -35,9 +35,5 @@ Role required: none
 7.  Select **Save**.
 
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[notifications|Notifications]]

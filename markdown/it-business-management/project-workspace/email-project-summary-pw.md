@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Schedule the project insights email
 
-[[email-project-summary-skill-pw|Schedule the project insights email]] to prioritize and track the most important changes in the project in [[project-workspace-landing-page|Project Workspace]].
+Schedule the project insights email to prioritize and track the most important changes in the project in Project Workspace.
 
 \[Omitted video\] Description: Demonstration of project insights generation skill in Project Workspace.
 
@@ -64,7 +64,7 @@ When a project is created in the work in progress state, the project insight gen
 
     **Note:** Because the information in these fields is AI generated, it's a good idea to review the text and make sure it's accurate.
 
-    This skill automatically generates and sends project insight emails based on project data and activity. These emails provide a consolidated view of project health, including schedule variance, RIDAC \(risks, issues, decisions, actions, and change requests\), resources, milestones, projects, [[t_CreateAProjectTask|project tasks]], and financial insights. Project items are automatically grouped into RIDAC categories and classified by impact level: high, medium, or low, while financial insights highlight potential risks and variances. This automated insight delivery helps stakeholders stay informed about project health, risks, and financial status without manual reporting effort.
+    This skill automatically generates and sends project insight emails based on project data and activity. These emails provide a consolidated view of project health, including schedule variance, RIDAC \(risks, issues, decisions, actions, and change requests\), resources, milestones, projects, project tasks, and financial insights. Project items are automatically grouped into RIDAC categories and classified by impact level: high, medium, or low, while financial insights highlight potential risks and variances. This automated insight delivery helps stakeholders stay informed about project health, risks, and financial status without manual reporting effort.
 
     This skill considers task-level work notes when generating project insights.
 
@@ -85,8 +85,3 @@ Let's assume that you have selected a weekly cadence and chosen Monday \(which f
 
 [Configure the Monitor project tasks AI agent in AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/configure-agents-project-task-monitoring.md)
 
-## Related
-
-- [[email-project-summary-skill-pw|Schedule the project insights email]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

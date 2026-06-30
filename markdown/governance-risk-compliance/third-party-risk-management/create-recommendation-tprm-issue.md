@@ -15,11 +15,11 @@ breadcrumb: [Use generative AI skills, Now Assist, Third-party Risk Management, 
 
 # Generate issue recommendations for TPRM
 
-Use generative AI to identify and recommend potential Third-party Risk Management issues based on assessment responses. The [[issue-recommendation-tprm|TPRM issue recommendation skill]] presents recommended issues with rationalized summaries for reviewer confirmation.
+Use generative AI to identify and recommend potential Third-party Risk Management issues based on assessment responses. The TPRM issue recommendation skill presents recommended issues with rationalized summaries for reviewer confirmation.
 
 ## Before you begin
 
-The assessment you are using to generate issue recommendations must use the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. Starting with version 21.0.x of the Third-party Risk Management application, you can enable the Smart Assessment Engine \(SAE\) by setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience. The transition isn’t reversible.
+The assessment you are using to generate issue recommendations must use the Smart Assessment Engine. Starting with version 21.0.x of the Third-party Risk Management application, you can enable the Smart Assessment Engine \(SAE\) by setting the Smart Assessment Engine enabled \(**sn\_vdr\_risk\_asmt.sae\_enabled**\) property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience. The transition isn’t reversible.
 
 **Warning:**
 
@@ -69,7 +69,3 @@ Accept recommendations to create issues based on historical assessment data, or 
 
 **Parent Topic:**[Using Now Assist for Third-party Risk Management \(TPRM\) skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/using-now-assist-for-tprm.md)
 
-## Related
-
-- [[issue-recommendation-tprm|TPRM issue recommendation skill]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

@@ -14,13 +14,13 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 # Create a flexible service
 
-Create a flexible service and provide it as an extra service to employees. Employees can use the flexible service and other basic [[standard-service|standard services]] when they [[reservation-portal|make a reservation]].
+Create a flexible service and provide it as an extra service to employees. Employees can use the flexible service and other basic standard services when they make a reservation.
 
 ## Before you begin
 
-**Warning:** Starting with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] version 2.1.2, you cannot create any extra services or flexible services directly using the Workplace Reservation Management application. Beginning from Workplace Reservation Management version 2.1.2, you can create an extra service only as a workplace service using the [[workplace-case-mgmt-feat|Workplace Case Management]] application only. The Workplace Case Management application is automatically available for installation after the upgrade. If you have installed Workplace Reservation Management version 2.1.2 or above directly \(as a first time user\), there will be no impact and the following conditions does not apply to you.
+**Warning:** Starting with Workplace Reservation Management version 2.1.2, you cannot create any extra services or flexible services directly using the Workplace Reservation Management application. Beginning from Workplace Reservation Management version 2.1.2, you can create an extra service only as a workplace service using the Workplace Case Management application only. The Workplace Case Management application is automatically available for installation after the upgrade. If you have installed Workplace Reservation Management version 2.1.2 or above directly \(as a first time user\), there will be no impact and the following conditions does not apply to you.
 
--   After the upgrade, the existing flexible services are removed from the Workplace Reservation Management application and are listed as [[workplace-services|workplace services]] in the Workplace Case Management application.
+-   After the upgrade, the existing flexible services are removed from the Workplace Reservation Management application and are listed as workplace services in the Workplace Case Management application.
 
     For more information on how to create an extra service after the upgrade, refer to [Create a workplace service to provide an extra service for a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-workplace-service-to-provide-extra-service.md).
 
@@ -28,7 +28,7 @@ Create a flexible service and provide it as an extra service to employees. Emplo
 -   The locations to which the flexible services were available are listed in the Workplace Service Item Locations Related list of that workplace service.
 -   There is no effect to employee experience on the Reservation portal.
 -   All the extra services requested by employees along with their reservation in the past six months are restored automatically. The extra service requests are logged in the Requested Service Items \[sn\_wsd\_case\_service\_item\_request\] table of the Workplace Case Management application.
--   To migrate the subcategories and to create the [[wsd-templates|case and task templates]] automatically, you must run the Script include `Choice and Template Migration Script`. The instructions on how to run the script are included in the Script include description.
+-   To migrate the subcategories and to create the case and task templates automatically, you must run the Script include `Choice and Template Migration Script`. The instructions on how to run the script are included in the Script include description.
 
 Role required: sn\_wsd\_rsv.admin
 
@@ -195,11 +195,3 @@ Enable employees to request for extra services. Add an extra service to a workpl
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[standard-service|Standard services]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[wsd-templates|Case and Task Templates]]

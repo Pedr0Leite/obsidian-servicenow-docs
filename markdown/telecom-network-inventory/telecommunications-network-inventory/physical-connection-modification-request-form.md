@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Physical connection modification request form
 
-The Physical connection modification request form enables you to modify endpoints of a physical connection record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Physical connection modification request form enables you to modify endpoints of a physical connection record in the Telecommunications Network Inventory application.
 
 <table id="table_fzh_ksr_nzb"><thead><tr><th>
 
@@ -96,7 +96,7 @@ Option to enable or disable revision process.**Note:**
     1.  The revision process is initiated. To learn more, see [Revision, operationalization, and decommission of a Configuration Item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/revision-of-a-confiuguration-item.md).
     2.  Two change tasks for modification and revision are created with the open and closed status respectively.
 2.  Open the Modify Logical or Physical connection change task to start modifying the duplicated logical or physical connection and operationalize further. To learn more, see [Operationalize a configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/operationalize-a-configuration-item.md).
-3.  In the process of revision of physical connection modification, the [[design-logical-connection-design-assign-playbook|logical connections]] associated with physical connection ports are updated during the operationalization process.
+3.  In the process of revision of physical connection modification, the logical connections associated with physical connection ports are updated during the operationalization process.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
@@ -106,7 +106,3 @@ Option to enable or disable revision process.**Note:**
 
 [Modify physical connection endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-change-request-by-using-modify-physical-connection.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]

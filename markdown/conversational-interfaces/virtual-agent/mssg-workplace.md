@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with messaging apps, Integrate VA with other channels,
 
 # Conversational Integration with Workplace from Facebook
 
-Use the Conversational Integration with Workplace from Facebook application to connect your requesters with [[virtual-agent-landing-page|Virtual Agent]] or live agents through your company’s Workplace from Facebook application.
+Use the Conversational Integration with Workplace from Facebook application to connect your requesters with Virtual Agent or live agents through your company’s Workplace from Facebook application.
 
 ## Get started with Conversational Integration with Workplace from Facebook
 
@@ -42,6 +42,3 @@ Install Conversational Integration with Workplace from Facebook from the Service
 
 **Parent Topic:**[Integrating Virtual Agent with messaging apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integration-messaging-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

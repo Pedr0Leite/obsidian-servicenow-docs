@@ -12,9 +12,9 @@ breadcrumb: [Maintain and monitor, Administer the ServiceNow AI Platform]
 
 # Monitor System Events and Scheduled Jobs dashboards
 
-Use the **[[events|System Events]] and Jobs Dashboard** module to monitor the system event processing system and monitor the [[c_ScheduledJobs|scheduled jobs]] processing system in the **Scheduled Jobs** dashboard tab.
+Use the **System Events and Jobs Dashboard** module to monitor the system event processing system and monitor the scheduled jobs processing system in the **Scheduled Jobs** dashboard tab.
 
-You need to install the dashboard application to view information about events and queues. See [[setup-event-monitoring-dashboard|Understand your System Events Dashboard]] for more information. There are two ways of representing the information about the events and queues in the event processing system.
+You need to install the dashboard application to view information about events and queues. See [Understand your System Events Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/setup-event-monitoring-dashboard.md) for more information. There are two ways of representing the information about the events and queues in the event processing system.
 
 -   Scores
     -   [Scores-System Event processing health checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/setup-event-monitoring-dashboard.md)
@@ -22,14 +22,7 @@ You need to install the dashboard application to view information about events a
     -   [Scores-Trends](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/setup-event-monitoring-dashboard.md)
 -   Details: See [Details-Configure an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/setup-event-monitoring-dashboard.md) for more information.
 
-In order to view the completed jobs details, select the **Scheduled Jobs** tab. See [[scheduled-jobs-dashboard|Understand your Scheduled Jobs dashboard]] for more information.
+In order to view the completed jobs details, select the **Scheduled Jobs** tab. See [Understand your Scheduled Jobs dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/scheduled-jobs-dashboard.md) for more information.
 
-See [[events-jobs-roles|System Events and Jobs dashboard roles]] if you want to know about the required roles for the System Events and Jobs dashboard access.
+See [System Events and Jobs dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/events-jobs-roles.md) if you want to know about the required roles for the System Events and Jobs dashboard access.
 
-## Related
-
-- [[setup-event-monitoring-dashboard|Understand your System Events Dashboard]]
-- [[scheduled-jobs-dashboard|Understand your Scheduled Jobs dashboard]]
-- [[events-jobs-roles|System Events and Jobs dashboard roles]]
-- [[events|System Events]]
-- [[c_ScheduledJobs|Scheduled jobs]]

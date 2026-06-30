@@ -106,7 +106,7 @@ This section describes the following procurement errors:
         "supplier_shipment_number": "SHIPSUP00001 \n",
         "sales_order_number": "SOL0010001 \n",
         "sales_order_line_number": "SOL0010001 \n",
-        "error_message": "The [[purchase-order-table|purchase order]] for this shipment does not exist \n"
+        "error_message": "The purchase order for this shipment does not exist \n"
       }
     ]
   }
@@ -128,7 +128,7 @@ This section describes the following procurement errors:
         "supplier_invoice_line_number": "SUPINVL0000001 \n",
         "sales_order_number": "SOL0010001 \n",
         "sales_order_line_number": "SOL0010001 \n",
-        "error_message": "The provided [[invoices|invoices]] does not have a purchase order line number \n"
+        "error_message": "The provided invoices does not have a purchase order line number \n"
       }
     ]
   }
@@ -176,7 +176,3 @@ This section describes the following procurement errors:
 
 **Parent Topic:**[Data source table information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/data-sources-info.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[invoices|Invoices]]

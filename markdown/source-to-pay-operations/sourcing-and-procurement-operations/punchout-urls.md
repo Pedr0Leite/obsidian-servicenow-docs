@@ -14,7 +14,7 @@ breadcrumb: [Configure punchout third-party site purchases, Configure, Sourcing 
 
 # Providing Order and Shipping Confirmation URLs to Punchout Suppliers
 
-When integrating with a punchout [[supplier|supplier]], customers are required to provide specific URLs for Order Confirmation and Shipping Confirmation.
+When integrating with a punchout supplier, customers are required to provide specific URLs for Order Confirmation and Shipping Confirmation.
 
 These URLs must be configured correctly to confirm seamless communication between the customer's instance and the punchout supplier’s system.
 
@@ -51,6 +51,3 @@ Shipping Confirmation URL
 
 **Parent Topic:**[Configure punchout for third-party site purchases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-supplier-punchout.md)
 
-## Related
-
-- [[supplier|Supplier]]

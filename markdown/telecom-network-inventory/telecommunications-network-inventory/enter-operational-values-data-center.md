@@ -14,7 +14,7 @@ breadcrumb: [Capacity management, Configure, Telecommunications Network Inventor
 
 # Collect operational values for datacenter
 
-Record and update operational values manually for datacenters performance tracking in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this data for further analysis and reporting.
+Record and update operational values manually for datacenters performance tracking in the Telecommunications Network Inventory application. You can use this data for further analysis and reporting.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 
 ## About this task
 
-Enter the operational data for power and temperature manually and store it in the ClothoDB. You can use this data to display the operational details in a [[using-floor-map|floor map]]. You can enter data for your datacenter, cabinet, rack, and cage.
+Enter the operational data for power and temperature manually and store it in the ClothoDB. You can use this data to display the operational details in a floor map. You can enter data for your datacenter, cabinet, rack, and cage.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.k
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.k
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Racks**.
 
@@ -53,8 +53,3 @@ The instance stores the operational data in the clothoDB.
 
 **Parent Topic:**[Configuring capacity management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-capacity-management.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-floor-map|Floor map]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

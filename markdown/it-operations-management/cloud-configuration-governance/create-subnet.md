@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **Networks &amp; IPAM**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Networks &amp; IPAM**.
 
 2.  On the **IP Pools** tab, click **New** to create a new record.
 
@@ -43,6 +43,4 @@ Role required: sn\_cmp.cloud\_admin
 
 6.  Click **Submit**.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

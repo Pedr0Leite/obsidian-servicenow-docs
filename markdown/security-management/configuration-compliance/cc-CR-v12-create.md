@@ -14,7 +14,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 # Create a change request in Configuration Compliance
 
-You can [[vuln-change_mgmnt_create_change|create a change request from a remediation task]] in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+You can create a change request from a remediation task in the Configuration Compliance application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: user with the itil role
 
 ## About this task
 
-As an IT or remediation specialist, create a change request \(CHG\) directly from a remediation task for all the test results in it. Create a change request with pre-populated information to expedite your investigation for [[vulnerabilities|vulnerabilities]] that require manual intervention.
+As an IT or remediation specialist, create a change request \(CHG\) directly from a remediation task for all the test results in it. Create a change request with pre-populated information to expedite your investigation for vulnerabilities that require manual intervention.
 
 You can create, approve, implement, review, and close change requests directly from remediation tasks that are assigned to you. You can create three types of change requests with pre-populated information from a remediation task:
 
@@ -43,7 +43,7 @@ The following image illustrates the basic flow for creating a change request fro
 
 \[Omitted image "cc-CR-CHG.png"\] Alt text: States for remediation tasks for creating a change request
 
-Starting with version 19.0 of [[vuln-landing-page|Vulnerability Response]], you can create change requests for Remediation Tasks from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]]. For more information, see [Create a change request in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-CRs.md).
+Starting with version 19.0 of Vulnerability Response, you can create change requests for Remediation Tasks from the IT Remediation Workspace. For more information, see [Create a change request in the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-CRs.md).
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -160,10 +160,4 @@ A pre-authorized, low-risk change request that is frequently implemented. Approv
 
     **Note:** You can still manually move change requests and remediation tasks through the states of their life cycles on their respective records with state synchronization enabled, but when the system registers that a change request has changed its state, or you add a change request or remove it from a remediation task, state synchronization potentially can override your manual intervention. However, change requests states do not automatically move the remediation task from the `Closed` or `Deferred` states.
 
-## Related
 
-- [[vuln-change_mgmnt_create_change|Create a change request from a remediation task]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

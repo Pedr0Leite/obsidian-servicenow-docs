@@ -14,7 +14,7 @@ breadcrumb: [Normalization data services, Creating users, companies, departments
 
 # Implementing normalization data services using guided setup
 
-You can implement [[c_NormalizationOverview|Normalization Data Services]] using a guided setup.
+You can implement Normalization Data Services using a guided setup.
 
 Normalization Data Services guided setup provides a sequence of tasks that help you configure the Normalization Data Services plugin on your instance. To open Normalization Data Services guided setup, navigate to **Normalization Data Services** &gt; **Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
@@ -30,7 +30,7 @@ In this task, you download the repository of all enterprise vendor names and the
 
 ## Updating reference qualifiers
 
-This task modifies the [[c_ReferenceQualifiers|reference qualifiers]] in [[reference-email-admin|reference]] fields linked to the Companies \[core\_company\] table, helping to ensure that users can only select from a list of normalized company names. For example, when creating a Computer \(cmdb\_ci\_computer\) record, users can only select “Dell Inc.” and not “Dell” or “Dell Incorporated”.
+This task modifies the reference qualifiers in reference fields linked to the Companies \[core\_company\] table, helping to ensure that users can only select from a list of normalized company names. For example, when creating a Computer \(cmdb\_ci\_computer\) record, users can only select “Dell Inc.” and not “Dell” or “Dell Incorporated”.
 
 Some reference qualifiers may not get updated. To normalize these reference qualifiers manually, see [KB0784201](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0784201).
 
@@ -52,8 +52,3 @@ To finish the guided setup, complete the remaining tasks by normalizing data in 
 
 **Parent Topic:**[Normalization data services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/c_NormalizationOverview.md)
 
-## Related
-
-- [[c_NormalizationOverview|Normalization data services]]
-- [[c_ReferenceQualifiers|Reference qualifiers]]
-- [[reference-email-admin|Reference]]

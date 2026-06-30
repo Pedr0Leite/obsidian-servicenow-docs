@@ -16,7 +16,7 @@ breadcrumb: [Examples, Unified experience framework, SIR Workspace Orchestration
 
 The example below demonstrates the common inputs capability action.
 
-You can perform **[[tisc-run-sighting-search|Run Sighting Search]]** related [[integration-capabilities|integration capabilities]] action using the **Investigation** tab from the SIR Workspace.
+You can perform **Run Sighting Search** related integration capabilities action using the **Investigation** tab from the SIR Workspace.
 
 1.  On the **Investigation** tab, navigate to the **Entry Points Lists** section displayed on the left side of the page.
 2.  Select the respective entry point and run the integration capability action.
@@ -29,7 +29,7 @@ You can perform **[[tisc-run-sighting-search|Run Sighting Search]]** related [[i
 **Related topics**  
 
 
-[Example 1: [[implementation-selection|Select implementations]]: Threat Lookup]()
+[Example 1: Select implementations: Threat Lookup]()
 
 [Example 3: Add specific runtime details inputs to an implementation: Run Additional Actions]()
 
@@ -45,7 +45,7 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open any security incident.
 
@@ -57,19 +57,19 @@ The available implementations are listed. Select the implementation\(s\), after 
 
 4.  Select the associated observable from the entry point lists.
 
-    For example, select **Associated [[c_Observables|Observables]]** related list. The corresponding observables records are displayed.
+    For example, select **Associated Observables** related list. The corresponding observables records are displayed.
 
     **Note:** You can select an implementation to perform a sighting search for the selected observables, or by selecting multiple implementations.
 
-    \[Omitted image "example1-run-threat-lookup.png"\] Alt text: [[tisc-run-threat-lookup|Run Threat Lookup]]
+    \[Omitted image "example1-run-threat-lookup.png"\] Alt text: Run Threat Lookup
 
-5.  Select any observable check box that you wish to perform the [[tisc-threat-lookup|threat lookup]].
+5.  Select any observable check box that you wish to perform the threat lookup.
 
 6.  Select **Run Sighting Search** to perform email search.
 
     The Run Sighting Search Implementations modal dialogue box is displayed.
 
-    \[Omitted image "example2-run-sighting-search.png"\] Alt text: An example that shows on how to add common runtime inputs by selecting [[indicator-sightings|Sightings]] Search capability
+    \[Omitted image "example2-run-sighting-search.png"\] Alt text: An example that shows on how to add common runtime inputs by selecting Sightings Search capability
 
 7.  Select one or more implementations from the list.
 
@@ -85,13 +85,4 @@ The available implementations are listed. Select the implementation\(s\), after 
 
     After the selected records are submitted, a message is displayed that the Sighting search is being requested. Once the implementation is processed in the backend, the results are displayed in the **Sightings Search Results** related list section. Also, the respective implementation activity processing status is displayed in the **Activity** section.
 
-## Related
 
-- [[tisc-run-sighting-search|Run Sighting Search]]
-- [[integration-capabilities|Integration capabilities]]
-- [[implementation-selection|Select implementations]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[indicator-sightings|Sightings]]

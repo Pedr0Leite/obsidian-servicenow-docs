@@ -28,7 +28,7 @@ When business rule logic identifies a claim case as a 'close proximity' claim- a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -65,6 +65,3 @@ When business rule logic identifies a claim case as a 'close proximity' claim- a
 -   If the task is approved, the task moves to Closed Complete.
 -   If the task is rejected, the task moves to Closed Rejected.
 
-## Related
-
-- [[fso-overview|Financial Services]]

@@ -20,11 +20,11 @@ To add course items to the catalog.
 
 Role required: admin
 
-[[create-learning-library|Create a learning library]]. For more information, see [Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-ctg.md)
+Create a learning library. For more information, see [Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-ctg.md)
 
 ## Procedure
 
-1.  Navigate to **[[exploring-learning-exp|Learning]]** &gt; **Content** &gt; **Learning Library**.
+1.  Navigate to **Learning** &gt; **Content** &gt; **Learning Library**.
 
 2.  Select the learning library that you want to add course items to.
 
@@ -35,7 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Create a learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-ln-ctg.md)
 
-## Related
-
-- [[create-learning-library|Create a learning library]]
-- [[exploring-learning-exp|Learning]]

@@ -14,11 +14,11 @@ breadcrumb: [Translation Management System configurations, Localization Framewor
 
 # Create a custom translation management system
 
-Configure [[localization-framework-landing|Localization Framework]] with a third-party translation management system of your choice to localize an artifact.
+Configure Localization Framework with a third-party translation management system of your choice to localize an artifact.
 
 ## Before you begin
 
-Roles required: [[ia-localization-il|localization]]\_admin and flow\_designer
+Roles required: localization\_admin and flow\_designer
 
 Ensure that the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\) is activated.
 
@@ -26,7 +26,7 @@ Ensure that the Localization Framework Installer plugin \(com.glide.localization
 
 1.  Navigate to **All** &gt; **Localization Framework** &gt; **TMS Configuration**.
 
-    **Note:** By default, RWS, and XTM [[tms-configuration|translation management system configurations]] are available.
+    **Note:** By default, RWS, and XTM translation management system configurations are available.
 
 2.  Click **New**.
 
@@ -54,7 +54,7 @@ Request translation subflow
 
 </td><td>
 
-IntegrationHub subflow that interacts with the third-party translation management system to [[language-picker-ui|request translations]].
+IntegrationHub subflow that interacts with the third-party translation management system to request translations.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Enable auto retrieval
 
 </td><td>
 
-Option to retrieve the translated content automatically.When selected, the translations are retrieved as per the [[c_ScheduledJobs|scheduled jobs]] which run daily.
+Option to retrieve the translated content automatically.When selected, the translations are retrieved as per the scheduled jobs which run daily.
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
@@ -94,10 +94,3 @@ Option to retrieve the translated content automatically.When selected, the trans
 
 **Parent Topic:**[Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[tms-configuration|Translation Management System configurations]]
-- [[language-picker-ui|Request translations]]
-- [[c_ScheduledJobs|Scheduled jobs]]

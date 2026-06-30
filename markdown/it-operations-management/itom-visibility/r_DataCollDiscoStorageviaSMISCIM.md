@@ -14,7 +14,7 @@ breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibili
 
 # Storage Discovery via SMI-S and CIM
 
-[[r-discovery|Discovery]] can explore storage devices that contain a Storage Management Initiative Specification \(SMI-S\) provider that is a specialized Common Information Model \(CIM\) server.
+Discovery can explore storage devices that contain a Storage Management Initiative Specification \(SMI-S\) provider that is a specialized Common Information Model \(CIM\) server.
 
 To see the current list of vendors and products conforming to SMI-S as tested by SNIA, see the [SNIA website](https://www.snia.org/ctp/conforming_providers).
 
@@ -28,7 +28,7 @@ Discovery collects information about storage area networks \(SAN\) and network-a
 -   Fabrics, including endpoints, zoning, and switches
 -   Dependencies between storage sub-components
 
-**Note:** For more information on [[c_Storage|storage discovery]] and using the CIM Query tool for troubleshooting, see the knowledge article [KB0782305](https://support.servicenow.com/kb_view.do?sysparm_article=KB0782305).
+**Note:** For more information on storage discovery and using the CIM Query tool for troubleshooting, see the knowledge article [KB0782305](https://support.servicenow.com/kb_view.do?sysparm_article=KB0782305).
 
 ## Requirements
 
@@ -121,7 +121,3 @@ Discovery identifies and classifies information about storage devices.
 
 **Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_Storage|Storage discovery]]

@@ -18,7 +18,7 @@ Provides guidance for initial engagement for both new or seasoned customers and 
 
 ## Foundations deliverables
 
-Based on your [[impact-landing-page|Impact]] package, the deliverable outputs may vary:
+Based on your Impact package, the deliverable outputs may vary:
 
 ✓ = Common standardized feature set.
 
@@ -26,16 +26,11 @@ Based on your [[impact-landing-page|Impact]] package, the deliverable outputs ma
 
 |Impact deliverable|Description|Guided|Advanced|Total|
 |------------------|-----------|:----:|:------:|:---:|
-|[[getting-started-with-impact|Get started with Impact]]|Kicks off the onboarding experience and evaluates the current state of the targeted areas for analysis for your ServiceNow Platform.|✓|\[Omitted image "dark-green-checks.png"\] Alt text: Green check mark icon|\[Omitted image "dark-green-checks.png"\] Alt text: Green check mark icon|
-|[[customer-impact-plan|Customer Impact plan]]|Contains best practices and recommendations based on your organizational goals and ServiceNow product mix curated by your Customer Success Manager.|✓|✓|✓|
+|[Get started with Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/getting-started-with-impact.md)|Kicks off the onboarding experience and evaluates the current state of the targeted areas for analysis for your ServiceNow Platform.|✓|\[Omitted image "dark-green-checks.png"\] Alt text: Green check mark icon|\[Omitted image "dark-green-checks.png"\] Alt text: Green check mark icon|
+|[Customer Impact plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/customer-impact-plan.md)|Contains best practices and recommendations based on your organizational goals and ServiceNow product mix curated by your Customer Success Manager.|✓|✓|✓|
 |[Product Adoption Roadmaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/impact-par.md)|View a recommended implementation sequence for your capabilities.|✓|✓|✓|
 |[Value management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/value-library/impact-in-platform-business-outcomes.md)|Identify your high-level goals and tie them to measurable outcomes and success metrics that helps illustrate value over time.|✓|✓|✓|
 |[Capabilities maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-product-adoption-roadmap/capabilities-map.md)|See the applications, or capabilities, at your disposal for achieving your objectives.​|✓|✓|✓|
 
        
 
-## Related
-
-- [[getting-started-with-impact|Getting Started with Impact]]
-- [[customer-impact-plan|Customer Impact Plan]]
-- [[impact-landing-page|Impact]]

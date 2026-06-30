@@ -24,7 +24,7 @@ In this example, a policy \(code POL\) named `IT Off-Boarding Policy`, with revi
 
 `POL-IT Off-Boarding Policy-1.0.docx`
 
-To define a new name format, navigate to **[[c_ManagedDocuments|Managed Documents]]** &gt; **Administration** &gt; **Name Formats** and click **New**.
+To define a new name format, navigate to **Managed Documents** &gt; **Administration** &gt; **Name Formats** and click **New**.
 
 |Field|Description|
 |-----|-----------|
@@ -46,6 +46,3 @@ The following name formats are defined in the base system.
 
 **Parent Topic:**[Defining Document Parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

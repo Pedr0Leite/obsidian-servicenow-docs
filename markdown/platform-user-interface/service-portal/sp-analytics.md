@@ -14,7 +14,7 @@ breadcrumb: [Analytics and Reporting Solutions for Service Portal, Analyzing por
 
 # Usage Insights for Service Portal
 
-The Usage Insights application provides views for monitoring usage analytics of your [[c_ServicePortal|Service Portal]] applications. Visualize metrics and interactions to better understand the Service Portal user experience and identify how to improve it.
+The Usage Insights application provides views for monitoring usage analytics of your Service Portal applications. Visualize metrics and interactions to better understand the Service Portal user experience and identify how to improve it.
 
 \[Omitted video\] Description: Video showing how to navigate and use Usage Insights
 
@@ -44,9 +44,9 @@ Track Usage Insights for Service Portal to monitor key performance indicators wi
 -   **[Activate the privacy notice for unauthenticated users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/activate-privacy-notice.md)**  
 If you enabled unauthenticated user tracking in your portal, you may be required by law to notify unauthenticated users that you are tracking their usage for analysis. You can display a legal notice by activating the Privacy Notice announcement.
 -   **[Service Portal events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics-events.md)**  
-View [[sp-analytics-events|Service Portal events]] to get insight into how a portal is being used in your organization.
+View Service Portal events to get insight into how a portal is being used in your organization.
 -   **[Usage Insights related properties for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics-properties.md)**  
-Use system properties to [[configure-onboarding-modals|configure]] Usage Insights for Service Portal.
+Use system properties to configure Usage Insights for Service Portal.
 
 **Parent Topic:**[Analytics and Reporting Solutions for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-user-experience-analytics-content-pack.md)
 
@@ -55,8 +55,3 @@ Use system properties to [[configure-onboarding-modals|configure]] Usage Insight
 
 [Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/user-exp-analytics-landing.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[sp-analytics-events|Service Portal events]]
-- [[configure-onboarding-modals|Configure]]

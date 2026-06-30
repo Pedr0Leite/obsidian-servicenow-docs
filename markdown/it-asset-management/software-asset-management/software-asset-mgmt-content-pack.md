@@ -24,20 +24,20 @@ Use the Performance Analytics widgets on the dashboard to visualize data over ti
 
 For unlimited access to all features of this Platform Analytics Solution, purchase a Performance Analytics subscription. For more information, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md).
 
-The Performance Analytics - Content Pack - [[c_SoftwareAssetMgmt|Software Asset Management]] classic is enabled automatically when ServiceNow activates Software Asset Professional on your instance.
+The Performance Analytics - Content Pack - Software Asset Management classic is enabled automatically when ServiceNow activates Software Asset Professional on your instance.
 
 ## Domain separation and 'Run As' user
 
 In some solutions, System Administrator is the **Run As** user for data collection jobs in the Platform Analytics Solutions. In other solutions, the **Run As** user for data collection jobs is left blank. Verify that the **Run As** user exists on the instance, and that this user has the appropriate level of access. An inappropriate **Run As** user can cause errors or limit the data that is collected. This setting only has an effect if domain separation is enabled.
 
 -   **[Software Asset Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDashSAA.md)**  
-View true-up costs and license, compliance, and removal summaries trend charts on the [[c_SAMDashSAA|Software Asset Analytics dashboard]] integrated with Performance Analytics.
+View true-up costs and license, compliance, and removal summaries trend charts on the Software Asset Analytics dashboard integrated with Performance Analytics.
 -   **[Software Asset Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDashboard.md)**  
-View true-up costs, optimization results, and compliance trend charts on the [[c_SAMDashboard|Software Asset Management dashboard]].
+View true-up costs, optimization results, and compliance trend charts on the Software Asset Management dashboard.
 -   **[Normalization and Content Service dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-normalization-dash.md)**  
-View normalization trend charts on the [[sam-normalization-dash|Normalization and Content Service dashboard]] integrated with Performance Analytics.
+View normalization trend charts on the Normalization and Content Service dashboard integrated with Performance Analytics.
 -   **[Engineering License Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/engineering-overview-dashboard.md)**  
-Monitor and gain insights into your engineering applications license position and usage by viewing product usage reports in the [[engineering-overview-dashboard|Engineering License Overview dashboard]].
+Monitor and gain insights into your engineering applications license position and usage by viewing product usage reports in the Engineering License Overview dashboard.
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
@@ -46,10 +46,3 @@ Monitor and gain insights into your engineering applications license position an
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_SAMDashSAA|Software Asset Analytics dashboard]]
-- [[c_SAMDashboard|Software Asset Management dashboard]]
-- [[sam-normalization-dash|Normalization and Content Service dashboard]]
-- [[engineering-overview-dashboard|Engineering License Overview dashboard]]

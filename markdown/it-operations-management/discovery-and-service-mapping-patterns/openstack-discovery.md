@@ -14,7 +14,7 @@ breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM
 
 # OpenStack resource discovery
 
-The ServiceNow [[r-discovery|Discovery]] application uses OpenStack resource discovery patterns to find OpenStack resources through REST API calls. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses OpenStack resource discovery patterns to find OpenStack resources through REST API calls. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery uses OpenStack resource discovery patterns to run horizontal discovery.
 
@@ -49,7 +49,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create an automatic discovery schedule for OpenStack service accounts—for private cloud only**
 
-    Create an automatic [[serverless-discovery|serverless discovery]] schedule for OpenStack service accounts using the OpenStack - Discover Service Accounts pattern. For more information, see the [Auto Cloud discovery schedule for Open stack \[KB1638685\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1638685) article in the Now Support Knowledge Base.
+    Create an automatic serverless discovery schedule for OpenStack service accounts using the OpenStack - Discover Service Accounts pattern. For more information, see the [Auto Cloud discovery schedule for Open stack \[KB1638685\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1638685) article in the Now Support Knowledge Base.
 
 -   **\(Optional\) Populate Service Account and Logical Datacenter fields in cloud CIs**
 
@@ -457,7 +457,7 @@ The discovered data includes the OpenStack Hypervisor View \[cmdb\_ci\_openstack
 |State \[state\]|The value of **state** field.|
 |Version \[version\]|The value of **hypervisor\_version** field.|
 
-The [[dependency-views-map|Dependency Views map]] shows all discovered OpenStack resources in your organization that are available through REST API calls and the relationships between them.
+The Dependency Views map shows all discovered OpenStack resources in your organization that are available through REST API calls and the relationships between them.
 
 \[Omitted image "openstack-network-dependency.PNG"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -502,9 +502,3 @@ The relationships listed in the following table are created to support OpenStack
 
 **Parent Topic:**[Available cloud discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns-cloud.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[dependency-views-map|Dependency Views map]]

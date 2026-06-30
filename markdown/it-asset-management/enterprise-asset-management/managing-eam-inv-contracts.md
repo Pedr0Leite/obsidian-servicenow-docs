@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Managing enterprise asset inventory and contracts
 
-Create and manage your enterprise asset inventory and [[c_Contracts|contracts]].
+Create and manage your enterprise asset inventory and contracts.
 
 ## Overview of managing enterprise inventory and contracts
 
@@ -34,7 +34,7 @@ Resources
 
 </th></tr></thead><tbody><tr><td>
 
-Create and view [[c_Stockrooms|stockrooms]]
+Create and view stockrooms
 
 </td><td>
 
@@ -59,7 +59,7 @@ Manage asset picking within your stockroom
 
 </td></tr><tr><td>
 
-[[audit-eam-assetinventory|Audit enterprise asset inventory]]
+Audit enterprise asset inventory
 
 </td><td>
 
@@ -84,7 +84,7 @@ Create a disposal or a transfer order
 
 </td></tr><tr><td>
 
-[[loaner-asset-request|Request a loaner asset]]
+Request a loaner asset
 
 </td><td>
 
@@ -120,7 +120,7 @@ Manage recalled enterprise assets
 
 </td></tr><tr><td>
 
-[[close-enteprise-reclamation-request|Close an enterprise asset reclamation request]]
+Close an enterprise asset reclamation request
 
 </td><td>
 
@@ -169,17 +169,8 @@ Manage expiring contracts
 </td></tr></tbody>
 </table>-   [Create a stockroom and assign assets to the stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eamstockroom.md)
 -   [Create a custom stock rule to automatically resupply a stockroom with an asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eamstockrules.md)
--   [[create-a-transfer-order|Create a transfer order]] to transfer assets from one location to the other.
--   [[create-disposal-order|Create a disposal order]] for assets that have reached the end of their life or are no longer functional.
+-   Create a transfer order to transfer assets from one location to the other.
+-   Create a disposal order for assets that have reached the end of their life or are no longer functional.
 
 Create stockrooms to assign assets to the stockroom.
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_Stockrooms|Stockrooms]]
-- [[audit-eam-assetinventory|Audit enterprise asset inventory]]
-- [[loaner-asset-request|Request a loaner asset]]
-- [[close-enteprise-reclamation-request|Close an enterprise asset reclamation request]]
-- [[create-a-transfer-order|Create a transfer order]]
-- [[create-disposal-order|Create a disposal order]]

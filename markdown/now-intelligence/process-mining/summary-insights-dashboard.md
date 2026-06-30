@@ -14,7 +14,7 @@ breadcrumb: [Details page, Workspace, Explore, Process Mining, Platform Analytic
 
 # Summary and insights page
 
-The Summary and insights page enables you to view opportunities for optimizing your process. Access the page from a [[process-mining|Process Mining]] project.
+The Summary and insights page enables you to view opportunities for optimizing your process. Access the page from a Process Mining project.
 
 You can view the Process overview dashboard where you see some initial information about your mined data. This is showcased in two graphs:
 
@@ -65,11 +65,7 @@ You can view the following details:
 
 ## Integration with Performance Analytics dashboards
 
-[[c_PAWebServiceIntegrations|Integrate Performance Analytics]] dashboards to include the KPIs and visualizations you want to see. Using the dashboard builder, you can create your own dashboards with custom widgets/KPIs specifically for your project. These dashboards can be linked at the project or process configuration level.
+Integrate Performance Analytics dashboards to include the KPIs and visualizations you want to see. Using the dashboard builder, you can create your own dashboards with custom widgets/KPIs specifically for your project. These dashboards can be linked at the project or process configuration level.
 
 **Parent Topic:**[Process details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-view-screen.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[c_PAWebServiceIntegrations|Integrate Performance Analytics]]

@@ -16,7 +16,7 @@ breadcrumb: [Assigning tasks using Dynamic Scheduling, Scheduling and dispatchin
 
 With Field Service Management Access Hours Management, you can schedule work order tasks only during the explicitly defined access hours.
 
-Field Service Management Access Hours Management enables you to schedule work order tasks based on the access hours defined in the task. For example, if the access hours mentioned for a work order task are 8 a.m. to 12 p.m., the system takes into account those times while assigning an agent to work on the task. The Access hour feature is enabled for [[dynamic-scheduling|dynamic scheduling]]. However, administrators or dispatchers can also manually assign work order tasks.
+Field Service Management Access Hours Management enables you to schedule work order tasks based on the access hours defined in the task. For example, if the access hours mentioned for a work order task are 8 a.m. to 12 p.m., the system takes into account those times while assigning an agent to work on the task. The Access hour feature is enabled for dynamic scheduling. However, administrators or dispatchers can also manually assign work order tasks.
 
 **Related topics**  
 
@@ -25,6 +25,3 @@ Field Service Management Access Hours Management enables you to schedule work or
 
 [Assigning work order task with defined access hours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/assign-wot-access-hour.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

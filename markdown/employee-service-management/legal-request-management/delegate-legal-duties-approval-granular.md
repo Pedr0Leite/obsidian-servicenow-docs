@@ -18,11 +18,11 @@ Delegate specific legal duties relating to your assigned legal requests, legal m
 
 ## Before you begin
 
--   [[granular-delegation|Granular Delegation]] plugin \(com.glide.granular\_service\_delegation\) must be activated.
+-   Granular Delegation plugin \(com.glide.granular\_service\_delegation\) must be activated.
 -   In the Legal Counsel Workspace settings, the **My Delegate** workspace list must be configured as follows:
     -   The **My Delegate** workspace list on the Granular Delegate \[sys\_granular\_delegate\] table must be active.
     -   The **My Delegate** workspace list on the Delegate \[sys\_user\_delegate\] table must be inactive.
--   For the new experience [[legal-counsel-center-landing|Legal Counsel Center]] Workspace, open **&lt;instance&gt;/sys\_ux\_list\_list.do?sysparm\_query=titleLIKEMy%20Delegates**.
+-   For the new experience Legal Counsel Center Workspace, open **&lt;instance&gt;/sys\_ux\_list\_list.do?sysparm\_query=titleLIKEMy%20Delegates**.
 
     The **My Delegate** UX list must be configured as follows:
 
@@ -34,7 +34,7 @@ Role required: legal\_fulfiller
 
 ## About this task
 
-You can use the granular delegation to delegate only specific requests such as [[privacy-assessment-requests|Privacy Assessment requests]]. A delegation rule can be set on the Legal Request \[sn\_lg\_ops\_request\] table with the condition as **\[Category\] \[is\] \[Privacy\]**.
+You can use the granular delegation to delegate only specific requests such as Privacy Assessment requests. A delegation rule can be set on the Legal Request \[sn\_lg\_ops\_request\] table with the condition as **\[Category\] \[is\] \[Privacy\]**.
 
 ## Procedure
 
@@ -103,8 +103,3 @@ Setting the granular delegation has the following effects during the specified p
 
 **Parent Topic:**[Delegation of legal duties and approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-services-delegation.md)
 
-## Related
-
-- [[granular-delegation|Granular Delegation]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[privacy-assessment-requests|Privacy assessment requests]]

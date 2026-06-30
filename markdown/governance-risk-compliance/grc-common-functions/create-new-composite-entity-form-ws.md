@@ -14,7 +14,7 @@ breadcrumb: [Create a composite entity, Composite entity, Explore entities, Comm
 
 # Create new composite entity form
 
-Use the Create New Entity form to [[create-composite-entity-ws|create a composite entity]] by combining two or more entities from different [[entity-class-in-risk-ws|entity classes]] using the Composite Entity Management application.
+Use the Create New Entity form to create a composite entity by combining two or more entities from different entity classes using the Composite Entity Management application.
 
 See the following table for a description of the field values.
 
@@ -52,7 +52,7 @@ Class
 
 </td><td>
 
-Option to select the composite [[entity-class|entity class]] for which you want to create a composite entity. For more information on how to create a composite entity class, see [Create an entity class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-class-ws.md).
+Option to select the composite entity class for which you want to create a composite entity. For more information on how to create a composite entity class, see [Create an entity class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-class-ws.md).
 
 </td></tr><tr><td>
 
@@ -129,8 +129,3 @@ Functional domain of the composite entity.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a composite entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-composite-entity-ws.md)
 
-## Related
-
-- [[create-composite-entity-ws|Create a composite entity]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-class|entity class]]

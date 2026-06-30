@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Services Kiosk, Workplace Service Delivery, Em
 
 # Components installed with Workplace Services Kiosk
 
-Several types of components are installed with activation of the [[workplace-services-kiosk|Workplace Services Kiosk]] plugin, including tables, user roles, and business rules.
+Several types of components are installed with activation of the Workplace Services Kiosk plugin, including tables, user roles, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -82,7 +82,7 @@ Kiosk Status\[sn\_wsd\_kiosk\_last\_alive\]
 
 </td><td>
 
-Stores information about the status of kiosk devices such as the date and time of the last [[activity-lxp|activity]] on the kioskand the status of the camera permission.
+Stores information about the status of kiosk devices such as the date and time of the last activity on the kioskand the status of the camera permission.
 
 </td></tr></tbody>
 </table>## Properties
@@ -94,7 +94,3 @@ Stores information about the status of kiosk devices such as the date and time o
 
 **Parent Topic:**[Workplace Services Kiosk reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-reference.md)
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[activity-lxp|Activity]]

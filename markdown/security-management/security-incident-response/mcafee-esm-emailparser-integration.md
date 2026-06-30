@@ -14,8 +14,5 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # McAfee ESM - Email Parser integration
 
-The ESM - Email Parser integration is supported by an email parser that consumes [[tisc-email-notifications|email notifications]] from ESM to create security incidents.
+The ESM - Email Parser integration is supported by an email parser that consumes email notifications from ESM to create security incidents.
 
-## Related
-
-- [[tisc-email-notifications|Email Notifications]]

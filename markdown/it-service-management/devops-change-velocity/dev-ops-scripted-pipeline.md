@@ -50,7 +50,7 @@ Each root-level stage configured in the Jenkinsfile is discovered as a separate 
 
 -   `snDevOpsSecurityResult`
 
-    Configures security scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to [[devops-landing-page-new|DevOps Change Velocity]].
+    Configures security scans on any stage of the pipeline and the scan details are retrieved from the corresponding stage to DevOps Change Velocity.
 
 
 You can specify the Jenkins server configuration in any of these steps by passing the `configurationName` attribute in your pipeline. If the configuration name is not specified in any step, the default configuration will be used in that step. Passing an incorrect configuration name will result in the step to fail unless the **Ignore ServiceNow DevOps errors** option is selected while configuring the Jenkins plugin.
@@ -140,6 +140,3 @@ stage('UAT test') {
 
 ```
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

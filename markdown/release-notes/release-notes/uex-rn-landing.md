@@ -12,21 +12,14 @@ reading_time_minutes: 1
 
 The Unified Employee Experience has new and updated applications and features in the Australia release.
 
--   **[[employee-center-rn|Employee Center release notes]]**  
+-   **[Employee Center release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/employee-center-rn.md)**  
 The ServiceNow® Employee Center application is a standard multi-department, dynamic employee portal for unified service delivery. Employee Center was enhanced and updated in the Australia release.
--   **[[ec-pro-rn|Employee Center Pro release notes]]**  
+-   **[Employee Center Pro release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/ec-pro-rn.md)**  
 The ServiceNow® Employee Center Pro application provides a central hub for departmental services with unified system access and actionable content experiences. Employee Center Pro was enhanced and updated in the Australia release.
--   **[[employee-slate-rn|Employee Slate release notes]]**  
+-   **[Employee Slate release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/employee-slate-rn.md)**  
 Employee Slate is a new AI-first employee experience that boosts employee productivity, powered by Moveworks or Now Assist.
--   **[[now-assist-for-employee-center-pro-rn|Now Assist for Employee Center Pro release notes]]**  
+-   **[Now Assist for Employee Center Pro release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-for-employee-center-pro-rn.md)**  
 The ServiceNow® Now Assist for Employee Center Pro application offers the portal experience with all the employee communications and engagement tools. Now Assist for Employee Center Pro is a new application in the Australia release.
 
-**Parent Topic:**[[employee-service-management-rn-landing|Employee Service Management release notes]]
+**Parent Topic:**[Employee Service Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/employee-service-management-rn-landing.md)
 
-## Related
-
-- [[employee-center-rn|Employee Center release notes]]
-- [[ec-pro-rn|Employee Center Pro release notes]]
-- [[employee-slate-rn|Employee Slate release notes]]
-- [[now-assist-for-employee-center-pro-rn|Now Assist for Employee Center Pro release notes]]
-- [[employee-service-management-rn-landing|Employee Service Management release notes]]

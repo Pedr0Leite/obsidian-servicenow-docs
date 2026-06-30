@@ -14,7 +14,7 @@ breadcrumb: [Multi-instance Management, Get started, Administer the ServiceNow A
 
 Certain ServiceNow applications have the ability to provide data visibility across instances within a customer’s account.
 
-Data visibility is protected by a trust configuration per instance, per application. You can configure the data sharing for production and non-production instances for the applicable applications by navigating to **All** &gt; **[[data-sync-landing-page|Multi-Instance Management]]** &gt; **Trust Configuration**.
+Data visibility is protected by a trust configuration per instance, per application. You can configure the data sharing for production and non-production instances for the applicable applications by navigating to **All** &gt; **Multi-Instance Management** &gt; **Trust Configuration**.
 
 **Note:**
 
@@ -28,11 +28,11 @@ The following are some examples for data sharing restrictions between instances.
 
 ## Logged in to Prod1
 
-In the following example, you’re logged in to Prod1. Prod1 has granted access to the instance Prod2 for the application [[subscription-management-landing-page-v2|Subscription Management]], as indicated by the `True` value in the **Grant access** column.
+In the following example, you’re logged in to Prod1. Prod1 has granted access to the instance Prod2 for the application Subscription Management, as indicated by the `True` value in the **Grant access** column.
 
 Prod2 hasn’t granted access to Prod1, as indicated by the `False` value in the **Is granting access** column.
 
-\[Omitted image "eg-1.png"\] Alt text: The [[clone-configurations-tab|configurations]] in the MIF table.
+\[Omitted image "eg-1.png"\] Alt text: The configurations in the MIF table.
 
 To revoke access for the Subscription Management app from Prod1 to Prod2, update the value in the **Grant access** column to `False` while logged in to Prod1.
 
@@ -62,8 +62,3 @@ In the following example, you’re logged in to Sub-prod3. Sub-prod4 has granted
 
 \[Omitted image "eg-4.png"\] Alt text: The configurations in the MIF table.
 
-## Related
-
-- [[data-sync-landing-page|Multi-instance Management]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[clone-configurations-tab|Configurations]]

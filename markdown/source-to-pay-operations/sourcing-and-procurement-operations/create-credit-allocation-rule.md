@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Create a credit allocation rule
 
-Assign an amount of credit that an employee shopper can use in [[shopping-hub-overview|Shopping Hub]], by creating a condition-based allocation rule.
+Assign an amount of credit that an employee shopper can use in Shopping Hub, by creating a condition-based allocation rule.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ Use the related list of the credit allocation rule form to view the employee cre
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

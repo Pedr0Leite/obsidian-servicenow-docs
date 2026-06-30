@@ -12,7 +12,7 @@ breadcrumb: [Machine learning solutions for IT Service Management, IT Service Ma
 
 # Predictive Intelligence for Incident Management
 
-Use your instance records to build specific solutions for [[c_IncidentManagement|Incident Management]].
+Use your instance records to build specific solutions for Incident Management.
 
 ## Solution definitions
 
@@ -88,13 +88,13 @@ Similarity
 
 </td><td>
 
-Recommends similar [[process-misingle|active major incidents]] which the current incident can be linked to.
+Recommends similar active major incidents which the current incident can be linked to.
 
- Recommends similar incidents to [[propose-major-incident-sow|propose a major incident]].
+ Recommends similar incidents to propose a major incident.
 
 </td></tr><tr><td>
 
-Similar Incidents \([[major-incident-workbench|Major Incident Workbench]]\)
+Similar Incidents \(Major Incident Workbench\)
 
 </td><td>
 
@@ -224,12 +224,5 @@ If your instance is running on the Kingston release and you are upgrading to the
 
 You can manage prediction drift by retraining, modifying, or creating new solutions to reflect changes in your business conditions. Test and modify your business rule over time to ensure it works as desired across multiple consumption points and user Personas.
 
-**Parent Topic:**[[machine-learning-itsm|Machine learning solutions for IT Service Management]]
+**Parent Topic:**[Machine learning solutions for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/machine-learning-itsm.md)
 
-## Related
-
-- [[machine-learning-itsm|Machine learning solutions for IT Service Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[process-misingle|Active major incidents]]
-- [[propose-major-incident-sow|Propose a major incident]]
-- [[major-incident-workbench|Major incident workbench]]

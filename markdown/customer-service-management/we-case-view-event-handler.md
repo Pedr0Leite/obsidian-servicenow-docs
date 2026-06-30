@@ -18,7 +18,7 @@ A component triggers an event when a certain condition is met or on user interac
 |-------------|-----------|-------|
 |**SN\_EMBEDX\_CASE\_VIEW\#COMPONENT\_READY**|This event is dispatched when a component is ready and usable.|None|
 |**SN\_EMBEDX\_CASE\_VIEW\#COMPONENT\_ERROR**|This event is dispatched when a property validation or internal error occurs.|`errorMessage, errorType`|
-|**SN\_EMBEDX\_CASE\_VIEW\#CASE\_COMMENT\_ADDED**|This event is dispatched when a comment is added in the [[csm-config-ws-activity-stream|activity stream]].|None|
+|**SN\_EMBEDX\_CASE\_VIEW\#CASE\_COMMENT\_ADDED**|This event is dispatched when a comment is added in the activity stream.|None|
 |**SN\_EMBEDX\_CASE\_VIEW\#RELATED\_RECORD\_SELECTED**|This event is dispatched when a record of related list is selected.|`table, record_sys_id, reference_table, reference_record_sys_id`|
 |Additional events|
 |**SN\_EMBEDX\_CASE\_VIEW\#ACTIVITY\_SELECTED**|This event is dispatched when an activity is selected.|`playbookContextId, stageContextId, activityContextId`|
@@ -32,6 +32,3 @@ A component triggers an event when a certain condition is met or on user interac
 |**SN\_EMBEDX\_CASE\_VIEW\#USER\_INTERACTION**|This event is dispatched when the user interacts with any element on playbook.|`playbookContextId, parentTable, parentRecord, stageName, stageTitle, stageState, activityTitle, activityContextId, associatedRecord, associatedTable`|
 |**SN\_EMBEDX\_CASE\_VIEW\#FILTER\_SELECTED**|This event is dispatched when a filter is selected.|`playbookContextId, value`|
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

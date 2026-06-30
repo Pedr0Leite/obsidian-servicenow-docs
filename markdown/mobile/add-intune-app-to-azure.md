@@ -51,8 +51,5 @@ Role required: Microsoft Intune admin
 10. Review the information you entered and when you are finished, click **Create**.
 
 
-**Parent Topic:**[[intune-mdm|Intune mobile device management \(MDM\)]]
+**Parent Topic:**[Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/intune-mdm.md)
 
-## Related
-
-- [[intune-mdm|Intune mobile device management \(MDM\)]]

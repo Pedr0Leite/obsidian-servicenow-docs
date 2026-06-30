@@ -18,7 +18,7 @@ As a strategy planner, you can create and manage strategic plans for your organi
 
 ## Before you begin
 
-[[install-alignment-planner-workspace|Install Strategic Planning]] on your ServiceNow instance.
+Install Strategic Planning on your ServiceNow instance.
 
 Role required: sn\_gf.strategy\_planner
 
@@ -39,6 +39,3 @@ Role required: sn\_gf.strategy\_planner
 
 From the Values related list, capture values for your organization such as Integrity, Commitment to customers, and Trust.
 
-## Related
-
-- [[install-alignment-planner-workspace|Install Strategic Planning]]

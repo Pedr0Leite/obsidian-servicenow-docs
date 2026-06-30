@@ -14,7 +14,7 @@ breadcrumb: [Localizing Virtual Agent conversations, Localization options for Vi
 
 # Authoring Virtual Agent conversations for localization
 
-Use localization methods in your [[virtual-agent-scripts|Virtual Agent scripts]] to ensure that the content can be translated. Localization methods are designed to show the original text when no translation is found. These methods can be applied to your code before you have created translations.
+Use localization methods in your Virtual Agent scripts to ensure that the content can be translated. Localization methods are designed to show the original text when no translation is found. These methods can be applied to your code before you have created translations.
 
 ## Localization method for message content
 
@@ -46,6 +46,3 @@ The second example uses the `gs.getMessageLang` method. The text is the same as 
 
 **Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[virtual-agent-scripts|Virtual Agent scripts]]

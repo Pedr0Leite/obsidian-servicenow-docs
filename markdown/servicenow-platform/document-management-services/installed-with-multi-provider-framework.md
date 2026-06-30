@@ -14,7 +14,7 @@ breadcrumb: [Reference Multi Provider Document Services framework, Multi Provide
 
 # Installed with Multi Provider Document Services Framework
 
-Several types of components are installed with activation of the [[mp-document-services-framework-landing|Multi Provider Document Services Framework]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Multi Provider Document Services Framework plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -85,7 +85,7 @@ Multi Provider Document Activity
 
 </td><td>
 
-Logs the activity for document and [[document-mgt-versions|document versions]] table and can be used to troubleshoot the actions taken on documents and versions.
+Logs the activity for document and document versions table and can be used to troubleshoot the actions taken on documents and versions.
 
 </td></tr><tr><td>
 
@@ -140,7 +140,3 @@ Role/group mapping to permissions provided from the mp\_permission table for eac
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference Multi Provider Document Services framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/reference-mp-doc-framework.md)
 
-## Related
-
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]
-- [[document-mgt-versions|Document versions]]

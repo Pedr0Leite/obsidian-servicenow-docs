@@ -19,7 +19,7 @@ Use an AI agent custom skill to have it perform a task passed to it, such as com
 
 There may be AI agents installed with the Now Assist application that are not used in use cases. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-An AI agent performs a task that you pass to it inside the [[vad-ai-connector-utility|AI Connector utility]] in [[virtual-agent-landing-page|Virtual Agent]] Designer. For more information on the AI Connector utility, see [AI Connector utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-ai-connector-utility.md).
+An AI agent performs a task that you pass to it inside the AI Connector utility in Virtual Agent Designer. For more information on the AI Connector utility, see [AI Connector utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-ai-connector-utility.md).
 
 For example, you can use the AI Agent in the AI Connector utility to get all data on a Knowledge Base article. The AI Agent provides the article if it is available or notifies you if it can't find it. The agent also provides data on the consolidation itself by way of its output mappings.
 
@@ -49,7 +49,3 @@ When the AI agent performs its job, it generates the full plan showing the input
 
 **Parent Topic:**[Managing AI agents in Assistant Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/managing-use-cases-ai-agents.md)
 
-## Related
-
-- [[vad-ai-connector-utility|AI Connector utility]]
-- [[virtual-agent-landing-page|Virtual Agent]]

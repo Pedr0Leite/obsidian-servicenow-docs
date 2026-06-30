@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # SAP products discovery
 
-[[itom-visibility-landing-page|ITOM Visibility]] can discover SAP applications, SAP HANA Database, and SAP HANA DB Catalog. Discovering some of these resources may require updating to the latest version of the [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+ITOM Visibility can discover SAP applications, SAP HANA Database, and SAP HANA DB Catalog. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -420,8 +420,3 @@ MID Server cannot access this URL configured in the entry point of the service i
 2.  Check that the discovery log contains the following message: "Debug run railed: Test step failed. GROOVE\_CODE\_FAILURE: Missing applicative credentials for CI type &lt;name of the CI type&gt;".
 3.  Verify that you defined applicative credentials for the relevant CI according as described in [Map application services containing SAP applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/sap-discovery.md).
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

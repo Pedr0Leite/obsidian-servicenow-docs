@@ -24,7 +24,7 @@ Role required: sn\_privacy.admin
 
 1.  Navigate to **All** &gt; **System definition** &gt; **Plugins**.
 
-2.  Find the **[[entity-based-access|Entity Based Access]] Configurations** plugin by using the filter criteria and search bar.
+2.  Find the **Entity Based Access Configurations** plugin by using the filter criteria and search bar.
 
 3.  Select a version from the list and select **Install**.
 
@@ -43,6 +43,3 @@ Based on your selected settings, the entity-based access properties are configur
 
 **Parent Topic:**[Configuring access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-access-control-by-legal-entity.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]

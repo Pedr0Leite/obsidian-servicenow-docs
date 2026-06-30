@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Duplicate existing records with Mobile App Builder
 
-Using [[mab-concept|Mobile App Builder]] \(MAB\) you can duplicate existing records with their associated child records. You can then use these duplicated records as a template from which you can create new screens and cards.
+Using Mobile App Builder \(MAB\) you can duplicate existing records with their associated child records. You can then use these duplicated records as a template from which you can create new screens and cards.
 
 ## Before you begin
 
@@ -22,8 +22,8 @@ Role required: admin or delegated developer
 
 The ability to duplicate records is available for the following record types:
 
--   [[list-screen|List screen]]
--   [[parameter-input-screen|Input form screen]]
+-   List screen
+-   Input form screen
 -   Launcher screen
 -   Function
 -   Cards and card templates
@@ -36,7 +36,7 @@ The ability to duplicate records is available for the following record types:
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** or the **Cards &amp; icons** category for the type of record that you want to duplicate, and then search for the screen or card you want to use as a template.
 
@@ -68,9 +68,4 @@ The ability to duplicate records is available for the following record types:
 
     For example, you might need to change the table from where the data is retrieved, so you might need to edit the Data Item for a duplicated screen.
 
-## Related
 
-- [[mab-concept|Mobile App Builder]]
-- [[list-screen|List screen]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -12,7 +12,7 @@ breadcrumb: [Using the Mobile App Builder, Mobile App Builder, Building tools, B
 
 # Delete records in Mobile App Builder
 
-Use the **Delete** button to delete records in the [[mab-concept|Mobile App Builder]]. This button exists in the same location throughout the tool. When deleting a record, all child records are removed from the configuration tree, but they are not deleted from the database.
+Use the **Delete** button to delete records in the Mobile App Builder. This button exists in the same location throughout the tool. When deleting a record, all child records are removed from the configuration tree, but they are not deleted from the database.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ For more information about the delegated developer role, see [Delegated developm
 
 After confirming the delete action, the record is no longer displayed but it still remains in the database.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]

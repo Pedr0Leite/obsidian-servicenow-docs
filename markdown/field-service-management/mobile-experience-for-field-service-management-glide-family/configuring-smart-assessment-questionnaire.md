@@ -37,7 +37,7 @@ The steps for setting up Smart Assessment are:
 2.  [Enable Smart Assessment Questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/enable-smart-assessment-questionnaire.md)
 3.  Either configure a smart assessment questionnaire by migrating a survey-based questionnaire or from new smart assessment templates.
 
-    -   To migrate from [[survey-based-questionnaires|survey-based questionnaires]] to [[smart-assessment-questionnaire|Smart Assessment questionnaires]] see, [Migrating to Smart Assessment from survey-based questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configuring-sa-by-migrating.md).
+    -   To migrate from survey-based questionnaires to Smart Assessment questionnaires see, [Migrating to Smart Assessment from survey-based questionnaire](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configuring-sa-by-migrating.md).
 
     -   To configure Smart Assessment questionnaires from new Smart Assessment templates see, [Configuring Smart Assessment from new templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configure-sa-from-new-template.md).
 
@@ -45,10 +45,5 @@ The steps for setting up Smart Assessment are:
 **Related topics**  
 
 
-[[smart-assessment-components|Smart Assessment components]]
+[Smart Assessment components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/smart-assessment-components.md)
 
-## Related
-
-- [[smart-assessment-components|Smart Assessment components]]
-- [[survey-based-questionnaires|Survey-based questionnaires]]
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]

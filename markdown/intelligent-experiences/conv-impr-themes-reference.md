@@ -15,15 +15,10 @@ breadcrumb: [Conversation Improvement Themes, Enable AI experiences]
 
 The following topics provide additional information about the features and properties installed with Conversation Improvement Themes.
 
--   **[[conv-impr-themes-components|Components installed with Conversation Improvement Themes]]**  
+-   **[Components installed with Conversation Improvement Themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-components.md)**  
 Several types of components are part of Conversation Improvement Themes, including scheduled jobs, tables, system properties, and flows.
--   **[[conv-impr-themes-ts|Troubleshooting for Conversation Improvement Themes]]**  
+-   **[Troubleshooting for Conversation Improvement Themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-ts.md)**  
 Troubleshooting steps for errors that might occur in Conversation Improvement Themes.
 
-**Parent Topic:**[[conv-impr-themes-landing|Conversation Improvement Themes]]
+**Parent Topic:**[Conversation Improvement Themes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conv-impr-themes-landing.md)
 
-## Related
-
-- [[conv-impr-themes-components|Components installed with Conversation Improvement Themes]]
-- [[conv-impr-themes-ts|Troubleshooting for Conversation Improvement Themes]]
-- [[conv-impr-themes-landing|Conversation Improvement Themes]]

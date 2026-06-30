@@ -14,7 +14,7 @@ breadcrumb: [Universal Request, Employee Service Management]
 
 # Using Universal Request
 
-Use [[ur-landing-limitedaccess|Universal Request]] to enable cross-departmental reporting from the time of an initial employee request through the final issue resolution. You can map various departmental ticket states and [[activity-lxp|activity]] streams into a unified and simplified experience for your employees and agents.
+Use Universal Request to enable cross-departmental reporting from the time of an initial employee request through the final issue resolution. You can map various departmental ticket states and activity streams into a unified and simplified experience for your employees and agents.
 
 To learn more about Universal Request, see [Exploring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/explore-universal-request.md).
 
@@ -33,7 +33,7 @@ Enable agents to effectively collaborate on associated tickets using the Sidebar
 -   **[Universal Request sensitive information security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/universal-request-security.md)**  
 Universal Request security capability provides flexibility to protect information by controlling the view and edit authorization.
 -   **[Transfer a primary ticket](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/route-primarytask-to-ur.md)**  
-You can [[route-primarytask-to-ur|transfer a primary ticket]] back to Universal Request, service set \(department\), or service either with or without resolution.
+You can transfer a primary ticket back to Universal Request, service set \(department\), or service either with or without resolution.
 -   **[Search similar and closed Universal Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-search-similar-closed-ur.md)**  
 When creating a Universal Request, search for closed universal requests that are similar using Predictive Intelligence.
 -   **[Translate a Universal Request field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-use-dynamic-translation.md)**  
@@ -41,8 +41,3 @@ Use dynamic translation to translate Universal Request fields to another languag
 
 **Parent Topic:**[Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-landing-limitedaccess.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[activity-lxp|Activity]]
-- [[route-primarytask-to-ur|Transfer a primary ticket]]

@@ -14,7 +14,7 @@ breadcrumb: [Processing Events, Configuring Event Management, Event Management, 
 
 # View events
 
-[[c_EM|Event Management]] tracks individual events to manage external systems. These events are notifications from monitoring tools indicating occurrences of interest, like log messages, warnings, or errors. Event Management gathers events from external sources and stores them in the Event \[em\_event\] table, offering a list of raw incoming events.
+Event Management tracks individual events to manage external systems. These events are notifications from monitoring tools indicating occurrences of interest, like log messages, warnings, or errors. Event Management gathers events from external sources and stores them in the Event \[em\_event\] table, offering a list of raw incoming events.
 
 ## Before you begin
 
@@ -200,7 +200,7 @@ A matching event rule or event field mapping
 </td></tr></tbody>
 </table>2.  To review a single event, click the required row in the **Time of event** column.
 
-3.  To review the [[create-event-rules|event rules]] that processed the event, in the **Related Links** section click **Check process of event**.
+3.  To review the event rules that processed the event, in the **Related Links** section click **Check process of event**.
 
     For further ways to see which event rules were applied to the event, you can display the `Event rule` and `Processing Notes` fields in the Events list.
 
@@ -243,7 +243,4 @@ Information related to the binding to CI type and the event rules that were appl
 
         The fields of the new Event rule are populated with data from the event. You can use the event information, for example, when composing fields for alerts.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

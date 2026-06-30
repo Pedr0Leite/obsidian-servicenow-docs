@@ -14,7 +14,7 @@ breadcrumb: [Now Assist Data Kit, Enable AI experiences]
 
 # Configuring Now Assist Data Kit
 
-Configure system properties, plugins, and roles to enable all features of [[now-assist-data-kit-landing|Now Assist Data Kit]].
+Configure system properties, plugins, and roles to enable all features of Now Assist Data Kit.
 
 ## System properties
 
@@ -34,9 +34,5 @@ The sensitive data scan feature requires the following plugins to be active on y
 
 ## Role configuration
 
-After installing Now Assist Data Kit, assign roles to users who need access. The platform `admin` role alone does not grant access to the application. All users, including administrators, require at least `sn_data_kit.analyst` to access the Now Assist Data Kit [[now-assist-center-home-page|Home page]]. For full role descriptions and special considerations, see .
+After installing Now Assist Data Kit, assign roles to users who need access. The platform `admin` role alone does not grant access to the application. All users, including administrators, require at least `sn_data_kit.analyst` to access the Now Assist Data Kit Home page. For full role descriptions and special considerations, see .
 
-## Related
-
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[now-assist-center-home-page|Home page]]

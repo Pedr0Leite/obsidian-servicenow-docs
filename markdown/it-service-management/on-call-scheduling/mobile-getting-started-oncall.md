@@ -14,7 +14,7 @@ breadcrumb: [Mobile experience for On-Call Scheduling, On-Call Scheduling, IT Se
 
 # Getting started with the On-Call Scheduling mobile app
 
-Use the ServiceNow Agent mobile app to access the [[c_OnCallScheduling|On-Call Scheduling]] mobile application. Then log in to an instance and work on your schedules.
+Use the ServiceNow Agent mobile app to access the On-Call Scheduling mobile application. Then log in to an instance and work on your schedules.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Tap the QR icon \(Scan a QR code\), and then scan the QR code that was provided 
 
 **Parent Topic:**[Mobile experience for On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/mobile-experience-ocs.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

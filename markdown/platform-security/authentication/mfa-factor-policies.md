@@ -14,9 +14,9 @@ breadcrumb: [MFA verification methods, Configuring MFA, Multi-factor authenticat
 
 # Multi-Factor Authentication factor policies
 
-Use the MFA factor [[ca-policies|policies]] to specify the types of [[authentication-factors|authentication factors]] that you would like to permit for your instance.
+Use the MFA factor policies to specify the types of authentication factors that you would like to permit for your instance.
 
-MFA factor policies are a critical component of an organization's security posture, enabling you to enforce additional verification steps beyond passwords. These policies define the [[c_Authentication|authentication]] methods that [[users|users]] must employ to access your organization's resources, providing a flexible and customizable approach to authentication.
+MFA factor policies are a critical component of an organization's security posture, enabling you to enforce additional verification steps beyond passwords. These policies define the authentication methods that users must employ to access your organization's resources, providing a flexible and customizable approach to authentication.
 
 Implementing MFA factor policies is essential for enhancing the security of your organization's systems and data. These policies provide an additional layer of protection against cyberthreats, making it more difficult for attackers to gain unauthorized access.
 
@@ -28,7 +28,7 @@ Following are the MFA factor policies available in ServiceNow that enables you t
 
 -   FIDO2
 -   SMS
--   [[email|Email]]
+-   Email
 
 To get the most out of MFA factor policies, you need to understand how to configure and manage them effectively. This includes defining the authentication methods, specifying policy inputs and conditions, and configuring policy enforcement \(MFA Context\). By understanding and implementing MFA factor policies, you can significantly improve the security and integrity of your organization's systems and data.
 
@@ -43,10 +43,3 @@ To get the most out of MFA factor policies, you need to understand how to config
 
 [Email as an MFA factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-with-email.md)
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[authentication-factors|Authentication factors]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[email|Email]]

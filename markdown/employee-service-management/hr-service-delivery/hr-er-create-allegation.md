@@ -24,7 +24,7 @@ Role required: sn\_hr\_er.case\_writer
 
 1.  Navigate to the **Allegations** tab in Core UI.
 
-    1.  Navigate to **All** &gt; **[[hr-case-employee-relations|Employee Relations]]** &gt; **Cases**.
+    1.  Navigate to **All** &gt; **Employee Relations** &gt; **Cases**.
 
     2.  Select an ER case.
 
@@ -32,9 +32,9 @@ Role required: sn\_hr\_er.case\_writer
 
     4.  Select **New**.
 
-2.  Navigate to the **Allegations** tab in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+2.  Navigate to the **Allegations** tab in Agent Workspace for HR Case Management.
 
-    1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+    1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
     2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -101,8 +101,4 @@ Details about the allegation.
 
     If an Involved Parties record of type **Subject of Allegation** exists, the Subject of allegation field in the allegation record is auto-populated, provided that only one subject of allegation exists.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

@@ -14,7 +14,7 @@ breadcrumb: [Activate Service Level Management - SLA Timer Config API, Service L
 
 # Installed with Service Level Management - SLA Timer Config API
 
-The [[service-level-mgmt-landing-page|Service Level Management]] - [[sla-timer|SLA Timer]] Config API \(com.sn\_slm\_timer\) plugin installs the admin role.
+The Service Level Management - SLA Timer Config API \(com.sn\_slm\_timer\) plugin installs the admin role.
 
 ## Roles installed
 
@@ -24,7 +24,3 @@ The [[service-level-mgmt-landing-page|Service Level Management]] - [[sla-timer|S
 
 **Parent Topic:**[Activate Service Level Management - SLA Timer Config API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/activate-sla-timer-config-api.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[sla-timer|SLA timer]]

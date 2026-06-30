@@ -18,7 +18,7 @@ The MITRE attack and defend technique graph provides security analysts with an i
 
 ## MITRE attack and defend technique graph Overview
 
-The MITRE attack and defend technique graph enables analysts to [[threat-intelligence-security-center-overview|explore]] [[stix-relationships|relationships]] between security threats and defensive measures, helping them understand the complete attack and defense landscape for an incident. The graph uses a hierarchical structure with the SIR record as the root node, branching out to display attack techniques, defend techniques, and their associated artifacts.
+The MITRE attack and defend technique graph enables analysts to explore relationships between security threats and defensive measures, helping them understand the complete attack and defense landscape for an incident. The graph uses a hierarchical structure with the SIR record as the root node, branching out to display attack techniques, defend techniques, and their associated artifacts.
 
 Analysts can interact with nodes to view details, establish associations, and manage the visibility of information based on their investigation needs. The visualization only appears when MITRE attack and defend technique data has been ingested into the system. Without ingested data, the MITRE attack and defend technique tab remains hidden from the SIR workspace.
 
@@ -26,7 +26,7 @@ Analysts can interact with nodes to view details, establish associations, and ma
 
 The graph consists of the following node types arranged in a hierarchical structure:
 
--   SIR node \(root\): The central node representing the [[sir-landing-page|Security Incident Response]] record.
+-   SIR node \(root\): The central node representing the Security Incident Response record.
 -   Attack technique nodes: First or second-level nodes representing specific attack methods.
 -   Defend technique nodes: First or second-level nodes representing defensive measures.
 -   Artifact nodes: Second or third level nodes representing specific artifacts related to defend techniques.
@@ -111,8 +111,3 @@ The graph displays relationships between nodes using connecting lines \(edges\):
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[stix-relationships|Relationships]]
-- [[sir-landing-page|Security Incident Response]]

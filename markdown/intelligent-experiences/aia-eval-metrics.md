@@ -24,7 +24,7 @@ After you've reviewed your evaluation results, you can archive your evaluation o
 
 You can export the evaluation results as a report. The report is formatted as a .csv file that includes the individual sys\_ids of the execution records and the metric scores for each.
 
-For more information on AI agent usage and other analytics, you can review the [[ai-agent-dashboard|AI Agent Analytics dashboard]] in the [[ai-agent-studio|AI Agent Studio]].
+For more information on AI agent usage and other analytics, you can review the [AI Agent Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-dashboard.md) in the AI Agent Studio.
 
 ## Evaluation results overview
 
@@ -250,7 +250,3 @@ One or more of input key completeness, input value completeness, or input format
 </td></tr></tbody>
 </table>**Note:** The values of the sub-metrics are aggregated using an AND operator. If any one value is 0, then the entire tool calling records metric score will be 0.
 
-## Related
-
-- [[ai-agent-dashboard|AI Agent Analytics dashboard]]
-- [[ai-agent-studio|AI Agent Studio]]

@@ -14,7 +14,7 @@ breadcrumb: [Using External Legal Service Center, External Legal Service Center,
 
 # Edit requests in External Legal Service Center
 
-Edit requests that are saved as draft in [[lsd-ext-portal-landing-page|External Legal Service Center]].
+Edit requests that are saved as draft in External Legal Service Center.
 
 ## Before you begin
 
@@ -85,6 +85,4 @@ Steps
 
 10. Select **Submit** if you want to submit the request.
 
-## Related
 
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

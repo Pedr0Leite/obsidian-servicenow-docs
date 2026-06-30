@@ -66,12 +66,8 @@ To run the AI agents autonomously, you must first [duplicate the agentic workflo
 -   Activate the trigger to invoke the agentic workflow automatically. The triggers for each agentic workflow must be unique. If you prefer to invoke it manually, activating the trigger isn’t necessary.
 -   Azure OpenAI is recommended for Now Assist for Operational Sustainability agentic workflows.
 
--   **[[generate-carbon-calculcations-for-metrics|Generate Scope 3 carbon calculations]]**  
+-   **[Generate Scope 3 carbon calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/generate-carbon-calculcations-for-metrics.md)**  
 Use the AI-driven workflow to create calculated metric definitions \(CMD\) for Scope 3 carbon emissions. The workflow employs conversational agents and integrated tools to guide methodology selection, map metrics, and simplify sustainability reporting with accuracy and efficiency.
 
-**Parent Topic:**[[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/now-assist-for-esg.md)
 
-## Related
-
-- [[generate-carbon-calculcations-for-metrics|Generate Scope 3 carbon calculations]]
-- [[now-assist-for-esg|Now Assist for Operational Sustainability \(formerly ESG\)]]

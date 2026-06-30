@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-All changes go through the same server-side business [[rules_101|rules]], validation [[scripts|scripts]], and access controls that apply on the standard form. Every create, update, or delete action requires explicit confirmation before the agent commits.
+All changes go through the same server-side business rules, validation scripts, and access controls that apply on the standard form. Every create, update, or delete action requires explicit confirmation before the agent commits.
 
 ## Procedure
 
@@ -71,7 +71,7 @@ Examples by field or entity:
 -   **Close date:** "Push the close date for &lt;company name&gt; to end of next month." Relative expressions such as "Q3 end" or "next Friday" are supported. Close dates can't be set in the past.
 -   **Deal size:** "Set OPTY100001 amount to 350K." Formatted inputs such as $350,000 and 0.35M are supported.
 -   **Work notes:** "Add a note to &lt;company name&gt;: 'Budget confirmed, decision in 30 days.'" Notes are appended and never overwritten.
--   **Custom or OOB [[fields|fields]]:** "Set next steps on &lt;company name&gt;: 'Send revised proposal by Friday'" or "Update loss reasons on OPTY100001."
+-   **Custom or OOB fields:** "Set next steps on &lt;company name&gt;: 'Send revised proposal by Friday'" or "Update loss reasons on OPTY100001."
 -   **Multi-field \(up to five fields\):** "Update &lt;company name&gt;: stage to Negotiation, close date to June 30, forecast to Commit."
 -   **Owner:** "Reassign the &lt;company name&gt; deal to Sarah Johnson."
 -   **Contact role:** "Change Jane Smith's role on &lt;company name&gt; from Influencer to Decision Maker."
@@ -127,8 +127,4 @@ Supported operations:
 
     The agent performs the operation and returns the result. For create operations, it returns the record name and a link. For delete operations, it confirms the record was removed. If you don't have the required access, the agent returns a permission denied message.
 
-## Related
 
-- [[rules_101|Rules]]
-- [[scripts|Scripts]]
-- [[fields|Fields]]

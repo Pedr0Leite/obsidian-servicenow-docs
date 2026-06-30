@@ -26,7 +26,7 @@ As dispatcher or a Field Service Manager, you can listen to conference recording
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Work Order** &gt; **All Work Order Tasks**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Work Order** &gt; **All Work Order Tasks**.
 
 2.  Open a work order task from the list.
 
@@ -49,6 +49,3 @@ As dispatcher or a Field Service Manager, you can listen to conference recording
 
 **Parent Topic:**[Configure Field Service Management Virtual Conferencing Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/configure-virtual-conference-fsm.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

@@ -12,13 +12,13 @@ breadcrumb: [Continuous Authentication \(CA\), Zero Trust Access, Access Managem
 
 # Activating Continuous Authentication
 
-For activating the Continuous [[c_Authentication|Authentication]] feature on your instance, install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin.
+For activating the Continuous Authentication feature on your instance, install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin.
 
 ## Before you begin
 
 Role required: admin
 
-This plugin enables security administrators to define security [[ca-policies|policies]] that require step-up authentication \(MFA\) or re-authentication \(SSO\) within a logged-in session, based on the data the user is accessing and the activities they are performing.
+This plugin enables security administrators to define security policies that require step-up authentication \(MFA\) or re-authentication \(SSO\) within a logged-in session, based on the data the user is accessing and the activities they are performing.
 
 You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) for opting CA which requires a license.
 
@@ -26,9 +26,9 @@ You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the **Zero Trust - Continuous Authentication** \(`com.snc.zero_trust_continuous_authentication`\) plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -40,18 +40,9 @@ You must install the **Zero Trust - Continuous Authentication** \(`com.snc.zero_
 **Related topics**  
 
 
-[[pre-work-ca|Pre-work for Continuous Authentication]]
+[Pre-work for Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/pre-work-ca.md)
 
-[[configure-ca|Configuring Continuous Authentication]]
+[Configuring Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-ca.md)
 
-[[high-assurance-ca|High Assurance session with Continuous Authentication]]
+[High Assurance session with Continuous Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/high-assurance-ca.md)
 
-## Related
-
-- [[pre-work-ca|Pre-work for Continuous Authentication]]
-- [[configure-ca|Configuring Continuous Authentication]]
-- [[high-assurance-ca|High Assurance session with Continuous Authentication]]
-- [[c_Authentication|Authentication]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

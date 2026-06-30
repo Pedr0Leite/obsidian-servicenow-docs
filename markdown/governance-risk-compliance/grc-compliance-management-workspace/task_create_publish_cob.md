@@ -14,7 +14,7 @@ breadcrumb: [Control objective workflow, Use, GRC Compliance workspace, Policy a
 
 # Create and publish a control objective
 
-[[t_CreateAPolicyStatement-2|Create a control objective]] and move it through the workflow states from Draft to Published.
+Create a control objective and move it through the workflow states from Draft to Published.
 
 ## Before you begin
 
@@ -60,6 +60,4 @@ When the control objective workflow is enabled, a new control objective must go 
 
     The record moves to Published state, the active flag is set to true, and the control objective becomes available to downstream objects. Core content fields \(name, description, supplemental guidance, category, classification, and type\) are locked on the published record.
 
-## Related
 
-- [[t_CreateAPolicyStatement-2|Create a control objective]]

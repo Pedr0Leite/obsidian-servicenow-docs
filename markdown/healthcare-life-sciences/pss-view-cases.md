@@ -12,7 +12,7 @@ breadcrumb: [Manage enrollment requests, Patient Support Services, Healthcare an
 
 # View an enrollment case in Workspace
 
-View an enrollment case in Workspace to complete patient enrollment activities for a [[pss-app|patient support services]] program.
+View an enrollment case in Workspace to complete patient enrollment activities for a patient support services program.
 
 ## Before you begin
 
@@ -63,9 +63,5 @@ For more information on tabs available for a customer service case, see [Custome
 
 ## What to do next
 
-You can select the Patient information tab in Workspace to view patient details. For more information, see [[pss-viewing-patient-info|Viewing patient information for an enrollment case in Workspace]].
+You can select the Patient information tab in Workspace to view patient details. For more information, see [Viewing patient information for an enrollment case in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-viewing-patient-info.md).
 
-## Related
-
-- [[pss-viewing-patient-info|Viewing patient information for an enrollment case in Workspace]]
-- [[pss-app|Patient Support Services]]

@@ -14,17 +14,13 @@ breadcrumb: [Universal Request for HR Service Delivery, Integration of HR Servic
 
 # Creating a universal request from an HR case
 
-Create a [[ur-landing-limitedaccess|universal request]] for every HR case that is created, using any channel. Extend the unified ticket experience that Universal Request provides for all the HR cases, irrespective of the channels they are created from.
+Create a universal request for every HR case that is created, using any channel. Extend the unified ticket experience that Universal Request provides for all the HR cases, irrespective of the channels they are created from.
 
 ## Activate a business rule
 
-To auto-create a universal request from an HR case, you must activate the **[[ur-create-universal-request-record|Create Universal Request]] for HR case** business rule.
+To auto-create a universal request from an HR case, you must activate the **Create Universal Request for HR case** business rule.
 
 ## Configure field mappings
 
 To auto-create a universal request from an HR case and copy the primary details from an HR case to a universal request, [Configure field mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-mappings-hrur.md).
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-create-universal-request-record|Create Universal Request]]

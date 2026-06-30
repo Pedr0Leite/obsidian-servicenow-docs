@@ -18,7 +18,7 @@ Resume an entitlement by creating an order on the CSM Configurable Workspace. By
 
 You can resume an entitlement when the associated root sold product is in Inactive, Cancelled, or Suspended state. For product inventory records, you can resume an entitlement when the associated product inventory record is in Suspended state.
 
-**Note:** You can only [[Resume|resume]] entitlements associated with an account. You cannot resume entitlements associated to customer contract lines.
+**Note:** You can only resume entitlements associated with an account. You cannot resume entitlements associated to customer contract lines.
 
 Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
@@ -51,6 +51,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent
 
 The entitlement is back in Active or Draft state, based on the start date of the entitlement.
 
-## Related
-
-- [[Resume|Resume]]

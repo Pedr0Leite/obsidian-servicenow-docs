@@ -21,11 +21,11 @@ ServiceNow® Service Exchange connects multiple ServiceNow instances to provide 
 
 </td><td>
 
-[Configure for providers\[Omitted image "bus-optimize-manage.svg"\] Alt text:Learn how to install and [[service-bridge-v2-configure-provider|configure Service Exchange for providers]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-provider.md)
+[Configure for providers\[Omitted image "bus-optimize-manage.svg"\] Alt text:Learn how to install and configure Service Exchange for providers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-provider.md)
 
 </td><td>
 
-[Configure for consumers\[Omitted image "bus-sdlc.svg"\] Alt text:Learn how to install and [[service-bridge-v2-install|configure Service Exchange for consumers]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-install.md)
+[Configure for consumers\[Omitted image "bus-sdlc.svg"\] Alt text:Learn how to install and configure Service Exchange for consumers.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-install.md)
 
 </td></tr><tr><td>
 
@@ -37,7 +37,7 @@ ServiceNow® Service Exchange connects multiple ServiceNow instances to provide 
 
 </td><td>
 
-[Configure outbound FDS for providers\[Omitted image "bus-transaction.svg"\] Alt text:Configure outbound [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) settings for provider instances.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync.md)
+[Configure outbound FDS for providers\[Omitted image "bus-transaction.svg"\] Alt text:Configure outbound foundation data sync \(FDS\) settings for provider instances.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync.md)
 
 </td></tr><tr><td>
 
@@ -49,7 +49,7 @@ ServiceNow® Service Exchange connects multiple ServiceNow instances to provide 
 
 </td><td>
 
-[Service Exchange data model\[Omitted image "bus-database.svg"\] Alt text:Explore the tables and access control rights used in the [[service-bridge-v2-data-model|Service Exchange data model]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-data-model.md)
+[Service Exchange data model\[Omitted image "bus-database.svg"\] Alt text:Explore the tables and access control rights used in the Service Exchange data model.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-data-model.md)
 
 </td></tr><tr><td>
 
@@ -74,9 +74,3 @@ ServiceNow® Service Exchange connects multiple ServiceNow instances to provide 
 -   View KB articles at [Service Exchange Knowledge Base.](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1509053)
 -   Access Service Exchange product page from [Service Exchange product](https://www.servicenow.com/products/service-bridge.html).
 
-## Related
-
-- [[service-bridge-v2-configure-provider|Configure Service Exchange for Providers]]
-- [[service-bridge-v2-install|Configure Service Exchange for Consumers]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[service-bridge-v2-data-model|Service Exchange data model]]

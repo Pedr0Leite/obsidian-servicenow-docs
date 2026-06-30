@@ -14,7 +14,7 @@ breadcrumb: [Improving search engine optimization for portals, Service Portal, C
 
 # Enable SEO for localized versions of a portal page
 
-Allow users to discover portal pages in their preferred language by adding **hreflang** [[c_Tags|tags]].
+Allow users to discover portal pages in their preferred language by adding **hreflang** tags.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Pages** and open a page record.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Pages** and open a page record.
 
     Ensure that **Public** is selected for the page. Pages that are not public are not indexed by external search engines.
 
@@ -56,7 +56,3 @@ For an example of inserting custom SEO tags into the knowledge article view page
 
 [Create and edit a page using the Service Portal Designer]()
 
-## Related
-
-- [[c_Tags|Tags]]
-- [[c_ServicePortal|Service Portal]]

@@ -15,7 +15,7 @@ breadcrumb: [Discovery for Microsoft Azure, Discovery for cloud environment, Dis
 
 # Create an Azure Discovery schedule in Discovery Admin Workspace
 
-Use the [[discovery-admin-workspace|Discovery Admin Workspace]] dashboard to create an Azure [[r-discovery|Discovery]] schedule.
+Use the Discovery Admin Workspace dashboard to create an Azure Discovery schedule.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Verify the following:
 -   The MID Server used for Cloud Discovery is configured with the Cloud Management capability.
 -   You have configured a service principal in the Azure Active Directory that has the necessary permissions so that the MID Server can access the cloud resources you plan to discover. For more information, see [Discovery for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-cloud-discovery.md).
 -   You have created suitable credentials in the ServiceNow AI Platform to connect with the service accounts on which you want to perform the discovery. For more information, see [Create Azure cloud credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-azure-cloud-credentials.md).
--   You're [[using-discovery|using Discovery]] Admin Workspace v1.11.0 or later.
+-   You're using Discovery Admin Workspace v1.11.0 or later.
 
 Role required: discovery\_admin
 
@@ -117,12 +117,7 @@ Add a new cloud account to your instance by entering a name and subscription ID 
     |**Run after series**|The schedule runs after another existing Discovery schedule completes, staggering or chaining them together. Selecting an existing schedule displays a relationship map of all the other associated schedules.|
     |**Set discovery time out**|If the schedule exceeds the maximum runtime, it's canceled. After toggling, configure the runtime threshold.|
     |**Enable event-driven discovery**|If Azure sends resource change events, the Configuration Management Database \(CMDB\) is updated without running the full discovery schedule. Only the affected resources are processed. For more information, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md).|
-    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a [[c_DiscoveryStatus|Discovery status]] is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
+    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a Discovery status is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
     |**Finish**|After being selected, all the information provided is validated. A Discovery schedule is created, and you're redirected to its entry in the Discovery Schedules \[discovery\_schedule\] table. You can edit the schedule information or run it by selecting **Discover Now**.|
 
-## Related
 
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

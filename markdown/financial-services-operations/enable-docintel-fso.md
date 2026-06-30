@@ -22,8 +22,8 @@ Role required: admin
 
 Enabling Document Intelligence for FSO requires the following plugins:
 
--   Financial Services Operations Core \(sn\_bom\): [[financial-services-operations-core-data-model|Financial Services Operations Core]]
--   [[fso-overview|Financial Services]] Document Processor \(sn\_doc\_processor\): [[integrating-with-document-processor|Integrating with Document Processor]]
+-   Financial Services Operations Core \(sn\_bom\): [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md)
+-   Financial Services Document Processor \(sn\_doc\_processor\): [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md)
 -   Document Intelligence \(sn\_docintel\): [Install Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-document-intelligence.md)
 -   Document Intelligence UIB Component \(com.sn\_docintel\_iframe\)
 
@@ -36,11 +36,5 @@ Enabling Document Intelligence for FSO requires the following plugins:
     **Note:** Applications and plugins may require additional licenses or need to be purchased from the ServiceNow Store.
 
 
-**Parent Topic:**[[integration-with-document-intelligence|Integrating with Document Intelligence]]
+**Parent Topic:**[Integrating with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[integration-with-document-intelligence|Integrating with Document Intelligence]]
-- [[fso-overview|Financial Services]]

@@ -23,25 +23,17 @@ The SFTP activity pack includes scoped activities for common file transfer tasks
 -   **[SFTP File Transfer workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SFTPWorkflow.md)**  
 The SFTP File Transfer activity pack includes a scoped workflow that uses multiple activities to manage files on SFTP servers.
 -   **[Copy File activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_CopyFileActivity.md)**  
-The [[r_CopyFileActivity|Copy File activity]] copies a file from an SFTP server \(source host\) to another SFTP server \(target host\).
+The Copy File activity copies a file from an SFTP server \(source host\) to another SFTP server \(target host\).
 -   **[Create Directory activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_CreateDirectoryActivity.md)**  
-The [[r_CreateDirectoryActivity|Create Directory activity]] creates a new directory on an SFTP server.
+The Create Directory activity creates a new directory on an SFTP server.
 -   **[Get File List activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_GetFileListActivity.md)**  
-The [[r_GetFileListActivity|Get File List activity]] returns a list of files from a given directory and its subdirectories on an SFTP server \(source host\).
+The Get File List activity returns a list of files from a given directory and its subdirectories on an SFTP server \(source host\).
 -   **[Remove File or Directory activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_RemoveFileOrDirectoryActivity.md)**  
-The [[r_RemoveFileOrDirectoryActivity|Remove File or Directory activity]] removes a file or a directory on an SFTP server, including subdirectories, when configured.
+The Remove File or Directory activity removes a file or a directory on an SFTP server, including subdirectories, when configured.
 -   **[Rename File or Directory activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_RenameFileOrDirectoryActivity.md)**  
-The [[r_RenameFileOrDirectoryActivity|Rename File or Directory activity]] renames a file or directory to a new name on an SFTP server.
+The Rename File or Directory activity renames a file or directory to a new name on an SFTP server.
 -   **[Set File Attributes activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SetFileAttributesActivity.md)**  
-The [[r_SetFileAttributesActivity|Set File Attributes activity]] sets common file attributes, such as timestamps, size, permissions, and UID/GID, for a file or directory on an SFTP server.
+The Set File Attributes activity sets common file attributes, such as timestamps, size, permissions, and UID/GID, for a file or directory on an SFTP server.
 
 **Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md)
 
-## Related
-
-- [[r_CopyFileActivity|Copy File activity]]
-- [[r_CreateDirectoryActivity|Create Directory activity]]
-- [[r_GetFileListActivity|Get File List activity]]
-- [[r_RemoveFileOrDirectoryActivity|Remove File or Directory activity]]
-- [[r_RenameFileOrDirectoryActivity|Rename File or Directory activity]]
-- [[r_SetFileAttributesActivity|Set File Attributes activity]]

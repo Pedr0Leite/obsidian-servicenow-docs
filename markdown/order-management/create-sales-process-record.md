@@ -28,7 +28,7 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -49,22 +49,14 @@ Role required: sales process manager \[sn\_l2c\_cockpit.sales\_process\_manager\
 
 ## What to do next
 
-Track and manage sales process using the sales process dashboard. For more information, see [[navigating-sales-process-dashboard|Navigating the sales process dashboard]] and [[monitor-track-sales-activities|Monitoring and tracking sales activities]].
+Track and manage sales process using the sales process dashboard. For more information, see [Navigating the sales process dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigating-sales-process-dashboard.md) and [Monitoring and tracking sales activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitor-track-sales-activities.md).
 
-**Parent Topic:**[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+**Parent Topic:**[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
 **Related topics**  
 
 
-[[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
+[Configuring Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-cash-process-management.md)
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-## Related
-
-- [[navigating-sales-process-dashboard|Navigating the sales process dashboard]]
-- [[monitor-track-sales-activities|Monitoring and tracking sales activities]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[configuring-lead-cash-process-management|Configuring Lead-to-Cash Process Management]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[fields|Fields]]

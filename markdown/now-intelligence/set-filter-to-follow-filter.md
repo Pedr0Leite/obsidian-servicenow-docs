@@ -20,17 +20,17 @@ Role required: admin
 
 ## About this task
 
-In most cases, a filter follows another filter either in a one-to-one relationship or in a one-to-many relationship. In the latter case, the filter source is a reference field. Anyone who can edit a dashboard can set up one such filter to follow another on that dashboard, in a direct connection. Users with the analytics\_filter\_admin role can also create such filters in the filter library. For more information, see the example in [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]].
+In most cases, a filter follows another filter either in a one-to-one relationship or in a one-to-many relationship. In the latter case, the filter source is a reference field. Anyone who can edit a dashboard can set up one such filter to follow another on that dashboard, in a direct connection. Users with the analytics\_filter\_admin role can also create such filters in the filter library. For more information, see the example in [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md).
 
 If the values on each filter can refer to multiple values on the other filter \(a many-to-many relationship\), you have to select a connecting table. This connecting table has a unique record for every possible reference between the two filters. The connecting tables between two tables are defined in the Collection \[sys\_collection\] and Many to Many Definition \[sys\_m2m\] tables. Only administrators can access these tables.
 
-Connection tables come predefined for any relevant tables included in the base system or in [[content-packs-in-form-analytics-published|Platform Analytics Solutions]]. However, if you want to use a custom table in a many-to-many relationship, you must define that relationship in the Many to Many Definition table. For more information, see .
+Connection tables come predefined for any relevant tables included in the base system or in Platform Analytics Solutions. However, if you want to use a custom table in a many-to-many relationship, you must define that relationship in the Many to Many Definition table. For more information, see .
 
 ## Procedure
 
 1.  Add at least two single or multiple select filters to the relevant dashboard.
 
-    For more information about adding filters to a dashboard, see [[select-workspace-filter-type|Create or add a filter on an inline dashboard]].
+    For more information about adding filters to a dashboard, see [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md).
 
 2.  Put the dashboard in Edit mode.
 
@@ -56,8 +56,4 @@ Connection tables come predefined for any relevant tables included in the base s
 
 6.  Save the dashboard and exit editing mode.
 
-## Related
 
-- [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]

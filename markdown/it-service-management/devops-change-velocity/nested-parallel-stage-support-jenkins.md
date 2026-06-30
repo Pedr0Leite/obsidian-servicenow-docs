@@ -20,7 +20,7 @@ Use nested and parallel stages in scripted Jenkins pipelines to speed up your pi
 
 You can use nested and parallel stages in scripted Jenkins pipelines to automate and speed up tasks that can be run in parallel. For example, you have a scripted Jenkins pipeline with nested and parallel stages for various test cases such as different quality checks for different operating systems and browsers.
 
-ServiceNow DevOps supports processing parallel and nested stages in Jenkins pipelines and displays the pipeline, in the [[dev-ops-pipeline-ui|DevOps pipeline UI]]. In effect, the ServiceNow DevOps pipeline UI renders or replicates the Jenkins pipeline UI in real time. From the **Pipeline Execution** view of the relevant pipeline, click the **Pipeline UI** related link to view the real-time state of the pipeline as it appears in Jenkins. The associated artifact details that are sourced from the build pipeline, Test Results, Software Quality Summary Results, and Change request details display on the pipeline UI.
+ServiceNow DevOps supports processing parallel and nested stages in Jenkins pipelines and displays the pipeline, in the DevOps pipeline UI. In effect, the ServiceNow DevOps pipeline UI renders or replicates the Jenkins pipeline UI in real time. From the **Pipeline Execution** view of the relevant pipeline, click the **Pipeline UI** related link to view the real-time state of the pipeline as it appears in Jenkins. The associated artifact details that are sourced from the build pipeline, Test Results, Software Quality Summary Results, and Change request details display on the pipeline UI.
 
 **Important:** Support for parallel and nested stages is restricted to scripted pipelines in Jenkins. Freestyle pipelines continue to appear in a sequential or serial manner in the DevOps pipeline UI, even if parallel and nested stages are part of freestyle pipelines in Jenkins.
 
@@ -98,6 +98,3 @@ If you are already using Jenkins with nested and parallel pipelines as your orch
 -   Upgrade during off-peak hours.
 -   Ensure that you do not have any pipeline executions that are currently in progress by ServiceNow DevOps. If pipeline executions are being processed, step executions might not be created as expected for the in-progress pipeline runs. Rerun the pipeline to create appropriate step executions.
 
-## Related
-
-- [[dev-ops-pipeline-ui|DevOps Pipeline UI]]

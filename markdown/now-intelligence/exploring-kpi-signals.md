@@ -12,7 +12,7 @@ breadcrumb: [KPI Signals, Platform Analytics experience, Platform Analytics]
 
 # Exploring KPI Signals
 
-KPI Signals notifies you when the behavior of a process changes significantly. This feature applies standard statistical Process Behavior Charts to [[c_Indicators|Performance Analytics indicators]].
+KPI Signals notifies you when the behavior of a process changes significantly. This feature applies standard statistical Process Behavior Charts to Performance Analytics indicators.
 
 ## KPI Signals overview
 
@@ -47,12 +47,12 @@ The following diagram shows the workflow for setting up KPI Signals for a Perfor
 
 ## Other exploration topics
 
--   **[[signal-no-signal-anti-signal|Signal, no signal, and anti-signal]]**  
+-   **[Signal, no signal, and anti-signal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/signal-no-signal-anti-signal.md)**  
 When KPI Signals detects abnormal variation in the scores of a KPI, it generates a signal. When KPI Signals does not detect abnormal variation for a significant amount of time, it generates an "anti-signal." The anti-signal lets you know that your workflow is under control.
--   **[[view-kpi-signals|View KPI Signals]]**  
-Access KPI Signals from the [[kpi-details|KPI Details]] page.
+-   **[View KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-signals.md)**  
+Access KPI Signals from the KPI Details page.
 
-**Parent Topic:**[[process-behavior-charts-for-kpis|KPI Signals]]
+**Parent Topic:**[KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-behavior-charts-for-kpis.md)
 
 **Related topics**  
 
@@ -63,10 +63,3 @@ Access KPI Signals from the [[kpi-details|KPI Details]] page.
 
 [KPI Signals roles]()
 
-## Related
-
-- [[signal-no-signal-anti-signal|Signal, no signal, and anti-signal]]
-- [[view-kpi-signals|View KPI Signals]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[kpi-details|KPI Details]]

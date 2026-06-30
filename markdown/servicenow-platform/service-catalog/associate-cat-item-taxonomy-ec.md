@@ -30,7 +30,7 @@ You can associate your existing or new catalog items with a taxonomy topic direc
 
 For more information about Unified taxonomy, see [Unified taxonomy for Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-taxonomy.md).
 
-To associate a catalog item from the [[service-catalog|Service Catalog]]:
+To associate a catalog item from the Service Catalog:
 
 ## Procedure
 
@@ -57,6 +57,3 @@ The catalog item is associated with the selected taxonomy topic and appears on t
 
 **Parent Topic:**[Service Catalog in Employee Center portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-in-ec.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

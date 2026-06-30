@@ -14,17 +14,17 @@ breadcrumb: [Use, Legal Hold Notification, Legal Service Delivery Practice Appli
 
 # Submit a Legal Hold Notification matter
 
-Create a [[lg-hold-notif-landing-page|Legal Hold Notification]] matter to initiate the process of preserving the data related to the legal hold when the legal hold is issued.
+Create a Legal Hold Notification matter to initiate the process of preserving the data related to the legal hold when the legal hold is issued.
 
 ## Before you begin
 
-If the [[legal-counsel-center-landing|Legal Counsel Center]] application hasn’t been previously installed, you must install it to start [[use-lg-hold-notif|using Legal Hold Notification]]. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/install-legal-counsel-center-workspace.md).
+If the Legal Counsel Center application hasn’t been previously installed, you must install it to start using Legal Hold Notification. For more information, see [Install Legal Counsel Center Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/install-legal-counsel-center-workspace.md).
 
 Role required: sn\_lg\_hold.legal\_hold\_fulfiller or sn\_lg\_ops.legal\_fulfiller
 
 ## Procedure
 
-1.  Access the [[lg-hold-notif-form|Legal Hold Notification matter intake form]] through either the [[employee-center-landing-page|Employee Center]] or the Legal Counsel Center.
+1.  Access the Legal Hold Notification matter intake form through either the Employee Center or the Legal Counsel Center.
 
 <table id="choicetable_gcx_sb4_qfc"><thead><tr><th align="left" id="d697512e96">
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d697512e105">
 
-**[[using-emp-center|Using Employee Center]] \(sn\_lg\_hold.legal\_hold\_fulfiller\)**
+**Using Employee Center \(sn\_lg\_hold.legal\_hold\_fulfiller\)**
 
 </td><td>
 
@@ -75,11 +75,3 @@ In the **Custodians** tab, the custodian details are added.
 
 **Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[use-lg-hold-notif|Using Legal Hold Notification]]
-- [[lg-hold-notif-form|Legal hold notification matter intake form]]
-- [[employee-center-landing-page|Employee Center]]
-- [[using-emp-center|Using Employee Center]]

@@ -22,7 +22,7 @@ Role required: Microsoft Azure admin
 
 ## About this task
 
-No need to create a separate Meeting Extensions bot as the Meeting Extensions app depends on the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] app. You can configure the existing Notify connector app/bot in the Microsoft Azure portal for Meeting Extensions to have a seamless conference call experience in Microsoft Teams.
+No need to create a separate Meeting Extensions bot as the Meeting Extensions app depends on the Notify connector for Microsoft Teams app. You can configure the existing Notify connector app/bot in the Microsoft Azure portal for Meeting Extensions to have a seamless conference call experience in Microsoft Teams.
 
 **Note:** Ensure that API permissions are configured for the Notify connector for Microsoft Teams app in the Microsoft Azure portal. For more information, see [Manage permissions and authenticate the Notify connector app/bot in Microsoft Azure portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-permissions-notify.md). You must update the following changes to the existing Notify connector app in the Microsoft Azure portal.
 
@@ -86,6 +86,3 @@ Select **Access tokens** and **ID tokens**
 
 **Parent Topic:**[Integrate Meeting Extensions self-configured app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-single-tenant.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

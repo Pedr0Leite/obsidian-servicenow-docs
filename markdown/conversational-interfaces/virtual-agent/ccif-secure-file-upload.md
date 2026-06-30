@@ -14,7 +14,7 @@ breadcrumb: [Supported features for custom chat integrations, Conversational cus
 
 # Set up trusted media domains for secure file upload
 
-[[virtual-agent-landing-page|Virtual Agent]] uses trusted media domains to check the URLs of attachment files before uploading them. If a URL is not from a trusted domain, Virtual Agent will not upload the attachment.
+Virtual Agent uses trusted media domains to check the URLs of attachment files before uploading them. If a URL is not from a trusted domain, Virtual Agent will not upload the attachment.
 
 ## Before you begin
 
@@ -106,6 +106,3 @@ Description for your channel identifier.
 
 **Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-features-custom-chat-integrations.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

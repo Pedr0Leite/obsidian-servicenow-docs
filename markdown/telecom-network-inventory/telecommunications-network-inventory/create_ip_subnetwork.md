@@ -14,7 +14,7 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Create IP subnetwork function
 
-The Create IP Subnetwork function enables you to [[create-an-ip-subnetwork-record|create an IP subnetwork record]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application based on the input that you receive when you instantiate an inventory.
+The Create IP Subnetwork function enables you to create an IP subnetwork record in the Telecommunications Network Inventory application based on the input that you receive when you instantiate an inventory.
 
 You can use this action as a flow designer action in the Telecommunications Network Inventory workflow. Here, either CIDR or, first IP and last IP, or first IP and total host are required inputs to create a subnetwork. If the parent IP pool is provided in input, then the function validates and ensures that the subnetwork that is being created is under the provided IP pool.
 
@@ -68,7 +68,3 @@ The following table lists the information about the function output.
 
 [Path Search function]()
 
-## Related
-
-- [[create-an-ip-subnetwork-record|Create an IP Subnetwork record]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

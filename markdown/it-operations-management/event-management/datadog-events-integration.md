@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Datadog platform events
 
-Integrate Datadog with [[c_EM|Event Management]] by adding a standard webhook in the Datadog console.
+Integrate Datadog with Event Management by adding a standard webhook in the Datadog console.
 
 ## What authentication is used
 
@@ -23,11 +23,7 @@ There are two methods of authentication:
 -   OAuth authentication: Provides enterprise-grade authentication to keep your enterprise environment safe. Authentication is performed using Datadog Monitor V1 or V2 access tokens. For more information, see [Integrate Datadog with OAuth authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/datadog-oauth-authentication.md).
 -   Basic webhook authentication: Provides a basic standard of authentication, without the need for Datadog Active Directory. This authentication can be especially useful for distributed small teams, such as SRE or DevOps teams. For more information, see [Integrate Datadog with basic authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/datadog-events-webhook.md).
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

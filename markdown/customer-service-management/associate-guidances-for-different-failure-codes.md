@@ -48,9 +48,9 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
         A guidance is an outcome of a decision tree.
 
-    3.  In the **Node name** field, enter `[[create-work-orders|Create a work order]]`.
+    3.  In the **Node name** field, enter `Create a work order`.
 
-    4.  In the **Guidance** field, select the [[osp-create-work-order|Create work order]] guidance.
+    4.  In the **Guidance** field, select the Create work order guidance.
 
     5.  In the **Set more field inputs to show to users** section, map inputs by selecting the Link input icon \(\[Omitted image "icon-link-input.png"\] Alt text: Link input icon\) next to the field and selecting a guidance input from the list.
 
@@ -77,7 +77,3 @@ Role required: admin, sn\_gd\_core.decision\_tree\_author
 
 \[Omitted image "ex-failure-code-guidances-result.png"\] Alt text: Failure code nodes displaying a process flowchart that involves asking for failure codes and branching into three distinct paths based on the code provided.
 
-## Related
-
-- [[create-work-orders|Create a work order]]
-- [[osp-create-work-order|Create work order]]

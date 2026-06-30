@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for Strategic Portfolio Management \(SPM\), Strategic Po
 
 # Exploring Now Assist for Strategic Portfolio Management \(SPM\)
 
-Use ServiceNow® Now Assist skills and AI agents in multiple SPM workspaces to transform [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) into a continuous value engine-embedding intelligence across every stage and to provide optimize resources and smarter investments resulting in delivering continuous value.
+Use ServiceNow® Now Assist skills and AI agents in multiple SPM workspaces to transform Strategic Portfolio Management \(SPM\) into a continuous value engine-embedding intelligence across every stage and to provide optimize resources and smarter investments resulting in delivering continuous value.
 
 ## Skills
 
@@ -39,7 +39,7 @@ The Now Assist for SPM application includes the generative AI skills and feature
 
 -   **[Quick story generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/generate-stories-quickly-for-eap-and-agile-2-0.md)**
 
-    As a product manager or agile team member, generate complete user stories directly from an epic using the Quick story generation skill, without lengthy conversations or manual authoring. Available in both [[agile-landing-page|Agile Development 2.0]] and EAP applications, this Now Assist feature removes the friction of story creation so your team can focus on delivery.
+    As a product manager or agile team member, generate complete user stories directly from an epic using the Quick story generation skill, without lengthy conversations or manual authoring. Available in both Agile Development 2.0 and EAP applications, this Now Assist feature removes the friction of story creation so your team can focus on delivery.
 
     To generate a story, open an epic and select **Generate Story** from the Stories related list. Enter one or two lines of context to guide Now Assist, then select **Generate**. Now Assist generates a story title, description, and acceptance criteria based on the epic and your input. Review and refine all fields inline before saving the story directly to the epic's related list.\[Omitted image "eap-na-quick-story-eap.png"\] Alt text: Stories related list of an epic in Enterprise Agile Planning, showing the Generate Story button.
 
@@ -55,13 +55,13 @@ The Now Assist for SPM application includes the generative AI skills and feature
 
     Generate insights for goals to gain predictive, actionable visibility into goal health using the Goal insights skill. The skill analyzes the goal, its targets, subgoals, and aligned work, then delivers concise, data‑driven insights—including AI forecasted status, confidence of achieving the goal, targets at risk, delayed or stalled aligned work and recommendations—helping goal owners and contributors proactively manage risks and improve goal outcomes. You can trigger the skill by selecting the **Goal insights** or **Show insights** on the grid view or goals' full details page respectively.
 
-    **Note:** When you [[generate-insights-for-goal-strategy|generate insights for a goal]], insights are also generated individually for each of its targets.
+    **Note:** When you generate insights for a goal, insights are also generated individually for each of its targets.
 
-    \[Omitted image "generate-goal-insights.gif"\] Alt text: Generate goal insights in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace using Goal insights skill.
+    \[Omitted image "generate-goal-insights.gif"\] Alt text: Generate goal insights in Strategic Planning Workspace using Goal insights skill.
 
 -   **[Summarize demands with the demand summarization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/demand-summarization-skill.md)**
 
-    Generate a concise, structured summary of any demand using the demand summarization Now Assist skill. The skill reviews the demand fields and related lists and helps create a clear summary of the demand. You can trigger the skill by selecting the **Summarize** button on the [[demand-form|demand form]].
+    Generate a concise, structured summary of any demand using the demand summarization Now Assist skill. The skill reviews the demand fields and related lists and helps create a clear summary of the demand. You can trigger the skill by selecting the **Summarize** button on the demand form.
 
     The generated summary is displayed in a summary card in the demand form.
 
@@ -91,7 +91,7 @@ The Now Assist for SPM application includes the generative AI skills and feature
 
 -   **[Refine records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/refine-text-with-write-planning-item-skill.md)**
 
-    Improve record quality by enabling AI assistance in the rich and long fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, [[t_CreateAProjectTask|Project tasks]], Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story [[form-field-information-for-dw|forms]]. You can enable text refinement with the **Elaborate** and **Shorten** options on the records to support portfolio, project, product, demand managers and agile team members in creating and editing records content more effectively.
+    Improve record quality by enabling AI assistance in the rich and long fields of Product idea, Demands, Epic, Projects, Capability, Features, Stories, Project tasks, Risks, Strategic priorities, Goals, Targets, Initiatives, Feedback, Milestones, and Story forms. You can enable text refinement with the **Elaborate** and **Shorten** options on the records to support portfolio, project, product, demand managers and agile team members in creating and editing records content more effectively.
 
     \[Omitted image "write-planning-items-skill-sp.png"\] Alt text: Refine text using Refine records skill.
 
@@ -107,7 +107,7 @@ The Now Assist for SPM application includes the generative AI skills and feature
 
 -   **[Project doc generation and insights, Planning Item doc generation and insights, or EAP doc generation and insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/summarize-documents-genai-skill-spw.md)**
 
-    Provides product managers with a concise and informative summary of the selected or complete text by using Now Assist in Docs. Product managers can summarize, elaborate, or shorten the selected or complete content on Docs to quickly understand the key information by using the Project doc generation and insights \([[project-workspace-landing-page|Project Workspace]]\), Planning item doc generation and insights \(Strategic Planning\), or EAP doc generation and insights \(Enterprise Agile Planning\) skill.
+    Provides product managers with a concise and informative summary of the selected or complete text by using Now Assist in Docs. Product managers can summarize, elaborate, or shorten the selected or complete content on Docs to quickly understand the key information by using the Project doc generation and insights \(Project Workspace\), Planning item doc generation and insights \(Strategic Planning\), or EAP doc generation and insights \(Enterprise Agile Planning\) skill.
 
     \[Omitted image "genai-docs-skill-nowassist.png"\] Alt text: Now Assist generated summary of text in Docs.
 
@@ -123,7 +123,7 @@ The Now Assist for SPM application includes the generative AI skills and feature
 
     -   Avoid searching through the list of catalog items to find the right item for demand creation.
     -   Answer contextual questions in the chat to auto-populate the relevant fields in the Demand form.
-    If Microsoft Teams and Mobile are enabled as a display location for Now Assist in Virtual Agent, users can use the conversational experience to [[t_CreatingDemands|create a demand]] in those applications too.
+    If Microsoft Teams and Mobile are enabled as a display location for Now Assist in Virtual Agent, users can use the conversational experience to create a demand in those applications too.
 
     **Note:** This skill is available within the Platform category of the Now Assist Admin console.
 
@@ -164,14 +164,3 @@ The ServiceNow AI agents use LLMs \(Large Language Models\) to process tasks, fr
 
 [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[generate-insights-for-goal-strategy|Generate insights for a goal]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[demand-form|Demand form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[form-field-information-for-dw|Forms]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreatingDemands|Create a demand]]

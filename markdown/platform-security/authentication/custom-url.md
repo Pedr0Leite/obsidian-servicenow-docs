@@ -20,7 +20,7 @@ You can enable your ServiceNow instance to be accessible from a company-branded 
 
 You can use custom URL to enable ServiceNow instance to be accessible from one or more company-branded or custom URLs.
 
-Custom URLs can be associated with specific portal. For example, admin can define `http://support.acme.com` for CSM portal and `http://hr.acme.com` for HR portal. In such situation there is a need to redirect [[users|users]] to different IdPs for [[c_Authentication|authentication]] on the basis of the custom URL that users are accessing.
+Custom URLs can be associated with specific portal. For example, admin can define `http://support.acme.com` for CSM portal and `http://hr.acme.com` for HR portal. In such situation there is a need to redirect users to different IdPs for authentication on the basis of the custom URL that users are accessing.
 
 **Important:**
 
@@ -51,7 +51,3 @@ Before you can associate a custom URL, you must own \(or purchase\) a URL throug
 
 **Note:** When deleting or updating CNAME records which point to your instance, you must follow this sequence to avoid dangling records in the instance. First, delete the CNAME records from your instance and then remove or update the CNAME setting at your DNS provider.
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]

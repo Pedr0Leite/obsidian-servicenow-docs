@@ -23,7 +23,7 @@ When you configure an AI agent and select Desktop action as a tool, you choose h
 
 |Mode|How it works|Use when|
 |----|------------|--------|
-|Defined path|Follows fixed steps preconfigured in [[agentic-desktop-landing-page|AI Desktop Actions]].|The workflow is stable and steps are known in advance.|
+|Defined path|Follows fixed steps preconfigured in AI Desktop Actions.|The workflow is stable and steps are known in advance.|
 |Adaptive path|Works from a high-level goal. Dynamically plans and executes steps based on your instructions.|The workflow varies or steps cannot be fully defined in advance.|
 
 Specify a high-level goal — such as updating user roles or scheduling maintenance — and the agent plans and executes the steps to complete it. You can take manual control at any point.
@@ -49,7 +49,7 @@ Adaptive desktop actions are available to all users who perform tasks across ent
 
 ## Operating desktop actions
 
-You access desktop actions through the [[now-assist-center-now-assist-panel|Now Assist panel]] that has [[now-assist-panel-enhanced|enhanced chat]] enabled. The AI agent provides updates on its progress in the chat interface. As the agent works, you receive:
+You access desktop actions through the Now Assist panel that has enhanced chat enabled. The AI agent provides updates on its progress in the chat interface. As the agent works, you receive:
 
 -   Real-time status updates in the chat
 -   Periodic screenshots of the web pages the agent navigates
@@ -57,7 +57,7 @@ You access desktop actions through the [[now-assist-center-now-assist-panel|Now 
 
 When an external website requires login, you're prompted in the chat. Switch to the external website tab, provide your credentials, then switch back to the Now Assist panel. The agent continues after authentication is complete.
 
-**Note:** When you close the chat, you have the option to delete the chat log, including all screenshots containing sensitive information. For more information, see [[na-ai-wa-delete-chat-log|Delete an AI agent chat log]].
+**Note:** When you close the chat, you have the option to delete the chat log, including all screenshots containing sensitive information. For more information, see [Delete an AI agent chat log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-delete-chat-log.md).
 
 ## Limitation
 
@@ -67,7 +67,7 @@ Desktop actions operate as browser extensions with the following limitations:
 -   Cannot interact with desktop applications or local files \(except for downloading files\)
 -   Cannot upload data from the local file system
 
-For tasks requiring local file access, consider using defined desktop actions. For more information, see [[desktop-actions|Defined path desktop actions for desktop and web-based tasks]].
+For tasks requiring local file access, consider using defined desktop actions. For more information, see [Defined path desktop actions for desktop and web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions.md).
 
 ## Third-party website access
 
@@ -80,19 +80,9 @@ ServiceNow AI Desktop Actions rely on “computer use,” a beta technology prov
 **Related topics**  
 
 
-[[configure-agentic-desktop|Configure AI Desktop Actions]]
+[Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md)
 
-[[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]]
+[Creating AI agents for AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-ai-agents-ad.md)
 
-[[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
+[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md)
 
-## Related
-
-- [[na-ai-wa-delete-chat-log|Delete an AI agent chat log]]
-- [[desktop-actions|Defined desktop actions for desktop and web-based tasks]]
-- [[configure-agentic-desktop|configure agentic desktop]]
-- [[create-ai-agents-ad|Creating AI agents for AI Desktop Actions]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-panel-enhanced|Enhanced chat]]

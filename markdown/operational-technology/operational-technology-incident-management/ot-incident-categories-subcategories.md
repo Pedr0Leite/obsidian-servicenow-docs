@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Incident Management, Operational 
 
 # Incident categories and subcategories
 
-By categorizing [[operational-technology-overview|Operational Technology]] \(OT\) incidents, you can group and narrow the search for specific OT incidents.
+By categorizing Operational Technology \(OT\) incidents, you can group and narrow the search for specific OT incidents.
 
 When you can create an OT incident, you can choose from the categories and subcategories that are listed in the following table.
 
@@ -124,6 +124,3 @@ Delete an Operational Technology incident category or subcategory if your organi
 
 **Parent Topic:**[Configuring Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/configuring-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

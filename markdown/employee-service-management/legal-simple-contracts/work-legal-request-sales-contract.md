@@ -28,7 +28,7 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -73,7 +73,7 @@ The state of the legal request is Work in progress and the document is Legal rev
 
 5.  [Initiate an ad hoc approval for a legal request or its attachment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/initiate-approval-legal-request.md) for the legal request or its attachments when an approval is required from other stakeholders.
 
-6.  In the [[activity-lxp|Activity]] stream section, review the changes requested by the requester and make necessary changes in the contract document.
+6.  In the Activity stream section, review the changes requested by the requester and make necessary changes in the contract document.
 
 7.  [Communicate using emails from Legal Counsel Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/send-receive-email-legal-req.md) with the requester or other stakeholders.
 
@@ -121,7 +121,3 @@ In the **Signed Contract** field, enter the URL of the contract document that is
 
 **Parent Topic:**[Sales contract review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-sales-contracts.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

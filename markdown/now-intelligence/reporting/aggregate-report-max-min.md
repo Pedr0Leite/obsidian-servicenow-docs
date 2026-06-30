@@ -14,7 +14,7 @@ breadcrumb: [Aggregation in reporting, Reporting reference, Reporting, Reporting
 
 # Aggregate a report on minimum or maximum
 
-When you [[t_CreateYourOwnReport|create a report]], you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The maximum and minimum aggregations show the maximum or minimum value for each segment of the visualization.
+When you create a report, you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The maximum and minimum aggregations show the maximum or minimum value for each segment of the visualization.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ These images illustrate maximum and minimum duration using grouped bars to show 
 
 The sections of the visualization are grouped by the highest or lowest value for the selected records.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]

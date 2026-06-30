@@ -12,7 +12,7 @@ breadcrumb: [Quiz designer, Using Quizzes, Quizzes, Assessments and Surveys, Exp
 
 # Enable a quiz retake
 
-You can [[t_ConfigureaQuiz|configure a quiz]] to allow recipients to resubmit their answers as many times as they like, until the quiz's due date.
+You can configure a quiz to allow recipients to resubmit their answers as many times as they like, until the quiz's due date.
 
 ## Before you begin
 
@@ -24,29 +24,21 @@ Results are not calculated until the quiz's configured duration has elapsed. The
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Metric Definition** &gt; **Types**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Metric Definition** &gt; **Types**.
 
 2.  Remove the **Evaluation method = Assessment** filter condition so you can see all the records in the list.
 
 3.  Open the quiz.
 
-4.  In the [[c_MetricTypesAndAssessableRecords|Assessment Metric Type]] form, select the **Allow retake** [[check-box|check box]] and save the record.
+4.  In the [Assessment Metric Type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md) form, select the **Allow retake** check box and save the record.
 
 
-**Parent Topic:**[[c_QuizDesigner|Quiz designer]]
+**Parent Topic:**[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
 **Related topics**  
 
 
 [Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-[[t_PublishaQuiz|Publish a quiz]]
+[Publish a quiz](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishaQuiz.md)
 
-## Related
-
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[t_PublishaQuiz|Publish a quiz]]
-- [[t_ConfigureaQuiz|Configure a quiz]]
-- [[r_Assessments|Assessments]]
-- [[check-box|Check box]]

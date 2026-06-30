@@ -16,8 +16,5 @@ An account is your ServiceNow® environment — it includes your company's URL a
 
 To work with mobile applications, you must add at least one web-based UI instance to each of the mobile applications. The added instance contains the mobile features and capabilities that are configured by your administrator.
 
-For information on administrator-based documentation regarding instances, see [[mobile-instances-admin-concept|Mobile instances]].
+For information on administrator-based documentation regarding instances, see [Mobile instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-instances-admin-concept.md).
 
-## Related
-
-- [[mobile-instances-admin-concept|Mobile instances]]

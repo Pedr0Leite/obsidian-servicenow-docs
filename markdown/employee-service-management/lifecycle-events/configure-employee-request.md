@@ -14,7 +14,7 @@ breadcrumb: [Lifecycle Events employee requests, Using Lifecycle Events, Lifecyc
 
 # Configure Lifecycle Events employee requests
 
-Enable your managers and employees to open employee requests directly from [[hr-lifecycle-events-landing-page-1|Lifecycle events]] so that they don't have to create a new HR case or request.
+Enable your managers and employees to open employee requests directly from Lifecycle events so that they don't have to create a new HR case or request.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_le.admin or admin
 
 1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Administration** &gt; **Manage Lifecycle Events**.
 
-2.  To add employee requests to the event, open a Lifecycle Event and click the **[[activity-lxp|Activity]] Sets** tab.
+2.  To add employee requests to the event, open a Lifecycle Event and click the **Activity Sets** tab.
 
 3.  Navigate to **Add New** &gt; **Employee Request**.
 
@@ -137,7 +137,3 @@ Specific groups of users that have access to the employee request. For more info
 
 [Filter lifecycle event activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/filter-lifecycle-event-activities.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

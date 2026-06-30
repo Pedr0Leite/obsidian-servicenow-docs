@@ -12,7 +12,7 @@ breadcrumb: [Configure, Legal Digital Forensics, Legal Service Delivery Practice
 
 # Install Legal Digital Forensics
 
-You can install the [[legal-digital-forensics-landing-page|Legal Digital Forensics]] application \(sn\_lg\_forensics\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Legal Digital Forensics application \(sn\_lg\_forensics\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The following items are installed with Legal Digital Forensics:
 -   Roles
 -   Tables
 
-For more information, see [[installed-with-legal-digital-forensics|Components installed with Legal Digital Forensics]].
+For more information, see [Components installed with Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/installed-with-legal-digital-forensics.md).
 
 ## Procedure
 
@@ -47,10 +47,5 @@ For more information, see [[installed-with-legal-digital-forensics|Components in
 4.  Select **Install**.
 
 
-**Parent Topic:**[[setting-up-legal-dft|Configure Legal Digital Forensics]]
+**Parent Topic:**[Configure Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/setting-up-legal-dft.md)
 
-## Related
-
-- [[installed-with-legal-digital-forensics|Components installed with Legal Digital Forensics]]
-- [[setting-up-legal-dft|Configure Legal Digital Forensics]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]

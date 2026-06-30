@@ -14,7 +14,7 @@ breadcrumb: [Use, ITOM Mobile Agent, Service Reliability Management, ITOM AIOps,
 
 # Working with On-Call Scheduling on mobile
 
-Manage on-call schedules on the go using [[itom-mobile-landing|ITOM Mobile Agent]]. As a manager, learn how to manage shifts, time-off requests, and scheduling gaps. As a responder, learn how to request time off, view who is on call, and see upcoming shifts.
+Manage on-call schedules on the go using ITOM Mobile Agent. As a manager, learn how to manage shifts, time-off requests, and scheduling gaps. As a responder, learn how to request time off, view who is on call, and see upcoming shifts.
 
 ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage alerts, incidents, and on-call schedules from the same mobile app. Refer to the following ITSM Mobile Agent documentation to learn about managing on-call schedules on your mobile device.
 
@@ -36,6 +36,3 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 
 **Next topic:**[Working with tasks on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-tasks.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]

@@ -14,7 +14,7 @@ breadcrumb: [Microsoft, Service Graph Connectors for AI Control Tower, AI connec
 
 # Create an AI connection for Azure AI Foundry
 
-Create an AI connection for Azure Foundry in [[ai-control-tower-landing|AI Control Tower]] using the  [[microsoft|AI Service Graph Connector for Microsoft]].
+Create an AI connection for Azure Foundry in AI Control Tower using the  AI Service Graph Connector for Microsoft.
 
 ## Before you begin
 
@@ -35,8 +35,8 @@ Discovered per agent
 For each agent discovered across all three variants, the connector collects:
 
 -   AI Agents \(assistants\)- The primary entity.
--   [[ai-models|AI Models]]- Deployed models \(GPT-4o, Llama, Claude, etc.\) via deployment enrichment.
--   AI [[ai-prompts|Prompts]]- System instructions attached to agents.
+-   AI Models- Deployed models \(GPT-4o, Llama, Claude, etc.\) via deployment enrichment.
+-   AI Prompts- System instructions attached to agents.
 -   AI Tools- With type coverage varying by variant:
     -   ML &amp; AI Services: `functions`, `connected_agent`, others
     -   New Foundry adds: `mcp`, `openapi`, `a2a_preview`
@@ -45,7 +45,7 @@ For each agent discovered across all three variants, the connector collects:
 
 ## Procedure
 
-1.  Navigate to **Al Control Tower workspace** &gt; **[[exploring-ai-governance|Configurations]]** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **Al Control Tower workspace** &gt; **Configurations** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -89,7 +89,7 @@ For each agent discovered across all three variants, the connector collects:
 
     2.  Enter the **Connection URL** \(https://&lt;resource-name&gt;services.ai.azure.com\)
 
-        **Note:** To obtain the resource name, make sure that you're on New Foundry \(Enable the New Foundry toggle\) and select the project. Once you're on the [[now-assist-center-home-page|home page]], look for the Project endpoint to view the resource name.
+        **Note:** To obtain the resource name, make sure that you're on New Foundry \(Enable the New Foundry toggle\) and select the project. Once you're on the home page, look for the Project endpoint to view the resource name.
 
         Starting from March 2026 onwards, ServiceNow provides support to the New Foundry along with the old Foundry.
 
@@ -118,12 +118,3 @@ For each agent discovered across all three variants, the connector collects:
 
 The AI connection for Azure AI Foundry is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[microsoft|AI Service Graph Connector for Microsoft]]
-- [[ai-models|AI models]]
-- [[ai-prompts|Prompts]]
-- [[exploring-ai-governance|Configurations]]
-- [[enterprise-ai-discovery|AI connections]]
-- [[now-assist-center-home-page|Home page]]

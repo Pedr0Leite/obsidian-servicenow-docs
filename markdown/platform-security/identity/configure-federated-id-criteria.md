@@ -14,7 +14,7 @@ breadcrumb: [Global Identity, Identity]
 
 # Accessing Federated ID Criteria
 
-Access Federated ID Criteria to see the ID fields selected to generate the Federated ID unique identifier. The default setting is User ID and [[email|email]].
+Access Federated ID Criteria to see the ID fields selected to generate the Federated ID unique identifier. The default setting is User ID and email.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ Role required: iamsync\_admin
 
     **Note:** You can only change ID fields when generating new Federated IDs for the existing records. To know more, see [Updating ID fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/identity/updating-id-fields.md).
 
-## Related
 
-- [[email|Email]]

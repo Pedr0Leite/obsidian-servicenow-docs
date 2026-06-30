@@ -15,13 +15,13 @@ breadcrumb: [Now Assist in Catalog Builder, Service Catalog, Manage service capa
 
 # Exploring Now Assist in Catalog Builder
 
-Learn how the [[now-assist-for-catalog-generation|Now Assist in Catalog Builder]] application helps you to create catalog items by simply describing them. Now Assist generates catalog items with more detailed descriptions and question labels.
+Learn how the Now Assist in Catalog Builder application helps you to create catalog items by simply describing them. Now Assist generates catalog items with more detailed descriptions and question labels.
 
 ## Now Assist in Catalog Builder overview
 
-In [[catalog-builder|Catalog Builder]], you can describe the catalog item you want, and Now Assist generates the catalog item for you.
+In Catalog Builder, you can describe the catalog item you want, and Now Assist generates the catalog item for you.
 
-The application uses the [[now-assist-catalog-item-generation|Catalog item generation]] skill to create catalog items. For more information about the skill, see .
+The application uses the Catalog item generation skill to create catalog items. For more information about the skill, see .
 
 **Note:** You must be assigned the catalog\_builder\_editor role to create catalog items using Now Assist.
 
@@ -65,8 +65,3 @@ Now Assist generates only the entities that Catalog Builder supports. The limita
 
 [Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[now-assist-for-catalog-generation|Now Assist in Catalog Builder]]
-- [[catalog-builder|Catalog Builder]]
-- [[now-assist-catalog-item-generation|Catalog item generation]]

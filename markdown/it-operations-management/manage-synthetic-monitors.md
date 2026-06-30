@@ -20,7 +20,7 @@ Role required: sn\_sow\_synthetics.synthetics\_editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the [[synthetic-monitoring-landing-page|synthetic monitoring]] icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
+1.  Navigate to **All** &gt; **Service Operations Workspace** and select the synthetic monitoring icon \(\[Omitted image "sys-mon-icon.png"\] Alt text: Synthetic monitoring\).
 
 2.  Follow these instructions to edit a monitor.
 
@@ -38,7 +38,7 @@ Description
 
 </td><td>
 
-From the [[ref-synthetic-monitoring-landing-page|synthetic monitoring landing page]], select one or more monitors and select **Edit**. See [[create-synthetic-monitor|Create and edit a synthetic monitor]].**Note:** Current values aren't shown in the fields. If you don't edit a field, the original values remain.
+From the synthetic monitoring landing page, select one or more monitors and select **Edit**. See [Create and edit a synthetic monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-synthetic-monitor.md).**Note:** Current values aren't shown in the fields. If you don't edit a field, the original values remain.
 
 If you want to edit properties other than credentials, location, or alert settings, you must edit a single monitor at a time from the **Details** tab.
 
@@ -60,12 +60,5 @@ From the Synthetic monitoring landing page, choose one or more monitors to delet
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
+**Parent Topic:**[Configuring synthetic monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configuring-synthetic-monitoring.md)
 
-## Related
-
-- [[create-synthetic-monitor|Create and edit a synthetic monitor]]
-- [[configuring-synthetic-monitoring|Configuring synthetic monitoring]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[ref-synthetic-monitoring-landing-page|Synthetic monitoring Landing Page]]

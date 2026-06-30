@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Console, Upgrade, Administer the ServiceNow AI Platform]
 
 # Using Upgrade Console
 
-Use the [[um-landing-page|Upgrade Console]] experience to access all the tools, information, and guided setup for a smooth upgrade on your instance.
+Use the Upgrade Console experience to access all the tools, information, and guided setup for a smooth upgrade on your instance.
 
 Review the following for a seamless upgrade experience.
 
@@ -23,6 +23,3 @@ Access all the necessary tools you might require for a seamless upgrade experien
 
 **Parent Topic:**[Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-landing-page.md)
 
-## Related
-
-- [[um-landing-page|Upgrade Console]]

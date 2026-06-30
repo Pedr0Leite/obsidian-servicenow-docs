@@ -20,7 +20,7 @@ Role required: clone\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Clone-UI|Clone Admin Console]]** &gt; **Clone Home**.
+1.  Navigate to **All** &gt; **Clone Admin Console** &gt; **Clone Home**.
 
 2.  Select the tile of the clone that you must cancel.
 
@@ -43,7 +43,7 @@ Role required: clone\_admin
 
 ### Procedure
 
-1.  Select **[[system-clone-landing|Instance Clone]]** &gt; **Active Clones** &gt; **&lt;one-of-your-clones&gt;**.
+1.  Select **Instance Clone** &gt; **Active Clones** &gt; **&lt;one-of-your-clones&gt;**.
 
 2.  In the **Related Links**, select **Cancel Clone**.
 
@@ -51,7 +51,4 @@ Role required: clone\_admin
 
     The system stops any current cloning activities and sets the **State** to **Canceled**.
 
-## Related
 
-- [[Clone-UI|Clone Admin Console]]
-- [[system-clone-landing|Instance Clone]]

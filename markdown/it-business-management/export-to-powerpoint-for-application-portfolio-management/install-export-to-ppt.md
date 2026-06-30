@@ -14,7 +14,7 @@ breadcrumb: [Configure, Export to PowerPoint for Strategic Portfolio Management,
 
 # Install Export to PowerPoint for Strategic Portfolio Management
 
-You can install the [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]] application \(sn\_ppt\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins, if they are not already installed.
+You can install the Export to PowerPoint for Strategic Portfolio Management application \(sn\_ppt\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins, if they are not already installed.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ See [Components installed with Export to PowerPoint for Strategic Portfolio Mana
 
 **Parent Topic:**[Configuring Export to PowerPoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/configure-export-to-ppt.md)
 
-## Related
-
-- [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]]

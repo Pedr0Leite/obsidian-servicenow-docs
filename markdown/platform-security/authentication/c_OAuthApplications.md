@@ -15,9 +15,9 @@ breadcrumb: [OAuth authentication, Authentication, Access Management]
 
 # OAuth 2.0
 
-OAuth 2.0 lets [[users|users]] access instance resources through external clients by obtaining a token rather than by entering login credentials with each resource [[c_requestAPI|request]].
+OAuth 2.0 lets users access instance resources through external clients by obtaining a token rather than by entering login credentials with each resource request.
 
-You must have the [[security-admin-role|security\_admin role]] to manage the [[oauth-inbound-and-outbound|OAuth]] integration. Configure OAuth 2.0 for the following scenarios:
+You must have the security\_admin role to manage the OAuth integration. Configure OAuth 2.0 for the following scenarios:
 
 -   **OAuth external client scenario** \(Inbound\): Your instance provides an endpoint for third-party clients to pull data from the instance.
 -   **OAuth provider scenario** \(Outbound\): Your instance pulls data from a third-party provider.
@@ -102,7 +102,7 @@ A credential that a client uses to obtain new access tokens without requiring ad
 
 </td></tr><tr><td>
 
-Self-signed [[c_Certificates|certificates]]
+Self-signed certificates
 
 </td><td>
 
@@ -123,18 +123,9 @@ A grant type is the way that the client obtains the access token. The following 
 
 -   **Authorization code**: The consumer first gets an authorization code and then uses it to get an access token. You can [Specify an OAuth profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_SpecifyAnOAuthProfile.md) and specify this grant type. The process that uses the authorization code is also referred to as auth code flow or authorization code flow.
 -   **Resource owner password credentials**: The consumer of the resource already has the user credentials to get the access token. This process is also referred to as password flow.
--   **[[client-credentials|Client credentials]]**: The consumer of the resource uses the client ID and client secret that is already configured in the application registry.
+-   **Client credentials**: The consumer of the resource uses the client ID and client secret that is already configured in the application registry.
 
 ## Storage of authentication credentials
 
-The OAuth client secret is stored as a **password2** type field, which is encrypted with KMF. User passwords, which are used to check incoming endpoint requests, are stored as a hash value in the User table in a **password** type field \(SHA 256\). For details on this [[encryption-landing|encryption]], see [Password2 encryption with KMF](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password-2way-encrypted-fields.md)
+The OAuth client secret is stored as a **password2** type field, which is encrypted with KMF. User passwords, which are used to check incoming endpoint requests, are stored as a hash value in the User table in a **password** type field \(SHA 256\). For details on this encryption, see [Password2 encryption with KMF](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password-2way-encrypted-fields.md)
 
-## Related
-
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[security-admin-role|Security\_admin role]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Certificates|Certificates]]
-- [[client-credentials|Client Credentials]]
-- [[encryption-landing|Encryption]]

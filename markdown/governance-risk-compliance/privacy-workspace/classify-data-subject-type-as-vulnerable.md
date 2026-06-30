@@ -22,7 +22,7 @@ Role required: sn\_privacy.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  In the Privacy Workspace, select the List icon \(\[Omitted image "ws-list-icon.png"\]\).
 
@@ -41,6 +41,3 @@ The data subject type that you classified as vulnerable contributes to the criti
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[privacy-management|privacy management]]

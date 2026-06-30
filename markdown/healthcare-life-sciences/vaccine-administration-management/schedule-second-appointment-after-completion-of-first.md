@@ -22,7 +22,7 @@ Role required: sn\_vaccine\_sm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hcls-vam|Vaccine Administration Management]]** &gt; **Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Vaccine Administration Management** &gt; **Administration** &gt; **Properties**.
 
     For the **sn\_vaccine\_sm.book\_subsequent\_doses** property:
 
@@ -33,6 +33,3 @@ Role required: sn\_vaccine\_sm.admin
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

@@ -33,7 +33,7 @@ This activity replaces an SSH activity by the same name available in releases pr
 
 |Variable|Description|
 |--------|-----------|
-|return\_code|Indicates whether or not the user [[password-reset-landing-page|password reset]] action was successful.|
+|return\_code|Indicates whether or not the user password reset action was successful.|
 |error\_message|Describes any error that occurred during password reset. If no error occurred, this value is null.|
 
 ## Conditions
@@ -45,6 +45,3 @@ This activity replaces an SSH activity by the same name available in releases pr
 
 **Parent Topic:**[SSH activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSSHCustomActivities.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

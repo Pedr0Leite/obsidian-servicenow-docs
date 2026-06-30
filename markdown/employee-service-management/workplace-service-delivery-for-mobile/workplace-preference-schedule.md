@@ -14,11 +14,11 @@ breadcrumb: [Workplace Service Delivery for Mobile, Workplace Service Delivery, 
 
 # Manage workplace schedule and in-office presence using Workplace Service Delivery for Mobile
 
-Employees can plan their hybrid workplace schedule using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]. They can reserve a space for a day or make bulk reservations using Workplace.
+Employees can plan their hybrid workplace schedule using the Workplace Service Delivery for Mobile. They can reserve a space for a day or make bulk reservations using Workplace.
 
-Employees can indicate their preferred office location \(office, remote, or visiting another office\), get desk suggestions based on their location preferences, add [[workplace-services|workplace services]] available for a location, add preferred collaborators and match their in-office days with collaborators in-office days to increase productivity and collaborate effectively. While reserving or viewing a space, employees can see if the selected space is part of a neighborhood.
+Employees can indicate their preferred office location \(office, remote, or visiting another office\), get desk suggestions based on their location preferences, add workplace services available for a location, add preferred collaborators and match their in-office days with collaborators in-office days to increase productivity and collaborate effectively. While reserving or viewing a space, employees can see if the selected space is part of a neighborhood.
 
-**Note:** The option to add your workplace preferences and suggestions are also available on the [[employee-center-landing-page|Employee Center]] portal. Employees are expected to use the Workplace Service Delivery for Mobile app to reserve a space and to view or modify their preferred workplace locations and workplace schedule suggestions. Reserve a workspace using your mobile app before coming to the office. Get desk suggestions based on your preferred location, past and future reservations, proximity \(preferred collaborators\), favorite spaces, neighborhoods, and [[standard-service|standard services]].
+**Note:** The option to add your workplace preferences and suggestions are also available on the Employee Center portal. Employees are expected to use the Workplace Service Delivery for Mobile app to reserve a space and to view or modify their preferred workplace locations and workplace schedule suggestions. Reserve a workspace using your mobile app before coming to the office. Get desk suggestions based on your preferred location, past and future reservations, proximity \(preferred collaborators\), favorite spaces, neighborhoods, and standard services.
 
 When proposing a space to an employee for reservation, the application considers the following employee preferences and Space Suggestions table configurations:
 
@@ -44,7 +44,7 @@ Administrators can configure the following to provide better workspace suggestio
 
     For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md)
 
--   Employee presence configuration in [[workplace-concierge-feat|Workplace Concierge]]
+-   Employee presence configuration in Workplace Concierge
 
     For more information, see [Set Employee Presence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/use-workplace-concierge.md).
 
@@ -55,10 +55,3 @@ Administrators can configure the following to provide better workspace suggestio
 
 For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
-## Related
-
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[standard-service|Standard services]]
-- [[workplace-concierge-feat|Workplace Concierge]]

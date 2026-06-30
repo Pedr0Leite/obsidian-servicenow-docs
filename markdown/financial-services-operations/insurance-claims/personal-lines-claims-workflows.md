@@ -14,7 +14,7 @@ breadcrumb: [Use, Personal Lines Claims, Exploring insurance claims applications
 
 # Personal Lines Claims workflows
 
-The [[personal-lines-claims-landing-page|Personal Lines Claims]] application installs automated workflows that you can configure for any claims tasks. These workflows create cases and route any tasks accordingly.
+The Personal Lines Claims application installs automated workflows that you can configure for any claims tasks. These workflows create cases and route any tasks accordingly.
 
 After a claim case is initiated, the workflow proceeds through phases. A business rules engine with baseline, configurable rules can categorize a claim as potential fraud, or as a duplicate claim, for example. Some example business rules include:
 
@@ -22,7 +22,7 @@ After a claim case is initiated, the workflow proceeds through phases. A busines
 -   If the number of claims submitted by a customer for the same insurance policy is greater than four, a claim will be automatically flagged as potential fraud.
 -   If the number of claims submitted by a customer is less than five, and the reported loss date relative to the policy start date is less than three days, a claim validation task is created for a processor to review.
 
-The following workflow routes the case and tasks for investigating and managing [[insurance-claims-flow|insurance claims]] to roles in different departments. The front and back-office agents log in to the Workspace to work on the tasks in their queue. The case playbook guides agents through these overall steps that are needed to fulfill claims:
+The following workflow routes the case and tasks for investigating and managing insurance claims to roles in different departments. The front and back-office agents log in to the Workspace to work on the tasks in their queue. The case playbook guides agents through these overall steps that are needed to fulfill claims:
 
 -   Submitting first notice of loss
 -   Claim validation
@@ -79,7 +79,3 @@ The following workflow routes the case and tasks for investigating and managing 
 
 The case is complete when the states and stage of the case sets to Closed Complete.
 
-## Related
-
-- [[personal-lines-claims-landing-page|Personal Lines Claims]]
-- [[insurance-claims-flow|Insurance claims]]

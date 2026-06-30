@@ -14,13 +14,13 @@ breadcrumb: [Security Incident Response Orchestration, Security Incident Respons
 
 # Set up Security Incident Response Orchestration
 
-Prior to using [[c_SecIncRespOrchestration|Security Incident Response Orchestration]], perform steps to set up various parts of the system, including populating the CMDB, configuring the mid-server, and configuring credentials.
+Prior to using Security Incident Response Orchestration, perform steps to set up various parts of the system, including populating the CMDB, configuring the mid-server, and configuring credentials.
 
 ## Before you begin
 
 Role required: admin
 
-To use [[sir-landing-page|Security Incident Response]], you need a fully populated CMDB with domain names. For more information, see [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md).
+To use Security Incident Response, you need a fully populated CMDB with domain names. For more information, see [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md).
 
 ## About this task
 
@@ -35,7 +35,3 @@ To use [[sir-landing-page|Security Incident Response]], you need a fully populat
 
 **Parent Topic:**[Security Incident Response Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SecIncRespOrchestration.md)
 
-## Related
-
-- [[c_SecIncRespOrchestration|Security Incident Response Orchestration]]
-- [[sir-landing-page|Security Incident Response]]

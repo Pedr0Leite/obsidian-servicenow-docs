@@ -14,7 +14,7 @@ breadcrumb: [Set up the routing policy for ACME, Configuring ACME, Automated Cer
 
 # Certificate Routing Policy form
 
-Fill in the Certificate Routing Policy form to [[set-up-routing-policy-for-acme|set up the routing policy for ACME]].
+Fill in the Certificate Routing Policy form to set up the routing policy for ACME.
 
 <table id="table_hx4_qxq_gbc"><thead><tr><th>
 
@@ -57,7 +57,7 @@ DNS Challenge Action
 
 Flow designer option to resolve DNS challenges automatically \(for example, base script - **ACME DNS Challenge - GoDaddy**\).**Note:** You can also create a new action similar to the base script to support any other DNS provider. The flow\_designer role or action\_designer role is required for this action.
 
-If **None** is selected, then the new or renew certificates are done [[using-acme|using ACME]] manual flow of DNS challenge.
+If **None** is selected, then the new or renew certificates are done using ACME manual flow of DNS challenge.
 
 </td></tr><tr><td>
 
@@ -110,8 +110,3 @@ The **Organization**, **Organizational Unit**, **Locality**, **State**, **Countr
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[set-up-routing-policy-for-acme|Set up the routing policy for ACME]]
-- [[using-acme|Using ACME]]

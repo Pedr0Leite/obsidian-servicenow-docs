@@ -14,7 +14,7 @@ breadcrumb: [Use, Unified Map, Configuration Management Database \(CMDB\), Confi
 
 # View related items for a CI
 
-Open the **Related items** panel in [[cmdb-workspace-unified-map|Unified Map]] to show all related items \(typically, events such as changes, active incidents, or active problems\) for the selected CI.
+Open the **Related items** panel in Unified Map to show all related items \(typically, events such as changes, active incidents, or active problems\) for the selected CI.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required:
     -   Open the filter panel to set a sorting category and order for the cards.
     -   Some details, such as **Priority** and **Risk**, are color-coded using the default platform color code settings.
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

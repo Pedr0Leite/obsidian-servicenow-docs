@@ -12,7 +12,7 @@ breadcrumb: [Configure, Public Sector Digital Services \(PSDS\)]
 
 # Set up constituent self-service in Public Sector Digital Services
 
-Creating a self-service portal such as the [[gsp-overview-public-sector|Government Service Portal]] helps constituents submit requests independently. You can integrate features like knowledge bases, chatbots, and appointment booking for easy access to information.
+Creating a self-service portal such as the Government Service Portal helps constituents submit requests independently. You can integrate features like knowledge bases, chatbots, and appointment booking for easy access to information.
 
 <table id="table_gg4_j41_l1c" class="nav-card"><tbody><tr><td>
 
@@ -27,11 +27,11 @@ Creating a self-service portal such as the [[gsp-overview-public-sector|Governme
 [GOV.UK Design System Service Portal\[Omitted image "bus-service-catalog.svg"\] Alt text:Configure the GOV.UK Developer Toolkit, a library of reusable portal widgets that enable developers to build service portals for UK constituents.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-toolkit.md)
 
 </td></tr></tbody>
-</table>-   **[[psds-config-gds-theme|Configure the GOV.UK Design System Service Portal theme]]**
+</table>-   **[Configure the GOV.UK Design System Service Portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-theme.md)**
 
     Create and enable self-service portals that adhere to design patterns set forth by the GOV.UK Design System. Choose from a library of reusable portal widgets to build service portals for UK constituents. Integrate these portals with knowledge bases, communities, service catalogs, and chatbots. Additionally, provide features like walk-up experiences and appointment booking to enhance their self-service options.
 
--   **[[customize-government-service-portal|Government Service Portal]]**
+-   **[Government Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/customize-government-service-portal.md)**
 
     Create and enable self-service portals for your customers to support their needs efficiently. Integrate these portals with knowledge bases, communities, service catalogs, and chatbots. Additionally, provide features like walk-up experiences and appointment booking to enhance their self-service options.
 
@@ -39,8 +39,4 @@ Creating a self-service portal such as the [[gsp-overview-public-sector|Governme
 
     Use the Service Catalog application to create and customize service catalogs so that your constituents can request items such as services and public records, or submit applications for grants or various social benefit programs. Additionally, you can standardize request fulfillment to maintain the accuracy and availability of the items in the catalogs.
 
-## Related
 
-- [[psds-config-gds-theme|Configure the GOV.UK Design System Service Portal theme]]
-- [[customize-government-service-portal|Customize the Government Service Portal]]
-- [[gsp-overview-public-sector|Government Service Portal]]

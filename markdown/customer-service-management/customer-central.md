@@ -14,19 +14,19 @@ breadcrumb: [CSM Configurable Workspace features, CSM Configurable Workspace, Or
 
 Customer Central provides customer service agents with all the information about the customer in one central place. It enables them to quickly zoom in on the customer issues and provide efficient and supportive service to their customers.
 
-Customer service agents or location agents can view customer central on the interaction, case, account, contact, or consumer records in [[csm-workspaces-configure|CSM Configurable Workspace]] in the form of two views: Customer Information and Customer History.
+Customer service agents or location agents can view customer central on the interaction, case, account, contact, or consumer records in CSM Configurable Workspace in the form of two views: Customer Information and Customer History.
 
 Starting with the Yokohama release, the [Customer History component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md) displays customer activity information on some record pages in CSM Configurable Workspace.
 
 ## Customer Information view
 
-The Customer Information view displays key information about the customer and a view of all recent customer touch [[gamification-components-points|points]] with the service organization. It contains a number of predefined [[migration-lists|lists]], records, reports, and report groups that are highly configurable, or you can create your own. You can also configure the number of days to display the data for.
+The Customer Information view displays key information about the customer and a view of all recent customer touch points with the service organization. It contains a number of predefined lists, records, reports, and report groups that are highly configurable, or you can create your own. You can also configure the number of days to display the data for.
 
 \[Omitted image "customer-information.jpg"\] Alt text: Customer Information tab displaying customer contact information and recent engagements with the customer, including chat interactions, high priority, and recent cases and phone calls.
 
 ## Customer History view
 
-The Customer History view displays all the recent customer touch points with the service organization in the form of an activity feed. If the [[customer-history-component-features|Enable facets check box]] is selected in UI Builder, facets appear on the left-hand side. Otherwise, a filter icon is displayed. The data in the activity feed is displayed based on the facet or filter you select. It contains a number of predefined categories and activities that are highly configurable, or you can create your own. You can also select a date range to display the data for.
+The Customer History view displays all the recent customer touch points with the service organization in the form of an activity feed. If the [Enable facets check box](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-history-component-features.md) is selected in UI Builder, facets appear on the left-hand side. Otherwise, a filter icon is displayed. The data in the activity feed is displayed based on the facet or filter you select. It contains a number of predefined categories and activities that are highly configurable, or you can create your own. You can also select a date range to display the data for.
 
 \[Omitted image "customer-activity.png"\] Alt text: Customer History tab listing different categories of customer engagement activities and the activity feed details for a selected facet.
 
@@ -55,10 +55,10 @@ The Customer History component includes the Customer tab. This tab displays cust
 
 The Customer History component is available on the following record pages in CSM Configurable Workspace:
 
--   [[csm-front-line-case-page|Front-line case page]]: Appears in the contextual side panel.
--   [[csm-native-voice-record-page|CSM voice interaction record page]]: Appears in the left pane.
+-   [Front-line case page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md): Appears in the contextual side panel.
+-   [CSM voice interaction record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md): Appears in the left pane.
 
-Users with the system administrator role can add this component to a record page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md) and [[customer-central-configuration|configure the component properties]].
+Users with the system administrator role can add this component to a record page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md) and [configure the component properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central-configuration.md).
 
 The Customer History component can be configured to display a **Call Transcript** tab. This tab displays the text of the live call transcript when a conversation record is present for the interaction.
 
@@ -88,18 +88,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 **Related topics**  
 
 
-[[configure-customer-central|Configure Customer Central]]
+[Configure Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-customer-central.md)
 
-[[use-customer-central|Use Customer Central]]
+[Use Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-customer-central.md)
 
-## Related
-
-- [[customer-history-component-features|Customer History component features]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-native-voice-record-page|CSM voice interaction record page]]
-- [[customer-central-configuration|Configuring the Customer History component]]
-- [[configure-customer-central|Configure Customer Central]]
-- [[use-customer-central|Use Customer Central]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]
-- [[migration-lists|Lists]]

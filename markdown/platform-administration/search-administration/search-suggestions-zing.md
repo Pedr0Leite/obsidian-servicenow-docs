@@ -16,7 +16,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 Display possible search query completions as users enter search terms.
 
-To use the [[search-suggestions-overview|Search Suggestions]] application, activate the com.glide.search.suggestions plugin if it's not already installed. For information, see [[t_RequestAPlugin|Request a plugin]] and [[t_ActivateAPlugin|Activate a plugin]].
+To use the Search Suggestions application, activate the com.glide.search.suggestions plugin if it's not already installed. For information, see [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md) and [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
 Once you enable Search Suggestions, suggestions appear automatically when users enter text into Zing search fields in the Service Portal or Now Mobile.
 
@@ -31,7 +31,7 @@ For full details on configuration and use of the Search Suggestions application,
 -   **[Enable and disable Search Suggestions in Zing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/enable-search-suggestions.md)**  
 Enable the Search Suggestions application to improve the Zing search user experience.
 -   **[Set the maximum number of search suggestions Zing displays](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-max-num-of-suggestions.md)**  
-[[set-max-num-of-suggestions|Set the maximum number of search suggestions Zing displays]] when users enter search strings in search applications.
+Set the maximum number of search suggestions Zing displays when users enter search strings in search applications.
 
 **Parent Topic:**[Zing text indexing and search engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_ZingTextSearch.md)
 
@@ -44,7 +44,7 @@ Enable the Search Suggestions application to improve the Zing search user experi
 
 [Global search finds records from multiple tables]()
 
-[Zing generates search [[hs-results|results]] in four phases]()
+[Zing generates search results in four phases]()
 
 [Zing filters search results with access controls]()
 
@@ -54,7 +54,7 @@ Enable the Search Suggestions application to improve the Zing search user experi
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
@@ -62,11 +62,3 @@ Enable the Search Suggestions application to improve the Zing search user experi
 
 [Installed with Zing]()
 
-## Related
-
-- [[t_RequestAPlugin|Request a plugin]]
-- [[t_ActivateAPlugin|Activate a plugin]]
-- [[search-suggestions-overview|Search Suggestions]]
-- [[set-max-num-of-suggestions|Set the maximum number of search suggestions Zing displays]]
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]

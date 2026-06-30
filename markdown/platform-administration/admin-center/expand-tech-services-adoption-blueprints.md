@@ -91,11 +91,11 @@ Enhance the experience
 
 </td><td>
 
-CSDM and CMDB Data Foundations Dashboards provide insights into the key foundational [[c_MetricDefinitionSupport|metrics]] of your CMDB and Common Service Data Model \(CSDM\). It provides recommendations to ensure that the CMDB and CSDM are properly configured for optimal usage and to mitigate any potential risks.
+CSDM and CMDB Data Foundations Dashboards provide insights into the key foundational metrics of your CMDB and Common Service Data Model \(CSDM\). It provides recommendations to ensure that the CMDB and CSDM are properly configured for optimal usage and to mitigate any potential risks.
 
 </td><td>
 
-Uses bases [[base-system-roles|system roles]]. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -198,7 +198,7 @@ Optimize the functionality
 
 </td><td>
 
-[[ia-knowledge-mgmt|Knowledge Management]] \(KM\) enables the sharing of information in knowledge bases. These knowledge bases contain articles that provide users with information such as self-help, troubleshooting, and task resolution.
+Knowledge Management \(KM\) enables the sharing of information in knowledge bases. These knowledge bases contain articles that provide users with information such as self-help, troubleshooting, and task resolution.
 
 </td><td>
 
@@ -354,8 +354,3 @@ Health Log Analytics helps prevent IT issues before your users are affected. It 
 </td></tr></tbody>
 </table>**Parent Topic:**[Select your adoption blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-select-business-objective.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[base-system-roles|System roles]]
-- [[ia-knowledge-mgmt|Knowledge management]]

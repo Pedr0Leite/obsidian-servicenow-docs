@@ -32,7 +32,7 @@ The ServiceNow® External Legal Service Center application enables external user
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components, such as roles that are installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]]-landing.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components, such as roles that are installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/external-legal-portal/lsd-ext-portal-reference-landing.md)
 
 </td></tr></tbody>
 </table>## Helpful resources
@@ -41,7 +41,7 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **\[Omitted image "dcx-icon-community.svg"\]ServiceNow Community**
 
-    Connect with other [[legal-management-overview|Legal Service Delivery]] users at [ServiceNow Community](https://www.servicenow.com/community/legal-service-delivery/ct-p/legal-service-delivery).
+    Connect with other Legal Service Delivery users at [ServiceNow Community](https://www.servicenow.com/community/legal-service-delivery/ct-p/legal-service-delivery).
 
 -   **\[Omitted image "dcx-icon.svg"\] Customer Success Center**
 
@@ -51,7 +51,4 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     Learn more about specific known errors, along with workarounds if any, from the [Known Error Portal](https://support.servicenow.com/kb?id=known_error_portal)
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[legal-management-overview|Legal Service Delivery]]

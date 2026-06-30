@@ -20,7 +20,7 @@ Create and view Sidebar discussions on the Mobile Agent application.
 
 Role required: wm\_agent
 
-Ensure the Sidebar for [[fsm-application-landing-page|Field Service Management]] plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
+Ensure the Sidebar for Field Service Management plugin \(com.sn\_fsm\_sidebar\) is activated. For more information, see [Activate Sidebar for the Field Service Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/activate-sidebar-mobile.md).
 
 ## About this task
 
@@ -55,6 +55,3 @@ Participants can view and reply to the discussion. The discussion can be accesse
 
 [Summarize a Sidebar discussion on the ServiceNow Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/na-fsm-summarize-sidebar-platform.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

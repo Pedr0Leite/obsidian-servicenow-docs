@@ -14,7 +14,7 @@ breadcrumb: [Configure a workplace card, Manage workplace safety activities, Wor
 
 # Configure a space details card
 
-Configure a space card in the Location Directory, [[kiosk-indoor-mapping|Kiosk Indoor Mapping]], or Reservation by updating the card's template with the specific details that you want to customize. You can configure a new field, button, or style for each space card.
+Configure a space card in the Location Directory, Kiosk Indoor Mapping, or Reservation by updating the card's template with the specific details that you want to customize. You can configure a new field, button, or style for each space card.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Card configuration allows you to customize the appearance and features of space 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Card configuration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Card configuration**.
 
 2.  Select the **Default space card** for space cards.
 
@@ -79,7 +79,3 @@ Card configuration allows you to customize the appearance and features of space 
 
 **Parent Topic:**[Configure a workplace card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-card.md)
 
-## Related
-
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

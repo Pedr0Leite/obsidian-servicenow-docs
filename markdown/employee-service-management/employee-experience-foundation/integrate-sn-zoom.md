@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow for Zoom, Unified Employee Experience, Employee Service 
 
 # Integrating and using ServiceNow with Zoom
 
-[[sn-cs-zoom-team-chat|Collaboration services for Zoom Team Chat]] enables agents to initiate chat with employees and import the chat, and enables employees to view and receive chat service from within  the Zoom application.
+Collaboration services for Zoom Team Chat enables agents to initiate chat with employees and import the chat, and enables employees to view and receive chat service from within  the Zoom application.
 
 Collaboration services for Zoom Team Chat offers the following functionality:
 
@@ -27,6 +27,3 @@ ServiceNow integration with Zoom helps employees to interact with agents and res
 
 **Parent Topic:**[ServiceNow for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn_zoomIntegration.md)
 
-## Related
-
-- [[sn-cs-zoom-team-chat|Collaboration services for Zoom Team Chat]]

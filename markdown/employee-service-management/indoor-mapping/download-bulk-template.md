@@ -22,9 +22,9 @@ Role required: sn\_map\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
-2.  On the **[[bulk-upload-hierarchy|Bulk hierarchy upload]]** card, select **Upload hierarchy**.
+2.  On the **Bulk hierarchy upload** card, select **Upload hierarchy**.
 
 3.  In the Download Excel Templates section, download a template based on your requirement.
 
@@ -41,7 +41,3 @@ After filling the Excel template files, you can upload them to your instance. Yo
 
 For more information about uploading the files to your instance, see [Upload Excel files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/upload-excel-files.md).
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[bulk-upload-hierarchy|Bulk hierarchy upload]]

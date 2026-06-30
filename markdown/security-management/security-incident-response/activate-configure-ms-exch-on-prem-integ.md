@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Exchange On-Premises integration, Security Incident Respo
 
 # Get started with the Microsoft Exchange On-Premises integration
 
-The [[ms-exch-on-prem-landing-page|Microsoft Exchange On-Premises integration]] provides [[tools|tools]] for security analysts to contain and remediate phishing and spear phishing email threats in on-premises instances. Before you can use the Microsoft Exchange On-Premises integration, you must download it from the ServiceNow Store and identify the appropriate Exchange and MID servers.
+The Microsoft Exchange On-Premises integration provides tools for security analysts to contain and remediate phishing and spear phishing email threats in on-premises instances. Before you can use the Microsoft Exchange On-Premises integration, you must download it from the ServiceNow Store and identify the appropriate Exchange and MID servers.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
-2.  When the installation os complete, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configuration**.
+2.  When the installation os complete, navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configuration**.
 
     The available security integrations appear as a series of cards.
 
@@ -71,9 +71,4 @@ Role required: sn\_si\_admin
     -   Select **OK** and validate your connection and credentials.
 12. Once the credentials are validated, the configuration on ServiceNow instance is complete and is ready to perform email search and deletion operations using this integration.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[ms-exch-on-prem-landing-page|Microsoft Exchange On-Premises integration]]
-- [[tools|Tools]]
-- [[security-operations-landing-page|Security Operations]]

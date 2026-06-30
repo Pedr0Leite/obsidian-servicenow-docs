@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[journey-accelerator-1|Journey Accelerator]]** &gt; **Manage Manager Task Templates**.
+1.  Navigate to **All** &gt; **Journey Accelerator** &gt; **Manage Manager Task Templates**.
 
 2.  Open a task template, or click **New**.
 
@@ -34,6 +34,4 @@ Role required: admin
 
 4.  Click **Submit** or **Update** to save the form.
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up AWS cloud, Configuring cloud providers, Configuring Clou
 
 # Provisioning modes for Cloud Account Management in Cloud Workspace
 
-[[cam-landing|Cloud Account Management]] in Cloud Workspace offers flexible provision modes such as Terraform and cloud native interfaces while centralizing management, enhancing security, optimizing costs, and improving governance.
+Cloud Account Management in Cloud Workspace offers flexible provision modes such as Terraform and cloud native interfaces while centralizing management, enhancing security, optimizing costs, and improving governance.
 
 ## Overview on provision modes
 
@@ -28,6 +28,3 @@ Provisioning modes for creating AWS accounts are:
 
 \[Omitted image "terraform.png"\] Alt text: Terraform and cloud native interface support in Cloud Account Management instance
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

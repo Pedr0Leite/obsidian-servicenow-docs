@@ -14,7 +14,7 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # Search Suggestions
 
-The Search Suggestions application uses saved user search data to create auto-complete suggestions for [[ia-ai-search|AI Search]] applications and search suggestions for Zing. These suggestions appear as you enter terms into an application's search field. You can refine your search or jump to a relevant search result by selecting an applicable suggestion.
+The Search Suggestions application uses saved user search data to create auto-complete suggestions for AI Search applications and search suggestions for Zing. These suggestions appear as you enter terms into an application's search field. You can refine your search or jump to a relevant search result by selecting an applicable suggestion.
 
 ## Get started
 
@@ -24,7 +24,7 @@ The Search Suggestions application uses saved user search data to create auto-co
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure settings for creation of auto-complete suggestions and search suggestions from saved search [[hs-results|results]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/configuring-search-suggestions.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure settings for creation of auto-complete suggestions and search suggestions from saved search results.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/configuring-search-suggestions.md)
 
 </td></tr><tr><td>
 
@@ -32,13 +32,7 @@ The Search Suggestions application uses saved user search data to create auto-co
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Component and domain separation information for Search Suggestions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/search-suggestions-[[reference-email-admin|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Component and domain separation information for Search Suggestions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions/search-suggestions-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

@@ -16,7 +16,7 @@ breadcrumb: [Reference, Health and Safety Incident Management OSHA Content Pack,
 
 Properties that you can use to configure PDF templates for OSHA forms.
 
-These properties are available for the [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] application and are preconfigured for the OSHA form PDF templates available with this application. However, if you've updated the PDF templates, you must update their sys\_ids in the corresponding system properties. For more information, see [Update an OSHA form PDF template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/update-osha-form-pdf-template.md).
+These properties are available for the Health and Safety Incident Management OSHA Content Pack application and are preconfigured for the OSHA form PDF templates available with this application. However, if you've updated the PDF templates, you must update their sys\_ids in the corresponding system properties. For more information, see [Update an OSHA form PDF template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/update-osha-form-pdf-template.md).
 
 <table id="table_fhq_ngg_fwb"><thead><tr><th>
 
@@ -34,7 +34,7 @@ sn\_hs\_im\_osha.osha\_300a\_form\_pdf\_template\_sys\_id
 
 This property contains the sys\_id of the OSHA 300A form PDF template. If you've updated the PDF template for OSHA 300A form, you must update its sys\_id in the **Value** field in this property. -   Type: string
 -   Default value: fad3312c77920110dffcf2babc5a99c3
--   Location: **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**
+-   Location: **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**
 
 </td></tr><tr><td>
 
@@ -59,7 +59,3 @@ This property contains the sys\_id of the OSHA 301 form PDF template. If you've 
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Incident Management OSHA Content Pack reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-reporting-reference.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[health-safety-overview|Health and Safety]]

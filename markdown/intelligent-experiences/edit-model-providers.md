@@ -23,7 +23,7 @@ Let's take an example of editing the model provider for skill group.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin**.
+1.  Navigate to **All** &gt; **Now Assist Admin**.
 
 2.  Navigate to **Settings** &gt; **Manage AI models**.
 
@@ -80,9 +80,5 @@ Let's take an example of editing the model provider for skill group.
 11. Follow similar steps for editing the model provider for a particular skill.
 
 
-**Parent Topic:**[[manage-large-language-models|Manage AI models]]
+**Parent Topic:**[Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md)
 
-## Related
-
-- [[manage-large-language-models|Manage AI models]]
-- [[platform-now-assist-landing|Now Assist]]

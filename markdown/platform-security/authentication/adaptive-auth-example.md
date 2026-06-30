@@ -14,15 +14,15 @@ breadcrumb: [Configure properties, Adaptive authentication, Authentication, Acce
 
 # Tutorial: Configure adaptive authentication
 
-Use these example steps to configure [[adaptive-authentication|adaptive authentication]] on an instance.
+Use these example steps to configure adaptive authentication on an instance.
 
 To use this tutorial, you must have an instance with Adaptive Authentication activated. For details on this process, see [Activate adaptive authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/adaptive-authentication-plugin.md).
 
 The example guides you through creating a new policy and applying it to an instance. In this tutorial you will:
 
--   **Create a [[adaptive-auth-filter-criteria|filter criteria]] record**
+-   **Create a filter criteria record**
 
-    Create a [[group-filter|group filter]] criteria record to use as an input for your policy. This record allows your policy to determine access based on a user's group. In these steps you define the group or groups the policy uses to determine access.
+    Create a group filter criteria record to use as an input for your policy. This record allows your policy to determine access based on a user's group. In these steps you define the group or groups the policy uses to determine access.
 
 -   **Create a policy**
 
@@ -30,7 +30,7 @@ The example guides you through creating a new policy and applying it to an insta
 
 -   **Configure a policy context**
 
-    Configure the **Post [[c_Authentication|Authentication]] Policy Context** to use your new policy. When configured, your instance denies access to [[users|users]] within the group defined in the filter criteria record.
+    Configure the **Post Authentication Policy Context** to use your new policy. When configured, your instance denies access to users within the group defined in the filter criteria record.
 
 
 ## Create a filter criteria record
@@ -80,7 +80,7 @@ Role required: adaptive\_auth\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **[[authentication-policies|Authentication Policies]]** &gt; **All [[ca-policies|Policies]]**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Authentication Policies** &gt; **All Policies**.
 
 2.  In the **Policies** list, click **New**.
 
@@ -143,12 +143,4 @@ Role required: adaptive\_auth\_admin
 
 4.  Click **Update** to save the policy context record.
 
-## Related
 
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[group-filter|Group Filter]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[authentication-policies|Authentication policies]]
-- [[ca-policies|Policies]]

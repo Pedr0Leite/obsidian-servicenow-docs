@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adoption-services|Adoption Services]]** &gt; **All Guidance**.
+1.  Navigate to **All** &gt; **Adoption Services** &gt; **All Guidance**.
 
 2.  On the Guidance list, select **Onboarding**.
 
@@ -64,6 +64,3 @@ Role required: admin
 
 **Parent Topic:**[Onboarding modals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/next-experience-onboarding.md)
 
-## Related
-
-- [[adoption-services|Adoption services]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a remote task definition, Configure for providers, Service E
 
 # Create a remote task using Workflow Studio in Service Exchange for Providers
 
-As a provider, proactively create [[service-bridge-v2-remote-task-overview|remote tasks]] for your customers by using Workflow Studio.
+As a provider, proactively create remote tasks for your customers by using Workflow Studio.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Role required: admin
 
 6.  Under the ACTIONS section, select **Add an Action, Flow Logic, or Subflow**.
 
-7.  Click **Action** &gt; **[[service-bridge-providers-landing-page|Service Exchange for Providers]]** &gt; **Create remote task for Consumer**.
+7.  Click **Action** &gt; **Service Exchange for Providers** &gt; **Create remote task for Consumer**.
 
 8.  Fill in the following fields.
 
@@ -69,7 +69,3 @@ Role required: admin
 
 A remote task is created on your \(provider\) ServiceNow instance and it gets synchronized on the consumer's ServiceNow instance.
 
-## Related
-
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]

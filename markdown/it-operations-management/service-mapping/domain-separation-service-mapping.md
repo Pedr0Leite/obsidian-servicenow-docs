@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Domain separation and Service Mapping
 
-Domain separation is supported in [[c_ServiceMappingOverview|Service Mapping]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Service Mapping. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -41,7 +41,7 @@ Domain separation is handled in a slightly different way than simply configuring
 
 ## Domain separation and Automated Service Suggestions
 
-[[auto-serv-suggest|Automated Service Suggestions]] supports domain separation. This means that:
+Automated Service Suggestions supports domain separation. This means that:
 
 -   The source and target process must reside in the same domain to create a connection.
 -   The user can view only the data in the current domain.
@@ -67,7 +67,3 @@ For more context, refer to [Discovery patterns used by ITOM Visibility](https://
 
 [Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[auto-serv-suggest|Automated Service Suggestions]]

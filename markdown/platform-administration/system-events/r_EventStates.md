@@ -46,7 +46,7 @@ Error
 
 </td><td>
 
-The event encountered an error during processing. This state is often caused by invalid event [[r_DirectJDBCProbeParameters|parameters]]. Reprocessing the event may resolve the error.
+The event encountered an error during processing. This state is often caused by invalid event parameters. Reprocessing the event may resolve the error.
 
 </td></tr><tr><td>
 
@@ -59,6 +59,3 @@ The event was rotated to a different shard of the Event \[`sysevent`\] table. Wh
 </td></tr></tbody>
 </table>**Parent Topic:**[System events reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-reference.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]

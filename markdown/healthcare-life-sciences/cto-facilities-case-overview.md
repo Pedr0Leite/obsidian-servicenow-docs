@@ -38,11 +38,7 @@ Comments on the Healthcare Facilities case are viewable on the work order. Comme
 
 \[Omitted image "cto-facilities-state-sync.png"\] Alt text: State synchronization between EVS cases and work orders.
 
-The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the [[care-team-portal-landing|Care Team Portal]] to track your case state in real time through viewing case details in the portal.
+The state of both the work order and the healthcare case remains in synchronization throughout the entire fulfillment process. Use the Care Team Portal to track your case state in real time through viewing case details in the portal.
 
-**Note:** In [[cto-facilities-landing|Care Team Operations for Facilities]], case data only synchronizes with work orders and doesn’t synchronize with work order tasks. Only updates made to the work order affect the associated case data.
+**Note:** In Care Team Operations for Facilities, case data only synchronizes with work orders and doesn’t synchronize with work order tasks. Only updates made to the work order affect the associated case data.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

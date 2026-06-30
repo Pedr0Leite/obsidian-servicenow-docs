@@ -12,9 +12,9 @@ breadcrumb: [Process administration, Setup and administration, Domain separation
 
 # Sample process administration with domain specific applications
 
-The following example illustrates [[c_DelegatedAdministration|process administration]] with domain-specific applications and modules.
+The following example illustrates process administration with domain-specific applications and modules.
 
-As the administrator of the Oceanic domain, David Loo decides to customize the [[sc-configuration|Configuration]] application. To start with, David reviews the modules available in the Configuration application module.
+As the administrator of the Oceanic domain, David Loo decides to customize the Configuration application. To start with, David reviews the modules available in the Configuration application module.
 
 \[Omitted image "Domain\_overrides\_appmod\_01.png"\] Alt text:
 
@@ -30,14 +30,9 @@ This creates a new module entry in the application rather than overwriting the e
 
 \[Omitted image "Domain\_overrides\_mod\_04.png"\] Alt text:
 
-If another administrator from another domain, such as Fred Luddy, [[logs|logs]] in and looks at the Configuration application, the settings from the global domain appear.
+If another administrator from another domain, such as Fred Luddy, logs in and looks at the Configuration application, the settings from the global domain appear.
 
 \[Omitted image "Domain\_overrides\_appmod\_04.png"\] Alt text:
 
 \[Omitted image "Domain\_overrides\_appmod\_05.png"\] Alt text:
 
-## Related
-
-- [[c_DelegatedAdministration|Process administration]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

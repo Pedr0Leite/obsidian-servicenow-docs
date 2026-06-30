@@ -22,12 +22,9 @@ This alert can track the following types of events:
 -   **Event 1102**: The Account Name and Domain Name fields identifies the user who cleared the log. The Logon ID enables you to correlate backwards to the log on event and other events logged during the same logon session.
 
 -   **[Set up the T1070 - Windows Events Logs Cleared playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-setup-windows-events-logs.md)**  
-Use the following steps to [[playbook-setup-windows-events-logs|set up the T1070 - Windows Events Logs Cleared playbook]].
+Use the following steps to set up the T1070 - Windows Events Logs Cleared playbook.
 -   **[Use the T1070 - Windows Events Logs Cleared playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-using-windows-events-logs.md)**  
 Use this playbook to investigate incidents that track event types where the user removes security logs. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the T1070 - Windows Events Logs Cleared playbook.
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[playbook-setup-windows-events-logs|Set up the T1070 - Windows Events Logs Cleared playbook]]

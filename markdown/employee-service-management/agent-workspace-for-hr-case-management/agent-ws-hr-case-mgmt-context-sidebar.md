@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Agent Workspace for HR Case Management contextual side panel
 
-The contextual side panel in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] provides information designed to help you [[t_CreateAnHRCase|work an HR case]] and interact with your employees.
+The contextual side panel in Agent Workspace for HR Case Management provides information designed to help you work an HR case and interact with your employees.
 
 The contextual side panel provides a column of icons that provides you with information. Use the information when you interact with your employees or to complete the case.
 
@@ -36,7 +36,7 @@ Description
 
 </td><td>
 
-At a Glance: Provides key [[c_HRProfileRecords|HR profile]] details for fast recall. Having this information readily available helps agents understand who they are trying to help when communicating with an employee.
+At a Glance: Provides key HR profile details for fast recall. Having this information readily available helps agents understand who they are trying to help when communicating with an employee.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Agent Assist: Provides relevant knowledge articles about the case. You can also 
 
 </td><td>
 
-Employee Documents: Lists documents related to the case you are on. Select the document and you can download it or rename it.**Note:** The Contextual side panel requires the [[hr-employee-doc-management|Employee Document Management]] \[com.sn\_employee\_document\_management\] plugin to display the employee documents. For more information, see [Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-employee-doc-management.md).
+Employee Documents: Lists documents related to the case you are on. Select the document and you can download it or rename it.**Note:** The Contextual side panel requires the Employee Document Management \[com.sn\_employee\_document\_management\] plugin to display the employee documents. For more information, see [Employee Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/hr-employee-doc-management.md).
 
 </td></tr><tr><td>
 
@@ -116,10 +116,3 @@ Use personal notes to add information that is not finalized and must not be trac
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[t_CreateAnHRCase|Work an HR case]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-employee-doc-management|Employee Document Management]]

@@ -16,7 +16,7 @@ breadcrumb: [Orchestration activity packs, Classic Orchestration, ServiceNow AI 
 
 Global activities are Orchestration activities created in the global scope.
 
-Any activities you create in the global scope are listed in the Global category in the **Packs** and **Custom** tabs of the [[workflow-editor|Workflow Editor]].
+Any activities you create in the global scope are listed in the Global category in the **Packs** and **Custom** tabs of the Workflow Editor.
 
 \[Omitted image "GlobalPacks.png"\] Alt text: Global activity pack
 
@@ -33,7 +33,7 @@ This activity replaces an activity by the same name available in releases prior 
 |Variable|Description|
 |--------|-----------|
 |port\_probes|A comma separated list of protocols to use to check for signs of activity on the target machine \(example: *wmi,wins,https,ssh,http,https,snmp,dns*\)|
-|hostname|Hostname or [[ip-address|IP address]] of the target system to check.|
+|hostname|Hostname or IP address of the target system to check.|
 
 ### Output variables
 
@@ -48,7 +48,3 @@ This activity replaces an activity by the same name available in releases prior 
 |Success|Activity determined that the device is running.|
 |Failure|Activity failed to determine if the target device is running. Failure could be caused by a missing protocol or a device that is not accessible.|
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

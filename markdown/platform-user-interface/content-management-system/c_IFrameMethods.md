@@ -16,12 +16,12 @@ breadcrumb: [Configure iFrames, Types of content blocks, Content blocks, Configu
 
 The following examples show how system records are pulled into an iFrame that is placed on a content page.
 
-For system [[lists-configurable-workspace|lists]] or [[form-configurable-workspace|forms]], use the frame name **gsft\_main** so that links work properly.
+For system lists or forms, use the frame name **gsft\_main** so that links work properly.
 
 -   **Order Hardware** is an example of linking to a catalog category.
     -   URL: `com.glideapp.servicecatalog_category_view.do?sysparm_parent=d258b953c611227a0146101fb1be7c31&sysparm_view=`
     -   Frame name: **gsft\_main**
--   **My Approvals List** is an example of linking to a list with a view filter and a JavaScript that [[onboarding-modals-reference|reference]] the authenticated user.
+-   **My Approvals List** is an example of linking to a list with a view filter and a JavaScript that reference the authenticated user.
     -   URL: `sysapproval_approver_list.do?sysparm_query=approver=javascript:getMyApprovals()&sysparm_view=ess`
     -   Frame name: **gsft\_main**
 -   **Service Catalog Home Page \(system\)** references the system catalog page within the Service Catalog application. If you are satisfied with the way the catalog looks, this method is an easy way to bring the page into a CMS design.
@@ -33,8 +33,3 @@ For system [[lists-configurable-workspace|lists]] or [[form-configurable-workspa
 
 **Parent Topic:**[Configure iFrames](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_IFrame.md)
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[onboarding-modals-reference|Reference]]

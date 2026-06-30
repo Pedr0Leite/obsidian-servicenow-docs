@@ -21,9 +21,9 @@ Define the technique detection coverage that your organization must measure and 
 
 ## About this task
 
-The technique coverage definitions are used in the overall technique detection [[mapping-logrhythm|mapping]]. You can use the base system technique coverage. The [[scoring-definition|base system technique coverage]] consists of coverage types None, Poor, Fair, Good, Very Good, and Excellent. The base system technique coverage is also associated with pre-defined colors. You can customize the coverage type entries and colors, or create your own entries. For example, you can modify the base system coverage types to Not Applicable, Partial Coverage, and Complete Coverage. Alternatively, you can also create numerical measures for the coverage types such as 0-25 percent, 25–50 percent, and 50–100 percent. The type of modifications done to the base system coverage are not limited to the examples shared.
+The technique coverage definitions are used in the overall technique detection mapping. You can use the base system technique coverage. The [base system technique coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/scoring-definition.md) consists of coverage types None, Poor, Fair, Good, Very Good, and Excellent. The base system technique coverage is also associated with pre-defined colors. You can customize the coverage type entries and colors, or create your own entries. For example, you can modify the base system coverage types to Not Applicable, Partial Coverage, and Complete Coverage. Alternatively, you can also create numerical measures for the coverage types such as 0-25 percent, 25–50 percent, and 50–100 percent. The type of modifications done to the base system coverage are not limited to the examples shared.
 
-The customizations that you make to the coverage type and color are used in the [[map-technique-coverage|overall technique detection mapping]] and also in the [[mitre-att-ck-heatmap-and-navigator|heat map]].
+The customizations that you make to the coverage type and color are used in the [overall technique detection mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/map-technique-coverage.md) and also in the [heat map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-heatmap-and-navigator.md).
 
 **Note:** If you modify the base system coverage definition, the Coverage Type icons do not display with the techniques in the heat map. The heat map works as expected when you modify the same fields as the base system's-defined technique detection coverage and coverage colors. However, if you delete existing fields from the overall technique detection coverage, the heat map does not display the coverage type icons.
 
@@ -31,7 +31,7 @@ The customizations that you make to the coverage type and color are used in the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Administration** &gt; **Detection Coverage Definition**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Administration** &gt; **Detection Coverage Definition**.
 
 2.  Review the overall technique detection entries and customize the entries for your environment.
 
@@ -78,7 +78,7 @@ Overall technique detection coverage. See the base system definition in the [Sco
 -   **[MITRE-ATT&amp;CK Scoring definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/scoring-definition.md)**  
 Define your organization's MITRE-ATT&amp;CK scoring system so that you can measure how effectively your organization can detect specific adversary techniques.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -111,7 +111,7 @@ Define your organization's MITRE-ATT&amp;CK scoring system so that you can measu
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Map your technique detection coverage to a technique]()
 
@@ -129,12 +129,3 @@ Define your organization's MITRE-ATT&amp;CK scoring system so that you can measu
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[scoring-definition|MITRE-ATT&amp;CK Scoring definition]]
-- [[map-technique-coverage|Map your technique detection coverage to a technique]]
-- [[mitre-att-ck-heatmap-and-navigator|MITRE-ATT&amp;CK heat map and navigator]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[data-component|Data Component]]

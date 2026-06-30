@@ -26,7 +26,7 @@ Creating an observation also helps enforce adherence to requirements, thereby ad
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Click the tasks icon \(\[Omitted image "TasksIcon.jpg"\] Alt text: Tasks icon.\).
 
@@ -44,6 +44,4 @@ Creating an observation also helps enforce adherence to requirements, thereby ad
 
 7.  Click **Save**.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

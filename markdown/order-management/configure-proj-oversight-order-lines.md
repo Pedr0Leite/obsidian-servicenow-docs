@@ -12,7 +12,7 @@ breadcrumb: [Setting up project oversight conditions and decision rules, Configu
 
 # Configure project oversight for order lines
 
-Specify the conditions and decision [[rules_101|rules]] that qualify an order line for project oversight. You also specify the project template used by [[explore-order-management|Order Management]] to create the project for the order line.
+Specify the conditions and decision rules that qualify an order line for project oversight. You also specify the project template used by Order Management to create the project for the order line.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Use the Project Management Oversight for Order Line Item Decision Builder to add
 
     1.  Select **Add Condition column**.
 
-    2.  On the form, fill in the [[fields|fields]].
+    2.  On the form, fill in the fields.
 
 <table id="table_b2f_l3m_zxb"><thead><tr><th>
 
@@ -118,8 +118,3 @@ How every row in the condition column evaluates a user-specified value. A defaul
 
 The system uses the specified project template to create projects for order lines that match the conditions and decision rules defined in the Project Oversight for Order Line Items decision table.
 
-## Related
-
-- [[rules_101|Rules]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

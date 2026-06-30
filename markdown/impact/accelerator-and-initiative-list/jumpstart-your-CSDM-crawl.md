@@ -18,7 +18,7 @@ This accelerator provides an overview of the Crawl phase of the CSDM maturity jo
 
 ## Accelerator Overview
 
-Jumpstart Your CSDM: Crawl provides [[impact-landing-page|impact]] customers with an overview and applied demonstration of the Common Service Data Model \(CSDM\) Crawl phase. This accelerator supports the customer’s CSDM maturity journey by breaking down specific action items to enhance the understanding of the Crawl phase. As a result, customers can populate and rationalize their Business applications and Application services. This enables a more service-aware CMDB for use throughout additional workflows of ServiceNow.The offering also includes key resources and leading practice guides to [[io-help|help]] customers get started with the Crawl phase of the CSDM Maturity journey.
+Jumpstart Your CSDM: Crawl provides impact customers with an overview and applied demonstration of the Common Service Data Model \(CSDM\) Crawl phase. This accelerator supports the customer’s CSDM maturity journey by breaking down specific action items to enhance the understanding of the Crawl phase. As a result, customers can populate and rationalize their Business applications and Application services. This enables a more service-aware CMDB for use throughout additional workflows of ServiceNow.The offering also includes key resources and leading practice guides to help customers get started with the Crawl phase of the CSDM Maturity journey.
 
 Customers must first complete the [Jumpstart Your CSDM: Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-csdm.md) accelerator before taking this one, as this offering builds on the Foundation phase of the CSDM maturity journey.
 
@@ -69,7 +69,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

@@ -20,7 +20,7 @@ Role required: dynamic\_schema\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Namespaces**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Namespaces**.
 
 2.  Select the dynamic namespace that you want to update.
 
@@ -50,6 +50,3 @@ The choice is overridden in the dynamic namespace that you selected in **Within 
 
 \[Omitted image "dynamic-choice-override-example.png"\] Alt text: A dynamic choice override is defined on the LED choice. When LED is used in the Smartphones dynamic category, it appears as microLED.
 
-## Related
-
-- [[dynamic-schema|Dynamic Schema]]

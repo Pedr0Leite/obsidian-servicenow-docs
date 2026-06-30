@@ -32,7 +32,7 @@ View the time zones of employees across the globe. Be more conscious about the t
 
 Effectively manage a globally disbursed team with a mixture of direct reports, as well as managers that have their own direct reports. Have an insight into data of all workers including employees, interns, and contingent workers and the various transitions that they may have.
 
-Create and publish customized plans for key employee transitions, such as career growth, internal mobility, promotions, using the [[journey-accelerator-1|Journey Accelerator]] templates. Automate the new hire onboarding process [[using-jny-dsnr|using Journey Designer]].
+Create and publish customized plans for key employee transitions, such as career growth, internal mobility, promotions, using the Journey Accelerator templates. Automate the new hire onboarding process using Journey Designer.
 
 Understand where employees stand in the process of their journeys. Identify if any cross-functional team requests are blocking productivity of your employees.
 
@@ -46,7 +46,7 @@ Find data visualizations about your team, their service requests, journeys, and 
 
 Enhance your skills and grow as a people leader through materials and resources provided in Manager Library.
 
-Use resources on career development, leader enablement, [[hiring-tab-concept|hiring]] and transitions, employee performance evaluation, upcoming managerial events, knowledge base articles and managerial tools that help you work efficiently.
+Use resources on career development, leader enablement, hiring and transitions, employee performance evaluation, upcoming managerial events, knowledge base articles and managerial tools that help you work efficiently.
 
 ## Customize your user experience
 
@@ -89,8 +89,3 @@ A predefined set of configurations are also available to use after you have acti
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[using-jny-dsnr|Using Journey designer]]
-- [[hiring-tab-concept|Hiring]]

@@ -14,7 +14,7 @@ breadcrumb: [Project Portfolio Management reference, Project Portfolio Managemen
 
 # Quick start tests for Project Portfolio Management
 
-Validate that [[c_ProjectPortfolioSuite|Project Portfolio Management]] still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that Project Portfolio Management still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Project Portfolio Management quick start tests require activating the PPM Standard - ATF Tests plugin \(com.snc.financial\_planning\_pmo.atf\).
 
@@ -24,7 +24,7 @@ Project Portfolio Management quick start tests require activating the PPM Standa
 |PMO: Verify cost plan roll up to project/demand, program and portfolio|Validate the total planned cost rollup from project and demand to portfolio.|Madrid|
 |PMO: Verify financials of Project created from Demand - Simple Financials|Validate the financial tab fields of a project created from a demand.|Madrid|
 |PMO: Verify financials of Project created from Demand - With budget, cost plans, benefit plans|Validate the budget, cost plan, and benefit plan of a project created from a demand.|Madrid|
-|PMO: Verify ETC/EAC at [[cost-plan-breakdown|cost plan breakdown]] and project level|Validate the EAC and ETC values at cost plan breakdown and project level.|Tokyo|
+|PMO: Verify ETC/EAC at cost plan breakdown and project level|Validate the EAC and ETC values at cost plan breakdown and project level.|Tokyo|
 
 |Test|Description|Release version|
 |----|-----------|---------------|
@@ -339,7 +339,7 @@ Validate Move Project functionality with sprint dates populated for an agile pha
 
 </td><td>
 
-Validate that the sprint start and end dates are cleared when the project is moved using the Move Project related link.**Note:** This test is available only when [[agile-landing-page|Agile Development 2.0]] plugin \(com.snc.sdlc.agile.2.0\) is activated.
+Validate that the sprint start and end dates are cleared when the project is moved using the Move Project related link.**Note:** This test is available only when Agile Development 2.0 plugin \(com.snc.sdlc.agile.2.0\) is activated.
 
 </td><td>
 
@@ -376,7 +376,7 @@ Orlando
 |Verify RIDAC flow for Issue|Validate the RIDAC flow for an issue associated with a project.|Quebec|
 |Verify RIDAC flow for Decision|Validate the RIDAC flow for a decision associated with a project.|Quebec|
 |Verify RIDAC flow for Action|Validate the RIDAC flow for an action associated with a project.|Quebec|
-|Verify changes in fields of risk form|Validate that any change is the [[risk-form|Risk form]] fields such as Risk rank, Risk value, and Probability is updated successfully upon submission.|Quebec|
+|Verify changes in fields of risk form|Validate that any change is the Risk form fields such as Risk rank, Risk value, and Probability is updated successfully upon submission.|Quebec|
 
 |Test|Description|Release version|
 |----|-----------|---------------|
@@ -436,7 +436,7 @@ Madrid
 
 </td></tr><tr><td>
 
-Verify aggregated cost of all [[c_ResourcePlans|resource plans]] roll up to the corresponding project or demand fields
+Verify aggregated cost of all resource plans roll up to the corresponding project or demand fields
 
 </td><td>
 
@@ -580,11 +580,3 @@ Rome
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_Tests|Tests]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[risk-form|Risk form]]
-- [[c_ResourcePlans|Resource plans]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Setup Hub, Get started, Administer the ServiceNow AI Pla
 
 # Product modules configuration in Setup Hub
 
-Explore the following information to know more about the [[clone-configurations-tab|configurations]] of specific product modules.
+Explore the following information to know more about the configurations of specific product modules.
 
 -   Simplified IT Service Management \(ITSM\): See [Configuring Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-ai-native-itsm.md) for more information on configuration of ITSM product module.
 -   Core Business Suite Foundation \(CBS\): See [Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md) for more information on configuration of CBS product module.
@@ -21,9 +21,5 @@ Explore the following information to know more about the [[clone-configurations-
 -   Employee Slate: See [Configure branding and theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/eslate-config-admin-console.md) for more information on configuration of the Employee Slate product module.
 -   Strategic Portfolio Management \(SPM\): See [Modules in Setup Hub \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-config-console-modules.md) for more information on configuration of the Strategic Portfolio Management \(SPM\) product module.
 
-**Parent Topic:**[[ia-config-landing|Configure in Setup Hub]]
+**Parent Topic:**[Configure in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-landing.md)
 
-## Related
-
-- [[ia-config-landing|Configure in Setup Hub]]
-- [[clone-configurations-tab|Configurations]]

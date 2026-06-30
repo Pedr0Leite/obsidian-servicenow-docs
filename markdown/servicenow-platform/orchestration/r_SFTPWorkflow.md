@@ -14,13 +14,13 @@ breadcrumb: [SFTP File Transfer activity pack, Orchestration activity packs, Cla
 
 # SFTP File Transfer workflow
 
-The [[c_OrchestrationSFTPActivityPack|SFTP File Transfer activity pack]] includes a scoped workflow that uses multiple activities to manage files on SFTP servers.
+The SFTP File Transfer activity pack includes a scoped workflow that uses multiple activities to manage files on SFTP servers.
 
 The maximum activity count for the SFTP File Transfer workflow is set to 10,000. This allows the workflow to move up to 1000 files from one server to another.
 
 ## Accessing the workflow
 
--   Navigate to **Workflow** &gt; **[[workflow-editor|Workflow Editor]]** and select the **Workflows** tab.
+-   Navigate to **Workflow** &gt; **Workflow Editor** and select the **Workflows** tab.
 -   Click on the SFTP File Transfer workflow to open it.
 -   Click the information icon in the workflow header to display the properties dialog box.
 
@@ -44,7 +44,7 @@ Source host
 
 </td><td>
 
-Name or [[ip-address|IP address]] of the server containing the files you want to move.
+Name or IP address of the server containing the files you want to move.
 
 </td><td>
 
@@ -171,7 +171,7 @@ Apply move conditions
 
 </td><td>
 
-[[check-box|Check box]] to apply conditions to the file transfer. If this check box is selected, additional fields appear for setting conditions.
+Check box to apply conditions to the file transfer. If this check box is selected, additional fields appear for setting conditions.
 
 </td><td>
 
@@ -270,7 +270,7 @@ Maximum number of retries
 
 </td><td>
 
-Number of attempts the activity can make to [[c_Connect|connect]] to the target host or to move a file before timing out. When the retry limit to move a file or to connect to the host is exceeded, the system logs a failure. If the maximum number of failures is not exceeded, the system attempts to connect again or to move the next file named.
+Number of attempts the activity can make to connect to the target host or to move a file before timing out. When the retry limit to move a file or to connect to the host is exceeded, the system logs a failure. If the maximum number of failures is not exceeded, the system attempts to connect again or to move the next file named.
 
 </td><td>
 
@@ -388,10 +388,3 @@ When selecting the files to move from the source host, the system uses this logi
 
 **Parent Topic:**[SFTP File Transfer activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationSFTPActivityPack.md)
 
-## Related
-
-- [[c_OrchestrationSFTPActivityPack|SFTP File Transfer activity pack]]
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]
-- [[check-box|Check box]]
-- [[c_Connect|Connect]]

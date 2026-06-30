@@ -14,9 +14,9 @@ breadcrumb: [Service definitions, Case management, Organize agent workspaces, Co
 
 Recommend the most relevant services to an agent based on the context of an interaction record, such as the short description or description.
 
-With Service recommendations for interactions, agents can see the recommended services in the [[csm-case-type-select-modals|case type selector]] based on the information provided in the interaction record.
+With Service recommendations for interactions, agents can see the recommended services in the case type selector based on the information provided in the interaction record.
 
-**Note:** The service recommendations for interactions feature requires the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+**Note:** The service recommendations for interactions feature requires the Now Assist for Customer Service Management \(CSM\) application.
 
 The system displays the recommended services in a separate section at the top of the case type selector. By default, this section shows a maximum of four recommended services. The number of recommended services that can be displayed is controlled by the **sn\_csm\_case\_types.top\_ai\_predictions\_limit** system property.
 
@@ -62,7 +62,3 @@ Sets the maximum number of AI predicted services to display in the case type sel
 
 [Create a case based on service definition recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/use-service-definition-rec.md)
 
-## Related
-
-- [[csm-case-type-select-modals|Case type selector]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

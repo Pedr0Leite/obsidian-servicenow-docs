@@ -22,13 +22,13 @@ Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administra
 
 ## About this task
 
-You can add a supplier to the primary data and add products under that [[supplier|supplier]]. The suppliers that you add, appear on the [[shopping-hub-overview|Shopping Hub]] portal under Suppliers.
+You can add a supplier to the primary data and add products under that supplier. The suppliers that you add, appear on the Shopping Hub portal under Suppliers.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Primary Data** &gt; **Suppliers**.
 
-    You can also navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **Supplier**.
+    You can also navigate to **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Supplier**.
 
 2.  Select **New**.
 
@@ -243,15 +243,8 @@ Legal entities that are allowed to buy from this supplier.
 
 ## What to do next
 
--   Use the related lists of the supplier form to view the supplier products and [[contracts|contracts]] that are associated with this supplier.
--   [[add-supplier-product|Add a supplier product]]. For more information, see [Add a supplier product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md).
+-   Use the related lists of the supplier form to view the supplier products and contracts that are associated with this supplier.
+-   Add a supplier product. For more information, see [Add a supplier product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-supplier-product.md).
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[contracts|Contracts]]
-- [[add-supplier-product|Add a supplier product]]

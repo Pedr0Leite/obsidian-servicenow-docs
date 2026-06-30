@@ -16,7 +16,7 @@ Create and configure cloud service accounts at ServiceNow AI Platform for the co
 
 ## Verify the REST API Permissions
 
-Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the [[r-discovery|Discovery]] patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
+Download the [Cloud Discovery patterns spreadsheet](https://downloads.docs.servicenow.com/resource/enus/api/servicenow-discovery-patterns-api-details.xlsx) so you can grant user permissions required for running the Discovery patterns. In addition to permissions, the spreadsheet also includes useful information such as pattern names, types, CI Classes, and links to vendor documentation. New patterns are available quarterly, so check periodically to be sure you have the latest version of the spreadsheet.
 
 ## Before you begin
 
@@ -100,7 +100,7 @@ Type of the datacenter where the account is hosted.Select **Azure datacenter**.
 
 </td></tr><tr><td>
 
-Datacenter [[c_DiscoveryStatus|discovery status]]
+Datacenter discovery status
 
 </td><td>
 
@@ -128,15 +128,10 @@ Not applicable for Azure service accounts.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[setup-cloud-service-account|Set up a cloud service account]]
+**Parent Topic:**[Set up a cloud service account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-cloud-service-account.md)
 
 **Related topics**  
 
 
 [Discovery for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-cloud-discovery.md)
 
-## Related
-
-- [[setup-cloud-service-account|Set up a cloud service account]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

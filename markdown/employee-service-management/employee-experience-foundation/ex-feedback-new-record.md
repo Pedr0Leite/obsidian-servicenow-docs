@@ -138,7 +138,7 @@ Drawer Options
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -174,6 +174,3 @@ Drawer Options
 
 [To-do content form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

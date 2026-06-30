@@ -32,7 +32,7 @@ The Text widget provides a word cloud for visualizing the frequency of words and
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[widgets|Widgets]]** and click **New**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Widgets** and click **New**.
 
 2.  In the **Name** field, give the widget a name that reflects the information being displayed.
 
@@ -119,6 +119,3 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
 -   Text analysis uses special steps in the [data collection job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md). If no data is available for the widget, verify that the relevant data collection job has run and that the job collects text indexes. See [Collect initial text analytics data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/collect-initial-text-analytics-data.md).
 -   Filter the word cloud by keywords.
 
-## Related
-
-- [[widgets|Widgets]]

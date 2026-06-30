@@ -18,7 +18,7 @@ Use the IntegrationHub ETL store app to create and manage ETL transform maps, wh
 
 The IntegrationHub ETL \(sn\_int\_studio\) plugin provides the IntegrationHub ETL functionality.
 
--   Use the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]] to track progress, results, and errors associated with using custom integrations created in IntegrationHub ETL. The CMDB Integrations Dashboard is included in the [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md) store app.
+-   Use the CMDB Integrations Dashboard to track progress, results, and errors associated with using custom integrations created in IntegrationHub ETL. The CMDB Integrations Dashboard is included in the [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md) store app.
 -   Watch the [IntegrationHub ETL \| Importing resources into the CMDB](https://www.youtube.com/watch?v=YvsCY0M7JLw) video for an introduction and walk through of the IntegrationHub ETL tool.
 
 ## Request apps on the Store
@@ -33,13 +33,13 @@ Users with the cmdb\_inst\_admin role can use IntegrationHub ETL to create integ
 
 Starting with the Australia release, IntegrationHub ETL supports the integration of third-party data into some non-CMDB tables. IntegrationHub ETL supports those non-CMDB tables that are supported by Identification and Reconciliation \(IRE\). For details about which non-CMDB tables are supported and any needed configuration, see [IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md).
 
-Supported non-CMDB tables are available in IntegrationHub ETL when specifying classes, conditional classes, class associations, and [[reference|reference]] sources in mapping definitions. However, there are some differences between using CMDB classes and non-CMDB tables in IntegrationHub ETL:
+Supported non-CMDB tables are available in IntegrationHub ETL when specifying classes, conditional classes, class associations, and reference sources in mapping definitions. However, there are some differences between using CMDB classes and non-CMDB tables in IntegrationHub ETL:
 
 -   Specifying class associations isn't mandatory for non-CMDB tables.
 -   Adding relationships doesn't apply to non-CMDB tables.
 -   Class associations for a non-CMDB table is based on a reference field instead of a CMDB relationship.
 
-**Note:** Although the IntegrationHub ETL user interface and accompanying documentation [[reference-document-management|references]] CMDB and CMDB elements, most of those references also apply to supported non-CMDB tables.
+**Note:** Although the IntegrationHub ETL user interface and accompanying documentation references CMDB and CMDB elements, most of those references also apply to supported non-CMDB tables.
 
 ## Process
 
@@ -70,7 +70,7 @@ Read-only mode is useful for studying an existing connection for the purpose of 
 
 Using IntegrationHub ETL and ETL transform maps has the following advantages over using Import Sets and transform maps:
 
--   [[ire|Identification and Reconciliation Engine \(IRE\)]] processes are incorporated into the IntegrationHub ETL so all data is automatically processed by IRE as part of the integration. Using Import Sets and transform maps does not provide a simple way to apply IRE processes.
+-   Identification and Reconciliation Engine \(IRE\) processes are incorporated into the IntegrationHub ETL so all data is automatically processed by IRE as part of the integration. Using Import Sets and transform maps does not provide a simple way to apply IRE processes.
 -   IntegrationHub ETL uses guided setup which provides guidance and a simple user interface for the entire process of integrating third-party data.
 -   IntegrationHub ETL includes an integration test for a small data set using the new ETL transform map. This test lets you review the results and adjust configuration settings before scheduling recurring integrations.
 
@@ -183,9 +183,3 @@ For a demo about working with nested payload data, watch the [Integration Hub - 
 
 [Teams related list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_RelatedListsOfCIComponents.md)
 
-## Related
-
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[reference|Reference]]
-- [[reference-document-management|References]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

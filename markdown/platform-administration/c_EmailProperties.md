@@ -12,45 +12,29 @@ breadcrumb: [Configure, Email Administration, Notifications, Configure core feat
 
 # Email properties
 
-The Email Properties page is where you can configure settings for inbound and [[ia-outbound-email-il|outbound email]].
+The Email Properties page is where you can configure settings for inbound and outbound email.
 
 Email properties are available from either of these modules:
 
--   **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Email Properties**
--   **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **Email Properties**
+-   **System Mailboxes** &gt; **Email Properties**
+-   **System Properties** &gt; **Email Properties**
 
-[[c_EmailAccounts|Email accounts]] are configured in the **System Mailboxes** &gt; **Administration** &gt; **Email Accounts** module. For more information and instructions, see [[t_ConfigureAnEmailAccount|Create an email account]].
+Email accounts are configured in the **System Mailboxes** &gt; **Administration** &gt; **Email Accounts** module. For more information and instructions, see [Create an email account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureAnEmailAccount.md).
 
-[[r_MailDiagnostics|Email diagnostics]] are available from the **System Mailboxes** &gt; **Email Diagnostics** module.
+Email diagnostics are available from the **System Mailboxes** &gt; **Email Diagnostics** module.
 
 **Note:** To learn more about the security properties that affect email processing, see SMTP authentication \(deprecated\) in Instance Security Hardening Settings.
 
--   **[[r_OutboundMailConfiguration|Outbound email configuration]]**  
+-   **[Outbound email configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_OutboundMailConfiguration.md)**  
 The **Outbound Email Configuration** section of the Email Properties page contains properties for sending email.
--   **[[r_InboundMailConfiguration|Inbound email configuration]]**  
-The **Inbound Email Configuration** section of the Email Properties page contains properties to control [[ia-inbound-email-il|inbound email]].
--   **[[email-image-filters|Email image filtering properties]]**  
+-   **[Inbound email configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_InboundMailConfiguration.md)**  
+The **Inbound Email Configuration** section of the Email Properties page contains properties to control inbound email.
+-   **[Email image filtering properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-image-filters.md)**  
 Use email image filtering properties to control how inbound email images attach to a target record.
--   **[[email-digest-properties|Email digest properties]]**  
-Several properties are available to manage digest intervals for [[email-digests|email digests]].
--   **[[r_AdditionalProperties|Advanced email properties]]**  
+-   **[Email digest properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-digest-properties.md)**  
+Several properties are available to manage digest intervals for email digests.
+-   **[Advanced email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdditionalProperties.md)**  
 Use advanced email properties to fine-tune the way your instance sends or receives email.
 
-**Parent Topic:**[[configuring-email-admin|Configure email administration]]
+**Parent Topic:**[Configure email administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-admin.md)
 
-## Related
-
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[r_OutboundMailConfiguration|Outbound email configuration]]
-- [[r_InboundMailConfiguration|Inbound email configuration]]
-- [[email-image-filters|Email image filtering properties]]
-- [[email-digest-properties|Email digest properties]]
-- [[r_AdditionalProperties|Advanced email properties]]
-- [[configuring-email-admin|Configure email administration]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_EmailAccounts|Email accounts]]
-- [[r_MailDiagnostics|Email diagnostics]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[email-digests|Email digests]]

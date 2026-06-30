@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 # Connecting Agile Development 2.0 and Azure DevOps
 
-Establish a connection between [[agile-landing-page|Agile Development 2.0]] and Azure DevOps using a connection alias and an Azure DevOps instance.
+Establish a connection between Agile Development 2.0 and Azure DevOps using a connection alias and an Azure DevOps instance.
 
 **Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/setting-up-agile-azure-integration.md)
 
@@ -120,6 +120,3 @@ If the **State** field on the Azure DevOps Instance record shows:
 
 .
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

@@ -13,7 +13,7 @@ breadcrumb: [Configure, Now Assist for SFA, Sales Customer Relationship Manageme
 
 # Customize the opportunity summarization skill in Now Assist for SFA
 
-Configure the opportunity summarization skill to generate AI-powered opportunity summaries in the CRM Workspace, including which data sources and [[fields|fields]] contribute to the summary.
+Configure the opportunity summarization skill to generate AI-powered opportunity summaries in the CRM Workspace, including which data sources and fields contribute to the summary.
 
 ## Before you begin
 
@@ -126,6 +126,4 @@ Description of the base input field value.
 
     The opportunity summary appears on the Overview page of each opportunity in the CRM Workspace.
 
-## Related
 
-- [[fields|Fields]]

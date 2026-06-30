@@ -14,7 +14,7 @@ breadcrumb: [Managing supplier contacts, Using Supplier Collaboration Portal, Us
 
 # Reassign tasks to a different contact from the Supplier Collaboration Portal
 
-Reassign a task to a different contact in the [[supplier-central|Supplier Collaboration Portal]].
+Reassign a task to a different contact in the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.contact or sn\_slm.admin
 
 ## About this task
 
-The **Reassign** option is available only to the primary [[supplier-contact|supplier contact]] and the [[supplier|supplier]] administrator.
+The **Reassign** option is available only to the primary supplier contact and the supplier administrator.
 
 The **Reassign** option is displayed only for the following task types:
 
@@ -108,8 +108,3 @@ The task is reassigned to the selected contact.
 
 [Remove a supplier contact from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/remove-supplier-contact.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]

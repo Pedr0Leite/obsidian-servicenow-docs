@@ -42,7 +42,7 @@ Role required: admin
 
 4.  Add conditions to the flow logic if you want to create a different flow path.
 
-    1.  Fill up the Condition [[label|Label]] field.
+    1.  Fill up the Condition Label field.
 
     2.  Set the condition by dragging and dropping the Query Parameter pill from the right nav.
 
@@ -67,6 +67,3 @@ Role required: admin
 
 **Parent Topic:**[Create a flow definition for a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table-flow.md)
 
-## Related
-
-- [[label|Label]]

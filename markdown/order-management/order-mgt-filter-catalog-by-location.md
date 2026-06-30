@@ -12,11 +12,11 @@ breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship
 
 # Filter product catalog by location
 
-Agents can filter products in the catalog by using the location function in [[explore-order-management|Order Management]]. The location filter helps agents be more efficient when creating orders.
+Agents can filter products in the catalog by using the location function in Order Management. The location filter helps agents be more efficient when creating orders.
 
 ## Before you begin
 
-Location-based product transaction capability must be activated to enable location-based filtering in Order Management. For more information [[som-activate-location-filter|Activate location-based transactions]].
+Location-based product transaction capability must be activated to enable location-based filtering in Order Management. For more information [Activate location-based transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-activate-location-filter.md).
 
 Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_agent
 
@@ -40,10 +40,5 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_agent
 **Related topics**  
 
 
-[[config-location-transaction|Configuring location-based product transactions]]
+[Configuring location-based product transactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/config-location-transaction.md)
 
-## Related
-
-- [[som-activate-location-filter|Activate location-based transactions]]
-- [[config-location-transaction|Configuring location-based product transactions]]
-- [[explore-order-management|Order management]]

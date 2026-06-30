@@ -22,7 +22,7 @@ Role required: TSOM Assurance admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Metrics** &gt; **Insights Explorer**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Metrics** &gt; **Insights Explorer**.
 
 2.  Click **Create View** \(\[Omitted image "create-view-metrics.png"\] Alt text:\), and enter a **Name** in the Create New View dialog box.
 
@@ -44,6 +44,3 @@ Role required: TSOM Assurance admin
 -   Share a view: Click **Share View** \(\[Omitted image "share-view-metrics.png"\] Alt text:\), and then in the Share dialog box, click **Copy Link**. Send or paste the link to make it accessible to whoever you want to share the view with. A shared link captures the time range of the view, the charts that were added to the canvas, and any added configuration items.
 -   Display a saved view: Open the **Select a Saved View** drop down list, and select a previously saved view that you want to display.
 
-## Related
-
-- [[c_EM|Event Management]]

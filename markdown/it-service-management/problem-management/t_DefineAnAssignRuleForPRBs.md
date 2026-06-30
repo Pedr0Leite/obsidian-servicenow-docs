@@ -22,7 +22,7 @@ Role required: assignment\_rule\_admin or admin
 
 ## About this task
 
-Some assignment rules are predefined for [[c_ProblemManagement|Problem Management]]. Review the predefined assignment rules, and verify that the problem assignment rules you want to use are active. For example, the **Network Problem** assignment rule looks at the configuration item class for network problems and assigns the problem to the **Network** group.
+Some assignment rules are predefined for Problem Management. Review the predefined assignment rules, and verify that the problem assignment rules you want to use are active. For example, the **Network Problem** assignment rule looks at the configuration item class for network problems and assigns the problem to the **Network** group.
 
 In this procedure, define an assignment rule to assign database problems to the **Database** group. It is just an example to let you know how to define an assignment rule. The **Database Problem** assignment rule is already available in the base system.
 
@@ -43,7 +43,7 @@ In this procedure, define an assignment rule to assign database problems to the 
 
     1.  Navigate to **Problem** &gt; **Create New**.
 
-    2.  Complete the [[problem-form|problem form]] and select a configuration item with a class of **Database**.
+    2.  Complete the problem form and select a configuration item with a class of **Database**.
 
     3.  Click **Submit**.
 
@@ -56,7 +56,3 @@ In this procedure, define an assignment rule to assign database problems to the 
 
 **Next topic:**[Categorize a problem as a major problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/categorize-major-problem.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

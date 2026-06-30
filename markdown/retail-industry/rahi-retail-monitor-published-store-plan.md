@@ -34,8 +34,5 @@ Role required: sn\_rtl\_hq\_ops.agent, sn\_rtl\_hq\_ops.agent\_manager, sn\_rtl\
     -   Store tasks
     -   Affected stores
 
-**Parent Topic:**[[rahi-retail-manage-store-plans|Manage store plans]]
+**Parent Topic:**[Manage store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-manage-store-plans.md)
 
-## Related
-
-- [[rahi-retail-manage-store-plans|Manage store plans]]

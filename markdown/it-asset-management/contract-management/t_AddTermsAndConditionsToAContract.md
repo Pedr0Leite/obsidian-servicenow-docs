@@ -14,22 +14,22 @@ breadcrumb: [Terms and conditions, Contracts, Contract Management use, Contract 
 
 # Add terms and conditions to a contract
 
-After you [[t_CreateATermsAndConditionsRecord|create a terms and conditions record]], add the record to a contract that is in the Awaiting Review, Rejected, Renewal Rejected, or Extension Rejected substate.
+After you create a terms and conditions record, add the record to a contract that is in the Awaiting Review, Rejected, Renewal Rejected, or Extension Rejected substate.
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## About this task
 
-[[c_TermsAndConditions|Terms and Conditions]] can only be added to a contract when it is being created. After the contract is approved, the terms and conditions cannot be changed.
+Terms and Conditions can only be added to a contract when it is being created. After the contract is approved, the terms and conditions cannot be changed.
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -59,11 +59,3 @@ Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardw
 
 [Build a terms and conditions document within a contract]()
 
-## Related
-
-- [[t_CreateATermsAndConditionsRecord|Create a terms and conditions record]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[c_Contracts|Contracts]]
-- [[contract-mgmt-view-am|Contract management view]]

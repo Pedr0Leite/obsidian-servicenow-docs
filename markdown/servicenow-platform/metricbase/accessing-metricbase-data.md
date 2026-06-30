@@ -14,7 +14,7 @@ breadcrumb: [Define and collect data, MetricBase, Manage instance data sources, 
 
 # Accessing MetricBase data
 
-Access the time-series data that you sent to the [[metricbase|MetricBase]] database in the way that is convenient to you.
+Access the time-series data that you sent to the MetricBase database in the way that is convenient to you.
 
 You can access and visualize time-series data in the MetricBase database by using:
 
@@ -30,6 +30,4 @@ You can access and visualize time-series data in the MetricBase database by usin
 
     For more information, see [Retrieve MetricBase data using REST and JavaScript.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/metricbase/analyze-time-series-data.md)
 
-## Related
 
-- [[metricbase|MetricBase]]

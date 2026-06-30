@@ -12,7 +12,7 @@ breadcrumb: [Reference, Simplified IT Service Management, IT Service Management]
 
 # AI agents and agentic workflows in Simplified IT Service Management
 
-Use conversational AI-native experience for administrators, employees, and fulfillers using [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]] \(Simplified ITSM\). AI agents and agentic workflows provide a step-by-step approach to configure ITSM workflows with validated inputs and preview.
+Use conversational AI-native experience for administrators, employees, and fulfillers using Simplified IT Service Management \(Simplified ITSM\). AI agents and agentic workflows provide a step-by-step approach to configure ITSM workflows with validated inputs and preview.
 
 ## AI agents for ITSM workflow configurations
 
@@ -20,9 +20,9 @@ These AI agents help administrators configure ITSM workflows seamlessly from a s
 
 For information about admin configurations applicable for Simplified ITSM, see [Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md).
 
-For information about employee configurations in Simplified ITSM, see [[configuring-employee-experience-ai-native-itsm|Configuring the employee experience in Simplified IT Service Management]].
+For information about employee configurations in Simplified ITSM, see [Configuring the employee experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-employee-experience-ai-native-itsm.md).
 
-For information about fulfiller configurations in Simplified ITSM, see [[configuring-fulfiller-experience-ai-native-itsm|Configuring the fulfiller experience in Simplified IT Service Management]].
+For information about fulfiller configurations in Simplified ITSM, see [Configuring the fulfiller experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-fulfiller-experience-ai-native-itsm.md).
 
 <table id="table_ckp_xzv_t3c"><thead><tr><th>
 
@@ -123,7 +123,7 @@ Incident Category Configuration AI Agent
 
 </td><td>
 
-Configures [[r_CategorizingIncidents|incident categories and subcategories]].It recommends industry-specific categories, supports bulk import via an Excel or CSV file, and provides a preview of changes before committing. It also supports editing categories in the base system.
+Configures incident categories and subcategories.It recommends industry-specific categories, supports bulk import via an Excel or CSV file, and provides a preview of changes before committing. It also supports editing categories in the base system.
 
 **Note:** You can download the template for bulk import, add the required details, and import it.
 
@@ -149,7 +149,7 @@ Change Team Role Configuration Agent
 
 </td><td>
 
-Configures team roles in [[c_ITILChangeManagement|Change Management]] to assign the right people to the right roles in Change Management.
+Configures team roles in Change Management to assign the right people to the right roles in Change Management.
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Change Risk Configuration Agent
 
 </td><td>
 
-Configures [[c_RskAsmtCalc|risk assessment]] questions, scoring thresholds, and risk levels so that Change Management can automatically evaluate the risk of a proposed change and route it to the appropriate approval workflow
+Configures risk assessment questions, scoring thresholds, and risk levels so that Change Management can automatically evaluate the risk of a proposed change and route it to the appropriate approval workflow
 
 </td></tr><tr><td>
 
@@ -169,7 +169,7 @@ Configures the change advisory board \(CAB\) to define who reviews and approves 
 
 </td></tr><tr><td>
 
-Change [[c_Models|Models]] Configuration Agent
+Change Models Configuration Agent
 
 </td><td>
 
@@ -202,7 +202,7 @@ Create Incident AI Agent
 
 </td><td>
 
-Manages the life cycle of an IT support issue, from the initial diagnosis to the final resolution or an incident creation. It helps an employee resolve the issue with self-service solutions, reach out to a live agent, or [[create-an-incident|create an incident]] or requested item if further assistance is required.
+Manages the life cycle of an IT support issue, from the initial diagnosis to the final resolution or an incident creation. It helps an employee resolve the issue with self-service solutions, reach out to a live agent, or create an incident or requested item if further assistance is required.
 
 </td></tr><tr><td>
 
@@ -238,21 +238,10 @@ These AI agents help fulfillers with their ITSM tasks using natural language.
 |Investigate and resolve ITSM incidents|Provides recommendations to resolve an incident based on the incident number. Checks for related catalog items, Knowledge articles, and similar resolved incidents to generate resolution steps for the incident. For information about this agentic workflow, see [IT Service Management AI agent collection Investigate and resolve ITSM incidents agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-incident-resolver-workflow.md).|
 |Triage and categorize ITSM incidents|Assigns incident categories and subcategories based on its short description. After categorizing the incident, assigns the service, service offering, and configuration item \(CI\) related to the incident. It also automatically links incidents to major incidents or known problems. For information about this agentic workflow, see [IT Service Management AI agent collection Triage and categorize ITSM incidents agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-aiagents-catincidents-usecase.md).|
 
-**Parent Topic:**[[ai-native-it-service-desk-reference|Simplified IT Service Management reference]]
+**Parent Topic:**[Simplified IT Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/ai-native-it-service-desk-reference.md)
 
 **Related topics**  
 
 
 [Explore Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-ai-agents.md)
 
-## Related
-
-- [[configuring-employee-experience-ai-native-itsm|Configuring the employee experience in Simplified IT Service Management]]
-- [[configuring-fulfiller-experience-ai-native-itsm|Configuring the fulfiller experience in Simplified IT Service Management]]
-- [[ai-native-it-service-desk-reference|Simplified IT Service Management reference]]
-- [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
-- [[r_CategorizingIncidents|Incident categories and subcategories]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[c_Models|Models]]
-- [[create-an-incident|Create an incident]]

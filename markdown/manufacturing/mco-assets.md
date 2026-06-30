@@ -12,7 +12,7 @@ breadcrumb: [Set up Manufacturing Commercial Operations, Configure, Manufacturin
 
 # Configuring assets
 
-An asset is a specific product or instance that is supported for a [[manufacturing-overview|Manufacturing Commercial Operations]] to manage the asset details.
+An asset is a specific product or instance that is supported for a Manufacturing Commercial Operations to manage the asset details.
 
 Assets can have serial numbers or asset tag numbers and can be allocated to individual accounts or to a contact within an account. Assets can also have associated support contracts.
 
@@ -33,6 +33,3 @@ Select any field from the root table that you want to filter the data by.
 
 To learn how to configure assets, see .
 
-## Related
-
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

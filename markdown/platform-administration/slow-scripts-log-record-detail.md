@@ -12,7 +12,7 @@ breadcrumb: [Stats Tools, System Diagnostics, Maintain and monitor, Administer t
 
 # Slow scripts log record detail
 
-As an administrator, you can use Slow Scripts logs to gain insight into how events are affecting [[platform-performance-landing|platform performance]]. To aid in debugging, you can filter a slow script log by application scope, limiting scripts to only those scripts originating in specific scopes.
+As an administrator, you can use Slow Scripts logs to gain insight into how events are affecting platform performance. To aid in debugging, you can filter a slow script log by application scope, limiting scripts to only those scripts originating in specific scopes.
 
 <table id="simpletable_uy5_zlw_yp"><thead><tr><th>
 
@@ -88,7 +88,3 @@ Time and date at which the script was last executed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-performance-landing|Platform performance]]

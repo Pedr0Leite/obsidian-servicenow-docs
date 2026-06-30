@@ -16,7 +16,7 @@ breadcrumb: [Configure, Legal Request Management, Legal Service Delivery, Legal 
 
 Legal fulfillers can delegate their legal duties to other users while they are unavailable. The delegate gets the same level of access as the legal fulfillers to work on their legal requests, legal matters, legal matter tasks, and approvals.
 
-[[legal-management-overview|Legal Service Delivery]] supports the following delegations:
+Legal Service Delivery supports the following delegations:
 
 -   **ServiceNow AI Platform delegation**
 
@@ -26,23 +26,23 @@ Legal fulfillers can delegate their legal duties to other users while they are u
     -   Delegate only assignments
     -   Delegate both approvals and assignments
     -   Delegate notifications
--   **[[granular-delegation|Granular delegation]]**
+-   **Granular delegation**
 
     Granular delegation enables lawyers to choose which items from their assigned legal requests, legal matters, legal matter tasks, and approvals they want to delegate.
 
     **Note:** This delegation method requires activation of the Granular Delegation plugin \(com.glide.granular\_service\_delegation\).
 
-    Before lawyers can use the delegation, the administrator must configure the delegation rule tables, delegation rules, and the **My Delegate** workspace list in the [[legal-counsel-center|Legal Counsel Center Classic]] Workspace:
+    Before lawyers can use the delegation, the administrator must configure the delegation rule tables, delegation rules, and the **My Delegate** workspace list in the Legal Counsel Center Classic Workspace:
 
     -   Set the **My Delegate** workspace list on the Granular Delegate \[sys\_granular\_delegate\] table as active.
     -   Set the **My Delegate** workspace list on the Delegate \[sys\_user\_delegate\] table as inactive.
-    For the new experience [[legal-counsel-center-landing|Legal Counsel Center]] Workspace, open **&lt;instance&gt;/sys\_ux\_list\_list.do?sysparm\_query=titleLIKEMy%20Delegates**.
+    For the new experience Legal Counsel Center Workspace, open **&lt;instance&gt;/sys\_ux\_list\_list.do?sysparm\_query=titleLIKEMy%20Delegates**.
 
     The **My Delegate** UX list must be configured as follows:
 
     -   The **My Delegates** list on the Granular Delegate \[sys\_granular\_delegate\] table must be active.
     -   The **My Delegates** list on the Delegate \[sys\_user\_delegate\] table must be inactive.
-    A task is delegated when it matches the delegation rules specified for a delegation. For example, you can delegate only the [[privacy-assessment-requests|Privacy Assessment requests]]. A delegation rule can be set on the Legal Request \[sn\_lg\_ops\_request\] table with the condition as **\[Category\] \[is\] \[Privacy\]**.
+    A task is delegated when it matches the delegation rules specified for a delegation. For example, you can delegate only the Privacy Assessment requests. A delegation rule can be set on the Legal Request \[sn\_lg\_ops\_request\] table with the condition as **\[Category\] \[is\] \[Privacy\]**.
 
 
 -   **[Delegate legal duties to another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/delegate-legal-duties-approval.md)**  
@@ -59,10 +59,3 @@ Delegate legal duties relating to your assigned legal requests, legal matters, l
 
 [Setting up Granular Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/granular-delegation-setup.md)
 
-## Related
-
-- [[legal-management-overview|Legal Service Delivery]]
-- [[granular-delegation|Granular Delegation]]
-- [[legal-counsel-center|Legal Counsel Center Classic]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[privacy-assessment-requests|Privacy assessment requests]]

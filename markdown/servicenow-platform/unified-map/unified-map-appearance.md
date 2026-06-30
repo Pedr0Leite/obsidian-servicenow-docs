@@ -46,7 +46,7 @@ The home node is the CI that all other CIs on the map are associated with, direc
 
 -   Select and hold \(or right-click\) a node on the map and select **Set as home node**.
 
- **Note:** Connecting lines between nodes represent relationships and [[reference-document-management|references]], not data flow.
+ **Note:** Connecting lines between nodes represent relationships and references, not data flow.
 
  -   In the vertical layout, the home node appears at the center of CI connections. Upstream connections appear at the top and downstream at the bottom. This is the default layout for displaying mapped service instances \(formerly application services\) \[cmdb\_ci\_service\_discovered\].
 -   In the force layout, the home node appears at the center of CI connections.
@@ -71,7 +71,7 @@ Select the Filter icon \[Omitted image "icon-um-filter.png"\]
 
 1.  user presets
 2.  shared presets
-3.  shared presets that are defined in a **[[cmdb-workspace-unified-map|Unified Map]] shared presets** profile
+3.  shared presets that are defined in a **Unified Map shared presets** profile
 4.  class profile \(Class profiles contain only layer settings and are defined in the **Node Map Profiles** related list.\)
 
  **Note:** Filter settings that would filter out the home node might appear in the list. You can't, however, filter out the home node even if it meets filter settings.
@@ -107,7 +107,7 @@ Show relationship details
 Two CIs might be connected by one or more relationships \(stored in the CI Relationship \[cmdb\_rel\_ci\] table\). For example, two CIs might be connected by the **Runs On::Runs**, **Depends On::Discovered From**, and by the **Owned By::Owns** relationships.
 
 -   A solid line indicates a relationship. The arrowhead indicates the dependent node.
--   A dashed line indicates a [[reference|reference]].
+-   A dashed line indicates a reference.
 -   A badge on a line indicates the number of relationships between the CIs.
 
 Select a connection to display its attributes in the **Attributes** panel. For a CI with multiple relationships, select the badge to view details for all relationships.
@@ -255,9 +255,3 @@ Switch the layout of the map
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference-document-management|References]]
-- [[cmdb-workspace-unified-map|Unified Map]]
-- [[reference|Reference]]

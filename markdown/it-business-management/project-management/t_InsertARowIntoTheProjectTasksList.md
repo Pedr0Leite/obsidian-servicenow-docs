@@ -14,7 +14,7 @@ breadcrumb: [Create a project task from a project, Starting a project, Using Pro
 
 # Insert a row into the project tasks list
 
-You can create a new project task from the Project Task related list on the [[create-a-project-form|Project form]]. Administrators must enable this task-creation feature.
+You can create a new project task from the Project Task related list on the Project form. Administrators must enable this task-creation feature.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  In the Project form, navigate to the [[t_CreateAProjectTask|Project Tasks]] related list.
+1.  In the Project form, navigate to the Project Tasks related list.
 
 2.  Double-click **Insert a new row**.
 
@@ -33,7 +33,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Create a project task from a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateATaskFromAProject.md)
 
-## Related
-
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]

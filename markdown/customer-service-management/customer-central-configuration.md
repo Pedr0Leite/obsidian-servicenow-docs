@@ -22,8 +22,8 @@ The **Refresh requested** UI Builder property captures the last refresh timestam
 
 This property can be set for the following record pages:
 
--   [[csm-front-line-case-page|Front-line case page]]
--   [[csm-default-record-page|CSM default record page]]
+-   Front-line case page
+-   CSM default record page
 
 To configure this property on the Front-line case page:
 
@@ -37,7 +37,7 @@ To configure this property on the Front-line case page:
 
 To configure this property on the CSM default record page:
 
-1.  Select **[[customer-central|Customer Central]]**.
+1.  Select **Customer Central**.
 2.  Open the Customer history section.
 3.  Navigate to the Properties panel.
 4.  Capture the last refresh timestamp by enabling the **Refresh Requested** property.
@@ -78,7 +78,7 @@ The Customer History component is now available in the toolbox.
 
 ## Presets
 
-Admins can choose from two new presets for the Customer History component on the Front-line case page to better manage how [[customer-data|customer data]] is displayed.
+Admins can choose from two new presets for the Customer History component on the Front-line case page to better manage how customer data is displayed.
 
 -   Customer history for record page with lazy load
 -   Customer history for record page
@@ -138,9 +138,3 @@ To configure this property on the CSM default record page:
     -   **Quarter**: Groups activities by calendar quarter.
     -   **Year**: Groups activities by calendar year.
 
-## Related
-
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-default-record-page|CSM default record page]]
-- [[customer-central|Customer Central]]
-- [[customer-data|Customer data]]

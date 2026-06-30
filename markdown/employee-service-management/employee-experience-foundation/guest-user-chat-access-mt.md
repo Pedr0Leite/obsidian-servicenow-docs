@@ -25,7 +25,7 @@ Guests can take the following actions:
 
 For information about configuring access for guest users, see [Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
-Guest access configuration is applicable to the following tables in both IT Service Management integration with Microsoft Teams and [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams applications:
+Guest access configuration is applicable to the following tables in both IT Service Management integration with Microsoft Teams and HR Service Delivery integration with Microsoft Teams applications:
 
 -   HR Core task \(sn\_hr\_core\_task\)
 -   HR Life events Case \(sn\_hr\_le\_case\)
@@ -39,11 +39,7 @@ Guest access configuration is applicable to the following tables in both IT Serv
 The ServiceNow system admin can extend guest access to other tables.
 
 -   **[Enable chat access for a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/enable-guest-chat-access-mt.md)**  
-[[enable-guest-chat-access-mt|Enable chat access for a guest user]] while configuring ServiceNow® for Microsoft Teams settings for a pre-published app.
+Enable chat access for a guest user while configuring ServiceNow® for Microsoft Teams settings for a pre-published app.
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[enable-guest-chat-access-mt|Enable chat access for a guest user]]

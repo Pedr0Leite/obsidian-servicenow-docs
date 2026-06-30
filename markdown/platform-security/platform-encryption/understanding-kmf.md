@@ -26,15 +26,15 @@ The Key Management Framework \(KMF\) API/UX lets you fully customize and manage 
 
 -   **[Module access policy visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/map-vis-concept.md)**
 
-    Use [[map-vis-concept|module access policy visualization]] to view all relevant cryptographic module information on a single UI page.
+    Use module access policy visualization to view all relevant cryptographic module information on a single UI page.
 
 -   **[Module access policy debugger](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/map-debugger.md)**
 
-    Use the [[map-debugger|module access policy debugger]] to review logging information and understand why your [[users|users]] are or aren’t granted access to an [[encryption-landing|encryption]] context.
+    Use the module access policy debugger to review logging information and understand why your users are or aren’t granted access to an encryption context.
 
 -   **[Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md)**
 
-    With key management, [[field-encryption|Field Encryption]] is upgraded at no additional charge to the highly configurable encryption modules. You also have the option to upgrade to the unlimited-use license. Subscribe to the new encryption entitlement bundle, Platform Encryption, which includes [[now-platform-encryption|Field Encryption Enterprise]] and Cloud Encryption.
+    With key management, Field Encryption is upgraded at no additional charge to the highly configurable encryption modules. You also have the option to upgrade to the unlimited-use license. Subscribe to the new encryption entitlement bundle, Platform Encryption, which includes Field Encryption Enterprise and Cloud Encryption.
 
 
 -   **[Key Management Framework key life-cycle states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/key-life-cycle-states.md)**  
@@ -48,14 +48,5 @@ Use the module access policy debugger to review logging information and understa
 -   **[Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md)**  
 With Key Management, Field Encryption is upgraded at no additional charge to include highly configurable encryption modules. You can also optionally upgrade to the unlimited-use license. Subscribe to the new encryption entitlement bundle, Platform Encryption, which includes Field Encryption Enterprise and Cloud Encryption.
 
-**Parent Topic:**[[encryption|Key Management Framework]]
+**Parent Topic:**[Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
-## Related
-
-- [[encryption|Key Management Framework]]
-- [[map-vis-concept|Module access policy visualization]]
-- [[map-debugger|Module access policy debugger]]
-- [[users|Users]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]

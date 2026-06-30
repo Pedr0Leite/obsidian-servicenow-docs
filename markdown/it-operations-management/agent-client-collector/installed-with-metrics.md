@@ -14,7 +14,7 @@ breadcrumb: [ACC-M reference, Agent Client Collector reference, Agent Client Col
 
 # Components installed with Metric Intelligence
 
-Several types of components are installed with activation of the [[operational-metrics|Metric Intelligence]] \(com.snc.sa.metric\) plugin, including tables, scheduled jobs, and properties.
+Several types of components are installed with activation of the Metric Intelligence \(com.snc.sa.metric\) plugin, including tables, scheduled jobs, and properties.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -138,7 +138,7 @@ This happens when MID Servers are not able to connect with other members of the 
 
 </td></tr><tr><td>
 
-[[c_EM|Event Management]] - process [[metric-binding|metric binding]] events \[1000-1020\]
+Event Management - process metric binding events \[1000-1020\]
 
 </td><td>
 
@@ -301,7 +301,7 @@ Default configuration settings for Metric Intelligence MID Servers.
 
 </td></tr><tr><td>
 
-[[metric-configuration-rule|Metric Configuration Rules]]\[sa\_metric\_config\_rule\]
+Metric Configuration Rules\[sa\_metric\_config\_rule\]
 
 </td><td>
 
@@ -369,7 +369,7 @@ Anomaly Test Rules\[sa\_metric\_anomaly\_test\_rule\]
 
 </td><td>
 
-Anomaly test rules used for [[anomaly-model-test-concepts|anomaly model testing]].
+Anomaly test rules used for anomaly model testing.
 
 </td></tr><tr><td>
 
@@ -773,18 +773,10 @@ sa\_metric.scheduled\_jobs\_to\_monitor\_sys\_id\_list
 
 </td><td>
 
-Contains the sys\_ids of the 3 scheduled jobs that [[self-health-monitoring-oi|self-health monitoring for Metric Intelligence]] monitors: -   Metric Intelligence — Metric configuration job
+Contains the sys\_ids of the 3 scheduled jobs that self-health monitoring for Metric Intelligence monitors: -   Metric Intelligence — Metric configuration job
 -   Metric Intelligence — Sync tables with mid
 -   Metric Intelligence — Validate MID Distributed cluster
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-reference.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]
-- [[metric-binding|Metric binding]]
-- [[metric-configuration-rule|Metric Configuration Rules]]
-- [[anomaly-model-test-concepts|Anomaly model testing]]
-- [[self-health-monitoring-oi|Self-health monitoring for Metric Intelligence]]

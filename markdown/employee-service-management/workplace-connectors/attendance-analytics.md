@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for badging data, Configure, Workplace C
 
 # Attendance Analytics
 
-The Attendance analytics table computes badging data based on the employee head count at the region, site, campus, and building level. It derives occupancy data from the [[employee-attendance|Employee Attendance Data]] table.
+The Attendance analytics table computes badging data based on the employee head count at the region, site, campus, and building level. It derives occupancy data from the Employee Attendance Data table.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_wsd\_wc.admin
 
     Verify that the Event Type column is set to **Swipe-in** and the State column is set to **Access Granted**.
 
-2.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Workplace profiles**.
+2.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Workplace profiles**.
 
     -   Verify that the **Location** field is updated with the correct location. For more information, see [Set the primary location of a workplace profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/set-prim-location-of-worplace-profile.md).
     -   Verify that the **Workplace entity** column is mapped to the user workplace profile. For more information, see [Map designated workspaces to user profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/map-employees-to-existing-workplace-locations-wsd.md) and [Configure Workplace entity and entity types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-entity.md).
@@ -36,7 +36,7 @@ Role required: sn\_wsd\_wc.admin
 
     **Note:** Attendance data records with N-2 timestamp are processed by the scheduled job. Here, N is the current date or day before yesterday.
 
-    The Occupancy dashboard metrics can be viewed in [[workplace-central-feat|Workplace Central]]. The following roles can access the reports:
+    The Occupancy dashboard metrics can be viewed in Workplace Central. The following roles can access the reports:
 
     -   sn\_wsd\_central.workplace\_analytics\_user
     -   sn\_wsd\_wc.manager
@@ -48,7 +48,7 @@ Role required: sn\_wsd\_wc.admin
     -   The scheduled job **WSDHeadCount Daily Job** in Workplace Central runs daily, and retrieves data from the Employee Attendance table and loads it into the Attendance Analytics table.
     -   The WSDHeadCount Daily Job scheduled job checks for Workplace entity mapped values. It populates the employee space occupancy data based on the head count at the Region, Site, Campus, and Building level for a workplace entity.
 
-        \[Omitted image "workplace-attendance-analytics-dashboard.png"\] Alt text: [[workplace-analytics|Workplace Analytics]] showing Occupancy Dashboard metrics.
+        \[Omitted image "workplace-attendance-analytics-dashboard.png"\] Alt text: Workplace Analytics showing Occupancy Dashboard metrics.
 
     For more information, see [View Occupancy Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/view-badging-tables.md).
 
@@ -59,9 +59,3 @@ Role required: sn\_wsd\_wc.admin
 
 **Next topic:**[Setup Workplace Connectors for occupancy data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/setup-occupancy-connectors.md)
 
-## Related
-
-- [[employee-attendance|Employee attendance data]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-analytics|Workplace Analytics]]

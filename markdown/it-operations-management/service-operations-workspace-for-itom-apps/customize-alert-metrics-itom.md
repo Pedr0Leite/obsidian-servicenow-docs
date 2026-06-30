@@ -19,7 +19,7 @@ View the metrics for an alert and adjust the time range to see the trends for ei
 
 ## Before you begin
 
-Ensure you have the [[operational-metrics|Metric Intelligence]] \(sn\_metrics\_ng\) plugin installed.
+Ensure you have the Metric Intelligence \(sn\_metrics\_ng\) plugin installed.
 
 Configure the metrics to be displayed for the alert, as described in [Configure alert metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-alert-metrics-itom.md).
 
@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the List icon: \[Omitted image "list-icon-sow-itom.png"\] Alt text: List icon.
 
@@ -78,7 +78,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

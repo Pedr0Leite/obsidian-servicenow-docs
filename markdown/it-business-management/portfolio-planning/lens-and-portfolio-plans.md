@@ -19,7 +19,7 @@ Flexibly switch planning perspectives to prioritize, roadmap, and view the align
 
 ## Lenses
 
-Lens in [[portfolio-planning-app-landing-page|Portfolio Planning]] indicate a perspective by which you can prioritize and plan your work. Lens and its structure represent the way that different planning managers choose to prioritize, fund, and plan work. For example, depending on your role, you can plan work from the perspective of a delivery organization, strategic investment, product, and others.
+Lens in Portfolio Planning indicate a perspective by which you can prioritize and plan your work. Lens and its structure represent the way that different planning managers choose to prioritize, fund, and plan work. For example, depending on your role, you can plan work from the perspective of a delivery organization, strategic investment, product, and others.
 
 ## Pre-defined lenses and their structure
 
@@ -123,6 +123,3 @@ Start creating portfolio plans to improve the alignment of your work with the bu
 
 **Parent Topic:**[Exploring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/exploring-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

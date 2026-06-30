@@ -14,10 +14,10 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 # Indicators
 
-Indicators are artifacts observed on a network or operating system that are likely to indicate an intrusion. Typical IoCs are virus signatures and IP addresses, MD5 hashes of [[threat-intelligence-malware|malware]] files or URLs, or domain names.
+Indicators are artifacts observed on a network or operating system that are likely to indicate an intrusion. Typical IoCs are virus signatures and IP addresses, MD5 hashes of malware files or URLs, or domain names.
 
 -   **[Define an Indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-an-indicator.md)**  
-[[define-an-indicator|Define an Indicator]].
+Define an Indicator.
 
 **Parent Topic:**[TISC Library Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-ioc.md)
 
@@ -44,7 +44,3 @@ Indicators are artifacts observed on a network or operating system that are like
 
 [Vulnerability relationship mapping]()
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[define-an-indicator|Define an Indicator]]

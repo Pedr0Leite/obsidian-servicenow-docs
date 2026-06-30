@@ -22,13 +22,13 @@ Role required: timecard\_approver or timecard\_admin
 
 ## About this task
 
-A user manager can review, approve, or reject the [[time-sheets|time sheets]] or [[c_TimeCards|time cards]] submitted by the time card users. The user manager has either of the required roles and is the one listed as the manager of the time card users.
+A user manager can review, approve, or reject the time sheets or time cards submitted by the time card users. The user manager has either of the required roles and is the one listed as the manager of the time card users.
 
 During out-of-office time, the user manager can [delegate another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the time sheets submitted by the time card users to process.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Time Sheets** &gt; **[[worker-portal|Time Sheet Portal]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
 2.  Click the **My Time Sheet** list and select a time card user under **My Resources**.
 
@@ -72,8 +72,3 @@ The user can then modify the rejected time sheet and submit it again for approva
 </table>
 **Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/worker-portal.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[c_TimeCards|Time cards]]
-- [[worker-portal|Time Sheet Portal]]

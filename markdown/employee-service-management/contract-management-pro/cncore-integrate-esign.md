@@ -18,7 +18,7 @@ Configure an electronic signature provider to enable users to sign contract docu
 
 ## About this task
 
-The following video walks you through the process of configuring your e-signature provider for [[cncore-cmpro-landing-page|Contract Management Pro]].\[Omitted video\] Description: Video explaining how to configure e-signature provider for Contract Management Pro, approximately two minutes long.
+The following video walks you through the process of configuring your e-signature provider for Contract Management Pro.\[Omitted video\] Description: Video explaining how to configure e-signature provider for Contract Management Pro, approximately two minutes long.
 
 ## Before you begin
 
@@ -168,6 +168,3 @@ For information on configuring external storage, see [Configure an external stor
 
 [Configure an external storage system]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

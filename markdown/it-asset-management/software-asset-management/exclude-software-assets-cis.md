@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Exclude software assets on CIs
 
-You may want to manage software assets installed on a subset of your configuration items in the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+You may want to manage software assets installed on a subset of your configuration items in the Software Asset Management application.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ For example, some of your devices may be leased from a third party and you are n
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

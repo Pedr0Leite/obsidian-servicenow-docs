@@ -24,7 +24,7 @@ Role required: sn\_oper\_res.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configuration**.
+1.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configuration**.
 
 2.  Open the desired Main node configuration from the list.
 
@@ -32,13 +32,13 @@ Role required: sn\_oper\_res.admin
 
     \[Omitted image "main-node.png"\] Alt text: Main node configurations.
 
-3.  In the [[nexus-map-configuration|Nexus map configurations]] related list, select **New**.
+3.  In the Nexus map configurations related list, select **New**.
 
     The Nexus map configuration new record is displayed as shown in the example.
 
     \[Omitted image "nexus-map-new-record-empty.png"\] Alt text: New record.
 
-    For more information on the fields, see [[nexus-map-configuration-form|Nexus map configuration form]].
+    For more information on the fields, see [Nexus map configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/nexus-map-configuration-form.md).
 
 4.  Enter a unique name for the Nexus map configuration in the **Name** field.
 
@@ -75,14 +75,7 @@ Role required: sn\_oper\_res.admin
 
 ## What to do next
 
-To configure the node settings for the Nexus map, see [[configure-node-configurations|Configure the Node configurations]].
+To configure the node settings for the Nexus map, see [Configure the Node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-node-configurations.md).
 
-To configure the edge settings for the Nexus map, see [[configure-edge-configurations|Configure the Edge configurations]].
+To configure the edge settings for the Nexus map, see [Configure the Edge configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-edge-configurations.md).
 
-## Related
-
-- [[nexus-map-configuration-form|Nexus map configuration form]]
-- [[configure-node-configurations|Configure the Node configurations]]
-- [[configure-edge-configurations|Configure the Edge configurations]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[nexus-map-configuration|Nexus map configurations]]

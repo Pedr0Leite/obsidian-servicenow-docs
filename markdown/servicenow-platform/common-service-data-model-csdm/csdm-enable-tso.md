@@ -24,13 +24,13 @@ Role required: itil and itil\_admin
 
 Directly set the **Support group**, **Change group**, or **Managed by group** attributes in a Technology management offering. The settings are applied to all CIs that are associated with the Technology management offering.
 
-In addition to the method described in this procedure, you can use the [[ci-class-manager-landing-page|CI Class Manager]] to set any CI property value. If the **Support group**, **Change group**, or **Managed by group** value is set in the Technology management offering, the value specified by the Technology management offering takes precedence. For more information, see [CI Class Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-class-manager-landing-page.md).
+In addition to the method described in this procedure, you can use the CI Class Manager to set any CI property value. If the **Support group**, **Change group**, or **Managed by group** value is set in the Technology management offering, the value specified by the Technology management offering takes precedence. For more information, see [CI Class Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-class-manager-landing-page.md).
 
 **Note:** The **Managed by Group** setting identifies the group that manages a CI class \(ensuring that it is complete and correct\). It might or might not be the same group as repairs an individual CI.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[cmdb-groups|CMDB Groups]]** and create a CMDB group.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CMDB Groups** and create a CMDB group.
 
     See [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md) for details.
 
@@ -81,7 +81,3 @@ In addition to the method described in this procedure, you can use the [[ci-clas
 
 [CI Class Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-class-manager-landing-page.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[cmdb-groups|CMDB groups]]

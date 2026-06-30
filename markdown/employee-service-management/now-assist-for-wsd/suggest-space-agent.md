@@ -16,7 +16,7 @@ breadcrumb: [Using Now Assist in Virtual Agent, Now Assist for Workplace Service
 
 The Workplace Collaboration Agent provides insights on your team members in-office attendance. Based on this information, the reservation agent finds and reserves a space for reservation and collaboration. The collaboration agent considers your colleague's in-office days, location, and suggests a space for collaboration when you are in office.
 
-The [[create-reservation-request-1|Create a reservation]] agent helps employees find a space for reservation. The Workplace collaboration agent provides suggestions for reservations based on colleague’s attendance and proximity. Employees can find and reserve a workspace near a colleague. The collaboration agent helps in improving collaboration and workplace productivity. The collaboration agent provides insights on your colleagues in-office days.
+The Create a reservation agent helps employees find a space for reservation. The Workplace collaboration agent provides suggestions for reservations based on colleague’s attendance and proximity. Employees can find and reserve a workspace near a colleague. The collaboration agent helps in improving collaboration and workplace productivity. The collaboration agent provides insights on your colleagues in-office days.
 
 **Note:** Desks reservations are supported by the Workplace collaboration agent.
 
@@ -24,7 +24,7 @@ When providing suggestions for collaboration, the Collaboration agent prioritize
 
 Your collaborators can be categorized as:
 
--   Employee collaborators information derived from Employee Presence Exceptions and Employee Presence Routine in [[workplace-concierge-feat|Workplace Concierge]].
+-   Employee collaborators information derived from Employee Presence Exceptions and Employee Presence Routine in Workplace Concierge.
 -   Collaborator information is also derived from the invitees that you frequently add to your reservations with while making a reservation.
 -   Colleagues with whom you collaborate frequently. Your team members and your manager. If you are a manager, your collaborators are your team members reporting to you.
 
@@ -37,7 +37,7 @@ The workplace collaboration agent improves employee's reservation and collaborat
 -   When multiple collaborators with same name exists, the collaboration agent asks employees to select their preferred collaborator from a list of similar names. The collaboration agent makes suggestions and tries to find your preferred collaborator. For example, if there are two Abel in your organization, but you frequently collaborate with Abel Tuter, the collaboration agent selects Abel Tuter as your preferred collaborator.
 -   Provides ability to change the workplace preferences of an employee \(remote to in-office and vice versa\). If employees change their remote day to in-office day, an exception is created by the application in the Employee Presence Exceptions table.
 
-**Note:** If you are planning to sit near a colleague, and if your colleague has a desk reservation for one hour and doesn't have an All day reservation, you can [[reservation-portal|make a reservation]] for one-hour only. If an employee doesn't have any Employee Presence Exceptions and has no reservations made for a day while in office, the collaboration agent prioritizes the employee's workplace profile location and spaces around that location is suggested to the employee for collaboration.
+**Note:** If you are planning to sit near a colleague, and if your colleague has a desk reservation for one hour and doesn't have an All day reservation, you can make a reservation for one-hour only. If an employee doesn't have any Employee Presence Exceptions and has no reservations made for a day while in office, the collaboration agent prioritizes the employee's workplace profile location and spaces around that location is suggested to the employee for collaboration.
 
 -   **[Get space suggestions using the Workplace collaboration agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/collaboration-agent.md)**  
 The Workplace collaboration agent provides space recommendations and insights for collaboration based on employee's workplace presence data, team members or frequent collaborators, attendees in your reservation, and workplace profile \(assigned space\).
@@ -53,8 +53,3 @@ The Workplace collaboration agent provides space recommendations and insights fo
 
 [Components installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/components-installed-with-workplace-concierge.md)
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[reservation-portal|Make a reservation]]

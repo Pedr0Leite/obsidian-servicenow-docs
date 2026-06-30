@@ -22,7 +22,7 @@ Learn the process of binding Configuration Items \(CIs\) to alerts. This include
 
 ## Process of linking CIs to alerts
 
-1.  Event Arrival: When an event is received, [[c_EM|Event Management]] checks for node or CI identifiers.
+1.  Event Arrival: When an event is received, Event Management checks for node or CI identifiers.
 2.  Is Node Value Present?
 
     -   Yes: If a node value is provided, Event Management searches the CMDB for a matching host.
@@ -57,9 +57,5 @@ Learn the process of binding Configuration Items \(CIs\) to alerts. This include
 
 **Note:** To specify multiple statuses, separate each status number with a comma.
 
-To enrich alerts by identifying the CI or extracting, composing, or tagging alert fields, you can also create an enrich automation in [[workspace-dashboard-use|Service Operations Workspace]]. For more information, see [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
+To enrich alerts by identifying the CI or extracting, composing, or tagging alert fields, you can also create an enrich automation in Service Operations Workspace. For more information, see [Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

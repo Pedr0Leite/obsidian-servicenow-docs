@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -34,7 +34,7 @@ Role required: sn\_ohs\_im.manager or sn\_ohs\_im.agent
 
 5.  Navigate to the **Assignment group** field.
 
-    -   For the safety incidents, select **Report an incident** tab and then **Enter incident summary** playbook [[activity-lxp|activity]].
+    -   For the safety incidents, select **Report an incident** tab and then **Enter incident summary** playbook activity.
     -   For the safety observations list, select **Details** tab.
 6.  In the **Assignment group** field, select the safety group.
 
@@ -57,8 +57,3 @@ The assigned agent can start working on it to resolve it.
 
 **Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/managing-hs-incidents-obs.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

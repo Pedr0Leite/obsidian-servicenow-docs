@@ -27,7 +27,7 @@ Role required: admin or survey\_admin
 2.  Click **Download** and save the scorecard image to a storage location.
 
 
-**Parent Topic:**[[t_ViewAScorecard|View a survey scorecard]]
+**Parent Topic:**[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -40,6 +40,3 @@ Role required: admin or survey\_admin
 
 [Survey scorecard history]()
 
-## Related
-
-- [[t_ViewAScorecard|View a survey scorecard]]

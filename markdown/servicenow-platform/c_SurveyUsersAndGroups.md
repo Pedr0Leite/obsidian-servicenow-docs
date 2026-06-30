@@ -12,7 +12,7 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 # Survey users and groups
 
-Survey users and survey user groups help survey administrators control who can [[t_TakeASurvey|take a survey]].
+Survey users and survey user groups help survey administrators control who can take a survey.
 
 Survey administrators can restrict a survey so that only specified users can access it unless a survey administrator manually assigns the survey to a different user. Survey user groups provide a way to quickly designate multiple survey users.
 
@@ -23,22 +23,22 @@ The list of survey users for a survey is visible on the Survey Definition and Su
 -   The survey definition **Schedule** period is set to **Daily**, **Weekly**, **Monthly**, or **Yearly**. In this case the system assigns a new survey instance to each survey user at the beginning of each schedule period.
 -   The user has no instances of the survey that are incomplete or that have not yet reached their expiration date.
 
-You can designate survey users from the [[c_SurveyDesigner|Survey Designer]], the Survey Definition form, or the Survey Category form.
+You can designate survey users from the Survey Designer, the Survey Definition form, or the Survey Category form.
 
 **Note:** If there are trigger conditions for a survey, do not create survey users. Instead, use the Trigger Conditions form to assign users.
 
--   **[[t_CreatingSurveyUserGroups|Create a survey user group]]**  
-Survey user groups are groups that have the **Type** field set to survey and display only the information most relevant to [[r_SurveyManagementLandingPage|surveys]]. You can assign survey groups or any user group to surveys.
--   **[[t_SelRecipsForASurveyInDesigner|Select recipients for a survey in the Survey Designer]]**  
+-   **[Create a survey user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreatingSurveyUserGroups.md)**  
+Survey user groups are groups that have the **Type** field set to survey and display only the information most relevant to surveys. You can assign survey groups or any user group to surveys.
+-   **[Select recipients for a survey in the Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelRecipsForASurveyInDesigner.md)**  
 You can assign survey users while designing or modifying the survey.
--   **[[t_SurveyDefinitionForm|Designate a survey user]]**  
+-   **[Designate a survey user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SurveyDefinitionForm.md)**  
 You can designate one survey user at a time from the Survey Definition form.
--   **[[t_SurveyCategoryForm|Designate or remove multiple survey users at one time]]**  
+-   **[Designate or remove multiple survey users at one time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SurveyCategoryForm.md)**  
 Use the Survey Category form to designate or remove multiple survey users at a time.
--   **[[t_AllowRecipientsToRetakeASurvey|Allow recipients to retake a survey]]**  
+-   **[Allow recipients to retake a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_AllowRecipientsToRetakeASurvey.md)**  
 You can configure a survey to allow recipients to resubmit their answers as many times as they like, up to the survey's due date.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -75,26 +75,11 @@ You can configure a survey to allow recipients to resubmit their answers as many
 
 [Legacy survey migration]()
 
-[[t_SendSurveyInvitationsToUsers|Send survey invitations to users]]
+[Send survey invitations to users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SendSurveyInvitationsToUsers.md)
 
-[[c_TriggerConditions|Survey trigger conditions]]
+[Survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-[[c_SurveyCategory|Survey categories]]
+[Survey categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md)
 
-[[c_SurveyDefinitions|Survey definitions]]
+[Survey definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md)
 
-## Related
-
-- [[t_CreatingSurveyUserGroups|Create a survey user group]]
-- [[t_SelRecipsForASurveyInDesigner|Select recipients for a survey in the Survey Designer]]
-- [[t_SurveyDefinitionForm|Designate a survey user]]
-- [[t_SurveyCategoryForm|Designate or remove multiple survey users at one time]]
-- [[t_AllowRecipientsToRetakeASurvey|Allow recipients to retake a survey]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[t_SendSurveyInvitationsToUsers|Send survey invitations to users]]
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[c_SurveyCategory|Survey categories]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[t_TakeASurvey|Take a survey]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[r_SurveyManagementLandingPage|Surveys]]

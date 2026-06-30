@@ -14,7 +14,7 @@ breadcrumb: [Installing and configuring Password Reset Windows Application, Pass
 
 # Integrate McAfee disk encryption with the Password Reset Windows Application
 
-You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows desktop computer to support the [[win-password-reset-overview|Password Reset Windows Application]].
+You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows desktop computer to support the Password Reset Windows Application.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows deskt
 
 3.  Click the **Name** of your policy catalog \(**My Default** in the example\).
 
-4.  On the **Log On** tab, select the **V7.2 Onwards** tab and then select the **Allow integrated third-party credential providers ...** [[check-box|check box]].
+4.  On the **Log On** tab, select the **V7.2 Onwards** tab and then select the **Allow integrated third-party credential providers ...** check box.
 
     \[Omitted image "epo-log-on-tab.png"\] Alt text: Allow integrated third-party credential providers
 
@@ -56,7 +56,3 @@ You use ePolicy Orchestrator \(ePO\) to enable McAfee MDE 7.2 on a Windows deskt
 
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[check-box|Check box]]

@@ -14,13 +14,13 @@ breadcrumb: [Software Bill of Materials, Unified Security Exposure Management, S
 
 # Configuring Software Bill of Materials
 
-Download and activate the required applications for the [[sbom-landing|Software Bill of Materials]] \(SBOM\) application prior to uploading SBOM files.
+Download and activate the required applications for the Software Bill of Materials \(SBOM\) application prior to uploading SBOM files.
 
 ## Configuration overview
 
-1.  Download the required SBOM applications and any additional supported applications and integrations you want from the ServiceNow Store into your ServiceNow instance. See [Exploring Software Bill of Materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-exploring.md) and [[download-app-first-time|Download an application from the ServiceNow Store for the first time]] for more information about supported applications.
+1.  Download the required SBOM applications and any additional supported applications and integrations you want from the ServiceNow Store into your ServiceNow instance. See [Exploring Software Bill of Materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-exploring.md) and [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) for more information about supported applications.
 
-    The [[vuln-landing-page|Vulnerability Response]] application is required for SBOM Response. Install The Vulnerability Response application prior to installing SBOM Response.
+    The Vulnerability Response application is required for SBOM Response. Install The Vulnerability Response application prior to installing SBOM Response.
 
 2.  Locate the SBOM applications that you downloaded and select Install to activate them along with their dependencies in the following order. See [Install the supported applications for Software Bill of Materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-install-apps.md).
     -   Vulnerability Response and its dependencies
@@ -36,8 +36,3 @@ Download and activate the required applications for the [[sbom-landing|Software 
 
 4.  Refer to product documentation to configure any additional supported applications and integrations you installed. See [Vulnerability Response integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vuln_integrations.md) and [Integrating Application Vulnerability Response with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/application-vulnerability-response/avm-integrations.md).
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[sbom-landing|Software Bill of Materials]]
-- [[vuln-landing-page|Vulnerability Response]]

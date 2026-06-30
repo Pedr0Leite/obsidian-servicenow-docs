@@ -15,7 +15,7 @@ breadcrumb: [Tasks and requests, Working with Employee Slate capabilities, Emplo
 
 # Work with tasks and approvals
 
-Triage your queue from the [[employee-slate-landing-page|Employee Slate]] [[emp-slate-inbox|Tasks and requests]]. Review task summaries, act on approvals, apply conversational filters, and retrieve items through chat.
+Triage your queue from the Employee Slate Tasks and requests. Review task summaries, act on approvals, apply conversational filters, and retrieve items through chat.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: Employee
 
 ## About this task
 
-You can view, track, and act on pending tasks, approvals, and open requests across enterprise systems. These systems include HR approvals, IT tasks, [[exploring-learning-exp|learning]] content, and surveys.
+You can view, track, and act on pending tasks, approvals, and open requests across enterprise systems. These systems include HR approvals, IT tasks, learning content, and surveys.
 
 ## Procedure
 
@@ -65,8 +65,3 @@ You can view, track, and act on pending tasks, approvals, and open requests acro
 
 [Employee Slate prompt library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-slate-prompt-library.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[exploring-learning-exp|Learning]]

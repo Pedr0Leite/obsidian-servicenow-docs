@@ -12,7 +12,7 @@ breadcrumb: [Using Proactive Customer Service Operations, Automate and optimize,
 
 # Associate an outage to a major case
 
-Associate an outage with a major case to keep customers informed about any issues affecting their [[install-base-item|install base items]].
+Associate an outage with a major case to keep customers informed about any issues affecting their install base items.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ If there are any existing outages for services \(CIs\) on install base items rel
     -   The outage is associated with the case and the work notes are updated accordingly.
     -   Customer service agents can view the outages for a case in the Outages related list.
 
-## Related
-
-- [[install-base-item|Install base items]]

@@ -14,7 +14,7 @@ breadcrumb: [Real time protection, Data privacy, Data Privacy, Platform Privacy]
 
 # User sensitive data logs
 
-You can view the top 100 activity [[logs|logs]] for specific real-time protection [[ca-policies|policies]] that contain the most sensitive data from the last month.
+You can view the top 100 activity logs for specific real-time protection policies that contain the most sensitive data from the last month.
 
 ## About this task
 
@@ -22,7 +22,7 @@ Role required: data\_privacy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-privacy-landing|Data privacy]]** &gt; **[[real-time-protection|Real time protection]]** &gt; **[[real-time-protection-policies|Real time protection policies]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data privacy** &gt; **Real time protection** &gt; **Real time protection policies**.
 
 2.  Select **View logs** under the real-time protection policy that you want to view logs for.
 
@@ -78,11 +78,3 @@ Which action was taken, either Alert or Block.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[logs|Logs]]
-- [[ca-policies|Policies]]
-- [[data-privacy-landing|Data Privacy]]
-- [[real-time-protection|Real time protection]]
-- [[real-time-protection-policies|Real time protection policies]]

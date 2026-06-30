@@ -21,8 +21,5 @@ These default configurations are applied automatically when Apply default config
 |Notifications|Configures standard notifications to support Finance case workflows and communication.|
 |Intake forms|Activates required intake forms for submitting Finance requests and capturing case details.|
 
-**Parent Topic:**[[install-finance|Install Finance]]
+**Parent Topic:**[Install Finance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/install-finance.md)
 
-## Related
-
-- [[install-finance|Install Finance]]

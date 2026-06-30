@@ -15,7 +15,7 @@ breadcrumb: [Viewing system features and health alerts, Health Log Analytics, IT
 
 # Viewing Health Log Analytics system health alerts on the service map
 
-The ServiceNow [[c_EM|Event Management]] service map includes a model of the [[hla-landing-page|Health Log Analytics]] core components and the system health alerts that affect them.
+The ServiceNow Event Management service map includes a model of the Health Log Analytics core components and the system health alerts that affect them.
 
 Health Log Analytics and the Event Management application form a single service. Viewing the configuration items \(CIs\) that comprise Health Log Analytics and their relationships helps you visualize the impact of HLA system health issues on the service.
 
@@ -74,7 +74,3 @@ All elements that affect the log ingestion process.
 
 [Identify Health Log Analytics system health issues on the service map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-health-service-map-view.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[hla-landing-page|Health Log Analytics]]

@@ -26,7 +26,7 @@ To display the line number in the line detail view, follow the steps below. This
 
 2.  Add the new field to your line detail layout to make it visible when viewing line items.
 
-    Ensure that the field has the setting `"enableMarkdown": true`. Additionally, to display the row number on the LIG line, add the `"showLineNumbers": true` property to the `lineGrid` layout object in the non-line detail layout \(or [[layouts|layouts]]\).
+    Ensure that the field has the setting `"enableMarkdown": true`. Additionally, to display the row number on the LIG line, add the `"showLineNumbers": true` property to the `lineGrid` layout object in the non-line detail layout \(or layouts\).
 
 3.  Save and deploy the updated blueprint with the modified layouts.
 4.  In the Transaction UI, create a new transaction or open an existing one.
@@ -36,9 +36,5 @@ To display the line number in the line detail view, follow the steps below. This
     \[Omitted image "cpq-txn-mgr-use-case-display-line-number-2.png"\] Alt text: Line detail screen
 
 
-**Parent Topic:**[[transaction-manager-use-cases|Transaction Manager: Use cases]]
+**Parent Topic:**[Transaction Manager: Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-use-cases.md)
 
-## Related
-
-- [[transaction-manager-use-cases|transaction manager use cases]]
-- [[layouts|Layouts]]

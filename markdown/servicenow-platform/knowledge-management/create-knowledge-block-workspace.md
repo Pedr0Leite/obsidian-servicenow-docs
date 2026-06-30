@@ -14,11 +14,11 @@ breadcrumb: [Knowledge blocks authoring in Agent Workspace, Using knowledge bloc
 
 # Create a knowledge block in Agent Workspace
 
-[[create-modify-knowledge-block|Create a knowledge block]] for a knowledge base in Agent Workspace to reuse a piece of content in knowledge articles in that knowledge base.
+Create a knowledge block for a knowledge base in Agent Workspace to reuse a piece of content in knowledge articles in that knowledge base.
 
 ## Before you begin
 
--   Enable the [[knowledge-blocks|knowledge blocks]] feature for the knowledge base where you plan to create blocks. For more information, see [Enable knowledge blocks for each knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-knowledge-blocks-for-knowledge-base.md).
+-   Enable the knowledge blocks feature for the knowledge base where you plan to create blocks. For more information, see [Enable knowledge blocks for each knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-knowledge-blocks-for-knowledge-base.md).
 -   You must have contribute access to the knowledge base within which you want to create the knowledge block.
 
 Role required: agent\_workspace\_user and knowledge
@@ -88,7 +88,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge block. This field appears when the [[enable-ownership-group|ownership groups]] feature is enabled \(see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
+Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled \(see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md)\).**Note:** Knowledge blocks can be used without the ownership groups feature.
 
 </td></tr><tr><td>
 
@@ -138,7 +138,7 @@ Version
 
 </td><td>
 
-Version number of the knowledge block. This field is automatically set to a version number when the [[article-versioning|article versioning]] feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+Version number of the knowledge block. This field is automatically set to a version number when the article versioning feature is enabled.**Note:** Knowledge blocks can be used without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -146,7 +146,7 @@ Article type
 
 </td><td>
 
-Markup language used for formatting the block. This field is automatically set to [[html|HTML]] because**Note:** knowledge blocks are supported only with HTML knowledge articles.
+Markup language used for formatting the block. This field is automatically set to HTML because**Note:** knowledge blocks are supported only with HTML knowledge articles.
 
 </td></tr><tr><td>
 
@@ -177,10 +177,3 @@ Publication state of the block. This field is automatically set to the publicati
 
 [Edit a knowledge block in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-knowledge-block-workspace.md)
 
-## Related
-
-- [[create-modify-knowledge-block|Create a knowledge block]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[enable-ownership-group|Ownership groups]]
-- [[article-versioning|Article versioning]]
-- [[html|HTML]]

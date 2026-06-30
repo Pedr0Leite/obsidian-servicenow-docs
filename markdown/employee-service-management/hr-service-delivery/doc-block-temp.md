@@ -22,8 +22,5 @@ Key features include:
 
     Assume that there is a clause in a verification letter that is intended for employees of a particular geography or of a particular type. In this case, you can write a condition based on parameters such as employee location or employee type. Then, associate the condition to a content that must appear conditionally in the document that is being generated.
 
--   Translate [[document-templates-overview|document templates]] and document block content by installing Localization Framework and language plugins that you require.
+-   Translate document templates and document block content by installing Localization Framework and language plugins that you require.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

@@ -14,7 +14,7 @@ breadcrumb: [Collect employee input, HR Administration, Configure, Case and Know
 
 # Create an employee form
 
-Create or modify an [[ut-emp-form|employee form]] so that you can [[employee-form-configuration|collect employee input]]. Configuration of the employee form is a three-part process. First, create the employee form record. Second, use the survey designer to build one or more questions for the employee form. Third, you can map questions from the employee form to corresponding fields on a target table.
+Create or modify an employee form so that you can collect employee input. Configuration of the employee form is a three-part process. First, create the employee form record. Second, use the survey designer to build one or more questions for the employee form. Third, you can map questions from the employee form to corresponding fields on a target table.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Employee Form**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Employee Form**.
 
 2.  Click **New**.
 
@@ -50,14 +50,14 @@ Role required: sn\_hr\_core.admin
     -   Date/Time
     -   Number
     -   String
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
+    -   Reference
     For further details on the different question types, see [Survey designer elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md).
 
     **Note:** There are several limitations with native mobile screens, including custom and rating data types, validation scripts, read-only questions, and additional information fields. See this [KB article](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2769842) for more details.
 
     The following GIF shows an example of a user building a reference question and a boolean question in the survey designer.
 
-    **Note:** Make sure to provide each question a name so that you can more easily identify the question when creating mappings or [[hr-criteria|HR criteria]] records.
+    **Note:** Make sure to provide each question a name so that you can more easily identify the question when creating mappings or HR criteria records.
 
 7.  After building your questions, click **Save and Publish**.
 
@@ -100,7 +100,7 @@ Conditions
 Use the condition builder to identify one record on the table to access. Make sure that the result is a match to a single record. This field appears when **Add Mappings** is selected.**Note:** When defining conditions like case sensitivity or null values, see API [GlideFilter - Scoped, Global](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/c_GlideFilterScopedAPI.md).
 
 </td></tr></tbody>
-</table>    For example, you can map an employee form to the [[c_HRProfileRecords|HR Profile]] \[sn\_hr\_core\_profile\] table with the following condition:
+</table>    For example, you can map an employee form to the HR Profile \[sn\_hr\_core\_profile\] table with the following condition:
 
     \[User\] \[is \(dynamic\)\] \[Me\].
 
@@ -108,7 +108,7 @@ Use the condition builder to identify one record on the table to access. Make su
 
 10. To map one or more questions from the employee form to fields on the target table.
 
-    1.  In the **Employee Form [[field-mappings-sf|Field Mappings]]** section, click **New**.
+    1.  In the **Employee Form Field Mappings** section, click **New**.
 
     2.  Fill in the fields on the form.
 
@@ -176,17 +176,7 @@ You can use the employee form in task forms to collect employee input from users
 
 The following GIF shows an example of an HR agent creating a collect employee input task for an employee, Eva Seahorn, as part of an HR case.
 
-The follow GIF shows an example of the employee, Eva Seahorn, then completing the collect employee input to-do in the [[employee-center-landing-page|Employee Center]].
+The follow GIF shows an example of the employee, Eva Seahorn, then completing the collect employee input to-do in the Employee Center.
 
 **Parent Topic:**[Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md)
 
-## Related
-
-- [[ut-emp-form|Employee form]]
-- [[employee-form-configuration|Collect employee input]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hr-criteria|HR criteria]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[field-mappings-sf|Field mappings]]
-- [[employee-center-landing-page|Employee Center]]

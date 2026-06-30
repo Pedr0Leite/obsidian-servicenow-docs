@@ -15,7 +15,7 @@ breadcrumb: [Manage controls, Use, AI Risk and Compliance, Governance, Risk, and
 
 # Create control attestations for an AI asset
 
-Create control attestations for [[ai-assets-airc|AI assets]] to document the existence, implementation, and effectiveness of controls that govern behavior, data usage, performance, and risk posture. Attestations serve as formal evidence that the AI asset meets regulatory, ethical, security, and operational standards.
+Create control attestations for AI assets to document the existence, implementation, and effectiveness of controls that govern behavior, data usage, performance, and risk posture. Attestations serve as formal evidence that the AI asset meets regulatory, ethical, security, and operational standards.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance|AI Risk and Compliance]]** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-airc-ws.png"\] Alt text:.
 
@@ -46,8 +46,3 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst
 
 **Parent Topic:**[Manage controls using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/manage-controls-in-airc.md)
 
-## Related
-
-- [[ai-assets-airc|AI assets]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]

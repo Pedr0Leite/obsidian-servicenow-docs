@@ -14,7 +14,7 @@ breadcrumb: [Explore, Opportunity Marketplace, Hiring Experiences, HR Service De
 
 # Internal jobs
 
-[[egd-oppt-mrktplc-landing|Opportunity Marketplace]] enable you to create, publish, and maintain internal job posting. You can explore open roles \(positions\) within your company.
+Opportunity Marketplace enable you to create, publish, and maintain internal job posting. You can explore open roles \(positions\) within your company.
 
 Recommendations are based on your current role \(job position\), aspirations, and skills.
 
@@ -24,6 +24,3 @@ Artificial Intelligence \(AI\) is used in search to make sure the most relevant 
 
 **Parent Topic:**[Explore Opportunity Marketplace \(OPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-explore.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

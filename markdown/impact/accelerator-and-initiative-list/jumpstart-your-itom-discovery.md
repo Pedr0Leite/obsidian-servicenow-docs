@@ -18,11 +18,11 @@ This accelerator provides foundational guidance for a successful IT Operations M
 
 ## Accelerator Overview
 
-Jumpstart Your ITOM Discovery educates customers on the technical foundations of horizontal discovery within the ITOM Discovery product and proactively addresses key topics such as security considerations, product core configuration, automated CMDB data entry, and more. Through an overview and applied demonstration, customers will gain the knowledge and confidence needed to begin their ITOM Visibility journey effectively. Additionally, this accelerator includes key resources and leading practice guides to [[io-help|help]] customers throughout their journey.
+Jumpstart Your ITOM Discovery educates customers on the technical foundations of horizontal discovery within the ITOM Discovery product and proactively addresses key topics such as security considerations, product core configuration, automated CMDB data entry, and more. Through an overview and applied demonstration, customers will gain the knowledge and confidence needed to begin their ITOM Visibility journey effectively. Additionally, this accelerator includes key resources and leading practice guides to help customers throughout their journey.
 
 If you wish to know more about Top-Down Discovery \(Service Mapping\), please request the [Jumpstart Your Service Mapping accelerator.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/jumpstart-service-mapping.md)
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided, Guided+ \(Strategic Value or Platform Governance\), Advanced, and Total Packages. This offering currently makes use of a ServiceNow demonstration instance.
+**Note:** This Accelerator is available for Impact Guided, Guided+ \(Strategic Value or Platform Governance\), Advanced, and Total Packages. This offering currently makes use of a ServiceNow demonstration instance.
 
 ## What You Get
 
@@ -59,7 +59,3 @@ If you wish to know more about Top-Down Discovery \(Service Mapping\), please re
 |CMDB Administrator\(s\)|Maintains the stability and usability of the ServiceNow platform by performing application maintenance specifically within the CMDB.| |✓|
 |Trusted Service Partners|Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customer going forward.| |✓|
 
-## Related
-
-- [[io-help|Help]]
-- [[impact-landing-page|Impact]]

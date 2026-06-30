@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # Create an anomaly test rule
 
-To use the [[anomaly-model-test-concepts|anomaly model testing]], create an anomaly test rule in which you specify up to 20 metric series to test anomaly detection for. Run the anomaly test, and after it completes, use the provided URL to open the Insights Explorer which is pre-loaded with the model testing results.
+To use the anomaly model testing, create an anomaly test rule in which you specify up to 20 metric series to test anomaly detection for. Run the anomaly test, and after it completes, use the provided URL to open the Insights Explorer which is pre-loaded with the model testing results.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Anomaly Detection** &gt; **Anomaly Model Testing**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Anomaly Detection** &gt; **Anomaly Model Testing**.
 
 2.  Select an existing anomaly test rule to edit and run again, or click **New** and fill out the Anomaly Test Rules form.
 
@@ -63,7 +63,3 @@ The bounds and the chart for the anomaly model test, appear in faint colors in I
 
 [View metric values in the Insights Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/view-metrics-explorer.md)
 
-## Related
-
-- [[anomaly-model-test-concepts|Anomaly model testing]]
-- [[c_EM|Event Management]]

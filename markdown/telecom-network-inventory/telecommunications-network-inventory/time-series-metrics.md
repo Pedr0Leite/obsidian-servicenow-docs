@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Time series metrics for datacenter
 
-Use time series metrics to calculate the operational details of network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Use time series metrics to calculate the operational details of network assets in the Telecommunications Network Inventory application.
 
 |Name|Metric field name|Table name|
 |----|-----------------|----------|
@@ -46,6 +46,3 @@ Use time series metrics to calculate the operational details of network assets i
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

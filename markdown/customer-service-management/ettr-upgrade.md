@@ -16,7 +16,7 @@ After upgrading, configure some settings to view the **Time to Resolve Numeric V
 
 ## Before you begin
 
-You must have a trained default [[ettr|estimated time to resolve a case]] regression solution. For more information, see [[ettr_configure|Configure the default estimated resolution time]].
+You must have a trained default estimated time to resolve a case regression solution. For more information, see [Configure the default estimated resolution time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr_configure.md).
 
 Role required: admin
 
@@ -37,7 +37,3 @@ Role required: admin
     -   To display the script running on the screen, click **Proceed**.
     -   To run the script in the background, click **Proceed in Background**.
 
-## Related
-
-- [[ettr_configure|Configure the default estimated resolution time]]
-- [[ettr|Estimated time to resolve a case]]

@@ -49,7 +49,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **GRC State Models**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **GRC State Models**.
 
 2.  Open the state model record that contains workflow states.
 
@@ -75,7 +75,3 @@ Role required: sn\_irm\_cont\_auth.admin
 
 [Create GRC model state transition conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-state-transition-conditions.md)
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

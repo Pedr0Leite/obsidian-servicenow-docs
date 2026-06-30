@@ -14,7 +14,7 @@ breadcrumb: [Use, Public Sector Digital Services \(PSDS\)]
 
 Set up CSM Configurable Workspace for your agents and expand the Workspace UI so they can engage with customers, answer questions, create cases, and resolve issues.
 
-Government service agents can complete most tasks in CSM Configurable Workspace. For more information on how to set up the CSM Configurable Workspace, see [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]].
+Government service agents can complete most tasks in CSM Configurable Workspace. For more information on how to set up the CSM Configurable Workspace, see [Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md).
 
 The tables below describe some of the basic tasks that agents can perform in CSM Configurable Workspace.
 
@@ -40,7 +40,7 @@ Use the step-by-step guidance provided by playbooks to complete tasks and resolv
 
 </td><td>
 
-[[psds-using-playbooks-overview|Using Playbooks]]
+[Using Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-playbooks-overview.md)
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Create a case for a specific type of constituent request.
 
 </td><td>
 
-[[psds-gsp-resolving-case-tasks-agent|Creating and resolving case tasks]]
+[Creating and resolving case tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gsp-resolving-case-tasks-agent.md)
 
 </td></tr><tr><td>
 
@@ -82,14 +82,7 @@ Quickly respond to customers using different types of predefined information.
 
 </td><td>
 
-[[use-response-templates-psds|Use response templates in Service Request Playbook]]
+[Use response templates in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/use-response-templates-psds.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
-- [[psds-using-playbooks-overview|Using Playbooks Public Sector Digital Services]]
-- [[psds-gsp-resolving-case-tasks-agent|Creating and resolving case tasks as a government service agent in CSM Configurable Workspace]]
-- [[use-response-templates-psds|Use response templates in Service Request Playbook]]

@@ -31,12 +31,12 @@ Important when setting up your VM environment:
     **Note:** Be sure you have set this correctly; otherwise, MongoDB may crash when you attempt to restart the VM.
 
 -   Allocate 16 GB RAM for the Linux installation.
--   The OT Discovery Console requires a minimum of 100 GB of storage. Increase the storage based on Deep packet capture inspection requirements. See  or [[deployment-scenarios|Operational Technology Discovery deployment scenarios]] for information on storage requirements.
+-   The OT Discovery Console requires a minimum of 100 GB of storage. Increase the storage based on Deep packet capture inspection requirements. See  or [Operational Technology Discovery deployment scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md) for information on storage requirements.
 -   You must be on a VM to access images in the Discovery Console for OT.
 
 ## Procedure
 
-1.  On your ServiceNow instance, navigate to the [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]] Guided Setup page.
+1.  On your ServiceNow instance, navigate to the [Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-ot-discovery.md) Guided Setup page.
 
 2.  Select **Get Started**.
 
@@ -48,13 +48,13 @@ Important when setting up your VM environment:
 
     \[Omitted image "downloads-page-containerized2.png"\] Alt text: Downloads page
 
-    **Note:** For information on downloading and installing the containerized Console and Collector packages, see [[air-gapped-networks-installation|Air-gapped networks and OT Discovery installation]].
+    **Note:** For information on downloading and installing the containerized Console and Collector packages, see [Air-gapped networks and OT Discovery installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/air-gapped-networks-installation.md).
 
 5.  On the OT Discovery page, download the Discovery packages:
 
     1.  First download and install the Discovery Console for OT package.
 
-    2.  After the Console, download and [[install-discovery-sensor-for-ot|install the Discovery Sensor for OT]] package.
+    2.  After the Console, download and install the Discovery Sensor for OT package.
 
     3.  Finally, download and install the OT Discovery Collector package that is compatible with your machine's OS.
 
@@ -124,9 +124,3 @@ The installation for the Discovery Console for OT is complete. Before you instal
 
 **Note:** If you encounter any errors, [Contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[deployment-scenarios|Operational Technology Discovery deployment scenarios]]
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[air-gapped-networks-installation|Air-gapped networks and OT Discovery installation]]
-- [[install-discovery-sensor-for-ot|Install the Discovery Sensor for OT]]

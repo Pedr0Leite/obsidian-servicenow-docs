@@ -18,7 +18,7 @@ View CI logs to receive additional details on an incident when viewing live CI d
 
 ## Before you begin
 
-Ensure that you have installed [[acc-landing-page|Agent Client Collector]] Framework and [[workspace-dashboard-use|Service Operations Workspace]] on your instance.
+Ensure that you have installed Agent Client Collector Framework and Service Operations Workspace on your instance.
 
 Role required: itil
 
@@ -42,7 +42,4 @@ Role required: itil
 
     The logs appear on the **Log** page.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -50,7 +50,7 @@ Description
 
 </td><td>
 
-Display access key features and pages from any place in portal. It shows logo, search, profile, and others on level 1 of the header, and menu items on level 2 of the header.The appearance of menu items in level 2 of the header is determined by the [[portal-mega-menu-widget|Portal Mega Menu widget]] selected.
+Display access key features and pages from any place in portal. It shows logo, search, profile, and others on level 1 of the header, and menu items on level 2 of the header.The appearance of menu items in level 2 of the header is determined by the Portal Mega Menu widget selected.
 
 </td></tr><tr><td>
 
@@ -74,7 +74,7 @@ Display taxonomy topics along with the articles and catalog items related to the
 
 </td><td>
 
-Banner to display the announcements, new product or feature [[migration-form-highlights|highlights]], and important information on the top of the page.
+Banner to display the announcements, new product or feature highlights, and important information on the top of the page.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,7 @@ Display key information of a record from the tables available on ServiceNow® ta
 
 </td><td>
 
-Displays topics as cards on your portal page enabling your users to access knowledge articles and catalog items related to a topic displayed on your portal in a [[browse-taxo-widget|Portal Browse Taxonomy widget]].
+Displays topics as cards on your portal page enabling your users to access knowledge articles and catalog items related to a topic displayed on your portal in a Portal Browse Taxonomy widget.
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -162,8 +162,3 @@ Displays topics as cards on your portal page enabling your users to access knowl
 
 [Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal-widgets.md)
 
-## Related
-
-- [[portal-mega-menu-widget|Portal Mega Menu widget]]
-- [[migration-form-highlights|Highlights]]
-- [[browse-taxo-widget|Portal Browse Taxonomy widget]]

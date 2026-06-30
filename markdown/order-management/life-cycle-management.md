@@ -52,7 +52,7 @@ Active
 
 </td><td>
 
--   Modifications to the customer contract can be done manually, via integration and via [[order-mgt-overview|Sales Customer Relationship Management]] workflow.
+-   Modifications to the customer contract can be done manually, via integration and via Sales Customer Relationship Management workflow.
 -   The start date can't be modified.
 -   The end date can be extended and should be greater than the current date.
 -   customer contract line items can be added.
@@ -108,9 +108,5 @@ Exceptionally, when a contract line or entitlement in the Suspended state has re
 
 A customer contract line associated with a customer contract must be created within the customer contract's start and end dates. Any modification to the dates of customer contract lines must comply with the date range of the parent service contract.
 
-**Parent Topic:**[[pss-reference|Customer Contracts and Entitlements reference]]
+**Parent Topic:**[Customer Contracts and Entitlements reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/pss-reference.md)
 
-## Related
-
-- [[pss-reference|Customer Contracts and Entitlements reference]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

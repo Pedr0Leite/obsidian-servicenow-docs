@@ -22,7 +22,7 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Open the job requisition that you want to duplicate.
 
@@ -54,6 +54,3 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 [Open a job requisition in your ATS]()
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]

@@ -14,11 +14,11 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Create an automated factor
 
-Create automated [[factors|factors]] to automatically fetch data from other data sources such as tables or database views.
+Create automated factors to automatically fetch data from other data sources such as tables or database views.
 
 ## Before you begin
 
-You must have the [[r_WhatIsGRC|Governance, Risk, and Compliance]] Enterprise license.
+You must have the Governance, Risk, and Compliance Enterprise license.
 
 Role required: sn\_risk.admin
 
@@ -28,7 +28,7 @@ Automated factors help automate the risk assessment process. They do not to rely
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Automated Factors**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Automated Factors**.
 
 2.  Click **New**.
 
@@ -305,9 +305,3 @@ The factor is published and is ready for use in a Risk Assessment Methodology.
 
 [Create a scripted automated factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-scripted-automated-factor.md)
 
-## Related
-
-- [[factors|factors]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]

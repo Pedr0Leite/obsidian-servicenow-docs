@@ -93,7 +93,7 @@ Parent
 
 </td><td>
 
-The policy containing this policy. If you [[t_CreateAPolicyStatement-2|create a control objective]] from within a policy, this field is automatically filled.
+The policy containing this policy. If you create a control objective from within a policy, this field is automatically filled.
 
 </td></tr><tr><td>
 
@@ -135,7 +135,7 @@ Valid to
 
 Specifies the date and time until which the policy remains valid.**Note:**
 
-By default, when a policy expires, it doesn't automatically trigger a new approval process. Instead, it remains in the **Published**state until the specified number of days \(configured in the **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties** page\) have passed.
+By default, when a policy expires, it doesn't automatically trigger a new approval process. Instead, it remains in the **Published**state until the specified number of days \(configured in the **Policy and Compliance** &gt; **Administration** &gt; **Properties** page\) have passed.
 
 After this period, the policy transitions to either the **Review** state \(if reviewers are assigned\) or the **Draft** state \(if no reviewers are assigned\).
 
@@ -263,7 +263,3 @@ If you are implementing the [Policy and Compliance Management](https://raw.githu
 
 **Parent Topic:**[Manage control objectives and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PoliciesAndProcedures.md)
 
-## Related
-
-- [[t_CreateAPolicyStatement-2|Create a control objective]]
-- [[Administration|Administration]]

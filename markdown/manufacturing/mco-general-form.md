@@ -14,21 +14,14 @@ breadcrumb: [Reference, Manufacturing Commercial Operations]
 
 General forms used in MCO.
 
--   **[[mco-effectiveness-form|Effectiveness form]]**  
+-   **[Effectiveness form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-effectiveness-form.md)**  
 This form enables you to add the effectiveness information.
--   **[[mco-discuss-sidebar|Discuss form]]**  
+-   **[Discuss form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-discuss-sidebar.md)**  
 The Start a Sidebar discussion form enables you to start a discussion.
--   **[[mco-notes|Notes form]]**  
+-   **[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)**  
 Notes form enables you to add the watch list details.
--   **[[mco-resolution-information-form|Resolution information form]]**  
+-   **[Resolution information form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-resolution-information-form.md)**  
 This form enables you to add the report closing details.
 
-**Parent Topic:**[[manufacturing-reference|Reference]]
+**Parent Topic:**[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/manufacturing-reference.md)
 
-## Related
-
-- [[mco-effectiveness-form|Effectiveness form]]
-- [[mco-discuss-sidebar|Discuss form]]
-- [[mco-notes|Notes form]]
-- [[mco-resolution-information-form|Resolution information form]]
-- [[manufacturing-reference|Reference]]

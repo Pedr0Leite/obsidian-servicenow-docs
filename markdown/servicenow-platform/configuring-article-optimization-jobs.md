@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[knowledge-center|Knowledge Center]]** &gt; **Lists** &gt; **Article Optimization** &gt; **Jobs**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Center** &gt; **Lists** &gt; **Article Optimization** &gt; **Jobs**.
 
 2.  Select **New**.
 
@@ -47,6 +47,3 @@ Role required: admin
 
 The article optimization job is configured.
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]

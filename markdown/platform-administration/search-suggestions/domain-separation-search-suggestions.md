@@ -14,7 +14,7 @@ breadcrumb: [Search Suggestions reference, Search Suggestions, Search administra
 
 # Domain separation and Search Suggestions
 
-Domain separation is unsupported in the [[search-suggestions-overview|Search Suggestions]] application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in the Search Suggestions application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -29,14 +29,10 @@ Domain separation provides complete data isolation for domain-specific users.
 
 ## How domain separation works with Search Suggestions
 
-By default, Search Suggestions [[hs-results|results]] are limited to the specific domain of the logged-in user. Search and auto-complete suggestions aren't shared in parent or child domains.
+By default, Search Suggestions results are limited to the specific domain of the logged-in user. Search and auto-complete suggestions aren't shared in parent or child domains.
 
 **Related topics**  
 
 
 [Domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[hs-results|Results]]

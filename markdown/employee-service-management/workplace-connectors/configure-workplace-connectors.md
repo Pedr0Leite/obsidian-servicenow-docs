@@ -17,11 +17,11 @@ breadcrumb: [Workplace Connectors, Workplace Service Delivery, Employee Service 
 Configure Workplace Connectors to complete the installation and setup tasks.
 
 1.  [Install Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/install-workplace-connectors.md)  
-Install the [[workplace-connectors-landing-page|Workplace Connectors]] application from the ServiceNow Store.
+Install the Workplace Connectors application from the ServiceNow Store.
 2.  [Configure sensor data providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/providers-occupancy.md)  
-[[providers-occupancy|Configure sensor data providers]] in Workplace Connectors for retrieving the workplace sensor data from third-party data providers.
+Configure sensor data providers in Workplace Connectors for retrieving the workplace sensor data from third-party data providers.
 3.  [Setup Workplace Connectors for badging data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/setup-workplace-connectors.md)  
-As a Workplace Connectors administrator, configure Workplace Connectors to import data from workplace badging data records. For example, [[employee-attendance|employee attendance data]] from badging spokes.
+As a Workplace Connectors administrator, configure Workplace Connectors to import data from workplace badging data records. For example, employee attendance data from badging spokes.
 4.  [Setup Workplace Connectors for occupancy data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/setup-occupancy-connectors.md)  
 Configure workplace connectors to provide workplace occupancy data.
 5.  [Setup Workplace Connectors for environmental data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/setup-environmental-data-connectors.md)  
@@ -33,8 +33,3 @@ Configure the workplace environment data sensors to retrieve and fetch air quali
 
 **Next topic:**[Install Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/install-workplace-connectors.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[providers-occupancy|Configure sensor data providers]]
-- [[employee-attendance|Employee attendance data]]

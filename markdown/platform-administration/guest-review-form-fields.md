@@ -12,7 +12,7 @@ breadcrumb: [Reference, ServiceNow Store, Administering applications, Get starte
 
 # Guest review form fields
 
-A description of the fields on the Guest review form in the [[servicenow-store|ServiceNow Store]], as well as which fields are publicly visible after the review is published.
+A description of the fields on the Guest review form in the ServiceNow Store, as well as which fields are publicly visible after the review is published.
 
 |Field|Description|Visibility|
 |-----|-----------|----------|
@@ -24,9 +24,5 @@ A description of the fields on the Guest review form in the [[servicenow-store|S
 |Review|Feedback about the app. Your feedback could include whether you recommend the app, how user-friendly it is, features you'd like to see added in the future, and so on.|Publicly visible.|
 |Rating|Number of stars out of five, where a five-star rating is the highest and a one-star rating is the lowest.|Publicly visible.|
 
-**Parent Topic:**[[store-reference|ServiceNow Store reference]]
+**Parent Topic:**[ServiceNow Store reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/store-reference.md)
 
-## Related
-
-- [[store-reference|ServiceNow Store reference]]
-- [[servicenow-store|ServiceNow Store]]

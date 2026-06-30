@@ -14,7 +14,7 @@ breadcrumb: [Discovery Console for Operational Technology \(OT\), Operational Te
 
 Get started with the Discovery Console for OT application after it is installed and configured.
 
-\[Omitted image "console-home-page-display.png"\] Alt text: Discovery Console [[home-page|Home page]]
+\[Omitted image "console-home-page-display.png"\] Alt text: Discovery Console Home page
 
 ## Navigating the Console pages
 
@@ -22,6 +22,3 @@ The Discovery Console for OT is organized into multiple pages navigated by the s
 
 The next sections describe the Discovery Console for OT pages and how to use the Console's features.
 
-## Related
-
-- [[home-page|Home page]]

@@ -18,11 +18,11 @@ A color palette is a sequence of colors that apply to the elements in a chart, i
 
 The following reports can use a color palette. Select a color palette on the **Style** tab of the Report Designer:
 
--   [[c_CreatePieCharts|Pie charts]]
+-   Pie charts
 -   Bar and column charts that have a **Stack by** or **Group by** value
--   Line and [[c_CreateTrendCharts|trend reports]] that have a **Stack by** or **Group by** value
+-   Line and trend reports that have a **Stack by** or **Group by** value
 
-Color palettes are defined in the Chart color scheme \[pa\_chart\_color\_schemes\] table. Report admins have read access to this table. Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Color Settings** &gt; **Chart [[color-schemes-pa-widgets|Color Schemes]]**.
+Color palettes are defined in the Chart color scheme \[pa\_chart\_color\_schemes\] table. Report admins have read access to this table. Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Color Settings** &gt; **Chart Color Schemes**.
 
 **Tip:** A ServiceNow AI Platform or Performance Analytics admin can create custom Core UI color palettes. For more information, see [Create a color scheme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/color-schemes-pa-widgets.md).
 
@@ -36,9 +36,3 @@ In the following example, you see two reports on incidents that are grouped by d
 
 **Parent Topic:**[Predefined colors in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md)
 
-## Related
-
-- [[c_CreatePieCharts|Pie charts]]
-- [[c_CreateTrendCharts|Trend reports]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[color-schemes-pa-widgets|Color schemes]]

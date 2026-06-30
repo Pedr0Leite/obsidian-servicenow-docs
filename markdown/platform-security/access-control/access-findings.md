@@ -14,7 +14,7 @@ breadcrumb: [Access Management]
 
 # Access findings
 
-Access Findings is the proactive detection and remediation layer within [[access-management-console|Access Management Console]]. It runs eight out-of-box access checks against your instance on a daily schedule, surfaces prioritized findings when misconfigurations are detected, and provides a complete remediation workflow.
+Access Findings is the proactive detection and remediation layer within Access Management Console. It runs eight out-of-box access checks against your instance on a daily schedule, surfaces prioritized findings when misconfigurations are detected, and provides a complete remediation workflow.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -30,7 +30,3 @@ Access Findings is the proactive detection and remediation layer within [[access
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[access-management-console|Access management console]]

@@ -22,7 +22,7 @@ Role required: sn\_exam.catalog\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exam-engine|Career Assessment]]** &gt; **Exam Catalogs** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Career Assessment** &gt; **Exam Catalogs** &gt; **Create New**.
 
 2.  On the form, fill in the fields.
 
@@ -48,11 +48,7 @@ Add exams to an exam catalog in Career Assessment.
 
 [Create an exam]()
 
-[Add exams to a [[exploring-learning-exp|learning]] path from Career Assessment]()
+[Add exams to a learning path from Career Assessment]()
 
 [View an exam instance]()
 
-## Related
-
-- [[exam-engine|Career Assessment]]
-- [[exploring-learning-exp|Learning]]

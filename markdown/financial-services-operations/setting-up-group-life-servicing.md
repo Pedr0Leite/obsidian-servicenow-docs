@@ -12,9 +12,5 @@ breadcrumb: [Group Life Servicing, Life Insurance Servicing, Insurance applicati
 
 # Setting up Group Life Servicing
 
-You can set up your implementation for a [[group-life-servicing|Group Life Servicing]] application by installing the application, importing [[fso-overview|financial services]] data, and reviewing and configuring the components that are installed with the application.
+You can set up your implementation for a Group Life Servicing application by installing the application, importing financial services data, and reviewing and configuring the components that are installed with the application.
 
-## Related
-
-- [[group-life-servicing|Group Life Servicing]]
-- [[fso-overview|Financial Services]]

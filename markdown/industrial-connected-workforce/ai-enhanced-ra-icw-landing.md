@@ -29,18 +29,12 @@ The AI Enhanced recommended actions for Industrial Connected Workforce \(ICW\) f
 [Use\[Omitted image "bus-management-console.svg"\] Alt text:Learn how you can use the AI Enhanced recommended actions feature for ICW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/use-ai-enhanced-ra-icw.md)
 
 </td></tr></tbody>
-</table>-   **[[exploring-ai-enhanced-ra-icw|AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)]]**  
+</table>-   **[AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/exploring-ai-enhanced-ra-icw.md)**  
 The AI Enhanced recommended actions for Industrial Connected Workforce feature accesses external sources related to a deviation, and contextualizes how the document is relevant to the deviation.
--   **[[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]**  
+-   **[Configure AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-ai-enhanced-ra-icw.md)**  
 Configure AI Enhanced recommended actions for ICW to contextualize external sources related to a deviation.
--   **[[using-ai-enhanced-ra-icw|Using AI Enhanced recommended actions for Industrial Connected Workforce]]**  
+-   **[Using AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/using-ai-enhanced-ra-icw.md)**  
 After you configure AI Enhanced recommended actions for Industrial Connected Workforce, you can use the feature to contextualize external sources related to a deviation and generate an action plan.
 
-**Parent Topic:**[[industrial-connected-workforce-overview|Industrial Connected Workforce]]
+**Parent Topic:**[Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-overview.md)
 
-## Related
-
-- [[exploring-ai-enhanced-ra-icw|AI Enhanced recommended actions for Industrial Connected Workforce \( ICW\)]]
-- [[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[using-ai-enhanced-ra-icw|Using AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

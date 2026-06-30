@@ -19,11 +19,11 @@ Microsoft Word based contract template, enables you to create templates that are
 
 ## Word document templates
 
-Save time and the manual work of filling out contract documents or standard letters from scratch for each request by using contract or [[document-templates-overview|document templates]] to generate them. Word document templates can be used by business units to generate a contract document with predefined content when an employee submits a contract request. For example, you can [[cncore-create-contract-template|create a contract template]] for Non-disclosure agreement to generate a Non-disclosure agreement contract document.
+Save time and the manual work of filling out contract documents or standard letters from scratch for each request by using contract or document templates to generate them. Word document templates can be used by business units to generate a contract document with predefined content when an employee submits a contract request. For example, you can create a contract template for Non-disclosure agreement to generate a Non-disclosure agreement contract document.
 
-The contract template in [[cncore-cmpro-landing-page|Contract Management Pro]] takes a Microsoft Word document that contains content controls as an input. The content marked by the content controls are parsed and used to create clauses and clause variations.
+The contract template in Contract Management Pro takes a Microsoft Word document that contains content controls as an input. The content marked by the content controls are parsed and used to create clauses and clause variations.
 
-You can add content controls either manually or by using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]. Use only one method for a single contract template.
+You can add content controls either manually or by using the Microsoft Word add-in for ServiceNow Contracts. Use only one method for a single contract template.
 
 **Note:**
 
@@ -40,9 +40,3 @@ By using Microsoft Word add-in, you can add content controls on macOS as well as
 -   Document templates reduce the need for rework and maintain uniformity across documents.
 -   Ability to set up dynamic content generation through mappings and conditions for clauses and tables.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[cncore-create-contract-template|Create a contract template]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring DevOps Config, DevOps Config, IT Service Management]
 
 # DevOps Config and DevOps Change Velocity
 
-[[devops-landing-page-new|DevOps Change Velocity]] collects data from all of your DevOps tools, providing visibility across the entire lifecycle of deployment, while [[devops-config-landing-page|DevOps Config]] manages and validates your DevOps configuration data.
+DevOps Change Velocity collects data from all of your DevOps tools, providing visibility across the entire lifecycle of deployment, while DevOps Config manages and validates your DevOps configuration data.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
@@ -40,7 +40,3 @@ In DevOps Change Velocity, navigate to **DevOps** &gt; **Orchestrate** &gt; **Pi
 
 **Parent Topic:**[Exploring DevOps Config](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-getting-started.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[devops-config-landing-page|DevOps Config]]

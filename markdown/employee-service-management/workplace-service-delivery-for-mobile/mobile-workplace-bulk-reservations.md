@@ -14,11 +14,11 @@ breadcrumb: [Manage workplace schedule and in-office presence using Workplace Se
 
 # Create bulk reservations in Workplace
 
-Create bulk reservations in Workplace using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]. Employee can manage multiple planned reservations from the Workplace page.
+Create bulk reservations in Workplace using the Workplace Service Delivery for Mobile. Employee can manage multiple planned reservations from the Workplace page.
 
 ## Before you begin
 
-Create bulk reservations using the Workplace page. Select multiple days in the Schedule calendar view and reserve all selected days simultaneously. Check in or check out reservations, edit reservations, view reservation summary details, or cancel a reservation using Workplace. Manage your reservations and presence information using your mobile app. Change your **Remote** working days to **In-office** or **Visiting another office** presence days. Select your preferred space or desk. Add or edit [[workplace-services|workplace services]] to your reservations.
+Create bulk reservations using the Workplace page. Select multiple days in the Schedule calendar view and reserve all selected days simultaneously. Check in or check out reservations, edit reservations, view reservation summary details, or cancel a reservation using Workplace. Manage your reservations and presence information using your mobile app. Change your **Remote** working days to **In-office** or **Visiting another office** presence days. Select your preferred space or desk. Add or edit workplace services to your reservations.
 
 **Note:** The **sn\_wsd\_concierge.workplace\_day\_selection\_limit** property is configured by your administration for enabling multiple days selection on the Workplace page. This property when set to an integer value \(for example, 3, 5, and so on\) enables employees to select multiple dates or days on the calendar to make bulk reservations. For example, if this property is set to 5, employees can make bulk reservations and select only five dates or days on the calendar to make bulk reservations. For more information, see [Properties installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md).
 
@@ -27,13 +27,13 @@ If the Reservable Module Configuration property **Max days in future** is set to
 Make sure that you have the following applications:
 
 -   Workplace Service Delivery for Mobile
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Workplace Core
+-   Workplace Reservation Management
+-   Workplace Concierge
+-   Indoor Mapping
+-   Workplace Central
+-   Workplace Space Management
+-   Workplace Space Mapping
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -67,7 +67,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     If the user has no reservations for a selected day, a message appears 'You have no reservations for the this day".
 
-    When there's no reservations for a selected workday, the application shows "You have no desk reservations for today." If you don't [[reservation-portal|make a reservation]], application shows "You have not made a reservation for this week's in-office day for \(&lt;date and month name&gt;\)''. If you select a remote day, application shows "You are working from home this day."
+    When there's no reservations for a selected workday, the application shows "You have no desk reservations for today." If you don't make a reservation, application shows "You have not made a reservation for this week's in-office day for \(&lt;date and month name&gt;\)''. If you select a remote day, application shows "You are working from home this day."
 
 6.  In **Space suggestions** list view, review the suggested workspaces before making bulk reservations.
 
@@ -83,7 +83,7 @@ Role required: sn\_wsd\_core.workplace\_user
     -   Preferred collaborators
     \[Omitted image "wsd-workplace-mobile-space-suggestion-get-directions.jpeg"\] Alt text: Space card showing the Show on map to find your space on the map.
 
-    The tags displayed on a suggested space is fetched from the [[space-suggestion-configuration|Space Suggestion configuration]] table. These tags are displayed on the Space Suggestions card. For example, **Reserved frequently**, **Near your location**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the employees in-office preferences set in the Presence dashboard. For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md).
+    The tags displayed on a suggested space is fetched from the Space Suggestion configuration table. These tags are displayed on the Space Suggestions card. For example, **Reserved frequently**, **Near your location**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the employees in-office preferences set in the Presence dashboard. For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md).
 
 7.  To update or change a suggested workspace from Space Suggestions, select the **Suggest another** refresh button icon \(\[Omitted image "wsd-mobile-refresh-icon-workplace-suggestion.png"\] Alt text: Select the refresh button to suggest another workspace.\).
 
@@ -158,16 +158,4 @@ Role required: sn\_wsd\_core.workplace\_user
 
     7.  Select **Show on map** to open the location directory page and reserve a space using a floor map.
 
-## Related
 
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[reservation-portal|Make a reservation]]
-- [[space-suggestion-configuration|Space suggestion Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Alert executions information, Alert management rules for resolving 
 
 # View alert execution information
 
-You can click any link in the Alert Executions list to view the [[alert-execution|alert execution information]] of the referenced item. This information appears in the Alert Management Rule record only after an alert matched the filter in the rule and an action was performed.
+You can click any link in the Alert Executions list to view the alert execution information of the referenced item. This information appears in the Alert Management Rule record only after an alert matched the filter in the rule and an action was performed.
 
 ## Before you begin
 
@@ -26,11 +26,11 @@ Among the information shown in the Alert Executions list is:
 
 -   The list of alerts that matched the filter of the rule.
 -   The tasks, including incidents, that were opened.
--   Which [[ccg-remediation|remediation]] workflows ran and which subflows ran.
+-   Which remediation workflows ran and which subflows ran.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Alert Management Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Alert Management Rules**.
 
 2.  In the Alert Management Rules list, click the rule.
 
@@ -104,8 +104,3 @@ Date and time that the entry was created.
 </table>
 **Parent Topic:**[Alert executions information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-rule-execution.md)
 
-## Related
-
-- [[alert-execution|Alert execution information]]
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

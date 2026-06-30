@@ -26,7 +26,7 @@ This feature allows the you to redact or replace sensitive or personalized infor
 
 Within the outbound intelligence sharing record, you can apply redaction library to automatically filter out specific attributes or content before the payload is generated.
 
-In [[threat-intel-landing-page|Threat intelligence]] sharing, the sensitive information which is defined as redaction category values, and is replaced with the corresponding redaction category.
+In Threat intelligence sharing, the sensitive information which is defined as redaction category values, and is replaced with the corresponding redaction category.
 
 This is especially useful when sharing data with external organizations, where only the relevant and non-sensitive information should be disclosed.
 
@@ -34,7 +34,7 @@ By leveraging the Redaction Library feature, TISC administrators and analysts ca
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select **Administration** icon on the workspace.
 
@@ -135,7 +135,3 @@ Import redaction categories. Bulk importing of redaction categories and their as
 
 [Configuring Outbound Intel Sharing Templates]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

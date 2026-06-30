@@ -14,13 +14,13 @@ breadcrumb: [Connect Chat, Connect, ServiceNow AI Platform Additional Capabiliti
 
 # Connect Chat administration
 
-Administrators can configure various performance settings and features of [[c_Collaboration|Connect Chat]].
+Administrators can configure various performance settings and features of Connect Chat.
 
-**Note:** There are also settings that apply to both Connect Chat and [[c_ConnectSupport|Connect Support]]. For more information, see [Connect administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_ConnectAdministration.md).
+**Note:** There are also settings that apply to both Connect Chat and Connect Support. For more information, see [Connect administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_ConnectAdministration.md).
 
 ## Configure the email notification interval
 
-The [[email|email]] notification interval determines how long the system waits before sending a Connect Chat email notification to an inactive user.
+The email notification interval determines how long the system waits before sending a Connect Chat email notification to an inactive user.
 
 ### Before you begin
 
@@ -32,7 +32,7 @@ The default interval is 3 minutes. You can change this value.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_Connect|Connect]]** &gt; **Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Connect** &gt; **Administration** &gt; **Properties**.
 
 2.  Locate the property called **Number of minutes to wait before collecting unread messages and sending an email to offline users.** \(**collaboration.email\_interval**\) and set the value to a different number of minutes.
 
@@ -41,7 +41,7 @@ The default interval is 3 minutes. You can change this value.
 
 ### Result
 
-When an offline user is sent a Connect message, the collaboration.new\_offline\_message event fires. The system waits the amount of time provided in the collaboration.email\_interval property, then triggers the collaboration.[[notify-landing-page|notify]]\_offline\_user and collaboration.notify\_offline\_user.group events \(depending on if the conversation was peer to peer or a group conversation\).The sysevent\_email\_action record listens for collaboration.notify\_offline\_user\(.group\) then builds an email notification containing all the messages from the last collaboration.email\_interval minutes that the user has received in that conversation.
+When an offline user is sent a Connect message, the collaboration.new\_offline\_message event fires. The system waits the amount of time provided in the collaboration.email\_interval property, then triggers the collaboration.notify\_offline\_user and collaboration.notify\_offline\_user.group events \(depending on if the conversation was peer to peer or a group conversation\).The sysevent\_email\_action record listens for collaboration.notify\_offline\_user\(.group\) then builds an email notification containing all the messages from the last collaboration.email\_interval minutes that the user has received in that conversation.
 
 ## Enable record conversations for a table
 
@@ -203,10 +203,4 @@ Disabling Connect Chat hides the Connect Chat sidebar icon. Users who try to acc
 
 3.  Set the property value to **true**.
 
-## Related
 
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[email|Email]]
-- [[c_Connect|Connect]]
-- [[notify-landing-page|Notify]]

@@ -20,29 +20,29 @@ For example, if an employee moves from the sales department to the finance depar
 
 **Note:** If you don't select user roles for any of these components, any user who has access to the mobile app can see that component. However, users still may not see certain components, as user criteria permissions may be defined.
 
-For a full list of components where you can apply user roles and user criteria, see [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]].
+For a full list of components where you can apply user roles and user criteria, see [Mobile components where user roles and user criteria permissions apply](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/components-roles-criteria.md).
 
 User roles are supported in the following components: Native Client, screens, launcher screen, UI sections, and functions.
 
 -   **Native Client and applications**
 
-    Limit a user's ability to access certain applications in the mobile app. For example, prevent IT Service Management \(ITSM\) users from accessing Field Service Management \(FSM\) applications. Native Client relates to app level functionality and includes components like mobile themes, empty state, [[sg-mobile-tab-bar|navigation bar]], geolocation, and offline. You can also define that users don't have permission to view an app. For example, you want to prevent agents having access to the [[now-mobile-app|Now Mobile app]].
+    Limit a user's ability to access certain applications in the mobile app. For example, prevent IT Service Management \(ITSM\) users from accessing Field Service Management \(FSM\) applications. Native Client relates to app level functionality and includes components like mobile themes, empty state, navigation bar, geolocation, and offline. You can also define that users don't have permission to view an app. For example, you want to prevent agents having access to the Now Mobile app.
 
 -   **Screens**
 
-    Allow only users with specified roles to access screens within your mobile applications. For example, enabling only managers to view user records for all their employees. For more information, see  [[sg-mobile-applet|Mobile screen types]].
+    Allow only users with specified roles to access screens within your mobile applications. For example, enabling only managers to view user records for all their employees. For more information, see  [Mobile screen types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet.md).
 
 -   **Launcher screens**
 
-    Allow only users with specified roles to access launcher screens within your mobile apps. For example, [[launcher-screen-template|create a launcher screen]] that only employees with a manager role can see. Additionally, create a launcher screen with an employee role that everyone can view. For more information on launcher screens, see [[sg-mobile-applet-launcher|Launcher screens]].
+    Allow only users with specified roles to access launcher screens within your mobile apps. For example, create a launcher screen that only employees with a manager role can see. Additionally, create a launcher screen with an employee role that everyone can view. For more information on launcher screens, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md).
 
 -   **UI sections**
 
-    Limit a user’s ability to access certain UI sections within a launcher screen in the mobile app. For example, assign a development role to certain UI sections, and permit only users with specified development roles to view these UI sections. For more information on launcher screen UI sections, see [[alp-ui-sections|Launcher screen UI sections]].
+    Limit a user’s ability to access certain UI sections within a launcher screen in the mobile app. For example, assign a development role to certain UI sections, and permit only users with specified development roles to view these UI sections. For more information on launcher screen UI sections, see [Launcher screen UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/alp-ui-sections.md).
 
 -   **Functions**
 
-    Only allow users with certain roles to perform specified actions in the app. For example, limit an IT Infrastructure Library \(ITIL\) user's ability to reassign an incident from a swipe action. For more information on limiting user access by role to a specific function, see the steps for creating each function type listed in [[sg-studio-mobile-button-types|Mobile functions]].
+    Only allow users with certain roles to perform specified actions in the app. For example, limit an IT Infrastructure Library \(ITIL\) user's ability to reassign an incident from a swipe action. For more information on limiting user access by role to a specific function, see the steps for creating each function type listed in [Mobile functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-mobile-button-types.md).
 
 
 ## General guidelines for using user roles
@@ -52,20 +52,8 @@ User roles are supported in the following components: Native Client, screens, la
 -   For components where you can assign both user roles and user criteria, prioritize assigning user roles unless there's a specific need otherwise, as this approach streamlines operations and improves system responsiveness.
 -   User roles are supported in offline.
 
--   **[[user-roles-config|Assign mobile user roles permissions]]**  
+-   **[Assign mobile user roles permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-roles-config.md)**  
 Apply user roles to determine which components are accessible within mobile apps for specific groups of users.
 
-**Parent Topic:**[[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
+**Parent Topic:**[User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/roles-user-criteria.md)
 
-## Related
-
-- [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]]
-- [[sg-mobile-applet|Mobile screen types]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[alp-ui-sections|Launcher screen UI sections]]
-- [[sg-studio-mobile-button-types|Mobile functions]]
-- [[user-roles-config|Assign mobile user roles permissions]]
-- [[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[now-mobile-app|Now Mobile app]]
-- [[launcher-screen-template|Create a launcher screen]]

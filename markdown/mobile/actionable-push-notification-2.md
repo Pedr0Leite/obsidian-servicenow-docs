@@ -39,16 +39,12 @@ Role required: admin
     |queuestay-queueleave-back|Displays **Stay in Queue** and **Leave Queue** buttons. Users can select an option without opening the app.|
     |yes-no-back|Displays **Yes** and **No** buttons. Users can select an option without opening the app.|
 
-    If the base system push action categories do not meet your requirements, you can create new action categories for use in your [[sg-mobile-security-push-notif|push notifications]]. See the section below for details on this process.
+    If the base system push action categories do not meet your requirements, you can create new action categories for use in your push notifications. See the section below for details on this process.
 
     Your push notification displays buttons to your user in addition to the message content. In the next steps, you create functions that determine what happens when a users taps these actions.
 
 2.  Right-click the form header and click **Save**.
 
 
-**Parent Topic:**[[actionable-push-notification|Configure actionable push notifications]]
+**Parent Topic:**[Configure actionable push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/actionable-push-notification.md)
 
-## Related
-
-- [[actionable-push-notification|Configure actionable push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]

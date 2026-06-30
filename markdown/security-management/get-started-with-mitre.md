@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you have assigned the required ServiceNow AI Platform, [[threat-intel-landing-page|Threat Intelligence]], and [[sir-landing-page|Security Incident Response]] roles.
+Verify that you have assigned the required ServiceNow AI Platform, Threat Intelligence, and Security Incident Response roles.
 
 </td><td>
 
@@ -37,7 +37,7 @@ The following roles are used across the MITRE-ATT&amp;CK features:-   The admini
 -   sn\_ti.mitre\_analyst - The MITRE analyst role has been introduced to allow cross-navigation for the MITRE features between Security Incident Response and Threat Intelligence Support Common. With this role, you can view both the Threat Intelligence MITRE module and the Security Incident Response module in read-only mode.
 -   sn\_si.read
 
- For more information, see [[c_GetStartedWithThreatIntel|Setup Threat Intelligence]].
+ For more information, see [Setup Threat Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_GetStartedWithThreatIntel.md).
 
 </td></tr><tr><td>
 
@@ -45,14 +45,14 @@ Verify that the ServiceNow core applications that are required to support the MI
 
 </td><td>
 
-Verify that the following [[security-operations-landing-page|Security Operations]] applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
+Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
 
 -   Threat Intelligence Support Common UI Components \(sn\_ti\_seismic\) - Version 1.0 or higher
 -   Threat Intelligence Support Common - Version 12.0 or higher
 -   Threat Intelligence - Version 12.0 or higher
 -   Security Incident Response - Version 12.0 or higher
 
- For more information on setting up your ServiceNow AI Platform instance for the integration, see [[entitle-secops-product|get entitlement for a Security Operations product]] or application and [[activate-entitled-store-app|activate a ServiceNow Store application]].
+ For more information on setting up your ServiceNow AI Platform instance for the integration, see [get entitlement for a Security Operations product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) or application and [activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr><tr><td>
 
@@ -60,10 +60,10 @@ Domain separation
 
 </td><td>
 
-Verify the [[domain-separation-and-mitre-att-ck|domain separation section]] if you intend to separate data, processes, and administrative tasks.
+Verify the [domain separation section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/domain-separation-and-mitre-att-ck.md) if you intend to separate data, processes, and administrative tasks.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+</table>**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -94,7 +94,7 @@ Verify the [[domain-separation-and-mitre-att-ck|domain separation section]] if y
 
 [Define the data source and detection tool mapping]()
 
-[Define the data source and [[data-component|data component]] mapping]()
+[Define the data source and data component mapping]()
 
 [Define the technique detection coverage]()
 
@@ -114,14 +114,3 @@ Verify the [[domain-separation-and-mitre-att-ck|domain separation section]] if y
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[c_GetStartedWithThreatIntel|Set up Threat Intelligence]]
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[domain-separation-and-mitre-att-ck|Domain separation and MITRE-ATT&amp;CK]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[data-component|Data Component]]

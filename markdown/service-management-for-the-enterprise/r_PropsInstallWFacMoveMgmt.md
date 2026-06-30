@@ -12,21 +12,16 @@ breadcrumb: [Installed with Facilities Move Management, Activate Facilities Move
 
 # Properties installed with Facilities Move Management
 
-Properties control the behavior of the [[c_FacMoveMgmt|Facilities Move Management]] application.
+Properties control the behavior of the Facilities Move Management application.
 
 Facilities Move Management adds the following properties.
 
 |Property|Description|
 |--------|-----------|
-|The colors for segments on the [[c_MovePlanningTool|move planning tool]] \[facilities.enterprise.move.mpt.segment.colors\]|The colors for segments on the move planning tool|
+|The colors for segments on the move planning tool \[facilities.enterprise.move.mpt.segment.colors\]|The colors for segments on the move planning tool|
 |The color to use for highlighting seats on the move planning tool after the list of segment colors has been exhausted \[facilities.enterprise.move.mpt.overflow.seats.color\]|The color to use for highlighting seats on the move planning tool after the list of segment colors has been exhausted|
 |The color to use for non-selected segments \[facilities.enterprise.move.mpt.other.color\]|The color to use for non-selected segments|
 |The color to use for highlighting open seats on the move planning tool \[facilities.enterprise.move.mpt.open.seats.color\]|The color to use for highlighting open seats on the move planning tool|
 
-**Parent Topic:**[[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
+**Parent Topic:**[Installed with Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacMoveMgmt.md)
 
-## Related
-
-- [[r_InstallWFacMoveMgmt|Installed with Facilities Move Management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_MovePlanningTool|Move planning tool]]

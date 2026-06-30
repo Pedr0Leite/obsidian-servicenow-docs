@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Use bulk certificate upload
 
-In [[cert-inventory-mgmt|Certificate Inventory and Management]] version 1.2.0 and later, you have the option to efficiently import SSL certificates in bulk, allowing you to upload up to 5000 certificates within a single .xlsx file for time and resource savings.
+In Certificate Inventory and Management version 1.2.0 and later, you have the option to efficiently import SSL certificates in bulk, allowing you to upload up to 5000 certificates within a single .xlsx file for time and resource savings.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ If any errors occur while uploading, a warning message and link to the error log
 
 After the file is successfully uploaded, you can see a success message displayed with a **View All** redirect link. You can view a list of the certificates that were added to the Unique Certificate \[cmdb\_ci\_certificate\] table.
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

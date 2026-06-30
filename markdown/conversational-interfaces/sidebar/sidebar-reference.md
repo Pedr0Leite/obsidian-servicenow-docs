@@ -14,10 +14,7 @@ breadcrumb: [Sidebar, Conversational Interfaces]
 
 # Sidebar reference
 
-Read information about how [[sidebar-landing|Sidebar]] works with domain separation.
+Read information about how Sidebar works with domain separation.
 
 [Domain separation and Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/sidebar-domain-separation.md)
 
-## Related
-
-- [[sidebar-landing|Sidebar]]

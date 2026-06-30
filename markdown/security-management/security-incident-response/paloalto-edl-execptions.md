@@ -18,7 +18,7 @@ There are restrictions for adding External Dynamic List \(EDL\) entries to EDLs.
 
 ## Compatibility exception
 
-Each EDL only accepts entries that are compatible with its observable type. If you create a Domain EDL and you try to attach an IP address observable to it, an incompatible error message is displayed. For example, a domain EDL can only accept domain [[c_Observables|observables]].
+Each EDL only accepts entries that are compatible with its observable type. If you create a Domain EDL and you try to attach an IP address observable to it, an incompatible error message is displayed. For example, a domain EDL can only accept domain observables.
 
 ## Duplication exception
 
@@ -34,6 +34,3 @@ If you attempt to attach a single IP address to an EDL, and this IP address is p
 
 **Next topic:**[\(Optional\) Edit the security tag name for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto_edit_sectag_name.md)
 
-## Related
-
-- [[c_Observables|Observables]]

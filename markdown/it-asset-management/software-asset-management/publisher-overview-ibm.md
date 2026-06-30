@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for IBM, Supported softwar
 
 View license usage information related to IBM in the publisher overview for IBM in the Software Asset Workspace.
 
-From the [[sam-workspace|Software Asset Workspace]], access the IBM publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **IBM** from the list of available software publishers.
+From the Software Asset Workspace, access the IBM publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **IBM** from the list of available software publishers.
 
 Results are updated whenever a new reconciliation result is available.
 
@@ -100,6 +100,3 @@ Peak PVU utilization for your top 10 IBM software products.
 
 **Parent Topic:**[Software Asset Management publisher pack for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

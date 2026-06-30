@@ -12,18 +12,18 @@ breadcrumb: [Integration capabilities, Security Operations Integration Reference
 
 # Security Operations Integration- Sightings Search capability
 
-The **[[indicator-sightings|Sightings]] Search** capability accepts a set of [[c_Observables|observables]], finds any integrations that support a Sightings Search, then executes these searches.
+The **Sightings Search** capability accepts a set of observables, finds any integrations that support a Sightings Search, then executes these searches.
 
-The Sightings Search capability has a workflow, [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]], that executes the sightings search. This workflow accepts a list of observables, finds any implementing capabilities, creates the queries based on Sightings Search Configurations, and executes the searches based on the configured workflow. Once the search is complete, a note is added to the incident Work notes including whether any sightings were found and if so, how many.
+The Sightings Search capability has a workflow, [Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md), that executes the sightings search. This workflow accepts a list of observables, finds any implementing capabilities, creates the queries based on Sightings Search Configurations, and executes the searches based on the configured workflow. Once the search is complete, a note is added to the incident Work notes including whether any sightings were found and if so, how many.
 
-To view Sightings Search Configurations, navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Sightings Search Configurations**.
+To view Sightings Search Configurations, navigate to **Security Operations** &gt; **Integrations** &gt; **Sightings Search Configurations**.
 
 **Note:** If no implementations are available, capability actions are not displayed in product menus.
 
--   **[[sightings-search-configurations|Create sightings search configuration records]]**  
+-   **[Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)**  
 Create multiple sightings search configuration records and use them while querying multiple log stores or varying the search parameters.
 
-**Parent Topic:**[[integration-capabilities|Integration capabilities]]
+**Parent Topic:**[Integration capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/integration-capabilities.md)
 
 **Related topics**  
 
@@ -44,16 +44,7 @@ Create multiple sightings search configuration records and use them while queryi
 
 [Security Operations Integration- Publish to Watchlist capability]()
 
-[Security Operations Integration - [[tisc-threat-lookup|Threat Lookup]] capability]()
+[Security Operations Integration - Threat Lookup capability]()
 
 [Change the order of flow execution]()
 
-## Related
-
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[integration-capabilities|Integration capabilities]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-threat-lookup|Threat Lookup]]

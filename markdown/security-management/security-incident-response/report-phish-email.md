@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Click the list \(\[Omitted image "listview-icon.png"\] Alt text: list icon\) icon.
 
@@ -68,6 +68,3 @@ Role required: sn\_si.analyst
 
 [Manage Shift Handover records]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

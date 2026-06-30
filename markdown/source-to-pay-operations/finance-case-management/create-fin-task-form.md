@@ -14,7 +14,7 @@ breadcrumb: [Reference, Finance Case Management, Finance and Supply Chain applic
 
 # Create a finance task form
 
-Use the Create New Finance [[slo-task-form|task form]] to provide details about the finance task.
+Use the Create New Finance task form to provide details about the finance task.
 
 <table id="table_op1_2ml_w2c"><thead><tr><th>
 
@@ -109,6 +109,3 @@ Detailed description about the task.
 
 [Create knowledge base article form]()
 
-## Related
-
-- [[slo-task-form|Task form]]

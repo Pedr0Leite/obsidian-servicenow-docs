@@ -14,7 +14,7 @@ breadcrumb: [Internet Content Adaption Protocol \(ICAP\) integration for DLP IR,
 
 # Create a profile for ICAP DLP integration
 
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance. Determine the  ICAP DLP alerts that are suitable for creating DLP incidents.
+Create an incident profile in your  ServiceNow AI Platform instance. Determine the  ICAP DLP alerts that are suitable for creating DLP incidents.
 
 ## Before you begin
 
@@ -93,6 +93,3 @@ Set a schedule to retrieve ICAP DLP alerts that match the criteria in the profil
 
 **Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/icap-dlp-integration.md)
 
-## Related
-
-- [[ms-defender-profile|Create an incident profile]]

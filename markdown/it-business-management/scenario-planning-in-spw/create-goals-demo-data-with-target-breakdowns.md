@@ -14,7 +14,7 @@ breadcrumb: [Configuring goals in Strategic Planning, Configure, Portfolio Plann
 
 # Create goals demo data with target breakdowns
 
-Run the **Create Goals Demo Data with Target Breakdowns** schedule job to create goals demo data with target breakdowns, so that you can view the [[target-breakdowns-gf|target breakdowns]] section on the Goals page.
+Run the **Create Goals Demo Data with Target Breakdowns** schedule job to create goals demo data with target breakdowns, so that you can view the target breakdowns section on the Goals page.
 
 ## About this task
 
@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Search for and select the **Create Goals Demo Data with Target Breakdowns** scheduled job.
 
-3.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], ensure that the frequency is selected as **On Demand** in the **Run** field.
+3.  On the Scheduled Script Execution form, ensure that the frequency is selected as **On Demand** in the **Run** field.
 
 4.  Select **Execute Now**.
 
@@ -41,7 +41,3 @@ A goals demo data with target breakdowns is created. You can now view the target
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

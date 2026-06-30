@@ -14,7 +14,7 @@ breadcrumb: [Create and assign project tasks from Project Workspace, Managing pr
 
 # Update a project task from the Project Workspace
 
-Update the details of existing tasks from the planning page of the [[project-workspace-landing-page|Project Workspace]].
+Update the details of existing tasks from the planning page of the Project Workspace.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: it\_project\_manager, it\_project\_user
 
 **Parent Topic:**[Create and assign project tasks from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-project-task-from-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

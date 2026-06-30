@@ -14,7 +14,7 @@ breadcrumb: [Discovery classifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Reclassify a Windows Workstation machine as a server
 
-By default, [[r-discovery|Discovery]] automatically classifies computers using certain Windows operating systems as workstations. However, you might want specific computers in your network that are acting as servers to be classified by their function and not their operating system.
+By default, Discovery automatically classifies computers using certain Windows operating systems as workstations. However, you might want specific computers in your network that are acting as servers to be classified by their function and not their operating system.
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ Enter the value for the condition. In our example of a network with a server nam
 
 Run a discovery from the [Discovery schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) to find Windows machines on your network, and then check the cmdb\_ci\_win\_server table and related tables to see how data is populated in the CMDB.
 
-## Related
-
-- [[r-discovery|Discovery]]

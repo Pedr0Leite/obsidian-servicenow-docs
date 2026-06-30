@@ -18,7 +18,7 @@ As a contract configurator, add and configure metadata for fields, variable, and
 
 ## Before you begin
 
-The [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
+The Microsoft Word add-in for ServiceNow Contracts must have been configured. For more information, see [Configure the Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-word-addin.md).
 
 A contract template must exist that is active and is in the Draft or Editing state. For more information, see [Create a contract template to contain content controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-ct-word-addin.md).
 
@@ -28,7 +28,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 The metadata added for fields, variable, and variable sets act as placeholders for values that will be used while generating contract document.
 
-**Note:** In [[cncore-cmpro-landing-page|Contract Management Pro]] version 1.4.1, the Legal Contract Request form in [[legal-counsel-center-landing|Legal Counsel Center]] and [[cncore-contract-workspace|Contract Workspace]] displays only mapped legal fields for variables in the contract fulfiller view. You therefore need to apply the **Field mapping** option when setting up Metadata mapping for legal contracts. For existing templates with Variable mapping, edit the template and update the configuration with **Field mapping**.
+**Note:** In Contract Management Pro version 1.4.1, the Legal Contract Request form in Legal Counsel Center and Contract Workspace displays only mapped legal fields for variables in the contract fulfiller view. You therefore need to apply the **Field mapping** option when setting up Metadata mapping for legal contracts. For existing templates with Variable mapping, edit the template and update the configuration with **Field mapping**.
 
 For more information on editing a contract template, see [Edit a contract template using Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-edit-ct-addin.md).
 
@@ -133,9 +133,3 @@ Validation errors might occur for the following reasons:
 
 [Map contract tables using the Microsoft Word add-in for ServiceNow Contracts]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[cncore-contract-workspace|Contract Workspace]]

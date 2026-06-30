@@ -24,7 +24,7 @@ Role required: agent\_workspace\_user
 
 ## About this task
 
-This task provides steps to map related catalog items when editing an article in Agent Workspace. You can also map related catalog items when editing an article from the [[knowledge-management|Knowledge Management]] application in the ServiceNow AI Platform interface. For more information, see [Map catalog items related to an article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/map-related-items.md).
+This task provides steps to map related catalog items when editing an article in Agent Workspace. You can also map related catalog items when editing an article from the Knowledge Management application in the ServiceNow AI Platform interface. For more information, see [Map catalog items related to an article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/map-related-items.md).
 
 ## Procedure
 
@@ -97,6 +97,3 @@ The mapped catalog items are listed in the Related Items section on the Knowledg
 
 [Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-When you make a notification mandatory, the notification is locked in user [[preferences-landing|notification preferences]], preventing the user from removing or unsubscribing to the notification, filtering it, or changing the schedule.
+When you make a notification mandatory, the notification is locked in user notification preferences, preventing the user from removing or unsubscribing to the notification, filtering it, or changing the schedule.
 
-Users receive mandatory [[notifications|notifications]] even if they disable notifications.
+Users receive mandatory notifications even if they disable notifications.
 
 **Note:** Mandatory notifications apply to only the primary device of the user. You cannot make a notification mandatory for secondary devices.
 
@@ -42,18 +42,12 @@ Users receive mandatory [[notifications|notifications]] even if they disable not
 
     3.  Select **Save**.
 
-        For more information about configuring the form layout, see [[configure-form-layout|Configuring the form layout]].
+        For more information about configuring the form layout, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 4.  Select the **Mandatory** check box.
 
     When a user checks their notification preferences, the control button for the mandatory notification is on and is read only.
 
 
-**Parent Topic:**[[c_SubscriptionBasedNotifications|Subscription-based notifications]]
+**Parent Topic:**[Subscription-based notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_SubscriptionBasedNotifications.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[c_SubscriptionBasedNotifications|Subscription-based notifications]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]

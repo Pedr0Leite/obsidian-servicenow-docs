@@ -25,7 +25,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## About this task
 
--   The Product records are saved in the Application [[c_Models|Models]] \[cmdb\_application\_product\_model\] table.
+-   The Product records are saved in the Application Models \[cmdb\_application\_product\_model\] table.
 
     If the application model has a corresponding business application, the **View Business Application** related link is displayed on the Product form. Select **View Business Application** to view details of the corresponding business application.
 
@@ -33,7 +33,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -63,7 +63,3 @@ Role required: sn\_dpr\_model.product\_manager
 
 **Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-using-digital-product-release.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[dpr-workspace|Digital Product Release Workspace]]

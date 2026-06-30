@@ -19,7 +19,7 @@ Work with alerts, incidents, on-call schedules, and tasks on the go.
 ## ITOM Mobile Agent tasks
 
 1.  [Work with alerts in ITOM mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/work-itom-mobile-alerts.md)  
-Manage alerts on the go. Learn how to assign, reassign, and close alerts in [[itom-mobile-landing|ITOM Mobile Agent]]. You can also add work notes to alerts and [[create-incidents|create incidents]] from alerts.
+Manage alerts on the go. Learn how to assign, reassign, and close alerts in ITOM Mobile Agent. You can also add work notes to alerts and create incidents from alerts.
 2.  [Managing incidents and major incidents on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-incidents.md)  
 Manage and resolve incidents on the go using ITOM Mobile Agent. Learn how to create, process, and collaborate on incidents on your mobile device. You can also track and collaborate on major incidents.
 3.  [Working with On-Call Scheduling on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-on-call-scheduling.md)  
@@ -29,7 +29,3 @@ Manage change and catalog tasks on your mobile device using ITOM Mobile Agent. L
 
 **Parent Topic:**[ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-landing.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[create-incidents|Create incidents]]

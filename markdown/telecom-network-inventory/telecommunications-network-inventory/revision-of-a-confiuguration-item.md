@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Revision, operationalization, and decommission of a Configuration Item
 
-Revision of Configuration Item \(CI\) enables you to update the network attributes of a Configuration Item, such as attributes, connection elements, and relations using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can make a safe and efficient update to your network infrastructure by using the CI revision.
+Revision of Configuration Item \(CI\) enables you to update the network attributes of a Configuration Item, such as attributes, connection elements, and relations using the Telecommunications Network Inventory application. You can make a safe and efficient update to your network infrastructure by using the CI revision.
 
 ## CI revision overview
 
@@ -46,6 +46,3 @@ Let's say, you must update the IP address of a router in your network. This rout
 
 With the help of revise CI, you firstly, duplicate the router CI and all of its related data. Then, you change the IP address of the duplicated router and merge it back into the original CI with the help of operationalize CI. As a result, the changes are applied to the original router without disrupting the network. To learn more, see [Revise a configuration item using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/revise-a-configuration-item.md) and [Operationalize a configuration item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/operationalize-a-configuration-item.md).
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

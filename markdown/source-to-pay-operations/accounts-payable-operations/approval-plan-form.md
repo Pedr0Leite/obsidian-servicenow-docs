@@ -30,7 +30,7 @@ Field descriptions for the Approval Plan form used to review and configure invoi
 |State|Work status on the requested approval plan. The options are Pending, Open, Work in Progress, Closed Complete, Closed Incomplete, and Closed Skipped.|
 |Approver list|User or users responsible for approving the plan.|
 |Approver group list|List of groups containing the users responsible for approving the plan.|
-|Short description|Short description of the approval plan in the following format: Invoice approval required for &lt;[[supplier|supplier]] name&gt;.|
+|Short description|Short description of the approval plan in the following format: Invoice approval required for &lt;supplier name&gt;.|
 
 **Parent Topic:**[Accounts Payable Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-reference.md)
 
@@ -41,7 +41,7 @@ Field descriptions for the Approval Plan form used to review and configure invoi
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -67,7 +67,3 @@ Field descriptions for the Approval Plan form used to review and configure invoi
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

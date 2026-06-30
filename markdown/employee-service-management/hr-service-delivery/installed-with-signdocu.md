@@ -14,7 +14,7 @@ breadcrumb: [Document Template integration with Docusign, Integration of HR Serv
 
 # Components installed with Document Template integration with Docusign
 
-Several types of components are installed with activation of the [[docusign-doc|Document Template Integration with DocuSign]] \[sn\_dt\_docusign\] plugin, including user roles.
+Several types of components are installed with activation of the Document Template Integration with DocuSign \[sn\_dt\_docusign\] plugin, including user roles.
 
 Demo data is available for this feature.
 
@@ -38,7 +38,7 @@ Docusign Admin\[sn\_dt\_docusign.admin\]
 
 </td><td>
 
-Can configure [[document-templates-overview|document templates]] to use Docusign for signing.
+Can configure document templates to use Docusign for signing.
 
 </td><td>
 
@@ -46,8 +46,3 @@ None
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[docusign-doc|Document Template integration with Docusign]]
-- [[document-templates-overview|Document Templates]]

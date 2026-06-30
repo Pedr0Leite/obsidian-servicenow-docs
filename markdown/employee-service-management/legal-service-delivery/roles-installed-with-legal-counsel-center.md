@@ -14,7 +14,7 @@ breadcrumb: [Legal Counsel Center reference, Legal Counsel Center, Legal Service
 
 # Roles installed with Legal Counsel Center
 
-User roles are installed with activation of the [[legal-counsel-center-landing|Legal Counsel Center]] Workspace plugin.
+User roles are installed with activation of the Legal Counsel Center Workspace plugin.
 
 ## Roles
 
@@ -36,7 +36,7 @@ Legal Counsel Center Workspace administrator\[sn\_lg\_cf\_workspace.admin\]
 
 </td><td>
 
-Grants permissions to all administrators to change the Legal Counsel Center Workspace for [[legal-request-management-landing-page|Legal Request Management]] to fit into the business or user requirements.-   The chat\_admin role administers the chat tables.
+Grants permissions to all administrators to change the Legal Counsel Center Workspace for Legal Request Management to fit into the business or user requirements.-   The chat\_admin role administers the chat tables.
 -   The uxframework\_designer role has write access to UX page element records for designing UIs.
 -   The agent\_workspace\_user role enables you to perform interaction agent and interaction queue transfers.
 -   The sn\_agent\_recommend.recommendation \_admin role manages fulfiller assist recommendation configurations.
@@ -44,11 +44,11 @@ Grants permissions to all administrators to change the Legal Counsel Center Work
 -   The workspace\_list\_admin role enables you to manage Workspace lists and categories.
 -   The ui\_action\_admin role enables you to manage UI actions.
 -   The ui\_builder\_admin role provides permission to use the UI Builder APIs so you can create, update, read, and delete UX pages.
--   The uxframework\_user role enables you to browse and select from the library of UX component records so they can set a component [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field on any accessible table.
+-   The uxframework\_user role enables you to browse and select from the library of UX component records so they can set a component reference field on any accessible table.
 -   The sn\_intel\_analyzer.similarity \_analyzer\_admin role enables you to administer the Similarity Analyzer. The Similarity Analyzer defines patterns and trends that can help you resolve a record.
 -   The form\_admin role manages forms, form sections, and section elements.
 -   The personalize\_form role enables you to personalize forms.
--   The ui\_notification\_admin role enables you to [[setup-notif-content-triggers|configure notification triggers]].
+-   The ui\_notification\_admin role enables you to configure notification triggers.
 
 </td><td>
 
@@ -89,9 +89,3 @@ To access Legal Counsel Center, navigate to **Workspaces** &gt; **Legal Counsel 
 
 **Parent Topic:**[Legal Counsel Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-counsel-center-ws-reference.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[setup-notif-content-triggers|Configure notification triggers]]

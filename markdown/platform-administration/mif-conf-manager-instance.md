@@ -12,7 +12,7 @@ breadcrumb: [Cross-instance application trust configuration, Multi-instance Mana
 
 # Configure Manager Instances
 
-Implement the following steps to configure the Manager Instances in [[data-sync-landing-page|Multi-Instance Management]].
+Implement the following steps to configure the Manager Instances in Multi-Instance Management.
 
 ## Before you begin
 
@@ -63,6 +63,4 @@ Select the appropriate application from the application list using the lookup op
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[data-sync-landing-page|Multi-instance Management]]

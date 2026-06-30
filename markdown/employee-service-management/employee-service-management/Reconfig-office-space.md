@@ -14,7 +14,7 @@ Provide details on how an office space should be reconfigured.
 
 ## Before you begin
 
-**Important:** Starting with [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 Raise this request to rearrange your office space. Specify any extra information needed by the team responsible for the reconfiguration.
 
-You can also raise a request from the [[employee-center-landing-page|Employee Center]]. On the home page, navigate to **Workplace** &gt; **Browse all Workplace**. Select **[[Reconfig-office-space-1|Reconfigure an office space]]** and **Submit** the request after you fill the form.
+You can also raise a request from the Employee Center. On the home page, navigate to **Workplace** &gt; **Browse all Workplace**. Select **Reconfigure an office space** and **Submit** the request after you fill the form.
 
 ## Procedure
 
@@ -67,18 +67,10 @@ Your request is submitted.
 
 ## What to do next
 
-You can check the details of your request or choose to cancel it anytime using the Workplace Service Portal or the [[mobile-employee-experience|Now Mobile app]]. Click **Cancel Request** to cancel the request.
+You can check the details of your request or choose to cancel it anytime using the Workplace Service Portal or the Now Mobile app. Click **Cancel Request** to cancel the request.
 
 -   On Workplace Service Portal, go to the Requests tab to view your requests and reservations.
 -   On the Now Mobile app's navigation bar, tap **For Me** and scroll down to the My Request section to view your requests.
 
 When the request is resolved, select **Accept** or **Reject** based on the resolution received.
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[Reconfig-office-space-1|Reconfigure an office space]]
-- [[mobile-employee-experience|Now Mobile app]]

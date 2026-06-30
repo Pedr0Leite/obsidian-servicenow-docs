@@ -25,15 +25,11 @@ Control objective requirements are created for a control objective. The control 
 -   **[Fields on the Authorization Boundary form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-form-authorization-boundary.md)**  
 An authorization boundary defines the scope of a particular system that can be continuously managed and monitored using the CAM application.
 -   **[Fields on the Authorization Package form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-form-authorization-package.md)**  
-After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must [[create-auth-package|create an authorization package]] for that purpose. The package is processed through the seven steps mandated by the RMF.
+After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must create an authorization package for that purpose. The package is processed through the seven steps mandated by the RMF.
 -   **[Components installed with Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-components-installed.md)**  
 Activating the GRC: CAM plugin adds or modifies several tables, user roles, and other components.
 -   **[Configuring ATO artifacts report templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-configure-word-based-template.md)**  
 Configure the ATO artifacts report templates using the ServiceNow Document Designer with Word add-in.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[create-auth-package|Create an authorization package]]

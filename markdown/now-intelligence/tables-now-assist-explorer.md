@@ -36,7 +36,7 @@ now\_assist\_explorer\_user
 
 </td><td>
 
-Enables users to see AI Data Explorer in unified navigation and the Explore button \[Omitted image "analyze-ai-icon.png"\] Alt text: Explore with AI button on eligible lists and [[widgets|widgets]] on dashboards. Users can create explorations or browse and edit shared explorations.
+Enables users to see AI Data Explorer in unified navigation and the Explore button \[Omitted image "analyze-ai-icon.png"\] Alt text: Explore with AI button on eligible lists and widgets on dashboards. Users can create explorations or browse and edit shared explorations.
 
 **Note:** If you share an exploration with edit rights, but the user does not have this role, they can only view the exploration regardless.
 
@@ -50,7 +50,7 @@ now\_assist\_explorer\_admin
 
 </td><td>
 
-Can access and manage all explorations on the instance. Can control the visibility of AI Data Explorer in workspaces. Can view logs and manage tables in the semantic data layer \(inherited from sn\_query\_gen\_admin\). For more information, see [[query-generation-logs|Query Generation logs]] and [[add-table-semantic-layer|Add a table to the semantic data layer]].
+Can access and manage all explorations on the instance. Can control the visibility of AI Data Explorer in workspaces. Can view logs and manage tables in the semantic data layer \(inherited from sn\_query\_gen\_admin\). For more information, see [Query Generation logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/query-generation-logs.md) and [Add a table to the semantic data layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-table-semantic-layer.md).
 
 </td><td>
 
@@ -130,11 +130,5 @@ PAAI Canvas Workspace Config\[paai\_canvas\_workspace\_config\]
 Workspaces/experiences for which links from data visualizations to AI Data Explorer are turned off.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[now-assist-explorer-reference|AI Data Explorer reference]]
+</table>**Parent Topic:**[AI Data Explorer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/now-assist-explorer-reference.md)
 
-## Related
-
-- [[query-generation-logs|Query Generation logs]]
-- [[add-table-semantic-layer|Add a table to the semantic data layer]]
-- [[now-assist-explorer-reference|AI Data Explorer reference]]
-- [[widgets|Widgets]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Sidebar, Sidebar, Conversational Interfaces]
 
 # Adding the Discuss button
 
-To use [[sidebar-landing|Sidebar]], you must add the **Discuss** button to assets that do not have it automatically installed and to custom workspaces where you must enable Sidebar on an asset. After you add the **Discuss** button, you can create Sidebar discussions.
+To use Sidebar, you must add the **Discuss** button to assets that do not have it automatically installed and to custom workspaces where you must enable Sidebar on an asset. After you add the **Discuss** button, you can create Sidebar discussions.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You don’t need to add the **Discuss** button to these workspaces because it’
 |HR Agent Workspace \(Configurable only\)|Case|
 |HR Manager Workspace|Case, catalog task, change request, change task, incident, interaction, problem, request item|
 |ITSM Manager Workspace|Catalog task, change request, incident, interaction, request, request item|
-|Vendor [[management|Management]] Workspace|Change request, CMDB CI outage, core company, service credit|
+|Vendor Management Workspace|Change request, CMDB CI outage, core company, service credit|
 
 ## Procedure
 
@@ -95,7 +95,3 @@ If you want to enable Sidebar for non-task tables and add the Discuss button to 
 
 After you add the **Discuss** button, you must configure the activity stream. For more information, see [Activity stream in Sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/sidebar/activity-stream-sidebar.md).
 
-## Related
-
-- [[sidebar-landing|Sidebar]]
-- [[management|Management]]

@@ -14,7 +14,7 @@ breadcrumb: [E-signature reference, E-signature, Manage people and work capabili
 
 # Components installed with e-signature
 
-Several types of components are installed with activation of [[e-signature|e-signature]], including tables and user roles.
+Several types of components are installed with activation of e-signature, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -98,6 +98,3 @@ E-signature acknowledgment table.
 
 **Parent Topic:**[E-signature reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/e-signature/esignature-reference.md)
 
-## Related
-
-- [[e-signature|E-signature]]

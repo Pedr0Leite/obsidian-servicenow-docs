@@ -20,7 +20,7 @@ Capture metrics such as article views, page views, and portal searches to track 
 
 Set the duration over which the metrics are aggregated through the **glide.knowman.usage\_metrics\_duration** property. For more information, see [Other knowledge properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeProperties.md). By default, the property value is set to 60 minutes.
 
-You must activate the [[knowledge-management|Knowledge Management]] v3 plugin \(com.snc.knowledge3\).
+You must activate the Knowledge Management v3 plugin \(com.snc.knowledge3\).
 
 Role required: admin
 
@@ -34,7 +34,7 @@ Monitor the knowledge usage metrics to improve the overall effectiveness of the 
 
 2.  Search and open the **Knowledge Usage Metrics** scheduled job.
 
-3.  In the **Knowledge Usage Metrics** form, select the **Active** [[check-box|check box]] to activate the scheduled job.
+3.  In the **Knowledge Usage Metrics** form, select the **Active** check box to activate the scheduled job.
 
     The scheduled job is inactive by default.
 
@@ -58,7 +58,3 @@ Remove unwanted and older data from the knowledge usage metrics \[kb\_usage\_met
 
 **Parent Topic:**[User criteria diagnostics for Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/diagnose-knowledge-user-criteria.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

@@ -14,9 +14,9 @@ breadcrumb: [Using Usage Insights, Usage Insights, Platform Analytics]
 
 # Viewing session analytics
 
-The [[user-exp-analytics-landing|Usage Insights]] Sessions page in the Data Foundation module lists filterable application sessions you can drill down into for more detailed insights. Refine the sessions list to focus on data such as selected screens or events for your application.
+The Usage Insights Sessions page in the Data Foundation module lists filterable application sessions you can drill down into for more detailed insights. Refine the sessions list to focus on data such as selected screens or events for your application.
 
-To view the Sessions overview, navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Usage Insights**, select an application, and then select the **Data Foundation** &gt; **Sessions** module. Select a User ID in the Sessions list to view that user's sessions.
+To view the Sessions overview, navigate to **Platform Analytics** &gt; **Usage Insights**, select an application, and then select the **Data Foundation** &gt; **Sessions** module. Select a User ID in the Sessions list to view that user's sessions.
 
 \[Omitted image "uxa-session-analytics2-.png"\] Alt text: sessions analysis screen
 
@@ -246,7 +246,3 @@ Relevant details associated with the user, including Role, Department, and wheth
 
 [Session Details record]()
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

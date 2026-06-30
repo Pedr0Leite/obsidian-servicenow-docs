@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure the HTML editor toolbar for journal fields
 
-[[configure-onboarding-modals|Configure]] toolbar options for the HTML editor within journal input fields.
+Configure toolbar options for the HTML editor within journal input fields.
 
 ## Before you begin
 
@@ -70,6 +70,4 @@ Role required: admin
 
     3.  Select **Update**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

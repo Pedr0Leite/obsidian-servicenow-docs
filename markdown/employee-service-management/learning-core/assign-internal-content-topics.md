@@ -14,7 +14,7 @@ breadcrumb: [Create internal Learning content, Manage Learning, Using My Learnin
 
 # Assign topics to internal content
 
-Add assigned topics to internal [[exploring-learning-exp|learning]] content.
+Add assigned topics to internal learning content.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required:sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
 **Parent Topic:**[Create internal Learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-internal-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

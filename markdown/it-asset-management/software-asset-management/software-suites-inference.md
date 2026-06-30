@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management software suites, Exploring Software Asset
 
 Suite inference is used to determine whether the software is part of a suite and to infer the best or efficient suite to use when licensing.
 
-\[Omitted video\] Description: This video explains the software inference feature and how the [[c_SoftwareAssetMgmt|Software Asset Management]] application works with this feature.
+\[Omitted video\] Description: This video explains the software inference feature and how the Software Asset Management application works with this feature.
 
 ## Suite inference flow
 
@@ -25,15 +25,15 @@ The process of suite inference is divided into two stages:
 -   Building the suite structure.
 -   Inferring the best suite for the software installation or subscription records.
 
-After the suite structure is built based on the entitlements, [[c_CreatingSoftwareModels|software models]], and suite relationships, the installs and subscription records are processed.
+After the suite structure is built based on the entitlements, software models, and suite relationships, the installs and subscription records are processed.
 
 After the suite engine runs, the Inferred suite column of all install and subscription records that are part of a suite is stamped with a reference to the software model of the most optimal suite parent. For more information about the rules ranking, see the **Suite inference rules**. Entitlements for this software model license are each stamped record.
 
-The suite engine prioritizes subscription suite [[c_Models|models]] and inferences on software subscription records. Next, on-premises suite models and software installation records are inferred.
+The suite engine prioritizes subscription suite models and inferences on software subscription records. Next, on-premises suite models and software installation records are inferred.
 
 When a suite parent licensing is used, the individual child components licensing isn't used.
 
-**Note:** Users with the model\_manager role can navigate to **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Software Models**, but can’t administer all aspects of software models.
+**Note:** Users with the model\_manager role can navigate to **Product Catalog** &gt; **Product Model** &gt; **Software Models**, but can’t administer all aspects of software models.
 
 The system property **Use component licenses to optimize compliance when suite licenses run out** is set by default to **false** for Microsoft license metrics, which enables you to use both suite component and suite parent licenses. This property only applies to Microsoft license metrics.
 
@@ -78,7 +78,7 @@ When the system property **Use component licenses to optimize compliance when su
 
 1.  If there are multiple suites that can be inferred for the component, then the suite which meets the inference percent is preferred.
 2.  The suite candidate with the highest number of installed components is preferred.
-3.  If there’s still a tie, the suite with the lower [[downgrade-rights|downgrade rights]] is chosen. For example, CIS 2019 and CIS 2016 are both candidates and have the same number of installed components. However, since CIS 2016 is the downgrade of CIS 2019 and it has fewer downgrade rights, CIS 2016 is chosen.
+3.  If there’s still a tie, the suite with the lower downgrade rights is chosen. For example, CIS 2019 and CIS 2016 are both candidates and have the same number of installed components. However, since CIS 2016 is the downgrade of CIS 2019 and it has fewer downgrade rights, CIS 2016 is chosen.
 4.  The parent suite that meets the inference percent is preferred over the child suite. If the parent suite doesn't meet the inference percent, the child suite is preferred.
 5.  If there’s still a tie, the one with the highest percentage of installed components is preferred.
 
@@ -88,10 +88,3 @@ As an example, let's say you specify the **Inference percent** as 75% and set th
 
 **Parent Topic:**[Software Asset Management software suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-suites.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[downgrade-rights|Downgrade Rights]]

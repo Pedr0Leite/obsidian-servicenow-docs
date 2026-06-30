@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the assignment rules settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up assignment rules**.
 
@@ -35,7 +35,7 @@ Role required: awa\_admin or admin
 
     -   **Name**: `Case Assignment Rule with Skills`
     -   **Assign by**: `Most Capacity`
-    -   **Enable auto-assign [[awa-work-items|work items]]**: Selected
+    -   **Enable auto-assign work items**: Selected
 
         **Note:** Selecting this option automatically accepts chat interactions on behalf of agents. The **Display options** field appears and you can select either **Inbox card** or **Inbox card and workspace tab**.
 
@@ -44,7 +44,4 @@ Role required: awa\_admin or admin
     -   **Enforce mandatory skills**: Selected
 4.  Select **Submit**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]

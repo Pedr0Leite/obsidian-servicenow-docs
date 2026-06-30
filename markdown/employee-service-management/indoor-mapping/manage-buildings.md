@@ -26,7 +26,7 @@ Role required: map admin, map editor, map editor limited
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
 2.  Select a campus.
 
@@ -89,7 +89,7 @@ Floor
 Floor to which places and place types are added.
 
 </td></tr></tbody>
-</table>    **Note:** If places in a CAD file are configured using the [[autocad-ovw-v2|Autocad Import tool]] \(Indoor Mapping v.18.0\), only the **Place type** field is editable in the Place edit panel. The **Name**, **Title**, and **Floor** are read-only fields. For more information, see [Configure places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-places.md).
+</table>    **Note:** If places in a CAD file are configured using the Autocad Import tool \(Indoor Mapping v.18.0\), only the **Place type** field is editable in the Place edit panel. The **Name**, **Title**, and **Floor** are read-only fields. For more information, see [Configure places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-places.md).
 
 9.  Select **New polygon** to add polygons or points respectively.
 
@@ -110,7 +110,7 @@ Floor to which places and place types are added.
     |Add a Marker|Marker on the map. Add a marker to see the location pin on the map. Markers define the icon \(image\) of place and identifies a location on your map.|
     |Add an Entrance|Entrance to a room is used by the wayfinding application. If you add an entrance, your pathway stops at the entrance.|
 
-12. Select a place \(configured using the [[autocad-v2-config-layout|CAD configuration]] page\) to open the place editing panel.
+12. Select a place \(configured using the CAD configuration page\) to open the place editing panel.
 
     Notice that the **Name**, **Title**, and **Floor** are read-only fields and cannot be edited. Only the **Place type** field can edited. A validation message is displayed to inform that the selected place was created using an Autocad file. These fields can be edited in the Autocad Configuration page \(Indoor Mapping v 1.8.0\). For more information, see [Autocad import tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/autocad-ovw-v2.md) and [Configure places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-places.md).
 
@@ -122,7 +122,7 @@ Floor to which places and place types are added.
 
     When you select a place, the Place Edit panel shows the CAD file properties such as room, capacity, etc. The AutoCAD properties are stored in a dedicated table **sn\_map\_core\_place\_properties**. For more information, see [Compute CAD file properties to extract space or room surface area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/compute-cad-properties.md).
 
-    The Indoor Mapping application provides the ability to extract room dimension from CAD files and to use it in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] rooms and space measurements.
+    The Indoor Mapping application provides the ability to extract room dimension from CAD files and to use it in Workplace Service Delivery rooms and space measurements.
 
 
 -   **[Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md)**  
@@ -134,9 +134,3 @@ To manage places and place types in Indoor Mapping Map Studio, start with creati
 
 **Next topic:**[Create Indoor Mapping icons and place types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/place-icons-place-type.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[autocad-ovw-v2|Autocad import tool]]
-- [[autocad-v2-config-layout|CAD configuration]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

@@ -22,15 +22,15 @@ Role required: business\_calendar\_admin
 
 ## About this task
 
-When you create a business calendar, you specify a [[reference-email-admin|reference]] name, labeling, parent business calendar, if any, and a time zone for it.
+When you create a business calendar, you specify a reference name, labeling, parent business calendar, if any, and a time zone for it.
 
 You first create a business calendar record and then create business calendar entries for it in the Business Calendar Entries related list. To learn more about how business calendar entries work, see [Define business calendar entries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-entries.md) and [Create business calendar entry names](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-entries.md). You can also create records from the Business Calendar Entries table itself.
 
 Using the Business Calendar Filter Options related list, you can also define the date and time filtering options for the business calendar that you’re creating.
 
-You can also [[create-a-business-calendar-span-using-a-script-includes|create a business calendar span using a Script includes]] titled, **BusinessCalendarGeneratorUtil**. For more information, see [Create a business calendar span using a Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/create-a-business-calendar-span-using-a-script-includes.md).
+You can also create a business calendar span using a Script includes titled, **BusinessCalendarGeneratorUtil**. For more information, see [Create a business calendar span using a Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/create-a-business-calendar-span-using-a-script-includes.md).
 
-**Note:** Fiscal calendars or [[c_UseSchedules|schedules]] you may have created in the **Fiscal Calendar** or **System Scheduler** &gt; **Schedules** menu also appear on the lists on the **Business Calendar** menu. If you select a fiscal calendar or schedule, it appears in the legacy function that you originally used to create it. You can't view or update legacy fiscal calendars or schedules using this form.
+**Note:** Fiscal calendars or schedules you may have created in the **Fiscal Calendar** or **System Scheduler** &gt; **Schedules** menu also appear on the lists on the **Business Calendar** menu. If you select a fiscal calendar or schedule, it appears in the legacy function that you originally used to create it. You can't view or update legacy fiscal calendars or schedules using this form.
 
 ## Procedure
 
@@ -102,7 +102,7 @@ Time zone to use for the business calendar when you specify the starting and end
 
 -   **-None-**: Use the time zone specified in the logged in user's profile.
 -   **Use System Time Zone**: Use the default system time zone specified for the instance.
--   **– Floating --**: Time zone is relative to whatever is accessing the business calendar entry at any given time. For example, if an administrator in Amsterdam creates a floating business calendar for 08:00 a.m. to 5:00 p.m., a person in San Jose, California, sees it as 08:00 a.m. to 5:00 p.m. When you define a business calendar in a specific time zone, users in different [[r_TimeZones|time zones]] see the business calendar in their own time zone.
+-   **– Floating --**: Time zone is relative to whatever is accessing the business calendar entry at any given time. For example, if an administrator in Amsterdam creates a floating business calendar for 08:00 a.m. to 5:00 p.m., a person in San Jose, California, sees it as 08:00 a.m. to 5:00 p.m. When you define a business calendar in a specific time zone, users in different time zones see the business calendar in their own time zone.
 -   Actual time zone. For example, Europe/London, US/Pacific, US/Central.
 
 
@@ -144,9 +144,3 @@ If you created business calendar filter options in the Business Calendar Filter 
 
 **Parent Topic:**[Creating business calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/business-calendars.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[create-a-business-calendar-span-using-a-script-includes|Create a business calendar span using a Script includes]]
-- [[c_UseSchedules|Schedules]]
-- [[r_TimeZones|Time zones]]

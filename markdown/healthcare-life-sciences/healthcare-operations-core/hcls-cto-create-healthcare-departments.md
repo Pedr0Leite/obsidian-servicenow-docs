@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare departments**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare departments**.
 
 2.  Select **New**.
 
@@ -45,6 +45,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[healthcare-operations-overview|Healthcare Operations]]

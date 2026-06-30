@@ -14,7 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Activate a block list for the Check Point NGTP integration
 
-After the Block List has been created in your ServiceNow AI Platform and the URL is available, the Check Point administrator configures the Block List as Custom Intelligence Feed on all the Check Point Next Generation Gateways. Before it can accept [[cs-fal-insight-block-list-entries|Block List entries]], the Block List must be configured in Check Point and activated in the ServiceNow AI Platform.
+After the Block List has been created in your ServiceNow AI Platform and the URL is available, the Check Point administrator configures the Block List as Custom Intelligence Feed on all the Check Point Next Generation Gateways. Before it can accept Block List entries, the Block List must be configured in Check Point and activated in the ServiceNow AI Platform.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ After the Block List is configured, as the security incident administrator, you 
 
     Also note that the Active check box is cleared.
 
-    \[Omitted image "[[threat-intelligence-malware|malware]]-outbound-ip.png"\] Alt text: Malware Outboind IP
+    \[Omitted image "malware-outbound-ip.png"\] Alt text: Malware Outboind IP
 
     **Note:** With Tabbed forms cleared in your system settings, the Block List Retrieval URL appears in Retrieval URL section.
 
@@ -76,7 +76,3 @@ This option is available only if the firewall administrator for Check Point is a
 
 After you notify the firewall administrator that the retrieval URL is available, and you confirm the Block List has been configured in Check Point, as the security incident administrator, your next step is to activate the Block List. You either activate the Block List manually or, if configured, use the ServiceNow AI Platform change request form to activate the Block List. The Block List is automatically activated when the change request is closed.
 
-## Related
-
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[threat-intelligence-malware|Malware]]

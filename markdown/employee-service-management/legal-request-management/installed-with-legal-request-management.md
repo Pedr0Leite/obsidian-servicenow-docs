@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Request Management, Legal Service Delivery, Legal 
 
 # Components installed with Legal Request Management
 
-Several types of components are installed with activation of the [[legal-request-management-landing-page|Legal Request Management]] application, including tables and user roles.
+Several types of components are installed with activation of the Legal Request Management application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -22,7 +22,7 @@ Demo data is available for this feature.
 
 ## Roles
 
-**Note:** Some roles in the **Contains roles** column are available with installation of the respective [[legal-management-overview|Legal Service Delivery]] application. For example, roles with an sn\_lg\_matter prefix are added when you install the [[legal-matter-management-landing-page|Legal Matter Management]] application.
+**Note:** Some roles in the **Contains roles** column are available with installation of the respective Legal Service Delivery application. For example, roles with an sn\_lg\_matter prefix are added when you install the Legal Matter Management application.
 
 <table id="table_u1t_gb1_wdb"><thead><tr><th>
 
@@ -91,7 +91,7 @@ Legal Configurator\[sn\_lg\_ops.legal\_config\]
 
 </td><td>
 
-Provides access to configure data such as practice area, category, and [[legal-matter-administration|legal matter templates]]. It doesn’t provide access to the transactional data of legal requests and matters.
+Provides access to configure data such as practice area, category, and legal matter templates. It doesn’t provide access to the transactional data of legal requests and matters.
 
 </td><td>
 
@@ -488,9 +488,3 @@ Stores the subcategories associated with an intake form of a practice area.Exten
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Request Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-management-reference.md)
 
-## Related
-
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-matter-administration|Legal matter templates]]

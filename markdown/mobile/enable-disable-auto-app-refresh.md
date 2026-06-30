@@ -62,7 +62,7 @@ Application
 
 </td><td>
 
-Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe icon.\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [[mobile-properties|Mobile properties]].
+Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: Globe icon.\) on the instance banner. Then select **Application scope:_application\_scope_**. For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -104,7 +104,7 @@ The JSON code that configures this feature.-   To disable the feature, enter the
 {"isEnabled":true,"refreshScope":"all_tabs"}
     ```
 
-Using `"all_tabs"` refreshes all screens across all [[sg-mobile-tab-bar|navigation bar]] tabs after an action is run in the mobile app that changes data in a record.
+Using `"all_tabs"` refreshes all screens across all navigation bar tabs after an action is run in the mobile app that changes data in a record.
 
 -   To limit the scope of data that is refreshed, enter the following:
 
@@ -162,7 +162,3 @@ After updating this property, the end user must pull to refresh and get the late
 
 **Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[mobile-properties|Mobile properties]]
-- [[sg-mobile-tab-bar|Navigation bar]]

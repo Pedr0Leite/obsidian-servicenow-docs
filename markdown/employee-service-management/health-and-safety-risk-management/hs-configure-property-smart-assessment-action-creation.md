@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
 2.  In the property **Smart assessment fields enables for action creation. Please mention the sys\_id of the questions for which we need to have the in-line action enabled**, enter the sys\_id for each question that needs action creation enabled.
 
@@ -41,6 +41,3 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager or admin
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

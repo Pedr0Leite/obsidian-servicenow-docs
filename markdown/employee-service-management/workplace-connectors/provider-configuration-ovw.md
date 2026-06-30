@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for badging data, Configure, Workplace C
 
 # Provider connector configuration
 
-To register details for a new provider, configure a provider to import data from a badging table or use the web hook APIs. The badging data is shared with [[workplace-connectors-landing-page|Workplace Connectors]] by badging vendors. The badging data is processed and transformed to derive space occupancy metrics in your organization.
+To register details for a new provider, configure a provider to import data from a badging table or use the web hook APIs. The badging data is shared with Workplace Connectors by badging vendors. The badging data is processed and transformed to derive space occupancy metrics in your organization.
 
 1.  [Configure badging table data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-configuration-wsd-connectors.md)  
 Register details for a new provider, configure a badging table and import data from the source table to the target table to integrate with the badging system.
@@ -27,6 +27,3 @@ Configure a webhook API event in the Provider configuration table to enable badg
 
 **Next topic:**[Configure badging table data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/provider-configuration-wsd-connectors.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

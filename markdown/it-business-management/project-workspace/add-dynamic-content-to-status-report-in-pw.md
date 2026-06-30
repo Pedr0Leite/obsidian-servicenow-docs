@@ -14,7 +14,7 @@ breadcrumb: [Create a status report in Project Workspace, Managing projects with
 
 # Add dynamic content to status report in Project Workspace
 
-Add dynamic content to a status report in [[project-workspace-landing-page|Project Workspace]] for your projects. The dynamic content gets updated automatically in the status report as a change is made to the record.
+Add dynamic content to a status report in Project Workspace for your projects. The dynamic content gets updated automatically in the status report as a change is made to the record.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ Role required: it\_pps\_admin, it\_project\_manager
 
 [Import old project status report to Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/import-old-status-reports.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

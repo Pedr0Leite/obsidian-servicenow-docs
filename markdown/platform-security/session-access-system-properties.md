@@ -12,7 +12,7 @@ breadcrumb: [Zero Trust Access, Access Management]
 
 # Zero Trust Access system properties
 
-Use [[ca-system-properties|system properties]] to enable and customize Zero Trust Access to meet your security requirements.
+Use system properties to enable and customize Zero Trust Access to meet your security requirements.
 
 ## Properties
 
@@ -72,13 +72,7 @@ Information to be displayed when some privileges have been removed from the sess
 
 </td><td>
 
-Description that you want to display to your [[users|users]] regarding limiting or removal of privileges. Sample Description:`Based on security [[ca-policies|policies]] defined by the administrator, some of your roles have been removed from this session. Please get in touch with your administrator for more information.`
+Description that you want to display to your users regarding limiting or removal of privileges. Sample Description:`Based on security policies defined by the administrator, some of your roles have been removed from this session. Please get in touch with your administrator for more information.`
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[ca-policies|Policies]]

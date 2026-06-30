@@ -37,8 +37,5 @@ Role required: ui\_builder\_admin, admin
     |Additional key|Enter a string that will contribute to generating the unique hash key for each data cache created on this data instance. Use a unique additional key value for each local data instance.|
 
 
-**Parent Topic:**[[dv-local-data-instance|Use a local data instance with a data visualization]]
+**Parent Topic:**[Use a local data instance with a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-local-data-instance.md)
 
-## Related
-
-- [[dv-local-data-instance|Use a local data instance with a data visualization]]

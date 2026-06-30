@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Install Hiring Connector for third party integration
 
-You can install the [[hiring-tab-concept|Hiring]] Connector application \(sn\_ta\_connector\) to integrate with third party applications if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Hiring Connector application \(sn\_ta\_connector\) to integrate with third party applications if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ For more information, see [Components installed with Hiring Connector](https://r
 
 6.  Select **Install**.
 
-## Related
 
-- [[hiring-tab-concept|Hiring]]

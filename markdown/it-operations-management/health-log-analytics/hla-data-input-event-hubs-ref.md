@@ -62,7 +62,7 @@ MID
 
 -   You can select only MID Servers that support basic authentication. MID Servers that support mTLS are not listed.
 -   The default maximum number of data inputs streaming logs to a single MID Server is 10. You can modify this number in the MID Server properties.
--   If log ingestion is not enabled for the selected MID Server, [[hla-landing-page|Health Log Analytics]] enables it automatically.
+-   If log ingestion is not enabled for the selected MID Server, Health Log Analytics enables it automatically.
 
 This field is required.
 
@@ -255,6 +255,3 @@ The Consumer Group to use.This field is required.
 
 **Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-config-fields.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

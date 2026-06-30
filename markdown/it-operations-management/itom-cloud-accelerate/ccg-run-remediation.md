@@ -14,7 +14,7 @@ breadcrumb: [Remediation, Using Cloud Configuration Governance, Cloud Configurat
 
 # Run remediation
 
-Run the appropriate [[ccg-remediation|remediation]] action to fix the non-compliant cloud configuration identified during the [[cloud-configuration-governance|Cloud Configuration Governance]] [[ccg-scan-run|scan run]].
+Run the appropriate remediation action to fix the non-compliant cloud configuration identified during the Cloud Configuration Governance scan run.
 
 ## Before you begin
 
@@ -52,8 +52,3 @@ Run the appropriate [[ccg-remediation|remediation]] action to fix the non-compli
 
 From the Remediation Runs related list, select the change request and review the status of the remediation. You can also view the list of all the remediation requests in the Remediation requests module.
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-scan-run|Scan run]]

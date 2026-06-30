@@ -15,7 +15,7 @@ breadcrumb: [Playbook for updating the invoice primary data, Use, Accounts Payab
 
 # View the Playbook activities
 
-Playbooks in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] display the stages and activities for processing invoice cases and tracking progress through each stage.
+Playbooks in Accounts Payable Operations display the stages and activities for processing invoice cases and tracking progress through each stage.
 
 The playbook life cycle provides the context as to where an Accounts Payable specialist is within the playbook, including information for each stage and activity and any dependencies between stages. For stages with multiple activities, the playbook life cycle provides step-by-step guidance for completing the stage.
 
@@ -35,6 +35,3 @@ The playbook work area appears in the center part of the playbook section. It di
 
 **Parent Topic:**[Playbook for updating the invoice primary data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/playbooks.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

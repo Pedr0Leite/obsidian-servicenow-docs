@@ -14,7 +14,7 @@ breadcrumb: [PAFormulaUtils API, Get analytics methods in formulas, Formula indi
 
 # getCurrentAggregateID\(\)
 
-Returns the time series aggregate identifier \(sys\_id\) from the indicator of the current formula. The sys\_id is returned dynamically, as the selection in the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] changes.
+Returns the time series aggregate identifier \(sys\_id\) from the indicator of the current formula. The sys\_id is returned dynamically, as the selection in the Analytics Hub changes.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -75,6 +75,3 @@ res;
 
 [PAFormulaUtils API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFormulaUtils.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Security Incident Response, Security Incident
 
 # Components installed with Security Incident Response
 
-Several types of components are installed when you download and activate the [[sir-landing-page|Security Incident Response]] application, including user roles, tables, properties, and scheduled jobs.
+Several types of components are installed when you download and activate the Security Incident Response application, including user roles, tables, properties, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -49,7 +49,7 @@ Default start time for all agents when no schedule is set, formatted as 08:00sn\
 
 -   **Type**: string
 -   **Default value**: 08:00
--   **[[location|Location]]**: **Security Incident** &gt; **Administration** &gt; **Properties**
+-   **Location**: **Security Incident** &gt; **Administration** &gt; **Properties**
 
 </td></tr><tr><td>
 
@@ -63,7 +63,7 @@ Default end time for all agents when no schedule is set, formatted as 17:00sn\_s
 
 </td></tr><tr><td>
 
-Include Destination type [[c_Observables|observables]] along with other context type observables in the security incident user and CI relationshipssn\_si.link\_dest\_ip
+Include Destination type observables along with other context type observables in the security incident user and CI relationshipssn\_si.link\_dest\_ip
 
 </td><td>
 
@@ -85,7 +85,7 @@ When a problem or change is created, this property opens a pop-up window to modi
 
 </td></tr><tr><td>
 
-Associate [[indicator-sightings|Sightings]] Search results with CIs in the CMDB.sn\_si.associate\_ci\_with\_sighting\_search
+Associate Sightings Search results with CIs in the CMDB.sn\_si.associate\_ci\_with\_sighting\_search
 
 </td><td>
 
@@ -294,7 +294,7 @@ Profile Admin\[sn\_si.ingestion\_profile\_admin\]
 
 </td><td>
 
-Configure the plugins, create, edit, delete, and manage profiles for Splunk, Splunk ES, and Azure Sentinel Integration for [[security-operations-landing-page|Security Operations]] application.**Note:** Users with the sn\_si.admin role can perform all operations available to a Profile Admin, as the sn\_si.admin role inherits the required permissions by default.
+Configure the plugins, create, edit, delete, and manage profiles for Splunk, Splunk ES, and Azure Sentinel Integration for Security Operations application.**Note:** Users with the sn\_si.admin role can perform all operations available to a Profile Admin, as the sn\_si.admin role inherits the required permissions by default.
 
 The sn\_si.ingestion\_profile\_admin role is assignable to users by the sn\_si.admin.
 
@@ -353,7 +353,7 @@ Chief Information Security Officer \(CISO\)\[sn\_si.ciso\]
 
 </td><td>
 
-View and manipulate the [[ciso-dashboard|CISO dashboard]]. Also, if the [[vuln-landing-page|Vulnerability Response]] plugin is activated, users with this role can add vulnerability significance definition treemaps to the dashboard. You can also do the same with Security Incident Response plugin.
+View and manipulate the CISO dashboard. Also, if the Vulnerability Response plugin is activated, users with this role can add vulnerability significance definition treemaps to the dashboard. You can also do the same with Security Incident Response plugin.
 
 </td><td>
 
@@ -382,7 +382,7 @@ Security Incident Integration User\[sn\_si.integration\_user\]
 
 </td><td>
 
-External [[tools|tools]] can provide new security incident records and update security incident records.
+External tools can provide new security incident records and update security incident records.
 
 </td><td>
 
@@ -586,7 +586,7 @@ Extends from the base table \(sn\_sec\_cmn\_enrichment\_data\_base\) and include
 
 </td></tr><tr><td>
 
-Security Incident Enrichment [[threat-intelligence-malware|Malware]] Results\[sn\_si\_enrichment\_malware\]
+Security Incident Enrichment Malware Results\[sn\_si\_enrichment\_malware\]
 
 </td><td>
 
@@ -710,7 +710,7 @@ Security Scan Request\[sn\_si\_scan\_request\]
 
 </td><td>
 
-A request for a [[tisc-threat-lookup|threat lookup]].
+A request for a threat lookup.
 
 </td></tr><tr><td>
 
@@ -746,16 +746,3 @@ Tracks the completion state of each Setup Assistant step. The key and complete f
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[location|Location]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[security-operations-landing-page|Security Operations]]
-- [[ciso-dashboard|CISO dashboard]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[tools|Tools]]
-- [[threat-intelligence-malware|Malware]]
-- [[tisc-threat-lookup|Threat Lookup]]

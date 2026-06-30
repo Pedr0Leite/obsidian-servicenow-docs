@@ -14,7 +14,7 @@ breadcrumb: [Reference, Incident Management, IT Service Management]
 
 # Domain separation and Incident Management
 
-Domain separation is supported in [[c_IncidentManagement|Incident Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Incident Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -51,7 +51,7 @@ Fulfillers see only incidents and incident tasks that have been created within t
 -   An ITIL user belonging to a parent domain can see incidents of all its child domains as well.
 -   An ITIL user belonging to a specific domain can create incidents only on behalf of the domains that they have access to.
 -   An ITIL user can associate child incidents only of those domains that they have access to.
--   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and [[reference-for-itsm-mobile-agent|reference]] fields.
+-   If a user has access to multiple domains, the domain specified on the current record drives the functionality of that record and reference fields.
 
 **Parent Topic:**[Reference section for Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/reference-section-for-incident-management.md)
 
@@ -60,7 +60,3 @@ Fulfillers see only incidents and incident tasks that have been created within t
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

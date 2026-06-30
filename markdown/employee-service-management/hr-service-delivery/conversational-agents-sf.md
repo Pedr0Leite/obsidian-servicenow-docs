@@ -14,11 +14,11 @@ breadcrumb: [Use, HR Service Delivery Integration with SuccessFactors, Integrati
 
 # Use HCM AI agents for HR Service Delivery Integration with SuccessFactors
 
-Place requests to the SuccessFactors system using the [[hr-service-delivery|HR Service Delivery]] AI agent collection.
+Place requests to the SuccessFactors system using the HR Service Delivery AI agent collection.
 
 ## HCM AI agents Overview
 
-You can submit requests to the SuccessFactors system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in [[employee-center-landing-page|Employee Center]]. To access and use the [[conversational-agents|HCM AI agents]], ensure to [Configure AI agents for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-sf-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sf-agent-mapping.md).
+You can submit requests to the SuccessFactors system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure AI agents for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-sf-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Integration with SuccessFactors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/sf-agent-mapping.md).
 
 ## Worker profile retriever AI agent
 
@@ -59,8 +59,3 @@ The View paychecks AI agent enables you to view paycheck summaries for the selec
 
 [Now Assist Virtual Agent topics for HR Service Delivery Integration with SuccessFactors]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[conversational-agents|HCM AI agents]]

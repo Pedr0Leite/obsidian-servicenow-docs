@@ -14,7 +14,7 @@ breadcrumb: [Self-declaring SAP engine license usage, Software Asset Management 
 
 # Self-declare SAP engine license usage in the Software Asset Management classic application
 
-Use the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application to self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process.
+Use the Software Asset Management classic application to self-declare the license usage for any SAP engines that cannot be measured by the automated SAP engine measurement process.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ To determine if you must self-declare the license usage for a given engine, see 
 
     **Note:**
 
-    On the Software Model form, you must set the **Publisher** field to `SAP`. The form then reloads with only the [[software-model-fields|software model fields]] that are applicable to SAP.
+    On the Software Model form, you must set the **Publisher** field to `SAP`. The form then reloads with only the software model fields that are applicable to SAP.
 
     In addition, you must set the **Product** field to the SAP engine that you want to self-declare the license usage for.
 
@@ -75,7 +75,3 @@ After you self-declare the license usage for the SAP engine, it is automatically
 
 **Parent Topic:**[Self-declaring SAP engine license usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/self-declaring-sap-engine-usage.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[software-model-fields|Software model fields]]

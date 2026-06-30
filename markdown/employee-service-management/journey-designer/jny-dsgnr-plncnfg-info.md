@@ -34,7 +34,7 @@ A ServiceNow administrator assigns owners, co-owners, and approvers.
 
     Approvers review and approve or reject changes to a journey template. Changes to a journey template need only one approval.
 
-    **Tip:** Owners can add comments that are displayed in the **[[activity-lxp|Activity]]** tab of a plan configuration.
+    **Tip:** Owners can add comments that are displayed in the **Activity** tab of a plan configuration.
 
     1.  From **My tasks**, open an **Approval request**.
     2.  Select the link at the top of the request.
@@ -48,8 +48,8 @@ A ServiceNow administrator assigns owners, co-owners, and approvers.
     -   **Preview as an employee**: Preview the template with the roles assigned to the selected user.
     **Note:** The plan configuration preview feature depends on whether the plan configuration owner has access to the selected **Audience type**. These **Audience types** are accessible to all plan configuration owners.
 
-    -   [[c_HRProfileRecords|HR Profile]]
-    -   [[hr-criteria|HR Criteria]]
+    -   HR Profile
+    -   HR Criteria
     -   Users
     -   Users Criteria
     -   Upload file
@@ -66,7 +66,7 @@ A ServiceNow administrator assigns owners, co-owners, and approvers.
 
 ## Journey template overview tab
 
-The [[overview-lxp-widgets|overview tab]] shows all the components of a journey that can be modified by owners.
+The overview tab shows all the components of a journey that can be modified by owners.
 
 -   **Stages**
 
@@ -149,9 +149,3 @@ Approver
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey designer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-criteria|HR criteria]]
-- [[overview-lxp-widgets|Overview tab]]

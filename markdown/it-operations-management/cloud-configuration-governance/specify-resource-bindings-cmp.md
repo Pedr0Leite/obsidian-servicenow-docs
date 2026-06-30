@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
 2.  Select the resource block and then select **Draft** on the **Resource Blocks** form: \[Omitted image "draft-published-slider.png"\] Alt text: Draft.
 
@@ -44,6 +44,3 @@ Role required: admin
 
 [Configure endpoint operation mapping]()
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

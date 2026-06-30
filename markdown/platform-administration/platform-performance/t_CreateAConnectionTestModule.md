@@ -39,7 +39,7 @@ Steps
 </td><td>
 
 1.  Navigate to **System Definition** &gt; **Application Menus**.
-2.  Open the application menu to which you want to add the module, for example, **[[sys-diag|System Diagnostics]]**.
+2.  Open the application menu to which you want to add the module, for example, **System Diagnostics**.
 
 
 </td></tr><tr><td id="d64617e94">
@@ -63,6 +63,3 @@ Select and hold \(or right-click\) an application menu, such as **System Diagnos
 
 **Parent Topic:**[Resolving platform performance issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-plat-performance-issues.md)
 
-## Related
-
-- [[sys-diag|System Diagnostics]]

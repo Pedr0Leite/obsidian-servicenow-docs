@@ -16,7 +16,7 @@ Some HealthScan definitions are deprecated or updated between releases.
 
 ## Updated definitions
 
-Some HealthScan definitions have been updated for the October hotfix to improve accuracy and [[instance-observer-performance|performance]], and reduce the number of false positives to ensure more reliable and precise results.
+Some HealthScan definitions have been updated for the October hotfix to improve accuracy and performance, and reduce the number of false positives to ensure more reliable and precise results.
 
 <table id="table_fbf_t21_ldc"><thead><tr><th>
 
@@ -52,7 +52,7 @@ Recommend
 
 </td><td>
 
-[[user-experience-insights|User Experience]]
+User Experience
 
 </td><td>
 
@@ -84,10 +84,5 @@ User Experience
 -   Limited to a max of 1000 findings
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[healthscan-definitions|HealthScan definitions]]
+</table>**Parent Topic:**[HealthScan definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/healthscan-definitions.md)
 
-## Related
-
-- [[healthscan-definitions|HealthScan definitions]]
-- [[instance-observer-performance|Performance]]
-- [[user-experience-insights|User Experience]]

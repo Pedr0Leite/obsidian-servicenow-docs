@@ -14,13 +14,13 @@ breadcrumb: [Reference, WSD for Microsoft places, Workplace Service Delivery, Em
 
 # WSD for Microsoft places- Key features and actions
 
-The [[wsd-for-ms-places|WSD for Microsoft places]] application lets you create workplace service requests and manage all your open workplace service requests.
+The WSD for Microsoft places application lets you create workplace service requests and manage all your open workplace service requests.
 
 ## WSD for Microsoft places- Key features
 
 **Note:** Requests submitted from WSD for Microsoft places can't be edited from the WSD for Microsoft places portal.
 
-The WSD for Microsoft places is designed for a workplace user to create and manage [[workplace-services|workplace services]] requests. As an agent, you can create, and view service requests, and monitor its progress.
+The WSD for Microsoft places is designed for a workplace user to create and manage workplace services requests. As an agent, you can create, and view service requests, and monitor its progress.
 
 When you log in to the WSD for Microsoft places application as an agent, the application displays all the Workplace services requests under Workplace service topics. You can get details such as the number of open requests. You can also add service requests as favorites to view under **My Favorites**.
 
@@ -42,7 +42,7 @@ The **Workplace service topics** is the default page that is displayed when you 
 
 The **Workplace service topics** is the default page that is displayed when you launch the application. **Workplace service topics** is the main page of the application and it categorizes all types of workplace service requests under **Support resource**\[Omitted image "wsd-ms-places-subrequest.png"\] Alt text: Submit a request page
 
--   **Catering**: The launch screen displays the **Catering** request by default. You can [[submit-a-catering-request|Submit a catering request]] for your meetings and events.
+-   **Catering**: The launch screen displays the **Catering** request by default. You can Submit a catering request for your meetings and events.
 -   **Heating &amp; Cooling**: The launch screen displays the **Heating &amp; Cooling** request by default. You can submit a request to report temperature issues \(too hot or too cold\).
 -   **Requested furniture**: The launch screen displays the **Requested furniture** request by default. You can submit a request for furniture or equipment for workplace spaces.
 -   **Badge request**: The launch screen displays the **Badge request** by default. You can submit a request for a new hire badge, badge photo, lost badge, replacement badge, or access issue.
@@ -56,8 +56,3 @@ The **Workplace service topics** is the default page that is displayed when you 
 
 **My Favorites** is the default widget that is displayed when you launch the application. You can add any service requests to the favorites and then those requests appear under the **My Favorites** tab.
 
-## Related
-
-- [[wsd-for-ms-places|WSD for Microsoft places]]
-- [[workplace-services|Workplace Services]]
-- [[submit-a-catering-request|Submit a catering request]]

@@ -14,9 +14,9 @@ breadcrumb: [Industrial Connected Workforce Mobile Experience, Industrial Connec
 
 # Configuring the Industrial Connected Workforce Mobile Experience
 
-Configure [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]].
+Configure Industrial Connected Workforce Mobile Experience.
 
-If you have the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) application configured, you can use the Industrial Connected Workforce Mobile Experience.
+If you have the Industrial Connected Workforce \(ICW\) application configured, you can use the Industrial Connected Workforce Mobile Experience.
 
 To customize the Industrial Connected Workforce Mobile Agent, see [Setting up the Industrial Connected Workforce Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/setting-up-icw-mobile-agent.md).
 
@@ -24,7 +24,7 @@ To customize the Industrial Connected Workforce Mobile Agent, see [Setting up th
 
 -   [Configure the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-now-mobile-agent-application-icw-mobile.md)
 
-    [[configure-now-mobile-agent-application-icw-mobile|Configure the Now Mobile Agent application]] and customize it for Industrial Connected Workforce \(ICW\) users.
+    Configure the Now Mobile Agent application and customize it for Industrial Connected Workforce \(ICW\) users.
 
 -   [Connect to your Industrial Connected Workforce data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/connect-to-icw-data.md)
 
@@ -44,8 +44,3 @@ Setting up the Industrial Connected Workforce mobile application involves config
 
 **Parent Topic:**[Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/icw-mobile-exp-landing-page.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[configure-now-mobile-agent-application-icw-mobile|Configure the Now Mobile Agent application]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply 
 
 # Add a button in Shopping Hub
 
-You can add a new button in [[shopping-hub-overview|Shopping Hub]], similar to the existing Don’t see what you need? button.
+You can add a new button in Shopping Hub, similar to the existing Don’t see what you need? button.
 
 ## Before you begin
 
@@ -76,9 +76,5 @@ The newly added button is displayed in Shopping Hub.
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[universal-request|Universal Request]]

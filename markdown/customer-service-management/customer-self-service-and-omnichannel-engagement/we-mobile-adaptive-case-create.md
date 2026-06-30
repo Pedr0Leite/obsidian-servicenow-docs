@@ -18,7 +18,7 @@ Create cases from mobile devices with a form interface that adapts to your mobil
 
 ## Mobile responsive for Case create component
 
-Use the [[case-create-component|Case Create component]] on mobile devices to create cases with a form layout optimized for mobile devices.
+Use the Case Create component on mobile devices to create cases with a form layout optimized for mobile devices.
 
 The component automatically detects mobile devices and adjusts the form layout to fit smaller screens. Form fields reorganize to maintain readability, drop-down menus open as bottom sheets for easier touch interaction, and buttons are sized appropriately for mobile use.
 
@@ -35,6 +35,3 @@ The following are the key capabilities:
 -   Case number copy functionality: After case submission, copy the generated case number to your clipboard with a single tap. The system displays a confirmation message that automatically dismisses after 3 seconds.
 -   Loading indicators: A loading visual displays while the form loads to show the structure and placement of form elements.
 
-## Related
-
-- [[case-create-component|Case create component]]

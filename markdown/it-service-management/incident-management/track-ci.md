@@ -20,7 +20,7 @@ Capture information on affected configuration items \(CIs\), with type as asset,
 
 Role required: itil or admin
 
-Activate the Hardware [[c_AssetManagement|Asset Management]] Professional plugin \(com.sn\_hamp\).
+Activate the Hardware Asset Management Professional plugin \(com.sn\_hamp\).
 
 ## About this task
 
@@ -44,7 +44,7 @@ Related list
 
 </td><td>
 
--   In the **Affected CIs** related list, click the [[settings-mobile|settings]] icon \[Omitted image "personalize-setting-list.png"\] Alt text: Personalize list.
+-   In the **Affected CIs** related list, click the settings icon \[Omitted image "personalize-setting-list.png"\] Alt text: Personalize list.
 -   Move the **Asset Action** and the **Swapped CI** fields from the **Available** column to the **Selected** column.
 -   Click **OK**.
 
@@ -104,7 +104,4 @@ Information on the new CI that is swapped with the existing CI.**Note:**
 
     **Note:** You can filter the **Affected CIs** related list to have the list of affected CIs with class as Asset.
 
-## Related
 
-- [[c_AssetManagement|Asset Management]]
-- [[settings-mobile|Settings]]

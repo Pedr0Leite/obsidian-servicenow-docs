@@ -14,7 +14,7 @@ breadcrumb: [Administer, Dependency Views, Configuration Management Database \(C
 
 # Create or edit a dependency type
 
-Use one of the dependency types provided, or create a custom dependency type with a script that will execute in real time to generate a custom view of a [[c_NextGenBSMMaps|Dependency Views map]] for a specific CI.
+Use one of the dependency types provided, or create a custom dependency type with a script that will execute in real time to generate a custom view of a Dependency Views map for a specific CI.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ The following dependency types are available with [Service Mapping](https://raw.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **Dependency Types**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **Dependency Types**.
 
 2.  In the **Load Filter Scripts** list view, select an existing depenency type, or click **New**.
 
@@ -95,7 +95,3 @@ In a Dependency Views map, you can click **Dependency Type** to apply a custom s
 
 [Data collection and discovery using Netflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/data-collection-netflow-mapping.md)
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

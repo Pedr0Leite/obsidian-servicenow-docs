@@ -14,7 +14,7 @@ breadcrumb: [Create inventory template relationship, Use, Telecommunications Net
 
 # Add a network interface template to a child or daughter card template
 
-As a last step, you can optionally add a network interface template to a child and daughter card template in the [[exploring-network-inventory-workspace|Network Inventory Workspace]] [[network-inventory-workspace-list-view|Lists view]].
+As a last step, you can optionally add a network interface template to a child and daughter card template in the Network Inventory Workspace Lists view.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ The following example shows a network interface template that was added to a chi
 
 You're done with creating inventory template relationships for this piece of equipment. To create another inventory template for another piece of equipment, do the following actions:
 
-1.  [[create-default-templates|Create a default template]] for use in that inventory template relationship sequence.
+1.  Create a default template for use in that inventory template relationship sequence.
 2.  Proceed to the Creating an inventory template for the equipment model topic, and repeat the entire process again. To learn more, see [Create an inventory template for the equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-an-inventory-template-for-the-equipment-model.md).
 
 **Parent Topic:**[Create inventory template relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-inventory-templates-telco-equipment.md)
@@ -42,8 +42,3 @@ You're done with creating inventory template relationships for this piece of equ
 
 [Create inventory template for network asset instantiation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/preparing-inv-templates-network-asset-generation.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-list-view|Lists view]]
-- [[create-default-templates|Create a default template]]

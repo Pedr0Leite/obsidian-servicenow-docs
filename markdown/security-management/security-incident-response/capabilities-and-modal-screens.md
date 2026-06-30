@@ -34,7 +34,7 @@ Run Threat Look Up
 
 </td><td>
 
-Only Screen 1 – [[implementation-selection|Select Implementations]] is applicable.There are no [[common-inputs|common inputs]] or implementation specific inputs applicable for Run Threat Look Up.
+Only Screen 1 – Select Implementations is applicable.There are no common inputs or implementation specific inputs applicable for Run Threat Look Up.
 
 So, only screen 1 is presented to the Security Analyst to select one or more implementations. After selecting the implementations, the Security Analyst will be able to submit the action.
 
@@ -42,7 +42,7 @@ So, only screen 1 is presented to the Security Analyst to select one or more imp
 
 -   Virus Total
 -   Hybrid Analysis
--   [[zscaler-integration-for-security-operations|Security Incident Response Integration with Zscaler]]
+-   Security Incident Response Integration with Zscaler
 -   Phistank
 -   Metadefender
 -   Threatcrowd
@@ -51,7 +51,7 @@ So, only screen 1 is presented to the Security Analyst to select one or more imp
 
 </td></tr><tr><td>
 
-[[tisc-run-observable-enrichment|Run Observable Enrichment]]
+Run Observable Enrichment
 
 </td><td>
 
@@ -252,9 +252,3 @@ So, these can be provided in screen 3 specifically against individual selected i
 </td></tr></tbody>
 </table>**Parent Topic:**[Unified experience framework for integrations powered by Capability Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-capability-framework.md)
 
-## Related
-
-- [[implementation-selection|Select implementations]]
-- [[common-inputs|common inputs]]
-- [[zscaler-integration-for-security-operations|Security Incident Response integration with Zscaler]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]

@@ -18,7 +18,7 @@ Catalog tasks are used to source items and fulfill requests. You can view and ed
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -71,6 +71,3 @@ If a request requires approval, a catalog task is created automatically when the
 
 [Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

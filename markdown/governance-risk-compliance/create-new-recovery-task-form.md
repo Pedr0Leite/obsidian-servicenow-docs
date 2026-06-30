@@ -12,7 +12,7 @@ breadcrumb: [Add recovery tasks, Structured workflows for BCPs, Manage, Business
 
 # Create New Recovery task form
 
-Use the Create New Recovery task form in the [[bcm-workspace|BCM Configurable Workspace]] to input the necessary details regarding the recovery task.
+Use the Create New Recovery task form in the BCM Configurable Workspace to input the necessary details regarding the recovery task.
 
 ## Create New Recovery task form
 
@@ -91,7 +91,7 @@ Include task in
 
 </td><td>
 
-Option to include the recovery task in [[exercise-management-uib|exercises]], actual events, or both. With this flag, you can prevent test tasks from coming into the events. Available options are in the order of priority:
+Option to include the recovery task in exercises, actual events, or both. With this flag, you can prevent test tasks from coming into the events. Available options are in the order of priority:
 
 -   **Both actual events and exercises**
 -   **Actual events only**
@@ -317,10 +317,5 @@ Backup assignee
 Assignees that are used as a backup if the automated task fails during the execution.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[add-a-recovery-task|Add recovery tasks]]
+</table>**Parent Topic:**[Add recovery tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-a-recovery-task.md)
 
-## Related
-
-- [[add-a-recovery-task|Add recovery tasks]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[exercise-management-uib|Exercises]]

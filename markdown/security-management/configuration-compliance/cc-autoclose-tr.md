@@ -24,7 +24,7 @@ Role required: sn\_vulc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Administration** &gt; **Auto-Close Stale Test Results**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Administration** &gt; **Auto-Close Stale Test Results**.
 
 2.  Fill in the fields
 
@@ -50,6 +50,4 @@ Role required: sn\_vulc.admin
     3.  If all the TRs in a remediation task are **Closed** Resolution: **Fixed**, the TRG state transitions to State: **Closed** Resolution: **Canceled**.
     For more information about state transitions, see [Test result and remediation task state transitions in the Configuration Compliance application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-state-transition.md).
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

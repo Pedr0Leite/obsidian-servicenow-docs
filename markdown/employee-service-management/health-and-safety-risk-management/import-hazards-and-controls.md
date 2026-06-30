@@ -26,7 +26,7 @@ You can conduct a risk assessment for the jobs in your organization to identify 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -55,6 +55,3 @@ You can conduct a risk assessment for the jobs in your organization to identify 
 
 **Parent Topic:**[Safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-assessment.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]

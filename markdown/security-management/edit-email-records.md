@@ -20,7 +20,7 @@ Role required: sn\_sec\_cmn.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Email Processing** &gt; **Email Parsing**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Email Processing** &gt; **Email Parsing**.
 
 2.  Select the email parser to edit.
 
@@ -35,9 +35,5 @@ Role required: sn\_sec\_cmn.admin
 5.  Select **Update.**
 
 
-**Parent Topic:**[[email-parsing|Security Operations email parsing]]
+**Parent Topic:**[Security Operations email parsing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-parsing.md)
 
-## Related
-
-- [[email-parsing|Security Operations email parsing]]
-- [[security-operations-landing-page|Security Operations]]

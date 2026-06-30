@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center|Employee Center]]** &gt; **GRC tasks** &gt; **My To-dos** &gt; **Data breach assessments**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center** &gt; **GRC tasks** &gt; **My To-dos** &gt; **Data breach assessments**.
 
 2.  Select and open the assessment that you want to work on.
 
@@ -55,6 +55,3 @@ Role required: admin
 
 **Parent Topic:**[Using Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md)
 
-## Related
-
-- [[employee-center|employee center]]

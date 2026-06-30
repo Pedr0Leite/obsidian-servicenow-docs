@@ -1,0 +1,276 @@
+---
+title: View Premium Threat Feed for CrowdStrike
+description: The CrowdStrike feed enables users to ingest indicators, actors, reports, and their associated context from the CrowdStrike Falcon Intelligence feed into TISC.
+locale: en-US
+canonical_url: https://www.servicenow.com/docs/r/security-management/threat-intelligence-security-center/premium-threat-feed-for-crowdstrike.html
+release: australia
+product: Threat Intelligence Security Center
+classification: threat-intelligence-security-center
+topic_type: task
+last_updated: "2026-05-18"
+reading_time_minutes: 5
+breadcrumb: [View Custom Feed, View Threat Intel Feeds, Threat Intelligence Feeds, Integrate, Threat Intelligence Security Center, Security Operations]
+---
+
+# View Premium Threat Feed for CrowdStrike
+
+The CrowdStrike feed enables users to ingest [[indicator|indicators]], actors, reports, and their associated context from the CrowdStrike Falcon Intelligence feed into TISC.
+
+## Before you begin
+
+Role required: sn\_sec\_tisc.admin
+
+## Procedure
+
+1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Integrations**.
+
+2.  Select **Custom**.
+
+3.  On the **CrowdStrike Feed** form page, select **Edit**.
+
+    **Note:** By default, the CrowdStrike feed is disabled. Edit the configurations to enable the feed.
+
+    \[Omitted image "tisc-crowdstrike-premium-feed.png"\] Alt text: CrowdStrike-Premium feed
+
+4.  Navigate to the **Configuration Details** section.
+
+5.  Enter the **Client ID**, and **Client Secret**.
+
+    **Note:**
+
+    1.  You must generate your Client ID and Client Secret if you don't have them. For more information on the Client ID and Client Secret, see [Defining your first API Client](https://www.crowdstrike.com/blog/tech-center/get-access-falcon-apis/) section.
+    2.  Get Client ID and Client Secret from CrowdStrike for required scopes. The following scopes are required for the Client ID and Client Secret from CrowdStrike:
+        -   Indicators \(Falcon intelligence\)
+        -   Actors \(Falcon Intelligence\)
+        -   Reports \(Falcon Intelligence\)
+        -   [[threat-intelligence-malware|Malware]] Families \(Falcon Intelligence\)
+6.  Navigate to **Additional Settings** to configure the filters that will be applied while ingesting indicators from CrowdStrike.
+
+    \[Omitted image "tisc-crowdstrike-additional-settings.png"\] Alt text: CrowdStrike additional settings tab
+
+    The **Additional Settings** tab is primarily used to configure the filters that control how data is ingested into the application.
+
+    These filters allow you to customize the data integration process to meet your specific requirements, ensuring that only the most relevant information is included.
+
+7.  Select **Edit Settings**.
+
+    \[Omitted image "tisc-crowdstrike-additional-settings-edit.png"\] Alt text: CrowdStrike additional settings tab - Edit
+
+8.  Select the required filters.
+
+    **Note:** All configured filters are applied together while ingesting indicators from CrowdStrike.
+
+    The following section provides a detailed explanation of each available option. Review each option in the following table to understand how filters optimize data ingestion.
+
+9.  Select the required values from the available filters.
+
+<table id="table_flc_vxs_z2c"><thead><tr><th>
+
+Field
+
+</th><th>
+
+Description
+
+</th></tr></thead><tbody><tr><td colspan="2">
+
+**Record types to ingest**
+
+</td></tr><tr><td>
+
+Select record types to ingest
+
+</td><td>
+
+Select the record types that you want to ingest. The available record types are:-   Indicators
+-   Reports
+-   Actors
+-   Malware
+**Note:**
+
+If you don't select a record type, all the record types are ingested.
+
+</td></tr><tr><td colspan="2">
+
+**Filters on indicator attributes**
+
+</td></tr><tr><td>
+
+Include deleted indicators for ingestion
+
+</td><td>
+
+Select this check box to allow the ingestion of indicators that have been deleted.**Note:** Deleted indicators are created as [[c_Observables|observables]] only if they were previously ingested. A **Deleted in CrowdStrike** tag is added to indicators removed from CrowdStrike.
+
+</td></tr><tr><td>
+
+Indicator types to ingest
+
+</td><td>
+
+Select the specific CrowdStrike indicator types you want to ingest. If none are selected, all available indicators are retrieved by default.
+
+</td></tr><tr><td>
+
+Malicious confidence of indicators to ingest
+
+</td><td>
+
+Select the malicious confidence level of CrowdStrike indicators to ingest. If left blank, all indicators are fetched from CrowdStrike regardless of malicious confidence.
+
+</td></tr><tr><td>
+
+Targeted industries of indicators to ingest
+
+</td><td>
+
+Select the targeted industries associated with CrowdStrike indicators to ingest. If none are selected, all indicators are fetched from CrowdStrike regardless of targeted industry.
+
+</td></tr><tr><td colspan="2">
+
+**Filters on associated actors**
+
+</td></tr><tr><td>
+
+Fetch indicators only if actors associated to it
+
+</td><td>
+
+Select this check box to fetch indicators only if they are associated with actors.
+
+</td></tr><tr><td>
+
+Ingest indicators only associated to these actors
+
+</td><td>
+
+Specify comma-separated actor names related to the indicators for ingestion. If not provided, all indicators are fetched from CrowdStrike regardless of associated actors.
+
+</td></tr><tr><td colspan="2">
+
+**Filters on associated reports**
+
+</td></tr><tr><td>
+
+Fetch indicators only if reports associated to it
+
+</td><td>
+
+Select this check box to fetch indicators only if they are associated with reports.
+
+</td></tr><tr><td>
+
+Ingest indicators only associated to these reports
+
+</td><td>
+
+Enter comma-separated report names associated with the indicators for ingestion. If left blank, all reports are included in the ingestion process.If not provided, all indicators are fetched from CrowdStrike regardless of associated reports.
+
+</td></tr><tr><td colspan="2">
+
+**Filters on associated malware families**
+
+</td></tr><tr><td>
+
+Fetch indicators only if malware families associated to it
+
+</td><td>
+
+Select this check box to fetch indicators only if they are associated with malware families.
+
+</td></tr><tr><td>
+
+Ingest indicators only associated to these malware families
+
+</td><td>
+
+Enter comma-separated malware family names associated with the indicators for ingestion. If left empty, all malware families are included in the ingestion process.If not provided, all indicators are fetched from CrowdStrike regardless of malware families.
+
+</td></tr><tr><td colspan="2">
+
+**[[mapping-logrhythm|Mapping]] of Indicator Malicious confidence to TISC confidence****Note:** The High, Medium, and Low values are the source value or malicious confidence received from CrowdStrike.
+
+</td></tr><tr><td>
+
+High
+
+</td><td>
+
+Enter a confidence value \(0–100\) for indicators with high malicious confidence. **Note:** If a matching malicious confidence mapping is found in the **Additional Settings**, it overrides the value provided in the **Details** section even if a confidence value is manually entered.
+
+</td></tr><tr><td>
+
+Medium
+
+</td><td>
+
+Enter a confidence value \(0–100\) for indicators with medium malicious confidence.
+
+</td></tr><tr><td>
+
+Low
+
+</td><td>
+
+Enter a confidence value \(0–100\) for indicators with low malicious confidence.
+
+</td></tr><tr><td>
+
+Unverified
+
+</td><td>
+
+Enter a confidence value \(0–100\) for indicators with unverified malicious confidence.
+
+</td></tr></tbody>
+</table>    **Note:** With the same additional settings you have defined, you can duplicate the feed when creating a new one.
+
+10. Select **Update** on the **Additional Settings** dialog box to save the modified additional settings.
+
+11. Select **Enable** to enable CrowdStrike Feed for ingestion.
+
+    **Note:** The premium feed is the same as other feeds except the response that is parsed during configuration. A specific response is parsed to CrowdStrike by adding the Client ID and Client Secret.
+
+    **What type of data is fetched from CrowdStrike:**
+
+    1.  Indicators from CrowdStrike that are updated after the configured ingestion time and match the filters configured in additional settings. These indicators from CrowdStrike are then mapped to observables in TISC. The following indicator types are ingested in TISC:
+        -   SHA256 Hash
+        -   MD5 Hash
+        -   SHA1 Hash
+        -   URL
+        -   Domain
+        -   IP Address
+        -   Mutex Name
+        -   File Name
+        -   Email Address
+        -   Username
+        -   IP Address Block
+    2.  [[threat-actors|Threat Actors]] from CrowdStrike that are updated after the configured ingestion time are mapped to Threat Actors in TISC.
+    3.  Reports from CrowdStrike that are updated after the configured ingestion time are mapped to [[threat-reports|threat reports]] in TISC based on matching attributes.
+    4.  Malwares from CrowdStrike that are updated after the configured ingestion time are mapped to malwares in TISC based on matching attributes.
+    5.  Additionally, the following related data is also fetched:
+
+        1.  Threat actors, reports, and indicators related to the previously ingested indicators.
+        2.  Threat actors and indicators associated with all reports ingested during the current ingestion process.
+        **Note:** Filters configured in **Additional Settings** are also applied when ingesting indicators associated with previously ingested indicators, reports, or actors.
+
+12. Select **Duplicate** to duplicate the feed.
+
+    For more information, see [Duplicate threat intelligence feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-duplicate-feeds.md).
+
+
+-   **[System Properties for CrowdStrike](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/premium-threat-feed-system-properties.md)**  
+The following details the [[premium-threat-feed-system-properties|system properties for CrowdStrike]].
+
+**Parent Topic:**[View Custom Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-custom-feeds.md)
+
+## Related
+
+- [[indicator|Indicators]]
+- [[tisc-landing-page|Threat Intelligence Security Center]]
+- [[threat-intelligence-malware|Malware]]
+- [[c_Observables|Observables]]
+- [[mapping-logrhythm|Mapping]]
+- [[threat-actors|Threat actors]]
+- [[threat-reports|Threat reports]]
+- [[premium-threat-feed-system-properties|System Properties for CrowdStrike]]

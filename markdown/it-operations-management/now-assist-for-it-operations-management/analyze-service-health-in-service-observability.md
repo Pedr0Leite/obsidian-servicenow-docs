@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for ITOM, IT Operations Management]
 
 # Analyze service health in Service Observability
 
-Use the Analyze Service Health skill to view an analysis of all [[service-observability|Service Observability]] [[otto-aiops-dashboards|dashboards]] for the selected service.
+Use the Analyze Service Health skill to view an analysis of all Service Observability dashboards for the selected service.
 
 ## About this task
 
@@ -43,7 +43,7 @@ Role required: admin, operator
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and then navigate to a service record.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and then navigate to a service record.
 
     You can access a service record from these pages in the SOW:
 
@@ -75,8 +75,3 @@ Role required: admin, operator
 
 **Parent Topic:**[Use generative AI in Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-use.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing Project workbench, Using Project workbench - Legacy, Using
 
 # Manage project stories in the project workbench
 
-If [[c_ProjectPortfolioSuite|Project Portfolio Management]] and [[agile-landing-page|Agile Development 2.0]] are activated, the project manager can manage the stories in a project from the project workbench.
+If Project Portfolio Management and Agile Development 2.0 are activated, the project manager can manage the stories in a project from the project workbench.
 
 ## Before you begin
 
@@ -54,7 +54,3 @@ Manage stories in your project using the **Manage Stories** option in the Projec
 
 [Managing Project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_UsingProjectWorkbench.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]

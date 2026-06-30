@@ -16,7 +16,7 @@ Explore additional ServiceNow ServiceNow AI Platform capabilities features.
 
 <table id="table_dyt_rjh_hvb" class="nav-card"><tbody><tr><td>
 
-[Connect \[Omitted image "bus-2-person.svg"\] Alt text: [[c_Connect|Connect]] to your coworkers and participate in conversations while you work.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Connect.md)
+[Connect \[Omitted image "bus-2-person.svg"\] Alt text: Connect to your coworkers and participate in conversations while you work.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_Connect.md)
 
 </td><td>
 
@@ -29,7 +29,7 @@ Explore additional ServiceNow ServiceNow AI Platform capabilities features.
 </td></tr></tbody>
 </table>## Connect
 
-ServiceNow Connect is a real-time messaging platform that connects you to your coworkers, bypassing [[email|email]] and static documents. Connect integrates with other features within the system, such as Visual Task Boards, Human Resources Management, and Customer Service Management. The [[c_connect-interface|Connect interface]] overlays the standard interface, which allows users to participate in conversations while they work.
+ServiceNow Connect is a real-time messaging platform that connects you to your coworkers, bypassing email and static documents. Connect integrates with other features within the system, such as Visual Task Boards, Human Resources Management, and Customer Service Management. The Connect interface overlays the standard interface, which allows users to participate in conversations while they work.
 
 ## Orchestration
 
@@ -37,11 +37,5 @@ Take the power of ServiceNow beyond the ServiceNow AI Platform. Orchestration ex
 
 ## Task Communications Management
 
-Define and implement communications plans based on any event you choose. The [[tcm-landing-page|Task Communications Management]] app assists event-based communication through Slack, SMS, and email. Define plans, connect plans with task tables, and ensure easy collaboration and issue resolution.
+Define and implement communications plans based on any event you choose. The Task Communications Management app assists event-based communication through Slack, SMS, and email. Define plans, connect plans with task tables, and ensure easy collaboration and issue resolution.
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[email|Email]]
-- [[c_connect-interface|Connect interface]]
-- [[tcm-landing-page|Task Communications Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Success portal view in Software Asset Workspace, Software Asset Wor
 
 # Value builder
 
-Maximize the usage of your [[c_SoftwareAssetMgmt|Software Asset Management]] application capabilities by getting insights into integrations, playbooks, and other installations.
+Maximize the usage of your Software Asset Management application capabilities by getting insights into integrations, playbooks, and other installations.
 
 ## Overview of the Value builder
 
@@ -158,7 +158,7 @@ Value builder tasks that are marked as favorites.
 
 </td></tr><tr><td>
 
-Value builder tasks \([[success-guides|Success Guides]]\)
+Value builder tasks \(Success Guides\)
 
 </td><td>
 
@@ -194,8 +194,3 @@ Preview of the features in the upcoming release.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[success-guides|Success Guides]]

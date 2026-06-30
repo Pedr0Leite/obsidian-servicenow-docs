@@ -48,8 +48,8 @@ Create the first instance service which functions as the first directory service
         |Application Directory Partition|creates an application directory partition. Not needed at this step, we recommend creating the new partition now. A good practice is to use the same distinguished name as your forest or domain, but replace the highest level domain with adam instead of com or local. For example, if your forest partition is **dc=myCompany,dc=com**, you could create the ADAM partition as **dc=myCompany,dc=adam**|
         |File Locations|selects the location\(s\) for the ADAM partition data.|
         |Service Account Selection|selects a service account that the instance runs as. For stand-alone services, you can use the default network service account. If you plan on using replicas, you need to use an account that has access to all ADAM instances.|
-        |ADAM Administrators|the delegation on the ADAM directory that leverages Windows integrated [[c_Authentication|authentication]]. This is how the initial access is granted for administration. Once the initial account is granted rights, this user or group delegates rights to other Windows [[users|users]] or ADAM users. You can select the default to only grant admin access to the current user, or grant access to a different user or group based on your needs.|
-        |Import LDIF Files|the files to import. MS-UserProxy is the most important file to import, but it’s worth adding all available files since there is little overhead to the schema and you won’t have to worry about extending it later if your needs expand. Confirm the details and the wizard complete the [[sc-configuration|configuration]].|
+        |ADAM Administrators|the delegation on the ADAM directory that leverages Windows integrated authentication. This is how the initial access is granted for administration. Once the initial account is granted rights, this user or group delegates rights to other Windows users or ADAM users. You can select the default to only grant admin access to the current user, or grant access to a different user or group based on your needs.|
+        |Import LDIF Files|the files to import. MS-UserProxy is the most important file to import, but it’s worth adding all available files since there is little overhead to the schema and you won’t have to worry about extending it later if your needs expand. Confirm the details and the wizard complete the configuration.|
 
 
 **Related topics**  
@@ -57,8 +57,3 @@ Create the first instance service which functions as the first directory service
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

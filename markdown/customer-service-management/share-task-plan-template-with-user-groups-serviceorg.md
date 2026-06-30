@@ -24,7 +24,7 @@ If the template is in Draft state, users can edit it. If the template is in a pu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[task-plan-templates|Task Plan Templates]]** &gt; **All Task Plan Templates**.
+1.  Navigate to **All** &gt; **Task Plan Templates** &gt; **All Task Plan Templates**.
 
 2.  Select an existing task plan template.
 
@@ -34,11 +34,8 @@ If the template is in Draft state, users can edit it. If the template is in a pu
 
 4.  Specify task plan template access field details.
 
-    For access record fields and description see: [[task-plan-template-access-record|Task plan template access record]]
+    For access record fields and description see: [Task plan template access record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-template-access-record.md)
 
 5.  Select **Submit** to save the access record.
 
-## Related
 
-- [[task-plan-template-access-record|Task plan template access record]]
-- [[task-plan-templates|Task Plan Templates]]

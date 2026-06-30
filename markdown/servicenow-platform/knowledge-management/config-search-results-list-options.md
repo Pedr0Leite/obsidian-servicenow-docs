@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure search results list widget instance options
 
-Configure widget instance options for the results list widget on the [[knowledge-management|Knowledge Management]] Service Portal search results page.
+Configure widget instance options for the results list widget on the Knowledge Management Service Portal search results page.
 
 ## Before you begin
 
@@ -108,7 +108,7 @@ How attachments are shown in the list of returned results. The default uses the 
 
 </td></tr><tr><td>
 
-[[label|Label]] for Show Pinned Articles Link
+Label for Show Pinned Articles Link
 
 </td><td>
 
@@ -136,7 +136,7 @@ Show Secondary Fields Label
 
 </td><td>
 
-Enable this [[check-box|check box]] to display the field labels for the additional information displayed for each result.
+Enable this check box to display the field labels for the additional information displayed for each result.
 
 </td></tr><tr><td>
 
@@ -186,8 +186,3 @@ The number of links displayed in the pagination bar.
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[label|Label]]
-- [[check-box|Check box]]

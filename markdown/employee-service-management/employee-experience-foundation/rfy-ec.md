@@ -20,10 +20,10 @@ Recommended for you displays catalog items and knowledge articles, enabling you 
 
 This widget highlights the most relevant catalog items and knowledge articles for the employee:
 
--   The **Recommended for you** widget can use an ML algorithm-based on [[emp-slate-employee-profile|Employee Profile]] or [[c_HRProfileRecords|HR Profile]] to show popular content accessed by users having similar profile.
+-   The **Recommended for you** widget can use an ML algorithm-based on Employee Profile or HR Profile to show popular content accessed by users having similar profile.
 -   Recommended items are populated either based on ML or popularity of items based on your license entitlements. Underlying table for calculating similar user is determined by Employee Profile or HR profile.
 
-    **Note:** When you install Employee Profile, the recommendations are populated based on the [[employee-profile|Employee Profile table]].
+    **Note:** When you install Employee Profile, the recommendations are populated based on the Employee Profile table.
 
 -   The visual representation of items has a detailed card view with title, description, image, and a simple list view of only titles.
 -   Employees can view related articles and catalog items on the portal home page and on ServiceNow mobile pageâ€‹.
@@ -33,7 +33,7 @@ This widget highlights the most relevant catalog items and knowledge articles fo
 
 Learn about the version, license, and other requirements to use **Recommended for you**.
 
--   The widget is available for [[employee-center-landing-page|Employee Center]] versions 23.0.7 and later.
+-   The widget is available for Employee Center versions 23.0.7 and later.
 
     **Note:** ML-based recommendations are available only for EC Pro customers or PI entitlement such as HRSD Pro, ITSM Pro, LSD, WSD.
 
@@ -62,9 +62,3 @@ Administrators, developers, and advanced users can configure the widget optionsâ
 
 [View the Recommended for you content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/rfy-employee.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-profile|Employee Profile table]]
-- [[employee-center-landing-page|Employee Center]]

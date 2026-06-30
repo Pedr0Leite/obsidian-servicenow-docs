@@ -18,7 +18,7 @@ Define or update a collection while working in a changeset of a application.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_editor or cdm\_admin
 
@@ -192,7 +192,7 @@ Option to specify that the value of the CDI should be encrypted. This option app
  After you create the CDI, the value appears in all views as `*******`. To view the value on any tab that displays the CDI, users with the CDM Secrets \[sn\_cdm.cdm\_secrets\] role can select the **View encrypted data** menu option.
 
 </td></tr></tbody>
-</table>4.  Add CDI [[settings-mobile|settings]] that will override or overlay settings in collections.
+</table>4.  Add CDI settings that will override or overlay settings in collections.
 
     For more information, see [Define or update a component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-component-define.md).
 
@@ -208,7 +208,3 @@ Option to specify that the value of the CDI should be encrypted. This option app
 
 [Create or update a variable CDI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-variables-crud.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[settings-mobile|Settings]]

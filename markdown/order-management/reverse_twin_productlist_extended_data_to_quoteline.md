@@ -12,7 +12,7 @@ breadcrumb: [ProductList.Type options: Accessory and Component, CPQ app, Configu
 
 # Using ProductList.extended to populate the Quote Line record
 
-You can use the Extended product data object to populate custom [[fields|fields]] on the Quote Line record.
+You can use the Extended product data object to populate custom fields on the Quote Line record.
 
 Populate custom fields in the Quote Line record by utilizing the `extended` product data object in Advanced Product Actions.
 
@@ -44,9 +44,5 @@ Reverse twinning extended product data also enables admins to populate quote lin
 **Related topics**  
 
 
-[[productlist_extended_adding_custom_attributes_in_the_productlist|Adding custom attributes to the product list]]
+[Adding custom attributes to the product list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/productlist_extended_adding_custom_attributes_in_the_productlist.md)
 
-## Related
-
-- [[productlist_extended_adding_custom_attributes_in_the_productlist|Adding custom attributes to the product list]]
-- [[fields|Fields]]

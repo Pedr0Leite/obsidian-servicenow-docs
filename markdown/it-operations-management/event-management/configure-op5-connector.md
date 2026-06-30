@@ -18,7 +18,7 @@ Configure the OP5 or OP5\_v2 Monitor connector instance to receive alerts from a
 
 ## Before you begin
 
-The OP5\_v2 connector is supported in [[c_EM|Event Management]] connectors version 2.3.0 - August 2022, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+The OP5\_v2 connector is supported in Event Management connectors version 2.3.0 - August 2022, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 Supported version:
 
@@ -29,7 +29,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
@@ -90,7 +90,3 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rul
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Customize the list block, Types of content blocks, Content blocks, 
 
 # Configure list definitions
 
-List definitions, similar to content management frames, are decorative containers that control the look and feel of [[lists-configurable-workspace|lists]].
+List definitions, similar to content management frames, are decorative containers that control the look and feel of lists.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ Configuring list definitions requires a knowledge of Apache Jelly.
 
 [Content Management and the Apache Jelly engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_ContentManagementAndJelly.md)
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]

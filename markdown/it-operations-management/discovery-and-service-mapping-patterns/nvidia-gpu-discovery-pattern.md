@@ -14,11 +14,11 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # NVIDIA GPU discovery using patterns
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Linux Server pattern extension **Discover Nvidia GPU** to find NVIDIA graphics processing units \(GPUs\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Linux Server pattern extension **Discover Nvidia GPU** to find NVIDIA graphics processing units \(GPUs\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The Discover Nvidia GPU pattern is an extension of the Linux Server pattern. For more information, see [Linux discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoLinuxComputers.md).
 
-Starting with Visibility Content version 6.32.0, NVIDIA GPU discovery requires the [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]] application.
+Starting with Visibility Content version 6.32.0, NVIDIA GPU discovery requires the AI Agent Topology Mapping application.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -39,7 +39,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     For more information, see [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md).
 
--   **[[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]**
+-   **Schedule a horizontal discovery**
 
     For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
@@ -91,9 +91,3 @@ Discovery creates these relationships to support the NVIDIA GPU discovery.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[ai-agent-topology-mapping-landing|AI Agent Topology Mapping]]
-- [[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]

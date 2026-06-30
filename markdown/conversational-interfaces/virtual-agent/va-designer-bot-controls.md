@@ -14,7 +14,7 @@ breadcrumb: [VA feature support in Teams conversations, Conversational Integrati
 
 # Virtual Agent Designer user input and bot response controls in Microsoft Teams
 
-The [[virtual-agent-landing-page|Virtual Agent]] Designer user input and bot response controls for creating conversation topics are supported in Microsoft Teams conversations, including the table bot response, the card control that can display images, and the image bot response controls.
+The Virtual Agent Designer user input and bot response controls for creating conversation topics are supported in Microsoft Teams conversations, including the table bot response, the card control that can display images, and the image bot response controls.
 
 Starting with Version 2.0.0, the updated card and new video bot response controls are supported in Microsoft Teams conversations. The video control displays a thumbnail image of the video that users select to open the video in their preferred web browser.
 
@@ -36,6 +36,3 @@ Set the **sn\_va\_teams.hide\_teams\_response\_message** system property value t
 
 **Parent Topic:**[Virtual Agent feature support in Microsoft Teams conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-teams-other-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

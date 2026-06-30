@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Incident Management, Operational 
 
 # Assignment rule form
 
-Assignment rules automatically assign an [[operational-technology-overview|Operational Technology]] \(OT\) incident to a group or user according to one or more conditions in the assignment rule.
+Assignment rules automatically assign an Operational Technology \(OT\) incident to a group or user according to one or more conditions in the assignment rule.
 
 The following table describes the field values for the Assignment rule form.
 
@@ -98,7 +98,7 @@ Script
 
 </td><td>
 
-Script to specify the advanced assignment rule functionality. The current.variable\_pool set of [[variables|variables]] is available.**Note:** Make sure that the input in the script is correct and that the input type matches the field type in the Assignment Rule script. For example, if the assignment rule script sets the value of an Integer field, and the value in the script is set to String, the assignment rule may yield unexpected results.
+Script to specify the advanced assignment rule functionality. The current.variable\_pool set of variables is available.**Note:** Make sure that the input in the script is correct and that the input type matches the field type in the Assignment Rule script. For example, if the assignment rule script sets the value of an Integer field, and the value in the script is set to String, the assignment rule may yield unexpected results.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -130,7 +130,3 @@ Order in which the assignment rule is processed. If the assignment rules conflic
 </td></tr></tbody>
 </table>**Parent Topic:**[Operational Technology Incident Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/oper-tech-incident-management-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[variables|Variables]]

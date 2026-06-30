@@ -31,7 +31,7 @@ A visitor must be invited before they can be screened for entry. If an uninvited
     |Option|Action|
     |------|------|
     |**Smartphone or tablet**|From the Now Mobile Health screen, under the **Health Screening** section, tap **Screen Visitor**.|
-    |**Computer**|Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **View Employee and Visitor Status**. Choose the **Visitor** option and select the visitor.|
+    |**Computer**|Navigate to **Employee Health and Safety Status** &gt; **View Employee and Visitor Status**. Choose the **Visitor** option and select the visitor.|
 
 2.  Review the status to verify that the visitor is cleared to enter.
 
@@ -61,7 +61,7 @@ Tap **Screening** &gt; **Request Visitor Entry**.
 
 </td><td>
 
-Navigate to **[[employee-health-screening|Employee Health Screening]]** &gt; **Request Visitor Entry**.The screening form opens in a new browser tab.
+Navigate to **Employee Health Screening** &gt; **Request Visitor Entry**.The screening form opens in a new browser tab.
 
 </td></tr></tbody>
 </table>4.  Take the visitor's temperature and fill in the screening form.
@@ -178,7 +178,3 @@ The choice of **Yes** or **No** from the list to record whether the visitor is w
 
 **Parent Topic:**[Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md)
 
-## Related
-
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[employee-health-screening|Employee Health Screening]]

@@ -19,10 +19,10 @@ Set up an ACC Log Analytics \(ACC-L\) integration for streaming log messages to 
 
 ## Before you begin
 
--   Verify you're using the latest release version of the [[hla-landing-page|Health Log Analytics]] plugin to enable ACC Log Analytics integration setupfrom the Integrations Launchpad.
+-   Verify you're using the latest release version of the Health Log Analytics plugin to enable ACC Log Analytics integration setupfrom the Integrations Launchpad.
 -   Verify that a MID Server is installed and configured. For more information, see [MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerSystemRequirements.md).
--   The MID Server must support the [[acc-landing-page|Agent Client Collector]] Listener. The ACC Listener can be enabled during ACC Log Analytics integration setup from the Integrations Launchpad.
--   The [[acc-log-analytics|Agent Client Collector Log Analytics]] application has a dependency on the following ServiceNow applications, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home):
+-   The MID Server must support the Agent Client Collector Listener. The ACC Listener can be enabled during ACC Log Analytics integration setup from the Integrations Launchpad.
+-   The Agent Client Collector Log Analytics application has a dependency on the following ServiceNow applications, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home):
     -   Health Log Analytics, Version 22.0.12 - December 2021 and later releases.
     -   Agent Client Collector - Framework, Version 2.7.0 - December 2021 and later releases.
 
@@ -34,7 +34,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Set up an integration from the Integrations Launchpad in [[workspace-dashboard-use|Service Operations Workspace]], which you access from the [[itom-aiops-conf-center|ITOM AIOps configuration center]]. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
+Set up an integration from the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -91,10 +91,3 @@ On the **Overview** tab, do the following:
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

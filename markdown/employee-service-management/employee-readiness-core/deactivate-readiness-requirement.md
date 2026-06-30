@@ -22,11 +22,11 @@ Role required: sn\_imt\_core.admin
 
 ## About this task
 
-When you deactivate a requirement, all records for the requirement in the Employee [[health-safety-overview|Health and Safety]] Requirement table \[sn\_imt\_core\_employee\_health\_and\_safety\_requirement\] are deleted. The requirement is no longer tracked for any employees.
+When you deactivate a requirement, all records for the requirement in the Employee Health and Safety Requirement table \[sn\_imt\_core\_employee\_health\_and\_safety\_requirement\] are deleted. The requirement is no longer tracked for any employees.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Health and Safety Requirements**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Health and Safety Requirements**.
 
 2.  Click the requirement that you want to deactivate.
 
@@ -35,7 +35,3 @@ When you deactivate a requirement, all records for the requirement in the Employ
 
 **Parent Topic:**[Employee Health and Safety Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-health-safety-status.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

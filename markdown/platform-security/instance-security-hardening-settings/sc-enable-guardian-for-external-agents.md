@@ -16,13 +16,13 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Use a system property to protect your Language Learning Models \(LLMs\) with Guardian.
 
-Use the **sn\_aia.external\_agent\_guardian\_check** system property to enable Guardian, which monitors requests sent to Language Learning Models \(LLMs\) and their responses to help protect you, your [[users|users]], and your data. There are three types of content that are monitored for:
+Use the **sn\_aia.external\_agent\_guardian\_check** system property to enable Guardian, which monitors requests sent to Language Learning Models \(LLMs\) and their responses to help protect you, your users, and your data. There are three types of content that are monitored for:
 
 -   offensive or harmful content
 -   prompt injection attempts
 -   filtered subjects
 
-Ensure that the **sn\_aia.external\_agent\_guardian\_check** system property does not exist in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, or exists and is set to a value of `true`.
+Ensure that the **sn\_aia.external\_agent\_guardian\_check** system property does not exist in the System Properties \[sys\_properties\] table, or exists and is set to a value of `true`.
 
 ## More information
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -119,8 +119,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

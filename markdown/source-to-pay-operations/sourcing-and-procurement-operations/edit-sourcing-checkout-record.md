@@ -14,7 +14,7 @@ breadcrumb: [Sourcing checkout, Setting up primary data Shopping, Configure, Sou
 
 # Edit sourcing checkout record
 
-Edit the default [[sourcing-checkout|sourcing checkout]] used for all sourcing requests or create a custom checkout for sourcing requests for a specific product, product model, or product category.
+Edit the default sourcing checkout used for all sourcing requests or create a custom checkout for sourcing requests for a specific product, product model, or product category.
 
 ## Before you begin
 
@@ -22,10 +22,10 @@ Role required: sn\_shop.procurement\_administrator
 
 ## About this task
 
-Use record producers to create a custom set of questions to ask shoppers during checkout while initiating a [[sourcing-request|sourcing request]].
+Use record producers to create a custom set of questions to ask shoppers during checkout while initiating a sourcing request.
 
--   You can use a sourcing checkout for all the goods or services using the default checkout from [[shoppinghub-configurations|ShoppingHub Configuration]].
--   You can use a sourcing checkout for a specific [[supplier|supplier]] product, or a product model, or a product category from the **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** tab on each record.
+-   You can use a sourcing checkout for all the goods or services using the default checkout from ShoppingHub Configuration.
+-   You can use a sourcing checkout for a specific supplier product, or a product model, or a product category from the **Sourcing and Purchasing Automation** tab on each record.
 
 ## Procedure
 
@@ -61,10 +61,3 @@ Edits to an existing sourcing checkout are now complete.
 
 [Create a record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DefRecProdInSCat.md)
 
-## Related
-
-- [[sourcing-checkout|Sourcing checkout]]
-- [[sourcing-request|Sourcing request]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[supplier|Supplier]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

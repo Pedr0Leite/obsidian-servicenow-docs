@@ -14,7 +14,7 @@ breadcrumb: [Using Usage Insights, Usage Insights, Platform Analytics]
 
 # Usage Insights for pages and screens
 
-The Pages module for UI Analysis in [[user-exp-analytics-landing|Usage Insights]] shows analytics specific to pages on the web-based UI in terms of page use and navigation. View user action, performance, and navigation details for each web page to identify pages where users might be having issues and optimize workflows accordingly.
+The Pages module for UI Analysis in Usage Insights shows analytics specific to pages on the web-based UI in terms of page use and navigation. View user action, performance, and navigation details for each web page to identify pages where users might be having issues and optimize workflows accordingly.
 
 The analogous module for mobile applications is Screens. For more information, see .
 
@@ -147,7 +147,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Usage Insights**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Usage Insights**.
 
 2.  Select an application and then select **Data Foundation** &gt; **Pages**.
 
@@ -155,7 +155,4 @@ Role required: admin
 
 3.  Scroll the pages list, or use the Search icon \(\[Omitted image "IconSearch.png"\] Alt text: Search icon.\) to locate and select a page.
 
-## Related
 
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Copy locations for quote line items
 
-Use the copy location function to change the location of multiple quote line items in [[quote-management|Quote Management]].
+Use the copy location function to change the location of multiple quote line items in Quote Management.
 
 ## Before you begin
 
@@ -64,9 +64,5 @@ This action copies the quote line items to a new location.In the **Service locat
 7.  Select **Copy**.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[quote-management|Quote Management]]

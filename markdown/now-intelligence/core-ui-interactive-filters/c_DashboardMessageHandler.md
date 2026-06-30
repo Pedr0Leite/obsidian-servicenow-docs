@@ -14,7 +14,7 @@ breadcrumb: [Custom interactive filters, Interactive Filters, Reporting, dashboa
 
 # DashboardMessageHandler
 
-Provides methods to define custom filtering logic for [[c_HomepagePublishers|interactive filters]].
+Provides methods to define custom filtering logic for interactive filters.
 
 For more information about interactive filters, see [reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/reporting-landing-page.md) and [interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_HomepagePublishers.md).
 
@@ -26,7 +26,7 @@ Instantiate a DashboardMessageHandler object with a given unique ID.
 
 |Name|Type|Description|
 |----|----|-----------|
-|Id|String|A unique ID for the filter. This ID allows report [[widgets|widgets]] to track which filter applied each filter. The ID does not need to be unique across all dashboards, but each dashboard cannot have multiple filters with the same ID.|
+|Id|String|A unique ID for the filter. This ID allows report widgets to track which filter applied each filter. The ID does not need to be unique across all dashboards, but each dashboard cannot have multiple filters with the same ID.|
 
 ```
 var my_dashboardMessageHandler = new DashboardMessageHandler("my_unique_id");
@@ -154,7 +154,3 @@ var my_dashboardMessageHandler = new DashboardMessageHandler("my_unique_id");
   onclick="my_dashboardMessageHandler.removeFilter();"/>
 ```
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

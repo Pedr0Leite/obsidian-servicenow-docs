@@ -12,7 +12,7 @@ breadcrumb: [Explore, Financial Services Operations \(FSO\)]
 
 # Workspaces in Financial Services Operations
 
-The [[fso-overview|Financial Services]] Operations \(FSO\) workspace provides a single location for agents to process cases and tasks. Agents can use it to respond to all task types, view the full context of an issue, and get relevant recommendations to resolve issues.
+The Financial Services Operations \(FSO\) workspace provides a single location for agents to process cases and tasks. Agents can use it to respond to all task types, view the full context of an issue, and get relevant recommendations to resolve issues.
 
 FSO uses CSM Configurable Workspace that agents can use. To learn more about the features available in the CSM Configurable Workspace, see [CSM workspace features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-feature-overview.md).
 
@@ -58,7 +58,7 @@ Application admin
 
 </td><td>
 
-Configures the workspace as per business requirements.For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the workspace as per business requirements.For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Accessing the workspace
@@ -90,15 +90,9 @@ In workspace, using the case playbook, you can review and work on your cases and
 -   Contributors and requesters can submit service cases and view the case status.
 -   Agents can investigate, triage, and respond to cases and tasks that are assigned to them.
 
-The following is an example of a case playbook for a card dispute in the [[card-ops-landing-page|Financial Services Card Operations]] application.
+The following is an example of a case playbook for a card dispute in the Financial Services Card Operations application.
 
 \[Omitted image "fso-workspace-case-playbook.png"\] Alt text: Case playbook workspace showing the Resolve card disputes process with completed Select transaction step and case information panel.
 
-**Parent Topic:**[[exploring-fso-apps|Exploring Financial Services Operations]]
+**Parent Topic:**[Exploring Financial Services Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/exploring-fso-apps.md)
 
-## Related
-
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[exploring-fso-apps|Exploring Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

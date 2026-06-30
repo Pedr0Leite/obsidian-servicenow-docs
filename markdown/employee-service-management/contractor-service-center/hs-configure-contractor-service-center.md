@@ -14,14 +14,14 @@ breadcrumb: [Contractor Service Center, Health and Safety, Employee Service Mana
 
 # Configuring Contractor Service Center
 
-Set up your implementation for [[hs-contractor-service-center-landing-page|Contractor Service Center]] by installing the plugins and reviewing and configuring the components installed with it.
+Set up your implementation for Contractor Service Center by installing the plugins and reviewing and configuring the components installed with it.
 
 -   **[Install Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-install-contractor-service-center.md)**  
-You can install the [[health-safety-overview|Health and safety]] Contractor safety center \[sn\_hs\_csc\] application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Health and safety Contractor safety center \[sn\_hs\_csc\] application if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Configure system properties for Save as draft option](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-configure-system-properties-contractor-service-center.md)**  
 Configure the system properties to enable the **Save as draft** option for some catalog item. For example, on the permit to work form or for password reset.
 -   **[Configure the menu for Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-menu-configuration.md)**  
-As an admin you can configure the menu for the contractor service center. You can update the **[[emp-center-quick-link-config|Quick links]] to get you started** or the **Explore our categories** menu items, or create a menu item.
+As an admin you can configure the menu for the contractor service center. You can update the **Quick links to get you started** or the **Explore our categories** menu items, or create a menu item.
 -   **[Configure the Contractor Service Center portal theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-customize-contractor-service-center-portal-theme.md)**  
 A theme is a collection of one or more style sheets \(CSS files\) that define a consistent look for a set of pages. Configure the default portal theme to apply your own theme to suit your branding and improve the visual design of the portal pages.
 -   **[Configure Contractor Service Center web page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-customize-contractor-service-center-page.md)**  
@@ -29,8 +29,3 @@ Edit or configure the Contractor Service Center web interface and use layouts to
 
 **Parent Topic:**[Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-landing-page.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]
-- [[health-safety-overview|Health and Safety]]
-- [[emp-center-quick-link-config|Quick links]]

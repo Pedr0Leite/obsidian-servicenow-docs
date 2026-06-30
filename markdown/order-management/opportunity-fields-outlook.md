@@ -15,7 +15,7 @@ breadcrumb: [Activity Management reference, Lead and opportunity management, Ref
 
 Field descriptions for viewing or editing an opportunity record from the ServiceNow CRM for Outlook add-in.
 
-<table id="opportunity-[[fields|fields]]-table"><thead><tr><th>
+<table id="opportunity-fields-table"><thead><tr><th>
 
 Field
 
@@ -46,7 +46,7 @@ Sales Cycle Type
 </td><td>
 
 Type of sales cycle for this opportunity. The available options are:-   NEWCUST
--   [[Renew|RENEW]]
+-   RENEW
 -   UPSELL
 
 </td></tr><tr><td>
@@ -124,16 +124,10 @@ Description
 Optional description of the opportunity.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+</table>**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[associate-email-crm-outlook|Associate an email with an existing CRM record]]
+[Associate an email with an existing CRM record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-email-crm-outlook.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[associate-email-crm-outlook|Associate an email with an existing CRM record]]
-- [[fields|Fields]]
-- [[Renew|Renew]]

@@ -14,7 +14,7 @@ breadcrumb: [ATF Test Generator and Cloud Runner roles, ATF Test Generator and C
 
 # System Administrator \[admin\]
 
-The admin role is required to access and use the [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]] store application.
+The admin role is required to access and use the ATF Test Generator and Cloud Runner store application.
 
 ## Contains Roles
 
@@ -43,6 +43,3 @@ It is recommended to select a dedicated admin user who meets the following condi
 
 **Parent Topic:**[ATF Test Generator and Cloud Runner roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-roles.md)
 
-## Related
-
-- [[atf-tg-cr-intro|ATF Test Generator and Cloud Runner]]

@@ -14,7 +14,7 @@ breadcrumb: [Learning Core Reference, Learning Core, HR Service Delivery, Employ
 
 # Course catalog form
 
-Use the course catalog form to create a new [[exploring-learning-exp|learning]] course catalog.
+Use the course catalog form to create a new learning course catalog.
 
 |Field|Description|
 |-----|-----------|
@@ -49,6 +49,3 @@ Use the course catalog form to create a new [[exploring-learning-exp|learning]] 
 
 [Collection form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

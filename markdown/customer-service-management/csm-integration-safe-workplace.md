@@ -12,7 +12,7 @@ breadcrumb: [Integrate, Customer Service Management]
 
 # Integrating with Safe Workplace applications
 
-Integrate [[c_CustomerServiceManagement|Customer Service Management]] with ServiceNow® Safe Workplace applications. This integration helps you safely reopen locations and support the health and safety of contacts and consumers after emergencies and pandemics.
+Integrate Customer Service Management with ServiceNow® Safe Workplace applications. This integration helps you safely reopen locations and support the health and safety of contacts and consumers after emergencies and pandemics.
 
 ## Overview
 
@@ -29,6 +29,3 @@ For more information on the Employee Health Screening application, see [Employee
 -   Access for consumers and contacts to the Health Verification form on the Consumer or Customer Service Portals.
 -   Ability for customer or consumer service agents to screen consumers and contacts on visiting a location.
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

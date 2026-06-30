@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-When you create a CI infrastructure relationship, the information is stored in the Infrastructure Relations \[em\_impact\_infra\_rel\_def\] table. When alerts generate, the related CI accompanies the application service information on the [[c_EM|Event Management]] dashboard and in the impact tree. Additional information for the related CIs only appears on a related dependency view map for the application service. The following default infrastructure relationships are available.
+When you create a CI infrastructure relationship, the information is stored in the Infrastructure Relations \[em\_impact\_infra\_rel\_def\] table. When alerts generate, the related CI accompanies the application service information on the Event Management dashboard and in the impact tree. Additional information for the related CIs only appears on a related dependency view map for the application service. The following default infrastructure relationships are available.
 
 |Infrastructure relationship|Impact rule|Description|
 |---------------------------|-----------|-----------|
@@ -105,6 +105,4 @@ The impact rule to calculate infrastructure relationships:-   **OS Cluster Membe
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[c_EM|Event Management]]

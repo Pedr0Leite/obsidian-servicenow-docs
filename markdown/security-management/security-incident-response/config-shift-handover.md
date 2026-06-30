@@ -19,7 +19,7 @@ Configure Shift Handover settings to provide complete shift information to the n
 -   **[Configure Shift Handover Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-shift-handover-templates.md)**  
 The Admin can define and configure different Shift Handover templates for the Shift Owner to create shift handover records and hand them over to the next shift team.
 -   **[Create shifts through Security Incident Response Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-shift-times.md)**  
-Create shifts through the [[sir-workspace-landing-page|Security Incident Response Workspace]] to use when configuring shift handover records.
+Create shifts through the Security Incident Response Workspace to use when configuring shift handover records.
 
 **Parent Topic:**[Configuring SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-security-incident-response-workspace.md)
 
@@ -42,13 +42,9 @@ Create shifts through the [[sir-workspace-landing-page|Security Incident Respons
 
 [Category management in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

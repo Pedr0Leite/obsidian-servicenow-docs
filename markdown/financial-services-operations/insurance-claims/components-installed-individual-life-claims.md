@@ -14,19 +14,19 @@ breadcrumb: [Reference, Individual Life Claims, Exploring insurance claims appli
 
 # Components installed with Individual Life Claims
 
-Several types of components are installed with the activation of the [[individual-life-claims-landing-page|Individual Life Claims]] application.
+Several types of components are installed with the activation of the Individual Life Claims application.
 
 ## Plugins installed
 
 |Plugin|Description|
 |------|-----------|
-|Customer Service \[com.sn\_customerservice\]|Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.|
+|Customer Service \[com.sn\_customerservice\]|Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.|
 
 ## Store applications installed
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, enabling consistent responses to commonly encountered situations. For more information, see[Playbook capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -137,8 +137,3 @@ sn\_ins\_claim\_indl.dbn\_adjuster
 
 **Parent Topic:**[Individual Life Claims reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/individual-life-claims-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[individual-life-claims-landing-page|Individual Life Claims]]
-- [[fso-overview|Financial Services]]

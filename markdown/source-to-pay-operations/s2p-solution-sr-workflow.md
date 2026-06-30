@@ -12,7 +12,7 @@ breadcrumb: [Purchasing and sourcing workflows, Source-to-Pay Operations, Financ
 
 # End-to-end sourcing workflow in Source-to-Pay Operations
 
-Gather a high-level understanding of the end-to-end sourcing workflow with the [[psm-overview|Sourcing and Procurement Operations]] \(SPO\), [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \(SLO\), and [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] \(APO\) products within the Source-to-Pay \(S2P\) suite.
+Gather a high-level understanding of the end-to-end sourcing workflow with the Sourcing and Procurement Operations \(SPO\), Supplier Lifecycle Operations \(SLO\), and Accounts Payable Operations \(APO\) products within the Source-to-Pay \(S2P\) suite.
 
 The sourcing workflow is triggered when there is an active contractual price for a product or service that the shopper intends to purchase.
 
@@ -28,15 +28,15 @@ Install and activate the necessary plugins. For more information on the respecti
 
 The following figure shows how different personas use the various applications withing the SPO, SLO, and APO products to complete the end-to-end sourcing process within the Source-to-Pay \(S2P\) suite.
 
-\[Omitted image "spo-slo-sourcing-new-[[supplier|supplier]].png"\] Alt text: Workflow of the sourcing process
+\[Omitted image "spo-slo-sourcing-new-supplier.png"\] Alt text: Workflow of the sourcing process
 
 In this workflow:
 
-1.  An employee creates a [[sourcing-request|sourcing request]] for a product or service that doesn't have a contractual price, or isn’t available in the catalog. For more information, see [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md) and [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md), respectively.
+1.  An employee creates a sourcing request for a product or service that doesn't have a contractual price, or isn’t available in the catalog. For more information, see [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md) and [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md), respectively.
 
     Role: sn\_shop.shopper.
 
-    Application portal: [[shopping-hub-overview|Shopping Hub]] and Employee Center respectively.
+    Application portal: Shopping Hub and Employee Center respectively.
 
 2.  Approval rules route the sourcing request to one or more assigned approvers.
 3.  An approver reviews the sourcing request and approves it. For more information, see [Approve a request from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approve-request-from-employee-center.md).
@@ -50,11 +50,11 @@ In this workflow:
 
     Role: sn\_shop.procurement\_specialist.
 
-    Application portal: [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+    Application portal: Source-to-Pay Workspace.
 
-6.  [[negotiations|Negotiations]] are auto-created with qualified suppliers. For more information, see [Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-intake-guided-exp.md).
+6.  Negotiations are auto-created with qualified suppliers. For more information, see [Sourcing intake guided experience with playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/sourcing-intake-guided-exp.md).
 
-    If sourcing with a new supplier, see [[spo-slo-sourcing-with-new-suppliers|End-to-end sourcing and supplier onboarding workflow in Source-to-Pay Operations]].
+    If sourcing with a new supplier, see [End-to-end sourcing and supplier onboarding workflow in Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/spo-slo-sourcing-with-new-suppliers.md).
 
     Role: sn\_shop.procurement\_specialist.
 
@@ -74,7 +74,7 @@ In this workflow:
 
     Application portal: Source-to-Pay Workspace.
 
-9.  The supplier manager assigns the supplier tasks to the [[supplier-contact|supplier contact]].
+9.  The supplier manager assigns the supplier tasks to the supplier contact.
 
     Role: sn\_slm.manager.
 
@@ -86,7 +86,7 @@ In this workflow:
     -   Risk assessment questionnaire. For more information, see [Complete a risk assessment from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-risk-assessments.md).
     Role: sn\_slm.contact.
 
-    Application portal: [[supplier-central|Supplier Collaboration Portal]].
+    Application portal: Supplier Collaboration Portal.
 
 11. After the supplier manager reviews the supplier risk score and completes the different activities in each stage of the playbook, the supplier is successfully onboarded.
 
@@ -100,7 +100,7 @@ In this workflow:
 
     Application portal: Source-to-Pay Workspace.
 
-13. Purchase requisitions are auto-created. The procurement specialist reviews the purchase requisitions and its associated [[purchase-lines|purchase lines]], and creates purchase orders. For more information, see [SPO list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/procurement-specialist-list-page.md).
+13. Purchase requisitions are auto-created. The procurement specialist reviews the purchase requisitions and its associated purchase lines, and creates purchase orders. For more information, see [SPO list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/procurement-specialist-list-page.md).
 
     Role: sn\_shop.procurement\_specialist.
 
@@ -112,7 +112,7 @@ In this workflow:
 
     Application portal: Shopping Hub or Employee Center.
 
-15. [[invoices|Invoices]] are auto-created. When invoices aren’t auto-submitted or don’t match the purchase orders, or when [[work-with-invoice-exceptions|invoice exceptions]] must be resolved, an accounts payable specialist gets involved. For more information, see [Accounts Payable Invoice Processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-invoice-processing.md).
+15. Invoices are auto-created. When invoices aren’t auto-submitted or don’t match the purchase orders, or when invoice exceptions must be resolved, an accounts payable specialist gets involved. For more information, see [Accounts Payable Invoice Processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-invoice-processing.md).
 
     Alternatively, the accounts payable specialist manually creates invoices. For more information, see [Accounts Payable Specialist manual tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/aps-manual-tasks.md).
 
@@ -120,7 +120,7 @@ In this workflow:
 
     Application portal: Source-to-Pay Workspace.
 
-16. The accounts payable specialist converts invoices of [[purchase-order-table|purchase order]] type to invoice types such as non-purchase order, [[invoice-type-credit-memo|credit memo]], and debit memo, based on their interactions with shoppers and suppliers of business services. For more information, see [Accounts Payable Specialist manual tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/aps-manual-tasks.md).
+16. The accounts payable specialist converts invoices of purchase order type to invoice types such as non-purchase order, credit memo, and debit memo, based on their interactions with shoppers and suppliers of business services. For more information, see [Accounts Payable Specialist manual tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/aps-manual-tasks.md).
 
     Role: sn\_ap\_apm.accounts\_payable\_specialist.
 
@@ -134,21 +134,3 @@ In this workflow:
 
 18. The employee, approver, sourcing manager, procurement specialist, supplier manager, accounts payable specialist, and accounts payable agent have complete visibility into the status of the workflow through process completion, from their respective portals.
 
-## Related
-
-- [[spo-slo-sourcing-with-new-suppliers|End-to-end sourcing and supplier onboarding workflow in Source-to-Pay Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[supplier|Supplier]]
-- [[sourcing-request|Sourcing request]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiations|Negotiations]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purchase-lines|Purchase lines]]
-- [[invoices|Invoices]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[purchase-order-table|Purchase order]]
-- [[invoice-type-credit-memo|Credit memo]]

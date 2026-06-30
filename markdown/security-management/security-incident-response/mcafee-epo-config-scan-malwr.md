@@ -14,7 +14,7 @@ breadcrumb: [Configure settings, Capability profiles, McAfee ePO integration, Se
 
 # Configure a profile to initiate malware scan
 
-After you [[arcsight-esm-create-profile|create a profile]] with the Initiate [[threat-intelligence-malware|Malware]] Scan capability and any other McAfee ePO capabilities that you want the profile to run, configure the settings of the profile so that it is invoked under the specific conditions that you define.
+After you create a profile with the Initiate Malware Scan capability and any other McAfee ePO capabilities that you want the profile to run, configure the settings of the profile so that it is invoked under the specific conditions that you define.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-As a user with the sn\_si.admin role, configure the profile so it schedules a scan only when the conditions that you specify are fulfilled on ServiceNow AI Platform [[sir-landing-page|Security Incident Response]] \(SIR\) security incidents. You define which conditions on security incidents trigger the scan. Any other McAfee ePO capabilities that you select for the profile share the triggering conditions. The options to select an alternate input field for the Configuration Item \(CI\) field and set filtering conditions are available. You may prefer to set filtering so that only those SIR security incidents that are related to your triggering event automatically invoke the profile.
+As a user with the sn\_si.admin role, configure the profile so it schedules a scan only when the conditions that you specify are fulfilled on ServiceNow AI Platform Security Incident Response \(SIR\) security incidents. You define which conditions on security incidents trigger the scan. Any other McAfee ePO capabilities that you select for the profile share the triggering conditions. The options to select an alternate input field for the Configuration Item \(CI\) field and set filtering conditions are available. You may prefer to set filtering so that only those SIR security incidents that are related to your triggering event automatically invoke the profile.
 
 As with the isolate host action, you can initiate an on-demand scan directly from a SIR security incident. For more information about launching a scan manually, see [Trigger McAfee ePO profile manually from a security incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-submit-ih-fm-si.md).
 
@@ -107,8 +107,3 @@ Require approval prior to initiating the scan. Default is disabled. When the che
 
 **Parent Topic:**[Configure settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-configuring-profile.md)
 
-## Related
-
-- [[arcsight-esm-create-profile|Create a profile]]
-- [[threat-intelligence-malware|Malware]]
-- [[sir-landing-page|Security Incident Response]]

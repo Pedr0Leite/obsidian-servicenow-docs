@@ -60,7 +60,7 @@ The following attributes in the Cloud Service Account \[cmdb\_ci\_cloud\_service
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -151,6 +151,3 @@ The following attributes in the Service Calculated \[cmdb\_ci\_service\_calculat
 
 [Service Graph Connector for Observability - Datadog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-datadog.md)
 
-## Related
-
-- [[ip-address|IP Address]]

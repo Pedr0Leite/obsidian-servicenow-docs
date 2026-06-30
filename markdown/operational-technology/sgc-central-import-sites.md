@@ -12,7 +12,7 @@ breadcrumb: [SGC Central, Service Graph Connector for ServiceNow Operational Tec
 
 # Import Sites
 
-In [[sgc-central-for-ot-discovery|SGC Central]] the next step is to import the Sites.
+In SGC Central the next step is to import the Sites.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Before importing assets, you must [[import-site|import sites]].
+1.  Before importing assets, you must import sites.
 
     \[Omitted image "sgc-central-import-sites.png"\] Alt text: Import sites
 
@@ -38,7 +38,4 @@ Role required: admin
 
 6.  Select **Continue** to move to the next step.
 
-## Related
 
-- [[sgc-central-for-ot-discovery|SGC Central]]
-- [[import-site|Import sites]]

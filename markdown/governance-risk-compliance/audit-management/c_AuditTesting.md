@@ -29,10 +29,7 @@ Audit owners can create generic control test templates for a control objective, 
 -   **[Create an audit test plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/t_CreateTestPlan.md)**  
 Test plans can be created from scratch or based on test templates and describe how a feature is to be tested.
 -   **[Create multiple test plans from a test template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-multiple-test-plans-from-test-template.md)**  
-If GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] is installed, a test template can be used to create test plans for all the controls associated with the control objective of the test plan.
+If GRC: Policy and Compliance Management is installed, a test template can be used to create test plans for all the controls associated with the control objective of the test plan.
 
 **Parent Topic:**[Using Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/using-audit-management.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

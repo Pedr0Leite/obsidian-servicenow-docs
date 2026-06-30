@@ -14,9 +14,9 @@ breadcrumb: [Record pages and page templates, CSM Configurable Workspace, Organi
 
 A page template is a blueprint of a record page that you can use to create a new page or page variant in UI Builder.
 
-A page template can include components, data resources, extension [[gamification-components-points|points]], and a layout. When you create a page or a page variant from a page template, you start from a base structure that you can customize to meet your needs.
+A page template can include components, data resources, extension points, and a layout. When you create a page or a page variant from a page template, you start from a base structure that you can customize to meet your needs.
 
-You can select one of the [[csm-workspaces-configure|CSM Configurable Workspace]] templates when creating a new page or a new page variant in UI Builder.
+You can select one of the CSM Configurable Workspace templates when creating a new page or a new page variant in UI Builder.
 
 <table id="table_qh2_43q_1bc"><thead><tr><th>
 
@@ -32,7 +32,7 @@ CSM default record
 
 </td><td>
 
-The CSM default record template includes CSM [[case-management|case management]] features and functionality and enables agents to create, monitor, and resolve cases. Use this template if you want to customize and extend CSM functionality around case management.
+The CSM default record template includes CSM case management features and functionality and enables agents to create, monitor, and resolve cases. Use this template if you want to customize and extend CSM functionality around case management.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ The CSM Interaction record template includes the CSM interaction management feat
 
 </td></tr><tr><td>
 
-[[csm-front-line-case-page|Front-line case page]]
+Front-line case page
 
 </td><td>
 
@@ -60,7 +60,7 @@ The CSM voice interaction record template enables customers to create voice inte
 
 </td></tr><tr><td>
 
-[[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
+CSM centered chat interaction record page
 
 </td><td>
 
@@ -71,14 +71,5 @@ The CSM centered chat interaction record template brings the chat component to t
 
 ## Record presence feature
 
-Pages that you create from the CSM record page template and the [[csm-interaction-record-page|CSM Interaction record page]] templates have the record presence feature available. This feature lets you see the users who are currently viewing a record. For more information, see [[csm-default-record-page|User presence component]].
+Pages that you create from the CSM record page template and the CSM Interaction record page templates have the record presence feature available. This feature lets you see the users who are currently viewing a record. For more information, see [User presence component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md).
 
-## Related
-
-- [[csm-default-record-page|CSM default record page]]
-- [[gamification-components-points|Points]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-management|Case management]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-centered-chat-interaction-page|CSM centered chat interaction record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]

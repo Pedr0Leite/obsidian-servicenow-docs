@@ -14,7 +14,7 @@ breadcrumb: [Configure inbound FDS as consumers, Configure for consumers, Servic
 
 # Accept a foundation data sync subscription
 
-Accept a [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) subscription to complete the FDS configuration.
+Accept a foundation data sync \(FDS\) subscription to complete the FDS configuration.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ After the subscription item is validated, you must accept the subscription to co
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Open Records** &gt; **FDS Requests**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Open Records** &gt; **FDS Requests**.
 
 2.  Select the request.
 
@@ -36,7 +36,4 @@ After the subscription item is validated, you must accept the subscription to co
 
     If you reject the subscription by selecting **Reject**, your provider needs to resend the sample files, and you must reconfigure the subscription items before you can accept the subscription again.
 
-## Related
 
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

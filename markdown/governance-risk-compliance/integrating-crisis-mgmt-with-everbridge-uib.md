@@ -14,7 +14,7 @@ breadcrumb: [Explore, Business Continuity Management, Governance, Risk, and Comp
 
 You can integrate Crisis Management in the BCM application with Everbridge notifications system. You can then send an emergency notification to an individual or a group of people alerting them of an impending emergency. It provides a one-way notification and two-way communication through properly established delivery channels.
 
-Crisis Management in [[business-continuity-mangmt-overview|Business Continuity Management]] application uses Everbridge to direct certain crisis response activities. This integration helps to send notifications about critical events to stakeholders and coordinates responses from them in an effective two-way delivery channel.
+Crisis Management in Business Continuity Management application uses Everbridge to direct certain crisis response activities. This integration helps to send notifications about critical events to stakeholders and coordinates responses from them in an effective two-way delivery channel.
 
 To send a notification, you need correct contacts, groups, and delivery channels. Delivery channels are created and stored in Everbridge and you have to import those delivery channels for your particular organization ID. These delivery channels are used for sending notifications and contact creation.
 
@@ -65,10 +65,5 @@ If there are many contacts to whom the notification could not be delivered, then
 
 ## Administrative tasks for integrating Crisis Management with Everbridge
 
-For information on the administrative tasks for [[BCM-integration-everbridge|integrating Crisis Management with Everbridge]] notifications system, see [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]].
+For information on the administrative tasks for integrating Crisis Management with Everbridge notifications system, see [Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md).
 
-## Related
-
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[BCM-integration-everbridge|Integrating Crisis Management with Everbridge]]

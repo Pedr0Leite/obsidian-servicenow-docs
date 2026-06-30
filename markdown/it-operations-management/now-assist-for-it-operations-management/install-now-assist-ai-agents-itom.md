@@ -19,7 +19,7 @@ Activate Now Assist AI agents associated with the Triage and analyze alerts agen
 
 ## Before you begin
 
-Before activating the Now Assist AI agents, you must [[install-now-assist-itom|install the Now Assist for IT Operations Management \(ITOM\) plugin]]. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
+Before activating the Now Assist AI agents, you must install the Now Assist for IT Operations Management \(ITOM\) plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 
 To get started with AI agents, you must have:
 
@@ -62,6 +62,3 @@ To access AI agents in the Now Assist panel, you must enable the panel. For more
 
 **Parent Topic:**[Configure Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom-configure.md)
 
-## Related
-
-- [[install-now-assist-itom|Install the Now Assist for IT Operations Management \(ITOM\) plugin]]

@@ -14,7 +14,7 @@ breadcrumb: [Audit Plan Overview, Audit Management Overview, Audit Management, G
 
 # Create an auditable unit
 
-Create auditable units with entities such as business units, departments, vendors, products, business processes, business applications, locations, authority documents, and policies to perform [[risk-assessments|risk assessments]] on the auditable units.
+Create auditable units with entities such as business units, departments, vendors, products, business processes, business applications, locations, authority documents, and policies to perform risk assessments on the auditable units.
 
 ## Before you begin
 
@@ -126,7 +126,7 @@ Inherent risk rating
 
 </td><td>
 
-Inherent risk score. The value in this field is derived from [[advanced-risk-assessment|advanced risk assessment]]. This field appears if the **Method** field has **Detailed Risk Assessment**.
+Inherent risk score. The value in this field is derived from advanced risk assessment. This field appears if the **Method** field has **Detailed Risk Assessment**.
 
 </td></tr><tr><td>
 
@@ -169,7 +169,3 @@ Residual risk score. The value in this field is derived from advanced risk asses
     -   Authority Documents
     -   Policies
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[advanced-risk-assessment|advanced risk assessment]]

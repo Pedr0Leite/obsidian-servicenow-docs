@@ -40,7 +40,7 @@ This task is applicable to all IT hardware devices.
 
 5.  Select **Update**.
 
-6.  To view the converted OT Device, navigate to **All** &gt; **[[operational-technology-overview|Operational Technology]] \(OT\)** &gt; **All OT Devices**.
+6.  To view the converted OT Device, navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
 
 
 ## Result
@@ -51,6 +51,3 @@ Alternatively, you can select multiple IT hardware devices and convert them into
 
 **Parent Topic:**[OT device related items and related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/ot-assets-related-links-and-lists.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

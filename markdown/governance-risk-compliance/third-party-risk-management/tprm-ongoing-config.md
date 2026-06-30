@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[tprm-risk-rating-scales-config|Set up risk rating scales for scoring]] assessments and questionnaires.
+Set up risk rating scales for scoring assessments and questionnaires.
 
 </td><td>
 
@@ -77,7 +77,7 @@ Components are entities that can be assessed for risk. Component criteria are gr
  The following component classifications are available.
 
 -   Third-party components
-    -   Third-party [[risk-assessments|risk assessments]] \(External risk assessments\)
+    -   Third-party risk assessments \(External risk assessments\)
     -   Subsidiaries
     -   Engagements
     -   Risk intelligence rating
@@ -165,11 +165,11 @@ Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 </td></tr><tr><td>
 
-Create [[airc-assessment-templates|assessment templates]] for external questionnaires.
+Create assessment templates for external questionnaires.
 
 </td><td>
 
-You can [[sae-asmnt-template-create|create an assessment template]] with set duration requirements and questionnaires attached by default to help streamline the assessment process for different types of third parties and engagements.
+You can create an assessment template with set duration requirements and questionnaires attached by default to help streamline the assessment process for different types of third parties and engagements.
 
  For more information, see [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
@@ -228,9 +228,3 @@ For more information, see [Verifying scoring calculations using the classic asse
 
 For more information on assessment and score-related automation, see [Set up internal questionnaire responses to automatically attach external questionnaires to assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-setup-eq-irq.md), [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md), [Event-driven management — automate assessment processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-create.md), and [Automate actions upon risk intelligence updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-submissrule.md).
 
-## Related
-
-- [[tprm-risk-rating-scales-config|Set up risk rating scales for scoring]]
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[sae-asmnt-template-create|Create an assessment template]]

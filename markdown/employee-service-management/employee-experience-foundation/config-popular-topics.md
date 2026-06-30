@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-[[employee-center-landing-page|Employee Center]] uses an algorithm to determine which topics must appear on the widget.
+Employee Center uses an algorithm to determine which topics must appear on the widget.
 
 **Note:** Retired articles are not considered for topic popularity calculation.
 
@@ -137,6 +137,3 @@ Option to show the view from the available options:-   None
 
 **Parent Topic:**[Employee Center browse experience widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/custom-widget-landing-ec.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

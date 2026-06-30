@@ -20,7 +20,7 @@ By configuring these properties, you can control the capabilities, such as:
 
 -   Include the primary configuration item or all the items in the Affected CIs related list.
 -   Processing of refreshing the impacted services as an event.
--   Populate Service Offerings and Business [[dex-workspace-application-tab|Applications]] from the Impacted Services related list.
+-   Populate Service Offerings and Business Applications from the Impacted Services related list.
 
 The following properties can be found in sys\_properties.list and on the Change properties page.
 
@@ -92,6 +92,3 @@ com.snc.change\_request.refresh\_impacted\_services.message.show
 </td></tr></tbody>
 </table>**Parent Topic:**[Refresh impacted services and CIs for Change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/refresh-impacted-services-cis.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

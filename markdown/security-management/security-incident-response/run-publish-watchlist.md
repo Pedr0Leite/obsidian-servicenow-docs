@@ -14,7 +14,7 @@ breadcrumb: [Manage observables, Managing security incidents and inbound request
 
 # Publish observables to a third-party watchlist
 
-You can publish one or more [[c_Observables|observables]] or associated [[indicator|indicators]] to a third-party watchlist. Currently, the only implementation that supports this functionality is CrowdStrike Falcon Host.
+You can publish one or more observables or associated indicators to a third-party watchlist. Currently, the only implementation that supports this functionality is CrowdStrike Falcon Host.
 
 ## Before you begin
 
@@ -36,12 +36,8 @@ Role required: sn\_si.analyst
 
 4.  Enter or choose the implementation.
 
-    **Note:** A workflow is triggered by the [[pubish-to-watchlist-capability|Security Operations Integration- Publish to Watchlist capability]] when you select the CrowdStrike Falcon Host implementation.
+    **Note:** A workflow is triggered by the [Security Operations Integration- Publish to Watchlist capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/pubish-to-watchlist-capability.md) when you select the CrowdStrike Falcon Host implementation.
 
 5.  Select **Submit**.
 
-## Related
 
-- [[pubish-to-watchlist-capability|Security Operations Integration- Publish to Watchlist capability]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

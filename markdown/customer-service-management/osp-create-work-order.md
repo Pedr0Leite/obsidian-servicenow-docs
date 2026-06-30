@@ -12,11 +12,11 @@ breadcrumb: [Outsourced Service Provider agent tasks, Manage cases, Use, Custome
 
 # Create work order
 
-An OSP agent can [[create-work-orders|create a work order]] so that it can be assigned to a Field Service agent.
+An OSP agent can create a work order so that it can be assigned to a Field Service agent.
 
 ## Before you begin
 
-Role required: sn\_csm\_ocs.ext\_agent and you must have installed [[c_CustomerServiceManagement|Customer Service Management]] with Field Service Management plugin.
+Role required: sn\_csm\_ocs.ext\_agent and you must have installed Customer Service Management with Field Service Management plugin.
 
 ## Procedure
 
@@ -32,7 +32,4 @@ Role required: sn\_csm\_ocs.ext\_agent and you must have installed [[c_CustomerS
 
     **Note:** You cannot create a new work order until the previous one is closed or deleted.
 
-## Related
 
-- [[create-work-orders|Create a work order]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

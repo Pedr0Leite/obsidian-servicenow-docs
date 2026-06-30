@@ -24,7 +24,7 @@ Role required: sn\_audit.admin, sn\_irm\_shared\_cmn.word\_template\_creator, sn
 -   The minimum role is the Word template reader role \(sn\_irm\_shared\_cmn.word\_template\_reader\) that has the read access to the records in the Word template and Word template category tables.
 -   The minimum role is the Word template reader role \(sn\_irm\_shared\_cmn.word\_template\_reader\) that has the read access to the records in the Word template and Word template category tables.
 
-    You can generate the audit report for an engagement record in a Word template in [[audit-management-overview-ws|Audit Workspace]] only.
+    You can generate the audit report for an engagement record in a Word template in Audit Workspace only.
 
 -   To apply the Word template in the engagement record and to generate the report in the Audit Workspace, you must have the Audit manager role \(sn\_audit.manager\). See, [Generate audit report for an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/generate-audit-report.md).
 
@@ -61,6 +61,3 @@ For more information, see
 -   [Create an audit engagement in Audit Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-engagement-ws.md).
 -   [Generate audit report for an engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/generate-audit-report.md).
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring Natural Language Understanding, Natural Language Understa
 
 # NLU language support
 
-The NLU Workbench application provides support for creating [[nlu-models|NLU models]] in different languages for use in other applications, such as Virtual Agent.
+The NLU Workbench application provides support for creating NLU models in different languages for use in other applications, such as Virtual Agent.
 
 The platform supports NLU for 17 languages. Ten of these languages available to your models have both intent and entity support; the remaining 7 languages have intent-only support. \(Japanese entity support includes character annotation.\)
 
@@ -32,7 +32,7 @@ All languages support intents, vocabulary, batch testing, NLU performance, fast 
 
 |Language|NLU feature supported|
 |--------|---------------------|
-|English|System-defined entities, user-defined entities, vocabulary sources, [[prebuilt-vocabulary|pre-built vocabulary]], [[intent-discovery|intent discovery]], conflict review, expert feedback loop, Search model use.|
+|English|System-defined entities, user-defined entities, vocabulary sources, pre-built vocabulary, intent discovery, conflict review, expert feedback loop, Search model use.|
 |French|System-defined entities, user-defined entities, vocabulary sources, intent discovery, conflict review, Search model use.|
 |Spanish|System-defined entities, user-defined entities, vocabulary sources, intent discovery, conflict review, Search model use.|
 |German|System-defined entities, user-defined entities, vocabulary sources, intent discovery, conflict review, Search model use.|
@@ -50,8 +50,3 @@ All languages support intents, vocabulary, batch testing, NLU performance, fast 
 |Finnish|Virtual Agent model use.|
 |Norwegian|Virtual Agent model use.|
 
-## Related
-
-- [[nlu-models|NLU models]]
-- [[prebuilt-vocabulary|Pre-built vocabulary]]
-- [[intent-discovery|Intent Discovery]]

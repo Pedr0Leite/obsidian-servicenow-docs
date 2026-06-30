@@ -14,7 +14,7 @@ breadcrumb: [Manage supplier tasks, Using Source-to-Pay Workspace, Use, Supplier
 
 # Create a task for a supplier case from the Source-to-Pay Workspace
 
-You can create a task for a [[supplier|supplier]] case and assign it to a [[supplier-contact|supplier contact]].
+You can create a task for a supplier case and assign it to a supplier contact.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.fulfiller, or sn\_slm.adm
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Do one of the following.
 
@@ -121,7 +121,7 @@ Create a task for an internal employee
 
 
 </td></tr></tbody>
-</table>    For more information about the form fields and descriptions on the Create a new [[slo-task-form|task form]], see [Create new task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-task-form.md).
+</table>    For more information about the form fields and descriptions on the Create a new task form, see [Create new task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-supplier-task-form.md).
 
 4.  Select **Submit**.
 
@@ -142,7 +142,7 @@ Create a task for an internal employee
 
 The task is created and assigned to the supplier contact.
 
-An email notification is triggered to the assigned stakeholder. They can complete the task directly from the email or view it in the [[supplier-central|Supplier Collaboration Portal]].
+An email notification is triggered to the assigned stakeholder. They can complete the task directly from the email or view it in the Supplier Collaboration Portal.
 
 ## What to do next
 
@@ -159,11 +159,3 @@ The supplier contact to whom this task is assigned can view it on the **My To-do
 
 [Complete a supplier task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-supplier-task.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[slo-task-form|Task form]]
-- [[supplier-central|Supplier Collaboration Portal]]

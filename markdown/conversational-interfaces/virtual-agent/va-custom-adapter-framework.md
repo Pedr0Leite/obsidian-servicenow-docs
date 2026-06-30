@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with other channels, Virtual Agent, Conversational Int
 
 # Creating conversational custom chat integrations in Virtual Agent
 
-Conversational custom chat integration framework is a powerful framework consisting of scriptable APIs and configurations to bring the ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] to any conversational interface.
+Conversational custom chat integration framework is a powerful framework consisting of scriptable APIs and configurations to bring the ServiceNow® Virtual Agent to any conversational interface.
 
 ## How custom chat integrations work
 
@@ -36,7 +36,7 @@ Virtual Agent Chat Server \(VACS\) supports the following chat client integratio
 
 If you're using a chat client that is not in the list, you can create a custom integration using conversational custom chat integration framework.
 
-You can use any channels that support [[convint-landing-page|conversational interfaces]], such as Web Portals, Mobile Apps, Slack, Microsoft Teams, SMS, and any other channel and add ServiceNow® Virtual Agent to them.
+You can use any channels that support conversational interfaces, such as Web Portals, Mobile Apps, Slack, Microsoft Teams, SMS, and any other channel and add ServiceNow® Virtual Agent to them.
 
 With a conversational custom chat integration, you can manage and control how your end users' chat experience. The framework helps transform messages from a chat client to VACS, and VACS back to the chat client in a format that renders well on your chat interface.
 
@@ -55,12 +55,7 @@ Input and output rich controls must be mapped to your custom chat integration in
 -   **[Modify adapter card styles for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/modify-adapter-card-styles.md)**  
 Adapter cards are defined in the Adapter Cards \[sys\_cs\_adapter\_card\] table. Each card has a template for each supported channel to ensure it displays correctly. You can modify the channel templates to accommodate your organization's style requirements.
 -   **[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-features-custom-chat-integrations.md)**  
-The chat integrations framework supports a multitude of Virtual Agent and [[ci-use-agent-chat|Agent Chat]] features to provide a robust conversational experience.
+The chat integrations framework supports a multitude of Virtual Agent and Agent Chat features to provide a robust conversational experience.
 
 **Parent Topic:**[Integrating Virtual Agent with other channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integrate-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]

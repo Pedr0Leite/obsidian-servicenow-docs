@@ -14,7 +14,7 @@ breadcrumb: [Define login scenarios, Local authentication, Authentication, Acces
 
 # Make UI pages public or private
 
-You can make pages public if you want your [[users|users]] to see the pages without logging in.
+You can make pages public if you want your users to see the pages without logging in.
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Most pages are only viewable by logged in users. A limited number of pages are p
 
     By setting active to true, the page is public, so anyone visiting `<instance_name>/sp` or `<instance_name>/$sp.do` can access the page.
 
-## Related
 
-- [[users|Users]]

@@ -31,7 +31,7 @@ So the Sterling service can be accessed for integration, you must provide:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[scoped-hr-third-party-integrations|HR Integrations]]** &gt; **Sources**.
+1.  Navigate to **All** &gt; **HR Integrations** &gt; **Sources**.
 
 2.  Open the **Sterling Background Check** record.
 
@@ -79,6 +79,3 @@ Enables the debug log to display responses from the third-party system. Turn on 
 
 **Next topic:**[Verify integration for the Sterling service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/verify-base-integration-for-sterling.md)
 
-## Related
-
-- [[scoped-hr-third-party-integrations|HR Integrations]]

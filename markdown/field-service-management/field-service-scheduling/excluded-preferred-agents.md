@@ -22,7 +22,7 @@ Role required: wm\_dispatcher, wm\_manager, wm\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-scheduling|Dynamic Scheduling]] Administration** &gt; **Configuration**.
+1.  Navigate to **All** &gt; **Dynamic Scheduling Administration** &gt; **Configuration**.
 
 2.  Select **Work OrderTask Dynamic Scheduling Config**.
 
@@ -38,6 +38,3 @@ Role required: wm\_dispatcher, wm\_manager, wm\_admin
 
 [Set technician preferences for tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/assign-preferred-agents-tasks.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

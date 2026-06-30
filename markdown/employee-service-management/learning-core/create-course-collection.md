@@ -14,13 +14,13 @@ breadcrumb: [Managing course and catalog content, Learning Core, HR Service Deli
 
 # Create a content collection
 
-[[create-content-collection|Create a content collection]] in [[learning-core_overview|Learning Core]] to dynamically group [[exploring-learning-exp|learning]] content that includes multiple internal and external courses.
+Create a content collection in Learning Core to dynamically group learning content that includes multiple internal and external courses.
 
 ## Before you begin
 
 Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
-Every collection has to be a part of a course catalog. [[create-course-catalog|Create a course catalog]] before you can create a collection. For more information, see [Create a course catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
+Every collection has to be a part of a course catalog. Create a course catalog before you can create a collection. For more information, see [Create a course catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-course-catalog.md).
 
 ## Procedure
 
@@ -40,7 +40,7 @@ After you create a collection, add course items as groupings of courses that are
 -   **[Define user access to course within a collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/define-user-access-collection.md)**  
 Define user access to the collection to define who has read access to the collections.
 -   **[Add learning course sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-course-sections.md)**  
-[[add-learning-course-sections-lxp|Add learning course sections]] to collections.
+Add learning course sections to collections.
 
 **Parent Topic:**[Managing course and catalog content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/manage-ln-content.md)
 
@@ -63,10 +63,3 @@ Define user access to the collection to define who has read access to the collec
 
 [Add learning course sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-course-sections.md)
 
-## Related
-
-- [[create-content-collection|Create a content collection]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[create-course-catalog|Create a course catalog]]
-- [[add-learning-course-sections-lxp|Add learning course sections]]

@@ -124,7 +124,7 @@ Options
 
 </td><td>
 
-Enables you to control the view of the calender, customize [[settings-mobile|settings]], or set the configuration filters using the **Settings** tab and the **Configuration** tab. From the configuration filters you can select and display the **Assigned to**, **Assignment group**, **Configuration item**, or **Show all** options in the Related Changes section. This section has the same value of the option selected for the current change.
+Enables you to control the view of the calender, customize settings, or set the configuration filters using the **Settings** tab and the **Configuration** tab. From the configuration filters you can select and display the **Assigned to**, **Assignment group**, **Configuration item**, or **Show all** options in the Related Changes section. This section has the same value of the option selected for the current change.
 
 </td></tr><tr><td>
 
@@ -157,6 +157,3 @@ Prevent schedule conflicts by using the conflict calendar to manage your change 
 
 [Detect conflicts manually and review conflict details]()
 
-## Related
-
-- [[settings-mobile|Settings]]

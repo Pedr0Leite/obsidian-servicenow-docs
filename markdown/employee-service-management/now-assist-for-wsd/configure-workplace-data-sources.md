@@ -54,7 +54,7 @@ Application
 
 </td><td>
 
-By default, the application is set to AI Agents for [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+By default, the application is set to AI Agents for Workplace Service Delivery.
 
 </td></tr><tr><td>
 
@@ -124,6 +124,3 @@ For more information about the fields, see [Performance Analytics indicators](ht
 
 **Parent Topic:**[Insight cards on the Workplace Central dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/insight-cards-on-the-workplace-central-dashboard.md)
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

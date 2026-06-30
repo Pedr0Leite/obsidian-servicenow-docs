@@ -47,7 +47,7 @@ Actions
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**
+1.  Navigate to **All** &gt; **Employee Center**
 2.  Select **My Requests** from the header.
 
 
@@ -82,6 +82,3 @@ Actions
 
 **Parent Topic:**[Non-disclosure agreement requests]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

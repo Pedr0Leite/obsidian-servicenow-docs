@@ -14,7 +14,7 @@ breadcrumb: [Policy as Code Engine \(PaCE\), Extend ServiceNow AI Platform capab
 
 # Integrating PaCE with other applications
 
-Extend the capabilities of [[pace-managing-policies|Policy as Code Engine \(PaCE\)]] by creating policies with other applications.
+Extend the capabilities of Policy as Code Engine \(PaCE\) by creating policies with other applications.
 
 PaCE provides integrations with the applications listed in the following table:
 
@@ -47,7 +47,3 @@ See [Configuring the Deps.dev, OSV.dev, and PaCE integrations for Software Bill 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pace-managing-policies|Policy as Code Engine \(PaCE\)]]

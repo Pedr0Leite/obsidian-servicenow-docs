@@ -258,7 +258,7 @@ Number of seconds that the system waits for a successful host connection.
 
     1.  In the navigation filter, enter `sys_properties.list`
 
-        The entire list of properties in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table appears.
+        The entire list of properties in the System Properties \[sys\_properties\] table appears.
 
     2.  Select **New**.
 
@@ -282,6 +282,3 @@ The connection and credential alias record is configured to connect your Service
 
 **Parent Topic:**[Exporting your table records to Google Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/setup-gsheet-export.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -22,7 +22,7 @@ Role required: sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Administration** &gt; **[[supplier|Supplier]] document expiration monitoring attributes**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration** &gt; **Supplier document expiration monitoring attributes**.
 
     The Decision Builder opens and displays the Decision table to configure the grace period, lead time, and reminder frequency.
 
@@ -75,7 +75,3 @@ The number of days before the document expiry date when a document upload task i
 
 [Uploading supplier documents]()
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]

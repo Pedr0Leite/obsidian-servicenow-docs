@@ -15,7 +15,7 @@ breadcrumb: [Example Asset Refresh Virtual Agent conversation with notifications
 
 # Create the Asset Refresh topic in Virtual Agent Designer
 
-Create the topic in [[virtual-agent-landing-page|Virtual Agent]] Designer using topic blocks that come with the ITSM Virtual Agent Conversations plugin. When the user receives a notification that it's time to upgrade, they will be directed to this topic.
+Create the topic in Virtual Agent Designer using topic blocks that come with the ITSM Virtual Agent Conversations plugin. When the user receives a notification that it's time to upgrade, they will be directed to this topic.
 
 ## Before you begin
 
@@ -55,13 +55,13 @@ For more information about building topics and the Virtual Agent Designer interf
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the Topics page, select **Create**.
 
     \[Omitted image "vad-create-tile.png"\] Alt text: Virtual Agent Designer +Create tile on the landing page.
 
-3.  On the [[vad-topic-creation-form|Create a topic form]], set up your topic.
+3.  On the Create a topic form, set up your topic.
 
     1.  Enter a name, such as `Asset Refresh`.
 
@@ -101,7 +101,7 @@ For more information about building topics and the Virtual Agent Designer interf
 
     \[Omitted image "example-static-choice-continue.png"\] Alt text: Static choice properties for "Continue or Defer" node. It includes a user prompt and two choices: Learn more or Continue with upgrade.
 
-6.  Add a [[va-decision|Decision utility]] to handle the user's choice.
+6.  Add a Decision utility to handle the user's choice.
 
     1.  From the Components area, drag a Decision utility onto the canvas.
 
@@ -115,7 +115,7 @@ For more information about building topics and the Virtual Agent Designer interf
 
         \[Omitted image "continue-defer-decision-condition.png"\] Alt text: Use the condition builder to specify the Continue or Defer choice node and the corresponding user choice that this branch will follow, such as "Continue with upgrade."
 
-7.  For the upgrade branch, add a [[va-lookup|Lookup utility]] node to confirm that the user still has the asset.
+7.  For the upgrade branch, add a Lookup utility node to confirm that the user still has the asset.
 
     1.  From the Components area, drag a Lookup utility onto the canvas.
 
@@ -145,7 +145,7 @@ For more information about building topics and the Virtual Agent Designer interf
 
 9.  If the user still has the asset \(the Boolean response is **true**\), we want to search for it in the catalog.
 
-    1.  From the Components area, drag the [[va-topic-blocks|Topic Block utility]] onto the Asset Check **true** branch on the canvas.
+    1.  From the Components area, drag the Topic Block utility onto the Asset Check **true** branch on the canvas.
 
     2.  In the properties palette, select **Search Catalog Item** for the Topic block.
 
@@ -201,11 +201,3 @@ For more information about building topics and the Virtual Agent Designer interf
 
 [Maximizing code reuse with topic blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-blocks-overview.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[vad-topic-creation-form|Create a topic form]]
-- [[va-decision|Decision utility]]
-- [[va-lookup|Lookup utility]]
-- [[va-topic-blocks|Topic Block utility]]

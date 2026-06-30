@@ -15,7 +15,7 @@ breadcrumb: [Cloud discovery solutions comparison, Discovery for cloud environme
 
 # GCP discovery solutions comparison
 
-[[itom-visibility-landing-page|ITOM Visibility]] applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
+ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
 ## ITOM Visibility solutions
 
@@ -35,7 +35,7 @@ Configuration
 
 </th></tr></thead><tbody><tr><td>
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns and Visibility Content
+Discovery and Service Mapping Patterns and Visibility Content
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration
 </td><td>
 
 -   You must update your store apps to the latest release version.
--   You must provide ITOM Visibility with access permissions. For more information, see [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
+-   You must provide ITOM Visibility with access permissions. For more information, see [Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-gcp-service-accounts.md)
 
 </td></tr><tr><td>
 
@@ -213,9 +213,3 @@ If an entry is marked with two asterisks, the resource type is supported by Serv
 
 **Parent Topic:**[Cloud discovery solutions comparison](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cloud-discovery-methods-comparison.md)
 
-## Related
-
-- [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

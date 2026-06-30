@@ -29,7 +29,7 @@ Each of these sources may describe the same field value in several different for
 -   **Xeon L3350**
 -   **L3350**
 
-Without normalization, these variant field values [[hs-results|results]] in:
+Without normalization, these variant field values results in:
 
 -   Duplicate CPU types
 -   Poor search results
@@ -45,7 +45,7 @@ Each Normal value record specifies how to identify variations of a normal value 
 
     Aliases are known variations of an input value that normalization converts to the normal value. Use aliases when there is a short list of variant values.
 
-    For example, you could [[t_CreateNormalValues|create a normal value]] `Xeon` that has these aliases.
+    For example, you could create a normal value `Xeon` that has these aliases.
 
     -   **E3350 \(Intel\) 4.5.2234**
     -   **Intel Xeon 5.4.554**
@@ -83,7 +83,3 @@ Scripts that update or insert records into the database \(GlideRecord\) are norm
 
 [GlideRecord](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/p_GlideServerAPIs.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[t_CreateNormalValues|Create a normal value]]

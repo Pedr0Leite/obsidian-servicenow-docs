@@ -20,21 +20,21 @@ Use Client Role Assignment Rules to automatically assign or reassign a role to a
 
 Role required: sn\_hr\_core.admin
 
-A condition or set of multiple condition clauses based on the [[c_HRProfileRecords|HR profile]] \[sn\_hr\_core\_profile\] table are used to automate assigning roles.
+A condition or set of multiple condition clauses based on the HR profile \[sn\_hr\_core\_profile\] table are used to automate assigning roles.
 
-**Note:** Client role assignment rules are for access to the [[employee-center-landing-page|Employee Center]] only.
+**Note:** Client role assignment rules are for access to the Employee Center only.
 
 For example:
 
 -   A newly hired employee can be automatically assigned the new hire \[sn\_hr\_core.hrsm\_new\_hire\] role. This role provides limited access to the Employee Center or service portal.
--   The Update [[c_ClientRoles|Client Roles]] scheduled job runs and acknowledges the employee start date for the new hire has not been reached.
+-   The Update Client Roles scheduled job runs and acknowledges the employee start date for the new hire has not been reached.
 -   The Assign HR Roles business rule assigns the new hire role based on the conditions set on the client role assignment rules.
 
 To map conditions to a client role:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Manage Roles** &gt; **Client Role Assignment Rules**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Manage Roles** &gt; **Client Role Assignment Rules**.
 
 2.  Click **New** to create a client role rule or click an existing client role rule to edit.
 
@@ -108,9 +108,3 @@ Conditions the Assign HR Roles business rule uses to automatically assign a role
 
 **Parent Topic:**[Client roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ClientRoles.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[employee-center-landing-page|Employee Center]]
-- [[c_ClientRoles|Client roles]]
-- [[c_AdministerHRServiceManagement|HR Administration]]

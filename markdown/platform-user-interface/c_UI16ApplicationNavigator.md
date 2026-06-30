@@ -32,7 +32,7 @@ All applications
 
 </td><td>
 
-Displays all application menus and modules. Each application appears as a section in the application navigator denoted by an application label. The tab [[lists-configurable-workspace|lists]] modules by name under each application label.\[Omitted image "AllAppsNavigatorUI16.png"\] Alt text: All applications tab of the application navigator
+Displays all application menus and modules. Each application appears as a section in the application navigator denoted by an application label. The tab lists modules by name under each application label.\[Omitted image "AllAppsNavigatorUI16.png"\] Alt text: All applications tab of the application navigator
 
 </td></tr><tr><td>
 
@@ -51,19 +51,12 @@ History
 Displays items you have recently accessed.\[Omitted image "UI16YourHistory.png"\] Alt text: History tab of the application navigator
 
 </td></tr></tbody>
-</table>Enter text in the navigation filter to show matching applications, modules, and favorites. Matching favorites appear at the top of the results. You can also use the navigation filter to quickly access a specific table. For more information, see [[t_NavigateDirectlyToATable|Navigate directly to a table]].
+</table>Enter text in the navigation filter to show matching applications, modules, and favorites. Matching favorites appear at the top of the results. You can also use the navigation filter to quickly access a specific table. For more information, see [Navigate directly to a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_NavigateDirectlyToATable.md).
 
--   **[[ui16-navigator-tasks|Use the Core UI navigator]]**  
+-   **[Use the Core UI navigator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/ui16-navigator-tasks.md)**  
 Everyone can collapse and expand the navigator, work with favorites, and view navigation history in Core UI.
--   **[[t_ConfigureNumberOfHistoryEntries|Configure the number of history entries displayed in the application navigator]]**  
+-   **[Configure the number of history entries displayed in the application navigator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigureNumberOfHistoryEntries.md)**  
 A system property sets the maximum number of history entries displayed in the history tab of the application navigator.
 
-**Parent Topic:**[[c_UI16|Core UI]]
+**Parent Topic:**[Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UI16.md)
 
-## Related
-
-- [[t_NavigateDirectlyToATable|Navigate directly to a table]]
-- [[ui16-navigator-tasks|Use the Core UI navigator]]
-- [[t_ConfigureNumberOfHistoryEntries|Configure the number of history entries displayed in the application navigator]]
-- [[c_UI16|Core UI]]
-- [[lists-configurable-workspace|Lists]]

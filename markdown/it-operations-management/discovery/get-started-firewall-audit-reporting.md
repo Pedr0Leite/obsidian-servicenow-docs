@@ -14,7 +14,7 @@ breadcrumb: [Configuring Firewall Audits and Reporting, Firewall Audits and Repo
 
 # Get started with Firewall Audits and Reporting
 
-Prior to diving into [[firewall-audit-reporting|Firewall Audits and Reporting]] functionality, meet the necessary requirements by installing and activating the plugin, upgrading your instance, and obtaining the application from the ServiceNow Store.
+Prior to diving into Firewall Audits and Reporting functionality, meet the necessary requirements by installing and activating the plugin, upgrading your instance, and obtaining the application from the ServiceNow Store.
 
 ## Before you begin
 
@@ -28,8 +28,8 @@ Role required: admin
 
 1.  Ensure the following plugins are installed and activated.
 
-    -   [[itom-visibility-landing-page|ITOM Visibility]] \[com.snc.itom.vis.license\] plugin
-    -   [[r-discovery|Discovery]] \[com.snc.discovery\] plugin
+    -   ITOM Visibility \[com.snc.itom.vis.license\] plugin
+    -   Discovery \[com.snc.discovery\] plugin
     -   Configuration Management for Scoped Apps \(CMDB\) \[com.snc.cmdb.scoped\] plugin
 2.  Confirm that your system has been upgraded to Australia or a later version.
 
@@ -37,8 +37,4 @@ Role required: admin
 
 3.  Download the Firewall Audits and Reporting application from ServiceNow Store.
 
-## Related
 
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]

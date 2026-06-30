@@ -14,7 +14,7 @@ breadcrumb: [Configuring Proactive Prompts, Proactive Prompts, HR Service Delive
 
 # Add and configure the prompt widget
 
-Add and configure the prompt widget to access [[proactive-prompts-for-hrsd|Proactive Prompts]] on a portal.
+Add and configure the prompt widget to access Proactive Prompts on a portal.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ Role required: sn\_pp.admin
 
 7.  Select **Save**.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

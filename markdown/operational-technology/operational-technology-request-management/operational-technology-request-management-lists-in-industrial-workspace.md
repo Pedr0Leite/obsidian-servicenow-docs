@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Request Management, Operational Technol
 
 # Operational Technology Request Management lists in the Industrial Workspace
 
-You can view your [[operational-technology-overview|Operational Technology]] \(OT\) requests and catalog tasks in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] list view.
+You can view your Operational Technology \(OT\) requests and catalog tasks in the Industrial Workspace list view.
 
 ## OT requests
 
@@ -33,7 +33,3 @@ You can view your OT catalog tasks in the lists available under the **OT Tasks**
 
 **Parent Topic:**[Using Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/using-operational-technology-request-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

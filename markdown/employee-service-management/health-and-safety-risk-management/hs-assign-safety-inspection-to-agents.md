@@ -14,7 +14,7 @@ breadcrumb: [Safety inspections and audits, Use, Health and Safety Risk Manageme
 
 # Assign safety inspection to agents
 
-Multiple safety agents can be assigned to the same inspection record to enable a collaborative effort. While only one agent can be assigned at a time to a survey related to an inspection record, it allows clear ownership and maintains overall team coordination. This collaboration can be achieved from both [[employee-center-landing-page|Employee center]] and [[health-safety-core-workspace|Health and Safety Workspace]].
+Multiple safety agents can be assigned to the same inspection record to enable a collaborative effort. While only one agent can be assigned at a time to a survey related to an inspection record, it allows clear ownership and maintains overall team coordination. This collaboration can be achieved from both Employee center and Health and Safety Workspace.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager or sn\_hs\_rm.safety\_insp
 
 ## About this task
 
-The safety inspection quick link in the Employee center lists the safety inspections assigned to you or any of the assignment groups you’re a part of. This functionality is also available on the Mobile Agent app in [[offline-mode|offline mode]] provided all the inspection records are cached before going offline.
+The safety inspection quick link in the Employee center lists the safety inspections assigned to you or any of the assignment groups you’re a part of. This functionality is also available on the Mobile Agent app in offline mode provided all the inspection records are cached before going offline.
 
 ## Procedure
 
 1.  From Employee Center,
 
-    1.  Navigate to **[[health-safety-overview|Health and Safety]]** and select the **View safety inspections** quick link.
+    1.  Navigate to **Health and Safety** and select the **View safety inspections** quick link.
 
     2.  Select **Assign to me** for the required safety inspection record.
 
@@ -54,7 +54,7 @@ The safety inspection quick link in the Employee center lists the safety inspect
 
     1.  Tap **Home** in the navigation bar.
 
-    2.  Select **My inspections** from the [[emp-center-quick-link-config|quick links]] to open a list of inspections.
+    2.  Select **My inspections** from the quick links to open a list of inspections.
 
     3.  Select the inspection record and then select **Assign to me**.
 
@@ -69,10 +69,3 @@ The safety inspection record and the related survey are assigned to the safety a
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[offline-mode|Offline mode]]
-- [[health-safety-overview|Health and Safety]]
-- [[emp-center-quick-link-config|Quick links]]

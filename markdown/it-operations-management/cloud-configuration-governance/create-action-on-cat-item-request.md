@@ -24,7 +24,7 @@ The on Catalog item request start trigger fires after the user opens a request f
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -77,6 +77,3 @@ Create the script in the text box.See [Create a policy action script]() for deta
 
 **Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

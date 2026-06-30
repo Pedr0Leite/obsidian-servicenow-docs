@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management for Data Center and Network Asset Manag
 
 # Install Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)
 
-You can install the [[enterprise-asset-management|Enterprise Asset Management]] for DCNAM application \(com.sn\_eam\_dcnam\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Enterprise Asset Management for DCNAM application \(com.sn\_eam\_dcnam\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ For more information, see [Components installed with Enterprise Asset Management
 
 **Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-dcnam.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

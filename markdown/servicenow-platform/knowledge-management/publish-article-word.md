@@ -18,7 +18,7 @@ Use the Word Online application to publish a knowledge article originally create
 
 ## Before you begin
 
--   Ensure that the administrator has configured the [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
+-   Ensure that the administrator has configured the Knowledge Management - Add-in for Microsoft Word. \(For more information, see [Configure Knowledge Management - Add-in for Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-km-add-in-word.md).\)
 
 -   You must have logged in to your ServiceNow instance from the Word Online application. For more information, see [Log in to your ServiceNow instance for authoring knowledge articles in Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/authenticate-article-word.md).
 
@@ -53,9 +53,5 @@ A knowledge article is published depending on the workflow setting of its knowle
 
 For more information, see [Schedule a knowledge article for publishing in Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/schedule-article-publishing-word.md).
 
-If the [[article-versioning|article versioning]] feature is enabled, the version of the article is incremented based on the [version number pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-version-numbers.md).
+If the article versioning feature is enabled, the version of the article is incremented based on the [version number pattern](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-version-numbers.md).
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[article-versioning|Article versioning]]

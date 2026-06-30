@@ -14,7 +14,7 @@ breadcrumb: [Time Sheet Portal, Time Card management, Project Portfolio Manageme
 
 # Add columns to the logged time card list
 
-Add columns in the logged time card list on the [[worker-portal|Time Sheet Portal]] to show additional information that you might require to log your [[c_TimeCards|time cards]].
+Add columns in the logged time card list on the Time Sheet Portal to show additional information that you might require to log your time cards.
 
 ## Before you begin
 
@@ -89,7 +89,3 @@ The following sample code adds the **category** column of the Time Card \[time\_
 
 **Parent Topic:**[Time Sheet Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/worker-portal.md)
 
-## Related
-
-- [[worker-portal|Time Sheet Portal]]
-- [[c_TimeCards|Time cards]]

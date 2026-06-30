@@ -24,7 +24,7 @@ Role required: timecard\_approver or timecard\_admin
 
 1.  Log in to your instance using the Now Mobile application.
 
-2.  From the [[time-sheets|time sheets]] list in the Team approvals requests section, open the time sheet you want to recall or the one that contains the time card you want to recall.
+2.  From the time sheets list in the Team approvals requests section, open the time sheet you want to recall or the one that contains the time card you want to recall.
 
 3.  Recall the time sheet or time card.
 
@@ -34,6 +34,3 @@ Role required: timecard\_approver or timecard\_admin
 
 **Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/timesheet-mobile.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]

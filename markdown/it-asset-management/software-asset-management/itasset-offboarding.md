@@ -16,11 +16,11 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 Coordinate an employee's off-boarding process via a workflow that lets you request, assess, and remove assets.
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] off-boarding process entails the return of all software licenses assigned to the employee. Additionally, all software installations are removed from the devices, all user allocations are removed, and access to SSO, SAP, and Citrix products is revoked.
+The Software Asset Management off-boarding process entails the return of all software licenses assigned to the employee. Additionally, all software installations are removed from the devices, all user allocations are removed, and access to SSO, SAP, and Citrix products is revoked.
 
 When an employee leaves an organization or moves to a different role, retrieving the assets assigned to the employee necessitates extensive coordination between the Human Resources department and the asset manager. You can create an off-boarding catalog request, which initiates a prescriptive workflow to efficiently retrieve assets and restock them in the inventory, reassign them, send them for repair, or dispose as required.
 
-**Note:** For information on the [[ham-landing-page|Hardware Asset Management]] [[reclaim-asset|asset reclamation]] process, see [Asset reclamation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reclaim-asset.md).
+**Note:** For information on the Hardware Asset Management asset reclamation process, see [Asset reclamation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reclaim-asset.md).
 
 You can create an asset reclamation request via the Service Catalog. Once the request is created, reclamation line items are created that comprise of a series of tasks. These tasks can only be accessed and performed only by the sam\_user role. Once all the tasks are closed, the reclamation line item is complete. After all the reclamation line items are complete, the catalog request is also completed. For information on creating an off-boarding catalog request, see [Create a catalog request to reclaim assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-catalog-req-offboardingsam.md).
 
@@ -28,8 +28,3 @@ You can create an asset reclamation request via the Service Catalog. Once the re
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[reclaim-asset|Asset reclamation]]

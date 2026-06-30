@@ -13,7 +13,7 @@ breadcrumb: [Now Assist in Document Management, Manage content capabilities, Ext
 
 # Explore Now Assist in Document Management
 
-[[now-assist-document-management|Now Assist in Document Management]] uses generative AI to extract key insights from documents through seamless conversational interactions, reducing manual effort while improving accuracy and consistency.
+Now Assist in Document Management uses generative AI to extract key insights from documents through seamless conversational interactions, reducing manual effort while improving accuracy and consistency.
 
 ## Now Assist in Document Management overview
 
@@ -45,7 +45,7 @@ Generate instant summaries and key document insights
 
 </td><td>
 
-[[generate-document-summary-now-assist|Generate a document summary by using Now Assist in Document Management]]
+[Generate a document summary by using Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/generate-document-summary-now-assist.md)
 
 </td><td>
 
@@ -57,7 +57,7 @@ Extract key document insights through conversational interactions, powered using
 
 </td><td>
 
-[[ask-questions-faqs-now-assist|Generate summary and ask questions using Now Assist in Document Management]]
+[Generate summary and ask questions using Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ask-questions-faqs-now-assist.md)
 
 </td><td>
 
@@ -68,13 +68,6 @@ Admin
 
 To learn more about configuring and using Now Assist in Document Management, see:
 
--   [[configure-now-assist-document-management|Configure Now Assist in Document Management]]
--   [[use-now-assist-document-management|Use Now Assist in Document Management]]
+-   [Configure Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-now-assist-document-management.md)
+-   [Use Now Assist in Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/use-now-assist-document-management.md)
 
-## Related
-
-- [[generate-document-summary-now-assist|Generate a document summary by using Now Assist in Document Management]]
-- [[ask-questions-faqs-now-assist|Generate summary and ask questions using Now Assist in Document Management]]
-- [[configure-now-assist-document-management|Configure Now Assist in Document Management]]
-- [[use-now-assist-document-management|Use Now Assist in Document Management]]
-- [[now-assist-document-management|Now Assist in Document Management]]

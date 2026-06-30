@@ -14,7 +14,7 @@ breadcrumb: [Asset Management, IT Asset Management]
 
 # Exploring Asset Management Workspace
 
-The user interface of the [[am-landing-page|Asset Management]] application is enhanced to make it more user-friendly and intuitive, enabling you to manage your hardware installations better.
+The user interface of the Asset Management application is enhanced to make it more user-friendly and intuitive, enabling you to manage your hardware installations better.
 
 You can use the Asset Management new user interface, referred to as Asset Workspace, or continue using the classic Asset Management.
 
@@ -24,7 +24,7 @@ If you’re using the Asset Management application newly from the Vancouver rele
 
 **Note:**
 
-Asset Workspace is not installed by default. It is available starting in the San Diego release and is installed by default only on zBoot ServiceNow instances and not on the ServiceNow instances upgraded to the latest version. When the [[ham-landing-page|Hardware Asset Management]] application is activated, the [[using-ham-workspace|Hardware Asset Workspace]] replaces the Asset Workspace.
+Asset Workspace is not installed by default. It is available starting in the San Diego release and is installed by default only on zBoot ServiceNow instances and not on the ServiceNow instances upgraded to the latest version. When the Hardware Asset Management application is activated, the Hardware Asset Workspace replaces the Asset Workspace.
 
 ## Using the Asset Management Workspace
 
@@ -42,8 +42,3 @@ If you’re upgrading to the Vancouver release, you must activate the Asset Mana
 
 **Note:** After moving to Asset Management Workspace, you can still use the Asset Management classic. For more information, see [Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_AssetManagement.md).
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

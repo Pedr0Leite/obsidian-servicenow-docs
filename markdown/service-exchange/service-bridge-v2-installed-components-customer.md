@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Exchange]
 
 # Components installed with Service Exchange for Consumers
 
-Several types of components are installed with activation of the [[service-bridge-consumers-landing-page|Service Exchange for Consumers]] application including tables, user roles, and business rules.
+Several types of components are installed with activation of the Service Exchange for Consumers application including tables, user roles, and business rules.
 
 **Note:** The Application Files \[sys\_metadata\] table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -36,7 +36,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[tmt-service-bridge-both-landing-page|Service Exchange]] admin \[sn\_sb.admin\]
+Service Exchange admin \[sn\_sb.admin\]
 
 </td><td>
 
@@ -57,7 +57,7 @@ Service Exchange read \[sn\_sb.read\]
 
 </td><td>
 
-Provides read-only access to [[service-bridge-v2-provider-tasks|provider tasks]]
+Provides read-only access to provider tasks
 
 </td><td>
 
@@ -198,7 +198,7 @@ Clear Remote Task Client Data
 
 </td><td>
 
-Clears client data associated with [[service-bridge-v2-remote-task-overview|remote tasks]] after the transaction is completed.
+Clears client data associated with remote tasks after the transaction is completed.
 
 </td></tr><tr><td>
 
@@ -909,9 +909,3 @@ The following flow actions are installed with the Service Exchange for Consumers
 |Create Remote Task \[create\_remote\_task\]|Creates a remote task for a given parent and remote task definition.|
 |Repair RPS Provider Connection \[repair\_rps\_provider\_connection\]|Attempts to fix Remote Process Sync errors on Provider Connection.|
 
-## Related
-
-- [[service-bridge-consumers-landing-page|Service Exchange for Consumers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-provider-tasks|Provider tasks]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]

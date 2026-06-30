@@ -20,11 +20,11 @@ Enable the Cloud OS Image \[cmdb\_ci\_cloud\_os\_image\] table to store the clou
 ## Before you begin
 
 -   Ensure that the latest versions of the following applications are installed:
-    -   [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+    -   Discovery and Service Mapping Patterns
     -   CMDB CI Class Models
 -   Ensure that the application scope is the CMDB CI Class Models application.
 
-**Note:** [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] \(CPG\) doesn’t support the New Cloud Image \(cmdb\_ci\_cloud\_os\_image\) table. If you’re currently utilizing CPG Provisioning flows or have intentions to do so, don’t migrate to the new Image Model.
+**Note:** Cloud Provisioning and Governance \(CPG\) doesn’t support the New Cloud Image \(cmdb\_ci\_cloud\_os\_image\) table. If you’re currently utilizing CPG Provisioning flows or have intentions to do so, don’t migrate to the new Image Model.
 
 Role required: admin
 
@@ -58,8 +58,3 @@ Each cloud service provider offers OS images to launch a Compute/VM instance. Cl
 
 **Next topic:**[Discover datacenters only for new cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/discover-datacenter-only-new-account.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

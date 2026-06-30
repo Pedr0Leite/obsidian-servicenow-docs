@@ -16,7 +16,7 @@ breadcrumb: [Emergency Response Management, Employee Service Management]
 
 Notify users of important information about anticipated or occurring emergency situations. Send an outreach notification via email, mobile push message, or SMS message to request a user response. You can also configure other preferred communication channels.
 
-Emergency Outreach was developed with other ServiceNow® Emergency Response Management apps to monitor and aid in stopping the community spread of infectious diseases, such as COVID-19 among users. With the release of additional ServiceNow® [[safe-workplace|Safe Workplace]] suite apps, companies are able to manage an emergency situation from the outbreak through the reopening of the workplace.
+Emergency Outreach was developed with other ServiceNow® Emergency Response Management apps to monitor and aid in stopping the community spread of infectious diseases, such as COVID-19 among users. With the release of additional ServiceNow® Safe Workplace suite apps, companies are able to manage an emergency situation from the outbreak through the reopening of the workplace.
 
 Some of the Safe Workplace suite apps leverage the Emergency Outreach notification feature to communicate with users.
 
@@ -24,11 +24,11 @@ Some of the Safe Workplace suite apps leverage the Emergency Outreach notificati
 -   [Employee Health Screening](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/employee-health-screening.md) uses outreach notifications to request that users submit their health status verification each day before they can return to the workplace.
 -   [Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md) uses the following outreach notifications:
     -   An outreach notification to request that users in the workplace provide a list of users that they were in contact with throughout the day. The daily log notification can be scheduled and sent at a certain time every workday or as needed. Keeping daily logs enables contact tracers to follow up with impacted users when a user is affected.
-    -   An outreach notification to request that users review the organization's privacy policy and provide their consent to use their data for [[contact-tracing|contact tracing]].
+    -   An outreach notification to request that users review the organization's privacy policy and provide their consent to use their data for contact tracing.
 
     -   An outreach notification to potentially exposed contacts in an exposure case to notify them that they might have been potentially exposed to an affected user at the workplace.
 
-**Note:** Safe Workplace suite apps require a subscription. [[install-emergency-outreach|Install Emergency Outreach]] first, then install the Safe Workplace suite app.
+**Note:** Safe Workplace suite apps require a subscription. Install Emergency Outreach first, then install the Safe Workplace suite app.
 
 -   **Use guided setup to implement Safe Workplace suite apps**
 
@@ -103,7 +103,7 @@ You can install Emergency Outreach if you have the admin role.
 -   **[Configure Emergency Outreach notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/configure-emergency-outreach.md)**  
 A user with the admin role can add email notifications to use for any of the apps that communicate using Emergency Outreach. Each app provides a default email notification as an example to help with planning a new notification.
 -   **[Modify or add Employee Readiness Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/modify-emp-readiness-survey.md)**  
-Review the Employee workplace readiness survey that is installed with the [[employee-readiness-surveys|Employee Readiness Surveys]] app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
+Review the Employee workplace readiness survey that is installed with the Employee Readiness Surveys app. Modify the survey, or create one or more surveys to use based on the readiness concerns that you want to address and any legal obligations under applicable law, including data protection laws.
 -   **[Send notifications for an emergency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-eo-notification-outreach.md)**  
 Use Emergency Outreach to notify users to report their health status. Use Emergency Outreach also to quickly notify users of important information if there is an emergency.
 -   **[Review Emergency Outreach acknowledgements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/eo-review-outreach-acks.md)**  
@@ -115,20 +115,11 @@ Review the list of acknowledgements from the daily health verification notificat
 -   **[Send a readiness survey and view responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/send-eo-outreach-survey.md)**  
 Use Emergency Outreach to send a workplace readiness survey. Review the survey responses to assist with your plans to reopen your workplace.
 -   **[Report your health status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emp-check-in-emergency-outreach.md)**  
-If you receive an email, mobile push notification, or SMS notification to [[emp-check-in-emergency-outreach|report your health status]], you can update your status from the message.
+If you receive an email, mobile push notification, or SMS notification to report your health status, you can update your status from the message.
 -   **[Response scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/response-scripts.md)**  
-Use [[response-scripts|response scripts]] to automatically take actions based on user responses to survey questions. Response scripts can be used to create or update records across any of the Emergency Response Management and Safe Workplace suite apps.
+Use response scripts to automatically take actions based on user responses to survey questions. Response scripts can be used to create or update records across any of the Emergency Response Management and Safe Workplace suite apps.
 -   **[Domain separation for Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach-domain-separation.md)**  
 This application fully supports domain separation service provider \(SP\) use cases. The following table lists the domain separation use cases for service providers \(SPs\) using this application.
 
-**Parent Topic:**[[emergency-response-management|Emergency Response Management]]
+**Parent Topic:**[Emergency Response Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-response-management.md)
 
-## Related
-
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[contact-tracing|Contact Tracing]]
-- [[install-emergency-outreach|Install Emergency Outreach]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[emp-check-in-emergency-outreach|Report your health status]]
-- [[response-scripts|Response scripts]]

@@ -15,7 +15,7 @@ breadcrumb: [Managing Hermes settings, Administer, Hermes Messaging Service, Man
 
 # Manage a background job in Hermes Messaging Service
 
-Manage background jobs in [[hermes-messaging-service|Hermes Messaging Service]] to control when and how often scheduled tasks run. You can make a job inactive, re-enable it, or adjust its interval from the [[c-hermes-settings|Hermes Settings page]].
+Manage background jobs in Hermes Messaging Service to control when and how often scheduled tasks run. You can make a job inactive, re-enable it, or adjust its interval from the Hermes Settings page.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: maint or hermes\_admin
 
 ## About this task
 
-For a list of [[hermes-settings-background-jobs|Hermes background jobs]] and their default frequencies, see [Hermes background jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-settings-background-jobs.md).
+For a list of Hermes background jobs and their default frequencies, see [Hermes background jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-settings-background-jobs.md).
 
 ## Procedure
 
@@ -79,8 +79,3 @@ Update the **Days**, **Hours**, and **Minutes** fields in the **Repeat** row.For
 
 **Parent Topic:**[Managing Hermes settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/manage-hermes-settings.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c-hermes-settings|Hermes Settings page]]
-- [[hermes-settings-background-jobs|Hermes background jobs]]

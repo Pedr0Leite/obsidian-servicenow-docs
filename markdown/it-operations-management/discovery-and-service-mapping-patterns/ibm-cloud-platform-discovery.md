@@ -14,7 +14,7 @@ breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM
 
 # IBM Cloud Platform discovery
 
-The ServiceNow [[r-discovery|Discovery]] application finds IBM Cloud Platform components \(Softlayer API v3 and v3.1 and Bluemix API v2\) using the IBM Cloud Platform patterns. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application finds IBM Cloud Platform components \(Softlayer API v3 and v3.1 and Bluemix API v2\) using the IBM Cloud Platform patterns. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 You can use the patterns on the ServiceNow AI Platform using London Patch 7, Madrid Patch 2, or later releases.
 
@@ -52,7 +52,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
     Use the credentials defined in the preceding procedure to create the IBM cloud service account.
 
 
-1.  Navigate to **[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]** &gt; **Service Accounts**.
+1.  Navigate to **Cloud Provisioning and Governance** &gt; **Service Accounts**.
 2.  Click **New**.
 3.  On the form, fill in the fields:
 
@@ -67,9 +67,9 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Create a Discovery schedule**
 
-    To configure a Discovery schedule through [[discovery-admin-workspace|Discovery Admin Workspace]], see [Create an IBM Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-ibm-schedule-DAW.md).
+    To configure a Discovery schedule through Discovery Admin Workspace, see [Create an IBM Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-ibm-schedule-DAW.md).
 
-    To configure a [[serverless-discovery|serverless Discovery]] schedule:
+    To configure a serverless Discovery schedule:
 
     1.  On the ServiceNow AI Platform, navigate to **Discovery** &gt; **Discovery Schedules**.
     2.  Click **New**.
@@ -320,7 +320,7 @@ Option for enabling this schedule for Discovery. Select this check box to enable
     
     ```
 
-    Use the following EVAL function to filter all the spaces by [[c_Storage|storage discovery]].
+    Use the following EVAL function to filter all the spaces by storage discovery.
 
     ```
     var storage_response = ${storage_response};
@@ -2489,11 +2489,3 @@ By default, the **sa.debugger.max\_timeout**parameter is set to 240 seconds.Incr
 </td></tr></tbody>
 </table>**Parent Topic:**[Available cloud discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns-cloud.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[c_Storage|Storage discovery]]

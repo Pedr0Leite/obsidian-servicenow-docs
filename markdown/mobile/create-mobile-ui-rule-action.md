@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile UI** &gt; **[[mobile-ui-rules|Mobile UI Rules]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile UI** &gt; **Mobile UI Rules**.
 
 2.  Open the mobile UI rule where you want to add actions.
 
@@ -60,7 +60,7 @@ Target
 
 </td><td>
 
-The element affected by the action. The actions available to select depend on the parent selected in your mobile UI rule.-   For input form screens, the targets are [[parameter-input-screen|input form screen]] inputs
+The element affected by the action. The actions available to select depend on the parent selected in your mobile UI rule.-   For input form screens, the targets are input form screen inputs
 -   For mobile views, targets are elements from the mobile card template JSON.
 
 
@@ -172,11 +172,11 @@ Use this value to set a background color, font color, and text decorator icon. T
 }
 ```
 
- You can also use color variables to change theming in your mobile UI rules. For details see [[color-var-ui-rule|Color variable support for UI rules]].
+ You can also use color variables to change theming in your mobile UI rules. For details see [Color variable support for UI rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/color-var-ui-rule.md).
 
  **Note:**
 
--   `IconCode` must be replaced with a valid icon code. For a list of icon codes, see [[sg-mobile-icon|Mobile icons]]
+-   `IconCode` must be replaced with a valid icon code. For a list of icon codes, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md)
 -   Use a JSON validator when copying and pasting JSON code from a topic, to make sure all code is correctly applied.
 
 
@@ -279,10 +279,3 @@ In the **Target Mapping** field, enter the string input field that the generated
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[color-var-ui-rule|Color variable support for UI rules]]
-- [[sg-mobile-icon|Mobile icons]]
-- [[mobile-ui-rules|Mobile UI Rules]]
-- [[parameter-input-screen|Input form screen]]

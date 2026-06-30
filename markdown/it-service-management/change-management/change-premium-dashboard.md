@@ -18,7 +18,7 @@ This dashboard uses Workbench widgets and other advanced Platform Analytics feat
 
 **Important:**
 
-Starting in Xanadu release, the Change premium dashboard is deprecated. Users can use [[change|Change dashboard]] to view the information about the Change process in one place.
+Starting in Xanadu release, the Change premium dashboard is deprecated. Users can use [Change dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change.md) to view the information about the Change process in one place.
 
 \[Omitted image "change-mgmt-premium.gif"\] Alt text: Animated tour of the tabs of the Change Premium dashboard
 
@@ -116,6 +116,3 @@ The following indicators are not displayed on the dashboard but are used in form
 
 **Parent Topic:**[Legacy: Change Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-content-pack.md)
 
-## Related
-
-- [[change|Change dashboard]]

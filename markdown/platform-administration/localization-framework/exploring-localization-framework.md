@@ -14,7 +14,7 @@ breadcrumb: [Localization Framework, Translation and localization, Configure cor
 
 # Explore Localization Framework
 
-Learn more about the [[localization-framework-landing|Localization Framework]] app that enables a systematic [[ia-localization-il|localization]] process, so you can provide a seamless user experience in multiple languages.
+Learn more about the Localization Framework app that enables a systematic localization process, so you can provide a seamless user experience in multiple languages.
 
 ## Localization Framework overview
 
@@ -42,7 +42,7 @@ Localization Framework extends its framework capabilities to certain artifacts a
 -   **[Localization Framework support for Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-catalog-items.md)**  
 Localization Framework enables translation of Service Catalog items when a catalog item is requested for translation into a language and a localization requested item \(LRITM\) is created.
 -   **[Virtual Agent Designer integration with Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/va-designer-lf-integration.md)**  
-The integration of Virtual Agent Designer with Localization Framework enables you to translate Virtual Agent topics using the [[translation-modes|translation modes]] supported by Localization Framework with or without a localization task.
+The integration of Virtual Agent Designer with Localization Framework enables you to translate Virtual Agent topics using the translation modes supported by Localization Framework with or without a localization task.
 -   **[Localization Framework support for Natural Language Understanding models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-nlu.md)**  
 Localization Framework integrates with NLU Workbench to translate the Natural Language Understanding models along with their associated intents, utterances, and entities into multiple languages.
 -   **[Localization Framework support for Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf-support-for-surveys.md)**  
@@ -54,15 +54,9 @@ Localization Framework enables the translation of emails \(notification, templat
 -   **[Localization Framework support for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/lf_support-for-hr.md)**  
 Localization Framework extends its framework capabilities to Document Templates and Document Template Block Contents in HR Service Delivery.
 -   **[Localization Framework Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/roles-localization-framework.md)**  
-Localization Framework uses different roles to manage different aspects of the application. The roles from Localization Framework are also used in [[localization-workspace|Localization Workspace]].
+Localization Framework uses different roles to manage different aspects of the application. The roles from Localization Framework are also used in Localization Workspace.
 -   **[Workflows in the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/workflow-localization-framework.md)**  
 Workflows in the Settings table define the process for a localization task, including steps for approval and methods for translating and publishing.
 
 **Parent Topic:**[ServiceNow AI Platform translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[translation-modes|Translation modes]]
-- [[localization-workspace|Localization Workspace]]

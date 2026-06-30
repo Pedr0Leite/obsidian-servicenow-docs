@@ -18,12 +18,12 @@ Use these defined steps to learn how you can use the automated flows in TISC and
 
 Create flows that run with TISC roles. In TISC the flows are created for the following:
 
--   [[tisc-ioc-enrichment|Automated IOC Enrichment]]
+-   Automated IOC Enrichment
 -   Analyze, assess and disseminate on the IoC’s related to threat
 -   Analyze, assess the IoC’s related to the threat and create incident.
--   [[tisc-vul-mgmt|Vulnerability Management Support]].
--   [[tisc-zero-vul|Zero-day vulnerability tracking]].
--   [[tisc-threat-actor-priority-tagging|Automatic Threat Actor priority tagging]].
+-   Vulnerability Management Support.
+-   Zero-day vulnerability tracking.
+-   Automatic Threat Actor priority tagging.
 
 **Note:** All the flows are templates which are shipped in draft state for the users to customize or copy according to their own needs.
 
@@ -41,11 +41,11 @@ Learn how to automate enrichment of IOC’s using flows when they match a certai
 -   **[Automated sharing of high-risk IOC's with trusted partners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-automated-sharing-flow.md)**  
 Learn how to automate sharing of high-risk IOC's with trusted partners.
 -   **[Automatically add threat intelligence to a TAXII collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-taxii-automated-flow.md)**  
-Learn how to automatically add [[threat-intel-landing-page|threat intelligence]] to a TAXII server collection.
+Learn how to automatically add threat intelligence to a TAXII server collection.
 -   **[Create vulnerability assessment for zero day](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-vul-assess.md)**  
-Create a vulnerability assessment to evaluate and document security risks from zero day [[vulnerabilities|vulnerabilities]] in your environment. Use this when you want to assess the potential impact of newly discovered vulnerabilities that lack available patches.
+Create a vulnerability assessment to evaluate and document security risks from zero day vulnerabilities in your environment. Use this when you want to assess the potential impact of newly discovered vulnerabilities that lack available patches.
 -   **[Analyze, assess, and disseminate observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-disseminate-observables.md)**  
-Learn how to analyze and disseminate [[c_Observables|observables]] which are related to threat.
+Learn how to analyze and disseminate observables which are related to threat.
 -   **[Analyze and assess threat IoC’s](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-analyze-ioc.md)**  
 Learn how to analyze an IOC’s which are a threat and notifying the security incident team.
 -   **[Vulnerability Management Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-mgmt.md)**  
@@ -53,18 +53,7 @@ Learn how a new vulnerability is created in TISC with a related vulnerability in
 -   **[Zero-day vulnerability tracking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-zero-vul.md)**  
 Learn how to analyze RSS Feeds coming into the system.
 -   **[Automatic Threat Actor priority tagging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-actor-priority-tagging.md)**  
-Learn how to enable automatic tagging of [[threat-actors|Threat Actors]] based on their origin [[threat-intelligence-locations|locations]].
+Learn how to enable automatic tagging of Threat Actors based on their origin locations.
 -   **[Automated flows tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-flows-tables.md)**  
 The following tables helps you to understand the relationship tables between entities and enrichment tables that are used in automated flows.
 
-## Related
-
-- [[tisc-ioc-enrichment|Automated IOC Enrichment]]
-- [[tisc-vul-mgmt|Vulnerability Management Support]]
-- [[tisc-zero-vul|Zero-day vulnerability tracking]]
-- [[tisc-threat-actor-priority-tagging|Automatic Threat Actor priority tagging]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[c_Observables|Observables]]
-- [[threat-actors|Threat actors]]
-- [[threat-intelligence-locations|Locations]]

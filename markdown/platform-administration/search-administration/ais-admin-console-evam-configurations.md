@@ -15,7 +15,7 @@ breadcrumb: [Customizing the result-card, Using AI Search Admin console, AI Sear
 
 # Create or edit an EVAM view definition
 
-Create or edit an Entity View Action Mapper \(EVAM\) view definition in the [[ais-admin-console|AI Search Admin console]] to customize how your [[ia-ai-search|AI Search]] [[hs-results|results]] appear in the portal or workspace.
+Create or edit an Entity View Action Mapper \(EVAM\) view definition in the AI Search Admin console to customize how your AI Search results appear in the portal or workspace.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ An EVAM is a data source type tool that helps standardize how data appears in li
 
 1.  Navigate to **All** &gt; **AI Search Admin** &gt; **AI Search Admin Home**.
 
-2.  On the **Applications** tab, select the application card that you want to create or edit the EVAM [[clone-configurations-tab|configurations]] for.
+2.  On the **Applications** tab, select the application card that you want to create or edit the EVAM configurations for.
 
 3.  In the left pane, select **Result-card Interface**.
 
@@ -128,9 +128,3 @@ After creating a view configuration, you must activate it. For more information,
 
 **Parent Topic:**[Customizing the result-card interface of an AI Search application by using EVAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-managing-evam.md)
 
-## Related
-
-- [[ais-admin-console|AI Search Admin console]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

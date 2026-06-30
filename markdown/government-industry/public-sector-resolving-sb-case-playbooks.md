@@ -14,7 +14,7 @@ breadcrumb: [Using Social Benefits Playbook, Playbooks, Use, Public Sector Digit
 
 You can use playbooks to create cases and to complete the tasks and activities that are needed to resolve specific types of cases.
 
-**Note:** Verify that the Social Benefits Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [[configuring-social-benefit-playbook|Install and configure the Social Benefits Playbook application]].
+**Note:** Verify that the Social Benefits Playbook application, which is separate from the Public Sector Digital Services Core application, has been installed and configured. For instructions, see [Install and configure the Social Benefits Playbook application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configuring-social-benefit-playbook.md).
 
 By default, the following stages are available to you as a government service agent in the Social Benefits Playbook in the CSM Configurable Workspace.
 
@@ -29,7 +29,7 @@ The Social Benefits Playbook experience starts with the **Intake** stage. This s
 
 Use this playbook stage to gather and confirm information about the applicant, the social benefit program being applied for, and whether the applicant is eligible for this type of social benefit program. You can also request additional information from the applicant at this stage, upload additional documents, add additional beneficiaries, and schedule a interview, if needed.
 
-If the case was submitted by a constituent through the [[gsp-overview-public-sector|Government Service Portal]], the constituent will be able to upload documents, review proposed benefits, and respond to interview requests before the case continues. At the end of the Intake stage, agents must review and verify the information provided before proceeding.
+If the case was submitted by a constituent through the Government Service Portal, the constituent will be able to upload documents, review proposed benefits, and respond to interview requests before the case continues. At the end of the Intake stage, agents must review and verify the information provided before proceeding.
 
 The playbook continues with the **Review** stage. In this stage, agents must review and verify the information provided, verify supporting documents and credentials \(and flag any for follow-up\), check for duplicate requests, and set up any interviews needed for social benefit program approval. You can move the case to the next stage when all documents have been verified and there are no pending case tasks.
 
@@ -216,7 +216,4 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
     A notification is sent to the applicant that lets them know that the request is completed.
 
-## Related
 
-- [[configuring-social-benefit-playbook|Install and configure the Social Benefits Playbook application]]
-- [[gsp-overview-public-sector|Government Service Portal]]

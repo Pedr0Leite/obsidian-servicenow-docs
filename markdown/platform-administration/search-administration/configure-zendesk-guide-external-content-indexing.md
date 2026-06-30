@@ -15,7 +15,7 @@ breadcrumb: [Zendesk Guide external content connector, Configure, External Conte
 
 # Configure Zendesk for external content indexing
 
-Create an API token in Zendesk [[admin-center-intro|Admin Center]] to allow the [[zendesk-guide-external-content-connector|Zendesk Guide external content connector]] to access your Zendesk source system.
+Create an API token in Zendesk Admin Center to allow the Zendesk Guide external content connector to access your Zendesk source system.
 
 ## Before you begin
 
@@ -140,7 +140,3 @@ For details on creating and configuring a Zendesk Guide external content connect
 
 **Parent Topic:**[Zendesk Guide external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zendesk-guide-external-content-connector.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[zendesk-guide-external-content-connector|Zendesk Guide external content connector]]

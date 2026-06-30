@@ -14,7 +14,7 @@ breadcrumb: [Plan sprints, Agile in CWM, Use, Collaborative Work Management, Str
 
 # Generate acceptance criteria for stories in CWM
 
-Create clear, comprehensive, and testable acceptance criteria for user stories without writing them manually in [[cwm-landing|Collaborative Work Management]] \(CWM\). Review and refine suggested options to ensure they meet your requirements.
+Create clear, comprehensive, and testable acceptance criteria for user stories without writing them manually in Collaborative Work Management \(CWM\). Review and refine suggested options to ensure they meet your requirements.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: sn\_cwm\_ai.cwm\_ai\_user
 
 **Parent Topic:**[Sprint planning in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-sprint-planning-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

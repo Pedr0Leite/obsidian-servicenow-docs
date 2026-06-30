@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Control whether a user can perform raw SQL queries on the database.
 
-The **glide.db.allow\_unsafe\_dbi\_execute\_sql** property enables [[users|users]] to perform raw SQL queries on the database, which can give access to tables and data outside of GlideRecord restrictions. If this property is not set to the recommended value of **false**, this allows for the calling of **dbi.executeStatement\(\)** from a Glide Scriptable which can lead to malicious SQL statements being executed.
+The **glide.db.allow\_unsafe\_dbi\_execute\_sql** property enables users to perform raw SQL queries on the database, which can give access to tables and data outside of GlideRecord restrictions. If this property is not set to the recommended value of **false**, this allows for the calling of **dbi.executeStatement\(\)** from a Glide Scriptable which can lead to malicious SQL statements being executed.
 
 **Warning:** This property is both safe and no db override.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -107,8 +107,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

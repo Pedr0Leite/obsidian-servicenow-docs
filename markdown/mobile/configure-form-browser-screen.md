@@ -20,15 +20,15 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  Select the **Screens** category, and then select the [[form-screen|record screen]] to which you want to add an embedded web browser.
+3.  Select the **Screens** category, and then select the record screen to which you want to add an embedded web browser.
 
 4.  In the record screen form, scroll down to the **Record screen segments** area, and then select **New**.
 
@@ -36,20 +36,12 @@ Role required: admin
 
 6.  In the record screen segment form, scroll down to the **Embedded screen** area, and then select **New**.
 
-7.  In the **[[sg-studio-configure-applet-screens|Create a screen]]** dialog box, select **Mobile web**, and then select **Continue**.
+7.  In the **Create a screen** dialog box, select **Mobile web**, and then select **Continue**.
 
-8.  Complete the [[url-screen|mobile web screen]] form by using the instructions in [[sg-configure-url-screen|Configure a mobile web screen]].
+8.  Complete the mobile web screen form by using the instructions in [Configure a mobile web screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-url-screen.md).
 
 
 ## Result
 
 Your record screen is configured with an embedded browser. Your users can access this screen on the form by tapping the tab with the name of this screen.
 
-## Related
-
-- [[sg-configure-url-screen|Configure a mobile web screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[form-screen|Record screen]]
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[url-screen|Mobile web screen]]

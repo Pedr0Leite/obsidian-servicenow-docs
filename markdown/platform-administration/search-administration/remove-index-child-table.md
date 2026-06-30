@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Remove the text index for a child table
 
-You can remove the text index for a child table if you no longer want the search engine to return [[hs-results|results]] for that child table.
+You can remove the text index for a child table if you no longer want the search engine to return results for that child table.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ The system no longer indexes or queries the child table for text search results.
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]

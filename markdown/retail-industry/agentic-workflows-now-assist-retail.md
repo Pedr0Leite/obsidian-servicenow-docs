@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Retail Service Management \(RSM\), Retail]
 
 # Use Now Assist for Retail Service Management \(RSM\)
 
-Use store inquiry Al agent to improve and enhance the store inquiry processes in [[rahi-retail-operations-overview|Retail]] Service Management\(RSM\).
+Use store inquiry Al agent to improve and enhance the store inquiry processes in Retail Service Management\(RSM\).
 
 |AI agent capabilities|Description|
 |---------------------|-----------|
@@ -22,7 +22,7 @@ Use store inquiry Al agent to improve and enhance the store inquiry processes in
 |Learning from resolved cases|Continuously improves by indexing newly resolved inquiries, which expands its ability to respond to similar future cases|
 |Update case information|Enables the HQ agent to accept, edit, or reject the suggested resolution, and automatically updates the case resolution notes and status for accepted or edited responses, or add work notes for rejected ones|
 
-This workflow begins when a store associate or manager creates a [[rahi-retail-retail-store-services|store inquiry case]], a new the case gets created. The case gets assigned to an HQ agent. The HQ agent can then leverage the Now Assist agent to automate parsing of store questions, intelligently search the KB articles and past cases, and the documents attached to the KB articles, and draft responses with policy references. It prompts the HQ agent to select preferred options like Accept, Edit, or Reject solution.
+This workflow begins when a store associate or manager creates a store inquiry case, a new the case gets created. The case gets assigned to an HQ agent. The HQ agent can then leverage the Now Assist agent to automate parsing of store questions, intelligently search the KB articles and past cases, and the documents attached to the KB articles, and draft responses with policy references. It prompts the HQ agent to select preferred options like Accept, Edit, or Reject solution.
 
 The HQ agent can select the below options:
 
@@ -47,7 +47,3 @@ Configure and manage these ACLs for agentic workflows and AI agents in the AI Ag
 
 See [Implement access control in Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md) for more information.
 
-## Related
-
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]

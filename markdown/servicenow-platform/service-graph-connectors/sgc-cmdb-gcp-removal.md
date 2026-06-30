@@ -14,7 +14,7 @@ breadcrumb: [Reference, GCP, Service Graph Connectors, Integrating third-party d
 
 # Record removal process in Service Graph Connector for GCP
 
-The [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]] uses soft deletion and hard deletion to manage the removal of records.
+The Service Graph Connector for GCP uses soft deletion and hard deletion to manage the removal of records.
 
 Record removal is the process of handling data that is no longer needed. For any discovered resources that are deleted later after pulling data, the Service Graph Connector for GCP automatically updates the **Install Status** field of the associated CMDB CI classes to indicate any retired or deleted records.
 
@@ -23,7 +23,7 @@ Record removal is the process of handling data that is no longer needed. For any
 
 ## Soft deletion
 
-Soft deletion involves marking the install status of a record as **retired** rather than permanently deleting it from the system. The record remains in the database, making it possible to [[reference|reference]] or restore it later.
+Soft deletion involves marking the install status of a record as **retired** rather than permanently deleting it from the system. The record remains in the database, making it possible to reference or restore it later.
 
 Integration Commons Record Removal is implemented from Service Graph Connector for GCP version 1.11.0 to mark the Install Status and Operational Status of configuration items \(CIs\) as retired if they aren't discovered during the latest pull​. This implementation verifies the Last Scan attribute of the CIs in the Source \[sys\_object\_source\] table to identify CIs that aren't discovered during the latest pull​. Additionally, the source native keys \(SNKs\) for all CIs are modified to include the connection alias ID to identify the connection that discovered specific CIs.
 
@@ -75,7 +75,3 @@ Hard deletion involves permanently deleting a record from the system. The record
 
 [Service Graph Connector for GCP properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-gcp-props.md)
 
-## Related
-
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
-- [[reference|Reference]]

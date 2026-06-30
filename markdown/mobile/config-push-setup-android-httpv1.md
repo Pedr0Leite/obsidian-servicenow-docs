@@ -12,13 +12,13 @@ breadcrumb: [Push notifications, Before implementation, Configuration detail, Co
 
 # Configure push applications for Android branded apps using HTTP v1
 
-Enter your Google Firebase Cloud Messaging push token authentication in your push application record to use [[sg-mobile-security-push-notif|push notifications]] on your branded ServiceNow mobile apps for Google Android.
+Enter your Google Firebase Cloud Messaging push token authentication in your push application record to use push notifications on your branded ServiceNow mobile apps for Google Android.
 
 ## Before you begin
 
 To use push notifications on your branded ServiceNow mobile apps for Android, you must enter your Google Firebase Cloud Messaging HTTP v1 API in your push application record. For information about generating the service account JSON in your Firebase console, see ServiceNow knowledge base article [KB1639289](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1639289). You must be logged in to your ServiceNow support account to access this information.
 
-**Note:** These steps are only necessary if you're using a custom branded mobile app. For more detail on custom branding, see [[request-test-pub-branded-mob-app|Request, test, and publish a branded mobile app]].
+**Note:** These steps are only necessary if you're using a custom branded mobile app. For more detail on custom branding, see [Request, test, and publish a branded mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/request-test-pub-branded-mob-app.md).
 
 Role required: admin
 
@@ -28,8 +28,8 @@ Role required: admin
 
 2.  Open the record for the push application you want to modify.
 
-    -   Open **ServiceNow Mobile Application** for the [[mobile-experience|Mobile Agent app]].
-    -   Open **ServiceNow Request Application** for the [[now-mobile-app|Now Mobile app]].
+    -   Open **ServiceNow Mobile Application** for the Mobile Agent app.
+    -   Open **ServiceNow Request Application** for the Now Mobile app.
     If you are using a branded mobile application, select the record for the branded app. For example, select **ServiceNow Intune Mobile Application** if you are using the Microsoft Intune branded application.
 
 3.  In the **Push** field, change the value to **Direct**.
@@ -41,12 +41,5 @@ Role required: admin
 6.  Select **Submit**.
 
 
-**Parent Topic:**[[sg-mobile-push-notifications|Mobile push notifications]]
+**Parent Topic:**[Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md)
 
-## Related
-
-- [[request-test-pub-branded-mob-app|Request, test, and publish a branded mobile app]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

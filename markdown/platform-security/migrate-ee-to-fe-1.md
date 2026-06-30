@@ -12,7 +12,7 @@ breadcrumb: [Migrate from Edge Encryption to Field Encryption, Configuring Field
 
 # Configure Field Encryption for your Edge Encrypted fields
 
-Before migrating your existing edge encrypted fields to [[field-encryption|Field Encryption]], you must configure field encryption for these fields.
+Before migrating your existing edge encrypted fields to Field Encryption, you must configure field encryption for these fields.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ This process assumes you have existing edge encrypted fields that you want to mi
 
 7.  In the **Generate Key** field, select the **Generate Key** link to generate a key.
 
-8.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Encrypted Field [[sc-configuration|Configuration]]**.
+8.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Encrypted Field Configuration**.
 
 9.  In the encrypted field configuration list, select **New**.
 
@@ -59,11 +59,11 @@ This process assumes you have existing edge encrypted fields that you want to mi
     |Method|Select `Single Module`|
     |Column|Select the column \(field\) on the table that you want to be encrypted.|
 
-    **Note:** The data to encrypt is determined by the Table and Column fields. These fields should be the table and column \(field\) where you’re currently using [[edge-encryption|Edge Encryption]].
+    **Note:** The data to encrypt is determined by the Table and Column fields. These fields should be the table and column \(field\) where you’re currently using Edge Encryption.
 
 11. Select **Submit**.
 
-12. Navigate to **All** &gt; **Key Management** &gt; **Module Access [[ca-policies|Policies]]** &gt; **All**.
+12. Navigate to **All** &gt; **Key Management** &gt; **Module Access Policies** &gt; **All**.
 
 13. Select **New**.
 
@@ -83,20 +83,12 @@ This process assumes you have existing edge encrypted fields that you want to mi
 
     For example, to access the User \[sys\_user\] table, enter `sys_user.list` into the navigation filter.
 
-    The field you have selected for [[encryption-landing|encryption]] in the previous steps now has a lock icon next to the field label.
+    The field you have selected for encryption in the previous steps now has a lock icon next to the field label.
 
 
 ## Result
 
 You edge encrypted field is ready to be migrated to field encryption. To configure more fields, repeat the preceding steps for each of those fields.
 
-**Parent Topic:**[[migrate-ee-to-fe|Migrate from Edge Encryption to Field Encryption]]
+**Parent Topic:**[Migrate from Edge Encryption to Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/migrate-ee-to-fe.md)
 
-## Related
-
-- [[migrate-ee-to-fe|Migrate from Edge Encryption to Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[edge-encryption|Edge Encryption]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]

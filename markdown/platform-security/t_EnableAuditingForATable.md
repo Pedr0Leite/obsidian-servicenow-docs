@@ -12,7 +12,7 @@ breadcrumb: [Auditing]
 
 # Configuring auditing for a table
 
-You can enable table [[c_AuditedTables|auditing]] to track changes to all or some of the table's fields.
+You can enable table auditing to track changes to all or some of the table's fields.
 
 ## Before you begin
 
@@ -41,10 +41,5 @@ Role required: admin.
 
 ## What to do next
 
-If you want to audit only a few fields in the table [[enable-whitelist-for-table|Enable inclusion list auditing for a table]]. If you want to audit most – but exclude some – fields, see [[t_ExcludeAFieldFromBeingAudited|Exclude a field from being audited \(exclusion listing\)]].
+If you want to audit only a few fields in the table [Enable inclusion list auditing for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/enable-whitelist-for-table.md). If you want to audit most – but exclude some – fields, see [Exclude a field from being audited \(exclusion listing\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ExcludeAFieldFromBeingAudited.md).
 
-## Related
-
-- [[enable-whitelist-for-table|Enable inclusion list auditing for a table]]
-- [[t_ExcludeAFieldFromBeingAudited|Exclude a field from being audited \(exclusion listing\)]]
-- [[c_AuditedTables|Auditing]]

@@ -14,7 +14,7 @@ breadcrumb: [Workflow editor keyboard navigation, Workflow editor, Classic Workf
 
 # Welcome page keyboard commands
 
-Use keyboard commands to navigate and operate the [[workflow-editor|Workflow Editor]] Welcome page.
+Use keyboard commands to navigate and operate the Workflow Editor Welcome page.
 
 \[Omitted image "WorkflowWelcomeTabAccessibilityArrows.png"\] Alt text: Workflow Editor Welcome page - Tab Sequences
 
@@ -57,7 +57,7 @@ Press **Enter** to select and open a checked out workflow record in the Workflow
 
 </td></tr><tr><td>
 
-[[t_CreateAWorkflow|Create a workflow]]
+Create a workflow
 
 </td><td>
 
@@ -116,7 +116,3 @@ If a checked out workflow is open in the Workflow drawing canvas, core activity 
 </td></tr></tbody>
 </table>**Parent Topic:**[Workflow editor keyboard navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/workflow-keyboard-access.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[t_CreateAWorkflow|Create a workflow]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer, AI Search, Search administration, Configure core featur
 
 # Search Preview UI for AI Search
 
-The Search Preview UI enables you to test [[ia-ai-search|AI Search]] queries using settings from a selected search application configurationor search profile. Administrator tools help you review search query performance data and feedback, debug queries, and override default query settings for testing purposes.
+The Search Preview UI enables you to test AI Search queries using settings from a selected search application configurationor search profile. Administrator tools help you review search query performance data and feedback, debug queries, and override default query settings for testing purposes.
 
 **Note:** The new Search Preview UI feature is included with AI Search. It replaces the legacy Search Preview UI that's included with Advanced AI Search Management Tools. The new version provides additional functionality when compared with the legacy version, and offers a revised and cleaner interface.
 
@@ -28,7 +28,7 @@ Access the new Search Preview UI by navigating to **AI Search** &gt; **Preview**
 
 ## Search Preview UI components
 
-\[Omitted image "search-preview-new-example-q4-2025.png"\] Alt text: Sample Search Preview UI screen displaying service issue search query [[hs-results|results]].
+\[Omitted image "search-preview-new-example-q4-2025.png"\] Alt text: Sample Search Preview UI screen displaying service issue search query results.
 
 <table id="table_b4r_ql2_hhc"><thead><tr><th>
 
@@ -45,7 +45,7 @@ Description
 </td><td>
 
 Select the type of preview you want to view.-   **Full visual view**: preview search query results using the search profile and display settings defined for the search application configuration record selected in the **Search Application** list.
--   **Text view**: preview search query results using a search profile selected in the **Search Profile** list. When previewing in text view, features from [[defining-search-app-cfgs-ais|search application configurations]], such as auto-complete suggestions, are not available.
+-   **Text view**: preview search query results using a search profile selected in the **Search Profile** list. When previewing in text view, features from search application configurations, such as auto-complete suggestions, are not available.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Select the search mode you want to use for your search query.-   **Keyword searc
     -   Knowledge Table indexed source \[kb\_knowledge table\]
     -   Catalog Item Table indexed source \[sc\_cat\_item table\]
     -   Skills indexed source \[sys\_gen\_ai\_skill table\]
-    -   All [[ext-cont-connectors-landing-page|External Content Connectors]] indexed sources \[connector-specific tables\]
+    -   All External Content Connectors indexed sources \[connector-specific tables\]
 You can manually configure additional indexed sources to be included in the semantic index, extending hybrid search to those sources as well.
 
 
@@ -103,7 +103,7 @@ When you select full visual view as the preview type, this field displays auto-c
 
 </td><td>
 
-Select this icon to [[session-debugging-ais|enable session debugging for AI Search]] and launch the Script Debugger in a new browser tab. To learn about session debugging and using the Script Debugger, see [Enable session debugging for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/session-debugging-ais.md) and [Script Debugger and Session Log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md).
+Select this icon to enable session debugging for AI Search and launch the Script Debugger in a new browser tab. To learn about session debugging and using the Script Debugger, see [Enable session debugging for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/session-debugging-ais.md) and [Script Debugger and Session Log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/script-debugger.md).
 
 </td></tr><tr><td>
 
@@ -123,13 +123,13 @@ Select the icon for the administrator tool that you want to use:-   **Summary \[
 
 View links to the search query's search profile \(and search application configuration, in full visual view\). Review overview data on the processing of the search query.
 
--   **[[genius-results-ais|Genius Results]] \[Omitted image "search-preview-new-icon-genius-results.png"\] Alt text:**
+-   **Genius Results \[Omitted image "search-preview-new-icon-genius-results.png"\] Alt text:**
 
-View the Genius Result [[clone-configurations-tab|configurations]] activated for the search query, with those that generated Genius Result answers indicated. Review the set of search results that were sent to the LLM for Genius Result answer generation.
+View the Genius Result configurations activated for the search query, with those that generated Genius Result answers indicated. Review the set of search results that were sent to the LLM for Genius Result answer generation.
 
 -   **Details \[Omitted image "search-preview-new-icon-details.png"\] Alt text:**
 
-View summaries of how stop word, [[typo-handling-ais|typo handling]], and synonym dictionaries affected processing of the search query. Review the list of fields and values from the search query object, filtering to focus on areas of interest.
+View summaries of how stop word, typo handling, and synonym dictionaries affected processing of the search query. Review the list of fields and values from the search query object, filtering to focus on areas of interest.
 
 -   **Profile \[Omitted image "search-preview-new-icon-summary.png"\] Alt text:**
 
@@ -169,13 +169,3 @@ Learn about the output, controls, and fields provided by admin tools in the new 
 
 **Parent Topic:**[Administering AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/administer-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[session-debugging-ais|Enable session debugging for AI Search]]
-- [[genius-results-ais|Genius Results]]
-- [[clone-configurations-tab|Configurations]]
-- [[typo-handling-ais|Typo handling]]

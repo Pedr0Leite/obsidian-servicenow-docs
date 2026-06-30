@@ -14,7 +14,7 @@ breadcrumb: [Appointment slot recommendation, Configure Appointment Booking, Con
 
 # Create or modify an appointment booking slot recommendation rule
 
-Create modify a [[appointment-booking|appointment booking]] slot recommendation rules to categorize the appointment booking slots into recommended slots and available slots.
+Create modify a appointment booking slot recommendation rules to categorize the appointment booking slots into recommended slots and available slots.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ By defining the rules, you can ensure that the appointment slots are well utiliz
 
 When seismic appointment booking Calender is activated, it uses these recommendation rules to display the recommended slots for a service.
 
-[[fsm-application-landing-page|Field Service Management]] provides default slot recommendation rule, known as the **Appointment slot recommendation rule**. You can modify this default rule or use it as a template to create new rules.
+Field Service Management provides default slot recommendation rule, known as the **Appointment slot recommendation rule**. You can modify this default rule or use it as a template to create new rules.
 
 ## Procedure
 
@@ -61,7 +61,3 @@ The slot recommendation rule is created or modified.
 
 Add one or more selection criteria for the determination rule. For more information, see [Add selection criteria for an appointment slot recommendation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/add-selection-criteria-for-an-appointment-slot-recommendation-rule.md).
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[fsm-application-landing-page|Field Service Management]]

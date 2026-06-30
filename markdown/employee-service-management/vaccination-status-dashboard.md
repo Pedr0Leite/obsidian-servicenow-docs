@@ -43,13 +43,13 @@ sn\_imt\_vaccine.admin
 </td><td>
 
 -   Review the number of vaccine approvals that have been reviewed
--   Monitor the percentage of [[employee-health-safety-status|Employee Health and Safety Status]] users who have been vaccinated
+-   Monitor the percentage of Employee Health and Safety Status users who have been vaccinated
 -   Monitor the number of monthly vaccine responses for your organization
 -   Monitor the monthly vaccine response rate for your organization
 
 </td></tr><tr><td>
 
-[[employee-readiness-core|Employee Readiness Core]] admin: Must determine employee readiness and understand core vaccination metrics, such as the percentage of users who are or are not vaccinated.
+Employee Readiness Core admin: Must determine employee readiness and understand core vaccination metrics, such as the percentage of users who are or are not vaccinated.
 
 </td><td>
 
@@ -93,7 +93,7 @@ A breakdown of vaccine approvals by type:-   The number of vaccine responses tha
 
 </td></tr><tr><td>
 
-% of [[health-safety-overview|Health and Safety]] Users with Complete Vaccinations
+% of Health and Safety Users with Complete Vaccinations
 
 </td><td>
 
@@ -128,11 +128,5 @@ Line\[Omitted image "line-icon.png"\] Alt text: Line icon
 Indicates the number of people fully vaccinated. The rate is determined by the number of users in your organization with their vaccination profile COVID-19 completed status marked as true.**Note:** A historical data collection job, **Generate vaccine history records**, runs daily to ensure that the report chart is up-to-date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[vaccination-status|Vaccination Status]]
+</table>**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[health-safety-overview|Health and Safety]]

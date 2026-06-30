@@ -29,7 +29,7 @@ You can view deprecated asset audit records in the Audits \[Deprecated\] list. T
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  Select **Audits \[Deprecated\]**.
 
@@ -42,6 +42,3 @@ View the details of scanned assets within the asset audit form by selecting the 
 
 **Parent Topic:**[Audit hardware asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-inventory-audit.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

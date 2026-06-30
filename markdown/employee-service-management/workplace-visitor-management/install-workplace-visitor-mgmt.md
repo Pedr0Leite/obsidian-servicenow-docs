@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Visitor Management, Workplace Service Delivery
 
 # Install Workplace Visitor Management
 
-Install the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Visitor Management application from ServiceNow Store applications. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Complete the following setup instructions.
 
 1.  Navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) minimum version 2.0.3.
+    -   Workplace Core \(sn\_wsd\_core\) minimum version 2.0.3.
     -   Workplace Visitor Management \(sn\_wsd\_visitor\)
 
 Role required: admin
@@ -70,12 +70,7 @@ Use the following details when required:
 
 [Create a visitor badge template]()
 
-[Configuring Workplace Visitor Management for [[workplace-services|Workplace Services]] Kiosk]()
+[Configuring Workplace Visitor Management for Workplace Services Kiosk]()
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]

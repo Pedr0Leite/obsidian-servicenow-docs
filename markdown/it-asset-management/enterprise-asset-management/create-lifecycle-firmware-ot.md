@@ -14,17 +14,17 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Create life-cycle definitions for your firmware models
 
-Manage the complete life cycle of firmware [[c_Models|models]] by adding life-cycle information in the [[ot-asset-ws-otam|OT Asset Workspace]].
+Manage the complete life cycle of firmware models by adding life-cycle information in the OT Asset Workspace.
 
 ## Before you begin
 
-**Important:** The [[ot-asset-management|OT Asset Management]] application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 Role required: sn\_otam.ot\_asset\_manager
 
 ## About this task
 
-**Note:** If the life-cycle phases of your firmware version are defined in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service, then the life-cycle phase details are automatically populated for that firmware model record.
+**Note:** If the life-cycle phases of your firmware version are defined in the Enterprise Asset Management Content Service, then the life-cycle phase details are automatically populated for that firmware model record.
 
 ## Procedure
 
@@ -146,9 +146,3 @@ Option that indicates if the firmware model life cycle is active.
 
 The life-cyle phase is listed in the **Firmware model lifecycles** tab.
 
-## Related
-
-- [[c_Models|Models]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

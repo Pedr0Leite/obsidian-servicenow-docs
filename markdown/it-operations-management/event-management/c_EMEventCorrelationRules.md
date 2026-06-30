@@ -16,7 +16,7 @@ breadcrumb: [Alert grouping types and creation methods, Alert grouping, Configur
 
 Rule-based alert grouping is created by alert correlation rules. These rules allow you to manually classify alerts as primary or secondary and establish a relationship between them. Use alert correlation rules to group related alerts. The rule runs only for new alerts or alerts whose status changed from close/flapping to open/reopen.
 
-Example: If rule-based alert grouping is applied, secondary alerts indicating that virtual machines or applications on the offline server are also down and are grouped under the primary alert, which is the root alert for the server that is offline. You can view rule-based alert grouping in Express List of [[workspace-dashboard-use|Service Operations Workspace]] \(ITOM\). For more information, see [Viewing links between alerts in rules-based alert groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/el-rule-based-link-view.md).
+Example: If rule-based alert grouping is applied, secondary alerts indicating that virtual machines or applications on the offline server are also down and are grouped under the primary alert, which is the root alert for the server that is offline. You can view rule-based alert grouping in Express List of Service Operations Workspace \(ITOM\). For more information, see [Viewing links between alerts in rules-based alert groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/el-rule-based-link-view.md).
 
 ## Primary and secondary alerts
 
@@ -27,13 +27,13 @@ Example: If rule-based alert grouping is applied, secondary alerts indicating th
 
 In rule-based alert grouping, one of the real alerts is designated as the primary alert. Primary and secondary alert filter conditions specify which alerts are classified as primary and which as secondary. The filter criteria are applied to the Alert \[em\_alert\] table.
 
-In this [[c_ServiceAnalyticsOverview|alert grouping]], both primary and secondary alerts are visible but secondary alerts are grouped under the primary alert. The property **Keep the secondary alert open even when primary closed. for manual or rule based** \(**evt\_mgmt.rule\_based\_manual\_closure**\) controls whether secondary alerts remain open or are closed when the primary alert is closed.
+In this alert grouping, both primary and secondary alerts are visible but secondary alerts are grouped under the primary alert. The property **Keep the secondary alert open even when primary closed. for manual or rule based** \(**evt\_mgmt.rule\_based\_manual\_closure**\) controls whether secondary alerts remain open or are closed when the primary alert is closed.
 
 If the property is not selected \(i.e., set to No\), after the primary alert is closed, the parent reference is removed from the secondary alerts \(the grouping is dissolved\), and the secondary alerts are closed and become stand-alone. If you select the checkbox for the property \(i.e., set it to Yes\) and the primary alert is closed, the parent reference is removed from the secondary alerts \(the grouping is dissolved\), causing them to become stand-alone open alerts.
 
 ## Alert hierarchy
 
-Only one level of secondary alerts is permitted. In situations where a secondary alert has its own secondary alert, the [[c_EM|Event Management]] application flattens the hierarchy to preserve only two levels.
+Only one level of secondary alerts is permitted. In situations where a secondary alert has its own secondary alert, the Event Management application flattens the hierarchy to preserve only two levels.
 
 For example, assume alert A is the primary alert and alert B is the secondary alert. If alert C becomes a secondary alert for alert B, the application flattens the hierarchy so that A remains the primary and B and C become sibling secondary alerts, one level below A.
 
@@ -54,13 +54,7 @@ When alert A is triggered:
 Therefore, if all alerts are triggered, only B appears as the primary alert for A, D, and C, while E remains a standalone alert.
 
 -   **[Create an alert correlation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureAnEventCorrelationRule.md)**  
-[[t_EMConfigureAnEventCorrelationRule|Create an alert correlation rule]] to designate primary and secondary alerts. The primary alert is identified as the root cause of the alert group and the secondary alerts are grouped under the primary alert.
+Create an alert correlation rule to designate primary and secondary alerts. The primary alert is identified as the root cause of the alert group and the secondary alerts are grouped under the primary alert.
 
 **Parent Topic:**[Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_EM|Event Management]]
-- [[t_EMConfigureAnEventCorrelationRule|Create an alert correlation rule]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Telecommunications Network Inventory]
 
 # Telecommunications Network Inventory integration with Hardware Asset Management
 
-By integrating the [[telecom-network-inventory|Telecommunications Network Inventory]] application with the Hardware Asset Management \(HAM\) application, you can use an inventory template to create a service request. You can also associate the assets that are available in a stock room to instantiate the equipment.
+By integrating the Telecommunications Network Inventory application with the Hardware Asset Management \(HAM\) application, you can use an inventory template to create a service request. You can also associate the assets that are available in a stock room to instantiate the equipment.
 
 ## HAM integration overview
 
@@ -45,6 +45,3 @@ Create a bill of materials for assets by using a record producer, and then creat
 
 [Telecommunications Network Inventory and Order Management for Telecommunications and Media]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

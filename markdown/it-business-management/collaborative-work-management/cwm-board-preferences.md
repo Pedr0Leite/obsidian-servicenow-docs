@@ -14,7 +14,7 @@ breadcrumb: [Manage work using Boards, Use, Collaborative Work Management, Strat
 
 # CWM Board preferences
 
-Reduce cognitive load and focus on the most relevant and actionable tasks by filtering work items on Boards in [[cwm-landing|Collaborative Work Management]] \(CWM\).
+Reduce cognitive load and focus on the most relevant and actionable tasks by filtering work items on Boards in Collaborative Work Management \(CWM\).
 
 Use the **Board Preferences** menu on the Board header to show items that are your current focus.
 
@@ -35,6 +35,3 @@ Use the **Board Preferences** menu on the Board header to show items that are yo
 
 **Parent Topic:**[Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

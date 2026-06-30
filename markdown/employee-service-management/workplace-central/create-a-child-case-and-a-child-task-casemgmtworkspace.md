@@ -22,13 +22,13 @@ Role required: sn\_wsd\_case.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select the **[[case-management-workspace|Case Management]]** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
+2.  On the left pane, select the **Case Management** icon \(\[Omitted image "casemgmt-icon.png"\] Alt text: Case Management icon.\).
 
     The Case Management landing page opens.
 
@@ -75,7 +75,7 @@ Role required: sn\_wsd\_case.manager
 
         The child case is created.
 
-6.  To [[create-a-child-task-agentmobile|create a child task]], do the following:
+6.  To create a child task, do the following:
 
     1.  On the case details page, select the **Child Tasks** tab.
 
@@ -92,7 +92,7 @@ Role required: sn\_wsd\_case.manager
         |Assigned to|Select the location for which you’re creating the child task.|
         |Sign template|Select the signing template.|
         |Vendor|Select the vendor for the task.|
-        |Workplace service activity|Select the Workplace service [[activity-lxp|activity]] to implement the task.|
+        |Workplace service activity|Select the Workplace service activity to implement the task.|
         |Short description|Enter a short description about the task.|
 
     4.  To attach any file, select the Attachment icon \(\[Omitted image "casemgmt-attachementicon.png"\] Alt text: Attachment icon.\) on the side panel.
@@ -129,11 +129,3 @@ Role required: sn\_wsd\_case.manager
 
 [View Facility Assets in Workplace Central]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[case-management-workspace|Case management]]
-- [[create-a-child-task-agentmobile|Create a child task]]
-- [[activity-lxp|Activity]]

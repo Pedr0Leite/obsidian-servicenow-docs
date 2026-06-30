@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Discovery on Code Signing instances
 
-[[r-discovery|Discovery]] is supported on instances with Code Signing enabled. Code signing validates the integrity of Discovery components before execution to help prevent unauthorized scripts from running on MID Servers and target machines.
+Discovery is supported on instances with Code Signing enabled. Code signing validates the integrity of Discovery components before execution to help prevent unauthorized scripts from running on MID Servers and target machines.
 
 ## How it works
 
@@ -41,9 +41,9 @@ Code signing for Discovery requires the following dependencies:
 
 -   You must be using the Australia version of the ServiceNow AI Platform.
 -   You must have the following ServiceNow Store applications and versions installed:
-    -   [[discovery-admin-workspace|Discovery Admin Workspace]] v1.13.0
+    -   Discovery Admin Workspace v1.13.0
     -   Visibility Content v6.13.10
-    -   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns v1.30.2
+    -   Discovery and Service Mapping Patterns v1.30.2
 -   You must have Code Signing enabled with the Circle of Trust established. For more information, see [Configuring Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/config-code-signing.md).
 
 ## Supported discovery types
@@ -69,8 +69,3 @@ Pattern debugger isn’t available on code-signed instances.
 
 [Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]

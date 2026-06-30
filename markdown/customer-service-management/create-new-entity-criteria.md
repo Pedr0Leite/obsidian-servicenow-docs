@@ -20,7 +20,7 @@ Role required:sn\_csm\_case\_types.service\_definition\_manager, sn\_csm\_case\_
 
 ## About this task
 
-You can select entity criteria records when you [[configure-customer-criteria-for-a-service-definition|configure customer criteria for a service definition]]. The system uses this configuration to determine which customers are eligible for that particular service.
+You can select entity criteria records when you configure customer criteria for a service definition. The system uses this configuration to determine which customers are eligible for that particular service.
 
 **Note:** Entity criteria records are available for all CSM applications.
 
@@ -89,6 +89,4 @@ Field that references the account, consumer, or other selection in the **Conditi
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[configure-customer-criteria-for-a-service-definition|Configure customer criteria for a service definition]]

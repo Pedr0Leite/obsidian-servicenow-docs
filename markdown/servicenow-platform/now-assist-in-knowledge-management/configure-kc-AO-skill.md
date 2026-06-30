@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist in Knowledge Management, Now Assist in Knowled
 
 # Configuring Article Optimization skill and prompts
 
-Create custom prompts for the default Article Optimization \(AO\) skill in the [[knowledge-center|Knowledge Center]] application and prompts using standalone custom skills.
+Create custom prompts for the default Article Optimization \(AO\) skill in the Knowledge Center application and prompts using standalone custom skills.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
     1.  Set **Role restriction** field to **Nobody**.
 
-    2.  Select **Choose from library** to import an existing prompt for [[reference|reference]], otherwise, select**Write from scratch**.
+    2.  Select **Choose from library** to import an existing prompt for reference, otherwise, select**Write from scratch**.
 
         **Note:** Using existing custom skills to modify prompts may result in unreliable article optimization scans. The easier option is to choose an existing prompt, then clone and modify to suit your specifications.
 
@@ -68,7 +68,7 @@ Article optimization skill is now configured.
 After successfully configuring the skill, proceed to activate the article optimization skill. For more information, see [Activate Article Optimization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/activate-kc-AO-skill.md).
 
 -   **[Activate Article Optimization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/activate-kc-AO-skill.md)**  
-Activate the [[knowledge-center-article-optimization|Knowledge Center Article Optimization]] skill to enable use of article optimization features for generating knowledge articles in the Knowledge Center.
+Activate the Knowledge Center Article Optimization skill to enable use of article optimization features for generating knowledge articles in the Knowledge Center.
 
 **Parent Topic:**[Configuring Now Assist in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configuring-now-assist-km.md)
 
@@ -77,8 +77,3 @@ Activate the [[knowledge-center-article-optimization|Knowledge Center Article Op
 
 [Configure custom AI-based Article Optimization scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/configure-custom-ai-based-AO-scans.md)
 
-## Related
-
-- [[knowledge-center|Knowledge Center]]
-- [[reference|Reference]]
-- [[knowledge-center-article-optimization|Knowledge Center Article Optimization]]

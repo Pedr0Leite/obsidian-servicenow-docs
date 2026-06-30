@@ -24,7 +24,7 @@ Role required: sn\_wsd\_rsv.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration**.
 
 2.  Based on where you are adding the standard service, make the following selection:'
 
@@ -32,7 +32,7 @@ Role required: sn\_wsd\_rsv.admin
     -   To add the service to a workplace room, select **Workplace Rooms**.
 3.  Select the Workplace Space/Room where you want to add the standard service.
 
-4.  On the form, scroll down and click **Edit** in the **[[standard-service|Standard Services]]** section.
+4.  On the form, scroll down and click **Edit** in the **Standard Services** section.
 
 5.  On the Edit Members form, select the service.
 
@@ -51,7 +51,3 @@ The Standard service is added to the selected workplace space or room.
 
 **Parent Topic:**[Create a standard service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/add-standard-services.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[standard-service|Standard services]]

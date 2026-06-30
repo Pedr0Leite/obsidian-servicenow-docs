@@ -26,7 +26,7 @@ An approval definition is a set of rules that specify how tasks will be approved
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the release administration icon \(\[Omitted image "dpr-icon-release-admin.png"\] Alt text: Release administration icon.\).
 
@@ -42,6 +42,4 @@ An approval definition is a set of rules that specify how tasks will be approved
 
 6.  Select **Submit**.
 
-## Related
 
-- [[dpr-workspace|Digital Product Release Workspace]]

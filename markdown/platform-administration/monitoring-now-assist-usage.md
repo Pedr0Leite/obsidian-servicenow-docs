@@ -12,7 +12,7 @@ breadcrumb: [Viewing account-level entitlements, Explore, Subscription Managemen
 
 # Monitoring Now Assist usage in Subscription Management
 
-View a summary of your Now Assist entitlements and track Now Assist usage across all of your instances in [[subscription-management-landing-page-v2|Subscription Management]].
+View a summary of your Now Assist entitlements and track Now Assist usage across all of your instances in Subscription Management.
 
 ## Key benefits
 
@@ -44,7 +44,7 @@ Access details about Now Assist usage by navigating to **Admin** &gt; **Subscrip
     In some scenarios, data isn't displayed in the **Instances** list.
 
     -   Only instances on Washington DC Patch 2 and higher are listed in the **Instances** list.
-    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [[share-subscription-data|Share subscription data from another instance]].
+    -   If data sharing is restricted on an instance, usage data for that instance is hidden. You can disable the restriction by updating the trust configuration on that instance. See [Share subscription data from another instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/share-subscription-data.md).
 -   View details for each of your products that include assists in the **Subscriptions** list.
     -   Determine whether assists are the primary or secondary line item in a purchase according to the value in the **Entitlement type** column.
     -   Verify the start date and end date for each product.
@@ -56,7 +56,3 @@ Access details about Now Assist usage by navigating to **Admin** &gt; **Subscrip
     -   Determine which skills are consuming the most Now Assist entitlements by checking the **Total assists** column. Total assists are calculated by multiplying values in the **Number of actions** column by values in the **Assist ratio** column.
     -   Analyze Now Assist usage over time on your current instance by viewing the Utilization history chart. Monitor monthly or daily usage using the filter. Look for trends related to Now Assist skills. If usage continues to grow every month, consider purchasing more entitlements to stay in compliance.
 
-## Related
-
-- [[share-subscription-data|Share subscription data from another instance]]
-- [[subscription-management-landing-page-v2|Subscription Management]]

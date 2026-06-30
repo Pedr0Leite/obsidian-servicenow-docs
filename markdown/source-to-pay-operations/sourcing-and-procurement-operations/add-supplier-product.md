@@ -14,7 +14,7 @@ breadcrumb: [Setting up your product catalog, Setting up primary data Shopping, 
 
 # Add a supplier product
 
-Add [[supplier|supplier]] products to populate the primary data.
+Add supplier products to populate the primary data.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: sn\_shop.shopping\_hub\_admin or sn\_shop.procurement\_administra
 
 \[Omitted video\] Description: Shows how to add a supplier product.
 
-You can add a supplier product and choose to publish it on the [[shopping-hub-overview|Shopping Hub]] portal. The products that you add, appear on the portal under various categories. You can add multiple products that are available with the suppliers.
+You can add a supplier product and choose to publish it on the Shopping Hub portal. The products that you add, appear on the portal under various categories. You can add multiple products that are available with the suppliers.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Supplier Products** &gt; **Published Products**.
 
-    You can also navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **Supplier Product**.\[Omitted image "spo-supp-prod-nav.png"\] Alt text: ServiceNow navigation menu showing the path to Supplier Product under Primary Data.
+    You can also navigate to **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Supplier Product**.\[Omitted image "spo-supp-prod-nav.png"\] Alt text: ServiceNow navigation menu showing the path to Supplier Product under Primary Data.
 
 2.  Select **New**.
 
@@ -115,7 +115,7 @@ Published
 Option for specifying if the product is to be listed on the Shopping Hub portal.
 
 </td></tr></tbody>
-</table>    **Note:** The **Sales start date** and **Sales end date** fields are populated through third-party integration from the Catalog API using [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] \(PIF\).
+</table>    **Note:** The **Sales start date** and **Sales end date** fields are populated through third-party integration from the Catalog API using Source-to-Pay Integration Framework \(PIF\).
 
 4.  Select the **Details** tab and fill in the fields.
 
@@ -179,7 +179,7 @@ Acknowledgment type
 Type of receipt confirmation, if any, required for services. You can select one of these options:
 
  -   **None**
--   **[[milestones|Milestones]]**
+-   **Milestones**
 -   **Service Acknowledgment**
 -   **Two Way Match**
 
@@ -190,7 +190,7 @@ Capex account
 
 </td><td>
 
-General [[ledger-account|ledger account]] where capital expenses are posted on purchase.
+General ledger account where capital expenses are posted on purchase.
 
 </td></tr><tr><td>
 
@@ -233,9 +233,9 @@ Countries where the suppliers can deliver the product.
 
     |Field|Description|
     |-----|-----------|
-    |Total lead time in days|Estimated number of days to process the [[purchase-order-table|purchase order]] and deliver the product.|
-    |Sourcing time in days|Estimated number of days to process the [[sourcing-request|sourcing request]].|
-    |Purchasing time in days|Estimated number of days to complete the [[purchase-requisition|purchase requisition]] and create a purchase order.|
+    |Total lead time in days|Estimated number of days to process the purchase order and deliver the product.|
+    |Sourcing time in days|Estimated number of days to process the sourcing request.|
+    |Purchasing time in days|Estimated number of days to complete the purchase requisition and create a purchase order.|
     |Shipping time in days|Estimated number of days to ship the product to the delivery location.|
 
     For more information, see [Lead time calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/lead-time-calculations.md).
@@ -245,21 +245,7 @@ Countries where the suppliers can deliver the product.
 
 ## What to do next
 
-Use the related lists of the supplier product form to view the [[pricing|pricing]], [[purchase-order-lines|purchase order lines]], product visuals, and [[ledger-assignment-rules|ledger assignment rules]] that are associated with this supplier product.
+Use the related lists of the supplier product form to view the pricing, purchase order lines, product visuals, and ledger assignment rules that are associated with this supplier product.
 
 **Parent Topic:**[Setting up your product catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-product-catalogue.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[milestones|Milestones]]
-- [[ledger-account|Ledger account]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[pricing|Pricing]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[ledger-assignment-rules|Ledger assignment rules]]

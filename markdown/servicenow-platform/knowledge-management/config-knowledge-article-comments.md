@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure article comments instance options
 
-Configure the Knowledge Article Comments widget instance options for the [[knowledge-management|Knowledge Management]] article view page in the Knowledge Management Service Portal.
+Configure the Knowledge Article Comments widget instance options for the Knowledge Management article view page in the Knowledge Management Service Portal.
 
 ## Before you begin
 
@@ -77,7 +77,7 @@ Displays the field for users to enter comments.Available options:
 
 </td></tr><tr><td>
 
-Add Comment [[label|Label]]
+Add Comment Label
 
 </td><td>
 
@@ -93,7 +93,7 @@ Maximum number of attachments that can be attached to a comment included for a k
 
 </td></tr><tr><td>
 
-Maximum [[attachment|attachment]] file size in MB that can be attached to a comment
+Maximum attachment file size in MB that can be attached to a comment
 
 </td><td>
 
@@ -105,8 +105,3 @@ Maximum attachment file size in MB that can be attached to a comment included fo
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[label|Label]]
-- [[attachment|Attachment]]

@@ -15,7 +15,7 @@ breadcrumb: [Recommend invoice owner AI agent, Using AI agents in Now Assist for
 
 # Use Recommend invoice owner AI agent
 
-Use the [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]] to detect business owners for Non-PO [[invoices|invoices]] and Non-PO credit memos that lack an owner. The AI agent analyzes historically processed invoices to recommend the most likely business owner, which an accounts payable specialist can review, approve, or override.
+Use the Recommend invoice owner AI agent to detect business owners for Non-PO invoices and Non-PO credit memos that lack an owner. The AI agent analyzes historically processed invoices to recommend the most likely business owner, which an accounts payable specialist can review, approve, or override.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: Accounts Payable specialist \(sn\_ap\_apm.accounts\_payable\_spec
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \[Omitted image "cases-list-icon.png"\] Alt text:.
 
-3.  Select **My work** &gt; **[[work-with-invoice-exceptions|Invoice exceptions]]**.
+3.  Select **My work** &gt; **Invoice exceptions**.
 
 4.  From the **Number** column, select the link for the 'Missing or invalid business owner' exception with the status **Review needed**.
 
@@ -48,9 +48,3 @@ When a business owner is found, the AI agent updates the **Business owner** fiel
 
 If no business owner is found, the AI agent suggests creating a task.
 
-## Related
-
-- [[recommend-invoice-owner-ai-agent|Recommend invoice owner AI agent]]
-- [[invoices|Invoices]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

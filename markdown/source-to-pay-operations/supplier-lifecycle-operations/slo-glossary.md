@@ -15,7 +15,7 @@ breadcrumb: [Reference, Supplier Lifecycle Operations, Finance and Supply Chain]
 
 # Supplier Lifecycle Operations glossary
 
-Learn about the terms and concepts used in [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] \(SLO\).
+Learn about the terms and concepts used in Supplier Lifecycle Operations \(SLO\).
 
 Glossary terms are grouped alphabetically.
 
@@ -26,7 +26,7 @@ Glossary terms are grouped alphabetically.
 **Related topics**  
 
 
-[Create New [[supplier|Supplier]] Case form]()
+[Create New Supplier Case form]()
 
 [Create new task form]()
 
@@ -54,7 +54,7 @@ Glossary terms are grouped alphabetically.
 
 ### action plan
 
-A record in [[supplier-performance-management-overview|Supplier Relationship and Performance Management]] that groups the improvement activities and [[milestones|milestones]] required to address a failing KPI.
+A record in Supplier Relationship and Performance Management that groups the improvement activities and milestones required to address a failing KPI.
 
 ### activity stream
 
@@ -84,7 +84,7 @@ Public-facing notes on a supplier case or task that are visible to all users.
 
 ### contextual side panel
 
-A collapsible panel on the Case Details page in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+A collapsible panel on the Case Details page in the Source-to-Pay Workspace.
 
 ### Craft.co Integration
 
@@ -154,7 +154,7 @@ A tracked checkpoint within an action plan.
 
 ### M2M mapping between supplier contact and suppliers
 
-Many-to-many \(M2M\) mapping between [[supplier-contact|supplier contact]] and suppliers enables one supplier contact to be the contact for multiple suppliers, provided the suppliers share a parent-subsidiary relationship.
+Many-to-many \(M2M\) mapping between supplier contact and suppliers enables one supplier contact to be the contact for multiple suppliers, provided the suppliers share a parent-subsidiary relationship.
 
 ## N
 
@@ -232,7 +232,7 @@ A web-based interface that provides a unified portal experience for supplier con
 
 ### supplier contact
 
-The person who allows individuals from the supplier side to access the [[supplier-central|Supplier Collaboration Portal]], manages tasks, and interacts with the buying organization.
+The person who allows individuals from the supplier side to access the Supplier Collaboration Portal, manages tasks, and interacts with the buying organization.
 
 ### supplier contact self-registration
 
@@ -302,12 +302,3 @@ A case type for supplier issues that do not fit predefined categories.
 
 Private notes on a supplier case or task that are visible only to internal users.
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[supplier-performance-management-overview|Supplier Relationship and Performance Management]]
-- [[milestones|Milestones]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

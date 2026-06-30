@@ -15,7 +15,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector health instance scan checks
 
-The [[acc-landing-page|Agent Client Collector]] \(ACC\) health instance scan suite includes checks that detect anomalies and issues on your instance. Use this reference to identify what each check does and when it applies.
+The Agent Client Collector \(ACC\) health instance scan suite includes checks that detect anomalies and issues on your instance. Use this reference to identify what each check does and when it applies.
 
 <table id="table_acc_scan_checks"><thead><tr><th>
 
@@ -96,11 +96,7 @@ For details on importing the `global.ACCInstanceScanUtil` script include, see th
 
 For details on instance scans, see [Instance Scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/hs-landing-page.md).
 
-For details on executing the [[acc-instance-scan-suite|Agent Client Collector health instance scan suite]], see [Execute a suite scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/hc-execute-suite-scan.md).
+For details on executing the Agent Client Collector health instance scan suite, see [Execute a suite scan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/hc-execute-suite-scan.md).
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-instance-scan-suite|Agent Client Collector health instance scan suite]]

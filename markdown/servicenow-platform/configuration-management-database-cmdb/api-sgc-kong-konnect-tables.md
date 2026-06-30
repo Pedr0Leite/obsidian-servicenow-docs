@@ -53,7 +53,7 @@ The following attributes in the Kong Data Plane Node \[sn\_kong\_konnect\_kong\_
 |------------|-----------------|-----------|
 |Kong Data Plane Node \[sn\_kong\_konnect\_kong\_data\_plane\_node\]|Reference|Kong Gateway \[cmdb\_ci\_kong\_gateway\]|
 
-**Note:** This table is available within the [[api-sgc-kong-konnect|API Service Graph Connector for Kong Konnect]] application \(sn\_kong\_konnect\) scope.
+**Note:** This table is available within the API Service Graph Connector for Kong Konnect application \(sn\_kong\_konnect\) scope.
 
 ## Cloud Service Account \[cmdb\_ci\_cloud\_service\_account\]
 
@@ -183,7 +183,7 @@ The following attributes in the API Consumer \[api\_consumer\] table are populat
 
 <table id="table_iyx_ddb_vgc"><thead><tr><th>
 
-Attribute [[label|label]]
+Attribute label
 
 </th><th>
 
@@ -207,7 +207,7 @@ custom\_id
 
 </td></tr><tr><td>
 
-[[email|Email]]**Note:** Fetched using the Developers data source only.
+Email**Note:** Fetched using the Developers data source only.
 
 </td><td>
 
@@ -292,8 +292,3 @@ The following attributes in the Key Value \[cmdb\_key\_value\] table are populat
 |Key|key|
 |Value|value|
 
-## Related
-
-- [[api-sgc-kong-konnect|API Service Graph Connector for Kong Konnect]]
-- [[label|Label]]
-- [[email|Email]]

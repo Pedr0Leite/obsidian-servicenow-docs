@@ -14,7 +14,7 @@ breadcrumb: [Using the visitor portal, Workplace Visitor Management, Workplace S
 
 # Manage your visitor data
 
-Download or anonymize your data on the [[visitor-portal|visitor portal]].
+Download or anonymize your data on the visitor portal.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: None
 
 1.  Log in to the visitor portal, then select a visit.
 
-    For more information about [[login-visitor-portal|logging in to the visitor portal]], see [Logging in to the visitor portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/login-visitor-portal.md).
+    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/login-visitor-portal.md).
 
 2.  Select your profile icon, then select either of the following options.
 
@@ -35,7 +35,4 @@ Role required: None
 
     **Note:** If you anonymize your data, the data in your future visits is replaced with random values. You must enter your data again on your next visit.
 
-## Related
 
-- [[visitor-portal|Visitor portal]]
-- [[login-visitor-portal|Logging in to the visitor portal]]

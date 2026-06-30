@@ -33,12 +33,9 @@ Role required: sn\_spend\_mgmt.category\_manager\_admin
 
 ## Result
 
-An Excel template is created with the required columns for adding the spend category data. Use this Excel spreadsheet to enter the [[supplier|supplier]] data that you want to import and store into the Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\) staging table.
+An Excel template is created with the required columns for adding the spend category data. Use this Excel spreadsheet to enter the supplier data that you want to import and store into the Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\) staging table.
 
 ## What to do next
 
 Load the spend category data from the excel template into the Spend Category Stage \(sn\_spend\_mgmt\_category\_stage\) staging table. For more information, see [Load and map spend categories to existing product categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/load-spend-categories.md).
 
-## Related
-
-- [[supplier|Supplier]]

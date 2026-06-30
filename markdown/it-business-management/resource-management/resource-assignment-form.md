@@ -14,7 +14,7 @@ breadcrumb: [Resource Management reference, Resource Management classic, Project
 
 # Resource assignment form
 
-Description for the [[pw-resource-assignment-form|resource assignment form]] fields.
+Description for the resource assignment form fields.
 
 <table id="table_hvl_3bs_21c"><thead><tr><th>
 
@@ -115,6 +115,3 @@ Status of the resource assignment.
 </td></tr></tbody>
 </table>**Parent Topic:**[Resource Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-reference.md)
 
-## Related
-
-- [[pw-resource-assignment-form|Resource assignment form]]

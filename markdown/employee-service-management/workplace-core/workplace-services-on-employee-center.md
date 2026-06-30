@@ -14,9 +14,9 @@ breadcrumb: [Explore, Workplace Core, Workplace Service Delivery, Employee Servi
 
 # Workplace services on the Employee Center portal
 
-Avail workplace-related services using the [[employee-center-landing-page|Employee Center]] portal. The Employee Center portal is a unified portal that brings all the employee-related services at one place.
+Avail workplace-related services using the Employee Center portal. The Employee Center portal is a unified portal that brings all the employee-related services at one place.
 
-The Employee Center portal allows employees to raise a workplace request for a department. The Employee Center portal enables you to request a workplace service available to you. Using the Content Taxonomy Framework, you can modify the base taxonomy - Employee to provide your [[workplace-services|workplace services]] as child topics.
+The Employee Center portal allows employees to raise a workplace request for a department. The Employee Center portal enables you to request a workplace service available to you. Using the Content Taxonomy Framework, you can modify the base taxonomy - Employee to provide your workplace services as child topics.
 
 To enable **Workplace services** menu option on the Employee Center portal, ensure that you have the following plugins and applications installed:
 
@@ -24,11 +24,11 @@ To enable **Workplace services** menu option on the Employee Center portal, ensu
 -   Employee Experience Taxonomy plugin \(sn\_ect\)
 -   [Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery/workplace-service-delivery-suite-landing-page.md) \(sn\_wsd\) suite with all the applications.
 
-**Note:** Before you install the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] \(sn\_wsd\) plugin, ensure that you have the latest Employee Center plugin.
+**Note:** Before you install the Workplace Service Delivery \(sn\_wsd\) plugin, ensure that you have the latest Employee Center plugin.
 
 ## Workplace Services on Employee Center
 
-After you install the required plugins, the **Workplace Services** menu option appears on the Employee Center homepage. Select it to [[request-workplace-service|raise workplace service requests]].
+After you install the required plugins, the **Workplace Services** menu option appears on the Employee Center homepage. Select it to raise workplace service requests.
 
 The **Workplace Services** option shows the list of following workplace services:
 
@@ -60,9 +60,3 @@ The base taxonomy - Employee, is installed when you install the Employee Experie
 
 [Create a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-topics-for-taxonomy.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[request-workplace-service|Raise workplace service requests]]

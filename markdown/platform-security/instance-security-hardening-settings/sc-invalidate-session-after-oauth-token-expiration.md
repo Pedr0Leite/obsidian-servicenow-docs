@@ -14,11 +14,11 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 # Invalidate Session After OAuth Token Expiration \[New in Security Center 2.0\]
 
-Use a system property to the secure value to prevent [[users|users]] from continuing to use a session via cookies after the [[oauth-inbound-and-outbound|OAuth]] token used to create the session expires.
+Use a system property to the secure value to prevent users from continuing to use a session via cookies after the OAuth token used to create the session expires.
 
 When an OAuth access token is issued, the response includes a cookie. Users can use this cookie to continue using a session even after the OAuth token used to create that session expires. Use the **glide.authenticate.oauth.post.token.expiration.cookie\_auth.disabled** system property to prevent this.
 
-Ensure the **glide.authenticate.oauth.post.token.expiration.cookie\_auth.disabled** system property exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, and is set to a value of `true`.
+Ensure the **glide.authenticate.oauth.post.token.expiration.cookie\_auth.disabled** system property exists in the System Properties \[sys\_properties\] table, and is set to a value of `true`.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -129,9 +129,3 @@ Impact when set to true:
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[users|Users]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

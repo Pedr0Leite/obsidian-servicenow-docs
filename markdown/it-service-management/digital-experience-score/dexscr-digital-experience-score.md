@@ -36,11 +36,7 @@ The video provides an overview of the DEX Score application, highlighting its ke
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:[[reference-for-itsm-mobile-agent|Reference]] for Digital Experience Score​.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Reference for Digital Experience Score​.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

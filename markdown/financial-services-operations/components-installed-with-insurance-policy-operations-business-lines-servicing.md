@@ -12,7 +12,7 @@ breadcrumb: [Reference, Commercial Lines Servicing, Property and Casualty Insura
 
 # Components installed with Commercial Lines Servicing
 
-Several types of components are installed with the installation of the [[fso-overview|Financial Services]] [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]] store application, including tables and user roles. The applications also install related plugins and store applications if they are not already installed.
+Several types of components are installed with the installation of the Financial Services Commercial Lines Servicing store application, including tables and user roles. The applications also install related plugins and store applications if they are not already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -39,9 +39,9 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
-|Commercial Lines Underwriting|Enables management of commercial underwriting services tasks that are used in insurance policy service cases. For more information, see [[components-installed-with-insurance-commercial-underwriting-operations|Components installed with Commercial Lines Underwriting]].|
-|Document Processor|Enables the management of document services tasks that are used in insurance operations workflows. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
+|Commercial Lines Underwriting|Enables management of commercial underwriting services tasks that are used in insurance policy service cases. For more information, see [Components installed with Commercial Lines Underwriting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-insurance-commercial-underwriting-operations.md).|
+|Document Processor|Enables the management of document services tasks that are used in insurance operations workflows. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -66,7 +66,7 @@ Commercial insurance policy admin
 
 </td><td>
 
--   Grant commercial [[financial-services-property-casualty-insurance-servicing|property and casualty insurance servicing]] roles
+-   Grant commercial property and casualty insurance servicing roles
 -   Delete commercial policy cases and tasks
 -   Configure commercial Property and Casualty Insurance Servicing application
 -   Create and modify commercial policy service definitions
@@ -104,7 +104,7 @@ Commercial insurance contributor\[sn\_ins\_policy\_b2b.contributor\]
 
 </td><td>
 
-Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -152,7 +152,7 @@ Policy Base\[sn\_ins\_policy\_b2b\_base\]
 
 </td><td>
 
-[[fso-ins-personal-policy-ops-landing-page|Personal lines servicing]] base table extension of the Case \[sn\_customerservice\_case\] table. Any line of business specific case type tables can be extended off this table.
+Personal lines servicing base table extension of the Case \[sn\_customerservice\_case\] table. Any line of business specific case type tables can be extended off this table.
 
 </td></tr><tr><td>
 
@@ -203,16 +203,5 @@ Policy Coverage Info\[sn\_ins\_policy\_b2b\_policy\_coverage\_info\]
 This is an Info table which stores the changes to policy coverages which can take place as part of servicing a case against a policy.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[commercial-lines-servicing-reference|Commercial Lines Servicing reference]]
+</table>**Parent Topic:**[Commercial Lines Servicing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/commercial-lines-servicing-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[components-installed-with-insurance-commercial-underwriting-operations|Components installed with Commercial Lines Underwriting]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[commercial-lines-servicing-reference|Commercial Lines Servicing reference]]
-- [[fso-overview|Financial Services]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[financial-services-property-casualty-insurance-servicing|Property and Casualty Insurance Servicing]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]

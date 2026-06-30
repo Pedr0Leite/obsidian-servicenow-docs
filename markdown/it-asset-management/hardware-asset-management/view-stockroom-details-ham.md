@@ -14,7 +14,7 @@ breadcrumb: [Manage stockrooms, Use, Hardware Asset Management, IT Asset Managem
 
 # View stockroom details
 
-View detailed information about the [[c_Stockrooms|stockrooms]] where your hardware, consumables, bundles, pallets, loaner, enterprise, and other assets are located.
+View detailed information about the stockrooms where your hardware, consumables, bundles, pallets, loaner, enterprise, and other assets are located.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or asset
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **All stockrooms** tab.
 
@@ -33,7 +33,7 @@ Role required: admin or asset
     View the following details about the stockroom:
 
     -   All open tasks associated with the stockroom through the Open stockroom task cards. Selecting a card displays a list of the task records.
-    -   The active [[c_StockRules|stock rules]] of your stockroom. The stock rule cards from the contextual sidebar help you know if the stock is less than the threshold and if the model has reached the end of sale.
+    -   The active stock rules of your stockroom. The stock rule cards from the contextual sidebar help you know if the stock is less than the threshold and if the model has reached the end of sale.
     -   The hours that the stockroom is available are shown in the **Hours of operation** field.
     -   The location of the stockroom based on the specified address is shown in the interactive map. To view all service locations and distribution channels associated with the stockroom, select **Toggle full screen view**.
     -   Options to enable AI agents in the Help manage hardware asset requests agentic workflow to source hardware assets requests autonomously are available in the Sourcing by AI agents section. The auto-sourcing options include the following:
@@ -58,15 +58,8 @@ Role required: admin or asset
         -   **4 Weeks**
 7.  View the service locations and distribution channels of the stockroom and details of different types of assets in the stockroom by selecting the tabs corresponding to the asset type.
 
-    **Note:** The tabs related to the enterprise assets appear only if the [[enterprise-asset-management|Enterprise Asset Management]] application is installed on your ServiceNow® instance. If you select an enterprise asset, you’re automatically redirected to the corresponding record in the [[using-eam-workspace|Enterprise Asset Workspace]]. If you have access to an enterprise asset, you also have access to the Enterprise Asset Workspace. For more details, see [Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-eam-workspace.md).
+    **Note:** The tabs related to the enterprise assets appear only if the Enterprise Asset Management application is installed on your ServiceNow® instance. If you select an enterprise asset, you’re automatically redirected to the corresponding record in the Enterprise Asset Workspace. If you have access to an enterprise asset, you also have access to the Enterprise Asset Workspace. For more details, see [Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-eam-workspace.md).
 
 
 **Parent Topic:**[Manage stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-your-stockrooms.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_StockRules|Stock rules]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

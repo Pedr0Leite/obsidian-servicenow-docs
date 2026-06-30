@@ -14,21 +14,21 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Predictive Intelligence for Change Management
 
-The Predictive Intelligence for Change Management capability uses machine-learning algorithms to suggest standard templates, identify similar incidents, and enhance [[c_RskAsmtCalc|risk assessment]] for the change.
+The Predictive Intelligence for Change Management capability uses machine-learning algorithms to suggest standard templates, identify similar incidents, and enhance risk assessment for the change.
 
 Predictive Intelligence for Change Management delivers the following benefits:
 
 -   Enhanced change risk calculation using machine-learning algorithms to assess change risk.
--   Uses Predictive Intelligence clustering capability to identify and suggest Standard [[change-templates|Change templates]] to create a change.
+-   Uses Predictive Intelligence clustering capability to identify and suggest Standard Change templates to create a change.
 
 ## Solution definitions for Predictive Intelligence for Change Management
 
 The Solutions definitions for Predictive Intelligence for Change Management capability are available after you activate the following plugins:
 
--   [[c_ITILChangeManagement|Change Management]] - Risk Intelligence plugin \(com.snc.change\_management.ml.risk\)
+-   Change Management - Risk Intelligence plugin \(com.snc.change\_management.ml.risk\)
 -   Change Management - Standard Change Template Intelligence plugin \(com.snc.change\_management.ml.sctp\)
 
-**Note:** Predictive intelligent for [[change-plugins|Change Management plugins]] can be requested through the Now Support Customer Service system.
+**Note:** Predictive intelligent for Change Management plugins can be requested through the Now Support Customer Service system.
 
 For more information, see [Change Management plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-plugins.md).
 
@@ -54,7 +54,7 @@ Similarity and Categorization
 
 </td><td>
 
-Provides insight into the potential risk of the change activity and facilitates intelligent approval decisions. The info message puts all the risk related information to easily compare the returned value.This prediction helps in reducing approval friction and time. For example, when risk = low, you can use [[change-approval-policy|Change Approval Policies]] to automatically approve this low risk activity.
+Provides insight into the potential risk of the change activity and facilitates intelligent approval decisions. The info message puts all the risk related information to easily compare the returned value.This prediction helps in reducing approval friction and time. For example, when risk = low, you can use Change Approval Policies to automatically approve this low risk activity.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Analyzes and suggests opportunities for Standard Change proposal templates that 
 
 </td></tr></tbody>
 </table>-   **[Intelligent solutions system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-intelligentsoln-properties.md)**  
-Administrators can configure the Change Management [[change-mgmt-intelligentsoln-properties|Intelligent solutions system properties]] to use predictive intelligence \(PI\) capabilities.
+Administrators can configure the Change Management Intelligent solutions system properties to use predictive intelligence \(PI\) capabilities.
 -   **[Train the Risk Intelligence solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/train-risk-intelligence-solution.md)**  
 Create Risk categorization or similarity solution definitions to use the predictive intelligence that helps in accessing change risk.
 -   **[Train the clustering solution for standard change proposal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/train-std-chg-proposal-soln.md)**  
@@ -78,11 +78,3 @@ Train the Standard change proposal solution definition to use clustering capabil
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[change-templates|Change templates]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-plugins|Change Management plugins]]
-- [[change-approval-policy|Change approval policies]]
-- [[change-mgmt-intelligentsoln-properties|Intelligent solutions system properties]]

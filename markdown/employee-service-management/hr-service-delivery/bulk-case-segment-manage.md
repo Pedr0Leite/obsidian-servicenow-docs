@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Bulk Case Requests**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Bulk Case Requests**.
 
 2.  Select any bulk case request that has a status of **Ready**.
 
@@ -45,7 +45,7 @@ Role required: sn\_hr\_core.admin
     -   Duplicate: The user has a duplicate record, do not create a case.
     The **Note** column provides information on the status. The definitions are:
 
-    -   No hr\_service.hr\_criteria specified: [[hr-criteria|HR criteria]] was not used in selecting the user for the user group segment.
+    -   No hr\_service.hr\_criteria specified: HR criteria was not used in selecting the user for the user group segment.
     -   User satisfies hr\_service.hr\_criteria: HR criteria was used in selecting the user for the user group segment.
     -   User do not satisfy hr\_service.hr\_criteria: The user did not meet the HR criteria selected and is excluded from the user group segment.
     -   User from user-segment-group&lt;group-label&gt; with sys\_id&lt;unique-id&gt; is included: The user is marked as a duplicate.
@@ -57,7 +57,3 @@ Role required: sn\_hr\_core.admin
 
 **Parent Topic:**[Creating bulk cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/bulk-case.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[hr-criteria|HR criteria]]

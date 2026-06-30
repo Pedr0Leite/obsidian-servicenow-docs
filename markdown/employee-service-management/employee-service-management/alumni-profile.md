@@ -26,7 +26,7 @@ For more information, see [Add other employment details](https://raw.githubuserc
 
 ## Past employment details
 
-Your legacy employment details in the organization appear here automatically from your ex-[[c_HRProfileRecords|HR profile]]. If any details are missing, create a service request to update them.
+Your legacy employment details in the organization appear here automatically from your ex-HR profile. If any details are missing, create a service request to update them.
 
 \[Omitted image "alumni-profile-sn-emp-details.png"\] Alt text: Past employment details
 
@@ -54,6 +54,3 @@ Enable or disable email notifications for recommended job opportunities, news, a
 
 \[Omitted image "alumni-profile-preferences.png"\] Alt text: Preferences
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]

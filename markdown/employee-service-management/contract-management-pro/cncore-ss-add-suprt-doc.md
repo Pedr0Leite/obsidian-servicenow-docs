@@ -41,7 +41,7 @@ You can attach supporting documents only when the State is Draft or Work in prog
 4.  In the Upload from drop-down, select a storage type and upload a new document.
 
     -   **Computer**: Select **Attach File** and upload a document.
-    -   **Inbound Email**: In the Document field, select the document that is displayed based on an attachment in the [[activity-lxp|activity]] stream.
+    -   **Inbound Email**: In the Document field, select the document that is displayed based on an attachment in the activity stream.
 5.  Add more information about the document in the **Work notes** field.
 
 6.  Select **Upload**.
@@ -51,6 +51,3 @@ You can attach supporting documents only when the State is Draft or Work in prog
 
 **Parent Topic:**[Use non-self-served contract request]()
 
-## Related
-
-- [[activity-lxp|Activity]]

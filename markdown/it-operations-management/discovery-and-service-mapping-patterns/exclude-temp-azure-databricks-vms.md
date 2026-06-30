@@ -18,7 +18,7 @@ Reduce short-lived configuration item \(CI\) records by excluding temporary Azur
 
 ## Before you begin
 
-Verify that you have at least version 1.30.2 of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns.
+Verify that you have at least version 1.30.2 of Discovery and Service Mapping Patterns.
 
 Role required: admin
 
@@ -48,7 +48,3 @@ By default, Discovery includes temporary Azure Databricks VMs in discovery resul
 
 [Microsoft Azure Cloud discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/azure-cloud-discovery-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -18,9 +18,9 @@ Integrating with the ServiceNow® Continual Improvement Management application e
 
 Integration with the ServiceNow® Continual Improvement Management \(CIM\) application enables you to request and view process improvement-related initiatives and add tasks to existing initiatives.
 
-The [[process-mining|Process Mining]] plugin \(com.sn\_po\) provides an integration between the Process Mining and Continual Improvement Management applications. Continual Improvement Management integrates with activation of the CIM \(com.sn\_cim\) plugin.
+The Process Mining plugin \(com.sn\_po\) provides an integration between the Process Mining and Continual Improvement Management applications. Continual Improvement Management integrates with activation of the CIM \(com.sn\_cim\) plugin.
 
-From Process Mining: When you [[create-improvement-initiative|create an improvement initiative from Process Mining]], a reference to the project is added to the continual improvement record.
+From Process Mining: When you create an improvement initiative from Process Mining, a reference to the project is added to the continual improvement record.
 
 From Continual Improvement Management: Launch the Process Mining Analyst workbench from CIM.
 
@@ -94,7 +94,3 @@ As an improvement manager, you use your Continual Improvement Management Workben
 
 From the initiative form, you select **Go to Process Mining**. The action navigates you to a generated project in the Process Mining Analyst workbench showing cases that were closed in the last three months.
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[create-improvement-initiative|Create an improvement initiative from Process Mining]]

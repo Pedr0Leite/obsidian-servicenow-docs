@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Data model
 
-The data model for [[telecom-network-inventory|Telecommunications Network Inventory]] displays the relationships between your network assets, infrastructure, and services. With this information, you can provision new services, modify existing services, maintain the network, and plan the forecast for the network growth in your organization.
+The data model for Telecommunications Network Inventory displays the relationships between your network assets, infrastructure, and services. With this information, you can provision new services, modify existing services, maintain the network, and plan the forecast for the network growth in your organization.
 
 The data model contains the details about your network assets, such as the telco equipment configuration data, port availability of a framework, and bandwidth allocations between your sites and services. This data model enables you to build, manage, maintain, and allocate the network infrastructure and services. Further, this data model provides a for the automation of design and creation of your network equipment and connections that support the customer service orders and internal network orders.
 
@@ -111,7 +111,7 @@ Represents a device that provides the technical functionality in a network. Exam
 
  Use the equipment record to track and manage the details of your telco equipment. To learn more, see
 
- [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md).To learn more about the [[equipment-extension-classes|equipment extension classes]], see [Equipment extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/equipment-extension-classes.md).
+ [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md).To learn more about the equipment extension classes, see [Equipment extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/equipment-extension-classes.md).
 
 </td></tr><tr><td>
 
@@ -183,7 +183,7 @@ Topology \[cmdb\_ci\_topology\]
 
 </td><td>
 
-[[using-network-topology|Network Topology]] \[cmdb\_ci\_network\_topology\]
+Network Topology \[cmdb\_ci\_network\_topology\]
 
 </td><td>
 
@@ -211,8 +211,3 @@ Represent power, HVAC, network, and their connectivity in a data center.To learn
 
 [Network Inventory \(NI\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[equipment-extension-classes|Equipment extension classes]]
-- [[using-network-topology|Network topology]]

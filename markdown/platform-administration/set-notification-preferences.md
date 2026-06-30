@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Set notification preferences
 
-View, enable, and disable general settings for [[preferences-landing|notification preferences]], and delivery channels.
+View, enable, and disable general settings for notification preferences, and delivery channels.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  From your user profile, navigate to **Preferences** &gt; **[[notifications|Notifications]]**.
+1.  From your user profile, navigate to **Preferences** &gt; **Notifications**.
 
 2.  Select the **General** tab.
 
@@ -50,7 +50,7 @@ Enable or disable all notifications.
 
 </td><td>
 
-Customize notification preferences for [[system-notifications-landing|system notifications]], custom notifications, and delivery channels.
+Customize notification preferences for system notifications, custom notifications, and delivery channels.
 
 </td></tr><tr><td id="d130518e118">
 
@@ -78,11 +78,5 @@ Enable or disable individual delivery channels.
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]
-- [[system-notifications-landing|System notifications]]

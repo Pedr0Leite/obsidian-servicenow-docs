@@ -14,10 +14,10 @@ breadcrumb: [Using Instance Scan, Instance Scan, Maintain and monitor, Administe
 
 # Reviewing of scans
 
-After the scans have been executed, you can review them with the [[hs-findings|findings]] and [[hs-results|results]] components.
+After the scans have been executed, you can review them with the findings and results components.
 
--   [Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-results.md): An [[hs-landing-page|Instance Scan]] result reports the status and type of scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs. Use [Scan Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-scan-results.md) dashboard to get detailed information about an executed scan.
--   [Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-findings.md): A finding is a [[reference-email-admin|reference]] to a record that has violated a check which was used in a scan. You can also [mute a finding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-update-scan-finding-form.md) if you don't want a finding to be reported in the next scan.
+-   [Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-results.md): An Instance Scan result reports the status and type of scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs. Use [Scan Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-scan-results.md) dashboard to get detailed information about an executed scan.
+-   [Findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-findings.md): A finding is a reference to a record that has violated a check which was used in a scan. You can also [mute a finding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hc-update-scan-finding-form.md) if you don't want a finding to be reported in the next scan.
 
 -   **[Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-results.md)**  
 An Instance Scan result reports the status and type of scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs.
@@ -49,9 +49,3 @@ A finding is a reference to a record that has violated a rule from a check on th
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-findings|Findings]]
-- [[hs-results|Results]]
-- [[hs-landing-page|Instance Scan]]
-- [[reference-email-admin|Reference]]

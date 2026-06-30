@@ -14,7 +14,7 @@ breadcrumb: [Manage contractors, Health and Safety Contractor Management, Health
 
 # Add a contractor from the Health and Safety Workspace
 
-Add a contractor worker to a company listed in the [[health-safety-core-workspace|Health and Safety Workspace]] workspace.
+Add a contractor worker to a company listed in the Health and Safety Workspace workspace.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety Workspace**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Add a contractor.
 
@@ -58,7 +58,7 @@ Steps
 
 </td></tr><tr><td id="d561265e171">
 
-**From [[health-and-safety-user-profile|Health and Safety user profile]] list**
+**From Health and Safety user profile list**
 
 </td><td>
 
@@ -68,7 +68,7 @@ Steps
 
 **Note:**
 
-    -   The **Type** field must be set to contractor. Only the users with \[snc\_external\] role appear in the **User** list. When the form is saved, the role \[sn\_hs\_csc.contractor\] is assigned to the contractor. This role is needed to access the [[hs-contractor-service-center-landing-page|Contractor Service Center]].
+    -   The **Type** field must be set to contractor. Only the users with \[snc\_external\] role appear in the **User** list. When the form is saved, the role \[sn\_hs\_csc.contractor\] is assigned to the contractor. This role is needed to access the Contractor Service Center.
     -   Select the company in the **Company** field for the contractor to appear in the company's worker tab.
 
 **Note:** If the company isn’t selected, the Health and Safety profile for the contractor is still created with the correct roles to access to the Contractor Service Center, but the contractor doesn’t appear under any contractor company.
@@ -88,9 +88,3 @@ You can assign a task to the contractor or upload any documents obtained from th
 -   For more information to add a document for a contractor, see [Add a document to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-add-document-contractor-worker.md).
 -   To configure the Health and Safety profile for a contractor, see [Assign Health and Safety profile to a contractor worker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-assign-hs-user-profile-contract-worker.md).
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]

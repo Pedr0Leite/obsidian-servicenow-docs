@@ -12,7 +12,7 @@ breadcrumb: [Data Models, Explore, Financial Services Operations \(FSO\)]
 
 # Financial Services Operations Core
 
-The [[fso-overview|Financial Services]] Operations \(FSO\) Core application provides a framework to enable financial institutions to organize and manage their data effectively to meet their business needs. This section introduces FSO Core and explains its purpose and key data design components.
+The Financial Services Operations \(FSO\) Core application provides a framework to enable financial institutions to organize and manage their data effectively to meet their business needs. This section introduces FSO Core and explains its purpose and key data design components.
 
 ## Introduction to FSO Core
 
@@ -115,19 +115,12 @@ Captures the treasury services a customer has enabled for a specific Financial A
 -   Standing sweep services on a financial account
 
 </td></tr></tbody>
-</table>-   **[[fso-core-relationships|Understanding FSO Core relationships]]**  
+</table>-   **[Understanding FSO Core relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-relationships.md)**  
 This section describes the key tables in FSO Core and their relationships. Understanding these relationships helps you manage data effectively and enhances system functionality.
--   **[[fso-core-banking-tables|FSO Core Banking tables]]**  
+-   **[FSO Core Banking tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-banking-tables.md)**  
 This section describes the banking tables in FSO Core and shows how they store and manage banking information.
--   **[[fso-core-insurance-tables|FSO Core Insurance tables]]**  
+-   **[FSO Core Insurance tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-core-insurance-tables.md)**  
 This section explains the insurance tables in FSO Core and how they handle insurance data.
 
-**Parent Topic:**[[data-models|Data Models]]
+**Parent Topic:**[Data Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/data-models.md)
 
-## Related
-
-- [[fso-core-relationships|Understanding FSO Core relationships]]
-- [[fso-core-banking-tables|FSO Core Banking tables]]
-- [[fso-core-insurance-tables|FSO Core Insurance tables]]
-- [[data-models|Data Models]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Service Management Integrations Framework, Integration o
 
 # Configure Enterprise Service Management Integrations Framework
 
-Understand how to set up [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] to use for integration with third-party systems.
+Understand how to set up Enterprise Service Management Integrations Framework to use for integration with third-party systems.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ To set up Enterprise Service Management Integrations Framework, you must first a
 
     For more information, refer to [Create a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md).
 
-    **Note:** The flows or [[flows-ukg|subflows]] that you are parsing into integration services must follow the input and output structure of Template Integration Service.
+    **Note:** The flows or subflows that you are parsing into integration services must follow the input and output structure of Template Integration Service.
 
 4.  Create an integration service to connect with the third-party system.
 
@@ -47,10 +47,5 @@ To set up Enterprise Service Management Integrations Framework, you must first a
     **Note:**
 
     -   You must create transformation maps only for Schedule Pull services, and not for Ondemand Push services.
-    -   If you are [[use-integrations-framework|using Enterprise Service Management Integrations Framework]] to pull tasks from a third-party system, use the Pull to-do transform map.
+    -   If you are using Enterprise Service Management Integrations Framework to pull tasks from a third-party system, use the Pull to-do transform map.
 
-## Related
-
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[flows-ukg|Subflows]]
-- [[use-integrations-framework|Using Enterprise Service Management Integrations Framework]]

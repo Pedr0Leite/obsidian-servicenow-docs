@@ -14,12 +14,12 @@ breadcrumb: [Configuring Event Management, Event Management, ITOM AIOps, IT Oper
 
 # Manage and monitor alerts
 
-An alert is a notification for selected events that are considered to be important and require attention. [[c_EM|Event Management]] generates alerts based on [[create-event-rules|event rules]].
+An alert is a notification for selected events that are considered to be important and require attention. Event Management generates alerts based on event rules.
 
 You can monitor and resolve alerts in ways that are based on alert impact calculations and alert configuration and property settings.
 
 -   **[Alert management rules for resolving alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-management-rule.md)**  
-You can configure Event Management to respond to alerts automatically. An alert management rule determines the required alert response, such as to open an incident, knowledge base article, open a task, launch [[ccg-remediation|remediation]] action.
+You can configure Event Management to respond to alerts automatically. An alert management rule determines the required alert response, such as to open an incident, knowledge base article, open a task, launch remediation action.
 -   **[CI Remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-remediation.md)**  
 Alert and configuration item \(CI\) remediations help troubleshoot and resolve underlying problems that generate alerts. Remediation is based on Orchestration workflows that can be scripted to perform remediation tasks such as gathering system information or rebooting a server.
 -   **[How alerts work with CIs in maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMHowImpactTree.md)**  
@@ -29,7 +29,7 @@ Event Management supports the creation of SLAs for application services and for 
 -   **[Alert lifecycle configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlertRule.md)**  
 Event Management provides various modules, templates, and properties for configuring alerts and the actions that execute for these alerts.
 -   **[Alert priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-priority.md)**  
-Determine the order in which to handle alerts according to the [[alert-priority|alert priority]] score. Multiple factors determine the alert priority score and this value changes with changes to the underlying factors.
+Determine the order in which to handle alerts according to the alert priority score. Multiple factors determine the alert priority score and this value changes with changes to the underlying factors.
 -   **[Alert assignment groups for teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-assignment-group.md)**  
 Alert assignment groups assign alerts to the right teams promptly and automatically, improving overall incident management capabilities.
 -   **[Configuring Express List views for users and user groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/manage-views-express-list.md)**  
@@ -45,9 +45,9 @@ Use maintenance rules to mark CIs in maintenance status. When in maintenance sta
 -   **[Resolve an incident related to an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMResolveCloseIncidentAlert.md)**  
 When you resolve an incident that is associated with an alert, the alert can also close according to the **evt\_mgmt.incident\_closes\_alert** property.
 -   **[Close an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCloseAlert.md)**  
-[[t_EMCloseAlert|Close an alert]] by an event or a user action. Closing an alert also closes any related incident that is not already resolved or closed.
+Close an alert by an event or a user action. Closing an alert also closes any related incident that is not already resolved or closed.
 -   **[Reopen an alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMReopenAlert.md)**  
-Additional events can cause reopening of alerts, or you can [[t_EMReopenAlert|reopen an alert]] by changing its state. When an alert reopens, any associated incidents can also be updated or reopened according to the incident state and the **evt\_mgmt.alert\_reopens\_incident** property.
+Additional events can cause reopening of alerts, or you can reopen an alert by changing its state. When an alert reopens, any associated incidents can also be updated or reopened according to the incident state and the **evt\_mgmt.alert\_reopens\_incident** property.
 -   **[Alert insight properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-alert-insight-properties.md)**  
 Use these properties to configure alert insight.
 -   **[Rotate event and alert table for cleanup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/rotate-tables-purge-data.md)**  
@@ -55,11 +55,3 @@ The growth of data tables impedes performance. Preserve instance performance by 
 
 **Parent Topic:**[Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]
-- [[ccg-remediation|Remediation]]
-- [[alert-priority|Alert priority]]
-- [[t_EMCloseAlert|Close an alert]]
-- [[t_EMReopenAlert|Reopen an alert]]

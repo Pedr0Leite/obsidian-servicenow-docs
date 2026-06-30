@@ -16,8 +16,8 @@ Add users as staff members to a business location so that they can support accou
 
 |Task|Description|
 |----|-----------|
-|[[add-user-internal-bus-location|Add staff members to an internal business location]]|Add internal users with the snc\_internal role as staff members to an internal business location.|
-|[[add-user-external-bus-location|Add staff members to an external business location]]|Add both internal users with the snc\_internal role and external users with the snc\_external role as staff members to an external business location.|
+|[Add staff members to an internal business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-user-internal-bus-location.md)|Add internal users with the snc\_internal role as staff members to an internal business location.|
+|[Add staff members to an external business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-user-external-bus-location.md)|Add both internal users with the snc\_internal role and external users with the snc\_external role as staff members to an external business location.|
 
 **Related topics**  
 
@@ -26,7 +26,3 @@ Add users as staff members to a business location so that they can support accou
 
 [Add staff members to an external business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-user-external-bus-location.md)
 
-## Related
-
-- [[add-user-internal-bus-location|Add staff members to an internal business location]]
-- [[add-user-external-bus-location|Add staff members to an external business location]]

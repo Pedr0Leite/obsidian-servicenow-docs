@@ -109,7 +109,7 @@ You can also customize the **app-devops-gitlab** public repository and create yo
 
 ## Proxy configuration
 
-If your GitLab instance runs behind a proxy server or you want to route requests through a proxy, you must configure proxy [[settings-mobile|settings]] using environment variables in your Docker deployment.
+If your GitLab instance runs behind a proxy server or you want to route requests through a proxy, you must configure proxy settings using environment variables in your Docker deployment.
 
 Configure the following environment variables for proxy support:
 
@@ -372,7 +372,7 @@ autoCloseChange: [optional] : Boolean value
 
 ## Security scan results
 
-Add the ServiceNow DevOps [[security-tool-framework|Security Scan Results]] custom step at the job level to retrieve security scan results. For example:
+Add the ServiceNow DevOps Security Scan Results custom step at the job level to retrieve security scan results. For example:
 
 ```
 stages:
@@ -828,7 +828,3 @@ pipeline:
 
 **Note:** If you want to add the Sonar Scan Results and Security Scan Results on the same stage, you can use different step names for both the custom actions by updating their default value in the **sonar\_step\_names** and **security\_step\_names** fields in the sn\_devops\_tool\_integration\_configuration table.
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[security-tool-framework|Security scan results]]

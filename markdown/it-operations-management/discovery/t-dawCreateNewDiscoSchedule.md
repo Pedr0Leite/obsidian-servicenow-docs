@@ -15,7 +15,7 @@ breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, IT
 
 # Create an IP-based Discovery schedule in Discovery Admin Workspace
 
-Use the [[discovery-admin-workspace|Discovery Admin Workspace]] dashboard to create IP-based [[r-discovery|Discovery]] schedules.
+Use the Discovery Admin Workspace dashboard to create IP-based Discovery schedules.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Role required: discovery\_admin
     |**Run at a scheduled time**|The schedule runs at a scheduled date and time. Use the fields to define when the schedule runs.|
     |**Run after series**|The schedule runs after another existing Discovery schedule completes, staggering or chaining them together. Selecting an existing schedule displays a relationship map of all the other associated schedules.|
     |**Cancel discovery if longer than maximum runtime**|If the schedule exceeds the maximum runtime, it's canceled. After toggled, configure the runtime threshold.|
-    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a [[c_DiscoveryStatus|Discovery status]] is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
+    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a Discovery status is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
     |**Finish**|After being selected, all the information provided is validated. A Discovery schedule is created and you're redirected to its entry in the Discovery Schedules \[discovery\_schedule\] table. You can edit the schedule information or run it by selecting **Discover Now**.|
 
 
@@ -72,8 +72,3 @@ After you create and save a Discovery schedule, you can optionally configure the
 -   Define IP addresses or ranges to exclude from all Discovery schedules. See [Use Global Excludes List for IP addresses and ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-ip-address-configuration.md).
 -   Define Discovery schedule attributes to automatically set CI field values such as location or asset tag on discovered CIs. You can define attributes at the schedule, range set, or IP address range level. See [Define CI field attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/define-ci-attributes.md).
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

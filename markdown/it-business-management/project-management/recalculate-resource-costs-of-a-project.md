@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Recalculating costs of all resource plans in a project
 
-Recalculate the resource costs of all [[c_ResourcePlans|resource plans]] in a project whenever the hourly rates change in the associated rate model so that the plan costs are up to date.
+Recalculate the resource costs of all resource plans in a project whenever the hourly rates change in the associated rate model so that the plan costs are up to date.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ This option recalculates the costs of all resource plans of the project at once.
 
 2.  Open a project.
 
-3.  On the [[create-a-project-form|Project form]], right-click on the header bar and select the **Recalculate Resource Costs** option.
+3.  On the Project form, right-click on the header bar and select the **Recalculate Resource Costs** option.
 
 4.  In the Recalculate Resource Cost dialog box, fill in the fields.
 
@@ -97,7 +97,7 @@ Option for including the planned cost of a Confirmed or Allocated plan.The optio
 ## Result
 
 -   Recalculates the selected resource costs of all the applicable resource plans in the project based on the latest hourly rates. The hourly rates are derived from the rate model associated with the project.
--   Updates the recalculated resource costs on the respective cost fields on the [[rsrc-plan-form|resource plan form]] and the Resource Plans related list.
+-   Updates the recalculated resource costs on the respective cost fields on the resource plan form and the Resource Plans related list.
 -   Reflects the revised values on the respective cost fields of the project.
 
 **Parent Topic:**[Starting a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md)
@@ -149,8 +149,3 @@ Option for including the planned cost of a Confirmed or Allocated plan.The optio
 
 [Migrate financial baselines of projects to Next Experience]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[create-a-project-form|Project form]]
-- [[rsrc-plan-form|Resource Plan form]]

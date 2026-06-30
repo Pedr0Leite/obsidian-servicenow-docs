@@ -14,7 +14,7 @@ breadcrumb: [Define a custom encryption rule, Configuring Edge Encryption, Edge 
 
 # Encryption rule actions
 
-An [[encryption-landing|encryption]] rule maps fields in a client [[c_requestAPI|request]] to fields in a table on your instance and identifies fields marked for encryption.
+An encryption rule maps fields in a client request to fields in a table on your instance and identifies fields marked for encryption.
 
 An encryption rule action only runs when the encryption rule condition returns true. An encryption rule identifies the data to be encrypted in your request payload. Because the rule iterates over the content in the request object, you must understand the form and structure of your request body and determine what in the request must be encrypted. The data to be encrypted might be located within:
 
@@ -33,7 +33,3 @@ Before writing an encryption rule action, be sure to:
 
 **Parent Topic:**[Define a custom encryption rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionRules.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]

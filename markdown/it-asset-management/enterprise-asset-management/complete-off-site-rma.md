@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_asset\_manager or enterprise\_asset\_technici
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the [[inventory-view-am|Inventory view]].
+1.  From the Enterprise Asset Workspace, open the Inventory view.
 
 2.  Select the **RMA orders** tab.
 
@@ -295,7 +295,7 @@ Notes about the task that are visible to all users within your organization.
 
 The RMA order line moves to the **Completed** stage.
 
-If the asset vendor successfully replaced the defective enterprise asset with a new one, the **Details** tab of the RMA order line automatically updates with information about the new enterprise asset, including the name, model, and stockroom of the asset. In addition, the [[enterprise-asset-management|Enterprise Asset Management]] application automatically retires the defective enterprise asset, triggering the **State** and **Substate** fields to change to **Retired** and **Vendor credit** in the corresponding asset record.
+If the asset vendor successfully replaced the defective enterprise asset with a new one, the **Details** tab of the RMA order line automatically updates with information about the new enterprise asset, including the name, model, and stockroom of the asset. In addition, the Enterprise Asset Management application automatically retires the defective enterprise asset, triggering the **State** and **Substate** fields to change to **Retired** and **Vendor credit** in the corresponding asset record.
 
 If the asset vendor successfully repaired the defective enterprise asset, the **State** and **Substate** fields change to **In stock** and **Available** in the corresponding asset record.
 
@@ -307,8 +307,3 @@ Complete the RMA process for any remaining RMA order lines within the RMA order.
 
 **Parent Topic:**[Closing a Return Merchandise Authorization \(RMA\) order for your defective enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/closing-rma-order.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

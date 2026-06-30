@@ -18,11 +18,11 @@ Initiate AI assessment for the whole AI asset.
 
 ## Before you begin
 
-Role required: AI Asset Owner or [[ai-risk-and-compliance|AI Risk and Compliance]] Analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\]
+Role required: AI Asset Owner or AI Risk and Compliance Analyst \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_analyst\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-airc-ws.png"\] Alt text:.
 
@@ -46,7 +46,7 @@ Assessment template
 
 </td><td>
 
-The assessment template you use to perform the AI assessment. You can see the list of all published [[airc-assessment-templates|assessment templates]] in this drop-down list.
+The assessment template you use to perform the AI assessment. You can see the list of all published assessment templates in this drop-down list.
 
  For information about publishing, see [Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-assessment-templates.md).
 
@@ -100,8 +100,3 @@ Description of the AI assessment.
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[airc-assessment-templates|Assessment templates]]

@@ -12,13 +12,13 @@ breadcrumb: [Secrets Management dashboard, Secrets Management, Platform Security
 
 # Run Secrets Management security jobs
 
-Schedule a [[secrets-management|Secrets Management]] job to perform [[encryption-landing|encryption]] tasks on secrets fields on your instance.
+Schedule a Secrets Management job to perform encryption tasks on secrets fields on your instance.
 
 ## Before you begin
 
 Role required: sn\_kmf.admin, security\_admin, and sn\_secrets.admin
 
-To perform these steps, you must elevate to the [[security-admin-role|security\_admin role]]. For details on this process see, [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
+To perform these steps, you must elevate to the security\_admin role. For details on this process see, [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md)
 
 ## Procedure
 
@@ -156,12 +156,5 @@ Displays information about the job progress. Summary also displays records that 
 
 The job queries all data that should match the selected secret group. If all the data found by the query is already in the group, the job makes no changes. If the query finds data that is not yet in the group, the job re-encrypts this data within the Secret Group. \(If the instance can decrypt it, which may not be the case for client side-encrypted secrets\).
 
-**Parent Topic:**[[secrets-dashboard|Secrets Management dashboard]]
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[secrets-management|Secrets Management]]
-- [[encryption-landing|Encryption]]
-- [[security-admin-role|Security\_admin role]]

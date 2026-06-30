@@ -16,7 +16,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Manage the deny-list passwords in the Excluded Password table.
 
-Use the **glide.enable.blacklist\_password** property to monitor deny-list passwords. When the property is set to `true`, the user's password is checked against a specific list of deny-listed passwords. This denial prevents [[users|users]] from using a password from a set of breached passwords. You can maintain the list by inserting passwords into the Excluded Password \[blacklisted\_password\] table. ServiceNow provides a small, medium, or large password list that can be inserted to the Excluded Password table through the UI page found at **All** &gt; **Password Policy** &gt; **Exclusion List Management**. ServiceNow installs the small list of 5,000 passwords to new instances.
+Use the **glide.enable.blacklist\_password** property to monitor deny-list passwords. When the property is set to `true`, the user's password is checked against a specific list of deny-listed passwords. This denial prevents users from using a password from a set of breached passwords. You can maintain the list by inserting passwords into the Excluded Password \[blacklisted\_password\] table. ServiceNow provides a small, medium, or large password list that can be inserted to the Excluded Password table through the UI page found at **All** &gt; **Password Policy** &gt; **Exclusion List Management**. ServiceNow installs the small list of 5,000 passwords to new instances.
 
 Ensure that the **glide.enable.blacklist\_password** system property is set to `true` and that the Excluded Password \[blacklisted\_password\] table contains a minimum of 5,000 records.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -45,7 +45,7 @@ Configuration type
 
 </td><td>
 
--   [[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+-   System Properties \(/sys\_properties\_list.do\)
 -   Table record \(/blacklisted\_password\_list.do\)
 
 </td></tr><tr><td>
@@ -100,7 +100,7 @@ Security risk
 
 -   Severity score: 5.9
 -   CVSS score: Medium
--   Security risk details: Attackers often target commonly used or previously exposed passwords. This can lead to account compromise through credential stuffing or brute-force attacks. Enforcing deny-listed password checks strengthens [[c_Authentication|authentication]] security and reduces exposure to credential-based attacks.
+-   Security risk details: Attackers often target commonly used or previously exposed passwords. This can lead to account compromise through credential stuffing or brute-force attacks. Enforcing deny-listed password checks strengthens authentication security and reduces exposure to credential-based attacks.
 
 </td></tr><tr><td>
 
@@ -129,9 +129,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[c_Authentication|Authentication]]

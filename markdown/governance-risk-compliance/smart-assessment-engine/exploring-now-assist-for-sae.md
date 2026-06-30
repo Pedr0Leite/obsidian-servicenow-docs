@@ -15,11 +15,11 @@ breadcrumb: [Now Assist, Smart Assessment Engine, Governance, Risk, and Complian
 
 # Exploring Now Assist for Smart Assessment Engine
 
-The Now Assist for SAE application uses generative AI to streamline key [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] tasks such as automatically drafting assessment responses by analyzing context, reusing previously answered questions, and supporting documents.
+The Now Assist for SAE application uses generative AI to streamline key Smart Assessment Engine tasks such as automatically drafting assessment responses by analyzing context, reusing previously answered questions, and supporting documents.
 
 ## Now Assist for SAE overview
 
-The following generative AI capabilities are available in [[now-assist-for-smart-assessment-engine|Now Assist for Smart Assessment Engine]]:
+The following generative AI capabilities are available in Now Assist for Smart Assessment Engine:
 
 -   Simplify and speed up routine SAE tasks with AI-powered assistance embedded in your records.
 -   Reduces time spent on repetitive tasks.
@@ -59,8 +59,3 @@ sn\_smart\_asmt.actor
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[now-assist-for-smart-assessment-engine|Now assist for smart assessment engine]]

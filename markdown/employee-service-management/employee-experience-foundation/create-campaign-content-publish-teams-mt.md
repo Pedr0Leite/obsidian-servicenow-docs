@@ -19,10 +19,10 @@ Create notifications to send messages directly to your employees through campaig
 ## Before you begin
 
 -   Install the necessary plugins:
-    -   [[employee-center-pro-landing|Employee Center Pro]] \[com.snc.employee\_center\_pro\]
+    -   Employee Center Pro \[com.snc.employee\_center\_pro\]
     -   IT Service Management for Microsoft 365 \[sn\_now\_teams\_it\]
     -   Glide Virtual Agent \[com.glide.cs.chatbot\]
-    -   [[hr-service-delivery|HR Service Delivery]] for Microsoft 365 \[sn\_now\_teams\_hr\]
+    -   HR Service Delivery for Microsoft 365 \[sn\_now\_teams\_hr\]
     -   Conversational Integration with Microsoft Teams \[sn\_va\_teams\]
     -   Content Publishing \[sn\_cd\]
     -   Content Experiences \[sn\_ca\]
@@ -100,7 +100,7 @@ Brief description of the notification.
 
 </td></tr><tr><td>
 
-[[employee-center-landing-page|Employee Center]] URL
+Employee Center URL
 
 </td><td>
 
@@ -136,8 +136,3 @@ Alternatively, you can build out a more robust publishing configuration using [C
 
 **Parent Topic:**[Create a Microsoft Teams campaign with content publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-campaign-content-publishing-mt.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]

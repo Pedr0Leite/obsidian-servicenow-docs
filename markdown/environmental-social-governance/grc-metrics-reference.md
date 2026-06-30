@@ -14,15 +14,10 @@ breadcrumb: [GRC: Metrics, Operational Sustainability Management \(formerly Envi
 
 Several properties, tables, and roles are installed with the GRC: Metrics application.
 
--   **[[tables-installed-with-metrics|Components installed with the GRC: Metrics application]]**  
+-   **[Components installed with the GRC: Metrics application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/tables-installed-with-metrics.md)**  
 When the Operational Sustainability Management application is activated, the GRC: Metrics application is automatically installed. The GRC: Metrics application adds several tables, properties, and roles that are listed here.
--   **[[metric-threshold-form-fields|Metric Threshold form fields]]**  
+-   **[Metric Threshold form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/metric-threshold-form-fields.md)**  
 Describes the fields in the Metric Threshold form.
 
-**Parent Topic:**[[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]
+**Parent Topic:**[Operational Sustainability Management \(formerly Environmental, Social, and Governance\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-landing-page.md)
 
-## Related
-
-- [[tables-installed-with-metrics|tables installed with metrics]]
-- [[metric-threshold-form-fields|Metric Threshold form fields]]
-- [[esg-landing-page|Operational Sustainability Management \(formerly Environmental, Social, and Governance\)]]

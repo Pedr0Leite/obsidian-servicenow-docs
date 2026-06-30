@@ -16,7 +16,7 @@ breadcrumb: [Using Predictive Intelligence, Predictive Intelligence, Enable AI e
 
 MLSolutionFactory scriptable objects enable defining ML functionality. You can use the APIs to compose data-driven functionality, such as subclustering large clusters or clusters with multiple PRBs attached.
 
-You can use scriptable objects in a scripted extension point to modify the [[predictive-intelligence-landing|Predictive Intelligence]] REST API method to address unique business use [[cases|cases]].
+You can use scriptable objects in a scripted extension point to modify the Predictive Intelligence REST API method to address unique business use cases.
 
 ServiceNow applications on the NOW platform can call scriptable objects and script includes. External applications can call scripted REST APIs. By default, the Predictive Intelligence REST API - Prediction for multiple solutions \(GET\) method uses the MLSolutionUtil scripted extension point to take a list of active solution names, run predictions on them given the input, and return results. The MLSolutionUtil extension point enables creating custom implementations for specific usage scenarios, for example, running a second solution prediction only after the condition of a first solution prediction is satisfied.
 
@@ -34,7 +34,3 @@ For more information, see
 -   Predictive Intelligence REST API
 -   MLSolutionFactory - Global
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[cases|Cases]]

@@ -12,7 +12,7 @@ breadcrumb: [Watermarks on notification emails, Email and SMS notifications, Sys
 
 # Omit an email notification watermark
 
-You can omit watermarks on email [[notifications|notifications]] if you do not want the instance to match the notification to an existing record.
+You can omit watermarks on email notifications if you do not want the instance to match the notification to an existing record.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ Role required: admin
 
 When incoming email does not contain a watermark, the system searches the subject line and message body for a record number. The system attempts to match any record number that it finds to an existing record. If there is a matching record number, the system updates the record with the values in the incoming email. To ensure that response email messages don't update records, remove the record number variable `${number}` from the **Subject** and **Message HTML** fields.
 
-**Parent Topic:**[[c_WorkingWithWatermarks|Watermarks on notification emails]]
+**Parent Topic:**[Watermarks on notification emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_WorkingWithWatermarks.md)
 
-## Related
-
-- [[c_WorkingWithWatermarks|Watermarks on notification emails]]
-- [[notifications|Notifications]]

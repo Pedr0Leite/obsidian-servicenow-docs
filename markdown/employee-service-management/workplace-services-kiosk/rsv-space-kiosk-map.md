@@ -20,20 +20,20 @@ Workplace visitors and guests with kiosk viewer role can make workplace reservat
 
 Install and configure the following from the ServiceNow Store.
 
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-services-kiosk|Workplace Services Kiosk]]
--   [[workplace-central-feat|Workplace Central]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
+-   Workplace Reservation Management
+-   Workplace Services Kiosk
+-   Workplace Central
+-   Workplace Indoor Mapping
+-   Workplace Core
+-   Workplace Space Management
 
 Make sure that your device is set up on a kiosk to enable workplace reservations. For more information, see [Setup a kiosk on a physical device for reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/kiosk-setup-rsv-space.md).
 
-You can’t add [[workplace-services|workplace services]] to a reservation in kiosk. Recurring, neighborhood, and browse near a person reservations aren’t supported for kiosk reservation.
+You can’t add workplace services to a reservation in kiosk. Recurring, neighborhood, and browse near a person reservations aren’t supported for kiosk reservation.
 
 Role required: sn\_wsd\_kiosk.viewer, sn\_wsd.core\_workplace\_user
 
-**Note:** The sn\_wsd.core\_workplace\_user \(workplace user\) role is part of the kiosk viewer role. Employees can log in with the sn\_wsd.core\_workplace\_user role to view, search for spaces on a floor map and [[reservation-portal|make a reservation]]. For more information, see [Components installed with Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/components-workplace-services-kiosk.md).
+**Note:** The sn\_wsd.core\_workplace\_user \(workplace user\) role is part of the kiosk viewer role. Employees can log in with the sn\_wsd.core\_workplace\_user role to view, search for spaces on a floor map and make a reservation. For more information, see [Components installed with Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/components-workplace-services-kiosk.md).
 
 Role: sn\_wsd\_kiosk.viewer.
 
@@ -185,13 +185,3 @@ Option to provide the Reservation subject details. For example, Reservation for 
 
 **Parent Topic:**[Using Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/use-workplace-services-kiosk.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-central-feat|Workplace Central]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-services|Workplace Services]]
-- [[reservation-portal|Make a reservation]]

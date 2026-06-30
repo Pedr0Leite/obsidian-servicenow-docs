@@ -46,7 +46,7 @@ Glide AJAX enabled
 
 </td><td>
 
-Options to make the scripted extension point available to client scripts, list/report filters, [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] qualifiers, or, if specified, as part of the URL.
+Options to make the scripted extension point available to client scripts, list/report filters, reference qualifiers, or, if specified, as part of the URL.
 
 </td></tr><tr><td>
 
@@ -114,7 +114,3 @@ Protection policy for script includes published as part of a custom application.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

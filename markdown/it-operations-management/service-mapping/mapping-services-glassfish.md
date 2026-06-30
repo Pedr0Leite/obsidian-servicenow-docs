@@ -14,7 +14,7 @@ breadcrumb: [Map a single application service using classic Service Mapping, App
 
 # Mapping application services containing Oracle GlassFish Servers
 
-[[c_ServiceMappingOverview|Service Mapping]] can discover application services containing Oracle GlassFish Servers.
+Service Mapping can discover application services containing Oracle GlassFish Servers.
 
 ## Discovered components
 
@@ -36,7 +36,7 @@ Protocol
 
 </th><th>
 
-[[r-discovery|Discovery]] type
+Discovery type
 
 </th><th>
 
@@ -255,8 +255,3 @@ There is no process running on the port that is part of the entry point.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Graph Designer, Knowledge Graph, Enable AI experien
 
 # Test a Knowledge Graph schema
 
-Promote functionality by entering a query and testing the [[knowledge-graph-landing|Knowledge Graph]] schema.
+Promote functionality by entering a query and testing the Knowledge Graph schema.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ Role required: kg\_admin
 
     \[Omitted image "test-kg-schema.png"\] Alt text: Test Knowledge Graph schema window.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]

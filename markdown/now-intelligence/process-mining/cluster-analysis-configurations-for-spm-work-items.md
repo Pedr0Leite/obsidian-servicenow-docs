@@ -14,7 +14,7 @@ breadcrumb: [SPM, Activate content packs, Activate, Process Mining, Platform Ana
 
 # Cluster analysis configurations for SPM work items
 
-The [[process-mining|Process Mining]] application provides solution definitions for demands, that you can use to configure [[cluster-analysis|cluster analysis]].
+The Process Mining application provides solution definitions for demands, that you can use to configure cluster analysis.
 
 **Important:** This feature is available with the ServiceNow Store Process Mining SPM content pack v1.0. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -32,7 +32,3 @@ The clustering solution definitions also contain the purity fields for demands, 
 
 **Parent Topic:**[Content pack for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-with-spm.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]

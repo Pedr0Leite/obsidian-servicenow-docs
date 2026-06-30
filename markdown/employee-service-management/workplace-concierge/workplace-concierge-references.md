@@ -14,19 +14,14 @@ breadcrumb: [Workplace Concierge, Workplace Service Delivery, Employee Service M
 
 # Workplace Concierge - Components
 
-Learn more about the components and the [[properties-installed-with-workplace-concierge|properties installed with Workplace Concierge]] application.
+Learn more about the components and the properties installed with Workplace Concierge application.
 
 -   **[Components installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/components-installed-with-workplace-concierge.md)**  
-Several types of components are installed with activation of the [[workplace-concierge-feat|Workplace Concierge]] application, including tables, user roles, and business rules.
+Several types of components are installed with activation of the Workplace Concierge application, including tables, user roles, and business rules.
 -   **[Properties installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md)**  
 Customize the system properties available with Workplace Concierge as required.
 -   **[Insights installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/insights-installed-workplace-concierge.md)**  
-The following insights are installed with the Workplace Concierge and [[proactive-prompts-for-hrsd|Proactive Prompts]] plugins.
+The following insights are installed with the Workplace Concierge and Proactive Prompts plugins.
 
 **Parent Topic:**[Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/workplace-concierge-feat.md)
 
-## Related
-
-- [[properties-installed-with-workplace-concierge|Properties installed with Workplace Concierge]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

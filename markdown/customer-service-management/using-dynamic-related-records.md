@@ -48,7 +48,7 @@ Use the filter at the top of the Related Records list to select the type of rela
 1.  Click the filter icon \(\[Omitted image "dynamic-related-records-filter-icon.png"\] Alt text: Related records list filter icon\).
 2.  Select a record type from the dropdown menu.
 
- The dropdown menu includes the related [[migration-lists|lists]] that have been configured for the parent record.
+ The dropdown menu includes the related lists that have been configured for the parent record.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,3 @@ Create a new record for the record type currently selected in the Related Record
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]

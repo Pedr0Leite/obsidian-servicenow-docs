@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-The following procedure describes how to deploy the DEX browser extension on multiple [[dex-workspace-devices-tab|devices]] using Microsoft Intune. Your organization might have a different method to accomplish this task.
+The following procedure describes how to deploy the DEX browser extension on multiple devices using Microsoft Intune. Your organization might have a different method to accomplish this task.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ The following procedure describes how to deploy the DEX browser extension on mul
 
 2.  Select **Create**.
 
-3.  Select the appropriate platform, then select **[[settings-mobile|Settings]] catalog** under **Profile type**, and then select **Create**.
+3.  Select the appropriate platform, then select **Settings catalog** under **Profile type**, and then select **Create**.
 
 4.  On the Basics tab, provide a meaningful profile name, then select **Next**.
 
@@ -61,7 +61,3 @@ The following procedure describes how to deploy the DEX browser extension on mul
 
 **Parent Topic:**[Deploying DEX to employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/deploying-dex-to-employees.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Supplier Relationship and Performance Management reference, Referen
 
 # Primary data tables for Supplier Relationship and Performance Management \(SRPM\)
 
-The primary data tables for [[supplier-performance-management-overview|Supplier Relationship and Performance Management]] store important information about KPI configurations, KPI data, and generated scores.
+The primary data tables for Supplier Relationship and Performance Management store important information about KPI configurations, KPI data, and generated scores.
 
 -   **[KPI Template table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-template-table.md)**  
 The KPI Template \[sn\_kpi\_template\] table stores the configurations required to create KPIs.
@@ -27,11 +27,7 @@ The Performance Domain \[sn\_kpi\_domain\] table stores the information about th
 -   **[Unit table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-unit-table.md)**  
 The Unit \[sn\_kpi\_unit\] table stores the information about the units created for KPIs.
 -   **[KPI Threshold table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/kpi-threshold-table.md)**  
-The KPI Threshold \[sn\_kpi\_threshold\] table stores the information about threshold values or value ranges configured for KPIs or [[kpi-templates|KPI templates]].
+The KPI Threshold \[sn\_kpi\_threshold\] table stores the information about threshold values or value ranges configured for KPIs or KPI templates.
 
 **Parent Topic:**[Supplier Relationship and Performance Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-relationship-and-performance-management-reference.md)
 
-## Related
-
-- [[supplier-performance-management-overview|Supplier Relationship and Performance Management]]
-- [[kpi-templates|KPI templates]]

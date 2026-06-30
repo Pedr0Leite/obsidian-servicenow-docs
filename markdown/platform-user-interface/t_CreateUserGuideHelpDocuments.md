@@ -55,7 +55,7 @@ Role required: admin
         |Field|Description|
         |-----|-----------|
         |Column|Column location on the page for this section. The first column is designated as **0** and the second column is designated as **1**. There must be at least one entry for column **0** for the sections to display.|
-        |Order|Order in which the sections display in the columns on the page. If no order number is defined, the system [[lists-configurable-workspace|lists]] the sections in alphabetical order.|
+        |Order|Order in which the sections display in the columns on the page. If no order number is defined, the system lists the sections in alphabetical order.|
         |Application|Application scope for this record. This field is read-only and defaults to the **Global** scope.|
         |Page|Help page on which this section appears. You can use the lookup field to change the page on which a section appears.|
         |Section|Name of the section to display on the selected page.|
@@ -89,9 +89,5 @@ Role required: admin
     6.  Repeat the process to create the necessary help documents for that section.
 
 
-**Parent Topic:**[[c_SystemUserGuide|System user guide]]
+**Parent Topic:**[System user guide](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SystemUserGuide.md)
 
-## Related
-
-- [[c_SystemUserGuide|System user guide]]
-- [[lists-configurable-workspace|Lists]]

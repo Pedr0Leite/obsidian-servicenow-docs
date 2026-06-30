@@ -14,11 +14,11 @@ breadcrumb: [Designing an escalation process, Escalations in On-Call Scheduling,
 
 # Escalation and reminder settings for rosters
 
-Use the escalation [[settings-mobile|settings]] to specify how and when escalations occur and when reminder notifications are sent.
+Use the escalation settings to specify how and when escalations occur and when reminder notifications are sent.
 
 ## Escalation and reminder settings
 
-You can specify unique settings for each roster. When you [[config-roster-oncall|configure a roster]], you can specify
+You can specify unique settings for each roster. When you configure a roster, you can specify
 
 -   **Forced communication channel**: You can specify a mandatory communication channel: SMS, voice, Slack, email, Microsoft Teams, or mobile push.
 
@@ -45,7 +45,3 @@ For detailed instructions, see [Configure a roster](https://raw.githubuserconten
 
 **Parent Topic:**[Designing an escalation process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/designing-escalation-process-oncall.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[config-roster-oncall|Configure a roster]]

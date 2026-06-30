@@ -12,7 +12,7 @@ breadcrumb: [Creating guidance and field recommendation in Recommended Actions, 
 
 # Configure guidance actions in Recommended Actions
 
-Configure the actions that an agent can perform for a [[configure-nba|Recommended Actions]] guidance.
+Configure the actions that an agent can perform for a Recommended Actions guidance.
 
 ## Before you begin
 
@@ -79,7 +79,7 @@ Primary
 
 Denotes the guidance action as a primary action. This field is enabled by default.
 
- A primary action [[migration-form-highlights|highlights]] the action that the agent should take and makes that action available as a button on the recommendation card.
+ A primary action highlights the action that the agent should take and makes that action available as a button on the recommendation card.
 
 **Note:** A guidance can have only one primary guidance action.
 
@@ -127,7 +127,4 @@ The message that appears at the top of the recommendation card when the guidance
 
 6.  Click **Submit**.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]
-- [[migration-form-highlights|Highlights]]

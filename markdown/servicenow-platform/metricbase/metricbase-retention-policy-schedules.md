@@ -14,7 +14,7 @@ breadcrumb: [Define and collect data, MetricBase, Manage instance data sources, 
 
 # MetricBase retention policy schedules
 
-Specify how long [[metricbase|MetricBase]] stores the time-series data in the MetricBase database.
+Specify how long MetricBase stores the time-series data in the MetricBase database.
 
 To create, edit, or delete retention policy schedules, navigate to **MetricBase** &gt; **Retention Policy Schedules**.
 
@@ -26,6 +26,3 @@ When creating a retention policy schedule, the following limitations apply:
 
 In addition, the retention duration must be a multiple of the sampling period.
 
-## Related
-
-- [[metricbase|MetricBase]]

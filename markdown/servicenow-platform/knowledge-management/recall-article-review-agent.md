@@ -14,13 +14,13 @@ breadcrumb: [Authoring a knowledge article in Agent Workspace, Creating and main
 
 # Recall an article that is being reviewed in Agent Workspace
 
-[[recall-article-in-review|Recall an article that is being reviewed]] to stop the approval process.
+Recall an article that is being reviewed to stop the approval process.
 
 ## Before you begin
 
 You must have contribute access to the knowledge base that stores the knowledge article you want to recall.
 
-Ensure that the [[article-versioning|article versioning]] feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+Ensure that the article versioning feature is enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 Role required: agent\_workspace\_user
 
@@ -52,7 +52,3 @@ The article opens in edit mode and the workflow state of the article is changed 
 
 [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md)
 
-## Related
-
-- [[recall-article-in-review|Recall an article that is being reviewed]]
-- [[article-versioning|Article versioning]]

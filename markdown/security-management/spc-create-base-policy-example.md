@@ -20,7 +20,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[spc-landing|Security Posture Control]] Workspace** &gt; **Policies and findings**.
+1.  Navigate to **All** &gt; **Security Posture Control Workspace** &gt; **Policies and findings**.
 
 2.  Select **New policy**.
 
@@ -54,6 +54,4 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 10. Select **Activate policy** so your base policy monitors any assets that match the policy's conditions and generates findings.
 
-## Related
 
-- [[spc-landing|Security Posture Control]]

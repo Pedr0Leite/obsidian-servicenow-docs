@@ -12,7 +12,7 @@ breadcrumb: [Scripting for email notifications, Create an email notification, Em
 
 # Use mail scripts in email notifications
 
-Add dynamic content and custom logic to email [[notifications|notifications]] using mail scripts.
+Add dynamic content and custom logic to email notifications using mail scripts.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ For more information on creating mail scripts, see [Notification Email Scripts](
 
     .\[Omitted image "JavaScriptInTemplates.png"\] Alt text: Sample JavaScript template
 
-4.  Use event [[r_DirectJDBCProbeParameters|parameters]] in the script, such as **event.parm1** and **event.parm2**, if the notification is triggered by an event.
+4.  Use event parameters in the script, such as **event.parm1** and **event.parm2**, if the notification is triggered by an event.
 
 5.  Save the mail script.
 
@@ -57,7 +57,7 @@ For more information on creating mail scripts, see [Notification Email Scripts](
     **Note:** For more information, see [HTML Sanitizer.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md)
 
 
-**Parent Topic:**[[c_ScriptingForEmailNotifications|Scripting for email notifications]]
+**Parent Topic:**[Scripting for email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScriptingForEmailNotifications.md)
 
 **Related topics**  
 
@@ -68,8 +68,3 @@ For more information on creating mail scripts, see [Notification Email Scripts](
 
 [Useful attachment scripts]()
 
-## Related
-
-- [[c_ScriptingForEmailNotifications|Scripting for email notifications]]
-- [[notifications|Notifications]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

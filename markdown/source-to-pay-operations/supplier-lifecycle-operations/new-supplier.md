@@ -14,7 +14,7 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Create a supplier from the Source-to-Pay Workspace
 
-Create a [[supplier|supplier]] to quickly onboard the supplier using playbooks and start purchasing goods and services.
+Create a supplier to quickly onboard the supplier using playbooks and start purchasing goods and services.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick actions, select **Create new supplier**.\[Omitted image "create-supplier-from-source-to-pay-workspace.png"\] Alt text: Create new supplier
 
@@ -90,7 +90,7 @@ Contact first name
 
 </td><td>
 
-First name of the [[supplier-contact|supplier contact]].
+First name of the supplier contact.
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Priority of the supplier. The available options are:-   **Critical**
 
 -   **[Use the supplier onboarding playbook to onboard suppliers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-playbooks-onboard-supp.md)**  
 Supplier owners and supplier managers can use the supplier onboarding playbook to complete the tasks and activities that are needed to onboard new suppliers.
--   **[[perform-risk-playbook|Perform risk assessment playbook]]**  
+-   **[Perform risk assessment playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/perform-risk-playbook.md)**  
 The Perform risk assessment playbook includes activities that enable you to conduct risk assessments for the supplier that you are onboarding.
 -   **[Add a subsidiary for a supplier from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/add-subsidiary.md)**  
 If a supplier has subsidiaries, you can add them to that supplier from the Source-to-Pay Workspace.
@@ -181,10 +181,3 @@ If a supplier has subsidiaries, you can add them to that supplier from the Sourc
 
 [Perform risk assessment playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/perform-risk-playbook.md)
 
-## Related
-
-- [[perform-risk-playbook|Perform risk assessment playbook]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-contact|Supplier contact]]

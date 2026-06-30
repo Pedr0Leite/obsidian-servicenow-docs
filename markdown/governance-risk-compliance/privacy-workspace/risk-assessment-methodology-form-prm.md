@@ -14,7 +14,7 @@ breadcrumb: [Create a Risk Assessment Methodology, Use, Privacy Management, Gove
 
 # Risk assessment methodology form
 
-Use the [[risk-assessment-methodology-form|Risk Assessment Methodology form]] in the Core UI to [[create-a-risk-assessment-methodology|create a risk assessment methodology]] \(RAM\).
+Use the Risk Assessment Methodology form in the Core UI to create a risk assessment methodology \(RAM\).
 
 <table id="table_aqy_k2x_rvb"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Select the assessment context:-   Risk
 
 </td></tr><tr><td>
 
-Applicable [[entity-class-in-risk-ws|entity classes]]
+Applicable entity classes
 
 </td><td>
 
@@ -84,7 +84,7 @@ Select the basis for calculating score:-   Average
 
 </td></tr><tr><td class="sub-head">
 
-[[risk-response|Risk Response]] Configurations
+Risk Response Configurations
 
 </td><td>
 
@@ -165,9 +165,3 @@ Make the required selections for the remaining options.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a Risk Assessment Methodology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-a-risk-assessment-methodology.md)
 
-## Related
-
-- [[risk-assessment-methodology-form|risk assessment methodology form]]
-- [[create-a-risk-assessment-methodology|Create a Risk Assessment Methodology]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[risk-response|risk response]]

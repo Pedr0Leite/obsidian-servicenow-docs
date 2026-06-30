@@ -14,7 +14,7 @@ breadcrumb: [Creating portal pages, Configuring Service Portal, Service Portal, 
 
 # Redirect a reference to a page ID
 
-Redirect all references from [[c_ServicePortal|Service Portal]] widgets to route to a new page with a single record to avoid manually replacing the hard-coded page ID in widgets.
+Redirect all references from Service Portal widgets to route to a new page with a single record to avoid manually replacing the hard-coded page ID in widgets.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sp\_admin
 
 Multiple widgets in Service Portal can link to a single page using a hard-coded page ID. This process allows you to replace page references in widgets without locating and replacing all references to the page ID by cloning and updating each widget.
 
-To redirect all references to a page, create a record in the Page Route Map \[sp\_page\_route\_map\] table. This table enables you to redirect a [[onboarding-modals-reference|reference]] to a page without cloning base system widgets.
+To redirect all references to a page, create a record in the Page Route Map \[sp\_page\_route\_map\] table. This table enables you to redirect a reference to a page without cloning base system widgets.
 
 Creating a record in the Page Route Map table only redirects references to a page. It doesn’t redirect navigation to a page ID within a URL.
 
@@ -57,7 +57,3 @@ All references to the page listed in the **Route from** field redirect to the pa
 
 **Parent Topic:**[Creating portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_Pages.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]

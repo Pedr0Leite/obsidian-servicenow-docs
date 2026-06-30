@@ -14,11 +14,11 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Synchronize Indoor Mapping with CMN Locations
 
-Create a new CMN Location or synchronize an existing CMN Location with a corresponding [[Indoor-mapping|Indoor Mapping]] Place type.
+Create a new CMN Location or synchronize an existing CMN Location with a corresponding Indoor Mapping Place type.
 
 **Note:**
 
-Synchronize CMN Locations with Indoor Mapping map data objects. [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] is not installed in your instance in this case and you have CMN location types that you want to synchronize with Indoor Mapping.
+Synchronize CMN Locations with Indoor Mapping map data objects. Workplace Service Delivery is not installed in your instance in this case and you have CMN location types that you want to synchronize with Indoor Mapping.
 
 **Note:** After installing Indoor Mapping and updating locations in the Map Studio, run the sync script to synchronize it with CMN locations and keep it up-to-date. The synchronization process must be performed every time a new place or location is updated in the Indoor Mapping Map Studio. For more information, see [Synchronize Indoor Mapping map data with CMN location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/sync-ind-mapping-cmn-location.md).
 
@@ -41,7 +41,3 @@ Synchronize the CMN Locations and Location place types with Indoor Mapping map d
 
 **Next topic:**[Enable the CMN location property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enable-cmn-sys-property.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

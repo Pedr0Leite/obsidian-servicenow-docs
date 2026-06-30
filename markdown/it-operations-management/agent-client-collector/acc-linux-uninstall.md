@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Uninstall Agent Client Collector from a Linux system manually
 
-Uninstall the [[acc-landing-page|Agent Client Collector]] from a Linux machine manually if the command script is unavailable due to the specific agent not being connected to the instance.
+Uninstall the Agent Client Collector from a Linux machine manually if the command script is unavailable due to the specific agent not being connected to the instance.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ By default, an uninstalled agent is removed from the system after 30 days. To mo
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

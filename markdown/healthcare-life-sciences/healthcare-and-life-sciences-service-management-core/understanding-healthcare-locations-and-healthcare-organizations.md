@@ -24,7 +24,7 @@ An example healthcare organization hierarchy might look like:
 
 **HQ** → **Hospital** → **Department** → **Unit**
 
-Structuring healthcare organizations correctly is vital to [[healthcare-operations-overview|healthcare operations]] as it defines the organizational structure, influencing visibility, responsibility, and routing.
+Structuring healthcare organizations correctly is vital to healthcare operations as it defines the organizational structure, influencing visibility, responsibility, and routing.
 
 ## Healthcare organization \[sn\_hcls\_organization\] table technical details
 
@@ -40,7 +40,7 @@ Use the **parent organization** field to create multi-level hierarchies by label
 
 The **healthcare organization location association** table is used to store the explicit link between healthcare locations and their owning healthcare organization.
 
-For information on the fields present in the [[hcls-healthcare-organization-table|Healthcare organization table]], see [Healthcare organization table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-organization-table.md).
+For information on the fields present in the Healthcare organization table, see [Healthcare organization table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-healthcare-organization-table.md).
 
 ## Healthcare locations
 
@@ -56,7 +56,7 @@ By tying work to a specific location, ambiguity is reduced in requests and escal
 
 ## Healthcare location \[sn\_hcls\_location\] table technical details
 
-\[Omitted image "hcls-healthcare-locations.png"\] Alt text: ERD diagram which shows how the common location table and [[hcls-healthcare-location-table|healthcare location table]] interact.
+\[Omitted image "hcls-healthcare-locations.png"\] Alt text: ERD diagram which shows how the common location table and healthcare location table interact.
 
 The healthcare location table provides the ability to map common locations to healthcare organizations.
 
@@ -90,8 +90,3 @@ To create healthcare locations and healthcare organizations, see the following t
 2.  [Create a healthcare organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-sm-configure-healthcare-organizations.md)
 3.  [Associate healthcare locations with a healthcare organizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-sm-associate-healthcare-locations-organization.md)
 
-## Related
-
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[hcls-healthcare-organization-table|Healthcare organization table]]
-- [[hcls-healthcare-location-table|Healthcare location table]]

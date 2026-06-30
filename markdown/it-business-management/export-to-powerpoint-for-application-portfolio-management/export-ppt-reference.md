@@ -17,16 +17,11 @@ breadcrumb: [Export to PowerPoint for Strategic Portfolio Management, Strategic 
 Reference topics provide additional details about Export to PowerPoint such as fields, tables, roles, and some guidelines.
 
 -   **[Components installed with Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/installed-with-export-ppt.md)**  
-Several types of components are installed with activation of the [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]] \(sn\_ppt\) add-in, including user roles and tables.
+Several types of components are installed with activation of the Export to PowerPoint for Strategic Portfolio Management \(sn\_ppt\) add-in, including user roles and tables.
 -   **[Related Tables form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/related-tables-form.md)**  
-Use the [[related-tables-form|Related Tables form]] to define the child tables for the configured parent table. This Related Tables helps in fetching data to export the project status report as Microsoft PowerPoint.
+Use the Related Tables form to define the child tables for the configured parent table. This Related Tables helps in fetching data to export the project status report as Microsoft PowerPoint.
 -   **[Scripted Elements form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/scripted-elements-form.md)**  
-Use the [[scripted-elements-form|Scripted Elements form]] to define the data script to fetch data for a complex report type such as line chart or bar chart.
+Use the Scripted Elements form to define the data script to fetch data for a complex report type such as line chart or bar chart.
 
 **Parent Topic:**[Export to PowerPoint for Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/export-ppt-landing-page.md)
 
-## Related
-
-- [[export-ppt-landing-page|Export to PowerPoint for Strategic Portfolio Management]]
-- [[related-tables-form|Related Tables form]]
-- [[scripted-elements-form|Scripted Elements form]]

@@ -15,11 +15,11 @@ breadcrumb: [Using AI Search Admin console, AI Search Admin console, Search admi
 
 # Customizing the result-card interface of an AI Search application by using EVAM
 
-You can customize the appearance and layout of the result-card interface in [[ia-ai-search|AI Search]] applications by accessing Entity View Action Mapper \(EVAM\) [[clone-configurations-tab|configurations]] from the [[ais-admin-console|AI Search Admin console]]. This helps to enhance usability, clarity of search [[hs-results|results]], making them easier to read and navigate.
+You can customize the appearance and layout of the result-card interface in AI Search applications by accessing Entity View Action Mapper \(EVAM\) configurations from the AI Search Admin console. This helps to enhance usability, clarity of search results, making them easier to read and navigate.
 
 ## Using EVAM to modify the Result-card interface overview
 
-AI Search Admin console provides a unified platform that enables you to manage the search result interface of your AI Search application with EVAM configurations. EVAM standardizes how different data sources are displayed in cards and lists. You can create, edit, copy, view usage, activate, deactivate, or delete EVAM view configurations, and even create EVAM [[clone-exclusions-preservers-cleanupscripts|definitions]] as needed all from the AI Search Admin console. To learn more about EVAM, see [Exploring Entity View Action Mapper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/exploring-entity-view-action-mapper.md).
+AI Search Admin console provides a unified platform that enables you to manage the search result interface of your AI Search application with EVAM configurations. EVAM standardizes how different data sources are displayed in cards and lists. You can create, edit, copy, view usage, activate, deactivate, or delete EVAM view configurations, and even create EVAM definitions as needed all from the AI Search Admin console. To learn more about EVAM, see [Exploring Entity View Action Mapper](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/exploring-entity-view-action-mapper.md).
 
 The Result-card interface in AI Search applications displays a search result in clear, visual format. It includes key details, such as title, a brief description, relevant icons, and other important information. This helps users quickly understand each search result and decide which one to explore further.
 
@@ -48,10 +48,3 @@ Delete unnecessary Entity View Action Mapper \(EVAM\) view configuration from yo
 
 **Parent Topic:**[Using AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/using-ais-admin-console.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[ais-admin-console|AI Search Admin console]]
-- [[hs-results|Results]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

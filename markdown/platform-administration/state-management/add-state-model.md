@@ -26,7 +26,7 @@ Develop and test your state model in a non-production instance before deploying 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[state-model|State Management]]** &gt; **State Models**.
+1.  Navigate to **All** &gt; **State Management** &gt; **State Models**.
 
 2.  Click **New**.
 
@@ -196,6 +196,4 @@ Condition builder that sets the conditions for exiting this state.
 
 9.  When finished adding state transitions in the state model form, select the **Active** check box and click **Update**.
 
-## Related
 
-- [[state-model|State Management]]

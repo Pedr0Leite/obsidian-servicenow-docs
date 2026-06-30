@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select the event from the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select the event from the list view.
 
 2.  To start the exercise, select **Start Event**.
 
@@ -128,13 +128,7 @@ Role required: admin
 
 ## What to do next
 
-To [[submit-vul-for-approval|request an approval]], see [[submit-an-event-task-uib-ws|Request an approval and approve the event]].
+To request an approval, see [Request an approval and approve the event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/submit-an-event-task-uib-ws.md).
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[submit-an-event-task-uib-ws|Request an approval and approve the event]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[list-view-uib-ws|List view]]
-- [[submit-vul-for-approval|Request an approval]]

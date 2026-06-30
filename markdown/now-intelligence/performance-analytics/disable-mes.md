@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-When you disable multiple element selection on a breakdown dashboard, users of that dashboard are only able to filter the dashboard's [[widgets|widgets]] on one element of the breakdown.
+When you disable multiple element selection on a breakdown dashboard, users of that dashboard are only able to filter the dashboard's widgets on one element of the breakdown.
 
 ## Procedure
 
@@ -53,7 +53,3 @@ When you filter the dashboard on breakdown elements, you can select only one bre
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[widgets|Widgets]]

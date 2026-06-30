@@ -12,7 +12,7 @@ breadcrumb: [Configuring Quote Management, Configure, price, quote apps, Configu
 
 # Integrate with Contract Management Pro
 
-With the integration of [[quote-management|Quote Management]] and Contract Management Pro, sales agents can initiate contract requests while finalizing a deal and formalizing agreements between you and your customers.
+With the integration of Quote Management and Contract Management Pro, sales agents can initiate contract requests while finalizing a deal and formalizing agreements between you and your customers.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
 
-2.  Search for Contract Management for Sales and [[explore-order-management|Order Management]] \(Quote Management with Contract Management Pro\) plugin \(com.sn\_som\_clm\).
+2.  Search for Contract Management for Sales and Order Management \(Quote Management with Contract Management Pro\) plugin \(com.sn\_som\_clm\).
 
     **Note:** To activate this plugin, there’s a dependency on the Contracts core plugin \(com.sn\_cm\_core\). Verify that it’s installed to use the contract creation workflow from a quote.
 
@@ -38,10 +38,5 @@ Role required: admin
 
 [Configuring Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/cncore-config-cmpro.md)
 
-[[quote-management-create-contract|Initiate a contract request]]
+[Initiate a contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-create-contract.md)
 
-## Related
-
-- [[quote-management-create-contract|Initiate a contract request]]
-- [[quote-management|Quote Management]]
-- [[explore-order-management|Order management]]

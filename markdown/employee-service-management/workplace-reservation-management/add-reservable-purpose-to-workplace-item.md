@@ -22,7 +22,7 @@ Role required: sn\_wsd\_rsv.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration**.
 
 2.  Based on the type of workplace item that you want to add a reservable purpose to, do one of the following.
 
@@ -74,6 +74,3 @@ The reservable purpose is added to the workplace item.
 
 **Parent Topic:**[Configure a reservable purpose](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/configure-reservable-purpose.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

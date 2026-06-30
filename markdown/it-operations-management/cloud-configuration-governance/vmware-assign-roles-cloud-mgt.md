@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for VMware on Cloud Provisioning and Governance, 
 
 # Assign roles to VMware users of Cloud Provisioning and Governance
 
-You assign [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] roles to user groups and to individual users based on user activities and responsibilities.
+You assign Cloud Provisioning and Governance roles to user groups and to individual users based on user activities and responsibilities.
 
 ## Before you begin
 
@@ -113,7 +113,7 @@ Requests and manages stacks and resources.
 
 </td><td>
 
-[[cloudmgt-cloud-user-portal|Cloud User Portal]].When you assign the role to a group, all members of the group share quota limitations and ownership of certain resources.
+Cloud User Portal.When you assign the role to a group, all members of the group share quota limitations and ownership of certain resources.
 
 You can access all the task records, assigned to you or otherwise, if you have the cloud service user role.
 
@@ -127,7 +127,7 @@ Monitors and troubleshoots the Cloud Provisioning and Governance application.
 
 </td><td>
 
-[[otto-aiops-dashboards|Dashboards]] and reports:-   Cloud Operations Dashboard
+Dashboards and reports:-   Cloud Operations Dashboard
 -   Cloud Root Cause Analysis
 -   Cloud Orchestration Trail
 -   Cloud API Trail
@@ -178,8 +178,3 @@ Grants admin access to any group that you belong to.
 
 [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[otto-aiops-dashboards|Dashboards]]

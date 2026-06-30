@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Create a stock rule for enterprise assets
 
-[[t_CreateAStockRule|Create a stock rule]] to automatically resupply a stockroom based on vendor purchase orders or transfer orders.
+Create a stock rule to automatically resupply a stockroom based on vendor purchase orders or transfer orders.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## About this task
 
-[[c_StockRules|Stock rules]] control what happens when the inventory of a particular asset in a particular stockroom reaches a specified threshold. When available asset quantity drops below a specified quantity, the stock rule automatically creates an enterprise stock order request. Once the enterprise stock order request is created, the enterprise manager goes through the process of sourcing and receiving that order.
+Stock rules control what happens when the inventory of a particular asset in a particular stockroom reaches a specified threshold. When available asset quantity drops below a specified quantity, the stock rule automatically creates an enterprise stock order request. Once the enterprise stock order request is created, the enterprise manager goes through the process of sourcing and receiving that order.
 
 If a stock rule is created for an enterprise model that reaches the threshold limit, a notification is sent to the stockroom manager and a stock order request is automatically created.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory** &gt; **Stock rules**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory** &gt; **Stock rules**.
 
 2.  Select **New**.
 
@@ -66,7 +66,7 @@ Restocking option
 
 </td><td>
 
-Location where additional supplies should come from.If [[c_Procurement|Procurement]] is not active, then restocking option is Stockroom only. Otherwise, select one of the following:
+Location where additional supplies should come from.If Procurement is not active, then restocking option is Stockroom only. Otherwise, select one of the following:
 
 -   Stockroom: creates a transfer order to obtain the asset from another stockroom.
 -   Vendor: sends an email to the stockroom manager to order from a vendor. In addition to the email notification, a purchase order and purchase order line item are created.
@@ -102,7 +102,7 @@ OT stock rule
 
 </td><td>
 
-Indicates whether the stock rule was created in the [[ot-asset-ws-otam|OT Asset Workspace]].This check box appears on the stock rule form only for hardware [[c_Models|models]] in both the OT Asset Workspace and Enterprise Asset Workspace. However, only the OT asset manager can select or deselect this check box in the OT Asset Workspace.
+Indicates whether the stock rule was created in the OT Asset Workspace.This check box appears on the stock rule form only for hardware models in both the OT Asset Workspace and Enterprise Asset Workspace. However, only the OT asset manager can select or deselect this check box in the OT Asset Workspace.
 
 </td></tr></tbody>
 </table>4.  Select **Save**.
@@ -119,11 +119,3 @@ Indicates whether the stock rule was created in the [[ot-asset-ws-otam|OT Asset 
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[t_CreateAStockRule|Create a stock rule]]
-- [[c_StockRules|Stock rules]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Procurement|Procurement]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[c_Models|Models]]

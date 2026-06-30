@@ -45,7 +45,7 @@ For more information on the computation of non-standard and missing clauses, see
 
 3.  Select **Activate skill** on the skill you want to activate.
 
-    \[Omitted image "cmpro-NA-skills.png"\] Alt text: Now Assist skills available for [[cncore-cmpro-landing-page|Contract Management Pro]].
+    \[Omitted image "cmpro-NA-skills.png"\] Alt text: Now Assist skills available for Contract Management Pro.
 
 4.  In the General details page, view the skill details and select **Save and continue**.
 
@@ -213,6 +213,3 @@ The use case for Contract analysis skill is created.
 
 [Select large language models for use cases in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-manage-llm.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

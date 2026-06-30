@@ -14,7 +14,7 @@ breadcrumb: [Using the More icon in Agent Workspace for HR Case Management, Usin
 
 # Creating a case from an HR case
 
-Create additional cases directly from the HR case you are working on in the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+Create additional cases directly from the HR case you are working on in the Agent Workspace for HR Case Management.
 
 ## Before you begin
 
@@ -25,11 +25,11 @@ A convenient and time saving feature of Agent Workspace for HR Case Management i
 To create a case, you don't have to leave a case you are working on and try to find it later. Create another HR case from:
 
 -   an HR case you are viewing.
--   an [[c_HRProfileRecords|HR profile]] that displays on the case you are viewing.
+-   an HR profile that displays on the case you are viewing.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select a case from which you want to create additional case.
 
@@ -45,8 +45,4 @@ To create a case, you don't have to leave a case you are working on and try to f
 
 8.  Click **Create case**.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[case-management-workspace|Case management]]

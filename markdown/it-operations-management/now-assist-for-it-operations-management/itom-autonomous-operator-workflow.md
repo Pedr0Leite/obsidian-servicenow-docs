@@ -68,12 +68,8 @@ The manage alerts autonomously agentic workflow performs several actions in the 
     -   Generates a final summary
     -   Saves the summaries in the alert record, such as
         -   reasoning, evidence, and confidence level behind AI-driven investigation of alert significance and automatic closure of insignificant alerts, and
-        -   summaries of [[service-observability|Service Observability]] [[otto-aiops-dashboards|dashboards]] to provide health analysis of each service associated with an alert. For more information see, [Analyze service health in Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/analyze-service-health-in-service-observability.md).
+        -   summaries of Service Observability dashboards to provide health analysis of each service associated with an alert. For more information see, [Analyze service health in Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/analyze-service-health-in-service-observability.md).
     -   Provides clear, actionable insights
 
 **Important:** This agentic workflow is turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]

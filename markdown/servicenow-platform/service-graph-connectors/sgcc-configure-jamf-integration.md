@@ -14,7 +14,7 @@ breadcrumb: [Jamf, Service Graph Connectors, Integrating third-party data into C
 
 # Configure Service Graph Connector for Jamf using SGC Central
 
-Use the playbook available with the [[sgcc-landing|SGC Central]] application to set up the [[cmdb-integration-jamf|Service Graph Connector for Jamf]] for pulling in Jamf data into the CMDB.
+Use the playbook available with the SGC Central application to set up the Service Graph Connector for Jamf for pulling in Jamf data into the CMDB.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Role required: admin
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with SGC Central in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The playbook experience for onboarding connectors is activated with SGC Central 
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Determine the type of authentication for the Jamf connection.
 
@@ -91,7 +91,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to the Jamf API.**Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
+Base URL to connect to the Jamf API.**Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ Client Secret of your Jamf client application as noted in the [Before you begin]
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID Server]]
+Use MID Server
 
 </td><td>
 
@@ -123,7 +123,7 @@ Mid Selection
 
 </td><td>
 
-Name of the MID Server used by the connector.This field appears only when the **Use MID Server** [[check-box|check box]] is selected.
+Name of the MID Server used by the connector.This field appears only when the **Use MID Server** check box is selected.
 
 </td></tr></tbody>
 </table>        -   When the **SG-Jamf Basic Connection** template is selected, fill in the details as shown in the following table.
@@ -150,7 +150,7 @@ Connection Host
 
 </td><td>
 
-Target host value used by the connection.**Note:** Update the **Host** field with your Jamf base URL or [[ip-address|IP address]]. For example, `demojamfhost.com` or `127.0.0.1`.
+Target host value used by the connection.**Note:** Update the **Host** field with your Jamf base URL or IP address. For example, `demojamfhost.com` or `127.0.0.1`.
 
 </td></tr><tr><td>
 
@@ -256,14 +256,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Accessing the connection details of Service Graph Connector for Jamf](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-jamf-conn.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-integration-jamf|Service Graph Connector for Jamf]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_Connect|Connect]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]
-- [[ip-address|IP Address]]

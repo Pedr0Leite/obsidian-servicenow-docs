@@ -14,7 +14,7 @@ breadcrumb: [Multi Provider Document Services Framework, Document Services, Mana
 
 # Activate Multi Provider Document Services Framework
 
-You can activate the [[mp-document-services-framework-landing|Multi Provider Document Services Framework]] plugin \(com.snc.multiprovider\_documents\) for [[document-services-landing-page|Document Services]] if you have the admin role.
+You can activate the Multi Provider Document Services Framework plugin \(com.snc.multiprovider\_documents\) for Document Services if you have the admin role.
 
 ## Before you begin
 
@@ -38,12 +38,8 @@ The following items are installed with the Multi Provider Document Services Fram
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[mp-document-services-framework-landing|Multi Provider Document Services Framework]]
-- [[document-services-landing-page|Document Services]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

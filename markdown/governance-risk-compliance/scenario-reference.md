@@ -64,7 +64,7 @@ Pillars
 
 </td><td>
 
-List of pillars that you can associate with the scenario. The following pillars are provided with the [[grc-opres-landing-page|Operational Resilience]] base system: -   Facilities
+List of pillars that you can associate with the scenario. The following pillars are provided with the Operational Resilience base system: -   Facilities
 -   People
 -   Process
 -   Suppliers
@@ -84,7 +84,3 @@ Events that are related to a scenario. The related list displays the name of the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

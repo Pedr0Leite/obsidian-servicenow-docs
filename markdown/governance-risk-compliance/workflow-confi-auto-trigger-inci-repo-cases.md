@@ -16,11 +16,11 @@ Digital Resilience Incident administrators can configure conditions in Workflow 
 
 ## Setting up templates and modules
 
-[[grc-opres-landing-page|Operational Resilience]] administrators set up Word templates, Template configurations, and the Digital resilience incident \(DRI\) case type required for Digital resilience incident reporting as shown in the example.
+Operational Resilience administrators set up Word templates, Template configurations, and the Digital resilience incident \(DRI\) case type required for Digital resilience incident reporting as shown in the example.
 
 \[Omitted image "drir-config-module.png"\] Alt text: Set up the templates.
 
-Configure Word Templates and Template Configurations for generating reports in Microsoft Word format. For more information, see [[gen-word-reports|Generating Microsoft Word reports using Document designer]].
+Configure Word Templates and Template Configurations for generating reports in Microsoft Word format. For more information, see [Generating Microsoft Word reports using Document designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-word-reports.md).
 
 The Digital Resilience Incident Case module lists all Digital Resilience Incident Cases associated with an incident or security incident. A new 'Regulation Mappings' related list is now available in each Digital Resilience Incident Case record. It displays the relationships between entities related to the cases and their corresponding regulations.
 
@@ -28,7 +28,7 @@ The Digital Resilience Incident Case module lists all Digital Resilience Inciden
 
 Several reference questions in the DRI Initial report, Intermediate report, and Final report templates use the legal-entity and third-party tables from the Digital Resilience Third-Party Registers application \(sn\_dora\_accel\_entity and sn\_dora\_accel\_third\_party\). Populate these tables \(manually or via the Excel upload request\) before generating an initial report so that fields such as 'Name of the entity submitting the report', 'LEI code of the financial entity affected', and 'Name of the third party provider' can be filled in by the responder.
 
-For details, see [[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]], [[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]], and [[create-legal-entity|Create a legal entity and enhance digital resilience data]].
+For details, see [Maintaining Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/digi-resi-third-party-registers.md), [Create a third party and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-third-party.md), and [Create a legal entity and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-legal-entity.md).
 
 ## Conditions for setting up the Workflow
 
@@ -60,7 +60,7 @@ New flows have been introduced in Digital resilience incident reporting to manag
 
 \[Omitted image "trigger-flows-wf-studio.png"\] Alt text: Digital resilience incident reporting flows. For the text description, refer to the text that precedes this image.
 
-**Note:** If the Security Incident Response application is installed in your instance, flows related to the security incidents \(SIR\) are listed in the Flows [[list-view-uib-ws|list view]].
+**Note:** If the Security Incident Response application is installed in your instance, flows related to the security incidents \(SIR\) are listed in the Flows list view.
 
 The Digital Resilience Incident Flow and Digital Resilience SIR Flow are prebuilt into the Digital resilience incident reporting application. The flow configuration impacts all incident records in the instance. As administrators of the Operational Resilience application, you can update \(customize\) the flow configurations to meet your organizational requirements as shown in the example.
 
@@ -102,11 +102,3 @@ The Digital resilience incident reporting application is available from the Serv
 |Security Incident Response|\(app-sir\)|
 |Digital Resilience Third-party Information Register|\(sn\_info\_reg\)|
 
-## Related
-
-- [[gen-word-reports|Generating Microsoft Word reports using Document designer]]
-- [[digi-resi-third-party-registers|Maintaining Digital resilience third-party registers]]
-- [[create-drtp-reg-third-party|Create a third party and enhance digital resilience data]]
-- [[create-legal-entity|Create a legal entity and enhance digital resilience data]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]

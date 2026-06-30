@@ -16,7 +16,7 @@ breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life S
 
 Virtual Agent conversations enable users to get help with the vaccination process.
 
-If the Virtual Agent plugin \(com.glide.cs.chatbot\) is installed, the [[hcls-vam|Vaccine Administration Management]] provides Virtual Agent conversation topics. A conversation topic defines the dialog between the Virtual Agent \(chatbot\) and the user to accomplish a goal.
+If the Virtual Agent plugin \(com.glide.cs.chatbot\) is installed, the Vaccine Administration Management provides Virtual Agent conversation topics. A conversation topic defines the dialog between the Virtual Agent \(chatbot\) and the user to accomplish a goal.
 
 <table id="table_ulq_1hd_l4b"><thead><tr><th>
 
@@ -104,6 +104,3 @@ Active
 </td></tr></tbody>
 </table>To activate, deactivate, or edit conversation topics, navigate to **Collaboration** &gt; **Virtual Agent** &gt; **Designer**. In the Topics page, select the **Vaccine Management** category. Click a topic that you want to update. Use the **Active** toggle button to activate or deactivate a topic.
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

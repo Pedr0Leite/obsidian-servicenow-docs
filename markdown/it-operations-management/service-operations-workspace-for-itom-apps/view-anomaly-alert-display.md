@@ -14,7 +14,7 @@ breadcrumb: [Express List in SOW for ITOM, Using SOW for ITOM, Service Operation
 
 # View Log Analytics anomaly alert charts on the preview panel in Express List
 
-View visualizations for [[hla-landing-page|Health Log Analytics]] anomaly alerts to identify periods of behavior that deviate from expected ranges. You can view visualizations from the Express List preview panel or the alert record.
+View visualizations for Health Log Analytics anomaly alerts to identify periods of behavior that deviate from expected ranges. You can view visualizations from the Express List preview panel or the alert record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -71,7 +71,4 @@ Select the number of the anomaly alert to open the alert record.
 
     The **Surrounding logs** tab displays the list of log lines that were generated one minute before and one second after the Log Analytics alert. For more information, see [How Health Log Analytics generates alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-anomalies-detecting.md).
 
-## Related
 
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

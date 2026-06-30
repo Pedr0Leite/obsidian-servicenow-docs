@@ -14,7 +14,7 @@ breadcrumb: [Parallel Flow Launcher workflow activity, Subflow activities in wor
 
 # Parallel Flow Launcher example
 
-This example shows how to use the **Parallel Flow Launcher**activity with an array of input values and with a [[c_WorkflowCoordinatorObject|WorkflowCoordinator object]].
+This example shows how to use the **Parallel Flow Launcher**activity with an array of input values and with a WorkflowCoordinator object.
 
 ## Sample workflow
 
@@ -24,7 +24,7 @@ This example shows a SQL-based web server with four application nodes. A single 
 
 ## Provision the application nodes
 
-The first **Parallel Flow Launcher**activity launches the **Provision Node** subflow four times. The activity passes a unique [[ip-address|IP address]] to each subflow from an array in the **Inputs** variable. The scripts defined in the **Flow complete** and **Finished script** variables write log messages regarding the status of the subflows.
+The first **Parallel Flow Launcher**activity launches the **Provision Node** subflow four times. The activity passes a unique IP address to each subflow from an array in the **Inputs** variable. The scripts defined in the **Flow complete** and **Finished script** variables write log messages regarding the status of the subflows.
 
 \[Omitted image "WFParallelActivityDetail.png"\] Alt text:
 
@@ -36,7 +36,3 @@ The second **Parallel Flow Launcher** activity uses WorkflowCoordinator objects 
 
 **Parent Topic:**[Parallel Flow Launcher workflow activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/r_ParallelFlowLauncher.md)
 
-## Related
-
-- [[c_WorkflowCoordinatorObject|WorkflowCoordinator object]]
-- [[ip-address|IP Address]]

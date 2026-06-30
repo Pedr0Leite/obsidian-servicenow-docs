@@ -31,7 +31,7 @@ Contextual information on the page \(such as a SKU in the page URL\) is accessib
 
 ## Embedding the CPQ Web Component
 
-The Web Component can be added to any page where you can add HTML. The only required [[fields|fields]] to initialize the Web Component are the URL, the runtime token, and the configurable product ID.
+The Web Component can be added to any page where you can add HTML. The only required fields to initialize the Web Component are the URL, the runtime token, and the configurable product ID.
 
 ## Example
 
@@ -143,7 +143,7 @@ The following sample code represents a full-page example. It lets the user easil
        * @param {string} productId - The unique identifier for the product. This is a configurable product id in the logik Admin
        * @param {string} runtimeToken - The authentication token for runtime access. This can be created in the logik Admin under Runtime Clients. The token must have include an origin matching the url of the page that is hosting the web component.
        * @param {string} tenantApiUrl - This should be set to the url of your logik tenant. eg https://example.demo01.logik.io
-       * @param {string} [assetURL] - Optional URL for asset resources. If provided, [[cpq-sets|sets]] the asset-url attribute. Defaults to the provided tenantApiUrl. You will most likely not need to set this.
+       * @param {string} [assetURL] - Optional URL for asset resources. If provided, sets the asset-url attribute. Defaults to the provided tenantApiUrl. You will most likely not need to set this.
        * @param {Array<{
        *   variableName: string,
        *   value: string | number | boolean | Array<string>
@@ -170,7 +170,7 @@ The following sample code represents a full-page example. It lets the user easil
       /**
        * Event fired when the user cancels the configuration. After this event is received,
        * the configuration will be terminated and the logik-ui component should be unmounted.
-       * @event logik-ui:[[cancel|cancel]]
+       * @event logik-ui:cancel
        * @type {CustomEvent}
        * @property {Object} detail - An empty object indicating the configuration was cancelled
        */
@@ -205,8 +205,3 @@ The following sample code represents a full-page example. It lets the user easil
 </html>
 ```
 
-## Related
-
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[cancel|Cancel]]

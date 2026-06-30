@@ -38,7 +38,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]**.
+1.  Navigate to **Scaled Agile Framework \(SAFe\)**.
 2.  From the list, select the **ART** level.
 3.  From the adjacent list, select the required ART value.
 4.  Select the **Backlog** tab.
@@ -268,13 +268,9 @@ Epic benefit plans capture the potential benefits accrued by the epic when the e
 -   **[Create a non-monetary benefit plan for an epic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-non-monetary-benefit-plan-safe-epic.md)**  
 Epic benefit plans capture the potential non-financial benefits accrued by the epic when the epic is executed. Create a non-monetary benefit plan to specify the estimated benefit in a category spanning one or more fiscal periods.
 -   **[Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/associate-benefit-plans-safe-epic.md)**  
-[[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]], so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
+Associate monetary and non-monetary benefit plans, so that you can capture the potential benefits \(financial and non-financial\) accrued by the epic for the hybrid benefit plans.
 -   **[Generate labor costs for epics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/gen-labor-costs-safe-epic.md)**  
 View the labor cost expenses based on the resource assignments for your epics.
 
 **Parent Topic:**[SAFe entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/key-entities-SAFe.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[associate-benefit-plans-agile-epic|Associate monetary and non-monetary benefit plans]]

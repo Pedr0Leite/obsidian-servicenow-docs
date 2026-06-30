@@ -12,7 +12,7 @@ breadcrumb: [Explore, Field Service Management]
 
 # Field Service Management Guided Setup
 
-Streamline setting up [[fsm-application-landing-page|Field Service Management]] with guided setup.
+Streamline setting up Field Service Management with guided setup.
 
 Use guided setup to step through the initial Field Service Management configuration. Guided setup assists you with planning the roll-out of the product and performing the basic configuration. Guided setup organizes configuration activities into categories and helps you track your progress.
 
@@ -23,12 +23,7 @@ Use guided setup to step through the initial Field Service Management configurat
 **Related topics**  
 
 
-[[planning-implementation-fsm|Planning your Field Service Management implementation]]
+[Planning your Field Service Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/planning-implementation-fsm.md)
 
-[[configuring-fsm-with-guided-setup|Configuring Field Service Management using Guided Setup]]
+[Configuring Field Service Management using Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-fsm-with-guided-setup.md)
 
-## Related
-
-- [[planning-implementation-fsm|Planning your Field Service Management implementation]]
-- [[configuring-fsm-with-guided-setup|Configuring Field Service Management using Guided Setup]]
-- [[fsm-application-landing-page|Field Service Management]]

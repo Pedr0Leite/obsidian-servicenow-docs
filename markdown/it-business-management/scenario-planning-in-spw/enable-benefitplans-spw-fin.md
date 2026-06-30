@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for planning items Strategic Planning, Configu
 
 # Enable monetary benefit plans for planning items
 
-Enable the benefit plans property to [[create-and-manage-benefit-plans-ppw|create and manage benefit plans]] for planning items.
+Enable the benefit plans property to create and manage benefit plans for planning items.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[create-and-manage-benefit-plans-ppw|Create and manage benefit plans]]

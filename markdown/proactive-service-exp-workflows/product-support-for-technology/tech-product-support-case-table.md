@@ -14,7 +14,7 @@ breadcrumb: [Reference, Technology Product Support Case, Product Support for Tec
 
 # Tech Product Support Case table
 
-The [[tpsc-landing-page|Technology Product Support Case]] application adds the Tech Product Support Case \(sn\_tech\_product\_support\_case\) table.
+The Technology Product Support Case application adds the Tech Product Support Case \(sn\_tech\_product\_support\_case\) table.
 
 <table id="table_kbz_1nf_n1c"><thead><tr><th>
 
@@ -403,6 +403,3 @@ Users who receive notifications about this case when work notes are added.
 </td></tr></tbody>
 </table>**Parent Topic:**[Technology Product Support Case reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/tpsc-reference.md)
 
-## Related
-
-- [[tpsc-landing-page|Technology Product Support Case]]

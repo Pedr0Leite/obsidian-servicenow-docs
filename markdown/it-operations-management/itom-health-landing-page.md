@@ -22,11 +22,11 @@ ITOM AIOps enables IT operations teams, site reliability engineers, and DevOps p
 
 </td><td>
 
-[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-sow-itom.md)\[Omitted image "bus-sdlc.svg"\] Alt text:Configure the [[workspace-dashboard-use|Service Operations Workspace]] to work with ITOM AIOps
+[Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-sow-itom.md)\[Omitted image "bus-sdlc.svg"\] Alt text:Configure the Service Operations Workspace to work with ITOM AIOps
 
 </td></tr><tr><td>
 
-[[itom-health-use-case-product-view|Reference]]\[Omitted image "bus-learn.svg"\] Alt text:Find reference information about ITOM AIOps
+[Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-use-case-product-view.md)\[Omitted image "bus-learn.svg"\] Alt text:Find reference information about ITOM AIOps
 
 </td><td>
 
@@ -61,7 +61,4 @@ Some ServiceNow resources that can provide you with helpful information are:
 
     [https://support.servicenow.com/now](https://support.servicenow.com/now)
 
-## Related
 
-- [[itom-health-use-case-product-view|Applying the CSDM guidelines to ITOM AIOps]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

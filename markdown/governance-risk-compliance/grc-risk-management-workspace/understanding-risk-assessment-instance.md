@@ -14,11 +14,11 @@ breadcrumb: [Advanced Risk Assessment, Explore, Risk Management, Governance, Ris
 
 # Understanding the risk assessment instance
 
-A risk assessment instance is where a risk assessor can assess risks and objects by responding to questions or [[factors|factors]].
+A risk assessment instance is where a risk assessor can assess risks and objects by responding to questions or factors.
 
-After the [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]] is created and the risk assessment scope is defined, the assessments are initiated by the risk administrator. The assessor receives a notification to assess the risks. To perform the risk assessment, an assessor must have the sn\_grc.business\_user role. The assessment is used to arrive at a risk score for an entity.
+After the risk assessment methodology \(RAM\) is created and the risk assessment scope is defined, the assessments are initiated by the risk administrator. The assessor receives a notification to assess the risks. To perform the risk assessment, an assessor must have the sn\_grc.business\_user role. The assessment is used to arrive at a risk score for an entity.
 
-**Note:** You must manually assign the [[advanced-risk-assessment|advanced risk assessment]] roles to the sn\_grc.business\_user role. To understand how you can adjust granting of roles and groups, refer to see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base.
+**Note:** You must manually assign the advanced risk assessment roles to the sn\_grc.business\_user role. To understand how you can adjust granting of roles and groups, refer to see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base.
 
 The questions that a risk assessor answers are configured in the RAM. An assessment can contain manual factors and automated factors. Manual factors need human input as responses. For automated factors, the responses are automatically calculated. Automated factors are automatically executed based on the schedule that is defined in their configuration.
 
@@ -38,7 +38,7 @@ Based on the configurations in the RAM, the risk assessment instance form also d
 -   Risk Events: The number of risk events that are associated with the risk.
 -   Risk Indicators: The number of risk indicators that passed and failed for this risk.
 -   Open Issues: The number of open issues for the risk and their state and owners.
--   [[risk-response|Risk Response]] Tasks: The number of risk response tasks that are created for the assessment.
+-   Risk Response Tasks: The number of risk response tasks that are created for the assessment.
 -   Related controls: The controls that are related to the risk. This related list appears only when the control environment is being assessed.
 
     **Note:** Customers on previous releases might not be able to see the updated count for passed and failed indicators. To resolve this issue, run the Update indicator and Controls Count fix script.
@@ -58,17 +58,10 @@ The risk assessment life cycle goes through the following states:
 2.  Inherent assessment: The inherent risk assessment is performed.
 3.  Control assessment: The control assessment is performed.
 4.  Residual assessment: The residual risk assessment is performed.
-5.  Target assessment: The [[target-risk-assessment|target risk assessment]] is performed.
+5.  Target assessment: The target risk assessment is performed.
 6.  Respond: You respond to the risks.
 7.  Awaiting approval: The risk assessment is awaiting approval from the approvers if they have been identified.
 8.  Monitor: The risk assessment is complete and is being monitored.
 
 **Parent Topic:**[Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/advanced-risk-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[risk-response|risk response]]
-- [[target-risk-assessment|target risk assessment]]

@@ -38,7 +38,7 @@ From Core UI
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[hr-case-employee-relations|Employee Relations]]** &gt; **Cases**.
+1.  Navigate to **All** &gt; **Employee Relations** &gt; **Cases**.
 2.  Select an ER case.
 3.  Scroll down to the related list and select the **Corrective Actions** tab.
 4.  Select **New**.
@@ -46,11 +46,11 @@ From Core UI
 
 </td></tr><tr><td>
 
-From the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] UI
+From the Agent Workspace for HR Case Management UI
 
 </td><td>
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 2.  Click the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: HR Workspace Lists icon\).
 3.  In the ER category, select an ER case.
 4.  Select **More tabs**.
@@ -160,8 +160,4 @@ Notes and information on the corrective action meeting.
 </td></tr></tbody>
 </table>3.  Click **Save** or **Submit**.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

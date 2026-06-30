@@ -49,8 +49,5 @@ If you manually enter a mail script in the body of a new or converted email noti
 
 You can view the mail scripts in their original form by opening the email template and clicking the **Show Notification Scripts** related link.
 
-**Parent Topic:**[[c_EmailTemplates|Email templates]]
+**Parent Topic:**[Email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md)
 
-## Related
-
-- [[c_EmailTemplates|Email templates]]

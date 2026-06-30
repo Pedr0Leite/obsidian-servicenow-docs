@@ -14,7 +14,7 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Create a request definition for Design and Assign function
 
-Create a request definition and use it to configure the [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook. You can use this request definition to configure an activity for the Design and Assign playbook.
+Create a request definition and use it to configure the Design and Assign playbook. You can use this request definition to configure an activity for the Design and Assign playbook.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_ni\_core.inventory\_admin
 
 ## About this task
 
-You create a request definition and attach the subflow to it. You can use the request definition to configure the activity in the playbook for the [[using-playbooks-design-assign-inventory-record|Design and Assign function]].
+You create a request definition and attach the subflow to it. You can use the request definition to configure the activity in the playbook for the Design and Assign function.
 
 ## Procedure
 
@@ -93,7 +93,3 @@ Create and configure the playbook for Design and Assign function. To learn more,
 
 [Configure a Design and Assign function example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-design-assign-playbook-use-case.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]

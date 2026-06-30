@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_service\_designer
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
 2.  Open the resource block and then set it to **Draft** \[Omitted image "draft-published-slider.png"\] Alt text: Draft . state.
 
@@ -57,6 +57,3 @@ Type of script:-   Instance Script: Javascript that performs an operation on the
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

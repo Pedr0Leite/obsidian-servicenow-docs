@@ -14,7 +14,7 @@ breadcrumb: [Alert similarity, Manage and monitor alerts, Configuring Event Mana
 
 # Activate Event Management solution version
 
-The system activates the most recent version of the solution, but you can activate any previously trained [[c_EM|Event Management]] solution version if it is more appropriate.
+The system activates the most recent version of the solution, but you can activate any previously trained Event Management solution version if it is more appropriate.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Alert similarity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-similarity.md)
 
-## Related
-
-- [[c_EM|Event Management]]

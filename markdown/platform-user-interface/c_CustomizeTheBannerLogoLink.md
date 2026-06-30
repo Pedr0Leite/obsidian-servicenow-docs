@@ -20,7 +20,7 @@ Properties are available to control the URL and target frame used when clicking 
     -   **\_top**to replace the current browser window
     -   **\_blank** for a new window/tab
 
-**Parent Topic:**[[t_CreateACompanyProfile|Create a company profile]]
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
@@ -33,6 +33,3 @@ Properties are available to control the URL and target frame used when clicking 
 
 [Modify the banner]()
 
-## Related
-
-- [[t_CreateACompanyProfile|Create a company profile]]

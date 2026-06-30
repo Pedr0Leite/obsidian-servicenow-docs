@@ -14,16 +14,16 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Application service completion
 
-After an application service is reviewed and approved, you can define attributes that enhance its [[r-discovery|discovery]], reflect its importance, and control access to it.
+After an application service is reviewed and approved, you can define attributes that enhance its discovery, reflect its importance, and control access to it.
 
 There are several configurations you must perform to complete definition of an application service.
 
-\[Omitted image "SMMapFlowCompleteBS.png"\] Alt text: Complete application service definition as part of the [[c_ServiceMappingOverview|Service Mapping]] workflow
+\[Omitted image "SMMapFlowCompleteBS.png"\] Alt text: Complete application service definition as part of the Service Mapping workflow
 
 -   **[Define criticality for application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/define-criticality-for-business-services.md)**  
 For each service instance, select a criticality level that reflects how important it is to your organization operations.
 -   **[Group application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/organizing_services-into-groups.md)**  
-Organize application services by groups to perform actions simultaneously on multiple services, and to control user access to services. You can use [[c_EM|Event Management]] to track service health by service groups.
+Organize application services by groups to perform actions simultaneously on multiple services, and to control user access to services. You can use Event Management to track service health by service groups.
 -   **[Control user access to application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/control-user-access-to-business-services.md)**  
 Assign user roles to service groups to grant users access to application services in your organization. Your organization may restrict access to some services for security or secrecy reasons.
 -   **[Schedule a top-down discovery by Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateDiscoSchedForCITypes.md)**  
@@ -54,8 +54,3 @@ Save time and effort by exporting definitions of service instances from the sour
 
 [Application service analysis and maintenance using classic Service Mapping]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]

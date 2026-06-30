@@ -150,8 +150,5 @@ Value of total assets - of the financial entity
 Monetary value of the total assets of the entity using the ICT services, as per the previous year's financial statement.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-legal-entity|Create a legal entity and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a legal entity and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-legal-entity.md)
 
-## Related
-
-- [[create-legal-entity|Create a legal entity and enhance digital resilience data]]

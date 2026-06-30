@@ -14,7 +14,7 @@ breadcrumb: [Reference, Service Exchange]
 
 # Domain separation and Service Exchange
 
-Domain separation is supported for [[tmt-service-bridge-both-landing-page|Service Exchange]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Service Exchange. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -37,15 +37,10 @@ The Provider Task and Remote Task tables have domain separation available. When 
 
 ## Use cases
 
-When providers have their consumer data separated by domains, the [[service-bridge-v2-provider-tasks|provider tasks]], [[service-bridge-v2-remote-task-overview|remote tasks]], and the corresponding parent tasks are associated with the respective customer domains.
+When providers have their consumer data separated by domains, the provider tasks, remote tasks, and the corresponding parent tasks are associated with the respective customer domains.
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[service-bridge-v2-provider-tasks|Provider tasks]]
-- [[service-bridge-v2-remote-task-overview|Remote tasks]]

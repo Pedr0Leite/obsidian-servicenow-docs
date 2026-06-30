@@ -65,11 +65,7 @@ With request tasks, work order tasks are not required, though they can be used. 
 5.  Select **Submit**.
 
 
-**Parent Topic:**[[c_FacRequestTasks|Facilities request tasks]]
+**Parent Topic:**[Facilities request tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacRequestTasks.md)
 
-**Parent Topic:**[[c_RequestTasksMgmt|Request task management]]
+**Parent Topic:**[Request task management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_RequestTasksMgmt.md)
 
-## Related
-
-- [[c_FacRequestTasks|Facilities request tasks]]
-- [[c_RequestTasksMgmt|Request task management]]

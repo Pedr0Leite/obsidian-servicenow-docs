@@ -18,7 +18,7 @@ CI Lifecycle Management provides a set of state management APIs for manipulating
 
 State management APIs adhere to restrictions and allowances specified by Not Allowed CI Actions, Compatible CI Actions, and Not Allowed Operational Transitions. If an API attempts to perform a restricted operation, the operation is blocked, an error is logged, and a task is automatically created if appropriate.
 
-Lifecycle management APIs can set operational states and CI actions to [[cmdb-groups|CMDB groups]] by utilizing lifecycle management bulk APIs.
+Lifecycle management APIs can set operational states and CI actions to CMDB groups by utilizing lifecycle management bulk APIs.
 
 ## Registration APIs
 
@@ -74,6 +74,3 @@ gs.print(output);
 
 **Parent Topic:**[CMDB CI Lifecycle Management \(legacy\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-ci-lifecycle-mgmt.md)
 
-## Related
-
-- [[cmdb-groups|CMDB groups]]

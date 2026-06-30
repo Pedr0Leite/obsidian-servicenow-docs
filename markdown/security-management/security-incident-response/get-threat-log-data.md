@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks - Firewall integration, Security Incident Respon
 
 # Get Log Data Flow
 
-If [[sir-landing-page|Security Incident Response]], [[threat-intel-landing-page|Threat Intelligence]], and Palo Alto Networks - Firewall are activated, the **[[security-operations-landing-page|Security Operations]] Palo Alto Networks - Get Log Data** flow automatically executes when the Source IP for [[c_Observables|observables]] in a security incident is changed.
+If Security Incident Response, Threat Intelligence, and Palo Alto Networks - Firewall are activated, the **Security Operations Palo Alto Networks - Get Log Data** flow automatically executes when the Source IP for observables in a security incident is changed.
 
 ## Before you begin
 
@@ -89,9 +89,3 @@ The output variables contain data that can be used in subsequent actions. The ou
 |JobData \[string\]|The data collected from the firewall.|
 |error \[string\]|Any errors returned.|
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]

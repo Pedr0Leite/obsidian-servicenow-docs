@@ -14,7 +14,7 @@ breadcrumb: [Relationships Objects, TISC Library Repository, Threat Intelligence
 
 # Define object-observable relationships
 
-Define [[stix-relationships|relationships]] between SDOs and the observable object \(SCO\).
+Define relationships between SDOs and the observable object \(SCO\).
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
@@ -98,7 +98,3 @@ A brief description about the object relationships.
 
 **Parent Topic:**[Relationships Objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/relationship-objects.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

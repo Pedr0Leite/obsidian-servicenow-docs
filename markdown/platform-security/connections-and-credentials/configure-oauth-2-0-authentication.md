@@ -14,7 +14,7 @@ breadcrumb: [OAuth 2.0 authentication via MID Server using external credential s
 
 # Configure a connection to send OAuth request via the MID Server using external vault
 
-Configure a connection to send requests for [[c_OAuthApplications|OAuth 2.0]] tokens to a third-party auth server via the MID Server. The MID Server adds [[oauth-2-credentials|OAuth 2.0 credentials]] \(Client ID and Client Secret\) from the CyberArk external vault, [[oauth-inbound-and-outbound|OAuth]] scope, and token URL from the instance to the [[c_requestAPI|request]] and sends them to the third-party auth server.
+Configure a connection to send requests for OAuth 2.0 tokens to a third-party auth server via the MID Server. The MID Server adds OAuth 2.0 credentials \(Client ID and Client Secret\) from the CyberArk external vault, OAuth scope, and token URL from the instance to the request and sends them to the third-party auth server.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: none
 
 ## About this task
 
-You can configure the connection and credential with a [[sc-configuration|configuration]] template or manually. A configuration template defines the connection record form components and is reusable for other connection records. Manually, you can configure the connection for this purpose only. The topic shows both approaches.
+You can configure the connection and credential with a configuration template or manually. A configuration template defines the connection record form components and is reusable for other connection records. Manually, you can configure the connection for this purpose only. The topic shows both approaches.
 
 ## Procedure
 
@@ -40,11 +40,11 @@ You can configure the connection and credential with a [[sc-configuration|config
 
     2.  Select **New**.
 
-    3.  Select **HTTP Connection with OAuth [[client-credential-grant|Client Credentials grant]] type \(External Storage\)**.
+    3.  Select **HTTP Connection with OAuth Client Credentials grant type \(External Storage\)**.
 
     4.  Update the form, as required.
 
-        For example, you can provide the scope in the `oauth_entity_profile_scope` and `oauth_entity_scope` fields in the Default Data Template section. To learn to [[create-template|create a configuration template]], see [Create a configuration template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/create-template.md).
+        For example, you can provide the scope in the `oauth_entity_profile_scope` and `oauth_entity_scope` fields in the Default Data Template section. To learn to create a configuration template, see [Create a configuration template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/create-template.md).
 
     5.  Select **Submit**.
 
@@ -202,7 +202,7 @@ External Credential Store
 
 </td><td>
 
-Option to use the CyberArk [[c_ExternalCredentialStorage|external credential storage]]. When you select the option, the MID Server gets the OAuth 2.0 credentials \(Client ID and Client secret\) from the external credential storage.**Important:** Confirm that the option is selected.
+Option to use the CyberArk external credential storage. When you select the option, the MID Server gets the OAuth 2.0 credentials \(Client ID and Client secret\) from the external credential storage.**Important:** Confirm that the option is selected.
 
 </td></tr><tr><td>
 
@@ -242,7 +242,7 @@ URL that specifies the endpoint to get the access token from the OAuth server.
         |-----|-----------|
         |Name|Name to identify the application registry record. For example, enter: OAuth 2.0 token request via MID app.|
         |Application|Option to specify the names of applications that can access this application registry. The field is read only.|
-        |Default Grant type|Default method to obtain access token by the client application from the OAuth server. The default and read-only grant type is [[client-credentials|Client Credentials]].|
+        |Default Grant type|Default method to obtain access token by the client application from the OAuth server. The default and read-only grant type is Client Credentials.|
         |Accessible from|Option to specify which applications can access this application registry.|
         |Token URL|URL that specifies the endpoint to get the access token from the OAuth server.|
         |Send Credentials|Option to specify the method of sending the OAuth 2.0 in the request body.|
@@ -407,7 +407,7 @@ URL builder
 
 </td><td>
 
-Either manually enter the connection URL or use system to build the URL based on the inputs. Default is unchecked. If checked, the connection URL is calculated from the following fields: -   Mutual [[c_Authentication|authentication]] — Check box if mutual authentication is used.
+Either manually enter the connection URL or use system to build the URL based on the inputs. Default is unchecked. If checked, the connection URL is calculated from the following fields: -   Mutual authentication — Check box if mutual authentication is used.
 -   Protocol — If mutual authentication is not used, enter protocol. The default is HTTPs.
 -   Protocol profile — If mutual authentication is used, enter protocol profile from sys\_protocol\_profile.
 -   Host
@@ -504,15 +504,3 @@ Option to specify a MID application or accept the default application choice.**N
 
 **Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/oauth-2-0-support-in-external-credential.md)
 
-## Related
-
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[oauth-2-credentials|OAuth 2.0 credentials]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[client-credential-grant|Client credentials grant]]
-- [[create-template|Create a configuration template]]
-- [[c_ExternalCredentialStorage|External credential storage]]
-- [[client-credentials|Client Credentials]]
-- [[c_Authentication|Authentication]]

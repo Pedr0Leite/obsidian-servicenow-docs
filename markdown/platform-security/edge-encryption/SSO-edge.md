@@ -14,7 +14,7 @@ breadcrumb: [Installing Edge Encryption, Edge Encryption, Encryption]
 
 # Set up multiple provider SSO with Edge Encryption
 
-Set up multiple provider SSO to enable logging in through the [[edge-encryption|Edge Encryption]] proxy server URL or the instance URL. If you are implementing multiple provider single sign-on \(SSO\) with Edge Encryption enabled, some [[users|users]] might need to log in to your instance through the Edge Encryption proxy server, while other users might not.
+Set up multiple provider SSO to enable logging in through the Edge Encryption proxy server URL or the instance URL. If you are implementing multiple provider single sign-on \(SSO\) with Edge Encryption enabled, some users might need to log in to your instance through the Edge Encryption proxy server, while other users might not.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 The user logging in will need to use the appropriate URL to log in, either using the Edge Proxy or not using the Edge Proxy.
 
 -   If routing all users through the Edge Encryption proxy server, set up your identify provider record and define the proxy server URL in the **ServiceNow Homepage**, **Entity ID / Issuer**, and **Audience URI** fields.
--   To route some users through the proxy server and some users to the instance, create two identify provider records. Both records use the same value in the **[[identity-landing|Identity]] Provider URL** field. However, one of the records routes through the proxy server, while the other routes to the instance.
+-   To route some users through the proxy server and some users to the instance, create two identify provider records. Both records use the same value in the **Identity Provider URL** field. However, one of the records routes through the proxy server, while the other routes to the instance.
     -   Login via instance name:`https://<instance name>.service-now.com/login_with_sso.do?glide_sso_id=<sys_id` of IdP record for non-Edge Proxy
     -   Log in via Edge Proxy: `https://<edge hostname>:<port>/login_with_sso.do?glide_sso_id=<sys_id` of the IdP record for the Edge Proxy
 
@@ -145,7 +145,7 @@ Audience URI
 
 4.  If using more than one identity provider, modify the MultiSSO installation exit.
 
-    1.  Navigate to **System Definition** &gt; **[[r_InstallationExits|Installation Exits]]**.
+    1.  Navigate to **System Definition** &gt; **Installation Exits**.
 
         The system displays the current list of installation exits.
 
@@ -154,11 +154,11 @@ Audience URI
     3.  Locate the following statement in the **Script** field.
 
         ```
-        var samlResponseTxt = [[c_requestAPI|request]].getParameter("SAMLResponse");
+        var samlResponseTxt = request.getParameter("SAMLResponse");
         if (!GlideSession.get().isLoggedIn() && GlideStringUtil.notNil(samlResponseTxt)) {
             var idpRecord = this.getIdPRecord(request);
             if (idpRecord) {
-                SSO_Helper.debug("IdP found based on [[c_SAML2.0WebBrowserSSOProfile|SAML]] response: " + idpRecord.getUniqueValue());
+                SSO_Helper.debug("IdP found based on SAML response: " + idpRecord.getUniqueValue());
                 return new SSO_Helper(idpRecord.getUniqueValue(), false, null, true);
             }
         }
@@ -181,11 +181,11 @@ Audience URI
            }
         ```
 
-        **Note:** IdP initiated login does not work in this [[sc-configuration|configuration]].
+        **Note:** IdP initiated login does not work in this configuration.
 
     5.  Click **Update**.
 
-5.  If using more than one company, [[t_ConfigureUsersMultiProviderSSO|configure users for multi-provider SSO]] and update sys\_id of the identity provider record depending on the user.
+5.  If using more than one company, configure users for multi-provider SSO and update sys\_id of the identity provider record depending on the user.
 
     For more information, see [Configure users for Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_ConfigureUsersMultiProviderSSO.md).
 
@@ -199,13 +199,3 @@ Audience URI
 
 **Parent Topic:**[Installing Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_InstallEdgeEncryptionProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[r_InstallationExits|Installation exits]]
-- [[c_requestAPI|request]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[t_ConfigureUsersMultiProviderSSO|Configure users for Multi-Provider SSO]]

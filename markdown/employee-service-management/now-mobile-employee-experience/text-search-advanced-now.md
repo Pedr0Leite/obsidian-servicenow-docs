@@ -18,7 +18,7 @@ The AI Search search engine in the Now Mobile platform enables users to find ans
 
 The mobile platform supports two search engines within applet launchers: AI Search and Zing.
 
-AI Search uses user data sources \(people\), catalog items \(services\), and knowledge articles. The Zing search engine uses additional data sources not associated with AI Search, for example, user [[emp-slate-inbox|tasks and requests]].
+AI Search uses user data sources \(people\), catalog items \(services\), and knowledge articles. The Zing search engine uses additional data sources not associated with AI Search, for example, user tasks and requests.
 
 -   For more information on AI Search configuration, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md).
 -   For more information about Zing configuration, see [Global search for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-search-config.md).
@@ -62,13 +62,9 @@ Knowledge category AI search
 </table>-   **[Configure AI Search for mobile devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/advanced-text-search-config-now.md)**  
 Configure the Now Mobile search bar to use the AI Search search engine.
 -   **[Customize AI Search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/advanced-text-search-customize.md)**  
-[[advanced-text-search-customize|Customize AI Search results]] to provide users with a tailored search experience.
+Customize AI Search results to provide users with a tailored search experience.
 -   **[Add AI Search to a launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/aisearch-add-applet-launcher.md)**  
 Configure your launcher screen to use the AI Search search engine.
 
 **Parent Topic:**[Configuring Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-mobile-employee-experience/setup-mobile-employee.md)
 
-## Related
-
-- [[emp-slate-inbox|Tasks and requests]]
-- [[advanced-text-search-customize|Customize AI Search results]]

@@ -27,13 +27,13 @@ Before you begin:
 
 An IP Address Block represents a routable address range that you want to subdivide and allocate. Once created, the IP Address Block becomes the parent for IP Subnetwork records.
 
-The IP Address Block label in the user interface refers to the Managed IP Pool class in the underlying [[uses-for-network-inventory-data|data model]].
+The IP Address Block label in the user interface refers to the Managed IP Pool class in the underlying data model.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]** or **Service Operations Workspace**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace** or **Service Operations Workspace**.
 
-2.  Select the list icon, and then go to **[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **IP Address Block**.
+2.  Select the list icon, and then go to **Inventory Number Allocation** &gt; **IP Address Block**.
 
 3.  Select **Create Address Block**.
 
@@ -56,7 +56,7 @@ The IP Address Block label in the user interface refers to the Managed IP Pool c
 
     When you select Set Inventory Attributes, the system creates a TNI CI Attributes record. The record is created in the CI table and in the CI Attributes tables, and linked to the CI record.
 
-    **Note:** If you select Save without selecting Set Inventory Attributes, the system creates a CI record but not a [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) CI record. In the Network Inventory Workspace, Set Inventory Attributes is visible only for [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) roles. In the [[ci-attribue-form|TNI CI attributes form]], the name is fetched from the Name field by default, and the Inventory Category is set as IP Address.
+    **Note:** If you select Save without selecting Set Inventory Attributes, the system creates a CI record but not a [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) CI record. In the Network Inventory Workspace, Set Inventory Attributes is visible only for [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md) roles. In the TNI CI attributes form, the name is fetched from the Name field by default, and the Inventory Category is set as IP Address.
 
 7.  To add packs to this service, select **Add Packs**.
 
@@ -75,7 +75,7 @@ The IP Address Block label in the user interface refers to the Managed IP Pool c
 
 Create one or more IP Subnetworks within this IP Address Block. See [Create an IP Subnetwork record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-an-ip-subnetwork-record.md).
 
-You can also review or update the fields, create a related tab record, or [[delete-inventory-record|delete a record]]. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
+You can also review or update the fields, create a related tab record, or delete a record. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
 
 **Parent Topic:**[Manage IP addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/manage-ip-addresses.md)
 
@@ -92,10 +92,3 @@ You can also review or update the fields, create a related tab record, or [[dele
 
 [Create Managed Network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create_managed_network.md)
 
-## Related
-
-- [[uses-for-network-inventory-data|Data model]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[ci-attribue-form|TNI CI Attributes form]]
-- [[delete-inventory-record|Delete a record]]

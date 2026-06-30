@@ -24,14 +24,10 @@ Role required: admin or survey\_admin
 
 ## Procedure
 
-1.  Verify that the target instance has [[r_Assessments|assessments]] enabled.
+1.  Verify that the target instance has assessments enabled.
 
 2.  Follow the steps in [Import data from XML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/import-xml-file.md) to import the assessment.
 
 
-**Parent Topic:**[[c_SurveyInportAndExport|Sharing surveys]]
+**Parent Topic:**[Sharing surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyInportAndExport.md)
 
-## Related
-
-- [[c_SurveyInportAndExport|Sharing surveys]]
-- [[r_Assessments|Assessments]]

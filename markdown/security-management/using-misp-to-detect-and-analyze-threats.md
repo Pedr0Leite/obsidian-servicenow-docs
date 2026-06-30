@@ -12,30 +12,21 @@ breadcrumb: [MISP integration for Security Operations, Threat Intelligence integ
 
 # Using MISP to investigate and analyze threats
 
-You can use the MISP data across the ServiceNow AI Platform [[threat-intel-landing-page|Threat Intelligence]] module and the ServiceNow AI Platform SIR module to investigate and analyze threats to your organization.
+You can use the MISP data across the ServiceNow AI Platform Threat Intelligence module and the ServiceNow AI Platform SIR module to investigate and analyze threats to your organization.
 
--   **[[sightings-searches-in-misp|Sighting searches in MISP]]**  
-You can perform sighting searches on [[c_Observables|observables]] in the MISP instance to determine how often certain types of attacks, such as phishing attacks or communications with a malicious IP or URL, occur in your network. Each occurrence is considered a sighting.
--   **[[observable-enrichment-in-misp|Observable enrichment in MISP]]**  
+-   **[Sighting searches in MISP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-searches-in-misp.md)**  
+You can perform sighting searches on observables in the MISP instance to determine how often certain types of attacks, such as phishing attacks or communications with a malicious IP or URL, occur in your network. Each occurrence is considered a sighting.
+-   **[Observable enrichment in MISP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/observable-enrichment-in-misp.md)**  
 By enriching observables with additional information from various MISP sources during incident response investigations, you can contain identified threats.
--   **[[events-in-misp|Managing events in MISP]]**  
+-   **[Managing events in MISP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/events-in-misp.md)**  
 You can create events in MISP automatically or manually from the ServiceNow AI Platform. You can also edit the event data in MISP from the ServiceNow AI Platform.
--   **[[rollup-mitre-information-using-misp-enrichment-results|Roll up MITRE-ATT&amp;CK information using MISP enrichment results]]**  
+-   **[Roll up MITRE-ATT&amp;CK information using MISP enrichment results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/rollup-mitre-information-using-misp-enrichment-results.md)**  
 Roll up the MISP enrichment results manually if you haven't enabled the automatic rollup of MISP information.
 
-**Parent Topic:**[[misp-integration-for-security-operations|MISP integration for Security Operations]]
+**Parent Topic:**[MISP integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/misp-integration-for-security-operations.md)
 
 **Related topics**  
 
 
 [MISP administration]()
 
-## Related
-
-- [[sightings-searches-in-misp|Sighting searches in MISP]]
-- [[observable-enrichment-in-misp|Observable enrichment in MISP]]
-- [[events-in-misp|Managing events in MISP]]
-- [[rollup-mitre-information-using-misp-enrichment-results|Roll up MITRE-ATT&amp;CK information using MISP enrichment results]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]

@@ -14,9 +14,9 @@ breadcrumb: [Task Intelligence for ITSM, IT Service Management]
 
 # Monitoring and Analytics for Task Intelligence for ITSM
 
-You can view the impacts of your trained incident prediction [[c_Models|models]]. Monitor model performance overtime, track business value, and view what predictions your agents did and didn't use.
+You can view the impacts of your trained incident prediction models. Monitor model performance overtime, track business value, and view what predictions your agents did and didn't use.
 
-To access the Task Intelligence Analytics dashboard, navigate to **All** &gt; **[[c-itsm-task-intelligence|Task Intelligence for ITSM]]** &gt; **Monitoring**.
+To access the Task Intelligence Analytics dashboard, navigate to **All** &gt; **Task Intelligence for ITSM** &gt; **Monitoring**.
 
 Use the **Model** drop-down list to select a model. Select **Apply** to open the model's configuration.
 
@@ -27,7 +27,7 @@ The Analytics dashboard contains the following sections:
 
 ## Get an overview
 
-The Analytics dashboard uses visuals to represent the [[performance-overview-ref|performance overview]] of the model.
+The Analytics dashboard uses visuals to represent the performance overview of the model.
 
 -   **Number of predictions**
 
@@ -62,8 +62,4 @@ The Analytics dashboard uses visuals to track how the model used predictions ove
 
     The bar chart tracks the usage of the individual field predictions over time. Each bar in the chart shows three components, which are the predictions accepted, the predictions replaced, and the predictions that were skipped by the model. A red outline around each bar represents the total number of records for each day. To compare specific components, navigate to the legends and deselect the ones that you don't want to include so that you can have a more customized and focused comparison based on user preferences. By default, the view displays the number of predictions. However, you have the option to switch to the percentage view by toggling the Show Percentage option. In the percentage view, you can also access the information about the baseline that was replaced and accepted, which is derived from the training data. This option enables you to gain insights into the performance of the model with the baseline.
 
-## Related
 
-- [[c_Models|Models]]
-- [[c-itsm-task-intelligence|Task Intelligence for ITSM]]
-- [[performance-overview-ref|Performance overview]]

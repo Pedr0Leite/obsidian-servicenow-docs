@@ -22,7 +22,7 @@ Role required: sn\_si.write
 
 ## About this task
 
-The workflow is triggered when the **Category** in a security incident is set or changed to **Confidential personal [[identity|identity]] data exposure**. This action causes a response task to be created for the first activity in the workflow.
+The workflow is triggered when the **Category** in a security incident is set or changed to **Confidential personal identity data exposure**. This action causes a response task to be created for the first activity in the workflow.
 
 \[Omitted image "confid-data-expos-wf-template.png"\] Alt text: Confidential Data Exposure Template
 
@@ -173,6 +173,3 @@ If you change the state of the task to **Closed Complete** or **Cancelled**, the
 
 [Security Incident Web/BBS Defacement workflow template]()
 
-## Related
-
-- [[identity|Identity]]

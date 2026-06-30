@@ -14,7 +14,7 @@ breadcrumb: [Installing the MID Server, Configuring MID Server, MID Server, Mana
 
 # Use MID Server guided setup
 
-[[mid-server-landing|MID Server]] guided setup provides a sequence of tasks that help you install a MID Server with the proper user account and [[t_ValidateAMIDServer|validate the MID Server]]. If you are setting up a MID Server for the first time, this is a good way to get one up and running in your environment quickly.
+MID Server guided setup provides a sequence of tasks that help you install a MID Server with the proper user account and validate the MID Server. If you are setting up a MID Server for the first time, this is a good way to get one up and running in your environment quickly.
 
 ## Before you begin
 
@@ -84,7 +84,3 @@ Each configuration activity provides the following resources to help you:
 
 If necessary, [deploy multiple MID Servers from a single host](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/t_InstallMultplMIDSvrOnASingleSys.md) in your network. Otherwise, proceed to [configure your MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/c_MIDServerConfiguration.md).
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[t_ValidateAMIDServer|Validate the MID Server]]

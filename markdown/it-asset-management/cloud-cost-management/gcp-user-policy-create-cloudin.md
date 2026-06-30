@@ -21,7 +21,7 @@ To perform billing download for Google Cloud, you need specific roles and permis
 Roles required:
 
 -   On the Google Cloud Console: Google Cloud administrator.
--   [[cloud-insights-landing-page|Cloud Cost Management]]: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin.
+-   Cloud Cost Management: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin.
 
 ## About this task
 
@@ -122,7 +122,7 @@ Recommendations-   Identify under-used resources
 </td></tr><tr><td>
 
 Resource Lifecycle Management-   Start/stop instances on schedule
--   Delete [[um-cloudin|unused resources]]
+-   Delete unused resources
 -   Resize resources based on recommendations
 -   Automated cost optimization actions
 
@@ -164,7 +164,4 @@ Resource Lifecycle Management-   Start/stop instances on schedule
     -   Batch API
 3.  For details on policy creation see [Google Cloud docs](https://cloud.google.com/docs).
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[um-cloudin|Unused resources]]

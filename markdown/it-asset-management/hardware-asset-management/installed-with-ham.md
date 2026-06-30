@@ -36,7 +36,7 @@ ham\_admin
 
 </td><td>
 
-Grants full access to the respective features of the [[ham-landing-page|Hardware Asset Management]] application including the ability to Opt-in for the Content Service. This role is used for Hardware Asset Management.
+Grants full access to the respective features of the Hardware Asset Management application including the ability to Opt-in for the Content Service. This role is used for Hardware Asset Management.
 
 </td><td>
 
@@ -45,7 +45,7 @@ Grants full access to the respective features of the [[ham-landing-page|Hardware
 -   report\_user
 -   sn\_hamp.ham\_user
 -   asset
--   [[c_Procurement|procurement]]\_admin
+-   procurement\_admin
 
 </td></tr><tr><td>
 
@@ -53,7 +53,7 @@ sn\_hamp.ham\_user
 
 </td><td>
 
-Manage hardware assets and reports. This role enables users to view, create, update, and delete hardware asset records, and to generate and view asset-related reports. This role is tailored for everyday [[am-landing-page|asset management]] tasks.
+Manage hardware assets and reports. This role enables users to view, create, update, and delete hardware asset records, and to generate and view asset-related reports. This role is tailored for everyday asset management tasks.
 
 </td><td>
 
@@ -89,7 +89,7 @@ Provides access to:-   Edit Exclusion flag \[ excluded\_from\_ham\] value over a
 
 </td></tr><tr><td>
 
-[[asn-for-ham|Advanced Shipment Notification \(ASN\)]]
+Advanced Shipment Notification \(ASN\)
 
 </td><td>
 
@@ -111,7 +111,7 @@ asset\_integration\_admin
 </td><td>
 
 Provides access to:-   Create provider integration profile records in the Provider integration profile \[sn\_hamp\_provider\_int\_profile\] table
--   **Provider integration profiles** list in the [[asset-operations-view|Asset operations view]] of the [[using-ham-workspace|Hardware Asset Workspace]]
+-   **Provider integration profiles** list in the Asset operations view of the Hardware Asset Workspace
 
 </td></tr><tr><td>
 
@@ -170,7 +170,7 @@ Access to the following system properties:-   **sn\_hamp.update\_assets\_norm\_m
 
 </td></tr><tr><td>
 
-Important Actions in the [[inventory-view-am|Inventory view]] of the Hardware Asset Workspace
+Important Actions in the Inventory view of the Hardware Asset Workspace
 
 </td><td>
 
@@ -178,7 +178,7 @@ Admin role isn't required. The asset, inventory\_admin, or ham\_admin role is su
 
 </td><td>
 
-You can view the following important action cards in the Inventory view without the admin role:-   **Inventory - [[stale-shipments|Stale shipments]]**
+You can view the following important action cards in the Inventory view without the admin role:-   **Inventory - Stale shipments**
 -   **Inventory - Carrier integration failures**
 -   **Inventory - Unmapped carrier profiles**
 
@@ -192,7 +192,7 @@ sn\_hamp.ham\_system\_admin
 
 </td><td>
 
-Provides access to the following lists in the Assets [[operation-view-ccm-ws|operations view]]:-   **Asset warranty**
+Provides access to the following lists in the Assets operations view:-   **Asset warranty**
 -   **Carrier integration profiles**
 
 </td></tr><tr><td>
@@ -283,7 +283,7 @@ Provides access to read, write, delete, and report on the ITAM AI Agents Log \[i
 
 </td></tr><tr><td>
 
-Common Hardware Asset Management and [[enterprise-asset-management|Enterprise Asset Management]] tables
+Common Hardware Asset Management and Enterprise Asset Management tables
 
 </td><td>
 
@@ -316,7 +316,7 @@ HAM - Content Upload
 
 </td><td>
 
-Publishes the normalized hardware [[c_Models|models]].
+Publishes the normalized hardware models.
 
 </td></tr><tr><td>
 
@@ -415,7 +415,7 @@ Details of the asset audits.
 
 </td></tr><tr><td>
 
-Hardware [[reclaim-asset|Asset Reclamation]] Line
+Hardware Asset Reclamation Line
 
  \[sn\_hamp\_asset\_reclaim\_line\]
 
@@ -469,7 +469,7 @@ Contract Renewal Request \[sn\_contract\_renewal\_request\]
 
 </td><td>
 
-Stores all the contract renewal requests through the [[cont-renew-wf|contract renewal workflow]].
+Stores all the contract renewal requests through the contract renewal workflow.
 
 </td></tr><tr><td>
 
@@ -685,7 +685,7 @@ Replacement Models
 
 </td><td>
 
-List of replacement records for [[zero-touch-asset-refresh|Zero Touch Refresh]] models.
+List of replacement records for Zero Touch Refresh models.
 
 </td></tr><tr><td>
 
@@ -739,7 +739,7 @@ List of RMA request line records of RAM requests.
 
 </td></tr><tr><td>
 
-[[success-act-fields|HAM Success Activity]]
+HAM Success Activity
 
  \[sn\_hamp\_success\_activity\]
 
@@ -800,20 +800,3 @@ Stores the RFID information of assets.
 </td></tr></tbody>
 </table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[am-landing-page|Asset Management]]
-- [[asn-for-ham|Advanced Shipment Notification \(ASN\)]]
-- [[asset-operations-view|Asset operations view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[stale-shipments|Stale shipments]]
-- [[operation-view-ccm-ws|Operations view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Models|Models]]
-- [[reclaim-asset|Asset reclamation]]
-- [[cont-renew-wf|Contract renewal workflow]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[success-act-fields|HAM Success Activity]]

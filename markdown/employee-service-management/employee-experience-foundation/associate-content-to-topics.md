@@ -14,7 +14,7 @@ breadcrumb: [Create and associate topics, Unified Taxonomy for Employee Center, 
 
 # Associate connected content to a topic
 
-Associate all existing and new content to the cloned taxonomy topics. You can add catalog items, knowledge bases, and [[emp-center-quick-link-config|quick links]] to the topics.
+Associate all existing and new content to the cloned taxonomy topics. You can add catalog items, knowledge bases, and quick links to the topics.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 For more information, see [Taxonomy and connected content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/track-new-content.md).
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]

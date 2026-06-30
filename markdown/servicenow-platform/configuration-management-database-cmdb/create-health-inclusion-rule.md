@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Health, Configuration Management Database \(CMDB\),
 
 # Create health inclusion rule
 
-Filter the CIs that are included in health calculations and that appear in the [[c_CMDBHealth|CMDB Health]] Dashboard by defining health inclusion rules. Use health inclusion rules to temporarily filter out classes that generate a large number of failures, until the problems are fixed.
+Filter the CIs that are included in health calculations and that appear in the CMDB Health Dashboard by defining health inclusion rules. Use health inclusion rules to temporarily filter out classes that generate a large number of failures, until the problems are fixed.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ In the base system, there are no predefined health inclusion rules, in which cas
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to show the CI Classes list and then select the class for which to create a health inclusion rule.
 
@@ -63,7 +63,3 @@ In the base system, there are no predefined health inclusion rules, in which cas
 
 You can delete a health inclusion rules that is no longer needed by selecting that rule, and then on the CMDB Health Configuration form, selecting **Delete**.
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

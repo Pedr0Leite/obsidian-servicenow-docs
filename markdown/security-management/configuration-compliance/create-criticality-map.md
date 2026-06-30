@@ -14,7 +14,7 @@ breadcrumb: [Configure, Configuration Compliance, Unified Security Exposure Mana
 
 # Create a Configuration Compliance criticality map
 
-[[vr-config-compliance-landing|Configuration Compliance]] criticality [[mapping-logrhythm|mapping]] provides a transform map for third-party source criticality fields to recognizable fields in Configuration Compliance severity.
+Configuration Compliance criticality mapping provides a transform map for third-party source criticality fields to recognizable fields in Configuration Compliance severity.
 
 ## Before you begin
 
@@ -81,7 +81,4 @@ The configuration issue associated with the control is a minor risk and can be i
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[mapping-logrhythm|Mapping]]

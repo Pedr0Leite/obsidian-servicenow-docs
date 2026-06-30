@@ -26,7 +26,7 @@ Activate the Certification Core plugin to enable the Compliance functionality. S
 
     The template applies its conditions to these records.
 
-2.  Use the [[ci-class-manager-landing-page|CI Class Manager]] to navigate to the Certification Template form:
+2.  Use the CI Class Manager to navigate to the Certification Template form:
 
     1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
@@ -40,8 +40,8 @@ Activate the Certification Core plugin to enable the Compliance functionality. S
 
 4.  Or, navigate using one of these paths:
 
-    -   **All** &gt; **Compliance** &gt; **[[c_ArchitectureCompliance|Architecture Compliance]]** &gt; **Templates**
-    -   **All** &gt; **Compliance** &gt; **[[c_DesiredState|Desired State]]** &gt; **Templates**
+    -   **All** &gt; **Compliance** &gt; **Architecture Compliance** &gt; **Templates**
+    -   **All** &gt; **Compliance** &gt; **Desired State** &gt; **Templates**
     -   **All** &gt; **Compliance** &gt; **Templates**
     -   **All** &gt; **Audit Definitions** &gt; **Templates**
 5.  Select **New** or select a certification template to edit.
@@ -71,13 +71,13 @@ Activate the Certification Core plugin to enable the Compliance functionality. S
     -   **Certification CI Relationship Conditions**: \[Desired State audit types\] Define the CI relationships to certify, such as Runs on or Depends on.
     -   **Certification User Relationship Conditions**: \[Desired State audit types\] Select the desired user relationship for this configuration item. The relationship provided in the base system is Log reviewed by.
     -   **Certification Group Relationship Conditions**: \[Desired State audit types\] Select the desired group relationship for this configuration item. The relationship provided in the base system is Backed up by.
-    -   **Certification Related List Conditions**: \[All audit types\] Select field values from tables that [[reference|reference]] the template table, or user-defined related lists ,which are created via custom relationships in the sys\_relationship table. To create a condition that evaluates all servers in the Server \[cmdb\_ci\_server\] table for the presence of Microsoft Word 2007, as referenced in the Software Installation \[cmdb\_sam\_sw\_install\] table. The resulting condition is \[Software Installation-&gt;Installed on\] \[Display name\] \[is\] \[Microsoft Word 2007\].
+    -   **Certification Related List Conditions**: \[All audit types\] Select field values from tables that reference the template table, or user-defined related lists ,which are created via custom relationships in the sys\_relationship table. To create a condition that evaluates all servers in the Server \[cmdb\_ci\_server\] table for the presence of Microsoft Word 2007, as referenced in the Software Installation \[cmdb\_sam\_sw\_install\] table. The resulting condition is \[Software Installation-&gt;Installed on\] \[Display name\] \[is\] \[Microsoft Word 2007\].
 
         Check **All** to include all records in the condition requirements of the related list. If there are no records in the related list, then:
 
         -   If **All** is checked, the condition requirement is met.
         -   If **All** is cleared, the requirement is not met.
-    **Note:** By default, the condition builders for relationships display only suggested relationships. To see all possible relationships, select the **Show all relationships** [[check-box|check box]] on the side of the form.
+    **Note:** By default, the condition builders for relationships display only suggested relationships. To see all possible relationships, select the **Show all relationships** check box on the side of the form.
 
     1.  Select **Insert a new row** to insert a condition.
 
@@ -109,10 +109,4 @@ Activate the Certification Core plugin to enable the Compliance functionality. S
 
     The system saves a new version of the current template and makes it the Active version. The previous version is marked inactive.
 
-## Related
 
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_DesiredState|Desired State]]
-- [[reference|Reference]]
-- [[check-box|Check box]]

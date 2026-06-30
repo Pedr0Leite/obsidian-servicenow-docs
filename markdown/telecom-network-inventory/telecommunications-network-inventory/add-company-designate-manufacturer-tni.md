@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Create manufacturer and vendor codes
 
-Create company codes by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can create codes for each manufacturer, vendor, or customer that you do business with. You can categorize these records to categorize the network assets.
+Create company codes by using the Telecommunications Network Inventory application. You can create codes for each manufacturer, vendor, or customer that you do business with. You can categorize these records to categorize the network assets.
 
 ## Before you begin
 
@@ -28,14 +28,10 @@ Role required: user\_admin or admin
 
 3.  On the form, fill in the fields.
 
-    **Note:** To learn more about the fields on the [[tni-company-form|Company form]], see [Company form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-company-form.md).
+    **Note:** To learn more about the fields on the Company form, see [Company form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-company-form.md).
 
 4.  Click **Submit**.
 
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[tni-company-form|Company form]]

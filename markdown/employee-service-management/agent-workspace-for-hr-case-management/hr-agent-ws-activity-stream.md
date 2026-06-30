@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Using the activity stream in Agent Workspace for HR Case Management
 
-Use the [[activity-lxp|activity]] stream section of [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] to document work notes \(private\) or comments, respond to email, or view the state of the HR case.
+Use the activity stream section of Agent Workspace for HR Case Management to document work notes \(private\) or comments, respond to email, or view the state of the HR case.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  In the Compose section, select **Comments** \(visible to subject person\) or **Work notes** \(not visible to subject person\).
 
@@ -32,8 +32,4 @@ Role required: sn\_hr\_core.case\_writer
 
     **Note:** There is also a **Comments/Worknotes** section at the bottom, left side of the form. This section is turned off by default, but can be used to enter text by clicking the accordion icon \(\[Omitted image "playbook-accordion-icon.png"\] Alt text: Accordion icon\). After entering text, click **Save**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

@@ -14,7 +14,7 @@ breadcrumb: [Verifying delivery addresses in playbook, Working with playbooks, U
 
 # Review delivery address in playbook
 
-Verify a delivery address presented through the playbook by evaluating the address against [[supplier|supplier]] addresses and indicating whether it’s valid.
+Verify a delivery address presented through the playbook by evaluating the address against supplier addresses and indicating whether it’s valid.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: Fulfiller, agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  Select the List icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and select **All work** &gt; **Cases**.
 
@@ -123,8 +123,3 @@ The procurement case is updated with valid address and its state updates to Clos
 
 **Parent Topic:**[Verifying delivery addresses in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/delivery-address-in-playbook.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

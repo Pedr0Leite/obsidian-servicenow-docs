@@ -14,7 +14,7 @@ breadcrumb: [Configuring Lifecycle Events, Lifecycle Events, Employee Journey Ma
 
 # Activate Lifecycle Events
 
-You can activate Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \[com.sn\_hr\_lifecycle\_events\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate Human Resources Scoped App: Lifecycle Events \[com.sn\_hr\_lifecycle\_events\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Provides core HR features.
 
 </td></tr><tr><td>
 
-[[employee-center-landing-page|Employee Center]]
+Employee Center
 
  \[com.sn\_hr\_service\_portal\]
 
@@ -84,12 +84,7 @@ Provides Employee Center.
 -   **[Lifecycle event script includes and APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/LEScriptIncludes.md)**  
 Script includes call workflows within Lifecycle Events.
 -   **[Lifecycle Events workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/LEWorkflow.md)**  
-The **HR [[activity-lxp|Activity]] Set Launcher** workflow drives the entire lifecycle event process. Associated workflows drive each of the activity sets within a lifecycle event.
+The **HR Activity Set Launcher** workflow drives the entire lifecycle event process. Associated workflows drive each of the activity sets within a lifecycle event.
 
 **Parent Topic:**[Configuring Lifecycle Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configuring-lifecycle-events.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

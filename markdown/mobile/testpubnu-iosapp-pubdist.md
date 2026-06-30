@@ -52,10 +52,10 @@ After the build successfully completes and your app is ready for testing:
 
 After your Testflight testers have validated the branding and functionality of your app, you can set up your app for use. These configurations are optional.
 
-1.  Set up [[sg-mobile-security-push-notif|push notifications]] by downloading the Apple push certificate \(`p12` file\) and uploading it to your app's push application record:
+1.  Set up push notifications by downloading the Apple push certificate \(`p12` file\) and uploading it to your app's push application record:
     1.  Create your push notification certificate \(`p12` file\). For instructions, see [KB1506609](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1506609). When you perform this step, you create a push certificate password that you must use in Step 1c. below.
     2.  Access the Push Applications table on your instance by navigating to **All** &gt; **Push Application**.
-    3.  Configure your push applications. For instructions, see [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]].
+    3.  Configure your push applications. For instructions, see [Configure push applications for iOS branded apps using certificate based authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-push-setup-ios.md).
     4.  \(Optional\) Test your push notifications by using out-of-the-box configurations. For more information, see [KB0829093](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0829093).
 2.  \(Optional\) Set up deep links and universal links for your app by downloading the universal links file \(AASA\) in the **Your app's info** tab under the **App info** section.
     -   See [KB1273622](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=3c08eadcdb556154fd8d2b69139619b3) for more information about deep links and universal links.
@@ -70,7 +70,7 @@ Once your TestFlight testers have tested your app for branding requirements and 
 
 ## 4. Customize your app's workflows
 
-Use Mobile App Builder to customize your app. See [[mab-concept|Mobile App Builder]] for detailed information about how you can customize your branded app.
+Use Mobile App Builder to customize your app. See [Mobile App Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-concept.md) for detailed information about how you can customize your branded app.
 
 ## 5. Publish and distribute your app
 
@@ -86,11 +86,5 @@ For instructions:
 
 ## 6. Keep your app updated
 
-Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]].
+Update your app before you update your ServiceNow family version, or at least once per year to keep your push notifications working and to leverage the most up to date ServiceNow mobile features. For more information, see [Tested devices and supported versions for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-supported-devices.md).
 
-## Related
-
-- [[sg-push-setup-ios|Configure push applications for iOS branded apps using certificate based authentication]]
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-supported-devices|Tested devices and supported versions for ServiceNow mobile apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]

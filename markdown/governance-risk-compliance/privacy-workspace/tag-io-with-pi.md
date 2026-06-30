@@ -14,7 +14,7 @@ breadcrumb: [Manage information objects, Configure, Privacy Management, Governan
 
 # Classify information objects as personal information
 
-Categorize [[information-objects|information objects]] as personal information. Only information objects classified as personal information can be associated with the [[ropa-record|processing activities]].
+Categorize information objects as personal information. Only information objects classified as personal information can be associated with the processing activities.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_privacy.manager
 
 Information objects that are classified as personal information can be used in the privacy assessments and processing activities.
 
-Even if you create a new information object from the **\[PI\] Information objects** [[list-view-uib-ws|list view]], you must classify the data as personal information. Do not assume that because you are creating an information object in the \[PI\] Information objects list, the information object is automatically classified.
+Even if you create a new information object from the **\[PI\] Information objects** list view, you must classify the data as personal information. Do not assume that because you are creating an information object in the \[PI\] Information objects list, the information object is automatically classified.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  In the Privacy Workspace, click the List icon \(\[Omitted image "ws-list-icon.png"\]\).
 
@@ -47,9 +47,3 @@ The information object that you classified as personal information appears in th
 
 **Parent Topic:**[Manage the Privacy Management library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-library-setup.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[ropa-record|Processing activities]]
-- [[list-view-uib-ws|List view]]
-- [[privacy-management|privacy management]]

@@ -14,13 +14,13 @@ breadcrumb: [Create and secure an AI agent in Now Assist, Agentic AI security an
 
 Create your agent in AI Agent Studio, configure its tools and knowledge sources, and set the access controls that determine who can invoke it and what data it can access.
 
-This phase covers the core build work in AI Agent Studio. Security [[sc-configuration|configuration]] — access controls and role masking — is part of this phase, not a separate step. Configure it while you build the agent, not after.
+This phase covers the core build work in AI Agent Studio. Security configuration — access controls and role masking — is part of this phase, not a separate step. Configure it while you build the agent, not after.
 
 ## Create the agent
 
 Navigate to **All** &gt; **AI Agent Studio** to begin. Every AI agent is composed of four core elements:
 
--   **Agent [[identity-landing|identity]]**
+-   **Agent identity**
 
     Defines who the agent is, what domain it operates in, and how it should behave. This is the persistent system-level context that frames every decision the agent makes.
 
@@ -47,7 +47,7 @@ Tools give your agent the capabilities it needs to complete its tasks. Add only 
 
 Access controls must be configured before you test or deploy your agent. There are two distinct layers to configure:
 
-**Who can invoke the agent \(ACLs\):** ACLs determine which [[users|users]] can discover and invoke your agent. Configure a separate ACL for each agent and each agentic workflow. For instructions, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md) for AI agents and [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md) for agentic workflows.
+**Who can invoke the agent \(ACLs\):** ACLs determine which users can discover and invoke your agent. Configure a separate ACL for each agent and each agentic workflow. For instructions, see [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md) for AI agents and [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md) for agentic workflows.
 
 **What the agent can access \(user identity\):** User identity determines what data the agent has access to once invoked. Choose one of the following:
 
@@ -70,14 +70,7 @@ See [Role masking in Now Assist AI agents](https://raw.githubusercontent.com/Ser
 
 ## Next step
 
-When your agent is built, tools are configured, and access controls are set, proceed to [[naai-tutorial-configure-security|Configure security controls]].
+When your agent is built, tools are configured, and access controls are set, proceed to [Configure security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-configure-security.md).
 
-**Parent Topic:**[[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
+**Parent Topic:**[Create and secure an AI agent in Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/naai-tutorial-overview.md)
 
-## Related
-
-- [[naai-tutorial-configure-security|Configure security controls]]
-- [[naai-tutorial-overview|Create and secure an AI agent in Now Assist]]
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]
-- [[users|Users]]

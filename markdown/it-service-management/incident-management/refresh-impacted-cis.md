@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents, Incident Management, IT Service Management]
 
 # Refresh impacted services and CIs for incident
 
-The impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business [[dex-workspace-application-tab|Applications]] related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
+The impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business Applications related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ When you refresh impacted services, the Impacted Services/CIs, Business Applicat
 
     The records in the Impacted Services/CIs, Business Applications, and Service Offerings related lists are updated.
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]

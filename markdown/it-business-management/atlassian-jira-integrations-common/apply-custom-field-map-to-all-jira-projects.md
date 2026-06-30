@@ -14,7 +14,7 @@ breadcrumb: [Customizing map configuration for your Jira projects, Setting up th
 
 # Apply custom map configuration to multiple Jira projects
 
-Add a custom table or field, which is applicable to all your Jira projects of a specific type, to the map configuration template in [[agile-landing-page|Agile Development 2.0]].
+Add a custom table or field, which is applicable to all your Jira projects of a specific type, to the map configuration template in Agile Development 2.0.
 
 ## Before you begin
 
@@ -64,6 +64,3 @@ Apply the custom project style map to all its related Jira projects.
 
 **Parent Topic:**[Customizing map configuration for your Jira projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/custom-map-configuration.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

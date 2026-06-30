@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Maintenance schedule fields for Enterprise Asset Management
 
-A detailed description of all maintenance schedule fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all maintenance schedule fields in the Enterprise Asset Management application.
 
 ## Maintenance Schedule
 
@@ -166,7 +166,7 @@ Filter conditions that trigger the maintenance to run
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -194,7 +194,3 @@ Filter conditions that trigger the maintenance to run
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

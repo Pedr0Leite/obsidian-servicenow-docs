@@ -14,7 +14,7 @@ breadcrumb: [Service Builder, IT Service Management]
 
 # Roles installed with Service Builder
 
-Roles are added to [[service-builder|Service Builder]] with the activation of ServiceNow® [[SPM2-landing-page|Service Portfolio Management]].
+Roles are added to Service Builder with the activation of ServiceNow® Service Portfolio Management.
 
 ## Roles
 
@@ -28,15 +28,10 @@ Roles are added to [[service-builder|Service Builder]] with the activation of Se
 
 Service Builder is a feature of Service Portfolio Management. Its plugin \(sn\_service\_builder\) is activated from the base system and activates related plugins that aren’t already active.
 
-**Note:** Even though Service Builder is a feature of Service Portfolio Management, its plugin is part of the [[dpm-landing|Digital Portfolio Management]] list of products in the ServiceNow Store.
+**Note:** Even though Service Builder is a feature of Service Portfolio Management, its plugin is part of the Digital Portfolio Management list of products in the ServiceNow Store.
 
 **Related topics**  
 
 
 [Installed with Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/r_InstalledWSPM2.md)
 
-## Related
-
-- [[service-builder|Service Builder]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-landing|Digital Portfolio Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Now Assist in Virtual Agent reference, Now Assist in Virtual Agent,
 
 # Now Assist in Virtual Agent system properties
 
-Use system properties to customize your assistant. Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table. Legacy refers to the standard or [[nava-enhanced-chat|enhanced chat]] experience. Premium refers to the [[nava-integrated-chat|premium chat]] experience.
+Use system properties to customize your assistant. Some properties are available on a system properties form, but some lesser-used properties are available only from the System Property \[sys\_properties\] table. Legacy refers to the standard or enhanced chat experience. Premium refers to the premium chat experience.
 
 <table id="table_ycq_yzy_fgc"><thead><tr><th>
 
@@ -46,7 +46,7 @@ com.glide.cs.nass.synthesized\_response.disabled\_popover.hide
 
 </td><td>
 
-Hide the popover for inactive catalog items for [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and Now Assist panel's enhanced chat. The default value is `false`.
+Hide the popover for inactive catalog items for Now Assist in Virtual Agent and Now Assist panel's enhanced chat. The default value is `false`.
 
 </td><td>
 
@@ -70,7 +70,7 @@ sn\_ai\_websearch.perplexity\_model\_name
 
 </td><td>
 
-Specify the Perplexity model to use for [[web-search-requestor|web search]]. The default value is `sonar`.
+Specify the Perplexity model to use for web search. The default value is `sonar`.
 
 </td><td>
 
@@ -172,7 +172,7 @@ sn\_nowassist\_va.show\_view\_more\_for\_synthesized
 
 </td><td>
 
-Show the **Need more help** button in a [[nava-standard-chat|standard chat]] conversation. The **Value** field is empty by default so the button doesn’t appear. To show the **Need more help** button, enter `regular`, `clarification`, or `regular,clarification`.
+Show the **Need more help** button in a standard chat conversation. The **Value** field is empty by default so the button doesn’t appear. To show the **Need more help** button, enter `regular`, `clarification`, or `regular,clarification`.
 
  -   `regular`: The **Need more help** button appears only for synthesized responses.
 -   `clarification`: The **Need more help** button appears only for clarification responses. Clarification responses typically occur when an end user's response is too vague and clarification is needed for a more targeted response.
@@ -200,7 +200,7 @@ sn\_nowassist\_va.synthesized\_autostart\_items
 
 </td><td>
 
-When synthesized response only returns a singular action, configure whether to automatically launch the action. By default, only [[virtual-agent-landing-page|Virtual Agent]] topics and agents automatically launch. You can configure this for whenever synthesized response returns a single conversational catalog item, a single Virtual Agent topic along with Knowledge Base information appears, a single conversational catalog item along with Knowledge Base information appears, or an agent response with sourced Knowledge Base information appears.
+When synthesized response only returns a singular action, configure whether to automatically launch the action. By default, only Virtual Agent topics and agents automatically launch. You can configure this for whenever synthesized response returns a single conversational catalog item, a single Virtual Agent topic along with Knowledge Base information appears, a single conversational catalog item along with Knowledge Base information appears, or an agent response with sourced Knowledge Base information appears.
 
  -   Type: string
 -   Default value: topic, agent, agent\_with\_sources
@@ -232,7 +232,7 @@ Enable relevant history-based suggestions.
 
  `False`: Only LLM-based suggestions appear. This is the default value.
 
- `True`: History-based [[suggested-actions|suggested actions]] can appear and occupy multiple suggested action slot options.
+ `True`: History-based suggested actions can appear and occupy multiple suggested action slot options.
 
 </td><td>
 
@@ -275,13 +275,3 @@ SA2 model type
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-integrated-chat|Premium chat]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[web-search-requestor|Web search]]
-- [[nava-standard-chat|Standard chat]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[suggested-actions|Suggested actions]]

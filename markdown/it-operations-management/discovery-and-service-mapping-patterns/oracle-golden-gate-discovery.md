@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle GoldenGate discovery
 
-The ServiceNow [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] applications find Oracle GoldenGate version 12c components using the Oracle Golden Gate pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery and Service Mapping applications find Oracle GoldenGate version 12c components using the Oracle Golden Gate pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery uses the Oracle Golden Gate pattern to perform horizontal discovery to collect data into the `$report_file` file. Service Mapping performs top-down discovery on the `$report_file` file to find outgoing Oracle Golden Gate connections.
 
@@ -267,7 +267,7 @@ Discovery uses the Oracle Golden Gate pattern to collect the data described in t
 |Source DB SID \[source\_db\]|Manager process source database SID.|
 |Operational status \[operational\_status\]|Operational status of the CI. Select **Operational**.|
 
-The [[dependency-views-map|Dependency Views map]] shows discovered load balancer CIs and the relationships between them.
+The Dependency Views map shows discovered load balancer CIs and the relationships between them.
 
 \[Omitted image "GoldenGateRelations.png"\] Alt text: CIs and connections on a Dependency Views map
 
@@ -300,8 +300,3 @@ To discover the Oracle Golden Gate process, use the TCP entry point with the pro
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[dependency-views-map|Dependency Views map]]

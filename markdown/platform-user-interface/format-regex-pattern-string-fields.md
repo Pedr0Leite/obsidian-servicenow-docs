@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure inline validation for string fields
 
-[[configure-onboarding-modals|Configure]] guidance text to display in string fields with format requirements such as account ID, SSN, or SIN. Use regular expression inline validation to display an error message if the input doesn't meet format requirements.
+Configure guidance text to display in string fields with format requirements such as account ID, SSN, or SIN. Use regular expression inline validation to display an error message if the input doesn't meet format requirements.
 
 ## Before you begin
 
@@ -176,6 +176,4 @@ Shows a symbol as-isFor example, `\\0` requires the number zero as 0.
 
     5.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

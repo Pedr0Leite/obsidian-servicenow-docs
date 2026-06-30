@@ -34,7 +34,7 @@ Role required: sn\_customerservice.customer
     |Quote date|Date on which the quote was created.|
     |Expiration date|Date on which the validity of the quote ends.|
     |Term \(months\)|Duration of the contract or subscription expressed in months.|
-    |State|Status of the quote. For more information, see [[rfq-states|Request for quote \(RFQ\) states]].|
+    |State|Status of the quote. For more information, see [Request for quote \(RFQ\) states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rfq-states.md).|
     |Contract start date|Date when the contract becomes effective.|
     |Contract end date|Date when the contract ends.|
     |Total one-time price|Aggregate of all one-time charges across quote lines.|
@@ -48,12 +48,7 @@ Role required: sn\_customerservice.customer
 **Related topics**  
 
 
-[[order-management-configure-business-portal|Configuring the Business Portal]]
+[Configuring the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-configure-business-portal.md)
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-## Related
-
-- [[rfq-states|Request for quote \(RFQ\) states]]
-- [[order-management-configure-business-portal|Configuring the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]

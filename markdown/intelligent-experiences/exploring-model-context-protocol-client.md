@@ -12,7 +12,7 @@ breadcrumb: [Model Context Protocol Client, Now Assist AI agents, Enable AI expe
 
 # Exploring Model Context Protocol Client
 
-The Model Context Protocol \(MCP\) is a standardized client-server protocol that enables AI applications to discover and interact seamlessly with external tools, data sources, and services. MCP facilitates communication between an AI host application \(like [[ai-agent-studio|AI Agent Studio]]\), an MCP Client embedded in the host, and one or more MCP Servers that expose specific capabilities such as tools.
+The Model Context Protocol \(MCP\) is a standardized client-server protocol that enables AI applications to discover and interact seamlessly with external tools, data sources, and services. MCP facilitates communication between an AI host application \(like AI Agent Studio\), an MCP Client embedded in the host, and one or more MCP Servers that expose specific capabilities such as tools.
 
 ## Model Context Protocol Client terminology
 
@@ -32,6 +32,3 @@ MCP tools enable seamless integration to:
 -   Add multiple MCP tools to an AI agent to perform a broader range of tasks.
 -   Review and edit tool input parameters as needed before saving.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]

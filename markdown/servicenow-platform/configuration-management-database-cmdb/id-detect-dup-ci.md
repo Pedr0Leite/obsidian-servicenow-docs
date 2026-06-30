@@ -14,9 +14,9 @@ breadcrumb: [CMDB Identification and Reconciliation \(IRE\), Configuration Manag
 
 # Detecting duplicate CIs
 
-When IRE identification process detects duplicate CIs, it groups each set of duplicate CIs into a de-duplication task for review and remediation. A large number of duplicate CIs might be due to weak [[c_IdentificationRules|identification rules]]. You can configure the identification engine to reconcile duplicate CIs.
+When IRE identification process detects duplicate CIs, it groups each set of duplicate CIs into a de-duplication task for review and remediation. A large number of duplicate CIs might be due to weak identification rules. You can configure the identification engine to reconcile duplicate CIs.
 
-During [[ire|Identification and Reconciliation Engine \(IRE\)]] processes, handling of duplicate CIs is determined by the properties **glide.identification\_engine.skip\_duplicates** \(set to true by default\) and **glide.identification\_engine.skip\_duplicates.threshold** \(set to 5 by default\), and on the number of duplicate CIs that are detected. You can configure these properties so that duplicate CIs are automatically reconciled, skipping duplication.
+During Identification and Reconciliation Engine \(IRE\) processes, handling of duplicate CIs is determined by the properties **glide.identification\_engine.skip\_duplicates** \(set to true by default\) and **glide.identification\_engine.skip\_duplicates.threshold** \(set to 5 by default\), and on the number of duplicate CIs that are detected. You can configure these properties so that duplicate CIs are automatically reconciled, skipping duplication.
 
 -   If **glide.identification\_engine.skip\_duplicates** is true, and the number of duplicate CIs is less than the threshold specified by **glide.identification\_engine.skip\_duplicates.threshold**, then the oldest of the duplicate CIs is picked as a match and gets updated. That oldest duplicate CI also becomes the main CI for that set of duplicate CIs. The rest of the duplicate CIs are tagged as duplicates by setting their **duplicate\_of** attribute to the appropriate main CI. During matching, IRE filters out any CI that is tagged as duplicate of any CI.
 -   If **glide.identification\_engine.skip\_duplicates** is false, then matching of duplicate CIs fails with an error, and none of the duplicate CIs are updated.
@@ -53,9 +53,9 @@ In the base system, this configuration table has no records, in which case IRE d
     |Identifier table|The identification rule class, such as Hardware \[cmdb\_ci\_hardware\] or Operational Technology \(OT\).|
 
 
-The CMDB CI Class Models ServiceNow® Store app adds class models that extend the CMDB class hierarchy, and contains meta data such as identification and [[r_ReconciliationRulesPrinciples|reconciliation rules]] for the added classes. When specifying class models in this app, you can also include the cmdb\_duplicate\_lookup\_related\_allowed\_class table with entries specific to the added tables, such as the Operational Technology \(OT\) table. In which case, IRE will generate de-duplication tasks as configured in the table. For more information, see [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
+The CMDB CI Class Models ServiceNow® Store app adds class models that extend the CMDB class hierarchy, and contains meta data such as identification and reconciliation rules for the added classes. When specifying class models in this app, you can also include the cmdb\_duplicate\_lookup\_related\_allowed\_class table with entries specific to the added tables, such as the Operational Technology \(OT\) table. In which case, IRE will generate de-duplication tasks as configured in the table. For more information, see [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 
-You can also add records to the cmdb\_duplicate\_lookup\_related\_allowed\_class configuration table for added classes after the [[cmdb-ci-class-models|CMDB CI Class Models app]] has been installed.
+You can also add records to the cmdb\_duplicate\_lookup\_related\_allowed\_class configuration table for added classes after the CMDB CI Class Models app has been installed.
 
 ## Detecting duplicate referenced CIs during lookup-based identification
 
@@ -278,9 +278,3 @@ For information about reviewing and remediating de-duplicate tasks, and how the 
 
 **Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
-## Related
-
-- [[c_IdentificationRules|Identification rules]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]

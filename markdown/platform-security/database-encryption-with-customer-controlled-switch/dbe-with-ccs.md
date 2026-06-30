@@ -14,7 +14,7 @@ breadcrumb: [Database Encryption, Encryption]
 
 # Database Encryption with Customer Controlled Switch
 
-[[db-full-disk-encryption|Database Encryption]] with Customer-Controlled Switch \(DBE-CCS\) is an [[encryption-landing|encryption]] solution that encrypts all data-at-rest when not in use in the database.
+Database Encryption with Customer-Controlled Switch \(DBE-CCS\) is an encryption solution that encrypts all data-at-rest when not in use in the database.
 
 **Important:**
 
@@ -51,7 +51,3 @@ Refer to these references for additional information about DBE with CCS:
 
 **Parent Topic:**[Database Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/db-full-disk-encryption.md)
 
-## Related
-
-- [[db-full-disk-encryption|Database Encryption]]
-- [[encryption-landing|Encryption]]

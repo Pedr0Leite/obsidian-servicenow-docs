@@ -14,7 +14,7 @@ breadcrumb: [Manage GRC tasks from Employee Center, Policy and Compliance Manage
 
 # Complete control assessments from the Employee Center portal
 
-Use the [[employee-center|Employee Center]] Home page to view all your requests, raise issue requests and policy exceptions, and complete all your GRC assessments.
+Use the Employee Center Home page to view all your requests, raise issue requests and policy exceptions, and complete all your GRC assessments.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 You can manage all your pending tasks that are open by selecting the GRC tasks link. By default, you can view all the Indicator tasks that are assigned to you and in Open state. To view the indicator tasks in other states, select the filter icon next to the **State** column.
 
-From this page, you can navigate to manage all your active items that include all GRC assessments, such as Control attestations, [[risk-assessments|Risk assessments]], Risk identification questionnaires, and Privacy assessments.
+From this page, you can navigate to manage all your active items that include all GRC assessments, such as Control attestations, Risk assessments, Risk identification questionnaires, and Privacy assessments.
 
 **Note:**
 
@@ -46,7 +46,4 @@ The **Risk identification questionnaires** tile is available only if GRC: Advanc
 
 6.  Complete the attestation, providing an attachment and explanation, and select **Submit**.
 
-## Related
 
-- [[employee-center|employee center]]
-- [[risk-assessments|risk assessments]]

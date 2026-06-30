@@ -14,28 +14,19 @@ breadcrumb: [Performance Analytics Content Pack for Essential SAFe, Scaled Agile
 
 # Using Solution Library for Essential SAFe dashboards
 
-Upgrade to the latest layout of [[essential-overview|Essential SAFe]] dashboards using Solution Library.
+Upgrade to the latest layout of Essential SAFe dashboards using Solution Library.
 
-Existing users who upgraded to the latest version 1.1 of [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]] can install the latest layout of the dashboards from Solution Library.
+Existing users who upgraded to the latest version 1.1 of Performance Analytics Content Pack for Essential SAFe can install the latest layout of the dashboards from Solution Library.
 
 For example, if you are upgrading from version 1.0.1 or earlier of the application, install the following dashboards from Solution Library to access the latest layout:
 
--   [[safe-feature-dashboard|SAFe Feature Dashboard]]
--   [[safe-sprint-dashboard|SAFe Sprint Dashboard]]
--   [[safe-pi-dashboard|SAFe PI Dashboard]]
--   [[safe-epic-dashboard|SAFe Epic Dashboard]]
--   [[safe-team-art-dashboard|SAFe Team Dashboard]]
+-   SAFe Feature Dashboard
+-   SAFe Sprint Dashboard
+-   SAFe PI Dashboard
+-   SAFe Epic Dashboard
+-   SAFe Team Dashboard
 
 **Note:** For users on the Australia release, the **Install** and **Upgrade** buttons are not visible on the Solution Library content form. For information on resolving this issue, see [Allow PA Solution Library for Store apps](https://support.servicenow.com/kb_view.do?sys_kb_id=ce74a4bb1b89d4107a5933f2cd4bcb3f).
 
 **Parent Topic:**[Performance Analytics Content Pack for Essential SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/pa-content-pack-essential-safe.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]
-- [[safe-feature-dashboard|SAFe Feature Dashboard]]
-- [[safe-sprint-dashboard|SAFe Sprint Dashboard]]
-- [[safe-pi-dashboard|SAFe PI Dashboard]]
-- [[safe-epic-dashboard|SAFe Epic Dashboard]]
-- [[safe-team-art-dashboard|SAFe Team Dashboard]]

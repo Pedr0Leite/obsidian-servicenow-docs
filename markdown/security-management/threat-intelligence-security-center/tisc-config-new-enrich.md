@@ -14,7 +14,7 @@ breadcrumb: [TISC Enrichment integrations, TISC Integrations, Integrate, Threat 
 
 # Configure new enrichment
 
-[[c_GetStartedWithThreatIntel|Set up threat intelligence]] enrichment integrations to automatically gather additional context about [[c_Observables|observables]], search for [[indicator-sightings|sightings]], or perform threat lookups from external security vendors.
+Set up threat intelligence enrichment integrations to automatically gather additional context about observables, search for sightings, or perform threat lookups from external security vendors.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select the **Integrations** icon.
 
@@ -30,7 +30,7 @@ Role required: sn\_sec\_tisc.admin
 
 3.  Choose an enrichment type from the Configure new enrichment dialog.
 
-    The Configure new enrichment dialog displays three enrichment types: [[tisc-observable-enrichment|Observable Enrichment]], Sighting Search, and [[tisc-threat-lookup|Threat Lookup]].
+    The Configure new enrichment dialog displays three enrichment types: Observable Enrichment, Sighting Search, and Threat Lookup.
 
     \[Omitted image "enrich-popup-observables.png"\] Alt text: Configure the enrichment type
 
@@ -40,7 +40,7 @@ Role required: sn\_sec\_tisc.admin
 
 5.  Select an integration from the list of available integrations.
 
-    The system opens the Create Enrichment Integration page with pre-filled details for the selected integration, such as [[tisc-whoisxml-integration|WHOIS integration]].
+    The system opens the Create Enrichment Integration page with pre-filled details for the selected integration, such as WHOIS integration.
 
 6.  Complete the Create Integration form fields.
 
@@ -116,12 +116,3 @@ Unique description for the new enrichment integration.
 
 [TISC Security Tools integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 
-## Related
-
-- [[c_GetStartedWithThreatIntel|Set up Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-whoisxml-integration|Whois integration]]

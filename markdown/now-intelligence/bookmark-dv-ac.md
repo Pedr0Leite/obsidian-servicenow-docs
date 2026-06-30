@@ -21,7 +21,7 @@ Role required: None. Anyone who can access a data visualization can bookmark it 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select the visualization that you want to bookmark.
 
@@ -36,9 +36,5 @@ On the **Data Visualizations** tab, the selected visualization appears in the Bo
 
 To remove a bookmark, choose the bookmarked visualization and select **Remove bookmark** from the More actions menu \(\[Omitted image "icon-vert-3dot-p.png"\] Alt text: More actions icon\).
 
-**Parent Topic:**[[common-dv-tasks|Common data visualization tasks]]
+**Parent Topic:**[Common data visualization tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dv-tasks.md)
 
-## Related
-
-- [[common-dv-tasks|Common data visualization tasks]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

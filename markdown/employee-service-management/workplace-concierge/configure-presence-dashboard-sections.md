@@ -42,7 +42,7 @@ Role required: sn\_wsd\_concierge.admin
 
     1.  From the Employee Presence Calendar Widgets table, select **New**.
 
-    2.  On the [[presence-calendar-widget-frm|Employee Presence Calendar Widget form]], fill in the fields.
+    2.  On the Employee Presence Calendar Widget form, fill in the fields.
 
         For a description of the field values, see [Employee Presence Calendar Widget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/presence-calendar-widget-frm.md).
 
@@ -58,6 +58,3 @@ Role required: sn\_wsd\_concierge.admin
 
 [Configure workplace space suggestions for employees]()
 
-## Related
-
-- [[presence-calendar-widget-frm|Employee Presence Calendar Widget form]]

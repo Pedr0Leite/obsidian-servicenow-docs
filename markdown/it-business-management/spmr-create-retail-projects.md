@@ -21,7 +21,7 @@ Role required: sn\_spm\_retail.project\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Project Workspace**.
 
 2.  Create a retail project using one of the options.
 
@@ -49,14 +49,9 @@ Role required: sn\_spm\_retail.project\_manager
 
 ## Result
 
-A project is created based on the selected project template with tailored project task and playbook. You will see a the Planning page with prepopulated [[t_CreateAProjectTask|project tasks]] and their dependent tasks.
+A project is created based on the selected project template with tailored project task and playbook. You will see a the Planning page with prepopulated project tasks and their dependent tasks.
 
 ## What to do next
 
-Enter the key dates of your work in Project Type list from the Details tab. For more details, see [[spmr-project-type-fields|Enter project type fields]].
+Enter the key dates of your work in Project Type list from the Details tab. For more details, see [Enter project type fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spmr-project-type-fields.md).
 
-## Related
-
-- [[spmr-project-type-fields|Enter project type fields]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]

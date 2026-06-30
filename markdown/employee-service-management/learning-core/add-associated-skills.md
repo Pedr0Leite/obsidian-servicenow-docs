@@ -14,7 +14,7 @@ breadcrumb: [View external Learning content, Manage Learning, Using My Learning,
 
 # Add associated skills
 
-Add associated skills to external [[exploring-learning-exp|learning]] content in Learning.
+Add associated skills to external learning content in Learning.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin
 
 **Parent Topic:**[View external Learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/view-external-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

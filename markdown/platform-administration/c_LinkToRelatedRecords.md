@@ -12,7 +12,7 @@ breadcrumb: [Links to records, Create an email notification, Email and SMS notif
 
 # Link to related records
 
-A notification can link to a related record by specifying a [[reference-email-admin|reference]] field in front of the**$\{URI\}** or **$\{URI\_REF\}** [[r_DirectJDBCProbeParameters|parameters]].
+A notification can link to a related record by specifying a reference field in front of the**$\{URI\}** or **$\{URI\_REF\}** parameters.
 
 Format the related record link as follows:
 
@@ -81,10 +81,5 @@ Click here to view Related Problem: ${problem_id.URI_REF}
 
 \[Omitted image "RelatedRecordLink.png"\] Alt text: Related record link.
 
-**Parent Topic:**[[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
+**Parent Topic:**[Links to records in email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnablingLinksToServiceNowRecords.md)
 
-## Related
-
-- [[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
-- [[reference-email-admin|Reference]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

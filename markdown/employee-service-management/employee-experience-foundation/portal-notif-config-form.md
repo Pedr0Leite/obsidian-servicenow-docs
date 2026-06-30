@@ -131,7 +131,7 @@ Card actions: Types of card actions available for notifications.-   Mark as read
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -159,7 +159,7 @@ Card actions: Types of card actions available for notifications.-   Mark as read
 
 [Overview section form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -181,7 +181,3 @@ Card actions: Types of card actions available for notifications.-   Mark as read
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

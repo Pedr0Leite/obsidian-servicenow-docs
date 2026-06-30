@@ -12,21 +12,15 @@ breadcrumb: [Set up blueprints, CPQ app, Configure, price, quote apps, Configure
 
 # Migrating a blueprint from test to production
 
-You can migrate a blueprint from a test environment to a production environment using the [[matrix_loader_table_of_contents|Matrix Loader]] or REST API automation.
+You can migrate a blueprint from a test environment to a production environment using the Matrix Loader or REST API automation.
 
 CPQ administrators have two ways to migrate a blueprint from test to production: by using the Matrix Loader, and by using REST API automation.
 
--   Matrix Loader migration: From CPQ admin interface, an admin can [[cpq-export-a-blueprint|export a blueprint]] or [[blueprints|blueprints]] to a ZIP file. The admin can then import these artifacts into the production environment. Create configurable product and associate it with the blueprint in the production environment. You can do this afterward or create the product and edit the blueprint yaml file with the new SFDC product2 id, product code, or partner id before deployment.
+-   Matrix Loader migration: From CPQ admin interface, an admin can export a blueprint or blueprints to a ZIP file. The admin can then import these artifacts into the production environment. Create configurable product and associate it with the blueprint in the production environment. You can do this afterward or create the product and edit the blueprint yaml file with the new SFDC product2 id, product code, or partner id before deployment.
 -   REST API automation: Robust REST API capabilities enable implementers and customers to automate test-to-production migration in a CI/CD process.
 
 **Related topics**  
 
 
-[[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 
-## Related
-
-- [[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[cpq-export-a-blueprint|Export a blueprint]]
-- [[blueprints|Blueprints]]

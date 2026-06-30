@@ -18,45 +18,30 @@ Follow through all the console items configuration to configure the Platform mod
 
 **Note:** You must be in Global scope to perform steps marked with the Global scope label.
 
--   **[[ia-branding-il|Branding]]**  
+-   **[Branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-branding-il.md)**  
 Build the theme and experiences to reflect your brand's values.
--   **[[ia-localization-il|Localization]]**  
+-   **[Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-localization-il.md)**  
 Enable users worldwide to interact in their preferred language and currency through one integrated system
--   **[[ia-integrations-il|Identity management integrations]]**  
+-   **[Identity management integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-integrations-il.md)**  
 Manage access and user profile by integrating with Identity providers and LDAP directories.
--   **[[ia-inbound-email-il|Inbound email]]**  
+-   **[Inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-inbound-email-il.md)**  
 Use the inbound email to receive and process incoming emails from external systems or users.
--   **[[ia-outbound-email-il|Outbound email]]**  
+-   **[Outbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-outbound-email-il.md)**  
 Use outbound email accounts to send emails.
--   **[[ia-operational-data-il|Operational data]]**  
+-   **[Operational data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-operational-data-il.md)**  
 Configure departments, locations, users, groups, and roles to establish the foundation for your ServiceNow implementation.
--   **[[ia-groups-assignment|Groups assignment]]**  
+-   **[Groups assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-groups-assignment.md)**  
 Organize users and assign roles using groups.
--   **[[ia-roles-assignment|Roles assignment]]**  
+-   **[Roles assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-roles-assignment.md)**  
 Specify roles for individuals or groups to provide the access needed.
--   **[[ia-assets|Assets]]**  
+-   **[Assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-assets.md)**  
 Configure the hardware and consumables to setup the assets for your ServiceNow implementation.
--   **[[ia-knowledge-mgmt|Knowledge management]]**  
+-   **[Knowledge management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-knowledge-mgmt.md)**  
 Configure a self-service platform for users to store, share and manage content.
--   **[[ia-ai-search|AI Search]]**  
+-   **[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-ai-search.md)**  
 Configure and maintain the AI-Search engine to experience a modern search experience.
--   **[[ia-security-settings-il|Security Settings]]**  
+-   **[Security Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-security-settings-il.md)**  
 Configure the security settings to maintain the security of your ServiceNow deployments.
 
-**Parent Topic:**[[ia-config-landing|Configure in Setup Hub]]
+**Parent Topic:**[Configure in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-landing.md)
 
-## Related
-
-- [[ia-branding-il|Branding]]
-- [[ia-localization-il|Localization]]
-- [[ia-integrations-il|Identity management integrations]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[ia-operational-data-il|Operational data]]
-- [[ia-groups-assignment|Groups assignment]]
-- [[ia-roles-assignment|Roles assignment]]
-- [[ia-assets|Assets]]
-- [[ia-knowledge-mgmt|Knowledge management]]
-- [[ia-ai-search|AI Search]]
-- [[ia-security-settings-il|Security Settings]]
-- [[ia-config-landing|Configure in Setup Hub]]

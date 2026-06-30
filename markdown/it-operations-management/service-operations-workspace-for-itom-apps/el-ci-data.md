@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -60,7 +60,7 @@ Additional information
 
 Shows the class, IP address, location, and environment of the CI.From the pop-up, you can open the CI topology map in Service Operations Workspace by selecting **View CI topology**.
 
-If metrics data exists for this service, you can open the [[agent-workspace-ops-intelligence|Metric Explorer]] from the pop-up by selecting **View related metrics**.
+If metrics data exists for this service, you can open the Metric Explorer from the pop-up by selecting **View related metrics**.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,3 @@ Shows the name of the owner of the CI, the support group assigned to it, and ava
 
 **Parent Topic:**[Dependency View maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/dependency-maps.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[agent-workspace-ops-intelligence|Metric Explorer]]

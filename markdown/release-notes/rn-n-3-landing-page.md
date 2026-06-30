@@ -12,7 +12,7 @@ breadcrumb: [Learn about the Australia release, Australia release notes]
 
 # Release notes for upgrading from Xanadu
 
-When you upgrade from the Xanadu release, understand the fixes in each release version, notable changes for the user interface, [[browser-support|browser support]], plugin updates, and each feature's upgrade and migration tasks if applicable.
+When you upgrade from the Xanadu release, understand the fixes in each release version, notable changes for the user interface, browser support, plugin updates, and each feature's upgrade and migration tasks if applicable.
 
 \[Omitted image "upgrade-from-x-to-a.png"\] Alt text: From Xanadu, land safely in Australia
 
@@ -54,7 +54,3 @@ Australia highlights \[Omitted image "highlights.png"\] Alt text: High-level ove
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[browser-support|Browser support]]

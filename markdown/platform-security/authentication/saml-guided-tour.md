@@ -14,11 +14,11 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # SAML Guided Tour
 
-Use the SAML Guided Tour to configure [[c_SAML2.0WebBrowserSSOProfile|SAML]] for single sign-on.
+Use the SAML Guided Tour to configure SAML for single sign-on.
 
-SAML Guided tour use a series of steps that span across multiple pages to complete the [[sc-configuration|configuration]], following the steps and instructions provided as part of the tour and complete the tour. It helps you to get trained and configure the SSO for your ServiceNow® instance. You can select the guided tour to quickly know the required actions when configuring SSO for the instances.
+SAML Guided tour use a series of steps that span across multiple pages to complete the configuration, following the steps and instructions provided as part of the tour and complete the tour. It helps you to get trained and configure the SSO for your ServiceNow® instance. You can select the guided tour to quickly know the required actions when configuring SSO for the instances.
 
-Before using the guided tour, you must configure a SAML application in your preferred [[identity-landing|Identity]] Provider, such as Okta, Microsoft Azure, ADFS, and so on. To learn how to configure a SAML application, refer the following documentation:
+Before using the guided tour, you must configure a SAML application in your preferred Identity Provider, such as Okta, Microsoft Azure, ADFS, and so on. To learn how to configure a SAML application, refer the following documentation:
 
 -   Okta: For Okta, you must perform the following:
     -   [Add an Okta SAML application](https://help.okta.com/oag/en-us/Content/Topics/Access-Gateway/add-app-saml-pass-thru-add-okta.htm)
@@ -39,8 +39,3 @@ To use the SAML Guided Tour, follow these steps:
 
 To know more about SAML configuration, see [SAML 2.0 configuration using Multi-Provider SSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/t_CreateASAML2Upd1SSOConfigMultiSSO.md).
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]

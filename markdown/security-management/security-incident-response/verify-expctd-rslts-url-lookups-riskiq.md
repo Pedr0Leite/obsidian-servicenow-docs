@@ -14,7 +14,7 @@ breadcrumb: [RISKIQ and WHOISIQ integration, Security Incident Response integrat
 
 # Verify expected results for WHOISIQ URL lookups
 
-When a security incident generates [[c_Observables|observables]] for URLs or domains, the WHOISIQ API performs the [[tisc-observable-enrichment|observable enrichment]] automatically upon [[si-creation|security incident creation]]. The lookup results are displayed on the **Observable Enrichment Results** and **SSL Certificates** tabs on the security incident record.
+When a security incident generates observables for URLs or domains, the WHOISIQ API performs the observable enrichment automatically upon security incident creation. The lookup results are displayed on the **Observable Enrichment Results** and **SSL Certificates** tabs on the security incident record.
 
 ## Before you begin
 
@@ -64,8 +64,3 @@ If you can't view expected results, review the work notes. Also, verify the obse
 
 [Supported observables for RISKIQ and RISKIQ WHOISIQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/riskiq_supported_obsv.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[si-creation|Security incident creation]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Provider \(SP\) system properties, SAML, Multi-Provider sin
 
 # \(Optional\) Enable providing an authentication context class for SAML
 
-You can enable the instance to send an [[c_Authentication|authentication]] context class [[c_requestAPI|request]] to the IdP containing your instance's preferred authentication request format.
+You can enable the instance to send an authentication context class request to the IdP containing your instance's preferred authentication request format.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ If you enable creating an AuthContextClass message, then you must also specify a
 
 1.  From the property Create an AuthnContextClass request in the AuthnRequest statement, select **Yes** to specify a particular context class such as Password Protected Transport, or select **No** to have the IdP select the most appropriate context class.
 
-2.  If you selected **Yes** to Create an AuthnContextClass request in the AuthnRequest statement, then in The AuthnContextClassRef method that we will request in our [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 AuthnRequest to the [[identity-landing|Identity]] Provider property, enter the URN of the context class you want to use for authentication \(see table\).
+2.  If you selected **Yes** to Create an AuthnContextClass request in the AuthnRequest statement, then in The AuthnContextClassRef method that we will request in our SAML 2.0 AuthnRequest to the Identity Provider property, enter the URN of the context class you want to use for authentication \(see table\).
 
     |Authentication type|Authentication context class URN|
     |-------------------|--------------------------------|
@@ -41,9 +41,4 @@ If you enable creating an AuthContextClass message, then you must also specify a
 
 3.  Click **Update**.
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]

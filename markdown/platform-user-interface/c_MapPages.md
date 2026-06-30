@@ -16,11 +16,11 @@ Map pages display ServiceNow data graphically on a Google map page based on loca
 
 You can create as many map pages as required to define the types of data to display, the links to show, and the appearance of the map. After creating the map pages, you can create modules to display the map pages.
 
-**Note:** Map pages are subject to the non-production access limitations. See [[set-up-google-maps-api|Set up Google Maps API]] for details.
+**Note:** Map pages are subject to the non-production access limitations. See [Set up Google Maps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md) for details.
 
 ## Map locations
 
-Locations are used by various applications to locate users, facilities, or configuration items \(CI\) and are stored in the Location \[cmn\_location\] table. You can [[configure-onboarding-modals|configure]] different levels of location in a parent-child hierarchy. For example, an email server might be associated with a location of Second Floor, whereas the email business service might be associated with New York City.
+Locations are used by various applications to locate users, facilities, or configuration items \(CI\) and are stored in the Location \[cmn\_location\] table. You can configure different levels of location in a parent-child hierarchy. For example, an email server might be associated with a location of Second Floor, whereas the email business service might be associated with New York City.
 
 Each level of this hierarchy contains a separate location record, with the next higher level specified as a parent.
 
@@ -148,7 +148,7 @@ Company
 
 </td><td>
 
-A [[onboarding-modals-reference|reference]] field to the **Company** `[core_company]` table.
+A reference field to the **Company** `[core_company]` table.
 
 </td></tr><tr><td>
 
@@ -187,30 +187,18 @@ After the latitude and longitude are populated, Map Pages can be defined that di
 
 -   **[Set up Google Maps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md)**  
 You enable the geolocation feature using the appropriate entries from a Google Maps API for Business license, or a Google Maps JavaScript API Key.
--   **[[t_CreateAMapPage|Create a map page]]**  
+-   **[Create a map page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAMapPage.md)**  
 Your ServiceNow instance provides several default map pages. You can also create custom map pages with the script examples described in this page.
--   **[[create-map-page-module|Create a map page module]]**  
+-   **[Create a map page module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-map-page-module.md)**  
 You can create a new application module for desktop or smartphone users to display a Google map page.
--   **[[create-advanced-map-page|Create an advanced Map Page]]**  
+-   **[Create an advanced Map Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-advanced-map-page.md)**  
 Use advanced configuration to set up Map Pages without scripting.
--   **[[set-map-application-scope|Set map application scope]]**  
+-   **[Set map application scope](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-map-application-scope.md)**  
 Enable map application scope to specify which application can modify your Map Page configuration.
--   **[[t_CreateASmartphoneMapPageModule|Create a smartphone map page module]]**  
+-   **[Create a smartphone map page module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateASmartphoneMapPageModule.md)**  
 You can create a custom smartphone module that links directly to a map page.
--   **[[scripting-for-map-pages|Scripting for map pages]]**  
+-   **[Scripting for map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/scripting-for-map-pages.md)**  
 The Script field on the Map Page form allows the use of attributes or custom code to define map characteristics, such as marker appearance, display information, and more.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[set-up-google-maps-api|Set up Google Maps API]]
-- [[t_CreateAMapPage|Create a map page]]
-- [[create-map-page-module|Create a map page module]]
-- [[create-advanced-map-page|Create an advanced Map Page]]
-- [[set-map-application-scope|Set map application scope]]
-- [[t_CreateASmartphoneMapPageModule|Create a smartphone map page module]]
-- [[scripting-for-map-pages|Scripting for map pages]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

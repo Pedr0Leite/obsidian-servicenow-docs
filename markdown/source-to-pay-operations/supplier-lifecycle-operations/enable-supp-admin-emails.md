@@ -14,7 +14,7 @@ breadcrumb: [Configure self-registration for external users, Install Supplier Co
 
 # Enable notifications about self-registration errors
 
-Add the sn\_slm.admin role to the groups to enable [[supplier|supplier]] admins to receive an email if a [[supplier-contact|supplier contact]] encounters an error during self-registration.
+Add the sn\_slm.admin role to the groups to enable supplier admins to receive an email if a supplier contact encounters an error during self-registration.
 
 ## Before you begin
 
@@ -42,7 +42,3 @@ Role required: sn\_slm.admin
 
 [Configure the Vendor Contact table to send invitation emails during self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-vendor-contact-table.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]

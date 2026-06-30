@@ -14,13 +14,13 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 # Enable search result refinement filters
 
-[[ia-ai-search|AI Search]] enables users to refine searches by filtering their [[hs-results|results]]. Use source facet buckets to filter results by source, or select facets to apply filters dynamically generated from the result set.
+AI Search enables users to refine searches by filtering their results. Use source facet buckets to filter results by source, or select facets to apply filters dynamically generated from the result set.
 
 -   **Filter results by source using source facet buckets**
 
     Display pre-defined categories that users can select to immediately exclude unwanted search results.
 
-    Search administrators configure source facet buckets in [[defining-search-app-cfgs-ais|search application configurations]]. For details on available settings, see [Configure source facet buckets in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/config-nav-tabs-ais.md).
+    Search administrators configure source facet buckets in search application configurations. For details on available settings, see [Configure source facet buckets in an AI Search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/config-nav-tabs-ais.md).
 
 -   **Filter results dynamically using facets**
 
@@ -31,8 +31,3 @@ breadcrumb: [Explore, AI Search, Search administration, Configure core features,
 
 **Parent Topic:**[Exploring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/explore-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

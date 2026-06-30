@@ -14,7 +14,7 @@ breadcrumb: [Success Guides, Success portal view in Software Asset Workspace, So
 
 # IBM ILMT setup success guide
 
-This success guide provides information on the IBM License Metric Tool \(ILMT\) or IBM BigFix Inventory integration with the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+This success guide provides information on the IBM License Metric Tool \(ILMT\) or IBM BigFix Inventory integration with the Software Asset Management application.
 
 This integration supports license compliance for IBM products using the following IBM license metrics:
 
@@ -41,7 +41,7 @@ Complete the following steps for the [IBM License Metric Tool \(ILMT\) and BigFi
 
 ## Alternative to ILMT or BigFix Inventory
 
-You can track and manage IBM licenses in both VMware vSphere environments and IBM LPAR infrastructures by integrating the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program. With these integrations, you can track and manage IBM licensing directly without having to integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory. For more information, see [Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md).
+You can track and manage IBM licenses in both VMware vSphere environments and IBM LPAR infrastructures by integrating the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program. With these integrations, you can track and manage IBM licensing directly without having to integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory. For more information, see [Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md).
 
 ## Additional resources
 
@@ -50,7 +50,3 @@ You can track and manage IBM licenses in both VMware vSphere environments and IB
     -   [Supported IBM license types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-ibm-license-types.md)
 -   [Fix invalid computer serial numbers](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0691430)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage, Workplace Case Management, Workplace Service Delivery, Empl
 
 # Print workplace cases
 
-Print case details along with associated services or service items to support effective [[case-management-workspace|case management]] and resolution.
+Print case details along with associated services or service items to support effective case management and resolution.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_wsd\_case.case\_reader, sn\_wsd\_case.case\_writer, sn\_wsd\_
 
 ## About this task
 
-As a case admin, you can view a case report that includes reservation details, services, and other relevant information. You can also configure the Workplace Case, Workplace Reservation, and Workplace Task [[document-templates-overview|document templates]] as required. For more information, see [Configuring Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-doc-temp.md).
+As a case admin, you can view a case report that includes reservation details, services, and other relevant information. You can also configure the Workplace Case, Workplace Reservation, and Workplace Task document templates as required. For more information, see [Configuring Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/set-up-doc-temp.md).
 
 **Note:** Enable the Print case feature by installing the Document Templates plugin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Cases**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Cases**.
 
 2.  Select any of the following options to view workplace cases:
 
@@ -62,8 +62,3 @@ As a case admin, you can view a case report that includes reservation details, s
 
 [Managing print cases]()
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[document-templates-overview|Document Templates]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

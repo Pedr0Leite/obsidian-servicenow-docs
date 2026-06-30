@@ -14,7 +14,7 @@ breadcrumb: [Location Filter, Filter criteria, Adaptive authentication, Authenti
 
 # Tutorial: Use Location Filter criteria
 
-Describes steps to use location filter criteria in the [[c_Authentication|authentication]] policy and restrict access to the [[users|users]] based on the location.
+Describes steps to use location filter criteria in the authentication policy and restrict access to the users based on the location.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: adaptive\_auth\_admin
 
 Plugin required: **Zero Trust - Location Based Access** \(`com.snc.zero_trust_location_access`\).
 
-Property: Enable the [[adaptive-authentication|Adaptive authentication]] property.
+Property: Enable the Adaptive authentication property.
 
 **Note:** Administrators can only create the policy based on location filters if the location is available for the current user session.
 
-The following procedure describes how to create and use the [[location-filter|location filter]] criteria in an authentication policy.
+The following procedure describes how to create and use the location filter criteria in an authentication policy.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **[[adaptive-auth-filter-criteria|Filter Criteria]]** &gt; **Location Filter**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Filter Criteria** &gt; **Location Filter**.
 
 2.  Select **New**.
 
@@ -56,7 +56,7 @@ The following procedure describes how to create and use the [[location-filter|lo
 
 7.  Use the filter criteria created in any of the authentication context \(Pre, Post, MFA\) and Session Access.
 
-    To know more about the [[sc-configuration|configuration]] based on authentication context and session access, see:
+    To know more about the configuration based on authentication context and session access, see:
 
     -   [Location Filter in Pre Authentication Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/use-lf-pre-auth.md)
     -   [Location Filter in Post Authentication Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/use-lf-post-auth.md)
@@ -64,11 +64,4 @@ The following procedure describes how to create and use the [[location-filter|lo
     -   [Location Filter for Session Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/lf-for-session-access.md)
     You can use the Property ID - Error message to be displayed to the user when login fails due to authentication policy failure \(`glide.auth.policy.ui.error.message`\) to customize the error message.
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[location-filter|Location Filter]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[sc-configuration|Configuration]]

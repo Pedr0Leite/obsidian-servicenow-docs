@@ -14,7 +14,7 @@ breadcrumb: [Migration of resource plans and cost plans, Resource Management cla
 
 # Activate a scheduled job to migrate resource plans and cost plans
 
-Activate the Migrate [[c_ResourcePlans|Resource Plans]] scheduled job to migrate resource plans, operational resource plans, and cost plans of your projects and demands to resource assignments and attribute-based cost plans.
+Activate the Migrate Resource Plans scheduled job to migrate resource plans, operational resource plans, and cost plans of your projects and demands to resource assignments and attribute-based cost plans.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 3.  Select **Active** option to activate and schedule the job.
 
-4.  Edit the fields on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to customize the job and meet your requirements.
+4.  Edit the fields on the Scheduled Script Execution form to customize the job and meet your requirements.
 
     For more information about the field description and scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
@@ -39,7 +39,3 @@ Role required: admin
 
 **Parent Topic:**[Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist AI agents, Enable AI experiences]
 
 # Multiple conversations in Now Assist AI agents
 
-Multiple active conversations enable live agents to maintain separate conversations for different records. You can preserve the context of multiple conversations and enable multiple AI agents to interact at the same time through the [[now-assist-center-now-assist-panel|Now Assist panel]].
+Multiple active conversations enable live agents to maintain separate conversations for different records. You can preserve the context of multiple conversations and enable multiple AI agents to interact at the same time through the Now Assist panel.
 
 ## Multiple conversations between live agents and AI agents overview
 
@@ -38,6 +38,3 @@ Start a new conversation by selecting the plus icon \(\[Omitted image "new-nap-c
 
 See the batch count of the unread chats on the conversation list icon \(\[Omitted image "nap-all-chats-conv-list.png"\] Alt text: Batch count on the conversations list representing the number of unread conversations.\). For example, if number 6 appears on the All chats icon \(\[Omitted image "nap-all-chats-conv-list.png"\] Alt text: Batch count on the conversations list representing the number of unread conversations.\), that means there's six unread conversations on the Now Assist panel.
 
-## Related
-
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

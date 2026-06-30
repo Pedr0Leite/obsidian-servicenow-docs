@@ -12,7 +12,7 @@ breadcrumb: [Security and compliance, Offline mode setup options, Offline mode, 
 
 # General guidelines for offline mode security and compliance
 
-When working [[mobile-offline-mode|offline mode]], keep these security and compliance general guidelines in mind for usability and a good user experience.
+When working offline mode, keep these security and compliance general guidelines in mind for usability and a good user experience.
 
 **Note:** Many of the issues discussed can be resolved using system properties. See the Perry system property file for more information.
 
@@ -64,9 +64,5 @@ When working [[mobile-offline-mode|offline mode]], keep these security and compl
     **Note:** A new cache download only updates the existing cache.
 
 
-**Parent Topic:**[[security-offline|Security and compliance in offline mode]]
+**Parent Topic:**[Security and compliance in offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/security-offline.md)
 
-## Related
-
-- [[security-offline|Security and compliance in offline mode]]
-- [[mobile-offline-mode|Offline mode]]

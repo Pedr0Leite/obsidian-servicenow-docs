@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Activate Now Assist panel
 
-Enable the Now Assist panel to provide generative AI assistance through a conversational interface in [[now-assist-cbs|Now Assist for Core Business Suite]].
+Enable the Now Assist panel to provide generative AI assistance through a conversational interface in Now Assist for Core Business Suite.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ Role required: admin
     The Now Assist panel is activated. For more information, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[now-assist-cbs|Now Assist for Core Business Suite]]

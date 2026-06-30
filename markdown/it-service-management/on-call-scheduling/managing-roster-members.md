@@ -21,10 +21,7 @@ You can add a new employee or an employee who had previously been a member to a 
 -   **[Modify the order of a member in a roster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/set-member-rotation-order-oncall.md)**  
 You can modify the order number for a member without affecting the past shift schedule.
 -   **[Remove a member from a roster](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/remove-member-from-roster-oncall.md)**  
-You might [[remove-member-from-roster-oncall|remove a member from a roster]], for example, if they are no longer a member of the organization or of the group.
+You might remove a member from a roster, for example, if they are no longer a member of the organization or of the group.
 
 **Parent Topic:**[Configure or update an On-Call shift](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/config-update-shift-oncall.md)
 
-## Related
-
-- [[remove-member-from-roster-oncall|Remove a member from a roster]]

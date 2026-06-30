@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Integration configuration fields
 
-This section provides descriptions of the fields on the integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+This section provides descriptions of the fields on the integration configuration forms for Health Log Analytics.
 
 -   **[ACC Log Analytics \(ACC-L\) integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-accl-fields.md)**  
 Description of the fields on the ACC Log Analytics \(ACC-L\) integration configuration forms for Health Log Analytics.
@@ -62,6 +62,3 @@ Description of the fields on the Vector Agent integration configuration forms fo
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

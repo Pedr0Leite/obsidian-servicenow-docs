@@ -35,9 +35,9 @@ However, if you are writing a volume rule and you know you will need to use the 
 -   Var vol=L\*W\*H
 -   Return vol
 
-You should have the queries in the determination [[rules_101|rules]]. Determination rules can only define one field at a time, so this would need three determination rules—one rule each for length, width and height—and three queries. Doing this prevents running a fourth query \(one in each length, width and height rule, and one in the volume determination rule\).
+You should have the queries in the determination rules. Determination rules can only define one field at a time, so this would need three determination rules—one rule each for length, width and height—and three queries. Doing this prevents running a fourth query \(one in each length, width and height rule, and one in the volume determination rule\).
 
-Another way to reduce queries is to be aware of the [[fields|fields]] associated with a rule. Suppose you have a query in a rule that references a lot of fields. The rule runs every time one of the fields associated with that rule changes. Therefore, the query runs every time.
+Another way to reduce queries is to be aware of the fields associated with a rule. Suppose you have a query in a rule that references a lot of fields. The rule runs every time one of the fields associated with that rule changes. Therefore, the query runs every time.
 
 Let’s say you need to calculate the volume and then multiply that volume by density \(which could change based on material the user selects\) to get the total weight. The user does not need to use volume anywhere else downstream. Here is a sample script:
 
@@ -77,7 +77,3 @@ This method is better.
 
 For more information on what is supported in a query, see [The lookup function: commands and syntax](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
-## Related
-
-- [[rules_101|Rules]]
-- [[fields|Fields]]

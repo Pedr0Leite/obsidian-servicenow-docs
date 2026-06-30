@@ -14,7 +14,7 @@ breadcrumb: [Password complexity requirements, Local authentication, Authenticat
 
 # Enable password policies on your instance
 
-Implement password policy controls at login. Force [[users|users]] to change their password if the password does not meet the password policy criteria.
+Implement password policy controls at login. Force users to change their password if the password does not meet the password policy criteria.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The Password Policy plugin \(com.glide.password\_policy\) is enabled by default.
 
 The **Password Strength Preset** field is automatically set to **Default Strong**. If you want to add new criteria, you can perform the following procedure.
 
-If you customized your instance through the **ValidatePasswordStronger** installation exit or your [[c_SelfServicePasswordReset|Password Reset]] credential store **pwd\_cred\_store** property, then see [password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md) to know how to implement a password policy for your instance.
+If you customized your instance through the **ValidatePasswordStronger** installation exit or your Password Reset credential store **pwd\_cred\_store** property, then see [password policy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/password-policy-properties.md) to know how to implement a password policy for your instance.
 
 **Note:** The active password policy is highlighted for the Instance as shown.
 
@@ -36,7 +36,7 @@ To change the password policy navigate to **All** &gt; **Password Reset** &gt; *
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Password Policy** &gt; **Password [[ca-policies|Policies]]**.
+1.  Navigate to **All** &gt; **Password Policy** &gt; **Password Policies**.
 
 2.  Click **New**.
 
@@ -209,7 +209,7 @@ Disallow User Data
 
 </td><td>
 
-Option to disallow user data that is [[c_Authentication|authentication]]-related.
+Option to disallow user data that is authentication-related.
 
 </td></tr><tr><td>
 
@@ -246,9 +246,4 @@ Specify your actual password in this field.
 
     **Note:** Always test your password before submitting.
 
-## Related
 
-- [[users|Users]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[ca-policies|Policies]]
-- [[c_Authentication|Authentication]]

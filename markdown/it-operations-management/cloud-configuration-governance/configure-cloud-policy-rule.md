@@ -30,7 +30,7 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -58,7 +58,7 @@ Description
 
 </td><td>
 
-Select one of the following options:-   **Request Form**: Base the condition on a property \(attribute\) value in the request form in the [[cloudmgt-cloud-user-portal|Cloud User Portal]]. You specify which property to test. In the example, the condition tests whether the OS profile field on the request form has the value “Windows.”
+Select one of the following options:-   **Request Form**: Base the condition on a property \(attribute\) value in the request form in the Cloud User Portal. You specify which property to test. In the example, the condition tests whether the OS profile field on the request form has the value “Windows.”
 -   **User**: Base the condition on a user role or on the group that the user belongs to.
 
 For example, to create a condition that applies when the user belongs to the Marketing group, select:
@@ -112,7 +112,3 @@ Create the policy actions that should run when all conditions of the rule evalua
 
 **Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

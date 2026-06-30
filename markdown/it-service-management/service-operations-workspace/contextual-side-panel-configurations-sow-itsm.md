@@ -14,12 +14,12 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Contextual side panel configurations in Service Operations Workspace for ITSM
 
-You can configure the tabs available in the contextual side panel in [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can configure the tabs available in the contextual side panel in Service Operations Workspace for ITSM.
 
 -   **[Configure contextual side panel tabs in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/customize-options-side-panel.md)**  
 Add or delete tabs from the contextual side panel that is available in all record pages in Service Operations Workspace.
 -   **[Configuring Recommended Actions for ITSM in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-recommended-actions-for-itsm-in-service-operations-workspace.md)**  
-[[r_ITServiceManagement|IT Service Management]] \(ITSM\) includes the following base system components used to configure Recommended Actions for various records in the Service Operations Workspace, including Incident, Incident Tasks, Problem, Problem Tasks, Change Request, Change Request Task, Interaction, and Request.
+IT Service Management \(ITSM\) includes the following base system components used to configure Recommended Actions for various records in the Service Operations Workspace, including Incident, Incident Tasks, Problem, Problem Tasks, Change Request, Change Request Task, Interaction, and Request.
 -   **[Configure the Agent Assist tab in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-the-agent-assist-tab-in-service-operations-workspace.md)**  
 Enable or disable the Agent Assist tab in the contextual side panel for the required record type.
 -   **[Customize the on-call support group recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-supportgroup-oncall-sow.md)**  
@@ -27,7 +27,3 @@ Configure the support group recommendations that should be displayed in the **Ex
 
 **Parent Topic:**[Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[r_ITServiceManagement|IT Service Management]]

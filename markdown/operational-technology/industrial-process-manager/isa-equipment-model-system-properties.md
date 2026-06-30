@@ -16,7 +16,7 @@ breadcrumb: [Reference, Industrial Process Manager, Operational Technology]
 
 Enable the system properties for the ISA Equipment Model as needed.
 
-You can access the system properties for the ISA Equipment Model by navigating to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **All OT Properties**. For more information about how to view and edit the OT system properties, see [View and edit OT system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-and-edit-ot-system-properties.md).
+You can access the system properties for the ISA Equipment Model by navigating to **All** &gt; **Industrial Workspace Admin** &gt; **All OT Properties**. For more information about how to view and edit the OT system properties, see [View and edit OT system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-and-edit-ot-system-properties.md).
 
 The following table describes the system properties for the ISA Equipment Model.
 
@@ -123,6 +123,3 @@ Boolean
 </td></tr></tbody>
 </table>**Parent Topic:**[Industrial Process Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

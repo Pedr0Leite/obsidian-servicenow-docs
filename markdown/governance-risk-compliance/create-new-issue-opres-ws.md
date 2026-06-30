@@ -12,7 +12,7 @@ breadcrumb: [Creating or adding an issue, Manage, Operational Resilience, Govern
 
 # Create New Issue form
 
-Use the Create New Issue form in [[grc-opres-landing-page|Operational Resilience]] Workspace to add an issue to a business service or a [[scenario-analysis-ov|scenario analysis]].
+Use the Create New Issue form in Operational Resilience Workspace to add an issue to a business service or a scenario analysis.
 
 ## Create New Issue form
 
@@ -353,8 +353,3 @@ Functional domain that the issue belongs to. For example, an issue may belong to
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

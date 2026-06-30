@@ -14,7 +14,7 @@ breadcrumb: [Configuring Problem Management, Problem Management, IT Service Mana
 
 # Create a problem task model
 
-Create custom [[problem-mgmt-models|Problem Management models]] with states and transitions tailored to your use cases.
+Create custom Problem Management models with states and transitions tailored to your use cases.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Open the Problem Task [[c_Models|Models]] table in one of the following ways.
+1.  Open the Problem Task Models table in one of the following ways.
 
     -   In the navigation filter, enter `prb_task_model.list`.
     -   Navigate to **All** &gt; **Problem** &gt; **Administration** &gt; **Problem Task Models**.
@@ -35,7 +35,7 @@ Role required: admin
 
     2.  Save the sys\_id for creating an interceptor \(as described in later steps\) by selecting **Copy sys\_id** from the form context menu icon \(\[Omitted image "form-context-menu.png"\] Alt text: Form context menu icon.\).
 
-    3.  On the [[problem-task-model-form|Problem Task Model form]], fill in the fields.
+    3.  On the Problem Task Model form, fill in the fields.
 
         For more information, see [Problem task model form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-task-model-form.md).
 
@@ -113,8 +113,3 @@ Your custom problem task model is available as a choice for the roles specified 
 
 **Next topic:**[Applying CSDM guidelines to Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-product-view.md)
 
-## Related
-
-- [[problem-mgmt-models|Problem Management models]]
-- [[c_Models|Models]]
-- [[problem-task-model-form|Problem task model form]]

@@ -20,7 +20,7 @@ As a member of a security team, you can discover firewall devices, policies, and
 
 For the Panorama integration, you must have a Superuser \(Read only\) role.
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
@@ -67,6 +67,3 @@ Administrators in charge of Discovery can establish a recurring schedule for Pal
 
 **Parent Topic:**[Visibility to Firewall inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

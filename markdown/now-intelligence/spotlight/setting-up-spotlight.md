@@ -20,12 +20,12 @@ Specify the records you want to evaluate by creating a Spotlight group. Create m
 
 **Note:** Before you start to work with Spotlight, an administrator must activate a Spotlight plugin.
 
-After creating the Spotlight group and multiple Spotlight criteria, activate the Spotlight group. After the Group is activated, Spotlight scores are collected automatically according to the Spotlight group job schedule. You can also [[collect-spotlight-scores|collect Spotlight scores]] manually at any time for an active group. A Spotlight is automatically created for any records with Spotlight scores that exceed the Spotlight group threshold, allowing you to quickly identify the highest priority work.
+After creating the Spotlight group and multiple Spotlight criteria, activate the Spotlight group. After the Group is activated, Spotlight scores are collected automatically according to the Spotlight group job schedule. You can also collect Spotlight scores manually at any time for an active group. A Spotlight is automatically created for any records with Spotlight scores that exceed the Spotlight group threshold, allowing you to quickly identify the highest priority work.
 
 -   **[Create a Spotlight group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/create-spotlight-group.md)**  
-[[create-spotlight-group|Create a Spotlight group]] to define the records to evaluate. In the Spotlight group, you also set the threshold that the score of a record must exceed to trigger the creation of a Spotlight.
+Create a Spotlight group to define the records to evaluate. In the Spotlight group, you also set the threshold that the score of a record must exceed to trigger the creation of a Spotlight.
 -   **[Create Spotlight criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/create-spotlight-criteria.md)**  
-[[create-spotlight-criteria|Create Spotlight criteria]] to define when to weight a record, and the weight to assign.
+Create Spotlight criteria to define when to weight a record, and the weight to assign.
 -   **[Collect Spotlight scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/collect-spotlight-scores.md)**  
 To collect Spotlight scores, schedule score collection and activate the Spotlight group. You can also collect scores manually for an active Spotlight group.
 
@@ -36,8 +36,3 @@ To collect Spotlight scores, schedule score collection and activate the Spotligh
 
 [Performance Analytics concepts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PerformanceAnalytics.md)
 
-## Related
-
-- [[collect-spotlight-scores|Collect Spotlight scores]]
-- [[create-spotlight-group|Create a Spotlight group]]
-- [[create-spotlight-criteria|Create Spotlight criteria]]

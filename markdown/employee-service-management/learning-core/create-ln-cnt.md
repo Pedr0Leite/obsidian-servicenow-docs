@@ -14,7 +14,7 @@ breadcrumb: [Managing course and catalog content, Learning Core, HR Service Deli
 
 # Create internal learning content
 
-Create internal [[exploring-learning-exp|learning]] courses so that employees can learn new content and enhance their skills set.
+Create internal learning courses so that employees can learn new content and enhance their skills set.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Associate skills to learning content.
 
 [Learning internal content form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-internal-content-form.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

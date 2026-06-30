@@ -14,9 +14,9 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Procurement overview for Enterprise Asset Workspace
 
-View and manage [[c_Procurement|procurement]]-related details such as procurement requests, purchase orders, sourcing tasks, and receiving slips through the [[using-eam-workspace|Enterprise Asset Workspace]].
+View and manage procurement-related details such as procurement requests, purchase orders, sourcing tasks, and receiving slips through the Enterprise Asset Workspace.
 
-The [[procurement-view|Procurement view]] in the Enterprise Asset Workspace provides access to actions for managing your open requests, pending purchase orders and transfer orders, and requests that need manager approval.
+The Procurement view in the Enterprise Asset Workspace provides access to actions for managing your open requests, pending purchase orders and transfer orders, and requests that need manager approval.
 
 \[Omitted image "eam-procurement-view.png"\] Alt text: Procurement view in the Enterprise Asset Workspace
 
@@ -34,8 +34,3 @@ Select any widget or chart to view more specific details. You can also narrow do
 |Requests that require sourcing|List of requests for which a purchase order, local order, or transfer order hasn't been initiated.|
 |Open purchase orders|List of purchase orders that have been requested or ordered or have not been delivered.|
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[procurement-view|Procurement view]]

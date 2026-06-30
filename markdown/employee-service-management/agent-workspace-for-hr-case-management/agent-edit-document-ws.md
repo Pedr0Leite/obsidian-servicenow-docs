@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Click **Lists**.
 
@@ -42,7 +42,4 @@ Role required: sn\_hr\_core.case\_writer
     3.  Click **Save**.
     The document is saved and sent as an attachment in document tasks that are created for participants.
 
-## Related
 
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

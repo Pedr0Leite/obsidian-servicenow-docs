@@ -14,7 +14,7 @@ breadcrumb: [Event Management reference, Event Management, ITOM AIOps, IT Operat
 
 # Connector domain metadata
 
-Override push connector default domain metadata values installed with [[c_EM|Event Management]] with the values in the event HTTP request, including the URL, headers, request body \(payload\), and connector parameters. Override pull connector domain metadata values with connector parameters only.
+Override push connector default domain metadata values installed with Event Management with the values in the event HTTP request, including the URL, headers, request body \(payload\), and connector parameters. Override pull connector domain metadata values with connector parameters only.
 
 ## Domain metadata parameters
 
@@ -129,6 +129,3 @@ You can reference domain metadata from the request body \(JSON payload\) by sett
 
 **Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Application service mapping using classic Service Mapping, Using Se
 
 # Fix errors in individual application service maps
 
-You can address [[r-discovery|discovery]] issues in each application service map individually.
+You can address discovery issues in each application service map individually.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin
 
 You can fix errors in individual application services at any time. When you perform initial mapping of application services in your organization, you typically fix errors in individual application services after resolving errors in multiple services, in bulk. You may also need to fix errors in an approved and completed application service at a later stage.
 
-\[Omitted image "SMMapFlowReviewFix.png"\] Alt text: Fixing errors in individual application services as part of the [[c_ServiceMappingOverview|Service Mapping]] workflow
+\[Omitted image "SMMapFlowReviewFix.png"\] Alt text: Fixing errors in individual application services as part of the Service Mapping workflow
 
 ## Procedure
 
@@ -44,7 +44,7 @@ You can fix errors in individual application services at any time. When you perf
 
 3.  Group errors by types by clicking **Group Errors**.
 
-    The [[c_DiscoveryErrorMessages|discovery error messages]] on the **Discovery Messages** tab appear grouped by predefined types, error codes.
+    The discovery error messages on the **Discovery Messages** tab appear grouped by predefined types, error codes.
 
 4.  To review and fix an error from the list, click **Handle Error** next to the error description.
 
@@ -190,8 +190,3 @@ You can troubleshoot mapping errors caused by patterns.
 
 [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_DiscoveryErrorMessages|Discovery error messages]]

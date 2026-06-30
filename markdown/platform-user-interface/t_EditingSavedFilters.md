@@ -18,11 +18,11 @@ Set up and edit an admin-configured filter.
 
 Role required: admin
 
-**Note:** The following procedure is intended for administrators. Users with other role types should instead refer to [[t_SavingFilters|Save and use filters in a list view]].
+**Note:** The following procedure is intended for administrators. Users with other role types should instead refer to [Save and use filters in a list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SavingFilters.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_Filters|Filters]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Filters**.
 
 2.  To create a filter, select **New** and complete the following steps on the Filter record.
 
@@ -41,7 +41,7 @@ Role required: admin
     2.  Select **Update**.
 
 
-**Parent Topic:**[[filter-admin-functions|Filter admin functions]]
+**Parent Topic:**[Filter admin functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/filter-admin-functions.md)
 
 **Related topics**  
 
@@ -52,11 +52,5 @@ Role required: admin
 
 [Create a dynamic filter option]()
 
-[[t_CreatingFilters|Create a filter in List]]
+[Create a filter in List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md)
 
-## Related
-
-- [[t_SavingFilters|Save and use filters in a list view]]
-- [[filter-admin-functions|Filter admin functions]]
-- [[t_CreatingFilters|Create a filter in List]]
-- [[c_Filters|Filters]]

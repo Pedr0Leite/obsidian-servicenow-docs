@@ -14,7 +14,7 @@ breadcrumb: [GitHub, Integrate, DevOps Change Velocity, IT Service Management]
 
 # Configure webhooks in GitHub manually
 
-Configure webhooks in GitHub to send sync notifications to the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Configure webhooks in GitHub to send sync notifications to the DevOps Change Velocity application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can also access manual configuration from the GitHub tool record in DevOps C
 
 ## Procedure
 
-1.  In GitHub, navigate to **[[settings-mobile|Settings]]** &gt; **Webhooks** and add a webhook.
+1.  In GitHub, navigate to **Settings** &gt; **Webhooks** and add a webhook.
 
 2.  In DevOps Change Velocity, choose **Configure manually** when configuring the tool instance to send data.
 
@@ -64,7 +64,3 @@ You can also access manual configuration from the GitHub tool record in DevOps C
 
 **Parent Topic:**[GitHub integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/github-integration-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[settings-mobile|Settings]]

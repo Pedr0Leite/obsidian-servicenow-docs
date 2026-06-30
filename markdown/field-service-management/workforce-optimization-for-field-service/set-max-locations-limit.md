@@ -26,12 +26,10 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Field Service** &gt; **Administration** &gt; **Properties**.
 
-2.  In the **Service Locations Properties for [[fsm-application-landing-page|Field Service Management]]** field on the Field Service Management Properties form, enter the limit.
+2.  In the **Service Locations Properties for Field Service Management** field on the Field Service Management Properties form, enter the limit.
 
     The default value is 10.
 
 3.  Click **Save**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

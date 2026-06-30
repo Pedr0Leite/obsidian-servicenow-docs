@@ -14,11 +14,11 @@ breadcrumb: [Configure fundamentals, Performance Analytics \(Indicator data sour
 
 # Conditional filters and operators for indicators and breakdowns
 
-Conditional filters for indicator data cascade from indicator and [[breakdown-sources|breakdown sources]] up to data visualizations. Where conditions are applied can affect data collection efficiency. Some condition operators are only available at some levels, or in some conditions.
+Conditional filters for indicator data cascade from indicator and breakdown sources up to data visualizations. Where conditions are applied can affect data collection efficiency. Some condition operators are only available at some levels, or in some conditions.
 
 ## Conditional filters on indicators and indicator sources
 
-Conditional filters can be applied to both [[automated-indicators|automated indicators]] and [[c_IndicatorSources|indicator sources]]. In general, conditions that are applied to all indicators with the same source should be applied on the indicator source. To verify that your conditions are well designed, list the indicators for an indicator source and include the Conditions field in the view. You should have at least one indicator that only uses the conditions on the indicator source. Otherwise, your indicator source is probably collecting unused data. In this case, consider moving common conditions from the indicators to the indicator source, or splitting the indicator source.
+Conditional filters can be applied to both automated indicators and indicator sources. In general, conditions that are applied to all indicators with the same source should be applied on the indicator source. To verify that your conditions are well designed, list the indicators for an indicator source and include the Conditions field in the view. You should have at least one indicator that only uses the conditions on the indicator source. Otherwise, your indicator source is probably collecting unused data. In this case, consider moving common conditions from the indicators to the indicator source, or splitting the indicator source.
 
 \[Omitted image "indicators-wo-adv-conditions.png"\] Alt text: List of indicators for the Incidents.Open indicator source, showing that some do not have conditions on the indicator
 
@@ -41,14 +41,14 @@ The following operators are not supported on indicators. You can use these opera
 
 ## "Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations
 
-When you [[select-indicator-data-source|select an indicator data source for a data visualization]], you have the option to filter the scores by breakdown element.
+When you select an indicator data source for a data visualization, you have the option to filter the scores by breakdown element.
 
 \[Omitted image "dv-ind-source-con-filter.png"\] Alt text: Conditional filter for indicator data source on data visualization.
 
 The availability of the "is one of" and "is \(dynamic\)" operators depends on how you configure the indicator. The indicator must support multi-element aggregates. The required configuration settings follow:
 
 -   **is one of**
-    -   The aggregation method must not be AVG or COUNT DISTINCT. This requirement applies to automated indicators including the contributing indicators of [[formula-indicators|formula indicators]].
+    -   The aggregation method must not be AVG or COUNT DISTINCT. This requirement applies to automated indicators including the contributing indicators of formula indicators.
     -   If the indicator is a formula indicator, the **Allow aggregation of multiple breakdown element scores** option must be on.
 -   **is \(dynamic\)**
     -   The aggregation method must not be AVG or COUNT DISTINCT. This requirement applies to automated indicators including the contributing indicators of formula indicators.
@@ -58,10 +58,3 @@ The availability of the "is one of" and "is \(dynamic\)" operators depends on ho
 
 **Parent Topic:**[Configure Performance Analytics fundamentals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_PAWidgetsAndDashboards.md)
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]
-- [[automated-indicators|Automated indicators]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[select-indicator-data-source|Select an indicator data source for a data visualization]]
-- [[formula-indicators|Formula indicators]]

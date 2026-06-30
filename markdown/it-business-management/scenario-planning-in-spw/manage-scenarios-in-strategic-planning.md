@@ -14,7 +14,7 @@ breadcrumb: [Optimize planning with scenario planning, Portfolio Planning in Str
 
 # Manage scenarios
 
-Use the **[[manage-scenarios-in-portfolio-planning|Manage scenarios]]** option to view a list of all scenarios, rename scenarios, or delete scenarios.
+Use the **Manage scenarios** option to view a list of all scenarios, rename scenarios, or delete scenarios.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required:sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -68,8 +68,3 @@ The field becomes editable.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[manage-scenarios-in-portfolio-planning|Manage scenarios]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

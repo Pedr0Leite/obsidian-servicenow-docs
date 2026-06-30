@@ -24,7 +24,7 @@ You can assign a an allocation to all the entities of the floor by using the pus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Space Administration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Space Administration**.
 
 2.  Select **Floors**.
 
@@ -226,7 +226,7 @@ Usable size on the floor.Depending on the selected unit, the **Usable size** fie
  This is the amount of space that is available for planning maintenance activities, infrastructure, and so on. The usable size is calculated based on the Space type configuration for child rooms and spaces. If the **Space type** of a space is configured as **Usable**, then the size of the space is included in the calculation.
 
 </td></tr></tbody>
-</table>6.  The **Time zone** of a location is required to synchronize [[Indoor-mapping|Indoor Mapping]] and [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+</table>6.  The **Time zone** of a location is required to synchronize Indoor Mapping and Workplace Service Delivery.
 
     Workplace reservation is created in a location's timezone.
 
@@ -249,8 +249,3 @@ Usable size on the floor.Depending on the selected unit, the **Usable size** fie
 
 The floor is added to the building.
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

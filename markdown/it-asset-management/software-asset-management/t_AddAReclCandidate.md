@@ -14,7 +14,7 @@ breadcrumb: [Software license usage, Using Software Asset Management classic, So
 
 # Add a software removal candidate in Software Asset Management classic
 
-Removal candidates [[reclaiming-software-sam|reclaim software]] resources in your environment. They are created from reclamation rules, or can be created manually.
+Removal candidates reclaim software resources in your environment. They are created from reclamation rules, or can be created manually.
 
 ## Before you begin
 
@@ -262,6 +262,3 @@ Used to track the actions that have been performed on this task.
 
 **Parent Topic:**[Software license usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-license-workbench.md)
 
-## Related
-
-- [[reclaiming-software-sam|Reclaim software]]

@@ -14,7 +14,7 @@ breadcrumb: [Tagging in Knowledge Graph Designer, Using Enterprise graph schema,
 
 # Managing Knowledge Graph tags
 
-Edit or delete [[knowledge-graph-landing|Knowledge Graph]] tags for [[platform-now-assist-landing|Now Assist]] Virtual Agent, AI agent or [[now-assist-center-now-assist-panel|Now Assist Panel]] Enterprise Graph use case.
+Edit or delete Knowledge Graph tags for Now Assist Virtual Agent, AI agent or Now Assist Panel Enterprise Graph use case.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: admin
 
 4.  You can also select the Edit tag configuration \(\[Omitted image "pencil-outline-24.svg"\]\) icon from the **Tag configuration** section to open the Edit Tags window.
 
-5.  To delete a tag, select the \[Omitted image "more-options-menu-item.png"\] icon next to a tag on Enterprise Graph tags section on [[now-assist-center-home-page|home page]].
+5.  To delete a tag, select the \[Omitted image "more-options-menu-item.png"\] icon next to a tag on Enterprise Graph tags section on home page.
 
 6.  Select **Delete** from the drop-down.
 
@@ -44,9 +44,4 @@ Role required: admin
 
 7.  When prompted, confirm the deletion process.
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-center-home-page|Home page]]

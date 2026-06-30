@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow Add-in for Microsoft 365, Unified Employee Experience, E
 
 # Using ServiceNow Add-in for Microsoft 365
 
-Use the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]] to request catalog items or create incidents and cases directly from your emails.
+Use the ServiceNow Add-in for Microsoft 365 to request catalog items or create incidents and cases directly from your emails.
 
 -   **[Get a custom add-in for Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/custom-addin-outlook.md)**  
 Get the custom add-in for your Microsoft Outlook client to use the features configured by your admin.
@@ -23,6 +23,3 @@ Open a relevant catalog item or form to raise a request with pre-filled informat
 
 **Parent Topic:**[ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]

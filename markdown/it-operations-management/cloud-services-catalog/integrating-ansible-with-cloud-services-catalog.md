@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog, Cloud Services Catalog, ITOM Cl
 
 # Integrating Ansible with Cloud Services Catalog
 
-Integrate Ansible with [[csc-home|Cloud Services Catalog]] as a Day 1 activity. With this activity, you can deploy an Ansible job template via a ServiceNow catalog item.
+Integrate Ansible with Cloud Services Catalog as a Day 1 activity. With this activity, you can deploy an Ansible job template via a ServiceNow catalog item.
 
 As a cloud\_service\_user, you can access the config provider and job templates and deploy a job template through a catalog item.
 
@@ -33,11 +33,11 @@ Day 2 support
 </th></tr></thead><tbody><tr><td>
 
 1.  Retrieve the resources from the cloud and update the CMDB
-2.  Verify that there are no errors. If errors are displayed, then the [[r-discovery|Discovery]] or job template deployment has failed
+2.  Verify that there are no errors. If errors are displayed, then the Discovery or job template deployment has failed
 
 </td><td>
 
-1.  [[ordering-ansible|Order an Ansible job template]] from Service Catalog
+1.  Order an Ansible job template from Service Catalog
 2.  Reference the discovered Microsoft Azure pipelines that are specific to Ansible
 3.  Select inputs that are needed for the release deployment pipeline
 4.  Submit a catalog
@@ -76,8 +76,3 @@ Use Cloud Services Catalog to order an Ansible job template called from the cata
 
 **Parent Topic:**[Configuring Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/configuring-csc.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]
-- [[r-discovery|Discovery]]
-- [[ordering-ansible|Order an Ansible job template]]

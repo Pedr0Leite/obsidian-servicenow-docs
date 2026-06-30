@@ -14,7 +14,7 @@ breadcrumb: [Emergency Self Report, Emergency Response Management, Employee Serv
 
 # View self-reported user HR tasks
 
-Members of the emergency response team can view all user reports and associated HR tasks on the [[emergency-self-report|Emergency Self Report]] overview dashboard.
+Members of the emergency response team can view all user reports and associated HR tasks on the Emergency Self Report overview dashboard.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ The Emergency Self Report dashboard enables monitoring by and tasks of the emerg
 
 **Parent Topic:**[Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/emergency-self-report.md)
 
-## Related
-
-- [[emergency-self-report|Emergency Self Report]]

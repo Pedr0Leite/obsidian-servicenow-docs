@@ -14,7 +14,7 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Strategic Planning
 
-Strategic Planning Workspace \(SPW\) enables you to manage enterprise [[strategy-goals-landing-page|strategy and goals]], product feedback, [[portfolio-planning-app-landing-page|portfolio planning]], and enterprise agile planning for your organization. Evaluate product performance, align work with strategy, and scale your Agile framework from a single workspace.
+Strategic Planning Workspace \(SPW\) enables you to manage enterprise strategy and goals, product feedback, portfolio planning, and enterprise agile planning for your organization. Evaluate product performance, align work with strategy, and scale your Agile framework from a single workspace.
 
 Check your entitlements to determine whether you have access to Strategic Planning Workspace.
 
@@ -55,7 +55,3 @@ Explore the generative AI features available in the Strategic Planning applicati
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

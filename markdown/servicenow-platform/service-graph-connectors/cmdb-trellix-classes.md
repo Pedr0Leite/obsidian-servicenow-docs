@@ -33,7 +33,7 @@ The following attributes in the File System \[cmdb\_ci\_file\_system\] table are
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -155,6 +155,3 @@ The following attributes in the Storage Disk \[cmdb\_ci\_storage\_disk\] table a
 
 [Service Graph Connector for Trellix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-integration-trellix.md)
 
-## Related
-
-- [[ip-address|IP Address]]

@@ -22,7 +22,7 @@ Role required: sn\_smart\_asmt.assessment\_admin or sn\_smart\_asmt.template\_ma
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[smart-asmnt-engine-landing-page|Smart assessment engine]]** &gt; **[[Administration|Administration]]** &gt; **Template categories**.
+1.  Navigate to **All** &gt; **Smart assessment engine** &gt; **Administration** &gt; **Template categories**.
 
 2.  Select the relevant template category.
 
@@ -34,7 +34,4 @@ Role required: sn\_smart\_asmt.assessment\_admin or sn\_smart\_asmt.template\_ma
 
 6.  Select **Save**.
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[Administration|Administration]]

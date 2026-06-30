@@ -43,7 +43,7 @@ Role required: admin
 
 ## Result
 
-When the solution is complete, the similar ideas appear in the Related Ideas section on the [[create-an-idea-form|Create an Idea form]] and Related Ideas section on the Ideas page in the Idea Portal.
+When the solution is complete, the similar ideas appear in the Related Ideas section on the Create an Idea form and Related Ideas section on the Ideas page in the Idea Portal.
 
 ## What to do next
 
@@ -62,6 +62,3 @@ When the solution is complete, the similar ideas appear in the Related Ideas sec
 
 [Submit an idea](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/submit-idea-in-idea-portal.md)
 
-## Related
-
-- [[create-an-idea-form|Create an Idea form]]

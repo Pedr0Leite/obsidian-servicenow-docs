@@ -12,7 +12,7 @@ breadcrumb: [Integrating with IT Operations Management, Integrate, Customer Serv
 
 # Integrate with ITOM Event Management
 
-[[c_CustomerServiceManagement|Customer Service Management]] provides an integration with the ITOM Event Management application. This integration enables you to create cases proactively from alerts either manually or through automation and track the accounts and the corresponding [[install-base-item|install base items]] affected by the alert.
+Customer Service Management provides an integration with the ITOM Event Management application. This integration enables you to create cases proactively from alerts either manually or through automation and track the accounts and the corresponding install base items affected by the alert.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-For more information about this integration, see [[pcso-event-management|Integration with Event Management]].
+For more information about this integration, see [Integration with Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/pcso-event-management.md).
 
 ## Procedure
 
@@ -30,8 +30,4 @@ For more information about this integration, see [[pcso-event-management|Integra
 
 3.  Select **Activate**.
 
-## Related
 
-- [[pcso-event-management|Integration with Event Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]

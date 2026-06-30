@@ -14,13 +14,13 @@ breadcrumb: [Install the Task Mining agent, Configure, Task Mining, Platform Ana
 
 # Install the Task Mining Portable Windows agent
 
-Run the [[task-mining|Task Mining]] agent from a portable archive without installing it on the system. The portable agent does not modify the Windows registry or write files outside its extracted folder.
+Run the Task Mining agent from a portable archive without installing it on the system. The portable agent does not modify the Windows registry or write files outside its extracted folder.
 
 ## Before you begin
 
 Role required: Task Mining Agent Install
 
-**Note:** You must be a part of the Task Mining Agent Install group with roles itil, sn\_tm\_core.service\_user, and agent\_client\_collector\_admin to [[install-agent|install the Task Mining agent]]. If the group doesn't exist, create a group with that name and those roles manually. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
+**Note:** You must be a part of the Task Mining Agent Install group with roles itil, sn\_tm\_core.service\_user, and agent\_client\_collector\_admin to install the Task Mining agent. If the group doesn't exist, create a group with that name and those roles manually. For more information, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
 ## Procedure
 
@@ -61,7 +61,3 @@ Role required: Task Mining Agent Install
 
 If you encounter issues, check the logs in the `Bin\log` directory within the extracted folder.
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[install-agent|Install the Task Mining agent]]

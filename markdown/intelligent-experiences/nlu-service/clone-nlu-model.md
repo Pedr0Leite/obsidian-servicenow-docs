@@ -14,11 +14,11 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Duplicate an NLU model
 
-Duplicate an existing [[nlu-landing|Natural Language Understanding]] \(NLU\) model to create a new one. Duplicating a model copies the settings and contents of the original model, including its default test set.
+Duplicate an existing Natural Language Understanding \(NLU\) model to create a new one. Duplicating a model copies the settings and contents of the original model, including its default test set.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Identify an existing NLU model to copy from. The source model should have the language and purpose you want for the new model. If a suitable model does not exist, create and train one.
 -   Role required: nlu\_admin or admin.
 
@@ -59,7 +59,3 @@ To duplicate an entire model group, or one of the models in a group, see [Multil
 
 To transfer a model to a different instance, see [Add an NLU model to an update set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/add-model-update-set.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]

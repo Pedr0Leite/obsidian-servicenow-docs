@@ -18,13 +18,13 @@ As a case manager, send an outreach notification to potentially exposed employee
 
 ## Before you begin
 
-Ensure that your administrator has created an outreach notification that you can send to potentially exposed contacts in the case. To create an outreach notification, the ServiceNow [[emergency-outreach|Emergency Outreach]] application must be installed and active. For more information, see [Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md).
+Ensure that your administrator has created an outreach notification that you can send to potentially exposed contacts in the case. To create an outreach notification, the ServiceNow Emergency Outreach application must be installed and active. For more information, see [Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md).
 
 Role required: sn\_imt\_tracing.case\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **[[case-management-workspace|Case Management]]** &gt; **Cases Assigned to Me**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Case Management** &gt; **Cases Assigned to Me**.
 
 2.  Open a case to send a notification to potentially exposed contacts.
 
@@ -49,8 +49,3 @@ You can review the notifications by navigating to **Emergency Outreach** &gt; **
 
 **Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md)
 
-## Related
-
-- [[emergency-outreach|Emergency Outreach]]
-- [[contact-tracing|Contact Tracing]]
-- [[case-management-workspace|Case management]]

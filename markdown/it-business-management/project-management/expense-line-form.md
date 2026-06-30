@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Management, Project Management r
 
 # Expense line form
 
-Learn about the fields of [[expense-line-form-demand|expense line form]].
+Learn about the fields of expense line form.
 
 <table id="table_mb3_rfw_1r"><thead><tr><th>
 
@@ -132,6 +132,3 @@ Select the records for the sources of the expense line. These sources include:- 
 
 [Create an expense line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAExpenseLine.md)
 
-## Related
-
-- [[expense-line-form-demand|Expense line form]]

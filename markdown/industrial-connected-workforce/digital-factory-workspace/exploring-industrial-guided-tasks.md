@@ -29,7 +29,7 @@ The solution enables you to design tasks in a structured and consistent way base
 -   Schedule tasks
 -   Assign tasks only to workers who meet the specified criteria
 -   Analyze execution insights directly from an industrial standard record to drive continuous improvement
--   Track the actual duration of task execution on both the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] and [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] \(ICW\) mobile to compare actual performance against planned timelines
+-   Track the actual duration of task execution on both the Digital Factory Workspace and Industrial Connected Workforce Mobile Experience \(ICW\) mobile to compare actual performance against planned timelines
 
 ## Industrial Guided Tasks users
 
@@ -56,7 +56,3 @@ Scoring enables the automatic calculation of performance scores after completing
 
 **Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

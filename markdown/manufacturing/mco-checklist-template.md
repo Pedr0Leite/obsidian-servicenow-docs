@@ -20,7 +20,7 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-sales-promotion|Sales Promotion]] Setup** &gt; **Checklist Template**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Sales Promotion Setup** &gt; **Checklist Template**.
 
 2.  Select **New**.
 
@@ -39,9 +39,5 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
 **Related topics**  
 
 
-[[mco-create-checklist|Create a checklist template]]
+[Create a checklist template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-checklist.md)
 
-## Related
-
-- [[mco-create-checklist|Create a checklist template]]
-- [[mco-sales-promotion|Sales promotion]]

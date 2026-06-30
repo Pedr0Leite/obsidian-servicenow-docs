@@ -12,21 +12,14 @@ breadcrumb: [Quizzes, Assessments and Surveys, Exploring Service Administration,
 
 # Quizzes reference
 
-[[reference|Reference]] topics provide additional information about the forms, fields, and properties you use while working with quizzes.
+Reference topics provide additional information about the forms, fields, and properties you use while working with quizzes.
 
--   **[[c_QuizScorecards|Quiz scorecards]]**  
+-   **[Quiz scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md)**  
 The Quizzes application prepares printable scorecards.
--   **[[question-property-form|Question Properties form]]**  
+-   **[Question Properties form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/question-property-form.md)**  
 Description of the field values for the Question Properties form.
--   **[[r_QuizReports|Quiz reports]]**  
+-   **[Quiz reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_QuizReports.md)**  
 Quizzes provide several global reports so that assessment administrators can view important statistics.
 
-**Parent Topic:**[[c_Quizzes|Quizzes]]
+**Parent Topic:**[Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_Quizzes.md)
 
-## Related
-
-- [[c_QuizScorecards|Quiz scorecards]]
-- [[question-property-form|Question Properties form]]
-- [[r_QuizReports|Quiz reports]]
-- [[c_Quizzes|Quizzes]]
-- [[reference|Reference]]

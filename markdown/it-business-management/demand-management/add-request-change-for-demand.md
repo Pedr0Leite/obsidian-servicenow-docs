@@ -14,7 +14,7 @@ breadcrumb: [RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) record
 
 # Add Request Changes to a demand
 
-As a demand manager, you might [[create-project-change-request|create a request change]] as the outcome of the action taken to resolve an issue or mitigate a risk. The request change might result in changing the demand's scope, resource requirement, cost, or schedule to minimize the impact of a risk or issue.
+As a demand manager, you might create a request change as the outcome of the action taken to resolve an issue or mitigate a risk. The request change might result in changing the demand's scope, resource requirement, cost, or schedule to minimize the impact of a risk or issue.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: it\_demand\_manager
 
 3.  From the Request Changes related list, select **New**.
 
-4.  On the [[request-change-form|Request Change form]], fill in the fields.
+4.  On the Request Change form, fill in the fields.
 
     For a description of the field names, see [Request change form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/request-change-form.md).
 
@@ -41,7 +41,3 @@ Associate the request change with your existing risk, issue, decision, and actio
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[create-project-change-request|Create a request change]]
-- [[request-change-form|Request change form]]

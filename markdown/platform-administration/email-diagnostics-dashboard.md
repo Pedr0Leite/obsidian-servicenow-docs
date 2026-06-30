@@ -12,9 +12,9 @@ breadcrumb: [Email and SMS notifications, System notifications, Notifications, C
 
 # Email diagnostics dashboard
 
-The [[r_MailDiagnostics|email diagnostics]] dashboards provide visibility in to email delivery [[c_MetricDefinitionSupport|metrics]] that can help in improving the email health by identifying errors and areas that need deeper investigation.
+The email diagnostics dashboards provide visibility in to email delivery metrics that can help in improving the email health by identifying errors and areas that need deeper investigation.
 
-To access Email diagnostics dashboard, navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **[[email-notifications-dashboard|Email notifications dashboard]]** &gt; **Diagnostics**.
+To access Email diagnostics dashboard, navigate to **All** &gt; **System Notification** &gt; **Email** &gt; **Email notifications dashboard** &gt; **Diagnostics**.
 
 Email diagnostics are available in a new tab within the Email Notifications dashboard for admins to track the following areas:
 
@@ -97,11 +97,11 @@ An error log captures and provides information about issues, failures, or unexpe
 
 ## Connection status
 
-\[Omitted image "email-connection-status.png"\] Alt text: Connection status of configured [[c_EmailAccounts|email accounts]]
+\[Omitted image "email-connection-status.png"\] Alt text: Connection status of configured email accounts
 
 Connection status displays the real time status of all email accounts configured in an instance.
 
-**Parent Topic:**[[c_EmailNotifications|Email and SMS notifications]]
+**Parent Topic:**[Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
 **Related topics**  
 
@@ -110,7 +110,7 @@ Connection status displays the real time status of all email accounts configured
 
 [Create an email notification]()
 
-[Email [[notifications|notifications]] dashboard]()
+[Email notifications dashboard]()
 
 [Email templates]()
 
@@ -128,11 +128,3 @@ Connection status displays the real time status of all email accounts configured
 
 [Email FAQs and troubleshooting notification emails]()
 
-## Related
-
-- [[c_EmailNotifications|Email and SMS notifications]]
-- [[r_MailDiagnostics|Email diagnostics]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[email-notifications-dashboard|Email notifications dashboard]]
-- [[c_EmailAccounts|Email accounts]]
-- [[notifications|Notifications]]

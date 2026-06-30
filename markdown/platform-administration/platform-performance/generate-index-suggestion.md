@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-When the ISE generates an index suggestion for a slow query, it reviews query [[c_MetricDefinitionSupport|metrics]] and information from tables in the query. If the ISE doesn’t have the information required to generate an index suggestion, the system displays messages informing you about the data needed. These messages typically provide links for obtaining more information, such as updated query metrics or gathering column statistics from tables in the query. Sometimes the ISE might be unable to provide a recommended index for the query and lets you know why the suggestion can’t be generated.
+When the ISE generates an index suggestion for a slow query, it reviews query metrics and information from tables in the query. If the ISE doesn’t have the information required to generate an index suggestion, the system displays messages informing you about the data needed. These messages typically provide links for obtaining more information, such as updated query metrics or gathering column statistics from tables in the query. Sometimes the ISE might be unable to provide a recommended index for the query and lets you know why the suggestion can’t be generated.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Stats** &gt; **Slow Queries**.
+1.  Navigate to **All** &gt; **System Diagnostics** &gt; **Stats** &gt; **Slow Queries**.
 
 2.  In the Slow Queries table, select the query record for which you want to generate an index suggestion.
 
@@ -55,7 +55,3 @@ When the ISE generates an index suggestion for a slow query, it reviews query [[
 
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[sys-diag|System Diagnostics]]

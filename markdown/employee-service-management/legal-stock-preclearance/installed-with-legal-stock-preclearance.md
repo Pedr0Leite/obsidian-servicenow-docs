@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Stock Preclearance, Legal Service Delivery Practic
 
 # Components installed with Legal Stock Preclearance
 
-Several types of components are installed with activation of the [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]] application, including tables and user roles.
+Several types of components are installed with activation of the Legal Stock Preclearance application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -100,6 +100,3 @@ Stores the trading window requests for stock preclearance requests.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Stock Preclearance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/legal-stock-pre-reference.md)
 
-## Related
-
-- [[legal-stock-preclearance-landing-page|Legal Stock Preclearance]]

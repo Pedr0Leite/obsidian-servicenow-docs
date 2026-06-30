@@ -19,10 +19,7 @@ Work on the universal requests created by the employees. You can chat with emplo
 -   **[Manage chat messages from a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-start-import-chat.md)**  
 As an agent, interact with a requester in Microsoft Teams for issues related to universal requests assigned to you. Import the chat back to your instance.
 -   **[Manage chat messages from the Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-start-import-chat-aws.md)**  
-As an agent, interact with a requester in Microsoft Teams from the Agent Workspace for issues related to an [[ur-landing-limitedaccess|universal request]]. Import the chat back to ServiceNow.
+As an agent, interact with a requester in Microsoft Teams from the Agent Workspace for issues related to an universal request. Import the chat back to ServiceNow.
 
 **Parent Topic:**[Use Microsoft Teams for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-ms-teams-use.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

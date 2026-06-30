@@ -12,7 +12,7 @@ breadcrumb: [Administer, Customer Service Management]
 
 # Customer Service Management Workflow Studio actions
 
-Use Workflow Studio actions as building blocks to create [[c_CustomerServiceManagement|Customer Service Management]] business processes.
+Use Workflow Studio actions as building blocks to create Customer Service Management business processes.
 
 |Action|Description|
 |------|-----------|
@@ -21,7 +21,7 @@ Use Workflow Studio actions as building blocks to create [[c_CustomerServiceMana
 |Create Quick Case|Create a case using the customer, description, channel, priority, and category attributes.|
 |Create Task on Case|Create a case task and optionally associate it with a case.|
 |Update Case|Update a case by providing the case reference and the fields that you want to update.|
-|Assign Case|Assign a case using matching [[gamification-components-rules|rules]]. To use this action, you must first define the matching rules that match cases with resources \(assignment groups, agents\).|
+|Assign Case|Assign a case using matching rules. To use this action, you must first define the matching rules that match cases with resources \(assignment groups, agents\).|
 |Escalate Case|Request case escalation. This action does not automatically approve escalation. Approval is based on the selected escalation template.|
 |Escalate Account|Request account escalation. This action does not automatically approve escalation. Approval is based on the selected escalation template.|
 |Add Work Note to Task|Add a work note to a task or to task extended objects \(for example, a case or case task\).|
@@ -34,7 +34,3 @@ Use Workflow Studio actions as building blocks to create [[c_CustomerServiceMana
 
 [Action Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/actions.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

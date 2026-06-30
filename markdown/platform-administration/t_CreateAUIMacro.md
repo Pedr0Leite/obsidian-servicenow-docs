@@ -60,7 +60,7 @@ Role required: ui\_macro\_admin
 5.  Click **Submit**.
 
 
-**Parent Topic:**[[c_Formatters|Using formatters]]
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 **Related topics**  
 
@@ -81,6 +81,3 @@ Role required: ui\_macro\_admin
 
 [Jelly tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_JellyTags.md)
 
-## Related
-
-- [[c_Formatters|Using formatters]]

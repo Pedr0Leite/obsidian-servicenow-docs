@@ -23,7 +23,7 @@ Role required: admin
 The ServiceNow SCCM integrations are self-contained and can exist independently. They each use their own import set tables, data sources and transform maps. However, all SCCM integrations will transform data into the same tables within the ServiceNow CMDB. To avoid the data being overwritten by another source:
 
 -   Use one SCCM integration and disable all other SCCM scheduled imports.
--   Perform a [[how-sccm-integration-works|full import]] to clear the cmdb\_software\_instance table, the cmdb\_sam\_sw\_install table, and other tables of old SCCM data.
+-   Perform a [full import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/how-sccm-integration-works.md) to clear the cmdb\_software\_instance table, the cmdb\_sam\_sw\_install table, and other tables of old SCCM data.
 
 **Note:** It is possible to configure each plugin to integrate with SCCM 2007 or 2012 because the mechanism of the integration is actually the same, which is to leverage Java Database Connectivity \(JDBC\) imports. However, a data source must be modified if it is used for an SCCM version for which it was not written. Use the plugin version that corresponds to the SCCM version for which the data source is intended.
 
@@ -43,23 +43,17 @@ To disable the SCCM import schedule:
 
 3.  Select **Save** or **Update**.
 
-4.  To activate the new SCCM plugin, navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **[[application-manager|Application Manager]]**.
+4.  To activate the new SCCM plugin, navigate to **All** &gt; **Admin Center** &gt; **Application Manager**.
 
 5.  Search for **\*SCCM** to see all the available SCCM integrations plugins.
 
 6.  Activate the plugin.
 
 
-**Parent Topic:**[[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
+**Parent Topic:**[Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md)
 
 **Related topics**  
 
 
 [SCCM data import process and source tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/how-sccm-integration-works.md)
 
-## Related
-
-- [[how-sccm-integration-works|SCCM data import process and source tables]]
-- [[c_MicrosoftSCCMIntegration|Microsoft SCCM integration]]
-- [[admin-center-intro|Admin Center]]
-- [[application-manager|Application Manager]]

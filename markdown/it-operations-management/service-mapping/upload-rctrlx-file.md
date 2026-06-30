@@ -14,7 +14,7 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Upload the rctrlx.exe file to MID Servers
 
-Upload the rctrlx.exe file to MID Servers to enable running [[r-discovery|discovery]] commands on Microsoft Exchange 2007 and 2010, and Citrix XenApp.
+Upload the rctrlx.exe file to MID Servers to enable running discovery commands on Microsoft Exchange 2007 and 2010, and Citrix XenApp.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or service\_mapping\_admin
 
 ## About this task
 
-During the discovery process, the MID Server runs [[c_ServiceMappingOverview|Service Mapping]] and Discovery patterns on applications and devices located inside the organization network. A pattern is a sequence of commands designed to detect attributes of a CI and its outbound connections. To execute commands over PowerShell correctly, MID Server runs patterns as services using the rctrlx.exe file. The rctrlx.exe file is part of the open source ManagePC utility and is available for downloading from the Internet.
+During the discovery process, the MID Server runs Service Mapping and Discovery patterns on applications and devices located inside the organization network. A pattern is a sequence of commands designed to detect attributes of a CI and its outbound connections. To execute commands over PowerShell correctly, MID Server runs patterns as services using the rctrlx.exe file. The rctrlx.exe file is part of the open source ManagePC utility and is available for downloading from the Internet.
 
 Upload an `rctrlx.exe` file for every MID Server in your deployment.
 
@@ -52,7 +52,3 @@ Upload an `rctrlx.exe` file for every MID Server in your deployment.
 
 [MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-landing.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

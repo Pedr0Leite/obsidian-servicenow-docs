@@ -14,17 +14,11 @@ breadcrumb: [Components installed with Product Catalog, Product Catalog, Asset M
 
 # Script includes installed with Product Catalog
 
-[[c_ProductCatalog|Product Catalog]] plugin adds the following script include.
+Product Catalog plugin adds the following script include.
 
 |Table|Description|
 |-----|-----------|
-|ProductCatalogUtils|Utilities for creating and maintaining [[c_ManagingProductCatalogItems|product catalog items]] derived from [[c_ManageVendorCatalogItems|vendor catalog items]] and [[c_Models|models]].|
+|ProductCatalogUtils|Utilities for creating and maintaining product catalog items derived from vendor catalog items and models.|
 
 **Parent Topic:**[Components installed with Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/r_InstalledWithProductCatalog.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]
-- [[c_Models|Models]]

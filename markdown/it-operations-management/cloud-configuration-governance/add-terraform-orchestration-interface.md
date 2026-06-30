@@ -14,7 +14,7 @@ breadcrumb: [Resource blocks in Cloud Provisioning and Governance, Cloud Admin P
 
 # Add Terraform Orchestration interface on a resource block
 
-After you have activated the Terraform store app for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]], to support cloud-based operations for cloud providers using Terraform Open Source Edition. Add the Terraform Orchestration interface on resource block, to execute cloud-based operations via terraform templates.
+After you have activated the Terraform store app for Cloud Provisioning and Governance, to support cloud-based operations for cloud providers using Terraform Open Source Edition. Add the Terraform Orchestration interface on resource block, to execute cloud-based operations via terraform templates.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cmp\_root\_admin, sn\_cmp.cloud\_service\_designer
 
 ## Procedure
 
-1.  On the [[cloud-admin-portal|Cloud Admin portal]], navigate to **Design** &gt; **Resource Block**.
+1.  On the Cloud Admin portal, navigate to **Design** &gt; **Resource Block**.
 
 2.  Click the resource block, for example **Azure Datacenter**.
 
@@ -74,7 +74,7 @@ API Provider
 
 </td><td>
 
-Select the API that provides the interfaces you need. The providers are part of the [[cloud-management-api|Cloud API \(CAPI\)]].
+Select the API that provides the interfaces you need. The providers are part of the Cloud API \(CAPI\).
 
  For example, CAPI supplies the **Terraform OpenSource**provider, which provides the **Configuration Orchestration Interface**.
 
@@ -272,8 +272,3 @@ function processResponse (response, cloudServiceAccountId, ldc,
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-api|Cloud API \(CAPI\)]]

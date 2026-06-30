@@ -15,7 +15,7 @@ breadcrumb: [Explore, Digital Product Release, IT Service Management]
 
 # AI-powered release notes generation
 
-[[dpr-landing-page|Digital Product Release]] provides an AI-driven summarization feature that automatically generates release notes for your product and service releases. This capability streamlines the release note creation process, reducing manual effort and improving consistency.
+Digital Product Release provides an AI-driven summarization feature that automatically generates release notes for your product and service releases. This capability streamlines the release note creation process, reducing manual effort and improving consistency.
 
 ## Key capabilities
 
@@ -60,7 +60,7 @@ The AI summarization feature pulls together details from your enhancements, feat
     This section provides details about new features, enhancements, and defect fixes included in the release, listed in subsections.
 
 
-\[Omitted image "dpr-release-notes-preview.png"\] Alt text: AI-generated release notes preview in [[dpr-workspace|Digital Product Release Workspace]].
+\[Omitted image "dpr-release-notes-preview.png"\] Alt text: AI-generated release notes preview in Digital Product Release Workspace.
 
 **Parent Topic:**[Exploring Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-exploring-digital-product-release.md)
 
@@ -71,7 +71,3 @@ The AI summarization feature pulls together details from your enhancements, feat
 
 [Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]
-- [[dpr-workspace|Digital Product Release Workspace]]

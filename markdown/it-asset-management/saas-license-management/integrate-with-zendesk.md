@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Zendesk
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Zendesk application enables you to track your software subscriptions and to reclaim unused licenses.
+Integrating your Software Asset Management application with the Zendesk application enables you to track your software subscriptions and to reclaim unused licenses.
 
 **Important:** Minimize security risks and protect information by granting access only to the necessary user or API permissions.
 
@@ -130,7 +130,7 @@ Create a Zendesk integration profile to track software subscriptions and optimiz
 
 ### Before you begin
 
-To create a Zendesk integration profile, request the Software Asset Management - [[sam-subscription-management|SaaS License Management]] plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
+To create a Zendesk integration profile, request the Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) from the [ServiceNow Store](https://store.servicenow.com/).
 
 ServiceNow Role required: sam\_integrator
 
@@ -138,7 +138,7 @@ ServiceNow Role required: sam\_integrator
 
 ### About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the Zendesk integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the Zendesk integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -165,7 +165,7 @@ Action
 
 </td></tr><tr><td id="d212469e577">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -313,7 +313,7 @@ URL of the OAuth provider that users are redirected to after authentication. Thi
 
 ### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]], reclamation rules, and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models, reclamation rules, and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -342,10 +342,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

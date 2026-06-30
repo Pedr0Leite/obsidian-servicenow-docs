@@ -26,7 +26,7 @@ Create your business and technical goals in the form of PI objectives. Associate
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **PI Objectives**.
+1.  Navigate to **All** &gt; **Scaled Agile Framework \(SAFe\)** &gt; **PI Objectives**.
 
     You can also use the PI Objectives related list on the SAFe team form, ART form, or PI form.
 
@@ -52,6 +52,3 @@ Create your business and technical goals in the form of PI objectives. Associate
 
 **Parent Topic:**[SAFe PI objectives](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-pi-objectives.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

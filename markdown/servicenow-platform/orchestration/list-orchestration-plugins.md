@@ -61,7 +61,7 @@ Orchestration - Asset Lease Management \[com.snc.orchestration.asset\_lease\_man
 
 </td><td>
 
-Provides the software lease functionality for [[c_ClientSoftwareDistribution|Client Software Distribution]]. Allows users to select the start and end dates of software leases and to request an extension of a lease.**Note:** This plugin is not automatically enabled when Orchestration is active.
+Provides the software lease functionality for Client Software Distribution. Allows users to select the start and end dates of software leases and to request an extension of a lease.**Note:** This plugin is not automatically enabled when Orchestration is active.
 
 </td><td>
 
@@ -85,7 +85,7 @@ Orchestration - Client Software Distribution \[com.snc.orchestration.client\_sf\
 
 </td><td>
 
-Allows the [distribution of software](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md) from the [[service-catalog|service catalog]] using third party management systems, such as Microsoft System Center Configuration Manager \(SCCM\)**Note:** This plugin is not automatically enabled when Orchestration is active.
+Allows the [distribution of software](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md) from the service catalog using third party management systems, such as Microsoft System Center Configuration Manager \(SCCM\)**Note:** This plugin is not automatically enabled when Orchestration is active.
 
 </td><td>
 
@@ -120,7 +120,7 @@ Orchestration
 
 </td></tr><tr><td>
 
-Orchestration - [[c_InfobloxDDIActivityPack|Infoblox DDI Activity Pack]] \[com.snc.orchestration.infoblox\]
+Orchestration - Infoblox DDI Activity Pack \[com.snc.orchestration.infoblox\]
 
 </td><td>
 
@@ -186,7 +186,7 @@ Orchestration - Runtime \[com.snc.runbook\_automation.runtime\]
 
 </td><td>
 
-Enables other applications on the ServiceNow® platform to distribute and use orchestration content without requiring an Orchestration subscription. The [Orchestration - Runtime](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/orchestration-runtime-plugin.md) plugin displays the Orchestration activities shipped with these applications in the [[workflow-editor|Workflow Editor]] and allows customers to modify the activities without requiring an Orchestration license.
+Enables other applications on the ServiceNow® platform to distribute and use orchestration content without requiring an Orchestration subscription. The [Orchestration - Runtime](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/orchestration-runtime-plugin.md) plugin displays the Orchestration activities shipped with these applications in the Workflow Editor and allows customers to modify the activities without requiring an Orchestration license.
 
 </td><td>
 
@@ -232,9 +232,3 @@ Orchestration
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_ActivateOrchestration.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]
-- [[c_InfobloxDDIActivityPack|Infoblox DDI activity pack]]
-- [[workflow-editor|Workflow editor]]

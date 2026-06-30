@@ -43,8 +43,5 @@ Role required: admin
     |\[Omitted image "image-annotation-ios.png"\] Alt text: Image annotation button and panel for iOS devices.|\[Omitted image "image-annotation-android.png"\] Alt text: Image annotation button and panel for Android devices.|
 
 
-**Parent Topic:**[[images-and-attachments|Working with images and attachments in mobile]]
+**Parent Topic:**[Working with images and attachments in mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/images-and-attachments.md)
 
-## Related
-
-- [[images-and-attachments|Working with images and attachments in mobile]]

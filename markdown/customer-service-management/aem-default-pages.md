@@ -70,7 +70,7 @@ Reference page to browse and search for knowledge articles.
 </td><td>
 
 -   Search Box
--   Article List \(one each for featured articles and the most viewed articles [[migration-lists|lists]]\)
+-   Article List \(one each for featured articles and the most viewed articles lists\)
 
 </td></tr></tbody>
 </table>## ServiceNow page in AEM for customer service cases
@@ -79,7 +79,7 @@ The following table shows default pages available in the ServiceNow site in AEM 
 
 |Page|Description|Case components on the page|
 |----|-----------|---------------------------|
-|ServiceNow Create Case|Reference page to [[t_CreateACaseFromCustServApp|create a customer service case]].|New Case|
+|ServiceNow Create Case|Reference page to create a customer service case.|New Case|
 |ServiceNow Case View|Reference page to view a customer service case.|Case View|
 |ServiceNow Case List|Reference page to browse and search for customer service cases.|Case List|
 
@@ -97,7 +97,7 @@ Description
 
 </th><th>
 
-[[servicenow-web-components-overview|ServiceNow components]] on the page
+ServiceNow components on the page
 
 </th></tr></thead><tbody><tr><td>
 
@@ -115,9 +115,3 @@ Reference page to browse and search for knowledge articles and create a case.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[migration-lists|Lists]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[servicenow-web-components-overview|ServiceNow components]]

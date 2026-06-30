@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Find the case you for which you want to add a reminder.
 
@@ -51,7 +51,3 @@ Role required: sn\_hr\_core.case\_writer
     -   When alert is activated, a number appears inside the Notifications icon \(\[Omitted image "notification-icon.png"\] Alt text: Notifications icon\) and the notifications message scrolls across the screen to remind you.
     -   Reminder notifications appear only to the user who has set the reminders.
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

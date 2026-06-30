@@ -16,13 +16,13 @@ You can filter the product catalog, offering categories, and product offerings d
 
 ## Product offer eligibility overview
 
-As a product catalog admin or manager, you create the business [[rules_101|rules]] that filter the product catalogs, offering categories, and product offerings to display only the eligible products for customers when agents are creating quotes or orders. Filtering the products helps agents sell the correct products to customers. The filters are based on decision rules that you set in the following product eligibility matrices:
+As a product catalog admin or manager, you create the business rules that filter the product catalogs, offering categories, and product offerings to display only the eligible products for customers when agents are creating quotes or orders. Filtering the products helps agents sell the correct products to customers. The filters are based on decision rules that you set in the following product eligibility matrices:
 
 -   **Product Offering Catalog Eligibility**: Define the eligibility rules to be applied to product offering catalogs. For example, you can use this matrix to filter sales catalogs based on customer location, such as country, state, or city.
 -   **Product Offering Category Eligibility**: Define the eligibility rules to be applied to product offering categories.
 -   **Product Offering Eligibility**: Define the eligibility rules to be applied to product offerings.
 
-These matrices are frameworks for setting the conditions and the context variables that control the catalogs, product categories, and product offerings displayed. You can use system-defined context variables provided with Product Catalog Management and [[pricing-management|Pricing Management]], or you can work with your admin to develop your own custom context variables, such as marketing segment or sales channel, to be used in the eligibility matrices.
+These matrices are frameworks for setting the conditions and the context variables that control the catalogs, product categories, and product offerings displayed. You can use system-defined context variables provided with Product Catalog Management and Pricing Management, or you can work with your admin to develop your own custom context variables, such as marketing segment or sales channel, to be used in the eligibility matrices.
 
 ## Configuration tasks
 
@@ -30,24 +30,14 @@ Complete the following tasks to set up product eligibility matrices.
 
 |Task|Description|Role|
 |----|-----------|----|
-|[[som-create-context-variable|Create a custom context variable]] \(if needed\)|Review system-defined and existing custom context variables. If needed, add a new context variable, then [[som-map-variable|map the customer variable to a transaction entity]].|Admin|
-|[[som-create-rule-entity-filter|Create a rule entity filter]]|Define the eligibility filters for a product entity.|Product catalog admin or manager|
-|[[som-define-eligibility-rules|Define product eligibility rules in a product eligibility matrix]]|Define the eligibility rules in the decision table of a product eligibility matrix.|Product catalog admin or manager|
+|[Create a custom context variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-context-variable.md) \(if needed\)|Review system-defined and existing custom context variables. If needed, add a new context variable, then [map the customer variable to a transaction entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-map-variable.md).|Admin|
+|[Create a rule entity filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-rule-entity-filter.md)|Define the eligibility filters for a product entity.|Product catalog admin or manager|
+|[Define product eligibility rules in a product eligibility matrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-define-eligibility-rules.md)|Define the eligibility rules in the decision table of a product eligibility matrix.|Product catalog admin or manager|
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-context-variable|Create a custom context variable]]
-- [[som-map-variable|Map a custom context variable to a transaction entity]]
-- [[som-create-rule-entity-filter|Create a rule entity filter]]
-- [[som-define-eligibility-rules|Define product eligibility rules in a product eligibility matrix]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[rules_101|Rules]]
-- [[pricing-management|Pricing Management]]

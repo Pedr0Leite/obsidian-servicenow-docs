@@ -14,7 +14,7 @@ breadcrumb: [Security metrics, Security monitoring console, Security Center, Pla
 
 # Configure Security Metrics to send email when thresholds are triggered
 
-Learn how to configure [[sc-metrics|Security Metrics]] so that your instance generates an [[email|email]] notification when a threshold is triggered.
+Learn how to configure Security Metrics so that your instance generates an email notification when a threshold is triggered.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  In the [[sec-center-v2|Security Center]], navigate to **[[ca-metrics|metrics]]**.
+1.  In the Security Center, navigate to **metrics**.
 
 2.  Select a metric that you want to set a threshold for in your organization.
 
-    To manage failed logins, you can set a threshold. When the number of failed logins reach this threshold, admins or security experts in your organization are notified. The appropriate Security Metric to target in this case is **[[users|users]]** &gt; **failed logins**.
+    To manage failed logins, you can set a threshold. When the number of failed logins reach this threshold, admins or security experts in your organization are notified. The appropriate Security Metric to target in this case is **users** &gt; **failed logins**.
 
 3.  Select the **Thresholds** icon.
 
@@ -64,10 +64,3 @@ Role required: admin
 
 **Parent Topic:**[Security metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-metrics.md)
 
-## Related
-
-- [[sc-metrics|Security metrics]]
-- [[email|Email]]
-- [[sec-center-v2|Security Center]]
-- [[ca-metrics|Metrics]]
-- [[users|Users]]

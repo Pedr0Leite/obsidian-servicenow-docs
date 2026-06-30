@@ -14,12 +14,12 @@ breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Install EMR Help
 
-You can install the [[emr-exploring|EMR Help]] application \(sn\_ind\_rmt\_help\) if you have the admin role. The application includes demo data.
+You can install the EMR Help application \(sn\_ind\_rmt\_help\) if you have the admin role. The application includes demo data.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   Confirm that a ServiceNow ITSM [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] package is already installed by an administrator.
+-   Confirm that a ServiceNow ITSM Healthcare and Life Sciences Service Management Core package is already installed by an administrator.
 
 Role required: admin
 
@@ -54,7 +54,4 @@ For more information, see [Components installed with EMR Help](https://raw.githu
 
 5.  Select **Install**.
 
-## Related
 
-- [[emr-exploring|EMR Help]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

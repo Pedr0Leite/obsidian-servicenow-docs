@@ -62,7 +62,7 @@ You can create an integration profile for the following SaaS applications:
 
 You can also create integrations for Adobe Cloud and Microsoft Office 365. For more information, see [Microsoft 365 integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-o365.md) and [Software Asset Management publisher pack for Adobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-publisher-pack.md).
 
-If you want to integrate with a SaaS application that is not on this list, you can [[create-integration-custom|create a custom integration profile]]. For more information, see [Create a custom integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md).
+If you want to integrate with a SaaS application that is not on this list, you can create a custom integration profile. For more information, see [Create a custom integration profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/create-integration-custom.md).
 
 **Note:**
 
@@ -74,6 +74,3 @@ After reviewing the reclamation rule, [create a software entitlement](https://ra
 
 After following this process, you're ready to start reclaiming unused licenses to reduce software costs for your company.
 
-## Related
-
-- [[create-integration-custom|Create a custom integration profile]]

@@ -14,7 +14,7 @@ breadcrumb: [Machine learning solutions in Agent Workspace for HR Case Managemen
 
 # Auto determination of assignment group in Agent Workspace for HR Case Management
 
-Auto determine the assignment group for a case in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]. Enable an HR agent to transfer the case to the correct assignment group rather than having to spend significant time manually identifying groups for the HR cases.
+Auto determine the assignment group for a case in Agent Workspace for HR Case Management. Enable an HR agent to transfer the case to the correct assignment group rather than having to spend significant time manually identifying groups for the HR cases.
 
 **Important:** This feature is available with the HR Professional and HR Enterprise packages when you activate Agent Workspace for HR Case Management and Predictive Intelligence applications. If you do not want to use this feature, disable the **sn\_hr\_core.case\_auto\_assignment** system property.
 
@@ -46,6 +46,3 @@ By default the Auto Assignment Group for HR Cases solution definition is configu
 
 [Display similar closed cases in Agent Workspace for HR Case Management]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

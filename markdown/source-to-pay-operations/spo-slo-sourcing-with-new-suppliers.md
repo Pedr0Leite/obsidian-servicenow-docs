@@ -13,7 +13,7 @@ breadcrumb: [Purchasing and sourcing workflows, Source-to-Pay Operations, Financ
 
 # End-to-end sourcing and supplier onboarding workflow in Source-to-Pay Operations
 
-With [[psm-overview|Sourcing and Procurement Operations]] and [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] together, provide complete visibility to all the stakeholders involved in the sourcing process, along with improved [[supplier|supplier]] onboarding experience.
+With Sourcing and Procurement Operations and Supplier Lifecycle Operations together, provide complete visibility to all the stakeholders involved in the sourcing process, along with improved supplier onboarding experience.
 
 ## How sourcing and supplier onboarding works
 
@@ -23,12 +23,12 @@ The following figure shows how an employee, procurement specialist, supplier man
 
 In this workflow:
 
-1.  An employee visits [[shopping-hub-overview|Shopping Hub]] \(or Employee Center\) and creates a [[sourcing-request|sourcing request]] with a new supplier to be onboarded.
+1.  An employee visits Shopping Hub \(or Employee Center\) and creates a sourcing request with a new supplier to be onboarded.
 2.  Work assignment rules route the request to a procurement specialist's workspace.
-3.  The procurement specialist initiates automated [[supplier-qualification|supplier qualification]], which creates required cases, including a new supplier onboarding case that is assigned to a supplier manager.
+3.  The procurement specialist initiates automated supplier qualification, which creates required cases, including a new supplier onboarding case that is assigned to a supplier manager.
 4.  The supplier manager reviews the supplier onboarding case and uses the onboarding playbook in the supplier workspace to onboard suppliers.
 5.  The playbook generates tasks and assigns them to the supplier being onboarded.
-6.  The [[supplier-contact|supplier contact]] views the assigned tasks in the [[supplier-central|Supplier Collaboration Portal]].
+6.  The supplier contact views the assigned tasks in the Supplier Collaboration Portal.
 7.  The supplier contact completes the assigned tasks and submits the required questionnaire in the Supplier Collaboration Portal.
 8.  The supplier manager reviews the collected supplier data and completes the onboarding playbook in the supplier workspace.
 9.  The employee, procurement specialist, and supplier manager have complete visibility into the status of work, including supplier onboarding, through process completion, from their respective portals.
@@ -38,15 +38,15 @@ In this workflow:
 Install and activate these plugins.
 
 -   Shopping Hub \[com.snc.sn\_spend\_uib\]
--   [[purchase-experience-workflow|Sourcing and Purchasing Automation]] \[com.snc.sn\_pr\]
--   [[psd-overview|Procurement Case Management]] \[com.sn\_spend\_psd\]
--   [[purch-order-mgmt-ws|Source-to-Pay Workspace]] \[com.sn\_spend\_workspace\]
+-   Sourcing and Purchasing Automation \[com.snc.sn\_pr\]
+-   Procurement Case Management \[com.sn\_spend\_psd\]
+-   Source-to-Pay Workspace \[com.sn\_spend\_workspace\]
 -   Playbooks for Sourcing and Procurement Operations \[com.sn\_spend\_cp\]
--   [[advanced-work-assignment|Advanced Work Assignment]] for Sourcing and Procurement Operations \[com.snc.sn\_spend\_awa\]
--   [[supplier-common|Supplier Common Architecture]] \[com.snc.sn\_slm\]
+-   Advanced Work Assignment for Sourcing and Procurement Operations \[com.snc.sn\_spend\_awa\]
+-   Supplier Common Architecture \[com.snc.sn\_slm\]
 -   Supplier Lifecycle Operations \[com.snc.sn\_supplier\_mgmt\]
 -   Supplier Collaboration Portal \[com.snc.sn\_supplier\_sp\]
--   [[supplier-awa|Advanced Work Assignment for Supplier Lifecycle Operations]] \[com.snc.sn\_slm\_awa\]
+-   Advanced Work Assignment for Supplier Lifecycle Operations \[com.snc.sn\_slm\_awa\]
 -   Source-to-Pay Common Architecture \[com.snc.sn\_shop\]
 -   Finance Common Architecture \[com.sn\_fin\]
 -   Common Service Delivery \[com.sn\_spend\_sdc\]
@@ -62,7 +62,7 @@ To get started with sourcing with a new supplier, follow these steps:
 
     Role: sn\_shop.shopper.
 
-2.  Review the sourcing request and its associated [[purchase-lines|purchase lines]] on the Source-to-Pay Workspace. For more information, see [SPO list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/procurement-specialist-list-page.md).
+2.  Review the sourcing request and its associated purchase lines on the Source-to-Pay Workspace. For more information, see [SPO list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/procurement-specialist-list-page.md).
 
     Role: sn\_shop.procurement\_specialist.
 
@@ -89,20 +89,4 @@ To get started with sourcing with a new supplier, follow these steps:
 
     Role: sn\_slm.manager.
 
-## Related
 
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-request|Sourcing request]]
-- [[supplier-qualification|Supplier qualification]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[supplier-awa|Advanced Work Assignment for Supplier Lifecycle Operations]]
-- [[purchase-lines|Purchase lines]]

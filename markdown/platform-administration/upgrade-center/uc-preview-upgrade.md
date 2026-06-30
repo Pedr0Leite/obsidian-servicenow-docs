@@ -14,12 +14,8 @@ breadcrumb: [Using Upgrade Center, Upgrade Center, Upgrade, Administer the Servi
 
 # Previewing an upgrade
 
-Use the [[uc-preview-module|Upgrade Preview module]] to have an insight about the experience of an upgrade prior to the actual upgrade. You can explore and preview upgrades to different ServiceNow release versions and see how your instance might be impacted with your current [[clone-configurations-tab|configurations]].
+Use the Upgrade Preview module to have an insight about the experience of an upgrade prior to the actual upgrade. You can explore and preview upgrades to different ServiceNow release versions and see how your instance might be impacted with your current configurations.
 
 -   [Preview predicted changes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-previewed-changes.md): Preview the changes that have been predicted to occur after an upgrade.
 -   [Upgrade Preview form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-upgrade-preview-form1.md): Alternate view of a previewed upgrade.
 
-## Related
-
-- [[uc-preview-module|Upgrade Preview module]]
-- [[clone-configurations-tab|Configurations]]

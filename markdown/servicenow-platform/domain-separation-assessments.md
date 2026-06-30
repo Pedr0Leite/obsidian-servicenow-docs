@@ -12,7 +12,7 @@ breadcrumb: [Assessments reference, Assessments, Assessments and Surveys, Explor
 
 # Domain separation and Assessments
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported for [[r_Assessments|Assessments]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Assessments. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -25,15 +25,10 @@ Sample use case: An admin must be able to make comments required when a record c
 
 For more information on support levels, see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
-**Parent Topic:**[[assessment-reference|Assessments reference]]
+**Parent Topic:**[Assessments reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessment-reference.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[assessment-reference|Assessments reference]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[r_Assessments|Assessments]]

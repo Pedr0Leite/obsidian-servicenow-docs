@@ -14,7 +14,7 @@ breadcrumb: [Resource assignments in Project Workspace, Resource planning with P
 
 # Move a resource assignment in Project Workspace
 
-Move the resource assignment to a new start and end dates to accommodate changes in task scheduling or [[r_AllocatingResources|resource allocation]]. Shift assignments to balance workloads across resources and avoid over-allocation.
+Move the resource assignment to a new start and end dates to accommodate changes in task scheduling or resource allocation. Shift assignments to balance workloads across resources and avoid over-allocation.
 
 ## Before you begin
 
@@ -24,12 +24,12 @@ Role required: resource\_user, resource\_manager
 
 -   When you move an assignment to a new start and end dates, the initial requested or approved efforts are retained for the latest duration.
 -   When an assignment is moved, the Ready for review state is retained and the assignment remains accessible to resource managers for work allocation.
--   You cannot [[move-ra-rmw|move a resource assignment]] if actuals efforts are entered for the work.
+-   You cannot move a resource assignment if actuals efforts are entered for the work.
 -   New assignment dates should be within the task duration dates.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  View the resource assignment pane by enabling the **Resource assignments** toggle button.
 
@@ -65,8 +65,3 @@ Role required: resource\_user, resource\_manager
 
 [Realign resource assignments with project dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/realign-resource-assignment-to-task.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]
-- [[move-ra-rmw|Move a resource assignment]]
-- [[project-workspace-landing-page|Project Workspace]]

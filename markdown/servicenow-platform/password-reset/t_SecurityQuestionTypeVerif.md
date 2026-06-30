@@ -14,7 +14,7 @@ breadcrumb: [Password Reset verifications, Configure your Password Reset process
 
 # Specify the number of required security questions
 
-When designing a Security Questions verification for [[password-reset-landing-page|Password Reset]], you can specify the number of questions to display when users enroll. You can also specify the number to display when a user is verifying identity while resetting the password.
+When designing a Security Questions verification for Password Reset, you can specify the number of questions to display when users enroll. You can also specify the number to display when a user is verifying identity while resetting the password.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ Number of security questions that are displayed on the Verify page while a user 
 
 [Add a custom question to the Security Questions verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_CreateQAVerificationQs.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

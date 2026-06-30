@@ -35,7 +35,7 @@ Keywords can be populated using static content or dynamic page variables and can
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Pages**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Pages**.
 
 2.  Select a page.
 
@@ -125,6 +125,3 @@ For more information about including human readable keywords in canonical URLs, 
 
 [Page navigation in Service Portal by URL]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

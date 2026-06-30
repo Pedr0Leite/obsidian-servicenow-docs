@@ -25,11 +25,11 @@ Roles required: si\_analyst, si\_manager, or sn\_si.basic
 
 ## Procedure
 
-1.  Log in to an instance where the [[now-assist-security-incident-landing|Now Assist for Security Incident Response]] application is installed.
+1.  Log in to an instance where the Now Assist for Security Incident Response application is installed.
 
 2.  In the legacy Core UI, navigate to **All** &gt; **Security Incident** &gt; **Incidents** and open a security incident that is assigned to you.
 
-3.  Alternatively, navigate to **All** &gt; **Security Incident** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** and open a security incident that is assigned to you.
+3.  Alternatively, navigate to **All** &gt; **Security Incident** &gt; **Security Incident Response Workspace** and open a security incident that is assigned to you.
 
 4.  Select the Now Assist \(\[Omitted image "ai-icon-now-assist.png"\] Alt text: Now Assist panel for AI agent icon.\) icon.
 
@@ -49,7 +49,7 @@ Description
 
 In the Now Assist panel, select **Generate resolution notes**.
 
- The closure notes generated in the panel are identical to those generated when you [[close-sir-incident-aiagent|close a security incident]] from a record.
+ The closure notes generated in the panel are identical to those generated when you close a security incident from a record.
 
  Closure notes for security incidents are created based on any actions taken for remediation and containment, in addition to other relevant details related to their closure.
 
@@ -85,9 +85,3 @@ In the Now Assist panel, select **Generate correlation insights**.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[close-sir-incident-aiagent|Close a security incident]]

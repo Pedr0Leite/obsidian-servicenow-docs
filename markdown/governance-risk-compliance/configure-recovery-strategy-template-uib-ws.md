@@ -38,7 +38,7 @@ Recovery strategy templates capture the implementation profile of a strategy \(e
 
 6.  On the **Task template groups** and **Task templates** related lists, add the groups and templates that should be applied with this recovery strategy.
 
-    The tasks from these groups and templates are created when the recovery strategy template is applied to a loss scenario. For field-level details, see [[recovery-strategy-template-form|Recovery strategy template form]].
+    The tasks from these groups and templates are created when the recovery strategy template is applied to a loss scenario. For field-level details, see [Recovery strategy template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/recovery-strategy-template-form.md).
 
 7.  Select **Save**.
 
@@ -52,9 +52,5 @@ The recovery strategy template is now available to plan templates and to ad-hoc 
 -   **[Recovery strategy template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/recovery-strategy-template-form.md)**  
 Use the Recovery strategy template form to define a reusable implementation profile that planners can apply to loss scenarios in business continuity plans.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[recovery-strategy-template-form|Recovery strategy template form]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]

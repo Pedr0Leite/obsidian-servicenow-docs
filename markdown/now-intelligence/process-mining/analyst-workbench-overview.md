@@ -23,9 +23,9 @@ The Process Mining workspace displays your projects, along with details, summari
 The Process Mining workspace includes the following features.
 
 -   **[Projects landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/landing-page.md)**  
-From the [[landing-page|projects landing page]] for [[process-mining|Process Mining]], you can access generated projects, business process insights, and Analyst workbench.
+From the projects landing page for Process Mining, you can access generated projects, business process insights, and Analyst workbench.
 -   **[Process details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-view-screen.md)**  
-The [[project-view-screen|process details page]] for Process Mining provides access to high level insights and opportunities in addition to the interactive visualized process map.
+The process details page for Process Mining provides access to high level insights and opportunities in addition to the interactive visualized process map.
 
 **Parent Topic:**[Exploring Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/explore-process-mining.md)
 
@@ -38,8 +38,3 @@ The [[project-view-screen|process details page]] for Process Mining provides acc
 
 [Evaluation projects]()
 
-## Related
-
-- [[landing-page|Projects landing page]]
-- [[process-mining|Process Mining]]
-- [[project-view-screen|Process details page]]

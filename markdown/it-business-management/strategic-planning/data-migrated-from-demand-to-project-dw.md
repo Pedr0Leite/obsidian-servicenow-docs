@@ -43,7 +43,7 @@ The following demand fields are migrated to a project:-   Description
 -   Assumptions
 -   Business Unit
 -   Department
--   Impacted [[c_BusinessUnits|Business Units]]
+-   Impacted Business Units
 -   Business Capabilities
 -   Priority
 -   Impact
@@ -124,7 +124,3 @@ If the multicurrency feature is active, the project financial fields are calcula
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_BusinessUnits|Business units]]

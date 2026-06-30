@@ -14,7 +14,7 @@ breadcrumb: [Reference, Healthcare and Life Sciences Service Management Core, He
 
 # Cryptographic Modules in Healthcare and Life Science Service Management Core
 
-[[hcls-core-app|Healthcare and Life Sciences Service Management Core]] contains the following cryptographic modules.
+Healthcare and Life Sciences Service Management Core contains the following cryptographic modules.
 
 ## sn\_hcls.clinical\_data
 
@@ -368,6 +368,3 @@ Cryptographic module: vm\_crypto\_module AES-256.
 
 **Parent Topic:**[Healthcare and Life Sciences Service Management Core reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-serv-mgmt-core-reference.md)
 
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

@@ -12,7 +12,7 @@ breadcrumb: [Integrating with Microsoft Outlook, Integrate, Customer Service Man
 
 # Integrate Customer Service Management with Microsoft Outlook
 
-[[c_CustomerServiceManagement|Customer Service Management]] provides an integration with Microsoft Outlook. This integration enables you to manage workflows such as creating and updating contacts and cases from within Microsoft Outlook.
+Customer Service Management provides an integration with Microsoft Outlook. This integration enables you to manage workflows such as creating and updating contacts and cases from within Microsoft Outlook.
 
 ## Before you begin
 
@@ -38,9 +38,5 @@ Role required: admin
 **Related topics**  
 
 
-[[use-microsoft-outlook-with-csm|Using Microsoft Outlook with CSM]]
+[Using Microsoft Outlook with CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-microsoft-outlook-with-csm.md)
 
-## Related
-
-- [[use-microsoft-outlook-with-csm|Using Microsoft Outlook with CSM]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

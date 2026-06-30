@@ -16,8 +16,5 @@ breadcrumb: [CI lookup rules, Explore, Configuration Compliance, Unified Securit
 
 The Duplicate CI Remediator for deduplication tasks is updated with the `sn_sec_cmn_src_ci.cmdb_ci` property.
 
-Whenever a deduplication task is used to update the configuration items \(CIs\), it also updates the [[cj-discovered-items|discovered items]] related to those CIs. Hence, the test results are updated with the CI. For details, see [CI changes for discovered items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/reapply-discovered-items-ci-changes-cc.md).
+Whenever a deduplication task is used to update the configuration items \(CIs\), it also updates the discovered items related to those CIs. Hence, the test results are updated with the CI. For details, see [CI changes for discovered items for Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/reapply-discovered-items-ci-changes-cc.md).
 
-## Related
-
-- [[cj-discovered-items|Discovered Items]]

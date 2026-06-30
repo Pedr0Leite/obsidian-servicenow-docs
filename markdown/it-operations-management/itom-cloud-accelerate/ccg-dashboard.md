@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Cloud Configuration Governance dashboard
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] is a tool used to manage the configuration of the cloud resources as per your organizational standards and established security standards. Use the dashboard to review the health score of the cloud, policy violation statistics, policy violation trend, remediations overview, and more.
+Cloud Configuration Governance is a tool used to manage the configuration of the cloud resources as per your organizational standards and established security standards. Use the dashboard to review the health score of the cloud, policy violation statistics, policy violation trend, remediations overview, and more.
 
 \[Omitted image "ccg-dashboard.gif"\] Alt text: Cloud Configuration Governance dashboard.
 
@@ -256,6 +256,3 @@ Trend of reporting violations over time.
 
 **Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

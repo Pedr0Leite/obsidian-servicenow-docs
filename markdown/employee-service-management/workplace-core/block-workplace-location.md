@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # Block a workplace location
 
-Block a workplace location for a specific period. The blocked workplace location is unavailable during the specified period for any type of reservation on the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] Reservation portal.
+Block a workplace location for a specific period. The blocked workplace location is unavailable during the specified period for any type of reservation on the Workplace Reservation Management Reservation portal.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can also block a location directly. Open the location and select the **Block
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Block location**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Block location**.
 
 2.  Select **New**.
 
@@ -98,7 +98,3 @@ The workplace location is blocked for the specified period. You can’t make any
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

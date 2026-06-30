@@ -19,17 +19,17 @@ Create assessments for the assigned testers of each test case in a test plan by 
 ## Before you begin
 
 -   [Create a test plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateATestPlan.md).
--   Add [[c_TestCases|test cases]] to the test plan.
+-   Add test cases to the test plan.
 -   [Assign testers from the Test Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_AssignTestersFromTheTestPlanForm.md).
 -   Role required: tm\_test\_manager or tm\_tester
 
 ## About this task
 
-If you are using [[c_GuidedTestExecution|guided test execution]], you can notify testers to start testing directly from the Test Plan form. The testers are notified through an email about their assigned assessments. Testers can find these assessments by navigating to **Self-Service** &gt; **My [[c_Tests|Tests]]** or **Self-Service** &gt; **My Assessments**.
+If you are using guided test execution, you can notify testers to start testing directly from the Test Plan form. The testers are notified through an email about their assigned assessments. Testers can find these assessments by navigating to **Self-Service** &gt; **My Tests** or **Self-Service** &gt; **My Assessments**.
 
 ## Procedure
 
-1.  Navigate to **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Open the test plan that you want to start executing.
 
@@ -48,9 +48,3 @@ Assessments for each tester are created and email is sent to each tester with th
 
 **Parent Topic:**[Guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_GuidedTestExecution.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_GuidedTestExecution|Guided test execution]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]

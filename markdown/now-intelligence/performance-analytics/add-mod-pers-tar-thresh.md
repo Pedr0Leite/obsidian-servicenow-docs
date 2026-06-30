@@ -26,7 +26,7 @@ You can either look up the personal targets or thresholds of a user or create a 
 
 ## Procedure
 
-1.  Navigate to **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Indicators** &gt; **Targets** or **Platform Analytics Administration** &gt; **Indicators** &gt; **Thresholds**.
+1.  Navigate to **Platform Analytics Administration** &gt; **Indicators** &gt; **Targets** or **Platform Analytics Administration** &gt; **Indicators** &gt; **Thresholds**.
 
 2.  To open an existing personal threshold or target to modify, follow these steps:
 
@@ -48,7 +48,7 @@ You can either look up the personal targets or thresholds of a user or create a 
 
     2.  In the target or threshold form that opens, specify the **Owner**.
 
-        The owner is the only person who will see this target or threshold in the indicator's [[kpi-details|KPI Details]] or [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+        The owner is the only person who will see this target or threshold in the indicator's KPI Details or Analytics Hub.
 
         For a threshold, instead of selecting a single owner, you can specify several users in a related list. All of these users will see this threshold in the KPI Details and Analytics Hub of the indicator.
 
@@ -67,8 +67,3 @@ You can either look up the personal targets or thresholds of a user or create a 
 
 **Parent Topic:**[Performance Analytics targets and thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-targets-thresholds.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

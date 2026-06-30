@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[password-reset-landing-page|Password Reset]]** &gt; **Enroll** and then click the **SMS Verification** tab.
+1.  Navigate to **All** &gt; **Password Reset** &gt; **Enroll** and then click the **SMS Verification** tab.
 
     If your organization requires you to enroll for the SMS verification method, then the tab is marked with an asterisk \(\*\).
 
@@ -32,7 +32,7 @@ Role required: none
 
 3.  Provide a meaningful name for each device, and if you want to add multiple devices, then repeat the process.
 
-4.  After you verify each device, select the **Authorized** [[check-box|check box]] for each device that you expect to use to change or reset your password.
+4.  After you verify each device, select the **Authorized** check box for each device that you expect to use to change or reset your password.
 
     **Note:** You can deauthorize a device at any time by clearing the **Authorized** check box.
 
@@ -46,7 +46,3 @@ Role required: none
     -   [Enroll for the Password Reset program using an authenticator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/authenticator-app-verification.md)
     -   [Enroll for the Password Reset program using emailed codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/enroll-email-verification.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]

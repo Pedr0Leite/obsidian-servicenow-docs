@@ -18,13 +18,13 @@ Customer access management uses different functional and granular roles to estab
 
 Functional and granular roles help provide authorized related parties access to the case, and provide additional contacts or additional consumers access to the sold product.
 
-Granular roles provide access to cases, sold product, and related entities. One or more granular roles can be bundled together as a functional role to perform a meaningful action. Linking multiple granular roles to a functional role enables you to build your own access [[gamification-components-rules|rules]] by applying the functional and granular roles for various [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) entities.
+Granular roles provide access to cases, sold product, and related entities. One or more granular roles can be bundled together as a functional role to perform a meaningful action. Linking multiple granular roles to a functional role enables you to build your own access rules by applying the functional and granular roles for various Customer Service Management \(CSM\) entities.
 
 A granular model helps to protect data by granting the required level of access to the relevant CSM entities. With this functionality, each role is associated with a set of privileges or responsibilities that determine your access to certain information. You can set granular policies that authorize individuals to do their jobs efficiently and effectively, which helps to improve the customer experience.
 
 ## Roles and descriptions
 
-Functional roles are a set of granular roles that are required to perform a function that requires access on multiple entities. The following table [[migration-lists|lists]] the functional roles for customer access management.
+Functional roles are a set of granular roles that are required to perform a function that requires access on multiple entities. The following table lists the functional roles for customer access management.
 
 <table id="table_cwg_hg2_rrb"><thead><tr><th>
 
@@ -52,7 +52,7 @@ Customer Service \[com.sn\_customerservice\]
 
 </td><td>
 
-This role provides access to add additional comments and attachments, accept or reject a solution, receive notifications on case updates, [[osp-close-case|close a case]], and update case tasks.
+This role provides access to add additional comments and attachments, accept or reject a solution, receive notifications on case updates, close a case, and update case tasks.
 
 </td><td>
 
@@ -100,7 +100,7 @@ Customer Service Install Base Management \[com.snc.install\_base\]
 
 </td><td>
 
-This role provides access to view sold product and associated [[install-base-item|install base items]], create cases, and access cases that are related to the sold product. Also, this role provides access to sold product related parties, affected install base items, and manage service catalog requests from the sold product.
+This role provides access to view sold product and associated install base items, create cases, and access cases that are related to the sold product. Also, this role provides access to sold product related parties, affected install base items, and manage service catalog requests from the sold product.
 
 </td><td>
 
@@ -140,7 +140,7 @@ Customer Service Install Base Management \[com.snc.install\_base\]
 
 </td><td>
 
-This role provides the contact access to view the install base and its associated [[sold-product|sold products]] when added as a related party. Additionally, it enables the contact to create and [[manage-cases|manage cases]] for the related install base records.​ Creation of case is only enabled if the contact and install base belong to the same account.
+This role provides the contact access to view the install base and its associated sold products when added as a related party. Additionally, it enables the contact to create and manage cases for the related install base records.​ Creation of case is only enabled if the contact and install base belong to the same account.
 
 </td><td>
 
@@ -482,15 +482,5 @@ None
 </table>**Related topics**  
 
 
-[[assign-granular-to-func-role-cam|Assign granular roles to a functional role]]
+[Assign granular roles to a functional role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assign-granular-to-func-role-cam.md)
 
-## Related
-
-- [[assign-granular-to-func-role-cam|Assign granular roles to a functional role]]
-- [[gamification-components-rules|Rules]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]
-- [[osp-close-case|Close a case]]
-- [[install-base-item|Install base items]]
-- [[sold-product|Sold products]]
-- [[manage-cases|Manage cases]]

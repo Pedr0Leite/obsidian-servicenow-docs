@@ -22,7 +22,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin
 
 ## Procedure
 
-1.  In [[cloud-insights-landing-page|Cloud Cost Management]], navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Credentials**.
+1.  In Cloud Cost Management, navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Credentials**.
 
 2.  Select **Google API credentials**.
 
@@ -47,7 +47,3 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin
 
 [Cloud credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CloudManagementCredentialsForm.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

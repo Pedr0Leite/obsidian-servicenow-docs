@@ -14,7 +14,7 @@ breadcrumb: [Manage Cloud Cost Management subscriptions, Using Cloud Cost Manage
 
 # Managed IT Resource types
 
-There are three IT Resource categories in ServiceNow [[cloud-insights-landing-page|Cloud Cost Management]] - Server, PaaS Resources, and IaaS Storage.
+There are three IT Resource categories in ServiceNow Cloud Cost Management - Server, PaaS Resources, and IaaS Storage.
 
 -   Server is any physical or virtual server that is represented as a configuration item \(CI\) in the CMDB tables listed in the following license resource categories and managed by the Cloud Cost Management application. Server includes virtual machines in AWS, Azure, or GCP.
 -   PaaS Resources are cloud-based platform services that are represented as a CI in the CMDB tables listed in the following license resource categories and managed by the Cloud Cost Management application. PaaS resources include databases.
@@ -82,6 +82,3 @@ To calculate cost, multiply each resource count by the applicable per-unit rate 
 
 **Parent Topic:**[Manage Cloud Cost Management subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/managing-ccm-subscriptions.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

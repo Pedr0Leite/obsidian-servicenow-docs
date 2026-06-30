@@ -14,7 +14,7 @@ breadcrumb: [Mobile Time Sheets, Time Card management, Project Portfolio Managem
 
 # Add a time card and log time through the Mobile Time Sheets application
 
-Create [[c_TimeCards|time cards]] to log time from your mobile application for the work you have done.
+Create time cards to log time from your mobile application for the work you have done.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: timecard\_user
 
 ## About this task
 
-The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md) determines the level at which time cards for the [[t_CreateAProjectTask|project tasks]] can be created. For example, at the project level, if a user is assigned to multiple tasks in a project, then the time spent on all the tasks is recorded under one time card only; and at the project task level, separate time cards are created corresponding to each planned task.
+The **Allow time card reporting on** field on the [project form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProject.md) determines the level at which time cards for the project tasks can be created. For example, at the project level, if a user is assigned to multiple tasks in a project, then the time spent on all the tasks is recorded under one time card only; and at the project task level, separate time cards are created corresponding to each planned task.
 
 ## Procedure
 
 1.  Log in to your instance using the Now Mobile application.
 
-2.  Open a time sheet from the **[[time-sheets|Time Sheets]]** tab.
+2.  Open a time sheet from the **Time Sheets** tab.
 
 3.  Tap the action icon.
 
@@ -100,8 +100,3 @@ Update hours in a time card for a particular day.
 
 **Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/timesheet-mobile.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[time-sheets|Time Sheets]]

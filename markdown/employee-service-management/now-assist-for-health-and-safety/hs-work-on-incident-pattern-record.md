@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.manager and sn\_ohs\_im.agent
 
 ## Procedure
 
-1.  Navigate to **Workspace** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspace** &gt; **Health and Safety Workspace**.
 
 2.  Select the **Incident pattern** tab.
 
@@ -36,7 +36,7 @@ Role required: sn\_ohs\_im.manager and sn\_ohs\_im.agent
 
         For more information on the fields of the **Details** tab, see [Incident pattern record details tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-record-details-tab.md).
 
-    2.  Create actions in the **[[health-safety-overview|Health and safety]] actions** tab based on the analysis.
+    2.  Create actions in the **Health and safety actions** tab based on the analysis.
 
         For more information, see [Health and Safety action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/hs-action-form.md).
 
@@ -49,7 +49,3 @@ Role required: sn\_ohs\_im.manager and sn\_ohs\_im.agent
 
 **Parent Topic:**[Incident pattern analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-incident-pattern-analysis.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]

@@ -15,7 +15,7 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Import and export content data
 
-Import content data from or export content data to the [[ham-landing-page|Hardware Asset Management]] content library service to support hardware normalization of asset [[c_Models|models]]. On-premise users can import or export data via a zip file using the Manage Hardware Library module.
+Import content data from or export content data to the Hardware Asset Management content library service to support hardware normalization of asset models. On-premise users can import or export data via a zip file using the Manage Hardware Library module.
 
 ## Before you begin
 
@@ -61,7 +61,3 @@ Role required:
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Models|Models]]

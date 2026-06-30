@@ -52,7 +52,7 @@ Action Label
 
 </td><td>
 
-The label of the call-to-action button on the [[configure-nba|Recommended Actions]] card.
+The label of the call-to-action button on the Recommended Actions card.
 
 </td></tr><tr><td>
 
@@ -98,9 +98,5 @@ A decision tree record and a start node are created.
 
 ## What to do next
 
-Configure a start node to [[configure-start-node-gdb|add initial set of questions or instructions to a decision tree]] in Decision Tree Builder.
+Configure a start node to [add initial set of questions or instructions to a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-start-node-gdb.md) in Decision Tree Builder.
 
-## Related
-
-- [[configure-start-node-gdb|Add questions or instructions to a decision tree]]
-- [[configure-nba|Recommended Actions]]

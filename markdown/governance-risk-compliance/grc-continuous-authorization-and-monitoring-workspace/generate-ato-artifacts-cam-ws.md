@@ -47,7 +47,7 @@ SSP, SAR, POA&amp;Ms, SAP, ATO Letter, and Executive Summary are reports that yo
 
 **Note:** You can generate SSP, SAR, POA&amp;Ms, SAP, ATO Letter, and Executive Summary reports in Microsoft Word where you can update the content in CAM Workspace. Whereas in classic UI, you can generate the SSP report in PDF format using **Generate Report\(s\)** in the Authorization package form.
 
-To configure the predefined CAM Microsoft Word template, you must navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** and set up the following administrative steps:
+To configure the predefined CAM Microsoft Word template, you must navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** and set up the following administrative steps:
 
 -   [Configuring ATO artifacts report templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-configure-word-based-template.md)
 -   [Components installed with Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/cam-components-installed.md)
@@ -57,7 +57,3 @@ From the Authorization package overview record page, generate Authority to Opera
 
 **Parent Topic:**[Continuous authorization and monitoring tasks in the CAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/cam-ws-continuous-auth-monitor.md)
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

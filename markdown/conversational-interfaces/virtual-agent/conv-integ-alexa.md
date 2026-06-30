@@ -14,7 +14,7 @@ breadcrumb: [Integrating Virtual Agent with Voice channels, Integrate VA with ot
 
 # Conversational Integration with Alexa
 
-Use the Conversational Integration with Alexa application to empower customers to engage with your business using their Alexa devices. The application connects a requester with a [[virtual-agent-landing-page|Virtual Agent]] using your company's Alexa account.
+Use the Conversational Integration with Alexa application to empower customers to engage with your business using their Alexa devices. The application connects a requester with a Virtual Agent using your company's Alexa account.
 
 ## Get started with Conversational Integration with Alexa
 
@@ -26,7 +26,7 @@ Select a tile to get started.
 
 <table id="table_ev3_ndm_v4b" class="nav-card"><tbody><tr><td>
 
-[Install\[Omitted image "bus-optimize-manage.svg"\] Alt text:[[install-alexa|Install Conversational Integration with Alexa]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-alexa.md)
+[Install\[Omitted image "bus-optimize-manage.svg"\] Alt text:Install Conversational Integration with Alexa.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/install-alexa.md)
 
 </td><td>
 
@@ -44,7 +44,3 @@ Install and set up the Conversational Integration with Alexa application to enab
 
 **Parent Topic:**[Integrating Virtual Agent with Voice channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-voice-apps.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[install-alexa|Install Conversational Integration with Alexa]]

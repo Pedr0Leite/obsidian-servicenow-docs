@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # GlassFish Server discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of GlassFish Server.
+Discovery creates or updates a CMDB record when it detects a running instance of GlassFish Server.
 
 By default, Discovery uses the following patterns to perform the discovery: **GlassFish Server** and **GlassFish WAR**.
 
@@ -50,6 +50,3 @@ The following data is collected in the GlassFish War \[cmdb\_ci\_appl\_glassfish
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

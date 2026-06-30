@@ -14,7 +14,7 @@ breadcrumb: [Configure, Sourcing and Procurement Operations, Finance and Supply 
 
 # Customize your top suppliers on Shopping Hub
 
-Personalize the list of suppliers to see on your [[shopping-hub-overview|Shopping Hub]] homepage. Update your list with the change in your preferences anytime.
+Personalize the list of suppliers to see on your Shopping Hub homepage. Update your list with the change in your preferences anytime.
 
 ## Before you begin
 
@@ -60,7 +60,7 @@ Role required: sn\_shop.shopper
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
 [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
@@ -74,10 +74,5 @@ Role required: sn\_shop.shopper
 
 [Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-[[my-purchases|My purchases on Shopping Hub]]
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[universal-request|Universal Request]]

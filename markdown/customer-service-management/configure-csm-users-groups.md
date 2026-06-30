@@ -22,7 +22,7 @@ Role required: import\_admin, user\_admin, and sn\_crm\_foundation\_admin
 
 Group information is used across most processes in the ServiceNow AI Platform. You can use it for assigning work to teams and requesting approvals.
 
-Any rule that is applied to a group is automatically assigned to group members; for example, roles and assignment [[gamification-components-rules|rules]].
+Any rule that is applied to a group is automatically assigned to group members; for example, roles and assignment rules.
 
 ## Procedure
 
@@ -34,6 +34,3 @@ Any rule that is applied to a group is automatically assigned to group members; 
     -   [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAGroup.md)
     -   [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md)
 
-## Related
-
-- [[gamification-components-rules|Rules]]

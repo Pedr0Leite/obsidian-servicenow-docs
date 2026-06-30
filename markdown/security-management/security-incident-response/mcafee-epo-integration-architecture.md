@@ -22,7 +22,7 @@ The following terms are used throughout the installation and configuration docum
 
 -   **ServiceNow AI Platform**
 
-    An enterprise ServiceNow product. The ServiceNow AI Platform is the base upon which individual components, such as [[sir-landing-page|Security Incident Response]] \(SIR\), IT Service Management, \(ITSM\), and other products are built.
+    An enterprise ServiceNow product. The ServiceNow AI Platform is the base upon which individual components, such as Security Incident Response \(SIR\), IT Service Management, \(ITSM\), and other products are built.
 
 -   **Security Incident Response \(SIR\)**
 
@@ -50,7 +50,7 @@ The following terms are used throughout the installation and configuration docum
 
 -   **MID server**
 
-    An application that facilitates communication and the movement of data between the ServiceNow AI Platform and external applications, [[data-sources|data sources]], and services.
+    An application that facilitates communication and the movement of data between the ServiceNow AI Platform and external applications, data sources, and services.
 
 -   **ServiceNow administrator \(admin\)**
 
@@ -58,7 +58,7 @@ The following terms are used throughout the installation and configuration docum
 
 -   **ServiceNow Security incident administrator \(sn\_si.admin\)**
 
-    A user with this role performs the configuration of the [[mcaffee-epo-overview-arch|McAfee ePO integration]] with the Security Incident Response \(SIR\) product in your ServiceNow AI Platform instance as required. A user with this role also assigns the security incident analyst role as required.
+    A user with this role performs the configuration of the McAfee ePO integration with the Security Incident Response \(SIR\) product in your ServiceNow AI Platform instance as required. A user with this role also assigns the security incident analyst role as required.
 
 -   **ServiceNow security incident analyst \(sn\_si.analyst\)**
 
@@ -67,7 +67,7 @@ The following terms are used throughout the installation and configuration docum
 
 ## System connection and data flow
 
-The following figure is an example of a customer environment. A ServiceNow AI Platform MID server is required so that your ServiceNow AI Platform instance can connect to a McAfee ePO server \(console\) via a ServiceNow extension plugin. After you are connected, you invoke capabilities from your ServiceNow AI Platform to initiate [[threat-intelligence-malware|malware]] scans, isolate host machines and restore them to your network, retrieve last scan results, and gather system details on your assets. When these capabilities return results from your assets that match your search criteria, data is pulled via the MID server into your ServiceNow AI Platform instance. Data is displayed on the related lists of a ServiceNow AI Platform Security Incident Response \(SIR\) security incident. The following figure illustrates the data flow for one group of endpoints managed by one McAfee ePO console.
+The following figure is an example of a customer environment. A ServiceNow AI Platform MID server is required so that your ServiceNow AI Platform instance can connect to a McAfee ePO server \(console\) via a ServiceNow extension plugin. After you are connected, you invoke capabilities from your ServiceNow AI Platform to initiate malware scans, isolate host machines and restore them to your network, retrieve last scan results, and gather system details on your assets. When these capabilities return results from your assets that match your search criteria, data is pulled via the MID server into your ServiceNow AI Platform instance. Data is displayed on the related lists of a ServiceNow AI Platform Security Incident Response \(SIR\) security incident. The following figure illustrates the data flow for one group of endpoints managed by one McAfee ePO console.
 
 \[Omitted image "mcafee-canvas-1.png"\] Alt text: Configuration one.
 
@@ -79,7 +79,7 @@ As shown in the following figure, this integration can support more than one McA
 
 This integration includes the following workflows. These workflows are pre-configured and are designed specifically for this integration. You can edit these workflows to meet the needs of your organization as required. For more general information about workflows and using the workflow editor, see [Getting started with workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/getting-started-workflows.md).
 
--   [[security-operations-landing-page|Security Operations]] McAfee EPO integration - Get Host Details
+-   Security Operations McAfee EPO integration - Get Host Details
 -   Security Operations McAfee EPO integration - Initiate Malware Scan
 -   Security Operations McAfee EPO integration - Isolate Host
 -   Security Operations McAfee EPO integration - List Threat Events
@@ -95,10 +95,3 @@ The integration requires that the MID server communicates via HTTPS protocol con
 
 **Next topic:**[Checklist for the McAfee ePO integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo_checklist.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[data-sources|Data Sources]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]
-- [[threat-intelligence-malware|Malware]]
-- [[security-operations-landing-page|Security Operations]]

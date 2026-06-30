@@ -21,7 +21,7 @@ To provide a better end-user experience, use the ShoppingHub configuration to cr
 When you enable Edit or Cancel configuration options, your shoppers can raise revision requests in a self-service way from Service Catalog or ShoppingHub.
 
 -   **[Enable a shopper to purchase on behalf of another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/config-shoppinghub-purchase-behalf.md)**  
-Configure the [[shopping-hub-overview|Shopping Hub]] to [[config-shoppinghub-purchase-behalf|enable a shopper to purchase on behalf of another user]].
+Configure the Shopping Hub to enable a shopper to purchase on behalf of another user.
 -   **[Purchase modification configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-modification-configuration.md)**  
 As an admin, you can configure the conditions that must be met for the purchase modification records to be available to the shopper for editing or canceling.
 -   **[Configure sourcing checkout details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/config-shoppinghub-table.md)**  
@@ -38,7 +38,3 @@ Configure the edit and cancel options to enable modifications to the purchases.
 
 [Enable user actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/config-shoppinghub-request-revisions.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[config-shoppinghub-purchase-behalf|Enable a shopper to purchase on behalf of another user]]

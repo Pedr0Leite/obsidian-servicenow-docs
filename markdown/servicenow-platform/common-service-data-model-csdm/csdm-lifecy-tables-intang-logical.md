@@ -20,7 +20,7 @@ List of intangible/logical tables.
 
 The intangible/logical life-cycle value pairs represent the overall life cycle of logical assets and CIs as related to their products. A logical or software asset includes items like applications, services, and licenses. The life cycle stage and life cycle stage status values of logical items are visible only in tables related to intangible/logical items in Asset Management and the CMDB.
 
-|Table [[label|label]] \(display name\)|Table name|
+|Table label \(display name\)|Table name|
 |----------------------------|----------|
 |Application Cluster|cmdb\_ci\_application\_cluster|
 |Batch Job|cmdb\_ci\_batch\_job|
@@ -99,6 +99,3 @@ The intangible/logical life-cycle value pairs represent the overall life cycle o
 
 **Parent Topic:**[Life cycle of intangible/logical entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-lifecycle-logical.md)
 
-## Related
-
-- [[label|Label]]

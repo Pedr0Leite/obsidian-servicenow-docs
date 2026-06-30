@@ -67,10 +67,7 @@ Create or modify timeline event configurations to control which events appear on
 
 [Category management in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

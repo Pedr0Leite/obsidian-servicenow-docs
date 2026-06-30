@@ -16,7 +16,7 @@ Customize an email compact header within the UI Builder to view information such
 
 ## Before you begin
 
-A duplicate variant must be configured by an administrator. If the duplicate variant isn’t configured, you can't enable the email compact header. For more information, see [[customize-email-interaction-experience|Customize the email interaction experience]].
+A duplicate variant must be configured by an administrator. If the duplicate variant isn’t configured, you can't enable the email compact header. For more information, see [Customize the email interaction experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-email-interaction-experience.md).
 
 Role required: admin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 For more information on UI Builder, see [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md).
 
-**Note:** By default, **Show Email Compact Header** is enabled for [[email-as-an-interaction|Email Interaction]] for CSM.
+**Note:** By default, **Show Email Compact Header** is enabled for Email Interaction for CSM.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 5.  Select **Editor**.
 
-6.  In the Content section, search and select **[[csm-config-ws-activity-stream|Activity Stream]] 1**.
+6.  In the Content section, search and select **Activity Stream 1**.
 
 7.  In the Activity Stream 1 panel, navigate to **Configure** &gt; **Display**
 
@@ -55,8 +55,3 @@ For more information on UI Builder, see [UI Builder](https://raw.githubuserconte
 
 You can view information such as the email subject, sender, and receiver in a compact format within the activity stream.
 
-## Related
-
-- [[customize-email-interaction-experience|Customize the email interaction experience]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -19,7 +19,7 @@ The Catalog Error \[sn\_spend\_intg\_catalog\_error\] staging table temporarily 
 |Field|Data type|Description|
 |-----|---------|-----------|
 |Manufacturer/publisher part number \(MPN\)|String|Manufacturer or publisher’s unique identifier for the product.|
-|Supplier part number|String|Unique identifier assigned by a [[supplier|supplier]] to a specific product or part that they provide.|
+|Supplier part number|String|Unique identifier assigned by a supplier to a specific product or part that they provide.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
 
@@ -98,6 +98,3 @@ The Catalog Error \[sn\_spend\_intg\_catalog\_error\] staging table temporarily 
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]

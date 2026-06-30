@@ -14,11 +14,11 @@ breadcrumb: [Working with Schedule Planning, Use, Workplace Central, Workplace S
 
 # Create a schedule plan
 
-[[create-schedule-plan-wfo-hr|Create a schedule plan]] to assign employees, spaces, and employee-space mappings for your projects.
+Create a schedule plan to assign employees, spaces, and employee-space mappings for your projects.
 
 ## Before you begin
 
-**Important:** The admin must set a value for the **sn\_wsd\_core.ALLOCATION\_TYPE** property to enable [[schedule-planning|schedule planning]].
+**Important:** The admin must set a value for the **sn\_wsd\_core.ALLOCATION\_TYPE** property to enable schedule planning.
 
 You can create schedule plans for projects that are assigned to you. Projects can be assigned to a user from the following fields:
 
@@ -32,9 +32,9 @@ Role required: sn\_wsd\_spcmgmt.project\_owner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]**.
+1.  Navigate to **All** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] by navigating to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
 2.  Select the **Schedule Planner** icon \(\[Omitted image "schedule-plan-icon.png"\] Alt text: Schedule Planner icon.\).
 
@@ -140,9 +140,3 @@ After a schedule plan is published, the selected users receive an email with det
 
 **Parent Topic:**[Working with Schedule Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-schedule-planning.md)
 
-## Related
-
-- [[create-schedule-plan-wfo-hr|Create a schedule plan]]
-- [[schedule-planning|Schedule Planning]]
-- [[workplace-central-feat|Workplace Central]]
-- [[employee-center-landing-page|Employee Center]]

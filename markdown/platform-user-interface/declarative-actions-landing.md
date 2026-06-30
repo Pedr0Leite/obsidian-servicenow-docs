@@ -12,7 +12,7 @@ breadcrumb: [Administer, Configurable Workspace UI, Configure UIs and portals, C
 
 # Customizing Configurable Workspace with declarative actions
 
-Engage with your Configurable Workspace [[form-configurable-workspace|forms]], fields, [[lists-configurable-workspace|lists]], and related list pages by adding custom actions.
+Engage with your Configurable Workspace forms, fields, lists, and related list pages by adding custom actions.
 
 Declarative actions enable work to flow on forms and lists throughout your configurable workspace experience. Use actions to add custom functionality that extends pages without taking ownership.
 
@@ -92,7 +92,7 @@ Related List Actions
 
 </td><td>
 
-Related list actions define actions that appear within the action bar at the top of [[c_RelatedLists|related lists]].
+Related list actions define actions that appear within the action bar at the top of related lists.
 
 </td></tr><tr><td>
 
@@ -120,9 +120,3 @@ Attachment actions define actions that appear within form actions.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_RelatedLists|Related lists]]

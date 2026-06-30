@@ -14,7 +14,7 @@ breadcrumb: [Using Work breakdown structure \(WBS\) - Legacy, Using Project Mana
 
 # Access the WBS as a related list
 
-You can view the WBS as a related list on both the Project and Project Task [[form-field-information-for-dw|forms]].
+You can view the WBS as a related list on both the Project and Project Task forms.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can view the full WBS list by navigating to a [[create-a-project-form|Project form]] and selecting the **Planning Console** related link. See [Planning console tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_PlanningConsoleTasks.md) for a list of the things you can do with the WBS on the planning console.
+You can view the full WBS list by navigating to a Project form and selecting the **Planning Console** related link. See [Planning console tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/r_PlanningConsoleTasks.md) for a list of the things you can do with the WBS on the planning console.
 
-You can also view the WBS as a related list on the Project or [[project-task-form|Project Task form]].
+You can also view the WBS as a related list on the Project or Project Task form.
 
 ## Procedure
 
@@ -46,8 +46,3 @@ You can also view the WBS as a related list on the Project or [[project-task-for
 
 [Using Work breakdown structure \(WBS\) - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_WorkBreakdownStructure.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[create-a-project-form|Project form]]
-- [[project-task-form|Project task form]]

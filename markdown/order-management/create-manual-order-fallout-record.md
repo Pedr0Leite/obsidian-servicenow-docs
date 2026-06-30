@@ -20,7 +20,7 @@ Role required: sn\_fallout\_mgmt.fallout\_manager
 
 ## About this task
 
-You can create manual records as needed basis so that you can raise awareness of an issue or condition that is preventing [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]. By creating a record manually, you can also assign it to a person for resolution.
+You can create manual records as needed basis so that you can raise awareness of an issue or condition that is preventing order fulfillment. By creating a record manually, you can also assign it to a person for resolution.
 
 ## Procedure
 
@@ -38,13 +38,13 @@ You can create manual records as needed basis so that you can raise awareness of
 
 7.  Select the **Order Tasks** tab.
 
-8.  In the [[field-descriptions-order-task-form|Order Tasks form]], select the order tasks that you want to review.
+8.  In the Order Tasks form, select the order tasks that you want to review.
 
 9.  When you finish updating the order task, or encounter issues preventing its closure, select the more options icon \[Omitted image "more-options.png"\] Alt text: and then select **Create Fallout**\).
 
-10. On the form, fill in the [[fields|fields]].
+10. On the form, fill in the fields.
 
-    For information about field descriptions, see the Create Fallout form fields section in [[fields-create-fallout-form|Field descriptions for Fallout Management]].
+    For information about field descriptions, see the Create Fallout form fields section in [Field descriptions for Fallout Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields-create-fallout-form.md).
 
 11. Select **Save**.
 
@@ -56,12 +56,12 @@ When you create a manual fallout record, or an automated one is generated, the f
 -   Its **State** field changes to On hold, with a comment on which logged-in user caused it to change.
 -   In the Activity section, a work order note indicates that the order task state has changed from its former state, usually In Progress, to On hold. A work order note with the message `A fallout record FOnnnn has been created` also appears.
 
-**Parent Topic:**[[fallout-management-overview|Managing order fallout]]
+**Parent Topic:**[Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-fallout-management|Fallout Management data model]]
+[Fallout Management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-fallout-management.md)
 
 [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 
@@ -69,11 +69,3 @@ When you create a manual fallout record, or an automated one is generated, the f
 
 [Create a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-flow.md)
 
-## Related
-
-- [[fields-create-fallout-form|Fallout form fields]]
-- [[fallout-management-overview|Managing order fallout]]
-- [[order-mgt-fallout-management|Fallout Management data model]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[field-descriptions-order-task-form|Order Tasks form]]
-- [[fields|Fields]]

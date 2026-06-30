@@ -16,7 +16,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Workday, Integratio
 
 Limitations to the data that is synchronized from Workday to ServiceNow.
 
--   Partial pull is not supported for Department and Location. It is only supported for [[c_HRProfileRecords|HR profile]] and Job Profile.
+-   Partial pull is not supported for Department and Location. It is only supported for HR profile and Job Profile.
 -   When an organization, a location, and a job profile is made inactive in Workday, it does not become inactive in ServiceNow. This is because the Department table, Location table, and Job profiles table in ServiceNow do not have the **Active** field to record the status information.
 -   The following fields are not mapped while synchronizing HR profiles:
     -   Under Employee Information: Leave status, Location type, Notice period, Probation end date, Probation period, Social Security number, and Business.
@@ -27,9 +27,5 @@ Limitations to the data that is synchronized from Workday to ServiceNow.
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] Integration with Workday]()
+[Components installed with HR Service Delivery Integration with Workday]()
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[hr-service-delivery|HR Service Delivery]]

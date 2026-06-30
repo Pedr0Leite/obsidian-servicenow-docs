@@ -14,7 +14,7 @@ breadcrumb: [Configure the Password Reset Windows Application to use a proxy ser
 
 # Configure a proxy server using client credentials method
 
-If you cannot configure an exception policy, you must configure all Windows clients that use the [[win-password-reset-overview|Password Reset Windows Application]] to pass valid credentials to the proxy server.
+If you cannot configure an exception policy, you must configure all Windows clients that use the Password Reset Windows Application to pass valid credentials to the proxy server.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: Windows system administrator
 If you choose not to use the method described in this topic, there are other methods to configure a proxy server:
 
 -   Configure registry keys. See [Configure registry keys on your proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-registry-password-reset.md).
--   [[win-proxy-exception-password-reset|Configure an exception policy on your proxy server]] to allow unauthenticated access to the **service-now.com** domain. See [Configure an exception policy on your proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-exception-password-reset.md).
+-   Configure an exception policy on your proxy server to allow unauthenticated access to the **service-now.com** domain. See [Configure an exception policy on your proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-proxy-exception-password-reset.md).
 
 ## Procedure
 
@@ -52,7 +52,3 @@ If you choose not to use the method described in this topic, there are other met
 
 **Parent Topic:**[Configure the Password Reset Windows Application to use a proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/win-config-proxy-server-password-reset.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[win-proxy-exception-password-reset|Configure an exception policy on your proxy server]]

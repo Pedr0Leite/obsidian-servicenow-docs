@@ -14,7 +14,7 @@ breadcrumb: [Install DEX Score, Configure DEX Score, Digital Experience Score, D
 
 # Load Digital Experience Score​ demo data
 
-Load the demo data for [[dexscr-digital-experience-score|Digital Experience Score​]] after installing the application.
+Load the demo data for Digital Experience Score​ after installing the application.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ After the scheduled job runs successfully, the demo data is loaded into the inst
 
 [Delete Digital Experience Score​ demo data]()
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

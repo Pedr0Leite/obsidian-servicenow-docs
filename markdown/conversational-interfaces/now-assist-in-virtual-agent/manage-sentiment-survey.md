@@ -28,7 +28,7 @@ Response feedback is available across all chat experiences except for Now Assist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[assistant-designer|Assistant Designer]]** &gt; **Assistants** tab.
+1.  Navigate to **All** &gt; **Assistant Designer** &gt; **Assistants** tab.
 
 2.  Edit an assistant and select the **Settings** tab.
 
@@ -47,6 +47,4 @@ Response feedback is available across all chat experiences except for Now Assist
     -   Edit or delete an option using the pencil or trash icon.
     The response feedback preview is dynamic, and all responses are reflected in the preview.
 
-## Related
 
-- [[assistant-designer|Assistant Designer]]

@@ -14,9 +14,9 @@ breadcrumb: [Analytics &amp; Reporting Solutions, Reference, Advanced Work Assig
 
 # Operations dashboard
 
-Enable managers to monitor [[awa-work-items|work items]] across all [[awa-service-channels|service channels]] so that their agents can better support customer needs.
+Enable managers to monitor work items across all service channels so that their agents can better support customer needs.
 
-This dashboard is available in the [[awa-application-landing-page|Advanced Work Assignment]] content pack. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-content-pack.md).
+This dashboard is available in the Advanced Work Assignment content pack. For information on activating the content pack, see [Platform Analytics Solutions for Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-content-pack.md).
 
 \[Omitted image "awa-operations-dashboard-update.png"\] Alt text: The dashboard displays indicators and reports to track agent interactions with customers.
 
@@ -114,8 +114,3 @@ For more information on analyzing data with breakdowns, see [Using breakdowns on
 |Abandoned Work Items - Last Hour|Single Score\[Omitted image "single-score.svg"\] Alt text: Single score report|Number of interaction work items that agents have abandoned in the past hour.|
 |Average Wait Time - Last Hour|Single Score\[Omitted image "single-score.svg"\] Alt text: Single score report|Average amount of time that customers have spent waiting for an agent response in the past hour.|
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-service-channels|Service channels]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -14,18 +14,18 @@ breadcrumb: [Metric types and assessable records, Create an assessment metric fo
 
 An assessable record links a source record you want to evaluate, such as the company record for Amazon or the user record for a sales representative, to a metric type, such as vendors or employees.
 
-You use [[r_Assessments|assessments]] to evaluate the assessable record. The system generates assessable records from the source records that match the table and conditions set on the Assessment Metric Type form. You evaluate the assessable records with metric categories and metrics, which define traits and values to assess. For metric types with the **On demand** schedule type, you can [[t_GenOnDemandAssessOneAssessRec|generate on-demand assessments]] from the Assessable Record form. This method of [[c_AssessmentGeneration|assessment generation]] makes it easy to create and preview short questionnaires or to quickly obtain [[r_AssessmentResults|assessment results]] for specific assessable records.
+You use assessments to evaluate the assessable record. The system generates assessable records from the source records that match the table and conditions set on the Assessment Metric Type form. You evaluate the assessable records with metric categories and metrics, which define traits and values to assess. For metric types with the **On demand** schedule type, you can [generate on-demand assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenOnDemandAssessOneAssessRec.md) from the Assessable Record form. This method of assessment generation makes it easy to create and preview short questionnaires or to quickly obtain assessment results for specific assessable records.
 
 You can set up an assessment description that includes information from multiple fields on an assessable record and is displayed on multiple lines. This provides the user who is taking the assessment with a more detailed and understandable description of the information being requested on the assessment questionnaire. Create a multi-line description using table titles, which can be defined to use one or more fields from the selected table.
 
--   **[[t_ViewAnAssessableRecord|View an assessable record]]**  
+-   **[View an assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessableRecord.md)**  
 View the Assessable Record form to edit preferences and perform various actions.
--   **[[t_EnforceACondition|Enforce a condition to delete an assessable record]]**  
+-   **[Enforce a condition to delete an assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EnforceACondition.md)**  
 By default, the system does not delete assessable records, even if you change the table or conditions for the type and the existing assessable records no longer match.
--   **[[t_DeleteAssessableRecord|Delete an assessable record]]**  
+-   **[Delete an assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_DeleteAssessableRecord.md)**  
 When you delete an assessable record, the system deletes any stakeholders for the record.
 
-**Parent Topic:**[[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
+**Parent Topic:**[Metric types and assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md)
 
 **Related topics**  
 
@@ -34,13 +34,3 @@ When you delete an assessable record, the system deletes any stakeholders for th
 
 [View an assessable record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessableRecord.md)
 
-## Related
-
-- [[t_GenOnDemandAssessOneAssessRec|Generate an on-demand assessment for one assessable record]]
-- [[t_ViewAnAssessableRecord|View an assessable record]]
-- [[t_EnforceACondition|Enforce a condition to delete an assessable record]]
-- [[t_DeleteAssessableRecord|Delete an assessable record]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[r_AssessmentResults|Assessment results]]

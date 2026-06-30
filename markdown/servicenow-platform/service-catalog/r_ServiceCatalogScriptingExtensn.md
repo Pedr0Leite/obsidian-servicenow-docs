@@ -14,20 +14,16 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Create scripts
 
-[[service-catalog|Service Catalog]] enables you to use certain scripts.
+Service Catalog enables you to use certain scripts.
 
 Some functions are available, specifically for Service Catalog:
 
 -   Client-side scripting allows catalog designers to use the same functionality available on other forms.
 -   The Service Catalog Script API makes catalog ordering easier from inside business rules.
--   Scriptable Assignment of [[c_ExecutionPlans|Execution Plans]] allows selection of an execution plan at the time of ordering, based on scripted conditions.
+-   Scriptable Assignment of Execution Plans allows selection of an execution plan at the time of ordering, based on scripted conditions.
 
 -   **[Create a custom cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreatingACustomShoppingCart.md)**  
 Administrators with a knowledge of Jelly can customize the look and feel of service catalog carts, either globally or for specific catalog items, using the UI macro capability.
 
 **Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogCustomization.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ExecutionPlans|Execution Plans]]

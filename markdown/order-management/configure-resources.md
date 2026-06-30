@@ -17,11 +17,7 @@ Territory managers and members to the territory are added with their appropriate
 **Related topics**  
 
 
-[[use-sales-territory-management|Using Sales Territory Management​]]
+[Using Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-sales-territory-management.md)
 
-[[explore-sales-territory-management|Sales Territory Management​]]
+[Sales Territory Management​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-sales-territory-management.md)
 
-## Related
-
-- [[use-sales-territory-management|Using Sales Territory Management​]]
-- [[explore-sales-territory-management|Sales Territory Management​]]

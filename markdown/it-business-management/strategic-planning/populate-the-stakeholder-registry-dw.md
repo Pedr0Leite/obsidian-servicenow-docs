@@ -14,7 +14,7 @@ breadcrumb: [Configure, Next Experience for Demand Management in Strategic Plann
 
 # Populate the stakeholder registry for demands
 
-Add users to the stakeholder registry so Next Experience for [[c_DemandManagement|Demand Management]] can automatically populate the stakeholder list when someone creates a demand.
+Add users to the stakeholder registry so Next Experience for Demand Management can automatically populate the stakeholder list when someone creates a demand.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: pps\_admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]

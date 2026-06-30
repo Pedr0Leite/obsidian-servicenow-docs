@@ -18,9 +18,9 @@ Configure Data Collection for SPM.
 
 You do not need to assign Group Types to configure Data Collection for SPM, but you do need to enter manual data points.
 
-For the Manual Indicators, you must add a new data point every month. For example, given the fixed nature of the [[impact-landing-page|Impact]] VM - Legacy SPM Systems Annual Run-Rate indicator, you only need to enter this data point once.
+For the Manual Indicators, you must add a new data point every month. For example, given the fixed nature of the Impact VM - Legacy SPM Systems Annual Run-Rate indicator, you only need to enter this data point once.
 
-**Important:** If you do not have full access to Performance/Platform [[io-analytics|Analytics]] through a Pro or Enterprise subscription, you are required to enter this data point every month
+**Important:** If you do not have full access to Performance/Platform Analytics through a Pro or Enterprise subscription, you are required to enter this data point every month
 
 Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
@@ -32,7 +32,4 @@ Role required: admin, pa\_power\_user, pa\_admin, or pa\_data\_collector
 
     \[Omitted image "dct\_config\_spm.png"\] Alt text: Example with Jul 2024 cell selected with an Indicator score value of 5,000.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[io-analytics|Analytics]]

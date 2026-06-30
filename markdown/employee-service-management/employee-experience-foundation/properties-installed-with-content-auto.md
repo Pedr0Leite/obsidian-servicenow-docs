@@ -36,7 +36,7 @@ Usage
 
 </th></tr></thead><tbody><tr><td>
 
-Allow Ownership for [[ecpro-audience|Audiences]] \(sn\_cd.activate\_audience\_delegation\_controls\)
+Allow Ownership for Audiences \(sn\_cd.activate\_audience\_delegation\_controls\)
 
 </td><td>
 
@@ -164,7 +164,7 @@ The number of seconds to stagger events to process pending content by \(sn\_ca.c
 
 </td><td>
 
-The number of seconds between each time the Content Experiences: Add Non-Portal Campaign Content scheduled job runs to try to send non-[[ec-streamline-content|portal content]].Default value: 3 seconds
+The number of seconds between each time the Content Experiences: Add Non-Portal Campaign Content scheduled job runs to try to send non-portal content.Default value: 3 seconds
 
 </td></tr></tbody>
 </table>|Note|
@@ -435,7 +435,7 @@ Service Portal URL suffix you want to use for portal previews \(sn\_cd.preview.p
 
 </td><td>
 
-The URL suffix of the service portal or [[employee-center-landing-page|Employee Center]] \(EC\) your company uses for portal previews.You can change this system property when you want to preview your content over different portals.
+The URL suffix of the service portal or Employee Center \(EC\) your company uses for portal previews.You can change this system property when you want to preview your content over different portals.
 
  Default value: esc
 
@@ -485,8 +485,3 @@ The URL suffix of the service portal or [[employee-center-landing-page|Employee 
 
 [To-do content form]()
 
-## Related
-
-- [[ecpro-audience|Audiences]]
-- [[ec-streamline-content|Portal content]]
-- [[employee-center-landing-page|Employee Center]]

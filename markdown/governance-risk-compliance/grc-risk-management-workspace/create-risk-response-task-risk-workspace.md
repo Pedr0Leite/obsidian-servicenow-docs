@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Create a risk response task in the Risk Workspace
 
-Create a [[risk-response|risk response]] task to define plan of actions, assign responsibilities, set priorities, and establish deadlines to ensure effective management of the assessed risks.
+Create a risk response task to define plan of actions, assign responsibilities, set priorities, and establish deadlines to ensure effective management of the assessed risks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_risk\_advanced.ara\_assessor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the task \[Omitted image "task-icon.png"\] Alt text: Task icon. icon.
 
@@ -48,7 +48,3 @@ Create multiple strategies with various action items for each risk response task
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-response|risk response]]
-- [[risk-workspace|risk workspace]]

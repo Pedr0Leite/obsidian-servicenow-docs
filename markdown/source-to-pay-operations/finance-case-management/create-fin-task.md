@@ -38,9 +38,9 @@ Role required: sn\_fin\_ops.admin, sn\_fin\_ops.specialist
 
 6.  Select **Submit**.
 
-    The Create New Finance [[slo-task-form|Task form]] opens in a new tab in the Finance Operations Workspace.
+    The Create New Finance Task form opens in a new tab in the Finance Operations Workspace.
 
-    **Note:** If you have access to [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and if you select a task type related to [[source-to-pay-operations-overview|Source-to-Pay operations]], the new form opens in a new browser tab in the Source-to-Pay Workspace.
+    **Note:** If you have access to Source-to-Pay Workspace and if you select a task type related to Source-to-Pay operations, the new form opens in a new browser tab in the Source-to-Pay Workspace.
 
 7.  On the Create New Finance Task form, fill in the fields.
 
@@ -51,8 +51,3 @@ Role required: sn\_fin\_ops.admin, sn\_fin\_ops.specialist
 
 **Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt-workspace.md)
 
-## Related
-
-- [[slo-task-form|Task form]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

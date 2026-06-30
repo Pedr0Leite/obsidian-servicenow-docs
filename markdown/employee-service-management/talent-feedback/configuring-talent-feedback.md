@@ -14,11 +14,11 @@ breadcrumb: [Talent Feedback, Growth Experiences, HR Service Delivery, Employee 
 
 # Configuring Talent Feedback
 
-Set up [[talent-feedback-landing|Talent Feedback]] to be able to use it along with Talent Development.
+Set up Talent Feedback to be able to use it along with Talent Development.
 
 ## Install Talent Feedback
 
-You can install the Talent Feedback application if you have the admin role. Talent Feedback is also installed along with Talent Development and [[employee-center-pro-landing|Employee Center Pro]].
+You can install the Talent Feedback application if you have the admin role. Talent Feedback is also installed along with Talent Development and Employee Center Pro.
 
 ### Before you begin
 
@@ -61,7 +61,4 @@ For more information, see [Components installed with Talent Feedback](https://ra
 
 6.  Select **Install**.
 
-## Related
 
-- [[talent-feedback-landing|Talent Feedback]]
-- [[employee-center-pro-landing|Employee Center Pro]]

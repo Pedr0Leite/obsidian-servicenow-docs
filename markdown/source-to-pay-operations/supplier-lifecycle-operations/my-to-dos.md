@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Viewing supplier contact tasks from the Supplier Collaboration Portal
 
-View the tasks that are assigned to you and other [[supplier|supplier]] contacts.
+View the tasks that are assigned to you and other supplier contacts.
 
 Tasks are of the following types:
 
@@ -31,7 +31,7 @@ Tasks are of the following types:
 
 The My To-dos page lists all the tasks that are assigned to the logged-in user.
 
-To open the My To-dos page, do one of the following on the [[supplier-central|Supplier Collaboration Portal]] home page:
+To open the My To-dos page, do one of the following on the Supplier Collaboration Portal home page:
 
 -   In the Supplier Collaboration Portal header, select **My Tasks**.
 -   \(If you are a primary contact\) In the Supplier Collaboration Portal header, select **Tasks** and then select **My Tasks.**
@@ -50,7 +50,7 @@ Selecting a to-do displays the following tabs in the To-dos summary section:
 
     **Note:** The information displayed on this tab varies depending on the task type.
 
--   **Activity:** Displays a chronological record of the updates made to the to-do since it was created. To add your comments to the [[activity-stream|activity stream]], select **Post**. Click the Add attachments icon \(\[Omitted image "attachments-icon.png"\] Alt text: Add attachments icon.\) to add attachments, such as documents and image files, to the to-do.
+-   **Activity:** Displays a chronological record of the updates made to the to-do since it was created. To add your comments to the activity stream, select **Post**. Click the Add attachments icon \(\[Omitted image "attachments-icon.png"\] Alt text: Add attachments icon.\) to add attachments, such as documents and image files, to the to-do.
 
 ## Viewing all the tasks
 
@@ -58,7 +58,7 @@ The Supplier Task List page displays both the tasks assigned to you and the task
 
 To open the Supplier Task List page, in the Supplier Collaboration Portal header, select **Tasks** and then select **All Tasks**.
 
-**Note:** The **All Tasks** option is available only to the primary [[supplier-contact|supplier contact]] and the supplier administrator.
+**Note:** The **All Tasks** option is available only to the primary supplier contact and the supplier administrator.
 
 \[Omitted image "supp-task-list-page.png"\] Alt text: Supplier Task List page.
 
@@ -101,16 +101,9 @@ Review the tasks that are assigned to you and approve or reject them.
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Approve or reject a task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/approve-reject-task.md)
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[activity-stream|Activity stream]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

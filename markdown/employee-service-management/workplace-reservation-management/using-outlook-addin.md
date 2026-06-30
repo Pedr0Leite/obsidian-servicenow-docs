@@ -14,11 +14,7 @@ breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Emplo
 
 # Using Workplace Reservations for Microsoft Outlook Add-in
 
-Make reservations in Microsoft Outlook using the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] manifest add-in file.
+Make reservations in Microsoft Outlook using the Workplace Reservation Management manifest add-in file.
 
-Employees can create and edit workplace reservations, delegate reservations on behalf of a team member, and add or remove [[workplace-services|workplace services]].
+Employees can create and edit workplace reservations, delegate reservations on behalf of a team member, and add or remove workplace services.
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-services|Workplace Services]]

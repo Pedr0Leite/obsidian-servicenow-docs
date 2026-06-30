@@ -24,9 +24,9 @@ When an agent proposes a solution, buttons to accept or reject it appear in the 
 
 ## Procedure
 
-1.  [[log-in-to-consumer-portal|Log in to the Consumer Portal]].
+1.  Log in to the Consumer Portal.
 
-2.  Navigate to **Requests** &gt; **View submitted requests** &gt; **[[osp-view-cases|View cases]] and tasks** in the portal header to view a list of cases.
+2.  Navigate to **Requests** &gt; **View submitted requests** &gt; **View cases and tasks** in the portal header to view a list of cases.
 
 3.  Select **Action Needed**.
 
@@ -52,8 +52,3 @@ Rejects the solution proposed by the agent after entering the reason for rejecti
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[log-in-to-consumer-portal|Log in to the Consumer Portal]]
-- [[osp-view-cases|View cases]]

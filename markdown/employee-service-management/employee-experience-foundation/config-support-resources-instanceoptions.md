@@ -14,7 +14,7 @@ breadcrumb: [Customize Employee Center Pro Kiosk widgets, Employee Center Pro Ki
 
 # Modify the Support resources widget display
 
-The widget displays the support resources for the [[deskless-kiosk-overview|Employee Center Pro Kiosk]] user. You can configure the instance options based on your display preferences.
+The widget displays the support resources for the Employee Center Pro Kiosk user. You can configure the instance options based on your display preferences.
 
 ## Before you begin
 
@@ -119,6 +119,3 @@ Opt in to show the widget with empty state. Default: Active. You can uncheck thi
 
 [Configure Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-config.md)
 
-## Related
-
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

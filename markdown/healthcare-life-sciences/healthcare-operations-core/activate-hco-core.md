@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare Operations Core, Healthcare Operations, Healt
 
 # Install Healthcare Operations Core
 
-You can install the [[hcls-cto-app|Healthcare Operations Core]] application \[sn\_hco\] if you have the admin role. The application includes demo data for Healthcare Operations Core and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Healthcare Operations Core application \[sn\_hco\] if you have the admin role. The application includes demo data for Healthcare Operations Core and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The following items are installed with [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]:
+The following items are installed with Healthcare and Life Sciences Service Management Core:
 
 -   Roles
 -   Tables
@@ -46,7 +46,4 @@ For more information, see [Components installed with Healthcare Operations Core]
 
 4.  Select **Install**.
 
-## Related
 
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

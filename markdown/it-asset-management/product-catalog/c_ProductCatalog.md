@@ -14,15 +14,15 @@ breadcrumb: [IT Asset Management]
 
 # Product Catalog
 
-The product catalog is a set of information about individual [[c_Models|models]]. Models are specific versions or various configurations of an asset. Asset managers use the product catalog as a centralized repository for model information.
+The product catalog is a set of information about individual models. Models are specific versions or various configurations of an asset. Asset managers use the product catalog as a centralized repository for model information.
 
-A detailed and well-maintained product catalog can coordinate with service catalog, asset, [[c_Procurement|procurement]], request, contract, and vendor information.
+A detailed and well-maintained product catalog can coordinate with service catalog, asset, procurement, request, contract, and vendor information.
 
-Models published to the product catalog are automatically published to the [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog.md). The service catalog includes information about goods \(models\) and services. If the model is available from multiple vendors, a model can be listed more than once. Models are included with the [[am-landing-page|Asset Management]] application.
+Models published to the product catalog are automatically published to the [Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog.md). The service catalog includes information about goods \(models\) and services. If the model is available from multiple vendors, a model can be listed more than once. Models are included with the Asset Management application.
 
 Keep the following in mind when working with the product catalog.
 
--   A product catalog item can be linked to multiple [[c_ManageVendorCatalogItems|vendor catalog items]] or to a single model.
+-   A product catalog item can be linked to multiple vendor catalog items or to a single model.
 -   A model can only have one product catalog item.
 -   A vendor catalog item can only have a single product catalog item.
 
@@ -33,25 +33,16 @@ Models are specific versions or various configurations of an asset. Models are u
 -   **[Vendor catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManageVendorCatalogItems.md)**  
 The vendor catalog is a list of goods available from different vendors.
 -   **[Product catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManagingProductCatalogItems.md)**  
-[[c_ManagingProductCatalogItems|Product catalog items]] are hardware and software that you can track and offer in the service catalog.
+Product catalog items are hardware and software that you can track and offer in the service catalog.
 -   **[Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ModelCategories.md)**  
-[[model-hierarchy|Model categories]] associate CI classes with asset classes. Model categories are part of the Product Catalog application.
+Model categories associate CI classes with asset classes. Model categories are part of the Product Catalog application.
 -   **[Domain separation and Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/domain-separation-product-catalog.md)**  
 Domain separation is supported in the Product Catalog. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
 **Related topics**  
 
 
 [Asset and CI management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/c_ManagingAssets.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]
-- [[am-landing-page|Asset Management]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]
-- [[c_ManagingProductCatalogItems|Product catalog items]]
-- [[model-hierarchy|Model categories]]

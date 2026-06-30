@@ -12,7 +12,7 @@ breadcrumb: [Navigation bar, Mobile app components, Building mobile apps, Mobile
 
 # General guidelines for a navigation bar
 
-When creating a [[sg-mobile-tab-bar|navigation bar]], keep these general guidelines in mind for usability and a good user experience.
+When creating a navigation bar, keep these general guidelines in mind for usability and a good user experience.
 
 -   **Number of tabs**
     -   The navigation bar displays up to five tabs. When there are more than five tabs an overflow tab, known as the more tab, \(\[Omitted image "more-icon.png"\] Alt text: More icon.\) is added.
@@ -22,7 +22,7 @@ When creating a [[sg-mobile-tab-bar|navigation bar]], keep these general guideli
     -   Rather than removing the Setting and Notification tabs, consider changing the order in which they appear in the navigation bar.
     -   The Settings, Notifications, and Saved tabs navigate to specific pages, so only one of each tab is required. You can use multiple screen and launcher screen tabs, however it's suggested that you use no more than five tabs.
 -   **Display specific tabs to specified users**
-    -   Apply user criteria permissions, so users only view tabs relevant to their work. For more information, see [[user-criteria-permissions|User criteria permissions in mobile apps]].
+    -   Apply user criteria permissions, so users only view tabs relevant to their work. For more information, see [User criteria permissions in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-permissions.md).
     -   You should have the Settings and Navigation tabs available to users.
 -   **Tab names**
     -   Give your navigation tabs a descriptive name that provides context. Avoid generic names like Home or Apps.
@@ -39,7 +39,4 @@ When creating a [[sg-mobile-tab-bar|navigation bar]], keep these general guideli
 
     The order of the tabs should be listed in the level of importance. This order varies for left-to-right languages and right-to-left languages.
 
-## Related
 
-- [[user-criteria-permissions|User criteria permissions in mobile apps]]
-- [[sg-mobile-tab-bar|Navigation bar]]

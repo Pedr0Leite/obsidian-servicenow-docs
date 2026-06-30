@@ -14,7 +14,7 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Generate and modify resolution steps in LEAP
 
-Learn how to generate, edit, and track AI-generated resolution steps for [[automation-opportunities|automation opportunities]] in LEAP.
+Learn how to generate, edit, and track AI-generated resolution steps for automation opportunities in LEAP.
 
 ## About this task
 
@@ -60,6 +60,3 @@ Role required: LEAP admin
 
 ## Result
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

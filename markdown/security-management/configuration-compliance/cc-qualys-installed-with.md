@@ -14,7 +14,7 @@ breadcrumb: [Configure PCRS, Qualys, Integrate with other applications, Configur
 
 # Components installed with the Qualys Integration for Security Operations
 
-The following roles, scheduled jobs, and tables are installed with the Qualys Integration for [[security-operations-landing-page|Security Operations]].
+The following roles, scheduled jobs, and tables are installed with the Qualys Integration for Security Operations.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -23,7 +23,7 @@ The following roles, scheduled jobs, and tables are installed with the Qualys In
 Filter the Applications Files table so that only the roles, scheduled jobs, and tables that are installed with an application are displayed. The application you want to view these components for should be installed so that its files are loaded onto the instance and into the metadata table. Follow these steps to view filtered lists from the Applications Files table.
 
 1.  In the filter navigator, enter **sys\_metadata.list** to navigate to the metadata table.
-2.  Select the condition builder \(filter icon\), and select, **Application** &gt; **is** followed by the name of your application. For example, **Application** &gt; **is** &gt; **[[vuln-landing-page|Vulnerability Response]]**.
+2.  Select the condition builder \(filter icon\), and select, **Application** &gt; **is** followed by the name of your application. For example, **Application** &gt; **is** &gt; **Vulnerability Response**.
 3.  In the condition builder, to add a second filter, select **AND**, then select, **Class** &gt; **is a** and choose one of the following classes from the list: **Role**, **Scheduled job**, or **Table**.
 4.  Select **Run**.
 
@@ -73,7 +73,7 @@ sn\_vul\_qualys.admin
 
 </td><td>
 
-Administrator forQualys Vulnerability Integration. For example, you can modify integration start dates and perform some advanced [[qradar-ibm-intg-settings|configuration settings]].
+Administrator forQualys Vulnerability Integration. For example, you can modify integration start dates and perform some advanced configuration settings.
 
 </td><td>
 
@@ -159,7 +159,7 @@ The output of this integration is policy host IDs.
 
 **Note:**
 
--   This scheduled job appears only when [[vr-config-compliance-landing|Configuration Compliance]] is installed.
+-   This scheduled job appears only when Configuration Compliance is installed.
 -   Configure the gateway\_url and pcrs\_page\_size integration instance parameters before running this integration.
 
 These two integrations will be inactive OOB. If you activate either one of these integrations, the PC Results integrations will get deactivated. These two integrations are added based on the new streaming APIs from Qualys.
@@ -227,7 +227,7 @@ Policy Host Idsn\_vul\_qualys\_policy\_host\_id
 
 </td><td>
 
-Table storing the [[mapping-logrhythm|mapping]] between the Policy and the host for which this policy was scanned. This table is used in the new Qualys PCRS integration.**Note:** This table is appears only when Configuration Compliance is installed.
+Table storing the mapping between the Policy and the host for which this policy was scanned. This table is used in the new Qualys PCRS integration.**Note:** This table is appears only when Configuration Compliance is installed.
 
 </td></tr><tr><td>
 
@@ -247,11 +247,3 @@ Table extending the import set row. Field map transformation is skipped and the 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[qradar-ibm-intg-settings|Configuration settings]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[mapping-logrhythm|Mapping]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # View assessment results
 
-[[view-assessment-results-demand-ppw|View assessment results]] for a demand to evaluate its feasibility, priority, and alignment with organizational objectives. Assessment results provide demand managers with the insights needed to make informed decisions on whether to approve, defer, or reject a demand.
+View assessment results for a demand to evaluate its feasibility, priority, and alignment with organizational objectives. Assessment results provide demand managers with the insights needed to make informed decisions on whether to approve, defer, or reject a demand.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_demand\_manager
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/access-demand-workspace.md).
 
@@ -34,7 +34,4 @@ Role required: it\_demand\_manager
 
 4.  Select an assessment result record to view the details.
 
-## Related
 
-- [[view-assessment-results-demand-ppw|View assessment results]]
-- [[c_DemandManagement|Demand Management]]

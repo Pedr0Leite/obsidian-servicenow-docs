@@ -14,10 +14,10 @@ breadcrumb: [Data collected by ITOM Visibility, ITOM Visibility reference, ITOM 
 
 # Software discovery
 
-[[r-discovery|Discovery]] identifies several types of software.
+Discovery identifies several types of software.
 
 -   **[Active Directory Domain Controller discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r-ActiveDirectory.md)**  
-The Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Active Directory Domain Controller On Windows pattern to find Active Directory domain controllers running on a Windows server. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Active Directory Domain Controller On Windows pattern to find Active Directory domain controllers running on a Windows server. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[Adobe JRun discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r-AdobeJRun.md)**  
 Discovery creates or updates a CMDB record when it detects a running instance of Adobe JRun.
 -   **[Apache web server discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoApacheWebServers.md)**  
@@ -59,7 +59,7 @@ The ServiceNow Discovery application uses the Tuxedo pattern to find Oracle Tuxe
 -   **[Puppet automation software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_PuppetAutomationSoftwareDiscovery.md)**  
 Discovery identifies Puppet Masters running on UNIX servers.
 -   **[SAP products discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/sap-discovery.md)**  
-[[itom-visibility-landing-page|ITOM Visibility]] can discover SAP applications, SAP HANA Database, and SAP HANA DB Catalog. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+ITOM Visibility can discover SAP applications, SAP HANA Database, and SAP HANA DB Catalog. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 -   **[SQL Server Analysis Services \(SSAS\) discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r-SSAS-MSSQL.md)**  
 The Discovery and Service Mapping application uses the SSAS pattern to find SQL Server Analysis Services \(SSAS\) on your infrastructure. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store..
 -   **[Microsoft SQL Server Integration Services \(SSIS\) discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/ms-ssis-pattern.md)**  
@@ -75,8 +75,3 @@ The IBM WebSphere application server is a software framework with middleware tha
 
 **Parent Topic:**[Data collected by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/data-collected-by-itom-visibility.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

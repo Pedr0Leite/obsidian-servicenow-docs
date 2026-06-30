@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow for Microsoft Teams and Microsoft 365, Unified Employee 
 
 # Using ServiceNow for Microsoft Teams and Microsoft 365
 
-Employees and agents can work together to resolve their issues for IT Service Management, [[hr-service-delivery|HR Service Delivery]], and [[ur-landing-limitedaccess|Universal Request]] from within Microsoft Teams.
+Employees and agents can work together to resolve their issues for IT Service Management, HR Service Delivery, and Universal Request from within Microsoft Teams.
 
 **Important:**
 
@@ -31,7 +31,3 @@ Allow the agents to work and manage the major incidents from Major Incident Mana
 
 **Parent Topic:**[ServiceNow for Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_ServiceNowForMSTeams.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[ur-landing-limitedaccess|Universal Request]]

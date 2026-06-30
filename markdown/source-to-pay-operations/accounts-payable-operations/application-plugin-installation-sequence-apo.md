@@ -15,7 +15,7 @@ breadcrumb: [Components installed with Accounts Payable Invoice Processing, Inst
 
 # Application plugin installation sequence in Accounts Payable Operations
 
-Plugin names, descriptions, and dependencies required to install [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Plugin names, descriptions, and dependencies required to install Accounts Payable Operations.
 
 **Important:** Before installing a plugin listed in the Plugin name column, ensure that you install all corresponding dependencies listed in the Plugin dependencies column from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -60,13 +60,13 @@ Maintains primary data such as Enterprise Resource Planning \(ERP\) sources, leg
 
 </td><td>
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+Source-to-Pay Workspace
 
  \[com.sn\_spend\_workspace\]
 
 </td><td>
 
-Provides a single environment for Procurement Specialists to work on purchase requisitions, sourcing requests, [[negotiations|negotiations]], procurement requests, and more.
+Provides a single environment for Procurement Specialists to work on purchase requisitions, sourcing requests, negotiations, procurement requests, and more.
 
 </td><td>
 
@@ -78,7 +78,7 @@ Provides a single environment for Procurement Specialists to work on purchase re
 
 </td><td>
 
-[[supplier-central|Supplier Collaboration Portal]]
+Supplier Collaboration Portal
 
  \[com.snc.sn\_supplier\_sp\]
 
@@ -88,7 +88,7 @@ Includes demo data and relatedServiceNow Store applications and plugins.
 
 </td><td>
 
-[[supplier-common|Supplier Common Architecture]] \[com.snc.sn\_slm\]
+Supplier Common Architecture \[com.snc.sn\_slm\]
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ Glide Virtual Agent
 
 </td><td>
 
-Activate the virtual agent chatbot \(chat channel\) in the [[supplier|supplier]] portal for suppliers to complete Accounts Payable Operations related self-service tasks.
+Activate the virtual agent chatbot \(chat channel\) in the supplier portal for suppliers to complete Accounts Payable Operations related self-service tasks.
 
 </td><td>
 
@@ -112,7 +112,7 @@ Activate the virtual agent chatbot \(chat channel\) in the [[supplier|supplier]]
 
 </td><td>
 
-[[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
+Advanced Work Assignment for Source-to-Pay Operations
 
  \[com.snc.sn\_spend\_awa\]
 
@@ -122,7 +122,7 @@ Provides configurations to support automatic routing, queuing, and assignment of
 
 </td><td>
 
--   [[advanced-work-assignment|Advanced Work Assignment]] \[com.glide.awa\]
+-   Advanced Work Assignment \[com.glide.awa\]
 -   Agent chat \[com.glide.interaction.awa\]
 
 </td></tr><tr><td>
@@ -171,13 +171,13 @@ sn-docintel-iframe
 
 </td><td>
 
-[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
+Accounts Payable Operations integration with Document Intelligence
 
  \[sn\_ap\_ic\]
 
 </td><td>
 
-Enables you to automatically capture data from incoming [[invoices|invoices]], thus significantly reducing manual effort.
+Enables you to automatically capture data from incoming invoices, thus significantly reducing manual effort.
 
 </td><td>
 
@@ -191,7 +191,7 @@ Document Intelligence
 
 </td><td>
 
-[[acc-pay-case-mgmt-overview|Invoice Case Management]]
+Invoice Case Management
 
  \[sn\_ap\_cm\]
 
@@ -210,7 +210,7 @@ Includes demo data and relatedServiceNow Store applications and plugins.
 
 </td><td>
 
-[[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
+Accounts Payable Invoice Processing
 
  \[sn\_ap\_apm\]
 
@@ -225,18 +225,3 @@ Enables Accounts Payable specialists to ingest invoice documents and extract inv
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiations|Negotiations]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[supplier|Supplier]]
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[invoices|Invoices]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]

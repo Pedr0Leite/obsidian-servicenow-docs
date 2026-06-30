@@ -12,7 +12,7 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 # Catalogs installed with Facilities Service Management
 
-Catalogs provide customers with self-service opportunities within [[FacilitiesLandingPage|Facilities Service Management]].
+Catalogs provide customers with self-service opportunities within Facilities Service Management.
 
 Facilities Service Management adds the following catalogs.
 
@@ -20,9 +20,5 @@ Facilities Service Management adds the following catalogs.
 |-----|-----------|
 |Facilities Catalog|Contains facilities catalog items|
 
-**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

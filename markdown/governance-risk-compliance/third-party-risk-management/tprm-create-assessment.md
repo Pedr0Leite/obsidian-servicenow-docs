@@ -28,7 +28,7 @@ Assessments can be created on-demand or can recur on a specified schedule. When 
 
 1.  Navigate to one of the following locations:
 
-    -   **All** &gt; **Third-party Risk Management** &gt; **External [[risk-assessments|Risk Assessments]]** &gt; **All Assessments**.
+    -   **All** &gt; **Third-party Risk Management** &gt; **External Risk Assessments** &gt; **All Assessments**.
     -   **Workspaces** &gt; **Vendor Management Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **External Risk Assessments** &gt; **All Assessments**.
     **Important:** Smart assessments must be viewed in the Vendor Management Workspace.
 
@@ -38,7 +38,7 @@ Assessments can be created on-demand or can recur on a specified schedule. When 
 
 3.  Select **Submit**.
 
-    Additional related lists appear. If you left the **Assessment template** field empty and want to use [[airc-assessment-templates|assessment templates]] to associate multiple questionnaires or document requests with this assessment, use the Questionnaires or Document Requests related lists.
+    Additional related lists appear. If you left the **Assessment template** field empty and want to use assessment templates to associate multiple questionnaires or document requests with this assessment, use the Questionnaires or Document Requests related lists.
 
 4.  Associate existing questionnaires or document requests with the assessment, by performing the following steps.
 
@@ -76,7 +76,7 @@ Assessments can be created on-demand or can recur on a specified schedule. When 
 
 ## What to do next
 
-The TPR assessor works through the third-party portal with the third party to [[approve-the-assessment-in-ws|close the assessment]].
+The TPR assessor works through the third-party portal with the third party to close the assessment.
 
 **Related topics**  
 
@@ -85,8 +85,3 @@ The TPR assessor works through the third-party portal with the third party to [[
 
 [Review responses to external questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-assessment-rvw-response.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[approve-the-assessment-in-ws|Close the assessment]]

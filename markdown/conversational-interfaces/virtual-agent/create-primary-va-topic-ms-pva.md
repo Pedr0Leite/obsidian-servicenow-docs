@@ -15,7 +15,7 @@ breadcrumb: [Using Microsoft Power Virtual Agents as a secondary bot with Virtua
 
 # Create a Virtual Agent Bot Interconnect shell topic to call Microsoft Power Virtual Agents topics
 
-To access topics in the Power Virtual Agents secondary bot, you must create at least one [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect topic.
+To access topics in the Power Virtual Agents secondary bot, you must create at least one Virtual Agent Bot Interconnect topic.
 
 ## Before you begin
 
@@ -42,13 +42,13 @@ There are two ways to integrate Microsoft Power Virtual Agents topics with Bot I
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  [Create a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md) for your Power Virtual Agents topics.
 
     In case of NLU topics, include the Power Virtual Agents topic names as either keywords or utterances in the corresponding ServiceNow Virtual Agent intent. In case of LLM topics, the topic name and description of the Bot Interconnect topic should match the topic name and description of the Power Virtual Agents topic.
 
-3.  On the **Flow** tab, drag a [[va-topic-blocks|Topic Block utility]] node onto the canvas.
+3.  On the **Flow** tab, drag a Topic Block utility node onto the canvas.
 
 4.  Select the node, and then fill in the form as follows:
 
@@ -120,8 +120,3 @@ Test your configuration. You can execute the topics that are available in the se
 
 **Next topic:**[Using ServiceNow Virtual Agent as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-sn-secondary-bot-with-sn-primary.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[va-topic-blocks|Topic Block utility]]

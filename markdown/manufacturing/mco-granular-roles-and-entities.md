@@ -16,17 +16,17 @@ Module-level granular roles have been added to facilitate defining and configuri
 
 |Granular roles|Description|
 |--------------|-----------|
-|Recall Claim Management Creator \[sn\_rcl\_claim\_mgmt.campaign.creator\]|View, write, and create [[recall-claims-table|Recall Campaign tables]].|
+|Recall Claim Management Creator \[sn\_rcl\_claim\_mgmt.campaign.creator\]|View, write, and create Recall Campaign tables.|
 |Recall Claim Management Viewer \[sn\_rcl\_claim\_mgmt.campaign.viewer\]|View all Recall Campaign tables.|
 |Recall Claim Management Writer \[sn\_rcl\_claim\_mgmt.campaign.writer\]|View and write all Recall Campaign tables.|
-|Campaign Phase Writer \[feature role\] \[sn\_rcl\_claim\_mgmt.campaign\_phase.writer\]|Read access on all [[mco-rcl-clms|Recall Campaign]] related tables. It has write access on Recall Campaign Phase, Impacted Finished Good &amp; Phase Task tables. It has create access on Phase Task and Impacted Finished.|
-|Pre-authorization admin \[sn\_repair\_claim\_mgmt.repair\_pre\_auth\_admin\]|Create, update, and delete the [[mco-pre-auth-request-use|pre-authorization request]].|
-|Repair Claim Management Viewer \[sn\_repair\_claim\_mgmt.repair\_pre\_auth\_viewer\]|View all [[mco-use-repair-claim|Repair Claim]] [[mco-pre-auth-request|Pre-authorization]] tables.|
+|Campaign Phase Writer \[feature role\] \[sn\_rcl\_claim\_mgmt.campaign\_phase.writer\]|Read access on all Recall Campaign related tables. It has write access on Recall Campaign Phase, Impacted Finished Good &amp; Phase Task tables. It has create access on Phase Task and Impacted Finished.|
+|Pre-authorization admin \[sn\_repair\_claim\_mgmt.repair\_pre\_auth\_admin\]|Create, update, and delete the pre-authorization request.|
+|Repair Claim Management Viewer \[sn\_repair\_claim\_mgmt.repair\_pre\_auth\_viewer\]|View all Repair Claim Pre-authorization tables.|
 |Pre-authorization navigator \[sn\_repr\_claim\_mgmt.pre\_auth\_navigation\_menu\]|Access to related list menu for pre-authorization in workspace.|
 |Warranty specialist \[sn\_claim\_cmn.warranty\_specialist\]|View and update pre-authorization request. Also, can view Repair claim. This role is for user who can approve/reject/send-back pre-authorization request.|
-|Product Non-conformance Submitter \[sn\_mfg\_qm.product\_non\_conformance\_submitter\]|Create, view, update, and cancel a non-conformance case. They can also [[mco-correction-actions|create a correction action]] and add expense lines to it.|
+|Product Non-conformance Submitter \[sn\_mfg\_qm.product\_non\_conformance\_submitter\]|Create, view, update, and cancel a non-conformance case. They can also create a correction action and add expense lines to it.|
 |Product Non-conformance Case Resolver \[sn\_mfg\_qm.product\_non\_conformance\_case\_resolver\]|Create, view, update across all non conformance related tables.|
-|Quality Investigation Member \[sn\_mfg\_qm.product\_quality\_investigation\_member\]|Ability to edit [[mco-PQI-use|product quality investigation]] and product quality investigation tasks. Can create remediation action plan, actions, and financial requests.​|
+|Quality Investigation Member \[sn\_mfg\_qm.product\_quality\_investigation\_member\]|Ability to edit product quality investigation and product quality investigation tasks. Can create remediation action plan, actions, and financial requests.​|
 |Quality Investigation Lead \[sn\_mfg\_qm.product\_quality\_investigation\_lead\]|Create, view, update, and cancel quality investigation and all its related tables. This user also will sign off the investigation and move it to closure.​|
 |Product Non-conformance Case Triager \[sn\_mfg\_qm.product\_non\_conformance\_case\_triager\]|New non-conformance submissions, validates completeness, sets priority/severity, and routes to the right resolver. Limited to triage updates; does not execute remediation.​|
 |Finance Approver \[sn\_mfg\_qm.finance\_approver\]|Approve, Reject, Send Back Financial Request, Planned Line Charge, and Expense Line records.​|
@@ -61,7 +61,7 @@ sn\_rcl\_claim\_mgmt.campaign\_phase.writer
 
 sn\_rcl\_claim\_mgmt\_ca
 
- [[mco_corrective_action_charges|Corrective action charges]]
+ Corrective action charges
 
  sn\_rcl\_claim\_mgmt\_ca\_charges
 
@@ -87,7 +87,7 @@ sn\_rcl\_claim\_mgmt\_rcp\_phase
 
 </td></tr><tr><td>
 
-[[mco-product-non-conformances|Product Non-conformance]]
+Product Non-conformance
 
 </td><td>
 
@@ -153,7 +153,7 @@ sn\_customerservice.case\_contributor\_creator
 
 </td></tr><tr><td>
 
-[[mco-quality-issue-management|Quality Issue Management]]
+Quality Issue Management
 
 </td><td>
 
@@ -288,16 +288,3 @@ sn\_repr\_claim\_mgmt.repair\_pre\_auth\_writer
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[recall-claims-table|Recall campaign tables]]
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]
-- [[mco-use-repair-claim|Repair claim]]
-- [[mco-pre-auth-request|Pre-authorization]]
-- [[mco-correction-actions|Create a correction action]]
-- [[mco-PQI-use|Product quality investigation]]
-- [[mco_corrective_action_charges|Corrective action charges]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-quality-issue-management|Quality issue management]]

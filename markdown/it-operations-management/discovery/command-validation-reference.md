@@ -41,7 +41,7 @@ MID Server Selection Method
 </td><td>
 
 Select the relevant method:-   **Specific MID Server** - To define the MID Server for this test.
--   **Automatic MID Selection** - To use a MID Server that's assigned to the IP range or IP network that you want to use for the test. Select this method only if you have configured a MID Server with IP ranges or as a default MID Server for [[r-discovery|Discovery]].
+-   **Automatic MID Selection** - To use a MID Server that's assigned to the IP range or IP network that you want to use for the test. Select this method only if you have configured a MID Server with IP ranges or as a default MID Server for Discovery.
 -   **Try All Eligible MID Servers** - To use any MID Server available for the the IP range or IP network that you want to use for the test. Select this method only if you have configured a MID Server with IP ranges or as a default MID Server for Discovery.
 
 </td></tr><tr><td>
@@ -122,6 +122,3 @@ The name of the pattern for which you want to validate the commands. This field 
 
 [Discovery commands for probes and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-command-probe-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

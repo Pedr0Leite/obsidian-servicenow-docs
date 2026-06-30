@@ -14,7 +14,7 @@ breadcrumb: [Confirming the assigned serialized hardware assets, Audit assets us
 
 # Confirm the assigned assets using the Now Mobile app
 
-As an employee, acknowledge or deny the ownership of the serialized hardware assets assigned to you using the [[now-mobile-asset|Now Mobile app]].
+As an employee, acknowledge or deny the ownership of the serialized hardware assets assigned to you using the Now Mobile app.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Role required: Log in as an employee.
 ## Result
 
 -   The **Confirm asset** indicator is no longer displayed for the asset.
--   The **Attestation date** field of the asset on the [[asset-attestation-ham|asset attestation]] form is updated with the actual date on which you confirmed the asset.
+-   The **Attestation date** field of the asset on the asset attestation form is updated with the actual date on which you confirmed the asset.
 -   The **State** field of the asset attestation changes from In progress to Closed complete only when that attestation has no other users and assets involved.
 -   The **Status** field of the asset on the asset attestation form is updated based on your confirmation:
     -   If you selected **Yes**, the **Status** field changes from **Open** to **Yes**.
@@ -60,7 +60,3 @@ Role required: Log in as an employee.
 
 **Parent Topic:**[Confirming the assigned serialized hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/confirming-assets-emp-portal-mobile.md)
 
-## Related
-
-- [[now-mobile-asset|Now Mobile app]]
-- [[asset-attestation-ham|Asset Attestation]]

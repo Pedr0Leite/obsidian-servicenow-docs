@@ -14,7 +14,7 @@ breadcrumb: [Monitor third-party risk, Third-party Risk Management, Governance, 
 
 # Monitoring third-party elements
 
-You can monitor third-party elements through scalable scoring models, relationship analysis, and [[tprm-workflow-in-workspace|due diligence workflow]] integration by using the Third-party Risk Management application. Monitoring third-party elements and leveraging that information can help with conducting more informed [[risk-assessments|risk assessments]] as part of your third-party risk program.
+You can monitor third-party elements through scalable scoring models, relationship analysis, and due diligence workflow integration by using the Third-party Risk Management application. Monitoring third-party elements and leveraging that information can help with conducting more informed risk assessments as part of your third-party risk program.
 
 ## Third-party elements overview
 
@@ -69,7 +69,3 @@ After an element is assessed and a risk rating is determined, this rating is fir
 
 **Note:** You can create your own TP element classifications to meet your specific risk program requirements. For more information on creating classifications and assigning weights for scoring, see [Third-party element form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-tpe-form.md) and [Define component criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-component-criteria-define.md).
 
-## Related
-
-- [[tprm-workflow-in-workspace|Due diligence workflow]]
-- [[risk-assessments|risk assessments]]

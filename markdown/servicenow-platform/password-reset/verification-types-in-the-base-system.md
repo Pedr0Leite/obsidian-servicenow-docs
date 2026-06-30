@@ -32,7 +32,7 @@ Personal Data Confirmation
 
 Verifies user identity using data from the User \[sys\_user\] table. The user data is displayed to a service desk agent. The agent verifies the data. Enrollment is not required for this type.
 
-Recommended for service desk-assisted processes.**Note:** The [[win-password-reset-overview|Password Reset Windows Application]] does not support the Personal Data Confirmation Verification type.
+Recommended for service desk-assisted processes.**Note:** The Password Reset Windows Application does not support the Personal Data Confirmation Verification type.
 
  See [Personal data identification types and confirmation type verifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PersonalDataAndPDConfirmVerifs.md).
 
@@ -50,11 +50,11 @@ See [Personal data identification types and confirmation type verifications](htt
 
 </td></tr><tr><td>
 
-[[email|Email]] Code
+Email Code
 
 </td><td>
 
-When a user requests [[password-reset-landing-page|password reset]], the system sends a verification code to the email address in the user profile or to an email address that the user authorized during enrollment. To verify identity, the user then submits the code on the Password Reset **Verify** page. **Note:** The Password Reset Windows Application allows you to define and use multiple verifications of the Email Code type.
+When a user requests password reset, the system sends a verification code to the email address in the user profile or to an email address that the user authorized during enrollment. To verify identity, the user then submits the code on the Password Reset **Verify** page. **Note:** The Password Reset Windows Application allows you to define and use multiple verifications of the Email Code type.
 
 See [Personal data identification types and confirmation type verifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PersonalDataAndPDConfirmVerifs.md).
 
@@ -105,8 +105,3 @@ Not a functional identity verification. Demonstrates how to add a verification t
 
 [Create a custom Password Reset verification type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/create-verification-type.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[email|Email]]
-- [[password-reset-landing-page|Password Reset]]

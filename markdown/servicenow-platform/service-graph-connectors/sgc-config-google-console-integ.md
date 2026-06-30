@@ -22,7 +22,7 @@ To use this Service Graph Connector, you need a subscription to a Subscription U
 
 Dependencies and requirements:
 
--   The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+-   The Integration Commons for CMDB store app, which is automatically installed. See [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 -   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   ITOM Licensing plugin \(com.snc.itom.license\). See [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md).
 
@@ -30,11 +30,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Verify that the application scope is set to the [[sgc-cmdb-google-console|Service Graph Connector for Google Console]] application by using the application picker.
+1.  Verify that the application scope is set to the Service Graph Connector for Google Console application by using the application picker.
 
     For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-2.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Google Console** &gt; **Setup**.
+2.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Google Console** &gt; **Setup**.
 
 3.  On the Service Graph Connector for Google Console page, verify that the **Quick Start** option is selected and then select **Continue**.
 
@@ -49,7 +49,7 @@ Role required: admin
 
             **Note:** Make a note of the destination keystore password. You need to specify this password while importing the Java Keystore \(JKS\) certificate into the Service Graph Connector for Google Console application.
 
-        3.  Set the Google Console Setup Instructions task to complete by selecting the **Mark as complete** [[check-box|check box]] and then select **Continue**.
+        3.  Set the Google Console Setup Instructions task to complete by selecting the **Mark as complete** check box and then select **Continue**.
     3.  Create an X.509 certificate to associate the JKS certificate for the Google Console application with the Service Graph Connector for Google Console.
 
         1.  Select the Create X.509 certificate task.
@@ -95,7 +95,7 @@ Name to identify the connection record. For example, `SG-GoogleConsole`.Don’t 
 
 </td></tr><tr><td>
 
-Service Account [[email|Email]]
+Service Account Email
 
 </td><td>
 
@@ -236,10 +236,4 @@ Select the name of the JKS file you created in the [previous step](https://raw.g
 
 9.  In the message box that appears, select **Done**.
 
-## Related
 
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[sgc-cmdb-google-console|Service Graph Connector for Google Console]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]
-- [[email|Email]]

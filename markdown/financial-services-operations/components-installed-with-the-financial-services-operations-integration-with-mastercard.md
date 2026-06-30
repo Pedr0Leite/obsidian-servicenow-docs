@@ -12,7 +12,7 @@ breadcrumb: [Reference, Mastercard, Integrate, Financial Services Operations \(F
 
 # Components installed with the Financial Services Operations Integration with Mastercard
 
-Reference topics provide additional information on the installed components and subflows that you use to configure and administer [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]] application.
+Reference topics provide additional information on the installed components and subflows that you use to configure and administer Financial Services Operations Integration with Mastercard application.
 
 ## Plugins installed
 
@@ -23,6 +23,3 @@ These plugins are installed with the Financial Services Operations Integration w
 |Mastercard Spoke \[com.sn\_mc\_spoke\]|Enables you to search transactions, create claims, and process chargebacks, pre-arbitration, and arbitration case filings efficiently.|
 |Dispute Rules Content Pack for Mastercard \[com.sn\_bom\_mcard\_cp\]|Enables your agents to use guided questionnaires to intake dispute-related information across various categories, in alignment with Mastercard guidelines.|
 
-## Related
-
-- [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]]

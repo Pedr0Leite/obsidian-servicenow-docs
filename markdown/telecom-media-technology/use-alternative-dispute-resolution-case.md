@@ -14,21 +14,15 @@ breadcrumb: [Use, Customer Service Problem Management, Telecommunications, Media
 
 Use the Alternative Dispute Resolution \(ADR\) case to resolve escalated customer disputes efficiently.
 
--   **[[view-adr-case|View an Alternative Dispute Resolution case record]]**  
+-   **[View an Alternative Dispute Resolution case record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/view-adr-case.md)**  
 View the details of an Alternative Dispute Resolution \(ADR\) case record in the CSM/FSM Configurable Workspace so that you can review the complete ADR case information.
--   **[[create-adr-case-record|Create an Alternative Dispute Resolution case]]**  
+-   **[Create an Alternative Dispute Resolution case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-adr-case-record.md)**  
 Create an Alternative Dispute Resolution \(ADR\) case record in the CSM/FSm Configurable Workspace so that you can investigate and resolve an escalated complaint.
 
-**Parent Topic:**[[using-spm|Using Customer Service Problem Management]]
+**Parent Topic:**[Using Customer Service Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/using-spm.md)
 
 **Related topics**  
 
 
-[[alternative-dispute-resolution|Alternative dispute resolution management]]
+[Alternative dispute resolution management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/alternative-dispute-resolution.md)
 
-## Related
-
-- [[view-adr-case|View an Alternative Dispute Resolution case record]]
-- [[create-adr-case-record|Create an Alternative Dispute Resolution case]]
-- [[using-spm|Using Customer Service Problem Management]]
-- [[alternative-dispute-resolution|Alternative dispute resolution management]]

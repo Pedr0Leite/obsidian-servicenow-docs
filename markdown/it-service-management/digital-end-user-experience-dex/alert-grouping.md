@@ -20,7 +20,7 @@ When alerts are grouped, you see the total count of secondary alerts grouped nex
 
 ## DEX events and alerts representation
 
-In the Events table \[em\_event\], any event with the **Source** field value as DEX is classified as a DEX event. For DEX, the **Type** field displays **DEX Metric Rules** as [[dex-alerts|DEX alerts]] are generated based on DEX metric rules. When for any event, the **State** of the event is **Processed**, an alert is generated and saved in the Alerts table \[em\_alert\].
+In the Events table \[em\_event\], any event with the **Source** field value as DEX is classified as a DEX event. For DEX, the **Type** field displays **DEX Metric Rules** as DEX alerts are generated based on DEX metric rules. When for any event, the **State** of the event is **Processed**, an alert is generated and saved in the Alerts table \[em\_alert\].
 
 In the Alerts table \[em\_alert\], select any alert to access its details. An alert that is created from a DEX event, displays the **Source** field value as DEX. The **Metric name** field value appears as either DEX App Metric or DEX Device Metric. For an alert, the **Metric name** field value is DEX Device Metric. The **Configuration item** field shows the name of the corresponding application or device. For the alert whose corresponding **Group** field shows **Rules-based**, are the DEX alert groups.
 
@@ -36,13 +36,9 @@ Time-based alert grouping automatically groups alerts according to predefined ti
 
 In the System Properties table \[sys\_properties\], the property **sn\_dex.alert.correlation\_rule.device.period** defines the time period in seconds for grouping and correlating similar metric rule-based DEX alerts. In the **Value** field, you can enter the desired time duration in seconds. For example, to set a 5-minute gap between alert groupings, enter 300. Entering 0 disables the rule.
 
-Let's consider an example: Alert A1 is generated for rule R1 from device D1. After two minutes, alerts A2 and A3 are generated for the same rule R1, but from [[dex-workspace-devices-tab|devices]] D2 and D3 respectively. With A1 being the first alert, it's designated as the primary alert, and A2 and A3 are grouped as secondary alerts under A1.
+Let's consider an example: Alert A1 is generated for rule R1 from device D1. After two minutes, alerts A2 and A3 are generated for the same rule R1, but from devices D2 and D3 respectively. With A1 being the first alert, it's designated as the primary alert, and A2 and A3 are grouped as secondary alerts under A1.
 
 Now, suppose you have set the time duration to 300 seconds \(5 minutes\). If no alerts for rule R1 are generated within five minutes, and then after this period, alerts A4, A5, and A6 are generated for the same rule, a new group is formed. Alert A4 becomes the primary alert, and A5 and A6 are grouped under A4.
 
 However, if any alert is generated for rule R1 within five minutes, it's considered as a secondary alert to A1 and grouped accordingly.
 
-## Related
-
-- [[dex-alerts|DEX Alerts]]
-- [[dex-workspace-devices-tab|Devices]]

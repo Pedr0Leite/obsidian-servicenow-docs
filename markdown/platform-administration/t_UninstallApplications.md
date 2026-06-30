@@ -32,7 +32,7 @@ When you uninstall an application, all application files associated with the app
 
 3.  Click the name or icon of the application that you want to uninstall.
 
-    **Note:** You cannot uninstall applications on the **In Development** tab, but you can delete them. To learn more about what happens when you perform an application deletion, see [[t_DeleteAnApplication|Delete an application]]. You also cannot uninstall base system applications.
+    **Note:** You cannot uninstall applications on the **In Development** tab, but you can delete them. To learn more about what happens when you perform an application deletion, see [Delete an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DeleteAnApplication.md). You also cannot uninstall base system applications.
 
 4.  In the custom application record, click the **Uninstall** related link.
 
@@ -60,9 +60,5 @@ When you uninstall an application, all application files associated with the app
 9.  Click **Done**.
 
 
-**Parent Topic:**[[c_RemovingApplications|Rolling back and removing applications]]
+**Parent Topic:**[Rolling back and removing applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_RemovingApplications.md)
 
-## Related
-
-- [[t_DeleteAnApplication|Delete an application]]
-- [[c_RemovingApplications|Rolling back and removing applications]]

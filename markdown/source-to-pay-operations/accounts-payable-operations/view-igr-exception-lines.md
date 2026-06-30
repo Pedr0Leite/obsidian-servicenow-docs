@@ -27,13 +27,13 @@ The **Invoice lines affected** tab is displayed only for exception tasks that ar
 
 ## Procedure
 
-1.  Navigate to **Source-to-Workspace** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **Source-to-Workspace** &gt; **All** &gt; **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
 3.  Do one of the following:
 
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[work-with-invoice-exceptions|invoice exceptions]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice exceptions**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice exceptions**.
 4.  In the Number column, select the link to a line-level invoice exception to open it.
 
@@ -44,7 +44,3 @@ The **Invoice lines affected** tab is displayed only for exception tasks that ar
 
 **Parent Topic:**[Invoice exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoice-exceptions.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

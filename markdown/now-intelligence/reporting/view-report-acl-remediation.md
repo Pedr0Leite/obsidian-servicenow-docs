@@ -14,7 +14,7 @@ breadcrumb: [ACL Assessment for Reports, Administering reports, Reporting, Repor
 
 # Manage Report ACL assessments
 
-When you run the Report ACL \([[access-control|access control]] list\) assessment scan, the result is a list of affected reports. The assessment details the users who have seen a report including the report creator. The assessment also includes the roles that the report is limited to and the groups that contain those roles.
+When you run the Report ACL \(access control list\) assessment scan, the result is a list of affected reports. The assessment details the users who have seen a report including the report creator. The assessment also includes the roles that the report is limited to and the groups that contain those roles.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ For reports that are blocked by a table-level read ACL, the assessment displays 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Reports** &gt; **[[report-view-acl-dashboard|ACL Assessment for Reports]]** &gt; **Affected Reports List**.
+1.  Navigate to **All** &gt; **Reports** &gt; **ACL Assessment for Reports** &gt; **Affected Reports List**.
 
 2.  Select the info button \(\[Omitted image "InfoIcon.png"\] Alt text: info button\) next to the report that you want to address and select **Open record** to see the options associated with the report.
 
@@ -138,10 +138,5 @@ Elevate your role to security\_admin and add one or more roles to a blocking ACL
 ### Edit the report sharing options
 
 -   For reports created in the Classic environment, open the report in the Report Designer and change who the report is shared with. For more information, see [Share a Core UI report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_ShareASetting.md).
--   For reports created in a configurable workspace open the report in the Visualization Designer and change who the report is shared with. For more information, see [[share-dv-ac|Share a data visualization in the Visualization Designer]].
+-   For reports created in a configurable workspace open the report in the Visualization Designer and change who the report is shared with. For more information, see [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md).
 
-## Related
-
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[access-control|Access control]]
-- [[report-view-acl-dashboard|ACL Assessment for Reports]]

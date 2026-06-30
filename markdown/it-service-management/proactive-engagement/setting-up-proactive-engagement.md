@@ -18,12 +18,12 @@ Setting up Proactive Engagement enhances the issue resolution capabilities of th
 
 ## Before you begin
 
-**Note:** [[proactive-engagement-landing-page|Proactive Engagement]] integrates with ServiceNow DEX to proactively detect the digital experience issues.
+**Note:** Proactive Engagement integrates with ServiceNow DEX to proactively detect the digital experience issues.
 
 -   Activate the Glide Virtual Agent plugin \(Id: com .glide.cs.chatbot\).
 -   Install the ServiceNow Proactive Engagement application from the ServiceNow® Store.
 -   Activate the Remedial actions framework plugin to use remedial actions as a resolution type.
--   Ensure that the application and all of its associated ServiceNow Store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do).
 -   Review the Proactive Engagement application listing in the ServiceNow® Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
 **Note:**
@@ -63,7 +63,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/configuring-proactive-engagement.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-workspace-application-tab|Applications]]

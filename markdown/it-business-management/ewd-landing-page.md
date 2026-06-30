@@ -12,7 +12,7 @@ breadcrumb: [Strategic Portfolio Management]
 
 # SPM Enterprise-Wide Deployment
 
-SPM Enterprise-Wide Deployment \(EWD\) provides data partitioning capabilities for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) tables that enable organizations to separate and control record visibility across functions such as departments and [[c_BusinessUnits|business units]].
+SPM Enterprise-Wide Deployment \(EWD\) provides data partitioning capabilities for Strategic Portfolio Management \(SPM\) tables that enable organizations to separate and control record visibility across functions such as departments and business units.
 
 ## Get started
 
@@ -81,7 +81,3 @@ Some ServiceNow resources that can provide you with helpful information are:
     -   [https://support.servicenow.com/now](https://support.servicenow.com/now)
     -   
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_BusinessUnits|Business units]]

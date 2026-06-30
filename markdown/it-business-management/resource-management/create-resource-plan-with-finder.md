@@ -14,7 +14,7 @@ breadcrumb: [Resource plans, Resource Management classic, Project Portfolio Mana
 
 # Use Resource Finder to analyze resource availability
 
-Search and analyze resource availability using the Resource Finder, so that you can create [[c_ResourcePlans|resource plans]] for a project or demand.
+Search and analyze resource availability using the Resource Finder, so that you can create resource plans for a project or demand.
 
 ## Before you begin
 
@@ -46,7 +46,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **Project** &gt; **Projects** &gt; **[[project-workspace-landing-page|Project Workspace]]**.
+1.  Navigate to **Project** &gt; **Projects** &gt; **Project Workspace**.
 2.  Open a project record.
 3.  In the **Resource Plan** related list, select **Manage** to open the Resources tab.
 
@@ -206,7 +206,3 @@ Right-click on the user and select **Update Capacity**.
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]

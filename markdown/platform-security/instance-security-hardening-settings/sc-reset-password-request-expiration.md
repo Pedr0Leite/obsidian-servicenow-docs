@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Minimize reset password request expiration duration
 
-The **password\_reset.[[c_requestAPI|request]].expiry** denotes the time period in minutes during which a user must perform the [[c_SelfServicePasswordReset|password reset]] process.
+The **password\_reset.request.expiry** denotes the time period in minutes during which a user must perform the password reset process.
 
 If the **password\_reset.request.expiry** system property is not set to the recommended value of `10` or less, then it increases the opportunity for someone else to guess and use the request and attempt to reset the password.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -119,9 +119,3 @@ None
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

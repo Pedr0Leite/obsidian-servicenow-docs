@@ -14,7 +14,7 @@ breadcrumb: [Use AI agents, Now Assist for Strategic Portfolio Management \(SPM\
 
 # Strategic Portfolio Management AI agents for the monitor project tasks agentic workflow
 
-Use the Monitor [[t_CreateAProjectTask|project tasks]] agentic workflow to autonomously generate a project insights email by using AI agents. AI agents help project managers to manage risks, resolve issues, or take actionable decision on the projects.
+Use the Monitor project tasks agentic workflow to autonomously generate a project insights email by using AI agents. AI agents help project managers to manage risks, resolve issues, or take actionable decision on the projects.
 
 ## Monitor project tasks overview
 
@@ -66,6 +66,3 @@ For more information on other agentic workflow that are associated with the Plat
 
 [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

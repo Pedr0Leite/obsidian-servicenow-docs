@@ -14,7 +14,7 @@ breadcrumb: [Client transaction timings, Reference, Time configuration, Configur
 
 # Components installed with Client Transaction Timings
 
-The [[r_ClientTransactionTimings|Client Transaction Timings]] plugin installs several components.
+The Client Transaction Timings plugin installs several components.
 
 ## Database Table Structure
 
@@ -36,6 +36,3 @@ To activate the plugin, navigate to **System Definition** &gt; **Plugins** and a
 
 **Parent Topic:**[Client transaction timings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_ClientTransactionTimings.md)
 
-## Related
-
-- [[r_ClientTransactionTimings|Client transaction timings]]

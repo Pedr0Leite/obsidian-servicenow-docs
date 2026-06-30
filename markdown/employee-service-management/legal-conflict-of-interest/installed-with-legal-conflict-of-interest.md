@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Conflict of Interest, Legal Service Delivery Pract
 
 # Components installed with Legal Conflict of Interest
 
-Several types of components are installed with installation of the [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]], including tables and user roles.
+Several types of components are installed with installation of the Legal Conflict of Interest, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -193,6 +193,3 @@ Store the risk response records for the evaluated risk factors.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Conflict of Interest reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-reference.md)
 
-## Related
-
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]

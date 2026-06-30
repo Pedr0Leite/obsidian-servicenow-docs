@@ -17,7 +17,7 @@ breadcrumb: [Third-party Risk Management, Governance, Risk, and Compliance]
 Extend the capabilities of TPRM.
 
 -   **[Integrating Third-party Risk Management with GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/pc-assessment-integration.md)**  
-The GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] integration updates the compliance status of controls and control objectives based on the questionnaire responses from a third party or engagement. Compliance managers \[sn\_compliance.manager\] can associate controls and control objectives with specific questions, third parties, and engagements used in Third-party Risk Management.
+The GRC: Policy and Compliance Management integration updates the compliance status of controls and control objectives based on the questionnaire responses from a third party or engagement. Compliance managers \[sn\_compliance.manager\] can associate controls and control objectives with specific questions, third parties, and engagements used in Third-party Risk Management.
 -   **[Integrating Third-party Risk Management with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/rm-assessment-integration.md)**  
 Integrating Risk Management with Third-party Risk Management lets you model enterprise risks and use third‑party assessments to dynamically update risk posture and scores for third parties and engagements. Optional TPRM rules can trigger assessments or remediation work when risks change.
 -   **[Integrating scores from risk intelligence providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-overview.md)**  
@@ -25,9 +25,9 @@ Risk intelligence providers generate risk scores for a variety of third-party ri
 -   **[Integrating EcoVadis with Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-integrating-ecovadis.md)**  
 Integrating EcoVadis into your third-party risk management program can enhance your ability to assess and mitigate risks associated with sustainability and corporate social responsibility \(CSR\). By leveraging EcoVadis' comprehensive sustainability ratings, you can gain detailed insights into the environmental, ethical, and social practices of your third parties.
 -   **[Risk intelligence provider integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-integrate-rir.md)**  
-The Third-party Risk Management application includes support for [[tprm-integrate-rir|risk intelligence provider integrations]]. These guidelines can help your organization to develop a risk intelligence provider integration for Risk intelligence report \(RIR\) requests for third parties and due diligence requests.
+The Third-party Risk Management application includes support for risk intelligence provider integrations. These guidelines can help your organization to develop a risk intelligence provider integration for Risk intelligence report \(RIR\) requests for third parties and due diligence requests.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
 **Related topics**  
 
@@ -42,8 +42,3 @@ The Third-party Risk Management application includes support for [[tprm-integrat
 
 [Integrating Third-party Risk Management with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/rm-assessment-integration.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[tprm-integrate-rir|Risk intelligence provider integrations]]

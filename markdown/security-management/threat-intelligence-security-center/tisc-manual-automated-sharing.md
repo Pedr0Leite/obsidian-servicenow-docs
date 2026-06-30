@@ -35,7 +35,7 @@ Prerequisites: Before you begin, ensure you have the appropriate roles assigned.
     Create a dedicated user in the target TISC instance and assign them the `sn_sec_tisc.api_post_intel` role. This dedicated user is used to authenticate incoming intelligence data submitted to the instance.
 
 2.  **Set up an Inbound Intelligence Profile**:
-3.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **Inbound Intel Sharing**.
+3.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **Inbound Intel Sharing**.
 4.  Select **Inbound Intel Sharing Profiles**.
 5.  Create a new profile. For more information, see [Configuring Inbound Intel Sharing Profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-inbound-profile.md).
 6.  In the **User for authentication** field, select the user created in the previous step.
@@ -82,6 +82,3 @@ Prerequisites: Before you begin, ensure you have the appropriate roles assigned.
     -   Validate the connection to confirm it is functioning correctly.
     -   Enable the profile to activate intelligence data sharing.
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

@@ -24,7 +24,7 @@ Role required: sn\_hr\_er.case\_writer
 
 1.  Navigate to the **Involved Parties** tab in Core UI.
 
-    1.  Navigate to **All** &gt; **[[hr-case-employee-relations|Employee Relations]]** &gt; **Cases**.
+    1.  Navigate to **All** &gt; **Employee Relations** &gt; **Cases**.
 
     2.  Select an ER case.
 
@@ -32,9 +32,9 @@ Role required: sn\_hr\_er.case\_writer
 
     4.  Select **New**.
 
-2.  Navigate to the **Involved Parties** tab in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+2.  Navigate to the **Involved Parties** tab in Agent Workspace for HR Case Management.
 
-    1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+    1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
     2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -105,8 +105,3 @@ The name of the involved party.Only appears when you check the **Not in system**
     -   Use the **Corrective Actions** tab to create and associate a corrective action record with an involved party.
     -   If an allegation record is created, the Subject of Allegation is auto-populated from the Involved Parties record of type **Subject of Allegation**, provided that only one subject of allegation exists.
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

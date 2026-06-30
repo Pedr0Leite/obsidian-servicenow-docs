@@ -21,7 +21,7 @@ Use the following documentation for the installation, verification, and reportin
 Unless otherwise noted, each integration requires that you have the ServiceNow GRC products installed and activated on your instance.
 
 -   **[GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md)**  
-The ServiceNow® [[reg-change-mgmt-landing-page|Regulatory Change Management]] application helps you to gather, monitor, and analyze regulatory data and track developments in a complex regulatory environment.
+The ServiceNow® Regulatory Change Management application helps you to gather, monitor, and analyze regulatory data and track developments in a complex regulatory environment.
 -   **[GRC: integrations with third-party content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/integrations-third-party-content.md)**  
 The GRC: integrations with third-party content application helps you to standardize the content integration process across various GRC applications by providing a common framework for your content providers.
 -   **[Standardized Information Gathering \(SIG\) Questionnaire Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-sig-integration.md)**  
@@ -29,6 +29,3 @@ The Shared Assessments Standardized Information Gathering Questionnaire \(SIG\) 
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

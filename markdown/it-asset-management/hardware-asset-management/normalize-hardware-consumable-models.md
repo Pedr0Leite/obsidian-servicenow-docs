@@ -14,7 +14,7 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Normalize hardware and consumable models
 
-After you have created your hardware and consumable [[c_Models|models]], normalize the information of the model.
+After you have created your hardware and consumable models, normalize the information of the model.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ Role required: admin, asset, or model\_manager
 
 **Note:**
 
--   If you have opted in to the [[ham-landing-page|Hardware Asset Management]] Content Service, you can override any life cycle values that were added from the schedule job, or you can manually add your own life cycles.
+-   If you have opted in to the Hardware Asset Management Content Service, you can override any life cycle values that were added from the schedule job, or you can manually add your own life cycles.
 -   For a model to be fully normalized, you must add manufacturer details and a model number, and optionally a model name.
 -   If you update the **Device Type** field, the normalization status is updated.
 
 ## Procedure
 
-1.  [[create-hardware-consumable-model|Create a hardware or consumable model]].
+1.  Create a hardware or consumable model.
 
 <table id="choicetable_k4b_k1j_pdc"><thead><tr><th align="left" id="d128267e74">
 
@@ -47,7 +47,7 @@ Action
 </td><td>
 
 1.  Navigate to one of the following paths.
-    -   **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Models** &gt; **Hardware Models**.
+    -   **Product Catalog** &gt; **Product Models** &gt; **Hardware Models**.
     -   **Product Catalog** &gt; **Product Models** &gt; **Consumable Models**.
 2.  Select **New**.
 3.  On the Hardware Model or Consumable Model form [fill in the details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-hardware-consumable-model.md).
@@ -56,7 +56,7 @@ Action
 
 </td></tr><tr><td id="d128267e150">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
@@ -90,7 +90,7 @@ Action
 
 </td><td>
 
-Select the **Normalized** section and **[[consumable-model-fields|Consumable Model Fields]]** section to normalize the model manually.
+Select the **Normalized** section and **Consumable Model Fields** section to normalize the model manually.
 
 </td></tr><tr><td id="d128267e254">
 
@@ -128,11 +128,3 @@ The **Normalization Status** field displays **Manually Normalized**.
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[create-hardware-consumable-model|Create a hardware or consumable model]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[consumable-model-fields|Consumable model fields]]

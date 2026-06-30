@@ -14,7 +14,7 @@ breadcrumb: [Workplace Service Delivery, Employee Service Management]
 
 # Workplace Maintenance Management
 
-Workplace Maintenance Management provides preventive maintenance plans for enterprise assets and workplace locations. Maintenance managers can perform maintenance planning for [[workplace-services|workplace services]].
+Workplace Maintenance Management provides preventive maintenance plans for enterprise assets and workplace locations. Maintenance managers can perform maintenance planning for workplace services.
 
 ## Get started
 
@@ -43,6 +43,3 @@ Workplace Maintenance Management provides preventive maintenance plans for enter
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[workplace-services|Workplace Services]]

@@ -18,24 +18,15 @@ Admins and users with various roles, such as application admins and sales operat
 
 |Task|Description|Role|
 |----|-----------|----|
-|[[install-lead-management|Install Lead Management]]|Install Lead Management from the ServiceNow® Store Store.|Admin|
-||Assign the user roles for Lead Management, [[product-catalog-managment|Product Catalog Management]], and [[pricing-management|Pricing Management]].|Admin|
-|[[som-managing-product-catalogs|Configuring product offerings and catalogs]]|Create the product offerings and catalogs, unless they've been previously defined.|Product catalog admin|
-|[[configuring-needs-analysis|Configuring needs analysis]]|Create the needs templates for questionnaires that sales agents complete to get product recommendations for leads.|Product catalog admin|
+|[Install Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-lead-management.md)|Install Lead Management from the ServiceNow® Store Store.|Admin|
+||Assign the user roles for Lead Management, Product Catalog Management, and Pricing Management.|Admin|
+|[Configuring product offerings and catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-managing-product-catalogs.md)|Create the product offerings and catalogs, unless they've been previously defined.|Product catalog admin|
+|[Configuring needs analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-needs-analysis.md)|Create the needs templates for questionnaires that sales agents complete to get product recommendations for leads.|Product catalog admin|
 
 **Related topics**  
 
 
-[[lead-management-using|Using Lead Management]]
+[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[install-lead-management|Install Lead Management]]
-- [[som-managing-product-catalogs|Configuring product offerings and catalogs]]
-- [[configuring-needs-analysis|Configuring needs analysis]]
-- [[lead-management-using|Using Lead Management]]
-- [[lead-management|Lead Management]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[pricing-management|Pricing Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Add a Journey Accelerator action plan link to My Active Items list,
 
 # Create an Employee Center activity configuration
 
-Create or modify an [[activity-lxp|activity]] configuration to define how the [[employee-center-landing-page|Employee Center]] handles application links in My active items.
+Create or modify an activity configuration to define how the Employee Center handles application links in My active items.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Activity configurations enable administrators to control the actions of links as
 -   [Activity Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-activity-configuration-form.md)
 -   [Activity Configuration Detail form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activity-configuration-detail-form.md)
 
-The scope of an activity configuration is associated with an application. Availability of fields in an activity form depends on the selected application. This task starts in the Employee Center application and creates conditional filters applied to the [[journey-accelerator-1|Journey Accelerator]] application.
+The scope of an activity configuration is associated with an application. Availability of fields in an activity form depends on the selected application. This task starts in the Employee Center application and creates conditional filters applied to the Journey Accelerator application.
 
 ## Procedure
 
@@ -62,8 +62,4 @@ The scope of an activity configuration is associated with an application. Availa
 
 5.  Click **Submit**
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[journey-accelerator-1|Journey Accelerator]]

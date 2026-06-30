@@ -18,12 +18,12 @@ Use domain paths instead of domain spooling \(`sys_domain`\) or domain numbering
 
 Domain paths is the default query method for instances that have enabled domain separation.
 
-If you want to verify the query method on your instance, look for the following [[ca-system-properties|system properties]] in the admin dashboard:
+If you want to verify the query method on your instance, look for the following system properties in the admin dashboard:
 
 -   **If domain path is enabled**: In the System Properties table, you see `glide.sys.domain.provider=domain_paths` and `glide.sys.domain.paths.installed=true`.
 -   **If domain path is not enabled**: In the System Properties table, you see `glide.sys.domain.provider != domain_paths,glide.sys.domain.paths.installed=false`
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -62,7 +62,7 @@ If you want to verify the query method on your instance, look for the following 
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -78,8 +78,3 @@ If you want to verify the query method on your instance, look for the following 
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]

@@ -21,7 +21,7 @@ Allow the Microsoft SharePoint Online connector to crawl your sites and site col
 
 You must have PowerShell 7.0 or a later compatible version installed.
 
-You need appropriate privileges or permissions to alter permissions for the target app, which is the Microsoft Entra OAuth 2.0 app that allows the [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]] to authenticate and access your source system content. These privileges and permissions depend on which authentication model you want to use when configuring site access for the target app:
+You need appropriate privileges or permissions to alter permissions for the target app, which is the Microsoft Entra OAuth 2.0 app that allows the Microsoft SharePoint Online external content connector to authenticate and access your source system content. These privileges and permissions depend on which authentication model you want to use when configuring site access for the target app:
 
 -   To use interactive browser-based login, your Microsoft Entra account needs administration privileges.
 -   To use service principal authentication, you need a service principal for a Microsoft Entra app that has the Sites.FullControl.All Microsoft Graph API application permission granted by a Microsoft Entra admin. This service principal app is distinct from the target app. You also need one of the following items:
@@ -331,6 +331,3 @@ If you remove FullControl permissions from sites or site collections that are st
 
 **Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-sharepoint-online-external-content-connector.md)
 
-## Related
-
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]

@@ -22,7 +22,7 @@ Role required: sn\_cm\_obligation.obligation\_user
 
 ## Procedure
 
-1.  Open the obligation task from the email notification or [[employee-center-landing-page|Employee Center]].
+1.  Open the obligation task from the email notification or Employee Center.
 
 <table id="choicetable_ix4_gbl_trb"><thead><tr><th align="left" id="d407832e58">
 
@@ -54,7 +54,7 @@ Select the link in the notification email sent when an obligation task is assign
 </td></tr></tbody>
 </table>2.  In the **Attachment** field, add the required attachments.
 
-    **Note:** External storage is not available for [[cncore-obligation-management|Obligation Management]].
+    **Note:** External storage is not available for Obligation Management.
 
 3.  In the **Comments** field, add required comments.
 
@@ -67,7 +67,3 @@ The obligation task is sent for approval and the state of the task changes to Aw
 
 **Parent Topic:**[Obligation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-obligation-management.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[cncore-obligation-management|Obligation Management]]

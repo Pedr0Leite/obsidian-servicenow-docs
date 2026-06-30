@@ -14,7 +14,7 @@ breadcrumb: [Using Release Management v2, Release Management, IT Service Managem
 
 # Define a product in Release Management
 
-Define a product in the [[c_ITILReleaseManagement|Release Management]] application to facilitate managing a release process.
+Define a product in the Release Management application to facilitate managing a release process.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: release\_v2\_admin
 
 **Parent Topic:**[Using Release Management v2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_Release.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]

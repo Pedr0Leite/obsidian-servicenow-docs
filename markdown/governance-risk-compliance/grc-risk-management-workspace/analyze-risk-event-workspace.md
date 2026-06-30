@@ -37,7 +37,7 @@ If you need more information about the risk event, you can ask the submitter to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Risk events** &gt; **All events**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Risk events** &gt; **All events**.
 
 2.  Open the event to analyze and click **Analyze**.
 
@@ -64,6 +64,3 @@ If the risk event is of subtype **Actual**, create risk event entries. For more 
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

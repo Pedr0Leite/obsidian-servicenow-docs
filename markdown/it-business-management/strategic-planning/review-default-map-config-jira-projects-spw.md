@@ -14,7 +14,7 @@ breadcrumb: [Configure Jira project settings, Configure, SPW Jira Integrations, 
 
 # Review default mapping configuration for Jira projects in SPW
 
-Verify that the default mapping configuration between work items in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace \(SPW\) and Jira aligns with your team's processes.
+Verify that the default mapping configuration between work items in Strategic Planning Workspace \(SPW\) and Jira aligns with your team's processes.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Review the predefined table, field, and choice mapping configuration for a Jira 
 
 If the available mapping configuration doesn't fit your team's requirements or processes, you can create custom mappings between entities of Jira and SPW. For more information, see [Custom mapping configuration for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/custom-mapping-configuration-spw-jira.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

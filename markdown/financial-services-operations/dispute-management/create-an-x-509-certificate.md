@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Create an X.509 Certificate
 
-Create an X.509 certificate record in ServiceNow by uploading a Java Key Store \(JKS\) file and configuring the certificate settings. This enables secure authentication and encryption for [[card-data-security|Card Data Security]] applications.
+Create an X.509 certificate record in ServiceNow by uploading a Java Key Store \(JKS\) file and configuring the certificate settings. This enables secure authentication and encryption for Card Data Security applications.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ A certificate record is created.
 
 [Set up a JWT key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-key.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

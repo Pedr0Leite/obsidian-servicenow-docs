@@ -18,7 +18,7 @@ If a Twilio account is already associated with a different system, disconnect th
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_admin
+Role required: notify\_admin
 
 ## Procedure
 
@@ -33,6 +33,3 @@ Role required: [[notify-landing-page|notify]]\_admin
 
 **Parent Topic:**[Configure Notify with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ConfigureNotifyWithTwilio.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

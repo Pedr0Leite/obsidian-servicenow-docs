@@ -54,7 +54,7 @@ The health score represents the percentage of definition occurrences used across
 
 </td></tr><tr><td>
 
-Active [[scan-engine-definitions|scan engine definitions]]
+Active scan engine definitions
 
 </td><td>
 
@@ -120,7 +120,7 @@ Policy prioritized findings
 
 </td></tr><tr><td>
 
-Findings by [[impact-landing-page|impact]] to instance
+Findings by impact to instance
 
 </td><td>
 
@@ -275,7 +275,3 @@ sn\_se\_summary\_scan\_detail
 </td></tr></tbody>
 </table>**Note:** The Team Lead dashboard charts only include data for members underneath the defined team lead.
 
-## Related
-
-- [[scan-engine-definitions|Scan Engine definitions]]
-- [[impact-landing-page|Impact]]

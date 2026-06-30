@@ -14,7 +14,7 @@ breadcrumb: [Manage, Legal Simple Contracts, Legal Service Delivery Practice App
 
 # Preview and download a signed contract document
 
-[[cncore-preview-contract|Preview and download a signed contract document]].
+Preview and download a signed contract document.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Access to a contract document is based on the following user roles and condition
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon.\).
 
@@ -75,7 +75,3 @@ Select the link in the Signed Contract list in the **Details** tab
 </table>    -   If an external integration is active and published, open the external storage location to download the contract document by selecting the link in the Signed Contract list in the **Details** tab.
     -   If an external storage integration is not available, select the attachment icon in the Counsel Assist sidebar and then in the Attachments section, click the actions icon \(\[Omitted image "menu-icon.png"\] Alt text: Actions icon.\) and select **Download**.
 
-## Related
-
-- [[cncore-preview-contract|Preview and download a signed contract document]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

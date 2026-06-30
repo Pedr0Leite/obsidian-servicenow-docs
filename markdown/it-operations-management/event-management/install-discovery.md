@@ -15,11 +15,11 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Install Discovery
 
-Configure [[r-discovery|Discovery]] to lay the groundwork for AIOps success by establishing a key foundation for your team.
+Configure Discovery to lay the groundwork for AIOps success by establishing a key foundation for your team.
 
 ## Before you begin
 
-Verify that the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] plugins are installed.
+Verify that the ITOM AIOps and Now Assist for IT Operations Management plugins are installed.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -31,7 +31,7 @@ Discovery serves as the source of truth for your IT operations by automatically 
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Platform foundations**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Platform foundations**.
 
 2.  Expand **Platform foundations**.
 
@@ -39,15 +39,8 @@ Discovery serves as the source of truth for your IT operations by automatically 
 
 4.  Select **Configure Discovery**.
 
-    If the Discovery plugin is installed, the system takes you to the [[assign-disco-admin|Assign Discovery Admins]] page where you can assign users to the discovery admin role \(discovery\_admin\). If the Discovery plugin is not installed, you're directed to the IT Operations Management page where you need to install the [[itom-visibility-landing-page|ITOM Visibility]] plugin, which also installs the Discovery plugin automatically.
+    If the Discovery plugin is installed, the system takes you to the Assign Discovery Admins page where you can assign users to the discovery admin role \(discovery\_admin\). If the Discovery plugin is not installed, you're directed to the IT Operations Management page where you need to install the ITOM Visibility plugin, which also installs the Discovery plugin automatically.
 
 5.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]
-- [[assign-disco-admin|Assign Discovery admins]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

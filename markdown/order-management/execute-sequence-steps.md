@@ -49,14 +49,10 @@ Role required: Sequence executor \[sn\_crm\_sequence.executor\]
     The sequence is marked as Completed when you finish all activities in the sequence task.
 
 
-**Parent Topic:**[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+**Parent Topic:**[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
 **Related topics**  
 
 
-[[complete-telesales-sequences|Fulfill a telesales sequence]]
+[Fulfill a telesales sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/complete-telesales-sequences.md)
 
-## Related
-
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[complete-telesales-sequences|Fulfill a telesales sequence]]

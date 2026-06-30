@@ -24,7 +24,7 @@ The only applications that can be uninstalled using this activity are those that
 
 |Variable|Description|
 |--------|-----------|
-|hostname|Hostname or [[ip-address|IP address]] of the Windows target machine on which to uninstall an application.|
+|hostname|Hostname or IP address of the Windows target machine on which to uninstall an application.|
 |product|The name of the application to uninstall exactly as it appears in the Windows Add/Remove Programs list.|
 
 ## Output variables
@@ -43,6 +43,3 @@ The only applications that can be uninstalled using this activity are those that
 
 **Parent Topic:**[PowerShell activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPwrshellActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

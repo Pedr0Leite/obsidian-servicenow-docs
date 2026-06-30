@@ -14,12 +14,12 @@ breadcrumb: [Gamification, Using communities, Communities, Customer Service Mana
 
 # Gamification components
 
-The [[communities-gamification|gamification]] feature includes several components, such as [[gamification-components-rules|rules]], levels, and [[gamification-components-tracks|tracks]], that enable users to earn [[gamification-components-points|points]] and [[gamification-components-badges|badges]] for community activities.
+The gamification feature includes several components, such as rules, levels, and tracks, that enable users to earn points and badges for community activities.
 
 -   **[Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-rules.md)**  
 Gamification rules allow you to configure points that users receive for activities on the community.
 -   **[Tracks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-tracks.md)**  
-Tracks provide a way to logically separate points assigned in the [[servicenow-communities|communities]] into different areas.
+Tracks provide a way to logically separate points assigned in the communities into different areas.
 -   **[Levels and level ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-levels.md)**  
 Points accumulated by community users can help them achieve different reputation levels.
 -   **[Badges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components-badges.md)**  
@@ -29,11 +29,3 @@ Users earn gamification points by performing activities in the community.
 
 **Parent Topic:**[Gamification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/communities-gamification.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-tracks|Tracks]]
-- [[gamification-components-points|Points]]
-- [[gamification-components-badges|Badges]]
-- [[servicenow-communities|Communities]]

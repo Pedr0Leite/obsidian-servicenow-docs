@@ -32,9 +32,9 @@ Prefetch
 
 </td><td>
 
-Prefetch is the default fetch type for new screens, except form and details. This option pre-loads [[form-screen|record screen]] data while when your user accesses a list, calendar, or record screen. Lists may take longer to load, but form load time is faster.
+Prefetch is the default fetch type for new screens, except form and details. This option pre-loads record screen data while when your user accesses a list, calendar, or record screen. Lists may take longer to load, but form load time is faster.
 
- **Note:** As of the Yokohama family release, the prefetch fetch type no longer pre-loads embedded record screen data in a [[list-screen|list screen]]. Instead, it is a redirect that enhances the transition between online and offline states.
+ **Note:** As of the Yokohama family release, the prefetch fetch type no longer pre-loads embedded record screen data in a list screen. Instead, it is a redirect that enhances the transition between online and offline states.
 
 </td><td>
 
@@ -77,11 +77,6 @@ The screens for the first 10 rows load as described in the **prefetch** type. Af
 Use this fetch type when large lists load too slowly using the **prefetch** fetch type.
 
 </td></tr></tbody>
-</table>-   **[[change-fetch-type|Change the fetch type for a screen]]**  
+</table>-   **[Change the fetch type for a screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/change-fetch-type.md)**  
 Change the fetch type of a screen to change when the app loads its data.
 
-## Related
-
-- [[change-fetch-type|Change the fetch type for a screen]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

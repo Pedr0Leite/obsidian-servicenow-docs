@@ -16,12 +16,9 @@ breadcrumb: [Service Catalog and CSDM, Configuring Service Catalog, Service Cata
 
 Consider these points while implementing the CSDM framework.
 
--   The Product Catalog builds on the [[service-catalog|Service Catalog]]. Product catalogs specify the product models that are available for use. Product-specific attributes are captured in each catalog item. You can create product catalogs for each type of products in your portfolio.
+-   The Product Catalog builds on the Service Catalog. Product catalogs specify the product models that are available for use. Product-specific attributes are captured in each catalog item. You can create product catalogs for each type of products in your portfolio.
 
 -   You can create catalog types that reflect the types of offered products and services.
 
 **Parent Topic:**[Service Catalog and CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-use-case-product-view.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

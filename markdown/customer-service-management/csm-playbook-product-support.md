@@ -16,13 +16,13 @@ Use the Case Playbook for Product Support to guide agents through the steps that
 
 A product support case captures the information about the customer, the product, and the reported issue. The product support playbook provides the activities and tasks that agents can perform to research and resolve the issue. Agents can also create and assign tasks as needed and use the playbook to communicate with the customer.
 
-The Case Playbook for Product Support is available for both [[csm-workspaces-configure|CSM Configurable Workspace]] and CSM Agent Workspace. In the CSM Workspaces, the playbook appears in the **Playbook** tab on the case record.
+The Case Playbook for Product Support is available for both CSM Configurable Workspace and CSM Agent Workspace. In the CSM Workspaces, the playbook appears in the **Playbook** tab on the case record.
 
 **Note:** If you have the admin role, you can configure a playbook to use the compact mode in CSM Configurable Workspace. Use the compact mode to move the playbook from a tab in the Workspace to a tab in the contextual side panel.
 
 ## Case Playbook for Product Support application
 
-The Case Playbook for Product Support 3.0 application \(com.sn\_csm\_product\_caseflow\) is available from the ServiceNow® Store. For more information, see [[setting-up-csm-playbooks|Playbook plugins]].
+The Case Playbook for Product Support 3.0 application \(com.sn\_csm\_product\_caseflow\) is available from the ServiceNow® Store. For more information, see [Playbook plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-csm-playbooks.md).
 
 ## Case Playbook for Product Support PAD process definition
 
@@ -55,7 +55,7 @@ Focused activity view
 
 Feature that determines how the stages and activities appear in the playbook.
 
- The Case Playbook for Product Support uses the [[csm-playbook-layout|Focused activity view]], which enables agents to see
+ The Case Playbook for Product Support uses the [Focused activity view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-layout.md), which enables agents to see
 
 -   The end-to-end life cycle of the product support workflow in the playbook life-cycle panel.
 -   The current stage is expanded and the current activity is highlighted within the playbook life-cycle panel.
@@ -69,19 +69,19 @@ Contextual side panel
 
 Feature that displays the following information in the contextual side panel:
 
--   [[csm-config-ws-activity-stream|Activity stream]]
+-   Activity stream
 -   Ribbon information, such as the case overview, customer details, timeline, and SLAs
--   [[csm-contextual-related-records|Dynamic related records]]
+-   Dynamic related records
 
 **Note:** The activity stream and ribbon information are available in CSM Configurable Workspace only.
 
  For more information about using the contextual side panel, see
 
--   [[csm-playbooks-using-activity-stream|Using activity stream in the contextual side panel]]
--   [[csm-playbooks-viewing-ribbon-info|Viewing the ribbon information in the contextual side panel]]
--   [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
+-   [Using activity stream in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
+-   [Viewing the ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
+-   [Viewing dynamic related records in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
 
- For more information about configuring this feature, see [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]].
+ For more information about configuring this feature, see [Configure playbook stage and activity visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/playbook-config-activity-visibility.md).
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ The activity-level actions can also appear in the Playbook Actions menu. These a
 
 ## Case Playbook for Product Support stages and activities
 
-The following table [[migration-lists|lists]] the Case Playbook for Product Support stages and activities that agents can use to resolve customer issues.
+The following table lists the Case Playbook for Product Support stages and activities that agents can use to resolve customer issues.
 
 <table id="table_nrj_z2s_llb"><thead><tr><th>
 
@@ -263,18 +263,5 @@ The Case Playbook for Product Support v5.0 application includes a process-based 
 -   Displays the email templates in the contextual side panel.
 -   Supports case summarization card on the left panel.
 
-Agents can create tasks as needed as well as view and update case details. For more information, see [[csm-playbook-pages|Playbook pages]].
+Agents can create tasks as needed as well as view and update case details. For more information, see [Playbook pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-pages.md).
 
-## Related
-
-- [[setting-up-csm-playbooks|Playbooks in Customer Service Management]]
-- [[csm-playbook-layout|Playbook layout and features]]
-- [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
-- [[playbook-config-activity-visibility|Configure playbook stage and activity visibility]]
-- [[csm-playbook-pages|Playbook pages]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[migration-lists|Lists]]

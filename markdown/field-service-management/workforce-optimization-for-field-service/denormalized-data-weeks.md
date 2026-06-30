@@ -28,7 +28,7 @@ You can have a maximum total of 20 weeks' worth of data stored in denormalized t
 
 By default, the number of past weeks worth of data stored in denormalized tables is two weeks. By default, the number of future weeks worth of data stored in denormalized tables is 8 weeks.
 
-If you customize and add data to [[fsm-application-landing-page|Field Service Management]] from an external source, or enable or disable [[using-wfo-fsm|Workforce Optimization]] then you must follow the steps below.
+If you customize and add data to Field Service Management from an external source, or enable or disable Workforce Optimization then you must follow the steps below.
 
 ## Procedure
 
@@ -52,7 +52,4 @@ If you customize and add data to [[fsm-application-landing-page|Field Service Ma
 
 8.  Set the value to **true**, and select **Update**.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]
-- [[using-wfo-fsm|Workforce Optimization]]

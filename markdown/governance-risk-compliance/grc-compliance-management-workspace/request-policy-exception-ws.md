@@ -124,7 +124,7 @@ Source type
 
 </td><td>
 
-Type of policy exception that you want to create. The options are:-   Policy: [[t_DefineAPolicy-2|Create a policy]] exception based on a policy.
+Type of policy exception that you want to create. The options are:-   Policy: Create a policy exception based on a policy.
 -   Control objective: Default is a single control objective on which the policy exception is created.
 
 When you select a control objective, the **Impacted controls** tab appears, where you can select controls associated to the control objective.
@@ -370,7 +370,7 @@ Confidential
 Option to enable confidentiality of the record. Only the assigned confidential users or confidential groups of users can access the record.For more information on confidential option, see [Confidentiality flag for audit and compliance records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/confidentiality-flag-audit-pc.md).
 
 </td></tr></tbody>
-</table>    **Note:** In versions prior to Version 10.1, the **Risk assessment** related list was called **[[bia-uib|Business Impact Analysis]]** and required that the GRC: Risk Management application be activated. Starting in Version 10.1, the dependency on Risk Management has been removed and the associated field names have changed.
+</table>    **Note:** In versions prior to Version 10.1, the **Risk assessment** related list was called **Business Impact Analysis** and required that the GRC: Risk Management application be activated. Starting in Version 10.1, the dependency on Risk Management has been removed and the associated field names have changed.
 
     **Approved extensions**, **Remaining extensions**, **Date approved**, **Extension date**, **Extension reason**, **Original valid to** fields appear only when you’ve requested an extension on the policy exception and has been approved by the approver.
 
@@ -408,7 +408,3 @@ To request extension, click the **Request extension** button and [enter the deta
 
 Click **Request**. You can see the policy extension details in the [Schedule tab of the Policy exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-compliance-management-workspace/request-policy-exception-ws.md) after the requester has requested for an extension and the policy extension has been approved by the approver.
 
-## Related
-
-- [[t_DefineAPolicy-2|Create a policy]]
-- [[bia-uib|Business impact analysis]]

@@ -12,7 +12,7 @@ breadcrumb: [Pivot table visualizations, Create, Data visualizations, Platform A
 
 # Usage Insights data options for pivot table data visualizations
 
-When you select a [[user-exp-analytics-landing|Usage Insights]] data source for a pivot table visualization, the following Data configuration options are available.
+When you select a Usage Insights data source for a pivot table visualization, the following Data configuration options are available.
 
 **Important:** Pivot table visualizations are only suitable for Events data, not Users or Sessions. Only Events have a value to group by.
 
@@ -34,7 +34,7 @@ Data source
 
 </td><td>
 
-You have selected a Usage Insights data source in [[create-dv-pivot-ac|Create a pivot table data visualization in the Visualization Designer]].
+You have selected a Usage Insights data source in [Create a pivot table data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-pivot-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -205,7 +205,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a pivot table data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-pivot-ac.md)
 
-## Related
-
-- [[create-dv-pivot-ac|Create a pivot table data visualization in the Visualization Designer]]
-- [[user-exp-analytics-landing|Usage Insights]]

@@ -42,21 +42,16 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
 
 The case record opens in a new tab.
 
-**Parent Topic:**[[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
+**Parent Topic:**[Using Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-agentic-contact-center-for-banking.md)
 
 **Related topics**  
 
 
-[[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]
+[Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md)
 
-[[view-customer-accounts-and-transactions|View customer accounts and transactions in Agentic Contact Center for Banking]]
+[View customer accounts and transactions in Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-customer-accounts-and-transactions.md)
 
 [Summarize a banking customer profile in the Customer 360 page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-customer-profile-fso.md)
 
 [Generate customer insights in the Customer 360 page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/generate-customer-insights-customer-360-workspace.md)
 
-## Related
-
-- [[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
-- [[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]
-- [[view-customer-accounts-and-transactions|View customer accounts and transactions in Agentic Contact Center for Banking]]

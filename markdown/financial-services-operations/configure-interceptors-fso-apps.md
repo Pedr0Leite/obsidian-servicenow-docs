@@ -12,7 +12,7 @@ breadcrumb: [Request types, Configure, Financial Services Operations \(FSO\)]
 
 # Modify a request type for the Platform UI
 
-Review and modify the case interceptors that are available with [[fso-overview|Financial Services]] Operations applications as needed. These interceptors enable your agents to create cases for various request types from the Platform UI.
+Review and modify the case interceptors that are available with Financial Services Operations applications as needed. These interceptors enable your agents to create cases for various request types from the Platform UI.
 
 ## Before you begin
 
@@ -20,8 +20,8 @@ Ensure that the scope is selected for the application for which you are configur
 
 Role required: Based on the application that you are configuring, you need the following roles:
 
--   For [[payment-ops-landing-page|Financial Services Payment Operations]]: sn\_bom\_payment.admin and admin
--   For [[card-ops-landing-page|Financial Services Card Operations]]: sn\_bom\_card.admin and admin
+-   For Financial Services Payment Operations: sn\_bom\_payment.admin and admin
+-   For Financial Services Card Operations: sn\_bom\_card.admin and admin
 
 ## About this task
 
@@ -81,8 +81,3 @@ Credit Card Service
 
 The interceptor is updated with the configured request types. When an agent clicks the **New** button on a case list in Platform UI, it launches the interceptor with these request types. The agent can select one of the request types to create the case.
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[card-ops-landing-page|Financial Services Card Operations]]

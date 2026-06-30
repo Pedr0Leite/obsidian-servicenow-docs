@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Experience Score, Digital End-User Experience, I
 
 # DEX Score survey configuration form
 
-Update the configuration for sending the surveys to collect feedback from employees on the usage of [[dex-workspace-application-tab|applications]] and [[dex-workspace-devices-tab|devices]].
+Update the configuration for sending the surveys to collect feedback from employees on the usage of applications and devices.
 
 For more information, see [Update DEX Score survey configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-set-survey-config.md).
 
@@ -87,7 +87,3 @@ This field appears only when **Application** is selected from**Survey feedback t
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital Experience Score​ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-reference.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

@@ -12,11 +12,11 @@ breadcrumb: [Security incidents in cases, Case creation from security artifacts,
 
 # Create a case from security incidents
 
-In [[sir-landing-page|Security Incident Response]], you can create cases from security incidents. After the security incidents have been used to create a new case, you can use [[case-mgmt|Security Case Management]] to analyze the data.
+In Security Incident Response, you can create cases from security incidents. After the security incidents have been used to create a new case, you can use Security Case Management to analyze the data.
 
 ## Before you begin
 
-The [[threat-intel-landing-page|Threat Intelligence]] plugin must be activated to use Security Case Management.
+The Threat Intelligence plugin must be activated to use Security Case Management.
 
 Role required: sn\_ti.case\_user\_write
 
@@ -56,16 +56,10 @@ You need to navigate to the security incidents you want to use to create cases.
 7.  Click the link to view the new case.
 
 
-**Parent Topic:**[[case-in-sir|Security incidents in cases]]
+**Parent Topic:**[Security incidents in cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-in-sir.md)
 
 **Related topics**  
 
 
 [Add security incidents to an existing case]()
 
-## Related
-
-- [[case-in-sir|Security incidents in cases]]
-- [[sir-landing-page|Security Incident Response]]
-- [[case-mgmt|Security Case Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -20,7 +20,7 @@ Allocate IP address slots in bulk from an IP Subnetwork. The system creates one 
 
 Before you begin:
 
--   Install all required [[telecom-network-inventory|Telecommunications Network Inventory]] plugins.
+-   Install all required Telecommunications Network Inventory plugins.
 -   Role required: `core.dc_ops_agent, sn_ni_core.inventory_agent`
 -   The IP Subnetwork must be in an active state \(Life Cycle Stage = Operational and Life Cycle Stage Status = In Use\).
 -   The subnetwork must not already have allocated IP records. To re-allocate, delete the existing allocated IP records first.
@@ -34,11 +34,11 @@ This task is the first step of the per-host allocation method. If you instead wa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]** or **Service Operations Workspace**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace** or **Service Operations Workspace**.
 
 2.  Open the IP Subnetwork record.
 
-    \(**[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **IP Network Subnets** &gt; select the subnetwork.\)
+    \(**Inventory Number Allocation** &gt; **IP Network Subnets** &gt; select the subnetwork.\)
 
 3.  Select the **Allocated IP Address** tab.
 
@@ -80,8 +80,3 @@ Create IP Address records from one or more of the allocated IP slots. See [Creat
 
 [Create an IP Subnetwork record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-an-ip-subnetwork-record.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]

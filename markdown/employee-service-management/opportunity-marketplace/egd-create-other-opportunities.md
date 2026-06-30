@@ -14,7 +14,7 @@ breadcrumb: [Use Opportunity Marketplace, Opportunity Marketplace, Hiring Experi
 
 # Create opportunities in Opportunity Marketplace
 
-Opportunity owners create gigs, projects, and [[egd-oppt-mrktplc-volunteer|volunteer opportunities]]. Opportunity details for Project type opportunities can be imported from projects in the ServiceNow Project Workspace. These opportunities are different from [[egd-oppt-mrktplc-internal-job|internal jobs]]. OPM enables you to manage any opportunities you create and track applications. The ability to create opportunities is based on user criteria.
+Opportunity owners create gigs, projects, and volunteer opportunities. Opportunity details for Project type opportunities can be imported from projects in the ServiceNow Project Workspace. These opportunities are different from internal jobs. OPM enables you to manage any opportunities you create and track applications. The ability to create opportunities is based on user criteria.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], go to **[[egd-oppt-mrktplc-landing|Opportunity Marketplace]]** &gt; **Opportunities you own**.
+1.  From the Employee Center, go to **Opportunity Marketplace** &gt; **Opportunities you own**.
 
     Any existing opportunities that you own are listed. For the first opportunity you create, you see the message **No opportunities yet**.
 
@@ -63,7 +63,7 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
 6.  Select **Add a role**.
 
-    **Note:** Because a gig can contain only one role, adding additional roles isn't available for [[egd-oppt-mrktplc-gig|Gig opportunities]].
+    **Note:** Because a gig can contain only one role, adding additional roles isn't available for Gig opportunities.
 
 7.  Fill in the form with the role details.
 
@@ -80,10 +80,3 @@ Role required: No role required, but you must be a licensed user for the Talent 
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-volunteer|Volunteer opportunities]]
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]
-- [[egd-oppt-mrktplc-gig|Gig opportunities]]

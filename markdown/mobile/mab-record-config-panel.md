@@ -12,14 +12,9 @@ breadcrumb: [Record screen, Mobile App Builder, Building tools, Building mobile 
 
 # Configuration panel within a record screen
 
-The configuration panel is the main work area of the [[mab-concept|Mobile App Builder]] where you perform the editing of your records.
+The configuration panel is the main work area of the Mobile App Builder where you perform the editing of your records.
 
-When you select a record, field types that are specific to the selected record open in the configuration panel. For a list of all the different field types and their usage, see [[mab-record-screen-input-types|Record screen input field types]]. Not all fields require input or editing and only the fields marked with an asterisk \(\[Omitted image "mab-mandatory-star.png"\] Alt text: Asterisk to indicate a mandatory field.\) are required.
+When you select a record, field types that are specific to the selected record open in the configuration panel. For a list of all the different field types and their usage, see [Record screen input field types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mab-record-screen-input-types.md). Not all fields require input or editing and only the fields marked with an asterisk \(\[Omitted image "mab-mandatory-star.png"\] Alt text: Asterisk to indicate a mandatory field.\) are required.
 
-\[Omitted image "mab-config-panel.png"\] Alt text: Configuration panel in the [[form-screen|record screen]].
+\[Omitted image "mab-config-panel.png"\] Alt text: Configuration panel in the record screen.
 
-## Related
-
-- [[mab-record-screen-input-types|Record screen input field types]]
-- [[mab-concept|Mobile App Builder]]
-- [[form-screen|Record screen]]

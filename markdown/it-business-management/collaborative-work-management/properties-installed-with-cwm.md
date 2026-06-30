@@ -16,7 +16,7 @@ breadcrumb: [Reference, Collaborative Work Management, Strategic Portfolio Manag
 
 System properties that you can configure to include other ServiceNow AI Platform records in CWM Docs and modify the way non-CWM users request access to the workspace.
 
-These properties are available for [[cwm-landing|Collaborative Work Management]].
+These properties are available for Collaborative Work Management.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -126,6 +126,3 @@ Property to enable live presence indicators of users on a Doc page.
 </td></tr></tbody>
 </table>**Parent Topic:**[Collaborative Work Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/reference-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

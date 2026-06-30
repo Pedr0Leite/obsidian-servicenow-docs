@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.kb\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Knowledge Management** &gt; **Create New Article**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Knowledge Management** &gt; **Create New Article**.
 
 2.  Fill in the fields on the form.
 
@@ -132,6 +132,3 @@ Check box for enabling the display of attachment. If selected, attached files ar
 
 **Parent Topic:**[HR Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-knowledge-management.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

@@ -89,7 +89,7 @@ Do not ask users to confirm recognized entity
 
 </td><td>
 
-Select this option to avoid having [[virtual-agent-landing-page|Virtual Agent]] ask the user to confirm the location.
+Select this option to avoid having Virtual Agent ask the user to confirm the location.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -203,6 +203,3 @@ For more information about default system entities, see [NLU system entities](ht
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

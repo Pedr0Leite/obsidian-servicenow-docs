@@ -15,7 +15,7 @@ breadcrumb: [Zoom external content connector, Configure, External Content Connec
 
 # Configure Zoom for external content indexing
 
-Create and activate a Server-to-Server OAuth app in the Zoom App Marketplace to allow the [[zoom-external-content-connector|Zoom external content connector]] to access your Zoom source system.
+Create and activate a Server-to-Server OAuth app in the Zoom App Marketplace to allow the Zoom external content connector to access your Zoom source system.
 
 ## Before you begin
 
@@ -135,6 +135,3 @@ For details on creating and configuring a Zoom external content connector, see [
 
 **Parent Topic:**[Zoom external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zoom-external-content-connector.md)
 
-## Related
-
-- [[zoom-external-content-connector|Zoom external content connector]]

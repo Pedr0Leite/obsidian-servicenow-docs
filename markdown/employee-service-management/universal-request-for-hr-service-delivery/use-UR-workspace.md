@@ -14,9 +14,9 @@ breadcrumb: [Agent Workspaces, Universal Request, Employee Service Management]
 
 # Using Universal Request in Agent Workspaces
 
-As a Routing Agent, use the [[universal-request-workspace|Universal Request in Agent Workspaces]] to view, create, edit and resolve universal requests.
+As a Routing Agent, use the Universal Request in Agent Workspaces to view, create, edit and resolve universal requests.
 
-You can start working on [[ur-landing-limitedaccess|Universal Request]] in the Agent Workspaces from one of these areas:
+You can start working on Universal Request in the Agent Workspaces from one of these areas:
 
 -   Landing page
 -   List queue
@@ -269,7 +269,7 @@ Role required: admin
 
 ### About this task
 
-You can [[cancel-ur|cancel a universal request]] only if there are no active or closed primary tickets attached to it. Also, the state of UR must be either **New** or **In Progress**. When the UR is canceled, email notifications are sent to the stakeholders associated with the request.
+You can cancel a universal request only if there are no active or closed primary tickets attached to it. Also, the state of UR must be either **New** or **In Progress**. When the UR is canceled, email notifications are sent to the stakeholders associated with the request.
 
 ### Procedure
 
@@ -315,7 +315,7 @@ Role required: sn\_uni\_req.routing\_agent or admin
 
 ## Transfer primary ticket in Agent Workspaces
 
-You can [[route-primarytask-to-ur|transfer a primary ticket]] back to Universal Request, service set \(department\), or service either with resolution or without resolution.
+You can transfer a primary ticket back to Universal Request, service set \(department\), or service either with resolution or without resolution.
 
 ### Before you begin
 
@@ -340,7 +340,7 @@ When you transfer a ticket back to universal request, you can transfer it with o
 
 \[Omitted image "route-dialog-aws.png"\] Alt text: Choose transfer reason
 
-Configure the **sn\_uni\_req.transfer\_type** property in the **[[ur-properties|Universal Request properties]]** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
+Configure the **sn\_uni\_req.transfer\_type** property in the **Universal Request properties** page to determine how to handle the primary ticket transfers. For more information, see [Universal Request properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-properties.md).
 
 ### Procedure
 
@@ -416,10 +416,4 @@ Role required: sn\_uni\_req.sensitiveinfo\_agent or service specific assignment 
 
     **Note:** To mark the request as unrestricted only agents with the access role can modify.
 
-## Related
 
-- [[universal-request-workspace|Universal Request in Agent Workspaces]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[cancel-ur|Cancel a universal request]]
-- [[route-primarytask-to-ur|Transfer a primary ticket]]
-- [[ur-properties|Universal Request properties]]

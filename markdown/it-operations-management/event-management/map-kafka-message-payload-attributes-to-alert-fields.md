@@ -22,9 +22,9 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Depending on your payload, Use event field mappings to provide more comprehensive information in an event alert by substituting values from the event field mapping rule into the event. Depending on your payload, transform information in events to populate specified alert field values and compose alert fields from various values to generate alerts for tracking and [[ccg-remediation|remediation]]. If needed, use both event field mappings and alert rules.
+Depending on your payload, Use event field mappings to provide more comprehensive information in an event alert by substituting values from the event field mapping rule into the event. Depending on your payload, transform information in events to populate specified alert field values and compose alert fields from various values to generate alerts for tracking and remediation. If needed, use both event field mappings and alert rules.
 
-The following table compares a message received from a topic and a flattened payload in the event **Additional info** field. The message received from a topic is flattened as a single field and appears in the event **Additional info** field. Use these flattened messages to create [[create-event-rules|event rules]] and mappings.
+The following table compares a message received from a topic and a flattened payload in the event **Additional info** field. The message received from a topic is flattened as a single field and appears in the event **Additional info** field. Use these flattened messages to create event rules and mappings.
 
 <table id="table_v4p_xtx_svb"><thead><tr><th>
 
@@ -131,7 +131,7 @@ Flattened payload in the Additional Info field
 
 1.  To map the Kafka message attributes to the predefined alert fields to generate alerts by creating event field mappings.
 
-    1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Field Mapping**.
+    1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Field Mapping**.
 
     2.  In the Event Field Mapping window, select **New**.
 
@@ -185,19 +185,12 @@ Flattened payload in the Additional Info field
 
         For more information on creating event rules, see [Event Rules.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/create-or-edit-event-rule.md)
 
-        If no event field mappings exist to handle the new type of event, [[t_EMCreateEventFieldMapping2|create event field mappings]]. For more information, see [Create event field mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateEventFieldMapping2.md).
+        If no event field mappings exist to handle the new type of event, create event field mappings. For more information, see [Create event field mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateEventFieldMapping2.md).
 
 
 ## Result
 
-Your [[apache-kafka-consumer-connector|Apache Kafka consumer connector]] is configured. When new messages arrive into the Kafka topic, they are received into the ServiceNow instance as events, and alerts are then created from those events.
+Your Apache Kafka consumer connector is configured. When new messages arrive into the Kafka topic, they are received into the ServiceNow instance as events, and alerts are then created from those events.
 
 **Parent Topic:**[Apache Kafka Consumer Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/apache-kafka-consumer-connector.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]
-- [[t_EMCreateEventFieldMapping2|Create event field mappings]]
-- [[apache-kafka-consumer-connector|Apache Kafka Consumer Connector]]

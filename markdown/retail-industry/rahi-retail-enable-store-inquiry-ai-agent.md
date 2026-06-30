@@ -18,7 +18,7 @@ The HQ agent can leverage the store inquiry AI agent either manually or by enabl
 
 Role required: sn\_rtl\_stre\_servcs.agent
 
-You must have the [[rahi-retail-operations-overview|Retail]] Core, [[rahi-retail-retail-mobile|Retail Mobile application]], and Retail Store Inquiry.
+You must have the Retail Core, Retail Mobile application, and Retail Store Inquiry.
 
 ## Procedure
 
@@ -28,7 +28,4 @@ You must have the [[rahi-retail-operations-overview|Retail]] Core, [[rahi-retail
 
 3.  Select the **Trigger** &gt; **Add a new trigger** or select the existing trigger and toggle the **Trigger if ON** option to enable the trigger and save it to launch the AI agent automatically.
 
-## Related
 
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-mobile|Retail mobile application]]

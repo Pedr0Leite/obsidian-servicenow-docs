@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Configure tabs in the contextual side panel
 
-Use the **inlineTabExclusion** UX page property to prevent tabs from appearing in the configurable side panel in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Use the **inlineTabExclusion** UX page property to prevent tabs from appearing in the configurable side panel in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -50,6 +50,4 @@ In the mapping for this property, the key represents the tab to be hidden and th
 
 5.  Select **Update**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

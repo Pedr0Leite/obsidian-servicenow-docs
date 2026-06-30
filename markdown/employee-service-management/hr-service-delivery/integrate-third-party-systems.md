@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Integration of HR Service Delivery with third-party systems
 
-Extend [[hr-service-delivery|HR Service Delivery]] capabilities by integrating with other third-party systems.
+Extend HR Service Delivery capabilities by integrating with other third-party systems.
 
 -   [HR Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/scoped-hr-third-party-integrations.md)
 -   [Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-integrations-framework.md)
@@ -38,6 +38,3 @@ Extend [[hr-service-delivery|HR Service Delivery]] capabilities by integrating w
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

@@ -14,7 +14,7 @@ breadcrumb: [State flows, Exploring Service Administration, Service Administrati
 
 Several types of components are installed with state flows.
 
-**Parent Topic:**[[c_StateFlows|State flows]]
+**Parent Topic:**[State flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_StateFlows.md)
 
 ## Tables installed with state flows
 
@@ -80,7 +80,7 @@ Adds or deletes event rules, as the event field is updated.
 
 </td></tr><tr><td>
 
-Check [[c_WorkNotes|Work Notes]] Rule
+Check Work Notes Rule
 
 </td><td>
 
@@ -112,7 +112,7 @@ State Flow \[sf\_state\_flow\]
 
 </td><td>
 
-[[r_ServiceCatalogScriptingExtensn|Create scripts]] for field controls, when they are in use.
+Create scripts for field controls, when they are in use.
 
 </td></tr><tr><td>
 
@@ -184,8 +184,3 @@ Script includes are added with state flows.
 |StateFlow|Implements state flows and supports creation of state flow elements, such as business rules, UI actions, dictionary overrides, and client scripts.|
 |StateFlowAJAX|Allows access to state flow functionality from client scripts.|
 
-## Related
-
-- [[c_StateFlows|State flows]]
-- [[c_WorkNotes|Work notes]]
-- [[r_ServiceCatalogScriptingExtensn|Create scripts]]

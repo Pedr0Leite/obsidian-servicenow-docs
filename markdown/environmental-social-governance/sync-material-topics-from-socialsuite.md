@@ -41,20 +41,14 @@ When you sync material topics, the system imports assessment data from Socialsui
 
 ## Result
 
-Material topics from the selected reporting period are imported from Socialsuite. The imported topics display **Socialsuite** in the Material topic source column and appear in workflow states based on their status in Socialsuite. For more information about how Socialsuite states map to your ServiceNow instance states, see [[material-topic-workflow-and-states|Material topic workflow and states]].
+Material topics from the selected reporting period are imported from Socialsuite. The imported topics display **Socialsuite** in the Material topic source column and appear in workflow states based on their status in Socialsuite. For more information about how Socialsuite states map to your ServiceNow instance states, see [Material topic workflow and states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/material-topic-workflow-and-states.md).
 
-**Parent Topic:**[[integrate-operational-sustainability-with-SocialSuite|Integrating Operational Sustainability Management with Socialsuite]]
+**Parent Topic:**[Integrating Operational Sustainability Management with Socialsuite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-operational-sustainability-with-SocialSuite.md)
 
 **Related topics**  
 
 
-[[socialsuite-material-topic-fields|Socialsuite material topic fields]]
+[Socialsuite material topic fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/socialsuite-material-topic-fields.md)
 
-[[socialsuite-import-log|Socialsuite import log]]
+[Socialsuite import log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/socialsuite-import-log.md)
 
-## Related
-
-- [[material-topic-workflow-and-states|Material topic workflow and states]]
-- [[integrate-operational-sustainability-with-SocialSuite|Integrating Operational Sustainability Management with Socialsuite]]
-- [[socialsuite-material-topic-fields|Socialsuite material topic fields]]
-- [[socialsuite-import-log|Socialsuite import log]]

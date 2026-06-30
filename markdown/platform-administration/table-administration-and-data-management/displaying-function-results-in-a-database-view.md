@@ -14,7 +14,7 @@ breadcrumb: [Work with database views, Table admin, Tables and data, Configure c
 
 # Displaying function results in a database view
 
-Enhance the display of a database view by adding a [[platform-support-functions|function field]] to the output to display function [[hs-results|results]].
+Enhance the display of a database view by adding a function field to the output to display function results.
 
 Function fields perform common database transformations and calculations on fields in the system. Function fields do not store any data, but rather display the results of a database query when the function is executed.
 
@@ -36,7 +36,3 @@ Add a function field to the output of a database view to see function results.
 
 [Database views in the base system]()
 
-## Related
-
-- [[platform-support-functions|Function field]]
-- [[hs-results|Results]]

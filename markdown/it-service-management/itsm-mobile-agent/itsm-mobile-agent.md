@@ -22,7 +22,7 @@ Watch this three-minute video to learn more about ITSM Mobile Agent. This video 
 
 ## Get started
 
-ITSM Mobile Agent assists IT agents with an intuitive interface to manage all their work, view schedules, check who is on call, respond to major incidents, and more. The agent can also view incident details and activity; edit an incident and add comments; resolve, assign, or reassign an incident; and [[t_ViewIncidentNotification|view incident notifications]].
+ITSM Mobile Agent assists IT agents with an intuitive interface to manage all their work, view schedules, check who is on call, respond to major incidents, and more. The agent can also view incident details and activity; edit an incident and add comments; resolve, assign, or reassign an incident; and view incident notifications.
 
 <table id="table_vth_41n_fzb" class="nav-card"><tbody><tr><td>
 
@@ -42,11 +42,11 @@ ITSM Mobile Agent assists IT agents with an intuitive interface to manage all th
 
 </td><td>
 
-[Manage major incidents\[Omitted image "bus-improve-it-costs.svg"\] Alt text:View [[process-misingle|active major incidents]], proposed major incidents, candidates, and the Major incidents dashboard.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/mim-mobile.md)
+[Manage major incidents\[Omitted image "bus-improve-it-costs.svg"\] Alt text:View active major incidents, proposed major incidents, candidates, and the Major incidents dashboard.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/mim-mobile.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:[[settings-mobile|Settings]] and domain information about ITSM Mobile agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/reference-for-itsm-mobile-agent.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Settings and domain information about ITSM Mobile agent.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/reference-for-itsm-mobile-agent.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -54,8 +54,3 @@ ITSM Mobile Agent assists IT agents with an intuitive interface to manage all th
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[t_ViewIncidentNotification|View incident notifications]]
-- [[process-misingle|Active major incidents]]
-- [[settings-mobile|Settings]]

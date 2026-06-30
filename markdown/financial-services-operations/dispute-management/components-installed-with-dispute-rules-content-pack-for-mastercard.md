@@ -14,11 +14,11 @@ breadcrumb: [Reference, Dispute Rules Content Pack for Mastercard, Dispute Manag
 
 # Components installed
 
-Several types of components are installed with the installation of the [[dispute-rules-content-pack-for-mastercard-landing-page|Dispute Rules Content Pack for Mastercard]] plugin, including tables.
+Several types of components are installed with the installation of the Dispute Rules Content Pack for Mastercard plugin, including tables.
 
 ## Plugins
 
-**Note:** The Dispute Rules Content Pack for Mastercard application is dependent on the [[card-ops-landing-page|Financial Services Card Operations]] and [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]] applications.
+**Note:** The Dispute Rules Content Pack for Mastercard application is dependent on the Financial Services Card Operations and Dispute Rules Content Pack for Visa applications.
 
 |Plugin|Description|
 |------|-----------|
@@ -35,8 +35,3 @@ Several types of components are installed with the installation of the [[dispute
 
 **Parent Topic:**[Dispute Rules Content Pack for Mastercard reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-rules-content-pack-for-mastercard-reference.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-mastercard-landing-page|Dispute Rules Content Pack for Mastercard]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]

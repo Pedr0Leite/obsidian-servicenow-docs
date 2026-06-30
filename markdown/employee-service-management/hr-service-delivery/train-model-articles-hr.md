@@ -14,7 +14,7 @@ breadcrumb: [Machine learning solutions for HR Service Delivery, Integration of 
 
 # Discovering similar knowledge articles for HR cases
 
-[[discover-lxp|Discover]] similar information across knowledge articles based on the short description of the HR case and the text in the related search results. Display such similar knowledge articles to an HR agent to resolve a case.
+Discover similar information across knowledge articles based on the short description of the HR case and the text in the related search results. Display such similar knowledge articles to an HR agent to resolve a case.
 
 ## Similar knowledge articles
 
@@ -32,9 +32,5 @@ The Similar Knowledge Articles for HR Case solution definition is configured and
 
 You can also [manually train the predictive model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-predictive-intelligence-train.md) if it is not auto trained by default.
 
-**Parent Topic:**[Machine [[exploring-learning-exp|learning]] solutions for HR Service Delivery]()
+**Parent Topic:**[Machine learning solutions for HR Service Delivery]()
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[exploring-learning-exp|Learning]]

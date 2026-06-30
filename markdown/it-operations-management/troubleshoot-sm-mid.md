@@ -12,7 +12,7 @@ breadcrumb: [Troubleshoot synthetic monitors, Synthetic monitoring reference, Sy
 
 # Upgrade issues
 
-What to do when monitors don't work after upgrading [[synthetic-monitoring-landing-page|synthetic monitoring]].
+What to do when monitors don't work after upgrading synthetic monitoring.
 
 ## Condition
 
@@ -26,9 +26,5 @@ After upgrading synthetic monitoring, if the monitor is hosted on a MID Server, 
 
 Restart the MID Server. See [Manually start, stop, and restart a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_InstallMIDServerAsWinService.md).
 
-**Parent Topic:**[[troubleshoot-synthetic-monitors|Troubleshoot synthetic monitors]]
+**Parent Topic:**[Troubleshoot synthetic monitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/troubleshoot-synthetic-monitors.md)
 
-## Related
-
-- [[troubleshoot-synthetic-monitors|Troubleshoot synthetic monitors]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]

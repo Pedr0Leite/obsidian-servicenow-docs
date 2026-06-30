@@ -14,13 +14,13 @@ breadcrumb: [Configure healthcare case types, Configure, EMR Help, Healthcare an
 
 # Create a custom healthcare case type
 
-Create a custom healthcare case type for [[emr-exploring|EMR Help]].
+Create a custom healthcare case type for EMR Help.
 
 ## Before you begin
 
 Role required: admin.
 
-Set your scope to [[hcls-core-app|Healthcare and Life Sciences Service Management Core]].
+Set your scope to Healthcare and Life Sciences Service Management Core.
 
 ## About this task
 
@@ -69,7 +69,3 @@ You now have a new case type extended from the abstract case type Healthcare cas
 
 [Configure the record producer for your healthcare case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/configure-the-record-producer-for-your-hcls-case-type.md).
 
-## Related
-
-- [[emr-exploring|EMR Help]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

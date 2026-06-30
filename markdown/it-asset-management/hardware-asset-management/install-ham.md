@@ -14,7 +14,7 @@ breadcrumb: [Configure, Hardware Asset Management, IT Asset Management]
 
 # Install Hardware Asset Management
 
-You can install the [[ham-landing-page|Hardware Asset Management]] application \(sn\_hamp\) if you have the admin role. The application includes demo data. Install related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Hardware Asset Management application \(sn\_hamp\) if you have the admin role. The application includes demo data. Install related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: ham\_admin
 
 ## About this task
 
-The following items are [[installed-with-ham|installed with Hardware Asset Management]]:
+The following items are installed with Hardware Asset Management:
 
 -   Roles
 -   Scheduled jobs
@@ -54,7 +54,4 @@ For more information, see [Installed with Hardware Asset Management](https://raw
 
 6.  Select **Install**.
 
-## Related
 
-- [[ham-landing-page|Hardware Asset Management]]
-- [[installed-with-ham|Installed with Hardware Asset Management]]

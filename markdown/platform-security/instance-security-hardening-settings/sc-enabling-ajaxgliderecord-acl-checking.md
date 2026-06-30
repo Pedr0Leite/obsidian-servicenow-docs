@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Require AJAXGlideRecord ACL checking
 
-Use the **glide.script.secure.ajaxgliderecord** property to perform [[sc-access-control|access control]] rule \(ACL\) validation when server-side records, such as tables, are accessed using GlideAjax APIs within a client script.
+Use the **glide.script.secure.ajaxgliderecord** property to perform access control rule \(ACL\) validation when server-side records, such as tables, are accessed using GlideAjax APIs within a client script.
 
 The **glide.script.secure.ajaxgliderecord** systm property toggles ACL validation for GlideAjax API calls. If **glide.script.secure.ajaxgliderecord** is not set to the recommended value of **true**, then ACL validation will not be completed for GlideAjax requests.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 8.1
 -   CVSS rating: High
--   Security risk details: This could lead to server-side resources being accessed by [[users|users]] without proper authorization.
+-   Security risk details: This could lead to server-side resources being accessed by users without proper authorization.
 
 </td></tr><tr><td>
 
@@ -119,9 +119,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

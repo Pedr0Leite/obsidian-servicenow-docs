@@ -14,7 +14,7 @@ breadcrumb: [Incident Management plugins, Reference, Incident Management, IT Ser
 
 # Request ITSM Roles — Incident Management
 
-Request the ITSM Roles plugin \(com.snc.itsm.roles\) to activate the ITSM Roles — [[c_IncidentManagement|Incident Management]] plugin \(com.snc.itsm.roles.incident\_management\) to gain more control over the access that different service desk agents, technicians, and managers have within your Incident Management process.
+Request the ITSM Roles plugin \(com.snc.itsm.roles\) to activate the ITSM Roles — Incident Management plugin \(com.snc.itsm.roles.incident\_management\) to gain more control over the access that different service desk agents, technicians, and managers have within your Incident Management process.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The ITSM Roles plugin \(com.snc.itsm.roles\) includes an additional security model. The security model provides more granular roles across ITSM [[dex-workspace-application-tab|applications]] as well as within them, allowing you flexibility in setting up access controls. The ITSM Roles plugin is available by default in new instances. Users upgrading from Madrid or earlier versions must request the plugin.
+The ITSM Roles plugin \(com.snc.itsm.roles\) includes an additional security model. The security model provides more granular roles across ITSM applications as well as within them, allowing you flexibility in setting up access controls. The ITSM Roles plugin is available by default in new instances. Users upgrading from Madrid or earlier versions must request the plugin.
 
 <table id="table_ayg_r2j_nhb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ ITSM Roles — Incident Management \[com.snc.itsm.roles.incident\_management\]
 
 </td></tr><tr><td>
 
-ITSM Roles — [[c_ProblemManagement|Problem Management]] \[com.snc.itsm.roles.problem\_management\]
+ITSM Roles — Problem Management \[com.snc.itsm.roles.problem\_management\]
 
 </td><td>
 
@@ -63,7 +63,7 @@ ITSM Roles — [[c_ProblemManagement|Problem Management]] \[com.snc.itsm.roles.p
 
 </td></tr><tr><td>
 
-ITSM Roles — [[c_ITILChangeManagement|Change Management]] \[com.snc.itsm.roles.change\_management\]
+ITSM Roles — Change Management \[com.snc.itsm.roles.change\_management\]
 
 </td><td>
 
@@ -72,7 +72,7 @@ ITSM Roles — [[c_ITILChangeManagement|Change Management]] \[com.snc.itsm.roles
 
 </td></tr><tr><td>
 
-ITSM Roles — [[c_RequestManagement|Request Management]] \[com.snc.service\_management.roles.request\_management\]
+ITSM Roles — Request Management \[com.snc.service\_management.roles.request\_management\]
 
 </td><td>
 
@@ -149,10 +149,3 @@ Several user roles are installed with activation of the ITSM Roles — Incident 
 
 [List of Australia plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_RequestManagement|Request Management]]

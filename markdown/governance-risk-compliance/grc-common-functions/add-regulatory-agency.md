@@ -34,7 +34,7 @@ As a case analyst, you can choose and add the regulatory agency that is related 
 
 2.  Select **New**.
 
-3.  On the [[create-new-agency-form|Create New Agency form]], fill in the fields.
+3.  On the Create New Agency form, fill in the fields.
 
     For a description of the fields, see [Create New Agency form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-agency-form.md).
 
@@ -42,11 +42,7 @@ As a case analyst, you can choose and add the regulatory agency that is related 
 
 
 -   **[Create New Agency form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-agency-form.md)**  
-Use the Create New Agency form in Compliance Workspace to create a regulatory agency. The regulatory agency is a new record type that handles regulatory changes or [[compliance-case-management|compliance case management]].
+Use the Create New Agency form in Compliance Workspace to create a regulatory agency. The regulatory agency is a new record type that handles regulatory changes or compliance case management.
 
 **Parent Topic:**[Regulatory Agency Library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/regulatory-agency-library-rcm.md)
 
-## Related
-
-- [[create-new-agency-form|Create New Agency form]]
-- [[compliance-case-management|compliance case management]]

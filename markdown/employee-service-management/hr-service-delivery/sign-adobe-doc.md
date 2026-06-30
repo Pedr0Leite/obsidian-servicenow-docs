@@ -14,7 +14,7 @@ breadcrumb: [Document Template integration with AdobeSign, Integration of HR Ser
 
 # Configure document templates for Adobe Sign
 
-Configure [[document-templates-overview|document templates]] to enable signing using the Adobe Sign application.
+Configure document templates to enable signing using the Adobe Sign application.
 
 ## Before you begin
 
@@ -36,6 +36,3 @@ Role required: sn\_dt\_adobesign.admin
 
 User who receives the document task can use the Adobe Sign application for signing the document.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

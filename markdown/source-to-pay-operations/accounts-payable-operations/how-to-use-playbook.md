@@ -23,13 +23,13 @@ Role required: Accounts Payable specialist
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]** &gt; **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]**.
+1.  Navigate to **Source-to-Pay Workspace** &gt; **All** &gt; **Accounts Payable Operations**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 
     A list of options within the workspace is displayed.
 
-3.  Select **[[invoices|Invoices]] &gt;****All invoices.**
+3.  Select **Invoices &gt;****All invoices.**
 
     You can create an invoice manually. For more information on invoices, see [Work with invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md).
 
@@ -53,9 +53,9 @@ Role required: Accounts Payable specialist
 
         Manually review the invoice lines associated with the invoice processing case.
 
-    5.  When tax integration is disabled, you can create [[create-tax-lines-apo|tax lines]] from related list of invoice lines or invoice case.
+    5.  When tax integration is disabled, you can create tax lines from related list of invoice lines or invoice case.
 
-    6.  Select **Add new invoice lines** to [[create-invoice|create invoice]] lines.
+    6.  Select **Add new invoice lines** to create invoice lines.
 
     7.  Select **Continue** to move to the next activity in the playbook.
 
@@ -71,7 +71,7 @@ Role required: Accounts Payable specialist
 
     12. Select the **Tax type** to be associated with the invoice line.
 
-    13. Enter the **[[supplier|Supplier]] tax rate** details.
+    13. Enter the **Supplier tax rate** details.
 
     14. Enter the **Supplier tax** details.
 
@@ -103,11 +103,11 @@ Role required: Accounts Payable specialist
 
 7.  Select the **Map invoice lines** card.
 
-    If the invoice is a PO invoice or [[invoice-type-credit-memo|credit memo]] invoice of type PO and the invoice doesn't run into a matching error, then the **Map invoice lines** card is set to auto-complete. However, if the invoice is of type Non-PO invoice or a credit memo invoice of type Non-PO, the stage is skipped.
+    If the invoice is a PO invoice or credit memo invoice of type PO and the invoice doesn't run into a matching error, then the **Map invoice lines** card is set to auto-complete. However, if the invoice is of type Non-PO invoice or a credit memo invoice of type Non-PO, the stage is skipped.
 
     1.  Verify the **Map invoice lines** card.
 
-    2.  Verify the **Verify [[purchase-order-table|Purchase Order]]** card.
+    2.  Verify the **Verify Purchase Order** card.
 
         Verify the purchase order details associated with an invoice.
 
@@ -117,7 +117,7 @@ Role required: Accounts Payable specialist
 
     5.  In the **Review PO line mapping** card, review the PO lines associated with the purchase order to identify the lines that is mapped to the invoice line.
 
-    6.  You can edit the invoice lines and match the invoice lines with the corresponding [[purchase-order-lines|purchase order lines]].
+    6.  You can edit the invoice lines and match the invoice lines with the corresponding purchase order lines.
 
     The swim lane moves to **Review compliance**. For more details on tax compliance, see [Tax integration in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tax-integration-in-playbook.md).
 
@@ -149,7 +149,7 @@ Role required: Accounts Payable specialist
 
 10. Select the **Pay Invoice** card.
 
-    1.  In the **Review [[integration-errors-during-erp-posting|Integration errors]]** activity, review the integration errors generated for the invoice.
+    1.  In the **Review Integration errors** activity, review the integration errors generated for the invoice.
 
         For more information on integration errors, see [Integration errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/integration-errors-during-erp-posting.md).
 
@@ -162,15 +162,3 @@ Role required: Accounts Payable specialist
 
 **Parent Topic:**[Playbook for updating the invoice primary data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/playbooks.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]
-- [[create-tax-lines-apo|Tax lines]]
-- [[create-invoice|create invoice]]
-- [[supplier|Supplier]]
-- [[invoice-type-credit-memo|Credit memo]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[integration-errors-during-erp-posting|Integration errors]]

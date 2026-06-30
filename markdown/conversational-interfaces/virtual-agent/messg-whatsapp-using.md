@@ -14,15 +14,15 @@ breadcrumb: [Conversational Integration with WhatsApp \(powered by Twilio\), Int
 
 # Using Conversational Integration with WhatsApp \(powered by Twilio\)
 
-Enable a requester to converse with an agent at their convenience using the WhatsApp chat conversations through [[virtual-agent-landing-page|Virtual Agent]].
+Enable a requester to converse with an agent at their convenience using the WhatsApp chat conversations through Virtual Agent.
 
-An administrator can configure the [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]] application for integrating the WhatsApp messaging app with a ServiceNow application. For more information, see [Integrating the WhatsApp messaging app with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-integrating-apps.md).
+An administrator can configure the Conversational Integration with WhatsApp \(powered by Twilio\) application for integrating the WhatsApp messaging app with a ServiceNow application. For more information, see [Integrating the WhatsApp messaging app with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-integrating-apps.md).
 
 Agents and requesters can do the following:
 
 -   A live agent can initiate WhatsApp chat conversations with a requester.
 -   A requester can initiate WhatsApp chat conversations with a virtual agent or live agent.
--   A live agent can accept WhatsApp chat conversations as [[awa-work-items|work items]] from their Agent Workspace Inbox to converse with a requester.
+-   A live agent can accept WhatsApp chat conversations as work items from their Agent Workspace Inbox to converse with a requester.
 -   For logged in customers, the system automatically identifies the customer by matching their phone number against the customer contact.
 
 ## Initiating WhatsApp chat conversations
@@ -47,18 +47,11 @@ As a live agent interacting with a requester over the WhatsApp service channel, 
 **Note:** If an administrator has configured the WhatsApp service channel for transfer of chat conversations, then you can accept a work item from the WhatsApp chat conversation in your Agent Workspace Inbox. For more information, see [Transfer WhatsApp chat conversations to live agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-live-agent-conv.md) and [Service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-service-channels.md).
 
 -   **[Create a provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-provider-notification.md)**  
-Execute the following steps to [[create-provider-notification|create a provider notification]] for Virtual Agent and Workspace providers.
+Execute the following steps to create a provider notification for Virtual Agent and Workspace providers.
 -   **[Transfer WhatsApp chat conversations to live agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-live-agent-conv.md)**  
-Configure the [[awa-application-landing-page|Advanced Work Assignment]] application to transfer a WhatsApp chat conversation initiated by a requester to a live agent.
+Configure the Advanced Work Assignment application to transfer a WhatsApp chat conversation initiated by a requester to a live agent.
 -   **[Capturing information from a user in a WhatsApp chat conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-capture-info.md)**  
 Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from a requester in a WhatsApp chat conversation.
 
 **Parent Topic:**[Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-twilio.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[messg-whatsapp-twilio|Conversational Integration with WhatsApp \(powered by Twilio\)]]
-- [[awa-work-items|Work items]]
-- [[create-provider-notification|Create a provider notification]]
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -14,11 +14,11 @@ breadcrumb: [Creating portal pages, Configuring Service Portal, Service Portal, 
 
 # Attaching files to records from portal pages
 
-[[attachments-configurable-workspace|Attachments]] can be added to records from portal pages by navigating the file system, pasting files from the clipboard, or dragging and dropping files.
+Attachments can be added to records from portal pages by navigating the file system, pasting files from the clipboard, or dragging and dropping files.
 
 By default, several base system widgets accept attachments from portal users using one or more of these methods. To modify how portal users can add attachments, you can clone and edit widgets to customize the file attachment experience as described in the following procedures.
 
-To track how portal users attach files to records from pages in your portal, see the SP File Attach event in [[sp-analytics|Usage Insights for Service Portal]]. For more information about available events, see [Service Portal events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics-events.md).
+To track how portal users attach files to records from pages in your portal, see the SP File Attach event in Usage Insights for Service Portal. For more information about available events, see [Service Portal events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-analytics-events.md).
 
 **Parent Topic:**[Creating portal pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_Pages.md)
 
@@ -30,7 +30,7 @@ Allow portal users to attach files by pasting or dropping files in the Add attac
 
 By default, the Form, Ticket Attachments, Ticket Conversations, and SC Catalog Item base system widgets support adding attachments by pasting or dropping files in the Add attachments dialog box rather than only by navigating the file system.
 
-To [[configure-onboarding-modals|configure]] this functionality for other widgets, you can clone or create a widget that supports adding attachments with the `sp-attachment-button` directive. For more information about cloning widgets, see [Clone a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_CloneAndEditAWidget.md).
+To configure this functionality for other widgets, you can clone or create a widget that supports adding attachments with the `sp-attachment-button` directive. For more information about cloning widgets, see [Clone a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_CloneAndEditAWidget.md).
 
 **Note:** Base system widgets are read-only so you can benefit from future updates. To make changes, you can clone base system widgets. However, cloned widgets are considered custom and don't benefit from future updates to the widgets they were cloned from.
 
@@ -38,7 +38,7 @@ Role required: sp\_admin or admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration**.
 
 2.  Select **Widget Editor**.
 
@@ -87,7 +87,7 @@ Role required: sp\_admin or admin
 
 By default, portal users can add attachments on many base system pages by selecting the Add attachments icon \(\[Omitted image "attach-icon.png"\] Alt text: Attachment icon\) to open the Add attachments dialog box. With a drag-and-drop attachments zone, portal users can add attachments with fewer clicks. For example, you could drop attachments over an area of a catalog request or a form.
 
-In this example, the zone is an area over the body of a [[form-widget|form widget]]. The zone is only visible when moving a file over it.
+In this example, the zone is an area over the body of a form widget. The zone is only visible when moving a file over it.
 
 \[Omitted image "attachment-zone.png"\] Alt text: Dragging a file over the attachment zone in a form widget
 
@@ -199,10 +199,3 @@ On a page with the widget, you can paste or drop one or more selected files over
 
 **Note:** Pasting attachments isn't supported on Firefox.
 
-## Related
-
-- [[attachments-configurable-workspace|Attachments]]
-- [[sp-analytics|Usage Insights for Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[form-widget|Form widget]]

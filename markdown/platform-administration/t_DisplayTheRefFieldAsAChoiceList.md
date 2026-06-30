@@ -20,7 +20,7 @@ Role required: personalize\_dictionary
 
 ## About this task
 
-**Note:** A choice [[reference-email-admin|reference]] field with a defined reference key won't function.
+**Note:** A choice reference field with a defined reference key won't function.
 
 ## Procedure
 
@@ -56,6 +56,3 @@ Role required: personalize\_dictionary
 
 [System dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_SystemDictionary.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

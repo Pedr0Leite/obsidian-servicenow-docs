@@ -14,10 +14,10 @@ breadcrumb: [Setting up and configuring Universal Request, Universal Request, Em
 
 # Configure service to use Universal Request
 
-Configure the [[ur-landing-limitedaccess|Universal Request]] application with any service to manage requests across multiple services under one unified request. [[using-ur|Using Universal Request]] integrated with your service helps deliver a seamless employee experience in your organization.
+Configure the Universal Request application with any service to manage requests across multiple services under one unified request. Using Universal Request integrated with your service helps deliver a seamless employee experience in your organization.
 
 -   **[Configure mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-transfer-map-config.md)**  
-Configure the target table and [[field-mappings-sf|field mappings]] to create a department level ticket and to set the fields according to the field mappings.
+Configure the target table and field mappings to create a department level ticket and to set the fields according to the field mappings.
 -   **[Create a service set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-create-service-set.md)**  
 Create your service set \(department\) name in the Universal Request \(UR\) application to use the UR capabilities for a specific service set in your organization. Service sets are the various departments in your organization.
 -   **[Create your service-specific assignment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-create-grp-service.md)**  
@@ -49,8 +49,3 @@ All workflows consist of states, transitions, and reasons. Map your service-spec
 
 **Parent Topic:**[Setting up and configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/setup-configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[using-ur|Using Universal Request]]
-- [[field-mappings-sf|Field mappings]]

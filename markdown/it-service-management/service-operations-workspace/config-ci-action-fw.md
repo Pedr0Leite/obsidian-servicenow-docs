@@ -321,7 +321,7 @@ Type
 
 </td><td>
 
-Type of the parameter, such as integer or [[reference-for-itsm-mobile-agent|reference]].**Note:** If you select reference, you must also specify the reference table.
+Type of the parameter, such as integer or reference.**Note:** If you select reference, you must also specify the reference table.
 
 </td></tr><tr><td>
 
@@ -377,11 +377,7 @@ Type of choice list that must be applicable for the parameter.**Note:** This fie
 
 ## What to do next
 
-You must [[config-remedial-action-fw|configure the Remedial Actions Framework]]. For more information, see [Configure the Remedial Actions Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-remedial-action-fw.md).
+You must configure the Remedial Actions Framework. For more information, see [Configure the Remedial Actions Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-remedial-action-fw.md).
 
 **Parent Topic:**[Setting up Investigation Framework in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[config-remedial-action-fw|Configure the Remedial Actions Framework]]

@@ -34,7 +34,7 @@ The **&lt;table&gt;.db.order** and **&lt;table&gt;.db.order.direction** user pre
 
 ## Setting the default sort order in the system dictionary
 
-An administrator can set the sort order of records displayed for a table in the [[c_SystemDictionary|system dictionary]] when there is no other sort specified. This is done by adding an attribute called **isOrder** with a value of **true** to the dictionary entry of the desired field. This sort is the sort order presented to all users initially. Once a user sorts a list, that user preference is saved, and the list is always sorted for that user based on the previous sorting preference.
+An administrator can set the sort order of records displayed for a table in the system dictionary when there is no other sort specified. This is done by adding an attribute called **isOrder** with a value of **true** to the dictionary entry of the desired field. This sort is the sort order presented to all users initially. Once a user sorts a list, that user preference is saved, and the list is always sorted for that user based on the previous sorting preference.
 
 **Note:** **isOrder** can define which field is used for list sorting, but cannot control the sort direction.
 
@@ -76,6 +76,3 @@ active=true^ORDERBYcategory^ORDERBYsubcategory
 
 This argument first orders by the category and then orders by the subcategory. If you want any field to be a descending sort, then change *ORDERBY* to be *ORDERBYDESC*.
 
-## Related
-
-- [[c_SystemDictionary|System dictionary]]

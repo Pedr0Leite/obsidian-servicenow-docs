@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Block Request Category List
 
-Block Request Category List classify [[c_Observables|observables]] in ServiceNow® based on the block or allow action selected in the CrowdStrike platform. The Category List provides options to initiate a change request for list approval. This ensures that approvals are routed and processed seamlessly as part of the Block Request capability flow.
+Block Request Category List classify observables in ServiceNow® based on the block or allow action selected in the CrowdStrike platform. The Category List provides options to initiate a change request for list approval. This ensures that approvals are routed and processed seamlessly as part of the Block Request capability flow.
 
 ## Before you begin
 
@@ -28,12 +28,12 @@ Role required: sn\_si.analyst
 
 The Block Request Category List includes two Hash Categories.
 
--   [[cs-fal-insight-allow-list-entries|Allow List Entries]] – Displays observables added to the Allow Hash category.
--   [[cs-fal-insight-block-list-entries|Block List Entries]] – Displays observables added to the Block Hash category.
+-   Allow List Entries – Displays observables added to the Allow Hash category.
+-   Block List Entries – Displays observables added to the Block Hash category.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight Integration]]** &gt; **Block Request Category List**.
+1.  Navigate to **All** &gt; **CrowdStrike Falcon Insight Integration** &gt; **Block Request Category List**.
 
 2.  Select **Allow Hash**.
 
@@ -55,12 +55,5 @@ The Block Request Category List includes two Hash Categories.
 
 ## Result
 
-CrowdStrike Falcon Insight block requests can be reviewed, tracked, and responded to in [[sir-landing-page|Security Incident Response]] using standard Block Request capability flow.
+CrowdStrike Falcon Insight block requests can be reviewed, tracked, and responded to in Security Incident Response using standard Block Request capability flow.
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[cs-fal-insight-allow-list-entries|Allow List Entries]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]
-- [[CrowdStrike-Falcon-Insight-for-Security-Operations-integration|CrowdStrike Falcon Insight integration]]
-- [[sir-landing-page|Security Incident Response]]

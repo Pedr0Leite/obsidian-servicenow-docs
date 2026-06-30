@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog, ITOM Cloud Accelerate, IT Operations Manage
 
 # Using Cloud Services Catalog
 
-The [[csc-home|Cloud Services Catalog]] application is a dynamic portal for all your day-to-day cloud activities. It enables you to manage stacks, work with requests, and access the Out Of Box catalog items and other popular topics.
+The Cloud Services Catalog application is a dynamic portal for all your day-to-day cloud activities. It enables you to manage stacks, work with requests, and access the Out Of Box catalog items and other popular topics.
 
 You can explore Cloud Services by performing a search on the ServiceNow AI Platform® platform. You can also find related links, like **Browse Cloud Catalog** and **CSC-Guided Setup**.
 
@@ -81,6 +81,3 @@ Submit a request for one of the available service catalog item in cloud services
 
 **Parent Topic:**[Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/csc-home.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

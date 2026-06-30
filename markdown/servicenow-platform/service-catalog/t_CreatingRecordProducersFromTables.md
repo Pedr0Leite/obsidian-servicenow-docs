@@ -14,7 +14,7 @@ breadcrumb: [Record Producer, Types of catalog items, Explore, Service Catalog, 
 
 # Create record producers from tables
 
-You can create [[service-catalog|Service Catalog]] record producers directly from a table record.
+You can create Service Catalog record producers directly from a table record.
 
 ## Before you begin
 
@@ -22,17 +22,17 @@ Role required: admin
 
 ## About this task
 
-To [[t_DefRecProdInSCat|create a record producer]] from a table record:
+To create a record producer from a table record:
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Tables** and open the table record.
 
-    **Note:** When using a workflow with a [[c_RecordProducer|Record producer]], set the condition to Run the workflow.
+    **Note:** When using a workflow with a Record producer, set the condition to Run the workflow.
 
 2.  Under **Related Links**, select **Add to Service Catalog**.
 
-3.  Complete the **Name**, **Short Description**, and **Category** fields as you would for [[c_IntroductionToCatalogItems|service catalog items]].
+3.  Complete the **Name**, **Short Description**, and **Category** fields as you would for service catalog items.
 
 4.  Use the list to select the fields and the order in which you want them to appear.
 
@@ -49,7 +49,7 @@ To [[t_DefRecProdInSCat|create a record producer]] from a table record:
         -   **Name**: Column name of the field
         -   **Type**: Variable type that corresponds to the field type
         -   **Order**: Position selected in the slushbucket \(for example, 100 for the first field and 200 for the second field\)
-        -   **Question**: Column [[label|label]] of the field
+        -   **Question**: Column label of the field
     -   If the field type is **Choice**, a corresponding question choice is created for each field choice.
     -   The new record producer is added to the **Record Producers** related list on the table record.
 
@@ -62,10 +62,3 @@ To [[t_DefRecProdInSCat|create a record producer]] from a table record:
 
 [Populate record producer data and redirect users]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[t_DefRecProdInSCat|Create a record producer]]
-- [[c_RecordProducer|Record Producer]]
-- [[c_IntroductionToCatalogItems|Service Catalog items]]
-- [[label|Label]]

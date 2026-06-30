@@ -14,7 +14,7 @@ breadcrumb: [DevOps user-created security tool integration, User created, Integr
 
 # Configure user-created security tool
 
-Connect your custom security tool that is integrated with your CI/CD pipelines to [[devops-landing-page-new|DevOps Change Velocity]] to retrieve [[security-tool-framework|security scan results]].
+Connect your custom security tool that is integrated with your CI/CD pipelines to DevOps Change Velocity to retrieve security scan results.
 
 ## Before you begin
 
@@ -162,7 +162,3 @@ By default, when you onboard your tool from workspace, you have to enter the man
 
 **Parent Topic:**[DevOps user-created security tool integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-security-tool-integration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[security-tool-framework|Security scan results]]

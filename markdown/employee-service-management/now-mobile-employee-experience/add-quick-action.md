@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[mobile-employee-experience|Now Mobile App]]** &gt; **Applet Launchers**.
+1.  Navigate to **All** &gt; **Now Mobile App** &gt; **Applet Launchers**.
 
 2.  In the applet launchers \[sys\_sg\_applet\_launcher\] table, open the applet launcher record that you would like to add the catalog item to.
 
@@ -273,7 +273,7 @@ Icon
 
 Icon to display next to the label. For more details on mobile icons, see [Mobile icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-icon.md).**Note:** Not all listed icons work with quick actions. To see a list of compatible icons, filter your list where the **Icons** field contains `now-mobile-icons-buttons`.
 
- **Note:** The **Icons** field is not on the icon list by default. To add the **Icon** field to your list, right-click the list header and select **Configure** &gt; **List Layout**. Then, add the Icon field to the selected list. You should see the icon field on your [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field list.
+ **Note:** The **Icons** field is not on the icon list by default. To add the **Icon** field to your list, right-click the list header and select **Configure** &gt; **List Layout**. Then, add the Icon field to the selected list. You should see the icon field on your reference field list.
 
 </td></tr><tr><td>
 
@@ -293,7 +293,3 @@ Number that indicates the order that the functions are listed. If there are mult
 
 Your users can open the quick action by selecting the \[Omitted image "more-items.png"\] Alt text: Plus icon icon on the applet launcher page.
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

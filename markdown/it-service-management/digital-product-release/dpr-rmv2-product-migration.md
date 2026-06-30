@@ -14,7 +14,7 @@ breadcrumb: [Configure, Digital Product Release, IT Service Management]
 
 # Migrate data from Release Management v2 to Digital Product Release
 
-If you have the [[c_ITILReleaseManagement|Release Management]] v2 \(RM v2\) application installed, you can migrate your data from RM v2 to [[dpr-landing-page|Digital Product Release]].
+If you have the Release Management v2 \(RM v2\) application installed, you can migrate your data from RM v2 to Digital Product Release.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ To provide access to additional roles, you can add comma-separated values of oth
 
 ## About this task
 
-The [[migration-utility|migration utility]] performs the following tasks:
+The migration utility performs the following tasks:
 
--   Migrate RM v2 product to Digital product: Copies data from rm\_product into newly created Application Product [[c_Models|Models]].
+-   Migrate RM v2 product to Digital product: Copies data from rm\_product into newly created Application Product Models.
 -   Create Release Template from RM v2 Release: Creates a DPR Release Template by leveraging the Phases and Tasks from an existing RM v2 Release record.
 
 For more information about migrating data from Release Management V2 to Digital Product Release, see the [RMV2 Product Migration \[KB1644412\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1644412) article in the Now Support Knowledge Base.
@@ -39,9 +39,4 @@ For more information about migrating data from Release Management V2 to Digital 
 
 3.  Perform the migration either from the rm\_product list view or running the migration script from the sn\_dpr\_model app scope.
 
-## Related
 
-- [[c_ITILReleaseManagement|Release Management]]
-- [[dpr-landing-page|Digital Product Release]]
-- [[migration-utility|Migration Utility]]
-- [[c_Models|Models]]

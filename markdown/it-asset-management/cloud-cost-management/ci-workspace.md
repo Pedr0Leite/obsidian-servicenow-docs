@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Cost Management, Cloud Cost Management, IT Asset Ma
 
 # Cloud Cost Management Workspace
 
-Use the Cloud Cost Management Workspace, the intuitive and streamlined user interface of the [[cloud-insights-landing-page|Cloud Cost Management]] application, to analyze the full range of costs that are associated with cloud resources. You can identify and act on opportunities to save money and optimize operations.
+Use the Cloud Cost Management Workspace, the intuitive and streamlined user interface of the Cloud Cost Management application, to analyze the full range of costs that are associated with cloud resources. You can identify and act on opportunities to save money and optimize operations.
 
 The Cloud Cost Management Workspace is a unified medium with multiple views. The views let you analyze costs, spend, budget of your cloud resources, and provides insight into how IT supports business application and services through various dashboards.
 
@@ -28,6 +28,3 @@ The Cloud Cost Management Workspace contains the following views:
 
 **Note:** You can view the reports and data based on your role. For more information, see [Cloud Cost Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/cloud-insights-roles.md).
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

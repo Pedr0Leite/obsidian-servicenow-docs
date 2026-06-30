@@ -12,7 +12,7 @@ breadcrumb: [Using Impact, Impact]
 
 # Consumption Report
 
-The Consumption Report provides an overview of your [[impact-landing-page|Impact]] tier features and their usage.
+The Consumption Report provides an overview of your Impact tier features and their usage.
 
 The Consumption Report provides an overview of Impact features and their usage so you can identify underutilized benefits or benefits you have not yet used to make the most of your plan.
 
@@ -22,7 +22,7 @@ The Consumption Report filters usage to an adjustable specific period of time, a
 
 ## Impact Delivery Instance Consumption Report
 
-To access the consumption report in Impact Delivery Instance, navigate to**Impact** &gt; **Impact [[impact-features|Benefits &amp; Usage]]** &gt; **Consumption Report**.
+To access the consumption report in Impact Delivery Instance, navigate to**Impact** &gt; **Impact Benefits &amp; Usage** &gt; **Consumption Report**.
 
 <table id="table_thg_wf5_gwb"><thead><tr><th>
 
@@ -92,7 +92,7 @@ To access the consumption report in Impact store application, navigate to **All*
 
 Identify unused or underused accelerators by reviewing the status details for ongoing, completed, and not yet started accelerators and initiatives associated with your plan.
 
- The In progress usage section provides an overview of the number of Architecture, Strategy, and [[technical-accelerators|Technical accelerators]] that are currently in use or remain unused.
+ The In progress usage section provides an overview of the number of Architecture, Strategy, and Technical accelerators that are currently in use or remain unused.
 
 </td></tr><tr><td>
 
@@ -130,14 +130,7 @@ See who is available to assist with real-troubleshooting and get timely support 
 
  View additional details about developer support users such as username, access status, locked status, and access permissions by selecting the **View Users** link.
 
-**Note:** Impact developer support users are managed in Impact Delivery Instance. For more information, see [[developer-support|Impact Developer Support]].
+**Note:** Impact developer support users are managed in Impact Delivery Instance. For more information, see [Impact Developer Support](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/developer-support.md).
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[developer-support|Impact Developer Support]]
-- [[impact-landing-page|Impact]]
-- [[impact-features|Benefits &amp; Usage]]
-- [[technical-accelerators|Technical Accelerators]]

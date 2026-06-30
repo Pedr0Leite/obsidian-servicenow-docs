@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer utilities, Assistant Designer interface referenc
 
 # Diagnostic Topic Executor utility
 
-Use the Diagnostic Topic Executor utility in [[virtual-agent-landing-page|Virtual Agent]] to ensure the proper function of components in a topic.
+Use the Diagnostic Topic Executor utility in Virtual Agent to ensure the proper function of components in a topic.
 
 ## Diagnostic Topic Executor utility properties
 
@@ -91,6 +91,3 @@ No-code condition statement or low-code script that specifies a condition for pr
 
 **Parent Topic:**[Assistant Designer utilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-utilities.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

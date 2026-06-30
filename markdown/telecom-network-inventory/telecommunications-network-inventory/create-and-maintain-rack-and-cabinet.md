@@ -14,20 +14,14 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Create and maintain racks and cabinets
 
-Create and perform subsequent actions on the racks and cabinets using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create and perform subsequent actions on the racks and cabinets using the Telecommunications Network Inventory application.
 
 -   **[Create a rack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/edit-a-rack.md)**  
-[[edit-a-rack|Create a rack]] to add, organize equipment, rack units, and manage all assets. You can also edit a rack using the Telecommunications Network Inventory application.
+Create a rack to add, organize equipment, rack units, and manage all assets. You can also edit a rack using the Telecommunications Network Inventory application.
 -   **[Create a cabinet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-cabinet.md)**  
-[[create-a-cabinet|Create a cabinet]] to add, organize equipment, and manage all assets. You can also [[edit-a-cabinet|edit a cabinet]] using the Telecommunications Network Inventory application.
+Create a cabinet to add, organize equipment, and manage all assets. You can also edit a cabinet using the Telecommunications Network Inventory application.
 -   **[Optimizing rack and cabinet usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/subsequent-actions.md)**  
 Optimize your rack's capacity by following these guidelines for adding, configuring, and calculating other components using the Telecommunications Network Inventory application.
 
 **Parent Topic:**[Manually creating and reviewing your network asset instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-telecommunications-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[edit-a-rack|Create a rack]]
-- [[create-a-cabinet|Create a cabinet]]
-- [[edit-a-cabinet|Edit a cabinet]]

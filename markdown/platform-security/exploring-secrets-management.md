@@ -14,13 +14,13 @@ breadcrumb: [Secrets Management, Platform Security]
 
 Use ServiceNow Secrets Management for granular management of access to your passwords to fit your business needs.
 
-**Important:** Admins must have the role to see modules and records related to Secrets Management. For secrets management role information, see [[roles-sec-man|Secrets Management roles]].
+**Important:** Admins must have the role to see modules and records related to Secrets Management. For secrets management role information, see [Secrets Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/roles-sec-man.md).
 
 ## Select from Core and Enterprise versions of Secrets Management
 
 Choose from Secrets Management Core and Secrets Management Enterprise depending on your business needs.
 
-The Secrets Management Core plugin \(com.glide.sm.core\) is available by default. No installation is required on the instance to use this plugin. The Secrets Management Enterprise plugin is only available with a [[servicenow-vault-landing|ServiceNow Vault]] v1, PROD18537 license. Contact Customer Support for assistance with the Secrets Management Enterprise plugin.
+The Secrets Management Core plugin \(com.glide.sm.core\) is available by default. No installation is required on the instance to use this plugin. The Secrets Management Enterprise plugin is only available with a ServiceNow Vault v1, PROD18537 license. Contact Customer Support for assistance with the Secrets Management Enterprise plugin.
 
 <table id="table_uc4_pq2_xtb"><thead><tr><th>
 
@@ -43,14 +43,14 @@ Secrets Management Enterprise includes additional functions to help admins creat
     -   Column
     -   Record
 -   Create client-accessible secrets that are encrypted using your own key which ServiceNow can’t access.
--   Use the [[secrets-dashboard|Secrets Management Dashboard]] to review the secret groups configured on your instance and learn about potential security issues.
+-   Use the Secrets Management Dashboard to review the secret groups configured on your instance and learn about potential security issues.
 
  **Note:** Secrets Management Enterprise is a paid plugin that ServiceNow personnel must activate on your production instance.
 
 </td></tr></tbody>
 </table>## Use secret groups to organize your secrets
 
-Use Secrets Management to organize your secrets into groups. Then, apply access [[ca-policies|policies]] to those secrets at a group level.
+Use Secrets Management to organize your secrets into groups. Then, apply access policies to those secrets at a group level.
 
 -   **Basic secret group**
 
@@ -77,7 +77,7 @@ Secret groups of either type can be made instance accessible or client accessibl
     Client-side secrets groups use a public/private key pair so that secrets can only be decrypted by the client. When you create a client-accessible secrets group, you upload the public key to the instance and retain the private key on your MID Server. The instance uses the public key to encrypt your secrets, but they can only be decrypted using the private key.
 
 
-**Note:** For more information on these group types, see [[understand-sec-man|About client-side Secrets Management]].
+**Note:** For more information on these group types, see [About client-side Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/understand-sec-man.md).
 
 ## Use secrets groups for more granular control
 
@@ -104,12 +104,12 @@ Secure storage
 
 </td><td>
 
-For client-side secret groups, Secrets Management uses a new [[encryption-landing|encryption]] scheme. In this encryption scheme, ServiceNow doesn’t save the encryption key. For this reason, the security of your data doesn’t depend on ServiceNow's security.
+For client-side secret groups, Secrets Management uses a new encryption scheme. In this encryption scheme, ServiceNow doesn’t save the encryption key. For this reason, the security of your data doesn’t depend on ServiceNow's security.
 
 </td></tr></tbody>
 </table>## Apply module access policies to your groups
 
-After you’ve grouped your secrets into a secret group, you can apply policies that determine how you can access them at a group level. Module access policies are the [[sc-access-control|access control]] mechanisms that you apply to cryptographic modules to define instance-level controls, such as a validity time frame for the cryptographic key. For more information on module access policies, see [Module access policy overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/module_access_policy_overview.md).
+After you’ve grouped your secrets into a secret group, you can apply policies that determine how you can access them at a group level. Module access policies are the access control mechanisms that you apply to cryptographic modules to define instance-level controls, such as a validity time frame for the cryptographic key. For more information on module access policies, see [Module access policy overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/module_access_policy_overview.md).
 
 ## Tables installed with Secrets Management
 
@@ -149,7 +149,7 @@ Stores wrapped secrets
 
 </td><td>
 
-Defines the [[identity-landing|identity]] group for mapping a group of identities to the public key
+Defines the identity group for mapping a group of identities to the public key
 
 </td></tr><tr><td>
 
@@ -193,7 +193,7 @@ Added new module access policy type
 
 -   **Help ensure secure ITOM Discovery**
 
-    This infographic shows a simplified reference architecture of how ServiceNow IT Operations Management \(ITOM\) Discovery can be deployed by your organization. As shown in the infographic, multiple Windows and Linux servers connect to the Management, Instrumentation, and Discovery \(MID\) Server and several MID Server agents enable the discovery process to update the [[sc-configuration|Configuration]] Management Database \(CMDB\). Every MID Server transaction requires a secure [[c_Authentication|authentication]], so managing the authentication credentials is critical from a security perspective.
+    This infographic shows a simplified reference architecture of how ServiceNow IT Operations Management \(ITOM\) Discovery can be deployed by your organization. As shown in the infographic, multiple Windows and Linux servers connect to the Management, Instrumentation, and Discovery \(MID\) Server and several MID Server agents enable the discovery process to update the Configuration Management Database \(CMDB\). Every MID Server transaction requires a secure authentication, so managing the authentication credentials is critical from a security perspective.
 
     \[Omitted image "sm-itom-discovery-diagram.svg"\] Alt text: Architecture showing how ServiceNow IT Operations Management \(ITOM\) Discovery can be deployed
 
@@ -207,18 +207,5 @@ Added new module access policy type
 -   **[About client-side Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/understand-sec-man.md)**  
 Learn how use Secrets Management to manage access to secrets and groups.
 
-**Parent Topic:**[[secrets-management|Secrets Management]]
+**Parent Topic:**[Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-management.md)
 
-## Related
-
-- [[roles-sec-man|Secrets Management roles]]
-- [[understand-sec-man|About client-side Secrets Management]]
-- [[secrets-management|Secrets Management]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[sc-access-control|Access control]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

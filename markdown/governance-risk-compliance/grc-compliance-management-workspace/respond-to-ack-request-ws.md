@@ -22,7 +22,7 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst
 
 ## Procedure
 
-1.  After you have received a notification that you are required to [[ack-policy|acknowledge a policy]], navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
+1.  After you have received a notification that you are required to acknowledge a policy, navigate to **All** &gt; **Policy and Compliance** &gt; **Compliance Workspace**.
 
 2.  To provide the acknowledgement, open the record in the **My pending tasks** section of the Tasks page and perform one of the following actions.
 
@@ -57,6 +57,4 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_analyst
 
         If the policy is approved
 
-## Related
 
-- [[ack-policy|Acknowledge a policy]]

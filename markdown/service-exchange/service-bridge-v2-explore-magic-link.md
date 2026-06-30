@@ -15,14 +15,10 @@ breadcrumb: [Explore, Service Exchange]
 
 # Magic links
 
-Magic links enable seamless authentication from a consumer instance to a provider instance in [[tmt-service-bridge-both-landing-page|Service Exchange]], enabling consumers to access shared resources without manual login. This mechanism supports both per-user and single-user login modes and is particularly useful for HR tasks, catalog submissions, and knowledge base access.
+Magic links enable seamless authentication from a consumer instance to a provider instance in Service Exchange, enabling consumers to access shared resources without manual login. This mechanism supports both per-user and single-user login modes and is particularly useful for HR tasks, catalog submissions, and knowledge base access.
 
 **Related topics**  
 
 
-[[service-bridge-v2-magic-links|Enable magic links]]
+[Enable magic links](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-magic-links.md)
 
-## Related
-
-- [[service-bridge-v2-magic-links|Enable magic links]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

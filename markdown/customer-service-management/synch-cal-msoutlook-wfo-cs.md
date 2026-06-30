@@ -26,8 +26,5 @@ As a user with admin role, you can enable this feature by installing Microsoft E
 
 After installing Microsoft Exchange Online Spoke, set the **sn\_wfo\_outlook.enable\_outlook\_sync** system property to `true` in the System Properties \[sys\_properties\] table. Add the email IDs that you want to synchronize in the User \[sys\_user\] table.
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]

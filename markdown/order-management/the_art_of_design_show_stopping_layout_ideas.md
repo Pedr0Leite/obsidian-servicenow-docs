@@ -12,7 +12,7 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 # The art of design: show-stopping layout ideas
 
-Discover how thoughtful layout design can transform complex configurations into clear, intuitive, and visually engaging user experiences. Learn best-practice patterns, spacing strategies, and industry-inspired structures to create polished, high-impact [[layouts|layouts]] for your product configurations.
+Discover how thoughtful layout design can transform complex configurations into clear, intuitive, and visually engaging user experiences. Learn best-practice patterns, spacing strategies, and industry-inspired structures to create polished, high-impact layouts for your product configurations.
 
 Designing visually appealing layouts for your configurations can significantly enhance the overall experience for users who interact with your data. Implementing consistent formatting, using white space strategically, and thoughtfully considering other design elements can transform your layout into a well-structured and engaging resource. As your data continues to play a crucial role in decision-making, the importance of presenting it in an intuitive and appealing manner cannot be underestimated.
 
@@ -36,6 +36,3 @@ Download the [Layout CSV file](https://drive.google.com/file/d/1vHj21VP9dc5X8fLG
 
 Download the [Layout CSV file](https://drive.google.com/file/d/1AjvQI_5jLSlUS6DCEMElC9BunpPC2uFm/view?usp=sharing)
 
-## Related
-
-- [[layouts|Layouts]]

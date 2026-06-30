@@ -12,33 +12,22 @@ reading_time_minutes: 1
 
 AI Experiences has new and updated features in the Australia release.
 
--   **[[agentic-desktop-rn|AI Desktop Actions release notes]]**  
+-   **[AI Desktop Actions release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/agentic-desktop-rn.md)**  
 The ServiceNow® AI Desktop Actions application enables you to design, configure, and manage desktop actions to automate repetitive tasks. These desktop actions are executed by AI agents created in AI Agent Studio. AI Desktop Actions was enhanced and updated in the Australia release.
--   **[[ai-control-tower-rn|AI Control Tower release notes]]**  
+-   **[AI Control Tower release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/ai-control-tower-rn.md)**  
 The ServiceNow® AI Control Tower application provides a centralized workspace for AI stewards to manage and monitor AI within the enterprise. AI Control Tower was enhanced and updated in the Australia release.
--   **[[generative-ai-controller-rn|Generative AI Controller release notes]]**  
+-   **[Generative AI Controller release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/generative-ai-controller-rn.md)**  
 The ServiceNow® Generative AI Controller application enables you to use generative AI capabilities with third-party large language model \(LLM\) providers on the ServiceNow AI Platform. Generative AI Controller was enhanced and updated in the Australia release.
--   **[[document-intelligence-rn|Document Intelligence release notes]]**  
+-   **[Document Intelligence release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/document-intelligence-rn.md)**  
 The ServiceNow® Document Intelligence application is an artificial intelligence \(AI\) solution that quickly and accurately categorizes and extracts information from documents.
--   **[[mcp-server-console-rn|MCP Server Console release notes]]**  
+-   **[MCP Server Console release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/mcp-server-console-rn.md)**  
 The ServiceNow® MCP Server Console application enables secure and governed access to functionality on a ServiceNow instance for AI applications with Model Context Protocol \(MCP\) servers. MCP servers extend ServiceNow AI Platform® functionality into any external MCP client and employee experience over the Model Context Protocol. MCP Server Console is a new application in the Australia release.
--   **[[knowledge-graph-rn|Knowledge Graph release notes]]**  
+-   **[Knowledge Graph release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/knowledge-graph-rn.md)**  
 The ServiceNow® Knowledge Graph application enables you to create and manage a Knowledge Graph schema for default integrations with Virtual Agent. Knowledge Graph was enhanced and updated in the Australia release.
--   **[[servicenow-lens-rn|ServiceNow AI Lens release notes]]**  
+-   **[ServiceNow AI Lens release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/servicenow-lens-rn.md)**  
 With ServiceNow AI Lens, which is a ServiceNow® Now Assist application, you can use generative AI to scan, extract, comprehend, and synthesize data to optimize your workflows. ServiceNow AI Lens was enhanced and updated in the Australia release.
--   **[[predictive-intelligence-rn|Predictive Intelligence release notes]]**  
+-   **[Predictive Intelligence release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/predictive-intelligence-rn.md)**  
 The ServiceNow® Predictive Intelligence application enables you to create and train machine learning models to help improve the performance, efficiency, and flexibility of your systems. Predictive Intelligence was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[agentic-desktop-rn|AI Desktop Actions release notes]]
-- [[ai-control-tower-rn|AI Control Tower release notes]]
-- [[generative-ai-controller-rn|Generative AI Controller release notes]]
-- [[document-intelligence-rn|Document Intelligence release notes]]
-- [[mcp-server-console-rn|MCP Server Console release notes]]
-- [[knowledge-graph-rn|Knowledge Graph release notes]]
-- [[servicenow-lens-rn|ServiceNow AI Lens release notes]]
-- [[predictive-intelligence-rn|Predictive Intelligence release notes]]
-- [[new-features-changes|Features and changes by product]]

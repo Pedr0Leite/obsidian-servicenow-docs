@@ -44,7 +44,7 @@ Role required: agent\_workspace\_user
 
 7.  View another version of the knowledge article by selecting the version of the knowledge article in the Version list.
 
-    **Note:** The Version list appears only when the [[article-versioning|article versioning]] feature is enabled.
+    **Note:** The Version list appears only when the article versioning feature is enabled.
 
 
 ## Result
@@ -62,6 +62,3 @@ The selected version of the article opens in a knowledge article view page displ
 
 [Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace.md)
 
-## Related
-
-- [[article-versioning|Article versioning]]

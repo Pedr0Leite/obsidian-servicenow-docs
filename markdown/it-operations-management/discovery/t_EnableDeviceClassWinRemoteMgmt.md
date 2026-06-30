@@ -14,7 +14,7 @@ breadcrumb: [Discovery classifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Use Windows Remote Management for classification
 
-You can configure the [[r-discovery|discovery]] of Windows hosts using the Windows Remote Management \(WinRM\) protocol.
+You can configure the discovery of Windows hosts using the Windows Remote Management \(WinRM\) protocol.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ By default, the system uses the WMI protocol for device classification of Window
 
 Run a discovery from the [Discovery schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) to find Windows machines on your network.
 
-## Related
-
-- [[r-discovery|Discovery]]

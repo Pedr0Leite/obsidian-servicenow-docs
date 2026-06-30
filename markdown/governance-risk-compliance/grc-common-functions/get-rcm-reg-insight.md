@@ -15,7 +15,7 @@ breadcrumb: [Agentic workflows in Risk &amp; Sustainability, Use agentic AI, Now
 
 # Analyze and enrich regulatory alerts
 
-Analyze and enrich regulatory alerts by using the [[rcm-agent-insights-workflow|get regulatory analysis agentic workflow]] in the Now Assist panel. This agentic workflow uses web search to enhance alert context and recommends potential impacts on citations, policies, and control objectives to support faster and more accurate compliance decisions.
+Analyze and enrich regulatory alerts by using the get regulatory analysis agentic workflow in the Now Assist panel. This agentic workflow uses web search to enhance alert context and recommends potential impacts on citations, policies, and control objectives to support faster and more accurate compliance decisions.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Agentic workflows and their AI agents use [role masking](https://raw.githubuserc
 
 ## About this task
 
-The get regulatory analysis agentic workflow helps [[reg-change-mgmt-landing-page|regulatory change management]] professionals quickly understand and act on [[list-view-of-reg-alerts|regulatory alerts]] in the New or In Progress state by enriching them with external context and identifying impacted areas. Using web search, the workflow adds **Enriched Insights** to the alert containing additional information such as summaries, fines, due dates, and source references. It then analyzes the enriched alert to generate recommended impacted areas including citations, policies, controls, and control objectives that appear in the **Recommendations** tab. When you accept these recommendations, they’re automatically added to the impacted areas list.
+The get regulatory analysis agentic workflow helps regulatory change management professionals quickly understand and act on regulatory alerts in the New or In Progress state by enriching them with external context and identifying impacted areas. Using web search, the workflow adds **Enriched Insights** to the alert containing additional information such as summaries, fines, due dates, and source references. It then analyzes the enriched alert to generate recommended impacted areas including citations, policies, controls, and control objectives that appear in the **Recommendations** tab. When you accept these recommendations, they’re automatically added to the impacted areas list.
 
 **Note:**
 
@@ -113,8 +113,3 @@ In the Now Assist panel, ask the agent to check for recommended impacted areas f
 
 [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md)
 
-## Related
-
-- [[rcm-agent-insights-workflow|Get regulatory analysis agentic workflow]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

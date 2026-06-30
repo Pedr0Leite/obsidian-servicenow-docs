@@ -12,7 +12,7 @@ breadcrumb: [Create customer relationships, Configure accounts and contacts, Cus
 
 # Contact relationships
 
-You can add a contact from one account to another account by using a contact relationship in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application. By using contact relationships, you can perform actions on behalf of the accounts that you established a contact relationship with.
+You can add a contact from one account to another account by using a contact relationship in the Customer Service Management \(CSM\) application. By using contact relationships, you can perform actions on behalf of the accounts that you established a contact relationship with.
 
 ## Overview of contact relationship
 
@@ -21,15 +21,9 @@ A contact is a user who serves as an employee of an account. To associate a cont
 **Related topics**  
 
 
-[[configuring-contact-relationship|Configuring a contact relationship]]
+[Configuring a contact relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-contact-relationship.md)
 
-[[t_CreateAContactRelationship|Create a contact relationship for an account]]
+[Create a contact relationship for an account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAContactRelationship.md)
 
-[[csm-contact-relationship-form|Contact Relationship form]]
+[Contact Relationship form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contact-relationship-form.md)
 
-## Related
-
-- [[configuring-contact-relationship|Configuring a contact relationship]]
-- [[t_CreateAContactRelationship|Create a contact relationship for an account]]
-- [[csm-contact-relationship-form|Contact Relationship form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

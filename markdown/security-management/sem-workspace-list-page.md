@@ -12,7 +12,7 @@ breadcrumb: [Security Exposure Management Workspace, Explore, Unified Security E
 
 # Security Exposure Management Workspace List view
 
-The List view in the [[sem-workspace-user-interface|Security Exposure Management Workspace]] enables vulnerability and security managers and analysts to view remediation progress on records, drill down into records, and view the status of their approval requests and exceptions.
+The List view in the Security Exposure Management Workspace enables vulnerability and security managers and analysts to view remediation progress on records, drill down into records, and view the status of their approval requests and exceptions.
 
 Role required:
 
@@ -26,7 +26,7 @@ The lists and links provide access to records and tasks. It contains two tabs:
 -   **Lists** tab: Displays the default lists for remediation efforts, remediation tasks, vulnerable items, configuration test results, solutions, exceptions, and libraries.
 -   **My Lists** tab: Displays any lists that you've renamed from the Lists tab and any lists that you create.
 
-    You can also create your own list to monitor remediation progress. For more information, see [[sem-create-custom-list|Create a customized list of records]].
+    You can also create your own list to monitor remediation progress. For more information, see [Create a customized list of records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-custom-list.md).
 
 
 ## Lists tab
@@ -35,7 +35,7 @@ The following table shows the lists available in the Lists tab:
 
 **Tip:**
 
-If the **sn\_vul\_cmn\_ws.navigate\_to\_workspace** system property is set to `true` by an admin, when you select the predefined filter links in the [[vuln-landing-page|Vulnerability Response]], [[avr-landing|Application Vulnerability Response]], [[cvr-landing|Container Vulnerability Response]] and [[vr-config-compliance-landing|Configuration Compliance]] modules from the **All** menu, these links open in the List page of the Security Exposure Management Workspace based on your role.
+If the **sn\_vul\_cmn\_ws.navigate\_to\_workspace** system property is set to `true` by an admin, when you select the predefined filter links in the Vulnerability Response, Application Vulnerability Response, Container Vulnerability Response and Configuration Compliance modules from the **All** menu, these links open in the List page of the Security Exposure Management Workspace based on your role.
 
 For example, if you select **Assigned to My Groups** by navigating to **All** &gt; **Security Exposure Management** &gt; **Remediation Tasks** &gt; **Assigned to My Groups**, this link is redirected to the Security Exposure Management Workspace. The **Assigned to My Groups** list in the **Remediation Tasks** module opens in the List page of the Security Exposure Management Workspace if you have the vulnerability admin or analyst role. To view the host remediation tasks, group the tasks by Record Type.
 
@@ -255,7 +255,7 @@ Approvals
 
 </td><td>
 
-**Assigned to me**: Shows the approval requests assigned to you for processing. To process your approvals in the workspace, see [[sem-approve-requests|Approve or reject requests in the Security Exposure Management Workspace]].
+**Assigned to me**: Shows the approval requests assigned to you for processing. To process your approvals in the workspace, see [Approve or reject requests in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approve-requests.md).
 
 </td><td>
 
@@ -276,7 +276,7 @@ Libraries
 
 Consists of the following lists:-   **CVEs \(NVD\)**: List of all the Common Vulnerability and Exposures \(CVEs\) from Vulnerability Response, Application Vulnerability Response, and Container Vulnerability Response.
 
-**Note:** Starting with v30.3 of Vulnerability Response, it is renamed to [[vulnerabilities|Vulnerabilities]].
+**Note:** Starting with v30.3 of Vulnerability Response, it is renamed to Vulnerabilities.
 
 -   **TPEs**: List of imported third-party vulnerabilities in your instance. Contains a list of related references, vulnerable items, exploits, and CVEs.
 -   **CWEs**: List of all the Common Weakness Enumerations \(CWEs\) from Vulnerability Response, Application Vulnerability Response, and Container Vulnerability Response.
@@ -284,7 +284,7 @@ Consists of the following lists:-   **CVEs \(NVD\)**: List of all the Common Vul
 -   **App vulnerabilities**: List of all the third-party application vulnerability entries.
 -   **Test Groups**: List of all the Configuration Compliance test groups. You can view the percentage of CI compliance and test results compliance for a Test Group in the record view.
 -   **Tests**: List of all the tests from Configuration Compliance. You can view the percentage of test results compliance for a test in the record view.
--   **Compensating Controls**: List of all the compensating controls that can be used for risk reduction requests. You can add a compensating control by clicking **New**. For more information on how to add a compensating control, see [[sem-create-compensatory-control|Add a compensating control to the library]].
+-   **Compensating Controls**: List of all the compensating controls that can be used for risk reduction requests. You can add a compensating control by clicking **New**. For more information on how to add a compensating control, see [Add a compensating control to the library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-compensatory-control.md).
 
 </td><td>
 
@@ -303,7 +303,7 @@ CMDB
 
 </td><td>
 
-Contains the following lists-   **[[cj-discovered-items|Discovered items]]**:List of all the discovered items.
+Contains the following lists-   **Discovered items**:List of all the discovered items.
 -   **Discovered container images**: List of Container images. These container images provide information on the image ID, Docker image, and the image repository along with the layer information.
 -   **Discovered Applications**: List of all discovered applications, including details such as application name, source, state, integration instance, and more.
 
@@ -398,18 +398,5 @@ sn\_vulc.admin
 </table>**Related topics**  
 
 
-[[sem-ws-list-view|Use the List view in the Security Exposure Management Workspace]]
+[Use the List view in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-ws-list-view.md)
 
-## Related
-
-- [[sem-create-custom-list|Create a customized list of records]]
-- [[sem-approve-requests|Approve or reject requests in the Security Exposure Management Workspace]]
-- [[sem-create-compensatory-control|Add a compensating control to the library]]
-- [[sem-ws-list-view|Use the List view in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[cj-discovered-items|Discovered Items]]

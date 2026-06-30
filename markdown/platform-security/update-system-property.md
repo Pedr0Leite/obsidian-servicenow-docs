@@ -12,7 +12,7 @@ breadcrumb: [Administer, Log Export Service \(LES\), Platform Security]
 
 # Update system property
 
-Update the glide.les.disable\_logs\_forwarding system property within the Log [[export|Export]] Service application to control log forwarding during migration or database reseeding operations.
+Update the glide.les.disable\_logs\_forwarding system property within the Log Export Service application to control log forwarding during migration or database reseeding operations.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## About this task
 
-This property controls whether log forwarding is active in Log Export Service. By default, the value is set to **false**, meaning [[logs|logs]] are forwarded normally. During database reseeding or migration, historical log records can be replayed or reprocessed, which may result in duplicate log exports to downstream systems. To prevent duplicate logs from being sent, set this property to **true** to temporarily pause LES forwarding. After the migration is complete, revert the value to **false** to resume normal operation.
+This property controls whether log forwarding is active in Log Export Service. By default, the value is set to **false**, meaning logs are forwarded normally. During database reseeding or migration, historical log records can be replayed or reprocessed, which may result in duplicate log exports to downstream systems. To prevent duplicate logs from being sent, set this property to **true** to temporarily pause LES forwarding. After the migration is complete, revert the value to **false** to resume normal operation.
 
 ## Procedure
 
 1.  Navigate to **All** &gt; **Log Export Service** &gt; **Sources**.
 
-2.  In the workspace filter navigator, enter **sys\_properties.list** to access the [[ca-system-properties|system properties]] list.
+2.  In the workspace filter navigator, enter **sys\_properties.list** to access the system properties list.
 
     This opens the full list of system properties.
 
@@ -90,16 +90,9 @@ Default. After migration is complete, this re-enables log forwarding.
 
 ## Result
 
-When the property is set to **true**, Log Export Service stops forwarding logs, ensuring no data is sent during a migration or DB reseeding event. Once the operation is complete and the value is reverted to **false**, log forwarding resumes automatically. This [[sc-configuration|configuration]] allows administrators to safely pause log forwarding during maintenance windows without affecting the underlying LES configuration.
+When the property is set to **true**, Log Export Service stops forwarding logs, ensuring no data is sent during a migration or DB reseeding event. Once the operation is complete and the value is reverted to **false**, log forwarding resumes automatically. This configuration allows administrators to safely pause log forwarding during maintenance windows without affecting the underlying LES configuration.
 
 **Warning:** After migration or database reseeding is complete, revert the property value to **false**. If you do not revert this setting, log forwarding stops permanently and may result in missing log data in downstream systems.
 
-**Parent Topic:**[[les-administer|Administering Log Export Service \(LES\)]]
+**Parent Topic:**[Administering Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-administer.md)
 
-## Related
-
-- [[les-administer|Administering Log Export Service \(LES\)]]
-- [[export|Export]]
-- [[logs|Logs]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

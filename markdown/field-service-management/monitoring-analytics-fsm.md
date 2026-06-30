@@ -12,7 +12,7 @@ breadcrumb: [Explore, Field Service Management]
 
 # Monitoring and analytics for Field Service Management
 
-Manage, supervise, and monitor various managerial activities involved in [[fsm-application-landing-page|Field Service Management]], such as managing work order task assignments, approving agent time-off, workload, and others.
+Manage, supervise, and monitor various managerial activities involved in Field Service Management, such as managing work order task assignments, approving agent time-off, workload, and others.
 
 Monitoring and analytics for Field Service Management includes at least one of the following activities.
 
@@ -48,7 +48,7 @@ If the preferred assignment group is internal but no one in the internal group q
 
 [Contractor Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/field-service-contractor-portal.md)
 
-[[contractor-dashboard|Contractor dashboard]]
+[Contractor dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/contractor-dashboard.md)
 
 ## Emergency Exposure Management
 
@@ -99,10 +99,5 @@ System administrators train solution definitions to identify and cluster similar
 **Related topics**  
 
 
-[[view-wo-trends|View work order trends topics]]
+[View work order trends topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/view-wo-trends.md)
 
-## Related
-
-- [[contractor-dashboard|Contractor dashboard]]
-- [[view-wo-trends|View work order trends topics]]
-- [[fsm-application-landing-page|Field Service Management]]

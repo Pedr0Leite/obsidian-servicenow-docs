@@ -12,7 +12,7 @@ breadcrumb: [Add a compensating control to the library, Use, Unified Security Ex
 
 # Disable or enable risk reduction for a CVE or TPE
 
-As a Vulnerability Manager and Analyst, you can disable or enable the risk reduction requests for the host [[vulnerabilities|vulnerabilities]] associated with a Common Vulnerability Entry \(CVE\) or Third-party Entry \(TPE\) in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+As a Vulnerability Manager and Analyst, you can disable or enable the risk reduction requests for the host vulnerabilities associated with a Common Vulnerability Entry \(CVE\) or Third-party Entry \(TPE\) in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ The risk reduction for a CVE and TPE is enabled by default.
 3.  To enable the risk reduction requests for host vulnerable items, select **Enable risk reduction**.
 
 
-**Parent Topic:**[[sem-create-compensatory-control|Add a compensating control to the library]]
+**Parent Topic:**[Add a compensating control to the library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-compensatory-control.md)
 
 **Related topics**  
 
@@ -52,8 +52,3 @@ The risk reduction for a CVE and TPE is enabled by default.
 
 [Impact of the compensating controls on risk score and expiration date](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/requesting-approving-risk-reduction.md)
 
-## Related
-
-- [[sem-create-compensatory-control|Add a compensating control to the library]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

@@ -14,11 +14,11 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Record Producer Configuration form
 
-The Record Producer Configuration form enables you to create an [[ia-ai-search|AI Search]] Assist record producer configuration.
+The Record Producer Configuration form enables you to create an AI Search Assist record producer configuration.
 
 |Field|Description|
 |-----|-----------|
-|Title|Title of the record producer configuration. For example, `Search [[hs-results|Results]]`.|
+|Title|Title of the record producer configuration. For example, `Search Results`.|
 |Results per page|Number of search results to display per page.|
 |Allow expand/collapse|Option to allow users to expand or collapse search results in this record producer configuration.|
 |Active|Option to make this record producer configuration active for your instance.|
@@ -26,7 +26,3 @@ The Record Producer Configuration form enables you to create an [[ia-ai-search|A
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

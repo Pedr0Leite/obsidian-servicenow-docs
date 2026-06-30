@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Strategic Portfolio Management integration, Order M
 
 # Configure field mappings
 
-Configure the CSM table maps to associate [[fields|fields]] in order lines, domain orders, and order tasks to projects in Service Portfolio Management.
+Configure the CSM table maps to associate fields in order lines, domain orders, and order tasks to projects in Service Portfolio Management.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-[[explore-order-management|Order Management]] provides Customer Service Management table maps for associating order line items, domain orders, and order tasks to projects and project tasks in SPM. The tables that you configure depend on whether you're using the PPM Standard application to track projects in your organization or the Customer Project Management integration to track customer projects.
+Order Management provides Customer Service Management table maps for associating order line items, domain orders, and order tasks to projects and project tasks in SPM. The tables that you configure depend on whether you're using the PPM Standard application to track projects in your organization or the Customer Project Management integration to track customer projects.
 
 -   If you're using PPM, configure the field mapping for these CSM table maps:
 
@@ -112,7 +112,3 @@ The fields in the Order Management source tables are mapped to the fields in the
 
 Changes made to a synchronized field in order task or domain order will automatically be reflected in the corresponding synchronized field in project task.
 
-## Related
-
-- [[fields|Fields]]
-- [[explore-order-management|Order management]]

@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The PINIdleTimeout property lets you set different inactivity timeouts according to mobile app type. The property provides the option that higher-security apps like the [[mobile-experience|Mobile Agent app]] can lock sooner, while lower-risk apps, like the [[now-mobile-app|Now Mobile app]], can give users more time before reprompting to log in.
+The PINIdleTimeout property lets you set different inactivity timeouts according to mobile app type. The property provides the option that higher-security apps like the Mobile Agent app can lock sooner, while lower-risk apps, like the Now Mobile app, can give users more time before reprompting to log in.
 
 **Note:** If this property isn't defined, the default PIN timeout is 300 seconds.
 
@@ -60,7 +60,7 @@ Application
 
 Application scope where the mobile property is applied. To select a different application scope, select the globe icon \(\[Omitted image "globe-icon.png"\] Alt text: globe image\) on the instance banner. Then select **Application scope: _application\_scope_**.
 
- For information about how mobile properties are affected by application scope, see [[mobile-properties|Mobile properties]].
+ For information about how mobile properties are affected by application scope, see [Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md).
 
 </td></tr><tr><td>
 
@@ -146,8 +146,3 @@ After updating this property, the end user must refresh the app to get the lates
 
 **Parent Topic:**[Mobile properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-properties.md)
 
-## Related
-
-- [[mobile-properties|Mobile properties]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

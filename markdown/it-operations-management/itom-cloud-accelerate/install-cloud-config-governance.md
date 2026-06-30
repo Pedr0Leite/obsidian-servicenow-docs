@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Configuration Governance, Cloud Configuration Gover
 
 # Install Cloud Configuration Governance
 
-You can install the [[cloud-configuration-governance|Cloud Configuration Governance]] application \(com.sn.itom.ccg\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Cloud Configuration Governance application \(com.sn.itom.ccg\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## About this task
 
-Cloud Configuration Governance uses the ServiceNow® [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]] subscription. When you install this application, it automatically installs several roles and the ServiceNow® [[cloud-actions-library-landing-page|Cloud Action Library]] application \(sn.itom.cal\).
+Cloud Configuration Governance uses the ServiceNow® ITOM Cloud Accelerate subscription. When you install this application, it automatically installs several roles and the ServiceNow® Cloud Action Library application \(sn.itom.cal\).
 
 ## Procedure
 
@@ -49,8 +49,3 @@ To access the base system contents such as policies, configuration collectors, r
 
 **Parent Topic:**[Exploring Cloud Configuration Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/exploring-cloud-configuration-governance.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[cloud-actions-library-landing-page|Cloud Action Library]]

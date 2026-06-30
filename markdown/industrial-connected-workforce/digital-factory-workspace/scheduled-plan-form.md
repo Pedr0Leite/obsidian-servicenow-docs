@@ -88,7 +88,7 @@ Active
 
 </td><td>
 
-Option to make the system start [[scheduling-standards|scheduling standards]]. This field is selected by default.
+Option to make the system start scheduling standards. This field is selected by default.
 
 </td></tr><tr><td>
 
@@ -105,6 +105,3 @@ Task values for the schedule plan. Available options for this field depend on th
 </td></tr></tbody>
 </table>**Parent Topic:**[Industrial Standards reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-standards-reference.md)
 
-## Related
-
-- [[scheduling-standards|Scheduling standards]]

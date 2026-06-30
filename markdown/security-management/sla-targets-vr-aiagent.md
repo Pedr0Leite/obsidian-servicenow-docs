@@ -118,8 +118,5 @@ End the conversation.
     The VR.System role also inherits these granular roles so background job execution for the workflow can occur.
 
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]

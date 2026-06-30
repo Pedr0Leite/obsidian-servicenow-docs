@@ -94,10 +94,7 @@ To check some details about the summary, select the more info icon \(\[Omitted i
 
 ## What to do next
 
-Complete the remaining steps to execute the ADR case record. To learn more, see [[create-adr-case-record|Create an Alternative Dispute Resolution case]].
+Complete the remaining steps to execute the ADR case record. To learn more, see [Create an Alternative Dispute Resolution case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-adr-case-record.md).
 
 **Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spm-using.md)
 
-## Related
-
-- [[create-adr-case-record|Create an Alternative Dispute Resolution case]]

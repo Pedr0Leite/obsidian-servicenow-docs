@@ -34,20 +34,16 @@ Role required: sn\_si.admin
     -   Security Incident - Real time
     -   Security Incident - Business Impact
     -   [Vulnerability Significance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/t_AddVulnSignTreemaps.md)
-    **Note:** The Business Impact treemap appears on the [[sir-landing-page|Security Incident Response]] homepage by default. The Service Impact and Real time treemaps require that the Security Incident Analytics plugin are activated.
+    **Note:** The Business Impact treemap appears on the Security Incident Response homepage by default. The Service Impact and Real time treemaps require that the Security Incident Analytics plugin are activated.
 
 5.  In the third selection box, select the level of granularity of information you want retrieved for the selected treemap.
 
     **Note:** For the Security Incident - Service Impact treemap, select **Security Incident** in the third selection box. This selection provides a drop-down list with multiple data categories.
 
-6.  At the bottom of the screen, select the [[location|location]] on the screen you want to add the gauge.
+6.  At the bottom of the screen, select the location on the screen you want to add the gauge.
 
 7.  Close the **Add content** box.
 
 
 **Parent Topic:**[Security incident treemaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_ConfigureTreemaps.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[location|Location]]

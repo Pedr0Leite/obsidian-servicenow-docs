@@ -18,7 +18,7 @@ Install or update all applications that are part of a ServiceNow product from yo
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -57,10 +57,5 @@ Role required: admin
 
 A confirmation message is displayed if all the applications are installed. Otherwise, the number of successful and unsuccessful installations are displayed.
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]

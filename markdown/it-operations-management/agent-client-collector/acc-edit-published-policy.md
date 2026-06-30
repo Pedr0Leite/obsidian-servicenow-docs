@@ -28,7 +28,7 @@ You select a Published policy and then select the **Edit in Sandbox** option to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Policies**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Policies**.
 
 2.  Click a policy for which the **Publish status** is **Published**.
 
@@ -118,6 +118,4 @@ Deletes the policy.This button appears only when viewing the published policy, a
 
     This tab appears only when viewing a published policy.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

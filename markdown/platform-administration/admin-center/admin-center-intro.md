@@ -30,7 +30,7 @@ Use the Admin Center application to discover the capability of the available app
 
 </td><td>
 
-[Discover \[Omitted image "icon-discover.png"\] Alt text: Discover [[ac-achieve-business-objective|Adoption Blueprints]], recommended adoption journeys organized by business outcome](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-discover-ab.md)
+[Discover \[Omitted image "icon-discover.png"\] Alt text: Discover Adoption Blueprints, recommended adoption journeys organized by business outcome](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-discover-ab.md)
 
 </td></tr><tr><td>
 
@@ -38,7 +38,7 @@ Use the Admin Center application to discover the capability of the available app
 
 </td><td>
 
-[Reference \[Omitted image "icon-[[reference-email-admin|reference]].png"\] Alt text: Learn about miscellaneous information about the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-reference.md)
+[Reference \[Omitted image "icon-reference.png"\] Alt text: Learn about miscellaneous information about the app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-reference.md)
 
 </td><td>
 
@@ -57,15 +57,9 @@ Take control of your daily administrative tasks with our intuitive dashboard. Qu
 -   **[Discovering adoption blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-discover-ab.md)**  
 Adoption blueprints provide a roadmap of applications and features, along with suggested solutions to help you reach your business objectives.
 -   **[Configuration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-configuration-hub.md)**  
-Experience the ability to zoom into an application or a group of applications and view all the relevant tables and records on a single page using the [[ac-configuration-hub|Configuration Hub]]. As an admin you can access all relevant details related to the selected application\(s\).
+Experience the ability to zoom into an application or a group of applications and view all the relevant tables and records on a single page using the Configuration Hub. As an admin you can access all relevant details related to the selected application\(s\).
 -   **[Admin Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-reference.md)**  
 Find all the miscellaneous information about Admin Center and its applications in the reference section.
 
-**Parent Topic:**[[get-started-now-platform|Getting started on the ServiceNow AI Platform]]
+**Parent Topic:**[Getting started on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/get-started-now-platform.md)
 
-## Related
-
-- [[get-started-now-platform|Getting started on the ServiceNow AI Platform]]
-- [[ac-achieve-business-objective|Adoption blueprints]]
-- [[reference-email-admin|Reference]]
-- [[ac-configuration-hub|Configuration Hub]]

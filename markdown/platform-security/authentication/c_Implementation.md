@@ -14,11 +14,11 @@ breadcrumb: [Implement a nonce, Local authentication, Authentication, Access Man
 
 # Implement a nonce
 
-Add a cryptographic nonce to the [[c_Authentication|authentication]] header to ensure that it can only be used once.
+Add a cryptographic nonce to the authentication header to ensure that it can only be used once.
 
 -   Create a system property called **glide.authenticate.header.nonce\_key** and set its value to whatever variable name you're using for the nonce, such as NONCE or NCE.
 -   Create a new table called `u_authentication_nonce`. Add a field to the table called `u_nonce`.
--   Go to **[[ca-system-properties|System Properties]]** &gt; **[[r_InstallationExits|Installation Exits]]** and create an item called `DigestSingleSignOnNonce` which overrides ExternalAuthentication \(**glide.authenticate.external\_property**\).
+-   Go to **System Properties** &gt; **Installation Exits** and create an item called `DigestSingleSignOnNonce` which overrides ExternalAuthentication \(**glide.authenticate.external\_property**\).
 -   Add the following code to the script portion of the newly created DigestSingleSignOnNonce.
 
     ```
@@ -37,7 +37,7 @@ Add a cryptographic nonce to the [[c_Authentication|authentication]] header to e
     		var fkey = GlideProperties.get("glide.authenticate.secret_key");
     		
     		// Look in the Headers
-    		var data = [[c_requestAPI|request]].getHeader(headerKey);
+    		var data = request.getHeader(headerKey);
     		var encdata = request.getHeader(headerDigestKey);
     		var nonce = request.getHeader(headerNonceKey);
     		
@@ -56,7 +56,7 @@ Add a cryptographic nonce to the [[c_Authentication|authentication]] header to e
     			nonce = GlideCookieMan.getCookieValue(cookies, headerNonceKey);
     		}
     		
-    		// if found run [[encryption-landing|encryption]]
+    		// if found run encryption
     		if (data != null && encdata != null && nonce != null) {
     			try {
     				
@@ -147,10 +147,3 @@ Add a cryptographic nonce to the [[c_Authentication|authentication]] header to e
 
 Your instance should now be configured to implement a nonce.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[ca-system-properties|System properties]]
-- [[r_InstallationExits|Installation exits]]
-- [[c_requestAPI|request]]
-- [[encryption-landing|Encryption]]

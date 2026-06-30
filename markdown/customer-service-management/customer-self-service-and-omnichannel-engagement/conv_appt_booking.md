@@ -54,8 +54,5 @@ The appointment cancellation flow works as follows:
 
 [Configure Conversational Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/conv-appt-booking-config.md)
 
-[[conv_appt_booking_using|Using Conversational Appointment Booking]]
+[Using Conversational Appointment Booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv_appt_booking_using.md)
 
-## Related
-
-- [[conv_appt_booking_using|Using Conversational Appointment Booking]]

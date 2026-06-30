@@ -14,7 +14,7 @@ breadcrumb: [Create and manage demand tasks, Manage demands, Next Experience for
 
 # Submit a time card for a demand task
 
-The resources assigned to a demand task create and [[submit-time-card|submit a time card]] or time sheet to record the time spent on a demand task. The reported hours are used to calculate the actual cost and effort for a demand task.
+The resources assigned to a demand task create and submit a time card or time sheet to record the time spent on a demand task. The reported hours are used to calculate the actual cost and effort for a demand task.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ The resource submits the time card or time sheet to record and track the work pe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[time-sheets|Time Sheets]]** &gt; **[[worker-portal|Time Sheet Portal]]**.
+1.  Navigate to **All** &gt; **Time Sheets** &gt; **Time Sheet Portal**.
 
-2.  [[t_CreateATimeCard|Create a time card]].
+2.  Create a time card.
 
 <table id="choicetable_jfv_4xf_2hb"><thead><tr><th align="left" id="d105379e80">
 
@@ -54,7 +54,7 @@ To create a time card
 
 </td><td>
 
-1.  Select the **Add unassigned tasks to Time Sheet** link next to Logged [[c_TimeCards|Time Cards]]
+1.  Select the **Add unassigned tasks to Time Sheet** link next to Logged Time Cards
 2.  In the **Add unassigned tasks to Time Sheet** window, search for and select the demand task from the **Select a Task** list.
 
 
@@ -63,10 +63,4 @@ To create a time card
 
 4.  Select **Submit**.
 
-## Related
 
-- [[submit-time-card|Submit a time card]]
-- [[time-sheets|Time Sheets]]
-- [[worker-portal|Time Sheet Portal]]
-- [[t_CreateATimeCard|Create a time card]]
-- [[c_TimeCards|Time cards]]

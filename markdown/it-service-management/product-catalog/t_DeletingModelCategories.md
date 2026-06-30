@@ -22,11 +22,11 @@ Role required: model\_manager
 
 ## About this task
 
-Only [[c_ModelCategories|model categories]] that are not referenced by any [[c_Models|models]] can be deleted.
+Only model categories that are not referenced by any models can be deleted.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Model Categories**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Model Categories**.
 
 2.  Select the check box beside the model category **Name**.
 
@@ -48,8 +48,3 @@ Only [[c_ModelCategories|model categories]] that are not referenced by any [[c_M
 
 [Edit model categories]()
 
-## Related
-
-- [[c_ModelCategories|Model categories]]
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]

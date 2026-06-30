@@ -19,7 +19,7 @@ Use the service providers to schedule the conference calls with the stake holder
 -   **[Using Notify with SMS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifySMS.md)**  
 Send and receive SMS messages using Notify.
 -   **[Using Notify for making conference calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyConferenceCalls.md)**  
-[[notify-landing-page|Notify]] administrators, major incident managers, or communications managers can manage conference calls.
+Notify administrators, major incident managers, or communications managers can manage conference calls.
 -   **[Using Notify with tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyOnTask.md)**  
 Notify allows you to initiate conference calls and send SMS alerts from task records.
 -   **[Using Notify with Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyWithIncidentAlert.md)**  
@@ -31,6 +31,3 @@ Initiate a conference call from the major incident workbench by inviting one or 
 
 **Parent Topic:**[Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-landing-page.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

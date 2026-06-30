@@ -14,7 +14,7 @@ breadcrumb: [Live Feed Core UI, Manage people and work capabilities, Extend Serv
 
 # Live Feed reference
 
-Topics in this section describe [[r_DomainSeparationInLiveFeed|domain separation in Live Feed]], as well as the various components that are installed with it.
+Topics in this section describe domain separation in Live Feed, as well as the various components that are installed with it.
 
 **Important:**
 
@@ -23,14 +23,9 @@ Core UI is required to use Live Feed. Live Feed is not supported in Next Experie
 While Live Feed has been discontinued, we are always exploring new ways to enhance our services. Stay tuned for future updates and improvements.
 
 -   **[Domain separation in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_DomainSeparationInLiveFeed.md)**  
-This is an overview of [[domain-separation-relationship-formatter-editor|domain separation]] and Live Feed. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation and Live Feed. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Components installed with Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/r_InstalledWithLiveFeed.md)**  
 Several types of components are installed with Live Feed.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[r_DomainSeparationInLiveFeed|Domain separation in Live Feed]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

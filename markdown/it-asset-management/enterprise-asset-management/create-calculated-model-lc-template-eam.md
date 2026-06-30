@@ -14,7 +14,7 @@ breadcrumb: [Manage enterprise model life cycles, Create and manage enterprise m
 
 # Create Calculated model lifecycle templates in the Enterprise Asset Workspace
 
-Create Calculated model lifecycle templates to manage the complete lifecycle of the [[c_Models|models]] efficiently.
+Create Calculated model lifecycle templates to manage the complete lifecycle of the models efficiently.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Asset Operations**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Asset Operations**.
 
 2.  From the **Calculated model lifecycle** list, select **Calculated model lifecycle templates**.
 
@@ -69,7 +69,3 @@ Associate the Calculated model lifecycle template with an enterprise model. For 
 
 [Associate an enterprise model with a Calculated model lifecycle template]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

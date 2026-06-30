@@ -24,11 +24,11 @@ Role required: sn\_privacy\_case.privacy\_case\_admin
 
 1.  Navigate to **All** &gt; **Privacy Case Management** &gt; **Case type**.
 
-2.  Select the **View Rules** related list on the [[case-type-form|case type form]].
+2.  Select the **View Rules** related list on the case type form.
 
 3.  Select **New**.
 
-4.  On the [[view-rule-form|View Rule form]], fill in the fields.
+4.  On the View Rule form, fill in the fields.
 
     For a description of the fields on the View Rule form, see [View rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-view-rule-form.md).
 
@@ -40,7 +40,3 @@ Learn about the fields on the view rule form. Use this form to define workspace 
 
 **Parent Topic:**[Configuring Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-privacy-case-management.md)
 
-## Related
-
-- [[case-type-form|Case Type form]]
-- [[view-rule-form|view rule form]]

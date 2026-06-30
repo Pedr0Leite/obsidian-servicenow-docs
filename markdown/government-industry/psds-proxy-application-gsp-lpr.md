@@ -13,7 +13,7 @@ breadcrumb: [Using License and Permit Playbook, Playbooks, Use, Public Sector Di
 
 # Create a License and Permit request on behalf of a constituent or business
 
-Government service agents can create requests on behalf of constituents or business from the [[gsp-overview-public-sector|Government Service Portal]]. Constituents can also create and submit license/permit requests on behalf of someone else through the Government Service Portal.
+Government service agents can create requests on behalf of constituents or business from the Government Service Portal. Constituents can also create and submit license/permit requests on behalf of someone else through the Government Service Portal.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 8.  Enter the name of the constituent or business that the requester is submitting the application on behalf of, and select **Save**.
 
-    **Note:** All license/permit co-applicants must have a business contact account associated with your business to be included on a license/permit application. Each contact can create an account by registering on the Government Service Portal, or a government service agent can create a business contact record for them. For information on how agents can create a business contact record from information entered in a License and Permit application, see [[psds-multi-party-create-business-contact|Create a business contact account from license or permit application data]].
+    **Note:** All license/permit co-applicants must have a business contact account associated with your business to be included on a license/permit application. Each contact can create an account by registering on the Government Service Portal, or a government service agent can create a business contact record for them. For information on how agents can create a business contact record from information entered in a License and Permit application, see [Create a business contact account from license or permit application data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-multi-party-create-business-contact.md).
 
 9.  Select any add-ons, such as permit endorsements.
 
@@ -62,7 +62,3 @@ Role required: sn\_gsm.constituent\_agent, sn\_gsm.relationship\_agent, sn\_gsm.
 
 A case is created with the license or permit request information and all related parties, and is now routed to the constituent via the Government Service Portal. In the Government Service Portal, agents can upload any applicable identity documents, credentials, or supporting documentation required for this license/permit request. The case continues once the constituent has uploaded these documents.
 
-## Related
-
-- [[psds-multi-party-create-business-contact|Create a business contact account from license or permit application data]]
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -29,13 +29,13 @@ In a contact center, skills are the specific areas of knowledge or expertise tha
 
 By setting up and importing these skills, contact centers can route customer queries to the agents most capable of solving them.
 
-To import skills from your contact center to your ServiceNow® instance, refer to [[import-skills|Import skills]].
+To import skills from your contact center to your ServiceNow® instance, refer to [Import skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-skills.md).
 
 ## Queues
 
 Queues are systems used to manage and organize incoming customer inquiries. They help calls, emails, or messages get routed to the appropriate agents based on the defined skills and availability. Queues help in distributing the workload evenly among agents and minimize wait times for customers. They can be set up to handle various service channels, such as phone, email, chat, and social media, so that customer interactions are managed efficiently.
 
-To import queues from your contact center to your ServiceNow® instance, refer to [[import-queues|Import queues]].
+To import queues from your contact center to your ServiceNow® instance, refer to [Import queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-queues.md).
 
 ## Wrap-up codes
 
@@ -43,10 +43,5 @@ Wrap-up codes are labels or categories that agents use to classify the outcome o
 
 For example, wrap-up codes can indicate whether a call was for technical support, billing inquiries, or a product return. Accurately assigning wrap-up codes helps data get correctly captured for future reference and analysis.
 
-To import wrap-up codes from your contact center to your ServiceNow® instance, refer to [[import-wrap-up|Import wrap-up codes]].
+To import wrap-up codes from your contact center to your ServiceNow® instance, refer to [Import wrap-up codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/import-wrap-up.md).
 
-## Related
-
-- [[import-skills|Import skills]]
-- [[import-queues|Import queues]]
-- [[import-wrap-up|Import wrap-up codes]]

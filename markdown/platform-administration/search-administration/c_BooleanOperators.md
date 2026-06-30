@@ -38,7 +38,7 @@ OR or vertical bar symbol \(\|\)
 
 </td><td>
 
-Finds a match if any of the search terms exist in a document \(a union of sets\). For example, to find documents that contain either `email password` or just `email`, you can search for `"email password" OR email` or `"email password"|email`. Using the `.or.` operator, which the system uses when you create OR condition groups for fields other than Keywords with the condition builder, can produce different [[hs-results|results]]. For example, this filter searches for records with short descriptions containing `SSO` and then searches separately for records with short descriptions containing `SAML`:
+Finds a match if any of the search terms exist in a document \(a union of sets\). For example, to find documents that contain either `email password` or just `email`, you can search for `"email password" OR email` or `"email password"|email`. Using the `.or.` operator, which the system uses when you create OR condition groups for fields other than Keywords with the condition builder, can produce different results. For example, this filter searches for records with short descriptions containing `SSO` and then searches separately for records with short descriptions containing `SAML`:
 
 \[Omitted image "search\_with\_lists.png"\] Alt text: Searching with the filter choice lists.
 
@@ -84,6 +84,3 @@ Excludes documents that contain the search term after the NOT operator \(a diffe
 
 [Knowledge properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_KnowledgeProperties.md)
 
-## Related
-
-- [[hs-results|Results]]

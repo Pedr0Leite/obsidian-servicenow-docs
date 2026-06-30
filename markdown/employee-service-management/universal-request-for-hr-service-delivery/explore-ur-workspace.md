@@ -14,7 +14,7 @@ breadcrumb: [Agent Workspaces, Universal Request, Employee Service Management]
 
 # Exploring Universal Request in Agent Workspaces
 
-Learn to create universal requests and understand how user requests are resolved in the [[ur-landing-limitedaccess|Universal Request]] in the Agent Workspaces.
+Learn to create universal requests and understand how user requests are resolved in the Universal Request in the Agent Workspaces.
 
 As a user, when you initiate a chat using the service portal, the routing agent can interact with you using the workspace.
 
@@ -29,7 +29,7 @@ The routing agents can then perform the following actions:
 
 ## Universal Request Overview dashboard
 
-The [[use-overview-report-ur|Universal Request Overview dashboard]] is the default landing page of the Universal Request Agent Workspace. This dashboard contains the basic score card and reports. The information available on this page are:
+The Universal Request Overview dashboard is the default landing page of the Universal Request Agent Workspace. This dashboard contains the basic score card and reports. The information available on this page are:
 
 -   List of all Universal Request tasks that are assigned to you in the My Work section.
 -   Report on your team's work.
@@ -38,7 +38,3 @@ You can view more details of the universal requests by clicking the universal re
 
 **Parent Topic:**[Universal Request in Agent Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/universal-request-workspace.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[use-overview-report-ur|Universal Request Overview dashboard]]

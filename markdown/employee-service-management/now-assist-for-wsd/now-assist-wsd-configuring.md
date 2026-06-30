@@ -14,13 +14,10 @@ breadcrumb: [Now Assist for Workplace Service Delivery \(WSD\), Workplace Servic
 
 # Configuring Now Assist for WSD
 
-Install and configure [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]. As a system administrator configure the Now Assist for WSD application so that workplace reservation requesters can leverage the Now Assist generative AI capabilities.
+Install and configure Now Assist for Workplace Service Delivery \(WSD\). As a system administrator configure the Now Assist for WSD application so that workplace reservation requesters can leverage the Now Assist generative AI capabilities.
 
 ## Configuration overview
 
 1.  [Install Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-install.md)
 2.  [Configure Now Assist in Virtual Agent for Workplace Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/config-now-assist-va-wsd.md)
 
-## Related
-
-- [[now-assist-wsd-landing|Now Assist for Workplace Service Delivery \(WSD\)]]

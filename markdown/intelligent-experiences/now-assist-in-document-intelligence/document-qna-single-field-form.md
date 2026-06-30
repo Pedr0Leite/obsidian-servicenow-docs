@@ -41,7 +41,7 @@ The question about the document. This question is sent to the generative AI for 
 
  **Tip:** View the **Question assistance** tab for additional guidance on forming an effective question.
 
- This question is displayed to the agent when reviewing the answers in the [[document-intelligence-landing|Document Intelligence]] workspace.
+ This question is displayed to the agent when reviewing the answers in the Document Intelligence workspace.
 
 </td></tr><tr><td>
 
@@ -107,6 +107,3 @@ Option to keep the form displayed on the screen. Enable this if you are adding m
 
 [Table form for use case setup]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]

@@ -10,13 +10,13 @@ reading_time_minutes: 1
 
 # Lifecycle Events
 
-[[hr-lifecycle-events-landing-page-1|Lifecycle Events]] enable the fulfillment of HR cases that are related to various employee journeys and transitions.
+Lifecycle Events enable the fulfillment of HR cases that are related to various employee journeys and transitions.
 
 The Lifecycle Events app helps to facilitate daily activities among various cross-functional processes and departments. It makes completing processes that relate to an employees daily life more efficient and easier.
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text: Explore Define and [[define-lifecycle-event-process|document the lifecycle event process]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/define-lifecycle-event-process.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Explore Define and document the lifecycle event process.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/define-lifecycle-event-process.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ The Lifecycle Events app helps to facilitate daily activities among various cros
 
 </td><td>
 
-[Analytics and Reporting Solutions \[Omitted image "bus-performance-forecasting-2.svg"\] Alt text: [[eslate-analytics-reporting|Analytics and Reporting]] Solutions Lifecycle Events dashboards provide visibility into lifecycle events.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/LifecycleEventsDashboard.md)
+[Analytics and Reporting Solutions \[Omitted image "bus-performance-forecasting-2.svg"\] Alt text: Analytics and Reporting Solutions Lifecycle Events dashboards provide visibility into lifecycle events.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/LifecycleEventsDashboard.md)
 
 </td><td>
 
@@ -47,8 +47,3 @@ The Lifecycle Events app helps to facilitate daily activities among various cros
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[define-lifecycle-event-process|Document the lifecycle event process]]
-- [[eslate-analytics-reporting|Analytics and reporting]]

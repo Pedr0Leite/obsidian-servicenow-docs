@@ -14,7 +14,7 @@ breadcrumb: [Submitting a loan service request, Use, Loan Operations, Banking ap
 
 # Submit a loan service request as a requester
 
-Help your customers by [[submit-loan-request|submitting a loan service request]] for them. As a requester in the front office, you can do this service for your customer \(consumer or business contact\).
+Help your customers by submitting a loan service request for them. As a requester in the front office, you can do this service for your customer \(consumer or business contact\).
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Business customers and consumers can also submit loan service requests from the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -104,7 +104,3 @@ Steps
 -   A loan contributor can collect customer documents, if any and submit the loan case for fulfilment.
 -   A loan service agent can start working on the case and its tasks.
 
-## Related
-
-- [[submit-loan-request|Submitting a loan service request]]
-- [[fso-overview|Financial Services]]

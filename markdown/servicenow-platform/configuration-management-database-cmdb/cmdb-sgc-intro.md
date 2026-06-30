@@ -14,7 +14,7 @@ breadcrumb: [Integrating third-party data into CMDB, Configuration Management, E
 
 # Getting started with Service Graph Connectors
 
-[[cmdb-sgc-available|Service Graph Connectors]], including [[api-sgc-available|API Service Graph Connectors]], are predefined integrations that ingest third-party data and API data into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] from various domains, such as security, servers, software or monitoring, Internet of Things \(IoT\), and cloud.
+Service Graph Connectors, including API Service Graph Connectors, are predefined integrations that ingest third-party data and API data into the Configuration Management Database \(CMDB\) from various domains, such as security, servers, software or monitoring, Internet of Things \(IoT\), and cloud.
 
 **Important:** See [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md) and [API Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/api-sgc-available.md) for a list of connectors provided by ServiceNow.
 
@@ -43,16 +43,16 @@ You can use the following connector types:
     Service Graph Connectors can be built by partners and vendors. For a list of partner-built connectors, see the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/integrations?freeTrial=service_graph_certified&offeredby=partners) website.
 
 
-The connectors also make sure that third-party data is mapped to the right locations in your CMDB as specified by the [[csdm-landing-page|Common Service Data Model]] \(CSDM\). The CSDM enables ServiceNow products to use the data and increases reporting accuracy. For more information on CSDM, see [Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md).
+The connectors also make sure that third-party data is mapped to the right locations in your CMDB as specified by the Common Service Data Model \(CSDM\). The CSDM enables ServiceNow products to use the data and increases reporting accuracy. For more information on CSDM, see [Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md).
 
 The Service Graph Connectors, including API Service Graph Connectors, manage the configuration data pipeline in the following steps:
 
-1.  Ingest the data by identifying class, attribute, and data sources by using the [[c_IdentificationRules|identification rules]].
+1.  Ingest the data by identifying class, attribute, and data sources by using the identification rules.
 2.  Standardize the data to comply with your CMDB.
-3.  Reconcile the data into a single coherent picture by using the [[r_ReconciliationRulesPrinciples|reconciliation rules]].
+3.  Reconcile the data into a single coherent picture by using the reconciliation rules.
 4.  Ingest the data into your CMDB.
 
-You can track the status and processing results of all installed integrations using the SGC Central view within the CMDB Workspace or integrations dashboard provided with the [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app. For more information, see [[sgcc-landing|SGC Central]], [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md), and [CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/cmdb-integ-dashboard.md).
+You can track the status and processing results of all installed integrations using the SGC Central view within the CMDB Workspace or integrations dashboard provided with the Integration Commons for CMDB store app. For more information, see [SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-landing.md), [Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md), and [CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/cmdb-integ-dashboard.md).
 
 ## Service Graph Connector user roles
 
@@ -142,21 +142,9 @@ By using Service Graph Connectors and API Service Graph Connectors, you can mand
     -   [Detecting duplicate CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md)
     -   [Create a data refresh rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-datasource-staleness-rule.md)
     -   [Create an identification inclusion rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-id-inclusion-rule.md)
--   Using the [[integrationhub-etl|IntegrationHub ETL]] functionality so that data is transformed and loaded in the fastest and most efficient manner. For more information, see [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md).
+-   Using the IntegrationHub ETL functionality so that data is transformed and loaded in the fastest and most efficient manner. For more information, see [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md).
 
 ## Resolving connector issues
 
-You can use the [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]] application to resolve any issues or perform a general analysis on a connector installed on your instance. See [Fix SGC import set issues with the Now Assist SGC diagnosis skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+You can use the Now Assist for Configuration Management Database \(CMDB\) application to resolve any issues or perform a general analysis on a connector installed on your instance. See [Fix SGC import set issues with the Now Assist SGC diagnosis skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[api-sgc-available|API Service Graph Connectors]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[csdm-landing-page|Common Service Data Model]]
-- [[c_IdentificationRules|Identification rules]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[now-assist-landing-cmdb|Now Assist for Configuration Management Database \(CMDB\)]]

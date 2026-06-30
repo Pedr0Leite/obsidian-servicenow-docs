@@ -21,7 +21,7 @@ Users store and manage knowledge using various external sources and search each 
 Using this feature, knowledge administrators can define the external content to be imported into a knowledge base and periodically run a job to import the content. Knowledge users have a seamless user experience searching for relevant content across multiple knowledge sources.
 
 -   **[Activate the External Content Integration plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/act-ext-know-content.md)**  
-The External Content Integration feature is activated with the [[knowledge-management|Knowledge Management]] - External Content Integration plugin \(com.snc.knowledge.external\_integration\).
+The External Content Integration feature is activated with the Knowledge Management - External Content Integration plugin \(com.snc.knowledge.external\_integration\).
 -   **[Define an external knowledge source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/define-an-external-knowledge-source.md)**  
 Before you import content, create and configure the connection between the a Web Distributed Authoring and Versioning \(WebDAV\) - compliant external knowledge source and the ServiceNow knowledge base into which you want to import content. Define import parameters for the external knowledge source.
 -   **[Import content from an external knowledge source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/run-import-job-external-content-integration.md)**  
@@ -33,6 +33,3 @@ You can integrate content from multiple external sources so your users can acqui
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

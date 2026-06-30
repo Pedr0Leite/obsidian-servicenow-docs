@@ -12,7 +12,7 @@ breadcrumb: [View a survey scorecard, Survey responses and results, Use surveys,
 
 # Survey scorecard category results
 
-The [[r_CategoryResults|Category Results]] view is a stacked bar chart showing survey results for all questions in an individual category or all categories by respondent count.
+The Category Results view is a stacked bar chart showing survey results for all questions in an individual category or all categories by respondent count.
 
 Select a category from the list to display the questions from that category in the chart.
 
@@ -23,12 +23,12 @@ This view displays responses that use the following data types:
 -   Likert Scale
 -   Number
 -   Template
--   [[yes-no|Yes/No]]
+-   Yes/No
 -   Multiple selection
 -   Image Scale
--   [[numeric-scale|Numeric Scale]]
+-   Numeric Scale
 
-**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the [[c_SurveyDesigner|Survey Designer]]
+**Note:** The **Checkbox** and **Yes/No** data types are combined into the **Boolean** data type in the Survey Designer
 
 \[Omitted image "SrvyScoreCardCtgryRslts.png"\] Alt text: Survey category results
 
@@ -36,7 +36,7 @@ To view details about a specific response, point to the colored bar to display t
 
 \[Omitted image "SurveyScorecardResultDetail.png"\] Alt text: Survey scorecard category results detail
 
-**Parent Topic:**[[t_ViewAScorecard|View a survey scorecard]]
+**Parent Topic:**[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -49,10 +49,3 @@ To view details about a specific response, point to the colored bar to display t
 
 [Export a survey scorecard as an image]()
 
-## Related
-
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[r_CategoryResults|Category results]]
-- [[yes-no|Yes/No]]
-- [[numeric-scale|Numeric scale]]
-- [[c_SurveyDesigner|Survey designer]]

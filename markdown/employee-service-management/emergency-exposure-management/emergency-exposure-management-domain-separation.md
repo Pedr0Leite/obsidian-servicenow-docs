@@ -24,14 +24,14 @@ The following table lists the domain separation use cases for service providers 
 |SP External - SP uses the application to identify employees \(SP or tenant\) who might have collaborated with an affected employee \(SP or tenant\).|No|Without the domain column, there is no base system platform security that prevents an SP user who has access to the application from seeing tenant information they would otherwise be restricted from seeing. “Limiting” Application Properties for Outlook settings.|
 |Tenant -Tenant uses the application to identify employees who might have collaborated with an affected employee.|No|Without the domain column, there is no base system platform security that prevents a tenant user with access to the application from seeing other tenant information they would otherwise be restricted from seeing. “Limiting” Application Properties for Outlook settings.|
 
-Some modules in the [[emergency-exposure-management|Emergency Exposure Management]] application are affected by domain separation.
+Some modules in the Emergency Exposure Management application are affected by domain separation.
 
 -   **CREATE NEW &amp; ALL module \(Diagnostic Request\)**
 
     -   No domain column row protections or business logic exist.
     -   Creates a Diagnostic Event based on Outlook meetings, exposure to an affected user, or the user's location, to identify users who might have been potentially exposed through collaboration.
     -   Results from the Diagnostic Event return back to the Diagnostic Request or can be manually added.
-    **Note:** Because the Diagnostic Request record contains the User \(Table: Sys\_User\) and Location \(Table: Cmn\_Location\) fields, visibility to those [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] fields is affected by domain separation. If a user is in a domain that does not have the appropriate visibilities granted, those fields appear empty in the Diagnostic Request even if they contain data.
+    **Note:** Because the Diagnostic Request record contains the User \(Table: Sys\_User\) and Location \(Table: Cmn\_Location\) fields, visibility to those reference fields is affected by domain separation. If a user is in a domain that does not have the appropriate visibilities granted, those fields appear empty in the Diagnostic Request even if they contain data.
 
 -   **PROPERTIES module**
 
@@ -45,7 +45,3 @@ Some modules in the [[emergency-exposure-management|Emergency Exposure Managemen
 
 **Parent Topic:**[Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/emergency-exposure-management.md)
 
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

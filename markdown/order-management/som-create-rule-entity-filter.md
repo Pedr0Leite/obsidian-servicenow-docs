@@ -28,7 +28,7 @@ Role required: sn\_prd\_pm\_product\_catalog\_admin and sn\_prd\_pm\_product\_ca
 
 3.  Select **New**.
 
-    On the form, fill in the [[fields|fields]].
+    On the form, fill in the fields.
 
 <table id="table_ztv_ndr_dcc"><thead><tr><th>
 
@@ -100,12 +100,7 @@ Condition to be used to filter the entity. Use the **Set conditions** builder to
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]

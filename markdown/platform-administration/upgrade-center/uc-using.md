@@ -14,15 +14,9 @@ breadcrumb: [Upgrade Center, Upgrade, Administer the ServiceNow AI Platform]
 
 # Using Upgrade Center
 
-Use different features in [[uc-landing-page|Upgrade Center]] for previewing, scheduling, and monitoring your upgrade experience. You can also review and track every upgrade made in your instance using the [[uc-history-module|Upgrade History module]].
+Use different features in Upgrade Center for previewing, scheduling, and monitoring your upgrade experience. You can also review and track every upgrade made in your instance using the Upgrade History module.
 
--   [Previewing your upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-preview-upgrade.md): Get an insight into your upgrade experience for different ServiceNow release versions and see its impact on your current [[clone-configurations-tab|configurations]].
--   [Scheduling and monitoring your upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-schedule-monitor-upgrade.md): Monitor the status of an ongoing upgrade using the [[uc-monitor-module|Upgrade Monitor module]]. You can also schedule an upgrade using this module.
+-   [Previewing your upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-preview-upgrade.md): Get an insight into your upgrade experience for different ServiceNow release versions and see its impact on your current configurations.
+-   [Scheduling and monitoring your upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-schedule-monitor-upgrade.md): Monitor the status of an ongoing upgrade using the Upgrade Monitor module. You can also schedule an upgrade using this module.
 -   [Reviewing your upgrade history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-review-history.md): Track an upgrade and review its reports using the Upgrade History module.
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-history-module|Upgrade History module]]
-- [[clone-configurations-tab|Configurations]]
-- [[uc-monitor-module|Upgrade Monitor module]]

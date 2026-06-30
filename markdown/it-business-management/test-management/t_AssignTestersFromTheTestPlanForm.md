@@ -14,7 +14,7 @@ breadcrumb: [Assigning testers to test cases, Setting up the manual testing proc
 
 # Assign testers from the Test Plan form
 
-Use the [[c_TestCases|Test Cases]] related list on the Test Plan form to assign testers.
+Use the Test Cases related list on the Test Plan form to assign testers.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tm\_test\_manager or tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Open a test plan.
 
@@ -35,7 +35,3 @@ Role required: tm\_test\_manager or tm\_tester
 
 **Parent Topic:**[Assigning testers to test cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/assigning-testers-to-test-cases.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_TestPlans|Test plans]]

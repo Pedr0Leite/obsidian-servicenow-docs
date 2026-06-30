@@ -14,9 +14,9 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 # Avi load balancer extension classes
 
-The [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates classes for the Avi load balancer.
+The CMDB CI Class Models app adds or updates classes for the Avi load balancer.
 
-CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
+CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, identification rules, identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
 
 See the release notes for all CMDB CI class models.
 
@@ -26,7 +26,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Avi load balancer
 
-The Avi Vantage platform is built on software-defined principles, enabling a next-generation architecture to deliver the flexibility and simplicity expected by IT and lines of business. The Avi Vantage platform architecture separates the data and control planes to deliver application services beyond load balancing, such as application analytics, predictive autoscaling, micro-segmentation, and [[self-service-landing|self-service]] for app owners in on-premises or cloud environments. The platform provides a centrally managed, dynamic pool of load balancing resources on commodity x86 servers, virtual machines, or containers, to deliver granular services close to individual applications. Providing these services allows network services to scale near infinitely without the added complexity of managing hundreds of disparate appliances.
+The Avi Vantage platform is built on software-defined principles, enabling a next-generation architecture to deliver the flexibility and simplicity expected by IT and lines of business. The Avi Vantage platform architecture separates the data and control planes to deliver application services beyond load balancing, such as application analytics, predictive autoscaling, micro-segmentation, and self-service for app owners in on-premises or cloud environments. The platform provides a centrally managed, dynamic pool of load balancing resources on commodity x86 servers, virtual machines, or containers, to deliver granular services close to individual applications. Providing these services allows network services to scale near infinitely without the added complexity of managing hundreds of disparate appliances.
 
 Discovery uses the [Avi Vantage load balancer discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/avi-load-balancer-discovery.md) pattern to find Avi load balancer resources.
 
@@ -98,8 +98,3 @@ CMDB CI Class Models: Release 1.6.0 adds the following column to the respective 
 
 [CMDB schema model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ConfigurationManagementDatabase.md)
 
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]
-- [[c_IdentificationRules|Identification rules]]
-- [[self-service-landing|Self-service]]

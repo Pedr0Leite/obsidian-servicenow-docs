@@ -14,7 +14,7 @@ breadcrumb: [Intelligent Servicing for Fraud, Banking applications, Financial Se
 
 # Intelligent Servicing for Fraud dashboard
 
-[[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]] contains a preconfigured dashboard with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
+Intelligent Servicing for Fraud contains a preconfigured dashboard with actionable data visualizations that can help your organization improve your business processes and quantify the value of self-service.
 
 The Intelligent Servicing for Fraud dashboard enables you to monitor the status of fraud cases, see trends, and drill down into details from a single view. For any given duration, you can view the details for closed cases that breached SLA and open cases that need immediate attention.
 
@@ -110,6 +110,3 @@ Needs to be able to customize views.
 |Fraud risk classification|Choice|Shows all active risk classifications for the Fraud case \[sn\_bom\_fraud\_case\] table.|
 |Fraud source|Choice|Shows all active source types for the Fraud case \[sn\_bom\_fraud\_case\] table.|
 
-## Related
-
-- [[intelligent-servicing-for-fraud-landing-page|Intelligent Servicing for Fraud]]

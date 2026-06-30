@@ -30,7 +30,7 @@ You can send email summaries to an authenticated user or users who are verified 
 
 2.  On the Engagement Messenger Modules page, in the **Edit module** column, select **Edit**.
 
-3.  On the [[create-engagement-messenger-module|Configure Engagement Messenger]] Module page, select **Features**.
+3.  On the Configure Engagement Messenger Module page, select **Features**.
 
 4.  Enable the Chat feature by turning on the **Chat** in the Feature settings pane.
 
@@ -53,6 +53,3 @@ You can send email summaries to an authenticated user or users who are verified 
 
 Automatically sends email notifications of missed chat messages at the specified time interval.
 
-## Related
-
-- [[create-engagement-messenger-module|Configure Engagement Messenger]]

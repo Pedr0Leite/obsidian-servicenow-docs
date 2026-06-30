@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Request Management, Operational T
 
 # Create a fulfillment flow for an Operational Technology request
 
-Create a fulfillment flow with catalog tasks in Workflow Studio for your catalog item as needed to fulfill an [[operational-technology-overview|Operational Technology]] \(OT\) request.
+Create a fulfillment flow with catalog tasks in Workflow Studio for your catalog item as needed to fulfill an Operational Technology \(OT\) request.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ Workflow Studio saves a draft of the flow, trigger, and actions for the fulfillm
 
 **Parent Topic:**[Configuring Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/configuring-operational-technology-request-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Portfolio Management, IT Service Management]
 
 # Using Service Portfolio Management
 
-[[SPM2-landing-page|Service Portfolio Management]] enables you to create services and service offerings, and assign them to service portfolios. You can also view service-related data including service availability results.
+Service Portfolio Management enables you to create services and service offerings, and assign them to service portfolios. You can also view service-related data including service availability results.
 
 ## Overview of Service Portfolio Management
 
@@ -29,7 +29,7 @@ Define the limits of a service with scope details to grant or deny specific serv
 -   **[Service Portfolio Management Premium notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-premium-notifications.md)**  
 Notifications are added with Service Portfolio Management Premium to manage your service offering to catalog item relationships.
 -   **[Edit and manage service portfolios in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-edit-manage-portfolios.md)**  
-Manage the CSDM life cycle fields of your portfolio taxonomy nodes in the Service Portfolio Management application. You can move taxonomy nodes easily from one portfolio to another to confirm that your portfolios are synchronized. You can also decide to show or hide the life cycle fields in the complimentary [[dpm-landing|Digital Portfolio Management]] \(DPM\) Workspace.
+Manage the CSDM life cycle fields of your portfolio taxonomy nodes in the Service Portfolio Management application. You can move taxonomy nodes easily from one portfolio to another to confirm that your portfolios are synchronized. You can also decide to show or hide the life cycle fields in the complimentary Digital Portfolio Management \(DPM\) Workspace.
 -   **[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)**  
 A service offering derives from a service, refining the parent service to a specific business need and performance level.
 -   **[Log outages in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/create-SPM2-outages.md)**  
@@ -41,12 +41,7 @@ By default, the time zone to calculate availability for services and commitments
 -   **[Convert services in bulk in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-migrate-bulk-services.md)**  
 Convert multiple services from the Configuration Management Database \(CMDB\) service table to one of the dedicated child tables. You can convert to a business service or to a technical service.
 -   **[View Service Level Agreement \(SLA\) results in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-view-sla-result.md)**  
-Service Portfolio Management leverages the [[service-level-mgmt-landing-page|Service Level Management]] application and includes a module to manage your Service Level Agreement \(SLA\) definitions and results.
+Service Portfolio Management leverages the Service Level Management application and includes a module to manage your Service Level Agreement \(SLA\) definitions and results.
 
 **Parent Topic:**[Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-landing-page.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[service-level-mgmt-landing-page|Service Level Management]]

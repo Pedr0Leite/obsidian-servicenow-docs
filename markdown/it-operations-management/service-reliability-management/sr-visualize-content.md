@@ -14,7 +14,7 @@ breadcrumb: [SRM interface, Get started with Service Reliability Management, Exp
 
 # Search, filters, lists, forms, and guides
 
-An overview of the additional elements in the [[sr-landing-page|Service Reliability Management]] \(SRM\) interface that help you find items, view available forms and lists, and follow setup processes.
+An overview of the additional elements in the Service Reliability Management \(SRM\) interface that help you find items, view available forms and lists, and follow setup processes.
 
 -   **Table List view**
 
@@ -45,6 +45,3 @@ An overview of the additional elements in the [[sr-landing-page|Service Reliabil
 
 **Parent Topic:**[SRM interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-navigate-interface.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]

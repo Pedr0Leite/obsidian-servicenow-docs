@@ -32,7 +32,7 @@ You can modify these sample flows to trigger an automated submission under diffe
 
 The sandbox integration consists of two base system flows that are deactivated by default.
 
--   **Submit file when category is phishing**: This flow submits a file to the sandbox for [[threat-intelligence-malware-analysis|malware analysis]] when the security incident category is defined as phishing. You must attach a file to the observable record on the security incident. If you're using the User Reported Phishing \(URP\) functionality, any email attachment is automatically parsed and added to the SIR incident record as an observable record. No further action is required to automate the submission.
+-   **Submit file when category is phishing**: This flow submits a file to the sandbox for malware analysis when the security incident category is defined as phishing. You must attach a file to the observable record on the security incident. If you're using the User Reported Phishing \(URP\) functionality, any email attachment is automatically parsed and added to the SIR incident record as an observable record. No further action is required to automate the submission.
 -   **Submit when file type for observable is exe**: This flow submits a file to the sandbox for malware analysis when the security incident observable is an exe. Similar to the phishing category flow, a you must attach a file to an observable record on the security incident. You can do this manually by uploading the file or automatically if a phishing email attachment, or other mechanism that is creating the incident, is associated with the observable records.
 
 When the flows are configured and incident conditions satisfy the parameters, the sandbox submissions trigger automatically when you review the security incident. Review the Work note that indicates that a submission has been initiated, a tag appears if enabled in the configuration, and a pending submission results record.
@@ -74,6 +74,3 @@ You can refer the subflows to troubleshoot issues with sandbox submissions. An E
 
 After you configure automated submission flows, you can [View the sandbox submission results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-sandbox-submission-results.md) to analyze any threats.
 
-## Related
-
-- [[threat-intelligence-malware-analysis|Malware analysis]]

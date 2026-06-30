@@ -14,7 +14,7 @@ breadcrumb: [Manage enterprise goals, Strategy and Goals, Strategic Planning, St
 
 # Create a goal
 
-[[create-goal|Create a goal]] and set targets to measure progress and align with your organization's strategic priorities.
+Create a goal and set targets to measure progress and align with your organization's strategic priorities.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_apw\_advanced.spw\_goal\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
 2.  On the Strategy and Goals page, select the strategy-based board or goal-based board for which you want to create a goal.
 
@@ -81,8 +81,3 @@ On the Goals page, select **New**.
 
 [Create a strategic priority](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-strategic-priority-strategy.md)
 
-## Related
-
-- [[create-goal|Create a goal]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]

@@ -18,9 +18,9 @@ Tailor the baseline policy statements and baseline controls.
 
 ## Before you begin
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
-**Tailor Baseline Controls** requires that you implement all necessary controls following the standard [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application procedures.
+**Tailor Baseline Controls** requires that you implement all necessary controls following the standard Policy and Compliance Management application procedures.
 
 Role required: sn\_irm\_nist\_rmf.risk\_executive, sn\_irm\_nist\_rmf.security\_officer, or sn\_irm\_nist\_rmf.control\_provider
 
@@ -35,7 +35,3 @@ Role required: sn\_irm\_nist\_rmf.risk\_executive, sn\_irm\_nist\_rmf.security\_
 
 **Parent Topic:**[Select baseline control definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/rmf-select.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

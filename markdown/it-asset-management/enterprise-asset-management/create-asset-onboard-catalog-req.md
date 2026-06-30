@@ -78,7 +78,7 @@ Select this check box for a new model you want to create. Once selected, enter t
 -   Model name
 -   Model number
 -   Short description
-**Note:** The above information is collected for creating a model record. The model record gets created in the [[using-eam-workspace|Enterprise Asset Workspace]].
+**Note:** The above information is collected for creating a model record. The model record gets created in the Enterprise Asset Workspace.
 
 </td></tr><tr><td id="d188234e161">
 
@@ -115,6 +115,3 @@ Select to enter information for creating new assets. In the Add Row dialog box, 
 
 The enterprise\_asset\_manager role can launch the multi-asset playbook from the Enterprise Asset Workspace.
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

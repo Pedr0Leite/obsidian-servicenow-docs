@@ -14,12 +14,12 @@ breadcrumb: [Defining Document Parameters, Features, Managed Documents, Document
 
 # Defining Approval Rules
 
-To define a new approval rule, navigate to **[[c_ManagedDocuments|Managed Documents]]** &gt; **Administration** &gt; **[[c_ApprovalRules|Approval Rules]]** and click **New**.
+To define a new approval rule, navigate to **Managed Documents** &gt; **Administration** &gt; **Approval Rules** and click **New**.
 
 |Field|Description|
 |-----|-----------|
 |Name|A unique identifier for the approval rule.|
-|Active|A [[check-box|check box]] indicating whether this approval rule is used.|
+|Active|A check box indicating whether this approval rule is used.|
 |Condition|A condition builder that determines which documents use this approval rule.|
 |Description|A short description of the approval rule.|
 
@@ -39,8 +39,3 @@ The following approval rules are available in the base system.
 
 [Defining Document Parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/r_DefiningDocumentParameters.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]
-- [[c_ApprovalRules|Approval rules]]
-- [[check-box|Check box]]

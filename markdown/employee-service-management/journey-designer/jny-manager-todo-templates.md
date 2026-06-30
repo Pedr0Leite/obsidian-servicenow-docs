@@ -24,7 +24,7 @@ Role required: admin \[sn\_jny.admin\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[jny-dsgnr-landing-page-1|Journey designer]]** &gt; **Manage Manager Task Templates**.
+1.  Navigate to **All** &gt; **Journey designer** &gt; **Manage Manager Task Templates**.
 
 2.  Open a task template, or click **New**.
 
@@ -37,6 +37,3 @@ Role required: admin \[sn\_jny.admin\]
 
 **Parent Topic:**[Creating and managing audience-specific templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-creating-audience-specific-plans.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

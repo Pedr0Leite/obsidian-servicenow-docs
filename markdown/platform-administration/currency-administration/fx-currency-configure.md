@@ -14,7 +14,7 @@ breadcrumb: [Defaults required for FX Currency use, Configure, Currency administ
 
 # Configuring FX Currency global settings
 
-Before setting up and using FX Currency, review the related [[r_SetArchiveRuleProcessingBehavior|system properties]] to confirm or modify its default behavior.
+Before setting up and using FX Currency, review the related system properties to confirm or modify its default behavior.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The global defaults you establish in system properties apply the configuration option to all [[fx-currency|FX Currency fields]]. You can then customize them for specific dictionary attributes in **[[system-localization-landing|System Localization]]** &gt; **FX Currency Configuration.** When you create a currency configuration, it applies those settings only to the FX Currency field that you add it to. To learn more about FX Currency [[clone-configurations-tab|configurations]], see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md).
+The global defaults you establish in system properties apply the configuration option to all FX Currency fields. You can then customize them for specific dictionary attributes in **System Localization** &gt; **FX Currency Configuration.** When you create a currency configuration, it applies those settings only to the FX Currency field that you add it to. To learn more about FX Currency configurations, see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md).
 
 FX Currency configuration settings for specific FX Currency fields take precedence over system properties. Administrators can set a global configuration for a property, and then apply exceptions on a field-by-field basis.
 
@@ -82,7 +82,7 @@ Default currency display value returned from getDisplayValue\(\).-   **Type**: S
 -   **Available options**:
     -   as\_entered: Currency value as entered by the user
     -   in\_session\_currency: Currency value as entered by the user and converted to the session currency
-    -   in\_reference\_currency: Currency value as entered by the user converted to the [[reference-email-admin|reference]] currency
+    -   in\_reference\_currency: Currency value as entered by the user converted to the reference currency
 -   **Develop**: [GlideCurrencyFormatter](https://developer.servicenow.com/go_to_api.do?ID=GlideCurrencyFormatterScopedAPI&v=kingston)
 
 
@@ -137,10 +137,3 @@ If set to false, the system locale is the default.
 
 [Update a Currency Instance record]()
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[fx-currency|FX Currency fields]]
-- [[system-localization-landing|System Localization]]
-- [[clone-configurations-tab|Configurations]]
-- [[reference-email-admin|Reference]]

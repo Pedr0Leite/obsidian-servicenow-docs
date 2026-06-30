@@ -20,12 +20,9 @@ Now the value is displayed as a duration in lists and can be utilized in the Con
 
 \[Omitted image "DurationDict.png"\] Alt text:
 
-[[hs-results|Results]] in list:
+Results in list:
 
 \[Omitted image "DurationResult.png"\] Alt text:
 
 **Parent Topic:**[Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DictionaryAttributes.md)
 
-## Related
-
-- [[hs-results|Results]]

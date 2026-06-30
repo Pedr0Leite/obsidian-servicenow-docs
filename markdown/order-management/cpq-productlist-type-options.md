@@ -28,8 +28,5 @@ The following video details ProductList.Type options for manipulating product qu
 **Related topics**  
 
 
-[[reverse_twin_productlist_extended_data_to_quoteline|Using ProductList.extended to populate the Quote Line record]]
+[Using ProductList.extended to populate the Quote Line record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reverse_twin_productlist_extended_data_to_quoteline.md)
 
-## Related
-
-- [[reverse_twin_productlist_extended_data_to_quoteline|Using ProductList.extended to populate the Quote Line record]]

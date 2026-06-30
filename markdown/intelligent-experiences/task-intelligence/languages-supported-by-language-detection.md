@@ -14,7 +14,7 @@ breadcrumb: [Task Intelligence references, Task Intelligence, Enable AI experien
 
 # Languages supported by Task Intelligence
 
-The [[task-intelligence|Task Intelligence]] application provides support for predictions in different languages.
+The Task Intelligence application provides support for predictions in different languages.
 
 Each of the supported languages has an associated two-character code. For example, `English - en`.
 
@@ -50,6 +50,3 @@ The following table lists the languages supported for Task Intelligence along wi
 |Thai|th| | | |X|
 |Turkish|tr| | | |X|
 
-## Related
-
-- [[task-intelligence|Task Intelligence]]

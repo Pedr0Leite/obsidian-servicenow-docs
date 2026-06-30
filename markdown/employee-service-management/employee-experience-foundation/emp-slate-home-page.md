@@ -17,7 +17,7 @@ breadcrumb: [Employee Slate, Unified Employee Experience, Employee Service Manag
 
 Access services, tasks, and announcements from a AI-first dashboard that helps with your daily work.
 
-[[employee-slate-landing-page|Employee Slate]] is an employee engagement layer that combines intelligent assistance, employee communication, organizational navigation, task management, and other employee services to boost work productivity.
+Employee Slate is an employee engagement layer that combines intelligent assistance, employee communication, organizational navigation, task management, and other employee services to boost work productivity.
 
 Employee Slate provides a set of default widgets on the home page that surface actionable information and give employees a consolidated view.
 
@@ -43,7 +43,7 @@ For a set of prompts that you can use across Employee Slate features, see [Emplo
 
 Employee Slate includes the following widgets on the home page. Use the flexible home page which auto-adjusts the layout based on the widgets count.
 
--   **[[emp-slate-inbox|Tasks and requests]]**
+-   **Tasks and requests**
 
     Surfaces priority tasks and approvals for your employees to act right from Tasks and requests. The widget highlights the top two AI-prioritised to-do items for immediate attention and action. Tasks and requests provides quick access to the full task or approval record.
 
@@ -55,7 +55,7 @@ Employee Slate includes the following widgets on the home page. Use the flexible
 
     Highlights the most-viewed knowledge articles and popular catalog items for employees to self-serve. The widget ranks content by recency, relevance, and popularity. The most-viewed knowledge articles and most-requested catalog items \(up to three slots\) across the peer group appear for quick access.
 
--   **[[emp-center-quick-link-config|Quick Links]]**
+-   **Quick Links**
 
     Provides configurable shortcuts to commonly used catalog items, KBs, and links for easy access to other portals. Administrators configure the most frequently accessed links and destinations. Employees can navigate to knowledge articles, catalog items, and external links in a new tab.
 
@@ -66,8 +66,3 @@ Employee Slate includes the following widgets on the home page. Use the flexible
 
 Administrators control which widgets are available on the home page from the widget instance at Employee Home Page &gt; Container. The home page does not support arbitrary addition of custom widgets outside of the widget library managed through the console.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]
-- [[emp-center-quick-link-config|Quick links]]

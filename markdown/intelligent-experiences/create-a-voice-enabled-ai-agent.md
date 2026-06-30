@@ -12,7 +12,7 @@ breadcrumb: [Deploy AI voice agents, Now Assist AI agents, Enable AI experiences
 
 # Create an AI voice agent
 
-Create an AI voice agent in the [[ai-agent-studio|AI Agent Studio]] to resolve [[cases|cases]], incidents, or tasks through the phone channel.
+Create an AI voice agent in the AI Agent Studio to resolve cases, incidents, or tasks through the phone channel.
 
 ## Before you begin
 
@@ -57,7 +57,7 @@ Navigate in AI Agent Studio
 </td></tr></tbody>
 </table>2.  On the Define the specialty page, describe your AI agent and provide instructions on how you want your AI agent to perform its tasks.
 
-    Select **Generate details** to generate a description and instructions with [[platform-now-assist-landing|Now Assist]]. If you provide the description of what you want the agent to do, you can select **Generate** to write the name, description, AI agent role, and instructions fields for you. You can change those fields after the text has been generated or try again with new instructions.
+    Select **Generate details** to generate a description and instructions with Now Assist. If you provide the description of what you want the agent to do, you can select **Generate** to write the name, description, AI agent role, and instructions fields for you. You can change those fields after the text has been generated or try again with new instructions.
 
     **Note:** The more details that you provide, the more accurately your AI agent can perform.
 
@@ -126,7 +126,7 @@ Necessary steps to be followed by the AI agent while carrying out its role.
 
  Example for the Incident manager: Incidents are records for tracking issues and their resolution updates through a set of journal entries. Your objective is to act as an incident manager. If the user provides an incident number, verify the caller identity before sharing permitted details. If no number is given, match incidents using the short description and confirm with the user. Allow updates only if the user matches the caller. Offer live agent transfer if the user is unsatisfied.
 
- To [[resolve-incident-aia|resolve an incident]]:
+ To resolve an incident:
 
 1.  Verify the caller number.
 2.  Search for incident records associated with the user.
@@ -147,7 +147,7 @@ Necessary steps to be followed by the AI agent while carrying out its role.
         -   Outline specialties:
 
             -   Specify the key areas or tasks that the AI agent handles.
-            -   Example: Specializes in handling [[inquiries|inquiries]] and resolving customer issues.
+            -   Example: Specializes in handling inquiries and resolving customer issues.
         -   Identify the business problem:
 
             -   Articulate the specific business challenge for the AI agent to address.
@@ -173,7 +173,7 @@ Necessary steps to be followed by the AI agent while carrying out its role.
 
             -   Emphasize the benefits and outcomes of using the AI agent.
             -   Example: Using the AI agent leads to faster resolution times and higher customer satisfaction scores.
-        By following these general guidelines, you can create clear and effective prompt instructions that enable you to use AI agents to their fullest potential. For more information and examples, see [[gg-creating-aia|General guidelines for creating AI agents]].
+        By following these general guidelines, you can create clear and effective prompt instructions that enable you to use AI agents to their fullest potential. For more information and examples, see [General guidelines for creating AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/gg-creating-aia.md).
 
     3.  Determine if the AI agent can be accessed by third parties.
 
@@ -189,18 +189,18 @@ Necessary steps to be followed by the AI agent while carrying out its role.
 
     The following tools are available for AI voice agents:
 
-    -   [[add-file-retrieval|File upload]]: Different file types such as PDF, DOCX, or TXT formats that you can add to your AI agent.
-    -   [[add-flow-action-ai-agent|Flow action]]: Custom automated processes in your system that you can add to your AI agent. Example for the Incident manager agent: Fetch details of the incident.
-    -   [[add-knowledge-graph|Knowledge Graph]]: Various [[knowledge-graph-landing|Knowledge Graph]] items that you can add to you AI agent.
-    -   [[add-mcp-server-tool|MCP server tool]]: An MCP server tool that you can to your AI agent.
-    -   [[add-database-op-ai-agent|Record operation]]: Different record operations that you can add to your AI agent.
-    -   [[add-script-ai-agent|Script]]: Editable scripts and APIs that you can add to your AI agent.
-    -   [[add-retriever-ai-agent|Search retrieval]]: Information retrieval processes in your system that you can add to your AI agent.
+    -   [File upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-file-retrieval.md): Different file types such as PDF, DOCX, or TXT formats that you can add to your AI agent.
+    -   [Flow action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-flow-action-ai-agent.md): Custom automated processes in your system that you can add to your AI agent. Example for the Incident manager agent: Fetch details of the incident.
+    -   [Knowledge Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-knowledge-graph.md): Various Knowledge Graph items that you can add to you AI agent.
+    -   [MCP server tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-mcp-server-tool.md): An MCP server tool that you can to your AI agent.
+    -   [Record operation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-database-op-ai-agent.md): Different record operations that you can add to your AI agent.
+    -   [Script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-script-ai-agent.md): Editable scripts and APIs that you can add to your AI agent.
+    -   [Search retrieval](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-retriever-ai-agent.md): Information retrieval processes in your system that you can add to your AI agent.
 
         **Note:** Create a dedicated search profile that includes only the KB articles for AI voice agents to reduce the search scope and minimize latency.
 
-    -   [[add-sub-flow-ai-agent|Sub flow]]: Automated flows in your system that you can add to your AI agent.
-4.  In the Define security [[controls|controls]] tab, define who can access the AI agent and what data the AI agent has access to.
+    -   [Sub flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-sub-flow-ai-agent.md): Automated flows in your system that you can add to your AI agent.
+4.  In the Define security controls tab, define who can access the AI agent and what data the AI agent has access to.
 
     1.  Define the users who can access this AI agent \(ACLs\).
 
@@ -236,21 +236,4 @@ Necessary steps to be followed by the AI agent while carrying out its role.
         -   If no voice assistants are linked, **Test in assistant** is disabled. Link a voice assistant first.
 6.  Select **Done** to save the configuration.
 
-## Related
 
-- [[gg-creating-aia|General guidelines for creating AI agents and agentic workflows]]
-- [[add-file-retrieval|Add a file upload to an AI agent]]
-- [[add-flow-action-ai-agent|Add a flow action to an AI agent]]
-- [[add-knowledge-graph|Add a Knowledge Graph to an AI agent]]
-- [[add-mcp-server-tool|Add an MCP server tool to an AI agent]]
-- [[add-database-op-ai-agent|Add a record operation to an AI agent]]
-- [[add-script-ai-agent|Add a script to an AI agent]]
-- [[add-retriever-ai-agent|Add a search retrieval to an AI agent]]
-- [[add-sub-flow-ai-agent|Add a subflow to an AI agent]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[cases|Cases]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[resolve-incident-aia|Resolve an incident]]
-- [[inquiries|Inquiries]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[controls|Controls]]

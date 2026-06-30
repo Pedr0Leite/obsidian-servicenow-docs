@@ -20,7 +20,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **Corrective Action**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Corrective Action**.
 
 2.  Select the corresponding campaign record in which you want to generate the part requirements.
 
@@ -28,7 +28,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 4.  Select the corrective action record to generate part requirements.
 
-    If the [[mco_corrective_action_charges|Corrective action charges]] with **Type** is set to **Part** and the **Status** is set to **In Use**, then the following fields are automatically populated.
+    If the Corrective action charges with **Type** is set to **Part** and the **Status** is set to **In Use**, then the following fields are automatically populated.
 
 <table id="table_c4z_wrv_n3c"><thead><tr><th>
 
@@ -84,14 +84,8 @@ Unit of measure. Available options are:-   Box
 </table>    **Note:** When corrective action status changes to Draft, part details in part requirements are reset to 0.
 
 
--   **[[mco-part-availability|Create a part availability]]**  
+-   **[Create a part availability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-part-availability.md)**  
 Track current part availability and expected availability dates for required parts.
 
-**Parent Topic:**[[mco-corrective-actions|Corrective actions]]
+**Parent Topic:**[Corrective actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-corrective-actions.md)
 
-## Related
-
-- [[mco-part-availability|Create a part availability]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[mco-recall-management|Recall management]]
-- [[mco_corrective_action_charges|Corrective action charges]]

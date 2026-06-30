@@ -14,7 +14,7 @@ breadcrumb: [Business Portal, Configure, Sales Customer Relationship Management]
 
 Install the necessary applications based on the self-service order and invoice case management options that you want to offer customers on the Business Portal.
 
-**Note:** For information about activating the Business Portal itself, see [[order-management-enable-business-portal|Enable the Business Portal]]
+**Note:** For information about activating the Business Portal itself, see [Enable the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-management-enable-business-portal.md)
 
 ## Case management applications
 
@@ -26,7 +26,7 @@ The following apps must be installed from the ServiceNow Store to enable your cu
 These plugins have the following dependencies:
 
 -   Customer Service Portal \[com.snc.customer\_service\_portal\]
--   [[order-operations-landing|Order Operations]] Case Management \[sn\_order\_case\]
+-   Order Operations Case Management \[sn\_order\_case\]
 -   Playbooks for Customer Service Management \[sn\_csm\_playbook\]
 
 If your customers need to only view order cases in the Business Portal, you don't need to install the Order Case Playbook \[sn\_ord\_case\_pb\] and Playbooks for Customer Service Management \[sn\_csm\_playbook\] plugins.
@@ -50,13 +50,7 @@ If your customers only need to view invoice cases in the Business Portal, you do
 **Related topics**  
 
 
-[[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
+[Customer self-service for Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-self-service-business-portal.md)
 
-[[order-mgt-business-portal|Customer self-service using the Business Portal]]
+[Customer self-service using the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-business-portal.md)
 
-## Related
-
-- [[order-management-enable-business-portal|Enable the Business Portal]]
-- [[som-self-service-business-portal|Customer self-service for Sales Customer Relationship Management]]
-- [[order-mgt-business-portal|Customer self-service using the Business Portal]]
-- [[order-operations-landing|Order operations]]

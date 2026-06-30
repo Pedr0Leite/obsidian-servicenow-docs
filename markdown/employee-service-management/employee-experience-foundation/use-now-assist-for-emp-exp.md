@@ -21,7 +21,7 @@ Check your to-do and pending tasks by using the Now Assist in Virtual Agent AI c
 -   **[Check your approvals by using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-your-approvals-using-now-assist-virtual-agent-emp-exp.md)**  
 Check the approvals that are assigned to you by using the Now Assist in Virtual Agent AI chat window. By checking your approvals before you begin your tasks, you avoid working on tasks that weren't approved and focus on what needs to be done.
 -   **[Check company news and events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/check-company-news-using-nowassist-va.md)**  
-Stay connected and informed on company updates, events, announcements, and more with the help of the AI Agent in the [[employee-center-landing-page|Employee Center]] Now Assist in Virtual Agent.
+Stay connected and informed on company updates, events, announcements, and more with the help of the AI Agent in the Employee Center Now Assist in Virtual Agent.
 -   **[View summarization for approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/view-summarization-approvals.md)**  
 Check the generated approval summaries for cases, requested items, and requests for approvals. Based on the trigger selection by your admin, you can see contextual summary of the approval.
 -   **[Manage approvals with Now Assist Approval Assistance AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-approvals-with-approvals-agent.md)**  
@@ -29,6 +29,3 @@ Manage the approvals that are assigned to you by using the Now Assist **Approval
 
 **Parent Topic:**[Now Assist for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/now-assisit-employee-exp.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

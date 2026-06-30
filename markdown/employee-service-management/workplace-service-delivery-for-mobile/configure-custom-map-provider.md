@@ -14,14 +14,14 @@ breadcrumb: [Mobile Wayfinding Administration, Configure, Workplace Service Deli
 
 # Configure a custom Map provider
 
-Configure map providers so that directions are displayed from one location to another in [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
+Configure map providers so that directions are displayed from one location to another in Workplace Service Delivery for Mobile
 
 ## Before you begin
 
 Ensure that you have the following:
 
 -   Workplace Service Delivery for Mobile.
--   [[Indoor-mapping|Indoor Mapping]] is the inbuilt map provider with the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] application.
+-   Indoor Mapping is the inbuilt map provider with the Workplace Service Delivery application.
 -   Mappedin is a third-party map provider.
 
 **Note:** You must configure a map provider for each building individually.
@@ -30,7 +30,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Space Mapping** &gt; **[[mobile-wayfinding|Mobile Wayfinding Administration]]** &gt; **Custom Map Provider**.
+1.  Navigate to **All** &gt; **Space Mapping** &gt; **Mobile Wayfinding Administration** &gt; **Custom Map Provider**.
 
 2.  Click **New**.
 
@@ -82,7 +82,7 @@ Application
 
 </td><td>
 
-Name of the application. This field is auto-generated.Ensure that the application is set to **[[workplace-safety-mgmt-hr|Workplace Core]]**.
+Name of the application. This field is auto-generated.Ensure that the application is set to **Workplace Core**.
 
 </td></tr><tr><td>
 
@@ -141,16 +141,8 @@ App secret of the map provider \(Mappedin\). Available only if you have installe
 
     **Note:** The **CustomMapConfigId** is mapped with sys Id of mapped reservations of Indoor Mapping and Mappedin. To get Indoor Mapping maps, users must update **CustomMapDefaultProviderId** and **CustomMapConfigId** in both **location\_custom\_map** and **locations\_custom\_map**. The **CustomMapDefaultProviderId** is the sys Id of Indoor Mapping associated record in the custom map provider. For more information, see [Enable map view to create reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/enable-map-view-mobile-reservations.md).
 
-    For more information on how to select a map provider map properties, see [[wsm-configure-map-properties|Customize the map properties]].
+    For more information on how to select a map provider map properties, see [Customize the map properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-configure-map-properties.md).
 
 
 **Parent Topic:**[Mobile Wayfinding Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/mobile-wayfinding.md)
 
-## Related
-
-- [[wsm-configure-map-properties|Customize the map properties]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[mobile-wayfinding|Mobile Wayfinding Administration]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

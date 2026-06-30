@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Clear facet filters when selecting a new source facet bucket
 
-Specify whether [[ia-ai-search|AI Search]] applications should preserve existing facet filters when you select a new source facet bucket.
+Specify whether AI Search applications should preserve existing facet filters when you select a new source facet bucket.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-By default, AI Search preserves your facet filter selections when you select a new source facet bucket. As an example, suppose that you narrow your search [[hs-results|results]] by selecting the Email field value from the **KB Category** facet displayed on the **All** source facet bucket. If you then select the **Knowledge** source facet bucket, the **KB Category** facet retains your Email selection and still filters your search results accordingly.
+By default, AI Search preserves your facet filter selections when you select a new source facet bucket. As an example, suppose that you narrow your search results by selecting the Email field value from the **KB Category** facet displayed on the **All** source facet bucket. If you then select the **Knowledge** source facet bucket, the **KB Category** facet retains your Email selection and still filters your search results accordingly.
 
 Administrators can override this default behavior by setting the value of the **glide.ais.facets.cross\_tab\_persistence** system property. When this system property value is set to **false**, selecting a new source facet bucket removes all facet filters. In the preceding example, selecting the **Knowledge** source facet bucket would remove your **KB Category** facet filter.
 
@@ -57,7 +57,3 @@ All AI Search applications preserve or discard existing facet filters when a new
 
 **Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

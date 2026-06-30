@@ -13,7 +13,7 @@ breadcrumb: [CPQ, Configure, price, quote, Reference, Sales Customer Relationshi
 
 # Field mapping supported field types
 
-Field types that are supported as source and target [[fields|fields]] in solution configuration field mappings.
+Field types that are supported as source and target fields in solution configuration field mappings.
 
 **Note:** Source and target fields must be the same type. For example, a Picklist field cannot be mapped to a Text field.
 
@@ -35,11 +35,7 @@ Field types that are supported as source and target [[fields|fields]] in solutio
 **Related topics**  
 
 
-[[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
+[Define field mappings for a solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-field-mappings-sol-config.md)
 
 [Solution configuration limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
-- [[fields|Fields]]

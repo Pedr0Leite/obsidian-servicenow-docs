@@ -26,7 +26,7 @@ You can specify the recurrence interval and the recurrence start and end date. T
 
 1.  Do one of the following:
 
-    -   Navigate to **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Active Publications**, open the desired publication, and click the **Setup Recurrence** related link.
+    -   Navigate to **Targeted Communications** &gt; **Active Publications**, open the desired publication, and click the **Setup Recurrence** related link.
     -   Navigate to **Targeted Communications** &gt; **Recurrences** and click **New**.
 2.  Fill in the fields on the Recurrence form.
 
@@ -96,11 +96,8 @@ This field appears when you select **Custom** as the **Recurrence Interval**. En
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-    The recurring publications are created based on the selected dates and the recurrence interval and the stage for each copy is set to **Author**. The copies appear on the **Publications** related list on the original publication form, as well as on the Active Publications and the Draft Publications [[migration-lists|lists]]. From any of these lists you can open each publication and change the information as necessary. Each copy lists the publication template number in the **Recurrence** field.
+    The recurring publications are created based on the selected dates and the recurrence interval and the stage for each copy is set to **Author**. The copies appear on the **Publications** related list on the original publication form, as well as on the Active Publications and the Draft Publications lists. From any of these lists you can open each publication and change the information as necessary. Each copy lists the publication template number in the **Recurrence** field.
 
     A record of the recurrence appears on the Recurrences list.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]
-- [[migration-lists|Lists]]

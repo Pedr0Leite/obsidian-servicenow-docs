@@ -31,7 +31,7 @@ Ensure the following prerequisites are in place:
 
 2.  Select a billing account from the list.
 
-    For more information on how to create a new billing account record, see [[install-billing-account|Install Billing Account]].
+    For more information on how to create a new billing account record, see [Install Billing Account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-billing-account.md).
 
 3.  Select **New** from the billing account related parties related list.
 
@@ -49,6 +49,4 @@ Ensure the following prerequisites are in place:
 
 5.  Select **Submit** to create a new billing account related parties record.
 
-## Related
 
-- [[install-billing-account|Install Billing Account]]

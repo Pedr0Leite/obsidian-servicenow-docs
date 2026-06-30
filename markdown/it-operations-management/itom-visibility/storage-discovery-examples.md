@@ -14,7 +14,7 @@ breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibili
 
 # Storage discovery examples
 
-[[r-discovery|Discovery]] creates configuration items \(CI\) and CI relationships for physical and logical storage components attached directly to application and database servers or by fibre channel switched fabric in a multi-path configuration.
+Discovery creates configuration items \(CI\) and CI relationships for physical and logical storage components attached directly to application and database servers or by fibre channel switched fabric in a multi-path configuration.
 
 ## Direct attached storage
 
@@ -147,6 +147,3 @@ Discovery creates CIs for the logical sub-components in NAS and SAN environments
 
 **Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

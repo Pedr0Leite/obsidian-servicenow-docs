@@ -12,7 +12,7 @@ breadcrumb: [Exploring employee support, Core Business Suite]
 
 # Employee support areas
 
-The employee support services in the [[cbs-landing|Core Business Suite]] help you set up a simplified employee journey in your organization.
+The employee support services in the Core Business Suite help you set up a simplified employee journey in your organization.
 
 ## Get started
 
@@ -51,7 +51,7 @@ Choose one of the following tiles to learn more about the different applications
 
 \[Omitted image "gen-hr-form-dec.png"\] Alt text: General HR request form displayed in image.
 
-Raise a request for any query or issue as a general HR request on CBS. For more information, [[request-emp-cbs|Raise HR requests]].
+Raise a request for any query or issue as a general HR request on CBS. For more information, [Raise HR requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/request-emp-cbs.md).
 
 \[Omitted image "payroll-hr-form-dec.png"\] Alt text: Form to submit payslip discrepancy displayed in image.
 
@@ -69,7 +69,7 @@ Submit a general workplace service request for issues that need human interventi
 
 Raise requests for issues that aren’t covered by current automated workflows.
 
-For more information on the Core Business Suite request form for workplace requests, see [[request-emp-rest|Raise requests on the employee portal]].
+For more information on the Core Business Suite request form for workplace requests, see [Raise requests on the employee portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/request-emp-rest.md).
 
 For more information on the Workplace Service Delivery inquiry form, if you're an existing user, see [Raise help request for a workplace inquiry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/submit-gen-workplace-serv-req.md).
 
@@ -114,8 +114,3 @@ For more information on the procurement inquiry form, if you're an existing user
 -   [Employee Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management-overview.md)
 -   [Finance and Supply Chain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-supply-chain-landing.md)
 
-## Related
-
-- [[request-emp-cbs|Raise HR requests]]
-- [[request-emp-rest|Raise requests on the employee portal]]
-- [[cbs-landing|Core Business Suite]]

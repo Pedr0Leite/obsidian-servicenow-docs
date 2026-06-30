@@ -14,7 +14,7 @@ breadcrumb: [Create a project cost plan, Starting a project, Using Project Manag
 
 # View actual project costs
 
-When you are using [[c_ProjectPortfolioSuite|Project Portfolio Management]] with Financials, you can view actual project costs on cost plans and projects.
+When you are using Project Portfolio Management with Financials, you can view actual project costs on cost plans and projects.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-An expense line has to be processed to be considered for actual cost. The actual cost is recorded against the creation date of the expense line, not the processed date. The expense lines are created only for approved [[c_TimeCards|time cards]].
+An expense line has to be processed to be considered for actual cost. The actual cost is recorded against the creation date of the expense line, not the processed date. The expense lines are created only for approved time cards.
 
 Actual costs for projects also roll up to portfolios in the same way.
 
@@ -42,7 +42,3 @@ Actual costs for projects also roll up to portfolios in the same way.
 
 [Actual project costs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/actual-project-costs.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[c_TimeCards|Time cards]]

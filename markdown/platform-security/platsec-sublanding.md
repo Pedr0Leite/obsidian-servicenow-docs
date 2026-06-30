@@ -21,7 +21,7 @@ Platform security provides capabilities to secure the instance.
 
 </td><td>
 
-[Log [[export|Export]] Service\[Omitted image "log-export-icon.png"\] Alt text: Log export service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
+[Log Export Service\[Omitted image "log-export-icon.png"\] Alt text: Log export service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
 
  Log Export Service \(LES\) lets you seamlessly export your instance system and application logs into your enterprise security analytic tools. The service provides a highly scalable and near real-time integration with your analytic tools that is easy to setup and maintain.
 
@@ -29,49 +29,49 @@ Platform security provides capabilities to secure the instance.
 
 [Logs\[Omitted image "bus-learn.svg"\] Alt text: Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/logs.md)
 
- [[logs|Logs module provides a variety of logs that you can use to troubleshoot and debug transactions and events that take place within the instance.]]
+ [Logs module provides a variety of logs that you can use to troubleshoot and debug transactions and events that take place within the instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/logs.md)
 
 </td></tr><tr><td>
 
 [Secrets Management\[Omitted image "secrets-management-icon.png"\] Alt text: Secrets management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-management.md)
 
- [[secrets-management|Use ServiceNow Secrets Management for granular management of access to your passwords to fit your business needs.]]
+ [Use ServiceNow Secrets Management for granular management of access to your passwords to fit your business needs.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-management.md)
 
 </td><td>
 
 [Code Signing\[Omitted image "code-signing-icon.png"\] Alt text: Code signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
- [[code-signing-landing|Code Signing creates digital signatures for the data which later are checked to confirm the authenticity and integrity of the data.]]
+ [Code Signing creates digital signatures for the data which later are checked to confirm the authenticity and integrity of the data.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
 </td><td>
 
 [Antivirus Scanning Capabilities\[Omitted image "bus-discover.svg"\] Alt text: Global Identity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md)
 
- [[antivirus-protection|Use Antivirus Scanning to help protect your instance against virus infections that can be introduced by file attachments to your system records, such as incidents, problems, and stories.]]
+ [Use Antivirus Scanning to help protect your instance against virus infections that can be introduced by file attachments to your system records, such as incidents, problems, and stories.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/antivirus-protection.md)
 
 </td></tr><tr><td>
 
 [HTML Sanitizer\[Omitted image "bus-low-code-dev-tools.svg"\] Alt text: HTML](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md)
 
- [[c_HTMLSanitizer|Remove unwanted code and protect against security concerns such as cross-site scripting attacks by sanitizing HTML markup in HTML fields and translated HTML fields.]]
+ [Remove unwanted code and protect against security concerns such as cross-site scripting attacks by sanitizing HTML markup in HTML fields and translated HTML fields.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HTMLSanitizer.md)
 
 </td><td>
 
 [Auditing\[Omitted image "bus-audit-management.svg"\] Alt text: Audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AuditedTables.md)
 
- [[c_AuditedTables|Track record changes on auditing-enabled tables. By default, the system tracks changes to the incident, change, and problem tables, among others.]]
+ [Track record changes on auditing-enabled tables. By default, the system tracks changes to the incident, change, and problem tables, among others.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_AuditedTables.md)
 
 </td><td>
 
 [High Security Settings\[Omitted image "bus-sdlc.svg"\] Alt text: Icon for working with Core Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md)
 
- [[c_HighSecuritySettings|High Security Settings refer to several security options available in your instance.]]
+ [High Security Settings refer to several security options available in your instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md)
 
 </td></tr><tr><td>
 
 [Virtual Private Network \(VPN\)\[Omitted image "bus-global.svg"\] Alt text: Web](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SetUpAVPN4SNowBusNet.md)
 
- [[c_SetUpAVPN4SNowBusNet|Use a virtual private network \(VPN\) to integrate your instance with external data sources over the Internet.]]
+ [Use a virtual private network \(VPN\) to integrate your instance with external data sources over the Internet.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SetUpAVPN4SNowBusNet.md)
 
 </td><td>
 
@@ -85,35 +85,17 @@ Platform security provides capabilities to secure the instance.
 
 </td></tr></tbody>
 </table>-   **[Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sec-center-v2.md)**  
-ServiceNow [[sec-center-v2|Security Center]] is an application that consists of a set of tools designed to help your organization maintain the security of your ServiceNow deployments. Using Security Center, you can improve security posture and strengthen compliance levels with a seamless user experience.
--   **[[instance-security-center|Instance Security Center]]**  
-Monitor the compliance level of instance security controls, view security event monitoring [[ca-metrics|metrics]], and configure and maintain instance security settings all from within the Instance Security Center. The Instance Security Center consolidates several key security components into a single control console that helps you detect, protect, and respond to instance-based security events.
+ServiceNow Security Center is an application that consists of a set of tools designed to help your organization maintain the security of your ServiceNow deployments. Using Security Center, you can improve security posture and strengthen compliance levels with a seamless user experience.
+-   **[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)**  
+Monitor the compliance level of instance security controls, view security event monitoring metrics, and configure and maintain instance security settings all from within the Instance Security Center. The Instance Security Center consolidates several key security components into a single control console that helps you detect, protect, and respond to instance-based security events.
 -   **[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)**  
-The ServiceNow Security Center \(SSC\) [[security-hardening-settings|hardening settings]] content contains detailed descriptions and compliance values for the security-related [[ca-system-properties|system properties]] and plugins in the ServiceNow AI Platform. You can set these properties using the hardening settings app in the Security Center.
--   **[[les-intro|Log Export Service \(LES\)]]**  
+The ServiceNow Security Center \(SSC\) hardening settings content contains detailed descriptions and compliance values for the security-related system properties and plugins in the ServiceNow AI Platform. You can set these properties using the hardening settings app in the Security Center.
+-   **[Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)**  
 Log Export Service \(LES\) lets you seamlessly export your instance system and application logs into your enterprise security analytic tools.
 -   **[Logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/logs.md)**  
 Logs module provides a variety of logs that you can use to troubleshoot and debug transactions and events that take place within the instance.
 -   **[Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-management.md)**  
-Secrets Management lets you control which applications and [[users|users]] can access sensitive credentials stored on your instance.
+Secrets Management lets you control which applications and users can access sensitive credentials stored on your instance.
 -   **[Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)**  
 Use Code Signing to create digital signatures that prevent unauthorized or tampered External Communication Channel \(ECC\) queue records from being processed by MID Servers. This cryptographic verification helps maintain the integrity of integrations between ServiceNow and external systems.
 
-## Related
-
-- [[logs|Logs]]
-- [[secrets-management|Secrets Management]]
-- [[code-signing-landing|Code Signing]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[c_AuditedTables|Auditing]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[c_SetUpAVPN4SNowBusNet|Virtual Private Network \(VPN\)]]
-- [[instance-security-center|Instance Security Center]]
-- [[les-intro|Log Export Service \(LES\)]]
-- [[export|Export]]
-- [[sec-center-v2|Security Center]]
-- [[ca-metrics|Metrics]]
-- [[security-hardening-settings|Hardening settings]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

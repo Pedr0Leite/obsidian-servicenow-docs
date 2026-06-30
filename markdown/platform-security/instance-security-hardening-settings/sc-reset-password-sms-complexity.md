@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Maximize reset password SMS complexity
 
-The **password\_reset.sms.default\_complexity** property controls the minimum required SMS code verification size required during [[c_SelfServicePasswordReset|password reset]].
+The **password\_reset.sms.default\_complexity** property controls the minimum required SMS code verification size required during password reset.
 
 If the **password\_reset.sms.default\_complexity** system property isn't set to the recommended value of `6` or greater, then a weak SMS validation token is used.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

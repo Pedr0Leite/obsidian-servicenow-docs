@@ -14,7 +14,7 @@ breadcrumb: [Exploring Visual Task Boards, Visual Task Boards, Configure UIs and
 
 # Types of Visual Task Boards
 
-You can create guided [[c_VisualTaskBoards|Visual Task Boards]], which are driven by data in your ServiceNow® instance. You can also create freeform boards that display a variety of information, or flexible boards, which combine both types.
+You can create guided Visual Task Boards, which are driven by data in your ServiceNow® instance. You can also create freeform boards that display a variety of information, or flexible boards, which combine both types.
 
 There are three types of Visual Task Boards.
 
@@ -57,6 +57,3 @@ All boards have the displayed elements. The color of a card represents the color
 
 **Parent Topic:**[Exploring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/exploring-vis-task-boards.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]

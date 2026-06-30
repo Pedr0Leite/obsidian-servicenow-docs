@@ -31,7 +31,7 @@ Typically, you exclude a class from prediction if you want a person to manually 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Classification** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Classification** &gt; **Solutions**.
 
 2.  In the ML Solutions list, select the solution whose classes you want to exclude.
 
@@ -60,6 +60,3 @@ The solution excludes the class from all predictions until the next training cyc
 
 If you conclude that this class does not contribute to meaningful predictions, consider deactivating the solution or changing the solution definition.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

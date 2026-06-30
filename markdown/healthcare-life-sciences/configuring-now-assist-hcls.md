@@ -13,33 +13,18 @@ breadcrumb: [Now Assist for Care Team Operations, Healthcare and Life Sciences]
 
 # Configuring Now Assist for Care Team Operations
 
-You must first configure the [[now-assist-for-healthcare-and-life-sciences|Now Assist for Care Team Operations]] application so that care teams can use the agentic AI capabilities in [[care-team-mobile-landing|Care Team Mobile]] or [[care-team-portal-landing|Care Team Portal]].
+You must first configure the Now Assist for Care Team Operations application so that care teams can use the agentic AI capabilities in Care Team Mobile or Care Team Portal.
 
 ## Configuration overview
 
-1.  [[hco-now-assist-install|Install Now Assist for Care Team Operations]]
-2.  [[hco-now-assist-activte-agent|Activate Now Assist in Virtual Agent for case intake]]
-3.  [[hco-now-assist-activate-assistant|Activate AI Assistant for Care Team Portal]]
-4.  [[hco-now-assist-enable-request-cto-assistance|Enable the Request care team assistance agentic workflow to create care team cases]]
-5.  [[hco-now-assist-enable-ai-search|Enable Now Assist in AI Search for case intake]]
-6.  [[hco-now-assist-enable-icon|Enable the Now Assist icon in Care Team Mobile]]
-7.  [[hco-now-assist-promote|Promote Now Assist in Virtual Agent for Care Team Portal]]
-8.  [[hco-now-assist-activate-voice-agent|Activate the Care Team Operations Case Creation Voice AI Agent]]
-9.  [[hco-now-assist-cto-voice-triggers|Configure Care Team Operations Case Creation Voice AI agent triggers]]
-10. [[hco-now-assist-manage-domain-intelligence|Manage domain intelligence for AI agents]]
+1.  [Install Now Assist for Care Team Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-install.md)
+2.  [Activate Now Assist in Virtual Agent for case intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-activte-agent.md)
+3.  [Activate AI Assistant for Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-activate-assistant.md)
+4.  [Enable the Request care team assistance agentic workflow to create care team cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-enable-request-cto-assistance.md)
+5.  [Enable Now Assist in AI Search for case intake](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-enable-ai-search.md)
+6.  [Enable the Now Assist icon in Care Team Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-enable-icon.md)
+7.  [Promote Now Assist in Virtual Agent for Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-promote.md)
+8.  [Activate the Care Team Operations Case Creation Voice AI Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-activate-voice-agent.md)
+9.  [Configure Care Team Operations Case Creation Voice AI agent triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-cto-voice-triggers.md)
+10. [Manage domain intelligence for AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hco-now-assist-manage-domain-intelligence.md)
 
-## Related
-
-- [[hco-now-assist-install|Install Now Assist for Care Team Operations]]
-- [[hco-now-assist-activte-agent|Activate Now Assist in Virtual Agent for case intake]]
-- [[hco-now-assist-activate-assistant|Activate AI Assistant for Care Team Portal]]
-- [[hco-now-assist-enable-request-cto-assistance|Enable the Request care team assistance agentic workflow to create care team cases]]
-- [[hco-now-assist-enable-ai-search|Enable Now Assist in AI Search for case intake]]
-- [[hco-now-assist-enable-icon|Enable the Now Assist icon in Care Team Mobile]]
-- [[hco-now-assist-promote|Promote Now Assist in Virtual Agent for Care Team Portal]]
-- [[hco-now-assist-activate-voice-agent|Activate the Care Team Operations Case Creation Voice AI Agent]]
-- [[hco-now-assist-cto-voice-triggers|Configure Care Team Operations Case Creation Voice AI agent triggers]]
-- [[hco-now-assist-manage-domain-intelligence|Manage domain intelligence for AI agents]]
-- [[now-assist-for-healthcare-and-life-sciences|Now Assist for Care Team Operations]]
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[care-team-portal-landing|Care Team Portal]]

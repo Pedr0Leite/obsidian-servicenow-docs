@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Close a complete work order task on a mobile device
 
-Close work order tasks to complete a task for which the issue is fixed or resolved through the [[wot-fsc|Field Service Contractor for mobile]] application.
+Close work order tasks to complete a task for which the issue is fixed or resolved through the Field Service Contractor for mobile application.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: wm\_ext\_agent
 
     The Closure Notes information is copied to the Activity Stream tab in a work order task form.
 
-6.  Automatically [[create-task-manager-mobile|create a work order task]] to follow up on any pending work from the current work order task by enabling the **Create a Follow-up Task** option.
+6.  Automatically create a work order task to follow up on any pending work from the current work order task by enabling the **Create a Follow-up Task** option.
 
     The new work order task will be assigned to your group.
 
@@ -49,7 +49,3 @@ Role required: wm\_ext\_agent
 
 The task is closed. If you created a follow-up work order task, you can access it by navigating to **My work** &gt; **My group tasks**.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]
-- [[create-task-manager-mobile|Create a work order task]]

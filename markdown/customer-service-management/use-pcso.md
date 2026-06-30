@@ -14,7 +14,7 @@ breadcrumb: [Automate and optimize, Use, Customer Service Management]
 
 Monitor your customers' products and services to identify issues proactively, inform the affected customers, and fix issues quickly.
 
-There are various different roles required for [[proactive-service-operations|Proactive Customer Service Operations]] based on the tasks you perform.
+There are various different roles required for Proactive Customer Service Operations based on the tasks you perform.
 
 Some tasks only apply if you are using Event Management integration on CSM Agent Workspace or the ServiceNow AI Platform interface. This is noted at the top of each task.
 
@@ -28,7 +28,7 @@ Tasks
 
 </th></tr></thead><tbody><tr><td>
 
-evt\_mgmt\_admin, evt\_mgmt\_operator**Note:** These roles only apply if you are using the [[pcso-event-management|integration with Event Management]].
+evt\_mgmt\_admin, evt\_mgmt\_operator**Note:** These roles only apply if you are using the integration with Event Management.
 
 </td><td>
 
@@ -48,7 +48,7 @@ sn\_customerservice\_manager
 
 </td><td>
 
-[[resolve-proactive-case-major-case|Review and accept a proactive case as a major case]] and create child cases. Associate outages to cases or create an outage for a case.Track Key Performance Indicators \(KPIs\) to understand how proactive the team was in identifying and communicating issues that impact customers. For more information, see [Proactive Customer Service - Advanced dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/csm-proactive-monit-dashboard.md).
+Review and accept a proactive case as a major case and create child cases. Associate outages to cases or create an outage for a case.Track Key Performance Indicators \(KPIs\) to understand how proactive the team was in identifying and communicating issues that impact customers. For more information, see [Proactive Customer Service - Advanced dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/csm-proactive-monit-dashboard.md).
 
 </td></tr><tr><td>
 
@@ -62,20 +62,11 @@ Create proactive cases. Review and accept proactive cases as major cases and cre
 </table>**Related topics**  
 
 
-[[install-base-aw-csm|View the install base in CSM Configurable Workspace]]
+[View the install base in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/install-base-aw-csm.md)
 
-[[view-install-base-info|View install base information from the Customer Service Portal]]
+[View install base information from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-install-base-info.md)
 
-[[create-case-install-base|Create a case for install base from the Customer Service homepage]]
+[Create a case for install base from the Customer Service homepage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-install-base.md)
 
-[[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
+[View sold product information in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-sold-product-info-workspace.md)
 
-## Related
-
-- [[install-base-aw-csm|View the install base in CSM Configurable Workspace]]
-- [[view-install-base-info|View install base information from the Customer Service Portal]]
-- [[create-case-install-base|Create a case for install base from the Customer Service homepage]]
-- [[view-sold-product-info-workspace|View sold product information in CSM Configurable Workspace]]
-- [[proactive-service-operations|Proactive Customer Service Operations]]
-- [[pcso-event-management|Integration with Event Management]]
-- [[resolve-proactive-case-major-case|Review and accept a proactive case as a major case]]

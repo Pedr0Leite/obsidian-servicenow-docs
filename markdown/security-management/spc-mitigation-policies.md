@@ -12,12 +12,12 @@ breadcrumb: [Use mitigation controls, Security Posture Control, Security Operati
 
 # Mitigation controls policies
 
-The [[spc-landing|Security Posture Control]] and the Mitigation Controls applications are required to view the mitigation controls and mitigation controls policies in the SPC. Both applications are available from the ServiceNow Store.
+The Security Posture Control and the Mitigation Controls applications are required to view the mitigation controls and mitigation controls policies in the SPC. Both applications are available from the ServiceNow Store.
 
 Refer to the following topics for more information about downloading and installing applications from the ServiceNow® Store.
 
--   [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
--   [[install-non-core-apps|Install a Security Operations integration]]
+-   [Download an application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md)
+-   [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md)
 
 To view the mitigation controls policies, users in the SPC Admin Group and SPC Analyst Group can navigate to **Workspaces** &gt; **Security Posture Control** &gt; **Policies and findings** &gt; **All** in the SPC Workspace navigation panel.
 
@@ -48,14 +48,6 @@ The following mitigation controls policies are included with the application and
 
 The following categories of mitigation controls are currently supported with the SPC.
 
--   [[spc-controls-policies-for-edr|Mitigation controls and policies required for Exploit Protection \(EDR\) mitigation controls]].
--   [[spc-controls-policies-for-exploit-waf|Exploit Protection \(WAF\) mitigation controls]]. You must create policies for AWS WAF. See [[spc-create-AWS-WAF-policy|Create a policy for the AWS WAF integration for mitigation controls monitoring]] for more information.
+-   [Mitigation controls and policies required for Exploit Protection \(EDR\) mitigation controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-controls-policies-for-edr.md).
+-   [Exploit Protection \(WAF\) mitigation controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-controls-policies-for-exploit-waf.md). You must create policies for AWS WAF. See [Create a policy for the AWS WAF integration for mitigation controls monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-AWS-WAF-policy.md) for more information.
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[spc-controls-policies-for-edr|Mitigation controls and policies required for Exploit Protection \(EDR\) mitigation controls]]
-- [[spc-controls-policies-for-exploit-waf|Exploit Protection \(WAF\) mitigation controls]]
-- [[spc-create-AWS-WAF-policy|Create a policy for the AWS WAF integration for mitigation controls monitoring]]
-- [[spc-landing|Security Posture Control]]

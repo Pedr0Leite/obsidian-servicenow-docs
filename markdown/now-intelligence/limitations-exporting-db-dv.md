@@ -12,12 +12,12 @@ breadcrumb: [Export dashboards and visualizations, Platform Analytics in the Now
 
 # Limitations for exporting dashboards and visualizations
 
-The [[activate-db-dv-export-skill|dashboard and visualization export skill]] supports only some dashboards for export. Requests for export are not always recognized or understood correctly.
+The dashboard and visualization export skill supports only some dashboards for export. Requests for export are not always recognized or understood correctly.
 
 Bear these limitations in mind:
 
 -   You can only select dashboards or data visualizations for export that have been saved to their respective libraries.
--   You cannot export [[technical-dashboards|technical dashboards]], only dashboards that have been created in the in-line dashboard editor.
+-   You cannot export technical dashboards, only dashboards that have been created in the in-line dashboard editor.
 -   By default, you can export a maximum of 150 visualizations in one PowerPoint export. If you need more slides, consider exporting the dashboard as separate tabs.
 -   Recognition of request content can be intermittent. The more detail you specify in your request, the more likely it is that not all of it will be recognized.
 
@@ -26,7 +26,7 @@ Some prompts are not recognized at all. Avoid the following phrases:
 -   Mail to me
 -   Mail with subject and body as Visualization/Dashboard name
 
-**Parent Topic:**[[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
+**Parent Topic:**[Export dashboards and data visualizations from the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md)
 
 **Related topics**  
 
@@ -37,8 +37,3 @@ Some prompts are not recognized at all. Avoid the following phrases:
 
 [Export guidelines and examples]()
 
-## Related
-
-- [[export-db-dv-now-assist-panel|Export dashboards and data visualizations from the Now Assist panel]]
-- [[activate-db-dv-export-skill|Dashboard and visualization export skill]]
-- [[technical-dashboards|Technical dashboards]]

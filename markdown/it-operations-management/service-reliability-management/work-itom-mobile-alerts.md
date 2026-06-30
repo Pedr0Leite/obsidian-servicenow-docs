@@ -14,7 +14,7 @@ breadcrumb: [Use, ITOM Mobile Agent, Service Reliability Management, ITOM AIOps,
 
 # Work with alerts in ITOM mobile
 
-Manage alerts on the go. Learn how to assign, reassign, and close alerts in [[itom-mobile-landing|ITOM Mobile Agent]]. You can also add work notes to alerts and [[create-incidents|create incidents]] from alerts.
+Manage alerts on the go. Learn how to assign, reassign, and close alerts in ITOM Mobile Agent. You can also add work notes to alerts and create incidents from alerts.
 
 ## Add work notes to an alert
 
@@ -48,7 +48,7 @@ The assigned team member receives a push notification that the alert has been as
 
 ## Close an alert
 
-[[t_EMCloseAlert|Close an alert]] to show that the issue is resolved or that no further action is needed.
+Close an alert to show that the issue is resolved or that no further action is needed.
 
 Role required: srm\_manager, srm\_responder, or srm\_admin
 
@@ -96,8 +96,3 @@ ITOM Mobile Agent displays Alert reassigned successfully. The assigned team memb
 
 **Next topic:**[Managing incidents and major incidents on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-incidents.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[create-incidents|Create incidents]]
-- [[t_EMCloseAlert|Close an alert]]

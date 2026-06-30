@@ -44,7 +44,7 @@ Community users can provide feedback on the content they have access to in the c
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -68,6 +68,3 @@ Community users can provide feedback on the content they have access to in the c
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

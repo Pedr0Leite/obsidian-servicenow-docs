@@ -15,12 +15,12 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Investment Funding
 
-ServiceNow® Investment Funding enables you to plan and manage investments by allocating funds to investment entities such as [[c_BusinessUnits|Business Units]], Products, Teams, and the like. Prioritize your investments based on business needs and strategic objectives of your organization.
+ServiceNow® Investment Funding enables you to plan and manage investments by allocating funds to investment entities such as Business Units, Products, Teams, and the like. Prioritize your investments based on business needs and strategic objectives of your organization.
 
 You can use the Investment Funding \(sn\_invst\_pln\) application to do the following:
 
 -   Create investments for entities.
--   [[allocate-funds-to-investment|Allocate funds to an investment]] to meet a business requirement or strategic objective.
+-   Allocate funds to an investment to meet a business requirement or strategic objective.
 -   Request funds from one or more funding sources to achieve business goals.
 
 **Note:** Starting with the Rome release, Investment Funding will be found in the ServiceNow Store. The legacy plugins \(com.snc.investment\_planning, com.snc.investment\_planning\_pmo\) will be prepared for future deprecation in September 2022. The plugins will be hidden and no longer activated on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
@@ -61,9 +61,9 @@ If you are upgrading from the legacy Investment Funding, post installation of th
 -   **[Investment Funding administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-administration.md)**  
 The Investment Funding application requires you to do some initial administrative tasks for it to be fully functional.
 -   **[Create a top-level investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-top-level-investment.md)**  
-[[create-top-level-investment|Create a top-level investment]] for the investment entity record for which you want to receive and allocate funds.
+Create a top-level investment for the investment entity record for which you want to receive and allocate funds.
 -   **[Create an investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/create-investment.md)**  
-[[create-investment|Create an investment]] to fund a target.
+Create an investment to fund a target.
 -   **[Co-owners for an investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/co-owner-for-investments.md)**  
 Investment co-owners manage, request, and allocate funds on your behalf to the investments that you own. The co-owner has the same rights and permissions as the owner.
 -   **[Request funds for an investment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/request-funds-for-investment.md)**  
@@ -83,12 +83,5 @@ View the past funding details of your investments.
 -   **[Domain separation and Investment Funding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/domain-separation-investment-funding.md)**  
 Domain separation is supported in Investment Funding. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_BusinessUnits|Business units]]
-- [[allocate-funds-to-investment|Allocate funds to an investment]]
-- [[create-top-level-investment|Create a top-level investment]]
-- [[create-investment|Create an investment]]

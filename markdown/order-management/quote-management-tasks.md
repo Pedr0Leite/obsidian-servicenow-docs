@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Add tasks to a quote
 
-Create a single or multiple tasks for a quote and assign those to different agents. Tasks are the various actions that agents perform to [[create-new-quote|create a quote]].
+Create a single or multiple tasks for a quote and assign those to different agents. Tasks are the various actions that agents perform to create a quote.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sales\_manager
 
 3.  Select **New** to start a new quote task or select an existing quote task to make changes.
 
-4.  Fill in the [[fields|fields]] in the Quote Task form.
+4.  Fill in the fields in the Quote Task form.
 
     |Field|Description|
     |-----|-----------|
@@ -43,10 +43,5 @@ Role required: sales\_manager
     The quote task is added to the main quote.
 
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[create-new-quote|Create a quote]]
-- [[fields|Fields]]

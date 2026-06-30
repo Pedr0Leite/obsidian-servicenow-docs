@@ -14,7 +14,7 @@ breadcrumb: [Edge Encryption, Encryption]
 
 # Exploring Edge Encryption
 
-[[edge-encryption|Edge Encryption]] is a network [[encryption-landing|encryption]] system that resides on your network and that encrypts and decrypts sensitive data as it travels between your data center and the ServiceNow cloud.
+Edge Encryption is a network encryption system that resides on your network and that encrypts and decrypts sensitive data as it travels between your data center and the ServiceNow cloud.
 
 ## What is Edge Encryption
 
@@ -22,7 +22,7 @@ Also referred to as ‘client-side’ encryption, Edge requires all bi-direction
 
 The Edge Encryption feature is an additional cost option that provides you with the ability to control the end-to-end encryption of your data and key management. Edge Encryption uses a proxy application, provided by ServiceNow and installed by you within your own network. This proxy application tokenizes specified data patterns or encrypts string fields, Date fields, Date/Time fields, and attachment data before it’s sent from your environment to your instance. The proxy application also decrypts the same data, again only within your own network, using keys stored only within your own network.
 
-The relevant encryption keys and [[sc-configuration|configuration]] exist only on the Edge proxy within your network and aren’t visible to ServiceNow. The data is encrypted from the moment that it leaves your environment and is only decrypted upon retrieval. At no point is the data accessible in plaintext by ServiceNow systems or personnel.
+The relevant encryption keys and configuration exist only on the Edge proxy within your network and aren’t visible to ServiceNow. The data is encrypted from the moment that it leaves your environment and is only decrypted upon retrieval. At no point is the data accessible in plaintext by ServiceNow systems or personnel.
 
 ## Who uses Edge Encryption
 
@@ -43,7 +43,7 @@ Edge Encryption supports both encryption \(through encryption configurations\) a
     In addition to attachments, you can encrypt the following field types:
 
     -   Date
-    -   [[email|Email]]
+    -   Email
     -   Date/Time
     -   IP Address
     -   Journal
@@ -85,7 +85,7 @@ Edge Encryption acts as a gateway between your browser and your ServiceNow insta
 
 ## Pros and cons
 
-As with [[now-platform-encryption|Field Encryption Enterprise]] and [[field-encryption|Field Encryption]], Edge Encryption imposes some functional limitations within an instance as a result of the additional security. The local Edge proxy does, however, also provide some additional functionality relating to sorting when compared to column-level encryption.
+As with Field Encryption Enterprise and Field Encryption, Edge Encryption imposes some functional limitations within an instance as a result of the additional security. The local Edge proxy does, however, also provide some additional functionality relating to sorting when compared to column-level encryption.
 
 Pros:
 
@@ -130,16 +130,7 @@ You are responsible for providing and managing the encryption keys used by Edge 
 -   **[Encryption configurations and patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptionTypes.md)**  
 With Edge Encryption, you can encrypt fields and tokenize strings.
 -   **[Installed with Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/installed-with-edge-encryption.md)**  
-Edge Encryption installs tables to store encryption-related data, [[ca-system-properties|system properties]] to configure default behavior, and the edge\_encryption role to administer Edge Encryption.
+Edge Encryption installs tables to store encryption-related data, system properties to configure default behavior, and the edge\_encryption role to administer Edge Encryption.
 
 **Parent Topic:**[Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[field-encryption|Field Encryption]]
-- [[ca-system-properties|System properties]]

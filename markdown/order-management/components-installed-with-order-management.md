@@ -12,7 +12,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Components installed with Order Management
 
-Several types of components are installed with activation of the [[explore-order-management|Order Management]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Order Management plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -30,13 +30,13 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[reviewing-orchestration-plans-order-fulfillment|Order Fulfillment]] Agent
+Order Fulfillment Agent
 
  \[sn\_ind\_tmt\_orm.order\_fulfilment\_agent\]
 
 </td><td>
 
-Views product order, product order task, service order, and resource order. Can edit some [[fields|fields]] from the tasks.
+Views product order, product order task, service order, and resource order. Can edit some fields from the tasks.
 
 </td><td>
 
@@ -281,7 +281,7 @@ Decomposition Rule
 
 </td><td>
 
-Defines the [[rules_101|rules]] used to break down an order into smaller fulfillment tasks based on characteristics and specification.
+Defines the rules used to break down an order into smaller fulfillment tasks based on characteristics and specification.
 
 </td></tr><tr><td>
 
@@ -502,12 +502,5 @@ Order Line Item
 Represents the individual items in a customer order, including product, pricing, quantity, and shipping details.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

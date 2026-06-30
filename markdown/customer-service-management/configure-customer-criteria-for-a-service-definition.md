@@ -22,7 +22,7 @@ Role required: sn\_csm\_case\_types.service\_definition\_manager, sn\_csm\_case\
 
 You can associate customer-specific criteria such as location, customer level, or related entities with a service definition that determine which customers are eligible to receive that service.
 
-For example, you can configure customer criteria for [[csm-service-definitions|service definitions]] like Free Delivery or Free Installation so that only customers who are loyalty members are eligible to receive these services.
+For example, you can configure customer criteria for service definitions like Free Delivery or Free Installation so that only customers who are loyalty members are eligible to receive these services.
 
 You can associate several criteria, or conditions, with a single service definition. Customers need to match only one of these conditions to have access to the service.
 
@@ -42,13 +42,10 @@ You can associate several criteria, or conditions, with a single service definit
 
     You can also create a customer criteria record by selecting **New** on the Entity Criteria pop-up window and filling in the fields on the Entity Criteria form.
 
-    For more information, see [[create-new-entity-criteria|Create entity criteria]].
+    For more information, see [Create entity criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-new-entity-criteria.md).
 
 5.  Enable the **Active** check box.
 
 6.  Select **Submit**.
 
-## Related
 
-- [[create-new-entity-criteria|Create entity criteria]]
-- [[csm-service-definitions|Service definitions]]

@@ -28,7 +28,7 @@ You can also search for messages marked as favorites, and remove the favorite de
 
 1.  Navigate to **Live Feed** &gt; **Live Feed**.
 
-2.  Click either **Group Feeds** or **[[c_RecordFeeds|Record Feeds]]**, and then click **All Feeds**.
+2.  Click either **Group Feeds** or **Record Feeds**, and then click **All Feeds**.
 
 3.  In the list of feeds, click the star iconadjacent to the feed name you want to mark as a favorite.
 
@@ -37,6 +37,3 @@ You can also search for messages marked as favorites, and remove the favorite de
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]

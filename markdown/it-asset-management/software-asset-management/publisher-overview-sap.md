@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management publisher pack for SAP, Supported softwar
 
 View license usage information related to SAP in the publisher overview for SAP in the Software Asset Workspace.
 
-From the [[sam-workspace|Software Asset Workspace]], access the SAP publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **SAP** from the list of available software publishers.
+From the Software Asset Workspace, access the SAP publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **SAP** from the list of available software publishers.
 
 Results are updated whenever a new reconciliation result is available.
 
@@ -118,7 +118,7 @@ Total number of SAP users with indirect access to the SAP system based on user t
 
 [Create entitlements for SAP]()
 
-[Create [[c_CreatingSoftwareModels|software models]] for SAP]()
+[Create software models for SAP]()
 
 [Create a custom SAP named user type]()
 
@@ -136,10 +136,5 @@ Total number of SAP users with indirect access to the SAP system based on user t
 
 [Self-declaring SAP engine license usage]()
 
-[Software Publisher Analytics dashboard for SAP in [[c_SoftwareAssetMgmt|Software Asset Management]] classic]()
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic]()
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -39,8 +39,5 @@ Role required: admin
     **Note:** The default location is in the top right of your instance. If the banner doesn't appear in the expected location, try refreshing your browser.
 
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]

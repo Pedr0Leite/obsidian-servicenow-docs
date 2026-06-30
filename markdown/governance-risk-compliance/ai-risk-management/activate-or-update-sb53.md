@@ -15,11 +15,11 @@ breadcrumb: [Content pack, Configure, AI Risk and Compliance, Governance, Risk, 
 
 # Activate or update the Transparency in Frontier Artificial Intelligence Act \(SB 53\)
 
-Activate or update the Transparency in Frontier Artificial Intelligence Act \(SB 53\) to install its citations, control objectives, and risk statements on your instance so they can be used in assessments and mapped to your [[ai-assets-airc|AI assets]].
+Activate or update the Transparency in Frontier Artificial Intelligence Act \(SB 53\) to install its citations, control objectives, and risk statements on your instance so they can be used in assessments and mapped to your AI assets.
 
 ## Before you begin
 
-The [[unified-content-management-in-airc|AI Risk and Compliance Content]] application must be installed before activating a framework. For more information, see [Install AI Risk and Compliance content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/install-ai-risk-content-pack.md).
+The AI Risk and Compliance Content application must be installed before activating a framework. For more information, see [Install AI Risk and Compliance content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/install-ai-risk-content-pack.md).
 
 Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager
 
@@ -29,7 +29,7 @@ Activating the Transparency in Frontier Artificial Intelligence Act \(SB 53\) in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the AI Risk and Compliance Content icon \[Omitted image "unified-content-mgmt-icon.png"\] Alt text: on the AI Risk and Compliance Workspace.
 
@@ -83,8 +83,3 @@ The installed citations, control objectives, and risk statements are available f
 
 [AI Risk and Compliance Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-content-pack.md)
 
-## Related
-
-- [[ai-assets-airc|AI assets]]
-- [[unified-content-management-in-airc|AI Risk and Compliance Content]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]

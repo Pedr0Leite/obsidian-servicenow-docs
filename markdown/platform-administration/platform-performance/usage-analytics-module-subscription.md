@@ -14,7 +14,7 @@ breadcrumb: [Monitor, Platform performance, Maintain and monitor, Administer the
 
 # Monitoring instance usage
 
-You can track application usage on your instance through the Application Usage Overview and the [[servicenow-store|ServiceNow Store]] Usage overview dashboards.
+You can track application usage on your instance through the Application Usage Overview and the ServiceNow Store Usage overview dashboards.
 
 The usage analytics process collects data on all your instances and regularly updates the reports in the Usage Overview and ServiceNow Store Usage Overview dashboards. Application usage data is collected whenever an application is opened, and counts on tables are collected once a day. Data is collected on:
 
@@ -26,13 +26,13 @@ Users with the admin or usage\_admin role can view the Application Usage Overvie
 
 ## Application Usage Overview
 
-The [[app-usage-overview-dashboard|Application Usage Overview dashboard]] contains information about ServiceNow applications.
+The Application Usage Overview dashboard contains information about ServiceNow applications.
 
 To view the Application Usage Overview, navigate to **Self-Service** &gt; **Dashboards**. From the available dashboards, select **Usage Overview**.
 
 ## ServiceNow Store Usage Overview
 
-The [[store-usage-overview-dash|ServiceNow Store Usage Overview dashboard]] contains information about applications procured from the ServiceNow Store.
+The ServiceNow Store Usage Overview dashboard contains information about applications procured from the ServiceNow Store.
 
 To view the ServiceNow Store Usage Overview, navigate to **Self-Service** &gt; **Dashboards**. From the available dashboards, select **ServiceNow Store Usage Overview**.
 
@@ -43,8 +43,3 @@ The ServiceNow Store Usage Overview dashboard displays reports on the use of Ser
 
 **Parent Topic:**[Monitoring platform performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 
-## Related
-
-- [[servicenow-store|ServiceNow Store]]
-- [[app-usage-overview-dashboard|Application usage overview dashboard]]
-- [[store-usage-overview-dash|ServiceNow Store usage overview dashboard]]

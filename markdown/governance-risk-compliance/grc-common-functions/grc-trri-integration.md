@@ -14,7 +14,7 @@ breadcrumb: [GRC integrations, Common GRC features, Governance, Risk, and Compli
 
 # GRC integration with Thomson Reuters Regulatory Intelligence
 
-The ServiceNow® [[reg-change-mgmt-landing-page|Regulatory Change Management]] application helps you to gather, monitor, and analyze regulatory data and track developments in a complex regulatory environment.
+The ServiceNow® Regulatory Change Management application helps you to gather, monitor, and analyze regulatory data and track developments in a complex regulatory environment.
 
 ## Benefits of integrating with Thomson Reuters Regulatory Intelligence
 
@@ -61,7 +61,7 @@ The Regulatory Feed table appears in the Series Data section in the Regulatory F
 
 -   Series Name: Displays the series name of the regulatory event.
 -   Sequence Number: Displays the sequence number of the regulatory event.
--   Series ID: Displays the series identification number of the regulatory event. You can select the series ID from the [[list-view-uib-ws|list view]]. The series ID is then displayed.
+-   Series ID: Displays the series identification number of the regulatory event. You can select the series ID from the list view. The series ID is then displayed.
 
 The Documents in Series related list is part of the regulatory feed form. It displays the following details on the feed:
 
@@ -86,17 +86,11 @@ The GRC integration with Thomson Reuters Regulatory Intelligence application pro
 The instructions for automation are covered in detail in the guided setup files that are sent with the software.
 
 -   **[Install the GRC integration with Thomson Reuters Regulatory Intelligence application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/install-trri-integration.md)**  
-[[install-trri-integration|Install the GRC integration with Thomson Reuters Regulatory Intelligence application]] \(com.sn\_grc\_int\_tr\). The application includes demo data. It installs related ServiceNow Store applications and plugins if they are not already installed.
+Install the GRC integration with Thomson Reuters Regulatory Intelligence application \(com.sn\_grc\_int\_tr\). The application includes demo data. It installs related ServiceNow Store applications and plugins if they are not already installed.
 -   **[Establish an SFTP or REST API connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-conn-record-tr-int.md)**  
-[[create-conn-record-tr-int|Establish an SFTP or REST API connection]] for the GRC integration with Thomson Reuters Regulatory Intelligence application. You can create an SFTP or REST API connection with the SFTP server by using the Connection &amp; Credential aliases that are shipped with the Thomson Reuters platform.
+Establish an SFTP or REST API connection for the GRC integration with Thomson Reuters Regulatory Intelligence application. You can create an SFTP or REST API connection with the SFTP server by using the Connection &amp; Credential aliases that are shipped with the Thomson Reuters platform.
 -   **[Modules in the GRC integration with Thomson Reuters Regulatory Intelligence application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/modules-in-the-application.md)**  
 The GRC integration with Thomson Reuters Regulatory Intelligence application includes various modules.
 
 **Parent Topic:**[Governance, Risk, and Compliance integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-integrations.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-uib-ws|List view]]
-- [[install-trri-integration|Install the GRC integration with Thomson Reuters Regulatory Intelligence application]]
-- [[create-conn-record-tr-int|Establish an SFTP or REST API connection]]

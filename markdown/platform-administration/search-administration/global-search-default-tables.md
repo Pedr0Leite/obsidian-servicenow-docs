@@ -14,7 +14,7 @@ breadcrumb: [Text search views control format of global search results for table
 
 # Default display fields for global search tables
 
-Multiple tables are enabled for global search in the base system. Each global search table has its own set of fields included in the table's default text\_search list view. The system uses fields from this view to format global search [[hs-results|results]] from these tables.
+Multiple tables are enabled for global search in the base system. Each global search table has its own set of fields included in the table's default text\_search list view. The system uses fields from this view to format global search results from these tables.
 
 |Table|Display fields|
 |-----|--------------|
@@ -33,6 +33,3 @@ Multiple tables are enabled for global search in the base system. Each global se
 
 **Parent Topic:**[Text search views control format of global search results for tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/text-search-view-formats-results.md)
 
-## Related
-
-- [[hs-results|Results]]

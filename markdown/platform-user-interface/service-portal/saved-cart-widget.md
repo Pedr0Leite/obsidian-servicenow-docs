@@ -66,12 +66,9 @@ The Saved Carts widget does not have any included instance options.
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

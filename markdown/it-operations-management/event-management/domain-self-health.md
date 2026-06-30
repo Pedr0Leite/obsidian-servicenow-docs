@@ -14,7 +14,7 @@ breadcrumb: [Self-health monitors for Event Management, Manage and monitor alert
 
 # Monitor self-health with domain separation
 
-Use domain separation to enable self-health to display [[c_EM|Event Management]] health issues that are based on data, rules, and settings from the logged in user domain. The selected domain must not contain any child domains.
+Use domain separation to enable self-health to display Event Management health issues that are based on data, rules, and settings from the logged in user domain. The selected domain must not contain any child domains.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ Further configuration is required for CI creation, receipt of events, and alert 
 
 [Domain separation setup and basic administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationSetup.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -14,9 +14,9 @@ breadcrumb: [Run your first scan, Configure the Impact Store Application, Config
 
 The full and delta instance scan feature enables ServiceNow administrators and developers to initiate, monitor, and manage instance scans directly from the Scan Results list view.
 
-The system intelligently determines whether to run a full or delta scan based on instance history, while enforcing concurrency rules to protect instance [[instance-observer-performance|performance]]. Administrators receive real-time scan-state visibility and contextual notifications at each stage of scan execution, from initiation and queuing to completion or cancellation.
+The system intelligently determines whether to run a full or delta scan based on instance history, while enforcing concurrency rules to protect instance performance. Administrators receive real-time scan-state visibility and contextual notifications at each stage of scan execution, from initiation and queuing to completion or cancellation.
 
-Two UI action buttons are available on the Scan Results list view, Initiate Scan and Force Full Scan. These options provide context-aware scan initiation with immediate feedback on scan status and resource [[io-availability|availability]].
+Two UI action buttons are available on the Scan Results list view, Initiate Scan and Force Full Scan. These options provide context-aware scan initiation with immediate feedback on scan status and resource availability.
 
 -   **Initiate Scan**: Intelligently determines the scan type as whether to run a full or delta scan based on instance history, reducing user decision-making burden while optimizing scan efficiency.
 -   **Force Full Scan**: Administrators retain the ability to override an in-progress scan when a complete instance scan is needed instead of a delta scan, providing flexibility while maintaining resource control.
@@ -62,18 +62,12 @@ Scan initiation capabilities are determined by user roles:
 |Scan User|No scan initiation buttons \(view only\)|
 |Read User|No scan initiation buttons \(view only\)|
 
-**Note:** See [[impact-roles|Roles installed with Impact]] for additional information on user roles.
+**Note:** See [Roles installed with Impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-roles.md) for additional information on user roles.
 
-**Parent Topic:**[[run-scan-engine|Run your first scan with the Scan Engine]]
+**Parent Topic:**[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md)
 
 **Related topics**  
 
 
 [Initiating parallel scans]()
 
-## Related
-
-- [[impact-roles|Roles installed with Impact]]
-- [[run-scan-engine|Run your first scan with the Scan Engine]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Google Dialogflow as a secondary bot with Virtual Agent Bot I
 
 # Create a Virtual Agent Bot Interconnect shell topic to call Google Dialogflow topics
 
-To access topics in the Google Dialogflow secondary bot, you must create at least one [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect topic.
+To access topics in the Google Dialogflow secondary bot, you must create at least one Virtual Agent Bot Interconnect topic.
 
 ## Before you begin
 
@@ -41,13 +41,13 @@ There are two ways to integrate Google Dialogflow intents with Bot Interconnect
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  [Create a topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md) for your Dialogflow intents.
 
     In case of NLU topics, include the Dialogflow intent names as either keywords or utterances in the corresponding ServiceNow Virtual Agent intent. In case of LLM topics, the topic name and description of the Bot Interconnect topic should match the topic name and description of the Google Dialogflow topic.
 
-3.  On the **Flow** tab, drag a [[va-topic-blocks|Topic Block utility]] node onto the canvas.
+3.  On the **Flow** tab, drag a Topic Block utility node onto the canvas.
 
 4.  Select the node, and then fill in the form as follows:
 
@@ -72,8 +72,3 @@ Test your configuration. You can execute the topics that are available in the se
 
 **Next topic:**[Using Microsoft Power Virtual Agents as a secondary bot with Virtual Agent Bot Interconnect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-va-api-ms-powerva.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[va-topic-blocks|Topic Block utility]]

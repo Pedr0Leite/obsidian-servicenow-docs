@@ -14,13 +14,13 @@ breadcrumb: [Composite entity, Explore entities, Common GRC features, Governance
 
 # Create a composite entity
 
-Create multidimensional entities by combining two or more entities from different [[entity-class-in-risk-ws|entity classes]] using the Composite Entity Management application. In [[r_WhatIsGRC|Governance, Risk, and Compliance]], entities can be people, processes, departments, applications, or objects.
+Create multidimensional entities by combining two or more entities from different entity classes using the Composite Entity Management application. In Governance, Risk, and Compliance, entities can be people, processes, departments, applications, or objects.
 
 ## Before you begin
 
 Roles required: sn\_grc.manager, sn\_risk\_workspace.IT\_risk\_manager, or sn\_risk\_workspace.operational\_risk\_manager
 
-The Composite Entity Management application and [[risk-workspace|Risk Workspace]] must be installed to create a composite entity.
+The Composite Entity Management application and Risk Workspace must be installed to create a composite entity.
 
 ## About this task
 
@@ -30,7 +30,7 @@ When you create a composite entity by combining two or more individual entities,
 
 1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
-2.  Navigate to the [[list-view-uib-ws|list view]] and select **Entities**.
+2.  Navigate to the list view and select **Entities**.
 
 3.  Select **New**.
 
@@ -40,9 +40,9 @@ When you create a composite entity by combining two or more individual entities,
 
 5.  Select **Save**.
 
-    **Note:** When you [[create-new-entity-ws|create an entity]], only the **Details** tab is displayed. After the entity is created, the **Overview** tab, **Details** tab, and other related lists are displayed.
+    **Note:** When you create an entity, only the **Details** tab is displayed. After the entity is created, the **Overview** tab, **Details** tab, and other related lists are displayed.
 
-    After saving the entity, an entity form is displayed with the Details tab, [[hierarchy-tab|Hierarchy tab]], and the following related lists.
+    After saving the entity, an entity form is displayed with the Details tab, Hierarchy tab, and the following related lists.
 
     For information on the fields in these related lists, see [An entity in the workspace view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entities-in-risk-ws.md).
 
@@ -57,11 +57,3 @@ Use the Create New Entity form to create a composite entity by combining two or 
 
 [Create an entity class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-class-ws.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-workspace|risk workspace]]
-- [[list-view-uib-ws|List view]]
-- [[create-new-entity-ws|Create an entity]]
-- [[hierarchy-tab|Hierarchy tab]]

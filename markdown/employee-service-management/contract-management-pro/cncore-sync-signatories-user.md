@@ -26,7 +26,7 @@ Role required: sn\_cm\_core.contract\_user, sn\_cm\_core.contract\_fulfiller
 
 2.  Open the contract request.
 
-3.  Navigate to the **[[activity-lxp|Activity]]** stream to find the validation error.
+3.  Navigate to the **Activity** stream to find the validation error.
 
 4.  Select the **Signatories** tab.
 
@@ -55,6 +55,3 @@ A new contract document revision is created with the latest signatory details an
 
 **Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

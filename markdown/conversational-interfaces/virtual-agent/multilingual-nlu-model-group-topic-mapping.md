@@ -14,7 +14,7 @@ breadcrumb: [Creating a Virtual Agent topic, Getting started with Virtual Agent 
 
 # Topic mapping to a multilingual NLU model group
 
-When you map a topic to a multilingual model group in [[virtual-agent-landing-page|Virtual Agent]] Designer, the topic mappings for enabled languages are set up automatically.
+When you map a topic to a multilingual model group in Virtual Agent Designer, the topic mappings for enabled languages are set up automatically.
 
 Model groups contain a primary language model, such as English, and secondary language models. Secondary models are translated copies of the primary model, where each secondary model uses a different language. Any supported language can be the primary language for a primary model or the secondary language for a secondary model. The language is reflected in the model name. For example, `FR` for French, `DE` for German, `JA` for Japanese, and `ES` for Spanish.
 
@@ -56,6 +56,3 @@ If languages in a topic are mapped to intents in more than one model group, conf
 
 **Parent Topic:**[Creating a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/create-virtual-agent-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

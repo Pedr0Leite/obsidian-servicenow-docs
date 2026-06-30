@@ -20,9 +20,9 @@ Role required: sn\_bcm.admin, sn\_bcm.manager
 
 ## About this task
 
-Install and activate the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) plugin. For more information, see [[install-document-designer-with-word-plugin|Install Document designer with Microsoft Word]].
+Install and activate the Document designer with Microsoft Word \(sn\_grc\_doc\_design\) plugin. For more information, see [Install Document designer with Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/install-document-designer-with-word-plugin.md).
 
-Confirm that you have the templates configured. For more information, see [[set-up-document-designer-templates|Set up the template configurations]].
+Confirm that you have the templates configured. For more information, see [Set up the template configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-document-designer-templates.md).
 
 ## Procedure
 
@@ -100,7 +100,3 @@ Confirm that you have the templates configured. For more information, see [[set-
 
 [Add related fields to a Microsoft 365 configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/add-related-fields-0365.md)
 
-## Related
-
-- [[install-document-designer-with-word-plugin|Install Document designer with Microsoft Word]]
-- [[set-up-document-designer-templates|Set up the template configurations]]

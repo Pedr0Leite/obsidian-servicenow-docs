@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery scheduled discovery, Data Discovery Store, Data Disc
 
 # Review discovery findings
 
-[[dps-classify-data|Classify data]] in [[dds-data-discovery|Data Discovery Store]]
+Classify data in Data Discovery Store
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: discovery.admin
 
 ## Procedure
 
-1.  Go to **All** &gt; **[[data-discovery-landing|Data Discovery]]** &gt; **Scheduled Discovery**.
+1.  Go to **All** &gt; **Data Discovery** &gt; **Scheduled Discovery**.
 
 2.  Select **Discovery Findings** in the right-side navigation pane.
 
@@ -43,8 +43,3 @@ Role required: discovery.admin
 
 The selected data is now classified.
 
-## Related
-
-- [[dps-classify-data|Classify data]]
-- [[dds-data-discovery|Data Discovery Store]]
-- [[data-discovery-landing|Data Discovery]]

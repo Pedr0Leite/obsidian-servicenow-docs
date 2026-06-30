@@ -14,7 +14,7 @@ breadcrumb: [Subscriptions for Software Asset Management, Software Asset Managem
 
 # View license report for the IT Asset Management application
 
-Resources that the [[it-asset-management|IT Asset Management]] applications discover, monitor, and provision are configuration items \(CIs\) stored in the CMDB. The ITAM licensing module combines this information on CIs with the information on subscriptions your organization purchased to produce statistics on subscription use by IT Asset Management applications.
+Resources that the IT Asset Management applications discover, monitor, and provision are configuration items \(CIs\) stored in the CMDB. The ITAM licensing module combines this information on CIs with the information on subscriptions your organization purchased to produce statistics on subscription use by IT Asset Management applications.
 
 ## Before you begin
 
@@ -38,14 +38,10 @@ Role required: usage\_admin
 
     -   **Resource Category**: CI categories for IT Asset Management applications.
     -   **Resource Total Count**: CI count for CIs organized by CI categories, for each IT Asset Management application.
-    -   **Subscription Unit Ratio**: Ratios define how many CIs of a certain CI category require a subscription. The [[c_SoftwareAssetMgmt|Software Asset Management]] application has pre-defined values for End User Computers \(4:1\), for Servers \(1:1\), for Storage Volumes \(3:1\), for Databases \(3:1\), and for Subscription Users \(15:1\).
+    -   **Subscription Unit Ratio**: Ratios define how many CIs of a certain CI category require a subscription. The Software Asset Management application has pre-defined values for End User Computers \(4:1\), for Servers \(1:1\), for Storage Volumes \(3:1\), for Databases \(3:1\), and for Subscription Users \(15:1\).
     -   **Total Subscription Units Consumed**: The number of subscriptions per CI category for each IT Asset Management application that your organization consumed. The licensing module calculates this number by applying the subscriptions ratio to the CI count number for each application's CI category.
     For licensing purposes, the Software Asset Management application only considers CIs with software installs discovered within the last 90 days or those where the last discovered as empty. Additionally, all CIs are excluded that have a column added to the cmdb\_ci\_hardware table and that column name is referenced in the property labeled **Enter the name of the true/false field added to cmdb\_ci\_hardware table to exclude software installed on selected devices from Software Asset Management**. For more information on excluding CIs, see [Exclude software assets on CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/exclude-software-assets-cis.md).
 
 
 **Parent Topic:**[Subscriptions for Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-subscription.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

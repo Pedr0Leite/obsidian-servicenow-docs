@@ -14,11 +14,11 @@ breadcrumb: [Use generative AI skills, Now Assist for Health and Safety, Health 
 
 # Conversational AI Health and Safety incident or observation report
 
-Use the Now Assist panel conversational interface to report [[health-safety-overview|Health and Safety]] incidents and observations that enables you to engage with live agents, virtual agents, or both.
+Use the Now Assist panel conversational interface to report Health and Safety incidents and observations that enables you to engage with live agents, virtual agents, or both.
 
-A basic Health and Safety incident or observation can be reported using the conversational language through the Now Assist panel. Admins can configure keywords on the [[health-safety-core-workspace|Health and Safety workspace]]. Using appropriate keywords such as health, safety, incident, injury, or observation generates functional responses. For more information on configuring the keywords, see [Configure keywords for conversational AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-now-assist-configure-keywords-conversational-ai.md).
+A basic Health and Safety incident or observation can be reported using the conversational language through the Now Assist panel. Admins can configure keywords on the Health and Safety workspace. Using appropriate keywords such as health, safety, incident, injury, or observation generates functional responses. For more information on configuring the keywords, see [Configure keywords for conversational AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-now-assist-configure-keywords-conversational-ai.md).
 
-Employees can use the Now Assist panel icon \(\[Omitted image "bus-ai-sparkle.svg"\] Alt text: now assist panel\) in the **[[employee-center-landing-page|Employee Center]]** home page to open a chat panel to report a Health and Safety incident easily.
+Employees can use the Now Assist panel icon \(\[Omitted image "bus-ai-sparkle.svg"\] Alt text: now assist panel\) in the **Employee Center** home page to open a chat panel to report a Health and Safety incident easily.
 
 \[Omitted image "na-conversational-incident-reporting.png"\] Alt text: conversational incident reporting in now assist
 
@@ -36,8 +36,3 @@ Conversational AI simplifies the safety incident or observation reporting proces
 
 **Parent Topic:**[Use generative AI skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/hs-now-assist-use-generative-ai.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

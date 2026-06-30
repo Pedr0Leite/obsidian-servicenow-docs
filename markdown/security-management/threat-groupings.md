@@ -14,16 +14,16 @@ breadcrumb: [IoC Repository, Threat Intelligence, Enterprise security case manag
 
 A Threat Groupings object explicitly asserts that the referenced STIX Objects have a shared context. Threat groupings applies for STIX 2.x.
 
-A Threat Groupings object represents a set of data that, given sufficient analysis, matures to convey an incident or [[threat-report|threat report]] as a STIX Report object. For example, a Grouping could be used to characterize an ongoing investigation into a security event or incident.
+A Threat Groupings object represents a set of data that, given sufficient analysis, matures to convey an incident or threat report as a STIX Report object. For example, a Grouping could be used to characterize an ongoing investigation into a security event or incident.
 
-A Threat Groupings object could also be used to assert that the referenced STIX Objects are related to an ongoing analysis process. For example, a threat analyst may collaborate with others in their trust community to examine a series of [[threat-intelligence-campaigns|Campaigns]] and [[indicator|Indicators]].
+A Threat Groupings object could also be used to assert that the referenced STIX Objects are related to an ongoing analysis process. For example, a threat analyst may collaborate with others in their trust community to examine a series of Campaigns and Indicators.
 
-The [[threat-grouping|Threat Grouping]] SDO contains a list of references to SDOs, SCOs, and SROs, along with an explicit statement of the context shared by the content, a textual description, and the name of the grouping.
+The Threat Grouping SDO contains a list of references to SDOs, SCOs, and SROs, along with an explicit statement of the context shared by the content, a textual description, and the name of the grouping.
 
--   **[[define-threat-groupings|Define threat groupings]]**  
+-   **[Define threat groupings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-threat-groupings.md)**  
 Define threat groupings as objects that have a shared context.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -74,11 +74,3 @@ Define threat groupings as objects that have a shared context.
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-threat-groupings|Define threat groupings]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-report|Threat Report]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[indicator|Indicators]]
-- [[threat-grouping|Threat Grouping]]

@@ -12,7 +12,7 @@ breadcrumb: [Service definitions, Case management, Organize agent workspaces, Co
 
 # Service definition roles
 
-Service definition roles included with the Customer Service Case Types plugin enable users to view, create, and update [[csm-service-definitions|service definitions]], service definition categories, and service definition category relationships. Agents and end users can use these definitions and categories to view and create cases based on the selected service.
+Service definition roles included with the Customer Service Case Types plugin enable users to view, create, and update service definitions, service definition categories, and service definition category relationships. Agents and end users can use these definitions and categories to view and create cases based on the selected service.
 
 ## Service definition roles
 
@@ -36,7 +36,7 @@ Service definition admin\[sn\_csm\_case\_types.service\_definition\_admin\]
 
 </td><td>
 
-Administrator role for the [[customer-service-case-types|Customer Service case types]] tables. Users with this role can view, create, update, and delete service definitions, service definition categories, and service definition category relationships.
+Administrator role for the [Customer Service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md) tables. Users with this role can view, create, update, and delete service definitions, service definition categories, and service definition category relationships.
 
 </td><td>
 
@@ -98,7 +98,7 @@ None
 </td></tr></tbody>
 </table>## How users can use service definitions
 
-In [[csm-workspaces-configure|CSM Configurable Workspace]], users with the admin role or one of the following agent roles can access the **Service** field for [[csm-cases-case-tasks-overview|cases and case tasks]].
+In CSM Configurable Workspace, users with the admin role or one of the following agent roles can access the **Service** field for cases and case tasks.
 
 -   Customer service agent \(sn\_customerservice\_agent\)
 -   Consumer service agent \(sn\_customerservice.consumer\_agent\)
@@ -106,10 +106,10 @@ In [[csm-workspaces-configure|CSM Configurable Workspace]], users with the admin
 
 The admin and agent roles can do the following:
 
--   See the **Service** column on Case Task [[migration-lists|lists]]. For example, My Case Task and My Contributing Tasks.
--   See the **Service** field on the [[csm-case-task-form|Case Task form]].
+-   See the **Service** column on Case Task lists. For example, My Case Task and My Contributing Tasks.
+-   See the **Service** field on the Case Task form.
 -   Select a service in the **Service** field and save the Case Task form.
--   [[osp-create-case-task|Create a case task]] and see the **Service** field on the Case Task form.
+-   Create a case task and see the **Service** field on the Case Task form.
 
 In the Core UI, users with the admin role or one of the agent roles listed above can do the following:
 
@@ -193,7 +193,7 @@ Customer contacts with configured contact relationships
 
 </td><td>
 
-For more information, see [[c_ContactRelationships|Contact Relationships]].
+For more information, see [Contact Relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_ContactRelationships.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -213,7 +213,7 @@ Consumers with configured consumer relationships
 
 </td><td>
 
-Use relationships to provide internal and external users with additional access to [[customer-data|customer data]]. For more information, see [[configure-data-model-relationships|Create relationships]].
+Use relationships to provide internal and external users with additional access to customer data. For more information, see [Create relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-relationships.md).
 
 </td></tr><tr><td>
 
@@ -221,7 +221,7 @@ Consumers who are designated as head of household
 
 </td><td>
 
-A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. For more information, see [[create-consumer-household|Create or update a household]].
+A household is made up of a group of consumers who live at a common address and share products and services. A household can have a designated head of household and multiple current members. For more information, see [Create or update a household](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-consumer-household.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -294,7 +294,7 @@ Relationship agent\[sn\_customerservice.relationship\_agent\]
 
 </td><td>
 
-[[manage-cases|Manage cases]] for the accounts, contacts, consumers, and households that the agent has relationships with. This includes the following relationships that are provided with the Service Model Foundation plugins:-   Account Manager: Creates a relationship between an internal user and an account.
+Manage cases for the accounts, contacts, consumers, and households that the agent has relationships with. This includes the following relationships that are provided with the Service Model Foundation plugins:-   Account Manager: Creates a relationship between an internal user and an account.
 -   Relationship Manager: Creates a relationship between an internal user and a consumer or a household.
 
 </td></tr><tr><td>
@@ -319,7 +319,7 @@ Case Authorized Contributor\[sn\_customerservice.case\_authorized\_contributor\]
 
 </td><td>
 
-This role provides access to add additional comments and attachments, accept or reject a solution, receive notifications on case updates, [[osp-close-case|close a case]], and update case tasks.
+This role provides access to add additional comments and attachments, accept or reject a solution, receive notifications on case updates, close a case, and update case tasks.
 
 </td></tr><tr><td>
 
@@ -332,43 +332,20 @@ An Outsourced Service Provider \(OSP\) role. Users with this role can fulfill th
 </td></tr></tbody>
 </table>For more information about these roles, see the following topics:
 
--   [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
--   [[csm-contributor-user-roles|Contributor user roles]]
--   Service Model Foundation - [[configure-data-model-roles|Assign roles]]
--   [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
--   [[roles-ocs|Roles for Outsourced Customer Service]]
+-   [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
+-   [Contributor user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contributor-user-roles.md)
+-   Service Model Foundation - [Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-data-model-roles.md)
+-   [Roles installed with customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_rolesinstalledwithcustaccessmgmt.md)
+-   [Roles for Outsourced Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/roles-ocs.md)
 
 **Related topics**  
 
 
-[[csm-service-definitions-configure|Configuring service definitions]]
+[Configuring service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions-configure.md)
 
 [Customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-types.md)
 
-[[manage-csm-case-types|Manage customer service case types]]
+[Manage customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-csm-case-types.md)
 
-[[create-case-of-specific-case-type|Create a customer service case of a specific type]]
+[Create a customer service case of a specific type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-of-specific-case-type.md)
 
-## Related
-
-- [[customer-service-case-types|Customer service case types]]
-- [[c_ContactRelationships|Contact relationships]]
-- [[configure-data-model-relationships|Create relationships]]
-- [[create-consumer-household|Create or update a household]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[csm-contributor-user-roles|Contributor user roles]]
-- [[configure-data-model-roles|Assign roles]]
-- [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
-- [[roles-ocs|Roles for Outsourced Customer Service]]
-- [[csm-service-definitions-configure|Configuring service definitions]]
-- [[manage-csm-case-types|Manage customer service case types]]
-- [[create-case-of-specific-case-type|Create a customer service case of a specific type]]
-- [[csm-service-definitions|Service definitions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[migration-lists|Lists]]
-- [[csm-case-task-form|Case task form]]
-- [[osp-create-case-task|Create a case task]]
-- [[customer-data|Customer data]]
-- [[manage-cases|Manage cases]]
-- [[osp-close-case|Close a case]]

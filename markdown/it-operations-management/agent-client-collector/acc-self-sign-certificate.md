@@ -14,7 +14,7 @@ breadcrumb: [Create and edit ACC plugins, ACC deployment - servers, Configuring 
 
 # Secure a custom plugin with a certificate
 
-When you customize or create an [[acc-landing-page|Agent Client Collector]] plugin, you can secure the plugin with either a third-party certificate or an internal secure certificate in the plugin's script. Official plugins are signed by an external certificate authority.
+When you customize or create an Agent Client Collector plugin, you can secure the plugin with either a third-party certificate or an internal secure certificate in the plugin's script. Official plugins are signed by an external certificate authority.
 
 Using a self-signed certificate is enabled by default. To disable this feature, set the **verify-plugin-signature** property to **False**. When you disable a self-signed certificate, your configured plugins use no certificate.
 
@@ -28,6 +28,3 @@ For details on how to configure the certificate synchronization properties, see 
 
 **Parent Topic:**[Create and edit Agent Client Collector plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/create-edit-assets.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

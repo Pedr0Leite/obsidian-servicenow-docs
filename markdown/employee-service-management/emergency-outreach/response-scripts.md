@@ -14,7 +14,7 @@ breadcrumb: [Emergency Outreach, Emergency Response Management, Employee Service
 
 # Response scripts
 
-Use response scripts to automatically take actions based on user responses to survey questions. Response scripts can be used to create or update records across any of the [[emergency-response-management|Emergency Response Management]] and [[safe-workplace|Safe Workplace]] suite apps.
+Use response scripts to automatically take actions based on user responses to survey questions. Response scripts can be used to create or update records across any of the Emergency Response Management and Safe Workplace suite apps.
 
 Each response script is associated with a survey. The response script runs if a user completes the associated survey and their answers match the response criteria.
 
@@ -24,7 +24,7 @@ Each response script is associated with a survey. The response script runs if a 
 
 ## Included response scripts
 
-[[emergency-outreach|Emergency Outreach]] provides the pre-built [[request-ppe|Request PPE]] response script.
+Emergency Outreach provides the pre-built Request PPE response script.
 
 The Request PPE response script requires the [Workplace PPE Inventory Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/ppe-inventory-management.md) app. This response script creates a PPE request for employees who complete the Employee workplace readiness survey and meet the response criteria for the health status, travel, and ready to return to the workplace questions.
 
@@ -149,9 +149,4 @@ if (GlidePluginManager.isActive('plugin_name')) {
 
 5.  Click **Update**.
 
-## Related
 
-- [[emergency-response-management|Emergency Response Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[request-ppe|Request PPE]]

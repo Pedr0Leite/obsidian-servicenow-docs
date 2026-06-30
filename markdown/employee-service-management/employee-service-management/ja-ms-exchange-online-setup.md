@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Microsoft Exchange Online setup for Journey Accelerator
 
-By integrating the [[journey-accelerator-1|Journey Accelerator]] scheduling feature with the Microsoft Office 365 calendar function, users can schedule plans and to-do tasks.
+By integrating the Journey Accelerator scheduling feature with the Microsoft Office 365 calendar function, users can schedule plans and to-do tasks.
 
 **Note:** If an administrator intends to use the Microsoft Office 365 scheduling capabilities with Journey Accelerator, the administrator must install and configure the related Microsoft plugins and integrations before installing Journey Accelerator.
 
@@ -64,6 +64,3 @@ For detailed steps, see [Update system properties for Microsoft Exchange Online 
 
 [Request IntegrationHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-ih-overview.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

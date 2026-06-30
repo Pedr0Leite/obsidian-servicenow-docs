@@ -44,7 +44,7 @@ Role required: sn\_esg.data\_owner, sn\_esg.metrics\_manager
 
 7.  Select the View dashboard details icon \[Omitted image "details-icon.png"\] Alt text: to view all the details of the dashboard.
 
-    You can also edit the details as required. For more information, see [[edit-esg-dashboard-details|Edit Operational Sustainability Management dashboard details]]
+    You can also edit the details as required. For more information, see [Edit Operational Sustainability Management dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-details.md)
 
 8.  Arrange the data on the canvas to make it useful.
 
@@ -60,12 +60,7 @@ Role required: sn\_esg.data\_owner, sn\_esg.metrics\_manager
 ## What to do next
 
 -   [Edit Operational Sustainability Management dashboard details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-details.md)
--   [[edit-esg-dashboard-elements|Edit Operational Sustainability Management dashboard elements]]
+-   [Edit Operational Sustainability Management dashboard elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/edit-esg-dashboard-elements.md)
 
-**Parent Topic:**[[monitor-data-using-esg-dashboards|Monitoring assessment data using Operational Sustainability Management dashboards]]
+**Parent Topic:**[Monitoring assessment data using Operational Sustainability Management dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/monitor-data-using-esg-dashboards.md)
 
-## Related
-
-- [[edit-esg-dashboard-details|Edit Operational Sustainability Management dashboard details]]
-- [[edit-esg-dashboard-elements|Edit Operational Sustainability Management dashboard elements]]
-- [[monitor-data-using-esg-dashboards|Monitoring assessment data using Operational Sustainability Management dashboards]]

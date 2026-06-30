@@ -18,7 +18,7 @@ Manage and document the progress for an escalation using the case or account esc
 
 Role required:
 
--   sn\_customerservice\_agent or sn\_customerservice.consumer\_agent to [[osp-escalate-case|escalate a case]].
+-   sn\_customerservice\_agent or sn\_customerservice.consumer\_agent to escalate a case.
 -   sn\_customerservice\_agent, sn\_customerservice.consumer\_agent sn\_crm\_escalation\_admin, or sn\_crm\_foundation\_admin, to escalate an account.
 
 ## About this task
@@ -30,7 +30,7 @@ Perform tasks such as changing the escalation severity \(which may trigger a dif
 
 ## Procedure
 
-1.  Navigate to the list of [[customer-service-case-escalation|case and account escalation]] records by selecting **All** &gt; **Customer Service** &gt; **Escalations** &gt; **All**.
+1.  Navigate to the list of case and account escalation records by selecting **All** &gt; **Customer Service** &gt; **Escalations** &gt; **All**.
 
 2.  Select the desired case or account escalation record.
 
@@ -38,12 +38,8 @@ Perform tasks such as changing the escalation severity \(which may trigger a dif
 
 3.  Update the fields on the escalation form as needed.
 
-    For example, you can change the escalation severity, which may trigger a different SLA, and update the escalation trend. You can also add users to the watch list and add comments about the progress of the escalation. For more information about these fields, see [[case-escalation-form|Case and account escalation form]].
+    For example, you can change the escalation severity, which may trigger a different SLA, and update the escalation trend. You can also add users to the watch list and add comments about the progress of the escalation. For more information about these fields, see [Case and account escalation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-escalation-form.md).
 
 4.  Click **Update**.
 
-## Related
 
-- [[case-escalation-form|Case and account escalation form]]
-- [[osp-escalate-case|Escalate a case]]
-- [[customer-service-case-escalation|Case and account escalation]]

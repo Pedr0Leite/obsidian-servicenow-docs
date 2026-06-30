@@ -48,7 +48,7 @@ Compose
 
 </td></tr><tr><td>
 
-[[activity-stream|Activity stream]]
+Activity stream
 
 </td><td>
 
@@ -70,6 +70,3 @@ Agent assist displays relevant search results based on the search text. The text
 
 **Parent Topic:**[Explore the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-workpace.md)
 
-## Related
-
-- [[activity-stream|Activity stream]]

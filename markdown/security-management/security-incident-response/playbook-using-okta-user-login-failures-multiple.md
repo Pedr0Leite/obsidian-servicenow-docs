@@ -41,7 +41,7 @@ Role required:
 
 6.  In Action 7, if the user provided a valid business justification, perform the following tasks.
 
-    1.  In Action 8, [[create_response_task|create a response task]] to document the findings so far.
+    1.  In Action 8, create a response task to document the findings so far.
 
     2.  In Action 9, create a response to initiate a post incident review.
 
@@ -68,6 +68,3 @@ Role required:
 
 **Parent Topic:**[Playbook for Okta User Login Failures from Multiple IPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-okta-user-login-failures-ips.md)
 
-## Related
-
-- [[create_response_task|Create a Response Task]]

@@ -132,7 +132,7 @@ DNS Task Assignment Group
 
 </td><td>
 
-DNS Task Assignment Group. Select **[[cert-inventory-mgmt|Certificate Inventory and Management]]**.
+DNS Task Assignment Group. Select **Certificate Inventory and Management**.
 
 </td></tr><tr><td>
 
@@ -216,7 +216,3 @@ Email address of the administrator in the organization making the certificate si
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

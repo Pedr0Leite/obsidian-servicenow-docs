@@ -14,7 +14,7 @@ breadcrumb: [Posting announcements to portal users, Service Portal, Configure UI
 
 # Create an announcement
 
-An announcement appears as a banner in [[c_ServicePortal|Service Portal]] or within the [[announcements-widget|announcements widget]].
+An announcement appears as a banner in Service Portal or within the announcements widget.
 
 ## Before you begin
 
@@ -232,7 +232,3 @@ If the **Type** is **Banner**, test your announcement by navigating to the porta
 
 [Create an announcement type]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[announcements-widget|Announcements widget]]

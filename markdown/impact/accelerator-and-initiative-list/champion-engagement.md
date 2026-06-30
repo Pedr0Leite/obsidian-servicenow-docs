@@ -22,7 +22,7 @@ Guidance to effectively communicate the value and benefits of using the ServiceN
 
 ### Overview
 
-Champion Engagement provides [[impact-landing-page|Impact]] Customer champions with leading practices content and prescriptive guidance to effectively  communicate the value proposition and benefits for using the ServiceNow platform within their organizations. Champion Engagement includes enablement for one champion.
+Champion Engagement provides Impact Customer champions with leading practices content and prescriptive guidance to effectively  communicate the value proposition and benefits for using the ServiceNow platform within their organizations. Champion Engagement includes enablement for one champion.
 
 ### What You Get
 
@@ -108,6 +108,3 @@ Champion Engagement provides Impact Customer champions with leading practices co
 
 ServiceNow is not responsible for executing the Champion Plan.
 
-## Related
-
-- [[impact-landing-page|Impact]]

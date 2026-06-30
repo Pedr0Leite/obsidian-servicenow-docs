@@ -12,11 +12,11 @@ breadcrumb: [Import accounts and contacts with guided setup, Configure accounts 
 
 # Account codes and account paths
 
-An account code is a unique identifier for an account, while an account path establishes the [[c_AccountHierarchy|account hierarchy]].
+An account code is a unique identifier for an account, while an account path establishes the account hierarchy.
 
 ## Account codes
 
-An account code is a unique key that identifies an account in a ServiceNow instance. This code is stored in the **Account Code** field on the [[customer-service-account-form|Account form]].
+An account code is a unique key that identifies an account in a ServiceNow instance. This code is stored in the **Account Code** field on the Account form.
 
 An account code must be unique. Attempting to insert a new record with previously existing account code in the Account \[customer\_account\] table, the value for the code results in the following error:
 
@@ -99,12 +99,7 @@ Boxeo France
 </td></tr></tbody>
 </table>## Importing account records
 
-If you create your account records by importing the data from some source system through a transform map, make sure that you execute the business [[gamification-components-rules|rules]]. The Account Path is added, updated, and deleted based on the insertion, updating, and deletion of records in the Account \[customer\_account\] table through the business rules. If the business rules aren’t executed, it can result in empty account paths, which can then result in data access issues.
+If you create your account records by importing the data from some source system through a transform map, make sure that you execute the business rules. The Account Path is added, updated, and deleted based on the insertion, updating, and deletion of records in the Account \[customer\_account\] table through the business rules. If the business rules aren’t executed, it can result in empty account paths, which can then result in data access issues.
 
 **Note:** If you don’t execute the business rules during import, run the script in the **Update account path** business rule for the newly imported records to set the account paths correctly.
 
-## Related
-
-- [[c_AccountHierarchy|Account hierarchy]]
-- [[customer-service-account-form|Account form]]
-- [[gamification-components-rules|Rules]]

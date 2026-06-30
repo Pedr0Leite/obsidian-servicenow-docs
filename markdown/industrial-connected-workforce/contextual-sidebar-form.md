@@ -23,8 +23,5 @@ The following table describes the field values for the user preference form.
 |Type|Data type of entry accepted for the Value. Select **true \| false**.|
 |System|Option to enable or disable the system-wide default. Select this option.|
 
-**Parent Topic:**[[icw-reference|Industrial Connected Workforce reference]]
+**Parent Topic:**[Industrial Connected Workforce reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/icw-reference.md)
 
-## Related
-
-- [[icw-reference|Industrial Connected Workforce reference]]

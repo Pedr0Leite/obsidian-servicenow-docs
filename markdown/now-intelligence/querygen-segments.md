@@ -16,13 +16,13 @@ Segments are predefined filter conditions that map business terminology to speci
 
 [Segments]() provide non-obvious context to assist the semantic layer in selecting the correct entity, dimension, and values. For example, in the [utterance]() "How many open emergency change requests are there?", a segment identifies that "open" means "active=true" and "emergency" is a Type, not a Priority.
 
-When a user asks a question, the [[query-generation|Query Generation]] engine searches for matching segments and includes their filters in the [LLM]() prompt so the model can reuse them to construct accurate queries.
+When a user asks a question, the Query Generation engine searches for matching segments and includes their filters in the [LLM]() prompt so the model can reuse them to construct accurate queries.
 
 There are two types of segments:
 
 -   **Automated Segments**
 
-    System-generated from reports, dashboards, filters, modules, and [[c_IndicatorSources|indicator sources]]. Names are often technical—for example, "Incidents.Open".
+    System-generated from reports, dashboards, filters, modules, and indicator sources. Names are often technical—for example, "Incidents.Open".
 
 -   **Manual Segments**
 
@@ -105,7 +105,7 @@ The system auto-generates segments from existing data sources on a schedule. The
 
 ## Automated segment rules
 
-To reduce noise from outdated and irrelevant segments, the job follows specific rules. Segments based on reports, [[c_ReportSources|report sources]], or indicator sources are active only if the records meet certain criteria:
+To reduce noise from outdated and irrelevant segments, the job follows specific rules. Segments based on reports, report sources, or indicator sources are active only if the records meet certain criteria:
 
 -   Reports must be shared, created by a user with an analytics manager role \(admin, dashboard\_admin, report\_admin, pa\_admin, or viz\_admin\), and have run recently \(within 180 days by default\).
 -   Report sources must be included in a data visualization or used in a report that has run recently.
@@ -133,18 +133,18 @@ You can change the time spans for indicator sources by applying a multiplier usi
 
 ## Disabling segment sources
 
-You can disable segment creation altogether, or for individual source types. You might disable segment generation to troubleshoot, or if segments from a source are "noisy." Each source type has a corresponding **sn\_query\_gen.segments.disable.\*** system property. Disable segments for that source by setting the corresponding system property to **true**. All existing segments created from sources of that type are excluded from AI Data Explorer search results. No new segments of that type are created. During the next Sync Segments job, all segments of that type are deactivated. For more information, see [[querygen-properties|Query Generation properties]].
+You can disable segment creation altogether, or for individual source types. You might disable segment generation to troubleshoot, or if segments from a source are "noisy." Each source type has a corresponding **sn\_query\_gen.segments.disable.\*** system property. Disable segments for that source by setting the corresponding system property to **true**. All existing segments created from sources of that type are excluded from AI Data Explorer search results. No new segments of that type are created. During the next Sync Segments job, all segments of that type are deactivated. For more information, see [Query Generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md).
 
--   **[[general-guidelines-segments|Guidelines for segments]]**  
+-   **[Guidelines for segments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)**  
 Follow these suggestions to help you use segments in the semantic layer effectively.
--   **[[querygen-create-segment-manually|Create a manual segment]]**  
+-   **[Create a manual segment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-create-segment-manually.md)**  
 Manual segments are admin-created saved searches with friendly names that bridge natural language questions and database filters for the Query Generation semantic layer.
--   **[[manual-segment-data-model-sync|Manual segment data model and sync behavior]]**  
+-   **[Manual segment data model and sync behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/manual-segment-data-model-sync.md)**  
 Manual segments use a two-table data model with automatic synchronization between the configuration table and the runtime table used for search operations.
--   **[[shipping-manual-segments-plugins|Shipping manual segments via plugins]]**  
+-   **[Shipping manual segments via plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/shipping-manual-segments-plugins.md)**  
 Business unit application developers can ship manual segments with their applications to provide domain-specific saved searches that work from the moment the app is installed.
 
-**Parent Topic:**[[semantic-layer-tuning-overview|Tuning the semantic layer]]
+**Parent Topic:**[Tuning the semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/semantic-layer-tuning-overview.md)
 
 **Related topics**  
 
@@ -157,19 +157,7 @@ Business unit application developers can ship manual segments with their applica
 
 [Guidelines for segments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/general-guidelines-segments.md)
 
-[[tables-sched-jobs-query-gen|Roles, tables, and scheduled jobs included with Query Generation]]
+[Roles, tables, and scheduled jobs included with Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/tables-sched-jobs-query-gen.md)
 
 [Query Generation properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-properties.md)
 
-## Related
-
-- [[querygen-properties|Query Generation properties]]
-- [[general-guidelines-segments|Guidelines for segments]]
-- [[querygen-create-segment-manually|Create a manual segment]]
-- [[manual-segment-data-model-sync|Manual segment data model and sync behavior]]
-- [[shipping-manual-segments-plugins|Shipping manual segments via plugins]]
-- [[semantic-layer-tuning-overview|Tuning the semantic layer]]
-- [[tables-sched-jobs-query-gen|Roles, tables, and scheduled jobs included with Query Generation]]
-- [[query-generation|Query Generation]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[c_ReportSources|Report sources]]

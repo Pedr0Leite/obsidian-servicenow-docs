@@ -14,7 +14,7 @@ breadcrumb: [Configure a service activity for an HR service, Configure an HR ser
 
 # Configure a task
 
-Configure a service [[activity-lxp|activity]] that is a task.
+Configure a service activity that is a task.
 
 ## Before you begin
 
@@ -86,6 +86,3 @@ Order number for when the service activity is made available. Lower numbered ser
 
 **Parent Topic:**[Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

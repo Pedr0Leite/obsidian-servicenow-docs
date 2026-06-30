@@ -27,7 +27,7 @@ Role required: contract\_system\_admin, asset\_manager\(core UI and Hardware Ass
 1.  Verify your contract renewal details.
 
     -   If you are using the core UI or Hardware Asset Workspace,select the **Open Tasks** tab on the Contract Renewal Request form. Select the contract renewal request number to view the contract renewal details and then click **Close Task**.
-    -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view. Select the **All [[c_Contracts|contracts]]** tab and then open the enterprise asset contract that you want to renew. View the contract renewal details in the Renewal section of the **Details** tab.
+    -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view. Select the **All contracts** tab and then open the enterprise asset contract that you want to renew. View the contract renewal details in the Renewal section of the **Details** tab.
     An approval request is triggered and the substate of the draft contract changes to Under review.
 
 2.  Open the list of contract and contract renewal requests.
@@ -76,6 +76,3 @@ Result
 
 [Receive a purchase order for contract assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/receive-po.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]

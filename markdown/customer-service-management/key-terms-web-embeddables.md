@@ -28,7 +28,7 @@ Global code
 
 </td><td>
 
-Global code is a common script for all the [[servicenow-web-components-overview|ServiceNow components]]. It enables you to define component themes, base URLs, authentication callbacks, and locale settings before embedding components onto your website. Additionally, it optimizes component performance by pre-caching the resources required for the components. You must add global code before adding component code onto your website hosting ServiceNow web embeddable components verifying a consistent look and feel, secure communication, and proper localization. Without including this script, your components don't render correctly or function as expected, potentially leading to issues with your user experience and functionality.
+Global code is a common script for all the ServiceNow components. It enables you to define component themes, base URLs, authentication callbacks, and locale settings before embedding components onto your website. Additionally, it optimizes component performance by pre-caching the resources required for the components. You must add global code before adding component code onto your website hosting ServiceNow web embeddable components verifying a consistent look and feel, secure communication, and proper localization. Without including this script, your components don't render correctly or function as expected, potentially leading to issues with your user experience and functionality.
 
 </td></tr><tr><td>
 
@@ -42,7 +42,7 @@ Component code is a component-specific script designed for each component that e
 
 </td></tr><tr><td>
 
-CORS \(Cross-Origin Resource Sharing\) [[gamification-components-rules|rules]]
+CORS \(Cross-Origin Resource Sharing\) rules
 
 </td><td>
 
@@ -54,7 +54,7 @@ Event handler
 
 </td><td>
 
-An event handler lets you configure actions, components, or [[migration-form-declarative-actions|declarative actions]] on your website. For example, you can map an event to your component to display an alert notification when the user selects any button on the confirmation message, or you can add an event handler to respond to a record creation failure.
+An event handler lets you configure actions, components, or declarative actions on your website. For example, you can map an event to your component to display an alert notification when the user selects any button on the confirmation message, or you can add an event handler to respond to a record creation failure.
 
 </td></tr><tr><td>
 
@@ -62,7 +62,7 @@ Static preview
 
 </td><td>
 
-The static preview provides a visual representation of your component when a live preview is unavailable. It enables you to understand the component layout and design. However, with static preview enabled, any changes made to global or component properties aren't reflected in the preview in real time. This feature is useful for reviewing components in scenarios where dynamic rendering isn’t available. The Static preview is not available for custom and [[we-data-viz-comp-overview|Data visualization component]].
+The static preview provides a visual representation of your component when a live preview is unavailable. It enables you to understand the component layout and design. However, with static preview enabled, any changes made to global or component properties aren't reflected in the preview in real time. This feature is useful for reviewing components in scenarios where dynamic rendering isn’t available. The Static preview is not available for custom and Data visualization component.
 
 </td></tr><tr><td>
 
@@ -90,10 +90,3 @@ A module represents a website with a collection of pages or a section using grou
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]
-- [[gamification-components-rules|Rules]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[we-data-viz-comp-overview|Data visualization component]]

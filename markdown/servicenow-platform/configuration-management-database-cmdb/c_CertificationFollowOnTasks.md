@@ -40,7 +40,7 @@ Users with the certification role can only access follow-on tasks assigned to th
 
 4.  Go to the CI named in the record and perform the work to bring it into compliance.
 
-5.  Update the **State** field in the follow-on task record and add [[c_WorkNotes|work notes]] as you correct each discrepancy.
+5.  Update the **State** field in the follow-on task record and add work notes as you correct each discrepancy.
 
     When you change the state, the system updates the task activity appropriately.
 
@@ -63,9 +63,9 @@ Tasks are pre-assigned to a user or group as specified in the audit record, but 
 
 1.  Navigate to the appropriate application:
 
-    -   **Compliance** &gt; **[[c_ArchitectureCompliance|Architecture Compliance]]** &gt; **Follow On Tasks**
-    -   **Compliance** &gt; **[[c_DesiredState|Desired State]]** &gt; **Follow On Tasks**
-    -   **Compliance** &gt; **[[c_ScriptedAudits|Scripted Audits]]** &gt; **Follow On Tasks**
+    -   **Compliance** &gt; **Architecture Compliance** &gt; **Follow On Tasks**
+    -   **Compliance** &gt; **Desired State** &gt; **Follow On Tasks**
+    -   **Compliance** &gt; **Scripted Audits** &gt; **Follow On Tasks**
     The list of follow-on tasks appears, filtered by audit type.
 
 2.  Open a task.
@@ -82,9 +82,4 @@ Tasks are pre-assigned to a user or group as specified in the audit record, but 
 
 6.  If you update the follow-on task record, be sure to add work notes.
 
-## Related
 
-- [[c_WorkNotes|Work notes]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_DesiredState|Desired State]]
-- [[c_ScriptedAudits|Scripted audits]]

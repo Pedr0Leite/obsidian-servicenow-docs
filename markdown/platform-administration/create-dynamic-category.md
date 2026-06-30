@@ -26,7 +26,7 @@ Dynamic categories inherit the dynamic attributes of their extended hierarchy. F
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Namespaces**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Namespaces**.
 
 2.  In the Dynamic Categories related list, select **New**.
 
@@ -58,6 +58,3 @@ If you determine that you need dynamic attributes for multiple products in diffe
 
 For example, you might need attributes for capturing Volts, Amps, and Watts in a product record. You can add these attributes to the Electronics category. When you create the Televisions category and select Electronics as the parent category, the Volts, Amps, and Watts attributes are automatically inherited by the Televisions category.
 
-## Related
-
-- [[dynamic-schema|Dynamic Schema]]

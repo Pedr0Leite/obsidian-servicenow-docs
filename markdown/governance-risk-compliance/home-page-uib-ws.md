@@ -18,10 +18,10 @@ The Home page in Business Continuity Workspace serves as the landing page of the
 
 The Home page in Business Continuity Workspace provides an interactive dashboard that summarizes the status of continuity activities. The visualizations help the Workspace users to act on their assigned tasks in an organized manner. The Home page includes these tabs:
 
--   **[[crisis-management-uib|Crisis events]]**
--   **[[bia-uib|Business impact analysis]]**
+-   **Crisis events**
+-   **Business impact analysis**
 -   **Planning**
--   **[[exercise-management-uib|Exercises]]**
+-   **Exercises**
 
 Each tab shows cards that highlight key states, detailed views, and visualizations that help users act quickly and stay informed.
 
@@ -268,7 +268,7 @@ Shows the number of assets that have different recovery tiers. The image shows a
 
 </td><td>
 
-Action button to [[create-bia-in-uib-ws|create a business impact analysis]] from the **Business impact analysis** tab. When you select **Create BIA**, it launches the **Create New Impact Analysis** form where you can fill in the details of the business impact analysis.
+Action button to create a business impact analysis from the **Business impact analysis** tab. When you select **Create BIA**, it launches the **Create New Impact Analysis** form where you can fill in the details of the business impact analysis.
 
 </td></tr></tbody>
 </table>## Planning tab
@@ -374,7 +374,7 @@ You can select the card to view the plans without events.
 
 </td><td>
 
-Action button to [[create-bcp-plan-in-uib-ws|create a business continuity plan]] from the **Planning** tab. When you select **Create BCP**, it launches the **Create New Plan** form where you can fill in the details of the business continuity plan.
+Action button to create a business continuity plan from the **Planning** tab. When you select **Create BCP**, it launches the **Create New Plan** form where you can fill in the details of the business continuity plan.
 
 </td></tr></tbody>
 </table>## Exercises tab
@@ -508,7 +508,7 @@ Shows the tasks by status of the ongoing events:
 
 </td><td>
 
-Action button to [[start-exercise-event-in-uib-ws|create an exercise]] event from the **Exercises** tab. When you select **Create exercise**, it launches the **Create New Event** form where you can fill in the details of the exercise event.
+Action button to create an exercise event from the **Exercises** tab. When you select **Create exercise**, it launches the **Create New Event** form where you can fill in the details of the exercise event.
 
 </td></tr></tbody>
 </table>## Home page views for BCM Manager and BCM Planner
@@ -525,11 +525,3 @@ A typical Home page view for a BCM planner is shown in the example.
 
 For information on the tabs and their associated actions in the Home page, see [Home page view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/home-page-uib-ws.md).
 
-## Related
-
-- [[crisis-management-uib|Crisis events]]
-- [[bia-uib|Business impact analysis]]
-- [[exercise-management-uib|Exercises]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]
-- [[create-bcp-plan-in-uib-ws|Create a business continuity plan]]
-- [[start-exercise-event-in-uib-ws|Create an exercise]]

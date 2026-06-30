@@ -14,7 +14,7 @@ breadcrumb: [Safe Workplace, Health and Safety, Employee Service Management]
 
 # Workplace Core
 
-Use the ServiceNow® Workplace Core application to create safer, managed processes for returning employees to the workplace and staying open. Establish distancing plans, shift assignments, and sanitation scheduling and manage workspace allocation in stages. The Workplace Core is also available as a core application in the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] suite.
+Use the ServiceNow® Workplace Core application to create safer, managed processes for returning employees to the workplace and staying open. Establish distancing plans, shift assignments, and sanitation scheduling and manage workspace allocation in stages. The Workplace Core is also available as a core application in the Workplace Service Delivery suite.
 
 \[Omitted image "covid.wsm\_overview.png"\] Alt text: Workplace Safety Management overview
 
@@ -45,9 +45,9 @@ Use the ServiceNow® Workplace Core application to create safer, managed process
 
     Employees can request workspace reservations when they are ready to return to the office. Using interactive floor plans, they can choose to reserve workspaces for a specified date range, a single day, or a few hours. Depending on your organizational guidelines, reservation requests might require an approval for confirmation.
 
-    If the workplace profiles of all employees are set up, the application automatically assigns available workspaces for employees based on their date and time selection when they [[reservation-portal|make a reservation]].
+    If the workplace profiles of all employees are set up, the application automatically assigns available workspaces for employees based on their date and time selection when they make a reservation.
 
-    For more advanced workplace reservation options, use [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] in the Workplace Service Delivery suite. For more information, see [Workplace Reservation Management]().
+    For more advanced workplace reservation options, use Workplace Reservation Management in the Workplace Service Delivery suite. For more information, see [Workplace Reservation Management]().
 
 -   **Workplace tasks**
 
@@ -58,9 +58,9 @@ Use the ServiceNow® Workplace Core application to create safer, managed process
     Using data visualizations, you can evaluate the availability of workspaces and occupancy levels of your office locations, and monitor the progress of workplace tasks on the workplace dashboard.
 
 
--   **Use guided setup to implement [[safe-workplace|Safe Workplace]] suite apps**
+-   **Use guided setup to implement Safe Workplace suite apps**
 
-    The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and [[emergency-response-management|Emergency Response Management]] applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
+    The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and Emergency Response Management applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 
 ## Use with other Safe Workplace suite applications
@@ -132,10 +132,3 @@ ServiceNow is offering this application to government agencies and their authori
 
 All decisions in connection with the implementation of this application are at the sole decision of the government agency utilizing this application. Agencies remain solely responsible for complying with their legal obligations under applicable laws and regulations, including \(but not limited to\) data protection and employment laws and regulations, and should modify any language within the templates provided to meet the agency’s specific requirements.
 
-## Related
-
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]

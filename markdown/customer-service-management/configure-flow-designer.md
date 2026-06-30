@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-**Note:** This task is only applicable if you are using the [[pcso-event-management|integration with Event Management]].
+**Note:** This task is only applicable if you are using the integration with Event Management.
 
 Configure the flow designer to automate the next steps in processing a proactive case. You can automate that a proactive case is proposed to a major case or is directly promoted to a major case. If promoted directly to a major case, child cases are automatically created when multiple customers are impacted.
 
@@ -44,11 +44,8 @@ If a single account is affected, you can also automate that an account and prima
 
 6.  Select the **Process Case for Single Account** check box to associate an account and primary contact to the case if a single account is affected.
 
-    This also applies if multiple [[install-base-item|install base items]] from the same account are affected.
+    This also applies if multiple install base items from the same account are affected.
 
 7.  Click **Done**.
 
-## Related
 
-- [[pcso-event-management|Integration with Event Management]]
-- [[install-base-item|Install base items]]

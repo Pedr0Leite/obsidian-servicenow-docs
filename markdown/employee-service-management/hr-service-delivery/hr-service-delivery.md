@@ -16,11 +16,11 @@ breadcrumb: [Employee Service Management]
 
 HR Service Delivery is a suite of applications that drive employee productivity from hire to retire by connecting the systems and experiences across HR and the enterprise.
 
-\[Omitted image "hr-service-delivery-landing-page.svg"\] Alt text: HR Service Delivery applications support employees at each stage: [[hiring-tab-concept|hiring]], self-service during employment, growth, and departure.
+\[Omitted image "hr-service-delivery-landing-page.svg"\] Alt text: HR Service Delivery applications support employees at each stage: hiring, self-service during employment, growth, and departure.
 
 -   **Employees**
 
-    Employees access [[hr-service-administration|HR services]] and self-service features through the [[employee-center-landing-page|Employee Center]]. HR Service Delivery applications power the features employees use to manage their careers and get help when they need it.
+    Employees access HR services and self-service features through the Employee Center. HR Service Delivery applications power the features employees use to manage their careers and get help when they need it.
 
 -   **Managers**
 
@@ -33,7 +33,7 @@ HR Service Delivery is a suite of applications that drive employee productivity 
 
 ## HR Service Delivery applications
 
-**Note:** The Talent Development applications suite has been renamed to [[egd-employee-growth-developemnt-suite|Growth Experiences]] and the Talent Acquisition application been renamed to [[hiring-experiences-landing|Hiring Experiences]].
+**Note:** The Talent Development applications suite has been renamed to Growth Experiences and the Talent Acquisition application been renamed to Hiring Experiences.
 
 <table id="table_hlz_zwz_fgc" class="nav-card"><tbody><tr><td>
 
@@ -80,10 +80,3 @@ HR Service Delivery is a suite of applications that drive employee productivity 
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other HR Service Delivery users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[hr-service-administration|HR services]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-employee-growth-developemnt-suite|Growth Experiences]]
-- [[hiring-experiences-landing|Hiring Experiences]]

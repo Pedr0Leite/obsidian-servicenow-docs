@@ -14,7 +14,7 @@ breadcrumb: [Automated indicators, Indicators, Configure fundamentals, Performan
 
 # Assign and map breakdowns
 
-Select which breakdowns to assign to an indicator. Map which field on the indicator source references the breakdown source. If no appropriate field is available, specify a script to associate the indicator and [[breakdown-sources|breakdown sources]].
+Select which breakdowns to assign to an indicator. Map which field on the indicator source references the breakdown source. If no appropriate field is available, specify a script to associate the indicator and breakdown sources.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can create multiple mappings for the same breakdown, enabling you to use tha
 
 **Note:**
 
--   You can only map breakdowns to an automated indicator. If you are assigning breakdowns to a formula indicator, try to select breakdowns that are already mapped to the [[automated-indicators|automated indicators]] in the formula.
+-   You can only map breakdowns to an automated indicator. If you are assigning breakdowns to a formula indicator, try to select breakdowns that are already mapped to the automated indicators in the formula.
 -   The maximum number of [breakdown elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) that can be included in data collection is set in the property **com.snc.pa.dc.max\_breakdown\_elements\_limit**. Warnings appear in the tool when this value is exceeded. For more information, see [Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md).
 -   The procedure on this page uses a graphical tool. You can instead select the breakdowns for the indicator in the **Breakdowns** related list on the indicator form. You also can map the indicator fields or queries for the indicator source on the breakdown form. For more information, see [Create a breakdown mapping on a breakdown record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CrtBkdnBreakdownMpngs.md).
 
@@ -48,7 +48,7 @@ You can create multiple mappings for the same breakdown, enabling you to use tha
 
     \[Omitted image "form-ind-new-bkdwn-map.png"\] Alt text: Breakdown mapping dialog
 
-    **Note:** If you are assigning breakdowns to a formula indicator, **Unmapped** icons are not displayed and the **Breakdown mapping** dialog never appears. You cannot map breakdowns to a formula indicator. To apply a breakdown successfully to a formula indicator, check that it is mapped to all automated indicators in the formula. If the formula contains other [[formula-indicators|formula indicators]], check the automated indicators in those formulas. Check all the way down, recursively. You do not have to check automated indicators that have been [prevented from following breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ExcludingBreakdownsFromFormulas.md).
+    **Note:** If you are assigning breakdowns to a formula indicator, **Unmapped** icons are not displayed and the **Breakdown mapping** dialog never appears. You cannot map breakdowns to a formula indicator. To apply a breakdown successfully to a formula indicator, check that it is mapped to all automated indicators in the formula. If the formula contains other formula indicators, check the automated indicators in those formulas. Check all the way down, recursively. You do not have to check automated indicators that have been [prevented from following breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ExcludingBreakdownsFromFormulas.md).
 
 4.  Complete the breakdown mapping as follows.
 
@@ -68,7 +68,7 @@ Select the **Field** in the indicator source that maps to records in the breakdo
 
 Select **Scripted**, then select the **Script** that defines the association between indicator records and breakdown elements.Use a script when you do not have the simple use case of a field in the indicator source that maps to a breakdown source table. A script can define a wide range of mapping relationships. The most common use case is when the breakdown source is a [bucket group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) and the script returns an integer to assign an indicator score to a bucket. See [Example: Script mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/example-script-mapping.md).
 
- You cannot show [[real-time-scores|real-time scores]] for an indicator that uses a scripted breakdown.
+ You cannot show real-time scores for an indicator that uses a scripted breakdown.
 
  **Tip:** Try to implement scripted breakdown mappings so that \[mapping of level 1 &amp;&amp; mapping of level 2\] is equal to the intersection of \[mapping of level 1\] and \[mapping of level 2\]. Otherwise, the score and the number of records may not agree for second-level breakdowns. If these values disagree, the score is correct. For more details and an example, see [KB0748969](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0748969). Now Support login is required.
 
@@ -90,15 +90,15 @@ If you have assigned at least two breakdowns to an automated indicator, you can 
 
 Apply the breakdowns in one of the following ways. In the classic environment:
 
--   On the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
+-   On the Analytics Hub
 -   When configuring a Performance Analytics [widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md) for a dashboard
 -   On a [breakdown dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md)
 -   In a [breakdown widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_WidgetInteractivity.md) on a dashboard
 
-In the [[par-workspace|Platform Analytics experience]]:
+In the Platform Analytics experience:
 
--   In [[kpi-details|KPI Details]]
--   When configuring a [[analytics-center-data-visualizations|data visualization]] for an indicator data source
+-   In KPI Details
+-   When configuring a [data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) for an indicator data source
 
 **Parent Topic:**[Automated indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/automated-indicators.md)
 
@@ -120,7 +120,7 @@ Role required: pa\_data\_collector, pa\_power\_user, pa\_admin, or admin
 
 ### About this task
 
-Sometimes, not all breakdown combinations give useful information. For example, the combination \[Country, Region\] gives the same scores as the breakdown Country. You can prevent the instance from collecting data for these invalid combinations with breakdown matrix exclusions. These exclusions are not shown in the Analytics Hub, in KPI Details, or in the scoresheet. You also cannot select excluded breakdown combinations when you create [[widgets|widgets]] or data visualizations.
+Sometimes, not all breakdown combinations give useful information. For example, the combination \[Country, Region\] gives the same scores as the breakdown Country. You can prevent the instance from collecting data for these invalid combinations with breakdown matrix exclusions. These exclusions are not shown in the Analytics Hub, in KPI Details, or in the scoresheet. You also cannot select excluded breakdown combinations when you create widgets or data visualizations.
 
 To prevent performance issues, the property **com.snc.pa.dc.max\_breakdown\_elements\_level2\_limit** limits the number of elements from breakdown connections that are included in data collection. If you exceed this limit, some of the combinations in your matrix are grayed out. By excluding some breakdown combinations, you can help to avoid exceeding this limit. For more information, see [Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md).
 
@@ -154,14 +154,4 @@ To prevent performance issues, the property **com.snc.pa.dc.max\_breakdown\_elem
 
     You can manage which breakdown combinations to exclude in this tab instead of using the graphical tool.
 
-## Related
 
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[breakdown-sources|Breakdown sources]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[real-time-scores|Real-time scores]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[par-workspace|Platform Analytics experience]]
-- [[kpi-details|KPI Details]]
-- [[widgets|Widgets]]

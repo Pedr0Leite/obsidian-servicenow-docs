@@ -14,12 +14,7 @@ breadcrumb: [Configure Sighting Search, TISC Enrichment integrations, TISC Integ
 
 # Create Sighting Search queries
 
-Sighting search configurations define queries that search for [[c_Observables|observables]] across your security environment during investigations. Configure these queries to determine how often specific [[indicator|indicators]] appear in your [[data-sources|data sources]].
+Sighting search configurations define queries that search for observables across your security environment during investigations. Configure these queries to determine how often specific indicators appear in your data sources.
 
 **Parent Topic:**[Configure Sighting Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-sighting-search.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[data-sources|Data Sources]]

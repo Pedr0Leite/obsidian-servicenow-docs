@@ -12,7 +12,7 @@ breadcrumb: [Embedded lists, Record screen, Mobile screen types, Mobile screens,
 
 # Configure an embedded list for a record screen
 
-Create an embedded list that you can include as in a [[form-screen|record screen]].
+Create an embedded list that you can include as in a record screen.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder appears in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then select a record screen.\[Omitted image "record-screen-seg-section.png"\] Alt text: Record screen segments section of a record screen
 
@@ -36,7 +36,7 @@ Role required: admin
 
 5.  In the **Embedded screen** section, click **Choose** to select a screen to embed.\[Omitted image "embedded-screen-section.png"\] Alt text: Embedded screen section
 
-    **Note:** You can also click the **New** button create a new screen. For details on creating screens, see [[sg-studio-configure-applet-screens|Create a screen]].
+    **Note:** You can also click the **New** button create a new screen. For details on creating screens, see [Create a screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-studio-configure-applet-screens.md).
 
 6.  Find the screen to embed in the **Choose an item** pop-up and click **Apply**.
 
@@ -51,13 +51,5 @@ Your form is configured with an embedded list. Your users can access this list o
 
 ## What to do next
 
-To learn more about relationship [[sg-data-item|data items]] used for embedded lists, see [[sg-data-item-relationship|Configure a relationship data item for an embedded list]].
+To learn more about relationship data items used for embedded lists, see [Configure a relationship data item for an embedded list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-data-item-relationship.md).
 
-## Related
-
-- [[sg-studio-configure-applet-screens|Create a screen]]
-- [[sg-data-item-relationship|Configure a relationship data item for an embedded list]]
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]

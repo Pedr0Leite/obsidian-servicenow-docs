@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Edit which notifications you receive for a conversation
 
-You can control which types of [[c_Connect|Connect]] notifications you receive for each conversation and when you receive them.
+You can control which types of Connect notifications you receive for each conversation and when you receive them.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-Connect can send mobile, desktop, [[email|email]], and audio notifications to inform you of messages and other activity, when you are not actively viewing Connect. You can edit your notification preferences in each conversation to control which notifications you receive for the conversation and under what circumstances. For example, if you are a member of a large group conversation, you might want to receive mobile, desktop, and email notifications for all activity, and audio notifications only when someone [mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_MentionUserInConnectConversation.md) you. You might also want to disable a certain type of notification entirely for a conversation.
+Connect can send mobile, desktop, email, and audio notifications to inform you of messages and other activity, when you are not actively viewing Connect. You can edit your notification preferences in each conversation to control which notifications you receive for the conversation and under what circumstances. For example, if you are a member of a large group conversation, you might want to receive mobile, desktop, and email notifications for all activity, and audio notifications only when someone [mentions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_MentionUserInConnectConversation.md) you. You might also want to disable a certain type of notification entirely for a conversation.
 
 By default, you receive mobile, email, and audio notifications for all activity in every conversation you belong to. You must enable desktop notifications manually. Not all browsers allow desktop notifications. For more information, see [Enable or disable Connect notifications globally](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/t_EnableDisableConnectNotifications.md).
 
@@ -32,7 +32,7 @@ An administrator can [customize the sound](https://raw.githubusercontent.com/Ser
 
 ## Procedure
 
-1.  Open a conversation in the [[c_CollaborationWorkspace|Connect workspace]].
+1.  Open a conversation in the Connect workspace.
 
 2.  In the conversation tools to the right of the conversation, click the notification settings tab \(\[Omitted image "IconNotificationPreferences.png"\] Alt text: The notification settings tab is represented by a bell icon\).
 
@@ -96,9 +96,3 @@ Enable or disable system message notifications, which are automatically generate
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Connect|Connect]]
-- [[email|Email]]
-- [[c_CollaborationWorkspace|Connect workspace]]

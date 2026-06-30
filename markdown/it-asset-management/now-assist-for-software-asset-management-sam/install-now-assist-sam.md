@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for Software Asset Management \(SAM\), Softwa
 
 # Install Now Assist for Software Asset Management \(SAM\)
 
-If you have the admin role, you can install the [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]] application. The Now Assist for Software Asset Management \(SAM\) application integrates generative AI capabilities into your daily workflow tasks.
+If you have the admin role, you can install the Now Assist for Software Asset Management \(SAM\) application. The Now Assist for Software Asset Management \(SAM\) application integrates generative AI capabilities into your daily workflow tasks.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ The agentic workflow and the AI agents included in the Now Assist for Software A
 
 **Parent Topic:**[Configuring Now Assist for Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/now-assist-for-software-asset-management-sam/configure-now-assist-sam.md)
 
-## Related
-
-- [[now-assist-sam|Now Assist for Software Asset Management \(SAM\)]]

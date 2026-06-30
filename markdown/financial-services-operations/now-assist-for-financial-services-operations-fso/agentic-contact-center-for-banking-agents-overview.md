@@ -14,7 +14,7 @@ breadcrumb: [AI agents in FSO, Use agentic AI, Now Assist for FSO, Financial Ser
 
 # Agentic Contact Center for Banking AI agents overview
 
-[[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]] uses AI agents to enhance customer service by providing customer support representatives with intelligent assistance during interactions. The Banking CSR Customer Insights and Banking CSR Support agents help reduce handling time, enable proactive outreach, and deliver personalized customer experiences through AI-driven analysis and contextual insights.
+Agentic Contact Center for Banking uses AI agents to enhance customer service by providing customer support representatives with intelligent assistance during interactions. The Banking CSR Customer Insights and Banking CSR Support agents help reduce handling time, enable proactive outreach, and deliver personalized customer experiences through AI-driven analysis and contextual insights.
 
 ## Benefits
 
@@ -49,6 +49,3 @@ The key AI agents in Agentic Contact Center for Banking are:
 
 [Supporting information for Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/supporting-information-for-now-assist-for-financial-services-operations-fso.md)
 
-## Related
-
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]

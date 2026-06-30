@@ -14,7 +14,7 @@ breadcrumb: [Configure location migration hierarchy, Location migration, Manage 
 
 # Migrate locations from Location table to Workplace locations table
 
-After you configure the [[location-migration|location migration]] records, perform the migration action to migrate the locations from the ServiceNow® Location table \[cmn\_location\] to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+After you configure the location migration records, perform the migration action to migrate the locations from the ServiceNow® Location table \[cmn\_location\] to the Workplace Location \[sn\_wsd\_core\_workplace\_location\] table in Workplace Service Delivery.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_wsd\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Administration** &gt; **Location migration configuration**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Administration** &gt; **Location migration configuration**.
 
 2.  On the Location Migration Configurations page, select the location migration configurations that you want to migrate.
 
@@ -44,8 +44,3 @@ Role required: sn\_wsd\_core.admin
 
 The location migration process runs in the background.
 
-## Related
-
-- [[location-migration|Location migration]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

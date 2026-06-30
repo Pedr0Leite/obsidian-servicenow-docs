@@ -14,7 +14,7 @@ breadcrumb: [Deposit Operations, Banking applications, Financial Services Operat
 
 # Exploring Financial Services Deposit Operations
 
-You can use ServiceNow® [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]] to manage a streamlined resolution of cases related to savings and checking deposit accounts by automating and optimizing the common deposit account requests.
+You can use ServiceNow® Financial Services Deposit Operations to manage a streamlined resolution of cases related to savings and checking deposit accounts by automating and optimizing the common deposit account requests.
 
 ## Key features
 
@@ -29,7 +29,7 @@ You can use ServiceNow® [[fso-deposit-ops-landing-page|Financial Services Depos
 
 The business and personal deposit service requests are supported through the following applications:
 
--   **[[fso-overview|Financial Services]] Business Deposit Operations**
+-   **Financial Services Business Deposit Operations**
 
     With this application, manage the origination, servicing, and closure of business deposit accounts. Collect and validate required documentation, authorize, and finalize the approval process, all from one centralized workflow.
 
@@ -91,7 +91,3 @@ Agents in the middle or back office of financial institutions who work with the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Deposit Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-deposit-operations/fso-deposit-ops-landing-page.md)
 
-## Related
-
-- [[fso-deposit-ops-landing-page|Financial Services Deposit Operations]]
-- [[fso-overview|Financial Services]]

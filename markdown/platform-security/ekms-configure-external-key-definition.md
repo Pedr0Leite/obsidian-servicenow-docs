@@ -12,7 +12,7 @@ breadcrumb: [Configuring External Key Management Service, External Key Managemen
 
 # Configure an external key definition
 
-Configure your external [[encryption-landing|encryption]] key to use in [[ekms-external-key-management|External Key Management Service]] \(EKMS\).
+Configure your external encryption key to use in External Key Management Service \(EKMS\).
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The user must have permissions to run the following AWS KMS API operations:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **EKMS Configurations** &gt; **New**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **EKMS Configurations** &gt; **New**.
 
 2.  On the form, fill in the fields.
 
@@ -48,27 +48,16 @@ The user must have permissions to run the following AWS KMS API operations:
 
 ## Result
 
-The external key definition is configured. Verify that the key status displays as Active for the new [[sc-configuration|configuration]]. To confirm if the key is usable, select **Test EKMS Config**. Wait for the key status to change to Active before using it.\[Omitted image "ekms-active-key-definition.png"\] Alt text: External Key Management Service key definition with an active status
+The external key definition is configured. Verify that the key status displays as Active for the new configuration. To confirm if the key is usable, select **Test EKMS Config**. Wait for the key status to change to Active before using it.\[Omitted image "ekms-active-key-definition.png"\] Alt text: External Key Management Service key definition with an active status
 
 ## What to do next
 
 Next steps:
 
--   [[ekms-create-crypto-module|Create a cryptographic module with external key wrapping]]
--   [[ekms-create-encrypted-field-config|Create encrypted field configurations to specify which tables and columns to encrypt]]
--   [[ekms-set-up-maps|Set up module access policies to control who can view the encrypted data]]
--   [[ekms-test-external-key-definition|Test an external key definition]]
+-   [Create a cryptographic module with external key wrapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-create-crypto-module.md)
+-   [Create encrypted field configurations to specify which tables and columns to encrypt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-create-encrypted-field-config.md)
+-   [Set up module access policies to control who can view the encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-set-up-maps.md)
+-   [Test an external key definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-test-external-key-definition.md)
 
-**Parent Topic:**[[ekms-configuring-external-key-management|Configuring External Key Management Service]]
+**Parent Topic:**[Configuring External Key Management Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/ekms-configuring-external-key-management.md)
 
-## Related
-
-- [[ekms-create-crypto-module|Create a cryptographic module with external key wrapping]]
-- [[ekms-create-encrypted-field-config|Create Encrypted Field Configurations]]
-- [[ekms-set-up-maps|Set up Module Access Policies]]
-- [[ekms-test-external-key-definition|Test an external key definition]]
-- [[ekms-configuring-external-key-management|Configuring External Key Management Service]]
-- [[encryption-landing|Encryption]]
-- [[ekms-external-key-management|External Key Management Service]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]

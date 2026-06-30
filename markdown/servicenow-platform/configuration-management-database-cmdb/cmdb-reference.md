@@ -14,13 +14,10 @@ breadcrumb: [Configuration Management Database \(CMDB\), Configuration Managemen
 
 # CMDB reference
 
-The topics in this section provide various [[reference|reference]] details for CMDB.
+The topics in this section provide various reference details for CMDB.
 
 -   [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 -   [CMDB APIs \(CMDB SDK\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-APIs.md)
 -   [Quick start tests for Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/quick-start-tests-cmdb.md)
 -   [CMDB glossary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-glossary.md)
 
-## Related
-
-- [[reference|Reference]]

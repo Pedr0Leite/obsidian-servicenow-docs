@@ -15,7 +15,7 @@ breadcrumb: [SPW Jira Integrations, Strategic Planning, Strategic Portfolio Mana
 
 # Configuring SPW Jira Integrations
 
-Configure the set up and implementation of [[spw-jira-landing|SPW Jira Integrations]]. You can either follow the tasks listed in the configuration or use Guided Setup.
+Configure the set up and implementation of SPW Jira Integrations. You can either follow the tasks listed in the configuration or use Guided Setup.
 
 ## Configuration overview
 
@@ -36,9 +36,5 @@ Configure the set up and implementation of [[spw-jira-landing|SPW Jira Integrati
 
 ## Using guided setup to implement SPW Jira Integrations
 
-Guided setup provides a sequence of tasks that help you configure SPW Jira Integrations on your ServiceNow instance. To open guided setup for SPW Jira Integrations, navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Jira integration** &gt; **Guided Setup**.
+Guided setup provides a sequence of tasks that help you configure SPW Jira Integrations on your ServiceNow instance. To open guided setup for SPW Jira Integrations, navigate to **All** &gt; **Strategic Planning** &gt; **Jira integration** &gt; **Guided Setup**.
 
-## Related
-
-- [[spw-jira-landing|SPW Jira Integrations]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

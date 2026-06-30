@@ -20,7 +20,7 @@ Configure the tasks page for employees to view and complete all their tasks on a
 
 The My tasks page shows all open and completed tasks for an employee.
 
-\[Omitted image "to-dos-ec.jpg"\] Alt text: My tasks page on [[employee-center-landing-page|Employee Center]] portal
+\[Omitted image "to-dos-ec.jpg"\] Alt text: My tasks page on Employee Center portal
 
 ## Configure the tasks page
 
@@ -54,6 +54,3 @@ The following filters are included with the Employee Center application. You can
 
 For more information, see [Task filters on My tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configurable-filters-experience.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

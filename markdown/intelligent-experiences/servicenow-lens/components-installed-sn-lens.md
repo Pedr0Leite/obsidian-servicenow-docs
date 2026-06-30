@@ -15,7 +15,7 @@ breadcrumb: [Reference, ServiceNow AI Lens, Enable AI experiences]
 
 # Components installed with ServiceNow AI Lens
 
-Several types of components are installed with the activation of the [[servicenow-lens-landing-page|ServiceNow AI Lens]] plugin, including user roles.
+Several types of components are installed with the activation of the ServiceNow AI Lens plugin, including user roles.
 
 ## Roles installed
 
@@ -26,6 +26,3 @@ Several types of components are installed with the activation of the [[serviceno
 
 **Parent Topic:**[ServiceNow AI Lens reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/servicenow-lens-reference.md)
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]

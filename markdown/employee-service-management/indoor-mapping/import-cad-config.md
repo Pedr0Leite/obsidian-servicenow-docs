@@ -14,7 +14,7 @@ breadcrumb: [Autocad import tool, Manage CAD source files, Indoor Mapping, Workp
 
 # Import CAD configuration
 
-After your [[autocad-v2-config-layout|CAD configuration]] is complete, import the CAD configuration changes.
+After your CAD configuration is complete, import the CAD configuration changes.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Role required: admin
 
 **Next topic:**[Edit file settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-cad-file-settnigs.md)
 
-## Related
-
-- [[autocad-v2-config-layout|CAD configuration]]

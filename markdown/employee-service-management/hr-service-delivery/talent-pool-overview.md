@@ -20,15 +20,15 @@ Talent pools help you group similar talent profiles in one place to identify the
 
 The collection of similar talent profiles results in a shorter time-to-hire, using existing connections and the explicit groupings of profiles.
 
-\[Omitted image "tPool.png"\] Alt text: Talent Pool tab in the [[recruitment-workspace-concept|Recruitment workspace]] displays the list of talent pools, list of talent profiles, and the action buttons.
+\[Omitted image "tPool.png"\] Alt text: Talent Pool tab in the Recruitment workspace displays the list of talent pools, list of talent profiles, and the action buttons.
 
-1.  Talent pools can be associated with different job requisitions to create [[job-leads|job prospects]].
+1.  Talent pools can be associated with different job requisitions to create job prospects.
 
     **Note:** When a talent pool is associated with a job requisition, the talent profiles within that pool, are called job prospects.
 
-2.  Talent pools can be independent of any job requisition. It can only be a gathering of similar profiles as a means to better talent management and future [[hiring-tab-concept|hiring]] usage.
+2.  Talent pools can be independent of any job requisition. It can only be a gathering of similar profiles as a means to better talent management and future hiring usage.
 
-You can use Talent Pool after setting up the [[talent-profile-landing|Talent Profile]]. For more information, see [Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md).
+You can use Talent Pool after setting up the Talent Profile. For more information, see [Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md).
 
 ## Talent pool benefits
 
@@ -51,7 +51,7 @@ The following table provides a quick view of what you can accomplish with the Ta
 
 The **Talent pool** tab in the Recruitment workspace provides all the details of your talent pools and talent profiles.
 
-The [[hiring-experiences-landing|Hiring Experiences]] campaigns provide a **Campaign management** button. You can create targeted campaigns for both internal and external applicants using targeted strategies for your hiring requirements.
+The Hiring Experiences campaigns provide a **Campaign management** button. You can create targeted campaigns for both internal and external applicants using targeted strategies for your hiring requirements.
 
 To create campaigns within the Hiring Experiences workspace:
 
@@ -66,10 +66,3 @@ You can filter the pools by their types, **Export** the details of the section a
 
 Similar options are available for the All talent section where all the talent profiles in your organization are displayed. You can use the **Create talent** button to add a talent profile to the All talent list. For more information, see [Create talent profiles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/create-talent-ta.md).
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[job-leads|Job prospects]]
-- [[hiring-tab-concept|Hiring]]
-- [[talent-profile-landing|Talent Profile]]
-- [[hiring-experiences-landing|Hiring Experiences]]

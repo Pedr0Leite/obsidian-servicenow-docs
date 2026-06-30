@@ -14,9 +14,9 @@ breadcrumb: [Configure service to use Universal Request, Setting up and configur
 
 # Unified ticket experience setting
 
-Set up your service to provide your employees with a unified and consistent ticket experience. This setup automatically creates a [[ur-landing-limitedaccess|universal request]] when requests are raised from an interaction record, email, or record producer.
+Set up your service to provide your employees with a unified and consistent ticket experience. This setup automatically creates a universal request when requests are raised from an interaction record, email, or record producer.
 
-You can customise and configure to automatically [[ur-create-universal-request-record|create universal request]] for a task from various channels using APIs provided with the Universal Request application. For more information, see [UniversalRequestUtilsSNC API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/UniversalRequestUtilsSNCScopedAPI.md).
+You can customise and configure to automatically create universal request for a task from various channels using APIs provided with the Universal Request application. For more information, see [UniversalRequestUtilsSNC API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/UniversalRequestUtilsSNCScopedAPI.md).
 
 Universal Request application supports the creation of universal request from an interaction record in the Agent Workspace. For more information, see [Create a Universal Request from an Interaction Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/use-UR-workspace.md).
 
@@ -37,7 +37,3 @@ Create a universal request along with a requested item or task-based record to p
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[ur-create-universal-request-record|Create Universal Request]]

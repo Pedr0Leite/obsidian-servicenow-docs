@@ -26,16 +26,16 @@ Role required: admin.
 
     |Option|Navigation|
     |------|----------|
-    |Using left navigation|Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
+    |Using left navigation|Navigate to **All** &gt; **Admin Center** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
     |Using Admin tab option|Navigate to **Admin** &gt; **Upgrade Management** &gt; **Upgrade Monitor**.|
 
-    **Note:** When the system finishes the upgrade, it displays the [[uc-complete-summary|Upgrade Summary Report]].
+    **Note:** When the system finishes the upgrade, it displays the Upgrade Summary Report.
 
 2.  Scroll down to **Top 10 Plugins by Duration**.
 
 3.  Click **View all plugin duration**.
 
-    The **System Upgrade [[c_MetricDefinitionSupport|Metrics]]** list of all the plugins and their durations shows up.
+    The **System Upgrade Metrics** list of all the plugins and their durations shows up.
 
 4.  Click one of the plugins from the list to open the **System Upgrade Metrics** form view of that plugin.
 
@@ -46,8 +46,3 @@ Role required: admin.
 
 **Parent Topic:**[Upgrade Summary Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-complete-summary.md)
 
-## Related
-
-- [[admin-center-intro|Admin Center]]
-- [[uc-complete-summary|Upgrade Summary Report]]
-- [[c_MetricDefinitionSupport|Metrics]]

@@ -35,7 +35,7 @@ The following scenarios can occur when you assign a parent case:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Cases**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Cases**.
 
 2.  Select one of the following modules:
 
@@ -57,7 +57,7 @@ The following scenarios can occur when you assign a parent case:
 
 The workplace case is assigned to a parent case.
 
-**Important:** The case selected in the **Parent case** field and the case displayed in the **Parent** field are different. The workplace case displayed in the **Parent** field is generated from the workplace service to which the case is associated. A parent is assigned automatically if the **[[activity-lxp|Activity]] type** of the workplace service is **Task** or **Child case**.
+**Important:** The case selected in the **Parent case** field and the case displayed in the **Parent** field are different. The workplace case displayed in the **Parent** field is generated from the workplace service to which the case is associated. A parent is assigned automatically if the **Activity type** of the workplace service is **Task** or **Child case**.
 
 **Parent Topic:**[Configuring Workplace Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/workplace-case-mgmt-setup.md)
 
@@ -96,7 +96,3 @@ The workplace case is assigned to a parent case.
 
 [Add Fulfillment instructions]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[activity-lxp|Activity]]

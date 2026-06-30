@@ -12,17 +12,17 @@ breadcrumb: [Security Posture Control, Security Operations]
 
 # Using mitigation controls monitoring with Security Posture Control
 
-From within in the [[spc-landing|Security Posture Control]] \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security [[tools|tools]] are configured.
+From within in the Security Posture Control \(SPC\) Workspace, gain insight into which threats to your assets are mitigated by available mitigation controls based on how various security tools are configured.
 
 ## Mitigation controls monitoring
 
-For supported applications for Security Posture Control and Mitigation Controls Monitoring, see [[spc-overview|Exploring Security Posture Control]].
+For supported applications for Security Posture Control and Mitigation Controls Monitoring, see [Exploring Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-overview.md).
 
 The Security Posture Control application focuses on three core problem areas:
 
 -   Asset inventory - Identifying all your enterprise assets that include unmanaged or unknown assets.
 -   Security controls coverage and health - Identifying any coverage gaps with your security controls
--   Vulnerability and threat mitigation visibility - Identifying which threats or [[vulnerabilities|vulnerabilities]] to your assets are mitigated by applicable mitigation controls.
+-   Vulnerability and threat mitigation visibility - Identifying which threats or vulnerabilities to your assets are mitigated by applicable mitigation controls.
 
 Mitigation controls monitoring describes the features in Security Posture Control that fall under vulnerability and threat mitigation visibility.
 
@@ -74,9 +74,3 @@ Security Posture Control uses API integrations with security tools such as web-a
 
 Service graph connector integrations or ITOM Discovery are still required for mitigation controls monitoring. For example, both the CrowdStrike Service Graph Connector and the CrowdStrike API integration supported by SPC must be activated to import additional insights about which mitigation controls are enabled by the CrowdStrike endpoint protection configuration.
 
-## Related
-
-- [[spc-overview|Exploring Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

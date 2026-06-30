@@ -20,16 +20,16 @@ Role required: admin or survey\_admin
 
 ## Procedure
 
-1.  In the [[c_SurveyDesigner|Survey Designer]], click the **Availability** tab.
+1.  In the Survey Designer, click the **Availability** tab.
 
 2.  Under **Accessible by:**, select the **Specific users** option, then select users.
 
-3.  If desired, select the **Survey groups only** [[check-box|check box]], then select survey user groups or other groups.
+3.  If desired, select the **Survey groups only** check box, then select survey user groups or other groups.
 
 4.  Click **Save**.
 
 
-**Parent Topic:**[[c_SurveyUsersAndGroups|Survey users and groups]]
+**Parent Topic:**[Survey users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 
@@ -42,8 +42,3 @@ Role required: admin or survey\_admin
 
 [Allow recipients to retake a survey]()
 
-## Related
-
-- [[c_SurveyUsersAndGroups|Survey users and groups]]
-- [[c_SurveyDesigner|Survey designer]]
-- [[check-box|Check box]]

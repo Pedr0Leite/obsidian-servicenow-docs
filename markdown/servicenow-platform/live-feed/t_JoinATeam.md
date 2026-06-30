@@ -38,10 +38,7 @@ As a team member, you can:
 
     -   If you received an invitation, click **Accept**. You can **Decline** the invitation if you do not want to join the team.
     -   If the team is public, click **Join**.
-    -   If the team is private, click **Request**. The team administrator receives an [[email|email]] notification and must accept your request before you can join the team.
+    -   If the team is private, click **Request**. The team administrator receives an email notification and must accept your request before you can join the team.
 
 **Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseTeamsInLiveFeed.md)
 
-## Related
-
-- [[email|Email]]

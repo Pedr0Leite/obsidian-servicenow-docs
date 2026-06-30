@@ -26,7 +26,7 @@ When you remove a resource from the Excluded Resources list, the resource appear
 
 ## Procedure
 
-1.  Navigate to **[[cloud-insights-landing-page|Cloud Cost Management]]** &gt; **Operations** &gt; **Administration** &gt; **Global exclusions**.
+1.  Navigate to **Cloud Cost Management** &gt; **Operations** &gt; **Administration** &gt; **Global exclusions**.
 
 2.  Select the resources to remove.
 
@@ -35,6 +35,3 @@ When you remove a resource from the Excluded Resources list, the resource appear
 
 **Parent Topic:**[Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

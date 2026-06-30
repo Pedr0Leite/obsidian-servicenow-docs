@@ -12,11 +12,11 @@ breadcrumb: [ServiceNow Vault]
 
 # Exploring ServiceNow Vault
 
-Learn more about ServiceNow Vault and review the benefits it can provide for your [[naai-data-protection|data protection]] needs.
+Learn more about ServiceNow Vault and review the benefits it can provide for your data protection needs.
 
 ## ServiceNow Vault overview
 
-ServiceNow Vault is a set of data security tools that protect sensitive information from unauthorized access, corruption, or theft throughout its entire life cycle. You can use ServiceNow Vault to apply protections like [[encryption-landing|encryption]], continuous [[c_Authentication|authentication]], and [[data-privacy-landing|data privacy]] for the redaction and [[c_AuditedTables|auditing]] of sensitive information.
+ServiceNow Vault is a set of data security tools that protect sensitive information from unauthorized access, corruption, or theft throughout its entire life cycle. You can use ServiceNow Vault to apply protections like encryption, continuous authentication, and data privacy for the redaction and auditing of sensitive information.
 
 **Note:**
 
@@ -28,17 +28,17 @@ To purchase a subscription, contact your ServiceNow account manager. When you pu
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Get a comprehensive ServiceNow Vault overview and review the [[ca-metrics|metrics]] related to the discovery, classification, and protection of your data|[[vault-dashboard|ServiceNow Vault console dashboard]]|Platform Admins|
-|Guided setups to easily start using ServiceNow Vault tools with applications|[[use-vault-guided-setup|Use guided setup for ServiceNow Vault]]|Platform Admins|
+|Get a comprehensive ServiceNow Vault overview and review the metrics related to the discovery, classification, and protection of your data|[ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md)|Platform Admins|
+|Guided setups to easily start using ServiceNow Vault tools with applications|[Use guided setup for ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-vault-guided-setup.md)|Platform Admins|
 
 ## What to explore next
 
 To learn more about configuring and using ServiceNow Vault, see:
 
--   [[exploring-now-assist-vault|AI in ServiceNow Vault]]
--   [[vault-suite|Vault Suite]]
+-   [AI in ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-now-assist-vault.md)
+-   [Vault Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-suite.md)
 -   [ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md)
--   [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
+-   [Configuring ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-servicenow-vault.md)
 -   [Use guided setup for ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-vault-guided-setup.md)
 
 ## ServiceNow Vault tools
@@ -47,13 +47,13 @@ To learn more about configuring and using ServiceNow Vault, see:
 
 [Platform Encryption \[Omitted image "bus-security.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
- [[encryption|Cloud Encryption and Field Encryption with Key Management is a suite of highly configurable encryption modules]]
+ [Cloud Encryption and Field Encryption with Key Management is a suite of highly configurable encryption modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/encryption.md)
 
 </td><td>
 
 [Code Signing\[Omitted image "bus-contract.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
- [[code-signing-landing|Help improve security by validating sensitive application configuration data and scripts before they are used.]]
+ [Help improve security by validating sensitive application configuration data and scripts before they are used.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/code-signing-landing.md)
 
 </td></tr><tr><td>
 
@@ -69,41 +69,21 @@ To learn more about configuring and using ServiceNow Vault, see:
 
 </td></tr><tr><td>
 
-[Log [[export|Export]] Service\[Omitted image "bus-log-store.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
+[Log Export Service\[Omitted image "bus-log-store.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
 
- [[les-landing-page|Improve security, performance, and user experience by exporting ServiceNow log data into enterprise log analytics using the log export service.]]
+ [Improve security, performance, and user experience by exporting ServiceNow log data into enterprise log analytics using the log export service.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-landing-page.md)
 
 </td><td>
 
 [Zero Trust Access\[Omitted image "bus-block.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md)
 
- [[session-access|ServiceNow Session Access enables organizations to dynamically reduce user privilege in a web session]]
+ [ServiceNow Session Access enables organizations to dynamically reduce user privilege in a web session](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md)
 
 </td></tr></tbody>
 </table>-   **[AI in ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-now-assist-vault.md)**  
-With the [[now-assist-vault-landing|Now Assist for Vault]] application, you can automate many tasks in Vault with the help of AI. These tasks include securing custom applications to improve your security posture, checking role access for an encrypted column to monitor your instance’s encryption access posture, and others.
+With the Now Assist for Vault application, you can automate many tasks in Vault with the help of AI. These tasks include securing custom applications to improve your security posture, checking role access for an encrypted column to monitor your instance’s encryption access posture, and others.
 -   **[Vault Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-suite.md)**  
 Vault Suite deploys the complete set of ServiceNow Vault capabilities on your instance automatically, eliminating manual plugin setup.
 
-**Parent Topic:**[[servicenow-vault-landing|ServiceNow Vault]]
+**Parent Topic:**[ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/servicenow-vault-landing.md)
 
-## Related
-
-- [[vault-dashboard|ServiceNow Vault console dashboard]]
-- [[use-vault-guided-setup|Use guided setup for ServiceNow Vault]]
-- [[exploring-now-assist-vault|AI in ServiceNow Vault]]
-- [[vault-suite|Vault Suite]]
-- [[configuring-servicenow-vault|Configuring ServiceNow Vault]]
-- [[encryption|Key Management Framework]]
-- [[code-signing-landing|Code Signing]]
-- [[les-landing-page|Exploring Log Export Service \(LES\)]]
-- [[session-access|Zero Trust Access \(ZTA\)]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[naai-data-protection|Data protection]]
-- [[encryption-landing|Encryption]]
-- [[c_Authentication|Authentication]]
-- [[data-privacy-landing|Data Privacy]]
-- [[c_AuditedTables|Auditing]]
-- [[ca-metrics|Metrics]]
-- [[export|Export]]
-- [[now-assist-vault-landing|Now Assist for Vault]]

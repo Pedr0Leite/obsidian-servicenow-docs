@@ -14,11 +14,11 @@ breadcrumb: [Dispute Content Pack for US Regulations, Dispute Management, Bankin
 
 # Exploring the Dispute Content Pack for US Regulations
 
-Learn how the [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]] application streamlines the dispute resolution process under United States \(US\) regulatory guidelines, including Regulation E \(Reg E\) and Regulation Z \(Reg Z\).
+Learn how the Dispute Content Pack for US Regulations application streamlines the dispute resolution process under United States \(US\) regulatory guidelines, including Regulation E \(Reg E\) and Regulation Z \(Reg Z\).
 
 ## Dispute Content Pack for US Regulations overview
 
-The Dispute Content Pack for US Regulations helps issuers to handle regulatory requirements and protect consumer interests. It automates tracking and correspondence, which improves the [[dispute-management|dispute management]] process.
+The Dispute Content Pack for US Regulations helps issuers to handle regulatory requirements and protect consumer interests. It automates tracking and correspondence, which improves the dispute management process.
 
 ## Dispute Content Pack for US Regulations workflow
 
@@ -39,7 +39,3 @@ Some of the key benefits of using Dispute Content Pack for US Regulations are:
 
 **Parent Topic:**[Dispute Content Pack for US Regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/dispute-content-pack-for-us-regulation-landing-page.md)
 
-## Related
-
-- [[dispute-content-pack-for-us-regulation-landing-page|Dispute Content Pack for US Regulations]]
-- [[dispute-management|Dispute Management]]

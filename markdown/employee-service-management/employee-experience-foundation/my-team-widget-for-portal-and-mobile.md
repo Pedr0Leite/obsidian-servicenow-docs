@@ -14,15 +14,15 @@ breadcrumb: [Configuring Employee Center for mobile, Now Mobile experience for E
 
 # Employee profile for Now Mobile
 
-[[emp-slate-employee-profile|Employee profile]] on Now Mobile provides customizable and compact information about employees and their organizational hierarchy.
+Employee profile on Now Mobile provides customizable and compact information about employees and their organizational hierarchy.
 
-You must [[profile-opt-in|opt in to the employee profile]] as well as upgrade to the new [[mobile-employee-experience|Now Mobile app]] to access these new features.
+You must opt in to the employee profile as well as upgrade to the new Now Mobile app to access these new features.
 
 Customers who opt in to the new employee profile have the **View more profile details** button on the **About** tab. The **View more profile details** button is only visible to the logged-in user, Selecting **View more profile details** opens the Profile details page.
 
 \[Omitted image "profile-details.png"\] Alt text: Profile details page.
 
-The **Team** tab is the mobile version of the My Team widget on the employee profile page in the [[employee-center-landing-page|Employee Center]] portal. This tab lists **Manager**, **Direct reports**, and **Coworkers** depending on the logged-in user. The default number of results shown in each section is five. To see more results, select **See all**.
+The **Team** tab is the mobile version of the My Team widget on the employee profile page in the Employee Center portal. This tab lists **Manager**, **Direct reports**, and **Coworkers** depending on the logged-in user. The default number of results shown in each section is five. To see more results, select **See all**.
 
 \[Omitted image "team-tab.png"\] Alt text: Team tab
 
@@ -47,9 +47,3 @@ Upgrade to the new Now Mobile profile page for an enhanced user-navigational exp
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[profile-opt-in|Opt in to the employee profile]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]

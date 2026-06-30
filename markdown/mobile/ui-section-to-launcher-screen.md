@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All Mobile Records** from the menu.
 
@@ -37,10 +37,5 @@ Role required: admin
 
 ## Result
 
-A preview is displayed in your launcher screen. Tap on the preview to navigate to a preconfigured data visualization. See  [[mobile-reporting-dashboard|Mobile platform dashboards]] for examples of the data visualization previews you can use.
+A preview is displayed in your launcher screen. Tap on the preview to navigate to a preconfigured data visualization. See  [Mobile platform dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-reporting-dashboard.md) for examples of the data visualization previews you can use.
 
-## Related
-
-- [[mobile-reporting-dashboard|Mobile platform dashboards]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -62,8 +62,5 @@ Role required: sn\_esg.data\_owner
     |**Reassign**|If the assessment must be assigned to someone else, select this option.|
 
 
-**Parent Topic:**[[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-risk-management.md)
 
-## Related
-
-- [[esg-risk-management|Integrating Operational Sustainability Management \(formerly ESG\) with Advanced risk assessment]]

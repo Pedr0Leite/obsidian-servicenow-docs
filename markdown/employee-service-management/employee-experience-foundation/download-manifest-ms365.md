@@ -14,7 +14,7 @@ breadcrumb: [Integrating ServiceNow with Microsoft 365 applications for Employee
 
 # Create and download manifest file for Employee Center and Microsoft 365 integration
 
-Create and download the manifest file from your instance to make [[employee-center-landing-page|Employee Center]] available in Microsoft 365 applications.
+Create and download the manifest file from your instance to make Employee Center available in Microsoft 365 applications.
 
 ## Before you begin
 
@@ -148,7 +148,7 @@ Option to provide a name for the Service portal tab that appears in Microsoft Te
 
 </td></tr><tr><td>
 
-Enable [[activity-lxp|Activity]] Feed
+Enable Activity Feed
 
 </td><td>
 
@@ -176,7 +176,3 @@ Option to enable activity feed to receive campaign notifications in Microsoft Te
 
 An application registry is created.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

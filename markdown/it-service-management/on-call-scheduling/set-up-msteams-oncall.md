@@ -24,11 +24,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Ensure that your ServiceNow instance is configured for Conversational Integration with Microsoft Teams and the [[r_ITServiceManagement|IT Service Management]] integration with Microsoft 365 plugin \(sn\_now\_teams\_it\) is active.
+1.  Ensure that your ServiceNow instance is configured for Conversational Integration with Microsoft Teams and the IT Service Management integration with Microsoft 365 plugin \(sn\_now\_teams\_it\) is active.
 
     For information on Virtual Agent permission policies, see [Manage Now Virtual Agent permission policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/disable-now-virtual-agent-ms-teams.md).
 
-2.  Select **Microsoft Teams** as your preferred notification channel while defining the escalation [[settings-mobile|settings]] for a user group.
+2.  Select **Microsoft Teams** as your preferred notification channel while defining the escalation settings for a user group.
 
     For information on escalation settings, see [Escalation and reminder settings for rosters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/escalation-remind-settings-oncall.md).
 
@@ -41,7 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring On-Call Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/configuration.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[settings-mobile|Settings]]

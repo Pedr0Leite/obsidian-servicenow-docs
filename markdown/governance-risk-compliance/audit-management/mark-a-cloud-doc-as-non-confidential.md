@@ -22,7 +22,7 @@ Role required: sn\_audit.admin, sn\_audit.manager, sn\_grc\_workspace.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the tasks icon \(\[Omitted image "new-task-icon.png"\] Alt text: Tasks icon\) and select a record from the list.
 
@@ -34,6 +34,4 @@ Role required: sn\_audit.admin, sn\_audit.manager, sn\_grc\_workspace.user
 
     The cloud file is marked as shareable. It can be shared or referenced by other records​.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

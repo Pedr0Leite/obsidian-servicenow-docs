@@ -15,7 +15,7 @@ breadcrumb: [Virtual Machine Explorer dashboard, Discovery Admin Workspace Insig
 
 # Run historical data collection for Virtual Machine Explorer
 
-After installing [[discovery-admin-workspace|Discovery Admin Workspace]], run historical data collection jobs to populate the Virtual machines with server CI and Virtual machines with no deep dive [[r-discovery|discovery]] reports on the [[vm-explorer|Virtual Machine Explorer dashboard]].
+After installing Discovery Admin Workspace, run historical data collection jobs to populate the Virtual machines with server CI and Virtual machines with no deep dive discovery reports on the Virtual Machine Explorer dashboard.
 
 ## Before you begin
 
@@ -52,8 +52,3 @@ Role required: pa\_data\_collector or admin
 
 Manually refresh the indicators on the Virtual Machine Explorer dashboard to populate the Virtual machines with server CI and Virtual machines with no deep dive discovery reports, enabling you to view relevant data and trends. For more information, see [Virtual Machine Explorer dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/vm-explorer.md).
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[vm-explorer|Virtual Machine Explorer dashboard]]

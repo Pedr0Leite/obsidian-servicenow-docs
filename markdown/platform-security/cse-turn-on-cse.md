@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Configure Code Signing Enterprise on your trusted instance
 
-Turn on and configure [[code-signing-landing|Code Signing]] on your trusted instance.
+Turn on and configure Code Signing on your trusted instance.
 
 ## Before you begin
 
@@ -22,23 +22,23 @@ Roles required:
 -   security\_admin
 -   codesigning\_admin
 
-    **Note:** The codesigning\_admin role can be assigned using the process detailed in [[cse-assign-roles|Assign the Code Signing Administrator Role]].
+    **Note:** The codesigning\_admin role can be assigned using the process detailed in [Assign the Code Signing Administrator Role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-assign-roles.md).
 
 -   sn\_kmf.cryptographic\_manager
 
 You must have at least one cryptographic key pair and certificate \(p12 file extension\) for customer signing and Circle of Trust \(COT\) administration. For improved security, consider using separate cryptographic key pairs for customer signing and COT administration.
 
-**Warning:** After completing this process, you will have downloaded a [[sc-configuration|configuration]] file that must be installed on your protected instance within an hour. Verify that you have time available after this process to upload the configuration file to your protected instance. For details on that process, see [[cse-upload-cs-config|Upload your Code Signing configuration file to your protected instance]].
+**Warning:** After completing this process, you will have downloaded a configuration file that must be installed on your protected instance within an hour. Verify that you have time available after this process to upload the configuration file to your protected instance. For details on that process, see [Upload your Code Signing configuration file to your protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-upload-cs-config.md).
 
 ## Procedure
 
-1.  On your trusted instance, navigate to **All** &gt; **Code Signing** &gt; **Configuration** &gt; **Guided Setup** to open the [[code-signing-configuration|Code Signing configuration]] page.
+1.  On your trusted instance, navigate to **All** &gt; **Code Signing** &gt; **Configuration** &gt; **Guided Setup** to open the Code Signing configuration page.
 
 2.  In the **Instance type** field, select **trusted instance**.
 
 3.  Select the **Next** button.
 
-4.  In the **Action** field under **Select the action you’d like to accomplish**, select **[[enable-codesiging|Turn on Code Signing]]**.
+4.  In the **Action** field under **Select the action you’d like to accomplish**, select **Turn on Code Signing**.
 
 5.  Next to **Attachments** in the **Customer signing key pair and certificate** section select **+Add File** to upload a cryptographic key pair \(p12 file extension\) to use for customer signing.
 
@@ -58,19 +58,10 @@ You must have at least one cryptographic key pair and certificate \(p12 file ext
 
 12. Select **Continue** to move to the next section.
 
-13. On the **[[export|Export]] Configuration** file page, select **Export** to create and download a configuration file used to turn on Code Signing on your protected instance.
+13. On the **Export Configuration** file page, select **Export** to create and download a configuration file used to turn on Code Signing on your protected instance.
 
-    The export process downloads an XML file to your local machine for use in the steps details in [[cse-ppi-config|Configure Code Signing Enterprise on your protected instance]].
+    The export process downloads an XML file to your local machine for use in the steps details in [Configure Code Signing Enterprise on your protected instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cse-ppi-config.md).
 
     **Note:** Code Signing enforces limits on large update sets to improve the user experience. The maximum size for an update set is 10,000 records.
 
-## Related
 
-- [[cse-assign-roles|Assign the Code Signing Administrator Role]]
-- [[cse-upload-cs-config|Upload your Code Signing configuration file to your protected instance]]
-- [[cse-ppi-config|Configure Code Signing Enterprise on your protected instance]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[enable-codesiging|Turn on Code Signing]]
-- [[export|Export]]

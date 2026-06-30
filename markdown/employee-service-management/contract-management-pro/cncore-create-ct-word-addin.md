@@ -14,7 +14,7 @@ breadcrumb: [Create templates in Microsoft Word, Configure contract templates, C
 
 # Create a contract template to contain content controls
 
-[[cncore-create-contract-template|Create a contract template]] using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] to which you can then add content controls.
+Create a contract template using the Microsoft Word add-in for ServiceNow Contracts to which you can then add content controls.
 
 ## Before you begin
 
@@ -163,7 +163,3 @@ The contract template is saved in the Draft state.
 
 [Complete clause mapping to build a clause library]()
 
-## Related
-
-- [[cncore-create-contract-template|Create a contract template]]
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

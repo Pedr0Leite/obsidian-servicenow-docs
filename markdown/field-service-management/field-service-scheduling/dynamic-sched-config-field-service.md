@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Set up Dynamic Scheduling as scheduling mechanism
 
-Select [[dynamic-scheduling|dynamic scheduling]] to automatically schedule and dispatch work order tasks.
+Select dynamic scheduling to automatically schedule and dispatch work order tasks.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Tasks are assigned automatically based on the dynamic scheduling configuration.
 
 Review system properties and components installed with Dynamic Scheduling. For more information, see [Dynamic scheduling system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-system-properties.md).
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]

@@ -14,7 +14,7 @@ breadcrumb: [Third-party \(external\) risk assessment management, Reference, Thi
 
 # Third-party risk assessment form
 
-Use the third-party risk assessment form to capture all the information that you need to create an assessment using the Third-party Risk Management application. As a third-party risk assessor or manager, you can [[tprm-create-assessment|create an external assessment]].
+Use the third-party risk assessment form to capture all the information that you need to create an assessment using the Third-party Risk Management application. As a third-party risk assessor or manager, you can create an external assessment.
 
 <table id="table_FloorForm"><thead><tr><th>
 
@@ -88,7 +88,7 @@ Repeating assessment
 
 </td><td>
 
-The assessment used to create the current assessment.**Note:** You can create repeating assessments if you’re using the classic assessment engine. You can configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties using the Event-driven management feature if you’re using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. For more information, see [Configure a risk assessment to recur on a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/define-repeating-vend-assess.md) and [Event-driven management — automate assessment processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-create.md).
+The assessment used to create the current assessment.**Note:** You can create repeating assessments if you’re using the classic assessment engine. You can configure rules that auto-generate and send questionnaires and doc requests to engagements and third parties using the Event-driven management feature if you’re using the Smart Assessment Engine. For more information, see [Configure a risk assessment to recur on a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/define-repeating-vend-assess.md) and [Event-driven management — automate assessment processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-event-drvn-mgt-rule-create.md).
 
 </td></tr><tr><td>
 
@@ -353,7 +353,3 @@ Public information about the assessment.
 
 [Assessing your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-assessing-tpr.md)
 
-## Related
-
-- [[tprm-create-assessment|Create an external assessment]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

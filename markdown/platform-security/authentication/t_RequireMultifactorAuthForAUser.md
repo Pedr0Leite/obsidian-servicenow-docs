@@ -22,16 +22,12 @@ Role required: adaptive\_auth\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User Administration** &gt; **[[users|Users]]**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users**.
 
-2.  Configure the list to show the **Enable [[mfa-landing|Multi-factor Authentication]]** column.
+2.  Configure the list to show the **Enable Multi-factor Authentication** column.
 
 3.  Change the values of the **Enable Multi-factor Authentication** column for the selected users to **true**.
 
-    When the user [[logs|logs]] in with their user name and password, they are prompted to set up multi-factor authentication.
+    When the user logs in with their user name and password, they are prompted to set up multi-factor authentication.
 
-## Related
 
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[logs|Logs]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace for ITSM reference, Service Operations
 
 # Version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace ITOM
 
-Look for the version compatibility between [[sow-landing-page|Service Operations Workspace for ITSM]] and Service Operations Workspace for ITOM [[dex-workspace-application-tab|applications]].
+Look for the version compatibility between Service Operations Workspace for ITSM and Service Operations Workspace for ITOM applications.
 
 ## Version compatibility chart
 
@@ -50,7 +50,3 @@ Ensure that the following applications have compatible upgraded versions:
 
 [Components installed with Service Operations Workspace ITSM Applications]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[dex-workspace-application-tab|Applications]]

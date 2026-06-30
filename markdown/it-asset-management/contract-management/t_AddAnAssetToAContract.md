@@ -14,11 +14,11 @@ breadcrumb: [Create a contract, Contracts, Contract Management use, Contract Man
 
 # Add an asset to a contract
 
-You can associate [[c_Contracts|contracts]] with specific assets, including software licenses.
+You can associate contracts with specific assets, including software licenses.
 
 ## Before you begin
 
-Role required: admin, contract\_manager\(core UI and [[using-ham-workspace|Hardware Asset Workspace]] only\), sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
+Role required: admin, contract\_manager\(core UI and Hardware Asset Workspace only\), sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\), or sn\_eam.enterprise\_asset\_manager \(Enterprise Asset Workspace only\)
 
 ## About this task
 
@@ -28,8 +28,8 @@ Linking a contract with assets clarifies what the contract legally covers.
 
 1.  Open the list of contracts that are used across your deployment.
 
-    -   If you are using the core UI, navigate to **[[c_ContractManagement|Contract Management]]** &gt; **Contract** &gt; **All**.
-    -   If you are using the Hardware Asset Workspace, open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the core UI, navigate to **Contract Management** &gt; **Contract** &gt; **All**.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -65,10 +65,3 @@ Linking a contract with assets clarifies what the contract legally covers.
 
 [Add a document to a contract]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_ContractManagement|Contract Management]]
-- [[contract-mgmt-view-am|Contract management view]]

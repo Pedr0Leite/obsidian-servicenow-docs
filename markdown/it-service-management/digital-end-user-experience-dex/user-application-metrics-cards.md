@@ -60,7 +60,7 @@ Memory usage
 
 </td><td>
 
-Amount of memory or RAM \(Random Access Memory\) consumed by the top 10 [[dex-workspace-application-tab|applications]] in MB
+Amount of memory or RAM \(Random Access Memory\) consumed by the top 10 applications in MB
 
 </td></tr><tr><td>
 
@@ -100,7 +100,7 @@ I/O read
 
 </td><td>
 
-Process of reading data from storage [[dex-workspace-devices-tab|devices]], such as hard drives or solid-state drives, within a computer system**Note:** Excessive I/O read operations can lead to performance bottlenecks, increased latency, and result in slower system response times. Therefore, monitor I/O read activities to verify that the data retrieval processes aren't a limiting factor for application performance.
+Process of reading data from storage devices, such as hard drives or solid-state drives, within a computer system**Note:** Excessive I/O read operations can lead to performance bottlenecks, increased latency, and result in slower system response times. Therefore, monitor I/O read activities to verify that the data retrieval processes aren't a limiting factor for application performance.
 
 </td></tr><tr><td>
 
@@ -196,7 +196,3 @@ Percentage of time that a service is operational and accessible to users
 </td></tr></tbody>
 </table>**Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

@@ -50,7 +50,7 @@ Currently, the Analyze potential impact agentic workflow doesn’t support insta
 
 ## Service Mapping Now Assist Skills
 
-[[c_ServiceMappingOverview|Service Mapping]] Now Assist skills are intelligent capabilities that enhance the Analyze potential impact agentic workflow. These skills leverage generative AI to identify, classify, and assess the impact of changes to your IT infrastructure.
+Service Mapping Now Assist skills are intelligent capabilities that enhance the Analyze potential impact agentic workflow. These skills leverage generative AI to identify, classify, and assess the impact of changes to your IT infrastructure.
 
 Service Mapping provides two primary Gen AI skills:
 
@@ -94,6 +94,3 @@ Based on the candidate number, and the analysis, the output summary is provided 
 
 **Important:** This agentic workflow is turned on by default. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]

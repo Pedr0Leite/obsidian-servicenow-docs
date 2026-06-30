@@ -25,13 +25,13 @@ Role required: sn\_ext\_conn.xcc\_admin
 
 You can deactivate an external content connector to suspend its scheduled crawls. The connector's status changes to `Inactive`. All content, metadata, and permissions indexed from the deactivated connector's previous crawls remain available in search, but no new updates are retrieved from the external data source unless you choose to run a one-time crawl. You can reactivate the connector to resume its scheduled crawls.
 
-You can delete an external content connector to remove its definition. When you delete a connector, [[ia-ai-search|AI Search]] removes all content, metadata, and permissions from that connector's crawls from the index. As a result, users cannot find content from the deleted connector when [[use-ais|searching in AI Search]] applications.
+You can delete an external content connector to remove its definition. When you delete a connector, AI Search removes all content, metadata, and permissions from that connector's crawls from the index. As a result, users cannot find content from the deleted connector when searching in AI Search applications.
 
 ## Procedure
 
-1.  Use the application picker to switch to the [[ext-cont-connectors-landing-page|External Content Connectors]] Admin application scope.
+1.  Use the application picker to switch to the External Content Connectors Admin application scope.
 
-    For details on selecting an application scope using the application picker, see [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]].
+    For details on selecting an application scope using the application picker, see [Select an application from the application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectAnAppFromTheAppPicker.md).
 
 2.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
@@ -61,9 +61,3 @@ If you deactivated an external content connector to disable its scheduled crawls
 
 **Parent Topic:**[Configuring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configuring-ext-cont-connectors.md)
 
-## Related
-
-- [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]]
-- [[ia-ai-search|AI Search]]
-- [[use-ais|Searching in AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

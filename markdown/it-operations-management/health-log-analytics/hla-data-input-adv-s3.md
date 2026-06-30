@@ -26,7 +26,7 @@ You can set system parameters for reading log data that determine the actions th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Data Input** &gt; **Data Inputs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Data Input** &gt; **Data Inputs**.
 
 2.  Open an Amazon S3 data input record from the Data Inputs table.
 
@@ -69,6 +69,3 @@ You can set system parameters for reading log data that determine the actions th
 
 [Configure an Amazon S3 data input in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-s3.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

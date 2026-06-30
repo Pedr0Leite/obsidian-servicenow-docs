@@ -22,9 +22,9 @@ Role required: sn\_grc\_reg\_change.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Compliance Workspace**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Compliance Workspace**.
 
-2.  Go to **List** &gt; **[[list-view-of-reg-alerts|Regulatory alerts]]** &gt; **All assigned alerts**.
+2.  Go to **List** &gt; **Regulatory alerts** &gt; **All assigned alerts**.
 
 3.  Select and open the required regulatory alert.
 
@@ -34,7 +34,7 @@ Role required: sn\_grc\_reg\_change.user
 
 6.  Select **Link change tasks**.
 
-7.  Select the [[reg-change-task|regulatory change tasks]] that you want to link.
+7.  Select the regulatory change tasks that you want to link.
 
 8.  Select **Confirm**.
 
@@ -47,8 +47,3 @@ An action task is created for each selected impacted area and the specific regul
 
 Linking change tasks enables scalable task automation by generating action tasks for each impacted area and regulatory change task combination, confirming complete coverage and reducing manual effort.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]

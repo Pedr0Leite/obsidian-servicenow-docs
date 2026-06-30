@@ -14,7 +14,7 @@ breadcrumb: [Security Tasks, Security Center, Platform Security]
 
 # Edit Security Tasks
 
-Learn how to create, edit, delete, or [[export-security-tasks|export Security Tasks]] in [[sec-center-v2|Security Center]]
+Learn how to create, edit, delete, or export Security Tasks in Security Center
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin or sn\_vsc\_task\_manager
 
 ## Procedure
 
-1.  Access your Security Task list by navigating to **All** &gt; **Security Center** &gt; **[[security-task-manager|Security Tasks]]**.
+1.  Access your Security Task list by navigating to **All** &gt; **Security Center** &gt; **Security Tasks**.
 
 2.  From the Security Task list, you can edit your Security Tasks in two ways:
 
@@ -30,7 +30,7 @@ Role required: admin or sn\_vsc\_task\_manager
 
         Select a Security Task number from the list to open the Security Task record and see its details. Here you can edit, assign to another user, and add work notes.
 
-        **Important:** Remember that [[users|users]] who are assigned tasks must be admins or have the sn\_vsc\_task\_manager role.
+        **Important:** Remember that users who are assigned tasks must be admins or have the sn\_vsc\_task\_manager role.
 
     -   **Edit from the Security Task list**
 
@@ -52,7 +52,7 @@ Number
 
 </td><td>
 
-Automatically generated number used to [[identity-landing|identity]] the task
+Automatically generated number used to identity the task
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Type
 
 </td><td>
 
-Select a task type:-   [[ca-metrics|Metrics]] threshold breached
+Select a task type:-   Metrics threshold breached
 -   New Customer Action
 -   Event notification
 -   Hardening score deviation
@@ -164,11 +164,3 @@ Work notes can be privately added by entering them into this field and selecting
 
 **Parent Topic:**[Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md)
 
-## Related
-
-- [[export-security-tasks|Export Security Tasks]]
-- [[sec-center-v2|Security Center]]
-- [[security-task-manager|Security Tasks]]
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[ca-metrics|Metrics]]

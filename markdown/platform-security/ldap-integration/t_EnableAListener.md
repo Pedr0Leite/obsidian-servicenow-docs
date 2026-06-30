@@ -24,9 +24,9 @@ Role required: admin.
 
 A listener is a dedicated process that periodically searches for changes on the LDAP server.
 
-The listener can be deployed on a Microsoft Active Directory server that supports persistent queries \(ADNotify\), or on an LDAP server that supports persistent search [[c_requestAPI|request]] control \(with OID 2.16.840.1.113730.3.4.3\).
+The listener can be deployed on a Microsoft Active Directory server that supports persistent queries \(ADNotify\), or on an LDAP server that supports persistent search request control \(with OID 2.16.840.1.113730.3.4.3\).
 
-If the LDAP server supports a persistent search, the LDAP listener recognizes any user and group changes made to any of the applicable LDAP accounts and forwards them to your instance within approximately 10 seconds. This allows the instance to have a nearly real-time copy of your [[users|users]]' account details without having to wait for the next scheduled refresh. The LDAP listener can only synchronize objects that map to the User \[sys\_users\] and Group \[sys\_user\_group\] tables.
+If the LDAP server supports a persistent search, the LDAP listener recognizes any user and group changes made to any of the applicable LDAP accounts and forwards them to your instance within approximately 10 seconds. This allows the instance to have a nearly real-time copy of your users' account details without having to wait for the next scheduled refresh. The LDAP listener can only synchronize objects that map to the User \[sys\_users\] and Group \[sys\_user\_group\] tables.
 
 **Note:** If a user is added via the listener, but the user does not meet the requirements as defined by the OU filter, then the instance ignores the record on the LDAP server. If it meets the criteria, the user is added to the instance.
 
@@ -46,7 +46,7 @@ To enable a listener:
 
     The system only imports user records that match the LDAP OU filter. Incoming user records that do not meet the filter requirements are flagged as invalid and ignored by the import. Administrators can enable verbose LDAP logging to determine if incoming records are not matching the LDAP OU filter.
 
-5.  Navigate to the [[ca-system-properties|System Properties]] \[sys\_properties\] table and set LDAP listener system properties.
+5.  Navigate to the System Properties \[sys\_properties\] table and set LDAP listener system properties.
 
 <table id="table_dds_vgz_nz"><thead><tr><th>
 
@@ -95,9 +95,3 @@ When true, only a single ECC queue message is created to start or stop the LDAP 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]

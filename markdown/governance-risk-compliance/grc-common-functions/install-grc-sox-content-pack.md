@@ -38,9 +38,9 @@ Verify that the ServiceNow plugins are activated.
 
 Activate one of the following GRC plugins:
 
--   GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] \(com.sn\_compliance\)
+-   GRC: Policy and Compliance Management \(com.sn\_compliance\)
 -   GRC Risk Management \(com.sn\_risk\)
--   GRC: [[c_GRCAudits|Audit Management]] \(com.sn\_audit\)
+-   GRC: Audit Management \(com.sn\_audit\)
 
  To verify that this plugin is activated, navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions your organization has purchased.
 
@@ -66,7 +66,3 @@ Activate one of the following GRC plugins:
 
 **Parent Topic:**[Sarbanes-Oxley \(SOX\) Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/sn-store-SOX-governance-risk-compliance.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

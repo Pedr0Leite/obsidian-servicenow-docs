@@ -42,7 +42,7 @@ To add and attach documents to a record's activity stream, you would need to com
 
 6.  On the form, in the **Value** field, add the field name that you want the record to reflect.
 
-    For example, you would enter work\_notes for the **[[c_WorkNotes|Work notes]]** field.
+    For example, you would enter work\_notes for the **Work notes** field.
 
     Use a comma to add multiple field names.
 
@@ -53,6 +53,3 @@ To add and attach documents to a record's activity stream, you would need to com
 
 **Parent Topic:**[Document attachments in an activity stream](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/activity-stream-for-documents.md)
 
-## Related
-
-- [[c_WorkNotes|Work notes]]

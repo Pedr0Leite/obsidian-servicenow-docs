@@ -31,20 +31,14 @@ Role required: sales\_agent
     -   To change a lead stage, drag the lead card from one state and drop it into another state.
     -   To view the leads by different categories, such as industry, source, and reason, select **Group by:** drop-down menu on the page.
     -   You can take various actions for your leads, such as creating a lead task, assigning a lead, and composing an email by selecting the three vertical dots \[Omitted image "icon-three-dots.png"\] Alt text: either on a lead card or vertical leads stage header.
-    -   To create a new lead directly from this page, select **New** button. To learn more, see [[create-new-lead|Create a lead]].
+    -   To create a new lead directly from this page, select **New** button. To learn more, see [Create a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-lead.md).
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[create-new-lead|Create a lead]]
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]

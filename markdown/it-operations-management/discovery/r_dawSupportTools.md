@@ -18,9 +18,9 @@ The **Support tools** tab provides tools to investigate and troubleshoot your in
 
 |Tool|Description|
 |----|-----------|
-|CAPI to patterns|Migrates your Cloud [[r-discovery|Discovery]] from Cloud API REST Calls \(CAPI\) to Patterns.|
+|CAPI to patterns|Migrates your Cloud Discovery from Cloud API REST Calls \(CAPI\) to Patterns.|
 |Probes to pattern migration|Migrates older probes to new, flexible, and efficient patterns.|
-|Retrieve logs|Retrieves diagnostic logs to help identify [[itom-visibility-landing-page|ITOM Visibility]] and Discovery issues.|
+|Retrieve logs|Retrieves diagnostic logs to help identify ITOM Visibility and Discovery issues.|
 |Detect Frequently discovered CIs|Displays which CIs are discovered more often than others.|
 |Pattern to customization check|Determines if a customization might be breaking a pattern.|
 |IRE payload explorer|Identifies the underlying key component in identification and reconciliation \(IRE\) across different data sources.|
@@ -33,7 +33,3 @@ The **Support tools** tab provides tools to investigate and troubleshoot your in
 
 **Parent Topic:**[Discovery Admin Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_discovery-admin-workspace-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]

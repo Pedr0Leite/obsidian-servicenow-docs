@@ -14,7 +14,7 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # Install Now Assist for Customer Service Management \(CSM\)
 
-Install required plugins and enable [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] to configure and use generative AI skills in Configurable Workspace and Core UI.
+Install required plugins and enable Now Assist for Customer Service Management \(CSM\) to configure and use generative AI skills in Configurable Workspace and Core UI.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ To get started with Now Assist, you must install at least one Now Assist applica
 
 For information about the plugin dependencies and plugin activation order, see [Supporting information for Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-supporting-info.md).
 
-For information about [[csm-workspaces-configure|CSM Configurable Workspace]], see [[csm-config-workspace-set-up|Set up CSM Configurable Workspace]]. For information about Now Assist AI agents, see [Install Now Assist AI Agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-ai-agents-plugins.md).
+For information about CSM Configurable Workspace, see [Set up CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-set-up.md). For information about Now Assist AI agents, see [Install Now Assist AI Agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-ai-agents-plugins.md).
 
 To access AI agents in the Now Assist panel, you need to [turn on the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md) and ensure that the case summarization is active on the instance.
 
@@ -52,8 +52,4 @@ To install the Now Assist for CSM plugin \(sn\_csm\_gen\_ai\), follow the proced
 
     For more detailed information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
-## Related
 
-- [[csm-config-workspace-set-up|Set up CSM Configurable Workspace]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

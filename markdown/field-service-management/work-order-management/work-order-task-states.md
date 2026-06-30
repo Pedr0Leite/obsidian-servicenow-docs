@@ -72,7 +72,7 @@ Work in Progress
 
 </td><td>
 
-The Field Service agent starts work and selects [[t_StartWork|Start work]] on the work order task.
+The Field Service agent starts work and selects Start work on the work order task.
 
 </td></tr><tr><td>
 
@@ -100,7 +100,3 @@ The task was canceled.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_StartWork|Start work]]

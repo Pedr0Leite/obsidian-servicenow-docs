@@ -14,7 +14,7 @@ breadcrumb: [My Learning, Exploring Learning, Learning, Growth Experiences, HR S
 
 # Assigned to your team
 
-Track your team [[exploring-learning-exp|learning]] tasks to streamline their career growth.
+Track your team learning tasks to streamline their career growth.
 
 Manage your team's learning tasks.
 
@@ -29,9 +29,5 @@ The Assigned to your team tab has the following information that helps you under
     -   Overdue
     -   Completed.
 -   Filters: Use the Employee, Status, Content type, Due date, and Completion date filters to sort your team's learnings.
--   Assign learning: As a manager, [[assign-learning-lxp|assign Learning to your team]] members to enhance their skills.
+-   Assign learning: As a manager, assign Learning to your team members to enhance their skills.
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[assign-learning-lxp|Assign Learning to your team]]

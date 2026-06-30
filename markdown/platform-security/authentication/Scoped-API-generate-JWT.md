@@ -22,7 +22,7 @@ The [GlideJWT API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/a
 -   JSON serialized header
 -   JSON serialized payload
 
-There are two JWT API scripts, JWTTokenInternal and JWTTokenRestricted, that you can use when configuring a JWT Provider. The JWTTokenRestricted script enables administrators to configure who can generate a JWT. The JWTTokenInternal script is read-only and enables only logged in [[users|users]] to generate a JWT.
+There are two JWT API scripts, JWTTokenInternal and JWTTokenRestricted, that you can use when configuring a JWT Provider. The JWTTokenRestricted script enables administrators to configure who can generate a JWT. The JWTTokenInternal script is read-only and enables only logged in users to generate a JWT.
 
 To generate a JWT:
 
@@ -49,6 +49,3 @@ var jwt = jwtAPI.generateJWT(jwtProviderSysId, header, payload);
 gs.info("JWT:" + jwt);
 ```
 
-## Related
-
-- [[users|Users]]

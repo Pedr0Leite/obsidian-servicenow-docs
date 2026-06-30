@@ -14,7 +14,7 @@ breadcrumb: [Optimizing Metric Intelligence, Metric Intelligence, IT Operations 
 
 # Disable a metric for a CI
 
-[[operational-metrics|Metric Intelligence]] can be configured to collect significant amounts of data, some of which might not be necessary. To improve performance, you can disable a specific metric for a specific CI to stop processing data related to the specified metric and CI.
+Metric Intelligence can be configured to collect significant amounts of data, some of which might not be necessary. To improve performance, you can disable a specific metric for a specific CI to stop processing data related to the specified metric and CI.
 
 ## Before you begin
 
@@ -26,14 +26,10 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Anomaly Detection** &gt; **Metric to CI**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Anomaly Detection** &gt; **Metric to CI**.
 
 2.  Locate the record for the metric/CI that you want to disable, and set its **Active** column to **false**.
 
 
 **Parent Topic:**[Optimizing Metric Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/optimizing-metric-intelligence.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]
-- [[c_EM|Event Management]]

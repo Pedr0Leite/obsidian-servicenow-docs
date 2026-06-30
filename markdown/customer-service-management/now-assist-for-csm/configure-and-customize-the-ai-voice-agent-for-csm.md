@@ -32,7 +32,7 @@ The AI Voice Agent for Now Assist for CSM includes the following default agents:
 -   Create Case AI Voice Agent — collects issue description and creates a new CSM case in real time.
 -   Update Case AI Voice Agent — updates an existing case after identifying the case, collecting the fields to update, and validating the changes.
 
-**Note:** The default agents are starting [[gamification-components-points|points]] and must be cloned and grounded with your organization's specific instructions before deploying to production.
+**Note:** The default agents are starting points and must be cloned and grounded with your organization's specific instructions before deploying to production.
 
 Role required: admin
 
@@ -92,7 +92,7 @@ Role required: admin
 
     -   Interactions table — full transcript logged per call as soon as the call ends.
     -   Execution Plans table — step-by-step tool invocation log for debugging unexpected agent behavior.
-    -   Analytics dashboard — accessible from the Analytics tab in Assistant Designer. [[gamification-components-tracks|Tracks]] total voice conversations, deflection rates, conversation outcomes, and satisfaction scores.
+    -   Analytics dashboard — accessible from the Analytics tab in Assistant Designer. Tracks total voice conversations, deflection rates, conversation outcomes, and satisfaction scores.
 
 ## Result
 
@@ -102,7 +102,3 @@ The AI Voice Agent is configured and ready to handle customer voice interactions
 
 Monitor the Analytics dashboard weekly during early production to review deflection rates, conversation outcomes, and CSAT scores. Review Execution Plans regularly to tune agent instructions based on tool invocation patterns.
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[gamification-components-tracks|Tracks]]

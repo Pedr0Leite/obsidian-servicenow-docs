@@ -16,7 +16,7 @@ As a nurse educator, you can use the home page of the Workspace to quickly scan 
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -127,7 +127,3 @@ Number of all training tasks for your team.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pss-app|Patient Support Services]]

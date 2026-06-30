@@ -14,7 +14,7 @@ breadcrumb: [Localizing Virtual Agent conversations, Localization options for Vi
 
 # Request bulk translations for multiple topics
 
-If you need to translate many [[virtual-agent-landing-page|Virtual Agent]] topics across multiple models at one time, you can use the \[sys\_cs\_topic\] table list view to request translations.
+If you need to translate many Virtual Agent topics across multiple models at one time, you can use the \[sys\_cs\_topic\] table list view to request translations.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

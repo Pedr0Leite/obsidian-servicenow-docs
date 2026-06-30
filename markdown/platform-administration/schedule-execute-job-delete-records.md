@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-Consider scheduling the delete job to run during non-business hours to minimize the potential performance impact on your users. Deleting all records in a table temporarily locks the table, which prevents inserts and updates. If you want to [[t_DeleteAllRecordsFromATable|delete all records from a table]], use the [[table-cleaner|table cleaner]] option instead. For more information, see [[deleting-older-records|Deleting older or unwanted records in Core UI]].
+Consider scheduling the delete job to run during non-business hours to minimize the potential performance impact on your users. Deleting all records in a table temporarily locks the table, which prevents inserts and updates. If you want to delete all records from a table, use the table cleaner option instead. For more information, see [Deleting older or unwanted records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-older-records.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Delete jobs**.
+1.  Navigate to **All** &gt; **System Data Management** &gt; **Delete jobs**.
 
 2.  Select a delete job record.
 
@@ -33,15 +33,7 @@ Consider scheduling the delete job to run during non-business hours to minimize 
 
 ## Result
 
-The records are scheduled for deletion or deleted immediately. If you want to restore the deleted records, see [[rollback-delete-job|Rollback a delete job]].
+The records are scheduled for deletion or deleted immediately. If you want to restore the deleted records, see [Rollback a delete job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/rollback-delete-job.md).
 
-**Parent Topic:**[[deleting-records-safely|Deleting records safely in Core UI]]
+**Parent Topic:**[Deleting records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-records-safely.md)
 
-## Related
-
-- [[deleting-older-records|Deleting older or unwanted records in Core UI]]
-- [[rollback-delete-job|Rollback a delete job]]
-- [[deleting-records-safely|Deleting records safely in Core UI]]
-- [[t_DeleteAllRecordsFromATable|Delete all records from a table]]
-- [[table-cleaner|Table cleaner]]
-- [[c_DataManagement|Data Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure the Now Mobile Agent application, Set up the Industrial C
 
 # Customizing UI actions for the Now Mobile Agent application
 
-Make it easier for your end users to get things done faster with the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) mobile application by creating custom UI actions.
+Make it easier for your end users to get things done faster with the Industrial Connected Workforce \(ICW\) mobile application by creating custom UI actions.
 
 The configurations for UI action conditions are different in the ICW mobile application than those in the desktop application. Unlike the desktop application, the UI action conditions on mobile don’t execute any database queries and therefore don’t take up mobile resources. On the mobile application, instead of performing a system check on whether the ICW configuration is enabled, you can configure the button to be active or inactive.
 
@@ -26,6 +26,3 @@ The following image shows the Now Mobile Agent application open in Studio. The N
 
 **Parent Topic:**[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-now-mobile-agent-application-icw-mobile.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

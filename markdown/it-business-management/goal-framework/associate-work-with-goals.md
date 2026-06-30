@@ -14,7 +14,7 @@ breadcrumb: [Manage goals, Goal Framework and Goal Framework for SPM, Strategic 
 
 # Associate a work or planning item with goals or targets
 
-[[create-goal|Create a goal]] or target relationship with a work, planning, strategic, or any other item to identify and associate your current or future work and achieve your goals and targets.
+Create a goal or target relationship with a work, planning, strategic, or any other item to identify and associate your current or future work and achieve your goals and targets.
 
 ## Before you begin
 
@@ -24,14 +24,14 @@ Role required: sn\_gf.goal\_user
 
 You can associate a goal or target with only one of the work items \(Project, Demand, Program, Scrum Feature, Scrum/SAFe Epic\), or SAFe Feature, planning items \(Project, Demand, or Epic\), or strategic items \(Program or Initiative\) at a time. To associate more than one item with a goal or target, create one goal or target relationship record for each item.
 
--   You can associate a goal or target with the Project, Demand, and Program work items only when [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]] is installed.
--   You can associate a goal or target with the Scrum Feature and Scrum Epic work items only when [[agile-landing-page|Agile Development 2.0]] is installed.
--   You can associate a goal with the SAFe Epic and SAFe Feature work items only when [[SAFeoverview|Scaled Agile Framework \(SAFe\)]] is installed.
--   You can associate a goal or target with the planning items \(Project, Demand, and Epic\) and strategic items \(Program and Initiative\) only when [[alignment-planner-workspace-landing-page|Strategic Planning]] is installed.
+-   You can associate a goal or target with the Project, Demand, and Program work items only when PPM Standard \(Project Portfolio Management\) is installed.
+-   You can associate a goal or target with the Scrum Feature and Scrum Epic work items only when Agile Development 2.0 is installed.
+-   You can associate a goal with the SAFe Epic and SAFe Feature work items only when Scaled Agile Framework \(SAFe\) is installed.
+-   You can associate a goal or target with the planning items \(Project, Demand, and Epic\) and strategic items \(Program and Initiative\) only when Strategic Planning is installed.
 
 **Note:**
 
--   Depending on the plugin that is installed - PPM or Strategic Planning - the respective related list appears on the Goal and [[target-form|Target form]]. If PPM is installed, the Project, Demand, and Program work item related lists appear on the Goal and Target form. If only Strategic Planning is installed or both PPM and Strategic Planning are installed, the Planning items and Other items related lists appear on the Goal and Target form respectively.
+-   Depending on the plugin that is installed - PPM or Strategic Planning - the respective related list appears on the Goal and Target form. If PPM is installed, the Project, Demand, and Program work item related lists appear on the Goal and Target form. If only Strategic Planning is installed or both PPM and Strategic Planning are installed, the Planning items and Other items related lists appear on the Goal and Target form respectively.
 -   When a goal or target relationship is created with a work item \(Project, Demand, Program, Scrum Feature, Scrum/SAFe Epic, or SAFe Feature\), the record appears on the respective related list on the Goal or Target form. When a goal or target relationship is created with a planning item \(Project, Demand, or Epic\), the record appears in the Planning items related list on the Goal or Target form. When a goal or target relationship is created with a strategic item \(Program or Initiative\) or any other item, the record appears in the Other items related list on the Goal or Target form respectively.
 
 ## Procedure
@@ -59,7 +59,7 @@ Steps
 1.  \(For PPM users\) Click the Projects related list.
 2.  \(For Strategic Planning users\) Click the Planning items related list.
 3.  Click **Add**.
-4.  \(For PPM users\) On the [[goal-relationship-form|Goal/Target Relationship form]], enter the required project in the **Project** field.
+4.  \(For PPM users\) On the Goal/Target Relationship form, enter the required project in the **Project** field.
 5.  \(For Strategic Planning users\) On the Goal/Target Relationship form:
     1.  From the **Planning item type** drop-down list, select **Project \[sn\_align\_core\_project\]**.
     2.  In the **Planning item** field, enter the required project.
@@ -146,12 +146,4 @@ For Agile Development 2.0 users only.1.  Click the Features related list.
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[create-goal|Create a goal]]
-- [[c_ProjectPortfolioSuiteWithFinancials|PPM Standard \(Project Portfolio Management\)]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[target-form|Target form]]
-- [[goal-relationship-form|Goal/Target Relationship form]]

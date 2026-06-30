@@ -14,7 +14,7 @@ breadcrumb: [Set up advisor, Use HAM advisor, Asset and CI management, Explore, 
 
 # Managing opt-in and opt-out resource categories for HAM in CMDB success advisor
 
-You can opt in to [[ham-landing-page|Hardware Asset Management]] \(HAM\) license resource categories to make the corresponding [[model-hierarchy|model categories]] available for selection in CMDB success advisor for HAM.
+You can opt in to Hardware Asset Management \(HAM\) license resource categories to make the corresponding model categories available for selection in CMDB success advisor for HAM.
 
 Before you can set up or update the HAM advisor scope in CMDB success advisor, at least one HAM license resource category must be opted in. Resource categories define the hardware types, such as Servers, Storage, or Mobile Device, covered by your HAM subscription. Only model categories belonging to opted-in resource categories appear in the CMDB success advisor for HAM.
 
@@ -29,7 +29,7 @@ The following table describes the HAM advisor behavior based on opt-in status.
 |Status|Advisor behavior|
 |------|----------------|
 |No resource categories opted in|The Select model categories dialog box displays a message indicating that no categories are currently available. You must opt in to at least one resource category before you can configure or update the HAM advisor scope.|
-|Resource categories opted in|The corresponding model categories appear in the **Available resource and model categories** column of the Select model categories and [[t_EditingModelCategories|Edit model categories]] dialog boxes and can be selected for the HAM advisor scope.|
+|Resource categories opted in|The corresponding model categories appear in the **Available resource and model categories** column of the Select model categories and Edit model categories dialog boxes and can be selected for the HAM advisor scope.|
 |Resource category opted out after selection|Model categories from that resource category are no longer available in the advisor. If those categories were previously selected for the HAM advisor scope, they may become unavailable and the dashboard scope may be reduced.|
 
 ## Opt in resource categories
@@ -68,8 +68,3 @@ To remove opted out resource categories, follow these steps:
 
 Removing an opted-out resource category excludes all model categories associated with it from the HAM advisor scope and reduces the scope of your HAM advisor dashboard accordingly.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[t_EditingModelCategories|Edit model categories]]

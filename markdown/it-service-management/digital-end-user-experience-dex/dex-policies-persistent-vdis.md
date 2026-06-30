@@ -14,11 +14,11 @@ breadcrumb: [DEX Content Playbook reference, Reference, Digital End-User Experie
 
 # DEX policies for persistent VDIs
 
-Policy [[reference-for-itsm-mobile-agent|reference]] for DEX monitoring on Windows persistent Virtual Desktop Infrastructures \(VDI\). Use this reference to understand available check instances, frequencies, and parameters for application, network, and device monitoring.
+Policy reference for DEX monitoring on Windows persistent Virtual Desktop Infrastructures \(VDI\). Use this reference to understand available check instances, frequencies, and parameters for application, network, and device monitoring.
 
 ## Policies for Windows persistent VDIs — Application
 
-DEX provides the following policies for persistent VDI [[dex-workspace-application-tab|applications]].
+DEX provides the following policies for persistent VDI applications.
 
 <table id="table_hxg_t1b_bxb"><thead><tr><th>
 
@@ -101,7 +101,7 @@ DEX provides the following policies for persistent VDIs applications.
 
 ## Policies for Windows persistent VDIs — Device
 
-DEX provides the following policies for persistent VDI [[dex-workspace-devices-tab|devices]].
+DEX provides the following policies for persistent VDI devices.
 
 <table id="table_cj5_4yd_1fc"><thead><tr><th>
 
@@ -290,8 +290,3 @@ config\_file\_read
 </td></tr></tbody>
 </table>**Parent Topic:**[DEX Content Playbook reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-content-playbook-reference.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

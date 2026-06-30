@@ -15,7 +15,7 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Deactivate continuous discovery in Kubernetes Visibility Agent
 
-Switch off continuous [[r-discovery|discovery]] by [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] if all you need is periodic snapshots of your cluster resources. If you have multiple clusters with frequent changes, deactivating continuous discovery reduces the load on your instance.
+Switch off continuous discovery by Kubernetes Visibility Agent if all you need is periodic snapshots of your cluster resources. If you have multiple clusters with frequent changes, deactivating continuous discovery reduces the load on your instance.
 
 ## Before you begin
 
@@ -31,7 +31,3 @@ Role required: none
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]

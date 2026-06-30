@@ -20,7 +20,7 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-BCM administrators configure the impact categories that are relevant to your business. For more information on configuring an impact category in the classic BCM workspace, see [[configure-impact-rating-bcp|Configure an impact rating to assess an impact category]] and [[structured-workflows-bia|Structured workflows for Business Impact Analysis]].
+BCM administrators configure the impact categories that are relevant to your business. For more information on configuring an impact category in the classic BCM workspace, see [Configure an impact rating to assess an impact category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-rating-bcp.md) and [Structured workflows for Business Impact Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/structured-workflows-bia.md).
 
 ## Procedure
 
@@ -52,7 +52,4 @@ BCM administrators configure the impact categories that are relevant to your bus
 
     The state changes to **Complete** and is closed for editing unless you select the **Edit** button again.
 
-## Related
 
-- [[configure-impact-rating-bcp|Configure an impact rating to assess an impact category]]
-- [[structured-workflows-bia|Structured workflows for Business Impact Analysis]]

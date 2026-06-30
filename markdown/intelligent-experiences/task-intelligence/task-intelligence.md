@@ -28,7 +28,7 @@ Task Intelligence enables you to set up machine learning models to automate task
 
 </td><td>
 
-[Install \[Omitted image "bus-agent-workspace-1.svg"\] Alt text:[[install-task-intelligence|Install Task Intelligence]] and related applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/install-task-intelligence.md)
+[Install \[Omitted image "bus-agent-workspace-1.svg"\] Alt text:Install Task Intelligence and related applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/task-intelligence/install-task-intelligence.md)
 
 </td><td>
 
@@ -53,6 +53,3 @@ Task Intelligence enables you to set up machine learning models to automate task
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[install-task-intelligence|install task intelligence]]

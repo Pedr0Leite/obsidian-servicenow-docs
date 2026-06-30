@@ -12,7 +12,7 @@ breadcrumb: [CSM Configurable Workspace, Configure agent workspaces, Configure, 
 
 # Relabel Business Location Services portal \(BLSP\) items after upgrade
 
-Using Guided Setup, you can optionally modify the "Business Location Details" page in the Business Location Services Portal to be relabeled "Agency Location Details" [[using-public-sector-digital-services|using Public Sector Digital Services]] terms during configuration.
+Using Guided Setup, you can optionally modify the "Business Location Details" page in the Business Location Services Portal to be relabeled "Agency Location Details" using Public Sector Digital Services terms during configuration.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ This script will relabel the "Business Location Details" page within the Busines
 
 2.  Select **Get Started** to begin configuration.
 
-    \[Omitted image "ps-gs-second-page.png"\] Alt text: Guided Setup page view to set up [[gsp-overview-public-sector|Government Service Portal]], configure workspace, services offered, case types, foundation data, and workflow categories for Public Sector Digital Services.
+    \[Omitted image "ps-gs-second-page.png"\] Alt text: Guided Setup page view to set up Government Service Portal, configure workspace, services offered, case types, foundation data, and workflow categories for Public Sector Digital Services.
 
     The setup page displays the different categories of configuration tasks to be completed.
 
@@ -39,10 +39,5 @@ This script will relabel the "Business Location Details" page within the Busines
 5.  Follow the steps to complete the Guided Setup task.
 
 
-**Parent Topic:**[[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
+**Parent Topic:**[Set up the CSM Configurable Workspace for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/setting-up-csm-fsm.md)
 
-## Related
-
-- [[setting-up-csm-fsm|Set up the CSM Configurable Workspace for Public Sector Digital Services]]
-- [[using-public-sector-digital-services|Using Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]

@@ -12,7 +12,7 @@ breadcrumb: [AI Search for product catalog, Configuring product offerings and ca
 
 # Run scheduled job to populate product offering categories
 
-After upgrading to the Zurich release and the [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]] plugin is installed, run a scheduled job that generates the product offering categories for pre-existing product offerings in the product catalog with AI Search.
+After upgrading to the Zurich release and the Now Assist for Sales Force Automation \(SFA\) plugin is installed, run a scheduled job that generates the product offering categories for pre-existing product offerings in the product catalog with AI Search.
 
 ## Before you begin
 
@@ -38,12 +38,7 @@ Run the scheduled job to index the tables, publish the stop word dictionary, and
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]]

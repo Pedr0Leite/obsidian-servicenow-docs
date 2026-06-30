@@ -16,7 +16,7 @@ Review and approve or reject a quote advanced approval request that is routed to
 
 ## Before you begin
 
-[[explore-advanced-approval-for-sales|Advanced Approval Management]] must be installed to approve a quote advanced approval request.
+Advanced Approval Management must be installed to approve a quote advanced approval request.
 
 Role required: sn\_adv\_appr\_mgmt.approval\_request\_approver
 
@@ -61,9 +61,5 @@ If approved, your decision is recorded for the quote approval step, and the appr
 
 If rejected, the approval request is marked as rejected and the quote is returned for further review or updates, based on the configured approval process.
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]

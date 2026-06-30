@@ -21,15 +21,11 @@ Your customer may be responsible for delivering this additional service directly
 ## Attributes
 
 -   You can share and leverage the administration of the instance. This means that there is no overhead, and you can optimize licenses.
--   If there is a new instance for a decentralized environment, the program team is responsible and funded accordingly as dedicated administrator [[users|users]] for that instance. In a centralized environment where all instances stem from a blueprint, you need duplicate administration licenses.
+-   If there is a new instance for a decentralized environment, the program team is responsible and funded accordingly as dedicated administrator users for that instance. In a centralized environment where all instances stem from a blueprint, you need duplicate administration licenses.
 -   You do not assign fulfillers to a domain. Instead, you can share them across domains.
 -   If a customer is sharing both a shared environment and a dedicated environment, they require a fulfiller in both environments. This means more work for each team because the processes for shared and dedicated instances require different work for each instance.
 -   The number of users on the instance can change when you get a new customer. A new customer can result in tens or even hundreds of thousands of new users on the system. The number of total users is virtually unlimited in one shared environment.
 -   Each instance has a finite number of requesters and fulfillers. When you get a new customer, you must procure an instance that is based on the size and scale of your customer's company.
 
-**Parent Topic:**[[bp-sp-reference-arch-ds|Service provider reference architecture]]
+**Parent Topic:**[Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 
-## Related
-
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]
-- [[users|Users]]

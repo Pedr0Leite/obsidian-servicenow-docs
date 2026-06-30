@@ -14,7 +14,7 @@ breadcrumb: [Advanced Discovery configuration, Configuring Discovery, Discovery,
 
 # Change the source name of Discovery results
 
-You have the option of changing the source name of [[r-discovery|discovery]] results. This might be desirable if Discovery is running on your network together with another discovery product, and you want to use customized identifiers.
+You have the option of changing the source name of discovery results. This might be desirable if Discovery is running on your network together with another discovery product, and you want to use customized identifiers.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ To migrate your Discovery Source to ServiceNow:
 
 **Parent Topic:**[Advanced Discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryExtendedCapabilities.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -22,7 +22,7 @@ The following preferences \(**Field Normalization** &gt; **Administration** &gt;
 |Enable field normalization auditing|This preference enables or disables auditing of field normalization tables.|
 |Logging|Select the maximum level of logging detail desired. For example, select Error to log only errors and Information to log errors, warnings, and information.|
 |Decoration URL|Enter the URL for the help/information link associated with the Field Normalization decoration. This link opens the page presented to users who do not have rights to see the normalization or transformation record. The default link opens a ServiceNow Wiki page with a general explanation of Field Normalization. The purpose of this page is to explain to normal users why a field value they entered was changed automatically.|
-|Restrict [[c_Decorations|decorations]] to roles|Use this preference to define the user roles that can view the [[reference-email-admin|reference]] icon \(decoration\) adjacent to a normalized field. This decoration displays transformation and normalization records to users with the normalizer role. For all other users, it opens the URL specified in the Decoration URL preference. If this preference does not specify any roles, then all roles can see the decoration.|
+|Restrict decorations to roles|Use this preference to define the user roles that can view the reference icon \(decoration\) adjacent to a normalized field. This decoration displays transformation and normalization records to users with the normalizer role. For all other users, it opens the URL specified in the Decoration URL preference. If this preference does not specify any roles, then all roles can see the decoration.|
 
 ## Field Normalization business rules
 
@@ -59,13 +59,13 @@ The following business rules were created for this plugin:
 |Name|Description|
 |----|-----------|
 |aliases|Creates the slushbucket with pending values for choosing aliases for a normal value.|
-|fn\_transform\_chooser|Displays available [[c_FieldTransformations|transforms]]. Invoked by the New button on the fn\_transform related list.|
+|fn\_transform\_chooser|Displays available transforms. Invoked by the New button on the fn\_transform related list.|
 
 ## Field Normalization roles
 
 |Role|Description|
 |----|-----------|
-|normalizer|Person authorized to manage [[c_FieldNormalization|field normalization and transformation]].|
+|normalizer|Person authorized to manage field normalization and transformation.|
 |normalization\_tester|Person authorized to create test records for normalizations and transformations. Only records opened by users with this role are available for testing normalization and transformation rules in Test mode.|
 
 **Related topics**  
@@ -111,9 +111,3 @@ None.
 
 None.
 
-## Related
-
-- [[c_Decorations|Decorations]]
-- [[reference-email-admin|Reference]]
-- [[c_FieldTransformations|Transforms]]
-- [[c_FieldNormalization|Field normalization and transformation]]

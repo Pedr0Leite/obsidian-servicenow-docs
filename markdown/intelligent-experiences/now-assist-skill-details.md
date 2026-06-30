@@ -13,11 +13,11 @@ breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Now Assist skill details
 
-Explore details of [[now-assist-skills|Now Assist skills]], security and usage data.
+Explore details of Now Assist skills, security and usage data.
 
 Explore details about various skills within a workflow. This page contains information about skill, usage and consumption information, and a summary of security and governance data.
 
-**Note:** The minimum version required to access the [[skill-details|skill details]] page is Zurich patch 10 and Australia patch 3.
+**Note:** The minimum version required to access the skill details page is Zurich patch 10 and Australia patch 3.
 
 \[Omitted image "na-skill-details-option.png"\] Alt text: Now Assist skill details
 
@@ -40,10 +40,5 @@ The **View details** option displays skill details under these tabs:
     \[Omitted image "na-skill-details-security.png"\] Alt text: Skill details- Security and governance tab
 
 
-**Parent Topic:**[[using-now-assist-admin_0|Using Now Assist Admin]]
+**Parent Topic:**[Using Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-admin_0.md)
 
-## Related
-
-- [[using-now-assist-admin_0|Using Now Assist Admin]]
-- [[now-assist-skills|Now Assist skills]]
-- [[skill-details|Skill details]]

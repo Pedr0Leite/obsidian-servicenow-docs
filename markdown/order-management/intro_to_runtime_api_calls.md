@@ -14,7 +14,7 @@ breadcrumb: [API overview and resources, CPQ app, Configure, price, quote apps, 
 
 Runtime, or buyside, APIs are used to create, update, and save configurations.
 
-CPQ APIs are divided into two categories: [[logik_io_runtime_apis|runtime APIs]] and admin APIs. In this article, we introduce the runtime APIs.
+CPQ APIs are divided into two categories: runtime APIs and admin APIs. In this article, we introduce the runtime APIs.
 
 Runtime APIs are used to create, read, update, and delete configurations, and are the same APIs that are used in the CPQ End User Configurator. They are also commonly referred to as the “buyside“ APIs.
 
@@ -28,7 +28,7 @@ If you are a Salesforce user, you can find your tenant URL by clicking **Setup**
 
 All runtime API calls require bearer token authentication using a unique token that is available in the runtime client. They also require that the origin URL configured in the runtime client appears in the request header.
 
-To authenticate, collect the bearer token and the origin URL from CPQ Admin → [[cpq-utilities|Utilities]] → Runtime Client. For each API call in a Postman, add the following header:
+To authenticate, collect the bearer token and the origin URL from CPQ Admin → Utilities → Runtime Client. For each API call in a Postman, add the following header:
 
 ```
 Key: Origin
@@ -63,7 +63,7 @@ In the Authorization tab of Postman or your API tool, select **Bearer Token**, a
                 "configuredProductId": "{{configProductId}}",
             }
         },
-        "[[fields|fields]]": []
+        "fields": []
     }'
     ```
 
@@ -146,7 +146,7 @@ In the Authorization tab of Postman or your API tool, select **Bearer Token**, a
 
 -   The save call saves the configuration in CPQ. This ensures that the configuration UUID can be used and reconfigured in the future.
 
-    This process asynchronously populates our custom objects, configuration field data [[cpq-sets|sets]], and configuration line items in Salesforce.
+    This process asynchronously populates our custom objects, configuration field data sets, and configuration line items in Salesforce.
 
     Example \(cURL\):
 
@@ -274,9 +274,3 @@ For more information about CPQ APIs, see the following eight-slide presentation:
 
 [Logik.io APIs](https://docs.google.com/presentation/d/1dN5rfpk4jjS__GkBcarieNUEfyVY6bAvrhxkkm9DagI/edit?slide=id.g18313200e09_0_207#slide=id.g18313200e09_0_207).
 
-## Related
-
-- [[logik_io_runtime_apis|Runtime APIs]]
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

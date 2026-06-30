@@ -34,7 +34,7 @@ Roles required: itil, report\_user, report\_group, report\_global, report\_admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -54,7 +54,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d172762e209">
 
@@ -108,7 +108,7 @@ Select a field to report against. The values from this field appear on the X axi
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 7.  Select **Save** to continue editing the visualization, or **Save and close** to return to the Analytics Overview main screen.
 
@@ -118,8 +118,3 @@ Select a field to report against. The values from this field appear on the X axi
 -   Select the Report info icon \(\[Omitted image "Form\_ReferenceLookupIcon.png"\] Alt text: Info icon\) and add a description of the report.
 -   Select the sharing icon \(\[Omitted image "ShareIcon.png"\] Alt text: Sharing icon\) to open the **Sharing** menu. On this menu, you can add the report to a dashboard, export the report to PDF, publish the report to the web, and set visibility and schedules.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[list-reports|List reports]]

@@ -20,7 +20,7 @@ In general, currency values crossing the boundaries of the platform represent wh
 
 If using the default `setDisplayValue()` import method, FX Currency works in manner similar to the standard currency field. It imports a value such as `USD;1,234.56` as `setDisplayValue(&quot;USD;1,234.56&quot;)`. It then parses the value as a three letter ISO currency code, followed by a semi-colon, followed by a number formatted in the locale of the user. This method should work for most use cases.
 
-Defaults for other Currency Instance fields come from FX Currency field configuration you defined in **[[system-localization-landing|System Localization]]** &gt; **FX Currency Configuration.** To explicitly set these fields, you can use a custom import script that sets those fields to desired values, possibly using values from another import column.
+Defaults for other Currency Instance fields come from FX Currency field configuration you defined in **System Localization** &gt; **FX Currency Configuration.** To explicitly set these fields, you can use a custom import script that sets those fields to desired values, possibly using values from another import column.
 
 There are various ways to import FX Currency data.
 
@@ -77,13 +77,8 @@ Export to Excel/PDF
 
 </td><td>
 
-Uses the default method of [[c_ExportData|exporting data]] that extracts data from fields using `getDisplayValue()`. For [[fx-currency|FX Currency fields]], using this method returns a formatted currency string of the form $1,234.56. To access specific information inside an FX Currency field directly without any transformations, simply export that column using dot walking.
+Uses the default method of exporting data that extracts data from fields using `getDisplayValue()`. For FX Currency fields, using this method returns a formatted currency string of the form $1,234.56. To access specific information inside an FX Currency field directly without any transformations, simply export that column using dot walking.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[FX Currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency.md)
 
-## Related
-
-- [[system-localization-landing|System Localization]]
-- [[c_ExportData|Exporting data]]
-- [[fx-currency|FX Currency fields]]

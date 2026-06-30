@@ -15,11 +15,11 @@ breadcrumb: [Data required for invoice processing, Reference, Accounts Payable O
 
 # Purchase order lines
 
-Field descriptions for the \[sn\_shop\_purchase\_order\_line\] table, which stores individual line items under a [[purchase-requisition|purchase requisition]] or [[sourcing-request|sourcing request]].
+Field descriptions for the \[sn\_shop\_purchase\_order\_line\] table, which stores individual line items under a purchase requisition or sourcing request.
 
 ## sn\_shop\_purchase\_order\_line table
 
-You can add or associate a [[purchase-order-table|purchase order]] with a purchase order line.
+You can add or associate a purchase order with a purchase order line.
 
 <table id="table_dzw_yl1_1yb"><thead><tr><th>
 
@@ -47,7 +47,7 @@ ERP PO number as unique identifier of the purchase order.
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -106,7 +106,7 @@ Choice list
 
 </td><td>
 
-Applicable only if product type is “Service” or “Handling fee”. The values are: -   [[milestones|Milestones]]
+Applicable only if product type is “Service” or “Handling fee”. The values are: -   Milestones
 -   Service acknowledgement
 -   Two way match
 
@@ -281,7 +281,7 @@ Zip or Postal code where goods will be shipped or where the services are provide
 
 </td></tr><tr><td>
 
-General [[ledger-account|Ledger Account]]
+General Ledger Account
 
 </td><td>
 
@@ -294,11 +294,3 @@ The account to which capital or operational expenses will be posted.
 </td></tr></tbody>
 </table>**Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[milestones|Milestones]]
-- [[ledger-account|Ledger account]]

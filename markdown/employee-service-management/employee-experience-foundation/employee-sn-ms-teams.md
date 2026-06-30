@@ -30,20 +30,15 @@ View the notifications that are sent during specific events in a ticket life cyc
 -   **[Approve or reject requests from Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/actionable-notifications.md)**  
 Approve or reject requests by using the approval notification in Microsoft Teams.
 -   **[Respond to a comment in a notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/comments-notification.md)**  
-A comment in the [[activity-lxp|activity]] stream generates a notification to which the user can respond directly, without leaving Microsoft Teams.
+A comment in the activity stream generates a notification to which the user can respond directly, without leaving Microsoft Teams.
 -   **[View notifications for a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notifications-major-incident-emp.md)**  
 View the notifications that are sent during specific events in a major incident. These notifications are sent to all the stakeholders associated with the major incident.
 -   **[Employee Center dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-center.md)**  
-Use the [[employee-center|Employee Center dashboard]] from Microsoft Teams to view the widgets that show pending tasks, requests, and the internal company announcements.
+Use the Employee Center dashboard from Microsoft Teams to view the widgets that show pending tasks, requests, and the internal company announcements.
 -   **[Access a Microsoft Teams chat in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/access-teams-chat-widget-hr.md)**  
-Access a ticket's Microsoft Teams chat in the [[employee-center-landing-page|Employee Center]].
+Access a ticket's Microsoft Teams chat in the Employee Center.
 -   **[Manage approvals from Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/va-concur.md)**  
 Manage Concur expense approvals using Virtual Agent actionable notifications in Microsoft Teams to resolve the approval directly in the Virtual Agent conversation without involving a live agent.
 
 **Parent Topic:**[Use ITSM and HRSD integrations with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/user-sn-ms-teams.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[employee-center|Employee Center dashboard]]
-- [[employee-center-landing-page|Employee Center]]

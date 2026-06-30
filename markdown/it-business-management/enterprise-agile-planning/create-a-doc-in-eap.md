@@ -26,7 +26,7 @@ Create a Doc at the team-level or planning item level.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  Navigate to a team or planning item that you would like to create a Doc for.
 
@@ -72,6 +72,3 @@ Actions
 
 [Manage pages and subpages within a Doc in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-pages-within-a-doc-in-eap.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

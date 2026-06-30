@@ -15,7 +15,7 @@ breadcrumb: [Log data auto-mapping and mapping, Set up HLA on your instance, Con
 
 # Extract specific log data in Health Log Analytics
 
-Set [[hla-landing-page|Health Log Analytics]] to extract specified terms from logs and map them to specific components.
+Set Health Log Analytics to extract specified terms from logs and map them to specific components.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: evt\_mgmt\_admin
 
 **Parent Topic:**[Log data auto-mapping and mapping in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-automapping.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

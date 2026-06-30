@@ -12,9 +12,9 @@ breadcrumb: [Reference, Security Posture Control, Security Operations]
 
 # Security Posture Control use case: Detecting assets with vulnerabilities and security tool coverage gaps
 
-You can identify assets with critical [[vulnerabilities|vulnerabilities]] and missing critical security [[tools|tools]] such as endpoint protection to prioritize those assets for remediation. [[spc-landing|Security Posture Control]] ships a few policies included with the product to support this use case.
+You can identify assets with critical vulnerabilities and missing critical security tools such as endpoint protection to prioritize those assets for remediation. Security Posture Control ships a few policies included with the product to support this use case.
 
-This use case requires that you install the [[vuln-landing-page|Vulnerability Response]] application and an integration with at least vulnerability assessment product such as Qualys, Rapid7, or Tenable.
+This use case requires that you install the Vulnerability Response application and an integration with at least vulnerability assessment product such as Qualys, Rapid7, or Tenable.
 
 The following policies are included with the Security Posture Control product to support this use case for assets with critical vulnerabilities that are also missing security tool coverage.
 
@@ -22,9 +22,3 @@ The following policies are included with the Security Posture Control product to
 2.  Assets with critical vulnerabilities and missing configuration and patch management.
 3.  Assets with critical vulnerabilities and missing endpoint management.
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[tools|Tools]]
-- [[spc-landing|Security Posture Control]]
-- [[vuln-landing-page|Vulnerability Response]]

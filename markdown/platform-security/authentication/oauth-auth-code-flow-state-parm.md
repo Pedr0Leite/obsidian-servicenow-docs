@@ -14,7 +14,7 @@ breadcrumb: [OAuth authorization code grant flow, Old Inbound integrations exper
 
 # Authorization code flow state parameter requirement
 
-The glide.[[oauth-inbound-and-outbound|oauth]].state.paramater.required system property enables the State parameter to be required in an OAuth [[c_requestAPI|request]] for authorization code flow.
+The glide.oauth.state.paramater.required system property enables the State parameter to be required in an OAuth request for authorization code flow.
 
 ## State parameter
 
@@ -24,7 +24,7 @@ Beginning in the Madrid release, the system property **glide.oauth.state.paramet
 
 ## Validating the state parameter
 
-[[t_CreateEndpointforExternalClients|Create an endpoint for clients to access the instance]]. Initiate an authorization code flow for an oauth\_auth.do. For example:
+Create an endpoint for clients to access the instance. Initiate an authorization code flow for an oauth\_auth.do. For example:
 
 ```
 http://myinstance.service-now.com/oauth_auth.do?grant_type=authorization_code&client_id=e9dba45b380d1300e676ccc91cef468f&response_type=code
@@ -54,8 +54,3 @@ The State parameter is automatically added when redirected by oauth\_auth.do.
 http://myinstance.service-now.com/oauth_auth.do?response_type=code&amp;state=-790938844&amp;redirect_uri=http://10.11.95.5:16001/oauth_redirect.do&amp;client_id=e9dba45b380d1300e676ccc91cef468f
 ```
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[t_CreateEndpointforExternalClients|Create an endpoint for clients to access the instance]]

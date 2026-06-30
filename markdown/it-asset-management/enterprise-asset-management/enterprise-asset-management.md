@@ -34,11 +34,11 @@ You can also listen to the Enterprise Asset Management TechBytes podcast on the 
 
 </td><td>
 
-[Manage\[Omitted image "bus-manage.svg"\] Alt text:Create and manage your enterprise [[c_Models|models]] and assets.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-assets-models.md)
+[Manage\[Omitted image "bus-manage.svg"\] Alt text:Create and manage your enterprise models and assets.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-assets-models.md)
 
 </td></tr><tr><td>
 
-[Procure\[Omitted image "bus-contract.svg"\] Alt text:Create and manage your enterprise asset inventory and [[c_Contracts|contracts]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-inv-contracts.md)
+[Procure\[Omitted image "bus-contract.svg"\] Alt text:Create and manage your enterprise asset inventory and contracts.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-eam-inv-contracts.md)
 
 </td><td>
 
@@ -50,11 +50,11 @@ You can also listen to the Enterprise Asset Management TechBytes podcast on the 
 
 </td></tr><tr><td>
 
-[Mobile experiences\[Omitted image "bus-mobile-native.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-enterprise-assets-tasks-mobile-app.md)Use the Mobile application to [[create-manage-enterprise-assets|create and manage enterprise assets]] and asset tasks.
+[Mobile experiences\[Omitted image "bus-mobile-native.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-enterprise-assets-tasks-mobile-app.md)Use the Mobile application to create and manage enterprise assets and asset tasks.
 
 </td><td>
 
-[Acquire\[Omitted image "bus-asset.svg"\] Alt text:Use the [[c_Procurement|Procurement]] application to source and receive requested enterprise assets.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/procuring-assets.md)
+[Acquire\[Omitted image "bus-asset.svg"\] Alt text:Use the Procurement application to source and receive requested enterprise assets.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/procuring-assets.md)
 
 </td><td>
 
@@ -66,9 +66,3 @@ You can also listen to the Enterprise Asset Management TechBytes podcast on the 
 -   [Ask questions and explore other resources for Enterprise Asset Management in the ServiceNow community](https://www.servicenow.com/community/eam/ct-p/enterprise-asset-management)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]
-- [[create-manage-enterprise-assets|Create and manage enterprise assets]]
-- [[c_Procurement|Procurement]]

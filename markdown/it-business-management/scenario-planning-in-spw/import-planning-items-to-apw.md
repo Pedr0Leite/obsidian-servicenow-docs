@@ -14,7 +14,7 @@ breadcrumb: [Execute work in PPM, Agile 2.0, and SAFe, Portfolio Planning in Str
 
 # Import records to Strategic Planning Workspace
 
-Import records from [[agile-landing-page|Agile Development 2.0]], after the relevant table maps, fields maps, and choice maps are configured.
+Import records from Agile Development 2.0, after the relevant table maps, fields maps, and choice maps are configured.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_align\_core.apw\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Strategic Planning** &gt; **Integrations**.
 
 2.  Select **ServiceNow Internal** Alignment Integration type.
 
@@ -43,7 +43,3 @@ An import request is created and a link is shared to track the progress of the r
 
 **Note:** If you want to import records for a specific table map, click the **Import** button that is available for the respective table map.
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

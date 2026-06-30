@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Set the proxy server initial memory limit and upper bound memory limit
 
-Set the initial memory limit and upper bound memory limit to specify how much memory the proxy server can consume. Set these limits to avoid performance issues in your [[edge-encryption|Edge Encryption]] implementation.
+Set the initial memory limit and upper bound memory limit to specify how much memory the proxy server can consume. Set these limits to avoid performance issues in your Edge Encryption implementation.
 
 ## Before you begin
 
@@ -99,6 +99,3 @@ wrapper.java.additional.5 = -Xmx6144m
 
 **Next topic:**[Start the Edge Encryption proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_RuntheProxy.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]

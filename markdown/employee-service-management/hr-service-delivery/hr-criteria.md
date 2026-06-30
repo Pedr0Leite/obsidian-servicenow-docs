@@ -14,9 +14,9 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # HR criteria
 
-HR criteria defines the audience for HR content, services, or cases. You can make information available to or [[search-hr-case|create an HR case]] for specific groups, individuals, or to all employees using HR criteria.
+HR criteria defines the audience for HR content, services, or cases. You can make information available to or create an HR case for specific groups, individuals, or to all employees using HR criteria.
 
-HR criteria uses the standard platform condition builder to support complex conditions for controlling the [[employee-center-landing-page|Employee Center]] content that employees see when logged in. For more information, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
+HR criteria uses the standard platform condition builder to support complex conditions for controlling the Employee Center content that employees see when logged in. For more information, see [Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md).
 
 HR criteria contains a script include that can be called from an advanced User criteria.
 
@@ -29,16 +29,16 @@ HR criteria define conditions that are evaluated against HR tables. Once HR crit
 HR criteria helps group people using a condition builder on any table. User criteria is used across the ServiceNow platform to filter catalog items, Service Portal widgets, and knowledge articles. User criteria filters users based on role, department, group, location, or company. User criteria can be created when HR criteria is created. HR criteria:
 
 -   Filters content on the Employee Center.
--   Applies only to **Subject person**. HR criteria filters **[[hr-service-administration|HR services]]** based on the **Subject person** during case creation or transfer.
--   Filters **Lifecycle Event Activities** in the **Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \[com.sn\_hr\_lifecycle\_events\]** plugin.
+-   Applies only to **Subject person**. HR criteria filters **HR services** based on the **Subject person** during case creation or transfer.
+-   Filters **Lifecycle Event Activities** in the **Human Resources Scoped App: Lifecycle Events \[com.sn\_hr\_lifecycle\_events\]** plugin.
 -   Selects document template for HR cases.
 -   Selects users when creating bulk HR cases.
 
-For Lifecycle Events, activities have associated HR criteria that determines when to trigger an [[activity-lxp|activity]] for the subject person selected on the Lifecycle event case. This step helps to personalize the workflow for the subject person.
+For Lifecycle Events, activities have associated HR criteria that determines when to trigger an activity for the subject person selected on the Lifecycle event case. This step helps to personalize the workflow for the subject person.
 
 **Note:** For HR Catalog Items \(record producers\), ensure **Use "User Criteria" to define access to catalog items and categories** is set to **Yes** under **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**. Verify that this field is checked **Yes**.
 
-You can use user criteria for Knowledge and Service catalog access. Add a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] column to the User Criteria \[user\_criteria\] table when columns are required for the criteria query.
+You can use user criteria for Knowledge and Service catalog access. Add a reference column to the User Criteria \[user\_criteria\] table when columns are required for the criteria query.
 
 If you use HR criteria for Knowledge and Service catalog access, ensure:
 
@@ -62,7 +62,7 @@ HR criteria uses the standard condition builder. For more information, see [Cond
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Criteria**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Criteria**.
 
 2.  Click **New** or open a record.
 
@@ -145,7 +145,7 @@ Table
 
 Table that the HR condition is associated with.The table HR criteria conditions are defined from.
 
- For example, select the **[[c_HRProfileRecords|HR Profile]] \(sn\_hr\_core\_profile\)** table to select a field and define a condition.
+ For example, select the **HR Profile \(sn\_hr\_core\_profile\)** table to select a field and define a condition.
 
 </td></tr><tr><td>
 
@@ -201,13 +201,4 @@ This condition selects all employees who have a home country of the United State
 
 6.  In the **Conditions** section, you can add more conditions to define the HR criteria.
 
-## Related
 
-- [[search-hr-case|Create an HR case]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-administration|HR services]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_HRProfileRecords|HR Profile]]

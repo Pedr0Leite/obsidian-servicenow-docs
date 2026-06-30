@@ -39,14 +39,14 @@ Action
 </td><td>
 
 1.  Navigate to **All** &gt; **Hardware Assets**.
-2.  [[select-daas-asset|Select an Asset]] tag for which you want to view the RFID information.
+2.  Select an Asset tag for which you want to view the RFID information.
 3.  Select the Preview icon \(\[Omitted image "preview-icon.png"\] Alt text: Preview icon\) beside the **RFID tag** field in the **General** tab.
 4.  Select **Open Record** to view the RFID information of the asset.
 
 
 </td></tr><tr><td id="d192673e107">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
@@ -90,7 +90,7 @@ Action
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -112,11 +112,11 @@ Action
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -134,7 +134,7 @@ Action
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -152,11 +152,3 @@ Action
 
 [Integrating Zebra technology RFID system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/integrating-rfid.md)
 
-## Related
-
-- [[select-daas-asset|Select an asset]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

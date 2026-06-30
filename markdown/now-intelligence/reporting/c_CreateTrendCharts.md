@@ -16,7 +16,7 @@ breadcrumb: [Report types, Reporting, Reporting, dashboards, and Performance Ana
 
 Trend reports show how the value of one or more items changes over time. Values along the horizontal axis of the trend report represent the time measurement. Values on the vertical axis represent the changes to the items being monitored.
 
-Users with the report\_admin role can define the ranges that are used in a trend chart report. See [Report ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportRanges.md) for information on creating [[c_ReportRanges|report ranges]].
+Users with the report\_admin role can define the ranges that are used in a trend chart report. See [Report ranges](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportRanges.md) for information on creating report ranges.
 
 An example of an item that changes over time is incident count. The incident count will likely increase during the first few months after a product upgrade is released. Over time, the number of incidents reported drops as users become more accustomed to the changes in the product.
 
@@ -34,7 +34,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations** and select **New**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
 2.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -54,7 +54,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d107186e190">
 
@@ -226,7 +226,7 @@ Check box to include the Other group in the report. The Other group contains dat
 
     2.  Select the sort plus icon \(\[Omitted image "sort-order-plus-icon.png"\] Alt text: Sort plus icon\) to configure additional sorting order conditions. \(Select the sort minus icon \( \[Omitted image "sort-order-minus-icon.png"\] Alt text: Sort minus icon\) to delete configured sorting order conditions.\)
     3.  Select **Save**.
-    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and [[c_HeatmapCharts|heatmap reports]], sort order is determined by the sequence of the choices in the list.
+    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and heatmap reports, sort order is determined by the sequence of the choices in the list.
 
     \[Omitted image "choice-list-sort-order.png"\] Alt text: Report sorted by priority choice list
 
@@ -234,7 +234,7 @@ Check box to include the Other group in the report. The Other group contains dat
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 8.  On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -274,9 +274,9 @@ Source of colors used in the report.If you do not group or stack the report, **U
 
  If you group or stack the report, select one of the following options:
 
--   **Use color palette**: Select a color palette from the predefined system [[color-palettes|color palettes]].
+-   **Use color palette**: Select a color palette from the predefined system color palettes.
 -   **Use several colors**: Define a custom set of **Colors** using hex codes. You can add any number of colors.
--   **Use [[c_ChartColors|chart colors]]**: Use the colors defined in **Reports** &gt; **Chart Colors**.
+-   **Use chart colors**: Use the colors defined in **Reports** &gt; **Chart Colors**.
 
  For more information about the differences between these options, see [Predefined colors in reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/colors-reports.md).
 
@@ -589,13 +589,3 @@ Enable this option to show the labels of the report in a bold typeface.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ReportRanges|Report ranges]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[c_HeatmapCharts|Heatmap reports]]
-- [[list-reports|List reports]]
-- [[color-palettes|Color palettes]]
-- [[c_ChartColors|Chart colors]]

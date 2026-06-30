@@ -20,7 +20,7 @@ Different applications such as Discovery and Service Mapping create relationship
 
 Relationship governance rules consist of:
 
--   [CMDB dependent relationship rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ServiceRulesMetadata.md): Rules \(hosting and containment rules\) that are used for CI identification. You can view and modify dependent relationship rules in the [[ci-class-manager-landing-page|CI Class Manager]], after selecting a class from the class hierarchy and clicking **Dependent Relationship**.
+-   [CMDB dependent relationship rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ServiceRulesMetadata.md): Rules \(hosting and containment rules\) that are used for CI identification. You can view and modify dependent relationship rules in the CI Class Manager, after selecting a class from the class hierarchy and clicking **Dependent Relationship**.
 -   [Suggested relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_SuggestedRelationshipModel.md): Rules that are based on existing suggested relationships in the Suggested Relationship \[cmdb\_rel\_type\_suggest\] table. Suggested relationships are used in the [CI relationship editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_RelationshipEditor.md). You can view and modify suggested relationships in the CI Class Manager, after selecting a class from the class hierarchy and clicking **Suggested Relationships**.
 -   [Reference rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ServiceRulesMetadata.md): Rules that are used mostly by Cloud Management to represent all the possible valid combinations of pairs of referencing and referenced CIs in the service definition.
 -   Built-in valid relationships: The following relationships are pre-defined in the base system as valid relationships:
@@ -66,6 +66,3 @@ A relationship between CIs is considered valid if it conforms to any of the rela
 
 [Create a CI relation rollup]()
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]

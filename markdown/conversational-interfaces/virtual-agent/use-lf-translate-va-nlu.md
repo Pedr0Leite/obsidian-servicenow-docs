@@ -14,11 +14,11 @@ breadcrumb: [Localizing Virtual Agent conversations, Localization options for Vi
 
 # Localize Virtual Agent topics that use NLU topic discovery
 
-Use the ServiceNow Localization Framework to manage the process of [[localize-va-topic|localizing Virtual Agent conversations]] that use Natural Language Understanding \(NLU\).
+Use the ServiceNow Localization Framework to manage the process of localizing Virtual Agent conversations that use Natural Language Understanding \(NLU\).
 
 ## Before you begin
 
-Check the prerequisites for translating [[virtual-agent-landing-page|Virtual Agent]] components. For more information, see [Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md).
+Check the prerequisites for translating Virtual Agent components. For more information, see [Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md).
 
 Make sure that your Virtual Agent topics are published and performing the way you want them to. Make any adjustments before you send them to localization.
 
@@ -26,7 +26,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  Slide the disovery type toggle switch to **NLU/Keyword**, then select **Manage Languages**
 
@@ -60,7 +60,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Result
 
-When translations are complete, Virtual Agent admins can view, unlock, or edit them from the [[vad-topic-languages-tab|topic Languages tab]] or the Manage languages page.
+When translations are complete, Virtual Agent admins can view, unlock, or edit them from the topic Languages tab or the Manage languages page.
 
 Once translations are published, they are made available to Virtual Agent topics that use keywords dynamically. However, language-specific intent matching is not available until model groups are also translated and published.
 
@@ -77,9 +77,3 @@ Test a translated Virtual Agent topic and the localized NLU model to ensure that
 
 **Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[localize-va-topic|Localizing Virtual Agent conversations]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[vad-topic-languages-tab|Topic Languages tab]]

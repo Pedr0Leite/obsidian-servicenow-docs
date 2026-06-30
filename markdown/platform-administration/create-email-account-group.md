@@ -12,7 +12,7 @@ breadcrumb: [Multiple email readers, Email accounts, Create, Email Administratio
 
 # Create email account groups
 
-Define an email account group that contains a subset of your POP3/IMAP [[c_EmailAccounts|email accounts]]. The email reader job automatically processes each email account group as scheduled.
+Define an email account group that contains a subset of your POP3/IMAP email accounts. The email reader job automatically processes each email account group as scheduled.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin or email\_account\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **Email Account Groups** and click **New**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Account Groups** and click **New**.
 
 2.  Fill in the form.
 
@@ -107,7 +107,3 @@ Read only. The length of time taken by an email reader job to process the accoun
 -   Review [email account group processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-email-account-group.md).
 -   Determine if you want to continue fine-tuning email account processing. You could add another email account group or another email reader job to process email account groups concurrently.
 
-## Related
-
-- [[c_EmailAccounts|Email accounts]]
-- [[c_SystemMailboxes|System mailboxes]]

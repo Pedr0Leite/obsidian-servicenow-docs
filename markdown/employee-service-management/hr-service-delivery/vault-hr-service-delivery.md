@@ -30,7 +30,7 @@ To add columns from an HR application to the classified dictionary entries list,
 
 ServiceNow Vault for HR provides the interface elements and backend process to enable employees and former employees to request deletion of their personal data.
 
-Employees can submit a request to erase personal identifiable data or an HR case associated with their employee record through the **Erasure of personal data** catalog item, available in the **[[employee-center-landing-page|Employee Center]]** &gt; **Human Resources** section.
+Employees can submit a request to erase personal identifiable data or an HR case associated with their employee record through the **Erasure of personal data** catalog item, available in the **Employee Center** &gt; **Human Resources** section.
 
 Former employees can submit the request through **Alumni Service Center** &gt; **Services** &gt; **Erasure of personal data**.
 
@@ -43,6 +43,3 @@ Assign data classifications to HR application-specific table columns in the Dict
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

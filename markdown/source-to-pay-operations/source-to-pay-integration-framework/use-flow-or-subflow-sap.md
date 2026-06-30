@@ -39,7 +39,7 @@ Role required:
 
 4.  Select the required flow from the list.
 
-    For example, select **Create non-[[purchase-order-table|purchase order]] invoice** flow.
+    For example, select **Create non-purchase order invoice** flow.
 
     \[Omitted image "sap-integration-invoice-flow.png"\] Alt text: Overview of the Create non purchase order invoice flow
 
@@ -59,6 +59,3 @@ Role required:
 
 [Copy a flow or subflow in SAP]()
 
-## Related
-
-- [[purchase-order-table|Purchase order]]

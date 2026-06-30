@@ -14,7 +14,7 @@ breadcrumb: [Discover applications based on fingerprints, Running discoveries in
 
 # Calibrate fingerprint-based discovery
 
-Fine-tune discovering applications based on processes, if the [[r-discovery|discovery]] results are not satisfactory.
+Fine-tune discovering applications based on processes, if the discovery results are not satisfactory.
 
 Modify default settings for fingerprint-based discovery if this feature does not generate any suggestions or does not generate. In addition, you may also fine-tune the generated suggestions to make them relevant and useful.
 
@@ -220,6 +220,3 @@ Role required: discovery\_admin
 
 [Troubleshooting Guide for ML Connection Suggestions](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0963421)
 
-## Related
-
-- [[r-discovery|Discovery]]

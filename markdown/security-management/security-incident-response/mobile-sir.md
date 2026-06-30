@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response, Enterprise security case management app
 
 # Mobile Experience for Security Incident Response
 
-Use your Android or iOS mobile device to manage your [[security-operations-landing-page|security operations]] center \(SOC\) tasks.
+Use your Android or iOS mobile device to manage your security operations center \(SOC\) tasks.
 
 ## Request apps on the Store
 
@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Security Incident Response
 
-If you’re unfamiliar with the basic concepts of the [[sir-landing-page|Security Incident Response]] \( SIR\) product on your ServiceNow AI Platform® instance, see [Security Incident Response Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SIROverview.md) for more information about [[threat-intel-landing-page|threat intelligence]] and how this product can help you prioritize and resolve cyberthreats to your organization.
+If you’re unfamiliar with the basic concepts of the Security Incident Response \( SIR\) product on your ServiceNow AI Platform® instance, see [Security Incident Response Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SIROverview.md) for more information about threat intelligence and how this product can help you prioritize and resolve cyberthreats to your organization.
 
 ## Mobile experience for SIR overview
 
@@ -36,7 +36,7 @@ With the Security Incident Response Mobile app, you can perform the following SI
 -   View the work notes and related lists of security incidents.
 -   Update security incidents and add work notes or attachments.
 -   Edit the fields on security incidents.
--   [[assign-security-incident|Assign security incidents]] to yourself or to other members of your security team.
+-   Assign security incidents to yourself or to other members of your security team.
 
 When they’re populated, you can view the following related lists on SIR security incidents with the Security Incident Response Mobile app:
 
@@ -45,7 +45,7 @@ When they’re populated, you can view the following related lists on SIR securi
 -   Affected Services
 -   Child Security Incidents
 -   Similar Security Incidents \(not support by ServiceNow AI Platform\)
--   [[c_Observables|Observables]]
+-   Observables
 -   Response Tasks
 -   Tasks
 -   Task SLA
@@ -57,7 +57,7 @@ For step-by-step instructions about how to set up your ServiceNow AI Platform in
 
 -   **Applications**
 
-    Applications are the ServiceNow® software components such as Security Incident Response \(SIR\), [[vuln-landing-page|Vulnerability Response]] \(VR\), Governance, Risk, and Compliance \(GRC\) that provide specific features and functionalities within your ServiceNow AI Platform instance. After you install the Security Incident Response core application and the Security Incident Response Mobile app on your ServiceNow AI Platform instance, the icon for the core application is displayed on the bottom of your Android or iOS mobile device after you log in.
+    Applications are the ServiceNow® software components such as Security Incident Response \(SIR\), Vulnerability Response \(VR\), Governance, Risk, and Compliance \(GRC\) that provide specific features and functionalities within your ServiceNow AI Platform instance. After you install the Security Incident Response core application and the Security Incident Response Mobile app on your ServiceNow AI Platform instance, the icon for the core application is displayed on the bottom of your Android or iOS mobile device after you log in.
 
 -   **Folders**
 
@@ -67,11 +67,4 @@ For step-by-step instructions about how to set up your ServiceNow AI Platform in
 
     Applets are the different options within the application. The icons under the **Security Incidents** and **Incident Response Tasks** sections are the available applets of the Security Incident Response Mobile app.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[assign-security-incident|Assign Security Incidents]]
-- [[c_Observables|Observables]]
-- [[vuln-landing-page|Vulnerability Response]]

@@ -13,7 +13,7 @@ breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
 
 # Troubleshoot a Now Assist skill
 
-Run diagnostics for a skill on the [[platform-now-assist-landing|Now Assist]] Admin console and get information about the status of your skill configuration.
+Run diagnostics for a skill on the Now Assist Admin console and get information about the status of your skill configuration.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Certain skills have diagnostic scripts that you can run from the Now Assist Admi
 
     If you’re already in the Now Assist Admin console, select the **Now Assist Features** tab.
 
-2.  In the [[now-assist-global-navigation|navigation]] pane, select the workflow of the skill that you want to troubleshoot, such as **Technology** or **Customer**.
+2.  In the navigation pane, select the workflow of the skill that you want to troubleshoot, such as **Technology** or **Customer**.
 
 3.  On the feature card that contains the skill you want to troubleshoot, select **View details**.
 
@@ -44,15 +44,9 @@ Certain skills have diagnostic scripts that you can run from the Now Assist Admi
 
 ## What to do next
 
-If you have identified any problems with your skill configuration, you can [[edit-a-now-assist-skill|edit the skill]] from the Now Assist Admin console.
+If you have identified any problems with your skill configuration, you can [edit the skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/edit-a-now-assist-skill.md) from the Now Assist Admin console.
 
 If editing the skill does not solve the issue, you can [contact ServiceNow Support](http://www.servicenow.com/support/contact-support.html) for additional help.
 
-**Parent Topic:**[[now-assist-reference-landing|Now Assist reference]]
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
-## Related
-
-- [[edit-a-now-assist-skill|Edit a Now Assist skill]]
-- [[now-assist-reference-landing|Now Assist reference]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]

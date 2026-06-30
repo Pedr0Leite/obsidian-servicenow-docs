@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Biomed, Healthcare Operations, 
 
 # Set up work order synchronization in Care Team Operations for Biomed
 
-The Field Service Management \[com.snc.work\_management\] plugin is required for work order synchronization to function with [[care-team-operations-for-biomed|Care Team Operations for Biomed]].
+The Field Service Management \[com.snc.work\_management\] plugin is required for work order synchronization to function with Care Team Operations for Biomed.
 
 For Care Team Operations for Biomed to create work orders from Healthcare Biomed cases, the Field Service Management \[com.snc.work\_management\] plugin must be installed.
 
@@ -26,6 +26,3 @@ Work orders won’t be created from healthcare biomed cases. Instead, agents wor
 
 Cases created are assigned to assignment groups based on the requesting location associations and are configured normally with CSM case management functionality.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]

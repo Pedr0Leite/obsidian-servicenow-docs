@@ -14,7 +14,7 @@ breadcrumb: [Configure Threat Lookup, TISC Enrichment integrations, TISC Integra
 
 # View Threat Lookup Reputation Calculators
 
-You can view the [[tisc-threat-lookup|Threat Lookup]] Finding Calculator to calculate the observable findings for your integration.
+You can view the Threat Lookup Finding Calculator to calculate the observable findings for your integration.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ To learn more about the Threat Lookup Reputation Calculators, see [Managing the 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select the **Threat Lookup Reputation Calculator** section.
 
@@ -51,7 +51,3 @@ To learn more about the Threat Lookup Reputation Calculators, see [Managing the 
 
 **Parent Topic:**[Configure Threat Lookup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/configure-threat-lookup.md)
 
-## Related
-
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

@@ -16,7 +16,7 @@ breadcrumb: [Catalog item generation reference, Now Assist in Catalog Builder, S
 
 When creating or editing a catalog item, you can use plain language to assign values for catalog, category, or topic. If the value you provide matches an existing entry, Now Assist automatically applies it to the item. This streamlines the process and reduces manual data entry.
 
-Content generation by Now Assist within [[catalog-builder|Catalog Builder]] is limited to Topic, Catalog, and Category fields. It does not generate values for Location or other fields outside this set. Users can only select a Catalog, Category, or Topic from the list that already exists.
+Content generation by Now Assist within Catalog Builder is limited to Topic, Catalog, and Category fields. It does not generate values for Location or other fields outside this set. Users can only select a Catalog, Category, or Topic from the list that already exists.
 
 When you enter a value, Now Assist searches for an exact match. The system handles the different scenarios as follows:
 
@@ -62,11 +62,7 @@ A catalog item can belong to more than one catalog, category, or topic. Now Assi
     If you request updates to multiple fields at once, and some of those fields are locked by a template while others are not, Now Assist will:
 
     -   Apply the changes to any fields that are allowed to be updated.
-    -   [[notify-landing-page|Notify]] you about which fields could not be changed due to template control.
+    -   Notify you about which fields could not be changed due to template control.
 
 **Parent Topic:**[Catalog item generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]
-- [[notify-landing-page|Notify]]

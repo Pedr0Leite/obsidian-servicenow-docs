@@ -49,7 +49,7 @@ Agents can also navigate to **Self-Service** &gt; **My Assessments &amp; Surveys
 
 ## Result
 
-The questionnaire is submitted. In case of [[smart-assessment-questionnaire|smart assessment questionnaires]], you can edit the responses in the questionnaire from the **Questionnaires Completed** screen.
+The questionnaire is submitted. In case of smart assessment questionnaires, you can edit the responses in the questionnaire from the **Questionnaires Completed** screen.
 
 ## What to do next
 
@@ -60,6 +60,3 @@ Complete any remaining work and then close the task.
 
 [Configuring survey-based work order questionnaires](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/work-order-questionnaire.md)
 
-## Related
-
-- [[smart-assessment-questionnaire|Smart Assessment Questionnaires]]

@@ -14,13 +14,13 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Downgrade Rights
 
-The concept of downgrading licenses is built into the [[c_SoftwareAssetMgmt|Software Asset Management]] plugin feature. Downgrading rights is the process of having acquired the rights to the latest version of software but using the rights to license earlier versions of the same software.
+The concept of downgrading licenses is built into the Software Asset Management plugin feature. Downgrading rights is the process of having acquired the rights to the latest version of software but using the rights to license earlier versions of the same software.
 
 Downgrade rights are added at the software model level.
 
-The [[c_SAMContentService|Software Asset Management Content Service]] generates downgrade rights. The downgrade rights correspond to a discovery map. The **Download software content: Downgrade Rights** scheduled job that runs weekly, gets the downgrade rights from the Software Asset Management Content Service and pushes the data to the Downgrade Rights \[samp\_dmap\_downgrade\_model\] table.
+The Software Asset Management Content Service generates downgrade rights. The downgrade rights correspond to a discovery map. The **Download software content: Downgrade Rights** scheduled job that runs weekly, gets the downgrade rights from the Software Asset Management Content Service and pushes the data to the Downgrade Rights \[samp\_dmap\_downgrade\_model\] table.
 
-Another scheduled job, **SAM- Create downgrades/upgrades for a software entitlement**, picks up the information from the \[samp\_dmap\_downgrade\_model\] table. The table propagates the next version and the downgrade rights on the existing [[c_CreatingSoftwareModels|software models]] and their corresponding entitlements.
+Another scheduled job, **SAM- Create downgrades/upgrades for a software entitlement**, picks up the information from the \[samp\_dmap\_downgrade\_model\] table. The table propagates the next version and the downgrade rights on the existing software models and their corresponding entitlements.
 
 If there’s no software model corresponding to a discovery map, when populating the Downgrade Rights \[samp\_sw\_downgrade\_model\] table, a new software model is automatically created.
 
@@ -93,8 +93,3 @@ Concurrent Licenses
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_CreatingSoftwareModels|Software models]]

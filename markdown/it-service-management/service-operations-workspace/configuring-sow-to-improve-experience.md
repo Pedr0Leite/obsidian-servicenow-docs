@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Operations Workspace for ITSM, Service Operatio
 
 # Configuring Service Operations Workspace for ITSM to improve your experience
 
-Besides the configurations that are part of the essential setup for implementing [[sow-landing-page|Service Operations Workspace for ITSM]], you can still improve your Service Operations Workspace for ITSM experience with a few configurations.
+Besides the configurations that are part of the essential setup for implementing Service Operations Workspace for ITSM, you can still improve your Service Operations Workspace for ITSM experience with a few configurations.
 
 -   **[Assign the service desk agent role to the user in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/assign-service-desk-agent-role-sow.md)**  
 Assign the service desk agent role to users to enable them to manage incidents, fulfill service requests, and offer user support.
@@ -58,6 +58,3 @@ Enable an agent \(with the sn\_openframe\_user role\) to receive inbound calls a
 
 [Admin Center in Service Operations Workspace for ITSM]()
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

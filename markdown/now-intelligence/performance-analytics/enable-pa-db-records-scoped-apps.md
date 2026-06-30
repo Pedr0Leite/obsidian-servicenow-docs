@@ -14,7 +14,7 @@ breadcrumb: [Share a responsive dashboard, Working with responsive dashboards, C
 
 # Enable pa\_dashboard records in scoped applications
 
-When application administration is enabled for a scoped application, [[access-control|access control]] list \(ACL\) rules for the scoped application are applied. To allow your scope to use the ACLs defined on the \[pa\_dashboards\] table but out of your scoped app, inherit the \[pa\_dashboards\] ACLs.
+When application administration is enabled for a scoped application, access control list \(ACL\) rules for the scoped application are applied. To allow your scope to use the ACLs defined on the \[pa\_dashboards\] table but out of your scoped app, inherit the \[pa\_dashboards\] ACLs.
 
 ## Before you begin
 
@@ -40,13 +40,9 @@ Scope required: the scope of your application.
 
     -   Portal Page \[sys\_portal\_page\]
     -   Tabs \[pa\_tabs\]
-    -   [[c_DashboardRoles|Dashboard Permissions]] \[pa\_dashboards\_permissions\]
+    -   Dashboard Permissions \[pa\_dashboards\_permissions\]
 6.  If multiple reports have the same issue, create a record for each of these tables:
 
     -   Reports \[sys\_report\]
     -   Report Users and Groups \[sys\_report\_users\_groups\]
 
-## Related
-
-- [[access-control|Access control]]
-- [[c_DashboardRoles|Dashboard permissions]]

@@ -14,7 +14,7 @@ breadcrumb: [Security incident map, Security Incident Response Overview dashboar
 
 # Add map to Security Incident Response overview
 
-You can add the map to the [[sir-landing-page|Security Incident Response]] overview to view security incident data by geographical [[location|location]]. A map allows you to drill down to security incident information by location.
+You can add the map to the Security Incident Response overview to view security incident data by geographical location. A map allows you to drill down to security incident information by location.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_si.admin
 
 4.  In the second selection box, select **Security Incident**.
 
-5.  In the third selection box, select **[[c_SecurityIncidentGeoHeatmap|Security Incident map]]**.
+5.  In the third selection box, select **Security Incident map**.
 
 6.  At the bottom of the screen, select the location on the screen you want to add to the report.
 
@@ -39,8 +39,3 @@ Role required: sn\_si.admin
 
 **Parent Topic:**[Security incident map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/c_SecurityIncidentGeoHeatmap.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[location|Location]]
-- [[c_SecurityIncidentGeoHeatmap|Security incident map]]

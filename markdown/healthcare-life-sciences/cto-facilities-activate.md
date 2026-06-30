@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Facilities, Healthcare Operatio
 
 # Install Care Team Operations for Facilities
 
-Install the [[cto-facilities-landing|Care Team Operations for Facilities]] application \[sn\_cto\_facilities\] if you have the admin role.
+Install the Care Team Operations for Facilities application \[sn\_cto\_facilities\] if you have the admin role.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 The application includes demo data for Care Team Operations for Facilities and installs related applications and plugins if they aren’t already installed.
 
-**Note:** The Care Team Operations for Facilities application is dependent on the [[hcls-cto-app|Healthcare Operations Core]] application.
+**Note:** The Care Team Operations for Facilities application is dependent on the Healthcare Operations Core application.
 
 ## Procedure
 
@@ -38,7 +38,4 @@ The application includes demo data for Care Team Operations for Facilities and i
 
 4.  Select **Install**.
 
-## Related
 
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[hcls-cto-app|Healthcare Operations Core]]

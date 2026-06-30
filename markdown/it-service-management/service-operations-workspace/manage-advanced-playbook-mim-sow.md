@@ -20,7 +20,7 @@ Manage a major incident using the Advanced MI playbook that's available on the c
 
 The incident must be proposed as a major incident candidate. For more information, see [Propose a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/propose-major-incident-sow.md).
 
-The Advanced MI playbook must be assigned to Major [[c_IncidentManagement|Incident Management]]. For more information, see [Assign a playbook to Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/assign-playbook-mim-sow.md).
+The Advanced MI playbook must be assigned to Major Incident Management. For more information, see [Assign a playbook to Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/assign-playbook-mim-sow.md).
 
 Role required: major\_incident\_manager or admin
 
@@ -86,7 +86,7 @@ The Advanced MI playbook in Service Operations Workspace provides a guided appro
     **Note:** This section is visible in the playbook only if:
 
     -   The incident doesn’t have a problem record associated with it.
-    -   The [[c_ProblemManagement|Problem Management]] Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin is activated on the instance.
+    -   The Problem Management Best Practice - Madrid - State Model \(com.snc.best\_practice.problem.madrid.state\_model\) plugin is activated on the instance.
     -   The **Create problem from major incident** flow is inactive on the instance. This flow is shipped as part of the base system in the **Inactive** status. Once activated, it creates a problem record automatically when an incident is promoted to a major incident.
     You can also configure if the incident field information is copied automatically to the respective fields in a problem record using the **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) system property when a problem record is created. For more information, see [Create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-a-problem-v2.md).
 
@@ -103,7 +103,3 @@ The Advanced MI playbook in Service Operations Workspace provides a guided appro
 
 **Parent Topic:**[Managing major incidents using playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-mi-playbook-sow.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]

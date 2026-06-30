@@ -14,7 +14,7 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 # Schedule conflicts between project tasks
 
-Scheduling conflict helps you to identify [[t_CreateAProjectTask|project tasks]] that are not honoring dependencies. A scheduling conflict occurs when one project task prevents other task from starting on the specified date because of dependencies or constraint types.
+Scheduling conflict helps you to identify project tasks that are not honoring dependencies. A scheduling conflict occurs when one project task prevents other task from starting on the specified date because of dependencies or constraint types.
 
 A scheduling conflict occurs when any action such as applying a dependency, changing constraint type, or constraint date causes the task start date to violate the project's constraint date.
 
@@ -38,7 +38,7 @@ If you want the task to honor the dependency and adjust the start accordingly, c
 When a scheduling conflict is identified, you can identify such tasks in the planning console.
 
 -   The client-side planning console displays a pop-up message with an option to proceed with the conflict or cancel the action. If you proceed with the conflict, the constraint type is applied or date is changed appropriately to the next feasible date.
--   The calendar icon \(\[Omitted image "calendar-icon.png"\] Alt text: Calendar icon\) on the [[client-side-planning-console|client side planning console]] changes to red \(\[Omitted image "pc-task-dep-icon.png"\] Alt text: Conflict icon\) to indicate the conflict.
+-   The calendar icon \(\[Omitted image "calendar-icon.png"\] Alt text: Calendar icon\) on the client side planning console changes to red \(\[Omitted image "pc-task-dep-icon.png"\] Alt text: Conflict icon\) to indicate the conflict.
 -   The calendar icon on the server side planning console changes to red \(\[Omitted image "pc-task-dep-icon.png"\] Alt text: Conflict icon\) to indicate the conflict.
 
 **Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
@@ -68,7 +68,3 @@ When a scheduling conflict is identified, you can identify such tasks in the pla
 
 [Project and portfolio funding]()
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[client-side-planning-console|Client side planning console]]

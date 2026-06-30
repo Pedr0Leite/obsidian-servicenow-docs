@@ -14,7 +14,7 @@ breadcrumb: [Using knowledge blocks, Using Knowledge Management, Knowledge Manag
 
 # Knowledge blocks authoring in Agent Workspace
 
-Reuse content by creating, editing, and publishing [[knowledge-blocks|knowledge blocks]] in Agent Workspace.
+Reuse content by creating, editing, and publishing knowledge blocks in Agent Workspace.
 
 You can perform the following knowledge blocks-related tasks in Agent Workspace:
 
@@ -26,6 +26,3 @@ You can perform the following knowledge blocks-related tasks in Agent Workspace:
 
 -   [Retire a knowledge block not used in any knowledge articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/retire-block-agent.md).
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

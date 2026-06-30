@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace** and select a document task.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace** and select a document task.
 
 2.  On the **Inbound Documents** tab, choose a document.
 
@@ -44,6 +44,3 @@ The Document Verification stage shows as complete, and the case automatically ad
 
 Continue to the [Due Diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-customer-lifecycle-operations/perform-due-diligence.md) stage.
 
-## Related
-
-- [[fso-overview|Financial Services]]

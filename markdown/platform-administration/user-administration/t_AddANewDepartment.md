@@ -14,7 +14,7 @@ breadcrumb: [Creating users, companies, departments, User administration, Config
 
 # Add a department
 
-Departments provide another way to categorize users, groups, and [[ia-assets|assets]]. You can add departments and assign them to users.
+Departments provide another way to categorize users, groups, and assets. You can add departments and assign them to users.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ An administrator may need to configure the form to show all the fields listed in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Departments** &gt; **Create a new record**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Departments** &gt; **Create a new record**.
 
 2.  Enter or modify the department name, ID, and description.
 
@@ -39,7 +39,3 @@ An administrator may need to configure the form to show all the fields listed in
 
 **Parent Topic:**[Creating users, companies, and departments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/using-user-administration.md)
 
-## Related
-
-- [[ia-assets|Assets]]
-- [[c_UserAdministration|User administration]]

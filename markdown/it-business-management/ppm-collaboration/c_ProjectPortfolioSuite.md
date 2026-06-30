@@ -68,54 +68,37 @@ Learn more about Project Portfolio Management \(PPM\) with a sample workflow and
 -   **[Activate PPM Standard \(Project Portfolio Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/t_ActivateProjectPortfolioSuiteWithFinancials.md)**  
 Activate the PPM Standard plugin \(com.snc.financial\_planning\_pmo\) if you have the admin role. This plugin installs the Project Portfolio Management applications.
 -   **[Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-landing.md)**  
-The [[innovation-management-landing|Innovation Management]] enables you to gather and [[evaluate-ideas-actions|evaluate ideas]] efficiently, and to quickly identify and process the ideas with the greatest potential for implementation.
+The Innovation Management enables you to gather and evaluate ideas efficiently, and to quickly identify and process the ideas with the greatest potential for implementation.
 -   **[Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_DemandManagement.md)**  
-The [[c_DemandManagement|Demand Management]] application consists of tools for capturing, centralizing, and assessing strategic and operational demands. It also provides a single location for managing all the demand information.
+The Demand Management application consists of tools for capturing, centralizing, and assessing strategic and operational demands. It also provides a single location for managing all the demand information.
 -   **[Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectApplicationOverview.md)**  
-The ServiceNow® [[c_ProjectApplicationOverview|Project Management]] application is a suite of tools that aids in managing projects, tasks, and resources. You can create and manage small projects with a few tasks to large portfolios that contain complex tasks with various relationships and dependencies.
+The ServiceNow® Project Management application is a suite of tools that aids in managing projects, tasks, and resources. You can create and manage small projects with a few tasks to large portfolios that contain complex tasks with various relationships and dependencies.
 -   **[Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md)**  
-ServiceNow® [[project-workspace-landing-page|Project Workspace]] helps project managers to plan and manage projects from a central location.
+ServiceNow® Project Workspace helps project managers to plan and manage projects from a central location.
 -   **[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)**  
 Define, plan, track, and monitor your projects from a single location. View status reports and KPIs to take further actions for the project.
 -   **[Investment Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/investment-portal.md)**  
-Completing projects and demands on time within budget is a challenge. [[investment-portal|Investment Portal]] gives you a comprehensive view of project and demand financials, deadlines, and other important metrics in an intuitive user interface that makes project and demand management more efficient.
+Completing projects and demands on time within budget is a challenge. Investment Portal gives you a comprehensive view of project and demand financials, deadlines, and other important metrics in an intuitive user interface that makes project and demand management more efficient.
 -   **[Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-wrkspc.md)**  
-The ServiceNow® [[rsrc-mgmt-wrkspc|Resource Management Workspace]] helps Resource Managers have a centralized view of all work across all resources.
+The ServiceNow® Resource Management Workspace helps Resource Managers have a centralized view of all work across all resources.
 -   **[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)**  
-The ServiceNow® Resource Management application enables resource requesters, such as project managers or change managers, to create [[c_ResourcePlans|resource plans]], [[t_RequestResourcePlanApproval|request resources]], and analyze resource availability and utilization.
+The ServiceNow® Resource Management application enables resource requesters, such as project managers or change managers, to create resource plans, request resources, and analyze resource availability and utilization.
 -   **[Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-management/c_PortfolioManagement.md)**  
-With the ServiceNow® [[c_PortfolioManagement|Portfolio Management]] application, you can create portfolios which are collections of related programs, projects, and demands. You can then perform financial planning and monitor the status and progress of these portfolios.
+With the ServiceNow® Portfolio Management application, you can create portfolios which are collections of related programs, projects, and demands. You can then perform financial planning and monitor the status and progress of these portfolios.
 -   **[Program Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagement.md)**  
-A program helps you to logically group related projects or demands under a single entity. The ServiceNow® [[c_ProgramManagement|Program Management]] application helps you to manage related projects and demands in coordinated way which is not possible when projects and demands are managed independently.
+A program helps you to logically group related projects or demands under a single entity. The ServiceNow® Program Management application helps you to manage related projects and demands in coordinated way which is not possible when projects and demands are managed independently.
 -   **[Rate Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/rate-model.md)**  
 Use a rate model to derive date-effective, criteria-driven hourly rates for calculating planned and actual resource costs for a project or demand.
 -   **[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)**  
-The [[time-card-management|Time Card Management]] feature enables time card users such as task assignees to report and track their time for the assigned tasks.
+The Time Card Management feature enables time card users such as task assignees to report and track their time for the assigned tasks.
 -   **[Monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/monetary-non-monetary-benefit-plans.md)**  
 Benefit plans capture the potential benefits accrued by the work item when the work item is executed. You can create benefit plans to specify the estimated benefits in a category for a fiscal period.
 -   **[Strategic Spend Tracking for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/ppm-strategic-spend-tracking-overview.md)**  
-[[ppm-strategic-spend-tracking-overview|Strategic Spend Tracking for PPM]] enables project or demand managers to evaluate the strategic value of organization’s projects and demands. You can identify the purpose and benefits of executing demands and projects and how they contribute to achieving company's strategies and goals.
+Strategic Spend Tracking for PPM enables project or demand managers to evaluate the strategic value of organization’s projects and demands. You can identify the purpose and benefits of executing demands and projects and how they contribute to achieving company's strategies and goals.
 -   **[Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md)**  
 Platform Analytics Solutions contain preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 -   **[Project Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-management-reference.md)**  
-Reference topics provide information about domain separation, quick start [[c_Tests|tests]], business stakeholder role access, and others related to Project Portfolio Management.
+Reference topics provide information about domain separation, quick start tests, business stakeholder role access, and others related to Project Portfolio Management.
 
-**Parent Topic:**[[r_ITBusinessManagement|Strategic Portfolio Management]]
+**Parent Topic:**[Strategic Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/r_ITBusinessManagement.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[innovation-management-landing|Innovation Management]]
-- [[evaluate-ideas-actions|Evaluate ideas]]
-- [[c_DemandManagement|Demand Management]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[investment-portal|Investment Portal]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[c_ResourcePlans|Resource plans]]
-- [[t_RequestResourcePlanApproval|Request resources]]
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[c_ProgramManagement|Program Management]]
-- [[time-card-management|Time Card Management]]
-- [[ppm-strategic-spend-tracking-overview|Strategic Spend Tracking for PPM]]
-- [[c_Tests|Tests]]

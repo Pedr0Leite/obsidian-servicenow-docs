@@ -16,26 +16,20 @@ Instances available on your ServiceNow mobile apps correspond to at least one in
 
 A ServiceNow platform configuration can contain one or more instances. Each ServiceNow mobile app must be connected to at least one of these instances. If only one instance is added to a mobile app, this is known as a single instance. Whereas if more than one instance is added, this is known as either multiple instance or multi-instance.
 
-For information on user-side documentation regarding instances, see [[instances-concept|Working with mobile accounts]].
+For information on user-side documentation regarding instances, see [Working with mobile accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/instances-concept.md).
 
 ## Single instance
 
-Users with a single instance are directly navigated to the login screen, bypassing the instance management page. This process shortens the login process. You can configure a branded landing page, which is a web page displayed to the user that contains a link to log in to a ServiceNow mobile app. For more information, see [[branded-landing-page|Branded landing page for a single instance]].
+Users with a single instance are directly navigated to the login screen, bypassing the instance management page. This process shortens the login process. You can configure a branded landing page, which is a web page displayed to the user that contains a link to log in to a ServiceNow mobile app. For more information, see [Branded landing page for a single instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/branded-landing-page.md).
 
-**Note:** The auto-login behavior for single instances is not supported for Microsoft Intune MDM builds using the iOS operating system. For more information regarding Microsoft Intune, see [[intune-mdm|Intune mobile device management \(MDM\)]].
+**Note:** The auto-login behavior for single instances is not supported for Microsoft Intune MDM builds using the iOS operating system. For more information regarding Microsoft Intune, see [Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/intune-mdm.md).
 
 ## Multiple instances
 
-Users can add multiple instances from the instance management page. Users can switch from their current instance to other instances, without the need to log out of the current instance. The switch between instances occurs either through deep links, [[sg-mobile-security-push-notif|push notifications]] or by manually selecting an existing instance.
+Users can add multiple instances from the instance management page. Users can switch from their current instance to other instances, without the need to log out of the current instance. The switch between instances occurs either through deep links, push notifications or by manually selecting an existing instance.
 
 -   **Considerations for users when using multiple instances**
     -   Notifications: Notifications are received from all instances which the user is logged in to. This includes instances which the user is not currently interacting with.
     -   PIN code: Users must enter a PIN code when switching from an instance that doesn’t require a PIN to an instance that requires a PIN.
     -   Offline behavior: Users can't change instances while offline. To work with multiple instances, users must turn off the offline option.
 
-## Related
-
-- [[instances-concept|Working with mobile accounts]]
-- [[branded-landing-page|Branded landing page for a single instance]]
-- [[intune-mdm|Intune mobile device management \(MDM\)]]
-- [[sg-mobile-security-push-notif|Push notifications]]

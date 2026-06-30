@@ -15,11 +15,11 @@ breadcrumb: [Configure, Portfolio Planning, Strategic Portfolio Management]
 
 # Configuring lens in Portfolio Planning
 
-Learn about lens structure and pre-defined [[lens-and-portfolio-plans|lenses in Portfolio Planning]] so that you can configure a lens that represents your company's planning process.
+Learn about lens structure and pre-defined lenses in Portfolio Planning so that you can configure a lens that represents your company's planning process.
 
 ## Lens structure
 
-Each lens in [[portfolio-planning-app-landing-page|Portfolio Planning]] consists of a structure that is made up of lens entities. These entities represent different levels of planning. Planning managers can build portfolio plans at one of these levels, and create plans for the type of work items that are associated to this lens.
+Each lens in Portfolio Planning consists of a structure that is made up of lens entities. These entities represent different levels of planning. Planning managers can build portfolio plans at one of these levels, and create plans for the type of work items that are associated to this lens.
 
 \[Omitted image "lens-structure-pp.png"\] Alt text: Lens structure
 
@@ -27,7 +27,7 @@ Each lens in [[portfolio-planning-app-landing-page|Portfolio Planning]] consists
 
 Two pre-defined lenses, Organization and Project Portfolio are available.
 
-For example, the Organization lens has Company, Business Unit, and Department as its entities. A department head can [[create-portfolio-plan-in-portfolio-planning-workspace|create a portfolio plan]] at the department level, and start to prioritize and roadmap the department's work. This work can be in the form of projects, demands, or any other custom type that is configured.
+For example, the Organization lens has Company, Business Unit, and Department as its entities. A department head can create a portfolio plan at the department level, and start to prioritize and roadmap the department's work. This work can be in the form of projects, demands, or any other custom type that is configured.
 
 \[Omitted image "lens-structure-predefined-custom-pp.png"\] Alt text: Lens structure of the pre-defined Organization, Project Portfolio lenses
 
@@ -41,7 +41,7 @@ For every portfolio plan that is built using a lens, only those item types that 
 
 You can either use a pre-defined lens as it is or update its existing configuration.
 
--   To use the lens as it is, complete your lens setup by configuring integration with a ServiceNow [[c_ProjectPortfolioSuite|Project Portfolio Management]].
+-   To use the lens as it is, complete your lens setup by configuring integration with a ServiceNow Project Portfolio Management.
 
     See [Configuring Portfolio Planning with PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-portfolio-planning-with-ppm.md).
 
@@ -49,9 +49,3 @@ You can either use a pre-defined lens as it is or update its existing configurat
     -   Change the planning items included within the lens. See [Lens Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/lens-form-portfolio-planning.md).
     -   Add more entities to the lens structure. See [Modify lens structure in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-lens-portfolio-planning.md).
 
-## Related
-
-- [[lens-and-portfolio-plans|Lenses in Portfolio Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

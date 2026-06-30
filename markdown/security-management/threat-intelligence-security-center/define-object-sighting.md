@@ -14,7 +14,7 @@ breadcrumb: [Object Sighting, Threat Entities, TISC Library Repository, Threat I
 
 # Define Object Sighting
 
-Define object sighting that describes that an object \([[threat-intelligence-malware|malware]], tool, [[threat-actor|threat actor]], and so on\) was seen.
+Define object sighting that describes that an object \(malware, tool, threat actor, and so on\) was seen.
 
 ## Before you begin
 
@@ -22,15 +22,15 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
-3.  Go to **[[object-sighting|Object Sighting]]** object.
+3.  Go to **Object Sighting** object.
 
 4.  Click **New**.
 
-    **Note:** Whenever you create new object records for [[c_Observables|observables]], [[indicator|indicators]], entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
+    **Note:** Whenever you create new object records for observables, indicators, entities or objects a source record is created and a prompt message is displayed that the new object record is created and then the user is redirected to the aggregated record.
 
 5.  On the form, fill in the fields.
 
@@ -66,7 +66,7 @@ Indicates the that a particular entity or indicator was observed in an environme
     |First Seen|The beginning of the time window during which the SDO referenced by which the property was sighted.|
     |Last Seen|The end of the time window during which the SDO referenced by which the property was sighted.|
     |Count|If present, this must be an integer between 0 and 999,999,999 inclusive and represents the number of times the SDO referenced by which the property was sighted.|
-    |Is Summary|Indicates whether the Sighting should be considered the summary data. Summary data is an aggregation of previous [[indicator-sightings|Sightings]] reports and should not be considered primary source data.|
+    |Is Summary|Indicates whether the Sighting should be considered the summary data. Summary data is an aggregation of previous Sightings reports and should not be considered primary source data.|
     |Is Internal|Indicates whether the Sighting is internal.|
     |TLP|TLP is used to ensure that sensitive information is shared with the appropriate audience. It employs four colors \(White, Green, Amber, and Red\) to indicate different degrees of sensitivity.|
     |Confidence|Enter the confidence for this course of action.|
@@ -75,7 +75,7 @@ Indicates the that a particular entity or indicator was observed in an environme
 
     |Field|Description|
     |-----|-----------|
-    |Notes|Add any additional notes for this [[threat-intelligence-intrusion-sets|intrusion set]].|
+    |Notes|Add any additional notes for this intrusion set.|
 
 <table id="table_ytw_tcd_nyb"><thead><tr><th>
 
@@ -163,12 +163,12 @@ Created By Ref
 
 </td><td>
 
-This property specifies that the [[identity|identity]] object that describes the entity had created this object.
+This property specifies that the identity object that describes the entity had created this object.
 
 </td></tr></tbody>
 </table>6.  Click **Save**.
 
-    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new [[stix-relationships|relationships]].
+    After you save, a prompt message is displayed indicating that A new observable record is created. Click **Continue** to edit the record and create new relationships.
 
 7.  Click **Continue**.
 
@@ -182,7 +182,7 @@ This property specifies that the [[identity|identity]] object that describes the
     |Select Tags|Select the tags that are associated with the identity.|
     |Add Tags|Add new tags.|
     |Taxonomies|
-    |Select Taxonomy|Select a Taxonomy that is associated with this [[threat-intelligence-infrastructure|infrastructure]].|
+    |Select Taxonomy|Select a Taxonomy that is associated with this infrastructure.|
     |Add Taxonomy Values|Add Taxonomy values that are associated with this infrastructure.|
 
 
@@ -194,29 +194,14 @@ Click any of the following related lists to view additional information about ob
 |-----|-----------|
 |External References|Lists the external references which refer to non-STIX information. This property is used to provide one or more external object identifiers.|
 |Objects|Lists the objects associated with the sightings.|
-|Indicators|Lists the related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.|
+|Indicators|Lists the related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.|
 
 **Note:**
 
 1.  You can link and unlink the related records associated with this object. For more information, see [Link Threat Intel Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/link-threat-intel-releated-records.md).
-2.  The various SDOs within the TI library also contains the [[potential-relationships|potential relationships]]. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
+2.  The various SDOs within the TI library also contains the potential relationships. To establish a relationships between any two objects, you use the **Potential Relationships** link from the **Threat Intel Library** to confirm the relationships between the objects. For more information, see [Confirm object-object potential relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-object-potential-relationships.md).
 3.  Also, use the **Related Records** section from the objects form view to confirm the relationships between two Objects using the **Potential Relationships** section available on the form view. For more information on see, [Confirm Potential Relationships from Related Records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/confirm-potential-relationships.md).
 4.  You can add objects to cases. For more information, see [Add to Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-to-case.md).
 
 **Parent Topic:**[Object Sighting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/object-sighting.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actor|Threat Actor]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[object-sighting|Object Sighting]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[indicator-sightings|Sightings]]
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[identity|Identity]]
-- [[stix-relationships|Relationships]]
-- [[threat-intelligence-infrastructure|Infrastructure]]
-- [[c_IoCs|Indicators of compromise]]
-- [[potential-relationships|Potential Relationships]]

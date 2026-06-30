@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Add a RIDAC record to a project in Project Workspace
 
-Add a Risk, Issue, Decision, Action, or Request Change \(RIDAC\) record to your project in the [[project-workspace-landing-page|Project Workspace]]. Adding RIDAC records enable you to keep a track of risks or issues during the project life cycle and help in analyzing the outcome of a project.
+Add a Risk, Issue, Decision, Action, or Request Change \(RIDAC\) record to your project in the Project Workspace. Adding RIDAC records enable you to keep a track of risks or issues during the project life cycle and help in analyzing the outcome of a project.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: it\_project\_manager
 
 You can select the type of record you want to create, fill in the required details, and associate it to your project. You can use the RIDAC page in Project Workspace to view, add, manage, and evaluate all the RIDAC records.
 
-For information about RIDAC records for [[c_ProjectApplicationOverview|project management]], see [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-entries-for-project.md).
+For information about RIDAC records for project management, see [Adding RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-entries-for-project.md).
 
 ## Procedure
 
@@ -68,7 +68,3 @@ For information about RIDAC records for [[c_ProjectApplicationOverview|project m
 
 [Export RIDAC data from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/export-ridac-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_ProjectApplicationOverview|Project Management]]

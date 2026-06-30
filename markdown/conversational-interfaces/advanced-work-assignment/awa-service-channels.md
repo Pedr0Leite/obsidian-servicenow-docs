@@ -18,7 +18,7 @@ Provide customer support by automatically routing incoming work to agents throug
 
 A service channel is a means of assigning a specific type and scope of work to agents. You can configure base system service channels to set the context and attributes that define work handled in the channel, or create your own custom service channel.
 
-[[awa-application-landing-page|Advanced Work Assignment]] provides several service channels from which [[awa-work-items|work items]] originate. These channels are:
+Advanced Work Assignment provides several service channels from which work items originate. These channels are:
 
 <table id="table_wy2_qq4_sfb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ Routes and assigns chat interactions.
 
 </td><td>
 
-Included with the [[ci-use-agent-chat|Agent Chat]] plugin \(com.glide.interaction.awa\).
+Included with the Agent Chat plugin \(com.glide.interaction.awa\).
 
 </td></tr><tr><td>
 
@@ -141,7 +141,7 @@ Routes requests from the WhatsApp chat conversations.
 Included with the [Conversational Integration with WhatsApp \(powered by Twilio\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-whatsapp-twilio.md) store application.
 
 </td></tr></tbody>
-</table>You can also [[setup-custom-channel|set up a custom service channel]] to address work that is not supported in the base system channels. For more information, see [Set up a custom service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/setup-custom-channel.md).
+</table>You can also set up a custom service channel to address work that is not supported in the base system channels. For more information, see [Set up a custom service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/setup-custom-channel.md).
 
 For each service channel, you set attributes such as:
 
@@ -153,12 +153,5 @@ For each service channel, you also:
 
 -   Create the agent inbox card layout used in Agent Workspace.
 -   Set capacity overrides for specific agents.
--   Review and modify associated [[awa-queues|work item queues]]. For the Chat service channel, you can create queues using the **Queues** related list.
+-   Review and modify associated work item queues. For the Chat service channel, you can create queues using the **Queues** related list.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[setup-custom-channel|Set up a custom service channel]]
-- [[awa-queues|Work item queues]]

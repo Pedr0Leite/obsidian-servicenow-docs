@@ -14,7 +14,7 @@ breadcrumb: [Employee Center \(EC\) homepage journey tabs widget, Configure Jour
 
 # Add Journey designer widget
 
-The [[jny-dsgnr-landing-page-1|Journey designer]] widget is not on the [[employee-center-landing-page|Employee Center]] home page by default. An administrator must add it.
+The Journey designer widget is not on the Employee Center home page by default. An administrator must add it.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ Verify that the widget is available in your organization's Employee Center porta
 
 **Parent Topic:**[Employee Center \(EC\) homepage journey tabs widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-ec-hp-widget.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]

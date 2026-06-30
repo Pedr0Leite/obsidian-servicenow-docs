@@ -14,7 +14,7 @@ breadcrumb: [Resolving MID Server issues, MID Server reference, MID Server, Mana
 
 # MID Server Upgrade History
 
-Use this module to troubleshoot errors that occur during the [[mid-server-landing|MID Server]] upgrade process. The MID Server Upgrade Histories table contains a record of each instance upgrade. The MID Server Upgrade Stages table shows the status of each MID Server and its upgrade progress, including any errors encountered.
+Use this module to troubleshoot errors that occur during the MID Server upgrade process. The MID Server Upgrade Histories table contains a record of each instance upgrade. The MID Server Upgrade Stages table shows the status of each MID Server and its upgrade progress, including any errors encountered.
 
 ## MID Server Upgrade Histories
 
@@ -64,6 +64,3 @@ Displays dynamically generated messages about the upgrade stages, such as the fi
 </td></tr></tbody>
 </table>**Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

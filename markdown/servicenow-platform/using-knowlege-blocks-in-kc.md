@@ -12,8 +12,5 @@ breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabiliti
 
 # Using knowledge blocks in the Knowledge Center
 
-Use [[knowledge-blocks|knowledge blocks]] to simplify knowledge authoring for writers and knowledge consumption for readers.
+Use knowledge blocks to simplify knowledge authoring for writers and knowledge consumption for readers.
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

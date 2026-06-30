@@ -14,7 +14,7 @@ breadcrumb: [Configure Appointment Booking, Configuring Appointment Booking, Add
 
 # Create service configuration rules for a service configuration
 
-[[configure-appointment-booking|Configure appointment booking]] rules for a service configuration, for example, Point-of-Sale-Installation, to enable varying duration of appointments for this service.
+Configure appointment booking rules for a service configuration, for example, Point-of-Sale-Installation, to enable varying duration of appointments for this service.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: appointment\_booking\_admin
 
 ## About this task
 
-Service Configuration Rules determine which advanced configuration is applied to a specific service use case. Using advanced configuration, you can define location-specific or day-specific appointment windows and slot settings. These [[customizations|advanced configurations]] are applied when the defined conditions are met.
+Service Configuration Rules determine which advanced configuration is applied to a specific service use case. Using advanced configuration, you can define location-specific or day-specific appointment windows and slot settings. These advanced configurations are applied when the defined conditions are met.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[appointment-booking|Appointment Booking]]** &gt; **Appointment Booking Configuration**.
+1.  Navigate to **All** &gt; **Appointment Booking** &gt; **Appointment Booking Configuration**.
 
 2.  Select the desired configuration.
 
@@ -150,7 +150,7 @@ Appointments per window
 
 </td><td>
 
-Number of available appointments for each configured appointment time slot. This number determines the number of available appointments that are displayed on the **Select Appointment** window. Enter a number in this field if the assignment method for tasks is set to manually. If assignment method is set to either using auto-assignment or using [[dynamic-scheduling|dynamic scheduling]], this setting does not apply, unless a location is not provided. Then the configuration defaults to the number of appointments per window.
+Number of available appointments for each configured appointment time slot. This number determines the number of available appointments that are displayed on the **Select Appointment** window. Enter a number in this field if the assignment method for tasks is set to manually. If assignment method is set to either using auto-assignment or using dynamic scheduling, this setting does not apply, unless a location is not provided. Then the configuration defaults to the number of appointments per window.
 
 </td></tr></tbody>
 </table>7.  Click **Submit**.
@@ -164,9 +164,3 @@ The service configuration rules are configured and provides varying duration of 
 
 Create an appointment booking advanced configuration for this service configuration rule. For more information, see [Create appointment booking advanced configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/appintment-booking-day-level-config.md).
 
-## Related
-
-- [[configure-appointment-booking|Configure Appointment Booking]]
-- [[customizations|Advanced configurations]]
-- [[appointment-booking|Appointment booking]]
-- [[dynamic-scheduling|Dynamic scheduling]]

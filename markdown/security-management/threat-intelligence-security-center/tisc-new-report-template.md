@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Reports** &gt; **Report Template**.
 
@@ -38,7 +38,7 @@ Role required: sn\_sec\_tisc.admin
 
     The Template Content section displays.
 
-    **Note:** When you [[create-report-template|create a report template]], it is in draft state. Other users cannot view the template until it is complete.
+    **Note:** When you create a report template, it is in draft state. Other users cannot view the template until it is complete.
 
 6.  Expand the **Template Contents** to insert the desired fields in the Template body.
 
@@ -56,7 +56,7 @@ Role required: sn\_sec\_tisc.admin
     **Note:**
 
     -   **Case Fields**: When you modify report templates, preview the added contents. For example, to add a Short description field, select it from Case fields to add it as a template variable. When generating a report, the case short description appears in the report.
-    -   **Records**: You can add related case records that display as case artifacts. For example, you can add malicious [[c_Observables|observables]] from the observables related list. These related records are displayed in the table format
+    -   **Records**: You can add related case records that display as case artifacts. For example, you can add malicious observables from the observables related list. These related records are displayed in the table format
     -   **Scripts**: To display report date and time, add **Current Date Time** scripts to include Report Created Date and Time.
     -   **MITRE ATT&amp;CK**: This displays the MITRE card associated techniques in your report.
     After adding required case-related fields to your report template, publish the template.
@@ -71,8 +71,4 @@ Role required: sn\_sec\_tisc.admin
 
     To rename your report template, select **Edit** and modify the desired fields.
 
-## Related
 
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[create-report-template|Create a Report Template]]
-- [[c_Observables|Observables]]

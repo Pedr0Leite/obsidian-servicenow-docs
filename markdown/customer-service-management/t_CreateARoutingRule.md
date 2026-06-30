@@ -20,7 +20,7 @@ Role required: assignment\_rule\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Matching [[gamification-components-rules|Rules]]**.
+1.  Navigate to **All** &gt; **Routing and Assignment** &gt; **Matching Rules**.
 
 2.  Click **New**.
 
@@ -203,6 +203,4 @@ For example, fewer assigned cases are better when determining agent ranking.
 
     A threshold sets a minimum requirement for a criterion. If necessary, personalize the list and add the **Threshold** field.
 
-## Related
 
-- [[gamification-components-rules|Rules]]

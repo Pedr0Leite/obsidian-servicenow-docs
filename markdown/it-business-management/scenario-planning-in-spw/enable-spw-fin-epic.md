@@ -22,7 +22,7 @@ Role required: sn\_invst\_pln\_v2.investment\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[investment-funding-overview|Investment Funding]]** &gt; **Setup** &gt; **Investment Entities**.
+1.  Navigate to **All** &gt; **Investment Funding** &gt; **Setup** &gt; **Investment Entities**.
 
 2.  Filter the Table field to locate and open the required planning item.
 
@@ -34,6 +34,4 @@ Role required: sn\_invst\_pln\_v2.investment\_admin
 
 4.  Select **Update**.
 
-## Related
 
-- [[investment-funding-overview|Investment Funding]]

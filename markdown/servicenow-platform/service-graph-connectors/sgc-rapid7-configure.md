@@ -34,13 +34,13 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **Rapid7** &gt; **Setup** in the navigation panel in your instance.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **Rapid7** &gt; **Setup** in the navigation panel in your instance.
 
 2.  On the Welcome to Guided Setup Home page, select **Continue**.
 
 3.  On the Experience page that is displayed, select **Best Experience** followed by **Continue**.
 
-    On the [[sgc-rapid7-integration|Service Graph Connector for Rapid7]] page, there are three tasks displayed:
+    On the Service Graph Connector for Rapid7 page, there are three tasks displayed:
 
     -   Configure the connection
     -   Add multiple instances
@@ -56,7 +56,7 @@ Roles required:
 
     1.  Enter a name for the credentials, for example **SGRapid7.Credential**.
 
-    2.  Verify the **Active** [[check-box|check box]] is selected.
+    2.  Verify the **Active** check box is selected.
 
     3.  In the API Key field, enter your Rapid7 InsightVM API key.
 
@@ -198,8 +198,4 @@ Roles required:
 
     20. On the Service Graph Connector for Rapid7 page for Guided Setup, select **Complete** to finish the configuration.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgc-rapid7-integration|Service Graph Connector for Rapid7]]
-- [[check-box|Check box]]

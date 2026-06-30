@@ -12,7 +12,7 @@ breadcrumb: [Socure, Integrate, Financial Services Operations \(FSO\)]
 
 # Configure Financial Services Operations Integration with Socure
 
-Configure the [[integrating-socure-service|Financial Services Operations Integration with Socure]] application to verify a customer's identity and improve the customer's risk determination.
+Configure the Financial Services Operations Integration with Socure application to verify a customer's identity and improve the customer's risk determination.
 
 ## Before you begin
 
@@ -34,10 +34,6 @@ Role required: admin
 
 6.  Configure the KYC service definitions, Socure - CDD - Customer and Socure - CDD - Contact.
 
-    For information on configuring flows and service definitions, see [[configure-flow-designer-flows-fso-apps|Configure flows]] and [[configure-service-definitions|Configure service definitions for Financial Services Operations applications]].
+    For information on configuring flows and service definitions, see [Configure flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-flow-designer-flows-fso-apps.md) and [Configure service definitions for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-service-definitions.md).
 
-## Related
 
-- [[configure-flow-designer-flows-fso-apps|Configure flows]]
-- [[configure-service-definitions|Configure service definitions]]
-- [[integrating-socure-service|Financial Services Operations integration with Socure]]

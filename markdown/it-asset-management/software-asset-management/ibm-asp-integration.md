@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for IBM, Supported softwar
 
 # Authorized SAM Provider \(ASP\) integrations for IBM
 
-You can track and manage IBM licenses in both VMware vSphere environments and IBM LPAR infrastructures by integrating the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with [[c_SoftwareAssetMgmt|Software Asset Management]] providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program. With these integrations, you can track and manage IBM licensing directly without having to integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory.
+You can track and manage IBM licenses in both VMware vSphere environments and IBM LPAR infrastructures by integrating the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program. With these integrations, you can track and manage IBM licensing directly without having to integrate with the IBM License Metric Tool \(ILMT\) or BigFix Inventory.
 
 The CVA Program is an invitation-only license verification program that allows clients who contract with Authorized SAM Providers \(ASPs\) to report on their IBM license usage independently. For more information on the CVA Program, see [CVA Program Verification](https://www.ibm.com/about/software-licensing/verification/cva_program).
 
@@ -29,7 +29,7 @@ The IBM publisher pack supports integrations with the following ASPs:
 
 To integrate with an ASP, you must request and install the IBM License Compliance for Software Asset Management application from the ServiceNow® Store. This application provides the core functionality and license metrics that are required for tracking and managing IBM licensing directly. If you are integrating with Anglepoint, you must also request and install Anglepoint's IBM Licensing for Software Asset Management application from the ServiceNow® Store. This application enables you to store IBM software information from Anglepoint.
 
-After you install the necessary applications, you must retrieve the IBM [[sam-software-discovery|software discovery]] catalog from the ASP that you are integrating with. This catalog, which is maintained separately by each ASP, is a centralized repository of IBM software information that discovery tools, such as the ServiceNow® Discovery application, can use to identify the IBM software that is discovered in your environment. After you retrieve the catalog, you must upload it to your ServiceNow instance.
+After you install the necessary applications, you must retrieve the IBM software discovery catalog from the ASP that you are integrating with. This catalog, which is maintained separately by each ASP, is a centralized repository of IBM software information that discovery tools, such as the ServiceNow® Discovery application, can use to identify the IBM software that is discovered in your environment. After you retrieve the catalog, you must upload it to your ServiceNow instance.
 
 On successful upload, you can use the ServiceNow Discovery application to run a discovery for your IBM software. The Discovery application uses the uploaded catalog to identify any IBM software that is discovered in your environment. It then sends this data to the ASP for comprehensive software classification and bundling.
 
@@ -47,7 +47,7 @@ Before you can integrate the IBM publisher pack with an ASP, you must complete t
 -   Request and install the Discovery and Service Mapping Patterns application from the [ServiceNow Store](https://store.servicenow.com/). See [Discovery patterns used by ITOM Visibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/c_MappingPatternsCustomization.md) for more information on Discovery and Service Mapping patterns.
 -   If you want to use domain separation for the integration, activate the Domain Support - Domain Extensions Installer \(com.glide.domain.msp\_extensions.installer\) plugin on your ServiceNow instance. See [Domain separation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-plugin.md) for detailed instructions.
 -   Download the IBM software discovery catalog from the ASP.
--   If you want to track and manage [[ibm-licensing-public-cloud-environments|IBM licensing in public cloud environments]], configure one or more for the following services to automatically scan for and update the CMDB with cloud infrastructure changes every 30 minutes:
+-   If you want to track and manage IBM licensing in public cloud environments, configure one or more for the following services to automatically scan for and update the CMDB with cloud infrastructure changes every 30 minutes:
     -   For public clouds hosted by AWS, configure the AWS Config service. See [Configure AWS Config event notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-config-service-cloud-mgt.md) for detailed instructions.
     -   For public clouds hosted by Microsoft Azure, configure the Microsoft Azure Alert service. See [Configure the Microsoft Azure Alert service to auto-update the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/microsoft-azure-alert-driven-discovery.md) for detailed instructions.
     -   For public clouds hosted by Google Cloud Platform \(GCP\), configure the Google Cloud Logging service. See [Configure the Google Cloud Logging service to auto-update the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/gcp-stackdriver-service.md) for detailed instructions.
@@ -58,7 +58,7 @@ If you are integrating the IBM publisher pack with Anglepoint, you must also com
 -   Set up the Anglepoint Elevate platform.
 
 -   **[Virtualization technologies and public cloud platforms supported by IBM Authorized SAM Provider \(ASP\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/supported-virtualization-technologies-iasp-integrations.md)**  
-IBM ASP integrations support [[ibm-licensing-vmware-vsphere-environment|IBM licensing in VMware vSphere environments]] and IBM LPAR infrastructures.These integrations also support IBM licensing in public cloud environments that are owned and managed by AWS, Microsoft Azure, and Google Cloud Platform \(GCP\).
+IBM ASP integrations support IBM licensing in VMware vSphere environments and IBM LPAR infrastructures.These integrations also support IBM licensing in public cloud environments that are owned and managed by AWS, Microsoft Azure, and Google Cloud Platform \(GCP\).
 -   **[Licensing for IBM Cloud Paks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/licensing-ibm-cloud-paks.md)**  
 When you integrate the Software Asset Management publisher pack for IBM with Software Asset Management providers that are authorized to participate in the IBM Client Value Acceleration \(CVA\) Program, the Software Asset Management application supports licensing rules for IBM Cloud Paks.
 -   **[IBM reconciliation for IBM Authorized SAM Provider \(ASP\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-reconciliation-iasp-integrations.md)**  
@@ -84,10 +84,3 @@ To improve the accuracy of your IBM license calculations, verify the meta data f
 
 **Parent Topic:**[Software Asset Management publisher pack for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-publisher-pack.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[ibm-licensing-public-cloud-environments|IBM licensing in public cloud environments]]
-- [[ibm-licensing-vmware-vsphere-environment|IBM licensing in VMware vSphere environments]]

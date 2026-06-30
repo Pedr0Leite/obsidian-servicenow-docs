@@ -29,8 +29,5 @@ The ServiceNow® Agile Development 2.0 application helps you implement a pure ag
     -   Performance Analytics Content Pack for Agile 2.0 \(com.sn\_scrum\_dashboards\): Planned for deprecation in the C release. Install the Collaborative Work Management application from ServiceNow Store.
     -   Agile Development v2 \(com.snc.sdlc.agile.mobile\): Planned for deprecation in the C release.There is no replacement for this application.
 
-**Parent Topic:**[[it-business-management-rn-landing|Strategic Portfolio Management release notes]]
+**Parent Topic:**[Strategic Portfolio Management release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/it-business-management-rn-landing.md)
 
-## Related
-
-- [[it-business-management-rn-landing|Strategic Portfolio Management release notes]]

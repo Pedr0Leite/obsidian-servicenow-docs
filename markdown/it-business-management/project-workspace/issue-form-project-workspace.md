@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Issue form on Project Workspace
 
-Learn about the fields on the [[issue-form|Issue form]] of the [[project-workspace-landing-page|Project Workspace]]. Use this form to add an issue to your projects.
+Learn about the fields on the Issue form of the Project Workspace. Use this form to add an issue to your projects.
 
 <table id="table_kxv_nr2_1vb"><thead><tr><th>
 
@@ -135,7 +135,3 @@ Information to record and track the work accomplished for resolving the issue.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[issue-form|Issue form]]
-- [[project-workspace-landing-page|Project Workspace]]

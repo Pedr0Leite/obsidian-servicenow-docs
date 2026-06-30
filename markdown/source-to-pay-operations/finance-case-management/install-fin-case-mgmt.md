@@ -14,7 +14,7 @@ breadcrumb: [Configure, Finance Case Management, Finance and Supply Chain applic
 
 # Install Finance Case Management
 
-Install the [[fin-case-mgmt-landing-page|Finance Case Management]] application \(sn\_fin\_ops\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store Store applications and plugins if they are not already installed.
+Install the Finance Case Management application \(sn\_fin\_ops\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -73,6 +73,3 @@ Several types of components are installed with the activation of the Finance Cas
 
 [Configure Finance Operations Workspace]()
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

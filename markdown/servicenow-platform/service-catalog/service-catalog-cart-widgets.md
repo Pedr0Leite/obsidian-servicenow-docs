@@ -14,7 +14,7 @@ breadcrumb: [Cart layout, Service Catalog customization, Types of catalog items,
 
 # Configure Service Catalog cart widgets
 
-You can configure widgets for the shopping cart, catalog items, and [[c_ServiceCatalogOrderGuides|order guides]].
+You can configure widgets for the shopping cart, catalog items, and order guides.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Order guide cart widget is visible when an order guide item is ordered.
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definitions** &gt; **Maintain Cart Layouts**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definitions** &gt; **Maintain Cart Layouts**.
 
 2.  Open the **Item Ordering Widget \(Order Guide\)** record.
 
@@ -77,7 +77,4 @@ Both shopping cart and item ordering widgets are visible on the standard catalog
 
     \[Omitted image "CatalogItemWidgets.png"\] Alt text:
 
-## Related
 
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[service-catalog|Service Catalog]]

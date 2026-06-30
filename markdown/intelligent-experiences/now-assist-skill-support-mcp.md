@@ -12,14 +12,14 @@ breadcrumb: [Reference, MCP Server Console, Enable AI experiences]
 
 # Now Assist skill support in MCP Server Console
 
-[[mcp-platform-manager-landing|MCP Server Console]] supports creating tools for Model Context Protocol \(MCP\) servers from a subset of [[now-assist-skills|Now Assist skills]].
+MCP Server Console supports creating tools for Model Context Protocol \(MCP\) servers from a subset of Now Assist skills.
 
 The following Now Assist skills are preconfigured as tools MCP Server Console:
 
 -   Case summarization
 -   Incident summarization
 
-In addition, you can create tools from the following Now Assist skills or from custom skills created with [[now-assist-skill-kit-landing|Now Assist Skill Kit]]. Only Now Assist skills that don't rely on internal information as inputs, such as sys\_ids, are available to be created as tools. Some Now Assist skills don't currently meet the criteria required to be used as tools. For more information, contact your ServiceNow representative.
+In addition, you can create tools from the following Now Assist skills or from custom skills created with Now Assist Skill Kit. Only Now Assist skills that don't rely on internal information as inputs, such as sys\_ids, are available to be created as tools. Some Now Assist skills don't currently meet the criteria required to be used as tools. For more information, contact your ServiceNow representative.
 
 -   Analyze the CMDB Search request
 -   Change request risk explanation
@@ -46,7 +46,7 @@ In addition, you can create tools from the following Now Assist skills or from c
 -   Refine content
 -   Regulatory alert impacted citations
 -   Regulatory alert impacted control objectives
--   Regulatory alert impacted [[controls|controls]]
+-   Regulatory alert impacted controls
 -   Relevant invoice finder
 -   Resume Skill Extraction
 -   Skill keyword extractor
@@ -58,22 +58,14 @@ In addition, you can create tools from the following Now Assist skills or from c
 -   Text2Test Skill
 -   Vulnerable item deduplication
 
-**Parent Topic:**[[mcp-server-console-reference|MCP Server Console reference]]
+**Parent Topic:**[MCP Server Console reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
 **Related topics**  
 
 
-[[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
+[Create a tool for a Model Context Protocol server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-tool-mcp-server.md)
 
 [Now Assist skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-skills.md)
 
 [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md)
 
-## Related
-
-- [[mcp-server-console-reference|MCP Server Console reference]]
-- [[create-tool-mcp-server|Create a tool for a Model Context Protocol server]]
-- [[mcp-platform-manager-landing|MCP Server Console]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[controls|Controls]]

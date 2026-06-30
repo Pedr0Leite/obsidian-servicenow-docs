@@ -27,7 +27,7 @@ ServiceNow for Microsoft Teams extends the Now Virtual Agent \(VA\) integration 
 
 ## ServiceNow for Microsoft 365
 
-With ServiceNow for Microsoft 365, [[employee-center-landing-page|Employee Center]] is available in Microsoft Outlook and the Microsoft 365 app, in addition to Microsoft Teams.
+With ServiceNow for Microsoft 365, Employee Center is available in Microsoft Outlook and the Microsoft 365 app, in addition to Microsoft Teams.
 
 <table id="table_ob3_q1m_hzb"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Capabilities included
 
 </td></tr><tr><td>
 
-[[hr-service-delivery|HR Service Delivery]] Pro for full Virtual AgentTo implement HR Service Delivery integration with Microsoft Teams, see [HR Service Delivery integration with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-hr.md).
+HR Service Delivery Pro for full Virtual AgentTo implement HR Service Delivery integration with Microsoft Teams, see [HR Service Delivery integration with Microsoft Teams and Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-hr.md).
 
 </td><td>
 
@@ -123,7 +123,7 @@ Use ServiceNow Virtual Agent with Microsoft Teams
 -   Major Incident Management
 -   Chat to Call
 
- To implement the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]], see [Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md).
+ To implement the Notify connector for Microsoft Teams, see [Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams.md).
 
  To implement Meeting Extensions with Microsoft Teams, see [Meeting Extensions for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/meeting-extensibility-ms-teams.md).
 
@@ -142,7 +142,7 @@ To integrate ServiceNow with Microsoft Teams for Government Community Cloud - H
 
 </td><td>
 
--   Provides users the ability to [[activate-ec|install Employee Center]] with Microsoft Teams for GCC-H or DoD.
+-   Provides users the ability to install Employee Center with Microsoft Teams for GCC-H or DoD.
 -   Install Employee Center and Virtual Agent with Microsoft Teams for GCC-H or DoD.
 -   Install request-based chat with Microsoft Teams for GCC-H or DoD.
 
@@ -160,11 +160,11 @@ Create custom integrations using Microsoft Teams Graph spoke and Microsoft Teams
 
 </td></tr><tr><td>
 
-[[ur-landing-limitedaccess|Universal Request]] integrations
+Universal Request integrations
 
 </td><td>
 
-Universal RequestTo implement [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]], see [Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-ur.md).
+Universal RequestTo implement Universal Request integration with Microsoft Teams, see [Universal Request integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-ur.md).
 
 </td><td>
 
@@ -193,7 +193,7 @@ Enables employees to create universal requests directly from Microsoft Teams, vi
 
 </td><td>
 
-[Reference \[Omitted image "bus-performance-forecasting-2.svg"\] Alt text: See reusable [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] content for Microsoft Teams integrations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
+[Reference \[Omitted image "bus-performance-forecasting-2.svg"\] Alt text: See reusable reference content for Microsoft Teams integrations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/reference-sn-teams.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -204,12 +204,3 @@ Enables employees to create universal requests directly from Microsoft Teams, vi
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[activate-ec|Install Employee Center]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

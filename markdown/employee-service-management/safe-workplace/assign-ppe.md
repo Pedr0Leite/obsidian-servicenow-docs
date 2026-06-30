@@ -34,7 +34,7 @@ When you assign consumable PPE to an employee, a consumable record is created wi
 
 1.  Navigate to **PPE Inventory Management** and select **Assign Consumable** or **Assign Hardware**.
 
-    **Note:** To assign PPE in the [[mobile-employee-experience|Now Mobile app]], navigate to **Health** &gt; **Manage PPE Inventory** and select **Assign Consumable** or **Assign Hardware**.
+    **Note:** To assign PPE in the Now Mobile app, navigate to **Health** &gt; **Manage PPE Inventory** and select **Assign Consumable** or **Assign Hardware**.
 
 2.  On the form, fill in the fields.
 
@@ -59,6 +59,3 @@ After assigning PPE to employees, you can view all assigned PPE by navigating to
 
 **Parent Topic:**[Workplace PPE Inventory Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/ppe-inventory-management.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

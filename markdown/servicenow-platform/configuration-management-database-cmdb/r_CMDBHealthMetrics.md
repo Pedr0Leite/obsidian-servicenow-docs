@@ -14,7 +14,7 @@ breadcrumb: [Explore, CMDB Health, Configuration Management Database \(CMDB\), C
 
 # CMDB Health KPIs and metrics
 
-[[c_CMDBHealth|CMDB Health]] calculates an aggregated score for three Key Performance Indicators \(KPIs\) which are correctness, compliance, and completeness, each further consisting of sub-metrics.
+CMDB Health calculates an aggregated score for three Key Performance Indicators \(KPIs\) which are correctness, compliance, and completeness, each further consisting of sub-metrics.
 
 You can configure which KPIs and metrics are included in CMDB Health evaluations and dashboards. In the base system, all KPIs and all their metrics are included.
 
@@ -34,7 +34,7 @@ A KPI which is an aggregation of the following metrics:
 
     Measures the percentage of stale CIs in the CMDB. A CI is stale if it was not updated within the **Effective Duration** time period that is specified in the [staleness rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_CreateCMDBHealthStaleRule.md) that applies to the class.
 
-    The base system includes a default staleness rule for the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]], which sets the **Effective Duration** time to 60 days. This rule applies to all extended CMDB classes, and can be overridden by class specific staleness rules defined by the user. To determine CI staleness, a staleness rule for the CI's class is used if it exists, otherwise, the default staleness rule is used.
+    The base system includes a default staleness rule for the Configuration Item \[cmdb\_ci\] class, which sets the **Effective Duration** time to 60 days. This rule applies to all extended CMDB classes, and can be overridden by class specific staleness rules defined by the user. To determine CI staleness, a staleness rule for the CI's class is used if it exists, otherwise, the default staleness rule is used.
 
     In addition, a relationship in which a stale CI is a parent or a child, is determined to be a stale relationship.
 
@@ -63,7 +63,7 @@ A KPI which is an aggregation of the following metrics:
 
     Measures the percentage of CIs in which fields that are [set as recommended](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_MakingAFieldRecommended.md), are not populated. Out-of-box, no recommended fields are specified.
 
-    You can use the [Add Identifier Fields In Recommended Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_TablesInstalledCMDBHealth.md) scheduled job to set criterion attributes from active [[c_IdentificationRules|identification rules]], as recommended fields. You can use the [Remove Identifier Fields In Recommended Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_TablesInstalledCMDBHealth.md) scheduled job to unset criterion attributes from active identification rules, as recommended fields.
+    You can use the [Add Identifier Fields In Recommended Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_TablesInstalledCMDBHealth.md) scheduled job to set criterion attributes from active identification rules, as recommended fields. You can use the [Remove Identifier Fields In Recommended Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_TablesInstalledCMDBHealth.md) scheduled job to unset criterion attributes from active identification rules, as recommended fields.
 
 
 ## Compliance
@@ -74,7 +74,7 @@ Based on the results of actual CMDB audit runs.
 
 -   **Audit**
 
-    [Audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CertificationAudits.md) compares actual values of specified fields, against expected values defined in template and [[c_ScriptedAudits|scripted audits]]. Based on the **Last run date** of audits, CMDB Health identifies the set of the most recent complete audit run, and uses those audit results. To pass the CMDB Health audit test, a CI must be in compliance with all audits for that CI.Create a compliance-type audit, for which the results are calculated into the CMDB Health compliance KPI.
+    [Audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CertificationAudits.md) compares actual values of specified fields, against expected values defined in template and scripted audits. Based on the **Last run date** of audits, CMDB Health identifies the set of the most recent complete audit run, and uses those audit results. To pass the CMDB Health audit test, a CI must be in compliance with all audits for that CI.Create a compliance-type audit, for which the results are calculated into the CMDB Health compliance KPI.
 
     When running [scripted audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ScriptedAudits.md), the **Last run date** is not populated. Therefore, for the compliance KPI to include the results of a scripted audit, update the script in the audit to record the audit run time.
 
@@ -104,7 +104,7 @@ Also reports the following relationship-related summaries:
 -   Relations not compliant with containment rules
 -   Relations not compliant with hosting rules
 
-To access the Relationship Health Dashboard and [[t_ViewRelationshipsHealth|view relationships health]], see [View relationships health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewRelationshipsHealth.md).
+To access the Relationship Health Dashboard and view relationships health, see [View relationships health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewRelationshipsHealth.md).
 
 **Parent Topic:**[Exploring CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-cmdb-health-parent.md)
 
@@ -115,10 +115,3 @@ To access the Relationship Health Dashboard and [[t_ViewRelationshipsHealth|view
 
 [Configure KPI and metrics preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ConfigureCMDBHealthMetrics.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]
-- [[c_IdentificationRules|Identification rules]]
-- [[c_ScriptedAudits|Scripted audits]]
-- [[t_ViewRelationshipsHealth|View relationships health]]

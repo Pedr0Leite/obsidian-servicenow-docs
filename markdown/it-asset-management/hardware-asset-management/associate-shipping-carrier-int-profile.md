@@ -28,7 +28,7 @@ A shipping carrier can be associated with only one active integration profile.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Shipment** list, select **Carrier integration profiles**.
 
@@ -74,6 +74,3 @@ The shipping carrier is associated with the profile and the carrier details are 
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Push notifications, System notifications, Notifications, Configure 
 
 Several types of components are installed with the push notifications plugins.
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -61,7 +61,7 @@ Push Default Registrations \[sys\_push\_notif\_default\_reg\]
 
 </td><td>
 
-Contains all the [[notifications|notifications]] users are automatically subscribed to for a given push application. You can add notifications to this table on the Push Default Registrations related list on the Push Application form.
+Contains all the notifications users are automatically subscribed to for a given push application. You can add notifications to this table on the Push Default Registrations related list on the Push Application form.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Feedback from the APNs that tells the instance which push devices can no longer 
 
 </td></tr><tr><td>
 
-Push Message Attribute [[clone-exclusions-preservers-cleanupscripts|Definitions]] \[sys\_push\_notif\_msg\_attr\_def\]
+Push Message Attribute Definitions \[sys\_push\_notif\_msg\_attr\_def\]
 
 </td><td>
 
@@ -142,7 +142,7 @@ These business rules are installed with push notifications.
 
 |Business rule|Table|Description|
 |-------------|-----|-----------|
-|Build Device and Subscriptions|Push Installation \[sys\_push\_notification\_installation\]|Automatically creates a notification device on a user's [[preferences-landing|notification preferences]] when the user registers a mobile application with the instance.|
+|Build Device and Subscriptions|Push Installation \[sys\_push\_notification\_installation\]|Automatically creates a notification device on a user's notification preferences when the user registers a mobile application with the instance.|
 
 ## Outbound REST messages installed with push notifications
 
@@ -197,9 +197,3 @@ The push application record for the ServiceNow ServiceNow mobile application. **
 |------------------|-----|-----------|
 |ConnectMessagePushNotification|Live Feed Message \[live\_message\]|Sends a push notification when a new live feed message|
 
-## Related
-
-- [[c_PushNotifications|Push notifications]]
-- [[notifications|Notifications]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[preferences-landing|Notification Preferences]]

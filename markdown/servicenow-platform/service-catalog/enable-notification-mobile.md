@@ -51,10 +51,7 @@ Role required: admin
 
 [Enable the cart in Now Mobile]()
 
-[Edit the [[label|label]] of Submit button for a record producer]()
+[Edit the label of Submit button for a record producer]()
 
 [Configure Now Mobile properties]()
 
-## Related
-
-- [[label|Label]]

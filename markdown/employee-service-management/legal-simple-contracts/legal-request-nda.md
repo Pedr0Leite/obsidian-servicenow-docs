@@ -55,11 +55,11 @@ A sample workflow for a non-disclosure agreement contract request might progress
 7.  \(Optional\) The signed contract is moved to the configured storage and referenced in the contract repository section.
 
 -   **[Submit a legal request for a NDA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/submit-legal-contract-request.md)**  
-[[snlc-submit-nda-request|Submit a legal request for a non-disclosure agreement]] with third parties such as vendors, customers, or partners.
+Submit a legal request for a non-disclosure agreement with third parties such as vendors, customers, or partners.
 -   **[Work on a legal contract request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/work-on-legal-contract-request.md)**  
 As a member of the legal contracts support team, review and revise a contract document as per the requested changes. Upload the revised document to the request and send the document to the requester from within the request.
 -   **[Review and finalize the contract document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/finalize-contract-document-nda.md)**  
-[[finalize-contract-document-nda|Review and finalize the contract document]] for sending it for signature.
+Review and finalize the contract document for sending it for signature.
 -   **[Signature process for a legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsd-signature-workflow.md)**  
 You can require either an electronic or a wet \(manual\) signature for a legal request. The contract approval process differs depending on the signature type selected.
 -   **[Add a manually signed contract](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/upload-contract-document-for-wet-signature.md)**  
@@ -67,7 +67,3 @@ As a legal requester, on receiving the signed contract document from the signato
 
 **Parent Topic:**[Submitting Legal Simple Contracts requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/sub-lg-sim-conts-reqs.md)
 
-## Related
-
-- [[snlc-submit-nda-request|Submit a legal request for a non-disclosure agreement]]
-- [[finalize-contract-document-nda|Review and finalize the contract document]]

@@ -25,7 +25,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning** &gt; **Free-form Roadmaps**
 
 2.  Select a roadmap to open it.
 
@@ -42,6 +42,3 @@ The roadmap is updated and the roadmap items are displayed according to the late
 
 **Parent Topic:**[Create a free-form roadmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-free-form-roadmap-portfolio-planning-workspace.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

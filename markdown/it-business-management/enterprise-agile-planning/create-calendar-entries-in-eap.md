@@ -30,7 +30,7 @@ By the end of this task, you define the timeline for a PI and its child Sprints.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  From the **Settings** menu, select **Enterprise Agile Planning** &gt; **Planning calendars**.
 
@@ -78,6 +78,3 @@ The teams can use these PIs and Sprints to schedule their work.
 
 \[Omitted image "eap-teams-sprints.png"\] Alt text: Team-specific sprints in EAP Backlog.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

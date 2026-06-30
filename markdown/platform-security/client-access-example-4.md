@@ -22,7 +22,7 @@ Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.crypt
 
 ## Procedure
 
-1.  Navigate to the **[[r_SSHCredentialsForm|SSH credentials]]** list by entering `ssh_credentials.list` in the navigation filter.
+1.  Navigate to the **SSH credentials** list by entering `ssh_credentials.list` in the navigation filter.
 
 2.  Select **New** to create an **SSH credential** record.
 
@@ -74,17 +74,12 @@ Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.crypt
 
     Your search should return a single **Wrapped module key** record. From this list you can verify the following:
 
-    -   The **Wrapped key material** column shows that the symmetric key within the Crypto Module \(that is being used to encrypt the SSH credential\) is encrypted by the public key that you uploaded to the [[identity-landing|Identity]] Group.
+    -   The **Wrapped key material** column shows that the symmetric key within the Crypto Module \(that is being used to encrypt the SSH credential\) is encrypted by the public key that you uploaded to the Identity Group.
     -   The **Wrapped key sys id** field shows that it's the key \(the Crypto Module symmetric key\) that is being encrypted by the **Wrapping key sys id** \(the Public Key uploaded to the Identity Group\).
     If the preceding fields aren't on your list by default, you can add them to the list by selecting the **Personalize list** icon \(\[Omitted image "gear-icon.png"\] Alt text: Personalize list button\).
 
     **Note:** Your instance executes a clean-up job every 10 minutes, which removes orphaned keys and helps prevent unassociated key proliferation after you update your credentials.
 
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[r_SSHCredentialsForm|SSH credentials]]
-- [[identity-landing|Identity]]

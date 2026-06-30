@@ -20,7 +20,7 @@ Use the employee portal to review and work on the action plan related to the obs
 
 Role required: sn\_grc.business\_user
 
-**Note:** If you have installed GRC: Advanced Core, then by default the value of the **sn\_grc\_advanced.enable\_my\_issues\_hide\_my\_reported\_issues** system property is also set to **true**. These two conditions must be fulfilled to view the Issue triage form in [[employee-center|Employee Center]]. Otherwise, you can view only the [[issue-form|Issue form]].
+**Note:** If you have installed GRC: Advanced Core, then by default the value of the **sn\_grc\_advanced.enable\_my\_issues\_hide\_my\_reported\_issues** system property is also set to **true**. These two conditions must be fulfilled to view the Issue triage form in Employee Center. Otherwise, you can view only the Issue form.
 
 ## About this task
 
@@ -182,7 +182,7 @@ Analysis of the root cause of the issue.
 
 9.  Click the issue triage request number, which has a prefix IST, to view messages, if any, from the approver.
 
-    The issue triage [[list-view-uib-ws|list view]] header displays the name of the person who opened the issue triage, issue type, substate, triage owner, and its priority.
+    The issue triage list view header displays the name of the person who opened the issue triage, issue type, substate, triage owner, and its priority.
 
 10. To send additional information on the issue triage to the triage owner, click the **Actions** list.
 
@@ -190,8 +190,4 @@ Analysis of the root cause of the issue.
 
 12. Click the **Send** button.
 
-## Related
 
-- [[employee-center|employee center]]
-- [[issue-form|Issue form]]
-- [[list-view-uib-ws|List view]]

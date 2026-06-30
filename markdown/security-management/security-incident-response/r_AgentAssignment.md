@@ -18,7 +18,7 @@ Depending on your settings in the SIR Administration Configuration screen, you c
 
 ## Manual analyst assignment
 
-You can configure the [[sir-landing-page|Security Incident Response]] Administration Configuration screen to require that security analysts be assigned manually whenever someone or the SIR application creates a security incident or generates a security response task.
+You can configure the Security Incident Response Administration Configuration screen to require that security analysts be assigned manually whenever someone or the SIR application creates a security incident or generates a security response task.
 
 If a security incident or response task cannot be auto-assigned, you can set the SIR Administration Configuration screen to require the manual assignment of security analysts. This is a good choice if you have a limited number of security analysts for completing requests or if you simply do not want to auto-assign them.
 
@@ -40,7 +40,7 @@ If auto-assignment is enabled and a security incident or a response task is crea
 -   An appropriate security analyst is automatically assigned to the task.
 -   The task is moved to the **Assigned** state.
 
-If the configuration is set up to consider more than one set of conditions, such as skills, [[location|location]], time zone, or group coverage area, the security analysts are evaluated based on the weighting property settings and other criteria. These [[qradar-ibm-intg-settings|configuration settings]] help you auto-assign agents based on optional properties. The calculated ratings are used to determine the best agent for the security incident or response task. Any combination of rating-based methods can be enabled in the application configuration screen.
+If the configuration is set up to consider more than one set of conditions, such as skills, location, time zone, or group coverage area, the security analysts are evaluated based on the weighting property settings and other criteria. These configuration settings help you auto-assign agents based on optional properties. The calculated ratings are used to determine the best agent for the security incident or response task. Any combination of rating-based methods can be enabled in the application configuration screen.
 
 When a task is created, a rating for each type of enabled selection criteria is calculated for each available agent. The agent whose total rating is highest is considered for auto-assignment.
 
@@ -62,7 +62,7 @@ Auto-assignment by location is performed when the **Auto-selection of agents wil
 
 When a task \(security incident or response task\) is created, the agent closest to the task location is considered for the task. If the application is configured so that only location is considered, the closest agent is auto-assigned the task.
 
-When a task is created, agent [[threat-intelligence-locations|locations]] are compared to the following ranges to determine each agent location rating.
+When a task is created, agent locations are compared to the following ranges to determine each agent location rating.
 
 |Distance \(mi.\) from agent to task|Rating|
 |-----------------------------------|------|
@@ -175,9 +175,3 @@ In this example, Agent A is auto-assigned the task.
 
 You can configure [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-application-landing-page.md) to automatically assigns security incidents to your security analysts, based on their availability, capacity, and optionally, skills. AWA pushes work to qualified security analysts using work item queues, routing conditions, and assignment criteria that you define.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[location|Location]]
-- [[qradar-ibm-intg-settings|Configuration settings]]
-- [[threat-intelligence-locations|Locations]]

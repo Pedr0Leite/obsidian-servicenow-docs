@@ -20,7 +20,7 @@ Role required: Scan Engine Admin \(`sn_se.scan_engine_admin`\).
 
 ## Procedure
 
-1.  Navigate to **ALL &gt; [[impact-landing-page|Impact]] &gt; Configuration &gt; Scan Engine Properties**.
+1.  Navigate to **ALL &gt; Impact &gt; Configuration &gt; Scan Engine Properties**.
 
 2.  Select who will see real time scanning results:
 
@@ -44,9 +44,5 @@ Role required: Scan Engine Admin \(`sn_se.scan_engine_admin`\).
     This sets the maximum number of code lines that can be scanned in real-time. Scripts exceeding this limit will not be scanned during editing.
 
 
-**Parent Topic:**[[configure-scan-engine-properties|Configure Scan Engine properties]]
+**Parent Topic:**[Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md)
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]
-- [[impact-landing-page|Impact]]

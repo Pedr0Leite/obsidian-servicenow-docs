@@ -14,13 +14,13 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Revert normalization of hardware and consumable models
 
-Revert the normalization of hardware and consumable [[c_Models|models]] in the [[using-ham-workspace|Hardware Asset Workspace]].
+Revert the normalization of hardware and consumable models in the Hardware Asset Workspace.
 
 ## Before you begin
 
 Role required: Users with assetor model\_admin role \(without Domain separation\), assetor model\_admin and domain\_admin \(with Domain separation\).
 
-**Note:** The model\_admin role is available only if the [[ot-asset-management|OT Asset Management]] application is activated on your ServiceNow instance. This role enables you to revert the normalization status of OT hardware models. For more details on OT assets, see [OT Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-ws-otam.md). The model\_admin role includes the mode\_manager sub-role.
+**Note:** The model\_admin role is available only if the OT Asset Management application is activated on your ServiceNow instance. This role enables you to revert the normalization status of OT hardware models. For more details on OT assets, see [OT Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/ot-asset-ws-otam.md). The model\_admin role includes the mode\_manager sub-role.
 
 ## About this task
 
@@ -44,7 +44,7 @@ Action
 
 </td><td>
 
--   For hardware models, navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Models** &gt; **Hardware models**.
+-   For hardware models, navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Hardware models**.
 -   For consumable models, navigate to **All** &gt; **Product Catalog** &gt; **Product Models** &gt; **Consumable models**.
 
 
@@ -61,7 +61,7 @@ Action
 </td></tr></tbody>
 </table>2.  Select a hardware or consumable model record that is already normalized.
 
-3.  Select **[[revert-norm-eam|Revert Normalization]]** and select one of these options in the confirmation message:
+3.  Select **Revert Normalization** and select one of these options in the confirmation message:
 
     -   To mark your confirmation and proceed with reverting model normalization, select **Proceed**.
     -   To dismiss the model normalization revert, select **Cancel**.
@@ -78,10 +78,3 @@ After the revert normalization process is complete, the following changes take p
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ot-asset-management|OT Asset Management]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[revert-norm-eam|Revert normalization]]

@@ -36,7 +36,7 @@ Preview the alert output across example events to verify that the values are ext
 
 ## Example: Extracting alert fields
 
-Suppose you need to extract only six letters from a specific field of an event and display them in a new alert field named `mynewfield`. You also want to tag this new alert field for later use in [[c_ServiceAnalyticsOverview|alert grouping]]. Here's how you can achieve this:
+Suppose you need to extract only six letters from a specific field of an event and display them in a new alert field named `mynewfield`. You also want to tag this new alert field for later use in alert grouping. Here's how you can achieve this:
 
 -   **Source input field**: Select the event field from which you want to extract data. In this case, the field is **Metric Name**.
 -   **Regular expression**: Use a regular expression to extract the specific part you need from the selected field's value. For example, if the **Metric Name** field value contains "Free swap space in %" and you want to extract "Free swap", your regular expression must be \(.........\).\*.
@@ -74,6 +74,3 @@ Suppose you want to have two input fields that compose data and display it in tw
 
     2.  **Alert output**: Select an existing alert field where you want to display the values from the input fields. For instance, select **Description**.
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

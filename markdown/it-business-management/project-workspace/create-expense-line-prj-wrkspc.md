@@ -28,7 +28,7 @@ For unplanned expense lines which aren’t associated with any cost plan, the sy
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  Select **Financials** from the left menu.
 
@@ -73,7 +73,7 @@ Select **New expense line** using the More actions option.\[Omitted image "fin-n
 **Note:** Use this option to record and calculate any unplanned expenses.
 
 </td></tr></tbody>
-</table>4.  On the [[create-exp-line-form-pp|Create expense line form]], fill the fields.
+</table>4.  On the Create expense line form, fill the fields.
 
     For a description of the field names, see [Create expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-exp-line-form-spw.md).
 
@@ -84,7 +84,3 @@ Select **New expense line** using the More actions option.\[Omitted image "fin-n
 
 **Parent Topic:**[Managing financials for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/using-financials-prj-wrkspc.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-exp-line-form-pp|Create expense line form]]

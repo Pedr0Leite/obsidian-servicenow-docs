@@ -18,13 +18,13 @@ Use this agent to enable users to check their company-related latest news and up
 
 Verify that you have the following plugins:
 
--   [[now-assisit-employee-exp|Now Assist for Employee Experience]] version 2.0.3 and later.
+-   Now Assist for Employee Experience version 2.0.3 and later.
 
     The AI Agents for Employee Experience is automatically installed with the updated version.
 
--   Content Publishing version 36.0.4 \(Installed automatically as part of [[employee-center-pro-landing|Employee Center Pro]]\)
+-   Content Publishing version 36.0.4 \(Installed automatically as part of Employee Center Pro\)
 
-\[Omitted image "uex-aiagent-event.png"\] Alt text: Checking [[ec-company-events|company events]] in Now Assist\[Omitted image "uex-aiagent-eventtopic.png"\] Alt text: Checking more details about a specify event in Now Assist.\[Omitted image "uex-aiagent-steps.png"\] Alt text: Latest news and events in Now Assist.
+\[Omitted image "uex-aiagent-event.png"\] Alt text: Checking company events in Now Assist\[Omitted image "uex-aiagent-eventtopic.png"\] Alt text: Checking more details about a specify event in Now Assist.\[Omitted image "uex-aiagent-steps.png"\] Alt text: Latest news and events in Now Assist.
 
 ## Company News &amp; Events AI Agent overview
 
@@ -59,8 +59,3 @@ To activate, refer to [Activate Company News and Events AI Agent](https://raw.gi
 |Get Filters|Scripts|Autonomous|false|
 |Get latest news|Scripts|Autonomous|false|
 
-## Related
-
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ec-company-events|Company events]]

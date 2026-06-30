@@ -24,9 +24,9 @@ Several matching criteria are provided with the assignment workbench:
 
 -   **Availability Today**: Availability is calculated based on the agent's work schedule, assigned work, and personal time off. The more availability an agent has, the higher the contribution to the agent's overall rank.
 -   **Matching Skills**: The number of agent skills that match the skills required for the incident. The more skills that match, the higher the contribution to the agent's overall rank.
--   **Matching Skills - [[mandatory-skills|Mandatory Skills]] Support** Calculates the number of agent skills that match the mandatory skills. It does this by filtering out all agents who do not have the mandatory skills and ranks the remaining agents. The more skills that match, the higher the contribution to the agent's overall rank.
+-   **Matching Skills - Mandatory Skills Support** Calculates the number of agent skills that match the mandatory skills. It does this by filtering out all agents who do not have the mandatory skills and ranks the remaining agents. The more skills that match, the higher the contribution to the agent's overall rank.
 
-    **Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [[configure-mandatory-skills-feature|Configuring mandatory skills]] identified for an incident.
+    **Note:** If using the mandatory skills feature, use the **Matching Skills - Mandatory Skills Support** criterion to match agents with the [Configuring mandatory skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-mandatory-skills-feature.md) identified for an incident.
 
 -   **Assigned Incidents**: The number of incidents already assigned to this agent. The more incidents assigned, the lower the contribution to the agent's overall rank.
 -   **Last Assigned**: For the sake of balancing assigned work, prioritized the agent based on the last assigned work.
@@ -104,10 +104,5 @@ Calculations:
 
 This calculation is performed for each agent in the assignment group. Agents are ranked based on the value of this calculation, with the highest number earning the highest ranking.
 
-**Parent Topic:**[[assignment-rules-work-scheduler-wfo-cs|Create a criteria for a matching rule in Work scheduler]]
+**Parent Topic:**[Create a criteria for a matching rule in Work scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/assignment-rules-work-scheduler-wfo-cs.md)
 
-## Related
-
-- [[configure-mandatory-skills-feature|Configuring mandatory skills]]
-- [[assignment-rules-work-scheduler-wfo-cs|Create a criteria for a matching rule in Work scheduler]]
-- [[mandatory-skills|Mandatory skills]]

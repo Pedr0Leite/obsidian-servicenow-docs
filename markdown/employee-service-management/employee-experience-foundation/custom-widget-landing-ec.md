@@ -14,12 +14,12 @@ breadcrumb: [Setup Employee Center browse experience features, Configuring Emplo
 
 # Employee Center browse experience widgets
 
-Modify the default widget settings according to your organization's needs on [[employee-center-landing-page|Employee Center]].
+Modify the default widget settings according to your organization's needs on Employee Center.
 
 Widgets are containers that display dynamic content from ServiceNow® applications and plug-ins on the Employee Center portal. Employees can use widgets to view company announcements, complete to-dos, access SSO-integrated apps, or navigate to popular topics without leaving the portal. Portal admins can customize the widgets, rearranging their size and order and modifying their display.
 
 -   **[Popular topics widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-popular-topics.md)**  
-[[config-popular-topics|Popular topics widget]] lets you quickly view and access the most popular topics. You can configure the instance options to control the appearance of the widget, such as the title, number of topics, display size, and border color.
+Popular topics widget lets you quickly view and access the most popular topics. You can configure the instance options to control the appearance of the widget, such as the title, number of topics, display size, and border color.
 -   **[Modify the topic header widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-topic-widget.md)**  
 The topic header widget displays the topic and its child topics, including all the connected content associated with the topics. You can configure the instance options to control the appearance of the topic header widget, such as the topic description and the topic banner and icon.
 -   **[Modify the topic content widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-topic-content-widget.md)**  
@@ -29,7 +29,3 @@ The sub-topics widget displays all the child topics associated with the parent t
 
 **Parent Topic:**[Setup Employee Center browse experience features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-browse-experience.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[config-popular-topics|Popular topics widget]]

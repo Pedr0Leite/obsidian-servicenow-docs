@@ -63,7 +63,7 @@ Description
 
 </td></tr><tr><td id="d186381e189">
 
-**Compose an email from [[csm-config-ws-activity-stream|Activity stream]]**
+**Compose an email from Activity stream**
 
 </td><td>
 
@@ -128,6 +128,3 @@ Generates a recommended email response that is based on the context of the email
 
 **Parent Topic:**[Using Now Assist for Customer Service Management \(CSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/now-assist-csm-using.md)
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]

@@ -18,7 +18,7 @@ The LFDocumentContentBuilder provides utility functions to build document conten
 
 ## initialize \(version, targetLanguage, sys\_id, tableName\)
 
-Use this function as a constructor for LFDocumentContentBuilder and includes the following [[r_DirectJDBCProbeParameters|parameters]]:
+Use this function as a constructor for LFDocumentContentBuilder and includes the following parameters:
 
 <table id="table_okx_rqv_xnb"><thead><tr><th>
 
@@ -54,7 +54,7 @@ String
 
 </td><td>
 
-The target language of the [[ia-localization-il|localization]] task document content. The target language is the same as the language available from the read script function argument.
+The target language of the localization task document content. The target language is the same as the language available from the read script function argument.
 
 </td></tr><tr><td>
 
@@ -197,7 +197,3 @@ saveTranslatedContent: function(documentContent) {
 
 **Parent Topic:**[Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[ia-localization-il|Localization]]

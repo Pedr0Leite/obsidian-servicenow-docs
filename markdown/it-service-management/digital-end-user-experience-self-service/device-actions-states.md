@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-Us
 
 # Device action execution states and offline behavior
 
-Execution state codes for [[device-actions|device actions]] and how the platform handles actions triggered on offline [[dex-workspace-devices-tab|devices]].
+Execution state codes for device actions and how the platform handles actions triggered on offline devices.
 
 |State|Code|Description|
 |-----|----|-----------|
@@ -33,7 +33,3 @@ Queued actions remain in Running state until the device reconnects and the actio
 
 **Note:** The platform processes queued actions in batches of 200, with a 10-second delay between batches.
 
-## Related
-
-- [[device-actions|Device actions]]
-- [[dex-workspace-devices-tab|Devices]]

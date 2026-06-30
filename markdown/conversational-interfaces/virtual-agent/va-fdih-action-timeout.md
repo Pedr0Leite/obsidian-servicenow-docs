@@ -33,7 +33,7 @@ Role required: admin
         |Field|Value|
         |-----|-----|
         |Name|Enter the system property name: `com.glide.cs.fdih.interactive.timeout`.|
-        |Description|Enter an explanation for this property, such as: `[[virtual-agent-landing-page|Virtual Agent]] Workflow Studio IntegrationHub workflow timeout (in seconds)`.|
+        |Description|Enter an explanation for this property, such as: `Virtual Agent Workflow Studio IntegrationHub workflow timeout (in seconds)`.|
         |Type|Enter `integer`.|
         |Value|Enter the number of seconds before the workflow action times out. The default value is 120 seconds. This value should not exceed the value set in the **com.glide.cs.convesation\_idle\_timeout** system property. The **com.glide.cs.convesation\_idle\_timeout** property's default timeout value is 7,200 seconds.|
 
@@ -42,6 +42,3 @@ Role required: admin
 
 **Parent Topic:**[Integrating Virtual Agent with Workflow Studio workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-flow-designer-integration.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

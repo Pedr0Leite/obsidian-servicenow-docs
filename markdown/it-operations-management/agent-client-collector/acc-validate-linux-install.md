@@ -14,7 +14,7 @@ breadcrumb: [ACC installation on a Linux OS system, ACC deployment - servers, Co
 
 # Validate Linux installation
 
-After installing the [[acc-landing-page|Agent Client Collector]] on a Linux system, validate the installation by ensuring it was completed properly.
+After installing the Agent Client Collector on a Linux system, validate the installation by ensuring it was completed properly.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Agent Client Collector installation on a Linux OS system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-install-linux-concept.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

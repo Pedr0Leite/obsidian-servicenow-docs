@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables for Supplier Lifecycle Operations, Inbound s
 
 # Supplier Contact inbound staging table
 
-The [[supplier-contact|Supplier contact]] inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound\] staging table temporarily stores important data about a supplier contact before this data is sent to the Supplier Contact \[vm\_vdr\_contact\] primary table.
+The Supplier contact inbound \[sn\_fcms\_intg\_supplier\_contact\_inbound\] staging table temporarily stores important data about a supplier contact before this data is sent to the Supplier Contact \[vm\_vdr\_contact\] primary table.
 
 ## Supplier contact inbound staging table
 
@@ -33,13 +33,9 @@ The following table lists the mandatory fields for the Supplier contact inbound 
 
 [Supplier inbound staging table]()
 
-[Supplier [[legal-entity|Legal Entity]] mapping inbound staging table]()
+[Supplier Legal Entity mapping inbound staging table]()
 
 [Supplier Location inbound staging table]()
 
 [Supplier Payment inbound staging table]()
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[legal-entity|Legal entity]]

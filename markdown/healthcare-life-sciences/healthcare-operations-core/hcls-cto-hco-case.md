@@ -14,19 +14,15 @@ breadcrumb: [Explore, Healthcare Operations Core, Healthcare Operations, Healthc
 
 # Healthcare Operations Case overview
 
-The [[healthcare-operations-overview|Healthcare Operations]] Case \[sn\_hco\_case\] enables streamlined support for operational healthcare use cases.
+The Healthcare Operations Case \[sn\_hco\_case\] enables streamlined support for operational healthcare use cases.
 
 \[Omitted image "HCOCase.png"\] Alt text: Healthcare Operation Core case types.
 
 The Healthcare Operations Case \[sn\_hco\_case\] table is an abstract, extendable table that stores healthcare operations-related cases. It provides a foundation for extending and building your own operational request types.
 
-The Healthcare Operations Case type enables streamlined support for operational healthcare use cases by enabling administrators to create case types for use with the [[care-team-portal-landing|Care Team Portal]].
+The Healthcare Operations Case type enables streamlined support for operational healthcare use cases by enabling administrators to create case types for use with the Care Team Portal.
 
 By associating these cases with healthcare organizations, care team members can view all cases created for their team, unit, or healthcare organization.
 
 For information on configuring the Healthcare Operations Case for your operational use cases, see [Configuring Healthcare Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hcls-cto-configuring.md).
 
-## Related
-
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[care-team-portal-landing|Care Team Portal]]

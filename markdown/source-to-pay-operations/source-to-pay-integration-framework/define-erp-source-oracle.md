@@ -14,7 +14,7 @@ breadcrumb: [Configure, Source-to-Pay integration with Oracle EBS, Integration w
 
 # Define ERP source configuration for Oracle EBS
 
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the Oracle EBS tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the Oracle EBS tables.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ Each ERP instance requires a unique ERP source configuration. Therefore, 10 ERP 
         |Active|Option to activate the ERP source.|
         |Amount Precisions|Amount precision of the ERP source. For example, 2.|
 
-        \[Omitted image "oracle-ebs-new-erp-source.png"\] Alt text: Define a new [[erp-source-configuration-oracle|ERP source configuration for Oracle EBS]]
+        \[Omitted image "oracle-ebs-new-erp-source.png"\] Alt text: Define a new ERP source configuration for Oracle EBS
 
     3.  Select **Submit**.
 
@@ -82,8 +82,3 @@ By default, the Oracle EBS base system provides 13 service mappings. For other O
 
 [Scheduled jobs to look up primary data in Oracle EBS]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]
-- [[erp-source-configuration-oracle|ERP source configuration for Oracle EBS]]

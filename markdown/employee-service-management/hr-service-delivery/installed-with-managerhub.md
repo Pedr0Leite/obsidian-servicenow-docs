@@ -14,7 +14,7 @@ breadcrumb: [Reference, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Components installed with Manager Hub
 
-Several types of components are installed with activation of the [[manager-hub-overview|Manager Hub]] \[sn\_mh\] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Manager Hub \[sn\_mh\] plugin, including tables, user roles, and scheduled jobs.
 
 Demo data is available for this feature.
 
@@ -40,7 +40,7 @@ Manager Hub Admin\[sn\_mh.admin\]
 
 Grants write access to Manager Hub contents. A Manager Hub administrator can:-   Activate and run the Add Manager Hub user role scheduled job to assign the Manager Hub user role to new people managers.
 -   Manually assign the Manager Hub user role to new people managers.
--   [[configure-team-data|Configure team data]], team request, important dates records, team column data, team filters, and daily stats records to display data on Manager Hub.
+-   Configure team data, team request, important dates records, team column data, team filters, and daily stats records to display data on Manager Hub.
 
 </td><td>
 
@@ -176,19 +176,13 @@ Stores configuration records of team requests.
 
 [Default configurations for To do's]()
 
-[Default [[proactive-prompts-for-hrsd|proactive prompts]] for Manager Hub]()
+[Default proactive prompts for Manager Hub]()
 
 [Use the View menu icon in Manager Hub]()
 
-[Assign [[exploring-learning-exp|learning]] form]()
+[Assign learning form]()
 
 [Create a conversation form]()
 
 [Schedule a conversation form]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[configure-team-data|Configure team data]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[exploring-learning-exp|Learning]]

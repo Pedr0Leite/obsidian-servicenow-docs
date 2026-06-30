@@ -22,13 +22,13 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
-2.  Go to the **[[talent-pool-overview|Talent pool]]** tab.
+2.  Go to the **Talent pool** tab.
 
 3.  In the Talent pool section, select the required Talent pool.
 
-4.  Select the [[talent-profile-landing|talent profile]] or profiles to activate the **Remove** button provided as a secondary button adjacent to the **Copy to another pool** button.
+4.  Select the talent profile or profiles to activate the **Remove** button provided as a secondary button adjacent to the **Copy to another pool** button.
 
 5.  In the Remove talent pop-up window, select **Remove** to confirm removing the selected talent profiles.
 
@@ -41,8 +41,3 @@ You have removed the selected talent profiles from the pool.
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-pool-overview|Talent pool]]
-- [[talent-profile-landing|Talent Profile]]

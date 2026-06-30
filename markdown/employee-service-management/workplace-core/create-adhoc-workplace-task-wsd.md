@@ -14,11 +14,11 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Create an ad hoc workplace task
 
-Create an ad hoc task in [[workplace-safety-mgmt-hr|Workplace Core]] for unplanned activities. For example, if you notice that something isn't clean in an area or want the area to be cleaned again, you can [[create-adhoc-workplace-task|create an ad hoc workplace task]] to get the cleaning done immediately.
+Create an ad hoc task in Workplace Core for unplanned activities. For example, if you notice that something isn't clean in an area or want the area to be cleaned again, you can create an ad hoc workplace task to get the cleaning done immediately.
 
 ## Before you begin
 
-**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.admin or sn\_wsd\_core.workplace\_manager
 
@@ -28,7 +28,7 @@ You can also access the workplace task form by navigating to **Workplace Core** 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Workplace services** &gt; **Browse Workplace Services**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace services** &gt; **Browse Workplace Services**.
 
 2.  Select **Add a task**.
 
@@ -163,10 +163,3 @@ The ad hoc task is added to the list of all tasks that you can view by navigatin
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[create-adhoc-workplace-task|Create an ad hoc workplace task]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]

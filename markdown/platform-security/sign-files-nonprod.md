@@ -68,7 +68,7 @@ Table
 
 Table containing the records or attachments you want to sign.If signing attachments, select the table with records that the attachments are associated with, not the Attachment \[sys\_attachment\] table.
 
-**Tip:** Check the [[encryption|Key Management Framework]] \(KMF\) Signature Record \[sn\_kmf\_record\_signature\] table to ensure that there aren’t already signatures for the table you’ve selected.
+**Tip:** Check the Key Management Framework \(KMF\) Signature Record \[sn\_kmf\_record\_signature\] table to ensure that there aren’t already signatures for the table you’ve selected.
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ Summary of the execution of this job. This field is read only.
 
 5.  Open the job that you saved, and click **Start**.
 
-    This action signs the signing job, and it’s ready for [[export|export]].
+    This action signs the signing job, and it’s ready for export.
 
 6.  Navigate to **All** &gt; **System Update Sets** &gt; **Local Update Sets**
 
@@ -147,7 +147,4 @@ Summary of the execution of this job. This field is read only.
 
 15. Select **Commit Update Set**.
 
-## Related
 
-- [[encryption|Key Management Framework]]
-- [[export|Export]]

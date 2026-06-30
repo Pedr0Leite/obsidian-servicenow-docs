@@ -18,7 +18,7 @@ Use the **glide.security.file.mime\_type.validation** property to activate MIME 
 
 The **glide.security.file.mime\_type.validation** system property is used to activate MIME type checking for uploads.
 
-Ensure that the property **glide.security.file.mime\_type.validation** exists in the [[ca-system-properties|System Properties]] \[sys\_properties\] and is set to **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
+Ensure that the property **glide.security.file.mime\_type.validation** exists in the System Properties \[sys\_properties\] and is set to **true**. If the property does not appear in the System Properties \[sys\_properties\] table, add a new record.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -115,7 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

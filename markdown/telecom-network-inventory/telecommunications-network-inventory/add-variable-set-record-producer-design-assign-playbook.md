@@ -14,7 +14,7 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Add variable set to the record producer for Design and Assign function
 
-Add a variable set to a record producer in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use the variable set as input fields in an activity card for the [[using-playbooks-design-assign-inventory-record|Design and Assign function]].
+Add a variable set to a record producer in the Telecommunications Network Inventory application. You can use the variable set as input fields in an activity card for the Design and Assign function.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_ni\_core.inventory\_admin
 
 ## About this task
 
-The variable set has common attributes which are retrieved during the change task creation. You can use an existing variable set or create a variable set depending on your requirement. To configure an activity in the [[telecommunications-circuit-design-resource-assignment|Design and Assign]] playbook, use the **DA common variables** variable set.
+The variable set has common attributes which are retrieved during the change task creation. You can use an existing variable set or create a variable set depending on your requirement. To configure an activity in the Design and Assign playbook, use the **DA common variables** variable set.
 
 ## Procedure
 
@@ -58,8 +58,3 @@ Create a subflow for the activity. [Create subflow for Design and Assign functio
 
 [Configure a Design and Assign function example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-design-assign-playbook-use-case.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

@@ -26,13 +26,13 @@ You must have already created a synonym dictionary. For information on creating 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search Engine** &gt; **Dictionaries**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Engine** &gt; **Dictionaries**.
 
 2.  Open the synonym dictionary that you want to add the new synonym to.
 
 3.  In the AI Search Dictionary Terms related list, select **New**.
 
-4.  On the [[dictionary-term-form-ais|Dictionary Term form]], fill in the fields.
+4.  On the Dictionary Term form, fill in the fields.
 
     For a description of the field values, see [Dictionary Term form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/dictionary-term-form-ais.md).
 
@@ -44,7 +44,7 @@ You must have already created a synonym dictionary. For information on creating 
 
 7.  Choose one of the following actions.
 
-    -   To save the modified dictionary and refresh its active [[synonyms-ais|synonyms]] in all linked search profiles, select **Publish**.
+    -   To save the modified dictionary and refresh its active synonyms in all linked search profiles, select **Publish**.
     -   To save the modified dictionary without refreshing its active synonyms in all linked search profiles, select **Update**.
 
 ## Define a synonym with equivalent words and phrases
@@ -55,8 +55,3 @@ This example shows a synonym defining `vacation`, `holiday`, `PTO`, and the phra
 
 **Parent Topic:**[Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[dictionary-term-form-ais|Dictionary Term form]]
-- [[synonyms-ais|Synonyms]]

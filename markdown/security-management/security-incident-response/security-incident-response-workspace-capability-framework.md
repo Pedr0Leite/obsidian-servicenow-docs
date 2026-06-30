@@ -16,7 +16,7 @@ breadcrumb: [SIR Workspace Orchestration, Working with Security Incident Records
 
 In the classic UI, the experience is disjointed when performing orchestration activities such as running threat look, performing sighting search, and so on. Each capability has its own experience while executing it. In the new workspace, there is unified experience across all capabilities.
 
-The unified experience is applicable only for those integrations and orchestration activities that fall within the capability framework. There can be actions specific to integration, for example, [[create-indicator-cs-falcon-insight|Create Indicators]] in Microsoft Defender. These actions will have its own experience as required by the use-case.
+The unified experience is applicable only for those integrations and orchestration activities that fall within the capability framework. There can be actions specific to integration, for example, Create Indicators in Microsoft Defender. These actions will have its own experience as required by the use-case.
 
 The new framework consists of modal screens with three steps as explained below.
 
@@ -26,7 +26,7 @@ The new framework consists of modal screens with three steps as explained below.
 
     Each implementation will have the details of the Integration Source. Refer to the table below. Additional information is also presented against each implementation.
 
-    Additional Information can include for example information on any filters, types of [[c_Observables|observables]] supported, etc. The Additional Information can be configured as desired. For more information, to UX framework technical configuration procedure.
+    Additional Information can include for example information on any filters, types of observables supported, etc. The Additional Information can be configured as desired. For more information, to UX framework technical configuration procedure.
 
 <table id="table_ysx_rc1_vvb"><thead><tr><th>
 
@@ -61,11 +61,11 @@ Additional Information
 This column captures the static information which adds more context to the security analyst against the selected implementation\(s\) to proceed with an action. For example, supportability or filtered information. Also, if an implementation supports only a certain type of observables such as Domain or URL, then you can add that additional information here in this column to provide the context to the user.**Note:** The UI framework would basically allow the selection of any type of implementation and any type of observables. During the submission, the existing base system integrations that are shipped will take care of the filtering in the backend and submit only the supported type of observables. The rest of the records that don't match the supportability will be ignored. Hence, a UI information message is displayed while you select the capability: **Only supported records will be submitted against the selected implementation\(s\).**
 
 </td></tr></tbody>
-</table>    \[Omitted image "screen1.png"\] Alt text: [[tisc-run-threat-lookup|Run Threat Lookup]] view: Available Implementations.
+</table>    \[Omitted image "screen1.png"\] Alt text: Run Threat Lookup view: Available Implementations.
 
-2.  **[[common-inputs|Common inputs]]**: Add common inputs for the selected implementations or for all the selected applicable implementations. This is the screen 2 of your implementation. For example, as of now only **[[indicator-sightings|Sightings]] Search** has the common inputs screen. This implementation is a combination of screen 1 \(Implementations\) and screen 2 \(common inputs\).
+2.  **Common inputs**: Add common inputs for the selected implementations or for all the selected applicable implementations. This is the screen 2 of your implementation. For example, as of now only **Sightings Search** has the common inputs screen. This implementation is a combination of screen 1 \(Implementations\) and screen 2 \(common inputs\).
 
-    \[Omitted image "common-input-hours.png"\] Alt text: [[tisc-run-sighting-search|Run Sighting Search]] view: Common inputs.
+    \[Omitted image "common-input-hours.png"\] Alt text: Run Sighting Search view: Common inputs.
 
 3.  **Run time details**: Add specific run time inputs for the selected implementations which are different from each other implementation. This is the screen 3 of your implementation. This implementation is a combination of screen 1 \(Implementations\) and screen 3 \(specific run time inputs\).
 
@@ -86,11 +86,3 @@ This example demonstrates the unified experience framework capabilities.
 
 [SIR Workspace Investigation Canvas]()
 
-## Related
-
-- [[create-indicator-cs-falcon-insight|Create indicators]]
-- [[c_Observables|Observables]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[common-inputs|common inputs]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-run-sighting-search|Run Sighting Search]]

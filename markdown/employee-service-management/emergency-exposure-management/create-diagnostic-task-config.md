@@ -18,7 +18,7 @@ Create or modify a diagnostic request task configuration to auto-create a diagno
 
 ## Before you begin
 
-The **Diagnostic Request Task Configs** module in the application navigator is available only if you have the [[contact-tracing|Contact Tracing]] application installed.
+The **Diagnostic Request Task Configs** module in the application navigator is available only if you have the Contact Tracing application installed.
 
 Role required: admin
 
@@ -28,7 +28,7 @@ A diagnostic request task configuration is required only when a tracing system r
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[emergency-exposure-management|Emergency Exposure Management]]** &gt; **Diagnostic Request Task Configs**.
+1.  Navigate to **All** &gt; **Emergency Exposure Management** &gt; **Diagnostic Request Task Configs**.
 
 2.  Click **New**.
 
@@ -142,7 +142,3 @@ Script to run after the completion of the data import.
 
 A diagnostic request task configuration for a data source type is created.
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-exposure-management|Emergency Exposure Management]]

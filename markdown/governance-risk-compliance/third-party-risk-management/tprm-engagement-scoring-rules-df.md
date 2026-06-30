@@ -22,7 +22,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
 ## About this task
 
-**Important:** Engagement risk scoring rules apply only to engagements and not to parent third parties. Engagement risk rating scores, therefore, apply only to [[risk-assessments|risk assessments]] for the engagement.
+**Important:** Engagement risk scoring rules apply only to engagements and not to parent third parties. Engagement risk rating scores, therefore, apply only to risk assessments for the engagement.
 
 ## Procedure
 
@@ -114,7 +114,3 @@ Criteria for selecting engagements.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[risk-assessments|risk assessments]]

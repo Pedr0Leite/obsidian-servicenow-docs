@@ -20,9 +20,9 @@ Role required: sn\_oper\_res.admin, sn\_dri\_inc\_rptg.digital\_resilience\_inci
 
 ## About this task
 
-The Digital Resilience Incident Case module in the [[grc-opres-landing-page|Operational Resilience]] Workspace lists all Digital Resilience Incident Cases associated with an incident or security incident. A new Regulation Mappings related list, now available in each Digital Resilience Incident Case record, displays the relationships between entities related to the cases and their corresponding regulations.
+The Digital Resilience Incident Case module in the Operational Resilience Workspace lists all Digital Resilience Incident Cases associated with an incident or security incident. A new Regulation Mappings related list, now available in each Digital Resilience Incident Case record, displays the relationships between entities related to the cases and their corresponding regulations.
 
-Each regulation mapped to an entity drives the action task workflow for that case. When a regulation is added or updated for a Digital Resilience Incident Reporting case, the 'Action task automation for regulation addition' and 'Action task automation on regulation updates' flows run. These flows read the action task configuration of the matching Regulatory Body Management Agency Profile \[sn\_reg\_body\_mgmt\_agency\_profile\] record and automatically create the required action tasks \(Regulatory reporting assessment of IT incidents, DRI Initial/Intermediate/Final reports\) with the assignment groups, due dates, repeat intervals, and termination conditions defined in those templates. For details on the action task templates, see [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]].
+Each regulation mapped to an entity drives the action task workflow for that case. When a regulation is added or updated for a Digital Resilience Incident Reporting case, the 'Action task automation for regulation addition' and 'Action task automation on regulation updates' flows run. These flows read the action task configuration of the matching Regulatory Body Management Agency Profile \[sn\_reg\_body\_mgmt\_agency\_profile\] record and automatically create the required action tasks \(Regulatory reporting assessment of IT incidents, DRI Initial/Intermediate/Final reports\) with the assignment groups, due dates, repeat intervals, and termination conditions defined in those templates. For details on the action task templates, see [Set up action task templates in Regulatory agency profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-action-task-templates.md).
 
 ## Procedure
 
@@ -35,7 +35,7 @@ Each regulation mapped to an entity drives the action task workflow for that cas
     It contains the following tabs for the record:
 
     -   **State Model**: The state model and action task state model specify the workflow states and transition conditions for a record type and an action task, respectively. A record type and an action task follow the workflow states configured in their respective state models.
-    -   **Assessment Configuration**: [[airc-assessment-templates|Assessment templates]] are pre-defined formats to request responses from assessors or reviewers that help to evaluate the record.
+    -   **Assessment Configuration**: Assessment templates are pre-defined formats to request responses from assessors or reviewers that help to evaluate the record.
     -   **Template Configuration**: Document templates are set up for generating word reports.
     -   **Inbound Email Configuration**: Group email configuration is set up to inform the group members about the case record.
     You can configure the following related lists as outlined in the next steps.
@@ -150,11 +150,5 @@ Each regulation mapped to an entity drives the action task workflow for that cas
 **Related topics**  
 
 
-[[work-on-action-tasks|Complete action tasks and report incidents associated with regulations]]
+[Complete action tasks and report incidents associated with regulations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/work-on-action-tasks.md)
 
-## Related
-
-- [[set-up-action-task-templates|Set up action task templates in Regulatory agency profile]]
-- [[work-on-action-tasks|Complete action tasks and report incidents associated with regulations]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[airc-assessment-templates|Assessment templates]]

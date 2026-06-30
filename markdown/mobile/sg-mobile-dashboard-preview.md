@@ -20,17 +20,17 @@ Role required: admin
 
 To display a data visualization in a launcher screen you need a chart or single score report. For information about creating data visualizations, see [Platform Analytics overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center.md) and [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
-For details about data visualization settings and configurations that are available for display in the [[mobile-config-navigation|mobile platform]], see [[data-visualization-mobile-fields|Data visualization fields available for display in mobile]].
+For details about data visualization settings and configurations that are available for display in the mobile platform, see [Data visualization fields available for display in mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/data-visualization-mobile-fields.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -116,7 +116,7 @@ Destination screen navigation
 
 </td><td>
 
-Select **Choose** to select an existing navigation type function to use when a user taps the chart preview or select **New** to [[sg-launcher-nav-example-1|create a navigation function]]. For more information, see [[mobile-nav-functions|Navigation functions]].
+Select **Choose** to select an existing navigation type function to use when a user taps the chart preview or select **New** to create a navigation function. For more information, see [Navigation functions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-nav-functions.md).
 
 </td></tr></tbody>
 </table>6.  Select Data visualization in the **Type** field.
@@ -132,15 +132,5 @@ Select **Choose** to select an existing navigation type function to use when a u
 
 ## What to do next
 
-After creating a mobile analytics dashboard preview, you need to create a data visualization [[chart-screen|chart screen]]. For more information, see [[config-single-score-applet|Create a chart screen for a data visualization]].
+After creating a mobile analytics dashboard preview, you need to create a data visualization chart screen. For more information, see [Create a chart screen for a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-single-score-applet.md).
 
-## Related
-
-- [[data-visualization-mobile-fields|Data visualization fields available for display in mobile]]
-- [[mobile-nav-functions|Navigation functions]]
-- [[config-single-score-applet|Create a chart screen for a data visualization]]
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-launcher-nav-example-1|Create a navigation function]]
-- [[chart-screen|Chart screen]]

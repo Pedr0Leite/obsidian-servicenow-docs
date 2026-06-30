@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 # Domain separation and Service Graph Connectors
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported for [[cmdb-sgc-available|Service Graph Connectors]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Service Graph Connectors. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard\*
 
@@ -32,7 +32,7 @@ For more information on support levels, see [Application support for domain sepa
 
 Domain separation is supported only for multi-instance Service Graph Connectors.
 
-**Note:** The [[ire|Identification and Reconciliation Engine \(IRE\)]] uses strict domain separation in releases prior to San Diego. That is, hierarchical domains are not supported.
+**Note:** The Identification and Reconciliation Engine \(IRE\) uses strict domain separation in releases prior to San Diego. That is, hierarchical domains are not supported.
 
 You must install the Domain Support - Domain Extensions Installer \(`com.glide.domain.msp_extensions.installer`\) plugin before working with the Service Graph Connectors tables. See [Request domain separation](https://www.servicenow.com/docs/access?context=t_ActivateDomainSeparation).
 
@@ -42,7 +42,7 @@ Tables that do not have a Domain \(sys\_domain\) column are not domain-separated
 
 -   The import set tables are not domain-separated.
 -   Transform histories are not domain-separated.
--   The Key Value \[cmdb\_key\_value\] and Software Instance \[cmdb\_software\_instance\] tables, which are related to the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]], are not domain-separated.
+-   The Key Value \[cmdb\_key\_value\] and Software Instance \[cmdb\_software\_instance\] tables, which are related to the Configuration Management Database \(CMDB\), are not domain-separated.
 
 For more information about domain separation for Service Graph Connectors, see the [Service Graph Connector Domain Separation](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1002506) article in the Now Support Knowledge Base.
 
@@ -51,9 +51,3 @@ For more information about domain separation for Service Graph Connectors, see t
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]

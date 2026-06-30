@@ -14,9 +14,9 @@ breadcrumb: [Explore, Talent Profile, Hiring Experiences, HR Service Delivery, E
 
 # Talent Profile
 
-[[talent-profile-landing|Talent Profile]] helps you get an aggregated view of different talent types at different touch points in the [[hiring-experiences-landing|Hiring Experiences]] workflow.
+Talent Profile helps you get an aggregated view of different talent types at different touch points in the Hiring Experiences workflow.
 
-Talent Profile aids in quicker [[hiring-tab-concept|hiring]] decisions by providing an all-around view of your internal and external talent types like - applicant, employee, contingent, and alumni in one place.
+Talent Profile aids in quicker hiring decisions by providing an all-around view of your internal and external talent types like - applicant, employee, contingent, and alumni in one place.
 
 Talent Profile also helps spot a particular talent by their previous interaction with the organization. It helps the recruiters distinguish between first-time applicants from the more experienced ones.
 
@@ -43,8 +43,3 @@ The following are the pre-requisites for using the talent profile functionality 
 1.  [Set up Talent Definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-definition-setup.md)
 2.  [Opt in to Talent Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/opt-in-ta-tp.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]
-- [[hiring-experiences-landing|Hiring Experiences]]
-- [[hiring-tab-concept|Hiring]]

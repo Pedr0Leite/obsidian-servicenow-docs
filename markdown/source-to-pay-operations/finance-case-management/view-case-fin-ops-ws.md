@@ -41,11 +41,7 @@ The details of finance cases are displayed on the **Details** tab of the Finance
 
 \[Omitted image "fin-ops-view-case.png"\] Alt text: View a finance case
 
-If you have access to the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], you can see invoice, procurement, and [[supplier|supplier]] cases in the list. If you open any of these cases, the details of the case are displayed in the Source-to-Pay Workspace.
+If you have access to the Source-to-Pay Workspace, you can see invoice, procurement, and supplier cases in the list. If you open any of these cases, the details of the case are displayed in the Source-to-Pay Workspace.
 
 **Parent Topic:**[Finance Operations Workspace list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-ops-ws-list-page.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

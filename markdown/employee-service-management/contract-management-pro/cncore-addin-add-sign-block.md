@@ -18,7 +18,7 @@ Add and configure signature blocks in contract templates to define signatories, 
 
 ## About this task
 
-The following video walks you through the process of adding signature blocks using [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]].
+The following video walks you through the process of adding signature blocks using Microsoft Word add-in for ServiceNow Contracts.
 
 \[Omitted video\] Description: The video walks you through the process of adding signature blocks using Microsoft Word add-in for ServiceNow Contracts.
 
@@ -91,7 +91,7 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 ## What to do next
 
-[[cncore-define-internal-signers-rule|Define an internal signatory rule]] to automatically add signatory details in contract documents using the template. For more information, see [Define an internal signatory rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-define-internal-signers-rule.md).
+Define an internal signatory rule to automatically add signatory details in contract documents using the template. For more information, see [Define an internal signatory rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-define-internal-signers-rule.md).
 
 **Parent Topic:**[Configuring signatories in Contract template using Microsoft Word add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-sign-addin.md)
 
@@ -100,7 +100,3 @@ Role required: sn\_cm\_core.contract\_config and canvas\_user
 
 [Add and configure participants for a contract using the Microsoft Word add-in for ServiceNow Contracts]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]
-- [[cncore-define-internal-signers-rule|Define an internal signatory rule]]

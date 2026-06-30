@@ -14,7 +14,7 @@ breadcrumb: [Perform Zscaler remediation, ACC deployment - endpoints, Configurin
 
 # Check Zscaler remediation
 
-Verify that Zscaler [[ccg-remediation|remediation]] stops and starts the Zscaler app after the remediation monitoring check fails.
+Verify that Zscaler remediation stops and starts the Zscaler app after the remediation monitoring check fails.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Perform Zscaler remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/zscaler-remediation-concept.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

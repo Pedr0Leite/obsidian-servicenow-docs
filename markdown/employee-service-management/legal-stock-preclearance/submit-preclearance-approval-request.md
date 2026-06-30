@@ -26,9 +26,9 @@ You can submit a preclearance request during an open trading window period only 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
-    **Note:** If you're using Legal Service Portal, you can [[submit-legal-request|submit a legal request]] by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
+    **Note:** If you're using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
 
 2.  Navigate to **Help center** &gt; **Legal services**.
 
@@ -116,7 +116,7 @@ Option to confirm your consent to trade in securities in accordance with your or
 
 -   When submitting the stock preclearance request as a Sec-16 officer, the **Subcategory** in the request is automatically set as Sec-16 Officer.
 -   The Standard Ticket page displays that has the following tabs to perform different tasks:
-    -   [[activity-lxp|Activity]]: Track the activity history of the request and post messages for the fulfiller working on the request.
+    -   Activity: Track the activity history of the request and post messages for the fulfiller working on the request.
     -   Attachments or Documents: Upload and manage the documents in the legal request.
 
         **Note:** If the external storage option is enabled, the **Documents** tab is displayed. Otherwise, the **Attachments** tab is displayed.
@@ -125,8 +125,3 @@ Option to confirm your consent to trade in securities in accordance with your or
 
 **Parent Topic:**[Submitting Legal Stock Preclearance requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-stock-preclearance/submit-legal-stock-reqs.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-legal-request|Submit a legal request]]
-- [[activity-lxp|Activity]]

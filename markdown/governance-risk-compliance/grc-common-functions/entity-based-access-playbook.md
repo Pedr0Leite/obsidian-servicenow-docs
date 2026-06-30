@@ -20,7 +20,7 @@ The guided assistance provides a user-friendly, step-by-step interface that enab
 
 The bulk record access update process follows a four-step process, designed for clarity and control:
 
-1.  Scope entities – In this step, you select the entities, [[entity-class-in-risk-ws|entity classes]], or [[entity-type-in-risk-ws|entity types]] whose associated records are impacted by the utility. Entities can include individuals, departments, processes, systems, or applications. This step helps ensure that the update is focused on the selected entities' related records.
+1.  Scope entities – In this step, you select the entities, entity classes, or entity types whose associated records are impacted by the utility. Entities can include individuals, departments, processes, systems, or applications. This step helps ensure that the update is focused on the selected entities' related records.
 2.  Scope related record types – You define the selected entities' related records. Record types can include risks, controls, or any other scoped tables that support entity-based access. This granular scoping helps prevent unintended updates and help apply entity-based access restrictions in a phased manner. You can define conditions optionally to narrow the scope further. The entity scoped in the previous step acts as a primary filter, and you can add more filters.
 3.  Preview record counts \(optional\) – Before execution, you’re presented with a summary preview of your selections. This step includes the selected record types and their secondary information with impacted record counts. The system prompts you to review and confirm the potential impact based on scope. You can set access using the enable or disable access restrictions buttons.
 4.  View results – See the result of the entity-based record access update with a count of the records updated.
@@ -39,7 +39,3 @@ The following image shows the entity-based record access update utility screen:
 
 **Parent Topic:**[Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-type-in-risk-ws|Entity types]]

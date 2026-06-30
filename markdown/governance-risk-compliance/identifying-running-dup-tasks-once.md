@@ -53,22 +53,16 @@ The progression of both original and duplicate tasks is as follows:
 
 You can unlink tasks from a similar task group or remove tasks from the event tasks.
 
-By eliminating redundant task execution and enhancing task management, this feature significantly improves operational efficiency during complex [[exercise-management-uib|exercises]] or events.
+By eliminating redundant task execution and enhancing task management, this feature significantly improves operational efficiency during complex exercises or events.
 
 ## Save similar task group as reusable group
 
 To save a set of selected tasks as a reusable group for future exercises, select the tasks and then select **Save as group**. The selected tasks are saved as a named group that can be referenced when setting up future event exercises.
 
--   **[[create-similar-tasks-group|Create a similar tasks group]]**  
+-   **[Create a similar tasks group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-similar-tasks-group.md)**  
 Identify similar or duplicate event tasks associated with an event and add them to a similar tasks group by grouping them in the **Similar tasks groups** tab. It helps you to streamline event task management and reduce duplication of efforts.
--   **[[transition-states-of-event-task|State changes for event tasks in groups]]**  
+-   **[State changes for event tasks in groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/transition-states-of-event-task.md)**  
 The original and duplicate event tasks in the Similar tasks group move through different states until the original task is closed.
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[create-similar-tasks-group|Create a similar tasks group]]
-- [[transition-states-of-event-task|State changes for event tasks in groups]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[exercise-management-uib|Exercises]]

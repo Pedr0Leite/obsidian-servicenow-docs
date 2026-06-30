@@ -26,7 +26,7 @@ Role required:
 -   sn\_eamhc.medical\_asset\_manager
 -   sn\_otam.ot\_asset\_manager
 
-Asset subgroups can be used and created in the [[using-eam-workspace|Enterprise Asset Workspace]], Facility Asset Workspace, Medical Asset Workspace, and the Operational Technology \(OT\) Asset Workspace. This task specifically describes how to create an asset subgroup in the Enterprise Asset Workspace.
+Asset subgroups can be used and created in the Enterprise Asset Workspace, Facility Asset Workspace, Medical Asset Workspace, and the Operational Technology \(OT\) Asset Workspace. This task specifically describes how to create an asset subgroup in the Enterprise Asset Workspace.
 
 ## About this task
 
@@ -55,6 +55,3 @@ You can add or remove a subgroup from an asset group.
 
 **Parent Topic:**[Create an asset group in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-asset-groups-eam.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -16,20 +16,14 @@ The experimentation framework enables ServiceNow to test and release new feature
 
 Each experiment includes information about its scope and which feature variants are being tested. Only single customer instances or Gen AI Innovation Program participants have early access to new innovations via the experimentation framework.
 
-The framework captures only aggregated usage [[c_MetricDefinitionSupport|metrics]] \(such as feature usage, performance\) to assess the impact of a feature. No personally identifiable information is collected, and all data handling aligns with our standard privacy and security practices.
+The framework captures only aggregated usage metrics \(such as feature usage, performance\) to assess the impact of a feature. No personally identifiable information is collected, and all data handling aligns with our standard privacy and security practices.
 
 You have full transparency and control over your instance's use of the experimentation framework. You can view active experiments by navigating to **All** &gt; **Experimentation Framework** &gt; **All Experiments**. You can also choose to opt out of individual experiments or turn off the framework entirely.
 
--   **[[opt-out-individual-experiment|Opt out of an individual experiment]]**  
+-   **[Opt out of an individual experiment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/opt-out-individual-experiment.md)**  
 Opt out of a specific experiment while remaining enrolled in others.
 -   **[Turn off experimentation framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-[[disable-experimentation-framework|Turn off experimentation framework]] to opt out of all current and future experiments.
+Turn off experimentation framework to opt out of all current and future experiments.
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[opt-out-individual-experiment|Opt out of an individual experiment]]
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[disable-experimentation-framework|Turn off experimentation framework]]

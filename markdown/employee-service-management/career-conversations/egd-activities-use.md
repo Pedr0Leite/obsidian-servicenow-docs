@@ -14,7 +14,7 @@ breadcrumb: [Career Conversations, Growth Experiences, HR Service Delivery, Empl
 
 # Using the Career Conversations application
 
-[[egd-activities-conversations-module|Career Conversations]] enables manager and employees to create and track conversations from the [[employee-center-landing-page|Employee Center]].
+Career Conversations enables manager and employees to create and track conversations from the Employee Center.
 
 -   **[Create a growth conversation in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-create-growth-conversation.md)**  
 Use the Career Conversations app to create a one-time or recurring conversation with an employee. Discuss the employee's growth and development as a professional within your organization.
@@ -27,20 +27,13 @@ Use the Career Conversations app to schedule a check-in conversation with your e
 -   **[Update a growth conversation in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-act-update-growth-conversation.md)**  
 Use the Career Conversations app to update the agenda for an upcoming conversation with your employee or manager. Center the focus of the discussion around the employee's growth and development as a professional within your organization.
 -   **[Close a conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-close-conversation.md)**  
-As a manager, you can mark a conversation as completed to easily [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] it for future planning and growth activities. Write closing notes and share them with your employee to ensure a shared understanding.
+As a manager, you can mark a conversation as completed to easily reference it for future planning and growth activities. Write closing notes and share them with your employee to ensure a shared understanding.
 -   **[Reopen a closed growth conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-act-reopen-growth-conversation.md)**  
-Use the Career Conversations app to [[egd-act-reopen-growth-conversation|reopen a closed growth conversation]] to modify talking points and action items.
+Use the Career Conversations app to reopen a closed growth conversation to modify talking points and action items.
 -   **[Edit a growth conversation series in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/edit-conversations-series.md)**  
 Edit a growth conversation series to add any details that you have missed out while creating the conversation.
 -   **[Create a growth conversation using an agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/agentic-wf-conversations-na-td.md)**  
-As a manager, use the growth conversation preparation AI agent to streamline your employee growth discussions. Leverage this agent to gather key employee talent [[activity-lxp|activity]] and journeys data to get a clear, structured summary that helps you prepare for the conversation faster and effectively. Rely on data-driven talking points, so every growth conversation is focused, meaningful, and impactful.
+As a manager, use the growth conversation preparation AI agent to streamline your employee growth discussions. Leverage this agent to gather key employee talent activity and journeys data to get a clear, structured summary that helps you prepare for the conversation faster and effectively. Rely on data-driven talking points, so every growth conversation is focused, meaningful, and impactful.
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[egd-act-reopen-growth-conversation|Reopen a closed growth conversation]]
-- [[activity-lxp|Activity]]

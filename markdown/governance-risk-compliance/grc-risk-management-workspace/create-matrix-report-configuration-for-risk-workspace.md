@@ -34,11 +34,7 @@ Role required: sn\_matrix\_report.admin
 
 
 -   **[Matrix report configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/matrix-report-configuration-form-risk-workspace.md)**  
-Use the [[mat-report-config-form-audit-ws|Matrix report configuration form]] to configure the Matrix report in the [[risk-workspace|Risk Workspace]].
+Use the Matrix report configuration form to configure the Matrix report in the Risk Workspace.
 
 **Parent Topic:**[Matrix report in Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/matrix-report-in-risk-workspace.md)
 
-## Related
-
-- [[mat-report-config-form-audit-ws|Matrix report configuration form]]
-- [[risk-workspace|risk workspace]]

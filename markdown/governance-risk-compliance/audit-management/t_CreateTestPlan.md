@@ -50,7 +50,7 @@ Control
 
 </td><td>
 
-The control that this test plan covers. **Note:** This field is only visible when the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] plugin is activated.
+The control that this test plan covers. **Note:** This field is only visible when the Policy and Compliance Management plugin is activated.
 
 </td></tr><tr><td>
 
@@ -122,6 +122,3 @@ Document that shows how to assess if a control is operating effectively.
 
 **Parent Topic:**[Manage test templates and test plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_AuditTesting.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

@@ -14,7 +14,7 @@ breadcrumb: [View Custom Feed, View Threat Intel Feeds, Threat Intelligence Feed
 
 # Configure custom MISP API feed
 
-The [[threat-intelligence-malware|Malware]] Information Sharing Platform \(MISP\) API feed enables you to import events from the MISP server, along with their associated attributes and objects, into the TISC library.
+The Malware Information Sharing Platform \(MISP\) API feed enables you to import events from the MISP server, along with their associated attributes and objects, into the TISC library.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Integrations**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations**.
 
 2.  Select **Custom**.
 
@@ -131,17 +131,10 @@ Select a distribution level to limit events. Leaving this field empty includes e
 
     **Note:**
 
-    -   Each MISP event imported into the TISC library, whether as a **[[threat-report|Threat Report]]** or **[[threat-event|Threat Event]]**, includes an associated **External Reference** record.
+    -   Each MISP event imported into the TISC library, whether as a **Threat Report** or **Threat Event**, includes an associated **External Reference** record.
     -   This record is accessible via the **Related Records** tab and provides a direct URL link to the corresponding MISP event on the MISP server. This also enables quick access to the original event data.
     -   For details on how MISP events, along with their associated attributes and objects, are mapped to TISC entities, refer to [KB2197697](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2197697).
-    -   Entity types that aren't included in the [[mapping-logrhythm|mapping]] described in the KB article aren't ingested into the TISC Library.
+    -   Entity types that aren't included in the mapping described in the KB article aren't ingested into the TISC Library.
 
 **Parent Topic:**[View Custom Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-oob-custom-feeds.md)
 
-## Related
-
-- [[threat-intelligence-malware|Malware]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-report|Threat Report]]
-- [[threat-event|Threat Event]]
-- [[mapping-logrhythm|Mapping]]

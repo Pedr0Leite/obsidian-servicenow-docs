@@ -77,12 +77,9 @@ The charity organization record that you added is added to the Charity Organizat
 **Related topics**  
 
 
-[Create an [[asset-donation|Asset Donation]] Order]()
+[Create an Asset Donation Order]()
 
 [Approve or reject an Asset Donation Order]()
 
 [Process an Asset Donation Order]()
 
-## Related
-
-- [[asset-donation|Asset donation]]

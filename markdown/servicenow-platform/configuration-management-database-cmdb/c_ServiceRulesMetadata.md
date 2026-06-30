@@ -24,7 +24,7 @@ Both hosting and containment rules describe a relationship type between two CI t
 
 Manage dependent relationship rules:
 
--   To access rules at the class level, use the [[ci-class-manager-landing-page|CI Class Manager]]. Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
+-   To access rules at the class level, use the CI Class Manager. Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 -   To access grouped rules, use the Metadata Editor. Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation** &gt; **Metadata Editor**.
 
 The plugins that have been activated on an instance determine which hosting and containment rules exist in a base system.
@@ -47,7 +47,7 @@ Containment rules are stored in the CMDB Metadata Containment Rules \[cmdb\_meta
 
 ## Reference rules
 
-[[reference|Reference]] rules are used mostly by Cloud Management to represent all of the possible valid combinations of pairs of referencing and referenced CIs in the service definition.
+Reference rules are used mostly by Cloud Management to represent all of the possible valid combinations of pairs of referencing and referenced CIs in the service definition.
 
 -   Reference rules are a flat set of rules that can be only one level deep.
 -   Reference rules always involve resources, typically virtual entities. Each reference rule is a stand-alone rule between two CI types, describing either a valid CI type that another CI type can reference, or by which another CI type can be referenced. Both the CI classes should be able to live independent of each other.
@@ -97,7 +97,3 @@ Create hosting and containment rules \(dependent relationship rules\) for CI cla
 
 **Parent Topic:**[Configuring CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-ire.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[reference|Reference]]

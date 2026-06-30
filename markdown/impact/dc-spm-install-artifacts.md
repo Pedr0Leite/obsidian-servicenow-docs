@@ -12,7 +12,7 @@ breadcrumb: [Install the Data Collection Pack, Impact Value Management Data Coll
 
 # Review SPM artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 The content pack comes with the following artifact types.
 
@@ -67,6 +67,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Automated|Impact VM - Total actual benefits attained for the completed projects this month|
 |Automated|Impact VM - Total forecasted benefits attained for the completed projects this month|
 
-## Related
-
-- [[io-analytics|Analytics]]

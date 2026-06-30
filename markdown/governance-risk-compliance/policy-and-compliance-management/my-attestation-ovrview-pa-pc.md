@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting solutions for GRC: Policy and Compliance Ma
 
 The Assessment Overview dashboard displays various assessment reports, such as Assessable Records by Type, Total Metrics by Metric Type, and Assessments by State. You can now view the dashboard in the Next Experience UI Framework.
 
-**Important:** Starting with version 18.1.1 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the My Attestations Overview dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.1 of the Policy and Compliance Management application, the My Attestations Overview dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -39,11 +39,7 @@ To open the dashboard, navigate to **All** &gt; **Policy and Compliance** &gt; *
 |My Pending Attestations|List \[Omitted image "scorecard-icon.png"\] Alt text: List icon3|A list of the pending attestations assigned to you|
 
 -   **[GRC Attestation Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-control-attest-dashboard.md)**  
-The [[grc-control-attest-dashboard|GRC Attestation Overview dashboard]] provides views attestations assigned to you, as well as pending and overdue attestations.
+The GRC Attestation Overview dashboard provides views attestations assigned to you, as well as pending and overdue attestations.
 
 **Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[grc-control-attest-dashboard|GRC Attestation Overview dashboard]]

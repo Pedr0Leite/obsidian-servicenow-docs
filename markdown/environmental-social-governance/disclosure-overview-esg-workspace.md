@@ -33,8 +33,5 @@ The Disclosure summary section displays the goals that are listed in the disclos
 
 If you want to export the data in the disclosure to an Excel spreadsheet, select **Export to excel** in the Disclosure summary section.
 
-**Parent Topic:**[[esg-analytics-reporting|Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]
+**Parent Topic:**[Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/esg-analytics-reporting.md)
 
-## Related
-
-- [[esg-analytics-reporting|Overview pages in the Operational Sustainability Workspace \(formerly ESG Workspace\)]]

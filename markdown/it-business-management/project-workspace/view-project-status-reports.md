@@ -14,7 +14,7 @@ breadcrumb: [Project workspace classic - Legacy, Project Portfolio Management, S
 
 # View a project status report in classic Project Workspace
 
-As a project manager, view the project status reports for a project using **Status Report** tab in classic [[project-workspace-landing-page|Project Workspace]].
+As a project manager, view the project status reports for a project using **Status Report** tab in classic Project Workspace.
 
 **Important:**
 
@@ -59,6 +59,3 @@ From the **Status Report** tab, you can:
 
 **Parent Topic:**[Project workspace classic - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-classic.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

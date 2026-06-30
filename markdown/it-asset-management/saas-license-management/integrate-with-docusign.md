@@ -14,13 +14,10 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Docusign
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Docusign service enables you to track your software subscriptions and to reclaim unused licenses.
+Integrating your Software Asset Management application with the Docusign service enables you to track your software subscriptions and to reclaim unused licenses.
 
 You can integrate your Software Asset Management application with the Docusign service at Organization level and Account level. However, an integration profile can be either at the Organization level or Account level.
 
 -   [Integrate with Docusign at Organization level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-org.md)
 -   [Integrate with Docusign at Account level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/integrate-with-docusign-account.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercise and Crisis Management, Using BCM 
 
 # Start an exercise event
 
-[[start-exercise-event-in-uib-ws|Create an exercise]] event to test your business continuity and recovery plans on a planned date and monitor the completion of the event tasks.
+Create an exercise event to test your business continuity and recovery plans on a planned date and monitor the completion of the event tasks.
 
 ## Before you begin
 
@@ -83,6 +83,4 @@ Detailed description of the exercise event.
 
     The exercise event is created and is in **Pending** state.
 
-## Related
 
-- [[start-exercise-event-in-uib-ws|Create an exercise]]

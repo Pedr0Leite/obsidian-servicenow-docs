@@ -32,7 +32,7 @@ If you do not select any fields, auto-purity automatically determines which insi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Clustering** &gt; **Solution Definitions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solution Definitions**.
 
 2.  Select a solution definition or create a new one.
 
@@ -55,6 +55,3 @@ field name : value : percent.
 
 For example, the row priority : 5 : 100% means that 100% of the members of this cluster have the value of 5 for the priority field.\[Omitted image "purity\_insights\_cluster.png"\] Alt text: Pop up for an individual cluster on the Cluster Visualization view.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

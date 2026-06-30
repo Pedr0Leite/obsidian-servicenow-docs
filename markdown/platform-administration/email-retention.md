@@ -18,9 +18,9 @@ Email retention is available starting with the Helsinki release.
 
 ## Email archive and destruction plugins
 
-The email archiving and destruction feature uses the [[c_ArchiveData|Data archiving]] and [[t_ActivateTheEmailRetentionPlugin|Email Retention]] plugins. The Data Archiving plugin must be active to archive and destroy email records. The Email Retention plugin provides a set of rules that specify when the system archives and destroys email records.
+The email archiving and destruction feature uses the [Data archiving](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ArchiveData.md) and [Email Retention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateTheEmailRetentionPlugin.md) plugins. The Data Archiving plugin must be active to archive and destroy email records. The Email Retention plugin provides a set of rules that specify when the system archives and destroys email records.
 
-**Note:** The Email Retention plugin also prevents the system from deleting watermarks, which are required for [[actions-inbound-email|inbound email actions]] to continue to function.
+**Note:** The Email Retention plugin also prevents the system from deleting watermarks, which are required for inbound email actions to continue to function.
 
 The Email Retention plugin and associated archive and destroy rules are active by default on new instances. On upgraded instances, you must manually activate both the plugin and the archive and destroy rules. ServiceNow recommends that you review and approve these rules before activating them.
 
@@ -54,18 +54,11 @@ If you are already using another method to manage email records, such as table c
 
 ## Effects of archiving and deleting email records
 
-Inbound email actions copy the body of an email to the work notes of the related record. If the [[ia-inbound-email-il|inbound email]] record is later deleted, Email Received section is no longer visible in the work notes though it still contain a text copy of the email.
+Inbound email actions copy the body of an email to the work notes of the related record. If the inbound email record is later deleted, Email Received section is no longer visible in the work notes though it still contain a text copy of the email.
 
-When the system sends an email message about a record, the [[c_ActivityFormatter|activity formatter]] displays a **Sent Email** section with a link to the email message. If the system archives the email message, the activity formatter removes **Sent Email** section. When the system deletes the email message, it is no longer visible in the activity formatter nor the work notes.
+When the system sends an email message about a record, the activity formatter displays a **Sent Email** section with a link to the email message. If the system archives the email message, the activity formatter removes **Sent Email** section. When the system deletes the email message, it is no longer visible in the activity formatter nor the work notes.
 
 **Note:** Set the archive time length long enough so your users can access sent emails though the activity formatter.
 
 Archiving email records changes the methods available to the system to identify inbound email as a reply. After archiving an email record, the system can no longer use the **In-Reply-To** field to match an incoming email to an email record. However, the system can still match incoming email to an existing record from a record number or watermark.
 
-## Related
-
-- [[c_ArchiveData|System Archive]]
-- [[t_ActivateTheEmailRetentionPlugin|Activate Email Retention]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[c_ActivityFormatter|Activity formatter]]

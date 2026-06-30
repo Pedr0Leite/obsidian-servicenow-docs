@@ -31,7 +31,7 @@ The Transform Mapping Assist skill is designed to do the following:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Administration** &gt; **Transforms**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Administration** &gt; **Transforms**.
 
 2.  Click **New** and create a simple transform.
 
@@ -56,6 +56,3 @@ The Transform Mapping Assist skill is designed to do the following:
 
 **Parent Topic:**[Using Now Assist for Telecommunications, Media and Technology \(TMT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-for-telecom-media-and-technology/now-assist-spm-using.md)
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

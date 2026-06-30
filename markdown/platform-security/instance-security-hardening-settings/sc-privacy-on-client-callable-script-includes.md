@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 By default, client-callable script includes that do not explicitly set visibility, are public. If needed, add the **glide.script.ccsi.ispublic** property to enable privacy control over all client-callable script includes accessed by public pages.
 
-The **glide.script.ccsi.ispublic** system property makes sure that client-callable script-includes, also known as Ajax script includes, are not automatically made available to non-authenticated [[users|users]]. If **glide.script.ccsi.ispublic** is not set to the recommended value of **false**, then it allows script includes to be run as public scripts and allow unauthenticated users access to instance data.
+The **glide.script.ccsi.ispublic** system property makes sure that client-callable script-includes, also known as Ajax script includes, are not automatically made available to non-authenticated users. If **glide.script.ccsi.ispublic** is not set to the recommended value of **false**, then it allows script includes to be run as public scripts and allow unauthenticated users access to instance data.
 
 Ensure that the property **glide.script.ccsi.ispublic** is set to **false**.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 7.5
 -   CVSS rating: High
--   Security risk details: Sensitive [[sc-business-logic|business logic]] or data is potentially exposed, increasing the risk of unauthorized access to instance resources.
+-   Security risk details: Sensitive business logic or data is potentially exposed, increasing the risk of unauthorized access to instance resources.
 
 </td></tr><tr><td>
 
@@ -117,9 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[sc-business-logic|Business Logic]]

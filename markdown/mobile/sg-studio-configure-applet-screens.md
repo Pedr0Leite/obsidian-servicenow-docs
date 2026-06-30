@@ -22,7 +22,7 @@ Role required: admin
 
 Screens are a collection of components used to visualize your data templates. Depending on the screen type you select, different options are available.
 
-**Warning:** You can also configure individual screens in the ServiceNow AI Platform web-based UI. Unlike the [[mab-concept|Mobile App Builder]], the ServiceNow AI Platform doesn't prevent you from using configurations that might break the app.
+**Warning:** You can also configure individual screens in the ServiceNow AI Platform web-based UI. Unlike the Mobile App Builder, the ServiceNow AI Platform doesn't prevent you from using configurations that might break the app.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Screens are a collection of components used to visualize your data templates. De
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category, and then select **New**.
 
@@ -45,7 +45,3 @@ Screens are a collection of components used to visualize your data templates. De
 
 What you configure for the screen depends on the screen type you select. For more information on how to configure a specific screen type, navigate to the topic that is specific to that screen.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -12,40 +12,27 @@ breadcrumb: [Configure, Sales Customer Relationship Management]
 
 # Configuring the lead-to-cash foundation applications
 
-Learn how to configure [[lead-to-cash-foundation-landing|lead-to-cash foundation]] applications to establish a unified platform for [[order-mgt-overview|Sales Customer Relationship Management]] entities such as managing leads, opportunities, quotes, and orders efficiently.
+Learn how to configure lead-to-cash foundation applications to establish a unified platform for Sales Customer Relationship Management entities such as managing leads, opportunities, quotes, and orders efficiently.
 
 Installing and configuring the following applications involve installing the applications from the ServiceNow Store store, assigning appropriate roles to users and groups, and then configuring foundational features such as product catalogs, pricing, and customer data models.
 
-1.  [[som-managing-product-catalogs|Configuring product offerings and catalogs]]
+1.  [Configuring product offerings and catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-managing-product-catalogs.md)
 
-    [[som-create-product-offering|Create product offerings]] and the associated product catalogs that can be used by Sales Customer Relationship Management agents for pre-sales activities, order capture, and [[configuring-post-sales-engagement|post-sales engagement]].
+    Create product offerings and the associated product catalogs that can be used by Sales Customer Relationship Management agents for pre-sales activities, order capture, and post-sales engagement.
 
-2.  [[install-and-configure-lead-to-cash|Install and configure Lead to Cash Core]]
+2.  [Install and configure Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-and-configure-lead-to-cash.md)
 
-    Install the [[lead-to-cash|Lead to Cash Core]] application which enables you to compose and build workflows that your organization maintains for the life cycle of a sold product.
+    Install the Lead to Cash Core application which enables you to compose and build workflows that your organization maintains for the life cycle of a sold product.
 
-3.  \(Optional\) [[sales-and-services-api-core|Sales and Service API Core]]
+3.  \(Optional\) [Sales and Service API Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-and-services-api-core.md)
 
-    Configure the Sales and Service API Core plugin to enable seamless tracking and management of Sales Customer Relationship Management workflows through structured inbound and [[outbound-request-configuration-table|outbound request]] handling, configurable flow processing, and integration with external systems.
+    Configure the Sales and Service API Core plugin to enable seamless tracking and management of Sales Customer Relationship Management workflows through structured inbound and outbound request handling, configurable flow processing, and integration with external systems.
 
 
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
+[Lead-to-cash foundation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)
 
-## Related
-
-- [[som-managing-product-catalogs|Configuring product offerings and catalogs]]
-- [[install-and-configure-lead-to-cash|Install and configure Lead to Cash Core]]
-- [[sales-and-services-api-core|Sales and Service API Core]]
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
-- [[lead-to-cash-foundation-landing|Lead-to-cash foundation]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[som-create-product-offering|Create product offerings]]
-- [[configuring-post-sales-engagement|Post-sales engagement]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[outbound-request-configuration-table|Outbound Request]]

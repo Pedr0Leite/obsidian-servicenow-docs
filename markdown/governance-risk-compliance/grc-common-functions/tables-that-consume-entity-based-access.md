@@ -26,7 +26,7 @@ Table name
 
 </th></tr></thead><tbody><tr><td rowspan="3">
 
-[[ai-risk-and-compliance|AI Risk and Compliance]]
+AI Risk and Compliance
 
 </td><td>
 
@@ -155,6 +155,3 @@ sn\_grc\_advanced\_triage \(primary table\)
 </td></tr></tbody>
 </table>**Parent Topic:**[Entity Based Access reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access-reference.md)
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

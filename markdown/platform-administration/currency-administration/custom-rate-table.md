@@ -14,7 +14,7 @@ breadcrumb: [Defaults required for FX Currency use, Configure, Currency administ
 
 # Add conversion rates using a custom rate table
 
-You can create a custom rate table to ensure repeatable and consistent calculations. In a custom rate table, you control the conversion rates and the frequency of rate conversions. If you don't define custom rate tables, [[fx-currency|FX Currency fields]] use the System Conversion Currency Rate \[fx\_system\_rate\] table, which updates rates daily from the ECB \(European Central Bank\) website.
+You can create a custom rate table to ensure repeatable and consistent calculations. In a custom rate table, you control the conversion rates and the frequency of rate conversions. If you don't define custom rate tables, FX Currency fields use the System Conversion Currency Rate \[fx\_system\_rate\] table, which updates rates daily from the ECB \(European Central Bank\) website.
 
 ## Before you begin
 
@@ -116,7 +116,7 @@ After you create the custom rate table:
 1.  Manually populate the table, or import data to populate it.
 2.  To use this rate table on a global basis, change the **glide.currency2.system\_rate\_table** system property.
 
-    To use it for a specific FX Currency field, change the **Conversion Rate Table** field setting in **[[system-localization-landing|System Localization]]** &gt; **FX Currency Configuration.**
+    To use it for a specific FX Currency field, change the **Conversion Rate Table** field setting in **System Localization** &gt; **FX Currency Configuration.**
 
 
 **Parent Topic:**[Setting up defaults required for FX Currency use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/setting-up-defaults-fx-currency-use.md)
@@ -138,7 +138,3 @@ After you create the custom rate table:
 
 [Specify the rate table and date source for currency conversions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-conv-rate-table-date-source.md)
 
-## Related
-
-- [[fx-currency|FX Currency fields]]
-- [[system-localization-landing|System Localization]]

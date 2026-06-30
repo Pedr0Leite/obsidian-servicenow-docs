@@ -40,15 +40,15 @@ Before you run the GRC: Cybersecurity Controls Accelerator application in your i
 
 Prior to running the Cybersecurity Controls Accelerator application, you must download and activate the following GRC applications:
 
--   GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+-   GRC: Policy and Compliance Management
 -   GRC: Profiles
--   GRC: [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]
+-   GRC: Technology Controls Monitoring Accelerator
 
 Role required: admin
 
 ### Procedure
 
-1.  Follow the instructions for [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+1.  Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
 
 ## Monitoring cybersecurity controls
@@ -82,7 +82,7 @@ Citations
 </td><td>
 
 The **Citations** module provides a list of citations contained in the CIS Controls v7.1 and v8 authority document. Each citation can include one or more control objectives and refers to:-   Content references
--   [[information-objects|Information objects]]
+-   Information objects
 
  The citations are stored in the Citation table \[sn\_compliance\_citation\].
 
@@ -92,7 +92,7 @@ Control Objectives
 
 </td><td>
 
-The **Control Objectives** module provides a list of control objectives associated with the citations in the CIS Controls v7.1 and v8 authority document. Each control objective can include one or more of the following items:-   [[entity-type-in-risk-ws|Entity types]]
+The **Control Objectives** module provides a list of control objectives associated with the citations in the CIS Controls v7.1 and v8 authority document. Each control objective can include one or more of the following items:-   Entity types
 -   Additional entities
 -   Policies
 -   Controls
@@ -176,10 +176,3 @@ Select the indicator templates you want to map to the UCF control objective and 
 
 \[Omitted image "suggested-indicator-templates-add.png"\] Alt text: Mapping an indicator template to a UCF control objective
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]
-- [[information-objects|information objects]]
-- [[entity-type-in-risk-ws|Entity types]]

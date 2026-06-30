@@ -12,7 +12,7 @@ breadcrumb: [Using Now Assist, Now Assist for Mobile, Mobile Platform]
 
 # Using Mobile AI Voice Agent
 
-Use [[mobile-voice-agent|Mobile AI Voice Agent]] to start voice conversations with an intelligent, AI-powered voice assistant.
+Use Mobile AI Voice Agent to start voice conversations with an intelligent, AI-powered voice assistant.
 
 ## Navigating Mobile AI Voice Agent
 
@@ -96,9 +96,5 @@ When you end a back-grounded call, a push notification reminds you that the voic
     On Android, a persistent notification appears in the notification panel while the call is active. Tap the notification to access mute and end call controls. A separate notification entry shows the call in your notification list.
 
 
-**Parent Topic:**[[using-now-assist-mobile|Using Now Assist for Mobile]]
+**Parent Topic:**[Using Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/using-now-assist-mobile.md)
 
-## Related
-
-- [[using-now-assist-mobile|Using Now Assist for Mobile]]
-- [[mobile-voice-agent|Mobile AI Voice Agent]]

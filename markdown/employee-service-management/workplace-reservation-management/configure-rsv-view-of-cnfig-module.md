@@ -18,7 +18,7 @@ Assign different views on a reservable mobile. The workplace items of the module
 
 ## Before you begin
 
-The [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] by default assigns the following views to a reservable module until they are set to False.
+The Workplace Reservation Management by default assigns the following views to a reservable module until they are set to False.
 
 -   Card view
 -   Schedule view
@@ -70,6 +70,3 @@ The reservable view is added to the module. The workplace items of the module ca
 
 **Parent Topic:**[Create a reservable view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-a-reservable-view.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

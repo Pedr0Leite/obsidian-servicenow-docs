@@ -14,7 +14,7 @@ breadcrumb: [Configure a catalog in Service Portal, Create a portal, Configuring
 
 # Cloud Deployment Automation
 
-Automates the deployment and provisioning of the AWS CloudFormation services using Service Catalog or [[c_ServicePortal|Service Portal]].
+Automates the deployment and provisioning of the AWS CloudFormation services using Service Catalog or Service Portal.
 
 ## Request apps on Store
 
@@ -77,7 +77,7 @@ The Cloud Deployment Automation application provides the sn\_cloud\_dpmt\_atmn.c
 
 ## System properties
 
-The Cloud Deployment Automation application provides system properties that you can [[configure-onboarding-modals|configure]] as per your requirement.
+The Cloud Deployment Automation application provides system properties that you can configure as per your requirement.
 
 |System property|Description|
 |---------------|-----------|
@@ -87,7 +87,3 @@ The Cloud Deployment Automation application provides system properties that you 
 
 Navigate to **System Properties** &gt; **All Properties** to configure the values of these properties.
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

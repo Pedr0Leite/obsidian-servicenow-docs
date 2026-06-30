@@ -14,7 +14,7 @@ breadcrumb: [Use teams in Live Feed, Using Live Feed, Live Feed Core UI, Manage 
 
 # Invite a new member
 
-You can invite another user to [[t_JoinATeam|join a team]].
+You can invite another user to join a team.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: admin
 
 **Parent Topic:**[Use teams in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseTeamsInLiveFeed.md)
 
-## Related
-
-- [[t_JoinATeam|Join a team]]

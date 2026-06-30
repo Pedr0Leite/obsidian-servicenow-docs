@@ -14,7 +14,7 @@ breadcrumb: [Using Virtual Agent Topic Recommendations, Build and deploy, Virtua
 
 # Topic Recommendations interface reference
 
-The Topic Recommendations app provides two main pages: a configuration page and the [[topic-recommendations-page|Topic Recommendations page]], where you find any recommended topics.
+The Topic Recommendations app provides two main pages: a configuration page and the Topic Recommendations page, where you find any recommended topics.
 
 For more information about the Topic Recommendations user interface, see the following topics:
 
@@ -22,6 +22,3 @@ For more information about the Topic Recommendations user interface, see the fol
 -   [Topic Recommendations page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-recommendations-page.md)
 -   [Topic Recommendations cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-recommendations-cards.md)
 
-## Related
-
-- [[topic-recommendations-page|Topic Recommendations page]]

@@ -14,7 +14,7 @@ breadcrumb: [Direct Discovery with Discovery Patterns, Telecom Discovery, Teleco
 
 # Telecom Cisco 7613 Router Pattern
 
-The ServiceNow® [[exploring-telecom-discovery|Telecom Discovery]] application uses the Telecom Cisco 7613 Router discovery pattern to find SNMP-based Cisco 7613 in the network. Discovering some of these resources requires updating the Telecommunications Discovery Patterns \(TSOM Patterns\) from the ServiceNow® Store.
+The ServiceNow® Telecom Discovery application uses the Telecom Cisco 7613 Router discovery pattern to find SNMP-based Cisco 7613 in the network. Discovering some of these resources requires updating the Telecommunications Discovery Patterns \(TSOM Patterns\) from the ServiceNow® Store.
 
 Telecom Discovery uses the Telecommunications Discovery Patterns to run Horizontal Discovery. This Telecommunications Discovery Pattern uses a set of SNMP requests to find, classify, and discover network elements.
 
@@ -111,7 +111,3 @@ Any type of Network Interface is represented by the Network Interface CI.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[exploring-telecom-discovery|Telecom Discovery]]

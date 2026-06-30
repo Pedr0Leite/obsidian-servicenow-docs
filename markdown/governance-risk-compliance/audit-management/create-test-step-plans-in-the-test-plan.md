@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace Overview, Audit Management, Governance, Risk, and C
 
 # Create test step plans in the test plan
 
-Create a test step plan from the [[audit-management-overview-ws|Audit Workspace]] by selecting a test plan, opening the Test step plans tab, and entering details like identifier and assessment objective.
+Create a test step plan from the Audit Workspace by selecting a test plan, opening the Test step plans tab, and entering details like identifier and assessment objective.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ Test step plans are generated for the test plan of a control based on the contro
     -   Assessment objective: The assessment objective. An assessment objective is the guideline for how to assess the control.
 8.  Select **Save** to save the test step plan.
 
-## Related
 
-- [[audit-management-overview-ws|Audit Workspace]]

@@ -14,11 +14,11 @@ breadcrumb: [Using DevOps Config, DevOps Config, IT Service Management]
 
 # Compare snapshots from the same or different applications
 
-Use the Config Data Analyzer tool to find similarities and differences between two snapshots from the same or different [[dex-workspace-application-tab|applications]].
+Use the Config Data Analyzer tool to find similarities and differences between two snapshots from the same or different applications.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_viewer, cdm\_editor, or cdm\_admin
 
@@ -43,7 +43,7 @@ To see the changes between two snapshots from the same deployables, see [Compare
     |Option|Description|
     |------|-----------|
     |Reference application|Application to compare with the target application. The field lists the latest committed data for all applications including the target application.|
-    |Reference snapshot|Snapshot of the [[reference-for-itsm-mobile-agent|reference]] application to compare.|
+    |Reference snapshot|Snapshot of the reference application to compare.|
     |Target snapshot|Snapshot of the target application against which the reference snapshot is compared.|
 
 4.  If you've the cdm\_secrets role, you can select **View encrypted data** to view encrypted values in clear text in the comparison results.
@@ -199,9 +199,3 @@ Details of the file present in the target changeset.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[reference-for-itsm-mobile-agent|Reference]]

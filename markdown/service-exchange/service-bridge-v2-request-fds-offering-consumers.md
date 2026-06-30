@@ -27,7 +27,7 @@ Browse and request FDS offerings that consumers have published. After you submit
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Request FDS Offerings**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Request FDS Offerings**.
 
 2.  From the **Offerings** drop-down menu, select your consumer.
 
@@ -54,21 +54,14 @@ The request state displays as Received until the consumer acknowledges it. If th
 
 ## What to do next
 
-[[service-bridge-v2-fds-validate-subs-items-provider|Validate FDS subscriptions items as a provider]]
+[Validate FDS subscriptions items as a provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-fds-validate-subs-items-provider.md)
 
 **Related topics**  
 
 
-[[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
+[Foundation data sync](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-explore-foundation-data-sync.md)
 
-[[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-## Related
-
-- [[service-bridge-v2-fds-validate-subs-items-provider|Validate FDS subscriptions items as a provider]]
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

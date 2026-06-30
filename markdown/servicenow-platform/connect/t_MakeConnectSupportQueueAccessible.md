@@ -28,7 +28,7 @@ For example, you might create a module or add a link to a portal. The accepted U
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Connect|Connect]]** &gt; **Administration** &gt; **Queues**.
+1.  Navigate to **All** &gt; **Connect** &gt; **Administration** &gt; **Queues**.
 
 2.  Right-click the name of the queue to which you want to link.
 
@@ -48,6 +48,3 @@ For example, you might create a module or add a link to a portal. The accepted U
 
 [Configure Connect Support widget instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/connect-support-sp.md)
 
-## Related
-
-- [[c_Connect|Connect]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change [[c_Models|Models]]** &gt; **User Criteria**.
+1.  Navigate to **All** &gt; **Change Models** &gt; **User Criteria**.
 
 2.  Select **New** to open a new record.
 
@@ -130,6 +130,3 @@ Defines any additional criteria, and returns true or false. This field is availa
 
 **Parent Topic:**[Change model management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/manage-change-models.md)
 
-## Related
-
-- [[c_Models|Models]]

@@ -22,7 +22,7 @@ Role required: catalog\_builder\_editor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **[[catalog-builder|Catalog Builder]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the Catalog items tab.
 
@@ -43,7 +43,3 @@ Role required: catalog\_builder\_editor
 
 **Parent Topic:**[Using Now Assist conversation to create and edit catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/use-now-assist-conversation-to-create-and-edit-catalog-items.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]

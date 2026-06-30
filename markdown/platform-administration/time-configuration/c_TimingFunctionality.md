@@ -33,7 +33,7 @@ Defined metrics can track how long an audited field holds a certain value.
 
 For instance, a metric can track how long an incident is assigned to an individual, or how long an incident is in the state Active.
 
-See [[c_MetricDefinitionSupport|Metrics]] for more information.
+See [Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MetricDefinitionSupport.md) for more information.
 
 ## Time configuration SLAs
 
@@ -47,11 +47,11 @@ SLAs define the following conditions:
 
 Once a task meets the Start Conditions, the SLA will time how long the task remains in that condition \(unless it meets Pause Conditions\). The timer will end if the Stop Conditions are met. If the time-limit is passed, the SLA will be marked breached.
 
-[[notifications|Notifications]] can be driven off of the SLA to warn interested parties as the time limit approaches.
+Notifications can be driven off of the SLA to warn interested parties as the time limit approaches.
 
 ## Time worked fields
 
-The Task `[task]` table provides a time-tracking field called **[[c_TimeWorked|Time worked]]**. This field measures how long a record has been viewed in order to measure work time on a ticket.
+The Task `[task]` table provides a time-tracking field called **Time worked**. This field measures how long a record has been viewed in order to measure work time on a ticket.
 
 \[Omitted image "TimeTimeworked.png"\] Alt text:
 
@@ -74,8 +74,3 @@ You can set the property `com.snc.time_worked.update_task_timer` to enable updat
 
 [Timing functionality]()
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[notifications|Notifications]]
-- [[c_TimeWorked|Time worked]]

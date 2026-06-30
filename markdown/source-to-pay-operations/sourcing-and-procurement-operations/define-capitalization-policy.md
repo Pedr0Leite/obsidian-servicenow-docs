@@ -14,7 +14,7 @@ breadcrumb: [Sourcing and Purchasing Automation, Explore, Sourcing and Procureme
 
 # Define a capitalization policy
 
-Create fixed asset shells automatically during [[purchase-order-table|purchase order]] creation, by defining a capitalization policy.
+Create fixed asset shells automatically during purchase order creation, by defining a capitalization policy.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_shop.procurement\_administrator
 
 ## About this task
 
-You can define a capitalization policy from the [[purchase-experience-workflow|Sourcing and Purchasing Automation]] module.
+You can define a capitalization policy from the Sourcing and Purchasing Automation module.
 
 ## Procedure
 
@@ -48,7 +48,3 @@ You can define a capitalization policy from the [[purchase-experience-workflow|S
 
 **Parent Topic:**[Sourcing and Purchasing Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-experience-workflow.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

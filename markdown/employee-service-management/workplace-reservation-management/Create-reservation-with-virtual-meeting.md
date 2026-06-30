@@ -24,7 +24,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to the [[reservation-portal|Make a Reservation]] page from any of the following starting points.
+1.  Navigate to the Make a Reservation page from any of the following starting points.
 
 <table id="choicetable_oxk_tfj_zsb"><thead><tr><th align="left" id="d175335e68">
 
@@ -40,11 +40,11 @@ Steps
 
 </td><td>
 
-Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+Navigate to **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 </td></tr><tr><td id="d175335e98">
 
-**[[employee-center-landing-page|Employee Center]]**
+**Employee Center**
 
 </td><td>
 
@@ -52,7 +52,7 @@ Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt
 2.  Open the reservation portal and do one of the following:
     -   Click **Reservations** &gt; **Make a reservation**.
     -   On the homepage, select **Make a reservation** directly.
-    -   From the [[workplace-services|Workplace services]] catalog, select **New general reservation**.
+    -   From the Workplace services catalog, select **New general reservation**.
         1.  Select **Catalog** &gt; **Browse by categories** &gt; **Workplace Services Catalog**.
 
 **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog**.
@@ -79,7 +79,7 @@ Navigate to **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt
 
     **Note:** While browsing near a person, if there are any private spaces, then they are not displayed in the search result.
 
-    **Note:** You can switch between the **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your company uploads floor maps, view the maps using Mappedin or [[Indoor-mapping|Indoor Mapping]]. For more information on how to use floor maps, refer to [[wsm-mappedin-admin|Workplace Space Mapping]].
+    **Note:** You can switch between the **Card view** tab and **Schedule view** tab to review the availability of workplace items. If your company uploads floor maps, view the maps using Mappedin or Indoor Mapping. For more information on how to use floor maps, refer to [Workplace Space Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/wsm-mappedin-admin.md).
 
 5.  Sort the workplace items in alphabetical order or by using a filter with the **Show filter** option.
 
@@ -170,7 +170,7 @@ Invite external visitor
 
 </td><td>
 
-Option to invite an external visitor.**Note:** This option appears only if you have the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application installed.
+Option to invite an external visitor.**Note:** This option appears only if you have the Workplace Visitor Management application installed.
 
  -   If you have already registered the visitor before, do the following:
     1.  Select **Previous visitor**.
@@ -255,12 +255,3 @@ To view the reservation recording, go to Reservation summary of the reservation 
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

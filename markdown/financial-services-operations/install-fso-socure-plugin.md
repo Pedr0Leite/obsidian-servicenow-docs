@@ -12,7 +12,7 @@ breadcrumb: [Set up, Socure, Integrate, Financial Services Operations \(FSO\)]
 
 # Activate the Financial Services Operations Integration with Socure application
 
-Activate the [[integrating-socure-service|Financial Services Operations Integration with Socure]] \(com.sn\_fso\_intg\_socure\) application so that you can embed the Socure APIs in workflows that are developed with [[fso-overview|Financial Services]] Operations.
+Activate the Financial Services Operations Integration with Socure \(com.sn\_fso\_intg\_socure\) application so that you can embed the Socure APIs in workflows that are developed with Financial Services Operations.
 
 ## Before you begin
 
@@ -28,7 +28,4 @@ Role required: admin
 
 3.  Select **Install**.
 
-## Related
 
-- [[integrating-socure-service|Financial Services Operations integration with Socure]]
-- [[fso-overview|Financial Services]]

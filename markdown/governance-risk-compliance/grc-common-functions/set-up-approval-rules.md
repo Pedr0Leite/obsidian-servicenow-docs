@@ -30,7 +30,7 @@ You can select specific approvers, approvers from the selected source table, dyn
 
 1.  Navigate to **All** &gt; **Assignment and Approval Configurations** &gt; **Approval Configurations**.
 
-2.  Click an [[bcm-approval-configuration|approval configuration]] record in the list.
+2.  Click an approval configuration record in the list.
 
 3.  Click the approval levels record in the **Name** column of the Approval Levels section.
 
@@ -42,14 +42,9 @@ You can select specific approvers, approvers from the selected source table, dyn
 
 
 -   **[Approval Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/approval-rule-form.md)**  
-Use the [[approval-rule-form|Approval Rule form]] to create an approval rule.
+Use the Approval Rule form to create an approval rule.
 -   **[Approval Rule New Record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/approval-rule-new-record-form.md)**  
-Use the [[approval-rule-new-record-form|Approval Rule New Record form]] to create an approval rule for the approval level for a policy record.
+Use the Approval Rule New Record form to create an approval rule for the approval level for a policy record.
 
 **Parent Topic:**[Using Approver Configurator for setting up approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/approval-configuration.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[approval-rule-form|Approval Rule form]]
-- [[approval-rule-new-record-form|Approval Rule New Record form]]

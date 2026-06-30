@@ -14,11 +14,11 @@ breadcrumb: [Using CAM, Continuous Authorization and Monitoring, Governance, Ris
 
 # CAM workflow configuration
 
-Configure custom workflows in [[grc-cam-landing-page|Continuous Authorization and Monitoring]] to support compliance requirements beyond the default National Institute of Standards and Technology NIST Risk Management Framework.
+Configure custom workflows in Continuous Authorization and Monitoring to support compliance requirements beyond the default National Institute of Standards and Technology NIST Risk Management Framework.
 
 The CAM Workflow Configuration enables you to configure custom workflows and frameworks instead of restricting operations to the National Institute of Standards and Technology \(NIST\) framework. This flexibility enables you to adapt CAM to your specific compliance and authorization requirements.
 
-Previously, CAM maintained tight coupling with the NIST framework and its seven-step process: Prepare, Categorize, Select, Implement, Assess, Authorize, and Monitor. The [[work-configuration|Workflow Configuration]] decouples CAM from this single framework, enabling you to create and map custom workflows to authorization packages and boundaries.
+Previously, CAM maintained tight coupling with the NIST framework and its seven-step process: Prepare, Categorize, Select, Implement, Assess, Authorize, and Monitor. The Workflow Configuration decouples CAM from this single framework, enabling you to create and map custom workflows to authorization packages and boundaries.
 
 The configuration uses existing authorization package records and adds flexible state models that can map to different workflows. This approach maintains backward compatibility while enabling support for multiple workflows.
 
@@ -109,22 +109,15 @@ When the workflow configuration property is enabled, OSCAL export includes workf
 
 ## Assessment capabilities
 
-The Send Assessment button enables both classic assessments and [[risk-assessments|risk assessments]] \(when Advanced Risk Management is installed\).
+The Send Assessment button enables both classic assessments and risk assessments \(when Advanced Risk Management is installed\).
 
 ## Classic assessments
 
-Platform assessments that use assessment metric types. You must create or modify [[airc-assessment-templates|assessment templates]] where the table is set to Authorization Package.
+Platform assessments that use assessment metric types. You must create or modify assessment templates where the table is set to Authorization Package.
 
 ## Risk assessments
 
-[[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]] assessments that evaluate risks associated with packages and boundaries. Risk assessments appear in a separate related list on the package form.
+Risk Assessment Methodology \(RAM\) assessments that evaluate risks associated with packages and boundaries. Risk assessments appear in a separate related list on the package form.
 
 **Note:** CAM doesn’t ship assessment templates for authorization packages. You must create or modify existing templates for both assessment types.
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[work-configuration|Workflow configuration]]
-- [[risk-assessments|risk assessments]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]

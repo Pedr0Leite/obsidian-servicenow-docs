@@ -14,7 +14,7 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Connect Support chat states
 
-[[c_ConnectSupport|Connect Support]] chats move through specific states.
+Connect Support chats move through specific states.
 
 \[Omitted image "chat-support-states-diagram.png"\] Alt text: Connect Support states diagram showing the full cycle of states for a support conversation
 
@@ -108,7 +108,3 @@ Closed Complete
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConnectSupport|Connect Support]]

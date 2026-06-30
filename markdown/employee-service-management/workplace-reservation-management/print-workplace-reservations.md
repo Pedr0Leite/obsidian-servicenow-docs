@@ -18,7 +18,7 @@ Using the Reservation Overview, workplace managers and reservation desk executiv
 
 ## Before you begin
 
-**Note:** Enable the Print reservation feature by installing the [[document-templates-overview|Document Templates]] plugin.
+**Note:** Enable the Print reservation feature by installing the Document Templates plugin.
 
 Role required: sn\_wsd\_rsv.reservation\_planner or sn\_wsd\_rsv.reservation\_viewer
 
@@ -28,7 +28,7 @@ The report contains the reservation details and the requested service item detai
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Reservation Overview**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Reservation Overview**.
 
 2.  Select any of the following options to view reservations:
 
@@ -55,7 +55,3 @@ The report contains the reservation details and the requested service item detai
 
 [Manage and configure reservation waitlist]()
 
-## Related
-
-- [[document-templates-overview|Document Templates]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

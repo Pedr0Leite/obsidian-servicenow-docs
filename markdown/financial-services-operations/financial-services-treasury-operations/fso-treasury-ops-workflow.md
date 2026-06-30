@@ -14,7 +14,7 @@ breadcrumb: [Use, Treasury Operations, Banking applications, Financial Services 
 
 # Financial Services Treasury Operations workflows
 
-The [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]] application installs automated workflows that can be configured for any treasury service. These workflows create cases and route tasks to the treasury and document agents.
+The Financial Services Treasury Operations application installs automated workflows that can be configured for any treasury service. These workflows create cases and route tasks to the treasury and document agents.
 
 ## Workflows available with this application
 
@@ -64,6 +64,3 @@ The state and stage of the case is set to Closed Complete.
 
 **Parent Topic:**[Using Financial Services Treasury Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-treasury-operations/using-treasury-ops.md)
 
-## Related
-
-- [[fso-treasury-ops-landing-page|Financial Services Treasury Operations]]

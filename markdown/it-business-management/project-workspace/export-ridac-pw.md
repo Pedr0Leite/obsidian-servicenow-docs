@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Export RIDAC data from Project Workspace
 
-Export your RIDAC data as a file from [[project-workspace-landing-page|Project Workspace]]. Use this file to provide RIDAC updates to external stakeholders or a wider audience. Save time by generating an export file with the latest information and avoid copying information into different files.
+Export your RIDAC data as a file from Project Workspace. Use this file to provide RIDAC updates to external stakeholders or a wider audience. Save time by generating an export file with the latest information and avoid copying information into different files.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ The RIDAC data is downloaded in the selected file format.
 
 [Convert one RIDAC record to another for a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/convert-ridac-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

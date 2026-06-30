@@ -22,7 +22,7 @@ Role required: cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Scripts** &gt; **Cloud Script Templates**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Scripts** &gt; **Cloud Script Templates**.
 
 2.  Click **New**, enter the name and content of the script, and then click **Submit**.
 
@@ -47,6 +47,3 @@ Role required: cloud\_admin
 
 To run a script at the time a virtual resource is provisioned, map the script to an OS profile. To run a post-provisioning script, create a blueprint and specify the script in the Execute Script operation. See [Example: Post-provision cloud script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-init-script-example.md) for an example.
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

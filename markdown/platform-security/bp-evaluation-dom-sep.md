@@ -22,7 +22,7 @@ These factors may help you decide to choose domain separation for your customers
 
 -   Your customers have moderate alignment of processes and general platform requirements.
 -   Your customers plan to work on tasks as fulfillers rather than as requesters.
--   Your customers have a contractual agreement that requires that data records be isolated, but your instance owner has determined that the requirement may be addressed somewhere else in the [[sc-configuration|configuration]].
+-   Your customers have a contractual agreement that requires that data records be isolated, but your instance owner has determined that the requirement may be addressed somewhere else in the configuration.
 -   Your company's instance owners have entire entities that operate as physically separate organizations and do not share data, but full reporting is still required. Separate domains would allow data visibility when configured correctly.
 
 ## Reasons for no domain separation
@@ -39,11 +39,11 @@ These factors can point to reasons why your customers' organizations might not w
 -   Departments in your customers' organization want to isolate records. \(Access controls may suffice.\)
 -   Your customers all want their own processes, business rules, and workflows.
 -   The corporate culture is one of non-collaboration between your customers' organizations.
--   Your customers interact with the platform as end [[users|users]] only.
+-   Your customers interact with the platform as end users only.
 
 \[Omitted image "bp-evaluating-need.png"\] Alt text: Evaluating reasons for and against choosing domain separation
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -80,7 +80,7 @@ These factors can point to reasons why your customers' organizations might not w
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -98,9 +98,3 @@ These factors can point to reasons why your customers' organizations might not w
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[logs|Logs]]

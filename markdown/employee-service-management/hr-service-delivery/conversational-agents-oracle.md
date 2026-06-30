@@ -14,11 +14,11 @@ breadcrumb: [HR Service Delivery Advanced Integration with Oracle HCM, Integrati
 
 # Use HCM AI agents for HR Service Delivery Advanced Integration with Oracle HCM
 
-Place requests to the Oracle system using the [[hr-service-delivery|HR Service Delivery]] AI agent collection.
+Place requests to the Oracle system using the HR Service Delivery AI agent collection.
 
 ## HCM AI agents Overview
 
-You can submit requests to the Oracle system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in [[employee-center-landing-page|Employee Center]]. To access and use the [[conversational-agents|HCM AI agents]], ensure to [Configure HCM AI agents for HR Service Delivery Advanced Integration with Oracle HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-oracle-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Advanced Integration with Oracle HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/oracle-agent-mapping.md).
+You can submit requests to the Oracle system, for example, apply for time off or update your details, using the HR Service Delivery AI agent collection in Employee Center. To access and use the HCM AI agents, ensure to [Configure HCM AI agents for HR Service Delivery Advanced Integration with Oracle HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-oracle-agents.md). For more information on subflow-agent mapping, see [Subflow-agent mapping for HR Service Delivery Advanced Integration with Oracle HCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/oracle-agent-mapping.md).
 
 ## Worker profile retriever AI agent
 
@@ -52,8 +52,3 @@ The HCM feedback retriever AI agent enables you to view feedback you have receiv
 
 The View paychecks AI agent enables you to view paycheck summaries for the selected period.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[employee-center-landing-page|Employee Center]]
-- [[conversational-agents|HCM AI agents]]

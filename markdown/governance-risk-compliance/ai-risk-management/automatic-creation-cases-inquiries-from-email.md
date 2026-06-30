@@ -15,7 +15,7 @@ breadcrumb: [Explore, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Automatic creation of AI cases and inquiries from inbound email
 
-The system automatically creates [[airc-cases-inquiries|AI cases and inquiries]] from inbound emails using keywords in the subject line and body based on configured email intake settings.
+The system automatically creates AI cases and inquiries from inbound emails using keywords in the subject line and body based on configured email intake settings.
 
 ## Overview of email-based intake
 
@@ -61,6 +61,3 @@ When an inbound email is processed, information from the email is used to popula
 
 [AI governance email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc_email_notifications.md)
 
-## Related
-
-- [[airc-cases-inquiries|AI cases and inquiries]]

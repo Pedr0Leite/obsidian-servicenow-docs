@@ -24,7 +24,7 @@ Role required: it\_pps\_admin, it\_project\_manager
 
 ## Procedure
 
-1.  Open a project from the home page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the home page of Project Workspace.
 
     For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -36,7 +36,7 @@ Role required: it\_pps\_admin, it\_project\_manager
 
     1.  From the Pages section, select **Create new from template** from the drop-down.
     2.  From the "Welcome to your Template Center!" screen, select **Use** for the template that you want to use.
-5.  On the [[create-status-report-form|Create status report form]], fill in the fields.
+5.  On the Create status report form, fill in the fields.
 
     For a description of the field values, see [Create status report form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-status-report-form.md).
 
@@ -99,7 +99,3 @@ Add dynamic content to a status report in Project Workspace for your projects. T
 
 [Create a status report template in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-template-project-workspace.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-status-report-form|Create status report form]]

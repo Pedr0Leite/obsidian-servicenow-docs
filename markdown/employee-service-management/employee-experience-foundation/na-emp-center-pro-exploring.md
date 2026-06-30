@@ -15,11 +15,11 @@ breadcrumb: [Now Assist for Employee Center Pro, Unified Employee Experience, Em
 
 # Exploring Now Assist for Employee Center Pro
 
-[[na-ec-pro-landing|Now Assist for Employee Center Pro]] is a modern, multi-application employee engagement layer that is designed to provide a digital front-door for employee self-service capabilities, request support and conversational assistance, and powerful enterprise search capabilities.
+Now Assist for Employee Center Pro is a modern, multi-application employee engagement layer that is designed to provide a digital front-door for employee self-service capabilities, request support and conversational assistance, and powerful enterprise search capabilities.
 
 ## Now Assist for Employee Center Pro overview
 
-Now Assist for Employee Center Pro is layered with [[employee-center-pro-landing|Employee Center Pro]], a multi-department employee destination site that drives employee engagement and productivity. Now Assist, which improves productivity, efficiency, and self-service while empowering your users to search more effectively. AI Search, which enables your users to have a powerful consumer-grade search experience.
+Now Assist for Employee Center Pro is layered with Employee Center Pro, a multi-department employee destination site that drives employee engagement and productivity. Now Assist, which improves productivity, efficiency, and self-service while empowering your users to search more effectively. AI Search, which enables your users to have a powerful consumer-grade search experience.
 
 \[Omitted image "emp-center-pro-plus-exploring.png"\] Alt text: Landing Page features for Now Assist for Employee Center Pro.
 
@@ -66,10 +66,5 @@ Now Assist for Employee Center Pro is layered with [[employee-center-pro-landing
 
 ## What to explore next
 
-To learn more about [[na-emp-cente-pro-configuring|configuring Now Assist for Employee Center Pro]], see: [Configuring Now Assist for Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/na-emp-cente-pro-configuring.md)
+To learn more about configuring Now Assist for Employee Center Pro, see: [Configuring Now Assist for Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/na-emp-cente-pro-configuring.md)
 
-## Related
-
-- [[na-ec-pro-landing|Now Assist for Employee Center Pro]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[na-emp-cente-pro-configuring|Configuring Now Assist for Employee Center Pro]]

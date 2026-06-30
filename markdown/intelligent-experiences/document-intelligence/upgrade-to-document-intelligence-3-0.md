@@ -14,9 +14,9 @@ breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
 
 # Upgrade to Document Intelligence 3.0 or later from version 2.4 or earlier
 
-[[document-intelligence-landing|Document Intelligence]] 3.0 or later includes an updated database schema to support its transition from a scoped application to a ServiceNow AI Platform plugin.
+Document Intelligence 3.0 or later includes an updated database schema to support its transition from a scoped application to a ServiceNow AI Platform plugin.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Upgrade tasks
 
@@ -40,7 +40,7 @@ Choose a time to schedule the upgrade
 
 </td><td>
 
-Avoid performing the upgrade during the run time of the nightly task definition \(use case\) upgrade job. Upgrading the application at that time would prevent use [[cases|cases]] from upgrading until the run time of the next day.
+Avoid performing the upgrade during the run time of the nightly task definition \(use case\) upgrade job. Upgrading the application at that time would prevent use cases from upgrading until the run time of the next day.
 
 </td></tr><tr><td>
 
@@ -153,8 +153,3 @@ At any time after the completion of the Document Intelligence 3.0 or later upgra
 |Scope of integrating BU|global|sys\_di\_training\_input|Read|Table|Allowed|
 |Scope of integrating BU|global|sys\_di\_key\_hint|Read|Table|Allowed|
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

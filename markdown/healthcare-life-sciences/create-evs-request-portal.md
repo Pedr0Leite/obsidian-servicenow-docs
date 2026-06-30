@@ -12,7 +12,7 @@ breadcrumb: [Create service requests, Care Team Operations for Environmental Ser
 
 # Create an environmental services support request using Care Team Portal
 
-Use the [[care-team-portal-landing|Care Team Portal]] to create an environmental services support request.
+Use the Care Team Portal to create an environmental services support request.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_hco.care\_team\_member
 
 \[Omitted image "cto-evs-create-request.png"\] Alt text: Environmental services support request being created in Care Team Portal.
 
-[[cto-evs-landing|Care Team Operations for Environmental Services]] comes with preconfigured service requests for facilities support departments.
+Care Team Operations for Environmental Services comes with preconfigured service requests for facilities support departments.
 
 Select the catalog item that aligns with your request type.
 
 For example, a nurse who notices a room needs clean linens would navigate to **Create a request &gt; Request environmental service &gt; Clean Linen Delivery request** and fill in the request details.
 
-For detailed information on the Care Team Operations for Environmental Services service catalog, see [[cto-evs-service-catalog|Service Catalog installed with Care Team Operations for Environmental Services]].
+For detailed information on the Care Team Operations for Environmental Services service catalog, see [Service Catalog installed with Care Team Operations for Environmental Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-evs-service-catalog.md).
 
 ## Procedure
 
@@ -103,8 +103,4 @@ The day and time in which support can attempt to resolve the issue.
 
 5.  Select **Submit**.
 
-## Related
 
-- [[cto-evs-service-catalog|Service Catalog installed with Care Team Operations for Environmental Services]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

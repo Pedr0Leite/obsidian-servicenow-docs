@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # My Requests widget
 
-The [[my-request-widget-portal|My Requests widget]] stores all of your open requests in one place. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The My Requests widget stores all of your open requests in one place. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 The list is updated in real time so you can see your requests getting processed. The widget pulls open request information from the sc\_request table.
 
@@ -35,13 +35,9 @@ Search requests by entering a complete word or record number in the search bar.
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[my-request-widget-portal|My Requests widget]]
-- [[c_ServicePortal|Service Portal]]

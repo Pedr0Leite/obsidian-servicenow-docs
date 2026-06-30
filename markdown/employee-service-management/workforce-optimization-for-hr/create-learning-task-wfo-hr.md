@@ -14,7 +14,7 @@ breadcrumb: [Learning in Workforce Optimization for HR, Coaching in Workforce Op
 
 # Create a learning task
 
-Create [[exploring-learning-exp|learning]] tasks for agents to keep track of their learning activities.
+Create learning tasks for agents to keep track of their learning activities.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Set learning task completion due dates to include or exclude weekends using the 
 
 4.  Click **Learning Tasks** and select **All Tasks**.
 
-5.  [[create-learning-task|Create a learning task]].
+5.  Create a learning task.
 
     1.  Click **New**.
 
@@ -89,7 +89,3 @@ Date when the agent must complete the course. Default is 5 days after the creati
 
 **Parent Topic:**[Learning in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/learning-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-learning-task|Create a learning task]]

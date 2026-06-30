@@ -14,7 +14,7 @@ breadcrumb: [Configuring Proactive Triggers, Proactive Triggers, Manage people a
 
 # Create custom trigger types
 
-Create your own trigger type during the rule creation process that is specific to your organization for improved [[proactive-triggers-landing-page|Proactive Triggers]] usage.
+Create your own trigger type during the rule creation process that is specific to your organization for improved Proactive Triggers usage.
 
 ## Before you begin
 
@@ -24,14 +24,14 @@ Role required: sn\_pt.proactive\_admin or admin
 
 For a more advanced configuration, create your own custom trigger types. You can create custom trigger types through two different paths.
 
-1.  Through the **View All** button next to the **Trigger types** field in **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General** &gt; **Proactive triggers**.
+1.  Through the **View All** button next to the **Trigger types** field in **Conversational Interfaces** &gt; **Settings** &gt; **General** &gt; **Proactive triggers**.
 2.  Through the rule creation process.
 
 ## Procedure
 
 1.  Navigate to **Conversational Interfaces** &gt; **Settings** &gt; **General**, and then select **View All** next to the **Rules** field in Proactive Triggers.
 
-2.  Select **New** to display the [[proactive-rule-new-record-form|Proactive Rule form]].
+2.  Select **New** to display the Proactive Rule form.
 
 3.  Next to the **Trigger type** field, select the create new trigger type icon \(\[Omitted image "workspace-icon-add.png"\] Alt text: Create new trigger type icon.\).
 
@@ -130,8 +130,3 @@ After creating the custom trigger type, the **Create new trigger type** button u
 
 Also, you can make edits to this new trigger type by selecting **View All** next to the **Trigger types** field in **Conversational Interfaces** &gt; **Settings** &gt; **General** &gt; **Proactive triggers**.
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[proactive-rule-new-record-form|Proactive Rule form]]

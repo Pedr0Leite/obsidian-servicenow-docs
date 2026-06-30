@@ -14,7 +14,7 @@ breadcrumb: [Using interactions in Agent Workspace for HR Case Management, Using
 
 # Create interactions in Agent Workspace for HR Case Management
 
-Create interaction records from the configurable [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] form.
+Create interaction records from the configurable Agent Workspace for HR Case Management form.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  To create an interaction, select the **Add** icon \(plus sign\), and select **Create Interaction**.
 
@@ -88,7 +88,7 @@ Information related to the interaction that can help other HR agents. Work notes
 
 ## What to do next
 
-Agents use an interaction to help complete and [[create-applicant-tasks|create tasks]] and cases.
+Agents use an interaction to help complete and create tasks and cases.
 
 |Tab|Description|
 |---|-----------|
@@ -101,8 +101,3 @@ Agents use an interaction to help complete and [[create-applicant-tasks|create t
 |------|-----------|
 |Create HR case|Creates an HR case from the interaction and copies discussions and documents of the interaction to the HR case. The documents of the interaction are displayed in the **Attachments** section of the case record.|
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[create-applicant-tasks|Create tasks]]

@@ -21,13 +21,13 @@ Role required: sn\_itsm\_chg\_admin.change\_models\_config, sn\_itsm\_chg\_admin
 
 ## About this task
 
-Standard changes are pre-approved and accessed through templates rather than a change type picker. Requesters select a template directly to create a Standard change. Because Standard changes bypass the approval workflow, the model doesn't include availability, approval, or automatic task [[settings-mobile|settings]].
+Standard changes are pre-approved and accessed through templates rather than a change type picker. Requesters select a template directly to create a Standard change. Because Standard changes bypass the approval workflow, the model doesn't include availability, approval, or automatic task settings.
 
 ## Procedure
 
 1.  Open the **Standard** change model in the Configuration Console.
 
-    For navigation steps, see [[configure-change-models-scm|Configure change models for Simplified Change Management]].
+    For navigation steps, see [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 2.  In the **New** section, review the templates listed under Templates that use this change model.
 
@@ -46,12 +46,7 @@ The Standard change model configuration is saved. Requesters access Standard cha
 
 ## What to do next
 
-To configure additional change [[c_Models|models]], return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
+To configure additional change models, return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 **Parent Topic:**[Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md)
 
-## Related
-
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[settings-mobile|Settings]]
-- [[c_Models|Models]]

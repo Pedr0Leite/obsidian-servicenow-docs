@@ -18,7 +18,7 @@ Specify system property values to override Task table highlighting in calendar e
 
 ## Override Task table field styles for highlighting calendar events
 
-Highlighting for calendar report events is configured with field styles, which are defined for a particular table. You can configure whether [[c_CalendarReport|calendar reports]] use field styles from the tables or [[c_ReportSources|report sources]] that they are based on.
+Highlighting for calendar report events is configured with field styles, which are defined for a particular table. You can configure whether calendar reports use field styles from the tables or report sources that they are based on.
 
 ### Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
 By default, field styles in the Task \[task\] table are applied to calendar reports. If calendar reports are configured to use field styles from their tables or report sources, these field styles override the Task table styles.
 
-**Note:** Calendar highlighting only applies to Core UI reports, not to [[par-workspace|Platform Analytics experience]] data visualizations.
+**Note:** Calendar highlighting only applies to Core UI reports, not to Platform Analytics experience data visualizations.
 
 ### Procedure
 
@@ -281,8 +281,3 @@ Enter the desired value for the number of records retained by the platform. The 
 
 [bundle-platadm.t_AddAPropertyUsingSysPropsList]
 
-## Related
-
-- [[c_CalendarReport|Calendar reports]]
-- [[c_ReportSources|Report sources]]
-- [[par-workspace|Platform Analytics experience]]

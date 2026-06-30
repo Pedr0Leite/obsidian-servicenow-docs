@@ -16,12 +16,8 @@ Email events that do not match an email parser have their "matched" flag unset. 
 
 As you create email parsers, you can attempt to reprocess the email event \(from the form or the list\) to validate a new email parser.
 
--   **[[viewing-reprocessing-unmatched-emails|View and reprocess unmatched Security Operations emails]]**  
+-   **[View and reprocess unmatched Security Operations emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/viewing-reprocessing-unmatched-emails.md)**  
 You can review Unmatched Emails for discontinued filters or as candidates for a new filter to maintain or improve the rate at which you catch email threats.
 
-**Parent Topic:**[[email-processing|Security Operations email processing]]
+**Parent Topic:**[Security Operations email processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-processing.md)
 
-## Related
-
-- [[viewing-reprocessing-unmatched-emails|View and reprocess unmatched Security Operations emails]]
-- [[email-processing|Security Operations email processing]]

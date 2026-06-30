@@ -27,7 +27,7 @@ The key benefits of metrics are as follows.
 
 ## Uses of the GRC: Metrics in Integrated Risk Management
 
-In Integrated Risk Management \(IRM\), the GRC: Metrics application helps organizations measure, monitor, and analyze risk-related data to support informed decision-making. For example, a risk team tracks operational risk exposure across business units using predefined risk metrics. These metrics capture data such as the number of open risks by severity, overdue [[risk-response|risk response]] tasks, and trends in inherent versus residual risk scores over time. By visualizing this data on dashboards, risk managers can quickly identify areas with increasing risk exposure and prioritize remediation efforts.
+In Integrated Risk Management \(IRM\), the GRC: Metrics application helps organizations measure, monitor, and analyze risk-related data to support informed decision-making. For example, a risk team tracks operational risk exposure across business units using predefined risk metrics. These metrics capture data such as the number of open risks by severity, overdue risk response tasks, and trends in inherent versus residual risk scores over time. By visualizing this data on dashboards, risk managers can quickly identify areas with increasing risk exposure and prioritize remediation efforts.
 
 ## Types of metrics
 
@@ -47,6 +47,3 @@ Indicators are used as automated control tests or assessments while metrics are 
 |Can be used to monitor a risk or control.|Can be used to measure any GRC object.|
 |Can have only binary values such as pass or fail.|Can have any value such as, Quantitative \(numbers\) or Qualitative \(text\)​.|
 
-## Related
-
-- [[risk-response|risk response]]

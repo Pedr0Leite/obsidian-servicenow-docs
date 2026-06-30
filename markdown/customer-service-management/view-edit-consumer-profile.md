@@ -20,7 +20,7 @@ Role required: sn\_customerservice.consumer
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
 2.  Select your user name in the portal header and then select **Profile**.
 
@@ -40,6 +40,4 @@ Role required: sn\_customerservice.consumer
 
 6.  Fill in the fields on the Change Password pop-up window and select **Update**.
 
-## Related
 
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]

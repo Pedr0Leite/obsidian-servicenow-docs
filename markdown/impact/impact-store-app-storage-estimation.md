@@ -13,7 +13,7 @@ breadcrumb: [Impact reference, Impact]
 
 # Impact Store Application storage estimation
 
-The [[impact-landing-page|Impact]] store app stores data within your ServiceNow instance and contributes to your instance's overall storage footprint. Storage usage varies depending on whether your instance is connected to the Impact Delivery Instance and on the level of collaboration activity.
+The Impact store app stores data within your ServiceNow instance and contributes to your instance's overall storage footprint. Storage usage varies depending on whether your instance is connected to the Impact Delivery Instance and on the level of collaboration activity.
 
 ## Why Impact storage may differ from other applications
 
@@ -32,7 +32,7 @@ Storage behavior differs depending on whether your instance is connected to the 
     Data is initially migrated and then periodically synchronized, enabling collaboration between your organization and your Impact squads. Additional data is introduced into your instance, including:
 
     -   Outcomes defined and tracked jointly
-    -   [[impact-par|Product Adoption Roadmaps]] \(PARs\) created by the Squad
+    -   Product Adoption Roadmaps \(PARs\) created by the Squad
     -   Accelerator requests and execution updates
     -   Conversations and collaboration records
     -   Attachments and supporting artifacts shared by the Squad
@@ -52,7 +52,7 @@ Storage usage in Impact is primarily driven by the following factors:
 
 ## Illustrative storage footprint ranges
 
-The following ranges are indicative examples to [[io-help|help]] estimate potential storage usage based on typical usage patterns. Actual values may vary based on implementation and usage.
+The following ranges are indicative examples to help estimate potential storage usage based on typical usage patterns. Actual values may vary based on implementation and usage.
 
 <table id="table-storage-ranges"><thead><tr><th>
 
@@ -105,11 +105,5 @@ Large \(high usage / mature adoption\)
 -   Storage growth is directly correlated with feature usage and collaboration levels.
 -   Higher engagement with Impact capabilities may result in increased storage consumption.
 
-**Parent Topic:**[[impact-reference|Impact reference]]
+**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 
-## Related
-
-- [[impact-reference|Impact reference]]
-- [[impact-landing-page|Impact]]
-- [[impact-par|Product Adoption Roadmaps]]
-- [[io-help|Help]]

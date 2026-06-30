@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 # Create a group for all location managers in Care Team Operations for Healthcare IT
 
-Create a group for location managers with the sn\_customerservice.svc\_location\_manager assigned so that users added to this group will inherit the collection of roles for [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+Create a group for location managers with the sn\_customerservice.svc\_location\_manager assigned so that users added to this group will inherit the collection of roles for Care Team Operations for Healthcare IT.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 A user group has been created for your location managers.
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]

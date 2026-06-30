@@ -53,8 +53,5 @@ Set **Show task** to false
     \[Omitted image "TaskTab.png"\] Alt text: In this figure, there is a Task tab, with four requests on the current level.
 
 
-**Parent Topic:**[[c_InteractiveFacilityMaps|Interactive facility maps]]
+**Parent Topic:**[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)
 
-## Related
-
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]

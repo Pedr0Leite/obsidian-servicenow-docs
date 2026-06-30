@@ -68,8 +68,5 @@ See [Data Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/a
 
 Data Privacy is available with activation of the Data Privacy plugin \(`sn_dp_store_app`\). For details, see [Activate data privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/dps-activate-data-privacy.md).
 
-**Parent Topic:**[[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]
+**Parent Topic:**[ServiceNow AI Platform security release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-platform-security-rn-landing.md)
 
-## Related
-
-- [[now-platform-security-rn-landing|ServiceNow AI Platform security release notes]]

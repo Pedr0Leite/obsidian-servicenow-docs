@@ -12,14 +12,14 @@ breadcrumb: [Now Assist for Core Business Suite, Configure Core Business Suite u
 
 # Configure groups and roles
 
-Configure groups and roles for [[cbs-landing|Core Business Suite]] business units through the Now Assist conversational experience.
+Configure groups and roles for Core Business Suite business units through the Now Assist conversational experience.
 
 ## Before you begin
 
 Ensure that the following are activated:
 
--   AI search \([[activate-ai-search|Activate AI Search]]\)
--   Now Assist panel \([[enable-now-assist-panel|Activate Now Assist panel]]\)
+-   AI search \([Activate AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/activate-ai-search.md)\)
+-   Now Assist panel \([Activate Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/enable-now-assist-panel.md)\)
 
 Role required: admin
 
@@ -70,11 +70,5 @@ Role required: admin
     Now Assist completes the action and displays a success message.
 
 
-**Parent Topic:**[[now-assist-cbs|Now Assist for Core Business Suite]]
+**Parent Topic:**[Now Assist for Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/now-assist-cbs.md)
 
-## Related
-
-- [[activate-ai-search|Activate AI Search]]
-- [[enable-now-assist-panel|Activate Now Assist panel]]
-- [[now-assist-cbs|Now Assist for Core Business Suite]]
-- [[cbs-landing|Core Business Suite]]

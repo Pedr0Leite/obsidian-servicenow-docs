@@ -23,11 +23,11 @@ Role required: sn\_grc\_sharegenai.risk\_suggestion\_aiagent\_user
 Make sure that the following prerequisites are met to use this feature:
 
 -   Now Assist for IRM and any Workspace must be installed.
--   [[suggest-potential-risks-workflow|Suggest potential risks workflow]] and Risk Suggestion AI agent must be activated. For more, refer to [Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-agentic-workflows.md).
+-   Suggest potential risks workflow and Risk Suggestion AI agent must be activated. For more, refer to [Activate agentic workflows in Now Assist for Integrated Risk Management \(IRM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/activate-agentic-workflows.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
     You can also navigate to your required Workspace.
 
@@ -67,7 +67,4 @@ Make sure that the following prerequisites are met to use this feature:
 
 13. To delete the suggested risks, choose the required risks, and select **Delete**.
 
-## Related
 
-- [[suggest-potential-risks-workflow|Suggest potential risks workflow]]
-- [[risk-workspace|risk workspace]]

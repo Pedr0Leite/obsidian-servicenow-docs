@@ -12,7 +12,7 @@ breadcrumb: [Configure, Email client, Notifications, Configure core features, Ad
 
 # Create an email client template
 
-Create a different template for each table that uses the [[c_EnableTheEmailClient|email client]] to pre-populate data for recipients and email content.
+Create a different template for each table that uses the email client to pre-populate data for recipients and email content.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The email client uses its own [[c_EmailTemplates|email templates]] to define default values for fields. Use the following sections in the Email Client Template form to build a client template:
+The email client uses its own [email templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailTemplates.md) to define default values for fields. Use the following sections in the Email Client Template form to build a client template:
 
 -   Content: The message body.
 -   Recipients: The email addresses of users receiving the email message. The email addresses are displayed in the To, Cc, and Bcc fields of the message.
@@ -125,7 +125,7 @@ Body HTML
 
 If you've selected **HTML** for the **Content Type** field, enter the content of the message body using the HTML editor toolbar to format the HTML.
 
- To [[reference-email-admin|reference]] field values, select variables from the variables list or manually type variable references using the syntax `${table_name.variable_name}`. To reference the user who launches the email client, enter the variable `${current_user}`.
+ To reference field values, select variables from the variables list or manually type variable references using the syntax `${table_name.variable_name}`. To reference the user who launches the email client, enter the variable `${current_user}`.
 
 **Note:** Line breaks don't appear for multi-line fields such as $\{description\} and $\{comments\} in the email client template.
 
@@ -263,7 +263,7 @@ For integrating users or agents personal corporate mail boxes with ServiceNow to
 
     **Note:**
 
-    The From email address doesn’t appear in the email client unless you configure an email client to display the From address. For more information on managing the behavior of an email client, see [[email-client-configuration|Email client configurations]].
+    The From email address doesn’t appear in the email client unless you configure an email client to display the From address. For more information on managing the behavior of an email client, see [Email client configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md).
 
     If the domain for the From address isn’t the domain of the SMTP email account server, the owner of the From domain address must configure the SPF record for the domain. The owner changes the domain settings to enable the instance to send an email as if from that domain. For more information on using SPF records, see ServiceNow [KB0535456](https://support.servicenow.com/kb_view.do?sysparm_article=KB0535456).
 
@@ -272,7 +272,7 @@ For integrating users or agents personal corporate mail boxes with ServiceNow to
     The template is added to the Email Client Templates \[sys\_email\_client\_template\] table.
 
 
-**Parent Topic:**[[configuring-email-client|Configure email client]]
+**Parent Topic:**[Configure email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-client.md)
 
 **Related topics**  
 
@@ -508,10 +508,4 @@ Enter a comma-separated list of either field names that contain user email addre
 
 7.  Click **Submit**.
 
-## Related
 
-- [[c_EmailTemplates|Email templates]]
-- [[email-client-configuration|Email client configurations]]
-- [[configuring-email-client|Configure email client]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[reference-email-admin|Reference]]

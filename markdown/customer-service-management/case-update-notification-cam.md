@@ -12,7 +12,7 @@ breadcrumb: [Add related parties to a case, Using customer access management, Cu
 
 # Case update notifications
 
-Contacts, consumers, and [[customer-service-contributor-users|contributor users]] assigned the Authorized Representative responsibility on a case receive all email notifications sent to the case’s primary contact.
+Contacts, consumers, and contributor users assigned the Authorized Representative responsibility on a case receive all email notifications sent to the case’s primary contact.
 
 Contacts added as additional contacts to the sold product with the Authorized Representative responsibility receive all email notifications sent to the case’s primary contact.
 
@@ -24,7 +24,7 @@ For case resolved emails, related parties with the Authorized Representative res
 
 ## Enable case update notification
 
-To receive notifications when a customer replies to a case, related parties added to cases must be assigned a Customer Access Management \(CAM\) role, such as the sn\_customerservice.case\_authorized\_contributor role. For more information, see [[r_rolesinstalledwithcustaccessmgmt|Roles installed with Customer Access Management]].
+To receive notifications when a customer replies to a case, related parties added to cases must be assigned a Customer Access Management \(CAM\) role, such as the sn\_customerservice.case\_authorized\_contributor role. For more information, see [Roles installed with Customer Access Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_rolesinstalledwithcustaccessmgmt.md).
 
 ## Configure notifications for related parties
 
@@ -37,7 +37,3 @@ Related parties added to cases can receive email notifications on case updates. 
 5.  Select the lock icon again and update the record.
 6.  Repeat these steps for each of the desired notifications.
 
-## Related
-
-- [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
-- [[customer-service-contributor-users|Contributor users]]

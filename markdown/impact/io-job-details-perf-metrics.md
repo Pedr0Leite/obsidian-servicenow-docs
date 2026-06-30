@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Job details performance metrics
 
-The metrics provide the job details [[instance-observer-performance|performance]] snapshot within the ServiceNow AI Platform®.
+The metrics provide the job details performance snapshot within the ServiceNow AI Platform®.
 
 -   **Job Execution**
 
@@ -33,7 +33,7 @@ The metrics provide the job details [[instance-observer-performance|performance]
     Tabular representation of the top 50 jobs that have been executed multiple times, including their respective counts. This data is available for the past 6 months.
 
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -42,7 +42,7 @@ The metrics provide the job details [[instance-observer-performance|performance]
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Auriga Intelligent Alert report]()
 
@@ -78,8 +78,3 @@ The metrics provide the job details [[instance-observer-performance|performance]
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

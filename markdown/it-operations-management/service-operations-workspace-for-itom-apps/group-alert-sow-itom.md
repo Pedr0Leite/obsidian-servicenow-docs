@@ -22,17 +22,17 @@ Role required: evt\_mgmt\_admin, evt\_team\_operator, or srm\_responder
 
 ## About this task
 
-Grouping of this method is most useful when alerts share common data or tags, such as a node or location. You can use fields or tags populated via an enrich automation. Use of [[alert-tags|alert tags]] is the best way to group alerts when your CMDB or service maps are immature. This complements our other grouping algorithms, including alert correlation rules, ML, and text-based grouping. Even if a new alert is matched with multiple groups, it is grouped only with the first match, and you can control the priority order of these algorithms via system property. For information on correlation logic order, see [Configure alert correlation logic order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-alert-correlation-logic-order.md).
+Grouping of this method is most useful when alerts share common data or tags, such as a node or location. You can use fields or tags populated via an enrich automation. Use of alert tags is the best way to group alerts when your CMDB or service maps are immature. This complements our other grouping algorithms, including alert correlation rules, ML, and text-based grouping. Even if a new alert is matched with multiple groups, it is grouped only with the first match, and you can control the priority order of these algorithms via system property. For information on correlation logic order, see [Configure alert correlation logic order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-alert-correlation-logic-order.md).
 
 Alert automation also provides a simulation feature allowing you to test how many alert groups would be formed, how many are left ungrouped, and the compression rate. A higher compression rate means your team is more productive and may be able to identify root causes faster. However, consider whether the groups are accurate, operationally correct, and assigned to the right teams. You may adjust the group criteria until you are satisfied with the resulting groups.
 
-For users familiar with the classic [[c_EM|Event Management]] experience, this feature offers an easier interface with improved team support for creating tag-based alert clustering definitions.
+For users familiar with the classic Event Management experience, this feature offers an easier interface with improved team support for creating tag-based alert clustering definitions.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -75,7 +75,7 @@ For users familiar with the classic [[c_EM|Event Management]] experience, this f
 
 7.  In the **Then, group alerts by the following criteria** section, perform the following steps.
 
-    \[Omitted image "group-automation-criteria.png"\] Alt text: [[c_ServiceAnalyticsOverview|Alert grouping]] criteria
+    \[Omitted image "group-automation-criteria.png"\] Alt text: Alert grouping criteria
 
     1.  In the **Grouping timeframe** field, specify the duration \(in minutes\) when alerts must be collected and grouped together.
     2.  In the **Criteria type** menu, select how you want to group the alerts.
@@ -98,7 +98,7 @@ For users familiar with the classic [[c_EM|Event Management]] experience, this f
                 Use asterisks \(\*\) in the search string to match any number of characters or a question mark \(?\) to match any single character. Everything else in the search string matches itself. For example, use "HTTP Error 5??" to match all HTTP 500 errors.
 
         -   **Related CIs**: Group alerts according to CI \(Configuration Item\) relationships—such as parent/child \(**VM** &gt; **host**\), sibling relationships \(for example, multiple VMs on the same host\), containment \(**process** &gt; **application** &gt; **server**\), and applicative flows that describe how components interact within an application. In simple terms, these alerts are connected because the underlying infrastructure components are connected.
-        -   **Related log properties**: [[hla-landing-page|Health Log Analytics]] \(HLA\) alerts are grouped together because their underlying logs look related based on patterns detected by the HLA algorithms.
+        -   **Related log properties**: Health Log Analytics \(HLA\) alerts are grouped together because their underlying logs look related based on patterns detected by the HLA algorithms.
 
             You can create an alert group based on related log properties on HLA alerts combined with alert tags or CMDB logic. When you choose to use related log properties, only log analytics alerts will be considered for grouping. Run the related log properties rule later in the rule order so that other rules—such as CMDB- or service-based grouping—can evaluate and group log analytics alerts first.
 
@@ -129,7 +129,7 @@ For users familiar with the classic [[c_EM|Event Management]] experience, this f
     2.  In the **Automation description** field, enter a brief description of the automation.
 10. To test if the alert grouping is working correctly, navigate to **Test this automation on past alerts**, select the timeframe for the simulation from the drop-down list, select whether you want to consider other grouping types, and then select **Test automation**.
 
-    **Note:** From the **Consider other group types** menu, you can select either **This automation only** or **Consider other group types**. Selecting **This automation only** ignores other alert group types while choosing **Consider other group types** includes all alert grouping automations, such as mixed, automated, and [[text-based-alert-groups|text-based alert grouping]].
+    **Note:** From the **Consider other group types** menu, you can select either **This automation only** or **Consider other group types**. Selecting **This automation only** ignores other alert group types while choosing **Consider other group types** includes all alert grouping automations, such as mixed, automated, and text-based alert grouping.
 
     During the simulation, it shows both the grouped alerts and the ungrouped alerts for the specified timeframe. If any alerts are grouped, you are shown the number of alerts that are grouped. You can select this number to view the grouped alerts. Additionally, selecting an individual alert displays the details of that specific alert. You can also modify any alert grouping conditions or field values and initiate the process again by selecting **Re-run test**.
 
@@ -157,12 +157,3 @@ For users familiar with the classic [[c_EM|Event Management]] experience, this f
 
 You can escalate alerts needing quicker responses from teams or individuals by implementing [Create Respond automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/respond-alert-sow-itom.md).
 
-## Related
-
-- [[alert-tags|Alert tags]]
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[text-based-alert-groups|Text-based alert grouping]]

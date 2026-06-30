@@ -14,7 +14,7 @@ breadcrumb: [Use, Personal Data Rights \(PDR\), Privacy Management, Governance, 
 
 # Submit a privacy request using the external-facing PDR form
 
-Submit a privacy request through your organization's external-facing [[personal-data-rights|Personal Data Rights]] \(PDR\) form, either for yourself or as an authorized agent acting on behalf of someone.
+Submit a privacy request through your organization's external-facing Personal Data Rights \(PDR\) form, either for yourself or as an authorized agent acting on behalf of someone.
 
 ## Before you begin
 
@@ -62,6 +62,3 @@ Use the field descriptions as reference when you fill the external-facing Person
 
 **Parent Topic:**[Using Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-personal-data-right.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

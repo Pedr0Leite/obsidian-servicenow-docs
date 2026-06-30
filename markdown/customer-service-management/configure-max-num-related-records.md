@@ -12,7 +12,7 @@ breadcrumb: [Configure dynamic related records, Agent tools, Organize agent work
 
 # Configure the maximum number of related records to display
 
-Configure the maximum number of related records to display in the Related Records tab in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Configure the maximum number of related records to display in the Related Records tab in the contextual side panel in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: ui\_builder\_admin, admin
 
 ## About this task
 
-As part of configuring the [[related-records-shared-page|Related Records shared page]], the administrator can define the maximum number of related records that are displayed in the Related Records tab in the contextual side panel. This is defined as part of the UI Builder data transform configuration. The default value is 100 records.
+As part of configuring the Related Records shared page, the administrator can define the maximum number of related records that are displayed in the Related Records tab in the contextual side panel. This is defined as part of the UI Builder data transform configuration. The default value is 100 records.
 
 ## Procedure
 
@@ -50,7 +50,4 @@ As part of configuring the [[related-records-shared-page|Related Records shared 
 
 12. Click **Save**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[related-records-shared-page|Related records shared page]]

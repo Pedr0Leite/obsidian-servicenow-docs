@@ -33,7 +33,7 @@ By default, a newly created template is in draft mode. Therefor, after creating 
 1.  Navigate to either workspace:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace** and then select **Management** in the CMDB Workspace menu bar.
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** and then select the Governance icon in the navigation panel.
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** and then select the Governance icon in the navigation panel.
 2.  Select the **De-duplication Template Library** link in Management tools, in the Manage section.
 
 3.  Create a library for the new template.
@@ -256,6 +256,3 @@ The new template is added to the specified library in draft mode and can be edit
 
 **Parent Topic:**[CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dedup-ci-exp-cmdb-workspace.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]

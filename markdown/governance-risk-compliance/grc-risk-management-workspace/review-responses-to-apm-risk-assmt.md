@@ -14,7 +14,7 @@ breadcrumb: [Application risk assessment using Advanced Risk Assessment, Integra
 
 # Review responses and perform inherent risk assessment
 
-Compute the overall risk score for an application by performing an [[advanced-risk-assessment|advanced risk assessment]]. After the IT application owner responds to the questionnaire, a risk manager reviews the responses and performs the inherent assessment.
+Compute the overall risk score for an application by performing an advanced risk assessment. After the IT application owner responds to the questionnaire, a risk manager reviews the responses and performs the inherent assessment.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ After the risk assessor returns the assessment questionnaire, you can review the
 
 The risk assessment task is initiated to the group responsible for performing the assessment. The task is available in **My Group Tasks**. Any risk manager who is a part of the group can perform the assessment. The assessors usually don't vary.
 
-You can choose to use either the manual [[factors|factors]] or the automated factors. By default, there are three manual factors which are associated to a risk assessment methodology. There are also three automated factors which are not associated to any risk assessment methodology. The names of the factors are:
+You can choose to use either the manual factors or the automated factors. By default, there are three manual factors which are associated to a risk assessment methodology. There are also three automated factors which are not associated to any risk assessment methodology. The names of the factors are:
 
 -   Confidentiality Impact
 -   Integrity Impact
@@ -71,7 +71,3 @@ The approver selected in the Risk Identification Configuration form can review t
 
 **Parent Topic:**[Application risk assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-and-apm-better-together.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[factors|factors]]

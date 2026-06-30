@@ -14,11 +14,11 @@ breadcrumb: [Standard change catalog, Configure, Change Management, IT Service M
 
 # Configure standard change catalog properties
 
-Configure the [[c_StandardChangeCatalogPlugin|standard change catalog]] through the standard change properties.
+Configure the standard change catalog through the standard change properties.
 
 ## Before you begin
 
-The [[c_ITILChangeManagement|Change Management]] - Standard Change Catalog \[com.snc.change\_management.standard\_change\_catalog\] plugin must be activated.
+The Change Management - Standard Change Catalog \[com.snc.change\_management.standard\_change\_catalog\] plugin must be activated.
 
 Role required: admin
 
@@ -163,7 +163,3 @@ You can create a standard change catalog. By default, the basic Standard Change 
 
 [Modify or retire a standard change template]()
 
-## Related
-
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[c_ITILChangeManagement|Change Management]]

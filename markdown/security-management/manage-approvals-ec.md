@@ -43,7 +43,7 @@ Each task provides a summary including:
 
 1.  Navigate to **My Tasks**, select a request.
 
-2.  Filter requests by **Task Type**. Select **Vulnerability Approvals** to view all approvals related to [[vuln-landing-page|Vulnerability Response]].
+2.  Filter requests by **Task Type**. Select **Vulnerability Approvals** to view all approvals related to Vulnerability Response.
 
 3.  View approvals details in the **Insights**, **Impacted services**, and **Activity** tabs.
 
@@ -56,9 +56,5 @@ Each task provides a summary including:
     Detailed audit data is available, including who approved, comments provided, actions performed. No further actions are allowed in this tab.
 
 
-**Parent Topic:**[[employee-center-vr-overview|Employee service center for Vulnerability Response]]
+**Parent Topic:**[Employee service center for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/employee-center-vr-overview.md)
 
-## Related
-
-- [[employee-center-vr-overview|Employee service center for Vulnerability Response]]
-- [[vuln-landing-page|Vulnerability Response]]

@@ -18,13 +18,13 @@ Set up authentication credentials and scheduled jobs to import SolarWinds data i
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
 Before you start the configuration, navigate to **System Definition** &gt; **Business Rules**, and deactivate the **ValidateServiceAccountID** business rule.
 
-Air gap connections are available from version 2.5.0 of the [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]]. You can set up either regular data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure server and low-secure server. See [Configuring air gap connections for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/airgap-solarwinds.md).
+Air gap connections are available from version 2.5.0 of the Service Graph Connector for SolarWinds. You can set up either regular data sources or air gap data sources. Before you set up air gap data sources, you must configure the air gap solution for the Service Graph Connector for SolarWinds in your high-secure server and low-secure server. See [Configuring air gap connections for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/airgap-solarwinds.md).
 
 Dependencies and requirements:
 
@@ -47,11 +47,11 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **SolarWinds** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **SolarWinds** &gt; **Setup**.
 
 2.  On the Getting started page, select **Get Started**.
 
-3.  Configure your authentication credentials used to [[c_Connect|connect]] to the SolarWinds SWIS API.
+3.  Configure your authentication credentials used to connect to the SolarWinds SWIS API.
 
     1.  On the Service Graph Connector for SolarWinds page, in the Configure the connection section, select the **Configure the authentication credentials used to connect to SolarWinds SWIS API** task.
 
@@ -129,7 +129,7 @@ Order in which credentials are tried. Smaller numbers are tried first.
         |Field|Description|
         |:----|:----------|
         |Name|Name of the connection. This field is automatically set. You can optionally change the name.|
-        |Use MID server|Option to enable the connection to use a [[mid-server-landing|MID server]].|
+        |Use MID server|Option to enable the connection to use a MID server.|
         |Host|Target host value used by the connection. This field is automatically set by the connection URL.|
         |Credential|Credential value used by the connection.|
         |Connection alias|Connection alias value with which the connection can be referred.|
@@ -310,7 +310,7 @@ Archive Path \[Optional\]
 
 </td><td>
 
-Folder where the data is to be archived if the **Archive Data After Retrieval** [[check-box|check box]] is selected.
+Folder where the data is to be archived if the **Archive Data After Retrieval** check box is selected.
 
 </td></tr></tbody>
 </table>    5.  Either add or save the connection.
@@ -381,12 +381,3 @@ Folder where the data is to be archived if the **Archive Data After Retrieval** 
 
 [Configuring air gap connections for Service Graph Connector for SolarWinds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/airgap-solarwinds.md)
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-integration-solarwinds|Service Graph Connector for SolarWinds]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[c_Connect|Connect]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

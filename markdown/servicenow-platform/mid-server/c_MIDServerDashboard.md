@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server dashboard
 
-The MID Server dashboard is a central place for [[mid-server-landing|MID Server]] users to monitor ongoing operations. The dashboard consists of reports and gauges that display information from the MID Server Status table.
+The MID Server dashboard is a central place for MID Server users to monitor ongoing operations. The dashboard consists of reports and gauges that display information from the MID Server Status table.
 
 <table id="table_jmp_fsf_khb"><tbody><tr><td>
 
@@ -39,7 +39,7 @@ The Performance tab displays information relating to the MID Server CPU and memo
 
 ## MID Server Custom performance tab
 
-The Custom performance tab enables users to set custom [[c_MIDServerSelector|MID Server selection]] criteria to show particular MID Servers in a select time frame.
+The Custom performance tab enables users to set custom MID Server selection criteria to show particular MID Servers in a select time frame.
 
 \[Omitted image "mid-dashboard-custom.png"\] Alt text: Custom performance tab.
 
@@ -188,7 +188,3 @@ The login name of the user. An icon indicates the validity of the user:-   **Red
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_MIDServerSelector|MID Server selection]]

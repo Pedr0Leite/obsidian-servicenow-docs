@@ -14,7 +14,7 @@ breadcrumb: [Service Mapping reference, Service Mapping, ITOM Visibility, IT Ope
 
 # Entry point attributes
 
-[[c_ServiceMappingOverview|Service Mapping]] comes with a wide range of preconfigured entry point types that cover many commonly used applications. Check attribute definitions to correctly add entry points to your application services.
+Service Mapping comes with a wide range of preconfigured entry point types that cover many commonly used applications. Check attribute definitions to correctly add entry points to your application services.
 
 An entry point is a point where clients access a service instance. Entry points are stored as records in the Endpoint \[cmdb\_ci\_endpoint\] tables.
 
@@ -34,7 +34,7 @@ Host/Hostname/Host Name
 
 </td><td>
 
-The value of the target server on which the service is running. This value can contain a real host name, alias, IP, or VIP.**Important:** Do not use a localhost or loopback address \(127.0.0.1\) for [[r-discovery|discovery]] and mapping.
+The value of the target server on which the service is running. This value can contain a real host name, alias, IP, or VIP.**Important:** Do not use a localhost or loopback address \(127.0.0.1\) for discovery and mapping.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,3 @@ There are some attributes which you configure differently depending on what entr
 
 [Create entry point types for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreateEntryPoint.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

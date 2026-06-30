@@ -14,7 +14,7 @@ breadcrumb: [App Launcher, Setup task management, Configuring Employee Center Pr
 
 # Register custom web applications with app launcher
 
-As an administrator, you can register applications manually and give one-click access to the applications. You can associate topics to the applications to [[discover-lxp|discover]] and launch useful applications from the topic page.
+As an administrator, you can register applications manually and give one-click access to the applications. You can associate topics to the applications to discover and launch useful applications from the topic page.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin, taxonomy admin, or taxonomy manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Web Applications**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Web Applications**.
 
 2.  Click **New**.
 
@@ -138,7 +138,7 @@ Featured
 
 </td><td>
 
-Option to mark the application as featured. Use the **Featured** option to promote new or important or seasonal applications for higher visibility. **Note:** [[eslate-applications|Featured applications]] have display preferences and appear on the top of the page despite any filters or sorting.
+Option to mark the application as featured. Use the **Featured** option to promote new or important or seasonal applications for higher visibility. **Note:** Featured applications have display preferences and appear on the top of the page despite any filters or sorting.
 
 </td></tr></tbody>
 </table>    For more information, see [Configure application visibility and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/applauncher-enable-availability.md).
@@ -166,8 +166,3 @@ When you create applications, you can see the list of custom apps.
 
 Your employees can access all applications and associated topics. See [Access applications from App Launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-application-employee.md).
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[employee-center-landing-page|Employee Center]]
-- [[eslate-applications|Featured applications]]

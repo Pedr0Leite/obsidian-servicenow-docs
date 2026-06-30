@@ -28,7 +28,7 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
     As a requester you can request extensions to a policy exception that is in Approved state more than once. Configure the **Number of extensions allowed for a policy exception** property to request policy extension multiple times.
 
-    1.  To set up the property, navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties**
+    1.  To set up the property, navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Properties**
 
     2.  Enter the number in the **Number of extensions allowed for a policy exception** property.
 
@@ -53,6 +53,3 @@ Role required: sn\_grc.business\_user, sn\_grc.business\_user\_lite
 
 **Parent Topic:**[Manage policy exceptions and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/manage-policy-exceptions.md)
 
-## Related
-
-- [[Administration|Administration]]

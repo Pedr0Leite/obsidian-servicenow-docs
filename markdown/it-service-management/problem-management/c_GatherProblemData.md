@@ -24,7 +24,7 @@ Common related records include changes \(through the **Change request** related 
 
 ## Known errors and knowledge articles
 
-Information about already-known issues can be found in two places: the **Known Errors** module in the [[c_ProblemManagement|Problem Management]] application, or in the Knowledge application. The **Known Errors** module filters the problem table to present all the problems whose cause has been identified but cannot be fixed. The knowledge base can have information that was gathered from incidents, and may also have useful workarounds for problems.
+Information about already-known issues can be found in two places: the **Known Errors** module in the Problem Management application, or in the Knowledge application. The **Known Errors** module filters the problem table to present all the problems whose cause has been identified but cannot be fixed. The knowledge base can have information that was gathered from incidents, and may also have useful workarounds for problems.
 
 ## Dependency Views map
 
@@ -56,6 +56,3 @@ In the example above, the change in RAM is associated with a change request. You
 
 **Parent Topic:**[Reference section for Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

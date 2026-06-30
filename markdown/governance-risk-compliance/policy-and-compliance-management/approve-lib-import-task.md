@@ -34,7 +34,7 @@ Role required: sn\_compliance.manager
 
     \[Omitted image "import-or-reject-lit.png"\] Alt text: Import or reject a library import task.
 
-    Clicking **Import** imports the record that is associated with the library import task into the GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]] staging tables.
+    Clicking **Import** imports the record that is associated with the library import task into the GRC: Policy and Compliance Management staging tables.
 
     Clicking **Reject** rejects the record that is associated with the library import task. As a result, the data is not imported into the GRC: Policy and Compliance Management staging tables.
 
@@ -99,6 +99,3 @@ Role required: sn\_compliance.manager
 
 The library import task is now in the Completed state and the content is imported into the Policy and Compliance Management application.
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

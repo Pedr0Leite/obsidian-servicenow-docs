@@ -60,7 +60,7 @@ Applies to
 
 </td><td>
 
-Select one or more findings tables \(for example, Infra [[vulnerabilities|vulnerabilities]], Application vulnerabilities, Misconfigurations\). The system identifies intersecting columns between tables for data grouping.
+Select one or more findings tables \(for example, Infra vulnerabilities, Application vulnerabilities, Misconfigurations\). The system identifies intersecting columns between tables for data grouping.
 
 </td></tr><tr><td>
 
@@ -79,9 +79,5 @@ Data filter \[Optional\]
 Add filter conditions to refine the data displayed in the widget.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
+</table>**Parent Topic:**[Unified Security Exposure Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/unified-security-exposure-management-reference.md)
 
-## Related
-
-- [[unified-security-exposure-management-reference|Unified Security Exposure Management reference]]
-- [[vulnerabilities|Vulnerabilities]]

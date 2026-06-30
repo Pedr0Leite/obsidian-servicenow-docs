@@ -18,7 +18,7 @@ The masked variable inserts a field that masks the text entered.
 
 Each character entered is displayed as an asterisk \(\*\). Use this variable to ask users for sensitive or confidential data such as passwords.
 
-By selecting the **Use encryption** [[check-box|check box]], you can configure the variable to encrypt its value using various encryption algorithms before storing in the database. These values can only be decrypted by using now\_GR.variables.var\_name.getDecryptedValue\(\) on RITM, Catalog Task, or any task extension record created using a [[c_RecordProducer|record producer]].
+By selecting the **Use encryption** check box, you can configure the variable to encrypt its value using various encryption algorithms before storing in the database. These values can only be decrypted by using now\_GR.variables.var\_name.getDecryptedValue\(\) on RITM, Catalog Task, or any task extension record created using a record producer.
 
 **Note:** By default, the **Use encryption** field is set to true to ensure secure storage of information.
 
@@ -168,7 +168,3 @@ No
 
 [Variable support in various channels]()
 
-## Related
-
-- [[check-box|Check box]]
-- [[c_RecordProducer|Record Producer]]

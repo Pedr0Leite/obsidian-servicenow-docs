@@ -96,8 +96,5 @@ None.
 **Important:** Avoid granting an admin role when more specialized roles are available.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[roles-for-all-products|Roles for all products]]
+</table>**Parent Topic:**[Roles for all products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles-for-all-products.md)
 
-## Related
-
-- [[roles-for-all-products|Roles for all products]]

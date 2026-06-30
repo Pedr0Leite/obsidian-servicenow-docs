@@ -14,7 +14,7 @@ breadcrumb: [View an assessment scorecard, Assessment administrator tasks, Using
 
 The Live Feed view displays Live Feed conversations that apply to the assessable record. Users can view the group feed, including tagged comments, and add comments of their own.
 
-To configure a Live Feed view, an assessment administrator selects the **Live feed** [[check-box|check box]] on the Assessable Record form. Live feed is available on the scorecard even if there are no [[r_CategoryResults|category results]] for the other views.
+To configure a Live Feed view, an assessment administrator selects the **Live feed** check box on the Assessable Record form. Live feed is available on the scorecard even if there are no category results for the other views.
 
 The Live Feed view provides these viewing options:
 
@@ -25,7 +25,7 @@ The Live Feed view provides these viewing options:
 
 \[Omitted image "live-feed-scorecard.png"\] Alt text: Live Feed group scorecard
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -44,8 +44,3 @@ The Live Feed view provides these viewing options:
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
-- [[check-box|Check box]]
-- [[r_CategoryResults|Category results]]

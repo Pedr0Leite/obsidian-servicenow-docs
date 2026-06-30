@@ -13,15 +13,15 @@ breadcrumb: [Explore, Now Assist AI agents, Enable AI experiences]
 
 # Implement access control in Now Assist AI agents
 
-Implement security [[controls|controls]] for AI agents and agentic workflows through access control lists \(ACLs\), user identities, and role masking to implement the access control-based security measures in the agentic system.
+Implement security controls for AI agents and agentic workflows through access control lists \(ACLs\), user identities, and role masking to implement the access control-based security measures in the agentic system.
 
 ## Security for AI agents overview
 
-Access controls for agentic AI on the ServiceNow AI Platform comprises the major aspects: determining which users can access agentic AI resources, and what access each of those resources has once invoked. These aspects are controlled through three main components: access control lists \(ACLs\), user identities and role masking. The interaction between these components at the agentic workflow, AI agent, and tool levels within the [[ai-agent-studio|AI Agent Studio]] influences their overall security and functionality.
+Access controls for agentic AI on the ServiceNow AI Platform comprises the major aspects: determining which users can access agentic AI resources, and what access each of those resources has once invoked. These aspects are controlled through three main components: access control lists \(ACLs\), user identities and role masking. The interaction between these components at the agentic workflow, AI agent, and tool levels within the AI Agent Studio influences their overall security and functionality.
 
 ## Access control lists
 
-The access control lists \(ACLs\) in [[na-ai-agents|Now Assist AI agents]] determine which role\(s\) a user must have to be allowed to invoke an agentic workflow or an AI agent. ACLs must be configured individually for each agentic workflow, AI agent, and certain AI agent tools.
+The access control lists \(ACLs\) in Now Assist AI agents determine which role\(s\) a user must have to be allowed to invoke an agentic workflow or an AI agent. ACLs must be configured individually for each agentic workflow, AI agent, and certain AI agent tools.
 
 The ACLs added to an AI agent and agentic workflow are available in the respective related lists for reference.
 
@@ -35,7 +35,7 @@ After configuring the access control lists \(ACLs\), you must configure the User
 
 **Note:** Each agentic workflow and AI agent has its own user identity configuration.
 
-There are two possible user [[exploring-ai-governance|configurations]] to select from:
+There are two possible user configurations to select from:
 
 -   **Dynamic user**: The user identity of the person or resource \(automated trigger/agentic workflow/parent agent\) invokes the execution of an AI agent or an agentic workflow. The roles assigned to the agentic workflow or AI agent will change dynamically depending on the identity of the invoking user.
 
@@ -48,28 +48,18 @@ If you don't have a suitable AI user but want to use the **AI user** identity, y
 **Note:**
 
 -   Role masking limits which roles an AI agent can use during execution. It only applies when the agent runs as a dynamic user — not when it runs as an AI user. The key difference: AI users determine the identity the agent runs as and role masking narrows the roles available to an agent that run as a dynamic user.
-    -   For more information about user identity in an AI agent, refer to [[define-sec-controls-aia|Define security controls for an AI agent]].
-    -   For more information about user identity in an agentic workflow, refer to [[define-sec-controls-aw|Define security controls for an agentic workflow]].
+    -   For more information about user identity in an AI agent, refer to [Define security controls for an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aia.md).
+    -   For more information about user identity in an agentic workflow, refer to [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 -   For each component’s execution, the ACL is checked against the invoking user identity, and if passed, the component’s run as user identity is applied. Any downstream components’ ACLs are checked in comparison to the run as user identity of component directly before it in the agentic hierarchy, and their run as user identities are passed down to the next downstream component’s ACLs.
 
     **Note:**
 
-    -   [[now-assist-skills|Now Assist Skills]] and other tools of AI agents always run as Dynamic Users.
+    -   Now Assist Skills and other tools of AI agents always run as Dynamic Users.
     -   This flow applies to user-invoked agents. Agents with automated triggers operate without a conversational user; role masking still applies, but the invoking context is a system session rather than an individual user.
 
 ## Supervised execution mode for AI agents
 
 Configuring AI agents' tools to run in supervised mode is another way to minimize the potential negative impact of an AI agent that is not executing as expected. This will require human approval for the tool's actions before it executes. You can use the Supervised mode to enhance security for agents with the capability to perform sensitive or critical actions.
 
-You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [[add-catalog-ai-agent|Add a catalog item to an AI agent]].
+You can set the supervised execution mode when creating a tool in the AI agent guided setup. For example, choose Supervised as the Execution mode when adding a catalog item tool. For reference, see [Add a catalog item to an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/add-catalog-ai-agent.md).
 
-## Related
-
-- [[define-sec-controls-aia|Define security controls for an AI agent]]
-- [[define-sec-controls-aw|Define security controls for an agentic workflow]]
-- [[add-catalog-ai-agent|Add a catalog item to an AI agent]]
-- [[controls|Controls]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-skills|Now Assist skills]]

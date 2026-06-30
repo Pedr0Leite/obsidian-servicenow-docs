@@ -13,7 +13,7 @@ breadcrumb: [Use, Now Assist Center, Enable AI experiences]
 
 # Using the conversational experience in Now Assist Center
 
-Use the [[now-assist-center-now-assist-panel|Now Assist panel]] to perform [[platform-now-assist-landing|Now Assist]] administration and setup tasks through a conversational interface directly in [[now-assist-center-landing-page|Now Assist Center]].
+Use the Now Assist panel to perform Now Assist administration and setup tasks through a conversational interface directly in Now Assist Center.
 
 The Now Assist panel appears pinned along the right side of the browser by default, and is accessible from every page in the workspace. You can interact with your AI companion by typing questions and instructions in plain language.
 
@@ -25,11 +25,11 @@ Use the Now Assist panel to perform the following types of actions in Now Assist
 
 -   **Setup and configuration**
 
-    Start guided setup workflows for [[now-assist-skills|Now Assist skills]], Now Assist Guardian settings, model [[exploring-ai-governance|configurations]], multilingual service, data sharing and processing, integrations, and account details. The AI companion executes setup steps on your behalf and asks for your confirmation before any change takes effect.
+    Start guided setup workflows for Now Assist skills, Now Assist Guardian settings, model configurations, multilingual service, data sharing and processing, integrations, and account details. The AI companion executes setup steps on your behalf and asks for your confirmation before any change takes effect.
 
 -   **Skill activation and deactivation**
 
-    Activate or deactivate Now Assist skills through conversation. The panel presents [[skill-details|skill details]] and current state before requesting confirmation.
+    Activate or deactivate Now Assist skills through conversation. The panel presents skill details and current state before requesting confirmation.
 
 -   **Instance and product details**
 
@@ -40,33 +40,20 @@ Use the Now Assist panel to perform the following types of actions in Now Assist
     Ask questions about Now Assist features, concepts, and admin tasks. The panel sources product documentation and training resources and returns answers with references and links to the source material.
 
 
-After you enter your request in the chat, your AI companion generates a plan to implement your AI solution using the available [[ai-assets|AI assets]]. You can review the details of the solution, test it, and activate it, all in the conversation.
+After you enter your request in the chat, your AI companion generates a plan to implement your AI solution using the available AI assets. You can review the details of the solution, test it, and activate it, all in the conversation.
 
-**Parent Topic:**[[using-now-assist-center|Using Now Assist Center]]
+**Parent Topic:**[Using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-center.md)
 
 **Related topics**  
 
 
-[Activating actionable use [[cases|cases]] from Now Assist Center]()
+[Activating actionable use cases from Now Assist Center]()
 
-[Using [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] in Now Assist Center]()
+[Using Now Assist Readiness Evaluation in Now Assist Center]()
 
-[Using [[ai-agent-advisor-landing-page|AI Agent Advisor]] in Now Assist Center]()
+[Using AI Agent Advisor in Now Assist Center]()
 
 [Using the asset inventory in Now Assist Center]()
 
 [Using other Now Assist applications and features from Now Assist Center]()
 
-## Related
-
-- [[using-now-assist-center|Using Now Assist Center]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-skills|Now Assist skills]]
-- [[exploring-ai-governance|Configurations]]
-- [[skill-details|Skill details]]
-- [[ai-assets|AI assets]]
-- [[cases|Cases]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

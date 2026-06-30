@@ -12,13 +12,13 @@ breadcrumb: [Use, Legacy Application Manager, Administering applications, Get st
 
 # Request a free or paid application
 
-Request a free or paid application that requires approval from the vendor to purchase the application directly from the ServiceNow instance, without navigating to [[servicenow-store|ServiceNow Store]].
+Request a free or paid application that requires approval from the vendor to purchase the application directly from the ServiceNow instance, without navigating to ServiceNow Store.
 
 ## Before you begin
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -37,18 +37,10 @@ Role required: admin
     A confirmation message is displayed that the request is sent to vendor. Once the vendor approves the request, you will be notified through an email.
 
 
--   **[[get-free-app|Get a free application]]**  
+-   **[Get a free application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/get-free-app.md)**  
 Get a free application from your ServiceNow instance, without navigating to the ServiceNow Store.
--   **[[buy-paid-apps|Buy a paid application]]**  
+-   **[Buy a paid application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/buy-paid-apps.md)**  
 Request a quote and buy a paid application from your ServiceNow instance, without navigating to the ServiceNow Store.
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[get-free-app|Get a free application]]
-- [[buy-paid-apps|Buy a paid application]]
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[servicenow-store|ServiceNow Store]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]

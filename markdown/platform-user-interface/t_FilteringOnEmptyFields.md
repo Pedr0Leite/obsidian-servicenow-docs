@@ -31,7 +31,7 @@ For example, when viewing all records that are assigned to the Hardware group, t
 4.  Run the filter.
 
 
-**Parent Topic:**[[c_ConditionBuilder|Condition builder]]
+**Parent Topic:**[Condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ConditionBuilder.md)
 
 **Related topics**  
 
@@ -40,6 +40,3 @@ For example, when viewing all records that are assigned to the Hardware group, t
 
 [Comparing field values]()
 
-## Related
-
-- [[c_ConditionBuilder|Condition builder]]

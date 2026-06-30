@@ -38,8 +38,5 @@ The following table outlines the key differences between a regulatory event aler
 
 [Next Experience Discuss and Chat Collaboration]()
 
-[Exploring Now Assist in [[reg-change-mgmt-landing-page|Regulatory Change Management]] \(RCM\)]()
+[Exploring Now Assist in Regulatory Change Management \(RCM\)]()
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

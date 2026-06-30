@@ -31,7 +31,7 @@ SaaS integrations create subscription records in the Software Subscription \[sam
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **User subscription** &gt; **User resolution rules**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **User subscription** &gt; **User resolution rules**.
 
 2.  Select **New**.
 
@@ -87,6 +87,3 @@ If you find multiple records with the same email address but different User IDs 
 
 [Subscription exclusions for SaaS and SSO applications]()
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

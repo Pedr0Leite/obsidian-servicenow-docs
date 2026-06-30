@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Catalog, Service Catalog, Manage service capabi
 
 # Service Catalog security
 
-[[service-catalog|Service Catalog]] enables you to set the security for catalog with user criteria.
+Service Catalog enables you to set the security for catalog with user criteria.
 
 -   **[Set security for items and categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ServiceCatalogAccessControls.md)**  
 An administrator can control access to content in the service catalog by creating and applying user criteria records.
@@ -23,6 +23,3 @@ Service catalog supports several ways to control access to a catalog item or cat
 
 **Parent Topic:**[Configuring Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

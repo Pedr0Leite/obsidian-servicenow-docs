@@ -25,10 +25,7 @@ Configure and tweak forecast parameters to see how the forecast behaves when you
 -   **[Create a manual adjustment for a forecast](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-manual-adjustment-configurable-wfo-itsm.md)**  
 Adjust forecasts manually to fine-tune them for greater accuracy. Create the adjustment for a specified time period and analyze how it impacts your forecast.
 -   **[Demand Forecast components in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-demand-forecast-reference.md)**  
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] installs roles to administer ITSM Manager Workspace Demand Forecast, properties to configure default behavior, scheduled jobs to collect data for the configurations, tables to store data, forecast configurations to collect data for incidents and interactions and a retention policy to store metric data.
+Workforce Optimization for ITSM installs roles to administer ITSM Manager Workspace Demand Forecast, properties to configure default behavior, scheduled jobs to collect data for the configurations, tables to store data, forecast configurations to collect data for incidents and interactions and a retention policy to store metric data.
 
 **Parent Topic:**[Demand Forecast in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-demand-forecast-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -14,7 +14,7 @@ breadcrumb: [Localization Workspace reference, Localization Workspace, Translati
 
 # Localization Workspace Domain Separation
 
-Domain separation is unsupported for [[localization-workspace|Localization Workspace]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Localization Workspace. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -25,6 +25,3 @@ For more information on support levels, see [Application support for domain sepa
 
 **Parent Topic:**[Localization Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace-reference.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]

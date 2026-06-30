@@ -14,7 +14,7 @@ breadcrumb: [Now Mobile experience for Employee Center, Employee Center Integrat
 
 # Recommended for you in Now Mobile
 
-[[rfy-ec|Recommended for you]] section is available on [[mobile-employee-experience|Now Mobile app]], providing quick access to the section through mobile bringing in more flexibility of usage for customers.
+Recommended for you section is available on Now Mobile app, providing quick access to the section through mobile bringing in more flexibility of usage for customers.
 
 View knowledge articles and catalog items recommended for you on the support tab of the Now Mobile app.
 
@@ -26,7 +26,7 @@ Also, there is a **Favorite** icon available to [add a card to your favorite lis
 
 The article or the catalog item opens in a Mobile Employee Service Portal \(MESP\) view when a user clicks any recommendation.
 
-If the customer is not using either the [[c_HRProfileRecords|HR profile]] plug-in or the [[emp-slate-employee-profile|Employee profile]] plug-in, the recommendations are provided based on the popularity of the content pulled from the M2M connected content. The recommendations, in that case, are dissimilar to the ones provided if the HR profile or Employee Profile plug-in is installed.
+If the customer is not using either the HR profile plug-in or the Employee profile plug-in, the recommendations are provided based on the popularity of the content pulled from the M2M connected content. The recommendations, in that case, are dissimilar to the ones provided if the HR profile or Employee Profile plug-in is installed.
 
 **Note:**
 
@@ -36,9 +36,3 @@ For more information on configuring Recommended for you, see [Recommended for yo
 
 **Parent Topic:**[Employee Center Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-ec.md)
 
-## Related
-
-- [[rfy-ec|Recommended for you]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-slate-employee-profile|Employee profile]]

@@ -22,7 +22,7 @@ Role required: sn\_wsd\_rsvsync.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]** &gt; **Synchronization**.
+1.  Navigate to **All** &gt; **Workplace Calendar Synchronization** &gt; **Synchronization**.
 
 2.  Select any of the following options to view the synchronization details:
 
@@ -30,6 +30,3 @@ Role required: sn\_wsd\_rsvsync.admin
     -   **Events**: Option to view events that are created by actions taken on a reservation.
     -   **Sync Deltas**: Option to view synchronization deltas of workplace items that are synchronized.
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

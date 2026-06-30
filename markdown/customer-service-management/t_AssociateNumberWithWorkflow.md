@@ -22,7 +22,7 @@ A number group allows you to group Notify phone numbers and then share workflows
 
 The CTI Softphone demo data includes these sample workflows:
 
--   Call Center, for use with the [[c_CustomerServiceManagement|Customer Service Management]] application
+-   Call Center, for use with the Customer Service Management application
 -   Call Center for Incident Management
 
 The Call Center workflow uses several Notify workflow activities that determine workflow functionality. Each activity performs a different task, such as playing a message greeting or creating a list of user input options. Activities can succeed or fail, which can result in actions performed by other activities.
@@ -51,6 +51,3 @@ Role required: admin
 
 [Configure Notify with\\n Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigureNotifyWithTwilio.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

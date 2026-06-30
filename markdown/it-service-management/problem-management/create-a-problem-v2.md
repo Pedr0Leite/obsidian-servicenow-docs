@@ -20,7 +20,7 @@ A problem is a cause of one or more incidents. Create a problem to identify the 
 
 Role required: itil, sn\_problem\_write, admin, problem\_admin, problem\_manager, or problem\_coordinator
 
-If you do not have [[c_ProblemManagement|Problem Management]] Best Practice — Madrid plugin \(com.snc.best\_practice.problem.madrid\) activated, see [Create a problem \(legacy\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem.md).
+If you do not have Problem Management Best Practice — Madrid plugin \(com.snc.best\_practice.problem.madrid\) activated, see [Create a problem \(legacy\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-problem.md).
 
 ## About this task
 
@@ -49,7 +49,7 @@ Navigate to **Problem** &gt; **Create New**.
 
 1.  Open the incident.
 2.  On the context menu, click **Create Problem**.
- **Note:** Use the property **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) to specify fields on the Incident form. The values of these fields are copied to the respective fields on the [[problem-form|Problem form]].
+ **Note:** Use the property **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) to specify fields on the Incident form. The values of these fields are copied to the respective fields on the Problem form.
 
 </td></tr></tbody>
 </table>2.  On the Problem form, fill in the fields.
@@ -65,7 +65,7 @@ Navigate to **Problem** &gt; **Create New**.
     When an incident is promoted as major incident, a problem record is created automatically if the following conditions are met:
 
     -   The incident does not have a problem record associated with it.
-    -   Major [[c_IncidentManagement|Incident Management]] is installed along with problem management.
+    -   Major Incident Management is installed along with problem management.
     -   The Problem Management Best Practice – Madrid plugin \(com.snc.best\_practice.problem.madrid\) and Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) must be active.
     -   You must activate **Create Problem from Major incident** flow, which is inactive when shipped in base system.
     To configure the incident field information which must be copied to problem record, activate the **List of Attributes \(comma-seperated\) that will be copied from the incident to create a new problem** \(com.snc.problem.create\_from\_incident.attributes\) property.
@@ -82,8 +82,3 @@ A problem is a cause of one or more incidents. Create a problem to identify the 
 
 **Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-lifecycle.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]
-- [[c_IncidentManagement|Incident Management]]

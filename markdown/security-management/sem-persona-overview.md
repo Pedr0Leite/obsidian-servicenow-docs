@@ -12,17 +12,17 @@ breadcrumb: [Implement, Unified Security Exposure Management, Security Operation
 
 # Security Exposure Management Workspace personas and granular roles
 
-Before you can successfully remediate [[vulnerabilities|vulnerabilities]] with the [[sem-workspace-user-interface|Security Exposure Management Workspace]] plugin, you must assign personas and roles to your users and groups in Setup Assistant.
+Before you can successfully remediate vulnerabilities with the Security Exposure Management Workspace plugin, you must assign personas and roles to your users and groups in Setup Assistant.
 
-One of the first configuration steps required for the Security Exposure Management Workspace plugin is to assign roles to users and groups. Roles define what users and groups can see and do in Security Exposure Management Workspace, Performance Analytics for [[vuln-landing-page|Vulnerability Response]], and all third party integrations with Security Exposure Management Workspace.
+One of the first configuration steps required for the Security Exposure Management Workspace plugin is to assign roles to users and groups. Roles define what users and groups can see and do in Security Exposure Management Workspace, Performance Analytics for Vulnerability Response, and all third party integrations with Security Exposure Management Workspace.
 
-You assign persona roles to existing users and groups in Setup Assistant. See [[sem-assign-personas_SA|Assign the Vulnerability Response persona roles using Setup Assistant]].
+You assign persona roles to existing users and groups in Setup Assistant. See [Assign the Vulnerability Response persona roles using Setup Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-assign-personas_SA.md).
 
 **Note:**
 
 If you are an upgrade customer, you can continue using your existing roles for the Vulnerability Response application. Access for users and groups assigned with the sn\_vul.vulnerability\_read and sn\_vul.vulnerability\_write permissions and remediation owner prior to v10.3 has not changed.
 
-However, for more control over what users and groups can do and see in the Security Exposure Management Workspace plugin at the task level, you may prefer using granular roles. For more information, see [[sem-manage-granular-roles|Manage persona and granular roles for Vulnerability Response]].
+However, for more control over what users and groups can do and see in the Security Exposure Management Workspace plugin at the task level, you may prefer using granular roles. For more information, see [Manage persona and granular roles for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-manage-granular-roles.md).
 
 If you have already assigned roles using Setup Assistant and you want to manage granular role assignments for all users and groups from the User Administration module, see [Manage persona and granular roles for Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-manage-granular-roles.md) for more information.
 
@@ -136,10 +136,3 @@ For an example of how to manage granular roles for a user or group, see [Manage 
 
 To assign persona roles, see [Assign the Vulnerability Response persona roles using Setup Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-assign-personas_SA.md).
 
-## Related
-
-- [[sem-assign-personas_SA|Assign the Vulnerability Response persona roles using Setup Assistant]]
-- [[sem-manage-granular-roles|Manage persona and granular roles for Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

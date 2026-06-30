@@ -28,7 +28,7 @@ If languages aren’t grouped, users can view all available languages as a full-
 
 \[Omitted image "lang-selector-widget-ungrouped.png"\] Alt text: Language selector widget with languages in an ascending order without region grouping.
 
-**Parent Topic:**[[c_CustomerServiceManagement|Customer Service Management]]
+**Parent Topic:**[Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceManagement.md)
 
 **Related topics**  
 
@@ -39,6 +39,3 @@ If languages aren’t grouped, users can view all available languages as a full-
 
 [Create regions for language selection in portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-regions.md)
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]

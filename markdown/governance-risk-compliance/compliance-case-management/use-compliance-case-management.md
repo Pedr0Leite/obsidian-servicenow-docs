@@ -14,7 +14,7 @@ breadcrumb: [Compliance Case Management, Governance, Risk, and Compliance]
 
 # Using Compliance Case Management
 
-Report compliance cases and manage the lifecycle of a case by using the GRC: [[compliance-case-management|Compliance Case Management]] application.
+Report compliance cases and manage the lifecycle of a case by using the GRC: Compliance Case Management application.
 
 ## Next Experience Discuss and Chat Collaboration
 
@@ -48,11 +48,7 @@ Compose and send an email for compliance cases and requests by using the GRC: Co
 -   **[Configure due dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/auto-calculate-future-dates.md)**  
 Set up a pre-defined rule to automate due date calculations. Rules are designed to run and becomes effective when a new record is reported into the application.
 -   **[Perform smart assessment on action tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/perform-smart-assessment-on-action-task.md)**  
-Use the **Tasks** page on the [[employee-center|Employee Center]] for a consolidated view of all your tasks, including all assessments, enabling you to access and complete them efficiently.
+Use the **Tasks** page on the Employee Center for a consolidated view of all your tasks, including all assessments, enabling you to access and complete them efficiently.
 
 **Parent Topic:**[Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[employee-center|employee center]]

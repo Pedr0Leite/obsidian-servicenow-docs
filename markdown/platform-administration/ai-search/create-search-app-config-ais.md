@@ -14,7 +14,7 @@ breadcrumb: [Search application configurations, Configuring AI Search, AI Search
 
 # Create a search application configuration for AI Search
 
-Create a search application configuration to specify [[ia-ai-search|AI Search]] as the search engine for a ServiceNow AI Platform® application. Select a search profile for the application to use. Configure the application's settings for refinement and display of search [[hs-results|results]].
+Create a search application configuration to specify AI Search as the search engine for a ServiceNow AI Platform® application. Select a search profile for the application to use. Configure the application's settings for refinement and display of search results.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: search\_application\_admin
 
 2.  Select **New**.
 
-3.  On the [[search-app-config-form-ais|Search Application Configuration form]], fill in the fields.
+3.  On the Search Application Configuration form, fill in the fields.
 
     For a description of the field values, see [Search Application Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-app-config-form-ais.md).
 
@@ -35,7 +35,7 @@ Role required: search\_application\_admin
 
 ## Result
 
-The new search application configuration record appears in the [[defining-search-app-cfgs-ais|Search Application Configurations]] list.
+The new search application configuration record appears in the Search Application Configurations list.
 
 ## What to do next
 
@@ -43,9 +43,3 @@ To use your new search application configuration, select it in the configuration
 
 **Parent Topic:**[Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-app-cfgs-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[search-app-config-form-ais|Search Application Configuration form]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]

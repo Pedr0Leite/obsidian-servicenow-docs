@@ -14,7 +14,7 @@ breadcrumb: [Dispute Rules Content Pack for Visa, Dispute Management, Banking ap
 
 # Exploring Dispute Rules Content Pack for Visa
 
-Learn how the [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]] application leverages questionnaire and mapping to ensure proper categorization and processing of disputes.
+Learn how the Dispute Rules Content Pack for Visa application leverages questionnaire and mapping to ensure proper categorization and processing of disputes.
 
 ## Overview of the application
 
@@ -36,6 +36,3 @@ Some of the key benefits of using Dispute Rules Content Pack for Visa are:
 -   Disputes are categorized for accurate processing.
 -   Chargeback eligibility is determined based on the Visa Core Rules.
 
-## Related
-
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]

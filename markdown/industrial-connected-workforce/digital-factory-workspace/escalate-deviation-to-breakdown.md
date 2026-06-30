@@ -22,7 +22,7 @@ Role required: sn\_icw.deviation\_user or sn\_icw.deviation\_expert
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]** &gt; **Select Lists view icon** \(\[Omitted image "icon-list-menu-icw.png"\] Alt text:\).
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace** &gt; **Select Lists view icon** \(\[Omitted image "icon-list-menu-icw.png"\] Alt text:\).
 
 2.  From the list of deviations, select the deviation task that you want to escalate to a breakdown.
 
@@ -37,6 +37,3 @@ The deviation has been escalated to a breakdown and is displayed in the breakdow
 
 **Parent Topic:**[Breakdown Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/breakdown-analysis.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

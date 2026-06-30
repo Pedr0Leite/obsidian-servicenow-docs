@@ -14,9 +14,9 @@ breadcrumb: [Service Graph Connectors for AI Control Tower, AI connections, Expl
 
 # AI Service Graph Connector for Microsoft
 
-The AI Service Graph Connector for Microsoft enables you to discover and import [[ai-assets|AI assets]] from Azure AI Foundry and Microsoft Copilot Studio environments into ServiceNow [[ai-control-tower-landing|AI Control Tower]].
+The AI Service Graph Connector for Microsoft enables you to discover and import AI assets from Azure AI Foundry and Microsoft Copilot Studio environments into ServiceNow AI Control Tower.
 
-The connector creates separate [[enterprise-ai-discovery|AI connections]] for each Microsoft platform, cataloging AI agents, models, and [[ai-prompts|prompts]]. The usage information is consumed by the AI Control Tower value dashboard, providing comprehensive visibility and governance of your AI operations.
+The connector creates separate AI connections for each Microsoft platform, cataloging AI agents, models, and prompts. The usage information is consumed by the AI Control Tower value dashboard, providing comprehensive visibility and governance of your AI operations.
 
 Key capabilities:
 
@@ -160,9 +160,3 @@ You can discover agents from multiple Copilot environments using a single connec
 -   Ensure the application user is configured in each environment with the required security roles
 -   Each environment will be tested and discovered separately during the import process
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[enterprise-ai-discovery|AI connections]]
-- [[ai-prompts|Prompts]]

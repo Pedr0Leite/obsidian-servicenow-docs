@@ -14,7 +14,7 @@ breadcrumb: [Configure, Industrial Workspace, Operational Technology]
 
 # Setting up the OT Network Map
 
-Set up the [[operational-technology-overview|Operational Technology]] \(OT\) Network Map so that you can access the map in the in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Set up the Operational Technology \(OT\) Network Map so that you can access the map in the in the Industrial Workspace.
 
 The following table lists the setup tasks for the OT Network Map. The admin role is required.
 
@@ -30,7 +30,3 @@ Set the **Max CI Nodes per Site \(sn\_ot\_core.node\_map.max\_ci\_nodes\_per\_si
 
 **Parent Topic:**[Configuring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configuring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

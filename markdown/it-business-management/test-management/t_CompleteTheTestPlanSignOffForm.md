@@ -22,7 +22,7 @@ Role required: tm\_test\_manager
 
 ## Procedure
 
-1.  Navigate to **Test Management &gt; Test Execution &gt; [[c_TestPlans|Test Plans]]**.
+1.  Navigate to **Test Management &gt; Test Execution &gt; Test Plans**.
 
 2.  Open the test plan that you want to sign off.
 
@@ -36,6 +36,4 @@ Role required: tm\_test\_manager
 
 7.  Click **Submit**.
 
-## Related
 
-- [[c_TestPlans|Test plans]]

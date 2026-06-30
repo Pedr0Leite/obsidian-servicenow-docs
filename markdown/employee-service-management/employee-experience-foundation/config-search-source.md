@@ -14,7 +14,7 @@ breadcrumb: [AI Search for Curated Experiences, Setup search experience, Configu
 
 # Configure search source when AI search is disabled
 
-In [[employee-center-landing-page|Employee Center]], the AI search is enabled by default. In situations where the AI search is disabled, you can configure a search source from which to fetch search results.
+In Employee Center, the AI search is enabled by default. In situations where the AI search is disabled, you can configure a search source from which to fetch search results.
 
 ## Before you begin
 
@@ -38,6 +38,4 @@ The search source configuration limits the search to the content associated with
 
 5.  Click **Submit**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

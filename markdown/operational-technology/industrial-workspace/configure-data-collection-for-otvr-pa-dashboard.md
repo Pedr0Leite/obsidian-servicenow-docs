@@ -14,7 +14,7 @@ breadcrumb: [Setting up the Operational Technology Vulnerability Response \(PA\)
 
 # Configure the data collection for the Operational Technology Vulnerability Response \(PA\) dashboard
 
-Configure the data collection for the data shown on the [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]. Scheduled jobs are automated pieces of work that can be performed at a specific time or on a recurring schedule.
+Configure the data collection for the data shown on the Operational Technology Vulnerability Response \(PA\) dashboard. Scheduled jobs are automated pieces of work that can be performed at a specific time or on a recurring schedule.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ Now, you can review the indicator sources and determine if you need to override 
 
 **Parent Topic:**[Setting up the Operational Technology Vulnerability Response \(PA\) dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-otvr-pa-dashboard.md)
 
-## Related
-
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]

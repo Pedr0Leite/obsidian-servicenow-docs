@@ -36,7 +36,7 @@ If you copy a profile, the profile name is initially modified to avoid duplicate
 
     \[Omitted image "splunk-copy-profile1.png"\] Alt text: Event Profiles list with Actions on selected rows highlighted.
 
-    The profile is copied and displayed on the list. The copy has all the settings of the original profile including the [[mapping-logrhythm|mapping]] and scheduling configuration. The name of the profile contains copy. Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the [[qradar-ibm-intg-settings|configuration settings]] apply to the new profile as required.
+    The profile is copied and displayed on the list. The copy has all the settings of the original profile including the mapping and scheduling configuration. The name of the profile contains copy. Although the original profile is enabled \(`true`\), the copy is disabled at this point \(`false`\). You may prefer to edit values of the copied profile and rename it so the configuration settings apply to the new profile as required.
 
     You have successfully copied the settings from an existing profile to a new profile.
 
@@ -47,7 +47,3 @@ You are prompted to activate \(enable\) the new profile after you complete the c
 
 **Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-integration-architecture.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

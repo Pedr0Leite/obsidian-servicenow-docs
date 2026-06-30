@@ -14,9 +14,9 @@ breadcrumb: [ITSM Virtual Agent, IT Service Management]
 
 # Using ITSM Virtual Agent pre-built topics
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] includes several pre-built topic conversations designed to help your users complete common IT-related tasks, such as resetting a password and creating an incident.
+ITSM Virtual Agent includes several pre-built topic conversations designed to help your users complete common IT-related tasks, such as resetting a password and creating an incident.
 
-Once installed, ITSM Virtual Agent pre-built topics are read only and have **\(Template\)** after the name. To use them, duplicate the topic in the ITSM Virtual Agent conversation scope and rename it according to your company's naming conventions. Natural Language Understanding \(NLU\) [[c_Models|models]] are used to identify and trigger the action that a user wants to perform.
+Once installed, ITSM Virtual Agent pre-built topics are read only and have **\(Template\)** after the name. To use them, duplicate the topic in the ITSM Virtual Agent conversation scope and rename it according to your company's naming conventions. Natural Language Understanding \(NLU\) models are used to identify and trigger the action that a user wants to perform.
 
 The ITSM Virtual Agent pre-built topic conversations are organized in several topic categories. Use the following table to find the topics that fit your needs.
 
@@ -62,7 +62,7 @@ Automate common IT-related issues, such as email setup, VPN connectivity, and co
 
 </td><td>
 
--   Collaboration [[dex-workspace-application-tab|Applications]]
+-   Collaboration Applications
 -   Email Issues
 -   Email Setup
 -   Guest WiFi Access
@@ -246,8 +246,3 @@ Reuse topic blocks to perform common functions in ITSM Virtual Agent conversatio
 
 **Parent Topic:**[ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[c_Models|Models]]
-- [[dex-workspace-application-tab|Applications]]

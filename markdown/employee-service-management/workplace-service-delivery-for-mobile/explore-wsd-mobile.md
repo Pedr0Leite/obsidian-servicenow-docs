@@ -14,11 +14,11 @@ breadcrumb: [Workplace Service Delivery for Mobile, Workplace Service Delivery, 
 
 # Exploring Workplace Service Delivery for Mobile
 
-Manage your workplace reservations using the ServiceNow [[mobile-employee-experience|Now Mobile app]].
+Manage your workplace reservations using the ServiceNow Now Mobile app.
 
-Install and configure the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] plugin on your ServiceNow instance. Install the application separately as it is not available within the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] suite.
+Install and configure the Workplace Service Delivery for Mobile plugin on your ServiceNow instance. Install the application separately as it is not available within the Workplace Service Delivery suite.
 
-Use the [[workplace-services|workplace services]] provided by your organization on your mobile directly. The Workplace Service Delivery for Mobile for Mobile application enables you to do the following:
+Use the workplace services provided by your organization on your mobile directly. The Workplace Service Delivery for Mobile for Mobile application enables you to do the following:
 
 -   Manage your workplace service requests at any time using your mobile device.
 -   Make single or multiple reservations for workplaces.
@@ -27,7 +27,7 @@ Use the [[workplace-services|workplace services]] provided by your organization 
 -   Scan the QR code and quickly reserve a space.
 -   Get directions to your workplace.
 -   Check in and check out your reservations.
--   Search for locations based on [[standard-service|standard services]] and reservable purposes.
+-   Search for locations based on standard services and reservable purposes.
 -   Review, edit, and cancel your reservations.
 -   Search for a campus, building, and a space using AI search.
 -   View meeting notes added to a reservation, if applicable.
@@ -36,10 +36,3 @@ Use the [[workplace-services|workplace services]] provided by your organization 
 
 **Parent Topic:**[Workplace Service Delivery for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/wsd-mobile-overview.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-services|Workplace Services]]
-- [[standard-service|Standard services]]

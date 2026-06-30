@@ -14,7 +14,7 @@ breadcrumb: [Integration Commons for CMDB, Integrating third-party data into CMD
 
 # Partition size computation for parallel loading in Integration Commons for CMDB
 
-[[integration-commons-for-cmdb|Integration Commons for CMDB]] supports computed partition size for the parallel loading framework, if supported in a Service Graph Connector.
+Integration Commons for CMDB supports computed partition size for the parallel loading framework, if supported in a Service Graph Connector.
 
 The parallel loading feature of ServiceNow AI Platform, executes data load using multiple threads. The partition size for a data source is computed by the Integration Commons for CMDB application used by the parallel loading feature. This partition size confirms that the workload is evenly distributed among the available threads. By balancing the data load, a data source within a Service Graph Connector can manage data loading uniformly across the available nodes, reducing processing time and improving overall efficiency. This approach promotes efficient data loading, minimizes latency, and optimizes the performance of data sources.
 
@@ -52,6 +52,3 @@ In the earlier example, where the total data volume is `1000` units and the part
 Number of parallel jobs = 1000/25 = 40
 ```
 
-## Related
-
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]

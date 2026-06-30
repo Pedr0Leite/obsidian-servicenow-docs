@@ -14,7 +14,7 @@ breadcrumb: [Integration with Thomson Reuters Regulatory Intelligence \(TRRI\), 
 
 # Establish an SFTP or REST API connection
 
-Establish an SFTP or REST API connection for the [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]] application. You can create an SFTP or REST API connection with the SFTP server by using the Connection &amp; Credential aliases that are shipped with the Thomson Reuters platform.
+Establish an SFTP or REST API connection for the GRC integration with Thomson Reuters Regulatory Intelligence application. You can create an SFTP or REST API connection with the SFTP server by using the Connection &amp; Credential aliases that are shipped with the Thomson Reuters platform.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Thomson Reuters deposits the regulatory feed files at the SFTP location that is 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **Thomson Reuters** &gt; **Connection &amp; Credential Aliases**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **Thomson Reuters** &gt; **Connection &amp; Credential Aliases**.
 
     The following two Connection &amp; Credential aliases are shipped with the Thomson Reuters platform:
 
@@ -75,7 +75,3 @@ When a new connection is established, a file connection information record is cr
 
 **Parent Topic:**[GRC integration with Thomson Reuters Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-trri-integration.md)
 
-## Related
-
-- [[grc-trri-integration|GRC integration with Thomson Reuters Regulatory Intelligence]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

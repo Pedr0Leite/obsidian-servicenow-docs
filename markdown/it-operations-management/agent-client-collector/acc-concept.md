@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # Agent Client Collector architecture
 
-The [[acc-landing-page|Agent Client Collector]] is a ServiceNow agent installed on your Windows, Linux, and macOS devices to monitor your company’s infrastructure and installed applications.
+The Agent Client Collector is a ServiceNow agent installed on your Windows, Linux, and macOS devices to monitor your company’s infrastructure and installed applications.
 
 ## Agent Client Collector architecture - overview
 
@@ -39,7 +39,7 @@ The results from the checks are stored in the ServiceNow instance:
 -   CI data: CMDB for Configuration Items.
 -   Event data: Events table \(for example, alerts triggered by threshold breaches\).
 
-This data can be leveraged for monitoring, alerting, and reporting. Integration ensures real-time visibility into the health of your infrastructure and applications, while also enabling proactive issue detection and [[ccg-remediation|remediation]].
+This data can be leveraged for monitoring, alerting, and reporting. Integration ensures real-time visibility into the health of your infrastructure and applications, while also enabling proactive issue detection and remediation.
 
 \[Omitted image "ACC-Configuration-Flow-New.png"\] Alt text: Agent client collector configuration flow
 
@@ -52,7 +52,3 @@ The commands and their configurations that run on the Agent are called **checks*
 
 A **policy** is a combination of the CIs being monitored by the Agent Client Collector and the checks that run on those CIs. You associate check definitions with policies. Those check definitions are then referred to as **check instances**. You can customize check instances to meet your needs. For example, customize the running interval or the parameters specific to the policy, such as the login credentials to access a MySQL database. Customization of a check instance takes effect only on the check instance associated with the policy, which does not affect the original check definition or already created check instances in other policies.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[ccg-remediation|Remediation]]

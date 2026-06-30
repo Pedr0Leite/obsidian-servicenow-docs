@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Add or modify an HR profile
 
-Employees can directly edit some information in their [[c_HRProfileRecords|HR profile]], such as emergency contact information, but they are restricted from editing certain fields. If employees want to change information that they are restricted from editing, they must submit a general request to HR for the changes.
+Employees can directly edit some information in their HR profile, such as emergency contact information, but they are restricted from editing certain fields. If employees want to change information that they are restricted from editing, they must submit a general request to HR for the changes.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.secure\_info\_writer, sn\_hr\_core.basic, or sn\_hr\
 
 The HR Administrator \[sn\_hr\_core.admin\] can configure which HR profile fields an employee can update. An update to information that the employee cannot change requires an HR employee information change request.
 
-**Note:** Use the configurable allow list to add fields that users can modify themselves. This allow list is a system property and accessed by going to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Properties**. The list of user editable fields appears as comma separated list. The property name is **sn\_hr\_core.hr\_profile\_editable\_fields**.
+**Note:** Use the configurable allow list to add fields that users can modify themselves. This allow list is a system property and accessed by going to **All** &gt; **HR Administration** &gt; **Properties**. The list of user editable fields appears as comma separated list. The property name is **sn\_hr\_core.hr\_profile\_editable\_fields**.
 
 To update the HR profile when an employee information change request is assigned to you, complete the following steps.
 
@@ -184,7 +184,7 @@ Ready to return to workplace
 
 </td><td>
 
-Identifies if the employee is ready to return to work. Works with Enterprise Employee Experience Packs for employees working from home during a health crisis.Select **Yes** and the employee is included in campaigns and [[hr-lifecycle-events-landing-page-1|lifecycle events]] related to returning to work.
+Identifies if the employee is ready to return to work. Works with Enterprise Employee Experience Packs for employees working from home during a health crisis.Select **Yes** and the employee is included in campaigns and lifecycle events related to returning to work.
 
  Select **I'm not sure** and the employee is included in some of the lifecycle events related to returning to work. An HR task triggers for HR to review the employee's concerns.
 
@@ -377,11 +377,11 @@ Create new case
 
 </td><td>
 
-Click to [[search-hr-case|create an HR case]] for the HR profile displayed.
+Click to create an HR case for the HR profile displayed.
 
 </td></tr><tr><td>
 
-Show [[emp-slate-orgchart|employee org chart]]
+Show employee org chart
 
 </td><td>
 
@@ -409,7 +409,7 @@ A list of beneficiaries associated with the employee. Click **New** to create a 
 
 </td></tr><tr><td>
 
-[[t_WhosCovered|Who is covered]]
+Who is covered
 
 </td><td>
 
@@ -479,11 +479,3 @@ Lists the labor union information associated with the employee. Select **New** t
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[search-hr-case|Create an HR case]]
-- [[emp-slate-orgchart|Employee Org chart]]
-- [[t_WhosCovered|Who is covered]]

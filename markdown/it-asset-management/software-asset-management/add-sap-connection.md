@@ -265,7 +265,7 @@ Controls the data pull from SAP for user transaction activity data.
 
 ## Result
 
-You can start creating [[c_CreatingSoftwareModels|software models]] and entitlements.
+You can start creating software models and entitlements.
 
 **Parent Topic:**[Software Asset Management publisher pack for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-publisher-pack.md)
 
@@ -298,11 +298,7 @@ You can start creating [[c_CreatingSoftwareModels|software models]] and entitlem
 
 [Self-declaring SAP engine license usage]()
 
-[Software Publisher Analytics dashboard for SAP in [[c_SoftwareAssetMgmt|Software Asset Management]] classic]()
+[Software Publisher Analytics dashboard for SAP in Software Asset Management classic]()
 
 [Publisher overview for SAP in the Software Asset Workspace]()
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

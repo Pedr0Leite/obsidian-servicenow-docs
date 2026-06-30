@@ -16,7 +16,7 @@ If a time series visualization is configured to show forecasts, you can configur
 
 ## Before you begin
 
-This procedure assumes you have created a [[create-dv-time-series-ac|time series visualization]] for a non-table data source and you want to configure forecasting for that visualization.
+This procedure assumes you have created a [time series visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md) for a non-table data source and you want to configure forecasting for that visualization.
 
 **Note:** Support is not provided for the Hour of day or Day of week aggregations on table data.
 
@@ -221,6 +221,3 @@ Forecast periods have a default length that depends on the frequency of the data
 |---------------|--------------------------------|-------------------|
 |Minutely|100|Dynamic, controlled by data source depending on query|
 
-## Related
-
-- [[create-dv-time-series-ac|Create time series data visualizations]]

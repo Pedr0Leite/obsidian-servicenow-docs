@@ -25,17 +25,13 @@ Before you get started with Performance Analytics, understand how the data flows
     Example: A collection job counts the number of incidents in the Incident table daily. After one month, a trend containing about 30 data points can be viewed.
 
 3.  Data snapshots and scores are stored in Performance Analytics data tables. These tables are the source of all Performance Analytics visualizations.
-4.  [[widgets|Widgets]] present indicator scores in a specific format, such as a trend line or a bar chart.
+4.  Widgets present indicator scores in a specific format, such as a trend line or a bar chart.
 
     Example: The Number of new incidents is an indicator you may want to track. This indicator can be visualized as a single score or a trend of daily readings over time by configuring the appropriate widget.
 
-5.  Multiple [[c_Widgets|Performance Analytics widgets]] are presented in a single Dashboard view, allowing stakeholders to view all relevant business process information in a single place.
+5.  Multiple Performance Analytics widgets are presented in a single Dashboard view, allowing stakeholders to view all relevant business process information in a single place.
 
 \[Omitted image "pa-data-flow.png"\] Alt text: Diagram showing the flow of data in Performance Analytics, from generation to consumption
 
 **Parent Topic:**[Implement Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/implementing-pa.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_Widgets|Performance Analytics widgets]]

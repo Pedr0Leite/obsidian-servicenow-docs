@@ -18,7 +18,7 @@ SLAs determine when work on a work order or work order task should be complete. 
 
 ## Configuration overview
 
-The steps for [[setting-up-work-orders-and-tasks|setting up work orders and tasks]] are:
+The steps for setting up work orders and tasks are:
 
 1.  [Manage a work order SLA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_ManageAWorkOrderSLA.md)
 
@@ -40,6 +40,4 @@ The steps for [[setting-up-work-orders-and-tasks|setting up work orders and task
 
     Remove an SLA from a work order but leave it available for use with other work orders.
 
-## Related
 
-- [[setting-up-work-orders-and-tasks|Setting up work orders and tasks]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Time configuration, Configure core features, Administer the Se
 
 # Change a time zone in a scheduled report
 
-By default, scheduled reports use the time zone of the user who runs them \(the user in the **Run As** field\) to evaluate the query [[r_DirectJDBCProbeParameters|parameters]]. You are able to change this time zone.
+By default, scheduled reports use the time zone of the user who runs them \(the user in the **Run As** field\) to evaluate the query parameters. You are able to change this time zone.
 
 ## About this task
 
@@ -28,7 +28,7 @@ For example, a report on 'incidents open today' resolves 'today' based on the us
 
 3.  Add Run as fields to the layout.
 
-    1.  Configure the form layout to add the **Run as tz** field to the **Scheduled Report** form. See [[configure-form-layout|Configuring the form layout]] for instructions.
+    1.  Configure the form layout to add the **Run as tz** field to the **Scheduled Report** form. See [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md) for instructions.
 
         The Run as tz field lets you choose either a the time zone of the user who configured the schedule, or a specific time zone.
 
@@ -45,7 +45,3 @@ For example, a report on 'incidents open today' resolves 'today' based on the us
 
 **Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/using-time-configuration.md)
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

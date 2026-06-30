@@ -18,9 +18,9 @@ Integrate a request for specific CI attributes when manually creating a new CI i
 
 ## About this task
 
-Creating a new CI is an experience in [[sg-workspace|Service Graph Workspace]] which you might be integrating into another workspace. Within Service Graph Workspace, there are default settings for some of the behaviors of the create CI experience. However, you can use configuration identifiers to customize some of those default settings for Service Graph Workspace or other workspaces. For example, you can customize the list of attributes that is [[requested-for|requested for]] the new CI.
+Creating a new CI is an experience in Service Graph Workspace which you might be integrating into another workspace. Within Service Graph Workspace, there are default settings for some of the behaviors of the create CI experience. However, you can use configuration identifiers to customize some of those default settings for Service Graph Workspace or other workspaces. For example, you can customize the list of attributes that is requested for the new CI.
 
-Requests for additional attributes for new CIs are stored in the CI additional attributes config \[sn\_cmdb\_ws\_ci\_additional\_attributes\] table which is part of the [[cnfg-identifiers-framework-sg|configuration identifiers framework]]. Therefore, to manage requests for additional attributes in your workspace, you must use config identifiers. By default, the CI additional attributes config table contains a single entry for Service Graph Workspace, that applies to the entire CMDB hierarchy. Any workspace or class without a direct config identifier for additional attributes, uses the default entry.
+Requests for additional attributes for new CIs are stored in the CI additional attributes config \[sn\_cmdb\_ws\_ci\_additional\_attributes\] table which is part of the configuration identifiers framework. Therefore, to manage requests for additional attributes in your workspace, you must use config identifiers. By default, the CI additional attributes config table contains a single entry for Service Graph Workspace, that applies to the entire CMDB hierarchy. Any workspace or class without a direct config identifier for additional attributes, uses the default entry.
 
 For more information:
 
@@ -103,8 +103,3 @@ Pre-set to 'Create CI'.
 
 When manually creating a new CI for the specified **CI class** in the respective workspace, users are requested to enter values for the specified **Additional attributes** on the Additional attributes page.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[requested-for|Requested for]]
-- [[cnfg-identifiers-framework-sg|Configuration identifiers framework]]

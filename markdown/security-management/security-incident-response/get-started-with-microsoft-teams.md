@@ -42,7 +42,7 @@ Microsoft Teams Chat Connector for Security Incident Management
 
 </td><td>
 
-Use **sn\_ms\_teams\_connector** plugin ID to search and install Microsoft Teams Chat Connector for [[major-security-incident-management-landing-page|Major Security Incident Management]].
+Use **sn\_ms\_teams\_connector** plugin ID to search and install Microsoft Teams Chat Connector for Major Security Incident Management.
 
 Installing this plugin allows you to track the chat activities using the collaboration component specific to Microsoft Teams.
 
@@ -57,6 +57,3 @@ Installing this plugin establishes a Graph spoke connection with Microsoft Teams
 </td></tr></tbody>
 </table>**Parent Topic:**[Configure Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/chat-channel-provider-config.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

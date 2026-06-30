@@ -133,13 +133,9 @@ Default values that pre-populate the fields of a legal matter form that is creat
 
 
 -   **[Create a phase template for a matter template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-phase-template-for-matter-template.md)**  
-[[create-phase-template-for-matter-template|Create a phase template for a matter template]] for resolving the matter in an organized way. When you apply a legal matter template while creating a matter, the associated phases from the template are added by default to the matter.
+Create a phase template for a matter template for resolving the matter in an organized way. When you apply a legal matter template while creating a matter, the associated phases from the template are added by default to the matter.
 -   **[Create a task template within a phase template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/create-task-template-for-matter-phase-template.md)**  
-[[create-task-template-for-matter-phase-template|Create a task template within a phase template]] of a legal matter template. When you apply a legal matter template while creating a matter, the associated phases and tasks from the template are added by default to the matter.
+Create a task template within a phase template of a legal matter template. When you apply a legal matter template while creating a matter, the associated phases and tasks from the template are added by default to the matter.
 
 **Parent Topic:**[Legal matter templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-administration.md)
 
-## Related
-
-- [[create-phase-template-for-matter-template|Create a phase template for a matter template]]
-- [[create-task-template-for-matter-phase-template|Create a task template within a phase template]]

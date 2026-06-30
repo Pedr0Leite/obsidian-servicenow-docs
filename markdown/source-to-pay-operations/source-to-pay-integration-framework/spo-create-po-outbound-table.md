@@ -78,7 +78,7 @@ String
 
 </td><td>
 
-Unique identifier for each catalog of the [[purchase-order-table|purchase order]].
+Unique identifier for each catalog of the purchase order.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Unique number generated within the ERP system for the purchase order.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -126,11 +126,11 @@ String
 
 </td><td>
 
-Current status of the [[purchase-order-integration-2|purchase order integration]].
+Current status of the purchase order integration.
 
 </td></tr><tr><td>
 
-[[legal-entity|Legal entity]]
+Legal entity
 
 </td><td>
 
@@ -262,7 +262,7 @@ The organization making the purchase order.
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] company name
+Supplier company name
 
 </td><td>
 
@@ -286,11 +286,3 @@ Supplier ID for which the purchase order is generated.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[erp-source|ERP source]]
-- [[purchase-order-integration-2|Purchase order integration]]
-- [[legal-entity|Legal entity]]
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Enable SSL in LDAP authentication \[Updated in Security Center 1.5 and 2.0\]
 
-Manage the [[encryption-landing|encryption]] of LDAP [[c_Authentication|authentication]] requests on your instance.
+Manage the encryption of LDAP authentication requests on your instance.
 
 Use the **glide.ldap.use.ssl** property to enable or disable TLS encryption for LDAP authentication requests sent over the network. If this property is not set to the recommended value of **true**, LDAP authentication is susceptible to a man-in-the-middle attack.
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

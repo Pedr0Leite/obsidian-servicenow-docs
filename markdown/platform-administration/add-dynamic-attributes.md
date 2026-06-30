@@ -18,14 +18,14 @@ Define one or more dynamic attributes that describe a record.
 
 You can define each of the dynamic attributes that describe your records in a dynamic namespace that's associated with a dynamic attribute store field. You can create a dynamic namespace the following ways:
 
--   [[create-dynamic-attribute-store-field-transient|Create a dynamic attribute store field]]. When you create a dynamic attribute store field, a dynamic namespace is automatically created and associated with the store field. See [[create-dynamic-attribute-store-field|Create a dynamic attribute store field]].
--   Create a dynamic namespace manually. See [[create-dynamic-namespace|Create a dynamic namespace]].
+-   Create a dynamic attribute store field. When you create a dynamic attribute store field, a dynamic namespace is automatically created and associated with the store field. See [Create a dynamic attribute store field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-attribute-store-field.md).
+-   Create a dynamic namespace manually. See [Create a dynamic namespace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-namespace.md).
 
 Role required: dynamic\_schema\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Namespaces**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Namespaces**.
 
 2.  Select the dynamic namespace that you want to update.
 
@@ -72,7 +72,7 @@ Type
 </td><td>
 
 Data type of the attribute.-   To define the attribute using a choice set, select String.
--   To define the attribute as a [[reference-email-admin|reference]] to a record in another table, select Reference.
+-   To define the attribute as a reference to a record in another table, select Reference.
 
 Defining the attribute as a reference maintains accuracy by automatically reflecting changes from the linked record. This simplifies maintenance when related information changes. For example, a Covered Vehicle attribute in a policy record can reference a vehicle in the Vehicle table so updates to vehicle details appear in the policy without manual edits.
 
@@ -82,7 +82,7 @@ Choice Set
 
 </td><td>
 
-Fixed set of values defined in a choice set. For example, if you created a choice set for Colors with choices for red, green, and blue, you can select the Colors choice set to limit the attribute's values to the color choices defined in the choice set. See [[create-choice-set|Create a dynamic choice set]].
+Fixed set of values defined in a choice set. For example, if you created a choice set for Colors with choices for red, green, and blue, you can select the Colors choice set to limit the attribute's values to the color choices defined in the choice set. See [Create a dynamic choice set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-choice-set.md).
 
  This option only appears when you select String in the **Type** field.
 
@@ -114,11 +114,3 @@ Option to activate the dynamic attribute.
 
 Add more dynamic attributes to the dynamic namespace as needed. For example, when defining metadata for products in the Electronics category, you might add dynamic attributes that describe screen size, screen type, and watts.
 
-## Related
-
-- [[create-dynamic-attribute-store-field|Create a dynamic attribute store field]]
-- [[create-dynamic-namespace|Create a dynamic namespace]]
-- [[create-choice-set|Create a dynamic choice set]]
-- [[create-dynamic-attribute-store-field-transient|Create a dynamic attribute store field]]
-- [[dynamic-schema|Dynamic Schema]]
-- [[reference-email-admin|Reference]]

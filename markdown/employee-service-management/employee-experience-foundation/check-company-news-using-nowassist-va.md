@@ -14,7 +14,7 @@ breadcrumb: [Use, Now Assist for Employee Experience, Unified Employee Experienc
 
 # Check company news and events
 
-Stay connected and informed on company updates, events, announcements, and more with the help of the AI Agent in the [[employee-center-landing-page|Employee Center]] Now Assist in Virtual Agent.
+Stay connected and informed on company updates, events, announcements, and more with the help of the AI Agent in the Employee Center Now Assist in Virtual Agent.
 
 ## About this task
 
@@ -41,7 +41,7 @@ Role required: none
 3.  Enter your query.
 
     -   To check the latest news or know about any particular news, enter your query like `What's the latest news`, `show me the company news`, `show me news on 401k`, `` or anything.
-    -   To check about upcoming events or any specific event, enter your query like `Are there any events`, `show me the events happening in New York this month`, `show me all the [[ec-company-events|company events]]` or anything.
+    -   To check about upcoming events or any specific event, enter your query like `Are there any events`, `show me the events happening in New York this month`, `show me all the company events` or anything.
     \[Omitted image "uex-aiagent-event.png"\] Alt text: Checking company events in Now Assist\[Omitted image "uex-aiagent-eventtopic.png"\] Alt text: Checking more details about a specify event in Now Assist.\[Omitted image "uex-aiagent-steps.png"\] Alt text: Latest news and events in Now Assist.
 
 4.  Search for a specific event to get more details.
@@ -62,7 +62,3 @@ Role required: none
 
 [Manage approvals with Now Assist Approval Assistance AI agent]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[ec-company-events|Company events]]

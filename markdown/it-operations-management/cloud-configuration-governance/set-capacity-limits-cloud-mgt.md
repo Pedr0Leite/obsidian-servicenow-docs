@@ -18,8 +18,8 @@ Capacity limits place restrictions on the attributes of cloud resources such as 
 
 ## Before you begin
 
--   A cloud account must exist with service accounts and associated datacenters. You must run on-demand [[r-discovery|Discovery]] to discover datacenters before you can schedule Discovery.
--   Use the [[cow-landing-page|Cloud Discovery Workspace]], and at least version 1.15 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow Store.
+-   A cloud account must exist with service accounts and associated datacenters. You must run on-demand Discovery to discover datacenters before you can schedule Discovery.
+-   Use the Cloud Discovery Workspace, and at least version 1.15 of Discovery and Service Mapping Patterns from the ServiceNow Store.
 
 Role required: sn\_cmp.cloud\_admin
 
@@ -29,7 +29,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Manage** &gt; **[[cloud-accounts|Cloud Accounts]]**.
+1.  Navigate to **All** &gt; **Cloud Admin Portal** &gt; **Manage** &gt; **Cloud Accounts**.
 
 2.  Click a cloud account, and then, on the **Datacenters** tab, select a datacenter.
 
@@ -57,10 +57,3 @@ Click **Discover Now** to run Discovery on the logical datacenters.
 
 **Parent Topic:**[Additional Cloud Provisioning and Governance setup on day 2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-mgt-general-setup-day-2.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-accounts|Cloud accounts]]

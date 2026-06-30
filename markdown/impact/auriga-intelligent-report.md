@@ -12,7 +12,7 @@ breadcrumb: [Overview of Instance Observer metrics, Instance Observer reference,
 
 # Auriga Intelligent Alert report
 
-Auriga Intelligent Alert is an advanced multivariate machine learning \(ML\) model that learns from historical issues on your instance to provide real-time insight. Auriga monitors your [[instance-observer-performance|performance]] metrics to deliver notifications of noteworthy events or deviations from anticipated data patterns.
+Auriga Intelligent Alert is an advanced multivariate machine learning \(ML\) model that learns from historical issues on your instance to provide real-time insight. Auriga monitors your performance metrics to deliver notifications of noteworthy events or deviations from anticipated data patterns.
 
 -   **Alert time**
 
@@ -42,7 +42,7 @@ Auriga Intelligent Alert is an advanced multivariate machine learning \(ML\) mod
     1.  From the time the alert is generated, retrieve the anomaly data for server response time with a 10-minute rollup.
     2.  If an anomaly is detected within the past hour, categorize the system as unstable; otherwise, categorize it as stable.
 
-**Parent Topic:**[[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
+**Parent Topic:**[Overview of Instance Observer metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-ovr-metric.md)
 
 **Related topics**  
 
@@ -51,7 +51,7 @@ Auriga Intelligent Alert is an advanced multivariate machine learning \(ML\) mod
 
 [Anomaly insights]()
 
-[Feature [[io-availability|availability]] based on package]()
+[Feature availability based on package]()
 
 [Transaction or response metrics]()
 
@@ -87,8 +87,3 @@ Auriga Intelligent Alert is an advanced multivariate machine learning \(ML\) mod
 
 [Instance Data Replication]()
 
-## Related
-
-- [[instance-observer-ovr-metric|Overview of Instance Observer metrics]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

@@ -96,7 +96,7 @@ Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\]
 
 </td><td>
 
-Defines the configuration for [[claim-incidents|claim incidents]] that can be created as part of the [[insurance-claims-flow|Insurance claims]] application. Use this table to define the following:-   Name and short description of the claim incident
+Defines the configuration for claim incidents that can be created as part of the Insurance claims application. Use this table to define the following:-   Name and short description of the claim incident
 -   Claim incident table name
 -   The icon that is shown
 -   Adjuster task service definition
@@ -133,10 +133,5 @@ Trip Incident \[sn\_ins\_claim\_trip\]
 Stores information about a trip loss incident, such as a description of the incident, reservation numbers, and other supporting questions.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[insurance-claims-core-data-model|Insurance Claims Core]]
+</table>**Parent Topic:**[Insurance Claims Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-data-model.md)
 
-## Related
-
-- [[insurance-claims-core-data-model|Insurance Claims Core]]
-- [[claim-incidents|Claim incidents]]
-- [[insurance-claims-flow|Insurance claims]]

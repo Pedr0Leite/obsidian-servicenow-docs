@@ -14,7 +14,7 @@ breadcrumb: [User criteria for Service Portal, Managing portal access, Configuri
 
 # Activate the user criteria for Service Portal plugin
 
-You can activate the [[c_ServicePortal|Service Portal]] User Criteria Support plugin \(com.glide.service-portal.user-criteria\) if you have the admin role.
+You can activate the Service Portal User Criteria Support plugin \(com.glide.service-portal.user-criteria\) if you have the admin role.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: admin
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

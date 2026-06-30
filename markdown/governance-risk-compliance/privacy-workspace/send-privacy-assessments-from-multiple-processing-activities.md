@@ -14,7 +14,7 @@ breadcrumb: [Types of privacy assessments, Use, Privacy Management, Governance, 
 
 # Send privacy assessments from multiple processing activities
 
-Send multiple privacy assessments from multiple [[ropa-record|processing activities]]. This capability enables you to filter the processing activities by business units, locations, data subjects, and data types.
+Send multiple privacy assessments from multiple processing activities. This capability enables you to filter the processing activities by business units, locations, data subjects, and data types.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Processing activities** &gt; **All processing activities**.
 
 2.  Select the processing activities from which you want to send assessments.
 
@@ -39,7 +39,3 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 **Parent Topic:**[Types of privacy assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-assessments.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]
-- [[privacy-management|privacy management]]

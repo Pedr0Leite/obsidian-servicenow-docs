@@ -12,7 +12,7 @@ breadcrumb: [Create task and assessment-type action items, Creating action items
 
 # Create New Action item form for crisis events
 
-Use the [[create-new-action-item-form|Create New Action item form]] in the [[bcm-workspace|BCM Configurable Workspace]] to add action items about a crisis event.
+Use the Create New Action item form in the BCM Configurable Workspace to add action items about a crisis event.
 
 ## Create New Action item form
 
@@ -77,7 +77,7 @@ Assessment template
 
 </td><td>
 
-Template based on the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+Template based on the Smart Assessment Engine.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -144,11 +144,5 @@ Due date
 Due date for the action item.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-action-items-based-on-smart-assessments|Create task and assessment-type action items]]
+</table>**Parent Topic:**[Create task and assessment-type action items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-action-items-based-on-smart-assessments.md)
 
-## Related
-
-- [[create-action-items-based-on-smart-assessments|Create task and assessment-type action items]]
-- [[create-new-action-item-form|create new action item form]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

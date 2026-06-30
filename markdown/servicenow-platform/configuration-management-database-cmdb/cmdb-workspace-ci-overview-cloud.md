@@ -14,7 +14,7 @@ breadcrumb: [Home view in CMDB Workspace, Explore, CMDB Workspace, Configuration
 
 # Cloud vs Non-cloud resources chart
 
-The Cloud vs Non-cloud resources chart appears on the [[cmdb-workspace-home-view|Home view in CMDB Workspace]].
+The Cloud vs Non-cloud resources chart appears on the Home view in CMDB Workspace.
 
 Charts showing counts and details for resources that are hosted on various cloud services versus those resources that aren't, with breakdown by key CI classes such as applications, databases, and datacenters. Resources can be deployed on cloud services such as the Microsoft Azure Cloud, or on the local instance or other non-cloud solutions. For some ongoing operations in the organization, it might be necessary to have those details that can be difficult to obtain.
 
@@ -71,6 +71,3 @@ A scheduled job that can't complete for 3 \(default\) consecutive days is automa
 
 **Parent Topic:**[Home view in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-home-view.md)
 
-## Related
-
-- [[cmdb-workspace-home-view|Home view in CMDB Workspace]]

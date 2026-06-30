@@ -28,7 +28,7 @@ Role required: sales\_agent
 
 4.  Select **New** to start a new lead line item or select an existing lead line item to make changes.
 
-5.  Fill in the [[fields|fields]] in the Lead Line Item form.
+5.  Fill in the fields in the Lead Line Item form.
 
     |Field|Description|
     |-----|-----------|
@@ -45,21 +45,14 @@ Role required: sales\_agent
 
 ## What to do next
 
-[[lead-management-use-tasks-tab|Add lead tasks]].
+[Add lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md).
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[lead-management-use-tasks-tab|Add lead tasks]]
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]
-- [[fields|Fields]]

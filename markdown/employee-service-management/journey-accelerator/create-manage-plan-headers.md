@@ -22,7 +22,7 @@ Role required: sn\_ja.admin
 
 ## About this task
 
-[[journey-accelerator-1|Journey Accelerator]] plans use three different roles:
+Journey Accelerator plans use three different roles:
 
 -   Manager
 -   Employee
@@ -58,6 +58,3 @@ You can customize the plan header for each role. Customizations include role-bas
 
 [Create and manage Journey Accelerator plan types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-manage-ja-plans.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

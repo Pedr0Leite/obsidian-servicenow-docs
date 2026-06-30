@@ -16,7 +16,7 @@ breadcrumb: [Monitoring the progress of testing, Test Management 1.0, Test Manag
 
 View test plan reports on the Test Management dashboard.
 
-From each report on the Test Management dashboard, you can select an individual test plan or all active [[c_TestPlans|test plans]] for an overview of all testing.
+From each report on the Test Management dashboard, you can select an individual test plan or all active test plans for an overview of all testing.
 
 To access the dashboard, navigate to **Test Management** &gt; **Overview**. Then select a test plan that you want to analyze the progress of, from the **Select a Test Plan** field in the reports. The data in the report updates automatically.
 
@@ -60,7 +60,7 @@ Bar\[Omitted image "inline-data-vis-bar-vertical.png"\] Alt text:
 
 </td><td>
 
-This report employs the tagging feature, which you can use to assign tags to [[c_TestCases|test cases]]. Then use this report to display the test case distribution based on the assigned tags. For each tag, the different colors represent the execution status: -   Passed
+This report employs the tagging feature, which you can use to assign tags to test cases. Then use this report to display the test case distribution based on the assigned tags. For each tag, the different colors represent the execution status: -   Passed
 -   Failed
 -   Blocked
 -   In progress
@@ -95,8 +95,3 @@ Number of test cases pending for each assigned tester.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]

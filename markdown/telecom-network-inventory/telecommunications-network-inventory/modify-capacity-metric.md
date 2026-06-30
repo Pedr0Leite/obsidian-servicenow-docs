@@ -14,11 +14,11 @@ breadcrumb: [Capacity management, Configure, Telecommunications Network Inventor
 
 # View a capacity metric
 
-View a capacity metric record in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use the capacity metric to get the consolidated information of the capacity calculations.
+View a capacity metric record in the Telecommunications Network Inventory application. You can use the capacity metric to get the consolidated information of the capacity calculations.
 
 ## Before you begin
 
--   Make sure that the [[capacity-management-reporting|Capacity Management]] plugin is installed with the Telecommunications Network Inventory application.
+-   Make sure that the Capacity Management plugin is installed with the Telecommunications Network Inventory application.
 -   You run the capacity function or definition records and create capacity metric records.
 
 Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
@@ -47,7 +47,3 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 [Capacity management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/capacity-management-reporting.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[capacity-management-reporting|Capacity management]]

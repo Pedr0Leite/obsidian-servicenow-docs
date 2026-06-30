@@ -14,7 +14,7 @@ breadcrumb: [Recommended Actions for Service, Recommended Actions configuration,
 
 A guidance is an action that an agent can take or information that an agent can share as they work to resolve tasks, such as customer service cases. Guidances appear as cards in the contextual side panel in a workspace.
 
-The [[configure-nba|Recommended Actions]] for Customer Service application includes custom guidances for the following tables:
+The Recommended Actions for Customer Service application includes custom guidances for the following tables:
 
 -   Knowledge
 -   Case
@@ -26,7 +26,7 @@ These guidances enable search results from the corresponding search source table
 
 ## Knowledge guidance
 
-The Case Context record includes a search result mapping record for the Knowledge table that maps search results to the [[ra-csm-guidances-attach-share-article|Attach and share article]] guidance. When an agent is viewing a case record, preview cards for Knowledge search results in the Recommended Actions tab include the **Attach and share article** action.
+The Case Context record includes a search result mapping record for the Knowledge table that maps search results to the [Attach and share article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-attach-share-article.md) guidance. When an agent is viewing a case record, preview cards for Knowledge search results in the Recommended Actions tab include the **Attach and share article** action.
 
 ## Case guidance
 
@@ -78,7 +78,3 @@ Agents can link the recommended change request by selecting the **Link change re
 
 The preview card for the **Link change request to current case** guidance includes the change request title and number, the current state, the risk level and type of change, and a brief description of the change request.
 
-## Related
-
-- [[ra-csm-guidances-attach-share-article|Attach and share article guidance]]
-- [[configure-nba|Recommended Actions]]

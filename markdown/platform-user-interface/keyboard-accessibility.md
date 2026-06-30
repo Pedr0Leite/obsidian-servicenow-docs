@@ -16,17 +16,17 @@ Accessibility features include keyboard navigation, color and style settings, us
 
 ## Keyboard accessibility
 
-The ServiceNow AI Platform is designed to be as accessible as possible without user modification or setting changes. Users can tab through the platform UI without enabling accessibility. However, without accessibility enabled, tabbing goes from input to input and skips other items on a form, such as [[onboarding-modals-reference|reference]] icons.
+The ServiceNow AI Platform is designed to be as accessible as possible without user modification or setting changes. Users can tab through the platform UI without enabling accessibility. However, without accessibility enabled, tabbing goes from input to input and skips other items on a form, such as reference icons.
 
 Tab-through provides the following options:
 
 -   Use skip links to shift focus to different parts of the page without tabbing through every element.
--   On edit pages such as [[form-configurable-workspace|forms]], the keyboard focus starts at the first editable field on the page.
--   If the **glide.ui.focus\_first\_element** user preference is enabled, page focus starts at the first input field at the top of the page content section. In a table, this field is usually the search option. In a form, the field is the first input field in the form. For more information about disabling initial field focus to improve accessibility, see [[c_SetUpSect508ComplianceFeature|Turn off first field focus]].
+-   On edit pages such as forms, the keyboard focus starts at the first editable field on the page.
+-   If the **glide.ui.focus\_first\_element** user preference is enabled, page focus starts at the first input field at the top of the page content section. In a table, this field is usually the search option. In a form, the field is the first input field in the form. For more information about disabling initial field focus to improve accessibility, see [Turn off first field focus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md).
 -   Use tab-through and arrow keys to move items around in a slushbucket.
 -   When focused on tabs, use right/left arrow keys to switch tabs.
 -   Arrows keys work within menus to navigate between entries.
--   On tab-through for a list, the option to enable the **Edit table data inline** appears, so you can [[t_UseTheListEditor|use the list editor]], rather than opening the form.
+-   On tab-through for a list, the option to enable the **Edit table data inline** appears, so you can use the list editor, rather than opening the form.
     -   When inline edit mode is enabled, screen focus shifts to the first cell in the table.
     -   Press the Escape key while a cell is selected to exit inline edit mode. Focus remains on the cell.
     -   Press the spacebar to open the context menu for the selected item.
@@ -36,7 +36,7 @@ Tab-through provides the following options:
 -   In the application navigator when accessibility is enabled, tabbing moves you through each element for every module, including the **Edit application/module** and **Add to favorites** icons. Use the arrow keys to move through the application navigator without focusing on these additional elements.
 -   If accessibility mode is enabled, a help icon appears with the HTML field. The help icon indicates how to access and escape the HTML field toolbar.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
 ## Use skip links
 
@@ -74,7 +74,7 @@ There are several color and style changes that make the platform more accessible
 
 In the system settings, on the themes tab, select the Contrast UI theme. The Contrast UI theme provides a higher contrast range of colors for the platform UI.
 
-In [[c_ServicePortal|Service Portal]], you can apply the Stock — High Contrast theme to a portal for a higher contrast color range. Portal users can enable a contrast theme using the **Accessibility** option in the [[user-profile-widget|User Profile widget]].
+In Service Portal, you can apply the Stock — High Contrast theme to a portal for a higher contrast color range. Portal users can enable a contrast theme using the **Accessibility** option in the User Profile widget.
 
 ### Patterned charts and graphs
 
@@ -110,7 +110,7 @@ There are several ways to search for information in the user interface.
 
 -   When a list opens, focus starts in the search field. Press the Tab key or the shift+tab keys to navigate away from the search, or start typing while focus is in the search field.
 -   List views include a **Go to** search field in the list title bar. Using the \* wildcard character in the search text allows you to perform a **contains** search rather than a **starts with** search. This type of query may take longer to run but can save keystrokes. You can also use several other wildcards with list searches.
--   The navigation filter in the application navigator [[c_Filters|filters]] the applications and modules that appear in the navigator based on the entered text. Tab through or use skip links to navigate directly to the navigation filter. To open a module, click the module name, or press the Down Arrow to highlight the module name, and then press Enter.
+-   The navigation filter in the application navigator filters the applications and modules that appear in the navigator based on the entered text. Tab through or use skip links to navigate directly to the navigation filter. To open a module, click the module name, or press the Down Arrow to highlight the module name, and then press Enter.
 
 See [Available search options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_IntroductionToSearching.md) for more information about these search methods.
 
@@ -126,7 +126,7 @@ Role required: none
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Open an existing task board.
 
@@ -140,14 +140,4 @@ Role required: none
 
 6.  To exit the card, press **Escape**.
 
-## Related
 
-- [[c_SetUpSect508ComplianceFeature|Enabling accessibility features]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[onboarding-modals-reference|Reference]]
-- [[form-configurable-workspace|Forms]]
-- [[t_UseTheListEditor|Use the list editor]]
-- [[c_ServicePortal|Service Portal]]
-- [[user-profile-widget|User Profile widget]]
-- [[c_Filters|Filters]]
-- [[c_VisualTaskBoards|Visual Task Boards]]

@@ -14,7 +14,7 @@ breadcrumb: [Number render types and compatible input attributes, Input form scr
 
 Review the sections to see slider type examples and learn which input attributes are used to create them.
 
-The sections within this topic show the types of sliders that you can create and the input attributes needed to create them. For more information about all the input attributes, see the Number inputs section in the topic [[parameter-screen-var-attr|Input form screen attributes for inputs]].
+The sections within this topic show the types of sliders that you can create and the input attributes needed to create them. For more information about all the input attributes, see the Number inputs section in the topic [Input form screen attributes for inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-var-attr.md).
 
 **Note:**
 
@@ -84,9 +84,5 @@ Use a decorative step slider to improve the overall look and feel of the user in
 -   EnforceStepSize: Optional
 -   Decoration
 
-For more information, see [[decorative-slider|Configure a decorative slider]].
+For more information, see [Configure a decorative slider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/decorative-slider.md).
 
-## Related
-
-- [[parameter-screen-var-attr|Input form screen attributes for inputs]]
-- [[decorative-slider|Configure a decorative slider]]

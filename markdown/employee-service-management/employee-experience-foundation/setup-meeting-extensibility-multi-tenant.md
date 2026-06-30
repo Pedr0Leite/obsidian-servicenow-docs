@@ -14,25 +14,18 @@ breadcrumb: [Integration for Agent Experience, Setup for integrating pre-publish
 
 # Integrate Meeting Extensions pre-published app with Microsoft Teams
 
-Configure the [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]] using the pre-published app.
+Configure the Meeting Extensions for Microsoft Teams using the pre-published app.
 
-[[notify-connector-ms-teams|Notify connector for Microsoft Teams]] is the prerequisite for the functioning of Meeting Extensions app. So, ensure you have completed integration setup related to Notify connector for Microsoft Teams. For more information, see [Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-multi-tenant.md).
+Notify connector for Microsoft Teams is the prerequisite for the functioning of Meeting Extensions app. So, ensure you have completed integration setup related to Notify connector for Microsoft Teams. For more information, see [Integrate Notify connector pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-notify-ms-teams-multi-tenant.md).
 
 -   **[Authorize pre-published SSO and Activity Notification Azure apps to grant required permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/authorize-prepub-azure-apps-meeting.md)**  
-Authorize the pre-published SSO and [[activity-lxp|Activity]] Notification apps to enable ServiceNow® to make API calls from a personal tab in Microsoft Teams.
+Authorize the pre-published SSO and Activity Notification apps to enable ServiceNow® to make API calls from a personal tab in Microsoft Teams.
 -   **[Download manifest file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/download-manifest-file.md)**  
 Download the Notify connector for Microsoft Teams manifest file from your instance.
 -   **[Configuring Notify connector for Microsoft Teams app in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-nc-ms-teams-ac-client.md)**  
-Configure the manifest file in Microsoft Teams client or admin center to [[c-agent-ex-use-nc|use Notify connector for Microsoft Teams]] app.
+Configure the manifest file in Microsoft Teams client or admin center to use Notify connector for Microsoft Teams app.
 -   **[Map ServiceNow Meeting Extensions app ID in ServiceNow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/map-meeting-extensibility-app-id-mt.md)**  
-Map the ServiceNow Meeting Extensions app ID in your ServiceNow instance to automatically [[map-meeting-extensibility-app-id|add the meeting extensions tab in Microsoft Teams]] for a conference call.
+Map the ServiceNow Meeting Extensions app ID in your ServiceNow instance to automatically add the meeting extensions tab in Microsoft Teams for a conference call.
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Agent Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_agent_ex_tnt.md)
 
-## Related
-
-- [[meeting-extensibility-ms-teams|Meeting Extensions for Microsoft Teams]]
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[activity-lxp|Activity]]
-- [[c-agent-ex-use-nc|Use Notify connector for Microsoft Teams]]
-- [[map-meeting-extensibility-app-id|Add the Meeting Extensions tab in Microsoft Teams]]

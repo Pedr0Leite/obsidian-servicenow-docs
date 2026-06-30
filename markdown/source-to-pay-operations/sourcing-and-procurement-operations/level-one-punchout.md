@@ -14,7 +14,7 @@ breadcrumb: [Understanding punchout, Explore, Sourcing and Procurement Operation
 
 # How L1 punchout works
 
-In the Level 1 \(L1\) punchout, SPO and the punchout [[supplier|supplier]] communicate using the cXML protocol.
+In the Level 1 \(L1\) punchout, SPO and the punchout supplier communicate using the cXML protocol.
 
 ## L2 punchout flow
 
@@ -35,7 +35,7 @@ The cart checkout flow involves the following:
 -   When a user checks out the cart on the punchout supplier site, the punchout supplier \(or other PunchOut systems\) sends a PunchOutOrderMessage cXML payload to the REST endpoint exposed by SPO.
 -   The details of this endpoint are included in the PunchOutSetupRequest payload, enabling the punchout supplier to know where to send the order request.
 -   After SPO receives the PunchOutOrderMessage payload, it processes the information and creates the corresponding SPO cart lines.
--   The user then reviews the cart in SPO and proceeds to checkout. Upon successful checkout, a [[purchase-requisition|purchase requisition]] \(PR\) is created.
+-   The user then reviews the cart in SPO and proceeds to checkout. Upon successful checkout, a purchase requisition \(PR\) is created.
 
 The following figure illustrates this flow:
 
@@ -43,7 +43,7 @@ The following figure illustrates this flow:
 
 ## Sending purchase order to punchout system
 
-Sending [[purchase-order-table|purchase order]] information to the punchout supplier system involves the following:
+Sending purchase order information to the punchout supplier system involves the following:
 
 -   When a PR is approved and a PO is created, SPO needs to send OrderRequest cXML payload to the punchout supplier system.
 -   The flow action Send Punchout Order Request sends the PO to the punchout system.
@@ -67,8 +67,3 @@ The following figure illustrates this flow:
 
 **Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

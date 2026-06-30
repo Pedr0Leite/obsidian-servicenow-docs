@@ -32,7 +32,7 @@ The State transition of a collection guides you through the stages of its life c
 **Related topics**  
 
 
-[Components installed with [[exploring-learning-exp|Learning]] Core]()
+[Components installed with Learning Core]()
 
 [Course catalog form]()
 
@@ -46,6 +46,3 @@ The State transition of a collection guides you through the stages of its life c
 
 [Collection form]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

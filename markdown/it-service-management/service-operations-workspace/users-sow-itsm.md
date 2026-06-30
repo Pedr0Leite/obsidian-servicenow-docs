@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Users in Service Operations Workspace for ITSM
 
-Users can access various [[sow-landing-page|Service Operations Workspace for ITSM]] pages based on assigned roles and associated service desk groups and audiences.
+Users can access various Service Operations Workspace for ITSM pages based on assigned roles and associated service desk groups and audiences.
 
 <table id="table_jrc_mdf_ccc"><thead><tr><th>
 
@@ -52,7 +52,3 @@ User with the itil role.Primarily focused on the life cycle of the following rec
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

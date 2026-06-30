@@ -14,25 +14,25 @@ breadcrumb: [Hardening settings, Platform Security]
 
 # Authentication
 
-The [[c_Authentication|authentication]] category covers the main elements of modern authentication to confirm an entity and its claims are authentic and correct, resistant to impersonation and prevent interception of passwords.
+The authentication category covers the main elements of modern authentication to confirm an entity and its claims are authentic and correct, resistant to impersonation and prevent interception of passwords.
 
 The ASVS standard builds on the [NIST 800-63b \(https://pages.nist.gov/800-63-3/sp800-63b.html\)](https://pages.nist.gov/800-63-3/sp800-63b.html) specification for this section.
 
 Authentication includes password policy, controls and storage, proper implementation of authenticators and proper implementation of out of band or one time verifiers.
 
--   **[Activate role-based [[mfa-landing|multi-factor authentication]] \[Updated in [[sec-center-v2|Security Center]] 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-activate-role-based-multi-factor-authentication.md)**  
-Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all [[users|users]] assigned to specific roles.
+-   **[Activate role-based multi-factor authentication \[Updated in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-activate-role-based-multi-factor-authentication.md)**  
+Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all users assigned to specific roles.
 -   **[Activate role based multi-factor authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-role-based-multi-factor-authentication.md)**  
 Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all users assigned to specific roles.
 -   **[Anti-CSRF token \(instance security hardening\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/anti-csrf-token.md)**  
 Use the **glide.security.use\_csrf\_token** property to ensure the use of a secure token to identify and validates incoming requests, which in turn are used to prevent these attacks.
 -   **[Control Lockout Time for Invalid Password Reset Attempts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-reset-password-request-max-attempts-window.md)**  
-The **password\_reset.[[c_requestAPI|request]].max\_attempt\_window** property controls the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt** property.
+The **password\_reset.request.max\_attempt\_window** property controls the number of minutes a user must wait to reset or change their password after exceeding the maximum number of unsuccessful attempts that is set with the **password\_reset.request.max\_attempt** property.
 -   **[Disable creating users from incoming emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-emails-by-domain.md)**  
 Use the **glide.user.trusted\_domain** property to specify the comma-separated list of trusted domains used in the creation of users from incoming emails.
 -   **[Disable password-less authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-password-less-authentication.md)**  
 Use the **glide.login.no\_blank\_password** property to prevent users from logging into the NOW platform with blank passwords, or by leaving the **Password** field empty.
--   **[Disable resource owner password credentials \(ROPC\) in [[oauth-inbound-and-outbound|OAuth]] 2 token grants \[New in Security Center 7.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-resource-owner-password-credentials-ropc-in-oauth-2-token-grants.md)**  
+-   **[Disable resource owner password credentials \(ROPC\) in OAuth 2 token grants \[New in Security Center 7.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-resource-owner-password-credentials-ropc-in-oauth-2-token-grants.md)**  
 Prevent Resource Owner Password Credentials \(ROPC\) from granting OAuth 2 tokens.
 -   **[Do not apply password policy at login \[Updated in Security Center 1.5 and removed in 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-do-not-apply-password-policy-at-login.md)**  
 Manage how password complexity is handled in your instance.
@@ -51,11 +51,11 @@ Manage how two-factor authentication is applied on your instance.
 -   **[Enable password reset policy checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-password-reset-policy-checks.md)**  
 Use the **glide.enable.password\_policy** property to enable password policy checks whenever a user changes their password using the user interface.
 -   **[Enable relay state in SAML requests to prevent replay attacks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-relay-state-in-saml-requests-to-prevent-replay-attacks.md)**  
-Reduce the risk of replay attacks by enabling relay state in [[c_SAML2.0WebBrowserSSOProfile|SAML]] requests to help prevent replay attacks.
+Reduce the risk of replay attacks by enabling relay state in SAML requests to help prevent replay attacks.
 -   **[Enable SMS code notification for enrollment and verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-sms-code-notification-for-enrollment-and-verification.md)**  
-The **password\_reset.sms.use\_notify** property controls the usage of SMS code notifications for [[c_SelfServicePasswordReset|password reset]].
+The **password\_reset.sms.use\_notify** property controls the usage of SMS code notifications for password reset.
 -   **[Enable SSL in LDAP authentication \[Updated in Security Center 1.5 and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-ssl-in-ldap-authentication.md)**  
-Manage the [[encryption-landing|encryption]] of LDAP authentication requests on your instance.
+Manage the encryption of LDAP authentication requests on your instance.
 -   **[Enforce current password policy compliance requirements on login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-current-password-policy-compliance-requirements-on-login.md)**  
 Reduce the risk of brute force account login by enforcing current password policy compliance requirements on login.
 -   **[Enforce device encryption and passcode requirements \[New in Security Center 1.3\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-device-encryption-and-passcode-requirements.md)**  
@@ -109,19 +109,7 @@ Configure the **glide.sg.blur\_ui\_when\_backgrounded** property so that the UI 
 -   **[Require Minimum and Maximum Password Length](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-minimal-password-length.md)**  
 Set minimum and maximum password lengths to avoid compliance issues and reduce the risk of a successful brute force attack
 -   **[Set OTP lifetime for password reset to 1 hour \[Updated in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-otp-lifetime-for-password-reset-to-12-hours-or-less.md)**  
-Control the time duration of the link in the password reset [[email|email]].
+Control the time duration of the link in the password reset email.
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[encryption-landing|Encryption]]
-- [[email|Email]]

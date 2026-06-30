@@ -12,9 +12,9 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 # CPQ scripting language reference
 
-View the operators, objects, and keywords that CPQ supports, together with information about type conversion, type checking, alternative [[scripts|scripts]] for unsupported operations, and accessing object properties.
+View the operators, objects, and keywords that CPQ supports, together with information about type conversion, type checking, alternative scripts for unsupported operations, and accessing object properties.
 
-CPQ uses a JavaScript-like language to dynamically change the value of [[fields|fields]] and BOM data via [[rules_101|rules]] and enrichments. JavaScript is a complex language built over almost thirty years, and while we are unable to replicate every piece of functionality that a developer would normally expect while coding, CPQ scripting remains a powerful tool to assist in the dynamic configuration of products.
+CPQ uses a JavaScript-like language to dynamically change the value of fields and BOM data via rules and enrichments. JavaScript is a complex language built over almost thirty years, and while we are unable to replicate every piece of functionality that a developer would normally expect while coding, CPQ scripting remains a powerful tool to assist in the dynamic configuration of products.
 
 The capabilities of CPQ scripting are always expanding. Check back to see the most up-to-date features.
 
@@ -171,7 +171,7 @@ Each object supported can be declared with the following:
 
 We do not support `while` or unconditional `for` loops with `break`, because of the risk of infinite loops halting performance.
 
-We do not support functions, as the script itself should be small enough to be considered one function. If your script is long with many conditions and variables, consider creating a managed table and using a table query. For more information about using managed tables and table queries, see [[cpq-matrix-loader-csv-table-upload|Matrix Loader: CSV table upload]] and [[table_queries|Minimizing table queries]].
+We do not support functions, as the script itself should be small enough to be considered one function. If your script is long with many conditions and variables, consider creating a managed table and using a table query. For more information about using managed tables and table queries, see [Matrix Loader: CSV table upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-matrix-loader-csv-table-upload.md) and [Minimizing table queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/table_queries.md).
 
 ## Alternative scripts for unsupported operations
 
@@ -296,7 +296,7 @@ quantity3
 3
 
 </td></tr></tbody>
-</table>Instead of having an identical `if` statement check what `shipState` is and setting the Boolean values and quantities accordingly, you could instead replace it with only one `if` statement that [[cpq-sets|sets]] the values based on the results of a table lookup.
+</table>Instead of having an identical `if` statement check what `shipState` is and setting the Boolean values and quantities accordingly, you could instead replace it with only one `if` statement that sets the values based on the results of a table lookup.
 
 In the following On Configure/Reconfigure script, if the `shipState` field has a value, the fields that are returned by the lookup function are set. If the `shipState` field is blank, then all Boolean and quantity fields are set.
 
@@ -324,20 +324,9 @@ If your instance of CPQ needs functionality not described here, create a support
 **Related topics**  
 
 
-[[cpq-sample-scripts|Sample scripts]]
+[Sample scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-sample-scripts.md)
 
-[[rules-enrichments-comments-and-console_log|Using comments and the console to debug scripts]]
+[Using comments and the console to debug scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rules-enrichments-comments-and-console_log.md)
 
-[[enrichments_on_configurer_and_reconfigure_behavior|Scripting: Checking for first and subsequent configurations]]
+[Scripting: Checking for first and subsequent configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments_on_configurer_and_reconfigure_behavior.md)
 
-## Related
-
-- [[cpq-matrix-loader-csv-table-upload|cpq matrix loader csv table upload]]
-- [[table_queries|Minimizing table queries]]
-- [[cpq-sample-scripts|Sample scripts]]
-- [[rules-enrichments-comments-and-console_log|Using comments and the console to debug scripts]]
-- [[enrichments_on_configurer_and_reconfigure_behavior|enrichments_on_configurer_and_reconfigure_behavior]]
-- [[scripts|Scripts]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]

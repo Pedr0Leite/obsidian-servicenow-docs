@@ -13,7 +13,7 @@ breadcrumb: [Conversation Improvement Themes, Enable AI experiences]
 
 # Exploring Conversation Improvement Themes
 
-The [[conv-impr-themes-landing|Conversation Improvement Themes]] application helps to transform conversation evaluations into long-term performance insights.
+The Conversation Improvement Themes application helps to transform conversation evaluations into long-term performance insights.
 
 ## Conversation Improvement Themes overview
 
@@ -36,6 +36,3 @@ Approach:
     2.  Count how often each theme appears when the virtual agent underperforms or performs well.
     3.  Highlight themes where the virtual agent handles requests poorly or well on the screen.
 
-## Related
-
-- [[conv-impr-themes-landing|Conversation Improvement Themes]]

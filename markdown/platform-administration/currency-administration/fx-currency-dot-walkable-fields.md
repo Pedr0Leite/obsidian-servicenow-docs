@@ -18,7 +18,7 @@ You can dot-walk certain fields in the Currency Instance \[fx\_currency2\_instan
 
 ## Currency code
 
-The **Currency** field isn't a [[reference-email-admin|reference]] field, so you can set it to any value. However, if you enter an invalid currency code, an exception message is generated. An empty value is considered a session currency code.
+The **Currency** field isn't a reference field, so you can set it to any value. However, if you enter an invalid currency code, an exception message is generated. An empty value is considered a session currency code.
 
 ## Query conditions
 
@@ -42,6 +42,3 @@ When the second operand is another Currency2 field, the condition translates in 
 
 [Life cycle of records containing FX Currency fields]()
 
-## Related
-
-- [[reference-email-admin|Reference]]

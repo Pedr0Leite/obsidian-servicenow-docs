@@ -43,7 +43,7 @@ Here are a few good practices for creating groups:
 
     The **Type** field expands.
 
-5.  Click the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] lookup icon and select the **\[application\]** type.
+5.  Click the reference lookup icon and select the **\[application\]** type.
 
 6.  Right-click the form header and select **Save**.
 
@@ -56,6 +56,3 @@ Here are a few good practices for creating groups:
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

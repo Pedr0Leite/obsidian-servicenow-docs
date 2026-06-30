@@ -14,12 +14,8 @@ breadcrumb: [Workplace Move Management, Workplace Service Delivery, Employee Ser
 
 Install and configure Workplace Move Management for workplace users.
 
--   **[[install-workplace-move-mgmt|Install Workplace Move Management]]**  
+-   **[Install Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/install-workplace-move-mgmt.md)**  
 Install the Workplace Move Management application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-**Parent Topic:**[[workplace-move-mgmt-overview|Workplace Move Management]]
+**Parent Topic:**[Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-move-mgmt-overview.md)
 
-## Related
-
-- [[install-workplace-move-mgmt|Install Workplace Move Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

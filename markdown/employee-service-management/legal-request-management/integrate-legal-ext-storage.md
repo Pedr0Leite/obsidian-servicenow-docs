@@ -14,7 +14,7 @@ breadcrumb: [Configure, Legal Request Management, Legal Service Delivery, Legal 
 
 # Configure an external storage system for legal requests and legal matters
 
-[[cncore-integrate-ext-storage|Configure an external storage system]] to store documents attached to legal requests and legal matters.
+Configure an external storage system to store documents attached to legal requests and legal matters.
 
 ## Before you begin
 
@@ -218,7 +218,7 @@ The external storage system integration is published and is ready for storing do
 
 Add the **Enable External Storage for attachment** option in the intake forms so that the documents attached to those legal requestsor legal mattersare stored in the configured external storage. For more information, see [Add an intake form to a practice area](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/associate-categories-practice-area.md).
 
-Configure the system properties for [[legal-management-overview|Legal Service Delivery]] apps to administer integration with the external storage provider. For more information, see [Legal Service Delivery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-properties.md).
+Configure the system properties for Legal Service Delivery apps to administer integration with the external storage provider. For more information, see [Legal Service Delivery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-properties.md).
 
 -   **[Integrating Legal Service Delivery applications with iManage storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/configuring-imanage-integration.md)**  
 Integrate iManage storage with Legal Service Delivery applications to provide more security to the files.
@@ -227,7 +227,3 @@ Create the implementation in the Scripted Extension Point, provided out-of-the-b
 
 **Parent Topic:**[Configuring Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-ops-administration.md)
 
-## Related
-
-- [[cncore-integrate-ext-storage|Configure an external storage system]]
-- [[legal-management-overview|Legal Service Delivery]]

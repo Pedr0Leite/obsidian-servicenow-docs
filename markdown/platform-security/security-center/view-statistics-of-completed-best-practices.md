@@ -14,7 +14,7 @@ breadcrumb: [Security Best Practices, Security posture console, Security Center,
 
 # View data of completed best practices
 
-See visual representations of the total amount of [[best-practices|best practices]] completed, or segmented by maturity level.
+See visual representations of the total amount of best practices completed, or segmented by maturity level.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-Complete the actions to see charts that provide visual trends of [[security-best-practices-manager|security best practices]] that were completed overall, and by maturity level.
+Complete the actions to see charts that provide visual trends of security best practices that were completed overall, and by maturity level.
 
 ## Procedure
 
-1.  Access the [[sec-center-v2|Security Center]] app and navigate to the **Best Practices** tab.
+1.  Access the Security Center app and navigate to the **Best Practices** tab.
 
 2.  Under the **Manage your Best Practices** card select the **Completed overall** chart.
 
@@ -37,8 +37,3 @@ Complete the actions to see charts that provide visual trends of [[security-best
 
 **Parent Topic:**[Security Best Practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-best-practices-manager.md)
 
-## Related
-
-- [[best-practices|Best Practices]]
-- [[security-best-practices-manager|Security Best Practices]]
-- [[sec-center-v2|Security Center]]

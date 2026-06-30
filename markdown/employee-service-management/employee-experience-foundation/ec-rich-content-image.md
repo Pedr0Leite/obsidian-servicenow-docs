@@ -56,7 +56,7 @@ The Rich Content Editor supports the following types of images:
 
 5.  Configure the following settings:
 
-    **Note:** When adding images, videos, or text, there are several functional and convenient styling features that help [[ec-content-library-portal-rich-content|create Rich Content]] and [[ec-news-articles|News Articles]]. Some of the right-hand panel options include the ability to enable different backgrounds, opacities and shadows, improved cells and buttons allow additional border settings, colors and types, as well as additional text styles, colors and fonts, and right-hand panel property setting improvements, which provide more available options when creating rich content.
+    **Note:** When adding images, videos, or text, there are several functional and convenient styling features that help create Rich Content and News Articles. Some of the right-hand panel options include the ability to enable different backgrounds, opacities and shadows, improved cells and buttons allow additional border settings, colors and types, as well as additional text styles, colors and fonts, and right-hand panel property setting improvements, which provide more available options when creating rich content.
 
 <table id="table_zx2_tgw_jyb"><thead><tr><th>
 
@@ -154,7 +154,7 @@ Describe the appearance or function of your image for accessibility purposes.
 
     **Note:** Only translate content after you are done modifying the content. For best results, we do not recommend that you add or remove components or change the formatting after translation.
 
-    To create rich content that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use [[ecpro-audience|Audiences]] to target the content to users by language. See [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md)
+    To create rich content that is formatted differently in different languages, duplicate the content and modify the formatting as needed. Then, use Audiences to target the content to users by language. See [Audiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-audience.md)
 
 -   Preview your content from the **Publish** tab.
 
@@ -162,8 +162,3 @@ Describe the appearance or function of your image for accessibility purposes.
 
 -   Configure a publish plan to control where the content is delivered, the audience, and the period of time it is available: [Create a publish plan for your content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md).
 
-## Related
-
-- [[ec-content-library-portal-rich-content|Create rich content]]
-- [[ec-news-articles|News articles]]
-- [[ecpro-audience|Audiences]]

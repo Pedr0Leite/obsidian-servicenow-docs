@@ -24,7 +24,7 @@ Role required: sn\_pp.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[proactive-prompts-for-hrsd|Proactive Prompts]]** &gt; **Signal Schedules**.
+1.  Navigate to **All** &gt; **Proactive Prompts** &gt; **Signal Schedules**.
 
 2.  Select **New**.
 
@@ -105,6 +105,4 @@ The time when the schedule must be executed in 24-hour clock format.**Note:** Th
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

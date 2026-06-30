@@ -744,8 +744,5 @@ Identification of alternative ICT TPP
 Supplementary details on the identification of alternative ICT third-party providers \(TPP\).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-contract|Create a contract and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a contract and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-contract.md)
 
-## Related
-
-- [[create-drtp-reg-contract|Create a contract and enhance digital resilience data]]

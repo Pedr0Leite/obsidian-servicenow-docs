@@ -14,7 +14,7 @@ breadcrumb: [Model categories, Product Catalog, Asset Management, IT Service Man
 
 # Create model categories
 
-You can add custom [[c_ModelCategories|model categories]] for your instance.
+You can add custom model categories for your instance.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ When you create model categories, keep the following in mind:
 -   If you select **Consumable** or **Software License** for the asset class, the **Allow in bundle** option is available, but not **Allow pre-allocation** or **Allow as main**.
 -   When a CI is created from a model category that requires asset tracking, the system automatically creates an asset record for the asset class specified in the model category. It then links that asset record to the CI. If a model is specified, the model category of the CI is determined by a combination of the CI class and the list of categories supported by the model. Asset tracking is specified on the model record.
 -   When an asset is created from a model category that requires CI tracking, the system automatically creates a CI record of the class specified by the category and links it to the asset.
--   The Model Categories list \(**[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **Model Categories**\) shows all the CI classes and what asset class is generated on the asset side.
+-   The Model Categories list \(**Product Catalog** &gt; **Product Model** &gt; **Model Categories**\) shows all the CI classes and what asset class is generated on the asset side.
 
 ## Procedure
 
@@ -88,7 +88,7 @@ Product model class
 
 </td><td>
 
-Class table where the [[c_Models|models]] are stored. The default values are:-   Application
+Class table where the models are stored. The default values are:-   Application
 -   Consumable
 -   Contract
 -   Facility
@@ -156,8 +156,3 @@ Prevents the system from automatically creating assets in a specific model categ
 
 [Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/r-discovery.md)
 
-## Related
-
-- [[c_ModelCategories|Model categories]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

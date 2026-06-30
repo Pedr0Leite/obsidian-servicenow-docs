@@ -37,7 +37,7 @@ Schedule the following jobs to remove old alert records:
 
 2.  To determine how often to mark alerts for deletion on the **Impact Status** table:
 
-    1.  Locate and select the **[[c_EM|Event Management]] - Backfill Impact Status Table** job.
+    1.  Locate and select the **Event Management - Backfill Impact Status Table** job.
 
         The **Scheduled Script Execution** page appears.
 
@@ -68,6 +68,3 @@ Schedule the following jobs to remove old alert records:
 
 **Parent Topic:**[Purge impact status and alert history](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigurePurge.md)
 
-## Related
-
-- [[c_EM|Event Management]]

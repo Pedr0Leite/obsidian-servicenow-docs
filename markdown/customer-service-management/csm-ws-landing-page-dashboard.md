@@ -12,9 +12,9 @@ breadcrumb: [Landing pages, CSM Configurable Workspace features, CSM Configurabl
 
 # Dashboard landing pages
 
-Enable your users to display, customize, and share dashboards in [[csm-workspaces-configure|CSM Configurable Workspace]] and use these dashboards as landing pages.
+Enable your users to display, customize, and share dashboards in CSM Configurable Workspace and use these dashboards as landing pages.
 
-Workspace dashboards enable users such as agents and managers to configure and customize their own metrics. These users can switch between available dashboards and modify dashboard [[migration-lists|lists]] and metrics to track important information. They can also share dashboards with coworkers and across teams.
+Workspace dashboards enable users such as agents and managers to configure and customize their own metrics. These users can switch between available dashboards and modify dashboard lists and metrics to track important information. They can also share dashboards with coworkers and across teams.
 
 To display workspace dashboards, system administrators activate the [CSM Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-dashboard.md) landing page variant and configure user privileges. When configured, users included in the page audience see the Dashboard Overview landing page in CSM Configurable Workspace and the [default dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-dashboard.md) included with that page.
 
@@ -33,7 +33,7 @@ The CSM Configurable Workspace application, which includes the CSM and FSM Confi
 The default dashboards available with this landing page variant are available depending on [user role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-dashboard.md). Some of these dashboards require additional plugins to see all of the dashboard information. These plugins include:
 
 -   Performance Analytics - Content Pack - Customer Service \(com.snc.pa.customer\_service\)
--   Performance Analytics – Content Pack – [[c_CustomerServiceManagement|Customer Service Management]] – Advanced \(com.snc.pa.customer\_service\_advanced\)
+-   Performance Analytics – Content Pack – Customer Service Management – Advanced \(com.snc.pa.customer\_service\_advanced\)
 -   Performance Analytics Premium for Customer Service \(com.snc.pa.premium.cs\)
 -   Performance Analytics - Content Pack – Advanced Work Assignment \(com.snc.pa.awa\)
 
@@ -43,11 +43,11 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Activating the CSM Dashboards landing page variant
 
-The **CSM Dashboards** landing page variant is an optional page variant for the **CSM/FSM Configurable Workspace experience**. By default, this page variant is marked as inactive and has an order value of 0. When activated and set to the lowest order number, the system uses the **CSM Dashboards** landing page in place of the default [[csm-ws-landing-page-original|CSM Landing Page]] for the users included in the page audience.
+The **CSM Dashboards** landing page variant is an optional page variant for the **CSM/FSM Configurable Workspace experience**. By default, this page variant is marked as inactive and has an order value of 0. When activated and set to the lowest order number, the system uses the **CSM Dashboards** landing page in place of the default [CSM Landing Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-original.md) for the users included in the page audience.
 
 **Note:** The default landing page, Dashboard Overview, and the [default dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-ws-landing-page-dashboard.md) included with that page are available in read-only mode and are provided as examples. It is recommended that you create and customize duplicates of the landing page and dashboards.
 
-For more information about activating a page variant and setting the order, see [[config-csm-ws-set-record-page-order|Set record page order]].
+For more information about activating a page variant and setting the order, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 ## User roles for the Dashboard Overview landing page
 
@@ -103,7 +103,7 @@ Customer Service Agent
 
 Available with the CSM Configurable Workspace \(com.snc.uib.csm\_agent\_workspace\) plugin.
 
- Out of box, the [[csm-agent-dashboard|Customer Service Agent dashboard]] includes the widgets on the **My Work** tab.
+ Out of box, the Customer Service Agent dashboard includes the widgets on the **My Work** tab.
 
 **Note:** The tab is not visible because it is the only tab on the dashboard.
 
@@ -132,7 +132,7 @@ Customer Service Manager
 Available with the following plugins:-   CSM Configurable Workspace \(com.snc.uib.csm\_agent\_workspace\)
 -   Performance Analytics - Content Pack - Customer Service \(com.snc.pa.customer\_service\)
 
-Activating the Performance Analytics - Content Pack - Customer Service \(com.snc.pa.customer\_service\) plugin provides the complete [[csm-manager-dashboard|Customer Service Manager dashboard]] with all tabs.
+Activating the Performance Analytics - Content Pack - Customer Service \(com.snc.pa.customer\_service\) plugin provides the complete Customer Service Manager dashboard with all tabs.
 
 </td></tr><tr><td>
 
@@ -291,13 +291,3 @@ Bookmark a dashboard
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-ws-landing-page-original|CSM Landing Page]]
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-agent-dashboard|Customer Service Agent dashboard]]
-- [[csm-manager-dashboard|Customer Service Manager dashboard]]

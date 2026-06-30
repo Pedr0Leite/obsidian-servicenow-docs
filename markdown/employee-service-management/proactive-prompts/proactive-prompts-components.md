@@ -14,7 +14,7 @@ breadcrumb: [Reference for Proactive Prompts, Proactive Prompts, HR Service Deli
 
 # Components installed with Proactive Prompts
 
-Several types of components install with the activation of the [[proactive-prompts-for-hrsd|Proactive Prompts]] application, including user roles and tables.
+Several types of components install with the activation of the Proactive Prompts application, including user roles and tables.
 
 ## Proactive Prompts roles
 
@@ -114,7 +114,7 @@ Signal actions\[sn\_pp\_signal\_action\]
 
 </td><td>
 
-Stores the Virtual [[agent-sn-ms-teams|Agent actions]] that the user can take on receiving the prompt.
+Stores the Virtual Agent actions that the user can take on receiving the prompt.
 
 </td></tr><tr><td>
 
@@ -188,7 +188,3 @@ Stores the record level information qualified for the prompt when the **Collect 
 
 [Signal configuration form]()
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[agent-sn-ms-teams|Agent actions]]

@@ -12,7 +12,7 @@ breadcrumb: [Source-to-Pay Operations common skills, Now Assist, Source-to-Pay O
 
 # Using AI Data Explorer in Source-to-Pay Operations
 
-Use the AI Data Explorer in [[source-to-pay-operations-overview|Source-to-Pay Operations]] to generate reports, visualizations, and data insights from APO, SPO and SLO workspace using natural language questions.
+Use the AI Data Explorer in Source-to-Pay Operations to generate reports, visualizations, and data insights from APO, SPO and SLO workspace using natural language questions.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: now\_assist\_explorer\_user
 
 ## About this task
 
-The AI Data Explorer enables fulfillers and requesters to generate reports, visualizations, and data insights through a conversational interface from [[purch-order-mgmt-ws|Source-to-Pay workspace]] using natural language. Users input natural language prompts to query data without needing technical expertise in tables, filters, or data structures.
+The AI Data Explorer enables fulfillers and requesters to generate reports, visualizations, and data insights through a conversational interface from Source-to-Pay workspace using natural language. Users input natural language prompts to query data without needing technical expertise in tables, filters, or data structures.
 
 ## Procedure
 
@@ -32,7 +32,4 @@ The AI Data Explorer enables fulfillers and requesters to generate reports, visu
 
     The AI-assisted, interactive exploration assists fulfillers in making data-driven decisions within the Source-to-Pay workspace.
 
-## Related
 
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

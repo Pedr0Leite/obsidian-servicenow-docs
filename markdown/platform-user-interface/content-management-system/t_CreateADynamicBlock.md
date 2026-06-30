@@ -26,15 +26,15 @@ A good use of dynamic blocks is job postings. Store the postings in knowledge ar
 
 Several dynamic blocks are predefined, including the following items.
 
--   **New Content**: Each of the new [[c_ContentBlocks|content blocks]] allows for creating blocks while editing content pages.
+-   **New Content**: Each of the new content blocks allows for creating blocks while editing content pages.
 -   **Clean Login**: The default login page requesting user name and password, which includes a "Remember Me" check box. After the user logs in, this block triggers login rules.
 -   **Login**: An area that allows a logged out user to log in and a logged in user to log out. This block is especially useful on publicly available content pages.
 -   **Search**: The global text search field. Currently, global text search is the only form of search that can be included in a content page.
 -   **Search Results**: An area for displaying global text search results.
 
-For information about Apache Jelly, see Jelly [[c_Tags|tags]].
+For information about Apache Jelly, see Jelly tags.
 
-**Note:** Dynamic Content Blocks in [[c_ContentManagementSystem|Content Management System]] are not automatically escaped. These blocks must implement their own content escaping \(e.g., to protect against potential Cross Site Scripting attacks\). For more information, see Jelly escaping types.
+**Note:** Dynamic Content Blocks in Content Management System are not automatically escaped. These blocks must implement their own content escaping \(e.g., to protect against potential Cross Site Scripting attacks\). For more information, see Jelly escaping types.
 
 ## Procedure
 
@@ -56,7 +56,7 @@ For information about Apache Jelly, see Jelly [[c_Tags|tags]].
 
 
 -   **[Catalog cart block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CatalogCartBlock.md)**  
-The [[c_CatalogCartBlock|catalog cart block]] is a dynamic block provided in the base system.
+The catalog cart block is a dynamic block provided in the base system.
 
 **Parent Topic:**[Types of content blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_TypesOfContentBlocks.md)
 
@@ -89,9 +89,3 @@ The [[c_CatalogCartBlock|catalog cart block]] is a dynamic block provided in the
 
 [Format an image as a static HTML block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AddAnImageAsAStaticHTMLBlock.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]
-- [[c_Tags|Tags]]
-- [[c_ContentManagementSystem|Content Management System]]
-- [[c_CatalogCartBlock|Catalog cart block]]

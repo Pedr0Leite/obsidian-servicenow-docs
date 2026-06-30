@@ -14,7 +14,7 @@ breadcrumb: [Requesting and receiving required parts, Contractor Portal, Complet
 
 # Create and source a part requirement request on the Field Service Contractor Portal
 
-[[t_CreateAPartRequirement|Create a part requirement]] request for a work order task that is assigned to you.
+Create a part requirement request for a work order task that is assigned to you.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Creating a part requirement request automatically creates a part requirement num
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage** &gt; **Requests** &gt; **Create and [[c_SourceParts|Source Parts]]**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage** &gt; **Requests** &gt; **Create and Source Parts**.
 
 2.  On the form, fill in the fields.
 
@@ -45,11 +45,5 @@ Creating a part requirement request automatically creates a part requirement num
 
 ## Result
 
-The **[[c_PartRequirements|Part Requirements]]** and **Transfer Orders** related list is updated automatically with the part requirements information in the work order task form.
+The **Part Requirements** and **Transfer Orders** related list is updated automatically with the part requirements information in the work order task form.
 
-## Related
-
-- [[t_CreateAPartRequirement|Create a part requirement]]
-- [[field-service-contractor-portal|Contractor Portal]]
-- [[c_SourceParts|Source parts]]
-- [[c_PartRequirements|Part requirements]]

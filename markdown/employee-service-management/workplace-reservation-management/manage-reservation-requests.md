@@ -24,14 +24,14 @@ Based on the pending reservations for the items that require approval you can ta
 
 ## Event planner
 
-In the [[workplace-central-feat|Workplace Central]] workspace, the Workplace Reservation [[event-planner|Event Planner]] enables you to track your organization's reservations from a single workspace. In the Event planner, using a schedule view, you can view reservation details, optimize reservations by dragging, and manage multiple workplace reservations at a time. You can access the Event planner dashboard with both Reservation planner and Reservation viewer roles. The Event planner provides you with a schedule view of all the reservations requested by the employees and also the reservations that are requested by you. You can access the Event planner both as a reservation planner and a reservation viewer. As a reservation planner, you can manage the reservations on behalf of the employees.
+In the Workplace Central workspace, the Workplace Reservation Event Planner enables you to track your organization's reservations from a single workspace. In the Event planner, using a schedule view, you can view reservation details, optimize reservations by dragging, and manage multiple workplace reservations at a time. You can access the Event planner dashboard with both Reservation planner and Reservation viewer roles. The Event planner provides you with a schedule view of all the reservations requested by the employees and also the reservations that are requested by you. You can access the Event planner both as a reservation planner and a reservation viewer. As a reservation planner, you can manage the reservations on behalf of the employees.
 
 For more information, refer to [Event Planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/event-planner.md).
 
 -   **[View or update reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/view-reservations.md)**  
 View or update reservation requests submitted through the Reservation portal. You can view the current day's reservations and the ones made by you for the others.
 -   **[Approve a reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/approve-res-req.md)**  
-Review employee reservations raised using [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] and approve or reject them.
+Review employee reservations raised using Workplace Reservation Management and approve or reject them.
 -   **[Print workplace reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/print-workplace-reservations.md)**  
 Using the Reservation Overview, workplace managers and reservation desk executives can print the reservations created and scheduled for a location.
 -   **[Manage and configure reservation waitlist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/subscribe-waitlist-overview.md)**  
@@ -39,8 +39,3 @@ A reservation waitlist lets employees queue for a preferred space, duration, and
 
 **Parent Topic:**[Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[event-planner|Event Planner]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

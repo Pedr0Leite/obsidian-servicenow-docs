@@ -18,7 +18,7 @@ If a work order contains multiple tasks, you can create dependencies between the
 
 ## Before you begin
 
-Role required: wm\_qualifier or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_qualifier or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 Activate the Field Service Task Dependency \(com.snc.fsm\_task\_dependency\) plugin to optionally define advanced task dependencies among work order tasks from different or same work order.
 
@@ -163,6 +163,3 @@ To set up dependencies:
 
 With this work order tasks dependency, the system requires the "Install Server" task to be completed before the "Configure Server" task can begin and start the "Administer Server" task after the configuration is complete.
 
-## Related
-
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]

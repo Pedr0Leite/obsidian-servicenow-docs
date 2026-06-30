@@ -14,7 +14,7 @@ breadcrumb: [Security Auditable Fields, Identity and Access Audit, Identity]
 
 # Configuring Tables and Fields
 
-Configure tables and fields for [[identity-audit|Identity and Access Audit]].
+Configure tables and fields for Identity and Access Audit.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: security\_admin
 
 You must elevate your role to Security Admin to configure tables and fields for Identity and Access Audit.
 
-The following tables can be configured for [[c_AuditedTables|auditing]]​:
+The following tables can be configured for auditing​:
 
 -   Group \[sys\_user\_group\]​
 -   Role \[sys\_user\_role\]​
--   [[sc-access-control|Access Control]] \[sys\_security\_acl\]​
+-   Access Control \[sys\_security\_acl\]​
 -   User \[sys\_user\]​
 -   Group Role \[sys\_group\_has\_role\]​
 -   User Role \[sys\_user\_has\_role\]​
@@ -52,7 +52,7 @@ The following tables can be configured for [[c_AuditedTables|auditing]]​:
 
     \[Omitted image "configure-tfield-password.png"\] Alt text: Adding password field
 
-    **Note:** The following modifications for the [[security-auditable-fields|security auditable fields]] result in more processing time when doing bulk import:
+    **Note:** The following modifications for the security auditable fields result in more processing time when doing bulk import:
 
     -   Adding more fields from the available field list for audit.
     -   Enabling additional operations such as create, update, or delete.
@@ -66,9 +66,4 @@ The following tables can be configured for [[c_AuditedTables|auditing]]​:
 
     \[Omitted image "confi-fields-result.png"\] Alt text: Detail of the audit
 
-## Related
 
-- [[identity-audit|Identity and Access Audit]]
-- [[c_AuditedTables|Auditing]]
-- [[sc-access-control|Access control]]
-- [[security-auditable-fields|Security Auditable Fields]]

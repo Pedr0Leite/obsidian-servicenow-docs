@@ -148,7 +148,7 @@ Create an AWS CloudFormation Identity Access Manager \(IAM\) user in the managem
 
     The stack name is an identifier that helps you find a particular stack from a list of stacks. A stack name can contain only alphanumeric characters \(case-sensitive\) and hyphens. It must start with an alphabetic character and can't be longer than 128 characters.
 
-7.  In the **User Name** field, enter a [[cam-landing|Cloud Account Management]] service account user name.
+7.  In the **User Name** field, enter a Cloud Account Management service account user name.
 
 8.  Select **Next** to continue.
 
@@ -183,6 +183,3 @@ Create an AWS CloudFormation Identity Access Manager \(IAM\) user in the managem
 
 [Set up suspension of an AWS account using service control policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/configure-suspension-policy.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

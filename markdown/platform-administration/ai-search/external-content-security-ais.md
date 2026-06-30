@@ -14,7 +14,7 @@ breadcrumb: [Indexing and searching external content, Configuring AI Search, AI 
 
 # External content security for AI Search
 
-[[ia-ai-search|AI Search]] preserves user and group security access permissions specified for documents indexed from external sources. You can control access to external content search [[hs-results|results]] by mapping these externally defined users and groups to ServiceNow AI Platform® users.
+AI Search preserves user and group security access permissions specified for documents indexed from external sources. You can control access to external content search results by mapping these externally defined users and groups to ServiceNow AI Platform® users.
 
 For an overview of AI Search content security, see [Content security in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/content-security-ais.md).
 
@@ -73,7 +73,3 @@ AI Search external user mappings enable you to configure externally defined user
 
 **Parent Topic:**[Indexing and searching external content in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/external-content-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

@@ -21,7 +21,7 @@ Resetting the password enables the user to log in to their system and resume the
 -   **[Unlock the user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/unlock-user-account-pr-sow.md)**  
 You can unlock a blocked user to enable them to log in to their system.
 -   **[Password Reset in Service Operations Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/pr-sow-reference.md)**  
-This [[reference-for-itsm-mobile-agent|reference]] topic provides additional information about the lists and forms that you use to configure and administer Password Reset.
+This reference topic provides additional information about the lists and forms that you use to configure and administer Password Reset.
 
 **Parent Topic:**[Managing IT services in your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-services-operations-in-organization.md)
 
@@ -30,7 +30,7 @@ This [[reference-for-itsm-mobile-agent|reference]] topic provides additional inf
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -54,7 +54,3 @@ This [[reference-for-itsm-mobile-agent|reference]] topic provides additional inf
 
 [Universal Task in Service Operations Workspace]()
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_IncidentManagement|Incident Management]]

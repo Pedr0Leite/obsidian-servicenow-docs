@@ -21,7 +21,7 @@ The Australia EA Hotfix 1 release contains fixes to these problems.
     Build tag: glide-australia-02-11-2026\_\_patch0-hotfix1-03-16-2026
 
 
-**Important:** For more information about how to upgrade an instance, see [[upgrade|ServiceNow upgrades]].
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -70,14 +70,8 @@ Refer to the listed KB article for details.
 
 Unless any exceptions are noted, you can safely upgrade to this release version from any of the versions listed below. These prior versions contain PRB fixes that are also included with this release. Be sure to upgrade to the latest listed patch that includes all of the PRB fixes you are interested in.
 
--   [[australia-security-notables|Australia security and notable fixes]]
--   [[australia-all-other-fixes|All other Australia fixes]]
+-   [Australia security and notable fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-security-notables.md)
+-   [All other Australia fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-all-other-fixes.md)
 
-**Parent Topic:**[[available-versions|Available patches and hotfixes]]
+**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/available-versions.md)
 
-## Related
-
-- [[upgrade|ServiceNow upgrades]]
-- [[australia-security-notables|Australia security and notable fixes]]
-- [[australia-all-other-fixes|All other Australia fixes]]
-- [[available-versions|Available patches and hotfixes]]

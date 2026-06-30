@@ -19,7 +19,7 @@ The MID Server web service Event Collector enables you to collect alerts sent fr
 ## Before you begin
 
 -   Deploy and start the MID Server.
--   Configure and start the [[mid-web-server|MID Web Server]].
+-   Configure and start the MID Web Server.
 -   Configure and start the MID Server web service Event Collector.
 
 Role required: evt\_mgmt\_admin
@@ -32,7 +32,7 @@ JSON formatted messages are collected using basic authentication. For details on
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Push connectors**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Push connectors**.
 
 2.  Select the **SAP Solman Transform Script** script.
 
@@ -58,7 +58,3 @@ Create an Remote Function Call \(RFC\) in the SAP Solution Manager and install a
 
 [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]
-- [[c_EM|Event Management]]

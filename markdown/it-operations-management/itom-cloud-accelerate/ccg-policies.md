@@ -14,7 +14,7 @@ breadcrumb: [Using Cloud Configuration Governance, Cloud Configuration Governanc
 
 # Cloud Configuration Governance policies
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] policy defines the non-compliant configurations for a given cloud resource type.
+Cloud Configuration Governance policy defines the non-compliant configurations for a given cloud resource type.
 
 Each Cloud Configuration Governance policy contains the following information:
 
@@ -31,7 +31,7 @@ Cloud Configuration Governance provides several base system policies. You can ei
 -   [Create a policy with Integration Hub flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-create-policy-ih-subflow.md)
 -   [Create a policy through script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-create-policy-through-script.md)
 
-To use the policy, add the policy to a policy set. Each policy set can contain one or more policies. For more information on creating [[aws-policy-set|policy sets]], see [Create policy set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-policy-set.md).
+To use the policy, add the policy to a policy set. Each policy set can contain one or more policies. For more information on creating policy sets, see [Create policy set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/create-ccg-policy-set.md).
 
 <table id="table_gdl_j2v_3sb"><thead><tr><th>
 
@@ -161,7 +161,4 @@ Policy to check if detailed monitoring is enabled for the Azure VM.
 
 -   For more information on base system policies and policy sets, see [AWS policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/aws-policies.md), [Azure policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/azure-policies.md), and [Policy sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/aws-policy-set.md).
 
-## Related
 
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[aws-policy-set|Policy sets]]

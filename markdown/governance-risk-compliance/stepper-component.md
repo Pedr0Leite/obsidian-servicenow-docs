@@ -29,8 +29,5 @@ A typical record moves through progression of these states:
 
 If a record requires further updates and it is rejected by the approver of the record, it is set to the **Returned** state by the application software. When the record owner updates the details of the record, it follows the approval workflow again.
 
-**Parent Topic:**[[using-grc-record-page-template-for-bcm|GRC record page template for BCM records]]
+**Parent Topic:**[GRC record page template for BCM records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-grc-record-page-template-for-bcm.md)
 
-## Related
-
-- [[using-grc-record-page-template-for-bcm|GRC record page template for BCM records]]

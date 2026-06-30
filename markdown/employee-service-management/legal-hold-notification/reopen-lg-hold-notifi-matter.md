@@ -22,7 +22,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -32,7 +32,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 5.  In the legal matter page, select **Reopen**.
 
-6.  In the **Comments** field of the Response matter pop-up window, enter the reason to reopen the [[lg-hold-notif-landing-page|legal hold notification]] matter.
+6.  In the **Comments** field of the Response matter pop-up window, enter the reason to reopen the legal hold notification matter.
 
 7.  Select **OK**.
 
@@ -43,7 +43,3 @@ The closed legal hold notification matter is reopened, and its state changes fro
 
 **Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]

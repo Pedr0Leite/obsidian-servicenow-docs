@@ -28,7 +28,7 @@ The RCM IT Admin schedules the Pull RSS Feed to Regulatory Change flow to run on
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **RSS Feeds**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **RSS Feeds**.
 
 2.  To set up the RSS feed, select **Feed setup**.
 
@@ -43,6 +43,3 @@ The RCM IT Admin schedules the Pull RSS Feed to Regulatory Change flow to run on
 
 Upon successful activation of the flow, the system starts scanning the Regulatory Horizon to fetch the latest regulatory updates from the regulator websites.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

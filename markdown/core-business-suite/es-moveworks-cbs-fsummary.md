@@ -32,8 +32,5 @@ Navigation sections available on the Employee Slate for Moveworks Configuration 
 |Documentation|Parent section for reference materials. Contains the Documentation and references subsection.|
 |Documentation and references|Links to supporting documentation and reference materials for the Employee Slate for Moveworks configuration.|
 
-**Parent Topic:**[[cbs-reference-parent|Core Business Suite reference]]
+**Parent Topic:**[Core Business Suite reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 
-## Related
-
-- [[cbs-reference-parent|Core Business Suite reference]]

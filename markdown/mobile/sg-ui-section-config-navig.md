@@ -12,7 +12,7 @@ breadcrumb: [Launcher screen UI sections, Launcher screens, Mobile app component
 
 # Configure an icon UI section
 
-Use the icon UI section type to navigate to screens, [[sg-mobile-applet-launcher|launcher screens]], and functions.
+Use the icon UI section type to navigate to screens, launcher screens, and functions.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **All mobile records** from the menu.
 
@@ -122,7 +122,7 @@ Access control type
 
 </td><td>
 
-Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [[roles-user-criteria|User roles and user criteria permissions for mobile apps]].
+Option to assign either user role permissions or user criteria permissions for this launcher screen. For more information, see [User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/roles-user-criteria.md).
 
 </td></tr><tr><td>
 
@@ -183,15 +183,7 @@ Number of columns displayed in each icon section for larger devices like tablets
 
 ## What to do next
 
-After creating icon UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [[ui-section-to-launcher-screen|Add a UI section to the launcher screen]].
+After creating icon UI sections, you must associate the UI sections to a launcher screen so they're displayed. For more information, see [Add a UI section to the launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/ui-section-to-launcher-screen.md).
 
-To personalize your icon sections, see [[add-image-icon-section|Adding images to an icon section]].
+To personalize your icon sections, see [Adding images to an icon section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-image-icon-section.md).
 
-## Related
-
-- [[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
-- [[ui-section-to-launcher-screen|Add a UI section to the launcher screen]]
-- [[add-image-icon-section|Adding images to an icon section]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

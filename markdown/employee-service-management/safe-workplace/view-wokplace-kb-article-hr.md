@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-services-portal-hr|Workplace Service Portal]]** &gt; **Workplace Service Portal Home**.
+1.  Navigate to **All** &gt; **Workplace Service Portal** &gt; **Workplace Service Portal Home**.
 
 2.  Open the knowledge base page.
 
@@ -40,6 +40,3 @@ Role required: sn\_wsd\_core.workplace\_user
     -   If you found the article useful, Select **Yes**. If not, select **No**.
     -   Leave a comment about the article and select **Submit**. You can also attach files.
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]

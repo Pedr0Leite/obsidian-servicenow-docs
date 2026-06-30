@@ -15,7 +15,7 @@ breadcrumb: [Interaction management in Accounts Payable Operations, Use, Account
 
 # Associate an interaction record in Accounts Payable Operations
 
-Associate an interaction record to an existing invoice case in [[purch-order-mgmt-ws|Source-to-Pay workspace]] to track related communications and case activity in one place.
+Associate an interaction record to an existing invoice case in Source-to-Pay workspace to track related communications and case activity in one place.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Interaction management in Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/interaction-record.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

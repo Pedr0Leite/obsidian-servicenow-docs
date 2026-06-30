@@ -14,15 +14,15 @@ breadcrumb: [Offboarding knowledge transfer plan generation agentic workflow, Us
 
 # Generate offboarding knowledge transfer plans using Now Assist
 
-Managers working for organizations using the [[offboarding-knowledge-x-agentic-wf|offboarding knowledge transfer plan generation agentic workflow]] can use Now Assist in Virtual Agent to initiate a knowledge transfer request for departing employees. Once the manager confirms the request, an AI agent automatically discovers and categorizes the employee's documents into a structured knowledge transfer summary.
+Managers working for organizations using the offboarding knowledge transfer plan generation agentic workflow can use Now Assist in Virtual Agent to initiate a knowledge transfer request for departing employees. Once the manager confirms the request, an AI agent automatically discovers and categorizes the employee's documents into a structured knowledge transfer summary.
 
 ## Before you begin
 
 The following plugins must be installed and configured:
 
--   [[hr-service-delivery|HR Service Delivery]] AI agent collection \(sn\_hr\_ai\_agents\)
+-   HR Service Delivery AI agent collection \(sn\_hr\_ai\_agents\)
 -   Now Assist for HRSD \(sn\_hr\_gen\_ai\)
--   [[jny-dsgnr-landing-page-1|Journey designer]] \(sn\_jny\)
+-   Journey designer \(sn\_jny\)
 -   AI Search \(glide.ais\)
 -    \(sn\_ext\_conn\)
 -    SharePoint Online \(sn\_ext\_conn\_spo\)
@@ -31,8 +31,8 @@ The following plugins must be installed and configured:
 
 In the journey configuration for which you want to enable agentic offboarding, the following fields must be configured:
 
--   The **[[journey-accelerator-1|Journey accelerator]] plan type** field must be set to **Agentic AI Offboarding Plan Type**.
--   The **LE [[activity-lxp|activity]] sets can be personalized** check box must be selected.
+-   The **Journey accelerator plan type** field must be set to **Agentic AI Offboarding Plan Type**.
+-   The **LE activity sets can be personalized** check box must be selected.
 
 The configuration tasks in the following topics must be completed:
 
@@ -46,7 +46,7 @@ Role required: manager
 
 ## About this task
 
-When an offboarding journey is created with the **Journey accelerator plan type** field set to **Agentic AI Offboarding Plan Type**, a manager receives a notification from Now Assist in Virtual Agent after they access the [[employee-center-landing-page|Employee Center]]. The manager is prompted to initiate a knowledge transfer for a departing employee whose offboarding journey has begun.
+When an offboarding journey is created with the **Journey accelerator plan type** field set to **Agentic AI Offboarding Plan Type**, a manager receives a notification from Now Assist in Virtual Agent after they access the Employee Center. The manager is prompted to initiate a knowledge transfer for a departing employee whose offboarding journey has begun.
 
 ## Procedure
 
@@ -87,11 +87,3 @@ The knowledge transfer request is completed. The AI agent discovers and categori
 
 The departing employee must review and approve the knowledge transfer summary before it’s shared with the manager. For more information about this process, see [Review offboarding knowledge transfer summaries using Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/review-knowledge-xfer-na.md).
 
-## Related
-
-- [[offboarding-knowledge-x-agentic-wf|Offboarding knowledge transfer plan generation agentic workflow]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

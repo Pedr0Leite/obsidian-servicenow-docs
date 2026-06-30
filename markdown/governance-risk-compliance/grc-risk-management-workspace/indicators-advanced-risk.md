@@ -70,7 +70,7 @@ The Advanced Risk plugin includes the following indicators:
 
     Average inherent risk score per quarter.
 
--   **[[risk-assessments|Risk Assessments]] \(Open\)**
+-   **Risk Assessments \(Open\)**
 
     Open risk assessments.
 
@@ -193,6 +193,3 @@ The Advanced Risk plugin includes the following indicators:
 
 **Parent Topic:**[Operational Risk Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/operational-risk-dashboard.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]

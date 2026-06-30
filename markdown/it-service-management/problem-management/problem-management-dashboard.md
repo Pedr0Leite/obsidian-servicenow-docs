@@ -14,11 +14,11 @@ breadcrumb: [Legacy: Problem Management Platform Analytics Solutions, Problem Ma
 
 # Legacy: Problem Management dashboard
 
-Use this dashboard to gain a high-level view across the [[c_ProblemManagementProcess|problem management process]], from opening to closing.
+Use this dashboard to gain a high-level view across the problem management process, from opening to closing.
 
 **Important:**
 
-Starting in Xanadu release, the Problem management dashboard is deprecated. Users can use [[problem|Problem dashboard]] to view, and track the open problems.
+Starting in Xanadu release, the Problem management dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem.md) to view, and track the open problems.
 
 \[Omitted image "problem-mgmt-overview.png"\] Alt text: Problem Overview tab of the Problem Management dashboard
 
@@ -74,7 +74,3 @@ The following indicators are not shown directly on the dashboard but are used in
 
 Priority.
 
-## Related
-
-- [[problem|Problem dashboard]]
-- [[c_ProblemManagementProcess|Problem Management process]]

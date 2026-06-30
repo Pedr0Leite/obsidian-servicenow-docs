@@ -30,7 +30,7 @@ You can associate one record with multiple different records. For example, you c
 
 2.  Select the demand for which you want to associate one RIDAC entry to another.
 
-3.  In the [[demand-form|Demand form]] related list, select the RIDAC record.
+3.  In the Demand form related list, select the RIDAC record.
 
 4.  On the form, select the **Associate RIDAC** related link.
 
@@ -47,6 +47,3 @@ You can associate one record with multiple different records. For example, you c
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[demand-form|Demand form]]

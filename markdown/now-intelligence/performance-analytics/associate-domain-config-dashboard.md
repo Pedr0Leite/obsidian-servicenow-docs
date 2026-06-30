@@ -24,7 +24,7 @@ The Performance Analytics - Domain Support plugin \(com.snc.pa.domain\_support\)
 
 ## About this task
 
-**Important:** This procedure applies only to Core UI dashboards. On a [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard, create a domain filter that uses a Performance Analytics domain configuration. For more information, see [[create-domain-filter|Create a domain filter]].
+**Important:** This procedure applies only to Core UI dashboards. On a Platform Analytics dashboard, create a domain filter that uses a Performance Analytics domain configuration. For more information, see [Create a domain filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-domain-filter.md).
 
 A user must have visibility into all domains in the domain configuration to view domain-specific scores on a dashboard.
 
@@ -45,19 +45,13 @@ A user must have visibility into all domains in the domain configuration to view
 
 ## Result
 
-A user who has visibility to all the domains in the domain configuration, such as an admin, can select a domain. The reports and [[widgets|widgets]] on the dashboard show only scores and values from that domain.
+A user who has visibility to all the domains in the domain configuration, such as an admin, can select a domain. The reports and widgets on the dashboard show only scores and values from that domain.
 
 \[Omitted image "domain-config-dashboard.png"\] Alt text: Incident Management dashboard configured with the ACME groups and Cisco groups domain configurations
 
 ## What to do next
 
-If you open the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] from a dashboard with a domain picker, you see only the scores collected for the selected domain. Any target, threshold, or comment you add is automatically associated with the current domain. The **Edit scores** option is not available.
+If you open the Analytics Hub from a dashboard with a domain picker, you see only the scores collected for the selected domain. Any target, threshold, or comment you add is automatically associated with the current domain. The **Edit scores** option is not available.
 
 **Parent Topic:**[Grouping domains in Performance Analytics domain configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-domain-separation-msp.md)
 
-## Related
-
-- [[create-domain-filter|Create a domain filter]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

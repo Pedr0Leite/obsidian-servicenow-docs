@@ -15,13 +15,13 @@ breadcrumb: [Now Assist for CSM, Customer Service Management]
 
 # Exploring Now Assist for Customer Service Management \(CSM\)
 
-With the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application, your agents can use generative AI to summarize the customer chat conversations and case details to get the context of the case. They can also generate the case resolution notes to share with the other agents and wrap up cases faster.
+With the Now Assist for Customer Service Management \(CSM\) application, your agents can use generative AI to summarize the customer chat conversations and case details to get the context of the case. They can also generate the case resolution notes to share with the other agents and wrap up cases faster.
 
 ## Now Assist for Customer Service Management \(CSM\) overview
 
 The following generative AI capabilities are available for an agent:
 
--   An interaction chat summary provides the context about the chat conversation between your agents and customers at different [[gamification-components-points|points]] of the handoff, such as when a Virtual Agent chat history is handed off to a live agent, or when one live agent hands off a chat history with a customer to another live agent.
+-   An interaction chat summary provides the context about the chat conversation between your agents and customers at different points of the handoff, such as when a Virtual Agent chat history is handed off to a live agent, or when one live agent hands off a chat history with a customer to another live agent.
 -   A case summary enables an agent to gather the case context on long-running or complex cases. Because these cases can contain a lot of information, including the conversations with the customer or other agents, an agent can generate a summary to gain understanding faster.
 -   The case resolution notes can assist an agent to help wrap up cases faster and provide the context about the case resolution to the other agents who might encounter similar issues.
 -   A call summary assists an agent with obtaining the key details that were discussed during the conversations between the live agents and customers. It provides a high-level overview of the conversation in a clear format.
@@ -29,21 +29,21 @@ The following generative AI capabilities are available for an agent:
 -   Sidebar summary captures discussions between agents, requesters, and experts, and can be posted to case notes for further troubleshooting.
 -   Chat recommendation generates reply suggestions for agents using the Now Assist context menu.
 -   Email response generates reply suggestions for agents from existing or new emails using the Now Assist context menu.
--   [[case-sentiment-analysis|Sentiment analysis]] helps reduce escalated cases by providing agents with the most current sentiment on a case, based on customer interactions and the latest trends. It also offers insights into why the sentiment is what it is today.
--   Suggested steps generation resolves cases and boosts agent productivity by automatically outlining the next best actions for unfamiliar cases in the [[configure-nba|Recommended Actions]] tab.
+-   Sentiment analysis helps reduce escalated cases by providing agents with the most current sentiment on a case, based on customer interactions and the latest trends. It also offers insights into why the sentiment is what it is today.
+-   Suggested steps generation resolves cases and boosts agent productivity by automatically outlining the next best actions for unfamiliar cases in the Recommended Actions tab.
 -   Sentiment analysis on an account uses filters and sorting dashboards to track sentiment, providing valuable insights and reducing escalated cases.
 -   Conversational subflows and actions in the Now Assist panel use natural language to trigger subflows or actions, improving agent productivity and allowing them to complete tasks efficiently within the panel.
 
--   The Portal [[r_CustomerServiceCaseForm|case form]] guides requesters through a self-service flow using Genius Results, helping them find solutions and reducing the number of cases created.
--   [[quality-assurance-management|Automated quality assurance]] dashboard displays detailed agent performance metrics and quality assurance scoring data, accessible from the [[csm-workspaces-configure|CSM Configurable Workspace]].
--   [[c_OnScreenAlerts|Special handling notes]] summarization skill condenses lengthy or multiple special handling notes into a brief, actionable summary. Agents view the summary in the Case Insights section to understand customer-specific handling requirements before engaging.
+-   The Portal case form guides requesters through a self-service flow using Genius Results, helping them find solutions and reducing the number of cases created.
+-   Automated quality assurance dashboard displays detailed agent performance metrics and quality assurance scoring data, accessible from the CSM Configurable Workspace.
+-   Special handling notes summarization skill condenses lengthy or multiple special handling notes into a brief, actionable summary. Agents view the summary in the Case Insights section to understand customer-specific handling requirements before engaging.
 -   Customer summarization skill generates a concise, consolidated summary of a customer for the agent to understand the details before engaging.
 
 ## Now Assist for Customer Service Management \(CSM\) skills
 
 The Now Assist for CSM application includes the generative AI skills that enable your agents to understand the chat and case context so that they can propose resolutions to the customer more quickly.
 
--   **[[csm-config-ws-chat-summary|Chat summarization]]**
+-   **Chat summarization**
 
     Provides an agent with a summary of a customer's Virtual Agent chat history, live agent chat history, and the interaction history. Agents can view or create the following summaries:
 
@@ -74,7 +74,7 @@ The Now Assist for CSM application includes the generative AI skills that enable
 
     Provides an agent with a summary of a customer service case, including the issue and the actions taken. An agent can generate a summary of a case to understand the case context, refresh the summary so that it includes the latest updates to the case, and post the summary to the case work notes.
 
-    The case summarization skill generates a case summary and displays it above the [[csm-config-ws-activity-stream|activity stream]]. The summary includes the information that the agent enters in the following case record fields:
+    The case summarization skill generates a case summary and displays it above the activity stream. The summary includes the information that the agent enters in the following case record fields:
 
     -   Short description
     -   Description
@@ -140,7 +140,7 @@ Use natural language to trigger subflows or actions, enhancing agent productivit
 
 ## Now Assist in Portal case form
 
-Guide requesters through a self-service flow using Genius Results to find solutions and reduce the number of cases created. For more info, see [[using-ai-search-with-q-a-within-the-portal-form|Using Now Assist in portal case form]].
+Guide requesters through a self-service flow using Genius Results to find solutions and reduce the number of cases created. For more info, see [Using Now Assist in portal case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-ai-search-with-q-a-within-the-portal-form.md).
 
 ## Suggested steps generation
 
@@ -202,16 +202,3 @@ Get a quick overview of the important information that is related to the Now Ass
 
 [Exploring Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-now-assist-platform.md)
 
-## Related
-
-- [[using-ai-search-with-q-a-within-the-portal-form|Using Now Assist in portal case form]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[gamification-components-points|Points]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[configure-nba|Recommended Actions]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[quality-assurance-management|Automated quality assurance]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[csm-config-ws-activity-stream|Activity stream]]

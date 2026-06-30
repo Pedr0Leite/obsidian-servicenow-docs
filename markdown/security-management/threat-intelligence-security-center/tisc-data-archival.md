@@ -14,7 +14,7 @@ breadcrumb: [TISC Data archival and cleanup, Use, Threat Intelligence Security C
 
 # TISC Data Archival
 
-The [[tisc-landing-page|Threat Intelligence Security Center]] is provisioned with archival rules in the base system for the TISC table. The related records are also added in the base system to the TISC archive rule.
+The Threat Intelligence Security Center is provisioned with archival rules in the base system for the TISC table. The related records are also added in the base system to the TISC archive rule.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ Role required: admin
     |Archive Infrastructure|sn\_sec\_tisc\_infrastructure|
     |Archive Intrusion Set|sn\_sec\_tisc\_intrusion\_set|
     |Archive Malware|sn\_sec\_tisc\_malware|
-    |Archive [[threat-intelligence-malware|Malware]] Analysis|sn\_sec\_tisc\_malware\_analysis|
+    |Archive Malware Analysis|sn\_sec\_tisc\_malware\_analysis|
     |Archive Marking Definition|sn\_sec\_tisc\_marking\_definition|
     |Archive Object Sighting|sn\_sec\_tisc\_object\_sighting|
     |Archive Observed Data|sn\_sec\_tisc\_observed\_data|
@@ -93,7 +93,4 @@ Role required: admin
 
 5.  Update the rule if required.
 
-## Related
 
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intelligence-malware|Malware]]

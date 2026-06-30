@@ -15,11 +15,11 @@ breadcrumb: [Install Kubernetes Visibility Agent \(KVA\) Informer, Configuring K
 
 # Override Informer parameters from the Instance
 
-Control [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]] Informer execution parameters from the ServiceNow Instance to avoid dependence on your Kubernetes admin.
+Control Kubernetes Visibility Agent Informer execution parameters from the ServiceNow Instance to avoid dependence on your Kubernetes admin.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## About this task
 
@@ -44,7 +44,7 @@ You can update the following parameters from the Instance:
 |CLUSTER\_RESOURCE\_ID|No|
 |CLUSTER\_NAME|No|
 
-The **CREATE\_CONTAINERS** parameter determines which Docker containers are deployed to the instance. It is managed automatically and is not exposed in the Configuration Parameters list. A new system property, **sn\_itom\_pattern.bring\_discovery\_container**, which is available when the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns plugin is installed, governs **CREATE\_CONTAINERS** automatically. When **sn\_itom\_pattern.bring\_discovery\_container** is set to `true` \(default\), **CREATE\_CONTAINERS** is set to `non-init-containers`. When set to `false`, **CREATE\_CONTAINERS** is set to `none` and no Docker containers are brought to the instance. Each change triggers the ECC Queue sync to propagate the updated value with the Informer.
+The **CREATE\_CONTAINERS** parameter determines which Docker containers are deployed to the instance. It is managed automatically and is not exposed in the Configuration Parameters list. A new system property, **sn\_itom\_pattern.bring\_discovery\_container**, which is available when the Discovery and Service Mapping Patterns plugin is installed, governs **CREATE\_CONTAINERS** automatically. When **sn\_itom\_pattern.bring\_discovery\_container** is set to `true` \(default\), **CREATE\_CONTAINERS** is set to `non-init-containers`. When set to `false`, **CREATE\_CONTAINERS** is set to `none` and no Docker containers are brought to the instance. Each change triggers the ECC Queue sync to propagate the updated value with the Informer.
 
 For information about the purpose of each parameter, see the [Kubernetes Visibility Agent \(formerly CNO for Visibility\) Advanced Configuration Options \[KB1648891\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1648891) article in the Now Support Knowledge Base.
 
@@ -59,8 +59,3 @@ For information about the purpose of each parameter, see the [Kubernetes Visibil
 
 **Parent Topic:**[Install Kubernetes Visibility Agent \(KVA\) Informer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cnov-deploy-install.md)
 
-## Related
-
-- [[acc-kubernetes-visibility-landing-page|Kubernetes Visibility Agent]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

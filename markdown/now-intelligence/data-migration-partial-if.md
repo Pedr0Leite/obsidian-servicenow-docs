@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Perform a partial migration of interactive filters
 
-Migrate a selection of your Core UI [[c_HomepagePublishers|interactive filters]] to [[c_performanceAnalyticsAndReporting|Platform Analytics]].
+Migrate a selection of your Core UI interactive filters to Platform Analytics.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ You cannot use update sets to move the migrated material from a non-production i
 
     The `sys_ui_hp_publisher` list opens.
 
-2.  Select the filters you want to migrate to [[par-workspace|Platform Analytics experience]].
+2.  Select the filters you want to migrate to Platform Analytics experience.
 
 3.  From the **Action on selected rows** menu, choose **Migrate filter**.
 
@@ -42,8 +42,3 @@ The selected filters are migrated to Platform Analytics experience interactive f
 
 Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Next Experience Artifacts** &gt; **Filters** to review the migrated filters.
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]

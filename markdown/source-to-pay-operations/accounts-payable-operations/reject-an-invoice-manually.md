@@ -53,12 +53,8 @@ After you confirm the rejection, the system performs the following actions:
 
 -   Cancels the exception.
 -   Cancels the invoice and closes the invoice processing case with the appropriate terminal state.
--   Populates the rejection reason and comments in the invoice audit history and [[activity-stream|activity stream]].
--   Sends an email notification to the [[supplier|supplier]] with the rejection comments.
+-   Populates the rejection reason and comments in the invoice audit history and activity stream.
+-   Sends an email notification to the supplier with the rejection comments.
 
 **Parent Topic:**[Create an invoice line manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line.md)
 
-## Related
-
-- [[activity-stream|Activity stream]]
-- [[supplier|Supplier]]

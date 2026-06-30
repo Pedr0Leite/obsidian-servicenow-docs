@@ -13,7 +13,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Perform a partial migration of dashboards
 
-Migrate a selection of your existing dashboards, reports, [[c_HomepagePublishers|interactive filters]], and [[c_Widgets|Performance Analytics widgets]] to [[c_performanceAnalyticsAndReporting|Platform Analytics]]. Migration works the same whether you choose to migrate some or all of your content. However, you can move some of your content to evaluate the process or when you have a large number of dashboards and want to migrate in segments.
+Migrate a selection of your existing dashboards, reports, interactive filters, and Performance Analytics widgets to Platform Analytics. Migration works the same whether you choose to migrate some or all of your content. However, you can move some of your content to evaluate the process or when you have a large number of dashboards and want to migrate in segments.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Run and test the migration first on a single, non-production instance. After you
 
 You cannot use update sets to move the migrated material from a non-production instance to a production instance. Test the migration on the non-production instance and then use Migration Center functionality to migrate the production instance.
 
-If content on a dashboard is used in only one dashboard, it will be available only on that dashboard after migration. If it is used in more than one dashboard, that content is migrated to the [[par-workspace|Platform Analytics experience]] library.
+If content on a dashboard is used in only one dashboard, it will be available only on that dashboard after migration. If it is used in more than one dashboard, that content is migrated to the Platform Analytics experience library.
 
 If you change a Core UI dashboard after migration and migrate it again, the changed dashboard overwrites the originally migrated dashboard.
 
@@ -62,12 +62,5 @@ Reports associated with chart to chart drilldown in migrated dashboards are save
 
 ## What to do next
 
-Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]].
+Verify that the migrated dashboards have all the features of the Core UI dashboards, either as fully migrated content or as iframed content. For more information, see [Content not migrated or migrated in compatibility mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-mig-unmigrated-content.md).
 
-## Related
-
-- [[data-mig-unmigrated-content|Content not migrated or migrated in compatibility mode]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]

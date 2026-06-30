@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 # Customizing your map configuration for Azure DevOps integration
 
-Customize the table, field, or state map configuration between Azure DevOps and [[agile-landing-page|Agile Development 2.0]] according to your organizational preferences.
+Customize the table, field, or state map configuration between Azure DevOps and Agile Development 2.0 according to your organizational preferences.
 
 -   Any modifications that you do to the existing map configuration of the process types would apply to all the Azure DevOps projects that use this process map.
 -   Only fields of type number, select, text, date, identity, date, date time, and reference are supported for custom map configuration.
@@ -34,6 +34,3 @@ Enable Azure DevOps project identifier reference fields for an Agile Development
 
 **Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/setting-up-agile-azure-integration.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Export to PowerPoint for Strategic Portfolio Management,
 
 # Manage Related Tables and Scripted Elements forms
 
-Manage the **Related Tables** and **Scripted Elements** components that are required to [[create-ppt-template|create a Microsoft PowerPoint template]].
+Manage the **Related Tables** and **Scripted Elements** components that are required to create a Microsoft PowerPoint template.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sn\_ppt\_export.ppt\_admin
 
 You can add a custom remote table or a child from the parent table.1.  In the **Related Tables** related list, select **New**.
 
-On the [[related-tables-form|Related tables form]], fill the fields. For a description of the field values, see [Related Tables form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/related-tables-form.md).
+On the Related tables form, fill the fields. For a description of the field values, see [Related Tables form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/related-tables-form.md).
 
 2.  To add a custom remote table:
     1.  [Create a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-remote-table.md).
@@ -54,7 +54,7 @@ The selected table and its relation to the parent table is displayed in the Rela
 </td><td>
 
 1.  In the **Scripted Elements** component, select **New**.
-2.  On [[scripted-elements-form|Scripted Elements form]], fill the fields. For a description of the field values, see [Scripted Elements form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/scripted-elements-form.md).
+2.  On Scripted Elements form, fill the fields. For a description of the field values, see [Scripted Elements form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/scripted-elements-form.md).
 3.  Select **Submit**.
 
 
@@ -83,8 +83,3 @@ The selected table and its relation to the parent table is displayed in the Rela
 
 **Parent Topic:**[Configuring Export to PowerPoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/export-to-powerpoint-for-application-portfolio-management/configure-export-to-ppt.md)
 
-## Related
-
-- [[create-ppt-template|Create a Microsoft PowerPoint template]]
-- [[related-tables-form|Related Tables form]]
-- [[scripted-elements-form|Scripted Elements form]]

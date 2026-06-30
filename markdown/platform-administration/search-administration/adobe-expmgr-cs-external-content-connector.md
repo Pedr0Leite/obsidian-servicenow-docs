@@ -15,7 +15,7 @@ breadcrumb: [Configure, External Content Connectors, Search administration, Conf
 
 # Adobe Experience Manager as a Cloud Service external content connector
 
-The Adobe Experience Manager as a Cloud Service external content connector retrieves [[ia-assets|assets]] from nodes in your Adobe Experience Manager as a Cloud Service source system and makes their content and metadata searchable in [[ia-ai-search|AI Search]] applications.
+The Adobe Experience Manager as a Cloud Service external content connector retrieves assets from nodes in your Adobe Experience Manager as a Cloud Service source system and makes their content and metadata searchable in AI Search applications.
 
 Connector administrators can run or schedule content crawls to update searchable content and metadata from your source system. Content crawls feed their data to AI Search for indexing.
 
@@ -39,7 +39,3 @@ Specify the nodes you want your Adobe Experience Manager as a Cloud Service exte
 
 [Create a content crawl for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/create-content-crawl-external-content-connector.md)
 
-## Related
-
-- [[ia-assets|Assets]]
-- [[ia-ai-search|AI Search]]

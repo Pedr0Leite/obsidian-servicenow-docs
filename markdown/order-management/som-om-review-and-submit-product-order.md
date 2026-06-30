@@ -137,7 +137,7 @@ Total amount
 Aggregate cost of all charges, both, one-time and recurring, associated with the entire order. It is a calculated field that reflects the final payable amount after applying quantity, pricing, and adjustments.
 
 </td></tr></tbody>
-</table>    **Note:** You can't manually adjust the amounts that appear in the pricing [[fields|fields]]. They only change if you change the characteristic values for the order line items.
+</table>    **Note:** You can't manually adjust the amounts that appear in the pricing fields. They only change if you change the characteristic values for the order line items.
 
 7.  To update the configuration or quantity for an order line item, select the Edit icon \[Omitted image "pencil-outline-24.svg"\] Alt text:.
 
@@ -156,21 +156,14 @@ Aggregate cost of all charges, both, one-time and recurring, associated with the
 
 ## What to do next
 
-For complex orders, capture technical details. For more information, see [[capture-order-enrichment-details|Capture order enrichment details for complex fulfillment]].
+For complex orders, capture technical details. For more information, see [Capture order enrichment details for complex fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/capture-order-enrichment-details.md).
 
-If order enrichment tasks don't apply, move to order approval. For more information, see [[approving-rejecting-orders-som|Approving or rejecting orders]].
+If order enrichment tasks don't apply, move to order approval. For more information, see [Approving or rejecting orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/approving-rejecting-orders-som.md).
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[capture-order-enrichment-details|Capture order enrichment details for complex fulfillment]]
-- [[approving-rejecting-orders-som|Approving or rejecting orders]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

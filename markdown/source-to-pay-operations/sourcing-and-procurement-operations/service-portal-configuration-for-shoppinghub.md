@@ -24,11 +24,11 @@ You can perform these configurations:
 -   [Verify and update search sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-update-search-sources.md)
 
 -   **[Add a Shopping Hub Navbar link to your service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-shoppinghub-navbar-link.md)**  
-You can [[add-shoppinghub-navbar-link|add a Shopping Hub Navbar link to your service portal]] header menu so that shoppers can navigate from the service portal to the [[shopping-hub-overview|Shopping Hub]] portal with a single select.
+You can add a Shopping Hub Navbar link to your service portal header menu so that shoppers can navigate from the service portal to the Shopping Hub portal with a single select.
 -   **[Add a Shopping Hub icon link to your service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-shoppinghub-icon-link.md)**  
-You can [[add-shoppinghub-icon-link|add a Shopping Hub icon link to your service portal]] icons menu so that shoppers can navigate from the service portal to the Shopping Hub portal with a single select.
+You can add a Shopping Hub icon link to your service portal icons menu so that shoppers can navigate from the service portal to the Shopping Hub portal with a single select.
 -   **[Add a Shopping Hub widget to your service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/add-shoppinghub-widget-service-portal.md)**  
-You can [[add-shoppinghub-widget-service-portal|add a Shopping Hub widget to your service portal]] so that shoppers can view the purchasing to-dos assigned to them from the service portal before getting redirected to work on them in the Shopping Hub portal.
+You can add a Shopping Hub widget to your service portal so that shoppers can view the purchasing to-dos assigned to them from the service portal before getting redirected to work on them in the Shopping Hub portal.
 -   **[Verify and update search sources on your service portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-update-search-sources.md)**  
 You can verify the search sources on your service portal and update them, as required, so that the required data is queried seamlessly from the respective instance tables.
 
@@ -55,7 +55,7 @@ You can verify the search sources on your service portal and update them, as req
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
 [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
@@ -69,13 +69,5 @@ You can verify the search sources on your service portal and update them, as req
 
 [Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-[[my-purchases|My purchases on Shopping Hub]]
+[My purchases on Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/my-purchases.md)
 
-## Related
-
-- [[my-purchases|My purchases on Shopping Hub]]
-- [[add-shoppinghub-navbar-link|Add a Shopping Hub Navbar link to your service portal]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[add-shoppinghub-icon-link|Add a Shopping Hub icon link to your service portal]]
-- [[add-shoppinghub-widget-service-portal|Add a Shopping Hub widget to your service portal]]
-- [[universal-request|Universal Request]]

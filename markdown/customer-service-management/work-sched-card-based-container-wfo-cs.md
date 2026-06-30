@@ -52,8 +52,5 @@ For more information about the Card Base Container, see the [Components](https:/
 
 [Configure a Work scheduler card heading component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/work-sched-card-based-header.md)
 
-**Parent Topic:**[[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]
+**Parent Topic:**[Create a Work scheduler card using the Next Experience UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-workscheduler-card-wfo-cs.md)
 
-## Related
-
-- [[create-workscheduler-card-wfo-cs|Create a Work scheduler card using the Next Experience UI Builder]]

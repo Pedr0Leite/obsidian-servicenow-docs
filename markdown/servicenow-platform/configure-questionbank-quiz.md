@@ -20,7 +20,7 @@ Role required: admin or assessment\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quizzes**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quizzes**.
 
 2.  Open a quiz definition.
 
@@ -38,7 +38,7 @@ Role required: admin or assessment\_admin
 
     1.  In the Metric Categories related list, open a metric category definition.
 
-    2.  In the [[c_AssessmentMetrics|Assessment Metrics]] related list, click **New Metric from Bank**.
+    2.  In the Assessment Metrics related list, click **New Metric from Bank**.
 
         The New Metric from Bank dialog box is displayed with a list of questions available in the question bank.
 
@@ -68,7 +68,7 @@ Role required: admin or assessment\_admin
 
         A copy of the metric and the corresponding metric definitions is created for the selected category in the question bank.
 
-7.  To add a metric category or metric to a quiz from the question bank in [[c_QuizDesigner|Quiz Designer]], perform the following steps.
+7.  To add a metric category or metric to a quiz from the question bank in Quiz Designer, perform the following steps.
 
     1.  Open the quiz in Quiz Designer.
 
@@ -83,11 +83,5 @@ Role required: admin or assessment\_admin
     -   When you drag and drop a parent metric, all dependent questions are also added to the metric category.
     -   When you drag and drop a child metric, only the child question is added to the metric category.
 
-**Parent Topic:**[[add-questionbank-quiz|Add a metric category and metric in the question bank for quizzes]]
+**Parent Topic:**[Add a metric category and metric in the question bank for quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/add-questionbank-quiz.md)
 
-## Related
-
-- [[add-questionbank-quiz|Add a metric category and metric in the question bank for quizzes]]
-- [[c_Quizzes|Quizzes]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[c_QuizDesigner|Quiz designer]]

@@ -14,7 +14,7 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Share knowledge in a Connect Support conversation
 
-The support view of the [[c_CollaborationWorkspace|Connect workspace]] has a built-in knowledge tool that makes it easy to search for knowledge articles and share them in a conversation.
+The support view of the Connect workspace has a built-in knowledge tool that makes it easy to search for knowledge articles and share them in a conversation.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Use the knowledge tool to research user questions and provide solutions quickly 
 
 1.  Open a support conversation in the Connect workspace.
 
-    The knowledge tool is not available in [[c_Connect|Connect]] mini windows.
+    The knowledge tool is not available in Connect mini windows.
 
 2.  In the conversation tools area to the right of the conversation pane, click the knowledge base tab, which is represented by an open book icon.
 
@@ -44,7 +44,4 @@ Use the knowledge tool to research user questions and provide solutions quickly 
 
 4.  To share an article in the conversation, drag a knowledge article link to the conversation pane and drop it anywhere in the drop zone that appears.
 
-## Related
 
-- [[c_CollaborationWorkspace|Connect workspace]]
-- [[c_Connect|Connect]]

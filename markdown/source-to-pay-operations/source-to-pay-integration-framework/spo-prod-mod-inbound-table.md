@@ -58,7 +58,7 @@ Description of the product model for the buyer.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -66,7 +66,7 @@ String
 
 </td><td>
 
-ERP source from which data is imported. For [[purchase-order-table|purchase order]], receipt, and invoice integrations, the ERP source is determined through the [[legal-entity|legal entity]] associated with these records.
+ERP source from which data is imported. For purchase order, receipt, and invoice integrations, the ERP source is determined through the legal entity associated with these records.
 
 </td></tr><tr><td>
 
@@ -206,8 +206,3 @@ Brief description of the product model.
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[erp-source|ERP source]]
-- [[purchase-order-table|Purchase order]]
-- [[legal-entity|Legal entity]]

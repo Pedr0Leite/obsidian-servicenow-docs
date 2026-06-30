@@ -24,7 +24,7 @@ Role required: HR admin \[sn\_hr\_core.admin\]
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[labor-unions|Labor Unions]]** &gt; **Unions**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Labor Unions** &gt; **Unions**.
 
 2.  Fill in the form.
 
@@ -48,7 +48,3 @@ Role required: HR admin \[sn\_hr\_core.admin\]
 
 **Parent Topic:**[Components installed with Labor Unions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/labor-unions-setting-up.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[labor-unions|Labor unions]]

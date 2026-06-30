@@ -12,13 +12,13 @@ breadcrumb: [Reference, Subscription Management, Get started, Administer the Ser
 
 # Subscription Management roles
 
-[[subscription-management-landing-page-v2|Subscription Management]] is installed with these roles.
+Subscription Management is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 ## Usage administrator \[usage\_admin\]
 
-Administers Subscription Management. Allocates subscriptions, maps [[custom-tables|custom tables]] and custom applications to subscriptions.
+Administers Subscription Management. Allocates subscriptions, maps custom tables and custom applications to subscriptions.
 
 -   **Contains Roles**
 
@@ -43,11 +43,5 @@ Administers Subscription Management. Allocates subscriptions, maps [[custom-tabl
     None
 
 
-**Parent Topic:**[[subscription-management-reference-v2|Subscription Management reference]]
+**Parent Topic:**[Subscription Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[subscription-management-reference-v2|Subscription Management reference]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[custom-tables|Custom tables]]

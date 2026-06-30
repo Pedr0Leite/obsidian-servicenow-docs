@@ -14,7 +14,7 @@ breadcrumb: [External content security, Indexing and searching external content,
 
 # Defining access permissions for external documents
 
-You can specify access permissions for externally defined users and groups when ingesting external documents. [[ia-ai-search|AI Search]] preserves these permissions during indexing so that user content security filters can operate on them at search time.
+You can specify access permissions for externally defined users and groups when ingesting external documents. AI Search preserves these permissions during indexing so that user content security filters can operate on them at search time.
 
 For details on including access permissions for externally defined users and groups in ingested external documents, see the POST /ais/external\_content/ingestDocument/\{schema\_table\_name\} endpoint of the [External Content Ingestion API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/external-content-ingestion-api.md).
 
@@ -211,7 +211,7 @@ To reverse this default behavior for an indexed source, making external group de
 
 3.  In the Advanced Configuration related list, select **New**.
 
-4.  On the [[indexed-source-attribute-form-ais|Indexed Source Attribute form]], enter the following field values.
+4.  On the Indexed Source Attribute form, enter the following field values.
 
     |Field|Value|
     |-----|-----|
@@ -227,10 +227,5 @@ To reverse this default behavior for an indexed source, making external group de
 
 ### Result
 
-The change in permission preference takes effect for search [[hs-results|results]] from the external content indexed source.
+The change in permission preference takes effect for search results from the external content indexed source.
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-attribute-form-ais|Indexed Source Attribute form]]
-- [[hs-results|Results]]

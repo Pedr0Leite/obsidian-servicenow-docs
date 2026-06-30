@@ -19,14 +19,9 @@ Enables you by reducing manual effort in obtaining data, improving data accuracy
 Integration with 3E provides following two external APIs:
 
 -   **[3E Protect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-protect.md)**  
-3E provides an external API called [[hs-3e-protect|3E Protect]] that integrates with [[hs-environmental-management-landing-page|Health and Safety Environmental management]] to automate chemical safety information retrieval and maintenance.
+3E provides an external API called 3E Protect that integrates with Health and Safety Environmental management to automate chemical safety information retrieval and maintenance.
 -   **[3E Regulatory Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-3e-regulatory-intelligence.md)**  
-[[hs-3e-regulatory-intelligence|3E regulatory intelligence]] is an extension of the 3E service provider integration that retrieves regulatory list data for chemical substances directly from the 3E server.
+3E regulatory intelligence is an extension of the 3E service provider integration that retrieves regulatory list data for chemical substances directly from the 3E server.
 
 **Parent Topic:**[Integration of Health and Safety applications with third-party services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/integration-health-safety-with-third-party-services.md)
 
-## Related
-
-- [[hs-3e-protect|3E Protect]]
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[hs-3e-regulatory-intelligence|3E Regulatory Intelligence]]

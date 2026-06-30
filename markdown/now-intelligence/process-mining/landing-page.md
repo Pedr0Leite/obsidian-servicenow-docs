@@ -14,7 +14,7 @@ breadcrumb: [Workspace, Explore, Process Mining, Platform Analytics]
 
 # Projects landing page
 
-From the projects landing page for [[process-mining|Process Mining]], you can access generated projects, business process insights, and Analyst workbench.
+From the projects landing page for Process Mining, you can access generated projects, business process insights, and Analyst workbench.
 
 The projects landing page shows project cards for projects that have been created by or shared with you for viewing. A project that has been created but not yet generated shows a warning icon \[Omitted image "warning-icon.png"\] Alt text: warning icon next to its grayed out title. The warning indicates that the project isn’t available to view.
 
@@ -72,7 +72,7 @@ Copy
 
 </td><td>
 
-Select to copy the configuration and [[create-project|create a project]] definition.When you [[copy-process-model-definition|copy a project]], the associated improvement opportunities also get copied.
+Select to copy the configuration and create a project definition.When you copy a project, the associated improvement opportunities also get copied.
 
 </td></tr><tr><td>
 
@@ -101,8 +101,3 @@ Deletes a project.
 </td></tr></tbody>
 </table>**Parent Topic:**[Process Mining workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/analyst-workbench-overview.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[create-project|Create a project]]
-- [[copy-process-model-definition|Copy a project]]

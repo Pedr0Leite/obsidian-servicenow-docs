@@ -20,7 +20,7 @@ Return items from a received transfer order when all or some of the delivered as
 
 Role required: inventory\_user
 
-The inventory\_user, asset, or [[c_Procurement|procurement]]\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
+The inventory\_user, asset, or procurement\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
 
 ## About this task
 
@@ -54,7 +54,7 @@ Items in a transfer order must be received before they can be returned.
 
 10. If you’re returning a consumable, navigate to the transfer order line record, and click the model name to open the model record.
 
-    The model record shows which [[c_Stockrooms|stockrooms]] contain the model. The one defective model is listed.
+    The model record shows which stockrooms contain the model. The one defective model is listed.
 
     **Note:** The defective model is still at the stockroom to which it was delivered. The defective model must be transferred back to the stockroom where it originated.
 
@@ -67,7 +67,3 @@ Items in a transfer order must be received before they can be returned.
 
 **Parent Topic:**[Transfer order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/work-with-transfer-orders.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_Stockrooms|Stockrooms]]

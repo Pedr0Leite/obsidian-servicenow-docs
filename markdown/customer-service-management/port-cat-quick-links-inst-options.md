@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Catalog Quick Links widget instance options form
 
-The instance options enable you to configure the [[portal-catalog-widget|Portal Catalog Quick Links widget]] on a portal page.
+The instance options enable you to configure the Portal Catalog Quick Links widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -134,6 +134,3 @@ The Catalog item page that open when the catalog item is accessed.By default, th
 
 [Add and configure the Portal Catalog Quick Links widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/config-cat-quick-links-inst-optns.md)
 
-## Related
-
-- [[portal-catalog-widget|Portal Catalog Quick Links widget]]

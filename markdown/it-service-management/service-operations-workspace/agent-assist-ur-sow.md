@@ -30,7 +30,7 @@ Role required: itil, sn\_uni\_req.routing\_agent, or admin
 
 4.  Select the universal request from the list.
 
-5.  In **Agent Assist**, select the [[settings-mobile|settings]] icon \(\[Omitted image "toggle-compose-setting.png"\] Alt text: Agent Assist settings\) and select your resource from the list.
+5.  In **Agent Assist**, select the settings icon \(\[Omitted image "toggle-compose-setting.png"\] Alt text: Agent Assist settings\) and select your resource from the list.
 
     -   Similar Closed Universal Request: To display all similar Universal Requests that are closed.
     -   Universal Request: To display all similar Universal Requests that are available.
@@ -41,6 +41,3 @@ Role required: itil, sn\_uni\_req.routing\_agent, or admin
 
 **Parent Topic:**[Universal Request in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/using-ur-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

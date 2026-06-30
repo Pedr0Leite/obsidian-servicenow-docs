@@ -22,7 +22,7 @@ Explore the overview tab in AI Control Tower and the widgets available on the ta
 
 Role required: AI steward \[sn\_ai\_governance.ai\_steward\]
 
-The **Overview** tab of the [[ai-governance|AI Control Tower dashboard]] provides a comprehensive view of all metrics of [[ai-system|AI systems]].
+The **Overview** tab of the AI Control Tower dashboard provides a comprehensive view of all metrics of AI systems.
 
 \[Omitted image "aict-overview.png"\] Alt text: Overview tab that displays all the metric types for AI systems.
 
@@ -36,7 +36,7 @@ The following widgets are available, showing various metrics. You can view the d
     -   Assess
     -   Build and test
     -   Deploy
-    For more information about the [[ai-asset-lifecycle|AI asset lifecycle]] stages, see [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-asset-lifecycle.md)
+    For more information about the AI asset lifecycle stages, see [AI asset lifecycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-asset-lifecycle.md)
 
 -   **AI systems by type**
 
@@ -61,16 +61,10 @@ The following widgets are available, showing various metrics. You can view the d
 
 -   **Compliance**
 
-    This section shows the compliance effectiveness percentage of different statuses of active [[controls|controls]] applied on **Authority documents** and **Policies**. You can drill down respective sectors of the bar graph to access and view the list of active controls.
+    This section shows the compliance effectiveness percentage of different statuses of active controls applied on **Authority documents** and **Policies**. You can drill down respective sectors of the bar graph to access and view the list of active controls.
 
--   **AI [[cases|cases]] by priority**
+-   **AI cases by priority**
 
     This section shows the total number of AI cases with breakdown analysis by priority rating. You can drill down to respective sectors of the donut chart to access and view a list of recorded AI cases.
 
-## Related
 
-- [[ai-governance|AI Control Tower dashboard]]
-- [[ai-system|AI systems]]
-- [[ai-asset-lifecycle|AI asset lifecycle]]
-- [[controls|Controls]]
-- [[cases|Cases]]

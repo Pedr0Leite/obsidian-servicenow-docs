@@ -26,13 +26,13 @@ As a collaborator added to a request, you can access and work on the request jus
 
 ## Procedure
 
-1.  [[assign-legal-request-1|Assign a legal request]] to yourself or to someone in your assignment group.
+1.  Assign a legal request to yourself or to someone in your assignment group.
 
     For more information, see [Assign a legal request]()
 
 2.  Start working on a legal request.
 
-    1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+    1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
     2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -105,7 +105,7 @@ Steps
 
         -   To select a file from your local system, select **Computer** and upload a file.
 
-        -   To select an attachment from the [[activity-lxp|activity]] stream, select **Activity stream**.
+        -   To select an attachment from the activity stream, select **Activity stream**.
 
             Files attached to inbound emails are listed in the **Document** field.
 
@@ -235,13 +235,7 @@ As a legal fulfiller, reclassify the documents submitted in a third-party contra
 -   **[Modify supporting documents in third-party contract review request as a legal fulfiller](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-mod-supporting-doc.md)**  
 As a legal fulfiller, add, remove, or reclassify supporting documents submitted in a third-party contract review request.
 -   **[Cancel the wet signature process from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-cancel-wet-signature.md)**  
-Cancel a wet signature process for a Non-disclosure agreement legal requests from the [[employee-center-landing-page|Employee Center]].
+Cancel a wet signature process for a Non-disclosure agreement legal requests from the Employee Center.
 
 **Parent Topic:**[Third-party contract review requests]()
 
-## Related
-
-- [[assign-legal-request-1|Assign a legal request]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]

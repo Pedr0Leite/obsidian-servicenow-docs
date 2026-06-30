@@ -14,7 +14,7 @@ breadcrumb: [Review and update the equipment model details, Managing equipment m
 
 # Search for an equipment model entity
 
-Search for an equipment model entity in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] so that you can find the entity more quickly and efficiently.
+Search for an equipment model entity in the Industrial Workspace so that you can find the entity more quickly and efficiently.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ The list automatically expands to show the searched equipment model entity. When
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

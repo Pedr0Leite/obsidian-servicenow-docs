@@ -14,7 +14,7 @@ breadcrumb: [Portal Polaris Header widget, Configurable Portal widgets, Set up s
 
 # Configure the Portal Polaris Header widget for your portal
 
-Associate the [[portal-header-widget|Portal Polaris Header widget]] as your header for the selected theme on your portal.
+Associate the Portal Polaris Header widget as your header for the selected theme on your portal.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Unlike other widgets in the Configurable Portal widgets, the Portal Polaris Head
 
 The Portal Polaris Header is set as a header for the Portal Next Experience theme.
 
-## Related
-
-- [[portal-header-widget|Portal Polaris Header widget]]

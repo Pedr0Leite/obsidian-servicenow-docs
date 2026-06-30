@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Run optimization for your groups or territories from Dispatcher Workspace
 
-Reassign tasks and maximize productivity by running [[schedule-optimization|Schedule Optimization]] on demand when scheduling conditions change.
+Reassign tasks and maximize productivity by running Schedule Optimization on demand when scheduling conditions change.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: schedule\_optimization\_user
 
 ## About this task
 
-Schedule Optimization can be configured to run the optimization engine in batches overnight or at selected intervals throughout the day. This procedure describes how dispatchers can run optimization on demand from [[dispatcher-activities|Dispatcher Workspace]].
+Schedule Optimization can be configured to run the optimization engine in batches overnight or at selected intervals throughout the day. This procedure describes how dispatchers can run optimization on demand from Dispatcher Workspace.
 
 For more information on running the optimization engine automatically, see [Configuring Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/schedule-optimization-engine.md).
 
@@ -56,7 +56,3 @@ Schedule Optimization doesn’t detect changes you make to agents or tasks durin
 
 [Configure on demand optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-on-demand-optimization.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

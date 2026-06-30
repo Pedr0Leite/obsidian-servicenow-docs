@@ -14,7 +14,7 @@ breadcrumb: [Main node configurations: A component of the Data Relationship Fram
 
 Node relationship configurations are used to set up relationships between the records and objects defined in the table. You can configure the details of the main node such as its name, source, table name, filter conditions, and so on.
 
-For details on the updates in the Node relationship configurations introduced in [[grc-opres-landing-page|Operational Resilience]], version 21.1.x, refer to the "Node relationship configurations related list" in [[main-node-relationship-fw|Main node configurations: A component of the Data Relationships Framework]].
+For details on the updates in the Node relationship configurations introduced in Operational Resilience, version 21.1.x, refer to the "Node relationship configurations related list" in [Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md).
 
 -   **Node relationship configurations related list**
 
@@ -38,18 +38,12 @@ For details on the updates in the Node relationship configurations introduced in
 
     -   Copy functionality at the Main node: The main node configuration now includes a **Copy** UI action. When this functionality is used, the selected main node configuration is copied and then you’re required to set up the Nexus configuration for the copied main node.
 
-For information on configuring the Node relationship configurations, see [[update-node-rel-config|Configure the Node relationship configurations]].
+For information on configuring the Node relationship configurations, see [Configure the Node relationship configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-node-rel-config.md).
 
-For information on setting up relationships between different objects, see [[build-up-relationships|Relationships between CSDM objects]].
+For information on setting up relationships between different objects, see [Relationships between CSDM objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/build-up-relationships.md).
 
 -   **[Relationships between CSDM objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/build-up-relationships.md)**  
 You can configure relationships between various CSDM objects such as business services, service offerings, business processes, and application services by using the Main node configurations. The \[sn\_grc\_m2m\_profile\_profile table\] serves as the source table for establishing these relationships.
 
 **Parent Topic:**[Main node configurations: A component of the Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-relationship-fw.md)
 
-## Related
-
-- [[main-node-relationship-fw|main node relationship fw]]
-- [[update-node-rel-config|Configure the Node relationship configurations]]
-- [[build-up-relationships|Relationships between CSDM objects]]
-- [[grc-opres-landing-page|Operational Resilience]]

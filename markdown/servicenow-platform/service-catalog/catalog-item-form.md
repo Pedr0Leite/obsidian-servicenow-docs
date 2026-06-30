@@ -56,7 +56,7 @@ Model
 
 </td><td>
 
-Product model to which the item is linked. This field is visible by default only for items created by publishing models.Click the [[reference|reference]] icon to view the product model.
+Product model to which the item is linked. This field is visible by default only for items created by publishing models.Click the reference icon to view the product model.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Active
 
 </td><td>
 
-[[check-box|Check box]] to make the item active \(available to be ordered\).**Note:** Inactive catalog items added to [[c_ServiceCatalogOrderGuides|order guides]] do not appear in the order guide. Use **Visible On Guide**, **Visible elsewhere** to hide the item and show only in the order guide.
+Check box to make the item active \(available to be ordered\).**Note:** Inactive catalog items added to order guides do not appear in the order guide. Use **Visible On Guide**, **Visible elsewhere** to hide the item and show only in the order guide.
 
 </td></tr><tr><td>
 
@@ -99,9 +99,9 @@ Access Type
 Option to specify if a request can be submitted for a user who does not have access to the catalog item. Possible options are:-   Restricted: The request can only be submitted for users who have access to the catalog item.
 -   Delegated: The request can be submitted even for users who do not have access to the catalog item.
 
- By default, this field is set to `Restricted`. For information about [[delegated-request-exp|delegated request experience]], see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
+ By default, this field is set to `Restricted`. For information about delegated request experience, see [Delegated request experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/delegated-request-exp.md).
 
- **Note:** This functionality is only applicable when the catalog item has a [[requested-for|Requested For]] variable.
+ **Note:** This functionality is only applicable when the catalog item has a Requested For variable.
 
 </td></tr><tr><td>
 
@@ -161,7 +161,7 @@ Short Description
 
 </td><td>
 
-Text that appears on the [[service-catalog|service catalog]] homepage, search results, and the title bar of the order form.
+Text that appears on the service catalog homepage, search results, and the title bar of the order form.
 
 </td></tr><tr><td>
 
@@ -305,7 +305,7 @@ Request method
 
 </td><td>
 
-Setting that controls the [[label|label]] displayed for the **Order Now** button and the order submission experience. -   **Order**:
+Setting that controls the label displayed for the **Order Now** button and the order submission experience. -   **Order**:
 
     -   Button label: **Order Now**
     -   Confirmation dialog box: Displayed
@@ -347,7 +347,7 @@ Hide 'Save as draft'
 
 If selected, the **Save as Draft** button isn't displayed for the item on the portals.
 
- You can let requesters [[save-draft-catalog-item|save a draft of a catalog item]] while requesting it on the portals such as Employee Center and Service Portal, and Now Mobile app. The requesters can access the saved drafts from the My Request widget in the **Drafts** tab on the portals and edit the drafts.
+ You can let requesters save a draft of a catalog item while requesting it on the portals such as Employee Center and Service Portal, and Now Mobile app. The requesters can access the saved drafts from the My Request widget in the **Drafts** tab on the portals and edit the drafts.
 
 </td></tr><tr><td>
 
@@ -383,11 +383,11 @@ Hide 'Add to Wish List'
 
 </td><td>
 
-If selected, the **Add to wish list** button is not displayed for the catalog item. If the wish list is disabled for the catalog item or the portal widget instance option is set to false, then this setting is overridden for the item. **Note:** Applicable for a catalog item and [[c_RecordProducer|record producer]].
+If selected, the **Add to wish list** button is not displayed for the catalog item. If the wish list is disabled for the catalog item or the portal widget instance option is set to false, then this setting is overridden for the item. **Note:** Applicable for a catalog item and record producer.
 
 </td></tr><tr><td>
 
-Hide [[attachment|Attachment]]
+Hide Attachment
 
 </td><td>
 
@@ -493,7 +493,7 @@ Domain
 
 </td><td>
 
-Domain in which the catalog item is created. Applicable when the [[domain-separation-relationship-formatter-editor|domain separation]] is enabled in Service Catalog. For information about domain separation, see [Domain separation and Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/domain-separation-service-catalog-management.md).
+Domain in which the catalog item is created. Applicable when the domain separation is enabled in Service Catalog. For information about domain separation, see [Domain separation and Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/domain-separation-service-catalog-management.md).
 
 </td></tr><tr><td>
 
@@ -521,7 +521,7 @@ Edit checked out item in advanced view
 
 </td><td>
 
-Allows you to edit the catalog item in the advanced view. To add a catalog client script to a checked out item in the Draft state, you can click this related link and add the catalog client script using the Catalog Client Scripts related list.**Note:** This option is available only after you click **Edit in [[catalog-builder|Catalog Builder]]** to edit an item in catalog builder.
+Allows you to edit the catalog item in the advanced view. To add a catalog client script to a checked out item in the Draft state, you can click this related link and add the catalog client script using the Catalog Client Scripts related list.**Note:** This option is available only after you click **Edit in Catalog Builder** to edit an item in catalog builder.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -636,17 +636,3 @@ Associate a catalog item to a taxonomy and topic. For information about how to a
 
 **Parent Topic:**[Service Catalog Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[check-box|Check box]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[delegated-request-exp|Delegated request experience]]
-- [[requested-for|Requested for]]
-- [[service-catalog|Service Catalog]]
-- [[label|Label]]
-- [[save-draft-catalog-item|Save a draft of a catalog item]]
-- [[c_RecordProducer|Record Producer]]
-- [[attachment|Attachment]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[catalog-builder|Catalog Builder]]

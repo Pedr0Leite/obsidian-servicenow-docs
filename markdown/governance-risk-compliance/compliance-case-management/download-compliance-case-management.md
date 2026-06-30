@@ -14,7 +14,7 @@ breadcrumb: [Configure, Compliance Case Management, Governance, Risk, and Compli
 
 # Download Compliance Case Management
 
-Before you run the [[compliance-case-management|Compliance Case Management]] application in your instance, you must download it from the ServiceNow Store.
+Before you run the Compliance Case Management application in your instance, you must download it from the ServiceNow Store.
 
 ## Before you begin
 
@@ -35,6 +35,3 @@ The ServiceNow Store application enables you to download the core products and a
 
 **Parent Topic:**[Configuring Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/configure-compliance-case-management.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]

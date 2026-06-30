@@ -20,11 +20,11 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
 ## Procedure
 
-1.  Open an invoice case In [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Open an invoice case In CSM Configurable Workspace.
 
 2.  Select the Invoice Case Lines tab and then select **New**.
 
-    This opens a new [[invoice-case-lines-form|Invoice Case Line form]] in a separate sub tab.
+    This opens a new Invoice Case Line form in a separate sub tab.
 
 3.  Add information to the Invoice Case Line form.
 
@@ -32,7 +32,4 @@ Role required: sn\_csm\_invoice.agent, sn\_csm\_invoice.manager, admin
 
     The system adds the new record to the Invoice Case Lines tab on the invoice case record.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[invoice-case-lines-form|Invoice case line form]]

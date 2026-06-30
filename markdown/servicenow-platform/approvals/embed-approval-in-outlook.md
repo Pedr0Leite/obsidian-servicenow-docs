@@ -14,13 +14,13 @@ breadcrumb: [Receive notifications, Classic approvals, Exploring Service Adminis
 
 # Embed an approval request within the Outlook email client
 
-Embed an interactive approval request for [[p_ServiceCatalogRequests|service catalog requests]] in the [[email|email]] notification sent to a user. The user can accept or reject the approval request from the email client.
+Embed an interactive approval request for service catalog requests in the email notification sent to a user. The user can accept or reject the approval request from the email client.
 
 ## Before you begin
 
 Role required: admin
 
-The [[outlook-actionable-messages|Outlook Actionable Messages]] plugin \(com.sn\_ms\_oam\) should be activated.
+The Outlook Actionable Messages plugin \(com.sn\_ms\_oam\) should be activated.
 
 **Note:**
 
@@ -48,8 +48,3 @@ The [[outlook-actionable-messages|Outlook Actionable Messages]] plugin \(com.sn\
 
 **Parent Topic:**[Receive notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ReceiveNotifications.md)
 
-## Related
-
-- [[p_ServiceCatalogRequests|Service catalog requests]]
-- [[email|Email]]
-- [[outlook-actionable-messages|Outlook Actionable Messages]]

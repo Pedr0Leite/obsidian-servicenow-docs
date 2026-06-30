@@ -14,7 +14,7 @@ breadcrumb: [Supplier Document Management, Configure, Supplier Lifecycle Operati
 
 # Manually run a supplier document configuration
 
-Run a [[supplier|supplier]] document configuration to enable supplier managers, supplier owners, and supplier contacts to immediately upload the required documents.
+Run a supplier document configuration to enable supplier managers, supplier owners, and supplier contacts to immediately upload the required documents.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.contact or sn\_slm.admin
 
 ## About this task
 
-The supplier document configuration is configured to run based on the run conditions that you set. However, you can run them manually when needed. Running the document configuration creates either or both of the following in the [[supplier-central|Supplier Collaboration Portal]], based on the run conditions:
+The supplier document configuration is configured to run based on the run conditions that you set. However, you can run them manually when needed. Running the document configuration creates either or both of the following in the Supplier Collaboration Portal, based on the run conditions:
 
--   A tile in the Documents widget on the My Company page. The [[supplier-contact|supplier contact]] can upload a document using this tile in the Documents widget.
+-   A tile in the Documents widget on the My Company page. The supplier contact can upload a document using this tile in the Documents widget.
 
     **Note:** The Documents widget is created if you select **Anyone** from the **Required from** field in the Upload preferences form. The tile in the Documents widget is named after the supplier document type name that you provided when creating the supplier document configuration.
 
@@ -48,11 +48,11 @@ Do This
 
 </td><td>
 
-Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Administration** &gt; **Document Configuration**
+Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration** &gt; **Document Configuration**
 
 </td></tr><tr><td id="d115895e131">
 
-**Run a document configuration from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]**
+**Run a document configuration from the Source-to-Pay Workspace**
 
 </td><td>
 
@@ -81,10 +81,3 @@ Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operation
 
 [Uploading supplier documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/upload-doc-about.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

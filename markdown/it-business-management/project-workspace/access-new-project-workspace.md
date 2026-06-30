@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Access the new Project Workspace
 
-Learn how to navigate to the new [[project-workspace-landing-page|Project Workspace]] and open a project in the planning page.
+Learn how to navigate to the new Project Workspace and open a project in the planning page.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: it\_project\_manager
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

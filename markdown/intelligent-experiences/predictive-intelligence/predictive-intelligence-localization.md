@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence references, Predictive Intelligence, Enable
 
 # Predictive Intelligence language support
 
-[[predictive-intelligence-landing|Predictive Intelligence]] provides international language support. Learn which languages are available to Predictive Intelligence solutions.
+Predictive Intelligence provides international language support. Learn which languages are available to Predictive Intelligence solutions.
 
 When you create a Predictive Intelligence solution, you can choose the language you want the system to use for processing your training records. English is the default language.
 
@@ -39,6 +39,3 @@ The current available languages for Predictive Intelligence solutions and stopwo
 
 [Predictive Intelligence roles]()
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

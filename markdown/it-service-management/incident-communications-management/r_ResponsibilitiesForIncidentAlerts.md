@@ -43,7 +43,7 @@ The following sections describe typical operational roles for these responsibili
 
 ## Other Responsibilities
 
-[[c_IncidentAlertManagement|Incident Communications Management]] provides the following additional responsibilities that can be added to incident communication plans. You can also create contact responsibilities, as needed. The associated users receive notifications about the incident communication plan.
+Incident Communications Management provides the following additional responsibilities that can be added to incident communication plans. You can also create contact responsibilities, as needed. The associated users receive notifications about the incident communication plan.
 
 |Responsibility|Description|
 |--------------|-----------|
@@ -69,6 +69,3 @@ The following sections describe typical operational roles for these responsibili
 
 [Add a user as a contact]()
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]

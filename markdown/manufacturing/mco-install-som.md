@@ -12,7 +12,7 @@ breadcrumb: [Set up additional requirements \(optional\), Configure, Manufacturi
 
 # Install Order Management for Manufacturing Commercial Operations
 
-Set up the [[mco-som-using|Order Management]] \(Order Management\) applications for [[manufacturing-overview|Manufacturing Commercial Operations]] to optimize the lead-to-cash cycle and allow your agents can work on various stages of the manufacturing sales life cycle, such as order and fulfillment and entitlements.
+Set up the Order Management \(Order Management\) applications for Manufacturing Commercial Operations to optimize the lead-to-cash cycle and allow your agents can work on various stages of the manufacturing sales life cycle, such as order and fulfillment and entitlements.
 
 ## Installing and configuring Order Management applications
 
@@ -52,8 +52,3 @@ Use the Pricing Management application to create the price lists and price list 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mco-som-using|Order Management]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

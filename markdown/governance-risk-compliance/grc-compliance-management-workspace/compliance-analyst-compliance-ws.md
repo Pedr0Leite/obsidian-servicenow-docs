@@ -47,7 +47,7 @@ The compliance analyst Home page provides a personalized experience for a corpor
 
     -   **Entities**
 
-        Provides the total count of active entities, and a list of least compliant entities along with their [[entity-class|entity class]]. Click the name of an entity to know its compliance status and tracking details.
+        Provides the total count of active entities, and a list of least compliant entities along with their entity class. Click the name of an entity to know its compliance status and tracking details.
 
 -   **Control Assurance**
 
@@ -63,6 +63,4 @@ The compliance analyst Home page provides a personalized experience for a corpor
 
     Enables the analyst to create new records such as control objectives, controls, acknowledgement campaigns, and policy exceptions.
 
-## Related
 
-- [[entity-class|entity class]]

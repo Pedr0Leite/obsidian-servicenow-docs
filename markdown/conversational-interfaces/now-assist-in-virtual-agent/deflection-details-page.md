@@ -16,7 +16,7 @@ breadcrumb: [Self-Solve Performance page, Analyzing assistants, Now Assist in Vi
 
 View detailed insights into how your assistants resolve user queries, including deflection outcomes and the types of deflection methods used.
 
-The Deflection Details page provides a granular view of how your assistants handle user queries and the methods used to resolve them. Access this page by navigating to **[[assistant-designer|Assistant Designer]]** &gt; **Analytics** &gt; **Self Solved Performance** &gt; **Deflection Details**.
+The Deflection Details page provides a granular view of how your assistants handle user queries and the methods used to resolve them. Access this page by navigating to **Assistant Designer** &gt; **Analytics** &gt; **Self Solved Performance** &gt; **Deflection Details**.
 
 \[Omitted image "NAinVA-assistant-designer-analytics-self-solved-performance-deflection-details.png"\] Alt text: Deflection details page in Assistant analytics
 
@@ -61,7 +61,7 @@ The following are the deflection types offered by the assistant:
 -   **Topic**: Resolutions handled by predefined conversation topics.
 -   **KB**: Resolutions that provided knowledge base articles.
 -   **Doc QnA**: Resolutions from document-based question and answer.
--   **[[web-search-requestor|Web Search]]**: Resolutions that used web search results.
+-   **Web Search**: Resolutions that used web search results.
 -   **Others**: Other deflection methods not categorized above.
 
 Use this visualization to help you understand which deflection methods are most effective and optimize your assistant configuration accordingly.
@@ -82,7 +82,3 @@ The conversations list contains the following details:
 
 Use the **Export** button to download the conversation data for further analysis.
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[web-search-requestor|Web search]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Discovery, Discovery, ITOM Visibility, IT Operations Manageme
 
 # Patterns and horizontal discovery
 
-A pattern is a series of operations that tell [[r-discovery|Discovery]] which CIs to find on your network, what credentials to use, and what tables to populate in the CMDB.
+A pattern is a series of operations that tell Discovery which CIs to find on your network, what credentials to use, and what tables to populate in the CMDB.
 
 This topic assumes you understand the phases of horizontal discovery. If you need to review the horizontal discovery process for probes and for patterns, see the following:
 
@@ -57,7 +57,7 @@ Probes run during all four discovery phases.
 
 </td><td>
 
-Patterns run only during the identification and exploration phases. Discovery still uses the Shazzam probe and [[r_PortProbes|port probes]] to kick off discovery.
+Patterns run only during the identification and exploration phases. Discovery still uses the Shazzam probe and port probes to kick off discovery.
 
 </td></tr><tr><td>
 
@@ -86,7 +86,7 @@ Supports all standard network, and CI discovery. Certain applications are not su
 </td><td>
 
 In addition to supporting all standard discovery, patterns support: -   Cloud discovery
--   [[tracked-config-files|configuration file tracking]]
+-   configuration file tracking
 -   CI deletion strategies
 
 </td></tr><tr><td>
@@ -120,7 +120,7 @@ Discovery triggers one pattern during the identification an exploration phases. 
 </td></tr></tbody>
 </table>## Patterns for top-down and for horizontal discovery
 
-Both Discovery and [[c_ServiceMappingOverview|Service Mapping]] can use the same pattern for horizontal and top-down discovery. But they are edited differently. See [Create or customize patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md) for all steps. If you take a pattern that was exclusively used for top-down discovery and you want to use it for horizontal discovery, you have to make a few modifications. See [Use a pattern for horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
+Both Discovery and Service Mapping can use the same pattern for horizontal and top-down discovery. But they are edited differently. See [Create or customize patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md) for all steps. If you take a pattern that was exclusively used for top-down discovery and you want to use it for horizontal discovery, you have to make a few modifications. See [Use a pattern for horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c-UsingPatternsForHorizontalDiscovery.md) for instructions.
 
 **Parent Topic:**[Using Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/using-discovery.md)
 
@@ -154,7 +154,7 @@ Pagination is controlled from the Custom Operations table \[sa\_custom\_operatio
 
 ## Add the Horizontal Pattern probe to a classifier
 
-To use a pattern for the identification and exploration phases of horizontal discovery, you must add the [[r-HorizontalPatternProbe|Horizontal Pattern probe]] to the classifiers for the CIs are you trying to discover.
+To use a pattern for the identification and exploration phases of horizontal discovery, you must add the Horizontal Pattern probe to the classifiers for the CIs are you trying to discover.
 
 ### Before you begin
 
@@ -235,10 +235,3 @@ Role required: discovery\_admin
 
 Run the pattern in [Debug mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/t_CreatePatternPatDef.md) to test it. When you are sure the pattern works, you can run discovery by setting up a discovery schedule or running an on-demand discovery. See [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md) for more information.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]
-- [[tracked-config-files|Configuration file tracking]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-HorizontalPatternProbe|Horizontal Pattern probe]]

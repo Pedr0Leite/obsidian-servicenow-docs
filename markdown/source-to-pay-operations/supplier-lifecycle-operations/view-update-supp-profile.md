@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # View or update your user profile from the Supplier Collaboration Portal
 
-Update your personal profile in the [[supplier-central|Supplier Collaboration Portal]].
+Update your personal profile in the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.contact
 
 ## About this task
 
-Keep your personal information accurate and up to date so that a [[supplier|supplier]] manager can communicate with you via phone or email.
+Keep your personal information accurate and up to date so that a supplier manager can communicate with you via phone or email.
 
 ## Procedure
 
@@ -62,7 +62,7 @@ Keep your personal information accurate and up to date so that a [[supplier|supp
 
 [Raising requests from the Supplier Collaboration Portal]()
 
-[Viewing [[supplier-contact|supplier contact]] tasks from the Supplier Collaboration Portal]()
+[Viewing supplier contact tasks from the Supplier Collaboration Portal]()
 
 [View all your requests from the Supplier Collaboration Portal]()
 
@@ -76,15 +76,9 @@ Keep your personal information accurate and up to date so that a [[supplier|supp
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

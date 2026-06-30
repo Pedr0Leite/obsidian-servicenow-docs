@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-accounts|Cloud Accounts]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Cloud Accounts**.
 
 2.  Open a cloud account, set the state to **Draft**, and then click **Configure** in the form header.
 
@@ -32,7 +32,7 @@ Role required: sn\_cmp.cloud\_admin
 
     When you select the service account, the list of discovered datacenters for the service account appears.
 
-    **Note:** If the expected datacenters do not appear, click **Discover Datacenters** to update the list. [[r-discovery|Discovery]] runs and displays all datacenters associated with the service account.
+    **Note:** If the expected datacenters do not appear, click **Discover Datacenters** to update the list. Discovery runs and displays all datacenters associated with the service account.
 
 4.  Select the datacenters to add and then click **Save**.
 
@@ -45,8 +45,3 @@ The datacenters are added to the cloud account and appear on the **Datacenters**
 
 \[Omitted image "new-datacenter-on-cloud-acct.png"\] Alt text: New datacenter on the cloud account
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]

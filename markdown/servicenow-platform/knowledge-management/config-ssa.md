@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Configure Self-Service Analytics
 
-Configure the [[self-service-analytics|Self-Service Analytics]] framework so you can use the generated metrics in a dashboard.
+Configure the Self-Service Analytics framework so you can use the generated metrics in a dashboard.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ Schedule when to run the deflection configuration to generate the activities tha
 
 [Self-Service Analytics dashboard for customer service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ssa-cs-dashboard.md)
 
-## Related
-
-- [[self-service-analytics|Self-Service Analytics]]

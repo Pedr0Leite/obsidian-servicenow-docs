@@ -28,20 +28,15 @@ The Self-Service application gives supported end users a clean, simple front end
 
 </td></tr><tr><td>
 
-[Explore [[c_ServiceDelegation|Service Delegation]]\[Omitted image "bus-3-person.svg"\] Alt text:Service delegation is the ability to designate other users to view and interact with approvals sent or tasks assigned to you](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_ServiceDelegation.md)
+[Explore Service Delegation\[Omitted image "bus-3-person.svg"\] Alt text:Service delegation is the ability to designate other users to view and interact with approvals sent or tasks assigned to you](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_ServiceDelegation.md)
 
 </td><td>
 
-[Configure Service Delegation\[Omitted image "bus-learn.svg"\] Alt text:Learn how to [[t_DelegateApprovalsTasks|delegate approvals and tasks to another user]], configure your user profile form to display the Delegates related list.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/add-delegates-related-list.md)
+[Configure Service Delegation\[Omitted image "bus-learn.svg"\] Alt text:Learn how to delegate approvals and tasks to another user, configure your user profile form to display the Delegates related list.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/add-delegates-related-list.md)
 
 </td></tr></tbody>
 </table>-   **[Exploring Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/r_EmployeeSelfService.md)**  
 The Self-Service application gives supported end users a clean, simple front end to their IT support organization.
 
-**Parent Topic:**[[manage-services|Manage service capabilities]]
+**Parent Topic:**[Manage service capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
-## Related
-
-- [[manage-services|Manage service capabilities]]
-- [[c_ServiceDelegation|Service Delegation]]
-- [[t_DelegateApprovalsTasks|Delegate approvals and tasks to another user]]

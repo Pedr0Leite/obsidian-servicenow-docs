@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment project, Use Risk Workspace, Risk Management, Gover
 
 # Perform assessment on a risk assessment project in grid view
 
-Perform assessments on multiple risks and controls simultaneously in a [[risk-assessment-project|risk assessment project]] using the grid view. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
+Perform assessments on multiple risks and controls simultaneously in a risk assessment project using the grid view. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **My tasks**.
 
 2.  Open the risk assessment project that you want to assess and do one of the following.
 
@@ -64,7 +64,7 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
         The selected risk is deleted, along with all associated responses.
 
-8.  Respond to all the [[factors|factors]] in Inherent assessment for each risk within the project.
+8.  Respond to all the factors in Inherent assessment for each risk within the project.
 
     The application automatically saves your responses and calculates the overall risk score.
 
@@ -74,11 +74,11 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
     The application automatically calculates the final computed scores for individual assessments.
 
-11. Select a [[risk-response|risk response]] strategy and create a risk response task.
+11. Select a risk response strategy and create a risk response task.
 
 12. To view the complete summary of the assessment, select **View summary**.
 
-13. To check for any errors in the assessment before you [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select the \[Omitted image "more-actions-vertical-icon.png"\] Alt text: more actions. icon, and select **Validate**.
+13. To check for any errors in the assessment before you submit the assessment, select the \[Omitted image "more-actions-vertical-icon.png"\] Alt text: more actions. icon, and select **Validate**.
 
     You can see the list of errors, if any, that must be resolved in the side panel for the selected risk.
 
@@ -93,10 +93,3 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 **Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-project.md)
 
-## Related
-
-- [[risk-assessment-project|risk assessment project]]
-- [[risk-workspace|risk workspace]]
-- [[factors|factors]]
-- [[risk-response|risk response]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

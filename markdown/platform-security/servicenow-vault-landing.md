@@ -32,20 +32,12 @@ ServiceNow Vault provides a single location to review and implement security too
 [ServiceNow Vault tools\[Omitted image "bus-learn.svg"\] Alt text:Learn about the tools used with ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-tools.md)
 
 </td></tr></tbody>
-</table>-   **[[exploring-servicenow-vault|Exploring ServiceNow Vault]]**  
-Learn more about ServiceNow Vault and review the benefits it can provide for your [[naai-data-protection|data protection]] needs.
--   **[[use-now-assist-vault-agentic-ai|Use agentic AI in Now Assist for Vault]]**  
-Use the [[now-assist-vault-landing|Now Assist for Vault]] agentic workflows to complete tasks autonomously.
--   **[[using-now-assist-vault|Use generative AI skills in Now Assist for Vault]]**  
+</table>-   **[Exploring ServiceNow Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-servicenow-vault.md)**  
+Learn more about ServiceNow Vault and review the benefits it can provide for your data protection needs.
+-   **[Use agentic AI in Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-now-assist-vault-agentic-ai.md)**  
+Use the Now Assist for Vault agentic workflows to complete tasks autonomously.
+-   **[Use generative AI skills in Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-now-assist-vault.md)**  
 The Now Assist for Vault application includes the generative AI skills and features that enable you to streamline your administrative workload.
--   **[[vault-dashboard|ServiceNow Vault console dashboard]]**  
+-   **[ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md)**  
 Use the ServiceNow Vault console dashboard to track and manage your ServiceNow Vault security tools.
 
-## Related
-
-- [[exploring-servicenow-vault|Exploring ServiceNow Vault]]
-- [[use-now-assist-vault-agentic-ai|Use agentic AI in Now Assist for Vault]]
-- [[using-now-assist-vault|Use generative AI skills in Now Assist for Vault]]
-- [[vault-dashboard|ServiceNow Vault console dashboard]]
-- [[naai-data-protection|Data protection]]
-- [[now-assist-vault-landing|Now Assist for Vault]]

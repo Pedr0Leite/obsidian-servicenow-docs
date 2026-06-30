@@ -14,7 +14,7 @@ breadcrumb: [Configuring the Service Graph Connector for Microsoft Excel, Servic
 
 # View script includes used by the Service Graph Connector for Microsoft Excel
 
-As an admin, view the script includes related to the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
+As an admin, view the script includes related to the Service Graph Connector for Microsoft Excel
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **OT Manager** &gt; **Import OT Devices - Script Includes**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **OT Manager** &gt; **Import OT Devices - Script Includes**.
 
     This list shows the records whose names begin with SGOTAsset or SGOTExcelStaging.
 
@@ -33,7 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring the Service Graph Connector for Microsoft Excel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-service-graph-connector-for-excel.md)
 
-## Related
-
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

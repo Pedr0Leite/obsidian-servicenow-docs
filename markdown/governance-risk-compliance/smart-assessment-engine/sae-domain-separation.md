@@ -14,7 +14,7 @@ breadcrumb: [Exploring Smart Assessment Engine, Smart Assessment Engine, Governa
 
 # Domain separation and Smart Assessment Engine \(SAE\)
 
-Domain separation is supported for [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Smart Assessment Engine. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -83,6 +83,3 @@ The table displays different scenarios within the assessment domain, illustratin
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

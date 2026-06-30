@@ -14,7 +14,7 @@ breadcrumb: [Configuring ITSM Mobile Agent, ITSM Mobile Agent, IT Service Manage
 
 # Configurable actionable notifications for ITSM Mobile Agent
 
-With configurable actionable notifications for ITSM Mobile Agent, you can perform actions based on push notifications without having to open the [[itsm-mobile-agent|ITSM Mobile Agent]] application.
+With configurable actionable notifications for ITSM Mobile Agent, you can perform actions based on push notifications without having to open the ITSM Mobile Agent application.
 
 You can associate up to three actions with a push notification. These actions must refer to an existing mobile function. The following function types of actions are supported:
 
@@ -133,7 +133,7 @@ Role required: admin
 
 4.  Select the lock icon \(\[Omitted image "lock-icon.png"\] Alt text: Lock icon\) next to the **Actions** field.
 
-5.  Select the [[reference-for-itsm-mobile-agent|reference]] icon \(\[Omitted image "reference-lookup-icon.png"\] Alt text: Reference icon\) to display the **Push Actions** list and select the actions for the push action category.
+5.  Select the reference icon \(\[Omitted image "reference-lookup-icon.png"\] Alt text: Reference icon\) to display the **Push Actions** list and select the actions for the push action category.
 
 6.  Select **Save**.
 
@@ -364,7 +364,4 @@ Role required: admin
 
 5.  In the **Notification** form, select **Update**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[reference-for-itsm-mobile-agent|Reference]]

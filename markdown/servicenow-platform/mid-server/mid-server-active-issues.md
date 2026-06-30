@@ -14,7 +14,7 @@ breadcrumb: [Resolving MID Server issues, MID Server reference, MID Server, Mana
 
 # MID Server active issues
 
-The ServiceNow® instance has a dedicated table that publishes active issues with MID Servers and alerts administrators when a [[mid-server-landing|MID Server]] is in danger of exceeding its resources.
+The ServiceNow® instance has a dedicated table that publishes active issues with MID Servers and alerts administrators when a MID Server is in danger of exceeding its resources.
 
 The MID Server Issue \[ecc\_agent\_issue\] table displays a number of common issues that a MID Server can experience, as they occur. Error checking processes attempt to pinpoint the most likely cause of the issue. Informative error messages name the affected MID Server and explain the possible cause of the issue. The ecc\_agent\_issue table retains its records for 30 days.
 
@@ -33,6 +33,3 @@ Supported MID Server active issues:
 
 **Parent Topic:**[Resolving MID Server issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerTroubleshooting.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

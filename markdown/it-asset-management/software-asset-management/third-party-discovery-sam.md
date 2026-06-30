@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Software asset connections
 
-Use third-party discovery sources to discover the installed software data that you can integrate with the [[c_SoftwareAssetMgmt|Software Asset Management]] application.
+Use third-party discovery sources to discover the installed software data that you can integrate with the Software Asset Management application.
 
 The discovery process is an integral part of the Software Asset Management application. The discovery process consists of discovering where the installed software in your organization is installed, who the owner of the device is, and where it's located. The discovered information is then merged into a common configuration management database such as the CMDB application.
 
@@ -46,6 +46,3 @@ Domain separation is supported for third-party discovery with SAM with the follo
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

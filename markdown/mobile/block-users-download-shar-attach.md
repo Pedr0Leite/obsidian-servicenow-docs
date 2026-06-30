@@ -76,8 +76,5 @@ Enter one of the following values:
 </table>4.  Right-click the banner at the top of the **glide.sg.block\_mobile\_attachments\_sharing** form and select **Save**.
 
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]

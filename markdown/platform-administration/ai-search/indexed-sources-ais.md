@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search, AI Search, Search administration, Configure 
 
 # Indexed sources in AI Search
 
-Indexed sources designate ServiceNow AI Platform® tables and external document sets with alphanumeric text and string field content that you want to make searchable. [[ia-ai-search|AI Search]] ingests text and string fields from table records or external documents and stores their searchable alphanumeric content in its search index.
+Indexed sources designate ServiceNow AI Platform® tables and external document sets with alphanumeric text and string field content that you want to make searchable. AI Search ingests text and string fields from table records or external documents and stores their searchable alphanumeric content in its search index.
 
 For instructions on creating an indexed source, see [Create an indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-indexed-source-ais.md).
 
@@ -24,7 +24,7 @@ AI Search supports the following indexed source types.
 
 -   **Internal indexed source**
 
-    An internal indexed source retrieves alphanumeric content and metadata from text and string fields on ServiceNow AI Platform records. It includes a unique name and a [[reference-email-admin|reference]] to a ServiceNow AI Platform table with records that you want to make searchable. AI Search extracts and indexes searchable alphanumeric content and metadata from text and string fields on records in this table and in any of its child tables that you configure for indexing.
+    An internal indexed source retrieves alphanumeric content and metadata from text and string fields on ServiceNow AI Platform records. It includes a unique name and a reference to a ServiceNow AI Platform table with records that you want to make searchable. AI Search extracts and indexes searchable alphanumeric content and metadata from text and string fields on records in this table and in any of its child tables that you configure for indexing.
 
     AI Search excludes some ServiceNow AI Platform tables from indexing. You can't define indexed sources for these excluded tables or their derived tables. For a list of excluded tables, see [ServiceNow AI Platform tables excluded from AI Search indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/excluded-tables-ais.md).
 
@@ -49,7 +49,7 @@ You can configure attributes and field settings for an indexed source to control
 
 ## Indexing content from an indexed source
 
-After you define an indexed source, AI Search begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The [[hs-results|results]] of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index. For more information on indexing behavior, including steps for full table indexing, see [Indexing content from AI Search indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexing-content-ais.md).
+After you define an indexed source, AI Search begins automatically indexing to reflect changes to records in the selected source table and its specified child tables. The results of all record create, update, and delete operations in these tables are reflected in the search index. AI Search doesn't index content from unmodified records in these tables until you perform a full table index. For more information on indexing behavior, including steps for full table indexing, see [Indexing content from AI Search indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexing-content-ais.md).
 
 **Note:** The pre-configured indexed sources included with AI Search only index content from text and string fields on source records. When searching records from these indexed sources, you can use numeric fields to facet or filter your search results, but you can't find records using their numeric field values. To search on a record's numeric field values, copy them into a text or string field so they can be indexed.
 
@@ -84,8 +84,3 @@ AI Search indexes records on indexed source tables to make their content searcha
 
 **Parent Topic:**[Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]

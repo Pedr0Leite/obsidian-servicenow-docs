@@ -52,8 +52,5 @@ Field Service Quality Management adds the following roles:
 |----|-----------|
 |sn\_fsm\_quality.wm\_quality\_agent|Reviewer role that can review work order tasks.|
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]

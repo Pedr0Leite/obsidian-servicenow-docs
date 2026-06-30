@@ -12,7 +12,7 @@ breadcrumb: [View a quiz result, Quiz designer, Using Quizzes, Quizzes, Assessme
 
 # View a quiz designer scorecard
 
-The quiz scorecard opens in the [[r_CategoryResults|Category Results]] view.
+The quiz scorecard opens in the Category Results view.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: none
 
 ## About this task
 
-For detailed information about scorecards, see [[c_QuizScorecards|Quiz Scorecards]].
+For detailed information about scorecards, see [Quiz Scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_Quizzes|Quizzes]]** &gt; **Quizzes**.
+1.  Navigate to **All** &gt; **Quizzes** &gt; **Quizzes**.
 
 2.  Open the quiz whose results you want to view.
 
@@ -37,26 +37,17 @@ For detailed information about scorecards, see [[c_QuizScorecards|Quiz Scorecard
     \[Omitted image "QuizScorecardCategoryResults.png"\] Alt text: Quiz scorecard category results
 
 
--   **[[t_ViewAQuizScorecard|View a quiz scorecard]]**  
+-   **[View a quiz scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizScorecard.md)**  
 View scorecards for a quiz record.
--   **[[t_ViewACategoryResult|View an assessment category result]]**  
+-   **[View an assessment category result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewACategoryResult.md)**  
 Category results contain values that represent an evaluated record's performance in a specific metric category. Each category result record stores data from one assessment group. Category result values are calculated based on category and metric weights and from metric result values for the same category.
 -   **[Quiz scorecards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizScorecards.md)**  
 The Quizzes application prepares printable scorecards.
 
-**Parent Topic:**[[t_ViewAQuizResult|View a quiz result]]
+**Parent Topic:**[View a quiz result](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAQuizResult.md)
 
 **Related topics**  
 
 
-[[c_QuizDesigner|Quiz designer]]
+[Quiz designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_QuizDesigner.md)
 
-## Related
-
-- [[c_QuizScorecards|Quiz scorecards]]
-- [[t_ViewAQuizScorecard|View a quiz scorecard]]
-- [[t_ViewACategoryResult|View an assessment category result]]
-- [[t_ViewAQuizResult|View a quiz result]]
-- [[c_QuizDesigner|Quiz designer]]
-- [[r_CategoryResults|Category results]]
-- [[c_Quizzes|Quizzes]]

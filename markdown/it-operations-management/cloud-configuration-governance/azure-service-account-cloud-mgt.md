@@ -24,7 +24,7 @@ Role required: sn\_cmp.cloud\_admin
 
 1.  Open the `Azure-Credentials.txt` text file that you created during the [Create a Microsoft Azure service principal]() procedure.
 
-2.  Navigate to **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Manage** &gt; **Service Accounts**.
+2.  Navigate to **Cloud Admin Portal** &gt; **Manage** &gt; **Service Accounts**.
 
 3.  Click **New**, enter a unique and meaningful **Name**, and then fill in the form.
 
@@ -50,7 +50,7 @@ The Azure **Subscription ID** value that you copied from the Azure Portal into t
 
 </td></tr><tr><td>
 
-**[[r-discovery|Discovery]] credentials**
+**Discovery credentials**
 
 </td><td>
 
@@ -64,7 +64,7 @@ Name of the credentials that you created in the [Store the Azure service princip
 
 URL of the datacenter.This field is required only for the government and regional accounts.
 
- Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns supports the US, Germany, and China Microsoft Azure government clouds.
+ Discovery and Service Mapping Patterns supports the US, Germany, and China Microsoft Azure government clouds.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Select **Azure Datacenter**.
 
 </td></tr><tr><td>
 
-**Datacenter [[c_DiscoveryStatus|discovery status]]**
+**Datacenter discovery status**
 
 </td><td>
 
@@ -88,7 +88,7 @@ Auto-generated value: Status and timestamp of the last execution of Discovery on
 
 </td><td>
 
-Option to enable the ServiceNow AI Platform® to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform® uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md). If you select the Should pull events check box for a management group, the ServiceNow AI Platform enables [[azure-change-processing|Azure change processing]] for all the subscriptions in the management group.
+Option to enable the ServiceNow AI Platform® to collect resource change information from the Microsoft Azure cloud. The ServiceNow AI Platform® uses the resource change information to update the Configuration Management Database \(CMDB\). For more information on the supported Azure resource types, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md). If you select the Should pull events check box for a management group, the ServiceNow AI Platform enables Azure change processing for all the subscriptions in the management group.
 
 </td></tr></tbody>
 </table>4.  Click **Update** or **Submit**.
@@ -98,7 +98,7 @@ Option to enable the ServiceNow AI Platform® to collect resource change informa
 
 ## What to do next
 
-After you complete all procedures in this initial "Day 1" setup, you can create additional [[cloud-accounts|cloud accounts]] and service accounts to organize and compartmentalize your cloud infrastructure.
+After you complete all procedures in this initial "Day 1" setup, you can create additional cloud accounts and service accounts to organize and compartmentalize your cloud infrastructure.
 
 **Note:**
 
@@ -109,11 +109,3 @@ If you are on a domain separated instance, only those events that are updated to
 
 [Discovery for Microsoft Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-cloud-discovery.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_DiscoveryStatus|Discovery status]]
-- [[azure-change-processing|Azure change processing]]
-- [[cloud-accounts|Cloud accounts]]

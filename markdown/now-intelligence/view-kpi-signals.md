@@ -12,15 +12,15 @@ breadcrumb: [Explore, KPI Signals, Platform Analytics experience, Platform Analy
 
 # View KPI Signals
 
-Access [[process-behavior-charts-for-kpis|KPI Signals]] from the [[kpi-details|KPI Details]] page.
+Access KPI Signals from the KPI Details page.
 
 ## Before you begin
 
-Role required: Any roles necessary to access the workspace. The [[access-control|access control]] lists \(ACLs\) for indicators and breakdowns are also respected.
+Role required: Any roles necessary to access the workspace. The access control lists \(ACLs\) for indicators and breakdowns are also respected.
 
 ## Procedure
 
-1.  Open KPI Details for an indicator as described in [[view-kpi-details|View KPI Details]].
+1.  Open KPI Details for an indicator as described in [View KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-details.md).
 
 2.  Open the **Filters** \(\[Omitted image "filter-icon.png"\] Alt text: Filter icon\) panel and select one breakdown and one element.
 
@@ -32,7 +32,7 @@ Role required: Any roles necessary to access the workspace. The [[access-control
 
     The KPI Signals panel opens.
 
-4.  If KPI Signals monitoring is not active for this KPI, you can follow the instructions in [[activate-signals-monitor|Activate KPI Signals monitoring for an indicator \(KPI\)]].
+4.  If KPI Signals monitoring is not active for this KPI, you can follow the instructions in [Activate KPI Signals monitoring for an indicator \(KPI\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-signals-monitor.md).
 
     If you do not have a role that allows you to activate KPI Signals monitoring for a KPI, contact an administrator instead.
 
@@ -43,13 +43,5 @@ In the following example, you see the KPI Signals panel for the Number of open i
 
 \[Omitted image "kpi-signals-one-element.png"\] Alt text: KPI Signals panel with one breakdown and element filtering the indicator
 
-**Parent Topic:**[[exploring-kpi-signals|Exploring KPI Signals]]
+**Parent Topic:**[Exploring KPI Signals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/exploring-kpi-signals.md)
 
-## Related
-
-- [[view-kpi-details|View KPI Details]]
-- [[activate-signals-monitor|Activate KPI Signals monitoring for an indicator \(KPI\)]]
-- [[exploring-kpi-signals|Exploring KPI Signals]]
-- [[process-behavior-charts-for-kpis|KPI Signals]]
-- [[kpi-details|KPI Details]]
-- [[access-control|Access control]]

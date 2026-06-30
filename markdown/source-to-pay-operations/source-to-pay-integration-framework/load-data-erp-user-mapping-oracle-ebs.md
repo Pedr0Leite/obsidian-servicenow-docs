@@ -62,7 +62,7 @@ Verify that the data records are imported into the target table. You can view th
 
 [ERP source configuration for Oracle EBS]()
 
-[Define [[erp-source-configuration|ERP source configuration]] for Oracle EBS]()
+[Define ERP source configuration for Oracle EBS]()
 
 [Configure integration services for Oracle EBS]()
 
@@ -70,6 +70,3 @@ Verify that the data records are imported into the target table. You can view th
 
 [Scheduled jobs to look up primary data in Oracle EBS]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]

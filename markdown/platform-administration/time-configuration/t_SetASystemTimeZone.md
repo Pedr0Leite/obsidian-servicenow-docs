@@ -26,7 +26,7 @@ The ServiceNow AI Platform stores time values in Universal Coordinated Time. Tim
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **System**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System**.
 
 2.  Locate the property **System timezone for all users unless overridden in the user's record** \[glide.sys.default.tz\].
 
@@ -43,6 +43,3 @@ The ServiceNow AI Platform stores time values in Universal Coordinated Time. Tim
 
 **Parent Topic:**[Using time configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/using-time-configuration.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

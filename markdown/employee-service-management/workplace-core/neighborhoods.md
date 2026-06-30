@@ -26,12 +26,12 @@ Space admins and space planners can create a neighborhood and perform the follow
 -   Add or remove users from one neighborhood to another.
 -   View and reserve neighborhood spaces using floor maps on the reservation portal.
 
-    **Note:** Verify that you have installed [[Indoor-mapping|Indoor Mapping]] and dependent plugins to view neighborhoods on a floor map. For more information, see [Configure Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md).
+    **Note:** Verify that you have installed Indoor Mapping and dependent plugins to view neighborhoods on a floor map. For more information, see [Configure Indoor Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-ind-mapping.md).
 
 
 Neighborhoods can be used for the following workplace requirements:
 
--   [[scenario-planning|Scenario planning]]. For more information, see [Create a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+-   Scenario planning. For more information, see [Create a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 -   Reservation management: Employees can reserve neighborhood spaces using the reservation management portal. Space admins can restrict access to spaces in a neighborhood if the neighborhood is indicated as restricted or private. For more information, see [Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).
 -   Location directory: Employees can view spaces belonging to a neighborhood on the location directory. For more information [Manage workplace activities and services with Location directory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
@@ -91,7 +91,3 @@ View existing neighborhoods with assigned spaces and user allocation.
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[scenario-planning|Scenario Planning]]

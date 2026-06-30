@@ -14,7 +14,7 @@ breadcrumb: [Active Directory Application Mode \(ADAM\), LDAP integration, Authe
 
 # Set up the ADAM console
 
-Set up the ADAM console. Even though there are many similarities between ADAM and Active Directory, the administration can be very different since there is no **[[users|Users]] and Computers** management console.
+Set up the ADAM console. Even though there are many similarities between ADAM and Active Directory, the administration can be very different since there is no **Users and Computers** management console.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Most of the general administration is performed using the ADAM ADSI MMC console 
 
 3.  Select **distinguished name** or **naming context** and specify the distinguished name of the application partition you created earlier.
 
-    You can connect to the [[sc-configuration|Configuration]] and Schema partitions for advanced configuration options.
+    You can connect to the Configuration and Schema partitions for advanced configuration options.
 
     You should now be able to see into the partition and the default containers for LostAndFound, NTDS Quotas, and Roles. The Roles container has not been configured yet.
 
@@ -42,7 +42,3 @@ Most of the general administration is performed using the ADAM ADSI MMC console 
 
 [http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&amp;displaylang=en%7C](http://www.microsoft.com/downloads/en/details.aspx?familyid=9688f8b9-1034-4ef6-a3e5-2a2a57b5c8e4&displaylang=en%7C)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

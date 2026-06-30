@@ -14,26 +14,18 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Use knowledge subscriptions
 
-Use knowledge subscriptions to receive [[email|email]] notifications about new articles and article revisions or comments.
+Use knowledge subscriptions to receive email notifications about new articles and article revisions or comments.
 
 -   **[Subscribe to a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/subscribe-to-knowledge-base.md)**  
-[[subscribe-to-knowledge-base|Subscribe to a knowledge base]] and [[c_ReceiveNotifications|receive notifications]] when articles are added to that knowledge base.
+Subscribe to a knowledge base and receive notifications when articles are added to that knowledge base.
 -   **[Unsubscribe from a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/unsubscribe-from-knowledge-base.md)**  
-[[unsubscribe-from-knowledge-base|Unsubscribe from a knowledge base]].
+Unsubscribe from a knowledge base.
 -   **[Subscribe to a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/subscribe-to-knowledge-article.md)**  
-[[subscribe-to-knowledge-article|Subscribe to a knowledge article]] within a knowledge base to receive email notifications about new articles and article revisions or comments.
+Subscribe to a knowledge article within a knowledge base to receive email notifications about new articles and article revisions or comments.
 -   **[Unsubscribe from a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/unsubscribe-from-knowledge-article.md)**  
-[[unsubscribe-from-knowledge-article|Unsubscribe from a knowledge article]].
+Unsubscribe from a knowledge article.
 -   **[Manage knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/manage-knowledge-subscriptions.md)**  
 Manage knowledge base and knowledge article subscriptions from the Notification Settings page.
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[email|Email]]
-- [[subscribe-to-knowledge-base|Subscribe to a knowledge base]]
-- [[c_ReceiveNotifications|Receive notifications]]
-- [[unsubscribe-from-knowledge-base|Unsubscribe from a knowledge base]]
-- [[subscribe-to-knowledge-article|Subscribe to a knowledge article]]
-- [[unsubscribe-from-knowledge-article|Unsubscribe from a knowledge article]]

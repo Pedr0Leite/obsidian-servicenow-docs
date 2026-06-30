@@ -14,7 +14,7 @@ breadcrumb: [Using Notify, Notify, Manage service capabilities, Extend ServiceNo
 
 # Using Notify with tasks
 
-[[notify-landing-page|Notify]] allows you to initiate conference calls and send SMS alerts from task records.
+Notify allows you to initiate conference calls and send SMS alerts from task records.
 
 This functionality is available for all tables that extend the Task table, such as incident, problem, or change request. All calls and messages made from tasks are initiated using a single Notify phone number \(E.164 or short code\). You can configure which phone number is used by setting the property **glide.notify.task.phone\_number**.
 
@@ -27,6 +27,3 @@ Use Notify to send information related to a call through SMS alerts from a task 
 
 **Parent Topic:**[Using Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/using-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

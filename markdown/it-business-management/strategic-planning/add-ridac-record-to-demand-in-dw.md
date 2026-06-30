@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Add and manage RIDAC records
 
-Add a Risk, Issue, Decision, Action, or Request Change \(RIDAC\) record to your demand in the Next Experience for [[c_DemandManagement|Demand Management]]. Adding RIDAC records enables you to keep a track of risks or issues during the demand life cycle and help in analyzing the outcome of a demand.
+Add a Risk, Issue, Decision, Action, or Request Change \(RIDAC\) record to your demand in the Next Experience for Demand Management. Adding RIDAC records enables you to keep a track of risks or issues during the demand life cycle and help in analyzing the outcome of a demand.
 
 ## Before you begin
 
@@ -65,6 +65,4 @@ For information about RIDAC records for demand management, see [RIDAC \(Risk, Is
 
     After completing your work on the RIDAC record, use the breadcrumb navigation to return to the required RIDAC tab.
 
-## Related
 
-- [[c_DemandManagement|Demand Management]]

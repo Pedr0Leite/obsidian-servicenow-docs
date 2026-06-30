@@ -19,23 +19,23 @@ The Now LLM Service provides access to specialized large language models \(LLMs\
 
 ## Model cards
 
-Large language models \(LLMs\) are complex machine-learning models that are trained on large [[ai-datasets|datasets]] like websites and documentation to perform language-related tasks, such as text generation for case summaries and resolution notes.
+Large language models \(LLMs\) are complex machine-learning models that are trained on large datasets like websites and documentation to perform language-related tasks, such as text generation for case summaries and resolution notes.
 
 Model cards explain the specific model's context, intended use, training data, limitations, and other important information.
 
-These model cards are for skills that use the Now LLM Service. There are certain skills, such as [[platform-now-assist-landing|Now Assist]] Multi-Turn Catalog Ordering, that use Azure OpenAI instead. To see what LLM a skill is using, you can check the skill list in the Now Assist Admin console and review the LLM service column.
+These model cards are for skills that use the Now LLM Service. There are certain skills, such as Now Assist Multi-Turn Catalog Ordering, that use Azure OpenAI instead. To see what LLM a skill is using, you can check the skill list in the Now Assist Admin console and review the LLM service column.
 
 -   **[Model card for ServiceNow large language model](https://downloads.docs.servicenow.com/resource/enus/infocard/sn-llm.pdf)**
 
-    Model used for AI-driven solutions to support [[nlu-landing|natural language understanding]], automation, and decision support.
+    Model used for AI-driven solutions to support natural language understanding, automation, and decision support.
 
     This model card is available in Yokohama patch 1 and later.
 
 -   **[Model card for ServiceNow large language model \(V2\)](https://downloads.docs.servicenow.com/resource/enus/infocard/sn-llm-v2.pdf)**
 
-    Model for enterprise AI that enhances text-based automation and content generation in ServiceNow workflows, including requester OOTB skills, custom skills, and agentic use [[cases|cases]].
+    Model for enterprise AI that enhances text-based automation and content generation in ServiceNow workflows, including requester OOTB skills, custom skills, and agentic use cases.
 
-    This model is for [[generative-ai-controller|Generative AI Controller]] application 11.2 or higher.
+    This model is for Generative AI Controller application 11.2 or higher.
 
 -   **[Model card for ServiceNow small language model](https://downloads.docs.servicenow.com/resource/enus/infocard/sn-slm.pdf)**
 
@@ -103,7 +103,7 @@ Key Enhancements:
 
 -   Optimized to fulfill use cases: Enhances case summarization, chat summarization, resolution notes, and knowledge base generation across supported languages, including improvements in Japanese quality.
 -   Superior text-to-code and text-to-cypher performance: Delivers major advancements in Glide JavaScript and generic JavaScript editing and generation, along with improved accuracy in query generation and execution for structured databases.
--   Robust content moderation and safety: Provides stronger protection against adversarial [[ai-prompts|prompts]], jail-breaking attempts, and harmful content generation, ensuring safer deployment with built-in content filtering.
+-   Robust content moderation and safety: Provides stronger protection against adversarial prompts, jail-breaking attempts, and harmful content generation, ensuring safer deployment with built-in content filtering.
 -   Unified model deployment:integrates ServiceNow-related tasks into a single model, thereby reducing system complexity while elevating overall performance.
 -   Improved instruction adherence: Delivers better instruction following and consistency across varying levels of prompt and instruction strictness than the current text-to-text NowLLM.
 
@@ -123,11 +123,3 @@ Several key improvements were added to the Now LLM Service that are aimed at enh
 
 **Parent Topic:**[Large language models on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-large-language-model-now-llm/exploring-large-language-models.md)
 
-## Related
-
-- [[ai-datasets|Datasets]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[nlu-landing|Natural Language Understanding]]
-- [[cases|Cases]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[ai-prompts|Prompts]]

@@ -14,7 +14,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Health Log Analytics self-health checks, notifications, and proposed actions
 
-[[hla-landing-page|Health Log Analytics]] provides self-health checks, notifications, and proposed problem-solving steps.
+Health Log Analytics provides self-health checks, notifications, and proposed problem-solving steps.
 
 |Self-health check|Notification|Proposed action|
 |-----------------|------------|---------------|
@@ -42,6 +42,3 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Communications, Hardening settings, Platform Security]
 
 # Verify certificate chain and hostname
 
-Configure the **com.glide.[[sc-communications|communications]].httpclient.verify\_hostname** property to prevent man-in-the-middle-attacks by ensuring that the certification verification process is executed.
+Configure the **com.glide.communications.httpclient.verify\_hostname** property to prevent man-in-the-middle-attacks by ensuring that the certification verification process is executed.
 
 When the **com.glide.communications.httpclient.verify\_hostname** system property is not set to the secure value of **true**, the hostname and certificate chain presented by remote hosts during a TLS connection initiated from the ServiceNow instance are not validated.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ Verifies hostname and certificate chain presented by remote secure socket layer 
 </td></tr></tbody>
 </table>**Parent Topic:**[Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-communications.md)
 
-## Related
-
-- [[sc-communications|Communications]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

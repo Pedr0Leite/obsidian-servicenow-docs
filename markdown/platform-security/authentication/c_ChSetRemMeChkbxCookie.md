@@ -16,11 +16,11 @@ breadcrumb: [Local authentication, Authentication, Access Management]
 
 When the **Remember me** check box is selected at login, a cookie is stored on the user's computer. This cookie automatically authenticates the user upon subsequent visits.
 
-If the user [[logs|logs]] out, the cookie is destroyed. The default value of the **Remember me** check box is controlled by one property, and whether or not the check box appears on the login page is controlled by a different property.
+If the user logs out, the cookie is destroyed. The default value of the **Remember me** check box is controlled by one property, and whether or not the check box appears on the login page is controlled by a different property.
 
 Two properties, **glide.ui.user\_cookie.life\_span\_in\_days** and **glide.ui.user\_cookie.max\_life\_span\_in\_days** control the glide\_user system generated cookie expiration value. When a user accesses an instance with 'remember me' enabled, the access resets the cookie expiration period until the maximum \(glide.ui.user\_cookie.max\_life\_span\_in\_days\) life span limit is reached.
 
-**Note:** To learn more about these properties, see the following topics in Instance [[sc-hardening|Security Hardening]] Settings:
+**Note:** To learn more about these properties, see the following topics in Instance Security Hardening Settings:
 
 -   [Minimize absolute session timeout duration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-absolute-session-timeout.md)
 -   [Minimize session window timeout duration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-window-timeout.md)
@@ -35,7 +35,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[ca-system-properties|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Locate the **Default value of "Remember me" checkbox on login page** property \(**glide.ui.remember.me.default**\).
 
@@ -46,7 +46,7 @@ Role required: admin
 
 ## Remove the Remember me check box
 
-You can remove the **Remember me** check box so [[users|users]] do not have access to this feature.
+You can remove the **Remember me** check box so users do not have access to this feature.
 
 ### Before you begin
 
@@ -68,9 +68,4 @@ Role required: security\_admin
 
 5.  To restore the **Remember me** check box to the login page, clear the property check box.
 
-## Related
 
-- [[logs|Logs]]
-- [[sc-hardening|Security hardening]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

@@ -18,7 +18,7 @@ Customize email and SMS notifications for appointments. These notifications help
 
 An email and SMS notification for an appointment includes task information, such as the task number and description, as well as the appointment time. It can also include a link that enables the user to reschedule or cancel the appointment.
 
-System administrators can configure both email and SMS notifications using the following [[appointment-booking|appointment booking]] email templates.
+System administrators can configure both email and SMS notifications using the following appointment booking email templates.
 
 -   appointment.confirmed
 -   appointment.cancel
@@ -36,6 +36,3 @@ Appointment booking email and SMS notifications are active for all services usin
 |Appointment Cancel|Sent to the customer when an appointment is canceled. Can include task information and also a reason for the cancellation.|
 |Appointment Reschedule|Sent to the customer when an appointment is rescheduled.|
 
-## Related
-
-- [[appointment-booking|Appointment booking]]

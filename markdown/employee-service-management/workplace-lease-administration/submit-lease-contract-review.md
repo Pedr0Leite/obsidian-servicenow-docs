@@ -22,7 +22,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-lease-admin-feat|Workplace Lease Administration]]** &gt; **Workplace Contracts**.
+1.  Navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
 2.  Select a contract in Draft state.
 
@@ -44,6 +44,3 @@ An email message is sent to the selected approver and the contract substate chan
 
 [Approve or reject a workplace contract in Core UI]()
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

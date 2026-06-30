@@ -32,7 +32,7 @@ Role required: admin
 
 4.  In the **New flow name** field, enter a name for the copied flow.
 
-5.  In the **Application** field, select **[[fin-case-mgmt-landing-page|Finance Case Management]]**.
+5.  In the **Application** field, select **Finance Case Management**.
 
 6.  Select **Copy**.
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Components installed with Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/installed-with-fin-ops.md)
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

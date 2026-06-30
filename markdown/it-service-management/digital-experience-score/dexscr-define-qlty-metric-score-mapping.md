@@ -22,7 +22,7 @@ Role required: sn\_dex\_score.digital\_workplace\_leader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dexscr-digital-experience-score|Digital Experience Score​]]** &gt; **Qualitative Metric Score Mapping**.
+1.  Navigate to **All** &gt; **Digital Experience Score​** &gt; **Qualitative Metric Score Mapping**.
 
 2.  From the Qualitative Metric Score Mappings page, open a metric record using one of the following options.
 
@@ -77,6 +77,3 @@ Performance category such as Poor, Moderate, or Good that you can map to a norma
 
 [DEX Score metrics calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-metrics-calc.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]

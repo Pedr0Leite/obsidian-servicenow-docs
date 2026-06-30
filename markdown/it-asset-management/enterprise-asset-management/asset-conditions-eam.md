@@ -42,7 +42,7 @@ The asset condition workflow comprises of the following stages:
 
 -   **Define condition attributes**
 
-    Enterprise asset managers define condition attributes for evaluating [[c_Models|models]] and assets. For more details, see [Define condition attributes on enterprise models and assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-condition-attribute-eam.md).
+    Enterprise asset managers define condition attributes for evaluating models and assets. For more details, see [Define condition attributes on enterprise models and assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-condition-attribute-eam.md).
 
 -   **Schedule condition evaluations**
 
@@ -81,6 +81,3 @@ Define the conditions to be inspected on enterprise models and assets throughout
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_Models|Models]]

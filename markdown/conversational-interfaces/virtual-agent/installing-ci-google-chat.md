@@ -15,7 +15,7 @@ breadcrumb: [Configuring your Conversational Integration with Google Chat, Conve
 
 # Integrate Virtual Agent with Google Chat using the self-configured bot
 
-Install the Google Chat \(sn\_va\_google-chat\) application so that Now [[virtual-agent-landing-page|Virtual Agent]] and Google Chat users can interact with each other.
+Install the Google Chat \(sn\_va\_google-chat\) application so that Now Virtual Agent and Google Chat users can interact with each other.
 
 ## Before you begin
 
@@ -108,6 +108,3 @@ Install the Google Chat \(sn\_va\_google-chat\) application so that Now [[virtua
 
 **Parent Topic:**[Configuring your Conversational Integration with Google Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-google-chat.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

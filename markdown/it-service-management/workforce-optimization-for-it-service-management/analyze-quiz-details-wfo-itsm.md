@@ -24,7 +24,7 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|coaching]] icon.
+2.  Select the coaching icon.
 
 3.  Select the **Learning** tab.
 
@@ -39,6 +39,3 @@ Role required: sn\_wfo\_cfg\_itsm.manager
 
 **Parent Topic:**[Learning in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-learning-configurable-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

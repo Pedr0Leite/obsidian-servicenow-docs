@@ -14,11 +14,11 @@ breadcrumb: [Agent Client Collector Log Analytics, Agent Client Collector, IT Op
 
 # Set up additional ACC data inputs
 
-Data inputs for streaming log messages to your ServiceNow instance using the [[acc-landing-page|Agent Client Collector]] are created automatically as part of the Agent Client Collector setup. Set up additional ACC data inputs manually as needed using the [[hla-landing-page|Health Log Analytics]] data input setup flow.
+Data inputs for streaming log messages to your ServiceNow instance using the Agent Client Collector are created automatically as part of the Agent Client Collector setup. Set up additional ACC data inputs manually as needed using the Health Log Analytics data input setup flow.
 
 ## Before you begin
 
--   The [[acc-log-analytics|Agent Client Collector Log Analytics]] application has a dependency on the following ServiceNow applications, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home):
+-   The Agent Client Collector Log Analytics application has a dependency on the following ServiceNow applications, available from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home):
     -   Health Log Analytics, Version 22.0.12 - December 2021 and later releases.
     -   Agent Client Collector -Framework, Version 2.7.0 - December 2021 and later releases.
 -   Verify that a MID Server is installed and configured. For more information, see [MID Server system requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MIDServerSystemRequirements.md).
@@ -56,8 +56,4 @@ It is important to configure an ACC data input for every MID Server to which Age
 
     For more information, see [Refine the source type structure in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-source-type-structure-refine.md).
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Request a false positive for a vulnerable item or remediate task
 
-Indicate a false positive request for host vulnerable item \(VIT\), application vulnerable item \(AVIT\), container vulnerable item \(CVIT\), or remediation task \(VUL, AVUL, CVUL or CRG\) in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]]. A false positive is a condition where a scanner incorrectly reports that a vulnerability exists in the system due to situations such as an incorrect classification, improper logic, or an algorithm in the scanner.
+Indicate a false positive request for host vulnerable item \(VIT\), application vulnerable item \(AVIT\), container vulnerable item \(CVIT\), or remediation task \(VUL, AVUL, CVUL or CRG\) in the IT Remediation Workspace. A false positive is a condition where a scanner incorrectly reports that a vulnerability exists in the system due to situations such as an incorrect classification, improper logic, or an algorithm in the scanner.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required:
 
 ## About this task
 
-For information on how to [[vmws-tr-false-positive|request a false positive for a set of test results]], see [Request a false positive for a set of test results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vmws-tr-false-positive.md).
+For information on how to request a false positive for a set of test results, see [Request a false positive for a set of test results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vmws-tr-false-positive.md).
 
 ## Procedure
 
@@ -104,7 +104,3 @@ The state of the remediation task and its records reverts to previous state.
 
 [False Positive overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-false-positive.md)
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vmws-tr-false-positive|Request a false positive for a set of test results]]

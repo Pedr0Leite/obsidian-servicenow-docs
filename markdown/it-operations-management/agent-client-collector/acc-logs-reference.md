@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector log levels
 
-The following table displays the available log levels which indicate the severity of [[acc-landing-page|Agent Client Collector]] events.
+The following table displays the available log levels which indicate the severity of Agent Client Collector events.
 
 |Log level|Description|
 |---------|-----------|
@@ -27,6 +27,3 @@ The following table displays the available log levels which indicate the severit
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -24,23 +24,16 @@ This flow runs automatically when a configuration item is added to a security in
 
 \[Omitted image "get-network-statistics-flow.png"\] Alt text: Security Operations Integrations - Get Network Statistics flow
 
-Actions specific to this flow are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+Actions specific to this flow are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 The flow actions include:
 
--   [[determine-cis-activity|Capability - Determine CIs activity]]
+-   [Capability - Determine CIs activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/determine-cis-activity.md)
 -   
 .
 
--   **[[execution-tracking-begins-cis-activity|Execution Tracking - Begin \(CIs\) Flow Action]]**  
-The **Execution Tracking - Begin \(CIs\)** flow action starts the auditing process for a [[security-operations-landing-page|Security Operations]] Integration flow that operates on configuration items \(CIs\).
+-   **[Execution Tracking - Begin \(CIs\) Flow Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/execution-tracking-begins-cis-activity.md)**  
+The **Execution Tracking - Begin \(CIs\)** flow action starts the auditing process for a Security Operations Integration flow that operates on configuration items \(CIs\).
 
-**Parent Topic:**[[get-network-statistics-capability|Security Operations Integration- Get Network Statistics capability]]
+**Parent Topic:**[Security Operations Integration- Get Network Statistics capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-network-statistics-capability.md)
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[determine-cis-activity|Capability - Determine CIs activity]]
-- [[execution-tracking-begins-cis-activity|Execution Tracking - Begin \(CIs\) Flow Action]]
-- [[get-network-statistics-capability|Security Operations Integration- Get Network Statistics capability]]
-- [[security-operations-landing-page|Security Operations]]

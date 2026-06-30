@@ -14,7 +14,7 @@ breadcrumb: [Integrating Task Mining, Explore, Task Mining, Platform Analytics]
 
 # Integration with Automation Center
 
-Create automation requests for your tasks directly from [[task-mining|Task Mining]]. Capture both steps and desktop actions automation properties in a single recording session, instead of recording the same process twice. When a Task Mining analyst submits an automation request, the recording is delivered to the automation team with all UI properties needed to build desktop actions.
+Create automation requests for your tasks directly from Task Mining. Capture both steps and desktop actions automation properties in a single recording session, instead of recording the same process twice. When a Task Mining analyst submits an automation request, the recording is delivered to the automation team with all UI properties needed to build desktop actions.
 
 You must install and configure the Automation Center plugin before using the integration. See [Install Automation Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/install-automation-center.md) for more information.
 
@@ -22,8 +22,8 @@ To use the Now Assist feature in the integration, you must install Now Assist fo
 
 ## Initiate an automation request from the Task timeline analysis
 
-1.  As a Task Mining analyst, you [[create-task-mining-projects|create a Task Mining project]] with a Task timeline analysis as a Mining analysis goal. For more information, see [Create a Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/create-task-mining-projects.md). You group user actions as a task to provide data for the analysis. For more information, see [Define user actions for task logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mine-data.md).
-2.  [[mine-project-data|Run a mining job]] on the Task Mining project to generate the Task timeline analysis of your project data.
+1.  As a Task Mining analyst, you create a Task Mining project with a Task timeline analysis as a Mining analysis goal. For more information, see [Create a Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/create-task-mining-projects.md). You group user actions as a task to provide data for the analysis. For more information, see [Define user actions for task logging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mine-data.md).
+2.  Run a mining job on the Task Mining project to generate the Task timeline analysis of your project data.
 3.  Go to the project's Task timeline analysis, and select a task to see a detailed list of the steps of the task.
 4.  Create a copy that you use for automation without affecting the original. In the duplicate task, edit any of these steps if you want to change task details.
 5.  When you're ready, select Take action and select the Request automation improvement action.
@@ -43,8 +43,3 @@ To use the Now Assist feature in the integration, you must install Now Assist fo
 
 [Identify task improvement actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/identify-improvement-opportunities.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[create-task-mining-projects|Create a Task Mining project]]
-- [[mine-project-data|Run a mining job]]

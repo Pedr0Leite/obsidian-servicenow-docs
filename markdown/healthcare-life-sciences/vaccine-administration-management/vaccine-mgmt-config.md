@@ -14,7 +14,7 @@ breadcrumb: [Vaccine Administration Management, Healthcare and Life Sciences Ser
 
 # Configuring Vaccine Administration Management
 
-Complete all configuration tasks to ensure that [[hcls-vam|Vaccine Administration Management]] is set up correctly for your organization.
+Complete all configuration tasks to ensure that Vaccine Administration Management is set up correctly for your organization.
 
 -   [Install Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-install-vaccine-management.md)
 -   [Create vaccine models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/add-vaccine-inventory.md)
@@ -51,11 +51,11 @@ Create a vaccine model to track and manage different vaccines under Vaccine Admi
 -   **[Create vaccine consumable assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/create-vaccine-consumable-assets.md)**  
 Create a vaccine consumable asset and associate it with a vaccine model.
 -   **[Create vaccination programs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-create-vaccination-program.md)**  
-[[hcls-create-vaccination-program|Create vaccination programs]] to track and manage vaccinations.
+Create vaccination programs to track and manage vaccinations.
 -   **[Configure the eligibility criteria for a vaccination program](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/configure-eligibility-for-appointment-booking.md)**  
 Configure the eligibility criteria that users must meet to be eligible for a vaccination program.
 -   **[Configure advanced appointment scheduling for a center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/configure-location-level-weekly-schedule-config.md)**  
-[[configure-location-level-weekly-schedule-config|Configure advanced appointment scheduling for a center]]. Advanced appointment scheduling enables you to configure different vaccination schedules, weekly, daily, and more, and the capacity to meet the changing needs of different location centers and programs.
+Configure advanced appointment scheduling for a center. Advanced appointment scheduling enables you to configure different vaccination schedules, weekly, daily, and more, and the capacity to meet the changing needs of different location centers and programs.
 -   **[Configure inventory-based scheduling for a center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/configure-scheduling-by-inventory.md)**  
 Configure scheduling based on available inventory for a center.
 -   **[Configure vaccine appointment scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-appt-booking.md)**  
@@ -93,8 +93,3 @@ Use a scoped cache instead of a global cache in Vaccine Administration Managemen
 
 **Parent Topic:**[Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/hcls-vam.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]
-- [[hcls-create-vaccination-program|Create vaccination programs]]
-- [[configure-location-level-weekly-schedule-config|Configure advanced appointment scheduling for a center]]

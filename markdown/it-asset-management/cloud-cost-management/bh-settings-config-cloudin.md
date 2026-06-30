@@ -14,7 +14,7 @@ breadcrumb: [Improve resource usage with Business hours, Using Cloud Cost Manage
 
 # Configure Business hours operations
 
-You can choose to use or to disable [[bh-cloudin|Business Hours]] features and specify the amount of non-business hour spend that triggers notifications to users or groups. Controlling unnecessary resource use can help reduce costs.
+You can choose to use or to disable Business Hours features and specify the amount of non-business hour spend that triggers notifications to users or groups. Controlling unnecessary resource use can help reduce costs.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Business hours**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Business hours**.
 
 2.  Select **Settings**.
 
@@ -138,7 +138,7 @@ Default: 15The value is calculated using the amount that could be saved if all B
 
 </td></tr><tr><td>
 
-Notify when [[ur-cloudin|unassigned resources]] exceed \(%\) of total CIs
+Notify when unassigned resources exceed \(%\) of total CIs
 
 </td><td>
 
@@ -173,8 +173,3 @@ Default value: 1000
 
 [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ITILChangeManagement.md)
 
-## Related
-
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[ur-cloudin|Unassigned resources]]

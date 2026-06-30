@@ -14,8 +14,5 @@ breadcrumb: [Service Exchange for Consumers, Service Exchange]
 
 # Use for consumers
 
-As a consumer, learn how to use [[tmt-service-bridge-both-landing-page|Service Exchange]] to activate various entitlements to fulfill your requirements.
+As a consumer, learn how to use Service Exchange to activate various entitlements to fulfill your requirements.
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

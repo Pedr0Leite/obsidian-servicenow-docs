@@ -14,9 +14,9 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 
 # Event monitoring with DEX
 
-DEX collects and analyzes system events from managed [[dex-workspace-devices-tab|devices]] so that you can detect issues, set alert thresholds, and investigate incidents faster. You can monitor system-level events across endpoints and take action before issues impact employees.
+DEX collects and analyzes system events from managed devices so that you can detect issues, set alert thresholds, and investigate incidents faster. You can monitor system-level events across endpoints and take action before issues impact employees.
 
-Event monitoring extends [[dex-landing|Digital End-User Experience]] \(DEX\) capabilities beyond [[perf-metrics-mob|performance metrics]] to include system event tracking. This feature enables you to monitor critical system events on managed Windows and macOS devices, providing deeper visibility into device health and enabling faster incident investigation.
+Event monitoring extends Digital End-User Experience \(DEX\) capabilities beyond performance metrics to include system event tracking. This feature enables you to monitor critical system events on managed Windows and macOS devices, providing deeper visibility into device health and enabling faster incident investigation.
 
 System events are discrete, timestamped occurrences that the operating system records when something noteworthy happens on a device—for example, an application crash, a service failure, or a security-related action. Unlike performance metrics, which capture continuous measurements such as CPU utilization, events are point-in-time records that can indicate the root cause of a broader issue.
 
@@ -30,8 +30,3 @@ DEX supports event monitoring on both Windows and macOS. On Windows, events are 
 
 You can configure up to 25 events for each operating system type. See [Add an event to monitor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/add-event-to-monitor.md) to create a custom event rule.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-landing|Digital End-User Experience]]
-- [[perf-metrics-mob|Performance metrics]]

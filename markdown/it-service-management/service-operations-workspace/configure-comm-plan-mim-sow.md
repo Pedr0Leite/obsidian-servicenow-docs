@@ -18,7 +18,7 @@ Configure a communication plan and tasks for effective communication with variou
 
 ## Before you begin
 
-The Major [[c_IncidentManagement|Incident Management]] plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
+The Major Incident Management plugin must be activated in Service Operations Workspace. For more information, see [Activate Major Incident Management in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mim-sow.md).
 
 Role required: admin
 
@@ -42,7 +42,7 @@ Role required: admin
     -   **Copy**: Copies the communications plans along with the task information. This option helps when creating a communications plan using the data of an existing communication plan.
     In case if no communication plans exist, the **Create a communication plan** option is displayed.
 
-4.  Select **New** to create a [[communication-plan-definition|communication plan definition]].
+4.  Select **New** to create a communication plan definition.
 
     For more information on creating a communication plan, see [Define a communication plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-comm-plan-definition.md).
 
@@ -54,19 +54,14 @@ Role required: admin
 
     For more information on creating a communication task, see [Define a communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-comm-task-definition.md).
 
-6.  On the [[communication-task-definition|Communication task definition]] record, select the required communication channel related link to define the communication channel.
+6.  On the Communication task definition record, select the required communication channel related link to define the communication channel.
 
     The communication channel related list contains the communication channel related links such as Add channel - Email, Add channel - Sidebar discussion and Add channel - DEX Desktop Assistant. For more information on creating a communication channel, see [Define a communication channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-comm-channel-definition.md).
 
-7.  On the Communication plan definition record, select the [[communication-contact-definition|Communication contact definition]] related list.
+7.  On the Communication plan definition record, select the Communication contact definition related list.
 
 8.  Select **New** to create a communication contact definition.
 
     For more information on creating a communication contact definition, see [Define a communication contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-comm-contact-definition.md).
 
-## Related
 
-- [[c_IncidentManagement|Incident Management]]
-- [[communication-plan-definition|Communication plan definition]]
-- [[communication-task-definition|Communication task definition]]
-- [[communication-contact-definition|Communication contact definition]]

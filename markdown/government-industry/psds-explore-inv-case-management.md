@@ -44,7 +44,7 @@ Key features of Investigative Case Management include:
     -   Create incident and investigation event records to help capture the timeline for important events that happen during the investigation, and the timeline of the investigation itself.
     -   View audit logs for all firearm record changes and relationship updates.
     -   Associate multiple entities to each other and to the case, as well as manage all entities and their relationships to the case.
-    For more information on Entity Management, see [[psds-explore-icm-entity-management|Using Entity Management]].
+    For more information on Entity Management, see [Using Entity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-entity-management.md).
 
 -   **Evidence Management**
 
@@ -58,13 +58,13 @@ Key features of Investigative Case Management include:
     -   Link to external evidence storage solutions via a configurable URL field.
     -   Introduce a digital chain of custody feature that tracks the movement, transfer, and status changes of evidence records with timestamps and responsible personnel for each action.
     -   Enable relationship mapping between pieces of evidence and all relevant case entities \(People, Locations, Vehicles, Events, Property, and Organizations\).
-    For more information on Evidence Management, see [[psds-explore-icm-evidence-management|Using Evidence Management]].
+    For more information on Evidence Management, see [Using Evidence Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-explore-icm-evidence-management.md).
 
 -   **Case summarization and Narrative refinement gen-AI skills**
 
     \[Omitted image "psds-icm-case-summary.jpg"\] Alt text: Investigative Case Management genai case summary view
 
-    Synthesize case narratives, entities, evidence, and activity into a condensed, structured summary using the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] Investigative Case summarization skill, allowing agents to grasp case context, respond to inquiries, propose solutions, and integrate generated resolution information for investigative outcomes into the case record. This skill integrates into the ICM workspace, allowing agents to generate a summary directly from the case record page.
+    Synthesize case narratives, entities, evidence, and activity into a condensed, structured summary using the Now Assist for Public Sector Digital Services \(PSDS\) Investigative Case summarization skill, allowing agents to grasp case context, respond to inquiries, propose solutions, and integrate generated resolution information for investigative outcomes into the case record. This skill integrates into the ICM workspace, allowing agents to generate a summary directly from the case record page.
 
     Refine the case narrative before supervisory review using the ICM Narrative refinement AI skill. This skill, accessible through the Now Assist for Public Sector Digital Services \(PSDS\) context menu directly on the case record page, integrates into the ICM workspace.
 
@@ -77,11 +77,5 @@ Key personas of Investigative Case Management include:
 -   a Witness, who wants to be able to report a potential crime to an investigative agency. An investigator can create a case from a witness complaint.
 -   an Attorney, who prepare cases for court and advises on legal compliance and case strategy. An investigator can create a case based on information received from an Attorney's office.
 
-For more information on the personas and roles involved in Investigative Case Management, see [[psds-data-model-icm-personas|Investigative Case Management Personas]].
+For more information on the personas and roles involved in Investigative Case Management, see [Investigative Case Management Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-data-model-icm-personas.md).
 
-## Related
-
-- [[psds-explore-icm-entity-management|Using Investigative Case Management Entity Management]]
-- [[psds-explore-icm-evidence-management|Using Investigative Case Management Evidence Management]]
-- [[psds-data-model-icm-personas|Investigative Case Management Personas]]
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

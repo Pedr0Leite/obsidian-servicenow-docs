@@ -46,14 +46,14 @@ Tasks
 
 </td><td>
 
-1.  In the **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **Google Maps** property form:
+1.  In the **System Properties** &gt; **Google Maps** property form:
     -   In the **google.maps.client** field,enter the Client ID for your organization. This ID is from Google and starts with `gme-`, such as `gme-mycompanyname`.
     -   In the **google.maps.client.key** field, enter the private key for Google Maps API for Business. An example of an encoded key is `vNIXE0xscrmjlyV-12Nj_BvUPaw=`. The ServiceNow AI Platform® requires this key to retrieve accurate driving time estimates from Google for some Geolocation features.
     -   Fill out the remaining values on the form.
-2.  Configure your maps using the property [[clone-exclusions-preservers-cleanupscripts|definitions]] from the table.
+2.  Configure your maps using the property definitions from the table.
  **Important:**
 
-The Google Maps Client ID–based configuration is being deprecated. Client ID authentication will not be supported starting May 2026, and [[clone-configurations-tab|configurations]] relying on it will no longer work.
+The Google Maps Client ID–based configuration is being deprecated. Client ID authentication will not be supported starting May 2026, and configurations relying on it will no longer work.
 
 </td></tr><tr><td id="d111496e198">
 
@@ -266,7 +266,7 @@ Maximum number of records in a table that can be processed using the scheduled j
 
         1.  Create the **coordinates\_retrieved\_on** field of the type **Date/Time** in your tables.
         2.  Ensure that the value of the field that tracks time when the coordinates are last retrieved, is populated correctly in the Map Coordinates Refresh Configuration \[cmn\_coordinate\_refresh\_config\] table. Refer to the sample fix script Update coordinates updated on field to update values in the **coordinates\_retrieved\_on** field.
-    5.  Navigate to **System Definition** &gt; **[[c_ScheduledJobs|Scheduled Jobs]]**.
+    5.  Navigate to **System Definition** &gt; **Scheduled Jobs**.
 
     6.  Open the record, **Refresh Latitude Longitude info of Records**.
 
@@ -278,7 +278,7 @@ Maximum number of records in a table that can be processed using the scheduled j
 
 4.  To access Google Maps from the ServiceNow instance based on your region, perform these configurations.
 
-    1.  Navigate to **[[c_UserAdministration|User Administration]]** &gt; **Users**.
+    1.  Navigate to **User Administration** &gt; **Users**.
 
     2.  Select and assign the relevant **Country Code** for the required user.
 
@@ -291,13 +291,5 @@ Maximum number of records in a table that can be processed using the scheduled j
     5.  Click **Save**.
 
 
-**Parent Topic:**[[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]
+**Parent Topic:**[ServiceNow provided integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ServiceNowProvidedintegrations.md)
 
-## Related
-
-- [[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[clone-configurations-tab|Configurations]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[c_UserAdministration|User administration]]

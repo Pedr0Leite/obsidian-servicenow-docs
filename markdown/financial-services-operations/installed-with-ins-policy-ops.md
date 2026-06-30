@@ -12,7 +12,7 @@ breadcrumb: [Reference, Personal Lines Servicing, Property and Casualty Insuranc
 
 # Components installed with Personal Lines Servicing
 
-Several types of components are installed with the installation of the [[fso-overview|Financial Services]] Insurance Policy Operations [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]] store applications, including tables and user roles. The applications also install related plugins and store applications if they are not already installed.
+Several types of components are installed with the installation of the Financial Services Insurance Policy Operations Personal Lines Servicing store applications, including tables and user roles. The applications also install related plugins and store applications if they are not already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -39,9 +39,9 @@ Enables the extension of tables from the Customer Service Management application
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
-|Personal Lines Underwriting|Enables management of personal underwriting services tasks that are used in insurance policy service cases. For more information, see [[installed-with-fso-underwriting-ops|Components installed with Personal Lines Underwriting]].|
-|Document Processor|Enables the management of document services tasks that are used in insurance operations workflows. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
+|Personal Lines Underwriting|Enables management of personal underwriting services tasks that are used in insurance policy service cases. For more information, see [Components installed with Personal Lines Underwriting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/installed-with-fso-underwriting-ops.md).|
+|Document Processor|Enables the management of document services tasks that are used in insurance operations workflows. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 
 ## Roles installed
@@ -64,7 +64,7 @@ Personal insurance policy admin\[sn\_ins\_policy\_b2c.admin\]
 
 </td><td>
 
-Application-specific system administrator role for personal insurance policy that can:-   Grant personal [[financial-services-property-casualty-insurance-servicing|property and casualty insurance servicing]] roles
+Application-specific system administrator role for personal insurance policy that can:-   Grant personal property and casualty insurance servicing roles
 -   Delete personal policy cases and tasks
 -   Configure personal Property and Casualty Insurance Servicing application
 -   Create and modify personal policy service definitions
@@ -85,7 +85,7 @@ Personal insurance contributor\[sn\_ins\_policy\_b2c.contributor\]
 
 </td><td>
 
-Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -252,15 +252,5 @@ Policy Participant Info\[sn\_ins\_policy\_b2c\_policy\_participant\_info\]
 This is an Info table which stores the changes to policy coverages which can take place as part of servicing a case against a policy.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ins-policy-ops-reference|Personal Lines Servicing reference]]
+</table>**Parent Topic:**[Personal Lines Servicing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/ins-policy-ops-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[installed-with-fso-underwriting-ops|Components installed with Personal Lines Underwriting]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[ins-policy-ops-reference|Personal Lines Servicing reference]]
-- [[fso-overview|Financial Services]]
-- [[fso-ins-personal-policy-ops-landing-page|Personal Lines Servicing]]
-- [[financial-services-property-casualty-insurance-servicing|Property and Casualty Insurance Servicing]]

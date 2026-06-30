@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog items, Explore, Service Catalog, Manage service cap
 
 # Monitoring aggregated catalog item data
 
-Monitor aggregated catalog item data like fulfillment automation coverage, translation coverage, and conversational coverage using the [[service-catalog|Service Catalog]] Overview dashboard.
+Monitor aggregated catalog item data like fulfillment automation coverage, translation coverage, and conversational coverage using the Service Catalog Overview dashboard.
 
 ## Aggregated catalog item data graphs
 
@@ -39,6 +39,3 @@ The Catalog item translation coverage graph is displayed only if you have enable
 
 [bundle-par.dashboards-overview]
 
-## Related
-
-- [[service-catalog|Service Catalog]]

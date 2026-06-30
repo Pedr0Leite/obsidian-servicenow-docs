@@ -75,7 +75,7 @@ A risk manager, with the sn\_risk.manager role, must create a risk statement to 
 
 </td><td>
 
-A risk administrator or a risk manager can create a [[risk-assessments|risk assessments]] using the Risk Assessment Designer. For details, see [Create a risk assessment using the Risk Assessment Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-assessment-using-assessment-designer.md).
+A risk administrator or a risk manager can create a risk assessments using the Risk Assessment Designer. For details, see [Create a risk assessment using the Risk Assessment Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-assessment-using-assessment-designer.md).
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Risk administrators and risk managers can create risk indicators. Risk indicator
 
 </td><td>
 
-Risk administrators and risk managers can create entities manually, rather than generating them from the [[entity-type-in-risk-ws|entity types]]. For details, see [Create independent entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-a-profile.md)
+Risk administrators and risk managers can create entities manually, rather than generating them from the entity types. For details, see [Create independent entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-a-profile.md)
 
 </td></tr><tr><td>
 
@@ -105,7 +105,3 @@ Risk administrators and risk managers must create and edit entity types and map 
 </table>
 **Parent Topic:**[Risk Management implementation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-impl-overview.md)
 
-## Related
-
-- [[risk-assessments|risk assessments]]
-- [[entity-type-in-risk-ws|Entity types]]

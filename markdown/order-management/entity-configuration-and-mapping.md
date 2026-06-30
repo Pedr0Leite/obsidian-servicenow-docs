@@ -20,7 +20,7 @@ Create the configurations and mappings for the entities by using the Entity Conf
 
 ## Entity Configuration tables
 
-The entity configuration tables provide you with the information for the [[fields|fields]] on the entity configuration form.
+The entity configuration tables provide you with the information for the fields on the entity configuration form.
 
 <table id="table_m4r_cp1_b1c"><thead><tr><th>
 
@@ -325,7 +325,7 @@ Advanced
 
 </td><td>
 
-Option for advanced configurations.**Note:** To [[Modify|modify]] the script according to your requirements, select **Advanced**.
+Option for advanced configurations.**Note:** To modify the script according to your requirements, select **Advanced**.
 
 </td></tr><tr><td>
 
@@ -565,19 +565,12 @@ Script to customize the mappings.
 |sn\_l2c\_core\_viewer|Read access to all Lead to Cash Core tables|
 |sn\_l2c\_core.entity\_mapping\_viewer|View access to Lead to Cash Core entity mapping|
 
-**Note:** Add a user with the sn\_l2c\_core.admin role, who is responsible for configuring metadata for all Lead-to-Cash tables, as a Delegated Developer for the application where the configuration is being created. Assign the permission “Manage Update Set” \(added under Manage Developers for the respective application\). This ensures that all changes are captured in the correct scope and update [[cpq-sets|sets]]. For details, see [Delegated development and deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_DelegatedDevelopment.md).
+**Note:** Add a user with the sn\_l2c\_core.admin role, who is responsible for configuring metadata for all Lead-to-Cash tables, as a Delegated Developer for the application where the configuration is being created. Assign the permission “Manage Update Set” \(added under Manage Developers for the respective application\). This ensures that all changes are captured in the correct scope and update sets. For details, see [Delegated development and deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_DelegatedDevelopment.md).
 
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[lead-to-cash|Lead to Cash Core]]
+[Lead to Cash Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-to-cash.md)
 
-## Related
-
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[lead-to-cash|Lead to Cash Core]]
-- [[fields|Fields]]
-- [[Modify|Modify]]
-- [[cpq-sets|Sets]]

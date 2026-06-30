@@ -46,7 +46,7 @@ Application
 
 </td><td>
 
-This field is automatically set to **[[portfolio-planning-app-landing-page|Portfolio Planning]] Core** based on your scope.
+This field is automatically set to **Portfolio Planning Core** based on your scope.
 
  If this field shows a different value, then set the scope of your ServiceNow instance to **Portfolio Planning Core**.
 
@@ -74,6 +74,3 @@ Select **Enterprise agile team**.
 
 [Create a custom team type in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/create-custom-team-type-in-eap.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

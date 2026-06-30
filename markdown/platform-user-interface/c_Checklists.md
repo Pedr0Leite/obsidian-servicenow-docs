@@ -28,18 +28,12 @@ To enable checklists, navigate to the form and add the **Checklist** formatter. 
 
 You can add, remove, or rearrange checklist items. You can also save a checklist as a template for future use on other records. Any user can create or edit a checklist and check off completed items.
 
--   **[[t_ActivateChecklists|Activate checklists]]**  
+-   **[Activate checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ActivateChecklists.md)**  
 Checklists are active by default on new instances. For instances upgrading from a previous version, the Checklist plugin must be activated.
--   **[[t_CreateAChecklist|Create a checklist]]**  
+-   **[Create a checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateAChecklist.md)**  
 You can create a unique checklist for each task record. You can quickly create a checklist from a previously created template.
--   **[[t_DeleteAChecklist|Delete checklist or a template]]**  
+-   **[Delete checklist or a template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DeleteAChecklist.md)**  
 You can remove a checklist from a record, and delete checklist templates you no longer need.
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
-## Related
-
-- [[t_ActivateChecklists|Activate checklists]]
-- [[t_CreateAChecklist|Create a checklist]]
-- [[t_DeleteAChecklist|Delete checklist or a template]]
-- [[c_UsingForms|Forms in the classic environment]]

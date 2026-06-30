@@ -14,7 +14,7 @@ breadcrumb: [Client Software Distribution, Orchestration applications, Classic O
 
 # Extend a software lease
 
-Users of software deployed by [[c_ClientSoftwareDistribution|Client Software Distribution]] \(CSD\) can request the extension of a lease window, if the software is revocable by a software distribution system.
+Users of software deployed by Client Software Distribution \(CSD\) can request the extension of a lease window, if the software is revocable by a software distribution system.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If your software has a lease end date defined, and the software status is **Inst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **My Requested Software**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **My Requested Software**.
 
     The list shows only the software you have requested from the service catalog.
 
@@ -49,7 +49,3 @@ If your software has a lease end date defined, and the software status is **Inst
 
 **Parent Topic:**[Client Software Distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_ClientSoftwareDistribution.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]

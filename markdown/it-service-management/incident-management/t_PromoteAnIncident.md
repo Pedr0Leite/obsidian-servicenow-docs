@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents, Incident Management, IT Service Management]
 
 # Create a record from incident
 
-[[create-a-problem-v2|Create a problem]], change, or request record from an incident.
+Create a problem, change, or request record from an incident.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Option
 
 </td><td>
 
-Create Problem. For more information, refer to [Create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-a-problem-v2.md).**Note:** Use the property **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) to specify fields on the Incident form. The values of these fields are copied to the respective fields on the [[problem-form|Problem form]]. The property is available for customers starting the Madrid release.
+Create Problem. For more information, refer to [Create a problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/create-a-problem-v2.md).**Note:** Use the property **List of attributes \(comma-separated\) that will be copied from the incident to create a new problem** \(**com.snc.problem.create\_from\_incident.attributes**\) to specify fields on the Incident form. The values of these fields are copied to the respective fields on the Problem form. The property is available for customers starting the Madrid release.
 
 </td></tr><tr><td id="d78930e142">
 
@@ -78,12 +78,8 @@ The syntax for copying a field from the Incident form to the Change form is:
 `changeRequest.setValue("field_name", current.field_name);`. The admin adds this information in the script block of the incident record.
 
 </td></tr></tbody>
-</table>    The form for the new record appears and is already saved. Some specific fields are copied to the newly generated record from the incident. You can find [[reference-for-itsm-mobile-agent|reference]] of the newly created task record in the Related Records section of the Incident form.
+</table>    The form for the new record appears and is already saved. Some specific fields are copied to the newly generated record from the incident. You can find reference of the newly created task record in the Related Records section of the Incident form.
 
 4.  Complete the Problem, Change, or Request form with additional information and click **Update**.
 
-## Related
 
-- [[create-a-problem-v2|Create a problem]]
-- [[problem-form|Problem form]]
-- [[reference-for-itsm-mobile-agent|Reference]]

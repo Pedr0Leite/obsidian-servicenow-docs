@@ -15,7 +15,7 @@ breadcrumb: [Application Manager, Administering applications, Get started, Admin
 
 # Application Manager reference
 
-[[reference-email-admin|Reference]] topics provide information to help understand [[application-manager|Application Manager]] status indicators.
+Reference topics provide information to help understand Application Manager status indicators.
 
 -   **[Domain separation and Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager-domain-separation.md)**  
 Domain separation is unsupported for Application Manager. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
@@ -24,10 +24,5 @@ Application detail page headers display indicators with additional information a
 -   **[App installation blocked when installing or updating Now Assist Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/app-installation-blocked.md)**  
 Unlicensed applications can block the installation or update of Now Assist Suites.
 
-**Parent Topic:**[[administering-applications|Administering applications]]
+**Parent Topic:**[Administering applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/administering-applications.md)
 
-## Related
-
-- [[administering-applications|Administering applications]]
-- [[reference-email-admin|Reference]]
-- [[application-manager|Application Manager]]

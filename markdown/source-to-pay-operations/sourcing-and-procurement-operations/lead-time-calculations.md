@@ -14,15 +14,15 @@ breadcrumb: [Setting up primary data Shopping, Configure, Sourcing and Procureme
 
 # Lead time calculations
 
-Lead time \(in days\) of a [[supplier|supplier]] product consist of the time for sourcing, supplier onboarding, purchasing, and shipping for a supplier product, product model, or a product category. Each of these durations are used to calculate the total lead time which determines the number of days to execute a [[purchase-order-table|purchase order]].
+Lead time \(in days\) of a supplier product consist of the time for sourcing, supplier onboarding, purchasing, and shipping for a supplier product, product model, or a product category. Each of these durations are used to calculate the total lead time which determines the number of days to execute a purchase order.
 
 ## Supplier onboarding time
 
 Supplier onboarding time indicated the average number of days to onboard a new supplier for a product of a category. The initial default value is 15 days, as defined in the sn\_shop.default.supplier.onboard.time property of the purchasing properties table.
 
-When a [[purchase-requisition|purchase requisition]] is created for a supplier product, it can have a purchasing task of type supplier onboarding. Over time, as purchase requisitions are completed, the onboarding time for a supplier is updated automatically as follows:
+When a purchase requisition is created for a supplier product, it can have a purchasing task of type supplier onboarding. Over time, as purchase requisitions are completed, the onboarding time for a supplier is updated automatically as follows:
 
-For a product category: Supplier onboarding time = Sum \[Actual Duration of supplier tasks for purchase requisitions with [[purchase-lines|purchase lines]] in a category\]/Number of Supplier onboarding tasks.
+For a product category: Supplier onboarding time = Sum \[Actual Duration of supplier tasks for purchase requisitions with purchase lines in a category\]/Number of Supplier onboarding tasks.
 
 Example calculation of supplier onboarding time:
 
@@ -89,7 +89,7 @@ Example calculation of sourcing time:
 
 <table id="table_by1_tvb_hlb"><tbody><tr><td class="sub-head" colspan="3">
 
-[[sourcing-request|Sourcing Request]] A for MacBooks
+Sourcing Request A for MacBooks
 
 </td></tr><tr><td colspan="3">
 
@@ -276,10 +276,3 @@ The total lead time of a supplier product is recalculated every time the values 
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-lines|Purchase lines]]
-- [[sourcing-request|Sourcing request]]

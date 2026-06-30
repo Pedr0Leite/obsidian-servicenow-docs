@@ -14,7 +14,7 @@ breadcrumb: [Discovery for Alibaba Cloud, Discovery for cloud environment, Disco
 
 # Set up Alibaba Cloud service accounts
 
-Create Alibaba Cloud infrastructure service accounts on the ServiceNow AI Platform to access your Alibaba Cloud account during Alibaba Cloud [[r-discovery|discovery]].
+Create Alibaba Cloud infrastructure service accounts on the ServiceNow AI Platform to access your Alibaba Cloud account during Alibaba Cloud discovery.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Create a schedule for Alibaba Cloud in [Discovery](https://raw.githubusercontent
 
 **Parent Topic:**[Discovery for Alibaba Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/alibaba-cloud-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure, Service Graph Connectors, Integrating third-party 
 
 # Quick start tests for Service Graph Connector for Microsoft Azure
 
-Validate that [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Service Graph Connector for Microsoft Azure still works after you make any configuration change such as applying an upgrade or developing an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 **Danger**
 
@@ -31,7 +31,7 @@ By default, the system property that is used to run automated tests is turned of
 |SG-Azure Hardware Template|Validate the successful ingesion of multiple records in the Hardware Template and Compute Template tables.|Utah|
 |SG-Azure Load Balancers|Validate the successful ingestion of multiple records in the Load Balancer, Computer Security Group and Relations table with the prerequisite parent ingestion.|Utah|
 |SG-Azure Network|Validate the successful ingestion of multiple records in the Network table with the prerequisite parent ingestion.|Utah|
-|SG-Azure Network Interface|Validate the successful ingestion of multiple records in the Networks, Public [[ip-address|IP Address]] and Relations table.|Utah|
+|SG-Azure Network Interface|Validate the successful ingestion of multiple records in the Networks, Public IP Address and Relations table.|Utah|
 |SG-Azure Public IP Address|Validate the successful ingestion of multiple records in the Public IP Address, Networks, and Load Balancer tables.|Utah|
 |SG-Azure Resource Group|Validate the successful ingestion of records in the Resource Group table.|Utah|
 |SG-Azure Scale Sets|Validate the successful ingestion of records in the Scale Sets and Relations tables.|Utah|
@@ -52,7 +52,3 @@ To learn more about Service Graph Connector for Microsoft Azure, see [Service Gr
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[ip-address|IP Address]]

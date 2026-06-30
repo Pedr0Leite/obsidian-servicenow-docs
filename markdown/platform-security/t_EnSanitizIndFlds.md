@@ -40,8 +40,6 @@ You need to first set the sanitizer property to false, and then enable the sanit
     -   To enable sanitization enter `html_sanitize=true`
 5.  Click **Update**.
 
-6.  To enable the [[c_HTMLSanitizer|HTML sanitizer]] for translated HTML fields, set the **glide.translated\_html.sanitize\_all\_fields** property is **true**.
+6.  To enable the HTML sanitizer for translated HTML fields, set the **glide.translated\_html.sanitize\_all\_fields** property is **true**.
 
-## Related
 
-- [[c_HTMLSanitizer|HTML sanitizer]]

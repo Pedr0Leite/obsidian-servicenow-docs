@@ -29,7 +29,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
 
 ## About this task
 
-**Note:** If you're customizing a theme that you created with Theme Builder and enter invalid JSON code, you can't save your theme record. While working in the UX theme record, you can navigate to the Editor page by using the **Open in Theme Builder** button. For more information, see [[tb-edit-theme|Manage or edit a theme with Theme Builder]].
+**Note:** If you're customizing a theme that you created with Theme Builder and enter invalid JSON code, you can't save your theme record. While working in the UX theme record, you can navigate to the Editor page by using the **Open in Theme Builder** button. For more information, see [Manage or edit a theme with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-theme.md).
 
 ## Procedure
 
@@ -47,7 +47,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
 
     -   **Applicability**
 
-        Overrides the base theme. Users who meet the applicability constraints see those overrides in their theme rather than the base style. For example, a style with different fonts can be applied to managers. Users who meet the manager applicability see the different fonts in the [[next-experience-landing-page|Next Experience UI]], which overrides the base system theme values. Administrators do not have to copy or create an entire theme with changes for the applicable audience.
+        Overrides the base theme. Users who meet the applicability constraints see those overrides in their theme rather than the base style. For example, a style with different fonts can be applied to managers. Users who meet the manager applicability see the different fonts in the Next Experience UI, which overrides the base system theme values. Administrators do not have to copy or create an entire theme with changes for the applicable audience.
 
         **Note:** Leaving the Applicability constraint to empty will apply the style to all users.
 
@@ -67,7 +67,7 @@ The Next Experience includes two themes, Polaris and Coral. You can reuse or cus
         -   **Typography:** Specifies the fonts that are used throughout the application.
     -   **Type**
 
-        Specifies two types: Core and Variant. The Core styles include the color, shape and form, typography, and imagery. Variants specify a different version of the theme, such as the different colors that users can select. The most common variant is a dark version of the theme. The Dark theme is the only variant that is shipped with Next Experience. For more information, see [[next-experience-theming|Working with themes in Next Experience]].
+        Specifies two types: Core and Variant. The Core styles include the color, shape and form, typography, and imagery. Variants specify a different version of the theme, such as the different colors that users can select. The most common variant is a dark version of the theme. The Dark theme is the only variant that is shipped with Next Experience. For more information, see [Working with themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-theming.md).
 
 6.  Select the **Style** field and select the lookup icon \[Omitted image "ux-style-search.png"\] Alt text:.
 
@@ -115,7 +115,7 @@ Type
 
 -   Core
 -   Variant
- For more information on types, see [[difference-themes-variants|Difference between core styles and variants]].
+ For more information on types, see [Difference between core styles and variants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/difference-themes-variants.md).
 
 </td></tr><tr><td>
 
@@ -123,7 +123,7 @@ Style
 
 </td><td>
 
-Values for the colors, shapes, and [[form-configurable-workspace|forms]]. Some of the values are colors and some, like borders, are pixel values.**Important:** JSON code must be wrapped as shown in the following example.\[Omitted image "property-values.png"\] Alt text: Property value string.
+Values for the colors, shapes, and forms. Some of the values are colors and some, like borders, are pixel values.**Important:** JSON code must be wrapped as shown in the following example.\[Omitted image "property-values.png"\] Alt text: Property value string.
 
 </td></tr><tr><td>
 
@@ -141,16 +141,7 @@ Scope of the UX style.
 
 ## What to do next
 
-To publish your custom theme, see [[configure-presentation-order-of-themes|Publish multiple themes in Next Experience]].
+To publish your custom theme, see [Publish multiple themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-presentation-order-of-themes.md).
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[tb-edit-theme|Manage or edit a theme with Theme Builder]]
-- [[next-experience-theming|Working with themes in Next Experience]]
-- [[difference-themes-variants|Core styles, colors, variants, and alternate color palettes]]
-- [[configure-presentation-order-of-themes|Publish multiple themes in Next Experience]]
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[form-configurable-workspace|Forms]]

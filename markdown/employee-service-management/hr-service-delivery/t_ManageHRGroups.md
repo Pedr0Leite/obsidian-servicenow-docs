@@ -20,11 +20,11 @@ HR Groups are a set of users with common job skills.
 
 Role required: sn\_hr\_core.admin, user\_admin
 
-You can have multiple levels of groups. For example, HR is a group that contains all HR employees within your company. You can have subgroups under HR such as HR Benefits, [[hr-case-employee-relations|Employee Relations]], and more.
+You can have multiple levels of groups. For example, HR is a group that contains all HR employees within your company. You can have subgroups under HR such as HR Benefits, Employee Relations, and more.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Manage Roles** &gt; **Manage HR Groups**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Manage Roles** &gt; **Manage HR Groups**.
 
 2.  From the **Groups** list, click **New** or select an existing HR group.
 
@@ -149,7 +149,7 @@ Activities
 
 </td><td>
 
-This field only appears for the [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] application. The HR Service Activities the group manages. The HR Service Activities are part of the [[activity-lxp|Activity]] Set and together make up a Lifecycle Event. Only members of this group can update this HR Service Activity.
+This field only appears for the Lifecycle Events application. The HR Service Activities the group manages. The HR Service Activities are part of the Activity Set and together make up a Lifecycle Event. Only members of this group can update this HR Service Activity.
 
 Refer to [Configure a lifecycle event activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-hr-lifecycle-event-activity.md).
 
@@ -159,9 +159,3 @@ Refer to [Configure a lifecycle event activity](https://raw.githubusercontent.co
 
 **Parent Topic:**[Manage HR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManageRoles.md)
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]

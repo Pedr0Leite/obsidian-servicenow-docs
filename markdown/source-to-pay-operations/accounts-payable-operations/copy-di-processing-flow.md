@@ -39,7 +39,7 @@ Role required: admin
 
 6.  In the **New flow name** field, enter a name for the copied flow.
 
-7.  In the **Application** field, select **[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]**.
+7.  In the **Application** field, select **Accounts Payable Operations integration with Document Intelligence**.
 
 8.  Select **Copy**.
 
@@ -55,6 +55,4 @@ Role required: admin
 
 12. Select **Activate**.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]

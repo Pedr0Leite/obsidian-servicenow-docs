@@ -14,11 +14,11 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Configure dynamic scheduling
 
-[[dynamic-scheduling|Dynamic Scheduling]] enables automatic task assignment to field agents based on predefined rules and configurations. This feature helps streamline task distribution by verifying the correct tasks are assigned to the most suitable agents, optimizing travel time, skill matching, and task priority.
+Dynamic Scheduling enables automatic task assignment to field agents based on predefined rules and configurations. This feature helps streamline task distribution by verifying the correct tasks are assigned to the most suitable agents, optimizing travel time, skill matching, and task priority.
 
 ## Before you begin
 
--   Select dynamic scheduling as the preferred task assignment method. This verifies that tasks are automatically assigned to field agents based on predefined criteria and rules. For more information, see [[t_ConfigureFieldService|task assignment method]].
+-   Select dynamic scheduling as the preferred task assignment method. This verifies that tasks are automatically assigned to field agents based on predefined criteria and rules. For more information, see [task assignment method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md).
 -   Set up agent schedules so that dynamic scheduling systematically verifies optimal task allocation. For more information, see [Set up agent schedules for dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/agent-schedule-dynamic.md).
 -   Review the properties and other installed components related to dynamic scheduling. Customize the settings to align with your organization's specific requirements. For more information, see [Review system properties and components for Dynamic Scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dynamic-sched-system-properties.md).
 -   Verify to configure travel time and distance calculation to determine how the system calculates an agent's estimated travel time and distance to a task location. You can choose between using the Google Maps API for real-time travel estimates or straight-line estimates based on the geolocation property settings.
@@ -53,7 +53,7 @@ By default, the `Dynamic Scheduling Config for Work Order` configuration is avai
 
 6.  Set the **Consider Territory Membership** to either consider or ignore the agent's territory membership for assigning tasks.
 
-    This field appears when the [[territory-planning-fsm|Field Service Territory Planning]] plugin is enabled.
+    This field appears when the Field Service Territory Planning plugin is enabled.
 
 7.  In the **Task Filters** related list, add a task filter or modify an existing task filter or add a new filter.
 
@@ -239,7 +239,7 @@ Matching criterion are used by other ServiceNow applications. For example, the '
 -   Aggregate: uses a simple query and returns an aggregate result. For an aggregate type, select a table and create a filter, and then select an aggregate field such as the **Assigned to** field. This type of query returns a set of users.
 -   Scripted: uses a scripted query which returns a list of users.
 
-**Note:** [[using-wfo-fsm|Workforce optimization]] schedule and personal events aren't supported when using matching criteria.
+**Note:** Workforce optimization schedule and personal events aren't supported when using matching criteria.
 
 <table id="table_rv3_4fg_lwb"><thead><tr><th>
 
@@ -451,7 +451,7 @@ task
 
 </td></tr><tr><td>
 
-Matching [[mandatory-skills|Mandatory Skills]] For Dynamic Scheduling
+Matching Mandatory Skills For Dynamic Scheduling
 
 </td><td>
 
@@ -563,7 +563,7 @@ task
 
 </td></tr><tr><td>
 
-Matching mandatory crew skills for dynamic scheduling**Note:** Needs [[field-service-crew-scheduling|Field Service Crew Operations]] plugin \(com.snc.fsm\_crew\_scheduling\) to be activated.
+Matching mandatory crew skills for dynamic scheduling**Note:** Needs Field Service Crew Operations plugin \(com.snc.fsm\_crew\_scheduling\) to be activated.
 
 </td><td>
 
@@ -643,7 +643,7 @@ wm\_crew
 
 </td></tr><tr><td>
 
-Matching Agent Efficiency Criteria for Dynamic Scheduling**Note:** Needs [[agent-efficiency|Field Service Agent Efficiency]] plugin \(com.snc.fsm\_agent\_efficiency\) to be activated.
+Matching Agent Efficiency Criteria for Dynamic Scheduling**Note:** Needs Field Service Agent Efficiency plugin \(com.snc.fsm\_agent\_efficiency\) to be activated.
 
 </td><td>
 
@@ -949,12 +949,3 @@ If using an advanced constraint, create a script to define the constraint detail
 
 This constraint will prevent task unassignment based on the specified conditions, ensuring that tasks are not unassigned even if they have lower importance according to the task ordering rules.
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[using-wfo-fsm|Workforce Optimization]]
-- [[mandatory-skills|Mandatory skills]]
-- [[field-service-crew-scheduling|Field Service Crew Operations]]
-- [[agent-efficiency|Field Service Agent Efficiency]]

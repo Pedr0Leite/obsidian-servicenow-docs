@@ -18,7 +18,7 @@ CMDB Coverage properties control the behavior of the application.
 
 ## Default system properties
 
-These default system properties are available for the [[cmdb-coverage|CMDB Coverage]] application.
+These default system properties are available for the CMDB Coverage application.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -36,7 +36,7 @@ db\_listener\_enabled​
 
 </td><td>
 
-The DB Listener functionality is enabled when this property is set to `true`.​ The DB Listener creates records in the [[ip-address|IP Address]] Staging \[sn\_cmdb\_ip\_cov\_ip\_staging\] table that correspond to the new and updated records in the tables that are configured in the IP Coverage CI Table Configuration \[sn\_cmdb\_ip\_cov\_ci\_config\] table.**Note:** Do not modify this property. The DB Listener functionality is deactivated when this property is set to `false`.
+The DB Listener functionality is enabled when this property is set to `true`.​ The DB Listener creates records in the IP Address Staging \[sn\_cmdb\_ip\_cov\_ip\_staging\] table that correspond to the new and updated records in the tables that are configured in the IP Coverage CI Table Configuration \[sn\_cmdb\_ip\_cov\_ci\_config\] table.**Note:** Do not modify this property. The DB Listener functionality is deactivated when this property is set to `false`.
 
 -   Type: true \| false
 -   Default value: `true`
@@ -66,7 +66,3 @@ To populate data in the Discovery schedule gaps to allocated IP \[sn\_cmdb\_ip\_
 
 **Parent Topic:**[CMDB Coverage reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-coverage-reference.md)
 
-## Related
-
-- [[cmdb-coverage|CMDB Coverage]]
-- [[ip-address|IP Address]]

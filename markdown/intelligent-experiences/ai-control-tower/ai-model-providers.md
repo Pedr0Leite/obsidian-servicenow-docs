@@ -15,7 +15,7 @@ breadcrumb: [Controls, Configurations, AI Control Tower dashboard, Explore, AI C
 
 # Explore AI model providers
 
-Explore the AI model providers section in [[ai-control-tower-landing|AI Control Tower]].
+Explore the AI model providers section in AI Control Tower.
 
 Role required: AI steward
 
@@ -63,13 +63,13 @@ For information about configuring third-party LLMs through Data routing configur
 
 -   **Fallback**
 
-    If you have active [[ai-system|AI systems]] in ServiceNow® that aren’t supported by your enabled model providers, the ‘fallback mechanism’ enables these systems to continue operating with their default providers. However, if you choose not to enable fallback, these AI systems must be deactivated. AI systems deployed on fallback providers conform with the list of approved providers.
+    If you have active AI systems in ServiceNow® that aren’t supported by your enabled model providers, the ‘fallback mechanism’ enables these systems to continue operating with their default providers. However, if you choose not to enable fallback, these AI systems must be deactivated. AI systems deployed on fallback providers conform with the list of approved providers.
 
     **Note:** The Fallback is activated by default and can be modified.
 
 -   **Spillover**
 
-    Regional deployments of [[ai-models|AI models]] can experience limited capacity, which could lead to request rate limiting and impact performance. Enabling spillover can help prevent these performance issues. In ServiceNow®, only Azure OpenAI currently makes this switch.
+    Regional deployments of AI models can experience limited capacity, which could lead to request rate limiting and impact performance. Enabling spillover can help prevent these performance issues. In ServiceNow®, only Azure OpenAI currently makes this switch.
 
 
 **Note:** The Spillover feature gets active or enabled when Azure OpenAI gets selected.
@@ -113,7 +113,7 @@ If you have selected an AI provider, which is supported by your organization or 
 
 ## Audit logs
 
-Audit logs show configuration changes made on Data, [[approvals|Approvals]], and AI model providers categories in AI Control Tower. You can select the **View audit logs** option to view the Audit logs.
+Audit logs show configuration changes made on Data, Approvals, and AI model providers categories in AI Control Tower. You can select the **View audit logs** option to view the Audit logs.
 
 \[Omitted image "view-audit-logs.png"\] Alt text: Audit logs.
 
@@ -130,14 +130,7 @@ You can also filter the changes by selecting a date range, starting with the las
 
 **Note:**
 
-In the [[multi-instance-management|Multi-instance setup]], when a managed \(sub-prod\) instance is added or removed from the syncing instances in the AI inventory information to synchronize with a specific manager \(prod\) instance, the audit logs first display a record of all instances being removed, followed by a separate record indicating the instance being added or removed.
+In the Multi-instance setup, when a managed \(sub-prod\) instance is added or removed from the syncing instances in the AI inventory information to synchronize with a specific manager \(prod\) instance, the audit logs first display a record of all instances being removed, followed by a separate record indicating the instance being added or removed.
 
 \[Omitted image "audit-logs.png"\] Alt text: AI Control Tower Audit logs.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[approvals|Approvals]]
-- [[multi-instance-management|Multi-instance Setup]]

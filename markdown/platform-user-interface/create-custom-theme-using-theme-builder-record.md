@@ -16,7 +16,7 @@ Create a custom theme in the Next Experience more efficiently using a published 
 
 ## Before you begin
 
-In order to clone a Theme Builder theme, the theme must be published. For information on publishing your Theme Builder theme, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+In order to clone a Theme Builder theme, the theme must be published. For information on publishing your Theme Builder theme, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
 Role required: admin
 
@@ -90,15 +90,10 @@ To avoid your work from being overwritten, your new cloned theme isn’t editabl
 
 6.  Publish your custom theme.
 
-    To publish your custom theme, see [[configure-presentation-order-of-themes|Publish multiple themes in Next Experience]].
+    To publish your custom theme, see [Publish multiple themes in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-presentation-order-of-themes.md).
 
     Now that your custom theme is published, you’re ready to customize your theme. For a step-by-step tutorial for editing your UX Style color record, see Exercise 3, Activity 2 and 3 of the [Next Experience Workshop](https://servicenownextexperience.github.io/labs/CCL1319-K24-Theming-Lab/ex3/activity-2) in the ServiceNow Community.
 
 
-**Parent Topic:**[[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]
+**Parent Topic:**[Configuring Next Experience themes and preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-next-experience-themes-prefs.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[configure-presentation-order-of-themes|Publish multiple themes in Next Experience]]
-- [[config-next-experience-themes-prefs|Configuring Next Experience themes and preferences]]

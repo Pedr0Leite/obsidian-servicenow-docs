@@ -12,34 +12,34 @@ breadcrumb: [Configure the Impact Store Application, Configuring Impact, Impact]
 
 # Use automated registration to connect to the Impact Delivery Instance
 
-The automated registration process simplifies the configuration process and connects your [[impact-landing-page|Impact]] Store Application with data from the Impact Delivery Instance.
+The automated registration process simplifies the configuration process and connects your Impact Store Application with data from the Impact Delivery Instance.
 
 ## Before you begin
 
-[[run-scan-engine|Run your first scan with the Scan Engine]] before this procedure.
+[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md) before this procedure.
 
 **Important:** Impact Store Application features that require a connection to the Impact Delivery Instance:
 
--   Communication with your [[impact-squad|Impact Squad]], including visibility into changes you make in your own Impact Workspace
--   [[capabilities-map|Capabilities Maps]]
+-   Communication with your Impact Squad, including visibility into changes you make in your own Impact Workspace
+-   Capabilities Maps
 -   Accelerators
 -   Recommendations
--   [[impact-par|Product Adoption Roadmaps]]
--   [[impact-in-platform-business-outcomes|Value Management]]
+-   Product Adoption Roadmaps
+-   Value Management
 
-See [[impact-delivery-instance-reference|Impact Delivery Instance reference]] for additional information.
+See [Impact Delivery Instance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-delivery-instance-reference.md) for additional information.
 
 Role required: impact app admin and impact admin \(IDI\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Impact** &gt; **Configuration** &gt; **Guided Setup** &gt; **[[register-your-instance|Register your instance]]**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Configuration** &gt; **Guided Setup** &gt; **Register your instance**.
 
 2.  Select **Start**.
 
 3.  Select **Learn about registering your instance** to read an overview of these steps.
 
-    See [[configuring-impact-platform|Configure the Impact Store Application]] for a summary of the configuration steps.
+    See [Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md) for a summary of the configuration steps.
 
 4.  **Mark as Complete** to continue.
 
@@ -161,24 +161,11 @@ Inbound status \(read-only\)
 
 ## What to do next
 
-[[verify-impact-data-connection|Verify Impact data connection]]
+[Verify Impact data connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/verify-impact-data-connection.md)
 
 **Parent Topic:**[Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md)
 
-**Previous topic:**[[understanding-scan-blocking-override-behavior|Scan blocking and override behavior scenarios]]
+**Previous topic:**[Scan blocking and override behavior scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/understanding-scan-blocking-override-behavior.md)
 
 **Next topic:**[Verify Impact data connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/verify-impact-data-connection.md)
 
-## Related
-
-- [[run-scan-engine|Run your first scan with the Scan Engine]]
-- [[impact-delivery-instance-reference|Impact Delivery Instance reference]]
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[verify-impact-data-connection|Verify Impact data connection]]
-- [[understanding-scan-blocking-override-behavior|Scan blocking and override behavior scenarios]]
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]
-- [[capabilities-map|Capabilities maps]]
-- [[impact-par|Product Adoption Roadmaps]]
-- [[impact-in-platform-business-outcomes|Value management]]
-- [[register-your-instance|Register your instance]]

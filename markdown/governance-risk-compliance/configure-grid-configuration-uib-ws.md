@@ -12,7 +12,7 @@ breadcrumb: [General administration setup for BCM, Configure, Business Continuit
 
 # Configure grid for BIA assessment
 
-Configure the grid to render the BIA dependency assessment grid with configured columns. Use the **Grid Configurations** module in the [[business-continuity-mangmt-overview|Business Continuity Management]] application navigator to configure the grid.
+Configure the grid to render the BIA dependency assessment grid with configured columns. Use the **Grid Configurations** module in the Business Continuity Management application navigator to configure the grid.
 
 ## Before you begin
 
@@ -20,13 +20,13 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Grid Configurations**.
+1.  Navigate to **All** &gt; **Business Continuity** &gt; **General Administration** &gt; **Grid Configurations**.
 
 2.  Select **New**.
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[grid-configuration-record-form|Grid configuration record form]].
+    For more information, see [Grid configuration record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grid-configuration-record-form.md).
 
 4.  Select **Submit**.
 
@@ -34,11 +34,5 @@ Role required: sn\_bcm.admin
 -   **[Grid configuration record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grid-configuration-record-form.md)**  
 Use the Grid configuration record form to set up the BIA assessment grid in the classic Workspace.
 
-**Parent Topic:**[[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
+**Parent Topic:**[General administration setup for BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-bcmadmin-tasks.md)
 
-## Related
-
-- [[grid-configuration-record-form|Grid configuration record form]]
-- [[set-up-bcm-bcmadmin-tasks|General administration setup for BCM]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[Administration|Administration]]

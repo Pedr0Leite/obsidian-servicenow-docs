@@ -36,8 +36,8 @@ If a certification task isn't properly assigned, you can reassign it to another 
 1.  Navigate to the Certification tasks list in either of the following ways:
 
     -   Navigate to **Workspaces** &gt; **CMDB Workspace**, then select **My Work** in the CMDB Workspace menu bar. In the My tasks section, select the Certification tasks tab.
-    -   Navigate to **Workspaces** &gt; **CMDB Workspace**. On the [[cmdb-workspace-home-view|Home view in CMDB Workspace]], select the **[[data-cert-dashboard-workspace|Data Certification Dashboard]]** quick link. Then, on the Data Certification Dashboard, drill down to the Certification tasks list from a certification instance card or from the Workload and Aging tasks tiles, as described in [Data Certification Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-cert-dashboard-workspace.md).
-    -   Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** and in the navigation panel select the Tasks icon. In the Tasks navigation panel select **Certification** and on the [[c_DataCertification|Data Certification]] page, select the Certification tasks tab.
+    -   Navigate to **Workspaces** &gt; **CMDB Workspace**. On the Home view in CMDB Workspace, select the **Data Certification Dashboard** quick link. Then, on the Data Certification Dashboard, drill down to the Certification tasks list from a certification instance card or from the Workload and Aging tasks tiles, as described in [Data Certification Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/data-cert-dashboard-workspace.md).
+    -   Navigate to **Workspaces** &gt; **Service Graph Workspace** and in the navigation panel select the Tasks icon. In the Tasks navigation panel select **Certification** and on the Data Certification page, select the Certification tasks tab.
 2.  In the Certification tasks list, select multiple tasks to reassign tasks in bulk.
 
     1.  Select the Certification tasks tab, then the task or tasks that you want to reassign.
@@ -58,7 +58,7 @@ If a certification task isn't properly assigned, you can reassign it to another 
 
 5.  Select the records that you want to conclude the review for in the Review not completed tab, and then select **Certify** or **Fail**.
 
-    You can select all the records showing on the page for bulk processing by selecting the [[check-box|check box]] in the first column header, and then selecting the **Select all &lt;n&gt; item/s in this list** link that appears.
+    You can select all the records showing on the page for bulk processing by selecting the check box in the first column header, and then selecting the **Select all &lt;n&gt; item/s in this list** link that appears.
 
     -   The review conclusion of certified or failed is applied in bulk only to those certification fields in the selected records, which are still pending a review. For example, a certification field that is already marked as certified, isn't affected by selecting **Fail**. Only the unreviewed fields are marked as failed. Records whose review is concluded are moved to the Review completed tab.
     -   If the policy is configured to disallow empty attribute values, then CIs with empty fields won't be certified when you select **Certify**. In this situation, to certify those CIs, you must first populate the empty attributes.
@@ -83,10 +83,3 @@ If a certification task isn't properly assigned, you can reassign it to another 
 
 You can review the certification results in the Review completed tab, and change certification results or edit field values.
 
-## Related
-
-- [[cmdb-workspace-home-view|Home view in CMDB Workspace]]
-- [[data-cert-dashboard-workspace|Data Certification Dashboard]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_DataCertification|Data Certification]]
-- [[check-box|Check box]]

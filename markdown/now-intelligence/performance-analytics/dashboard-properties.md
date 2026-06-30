@@ -16,7 +16,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 Use properties to fine-tune dashboard behavior and appearance.
 
-Navigate to **System Properties** &gt; **Dashboard Properties** to configure the main responsive dashboard properties. In the Filter navigator, enter `sys_properties.list` to configure other [[reporting-properties|reporting properties]].
+Navigate to **System Properties** &gt; **Dashboard Properties** to configure the main responsive dashboard properties. In the Filter navigator, enter `sys_properties.list` to configure other reporting properties.
 
 ## Responsive Dashboard properties
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Enables unified navigation under [[c_performanceAnalyticsAndReporting|Platform Analytics]] and Platform Analytics Administration menu sections and common library pages for both Core UI and Next Experience analytics artifacts. Upon upgrade to Australia, this property is set to true by default.
+Enables unified navigation under Platform Analytics and Platform Analytics Administration menu sections and common library pages for both Core UI and Next Experience analytics artifacts. Upon upgrade to Australia, this property is set to true by default.
 
 com.glide.par.unified\_analytics.enabled
 
@@ -40,7 +40,7 @@ com.glide.par.unified\_analytics.enabled
 -   Default value: true
 -   Location: Add a system property to the System Property \[sys\_properties\] table.
 
- When enabled, users see both Platform Analytics and Core UI \(responsive\) [[find-dashboard-library|dashboards in the library]]. Users can still drill down to [[kpi-details|KPI details]] from responsive dashboard indicator visualizations.
+ When enabled, users see both Platform Analytics and Core UI \(responsive\) dashboards in the library. Users can still drill down to KPI details from responsive dashboard indicator visualizations.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ glide.cms.dashboards.sharing\_with\_secure\_search
 -   Default value: false
 -   Location: **System Properties** &gt; **Dashboard Properties**
 
- When enabled, the list of users, user groups, and roles that are visible in the sharing panel is restricted. The restriction is based on the configuration of the sys\_user, sys\_user\_group, and sys\_user\_role ACLs. For more information, see [[access-control|Access control]] list rules.
+ When enabled, the list of users, user groups, and roles that are visible in the sharing panel is restricted. The restriction is based on the configuration of the sys\_user, sys\_user\_group, and sys\_user\_role ACLs. For more information, see Access control list rules.
 
  There is a performance penalty associated with enabling this property. Performance degradation may be based on the number and complexity of business rules and ACLs on your instance.
 
@@ -101,7 +101,7 @@ glide.canvas.grid.widget\_performance\_threshold
 
 </td></tr><tr><td>
 
-Maximum number of [[widgets|widgets]] that can render simultaneously on a responsive dashboard.
+Maximum number of widgets that can render simultaneously on a responsive dashboard.
 
 glide.canvas.grid.widget\_render\_concurrent\_max
 
@@ -141,12 +141,3 @@ glide.cms.dashboards.sharing.search.maxRecords
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[reporting-properties|Reporting properties]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[find-dashboard-library|Dashboards in the library]]
-- [[kpi-details|KPI Details]]
-- [[access-control|Access control]]
-- [[widgets|Widgets]]

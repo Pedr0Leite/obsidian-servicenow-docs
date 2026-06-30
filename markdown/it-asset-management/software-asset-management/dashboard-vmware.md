@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for VMware, Supported soft
 
 # Software Publisher Analytics dashboard for VMware in Software Asset Management classic
 
-View compliance analysis results related to VMware on the Software Publisher Analytics dashboard in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+View compliance analysis results related to VMware on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 
 Access the Software Publisher Analytics dashboard by navigating to **All** &gt; **Software Asset** &gt; **Publisher Overview**.
 
@@ -146,6 +146,3 @@ Number of products in each software lifecycle phase, including End of Extended S
 
 **Parent Topic:**[Software Asset Management publisher pack for VMware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/vmware-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

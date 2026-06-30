@@ -18,7 +18,7 @@ Agents can create case line items for cases and create tasks for case line items
 
 To create a case line record:
 
--   [[csm-workspaces-configure|CSM Configurable Workspace]]: Open a case and select **New** on the [Case Line list action bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines-create-case-line.md) to open a new case line record in the Draft state.
+-   CSM Configurable Workspace: Open a case and select **New** on the [Case Line list action bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines-create-case-line.md) to open a new case line record in the Draft state.
 -   Core UI: Open a case and select **New** on the Case Lines related list on the case record to open a new case line record in the Draft state.
 
 The information in the following fields is copied from the parent case:
@@ -37,7 +37,7 @@ If a bundled product is added to a case line item record, the system creates a c
 The case line item record includes a **Create case line task** action that agents can use to create tasks for a case line item.
 
 1.  Open a case line item record.
-2.  Select **Create case line task** to open a Create new [[case-line-task-form|case line task form]].
+2.  Select **Create case line task** to open a Create new case line task form.
 
     Some fields on this form are auto populated with details from the Case line record.
 
@@ -56,14 +56,9 @@ Agents can add case lines from existing entities, such as orders or invoices, or
 -   **New**: Opens a Create New Case Line record in a separate tab. Fill in the fields and select **Save** to add the case line to the list.
 -   **Add**: Displays the Add lines to case modal. Select one or more lines and then select **Add** to add the selected case lines to the list.
 
-After selecting a case line, users can edit the case line details, [[osp-assign-case|assign a case]] line to themselves, or delete a case line.
+After selecting a case line, users can edit the case line details, assign a case line to themselves, or delete a case line.
 
 -   **Edit**: Displays the details for the selected case line in a panel. Make the necessary changes and select **Update** at the bottom of the panel.
 -   **Assign to me**: Assigns the selected case line to the current user.
 -   **Delete**: Deletes the selected case line. Select **Delete all** in the confirmation pop-up window.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[case-line-task-form|Case line task form]]
-- [[osp-assign-case|Assign a case]]

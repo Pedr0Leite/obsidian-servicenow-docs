@@ -14,13 +14,13 @@ breadcrumb: [Inventory number allocation, Explore, Telecommunications Network In
 
 # IP address management
 
-IP address management in the [[telecom-network-inventory|Telecommunications Network Inventory]] application lets you create, review, and update IP Address Blocks, IP Subnetworks, allocated IP addresses, and IP addresses, expressed in Classless Inter-Domain Routing \(CIDR\) notation. Both IPv4 and IPv6 are supported.
+IP address management in the Telecommunications Network Inventory application lets you create, review, and update IP Address Blocks, IP Subnetworks, allocated IP addresses, and IP addresses, expressed in Classless Inter-Domain Routing \(CIDR\) notation. Both IPv4 and IPv6 are supported.
 
 ## IP address management overview
 
 An IP Subnetwork can itself contain further nested IP Subnetworks, allowing IP address space to be subdivided to any depth. A Managed Network defines a network scope within which an IP Address Block’s CIDR must be unique; the same CIDR may exist in different Managed Networks without conflict.
 
-The topics in this section explain the conceptual model of IP address management, the propagation rules that govern how Managed Network values flow through the hierarchy, the CMDB relationships that the system writes automatically, and the [[uses-for-network-inventory-data|data model]] that ties IP Address Blocks, IP Subnetworks, allocated IP addresses, and IP addresses together.
+The topics in this section explain the conceptual model of IP address management, the propagation rules that govern how Managed Network values flow through the hierarchy, the CMDB relationships that the system writes automatically, and the data model that ties IP Address Blocks, IP Subnetworks, allocated IP addresses, and IP addresses together.
 
 **Related topics**  
 
@@ -33,7 +33,3 @@ The topics in this section explain the conceptual model of IP address management
 
 [IP address inventory management data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ip-address-inventory-management-data-model.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[uses-for-network-inventory-data|Data model]]

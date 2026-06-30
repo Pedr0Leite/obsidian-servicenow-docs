@@ -73,7 +73,7 @@ Document ID
 </td><td>
 
 Group record for which channel is intended to be used.-   Table: Group \[sys\_user\_group\]
--   Document: &lt;[[reference-for-itsm-mobile-agent|Reference]] to a group&gt;
+-   Document: &lt;Reference to a group&gt;
 
 
 </td></tr><tr><td>
@@ -103,6 +103,4 @@ User who creates the slack channel cache record.
 </td></tr></tbody>
 </table>3.  Click **Submit**.
 
-## Related
 
-- [[reference-for-itsm-mobile-agent|Reference]]

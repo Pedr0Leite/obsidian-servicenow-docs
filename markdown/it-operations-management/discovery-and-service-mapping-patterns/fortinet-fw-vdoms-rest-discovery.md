@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Fortinet firewall and FortiGate VDOM REST-based discovery
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Next Generation Fortinet Network Firewall - REST pattern to find Fortinet firewalls through REST API calls. Additionally, the pattern extension VDOM Discovery finds FortiGate Virtual Domains \(VDOMs\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Next Generation Fortinet Network Firewall - REST pattern to find Fortinet firewalls through REST API calls. Additionally, the pattern extension VDOM Discovery finds FortiGate Virtual Domains \(VDOMs\). Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The Next Generation Fortinet Network Firewall - REST pattern uses a set of REST API calls to find the Fortinet firewalls. For FortiGate VDOM discovery, only multi-VDOM mode is supported.
 
@@ -61,7 +61,7 @@ The Next Generation Fortinet Network Firewall - REST pattern and VDOM Discovery 
     -   `api/v2/cmdb/system/vdom-property`
     -   `api/v2/cmdb/system/interface`
     -   `/api/v2/monitor/system/interface/select`
--   **[[disable-snmp-fortinet-fw-discovery|Disable SNMP-based Fortinet firewall discovery]]**
+-   **Disable SNMP-based Fortinet firewall discovery**
 
     For more information, see [Disable SNMP-based Fortinet firewall discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/disable-snmp-fortinet-fw-discovery.md).
 
@@ -69,7 +69,7 @@ The Next Generation Fortinet Network Firewall - REST pattern and VDOM Discovery 
 
     For more information, see [Create an alias for the API key credential for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-alias-api-key-cred-fortinet.md).
 
--   **Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **Create a serverless discovery schedule**
 
     For more information, see [Create a serverless schedule for Fortinet firewall REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-fortinet.md).
 
@@ -194,9 +194,3 @@ The VDOM Discovery extension creates the following relationships to support Fort
 |Fortinet Virtual Domain \[cmdb\_ci\_fortinet\_vdom\]|Hosted on::Hosts|Fortinet Firewall Device \[cmdb\_ci\_firewall\_device\_fortinet\]|
 |Fortinet Firewall Interface \[cmdb\_ci\_fortinet\_firewall\_interface\]|Members::Member of|Network Topology \[cmdb\_ci\_network\_topology\]|
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[disable-snmp-fortinet-fw-discovery|Disable SNMP-based Fortinet firewall discovery]]
-- [[serverless-discovery|Serverless Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a contract, Contracts, Contract Management use, Contract Man
 
 # Add a configuration item to a contract
 
-[[c_Contracts|Contracts]] can be associated with configuration items. You can link a contract with configuration items to clarify what the contract legally covers.
+Contracts can be associated with configuration items. You can link a contract with configuration items to clarify what the contract legally covers.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: admin or contract\_manager
 
 [Add a document to a contract]()
 
-## Related
-
-- [[c_Contracts|Contracts]]

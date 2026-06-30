@@ -15,7 +15,7 @@ breadcrumb: [Explore, Virtual Agent, Conversational Interfaces]
 
 # Virtual Agent chat widget interface for NLU
 
-The Natural Language Understanding \(NLU\) [[virtual-agent-landing-page|Virtual Agent]] chat widget interface captures an automated messaging session between Virtual Agent and the user. Users can see a list of all the topics that the bot can help with, enter a request, request a transfer to a live agent, send and receive attachments, and receive visual and/or audio notifications.
+The Natural Language Understanding \(NLU\) Virtual Agent chat widget interface captures an automated messaging session between Virtual Agent and the user. Users can see a list of all the topics that the bot can help with, enter a request, request a transfer to a live agent, send and receive attachments, and receive visual and/or audio notifications.
 
 The chat widget interface uses the Service Portal web widget, which you can configure for custom service portals. This widget is available in the CSM, HR Service Delivery, and ITSM Service Portals.
 
@@ -28,7 +28,7 @@ A simple conversation typically includes the following elements:
 -   Series of prompts, acknowledgments, and responses exchanged between the virtual agent and the user until the users reach their goals or complete their tasks. You can use different rich controls in bot prompts, for example, choice lists with buttons or a carousel of images to select an item.
 -   Closing message to end the conversation.
 
-**Note:** In the [[nava-enhanced-chat|Enhanced Chat]] experience, feedback surveys are only triggered when a live agent is involved in the conversation. For Virtual Agent only chats, the feedback topic is not triggered by design.
+**Note:** In the Enhanced Chat experience, feedback surveys are only triggered when a live agent is involved in the conversation. For Virtual Agent only chats, the feedback topic is not triggered by design.
 
 When your users start a conversation with the bot, they can enter a request or see a list of everything that the bot can help with. If they choose to see everything, the chat window displays all topics available to the user. Your users can use the search box to filter the list of topics.
 
@@ -54,7 +54,3 @@ Your users automatically receive audio and visual alerts when they receive a mes
     -   You can change the sound that requesters hear by uploading your own audio file. For details, see [Manage audio files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UploadAnAudioFile.md).
     -   To turn off the audio notification for your instance, use the system parameter `sysparm_disable_audio_notifications=true`. For example: `https://<*your-instance name*>.service-now.com/nav_to.do?sysparm_disable_audio_notifications=true`
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[nava-enhanced-chat|Enhanced chat]]

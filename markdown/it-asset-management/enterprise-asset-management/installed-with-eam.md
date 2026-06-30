@@ -38,7 +38,7 @@ Enterprise asset manager
 
 </td><td>
 
-This role has access to all [[enterprise-asset-management|Enterprise Asset Management]] features except administrative functions.
+This role has access to all Enterprise Asset Management features except administrative functions.
 
 </td><td>
 
@@ -49,7 +49,7 @@ This role has access to all [[enterprise-asset-management|Enterprise Asset Manag
 -   sn\_eam.asset\_manager
 -   inventory\_user
 -   contract\_manager
--   [[c_Procurement|procurement]]\_user
+-   procurement\_user
 -   cmdb\_query\_builder
 -   cmdb\_read
 -   plan\_maint\_admin
@@ -63,7 +63,7 @@ Enterprise admin
 
 </td><td>
 
-This role has full access to the Enterprise Asset Management application as well as the [[ot-asset-ws-otam|OT Asset Workspace]].
+This role has full access to the Enterprise Asset Management application as well as the OT Asset Workspace.
 
 </td><td>
 
@@ -189,7 +189,7 @@ Provides access to read, write, delete, and report on the ITAM AI Agents Log \[i
 
 </td></tr><tr><td>
 
-Common [[ham-landing-page|Hardware Asset Management]] and Enterprise Asset Management tables
+Common Hardware Asset Management and Enterprise Asset Management tables
 
 </td><td>
 
@@ -218,7 +218,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[am-landing-page|Asset Management]]\(com.snc.asset\_management\)
+Asset Management\(com.snc.asset\_management\)
 
 </td><td>
 
@@ -254,7 +254,7 @@ Asset Management Workspace - Recommendations plugin\(com.sn\_itam\_recomm\)
 
 </td><td>
 
-Provides actionable recommendations for users in [[medical-facility-workspaces|configurable workspaces]].
+Provides actionable recommendations for users in configurable workspaces.
 
 </td></tr><tr><td>
 
@@ -333,15 +333,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]]
+Expanded Model and Asset Classes
 
 </td><td>
 
-Adds [[enterprise-model-asset-classes|enterprise model and asset classes]] that extend out-of-the-box product model and asset classes within the CMDB class hierarchy. In addition, creates [[model-hierarchy|model categories]] that associate these enterprise model and asset classes with CMDB configuration item \(CI\) classes. See [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md) for more information on this application.
+Adds enterprise model and asset classes that extend out-of-the-box product model and asset classes within the CMDB class hierarchy. In addition, creates model categories that associate these enterprise model and asset classes with CMDB configuration item \(CI\) classes. See [Expanded Model and Asset Classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-model-asset-classes-app.md) for more information on this application.
 
 </td></tr><tr><td>
 
-CMDB CI Class [[c_Models|Models]]
+CMDB CI Class Models
 
 </td><td>
 
@@ -353,7 +353,7 @@ Asset Management Common
 
 </td><td>
 
-Provides features that are common to the Hardware Asset Management, [[c_SoftwareAssetMgmt|Software Asset Management]], and Enterprise Asset Management applications, including the catalog item to request [[reclaim-asset|asset reclamation]].
+Provides features that are common to the Hardware Asset Management, Software Asset Management, and Enterprise Asset Management applications, including the catalog item to request asset reclamation.
 
 </td></tr><tr><td>
 
@@ -457,17 +457,3 @@ Data model for ISA-95 Equipment model entities and templates.
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[am-landing-page|Asset Management]]
-- [[medical-facility-workspaces|Configurable workspaces]]
-- [[enterprise-model-asset-classes-app|Expanded Model and Asset Classes]]
-- [[enterprise-model-asset-classes|Enterprise model and asset classes]]
-- [[model-hierarchy|Model categories]]
-- [[c_Models|Models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[reclaim-asset|Asset reclamation]]

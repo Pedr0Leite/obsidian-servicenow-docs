@@ -14,16 +14,16 @@ breadcrumb: [Identity Provider Attributes Filter, Filter criteria, Adaptive auth
 
 # Identity Provider attributes for OpenID Connect
 
-Use the [[identity-landing|Identity]] Provider attributes that are received from the OpenID Connect \(OIDC\) from the Identity Provider \(IdP\) as a [[adaptive-auth-filter-criteria|filter criteria]] for [[c_Authentication|authentication]].
+Use the Identity Provider attributes that are received from the OpenID Connect \(OIDC\) from the Identity Provider \(IdP\) as a filter criteria for authentication.
 
 You can manually create the IdP attributes based on the claims received as part of the ID token.
 
 **Note:**
 
--   Identity Provider filter is available with Zero Trust Access feature. For more information, see [[session-access|Zero Trust Access \(ZTA\)]].
+-   Identity Provider filter is available with Zero Trust Access feature. For more information, see [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md).
 -   IdP attribute filter criteria can be used in [Post-authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/post-auth-context.md), [Zero Trust Access \(ZTA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/session-access.md) session relegation, and [Multi-factor Authentication context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/mfa-auth-context.md).
 
-Start the [[sc-configuration|configuration]] by adding the IdP attributes by selecting **New** from the Identity Provider Attributes section and use those attributes for [[adaptive-authentication|Adaptive Authentication]] by setting it to `true`.
+Start the configuration by adding the IdP attributes by selecting **New** from the Identity Provider Attributes section and use those attributes for Adaptive Authentication by setting it to `true`.
 
 \[Omitted image "idp-attribute-oidc.png"\] Alt text: IdP Attributes for OIDC
 
@@ -61,7 +61,7 @@ Default Value
 
 </td><td>
 
-Default value is used for filter criteria evaluation in case the attribute is missing in the [[c_SAML2.0WebBrowserSSOProfile|SAML]] response.
+Default value is used for filter criteria evaluation in case the attribute is missing in the SAML response.
 
 </td></tr><tr><td>
 
@@ -78,12 +78,3 @@ You can also add new attributes by selecting **New** in the **Identity Providers
 
 If the Use in Adaptive Authentication is set to true, then the selected attribute is added as filter criteria in the Generic Filter Criteria. For example, **risk\_score** set to `true`. The Generic Filter Criteria page has a new filter created.
 
-## Related
-
-- [[session-access|Zero Trust Access \(ZTA\)]]
-- [[identity-landing|Identity]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_Authentication|Authentication]]
-- [[sc-configuration|Configuration]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

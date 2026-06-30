@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Associate existing RIDAC records for a project in Project Workspace
 
-Link existing RIDAC records to one another for your project in [[project-workspace-landing-page|Project Workspace]]. A RIDAC record stands for Risks, Issues, Actions, Decisions, and Request Changes. Keep a record of risks or issues and their outcome for analysis at project closure and planning.
+Link existing RIDAC records to one another for your project in Project Workspace. A RIDAC record stands for Risks, Issues, Actions, Decisions, and Request Changes. Keep a record of risks or issues and their outcome for analysis at project closure and planning.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You can associate one record with multiple different records. For example, you c
 
 2.  Open the RIDAC page of the project by selecting **RIDAC** from the list.
 
-3.  On the [[create-a-project-form|Project form]], select **Row context menu** for an individual risk, issue, decision, action, or request change record.
+3.  On the Project form, select **Row context menu** for an individual risk, issue, decision, action, or request change record.
 
 4.  Select **Associate RIDAC**.
 
@@ -49,7 +49,3 @@ You can associate one record with multiple different records. For example, you c
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]

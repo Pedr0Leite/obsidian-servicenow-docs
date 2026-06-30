@@ -18,7 +18,7 @@ Unlink a knowledge article from a linked Microsoft Word document to edit the art
 
 ## Before you begin
 
-Ensure that the article was created using the [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word.
+Ensure that the article was created using the Knowledge Management - Add-in for Microsoft Word.
 
 Role required: admin
 
@@ -39,9 +39,6 @@ If a knowledge article is created using the Knowledge Management - Add-in for Mi
 
     **Important:**
 
-    When you unlink an article from Microsoft Word, it may affect the [[html|HTML]] formatting in the editor. This formatting change can impact how knowledge articles appear and function during editing and display.
+    When you unlink an article from Microsoft Word, it may affect the HTML formatting in the editor. This formatting change can impact how knowledge articles appear and function during editing and display.
 
-## Related
 
-- [[knowledge-management|Knowledge Management]]
-- [[html|HTML]]

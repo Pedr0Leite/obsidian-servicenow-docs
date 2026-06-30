@@ -14,7 +14,7 @@ breadcrumb: [Time series widgets, Performance Analytics widgets, Reporting, dash
 
 # Additional settings for time series widgets
 
-[[time-series-widgets|Time series widgets]] have the following optional settings for display, for the date range, and for the axis labels. You can also use these setting to select an elements filter in place of a first-level breakdown element.
+Time series widgets have the following optional settings for display, for the date range, and for the axis labels. You can also use these setting to select an elements filter in place of a first-level breakdown element.
 
 **Important:** This topic is not a guide to creating time series widgets. It is a guide to extra, optional settings that are common across time series widget types. FOR INSTRUCTIONS ON CREATING TIME SERIES WIDGETS, PLEASE SEE THE APPROPRIATE "CREATE" TOPIC:
 
@@ -170,6 +170,3 @@ The visible points of the trend line are used to calculate the confidence band. 
 
 First, the confidence bands are calculated using the standard error of the trend. The width of the band depends on the number of points that are included in the calculation and the mean of the scores. If the standard error is low, the trend line is shown to be accurate. As the number of points decreases, or outliers are recorded, the confidence band widens. The confidence of the trend is less certain with fewer data points or with volatile scores.
 
-## Related
-
-- [[time-series-widgets|Time series widgets]]

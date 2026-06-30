@@ -40,7 +40,7 @@ Taxonomy
 
 </td><td>
 
-Taxonomy with which you want to associate the topic. For example, [[employee-center-pro-landing|Employee Center Pro]] or [[deskless-kiosk-overview|Employee Center Pro Kiosk]].
+Taxonomy with which you want to associate the topic. For example, Employee Center Pro or Employee Center Pro Kiosk.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Application
 
 </td><td>
 
-This field is set to [[employee-center-landing-page|Employee Center]] by default.
+This field is set to Employee Center by default.
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ Enable user criteria check
 
 </td><td>
 
-When you opt in, you can select the user criteria for the topic visibility. Enable user criteria check to determine visibility of current topic and its child topics in navigation and [[config-popular-topics|popular topics widget]]. The criteria set also applies to child topics. Criteria in connected content still govern content visibility on topic pages.**Note:** When you have a lot of topics, ensure you set up user criteria for your topics.
+When you opt in, you can select the user criteria for the topic visibility. Enable user criteria check to determine visibility of current topic and its child topics in navigation and popular topics widget. The criteria set also applies to child topics. Criteria in connected content still govern content visibility on topic pages.**Note:** When you have a lot of topics, ensure you set up user criteria for your topics.
 
 Default: Disable
 
@@ -184,7 +184,7 @@ This field is available when the **Enable user criteria check** is selected.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -214,7 +214,7 @@ This field is available when the **Enable user criteria check** is selected.
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -236,11 +236,3 @@ This field is available when the **Enable user criteria check** is selected.
 
 [Create and associate topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/create-topics-for-taxonomy.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]
-- [[config-popular-topics|Popular topics widget]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

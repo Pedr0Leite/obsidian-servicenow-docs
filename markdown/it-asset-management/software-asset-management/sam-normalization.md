@@ -15,9 +15,9 @@ breadcrumb: [Software discovery and normalization, Exploring Software Asset Mana
 
 # Software normalization
 
-Standardize discovered software model data within the [[c_SoftwareAssetMgmt|Software Asset Management]] application through the process of software model normalization.
+Standardize discovered software model data within the Software Asset Management application through the process of software model normalization.
 
-When a new [[sam-software-discovery|software discovery]] model is found in the Configuration Management Database \(CMDB\), the normalization process compares the discovered software publisher, product, and version, and edition values against the Software Asset ManagementContent Library.
+When a new software discovery model is found in the Configuration Management Database \(CMDB\), the normalization process compares the discovered software publisher, product, and version, and edition values against the Software Asset ManagementContent Library.
 
 When the normalization process completes, matches are added to the corresponding normalized columns \(Publisher, Product, Version, and Edition\) of the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table. The normalized ﬁelds are then used in various downstream processes and use-cases across Software Asset Management, such as reconciliation of entitlements purchase, calculation of license position and management of software llifecycle. For example, the discovered publisher Microsoft Corp could be normalized to Microsoft for the normalized Publisher column.
 
@@ -30,13 +30,13 @@ When the normalization process completes, matches are added to the corresponding
 
 ## Scheduled jobs
 
-To standardize software discovery [[c_Models|models]], they must be normalized. You can either manually update the records with normalization content or let the normalization capability within Software Asset Management Professional to compare and standardize your records against Software Asset Management Content Library.
+To standardize software discovery models, they must be normalized. You can either manually update the records with normalization content or let the normalization capability within Software Asset Management Professional to compare and standardize your records against Software Asset Management Content Library.
 
-The scheduled job **SAM - Normalize discovery models using content library rules** runs daily to normalize discovery models based on content rules and assign a normalization status to the discovery model record. For more information about the different [[normalization-status|normalization statuses]], see [Normalization statuses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/normalization-status.md).
+The scheduled job **SAM - Normalize discovery models using content library rules** runs daily to normalize discovery models based on content rules and assign a normalization status to the discovery model record. For more information about the different normalization statuses, see [Normalization statuses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/normalization-status.md).
 
 **Note:** You can also opt in for Machine Learning normalization by activating the Software Asset Management – Machine Learning Normalization \(com.sn\_sam\_ml\_normalization\) plugin. For more information, see [Normalization of discovery models using machine learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ml-learning-sam.md).
 
-The scheduled job, **SAM - Discovery Model Normalization job** runs daily to update the normalization trend charts on the [[norm-content-dashboard-workspace|Normalization and content dashboard]]. For more information about normalization trend charts, see [Normalization and content dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/norm-content-dashboard-workspace.md).
+The scheduled job, **SAM - Discovery Model Normalization job** runs daily to update the normalization trend charts on the Normalization and content dashboard. For more information about normalization trend charts, see [Normalization and content dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/norm-content-dashboard-workspace.md).
 
 ## Manual normalization
 
@@ -48,7 +48,7 @@ When a software discovery model is compared against the Software Asset Managemen
 
 ## Revert normalization
 
-You can manually [[revert-norm-eam|revert normalization]], which removes all normalized values and sets the discovery model's status to **Match not found**. You can revert the normalization of discovery models with a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized** to **Match Not Found**. For more information about reverting the software discovery model normalization, see [Revert normalization in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/revert-norm-workspace.md).
+You can manually revert normalization, which removes all normalized values and sets the discovery model's status to **Match not found**. You can revert the normalization of discovery models with a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized** to **Match Not Found**. For more information about reverting the software discovery model normalization, see [Revert normalization in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/revert-norm-workspace.md).
 
 **Note:** Discovery models with a status of **Manually Normalized** and discovery models that have been normalized using pattern normalization rules can’t be reverted.
 
@@ -81,11 +81,3 @@ The Software Asset Management application uses the following normalization rules
 
 [Normalization and content dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/norm-content-dashboard-workspace.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[normalization-status|Normalization statuses]]
-- [[norm-content-dashboard-workspace|Normalization and content dashboard]]
-- [[revert-norm-eam|Revert normalization]]

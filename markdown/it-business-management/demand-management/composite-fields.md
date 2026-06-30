@@ -16,7 +16,7 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 A composite field combines information from two fields in a table to form a single field.
 
-For example, the **Task** field on the [[t_CreateAProjectTask|Project Tasks]] list displays the short description and the project task number. The short description appears above the project task number. The project task number appears and is a link to the [[project-task-form|Project Task form]].
+For example, the **Task** field on the Project Tasks list displays the short description and the project task number. The short description appears above the project task number. The project task number appears and is a link to the Project Task form.
 
 \[Omitted image "CompositeField.png"\] Alt text: Composite field
 
@@ -30,7 +30,3 @@ For example, the **Task** field on the [[t_CreateAProjectTask|Project Tasks]] li
 
 **Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]

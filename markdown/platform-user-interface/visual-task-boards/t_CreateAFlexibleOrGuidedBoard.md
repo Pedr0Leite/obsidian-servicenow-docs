@@ -24,7 +24,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Next to My Task Boards, click **New**, or if you have never created a task board before click **Create New Visual Task Board**.
 
@@ -36,9 +36,9 @@ Role required: none
 
     To create a flexible board with editable lane headers, select **None**.
 
-    The type of board that is created and the lanes that appear on the board depend on which type of column you select. If you select a [[onboarding-modals-reference|reference]] or choice column, the board is a guided board. Each lane in a guided board represents one possible value for that column and the cards appear in the appropriate lane. For example, if you create a guided task board for incidents using the **State** column, the board shows one lane for each incident state, such as **New** or **Closed**. If you select a column that is not a reference or choice, the board is a flexible board and the board shows the default lanes, **To Do**, **Doing**, and **Done**, with all cards in the **To Do** lane.
+    The type of board that is created and the lanes that appear on the board depend on which type of column you select. If you select a reference or choice column, the board is a guided board. Each lane in a guided board represents one possible value for that column and the cards appear in the appropriate lane. For example, if you create a guided task board for incidents using the **State** column, the board shows one lane for each incident state, such as **New** or **Closed**. If you select a column that is not a reference or choice, the board is a flexible board and the board shows the default lanes, **To Do**, **Doing**, and **Done**, with all cards in the **To Do** lane.
 
-6.  [[t_CreatingFilters|Create a filter]] to show only the records you want to work with.
+6.  [Create a filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreatingFilters.md) to show only the records you want to work with.
 
     For example, you might filter out incidents that are not assigned to you.
 
@@ -60,8 +60,3 @@ Role required: none
 
 **Parent Topic:**[Data driven Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/data-driven-tasks.md)
 
-## Related
-
-- [[t_CreatingFilters|Create a filter in List]]
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[onboarding-modals-reference|Reference]]

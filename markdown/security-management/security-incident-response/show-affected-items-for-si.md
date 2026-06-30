@@ -22,7 +22,7 @@ Role required: sn\_si.basic
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open the security incident for which you want to view affected items.
 
@@ -73,9 +73,9 @@ Unmatched Affected Users
 View or add the users who are affected by a security incident but cannot be matched to existing user records in the Users \[sys\_user\] table.
 
 </td></tr></tbody>
-</table>    **Note:** If the [[get-running-processes-capability|Security Operations Integration - Get Running Processes]] integration capability is active, and you add a CI to a security incident, the [[secops-integration-get-running-processes-workflow|Get Running Processes]] workflow runs and retrieves a list of running processes on the CI.
+</table>    **Note:** If the [Security Operations Integration - Get Running Processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-running-processes-capability.md) integration capability is active, and you add a CI to a security incident, the [Get Running Processes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-get-running-processes-workflow.md) workflow runs and retrieves a list of running processes on the CI.
 
-    If the [[isolate-host-capability|Security Operations Integration - Isolate Host]] integration capability is active, you can select one or more CIs and restrict their system connections to other devices. To do this, select the check boxes for the CIs and select **Isolate Host** from the **Actions on selected rows** choice list.
+    If the [Security Operations Integration - Isolate Host](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/isolate-host-capability.md) integration capability is active, you can select one or more CIs and restrict their system connections to other devices. To do this, select the check boxes for the CIs and select **Isolate Host** from the **Actions on selected rows** choice list.
 
 6.  Selected any of the following related links to further update the security incident:
 
@@ -85,9 +85,4 @@ View or add the users who are affected by a security incident but cannot be matc
     -   [Show Response Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/show-response-tasks-for-si.md)
 7.  When you have completed your entries, select **Save**.
 
-## Related
 
-- [[get-running-processes-capability|Security Operations Integration- Get Running Processes capability]]
-- [[secops-integration-get-running-processes-workflow|Security Operations - Get Running Processes Flow]]
-- [[isolate-host-capability|Security Operations Integration- Isolate Host capability]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

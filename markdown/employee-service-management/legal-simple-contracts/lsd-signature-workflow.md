@@ -52,10 +52,7 @@ An email is sent to the next signatory in order after the first has signed the c
 </table>-   **[Sign or decline a legal contract electronically in Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/sign-a-legal-contract-document.md)**  
 As a signatory, you can review and sign or decline to sign a contract document.
 -   **[Wet Signature workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/lsd-wet-signature-workflows.md)**  
-The [[lsd-wet-signature-workflows|wet signature workflow]] is triggered when a legal request with signature type as Wet Signature is sent to the signatories for signing.
+The wet signature workflow is triggered when a legal request with signature type as Wet Signature is sent to the signatories for signing.
 
 **Parent Topic:**[Non-disclosure agreement requests in Legal Simple Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-request-nda.md)
 
-## Related
-
-- [[lsd-wet-signature-workflows|Wet Signature workflow]]

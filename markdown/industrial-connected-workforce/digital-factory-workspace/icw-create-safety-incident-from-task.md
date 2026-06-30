@@ -26,7 +26,7 @@ You may discover a safety issue while working on an action, deviation, or Indust
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace**.
 
 2.  Select the task from which you want to create a safety incident.
 
@@ -34,12 +34,12 @@ You may discover a safety issue while working on an action, deviation, or Indust
 
     -   Actions
     -   Deviations
-    -   [[industrial-root-cause-analysis|Root Cause Analysis]]
+    -   Root Cause Analysis
 3.  Select More Actions \(\[Omitted image "more-actions.png"\] Alt text:\) in the top corner.
 
 4.  Select **Report safety incident**.
 
-5.  On the [[icw-safety-incident-form|Safety Incident form]], review the pre-populated fields.
+5.  On the Safety Incident form, review the pre-populated fields.
 
     The following fields are automatically populated from the originating task:
 
@@ -67,8 +67,3 @@ The safety incident is created and linked to the originating task through the or
 
 [View safety incidents in the Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-view-safety-incident.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[icw-safety-incident-form|Safety Incident form]]

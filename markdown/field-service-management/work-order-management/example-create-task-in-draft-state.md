@@ -14,7 +14,7 @@ breadcrumb: [Manage work orders, Prepare work orders, Use, Field Service Managem
 
 # Example - Create task without qualifying a work order
 
-Create work order tasks and [[c_PartRequirements|part requirements]] for a work order without qualifying a work order, when it is in the draft state.
+Create work order tasks and part requirements for a work order without qualifying a work order, when it is in the draft state.
 
 ## Before you begin
 
@@ -53,6 +53,4 @@ Role required: wm\_task\_initiator
 
     3.  Click **Submit**.
 
-## Related
 
-- [[c_PartRequirements|Part requirements]]

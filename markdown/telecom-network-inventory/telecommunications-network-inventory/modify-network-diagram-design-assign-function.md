@@ -14,7 +14,7 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Modify the Design and Assign function layout
 
-Modify the Design and Assign function layout in the [[telecom-network-inventory|Telecommunications Network Inventory]] application by configuring the endpoint. You can create the layout according to your network service requirement
+Modify the Design and Assign function layout in the Telecommunications Network Inventory application by configuring the endpoint. You can create the layout according to your network service requirement
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_ni\_core.inventory\_admin
 
 ## About this task
 
-By default, the [[using-playbooks-design-assign-inventory-record|Design and assign function]] layout shows three sections such as activity picker, activity viewer, and [[using-network-diagram|network diagram]]. Currently the network diagram shows the circuit map for logical connection. You can customize the network diagram according to your requirement by configuring the `sn_ni_ws.TNIDesignAssignConfiguration` endpoint. You can also remove the network diagram from the layout by deleting the associated script.
+By default, the Design and assign function layout shows three sections such as activity picker, activity viewer, and network diagram. Currently the network diagram shows the circuit map for logical connection. You can customize the network diagram according to your requirement by configuring the `sn_ni_ws.TNIDesignAssignConfiguration` endpoint. You can also remove the network diagram from the layout by deleting the associated script.
 
 ## Procedure
 
@@ -37,8 +37,3 @@ By default, the [[using-playbooks-design-assign-inventory-record|Design and assi
 
 **Parent Topic:**[Configuring Design and Assign function for your network services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-playbooks-design-assign-function.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[using-network-diagram|Network diagram]]

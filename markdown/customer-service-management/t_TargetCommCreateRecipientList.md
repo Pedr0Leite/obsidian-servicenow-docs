@@ -12,7 +12,7 @@ breadcrumb: [Targeted communications, Configure case management, Case management
 
 # Create a recipients list
 
-Create and save a list of users to receive [[c_TargetedCommunications|targeted communications]].
+Create and save a list of users to receive targeted communications.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A recipient list can include internal users, accounts, contacts, or consumers. C
 -   By creating a dynamic list based on selected conditions.
 -   By creating a script.
 
-[[major-issue-recipient-lists|Recipients lists]] can have both dynamically generated and manually added records of the same type.
+Recipients lists can have both dynamically generated and manually added records of the same type.
 
 **Note:** You must create at least one recipient list before creating a publication.
 
@@ -130,7 +130,7 @@ User Field
 
 </td><td>
 
-The field that references the user record in the User \(sys\_user\) table. For the following types of recipient [[migration-lists|lists]], this is the sys\_id:
+The field that references the user record in the User \(sys\_user\) table. For the following types of recipient lists, this is the sys\_id:
 
 -   Contacts \(customer\_contacts\)
 -   Internal Users \(sys\_user\)
@@ -158,8 +158,4 @@ Use the buttons in this field to build one or more conditions on the selected ta
 
     For recipients lists created by file upload, clicking **Submit** validates the records in the Excel file. Following validation, the system displays a pop-up window with the upload results, including valid and invalid user records.
 
-## Related
 
-- [[c_TargetedCommunications|Targeted communications]]
-- [[major-issue-recipient-lists|Recipients lists]]
-- [[migration-lists|Lists]]

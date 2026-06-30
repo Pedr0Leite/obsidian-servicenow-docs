@@ -14,7 +14,7 @@ breadcrumb: [Integrating Service Catalog, Service Catalog, Manage service capabi
 
 # Service Catalog configuration for Universal Request
 
-You can configure a catalog item or [[c_RecordProducer|record producer]] to create a universal request when a request is submitted. The associated requested item \(for catalog item\) or task-based record \(for record producer\) becomes the primary ticket for that universal request.
+You can configure a catalog item or record producer to create a universal request when a request is submitted. The associated requested item \(for catalog item\) or task-based record \(for record producer\) becomes the primary ticket for that universal request.
 
 -   **[Configure all catalog items or record producers to create a universal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configure-all-cat-items-ur.md)**  
 Reduce the implementation time by configuring all catalog items or all record producers at a time for universal request creation.
@@ -30,6 +30,3 @@ Reduce the implementation time by configuring all catalog items or all record pr
 
 [Configure a catalog item or record producer to create a universal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/create-ur-recordproducer.md)
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]

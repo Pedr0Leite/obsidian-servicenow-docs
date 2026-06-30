@@ -12,7 +12,7 @@ reading_time_minutes: 4
 
 Self‑service portals are customer-facing websites in ServiceNow that provide an online place for customers to get information and support. They help customers help themselves by finding answers, submitting requests, and tracking progress, without needing to contact an agent for routine needs.
 
-Four portals are available with the [[crm-product-portfolio|CRM products]]:
+Four portals are available with the CRM products:
 
 -   Customer Service Portal: supports B2B customers.
 -   Business Portal: supports B2B customers.
@@ -72,6 +72,3 @@ Self-service portals provide benefits to internal and external users across an o
 
 [Configure Business and Consumer Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-business-portal.md)
 
-## Related
-
-- [[crm-product-portfolio|CRM products]]

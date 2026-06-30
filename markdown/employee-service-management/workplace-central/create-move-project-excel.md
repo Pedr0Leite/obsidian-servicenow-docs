@@ -20,8 +20,8 @@ As a move manager, create a move project by uploading an Excel file that contain
 
 Verify that you have the following plugins installed:
 
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-move-mgmt-overview|Workplace Move Management]]
+-   Workplace Central
+-   Workplace Move Management
 
 Role required: sn\_wsd\_move.manager
 
@@ -29,9 +29,9 @@ Role required: sn\_wsd\_move.manager
 
 1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] by navigating to **Workspaces** &gt; **Workplace Central**.
+    You can also open Workplace Central from the Employee Center by navigating to **Workspaces** &gt; **Workplace Central**.
 
-2.  Select the [[move-mgmt|Move management]] \(\[Omitted image "move-mgmt-icon-central.png"\] Alt text: Move management icon.\) module.
+2.  Select the Move management \(\[Omitted image "move-mgmt-icon-central.png"\] Alt text: Move management icon.\) module.
 
 3.  Select **Create project**.
 
@@ -114,7 +114,7 @@ If you accidentally close a move project after uploading an Excel file, the syst
     -   The **List** view displays details like the status and move dates for the cases.
     -   The **Calendar** view displays the planned move dates for the move cases. You can schedule the cases by moving them on the calendar.
 -   Review the move tasks that are created for the move cases. The **Move tasks** tab displays details like the priority and status of the move tasks.
--   View the project details, comments, work notes, and [[activity-lxp|activity]] on the **Move project details** tab.
+-   View the project details, comments, work notes, and activity on the **Move project details** tab.
 
 **Note:** The move project isn't marked complete even if all the child cases are closed. You can add more cases to the project from the Schedule View or the List View.
 
@@ -129,10 +129,3 @@ For more information about working on a move project, see [Work on a move projec
 
 [Work on a move project]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[move-mgmt|Move Management]]
-- [[activity-lxp|Activity]]

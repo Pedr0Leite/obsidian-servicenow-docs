@@ -14,7 +14,7 @@ breadcrumb: [Install Mobile Time Sheets, Mobile Time Sheets, Time Card managemen
 
 # Use Mobile Time Sheets in Now Mobile
 
-You can configure your platform system to use [[timesheet-mobile|Mobile Time Sheets]] in the Now Mobile application. By default, Mobile Time Sheets can be viewed in the Now Mobile application.
+You can configure your platform system to use Mobile Time Sheets in the Now Mobile application. By default, Mobile Time Sheets can be viewed in the Now Mobile application.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ The Mobile Time Sheets app must be installed in your system.
 
 **Parent Topic:**[Install Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/install-timesheet-mobile.md)
 
-## Related
-
-- [[timesheet-mobile|Mobile Time Sheets]]

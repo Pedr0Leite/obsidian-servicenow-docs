@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[experimentation-framework|Experimentation Framework]]** &gt; **All Experiments**.
+1.  Navigate to **All** &gt; **Experimentation Framework** &gt; **All Experiments**.
 
 2.  Select the experiment that you want to opt out of.
 
@@ -33,6 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Experimentation framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[experimentation-framework|Experimentation framework]]

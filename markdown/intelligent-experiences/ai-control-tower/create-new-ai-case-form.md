@@ -14,7 +14,7 @@ breadcrumb: [Create an AI case in the AI Control Tower, Use, AI Control Tower, E
 
 # Create new AI case form
 
-Use the Create New AI case form in the [[ai-control-tower-landing|AI Control Tower]] to report an AI case with the necessary details.
+Use the Create New AI case form in the AI Control Tower to report an AI case with the necessary details.
 
 See the following table for a description of the field values.
 
@@ -48,7 +48,7 @@ Description
 
 </td><td>
 
-Description about the AI case in detail. For example, include information such as the expected recommendation, actual suggestion, context, impact, and steps to reproduce the issue, especially for [[cases|cases]] such as Incorrect AI Recommendation.
+Description about the AI case in detail. For example, include information such as the expected recommendation, actual suggestion, context, impact, and steps to reproduce the issue, especially for cases such as Incorrect AI Recommendation.
 
 </td></tr><tr><td>
 
@@ -64,7 +64,7 @@ Sub-type
 
 </td><td>
 
-Subtype of the case. For example, Adversarial attacks \(Deliberate manipulation of [[ai-models|AI models]] to produce incorrect results\).
+Subtype of the case. For example, Adversarial attacks \(Deliberate manipulation of AI models to produce incorrect results\).
 
 </td></tr><tr><td>
 
@@ -421,9 +421,3 @@ Additional information about the request that you want to share with your custom
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[cases|Cases]]
-- [[ai-models|AI models]]

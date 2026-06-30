@@ -14,7 +14,7 @@ breadcrumb: [Reference, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Components installed with Journey Accelerator
 
-Several types of components install with the activation of the [[journey-accelerator-1|Journey Accelerator]] application, including user roles and tables. There are also dependencies on other features or apps.
+Several types of components install with the activation of the Journey Accelerator application, including user roles and tables. There are also dependencies on other features or apps.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -99,6 +99,3 @@ For more information on table administration and how to manage data, see [Table 
 
 **Parent Topic:**[Journey Accelerator reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/ja-reference.md)
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]

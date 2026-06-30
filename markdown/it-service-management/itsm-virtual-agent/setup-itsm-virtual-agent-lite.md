@@ -14,7 +14,7 @@ breadcrumb: [ITSM Virtual Agent Lite, IT Service Management]
 
 # Setting up ITSM Virtual Agent Lite
 
-Setup [[itsm-virtual-agent-lite|ITSM Virtual Agent Lite]] using to use the read-only, pre-built conversation topics for your most common ITSM self-service cases. For example, you can connect your users with a virtual agent to check ticket status, search the knowledge base, and report an issue.
+Setup ITSM Virtual Agent Lite using to use the read-only, pre-built conversation topics for your most common ITSM self-service cases. For example, you can connect your users with a virtual agent to check ticket status, search the knowledge base, and report an issue.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Virtual Agent Lite is a subset of the features available in Virtual Agent. Virtu
 
 Users with the admin or virtual\_agent\_admin role can activate the required plugins:
 
--   [[itsm-virtual-agent|ITSM Virtual Agent]] Conversation Topics Lite \(com.snc.itsm.virtualagent.lite\) plugin
+-   ITSM Virtual Agent Conversation Topics Lite \(com.snc.itsm.virtualagent.lite\) plugin
 
     Activates the read-only conversation topics for basic ITSM self-service.
 
@@ -65,7 +65,3 @@ ITSM Virtual Agent Lite includes several pre-built, read-only topic conversation
 
 **Parent Topic:**[ITSM Virtual Agent Lite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent-lite.md)
 
-## Related
-
-- [[itsm-virtual-agent-lite|ITSM Virtual Agent Lite]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]

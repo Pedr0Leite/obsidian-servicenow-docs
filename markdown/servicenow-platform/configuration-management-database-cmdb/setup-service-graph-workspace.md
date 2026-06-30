@@ -14,11 +14,11 @@ breadcrumb: [Configure, Service Graph Workspace, Configuration Management Databa
 
 # Set up Service Graph Workspace
 
-Set up and access CMDB Workspace and then switch to using [[sg-workspace|Service Graph Workspace]].
+Set up and access CMDB Workspace and then switch to using Service Graph Workspace.
 
 Use the sections in this topic to try and then switch into using Service Graph Workspace:
 
-1.  Request and install the latest [[cmdb-workspace|CMDB Workspace store app]].
+1.  Request and install the latest CMDB Workspace store app.
 2.  Optionally, enable demo data for the app.
 3.  Review the prerequisites for CMDB Workspace.
 4.  From within CMDB Workspace, switch into using Service Graph Workspace.
@@ -35,8 +35,8 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 Enable demo data to install demo data-specific scheduled jobs that if the needed requirement is met, generates and populates demo data in CMDB Workspace and Service Graph Workspace cards such as:
 
--   [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]: If Cloud Service Accounts \[cmdb\_ci\_cloud\_service\_account\] table exists
--   Cards in the [[multisource-cmdb|CMDB 360]] view: If CMDB 360 is enabled
+-   Cloud vs Non-cloud resources chart: If Cloud Service Accounts \[cmdb\_ci\_cloud\_service\_account\] table exists
+-   Cards in the CMDB 360 view: If CMDB 360 is enabled
 -   Cards in the Insights view, CMDB Feature Adoption tile:
     -   CIs processed by IRE
     -   CIs processed by IRE based on source
@@ -59,7 +59,7 @@ To populate Service Graph Workspace dashboards with demo data:
 
     -   Recommended: CSDM Activation \(com.snc.cmdb.csdm.activation\)
 
-        Allows for legacy **Lifecycle Status** field mappings and synchronization to legacy status fields. For details about use and customization of [[life-cycle-rules|retirement definitions]] when this plugin isn't activated, see [Retirement definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/life-cycle-rules.md).
+        Allows for legacy **Lifecycle Status** field mappings and synchronization to legacy status fields. For details about use and customization of retirement definitions when this plugin isn't activated, see [Retirement definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/life-cycle-rules.md).
 
     -   Required \(activated by default\): CMDB CSDM Support \(com.snc.cmdb.csdm\)
     -   Required \(activated by default\): CMDB Page Templates \(sn\_cmdb\_pg\_templts\)
@@ -82,7 +82,7 @@ After installing CMDB Workspace, administrators can try out Service Graph Worksp
 To switch to Service Graph Workspace and turn off CMDB Workspace:
 
 1.  Navigate to **Workspaces** &gt; **CMDB Workspace**.
-2.  In the [[cmdb-workspace-home-view|Home view in CMDB Workspace]], select **Try new workspace** or **Retry new workspace** in the Try the new Service Graph Workspace banner.
+2.  In the Home view in CMDB Workspace, select **Try new workspace** or **Retry new workspace** in the Try the new Service Graph Workspace banner.
 
     This lets CMDB administrators experience using Service Graph Workspace.
 
@@ -90,7 +90,7 @@ To switch to Service Graph Workspace and turn off CMDB Workspace:
 
     This shows a banner for all CMDB users, where they can select **Try new workspace** to also experience the use of Service Graph Workspace.
 
-4.  In the Data [[sg-workspace-governance-view|Governance view in Service Graph Workspace]], select **Switch now** in the Make the permanent switch to Service Graph Workspace banner.
+4.  In the Data Governance view in Service Graph Workspace, select **Switch now** in the Make the permanent switch to Service Graph Workspace banner.
 
     This sets the system to permanently use Service Graph Workspace instead of CMDB Workspace.
 
@@ -104,12 +104,3 @@ Use either of the following methods:
 -   Navigate to **All** &gt; **Workspaces** &gt; **Service Graph Workspace**.
 -   Select **All** in the navigation filter, and then enter `service graph workspace`.
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-workspace|CMDB Workspace store app]]
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]
-- [[multisource-cmdb|CMDB 360]]
-- [[life-cycle-rules|Retirement definitions]]
-- [[cmdb-workspace-home-view|Home view in CMDB Workspace]]
-- [[sg-workspace-governance-view|Governance view in Service Graph Workspace]]

@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Modern Change Management provides [[impact-landing-page|Impact]] customers with a comprehensive introduction to the capabilities of modern Change Management. It includes change models and key supporting change features — such as approval policies and data-driven risk— to [[io-help|help]] modern change management implementations. This offering also provides key resources and leading practices to get started with a modern approach to Change Management.
+Jumpstart Your Modern Change Management provides Impact customers with a comprehensive introduction to the capabilities of modern Change Management. It includes change models and key supporting change features — such as approval policies and data-driven risk— to help modern change management implementations. This offering also provides key resources and leading practices to get started with a modern approach to Change Management.
 
 ## Package Availability
 
@@ -64,7 +64,3 @@ Jumpstart Your Modern Change Management provides [[impact-landing-page|Impact]] 
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

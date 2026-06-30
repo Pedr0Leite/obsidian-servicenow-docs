@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Sort Option form
 
-The Sort Option form enables you to create a search result sort option in the search application configuration for an [[ia-ai-search|AI Search]] application.
+The Sort Option form enables you to create a search result sort option in the search application configuration for an AI Search application.
 
 For details on creating or editing search result sort options, see [Search result sort options in AI Search application configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/sort-options-srch-app-cfg-ais.md).
 
@@ -40,7 +40,7 @@ Sort Field
 
 </td><td>
 
-Name of a source table field or common index field that the sort option uses to sort search [[hs-results|results]]. The sort field can be a date, number, or string field.
+Name of a source table field or common index field that the sort option uses to sort search results. The sort field can be a date, number, or string field.
 
 **Note:** If you specify a sort field of an unsupported type, an error message appears when you attempt to save the sort option.
 
@@ -69,7 +69,7 @@ For example, enter `title` to sort search results based on their titles, or `lan
 
 If you specify an indexed source parent table's field in a sort option, AI Search includes values from the same field on child tables from the indexed source.
 
-For example, suppose you [[create-indexed-source-ais|create an indexed source]] for custom table Parent \[u\_parent\] which is extended by custom table Child \[u\_child\], and then specify `u_parent.author` as the field for a sort option. When a user applies the sort option, AI Search uses both `u_parent.author` and `u_child.author` field values to sort the search result list.
+For example, suppose you create an indexed source for custom table Parent \[u\_parent\] which is extended by custom table Child \[u\_child\], and then specify `u_parent.author` as the field for a sort option. When a user applies the sort option, AI Search uses both `u_parent.author` and `u_child.author` field values to sort the search result list.
 
 -   **Sorting on child table fields**
 
@@ -107,8 +107,3 @@ Option to activate the search result sort option for use in the search applicati
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[create-indexed-source-ais|Create an indexed source]]

@@ -12,7 +12,7 @@ breadcrumb: [Use generative AI, Now Assist for MCO, Manufacturing Commercial Ope
 
 # Create recall corrective actions using Now Assist for Manufacturing Commercial Operations \(MCO\)
 
-Create recall [[mco-corrective-actions|corrective actions]] AI agent extracts the information available in the repair documents. The AI agent identifies and collects all relevant data contained within the repair documents and generates the corrective action and the corresponding charges.
+Create recall corrective actions AI agent extracts the information available in the repair documents. The AI agent identifies and collects all relevant data contained within the repair documents and generates the corrective action and the corresponding charges.
 
 ## Before you begin
 
@@ -20,9 +20,9 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 ## Procedure
 
-1.  Navigate to ******Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]**.
+1.  Navigate to ******Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management**.
 
-2.  Create a [[mco-rcl-clms|recall campaign]] record.
+2.  Create a recall campaign record.
 
 3.  Select the Now Assist icon \[Omitted image "icon-ai-sparkle.png"\] Alt text: to launch the Now Assist panel.
 
@@ -46,7 +46,7 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 **Related topics**  
 
 
-[[mco-rc-my-campaigns|Create a campaign]]
+[Create a campaign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaigns.md)
 
 [Activate an agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md)
 
@@ -54,9 +54,3 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager
 
 [Modify an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/modify-aia-use-case.md)
 
-## Related
-
-- [[mco-rc-my-campaigns|Create a campaign]]
-- [[mco-corrective-actions|Corrective actions]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

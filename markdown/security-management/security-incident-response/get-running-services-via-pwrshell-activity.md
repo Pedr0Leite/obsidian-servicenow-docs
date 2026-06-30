@@ -14,7 +14,7 @@ breadcrumb: [Get Running Services workflow, Security Incident Response Orchestra
 
 # Get Running Services - WMI Enrichment
 
-The **[[sir-landing-page|Security Incident Response]] - Get Running Services** workflow gathers running services on a configuration item added to a security incident.
+The **Security Incident Response - Get Running Services** workflow gathers running services on a configuration item added to a security incident.
 
 The **Get Running Services - WMI Enrichment** activity is launched automatically to retrieve running services information for a Windows host.
 
@@ -86,6 +86,3 @@ SHA-256 hash requires PowerShell V4.
 
 **Parent Topic:**[Security Incident Response - Get Running Services workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-running-services-workflow.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

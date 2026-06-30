@@ -25,14 +25,14 @@ Role required: sn\_dpm.dpm\_admin
 Each solution displays header information for that solution. For example, for a service, the header information may display the owner name, the consumer type, the phase, the status, and the business criticality. You can configure the header information to best suit the needs of your organization. The DPM Admin Center enables you to configure the header information for the following solutions:
 
 -   Services and service offerings \(both business and technical\)
--   Business [[dex-workspace-application-tab|applications]]
+-   Business applications
 -   Service instances
 -   Service portfolios and taxonomies
--   [[dpm-enterprise-portfolios|Enterprise portfolios]] and taxonomies
+-   Enterprise portfolios and taxonomies
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dpm-landing|Digital Portfolio Management]]** &gt; **DPM Admin Center** &gt; **[[settings-mobile|Settings]]**.
+1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **DPM Admin Center** &gt; **Settings**.
 
 2.  Select **Header** for the solution that you want to configure the header information.
 
@@ -70,9 +70,3 @@ Each solution displays header information for that solution. For example, for a 
 
 **Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]

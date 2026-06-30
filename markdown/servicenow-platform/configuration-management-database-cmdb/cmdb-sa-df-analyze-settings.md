@@ -14,19 +14,19 @@ breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration M
 
 # Analyze CMDB settings for Data Foundations
 
-Monitor and optimize [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] settings that support configuration item \(CI\) data quality, [[csdm-landing-page|Common Service Data Model]] \(CSDM\) alignment, and Data Foundations outcomes.
+Monitor and optimize Configuration Management Database \(CMDB\) settings that support configuration item \(CI\) data quality, Common Service Data Model \(CSDM\) alignment, and Data Foundations outcomes.
 
-Use the **Settings** tab in the [[cmdb-sa|CMDB success advisor]] for Data Foundations to review configuration indicators and identify opportunities to improve CMDB alignment with Data Foundations guidelines.
+Use the **Settings** tab in the CMDB success advisor for Data Foundations to review configuration indicators and identify opportunities to improve CMDB alignment with Data Foundations guidelines.
 
 The CMDB success advisor for Data Foundations evaluates your current configuration across key areas such as:
 
 -   CMDB Data Manager ownership policies for principal classes
--   [[r_ReconciliationRulesPrinciples|Reconciliation rules]] ensuring the right integration source owns each attribute
--   [[ci-class-manager-landing-page|CI class manager]] configuration for principal class designation
+-   Reconciliation rules ensuring the right integration source owns each attribute
+-   CI class manager configuration for principal class designation
 
-Settings are categorized as `Ideal` or `[[exploring-requires-attention|Requires attention]]`, enabling you to prioritize actions and maintain a healthy CMDB for Data Foundations.
+Settings are categorized as `Ideal` or `Requires attention`, enabling you to prioritize actions and maintain a healthy CMDB for Data Foundations.
 
-For a quick [[reference|reference]] to validate CMDB settings for Data Foundations, see [Settings checklist for Data Foundations in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-settings-checklist.md).
+For a quick reference to validate CMDB settings for Data Foundations, see [Settings checklist for Data Foundations in CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-settings-checklist.md).
 
 ## Access settings
 
@@ -68,12 +68,3 @@ CMDB administrator
 
 The **Settings** tab in the CMDB success advisor for Data Foundations provides visibility into key configuration areas that promote accurate and complete CI data for your principal classes. These settings include business rules for CI creation, reconciliation rules that govern attribute ownership across integration sources, and Data Manager policies that support automated life cycle management and data integrity. To maintain CMDB data quality for Data Foundations, regularly review and validate these settings. For more information, see [CMDB and Data Foundations settings assessed in the CMDB success advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-settings.md).
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[csdm-landing-page|Common Service Data Model]]
-- [[cmdb-sa|CMDB success advisor]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[exploring-requires-attention|Requires attention]]
-- [[reference|Reference]]

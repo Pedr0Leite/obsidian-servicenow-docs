@@ -50,10 +50,7 @@ Role required: sn\_fin\_ops.specialist
 
 ## Result
 
-You can see the reason in the [[activity-stream|activity stream]]. The requester receives an email requesting additional information.
+You can see the reason in the activity stream. The requester receives an email requesting additional information.
 
 **Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt-workspace.md)
 
-## Related
-
-- [[activity-stream|Activity stream]]

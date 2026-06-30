@@ -33,7 +33,7 @@ In this example you start wanting to show the change in the number of open incid
 
     \[Omitted image "ts-set-date-range.png"\] Alt text: Setting the date range.
 
-6.  You would also like to see what more information you can give about this data, so you expand the **Additional settings** section. For indicators, these settings are the same as the [[kpi-details|KPI Details]] chart options. For more information, see [[chart-options|Chart options in KPI Details]] under the KPI Details documentation. If you have the necessary roles, you can set [targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) and [thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for an indicator in KPI Details.
+6.  You would also like to see what more information you can give about this data, so you expand the **Additional settings** section. For indicators, these settings are the same as the KPI Details chart options. For more information, see [Chart options in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options.md) under the KPI Details documentation. If you have the necessary roles, you can set [targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) and [thresholds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) for an indicator in KPI Details.
 
     \[Omitted image "ts-additional-settings.png"\] Alt text: Additional settings for a time series with a single data source and no Group By value.
 
@@ -61,7 +61,7 @@ In this example you start wanting to show the change in the number of open incid
 
     \[Omitted image "ts-line-chart-2-sources.png"\] Alt text: Line visualization with 2 data sources, one of which is broken down by group.
 
-12. You find this difficult to read and aren't sure that this is the best visualization to use. After reading [[time-series-visualization-types|Use cases for different time series visualization types]], you decide to change the visualization to a column display.
+12. You find this difficult to read and aren't sure that this is the best visualization to use. After reading [Use cases for different time series visualization types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/time-series-visualization-types.md), you decide to change the visualization to a column display.
 
     \[Omitted image "ts-change-type-column.png"\] Alt text: Changing visualization type to column.
 
@@ -92,11 +92,5 @@ In this example you start wanting to show the change in the number of open incid
     \[Omitted image "ts-on-dashboard.png"\] Alt text: Your new data visualization on a dashboard.
 
 
-**Parent Topic:**[[create-dv-time-series-ac|Create time series data visualizations]]
+**Parent Topic:**[Create time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md)
 
-## Related
-
-- [[chart-options|Chart options in KPI Details]]
-- [[time-series-visualization-types|Use cases for different time series visualization types]]
-- [[create-dv-time-series-ac|Create time series data visualizations]]
-- [[kpi-details|KPI Details]]

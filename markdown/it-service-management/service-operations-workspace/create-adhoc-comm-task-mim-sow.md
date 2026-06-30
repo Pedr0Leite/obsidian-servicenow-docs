@@ -14,7 +14,7 @@ breadcrumb: [Communicating about incidents and major incidents, Managing a major
 
 # Create an adhoc communication task
 
-Create an adhoc communication task as required during the various phases of an incident in Major [[c_IncidentManagement|Incident Management]].
+Create an adhoc communication task as required during the various phases of an incident in Major Incident Management.
 
 ## Before you begin
 
@@ -105,6 +105,3 @@ User, user groups, or list of recipients to whom the communication message must 
 
 **Parent Topic:**[Communicating with stakeholders about incidents and major incidents in SOW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/communicating-with-stakeholders-sow.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

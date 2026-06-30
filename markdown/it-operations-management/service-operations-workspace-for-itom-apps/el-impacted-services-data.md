@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the Express list icon \[Omitted image "express-list1.png"\].
 
@@ -64,7 +64,7 @@ Displays the severity, the business criticality, and a short description of the 
 
 The service map shows the impacted path of alerts, enabling you to quickly assess their effect on the service. For more information, see [View unified service map and the impact paths in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/view-impact-tree.md).
 
-If metrics data exists for this service, you can open the [[agent-workspace-ops-intelligence|Metric Explorer]] from the pop-up by selecting **View related metrics**.
+If metrics data exists for this service, you can open the Metric Explorer from the pop-up by selecting **View related metrics**.
 
 </td></tr><tr><td>
 
@@ -80,8 +80,3 @@ Displays the name of the owner of the impacted service and the support group ass
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[agent-workspace-ops-intelligence|Metric Explorer]]

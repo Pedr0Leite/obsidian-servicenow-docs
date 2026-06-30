@@ -21,7 +21,7 @@ The Impact Workspace module allows HTML in the following description fields:
 -   The customer\_notes field of the sn\_impact\_common\_capabilities\_map and sn\_impact\_common\_par\_version\_phase\_app\_mapping tables.
 -   The manual\_description field of the sn\_impact\_common\_manual\_capability\_description table.
 
-When this system property contains a comma-separated list of HTML tags \(for example, scripts\), those tags and their contents are removed from the HTML portions of the listed fields. Removing these tags helps sanitize the HTML in the description fields by removing HTML tags that are sources of HTML injection attacks. If this property isn’t set in the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the value defaults to a default list of denied HTML tags. If the property is empty, all HTML tags are allowed.
+When this system property contains a comma-separated list of HTML tags \(for example, scripts\), those tags and their contents are removed from the HTML portions of the listed fields. Removing these tags helps sanitize the HTML in the description fields by removing HTML tags that are sources of HTML injection attacks. If this property isn’t set in the System Properties \[sys\_properties\] table, the value defaults to a default list of denied HTML tags. If the property is empty, all HTML tags are allowed.
 
 Use the **sn\_impact\_common.blacklist\_tags\_HTML\_injection** provide a comma-separated list of HTML tags which are removed from the description fields for the Impact Workspace module. This removal helps to prevent HTML injection attacks. At minimum, this list should contain the contents of the default list. If the property isn’t set in the System Properties \[sys\_properties\] table, it defaults to the list `script,iframe,object,embed,form,onerror,onload,style,img,video,audio,source,button`.
 
@@ -45,7 +45,7 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
@@ -113,15 +113,10 @@ References
 
 </td><td>
 
-[[c_HighSecuritySettings|High Security Settings]]
+[High Security Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_HighSecuritySettings.md)
 
 </td></tr></tbody>
 </table>To learn more about adding or creating a system property, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

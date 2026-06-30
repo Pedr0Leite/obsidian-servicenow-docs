@@ -20,7 +20,7 @@ The following processes are performed using Task Mining to collect workstation d
 
 -   **[Defining the scope of Task Mining projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/managing-projects.md)**
 
-    Start a [[task-mining|Task Mining]] project to analyze data for a specific purpose. Define how long the project lasts, who to collect data from, how to group activities, and how to visualize data.
+    Start a Task Mining project to analyze data for a specific purpose. Define how long the project lasts, who to collect data from, how to group activities, and how to visualize data.
 
 -   **[Generating a project data analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/mining-a-task-mining-project.md)**
 
@@ -38,6 +38,4 @@ The following processes are performed using Task Mining to collect workstation d
 
     Initiate an automation request from a Task Mining task timeline analysis or share the details of the analysis.
 
-## Related
 
-- [[task-mining|Task Mining]]

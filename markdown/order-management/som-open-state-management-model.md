@@ -12,9 +12,9 @@ breadcrumb: [Legacy product configurator, Configure, price, quote apps, Configur
 
 # Open state management
 
-The open state model is a programmatic framework in the Configuration State Model API, which lets you program variations in product options that appear in the [[product-configurator|legacy product configurator]] in [[order-mgt-overview|Sales Customer Relationship Management]]. The API framework provides certain states and helper API methods for controlling how nodes in the legacy product configurator user interface are displayed.
+The open state model is a programmatic framework in the Configuration State Model API, which lets you program variations in product options that appear in the legacy product configurator in Sales Customer Relationship Management. The API framework provides certain states and helper API methods for controlling how nodes in the legacy product configurator user interface are displayed.
 
-As developers, you can use [[som-open-state-configuration|extension points for open state management]] to set the view-only or editable states on any configurator node, based on events that occur at loading or when product selections change. You can also optionally script information messages along with changing the state of the node. These messages display contextually in the product configurator user interface. Various helper API methods are available for reading and setting states on any node, eliminating the need for extensive JSON scripting.
+As developers, you can use [extension points for open state management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-open-state-configuration.md) to set the view-only or editable states on any configurator node, based on events that occur at loading or when product selections change. You can also optionally script information messages along with changing the state of the node. These messages display contextually in the product configurator user interface. Various helper API methods are available for reading and setting states on any node, eliminating the need for extensive JSON scripting.
 
 **Note:** Check your entitlements to determine if you have access to these features.
 
@@ -46,7 +46,7 @@ Nodes in the legacy product configurator display product relationship groups, ch
 
 -   **Quantity - Visible \(Yes/No\), Editable \(Yes/No\)**
 
-    Configurations that set quantity on a product, enforce [[rules_101|rules]] related to quantity, and show informational and error messages related to quantity at the appropriate node.
+    Configurations that set quantity on a product, enforce rules related to quantity, and show informational and error messages related to quantity at the appropriate node.
 
 -   **Checked - Yes \(show node selections\) or No \(make node selections invisible\)**
 
@@ -136,9 +136,3 @@ You can use the following helper API methods to read and set states on any node.
     -   getLineContextVariables\(\): Returns a list of all the line context variables.
     -   getLineContextVariableValue\(nodePath, contextVariable\): Returns the value of a specific context variable in the line.
 
-## Related
-
-- [[som-open-state-configuration|Use extension points for open state management]]
-- [[product-configurator|Legacy product configurator]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[rules_101|Rules]]

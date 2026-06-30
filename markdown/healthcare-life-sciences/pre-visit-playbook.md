@@ -12,7 +12,7 @@ breadcrumb: [Manage procedure requests, Pre-Visit Management, Healthcare and Lif
 
 # Working on a procedure request case in Workspace
 
-Use the playbook available with the [[pre-visit-mgmt-app|Pre-Visit Management]] application to manage procedure request cases and schedule a high value procedure for patients.
+Use the playbook available with the Pre-Visit Management application to manage procedure request cases and schedule a high value procedure for patients.
 
 **Important:**
 
@@ -67,7 +67,7 @@ Review appointments created for the procedure.
 Wait until all child activities are completed so that the procedure request is automatically closed.
 
 </td></tr></tbody>
-</table>**Note:** Before the appointment date, the Pre-Visit Management workflow automatically assigns the to-do item to the patient for reviewing and signing the procedure consent, and also sends an email notification about the to-do item to the patient. The day when to send the procedure consent form is configured by your administrator. For more information, see [[pre-visit-config-proc-consent-time|Configure when to send the procedure consent form to a patient]].
+</table>**Note:** Before the appointment date, the Pre-Visit Management workflow automatically assigns the to-do item to the patient for reviewing and signing the procedure consent, and also sends an email notification about the to-do item to the patient. The day when to send the procedure consent form is configured by your administrator. For more information, see [Configure when to send the procedure consent form to a patient](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-proc-consent-time.md).
 
 ## Completing the initial review activities
 
@@ -94,7 +94,7 @@ In the **Pre-authorizations** stage of the playbook, complete the following acti
 
 In the **Schedule procedure** stage, complete the **Review appointments** activity.
 
-Only after the booked appointment details are entered by using the **Create appointment** UI action, the patient service representative can review the appointment details and mark the **Review appointments** activity of the **Schedule procedure** stage as complete in the Pre-Visit Management playbook. For more information, see [[pre-visit-booking-appt|Managing appointment bookings for procedure requests]].
+Only after the booked appointment details are entered by using the **Create appointment** UI action, the patient service representative can review the appointment details and mark the **Review appointments** activity of the **Schedule procedure** stage as complete in the Pre-Visit Management playbook. For more information, see [Managing appointment bookings for procedure requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-booking-appt.md).
 
 **Note:** After the **Schedule procedure** stage is completed, the **Resolve and Close** stage is automatically run.
 
@@ -102,8 +102,3 @@ Only after the booked appointment details are entered by using the **Create appo
 
 The **Resolve and Close** stage is automatically closed when all the child activities associated with a procedure request case are completed.
 
-## Related
-
-- [[pre-visit-config-proc-consent-time|Configure when to send the procedure consent form to a patient]]
-- [[pre-visit-booking-appt|pre visit booking appt]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

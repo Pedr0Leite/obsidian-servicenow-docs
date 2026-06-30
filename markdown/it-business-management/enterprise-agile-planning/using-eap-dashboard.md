@@ -76,7 +76,7 @@ Available with
 
 </td></tr><tr><td>
 
-Kanban [[c_PortfolioManagerDashboard|Portfolio Dashboard]]
+Kanban Portfolio Dashboard
 
 </td><td>
 
@@ -92,7 +92,3 @@ Kanban configuration
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_PortfolioManagerDashboard|Portfolio Dashboard]]

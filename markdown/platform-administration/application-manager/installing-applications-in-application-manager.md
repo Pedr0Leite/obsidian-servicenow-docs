@@ -29,14 +29,14 @@ Role required: admin, sn\_appclient.app\_client\_user, or sn\_appclient.app\_cli
 
 ## About this task
 
-This topic describes how to install an application or plugin. For information about [[updating-apps-app-manager|updating applications]] or plugins, see [Update an application or plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/update-application-app-mgr.md).
+This topic describes how to install an application or plugin. For information about updating applications or plugins, see [Update an application or plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/update-application-app-mgr.md).
 
 ## Procedure
 
-1.  Navigate to the **Available for you** tab of the [[application-manager|Application Manager]] in one of the following ways.
+1.  Navigate to the **Available for you** tab of the Application Manager in one of the following ways.
 
     -   Navigate to **Admin** &gt; **Application Manager** &gt; **Available for you**
-    -   Navigate to **All** &gt; **[[admin-center-intro|Admin Center]]** &gt; **Application Manager** &gt; **Available for you**.
+    -   Navigate to **All** &gt; **Admin Center** &gt; **Application Manager** &gt; **Available for you**.
 2.  Find and select the application or plugin you want to install.
 
     You can search for an application or plugin by name, or use the sort and filter options available in the Application Manager.
@@ -47,9 +47,9 @@ This topic describes how to install an application or plugin. For information ab
 
 5.  If the application or plugin has dependencies, verify that all necessary dependencies can be updated or installed.
 
-    If any dependencies are categorized as **Needs to be procured from store**, procure the necessary dependencies and sync the Application Manager with the [[servicenow-store|ServiceNow Store]] before continuing. For more information about unavailable dependencies that block installation, see [[versions-dependencies|Evaluating version requirements and dependencies]].
+    If any dependencies are categorized as **Needs to be procured from store**, procure the necessary dependencies and sync the Application Manager with the ServiceNow Store before continuing. For more information about unavailable dependencies that block installation, see [Evaluating version requirements and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/versions-dependencies.md).
 
-6.  Install the application now or [[schedule-installation|schedule installation]] for a later time.
+6.  Install the application now or schedule installation for a later time.
 
 <table id="choicetable_kkl_v3m_yfc"><thead><tr><th align="left" id="d222269e205">
 
@@ -88,11 +88,3 @@ If you choose to install the application or plugin now, it and its dependencies 
 
 **Parent Topic:**[Installing applications, plugins, and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/installing-apps-app-manager.md)
 
-## Related
-
-- [[versions-dependencies|Evaluating version requirements and dependencies]]
-- [[updating-apps-app-manager|Updating applications]]
-- [[application-manager|Application Manager]]
-- [[admin-center-intro|Admin Center]]
-- [[servicenow-store|ServiceNow Store]]
-- [[schedule-installation|Schedule installation]]

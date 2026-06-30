@@ -40,7 +40,7 @@ The available detection policy providers are:
 
 -   **Policy Customer Script**
 
-    A custom script that can be loaded onto the ServiceNow Platform to determine the user’s consent policy and return one of the policy names from the [[user-exp-analytics-landing|Usage Insights]] Consent Policy table \[sys\_analytics\_detection\_policy\_provider\].
+    A custom script that can be loaded onto the ServiceNow Platform to determine the user’s consent policy and return one of the policy names from the Usage Insights Consent Policy table \[sys\_analytics\_detection\_policy\_provider\].
 
     **Note:** If a customer script is defined but the Active field isn't selected, the next priority in the Order table is activated.
 
@@ -51,7 +51,7 @@ The available detection policy providers are:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Usage Insights settings** &gt; **Detection Policy Providers**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Usage Insights settings** &gt; **Detection Policy Providers**.
 
     The Usage Insights Detection Policy Providers page displays.
 
@@ -68,7 +68,3 @@ The available detection policy providers are:
 
 **Parent Topic:**[Types of tracking consent policies in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracking-types.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

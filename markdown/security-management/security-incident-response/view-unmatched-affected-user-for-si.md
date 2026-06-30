@@ -22,7 +22,7 @@ Role required: sn\_si.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident for which you want to add unmatched affected user.
 
@@ -46,6 +46,3 @@ Role required: sn\_si.analyst
 
 The newly added unmatched affected user is added on the Unmatched Affected Users page.
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

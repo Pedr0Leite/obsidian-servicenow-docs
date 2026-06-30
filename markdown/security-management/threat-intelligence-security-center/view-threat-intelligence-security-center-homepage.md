@@ -14,7 +14,7 @@ breadcrumb: [Explore, Threat Intelligence Security Center, Security Operations]
 
 # TISC Workspace
 
-View a centralized dashboard of [[threat-intel-landing-page|threat intelligence]] data including feeds overview, trending threats, and intelligence sharing metrics. Monitor your security posture with trending intelligence data.
+View a centralized dashboard of threat intelligence data including feeds overview, trending threats, and intelligence sharing metrics. Monitor your security posture with trending intelligence data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[tisc-landing-page|Threat intelligence Security Center]]**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat intelligence Security Center**.
 
     The TISC Home page is displayed.
 
@@ -32,7 +32,7 @@ Role required: sn\_sec\_tisc.analyst
 
 2.  Review the TISC home page widgets.
 
-    The home page view consists of three different tabs: **Feeds Overview**, **Trending Threats**, and **Intelligence Sharing**. The content on the home page comes from various sources such as [[c_Observables|observables]], [[indicator|indicators]], and data feeds.
+    The home page view consists of three different tabs: **Feeds Overview**, **Trending Threats**, and **Intelligence Sharing**. The content on the home page comes from various sources such as observables, indicators, and data feeds.
 
     1.  Select the **Feeds Overview** tab to view different sources where data is ingested and sources configured for data ingestion.
 
@@ -163,9 +163,3 @@ Select a sector in the chart and this opens the list view filtered by the select
 
 [TISC Key terminology]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

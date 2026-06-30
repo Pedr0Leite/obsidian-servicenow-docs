@@ -14,7 +14,7 @@ breadcrumb: [Manage Entity Based Access, Entity Based Access, Common GRC feature
 
 # Configure an entity type for a linked object
 
-Configure an entity type by using the [[entity-based-access|Entity Based Access]] application. You can specify an entity type, such as Company or Vendors, and manage the object access for the entity that is linked to that entity type.
+Configure an entity type by using the Entity Based Access application. You can specify an entity type, such as Company or Vendors, and manage the object access for the entity that is linked to that entity type.
 
 ## Before you begin
 
@@ -40,12 +40,7 @@ Role required: sn\_grc\_ent\_access.admin
 
 
 -   **[Entity Type Configurations form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-type-configurations-form.md)**  
-Use the [[entity-type-configurations-form|Entity Type Configurations form]] to [[create-new-entity-type-ws|create an entity type]] configuration within the Entity Based Access application.
+Use the Entity Type Configurations form to create an entity type configuration within the Entity Based Access application.
 
 **Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[entity-type-configurations-form|Entity Type Configurations form]]
-- [[create-new-entity-type-ws|Create an entity type]]

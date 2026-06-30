@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 # Connect Workplace Reservation Management with Microsoft Teams
 
-Establish connection between Microsoft Teams Communications and [[workplace-rsv-mgmt-feat|Workplace Reservation Management]].
+Establish connection between Microsoft Teams Communications and Workplace Reservation Management.
 
 ## Before you begin
 
@@ -97,6 +97,3 @@ Setup connection and credentials alias for Microsoft Teams Graph.
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

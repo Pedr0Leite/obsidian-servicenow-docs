@@ -14,7 +14,7 @@ breadcrumb: [Use, Dependency Views, Configuration Management Database \(CMDB\), 
 
 # Perform actions on nodes in a Dependency Views map
 
-You can view various related items for the nodes in a [[c_NextGenBSMMaps|Dependency Views map]].
+You can view various related items for the nodes in a Dependency Views map.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If the node is a collapsed node or represents a cluster, the incidents, problems
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_BusinesssServiceManagementMaps|Dependency Views]]** &gt; **View Map**.
+1.  Navigate to **All** &gt; **Dependency Views** &gt; **View Map**.
 
 2.  Click the Node menu icon \[Omitted image "DependencyViewDropMenu.png"\] Alt text: Node menu next to a node or right-click a node on the map to access the following menu items:
 
@@ -131,7 +131,3 @@ Starting at the selected icon, loads the next level of the map, past the setting
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

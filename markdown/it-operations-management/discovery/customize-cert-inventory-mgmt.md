@@ -14,11 +14,11 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Customize Certificate Inventory and Management
 
-Customize various aspects within [[cert-inventory-mgmt|Certificate Inventory and Management]] [[using-discovery|using Discovery]] properties, enabling you to tailor the solution to your specific needs and enhance the overall management of TLS certificates.
+Customize various aspects within Certificate Inventory and Management using Discovery properties, enabling you to tailor the solution to your specific needs and enhance the overall management of TLS certificates.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## Procedure
 
@@ -30,8 +30,3 @@ Role required: [[r-discovery|discovery]]\_admin or admin
     -   glide.discovery.certs.enable\_renewal\_task\_creation\_for\_discovered\_certificates
     -   glide.discovery.certs.slack\_channel\_id
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[using-discovery|Using Discovery]]
-- [[r-discovery|Discovery]]

@@ -22,7 +22,7 @@ Role required: sn\_shift\_planning.agent
 
 ## Procedure
 
-1.  Navigate to the [[itsm-mobile-agent|ITSM Mobile Agent]] application.
+1.  Navigate to the ITSM Mobile Agent application.
 
 2.  Request time off.
 
@@ -112,6 +112,3 @@ Do this
 
 **Parent Topic:**[Requesting time-off using the ITSM Mobile Agent for Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-agent-schedule-mobile-wfo-itsm.md)
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

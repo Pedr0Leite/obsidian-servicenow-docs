@@ -19,15 +19,15 @@ After you upgrade to Washington DC, you must review all the post-upgrade tasks a
 -   **[Run fix script to update the KPI weighted score field in the KPI score table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-weighted-score.md)**  
 Run this fix script to update the KPI weighted score field values \(from integer to decimal type\) in the KPI score table \(sn\_kpi\_score\) after the March 2026 Australia release.
 -   **[Run fix script to update the Aggregation method field in the KPI table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-aggregation-method.md)**  
-Run this fix script to update the new fields added in the [[kpi-table|KPI table]] \(sn\_kpi\_kpi\) after the May 2025 Australia release.
+Run this fix script to update the new fields added in the KPI table \(sn\_kpi\_kpi\) after the May 2025 Australia release.
 -   **[Run fix script to update the KPI Instruction field in the Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-update-kpi-instruction.md)**  
-Run this fix script to update the new field **KPI Instruction** added in the [[supplier|Supplier]] Task \(sn\_slm\_task\) table in the Australia release.
+Run this fix script to update the new field **KPI Instruction** added in the Supplier Task \(sn\_slm\_task\) table in the Australia release.
 -   **[Run fix scripts to enable Automated KPI collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-fixscript-automated-kpis.md)**  
 Run the fix scripts to enable the Automated KPIs feature that automatically calculates KPI data from database tables instead of manually entering values.
 -   **[Run fix script to migrate existing data from the deprecated Action type column after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/fix-script-deprecated-column.md)**  
 In the May Store 2024 release, the **Action type** column in the Supplier Task \(sn\_slm\_task\) table has been deprecated.
 -   **[Run fix script to use the Supplier Manager Workspace after upgrading to the Australia release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/access-smw-after-upgrade.md)**  
-After upgrading to the Australia release, you can see only the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] on the **All** navigation tab. You don't have to do anything if you choose to continue to use the Source-to-Pay Workspace.
+After upgrading to the Australia release, you can see only the Source-to-Pay Workspace on the **All** navigation tab. You don't have to do anything if you choose to continue to use the Source-to-Pay Workspace.
 -   **[Enable deprecated case types after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-deprecated-case-types.md)**  
 After you upgrade to Australia, you can enable deprecated case types if you have the admin role.
 -   **[Processing the skipped supplier catalog item records after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/process-skipped-records-upgrade.md)**  
@@ -46,8 +46,3 @@ After you upgrade to Australia, the latest supplier catalog items may get skippe
 
 [Enable deprecated case types after upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/enable-deprecated-case-types.md)
 
-## Related
-
-- [[kpi-table|KPI table]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

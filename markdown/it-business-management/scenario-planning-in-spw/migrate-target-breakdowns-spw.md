@@ -14,11 +14,11 @@ breadcrumb: [Configuring goals in Strategic Planning, Configure, Portfolio Plann
 
 # Migrate target breakdowns
 
-After upgrading to [[alignment-planner-workspace-landing-page|Strategic Planning]] v4.3.2 or later, run the **Migrate BreakdownInterval To Checkinfrequency** scheduled job to migrate the existing values from the **Review frequency** field to the **Check-in frequency** field in the target records.
+After upgrading to Strategic Planning v4.3.2 or later, run the **Migrate BreakdownInterval To Checkinfrequency** scheduled job to migrate the existing values from the **Review frequency** field to the **Check-in frequency** field in the target records.
 
 ## About this task
 
-After running the job, the value in the **Check-in frequency** field for a target is populated based on the existing value in the **Review frequency** field of the target. If the existing value in the **Review frequency** field was set to any option other than **None**, then [[target-breakdowns-gf|target breakdowns]] will be created for such targets based on the value in the existing check-in frequency of the target. For more information on how these values are migrated for targets with different values, see [Target breakdowns migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns-migration-spw.md).
+After running the job, the value in the **Check-in frequency** field for a target is populated based on the existing value in the **Review frequency** field of the target. If the existing value in the **Review frequency** field was set to any option other than **None**, then target breakdowns will be created for such targets based on the value in the existing check-in frequency of the target. For more information on how these values are migrated for targets with different values, see [Target breakdowns migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/target-breakdowns-migration-spw.md).
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: admin
 
 2.  Search for and select the **Migrate BreakdownInterval To Checkinfrequency** scheduled job.
 
-3.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], ensure that the frequency is selected as **On Demand** in the **Run** field.
+3.  On the Scheduled Script Execution form, ensure that the frequency is selected as **On Demand** in the **Run** field.
 
 4.  Select **Execute Now**.
 
@@ -40,8 +40,3 @@ As an administrator, when you run the **Migrate BreakdownInterval To Checkinfreq
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[target-breakdowns-gf|Target breakdowns]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

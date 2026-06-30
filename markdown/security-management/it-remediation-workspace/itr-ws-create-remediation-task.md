@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Create a remediation task manually in the IT Remediation Workspace
 
-Starting with v25.0.4 of [[vuln-landing-page|Vulnerability Response]], you can create remediation tasks manually from the Host vulnerable items, Application Vulnerable items, Container vulnerable items, and Configuration test results lists on the List page of [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+Starting with v25.0.4 of Vulnerability Response, you can create remediation tasks manually from the Host vulnerable items, Application Vulnerable items, Container vulnerable items, and Configuration test results lists on the List page of IT Remediation Workspace.
 
 ## Before you begin
 
@@ -96,7 +96,3 @@ Choices are:-   **Skip records for new remediation tasks**: No action is taken o
 
 Remediation tasks are created based on the grouping criteria. An email notification is sent to the remediation owners in the assignment group, informing them that a remediation task has been created and assigned to their group. For examples on how remediation tasks are created based on the grouping criteria and record management criteria, see [Examples for remediation task creation in the Vulnerability Manager Workspace and IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/create-remediation-task-examples.md).
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

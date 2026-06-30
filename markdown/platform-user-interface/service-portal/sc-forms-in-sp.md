@@ -14,7 +14,7 @@ breadcrumb: [Supported features in Service Portal, Exploring Service Portal, Ser
 
 # Service Catalog forms in Service Portal
 
-Service Catalog [[form-configurable-workspace|forms]] are rendered within [[c_ServicePortal|Service Portal]] widgets in a two-column layout. Complex forms may not display as expected.
+Service Catalog forms are rendered within Service Portal widgets in a two-column layout. Complex forms may not display as expected.
 
 ## Recommendations when creating Service Catalog forms
 
@@ -115,7 +115,3 @@ For more information, see the [Service Catalog on Service Portal](https://www.se
 
 **Note:** Be sure to make changes in a test environment before updating your production instance.
 
-## Related
-
-- [[form-configurable-workspace|Forms]]
-- [[c_ServicePortal|Service Portal]]

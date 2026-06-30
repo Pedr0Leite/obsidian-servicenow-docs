@@ -29,7 +29,7 @@ Cloning a skill creates a copy in Draft state with the original prompt content, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-skill-kit-landing|Now Assist Skill Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Skill Kit** &gt; **Home**.
 
 2.  Select the skill that you want to clone.
 
@@ -99,6 +99,3 @@ After you clone and edit the skill and prompt, you can evaluate your prompt.To l
 
 **Parent Topic:**[Create a skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/create-new-skill.md)
 
-## Related
-
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]

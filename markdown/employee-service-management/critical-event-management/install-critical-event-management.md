@@ -14,7 +14,7 @@ breadcrumb: [Configuring, Critical Event Management, Health and Safety, Employee
 
 # Install Critical Event Management
 
-You can install the [[critical-event-management|Critical Event Management]] application with the admin role. If the demo data and related applications aren’t installed by default, the application includes demo data to install them.
+You can install the Critical Event Management application with the admin role. If the demo data and related applications aren’t installed by default, the application includes demo data to install them.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ For more information, see [Components installed with Critical Event Management](
 
 6.  Select **Install**.
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]

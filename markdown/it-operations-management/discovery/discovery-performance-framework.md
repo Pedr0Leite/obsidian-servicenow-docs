@@ -14,7 +14,7 @@ breadcrumb: [Discovery monitoring and issue resolution, Using Discovery, Discove
 
 # Discovery performance metrics
 
-This [[r-discovery|Discovery]] enhancement collects performance metrics on probe/pattern and sensor processing times and then aggregates that data over time. You can use the roll-up data to monitor the performance of specific discoveries or to compare performance between versions after an upgrade.
+This Discovery enhancement collects performance metrics on probe/pattern and sensor processing times and then aggregates that data over time. You can use the roll-up data to monitor the performance of specific discoveries or to compare performance between versions after an upgrade.
 
 ## Metrics
 
@@ -27,7 +27,7 @@ Discovery provides these individual performance metrics:
 Discovery can aggregate individual metrics for these attributes:
 
 -   Builds/versions
--   [[c_DiscoveryStatus|Discovery status]]
+-   Discovery status
 -   Target IP address
 
 ## How metric aggregations are triggered
@@ -516,7 +516,3 @@ Total time used for IRE processing of a pattern's payload for a given roll-up pr
 </td></tr></tbody>
 </table>\* Together, these values uniquely identify a probe/sensor pair \(a "probe execution"\) that is used for a Discovery.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

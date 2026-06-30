@@ -22,7 +22,7 @@ Role required: sn\_lg\_investigate.config or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Administration** &gt; **[[legal-investigations-landing-page|Legal Investigations]] Admin** &gt; **Allegation Types**.
+1.  Navigate to **All** &gt; **Legal Administration** &gt; **Legal Investigations Admin** &gt; **Allegation Types**.
 
 2.  Configure or modify an allegation type.
 
@@ -57,6 +57,3 @@ Role required: sn\_lg\_investigate.config or admin
         -   Save an allegation subtype by clicking **Submit**.
         -   Save the changes to an existing allegation subtype by clicking **Update**.
 
-## Related
-
-- [[legal-investigations-landing-page|Legal Investigations]]

@@ -26,7 +26,7 @@ Before you install Advanced Work Assignment for Source-to-Pay Operations, ensure
 
 Install the Advanced Work Assignment for Source-to-Pay Operations \(sn\_spend\_awa\) plugin if you have the admin role. Installing this plugin also installs the following dependent plugins:
 
--   [[advanced-work-assignment|Advanced Work Assignment]] \(com.glide.awa\)
+-   Advanced Work Assignment \(com.glide.awa\)
 -   Agent Chat \(com.glide.interaction.awa\)
 
 -   **[Setting up Advanced Work Assignment for Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/awa-spo-setup.md)**  
@@ -57,13 +57,9 @@ Enables shoppers or requesters to interact with agents to resolve their issues a
 
 [Install ShoppingHub Mobile]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
 [Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
 [Application plugin installation sequence in Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/application-plugin-list.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[universal-request|Universal Request]]

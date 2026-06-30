@@ -79,8 +79,8 @@ Resource assignments
 -   Role
 -   Skill
 -   Employment type
--   [[r_AllocatingResources|Resource allocation]] \(Weekly/Monthly\)
--   [[project-workspace-landing-page|Project Workspace]] planning columns
+-   Resource allocation \(Weekly/Monthly\)
+-   Project Workspace planning columns
 
 </td></tr><tr><td>
 
@@ -144,8 +144,3 @@ RIDAC
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]
-- [[project-workspace-landing-page|Project Workspace]]

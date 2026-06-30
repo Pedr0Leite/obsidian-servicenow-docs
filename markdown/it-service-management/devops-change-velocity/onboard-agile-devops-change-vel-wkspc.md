@@ -48,7 +48,7 @@ Steps
 
 </td></tr><tr><td id="d435392e142">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -125,11 +125,7 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your Agile Development 2.0 tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your Agile Development 2.0 tool to DevOps Change Velocity.
 
 **Parent Topic:**[Agile Development 2.0 integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/agile-integration-dev-ops.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

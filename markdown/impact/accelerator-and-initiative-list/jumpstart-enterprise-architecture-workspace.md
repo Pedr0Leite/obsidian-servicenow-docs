@@ -25,7 +25,7 @@ Jumpstart Your Enterprise Architecture Workspace helps ServiceNow Enterprise Arc
 
 ## Package Availability
 
-**Note:** This Accelerator is available for [[impact-landing-page|Impact]] Guided, Guided+ \(Strategic Value or Platform Governance\), Advanced, and Total packages.
+**Note:** This Accelerator is available for Impact Guided, Guided+ \(Strategic Value or Platform Governance\), Advanced, and Total packages.
 
 ## What You Get
 
@@ -68,6 +68,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

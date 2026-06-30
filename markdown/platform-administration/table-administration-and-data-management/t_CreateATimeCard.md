@@ -14,7 +14,7 @@ breadcrumb: [Time cards, Time Card management, Working with Task table, Table ad
 
 # Create a time card
 
-You can create [[c_TimeCards|time cards]] to log time against the work you have done.
+You can create time cards to log time against the work you have done.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ Time cards can be created automatically or manually.
 
             Configure time cards to be created when a user updates a task record. The **Auto create time card on task update** setting in the assigned [time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-time-sheet-policy.md) controls this behavior and is set to false by default.
 
-        -   **Auto fill time card with [[c_TimeWorked|time worked]] entries**
+        -   **Auto fill time card with time worked entries**
 
             Configure time cards to be created when a user records **Time worked**. A time card is created if a time card does not exist for the task. The time sheet policy **Auto fill time card with time worked entries** controls this behavior and is set to false by default.
 
@@ -62,11 +62,11 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d188002e217">
 
-**From the [[worker-portal|Time Sheet Portal]]**
+**From the Time Sheet Portal**
 
 </td><td>
 
-1.  Navigate to **[[time-sheets|Time Sheets]]** &gt; **Time Sheet Portal**.
+1.  Navigate to **Time Sheets** &gt; **Time Sheet Portal**.
 2.  Open the week on the **Calendar** for which you want to create the time card.
 
 
@@ -219,9 +219,3 @@ As an admin, you can configure a scheduled job to generate time cards automatica
 
 [Map a time card category with operational work types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/map-time-card-category.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[c_TimeWorked|Time worked]]
-- [[worker-portal|Time Sheet Portal]]
-- [[time-sheets|Time Sheets]]

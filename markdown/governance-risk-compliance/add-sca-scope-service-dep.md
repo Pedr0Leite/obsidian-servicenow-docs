@@ -13,7 +13,7 @@ breadcrumb: [Building a scenario analysis using simulation, Scenario analysis us
 
 # Define the scope and dependencies
 
-Define the scope of the [[scenario-analysis-ov|Scenario analysis]] by selecting the service to analyze and adding the dependencies that support it during a disruption.
+Define the scope of the Scenario analysis by selecting the service to analyze and adding the dependencies that support it during a disruption.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ The Scope step consists of two sub-steps: adding a service and adding dependenci
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **Scenario Analysis** and open the scenario analysis record form.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the scenario analysis record form.
 
 2.  In the Playbook stage panel, select **Scope**, then select **Services**.
 
@@ -86,10 +86,5 @@ The **Scope** step is complete. The selected service and its dependencies are lo
 
 ## What to do next
 
-To add scenarios and review reference data such as incidents, see [[add-sca-scenarios-review-refdata|Add scenarios and review reference data]].
+To add scenarios and review reference data such as incidents, see [Add scenarios and review reference data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-sca-scenarios-review-refdata.md).
 
-## Related
-
-- [[add-sca-scenarios-review-refdata|Add scenarios and review reference data]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]

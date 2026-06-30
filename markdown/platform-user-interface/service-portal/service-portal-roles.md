@@ -14,7 +14,7 @@ breadcrumb: [Service Portal reference, Service Portal, Configure UIs and portals
 
 # Service Portal roles
 
-[[c_ServicePortal|Service Portal]] installs these roles.
+Service Portal installs these roles.
 
 To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
@@ -101,6 +101,3 @@ None.
 
 Read-only access to analytics. Use the Portal analytics administrator \[portal\_analytics\_admin\] role to manage analytics.
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

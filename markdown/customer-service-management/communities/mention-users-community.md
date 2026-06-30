@@ -26,7 +26,7 @@ You can mention users in questions, blogs, events, comments, and answers.
 
 **Note:** The user mentions feature is not enabled for document or video content types.
 
-You can mention users in [[servicenow-communities|Communities]] in the following ways.
+You can mention users in Communities in the following ways.
 
 ## Procedure
 
@@ -45,6 +45,3 @@ You can mention users in [[servicenow-communities|Communities]] in the following
 
 **Parent Topic:**[Post and respond to content in the community](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/post-respond-content.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

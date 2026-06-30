@@ -15,9 +15,9 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Portfolio Planning
 
-Enhance your traditional product and [[c_PortfolioManagement|portfolio management]] by prioritizing work and visualizing plans with ServiceNow® Portfolio Planning. Effectively plan, track, and manage work for projects and demands using a centralized workspace.
+Enhance your traditional product and portfolio management by prioritizing work and visualizing plans with ServiceNow® Portfolio Planning. Effectively plan, track, and manage work for projects and demands using a centralized workspace.
 
-Portfolio Planning is available for users with a [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) Standard license.
+Portfolio Planning is available for users with a Strategic Portfolio Management \(SPM\) Standard license.
 
 ## Get started
 
@@ -35,7 +35,7 @@ Portfolio Planning is available for users with a [[r_ITBusinessManagement|Strate
 
 </td><td>
 
-[Prioritize \[Omitted image "bus-balance-value.svg"\] Alt text: Rank and [[prioritize-work-portfolio-planning-workspace|prioritize work]] for your portfolio plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/prioritizing-work-in-portfolio-planning-workspace.md)
+[Prioritize \[Omitted image "bus-balance-value.svg"\] Alt text: Rank and prioritize work for your portfolio plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/prioritizing-work-in-portfolio-planning-workspace.md)
 
 </td></tr><tr><td>
 
@@ -76,8 +76,3 @@ Portfolio Planning is available for users with a [[r_ITBusinessManagement|Strate
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_PortfolioManagement|Portfolio Management]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]

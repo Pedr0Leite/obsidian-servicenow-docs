@@ -14,7 +14,7 @@ breadcrumb: [Discovery identifiers, Configuring Discovery, Discovery, ITOM Visib
 
 # Serial number types for identification
 
-As [[r-discovery|Discovery]] finds CIs, their serial numbers are listed in the Serial Number \[cmdb\_serial\_number\] table so they are easy to identify. Serial number types vary depending on the CI, as described in the following examples.
+As Discovery finds CIs, their serial numbers are listed in the Serial Number \[cmdb\_serial\_number\] table so they are easy to identify. Serial number types vary depending on the CI, as described in the following examples.
 
 **Important:** Serial numbers are necessary for accurate asset tracking. If you modified baseline probes, sensors, or patterns, verify that they still discover serial numbers. In addition, do not configure sensors or patterns to modify the serial number syntax, such as adding a custom prefix. Non-standard serial numbers can lead to inaccurate asset tracking.
 
@@ -68,6 +68,3 @@ For SNMP, the mapping below is based on the code. Physical types of serial numbe
 
 **Parent Topic:**[Discovery identifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_DiscoveryIdentifiers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

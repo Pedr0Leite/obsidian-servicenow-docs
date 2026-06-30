@@ -20,7 +20,7 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **[[emission-factor-library|Emission Factor Library]]** &gt; **Factor**.
+1.  Navigate to **All** &gt; **Operational Sustainability Management** &gt; **Operational Sustainability Workspace** &gt; **Lists** &gt; **Emission Factor Library** &gt; **Factor**.
 
 2.  Open the emission factor that is updated and for which you want to recalculate the data.
 
@@ -29,9 +29,5 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
     -   CMDs are automatically re-executed every 24 hours, updating emission factor values for all linked definitions.
     -   For immediate updates, you can manually execute a CMD by opening it and execute it.
 
-**Parent Topic:**[[create-an-emission-factor|Create an emission factor]]
+**Parent Topic:**[Create an emission factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-emission-factor.md)
 
-## Related
-
-- [[create-an-emission-factor|Create an emission factor]]
-- [[emission-factor-library|Emission factor library]]

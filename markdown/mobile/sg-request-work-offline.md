@@ -12,11 +12,11 @@ breadcrumb: [Install and enable, Offline mode setup options, Offline mode, Befor
 
 # Request offline mode
 
-Activate [[offline-end-user|offline mode for mobile]] by requesting the activation of the SG Offline support plugin \(com.glide.sg.offline\).
+Activate offline mode for mobile by requesting the activation of the SG Offline support plugin \(com.glide.sg.offline\).
 
 ## Before you begin
 
-**Note:** [[mobile-offline-mode|Offline mode]] is supported on on-premise instances.
+**Note:** Offline mode is supported on on-premise instances.
 
 Role required: mobile\_admin, admin
 
@@ -70,15 +70,10 @@ Select the date and time to activate the plugin.
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
 
-**Parent Topic:**[[enable-offline|Install and enable offline capabilities]]
+**Parent Topic:**[Install and enable offline capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-offline.md)
 
 **Related topics**  
 
 
 [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)
 
-## Related
-
-- [[enable-offline|Install and enable offline capabilities]]
-- [[offline-end-user|Offline mode for mobile]]
-- [[mobile-offline-mode|Offline mode]]

@@ -14,9 +14,9 @@ breadcrumb: [SAML 2.0 concepts, SAML, Multi-Provider single sign-on \(SSO\), Aut
 
 # Login \(AuthnRequest\) process flow
 
-[[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 specifies a Web Browser SSO Profile that involves exchanging information among an [[identity-landing|identity]] provider \(IdP\), a service provider \(SP\), and a principal \(user\) on a web browser.
+SAML 2.0 specifies a Web Browser SSO Profile that involves exchanging information among an identity provider \(IdP\), a service provider \(SP\), and a principal \(user\) on a web browser.
 
-The identity provider can be any SSO service offering SAML [[c_Authentication|authentication]] services \(for example SSOCircle\). The service provider is always an instance. The message flow begins with a [[c_requestAPI|request]] for a secured resource at the service provider.
+The identity provider can be any SSO service offering SAML authentication services \(for example SSOCircle\). The service provider is always an instance. The message flow begins with a request for a secured resource at the service provider.
 
 ## Request the target resource at the SP
 
@@ -65,9 +65,3 @@ The `SAMLResponse` value is base64 decoded and inflated to reveal the XML docume
 
 The login script also extracts the session ID from the `//AuthnStatement/@SessionIndex` element and stores it for the `LogoutRequest`.
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

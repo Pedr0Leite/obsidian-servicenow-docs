@@ -12,7 +12,7 @@ breadcrumb: [BCM Configurable Workspace, Explore, Business Continuity Management
 
 # Crisis map view
 
-When you install the GRC: Crisis map application in your instance, you can view the Crisis map icon in the [[list-view-uib-ws|List view]]. You can integrate the Crisis map application with BCM and analyze real-time threat alerts from different locations in a map view. You can then take remedial actions and manage the [[crisis-management-uib|crisis events]] from Business Continuity Workspace.
+When you install the GRC: Crisis map application in your instance, you can view the Crisis map icon in the List view. You can integrate the Crisis map application with BCM and analyze real-time threat alerts from different locations in a map view. You can then take remedial actions and manage the crisis events from Business Continuity Workspace.
 
 ## Panels displayed in Crisis map
 
@@ -23,7 +23,7 @@ The Crisis map displays real‑time alerts from integrated threat feeds. Users c
 
     **Note:**
 
-    To enable the search functionality in Crisis map, you must set the **sn\_bcm\_map.use\_google\_places\_lib** system property. For more information on setting the property, see [[properties-bcm|Properties installed with BCM]].
+    To enable the search functionality in Crisis map, you must set the **sn\_bcm\_map.use\_google\_places\_lib** system property. For more information on setting the property, see [Properties installed with BCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/properties-bcm.md).
 
     To enable Crisis map functionality in the GRC: Crisis map application, you must set up Google maps. For more information, see [Set up Google Maps API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-google-maps-api.md).
 
@@ -33,7 +33,7 @@ A typical view of the Crisis map application is shown in the example.
 
 \[Omitted image "crisis-map-uib-ws.png"\] Alt text: Integrating alerts in Crisis map.
 
-For more information on the feeds, alerts, and events in Crisis map, see [[threats-feeds-alerts-crisis-map|Crisis map interface]].
+For more information on the feeds, alerts, and events in Crisis map, see [Crisis map interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/threats-feeds-alerts-crisis-map.md).
 
 ## Tasks for BCM administrators
 
@@ -42,7 +42,7 @@ With the BCM administrator role, perform these setup tasks for Crisis map:
 -   Enable threat feed integrations that are provided by the base system.
 -   Configure additional threat feeds into the Crisis Management application. These configurations alert the crisis managers about the threats and aids them to take an appropriate action on time.
 
-For more information on the setup tasks for Crisis map, see [[crisis-map-admin-tasks|Setup for Crisis map]] in the configuration section.
+For more information on the setup tasks for Crisis map, see [Setup for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-admin-tasks.md) in the configuration section.
 
 ## Alerts panel in Crisis map
 
@@ -148,11 +148,3 @@ Reset icon to clear the map of all the search results.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[properties-bcm|Properties installed with BCM]]
-- [[threats-feeds-alerts-crisis-map|Crisis map interface]]
-- [[crisis-map-admin-tasks|Setup for Crisis map]]
-- [[list-view-uib-ws|List view]]
-- [[crisis-management-uib|Crisis events]]

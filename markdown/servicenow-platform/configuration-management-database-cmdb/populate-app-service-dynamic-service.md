@@ -14,7 +14,7 @@ breadcrumb: [Create a Service instance, Service instances \(Application services
 
 # Use the Dynamic Service method to populate application services
 
-The Dynamic Service method for populating an application service generates a dynamic application service. A dynamic application service automatically updates to reflect any changes to [[c_CIRelationships|CI relationships in the CMDB]] CI Relationship \[cmdb\_rel\_ci\] table.
+The Dynamic Service method for populating an application service generates a dynamic application service. A dynamic application service automatically updates to reflect any changes to CI relationships in the CMDB CI Relationship \[cmdb\_rel\_ci\] table.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Role required: app\_service\_admin
 
 Complete the generic procedure [Create an application service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-it-services.md).
 
-## Related
-
-- [[c_CIRelationships|CI relationships in the CMDB]]

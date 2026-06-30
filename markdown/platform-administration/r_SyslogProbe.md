@@ -45,8 +45,5 @@ This code does the following:
 -   Sends the message to your syslog server
 -   Launches the probe via the MID Server named "Eclipse"
 
-**Parent Topic:**[[r_SupportedIntegrationInterfaces|Supported integration interfaces]]
+**Parent Topic:**[Supported integration interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_SupportedIntegrationInterfaces.md)
 
-## Related
-
-- [[r_SupportedIntegrationInterfaces|Supported integration interfaces]]

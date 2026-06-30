@@ -12,11 +12,11 @@ breadcrumb: [Reference, Public Sector Digital Services \(PSDS\)]
 
 # Government Service Portal service catalog
 
-The following services are base system public service catalog items offered in the [[gsp-overview-public-sector|Government Service Portal]].
+The following services are base system public service catalog items offered in the Government Service Portal.
 
 These services display automatically for registered users. When a user uses one of these catalog items to submit a request, it automatically maps the case to certain pre-built requests. .
 
-For information on how to set up and customize the public services offered by your agency \(and displayed in your Government Service Portal service catalog\), see [[configure-services-offered|Configure the portal service catalog for a constituent, business, or agency]].
+For information on how to set up and customize the public services offered by your agency \(and displayed in your Government Service Portal service catalog\), see [Configure the portal service catalog for a constituent, business, or agency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/configure-services-offered.md).
 
 A user can go to the service catalog and create a case using the categories and sub-categories outlined in the following table.
 
@@ -106,7 +106,3 @@ Submit a request to obtain public information that is not readily available as p
 |Apply for Unemployment Insurance|Request temporary cash benefits for workers who have become unemployed through no fault of their own and are currently capable of, available for, and actively seeking work.|
 |Request Vocational Rehabilitation Services|Request support for individuals with intellectual and developmental disabilities.|
 
-## Related
-
-- [[configure-services-offered|Configure the portal service catalog for a constituent, business, or agency]]
-- [[gsp-overview-public-sector|Government Service Portal]]

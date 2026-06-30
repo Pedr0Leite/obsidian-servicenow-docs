@@ -14,7 +14,7 @@ breadcrumb: [Explore, Agent Chat, Conversational Interfaces]
 
 # Profanity Filter for Agent Chat overview
 
-The Profanity Filter for [[ci-use-agent-chat|Agent Chat]] prevents agents from sending messages to requesters that include profane language \(also known as forbidden keywords\). If an agent is upset and tries to send a message with offensive language, the Profanity Filter prevents the requester from seeing the message.
+The Profanity Filter for Agent Chat prevents agents from sending messages to requesters that include profane language \(also known as forbidden keywords\). If an agent is upset and tries to send a message with offensive language, the Profanity Filter prevents the requester from seeing the message.
 
 If an agent tries to send a message with profane language, the Profanity Filter blocks the message and flags the forbidden keywords. The Profanity Filter warns the agent that the message contains forbidden keywords and alerts the chat manager to the agent's use of profane language.
 
@@ -59,6 +59,3 @@ The Profanity Filter works with domain separation. If the domain is set to Globa
 -   Grant necessary access to the appropriate domain if it's a sister domain.
 -   Set the keywords under a global domain.
 
-## Related
-
-- [[ci-use-agent-chat|Agent Chat]]

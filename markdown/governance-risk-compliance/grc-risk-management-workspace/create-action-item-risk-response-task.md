@@ -14,7 +14,7 @@ breadcrumb: [Create a risk response task in the Risk Workspace, Use Risk Workspa
 
 # Create an action item in the risk response task
 
-Create multiple strategies with various action items for each [[risk-response|risk response]] task. Action items help you to understand and focus on specific steps needed to manage risks.
+Create multiple strategies with various action items for each risk response task. Action items help you to understand and focus on specific steps needed to manage risks.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Action items are specific, granular tasks defined within a risk response task to
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the task \[Omitted image "task-icon.png"\] Alt text: Task icon. icon.
 
@@ -40,7 +40,7 @@ Action items are specific, granular tasks defined within a risk response task to
 
 6.  On the form, fill in the fields.
 
-    For a description of the field values on the [[create-new-action-item-form|Create New Action Item form]], see [Create New Action Item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-new-action-item-form.md).
+    For a description of the field values on the Create New Action Item form, see [Create New Action Item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-new-action-item-form.md).
 
 7.  Select **Save**.
 
@@ -54,8 +54,3 @@ Use the Create New Action Item form to define the plan of action, assign respons
 
 **Parent Topic:**[Create a risk response task in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-risk-response-task-risk-workspace.md)
 
-## Related
-
-- [[risk-response|risk response]]
-- [[risk-workspace|risk workspace]]
-- [[create-new-action-item-form|create new action item form]]

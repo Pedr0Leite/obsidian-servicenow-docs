@@ -12,7 +12,7 @@ breadcrumb: [Add and manage attachments, Forms in the classic environment, Worki
 
 # Manage attachments
 
-View, rename, and remove the [[attachments-configurable-workspace|attachments]] on a record and adjust the maximum allowable size of attachments.
+View, rename, and remove the attachments on a record and adjust the maximum allowable size of attachments.
 
 ## Before you begin
 
@@ -65,9 +65,5 @@ Role required: admin
     3.  Select **Save**.
 
 
-**Parent Topic:**[[t_AddingAnAttachment|Add and manage attachments]]
+**Parent Topic:**[Add and manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md)
 
-## Related
-
-- [[t_AddingAnAttachment|Add and manage attachments]]
-- [[attachments-configurable-workspace|Attachments]]

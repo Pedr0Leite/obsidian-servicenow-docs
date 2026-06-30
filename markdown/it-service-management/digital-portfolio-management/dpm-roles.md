@@ -14,13 +14,13 @@ breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
 
 # Roles for Digital Portfolio Management
 
-Several types of components are installed with [[dpm-landing|Digital Portfolio Management]] \(DPM\) when you activate the application from the ServiceNow® ServiceNow Store. DPM has two roles - admin and user.
+Several types of components are installed with Digital Portfolio Management \(DPM\) when you activate the application from the ServiceNow® ServiceNow Store. DPM has two roles - admin and user.
 
 ## Roles installed with DPM
 
 There are two roles for DPM.
 
--   The DPM admin \[sn\_dpm.dpm\_admin\] role configures the DPM Workspace for users. The DPM admin role can create, retrieve, update, and delete \(CRUD\) all [[dpm-personal-portfolio|personal portfolios]] created by anyone. The DPM admin role can also assign the DPM manager role to groups so a personal portfolio owner can select groups to view or edit personal portfolios.
+-   The DPM admin \[sn\_dpm.dpm\_admin\] role configures the DPM Workspace for users. The DPM admin role can create, retrieve, update, and delete \(CRUD\) all personal portfolios created by anyone. The DPM admin role can also assign the DPM manager role to groups so a personal portfolio owner can select groups to view or edit personal portfolios.
 -   The DPM manager \[sn\_dpm.dpm\_manager\] role is the end user of the DPM Workspace. The DPM manager role can only CRUD personal portfolios that they create.
 
 See the following table for information about each role.
@@ -46,7 +46,7 @@ DPM admin \[sn\_dpm.dpm\_admin\]
 -   View all DPM system properties and admin pages.
 -   Update all DPM system properties.
 
-**Note:** The DPM Admin role can't CRUD service portfolios unless they have the appropriate service portfolio admin or manager roles from [[SPM2-landing-page|Service Portfolio Management]].
+**Note:** The DPM Admin role can't CRUD service portfolios unless they have the appropriate service portfolio admin or manager roles from Service Portfolio Management.
 
 -   Use Key performance indicator \(KPI\) functions:
     -   View KPI group tables for KPI groups and KPI group mappings.
@@ -57,7 +57,7 @@ DPM admin \[sn\_dpm.dpm\_admin\]
 </td><td>
 
 -   sn\_dpm.dpm\_manager
--   sn\_ep.enterprise\_portfolio\_admin \(can CRUD [[dpm-enterprise-portfolios|enterprise portfolios]] that are created using the enterprise portfolio tables\).
+-   sn\_ep.enterprise\_portfolio\_admin \(can CRUD enterprise portfolios that are created using the enterprise portfolio tables\).
 
 **Important:** The DPM admin only gets this role if you install the enterprise portfolio plugin. After you install the plugin:
 
@@ -74,16 +74,16 @@ DPM Manager \[sn\_dpm.dpm\_manager\]
 -   Retrieve personal portfolios that they’re viewers of.
 -   Read all available data in the DPM Workspace.
 -   Create demands.
--   Create [[cim-landing-page|Continual Improvement Management]] \(CIM\) items.
+-   Create Continual Improvement Management \(CIM\) items.
 -   Update roadmaps.
 -   View KPIs in the DPM Workspace.
 
 **Note:** The DPM manager can't view or map KPI groups in the ServiceNow AI Platform but users with the service\_editor, service\_admin, or service\_author roles can map KPI groups to their services.
 
 -   Functions that the DPM manager can't do:
-    -   Edit services, offerings, business [[dex-workspace-application-tab|applications]], or service instances.
+    -   Edit services, offerings, business applications, or service instances.
     -   Edit and update relationships to services, offerings, business applications, or service instances.
-    -   Create or edit a service in [[service-builder|Service Builder]].
+    -   Create or edit a service in Service Builder.
 
 **Note:** Service Builder buttons are hidden for the DPM manager role unless the user has the correct role that provides edit access to a particular solution.
 
@@ -128,12 +128,3 @@ To assign the DPM manager role to a group, the admin does the following:
 
 [Activate Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-activate.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[service-builder|Service Builder]]

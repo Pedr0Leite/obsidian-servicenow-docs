@@ -143,7 +143,7 @@ Work notes
 
 </td><td>
 
-Enter work notes about the milestones, impediments, or changes as the program progresses.**Note:** Users with the [[business-stakeholder-role-ppm|business stakeholder role for PPM]] can view this field. For more information, see [Business stakeholder role for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/business-stakeholder-role-ppm.md).
+Enter work notes about the milestones, impediments, or changes as the program progresses.**Note:** Users with the business stakeholder role for PPM can view this field. For more information, see [Business stakeholder role for PPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/business-stakeholder-role-ppm.md).
 
 </td></tr></tbody>
 </table>|Field|Description|
@@ -163,6 +163,3 @@ Enter work notes about the milestones, impediments, or changes as the program pr
 
 [View program status reports]()
 
-## Related
-
-- [[business-stakeholder-role-ppm|Business stakeholder role for PPM]]

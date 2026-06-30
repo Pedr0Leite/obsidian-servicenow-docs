@@ -34,26 +34,19 @@ If you have a fallout agent role, you can change the state of the fallout record
 
 4.  Select the fallout record you want to update.
 
-5.  On the Fallout form, update the required [[fields|fields]].
+5.  On the Fallout form, update the required fields.
 
-    For information about field descriptions, see the Fallout workspace fields section in [[fields-create-fallout-form|Fallout form fields]].
+    For information about field descriptions, see the Fallout workspace fields section in [Fallout form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fields-create-fallout-form.md).
 
 6.  Select **Save**.
 
 
-**Parent Topic:**[[fallout-management-overview|Managing order fallout]]
+**Parent Topic:**[Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[fields-create-fallout-form|Fallout form fields]]
-- [[fallout-management-overview|Managing order fallout]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

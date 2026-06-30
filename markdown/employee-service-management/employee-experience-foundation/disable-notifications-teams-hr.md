@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-You will find HR Case as a duplicate notification after installing the [[hr-service-delivery|HR Service Delivery]] integration with Microsoft Teams application. You must disable one of the notifications by setting it to inactive.
+You will find HR Case as a duplicate notification after installing the HR Service Delivery integration with Microsoft Teams application. You must disable one of the notifications by setting it to inactive.
 
 ## Procedure
 
@@ -41,6 +41,3 @@ You will find HR Case as a duplicate notification after installing the [[hr-serv
 
 **Parent Topic:**[Configure HR Service Delivery integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-ms-teams-config-hr.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

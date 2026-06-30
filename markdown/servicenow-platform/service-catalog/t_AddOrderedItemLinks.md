@@ -30,7 +30,7 @@ Links are rendered with an added parameter providing the sys\_id of the requeste
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Definition** &gt; **Ordered Item Links**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Definition** &gt; **Ordered Item Links**.
 
 2.  Click **New**.
 
@@ -54,7 +54,7 @@ Links are rendered with an added parameter providing the sys\_id of the requeste
 
 9.  Click an item **Name**.
 
-10. In the **Ordered Item Link** field, click the [[reference|reference]] lookup icon.
+10. In the **Ordered Item Link** field, click the reference lookup icon.
 
 11. Click an ordered item link **Name**.
 
@@ -63,7 +63,3 @@ Links are rendered with an added parameter providing the sys\_id of the requeste
 
 **Parent Topic:**[Service Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_IntroductionToCatalogItems.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]

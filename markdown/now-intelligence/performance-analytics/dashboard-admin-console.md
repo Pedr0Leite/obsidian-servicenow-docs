@@ -14,7 +14,7 @@ breadcrumb: [Administering dashboards, Responsive dashboards in the Core UI, Rep
 
 # Admin Console for Dashboards
 
-The [[pa-admin-console|Performance Analytics Admin Console]] contains several features for dashboard management.
+The Performance Analytics Admin Console contains several features for dashboard management.
 
 ## Explore and Manage
 
@@ -30,11 +30,7 @@ The **Advanced Configuration** tile on the Admin Console shows a link to [Dashbo
 
 ## Tree view
 
-The Admin Console tree view enables you to identify and view the relationships between Performance Analytics and [[reporting-landing-page|Reporting]] entities in a hierarchy. With the tree view, you don't have to sift through multiple pages to determine how they relate to one another. For more information, see [\(Legacy\) Dependency Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md).
+The Admin Console tree view enables you to identify and view the relationships between Performance Analytics and Reporting entities in a hierarchy. With the tree view, you don't have to sift through multiple pages to determine how they relate to one another. For more information, see [\(Legacy\) Dependency Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/impact-analysis.md).
 
 For more information on Admin Console functionality, see [Performance Analytics Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-admin-console.md).
 
-## Related
-
-- [[pa-admin-console|Performance Analytics Admin Console]]
-- [[reporting-landing-page|Reporting]]

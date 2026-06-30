@@ -14,7 +14,7 @@ breadcrumb: [List of Discovery probes, Discovery probes and sensors, Using Disco
 
 # Port probes
 
-Port probes are used in [[r-discovery|Discovery]] by the Shazzam probe to detect protocol activity on open ports on devices it encounters.
+Port probes are used in Discovery by the Shazzam probe to detect protocol activity on open ports on devices it encounters.
 
 When a port probe encounters a protocol in use, the Shazzam sensor checks the port probe record to determine which classification probe to launch. The common protocols WMI, SSH, SNMP, and HTTP in the base system have priority numbers that control the order in which they are launched.
 
@@ -154,6 +154,3 @@ When you run Discovery, the Shazzam probe finds your active network devices by s
 
 **Parent Topic:**[List of Discovery probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_ListOfDiscoveryProbes.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

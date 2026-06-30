@@ -14,7 +14,7 @@ breadcrumb: [Test Management 2.0, Test Management applications, Strategic Portfo
 
 # Activate Test Management 2.0
 
-Activate the [[test-management2-landing-page|Test Management 2.0]] plugin \(com.snc.test\_management.2.0\) if you've the admin role.
+Activate the Test Management 2.0 plugin \(com.snc.test\_management.2.0\) if you've the admin role.
 
 ## Before you begin
 
@@ -34,6 +34,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[test-management2-landing-page|Test Management 2.0]]

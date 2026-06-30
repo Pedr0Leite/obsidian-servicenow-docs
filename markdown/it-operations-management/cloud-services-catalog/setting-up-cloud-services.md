@@ -14,7 +14,7 @@ breadcrumb: [Configuring Cloud Services Catalog, Cloud Services Catalog, ITOM Cl
 
 # Cloud Services Catalog setup for the Day 1 configuration task
 
-You're ready to do the Day 1 configuration task of setting up the [[csc-home|Cloud Services Catalog]] application for the first time. You can do the optional Day 2 setup and configure procedures as needed, in any order.
+You're ready to do the Day 1 configuration task of setting up the Cloud Services Catalog application for the first time. You can do the optional Day 2 setup and configure procedures as needed, in any order.
 
 You must do the Cloud Services Catalog setup steps in order. On Day 1, you set up the cloud service for access, security, and billing purposes for Amazon Web Services and Microsoft Azure Cloud.
 
@@ -31,6 +31,3 @@ Integrate Cloud Services Catalog with your Microsoft Azure account as a part of 
 
 **Parent Topic:**[Configuring Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/configuring-csc.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

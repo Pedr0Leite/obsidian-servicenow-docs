@@ -14,7 +14,7 @@ breadcrumb: [Resource Management Workspace, Project Portfolio Management, Strate
 
 # Use resource assignments
 
-The [[rsrc-mgmt-wrkspc|Resource Management Workspace]] is presented as a new approach to assigning resources to outcomes. Resource Management Workspace integrates with [[project-workspace-landing-page|Project Workspace]], [[alignment-planner-workspace-landing-page|Strategic Planning]], and [[portfolio-planning-app-landing-page|Portfolio Planning]] enabling the portfolio stakeholders to [[create-rsrc-asgnmnts-ppm|create resource assignments]] for their work.
+The Resource Management Workspace is presented as a new approach to assigning resources to outcomes. Resource Management Workspace integrates with Project Workspace, Strategic Planning, and Portfolio Planning enabling the portfolio stakeholders to create resource assignments for their work.
 
 ## Advantages and benefits of Resource Management Workspace
 
@@ -22,7 +22,7 @@ The [[rsrc-mgmt-wrkspc|Resource Management Workspace]] is presented as a new app
 -   Planning attributes: acts as a common currency between capacity planning, resource assignments, and financials.
 -   Diversified handling: manage the inevitable changes to support your organization and priority changes during your planning cycle.
 -   Granular allocation: split or move an assignment to effectively handle the granular changes for your work.
--   Allocation spread: toggle between the monthly or weekly view of [[r_AllocatingResources|resource allocation]] which caters to various planning and reporting needs.
+-   Allocation spread: toggle between the monthly or weekly view of resource allocation which caters to various planning and reporting needs.
 -   Grouping of assignments: group the resource board view using primary attributes such as group, role, or skill to reassign any existing work to a different user.
 -   Enhanced insights: get a deeper, informative, and more insightful details into the allocation details using the heatmap view.
 -   Better integration: prevent errors and ensure better practices by locking down resource assignments with recorded actuals, preventing modifications or deletions to maintain historical work data.
@@ -36,11 +36,3 @@ Optimize project execution by assigning resources to tasks within the Project Wo
 
 **Parent Topic:**[Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-wrkspc.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[r_AllocatingResources|Resource allocation]]

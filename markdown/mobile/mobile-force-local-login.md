@@ -33,8 +33,5 @@ Role required: admin
 
 The selected mobile app routes your users to the local login authentication page. The app will default to the authentication method defined on your instance if this field is disabled.​
 
-**Parent Topic:**[[mobile-authentication|Mobile authentication]]
+**Parent Topic:**[Mobile authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-authentication.md)
 
-## Related
-
-- [[mobile-authentication|Mobile authentication]]

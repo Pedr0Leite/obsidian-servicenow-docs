@@ -14,7 +14,7 @@ breadcrumb: [Post-upgrade tasks, Install Supplier Case Management, Configure, Su
 
 # Run fix script to migrate existing data from the deprecated Action type column after upgrade
 
-In the May Store 2024 release, the **Action type** column in the [[supplier|Supplier]] Task \(sn\_slm\_task\) table has been deprecated.
+In the May Store 2024 release, the **Action type** column in the Supplier Task \(sn\_slm\_task\) table has been deprecated.
 
 ## Before you begin
 
@@ -70,6 +70,3 @@ In the May Store 2024 release, the Supplier Task \(sn\_slm\_task\) table uses th
 
 [Restructured Supplier Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supplier-task-table-restructure.md)
 
-## Related
-
-- [[supplier|Supplier]]

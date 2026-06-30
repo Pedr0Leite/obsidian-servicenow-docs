@@ -14,7 +14,7 @@ breadcrumb: [Dispute manager workspace, Processing, Use, Dispute Management, Ban
 
 # Implement 4-eyes policy for approval tasks
 
-The 4-eyes policy, implemented in the case dispute flow, can enhance your [[dispute-management|dispute management]] process. This policy ensures that two authorized individuals handle the critical tasks and establish an efficient risk control mechanism.
+The 4-eyes policy, implemented in the case dispute flow, can enhance your dispute management process. This policy ensures that two authorized individuals handle the critical tasks and establish an efficient risk control mechanism.
 
 The banking industry uses the 4-eyes principle, also known as the maker-checker concept, to mitigate risks. This principle involves one person executing a task or making a decision, while another person actively reviews and approves it.
 
@@ -25,6 +25,3 @@ In a card dispute resolution process, this principle is implemented at the follo
 
 **Parent Topic:**[Dispute manager workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/workspace-for-dispute-manager.md)
 
-## Related
-
-- [[dispute-management|Dispute Management]]

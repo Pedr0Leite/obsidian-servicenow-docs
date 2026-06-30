@@ -24,7 +24,7 @@ Role required: LEAP admin
 
 If you are a first-time user of LEAP, use the default values to understand how each value is used for estimation. You can modify these values to suit your organization's requirements.
 
-Settings also include a default priority filter that controls which [[automation-opportunities|automation opportunities]] are eligible for resolution step generation. The default priority is Critical. Only automation opportunities at or higher than the configured priority level are processed in each run.
+Settings also include a default priority filter that controls which automation opportunities are eligible for resolution step generation. The default priority is Critical. Only automation opportunities at or higher than the configured priority level are processed in each run.
 
 ## Procedure
 
@@ -47,6 +47,4 @@ Settings also include a default priority filter that controls which [[automation
 3.  You are redirected to the LEAP landing page. For details on each field, see [LEAP settings fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/aiops-leap-settings-fields.md)
 4.  [Activate LEAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/activate-aiops-leap.md).
 
-## Related
 
-- [[automation-opportunities|Automation opportunities]]

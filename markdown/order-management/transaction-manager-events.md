@@ -14,7 +14,7 @@ breadcrumb: [Transaction Manager, CPQ app, Configure, price, quote apps, Configu
 
 Events such as transaction creation, modification, and deletion can be set to trigger rule groups or integrations and to move a transaction from one stage to another.
 
-Events are a way to trigger stage [[rules_101|rules]] and integrations or rule groups. These events are usually activated by buttons or API on a layout helping a user to transition from one stage to another.
+Events are a way to trigger stage rules and integrations or rule groups. These events are usually activated by buttons or API on a layout helping a user to transition from one stage to another.
 
 ## System events
 
@@ -22,14 +22,14 @@ System events are frequently used behaviors available for customers out of the b
 
 Transaction \(header\)
 
-When [[transaction-manager|Transaction Manager]] is embedded in a CRM, the user is presented with a button in the CRM UI corresponding to these Transaction events. When the user clicks one of these buttons, the CRM calls corresponding CPQ API:
+When Transaction Manager is embedded in a CRM, the user is presented with a button in the CRM UI corresponding to these Transaction events. When the user clicks one of these buttons, the CRM calls corresponding CPQ API:
 
 -   Create Transaction: Event triggered to create a new transaction.
 -   Edit Transaction: Allows editing an existing transaction, enabling stage-based rule and integration actions.
 -   Copy Transaction: Event to clone a transaction and its line items.
 -   Upsert Lines: This event manages the creation/update of transaction lines after the user browses catalog \(UI Effect "productSearch"\) to add new lines or reconfigures an existing line. Upsert Lines is automatically run after the user finishes selecting products from the catalog, configuring products, or reconfiguring \(UI Effect “reconfigure”\). Although this event works on lines with the transaction, it works at the transaction level, on all lines in the transaction.
 
-    For more information about UI Effects, see [[transaction-manager-layouts-ui-effects|Transaction Manager: Layouts - UI effects]].
+    For more information about UI Effects, see [Transaction Manager: Layouts - UI effects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-layouts-ui-effects.md).
 
 -   Delete Transaction: Event triggered to delete an existing transaction.
 
@@ -86,20 +86,12 @@ The **Validate configured items** setting on custom header events validates prod
 
 The setting includes a validity period that excludes products validated within a time frame. For example, if the validity period is set to 15 days and a product was validated 7 days ago, the product does not have its configuration validated. If a product was validated 20 days ago, the product has its configuration validated.
 
-Two line-level system [[fields|fields]] support this function: **txn.line.configuration.status** \(Boolean\) and txn.line.configuration.validatedAt \(date\).
+Two line-level system fields support this function: **txn.line.configuration.status** \(Boolean\) and txn.line.configuration.validatedAt \(date\).
 
 **Related topics**  
 
 
-[[transaction-manager-rules-and-rule-groupings|Transaction Manager: Rules and rule groupings]]
+[Transaction Manager: Rules and rule groupings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-rules-and-rule-groupings.md)
 
-[[transaction-manager-stages|Transaction Manager: Stages]]
+[Transaction Manager: Stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-stages.md)
 
-## Related
-
-- [[transaction-manager-layouts-ui-effects|transaction manager layouts ui effects]]
-- [[transaction-manager-rules-and-rule-groupings|transaction manager rules and rule groupings]]
-- [[transaction-manager-stages|transaction manager stages]]
-- [[rules_101|Rules]]
-- [[transaction-manager|Transaction Manager]]
-- [[fields|Fields]]

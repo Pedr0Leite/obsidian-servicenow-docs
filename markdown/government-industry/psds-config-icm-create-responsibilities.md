@@ -36,7 +36,7 @@ You can use the responsibility definitions provided with the Investigative Case 
 |Special Agent in Charge| |
 |Supervisory Agent| |
 
-For information on the responsibilities provided with ICM, see [[psds-config-icm-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Investigative Case Management]].
+For information on the responsibilities provided with ICM, see [Assign user personas, roles, groups, and responsibilities in Investigative Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-assign-user-roles-responsibilities.md).
 
 As an admin, you can also modify these role responsibility definitions or create your own to meet your organization requirements and match common team member responsibilities within your investigations.
 
@@ -60,9 +60,6 @@ As an admin, you can also modify these role responsibility definitions or create
 
 4.  Select **Submit**.
 
-    The new responsibility definition is created, and can be used to create teams at the case level within the investigative case record. To assign a responsibility to a team member within a case, see [[psds-config-icm-create-case-team|Create a case team for an investigative case]].
+    The new responsibility definition is created, and can be used to create teams at the case level within the investigative case record. To assign a responsibility to a team member within a case, see [Create a case team for an investigative case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-create-case-team.md).
 
-## Related
 
-- [[psds-config-icm-assign-user-roles-responsibilities|Assign user personas, roles, groups, and responsibilities in Investigative Case Management]]
-- [[psds-config-icm-create-case-team|Create a case team for an investigative case]]

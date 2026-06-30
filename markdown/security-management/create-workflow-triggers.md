@@ -16,7 +16,7 @@ Create a workflow trigger that contains a condition on a table.
 
 ## Before you begin
 
-[[security-operations-landing-page|Security Operations]] contains several workflow triggers in the base system:
+Security Operations contains several workflow triggers in the base system:
 
 -   **Configuration item changes on an active Security Incident**
 
@@ -99,7 +99,7 @@ Use filter group
 
 </td><td>
 
-Select this check box to use a predefined filter group or [[create-filter-group|create a new filter group]] to define the workflow trigger criteria.
+Select this check box to use a predefined filter group or [create a new filter group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-filter-group.md) to define the workflow trigger criteria.
 
 </td></tr><tr><td>
 
@@ -129,10 +129,5 @@ Select the filter group to use for defining workflow triggers. This field appear
 6.  Select **Update**.
 
 
-**Parent Topic:**[[workflow-triggers|Security Operations workflow triggers]]
+**Parent Topic:**[Security Operations workflow triggers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/workflow-triggers.md)
 
-## Related
-
-- [[create-filter-group|Create and define filter groups in Security Operations]]
-- [[workflow-triggers|Security Operations workflow triggers]]
-- [[security-operations-landing-page|Security Operations]]

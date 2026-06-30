@@ -26,7 +26,7 @@ Only plugins that are able to be executed are validated. For example, if you’r
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Agents**.
 
 2.  Select an agent on the **Agent Client Collectors** page.
 
@@ -47,6 +47,3 @@ Only plugins that are able to be executed are validated. For example, if you’r
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

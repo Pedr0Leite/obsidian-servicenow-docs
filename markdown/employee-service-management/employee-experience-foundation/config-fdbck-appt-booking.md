@@ -14,7 +14,7 @@ breadcrumb: [Appointment Booking, Configuring Employee Center Pro, Employee Cent
 
 # Configure feedback for appointment booking
 
-Create a feedback definition for [[appointment-booking|appointment booking]] so employees can provide feedback for completed appointments.
+Create a feedback definition for appointment booking so employees can provide feedback for completed appointments.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## About this task
 
-The appointment booking experience already contains two feedback definitions for [[employee-center-pro-landing|Employee Center Pro]] and [[deskless-kiosk-overview|Employee Center Pro Kiosk]].
+The appointment booking experience already contains two feedback definitions for Employee Center Pro and Employee Center Pro Kiosk.
 
 You can modify the feedback definitions provided with the plugin, or create your own. For more information about the feedback feature, see [Integrated experience and service feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdback-ovrvw.md).
 
@@ -32,11 +32,11 @@ If you create a custom feedback definition for appointment booking, ensure that 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Experience and Service Feedback** &gt; **Feedback Definitions**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Experience and Service Feedback** &gt; **Feedback Definitions**.
 
 2.  On the Feedback Definitions list, select **New**.
 
-3.  On the [[fdbck-dfnition-record|Feedback definition form]], enter the following field values.
+3.  On the Feedback definition form, enter the following field values.
 
 <table><thead><tr><th>
 
@@ -112,10 +112,4 @@ Portals
 
 10. Save the record.
 
-## Related
 
-- [[appointment-booking|Appointment Booking]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]
-- [[fdbck-dfnition-record|Feedback definition form]]

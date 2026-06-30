@@ -48,7 +48,7 @@ FDS provides two ways to collaborate by sharing date in either direction:
 
     The provider controls which tables, fields, and records are shared. Consumers configure how the incoming data maps to their instance tables.
 
-    **Note:** Consumer-bound FDS \(Provider shares data\) is supported from [[tmt-service-bridge-both-landing-page|Service Exchange]] version 2.2.x.
+    **Note:** Consumer-bound FDS \(Provider shares data\) is supported from Service Exchange version 2.2.x.
 
 -   **Provider-bound FDS \(Consumer shares data\)**
 
@@ -72,18 +72,11 @@ ABC company also needs visibility into XYZ to understand the consumption pattern
 **Related topics**  
 
 
-[[service-bridge-v2-using-foundation-data-sync|Configure outbound foundation data sync as providers]]
+[Configure outbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync.md)
 
-[[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
+[Configuring inbound foundation data sync as providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-configure-inboun-fds-providers.md)
 
-[[service-bridge-v2-using-foundation-data-sync-for-consumer|Configure inbound foundation data sync as a consumer]]
+[Configure inbound foundation data sync as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-using-foundation-data-sync-for-consumer.md)
 
-[[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
+[Configure outbound foundation data sync as consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/using-provider-bound-fds-consumer.md)
 
-## Related
-
-- [[service-bridge-v2-using-foundation-data-sync|Configure outbound foundation data sync as providers]]
-- [[service-bridge-v2-configure-inboun-fds-providers|Configuring inbound foundation data sync as providers]]
-- [[service-bridge-v2-using-foundation-data-sync-for-consumer|Configure inbound foundation data sync as a consumer]]
-- [[using-provider-bound-fds-consumer|Configure outbound foundation data sync as consumers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

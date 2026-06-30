@@ -14,7 +14,7 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # Microsoft Just Enough Administration \(JEA\) for Discovery
 
-Using Microsoft JEA with [[r-discovery|Discovery]] improves security by forcing the MID Server to run remote Windows commands through a constrained endpoint, which validates commands on the target before execution.
+Using Microsoft JEA with Discovery improves security by forcing the MID Server to run remote Windows commands through a constrained endpoint, which validates commands on the target before execution.
 
 Microsoft JEA enables role-based administration through PowerShell Remoting, which uses Windows Remote Management \(WinRM\) to manage communication and authentication. This framework provides a secure and reliable method for managing computers that use the HTTP protocol. PowerShell Remoting uses two total ports \(5985, 5986\) for HTTP and HTTPS, which is easier to secure than the multiple ports used in WMI dynamic port mapping. For more information about Microsoft JEA, see [Just Enough Administration](https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/jea/overview).
 
@@ -122,7 +122,7 @@ Role required: discovery\_admin or admin
 
     1.  **mid.windows.management\_protocol:** This parameter is required for Discovery with JEA.
 
-        Its default value is WMI, but it must be set to WinRM on MID Servers [[using-discovery|using Discovery]] with JEA.
+        Its default value is WMI, but it must be set to WinRM on MID Servers using Discovery with JEA.
 
     2.  **mid.powershell.jea.endpoint**: This parameter is required for Discovery with JEA.
 
@@ -138,10 +138,6 @@ Role required: discovery\_admin or admin
 
     2.  **glide.discovery.log\_debug\_info**: This is an optional system property to collect debug information.
 
-        When this property is set to true, the discovery sensor extracts the debug info from ECC input message and writes it to the discovery log table, so the debug information is visible when inspecting [[c_DiscoveryStatus|discovery status]].
+        When this property is set to true, the discovery sensor extracts the debug info from ECC input message and writes it to the discovery log table, so the debug information is visible when inspecting discovery status.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

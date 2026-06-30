@@ -30,7 +30,7 @@ The following attributes in the Hardware \[cmdb\_ci\_hardware\] table are popula
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data.
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data.
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -93,6 +93,3 @@ The following attributes in the SGC Rapid7 Asset \[sn\_sec\_sgc\_rapid7\_sgc\_ra
 |------------|-----------------|-----------|
 |SGC Rapid7 Asset \[sn\_sec\_sgc\_rapid7\_sgc\_rapid7\_asset\]|Reference|Hardware \[cmdb\_ci\_hardware\]|
 
-## Related
-
-- [[ip-address|IP Address]]

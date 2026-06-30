@@ -15,7 +15,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Edge Delta REST integration configuration fields
 
-Description of the fields on the Edge Delta REST integration configuration form for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Edge Delta REST integration configuration form for Health Log Analytics.
 
 For the Edge Delta REST integration setup procedure, see [Set up an Edge Delta REST integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-edgedelta-rest.md).
 
@@ -37,7 +37,7 @@ Unique name of this integration. For example: My Edge Delta REST integration. Th
 
 </td></tr><tr><td>
 
-[[mid-web-server|MID web server]]
+MID web server
 
 </td><td>
 
@@ -86,7 +86,3 @@ Option to add a brief description of the integration to help identify it.
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[mid-web-server|MID Web Server]]

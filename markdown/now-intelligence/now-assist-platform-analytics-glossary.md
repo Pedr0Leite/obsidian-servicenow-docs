@@ -13,7 +13,7 @@ breadcrumb: [Now Assist in Platform Analytics, Platform Analytics]
 
 # Now Assist in Platform Analytics terms
 
-[[now-assist-platform-analytics|Now Assist in Platform Analytics]] uses terms that describe AI-assisted data exploration, [[query-generation|query generation]], and the semantic layer that connects natural language questions to instance data.
+Now Assist in Platform Analytics uses terms that describe AI-assisted data exploration, query generation, and the semantic layer that connects natural language questions to instance data.
 
 ## Analytics Assist
 
@@ -21,7 +21,7 @@ A set of Now Assist skills in the Now Assist panel that let users generate data 
 
 ## automated segment
 
-A segment generated automatically by the system from existing data sources such as reports, dashboards, saved filters, app modules, and [[c_IndicatorSources|indicator sources]]. Automated segments are created and maintained by the Query Generation Sync Segments scheduled job.
+A segment generated automatically by the system from existing data sources such as reports, dashboards, saved filters, app modules, and indicator sources. Automated segments are created and maintained by the Query Generation Sync Segments scheduled job.
 
 ## dimension
 
@@ -57,7 +57,7 @@ A user with read-only access to a shared exploration. Viewers can read the explo
 
 ## extended analysis
 
-A deeper level of AI analysis in Now Assist Explorer that aggregates records related to a response to reveal additional insights. [[hidden-insights|Extended analysis]] examines Choice, Reference, and Boolean columns and drills down automatically to avoid repeating the same findings.
+A deeper level of AI analysis in Now Assist Explorer that aggregates records related to a response to reveal additional insights. Extended analysis examines Choice, Reference, and Boolean columns and drills down automatically to avoid repeating the same findings.
 
 ## facts table
 
@@ -73,7 +73,7 @@ A segment created by an administrator to map user-friendly business terminology 
 
 ## Now Assist Explorer
 
-An AI-powered application in [[c_performanceAnalyticsAndReporting|Platform Analytics]] that lets users ask natural language questions about data, receive data visualizations and summaries, and collaborate with others in shared explorations.
+An AI-powered application in Platform Analytics that lets users ask natural language questions about data, receive data visualizations and summaries, and collaborate with others in shared explorations.
 
 ## Query Generation
 
@@ -103,10 +103,3 @@ Instructions associated with an entity or dimension that are injected directly i
 
 A natural language question or input submitted by a user to an AI system. Query Generation processes utterances to identify the correct entities, dimensions, and segments needed to construct an executable query.
 
-## Related
-
-- [[now-assist-platform-analytics|Now Assist in Platform Analytics]]
-- [[query-generation|Query Generation]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[hidden-insights|Extended analysis]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

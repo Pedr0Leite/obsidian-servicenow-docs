@@ -14,11 +14,11 @@ breadcrumb: [Reference, CMDB Identification and Reconciliation \(IRE\), Configur
 
 # Domain separation and CMDB Identification and Reconciliation
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported in the CMDB Identification and Reconciliation feature. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in the CMDB Identification and Reconciliation feature. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Overview of domain separation in IRE
 
-Domain separation is enforced during the [CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md) \(IRE\) process. IRE processes are domain aware and domain separation is applied to the Identification and [[r_ReconciliationRulesPrinciples|Reconciliation rules]].
+Domain separation is enforced during the [CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md) \(IRE\) process. IRE processes are domain aware and domain separation is applied to the Identification and Reconciliation rules.
 
 For more information about domain separation, see [domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md).
 
@@ -74,7 +74,7 @@ Domain separation during the Identification process is enforced as follows:
 
 ## Domain separation and Identification Rules
 
-The [[c_IdentificationRules|identification rules]] and identification inclusion rules used during the identification process are always defined at the global level. For example, the following tables don't have a sys\_domain field:
+The identification rules and identification inclusion rules used during the identification process are always defined at the global level. For example, the following tables don't have a sys\_domain field:
 
 -   Identifier \(cmdb\_identifier\)
 -   Identifier Entries \(cmdb\_identifier\_entry\)
@@ -89,8 +89,3 @@ The reconciliation definition rules that are used during the reconciliation proc
 -   Datasource Precedence \(cmdb\_datasource\_precedence\)
 -   Data Source Staleness Definitions \(cmdb\_datasource\_staleness\)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[c_IdentificationRules|Identification rules]]

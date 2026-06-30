@@ -14,7 +14,7 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Modify the employee profile widget display
 
-The [[emp-slate-employee-profile|employee profile]] widget displays the tabs and work-related information hierarchy. You can configure the instance options to control the number of tabs to display.
+The employee profile widget displays the tabs and work-related information hierarchy. You can configure the instance options to control the number of tabs to display.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin \(or\) admin \(or\) sn\_employee.admin
 
 ## Procedure
 
-1.  Navigate to **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -67,7 +67,3 @@ Select to display the left navigation menu \(widget overview panel\).
 
 [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management]
 
 # Digital Product Release
 
-ServiceNow® Digital Product Release \(DPR\) is a [[c_ITILReleaseManagement|release management]] solution that helps release managers, product managers, and program managers manage the release process.
+ServiceNow® Digital Product Release \(DPR\) is a release management solution that helps release managers, product managers, and program managers manage the release process.
 
 ## Get started
 
@@ -32,7 +32,7 @@ ServiceNow® Digital Product Release \(DPR\) is a [[c_ITILReleaseManagement|rele
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store [[dex-workspace-application-tab|applications]] that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -41,8 +41,3 @@ ServiceNow® Digital Product Release \(DPR\) is a [[c_ITILReleaseManagement|rele
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[reference-for-itsm-mobile-agent|Reference]]

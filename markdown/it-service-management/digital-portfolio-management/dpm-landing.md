@@ -14,7 +14,7 @@ breadcrumb: [IT Service Management]
 
 # Digital Portfolio Management
 
-Manage and maintain all your solutions \(services, service offerings, business [[dex-workspace-application-tab|applications]], and service instances\) from a single location using the ServiceNow® Digital Portfolio Management \(DPM\) Workspace. DPM pulls in data from across the ServiceNow platform so you see impacts in the context of solutions that you own or care about.
+Manage and maintain all your solutions \(services, service offerings, business applications, and service instances\) from a single location using the ServiceNow® Digital Portfolio Management \(DPM\) Workspace. DPM pulls in data from across the ServiceNow platform so you see impacts in the context of solutions that you own or care about.
 
 \[Omitted video\] Description: DPM Overview.
 
@@ -36,7 +36,7 @@ This video provides an overview to manage your service-related data in the DPM W
 
 </td><td>
 
-[Work with portfolios\[Omitted image "bus-asset.svg"\] Alt text:Work with personal and [[dpm-enterprise-portfolios|enterprise portfolios]] in the DPM Workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-explore-portfolios.md)
+[Work with portfolios\[Omitted image "bus-asset.svg"\] Alt text:Work with personal and enterprise portfolios in the DPM Workspace.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-explore-portfolios.md)
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ This video provides an overview to manage your service-related data in the DPM W
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about the DPM Workspace administration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-[[reference-for-itsm-mobile-agent|reference]]-cfw.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about the DPM Workspace administration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -53,8 +53,3 @@ This video provides an overview to manage your service-related data in the DPM W
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[reference-for-itsm-mobile-agent|Reference]]

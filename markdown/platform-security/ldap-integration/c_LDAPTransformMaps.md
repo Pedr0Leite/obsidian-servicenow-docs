@@ -81,7 +81,7 @@ false
 
 </td><td>
 
-The **u\_source** field identifies the LDAP DN of the imported user or group. The system uses this field to determine that a user requires LDAP [[c_Authentication|authentication]], to find a user's manager, and to put [[users|users]] into groups.
+The **u\_source** field identifies the LDAP DN of the imported user or group. The system uses this field to determine that a user requires LDAP authentication, to find a user's manager, and to put users into groups.
 
 </td></tr><tr><td>
 
@@ -188,7 +188,3 @@ ldapUtils. processManagers ( ) ;
 
 Remove or comment out the `setManager` and `processManagers` function calls if your LDAP integration does not use the manager attribute.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]

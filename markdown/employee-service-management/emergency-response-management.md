@@ -16,28 +16,28 @@ ServiceNow® Emergency Response Management applications help your organization m
 
 Emergency Response Management applications include:
 
--   **[[emergency-outreach|Emergency Outreach]]**
+-   **Emergency Outreach**
 
-    Stay connected with users via email or mobile push notifications. Share important information regarding emergency and safety measures, and ask users to report their status and location. With the installation of [[employee-readiness-surveys|Employee Readiness Surveys]], you will use Emergency Outreach to send a survey link to help you evaluate whether users are ready to return to the workplace.
+    Stay connected with users via email or mobile push notifications. Share important information regarding emergency and safety measures, and ask users to report their status and location. With the installation of Employee Readiness Surveys, you will use Emergency Outreach to send a survey link to help you evaluate whether users are ready to return to the workplace.
 
--   **[[emergency-self-report|Emergency Self Report]]**
+-   **Emergency Self Report**
 
     Enable your users to report their health status. If users report they are going into quarantine, a workflow helps them safely return to work when ready. Functions such as HR can also be alerted.
 
--   **[[emergency-exposure-management|Emergency Exposure Management]]**
+-   **Emergency Exposure Management**
 
     Identify users who might have been exposed to an infectious disease by analyzing an affected user's meetings, locations, shifts and reservations, and badge scans.
 
 -   **Emergency Response Management for Now Mobile**
 
-    Enable your users who use the [[mobile-employee-experience|Now Mobile app]] to respond to Emergency Outreach push messages and also self-report their health status.
+    Enable your users who use the Now Mobile app to respond to Emergency Outreach push messages and also self-report their health status.
 
 
 Use the Emergency Response Management applications together to automate workflows for sharing information with users, assessing the impact on your team, and responding to the emergency event.
 
 
 
--   **Use guided setup to implement [[safe-workplace|Safe Workplace]] suite apps**
+-   **Use guided setup to implement Safe Workplace suite apps**
 
     The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and Emergency Response Management applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
@@ -112,17 +112,7 @@ During a crisis, the ServiceNow® Emergency Self Report application gives users 
 -   **[Emergency Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-exposure-management/emergency-exposure-management.md)**  
 The ServiceNow® Emergency Exposure Management application helps identify users who might have been exposed to infectious diseases by analyzing multiple data sources such as meetings, location, shifts, Wi-Fi access logs, and badge scans of affected users.
 -   **[Safe Workplace for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace-for-mobile/mobile-emergency-response.md)**  
-Manage the essential steps for return to workplace from anywhere using the [[mobile-emergency-response|Safe Workplace for mobile]] app.
+Manage the essential steps for return to workplace from anywhere using the Safe Workplace for mobile app.
 
-**Parent Topic:**[[employee-service-management-overview|Employee Service Management]]
+**Parent Topic:**[Employee Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-service-management-overview.md)
 
-## Related
-
-- [[employee-service-management-overview|Employee Service Management]]
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[emergency-self-report|Emergency Self Report]]
-- [[emergency-exposure-management|Emergency Exposure Management]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[safe-workplace|Safe Workplace]]
-- [[mobile-emergency-response|Safe Workplace for mobile]]

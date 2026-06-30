@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Declarative Actions** &gt; **Field Decorators**.
 
-2.  [[configure-onboarding-modals|Configure]] the action to add yourself to a watch list.
+2.  Configure the action to add yourself to a watch list.
 
     1.  From the Action Assignments list, select **Add current user**.
 
@@ -66,6 +66,4 @@ Role required: admin
 
     4.  Select **Save**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]

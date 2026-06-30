@@ -16,7 +16,7 @@ Call monitoring is a feature in the Contact Center as a Service \(CCaaS\) soluti
 
 Contact centers integrating with ServiceNow’s native voice call capability via Interaction Controls Component \(ICC\) and OpenFrame have the option to enable the call monitoring feature, embedded in their CSM Configurable Workspace.
 
-See [[csm-workspaces-configure|.]]
+See [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md)
 
 ## Key benefits of call monitoring
 
@@ -40,6 +40,3 @@ Some of the key advantages of enabling this feature are as follows:
     -   Coach, where the supervisor privately coaches using a one-way whisper feature enabling the supervisor to provide guidance that only the Agent can hear.
     -   Barge in, where the supervisor joins the call as a participant and can speak with both the agent and customer.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

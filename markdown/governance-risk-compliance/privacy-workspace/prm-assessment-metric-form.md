@@ -14,7 +14,7 @@ breadcrumb: [Create a privacy case assessment template, Configure, Privacy Case 
 
 # Assessment metric type form
 
-Use the [[new-assessment-reference|Assessment Metric Type form]] to create an assessment questionnaire template instead of using the default template.
+Use the Assessment Metric Type form to create an assessment questionnaire template instead of using the default template.
 
 ## Assessment metric type form
 
@@ -32,6 +32,3 @@ For a description of the fields, see the following table:
 
 **Parent Topic:**[Create a privacy case assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-create-assessment-template.md)
 
-## Related
-
-- [[new-assessment-reference|Assessment Metric Type form]]

@@ -35,24 +35,16 @@ Asset Management and the Configuration Management Database \(CMDB\) are related,
 -   **[ITSM Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/itsm-sam.md)**  
 The software asset management features of the ITSM suite can be activated using one of the plugins in the feature table.
 -   **[Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractManagement.md)**  
-Manage and track [[c_Contracts|contracts]] with the ServiceNow® [[c_ContractManagement|Contract Management]] application.
+Manage and track contracts with the ServiceNow® Contract Management application.
 -   **[Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_Procurement.md)**  
-[[c_Procurement|Procurement]] managers can use the ServiceNow® Procurement application to create purchase orders and to obtain items for fulfilling service catalog requests.
+Procurement managers can use the ServiceNow® Procurement application to create purchase orders and to obtain items for fulfilling service catalog requests.
 -   **[Product Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_ProductCatalog.md)**  
-The [[c_ProductCatalog|product catalog]] is a set of information about individual [[c_Models|models]]. Models are specific versions or various configurations of an asset. Asset managers use the product catalog as a centralized repository for model information.
+The product catalog is a set of information about individual models. Models are specific versions or various configurations of an asset. Asset managers use the product catalog as a centralized repository for model information.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
 **Related topics**  
 
 
 [Domain separation and Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/domain-separation-asset-management.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[c_Procurement|Procurement]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

@@ -20,7 +20,7 @@ Information that is displayed on the Zabbix **Overview** tab of the Service Deta
 
 The KPIs section displays basic performance metrics for the service.
 
-**Note:** If the [[otto-aiops-dashboards|dashboards]] have been customized, they might not reflect the information shown on this page.
+**Note:** If the dashboards have been customized, they might not reflect the information shown on this page.
 
 |Chart name|Description|Data source|
 |----------|-----------|-----------|
@@ -55,7 +55,7 @@ SLO Error Budget
 
 </td><td>
 
-Information about your current error budget for this service, as configured in [[sr-landing-page|Service Reliability Management]] \(SRM\).For more information on error budgets, see [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md).
+Information about your current error budget for this service, as configured in Service Reliability Management \(SRM\).For more information on error budgets, see [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md).
 
 </td><td>
 
@@ -124,7 +124,3 @@ CMDB
 </td></tr></tbody>
 </table>**Parent Topic:**[Zabbix templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/zabbix-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[sr-landing-page|Service Reliability Management]]

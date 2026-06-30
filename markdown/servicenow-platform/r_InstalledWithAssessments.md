@@ -25,7 +25,7 @@ Table
 
 </th><th>
 
-Description: [[r_Assessments|Assessments]]
+Description: Assessments
 
 </th><th>
 
@@ -37,7 +37,7 @@ Assessable Record \[asmt\_assessable\_record\]
 
 </td><td>
 
-Stores all [[c_assessable-records|assessable records]].
+Stores all [assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_assessable-records.md).
 
 </td><td>
 
@@ -49,7 +49,7 @@ Assessment Category Result \[asmt\_category\_result\]
 
 </td><td>
 
-Stores all [[c_SchedulePeriods|category results]].
+Stores all [category results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SchedulePeriods.md).
 
 </td><td>
 
@@ -61,11 +61,11 @@ Assessment Category User \[asmt\_m2m\_category\_user\]
 
 </td><td>
 
-Stores associations between users and metric categories that they can evaluate. A user that is associated to a category is a [[r_CategoryUsersAndStakeholders|category user]].
+Stores associations between users and metric categories that they can evaluate. A user that is associated to a category is a [category user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryUsersAndStakeholders.md).
 
 </td><td>
 
-Stores associations between users and surveys. A user that is associated to a survey is a [[c_SurveyUsersAndGroups|survey user]] and is automatically associated to all the survey's categories.
+Stores associations between users and surveys. A user that is associated to a survey is a [survey user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md) and is automatically associated to all the survey's categories.
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Assessment Group \[asmt\_assessment\]
 
 </td><td>
 
-Stores all [[r_CategoryResults|assessment groups]].
+Stores all [assessment groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CategoryResults.md).
 
 </td><td>
 
@@ -85,11 +85,11 @@ Assessment Instance \[asmt\_assessment\_instance\]
 
 </td><td>
 
-Stores all [[c_AssessmentInstances|assessment instances]].
+Stores all [assessment instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentInstances.md).
 
 </td><td>
 
-Stores all [[t_ViewSurveyInstance|survey instances]].
+Stores all [survey instances](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewSurveyInstance.md).
 
 </td></tr><tr><td>
 
@@ -109,11 +109,11 @@ Assessment Metric \[asmt\_metric\]
 
 </td><td>
 
-Stores all [[c_AssessmentMetrics|metrics]].
+Stores all [metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentMetrics.md).
 
 </td><td>
 
-Stores all [[c_SurveyQuestion|survey questions]].
+Stores all survey questions.
 
 </td></tr><tr><td>
 
@@ -121,11 +121,11 @@ Assessment Metric Definition \[asmt\_metric\_definition\]
 
 </td><td>
 
-Stores all [[t_CreateAMetricDefinition|metric definitions]].
+Stores all [metric definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAMetricDefinition.md).
 
 </td><td>
 
-Stores all [[t_CreateOrModifyAnswerOptions|answer options]] for survey questions.
+Stores all [answer options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateOrModifyAnswerOptions.md) for survey questions.
 
 </td></tr><tr><td>
 
@@ -133,7 +133,7 @@ Assessment Metric Template \[asmt\_template\]
 
 </td><td>
 
-Stores all [[r_MetricTemplates|metric templates]].
+Stores all [metric templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_MetricTemplates.md).
 
 </td><td>
 
@@ -149,7 +149,7 @@ Stores all [metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNo
 
 </td><td>
 
-Stores all [[c_SurveyDefinitions|survey definitions]].
+Stores all [survey definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDefinitions.md).
 
 </td></tr><tr><td>
 
@@ -157,7 +157,7 @@ Assessment Stakeholders \[asmt\_m2m\_stakeholder\]
 
 </td><td>
 
-Stores associations between assessable records and category users. A category user that is associated to an assessable record is a [[c_MetricTypesAndAssessableRecords|stakeholder]].
+Stores associations between assessable records and category users. A category user that is associated to an assessable record is a [stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MetricTypesAndAssessableRecords.md).
 
 </td><td>
 
@@ -181,7 +181,7 @@ Assessment X Category Matrix \[asmt\_m2m\_xcategory\_matrix\]
 
 </td><td>
 
-Users can specify metric categories as the X axis of a [[r_AdministerDecisionMatrixes|decision matrix]].
+Users can specify metric categories as the X axis of a [decision matrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AdministerDecisionMatrixes.md).
 
 </td><td>
 
@@ -205,7 +205,7 @@ Bubble Chart \[asmt\_bubble\_chart\]
 
 </td><td>
 
-Stores all [[r_BubbleChartComponents|bubble chart]] definitions.
+Stores all [bubble chart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_BubbleChartComponents.md) definitions.
 
 </td><td>
 
@@ -245,7 +245,7 @@ Stores all [metric categories](https://raw.githubusercontent.com/ServiceNow/Serv
 
 </td><td>
 
-Stores all [[c_SurveyCategory|survey categories]].
+Stores all survey categories.
 
 </td></tr><tr><td>
 
@@ -253,11 +253,11 @@ Metric Result \[asmt\_metric\_result\]
 
 </td><td>
 
-Stores all [[t_ViewAMetricResult|metric results]].
+Stores all [metric results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAMetricResult.md).
 
 </td><td>
 
-Stores all [[c_SurveyResults|survey responses]].
+Stores all [survey responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyResults.md).
 
 </td></tr><tr><td>
 
@@ -265,11 +265,11 @@ Signature \[asmt\_signature\]
 
 </td><td>
 
-Stores all [[t_CreateAnAssessmentSignature|signature records]] for assessments and \[\[Attestations\|GRC attestations\]\].
+Stores all [signature records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md) for assessments and \[\[Attestations\|GRC attestations\]\].
 
 </td><td>
 
-Stores all signature records for[[r_SurveyManagementLandingPage|Surveys]].
+Stores all signature records for[Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyManagementLandingPage.md).
 
 </td></tr><tr><td>
 
@@ -277,11 +277,11 @@ Trigger Condition \[asmt\_condition\]
 
 </td><td>
 
-Stores all [[t_CreateTriggerAssessment|assessment trigger conditions]].
+Stores all [assessment trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateTriggerAssessment.md).
 
 </td><td>
 
-Stores all [[c_TriggerConditions|survey trigger conditions]].
+Stores all [survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md).
 
 </td></tr></tbody>
 </table>## Properties
@@ -305,7 +305,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-sn\_portal\_surveys.sp\_survey.[[email|email]]\_redirection
+sn\_portal\_surveys.sp\_survey.email\_redirection
 
 </td><td>
 
@@ -337,7 +337,7 @@ css.assessment.question.header.background.color
 
 </td><td>
 
-Background color of question headers on assessment and [[c_SurveyQuestionnairesForUsers|survey questionnaires]].-   Type: **Color**
+Background color of question headers on assessment and survey questionnaires.-   Type: **Color**
 -   Default value: **\#767676**
 
 </td></tr><tr><td>
@@ -388,7 +388,7 @@ Sets the font color of the caption text on assessment and survey questionnaires.
 -   Default value: **\#ffffff**
 
 </td></tr></tbody>
-</table>For more information about customizing the appearance of a survey, see [[t_CustomizingAppearance|Customize the appearance of a survey]].
+</table>For more information about customizing the appearance of a survey, see [Customize the appearance of a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CustomizingAppearance.md).
 
 ## User roles
 
@@ -423,7 +423,7 @@ None
 |----|-----------|
 |AssessmentUtils|Core code for assessment functionality.|
 |AssessmentUtilsAJAX|AJAX-based code for displaying scorecard data.|
-|MigrateSurveyToAssessment|Code for [[c_MigrateSurveys|migrating legacy surveys]] to assessment surveys.|
+|MigrateSurveyToAssessment|Code for [migrating legacy surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_MigrateSurveys.md) to assessment surveys.|
 |RatingUtilsAJAX|Reserved for future use.|
 |SurveyUtils|Core code for survey functionality.|
 
@@ -499,7 +499,7 @@ Assessment Metric \[asmt\_metric\]
 
 </td><td>
 
-Ensures only Data type options that are valid for surveys are available on the [[survey-question-form|Survey Question form]].
+Ensures only Data type options that are valid for surveys are available on the Survey Question form.
 
 </td></tr><tr><td>
 
@@ -607,7 +607,7 @@ Assessable Record \[asmt\_assessable\_record\]
 
 </td><td>
 
-Displays a warning message if an assessment administrator clears the **Live feed** [[check-box|check box]].
+Displays a warning message if an assessment administrator clears the **Live feed** check box.
 
 </td></tr><tr><td>
 
@@ -862,7 +862,7 @@ Assessable Record \[asmt\_assessable\_record\]
 
 </td><td>
 
-Ensures that all new assessable records are in the same domain as the metric type. This is a special requirement of assessment [[domain-separation-relationship-formatter-editor|domain separation]], that all records must be in the same domain.
+Ensures that all new assessable records are in the same domain as the metric type. This is a special requirement of assessment domain separation, that all records must be in the same domain.
 
 </td></tr><tr><td>
 
@@ -1211,7 +1211,7 @@ Ensures that all new metrics are in the same domain as the category to which the
 
 </td></tr><tr><td>
 
-[[notify-landing-page|Notify]] assessment user
+Notify assessment user
 
 </td><td>
 
@@ -1402,7 +1402,7 @@ Assessment Metric \[asmt\_metric\]
 
 </td><td>
 
-Updates the value in the **Total metrics** field on the [[metric-category-form|Metric Category form]] when metrics are added to and deleted from the category.
+Updates the value in the **Total metrics** field on the Metric Category form when metrics are added to and deleted from the category.
 
 </td></tr><tr><td>
 
@@ -1453,7 +1453,7 @@ Assessment Metric \[asmt\_metric\]
 
 </td><td>
 
-Ensures that the Min is greater than or equal to zero and less than the Max. Sets the Min to 0 and the Max to 1 if the data type is **Checkbox** or **[[yes-no|Yes/No]]**.
+Ensures that the Min is greater than or equal to zero and less than the Max. Sets the Min to 0 and the Max to 1 if the data type is **Checkbox** or **Yes/No**.
 
 </td></tr><tr><td>
 
@@ -1481,42 +1481,5 @@ Assessment Metric Definition \[asmt\_metric\_definition\]
 Ensures that users can only enter a metric definition Value greater than or equal to zero. Ensures that the metric definition value is different from the Value for all other metric definitions related to the metric.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[assessments-surveys-landing-page|Assessments and Surveys]]
+</table>**Parent Topic:**[Assessments and Surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/assessments-surveys-landing-page.md)
 
-## Related
-
-- [[c_assessable-records|Assessable records]]
-- [[c_SchedulePeriods|Schedule periods]]
-- [[r_CategoryUsersAndStakeholders|Category users and stakeholders]]
-- [[c_SurveyUsersAndGroups|Survey users and groups]]
-- [[r_CategoryResults|Category results]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[t_ViewSurveyInstance|View a survey instance]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[t_CreateAMetricDefinition|Create an assessment metric definition]]
-- [[t_CreateOrModifyAnswerOptions|Create or modify answer options]]
-- [[r_MetricTemplates|Metric templates]]
-- [[c_SurveyDefinitions|Survey definitions]]
-- [[c_MetricTypesAndAssessableRecords|Metric types and assessable records]]
-- [[r_AdministerDecisionMatrixes|Decision matrixes]]
-- [[r_BubbleChartComponents|Bubble chart components]]
-- [[t_ViewAMetricResult|View a metric result]]
-- [[c_SurveyResults|Survey responses and results]]
-- [[t_CreateAnAssessmentSignature|Create an assessment signature]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[t_CreateTriggerAssessment|Configure trigger conditions for an assessment]]
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[t_CustomizingAppearance|Customize the appearance of a survey]]
-- [[c_MigrateSurveys|Legacy survey migration]]
-- [[assessments-surveys-landing-page|Assessments and Surveys]]
-- [[r_Assessments|Assessments]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[c_SurveyCategory|Survey categories]]
-- [[email|Email]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]
-- [[survey-question-form|Survey Question form]]
-- [[check-box|Check box]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[notify-landing-page|Notify]]
-- [[metric-category-form|Metric Category form]]
-- [[yes-no|Yes/No]]

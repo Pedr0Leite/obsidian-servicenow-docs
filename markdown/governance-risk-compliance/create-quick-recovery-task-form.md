@@ -12,7 +12,7 @@ breadcrumb: [Create a quick recovery task, Structured workflows for BCPs, Manage
 
 # Create a quick recovery task form
 
-Use the Create a quick recovery task form in the [[bcm-workspace|BCM Configurable Workspace]] to insert details on the recovery task quickly.
+Use the Create a quick recovery task form in the BCM Configurable Workspace to insert details on the recovery task quickly.
 
 ## Create a quick recovery task form
 
@@ -117,9 +117,5 @@ All assets from plan
 Specifies the asset scope for the recovery task. Defaults to all assets defined in the plan. Update this field to narrow the scope when the task applies only to a subset of the plan's assets.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-quick-recovery-task|Create a quick recovery task]]
+</table>**Parent Topic:**[Create a quick recovery task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-quick-recovery-task.md)
 
-## Related
-
-- [[create-quick-recovery-task|Create a quick recovery task]]
-- [[bcm-workspace|BCM Configurable Workspace]]

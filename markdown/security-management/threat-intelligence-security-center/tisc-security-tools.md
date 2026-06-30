@@ -14,17 +14,12 @@ breadcrumb: [TISC Security Tools integrations, TISC Integrations, Integrate, Thr
 
 # Firewall integration
 
-TISC Security Firewall prevents unauthorized access to the network. [[palo-alto-networks-integration|Palo Alto Networks integration]] with TISC helps blocking malicious IP addresses, URLs, and domains using External Dynamic List \(EDL\) capabilities with ServiceNow [[threat-intel-landing-page|Threat Intelligence]] data.
+TISC Security Firewall prevents unauthorized access to the network. Palo Alto Networks integration with TISC helps blocking malicious IP addresses, URLs, and domains using External Dynamic List \(EDL\) capabilities with ServiceNow Threat Intelligence data.
 
-Within TISC, by integrating with other security [[tools|tools]] such as Palo Alto Networks enhances overall organization's network security.
+Within TISC, by integrating with other security tools such as Palo Alto Networks enhances overall organization's network security.
 
 -   **[Palo Alto Networks integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/palo-alto-networks-integration.md)**  
 Palo Alto Networks integration after configuration enables the threat analysts to add malicious IP addresses, URLs, and domains to External Dynamic List \(EDL\) or remove these entries from EDL after confirmation as non-malicious or clean.
 
 **Parent Topic:**[TISC Security Tools integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 
-## Related
-
-- [[palo-alto-networks-integration|Palo Alto Networks integration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tools|Tools]]

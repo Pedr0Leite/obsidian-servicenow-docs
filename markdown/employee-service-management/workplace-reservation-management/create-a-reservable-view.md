@@ -18,7 +18,7 @@ Configure a view that employees can view while making a reservation on the Reser
 
 ## Before you begin
 
-The following reservable views are available with the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application:
+The following reservable views are available with the Workplace Reservation Management application:
 
 -   card
 -   map
@@ -105,6 +105,3 @@ Assign different views on a reservable mobile. The workplace items of the module
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

@@ -26,7 +26,7 @@ Quick filters help you filter the data shown in the List and Hierarchy views of 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -44,6 +44,4 @@ Quick filters help you filter the data shown in the List and Hierarchy views of 
     -   The filters set in to one view are also applied to the other views, within the same tab.
     \[Omitted image "hierarchy-with-filters.png"\] Alt text: Quick filters in Priorotization.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

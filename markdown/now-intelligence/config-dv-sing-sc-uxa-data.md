@@ -12,9 +12,9 @@ breadcrumb: [Single score visualization, Create, Data visualizations, Platform A
 
 # Usage Insights data options for Single Score data visualizations
 
-When you select a [[user-exp-analytics-landing|Usage Insights]] data source for a single score visualization, the following Data configuration options are available.
+When you select a Usage Insights data source for a single score visualization, the following Data configuration options are available.
 
-**Note:** If you add a [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualization with Usage Insights data to an inline dashboard, the default drilldown for that data visualization is to open the corresponding UXA analytics page. This feature provides a quick and efficient way to drill down and explore specific user behavior from your Platform Analytics dashboard.
+**Note:** If you add a Platform Analytics data visualization with Usage Insights data to an inline dashboard, the default drilldown for that data visualization is to open the corresponding UXA analytics page. This feature provides a quick and efficient way to drill down and explore specific user behavior from your Platform Analytics dashboard.
 
 <table id="simpletable_wqy_sjr_qtb"><thead><tr><th>
 
@@ -34,7 +34,7 @@ Data source
 
 </td><td>
 
-You have selected a Usage Insights data source in [[create-dv-sing-sc-ac|Create a single score data visualization]].
+You have selected a Usage Insights data source in [Create a single score data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -285,8 +285,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a single score data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-sing-sc-ac.md)
 
-## Related
-
-- [[create-dv-sing-sc-ac|Create a single score data visualization]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

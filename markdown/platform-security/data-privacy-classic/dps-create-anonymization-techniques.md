@@ -14,7 +14,7 @@ breadcrumb: [Data anonymization, Data privacy, Data Privacy, Platform Privacy]
 
 # Create anonymization techniques
 
-[[config-dp-technique|Create a data privacy technique configuration]] to customize how [[data-privacy-landing|data privacy]] anonymizes your data.
+Create a data privacy technique configuration to customize how data privacy anonymizes your data.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: data\_privacy\_admin and admin
 
 1.  Elevate to the **data\_privacy\_admin** role.
 
-    For details on role elevation, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+    For details on role elevation, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 2.  Navigate to **System Security** &gt; **Data Privacy** &gt; **Anonymization**.
 
@@ -144,8 +144,3 @@ Only anonymizes discovered data patterns within unstructured data fields while k
 
 See [Create anonymization policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-policies.md) to configure an anonymization policy to specify which techniques are used when anonymizing your data.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[config-dp-technique|Create a data privacy technique configuration]]
-- [[data-privacy-landing|Data Privacy]]

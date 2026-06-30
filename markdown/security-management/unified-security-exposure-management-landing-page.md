@@ -12,11 +12,11 @@ breadcrumb: [Security Operations]
 
 # Unified Security Exposure Management \(USEM\)
 
-Unified Security Exposure Management \(USEM\) is a comprehensive platform designed to transform how organizations manage security exposure across their digital estate. It consolidates multiple security exposure applications including [[vuln-landing-page|Vulnerability Response]], [[vr-config-compliance-landing|Configuration Compliance]], [[avr-landing|Application Vulnerability Response]], and [[cvr-landing|Container Vulnerability Response]] into a single, cohesive architecture.
+Unified Security Exposure Management \(USEM\) is a comprehensive platform designed to transform how organizations manage security exposure across their digital estate. It consolidates multiple security exposure applications including Vulnerability Response, Configuration Compliance, Application Vulnerability Response, and Container Vulnerability Response into a single, cohesive architecture.
 
 \[Omitted video\] Description: USEM overview
 
-The video provides a walk through of the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+The video provides a walk through of the Security Exposure Management Workspace.
 
 **Important:** Unified Security Exposure Management \(USEM\) is a major architectural upgrade to Vulnerability Response applications. If you are currently using Vulnerability Response and upgrading to USEM for the first time, you must use the Migration assistant for Unified Security Exposure Management to ensure a successful upgrade.
 
@@ -24,7 +24,7 @@ For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text: Learn about Unified Security Exposure Management concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/exploring-unified-security-exposure-management.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about Unified Security Exposure Management concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/exploring-unified-security-exposure-management.md)
 
 </td><td>
 
@@ -65,22 +65,11 @@ For detailed information, refer [KB2556844](https://support.servicenow.com/kb?id
 
 </td><td>
 
-[Vulnerability Response Workspaces \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Learn about the [[vr-wkspace-overview-v16|Vulnerability Response Workspaces]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response-workspaces/vr-wkspace-overview-v16.md)
+[Vulnerability Response Workspaces \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Learn about the Vulnerability Response Workspaces.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response-workspaces/vr-wkspace-overview-v16.md)
 
 </td><td>
 
-[Software Bill of Materials \[Omitted image "bus-work-order.svg"\] Alt text: Learn about the [[sbom-landing|Software Bill of Materials]] concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/sbom-landing.md)
+[Software Bill of Materials \[Omitted image "bus-work-order.svg"\] Alt text: Learn about the Software Bill of Materials concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/sbom-landing.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[cvr-landing|Container Vulnerability Response]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[vr-wkspace-overview-v16|Vulnerability Response Workspaces]]
-- [[sbom-landing|Software Bill of Materials]]

@@ -37,7 +37,7 @@ Dynamic Schema is composed of the following elements.
 
     A field type for storing one or more dynamic attributes and their values. When you create a dynamic store field, a dynamic namespace is automatically created and associated with that store field.
 
-    After creating a store field, you can start storing values for attributes without defining them, or you can specify attribute [[clone-exclusions-preservers-cleanupscripts|definitions]] in the dynamic namespace to take advantage of additional functionality.
+    After creating a store field, you can start storing values for attributes without defining them, or you can specify attribute definitions in the dynamic namespace to take advantage of additional functionality.
 
 -   **Dynamic namespace**
 
@@ -48,9 +48,9 @@ Dynamic Schema is composed of the following elements.
 
 You have flexibility when deciding how to implement Dynamic Schema.
 
--   You can add attributes directly to a dynamic attribute store field without creating formal definitions first. These attributes are considered transient and are treated as having string values in scripts and queries. You can provide a definition for the attribute and modify its type at any time. Modifying the type of an attribute doesn't affect the stored data but changes how the system interacts with that data. See [[transient-attributes|Working with attributes transiently]].
--   You can take advantage of additional platform support and reuse for attributes by defining them in a dynamic namespace. Defining a dynamic attribute record enables you to specify its type, set choice options, organize it into dynamic categories and more. See [[working-with-dynamic-schema|Working with Dynamic Schema]].
--   You can create a dynamic namespace independently. You can add dynamic attributes and dynamic categories to that namespace, and then associate that namespace with one or more dynamic attribute store fields. This enables you to reuse attributes across multiple store fields. See [[create-dynamic-namespace|Create a dynamic namespace]].
+-   You can add attributes directly to a dynamic attribute store field without creating formal definitions first. These attributes are considered transient and are treated as having string values in scripts and queries. You can provide a definition for the attribute and modify its type at any time. Modifying the type of an attribute doesn't affect the stored data but changes how the system interacts with that data. See [Working with attributes transiently](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/transient-attributes.md).
+-   You can take advantage of additional platform support and reuse for attributes by defining them in a dynamic namespace. Defining a dynamic attribute record enables you to specify its type, set choice options, organize it into dynamic categories and more. See [Working with Dynamic Schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/working-with-dynamic-schema.md).
+-   You can create a dynamic namespace independently. You can add dynamic attributes and dynamic categories to that namespace, and then associate that namespace with one or more dynamic attribute store fields. This enables you to reuse attributes across multiple store fields. See [Create a dynamic namespace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-namespace.md).
 
 ## Use cases
 
@@ -98,9 +98,3 @@ Dynamic Schema also provides global APIs that enable you to access and manage dy
     -   setDynamicAttributeValues\(\)
     -   setValue\(\)
 
-## Related
-
-- [[transient-attributes|Working with attributes transiently]]
-- [[working-with-dynamic-schema|Working with Dynamic Schema]]
-- [[create-dynamic-namespace|Create a dynamic namespace]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

@@ -12,7 +12,7 @@ breadcrumb: [Order Management for providers with Service Exchange, Integrate, Sa
 
 # Creating orders from Service Portal catalog items
 
-When consumers use the Service Portal on their instance, they can place orders for catalog items that have bundled product specifications. They can also [[cancel|cancel]] an order, and review and manage product and service inventory.
+When consumers use the Service Portal on their instance, they can place orders for catalog items that have bundled product specifications. They can also cancel an order, and review and manage product and service inventory.
 
 ## Orders for bundled products
 
@@ -26,12 +26,7 @@ Consumers can cancel an order, if the order hasn't reached the point of no retur
 
 ## Managing product or service inventory
 
-Consumers can view and manage the product or service inventory for products and services. They can use the **Location** field to filter the **Inventory** view by particular location. Consumers can also perform disconnect, [[Suspend|suspend]], or [[Resume|resume]] actions.
+Consumers can view and manage the product or service inventory for products and services. They can use the **Location** field to filter the **Inventory** view by particular location. Consumers can also perform disconnect, suspend, or resume actions.
 
 \[Omitted image "sb-om-manage-inventory.png"\] Alt text: Service catalog form for managing product or service inventory
 
-## Related
-
-- [[cancel|Cancel]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]

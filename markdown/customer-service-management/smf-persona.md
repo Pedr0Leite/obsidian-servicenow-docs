@@ -25,7 +25,7 @@ A single user can represent different personas across multiple business location
 -   Roles – Defined at the user level.
 -   Responsibilities – Defined according to business location.
 
-The combination of user [[personas-roles-and-tables-post-integration-oppMgmt|roles and responsibilities]] determines what a user can do within each service organization.
+The combination of user roles and responsibilities determines what a user can do within each service organization.
 
 ## Service Model Foundation user personas and their interactions with different industry verticals
 
@@ -34,7 +34,7 @@ Each following persona represents a different way users interact with business l
 |Persona|Related role|Description|Industry vertical example|
 |-------|------------|-----------|-------------------------|
 |Bank branch teller|Service organization contributor|A service organization contributor is assigned to a specific service organization and can make requests on behalf of their business location. They can also view any cases submitted by others for their location.|**Banking**: At the local Solana Bank branch, tellers primarily handle customer requests in person that don’t require case filing. Occasionally, they report operational issues or request support for their branch. These team members are service organization contributors.|
-|Radiology operations associate|Location agent|A location agent works within a service organization to report issues and [[manage-cases|manage cases]] for both B2B and B2C customers at their business location.|**Healthcare**: The operations associate in the radiology department submits requests for patients and the department overall. They also fulfill requests assigned to radiology.|
+|Radiology operations associate|Location agent|A location agent works within a service organization to report issues and manage cases for both B2B and B2C customers at their business location.|**Healthcare**: The operations associate in the radiology department submits requests for patients and the department overall. They also fulfill requests assigned to radiology.|
 |In-store customer care associate|Location consumer agent|A location consumer agent focuses specifically on B2C customers, reporting issues and managing cases assigned to their business location. Their role is similar to a location agent, but they're more centered on consumer interactions.|**Retail**: Solana Grocery has an in-store customer care department to assist shoppers. These customer care agents primarily interact with customers rather than working on the shop floor and are modeled as location consumer agents.|
 |Hotel manager at a franchise location|Location manager contributor|A location manager contributor manages their business location teams while also submitting requests for issues that arise.|**Hospitality**: The front desk manager oversees daily operations and submits requests for support on behalf of the front desk and guests when needed.|
 |College supervisor|Location manager|A location manager can contribute to their business locations, manage the team, and fulfill cases assigned to the location. This role combines the responsibilities of a location manager contributor with active case resolution.|**Higher Education**: The registrar manages a team that assists students with registration. They occasionally request help from other departments and temporarily add student workers to their team. The registrar also fulfills requests from students, professors, and other departments such as financial aid.|
@@ -42,7 +42,3 @@ Each following persona represents a different way users interact with business l
 |Regional dealership liaison|Location relationship manager|A location relationship manager is responsible for managing relationships with external business locations. This role is dedicated to supporting third-party locations through a primary internal contact.|**Manufacturing**: Dealerships may be managed by external teams while representing the manufacturer. Solana Cars manufactures vehicles and sells them through a network of dealerships, some company-owned and others managed via dealer groups.|
 |Platform configuration admin|Administrator|An administrator doesn't use the application directly, but supports configuration of the service organization, hierarchy management, and assignment of member roles and responsibilities, including related-party configurations.| |
 
-## Related
-
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]
-- [[manage-cases|Manage cases]]

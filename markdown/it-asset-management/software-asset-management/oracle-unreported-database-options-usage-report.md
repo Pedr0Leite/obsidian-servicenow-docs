@@ -14,9 +14,9 @@ breadcrumb: [Oracle Database options and management packs, Software Asset Manage
 
 # Unreported Database Options Usage report
 
-You can use the Unreported Database Options Usage report to gain visibility into the [[oracle-options|Oracle Database options and management packs]] that are being used on undiscovered database instances. Although you cannot track usage for these database options and management packs, this report can help you determine any potential licensing implications that are associated with them.
+You can use the Unreported Database Options Usage report to gain visibility into the Oracle Database options and management packs that are being used on undiscovered database instances. Although you cannot track usage for these database options and management packs, this report can help you determine any potential licensing implications that are associated with them.
 
-**Note:** This report is available only in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application.
+**Note:** This report is available only in the Software Asset Management classic application.
 
 To view this report, navigate to **All** &gt; **Reports** &gt; **View/Run**. From the list of available reports, search for and select **Unreported Database Options Usage**. When the corresponding Edit report page opens, select **Run**.
 
@@ -29,7 +29,3 @@ To view this report, navigate to **All** &gt; **Reports** &gt; **View/Run**. Fro
 
 **Parent Topic:**[Oracle Database options and management packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-options.md)
 
-## Related
-
-- [[oracle-options|Oracle Database options and management packs]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

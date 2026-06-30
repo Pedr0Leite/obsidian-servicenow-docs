@@ -14,9 +14,9 @@ breadcrumb: [Service Graph Connectors for AI Control Tower, AI connections, Expl
 
 # AI Service Graph Connector for Hugging Face
 
-The AI Service Graph Connector for Hugging Face enables you to discover and import [[ai-assets|AI assets]] from your Hugging Face environment into ServiceNow [[ai-control-tower-landing|AI Control Tower]].
+The AI Service Graph Connector for Hugging Face enables you to discover and import AI assets from your Hugging Face environment into ServiceNow AI Control Tower.
 
-The connector integrates with your Hugging Face account to catalog [[ai-system|AI systems]], agents, models, and [[ai-prompts|prompts]] from Hugging Face Spaces. Usage data is automatically collected and populated into the AI Control Tower value dashboard, providing comprehensive visibility and governance of your AI operations.
+The connector integrates with your Hugging Face account to catalog AI systems, agents, models, and prompts from Hugging Face Spaces. Usage data is automatically collected and populated into the AI Control Tower value dashboard, providing comprehensive visibility and governance of your AI operations.
 
 ## Download apps from the Store
 
@@ -108,7 +108,7 @@ Applications and agent implementations identified in Space code.
 
 </td></tr><tr><td>
 
-[[ai-models|AI Models]]
+AI Models
 
 </td><td>
 
@@ -166,7 +166,7 @@ Digital Asset Tables
 
 -   alm\_ai\_system\_digital\_asset – Stores AI System digital assets discovered from Hugging Face Spaces.
 -   alm\_ai\_model\_digital\_asset – Stores AI Model digital assets including language models and embeddings.
--   alm\_ai\_prompt\_digital\_asset – Stores AI Prompt digital assets including prompt templates and [[exploring-ai-governance|configurations]].
+-   alm\_ai\_prompt\_digital\_asset – Stores AI Prompt digital assets including prompt templates and configurations.
 
 Entity Tables
 
@@ -221,12 +221,3 @@ Cleaned and structured data is inserted into the final destination tables in the
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[ai-prompts|Prompts]]
-- [[ai-models|AI models]]
-- [[exploring-ai-governance|Configurations]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Use deep link for HR Service Delivery Integration with Cornerstone OnDemand
 
-Use the deep link prefix to pull [[exploring-learning-exp|learning]] objects from the Cornerstone OnDemand system during run time.
+Use the deep link prefix to pull learning objects from the Cornerstone OnDemand system during run time.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ Role required: sn\_hr\_cornerstone.admin
 
 5.  In **Properties**, append the copied value in **url\_prefix**.
 
-## Related
 
-- [[exploring-learning-exp|Learning]]

@@ -12,7 +12,7 @@ breadcrumb: [Create service requests, Care Team Operations for Facilities, Healt
 
 # Create a facilities support request using Care Team Portal
 
-Use the [[care-team-portal-landing|Care Team Portal]] to create a facilities support request.
+Use the Care Team Portal to create a facilities support request.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_hco.care\_team\_member
 
 \[Omitted image "cto-facilities-create-request.png"\] Alt text: A facilities support request being created by Care Team Portal.
 
-[[cto-facilities-landing|Care Team Operations for Facilities]] comes with preconfigured service requests for facilities support departments.
+Care Team Operations for Facilities comes with preconfigured service requests for facilities support departments.
 
 Select the catalog item that aligns with your request type. Within the support request itself, use the Category field to specify the exact request category.
 
 For example, a nurse who notices an issue with the temperature level in a room would navigate to **Create a request &gt; Request Facilities service &gt; Temperature and Humidity Control** and in the support request, set **Category** to **Room climate issues**.
 
-For detailed information on the Facilities service catalog, see [[cto-facilities-service-catalog|Service Catalog installed with Care Team Operations for Facilities]].
+For detailed information on the Facilities service catalog, see [Service Catalog installed with Care Team Operations for Facilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-facilities-service-catalog.md).
 
 ## Procedure
 
@@ -103,8 +103,4 @@ The day and time in which support can attempt to resolve the issue.
 
 5.  Select **Submit**.
 
-## Related
 
-- [[cto-facilities-service-catalog|Service Catalog installed with Care Team Operations for Facilities]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]

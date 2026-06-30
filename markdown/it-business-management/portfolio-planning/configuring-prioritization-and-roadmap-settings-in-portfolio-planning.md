@@ -21,7 +21,7 @@ Customize the fields to be highlighted on the Prioritization tab of a portfolio 
 -   **[Modify Script Includes for milestone icons in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-script-includes-for-milestone-icons-ppw.md)**  
 Modify the Script Includes for milestone icons of the roadmap and portfolio plan to customize the icons to be shown in the Roadmap tab in the workspace.
 -   **[Configure additional source tables for free-form roadmap in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configure-additional-source-tables-free-form-roadmap.md)**  
-Add new tables to roadmap preferences and configure their details so that these tables can be used as source tables while creating a free-form roadmap in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Add new tables to roadmap preferences and configure their details so that these tables can be used as source tables while creating a free-form roadmap in Portfolio Planning.
 -   **[Customize the planning item display preferences for Prioritization and Roadmap in Portfolio Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/update-source-table-preferences-roadmap-portfolio-planning.md)**  
 Update source table configurations so that you can customize the roadmap view in Portfolio Planning according to your business priorities.
 -   **[Update the display limit of items for Prioritization and Roadmap in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/update-items-display-limit-backlog-prioritization-roadmap.md)**  
@@ -31,6 +31,3 @@ Show or hide parent records of planning items shown in the Hierarchy view for hi
 
 **Parent Topic:**[Configuring Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/configuring-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

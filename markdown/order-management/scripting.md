@@ -14,7 +14,7 @@ breadcrumb: [Setting up enrichments and rules scripting, CPQ app, Configure, pri
 
 Learn how to create advanced functions using the scripting interface.
 
-Some [[use-cases|use cases]] require an advanced condition or action. Other times, the administrator may prefer script versus leveraging simple rules. For these occasions, CPQ offers the ability to write [[scripts|scripts]] in key areas.
+Some use cases require an advanced condition or action. Other times, the administrator may prefer script versus leveraging simple rules. For these occasions, CPQ offers the ability to write scripts in key areas.
 
 Scripting is available in rule actions and conditions, behind the Advanced menu choice or toggle.
 
@@ -27,18 +27,18 @@ When the script editor first opens, it provides the expected return format of th
 -   Advanced conditions return true or false.
 -   Advanced hiding rules return a text string.
 -   Advanced determination rules return the type of the field that they are setting.
-    -   A determination rule that [[cpq-sets|sets]] a number returns a number.
+    -   A determination rule that sets a number returns a number.
     -   A determination rule that sets a multi-select picklist returns an array.
 -   Advanced inclusion and exclusion rules return an array.
 -   Product rules return ProductList.
 
-For more details and a script sample, review the "Advanced product actions" section of [[rules_101|Rules]].
+For more details and a script sample, review the "Advanced product actions" section of [Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rules_101.md).
 
 The **? Help** button opens a menu of available functions. Each entry includes a description of the function, the parameters it accepts, its output, and an example that can be inserted at the current location of the cursor in the script.
 
 \[Omitted image "cpq-scripting-available-functions.png"\] Alt text: Script
 
-As you type in the script editor, suggestions are provided, including functions, configurable field variable names, and local variables. Using this feature helps eliminate mismatched variable names and typing errors. In the screenshot below, typing `Ma` gives the user two available functions \(Map and Math\) and a list of all matching [[fields|fields]]. Additional inputs narrow the list of matching options.
+As you type in the script editor, suggestions are provided, including functions, configurable field variable names, and local variables. Using this feature helps eliminate mismatched variable names and typing errors. In the screenshot below, typing `Ma` gives the user two available functions \(Map and Math\) and a list of all matching fields. Additional inputs narrow the list of matching options.
 
 \[Omitted image "cpq-scripting-typeahead.png"\] Alt text: Map structure
 
@@ -63,22 +63,11 @@ Also see the following sample scripts:
 
 [CPQ scripting language reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[cpq-sample-scripts|Sample scripts]]
+[Sample scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-sample-scripts.md)
 
-[[rules-enrichments-comments-and-console_log|Using comments and the console to debug scripts]]
+[Using comments and the console to debug scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rules-enrichments-comments-and-console_log.md)
 
-[[enrichments_on_configurer_and_reconfigure_behavior|Scripting: Checking for first and subsequent configurations]]
+[Scripting: Checking for first and subsequent configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments_on_configurer_and_reconfigure_behavior.md)
 
-[[enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values|Scripting: How to populate set values]]
+[Scripting: How to populate set values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values.md)
 
-## Related
-
-- [[rules_101|Rules]]
-- [[cpq-sample-scripts|Sample scripts]]
-- [[rules-enrichments-comments-and-console_log|Using comments and the console to debug scripts]]
-- [[enrichments_on_configurer_and_reconfigure_behavior|enrichments_on_configurer_and_reconfigure_behavior]]
-- [[enrichments-on-configure-reconfigure-scripts-how-to-populate-set-values|enrichments on configure reconfigure scripts how to populate set values]]
-- [[use-cases|Use cases]]
-- [[scripts|Scripts]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

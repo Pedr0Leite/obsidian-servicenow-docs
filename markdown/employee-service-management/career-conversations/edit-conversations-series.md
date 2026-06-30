@@ -24,9 +24,9 @@ Role required: employee \[sn\_egd\_act.employee\] or manager \[sn\_egd\_act.mana
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
-2.  Use the navigation path that corresponds to your role within your organization to access the [[egd-activities-conversations-module|Career Conversations]] app.
+2.  Use the navigation path that corresponds to your role within your organization to access the Career Conversations app.
 
     |Role|Path|
     |----|----|
@@ -81,7 +81,3 @@ Your conversations
 
 **Parent Topic:**[Using the Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-activities-conversations-module|Career Conversations]]

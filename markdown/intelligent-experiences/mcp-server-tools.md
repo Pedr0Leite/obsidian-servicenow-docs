@@ -23,8 +23,5 @@ Use the following tools that are available with Model Context Protocol Server Co
 |lookup\_incident\_records|Scripted REST API|This API looks up incident records for the incident\_summarization tool.|
 |lookup\_kb\_records|Scripted REST API| |
 
-**Parent Topic:**[[mcp-server-console-reference|MCP Server Console reference]]
+**Parent Topic:**[MCP Server Console reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/mcp-server-console-reference.md)
 
-## Related
-
-- [[mcp-server-console-reference|MCP Server Console reference]]

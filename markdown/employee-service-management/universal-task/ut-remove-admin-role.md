@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Remove the Universal Task admin role from the admin role
 
-After system configuration, remove the [[universal-task-landing|Universal Task]] Admin role \(sn\_uni\_task.admin\) from IT System Administrator role \(admin\) to help prevent IT System Administrators from viewing sensitive information via forms, lists and UI.
+After system configuration, remove the Universal Task Admin role \(sn\_uni\_task.admin\) from IT System Administrator role \(admin\) to help prevent IT System Administrators from viewing sensitive information via forms, lists and UI.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ By default, a system administrator also contains the sn\_uni\_task.admin role an
 
 **Next topic:**[Email notification layout for Universal Task notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/email-notification-ut.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

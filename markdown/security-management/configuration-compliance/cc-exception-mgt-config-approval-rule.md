@@ -22,7 +22,7 @@ Role required: sn\_vulc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Administration** &gt; **Approval Rules**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Administration** &gt; **Approval Rules**.
 
 2.  Select an approval rule and navigate to the **Approval Configurations** tab.
 
@@ -132,6 +132,3 @@ Edit the users listed in the groups.
 
 There can be different approval levels for remediation tasks for Linux and Windows servers.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

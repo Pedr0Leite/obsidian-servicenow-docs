@@ -18,8 +18,5 @@ A JDBC data source JDBC probe is described by the JDBCProbe Topic and the `sys_i
 
 An ECC Queue output probe is created when you load from the data source.
 
-**Parent Topic:**[[t_JDBCProbe|JDBCProbe]]
+**Parent Topic:**[JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
-## Related
-
-- [[t_JDBCProbe|JDBCProbe]]

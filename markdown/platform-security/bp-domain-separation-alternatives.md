@@ -35,7 +35,7 @@ You can time upgrades and releases separately for each instance. However, if you
 
 With a separate instance, you may address data and process separation but your instance owners must maintain and keep up with the extensive customizations that is required for separate instances.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -72,7 +72,7 @@ With a separate instance, you may address data and process separation but your i
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -90,13 +90,7 @@ With a separate instance, you may address data and process separation but your i
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-[[bp-domain-sep-context|Context and domain separation]]
+[Context and domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-context.md)
 
-[[bp-sp-reference-arch-ds|Service provider reference architecture]]
+[Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md)
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[bp-domain-sep-context|Context and domain separation]]
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]
-- [[logs|Logs]]

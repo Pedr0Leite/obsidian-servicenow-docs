@@ -20,7 +20,7 @@ This property enables control of when and where to display debug messages genera
 
 **mid.property.powershell.log\_info**
 
-The new [[mid-server-landing|MID Server]] PowerShell log property:
+The new MID Server PowerShell log property:
 
 -   Displays logging information.
 
@@ -42,6 +42,3 @@ Enable the PowerShell log property for each MID Server. If the MID Server field 
 
 **Parent Topic:**[MID Servers for Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationMID.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

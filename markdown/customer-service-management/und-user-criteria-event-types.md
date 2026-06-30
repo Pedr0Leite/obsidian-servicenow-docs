@@ -24,7 +24,7 @@ For additional flexibility around managing the CRUD access, you can set the user
 
 **How inclusion and exclusion user criteria access works**
 
-When the user criteria [[gamification-components-rules|rules]] get evaluated, it's done in the following order:
+When the user criteria rules get evaluated, it's done in the following order:
 
 1.  The system first evaluates the exclusion access for each criteria.
     -   If the exclusion access for a CRUD operation is set to **true**, then the system evaluates the user criteria.
@@ -39,11 +39,11 @@ When the user criteria [[gamification-components-rules|rules]] get evaluated, it
 
 **Note:** The exclusion access always takes precedence over the inclusion access. If no inclusion or exclusion access is set, then the role-based access is used for managing event types.
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
 ## Create user criteria for event types in Workforce Optimization for Customer Service
 
-Add a user criteria record to specify which users, roles, and groups can access event types in [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
+Add a user criteria record to specify which users, roles, and groups can access event types in Workforce Optimization for Customer Service.
 
 ### Before you begin
 
@@ -83,7 +83,7 @@ Role required: sn\_shift\_planning.admin​
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Workforce [[optimization|Optimization]] for CSM** &gt; **Scheduling** &gt; **Event Configuration**.
+1.  Navigate to **All** &gt; **Workforce Optimization for CSM** &gt; **Scheduling** &gt; **Event Configuration**.
 
 2.  Select an event.
 
@@ -154,7 +154,7 @@ Role required: sn\_shift\_planning.admin
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  In the [[migration-lists|lists]] module, go to **Scheduling** &gt; **Event type**.
+2.  In the lists module, go to **Scheduling** &gt; **Event type**.
 
 3.  Select an event for which you want to verify user access.
 
@@ -193,10 +193,4 @@ Select **All my groups**.
 </td></tr></tbody>
 </table>    The screen displays the create, read, write, and delete columns as **true** for each team member that has access to the specific type of access to the selected event.
 
-## Related
 
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[gamification-components-rules|Rules]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]
-- [[migration-lists|Lists]]

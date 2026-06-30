@@ -15,7 +15,7 @@ breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
 
 # Configuration item relationships and Knowledge Graph
 
-Configuration item \(CI\) Relationships enable [[knowledge-graph-landing|Knowledge Graph]] to answer natural language questions about service dependencies and infrastructure topology by storing typed parent-child relationships between CMDB configuration items.
+Configuration item \(CI\) Relationships enable Knowledge Graph to answer natural language questions about service dependencies and infrastructure topology by storing typed parent-child relationships between CMDB configuration items.
 
 The **CMDB\_REL\_CI** table stores relationships between configuration items \(CIs\) in ServiceNow CMDB. Each relationship connects a parent CI to a child CI through a defined relationship type, enabling the Knowledge Graph to understand and traverse the topology of your IT environment.
 
@@ -88,6 +88,3 @@ The following query types are not currently supported. Use the recommended alter
 |Unspecified relationship type|Show me services related to Linux servers.|Show me services depending on Linux servers.|
 |Skipping steps in a multi-hop path|Show me servers in New York.|Show me servers in racks present in datacenters located in New York.|
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]

@@ -12,7 +12,7 @@ breadcrumb: [Creating guidance and field recommendation in Recommended Actions, 
 
 # Customize a guidance detail experience in the UI Builder
 
-Customize how your detail experience looks in the contextual side panel or in a subtab of the [[configure-nba|Recommended Actions]] card using UI Builder. The detail experience can include things such as user inputs and drill down actions.
+Customize how your detail experience looks in the contextual side panel or in a subtab of the Recommended Actions card using UI Builder. The detail experience can include things such as user inputs and drill down actions.
 
 ## Before you begin
 
@@ -185,6 +185,4 @@ api.emit(
 </td></tr></tbody>
 </table>    For more information, see [Define and bind client scripts to components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/define-client-scripts.md).
 
-## Related
 
-- [[configure-nba|Recommended Actions]]

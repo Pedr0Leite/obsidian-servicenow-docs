@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-The integration verifies that each [[c_SAML2.0WebBrowserSSOProfile|SAML]] response contains the same URL listed in this system property as the URL listed in the Issuer element. For example:
+The integration verifies that each SAML response contains the same URL listed in this system property as the URL listed in the Issuer element. For example:
 
 ```
 <samlp:Responsexmlns:samlp="urn:oasis:names:tc:SAML:2.0:protocol"  Destination="https://demoi2.service-now.com/navpage.do"  ID="s28da6774c88ae1eab292bf25fe625db81919d8e1e"  InResponseTo="SNC841720c227c81948cfd68cadcad235c6"  IssueInstant="2012-01-30T20:07:10Z"  Version="2.0"><saml:Issuer xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion">http://idp.ssocircle.com</saml:Issuer>
@@ -36,11 +36,8 @@ The integration verifies that each [[c_SAML2.0WebBrowserSSOProfile|SAML]] respon
 
 1.  Navigate to **All** &gt; **SAML 2 Single Sign-on** &gt; **Properties**.
 
-2.  In the property The [[identity-landing|Identity]] Provider URL which will issue the SAML2 security token with user info., enter the URL to your IdP.
+2.  In the property The Identity Provider URL which will issue the SAML2 security token with user info., enter the URL to your IdP.
 
     Each IdP URL must be unique. By default, the integration contains the URL to SSOCircle. For more information, see [http://idp.ssocircle.com](http://idp.ssocircle.com/).
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[identity-landing|Identity]]

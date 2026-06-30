@@ -14,9 +14,9 @@ breadcrumb: [Exploring Event Management, Event Management, ITOM AIOps, IT Operat
 
 # Event Management process flow
 
-[[c_EM|Event Management]] collects, analyzes, and converts events into alerts, enabling efficient tracking and [[ccg-remediation|remediation]].
+Event Management collects, analyzes, and converts events into alerts, enabling efficient tracking and remediation.
 
-Event Management receives external events and generates alerts based on event and alert management rules. Events are sent directly to your instance via email server, script, SNMP trap, or web service API. The corresponding alerts appear on [[otto-aiops-dashboards|dashboards]] for tracking and remediation purposes.
+Event Management receives external events and generates alerts based on event and alert management rules. Events are sent directly to your instance via email server, script, SNMP trap, or web service API. The corresponding alerts appear on dashboards for tracking and remediation purposes.
 
 As the computer, software, or service generates events, the MID Server polls the external event tracking tool. The MID Server, maintaining a connection to Event Management, sends the information to your instance for storage, processing, and remediation.
 
@@ -44,8 +44,3 @@ The instance stores events in the Event \[em\_event\] table and attempts to gene
 
 \[Omitted image "EMEventFlow.png"\] Alt text: Event workflow
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[ccg-remediation|Remediation]]
-- [[otto-aiops-dashboards|Dashboards]]

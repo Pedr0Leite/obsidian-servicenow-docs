@@ -42,8 +42,5 @@ Review the following information regarding the scopes and roles required for con
 |Security Settings|sn\_vsc.security\_center\_viewer, sn\_vsc.se|
 |Assets|admin|
 
-**Parent Topic:**[[ia-reference|Setup Hub references]]
+**Parent Topic:**[Setup Hub references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-reference.md)
 
-## Related
-
-- [[ia-reference|Setup Hub references]]

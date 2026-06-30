@@ -14,17 +14,17 @@ breadcrumb: [Interactive Filters, Reporting, dashboards, and Performance Analyti
 
 # Custom interactive filters
 
-As an administrator, you can create scripted interactive filter [[widgets|widgets]] to provide advanced filtering options on dashboard reports.
+As an administrator, you can create scripted interactive filter widgets to provide advanced filtering options on dashboard reports.
 
 With a custom interactive filter, you can control aspects of the filter interface and filtering logic. Create filters that fit your specific needs. Custom interactive filters include filters that perform multiple, common filtering operations with a single click.
 
-Custom filters are scripted **System UI** **Widgets** that use the [[c_DashboardMessageHandler|DashboardMessageHandler]] JavaScript class to define and publish report filters.
+Custom filters are scripted **System UI** **Widgets** that use the DashboardMessageHandler JavaScript class to define and publish report filters.
 
-Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing [[c_HomepagePublishers|interactive filters]] in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to [[par-workspace|Platform Analytics experience]].
+Role required: hp\_publisher\_admin and report\_admin. The hp\_publisher\_admin role exists only for managing interactive filters in Core UI. By default, it contains the role analytics\_filter\_admin for managing Core UI filters that are migrated to Platform Analytics experience.
 
 **Note:** The exposed API for custom interactive filters is limited and does not provide parity with standard interactive filters. Before implementing any custom interactive filters, review the [Custom interactive filter limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/custom-if-limitations.md).
 
-[[access-control|Access control]] lists on the Table API may restrict the records shown when a dashboard is filtered. To alleviate this problem, add users or roles to the Table API access control list. For more information, see Access control list rules.
+Access control lists on the Table API may restrict the records shown when a dashboard is filtered. To alleviate this problem, add users or roles to the Table API access control list. For more information, see Access control list rules.
 
 The code that publishes the filter must call the SNC.canvas.interactiveFilters.setDefaultValue\(\) method and it must call the dashboardMessageHandler.publishFilter\(\) method to publish the filter.
 
@@ -45,10 +45,3 @@ Create dynamic conditions in JavaScript that you can configure as part of a repo
 
 **Parent Topic:**[Interactive Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_HomepagePublishers.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_DashboardMessageHandler|DashboardMessageHandler]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[par-workspace|Platform Analytics experience]]
-- [[access-control|Access control]]

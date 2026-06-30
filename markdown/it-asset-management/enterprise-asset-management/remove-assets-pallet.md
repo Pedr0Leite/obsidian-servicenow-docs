@@ -14,17 +14,17 @@ breadcrumb: [Create pallet assets in the Enterprise Asset Workspace, Create and 
 
 # Remove assets from a pallet in the Enterprise Asset Workspace
 
-Remove any enterprise, hardware, base, bundle, or [[c_ReceiveAConsumableAsset|consumable assets]] that you no longer want to track and manage as part of a pallet.
+Remove any enterprise, hardware, base, bundle, or consumable assets that you no longer want to track and manage as part of a pallet.
 
 ## Before you begin
 
-To remove hardware, base, or bundle assets from a pallet, install and activate the [[ham-landing-page|Hardware Asset Management]] application on your ServiceNow® instance. To install and activate the application, request it from the [ServiceNow Store](https://store.servicenow.com).
+To remove hardware, base, or bundle assets from a pallet, install and activate the Hardware Asset Management application on your ServiceNow® instance. To install and activate the application, request it from the [ServiceNow Store](https://store.servicenow.com).
 
 Role required: sn\_eam.enterprise\_asset\_manager or sn\_eam.enterprise\_asset\_technician
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Enterprise [[asset-estate-view-am|asset estate view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 2.  On the **All assets** tab, select the pallet that you want to remove assets from.
 
@@ -43,9 +43,3 @@ The assets no longer appear on the **Assets** tab.
 
 **Parent Topic:**[Create pallet assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-pallet-asset-eam.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]

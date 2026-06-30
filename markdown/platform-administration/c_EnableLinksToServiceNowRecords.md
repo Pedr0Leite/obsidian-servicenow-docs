@@ -12,7 +12,7 @@ breadcrumb: [Links to records, Create an email notification, Email and SMS notif
 
 # Enable links to records
 
-Adding the special **$\{URI\}** parameter to an [[ia-outbound-email-il|outbound email]] body or template creates a link to a specific record.
+Adding the special **$\{URI\}** parameter to an outbound email body or template creates a link to a specific record.
 
 When a user clicks the word **LINK**, the instance prompts the user to log in if not already logged in, and then redirects the user to the record specified in the URI.
 
@@ -40,9 +40,5 @@ current.assigned_to.nil()
 
 Additionally, the script sets the view to incident\_active.
 
-**Parent Topic:**[[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
+**Parent Topic:**[Links to records in email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnablingLinksToServiceNowRecords.md)
 
-## Related
-
-- [[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
-- [[ia-outbound-email-il|Outbound email]]

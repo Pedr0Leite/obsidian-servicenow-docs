@@ -15,7 +15,7 @@ breadcrumb: [Information on the alert Overview tab, Health Log Analytics referen
 
 # Sections and cards on the Overview tab for a Log Analytics group in Health Log Analytics
 
-The alert **Overview** tab in [[hla-landing-page|Health Log Analytics]] helps you understand Log Analytics groups.
+The alert **Overview** tab in Health Log Analytics helps you understand Log Analytics groups.
 
 For a detailed description of Log Analytics groups, see [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-log-analytics-alert-types.md).
 
@@ -112,7 +112,7 @@ Severity value for the alert. The available values are: -   **Critical**: Immedi
 
 </td></tr><tr><td>
 
-[[alert-priority-group|Priority group]]
+Priority group
 
 </td><td>
 
@@ -130,7 +130,7 @@ State
 
 Processing state of the alert. A newly generated alert is in the **Open** state. Other states are as follows:-   **Reopen**: A previously closed alert is open again, and it requires your attention.
 -   **Flapping**: The alert is receiving identical events from the same source at high frequency. This state can cause an alert to re-open from the Closed state, resulting in a high frequency of changes between Open and Closed states.
--   **Closed**: The alert is closed and does not require any further action. You [[t_EMCloseAlert|close an alert]] when it is remediated.
+-   **Closed**: The alert is closed and does not require any further action. You close an alert when it is remediated.
 
 
 </td></tr><tr><td>
@@ -190,8 +190,3 @@ Most recent time when the alert information or state was updated.
 
 **Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-alert-overview-tab.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[alert-priority-group|Priority group]]
-- [[t_EMCloseAlert|Close an alert]]

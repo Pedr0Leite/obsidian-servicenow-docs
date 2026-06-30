@@ -12,7 +12,7 @@ breadcrumb: [Business units, Business Planning Portal, Strategic Portfolio Manag
 
 # Create business units
 
-Create a business unit to define your organizational functions. A business unit is also necessary to set up the top-most segment in the hierarchy to create roll up rules and have expenses roll up to these [[c_BusinessUnits|business units]].
+Create a business unit to define your organizational functions. A business unit is also necessary to set up the top-most segment in the hierarchy to create roll up rules and have expenses roll up to these business units.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ Role required: business\_planner
     2.  Locate the **Departments** item in the **Available** box and move it to the **Selected** box.
     3.  Select **Save**.
 
-## Related
-
-- [[c_BusinessUnits|Business units]]

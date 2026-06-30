@@ -14,7 +14,7 @@ breadcrumb: [Understanding Service Portal, Exploring Service Portal, Service Por
 
 # Service Portal configuration page
 
-Most [[c_ServicePortal|Service Portal]] configuration is accessible through the Service Portal configuration page landing page.
+Most Service Portal configuration is accessible through the Service Portal configuration page landing page.
 
 In your instance, access the Service Portal configuration page by navigating to **Service Portal** &gt; **Service Portal configuration**. The Service Portal configuration page opens in a new tab in your browser.
 
@@ -26,6 +26,3 @@ Use each option on the Service Portal config page to set up the different parts 
 
 **Parent Topic:**[Understanding Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-what-to-know.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

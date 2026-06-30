@@ -31,7 +31,7 @@ For information about how administrators configure the translation API, see [Dyn
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[translation-management|Translation Management]]** &gt; **My Assigned Tasks**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Translation Management** &gt; **My Assigned Tasks**.
 
 2.  In the Knowledge Translation Tasks page, select one of the listed translation tasks assigned to you.
 
@@ -56,6 +56,3 @@ The newly created draft is listed in the **Translated Versions** tab.
 
 **Parent Topic:**[Use translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-translation-management.md)
 
-## Related
-
-- [[translation-management|Translation management]]

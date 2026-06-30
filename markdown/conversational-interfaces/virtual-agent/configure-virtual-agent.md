@@ -15,9 +15,9 @@ breadcrumb: [Virtual Agent, Conversational Interfaces]
 
 # Configuring Virtual Agent
 
-Configure the [[virtual-agent-landing-page|Virtual Agent]] features, components, and integrations that you need to provide support to your employees, IT teams, and customers.
+Configure the Virtual Agent features, components, and integrations that you need to provide support to your employees, IT teams, and customers.
 
-Use the [[ci-console|Conversational Interfaces Console]] to activate and configure Virtual Agent. Some of the general settings in the console are shared with other applications, such as [[ci-use-agent-chat|Agent Chat]].
+Use the Conversational Interfaces Console to activate and configure Virtual Agent. Some of the general settings in the console are shared with other applications, such as Agent Chat.
 
 <table id="table_kbf_kxv_fsb"><thead><tr><th>
 
@@ -37,7 +37,7 @@ Brand my bot
 
 </td><td>
 
-[[branding-chat-client|Branding your chat client]]
+[Branding your chat client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/branding-chat-client.md)
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Preview new or unread messages in a minimized chat window
 
 </td><td>
 
-[[web-client-message-preview|Enable message preview on the chat widget]]
+[Enable message preview on the chat widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/web-client-message-preview.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -61,11 +61,11 @@ Configure my bot to run in third-party messaging apps
 
 </td></tr><tr><td>
 
-Create pre-[[ci-conversational-chat-surveys|chat surveys]]
+Create pre-chat surveys
 
 </td><td>
 
-[[ac-configure-pre-chat-surveys|Define pre-chat survey configurations]]
+[Define pre-chat survey configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-pre-chat-surveys.md)
 
 </td></tr><tr><td>
 
@@ -73,7 +73,7 @@ Create and use context variables to store chat-related information
 
 </td><td>
 
-[[ac-configure-context-variables|Configure context variables for storing chat-related information]]
+[Configure context variables for storing chat-related information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md)
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Configure topic context intents
 
 </td><td>
 
-[[ac-configure-context-topic-intent|Define topic context intent configurations]]
+[Define topic context intent configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-topic-intent.md)
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -101,7 +101,7 @@ Modify system chat messages
 
 </td><td>
 
-[[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
+[Change Virtual Agent and Agent Chat system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md)
 
 </td></tr><tr><td>
 
@@ -109,7 +109,7 @@ Specify how links open from the chat window
 
 </td><td>
 
-[[url-navigation-ci|URL navigation in Conversational Interfaces]]
+[URL navigation in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/url-navigation-ci.md)
 
 </td></tr><tr><td>
 
@@ -232,16 +232,3 @@ Create or change custom categories for organizing and grouping related Virtual A
 
 **Parent Topic:**[Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/virtual-agent-landing-page.md)
 
-## Related
-
-- [[branding-chat-client|Branding your chat client]]
-- [[web-client-message-preview|Enable message preview on the chat widget]]
-- [[ac-configure-pre-chat-surveys|Define pre-chat survey configurations]]
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[ac-configure-context-topic-intent|Define topic context intent configurations]]
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[url-navigation-ci|URL navigation in Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-console|Conversational Interfaces Console]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[ci-conversational-chat-surveys|Chat surveys]]

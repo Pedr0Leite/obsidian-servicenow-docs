@@ -15,7 +15,7 @@ breadcrumb: [Administer, Card Data Security, Dispute Management, Banking applica
 
 # Manage Tokenizer Resource Configurations
 
-The Tokenizer Resource Configurations table contains entries for each endpoint that sends and receives tokenized data. It defines which REST message function [[card-data-security|Card Data Security]] uses based on the API path, HTTP method, and target system.
+The Tokenizer Resource Configurations table contains entries for each endpoint that sends and receives tokenized data. It defines which REST message function Card Data Security uses based on the API path, HTTP method, and target system.
 
 Each endpoint entry has an associated REST message function. These REST messages are defined in the REST Message table. See [Set up tokenized REST message record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-rest-message-function.md) for more information.
 
@@ -41,6 +41,3 @@ If you create a new HTTP method for a REST Message entry, you need to create an 
 
 **Parent Topic:**[Managing Card data security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-card-data-security.md)
 
-## Related
-
-- [[card-data-security|Card Data Security]]

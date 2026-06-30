@@ -14,7 +14,7 @@ breadcrumb: [Legacy service catalog access controls, Service Catalog security, C
 
 # Restrict access
 
-[[service-catalog|Service Catalog]] enables an administrator to grant or deny access to a service catalog item or category by company, department, group, user, or location.
+Service Catalog enables an administrator to grant or deny access to a service catalog item or category by company, department, group, user, or location.
 
 ## Before you begin
 
@@ -114,6 +114,3 @@ Role required: admin
     1.  Navigate to **Service Catalog** &gt; **Properties**.
     2.  Enter the roles for which to override the entitlement script \(grant access\) in the property List of roles \(comma-separated\) that can override normal entitlement checking inside the catalog. An itil role of "itil" means that the itil role can order any catalog item, even one protected by entitlement restrictions.
 
-## Related
-
-- [[service-catalog|Service Catalog]]

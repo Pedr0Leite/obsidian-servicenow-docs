@@ -14,27 +14,18 @@ ServiceNow AI Platform® user interface product enhancements and updates in the 
 
 These release notes describe product enhancements for core platform functionality in user interfaces, such as lists and forms.
 
--   **[[adoption-services-rn|Adoption Services release notes]]**  
+-   **[Adoption Services release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/adoption-services-rn.md)**  
 The ServiceNow® Adoption Services application is a suite of solutions, both products and features, that provide user support and critical information when a user needs it most. Adoption Services was enhanced and updated in the Australia release.
--   **[[configurable-workspace-rn|Configurable Workspace release notes]]**  
+-   **[Configurable Workspace release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/configurable-workspace-rn.md)**  
 The ServiceNow® Configurable Workspace application provides tools to agents, case managers, help desk professionals, and managers for answering customer questions and resolving customer problems. Configurable Workspace was enhanced and updated in the Australia release.
--   **[[content-management-system-release-notes-rn|Content Management System release notes]]**  
+-   **[Content Management System release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/content-management-system-release-notes-rn.md)**  
 The Content Management System \(CMS\) is a ServiceNow application that enables users to create a custom interface for the ServiceNow platform and ServiceNow applications. This application can no longer be activated and will be deprecated in the C release \(GA\).
--   **[[next-experience-rn|Next Experience release notes]]**  
+-   **[Next Experience release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/next-experience-rn.md)**  
 The ServiceNow® Next Experience application delivers an intuitive, personalized experience that enables your organization to drive productivity, improve engagement, and inspire learning with the ServiceNow AI Platform®. Next Experience was enhanced and updated in the Australia release.
--   **[[service-portal-rn|Service Portal release notes]]**  
+-   **[Service Portal release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/service-portal-rn.md)**  
 The ServiceNow® Service Portal application enables you to build mobile-friendly self-service experiences for your customers and employees with a modular portal framework. Service Portal was enhanced and updated in the Australia release.
--   **[[theme-builder-rn|Theme Builder release notes]]**  
+-   **[Theme Builder release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/theme-builder-rn.md)**  
 The ServiceNow® Theme Builder application enables you to customize the visual experience for your users so that you can update the look and feel to be more like your brand. Theme Builder was enhanced and updated in the Australia release.
 
-**Parent Topic:**[[new-features-changes|Features and changes by product]]
+**Parent Topic:**[Features and changes by product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/new-features-changes.md)
 
-## Related
-
-- [[adoption-services-rn|Adoption Services release notes]]
-- [[configurable-workspace-rn|Configurable Workspace release notes]]
-- [[content-management-system-release-notes-rn|Content Management System release notes]]
-- [[next-experience-rn|Next Experience release notes]]
-- [[service-portal-rn|Service Portal release notes]]
-- [[theme-builder-rn|Theme Builder release notes]]
-- [[new-features-changes|Features and changes by product]]

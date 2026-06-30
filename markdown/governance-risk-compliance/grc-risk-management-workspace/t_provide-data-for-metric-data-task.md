@@ -22,7 +22,7 @@ Role required: sn\_grc\_metric.user, sn\_risk.reader, and sn\_compliance.reader
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics** &gt; **My metric data tasks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Metrics** &gt; **My metric data tasks**.
 
 2.  Open the task for which you want to provide the data.
 
@@ -96,6 +96,3 @@ Additional information for the metric data.
 
 **Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

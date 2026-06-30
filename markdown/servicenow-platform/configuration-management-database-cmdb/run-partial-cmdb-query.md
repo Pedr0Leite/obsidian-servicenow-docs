@@ -14,7 +14,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Run a partial CMDB query
 
-You can run a partial query in the [[cmdb-query-builder-landing-page|CMDB Query Builder]] by defining a section of a query, and then running it.
+You can run a partial query in the CMDB Query Builder by defining a section of a query, and then running it.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ While building a query or reviewing a saved query, you can run only a section of
 
 The results of the partial query appear in the Results pane.
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

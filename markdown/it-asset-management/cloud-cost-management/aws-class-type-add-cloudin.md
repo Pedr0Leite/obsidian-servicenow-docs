@@ -22,9 +22,9 @@ Role required: Cloud Insights Admin \[sn\_clin\_core.insights\_admin\]
 
 ## About this task
 
-Billing Download jobs store downloaded billing data in the billing node table. The Class Type table holds CI type definitions for the cost usage table. [[cloud-insights-landing-page|Cloud Cost Management]] executes the CI placement process to associate the billing and usage data with CIs in the CMDB. The CI placement process queries the billing node table using the CI type definitions that reside in the CI placement type table. For a new CI \(or a CI type from a new provider\), you specify the parameters that uniquely define the CI, a CI type definition, and a class type table to store the CI type definition.
+Billing Download jobs store downloaded billing data in the billing node table. The Class Type table holds CI type definitions for the cost usage table. Cloud Cost Management executes the CI placement process to associate the billing and usage data with CIs in the CMDB. The CI placement process queries the billing node table using the CI type definitions that reside in the CI placement type table. For a new CI \(or a CI type from a new provider\), you specify the parameters that uniquely define the CI, a CI type definition, and a class type table to store the CI type definition.
 
-**Important:** If the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application is installed, you can't add a new AWS CI class type. However, you can use the existing CI class types.
+**Important:** If the Cloud Cost Management Infra Stack application is installed, you can't add a new AWS CI class type. However, you can use the existing CI class types.
 
 The CI placement type table for AWS \[sn\_cld\_intg\_aws\_ci\_placement\_type\] inherits from the Core CI placement type table \(sn\_cld\_intg\_core\_ci\_placement\_type\).
 
@@ -89,7 +89,4 @@ Parameter values in the billing node table that uniquely define the CI type.
 
     **Note:** The supported CIs are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. For more information, see [Supported CI class types for Amazon AWS Cloud services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/aws-supported-ci-class-types.md).
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]

@@ -20,19 +20,11 @@ Customers are able to pull the app for iOS or Android from the Apple App store a
 
 Mobile app distribution providers:
 
--   Airwatch: For more information, see [[airwatch-mdm|AirWatch Mobile Device Management \(MDM\)]]
--   Blackberry: For more information, see [[blackberry-uem|BlackBerry Unified Endpoint Management \(UEM\)]]
--   Intune: For more information, see [[intune-mdm|Intune mobile device management \(MDM\)]]
--   IBM: For more information, see [[IBM-MaaS360-mdm|IBM Maas360 mobile device management \(MDM\)]]
--   MobileIron - For more information, see [[mobileiron-mdm|MobileIron Mobile Device Management \(MDM\)]]
+-   Airwatch: For more information, see [AirWatch Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/airwatch-mdm.md)
+-   Blackberry: For more information, see [BlackBerry Unified Endpoint Management \(UEM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/blackberry-uem.md)
+-   Intune: For more information, see [Intune mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/intune-mdm.md)
+-   IBM: For more information, see [IBM Maas360 mobile device management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/IBM-MaaS360-mdm.md)
+-   MobileIron - For more information, see [MobileIron Mobile Device Management \(MDM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobileiron-mdm.md)
 
-**Parent Topic:**[[sg-mobile-security|Device security for ServiceNow Mobile apps]]
+**Parent Topic:**[Device security for ServiceNow Mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security.md)
 
-## Related
-
-- [[airwatch-mdm|Workspace ONE UEM Mobile Device Management \(MDM\)]]
-- [[blackberry-uem|BlackBerry Unified Endpoint Management \(UEM\)]]
-- [[intune-mdm|Intune mobile device management \(MDM\)]]
-- [[IBM-MaaS360-mdm|IBM MaaS360 mobile device management \(MDM\)]]
-- [[mobileiron-mdm|MobileIron Mobile Device Management \(MDM\)]]
-- [[sg-mobile-security|Device security for ServiceNow Mobile apps]]

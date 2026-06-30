@@ -16,7 +16,7 @@ You can view the dynamic related records in the playbook contextual side panel i
 
 ## Using related records in Service Request Playbook
 
-You can view, search, and sort the records in the **Related Records** tab in the contextual side panel after you create a service request record. For details on how to create a record, see [[psds-playbook-create-record|Create a service request record using playbooks in Public Sector Digital Services]].
+You can view, search, and sort the records in the **Related Records** tab in the contextual side panel after you create a service request record. For details on how to create a record, see [Create a service request record using playbooks in Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-create-record.md).
 
 The **Related Records** tab displays the related records that dynamically change based on the context of the current record or playbook activity. The records that are displayed in the **Related Records** tab depend on the following settings:
 
@@ -157,7 +157,7 @@ Select the type of related record to view
 
 </td><td>
 
-Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [[psds-playbook-customizing-rel-records-view|Customize the related records view in Service Request Playbook]].
+Filter at the top of the Related Records list where you can select the type of related records to view. You can also use the filter to see the current selection. For more information, see [Customize the related records view in Service Request Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-playbook-customizing-rel-records-view.md).
 
 </td></tr><tr><td>
 
@@ -193,8 +193,3 @@ New record for the record type that is currently selected in the Related Records
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-playbook-create-record|Create a service request record using Service Request Playbook]]
-- [[psds-playbook-customizing-rel-records-view|Customize the related records view in Service Request Playbook]]

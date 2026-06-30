@@ -14,7 +14,7 @@ breadcrumb: [Administering Spotlight, Ranking records with Spotlight, Configure 
 
 # Spotlight database views
 
-Spotlight ensures that a database view joins the Spotlight \[spotlight\] table and the facts table whose records the Spotlight group evaluates. You need this database view to use [[spotlight-interactive-analysis|Spotlight interactive analysis]]. Administrators can access this database view to create reports or to diagnose problems.
+Spotlight ensures that a database view joins the Spotlight \[spotlight\] table and the facts table whose records the Spotlight group evaluates. You need this database view to use Spotlight interactive analysis. Administrators can access this database view to create reports or to diagnose problems.
 
 After creating the database view, Spotlight adds a reference to it in the related Spotlight Group record on the Spotlight Group \[spotlight\_groups\] table. The reference consists of the primary key field value of the database view, which is in the database\_view column of the record.
 
@@ -46,6 +46,3 @@ When creating, modifying, or deleting database views, Spotlight runs these busin
 
 [Database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseViews.md)
 
-## Related
-
-- [[spotlight-interactive-analysis|Spotlight interactive analysis]]

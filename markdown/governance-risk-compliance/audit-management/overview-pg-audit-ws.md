@@ -23,13 +23,10 @@ Use the overview page to get the necessary details and monitor the state flow of
 -   define and scope an audit engagement
 -   assign team members to it
 -   perform and review fieldwork
--   [[manage-issues-common-core|manage issues]]
+-   manage issues
 -   complete the audit engagement using the different related items
 
 Select the \[Omitted image "pc-ws-sidebar-icon.png"\] Alt text: Sidebar icon icon to view the scope of the engagement.
 
 \[Omitted image "engagement-aw-record-pg.png"\] Alt text: Overview of an audit engagement.
 
-## Related
-
-- [[manage-issues-common-core|Manage issues]]

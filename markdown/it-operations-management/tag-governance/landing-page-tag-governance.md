@@ -38,7 +38,7 @@ A tag is a key-value pair that is assigned to a CI or cloud resource. Your organ
 
 </td></tr><tr><td>
 
-[Updating cloud tags\[Omitted image "bus-cloud-upload.svg"\] Alt text: Real-time updates to [[cloud-tagging|tags for cloud resources]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-governance-real-time-updates.md)
+[Updating cloud tags\[Omitted image "bus-cloud-upload.svg"\] Alt text: Real-time updates to tags for cloud resources.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/tag-governance/tag-governance-real-time-updates.md)
 
 </td><td>
 
@@ -55,6 +55,3 @@ A tag is a key-value pair that is assigned to a CI or cloud resource. Your organ
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[cloud-tagging|Tags for cloud resources]]

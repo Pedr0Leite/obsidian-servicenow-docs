@@ -20,7 +20,7 @@ Role required: dynamic\_schema\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dynamic-schema|Dynamic Schema]]** &gt; **Dynamic Choice Sets**.
+1.  Navigate to **All** &gt; **Dynamic Schema** &gt; **Dynamic Choice Sets**.
 
 2.  Select the dynamic choice set that you want to update.
 
@@ -64,9 +64,5 @@ A dynamic choice is added to the dynamic choice set.
 
 ## What to do next
 
-Add more choices as needed. [[add-dynamic-attributes|Create a dynamic attribute]] whose values are derived from the dynamic choice set.
+Add more choices as needed. Create a dynamic attribute whose values are derived from the dynamic choice set.
 
-## Related
-
-- [[dynamic-schema|Dynamic Schema]]
-- [[add-dynamic-attributes|Create a dynamic attribute]]

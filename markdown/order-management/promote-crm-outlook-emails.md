@@ -16,7 +16,7 @@ Configure email promotion so that emails associated with CRM records through the
 
 ## Before you begin
 
-**Note:** Configuring email promotion is required if you're on [[explore-crm-outlook-add-in|CRM Outlook Add-in]] application version 1.0.1.
+**Note:** Configuring email promotion is required if you're on CRM Outlook Add-in application version 1.0.1.
 
 Role required: admin
 
@@ -28,11 +28,11 @@ Role required: admin
 
     1.  Set the application scope to **Global**.
 
-    2.  Navigate to **All** &gt; **User Mailboxes** &gt; **Promotion [[rules_101|Rules]]**.
+    2.  Navigate to **All** &gt; **User Mailboxes** &gt; **Promotion Rules**.
 
     3.  Select **New**.
 
-    4.  On the form, fill in the [[fields|fields]].
+    4.  On the form, fill in the fields.
 
 <table id="table-promotion-rule"><thead><tr><th>
 
@@ -156,11 +156,5 @@ When an agent associates an email with a CRM record through the Microsoft Outloo
 
 [Classic Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/c_BusinessRules.md)
 
-[[view-associated-emails-crm|Track emails linked from Microsoft Outlook]]
+[Track emails linked from Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-associated-emails-crm.md)
 
-## Related
-
-- [[view-associated-emails-crm|Track emails linked from Microsoft Outlook]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]

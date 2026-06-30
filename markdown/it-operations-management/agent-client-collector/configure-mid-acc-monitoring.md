@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Configure a MID Server to work with Agent Client Collector Monitoring
 
-Connect agents to a MID Server to enable [[acc-monitoring-landing-page|Agent Client Collector Monitoring]] \(ACC-M\) functionality.
+Connect agents to a MID Server to enable Agent Client Collector Monitoring \(ACC-M\) functionality.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-For details on [[agent-client-collector-configuring|configuring Agent Client Collector]] for log monitoring, see [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md).
+For details on configuring Agent Client Collector for log monitoring, see [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Deployment** &gt; **MID Servers**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Deployment** &gt; **MID Servers**.
 
 2.  Select the MID Server that you want to connect to the agent.
 
@@ -44,8 +44,3 @@ A confirmation window appears, indicating that the MID Server is connected to th
 
 [Configure multiple MID Servers to work with Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/configure-multiple-mid-acc-monitoring.md)
 
-## Related
-
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[agent-client-collector-configuring|Configuring Agent Client Collector]]
-- [[acc-landing-page|Agent Client Collector]]

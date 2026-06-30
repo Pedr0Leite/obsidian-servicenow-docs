@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics, ITOM AIOps, IT Operations Management]
 
 # Configuring Health Log Analytics
 
-As an administrator, set up and configure [[hla-landing-page|Health Log Analytics]] for operators to use, and carry out administration tasks to confirm that the system runs efficiently.
+As an administrator, set up and configure Health Log Analytics for operators to use, and carry out administration tasks to confirm that the system runs efficiently.
 
 ## Configuration overview
 
@@ -76,9 +76,5 @@ Implement Health Log Analytics on your ServiceNow instance.
 -   **[Administering Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-administer.md)**  
 This section covers tasks involved in Health Log Analytics administration. It provides you with information needed to keep Health Log Analytics running efficiently.
 
-**Parent Topic:**[[itom-health-landing-page|ITOM AIOps]]
+**Parent Topic:**[ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-landing-page.md)
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]

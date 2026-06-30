@@ -14,7 +14,7 @@ breadcrumb: [Upgrading legacy sets, Configure, Instance Data Replication, Manage
 
 # Rolling back an upgrade in Instance Data Replication
 
-If a problem occurs during an upgrade to V2, the upgrade is rolled back in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+If a problem occurs during an upgrade to V2, the upgrade is rolled back in Instance Data Replication \(IDR\).
 
 **Important:** Legacy replication sets are deprecated in the Zurich release. To continue replicating data, you must upgrade all legacy replication sets to V2.
 
@@ -31,6 +31,3 @@ For example, when the consumer instance identifies the most recent message in th
 
 **Parent Topic:**[Upgrading legacy replication sets to V2 in Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/upgrading-legacy-replication-sets-v2.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

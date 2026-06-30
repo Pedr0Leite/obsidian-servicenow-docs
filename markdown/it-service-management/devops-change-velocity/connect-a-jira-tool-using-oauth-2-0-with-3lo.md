@@ -22,7 +22,7 @@ Role required: sn\_devops.admin, credential\_admin, &amp; sn\_jira\_spoke.jira\_
 
 ## About this task
 
-When [[devops-landing-page-new|DevOps Change Velocity]] is installed, the following records are created automatically.
+When DevOps Change Velocity is installed, the following records are created automatically.
 
 -   The ServiceNow 3LO integration app is created. Authorize your Jira account through this app.
 -   An OAuth application registry record called **DevOps Jira Cloud OAuth Application** is created and pre-populated with the Client ID, Client Secret, and other required fields.
@@ -134,6 +134,3 @@ Order to apply this credential. For example, `100`.
 
 **Parent Topic:**[Onboard Jira to DevOps Change Velocity — Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/create-jira-tool-dev-ops.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

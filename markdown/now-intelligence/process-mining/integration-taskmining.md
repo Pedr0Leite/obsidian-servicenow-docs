@@ -14,9 +14,9 @@ breadcrumb: [Integration, Activate, Process Mining, Platform Analytics]
 
 # Integration with Task Mining
 
-Use the [[task-mining|Task Mining]] integration to create Task Mining projects and run analyses directly from the [[analyst-workbench-overview|Process Mining Workspace]].
+Use the Task Mining integration to create Task Mining projects and run analyses directly from the Process Mining Workspace.
 
-Task Mining projects created from [[process-mining|Process Mining]] projects enable you to get task level insights across workstation apps, including third parties.
+Task Mining projects created from Process Mining projects enable you to get task level insights across workstation apps, including third parties.
 
 While working in the Analyst Workbench, a Process Mining analyst can select a process node or improvement opportunity to create a pre-filled Task Mining project. A confirmation page displays relevant context — such as the users whose tasks will be collected — for the analyst to review and submit. Task Mining then reports project status updates back to the Process Mining Workspace.
 
@@ -29,8 +29,3 @@ Generate a Task Mining project analysis from the Process Mining Workspace by sel
 
 **Parent Topic:**[Integrating Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrating-process-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[process-mining|Process Mining]]

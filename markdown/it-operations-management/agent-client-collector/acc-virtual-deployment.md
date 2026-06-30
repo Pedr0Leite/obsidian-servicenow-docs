@@ -14,7 +14,7 @@ breadcrumb: [ACC installation, ACC deployment - servers, Configuring Agent Clien
 
 # Incorporating the Agent Client Collector into a custom base image for mass deployment
 
-Deploy the [[acc-landing-page|Agent Client Collector]] on a virtual machine during mass deployment using the machine's base image. Mass deployment uses silent installation, which hides installation status.
+Deploy the Agent Client Collector on a virtual machine during mass deployment using the machine's base image. Mass deployment uses silent installation, which hides installation status.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ Role required: agent\_client\_collector\_admin
     -   In a Windows environment: Run the command `sc start AgentClientCollector`
     -   In a Linux environment: Run the command `sudo systemctl start acc`
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

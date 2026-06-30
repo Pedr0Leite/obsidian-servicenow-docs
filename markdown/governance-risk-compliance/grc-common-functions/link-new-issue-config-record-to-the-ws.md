@@ -14,7 +14,7 @@ breadcrumb: [Issue Page Configuration module, Landing Page Configurations module
 
 # Link a new Issue Page Configuration record to a workspace
 
-[[create-new-issue-page-configuration|Create a new Issue Page Configuration record]] and link it from the classic user interface to the desired workspace. After linking the Issue Page Configuration record, the workspace view displays the new settings in the Issues overview landing page.
+Create a new Issue Page Configuration record and link it from the classic user interface to the desired workspace. After linking the Issue Page Configuration record, the workspace view displays the new settings in the Issues overview landing page.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ The new issue page configuration setting is displayed in the desired workspace v
 
 **Parent Topic:**[Issue Page Configuration module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/issue-page-config-record.md)
 
-## Related
-
-- [[create-new-issue-page-configuration|Create a new Issue Page Configuration record]]

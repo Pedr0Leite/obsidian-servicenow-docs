@@ -31,8 +31,5 @@ Use the Resource Configuration form in BCM UIB Workspace to add details about a 
 |Display Fields|Fields selected for display as the contacts.|
 |Conditions|Conditions for filtering records from the table.|
 
-**Parent Topic:**[[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]]
+**Parent Topic:**[Configure Resource Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-resource-for-crisis-map-uib-ws.md)
 
-## Related
-
-- [[conf-resource-for-crisis-map-uib-ws|Configure Resource Configuration records]]

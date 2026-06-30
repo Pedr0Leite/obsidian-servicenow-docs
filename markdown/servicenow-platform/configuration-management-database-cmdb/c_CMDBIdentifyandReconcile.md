@@ -52,7 +52,7 @@ The Identification and Reconciliation module provides a centralized framework fo
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Properties and tables associated with IRE, and how [[domain-separation-relationship-formatter-editor|domain separation]] is supported in IRE functions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Properties and tables associated with IRE, and how domain separation is supported in IRE functions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -66,9 +66,9 @@ The Identification and Reconciliation \(IRE\) module provides a centralized fram
 -   **[Configuring CMDB Identification and Reconciliation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/configuring-ire.md)**  
 Configure the necessary rules for CMDB Identification and Reconciliation \(IRE\) to function effectively.
 -   **[Applying IRE to Import Sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/identification-import-sets.md)**  
-You can apply CMDB [[ire|Identification and Reconciliation Engine \(IRE\)]] processes when Import Sets are used to import CIs into the CMDB. CI identification can prevent duplicate CIs in the CMDB, which Import Sets might otherwise cause.
+You can apply CMDB Identification and Reconciliation Engine \(IRE\) processes when Import Sets are used to import CIs into the CMDB. CI identification can prevent duplicate CIs in the CMDB, which Import Sets might otherwise cause.
 -   **[Detecting duplicate CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/id-detect-dup-ci.md)**  
-When IRE identification process detects duplicate CIs, it groups each set of duplicate CIs into a de-duplication task for review and remediation. A large number of duplicate CIs might be due to weak [[c_IdentificationRules|identification rules]]. You can configure the identification engine to reconcile duplicate CIs.
+When IRE identification process detects duplicate CIs, it groups each set of duplicate CIs into a de-duplication task for review and remediation. A large number of duplicate CIs might be due to weak identification rules. You can configure the identification engine to reconcile duplicate CIs.
 -   **[Using identification simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/identification-simulation.md)**  
 Identification simulation is a central location for automatically constructing a payload that is guaranteed to be complete and valid. You can then simulate the processing of the payload by the Identification and Reconciliation Engine \(IRE\) and examine the results before actually submitting it for execution by IRE.
 -   **[View a reclassification task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_ViewReclassificationTask.md)**  
@@ -80,9 +80,3 @@ Reference topics provide property settings, domain separation, and other referen
 
 **Parent Topic:**[Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ITILConfigurationManagement.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[reference|Reference]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]

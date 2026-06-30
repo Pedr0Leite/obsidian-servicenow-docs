@@ -14,7 +14,7 @@ breadcrumb: [Configure the problem form, Configuring Problem Management, Problem
 
 # Redesign the problem form
 
-The form designer allows you to customize elements in the [[problem-form|problem form]] to create different form views, display a field navigator, or provide field properties.
+The form designer allows you to customize elements in the problem form to create different form views, display a field navigator, or provide field properties.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Form design is an alternative to configuring forms that combines several configu
 
 **Parent Topic:**[Configure the problem form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-configure-forms.md)
 
-## Related
-
-- [[problem-form|Problem form]]

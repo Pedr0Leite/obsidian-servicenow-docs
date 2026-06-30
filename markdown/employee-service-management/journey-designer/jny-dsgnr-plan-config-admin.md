@@ -14,7 +14,7 @@ breadcrumb: [Configure Journey designer features, Configure, Journey designer, E
 
 # Setup the Journey designer plan configuration review and approval process
 
-ServiceNow administrators configure the [[jny-dsgnr-landing-page-1|Journey designer]] plan configuration feature and process.
+ServiceNow administrators configure the Journey designer plan configuration feature and process.
 
 Administrators assign the initial owners and approvers to Journey designer plan configurations.
 
@@ -25,7 +25,7 @@ Administrators can assign owners and approvers of plan configurations associated
 **Important:** It’s optional to assign owners and approvers to a plan configuration. Administrators have full capabilities to update and create plan configurations regardless whether there’s an assigned owner.
 
 -   **[Create Journey designer plan configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-create-mng-decentrlzd-template-configs.md)**  
-[[jny-dsgnr-create-journey|Create a Journey]] designer plan configuration in Journey designer version 2.
+Create a Journey designer plan configuration in Journey designer version 2.
 -   **[Assign owners and approvers to a journey configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-assign-pconfig-owner-approver.md)**  
 In Journey designer, administrators assign the initial owners and approvers to a plan configuration.
 -   **[Change Journey designer plan configuration owners or approvers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-change-pconfig-owners-approvers.md)**  
@@ -33,7 +33,3 @@ Administrators can change a plan configuration owner or approver.
 
 **Parent Topic:**[Configure Journey designer features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-configuration.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-dsgnr-create-journey|Create a journey]]

@@ -18,7 +18,7 @@ The Australia Patch 2 release contains important problem fixes.
     -   Build date: 04-29-2026\_2044
     -   Build tag: glide-australia-02-11-2026\_\_patch2-04-17-2026
 
-**Important:** For more information about how to upgrade an instance, see [[upgrade|ServiceNow upgrades]].
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -63,7 +63,7 @@ Australia Patch 2 includes fixes for security-related problems that affected cer
     Live Archive \(formerly Data Archiving\) moves records and attachments to object storage, freeing up space in the primary database while keeping data accessible for compliance and reporting. This capability improves query performance and provides scalable storage for large archives.
 
 -   ****
--   **[[now-assist-rn-landing|Now Assist and agentic AI release notes]]**
+-   **[Now Assist and agentic AI release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-rn-landing.md)**
 
     For Now Assist new features and changes, see [Now Assist and agentic AI release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/now-assist-rn-landing.md).
 
@@ -6136,16 +6136,10 @@ Attachments added through questionnaires aren't reflected/updated on the corresp
 
 Unless any exceptions are noted, you can safely upgrade to this release version from any of the versions listed below. These prior versions contain PRB fixes that are also included with this release. Be sure to upgrade to the latest listed patch that includes all of the PRB fixes you are interested in.
 
--   [[australia-patch-1|Australia Patch 1]]
+-   [Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md)
 -   [Australia EA Hotfix 1](https://www.servicenow.com/docs/r/release-notes/australia-patch-0-hf-1-PO.html)
 -   [Australia security and notable fixes](https://www.servicenow.com/docs/r/release-notes/australia-security-notables.html)
 -   [All other Australia fixes](https://www.servicenow.com/docs/r/release-notes/australia-all-other-fixes.html)
 
-**Parent Topic:**[[available-versions|Available patches and hotfixes]]
+**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/available-versions.md)
 
-## Related
-
-- [[upgrade|ServiceNow upgrades]]
-- [[now-assist-rn-landing|Now Assist and agentic AI release notes]]
-- [[australia-patch-1|Australia Patch 1]]
-- [[available-versions|Available patches and hotfixes]]

@@ -14,13 +14,13 @@ breadcrumb: [Explore, Change Management, IT Service Management]
 
 # Upgrade Change Management
 
-Follow these instructions to upgrade your [[c_ITILChangeManagement|Change Management]] system.
+Follow these instructions to upgrade your Change Management system.
 
 ## Before you begin
 
-Prior to Geneva, Change Request installed the [[c_ConflictDetection|Conflict Detection]], Best Practice Change Risk Calculator, Change [[c_RskAsmtCalc|Risk Assessment]], and Bulk CI Changes plugins by default.
+Prior to Geneva, Change Request installed the Conflict Detection, Best Practice Change Risk Calculator, Change Risk Assessment, and Bulk CI Changes plugins by default.
 
-For new instances from Geneva onwards, the [[c_StandardChangeCatalogPlugin|Standard change catalog]], State Model, and Mass updates CI plugins are also installed by default.
+For new instances from Geneva onwards, the Standard change catalog, State Model, and Mass updates CI plugins are also installed by default.
 
 Role required: admin
 
@@ -32,7 +32,7 @@ Role required: admin
 
         Also consider the following consequences of activating Change Management core and the subsequent changes you might need to make to best suit your organization's requirements:
 
-        -   The previous [[change-types|change types]] are updated from routine, comprehensive, and emergency to standard, normal, and emergency respectively. Analyze customizations that you may have performed that [[reference-for-itsm-mobile-agent|reference]] old change type values since they are affected and require updating.
+        -   The previous change types are updated from routine, comprehensive, and emergency to standard, normal, and emergency respectively. Analyze customizations that you may have performed that reference old change type values since they are affected and require updating.
         -   When Change management core is activated, the change types are updated.
     -   Perform the following tasks after you activate Change management core to ensure that change types and customizations are updated if you already upgraded from a release prior to Geneva.
 
@@ -43,11 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Exploring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/exploring-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_ConflictDetection|Conflict detection]]
-- [[c_RskAsmtCalc|Risk assessment]]
-- [[c_StandardChangeCatalogPlugin|Standard change catalog]]
-- [[change-types|Change types]]
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Case and incident deflection, Build and deploy, Virtual Agent, Conv
 
 # Using the deflection topic block to track deflections in Virtual Agent
 
-Use the pre-built deflection topic block in ServiceNow® [[virtual-agent-landing-page|Virtual Agent]] to track the issues that Virtual Agent helped to resolve or actually resolved for a user. Incident deflection patterns and metrics can help you optimize and analyze the effectiveness of Virtual Agent.
+Use the pre-built deflection topic block in ServiceNow® Virtual Agent to track the issues that Virtual Agent helped to resolve or actually resolved for a user. Incident deflection patterns and metrics can help you optimize and analyze the effectiveness of Virtual Agent.
 
 A deflection occurs when Virtual Agent automatically redirect users to self-service options or knowledge base articles that can help them solve their problems without requiring the assistance of a live agent. As a result, the user might not need to create an incident. If necessary, however, Virtual Agent can ask relevant questions and then create an incident in the correct assignment group. This workflow becomes more efficient because no live agent has to get involved.
 
@@ -52,6 +52,3 @@ Set up deflection settings to create deflection configurations and deflection pa
 
 **Parent Topic:**[Case and incident deflection in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/case-incident-deflection-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -34,12 +34,9 @@ The administrator can change the **sn\_communities.enable\_topics** property so 
 
     -   No topic information is displayed in the **Activity Feed** or **Notifications and Subscriptions**.
     -   No topic information is displayed on the **Forums** or **Topics** landing pages.
-    -   No topic information is displayed on [[communities-gamification|Gamification]] pages and widgets.
+    -   No topic information is displayed on Gamification pages and widgets.
     -   Topic fields do not appear when creating, editing, or viewing content.
     -   Topics do not appear in the search results page.
 
 **Parent Topic:**[Configure community forums](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/configure-forums-topics.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]

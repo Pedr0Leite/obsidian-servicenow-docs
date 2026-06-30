@@ -14,7 +14,7 @@ breadcrumb: [Configure the Tanium environment, Tanium Endpoints, Service Graph C
 
 # Configure a service account
 
-Create a service account to bind the API token that is used by the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]. If a service account for the integration already exists, edit it to assign the required roles.
+Create a service account to bind the API token that is used by the Service Graph Connector for Tanium Endpoints. If a service account for the integration already exists, edit it to assign the required roles.
 
 ## Before you begin
 
@@ -47,6 +47,4 @@ For more information, see [Creating API tokens for ServiceNow](https://help.tani
 
 7.  Select **Save** to complete the configuration.
 
-## Related
 
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]

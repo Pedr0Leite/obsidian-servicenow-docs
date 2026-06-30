@@ -16,7 +16,7 @@ breadcrumb: [HR service categorization, HR Centers of Excellence data model, HR 
 
 Use COE Access Control List \(ACLs\) Configuration to allow specific groups read or write access to HR cases under a specific COE.
 
-For example, you don't want the Benefits group to view the cases created by the Compensation group. You [[hr-create-coe-security-policy|create a COE security policy]] that allows the Compensation group access. Groups that aren't included on the policy cannot access the cases.
+For example, you don't want the Benefits group to view the cases created by the Compensation group. You create a COE security policy that allows the Compensation group access. Groups that aren't included on the policy cannot access the cases.
 
 Use this feature as an alternative to using ACLs rules. For more information on ACLs, see [Access control list rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control-rules.md).
 
@@ -26,7 +26,7 @@ You can still reclassify \(transfer\) HR cases from one HR service to another. D
 
 COE ACL Configuration uses the COE Security Policy \[sn\_hr\_core\_coe\_security\_policy\] table to determine access to the extended HR case tables \(COEs\).
 
-The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the [[hr-case-employee-relations|Employee Relations]] feature. For more information, see [Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-employee-relations.md).
+The \* next to a table indicates it was deprecated for customers taking the Rome release to support a new data model. Existing customers using the legacy COEs and tables are not affected. These tables have been replaced by the Employee Relations feature. For more information, see [Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-case-employee-relations.md).
 
 The tables you can provide security for are:
 
@@ -44,13 +44,13 @@ The tables you can provide security for are:
 |HR Total Rewards Case|sn\_hr\_core\_case\_total\_rewards|
 |HR Workforce Administration Case|sn\_hr\_core\_case\_workforce\_admin|
 |HRIT Operations Case|sn\_hr\_core\_case\_operations|
-|HR [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] Case|sn\_hr\_le\_case|
+|HR Lifecycle Events Case|sn\_hr\_le\_case|
 
 **Note:** You can also provide security to any case table you extend.
 
 To define security for a COE:
 
--   Choose all or specific [[hr-service-administration|HR services]] that fall under a COE.
+-   Choose all or specific HR services that fall under a COE.
 
     **Note:** When you select specific HR services for a COE, the unselected HR services are accessible by the case reader.
 
@@ -62,9 +62,3 @@ To define security for a COE:
 
 **Parent Topic:**[HR service categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-categorization.md)
 
-## Related
-
-- [[hr-create-coe-security-policy|Create a COE security policy]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-service-administration|HR services]]

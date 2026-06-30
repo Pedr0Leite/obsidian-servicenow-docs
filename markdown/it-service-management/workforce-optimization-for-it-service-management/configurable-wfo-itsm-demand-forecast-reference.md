@@ -14,7 +14,7 @@ breadcrumb: [Setting up, Demand Forecast, Scheduling, Workforce Optimization for
 
 # Demand Forecast components in Workforce Optimization for ITSM
 
-[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] installs roles to administer ITSM Manager Workspace Demand Forecast, properties to configure default behavior, scheduled jobs to collect data for the configurations, tables to store data, forecast configurations to collect data for incidents and interactions and a retention policy to store metric data.
+Workforce Optimization for ITSM installs roles to administer ITSM Manager Workspace Demand Forecast, properties to configure default behavior, scheduled jobs to collect data for the configurations, tables to store data, forecast configurations to collect data for incidents and interactions and a retention policy to store metric data.
 
 ## Forecast configurations
 
@@ -223,6 +223,3 @@ Calculates the forecast resources for the future based on the collected data. - 
 </td></tr></tbody>
 </table>**Parent Topic:**[Setting up Demand Forecast in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setting-up-demand-forecast-configurable-wfo-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -51,8 +51,5 @@ The default theme is treated as the first theme that is displayed in the Next Ex
     The default theme appears first in the user's Theme preference.
 
 
-**Parent Topic:**[[tb-apply-theme|Publish your themes with Theme Builder]]
+**Parent Topic:**[Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]

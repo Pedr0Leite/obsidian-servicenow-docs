@@ -14,7 +14,7 @@ breadcrumb: [Mixed alert grouping, Alert grouping types and creation methods, Al
 
 # Related log entities alert grouping
 
-The Related log entities \(formerly known as [[hla-landing-page|Health Log Analytics]] [[c_ServiceAnalyticsOverview|alert grouping]] automatically gathers HLA alerts that originate from the same log query job into a single, organized group. Instead of a scattered collection of individual log-based alerts, your team gets one consolidated view of everything tied to the same underlying log event — speeding up issue response.
+The Related log entities \(formerly known as Health Log Analytics alert grouping automatically gathers HLA alerts that originate from the same log query job into a single, organized group. Instead of a scattered collection of individual log-based alerts, your team gets one consolidated view of everything tied to the same underlying log event — speeding up issue response.
 
 When Health Log Analytics processes log data, a single query job can generate multiple related alerts — each representing a different aspect of the same detected issue, such as a top-level component alert and its associated host-level alerts. Without grouping, these arrive as separate, unconnected notifications.
 
@@ -38,7 +38,3 @@ Use case 1 is good if you want to highlight the cross-component nature of the gr
 
 For details on creating a group automation, see [Create Group automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/group-alert-sow-itom.md).
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

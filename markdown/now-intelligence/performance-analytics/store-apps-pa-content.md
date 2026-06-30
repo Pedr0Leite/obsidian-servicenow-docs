@@ -14,9 +14,9 @@ breadcrumb: [Platform Analytics solutions, Reporting, dashboards, and Performanc
 
 # ServiceNow Store applications with Performance Analytics content
 
-The following applications on the ServiceNow® Store include Performance Analytics components, such as a dashboard showing [[widgets|widgets]] for indicators.
+The following applications on the ServiceNow® Store include Performance Analytics components, such as a dashboard showing widgets for indicators.
 
-Unlike [[content-packs-in-form-analytics-published|Platform Analytics solutions]], these applications include stand-alone functionality. The Performance Analytics components included in the application support this functionality.
+Unlike Platform Analytics solutions, these applications include stand-alone functionality. The Performance Analytics components included in the application support this functionality.
 
 A Performance Analytics administrator may need to reschedule the [data collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md) provided with these applications. Most of the applications do not have historical data collection jobs, and their scheduled jobs are active by default.
 
@@ -62,7 +62,3 @@ DevOps Insights
 
 **Parent Topic:**[Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/content-packs-in-form-analytics-published.md)
 
-## Related
-
-- [[widgets|Widgets]]
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for SLO, Supplier Lifecycle Operations, Finan
 
 # Customize a Now Assist for Supplier Lifecycle Operations \(SLO\) skill for Case summarization
 
-If you have the admin role, you can customize a [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]] skill. By customizing a skill, [[supplier|supplier]] managers can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and in Core UI.
+If you have the admin role, you can customize a Now Assist for Supplier Lifecycle Operations \(SLO\) skill. By customizing a skill, supplier managers can use the generative AI skills in Source-to-Pay Workspace and in Core UI.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ From the Now Assist Admin console, you can select the input table, related recor
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Features** to access the **Now Assist Features** tab of the Now Assist Admin console.
 
-2.  In the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group, select **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** to view the skill for the Now Assist for SLO feature.
+2.  In the **Finance and Supply Chain** workflow group, select **Supplier Lifecycle Operations** to view the skill for the Now Assist for SLO feature.
 
 3.  Create a copy of the skill and customize the input fields.
 
@@ -102,7 +102,7 @@ Description of the base input field value.
 
         You can build the condition out further by selecting **+New condition set** and configuring additional parameters.
 
-    3.  For each input template state, select **+New data source** to configure the additional related table and [[activity-stream|activity stream]] data, as needed.
+    3.  For each input template state, select **+New data source** to configure the additional related table and activity stream data, as needed.
 
         You can add input data sources like related tables, activity streams, and relationships to provide more context to the Now LLM Service. You can also add rule conditions to these additional data sources.
 
@@ -191,11 +191,3 @@ Closed
 
 [Configure skill input for Now Assist for Supplier Lifecycle Operations \(SLO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/now-assist-slo-skill-input-triggers.md)
 
-## Related
-
-- [[now-assist-slo|Now Assist for Supplier Lifecycle Operations \(SLO\)]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[activity-stream|Activity stream]]

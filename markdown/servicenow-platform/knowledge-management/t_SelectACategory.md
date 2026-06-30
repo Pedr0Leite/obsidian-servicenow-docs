@@ -22,11 +22,11 @@ Role required:
 
 ## About this task
 
-As a knowledge contributor, when editing a knowledge article you can select categories using the Category picker, and add or [[pace-edit-category|edit categories]] if enabled for the knowledge base.
+As a knowledge contributor, when editing a knowledge article you can select categories using the Category picker, and add or edit categories if enabled for the knowledge base.
 
 ## Procedure
 
-1.  Click the [[reference|reference]] lookup icon beside the **Category** field.
+1.  Click the reference lookup icon beside the **Category** field.
 
 2.  Select an existing category, or click the add category icon \(+\) to add a new category.
 
@@ -43,7 +43,3 @@ As a knowledge contributor, when editing a knowledge article you can select cate
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[pace-edit-category|Edit categories]]
-- [[reference|Reference]]

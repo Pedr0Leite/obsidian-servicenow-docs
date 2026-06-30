@@ -24,7 +24,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **Agent Workspace for HR Case Management**.
 
 2.  From Lists, select an HR case.
 
@@ -104,7 +104,3 @@ To grant access to a document based on group permissions:1.  Click **More**.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

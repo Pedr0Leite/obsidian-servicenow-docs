@@ -14,7 +14,7 @@ breadcrumb: [Sourcing Procurement Operations integration Employee, Integrate, So
 
 # Confirm receipt of your order from Employee Center
 
-Provide confirmation of receipt of the items that you ordered that are in pending receipt state from Employee Center, so that payment is processed to the [[supplier|supplier]] accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
+Provide confirmation of receipt of the items that you ordered that are in pending receipt state from Employee Center, so that payment is processed to the supplier accordingly. If you have not received the complete order, you can confirm receipt of a part of your order as well with the date when you received them.
 
 ## Before you begin
 
@@ -28,15 +28,15 @@ Role required: sn\_shop.shopper
 
 2.  On the **Pending confirmation** tab, select the task that you want to work with.
 
-3.  View details of the task, such as task number, due date, state, primary contact, [[purchase-order-table|purchase order]] number, and so on.
+3.  View details of the task, such as task number, due date, state, primary contact, purchase order number, and so on.
 
-    You can view the current status of your ordered items, along with the tracking number and carrier name, from the **[[shipment-details|Shipment details]]** tab. You can also track the updates on the selected task from the **Activity** tab. Further, you can view and upload attachments associated with the task from the **Attachments** tab.
+    You can view the current status of your ordered items, along with the tracking number and carrier name, from the **Shipment details** tab. You can also track the updates on the selected task from the **Activity** tab. Further, you can view and upload attachments associated with the task from the **Attachments** tab.
 
 4.  Select the purchase line that you received and select **Mark as received**.
 
     Displays the **Specify the quantity and date you received this product** dialog box, where you can enter the received quantity and date when you received the selected purchase line. This information is now displayed in the **Confirmed** tab.
 
-    **Note:** If you select multiple [[purchase-lines|purchase lines]], you can't specify individual quantities or dates for them, and the entire lines must be marked as received with a single date.
+    **Note:** If you select multiple purchase lines, you can't specify individual quantities or dates for them, and the entire lines must be marked as received with a single date.
 
 
 ## What to do next
@@ -45,9 +45,3 @@ You can view the completed task in the **Completed** tab.
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/employee-center-integration-psm.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[shipment-details|Shipment details]]
-- [[purchase-lines|Purchase lines]]

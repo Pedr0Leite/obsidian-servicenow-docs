@@ -22,7 +22,7 @@ Role required: sn\_cm\_core.contract\_config
 
 ## About this task
 
-Because the script for mapping variables using the [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]] uses the toString\(\) function for the sys\_id variable, its display value is not replaced properly in generated contract documents.
+Because the script for mapping variables using the Microsoft Word add-in for ServiceNow Contracts uses the toString\(\) function for the sys\_id variable, its display value is not replaced properly in generated contract documents.
 
 ## Procedure
 
@@ -50,6 +50,3 @@ Because the script for mapping variables using the [[cncore-expl-snc-addin|Micro
 
 [Modify a contract record]()
 
-## Related
-
-- [[cncore-expl-snc-addin|Microsoft Word add-in for ServiceNow Contracts]]

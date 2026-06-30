@@ -12,7 +12,7 @@ breadcrumb: [Configuring Time Zones, Dispatcher Workspace, CSM/FSM Configurable 
 
 # Example – Multiple time zones for dispatchers
 
-Explore how adding multiple time zones to [[dispatcher-activities|Dispatcher Workspace]] makes managing agent schedules more efficient.
+Explore how adding multiple time zones to Dispatcher Workspace makes managing agent schedules more efficient.
 
 ## About this task
 
@@ -50,11 +50,7 @@ Role required: admin
 **Related topics**  
 
 
-[[add-remore-time-zones|Configure multiple time zones for dispatchers]]
+[Configure multiple time zones for dispatchers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/add-remore-time-zones.md)
 
 [Change the time zone in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/change-timezone-calendar.md)
 
-## Related
-
-- [[add-remore-time-zones|Configure multiple time zones for dispatchers]]
-- [[dispatcher-activities|Dispatcher Workspace]]

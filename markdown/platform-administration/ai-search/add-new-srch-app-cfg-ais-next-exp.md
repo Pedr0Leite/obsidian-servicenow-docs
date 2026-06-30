@@ -14,7 +14,7 @@ breadcrumb: [Configuring AI Search for Next Experience, AI Search for Next Exper
 
 # Add a new Unified Navigation workspace search configuration to AI Search for Next Experience
 
-Enable Unified Navigation search for newly installed workspaces in [[ais-next-experience-app|AI Search for Next Experience]].
+Enable Unified Navigation search for newly installed workspaces in AI Search for Next Experience.
 
 ## Before you begin
 
@@ -30,13 +30,13 @@ When a new workspace application that includes a search application configuratio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search for Next Experience** &gt; **Guided Setup for Zing to AI Search Migration**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search for Next Experience** &gt; **Guided Setup for Zing to AI Search Migration**.
 
 2.  In the **Post-Migration Actions** category, select **Get Started**.
 
 3.  In the **When a new Next Experience workspace has been added to your instance** task, open the Zing to AI Search Migration Job form by selecting the **migration tool** link.
 
-    A modal window shows a list of Zing [[defining-search-app-cfgs-ais|search application configurations]] and their migration status.
+    A modal window shows a list of Zing search application configurations and their migration status.
 
 4.  If the new workspace's search application configuration shows **Migrated** status, reindex its associated content and publish its search profiles and dictionaries.
 
@@ -56,9 +56,9 @@ When a new workspace application that includes a search application configuratio
 
     2.  In the **Search Application Configuration** field, use the Lookup using list icon \[Omitted image "icon-lookup-using-list.png"\] Alt text: to select the new Zing search application configuration.
 
-        **Note:** Only Zing search application configurations with **Needs migration** status are available for selection. Application [[clone-configurations-tab|configurations]] with **Migrated** status already have corresponding AI Search application configurations.
+        **Note:** Only Zing search application configurations with **Needs migration** status are available for selection. Application configurations with **Migrated** status already have corresponding AI Search application configurations.
 
-    3.  To have the system send email [[notifications|notifications]] to users when indexing of content for the migration job starts and completes, add those users to the watch list.
+    3.  To have the system send email notifications to users when indexing of content for the migration job starts and completes, add those users to the watch list.
 
         **Note:** The system automatically adds the current user to the watch list when a migration job is created or updated.
 
@@ -101,10 +101,3 @@ Notify all users of your instance that they need to log out and back in before t
 
 **Parent Topic:**[Configuring AI Search for Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-ais-next-experience.md)
 
-## Related
-
-- [[ais-next-experience-app|AI Search for Next Experience]]
-- [[ia-ai-search|AI Search]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[clone-configurations-tab|Configurations]]
-- [[notifications|Notifications]]

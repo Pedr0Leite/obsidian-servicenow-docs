@@ -28,11 +28,11 @@ To gather emissions data pertaining to your data centers, it is necessary to giv
 
 2.  Create entities with names such as `Paris data center`.
 
-    For information on how to create an entity, refer to [[create-entity|Create an entity]]. The name that you use when creating an entity is the name that is displayed on the [[sustainable-it-dashboard|Sustainable IT dashboard]]. It is important to provide a value in the **Location** field on the entity form. If a particular datacenter has multiple locations, you can name the entities accordingly.
+    For information on how to create an entity, refer to [Create an entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-entity.md). The name that you use when creating an entity is the name that is displayed on the Sustainable IT dashboard. It is important to provide a value in the **Location** field on the entity form. If a particular datacenter has multiple locations, you can name the entities accordingly.
 
 3.  Create an entity type called `Data center`.
 
-    For information on how to create an entity, refer to [[create-entity-type|Create an entity type]]. The name that you use when creating an entity is the name that is displayed on the Sustainable IT dashboard.
+    For information on how to create an entity, refer to [Create an entity type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-entity-type.md). The name that you use when creating an entity is the name that is displayed on the Sustainable IT dashboard.
 
 4.  Add the entities that you created to the Data center entity type.
 
@@ -43,11 +43,5 @@ To gather emissions data pertaining to your data centers, it is necessary to giv
 
 When the metrics are executed, data from all four entities is collected and displayed on the Sustainable IT dashboard.
 
-**Parent Topic:**[[methods-to-set-up-entities|Methods to set up entities for Sustainable IT]]
+**Parent Topic:**[Methods to set up entities for Sustainable IT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/methods-to-set-up-entities.md)
 
-## Related
-
-- [[create-entity|Create an entity]]
-- [[create-entity-type|Create an entity type]]
-- [[methods-to-set-up-entities|Methods to set up entities for Sustainable IT]]
-- [[sustainable-it-dashboard|Sustainable IT dashboard]]

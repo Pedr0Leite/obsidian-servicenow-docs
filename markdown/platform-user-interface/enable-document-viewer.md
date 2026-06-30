@@ -45,14 +45,10 @@ Document Viewer is enabled by default. Activate it at the instance level and the
     Document Viewer is enabled at the table level. Repeat this procedure for each table for which you want to enable Document Viewer.
 
 
-**Parent Topic:**[[Documentviewer|Document Viewer]]
+**Parent Topic:**[Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)
 
 **Related topics**  
 
 
-[[disable-doc-viewer|Disable Document Viewer]]
+[Disable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/disable-doc-viewer.md)
 
-## Related
-
-- [[Documentviewer|Document Viewer]]
-- [[disable-doc-viewer|Disable Document Viewer]]

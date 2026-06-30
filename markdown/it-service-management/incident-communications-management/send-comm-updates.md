@@ -24,7 +24,7 @@ Update users on the latest communication on an incident through selected communi
 
 ## Procedure
 
-1.  Navigate to **[[c_IncidentAlertManagement|Incident Communications Management]]** &gt; **All**.
+1.  Navigate to **Incident Communications Management** &gt; **All**.
 
     **Note:** If the UI16 module link redirection feature is enabled in Service Operations Workspace \(SOW\) and the UI16 module supports the redirect configuration, navigating through UI16 paths automatically redirects you to the equivalent list or record pages in SOW instead of displaying the UI16 forms or lists. For more information, see [Redirect UI16 module links to Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/redirect-ui16-module-links-sow.md).
 
@@ -36,7 +36,7 @@ Update users on the latest communication on an incident through selected communi
 
 5.  Fill in the required information and click **Compose**.
 
-    For sending an SMS communication, in the **From** list, select a number from which you want to send the communication. It contains a list of phone numbers derived from the selected **Provider selector** column which is a [[reference-for-itsm-mobile-agent|reference]] to the Provider selector table \[notify\_group\_selector\]. The **From** list displays phone numbers of all the groups associated with the Provider selector only when the following conditions are met:
+    For sending an SMS communication, in the **From** list, select a number from which you want to send the communication. It contains a list of phone numbers derived from the selected **Provider selector** column which is a reference to the Provider selector table \[notify\_group\_selector\]. The **From** list displays phone numbers of all the groups associated with the Provider selector only when the following conditions are met:
 
     -   The **Manual selector** check box in the Provider selector form is selected.
     -   The value of the **Source table** field in the Provider selector is either empty or the same table that you have selected.
@@ -45,7 +45,3 @@ Update users on the latest communication on an incident through selected communi
 
 **Parent Topic:**[Managing Incident Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/working-with-inci-comm-mgmt.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

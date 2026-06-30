@@ -14,7 +14,7 @@ breadcrumb: [ATF Test Generator and Cloud Runner reference, ATF Test Generator a
 
 # Log entries in the BOQ form
 
-Debug errors or track any critical transactions during the execution of the test suites, setting up the Cloud Runner or [[atf-tg-cr-generate-tests|generating the tests]] by viewing the log entries in the BOQ form.
+Debug errors or track any critical transactions during the execution of the test suites, setting up the Cloud Runner or generating the tests by viewing the log entries in the BOQ form.
 
 You can now view important log entries in the BOQ form. When you go to the BOQ table, you will see the list of jobs. On entering one of the jobs, you will see some specific job log entries.
 
@@ -36,6 +36,3 @@ The following are some of the examples for log entries in the BOQ form for test 
 
 **Parent Topic:**[ATF Test Generator and Cloud Runner reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/atf-test-generator-and-cloud-runner/atf-tg-cr-ref.md)
 
-## Related
-
-- [[atf-tg-cr-generate-tests|Generating the tests]]

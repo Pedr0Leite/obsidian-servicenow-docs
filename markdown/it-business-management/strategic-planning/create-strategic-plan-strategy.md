@@ -26,9 +26,9 @@ You can create strategic plans only on boards that were created with the **Strat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **[[strategy-goals-landing-page|Strategy and Goals]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Strategy and Goals**.
 
-2.  On the Strategy and Goals page, select the strategy-based board for which you want to [[create-strategic-plan|create a strategic plan]].
+2.  On the Strategy and Goals page, select the strategy-based board for which you want to create a strategic plan.
 
     The Strategy page opens.
 
@@ -48,8 +48,3 @@ You can create strategic plans only on boards that were created with the **Strat
 
 [Create a goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-strategy.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[strategy-goals-landing-page|Strategy and Goals]]
-- [[create-strategic-plan|Create a strategic plan]]

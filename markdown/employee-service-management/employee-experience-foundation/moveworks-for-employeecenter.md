@@ -14,9 +14,9 @@ breadcrumb: [Unified Employee Experience, Employee Service Management]
 
 # Moveworks for Employee Center
 
-Moveworks for Employee Center enables AI-powered conversational support within the [[employee-center-landing-page|Employee Center]] portal through natural language interactions.
+Moveworks for Employee Center enables AI-powered conversational support within the Employee Center portal through natural language interactions.
 
-Using Moveworks embedded AI assistant, your employees can ask questions, get instant answers, and complete tasks end-to-end from Employee Center and [[employee-center-pro-landing|Employee Center Pro]].
+Using Moveworks embedded AI assistant, your employees can ask questions, get instant answers, and complete tasks end-to-end from Employee Center and Employee Center Pro.
 
 Employees can access Moveworks embedded AI conversational assistant from ServiceNow Employee Center and Employee Center Pro and get help. Benefit from the AI that knows your people and process, understands your business, and gets work done.
 
@@ -41,7 +41,3 @@ After you configure the app, you can access the Moveworks Embedded AI Assistant 
 
 [Use Moveworks on employee portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mw-employee-chat-ui.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

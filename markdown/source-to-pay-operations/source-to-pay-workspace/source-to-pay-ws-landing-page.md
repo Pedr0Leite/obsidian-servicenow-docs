@@ -16,7 +16,7 @@ breadcrumb: [Explore, Workspace, Source-to-Pay Operations, Finance and Supply Ch
 
 Depending on the product that you have installed and the role you're assigned, the landing page for each product is displayed in a separate tab under the **Source-to-pay** header. The product tabs that appear are named after each installed product.
 
-When you open the [[purch-order-mgmt-ws|Source-to-Pay Workspace]], the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(\[Omitted image "home-icon.png"\] Alt text: Home icon.\) to return to the home page.
+When you open the Source-to-Pay Workspace, the home page is displayed by default. If you navigate away from the home page, you can select the home icon \(\[Omitted image "home-icon.png"\] Alt text: Home icon.\) to return to the home page.
 
 ## Example scenarios for role-based access in Source-to-Pay Workspace
 
@@ -24,14 +24,14 @@ Let's take a look at a few example scenarios to help you understand the conditio
 
 -   **Scenario 1: Only one product is installed**
 
-    Let's consider a scenario where you have installed only the [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] product and you are assigned the [[supplier|Supplier]] Fulfiller \[sn\_slm.fulfiller\] role. In this scenario, the individual product-specific tabs are not shown, instead the landing page for Supplier Lifecycle Operations is directly displayed.
+    Let's consider a scenario where you have installed only the Supplier Lifecycle Operations product and you are assigned the Supplier Fulfiller \[sn\_slm.fulfiller\] role. In this scenario, the individual product-specific tabs are not shown, instead the landing page for Supplier Lifecycle Operations is directly displayed.
 
 -   **Scenario 2: Two or more products are installed**
 
     Let's consider a scenario where:
 
-    -   You have installed [[psm-overview|Sourcing and Procurement Operations]], Supplier Lifecycle Operations, and [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
-    -   You have been assigned the [[psd-overview|Procurement Case Management]] \(PCM\) agent \[sn\_spend\_psd.agent\], Supplier Fulfiller \[sn\_slm.fulfiller\], and Accounts Payable Specialist \[sn\_ap\_apm\_accounts\_payable\_specialist\] roles.
+    -   You have installed Sourcing and Procurement Operations, Supplier Lifecycle Operations, and Accounts Payable Operations.
+    -   You have been assigned the Procurement Case Management \(PCM\) agent \[sn\_spend\_psd.agent\], Supplier Fulfiller \[sn\_slm.fulfiller\], and Accounts Payable Specialist \[sn\_ap\_apm\_accounts\_payable\_specialist\] roles.
     In this scenario, the following product-specific tabs are displayed under the **Source-to-pay** header on the Source-to-Pay Workspace landing page.
 
     -   **Sourcing and procurement**: Select this tab to view the landing page for Sourcing and Procurement Operations. For more information, see [SPO list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/procurement-specialist-list-page.md).
@@ -47,7 +47,7 @@ As a supplier manager, view a snapshot of your assigned supplier cases and tasks
 -   **[APO landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/acc-pay-workspace-landing-page.md)**  
 The Source-to-Pay Workspace provides a centralized view of information and role-specific tasks, enabling quick access to relevant information.
 -   **[POM landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/purch-order-mgmt-tab-s2pws.md)**  
-As an operational buyer, use the [[purchase-order-mgmt-landing-page|Purchase Order Management]] \(POM\) landing page to view a snapshot of your assigned purchase exceptions and tasks and take actions to resolve them.
+As an operational buyer, use the Purchase Order Management \(POM\) landing page to view a snapshot of your assigned purchase exceptions and tasks and take actions to resolve them.
 
 **Parent Topic:**[Source-to-Pay Operations workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/exploring-source-to-pay-operations.md)
 
@@ -58,12 +58,3 @@ As an operational buyer, use the [[purchase-order-mgmt-landing-page|Purchase Ord
 
 [SPO landing page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-workspace/procurement-workspace-landing-page.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier|Supplier]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[psd-overview|Procurement Case Management]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]

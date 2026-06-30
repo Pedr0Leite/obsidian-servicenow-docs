@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Field map form
 
-Understand the fields of the [[field-map-form-ppw|field map form]]. This form is used to create mappings for a corresponding table map.
+Understand the fields of the field map form. This form is used to create mappings for a corresponding table map.
 
 <table id="table_bwj_x2l_v5b"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Execution table
 
 </td><td>
 
-Table in [[agile-landing-page|Agile Development 2.0]], SAFe, or PPM that needs to be mapped with a table in [[alignment-planner-workspace-landing-page|Strategic Planning]]. The value in this field is automatically added based on the selection made in the table map configuration.
+Table in Agile Development 2.0, SAFe, or PPM that needs to be mapped with a table in Strategic Planning. The value in this field is automatically added based on the selection made in the table map configuration.
 
 </td></tr><tr><td>
 
@@ -65,13 +65,7 @@ Flow type
 Specifies whether the mapping is done from alignment to execution, execution to alignment, or both.Here, alignment implies Strategic Planning, and execution implies PPM, Agile Development 2.0, and SAFe applications.
 
 </td></tr></tbody>
-</table>You can also create custom fields and map them to the required source fields as needed. For example, if you want to display the execution project number, you can create a custom field called 'Project number' in the Project planning item \[sn\_align\_core\_project\] table within the [[portfolio-planning-app-landing-page|Portfolio Planning]] Core application scope. Then, map this field to the 'Number' field of the Project table \(pm\_project\) using the project field map.
+</table>You can also create custom fields and map them to the required source fields as needed. For example, if you want to display the execution project number, you can create a custom field called 'Project number' in the Project planning item \[sn\_align\_core\_project\] table within the Portfolio Planning Core application scope. Then, map this field to the 'Number' field of the Project table \(pm\_project\) using the project field map.
 
 **Parent Topic:**[Form field information for Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/form-field-information-for-strategic-planning.md)
 
-## Related
-
-- [[field-map-form-ppw|Field map form]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -18,7 +18,7 @@ Validate a snapshot from the **Snapshot** tab. For example, manually validate a 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_editor or cdm\_admin
 
@@ -55,6 +55,3 @@ If the snapshot failed validation, you can view the issues to fix them. See [Vie
 
 [View the results of snapshot validation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-validation-results-view.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

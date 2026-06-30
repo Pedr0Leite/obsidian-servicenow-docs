@@ -30,14 +30,10 @@ Role required: admin
 
 5.  Open the **Mobile** drop-down.
 
-6.  Select [[mobile-experience|Mobile Agent App]] and choose **Chat widget experience**.
+6.  Select Mobile Agent App and choose **Chat widget experience**.
 
     \[Omitted image "na-enable-va-skills.png"\] Alt text: Mobile dropdown page with the Chat widget experience selected
 
 
-**Parent Topic:**[[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 
-## Related
-
-- [[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
-- [[mobile-experience|Mobile Agent app]]

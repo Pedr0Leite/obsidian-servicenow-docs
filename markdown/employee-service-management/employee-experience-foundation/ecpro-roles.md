@@ -14,7 +14,7 @@ breadcrumb: [Admin configurations, Configuring Employee Center Pro, Employee Cen
 
 # Employee Center Pro roles
 
-[[ecpro-plugins|Employee Center Pro plugins]] include necessary roles for configuring and using the features. Learn more about the roles and the tasks they can perform.
+Employee Center Pro plugins include necessary roles for configuring and using the features. Learn more about the roles and the tasks they can perform.
 
 Users and roles are configured at the platform level. For information, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
@@ -34,7 +34,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[employee-center-landing-page|Employee Center]] Admin\[sn\_hr\_sp.esc\_admin\]
+Employee Center Admin\[sn\_hr\_sp.esc\_admin\]
 
 </td><td>
 
@@ -111,7 +111,7 @@ A user criteria on the topic record for topic management level tasks, such as ha
 Not applicable
 
 </td></tr></tbody>
-</table>## [[emp-slate-employee-profile|Employee Profile]]
+</table>## Employee Profile
 
 For more information, see [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
@@ -141,7 +141,7 @@ Configures employee profile
 -   ml\_admin
 
 </td></tr></tbody>
-</table>## [[ecpro-content-automation-analytics|Content Analytics]]
+</table>## Content Analytics
 
 For more information, see [Content Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-automation-analytics.md)
 
@@ -184,7 +184,7 @@ Can view and interact with dashboards
 pa\_viewer
 
 </td></tr></tbody>
-</table>## [[ec-content-engagement|Content engagement]]
+</table>## Content engagement
 
 For more information, see [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
@@ -206,7 +206,7 @@ Content engagement admin\[sn\_ce.admin\]
 
 </td><td>
 
-Configures reaction icons for [[ec-news-articles|news articles]][Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
+Configures reaction icons for news articles[Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
 
 </td><td>
 
@@ -438,12 +438,3 @@ sn\_cd.content\_manager
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ecpro-plugins|Employee Center Pro plugins]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[ec-content-engagement|Content engagement]]
-- [[ec-news-articles|News articles]]

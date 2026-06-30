@@ -14,7 +14,7 @@ breadcrumb: [Types of catalog items, Explore, Service Catalog, Manage service ca
 
 # Create or edit a catalog item
 
-Define individual catalog items using [[service-catalog|Service Catalog]]. You can create, edit, and copy catalog items.
+Define individual catalog items using Service Catalog. You can create, edit, and copy catalog items.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Click **New**.
 
-3.  On the [[catalog-item-form|Catalog Item form]], fill in the fields.
+3.  On the Catalog Item form, fill in the fields.
 
     For more information about the fields and their descriptions on the Catalog Item form, see [Catalog Item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-form.md).
 
@@ -89,12 +89,12 @@ Copying can be more useful than using the Insert function because the function o
 
     **Note:**
 
-    -   If you copy an active catalog item, the copy is also active. Consider deactivating the copy by clearing the **Active** [[check-box|check box]] until your changes are complete.
-    -   When you specify a table in the **Relationship tables which should be part of the Copy Item Action. Table names should be comma separated** property in the **Service Catalog** &gt; **Catalog Administration** &gt; **Properties** page, the table records that have a [[reference|reference]] to a catalog item are also copied. It is applicable only when you copy the catalog item using the **Copy** UI action. Table names should be comma-separated without any spaces.
+    -   If you copy an active catalog item, the copy is also active. Consider deactivating the copy by clearing the **Active** check box until your changes are complete.
+    -   When you specify a table in the **Relationship tables which should be part of the Copy Item Action. Table names should be comma separated** property in the **Service Catalog** &gt; **Catalog Administration** &gt; **Properties** page, the table records that have a reference to a catalog item are also copied. It is applicable only when you copy the catalog item using the **Copy** UI action. Table names should be comma-separated without any spaces.
 
 ## Accessibility checker in the toolbar
 
-[[accessibility-checker|Accessibility checker in the toolbar]] enables you to identify and resolve accessibility related issues while creating a catalog item in Service Catalog.
+Accessibility checker in the toolbar enables you to identify and resolve accessibility related issues while creating a catalog item in Service Catalog.
 
 ### Before you begin
 
@@ -104,7 +104,7 @@ Confirm that the following properties contain the correct values for accessibili
 
 |Property|Value|
 |--------|-----|
-|glide.ui.[[html|html]].editor.toolbar|a11ycheck|
+|glide.ui.html.editor.toolbar|a11ycheck|
 |glide.ui.html.editor.enabled\_plugins|a11ychecker|
 
 ### Procedure
@@ -127,11 +127,4 @@ Confirm that the following properties contain the correct values for accessibili
 
     No accessibility issues detected
 
-## Related
 
-- [[service-catalog|Service Catalog]]
-- [[catalog-item-form|Catalog Item form]]
-- [[check-box|Check box]]
-- [[reference|Reference]]
-- [[accessibility-checker|Accessibility checker in the toolbar]]
-- [[html|HTML]]

@@ -12,7 +12,7 @@ breadcrumb: [Lead-to-cash foundation, Explore, Sales Customer Relationship Manag
 
 # Lead to Cash Core
 
-Create the [[order-mgt-overview|Sales Customer Relationship Management]] workflows for a product and service through entity configurations and mappings. By creating this workflow, your organization can analyze lucrative business opportunities, customer leads, and the billing, support, and maintenance requirements after a sale is complete.
+Create the Sales Customer Relationship Management workflows for a product and service through entity configurations and mappings. By creating this workflow, your organization can analyze lucrative business opportunities, customer leads, and the billing, support, and maintenance requirements after a sale is complete.
 
 ## Workflows overview
 
@@ -26,7 +26,7 @@ If you're an administrator, you create the workflows for your organization and c
 
 You can configure the definition of a lead-to-cash entity by defining a name and configuration ID on the Lead to Cash Entity form. The definition creates a back and forth flow of the information between the various entities.
 
-To learn how to create entity configurations, see [[create-entity-configuration|Create an entity configuration]]. To learn how to create entity mappings, see [[create-entity-mapping|Create an entity mapping]].
+To learn how to create entity configurations, see [Create an entity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-entity-configuration.md). To learn how to create entity mappings, see [Create an entity mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-entity-mapping.md).
 
 ## Reconfiguration
 
@@ -34,11 +34,5 @@ You can reconfigure an order or a quote that is in the **Draft** state to make c
 
 ## What to explore next
 
--   [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
+-   [Configuring the lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-lead-to-cash-foundation.md)
 
-## Related
-
-- [[create-entity-configuration|Create an entity configuration]]
-- [[create-entity-mapping|Create an entity mapping]]
-- [[configuring-lead-to-cash-foundation|Configuring the lead-to-cash foundation applications]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]

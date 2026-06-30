@@ -37,7 +37,7 @@ Certain indicators support more than two levels of breakdown. This feature is ca
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Indicators**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Indicators**.
 
 2.  Press **Check instance eligibility** to see if your instance is eligible for Data snapshots and, if not, why.
 
@@ -129,6 +129,3 @@ When Data snapshots are enabled, the indicator has two data sources: the origina
 
 Classic Performance Analytics data collection jobs continue to run in parallel on indicators that have Data snapshots enabled. The scores that the classic job collects are not used while Data snapshots are enabled. If Data snapshots are disabled for the indicator, scores collected from the classic source are used, so you have no gap in your indicator scores.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

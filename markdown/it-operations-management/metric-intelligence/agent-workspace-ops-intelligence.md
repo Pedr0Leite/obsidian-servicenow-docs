@@ -39,9 +39,5 @@ A metric chart that appears in the metric charts form in Metric Explorer can be 
 
 ## Templates
 
-The ITOM [[workspace-dashboard-use|Service Operations Workspace]] Metric Explorer template enables metric chart drill-down from Digital Analytics \(DA\) [[otto-aiops-dashboards|dashboards]] to Metric Explorer. For details, see [Express list overview](https://developer.servicenow.com/dev.do#!/reference/next-experience/washingtondc/now-components/sn-itom-aiops-list/overview) on the ServiceNow® Developer portal.
+The ITOM Service Operations Workspace Metric Explorer template enables metric chart drill-down from Digital Analytics \(DA\) dashboards to Metric Explorer. For details, see [Express list overview](https://developer.servicenow.com/dev.do#!/reference/next-experience/washingtondc/now-components/sn-itom-aiops-list/overview) on the ServiceNow® Developer portal.
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]

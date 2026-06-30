@@ -12,7 +12,7 @@ breadcrumb: [Certifying services using self-attestation, Manage, Operational Res
 
 # Perform the self-attestation assessment
 
-Create an assessment for the self-attestation and certify the resilience status of services in the [[grc-opres-landing-page|Operational Resilience]] Workspace. Perform the self-attestation assessment using the Smart Assessment template provided with the base system.
+Create an assessment for the self-attestation and certify the resilience status of services in the Operational Resilience Workspace. Perform the self-attestation assessment using the Smart Assessment template provided with the base system.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** and select **All self attestations** from the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** and select **All self attestations** from the list view.
 
 2.  Select **New**.
 
@@ -67,9 +67,9 @@ Select the Legacy assessment method for performing the self-attestation.
 
     The attestation template contains the pre-defined questions for the assessment. The Operational Resilience application provides an attestation template as part of the base system.
 
-    **Note:** If you have the sn\_oper\_res.admin role, you can customize the default attestation template for your own business needs. For information on creating a customized attestation template, see [[create-new-attestation-template|Create and edit the attestation template]].
+    **Note:** If you have the sn\_oper\_res.admin role, you can customize the default attestation template for your own business needs. For information on creating a customized attestation template, see [Create and edit the attestation template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-attestation-template.md).
 
-6.  To use the Smart Assessment, select the default **Self attestation assessment template** populated in the **Smart [[airc-assessment-templates|assessment templates]]** field.
+6.  To use the Smart Assessment, select the default **Self attestation assessment template** populated in the **Smart assessment templates** field.
 
     The base version includes the default **Self attestation assessment template**, using the Smart Assessment, with a pre-configured questionnaire. Operational Resilience administrators can set up their own attestation templates in the Assessment Workspace and choose from various data types to suit their needs.
 
@@ -77,7 +77,7 @@ Select the Legacy assessment method for performing the self-attestation.
 
     For information on setting up Smart Assessment templates, see [Create and edit the attestation template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-attestation-template.md).
 
-    For information on Smart Assessment documentation, see [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]] and [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
+    For information on Smart Assessment documentation, see [Create a Smart Assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-sm-asmt-temp-as-ws.md) and [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
     \[Omitted image "self-attest-default-questions.png"\] Alt text: Default questionnaire.
 
@@ -128,13 +128,5 @@ Select the Legacy assessment method for performing the self-attestation.
 
 ## What to do next
 
-Request responses on the assessment and then submit the self-attestation to the owner for the certification. For more information, see [[update-a-self-attestation-record-in-ws|Submit the self-attestation report]].
+Request responses on the assessment and then submit the self-attestation to the owner for the certification. For more information, see [Submit the self-attestation report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-a-self-attestation-record-in-ws.md).
 
-## Related
-
-- [[create-new-attestation-template|Create and edit the attestation template]]
-- [[create-sm-asmt-temp-as-ws|Create a Smart Assessment template]]
-- [[update-a-self-attestation-record-in-ws|Submit the self-attestation report]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[list-view-uib-ws|List view]]
-- [[airc-assessment-templates|Assessment templates]]

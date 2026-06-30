@@ -15,14 +15,14 @@ breadcrumb: [Explore, External Content Connectors, Search administration, Config
 
 # Configuring source systems for external content indexing
 
-Source system administrators configure settings to allow [[ext-cont-connectors-landing-page|external content connectors]] to index your documents and [[ia-security-settings-il|security settings]] for search. These settings must be configured for a source system before you create an external content connector to crawl that source system.
+Source system administrators configure settings to allow external content connectors to index your documents and security settings for search. These settings must be configured for a source system before you create an external content connector to crawl that source system.
 
 Each external content connector has its own source system configuration requirements, as shown in the following topics.
 
 **Note:** The following external content connectors do not require any source system configuration.
 
 -   ServiceNow® documentation external content connector
--   [[webcrawler-external-content-connector|Webcrawler external content connector]]
+-   Webcrawler external content connector
 
 **Parent Topic:**[Exploring External Content Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/exploring-ext-cont-connectors.md)
 
@@ -121,8 +121,3 @@ Each external content connector has its own source system configuration requirem
 
 [Configure Zoom for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-zoom-external-content-indexing.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-security-settings-il|Security Settings]]
-- [[webcrawler-external-content-connector|Webcrawler external content connector]]

@@ -12,7 +12,7 @@ breadcrumb: [CSDM guidelines, Data models, Set up your environment, Configure, C
 
 # Customer Service Management and CSDM tables
 
-[[c_CustomerServiceManagement|Customer Service Management]] manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Customer Service Management.
+Customer Service Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Customer Service Management.
 
 CSM references the following CSDM tables:
 
@@ -22,9 +22,9 @@ CSM references the following CSDM tables:
 
 2.  Install Base Item table \[sn\_install\_base\_item\] in CSM
 
-    Represents the products installed or in use by an account or consumer. [[install-base-item|Install Base Items]] are CIs consumed by the customer and generally reference the Application Services table \[cmdb\_ci\_service\_discovered\] for SaaS products.
+    Represents the products installed or in use by an account or consumer. Install Base Items are CIs consumed by the customer and generally reference the Application Services table \[cmdb\_ci\_service\_discovered\] for SaaS products.
 
-    Multiple [[sold-product|sold products]] can be used on a given Install Base Item by using the [[installed-products|Installed Products]] table \[sn\_install\_base\_m2m\_installed\_product\].
+    Multiple sold products can be used on a given Install Base Item by using the Installed Products table \[sn\_install\_base\_m2m\_installed\_product\].
 
 3.  A Service Model references the Service Offerings table \[service\_offering\]. Multiple Service Offerings can be associated with a single Service Model.
 4.  After the product is sold to a customer, the Sold Product table references the Service Offering table \[service\_offering\]. This reference helps to identify the customers subscribed to an offering.
@@ -84,9 +84,4 @@ When you use CSM with other ServiceNow products, you increase the value you get 
 
     Enables customers that have subscribed to the Service Offering to see who owns the service.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[install-base-item|Install base items]]
-- [[sold-product|Sold products]]
-- [[installed-products|Installed products]]

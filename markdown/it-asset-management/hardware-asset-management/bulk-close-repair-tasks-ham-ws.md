@@ -26,7 +26,7 @@ You can bulk close only similar asset repair tasks that are in the Open state. H
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Repair orders** tab.
 
@@ -83,6 +83,3 @@ All the selected repair tasks are closed with the same task result and Work note
 
 [Cancel a repair order line in the Hardware Asset Workspace]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

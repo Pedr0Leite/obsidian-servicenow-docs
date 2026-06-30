@@ -25,17 +25,17 @@ Role required:
 
 **Note:** This task only applies if you are using Event Management integration on CSM Agent Workspace or the ServiceNow AI Platform interface.
 
-Review proactive cases created from alerts using Agent Workspace. Identify customers, their corresponding [[install-base-item|install base items]] affected by the issue causing the alert as well as the service health for each affected install base item. Depending on the number of customers affected, you can propose a proactive case as a major case.
+Review proactive cases created from alerts using Agent Workspace. Identify customers, their corresponding install base items affected by the issue causing the alert as well as the service health for each affected install base item. Depending on the number of customers affected, you can propose a proactive case as a major case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home** &gt; **[[migration-lists|Lists]]** &gt; **Cases**.
+1.  Navigate to **All** &gt; **Agent Workspace** &gt; **Agent Workspace Home** &gt; **Lists** &gt; **Cases**.
 
     Alternatively, accept a proactive case from your Agent Workspace inbox.
 
 2.  Click the case you want to work on.
 
-3.  You can perform the following actions from the [[r_CustomerServiceCaseForm|Case form]].
+3.  You can perform the following actions from the Case form.
 
 <table id="table_izm_tqr_whb"><thead><tr><th>
 
@@ -83,10 +83,10 @@ Click **Propose Major Case**.
 
 </td><td>
 
-[[osp-propose-major-case|Propose a major case]] when multiple customers are affected. **Note:** If you don't see this option, click the More UI Actions icon \(\[Omitted image "agent-workspace-more-ui-actions-icon.jpg"\] Alt text: More UI Actions icon.\).
+Propose a major case when multiple customers are affected. **Note:** If you don't see this option, click the More UI Actions icon \(\[Omitted image "agent-workspace-more-ui-actions-icon.jpg"\] Alt text: More UI Actions icon.\).
 
 </td></tr></tbody>
-</table>4.  Resolve and close proactive cases in the same way as other [[c_CustomerServiceManagement|customer service management]] cases.
+</table>4.  Resolve and close proactive cases in the same way as other customer service management cases.
 
     **Note:** If an alert is closed, a case is not automatically closed.
 
@@ -94,19 +94,9 @@ Click **Propose Major Case**.
 **Related topics**  
 
 
-[[propose-major-case-candidate|Propose a case as a major case candidate]]
+[Propose a case as a major case candidate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/propose-major-case-candidate.md)
 
-[[t_CloseACase|Close a customer service case]]
+[Close a customer service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CloseACase.md)
 
-[[awa-csm-overview|AWA for CSM]]
+[AWA for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/awa-csm-overview.md)
 
-## Related
-
-- [[propose-major-case-candidate|Propose a case as a major case candidate]]
-- [[t_CloseACase|Close a customer service case]]
-- [[awa-csm-overview|AWA for CSM]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[osp-propose-major-case|Propose a major case]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

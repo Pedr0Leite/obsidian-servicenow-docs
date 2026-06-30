@@ -24,11 +24,11 @@ Scheduling and dispatching work order tasks can include one or more of the follo
 
 -   [Assigning work order tasks to agents manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/c_DispatchWorkOrderTasks.md)
 
-    After a work order task has been qualified, it can be assigned manually from the dispatch queue, the task map, or [[dispatcher-activities|Dispatcher Workspace]].
+    After a work order task has been qualified, it can be assigned manually from the dispatch queue, the task map, or Dispatcher Workspace.
 
 -   [Assigning work order tasks to agents using dynamic scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/using-dynamic-scheduling.md)
 
-    [[dynamic-scheduling|Dynamic scheduling]] increases the efficiency of [[fsm-application-landing-page|Field Service Management]] by automatically assigning tasks to the agents.
+    Dynamic scheduling increases the efficiency of Field Service Management by automatically assigning tasks to the agents.
 
 -   [Assigning work order tasks to agents from Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/assigning-tasks-in-dispatcher-workspace.md)
 
@@ -60,8 +60,3 @@ Scheduling and dispatching work order tasks can include one or more of the follo
 
 [Setting up a Field Service scheduling method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/setting-up-scheduling-methods.md)
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-application-landing-page|Field Service Management]]

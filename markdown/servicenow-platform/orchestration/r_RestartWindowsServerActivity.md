@@ -22,7 +22,7 @@ The Restart Windows Server activity stops and then restarts a Windows server usi
 
 |Variable|Description|
 |--------|-----------|
-|Hostname|Hostname or [[ip-address|IP address]] of the Windows server to restart.|
+|Hostname|Hostname or IP address of the Windows server to restart.|
 
 ## Output variables
 
@@ -40,6 +40,3 @@ The Restart Windows Server activity stops and then restarts a Windows server usi
 
 **Parent Topic:**[PowerShell activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrPwrshellActivityPack.md)
 
-## Related
-
-- [[ip-address|IP Address]]

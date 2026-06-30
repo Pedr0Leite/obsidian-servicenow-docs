@@ -26,15 +26,15 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[osp-create-work-order|Create work order]]
+[Create work order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-create-work-order.md)
 
 </td><td>
 
-An OSP agent can [[create-work-orders|create a work order]] so that it can be assigned to a Field Service agent.
+An OSP agent can create a work order so that it can be assigned to a Field Service agent.
 
 </td></tr><tr><td>
 
-[[osp-escalate-case|Escalate a case]]
+[Escalate a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-escalate-case.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ An OSP agent can escalate a case when unable to resolve or fulfill a case for va
 
 </td></tr><tr><td>
 
-[[osp-view-asset-acct-consumer|View account or consumer assets]]
+[View account or consumer assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-view-asset-acct-consumer.md)
 
 </td><td>
 
@@ -50,7 +50,7 @@ An OSP agent can view the assets owned by an account or consumer which helps in 
 
 </td></tr><tr><td>
 
-[[osp-view-contracts|View account contracts]]
+[View account contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-view-contracts.md)
 
 </td><td>
 
@@ -58,7 +58,7 @@ As an OSP agent, you can view contracts owned by accounts or consumers in order 
 
 </td></tr><tr><td>
 
-[[osp-view-cust-data|View customer or consumer data]]
+[View customer or consumer data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-view-cust-data.md)
 
 </td><td>
 
@@ -66,7 +66,7 @@ As an OSP agent, you can view the customer or consumer data to fulfill cases.
 
 </td></tr><tr><td>
 
-[[osp-create-case-task|Create a case task]]
+[Create a case task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-create-case-task.md)
 
 </td><td>
 
@@ -74,7 +74,7 @@ An OSP agent creates a case task after a case has been assigned. As an agent, yo
 
 </td></tr><tr><td>
 
-[[osp-assign-case|Assign a case]]
+[Assign a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-assign-case.md)
 
 </td><td>
 
@@ -82,7 +82,7 @@ Assign a case to yourself or another Outsourced Service Provider \(OSP\) agent w
 
 </td></tr><tr><td>
 
-[[osp-create-appt|Create an appointment]]
+[Create an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-create-appt.md)
 
 </td><td>
 
@@ -90,7 +90,7 @@ As an agent, you can create an appointment for the requester of a case.
 
 </td></tr><tr><td>
 
-[[osp-transfer-case|Transfer a case]]
+[Transfer a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-transfer-case.md)
 
 </td><td>
 
@@ -98,7 +98,7 @@ The OSP agent or manager, if unable to resolve a case, transfers the case manual
 
 </td></tr><tr><td>
 
-[[osp-view-cases|View cases]]
+[View cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-view-cases.md)
 
 </td><td>
 
@@ -106,7 +106,7 @@ As an OSP manager or agent, you can view all application modules with the list o
 
 </td></tr><tr><td>
 
-[[osp-view-email-respond|View case related emails and respond]]
+[View case related emails and respond](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-view-email-respond.md)
 
 </td><td>
 
@@ -114,7 +114,7 @@ As an OSP agent, you can view the list of emails related to a case that is assig
 
 </td></tr><tr><td>
 
-[[osp-report-knowledge-gap|Report knowledge gap from a case]]
+[Report knowledge gap from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-report-knowledge-gap.md)
 
 </td><td>
 
@@ -122,7 +122,7 @@ When an OSP agent has a knowledge gap which impacts the ability to resolve a cas
 
 </td></tr><tr><td>
 
-[[osp-propose-major-case|Propose a major case]]
+[Propose a major case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-propose-major-case.md)
 
 </td><td>
 
@@ -130,7 +130,7 @@ As an OSP agent, you can propose a major case from the existing customer service
 
 </td></tr><tr><td>
 
-[[osp-close-case|Close a case]]
+[Close a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-close-case.md)
 
 </td><td>
 
@@ -138,7 +138,7 @@ Users with OSP agent role can propose a solution to a case and close the assigne
 
 </td></tr><tr><td>
 
-[[osp-contextual-search|Contextual search]]
+[Contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-contextual-search.md)
 
 </td><td>
 
@@ -146,7 +146,7 @@ Users with OSP agent role can search for related information to fulfill a case. 
 
 </td></tr><tr><td>
 
-[[osp-view-entitlements|View list of entitlements]]
+[View list of entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-view-entitlements.md)
 
 </td><td>
 
@@ -154,23 +154,3 @@ As an OSP manager or agent, you must view entitlements for an account or consume
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[osp-create-work-order|Create work order]]
-- [[osp-escalate-case|Escalate a case]]
-- [[osp-view-asset-acct-consumer|View account or consumer assets]]
-- [[osp-view-contracts|View account contracts]]
-- [[osp-view-cust-data|View customer or consumer data]]
-- [[osp-create-case-task|Create a case task]]
-- [[osp-assign-case|Assign a case]]
-- [[osp-create-appt|Create an appointment]]
-- [[osp-transfer-case|Transfer a case]]
-- [[osp-view-cases|View cases]]
-- [[osp-view-email-respond|View case related emails and respond]]
-- [[osp-report-knowledge-gap|Report knowledge gap from a case]]
-- [[osp-propose-major-case|Propose a major case]]
-- [[osp-close-case|Close a case]]
-- [[osp-contextual-search|Contextual search]]
-- [[osp-view-entitlements|View list of entitlements]]
-- [[create-work-orders|Create a work order]]

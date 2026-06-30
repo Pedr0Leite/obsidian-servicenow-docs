@@ -18,7 +18,7 @@ In addition to viewing case information, agents can use links in the ribbon comp
 
 ## Customer Service Management ribbon components
 
-For [[c_CustomerServiceManagement|Customer Service Management]], you can configure the ribbon for the [[r_CustomerServiceCaseForm|Case form]] to include one or more of the available ribbon components:
+For Customer Service Management, you can configure the ribbon for the Case form to include one or more of the available ribbon components:
 
 -   Customer 360
 -   Timeline
@@ -227,7 +227,7 @@ Event summaries
 
 </td><td>
 
-Event summaries appear in the timeline legend. Each summary [[migration-lists|lists]] the event and the number of times it occurred. **Note:** An event summary includes occurrences of the event over the life of the object visualized on the timeline.
+Event summaries appear in the timeline legend. Each summary lists the event and the number of times it occurred. **Note:** An event summary includes occurrences of the event over the life of the object visualized on the timeline.
 
 </td></tr><tr><td>
 
@@ -308,7 +308,7 @@ Color coding within the component indicates the time remaining for the SLA:
 
 The time to resolve component displays the estimated time required for an agent to resolve the case.
 
-**Note:** The time to resolve component requires the Predictive [[intelligence-csm|Intelligence]] for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [[ettr|Estimated time to resolve a case]].
+**Note:** The time to resolve component requires the Predictive Intelligence for Customer Service Management plugin \(com.snc.csm\_ml\). For more information, see [Estimated time to resolve a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ettr.md).
 
 \[Omitted image "time-to-resolve.jpg"\] Alt text: Ribbon component displaying the estimated time required by an agent to resolve a case.
 
@@ -329,23 +329,13 @@ Following are a list of SLA messages displayed and the action required when they
 
 ## Configuring ribbon components
 
-For [[csm-workspaces-configure|CSM Configurable Workspace]], you can create a ribbon setting and add that setting to a ribbon configuration. For more information, see [[config-csm-config-ws-ribbon|Set up a ribbon configuration in CSM Configurable Workspace]].
+For CSM Configurable Workspace, you can create a ribbon setting and add that setting to a ribbon configuration. For more information, see [Set up a ribbon configuration in CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-config-ws-ribbon.md).
 
 **Note:** One ribbon configuration, **CSM/FSM Configurable Workspace Ribbon Config**, is included with CSM Configurable Workspace.
 
-You can also display the form ribbon in the form ribbon in the Contextual side panel. For more information, see [[config-csm-display-header-in-sidebar|Display the form ribbon and form header secondary values in the Contextual side panel]].
+You can also display the form ribbon in the form ribbon in the Contextual side panel. For more information, see [Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-display-header-in-sidebar.md).
 
 ## Domain separation
 
 Ribbon configurations in CSM workspaces support domain separation.
 
-## Related
-
-- [[ettr|Estimated time to resolve a case]]
-- [[config-csm-config-ws-ribbon|Set up a ribbon configuration in CSM Configurable Workspace]]
-- [[config-csm-display-header-in-sidebar|Display the form ribbon and form header secondary values in the Contextual side panel]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

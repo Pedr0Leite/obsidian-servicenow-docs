@@ -14,7 +14,7 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Change a field or attachment's encryption type
 
-You can change a field or attachment's encryption type by selecting a new [[encryption-landing|encryption]] type in the existing encryption [[sc-configuration|configuration]] record. A specific table and field combination can only have one active configuration at a time.
+You can change a field or attachment's encryption type by selecting a new encryption type in the existing encryption configuration record. A specific table and field combination can only have one active configuration at a time.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: security\_admin
 
 ## Procedure
 
-1.  Navigate to **[[edge-encryption|Edge Encryption]] Configuration** &gt; **Encryption Configurations** &gt; **All**.
+1.  Navigate to **Edge Encryption Configuration** &gt; **Encryption Configurations** &gt; **All**.
 
     The **Edge Encryption Configurations** list is shown.
 
@@ -39,8 +39,3 @@ Role required: security\_admin
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[edge-encryption|Edge Encryption]]

@@ -14,7 +14,7 @@ breadcrumb: [Use HAM advisor, Asset and CI management, Explore, Hardware Asset M
 
 # Set up CMDB success advisor for HAM
 
-Use the CMDB success advisor application to configure and manage the CMDB success advisor for [[ham-landing-page|Hardware Asset Management]] \(HAM\).
+Use the CMDB success advisor application to configure and manage the CMDB success advisor for Hardware Asset Management \(HAM\).
 
 ## Plugins and dependencies
 
@@ -24,7 +24,7 @@ Review the [CMDB success advisor](https://store.servicenow.com/store/app/db28ec5
 
 1.  [Manage opt in HAM resource categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cmdb-sa-ham-opt-categories.md).
 
-    Opt in to Hardware Asset Management \(HAM\) license resource categories to make the corresponding [[model-hierarchy|model categories]] available for selection in CMDB success advisor for HAM.
+    Opt in to Hardware Asset Management \(HAM\) license resource categories to make the corresponding model categories available for selection in CMDB success advisor for HAM.
 
 2.  [Get started with CMDB success advisor setup for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cmdb-sa-ham-get-started.md).
 
@@ -42,7 +42,3 @@ Review the [CMDB success advisor](https://store.servicenow.com/store/app/db28ec5
 
 [Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/ham-landing-page.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[model-hierarchy|Model categories]]

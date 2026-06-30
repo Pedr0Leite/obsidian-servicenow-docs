@@ -14,7 +14,7 @@ breadcrumb: [ArcSight ESM Event Ingestion integration, Security Incident Respons
 
 # Use the script editor to format correlation event values
 
-In addition to the directly mapped fields from the ingested correlation event values, use the script editor to format field values on the security incident during the [[mapping-logrhythm|mapping]] step.
+In addition to the directly mapped fields from the ingested correlation event values, use the script editor to format field values on the security incident during the mapping step.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ In certain cases, ArcSight ESM correlation event values are mapped to reference 
 
 5.  Close the table to return to the Mapping form.
 
-## Related
 
-- [[mapping-logrhythm|Mapping]]

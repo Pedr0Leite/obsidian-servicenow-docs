@@ -22,9 +22,9 @@ Role required: None
 
 ## Procedure
 
-1.  Log in to the [[visitor-portal|visitor portal]], then select a visit.
+1.  Log in to the visitor portal, then select a visit.
 
-    For more information about [[login-visitor-portal|logging in to the visitor portal]], see [Logging in to the visitor portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/login-visitor-portal.md).
+    For more information about logging in to the visitor portal, see [Logging in to the visitor portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/login-visitor-portal.md).
 
     You can select **Message the host** to send an email to the host.
 
@@ -51,7 +51,3 @@ Role required: None
 
 The information that you provided is saved with the organization. You can manage your data from the visitor portal. For more information about managing your data, see [Manage your visitor data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/manage-visitor-data.md).
 
-## Related
-
-- [[visitor-portal|Visitor portal]]
-- [[login-visitor-portal|Logging in to the visitor portal]]

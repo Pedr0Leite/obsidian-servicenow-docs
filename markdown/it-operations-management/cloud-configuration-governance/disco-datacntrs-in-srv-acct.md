@@ -14,12 +14,12 @@ breadcrumb: [Additional Cloud Provisioning and Governance setup on day 2, Cloud 
 
 # Discover all datacenters in a service account on-demand
 
-After you set up a service account, run [[r-discovery|Discovery]] to populate the datacenters in the account.
+After you set up a service account, run Discovery to populate the datacenters in the account.
 
 ## Before you begin
 
 -   A cloud account must exist with service accounts and associated datacenters. You must run on-demand Discovery to discover datacenters before you can schedule Discovery.
--   Use the [[cow-landing-page|Cloud Discovery Workspace]], and at least version 1.15 of Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns from the ServiceNow Store.
+-   Use the Cloud Discovery Workspace, and at least version 1.15 of Discovery and Service Mapping Patterns from the ServiceNow Store.
 
 Role required: sn\_cmp.cloud\_admin
 
@@ -49,7 +49,7 @@ You can run Discovery on-demand.
 
 7.  Select the service account whose LDCs you tried to discover.
 
-    On successful datacenter discovery, the Datacenter [[c_DiscoveryStatus|Discovery status]] field is set to `YYYY-MM-DD HH:MM:SS: Completed … Reload this form to see an updated datacenter list`.
+    On successful datacenter discovery, the Datacenter Discovery status field is set to `YYYY-MM-DD HH:MM:SS: Completed … Reload this form to see an updated datacenter list`.
 
 
 ## Result
@@ -61,9 +61,3 @@ The discovered datacenters appear in the Logical Datacenters related list.
 
 [Logs for horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_DiscoveryLog.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cow-landing-page|Cloud Discovery Workspace]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_DiscoveryStatus|Discovery status]]

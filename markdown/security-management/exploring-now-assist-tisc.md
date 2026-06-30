@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Threat Intelligence Security Center, Security Operat
 
 # Exploring Now Assist for Threat Intelligence Security Center
 
-Threat analysts and [[security-operations-landing-page|security operations]] teams can use ServiceNow generative AI skills to summarize case management content to accelerate threat detection and response with [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]].
+Threat analysts and security operations teams can use ServiceNow generative AI skills to summarize case management content to accelerate threat detection and response with Now Assist for Threat Intelligence Security Center.
 
 ## Now Assist for Threat Intelligence Security Center overview
 
@@ -31,7 +31,3 @@ The following user roles interact with Now Assist for Threat Intelligence Securi
 -   **Threat analyst** — Generates and reviews case summaries.
 -   **Administrator** — Configures and activates Now Assist for Threat Intelligence Security Center skills in the Now Assist Admin console.
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]]

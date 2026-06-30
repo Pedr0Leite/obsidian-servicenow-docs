@@ -21,11 +21,11 @@ The project manager can open an existing project in the project workbench.
 -   **[Create a project task in the project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateProjTaskProjWorkbench.md)**  
 Create a project task for a waterfall phase.
 -   **[Manage project stories in the project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_ManageProjStoriesProjWorkbench.md)**  
-If [[c_ProjectPortfolioSuite|Project Portfolio Management]] and [[agile-landing-page|Agile Development 2.0]] are activated, the project manager can manage the stories in a project from the project workbench.
+If Project Portfolio Management and Agile Development 2.0 are activated, the project manager can manage the stories in a project from the project workbench.
 -   **[Create a story in the project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAStoryInTheProjectWorkbench.md)**  
 Create a story for an agile phase.
 -   **[Create a test case in the project workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateTestCaseProjWorkbench.md)**  
-Specifying a test plan is optional when creating a test phase. However, before you add [[c_TestCases|test cases]] to a test phase, you must specify a test plan.
+Specifying a test plan is optional when creating a test phase. However, before you add test cases to a test phase, you must specify a test plan.
 
 **Parent Topic:**[Using Project workbench - Legacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectWorkbench.md)
 
@@ -38,8 +38,3 @@ Specifying a test plan is optional when creating a test phase. However, before y
 
 [Project calculation]()
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_TestCases|Test cases]]

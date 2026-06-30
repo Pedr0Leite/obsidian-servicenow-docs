@@ -14,7 +14,7 @@ breadcrumb: [Configuring Firewall Audits and Reporting, Firewall Audits and Repo
 
 # Visibility to Firewall inventory
 
-The [[firewall-audit-reporting|Firewall Audits and Reporting]] application helps you to discover and take inventory of your firewall security policies, devices, device groups, and manager information.
+The Firewall Audits and Reporting application helps you to discover and take inventory of your firewall security policies, devices, device groups, and manager information.
 
 The ServiceNow Platform helps organizations gain visibility to IT estate with the centralized Configuration Management Database \(CMDB\) while also automating workflows for the request and change management processes. The Firewall Audits and Reporting application enables security teams to discover all firewalls along with their policies, firmware versions, and other hardware attributes. The Service Portal from ITSM helps customers to digitize workflows when requesting new firewall rules. Combined with ITSM incident management and change management workflows, this solution enables transparency in the fulfillment process. To make it more simple for teams, policy ownership is tied to the system user and groups in the ServiceNow Platform. A centralized dashboard provides visibility to the firewall estate and comprehensive visibility to the inflow of request records landing in the Firewall admin’s fulfillment queue.
 
@@ -23,14 +23,9 @@ Currently, ServiceNow works with Palo Alto Networks Panorama. In future release,
 -   **[Discover firewall policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disco-firewall-policies.md)**  
 As a member of a security team, you can discover firewall devices, policies, and owner groups, allowing a central view of the footprint. This data is updated in the ServiceNow CMDB. Set up a schedule to discover your firewall policies to help you keep track of your company's valuable information.
 -   **[Customize Firewall Audits and Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/customize-firewall-audit-reporting.md)**  
-Change [[r_DiscoveryProperties|Discovery properties]] to customize some of the aspects of Firewall Audits and Reporting.
+Change Discovery properties to customize some of the aspects of Firewall Audits and Reporting.
 -   **[Archive firewall rule audit, rule requests, and audit tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/archive-firewall-rule-req-tasks.md)**  
-Archive [[firewall-requests|firewall rule requests]], audit requests, and audit tasks that are older than a specific time period to enhance system performance. At a later time, you can delete them from the archive table altogether to reduce the size of that table.
+Archive firewall rule requests, audit requests, and audit tasks that are older than a specific time period to enhance system performance. At a later time, you can delete them from the archive table altogether to reduce the size of that table.
 
 **Parent Topic:**[Configuring Firewall Audits and Reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/firewall-audit-report-config.md)
 
-## Related
-
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[r_DiscoveryProperties|Discovery properties]]
-- [[firewall-requests|Firewall rule requests]]

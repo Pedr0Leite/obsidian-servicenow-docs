@@ -14,7 +14,7 @@ breadcrumb: [Using HR Service Delivery Employee Relations, Employee Relations, C
 
 # Use Guided Tours in Employee Relations
 
-Use guided tours in Employee Relations to get an overview of [[hr-case-employee-relations|Employee Relations]] cases.
+Use guided tours in Employee Relations to get an overview of Employee Relations cases.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Guided tours in Employee Relations are only available in report misconduct cases
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **HR Agent Workspace**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -48,7 +48,4 @@ Guided tours in Employee Relations are only available in report misconduct cases
 
 8.  Select **Done** after the tour is ended​.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[case-management-workspace|Case management]]

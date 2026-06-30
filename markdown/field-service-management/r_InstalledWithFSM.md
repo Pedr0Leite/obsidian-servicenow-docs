@@ -12,32 +12,22 @@ breadcrumb: [Reference, Field Service Management]
 
 # Components installed with Field Service Management
 
-Several types of components are installed with [[fsm-application-landing-page|Field Service Management]].
+Several types of components are installed with Field Service Management.
 
 Demo data for the Field Service Management application is a separate plugin. The Field Service Management Demo Data plugin \(com.snc.work\_management.demo\) provides sample qualifiers, dispatchers, agents, work orders, work order tasks, stockrooms, and asset information.
 
--   **[[r_TableInstallWFieldServMgmnt|Tables installed with Field Service Management]]**  
+-   **[Tables installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_TableInstallWFieldServMgmnt.md)**  
 Tables are provided with the Field Service Management application.
--   **[[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]**  
+-   **[Properties installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md)**  
 System properties provided with the Field Service Management application.
--   **[[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]**  
+-   **[Roles installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)**  
 Roles are added with Field Service Management.
--   **[[r_ScriptIncInstWFieldSrvMgmnt|Script includes installed with Field Service Management]]**  
+-   **[Script includes installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_ScriptIncInstWFieldSrvMgmnt.md)**  
 Script includes are added with Field Service Management.
--   **[[r_ClientScrInstallWFldSrvMgmnt|Client scripts installed with Field Service Management]]**  
+-   **[Client scripts installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_ClientScrInstallWFldSrvMgmnt.md)**  
 Client scripts are added with Field Service Management.
--   **[[r_BRIWFieldServiceManagement|Business rules installed with Field Service Management]]**  
+-   **[Business rules installed with Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_BRIWFieldServiceManagement.md)**  
 Business rules are added with Field Service Management.
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[r_TableInstallWFieldServMgmnt|Tables installed with Field Service Management]]
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[r_ScriptIncInstWFieldSrvMgmnt|Script includes installed with Field Service Management]]
-- [[r_ClientScrInstallWFldSrvMgmnt|Client scripts installed with Field Service Management]]
-- [[r_BRIWFieldServiceManagement|Business rules installed with Field Service Management]]
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]

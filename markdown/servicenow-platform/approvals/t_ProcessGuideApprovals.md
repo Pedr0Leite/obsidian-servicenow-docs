@@ -14,7 +14,7 @@ breadcrumb: [Approval rules, Classic approvals, Exploring Service Administration
 
 # Approve with a process guide
 
-Process guides work similarly to [[c_ApprovalRules|approval rules]] in that their execution is controlled via a condition.
+Process guides work similarly to approval rules in that their execution is controlled via a condition.
 
 **Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
@@ -61,6 +61,3 @@ You can link a process guide to a execution task.
 
 **Parent Topic:**[Approval rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/c_ApprovalRules.md)
 
-## Related
-
-- [[c_ApprovalRules|Approval rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Complete a risk assessment from the Supplier Collaboration Portal
 
-As a [[supplier-contact|supplier contact]], you can view and complete your assigned risk assessments to help the [[supplier|supplier]] manager in evaluating a supplier before onboarding them.
+As a supplier contact, you can view and complete your assigned risk assessments to help the supplier manager in evaluating a supplier before onboarding them.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
 
 ## Procedure
 
-1.  Go to the [[supplier-central|Supplier Collaboration Portal]] portal page by accessing your instance URL and adding a /supplier suffix.
+1.  Go to the Supplier Collaboration Portal portal page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
@@ -38,7 +38,7 @@ The **Risk Assessments** tab shows assessments only if you've installed the Thir
 
 3.  The Assessment Summary page opens displaying a list of both Supplier \(third-party\) and Engagement risk assessments records.
 
-    **Note:** [[supp-mgmt-landing-page|Supplier Lifecycle Operations]] integrates with Third-party Risk Management to enable you to quickly view and work on all the assigned risk assessments.
+    **Note:** Supplier Lifecycle Operations integrates with Third-party Risk Management to enable you to quickly view and work on all the assigned risk assessments.
 
     \[Omitted image "risks-all-assess.png"\] Alt text: Assessment Summary page
 
@@ -114,14 +114,7 @@ The risk assessment form is submitted and the supplier manager can evaluate it f
 
 [Manage documents from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Using Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-supp-central.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[universal-request|Universal Request]]

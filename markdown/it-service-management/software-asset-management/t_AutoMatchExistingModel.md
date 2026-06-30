@@ -14,7 +14,7 @@ breadcrumb: [Software discovery models in the legacy Software Asset Management p
 
 # Automatically match to an existing model using the legacy Software Asset Management plugin
 
-The automatic matching feature in the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin allows you to match a software discovery model to an existing software model.
+The automatic matching feature in the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin allows you to match a software discovery model to an existing software model.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sam
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software Asset** &gt; **Reconciliation** &gt; **Discovery [[c_Models|models]]** and open a model.
+1.  Navigate to **All** &gt; **Software Asset** &gt; **Reconciliation** &gt; **Discovery models** and open a model.
 
 2.  Clear the **Software model** field.
 
@@ -36,15 +36,10 @@ Role required: sam
 
     If a model is already matched, then the automatic matching feature does not run.
 
-    The automatic matching feature can also be used when you insert a new discovery model record or if you modify and update an existing discovery model. If automatic matching is run, all software installations and usages that [[reference-for-itsm-mobile-agent|reference]] the discovery model will have their **Inferred suite** and **Cached** fields cleared.
+    The automatic matching feature can also be used when you insert a new discovery model record or if you modify and update an existing discovery model. If automatic matching is run, all software installations and usages that reference the discovery model will have their **Inferred suite** and **Cached** fields cleared.
 
     For more information on software installation and usage records, see [Determine where software is installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_DeterminWhereSWInstalled.md).
 
 
 **Parent Topic:**[Software discovery models in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UsingSoftwareDiscoveryModels.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Models|Models]]
-- [[reference-for-itsm-mobile-agent|Reference]]

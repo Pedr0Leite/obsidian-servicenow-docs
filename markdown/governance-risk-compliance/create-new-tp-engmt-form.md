@@ -12,7 +12,7 @@ breadcrumb: [Create a third-party engagement and enhance digital resilience data
 
 # Create New Third party engagement form
 
-On the [[tprm-create-engmt-form|Create New Third-party engagement form]], fill in the fields.
+On the Create New Third-party engagement form, fill in the fields.
 
 <table id="table_jfh_cl4_ycc"><thead><tr><th>
 
@@ -303,7 +303,7 @@ Tasks related to the third-party engagement.
 
 </td></tr><tr><td>
 
-[[entity-type-in-risk-ws|Entity types]]
+Entity types
 
 </td><td>
 
@@ -322,10 +322,5 @@ Digital resilience information for the third-party engagement. You can add the f
 -   Name of the ICT third-party service provider
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-tp-engagement|Create a third-party engagement and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a third-party engagement and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-tp-engagement.md)
 
-## Related
-
-- [[create-drtp-reg-tp-engagement|Create a third-party engagement and enhance digital resilience data]]
-- [[tprm-create-engmt-form|Create New Third-party engagement form]]
-- [[entity-type-in-risk-ws|Entity types]]

@@ -12,7 +12,7 @@ breadcrumb: [Forms in the classic environment, Working in the classic environmen
 
 # Add users to a watch list
 
-Watch [[lists-configurable-workspace|lists]] enable you and others to subscribe to notifications of a task.
+Watch lists enable you and others to subscribe to notifications of a task.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 1.  Navigate to a record that you want to add watchers to.
 
-    **Note:** Not all records have watch lists. If you’re unable to see a watch list, you may have to [[view-management-overview|adjust your form view]] or ask your administrator to update the form to add a watch list.
+    **Note:** Not all records have watch lists. If you’re unable to see a watch list, you may have to [adjust your form view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md) or ask your administrator to update the form to add a watch list.
 
 2.  Expand the watch list by selecting the lock icon \( \[Omitted image "LockIconNE.png"\] Alt text: lock icon\).
 
@@ -39,14 +39,8 @@ Role required: none
     |\[Omitted image "NEIconAddEmail.png"\] Alt text: Add email address icon|Enter an email address for users who aren’t in the User \[sys\_user\] table or don’t have an email address defined in their user record|
 
 
--   **[[t_ConfigNotifications4WatchLists|Configure email notifications for watch lists]]**  
+-   **[Configure email notifications for watch lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigNotifications4WatchLists.md)**  
 Watch lists \(glide\_list field type\) allow multiple users to subscribe to notifications of a task. You can specify conditions in an email notification to send email notifications to the members when the conditions are met.
 
-**Parent Topic:**[[c_UsingForms|Forms in the classic environment]]
+**Parent Topic:**[Forms in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UsingForms.md)
 
-## Related
-
-- [[view-management-overview|View management]]
-- [[t_ConfigNotifications4WatchLists|Configure email notifications for watch lists]]
-- [[c_UsingForms|Forms in the classic environment]]
-- [[lists-configurable-workspace|Lists]]

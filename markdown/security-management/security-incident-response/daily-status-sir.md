@@ -16,7 +16,7 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 You can create report templates that can be used to generate an incident summary or an executive summary for analysis and sharing.
 
-Use [[sir-landing-page|Security Incident Response]] Report Templates feature to create report templates to generate reports that provide an analyst level or an executive level summary of an incident. You can format and configure the report on the basis of your requirements using various incident fields.
+Use Security Incident Response Report Templates feature to create report templates to generate reports that provide an analyst level or an executive level summary of an incident. You can format and configure the report on the basis of your requirements using various incident fields.
 
 The following table explains the report templates that are provisioned within the base system.
 
@@ -32,9 +32,9 @@ Create a new report template for analyst summary or an executive summary for an 
 -   **[System properties for reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/system-properties-report-sir.md)**  
 The system properties for Security Incident Response reports are explained below.
 -   **[Duplicate a report template in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/duplicate-report-sir.md)**  
-[[tisc-duplicate-template|Duplicate a report template]] to edit or reuse an existing template to create a new template.
+Duplicate a report template to edit or reuse an existing template to create a new template.
 -   **[Edit a report template in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/edit-template-sir.md)**  
-[[edit-report-sir|Edit a report]] template to reuse an existing template to create a new template.
+Edit a report template to reuse an existing template to create a new template.
 
 **Parent Topic:**[Configuring SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-security-incident-response-workspace.md)
 
@@ -63,8 +63,3 @@ The system properties for Security Incident Response reports are explained below
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[tisc-duplicate-template|Duplicate a Report Template]]
-- [[edit-report-sir|Edit a report]]

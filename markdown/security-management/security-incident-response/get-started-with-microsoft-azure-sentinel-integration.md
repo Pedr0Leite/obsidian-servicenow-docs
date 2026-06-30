@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure Sentinel integration, Security Incident Response in
 
 # Get started with Microsoft Azure Sentinel integration
 
-Activate and set up the Microsoft Azure Sentinel - Incident Ingestion for Security Operation plug-in to interface with your ServiceNow AI Platform instance and [[sir-landing-page|Security Incident Response]] product.
+Activate and set up the Microsoft Azure Sentinel - Incident Ingestion for Security Operation plug-in to interface with your ServiceNow AI Platform instance and Security Incident Response product.
 
 **Important:**
 
@@ -22,7 +22,7 @@ Microsoft has extended the deprecation of the Azure Sentinel experience in the A
 
 If you are currently using the Azure Sentinel integration with Security Incident Response \(SIR\), we strongly recommend migrating to the new Defender portal integration \(store link of the defender integration\) as soon as possible. The Defender integration includes a built-in migration utility that automatically converts your existing Sentinel profiles into Defender profiles, while ensuring continuity of incidents created through Sentinel after the transition. For more information, see XX.
 
-Before you can use the [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]], you must download it from the ServiceNow Store.
+Before you can use the Microsoft Azure Sentinel integration, you must download it from the ServiceNow Store.
 
 Role required: Microsoft Azure application developer, Microsoft Azure tenant administrator.
 
@@ -68,7 +68,7 @@ Verify that the ServiceNow core applications that are required to support the in
 
 The ServiceNow Integration Hub Starter Pack Installer \[com.glide.hub.integrations\] plugin is required.
 
- The Security Incident Response plugin \(com.snc.security\_incident\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other [[security-operations-landing-page|Security Operations]] applications that are required by the integration.
+ The Security Incident Response plugin \(com.snc.security\_incident\) is required. This plugin automatically installs all the dependencies that are required to support the Security Incident Response product. Install and activate this plugin before you install and activate the other Security Operations applications that are required by the integration.
 
  Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If these applications aren’t already installed, you must install, and activate each application one at a time in the following order to ensure a smooth installation:
 
@@ -87,9 +87,3 @@ Register your application in the Microsoft Azure portal and grant your users wit
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[microsoft-azure-sentinel-integration|Microsoft Azure Sentinel integration]]
-- [[security-operations-landing-page|Security Operations]]

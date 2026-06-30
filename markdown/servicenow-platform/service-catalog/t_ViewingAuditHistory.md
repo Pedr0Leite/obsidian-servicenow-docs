@@ -30,7 +30,7 @@ Role required: admin \(history list or calendar\), itil \(calendar only\)
 
 </td><td>
 
-Navigate to **[[self-service-landing|Self-Service]]** &gt; **Requested Items** and open the item you requested.
+Navigate to **Self-Service** &gt; **Requested Items** and open the item you requested.
 
 </td></tr><tr><td id="d612645e80">
 
@@ -38,7 +38,7 @@ Navigate to **[[self-service-landing|Self-Service]]** &gt; **Requested Items** a
 
 </td><td>
 
-Navigate to **[[service-catalog|Service Catalog]]** &gt; **Open Records** &gt; **Items** and open the requested item to view.
+Navigate to **Service Catalog** &gt; **Open Records** &gt; **Items** and open the requested item to view.
 
 </td></tr></tbody>
 </table>2.  Open the form context menu and select **History** &gt; **Calendar**, or **History** &gt; **List** \(with permission\).
@@ -50,7 +50,3 @@ Navigate to **[[service-catalog|Service Catalog]]** &gt; **Open Records** &gt; *
 
 **Parent Topic:**[Service Catalog for managers and end users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_UsingTheServiceCatalog.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]
-- [[service-catalog|Service Catalog]]

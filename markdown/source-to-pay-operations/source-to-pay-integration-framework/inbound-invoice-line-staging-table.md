@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[cost-center|Cost center]]
+Cost center
 
 </td><td>
 
@@ -70,7 +70,7 @@ ERP line number.
 
 </td></tr><tr><td>
 
-[[erp-source|ERP source]]
+ERP source
 
 </td><td>
 
@@ -190,7 +190,7 @@ Unit price of the line item in the invoice.This is a mandatory field.
 
 </td></tr><tr><td>
 
-[[purchase-order-table|Purchase order]] line
+Purchase order line
 
 </td><td>
 
@@ -282,7 +282,7 @@ Decimal number Example \(12345.65\)
 
 </td><td>
 
-Total amount of money to be paid to the [[supplier|supplier]] excluding tax and shipping charges.This is a mandatory field.
+Total amount of money to be paid to the supplier excluding tax and shipping charges.This is a mandatory field.
 
 </td></tr><tr><td>
 
@@ -388,9 +388,3 @@ The unit or rate in which this product is sold by the supplier.
 
 [Invoice line stage table]()
 
-## Related
-
-- [[cost-center|Cost center]]
-- [[erp-source|ERP source]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

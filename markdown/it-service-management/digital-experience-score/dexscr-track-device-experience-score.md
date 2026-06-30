@@ -14,7 +14,7 @@ breadcrumb: [Track experience scores, Digital Experience Score, Digital End-User
 
 # Track device experience score
 
-Track and drill down into the quantitative and qualitative data on the [[dexscr-digital-experience-score|Digital Experience Score​]] dashboard to gain a comprehensive view into employee experiences of using work [[dex-workspace-devices-tab|devices]].
+Track and drill down into the quantitative and qualitative data on the Digital Experience Score​ dashboard to gain a comprehensive view into employee experiences of using work devices.
 
 ## Before you begin
 
@@ -72,7 +72,7 @@ Device groups needing attention
 
 </td><td>
 
-The three device OS groups with lowest experience scores and the changes in scores from the previous period. Selecting a device OS group name displays the group's experience score page and details of the device group's [[perf-metrics-mob|performance metrics]].
+The three device OS groups with lowest experience scores and the changes in scores from the previous period. Selecting a device OS group name displays the group's experience score page and details of the device group's performance metrics.
 
 </td></tr></tbody>
 </table>7.  View a list of all device groups and access a group's metric details by selecting either a number in the **No. of device groups** column or the **View all device groups** link.
@@ -93,8 +93,3 @@ The three device OS groups with lowest experience scores and the changes in scor
 
 [DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)
 
-## Related
-
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[perf-metrics-mob|Performance metrics]]

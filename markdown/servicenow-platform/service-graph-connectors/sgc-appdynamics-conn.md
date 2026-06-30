@@ -15,7 +15,7 @@ breadcrumb: [Observability-AppDynamics, Service Graph Connectors, Integrating th
 
 # Accessing the connection details for Service Graph Connector for Observability - AppDynamics
 
-You can access connection details for [[cmdb-integration-appdynamics|Service Graph Connector for Observability - AppDynamics]] using the common connection framework \(CCF\) included with the [[integration-commons-for-cmdb|Integration Commons for CMDB]] \(sn\_cmdb\_int\_util\) store app.
+You can access connection details for Service Graph Connector for Observability - AppDynamics using the common connection framework \(CCF\) included with the Integration Commons for CMDB \(sn\_cmdb\_int\_util\) store app.
 
 With the CCF feature, you can access all connections for a connector. Connection details include the alias, properties, data sources, and associated scheduled data imports. In addition, you can test a connection. Additional details may appear depending on the connector type. For more information, see [Accessing the connection details of Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-conn-fw.md).
 
@@ -29,7 +29,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **AppDynamics** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **AppDynamics** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -39,8 +39,4 @@ Role required: admin
 
 5.  Select the **Test Connection** related link to test the connection.
 
-## Related
 
-- [[cmdb-integration-appdynamics|Service Graph Connector for Observability - AppDynamics]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

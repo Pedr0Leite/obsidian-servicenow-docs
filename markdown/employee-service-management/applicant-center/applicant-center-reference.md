@@ -14,9 +14,5 @@ breadcrumb: [Applicant Center, Hiring Experiences, HR Service Delivery, Employee
 
 # Applicant Center reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the forms, properties, and components in [[applicant-center-concept|Applicant Center]].
+Reference topics provide additional information about the forms, properties, and components in Applicant Center.
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[applicant-center-concept|Applicant Center]]

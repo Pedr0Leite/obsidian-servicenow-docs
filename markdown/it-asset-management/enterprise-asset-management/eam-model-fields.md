@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Model fields for Enterprise Asset Management
 
-A detailed description of all model fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all model fields in the Enterprise Asset Management application.
 
 ## Model Details
 
@@ -60,7 +60,7 @@ A brief description of the model.
 
 </td></tr><tr><td>
 
-[[model-hierarchy|Model categories]]
+Model categories
 
 </td><td>
 
@@ -85,7 +85,7 @@ Asset tracking strategy**Note:** This field doesn’t appear if you’re creatin
 
 </td><td>
 
-Process that is used to track the asset. Options are **Leave to category**, **Create consumable asset**, **Don't [[t_CreatingAssets|create assets]]**.
+Process that is used to track the asset. Options are **Leave to category**, **Create consumable asset**, **Don't create assets**.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Calculated lifecycle template
 
 </td><td>
 
-Lifecycle template to calculate lifecycle dates. This template can be assigned to [[c_Models|models]]
+Lifecycle template to calculate lifecycle dates. This template can be assigned to models
 
 </td></tr><tr><td>
 
@@ -310,7 +310,7 @@ The risk score is automatically populated based on the likelihood and impact val
 
 ## Product Catalog
 
-**Note:** The [[c_ProductCatalog|Product Catalog]] fields only appear for consumable models.
+**Note:** The Product Catalog fields only appear for consumable models.
 
 |Field|Description|
 |-----|-----------|
@@ -320,7 +320,7 @@ The risk score is automatically populated based on the likelihood and impact val
 
 ## Model Components tab
 
-Use this tab to create model components. One or more than one model components is required to [[create-multicomponent-model|create a multi-component model]].
+Use this tab to create model components. One or more than one model components is required to create a multi-component model.
 
 **Note:** The Model components tab is visible only if the model is a multi-component model. If the **Multi-component** field on the Model page has either of the two values: **Pre-assembled** or **User-assembled**, the Model Components tab is visible. If the **Multi-component** field has the value **Not Applicable**, the Model Components tab is not visible.
 
@@ -369,7 +369,7 @@ Lifecycle phase
 
 Phase of the life cycle for a enterprise model.-   **General Availability:** The date when the enterprise model becomes generally available through the manufacturer’s sales channels, including its worldwide subsidiaries, affiliates, and country distributors. The enterprise model is considered current/active and receiving support from the manufacturer.
 -   **End of Sale:**The last date to order the enterprise model through the manufacturer’s sales channels, including its worldwide subsidiaries, affiliates, and country distributors. After end of sale date, the enterprise model is no longer available for sale.
--   **End of Support**: The last date upon which the manufacturer provides standard/regular support for the enterprise model as entitled by active service [[c_Contracts|contracts]]. After this date, the manufacturer may continue to provide active support for certain issues in a limited capacity, the scope of which may vary across different manufacturers according to their lifecycle and/or support policies.
+-   **End of Support**: The last date upon which the manufacturer provides standard/regular support for the enterprise model as entitled by active service contracts. After this date, the manufacturer may continue to provide active support for certain issues in a limited capacity, the scope of which may vary across different manufacturers according to their lifecycle and/or support policies.
 -   **End of Extended Support:** Up until this date, the manufacturer extends limited support for the enterprise model \(after standard/regular support expires\), for a defined period according to manufacturer policy.
 -   **End of Life:**The date which indicates the enterprise model is at the end of its useful life \(from the manufacturer’s point of view\). The manufacturer stops marketing, selling, or sustaining the enterprise model.
 
@@ -426,7 +426,7 @@ Active
 Indicates that the lifecycle of the model is active.
 
 </td></tr></tbody>
-</table>## [[c_ManageVendorCatalogItems|Vendor Catalog Items]] tab
+</table>## Vendor Catalog Items tab
 
 **Note:** The Vendor Catalog Items tab appears only for consumable models.
 
@@ -497,13 +497,3 @@ Indicates that the lifecycle of the model is active.
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[t_CreatingAssets|Create assets]]
-- [[c_Models|Models]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[create-multicomponent-model|Create a multi-component model]]
-- [[c_Contracts|Contracts]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]

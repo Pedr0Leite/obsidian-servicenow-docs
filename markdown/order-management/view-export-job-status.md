@@ -31,18 +31,12 @@ Role required: product\_catalog\_admin for catalog entities, sn\_csm\_pricing\_p
 
 ## What to do next
 
-If the export job is complete, [[import-product-catalog-entities|import the product catalog entities]] or [[import-pricing-entities|import the pricing entities]] to your target instance.
+If the export job is complete, [import the product catalog entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/import-product-catalog-entities.md) or [import the pricing entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/import-pricing-entities.md) to your target instance.
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[import-product-catalog-entities|Import product catalog entities]]
-- [[import-pricing-entities|Import pricing entities]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]

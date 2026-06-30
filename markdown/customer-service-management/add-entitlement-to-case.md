@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Add an entitlement to a case
 
-Add one or more entitlements to a customer service case record in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Add one or more entitlements to a customer service case record in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -24,10 +24,10 @@ Agents can view the available entitlements on a customer service case and associ
 
 Starting with the Zurich release, the **sn\_customerservice.advanced\_entitlements** system property determines if agents can associate one entitlement to a case or multiple entitlements.
 
--   If set to true, the Case Entitlements related list is visible on the [[r_CustomerServiceCaseForm|Case form]] and the **Entitlement** field is hidden. Agents can use this list to associate multiple entitlements to the case.
+-   If set to true, the Case Entitlements related list is visible on the Case form and the **Entitlement** field is hidden. Agents can use this list to associate multiple entitlements to the case.
 -   If set to false, the **Entitlement** field is visible on the Case form and the Case Entitlements related list is hidden. Agents can use this field to associate one entitlement to the case.
 
-For more information, see [[r_PropInstallWcustServ|Properties installed with Customer Service Management]].
+For more information, see [Properties installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_PropInstallWcustServ.md).
 
 ## Procedure
 
@@ -37,7 +37,7 @@ For more information, see [[r_PropInstallWcustServ|Properties installed with Cus
 
 3.  Select the Case Entitlements related list tab and then select **Add**.
 
-    If the record page displays the Related [[migration-lists|Lists]] tab in the contextual side panel, expand the Case Entitlements list and then select **View all** to display the Case Entitlements list.
+    If the record page displays the Related Lists tab in the contextual side panel, expand the Case Entitlements list and then select **View all** to display the Case Entitlements list.
 
 4.  Select one or more entitlements from the Add case entitlements pop-up window.
 
@@ -49,9 +49,4 @@ For more information, see [[r_PropInstallWcustServ|Properties installed with Cus
 
 6.  Select **Save** to save the changes to the case.
 
-## Related
 
-- [[r_PropInstallWcustServ|Properties installed with Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]

@@ -14,7 +14,7 @@ breadcrumb: [Setting up, Teams, Workforce Optimization for ITSM, IT Service Mana
 
 # Add a system property to set default date range in Workforce Optimization for ITSM
 
-Add a system property to set the default date range in the configurable [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] application.
+Add a system property to set the default date range in the configurable Workforce Optimization for ITSM application.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ The Teams application uses the sn\_optimize.default\_date\_range property in the
 
 **Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -15,27 +15,27 @@ breadcrumb: [AI governance life cycle, Explore, AI Risk and Compliance, Governan
 
 # Intake requests
 
-Intake requests are the entry point for managing and governing AI initiatives. They capture essential information about proposed [[ai-system-airc|AI systems]], models, and [[dataset-airc|datasets]] so that requests can be reviewed, triaged, and evaluated early in the AI life cycle.
+Intake requests are the entry point for managing and governing AI initiatives. They capture essential information about proposed AI systems, models, and datasets so that requests can be reviewed, triaged, and evaluated early in the AI life cycle.
 
 ## Intake request overview
 
 Intake requests are used to capture AI-related needs and concerns in a structured way. They help organizations understand what AI is being proposed, how it’s intended to be used, and what risk or compliance considerations may apply.
 
-Submitting an intake request supports the creation of AI asset records that can be tracked in the AI Control Tower and evaluated [[using-ai-risk-and-compliance|using AI Risk and Compliance]] workflows as part of the [[ai-gov-lifecycle|AI governance life cycle]]. Intake can support early screening and initial risk-based classification, but doesn’t automatically approve or govern an AI asset.
+Submitting an intake request supports the creation of AI asset records that can be tracked in the AI Control Tower and evaluated using AI Risk and Compliance workflows as part of the AI governance life cycle. Intake can support early screening and initial risk-based classification, but doesn’t automatically approve or govern an AI asset.
 
 ## Request an AI use case
 
 Use this intake request to propose a new or changed AI system that addresses a business problem. AI use case requests focus on the overall purpose, scope, and intended outcome of the AI capability.
 
-After upgrading to version 22.0.3, if you have the [[ai-risk-and-compliance|AI risk and compliance]] user \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_business\_user\] role, you can support configurable risk‑based classification of AI systems at intake where this capability is enabled.
+After upgrading to version 22.0.3, if you have the AI risk and compliance user \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_business\_user\] role, you can support configurable risk‑based classification of AI systems at intake where this capability is enabled.
 
 **Note:**
 
 Risk‑based classification at intake occurs only when all required configuration steps are completed by a teammate with the AI Risk and Compliance Admin \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin\] role.
 
--   Set the Migrate to Advanced [[risk-assessments|Risk Assessments]] property to publish [[airc-rams|Risk Assessment Methodologies]] \(RAMs\). For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
--   Publish [[airc-assessment-templates|assessment templates]]. For more information, see [Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-assessment-templates.md).
--   Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` to specify a default [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]] used for automated regulatory risk classification of AI systems at intake. For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md).
+-   Set the Migrate to Advanced Risk Assessments property to publish Risk Assessment Methodologies \(RAMs\). For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
+-   Publish assessment templates. For more information, see [Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-assessment-templates.md).
+-   Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` to specify a default Risk Assessment Methodology \(RAM\) used for automated regulatory risk classification of AI systems at intake. For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md).
 -   Configure the `sn_grc_ai_gov.aisystem_primary_ram` property to specify a default Risk Assessment Methodology \(RAM\) for AI systems. For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md).
 
 If these prerequisites aren’t met, intake submissions are accepted but risk classification isn’t performed and the risk classification defaults to **To Be Determined**. After the AI asset is managed by an AI Steward, the Automated Risk Classification is performed to pre-classify as High/ Medium/ Low/Unacceptable.
@@ -44,7 +44,7 @@ Risk-based classification at intake provides an initial screening of AI systems 
 
 Classification is derived from responses to screening questions in the **Use and purpose** section of the intake form and is evaluated using a configured Risk Assessment Methodology \(RAM\). The resulting classification \(for example, **Low**, **Medium**, **High**, **Unacceptable**, or **To Be Determined**\) is recorded on the AI system and used to guide downstream governance workflows.
 
-Risk classification is re-evaluated automatically when Use and Purpose responses are updated. Changes to [[factors|factors]] such as data sensitivity, system autonomy, or level of human involvement can result in an updated classification, which is captured in the activity history for audit purposes.
+Risk classification is re-evaluated automatically when Use and Purpose responses are updated. Changes to factors such as data sensitivity, system autonomy, or level of human involvement can result in an updated classification, which is captured in the activity history for audit purposes.
 
 The Use and Purpose section is automatically enabled when risk-based classification at intake is configured. This section is delivered as part of the product and doesn’t require manual form customization or a separate enablement setting.
 
@@ -78,7 +78,7 @@ This example explains how an organization might use an intake request to propose
 
 A corporate IT team proposes an Email Assistant AI Agent to support internal business users with drafting, summarizing, and responding to work‑related emails. The AI agent is intended to improve productivity by generating suggested email responses, summarizing long email threads, and highlighting required actions for employees.
 
-To initiate governance review, a team member, such as AI Product Owner, Use Case Submitter or Product Innovator from the Corporate Communication Business Unit submits a **[[request-ai-system|Request an AI use case]]** intake request through the [[employee-center|Employee Center]]. The intake captures key information, including:
+To initiate governance review, a team member, such as AI Product Owner, Use Case Submitter or Product Innovator from the Corporate Communication Business Unit submits a **Request an AI use case** intake request through the Employee Center. The intake captures key information, including:
 
 -   The business purpose of the AI agent, such as improving response time and reducing manual effort in corporate communications.
 -   The intended users, for example, employees using corporate email systems.
@@ -111,17 +111,3 @@ Reviewers can update the auto-populated values if needed before submitting the a
 
 [Request an AI use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-system.md)
 
-## Related
-
-- [[ai-system-airc|AI systems]]
-- [[dataset-airc|Datasets]]
-- [[using-ai-risk-and-compliance|Using AI Risk and Compliance]]
-- [[ai-gov-lifecycle|AI governance life cycle]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[factors|factors]]
-- [[request-ai-system|Request an AI use case]]
-- [[employee-center|employee center]]

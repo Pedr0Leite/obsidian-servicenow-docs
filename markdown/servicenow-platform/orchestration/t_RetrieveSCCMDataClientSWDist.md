@@ -24,12 +24,12 @@ Before starting this procedure:
 
 -   Set up your Microsoft System Center Configuration Manager \(SCCM\) server, create the applications and collections, and configure the deployments you need. For information, see your SCCM documentation.
 -   [Configure a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t-config-SCCM-deployment-manager.md) with the Application Deployment Manager role on the SCCM server.
--   Set up the [[mid-server-landing|MID Server]] to communicate with the SCCM server.
+-   Set up the MID Server to communicate with the SCCM server.
 -   Add Powershell credentials to the ServiceNow Credentials \[discovery\_credentials\] table for the SCCM user who has the Application Deployment Manager role.
 
 ## About this task
 
-To populate the [[c_ClientSoftwareDistribution|Client Software Distribution]] application with SCCM data:
+To populate the Client Software Distribution application with SCCM data:
 
 ## Procedure
 
@@ -90,7 +90,7 @@ SCCM Collection \[sn\_client\_sf\_dist\_sccm\_collection\]
 
 </td></tr><tr><td>
 
-[[r_SCCMDeploymentProcessWorkflow|SCCM Deployment]] \[sn\_client\_sf\_dist\_sccm\_deployment\]
+SCCM Deployment \[sn\_client\_sf\_dist\_sccm\_deployment\]
 
 </td><td>
 
@@ -101,8 +101,3 @@ SCCM Collection \[sn\_client\_sf\_dist\_sccm\_collection\]
 </td></tr></tbody>
 </table>**Note:** For details about the custom activities used in this workflow to extract data from an SCCM server, see [Orchestration SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md).
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[r_SCCMDeploymentProcessWorkflow|SCCM deployment]]

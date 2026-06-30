@@ -14,7 +14,7 @@ breadcrumb: [Password Reset verifications, Configure your Password Reset process
 
 # SMS Code Verification type for Password Reset
 
-Using the Simple Message Service \(SMS\) Code Verification type, a user can verify identity with the help of any SMS-enabled device, like a cell phone that accepts text messages. When a user requests [[password-reset-landing-page|password reset]], the system sends a numerical code to the device and the user then enters the code on the Password Reset Verification page.
+Using the Simple Message Service \(SMS\) Code Verification type, a user can verify identity with the help of any SMS-enabled device, like a cell phone that accepts text messages. When a user requests password reset, the system sends a numerical code to the device and the user then enters the code on the Password Reset Verification page.
 
 You can change the default behavior of an SMS code verification using either of the following methods:
 
@@ -77,11 +77,7 @@ Maximum number of codes sent for verification in one day.**Data Type**: integer 
 For information on how users enroll for SMS verification, see [Enroll for the Password Reset program using SMS codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_EnrollUsingSMS.md).
 
 -   **[Use Notify to send SMS codes for enrollment and verification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_NotifyForSMSVerification.md)**  
-You can configure the Password Reset application to send SMS codes for enrollment and verification using the ServiceNow [[notify-landing-page|Notify]] application \(via the Twilio SMS Messaging system\). Notify is tightly integrated with the workflow engine and business rules and delivers a highly configurable and trusted way to deliver SMS messages.
+You can configure the Password Reset application to send SMS codes for enrollment and verification using the ServiceNow Notify application \(via the Twilio SMS Messaging system\). Notify is tightly integrated with the workflow engine and business rules and delivers a highly configurable and trusted way to deliver SMS messages.
 
 **Parent Topic:**[Password Reset verifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/c_PWRVerifications.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[notify-landing-page|Notify]]

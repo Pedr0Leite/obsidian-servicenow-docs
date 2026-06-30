@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for Legal Service Delivery \(LSD\), Legal Ser
 
 # Configuring Q&amp;A Genius Results in Now Assist for Legal Service Delivery \(LSD\)
 
-By using Q&amp;A Genius Results in the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application, you can quickly find the most optimal information in [[employee-center-landing-page|Employee Center]], [[legal-counsel-center-landing|Legal Counsel Center]], and global search.
+By using Q&amp;A Genius Results in the Now Assist for Legal Service Delivery \(LSD\) application, you can quickly find the most optimal information in Employee Center, Legal Counsel Center, and global search.
 
 ## Q&amp;A Genius Results overview
 
@@ -25,15 +25,9 @@ The Q&amp;A Genius Results capability enables request fulfillers and legal users
 
 ## Q&amp;A Genius Results configuration
 
-For Legal Counsel Center, the Q&amp;A Genius Results feature is activated by default when you install and activate AI Search and the [[legal-management-overview|Legal Service Delivery]] - Prime plugin \(sn\_lg\_ai\_prime\) application.
+For Legal Counsel Center, the Q&amp;A Genius Results feature is activated by default when you install and activate AI Search and the Legal Service Delivery - Prime plugin \(sn\_lg\_ai\_prime\) application.
 
 For global search and Employee Center, you must enable Q&amp;A Genius Results manually. For more information, see [Enabling Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/enabling-now-assist-qa-grs.md) and [Enable Now Assist genius results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/na-qa-activate.md).
 
 For more information on the other supported search engines, see [Search in Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-search-overview.md).
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[employee-center-landing-page|Employee Center]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-management-overview|Legal Service Delivery]]

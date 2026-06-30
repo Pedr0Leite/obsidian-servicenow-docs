@@ -14,12 +14,12 @@ breadcrumb: [Microsoft Teams integration for Agent Experience, Configure, Servic
 
 # Configure Notify connector for Microsoft Teams
 
-Configure your ServiceNow instance with [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] application to enable making calls using Microsoft Teams.
+Configure your ServiceNow instance with Notify connector for Microsoft Teams application to enable making calls using Microsoft Teams.
 
 After configuring, for information about using Notify connector for Microsoft Teams, see [Use Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c-agent-ex-use-nc.md).
 
 -   **[Make Microsoft Teams the default communication channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ms-teams-service-provider.md)**  
-[[configure-ms-teams-service-provider|Make Microsoft Teams the default communication channel]] to initiate a conference call to resolve a ticket.
+Make Microsoft Teams the default communication channel to initiate a conference call to resolve a ticket.
 -   **[Manage Notify Connector for Microsoft Teams properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/manage-notify-properties.md)**  
 Manage the Notify connector for Microsoft Teams application properties to configure the calling capabilities.
 -   **[Configure the conference bridge numbers to join calls via phone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-conference-bridge-number.md)**  
@@ -33,7 +33,3 @@ Create a custom email field to use Microsoft Teams app to initiate call for the 
 
 **Parent Topic:**[Configuring Microsoft Teams integration for Agent Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_agent_ex_config.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[configure-ms-teams-service-provider|Make Microsoft Teams the default communication channel]]

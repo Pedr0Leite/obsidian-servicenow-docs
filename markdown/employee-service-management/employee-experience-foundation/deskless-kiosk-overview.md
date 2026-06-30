@@ -31,28 +31,28 @@ Using the Kiosk application, deskless employees can manage their time off, sched
 -   **Personalized self-service experience**: Access relevant information and services that help with day-to-day work.
 -   **Feedback drawer widget**: Organizations can easily capture feedback on the Kiosk experience using the experience feedback drawer widget on the home page. For more information, see [Integrated experience and service feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdback-ovrvw.md).
 
-**Note:** Employee Center Pro Kiosk \(sn\_ex\_sp\_pro\_kiosk\) home page is available with [[employee-center-pro-landing|Employee Center Pro]] \(com.snc.employee\_center\_pro\) license.
+**Note:** Employee Center Pro Kiosk \(sn\_ex\_sp\_pro\_kiosk\) home page is available with Employee Center Pro \(com.snc.employee\_center\_pro\) license.
 
-Access all your information and services from a unified location from external applications such as Ultimate Kronos Group. Installation of the [[hr-service-delivery|HR Service Delivery]] with the UKG plugin \(com.sn\_hr\_ukg\) provides a default setup of the UKG spoke. For more information, see [Integrate with the UKG spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-kiosk-kronos.md).
+Access all your information and services from a unified location from external applications such as Ultimate Kronos Group. Installation of the HR Service Delivery with the UKG plugin \(com.sn\_hr\_ukg\) provides a default setup of the UKG spoke. For more information, see [Integrate with the UKG spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-kiosk-kronos.md).
 
 ## Prerequisites
 
-This portal supports displaying timeoff balance, employee schedule, my requests, and [[apn-config-getsupport|get support]] for deskless workers. Employee Center Pro Kiosk has a dependency on the following applications.
+This portal supports displaying timeoff balance, employee schedule, my requests, and get support for deskless workers. Employee Center Pro Kiosk has a dependency on the following applications.
 
 **Note:** Ensure you activate these applications first before installing the Employee Center Pro Kiosk app from ServiceNow Store.
 
 -   Employee Center Pro \(sn\_ex\_sp\_pro\)
--   [[employee-center-landing-page|Employee Center]] \(sn\_ex\_sp\)
+-   Employee Center \(sn\_ex\_sp\)
 -   Employee Experience Foundation \(sn\_ex\_emp\_fd\)
--   [[emp-slate-employee-profile|Employee Profile]] \(sn\_employee\)
+-   Employee Profile \(sn\_employee\)
 -   HR Service Delivery Integration with Ultimate Kronos Group \(sn\_hr\_ukg\)
 -   UKG Spoke \(sn\_kronos\_spoke\)
 
     **Note:** Installation of the com.sn\_hr\_ukg plugin provides a default setup of the UKG spoke.
 
--   \(Optional\) [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
+-   \(Optional\) Health and Safety Incident Management
 
-    **Note:** To report [[health-safety-overview|health and safety]], activate the plugin and apply the `sn_ohs_im.reporter` role.
+    **Note:** To report health and safety, activate the plugin and apply the `sn_ohs_im.reporter` role.
 
 
 ## Kiosk users and roles
@@ -74,7 +74,7 @@ You can configure the widget instance options to control how data is displayed w
 -   **[Configure the mail and SMS send to self](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-sendtoself-sms-email.md)**  
 Help employees access information easily by sending required information as an SMS or email.
 -   **[Integrate with the UKG spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/integrate-kiosk-kronos.md)**  
-[[integrate-kiosk-kronos|Integrate with the UKG spoke]] to use the Employee Center Pro Kiosk in your organization.
+Integrate with the UKG spoke to use the Employee Center Pro Kiosk in your organization.
 -   **[Use Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-eck-homepage.md)**  
 Use the Kiosk experience to self-serve, leading to improved productivity, and operational efficiencies for the organization.​
 
@@ -87,13 +87,3 @@ Use the Kiosk experience to self-serve, leading to improved productivity, and op
 
 [Integrated experience and service feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-fdback-ovrvw.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[apn-config-getsupport|Get support]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[integrate-kiosk-kronos|Integrate with the UKG spoke]]

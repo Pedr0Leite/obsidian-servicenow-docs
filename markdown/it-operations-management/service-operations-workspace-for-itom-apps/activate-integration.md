@@ -14,7 +14,7 @@ breadcrumb: [Integrations Launchpad in SOW for ITOM, Using SOW for ITOM, Service
 
 # Activate integration
 
-Activate integration allows you to enable a previously deactivated connector integration, restoring its functionality. This feature helps you seamlessly resume data flow and integration activities, ensuring continuity and efficient [[c_EM|event management]] without the need to reconfigure the integration.
+Activate integration allows you to enable a previously deactivated connector integration, restoring its functionality. This feature helps you seamlessly resume data flow and integration activities, ensuring continuity and efficient event management without the need to reconfigure the integration.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -40,8 +40,4 @@ Role required: evt\_mgmt\_admin
 
     The selected integration is activated, and its status is shown as **Active** on the installation tile.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

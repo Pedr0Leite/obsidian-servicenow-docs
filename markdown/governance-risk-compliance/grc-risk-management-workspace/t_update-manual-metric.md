@@ -26,7 +26,7 @@ You can use the same form for updating the automated metric definition, manual m
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Metrics**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Metrics**.
 
 2.  Select a metric definition from the list.
 
@@ -362,6 +362,3 @@ Details of the thresholds associated with the metric, such as type, related metr
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

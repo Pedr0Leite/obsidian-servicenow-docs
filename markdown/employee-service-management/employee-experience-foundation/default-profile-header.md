@@ -80,7 +80,7 @@ The default Employee Profile header configuration record contains the following 
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -102,6 +102,3 @@ The default Employee Profile header configuration record contains the following 
 
 [Website configuration form]()
 
-## Related
-
-- [[ec-notification-content|Notification content]]

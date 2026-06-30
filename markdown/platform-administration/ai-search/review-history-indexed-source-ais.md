@@ -14,7 +14,7 @@ breadcrumb: [AI Search logging and debugging, Administer, AI Search, Search admi
 
 # Review ingestion history for an indexed source
 
-View processing [[hs-results|results]] and performance statistics associated with an ingestion event for an indexed source.
+View processing results and performance statistics associated with an ingestion event for an indexed source.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-The [[ia-ai-search|AI Search]] Indexed Source History \[ais\_ingest\_datasource\_stats\] table contains records for indexed source ingestion events. Each record includes performance statistics and processing results for the ingestion event. You can review the ingestion event history record to analyze ingestion performance and diagnose issues.
+The AI Search Indexed Source History \[ais\_ingest\_datasource\_stats\] table contains records for indexed source ingestion events. Each record includes performance statistics and processing results for the ingestion event. You can review the ingestion event history record to analyze ingestion performance and diagnose issues.
 
 ## Procedure
 
@@ -32,15 +32,10 @@ The [[ia-ai-search|AI Search]] Indexed Source History \[ais\_ingest\_datasource\
 
 3.  In the Indexing History related list, open the ingestion event record that you want to review.
 
-4.  On the [[indexed-source-history-form-ais|Indexed Source History form]], review the fields for the selected ingestion event.
+4.  On the Indexed Source History form, review the fields for the selected ingestion event.
 
     For a description of the field values, see [Indexed Source History form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-history-form-ais.md).
 
 
 **Parent Topic:**[AI Search logging and debugging](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/logging-debugging-ais.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-history-form-ais|Indexed Source History form]]

@@ -22,7 +22,7 @@ You must have contribute access to the knowledge base that stores the knowledge 
 
 Ensure that the system administrator verifies the following settings:
 
--   [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) is activated.
+-   Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is activated.
 -   I18N: Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated.
 
     **Note:** The 18N: Internationalization plugin \(com.glide.i18n\) activates the I18N: Knowledge Management Internationalization Plugin v2 plugin.
@@ -61,6 +61,3 @@ The translation task is created for the article in the selected languages and as
 
 [Translate a knowledge article from a translation task in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/translate-article-agent.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

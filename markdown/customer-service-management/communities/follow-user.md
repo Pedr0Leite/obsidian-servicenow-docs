@@ -26,7 +26,7 @@ There are several ways of following users in the community.
 
 ## Procedure
 
-1.  From the [[servicenow-communities|Communities]] homepage, perform one of the following actions.
+1.  From the Communities homepage, perform one of the following actions.
 
     -   Click your profile name or photo.
     -   Click your profile name or photo and then the **Network** tab.
@@ -40,6 +40,3 @@ There are several ways of following users in the community.
 
 **Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

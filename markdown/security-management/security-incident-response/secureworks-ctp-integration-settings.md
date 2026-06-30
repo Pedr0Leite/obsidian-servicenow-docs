@@ -14,15 +14,11 @@ breadcrumb: [Secureworks CTP Ticket Ingestion Integration, Security Incident Res
 
 # Configuration settings
 
-Use this option to modify the [[secureworks-ctp-about|Secureworks CTP ticket ingestion integration]] default system properties.
+Use this option to modify the Secureworks CTP ticket ingestion integration default system properties.
 
 To modify the system properties, log in as a user with the `sn_si.admin` role and navigate to **Secureworks Ticket Ingestion Integration** &gt; **Secureworks Integration Settings**.
 
-The default [[qradar-ibm-intg-settings|configuration settings]] are displayed. You can modify these settings if required.
+The default configuration settings are displayed. You can modify these settings if required.
 
 Any modified integration settings will be applied during the next polling interval as defined in the profile.
 
-## Related
-
-- [[secureworks-ctp-about|Secureworks CTP Ticket Ingestion Integration]]
-- [[qradar-ibm-intg-settings|Configuration settings]]

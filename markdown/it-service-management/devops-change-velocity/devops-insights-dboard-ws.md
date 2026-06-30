@@ -18,7 +18,7 @@ The DevOps Insights dashboard provides a flexible graphical view of operational 
 
 ## Summary dashboard
 
-The DevOps Insights Summary dashboard enables an overview of key metrics across various categories from accelerate to quality metrics along with a quick glance of the most active [[dex-workspace-application-tab|applications]].
+The DevOps Insights Summary dashboard enables an overview of key metrics across various categories from accelerate to quality metrics along with a quick glance of the most active applications.
 
 **Summary reports**
 
@@ -280,7 +280,7 @@ Automated vs manual changes
 
 </td><td>
 
-Comparison between the numbers of DevOps change requests using [[change-approval-policy|change approval policies]] and DevOps change requests requiring manual approval.
+Comparison between the numbers of DevOps change requests using change approval policies and DevOps change requests requiring manual approval.
 
  -   A change request is considered automated when a change policy performs the approve/reject action.
 -   A manual change is any change request that is assigned to a user or group for the approve/reject action and isn’t acted on by a change policy.
@@ -809,8 +809,3 @@ Needs Step type to be Prod Deploy.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[change-approval-policy|Change approval policies]]

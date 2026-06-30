@@ -15,15 +15,15 @@ breadcrumb: [Working with Supplier Catalog, Using Supplier Collaboration Portal 
 
 # Submit Invoice Inquiry
 
-Submit an invoice inquiry case through the [[supplier-central|Supplier Collaboration Portal]] to report an issue to the accounts payable team for evaluation and resolution.
+Submit an invoice inquiry case through the Supplier Collaboration Portal to report an issue to the accounts payable team for evaluation and resolution.
 
 ## Before you begin
 
-Role required: [[supplier|Supplier]]
+Role required: Supplier
 
 ## Procedure
 
-1.  Navigate to **Supplier Catalog** &gt; **[[invoices|Invoices]]** &gt; **Submit an invoice inquiry**.
+1.  Navigate to **Supplier Catalog** &gt; **Invoices** &gt; **Submit an invoice inquiry**.
 
 2.  On the **Submit an invoice inquiry** form, enter the following details.
 
@@ -41,7 +41,7 @@ Description
 
 </td><td>
 
-Supplier- Displays the name of the supplier associated with the [[supplier-contact|supplier contact]] based on your selection from the **My Company**tab.
+Supplier- Displays the name of the supplier associated with the supplier contact based on your selection from the **My Company**tab.
 
 </td></tr><tr><td id="d134606e117">
 
@@ -84,9 +84,3 @@ Description- Detailed description about the invoice inquiry.
 
 **Parent Topic:**[Working with Supplier Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-supplier-catalog.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[supplier-contact|Supplier contact]]

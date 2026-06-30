@@ -12,7 +12,7 @@ breadcrumb: [Schedules and sites, Use, Customer Service Management]
 
 # Managing agent calendar
 
-Customer service agents and field service technicians can [[use-agent-calendar|use the agent calendar]] to see work schedules and assignments and also add personal events such as meetings or appointments.
+Customer service agents and field service technicians can use the agent calendar to see work schedules and assignments and also add personal events such as meetings or appointments.
 
 The agent calendar provides a tool for maintaining different work schedules or shifts and assigning agents and technicians to shifts for specific time periods. The calendar has the flexibility to accommodate work schedules that are fixed or varied and shifts that rotate by week, month, or other patterns. The agent calendar administrator creates the calendar configuration, including a schedule configuration for each calendar user and the types of tasks to display on the calendar.
 
@@ -42,7 +42,7 @@ Agents can add events to their calendars by double-clicking a specific time slot
 
 ## Plugins
 
-The Agent Schedule plugin \(com.snc.agent\_schedule\) is activated as part of the [[c_CustomerServiceManagement|Customer Service Management]] and Field Service Management plugins.
+The Agent Schedule plugin \(com.snc.agent\_schedule\) is activated as part of the Customer Service Management and Field Service Management plugins.
 
 ## Tables
 
@@ -140,10 +140,5 @@ Allows customer service agents and field service technicians to access and updat
 
 [Creating and using schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UseSchedules.md)
 
-[[configure-agent-calendar|Configuring an agent calendar]]
+[Configuring an agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-agent-calendar.md)
 
-## Related
-
-- [[configure-agent-calendar|Configuring an agent calendar]]
-- [[use-agent-calendar|Use the agent calendar]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

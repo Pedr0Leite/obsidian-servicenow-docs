@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist, Common GRC features, Governance, Risk, and C
 
 # Customize the issue summarization skill in Now Assist for Integrated Risk Management \(IRM\)
 
-If you have the admin role, you can customize the [[issue-summarization-skill|issue summarization skill]] so that users can use the generative AI skills in [[risk-workspace|Risk Workspace]] and in Core UI.
+If you have the admin role, you can customize the issue summarization skill so that users can use the generative AI skills in Risk Workspace and in Core UI.
 
 ## Before you begin
 
@@ -84,7 +84,3 @@ From the Now Assist Admin console, you can select the input data in various stat
 
 You can select **Summarize** in an issue to generate the issue summary.
 
-## Related
-
-- [[issue-summarization-skill|Issue Summarization skill]]
-- [[risk-workspace|risk workspace]]

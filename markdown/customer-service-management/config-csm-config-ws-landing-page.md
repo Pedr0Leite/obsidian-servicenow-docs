@@ -20,7 +20,7 @@ Role required: workspace\_admin, ui\_builder\_admin, admin
 
 ## About this task
 
-A landing page is the page that an agent sees when they open their workspace. One landing page for [[csm-workspaces-configure|CSM Configurable Workspace]] is included with the Customer Service plugin \(com.sn\_customerservice\). This page, the **[[csm-ws-landing-page-original|CSM Landing Page]]**, gives agents an overview of their new, assigned and high priority cases, plus the cases assigned to their groups.
+A landing page is the page that an agent sees when they open their workspace. One landing page for CSM Configurable Workspace is included with the Customer Service plugin \(com.sn\_customerservice\). This page, the **CSM Landing Page**, gives agents an overview of their new, assigned and high priority cases, plus the cases assigned to their groups.
 
 You can create a variant of this page in [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md), a WYSIWYG web user interface builder, and modify it as needed.
 
@@ -42,7 +42,7 @@ Description
 
 </td><td>
 
-The layout governs the slots that are available on a page, how the slots are positioned, and what CSS [[gamification-components-rules|rules]] apply to them. For more information about layouts and layout systems, see [Work with layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-layouts.md).
+The layout governs the slots that are available on a page, how the slots are positioned, and what CSS rules apply to them. For more information about layouts and layout systems, see [Work with layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-layouts.md).
 
 </td></tr><tr><td>
 
@@ -50,7 +50,7 @@ The layout governs the slots that are available on a page, how the slots are pos
 
 </td><td>
 
-Components are the base elements of your page. Components range from core elements like buttons and labels to more complex experience components like [[migration-lists|lists]] and [[migration-forms|forms]]. For more information, see [Work with components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-components.md).**Note:** You can also find information about UI Builder components on the ServiceNow developer site. For more information, see the component documentation on www.devportaldocs.service-now.com/.
+Components are the base elements of your page. Components range from core elements like buttons and labels to more complex experience components like lists and forms. For more information, see [Work with components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-components.md).**Note:** You can also find information about UI Builder components on the ServiceNow developer site. For more information, see the component documentation on www.devportaldocs.service-now.com/.
 
 </td></tr><tr><td>
 
@@ -96,10 +96,4 @@ Connect data resources to dynamically expose data from tables, records, or other
     -   [Add a modal to a component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/modals-uib.md): Beginning with step 5, add a window that appears when a user clicks a component. For example, if you add a button component that deletes a record, you can add a modal that asks the user to confirm the record deletion.
 7.  Click **Save** to save the page variant.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-ws-landing-page-original|CSM Landing Page]]
-- [[gamification-components-rules|Rules]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]

@@ -12,7 +12,7 @@ breadcrumb: [Creating guidance and field recommendation in Recommended Actions, 
 
 # Configure a guidance preview experience
 
-Configure a preview experience that conveys relevant information about the guidance action to the agent before a recommendation is triggered. This information appears on the [[configure-nba|Recommended Actions]] card in the contextual side panel.
+Configure a preview experience that conveys relevant information about the guidance action to the agent before a recommendation is triggered. This information appears on the Recommended Actions card in the contextual side panel.
 
 ## Before you begin
 
@@ -63,6 +63,4 @@ You must configure at least one of these elements to save the guidance preview. 
 
 7.  Click **Submit**.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]

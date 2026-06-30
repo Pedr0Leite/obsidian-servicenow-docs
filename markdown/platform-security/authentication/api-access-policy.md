@@ -16,7 +16,7 @@ breadcrumb: [Authentication, Access Management]
 
 API access policy defines the permissions and duration of access to an API.
 
-API access policy enables you to restrict access to inbound ServiceNow® APIs based on the [[c_Authentication|authentication]] type and the specified [[adaptive-auth-filter-criteria|filter criteria]] of the access policy.
+API access policy enables you to restrict access to inbound ServiceNow® APIs based on the authentication type and the specified filter criteria of the access policy.
 
 Following are the three level auth policy support for the non-interactive sessions:
 
@@ -26,7 +26,7 @@ Following are the three level auth policy support for the non-interactive sessio
 
 **Note:** If you add a global auth policy, then the policy applies for all the REST APIs, SOAP APIs, or System/Export Processors.
 
-Following are the plugins auto-installed for API [[ca-policies|policies]] and authentication scope:
+Following are the plugins auto-installed for API policies and authentication scope:
 
 -   com.glide.rest.policy
 -   com.glide.soap.policy
@@ -40,11 +40,5 @@ The following API access policies are supported in ServiceNow®:
 -   [REST API access policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/inbound-authentication-profile.md)
 -   [SOAP API access policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/soap-api-access-policies.md)
 
-For information about policies related to [[export|export]] processors, see [Access policy for System or Export Processors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-auth-policy-export-processors.md).
+For information about policies related to export processors, see [Access policy for System or Export Processors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-auth-policy-export-processors.md).
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[ca-policies|Policies]]
-- [[export|Export]]

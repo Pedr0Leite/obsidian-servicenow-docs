@@ -14,7 +14,7 @@ breadcrumb: [Reference, SPW Jira Integrations, Strategic Planning, Strategic Por
 
 # Default mapping configuration for SPW Jira Integrations
 
-Learn about the default mapping configuration of Epic, Story, and Sprint work types between [[alignment-planner-workspace-landing-page|Strategic Planning]] and Jira.
+Learn about the default mapping configuration of Epic, Story, and Sprint work types between Strategic Planning and Jira.
 
 ## Epic mapping configuration
 
@@ -59,6 +59,3 @@ Enterprise agile iteration \[sn\_apw\_advanced\_eap\_iteration\] in Strategic Pl
 
 [Review default mapping configuration for Jira projects in SPW](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/review-default-map-config-jira-projects-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -23,13 +23,13 @@ The Portfolio level includes the following tabs:
 
 ## Board
 
-The **Board** tab enables you to track all the epics of your portfolio in a single view. Board is built on visual task boards, which transform the navigation of lists and [[form-field-information-for-dw|forms]] into an interactive graphical experience. The visual task board interface provides a graphic-rich environment for managing and collaborating.
+The **Board** tab enables you to track all the epics of your portfolio in a single view. Board is built on visual task boards, which transform the navigation of lists and forms into an interactive graphical experience. The visual task board interface provides a graphic-rich environment for managing and collaborating.
 
 In addition, you can move an epic from one lane to another, which in turn updates the state of the epic. To learn more about the actions that can be performed in the board, see [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_VisualTaskBoards.md).
 
 ## Backlog
 
-The **Backlog** tab enables you to [[manage-your-portfolio-backlog|manage your portfolio backlog]], which comprises epics.
+The **Backlog** tab enables you to manage your portfolio backlog, which comprises epics.
 
 -   **[Track your epics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/track-epics.md)**  
 Using the Board tab, track all epics of your portfolio and view their transition from one state \(lane\) to another.
@@ -45,7 +45,3 @@ Manage, evaluate, prioritize, and sequence epics in your portfolio backlog.
 
 [Define a portfolio]()
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[manage-your-portfolio-backlog|Manage your portfolio backlog]]

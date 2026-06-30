@@ -16,7 +16,7 @@ Activate the Now Assist in AI Search application to extract actionable Q&amp;A G
 
 ## About this task
 
-Configure and use the AI Search engine in the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application.
+Configure and use the AI Search engine in the Now Assist for Public Sector Digital Services \(PSDS\) application.
 
 **Note:** By default, Now Assist Search is enabled in Now Assist for Public Sector Digital Services \(PSDS\). Follow these steps only if the application has been previously disabled.
 
@@ -32,6 +32,4 @@ Role required: admin
 
 3.  Wait until AI Search is displayed as activated and ready for use.
 
-## Related
 
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

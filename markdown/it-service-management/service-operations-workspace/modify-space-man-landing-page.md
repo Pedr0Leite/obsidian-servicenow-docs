@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The image on the banner of the header section in the SOW [[dex-workspace-dashboard-tab|landing page]] supports custom themes for a more personalized experience.
+The image on the banner of the header section in the SOW landing page supports custom themes for a more personalized experience.
 
 ## Procedure
 
@@ -39,6 +39,3 @@ The image on the banner of the header section in the SOW [[dex-workspace-dashboa
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]

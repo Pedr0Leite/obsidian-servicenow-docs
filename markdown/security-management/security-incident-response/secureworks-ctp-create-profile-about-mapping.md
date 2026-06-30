@@ -16,14 +16,10 @@ breadcrumb: [Create a profile, Secureworks CTP Ticket Ingestion Integration, Sec
 
 Map the ticket and event fields to the fields in the security incident form.
 
-For the [[mapping-logrhythm|mapping]] step, you must first ingest sample tickets and then ensure that all the relevant ticket fields are mapped to the appropriate place on the [[sir-landing-page|Security Incident Response]] form and then visualize the security incident in the preview section.
+For the mapping step, you must first ingest sample tickets and then ensure that all the relevant ticket fields are mapped to the appropriate place on the Security Incident Response form and then visualize the security incident in the preview section.
 
 Mapping of the sample ticket fields involves the following:
 
 -   Fetching and populating of the sample data: See [Ingesting the sample Secureworks tickets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/secureworks-ctp-create-profile-ingestion.md)
 -   Mapping the ticket fields to the security incident: See [Mapping Secureworks ticket fields to security incident response fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/secureworks-ctp-create-profile-mapping.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]

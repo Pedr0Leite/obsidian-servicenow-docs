@@ -20,24 +20,17 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaigns** &gt; **[[mco-rcl-clms|Recall Campaign]] Phases**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaigns** &gt; **Recall Campaign Phases**.
 
 2.  Select **Create Sub-phase**.
 
 3.  On the recall campaign phases form, fill in the fields.
 
-    For a description of the field values, see [[mco-recall-campaign-phases-form|Recall campaign phase form]].
+    For a description of the field values, see [Recall campaign phase form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases-form.md).
 
 
--   **[[mco_assign_unassign_impacted_assets|Assign or unassign impacted assets]]**  
+-   **[Assign or unassign impacted assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco_assign_unassign_impacted_assets.md)**  
 Create a impacted asset list and assign or unassign it to a phases or sub-phases.
 
-**Parent Topic:**[[mco-recall-campaign-phases|Recall a campaign phase]]
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 
-## Related
-
-- [[mco-recall-campaign-phases-form|Recall campaign phase form]]
-- [[mco_assign_unassign_impacted_assets|Assign or unassign impacted assets]]
-- [[mco-recall-campaign-phases|Recall a campaign phase]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

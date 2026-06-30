@@ -12,7 +12,7 @@ breadcrumb: [CPQ, Configure, price, quote, Reference, Sales Customer Relationshi
 
 # CPQ Support Team access to customer Salesforce sites
 
-Learn how CPQ support team members can securely access customer Salesforce and CPQ Admin environments for [[troubleshooting|troubleshooting]]. This article outlines recommended access methods, user-management practices, and considerations for customers with stricter security policies.
+Learn how CPQ support team members can securely access customer Salesforce and CPQ Admin environments for troubleshooting. This article outlines recommended access methods, user-management practices, and considerations for customers with stricter security policies.
 
 This document outlines the standard processes for CPQ support team members to gain access to customer environments. These procedures ensure secure, efficient support while maintaining appropriate access controls.
 
@@ -30,7 +30,7 @@ Support team members may need access to CPQ Admin in customer environments. To l
 
 ## User management
 
-There is no standard timeline for access removal. Customers can [[Modify|modify]] access levels by changing CPQ support users to End User or by deactivating the SFDC user.
+There is no standard timeline for access removal. Customers can modify access levels by changing CPQ support users to End User or by deactivating the SFDC user.
 
 In test environments, many customers let our provisioning user stay active indefinitely. Some utilize our user as the integration user for product/pricebook synchronization, which lets us troubleshoot more quickly because we can directly investigate the issue.
 
@@ -38,7 +38,3 @@ During a support case, disabled user accounts can be reactivated upon request.
 
 **Parent Topic:**[CPQ reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[troubleshooting|Troubleshooting]]
-- [[Modify|Modify]]

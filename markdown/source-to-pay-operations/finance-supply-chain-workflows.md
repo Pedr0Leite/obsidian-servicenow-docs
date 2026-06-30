@@ -15,19 +15,19 @@ breadcrumb: [Finance and Supply Chain]
 
 ServiceNow Finance and Supply Chain workflows coordinate finance, procurement, and supply chain activities on a workflow-driven platform, reducing manual effort and improving visibility across teams, systems, and suppliers.
 
-Finance and Supply Chain workflows include product suites, products, and applications that support different [[finance-supply-chain-landing|finance and supply chain]] use cases. These workflows connect teams, systems, and suppliers across core business processes.
+Finance and Supply Chain workflows include product suites, products, and applications that support different finance and supply chain use cases. These workflows connect teams, systems, and suppliers across core business processes.
 
 ## What Finance and Supply Chain workflows include
 
-Finance and Supply Chain workflows consist of components that support procurement, finance, and [[supplier-operations|supplier operations]]. Each component addresses specific business needs within the broader finance and supply chain landscape.
+Finance and Supply Chain workflows consist of components that support procurement, finance, and supplier operations. Each component addresses specific business needs within the broader finance and supply chain landscape.
 
 |Component|Where it belongs|Description|
 |---------|----------------|-----------|
-|[[source-to-pay-operations-overview|Source-to-Pay Operations]]|Product suite \(within Finance and Supply Chain workflows\)|Supports end-to-end procurement and payment processes by bringing together [[supplier|supplier]], sourcing, purchasing, and payment workflows.|
+|[Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-operations-overview.md)|Product suite \(within Finance and Supply Chain workflows\)|Supports end-to-end procurement and payment processes by bringing together supplier, sourcing, purchasing, and payment workflows.|
 |[Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-mgmt-landing-page.md)|Product \(within Source-to-Pay Operations product suite\)|Manages supplier onboarding, offboarding, and ongoing supplier data management, including collaboration and governance.|
 |[Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/psm-overview.md)|Product \(within Source-to-Pay Operations product suite\)|Supports sourcing and procurement workflows, purchasing activities, and spend visibility.|
 |[Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/acc-pay-mgmt-landing-page.md)|Product \(within Source-to-Pay Operations product suite\)|Automates invoice processing, exception handling, approvals, and payment-related workflows.|
-|[[purchase-order-mgmt-landing-page|Purchase Order Management]]|Application \(within Source-to-Pay Operations product suite\)|Helps teams manage [[purchase-order-table|purchase order]] exceptions and related tasks as part of procurement workflows.|
+|[Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-landing-page.md)|Application \(within Source-to-Pay Operations product suite\)|Helps teams manage purchase order exceptions and related tasks as part of procurement workflows.|
 |[Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-case-mgmt-landing-page.md)|Application \(within Finance and Supply Chain workflows\)|Supports finance service requests and inquiries, enabling finance teams to track, manage, and resolve finance-related requests.|
 
 ## Common capabilities across Finance and Supply Chain workflows
@@ -41,16 +41,7 @@ Finance and Supply Chain workflows share common capabilities that support integr
 
 ## How Finance and Supply Chain workflows are used
 
-Organizations adopt Finance and Supply Chain workflows based on business goals. Some organizations focus on procurement and payments through Source-to-Pay Operations, while others also use [[fin-case-mgmt-landing-page|Finance Case Management]] to support finance service requests.
+Organizations adopt Finance and Supply Chain workflows based on business goals. Some organizations focus on procurement and payments through Source-to-Pay Operations, while others also use Finance Case Management to support finance service requests.
 
 Finance and Supply Chain workflows support outcomes such as improved operational efficiency, better cross-team coordination, and greater visibility across finance and supply chain processes.
 
-## Related
-
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[supplier-operations|Supplier Operations]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

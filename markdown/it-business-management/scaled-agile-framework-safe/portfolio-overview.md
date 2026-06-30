@@ -40,7 +40,7 @@ Portfolio
 
 </td><td>
 
-As a portfolio manager, you can plan and monitor activities within a portfolio by accessing the **Portfolio** level on the **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **SAFe Board**. In addition, you can:-   manage the portfolio backlog in a centralized location.
+As a portfolio manager, you can plan and monitor activities within a portfolio by accessing the **Portfolio** level on the **Scaled Agile Framework \(SAFe\)** &gt; **SAFe Board**. In addition, you can:-   manage the portfolio backlog in a centralized location.
 -   track all the epics of the portfolio and view their transition from one state \(lane\) to another, in a visual task board.
 
 </td></tr><tr><td>
@@ -68,7 +68,7 @@ As a team member, you can plan and monitor activities within the team by accessi
 </table>-   **[Components installed with Portfolio SAFe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/installed-with-portfolioSAFe.md)**  
 Several types of components are installed with activation of the Agile - Scaled Agile Framework - Portfolio SAFe plugin \(com.snc.sdlc.portfolio\_safe\), including tables and user roles.
 -   **[Define a portfolio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/create-SAFeportfolio.md)**  
-From SAFe, [[create-SAFeportfolio|define a portfolio]] which is a group of ARTs working towards a single solution.
+From SAFe, define a portfolio which is a group of ARTs working towards a single solution.
 -   **[SAFe Board—Portfolio level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/portfolio-tabs.md)**  
 As a portfolio manager, you can plan and monitor activities within your portfolio by accessing the Portfolio level on the SAFe Board.
 
@@ -79,7 +79,7 @@ As a portfolio manager, you can plan and monitor activities within your portfoli
 
 [Domain separation and Scaled Agile Framework \(SAFe\)]()
 
-[Business stakeholder role for [[essential-overview|Essential SAFe]] and Portfolio SAFe]()
+[Business stakeholder role for Essential SAFe and Portfolio SAFe]()
 
 [Essential SAFe]()
 
@@ -89,8 +89,3 @@ As a portfolio manager, you can plan and monitor activities within your portfoli
 
 [Work Progress Status for SAFe]()
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]
-- [[create-SAFeportfolio|Define a portfolio]]
-- [[essential-overview|Essential SAFe]]

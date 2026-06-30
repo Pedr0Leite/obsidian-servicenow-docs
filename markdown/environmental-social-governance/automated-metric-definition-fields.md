@@ -216,7 +216,7 @@ The system assigns the specified Data owner or Data owner group to the Metric.
 
 -   **Advanced**
 
-The system assigns a Data owner based on the assignment configuration. ESG admins \[sn\_esg.admin\] or Risk admins \[sn\_risk.admin\] can set assignment configurations to dynamically assign data owners. For more information on creating assignment configurations see, [[create-assign-config-mmd|Create an assignment configuration]] and [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/assignment-configuration-new-record.md).
+The system assigns a Data owner based on the assignment configuration. ESG admins \[sn\_esg.admin\] or Risk admins \[sn\_risk.admin\] can set assignment configurations to dynamically assign data owners. For more information on creating assignment configurations see, [Create an assignment configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-assign-config-mmd.md) and [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/assignment-configuration-new-record.md).
 
 **Note:** This is available if you have the GRC: Approver Configurator application installed. For more information see, [Using Approver Configurator for setting up approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/approval-configuration.md).
 
@@ -286,7 +286,7 @@ Approver type
 Specifies the type of approver for the metric definition. The choices are as follows:-   **User**
 -   **User group**
 
-**Note:** This field appears only when the Metric approval property is set to **Simple**. For more information see, [[components-installed-with-esg|Components installed with Operational Sustainability Management \(formerly ESG Management\)]].
+**Note:** This field appears only when the Metric approval property is set to **Simple**. For more information see, [Components installed with Operational Sustainability Management \(formerly ESG Management\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/components-installed-with-esg.md).
 
 </td></tr><tr><td>
 
@@ -421,10 +421,5 @@ Allowed groups
 Groups that can view the record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-metric-definition|Create an automated metric definition]]
+</table>**Parent Topic:**[Create an automated metric definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-metric-definition.md)
 
-## Related
-
-- [[create-assign-config-mmd|Create an assignment configuration]]
-- [[components-installed-with-esg|components installed with esg]]
-- [[create-metric-definition|Create an automated metric definition]]

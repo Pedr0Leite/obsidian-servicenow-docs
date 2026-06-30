@@ -14,7 +14,7 @@ breadcrumb: [Major Security Incident Management, Security Incident Response, Ent
 
 # Using Major Security Incident Management
 
-Managers can use [[msim-workspace|Major Security Incident Management workspace]] to view the proposed, promoted, linked, and rejected incident records and track their related activities.
+Managers can use Major Security Incident Management workspace to view the proposed, promoted, linked, and rejected incident records and track their related activities.
 
 -   **[Propose, promote, and link incident records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/promoting-sir-to-msim.md)**  
 Propose or promote security incidents as major security incidents when incidents are identified as critical threat to the organization.
@@ -27,7 +27,7 @@ View the major security incident impact progress metrics visualized as bar graph
 -   **[Update Major Security Incident details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msim-details-tab.md)**  
 View and update specific details related to the major security incident such as Incident Record Details, Active Team participants, and the corresponding activity log.
 -   **[Link additional records to Major Security Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/linking-additional-records-to-major-security-incidents.md)**  
-In the workspace, use the linking records functionality to link any related Security Incident records and its child security incidents, Remediation Tasks from [[vuln-landing-page|Vulnerability Response]], and Security Cases from [[threat-intel-landing-page|Threat Intelligence]] to a Major Security Incident \(MSI\) record.
+In the workspace, use the linking records functionality to link any related Security Incident records and its child security incidents, Remediation Tasks from Vulnerability Response, and Security Cases from Threat Intelligence to a Major Security Incident \(MSI\) record.
 -   **[Unlink records from Major Security Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/unlinking-msi-records.md)**  
 Using the Major Security Incident Management workspace, unlink the major security incident records from the Linked Records section.
 -   **[Manage tasks in a Major Security Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tasks-tab.md)**  
@@ -39,8 +39,3 @@ As a Major Security Incident \(MSI\) manager, you can create and distribute the 
 
 **Parent Topic:**[Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/major-security-incident-management-landing-page.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]

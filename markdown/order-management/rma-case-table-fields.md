@@ -12,7 +12,7 @@ breadcrumb: [Return Merchandise Authorization Case Management, Order operations,
 
 # Return Merchandise Authorization case table fields
 
-Information about [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) case table [[fields|fields]].
+Information about Return Merchandise Authorization \(RMA\) case table fields.
 
 <table id="table_mpx_fnx_rfc"><thead><tr><th>
 
@@ -46,10 +46,5 @@ Reason for RMA request. -   Other
 -   Not as described
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
+</table>**Parent Topic:**[Return Merchandise Authorization Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/return-merchandise-authorization-case-management-reference.md)
 
-## Related
-
-- [[return-merchandise-authorization-case-management-reference|Return Merchandise Authorization Case Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[fields|Fields]]

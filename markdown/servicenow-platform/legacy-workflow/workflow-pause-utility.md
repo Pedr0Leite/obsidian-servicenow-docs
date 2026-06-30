@@ -20,7 +20,7 @@ Once activated, the Workflow Pause Utility plugin \(com.glideapp.workflow.pause\
 
 -   **wf\_pause\_request**
 
-    Records every workflow pause request. The system automatically updates and inserts records in this table whenever you pause workflow contexts. It tracks user-specified resume time, whether the pause request is still active, and the total number of [[c_WorkflowActivities|workflow activities]] that paused or resumed.
+    Records every workflow pause request. The system automatically updates and inserts records in this table whenever you pause workflow contexts. It tracks user-specified resume time, whether the pause request is still active, and the total number of workflow activities that paused or resumed.
 
 -   **wf\_pause\_status**
 
@@ -28,7 +28,7 @@ Once activated, the Workflow Pause Utility plugin \(com.glideapp.workflow.pause\
 
 -   **wf\_pause\_group\_request**
 
-    Pauses the specific set of workflow contexts you designate using filtering in [Group Pause Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/pause-resume-all-multiple-workflows.md). You can manually pause all currently active workflows by clicking the **Pause All** [[check-box|check box]].
+    Pauses the specific set of workflow contexts you designate using filtering in [Group Pause Requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/pause-resume-all-multiple-workflows.md). You can manually pause all currently active workflows by clicking the **Pause All** check box.
 
 -   **wf\_pause\_snapshot**
 
@@ -52,7 +52,3 @@ You can monitor the status of workflow pause requests using Workflow Pause Reque
 
 **Parent Topic:**[Workflow administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowAdministration.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[check-box|Check box]]

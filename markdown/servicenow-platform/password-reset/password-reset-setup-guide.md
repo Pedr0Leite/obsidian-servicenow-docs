@@ -14,7 +14,7 @@ breadcrumb: [Password Reset, Manage service capabilities, Extend ServiceNow AI P
 
 # Setting up Password Reset
 
-The [[password-reset-landing-page|Password Reset]] application is active by default and includes example verifications. The base system enables connections only to the local ServiceNow instance credential store types.
+The Password Reset application is active by default and includes example verifications. The base system enables connections only to the local ServiceNow instance credential store types.
 
 ## Requirements
 
@@ -31,6 +31,3 @@ Role required: admin
 
 Plan and configure the Password Reset processes for your organization. See the [Configuring Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md).
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

@@ -14,7 +14,7 @@ breadcrumb: [Orchestration activity packs, Classic Orchestration, ServiceNow AI 
 
 # Use an activity pack
 
-The **Packs** tab of the [[workflow-editor|Workflow Editor]] contains any activity packs downloaded from the ServiceNow Store and any activity packs that you create.
+The **Packs** tab of the Workflow Editor contains any activity packs downloaded from the ServiceNow Store and any activity packs that you create.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ You can organize custom activities into packs and upload them to the ServiceNow 
 
 **Parent Topic:**[Orchestration activity packs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationActivityPacks.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

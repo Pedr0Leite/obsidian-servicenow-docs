@@ -14,17 +14,17 @@ breadcrumb: [Monitor the Localization Framework, Localization Framework, Transla
 
 # Request translations from Insights Dashboard
 
-[[request-translations-multiple-items|Request translations for Service Catalog items]] or Virtual Agent topics from the insights dashboard to localize them into the selected language based on their translation status.
+Request translations for Service Catalog items or Virtual Agent topics from the insights dashboard to localize them into the selected language based on their translation status.
 
 ## Before you begin
 
-Role required: [[ia-localization-il|localization]]\_admin or localization\_requestor
+Role required: localization\_admin or localization\_requestor
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **Insights Dashboard**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **Insights Dashboard**.
 
-    The dashboard provides **Catalog Items Translations** report and **Virtual Agent Topic Translations** report by default using which you can [[language-picker-ui|request translations]].
+    The dashboard provides **Catalog Items Translations** report and **Virtual Agent Topic Translations** report by default using which you can request translations.
 
     If you have created a report for your custom artifact to display in the dashboard, you can also request translations for the custom artifacts. For more information, see [Create a report for custom artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_CreateYourOwnReport.md).
 
@@ -45,9 +45,3 @@ Role required: [[ia-localization-il|localization]]\_admin or localization\_reque
 
 **Parent Topic:**[Monitor the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/monitor-localization-framework.md)
 
-## Related
-
-- [[request-translations-multiple-items|Request translations for Service Catalog items]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]
-- [[language-picker-ui|Request translations]]

@@ -51,14 +51,9 @@ The following steps are only necessary if you are using the BlackBerry Access br
     **Important:**
 
     -   Do not use any spaces in the above values.
-    -   The **snappauth** is required for the [[mobile-experience|Mobile Agent app]]. The **snempappauth** value is required for the [[now-mobile-app|Now Mobile app]].
+    -   The **snappauth** is required for the Mobile Agent app. The **snempappauth** value is required for the Now Mobile app.
 9.  Click **Save**.
 
 
-**Parent Topic:**[[blackberry-uem|BlackBerry Unified Endpoint Management \(UEM\)]]
+**Parent Topic:**[BlackBerry Unified Endpoint Management \(UEM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/blackberry-uem.md)
 
-## Related
-
-- [[blackberry-uem|BlackBerry Unified Endpoint Management \(UEM\)]]
-- [[mobile-experience|Mobile Agent app]]
-- [[now-mobile-app|Now Mobile app]]

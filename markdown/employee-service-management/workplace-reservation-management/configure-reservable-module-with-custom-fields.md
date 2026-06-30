@@ -14,7 +14,7 @@ breadcrumb: [Configure a reservable module, Configure, Workplace Reservation Man
 
 # Configure reservable module with additional details
 
-The application enables you [[config-reservable-module|configure a reservable module]] with additional details based on your organization's requirements.
+The application enables you configure a reservable module with additional details based on your organization's requirements.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_wsd\_rsv.admin
 
 ## About this task
 
-Configure a reservable module to use the additional details fields that you want to display on the reservation form when employees [[reservation-portal|make a reservation]]. The fields appear under an additional details section, along with the existing form fields provided by the application based on your configuration. For more information about the reservable module configuration, refer to [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
+Configure a reservable module to use the additional details fields that you want to display on the reservation form when employees make a reservation. The fields appear under an additional details section, along with the existing form fields provided by the application based on your configuration. For more information about the reservable module configuration, refer to [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
 The additional details are displayed when an employee requests a single, multi, recurring and a group reservation. The details entered in the additional details are also displayed in the Reservation summary of the reservation.
 
@@ -39,7 +39,7 @@ To add custom fields:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **Reservable Module**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **Reservable Module**.
 
 2.  Select **New** if you want to create a reservable module.
 
@@ -60,8 +60,3 @@ The reservable module is configured with additional details.
 
 **Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 
-## Related
-
-- [[config-reservable-module|Configure a reservable module]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

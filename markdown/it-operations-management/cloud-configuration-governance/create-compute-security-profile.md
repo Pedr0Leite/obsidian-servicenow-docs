@@ -18,13 +18,13 @@ A compute security group profile applies specified security rules to newly-provi
 
 ## Before you begin
 
-You must have a cloud account with datacenters. You must run [[r-discovery|Discovery]] on the service accounts to populate the datacenters.
+You must have a cloud account with datacenters. You must run Discovery on the service accounts to populate the datacenters.
 
 Role required: sn\_cmp.cloud\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-resource-profiles|Resource Profiles]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Resource Profiles**.
 
 2.  In the **Profiles** list, select **Compute Security Group Profile** and then click **New**.
 
@@ -101,8 +101,3 @@ Select or create a template that the profile should be mapped to.To create a new
 
 [Discover all datacenters in a service account on-demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/disco-datacntrs-in-srv-acct.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-resource-profiles|Resource Profiles]]

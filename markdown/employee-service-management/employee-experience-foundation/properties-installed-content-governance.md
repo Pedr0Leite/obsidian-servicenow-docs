@@ -58,7 +58,7 @@ Sets the number of days for the "Content expiring within x days" card in the Con
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -94,6 +94,3 @@ Sets the number of days for the "Content expiring within x days" card in the Con
 
 [To-do content form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

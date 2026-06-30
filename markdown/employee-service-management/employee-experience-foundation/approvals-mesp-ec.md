@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center for mobile, Now Mobile experience for E
 
 # Approvals in Now Mobile
 
-View all your approval tasks in one place in the [[mobile-employee-experience|Now Mobile app]].
+View all your approval tasks in one place in the Now Mobile app.
 
 Access all your approval tasks under **My Tasks** section in Now Mobile.
 
@@ -46,6 +46,3 @@ For more configuration info, see [Enable task configuration for approvals](https
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]

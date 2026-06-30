@@ -15,7 +15,7 @@ breadcrumb: [Atlassian Jira Cloud external content connector, Configure, Externa
 
 # Configure Atlassian Jira Cloud for external content indexing
 
-Register an OAuth 2.0 integration in the Atlassian Developer console and create an API key in Atlassian Administration to allow the [[atlassian-jira-cloud-external-content-connector|Atlassian Jira Cloud external content connector]] to crawl projects and security principals in your Atlassian Jira Cloud source system.
+Register an OAuth 2.0 integration in the Atlassian Developer console and create an API key in Atlassian Administration to allow the Atlassian Jira Cloud external content connector to crawl projects and security principals in your Atlassian Jira Cloud source system.
 
 ## Before you begin
 
@@ -187,6 +187,3 @@ For details on creating and configuring an Atlassian Jira Cloud external content
 
 **Parent Topic:**[Atlassian Jira Cloud external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/atlassian-jira-cloud-external-content-connector.md)
 
-## Related
-
-- [[atlassian-jira-cloud-external-content-connector|Atlassian Jira Cloud external content connector]]

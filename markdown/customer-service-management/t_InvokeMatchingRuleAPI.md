@@ -12,7 +12,7 @@ breadcrumb: [Configure case routing and assignment, Route and assign cases, Conf
 
 # Invoke the MatchingRuleProcessor API
 
-After you create one or more matching [[gamification-components-rules|rules]], you can invoke the MatchingRuleProcessor API and run the rules.
+After you create one or more matching rules, you can invoke the MatchingRuleProcessor API and run the rules.
 
 ## Before you begin
 
@@ -26,9 +26,6 @@ Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, admin
 
 -   The system processes the matching rules based on the number stored in the **Execution Order** field for each rule.
 
-    The result is a list of users \(sys\_ids\), which you can use for [[case-routing-and-asign|case routing and assignment]].
+    The result is a list of users \(sys\_ids\), which you can use for case routing and assignment.
 
-## Related
 
-- [[gamification-components-rules|Rules]]
-- [[case-routing-and-asign|Case routing and assignment]]

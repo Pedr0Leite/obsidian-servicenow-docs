@@ -14,7 +14,7 @@ breadcrumb: [Configure the Knowledge Management Service Portal, Configuring Know
 
 # Integrating Knowledge Management features with the Service Portal
 
-To create a consistent user experience for [[knowledge-management|Knowledge Management]], integrate Knowledge Management Service Portal in your end-user facing Service Portal.
+To create a consistent user experience for Knowledge Management, integrate Knowledge Management Service Portal in your end-user facing Service Portal.
 
 The Knowledge Management Service Portal includes the following features:
 
@@ -116,7 +116,7 @@ The Knowledge Management search results page in the Knowledge Management Service
 
     5.  Click **Submit**.
 
-        The widget [[html|HTML]] template, client script, and server script display in the widget editor.
+        The widget HTML template, client script, and server script display in the widget editor.
 
     6.  In the widget editor, enter the following field values to replace any existing text.
 
@@ -164,7 +164,7 @@ The Knowledge Management search results page in the Knowledge Management Service
 
 ## Add widgets to access knowledge articles from the Service Portal homepage
 
-Add the [[km-service-portal-widget-instances|Knowledge Management Service Portal widgets]] Featured Articles, Most Useful Articles, and Most Rated Articles to the Service Portal homepage to quickly access knowledge articles.
+Add the Knowledge Management Service Portal widgets Featured Articles, Most Useful Articles, and Most Rated Articles to the Service Portal homepage to quickly access knowledge articles.
 
 ### Before you begin
 
@@ -199,8 +199,3 @@ For more information about Knowledge Management Service Portal widgets, see [Kno
 
 Clicking a knowledge article link from one of the added widgets on the Service Portal homepage opens the Knowledge Management article view page in the Knowledge Management Service Portal.
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[html|HTML]]
-- [[km-service-portal-widget-instances|Knowledge Management Service Portal widgets]]

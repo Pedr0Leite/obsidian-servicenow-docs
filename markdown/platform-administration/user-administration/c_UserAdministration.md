@@ -36,7 +36,7 @@ Manage the individuals who can access your instance by defining them as users in
 
 </td><td>
 
-[Monitor user activity\[Omitted image "bus-infographic.svg"\] Alt text:Monitor user activity and troubleshoot issues by [[c_ImpersonateAUser|impersonating users]] and managing sessions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/user-admin-tools-landing.md)
+[Monitor user activity\[Omitted image "bus-infographic.svg"\] Alt text:Monitor user activity and troubleshoot issues by impersonating users and managing sessions.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/user-admin-tools-landing.md)
 
 </td><td>
 
@@ -49,6 +49,3 @@ Manage the individuals who can access your instance by defining them as users in
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[c_ImpersonateAUser|Impersonating users]]

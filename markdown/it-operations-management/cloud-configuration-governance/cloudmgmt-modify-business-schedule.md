@@ -33,9 +33,7 @@ Once a stack is set up with a business schedule, the system generates a series o
 2.  From the **Select Action** list associated with the stack, perform either of the two operations:
 
     -   **Skip Operation**- Click to skip a single business schedule operation on a stack. A confirmation message appears. Click **OK**.
-    -   **Cancel Schedule**- Click to cancel [[business-hours-scheduling|business hour scheduling]] on a stack. A confirmation message appears. Click **OK**.
+    -   **Cancel Schedule**- Click to cancel business hour scheduling on a stack. A confirmation message appears. Click **OK**.
     For modifying the schedule of an existing stack, navigate to the stacks details list in **Manage Stacks** and select **Modify Schedule** from the **Select Stack Operation** list.
 
-## Related
 
-- [[business-hours-scheduling|Business hour scheduling]]

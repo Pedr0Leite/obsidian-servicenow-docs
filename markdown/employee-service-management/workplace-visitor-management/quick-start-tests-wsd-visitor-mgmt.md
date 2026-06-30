@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Visitor Management, Workplace Service Delivery
 
 # Quick start test for Workplace Visitor Management
 
-Validate [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] after any configuration change such as an upgrade or after developing a functionality. Copy and customize these quick start test when using your instance-specific data.
+Validate Workplace Visitor Management after any configuration change such as an upgrade or after developing a functionality. Copy and customize these quick start test when using your instance-specific data.
 
 All test suite and test should be run on a default implementation. To validate a custom implementation, copy the automated test and configure it for your customization.
 
@@ -54,9 +54,5 @@ Workplace Visitor Management provides quick start test that you can run on your 
 
 [Create a visitor badge template]()
 
-[Configuring Workplace Visitor Management for [[workplace-services|Workplace Services]] Kiosk]()
+[Configuring Workplace Visitor Management for Workplace Services Kiosk]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-services|Workplace Services]]

@@ -18,7 +18,7 @@ Asset and configuration item \(CI\) management refers to creating assets, settin
 
 ## Relationship between asset and CI
 
-It’s important to manage the relationship between assets and associated CIs. Assets are tracked with the [[am-landing-page|Asset Management]] application, which focuses on the financial aspects of owning property. Configuration items are stored in the CMDB, which is used to track items and make them available to users.
+It’s important to manage the relationship between assets and associated CIs. Assets are tracked with the Asset Management application, which focuses on the financial aspects of owning property. Configuration items are stored in the CMDB, which is used to track items and make them available to users.
 
 When an asset has a corresponding configuration item, the asset record and the configuration item record are kept synchronized with two business rules.
 
@@ -162,7 +162,7 @@ When the CSDM \(csdm.lifecycle.migration.activated\) plugin is activated on your
 
     **Note:** This property is applicable to CI classes that are extended from the hardware CI class \[cmdb\_ci\_hardware\].
 
-    CIs created with the IRE are named using the format `Serial number - Model name` and the source is `SNAssetManagement`. The **Serial number** field is required on assets with [[model-hierarchy|model categories]] that correspond to these CI classes. Asset creation fails if its serial number is present on an existing CI or asset. The **Serial number** field is also required to receive purchase order line items for model categories that correspond to these CI classes. The **Serial number** field isn’t required to [[t_CreatingPreAllocatedAssets|create pre-allocated assets]], but the serial number must be provided when the asset is allocated.
+    CIs created with the IRE are named using the format `Serial number - Model name` and the source is `SNAssetManagement`. The **Serial number** field is required on assets with model categories that correspond to these CI classes. Asset creation fails if its serial number is present on an existing CI or asset. The **Serial number** field is also required to receive purchase order line items for model categories that correspond to these CI classes. The **Serial number** field isn’t required to create pre-allocated assets, but the serial number must be provided when the asset is allocated.
 
     The default value of this property is false if you upgrade to Australia from Orlando or earlier. Before updating this property, review the customizations on the Serial number field and any integrations or flows that use an existing serial number to create an asset.
 
@@ -185,11 +185,5 @@ When the CSDM \(csdm.lifecycle.migration.activated\) plugin is activated on your
 
 ## CMDB success advisor for HAM
 
-Use CMDB success advisor for [[ham-landing-page|Hardware Asset Management]] \(HAM\) to monitor and improve hardware asset data quality in the CMDB. The advisor dashboard provides insights into data coverage, attribute completeness, and recommended data integrations for your hardware asset model categories. For more information, see [Using CMDB success advisor for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cmdb-sa-ham-use.md).
+Use CMDB success advisor for Hardware Asset Management \(HAM\) to monitor and improve hardware asset data quality in the CMDB. The advisor dashboard provides insights into data coverage, attribute completeness, and recommended data integrations for your hardware asset model categories. For more information, see [Using CMDB success advisor for HAM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cmdb-sa-ham-use.md).
 
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[t_CreatingPreAllocatedAssets|Create pre-allocated assets]]
-- [[ham-landing-page|Hardware Asset Management]]

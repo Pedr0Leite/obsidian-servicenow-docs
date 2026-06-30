@@ -22,7 +22,7 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_UserAdministration|User Administration]]** &gt; **Group Roles**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Group Roles**.
 
 2.  Select **New**.
 
@@ -39,6 +39,3 @@ Role required: admin.
 
 **Parent Topic:**[Create a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]

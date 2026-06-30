@@ -14,7 +14,7 @@ breadcrumb: [SLA timeline, Service Level Management reference, Service Level Man
 
 # Use SLA timeline to understand SLA stage change
 
-Describes how you can understand SLA stage changes using [[c_SLATimeline|SLA timeline]].
+Describes how you can understand SLA stage changes using SLA timeline.
 
 Using Task SLA-2 as an example, you can see a period of retroactive and out of schedule time preceding the task update that caused the SLA to attach to INC0010001. The task update is represented by the first triangle. When this event is selected, the detail pane displays and the Start tab has a blue check and is highlighted indicating this is the SLA Definition condition this event met and the task values which matched the SLA Definition start condition.
 
@@ -24,7 +24,7 @@ When the second task update represented by the second black triangle, which trig
 
 \[Omitted image "understand-sla-stage-change-2.png"\] Alt text: Pause stage
 
-Similarly, when the third task update which triggers a stage change occurs, you can see this resumes the SLA. When that update is clicked, the Stage details section highlights the Resume tab which now contains a blue check and provides detailed information about the task update that occurred and the [[c_SLAConditions|SLA conditions]] those updates matched.
+Similarly, when the third task update which triggers a stage change occurs, you can see this resumes the SLA. When that update is clicked, the Stage details section highlights the Resume tab which now contains a blue check and provides detailed information about the task update that occurred and the SLA conditions those updates matched.
 
 \[Omitted image "understand-sla-stage-change-3.png"\] Alt text: Resume stage
 
@@ -34,7 +34,3 @@ The SLA continues to accumulate time, until it is breached and this is visually 
 
 **Parent Topic:**[SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLATimeline.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]
-- [[c_SLAConditions|SLA conditions]]

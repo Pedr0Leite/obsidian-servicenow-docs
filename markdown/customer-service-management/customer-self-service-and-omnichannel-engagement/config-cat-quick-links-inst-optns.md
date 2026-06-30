@@ -14,7 +14,7 @@ breadcrumb: [Portal Catalog Quick Links widget, Configurable Portal widgets, Set
 
 # Add and configure the Portal Catalog Quick Links widget
 
-Add a [[portal-catalog-widget|Portal Catalog Quick Links widget]] on your portal and modify its data, presentation, and behavior. You can use the Portal Catalog Quick Links widget to display frequently accessed catalog items on your portal.
+Add a Portal Catalog Quick Links widget on your portal and modify its data, presentation, and behavior. You can use the Portal Catalog Quick Links widget to display frequently accessed catalog items on your portal.
 
 ## Before you begin
 
@@ -48,11 +48,8 @@ Role required: sp\_admin
 
 11. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[port-cat-quick-links-inst-options|Portal Catalog Quick Links widget instance options form]].
+    For a description of the field values, see [Portal Catalog Quick Links widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/port-cat-quick-links-inst-options.md).
 
 12. Select **Save**.
 
-## Related
 
-- [[port-cat-quick-links-inst-options|Portal Catalog Quick Links widget instance options form]]
-- [[portal-catalog-widget|Portal Catalog Quick Links widget]]

@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **TAXII Outbound Server**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **TAXII Outbound Server**.
 
 2.  Select **TAXII Collections**.
 
@@ -128,7 +128,7 @@ Maximum number of records that can be added to an outbound TAXII server collecti
 
     This navigation displays the template flow for adding TAXII Collections.
 
-9.  Select the **[[tisc-taxii-automated-flow|Automatically add threat intelligence to a TAXII Collection]]** flow.
+9.  Select the **Automatically add threat intelligence to a TAXII Collection** flow.
 
 10. Navigate to the **Flow Designer** &gt; **Actions**.
 
@@ -154,7 +154,3 @@ Maximum number of records that can be added to an outbound TAXII server collecti
 
 [Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-taxii-automated-flow|Automatically add threat intelligence to a TAXII collection]]

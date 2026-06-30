@@ -20,7 +20,7 @@ An LDAP property is available to send a one-time password to a user if the user 
 
 Role required: admin
 
-To receive a one-time password, the user must have notifications enabled on their user profile. The notification is an [[email|email]] message only. SMS messages are not supported.
+To receive a one-time password, the user must have notifications enabled on their user profile. The notification is an email message only. SMS messages are not supported.
 
 ## About this task
 
@@ -28,7 +28,7 @@ Both properties are enabled by default. The default value for property that cont
 
 ## Procedure
 
-1.  Open the list of [[ca-system-properties|system properties]] by entering `sys_properties.list` in the filter of the application navigator.
+1.  Open the list of system properties by entering `sys_properties.list` in the filter of the application navigator.
 
 2.  Find the **glide.ldap.onetime.password.enabled** property.
 
@@ -36,7 +36,4 @@ Both properties are enabled by default. The default value for property that cont
 
 4.  To change the password validity time for a user, set the following property to an integer number of minutes: **glide.authenticate.onetime.password.validity**.
 
-## Related
 
-- [[email|Email]]
-- [[ca-system-properties|System properties]]

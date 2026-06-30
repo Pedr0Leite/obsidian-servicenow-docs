@@ -14,14 +14,14 @@ breadcrumb: [Configuring Service Operations Workspace for ITSM to improve your e
 
 # Configuring record pages in Service Operations Workspace for ITSM
 
-To align with your record page requirements, you can configure the data available in record pages in [[sow-landing-page|Service Operations Workspace for ITSM]].
+To align with your record page requirements, you can configure the data available in record pages in Service Operations Workspace for ITSM.
 
 To know about the record page configurations that are part of essential setup for implementing Service Operations Workspace for ITSM, [Record page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/record-page-configurations-sow-itsm.md).
 
 -   **[Configure a record page tab in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-record-page-tab.md)**  
 Configure the display order of a record page tab in Service Operations Workspace.
 -   **[Configure a task record form in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-form-layout-task.md)**  
-[[configure-form-layout-task|Configure a task record form in Service Operations Workspace]] by modifying the form layout or related lists from the classic ServiceNow AI Platform user interface.
+Configure a task record form in Service Operations Workspace by modifying the form layout or related lists from the classic ServiceNow AI Platform user interface.
 -   **[Define and customize activity stream tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/define-customize-activity-stream-tags.md)**  
 Define and customize the activity stream tags for the record pages in Service Operations Workspace. The tags helps in filtering the activity from the activity streams as required.
 -   **[Configure the Assign or Resolve dialog box for an incident or change request in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-assign-resolve-modals-incident.md)**  
@@ -35,7 +35,3 @@ Configure individual record pages to display information and help them to update
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITSM to improve your experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-sow-to-improve-experience.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[configure-form-layout-task|Configure a task record form in Service Operations Workspace]]

@@ -37,7 +37,7 @@ You can relate control objectives to an assessment question only if the question
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **[[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Assessment Templates**.
 
 2.  Click and open the required assessment template.
 
@@ -91,7 +91,3 @@ The control objectives are related to the processing activity.
 
 **Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[airc-assessment-templates|Assessment templates]]

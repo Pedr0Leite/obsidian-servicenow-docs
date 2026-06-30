@@ -14,7 +14,7 @@ breadcrumb: [Service Portfolio Management, IT Service Management]
 
 # Service Portfolio Management reference
 
-The following [[reference-for-itsm-mobile-agent|reference]] topics provide additional information about the roles, lists, and forms to configure and administer [[SPM2-landing-page|Service Portfolio Management]].
+The following reference topics provide additional information about the roles, lists, and forms to configure and administer Service Portfolio Management.
 
 -   **[Installed with Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/r_InstalledWSPM2.md)**  
 Service Portfolio Management Core is active by default for users with ITSM licenses. Service Portfolio Management Foundation is administrator activated and enables you to document portfolios, taxonomies, services, and service offerings using a standardized, structured format.
@@ -23,7 +23,3 @@ Domain separation is supported in Service Portfolio Management. Domain separatio
 
 **Parent Topic:**[Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-landing-page.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[SPM2-landing-page|Service Portfolio Management]]

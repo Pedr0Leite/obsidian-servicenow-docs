@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with SuccessFactors, Int
 
 # Enable push todos flow
 
-Enable push todos flow to push existing todos to [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]].
+Enable push todos flow to push existing todos to HR Service Delivery Integration with SuccessFactors.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sn\_hr\_sf.admin
 
 4.  Click **Activate**.
 
-## Related
 
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]

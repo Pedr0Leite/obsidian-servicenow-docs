@@ -16,7 +16,7 @@ breadcrumb: [Configure, Workplace Reservation Management, Workplace Service Deli
 
 Set the Max days in future value for configuring reservation.
 
-The option to [[create-multi-day-reservation|create a multi-day reservation]] is configured by your administrator using the **Max days for multi-day** Reservable Module Configuration property. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md). Multi-building selection is supported for multi-day reservation. For more information about multi-day reservation, see [Create a multi-day reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md).
+The option to create a multi-day reservation is configured by your administrator using the **Max days for multi-day** Reservable Module Configuration property. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md). Multi-building selection is supported for multi-day reservation. For more information about multi-day reservation, see [Create a multi-day reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md).
 
 For multi-day reservation covering multiple days, the start date and end date span across multiple days \(for example, Start date: October 12, 2023. End date: October 17, 2023\). For more information, see [Create a multi-day reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-multi-day-reservation.md).
 
@@ -70,7 +70,7 @@ For example, reservation planners or space planners with the dedicated role \(sn
 
 [Configure Microsoft Teams as virtual meeting provider]()
 
-[Connect [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] with Microsoft Teams]()
+[Connect Workplace Reservation Management with Microsoft Teams]()
 
 [Connect Workplace Reservation Management with Zoom]()
 
@@ -82,7 +82,3 @@ For example, reservation planners or space planners with the dedicated role \(sn
 
 [Configure automatic check-in for reserved spaces]()
 
-## Related
-
-- [[create-multi-day-reservation|Create a multi-day reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

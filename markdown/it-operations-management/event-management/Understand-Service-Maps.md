@@ -14,7 +14,7 @@ breadcrumb: [Alert impact calculation, Manage and monitor alerts, Configuring Ev
 
 # Understand Service Maps
 
-Service maps show active alerts for CIs and the relationships between CIs. By viewing this information, you can better understand the source of alerts and take [[ccg-remediation|remediation]] steps. The service map is available for all application services.
+Service maps show active alerts for CIs and the relationships between CIs. By viewing this information, you can better understand the source of alerts and take remediation steps. The service map is available for all application services.
 
 About Service Maps
 
@@ -140,6 +140,3 @@ Represents related web services for the network such as NGINX or JBoss web serve
 
 [View an alert impact on CIs in a service map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMViewTopology.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

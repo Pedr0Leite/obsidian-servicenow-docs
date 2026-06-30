@@ -20,18 +20,12 @@ Starting with the Yokohama release, Patient Support Services is being prepared f
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
--   **[[pss-components-installed|Components installed with Patient Support Services]]**  
+-   **[Components installed with Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-components-installed.md)**  
 Several types of components are installed with installation of the Patient Support Services application, including tables, user roles, ServiceNow Store applications, and business rules.
--   **[[pss-domain-sep|Domain separation and Patient Support Services]]**  
+-   **[Domain separation and Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-domain-sep.md)**  
  Domain separation is supported for Patient Support Services. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
--   **[[hcls-pss-atf|Patient Support Services Work ATF \(Automated Test Framework\) tests]]**  
+-   **[Patient Support Services Work ATF \(Automated Test Framework\) tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-pss-atf.md)**  
 The following ATF tests are available in Patient Support Services as a part of the Patient Support Services Workspace ATF test suite.
 
-**Parent Topic:**[[pss-app|Patient Support Services]]
+**Parent Topic:**[Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-app.md)
 
-## Related
-
-- [[pss-components-installed|Components installed with Patient Support Services]]
-- [[pss-domain-sep|Domain separation and Patient Support Services]]
-- [[hcls-pss-atf|Patient Support Services Work ATF \(Automated Test Framework\) tests]]
-- [[pss-app|Patient Support Services]]

@@ -14,9 +14,9 @@ breadcrumb: [Classic approvals, Exploring Service Administration, Service Admini
 
 # Approval engines
 
-The differences in the way that companies handle their approvals, as well as the differences between approvals for the various applications \(such as [[p_ServiceCatalogRequests|Service Catalog Requests]] and Change Management\), calls for supporting flexibility in setting up approvals within applications.
+The differences in the way that companies handle their approvals, as well as the differences between approvals for the various applications \(such as Service Catalog Requests and Change Management\), calls for supporting flexibility in setting up approvals within applications.
 
-**Important:** Classic [[c_ApprovalRules|approval rules]] have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
+**Important:** Classic approval rules have been replaced by the Workflow Studio [Ask for Approval action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/ask-approval-flow-designer.md). Use Workflow Studio to create workflow-driven approval logic that is easier to maintain and provides better reporting information.
 
 This flexibility is provided through the selection of an ''approval engine'' that is used to manage the approvals for each of the Task tables \(that is, all tables that extend the Task table\).
 
@@ -56,12 +56,7 @@ Turn off both approval engines for this Task table. This option should be select
 
 </td></tr></tbody>
 </table>-   **[Set up an approval engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/t_SetupAnApprovalEngine.md)**  
-To manage the approvals for each of the Task tables in the system, [[t_SetupAnApprovalEngine|set up an approval engine]].
+To manage the approvals for each of the Task tables in the system, set up an approval engine.
 
 **Parent Topic:**[Classic approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/r_Approvals.md)
 
-## Related
-
-- [[p_ServiceCatalogRequests|Service catalog requests]]
-- [[c_ApprovalRules|Approval rules]]
-- [[t_SetupAnApprovalEngine|Set up an approval engine]]

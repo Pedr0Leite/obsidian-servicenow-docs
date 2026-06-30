@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-In order to fulfill [[ctwm-care-team-case|care team cases and tasks]], the following roles should be assigned to care team members:
+In order to fulfill care team cases and tasks, the following roles should be assigned to care team members:
 
 **Roles**
 
@@ -71,6 +71,4 @@ Configures addition/removal of care team members, task plan templates, and smart
 
 4.  Select **Save**.
 
-## Related
 
-- [[ctwm-care-team-case|Care team cases and tasks]]

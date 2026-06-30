@@ -14,7 +14,7 @@ breadcrumb: [Configure, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Install Talent profile
 
-You can install the [[talent-profile-landing|Talent profile]] application \(sn\_ta\_tp\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the Talent profile application \(sn\_ta\_tp\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ For more information, see [Components installed with Talent Profile](https://raw
 
 **Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]

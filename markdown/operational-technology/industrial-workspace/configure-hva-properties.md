@@ -22,7 +22,7 @@ Role required: sn\_vul.manage\_exposure\_assessment and admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup** &gt; **[[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]** &gt; **Hardware Vulnerability Assessment** &gt; **Configure Vulnerability Assessment Properties** &gt; **Configure** &gt; **Vulnerability Assessment**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Guided Setup** &gt; **Operational Technology Vulnerability Response** &gt; **Hardware Vulnerability Assessment** &gt; **Configure Vulnerability Assessment Properties** &gt; **Configure** &gt; **Vulnerability Assessment**.
 
     Alternatively, you can navigate to **All** &gt; **Vulnerability Response** &gt; **Administration** &gt; **Properties** &gt; **Vulnerability Assessment**.
 
@@ -82,7 +82,3 @@ Edit the value according to your requirement.
 
 **Parent Topic:**[Set up the Hardware Vulnerability Assessment of Operational Technology devices using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configure-hva-using-guided-setup.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

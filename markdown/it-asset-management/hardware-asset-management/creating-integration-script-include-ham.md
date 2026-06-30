@@ -18,7 +18,7 @@ In order to integrate with a ServiceNow instance, a third-party carrier applicat
 
 Consider the following when you create the script include:
 
--   Make sure that the script include is accessible from the [[am-landing-page|Asset Management]] Common application scope by adjusting the following settings on the application resource record:
+-   Make sure that the script include is accessible from the Asset Management Common application scope by adjusting the following settings on the application resource record:
     -   Set the **Accessible from** field to **All application scopes**.
     -   Set the **Caller Access** field to **None** to make sure the caller access isn't restricted.
 -   The code for communicating with the customer's ServiceNow instance based on the tracking number must be included within the fetchShipmentInfo function.
@@ -99,6 +99,3 @@ You can either use the default processResponse function or define a custom logic
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[am-landing-page|Asset Management]]

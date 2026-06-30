@@ -14,7 +14,7 @@ breadcrumb: [Third Party Token Grant, Inbound integrations, OAuth Inbound, OAuth
 
 # Third party token workflow for service accounts
 
-Create a service account in ServiceNow® to represent the [[identity-landing|identity]] of a third-party application accessing APIs through a trusted identity provider \(IdP\). This account maps the token claims to a user record and manages access with roles and permissions.
+Create a service account in ServiceNow® to represent the identity of a third-party application accessing APIs through a trusted identity provider \(IdP\). This account maps the token claims to a user record and manages access with roles and permissions.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Create a corresponding `sys_user` account in ServiceNow for your service account
 
 2.  Create a `sys-user` account in ServiceNow to represent your service account identity.
 
-    Ensure that the token claim value matches with that of the value in the mapped user field \(such as user\_name or [[email|email]]\) in the user record. Example: user\_name, email.
+    Ensure that the token claim value matches with that of the value in the mapped user field \(such as user\_name or email\) in the user record. Example: user\_name, email.
 
     1.  Select the Web service access only option to restrict the account to API access.
 
@@ -42,7 +42,7 @@ Create a corresponding `sys_user` account in ServiceNow for your service account
 
     The ServiceNow platform maps the configured claim to the specified user field in the `sys_user` record. It enforces access based on that user's assigned roles and groups.
 
-3.  Make a GET [[c_requestAPI|request]] with the authorization header to the following endpoint:
+3.  Make a GET request with the authorization header to the following endpoint:
 
     ```
     Method: GET
@@ -50,8 +50,4 @@ Create a corresponding `sys_user` account in ServiceNow for your service account
     Authorization: Bearer YOUR_THIRD-PARTY_TOKEN
     ```
 
-## Related
 
-- [[identity-landing|Identity]]
-- [[email|Email]]
-- [[c_requestAPI|request]]

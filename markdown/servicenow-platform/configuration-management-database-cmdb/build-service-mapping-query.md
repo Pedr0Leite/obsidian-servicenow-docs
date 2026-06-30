@@ -26,7 +26,7 @@ Authorized users can update and [delete](https://raw.githubusercontent.com/Servi
 
 Build the query by dragging the CI classes that you want to include in the query, dropping them as nodes on the canvas, and then defining relationship properties between them. For every class node in the query, you can filter on its attributes to narrow down the results to a specific set of CIs of that class or to a single specific CI. You can also select which property columns appear in the query results.
 
-As you step through building a query, list options and other user interface elements of the [[cmdb-query-builder-landing-page|CMDB Query Builder]], are dynamically filtered as appropriate to your selections.
+As you step through building a query, list options and other user interface elements of the CMDB Query Builder, are dynamically filtered as appropriate to your selections.
 
 See [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sample-queries.md) for a step-by-step walk through of building a Service Mapping query in the CMDB Query Builder.
 
@@ -80,7 +80,7 @@ See [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDoc
 
     -   Add And/Or operators to the query:
 
-        1.  [[c_Connect|Connect]] one node to two other nodes.
+        1.  Connect one node to two other nodes.
         2.  Select the **And** box that appears on the connection line, to toggle between the **And** and the **Or** operators.
         For example C1 is Tomcat WAR, C2 is Linux Server, and C3 is Windows Server. Query for all Tomcat WAR CIs which are connected either to Linux Server Or to a Windows Server.
 
@@ -113,14 +113,14 @@ See [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDoc
 
     -   Select **Load More Results** to display the next set of 100 results.
     -   Select **Load All Results** to display the rest of the query results, up to the number specified by the [glide.cmdb.query.max\_results\_limit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-sysproprties.md) system property \(10,000 by default\).
-    Select a CI to open its CI form, and on the CI form select **Open in Workspace** to [[t_ViewCIHealth|view CI health]] in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]]. This operation requires the sn\_cmdb\_user \(CMDB user\) role.
+    Select a CI to open its CI form, and on the CI form select **Open in Workspace** to view CI health in CMDB Workspaceor in Service Graph Workspace. This operation requires the sn\_cmdb\_user \(CMDB user\) role.
 
     **Note:** When a query is running, wait for it to complete or to time out before opening or running another query.
 
 -   [Modify Query Builder settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-config-display.md): Select the Settings icon to open the **Query Builder Settings** dialog box.
 -   Copy and share the URL of a saved query with users that have access to the CMDB Query Builder. Pasting the shared URL in a new internet browser window, directly opens the saved query in the CMDB Query Builder.
 -   [Create a report in CMDB Query Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-query-results-report.md).
--   [Create a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-cmdb-query-schedule.md) to run the query at a future time, and to [[email|email]] the results to interested parties.
+-   [Create a schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/create-cmdb-query-schedule.md) to run the query at a future time, and to email the results to interested parties.
 -   Export query results:
 
     Export query results that are visible: Select the Query Results context menu and select **Export**. Even if the **Load More Results** button is visible, indicating that there are additional query results, only the results that are visible are exported.
@@ -134,10 +134,3 @@ See [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDoc
 
 [Example queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sample-queries.md)
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]
-- [[t_ViewCIHealth|View CI health]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[email|Email]]

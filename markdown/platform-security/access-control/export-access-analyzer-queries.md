@@ -14,7 +14,7 @@ breadcrumb: [Using Evaluate access, Using Access Analyzer, Access Analyzer, Acce
 
 # Export Access Analyzer queries
 
-[[export|Export]] the results from an [[access-analyzer|Access Analyzer]] query.
+Export the results from an Access Analyzer query.
 
 ## Before you begin
 
@@ -45,7 +45,7 @@ The following procedure describes the steps for accessing Access Analyzer and us
 
 4.  Click **Analyze permissions**.
 
-    \[Omitted image "use-access-analyzer.png"\] Alt text: [[permission-evaluation|Permission evaluation]] of Abel Tuter
+    \[Omitted image "use-access-analyzer.png"\] Alt text: Permission evaluation of Abel Tuter
 
     Access Analyzer displays **Access results** for the user. Similarly, you can analyze the permissions of a Group or Role for the following rule types:
 
@@ -66,13 +66,8 @@ The following procedure describes the steps for accessing Access Analyzer and us
 
     2.  Choose the **Delivery Type**.
 
-        Available delivery types are **Download** and **[[email|Email]]**.
+        Available delivery types are **Download** and **Email**.
 
         \[Omitted image "analyzer-queries.png"\] Alt text: Delivery Types
 
-## Related
 
-- [[export|Export]]
-- [[access-analyzer|Access Analyzer]]
-- [[permission-evaluation|Permission evaluation]]
-- [[email|Email]]

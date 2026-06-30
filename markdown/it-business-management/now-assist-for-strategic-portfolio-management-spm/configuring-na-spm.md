@@ -20,7 +20,7 @@ Use the Now Assist Admin console to activate the various Now Assist applications
 
 Install and activate the plugins, turn on the Now Assist panel, and view the account settings. You must install at least one Now Assist application before you can configure any skills.
 
-The following example shows the Settings page with available plugins to install, including [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]].
+The following example shows the Settings page with available plugins to install, including Now Assist for Strategic Portfolio Management \(SPM\).
 
 \[Omitted image "settings-page-na.png"\] Alt text: Now Assist settings page that lets you install plugins, activate the Now Assist panel, and view account details.
 
@@ -37,6 +37,3 @@ To enable the Agile story generation skill and project insights generation skill
 
 [Configuring Now Assist Admin features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-na-landing.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]

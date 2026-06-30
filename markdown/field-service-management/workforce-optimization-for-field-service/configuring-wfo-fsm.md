@@ -14,7 +14,7 @@ breadcrumb: [Set up workforce, Configure, Field Service Management]
 
 # Configuring Workforce Optimization for Field Service
 
-Enable [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] and configure settings to use the Scheduling, Teams, and Coaching applications.
+Enable Workforce Optimization for Field Service and configure settings to use the Scheduling, Teams, and Coaching applications.
 
 ## Configuration overview
 
@@ -22,11 +22,11 @@ The steps for configuring Workforce Optimization for Field Service are:
 
 1.  [Activate Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-wfo-fsm.md)
 
-    You can activate the Workforce Optimization for Field Service plugin \(com.snc.app\_fsm\_wfo\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
+    You can activate the Workforce Optimization for Field Service plugin \(com.snc.app\_fsm\_wfo\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow Store applications and plugins if they are not already installed.
 
 2.  [Set up scheduling in Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/set-up-scheduling-wfo-fsm.md)
 
-    Set up scheduling to manage events [[using-team-calendar|using the team calendar]]. You can create different types of event categories. Use scripted extension points to customize event types.
+    Set up scheduling to manage events using the team calendar. You can create different types of event categories. Use scripted extension points to customize event types.
 
 3.  [Set up Teams in Workforce Optimization in Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/setup-teams-performance-wfo-fsm.md)
 
@@ -34,7 +34,7 @@ The steps for configuring Workforce Optimization for Field Service are:
 
 4.  [Set up coaching in Workforce Optimization in Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/setup-coaching-wfo-fsm.md)
 
-    Manage agent skills and [[asses-completed-task-quality-wfo-fsm|assess the quality of completed tasks]]. Use Predictive Intelligence to recommend skills for agents. Train your agents with internal and external learning content.
+    Manage agent skills and assess the quality of completed tasks. Use Predictive Intelligence to recommend skills for agents. Train your agents with internal and external learning content.
 
 
 **Related topics**  
@@ -42,9 +42,3 @@ The steps for configuring Workforce Optimization for Field Service are:
 
 [Workforce Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-wfo-fsm.md)
 
-## Related
-
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[using-team-calendar|Using the team calendar]]
-- [[asses-completed-task-quality-wfo-fsm|Assess the quality of completed tasks]]

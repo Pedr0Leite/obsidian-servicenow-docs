@@ -14,7 +14,7 @@ breadcrumb: [System logs, Logs, Platform Security]
 
 The instance provides the utilities log file browser and log file download.
 
-Use **[[system-logs|System Logs]]** &gt; **Utilities** &gt; **Node Log File Browser** to view any [[r_SystemLogs|system log]] entry. You can search for log files by using the following filters:
+Use **System Logs** &gt; **Utilities** &gt; **Node Log File Browser** to view any system log entry. You can search for log files by using the following filters:
 
 |Field|Description|
 |-----|-----------|
@@ -36,7 +36,3 @@ You can download log file archives and view them with **System Logs** &gt; **Uti
 
 Use the new **Show Syslog Records** button on the Transaction and Active Transaction forms to view any System Log entries that were generated during the execution of the transaction. A transaction can have any number of syslog entries. The multiple syslog entries for all the transactions make it difficult to co-relate a transaction with their respective syslog entries. The **Show Syslog Records** UI action helps in co-relating the active and completed transactions to their respective syslog entries by building a URL to query the syslog table. Identifying the correct syslog entries for a particular transaction helps in debugging and addressing security concerns.
 
-## Related
-
-- [[system-logs|System logs]]
-- [[r_SystemLogs|System log]]

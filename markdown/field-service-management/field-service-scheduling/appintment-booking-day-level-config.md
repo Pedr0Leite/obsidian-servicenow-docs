@@ -28,7 +28,7 @@ For each service, you can define multiple advanced schedules that override the d
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[appointment-booking|Appointment Booking]]** &gt; **Appointment Booking Configuration**.
+1.  Navigate to **All** &gt; **Appointment Booking** &gt; **Appointment Booking Configuration**.
 
 2.  Select the desired configuration.
 
@@ -36,7 +36,7 @@ For each service, you can define multiple advanced schedules that override the d
     -   To configure different appointment schedules for work order tasks, select **Field Service Task Configuration**
 3.  In the Appointment Booking Service Configuration related list, click a service configuration to which you want to configure different appointment schedules.
 
-4.  Select **Enable [[customizations|advanced configurations]]** check box if not already selected.
+4.  Select **Enable advanced configurations** check box if not already selected.
 
 5.  In the Advanced Configurations related list, click **New**.
 
@@ -152,7 +152,7 @@ Appointments per window
 
 </td><td>
 
-Number of appointments available per slot. Applicable primarily for manual task assignment method. This number determines the available appointments that are displayed on the **Select Appointment** window. If the task assignment method is either auto-assignment or by [[dynamic-scheduling|dynamic scheduling]], this setting does not apply unless you provide a location. The configuration defaults to the number of appointments per window if the location is not provided.
+Number of appointments available per slot. Applicable primarily for manual task assignment method. This number determines the available appointments that are displayed on the **Select Appointment** window. If the task assignment method is either auto-assignment or by dynamic scheduling, this setting does not apply unless you provide a location. The configuration defaults to the number of appointments per window if the location is not provided.
 
 </td></tr><tr><td>
 
@@ -178,8 +178,3 @@ Provides a preview of the appointment windows and times based on the selected st
 
 The advanced appointment schedule is active. Customers can select specific time slots such as morning, afternoon, or evening appointments based on this configuration.
 
-## Related
-
-- [[appointment-booking|Appointment booking]]
-- [[customizations|Advanced configurations]]
-- [[dynamic-scheduling|Dynamic scheduling]]

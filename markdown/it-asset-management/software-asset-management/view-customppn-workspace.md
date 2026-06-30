@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # View publisher part number \(PPN\) suggestions in workspace
 
-View Content Service suggestions for your custom PPNs and DMAPS in the [[sam-workspace|Software Asset Workspace]].
+View Content Service suggestions for your custom PPNs and DMAPS in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: sam\_admin.
 
 3.  Open a suggestion record to view the Part number suggestion page.
 
-    You can view the custom PPN details in the top part of the Part number suggestion page. The second half of the page contains the suggested part number details. All the entitlements where the custom PPN is used appear in the **Impacted entitlements** tab. All the [[c_CreatingSoftwareModels|software models]] where the custom DMAP is used appear in the **Impacted software models** tab. If no impacted software models exist, then this tab doesn't appear.
+    You can view the custom PPN details in the top part of the Part number suggestion page. The second half of the page contains the suggested part number details. All the entitlements where the custom PPN is used appear in the **Impacted entitlements** tab. All the software models where the custom DMAP is used appear in the **Impacted software models** tab. If no impacted software models exist, then this tab doesn't appear.
 
 4.  Select **Accept** or **Reject**.
 
@@ -43,7 +43,3 @@ Role required: sam\_admin.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

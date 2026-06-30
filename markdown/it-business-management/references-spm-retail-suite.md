@@ -13,8 +13,5 @@ breadcrumb: [Retail Strategic Portfolio Management Suite, Strategic Portfolio Ma
 
 # Retail Strategic Portfolio Management Suite References
 
-Reference material for [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]], including field descriptions, configuration values, and lookup data to consult when setting up or managing the application.
+Reference material for Retail Strategic Portfolio Management Suite, including field descriptions, configuration values, and lookup data to consult when setting up or managing the application.
 
-## Related
-
-- [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]

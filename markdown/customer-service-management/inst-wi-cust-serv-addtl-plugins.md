@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Components installed with additional plugins for Customer Service Management
 
-Several types of components are installed with the additional plugins for the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Several types of components are installed with the additional plugins for the Customer Service Management application.
 
 <table id="table_mrp_y2l_mcc"><thead><tr><th>
 
@@ -24,17 +24,17 @@ Several types of components are installed with the additional plugins for the [[
 
 </th></tr></thead><tbody><tr><td>
 
-[[r_InstalledWithCCTISoftphone|Components installed with CTI Softphone]]
+[Components installed with CTI Softphone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCCTISoftphone.md)
 
 </td><td>
 
 -   Tables
--   Business [[gamification-components-rules|rules]]
+-   Business rules
 -   Script includes
 
 </td></tr><tr><td>
 
-[[r_InstalledWithCustServCTIDemoData|Components installed with Customer Service CTI Demo Data]]
+[Components installed with Customer Service CTI Demo Data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustServCTIDemoData.md)
 
 </td><td>
 
@@ -42,7 +42,7 @@ Business rules
 
 </td></tr><tr><td>
 
-[[r_InstalledWithOpenFrame|Components installed with OpenFrame]]
+[Components installed with OpenFrame](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithOpenFrame.md)
 
 </td><td>
 
@@ -54,7 +54,7 @@ Business rules
 
 </td></tr><tr><td>
 
-[[r_InstalledWithSpecHandNotes|Components installed with Special Handling Notes]]
+[Components installed with Special Handling Notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithSpecHandNotes.md)
 
 </td><td>
 
@@ -67,7 +67,7 @@ Business rules
 
 </td></tr><tr><td>
 
-[[r_TargetCommInstalledComponents|Components installed with Targeted Communications]]
+[Components installed with Targeted Communications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_TargetCommInstalledComponents.md)
 
 </td><td>
 
@@ -77,7 +77,7 @@ Business rules
 
 </td></tr><tr><td>
 
-[[r_KnowProdEntitlementCompInstalled|Components installed with Knowledge Product Entitlements]]
+[Components installed with Knowledge Product Entitlements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_KnowProdEntitlementCompInstalled.md)
 
 </td><td>
 
@@ -86,7 +86,7 @@ Business rules
 
 </td></tr><tr><td>
 
-[[r_InstalledWithSSPasswordReset|Components installed with Self Service Password Reset]]
+[Components installed with Self Service Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithSSPasswordReset.md)
 
 </td><td>
 
@@ -94,15 +94,3 @@ Script includes
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_InstalledWithCCTISoftphone|Components installed with CTI Softphone]]
-- [[r_InstalledWithCustServCTIDemoData|Components installed with Customer Service CTI Demo Data]]
-- [[r_InstalledWithOpenFrame|Components installed with OpenFrame]]
-- [[r_InstalledWithSpecHandNotes|Components installed with Special Handling Notes]]
-- [[r_TargetCommInstalledComponents|Components installed with Targeted Communications]]
-- [[r_KnowProdEntitlementCompInstalled|Components installed with Knowledge Product Entitlements]]
-- [[r_InstalledWithSSPasswordReset|Components installed with Self Service Password Reset]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

@@ -18,11 +18,11 @@ Configure certificate notifications to be delivered via email to relevant recipi
 
 ## Before you begin
 
-Role required: Certificate administrator \(glide.[[r-discovery|discovery]].certs.cert\_admin\_user\_id\) or PKI Admin \(pki\_admin\).
+Role required: Certificate administrator \(glide.discovery.certs.cert\_admin\_user\_id\) or PKI Admin \(pki\_admin\).
 
 ## About this task
 
-[[cert-inventory-mgmt|Certificate Inventory and Management]] sends email notifications for certificate life-cycle events such as certificate expiration, task creation, renewal completion, and auto-renewal failures.
+Certificate Inventory and Management sends email notifications for certificate life-cycle events such as certificate expiration, task creation, renewal completion, and auto-renewal failures.
 
 ## Procedure
 
@@ -79,7 +79,3 @@ Certificate notifications are sent to relevant recipients as configured for each
 
 **Parent Topic:**[Certificate alerts and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-inventory-mgmt-workflow.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

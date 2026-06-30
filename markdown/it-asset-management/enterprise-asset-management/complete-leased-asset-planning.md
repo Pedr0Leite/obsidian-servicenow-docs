@@ -24,7 +24,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Contract and lease management view.
+1.  From the Enterprise Asset Workspace, open the Contract and lease management view.
 
 2.  On the **Lease-end assets** tab, select the lease contract for the enterprise asset that you want to return, buy out, or extend the contract for.
 
@@ -93,7 +93,7 @@ Lease action
 Action that you want to take on the associated enterprise asset. Select one of the following options:-   **Return**
 -   **Extend**
 
-**Note:** If you select this option, the [[enterprise-asset-management|Enterprise Asset Management]] application automatically creates a purchase order and purchase order line for the lease contract extension.
+**Note:** If you select this option, the Enterprise Asset Management application automatically creates a purchase order and purchase order line for the lease contract extension.
 
 -   **Buyout**
 
@@ -173,7 +173,3 @@ Based on the action that you selected in the **Lease action** field, complete al
 
 **Parent Topic:**[Managing expiring contracts for leased enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-expiring-contracts-leased-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

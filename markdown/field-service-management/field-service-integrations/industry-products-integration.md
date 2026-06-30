@@ -14,7 +14,7 @@ breadcrumb: [Integrating Field Service Management with other applications, Confi
 
 # Integration with Industry products
 
-Provides an integration between the Industry products and [[fsm-application-landing-page|Field Service Management]] application. This integration allows customers and consumers to manage case-related work orders and tasks across Industry Products portals and application interfaces, enhancing visibility and operational efficiency.
+Provides an integration between the Industry products and Field Service Management application. This integration allows customers and consumers to manage case-related work orders and tasks across Industry Products portals and application interfaces, enhancing visibility and operational efficiency.
 
 Key Features of the Integration
 
@@ -56,6 +56,3 @@ These roles are available when the Work Management and Service Organization plug
 
 **Parent Topic:**[Integrating Field Service Management with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/integrate-fsm-other-applications.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

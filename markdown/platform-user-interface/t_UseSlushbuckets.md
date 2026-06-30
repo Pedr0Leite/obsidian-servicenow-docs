@@ -12,7 +12,7 @@ breadcrumb: [Common UI elements, Working in Core UI, Configure UIs and portals, 
 
 # Configure items on forms or in lists using a list collector
 
-Use a list collector to add, remove, or move items in a form or list. List collectors allow you to select multiple items from a list of available items and to remove items from a list of selected items. Some list collectors provide filter and search controls for available items, such as adding items to [[c_RelatedLists|related lists]].
+Use a list collector to add, remove, or move items in a form or list. List collectors allow you to select multiple items from a list of available items and to remove items from a list of selected items. Some list collectors provide filter and search controls for available items, such as adding items to related lists.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-Use list collectors to personalize [[lists-configurable-workspace|lists]], add items to related lists, and Service Catalog list collector variables. Some list collectors allow users to customize the order of selections, such as when you are configuring a form or list.
+Use list collectors to personalize lists, add items to related lists, and Service Catalog list collector variables. Some list collectors allow users to customize the order of selections, such as when you are configuring a form or list.
 
 The list collector interface has two columns: the available items on the left and the selected items on the right.
 
-Information fields for the highlighted available item appear beneath some list collectors. The information fields are the same as the [[onboarding-modals-reference|reference]] lookup for a reference field on a form. To modify which fields appear, [[configure-onboarding-modals|configure]] the reference lookup list.
+Information fields for the highlighted available item appear beneath some list collectors. The information fields are the same as the reference lookup for a reference field on a form. To modify which fields appear, configure the reference lookup list.
 
 ## Procedure
 
@@ -42,7 +42,7 @@ Information fields for the highlighted available item appear beneath some list c
 
     Use the arrow key or tab to the **Add** button to move items from one list to another.
 
--   To filter available items, create conditions using the [[c_ConditionBuilder|condition builder]] and click **Run filter**.
+-   To filter available items, create conditions using the condition builder and click **Run filter**.
 
 -   To search available items, enter text in the **Search** field.
 
@@ -57,23 +57,13 @@ Information fields for the highlighted available item appear beneath some list c
     2.  Click the down icon.
 
 
--   **[[t_SetNumSlushbucketItemsVisible|Set the number of list collector items visible in the available column]]**  
+-   **[Set the number of list collector items visible in the available column](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_SetNumSlushbucketItemsVisible.md)**  
 You can modify the **glide.xmlhttp.excessive** property to change the number of items that appear in the **Available** column of the list collector.
 
-**Parent Topic:**[[p_CommonUIElements|Common UI elements]]
+**Parent Topic:**[Common UI elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_CommonUIElements.md)
 
 **Related topics**  
 
 
-[[c_PersonalLists|Personal lists]]
+[Personal lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_PersonalLists.md)
 
-## Related
-
-- [[t_SetNumSlushbucketItemsVisible|Set the number of list collector items visible in the available column]]
-- [[p_CommonUIElements|Common UI elements]]
-- [[c_PersonalLists|Personal lists]]
-- [[c_RelatedLists|Related lists]]
-- [[lists-configurable-workspace|Lists]]
-- [[onboarding-modals-reference|Reference]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_ConditionBuilder|Condition builder]]

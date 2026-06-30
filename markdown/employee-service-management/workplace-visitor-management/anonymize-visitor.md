@@ -28,8 +28,8 @@ When you anonymize a visitor, the visitor record is deleted. In all current visi
 
 **Note:**
 
--   If you have installed [[workplace-services-kiosk|Workplace Services Kiosk]], any visitor pictures and signatures are removed when you anonymize a visitor.
--   After you anonymize a visitor, the visitor details must be deleted from the audit records for one time. To automatically delete the details from the audit records, a fixed script is provided along with the application on the store. Download the fixed script **WSD\_Fix\_Visitor\_Anonymize\_data.xml** attached with the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] application from the ServiceNow Store under the supporting documents.
+-   If you have installed Workplace Services Kiosk, any visitor pictures and signatures are removed when you anonymize a visitor.
+-   After you anonymize a visitor, the visitor details must be deleted from the audit records for one time. To automatically delete the details from the audit records, a fixed script is provided along with the application on the store. Download the fixed script **WSD\_Fix\_Visitor\_Anonymize\_data.xml** attached with the Workplace Visitor Management application from the ServiceNow Store under the supporting documents.
 
 ## Procedure
 
@@ -73,7 +73,3 @@ The visitor is anonymized and all the details of the visitor are deleted. Any fu
 
 [Apply visitor management archive policy]()
 
-## Related
-
-- [[workplace-services-kiosk|Workplace Services Kiosk]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

@@ -13,7 +13,7 @@ breadcrumb: [Reference, Retail Strategic Portfolio Management Suite, Strategic P
 
 # Roles, tables, and properties
 
-Roles, tables, and properties installed with [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]] and the access each role grants for managing retail store life cycle projects.
+Roles, tables, and properties installed with Retail Strategic Portfolio Management Suite and the access each role grants for managing retail store life cycle projects.
 
 ## Roles installed with Retail Strategic Portfolio Management Suite
 
@@ -50,7 +50,3 @@ Creates and manages retail store life cycle projects, including new store openin
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[spm-retail-suite-landing-page|Retail Strategic Portfolio Management Suite]]

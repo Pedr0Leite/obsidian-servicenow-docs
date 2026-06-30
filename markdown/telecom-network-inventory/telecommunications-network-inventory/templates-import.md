@@ -14,7 +14,7 @@ breadcrumb: [Import models and templates, Explore, Telecommunications Network In
 
 # Import templates
 
-Learn how to import inventory templates in bulk to define a complete template hierarchy with specific slot-to-card assignments, name patterns, and default field values in the [[telecom-network-inventory|Telecommunications Network Inventory]]
+Learn how to import inventory templates in bulk to define a complete template hierarchy with specific slot-to-card assignments, name patterns, and default field values in the Telecommunications Network Inventory
 
 ## Importing templates overview
 
@@ -35,6 +35,3 @@ A detailed Import Results summary is produced. The summary shows total records p
 
 [Export hierarchy of models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/export-hierarchy-of-models-and-template.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

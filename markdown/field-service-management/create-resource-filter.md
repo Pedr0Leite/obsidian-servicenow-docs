@@ -12,7 +12,7 @@ breadcrumb: [Configuring advanced resource filters for Dispatcher Workspace, Dis
 
 # Create an advanced resource filter for dispatchers
 
-Create an advanced resource filter so all dispatchers can use the same filter in [[dispatcher-activities|Dispatcher Workspace]].
+Create an advanced resource filter so all dispatchers can use the same filter in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -73,6 +73,4 @@ Add the conditions and clauses that will be used to filter the information in th
 
     The filter is added to dispatcher workspace for dispatchers to use.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

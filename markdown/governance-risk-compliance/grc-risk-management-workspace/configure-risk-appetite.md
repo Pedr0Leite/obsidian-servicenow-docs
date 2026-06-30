@@ -14,7 +14,7 @@ breadcrumb: [Risk appetite setup, Configure, Risk Management, Governance, Risk, 
 
 # Configure a risk appetite and tolerance in Advanced Risk
 
-Set up the [[advanced-risk-assessment|advanced risk assessment]] properties so that you can configure and customize the risk appetite and tolerance in the Advanced Risk application.
+Set up the advanced risk assessment properties so that you can configure and customize the risk appetite and tolerance in the Advanced Risk application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Properties**.
 
 2.  Set the property values that are described in the following table.
 
@@ -40,7 +40,7 @@ Migrate to Advanced Risk Assessmentssn\_risk\_advanced.hide\_risk\_legacy\_lifec
 
 </td><td>
 
-Option to migrate to the advanced [[risk-assessments|risk assessments]]. Select **Yes** to use the risk appetite feature.
+Option to migrate to the advanced risk assessments. Select **Yes** to use the risk appetite feature.
 
 </td></tr><tr><td>
 
@@ -78,8 +78,3 @@ Notification email scheduler to send an automated email notification to the risk
 
 **Parent Topic:**[Risk appetite setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-appetite-setup.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]

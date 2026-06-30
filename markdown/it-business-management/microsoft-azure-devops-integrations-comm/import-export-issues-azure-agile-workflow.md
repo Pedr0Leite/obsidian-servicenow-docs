@@ -14,9 +14,9 @@ breadcrumb: [Microsoft Azure DevOps Integration for Agile Development, Strategic
 
 # Importing and exporting work items between Agile Development and Azure DevOps
 
-Understand the workflow for the import and export of work items between [[agile-development|Agile Development]] and Azure DevOps.
+Understand the workflow for the import and export of work items between Agile Development and Azure DevOps.
 
-To enable import and export of work items between [[agile-landing-page|Agile Development 2.0]] and Azure DevOps, you must [configure the settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/set-up-import-export-azure-agile.md).
+To enable import and export of work items between Agile Development 2.0 and Azure DevOps, you must [configure the settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/set-up-import-export-azure-agile.md).
 
 ## Importing to Agile Development 2.0 from Azure DevOps
 
@@ -80,7 +80,3 @@ Sync sprint details from Agile Development 2.0 to Azure Devops. Any change in th
 |Disabled|Sends the previous iteration path to Azure. Iteration path will be same in Azure DevOps.|Sprint value in Agile Development 2.0 is selected.|
 |Enabled|Sends the new iteration path based on the selection. Iteration will be changed based on selection.|Sprint value in Agile Development 2.0 is selected.|
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

@@ -12,7 +12,7 @@ breadcrumb: [Setup and administration, Domain separation for service providers, 
 
 # Process administration
 
-Process administration allows administrators to set domain-specific [[ca-policies|policies]].
+Process administration allows administrators to set domain-specific policies.
 
 The policies set lower in the domain hierarchy override policies set higher in the domain hierarchy. While in a domain, administrators can set domain-specific versions of these global policies and settings:
 
@@ -22,7 +22,7 @@ The policies set lower in the domain hierarchy override policies set higher in t
 -   Application roles
 -   Module filters
 
-**Warning:** All [[users|users]] with the admin role have special access to all system features, functions, and data because administrators can override ACL rules and pass all role checks. Grant this privilege carefully.
+**Warning:** All users with the admin role have special access to all system features, functions, and data because administrators can override ACL rules and pass all role checks. Grant this privilege carefully.
 
 When users have the **admin** role, then all policies in the instance are available to them regardless of the assigned domain. They can enter a specific domain, and then only policies in that domain or higher are visible and processed during a relevant transaction. When an administrator modifies a policy that is in a higher domain or the global domain, the system automatically creates a new record for that administrator's current domain. It does not modify the original policy, application, or module record. This new record overrides the original.
 
@@ -42,7 +42,3 @@ The record's domain takes precedence over the user's domain. If there are no pol
 
 For example, Fred Luddy is a user in the Acme domain who can see records in the child domains of Acme: Atlanta, Acme: San Diego, and Acme: NY child domains. When this user opens a record in the Acme: San Diego domain, process administration first checks for policies in the Acme: San Diego domain. If there are no policies at this level of the domain hierarchy, process administration checks for policies from the Acme domain. If there are no policies in the Acme domain, process administration uses the global domain polices as there are no other domains higher in the domain hierarchy.
 
-## Related
-
-- [[ca-policies|Policies]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Configure applicant survey
 
-Configure the survey that you want your applicants to take to provide feedback on their [[hiring-tab-concept|hiring]] experience. Determine at which state the feedback survey goes to the applicant.
+Configure the survey that you want your applicants to take to provide feedback on their hiring experience. Determine at which state the feedback survey goes to the applicant.
 
 ## Before you begin
 
@@ -26,17 +26,12 @@ The **Applicant interview feedback** is available by default that triggers the s
 
 ## Procedure
 
-1.  Create the [[applicant-feedback|applicant survey]] for the applicants.
+1.  Create the applicant survey for the applicants.
 
     For more information, see [Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md).
 
-    For more information on applicant survey in the [[applicant-center-concept|Applicant Center]], see [Applicant survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-feedback.md).
+    For more information on applicant survey in the Applicant Center, see [Applicant survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/applicant-feedback.md).
 
 
 **Parent Topic:**[Configuring Applicant Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/applicant-center/config-applicant-center.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[applicant-feedback|Applicant survey]]
-- [[applicant-center-concept|Applicant Center]]

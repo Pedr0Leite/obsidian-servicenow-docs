@@ -15,7 +15,7 @@ breadcrumb: [Dispute Rules Content Pack for Nacha, Dispute Management, Banking a
 
 # Using Dispute Rules Content Pack for Nacha
 
-By using the [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]], your agents can help customers to determine the correct reason code for automated clearing house \(ACH\) transaction disputes based on Nacha operating guidelines. Agents use the predefined logic in the content pack, as well as a knowledge base article outlining the eligibility rules, required documentation, and timelines for each return code.
+By using the Dispute Rules Content Pack for Nacha, your agents can help customers to determine the correct reason code for automated clearing house \(ACH\) transaction disputes based on Nacha operating guidelines. Agents use the predefined logic in the content pack, as well as a knowledge base article outlining the eligibility rules, required documentation, and timelines for each return code.
 
 ## Overview of using Dispute Rules Content Pack for Nacha
 
@@ -63,6 +63,3 @@ If [Now Assist for Financial Services Operations \(FSO\)](https://raw.githubuser
 
 [Using agentic workflows in Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/using-ai-agent-use-cases-in-now-assist-for-fso.md)
 
-## Related
-
-- [[dispute-rules-content-pack-for-nacha|Dispute Rules Content Pack for Nacha]]

@@ -14,7 +14,7 @@ breadcrumb: [Define inventory records, Use, Telecommunications Network Inventory
 
 # Publish an asset to the hardware catalog
 
-Publish an asset to the hardware catalog so that you can procure the asset by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application integration with the Hardware Asset Management application.
+Publish an asset to the hardware catalog so that you can procure the asset by using the Telecommunications Network Inventory application integration with the Hardware Asset Management application.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ You can publish an asset to the hardware catalog to make it available as a catal
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Equipment Models**.
 
@@ -56,7 +56,3 @@ A catalog item is created for your asset.
 
 [Telecommunications Network Inventory integration with Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/integration-with-hardware-asset-management.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

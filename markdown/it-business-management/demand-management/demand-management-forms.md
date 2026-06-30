@@ -14,75 +14,50 @@ breadcrumb: [Reference, Demand Management, Project Portfolio Management, Strateg
 
 # Demand Management forms
 
-Field information for [[form-field-information-for-dw|forms]] used in the [[c_DemandManagement|Demand Management]] application.
+Field information for forms used in the Demand Management application.
 
 -   **[Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/action-form.md)**  
-Use an [[action-form|action form]] to add an action to a demand.
+Use an action form to add an action to a demand.
 -   **[Cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-plan-form.md)**  
-Use the [[demand-plan-form|cost plan form]] to capture the costs of demands.
+Use the cost plan form to capture the costs of demands.
 -   **[Decision form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/decision-form.md)**  
-Use a [[decision-form|decision form]] to add a decision to a demand.
+Use a decision form to add a decision to a demand.
 -   **[Demand Budget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-budget-form.md)**  
-Use the [[demand-budget-form|Demand Budget form]] to allocate a budget to your demand.
+Use the Demand Budget form to allocate a budget to your demand.
 -   **[Demand form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-form.md)**  
-The [[demand-form|demand form]] information is used to [[t_CreatingDemands|create a demand]].
+The demand form information is used to create a demand.
 -   **[Demand task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-task-form.md)**  
-Use the [[demand-task-form|demand task form]] to create tasks for a demand.
+Use the demand task form to create tasks for a demand.
 -   **[Expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/expense-line-form-demand.md)**  
-Use the [[expense-line-form-demand|expense line form]] to associate specific costs to a demand.
+Use the expense line form to associate specific costs to a demand.
 -   **[Investment Budget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/investment-budget-form.md)**  
-Use the [[investment-budget-form|Investment Budget form]] to allocate budget for a demand for each fiscal period.
+Use the Investment Budget form to allocate budget for a demand for each fiscal period.
 -   **[Issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/issue-form.md)**  
-Use the [[issue-form|issue form]] to add an issue to a demand.
+Use the issue form to add an issue to a demand.
 -   **[Monetary Benefit Breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/monetary-benefit-breakdown-form.md)**  
-Use the [[monetary-benefit-breakdown-form|Monetary Benefit Breakdown form]] to update the estimated and actual financial benefits for a specific fiscal year.
+Use the Monetary Benefit Breakdown form to update the estimated and actual financial benefits for a specific fiscal year.
 -   **[Monetary Benefit Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/monetary-benefit-plan-form.md)**  
-Use the [[monetary-benefit-plan-form|Monetary Benefit Plan form]] to specify the estimated benefit accrued by a demand for a fiscal period.
+Use the Monetary Benefit Plan form to specify the estimated benefit accrued by a demand for a fiscal period.
 -   **[Non-monetary Benefit Plan Breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/non-monetary-benefit-plan-breakdown-form.md)**  
 Use the Non-monetary Benefit Breakdown form to update the estimated and actual non-financial benefits for a specific fiscal year.
 -   **[Non-monetary Benefit Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/non-monetary-benefit-plan-form.md)**  
-Use the [[non-monetary-benefit-plan-form|Non-monetary Benefit Plan form]] to specify the potential non-financial benefits accrued by the demand, when it's executed.
+Use the Non-monetary Benefit Plan form to specify the potential non-financial benefits accrued by the demand, when it's executed.
 -   **[Recalculate resource costs form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/recalculate-resource-costs-form.md)**  
-Use the [[recalculate-resource-costs-form|recalculate resource costs form]] to make sure that the resource assignment costs are up to date.
+Use the recalculate resource costs form to make sure that the resource assignment costs are up to date.
 -   **[Request change form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/request-change-form.md)**  
-Use the [[request-change-form|request change form]] to change the metrics of a demand, such as demand scope, resource requirement, cost, or schedule.
+Use the request change form to change the metrics of a demand, such as demand scope, resource requirement, cost, or schedule.
 -   **[Requirement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/requirement-form.md)**  
-Use the [[requirement-form|requirement form]] to add a new requirement to a demand.
+Use the requirement form to add a new requirement to a demand.
 -   **[Risk form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/risk-form.md)**  
-Use the [[risk-form|risk form]] to add a risk to a demand.
+Use the risk form to add a risk to a demand.
 -   **[Risk value matcher form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/risk-value-matcher-form.md)**  
-Use the [[risk-value-matcher-form|risk value matcher form]] to rate the impact and probability of a risk.
+Use the risk value matcher form to rate the impact and probability of a risk.
 -   **[Stakeholder Register Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/stakeholder-register-form.md)**  
-Use the [[stakeholder-register-form|Stakeholder Register form]] to add users to the Stakeholder Registry.
+Use the Stakeholder Register form to add users to the Stakeholder Registry.
 -   **[Widget Association form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/widget-association-form.md)**  
-Use the [[widget-association-form|Widget Association form]] to associate your widget to a demand.
+Use the Widget Association form to associate your widget to a demand.
 -   **[Widget form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/widget-form.md)**  
-Use the [[widget-form|widget form]] to configure a new widget.
+Use the widget form to configure a new widget.
 
 **Parent Topic:**[Demand Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/demand-management-reference.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[c_DemandManagement|Demand Management]]
-- [[action-form|Action form]]
-- [[demand-plan-form|Cost plan form]]
-- [[decision-form|Decision form]]
-- [[demand-budget-form|Demand Budget form]]
-- [[demand-form|Demand form]]
-- [[t_CreatingDemands|Create a demand]]
-- [[demand-task-form|Demand task form]]
-- [[expense-line-form-demand|Expense line form]]
-- [[investment-budget-form|Investment Budget form]]
-- [[issue-form|Issue form]]
-- [[monetary-benefit-breakdown-form|Monetary Benefit Breakdown form]]
-- [[monetary-benefit-plan-form|Monetary Benefit Plan form]]
-- [[non-monetary-benefit-plan-form|Non-monetary Benefit Plan form]]
-- [[recalculate-resource-costs-form|Recalculate resource costs form]]
-- [[request-change-form|Request change form]]
-- [[requirement-form|Requirement form]]
-- [[risk-form|Risk form]]
-- [[risk-value-matcher-form|Risk value matcher form]]
-- [[stakeholder-register-form|Stakeholder Register Form]]
-- [[widget-association-form|Widget Association form]]
-- [[widget-form|Widget form]]

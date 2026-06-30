@@ -12,7 +12,7 @@ breadcrumb: [Instance Security Center, Platform Security]
 
 # Instance Security Center to ServiceNow Security Center migration
 
-Learn the key differences when migrating from Instance Security Center \(ISC\) to ServiceNow [[sec-center-v2|Security Center]] \(SSC\).
+Learn the key differences when migrating from Instance Security Center \(ISC\) to ServiceNow Security Center \(SSC\).
 
 **Important:**
 
@@ -40,9 +40,9 @@ User interaction updates
 
 -   Review latest score by navigating to the Overview or hardening comparison page.
 -   Manually update latest score by navigating to Overview and selecting update score.
--   Change setting [[sc-configuration|configuration]] by selecting a setting name link on any of these pages and then make edits on the **Settings detail** page:
+-   Change setting configuration by selecting a setting name link on any of these pages and then make edits on the **Settings detail** page:
     -   Overview
-    -   **Hardening** &gt; **[[all-settings|All settings]]**
+    -   **Hardening** &gt; **All settings**
     -   **Hardening** &gt; **Comparison**
 
 </td></tr><tr><td>
@@ -57,7 +57,7 @@ Using SSC, you can set when the system triggers a refresh of your compliance sco
 4.  Select **Update** to save your changes.
 
 </td></tr></tbody>
-</table>## Security KPIs and [[ca-metrics|metrics]]
+</table>## Security KPIs and metrics
 
 <table id="table_esd_b1j_1cc"><thead><tr><th>
 
@@ -95,7 +95,7 @@ User interaction updates
 Access Metrics in SSC by navigating to **Overview** &gt; **Metrics**, and then selecting metric from the navigation menu. Alternatively, you can navigate to **All metrics**.
 
 </td></tr></tbody>
-</table>## [[sc-scanning|Security scanner]]
+</table>## Security scanner
 
 <table id="table_ayw_lcj_1cc"><thead><tr><th>
 
@@ -112,13 +112,13 @@ New functionality
 </td><td>
 
 SSC includes these functions:-   Manually execute scans or schedule them to run at specific times.
--   Create your own [[scan-checks|scan checks]].
+-   Create your own scan checks.
 -   Create your own scan suite.
 -   Compare the results of two scans.
 
 </td></tr><tr><td>
 
-Enhanced [[email|email]] functionality
+Enhanced email functionality
 
 </td><td>
 
@@ -131,7 +131,7 @@ User interaction updates
 </td><td>
 
 -   Run the Auditor scan by navigating to **Overview** &gt; **Scan** &gt; **Suites** and selecting **Auditor suite** from the list.
--   See [[scan-results|scan results]] by navigating to **Overview** &gt; **Scan** &gt; **Results**.
+-   See scan results by navigating to **Overview** &gt; **Scan** &gt; **Results**.
 
 </td></tr></tbody>
 </table>## Additional security features
@@ -166,7 +166,7 @@ Access all learning resources in a single page at **Overview** &gt; **Learning**
 
 To disable Security Center features on your instance, follow the steps provided in [KB1702514: Guidelines to disable Instance Security Center components \(while using Security Center\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1702514).
 
-**Parent Topic:**[[instance-security-center|Instance Security Center]]
+**Parent Topic:**[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
 **Related topics**  
 
@@ -181,14 +181,3 @@ To disable Security Center features on your instance, follow the steps provided 
 
 [Activate the ISC Virtual Agent interface]()
 
-## Related
-
-- [[instance-security-center|Instance Security Center]]
-- [[sec-center-v2|Security Center]]
-- [[sc-configuration|Configuration]]
-- [[all-settings|All settings]]
-- [[ca-metrics|Metrics]]
-- [[sc-scanning|Security scanner]]
-- [[scan-checks|Scan checks]]
-- [[email|Email]]
-- [[scan-results|Scan results]]

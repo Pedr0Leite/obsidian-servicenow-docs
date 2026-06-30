@@ -14,11 +14,11 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Deny internal access to explicit external roles \[Updated in Security Center 1.3 and 1.5\]
 
-Use [[ca-system-properties|system properties]] to determine whether external [[users|users]] can be assigned the snc\_internal role.
+Use system properties to determine whether external users can be assigned the snc\_internal role.
 
 Use the **glide.security.explicit\_roles.enable\_internal\_user\_blacklist** system property to prevent external users from being assigned the **snc\_internal** role. When this property is set to **true**, it enforces the parameters of the maint-protected **glide.security.explicit\_roles.internal\_user\_blacklist** property. This property assigns the **snc\_external** role to a list of untrusted user classes. If **glide.security.explicit\_roles.enable\_internal\_user\_blacklist** is set to **false**, the **glide.security.explicit\_roles.internal\_user\_blacklist** property is ignored.
 
-**Note:** Instances without [[explicit-roles|Explicit Roles]] installed are not affected. As of the Paris release, new installations of Explicit Roles get the property with a default value of true.
+**Note:** Instances without Explicit Roles installed are not affected. As of the Paris release, new installations of Explicit Roles get the property with a default value of true.
 
 ## More information
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -107,9 +107,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[explicit-roles|Explicit Roles]]
-- [[sc-configuration|Configuration]]

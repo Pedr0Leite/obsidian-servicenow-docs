@@ -14,7 +14,7 @@ breadcrumb: [Create a telephone infrastructure, Inventory number allocation, Def
 
 # Create a telephone number allocation
 
-Create a telephone number allocation so that you can group a set of telephone numbers and apply the required conditions to it by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can also review, create, update, or delete a telephone number allocation.
+Create a telephone number allocation so that you can group a set of telephone numbers and apply the required conditions to it by using the Telecommunications Network Inventory application. You can also review, create, update, or delete a telephone number allocation.
 
 ## Before you begin
 
@@ -23,15 +23,15 @@ Create a telephone number allocation so that you can group a set of telephone nu
 
 ## About this task
 
-Setting the Create telephone allocations and numbers checkbox as true, while creating a telephone block, creates individual numbers and [[telephone_number_management|telephone allocation]]. You can assign multiple telephone numbers to a telephone allocation. When you assign a single telephone number allocation to a telephone number block, you can assign a series of numbers to that block.
+Setting the Create telephone allocations and numbers checkbox as true, while creating a telephone block, creates individual numbers and telephone allocation. You can assign multiple telephone numbers to a telephone allocation. When you assign a single telephone number allocation to a telephone number block, you can assign a series of numbers to that block.
 
 On completing this task, assigning a single telephone number allocation to a telephone number block results in assigning a series of numbers to that block.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **Telephone Number**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Number Allocation** &gt; **Telephone Number**.
 
 3.  Select **New**.
 
@@ -99,9 +99,3 @@ Ending phone number of the series that you can assign to this block to.
 
 **Parent Topic:**[Create a telephone infrastructure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telephone_block_telephone_number_and_telephone_number.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telephone_number_management|Telephone allocation]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]

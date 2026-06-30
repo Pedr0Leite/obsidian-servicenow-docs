@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator overview
 
-Jumpstart Your AI Agents for ITSM provides  [[impact-landing-page|Impact]] customers with an overview and applied demonstration of AI Agents for ITSM. By harnessing the power of GenAI, this accelerator highlights how AI agents revolutionize the ITSM process by using advanced reasoning to complete key tasks. AI agents handle repetitive tasks such as generating detailed resolution notes, summarizing cases and chat conversations, and more, freeing up human agents to focus on higher-value work. This offering provides key resources and leading practices to get started with AI Agents for ITSM.
+Jumpstart Your AI Agents for ITSM provides  Impact customers with an overview and applied demonstration of AI Agents for ITSM. By harnessing the power of GenAI, this accelerator highlights how AI agents revolutionize the ITSM process by using advanced reasoning to complete key tasks. AI agents handle repetitive tasks such as generating detailed resolution notes, summarizing cases and chat conversations, and more, freeing up human agents to focus on higher-value work. This offering provides key resources and leading practices to get started with AI Agents for ITSM.
 
 ## Package Availability
 
@@ -70,6 +70,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

@@ -26,7 +26,7 @@ You can provide granular access control on objects that are linked to entities. 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[entity-based-access|Entity Based Access]] Configurations** &gt; **Entity Configurations**.
+1.  Navigate to **All** &gt; **Entity Based Access Configurations** &gt; **Entity Configurations**.
 
 2.  Select **New**.
 
@@ -50,11 +50,7 @@ You can provide granular access control on objects that are linked to entities. 
 
 
 -   **[Entity configurations form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-configurations-form.md)**  
-Use the [[entity-configurations-form|Entity configurations form]] to configure access to the objects through an entity.
+Use the Entity configurations form to configure access to the objects through an entity.
 
 **Parent Topic:**[Managing Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[entity-configurations-form|Entity configurations form]]

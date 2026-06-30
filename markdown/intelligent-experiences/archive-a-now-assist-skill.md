@@ -13,7 +13,7 @@ breadcrumb: [Using Now Assist Admin, Now Assist, Enable AI experiences]
 
 # Archive a Now Assist skill
 
-The 'Archive' option in the [[now-assist-global-navigation|navigation]] pane within [[platform-now-assist-landing|Now Assist]] Admin allows you to archive copies and custom [[now-assist-skills|Now Assist skills]].
+The 'Archive' option in the navigation pane within Now Assist Admin allows you to archive copies and custom Now Assist skills.
 
 ## Before you begin
 
@@ -54,11 +54,5 @@ Role required: sn\_generative\_ai.nsa\_admin
     \[Omitted image "na-skill-deprecate.png"\] Alt text: Deprecated skills
 
 
-**Parent Topic:**[[using-now-assist-admin_0|Using Now Assist Admin]]
+**Parent Topic:**[Using Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-admin_0.md)
 
-## Related
-
-- [[using-now-assist-admin_0|Using Now Assist Admin]]
-- [[now-assist-global-navigation|Navigation]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]

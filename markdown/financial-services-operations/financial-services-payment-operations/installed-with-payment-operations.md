@@ -14,7 +14,7 @@ breadcrumb: [Reference, Payment Operations, Banking applications, Financial Serv
 
 # Components installed with Financial Services Payment Operations
 
-Several types of components are installed with the installation of the [[payment-ops-landing-page|Financial Services Payment Operations]] application, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
+Several types of components are installed with the installation of the Financial Services Payment Operations application, including tables and user roles. The application also installs related plugins and store applications if they are not already installed.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -36,14 +36,14 @@ Customer Service\[com.sn\_customerservice\]
 
 </td><td>
 
-Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.
+Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.
 
 </td></tr></tbody>
 </table>## Store applications installed
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make payment requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make payment requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
 
 ## Roles installed
 
@@ -106,7 +106,7 @@ Payment contributor\[sn\_bom\_payment.contributor\]
 -   Submit payment claim requests for internal claims
 -   View the status of payment inquiry and claim cases
 
- **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+ **Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -215,7 +215,7 @@ Payment manager\[sn\_bom\_payment.manager\]
 
 </td><td>
 
--   View the [[payment-operations-dashboard|Payment Operations dashboard]]
+-   View the Payment Operations dashboard
 -   Use Process Mining for Payment Operations processes
 
 </td><td>
@@ -310,10 +310,3 @@ Stores all payment service cases for debit approvals.
 </td></tr></tbody>
 </table>**Parent Topic:**[Financial Services Payment Operations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/payment-operations-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[payment-ops-landing-page|Financial Services Payment Operations]]
-- [[fso-overview|Financial Services]]
-- [[payment-operations-dashboard|Payment Operations dashboard]]

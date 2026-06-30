@@ -12,7 +12,7 @@ breadcrumb: [Overview, Integrate with IT Service Management, Integrate, Customer
 
 # Extension points for CSM integration with IT Service Management
 
-Use the extension [[gamification-components-points|points]] available with CSM integration with IT Service Management to extend the functionality of your application.
+Use the extension points available with CSM integration with IT Service Management to extend the functionality of your application.
 
 Extension points enable you to extend the functionality of an application and integrate customizations without altering the application code. Extension points are stored in the Extension Point \[sys\_extension\_point\] table.
 
@@ -20,7 +20,7 @@ Extension points enable you to extend the functionality of an application and in
 
 Customers can create the logic for mapping the **Incident** field by using the sn\_cs\_sm.CSMIncidentIntegrations extension point.
 
-For more information about mapping fields, see the [How to map or copy field values from Case to Incident when using [[csm-integration-sm-incident|CSM Integration with Incident Management]] \[KB0817494\]](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0817494) article in the HI Knowledge Base.
+For more information about mapping fields, see the [How to map or copy field values from Case to Incident when using CSM Integration with Incident Management \[KB0817494\]](https://support.servicenow.com/nav_to.do?uri=%2Fkb%3Fid%3Dkb_article_view%26sysparm_article%3DKB0817494) article in the HI Knowledge Base.
 
 ## Using an extension point to map the Problem field
 
@@ -77,7 +77,3 @@ This feature includes an extension point that can be used to configure approval 
 
 [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[csm-integration-sm-incident|CSM integration with Incident Management]]

@@ -12,11 +12,11 @@ breadcrumb: [Case action status, Configure case management, Case management, Org
 
 # Blocking tasks
 
-Certain agent actions trigger case flows which create and resolve the blocking tasks for customer service cases. These tasks determine the [[case-action-status-csm-workspace|case action status]].
+Certain agent actions trigger case flows which create and resolve the blocking tasks for customer service cases. These tasks determine the case action status.
 
 When an agent performs certain actions, such as asking a customer for more information or associating a problem with a case, the system:
 
--   Adds a blocking task to the case. This task appears on the [[r_CustomerServiceCaseForm|Case form]] in the **Blocked by** form section.
+-   Adds a blocking task to the case. This task appears on the Case form in the **Blocked by** form section.
 -   Updates the **Action Status** field on the Case form and Case list.
 
 **Note:** A blocking task is something that prevents an agent from making progress toward case resolution. For example, a case might have one or more open related task records or be waiting for customer feedback.
@@ -94,7 +94,3 @@ When a blocking task is resolved:
 
 Records that have the blocking tasks are stored in the Blocked By table \[sn\_action\_status\_blocked\_by\]. Records are periodically removed from this table. Six months after a blocked record is closed, the entries in the Blocked By table related to the blocked record are removed.
 
-## Related
-
-- [[case-action-status-csm-workspace|Case action status]]
-- [[r_CustomerServiceCaseForm|Case form]]

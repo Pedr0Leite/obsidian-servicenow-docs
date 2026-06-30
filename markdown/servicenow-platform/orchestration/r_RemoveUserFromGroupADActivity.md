@@ -16,7 +16,7 @@ breadcrumb: [Active Directory activity pack, Orchestration activity packs, Class
 
 The Remove User from Group activity removes a user from a group in Windows Active Directory.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Active Directory**.
 
 ## Input variables
 
@@ -42,6 +42,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[Active Directory activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchActiveDirectoryActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]

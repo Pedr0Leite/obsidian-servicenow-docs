@@ -14,7 +14,7 @@ breadcrumb: [Create Enrich automation, Alert automation in SOW for ITOM, Using S
 
 # Regex preprocessing behavior in Enrich alert automation
 
-Explains how [[c_EM|Event Management]] alert automation preprocesses values before applying regex patterns, why matching behavior differs between pre-populated **Additional Info JSON** fields and free-text sample values, and how to design regex patterns that work reliably.
+Explains how Event Management alert automation preprocesses values before applying regex patterns, why matching behavior differs between pre-populated **Additional Info JSON** fields and free-text sample values, and how to design regex patterns that work reliably.
 
 ## Preprocessing alert fields
 
@@ -56,6 +56,3 @@ Instead of matching JSON structure, match the preprocessed `{key=value}` format:
 -   Use `{key=value}` instead of `{"key": "value"}`.
 -   Avoid matching JSON structure \(quotes, colons, whitespace\).
 
-## Related
-
-- [[c_EM|Event Management]]

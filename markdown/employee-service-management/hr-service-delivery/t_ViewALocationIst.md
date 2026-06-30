@@ -14,7 +14,7 @@ breadcrumb: [Managed lists, HR Administration, Configure, Case and Knowledge Man
 
 # Add or modify locations
 
-If your company has multiple offices, location records store the address and contact details for each site, and are assigned in the employee [[c_HRProfileRecords|HR profile]] and user records. The location of an HR agent can be used for automatic assignment of HR cases.
+If your company has multiple offices, location records store the address and contact details for each site, and are assigned in the employee HR profile and user records. The location of an HR agent can be used for automatic assignment of HR cases.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The Administrator can view, edit, or create locations. You can use the location 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **[[c_ManagedLists|Managed Lists]]** &gt; **Locations**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Managed Lists** &gt; **Locations**.
 
 2.  Click a location name to view or edit details for that location.
 
@@ -43,8 +43,3 @@ The Administrator can view, edit, or create locations. You can use the location 
 
 **Parent Topic:**[Managed lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ManagedLists.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[c_ManagedLists|Managed lists]]

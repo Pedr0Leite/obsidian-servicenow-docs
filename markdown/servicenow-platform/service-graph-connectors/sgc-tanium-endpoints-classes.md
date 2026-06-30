@@ -16,7 +16,7 @@ breadcrumb: [Tanium Endpoints, Service Graph Connectors, Integrating third-party
 
 When you complete setting up the connection, you can configure the integration to periodically pull data from Tanium. The data is saved in tables that extend from the Configuration Item \[cmdb\_ci\] table.
 
-**Important:** The [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]] populates the Computer class with user-facing endpoints, and doesn't import data from the Server child class. Use this connector if you don't require Server data. If you require Server data, use the [[cmdb-integration-tanium|Service Graph Connector for Tanium]].
+**Important:** The Service Graph Connector for Tanium Endpoints populates the Computer class with user-facing endpoints, and doesn't import data from the Server child class. Use this connector if you don't require Server data. If you require Server data, use the Service Graph Connector for Tanium.
 
 ## Computer \[cmdb\_ci\_computer\]
 
@@ -133,7 +133,7 @@ The following attributes in the Handheld Computing Device \[cmdb\_ci\_handheld\_
 
 ## IP Address \[cmdb\_ci\_ip\_address\]
 
-The following attributes in the [[ip-address|IP Address]] \[cmdb\_ci\_ip\_address\] table are populated by collected data:
+The following attributes in the IP Address \[cmdb\_ci\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -232,8 +232,3 @@ The following attributes in the Software Instance \[cmdb\_software\_instance\] t
 |------------|-----------------|-----------|
 |Software Instance \[cmdb\_software\_instance\]|Reference|Computer \[cmdb\_ci\_computer\]|
 
-## Related
-
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]
-- [[cmdb-integration-tanium|Service Graph Connector for Tanium]]
-- [[ip-address|IP Address]]

@@ -14,7 +14,7 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Jumpstart Your Impact Platform Health
 
-This accelerator provides a demonstration of the possibilities and capabilities of [[impact-landing-page|Impact]] [[platform-health-idi|Platform Health]].
+This accelerator provides a demonstration of the possibilities and capabilities of Impact Platform Health.
 
 ## Accelerator Overview
 
@@ -39,7 +39,7 @@ While the Impact Store app is required to use Platform Health in production and 
 
     -   Overview and applied demonstration of Impact Platform Health, including:
         -   Scan Engine
-        -   [[io-analytics|Analytics]] Dashboard
+        -   Analytics Dashboard
         -   Real-time prevention
         -   Code Fix AI Agent
     -   Leading practice guides and key resources
@@ -64,8 +64,3 @@ While the Impact Store app is required to use Platform Health in production and 
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-analytics|Analytics]]

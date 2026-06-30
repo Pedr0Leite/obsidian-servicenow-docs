@@ -122,7 +122,7 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-[[fsm-application-landing-page|Field Service Management]] Agent\[wm\_agent\]
+Field Service Management Agent\[wm\_agent\]
 
 </td><td>
 
@@ -135,6 +135,3 @@ sn\_incident\_read
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration with Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/incident-for-fsm.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

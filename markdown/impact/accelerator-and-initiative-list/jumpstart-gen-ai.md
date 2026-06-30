@@ -18,7 +18,7 @@ This Accelerator provides a demonstration of the capabilities of ServiceNow® Ge
 
 ## Accelerator Overview
 
-This accelerator provides [[impact-landing-page|Impact]] customers with an overview of how integrates GenAI across the platform, highlighting opportunities to improve efficiency and enhance the [[user-experience-insights|user experience]]. The session includes an applied demonstration of various Now Assist and AI Agent capabilities using a temporary instance, along with an overview of the onboarding process. It also shares leading practices for deploying these products, making it an ideal starting point for customers beginning their Now Assist journey.
+This accelerator provides Impact customers with an overview of how integrates GenAI across the platform, highlighting opportunities to improve efficiency and enhance the user experience. The session includes an applied demonstration of various Now Assist and AI Agent capabilities using a temporary instance, along with an overview of the onboarding process. It also shares leading practices for deploying these products, making it an ideal starting point for customers beginning their Now Assist journey.
 
 ## Package Availability
 
@@ -165,7 +165,3 @@ Attend ServiceNow Impact Accelerator coaching sessions to understand leading pra
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

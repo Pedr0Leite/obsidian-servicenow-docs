@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Subscription revenue metrics
 
-Subscription pricing is a pricing model where customers pay a recurring fee for products or services, usually at regular intervals such as monthly or annually. In [[order-mgt-overview|Sales Customer Relationship Management]], various subscription revenue amounts are calculated automatically for opportunities and quotes.
+Subscription pricing is a pricing model where customers pay a recurring fee for products or services, usually at regular intervals such as monthly or annually. In Sales Customer Relationship Management, various subscription revenue amounts are calculated automatically for opportunities and quotes.
 
 Subscription revenue amounts are metrics that help sales agents and sales managers track and analyze the revenue impact of sales deals. Sales agents and managers can view these system-calculated revenue amounts in the pricing details for opportunities and quotes, both at the header and line levels. These revenue amounts, such as monthly recurring revenue \(MRR\) or annual recurring revenue \(ARR\), are useful for monitoring sales performance, forecasting subscription revenue, and providing relevant subscription amounts when agents engage with customers.
 
@@ -40,9 +40,9 @@ In subscription pricing, common metrics for assessing subscription-based revenue
 
 -   **Term**
 
-    The duration or period of a subscription or contract, in months, such as 10 months or 24 months. In [[opportunity-management|Opportunity Management]], agents can enter a Term value before adding line items. In [[quote-management|Quote Management]], when agents enter a Term value and the contract start date, the system uses the term value and start date to auto-calculate the contract end date. If an agent changes the contract end date, the system recalculates the Term value.
+    The duration or period of a subscription or contract, in months, such as 10 months or 24 months. In Opportunity Management, agents can enter a Term value before adding line items. In Quote Management, when agents enter a Term value and the contract start date, the system uses the term value and start date to auto-calculate the contract end date. If an agent changes the contract end date, the system recalculates the Term value.
 
-    For products with monthly periodicity, the per-day price \(pro-rate multiplier\) is based on the Unit list price/number of days in the month. For a product with annual periodicity, the per-day price \(prp-rate multiplier\) that is multiplied against the decimal [[fields|fields]] is the Unit price/365 days or 366 days if the year is a leap year.
+    For products with monthly periodicity, the per-day price \(pro-rate multiplier\) is based on the Unit list price/number of days in the month. For a product with annual periodicity, the per-day price \(prp-rate multiplier\) that is multiplied against the decimal fields is the Unit price/365 days or 366 days if the year is a leap year.
 
 
 ## How subscription pricing revenues are calculated
@@ -279,16 +279,7 @@ Cumulative margin %
 |Total monthly margin %|\(Total monthly margin/Total monthly price\) × 100|
 |Total margin %|\(Total Margin Amount/Total amount\) × 100|
 
-To learn more about the revenue metrics in opportunity details, see [[opportunity-management-details-tab|Add and view the details of an opportunity]] and [[opportunity-management-line-items-tab|Add line items to an opportunity]].
+To learn more about the revenue metrics in opportunity details, see [Add and view the details of an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-details-tab.md) and [Add line items to an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-line-items-tab.md).
 
-To learn more about the revenue metrics in quote details, see [[quote-management-details-tab|Add and view details of a quote]].
+To learn more about the revenue metrics in quote details, see [Add and view details of a quote](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-management-details-tab.md).
 
-## Related
-
-- [[opportunity-management-details-tab|Add and view the details of an opportunity]]
-- [[opportunity-management-line-items-tab|Add line items to an opportunity]]
-- [[quote-management-details-tab|Add and view details of a quote]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[quote-management|Quote Management]]
-- [[fields|Fields]]

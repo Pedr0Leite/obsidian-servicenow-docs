@@ -14,7 +14,7 @@ breadcrumb: [Insurance product models, Setting up the policy data for Insurance 
 
 # Create an insurance product model
 
-Create an insurance product model for an insurance policy that is sold to a customer by using the [[insurance-claims-flow|Insurance claims]] application. The insurance product model defines the product type, which customers that the policy is for, and the coverage specifications.
+Create an insurance product model for an insurance policy that is sold to a customer by using the Insurance claims application. The insurance product model defines the product type, which customers that the policy is for, and the coverage specifications.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Search for and select **Commercial lines insurance product model**.
 
     |Insurance model|Navigation|
     |---------------|----------|
-    |**Personal insurance model**|Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Products** &gt; **Personal Insurance Models**.|
+    |**Personal insurance model**|Navigate to **All** &gt; **Financial Services Operations** &gt; **Products** &gt; **Personal Insurance Models**.|
     |**Commercial insurance model**|Navigate to **All** &gt; **Financial Services Operations** &gt; **Products** &gt; **Commercial Insurance Models**.|
 
 8.  Select **New**.
@@ -78,7 +78,4 @@ Search for and select **Commercial lines insurance product model**.
 
 10. Select **Submit**.
 
-## Related
 
-- [[insurance-claims-flow|Insurance claims]]
-- [[fso-overview|Financial Services]]

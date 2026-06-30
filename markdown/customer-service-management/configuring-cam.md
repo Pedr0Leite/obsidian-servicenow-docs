@@ -12,13 +12,13 @@ breadcrumb: [User management, Set up your environment, Configure, Customer Servi
 
 # Configuring customer access management
 
-Ensure that the customer access management is set up correctly for the user by completing all configuration tasks using the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application.
+Ensure that the customer access management is set up correctly for the user by completing all configuration tasks using the Customer Service Management \(CSM\) application.
 
 ## Overview of customer access management
 
-Customer Access Management enables you to grant varying levels of access to different contacts and consumers for [[customer-data|customer data]], such as cases, [[sold-product|sold products]], and more. It also enables you to control internal user access based on their relationship with the customer.
+Customer Access Management enables you to grant varying levels of access to different contacts and consumers for customer data, such as cases, sold products, and more. It also enables you to control internal user access based on their relationship with the customer.
 
-As the needs of industry verticals grow, enterprises encounter complex use cases. There are use case scenarios where [[case-management|case management]] can be handled by more than one customer contact. For example, in a B2C scenario, let's assume that a loan applicant wants to add a co-borrower, guarantor, and an attorney to a housing loan application where everyone has the same level of access to respond to the loan application-related case. While in other cases, products purchased by a customer can have multiple departments tracking the product, like the finance team tracking the renewals of the product or the operations team tracking the maintenance of the product.
+As the needs of industry verticals grow, enterprises encounter complex use cases. There are use case scenarios where case management can be handled by more than one customer contact. For example, in a B2C scenario, let's assume that a loan applicant wants to add a co-borrower, guarantor, and an attorney to a housing loan application where everyone has the same level of access to respond to the loan application-related case. While in other cases, products purchased by a customer can have multiple departments tracking the product, like the finance team tracking the renewals of the product or the operations team tracking the maintenance of the product.
 
 Customer access management enables enterprises across industry verticals such as hi-tech, telecommunications, financial services, government, and manufacturing to meet these complex use cases.
 
@@ -36,29 +36,16 @@ Customer access management:
 
 |Task|Description|
 |----|-----------|
-|[[csm-cust-access-mgmt-tables|Customer access management tables and plugins]].|Add new tables or modify existing tables to enable customer access management.|
-|[[r_rolesinstalledwithcustaccessmgmt|Install roles with customer access management]].|Use different predefined functional and granular roles to establish relationships between users and entities.|
-|[[t_CreateAResponsibilityDefinition|Create a responsibility definition]]|Define a role or responsibility that can support your organization and users in the Customer Service Management \(CSM\) application.|
-|[[declarative-resposibility-framework|Configure access through the responsibility access configuration]]|Streamline how you create and update your responsibility definitions and access configurations by using the declarative responsibility framework in the Customer Service Management \(CSM\) application.|
-|[[adding-related-party-config-to-case|Create related party configurations]].|Link related party entity responsibilities to responsibility definitions by adding related party configurations to a case.|
+|[Customer access management tables and plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-cust-access-mgmt-tables.md).|Add new tables or modify existing tables to enable customer access management.|
+|[Install roles with customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_rolesinstalledwithcustaccessmgmt.md).|Use different predefined functional and granular roles to establish relationships between users and entities.|
+|[Create a responsibility definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md)|Define a role or responsibility that can support your organization and users in the Customer Service Management \(CSM\) application.|
+|[Configure access through the responsibility access configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/declarative-resposibility-framework.md)|Streamline how you create and update your responsibility definitions and access configurations by using the declarative responsibility framework in the Customer Service Management \(CSM\) application.|
+|[Create related party configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/adding-related-party-config-to-case.md).|Link related party entity responsibilities to responsibility definitions by adding related party configurations to a case.|
 
 **Related topics**  
 
 
-[[csm-data-management|Data management for Customer Service Management]]
+[Data management for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-management.md)
 
-[[using-cam|Using customer access management]]
+[Using customer access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-cam.md)
 
-## Related
-
-- [[csm-cust-access-mgmt-tables|Customer access management tables and plugins]]
-- [[r_rolesinstalledwithcustaccessmgmt|Roles installed with customer access management]]
-- [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
-- [[declarative-resposibility-framework|Configure access through the responsibility access configuration]]
-- [[adding-related-party-config-to-case|Create related party configurations]]
-- [[csm-data-management|Data management for Customer Service Management]]
-- [[using-cam|Using customer access management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[customer-data|Customer data]]
-- [[sold-product|Sold products]]
-- [[case-management|Case management]]

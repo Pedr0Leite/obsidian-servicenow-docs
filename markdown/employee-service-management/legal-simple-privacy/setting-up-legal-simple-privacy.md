@@ -28,7 +28,7 @@ As an administrator, review the installed components and modify them or add new 
 
 -   **[Configure an external storage system for legal requests and legal matters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/integrate-legal-ext-storage.md)**
 
-    [[cncore-integrate-ext-storage|Configure an external storage system]] to store documents attached to the [[legal-simple-privacy-landing-page|Legal Simple Privacy]] requests by the requester or the fulfiller, which enables your organization to have a centralized documentation management and retention policy.
+    Configure an external storage system to store documents attached to the Legal Simple Privacy requests by the requester or the fulfiller, which enables your organization to have a centralized documentation management and retention policy.
 
 -   **[Create or modify a response template for legal services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-lsd-response-template.md)**
 
@@ -52,7 +52,3 @@ As an administrator, after installing Legal Simple Privacy reconfigure forms to 
 
 **Parent Topic:**[Legal Simple Privacy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-privacy/legal-simple-privacy-landing-page.md)
 
-## Related
-
-- [[cncore-integrate-ext-storage|Configure an external storage system]]
-- [[legal-simple-privacy-landing-page|Legal Simple Privacy]]

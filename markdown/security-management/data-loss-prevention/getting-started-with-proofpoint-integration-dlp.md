@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify you have assigned the required ServiceNow AI Platform and [[dlp-landing|Data Loss Prevention Incident Response]] application roles.
+Verify you have assigned the required ServiceNow AI Platform and Data Loss Prevention Incident Response application roles.
 
 </td><td>
 
@@ -66,6 +66,3 @@ Verify that the following DLP applications and security support common applicati
 </td></tr></tbody>
 </table>**Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-proofpoint.md)
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

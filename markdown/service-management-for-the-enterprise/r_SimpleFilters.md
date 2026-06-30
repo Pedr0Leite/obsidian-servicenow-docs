@@ -70,7 +70,7 @@ Zones
 Lists zones queried from the tables that extend or include \[fm\_m2m\_space\_to\_zone\]
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_MapFilters|Map filters]]
+</table>**Parent Topic:**[Map filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_MapFilters.md)
 
 **Related topics**  
 
@@ -79,6 +79,3 @@ Lists zones queried from the tables that extend or include \[fm\_m2m\_space\_to\
 
 [Create a map filter in Facilities Service Management]()
 
-## Related
-
-- [[r_MapFilters|Map filters]]

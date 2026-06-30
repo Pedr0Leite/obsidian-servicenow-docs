@@ -30,11 +30,7 @@ In this stage, a Grants Program Manager can review the proposal details and the 
 **Related topics**  
 
 
-[[psds-using-gmp-check-eligibility|Check eligibility of an applicant]]
+[Check eligibility of an applicant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-check-eligibility.md)
 
-[[psds-using-gmp-verify-documents|Verify and screen documents uploaded to grant proposal application by an applicant]]
+[Verify and screen documents uploaded to grant proposal application by an applicant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-verify-documents.md)
 
-## Related
-
-- [[psds-using-gmp-check-eligibility|Check eligibility of an applicant]]
-- [[psds-using-gmp-verify-documents|Verify and screen documents uploaded to grant proposal application by an applicant]]

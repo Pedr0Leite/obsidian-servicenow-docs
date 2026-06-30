@@ -14,7 +14,7 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 # Deny by default with empty ACLs \[Updated in Security Center 1.3\]
 
-Use the **glide.sm.default\_mode** property to control the default behavior of security manager when it finds that existing [[sc-access-control|Access Control]] List \(ACL\) rules are a part of wildcard table ACL rules.
+Use the **glide.sm.default\_mode** property to control the default behavior of security manager when it finds that existing Access Control List \(ACL\) rules are a part of wildcard table ACL rules.
 
 Prevent your instance's legacy security manager from allowing access to resources when there are no ACLs defined for that resource, or if there are only wildcard table-level ACLs \(for example, `incident.*`\). When allowed access by default, anything that does not have explicit ACLs set is susceptible to manipulation.
 
@@ -42,11 +42,11 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -102,8 +102,3 @@ References
 
 **Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

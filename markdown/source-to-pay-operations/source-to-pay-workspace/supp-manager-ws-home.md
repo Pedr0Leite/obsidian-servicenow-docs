@@ -14,7 +14,7 @@ breadcrumb: [Source-to-Pay Workspace landing page, Explore, Workspace, Source-to
 
 # SLO landing page
 
-As a [[supplier|supplier]] manager, view a snapshot of your assigned supplier cases and tasks and take actions to resolve them.
+As a supplier manager, view a snapshot of your assigned supplier cases and tasks and take actions to resolve them.
 
 As a Supplier Manager \[sn\_slm.manager\] or Supplier Fulfiller \[sn\_slm.fulfiller\], you can use the landing page to create a new case, task, and supplier. You can also manage suppliers, view cases and tasks that are assigned to you.
 
@@ -48,7 +48,7 @@ Option
 
 </td><td>
 
-Opens the [[new-supplier-case|Create New Supplier Case form]] that enables you to create a new supplier case.
+Opens the Create New Supplier Case form that enables you to create a new supplier case.
 
 </td></tr><tr><td>
 
@@ -60,7 +60,7 @@ Option
 
 </td><td>
 
-Opens the Create a new [[slo-task-form|task form]] that enables you to create a new supplier task.
+Opens the Create a new task form that enables you to create a new supplier task.
 
 </td></tr><tr><td>
 
@@ -84,11 +84,11 @@ Option
 
 </td><td>
 
-Opens the Create New KPI template form that enables you to create [[kpi-templates|KPI templates]].
+Opens the Create New KPI template form that enables you to create KPI templates.
 
 </td></tr><tr><td>
 
-[[create-segmentation-rule-slo|Create segmentation rule]]
+Create segmentation rule
 
 </td><td>
 
@@ -96,7 +96,7 @@ Option
 
 </td><td>
 
-Opens the Create New Segmentation rule form that enables you to build your segmentation rule by selecting specific conditions to filter the data from the [[slo-supplier-table|supplier table]].
+Opens the Create New Segmentation rule form that enables you to build your segmentation rule by selecting specific conditions to filter the data from the supplier table.
 
 </td></tr><tr><td>
 
@@ -299,7 +299,7 @@ Filter: By priority
 Displays tasks filtered by their priority.
 
 </td></tr></tbody>
-</table>## Role-based access to quick actions in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+</table>## Role-based access to quick actions in the Source-to-Pay Workspace
 
 <table id="table_smg_zqm_cyb"><thead><tr><th>
 
@@ -366,12 +366,3 @@ You can configure the landing page using UI Builder, define different audiences 
 
 [POM landing page]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[new-supplier-case|Create New Supplier Case form]]
-- [[slo-task-form|Task form]]
-- [[kpi-templates|KPI templates]]
-- [[create-segmentation-rule-slo|Create segmentation rule]]
-- [[slo-supplier-table|Supplier table]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

@@ -29,8 +29,8 @@ Role required: sn\_asc.admin
 
     This HR task enables employees leaving the organization to verify and update their personal information, which includes personal email, phone number, and shipping address. These details are essential for post-employment communication. Employees can verify their details in two ways:
 
-    -   Verify Personal Details [[activity-lxp|activity]] – offboarding Journey lifecycle event
-    -   Verify Personal Details task – In [[employee-center-landing-page|Employee Center]] To-dos.
+    -   Verify Personal Details activity – offboarding Journey lifecycle event
+    -   Verify Personal Details task – In Employee Center To-dos.
 3.  In the Automatic creation tab, select the **Add Filter Condition** to configure specific conditions on creating the alumni record automatically.
 
     1.  In the Default state field, select Approve or Approval needed.
@@ -78,7 +78,7 @@ The number of times the application attempts to add a digit to an alumni user ID
 </td></tr></tbody>
 </table>5.  In the Self-registration tab, select the default approval status to create alumni users without manual intervention when users self-register on the alumni portal.
 
-    -   Default state - Use this status when the self-registered user details don’t match with the details in the [[c_HRProfileRecords|HR profile]]. Selecting Approved creates an alumni staging record in Approved status.
+    -   Default state - Use this status when the self-registered user details don’t match with the details in the HR profile. Selecting Approved creates an alumni staging record in Approved status.
     -   Default state\(Alumni verified\) - Use this status when the self-registered user details match with the details in the HR profile. Selecting Approved creates an alumni staging record with Approved status.
     -   Default fields to match on - Use the configurable JSON script where you can add fields in the 'must' \(all the fields must be matched\) and 'any' \(any one of the fields must be matched\) categories to map the alumni user internally.
 
@@ -119,8 +119,4 @@ The number of times the application attempts to add a digit to an alumni user ID
 
 6.  Select **Update**.
 
-## Related
 
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[c_HRProfileRecords|HR Profile]]

@@ -13,23 +13,14 @@ breadcrumb: [Purchase Order Management, Source-to-Pay Operations, Finance and Su
 
 # Use Purchase Order Management
 
-As a [[supplier|supplier]], submit [[purchase-order-table|purchase order]] exceptions and work with operational buyers. Mitigate and resolve these issues efficiently.
+As a supplier, submit purchase order exceptions and work with operational buyers. Mitigate and resolve these issues efficiently.
 
--   **[[reporting-delivery-plan-issues|Reporting delivery plan issues]]**  
-Submit a request in the [[supplier-central|Supplier Collaboration Portal]] to create a delivery plan change.
--   **[[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]**  
+-   **[Reporting delivery plan issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/reporting-delivery-plan-issues.md)**  
+Submit a request in the Supplier Collaboration Portal to create a delivery plan change.
+-   **[Resolving purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)**  
 After an exception is flagged, you can access the exception details, which explains the issue and provides context about the purchase order line impacted. As the assigned Operational Buyer, you can collaborate with internal stakeholders and the supplier to help resolve the issue.
--   **[[create-po-exception-universal-req|Create purchase order exception from Universal Request]]**  
+-   **[Create purchase order exception from Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/create-po-exception-universal-req.md)**  
 Operational buyers can convert universal requests into purchase order exceptions during triage, cutting down on manual effort and ensuring that purchase order related issues are tracked and resolved more efficiently.
 
-**Parent Topic:**[[purchase-order-mgmt-landing-page|Purchase Order Management]]
+**Parent Topic:**[Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-landing-page.md)
 
-## Related
-
-- [[reporting-delivery-plan-issues|Reporting delivery plan issues]]
-- [[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
-- [[create-po-exception-universal-req|Create purchase order exception from Universal Request]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier-central|Supplier Collaboration Portal]]

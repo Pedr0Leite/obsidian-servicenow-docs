@@ -49,7 +49,7 @@ A feedback task is created in the following ways:
 
 </td><td>
 
-Select an article template to [[create-knowledge-article|create a knowledge article]] using defined fields and values.In the Create Article dialog box:
+Select an article template to create a knowledge article using defined fields and values.In the Create Article dialog box:
 
 1.  From the Knowledge Base list, select a knowledge base.
 2.  From the Article Template list, select the desired article template.
@@ -57,7 +57,7 @@ Select an article template to [[create-knowledge-article|create a knowledge arti
 **Note:** The Article Template list is populated based on the article templates configured for the selected knowledge base.
 
 3.  Select **Create Article**.
- The Create Article dialog box is available if the [[article-versioning|article versioning]] and the [[knowledge-article-templates|Knowledge Article Templates]] features are enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md) and [Knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-templates.md).
+ The Create Article dialog box is available if the article versioning and the Knowledge Article Templates features are enabled. For more information, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md) and [Knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-templates.md).
 
 </td></tr><tr><td id="d496057e200">
 
@@ -102,7 +102,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. [[enable-ownership-group|Ownership groups]] can publish, edit, and retire knowledge articles that they’re associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it’s automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md).
+Ownership group for the knowledge article. An ownership group consists of a group of members and a manager who are responsible for approvals and feedback tasks. Ownership groups can publish, edit, and retire knowledge articles that they’re associated with.**Note:** This field is available only if the **glide.knowman.ownership\_group.enabled** property is enabled. If no ownership group is assigned and approvals are required to publish a knowledge article, it’s automatically submitted for approval to the knowledge administrator and knowledge manager. For more information, see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Language
 
 </td><td>
 
-The language in which you’re creating the knowledge article. The list is populated based on the languages enabled for the selected knowledge base. This field appears only when the I18N:[[knowledge-management|Knowledge Management]] Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated. For more information, see [I18N - Knowledge internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_I18NKMInternational.md).
+The language in which you’re creating the knowledge article. The list is populated based on the languages enabled for the selected knowledge base. This field appears only when the I18N:Knowledge Management Internationalization Plugin v2 plugin \(com.glideapp.knowledge.i18n2\) is activated. For more information, see [I18N - Knowledge internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/c_I18NKMInternational.md).
 
 </td></tr><tr><td>
 
@@ -144,7 +144,7 @@ Article body
 
 </td><td>
 
-Content for the knowledge article. Use the editing functions in the [[html|HTML]] editor to create content. For more information, see [Editing functions for knowledge articles in the HTML editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-html-editor.md).
+Content for the knowledge article. Use the editing functions in the HTML editor to create content. For more information, see [Editing functions for knowledge articles in the HTML editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-html-editor.md).
 
 </td></tr><tr><td>
 
@@ -172,7 +172,7 @@ The date this knowledge article expires. Articles don’t appear in search resul
 
  An article author or editor can select whether to keep or change the default **Valid to** date. For more information, see [Validity of a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-validity.md).
 
- On the first day of each month, the application sends an [[email|email]] notification to a list of authorized recipients to remind them about articles that are expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md).
+ On the first day of each month, the application sends an email notification to a list of authorized recipients to remind them about articles that are expire in the next month. The recipient can then extend the **Valid to** date to continue using the article. For more information, see [Managing email notifications in Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/email-notifications-km.md).
 
  **Note:** If the system date format or user preferences is set to use `yy` year format, you might face issues when the **Valid to** date is set to the default date. Contact your administrator or modify the user preferences to use a date format with the `yyyy` year format. For more information, see [Global date and time field format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FormatDateAndTimeFields.md) and [Personalize the system date format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_PersonalizeTheSystemDateFormat.md) topics.
 
@@ -202,7 +202,7 @@ Option to display attachments in the knowledge article. If the article has attac
 
 </td></tr><tr><td>
 
-[[attachment|Attachment]] link
+Attachment link
 
 </td><td>
 
@@ -361,13 +361,3 @@ After you create and publish a knowledge article, you can perform the following 
 
 [bundle-platux.agent-assist]
 
-## Related
-
-- [[create-knowledge-article|Create a knowledge article]]
-- [[article-versioning|Article versioning]]
-- [[knowledge-article-templates|Knowledge article templates]]
-- [[enable-ownership-group|Ownership groups]]
-- [[knowledge-management|Knowledge Management]]
-- [[html|HTML]]
-- [[email|Email]]
-- [[attachment|Attachment]]

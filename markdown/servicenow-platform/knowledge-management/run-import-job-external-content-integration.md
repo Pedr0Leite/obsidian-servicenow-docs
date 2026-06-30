@@ -41,12 +41,9 @@ Each external source is associated with two handlers: the **Acquire handler** an
 
 ## Result
 
-For each file in the external content source, a blank knowledge article is created and the external file is added as an [[attachment|attachment]] to the article. The short description of the article is derived from the file name of the external content source.
+For each file in the external content source, a blank knowledge article is created and the external file is added as an attachment to the article. The short description of the article is derived from the file name of the external content source.
 
 **Note:** If the externally imported content is infected, a notification about each infected file is sent to the users with the knowledge\_admin role and Knowledge Base owners. The notified users can then take required actions on the infected files.
 
 **Parent Topic:**[Integration with external knowledge sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-external-content-integration.md)
 
-## Related
-
-- [[attachment|Attachment]]

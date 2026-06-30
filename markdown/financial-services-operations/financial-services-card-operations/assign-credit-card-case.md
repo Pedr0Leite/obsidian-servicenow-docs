@@ -26,7 +26,7 @@ When a credit card service request is submitted, the credit card service case is
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -43,6 +43,3 @@ When a credit card service request is submitted, the credit card service case is
 
 The case is assigned to a credit card agent. If the agent also belongs to an agent assignment group, the group's name appears in the **Assignment group** field.
 
-## Related
-
-- [[fso-overview|Financial Services]]

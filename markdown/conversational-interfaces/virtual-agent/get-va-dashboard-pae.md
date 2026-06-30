@@ -18,7 +18,7 @@ Get updates to the Conversational Analytics dashboard from the ServiceNow Store.
 
 ## Before you begin
 
-**Note:** Starting with the San Diego release, the Conversational Analytics app is automatically installed when you initially activate the Glide [[virtual-agent-landing-page|Virtual Agent]] \(com.glide.cs.chatbot\) plugin. Subsequent updates for this app must be downloaded and installed from the ServiceNow Store.
+**Note:** Starting with the San Diego release, the Conversational Analytics app is automatically installed when you initially activate the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin. Subsequent updates for this app must be downloaded and installed from the ServiceNow Store.
 
 Role required: Chat Analytics Admin
 
@@ -46,6 +46,3 @@ Role required: Chat Analytics Admin
 
 **Parent Topic:**[Setting up the Conversational Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/setting-up-va-dashboard-overview1-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

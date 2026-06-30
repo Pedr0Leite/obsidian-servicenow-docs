@@ -12,11 +12,11 @@ breadcrumb: [Front-line case page, Record pages, Record pages and page templates
 
 # Create action layout group
 
-The **Create** action on the [[csm-front-line-case-page|Front-line case page]] displays a list of available actions that agents can select.
+The **Create** action on the Front-line case page displays a list of available actions that agents can select.
 
 ## Actions and action groups
 
-Workspace record pages include individual actions that users can take when working with [[migration-forms|forms]], such as **Save** or **Discuss**. Action groups combine multiple actions in the same button, such as **Create**, which displays a drop-down list with the available actions.
+Workspace record pages include individual actions that users can take when working with forms, such as **Save** or **Discuss**. Action groups combine multiple actions in the same button, such as **Create**, which displays a drop-down list with the available actions.
 
 Customers can configure these action groups and arrange the order of the actions in the list using customizable form action layout groups.
 
@@ -33,7 +33,7 @@ The Front-line case page includes the **Create** action in the workspace action 
 -   Create Problem
 -   Create Incident
 -   Create Normal Change
--   [[osp-create-work-order|Create Work Order]]
+-   Create Work Order
 -   Create Request
 -   Create Standard Change
 
@@ -41,7 +41,7 @@ The Front-line case page includes the **Create** action in the workspace action 
 
 ## Selecting an action
 
-Depending on the action that an agent selects from the **Create** drop-down list, the system either opens a record in a sub-tab or in a [[csm-front-line-case-page-modeless-dialogs|modeless dialog]]. The following actions open a record in a modeless dialog:
+Depending on the action that an agent selects from the **Create** drop-down list, the system either opens a record in a sub-tab or in a [modeless dialog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md). The following actions open a record in a modeless dialog:
 
 -   Create Escalation
 -   Create Knowledge Gap
@@ -52,15 +52,8 @@ Depending on the action that an agent selects from the **Create** drop-down list
 
 From the modeless dialog, users can perform the following actions:
 
--   Minimize the record to the [[csm-config-ws-bottom-utility-bar|workspace dock]].
+-   Minimize the record to the [workspace dock](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-bottom-utility-bar.md).
 -   Open the record in a sub tab.
 -   Save and stay.
 -   Close the dialog.
 
-## Related
-
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-config-ws-bottom-utility-bar|Workspace dock]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[migration-forms|Forms]]
-- [[osp-create-work-order|Create work order]]

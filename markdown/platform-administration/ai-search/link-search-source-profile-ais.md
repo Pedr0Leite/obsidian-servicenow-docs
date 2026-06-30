@@ -24,7 +24,7 @@ Role required: ais\_admin
 
 ## About this task
 
-Linking a search source to a search profile makes its filtered content available for searches using that search profile. [[ia-ai-search|AI Search]] only uses content from the search profile's linked search sources when finding and generating standard search [[hs-results|results]] and Genius Result answers.
+Linking a search source to a search profile makes its filtered content available for searches using that search profile. AI Search only uses content from the search profile's linked search sources when finding and generating standard search results and Genius Result answers.
 
 When linking a search source to a search profile, you can specify options that control how the search source's content is accessed for searches using that search profile. You can exclude the search source's content from being considered when finding standard search results, or prevent it from being considered during Genius Result answer generation. For a search source that includes internal content \(from a ServiceNow AI Platform® table\), you can also exclude indexed attachment content from being considered during Genius Result answer generation.
 
@@ -36,7 +36,7 @@ When linking a search source to a search profile, you can specify options that c
 
 3.  In the Search Sources related list, select **Link Existing**.
 
-4.  On the [[search-prof-src-mapping-form-ais|Search Profile - Search Source Mapping form]], fill in the fields.
+4.  On the Search Profile - Search Source Mapping form, fill in the fields.
 
     For a description of the field values, see [Search Profile - Search Source Mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-prof-src-mapping-form-ais.md).
 
@@ -49,13 +49,7 @@ The new search source appears in the Search Sources related list. Search query r
 
 ## What to do next
 
-Derived auto-correction term lists for the search profile's [[typo-handling-ais|typo handling]] dictionary don't automatically update to reflect changes to the set of searchable records. To update these auto-correction term lists, publish the search profile you edited. For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
+Derived auto-correction term lists for the search profile's typo handling dictionary don't automatically update to reflect changes to the set of searchable records. To update these auto-correction term lists, publish the search profile you edited. For details on publishing a search profile, see [Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/publish-search-profile-ais.md).
 
 **Parent Topic:**[Search profiles in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/defining-search-profiles-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[search-prof-src-mapping-form-ais|Search Profile - Search Source Mapping form]]
-- [[typo-handling-ais|Typo handling]]

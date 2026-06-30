@@ -14,7 +14,7 @@ breadcrumb: [Project Management reference, Project Management, Project Portfolio
 
 # Multicurrency fields in project-related forms
 
-When you enable the Project Currency view in Project, Cost Plan, and [[cost-plan-breakdown|Cost Plan Breakdown]] [[form-field-information-for-dw|forms]], you can observe multicurrency fields in the Financials section of the forms.
+When you enable the Project Currency view in Project, Cost Plan, and Cost Plan Breakdown forms, you can observe multicurrency fields in the Financials section of the forms.
 
 ## Financials tab of the Project form
 
@@ -34,7 +34,7 @@ Project currency
 
 Currency in which the project is to be implemented.**Note:**
 
-The **Project currency** field defaults to the Functional Currency if you modify the currency field and save the [[create-a-project-form|Project form]] without selecting a currency.
+The **Project currency** field defaults to the Functional Currency if you modify the currency field and save the Project form without selecting a currency.
 
 The **Project currency** field of a project becomes read-only field and cannot be modified once you create a cost plan, cost plan breakdown, benefit plan, benefit plan breakdown, or an expense line for the project.
 
@@ -157,7 +157,7 @@ Currency in which the project status report is generated.If you have the Project
  To view the status report of the project, see [View project status reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-status-report.md).
 
 </td></tr></tbody>
-</table>## Financials section of the [[demand-plan-form|Cost Plan form]]
+</table>## Financials section of the Cost Plan form
 
 |Field|Description|
 |-----|-----------|
@@ -292,10 +292,3 @@ Budget Reference Rate from where the exchange rate is retrieved.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]
-- [[create-a-project-form|Project form]]
-- [[demand-plan-form|Cost plan form]]

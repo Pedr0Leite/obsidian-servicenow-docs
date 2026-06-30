@@ -27,7 +27,7 @@ Role required: admin
 
 ## About this task
 
-**Important:** Custom images apply to Workspaces and aren’t supported in the [[c_UI16|Core UI]].
+**Important:** Custom images apply to Workspaces and aren’t supported in the Core UI.
 
 ## Procedure
 
@@ -96,12 +96,7 @@ Role required: admin
 
 ## Result
 
-If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [[tb-apply-theme|Publish your themes with Theme Builder]].
+If your theme is published, your custom images are visible to users who have your theme applied on refresh. For more information about publishing themes, see [Publish your themes with Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-apply-theme.md).
 
-**Parent Topic:**[[empty-state-illustrations|Empty state illustrations in Theme Builder]]
+**Parent Topic:**[Empty state illustrations in Theme Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/empty-state-illustrations.md)
 
-## Related
-
-- [[tb-apply-theme|Publish your themes with Theme Builder]]
-- [[empty-state-illustrations|Empty state illustrations in Theme Builder]]
-- [[c_UI16|Core UI]]

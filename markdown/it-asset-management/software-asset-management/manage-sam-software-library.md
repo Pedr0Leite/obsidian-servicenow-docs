@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Manage Software Library
 
-Use the Manage Software Library module to manually upload software library data to on-premise instances \(instances not in the cloud to receive automatic Software Library updates\). You can also choose to export your normalization content for participation in the [[c_SAMContentService|Software Asset Management content service]].
+Use the Manage Software Library module to manually upload software library data to on-premise instances \(instances not in the cloud to receive automatic Software Library updates\). You can also choose to export your normalization content for participation in the Software Asset Management content service.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Activate the Manage Software Library module to manage Software Library content i
 
 ## About this task
 
-The Manage Software Library module must be activated using the System Definition module for it to be shown in the [[c_SAMAdministration|Software Asset Management administration]] navigation.
+The Manage Software Library module must be activated using the System Definition module for it to be shown in the Software Asset Management administration navigation.
 
 Software Library content data is provided in a zip file. The zip file contains files with consistent file sizes for improved performance. During import, data tables are successfully updated with content from the XML file during a background process.
 
@@ -64,7 +64,3 @@ You can also export your data for participation in the [Software Asset Managemen
 
 **Parent Topic:**[Software Asset Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMAdministration.md)
 
-## Related
-
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_SAMAdministration|Software Asset Management administration]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating with the Sterling Talent Solutions service, HR Integrat
 
 # Verify integration for the Sterling service
 
-The integration is configured to push background check data between the HR service in [[hr-service-delivery|HR Service Delivery]] and the Sterling service. You can verify the preconfigured settings and determine whether they meet your needs or if further customization is required.
+The integration is configured to push background check data between the HR service in HR Service Delivery and the Sterling service. You can verify the preconfigured settings and determine whether they meet your needs or if further customization is required.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_hr\_integrations.admin
 
 1.  Verify the HR service mappings, which maps the HR service to the HR web service.
 
-    1.  Navigate to **[[scoped-hr-third-party-integrations|HR Integrations]]** &gt; **HR Service Mapping**.
+    1.  Navigate to **HR Integrations** &gt; **HR Service Mapping**.
 
     2.  Right-click the **HR external source** column and select **Group By HR external source**.
 
@@ -58,7 +58,7 @@ Role required: sn\_hr\_integrations.admin
 
     4.  For each record, click the information icon to verify that the data fields from Sterling are correctly mapped to the appropriate fields in the staging tables.
 
-4.  Verify the HR [[transform-maps-navex|transform maps]].
+4.  Verify the HR transform maps.
 
     1.  Navigate to **HR Integrations** &gt; **HR Transform Maps**.
 
@@ -75,8 +75,3 @@ Role required: sn\_hr\_integrations.admin
 
 **Next topic:**[Add background check packages for the Sterling service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/background-check-package-for-sterling.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[scoped-hr-third-party-integrations|HR Integrations]]
-- [[transform-maps-navex|Transform maps]]

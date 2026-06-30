@@ -15,17 +15,17 @@ breadcrumb: [Discovery for cloud environment, Discovery, ITOM Visibility, IT Ope
 
 # Create an OCI Discovery schedule in Discovery Admin Workspace
 
-Use the [[discovery-admin-workspace|Discovery Admin Workspace]] dashboard to create an [[oracle-cloud-infrastructure-discovery|Oracle Cloud Infrastructure \(OCI\) Discovery]] schedule.
+Use the Discovery Admin Workspace dashboard to create an Oracle Cloud Infrastructure \(OCI\) Discovery schedule.
 
 ## Before you begin
 
 Verify the following:
 
 -   You have at least one validated MID Server with a status of **Up**. The MID Server must reach the IP ranges that you intend to discover. You can install the MID Server by using [Use MID Server guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/use-mid-server-guidedsetup.md) or by manually downloading and running the installer. For details, see the MID Server installation instructions for [Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_InstallAMIDServerOnLinux.md) and [Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-install-prereqs.md).
--   The MID Server used for Cloud [[r-discovery|Discovery]] is configured with the Cloud Management capability.
+-   The MID Server used for Cloud Discovery is configured with the Cloud Management capability.
 -   You have configured an OCI user in the Oracle Cloud console with an API signing key and the required Identity and Access Management \(IAM\) policies so that the MID Server can access the cloud resources you plan to discover.
--   You have created a suitable OCI API credentials in the ServiceNow AI Platform to connect with the OCI user you want to use for discovery. For more information, see [[create-oracle-api-credentials|Create Oracle API credentials]].
--   You're [[using-discovery|using Discovery]] Admin Workspace v1.13.0.
+-   You have created a suitable OCI API credentials in the ServiceNow AI Platform to connect with the OCI user you want to use for discovery. For more information, see [Create Oracle API credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/create-oracle-api-credentials.md).
+-   You're using Discovery Admin Workspace v1.13.0.
 
 Role required: discovery\_admin
 
@@ -122,14 +122,7 @@ Add a new cloud account to your instance by entering an account name, compartmen
     |**Run on demand**|The schedule only runs when triggered manually. The schedule can be triggered by selecting **Finish and run** at the end of this setup, or by navigating to the schedule in the Discovery Schedules \[discovery\_schedule\] table and selecting **Discover Now**.|
     |**Run after series**|The schedule runs after another existing Discovery schedule completes, staggering or chaining them together. Selecting an existing schedule displays a relationship map of all the other associated schedules.|
     |**Set discovery time out**|If the schedule exceeds the maximum runtime, it's canceled. After toggling, configure the runtime threshold.|
-    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a [[c_DiscoveryStatus|Discovery status]] is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
+    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a Discovery status is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
     |**Finish**|After being selected, all the information provided is validated. A Discovery schedule is created, and you're redirected to its entry in the Discovery Schedules \[discovery\_schedule\] table. You can edit the schedule information or run it by selecting **Discover Now**.|
 
-## Related
 
-- [[create-oracle-api-credentials|Create Oracle API credentials]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[oracle-cloud-infrastructure-discovery|Oracle Cloud Infrastructure \(OCI\) discovery]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

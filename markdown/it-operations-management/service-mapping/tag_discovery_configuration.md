@@ -14,13 +14,13 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Tag-based discovery configuration
 
-You can refine the default configuration to control which CIs [[c_ServiceMappingOverview|Service Mapping]] includes in application services during the tag-based [[r-discovery|discovery]] process.
+You can refine the default configuration to control which CIs Service Mapping includes in application services during the tag-based discovery process.
 
-**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based [[sm-dashboard|Service Mapping workspace]] to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
 
 Service Mapping provides preconfigured CI relationships which can participate in tag-based discovery. You have the ability to customize these CI relationships and refine the default configuration using one of the following methods:
 
--   [[include_cis_tag_discovery_configuration|include CIs based on classes in tag-based discovery]];
+-   include CIs based on classes in tag-based discovery;
 -   exclude CIs based on their install status;
 -   exclude preconfigured CI relationships;
 -   add or edit CI relationships.
@@ -42,9 +42,3 @@ Recalculate application services after you refine the default configuration to c
 
 **Parent Topic:**[Advanced Service Mapping configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ConfigureSM.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[include_cis_tag_discovery_configuration|Include CIs based on classes in tag-based discovery]]

@@ -12,7 +12,7 @@ breadcrumb: [Case form, Customer Service forms, Reference, Customer Service Mana
 
 # Case form related lists
 
-The [[r_CustomerServiceCaseForm|Case form]] includes related [[migration-lists|lists]] that store case information and that agents can use to perform case-related tasks.
+The Case form includes related lists that store case information and that agents can use to perform case-related tasks.
 
 <table id="table_wlv_sab_tt"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Tasks
 
 </td><td>
 
-Tasks that have been created for this case by the customer service agent or agent manager. When you create a task or change the state of a task, the information is recorded in the case **Activity** field. When you [[osp-create-case-task|create a case task]], the system generates a task number with a prefix. Following upgrade to the New York release:
+Tasks that have been created for this case by the customer service agent or agent manager. When you create a task or change the state of a task, the information is recorded in the case **Activity** field. When you create a case task, the system generates a task number with a prefix. Following upgrade to the New York release:
 
 -   New case tasks use the CSTASK prefix.
 -   Existing tasks, regardless of state, use the TASK prefix.
@@ -55,7 +55,7 @@ Appointments
 
 </td><td>
 
-Appointments that the customer service agent makes with the customer or others as part of resolving this case. When you [[osp-create-appt|create an appointment]], an appointment creation message is recorded in the case **Activity** field. The user selected in the **To** field on the appointment form receives an email with the appointment details.
+Appointments that the customer service agent makes with the customer or others as part of resolving this case. When you create an appointment, an appointment creation message is recorded in the case **Activity** field. The user selected in the **To** field on the appointment form receives an email with the appointment details.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Blocked by
 
 </td><td>
 
-A list of [[case-action-status-blocking-tasks|blocking tasks]] that have been created for this case.
+A list of [blocking tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-action-status-blocking-tasks.md) that have been created for this case.
 
 </td></tr><tr><td>
 
@@ -149,11 +149,3 @@ A list of related parties, such as contacts or consumers added to the case.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[case-action-status-blocking-tasks|Blocking tasks]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-lists|Lists]]
-- [[osp-create-case-task|Create a case task]]
-- [[osp-create-appt|Create an appointment]]

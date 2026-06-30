@@ -14,34 +14,34 @@ breadcrumb: [Survey administration, Use surveys, Surveys, Assessments and Survey
 
 Users with the survey\_admin role can use the survey designer. The survey designer lets you create survey categories and questions, configure the details, and publish the survey to specific users or groups.
 
-You can assign a survey to individual users or groups who receive all the questions from all the categories. You can also customize each question and make it dependent on the response to another question. The following describes the procedures you follow to create and [[t_PublishASurvey|publish a survey]].
+You can assign a survey to individual users or groups who receive all the questions from all the categories. You can also customize each question and make it dependent on the response to another question. The following describes the procedures you follow to create and publish a survey.
 
 -   Create survey categories.
--   [[t_CreateAQuestion|Create questions]] within each category.
+-   Create questions within each category.
 -   Configure survey details, such as introductory and closing remarks and time limit.
 -   Select recipients for the survey.
 -   Publish the survey to the selected users or groups.
 
-**Note:** The survey designer replaces the survey creator in the Legacy [[r_SurveyManagementLandingPage|Surveys]] application. If you are using Internet Explorer version 8 or earlier, the system redirects you to the survey creator.
+**Note:** The survey designer replaces the survey creator in the Legacy Surveys application. If you are using Internet Explorer version 8 or earlier, the system redirects you to the survey creator.
 
--   **[[c_SurveyDesignerElements|Survey designer elements]]**  
+-   **[Survey designer elements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesignerElements.md)**  
 The survey designer is accessible from **Survey** &gt; **Survey Designer**.
--   **[[t_ConfigSurveyInSurveyDesgnr|Configure a survey in the survey designer]]**  
+-   **[Configure a survey in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigSurveyInSurveyDesgnr.md)**  
 Configuration settings apply to the entire survey.
--   **[[c_SurveyCategory|Survey categories]]**  
+-   **[Survey categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyCategory.md)**  
 Survey categories provide a way to group questions of a similar theme for a given survey.
--   **[[t_CreateQuestSurveyDesigr|Create a question in the survey designer]]**  
+-   **[Create a question in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateQuestSurveyDesigr.md)**  
 You can create multiple questions for each category in the survey designer, but each question can only be associated with one category.
--   **[[r_SurveyQuestionDataTypes|Survey question data types]]**  
-You must choose a data type for each survey question. The data type determines the format of the question and the kind of data that is collected on [[c_SurveyQuestionnairesForUsers|survey questionnaires]].
--   **[[create-custom-templates-questions|Create custom metric type]]**  
+-   **[Survey question data types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyQuestionDataTypes.md)**  
+You must choose a data type for each survey question. The data type determines the format of the question and the kind of data that is collected on survey questionnaires.
+-   **[Create custom metric type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/create-custom-templates-questions.md)**  
 Create your own custom metric type if you don’t find the metric type that you want in Survey Designer while designing surveys.
--   **[[t_EditASurveyInTheSurveyDesigner|Edit a survey in the survey designer]]**  
+-   **[Edit a survey in the survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_EditASurveyInTheSurveyDesigner.md)**  
 You can modify surveys using the survey designer.
--   **[[t_ConfigCatWeightsForSurvey|Configure category weights for a survey]]**  
+-   **[Configure category weights for a survey](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ConfigCatWeightsForSurvey.md)**  
 You can assign a weight to each category in a survey. The system calculates results from the weight that you configure.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -78,27 +78,9 @@ You can assign a weight to each category in a survey. The system calculates resu
 
 [Legacy survey migration]()
 
-[[t_CreateASurveyDesignerTemplateQ|Create a survey designer template question]]
+[Create a survey designer template question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateASurveyDesignerTemplateQ.md)
 
-[[t_SelRecipsForASurveyInDesigner|Select recipients for a survey in the Survey Designer]]
+[Select recipients for a survey in the Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SelRecipsForASurveyInDesigner.md)
 
-[[t_PublishASurveyInSurveyDesigner|Publish a survey in the Survey Designer]]
+[Publish a survey in the Survey Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_PublishASurveyInSurveyDesigner.md)
 
-## Related
-
-- [[c_SurveyDesignerElements|Survey designer elements]]
-- [[t_ConfigSurveyInSurveyDesgnr|Configure a survey in the survey designer]]
-- [[c_SurveyCategory|Survey categories]]
-- [[t_CreateQuestSurveyDesigr|Create a question in the survey designer]]
-- [[r_SurveyQuestionDataTypes|Survey question data types]]
-- [[create-custom-templates-questions|Create custom metric type]]
-- [[t_EditASurveyInTheSurveyDesigner|Edit a survey in the survey designer]]
-- [[t_ConfigCatWeightsForSurvey|Configure category weights for a survey]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[t_CreateASurveyDesignerTemplateQ|Create a survey designer template question]]
-- [[t_SelRecipsForASurveyInDesigner|Select recipients for a survey in the Survey Designer]]
-- [[t_PublishASurveyInSurveyDesigner|Publish a survey in the Survey Designer]]
-- [[t_PublishASurvey|Publish a survey]]
-- [[t_CreateAQuestion|Create questions]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyQuestionnairesForUsers|Survey questionnaires]]

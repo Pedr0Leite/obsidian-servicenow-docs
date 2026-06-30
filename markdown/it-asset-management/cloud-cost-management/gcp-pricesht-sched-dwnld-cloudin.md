@@ -30,7 +30,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\].
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Price sheet download jobs**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Price sheet download jobs**.
 
 2.  Select **New**.
 
@@ -137,7 +137,7 @@ Details for the execution that is currently running.
 
 5.  Select **Execute** to execute the job.
 
-    During execution, [[cloud-insights-landing-page|Cloud Cost Management]] downloads and stores the data. You can find the execution ID, status, and execution logs in the **Price Sheet Executions** tab. If there’s no new data, the execution is marked **Skipped**. If the download process is stuck, the execution is marked as **Canceled**.
+    During execution, Cloud Cost Management downloads and stores the data. You can find the execution ID, status, and execution logs in the **Price Sheet Executions** tab. If there’s no new data, the execution is marked **Skipped**. If the download process is stuck, the execution is marked as **Canceled**.
 
 
 **Related topics**  
@@ -145,7 +145,3 @@ Details for the execution that is currently running.
 
 [Rightsizing resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/rs-cloudin.md)
 
-## Related
-
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

@@ -14,19 +14,14 @@ breadcrumb: [Visual Task Boards, Configure UIs and portals, Configure user exper
 
 # Visual Task Boards reference
 
-The following sections describe the installed components and properties for [[c_VisualTaskBoards|Visual Task Boards]], along with domain separation and supported browser information.
+The following sections describe the installed components and properties for Visual Task Boards, along with domain separation and supported browser information.
 
 -   **[Domain separation and Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/domain-separation-visual-task-boards.md)**  
 Domain separation is supported in the Visual Task Boards application. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 -   **[Supported browsers for Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/r_BrowsersVTB.md)**  
 The system supports Visual Task Boards on most modern browsers.
 -   **[Installed with Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/r_InstalledWithVisualTaskBoards.md)**  
-Several types of components are [[r_InstalledWithVisualTaskBoards|installed with Visual Task Boards]].
+Several types of components are installed with Visual Task Boards.
 
-**Parent Topic:**[[configure-uis-and-portals|Configure UIs and portals]]
+**Parent Topic:**[Configure UIs and portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-uis-and-portals.md)
 
-## Related
-
-- [[configure-uis-and-portals|Configure UIs and portals]]
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[r_InstalledWithVisualTaskBoards|Installed with Visual Task Boards]]

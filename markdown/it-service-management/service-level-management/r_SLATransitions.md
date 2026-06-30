@@ -25,7 +25,7 @@ The following transitions exist for an SLA:
 -   Reattach: when an SLA is marked completed and a new copy is reapplied.
 -   Cancel: when an SLA is cancelled.
 
-[[c_SLAConditions|SLA conditions]] determine what action is performed on a task SLA record.
+SLA conditions determine what action is performed on a task SLA record.
 
 |SLA condition|Resultant action on task SLA record|
 |-------------|-----------------------------------|
@@ -47,6 +47,3 @@ Each of these conditions is defined as a method within a Script Include, referen
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
-## Related
-
-- [[c_SLAConditions|SLA conditions]]

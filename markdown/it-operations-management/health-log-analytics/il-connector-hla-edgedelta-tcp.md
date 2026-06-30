@@ -15,7 +15,7 @@ breadcrumb: [Set up integrations from Integrations Launchpad, Set up HLA on your
 
 # Set up an Edge Delta TCP integration for Health Log Analytics
 
-Set up an Edge Delta TCP integration to enable [[hla-landing-page|Health Log Analytics]] to process logs it receives from Edge Delta in a distinct format. These logs stream into your ServiceNow instance over the TCP transport protocol.
+Set up an Edge Delta TCP integration to enable Health Log Analytics to process logs it receives from Edge Delta in a distinct format. These logs stream into your ServiceNow instance over the TCP transport protocol.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: evt\_mgmt\_admin
 
 If your organization uses Edge Delta to handle large volumes of log data from multiple sources before sending it to Health Log Analytics, the log format HLA receives is different from other types. The Edge Delta integration enables HLA to detect and separate transport headers from inner log messages in this format, forwarding only the inner message to the source type structure for processing.
 
-You set up integrations through the Integrations Launchpad in [[workspace-dashboard-use|Service Operations Workspace]], which you access from the [[itom-aiops-conf-center|ITOM AIOps configuration center]]. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
+You set up integrations through the Integrations Launchpad in Service Operations Workspace, which you access from the ITOM AIOps configuration center. The AIOps configuration center is a centralized workspace for configuring and managing AIOps features from a single place. The integrations setup process reduces implementation time compared to manual data input setup in the classic interface in Health Log Analytics. For more information, see [Integrations Launchpad in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/integrations-launchpad.md).
 
 ## Procedure
 
@@ -90,8 +90,3 @@ On the **Overview** tab, do the following:
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

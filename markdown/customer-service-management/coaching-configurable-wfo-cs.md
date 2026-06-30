@@ -17,11 +17,11 @@ By using Coaching in Workforce Optimization for Customer Service, you can assess
 With Coaching, you can do the following:
 
 -   Recommend training for your agents to address skill gaps.
--   Use the coaching opportunities that are available by [[components-installed-configurable-wfo-cs|default]] to coach your agents. You can also create a coaching opportunity using the Coaching application specific to your agent needs.
+-   Use the coaching opportunities that are available by [default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) to coach your agents. You can also create a coaching opportunity using the Coaching application specific to your agent needs.
 -   Use assessments and surveys to apply consistent, measurable scores across teams.
--   Use Predictive [[intelligence-csm|Intelligence]] to recommend skills for your agents and provide training to address those skill gaps.
+-   Use Predictive Intelligence to recommend skills for your agents and provide training to address those skill gaps.
 
-**Parent Topic:**[[explore-coaching-configurable-wfo-cs|Coaching in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Coaching in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/explore-coaching-configurable-wfo-cs.md)
 
 ## Skills Overview in Workforce Optimization for Customer Service
 
@@ -35,9 +35,9 @@ Access Skills Overview from the Teams application:
 4.  Click the **Skills** tab.
 5.  Select a skill.
 
-You can access the Skills Overview page when you click on a skill in a [[gamification-ui-user-profile|user profile page]] in any [[configurable-wfo-cs|Workforce Optimization for Customer Service]] application.
+You can access the Skills Overview page when you click on a skill in a user profile page in any Workforce Optimization for Customer Service application.
 
-**Note:** You must enable the Coaching With Learning application to view the reports from the application. For enabling this application, see [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]].
+**Note:** You must enable the Coaching With Learning application to view the reports from the application. For enabling this application, see [Activate Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/request-configurable-wfo-cs.md).
 
 \[Omitted image "skills-overview-new.png"\] Alt text: Skill overview page displaying a skill assigned to tasks, agents, on-call experts, and a pie chart of skill coverage experience level dispersal.
 
@@ -196,7 +196,7 @@ Do this
 
 </td><td>
 
-1.  select the [[migration-lists|Lists]] \(\[Omitted image "list-new.png"\] Alt text: Lists icon.\) icon.
+1.  select the Lists \(\[Omitted image "list-new.png"\] Alt text: Lists icon.\) icon.
 2.  Select any record, such as a case or interaction, for which you want to create an assessment.
 3.  Select the Assessments \(\[Omitted image "coaching-assessment-new.png"\] Alt text: Coaching Assessment icon.\) icon. The assessment screen appears in the right panel.
 4.  select the plus \(+\) icon.
@@ -374,7 +374,7 @@ The skill gets automatically added to the agent.
 </table>5.  Approve or reject a skill that is recommended by Predictive Intelligence.
 
     1.  In the skill matrix, click **Recommended** to approve and recommend a skill for the user.
-    2.  In the **Details** tab, review the request for skill approval, the sample case resolutions that were used to predict the skill, and the [[csm-config-ws-activity-stream|activity stream]].
+    2.  In the **Details** tab, review the request for skill approval, the sample case resolutions that were used to predict the skill, and the activity stream.
     -   To approve a skill, click **Approve**. The skill is added to the agent and the lowest level for the skill is automatically associated with the added skill. The state for the request changes to **Approved** and the skill is added to the agent.
     -   To reject a skill, click **Reject**. The state for the request changes to **Rejected**. Predictive Intelligence does not recommend the skill for the user again and the field changes to **Add**.
     -   Click the More Options \(\[Omitted image "ellipsis-new.png"\] Alt text: More options icon.\) icon and select **Save**.
@@ -617,13 +617,4 @@ Role required: sn\_lc.learning\_admin
 
     You can review and learn the external course.
 
-## Related
 
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[explore-coaching-configurable-wfo-cs|Coaching in Workforce Optimization for Customer Service]]
-- [[request-configurable-wfo-cs|Activate Workforce Optimization for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[gamification-ui-user-profile|User profile page]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]
-- [[csm-config-ws-activity-stream|Activity stream]]

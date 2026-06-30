@@ -62,11 +62,7 @@ Seismic Developer Tool
 
 </td><td>
 
-Opens a link to the Chrome web store Seismic Developer Tools download page. The Seismic Dev Tools \(SDT\) Chrome Extension is a tool that helps Seismic developers effectively identify, diagnose, and resolve defects and performance issues.**Note:** This option can be removed from the Debugging [[c_UserPreferences|user preferences]] by setting the **glide.ui.next\_experience.seismic\_developer\_tool\_user\_pref\_enabled** system property to **false**.
+Opens a link to the Chrome web store Seismic Developer Tools download page. The Seismic Dev Tools \(SDT\) Chrome Extension is a tool that helps Seismic developers effectively identify, diagnose, and resolve defects and performance issues.**Note:** This option can be removed from the Debugging user preferences by setting the **glide.ui.next\_experience.seismic\_developer\_tool\_user\_pref\_enabled** system property to **false**.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_UserPreferences|User preferences]]

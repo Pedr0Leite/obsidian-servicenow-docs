@@ -38,7 +38,7 @@ Integrated with cloud providers, including Amazon Web Services, Microsoft Azure,
 
 [Use Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/using-cloud-services-catalog.md)\[Omitted image "bus-manage.svg"\] Alt text:
 
- Use the Cloud Services Catalog application for searching and [[request-the-cloud-services-user-portal|requesting cloud services]], working with your stacks and resources, and so on.
+ Use the Cloud Services Catalog application for searching and requesting cloud services, working with your stacks and resources, and so on.
 
 </td></tr><tr><td>
 
@@ -58,7 +58,3 @@ Integrated with cloud providers, including Amazon Web Services, Microsoft Azure,
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[request-the-cloud-services-user-portal|Requesting Cloud Services]]

@@ -14,13 +14,13 @@ breadcrumb: [Industrial Process Manager, Operational Technology]
 
 # Configuring the Industrial Process Manager
 
-Configure the [[industrial-process-manager-overview|Industrial Process Manager]] application so that you can create the Equipment Model data foundation that is required for the ServiceNow® [[operational-technology-overview|Operational Technology]] solution.
+Configure the Industrial Process Manager application so that you can create the Equipment Model data foundation that is required for the ServiceNow® Operational Technology solution.
 
 **Note:**
 
 If you have the admin role, you can use the Industrial Guided Setup to lead you through the setup of the Industrial Process Manager application.
 
-To access the Guided Setup, navigate to **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **Guided Setup**.
+To access the Guided Setup, navigate to **Industrial Workspace Admin** &gt; **Guided Setup**.
 
 <table id="table_dt5_rxj_4nb"><thead><tr><th>
 
@@ -32,7 +32,7 @@ Purpose
 
 </th></tr></thead><tbody><tr><td>
 
-1. [[install-manufacturing-process-mgr|Install the Industrial Process Manager]] from the ServiceNow Store.
+1. Install the Industrial Process Manager from the ServiceNow Store.
 
 </td><td>
 
@@ -52,7 +52,7 @@ Assigns roles to control the actions that are available for each user.
 
 </td><td>
 
-Creates and populates a Microsoft Excel spreadsheet with your existing [[isa-95-equipment-model|ISA-95 Equipment Model]] data for upload to the ServiceNow AI Platform.
+Creates and populates a Microsoft Excel spreadsheet with your existing ISA-95 Equipment Model data for upload to the ServiceNow AI Platform.
 
 </td></tr><tr><td>
 
@@ -93,9 +93,9 @@ Automates mapping of OT devices to the production process. **Note:** Enabling th
 </table>-   **[Install the Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/install-manufacturing-process-mgr.md)**  
 If you have the required entitlement and the Administrator \[admin\] role, you can install the Industrial Process Manager application and the related plugins.
 -   **[Industrial Workspace Admin application menu and Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-app-menu-guided-setup.md)**  
-After you install the application and related plugins, you can use the Industrial Workspace Admin application menu to access the related [[operational-technology-manager|Operational Technology Manager]], Industrial Process Manager, [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]], [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]], [[operational-technology-change-management-landing-page|Operational Technology Change Management]], [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]], and [[operational-technology-request-management-landing-page|Operational Technology Request Management]] functions.
+After you install the application and related plugins, you can use the Industrial Workspace Admin application menu to access the related Operational Technology Manager, Industrial Process Manager, Operational Technology Incident Management, Operational Technology Vulnerability Response, Operational Technology Change Management, Operational Technology Knowledge Management, and Operational Technology Request Management functions.
 -   **[Assign Industrial Process Manager user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/assign-manufacturing-process-manager-roles.md)**  
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] so that you can control their access to the features, capabilities, and data in the Industrial Process Manager application.
+Assign roles to your users so that you can control their access to the features, capabilities, and data in the Industrial Process Manager application.
 -   **[View and edit OT system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-and-edit-ot-system-properties.md)**  
 View and edit all of the Operational Technology \(OT\) related system properties for different applications.
 -   **[Defining equipment model templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/defining-equipment-model-templates.md)**  
@@ -103,24 +103,9 @@ Create templates that you can assign to the equipment model entities that you cr
 -   **[Importing equipment model data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/importing-isa95-equipment-model-etl.md)**  
 The scheduled import function enables you to import your existing equipment model data from a populated Microsoft Excel flat-file spreadsheet. You can use it to import your ISA-95 Equipment Model data to the Configuration Management Database \(CMDB\).
 -   **[Assign or remove equipment model site access for non-administrators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-user-criteria-for-equipment-model-entity-site-users.md)**  
-[[create-user-criteria-for-equipment-model-entity-site-users|Assign or remove equipment model site access for non-administrators]]. You can create the user criteria to determine whether certain users can access the equipment model entities for specific sites.
+Assign or remove equipment model site access for non-administrators. You can create the user criteria to determine whether certain users can access the equipment model entities for specific sites.
 -   **[Managing an equipment model entity schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/managing-equipment-entity-schedules.md)**  
 You can manage an equipment model entity schedule with the Industrial Process Manager application. By using a schedule, you can track several maintenance tasks for one equipment model entity.
 
 **Parent Topic:**[Industrial Process Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/industrial-process-manager-overview.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[install-manufacturing-process-mgr|Install the Industrial Process Manager]]
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]
-- [[operational-technology-request-management-landing-page|Operational Technology Request Management]]
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]
-- [[create-user-criteria-for-equipment-model-entity-site-users|Assign or remove equipment model site access for non-administrators]]

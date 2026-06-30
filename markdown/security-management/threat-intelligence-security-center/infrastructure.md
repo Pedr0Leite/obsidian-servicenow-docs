@@ -14,7 +14,7 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Infrastructure
 
-The [[threat-intelligence-infrastructure|Infrastructure]] SDO represents a type of Tactics, Techniques, and Procedures \(TTPs\). They describe any systems, software services, and any associated physical or virtual resources intended to support some purpose of an attack. Infrastructure applies for STIX 2.x.
+The Infrastructure SDO represents a type of Tactics, Techniques, and Procedures \(TTPs\). They describe any systems, software services, and any associated physical or virtual resources intended to support some purpose of an attack. Infrastructure applies for STIX 2.x.
 
 The elements of an attack are represented by other SDOs or SCOs. However, the Infrastructure SDO represents a named group of data that constitutes the infrastructure.
 
@@ -25,6 +25,3 @@ Define an Infrastructure that is any systems, software services, and any associa
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[threat-intelligence-infrastructure|Infrastructure]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Change Management, IT Service Management]
 
 # Change Management properties
 
-Administrators can use change properties to configure [[c_ITILChangeManagement|Change Management]] behavior.
+Administrators can use change properties to configure Change Management behavior.
 
 Navigate to **Change** &gt; **Administration** &gt; **Change Properties** to view and edit these properties.
 
@@ -243,7 +243,7 @@ com.snc.change\_management.policy.approval.log
 
 </td><td>
 
-The debug logging property that provides the detailed logging information of the workflow activity when using [[change-approval-policy|Change Approval Policies]].Type: choice list
+The debug logging property that provides the detailed logging information of the workflow activity when using Change Approval Policies.Type: choice list
 
 </td></tr><tr><td>
 
@@ -262,7 +262,3 @@ Controls opening of a CAB meeting from the CAB Meeting calendar in the CAB Workb
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference section for Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/reference-change-management.md)
 
-## Related
-
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-approval-policy|Change approval policies]]

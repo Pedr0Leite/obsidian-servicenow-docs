@@ -20,7 +20,7 @@ Install the AI Data Explorer application from the ServiceNow® Store. The correc
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-The Query Generation skills "analytics [[query-generation|query generation]]," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [[enable-query-generation|Query Generation skills]].
+The Query Generation skills "analytics query generation," "analytics insight generation," "analytics hidden insight generation," and "analytics follow-up generation" are required. These skills are active by default. For more information, see [Query Generation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md).
 
 Role required: now\_assist\_explorer\_admin or higher
 
@@ -46,7 +46,7 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
 
     1.  In the **Advanced analysis** page, you can activate record-level analysis and set which tables it applies to.
 
-        For more information, see [[record-level-analysis|Configure record level analysis in AI Data Explorer]].
+        For more information, see [Configure record level analysis in AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/record-level-analysis.md).
 
     2.  Select **Save and continue**.
 
@@ -87,11 +87,5 @@ Assign the now\_assist\_explorer\_user role, and activate the AI Data Explorer s
     4.  Browse the review and select **Activate**.
 
 
-**Parent Topic:**[[configure-now-ass-explorer|Configure AI Data Explorer]]
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-now-ass-explorer.md)
 
-## Related
-
-- [[enable-query-generation|Query Generation skills]]
-- [[record-level-analysis|Configure record level analysis in AI Data Explorer]]
-- [[configure-now-ass-explorer|Configure AI Data Explorer]]
-- [[query-generation|Query Generation]]

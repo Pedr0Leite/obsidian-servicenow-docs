@@ -18,7 +18,7 @@ Create a database index from the specified columns of the Cloud Events \[sn\_cmp
 
 ## Before you begin
 
-Ensure that the scope is set to [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+Ensure that the scope is set to Cloud Provisioning and Governance.
 
 Role required: admin
 
@@ -53,6 +53,4 @@ You can also Scale the cloud event schedulers to improve the Amazon Web Services
 
 9.  Rename the new index for easy identification.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

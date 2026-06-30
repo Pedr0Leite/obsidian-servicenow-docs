@@ -14,7 +14,7 @@ breadcrumb: [Reusable components, Setup employee communications, Configuring Emp
 
 # Add content destination
 
-A content destination defines the page and widget for [[ec-content-publish-news-articles|publishing news articles]]. It is a component of a content template, which auto-generates publish plans for new articles.
+A content destination defines the page and widget for publishing news articles. It is a component of a content template, which auto-generates publish plans for new articles.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cd.content\_admin
 
 ## About this task
 
-The [[employee-center-pro-landing|Employee Center Pro]] provides the following content destinations:
+The Employee Center Pro provides the following content destinations:
 
 -   All News: the news feed widget on the News Center page
 -   Featured News: the featured news widget on the top of the News Center page
@@ -70,7 +70,7 @@ Page
 
 </td><td>
 
-The page in the [[employee-center-portal-overview|employee portal]] where to publish the content.
+The page in the employee portal where to publish the content.
 
 </td></tr><tr><td>
 
@@ -94,7 +94,7 @@ Refine duration
 
 </td><td>
 
-The period of time for which to make the news article available.**Note:** Although [[ec-content-templates|content templates]] also have a duration field, the duration set in the content destination overrides the setting in the content template.
+The period of time for which to make the news article available.**Note:** Although content templates also have a duration field, the duration set in the content destination overrides the setting in the content template.
 
 This enables you to fine-tune the content duration based on its publishing location
 
@@ -106,9 +106,3 @@ This enables you to fine-tune the content duration based on its publishing locat
 
 After you finish creating a custom content destination, proceed to [Create a Content template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-create-content-template.md).
 
-## Related
-
-- [[ec-content-publish-news-articles|Publishing news articles]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[ec-content-templates|Content templates]]

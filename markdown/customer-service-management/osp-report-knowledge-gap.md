@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[outsourced-service-provider|Outsourced Customer Service]]** &gt; **Cases** &gt; **My Cases**.
+1.  Navigate to **All** &gt; **Outsourced Customer Service** &gt; **Cases** &gt; **My Cases**.
 
 2.  Open a case.
 
@@ -34,9 +34,6 @@ Role required: sn\_csm\_ocs.ext\_agent
 
     A knowledge gap is created and you can view it under the **Knowledge Gaps** related list.
 
-    For more details, see [[csm-workspace-report-knowledge-gap|Report a knowledge gap]]
+    For more details, see [Report a knowledge gap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-report-knowledge-gap.md)
 
-## Related
 
-- [[csm-workspace-report-knowledge-gap|Report a knowledge gap]]
-- [[outsourced-service-provider|Outsourced Customer Service]]

@@ -20,19 +20,19 @@ Auto-generate a fulfillment/execution plan for a case. Accelerate the resolution
 
 Role required: sn\_hr\_core.case\_writer, now\_assist\_panel\_user
 
-You can generate a case fulfillment plan from either Core UI or [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+You can generate a case fulfillment plan from either Core UI or Agent Workspace for HR Case Management.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **HR Agent Workspace**.
 
-    Alternatively, you can navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**.
+    Alternatively, you can navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**.
 
 2.  Open an HR case that is assigned to you.
 
 3.  Select **Generate plan**.
 
-    **Note:** This option appears only for the HR service of Fulfillment type: **Manual**. It does not appear for the [[hr-case-employee-relations|Employee Relations]] and Life Cycle Events cases.
+    **Note:** This option appears only for the HR service of Fulfillment type: **Manual**. It does not appear for the Employee Relations and Life Cycle Events cases.
 
     The AI agent creates a fulfillment plan for a given HR case by fetching HR case details, employee details such as location and designation, relevant KB articles, and case fulfillment instructions, and resolution notes of similar past cases.
 
@@ -45,8 +45,4 @@ You can generate a case fulfillment plan from either Core UI or [[agent-ws-hr-ca
 
     \[Omitted image "generate-plan.png"\] Alt text: Fulfillment plan for an HR case on Agent Workspace for HR Case Management
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[hr-case-employee-relations|Employee Relations]]

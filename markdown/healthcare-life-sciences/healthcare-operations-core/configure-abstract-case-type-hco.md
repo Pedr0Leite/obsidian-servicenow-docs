@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare Operations Core, Healthcare Operations, Healt
 
 # Configure the abstract case type for Healthcare Operations Core case types
 
-Extend the [[healthcare-operations-overview|Healthcare Operations]] case \[sn\_hco\_case\] to create custom case types for use with [[hcls-cto-app|Healthcare Operations Core]] and related plugins by creating a child table from the Healthcare Operations Core case type.
+Extend the Healthcare Operations case \[sn\_hco\_case\] to create custom case types for use with Healthcare Operations Core and related plugins by creating a child table from the Healthcare Operations Core case type.
 
 ## Before you begin
 
@@ -38,7 +38,4 @@ Role required: admin
 
     **Note:**To add a field to the extended child tables, refer to the [Add and customize a field in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingNewFields.md) in the ServiceNow platform documentation.
 
-## Related
 
-- [[healthcare-operations-overview|Healthcare Operations]]
-- [[hcls-cto-app|Healthcare Operations Core]]

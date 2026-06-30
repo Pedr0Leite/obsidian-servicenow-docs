@@ -19,13 +19,13 @@ Create an external content connector to retrieve searchable content from public 
 
 ## Before you begin
 
-A source system administrator must have already configured your Slack source system to allow access by the [[slack-external-content-connector|Slack external content connector]]. For details on configuring these settings in the source system, see [Configure Slack for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-src-sys-settings-slack-ext-cont-connector.md).
+A source system administrator must have already configured your Slack source system to allow access by the Slack external content connector. For details on configuring these settings in the source system, see [Configure Slack for external content indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/cfg-src-sys-settings-slack-ext-cont-connector.md).
 
 Role required: sn\_ext\_conn.xcc\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ext-cont-connectors-landing-page|External Content Connectors]]** &gt; **External Content Admin Home**.
+1.  Navigate to **All** &gt; **External Content Connectors** &gt; **External Content Admin Home**.
 
 2.  If prompted, select **Switch scope** to switch to the External Content Connectors Admin scope.
 
@@ -79,7 +79,7 @@ Client secret for the Slack API application that allows the external content con
 
 </td></tr><tr><td>
 
-I am aware that this connector crawls documents from public channels only and that those documents are accessible by every user that has access to my configured [[ia-ai-search|AI Search]] experience.
+I am aware that this connector crawls documents from public channels only and that those documents are accessible by every user that has access to my configured AI Search experience.
 
 </td><td>
 
@@ -131,8 +131,3 @@ You can link connector search sources to search profiles from the External Conte
 
 **Parent Topic:**[Slack external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/slack-external-content-connector.md)
 
-## Related
-
-- [[slack-external-content-connector|Slack external content connector]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[ia-ai-search|AI Search]]

@@ -14,11 +14,11 @@ breadcrumb: [Using DevOps Config, DevOps Config, IT Service Management]
 
 # Compare config data of two CDM applications
 
-Use the Config Data Analyzer tool to find similarities and differences between the config data of two [[dex-workspace-application-tab|applications]]. You can compare either different applications or different changesets of a particular application.
+Use the Config Data Analyzer tool to find similarities and differences between the config data of two applications. You can compare either different applications or different changesets of a particular application.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required:cdm\_viewer, cdm\_editor, or cdm\_admin
 
@@ -28,7 +28,7 @@ Role required:cdm\_viewer, cdm\_editor, or cdm\_admin
 
     The **Compare config data** tab opens.
 
-    The current application \(the application that you started with, **Demo\_App1** in the example\) is called the target. The application to compare to the target is called the [[reference-for-itsm-mobile-agent|reference]] application. The **Target application** field is set as the latest committed data for the target and is read-only.
+    The current application \(the application that you started with, **Demo\_App1** in the example\) is called the target. The application to compare to the target is called the reference application. The **Target application** field is set as the latest committed data for the target and is read-only.
 
     \[Omitted image "cdm-app-compare-tab2.png"\] Alt text: Compare config data tab for setting up the comparison between the target application, Demo\_App1 and a reference application, Demo\_App2.
 
@@ -244,9 +244,3 @@ Details of the file present in the target changeset.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[devops-config-landing-page|DevOps Config]]
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -14,7 +14,7 @@ breadcrumb: [Create requests within your EMR system, EMR Help, Healthcare and Li
 
 # Creating healthcare cases from within your EMR
 
-Use the [[emr-exploring|EMR Help]] service portal to create healthcare cases from directly within you EMR system.
+Use the EMR Help service portal to create healthcare cases from directly within you EMR system.
 
 As a user with the sn\_ind\_rmt\_help.requester role, you can submit healthcare cases from within your EMR system. These cases can then be fulfilled within a ServiceNow instance.
 
@@ -129,6 +129,3 @@ After submitting your Healthcare case, you can review the information you submit
 
 \[Omitted image "hcls-emr-healthcare-case-additional-info.png"\] Alt text: Submitted healthcare case request displaying the Additional info tab.
 
-## Related
-
-- [[emr-exploring|EMR Help]]

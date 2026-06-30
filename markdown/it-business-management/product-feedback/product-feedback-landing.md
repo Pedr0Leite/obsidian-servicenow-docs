@@ -20,7 +20,7 @@ Build a customer-centric feedback management system and optimize the process of 
 
 ## Feedback overview
 
-The Feedback application is available for users with a [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) Pro license.
+The Feedback application is available for users with a Strategic Portfolio Management \(SPM\) Pro license.
 
 The Feedback application simplifies the process of gathering and analyzing user feedback to make informed decisions on your product. The intuitive interface provides real-time feedback on your product features, usability, and performance and help users to share their thoughts. With Feedback application, you create feedback or product ideas and link them with a feedback or product idea or planning or non-planning items.
 
@@ -42,7 +42,7 @@ Leverage the multi-feedback summarization skill to quickly summarize one or mult
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about components, [[form-field-information-for-dw|forms]], tables, and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about components, forms, tables, and system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/product-feedback/product-feedback-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -51,7 +51,3 @@ Leverage the multi-feedback summarization skill to quickly summarize one or mult
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[form-field-information-for-dw|Forms]]

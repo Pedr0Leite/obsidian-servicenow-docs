@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -34,7 +34,7 @@ Role required: sn\_sec\_tisc.admin
 
 5.  Go to **Artifacts** tab.
 
-6.  Select the [[c_Observables|Observables]] related list.
+6.  Select the Observables related list.
 
 7.  Select one ore more Observables.
 
@@ -44,7 +44,7 @@ Role required: sn\_sec\_tisc.admin
 
 10. Click **Submit**.
 
-    For example, [[tisc-run-threat-lookup|Run Threat Lookup]]. The selected enrichment action will be executed and an information message is displayed that [[tisc-observable-enrichment|Observable enrichment]] execution has started on the selected observable\(s\). Results will be available in the detail page of respective observable\(s\) once the execution is complete.
+    For example, Run Threat Lookup. The selected enrichment action will be executed and an information message is displayed that Observable enrichment execution has started on the selected observable\(s\). Results will be available in the detail page of respective observable\(s\) once the execution is complete.
 
     **Note:** Once the execution initiated or completed, a work notes is posted on the activity stream of the form view.
 
@@ -74,10 +74,3 @@ Role required: sn\_sec\_tisc.admin
 
 [Using playbooks]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[c_Observables|Observables]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

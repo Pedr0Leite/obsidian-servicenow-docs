@@ -42,7 +42,7 @@ Action
 
 </th></tr></thead><tbody><tr><td id="d95961e93">
 
-**Using [[legal-counsel-center-landing|Legal Counsel Center]] homepage**
+**Using Legal Counsel Center homepage**
 
 </td><td>
 
@@ -103,6 +103,3 @@ On successful integration, access permission is granted to the following users f
 
 **Parent Topic:**[Approve or reject outside counsel engagement request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/lmm-approve-oce.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

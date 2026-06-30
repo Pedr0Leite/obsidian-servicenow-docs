@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with GoTo
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with GoTo applications enable you to track your software subscriptions and reclaim unused licenses.
+Integrating your Software Asset Management application with GoTo applications enable you to track your software subscriptions and reclaim unused licenses.
 
 With this integration, you can retrieve and analyze licensing information for the following GoTo applications:
 
@@ -137,7 +137,7 @@ GoToMeeting, GoToWebinar, or GoToTraining
 
 OAuth scope for creating, starting, and modifying sessions for your GoToMeeting, GoToWebinar, and GoToTraining applications. Select the check box to enable this scope.
 
- **Note:** The [[sam-subscription-management|SaaS License Management]] GoTo integration doesn’t support license management for the GoToTraining application.
+ **Note:** The SaaS License Management GoTo integration doesn’t support license management for the GoToTraining application.
 
 </td></tr><tr><td>
 
@@ -199,7 +199,7 @@ ServiceNow Role required: sam\_integrator
 
 ### About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the GoTo integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the GoTo integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -226,7 +226,7 @@ Action
 
 </td></tr><tr><td id="d232828e735">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -294,7 +294,7 @@ Type of integration profile. This field is automatically set to `GoTo Subscripti
 
         **Note:** Software Asset Management pulls the events from the time that you start analyzing user activity irrespective of the profile creation date.
 
-        You can modify this value in the Last activity threshold field of your [[sw-reclamation-rules|software reclamation rules]]. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
+        You can modify this value in the Last activity threshold field of your software reclamation rules. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
     3.  In the Reclaim Subscription Subflow section, verify that the **Subflow** field is set to **GoTo Reclaim Subscription**.
 
@@ -387,7 +387,7 @@ URL of the OAuth provider that users are redirected to after authentication.This
 
 ### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]], reclamation rules, and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models, reclamation rules, and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -416,11 +416,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sw-reclamation-rules|Software reclamation rules]]
-- [[c_CreatingSoftwareModels|Software models]]

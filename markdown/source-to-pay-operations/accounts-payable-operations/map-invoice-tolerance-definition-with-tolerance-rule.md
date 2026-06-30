@@ -23,11 +23,11 @@ Role required: sn\_ap\_apm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Administration** &gt; **Invoice exception definition**.
+1.  Navigate to **All** &gt; **Accounts Payable Operations** &gt; **Administration** &gt; **Invoice exception definition**.
 
     \[Omitted image "apo-invoice-exp-nav.png"\] Alt text: Navigate to Invoice exception definitionFor more information on configuring **invoice exception definition**, see [Invoice exception definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-exception-definition-form.md).
 
-2.  Populate the tolerance type on the [[invoice-exception-definition-form|invoice exception definition form]].
+2.  Populate the tolerance type on the invoice exception definition form.
 
     For more information on the tolerance type, see [Define an invoice tolerance type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/define-a-new-tolerance-type-definition.md).
 
@@ -38,7 +38,3 @@ Role required: sn\_ap\_apm.admin
 
 **Parent Topic:**[Tolerance Rules and Variances for invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/tolerance-rules-and-variance.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoice-exception-definition-form|Invoice exception definition form]]

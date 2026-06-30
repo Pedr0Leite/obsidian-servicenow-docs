@@ -19,7 +19,7 @@ The [semantic layer]() identifies the best matching [entities]() \(tables\), [di
 
 ## How the semantic layer works
 
-When a user asks a question, the system identifies the best matching components and passes that context into [[query-generation|query generation]]. The semantic layer has three building blocks:
+When a user asks a question, the system identifies the best matching components and passes that context into query generation. The semantic layer has three building blocks:
 
 -   **Entities**
 
@@ -56,22 +56,14 @@ Tune the semantic layer when:
 6.  Check **Query Generation** &gt; **Logs** and confirm the improved match path.
 7.  Repeat only if still incorrect.
 
--   **[[querygen-health-page|Query Generation Health page]]**  
+-   **[Query Generation Health page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-health-page.md)**  
 The health page shows the state of the Now LLM and AI Search, along with the states of Query Generation system properties, enabled products, and dependency plugins.
--   **[[customize-semantic-metadata|Customizing semantic metadata]]**  
+-   **[Customizing semantic metadata](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/customize-semantic-metadata.md)**  
 Semantic metadata — descriptions, labels, and usage instructions — control how Query Generation interprets natural language questions. Customize these metadata to improve accuracy for your organization's terminology and data.
--   **[[database-views-cross-table-data|Database views for cross-table data]]**  
+-   **[Database views for cross-table data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/database-views-cross-table-data.md)**  
 Database views combine fields from multiple tables into a single queryable entity. Add views to the semantic layer to answer cross-table questions in one query instead of requiring separate questions.
--   **[[querygen-segments|Segments in the Query Generation semantic layer]]**  
+-   **[Segments in the Query Generation semantic layer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/querygen-segments.md)**  
 Segments are predefined filter conditions that map business terminology to specific query filters, helping the semantic layer translate natural language questions into accurate database queries.
 
-**Parent Topic:**[[configuring-query-generation|Configuring Query Generation]]
+**Parent Topic:**[Configuring Query Generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-query-generation.md)
 
-## Related
-
-- [[querygen-health-page|Query Generation Health page]]
-- [[customize-semantic-metadata|Customizing semantic metadata]]
-- [[database-views-cross-table-data|Database views for cross-table data]]
-- [[querygen-segments|Segments in the Query Generation semantic layer]]
-- [[configuring-query-generation|Configuring Query Generation]]
-- [[query-generation|Query Generation]]

@@ -15,7 +15,7 @@ breadcrumb: [Manage asset put away for stockrooms, Use, Hardware Asset Managemen
 
 # Create an Asset put away task
 
-Create an Asset put away task manually for the In stock assets in the [[using-ham-workspace|Hardware Asset Workspace]] to track the movement of assets within the stockroom.
+Create an Asset put away task manually for the In stock assets in the Hardware Asset Workspace to track the movement of assets within the stockroom.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ You can create an asset put away task in the Hardware Asset Workspace for the In
 
 1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
-2.  Open the Create New Asset put away task form either from the Inventory overview section or the All [[c_Stockrooms|Stockrooms]] tab.
+2.  Open the Create New Asset put away task form either from the Inventory overview section or the All Stockrooms tab.
 
     -   In the Inventory overview section, select the **Open put away tasks** card and select **New**.
     -   In the Stockrooms tab, select a Stockroom. Then in the Open stockroom tasks section, select the **Open put away tasks** card. Select **New**.
@@ -47,7 +47,3 @@ You can create an asset put away task in the Hardware Asset Workspace for the In
 
 **Parent Topic:**[Manage asset put away using the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-putaway-stockroom-hardware-asset-workspace.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

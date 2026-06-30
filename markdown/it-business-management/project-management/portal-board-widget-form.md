@@ -38,7 +38,7 @@ Order
 
 </td><td>
 
-The order in which your widgets appear on both your Investment Board and the [[investment-portal|Investment Portal]] page. Lower numbers are placed ahead of higher numbers.
+The order in which your widgets appear on both your Investment Board and the Investment Portal page. Lower numbers are placed ahead of higher numbers.
 
  For example, a widget with an order set to 100 appears before a widget with an order set to 200.
 
@@ -169,6 +169,3 @@ function totalProjectCost()
 
 [Configure your investment metrics as widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/configure-investment-metrics.md)
 
-## Related
-
-- [[investment-portal|Investment Portal]]

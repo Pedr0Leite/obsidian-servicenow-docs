@@ -25,8 +25,5 @@ Use content editing prompts such as Elaborate and Shorten to enhance or condense
 |Elaborate|Lengthen the word count of the selected text to add more detail.|
 |Change tone|Personalize the selected text to reflect your desired voice. Select from Sympathetic, Formal, or Casual tones.|
 
-Write with Now Assist is supported on mobile input form screens for Now Assist skills such as task summarization. For more, see [[ai-case-summarization|Mobile resolution notes generation]].
+Write with Now Assist is supported on mobile input form screens for Now Assist skills such as task summarization. For more, see [Mobile resolution notes generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/ai-case-summarization.md).
 
-## Related
-
-- [[ai-case-summarization|Mobile resolution notes generation]]

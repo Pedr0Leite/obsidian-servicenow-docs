@@ -18,7 +18,7 @@ Learn more about the theme updates and how to get started with Now Assist enhanc
 
 You can see a new theme that is visually-engaging, effective, and user-friendly with the following enhancements:
 
--   **Enhanced home page theme**: Unifies various types of content, such as requests, articles, and [[emp-center-quick-link-config|quick links]], to create an improved browsing experience. The theme aligns with the latest sets components, a new color scheme, a logo update, and CSS variable adjustments for an improved browsing experience.
+-   **Enhanced home page theme**: Unifies various types of content, such as requests, articles, and quick links, to create an improved browsing experience. The theme aligns with the latest sets components, a new color scheme, a logo update, and CSS variable adjustments for an improved browsing experience.
 -   **Enhanced header**: Helps you navigate to your tasks, requests, favorites, and search effectively.
 -   **Enhanced chat**: Offers a conversational search experience in a dynamic dialogue to gather information, provide help, or guide through a process using the search.
 
@@ -37,7 +37,7 @@ Enhanced header helps you navigate to my tasks, requests, favorites, and search 
 To get started with the Now Assist in Virtual Agent enhanced chat:
 
 -   Install the Now Assist in Virtual Agent application from the store.
--   Ensure that the enhanced chat is configured for the [[employee-center-landing-page|Employee Center]] portal by virtual\_agent\_admin.
+-   Ensure that the enhanced chat is configured for the Employee Center portal by virtual\_agent\_admin.
 -   Select Employee Center from the Portals tab and select the enhanced chat.
 
     For more information, see [Display your chat assistant on a portal, channel, or mobile app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/display-assistant-portal-channel.md).
@@ -63,7 +63,3 @@ Want to learn more? Visit these resources about Now Assist in Virtual Agent enha
 -   [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-now-assist-in-va.md)
 -   [Exploring Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/exploring-now-assist-va.md)
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]
-- [[employee-center-landing-page|Employee Center]]

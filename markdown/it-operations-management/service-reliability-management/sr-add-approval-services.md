@@ -22,11 +22,11 @@ Role required: srm\_admin or admin
 
 ## About this task
 
-Require approval when [[sr-landing-page|Service Reliability Management]] \(SRM\) admins, managers, or responders request to create or add a service in SRM.
+Require approval when Service Reliability Management \(SRM\) admins, managers, or responders request to create or add a service in SRM.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workspace-dashboard-use|Service Operations Workspace]] Admin Center** &gt; **Configurations**.
+1.  Navigate to **All** &gt; **Service Operations Workspace Admin Center** &gt; **Configurations**.
 
 2.  Select **Service Reliability Management** &gt; **Governance and autonomy** &gt; **Service governance**.
 
@@ -57,7 +57,3 @@ Require approval when [[sr-landing-page|Service Reliability Management]] \(SRM\)
 
 **Next topic:**[Customize team approval settings in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-add-approval-teams.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

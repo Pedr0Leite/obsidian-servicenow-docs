@@ -15,7 +15,7 @@ breadcrumb: [Task dependencies and relationships, Agile in CWM, Use, Collaborati
 
 # Remove a dependency from a work item in CWM
 
-Unlink a relationship between work items in [[cwm-landing|Collaborative Work Management]] \(CWM\) when it is no longer relevant or was added incorrectly.
+Unlink a relationship between work items in Collaborative Work Management \(CWM\) when it is no longer relevant or was added incorrectly.
 
 ## Before you begin
 
@@ -57,6 +57,3 @@ To add a new relationship, see [Add a dependency to a work item in CWM](https://
 
 [Add a dependency to a work item in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/add-a-dependency-to-a-work-item-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

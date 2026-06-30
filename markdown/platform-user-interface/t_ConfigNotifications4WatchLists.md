@@ -12,7 +12,7 @@ breadcrumb: [Add users to a watch list, Forms in the classic environment, Workin
 
 # Configure email notifications for watch lists
 
-Watch [[lists-configurable-workspace|lists]] \(glide\_list field type\) allow multiple users to subscribe to notifications of a task. You can specify conditions in an email notification to send email notifications to the members when the conditions are met.
+Watch lists \(glide\_list field type\) allow multiple users to subscribe to notifications of a task. You can specify conditions in an email notification to send email notifications to the members when the conditions are met.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ If users on a watch list are getting more than one email for each update to an i
 
 ## Procedure
 
-1.  Open the notification to [[configure-onboarding-modals|configure]].
+1.  Open the notification to configure.
 
 2.  In the Who will receive section, select the icon beside **Users/groups in fields**.
 
@@ -39,12 +39,12 @@ If users on a watch list are getting more than one email for each update to an i
 4.  Click **Update**.
 
 
--   **[[t_HideEmailAddressesInAWatchList|Hide email addresses in a watch list]]**  
+-   **[Hide email addresses in a watch list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_HideEmailAddressesInAWatchList.md)**  
 You can remove the email address text entry element from a watch list by modifying the dictionary.
--   **[[watchlist-slushbucket-order|Configure order buttons on the watch list slushbucket]]**  
+-   **[Configure order buttons on the watch list slushbucket](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/watchlist-slushbucket-order.md)**  
 When you add multiple users to a glide\_list, such as a watch list, the slushbucket does not display the order buttons for the list of selected members. You can set a dictionary attribute to display the order buttons.
 
-**Parent Topic:**[[t_UseAWatchList|Add users to a watch list]]
+**Parent Topic:**[Add users to a watch list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseAWatchList.md)
 
 **Related topics**  
 
@@ -53,10 +53,3 @@ When you add multiple users to a glide\_list, such as a watch list, the slushbuc
 
 [Email and SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailNotifications.md)
 
-## Related
-
-- [[t_HideEmailAddressesInAWatchList|Hide email addresses in a watch list]]
-- [[watchlist-slushbucket-order|Configure order buttons on the watch list slushbucket]]
-- [[t_UseAWatchList|Add users to a watch list]]
-- [[lists-configurable-workspace|Lists]]
-- [[configure-onboarding-modals|Configure]]

@@ -18,7 +18,7 @@ You can create a new KPI Composer indicator definition directly from the relevan
 
 ## Before you begin
 
-You have an existing [KPI Composer project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/kpi-composer-projects.md) with a complete draft of the [KPI tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/design-kpi-tree.md) in the Analytics tab. You also need technical knowledge of [[c_Indicators|Performance Analytics indicators]].
+You have an existing [KPI Composer project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/kpi-composer-projects.md) with a complete draft of the [KPI tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/design-kpi-tree.md) in the Analytics tab. You also need technical knowledge of Performance Analytics indicators.
 
 Role required: sn\_kpi\_composer.admin or admin to link to a Performance Analytics indicator, sn\_kpi\_composer.user for other functionality. No roles are required for responsible users or users with edit access, except to link to a Performance Analytics indicator.
 
@@ -96,7 +96,7 @@ Calculate scores from the scores of one or more other indicators. Apply mathemat
 
 </td><td>
 
-[[t_CreateAManualIndicator|Manual indicators]] are not associated with an indicator source. Scores for manual indicators are not generated automatically by a data collection job. Instead, populate these indicators by adding scores to the scoresheet manually.
+Manual indicators are not associated with an indicator source. Scores for manual indicators are not generated automatically by a data collection job. Instead, populate these indicators by adding scores to the scoresheet manually.
 
  Manual indicators are typically used for data that cannot be retrieved from the ServiceNow instance because it comes from an outside system, such as customer data from a third-party sales system.
 
@@ -171,7 +171,3 @@ In this example, the contributing indicator Number of resolved incidents is adde
 
 \[Omitted image "kpi-comp-contrib-indicators.gif"\] Alt text: Animated gif showing a contributing indicator being added to an artifact
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[t_CreateAManualIndicator|Manual indicators]]

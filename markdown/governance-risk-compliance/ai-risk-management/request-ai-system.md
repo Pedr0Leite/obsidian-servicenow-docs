@@ -19,13 +19,13 @@ Request the development or procurement of an AI system to initiate and document 
 
 ## Before you begin
 
-Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user \([[employee-center|Employee Center]]\), sn\_ai\_asset\_mgmt.ai\_asset\_owner \(AI Control Tower dashboard\)
+Role required: sn\_ai\_case\_mgmt.ai\_case\_business\_user \(Employee Center\), sn\_ai\_asset\_mgmt.ai\_asset\_owner \(AI Control Tower dashboard\)
 
-To classify [[ai-system-airc|AI systems]] using a risk‑based approach at intake, a teammate with the [[ai-risk-and-compliance|AI Risk and Compliance]] Admin \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin\] role must complete the following.
+To classify AI systems using a risk‑based approach at intake, a teammate with the AI Risk and Compliance Admin \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin\] role must complete the following.
 
--   Set the Migrate to Advanced [[risk-assessments|Risk Assessments]] property to publish [[airc-rams|Risk Assessment Methodologies]] \(RAMs\). For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
--   Publish [[airc-assessment-templates|assessment templates]]. For more information, see [Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-assessment-templates.md).
--   Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` to specify a default [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]] used for automated regulatory risk classification of AI systems at intake. For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md).
+-   Set the Migrate to Advanced Risk Assessments property to publish Risk Assessment Methodologies \(RAMs\). For more information, see [Set up Advanced Risk assessments properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/advanced-risk-assessments-properties-airc.md).
+-   Publish assessment templates. For more information, see [Assessment templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-assessment-templates.md).
+-   Configure the `sn_grc_ai_gov.ai_system_automated_risk_classification_asmt_ram` to specify a default Risk Assessment Methodology \(RAM\) used for automated regulatory risk classification of AI systems at intake. For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md).
 -   Configure the `sn_grc_ai_gov.aisystem_primary_ram` property to specify a default Risk Assessment Methodology \(RAM\) for AI systems. For more information, see [Set up AI Risk and Compliance properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/configure-airc-properties.md).
 
 **Note:**
@@ -34,7 +34,7 @@ If these prerequisites aren’t met, intake submissions are accepted but risk cl
 
 ## About this task
 
-If you’re using the AI Risk and Compliance \(AIRC\) application, you submit requests through the Employee Center and related tasks such as impact assessments and review tasks \(for example, legal, security, and architecture\). If you’re using the AI Control Tower \(AICT\) application, you can submit requests from the AI Control Tower dashboard and manage [[ai-assets-airc|AI assets]] through AICT’s inventory and life cycle experience.
+If you’re using the AI Risk and Compliance \(AIRC\) application, you submit requests through the Employee Center and related tasks such as impact assessments and review tasks \(for example, legal, security, and architecture\). If you’re using the AI Control Tower \(AICT\) application, you can submit requests from the AI Control Tower dashboard and manage AI assets through AICT’s inventory and life cycle experience.
 
 For more information on the end‑to‑end life cycle, see [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md).
 
@@ -56,7 +56,7 @@ Description
 
 </th></tr></thead><tbody><tr><td id="d116664e199">
 
-**Request an AI system [[using-ai-risk-and-compliance|using AI Risk and Compliance]]**
+**Request an AI system using AI Risk and Compliance**
 
 </td><td>
 
@@ -94,7 +94,7 @@ Navigate to **All** &gt; **AI Control Tower**. 1.  On the AI Control Tower dashb
 
 After submitting an AI use case request, next steps vary depending on your role.
 
-AI Product Owner or Requester \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_user\]: Provide additional information as requested during intake and onboarding, including details about the AI system, related models, [[dataset-airc|datasets]], and intended business outcomes. You may be asked to complete impact assessment questionnaires and support reviews as the AI system progresses through assessment and validation.
+AI Product Owner or Requester \[sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_user\]: Provide additional information as requested during intake and onboarding, including details about the AI system, related models, datasets, and intended business outcomes. You may be asked to complete impact assessment questionnaires and support reviews as the AI system progresses through assessment and validation.
 
 For more information, see [Perform impact assessment on an AI use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-impact-assessment-of-ai-use-case.md).
 
@@ -109,7 +109,7 @@ For more information, see [AI Risk and Compliance workspace](https://raw.githubu
 For an overview of how AI systems move from intake through assessment, deployment, monitoring, and value tracking, see [AI governance life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-gov-lifecycle.md).
 
 -   **[Request an AI use case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/request-ai-system-form.md)**  
-The [[request-ai-system-form|Request an AI use case form]] is designed to streamline the request process for developing or procuring an AI-based solution. This intake form confirms that all necessary details, supporting documents, and compliance considerations are captured before moving forward with development and deployment of the AI-solution.
+The Request an AI use case form is designed to streamline the request process for developing or procuring an AI-based solution. This intake form confirms that all necessary details, supporting documents, and compliance considerations are captured before moving forward with development and deployment of the AI-solution.
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
@@ -122,16 +122,3 @@ The [[request-ai-system-form|Request an AI use case form]] is designed to stream
 
 [Perform impact assessment on an AI use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/perform-impact-assessment-of-ai-use-case.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[ai-system-airc|AI systems]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[ai-assets-airc|AI assets]]
-- [[using-ai-risk-and-compliance|Using AI Risk and Compliance]]
-- [[dataset-airc|Datasets]]
-- [[request-ai-system-form|Request an AI use case form]]

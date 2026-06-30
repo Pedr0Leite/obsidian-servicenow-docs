@@ -12,11 +12,11 @@ breadcrumb: [SPM Enterprise-Wide Deployment, Strategic Portfolio Management]
 
 # Exploring SPM Enterprise-Wide Deployment
 
-[[ewd-landing-page|SPM Enterprise-Wide Deployment]] \(EWD\) provides data partitioning capabilities for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) tables that enable organizations to separate and control record visibility across functions such as departments and [[c_BusinessUnits|business units]].
+SPM Enterprise-Wide Deployment \(EWD\) provides data partitioning capabilities for Strategic Portfolio Management \(SPM\) tables that enable organizations to separate and control record visibility across functions such as departments and business units.
 
 EWD is a Strategic Portfolio Management \(SPM\) product for enterprise-scale organizations that must balance centralized platform management with department-level data isolation. Administrators can create and configure partitions that separate data across functions such as IT Operations, HR, and Finance. Each partition is governed by a dedicated role that determines which records users can access, reducing the need for separate ServiceNow instances for each function.
 
-EWD supports key SPM tables including projects, demands, programs, and portfolios. Partition logic extends automatically to related records such as cost plans, [[c_ResourcePlans|resource plans]], and planning items through automatic partition stamping. For complete list of supported tables and related entities, see [[supported-tables-for-partition-ewd|Supported tables for partition]].
+EWD supports key SPM tables including projects, demands, programs, and portfolios. Partition logic extends automatically to related records such as cost plans, resource plans, and planning items through automatic partition stamping. For complete list of supported tables and related entities, see [Supported tables for partition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/supported-tables-for-partition-ewd.md).
 
 ## What is a partition
 
@@ -26,7 +26,7 @@ For example, an organization can create separate partitions for IT Operations an
 
 After a partition is configured, access control is enforced automatically at runtime. Partition criteria and role assignments determine data visibility without additional configuration.
 
-This enforcement applies consistently across [[project-workspace-landing-page|Project Workspace]], [[rsrc-mgmt-wrkspc|Resource Management Workspace]], [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace, and [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+This enforcement applies consistently across Project Workspace, Resource Management Workspace, Portfolio Planning Workspace, and Strategic Planning Workspace.
 
 ## Partition criteria
 
@@ -67,7 +67,7 @@ EWD partition enforcement applies across the following workspaces:
 -   Project Workspace — Partition enforcement applies across all tabs including Details, Planning, Resources, Financials, RIDAC, and Status Reports.
 -   Portfolio Planning Workspace \(PPW\) — Partition enforcement applies to projects, demands, roadmaps, scenario planning, financial planning, resource capacity, and dashboards.
 -   Strategic Planning Workspace \(SPW\) — Partition enforcement applies to planning item types — project and demand — when the **ServiceNow Internal** Alignment integration is enabled. When a user populates the partition criteria field on either the planning item or its linked execution record, the partition details are stamped on both records. This bidirectional behavior ensures that strategic and operational teams work from the same data while maintaining departmental data separation.
--   Resource Management Workspace — Partition enforcement applies to resource plans, allocations, capacity views, and [[c_TimeCards|time cards]] linked to partitioned records.
+-   Resource Management Workspace — Partition enforcement applies to resource plans, allocations, capacity views, and time cards linked to partitioned records.
 
 ## EWD roles
 
@@ -94,15 +94,3 @@ Partition enforcement applies to classic form views, list views, search results,
 -   Partitioning is supported only on pm\_project, pm\_portfolio, dmn\_demand, and pm\_program.
 -   Partition enforcement does not apply to indicator-based reports and widgets that calculate scores from a separate table. Users may see unfiltered data in indicator-based widgets regardless of their partition assignment.
 
-## Related
-
-- [[supported-tables-for-partition-ewd|Supported tables for partition]]
-- [[ewd-landing-page|SPM Enterprise-Wide Deployment]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[c_BusinessUnits|Business units]]
-- [[c_ResourcePlans|Resource plans]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_TimeCards|Time cards]]

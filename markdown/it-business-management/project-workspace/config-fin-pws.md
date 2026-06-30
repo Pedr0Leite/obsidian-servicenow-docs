@@ -22,11 +22,11 @@ Role required: admin
 
 ## Procedure
 
-1.  Configure the attributes to [[generate-labor-cost-demand|generate labor costs]] in financials based on the resource assignments on the work items.
+1.  Configure the attributes to generate labor costs in financials based on the resource assignments on the work items.
 
     For more information, see [Using the Planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/planning-attributes.md) and [Create or edit planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/configure-planning-attributes.md).
 
-2.  [[generate-mapping-configurations-ppw|Generate default mapping configurations]] to create table maps.
+2.  Generate default mapping configurations to create table maps.
 
     For more information, see [Generate default mapping configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/generate-default-mapping-configurations.md).
 
@@ -50,7 +50,7 @@ Role required: admin
 
     For more information, see [Customize the left pane view for financials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/customize-fin-left-pane-prj-wrkspc.md).
 
-8.  Customize the [[create-cost-plan-form-pp|Create cost plan form]] fields to match the requirements of your organization.
+8.  Customize the Create cost plan form fields to match the requirements of your organization.
 
     For more information, see [Customise cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/customise-cost-plan-form-fin-prj-wrkspc.md).
 
@@ -58,7 +58,7 @@ Role required: admin
 
     For more information, see [Change the default expense type for projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/config-expense-type-fin-pp.md).
 
-10. Activate and define scheduled job to [[create-financial-baselines-ppw|create financial baselines]] for your planning items.
+10. Activate and define scheduled job to create financial baselines for your planning items.
 
     For more information, see [Activate a scheduled job to create financial baselines for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/baseline-schedule-job-pp.md).
 
@@ -68,9 +68,9 @@ Role required: admin
 
 
 -   **[Enable monetary benefit plans for projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-benefitplans-pws-fin.md)**  
-Enable the benefit plans property to [[create-and-manage-benefit-plans-ppw|create and manage benefit plans]] for planning items.
+Enable the benefit plans property to create and manage benefit plans for planning items.
 -   **[Enable financial budget allocation for projects in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-fin-budget-pws.md)**  
-Enable allocation property after migrating to Next Experience to work on budget allocation for your projects using [[project-workspace-landing-page|Project Workspace]].
+Enable allocation property after migrating to Next Experience to work on budget allocation for your projects using Project Workspace.
 -   **[Enable expense type on resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/expense-type-resource-assignments.md)**  
 Resource assignments have the same expense type as the project or demand for which they’re created. Enabling expense type on resource assignments helps you to accurately expense different type of expenses for your work.
 -   **[Configure a widget and associate it with project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-widgets-pws.md)**  
@@ -78,7 +78,7 @@ Enable and associate a widget to view financial summary of your projects at high
 -   **[Customize the left pane view for financials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/customize-fin-left-pane-prj-wrkspc.md)**  
 Customize the left pane for financials to view custom field information.
 -   **[Customise cost plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/customise-cost-plan-form-fin-prj-wrkspc.md)**  
-Manage the fields required on the new [[demand-plan-form|cost plan form]] as per your organization needs.
+Manage the fields required on the new cost plan form as per your organization needs.
 -   **[Change the default expense type for your projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-expense-type-pws.md)**  
 Configure the default expense type to create or edit cost plans for your projects.
 -   **[Create a custom prefix for baseline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/config-fin-baseline-prefix-pws.md)**  
@@ -88,12 +88,3 @@ Activate the **Migrate budget for active demands and projects** scheduled job to
 
 **Parent Topic:**[Configuring Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-pw.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[generate-mapping-configurations-ppw|Generate default mapping configurations]]
-- [[create-cost-plan-form-pp|Create cost plan form]]
-- [[create-financial-baselines-ppw|Create financial baselines]]
-- [[create-and-manage-benefit-plans-ppw|Create and manage benefit plans]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[demand-plan-form|Cost plan form]]

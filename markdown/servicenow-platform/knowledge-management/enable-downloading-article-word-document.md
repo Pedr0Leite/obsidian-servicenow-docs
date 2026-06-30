@@ -24,7 +24,7 @@ Role required: admin
 
 When a knowledge article is created using Microsoft Word, users accessing the knowledge article view page in a portal or workspace can download the source Microsoft Word document when the **sn\_km\_word.glide.knowman.enable\_document\_download** property is set to true.
 
-**Note:** After you enable the **sn\_km\_word.glide.knowman.enable\_document\_download** property, the Microsoft Word source document of a knowledge article also might appear in search results as an [[attachment|attachment]] to the article. Therefore, enabling this property might affect the search relevancy of a knowledge article.
+**Note:** After you enable the **sn\_km\_word.glide.knowman.enable\_document\_download** property, the Microsoft Word source document of a knowledge article also might appear in search results as an attachment to the article. Therefore, enabling this property might affect the search relevancy of a knowledge article.
 
 ## Procedure
 
@@ -36,6 +36,4 @@ When a knowledge article is created using Microsoft Word, users accessing the kn
 
 4.  Click **Update**.
 
-## Related
 
-- [[attachment|Attachment]]

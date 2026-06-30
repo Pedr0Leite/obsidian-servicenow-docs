@@ -14,7 +14,7 @@ breadcrumb: [Create an event profile, Splunk Enterprise Security event ingestion
 
 # Set up a profile for scheduled notable event ingestion
 
-Depending on the profile defined, Splunk ES notable events are automatically ingested into the [[security-operations-landing-page|Security Operations]] environment of your ServiceNow AI Platform instance.
+Depending on the profile defined, Splunk ES notable events are automatically ingested into the Security Operations environment of your ServiceNow AI Platform instance.
 
 The following table shows the list of tasks you need to follow to set up a profile for scheduled ingestion of notable events:
 
@@ -28,6 +28,3 @@ The following table shows the list of tasks you need to follow to set up a profi
 |Schedule and retrieve new and updated notable events|See [Schedule and retrieve notable events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-schedule-security.md)|
 |Automate notable event updates and closure based on SIR incident status|See [Automate notable event updates and closures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-additional-security.md)|
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

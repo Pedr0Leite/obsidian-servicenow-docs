@@ -14,7 +14,7 @@ breadcrumb: [Event Management Operator Tutorial, Using Event Management, Event M
 
 # Event Management operator environment
 
-As an [[c_EM|Event Management]] operator, your primary work environment is the [[workspace-dashboard-use|Service Operations Workspace]] dashboard.
+As an Event Management operator, your primary work environment is the Service Operations Workspace dashboard.
 
 In this, the third lesson in the Event Management tutorial, you get an overview of your workspaces so you know how to find the information you need.
 
@@ -184,7 +184,3 @@ Proceed to the next lesson: [What Event Management operators do](https://raw.git
 
 **Parent Topic:**[Event Management Operator Tutorial](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-guide-em.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

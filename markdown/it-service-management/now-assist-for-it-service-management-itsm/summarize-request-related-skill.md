@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist for IT Service Management \(IT
 
 # Summarize Request Management records by using Now Assist for IT Service Management \(ITSM\)
 
-Summarize all information related to the context of requests to get a consolidated real-time status by using the [[c_RequestManagement|Request Management]] summarization skills in the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Summarize all information related to the context of requests to get a consolidated real-time status by using the Request Management summarization skills in the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ These Request Management summarization skills provide you with concise summaries
 
 ## Procedure
 
-1.  In Core UI or [[sow-landing-page|Service Operations Workspace for ITSM]], open a Request Management record that is assigned to you.
+1.  In Core UI or Service Operations Workspace for ITSM, open a Request Management record that is assigned to you.
 
 2.  Select **Summarize**.
 
@@ -102,9 +102,3 @@ If you want to check more details about the summary, select the more info icon \
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_RequestManagement|Request Management]]
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

@@ -12,7 +12,7 @@ breadcrumb: [MCO core, Explore, Manufacturing Commercial Operations]
 
 # Additional features
 
-[[manufacturing-overview|Manufacturing Commercial Operations]] supports additional features to enhance the product capabilities.
+Manufacturing Commercial Operations supports additional features to enhance the product capabilities.
 
 <table id="table_th4_3qk_fgc"><thead><tr><th>
 
@@ -81,9 +81,5 @@ With Channel Support Operations for Manufacturing Commercial Operations, you can
 
 [Service Exchange](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/tmt-service-bridge-both-landing-page.md)
 
-[[mco-components-installed-with-other-product-workflows|Components installed with additional plugins]]
+[Components installed with additional plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-components-installed-with-other-product-workflows.md)
 
-## Related
-
-- [[mco-components-installed-with-other-product-workflows|Components installed with additional plugins]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

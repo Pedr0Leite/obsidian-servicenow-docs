@@ -46,10 +46,8 @@ Case Type tables extend from the Case table but do not inherit the table mapping
 
 5.  For the two new case type table map records, map the fields from the source table to the target table in the Basic Field Mapping form section.
 
-    For details, see [[create-case-review-field-mapping|Create a case digest table map]].
+    For details, see Create a case digest table map.
 
 6.  Click **Update**.
 
-## Related
 
-- [[create-case-review-field-mapping|Create a case digest table map]]

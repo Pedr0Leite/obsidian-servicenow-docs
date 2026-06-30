@@ -12,7 +12,7 @@ breadcrumb: [Quality issue management for the dealer, Dealer management, Use, Ma
 
 # Report an issue
 
-Create an issue report for the [[mco-product-non-conformances|product non-conformance]].
+Create an issue report for the product non-conformance.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ This task appears only when Now Assist capabilities are not available.
 
 ## Procedure
 
-1.  Navigate to **[[mco-dealer-portal|Dealer Portal]]** &gt; **Catalogs** &gt; **Categories** &gt; **Quality issues** &gt; **Report a product non-conformance**.
+1.  Navigate to **Dealer Portal** &gt; **Catalogs** &gt; **Categories** &gt; **Quality issues** &gt; **Report a product non-conformance**.
 
 2.  On the Report a product non-conformance form, fill in the fields.
 
-    For a description of the field values, see [[mco-report-a-product-non-conformance|Report a product non-conformance]].
+    For a description of the field values, see [Report a product non-conformance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-report-a-product-non-conformance.md).
 
 3.  Select **Choose a file**, to upload any available documents or images.
 
@@ -36,8 +36,4 @@ This task appears only when Now Assist capabilities are not available.
 
 5.  In the **Correction actions** tab, **Correction action** can be viewed.
 
-## Related
 
-- [[mco-report-a-product-non-conformance|Report a product non-conformance]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-dealer-portal|Dealer portal]]

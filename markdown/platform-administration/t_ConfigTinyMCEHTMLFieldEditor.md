@@ -30,7 +30,7 @@ There are two options for HTML editors:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Locate the **HTML field editor to use** property \(**glide.ui.html.editor**\).
 
@@ -38,6 +38,4 @@ There are two options for HTML editors:
 
 4.  Select **Save**.
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

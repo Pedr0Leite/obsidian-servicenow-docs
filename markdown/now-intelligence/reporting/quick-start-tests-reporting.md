@@ -14,7 +14,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Quick start tests for Reporting
 
-Validate that [[reporting-landing-page|Reporting]] still works after you make any configuration change such as applying an upgrade. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Reporting still works after you make any configuration change such as applying an upgrade. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 The Reporting quick start test Automated Test Framework - Reporting plugin \(com.glide.automated\_testing\_impl.report\) is active by default or instance reboot.
 
@@ -68,11 +68,7 @@ The example test included in the plugin includes the following three steps.
 However, when you customize a test, you can combine steps in any logical sequence by adding and configuring the two types of steps. For example, you could configure the Report Visibility test as follows:
 
 1.  Impersonate a user.
-2.  Confirm that this user can [[t_RunAReport|view a report]].
+2.  Confirm that this user can view a report.
 3.  Confirm that this user can view another report.
 4.  Confirm that this user cannot view a third report.
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[t_RunAReport|View a report]]

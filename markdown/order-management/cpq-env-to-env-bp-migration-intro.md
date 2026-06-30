@@ -32,8 +32,5 @@ Because all maintenance and development must be tested in a non-production envir
 
 [Migrate a blueprint to an SFDC-integrated destination](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[cpq-fullblueprintmigration-param|The fullBlueprintMigration parameter]]
+[The fullBlueprintMigration parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-fullblueprintmigration-param.md)
 
-## Related
-
-- [[cpq-fullblueprintmigration-param|The fullBlueprintMigration parameter]]

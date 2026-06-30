@@ -18,7 +18,7 @@ Create or update EAP List View for work item types so that the columns displayed
 
 ## Before you begin
 
-Set the application scope in your instance to [[portfolio-planning-app-landing-page|Portfolio Planning]] Core.
+Set the application scope in your instance to Portfolio Planning Core.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -73,6 +73,4 @@ You can also rearrange them in the order of your choice.
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

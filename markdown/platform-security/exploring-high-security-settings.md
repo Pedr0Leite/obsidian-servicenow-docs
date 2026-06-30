@@ -12,22 +12,22 @@ breadcrumb: [High Security Settings]
 
 # Exploring High Security Settings
 
-[[c_HighSecuritySettings|High Security Settings]] refer to several security options available in your instance.
+High Security Settings refer to several security options available in your instance.
 
-The High Security Settings module is activated with the High Security Settings plugin, which is active by default on new instances. If High Security Settings are not active on your instance, see [[t_ActivateHighSecuritySettings|Requesting High Security Settings activation]]. To learn more about this plugin, see [Enable High Security Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-high-security-plugin.md) in Instance [[sc-hardening|Security Hardening]] Settings. Properties for these types of high security settings are available:
+The High Security Settings module is activated with the High Security Settings plugin, which is active by default on new instances. If High Security Settings are not active on your instance, see [Requesting High Security Settings activation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ActivateHighSecuritySettings.md). To learn more about this plugin, see [Enable High Security Plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-high-security-plugin.md) in Instance Security Hardening Settings. Properties for these types of high security settings are available:
 
--   Default property values: To harden security on your platform by centralizing all critical security settings to one location for management and [[c_AuditedTables|auditing]].
--   [[c_DefaultDenyProperty|Default deny property]]: Provides a security manager property to control the default security behavior for table access.
+-   Default property values: To harden security on your platform by centralizing all critical security settings to one location for management and auditing.
+-   Default deny property: Provides a security manager property to control the default security behavior for table access.
 -   Security Administrator role: Provides a role to prevent modification of key security settings and resources. The Security Administrator role is not inherited by the admin role and must be explicitly assigned.
--   Elevated privileges: Allows [[users|users]] with the security admin role to operate in the context of a normal user and elevate to higher security role when needed.
+-   Elevated privileges: Allows users with the security admin role to operate in the context of a normal user and elevate to higher security role when needed.
 -   Property access controls: Allows security administrators to set the roles required to read and write properties.
--   [[system-logs|System logs]]: Are read only.
--   [[sc-access-control|Access control]] rules: Control what data users can access and how they can access it.
+-   System logs: Are read only.
+-   Access control rules: Control what data users can access and how they can access it.
 
 **Note:**
 
--   High Security Settings also automatically activates the Contextual Security plugin, if it is not already active. In addition, [[platsec-sublanding|Platform Security]] Settings - High delivers settings and features in the context of increasing the security of your instance.
--   The Instance Security Hardening Settings content contains detailed descriptions, and compliance values, for the security-related [[ca-system-properties|system properties]] and plugins in the ServiceNow AI Platform.
+-   High Security Settings also automatically activates the Contextual Security plugin, if it is not already active. In addition, Platform Security Settings - High delivers settings and features in the context of increasing the security of your instance.
+-   The Instance Security Hardening Settings content contains detailed descriptions, and compliance values, for the security-related system properties and plugins in the ServiceNow AI Platform.
 -   To learn more about each of these properties, see [Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md).
 
 There are two ways to set or change High Security Settings properties.
@@ -48,7 +48,7 @@ Two additional columns are created in the Properties \[sys\_properties\] table w
 -   **read\_roles**: A comma-separated list of role names that are allowed to read all fields of this property.
 -   **write\_roles**: A comma-separated list of role names that are allowed to write/modify all fields of this property.
 
-Properties listed in the Properties table have **read\_roles** of admin, and **write\_roles** of security\_admin. Users with the admin role can view and read the property values, but must elevate to the [[security-admin-role|security\_admin role]] to modify them.
+Properties listed in the Properties table have **read\_roles** of admin, and **write\_roles** of security\_admin. Users with the admin role can view and read the property values, but must elevate to the security\_admin role to modify them.
 
 ## Notifications
 
@@ -106,7 +106,7 @@ Yes in new instances
 
 </td><td>
 
-[Escape jelly script \[Updated in [[sec-center-v2|Security Center]] 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-escape-jelly.md)
+[Escape jelly script \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-escape-jelly.md)
 
 </td></tr><tr><td>
 
@@ -114,13 +114,13 @@ glide.ui.rotate\_sessions
 
 </td><td>
 
-[[sc-rotate-http-session-identifiers|Rotate HTTP session identifiers]] to reduce security vulnerabilities. See: [http://www.owasp.org/index.php/Session\_Management\#Rotate\_Session\_Identifiers](http://www.owasp.org/index.php/Session_Management#Rotate_Session_Identifiers).
+Rotate HTTP session identifiers to reduce security vulnerabilities. See: [http://www.owasp.org/index.php/Session\_Management\#Rotate\_Session\_Identifiers](http://www.owasp.org/index.php/Session_Management#Rotate_Session_Identifiers).
 
 </td><td>
 
 Yes**Note:**
 
-If you are using the [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 plugin for Single Sign-on [[c_Authentication|authentication]], set this property to No. Otherwise, it interferes with the session information sharing that takes place between the instance and the [[identity-landing|Identity]] Provider.
+If you are using the SAML 2.0 plugin for Single Sign-on authentication, set this property to No. Otherwise, it interferes with the session information sharing that takes place between the instance and the Identity Provider.
 
 </td><td>
 
@@ -148,7 +148,7 @@ glide.security.password\_reset.uri
 
 </td><td>
 
-For mobile [[c_SelfServicePasswordReset|Password Reset]], URL that the user is taken to when the user clicks the **Forgot password?** button.
+For mobile Password Reset, URL that the user is taken to when the user clicks the **Forgot password?** button.
 
 </td><td>
 
@@ -198,7 +198,7 @@ glide.security.use\_csrf\_token
 
 </td><td>
 
-Enable usage of a secure token to identify and validate incoming requests. This token is used to prevent cross-site [[c_requestAPI|request]] forgery attacks.
+Enable usage of a secure token to identify and validate incoming requests. This token is used to prevent cross-site request forgery attacks.
 
 </td><td>
 
@@ -246,7 +246,7 @@ glide.ui.forgetme
 
 </td><td>
 
-Remove the **[[c_ChSetRemMeChkbxCookie|Remember me]]** check box from the login page.
+Remove the **Remember me** check box from the login page.
 
 </td><td>
 
@@ -474,7 +474,7 @@ glide.cms.catalog\_uri\_relative
 
 </td><td>
 
-[[sc-enforce-relative-links|Enforce relative links]] from the URI parameter on /ess/catalog.do. If **Yes**, only relative URLs are permitted through the /ess/catalog.do page using the **uri** parameter. If **No**, all URLs are permitted, which may permit linking to external unauthorized content.
+Enforce relative links from the URI parameter on /ess/catalog.do. If **Yes**, only relative URLs are permitted through the /ess/catalog.do page using the **uri** parameter. If **No**, all URLs are permitted, which may permit linking to external unauthorized content.
 
 </td><td>
 
@@ -603,7 +603,7 @@ Instance Security Hardening Settings
 
 </th></tr></thead><tbody><tr><td>
 
-com.glide.[[sc-communications|communications]].httpclient.verify\_hostname
+com.glide.communications.httpclient.verify\_hostname
 
 </td><td>
 
@@ -627,7 +627,7 @@ glide.basicauth.required.schema
 
 </td><td>
 
-Require [[basic-authentication|basic authentication]] for inbound table schema requests.
+Require basic authentication for inbound table schema requests.
 
 </td><td>
 
@@ -703,28 +703,3 @@ None
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[t_ActivateHighSecuritySettings|Activating High Security Settings]]
-- [[c_HighSecuritySettings|High Security Settings]]
-- [[sc-hardening|Security hardening]]
-- [[c_AuditedTables|Auditing]]
-- [[c_DefaultDenyProperty|Default deny property]]
-- [[users|Users]]
-- [[system-logs|System logs]]
-- [[sc-access-control|Access control]]
-- [[platsec-sublanding|Platform Security]]
-- [[ca-system-properties|System properties]]
-- [[security-admin-role|Security\_admin role]]
-- [[sec-center-v2|Security Center]]
-- [[sc-rotate-http-session-identifiers|Rotate HTTP session identifiers]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[c_requestAPI|request]]
-- [[c_ChSetRemMeChkbxCookie|Remember me]]
-- [[sc-enforce-relative-links|Enforce relative links]]
-- [[sc-communications|Communications]]
-- [[basic-authentication|Basic authentication]]

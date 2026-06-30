@@ -79,7 +79,7 @@ Command
 
 </td><td>
 
--   Enter the command that the [[acc-landing-page|Agent Client Collector]] executes.
+-   Enter the command that the Agent Client Collector executes.
 
 **Note:** When the **Command Auto Generation** check box is selected, this field is automatically populated with the prefix and flags of the active parameters specified in the **Parameters** tab.
 
@@ -185,6 +185,3 @@ The dialog box fields when testing a check definition.
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

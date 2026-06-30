@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce Read Roles for Catalog Variable Search \[New in Security Center 7.0\]
 
-Use [[ca-system-properties|system properties]] to ensure that only catalog variables with an empty read role are indexed for search.
+Use system properties to ensure that only catalog variables with an empty read role are indexed for search.
 
 When the property **glide.ais.ingestion.ignore\_catalog\_variables\_read\_roles** is set to the recommended value of **false**, only catalog variables with an empty read role are indexed for search. If this property is set to **true** then all variables are indexed for search regardless of any read roles specified on the variable.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -94,7 +94,7 @@ Security risk
 
 -   Severity score: 2.6
 -   CVSS score: Low
--   Security risk details: [[users|Users]] will be able to search for variables that they do not have read roles to access to causing information disclosure.
+-   Security risk details: Users will be able to search for variables that they do not have read roles to access to causing information disclosure.
 
 </td></tr><tr><td>
 
@@ -115,8 +115,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

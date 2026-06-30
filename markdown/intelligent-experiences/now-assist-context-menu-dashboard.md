@@ -44,13 +44,9 @@ Capacity Distribution: The capacity distribution based on the different applicat
 
 Response by feedback: The feedback field based on the Generative AI logs. The options are accepted, rejected, or ignored. You can also refresh this matrix, view insights, or suggestion available and filter this data further based on the date.
 
-Insights: View insights and suggestions for [[platform-now-assist-landing|Now Assist]] usage.
+Insights: View insights and suggestions for Now Assist usage.
 
 \`
 
-**Parent Topic:**[[now-assist-write-overview|Now Assist context menu]]
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 
-## Related
-
-- [[now-assist-write-overview|Now Assist context menu]]
-- [[platform-now-assist-landing|Now Assist]]

@@ -42,7 +42,7 @@ Description
 
 </td><td>
 
-As an audit manager, and IT project manager, [[create-audit-plan|create an audit plan]] to manage different types of audits in a periodic manner and group engagements in a logical manner. For details see, [Create an audit plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-audit-plan.md)
+As an audit manager, and IT project manager, create an audit plan to manage different types of audits in a periodic manner and group engagements in a logical manner. For details see, [Create an audit plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-audit-plan.md)
 
 </td></tr><tr><td>
 
@@ -50,7 +50,7 @@ As an audit manager, and IT project manager, [[create-audit-plan|create an audit
 
 </td><td>
 
-As an audit user or an audit manager, create auditable units with entities such as business units, departments, vendors, products, business processes, business applications, locations, authority documents, and policies to perform [[risk-assessments|risk assessments]] on the auditable units. For details, see [Create an auditable unit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-auditable-unit.md)
+As an audit user or an audit manager, create auditable units with entities such as business units, departments, vendors, products, business processes, business applications, locations, authority documents, and policies to perform risk assessments on the auditable units. For details, see [Create an auditable unit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/create-auditable-unit.md)
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ As an audit user or an audit manager, create auditable units with entities such 
 
 </td><td>
 
-As an audit manager, use the advanced planning capabilities to [[t_CreateEngagement|create an engagement]] that automatically creates an engagement project. For details, see [Create an engagement with advanced planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/creating-an-engagement-with-advance-planning.md)
+As an audit manager, use the advanced planning capabilities to create an engagement that automatically creates an engagement project. For details, see [Create an engagement with advanced planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/creating-an-engagement-with-advance-planning.md)
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ As an IT project manager, create a cost plan to specify the unit cost of a cost 
 
 </td><td>
 
-[[audit-observations|Audit observations]] are the results of an audit. As an important part of the audit report, audit observations represent the results of reviews, analysis, interviews, and discussions. For details see, [Audit observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-observations.md)
+Audit observations are the results of an audit. As an important part of the audit report, audit observations represent the results of reviews, analysis, interviews, and discussions. For details see, [Audit observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-observations.md)
 
 </td></tr><tr><td>
 
@@ -98,15 +98,7 @@ As an IT project manager, create a cost plan to specify the unit cost of a cost 
 
 </td><td>
 
-As an audit user, request evidence. [[evidence-request|Evidence request]] is used by audit and compliance teams for requesting supporting documents during an audit. Auditors and compliance teams require these documents from the first line of defense. For details see, [Request evidence for audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/request-evidence.md)
+As an audit user, request evidence. Evidence request is used by audit and compliance teams for requesting supporting documents during an audit. Auditors and compliance teams require these documents from the first line of defense. For details see, [Request evidence for audit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/request-evidence.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-audit-plan|Create an audit plan]]
-- [[risk-assessments|risk assessments]]
-- [[t_CreateEngagement|Create an engagement]]
-- [[audit-observations|Audit observations]]
-- [[evidence-request|Evidence request]]

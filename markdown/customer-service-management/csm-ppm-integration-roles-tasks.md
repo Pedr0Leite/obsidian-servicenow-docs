@@ -16,7 +16,7 @@ An overview of the tasks that can be performed by the different Customer Project
 
 ## Personas and roles
 
-The following table [[migration-lists|lists]] the personas, their description, and the roles included with them.
+The following table lists the personas, their description, and the roles included with them.
 
 <table id="table_isk_pj5_fkb"><thead><tr><th>
 
@@ -185,6 +185,3 @@ Stores project contacts.
 -   Issue
 -   Project Change Request
 
-## Related
-
-- [[migration-lists|Lists]]

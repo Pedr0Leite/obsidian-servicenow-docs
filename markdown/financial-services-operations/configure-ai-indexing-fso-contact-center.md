@@ -13,7 +13,7 @@ breadcrumb: [Configure, Agentic Contact Center for Banking, Banking applications
 
 # Configure AI indexing for Agentic Contact Center for Banking
 
-Configure AI indexing to enable intelligent search capabilities across financial accounts, cases, and customer interactions in [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]].
+Configure AI indexing to enable intelligent search capabilities across financial accounts, cases, and customer interactions in Agentic Contact Center for Banking.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 2.  Activate the following indexed sources if they aren't already active:
 
     -   Financial Accounts
-    -   [[fso-overview|Financial Services]] Base
+    -   Financial Services Base
     -   Interaction
     1.  Select the record for the indexed source.
 
@@ -46,7 +46,7 @@ Role required: admin
 
 AI indexing is configured for Agentic Contact Center for Banking.
 
-**Parent Topic:**[[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]
+**Parent Topic:**[Configuring Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-agentic-contact-center-for-banking.md)
 
 **Related topics**  
 
@@ -57,8 +57,3 @@ AI indexing is configured for Agentic Contact Center for Banking.
 
 [Publish an AI Search search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/publish-search-profile-ais.md)
 
-## Related
-
-- [[configuring-agentic-contact-center-for-banking|Configuring Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[fso-overview|Financial Services]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Dependency Views, Configuration Management Database \(CMDB\), 
 
 # View a Dependency Views map
 
-When you display a [[c_NextGenBSMMaps|Dependency Views map]], the map is centered on the root CI and displays the layout and number of levels defined in the map properties. If Operational Intelligence is activated, then a Dependency Views map provides a mode that lets you directly access metrics information for the CIs on the map.
+When you display a Dependency Views map, the map is centered on the root CI and displays the layout and number of levels defined in the map properties. If Operational Intelligence is activated, then a Dependency Views map provides a mode that lets you directly access metrics information for the CIs on the map.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: dependency\_views \(see general requirements\)
 General role requirements:
 
 -   To access a Dependency Views map from either the navigation menu, a script API, or directly from a URL, the minimum role required is the dependency\_views. Some operations that are related to icons, indicators, and menu actions require the ecmdb\_admin role. Some operations that are related to properties and dependency types require the sn\_cmdb\_admin or admin role.
--   [[c_BusinesssServiceManagementMaps|Dependency Views]] enforces ACL permissions on CIs, and visually hides them and their relationship from the map if the permission requirement is not met.
+-   Dependency Views enforces ACL permissions on CIs, and visually hides them and their relationship from the map if the permission requirement is not met.
 
 ## About this task
 
@@ -65,7 +65,3 @@ Administrators can configure the setting for the default layout of the map and n
 
 [View collapsed nodes in a Dependency Views map]()
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

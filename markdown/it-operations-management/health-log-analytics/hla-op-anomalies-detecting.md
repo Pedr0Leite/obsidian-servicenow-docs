@@ -15,7 +15,7 @@ breadcrumb: [Exploring, Health Log Analytics, ITOM AIOps, IT Operations Manageme
 
 # How Health Log Analytics generates alerts
 
-[[hla-landing-page|Health Log Analytics]] identifies patterns in your log data and learns pattern behavior. When HLA's AI engine detects anomalous behavior, it sends an event to the ServiceNow [[c_EM|Event Management]] application. As an operator, you can use these predictive alerts to handle emerging IT issues before they impact users.
+Health Log Analytics identifies patterns in your log data and learns pattern behavior. When HLA's AI engine detects anomalous behavior, it sends an event to the ServiceNow Event Management application. As an operator, you can use these predictive alerts to handle emerging IT issues before they impact users.
 
 ## Log anomaly detection
 
@@ -57,7 +57,3 @@ Define a Log Analytics alert rule when you encounter log data that should genera
 
 **Parent Topic:**[Exploring Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-exploring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[c_EM|Event Management]]

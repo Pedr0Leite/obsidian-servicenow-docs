@@ -15,7 +15,7 @@ breadcrumb: [Customizing Lists in Strategic Planning, Configure, Portfolio Plann
 
 # Define audience for new lists in Strategic Planning
 
-Manage who can view the newly created categories and lists in the Lists page of [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Manage who can view the newly created categories and lists in the Lists page of Strategic Planning Workspace.
 
 ## Before you begin
 
@@ -35,6 +35,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

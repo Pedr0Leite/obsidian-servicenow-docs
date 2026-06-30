@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Generate planned workplace tasks
 
-Using planned task definitions in [[workplace-safety-mgmt-hr|Workplace Core]] to create planned tasks independent of shifts for recurring activities. For example, you can generate tasks for a selected number of days for cleaning all floors and buildings at midnight every day.
+Using planned task definitions in Workplace Core to create planned tasks independent of shifts for recurring activities. For example, you can generate tasks for a selected number of days for cleaning all floors and buildings at midnight every day.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ You can view all planned tasks by navigating to **Workplace Core** &gt; **Workpl
 
 **Parent Topic:**[Managing workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-maintenance-tasks.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -33,7 +33,7 @@ The Resource Manager view in **Resource** &gt; **Resources** &gt; **Groups** lis
 -   **[Update the resource capacity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/update-resource-capacity.md)**  
 From the Resource Manager view, update the capacity of a user for a specific duration. Based on the schedule of the user and the specified duration, the capacity of the user is accordingly populated in all resource aggregate tables.
 -   **[Update the resource aggregates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/update-aggregate-capacity.md)**  
-From the Resource Manager view, you can [[update-aggregate-capacity|update the resource aggregates]] for a specific time frame.
+From the Resource Manager view, you can update the resource aggregates for a specific time frame.
 
 **Parent Topic:**[Resource allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_AllocatingResources.md)
 
@@ -46,6 +46,3 @@ From the Resource Manager view, you can [[update-aggregate-capacity|update the r
 
 [Reject a resource plan from the Resource Plan form]()
 
-## Related
-
-- [[update-aggregate-capacity|Update the resource aggregates]]

@@ -44,7 +44,7 @@ Discovery model
 
 </td><td>
 
-[[sam-software-discovery|Software discovery]] model that represents the installed software.
+Software discovery model that represents the installed software.
 
 </td></tr><tr><td>
 
@@ -171,6 +171,3 @@ Check box for not counting the software install as a component of a suite during
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[sam-software-discovery|Software discovery]]

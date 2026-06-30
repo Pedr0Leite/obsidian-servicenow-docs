@@ -49,7 +49,7 @@ Manager Workspace Manager \[sn\_wfo\_cfg\_ws.manager\]
 
 </td><td>
 
-Grants read access to primary assignment groups and additional managers. Grants read access to home and [[dpm-list-modules-concept|list modules]].
+Grants read access to primary assignment groups and additional managers. Grants read access to home and list modules.
 
 </td><td>
 
@@ -63,7 +63,7 @@ Manager Workspace Admin \[sn\_wfo\_cfg\_ws.admin\]
 
 </td><td>
 
-Grants administrative rights to create, read, update, and delete \(CRUD\) all [[dex-workspace-application-tab|applications]] and [[settings-mobile|settings]] in Manager Workspace.
+Grants administrative rights to create, read, update, and delete \(CRUD\) all applications and settings in Manager Workspace.
 
 </td><td>
 
@@ -76,8 +76,3 @@ Grants administrative rights to create, read, update, and delete \(CRUD\) all [[
 </td></tr></tbody>
 </table>**Parent Topic:**[Workforce Optimization for ITSM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-optimization-itsm-reference.md)
 
-## Related
-
-- [[dpm-list-modules-concept|List modules]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]

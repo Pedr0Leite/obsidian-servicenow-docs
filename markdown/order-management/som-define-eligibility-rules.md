@@ -12,11 +12,11 @@ breadcrumb: [Configuring product offer eligibility, Configuring product offering
 
 # Define product eligibility rules in a product eligibility matrix
 
-Define product eligibility [[rules_101|rules]] by using the Product Offering Catalog Eligibility, Product Offering Category Eligibility, or Product Offering Eligibility Matrix.
+Define product eligibility rules by using the Product Offering Catalog Eligibility, Product Offering Category Eligibility, or Product Offering Eligibility Matrix.
 
 ## Before you begin
 
-[[som-create-rule-entity-filter|Create the rule entity filters]] and define any new [[som-create-context-variable|custom context variables]] needed to define the eligibility rules.
+[Create the rule entity filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-rule-entity-filter.md) and define any new [custom context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-context-variable.md) needed to define the eligibility rules.
 
 Role required: sn\_prd\_pm\_product\_catalog\_admin and sn\_prd\_pm\_product\_catalog\_manager
 
@@ -70,14 +70,7 @@ The November 2024 release provides Version 2 of the product eligibility matrices
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-rule-entity-filter|Create a rule entity filter]]
-- [[som-create-context-variable|Create a custom context variable]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[rules_101|Rules]]

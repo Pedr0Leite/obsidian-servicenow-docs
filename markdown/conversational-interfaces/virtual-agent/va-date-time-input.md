@@ -15,7 +15,7 @@ breadcrumb: [Assistant Designer user input controls, Assistant Designer interfac
 
 # Date Time user input control
 
-Use the Date Time user input control in a [[virtual-agent-landing-page|Virtual Agent]] topic to enable the user to select a calendar date, time \(hours and minutes\), or both.
+Use the Date Time user input control in a Virtual Agent topic to enable the user to select a calendar date, time \(hours and minutes\), or both.
 
 ## Date Time user input control properties for LLM topic discovery
 
@@ -520,6 +520,3 @@ For best results, enable NLU at the node.
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer user input controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-user-inputs.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

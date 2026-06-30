@@ -20,7 +20,7 @@ Generate an annual 300 Log or 300A Summary OSHA form for all OSHA recordable inj
 
 Ensure that the following conditions are met.
 
--   The [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
+-   The Health and Safety Incident Management OSHA Content Pack \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
 -   The following fields are set in the incidents' injury and illness reports that should be included in the OSHA form.
     -   The **Recordable** option is selected. When you generate an OSHA form, only the recordable incidents are included.
     -   The **Establishment** field contains the establishment name.
@@ -35,7 +35,7 @@ For the PDF export format, the system uses the saved PDF templates for OSHA 300 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\) and navigate to the **Lists** tab.
 
@@ -113,8 +113,3 @@ You can view the saved OSHA form by navigating to the **Establishments** list. F
 
 **Parent Topic:**[Health and Safety Incident Management OSHA Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/generating-osha-forms.md)
 
-## Related
-
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

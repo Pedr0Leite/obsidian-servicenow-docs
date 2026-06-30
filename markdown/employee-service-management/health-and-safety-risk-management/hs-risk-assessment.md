@@ -14,19 +14,19 @@ breadcrumb: [Use, Health and Safety Risk Management, Health and Safety, Employee
 
 # Safety risk assessment
 
-The Risk Assessment is a process of identifying and evaluating potential hazards and risks associated with a process, system, product, or [[activity-lxp|activity]], and implementing measures that help prevent or mitigate those risks. The feature enables the safety of people and proactively reduce safety incident rates.
+The Risk Assessment is a process of identifying and evaluating potential hazards and risks associated with a process, system, product, or activity, and implementing measures that help prevent or mitigate those risks. The feature enables the safety of people and proactively reduce safety incident rates.
 
-The safety team performs the following activities via the [[health-safety-core-workspace|Health and Safety Workspace]] to conduct their risk assessments.
+The safety team performs the following activities via the Health and Safety Workspace to conduct their risk assessments.
 
 -   Identify and maintain a list of potential hazards associated with each job type. They also develop and implement effective control measures to eliminate or minimize the risks associated with each hazard.
 -   Build risk matrixes to define levels of risk for identified hazards.​
 -   Create and manage risk assessments to assess risk using predefined risk matrixes.
 -   Schedule recommended actions for risk assessments, if applicable.
 -   If a review and approval are required, assign the assessment to appropriate users.
--   Assigned users review and approve the assessments via [[employee-center-landing-page|Employee Center]].
+-   Assigned users review and approve the assessments via Employee Center.
 
 -   **[Conduct a safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-conduct-risk-assessment.md)**  
-[[hs-conduct-risk-assessment|Conduct a safety risk assessment]] to identify and manage potential hazards and risks, and to ensure the safety of your employees and the public.
+Conduct a safety risk assessment to identify and manage potential hazards and risks, and to ensure the safety of your employees and the public.
 -   **[Perform risk analysis for a safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-perform-risk-analysis-safety-risk-assessment.md)**  
 For a risk assessment, perform risk analyses of identified hazards and choose control measures to assess how they impact and mitigate the hazard.
 -   **[Create a risk analysis for a safety risk assessment from a job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/import-hazards-and-controls.md)**  
@@ -38,9 +38,3 @@ Add an action to address an identified risk or implement control measures necess
 
 **Parent Topic:**[Using Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-using-hs-risk-mgmt.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hs-conduct-risk-assessment|Conduct a safety risk assessment]]

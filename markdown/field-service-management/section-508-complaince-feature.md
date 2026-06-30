@@ -16,19 +16,15 @@ You can view and interact with the certain Field Service features using Section 
 
 ## Section 508 compliance features
 
-Access the following [[fsm-application-landing-page|Field Service Management]] features using Section 508 compliance features:
+Access the following Field Service Management features using Section 508 compliance features:
 
 -   [Workforce Optimization for Field Service Manager Workspace dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/wfo-fsm-manager-wrkspc-dashboard.md)
 -   [Managing agent calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/agent-calendar.md)
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
 **Related topics**  
 
 
 [Accessibility features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SetUpSect508ComplianceFeature.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]
-- [[fsm-application-landing-page|Field Service Management]]

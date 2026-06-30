@@ -14,7 +14,7 @@ breadcrumb: [Cloud Configuration Governance reference, Cloud Configuration Gover
 
 # Cloud Configuration Governance actions reference
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] \(CCG\) uses Integration Hub subflows to interact with the cloud and update the configuration data in the Configuration Management Database \(CMDB\).
+Cloud Configuration Governance \(CCG\) uses Integration Hub subflows to interact with the cloud and update the configuration data in the Configuration Management Database \(CMDB\).
 
 ## CCG – Read Config Setting
 
@@ -89,7 +89,7 @@ Fields
 
 Details of the record that you want to create in the Configuration Management Database \(CMDB\).Add the following fields and configure input for them:
 
- -   **[[ccg-scan-run|Scan Run]]**: Scan run during which Cloud Configuration Governance has identified the audit issue.
+ -   **Scan Run**: Scan run during which Cloud Configuration Governance has identified the audit issue.
 -   **Is Test Run**: Indicates whether Cloud Configuration Governance has reported the audit issue during a test run.
 -   **Details**: Details of the violation.
 -   **Violation Definition**: Violation definition of the audit issue.
@@ -117,7 +117,3 @@ To use this action, insert an action and then navigate to **Action** &gt; **Clou
 
 **Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-scan-run|Scan run]]

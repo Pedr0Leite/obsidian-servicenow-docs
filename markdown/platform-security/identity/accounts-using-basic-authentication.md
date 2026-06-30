@@ -14,11 +14,11 @@ breadcrumb: [Security findings, Exploring Machine Identity Console, Machine Iden
 
 # Accounts using Basic Authentication
 
-Display the findings about the accounts that are using only [[basic-authentication|basic authentication]] to authenticate the APIs under the [[security-score|Security findings]] in the [[machine-identity-console|Machine Identity Console]].
+Display the findings about the accounts that are using only basic authentication to authenticate the APIs under the Security findings in the Machine Identity Console.
 
-Accounts using basic authentication displays the non human [[identity-landing|identity]] accounts that using basic authentication for the APIs to login to ServiceNow.
+Accounts using basic authentication displays the non human identity accounts that using basic authentication for the APIs to login to ServiceNow.
 
-**Note:** The accounts displayed on the page are the accounts that are using username and password for [[c_Authentication|authentication]] in the last 30 days.
+**Note:** The accounts displayed on the page are the accounts that are using username and password for authentication in the last 30 days.
 
 \[Omitted image "mic-basic-auth.png"\] Alt text: Accounts using basic authentication
 
@@ -26,10 +26,3 @@ You can select the machine identity name to know more about the account and the 
 
 \[Omitted image "image.mic-recommendation-basic-auth"\] Alt text: Recommendation for the accounts using basic authentication
 
-## Related
-
-- [[basic-authentication|Basic authentication]]
-- [[security-score|Security findings]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]

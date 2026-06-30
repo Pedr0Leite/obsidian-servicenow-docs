@@ -20,7 +20,7 @@ Role required: admin or survey\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys**.
 
 2.  Open a survey definition.
 
@@ -34,10 +34,10 @@ Role required: admin or survey\_admin
 
     The Survey Definition form reopens.
 
-6.  To remove survey users, in the **Survey Users** related list, select the [[check-box|check box]] beside the user, and then select **Delete** from the action list below the list.
+6.  To remove survey users, in the **Survey Users** related list, select the check box beside the user, and then select **Delete** from the action list below the list.
 
 
-**Parent Topic:**[[c_SurveyUsersAndGroups|Survey users and groups]]
+**Parent Topic:**[Survey users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 
@@ -50,8 +50,3 @@ Role required: admin or survey\_admin
 
 [Allow recipients to retake a survey]()
 
-## Related
-
-- [[c_SurveyUsersAndGroups|Survey users and groups]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]

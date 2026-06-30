@@ -15,7 +15,7 @@ breadcrumb: [ManageEngine external content connector, Configure, External Conten
 
 # Configure ManageEngine for external content indexing
 
-Create a server-based OAuth 2.0 client application in the Zoho API console to allow the [[manageengine-external-content-connector|ManageEngine external content connector]] to access your ManageEngine source system.
+Create a server-based OAuth 2.0 client application in the Zoho API console to allow the ManageEngine external content connector to access your ManageEngine source system.
 
 ## Before you begin
 
@@ -86,6 +86,3 @@ For details on creating and configuring a ManageEngine external content connecto
 
 **Parent Topic:**[ManageEngine external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/manageengine-external-content-connector.md)
 
-## Related
-
-- [[manageengine-external-content-connector|ManageEngine external content connector]]

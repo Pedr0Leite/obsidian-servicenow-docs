@@ -14,7 +14,7 @@ breadcrumb: [Modeling your workflow, Explore, Telecommunications Network Invento
 
 # Modeling network inventory relationships
 
-You model your network inventory relationships in the [[telecom-network-inventory|Telecommunications Network Inventory]] application so that you can use them in the inventory template relationships to create your network inventory records.
+You model your network inventory relationships in the Telecommunications Network Inventory application so that you can use them in the inventory template relationships to create your network inventory records.
 
 ## Network model relationship overview
 
@@ -22,7 +22,7 @@ A model relationship captures the relationships between the inventory models. By
 
 ## Inventory modeling process
 
-When you [[creating-your-inventory-models|create inventory models]] for your equipment inventory in the Telecommunications Network Inventory application, you can use either a bottom-to-top or a top-to-bottom approach. Either sequence is acceptable, and both yield the same result when you finish:
+When you create inventory models for your equipment inventory in the Telecommunications Network Inventory application, you can use either a bottom-to-top or a top-to-bottom approach. Either sequence is acceptable, and both yield the same result when you finish:
 
 -   Bottom-to-top approach, where the modeling starts when you navigate to **Network interface model** &gt; **Interface Card Model** &gt; **Slot Model** &gt; **Equipment Model** &gt; **Equipment Holder Model \(Rack\)**.
 -   Top-to-bottom approach, where the modeling starts when you navigate to **Equipment Holder Model \(Rack\)** &gt; **Equipment Model** &gt; **Slot Model** &gt; **Interface Card model** &gt; **Network Interface model**.
@@ -34,13 +34,13 @@ The following diagram shows a top-to-bottom approach for the inventory modeling 
 The steps for top-to-bottom modeling of an inventory are as follows:
 
 1.  Check for any available rack models.
-2.  Check for any model relationships if a rack model is available. If not, [[create-equipment-holder-models|create an equipment holder model]] of rack.
+2.  Check for any model relationships if a rack model is available. If not, create an equipment holder model of rack.
 3.  Check for any equipment models.
-4.  Check for any model relationships if an equipment model is available. If not, [[create-equipment-models|create an equipment model]].
+4.  Check for any model relationships if an equipment model is available. If not, create an equipment model.
 5.  Check for the interface card model.
 6.  Check for any model relationships if an interface card model is available. If not, create an interface card model.
 7.  Check for the network interface model.
-8.  Check for any model relationships, if the network interface model is available. If not, [[create-network-interface-model|create a network interface model]].
+8.  Check for any model relationships, if the network interface model is available. If not, create a network interface model.
 9.  Check for the model relationships after you create each inventory model. If not, create the model relationships.
 
 This process ensures that all models and model relationships are created according to the manufacturer's recommendations.
@@ -52,10 +52,3 @@ This process ensures that all models and model relationships are created accordi
 
 [Define a network model relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[creating-your-inventory-models|Create inventory models]]
-- [[create-equipment-holder-models|Create an equipment holder model]]
-- [[create-equipment-models|Create an equipment model]]
-- [[create-network-interface-model|Create a network interface model]]

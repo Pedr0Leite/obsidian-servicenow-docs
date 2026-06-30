@@ -14,7 +14,7 @@ breadcrumb: [Recommended for you, Setup Employee Center browse experience featur
 
 # Modify the Recommended for you widget display
 
-The [[rfy-ec|Recommended for you]] widget displays catalog items and knowledge articles, enabling you to view information that is most relevant to you. You can configure the instance options to control the appearance of the widget, such as the title, number of items to display, and what category of items you want to view.
+The Recommended for you widget displays catalog items and knowledge articles, enabling you to view information that is most relevant to you. You can configure the instance options to control the appearance of the widget, such as the title, number of items to display, and what category of items you want to view.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -50,7 +50,7 @@ Number of similar users for prediction. For example 25.
 
 </td></tr><tr><td>
 
-Recent [[activity-lxp|activity]] cut off in days
+Recent activity cut off in days
 
 </td><td>
 
@@ -124,8 +124,4 @@ Option to show the widget with empty state message.
 </td></tr></tbody>
 </table>4.  Click **Save**.
 
-## Related
 
-- [[rfy-ec|Recommended for you]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

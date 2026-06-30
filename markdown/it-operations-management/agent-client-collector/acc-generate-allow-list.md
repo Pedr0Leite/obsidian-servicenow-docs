@@ -26,7 +26,7 @@ The default allow list includes all validated checks, and is included in the bas
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Check Definitions**.
+1.  Navigate to **All** &gt; **Agent Client Collector** &gt; **Check Definitions**.
 
     The **Check Definitions** page appears.
 
@@ -100,6 +100,3 @@ Boolean. Allow for the given entry to be executed in shell mode and for check de
 
 **Parent Topic:**[Enabling Agent Client Collector data collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/data-collection-enabling.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

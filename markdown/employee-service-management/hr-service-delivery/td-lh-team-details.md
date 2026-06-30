@@ -16,10 +16,10 @@ breadcrumb: [Org talent page, Explore, Leader Hub, HR Service Delivery, Employee
 
 The Team details page provides your organizational leaders with visibility into the skills and talent composition of a team that exists within the leader's organization.
 
-The Team details page is embedded into the [[td-lh-org-talent|Org talent page]]. To access the Team details page, perform the following steps after you navigate to the [[employee-center-landing-page|Employee Center]] and select **Org talent** from the [[td-lh-landing|Leader hub]] drop-down list:
+The Team details page is embedded into the Org talent page. To access the Team details page, perform the following steps after you navigate to the Employee Center and select **Org talent** from the Leader hub drop-down list:
 
 1.  Select a card for an employee who leads a team within the leader's organization.
-2.  Select the **[[td-lh-view-team-details|View team details]]** button on the card for the employee that you selected.
+2.  Select the **View team details** button on the card for the employee that you selected.
 
 ## Team details widgets
 
@@ -73,7 +73,7 @@ The following time ranges are provided by default:
 -   1–2 years
 -   &lt;1 year
 
-A scheduled job that runs weekly uses the date in the **Employment start date** field in the [[emp-slate-employee-profile|Employee Profile]] record to calculate the tenure data that appears in this widget.
+A scheduled job that runs weekly uses the date in the **Employment start date** field in the Employee Profile record to calculate the tenure data that appears in this widget.
 
 </td></tr><tr><td>
 
@@ -107,11 +107,3 @@ Leader Hub uses the Job level field in the Job profile record from the Employee 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[td-lh-org-talent|Org talent page]]
-- [[employee-center-landing-page|Employee Center]]
-- [[td-lh-landing|Leader Hub]]
-- [[td-lh-view-team-details|View team details]]
-- [[emp-slate-employee-profile|Employee profile]]

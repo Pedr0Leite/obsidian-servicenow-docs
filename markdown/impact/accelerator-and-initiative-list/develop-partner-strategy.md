@@ -22,7 +22,7 @@ Guidance on finding and evaluating effective partners
 
 ### Accelerator Overview
 
-Develop Partner Strategy provides [[impact-landing-page|Impact]] Customers with guidance to identify, and evaluate, a ServiceNow implementation partner that is aligned to their objectives and has the expertise needed to [[io-help|help]] them achieve the target outcome.
+Develop Partner Strategy provides Impact Customers with guidance to identify, and evaluate, a ServiceNow implementation partner that is aligned to their objectives and has the expertise needed to help them achieve the target outcome.
 
 ### What You Get
 
@@ -34,7 +34,7 @@ Develop Partner Strategy provides [[impact-landing-page|Impact]] Customers with 
 
     Customer meetings to discuss:
 
-    -   Existing partner [[instance-observer-performance|performance]]
+    -   Existing partner performance
     -   Current partner needs
     -   Plan to assist customer in identifying and evaluating partners for a target outcome
 -   **Partner Strategy Deliverable**
@@ -110,8 +110,3 @@ Develop Partner Strategy provides Impact Customers with guidance to identify, ev
 
 ServiceNow is not responsible for partner assessment, identification, selection, enablement, or management.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

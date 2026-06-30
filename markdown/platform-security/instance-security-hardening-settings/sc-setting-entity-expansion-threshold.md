@@ -20,7 +20,7 @@ The **glide.xmlutil.max\_entity\_expansion** system property controls the maximu
 
 Ensure that the property **glide.xmlutil.max\_entity\_expansion** is set to `3000` or less.
 
-If the instance is on Washington or later, the default implied value is 3000 if the [[ca-system-properties|System Properties]] \[sys\_properties\] record does not exist. If the instance is not on Washington or later, the recommendation is for the instance admin to create a System Properties \[sys\_properties\] and set the value to `3000`.
+If the instance is on Washington or later, the default implied value is 3000 if the System Properties \[sys\_properties\] record does not exist. If the instance is not on Washington or later, the recommendation is for the instance admin to create a System Properties \[sys\_properties\] and set the value to `3000`.
 
 **Note:** 500 is the default minimum imposed by the ServiceNow AI Platform, which is considered to be a safe threshold.
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -98,7 +98,7 @@ Security risk
 
 -   Severity score: 5.3
 -   CVSS rating: Medium
--   Security risk details: A Denial-of-Service \(DoS\) vulnerability poses a security risk by allowing attackers to overwhelm or crash a system, rendering it unavailable to legitimate [[users|users]] and potentially disrupting critical operations.
+-   Security risk details: A Denial-of-Service \(DoS\) vulnerability poses a security risk by allowing attackers to overwhelm or crash a system, rendering it unavailable to legitimate users and potentially disrupting critical operations.
 
 </td></tr><tr><td>
 
@@ -121,8 +121,3 @@ None
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

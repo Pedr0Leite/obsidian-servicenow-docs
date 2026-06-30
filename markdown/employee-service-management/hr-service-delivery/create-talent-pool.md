@@ -14,7 +14,7 @@ breadcrumb: [Use, Talent Profile, Hiring Experiences, HR Service Delivery, Emplo
 
 # Create Talent pools
 
-Create Talent pools to organize similar talent profiles in one place for particular [[hiring-tab-concept|hiring]] requirements.
+Create Talent pools to organize similar talent profiles in one place for particular hiring requirements.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_ta\_hiring\_core.recruiter
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
-2.  Create a [[talent-pool-overview|talent pool]] from either the Talent pool section or the All talent section in the **Talent pool** tab.
+2.  Create a talent pool from either the Talent pool section or the All talent section in the **Talent pool** tab.
 
     -   To create a talent pool from the Talent pool section in the **Talent pool** tab, select **Create talent pool**.
     -   To create a talent pool from the All talent section, select the required profiles and select **Create pool**.
-3.  On the Create New [[talent-pool-form|Talent pool form]], fill in the fields.
+3.  On the Create New Talent pool form, fill in the fields.
 
     For a description of the field values, see [Talent pool form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/talent-pool-form.md).
 
@@ -41,9 +41,3 @@ You have created a talent pool. Collaborate with other recruiters after creating
 
 **Parent Topic:**[Using Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-t-pool.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[talent-pool-overview|Talent pool]]
-- [[talent-pool-form|Talent pool form]]

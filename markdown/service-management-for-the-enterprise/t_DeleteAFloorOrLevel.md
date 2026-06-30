@@ -16,7 +16,7 @@ Before you can delete a floor, you must first delete any spaces defined for it.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Facilities** &gt; **[[r_SpaceManagement|Space Management]]** &gt; **Floor**.
+1.  Navigate to **All** &gt; **Facilities** &gt; **Space Management** &gt; **Floor**.
 
 2.  Click the name of the floor you want to delete.
 
@@ -25,9 +25,5 @@ Before you can delete a floor, you must first delete any spaces defined for it.
     If the building has any assets associated with it, a warning box opens. If you click **Delete**, the associated asset is deleted.
 
 
-**Parent Topic:**[[r_Manually-builtMaps|Customer-created maps]]
+**Parent Topic:**[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)
 
-## Related
-
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[r_SpaceManagement|Space management]]

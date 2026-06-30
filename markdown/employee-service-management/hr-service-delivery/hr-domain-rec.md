@@ -14,7 +14,7 @@ breadcrumb: [Domain Separation and HR Service Delivery, HR Service Delivery, Emp
 
 # Guidance for proper HR Service Delivery domain separation
 
-Additional guidance to successfully deploy [[hr-service-delivery|HR Service Delivery]] in a domain separated environment.
+Additional guidance to successfully deploy HR Service Delivery in a domain separated environment.
 
 The following sections explain how to successfully set up domain separation on your instance.
 
@@ -22,14 +22,14 @@ The following sections explain how to successfully set up domain separation on y
 
 ## HR Services
 
-While you set up [[hr-service-administration|HR services]] in a global domain, note the following points:
+While you set up HR services in a global domain, note the following points:
 
 -   **Limitations**
     1.  Administrator of any domain can edit the global HR services, which impacts all other domains.
     2.  An HR service that is created in a global domain will be present in all others domains.
 -   **Instructions**
     -   This instruction applies to the first limitation: You can create or update write ACL on an HR service table so that the global HR services are only editable by HR admins in a global domain.
-    -   This instruction applies to the second limitation: By using [[hr-criteria|HR criteria]], you can restrict global HR services to be used for certain domains only. However, this will not stop access for an global service to view and modify the global HR service by HR administrators.
+    -   This instruction applies to the second limitation: By using HR criteria, you can restrict global HR services to be used for certain domains only. However, this will not stop access for an global service to view and modify the global HR service by HR administrators.
 
 ## HR Approvals
 
@@ -109,15 +109,9 @@ Set up escalation rules either at global or a domain specific layer. For an esca
 
 ## Enterprise Service Management Integrations Framework
 
-While you set up [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] for domain separation, note the following points:
+While you set up Enterprise Service Management Integrations Framework for domain separation, note the following points:
 
 -   Maintain a separate connection record per domain.
 -   Copy the default scheduled flow in to respective domain for each integrations.
 -   Copy default Trigger external interface flow into respective domain.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

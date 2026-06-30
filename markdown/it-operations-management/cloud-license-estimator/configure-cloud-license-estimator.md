@@ -14,7 +14,7 @@ breadcrumb: [Cloud License Estimator, ITOM Visibility, IT Operations Management]
 
 # Configure Cloud License Estimator
 
-Set up the accounts and credentials needed for [[cloud-license-estimator-landing|Cloud License Estimator]].
+Set up the accounts and credentials needed for Cloud License Estimator.
 
 -   **[Configure Azure Credentials for Cloud License Estimator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/cle-azure-credential-setup.md)**  
 To use this tool, configure the Azure Service Principal Account credentials. If you already have credentials configured in the ServiceNow instance, those credentials can be used.
@@ -23,6 +23,3 @@ This task guides you in configuring IAM user permanent credentials for the desig
 
 **Parent Topic:**[Cloud License Estimator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-license-estimator/cloud-license-estimator-landing.md)
 
-## Related
-
-- [[cloud-license-estimator-landing|Cloud License Estimator]]

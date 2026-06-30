@@ -14,7 +14,7 @@ breadcrumb: [Configure the Now Mobile Agent application, Set up the Industrial C
 
 # Connect to your Industrial Connected Workforce data
 
-Connect the Now Mobile Agent application to your [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) application instance to manage work on your mobile device.
+Connect the Now Mobile Agent application to your Industrial Connected Workforce \(ICW\) application instance to manage work on your mobile device.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Role required: wm\_agent or wm\_dispatcher
 
 **Parent Topic:**[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-now-mobile-agent-application-icw-mobile.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

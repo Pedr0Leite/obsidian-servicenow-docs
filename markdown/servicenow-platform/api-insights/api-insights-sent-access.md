@@ -14,7 +14,7 @@ breadcrumb: [Manage access requests, API Insights, Configuration Management Data
 
 # Manage requests sent for API access in API Insights
 
-Manage your sent access requests by either sending a reminder or withdrawing the request in [[api-insights|API Insights]].
+Manage your sent access requests by either sending a reminder or withdrawing the request in API Insights.
 
 ## Before you begin
 
@@ -58,7 +58,3 @@ Select **Withdraw request**.A confirmation message appears indicating that the r
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[api-insights|API Insights]]

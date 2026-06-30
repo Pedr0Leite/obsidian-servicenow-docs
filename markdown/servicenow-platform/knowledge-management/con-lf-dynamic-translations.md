@@ -40,7 +40,7 @@ Role required: admin
 
 5.  Select the languages into which you want the articles translated.
 
-6.  In the **Translation Preferences** tab, select the **Enable machine translate** [[check-box|check box]] to enable machine translation for knowledge articles.
+6.  In the **Translation Preferences** tab, select the **Enable machine translate** check box to enable machine translation for knowledge articles.
 
 7.  Select the desired translator in the **Translator** field.
 
@@ -70,6 +70,3 @@ Role required: admin
 
 **Parent Topic:**[Configure translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-translation-management.md)
 
-## Related
-
-- [[check-box|Check box]]

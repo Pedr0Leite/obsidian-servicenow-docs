@@ -18,7 +18,7 @@ The Ticket Fields widget displays information about a request that a user has ma
 
 ## Using the widget
 
-After a user submits a request, they can track their request on a ticket page in [[c_ServicePortal|Service Portal]]. The user can consult the Ticket Fields widget to review the details of their request and check its resolution status.
+After a user submits a request, they can track their request on a ticket page in Service Portal. The user can consult the Ticket Fields widget to review the details of their request and check its resolution status.
 
 \[Omitted image "ticket-fields-widget.png"\] Alt text: Ticket Fields widget
 
@@ -32,7 +32,7 @@ If a user entered variables when submitting the request, they can view those var
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Ticket Fields widget for a portal page.
+Use the instance options to configure the Ticket Fields widget for a portal page.
 
 <table id="table_jr1_5zy_jkb"><thead><tr><th>
 
@@ -64,7 +64,3 @@ Text to communicate the expected resolution time of the ticket. This text is dis
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

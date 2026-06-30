@@ -15,7 +15,7 @@ breadcrumb: [Discovery for AWS, Discovery for cloud environment, Discovery, ITOM
 
 # Create an AWS Discovery schedule in Discovery Admin Workspace
 
-Use the [[discovery-admin-workspace|Discovery Admin Workspace]] dashboard to create an Amazon Web Services \(AWS\) [[r-discovery|Discovery]] schedule.
+Use the Discovery Admin Workspace dashboard to create an Amazon Web Services \(AWS\) Discovery schedule.
 
 ## Before you begin
 
@@ -24,8 +24,8 @@ Verify the following:
 -   You have at least one validated MID Server with a status of **Up**. The MID Server must reach the IP ranges that you intend to discover. You can install the MID Server by using [Use MID Server guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/use-mid-server-guidedsetup.md) or by manually downloading and running the installer. For details, see the MID Server installation instructions for [Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_InstallAMIDServerOnLinux.md) and [Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-install-prereqs.md).
 -   The MID Server used for Cloud Discovery is configured with the Cloud Management capability.
 -   You have created suitable credentials in the ServiceNow AI Platform to connect with the service accounts on which you want to perform the discovery.
--   Cloud Discovery has adequate permission to discover the resources of the target cloud. For more information on AWS cloud permissions, see [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]].
--   You're [[using-discovery|using Discovery]] Admin Workspace v1.11.0 or later.
+-   Cloud Discovery has adequate permission to discover the resources of the target cloud. For more information on AWS cloud permissions, see [Control AWS access and permissions using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md).
+-   You're using Discovery Admin Workspace v1.11.0 or later.
 
 Role required: discovery\_admin
 
@@ -158,13 +158,7 @@ The MID Server uses static access keys tied to an IAM user.
     |**Run on demand**|The schedule only runs when triggered manually. Trigger the schedule by selecting **Finish and run** at the end of this setup, or by navigating to the schedule in the Discovery Schedules \[discovery\_schedule\] table and selecting **Discover Now**.|
     |**Run after series**|The schedule runs after another existing Discovery schedule completes, staggering or chaining them together. Selecting an existing schedule displays a relationship map of all the other associated schedules.|
     |**Set discovery time out**|If the schedule exceeds the maximum runtime, it's canceled. After toggling, configure the runtime threshold.|
-    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a [[c_DiscoveryStatus|Discovery status]] is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
+    |**Finish and run**|After being selected, all the information provided is validated. Then, a Discovery schedule is created in the background, a Discovery status is created, and the schedule is run. You're redirected to the Status Details page for the schedule.|
     |**Finish**|After being selected, all the information provided is validated. A Discovery schedule is created, and you're redirected to its entry in the Discovery Schedules \[discovery\_schedule\] table. You can edit the schedule information or run it by selecting **Discover Now**.|
 
-## Related
 
-- [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

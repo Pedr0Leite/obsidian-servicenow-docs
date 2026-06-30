@@ -14,7 +14,7 @@ breadcrumb: [Receive asset warranty details from Lenovo, Use, Hardware Asset Man
 
 # Track the warranty details of your Lenovo assets
 
-View and track the warranty details of your Lenovo hardware assets from a central location in the [[asset-operations-view|Asset operations view]] of the [[using-ham-workspace|Hardware Asset Workspace]].
+View and track the warranty details of your Lenovo hardware assets from a central location in the Asset operations view of the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -38,7 +38,3 @@ Role required: asset
 
 [Connect to the Lenovo Warranty API]()
 
-## Related
-
-- [[asset-operations-view|Asset operations view]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

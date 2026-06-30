@@ -14,7 +14,7 @@ breadcrumb: [File and resources, Hardening settings, Platform Security]
 
 # Limit maximum number of attachments in email
 
-Configure the number of inbound [[email|email]] attachments allowed per Email \[sys\_email\] record on your instance.
+Configure the number of inbound email attachments allowed per Email \[sys\_email\] record on your instance.
 
 Use the **glide.email.inbound.max\_attachment\_count** system property to control the maximum number of inbound email attachments allowed per Email \[sys\_email\] record on your instance.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -116,8 +116,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)
 
-## Related
-
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

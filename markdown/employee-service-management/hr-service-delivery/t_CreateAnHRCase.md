@@ -74,7 +74,7 @@ Remote case
 
 </td><td>
 
-Option indicating that the HR case is created due to a provider task from a consumer instance.**Note:** This option appears only when the [[multi-instance-int|HR Multi Instance Integration]] for Provider \(sn\_hr\_mii\_provider\) plugin is installed.
+Option indicating that the HR case is created due to a provider task from a consumer instance.**Note:** This option appears only when the HR Multi Instance Integration for Provider \(sn\_hr\_mii\_provider\) plugin is installed.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ The state of the case. The state can auto-populate based on the HR case or task 
 -   Closed Complete
 -   Closed Incomplete
 -   Cancelled
--   Awaiting Acceptance: The **Opened for** person must accept the HR case before it can proceed. For example, a **Request for Onboarding** case was opened for a [[hiring-tab-concept|hiring]] manager. The hiring manager must accept the case before it can move to the next state.
+-   Awaiting Acceptance: The **Opened for** person must accept the HR case before it can proceed. For example, a **Request for Onboarding** case was opened for a hiring manager. The hiring manager must accept the case before it can move to the next state.
 -   Suspended: Use to temporarily prevent violation of a service level agreement \(SLA\). Refer to [Suspend and resume an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_SuspendAndResumeAnHRCase.md).
 
 **Note:** The **State** cannot be edited in List view.
@@ -106,7 +106,7 @@ Priority
 
 </td><td>
 
-The precedence of the case, based on the **HR service**. The priority automatically overrides the template and changes to **2 - High** for users flagged as VIP. Configured in [[t_HRProperties|HR Properties]] \(sys\_property\).
+The precedence of the case, based on the **HR service**. The priority automatically overrides the template and changes to **2 - High** for users flagged as VIP. Configured in HR Properties \(sys\_property\).
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ Assigned to
 
 The user assigned to work on this case. When a group is automatically assigned, a user from the group is automatically assigned when the case is created. If the user is not auto-assigned, click the **Lookup using list** icon to select a user who is a member of the selected assignment group.To change the **Assigned to** HR agent, the agent must be a member of the **Assignment group** and the **State** must be **Ready**.
 
- If **Assigned to** is left blank, some features are not available from the [[employee-center-landing-page|Employee Center]] ticket page. For example, the **Ask a Question** link to chat directly about an HR case cannot assign an agent. Comments or work notes do not appear on a case until an agent is assigned.
+ If **Assigned to** is left blank, some features are not available from the Employee Center ticket page. For example, the **Ask a Question** link to chat directly about an HR case cannot assign an agent. Comments or work notes do not appear on a case until an agent is assigned.
 
 </td></tr><tr><td>
 
@@ -173,7 +173,7 @@ Add collaborators or other HR agents to the case.Only HR agents can be added as 
  Collaborators and the COE for the HR case can conflict. The basic rules are:
 
 -   For all HR cases, collaborators override any security on a COE. For more information, see [Create COE security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-coe-security.md).
--   [[hr-case-employee-relations|Employee Relations]] \(ER\) cases can override collaborators when restrictions apply. For more information, see [Configure an employee relations case restriction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-create-case-restriction.md).
+-   Employee Relations \(ER\) cases can override collaborators when restrictions apply. For more information, see [Configure an employee relations case restriction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-create-case-restriction.md).
  **Note:** Agents must have the ER case writer \[sn\_hr\_er.case\_writer\] role in order to be a collaborator.
 
 </td></tr><tr><td>
@@ -182,7 +182,7 @@ Case support team
 
 </td><td>
 
-Employees assigned to answer questions about onboarding a new hire. Only appears for [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] cases.You can add users or define a group that can support the **Subject person** for a Lifecycle Event case. The **Subject person** can communicate with the case support team while the case progresses.
+Employees assigned to answer questions about onboarding a new hire. Only appears for Lifecycle Events cases.You can add users or define a group that can support the **Subject person** for a Lifecycle Event case. The **Subject person** can communicate with the case support team while the case progresses.
 
 </td></tr><tr><td>
 
@@ -245,7 +245,7 @@ You can add a longer, detailed description after the HR case is created. Use the
 
     -   **Fulfillment Instructions**
 
-        View information on how to complete the case. This information is defined in the [[hr-service-configuration|HR Service configuration]].
+        View information on how to complete the case. This information is defined in the HR Service configuration.
 
         A checklist outlining the exact steps to complete appears when configured by the HR service. See [Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md).
 
@@ -354,7 +354,7 @@ The birth date of the child.**Note:** Use this field when Birthing parent, Partn
         -   Show SLA Timeline: The SLA in timeline format that shows elapsed time.
         -   Show Workflow: The workflow that is associated with the case.
         -   Escalate Case: Click to escalate the case and provide a reason.
-        -   [[activity-lxp|Activity]] Set Execution: Populates for Lifecycle event cases. Click to view the Activity Set Contexts and each activity set.
+        -   Activity Set Execution: Populates for Lifecycle event cases. Click to view the Activity Set Contexts and each activity set.
         -   Repair SLAs: Click to repair any service level agreements associated with the case.
         -   Assign to Me: Appears when **Assignment group** is empty or if you belong to the Assignment group. Click to assign the HR case to you. A button also appears in the header form.
     The related lists appear dependent on type of case or task:
@@ -429,32 +429,19 @@ The birth date of the child.**Note:** Use this field when Birthing parent, Partn
 -   **[View HR case information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewHRCaseInformation.md)**  
 There are multiple ways to find a specific HR case.
 -   **[HR document generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/DocumentGeneration.md)**  
-There are multiple ways to generate documents in [[hr-service-delivery|HR Service Delivery]].
+There are multiple ways to generate documents in HR Service Delivery.
 -   **[Secure HR case attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/secure-doc-ckm.md)**  
 Add an extra layer of security on attachments that are linked to a case. Grant access to attachments with sensitive or private data to groups, users, user criteria or roles.
 -   **[Sending an email from a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/send-email-cm.md)**  
 Send any communication related to HR Workforce Administration cases using the Send email feature. Minimise typing errors by auto-populating the email address of the subject person \(of the case\) in the email.
 -   **[Checklists in HR cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_ChecklistsInHRCasesAndTasks.md)**  
-A feature of [[hr-service-administration|HR services]] is the ability to automatically add a checklist to an HR case. A checklist can serve as a reminder to the HR agent to ensure that the procedure is followed.
+A feature of HR services is the ability to automatically add a checklist to an HR case. A checklist can serve as a reminder to the HR agent to ensure that the procedure is followed.
 -   **[Adding an HR task to an HR case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ViewAnHRTask.md)**  
 You can add, view, or work on HR tasks assigned to HR cases.
 -   **[View HR task information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/ViewHRTaskInformation.md)**  
 There are multiple ways to find a specific HR task.
 -   **[Add adhoc approvers to a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/add-approvers-cm.md)**  
-Provide your agents with the flexibility to [[add-approvers-cm|add adhoc approvers to a case]] that is part of an HR service.
+Provide your agents with the flexibility to add adhoc approvers to a case that is part of an HR service.
 
 **Parent Topic:**[Use HR Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRCaseManagement.md)
 
-## Related
-
-- [[multi-instance-int|HR Multi Instance Integration]]
-- [[hiring-tab-concept|Hiring]]
-- [[t_HRProperties|HR properties]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[hr-service-configuration|HR service configuration]]
-- [[activity-lxp|Activity]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]
-- [[add-approvers-cm|Add adhoc approvers to a case]]

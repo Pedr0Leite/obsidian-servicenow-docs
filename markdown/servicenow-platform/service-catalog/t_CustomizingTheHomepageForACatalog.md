@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog**.
 
 2.  Click the add content icon \(+\) at the top of the page to add a category.
 
@@ -79,7 +79,3 @@ When set to ****No, the subcategories appear as a list at the top.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-catalog|Service Catalog]]

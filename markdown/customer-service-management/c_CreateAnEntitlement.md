@@ -12,7 +12,7 @@ breadcrumb: [Configure entitlements, Product data, Set up your environment, Conf
 
 # Create entitlements for CSM entities
 
-[[create-entitlement|Create an entitlement]] for a [[c_CustomerServiceManagement|Customer Service Management]] entity such as an account, a consumer, or a product.
+Create an entitlement for a Customer Service Management entity such as an account, a consumer, or a product.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_customerservice\_manager or admin
 
 1.  Navigate to **All** &gt; **Customer Service** &gt; **Contracts** &gt; **Entitlements**.
 
-    You can also create an entitlement from the **Entitlements** related list on the Account and Contract [[migration-forms|forms]].
+    You can also create an entitlement from the **Entitlements** related list on the Account and Contract forms.
 
 2.  Click **New** at the top of the Entitlements list.
 
-3.  Fill in the fields on the [[entitlement-form|Entitlement form]].
+3.  Fill in the fields on the Entitlement form.
 
 <table id="table_fyv_dtr_bs"><thead><tr><th>
 
@@ -158,7 +158,7 @@ Remaining Units
 
 </td><td>
 
-The number of available units that are remaining for this entitlement. This field is active if the **Per unit** check box is enabled. This field is updated using business [[gamification-components-rules|rules]].
+The number of available units that are remaining for this entitlement. This field is active if the **Per unit** check box is enabled. This field is updated using business rules.
 
 -   When using cases as the unit type, the **Update case entitlement on Close** business rule updates this field when a case for a product, asset, company, or contract that has an associated entitlement is closed.
 -   To use hours as the unit type, customers must create a separate business rule. For example, create a rule that is applied to the amount of time an agent spends on a case. When a case is resolved, deduct the hours spent from the total service hours available in the entitlement.
@@ -183,10 +183,4 @@ Select this check box to enable unit counters. If enabled, the **Total Units** a
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[create-entitlement|Create an entitlement]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-forms|Forms]]
-- [[entitlement-form|Entitlement form]]
-- [[gamification-components-rules|Rules]]

@@ -20,17 +20,17 @@ Close a customer's credit card account as per the credit card service request.
 
 Role required: sn\_bom\_credit\_card.agent or sn\_bom\_credit\_card.agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
 When a credit card service case for closing a card is created, the Close Credit Limit flow is triggered. This flow automatically creates a credit card task to close the customer's credit card account in the **Tasks** tab of the case.
 
-For more information on the flows that are installed with the [[card-ops-landing-page|Financial Services Card Operations]] application, see [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]].
+For more information on the flows that are installed with the Financial Services Card Operations application, see [Designer flows for Financial Services Operations applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/flow-designer-flows-fso-apps.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -62,9 +62,3 @@ For more information on the flows that are installed with the [[card-ops-landing
 -   The stage of the credit card service case changes from Update Account to Closed – Complete.
 -   The customer receives a pre-configured email notification about the case closure.
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[flow-designer-flows-fso-apps|Designer flows for Financial Services Operations applications]]
-- [[card-ops-landing-page|Financial Services Card Operations]]
-- [[fso-overview|Financial Services]]

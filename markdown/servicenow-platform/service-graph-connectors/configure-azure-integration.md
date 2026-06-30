@@ -18,7 +18,7 @@ Set up data sources and scheduled import jobs to pull in data from Azure into yo
 
 ## Before you begin
 
-**Important:** Unless there are configuration issues, use the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
+**Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -35,7 +35,7 @@ Dependencies and requirements:
 
 Role required: SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
@@ -51,7 +51,7 @@ For more information on the Azure setup instructions, see the [Service Graph Con
 
 3.  Create data sources and scheduled imports for the new connection.
 
-    1.  On the [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] page, in the Update Data Sources and Scheduled Imports Access, select the task **Update Scheduled Data Import Access**.
+    1.  On the Service Graph Connector for Microsoft Azure page, in the Update Data Sources and Scheduled Imports Access, select the task **Update Scheduled Data Import Access**.
 
     2.  In the Update Scheduled Data Import Access section, select **Configure** and do the following:
 
@@ -135,7 +135,7 @@ Connection URL
 
 </td><td>
 
-Base URL to [[c_Connect|connect]] to your Azure client application. **Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
+Base URL to connect to your Azure client application. **Note:** This field is automatically set to the URL to connect to the application. Leave the field value as is.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -206,7 +206,7 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Azure client application as de
 
         1.  For the Set up scheduled import jobs task, select **Configure**.
         2.  Select the **SG-Azure Subscriptions** scheduled job.
-        3.  On the Scheduled Data Import form, verify the field values for the scheduled job and select the **Active** [[check-box|check box]].
+        3.  On the Scheduled Data Import form, verify the field values for the scheduled job and select the **Active** check box.
 
             For more information, see [Schedule a data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_ScheduleADataImport.md#table_r53_5hm_xp).
 
@@ -400,11 +400,3 @@ Where *&lt;tenantid&gt;* is the tenant ID of your Azure client application as de
 
 The data from Azure is pulled into your CMDB.
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]

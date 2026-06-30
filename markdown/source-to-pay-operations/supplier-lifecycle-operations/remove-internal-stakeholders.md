@@ -14,21 +14,21 @@ breadcrumb: [Manage internal stakeholders, Using Source-to-Pay Workspace, Use, S
 
 # Remove internal stakeholders from the Source-to-Pay Workspace
 
-Remove non-essential internal stakeholders from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Remove non-essential internal stakeholders from the Source-to-Pay Workspace.
 
 ## Before you begin
 
 Role required: sn\_slm.owner, sn\_slm.manager, sn\_slm.admin
 
-**Note:** Users with the sn\_slm.owner role can remove stakeholders only for the suppliers that they manage. Users with sn\_slm.manager and sn\_slm.admin roles can remove stakeholders for any [[supplier|supplier]].
+**Note:** Users with the sn\_slm.owner role can remove stakeholders only for the suppliers that they manage. Users with sn\_slm.manager and sn\_slm.admin roles can remove stakeholders for any supplier.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under Quick Actions, select **Manage my suppliers**.
 
-3.  Select the legal name of the supplier for which you want to [[create-supplier|add a supplier]] contact.
+3.  Select the legal name of the supplier for which you want to add a supplier contact.
 
     The supplier details page is displayed.
 
@@ -49,9 +49,3 @@ Selected stakeholders are removed from the list of internal stakeholders.
 
 **Parent Topic:**[Manage internal stakeholders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/manage-internal-stakeholders.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[create-supplier|Add a supplier]]

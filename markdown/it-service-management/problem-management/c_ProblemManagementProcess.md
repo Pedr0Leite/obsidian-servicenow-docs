@@ -14,7 +14,7 @@ breadcrumb: [Exploring Problem Management, Problem Management, IT Service Manage
 
 # Problem Management process
 
-Within the platform, problems are handled using the task record system. Each problem is generated as a task record through various means, and is populated with the pertinent information. These tasks are assigned to [[c_ProblemManagement|Problem Management]] team members to resolve and then close.
+Within the platform, problems are handled using the task record system. Each problem is generated as a task record through various means, and is populated with the pertinent information. These tasks are assigned to Problem Management team members to resolve and then close.
 
 ## Identify and log problems
 
@@ -39,7 +39,7 @@ The platform provides escalations rules to ensure that problems are handled prom
 
 ## Resolve problems
 
-If a problem needs a change request to be resolved, it is possible to request a change that goes through the [[c_ITILChangeManagement|change management]] process. After requesting a change, the problem appears on a related list on the Change Request form.
+If a problem needs a change request to be resolved, it is possible to request a change that goes through the change management process. After requesting a change, the problem appears on a related list on the Change Request form.
 
 **Note:** For Madrid Best Practices: The problem coordinator, whom the Problem is assigned to, is notified when all related change requests are completed or canceled.
 
@@ -55,7 +55,3 @@ A problem task is the smallest unit of work that you should perform to complete 
 
 **Parent Topic:**[Exploring Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/exploring-problem-management.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ITILChangeManagement|Change Management]]

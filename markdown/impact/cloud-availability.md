@@ -28,8 +28,5 @@ See which data center is available and if there is an outage or a specific trend
 
 Go directly to Instance Observer, view summaries of the availability, and details of the last 90 days service issues.
 
-**Parent Topic:**[[io-availability|Availability]]
+**Parent Topic:**[Availability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-availability.md)
 
-## Related
-
-- [[io-availability|Availability]]

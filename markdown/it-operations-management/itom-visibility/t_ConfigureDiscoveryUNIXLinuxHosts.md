@@ -14,7 +14,7 @@ breadcrumb: [Configure discovery of hosts with attached storage, Storage discove
 
 # Configure Discovery for UNIX or Linux hosts with attached storage
 
-[[r-discovery|Discovery]] can find information about a UNIX or Linux host and attached storage.
+Discovery can find information about a UNIX or Linux host and attached storage.
 
 ## Before you begin
 
@@ -30,14 +30,10 @@ Role required: discovery\_admin
 
 4.  Create a behavior that uses a functionality definition with a wbem port probe to make the initial port-scanning phase \(Shazzam\) more efficient.
 
-5.  Run [[c_NetworkDiscovery|network discovery]].
+5.  Run network discovery.
 
     **Note:** If the host also connects to a NAS or SAN storage array, set up the [SMI-S Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/t_ConfigDiscoForStandaloneStorage.md) and [CIM credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_CIMCredentialsForm.md).
 
 
 **Parent Topic:**[Configure discovery of hosts with attached storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/configure-discovery-of-hosts-with-attached-storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_NetworkDiscovery|Network discovery]]

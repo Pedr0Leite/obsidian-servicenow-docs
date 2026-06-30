@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Crisis map, Manage, Business Continuity Ma
 
 # Manage alerts from the map interface
 
-Manage alerts from the [[threats-feeds-alerts-crisis-map|Crisis map interface]] to identify threats and their geo-locations relative to your assets. You can open alerts for details, dismiss them when resolved, adjust the impacted area boundaries, or undo recent changes.
+Manage alerts from the Crisis map interface to identify threats and their geo-locations relative to your assets. You can open alerts for details, dismiss them when resolved, adjust the impacted area boundaries, or undo recent changes.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The Crisis map interface has been optimized to handle over 10,000 resources and 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select the **Crisis map** icon in the [[list-view-uib-ws|list view]].
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** and select the **Crisis map** icon in the list view.
 
 2.  Select an alert record.
 
@@ -81,10 +81,5 @@ The Crisis map interface has been optimized to handle over 10,000 resources and 
     5.  To revert the impacted area, select the **More options** icon and select **Revert impacted area**.
 
 
-**Parent Topic:**[[crisis-map-collective-tasks|Structured workflows for Crisis map]]
+**Parent Topic:**[Structured workflows for Crisis map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/crisis-map-collective-tasks.md)
 
-## Related
-
-- [[crisis-map-collective-tasks|Structured workflows for Crisis map]]
-- [[threats-feeds-alerts-crisis-map|Crisis map interface]]
-- [[list-view-uib-ws|List view]]

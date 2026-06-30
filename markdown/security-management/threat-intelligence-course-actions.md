@@ -18,10 +18,10 @@ Course of actions describes technical or automated responses \(applying patches,
 
 For example, a course of action to mitigate a vulnerability could describe applying the patch that fixes it.
 
--   **[[define-course-action|Define a course of action]]**  
+-   **[Define a course of action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/define-course-action.md)**  
 Define a course of action to prevent an attack or to respond to an attack that is in progress.
 
-**Parent Topic:**[[ioc-repository|IoC Repository]]
+**Parent Topic:**[IoC Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/ioc-repository.md)
 
 **Related topics**  
 
@@ -72,7 +72,3 @@ Define a course of action to prevent an attack or to respond to an attack that i
 
 [STIX Visualizer]()
 
-## Related
-
-- [[define-course-action|Define a course of action]]
-- [[ioc-repository|IoC Repository]]

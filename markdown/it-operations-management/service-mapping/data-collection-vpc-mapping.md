@@ -14,9 +14,9 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Data collection and discovery using VPC Flow Logs
 
-[[c_ServiceMappingOverview|Service Mapping]] can perform [[r-discovery|discovery]] based on data collected using VPC Flow Logs. Amazon VPC hosts Amazon Elastic Compute Cloud \(EC2\) instances that provide Amazon Web Services. VPC Flow Logs collect data on IP traffic going to and from network interfaces in the VPC.
+Service Mapping can perform discovery based on data collected using VPC Flow Logs. Amazon VPC hosts Amazon Elastic Compute Cloud \(EC2\) instances that provide Amazon Web Services. VPC Flow Logs collect data on IP traffic going to and from network interfaces in the VPC.
 
-In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by [[service-mapping-setup|configuring Service Mapping]] to use VPC Flow Logs.
+In base systems, which are the default or standard configurations, traffic-based discovery relies solely on TCP-related data collected using the **netstat**, **ss**, and **lsof** commands. Discovery based on Netflow and VPC logs requires additional configuration. You can enrich your traffic-based discovery by configuring Service Mapping to use VPC Flow Logs.
 
 Service Mapping discovery based on VPC Flow logs has the following flow:
 
@@ -44,8 +44,3 @@ In deployments with multiple flow log groups, configure a dedicated connector th
 
 [Traffic-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/traffic-based-discovery.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[service-mapping-setup|Configuring Service Mapping]]

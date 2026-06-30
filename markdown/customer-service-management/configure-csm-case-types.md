@@ -18,13 +18,13 @@ Configure case types to handle different types of customer issues. A case type i
 
 Role required: csm\_guided\_setup\_user or admin
 
-To be compatible with [[csm-workspaces-configure|CSM Configurable Workspace]], Case Types must be version 4.0 or later.
+To be compatible with CSM Configurable Workspace, Case Types must be version 4.0 or later.
 
 ## About this task
 
-For each case type, you create a table that extends the Case table and configure a number of items, such as business [[gamification-components-rules|rules]] and client scripts, that drive customer issues of this type from creation to resolution. When creating cases, agents can select the case type that corresponds to the customer issue.
+For each case type, you create a table that extends the Case table and configure a number of items, such as business rules and client scripts, that drive customer issues of this type from creation to resolution. When creating cases, agents can select the case type that corresponds to the customer issue.
 
-There are a sequence of tasks that enable you to configure case types for [[c_CustomerServiceManagement|Customer Service Management]]. To [[configure-pcso|configure Proactive Customer Service Operations]], use the Customer Service guided setup. The guided setup takes you through the entire setup and configuration process.
+There are a sequence of tasks that enable you to configure case types for Customer Service Management. To configure Proactive Customer Service Operations, use the Customer Service guided setup. The guided setup takes you through the entire setup and configuration process.
 
 ## Procedure
 
@@ -80,7 +80,7 @@ Set Up UI Policies
 
 UI policies dynamically change the behavior of information on a form, such as setting a field to read-only or making a field mandatory. The case type inherits the following UI policies from the Case table:-   Show or hide major case information section
 -   Make Partner Contact Read only If Partner is empty
-You can configure additional UI policies for the [[customer-service-case-type-form|Case Type form]].
+You can configure additional UI policies for the Case Type form.
 
 </td></tr><tr><td>
 
@@ -89,7 +89,7 @@ Set Up Client Scripts
 </td><td>
 
 Client scripts allow the system to run JavaScript on the client when client-based events occur, such as when a form loads or when a field changes value. The case type inherits the following client scripts from the Case table: -   Empty Partner Contact on Partner Change
--   Empty [[r_CustomerServiceCaseForm|Case Form]] on Account Change
+-   Empty Case Form on Account Change
 -   Hide Request Related List
 -   Hide SM section and list if no plugin
 -   Hide Related Records Section
@@ -105,11 +105,11 @@ A business rule is a server-side script that runs when a record is displayed, in
 
 </td></tr><tr><td>
 
-Set Up Case Type [[migration-form-declarative-actions|declarative actions]]
+Set Up Case Type declarative actions
 
 </td><td>
 
-Declarative actions include the buttons, links, and context menu items that appear on [[migration-lists|lists]] and [[migration-forms|forms]]. A case type inherits the declarative actions from the Case table. You have the following options when setting up declarative actions for a case type:
+Declarative actions include the buttons, links, and context menu items that appear on lists and forms. A case type inherits the declarative actions from the Case table. You have the following options when setting up declarative actions for a case type:
 
 -   Create new declarative actions for the case type. If you create a new declarative action, select the Case Type table in the **Table** field on the declarative action form.
 -   Use any of the inherited case declarative actions.
@@ -118,7 +118,7 @@ You can also block any inherited case declarative actions that you do not want. 
 
 </td></tr><tr><td>
 
-Make sure that the sn\_csm\_case\_types.enable\_service\_selector property which enables the [[csm-case-type-select-modals|case type selector]] is set to true.
+Make sure that the sn\_csm\_case\_types.enable\_service\_selector property which enables the case type selector is set to true.
 
 </td><td>
 
@@ -141,12 +141,12 @@ The Case Type table extends the Application File table \(sys\_metadata\). This t
  After creating and saving the case type definition record, you can configure the following process information for the case type using the related lists on the Case Type form:
 
 -   State flows
--   [[c_OnScreenAlerts|Special handling notes]]
+-   Special handling notes
 -   SLAs
 -   Email templates
 -   Quick messages
 -   Reports
-For more information, see [[manage-csm-case-types|Manage customer service case types]].
+For more information, see [Manage customer service case types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/manage-csm-case-types.md).
 
 **Note:** These related lists only display information for the new case type. They do not include information for the base case.
 
@@ -187,7 +187,7 @@ When creating a case of a specific type, an agent clicks **Create Case** and the
  -   The Customer Service plugin provides a **Create Case** declarative action that agents can use as follows:
     -   To create a base case.
     -   To create a case for one specific case type. For example, if your organization always creates the same type of case and you have created only one extension of the Case table, you can modify this declarative action to create a case of that specific case type.
--   The [[customer-service-case-types|Customer Service Case Types]] plugin also provides a **Create Case** declarative action that agents can use to create a case based on a selected case type. After clicking this declarative action to create a case, the agent selects the desired case type from a list of multiple available case types.
+-   The Customer Service Case Types plugin also provides a **Create Case** declarative action that agents can use to create a case based on a selected case type. After clicking this declarative action to create a case, the agent selects the desired case type from a list of multiple available case types.
  **Note:** It is recommended that you configure one of the **Create Case** declarative actions but not both to avoid confusion.
 
 </td></tr><tr><td>
@@ -204,9 +204,9 @@ Set Up Case Digest for Case Types
 
 </td><td>
 
-The case digest feature enables agents to proactively communicate with customers and internal stakeholders about cases. While a case is in progress, agents can send periodic case summaries that describe actions taken, next steps, and other case-related information. When the work on a case has been completed, agents can [[create-case-review-document|create a post case review]] that includes information such as the root cause, mitigation plan, and preventive actions.**Note:** Using case types with the case digest feature requires the Customer Service Case Types plugin \(com.snc.csm\_case\_types\) and the Case Digests plugin \(com.sn\_csm\_case\_digest\).
+The case digest feature enables agents to proactively communicate with customers and internal stakeholders about cases. While a case is in progress, agents can send periodic case summaries that describe actions taken, next steps, and other case-related information. When the work on a case has been completed, agents can create a post case review that includes information such as the root cause, mitigation plan, and preventive actions.**Note:** Using case types with the case digest feature requires the Customer Service Case Types plugin \(com.snc.csm\_case\_types\) and the Case Digests plugin \(com.sn\_csm\_case\_digest\).
 
- Cases that are created from a selected case type can use [[case-digest-case-action-summary|Case Action Summaries]] and [[case-digest-post-case-review|Post Case Reviews]]. To create the mapping that identifies the case type fields that are copied to Post Case Review and Case Action Summary records:
+ Cases that are created from a selected case type can use Case Action Summaries and Post Case Reviews. To create the mapping that identifies the case type fields that are copied to Post Case Review and Case Action Summary records:
 
 -   Create a configuration for the desired case type. Navigate to **Case Digests** &gt; **Configuration** and click **New**.
 -   Create new records in the CSM Table Map table \(csm\_table\_map\) to map the **Send Case Action Summary** and **Create Post Case Review** declarative actions.
@@ -214,7 +214,7 @@ The case digest feature enables agents to proactively communicate with customers
 
 </td></tr><tr><td>
 
-Set Up [[osp-contextual-search|Contextual Search]] for Case Types
+Set Up Contextual Search for Case Types
 
 </td><td>
 
@@ -230,7 +230,7 @@ To configure Agent Workspace differently for each case type, follow the Agent Wo
 -   Notifications
 -   Highlighted values
 -   Ribbon settings
--   [[migration-form-headers|Form headers]]
+-   Form headers
 -   Action assignments
 
 
@@ -251,29 +251,7 @@ Configure the fields that a customer can see when they view a case on the Custom
 **Related topics**  
 
 
-[[enable-case-type-single-select-prop|Enable the case type single select property]]
+[Enable the case type single select property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-case-type-single-select-prop.md)
 
-[[create-case-type-single-selection|Create a configuration for case type single-select]]
+[Create a configuration for case type single-select](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-type-single-selection.md)
 
-## Related
-
-- [[manage-csm-case-types|Manage customer service case types]]
-- [[enable-case-type-single-select-prop|Enable the case type single select property]]
-- [[create-case-type-single-selection|Create a configuration for case type single-select]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-rules|Rules]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[configure-pcso|Configure Proactive Customer Service Operations]]
-- [[customer-service-case-type-form|Case Type form]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[migration-lists|Lists]]
-- [[migration-forms|Forms]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[customer-service-case-types|Customer service case types]]
-- [[create-case-review-document|Create a post case review]]
-- [[case-digest-case-action-summary|Case action summaries]]
-- [[case-digest-post-case-review|Post case reviews]]
-- [[osp-contextual-search|Contextual search]]
-- [[migration-form-headers|Form headers]]

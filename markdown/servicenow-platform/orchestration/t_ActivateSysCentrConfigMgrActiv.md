@@ -14,7 +14,7 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 # Request SCCM activities
 
-The Orchestration - System Center Configuration Manager plugin installs the [[c_SCCMActivityPack|SCCM activity pack]] that deploys software from an SCCM host and manages user and device collections.
+The Orchestration - System Center Configuration Manager plugin installs the SCCM activity pack that deploys software from an SCCM host and manages user and device collections.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-The SCCM plugin is activated automatically when the Orchestration - [[c_ClientSoftwareDistribution|Client Software Distribution]] \[com.snc.orchestration.sccm\_mgnt\] plugin is activated, but can be activated separately.
+The SCCM plugin is activated automatically when the Orchestration - Client Software Distribution \[com.snc.orchestration.sccm\_mgnt\] plugin is activated, but can be activated separately.
 
 **Note:** The activities in the SCCM plugin run in the System Center Configuration Manager scope.
 
@@ -58,7 +58,7 @@ Which plugin would you like to activate
 
 Select the name of the plugin to activate.
 
- **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** [[check-box|check box]]. Enter the plugin name in the field that appears.
+ **Note:** If the plugin isn't listed, or if you're activating on an OEM or on-premise instance, select the **Plugin I'm looking for is not listed** check box. Enter the plugin name in the field that appears.
 
 </td></tr><tr id="date-time"><td>
 
@@ -78,8 +78,3 @@ Select the date and time to activate the plugin.
 
 **Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)
 
-## Related
-
-- [[c_SCCMActivityPack|SCCM activity pack]]
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[check-box|Check box]]

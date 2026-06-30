@@ -12,8 +12,5 @@ breadcrumb: [Reference, Public Sector Digital Services \(PSDS\)]
 
 # Public Sector Grants Management reference
 
-Reference tables and forms for configuring and [[psds-using-grants-management-playbook|using Grants Management]] capabilities.
+Reference tables and forms for configuring and using Grants Management capabilities.
 
-## Related
-
-- [[psds-using-grants-management-playbook|Using Grants Management]]

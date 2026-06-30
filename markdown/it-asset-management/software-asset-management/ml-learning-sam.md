@@ -16,7 +16,7 @@ breadcrumb: [Software discovery and normalization, Exploring Software Asset Mana
 
 Use machine learning to improve your normalization rates in real time by normalizing your unrecognized discovered software.
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application uses machine learning to improve normalization of discovery [[c_Models|models]]. The prediction values currently supported by machine learning are version, full version, and edition.
+The Software Asset Management application uses machine learning to improve normalization of discovery models. The prediction values currently supported by machine learning are version, full version, and edition.
 
 Opt in for machine learning normalization by activating the Software Asset Management – Machine Learning Normalization \(com.sn\_sam\_ml\_normalization\) plugin. Starting with the Australia release, machine learning normalization capabilities are available to regulated markets for ServiceNow Protected Platform \(SPP\) in Singapore \(SG\) and Australia \(AU\).
 
@@ -24,7 +24,7 @@ Once the plugin is activated, ensure that the **Enable ML Normalization for disc
 
 The scheduled job, `SAM-Normalize discovery models using content library rules`, triggers on a daily basis and normalizes the discovery models based on the content rules. This scheduled job runs irrespective of whether the Software Asset Management – Machine Learning Normalization plugin is activated or not. If this plugin is activated, then the partially normalized discovery models are picked up by another scheduled job, `SAM-Normalize discovery models using machine learning`. The scheduled job, `SAM-Normalize discovery models using content library rules` is enhanced to invoke the on-demand scheduled job, `SAM-Normalize discovery models using machine learning` and also validates machine learning predictions.
 
-Once the scheduled job, `SAM-Normalize discovery models using machine learning` is complete, you can view the updated values in the following machine learning based columns in the [[sam-software-discovery|Software Discovery]] Model \[cmdb\_sam\_sw\_discovery\_model\] table:
+Once the scheduled job, `SAM-Normalize discovery models using machine learning` is complete, you can view the updated values in the following machine learning based columns in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table:
 
 -   ML prediction values: Indicates the predicted values for the attributes.
 -   ML model version: Indicates the model version that was used for predicting the attributes.
@@ -92,8 +92,3 @@ Partially normalized
 
 **Parent Topic:**[Software discovery and normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMDiscovery.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]
-- [[sam-software-discovery|Software discovery]]

@@ -35,7 +35,7 @@ You can create application‑restricted caller access limited to inbound updates
     |Field|Description|
     |-----|-----------|
     |Source Scope|Scope of the calling application. Select the application from the list.|
-    |Application|Scope of the ServiceNow application where this routing rule applies. This field is automatically set to [[workplace-case-mgmt-feat|Workplace Case Management]].|
+    |Application|Scope of the ServiceNow application where this routing rule applies. This field is automatically set to Workplace Case Management.|
     |Source Type|Type of record that is calling the application resource. Select **Scope**.|
     |Target Scope|Scope of the requested resource. Select **Workplace Case Management**.|
     |Status|Status of the access request. Select **Allowed**.|
@@ -44,6 +44,4 @@ You can create application‑restricted caller access limited to inbound updates
 
 4.  Select **Submit**.
 
-## Related
 
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

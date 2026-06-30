@@ -82,7 +82,7 @@ Condition
 
 </td><td>
 
-Defines the conditions under which this panel is viewable. For example, you can [[configure-onboarding-modals|configure]] this panel to display only when a specific plugin is activated.
+Defines the conditions under which this panel is viewable. For example, you can configure this panel to display only when a specific plugin is activated.
 
 </td></tr><tr><td>
 
@@ -133,9 +133,5 @@ Text describing what is shown in the image for this panel. This content appears 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[overview-help-pages|Overview help pages]]
+**Parent Topic:**[Overview help pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/overview-help-pages.md)
 
-## Related
-
-- [[overview-help-pages|Overview help pages]]
-- [[configure-onboarding-modals|Configure]]

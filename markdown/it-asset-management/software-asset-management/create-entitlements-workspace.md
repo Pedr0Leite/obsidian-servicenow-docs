@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create entitlements in workspace
 
-Create entitlements in the [[sam-workspace|Software Asset Workspace]] to enter your license details and allocate purchased software rights to users or devices.
+Create entitlements in the Software Asset Workspace to enter your license details and allocate purchased software rights to users or devices.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ These instructions are for using the standard form for creating software entitle
 
 When you start creating the entitlement it is in the **build** status. Once you publish the entitlement, the status changes to **in use** and makes the entitlement eligible to be included in the reconciliation process.
 
-If you installed [[sam-subscription-management|SaaS License Management]], a software model is generated automatically after you create an integration profile. Create an entitlement for the software model to track software used against software owned.
+If you installed SaaS License Management, a software model is generated automatically after you create an integration profile. Create an entitlement for the software model to track software used against software owned.
 
 if you installed the SAP publisher pack, see [Create entitlements for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-sap.md).
 
@@ -48,17 +48,17 @@ Role required: sam\_admin or sam\_user
 
 5.  Select **Save**.
 
-    After you save the entitlement, the **Allocations**, **General**, **Financial**, and **[[c_Contracts|Contracts]]** tabs appear on the page. You can now add details in these related tabs.
+    After you save the entitlement, the **Allocations**, **General**, **Financial**, and **Contracts** tabs appear on the page. You can now add details in these related tabs.
 
 6.  Once you have entered the required details, select **Publish**.
 
     The entitlement is created and state of the entitlement is changed to **in use** from **build**. The entitlement is ready to be picked up for the reconciliation process.
 
-    You can perform additional configuration on the new entitlement by entering details in the other tabs such as Contracts, [[downgrade-rights|Downgrade Rights]], Expense Lines, Entitlement History. For a detailed description of the fields in these tabs, see [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md).
+    You can perform additional configuration on the new entitlement by entering details in the other tabs such as Contracts, Downgrade Rights, Expense Lines, Entitlement History. For a detailed description of the fields in these tabs, see [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md).
 
 
 -   **[Create maintenance entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-maint-entitlements-workspace.md)**  
-Define license details, for all publishers other than Microsoft in the Software Asset Workspace. Create maintenance entitlements to manage all your [[software-license-maintenance|software license maintenance]] needs such as start and end dates of your contracts and software upgrades.
+Define license details, for all publishers other than Microsoft in the Software Asset Workspace. Create maintenance entitlements to manage all your software license maintenance needs such as start and end dates of your contracts and software upgrades.
 -   **[Create Microsoft Software Assurance entitlements in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-sa-entitlements-workspace.md)**  
 Define license details for Microsoft Software Assurance \(SA\) in the Software Asset Workspace to manage your contracts start and end dates, software upgrades, and related software entitlements.
 
@@ -71,10 +71,3 @@ Define license details for Microsoft Software Assurance \(SA\) in the Software A
 
 [Create device allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-device-allocation.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_Contracts|Contracts]]
-- [[downgrade-rights|Downgrade Rights]]
-- [[software-license-maintenance|Software license maintenance]]

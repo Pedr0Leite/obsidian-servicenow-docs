@@ -14,7 +14,7 @@ breadcrumb: [Project import from Microsoft Project, Importing and exporting proj
 
 # Import a Microsoft Project file with the Import module
 
-Use the Import module to import a Microsoft project file as a new project into the [[c_ProjectApplicationOverview|Project Management]] application.
+Use the Import module to import a Microsoft project file as a new project into the Project Management application.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Before importing a Microsoft Project file into the ServiceNow instance, consider
 
     **Note:** You can also use the Scripted Extension Points for importing custom fields without creating and mapping the custom fields manually. Use the MSProjectImportTaskFormatter Extension Point to create a script include and map custom fields in Microsoft Project and ServiceNow. You can also use this Extension Point to modify the data while importing a project.
 
--   If the calculation type is set as **Manual**, recalculation does not happen on [[t_CreateAProjectTask|project tasks]] when they are imported from the Microsoft Project file. Once the project is in the ServiceNow system, it would be treated as a manual project.
+-   If the calculation type is set as **Manual**, recalculation does not happen on project tasks when they are imported from the Microsoft Project file. Once the project is in the ServiceNow system, it would be treated as a manual project.
 -   Importing a Microsoft Project project with inter-project dependencies, does not import the shadow tasks.
 -   Only the subprojects \(header and parent task\) get imported into the ServiceNow instance, the child tasks are not imported.
 -   While importing a Microsoft Project file into ServiceNow, the import fails:
@@ -72,7 +72,7 @@ Before importing a Microsoft Project file into the ServiceNow instance, consider
 
 ## Result
 
--   A project task that was imported in ServiceNow instance earlier and has associated [[c_TimeCards|time cards]], [[c_ResourcePlans|resource plans]], cost plan, benefit plan, or expense lines is retained on reimport even if it is deleted from Microsoft Project.
+-   A project task that was imported in ServiceNow instance earlier and has associated time cards, resource plans, cost plan, benefit plan, or expense lines is retained on reimport even if it is deleted from Microsoft Project.
 -   Dates in the ServiceNow project remain same as the dates in the Microsoft Project file.
 -   In a ServiceNow project with subprojects, the following details change:
     -   The WBS order of imported tasks is regenerated after import.
@@ -87,9 +87,3 @@ Before importing a Microsoft Project file into the ServiceNow instance, consider
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_TimeCards|Time cards]]
-- [[c_ResourcePlans|Resource plans]]

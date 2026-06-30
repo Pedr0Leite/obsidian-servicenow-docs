@@ -15,13 +15,13 @@ breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conve
 
 # Create chat surveys
 
-Use Survey Designer to build conversational questionnaires for gathering pre-chat information and post-chat feedback from end users. These questionnaires run in the chat client for [[virtual-agent-landing-page|Virtual Agent]] and [[ci-use-agent-chat|Agent Chat]].
+Use Survey Designer to build conversational questionnaires for gathering pre-chat information and post-chat feedback from end users. These questionnaires run in the chat client for Virtual Agent and Agent Chat.
 
 ## Before you begin
 
-Identify the information that you want from your requesters, such as their name or email address. If you're collecting pre-chat information, determine whether certain survey responses should be stored as chat context variables so that you can use that information for topic discovery or routing chats to certain [[awa-queues|work item queues]]. Before you build your survey, [[ac-configure-context-variables|configure the context variables]] for storing responses to certain survey questions. You will map these chat context variables to the appropriate questions in your survey.
+Identify the information that you want from your requesters, such as their name or email address. If you're collecting pre-chat information, determine whether certain survey responses should be stored as chat context variables so that you can use that information for topic discovery or routing chats to certain work item queues. Before you build your survey, [configure the context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md) for storing responses to certain survey questions. You will map these chat context variables to the appropriate questions in your survey.
 
-**Note:** When [[nava-enhanced-chat|enhanced chat]] is turned on, post-[[ci-conversational-chat-surveys|chat surveys]] only appear after a live agent conversation has ended.
+**Note:** When enhanced chat is turned on, post-chat surveys only appear after a live agent conversation has ended.
 
 Role required: survey\_admin or admin
 
@@ -84,14 +84,5 @@ The survey controls map to corresponding Virtual Agent Designer input controls t
 
 Define the pre-chat and post-chat survey configurations that control the surveys to be presented to your requesters.
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[ci-configuring-chat-features|General chat settings]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[awa-queues|Work item queues]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[ci-conversational-chat-surveys|Chat surveys]]

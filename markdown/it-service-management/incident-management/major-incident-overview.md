@@ -18,11 +18,11 @@ Major Incident Overview module provides two versions of the Performance Analytic
 
 **Important:**
 
-Starting in Xanadu release, the Major incident overview dashboard is deprecated. Users can use [[major-incident|Major incident dashboard]] to view the process and communication related metrics for Open and Closed major incidents.
+Starting in Xanadu release, the Major incident overview dashboard is deprecated. Users can use [Major incident dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/major-incident.md) to view the process and communication related metrics for Open and Closed major incidents.
 
 Users with itil, sn\_incident\_write, major\_incident\_manager or communication\_manager role can access the dashboard.
 
-The two versions of the Performance Analytics \(PA\) Dashboard are normal and premium. You must activate the [[c_IncidentManagement|Incident Management]] - Major Incident Management plugin \(com.snc.incident.mim\) to view the normal dashboard. To access the premium version of Major Incident Overview dashboard, activate Performance Analytics – Content Pack for Major Incident Management \(com.snc.pa.incident.mim\).
+The two versions of the Performance Analytics \(PA\) Dashboard are normal and premium. You must activate the Incident Management - Major Incident Management plugin \(com.snc.incident.mim\) to view the normal dashboard. To access the premium version of Major Incident Overview dashboard, activate Performance Analytics – Content Pack for Major Incident Management \(com.snc.pa.incident.mim\).
 
 You can navigate to the dashboard in the following ways:
 
@@ -129,7 +129,7 @@ Tabs
 
 </td><td>
 
--   **Major Incidents Nearing Breach**: Number of [[process-misingle|active major incidents]] where the Major incident state is **Accepted** and the response or resolution SLA has reached 75% of the allotted time.
+-   **Major Incidents Nearing Breach**: Number of active major incidents where the Major incident state is **Accepted** and the response or resolution SLA has reached 75% of the allotted time.
 -   **Major Incidents Overdue**: Number of active major incidents where the Major incident state is **Accepted** and the response or resolution SLA has breached.
 -   **Unassigned Major Incidents**: Number of active major incidents where **Assigned to** is empty.
 -   **Open Major Incidents**: Major incidents which are open and has major incident state as **Accepted**.
@@ -164,8 +164,3 @@ Major Incident Overview – Premium provides the following additional functions:
 
 [Major incident workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/major-incident-workbench.md)
 
-## Related
-
-- [[major-incident|Major incident dashboard]]
-- [[c_IncidentManagement|Incident Management]]
-- [[process-misingle|Active major incidents]]

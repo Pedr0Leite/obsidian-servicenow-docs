@@ -28,18 +28,14 @@ When a team is added to a feed, all members of the team also indirectly become m
 
 1.  Navigate to **Live Feed** &gt; **Live Feed**.
 
-2.  Click either **Group Feeds** or **[[c_RecordFeeds|Record Feeds]]**, and then select the feed name.
+2.  Click either **Group Feeds** or **Record Feeds**, and then select the feed name.
 
 3.  Click the **Pending members** tab.
 
 4.  In the **Add user or team** field, begin entering a user or team name and select a user or team from the suggestion list.
 
-    The invited user or team members receive an [[email|email]] notification.
+    The invited user or team members receive an email notification.
 
 
 **Parent Topic:**[Use feeds in Live Feed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_UseFeedsInLiveFeed.md)
 
-## Related
-
-- [[c_RecordFeeds|Record feeds]]
-- [[email|Email]]

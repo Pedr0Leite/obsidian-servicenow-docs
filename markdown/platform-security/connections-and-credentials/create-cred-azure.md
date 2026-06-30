@@ -30,7 +30,7 @@ To store an Azure credential, first create an Azure credential template in the C
 
 2.  Navigate to the **Administration** tab.
 
-3.  In **System [[sc-configuration|Configuration]]**, edit **Platform Management**.
+3.  In **System Configuration**, edit **Platform Management**.
 
 4.  Navigate to **Cloud Provider Template** and duplicate it.
 
@@ -59,6 +59,3 @@ To store an Azure credential, first create an Azure credential template in the C
 
 **Parent Topic:**[CyberArk integration configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkIntegrationConfiguration.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]

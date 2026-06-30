@@ -21,14 +21,14 @@ Copy and activate the generative AI DocIntel flow to enable AI-powered invoice p
 
 Role required: admin
 
-Scope: [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]].
+Scope: Accounts Payable Operations integration with Document Intelligence.
 
 Plugins required:
 
 -   Now assist in Document Intelligence
 -   Account Payable Invoice Processing
 -   Now assist for Account Payable Operations
--   Document Intelligence for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] Content Pack
+-   Document Intelligence for Accounts Payable Operations Content Pack
 
 ## About this task
 
@@ -46,7 +46,4 @@ Plugins required:
 
     The **DocIntel Extract Values Flow - Invoice Processing - Gen AI - Invoice Processing - Gen AI Integration** is copied and activated successfully.
 
-## Related
 
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

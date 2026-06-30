@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Management classic, Software Asset Management,
 
 # Add a custom software product in Software Asset Management classic
 
-If a software product does not exist in the Software Library, you can [[add-custom-hardware-model|add a custom product]]. Custom products enable you to normalize and account for homegrown software, or software that is not yet part of the Software Library.
+If a software product does not exist in the Software Library, you can add a custom product. Custom products enable you to normalize and account for homegrown software, or software that is not yet part of the Software Library.
 
 ## Before you begin
 
@@ -102,6 +102,3 @@ Option that indicates the rule is active.
 </table>
 **Parent Topic:**[Using Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-classic.md)
 
-## Related
-
-- [[add-custom-hardware-model|Add a custom product]]

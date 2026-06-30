@@ -16,13 +16,13 @@ You can set target values for indicators that apply only to specific breakdown e
 
 ## Before you begin
 
-Role required: pa\_target\_admin to create global targets that are visible to all users. Any user who can view an indicator on [[kpi-details|KPI Details]] can view targets and create personal targets. Personal targets and thresholds are visible on KPI Details only to the user that created them.
+Role required: pa\_target\_admin to create global targets that are visible to all users. Any user who can view an indicator on KPI Details can view targets and create personal targets. Personal targets and thresholds are visible on KPI Details only to the user that created them.
 
-A responsible user can create a global target to replace the target they are responsible for, regardless of role. For more information, see [[responsibiity-targets-kpi-details|Responsibility for indicator targets]].
+A responsible user can create a global target to replace the target they are responsible for, regardless of role. For more information, see [Responsibility for indicator targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/responsibiity-targets-kpi-details.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Indicators**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Indicators**.
 
 2.  Locate the indicator and interact with its name to launch KPI Details for that indicator.
 
@@ -30,7 +30,7 @@ A responsible user can create a global target to replace the target they are res
 
     For a Data snapshots indicator, you can select multiple breakdowns. For a classic indicator, you can select up to two if a breakdown matrix is enabled on the indicator.
 
-    **Note:** To add targets for multiple breakdown elements, see [[add-multiple-targets|Add a target to multiple breakdown elements in KPI Details]].
+    **Note:** To add targets for multiple breakdown elements, see [Add a target to multiple breakdown elements in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-multiple-targets.md).
 
 4.  If you want the target to apply to a specific time series aggregation, select the time series.
 
@@ -48,7 +48,7 @@ A responsible user can create a global target to replace the target they are res
 
     You see all the existing global or personal targets on this indicator that apply to whichever breakdown elements or time series you selected. You can select and deselect breakdown elements or a time series interactively, and the list of targets updates.
 
-    **Note:** Instead of creating a new target, you can edit one of these existing targets. Select the tile for a target to edit that target. You can only change the absolute value of the target and the start and review dates. For more sophisticated target editing, see [[edit-multiple-targets|Edit multiple targets in KPI Details]].
+    **Note:** Instead of creating a new target, you can edit one of these existing targets. Select the tile for a target to edit that target. You can only change the absolute value of the target and the start and review dates. For more sophisticated target editing, see [Edit multiple targets in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-multiple-targets.md).
 
 8.  In the **Based on** field, select either **New value**, **Average score**, or **Previous target**.
 
@@ -99,7 +99,7 @@ Finally, you decide to put your target into effect on the beginning of the next 
 
 \[Omitted image "kpi-details-target-dates.png"\] Alt text: Create Target dialog showing start and review dates filled in.
 
-When you click **Save**, you create your target. For an example of what such a target looks like in KPI Details, see [[kpi-details-targets|Indicator targets and thresholds in KPI Details]].
+When you click **Save**, you create your target. For an example of what such a target looks like in KPI Details, see [Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md).
 
 ## What to do next
 
@@ -120,11 +120,3 @@ After you create a global target, make yourself or another user responsible for 
 
 [Responsibility for indicator targets]()
 
-## Related
-
-- [[responsibiity-targets-kpi-details|Responsibility for indicator targets]]
-- [[add-multiple-targets|Add a target to multiple breakdown elements in KPI Details]]
-- [[edit-multiple-targets|Edit multiple targets in KPI Details]]
-- [[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
-- [[kpi-details|KPI Details]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

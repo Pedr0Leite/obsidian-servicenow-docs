@@ -12,13 +12,13 @@ breadcrumb: [Notification Preferences, Notifications, Configure core features, A
 
 # Exploring preferences
 
-With notification preferences you can manage and choose the [[notifications|notifications]] you want to receive. Notification preferences enable you to set global preferences, search for notifications, enable and disable notifications, and customize the way you receive [[system-notifications-landing|system notifications]].
+With notification preferences you can manage and choose the notifications you want to receive. Notification preferences enable you to set global preferences, search for notifications, enable and disable notifications, and customize the way you receive system notifications.
 
 ## Notification preferences for Next Experience
 
-You can manage your own notification preferences for Next Experience, including personal notifications and channels for receiving them. With **Advanced Preferences** managing notification preferences in Next Experience is more efficient and also supports [[provider-notifications-landing|provider notifications]].
+You can manage your own notification preferences for Next Experience, including personal notifications and channels for receiving them. With **Advanced Preferences** managing notification preferences in Next Experience is more efficient and also supports provider notifications.
 
-For more information, see [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]].
+For more information, see [System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md).
 
 ## Notification preferences for Core UI
 
@@ -26,7 +26,7 @@ In the Core UI, you set personal notification preferences, including personal su
 
 **Note:** To switch to the Core UI from the Next Experience UI, set the property **glide.ui.polaris.core.notification\_preference.enabled** to true.
 
-For more information, see [[user-notification-preferences|Setting notification preferences in Core UI]].
+For more information, see [Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md).
 
 ## Notification preferences benefits
 
@@ -42,13 +42,5 @@ To learn more about configuring and using notification preferences, see:
 -   [System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 -   [Setting notification preferences in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-notification-preferences.md)
 
-**Parent Topic:**[[preferences-landing|Notification Preferences]]
+**Parent Topic:**[Notification Preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/preferences-landing.md)
 
-## Related
-
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[user-notification-preferences|Setting notification preferences in Core UI]]
-- [[preferences-landing|Notification Preferences]]
-- [[notifications|Notifications]]
-- [[system-notifications-landing|System notifications]]
-- [[provider-notifications-landing|Provider notifications]]

@@ -17,8 +17,5 @@ Configure settings related to Entity Management in Investigative Case Management
 **Related topics**  
 
 
-[[psds-config-icm-add-entity-type|Configure entity types in the Investigative Case Management Entity Management workspace]]
+[Configure entity types in the Investigative Case Management Entity Management workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-icm-add-entity-type.md)
 
-## Related
-
-- [[psds-config-icm-add-entity-type|Configure entity types in the Investigative Case Management Entity Management workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 # Components installed with Operational Technology Manager
 
-Several types of components may be installed with activation of the [[operational-technology-manager|Operational Technology Manager]] application, including user roles.
+Several types of components may be installed with activation of the Operational Technology Manager application, including user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -34,7 +34,7 @@ Industrial Core
 
 </td><td>
 
-Contains the class mappings needed for the OT Service Graph Connectors.For more information about the [[industrial-core-plugin|Industrial Core plugin]], see [Industrial Core plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md).
+Contains the class mappings needed for the OT Service Graph Connectors.For more information about the Industrial Core plugin, see [Industrial Core plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md).
 
 </td></tr></tbody>
 </table>## Roles installed
@@ -49,11 +49,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[operational-technology-discovery-landing|Operational Technology Discovery]] Administrator \[ot\_discovery\_admin\]
+Operational Technology Discovery Administrator \[ot\_discovery\_admin\]
 
 </td><td>
 
-Can run the Discovery for [[operational-technology-overview|Operational Technology]] process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [[run-discovery-for-operational-technology|Create an OT Discovery schedule and run the Discovery process]].
+Can run the Discovery for Operational Technology process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [Create an OT Discovery schedule and run the Discovery process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/run-discovery-for-operational-technology.md).
 
 </td></tr><tr><td>
 
@@ -82,10 +82,3 @@ Create, read, update, and delete access for Operational Technology \(OT\) device
 </td></tr></tbody>
 </table>**Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
-## Related
-
-- [[run-discovery-for-operational-technology|Create an OT Discovery schedule and run the Discovery process]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-core-plugin|Industrial Core plugin]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]
-- [[operational-technology-overview|Operational Technology]]

@@ -12,7 +12,7 @@ breadcrumb: [Quorum Controlled Certificate Revocation, Configure, Code Signing, 
 
 # Import the revocation request configuration
 
-Import the update set into the protected instance to initiate the certificate revocation process. Approvers receive [[email|email]] notifications and they should complete the approval workflow before the certificate is revoked. The approval means that the revocations are confirmed, authorized, and traceable for security and compliance purposes.
+Import the update set into the protected instance to initiate the certificate revocation process. Approvers receive email notifications and they should complete the approval workflow before the certificate is revoked. The approval means that the revocations are confirmed, authorized, and traceable for security and compliance purposes.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_cse.codesigning\_admin, sn\_cse.quorum\_requester, security\_
 
     The Import XML page appears.
 
-2.  Select **Choose file** and select the [[sc-configuration|configuration]] XML file from your local system.
+2.  Select **Choose file** and select the configuration XML file from your local system.
 
 3.  Select **Upload**.
 
-4.  Return to the [[code-signing-configuration|code signing configuration]] page at **All** &gt; **[[code-signing-landing|Code Signing]]** &gt; **Code Signing Configuration**.
+4.  Return to the code signing configuration page at **All** &gt; **Code Signing** &gt; **Code Signing Configuration**.
 
     1.  Review the following configuration files in the **Customer Updates in Batch** tab.
 
@@ -36,7 +36,7 @@ Role required: sn\_cse.codesigning\_admin, sn\_cse.quorum\_requester, security\_
         -   Code Signing Configuration Property \(`approver_email_ids`\)
         -   Code Signing Configuration Property \(`minimum_approvals`\)
         -   Code Signing Configuration Property\(`restart_mid_servers`\)
-        -   Code Signing Quorum [[c_requestAPI|Request]] \(`CSEQCxxxxxxx`\)
+        -   Code Signing Quorum Request \(`CSEQCxxxxxxx`\)
         -   Code Signing Transaction \(`CSETRANSxxxxxxx`\)
         -   KMF Signature Records
     2.  Select **Batch Update Set Preview** &gt; **Commit Update Set Batch**.
@@ -55,10 +55,4 @@ Role required: sn\_cse.codesigning\_admin, sn\_cse.quorum\_requester, security\_
 
 9.  Select **Approver details** and review the status of the quorum requests.
 
-## Related
 
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[code-signing-configuration|Code Signing Configuration]]
-- [[code-signing-landing|Code Signing]]
-- [[c_requestAPI|request]]

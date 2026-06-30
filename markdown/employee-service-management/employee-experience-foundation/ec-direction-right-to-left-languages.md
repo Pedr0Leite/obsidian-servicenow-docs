@@ -27,7 +27,7 @@ Role required: sp\_admin or admin
 Based on the selected language preferences, the entire hierarchy of existing infrastructure for styling left-to-right languages—the theme, page, widget, and widget instance SCSS—is converted to CSS for right-to-left languages.
 
 -   When the session language is a right-to-left language, for example Hebrew, the direction of the portal user interface displays from right to left.
--   The arrow next to View Org Chart in employee\_profile widget, View All in ec\_pro\_dashboard, employee taxonomy topic widget, and across [[employee-center-landing-page|Employee Center]] points to left per the RTL format.
+-   The arrow next to View Org Chart in employee\_profile widget, View All in ec\_pro\_dashboard, employee taxonomy topic widget, and across Employee Center points to left per the RTL format.
 
 ## Procedure
 
@@ -50,6 +50,3 @@ When the session language is a right-to-left language, the direction of the port
 
 For more information, see [Modify the Quick links widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-quick-links-widget.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

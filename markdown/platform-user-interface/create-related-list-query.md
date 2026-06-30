@@ -22,7 +22,7 @@ Role required: none
 
 You can optionally include conditions on the related table. For example, you can filter active problems with one or more related incidents that are in the **Canceled** state. Another example is to filter incidents with a breached service level agreement \(SLA\).
 
-The List v3 filter contains two sections, one for the current table conditions and one for [[c_RelatedLists|related lists]] conditions. You can include only one related table in the query, however, you can add multiple conditions for that table.
+The List v3 filter contains two sections, one for the current table conditions and one for related lists conditions. You can include only one related table in the query, however, you can add multiple conditions for that table.
 
 \[Omitted image "related-list-conditions-problem.png"\] Alt text: Problem filter for open problems
 
@@ -82,7 +82,7 @@ The breadcrumb displays **Related List condition...**. Open the filter to view t
 
 **Note:** If List v3 is disabled for a list with a related list condition query in the default filter, the filter edit function is disabled. Remove the related list condition to enable list filter editing.
 
-**Parent Topic:**[[c_Filters|Filters]]
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)
 
 **Related topics**  
 
@@ -95,7 +95,3 @@ The breadcrumb displays **Related List condition...**. Open the filter to view t
 
 [Dynamic operators]()
 
-## Related
-
-- [[c_Filters|Filters]]
-- [[c_RelatedLists|Related lists]]

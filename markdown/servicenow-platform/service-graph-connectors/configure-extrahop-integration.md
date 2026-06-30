@@ -18,7 +18,7 @@ Set up a REST message and scheduled jobs to import ExtraHop data into your CMDB.
 
 ## Before you begin
 
-**Important:** ServiceNow hosted [[cmdb-integration-extrahop|Service Graph Connector for ExtraHop]] is now deprecated and no longer supported or available for new activation. ExtraHop hosted Service Graph Connector for ExtraHop provides the latest experience for this functionality. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** ServiceNow hosted Service Graph Connector for ExtraHop is now deprecated and no longer supported or available for new activation. ExtraHop hosted Service Graph Connector for ExtraHop provides the latest experience for this functionality. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -28,9 +28,9 @@ Dependencies and requirements:
 -   The CMDB CI class models store app, which is automatically installed. See [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models/cmdb-ci-class-models.md).
 -   ITOM Licensing plugin \(com.snc.itom.license\). For more information, see [Request Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/t_ActivateTheDiscoveryPlugin.md).
 -   ITOM Discovery License plugin \(com.snc.itom.discovery.license\). You must activate this plugin.
--   [[mid-server-landing|MID Server]] that is installed on Linux or Windows, unless the ExtraHop appliance is publicly accessible.
+-   MID Server that is installed on Linux or Windows, unless the ExtraHop appliance is publicly accessible.
 -   ExtraHop Discover appliance with firmware version 7.2 or later, with a user account that has unlimited privileges.
--   To [[c_Connect|connect]] to the ExtraHop application, configure an API key. For more information, see [ExtraHop REST API Guide](https://docs.extrahop.com/8.1/rest-api-guide/), specifically, see the "ExtraHop API requirements" section.
+-   To connect to the ExtraHop application, configure an API key. For more information, see [ExtraHop REST API Guide](https://docs.extrahop.com/8.1/rest-api-guide/), specifically, see the "ExtraHop API requirements" section.
 
 Roles required: admin
 
@@ -221,8 +221,4 @@ Option to use multiple authentication by authenticating HTTP requests. Mutual au
 
     4.  Click **Update** if necessary then **Mark as Complete**.
 
-## Related
 
-- [[cmdb-integration-extrahop|Service Graph Connector for ExtraHop]]
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]

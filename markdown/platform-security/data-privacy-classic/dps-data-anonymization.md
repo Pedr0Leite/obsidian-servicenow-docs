@@ -14,17 +14,17 @@ breadcrumb: [Data privacy, Data Privacy, Platform Privacy]
 
 # Data anonymization
 
-Anonymization provides a way to easily transform data so that it is unidentifiable and more compliant with [[data-privacy-landing|data privacy]] regulations.
+Anonymization provides a way to easily transform data so that it is unidentifiable and more compliant with data privacy regulations.
 
-Administrators can perform the anonymization process in both production and non-production instances. Data privacy can be used in production instances to de-identify [[users|users]]. Anonymization of data classes should only be used with non-production instances. This preservation ensures that data like [[email|email]] addresses or physical addresses are replaced with similarly formatted, but anonymized versions.
+Administrators can perform the anonymization process in both production and non-production instances. Data privacy can be used in production instances to de-identify users. Anonymization of data classes should only be used with non-production instances. This preservation ensures that data like email addresses or physical addresses are replaced with similarly formatted, but anonymized versions.
 
-Administrators can also use anonymization as part of their General [[naai-data-protection|Data Protection]] Regulation \(GDPR\) Right to be forgotten \(RTBF\) processes to anonymize user information. See [https://gdpr-info.eu/art-17-gdpr/](https://gdpr-info.eu/art-17-gdpr/) for more information.
+Administrators can also use anonymization as part of their General Data Protection Regulation \(GDPR\) Right to be forgotten \(RTBF\) processes to anonymize user information. See [https://gdpr-info.eu/art-17-gdpr/](https://gdpr-info.eu/art-17-gdpr/) for more information.
 
-Use the anonymization section of data privacy to create and view privacy [[ca-policies|policies]] and techniques,and to perform privacy bulk assignment. View all of the jobs, with the description, private policy used, and status. In order to access the anonymization section, an admin must first elevate to the data\_privacy\_admin and data\_privacy\_processor roles.
+Use the anonymization section of data privacy to create and view privacy policies and techniques,and to perform privacy bulk assignment. View all of the jobs, with the description, private policy used, and status. In order to access the anonymization section, an admin must first elevate to the data\_privacy\_admin and data\_privacy\_processor roles.
 
 ## Anonymization techniques
 
-Anonymization techniques are options you select to determine how your data is anonymized. You must create an anonymization technique to reference in the anonymization job. See [Create anonymization techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-techniques.md) to associate a privacy technique to an associated **Anonymization technique [[sc-configuration|configuration]]**.
+Anonymization techniques are options you select to determine how your data is anonymized. You must create an anonymization technique to reference in the anonymization job. See [Create anonymization techniques](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-techniques.md) to associate a privacy technique to an associated **Anonymization technique configuration**.
 
 ## Anonymization policies
 
@@ -34,11 +34,3 @@ Configure an anonymization policy to specify which data privacy techniques are u
 
 Anonymization jobs use all of these components to anonymize your data. For more information on these jobs, see [Create anonymization job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/dps-create-anonymization-job.md).
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[users|Users]]
-- [[email|Email]]
-- [[naai-data-protection|Data protection]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]

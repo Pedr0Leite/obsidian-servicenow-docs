@@ -14,7 +14,7 @@ breadcrumb: [CMDB Workspace, Configuration Management Database \(CMDB\), Configu
 
 # Edit a scheduled data import from CMDB performance insights
 
-Edit a scheduled data import directly from CMDB performance insights for your [[cmdb-sgc-available|Service Graph Connectors]]. Consider enabling **Concurrent Import** with a custom size partition to split incoming data into multiple import sets and transform the import sets concurrently to reduce processing time.
+Edit a scheduled data import directly from CMDB performance insights for your Service Graph Connectors. Consider enabling **Concurrent Import** with a custom size partition to split incoming data into multiple import sets and transform the import sets concurrently to reduce processing time.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: sn\_cmdb\_admin \(CMDB Admin\) and one of these roles:
 
 4.  In the Service Graph connectors tab, click the Sources with concurrent import turned off card or the Sources with non-custom size partition method card.
 
-5.  In the Scheduled Import sets list view, select a [[check-box|check box]] next to a record.
+5.  In the Scheduled Import sets list view, select a check box next to a record.
 
 6.  Select **Edit**.
 
@@ -53,7 +53,3 @@ Role required: sn\_cmdb\_admin \(CMDB Admin\) and one of these roles:
 
 [Insights view in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-insights-view.md)
 
-## Related
-
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[check-box|Check box]]

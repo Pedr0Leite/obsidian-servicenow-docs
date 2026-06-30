@@ -14,11 +14,11 @@ breadcrumb: [Granular Delegation, Employee Service Management]
 
 # Using Granular Delegation
 
-Employees can use [[granular-delegation|Granular Delegation]] to delegate their tasks to another eligible employee.
+Employees can use Granular Delegation to delegate their tasks to another eligible employee.
 
 ## Delegate on-demand tasks
 
-You can delegate an assigned task to another employee from your [[employee-center-landing-page|Employee Center]].
+You can delegate an assigned task to another employee from your Employee Center.
 
 ### Before you begin
 
@@ -26,7 +26,7 @@ Role required: none
 
 You can also delegate an assigned task from the ServiceNow® mobile. For more information, see [Using granular delegation on ServiceNow mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/granular-delegation-use.md).
 
-**Note:** You must [[create-delegation-rules|create delegation rules]] before you can delegate on-demand tasks. For more information, see [Create delegation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/create-delegation-rules.md).
+**Note:** You must create delegation rules before you can delegate on-demand tasks. For more information, see [Create delegation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/create-delegation-rules.md).
 
 ### Procedure
 
@@ -162,7 +162,7 @@ All notifications
 
 </td><td>
 
-Option to send the delegate a copy of all notifications you receive during the delegation period. Select this option when you want the delegate to receive the delegation notification. For example, you want the delegate to receive notifications about [[activity-lxp|activity]] stream or record updates. It is set to False by default to avoid concerns around getting notifications that has critical and sensitive data. **Note:** Notifications with the **Exclude Delegates** option enabled override the True setting of this option. Use the **Exclude Delegates** option to prevent delegates from seeing confidential or protected information.
+Option to send the delegate a copy of all notifications you receive during the delegation period. Select this option when you want the delegate to receive the delegation notification. For example, you want the delegate to receive notifications about activity stream or record updates. It is set to False by default to avoid concerns around getting notifications that has critical and sensitive data. **Note:** Notifications with the **Exclude Delegates** option enabled override the True setting of this option. Use the **Exclude Delegates** option to prevent delegates from seeing confidential or protected information.
 
 </td></tr><tr><td>
 
@@ -288,7 +288,7 @@ You can use Granular Delegation to delegate tasks from ServiceNow® mobile.
 
 To delegate your tasks using the ServiceNow® mobile:
 
--   Select your [[c_HRProfileRecords|HR profile]]
+-   Select your HR profile
 -   Add a delegate
 -   Add details of the delegation
 -   Submit the delegation
@@ -362,7 +362,7 @@ The duties you want to delegate. A list of duties appears after you select **Dut
 </td></tr></tbody>
 </table>6.  Select **Submit**.
 
-    Your [[emp-slate-employee-profile|Employee Profile]] appears. To see a list of people you have delegated tasks to, select the **Delegates** tab.
+    Your Employee Profile appears. To see a list of people you have delegated tasks to, select the **Delegates** tab.
 
 
 ### View tasks delegated to you on the ServiceNow mobile
@@ -383,11 +383,4 @@ Notification of delegated tasks are sent to your email address if your HR profil
 
     A list of tasks delegated to you appears.
 
-## Related
 
-- [[granular-delegation|Granular Delegation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[create-delegation-rules|Create delegation rules]]
-- [[activity-lxp|Activity]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[emp-slate-employee-profile|Employee profile]]

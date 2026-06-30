@@ -14,15 +14,15 @@ breadcrumb: [Explore, Journey designer, Employee Journey Management, HR Service 
 
 # Team tasks
 
-Team tasks enable managers to personalize employee journeys by adding tasks directly to [[activity-lxp|activity]] sets that are originated by the [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] app. Managers can tailor journeys to meet individual employee needs without adding stages or modifying the underlying journey configuration.
+Team tasks enable managers to personalize employee journeys by adding tasks directly to activity sets that are originated by the Lifecycle Events app. Managers can tailor journeys to meet individual employee needs without adding stages or modifying the underlying journey configuration.
 
-Lifecycle Events automate cross-departmental processes during key employee transitions such as onboarding, offboarding, and leave of absence. While these automated workflows address common requirements, managers must often supplement them with tasks specific to their team or individual employees. Team tasks extend the personalization capabilities of [[journey-accelerator-1|Journey Accelerator]] stages to Lifecycle Events activity sets, giving managers flexibility to customize journeys while preserving the structure that administrators have defined.
+Lifecycle Events automate cross-departmental processes during key employee transitions such as onboarding, offboarding, and leave of absence. While these automated workflows address common requirements, managers must often supplement them with tasks specific to their team or individual employees. Team tasks extend the personalization capabilities of Journey Accelerator stages to Lifecycle Events activity sets, giving managers flexibility to customize journeys while preserving the structure that administrators have defined.
 
 Before team tasks, the activity sets and stages that appeared in the Stages widget were grouped separately for journeys that used both Lifecycle Events and Journey Accelerator. Managers could add tasks only to Journey Accelerator stages. Lifecycle Events activity sets were visible but contained HR tasks that were managed through the HR Lifecycle Events case.
 
 Team tasks change this behavior by creating a corresponding Journey Accelerator stage for each Lifecycle Events activity set. The original Lifecycle Events activity set retains its existing functionality, where HR tasks are managed through the HR Lifecycle Events case. The corresponding Journey Accelerator stage enables managers to add Journey Accelerator tasks to what appears in the portal as a Lifecycle Events activity set.
 
-From the manager’s perspective in the [[employee-center-landing-page|Employee Center]] portal, they can add tasks directly to activity sets. The underlying creation of Journey Accelerator stages isn’t visible in the portal interface, but administrators may observe this structure when configuring or troubleshooting journeys.
+From the manager’s perspective in the Employee Center portal, they can add tasks directly to activity sets. The underlying creation of Journey Accelerator stages isn’t visible in the portal interface, but administrators may observe this structure when configuring or troubleshooting journeys.
 
 ## Team tasks functionality
 
@@ -30,7 +30,7 @@ When team tasks is enabled, managers can use the Employee Center to insert tasks
 
 Managers can add the following task types to Lifecycle Events activity sets:
 
--   Add a [[exploring-learning-exp|learning]] assignment
+-   Add a learning assignment
 -   Add a catalog request
 -   Add an order guide
 -   Complete a general to-do
@@ -42,13 +42,13 @@ When placing tasks within an activity set, managers can adjust the order of the 
 
 Team tasks reduce complexity for managers by eliminating the need to create additional Journey Accelerator stages when they want to personalize an employee’s journey. Managers can make targeted additions to existing Lifecycle Events activity sets, which streamline the personalization process and reduces overhead.
 
-Team tasks also support the pre-hire phase of employee onboarding. Because Lifecycle Events handles activities that transpire before an employee’s start date, managers can use team tasks to personalize the [[jny-pre-hire-experience|pre-hire experience]] in ways that weren’t previously possible.
+Team tasks also support the pre-hire phase of employee onboarding. Because Lifecycle Events handles activities that transpire before an employee’s start date, managers can use team tasks to personalize the pre-hire experience in ways that weren’t previously possible.
 
 Organizations using agentic workflows benefit from team tasks as well. When AI agents assist with onboarding personalization, they can recommend tasks for managers to review and publish, extending the capabilities of agentic onboarding beyond Journey Accelerator stages.
 
 ## Configuration
 
-Administrators control whether managers can add tasks to activity sets from the Employee Center. Administrators can select the journey configuration for which they want to [[enable-team-tasks|enable team tasks]] and subsequently select the **LE activity sets can be personalized** check box to activate the feature.
+Administrators control whether managers can add tasks to activity sets from the Employee Center. Administrators can select the journey configuration for which they want to enable team tasks and subsequently select the **LE activity sets can be personalized** check box to activate the feature.
 
 **Related topics**  
 
@@ -57,12 +57,3 @@ Administrators control whether managers can add tasks to activity sets from the 
 
 [Add tasks to an activity set using Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/add-tasks-activity-set.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[jny-pre-hire-experience|Pre-hire experience]]
-- [[enable-team-tasks|Enable team tasks]]

@@ -14,9 +14,9 @@ breadcrumb: [Security findings, Exploring Machine Identity Console, Machine Iden
 
 # Accounts with no login for 100 days
 
-Display the findings about the accounts that have not accessed any API in 100 days under the [[security-score|Security findings]] in the [[machine-identity-console|Machine Identity Console]].
+Display the findings about the accounts that have not accessed any API in 100 days under the Security findings in the Machine Identity Console.
 
-Accounts with no login for 100 days displays the non human [[identity-landing|identity]] accounts that have not accessed any API in 100 days.
+Accounts with no login for 100 days displays the non human identity accounts that have not accessed any API in 100 days.
 
 **Note:** Any changes made to the record displayed on this page are immediately updated in the list, risk score resulting from those changes will be reflected the following day.
 
@@ -26,8 +26,3 @@ You can select the machine identity name to know more about the account and the 
 
 \[Omitted image "image.mic-recommendation-no-login-100days"\] Alt text: Recommendation
 
-## Related
-
-- [[security-score|Security findings]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[identity-landing|Identity]]

@@ -14,7 +14,7 @@ breadcrumb: [McAfee ePO integration, Security Incident Response integrations, Se
 
 # Set up your ServiceNow AI Platform instance for the McAfee ePO integration
 
-The following section lists the setup tasks that you’re required to complete in your ServiceNow AI Platform® instance prior to installing the application for the [[mcaffee-epo-overview-arch|McAfee ePO integration]].
+The following section lists the setup tasks that you’re required to complete in your ServiceNow AI Platform® instance prior to installing the application for the McAfee ePO integration.
 
 ## Set up requirements
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Verify that you’ve assigned the required ServiceNow AI Platform® and [[sir-landing-page|Security Incident Response]] \(SIR\) roles.
+Verify that you’ve assigned the required ServiceNow AI Platform® and Security Incident Response \(SIR\) roles.
 
 </td><td>
 
@@ -54,7 +54,7 @@ Verify that you have installed the ServiceNow extension plugin in your McAfee eP
 
 </td><td>
 
-Install the ServiceNow plugin in your McAfee ePO console. For more information and to obtain the plugin file, in your ServiceNow AI Platform instance, navigate to **Knowledge** &gt; **Articles** &gt; **All** and, in the Search field, enter, ServiceNow [[security-operations-landing-page|Security Operations]] Extension for McAfee ePO .
+Install the ServiceNow plugin in your McAfee ePO console. For more information and to obtain the plugin file, in your ServiceNow AI Platform instance, navigate to **Knowledge** &gt; **Articles** &gt; **All** and, in the Search field, enter, ServiceNow Security Operations Extension for McAfee ePO .
 
 </td></tr><tr><td>
 
@@ -67,12 +67,12 @@ Security Incident Response Dependency plugin \(com.snc.si\_dep\) is required. Th
  Verify that the following Security Operations applications are installed and activated from the ServiceNow Store. If not installed, install and activate one application at a time in the following order to ensure a smooth installation.
 
  1.  Security Incident Response
-2.  [[sir-workspace-landing-page|Security Incident Response Workspace]]
+2.  Security Incident Response Workspace
 3.  Security Integration Framework
 4.  Security Support Common
 5.  Security Support Orchestration
 
- For more information about installing the Security Operations core applications, see [[entitle-secops-product|Get entitlement for a Security Operations product or application]] and [[activate-entitled-store-app|Activate a ServiceNow Store application]].
+ For more information about installing the Security Operations core applications, see [Get entitlement for a Security Operations product or application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/entitle-secops-product.md) and [Activate a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-entitled-store-app.md).
 
 </td></tr><tr><td>
 
@@ -103,11 +103,3 @@ By default, approval authority is assigned to the ServiceNow AI Platform® secur
 
 **Next topic:**[Set up your McAfee ePO console to integrate with Security Incident Response \(SIR\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mcafee-epo-setup-mcafee.md)
 
-## Related
-
-- [[entitle-secops-product|Get entitlement for a Security Operations product or application]]
-- [[activate-entitled-store-app|Activate a ServiceNow Store application]]
-- [[mcaffee-epo-overview-arch|McAfee ePO integration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

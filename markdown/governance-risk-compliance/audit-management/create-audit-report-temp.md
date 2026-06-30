@@ -90,12 +90,10 @@ XML code. When you select the **XML** option, you can add the XML code in your a
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-    The audit report template is displayed in the [[list-view-uib-ws|list view]] as shown in the following example:
+    The audit report template is displayed in the list view as shown in the following example:
 
     \[Omitted image "html-audit-report-template.png"\] Alt text: Audit report template.
 
     You can use the audit report template to display data according to the defined format in an audit report.
 
-## Related
 
-- [[list-view-uib-ws|List view]]

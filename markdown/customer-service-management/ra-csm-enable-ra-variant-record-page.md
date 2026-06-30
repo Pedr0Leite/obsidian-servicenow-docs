@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Restore Recommended Actions on record page variants after upgrade
 
-After upgrading to a newer release, [[configure-nba|Recommended Actions]] \(RA\) may no longer appear on certain record page variants \([[csm-default-record-page|CSM default record page]] or [[csm-interaction-record-page|CSM Interaction record page]]\), even if it was visible before. This can occur if the RA page is inactive or if the record page uses a customized variant created before RA was introduced as a static tab. Use the following procedure if the RA page exists but is not active for the record page variant.
+After upgrading to a newer release, Recommended Actions \(RA\) may no longer appear on certain record page variants \(CSM default record page or CSM Interaction record page\), even if it was visible before. This can occur if the RA page is inactive or if the record page uses a customized variant created before RA was introduced as a static tab. Use the following procedure if the RA page exists but is not active for the record page variant.
 
 ## Before you begin
 
@@ -40,8 +40,4 @@ Role required: admin
 
     **Note:** If RA still does not appear after completing this procedure, the record page variant may have been created before RA was introduced as a static tab. Static tab added in newer releases are not automatically included in existing customized variants during an upgrade. In this case, manually add RA as a static tab to the affected variant.
 
-## Related
 
-- [[configure-nba|Recommended Actions]]
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-interaction-record-page|CSM Interaction record page]]

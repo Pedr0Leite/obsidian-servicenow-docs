@@ -24,7 +24,7 @@ You can also create new incidents using the **New** button available in the top 
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSIM Workspace**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSIM Workspace**.
 
 2.  Select the Lists tab to display the Lists view.
 
@@ -109,6 +109,3 @@ Create a new MSI record.
 
 [Create and distribute MSIM Status Reports]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

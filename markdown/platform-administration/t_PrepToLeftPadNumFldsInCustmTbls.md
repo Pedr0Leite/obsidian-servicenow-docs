@@ -52,12 +52,8 @@ Role required: admin
     You can now continue with the process of configuring left-padding and renumbering records.
 
 
--   **[[t_RenumberingRecords|Configure left padding of a system number in a table]]**  
+-   **[Configure left padding of a system number in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RenumberingRecords.md)**  
 You can configure the left padding of the system numbers on a table. For example, pad the **Number** field on an Incident, Problem, or Change Request.
 
-**Parent Topic:**[[c_ManagingRecordNumbering|Record numbering]]
+**Parent Topic:**[Record numbering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ManagingRecordNumbering.md)
 
-## Related
-
-- [[t_RenumberingRecords|Configure left padding of a system number in a table]]
-- [[c_ManagingRecordNumbering|Record numbering]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a case type, Configure, Compliance Case Management, Governan
 
 # Case Type form
 
-Use the Case Type form in the [[compliance-case-management|Compliance Case Management]] application to categorize the compliance cases by their type.
+Use the Case Type form in the Compliance Case Management application to categorize the compliance cases by their type.
 
 See the following table for a description of the field values.
 
@@ -28,13 +28,9 @@ See the following table for a description of the field values.
 |State Model|
 |State Model|Workflow states for the case type. For more information, see [Create a compliance state model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-state-model.md).|
 |Assessment Configuration|
-|Assessment templates|Assessment template for the case type. If the **sn\_grc\_case\_mgmt.enable\_smart\_assessments** system property is set to **true**, then you can specify the Smart [[airc-assessment-templates|assessment templates]] that you want to use for performing smart assessment on action tasks. For more information, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-create-assessment-template.md). For information on|
+|Assessment templates|Assessment template for the case type. If the **sn\_grc\_case\_mgmt.enable\_smart\_assessments** system property is set to **true**, then you can specify the Smart assessment templates that you want to use for performing smart assessment on action tasks. For more information, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/ccm-create-assessment-template.md). For information on|
 |Template Configuration|
 |Document templates|Template to generate Portable Document Format \(PDF\) reports for compliance cases associated with this case type.|
 
 **Parent Topic:**[Create a case type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/create-case-type.md)
 
-## Related
-
-- [[compliance-case-management|compliance case management]]
-- [[airc-assessment-templates|Assessment templates]]

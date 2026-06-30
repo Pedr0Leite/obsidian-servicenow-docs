@@ -15,13 +15,13 @@ breadcrumb: [Virtual Agent technical reference, Virtual Agent reference, Virtual
 
 # Virtual Agent interaction records
 
-Each time a [[virtual-agent-landing-page|Virtual Agent]] conversation occurs, an interaction record captures the entire conversation in the Interactions \[interaction\] table. The record includes all topic elements used in the conversation, as well as live agent transfers.
+Each time a Virtual Agent conversation occurs, an interaction record captures the entire conversation in the Interactions \[interaction\] table. The record includes all topic elements used in the conversation, as well as live agent transfers.
 
 ## Interactions \[interaction\] table
 
 Each conversation in an instance generates an interaction record in the Interactions \[interactions\] table, which logs the conversation between a requester and Virtual Agent. The interaction records include conversations that occur across the supported chat channels: chat widget, native mobile app, and messaging integrations.
 
-**Note:** The Interactions table is part of the Interaction [[management|Management]] plugin \(com.glide.interaction\). Virtual Agent, [[ci-use-agent-chat|Agent Chat]], and Connect Support use this plugin.
+**Note:** The Interactions table is part of the Interaction Management plugin \(com.glide.interaction\). Virtual Agent, Agent Chat, and Connect Support use this plugin.
 
 These interaction records provide administrators, Virtual Agent administrators, support agents, and support managers with a convenient way to review what happened during a conversation. The records also provide a quick way to see the type of conversations that occur: Virtual Agent, live agent transfers to Agent Chat, and live agent transfers to Connect Support.
 
@@ -134,7 +134,7 @@ Shows the sentiment level of the interaction, if sentiment analysis is enabled o
 -   Negative
 -   null \(no value assessed\)
 
-This value is also entered in the [[ci-interaction-insights-table|Interaction Insights table]].
+This value is also entered in the [Interaction Insights table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-interaction-insights-table.md).
 
 </td></tr><tr><td>
 
@@ -396,7 +396,7 @@ From the Interactions table, you can open a specific record to see additional de
 
 -   **Related Tasks**
 
-    Any cases, incidents, or requests created or updated during the conversation are automatically attached to the interaction record as a Related Task. To ensure that these tasks are included with the interaction record, design your conversation topics using certain [[va-utilities|Assistant Designer utilities]] and the system method vaSystem.attachRecordToConversation. For details, see [Topic design considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-interactions.md) below.
+    Any cases, incidents, or requests created or updated during the conversation are automatically attached to the interaction record as a Related Task. To ensure that these tasks are included with the interaction record, design your conversation topics using certain Assistant Designer utilities and the system method vaSystem.attachRecordToConversation. For details, see [Topic design considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-interactions.md) below.
 
     \[Omitted image "VA-interaction-relatedtask.png"\] Alt text: The Related Tasks tab on the Interactions record shows the incident record that was created during the interaction.
 
@@ -440,10 +440,3 @@ Use these utilities and system method so that incidents, cases, or requests crea
 
 [Latency feedback in Virtual Agent]()
 
-## Related
-
-- [[ci-interaction-insights-table|Interaction Insights table]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[va-utilities|Assistant Designer utilities]]

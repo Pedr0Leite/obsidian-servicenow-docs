@@ -18,7 +18,7 @@ Configure the Nokia Altiplano service graph connector to import physical and log
 
 This integration uses REST APIs \(via a MID Server\) to ensure the CMDB reflects accurate, up-to-date telecom inventory aligned with the TM Forum-based data model.
 
-**Note:** A valid [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] subscription is required to use this connector.
+**Note:** A valid Telecommunications Service Operations Management subscription is required to use this connector.
 
 ## Required plugins
 
@@ -78,6 +78,3 @@ Use the guided setup to simplify the configuration process. This setup provides 
 
 [Telecom Discovery via Nokia Altiplano](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/service-graph-connector-for-nokia-altiplano.md)
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]

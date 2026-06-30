@@ -33,7 +33,7 @@ Role required: admin
 
 3.  In the navigation filter, enter the name of the SLO inbound table for which you want to check the integration status.
 
-    For example, to check the integration status of the [[supplier|Supplier]] location inbound table, enter **sn\_fcms\_intg\_supplier\_location\_inbound\_list.do**.
+    For example, to check the integration status of the Supplier location inbound table, enter **sn\_fcms\_intg\_supplier\_location\_inbound\_list.do**.
 
     The Supplier location inbounds page appears.
 
@@ -51,6 +51,3 @@ Role required: admin
 
 [Run transform to update supplier primary data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/run-transform-supplier.md)
 
-## Related
-
-- [[supplier|Supplier]]

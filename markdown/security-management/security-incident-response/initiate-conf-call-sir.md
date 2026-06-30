@@ -28,7 +28,7 @@ Role required: sn\_si.analyst or sn\_si.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Open a security incident for which you want to initiate a conference call.
 
@@ -54,7 +54,7 @@ Role required: sn\_si.analyst or sn\_si.manager
 
     The conference call starts in the selected conference bridge. All the participants receive notification through email and through the conference bridge. The participants can use the link or notification to join the call.
 
-9.  Open the associated incident in [[sir-landing-page|Security Incident Response]] application to view the conference call details.
+9.  Open the associated incident in Security Incident Response application to view the conference call details.
 
 10. Select **Copy invite** to add participants in an active call.
 
@@ -67,7 +67,3 @@ Role required: sn\_si.analyst or sn\_si.manager
 
 **Parent Topic:**[Collaborate using conference call or chat in Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/collab-sir-call-chat.md)
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-landing-page|Security Incident Response]]

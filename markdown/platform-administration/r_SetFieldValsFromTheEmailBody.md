@@ -12,15 +12,15 @@ breadcrumb: [Configure, Inbound email, Notifications, Configure core features, A
 
 # Setting field values from the email body
 
-Values in an [[ia-inbound-email-il|inbound email]] can set field values in a task record.
+Values in an inbound email can set field values in a task record.
 
 Any name:value pair in an inbound email body gets parsed into a variable/value pair in the inbound email script. The name:value pair must be on its own line. Note that most email clients limit the number of characters allowed per line and may truncate excessively long name:value pairs.
 
 **Tip:** To prevent unexpected parsing, ensure that all the names in the name:value pairs are unique.
 
-See [[r_RedirEmailDifferentAssignGrp|Redirecting Emails]] for an example of using **setDisplayValue\(\)** in an inbound email action.
+See [Redirecting Emails](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_RedirEmailDifferentAssignGrp.md) for an example of using **setDisplayValue\(\)** in an inbound email action.
 
-**Note:** The action always generates a lowercase variable name. Also, this functionality does not work on [[reference-email-admin|reference]] fields.
+**Note:** The action always generates a lowercase variable name. Also, this functionality does not work on reference fields.
 
 For example, if an email body contains this line:
 
@@ -39,11 +39,5 @@ In this example, the script sets the value of *\[field\]* to the value **bar**.
 
 **Note:** Spaces are rendered as underscores when a name:value pair gets parsed into a variable/value pair. For example, if an email body contains a line with spaces like `my variable:data`, then the inbound email script creates the variable *email.body.my\_variable*. The value of the variable is **data**.
 
-**Parent Topic:**[[configure-inbound-email|Configure inbound email actions]]
+**Parent Topic:**[Configure inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-inbound-email.md)
 
-## Related
-
-- [[r_RedirEmailDifferentAssignGrp|Redirecting email to the instance POP3 account]]
-- [[configure-inbound-email|Configure inbound email actions]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[reference-email-admin|Reference]]

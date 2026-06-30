@@ -12,7 +12,7 @@ breadcrumb: [Order Management, Use, Sales Customer Relationship Management]
 
 # Order types in Sales Customer Relationship Management
 
-Customer orders and service orders are the two main type of sales orders in ServiceNow [[explore-order-management|Order Management]]. Learn about their differences and how to select an appropriate order type for your use case.
+Customer orders and service orders are the two main type of sales orders in ServiceNow Order Management. Learn about their differences and how to select an appropriate order type for your use case.
 
 Use customer orders for ordering products or services. Use service orders for the activation of new services or for the post-sales requests for the services that were activated for and delivered to customers at earlier dates. By using this process, you ensure that service orders are correct and handled efficiently throughout the entire fulfillment process. The following table compares customer and service orders and lists the differences between the two.
 
@@ -83,8 +83,8 @@ MACD order options
 -   Add
 -   Change
 -   Disconnect
--   [[Suspend|Suspend]]
--   [[Resume|Resume]]
+-   Suspend
+-   Resume
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Decomposition
 
 </td><td>
 
--   It's based on product, service, and resource specification, and [[rules_101|rules]].
+-   It's based on product, service, and resource specification, and rules.
 -   Upon approval, order is decomposed into product, service, and resource orders.
 -   Can create multiple domain orders \(product, service, resource\) per line item.
 
@@ -109,7 +109,7 @@ Unique roles
 </td><td>
 
 -   Order agent \[sn\_ind\_tmt\_orm.order\_agent\]
--   [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]] manager \[sn\_ind\_tmt\_orm.order\_fulfilment\_manager\]
+-   Order fulfillment manager \[sn\_ind\_tmt\_orm.order\_fulfilment\_manager\]
 
 </td><td>
 
@@ -151,7 +151,7 @@ When you approve a captured service order for fulfillment, the post-approval dec
 -   The resource order manages the resources required to fulfill the services that the customer is requesting.
 -   These domain orders manage the fulfillment of the requested service orders.
 
-To learn more, see [[order-mgt-order-decomposition|Order decomposition]].
+To learn more, see [Order decomposition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-order-decomposition.md).
 
 ## Order types for service orders
 
@@ -160,20 +160,10 @@ The following are the two key fulfillment actions for service orders:
 -   Deliver: Involves providing the ordered items to the customer once the order is ready.
 -   Qualify: Validates whether a service or product can be fulfilled before actual execution.
 
-Service qualification request orders with fulfillment type as Qualify can only be created in the ServiceNow Order Management system using APIs from external qualification request systems. When you capture an order [[using-order-management|using Order Management]], the orders are created with the fulfillment type as Deliver.
+Service qualification request orders with fulfillment type as Qualify can only be created in the ServiceNow Order Management system using APIs from external qualification request systems. When you capture an order using Order Management, the orders are created with the fulfillment type as Deliver.
 
 **Related topics**  
 
 
-[[order-mgt-tsq-about|Service qualification requests]]
+[Service qualification requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-about.md)
 
-## Related
-
-- [[order-mgt-order-decomposition|Order decomposition]]
-- [[order-mgt-tsq-about|Service qualification requests]]
-- [[explore-order-management|Order management]]
-- [[Suspend|Suspend]]
-- [[Resume|Resume]]
-- [[rules_101|Rules]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[using-order-management|Using Order Management]]

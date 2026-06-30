@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BIAs, Manage, Business Continuity Manageme
 
 # Calculating RTO and RPO
 
-The BCM application provides an assessment questionnaire for calculating the recovery time objective \(RTO\) and recovery point objective \(RPO\) in the [[bia-uib|business impact analysis]] \(BIA\). As a pre-requisite to the BIA, BCM administrator defines the impact ratings and sets up the assessment questions. After receiving the responses to the assessment, the BCM application calculates the RTO and RPO.
+The BCM application provides an assessment questionnaire for calculating the recovery time objective \(RTO\) and recovery point objective \(RPO\) in the business impact analysis \(BIA\). As a pre-requisite to the BIA, BCM administrator defines the impact ratings and sets up the assessment questions. After receiving the responses to the assessment, the BCM application calculates the RTO and RPO.
 
 ## BCM dependency tree
 
@@ -20,7 +20,7 @@ Before calculating the recovery time objective \(RTO\) and recovery point object
 
 ## BCM implementation
 
-Setting up the impact ratings to evaluate an impact category is a crucial step in [[business-continuity-mangmt-overview|business continuity management]]. To grasp the importance of configuring these impact categories, refer to the steps needed for implementing the BCM process, as outlined in the checklist.
+Setting up the impact ratings to evaluate an impact category is a crucial step in business continuity management. To grasp the importance of configuring these impact categories, refer to the steps needed for implementing the BCM process, as outlined in the checklist.
 
 \[Omitted image "BCMImplementationFlowchart.jpg"\] Alt text: Flowchart showing sequential BCM implementation steps from installing applications through configuring plan templates.
 
@@ -185,10 +185,5 @@ If the administrator has set all the impact ratings as tolerable, the value spec
     |1 Month|Non-Essential|
 
 
-**Parent Topic:**[[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
+**Parent Topic:**[Structured workflows for BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bia-tasks-performed-by-bia-owner.md)
 
-## Related
-
-- [[bia-tasks-performed-by-bia-owner|Structured workflows for BIAs]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

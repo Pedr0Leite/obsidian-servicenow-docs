@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management reference, Knowledge Management, Manage conten
 
 # Additional plugins for Knowledge Management
 
-After [[knowledge-management|Knowledge Management]] is activated, you can activate additional plugins that provide access to various additional Knowledge Management features.
+After Knowledge Management is activated, you can activate additional plugins that provide access to various additional Knowledge Management features.
 
 You must have the admin role to activate these additional plugins. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
 
@@ -56,11 +56,11 @@ Adds advanced features to Knowledge Management such as version control and subsc
 
 </td></tr><tr><td>
 
-[[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]] \(com.snc.knowledge\_ml\)
+Predictive Intelligence for Knowledge Management \(com.snc.knowledge\_ml\)
 
 </td><td id="pi-km-desc">
 
-Provides various Knowledge Management capabilities driven by machine-learning solutions. For example, capabilities such as similar articles and [[knowledge-demand-insights|knowledge demand insights]]. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.**Note:** When you install and activate the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\), the Predictive Intelligence for Contextual Search plugin \(com.snc.contextual\_search\_ml\) is also activated.
+Provides various Knowledge Management capabilities driven by machine-learning solutions. For example, capabilities such as similar articles and knowledge demand insights. Activation of this plugin on production instances may require a separate license. Contact ServiceNow for details.**Note:** When you install and activate the Predictive Intelligence for Knowledge Management plugin \(com.snc.knowledge\_ml\), the Predictive Intelligence for Contextual Search plugin \(com.snc.contextual\_search\_ml\) is also activated.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Knowledge Document \(com.snc.knowledge\_document\)
 
 </td><td>
 
-Adds knowledge-based functionalities to the [[r_ManagedDocumentsPlugin|Managed Documents plugin]]. You can [[create-knowledge-article|create a knowledge article]] from a document or update a knowledge document to a newer revision.
+Adds knowledge-based functionalities to the Managed Documents plugin. You can create a knowledge article from a document or update a knowledge document to a newer revision.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Knowledge Management Wiki Support \(com.glideapp.knowledge2.wiki\)
 
 </td><td>
 
-Enables support to save Knowledge articles in wiki type field instead of [[html|html]] type field.
+Enables support to save Knowledge articles in wiki type field instead of html type field.
 
 </td></tr><tr><td>
 
@@ -128,7 +128,7 @@ Enables authoring content in Microsoft Word and publishing it as a knowledge art
 
 </td></tr><tr><td>
 
-[[knowledge-blocks|Knowledge Blocks]] \(com.snc.knowledge\_blocks\)
+Knowledge Blocks \(com.snc.knowledge\_blocks\)
 
 </td><td>
 
@@ -144,13 +144,3 @@ Enables you to generate reports to provide an overview of knowledge base and art
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[predictive-intelligence-for-km|Predictive Intelligence for Knowledge Management]]
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[r_ManagedDocumentsPlugin|Managed Documents plugin]]
-- [[create-knowledge-article|Create a knowledge article]]
-- [[html|HTML]]
-- [[knowledge-blocks|Knowledge blocks]]

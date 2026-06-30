@@ -14,7 +14,7 @@ breadcrumb: [Exploring Agent Client Collector, Agent Client Collector, IT Operat
 
 # Agent Client Collector Framework use case
 
-The [[acc-landing-page|Agent Client Collector]] Framework \(ACC-F\) use case demonstrates how a financial organization can use Agent Client Collector Framework to assist in IT asset [[r-discovery|discovery]].
+The Agent Client Collector Framework \(ACC-F\) use case demonstrates how a financial organization can use Agent Client Collector Framework to assist in IT asset discovery.
 
 ## Use case overview
 
@@ -42,7 +42,3 @@ To address these challenges, the financial organization implemented an agent-bas
 
 This approach enabled the financial institution to maintain control over its IT environment, support its remote workforce effectively, and ensure compliance with industry regulations - critical factors in safeguarding sensitive financial operations and maintaining customer trust.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

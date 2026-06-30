@@ -14,7 +14,7 @@ breadcrumb: [Outbound staging tables for Supplier Lifecycle Operations, Outbound
 
 # Supplier payment outbound staging table
 
-The [[supplier|Supplier]] payment outbound \[sn\_spend\_intg\_supplier\_payment\_outbound\_stage\] staging table temporarily stores important data about the payment information of a supplier so that an ERP integrator can export this data to a third-party ERP system.
+The Supplier payment outbound \[sn\_spend\_intg\_supplier\_payment\_outbound\_stage\] staging table temporarily stores important data about the payment information of a supplier so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Supplier payment outbound staging table
 
@@ -44,6 +44,3 @@ The following table lists the mandatory fields for the Supplier payment outbound
 |Supplier|String|Name of the supplier that the payment information is for.|
 |SWIFT code|String|Bank Identifier Code \(also known as SWIFT code\) of the bank of the supplier.|
 
-## Related
-
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Domain separation and EMR Help
 
-Domain separation is supported for [[emr-exploring|EMR Help]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for EMR Help. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -72,6 +72,3 @@ For incident, the task’s domain is set from the `caller_id` parameter if speci
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

@@ -19,14 +19,14 @@ Plugins are software components that provide features and functionalities within
 Plugins and applications are separate components on the ServiceNow AI Platform.
 
 -   A plugin adds features to installed applications and extends functionality on the ServiceNow AI Platform. For additional details about plugins, see [KB0716626](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0716626).
--   An application is a standalone piece of code that implements a collection of features on the ServiceNow AI Platform. You can install applications from the [[servicenow-store|ServiceNow Store]] or create your own applications.
+-   An application is a standalone piece of code that implements a collection of features on the ServiceNow AI Platform. You can install applications from the ServiceNow Store or create your own applications.
 
 ## Activating plugins
 
 All plugins are provided by ServiceNow, but some plugins are activated differently.
 
--   A set of plugins are activated on your instance by default. You can activate additional plugins on your instance depending on your business needs. For details, see [[t_ActivateAPlugin|Activate a plugin]].
--   Other plugins require activation by ServiceNow personnel. To request activation, follow the steps in [[t_RequestAPlugin|Request a plugin]].
+-   A set of plugins are activated on your instance by default. You can activate additional plugins on your instance depending on your business needs. For details, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
+-   Other plugins require activation by ServiceNow personnel. To request activation, follow the steps in [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md).
 
 There are some plugins that you can't activate or upgrade on your instance and the button is greyed out. This situation can happen in the following cases:
 
@@ -52,30 +52,21 @@ A warning message appears if the alter table or create table operation fails whe
 
 You can test a plugin on your personal developer instance \(PDI\) before launching it in a production instance. If a plugin isn't active by default on a PDI, you can activate the plugin without requesting or purchasing it.
 
-To activate a plugin on a PDI, use the All Applications page on your instance. If the plugin isn't available on the All Applications page, activate it from the . For more information, see [[activate-plugin-pdi|Activate a plugin on a personal developer instance]].
+To activate a plugin on a PDI, use the All Applications page on your instance. If the plugin isn't available on the All Applications page, activate it from the . For more information, see [Activate a plugin on a personal developer instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/activate-plugin-pdi.md).
 
 **Note:** Some plugins aren't available for activation on PDIs.
 
 -   **[Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md)**  
 You can activate most plugins to expand features and functionalities in the ServiceNow AI Platform.
 -   **[Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md)**  
-If a plugin does not appear in the [[application-manager|Application Manager]], you cannot activate it yourself. Request activation of the plugin by ServiceNow personnel.
--   **[[list-of-plugins|List of plugins \(Australia\)]]**  
+If a plugin does not appear in the Application Manager, you cannot activate it yourself. Request activation of the plugin by ServiceNow personnel.
+-   **[List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md)**  
 You can view all plugins available to you in the Application Manager if you have the admin role.
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
 **Related topics**  
 
 
 [List of plugins \(Australia\)]()
 
-## Related
-
-- [[t_ActivateAPlugin|Activate a plugin]]
-- [[t_RequestAPlugin|Request a plugin]]
-- [[activate-plugin-pdi|Activate a plugin on a personal developer instance]]
-- [[list-of-plugins|List of plugins \(Australia\)]]
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]

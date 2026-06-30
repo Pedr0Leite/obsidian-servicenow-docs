@@ -14,9 +14,9 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Limit Invalid Password Reset Attempts
 
-The **password\_reset.[[c_requestAPI|request]].max\_attempt** is used to control the maximum number of unsuccessful attempts that a user can reset or change their password before being locked out for a specified period of time.
+The **password\_reset.request.max\_attempt** is used to control the maximum number of unsuccessful attempts that a user can reset or change their password before being locked out for a specified period of time.
 
-The **password\_reset.request.max\_attempt** system property dictates the maximum number of unsuccessful [[c_SelfServicePasswordReset|password reset]] attempts that can be taken before the user is locked out of password reset process. The lockout period is determined by the value in **password\_reset.request.max\_attempt\_window**.
+The **password\_reset.request.max\_attempt** system property dictates the maximum number of unsuccessful password reset attempts that can be taken before the user is locked out of password reset process. The lockout period is determined by the value in **password\_reset.request.max\_attempt\_window**.
 
 Ensure that the property **password\_reset.request.max\_attempt** is set to `3` or less.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -115,9 +115,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

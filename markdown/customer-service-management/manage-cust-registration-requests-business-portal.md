@@ -17,7 +17,7 @@ Users with the customer administrator role can approve or reject registration re
 **Related topics**  
 
 
-[[c_Business-PortalSelfRegistration|Customer contact self-registration on Business Portal]]
+[Customer contact self-registration on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_Business-PortalSelfRegistration.md)
 
 ## Approve a registration request with a valid registration code on Business Portal
 
@@ -64,6 +64,4 @@ Role required: sn\_customerservice.customer\_admin
 
     A rejection email is sent to the requester’s email address.
 
-## Related
 
-- [[c_Business-PortalSelfRegistration|Customer contact self-registration on Business Portal]]

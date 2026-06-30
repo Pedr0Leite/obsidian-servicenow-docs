@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience Badge Reader Integration setup and configuration
 
 # Define and register a badge reader device using the badge reader client
 
-Use the Badge Reader Client to create a badge reader device for registration in your system. Registering your badge reader enables you to make it operational at your [[walkup-experience-landing-page|Walk-up Experience]] on-site queue.
+Use the Badge Reader Client to create a badge reader device for registration in your system. Registering your badge reader enables you to make it operational at your Walk-up Experience on-site queue.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Automatic population of the **Device Identifier** field saves you time from look
 
 To register your badge reader device with **Badge Reader Client** assistance, first you need to configure system properties to enable badge scan registration and disable the badge access token. The following System Properties must be configured:
 
--   **sn\_badge.enable\_scan\_registration**: Disabled by default. When set to **True**, this property enables n\_badge.badge\_admins to quickly register badge reader [[dex-workspace-devices-tab|devices]] by scanning a badge.
+-   **sn\_badge.enable\_scan\_registration**: Disabled by default. When set to **True**, this property enables n\_badge.badge\_admins to quickly register badge reader devices by scanning a badge.
 -   **sn\_badge.disable\_access\_token**: Enabled by default. This property disables the access token requirement for the Badge Reader Integration API.
 
 ## Procedure
@@ -83,7 +83,3 @@ To register your badge reader device with **Badge Reader Client** assistance, fi
 
 **Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-badge-read-integ-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[dex-workspace-devices-tab|Devices]]

@@ -12,25 +12,16 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Setting up Coaching in Workforce Optimization for Customer Service
 
-Manage agent skills and assess the quality of completed tasks. Use predictive [[intelligence-csm|intelligence]] to recommend skills for agents. Train your agents with internal and external learning content.
+Manage agent skills and assess the quality of completed tasks. Use predictive intelligence to recommend skills for agents. Train your agents with internal and external learning content.
 
--   **[[add-property-coaching-quality-indicator-configurable-wfo-cs|Configure an indicator to display in the Coaching Overview tab in Workforce Optimization for Customer Service]]**  
+-   **[Configure an indicator to display in the Coaching Overview tab in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/add-property-coaching-quality-indicator-configurable-wfo-cs.md)**  
 Add a system property to display the desired indicator in the Coaching Overview tab in the Coaching application.
--   **[[setting-up-skill-prediction-configurable-cs|Setting up skill prediction in Workforce Optimization for Customer Service]]**  
+-   **[Setting up skill prediction in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setting-up-skill-prediction-configurable-cs.md)**  
 Collect skill data based on skills agents have used for case resolution. Use supervised learning to recommend these skills for agents to resolve similar open case. You can also find patterns in how skills are used for case resolution and use unsupervised learning to recommend skills for agents.
--   **[[configure-listmenu-configurable-wfo-cs|Configure a list menu to display in the Learning tab in Workforce Optimization for Customer Service]]**  
-Add list or list categories to modify the list menu for Coaching with Learning in the Coaching application in [[configurable-wfo-cs|Workforce Optimization for Customer Service]].
--   **[[integrate-learning-third-party-configurable-wfo-cs|Integrate Coaching with Learning with third-party learning management systems]]**  
+-   **[Configure a list menu to display in the Learning tab in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-listmenu-configurable-wfo-cs.md)**  
+Add list or list categories to modify the list menu for Coaching with Learning in the Coaching application in Workforce Optimization for Customer Service.
+-   **[Integrate Coaching with Learning with third-party learning management systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/integrate-learning-third-party-configurable-wfo-cs.md)**  
 Connect your ServiceNow instance with third-party learning sites to pull learning content into your repository.
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
-## Related
-
-- [[add-property-coaching-quality-indicator-configurable-wfo-cs|Configure an indicator to display in the Coaching Overview tab in Workforce Optimization for Customer Service]]
-- [[setting-up-skill-prediction-configurable-cs|Setting up skill prediction in Workforce Optimization for Customer Service]]
-- [[configure-listmenu-configurable-wfo-cs|Configure a list menu to display in the Learning tab in Workforce Optimization for Customer Service]]
-- [[integrate-learning-third-party-configurable-wfo-cs|Integrate Coaching with Learning with third-party learning management systems]]
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[intelligence-csm|Intelligence]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]

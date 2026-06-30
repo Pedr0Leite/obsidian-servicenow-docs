@@ -16,11 +16,8 @@ breadcrumb: [Explore, Now Assist for Health and Safety, Health and Safety, Emplo
 
 Now Assist AI agents help to improve live agent productivity by using AI agents to perform tasks.
 
-AI agents for [[health-safety-overview|Health and Safety]] help to create actions using the Now Assist panel.
+AI agents for Health and Safety help to create actions using the Now Assist panel.
 
 -   For more information, see [Explore Now Assist AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-ai-agents.md).
 -   To learn how to manage AI agents and agentic workflows, see [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md).
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]

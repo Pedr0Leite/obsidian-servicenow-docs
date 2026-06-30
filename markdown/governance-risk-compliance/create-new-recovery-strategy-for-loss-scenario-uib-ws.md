@@ -22,7 +22,7 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to the loss scenario in the plan record.
+2.  In the List view, navigate to the loss scenario in the plan record.
 
 3.  Navigate to the **Recovery strategies** tab and select **New**.
 
@@ -36,7 +36,7 @@ Role required: sn\_bcm.program\_manager or sn\_bcm.planner
 
 5.  On the form, fill in the fields.
 
-    For more information on the fields in the form, see [[create-new-recovery-strategy-form|Create Recovery strategy form]].
+    For more information on the fields in the form, see [Create Recovery strategy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-recovery-strategy-form.md).
 
 6.  Select **Save**.
 
@@ -61,16 +61,10 @@ On the recovery strategy **Recovery tasks** tab, select **Add groups** or **Add 
 
 \[Omitted image "recovery-strategy-with-tasks-from-group.png"\] Alt text: Recovery strategy Recovery tasks tab with tasks added from a task template group, each pre-populated with Plan loss scenario and Plan recovery strategy.
 
-For information on creating reusable recovery strategy templates, see [[configure-recovery-strategy-template-uib-ws|Configure a recovery strategy template]].
+For information on creating reusable recovery strategy templates, see [Configure a recovery strategy template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-recovery-strategy-template-uib-ws.md).
 
 -   **[Create Recovery strategy form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-recovery-strategy-form.md)**  
 Use the Create New Recovery strategy form in BCM UIB Workspace to add details about the recovery strategy for the identified loss scenario.
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[create-new-recovery-strategy-form|Create Recovery strategy form]]
-- [[configure-recovery-strategy-template-uib-ws|Configure a recovery strategy template]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]

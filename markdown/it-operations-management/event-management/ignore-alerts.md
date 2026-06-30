@@ -19,7 +19,7 @@ Configure ignore rules to automatically suppress alerts that are not actionable 
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you are in the Configure IT Operations Management page.
 
@@ -31,7 +31,7 @@ Ignore rules help reduce alert noise by automatically suppressing alerts that ma
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Reduce Noise**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Reduce Noise**.
 
 2.  Expand **Reduce Noise**.
 
@@ -47,8 +47,4 @@ Ignore rules help reduce alert noise by automatically suppressing alerts that ma
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]

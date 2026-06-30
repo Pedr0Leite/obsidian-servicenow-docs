@@ -22,9 +22,9 @@ Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace on
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
-    -   If you are using the core UI, navigate to **[[c_ContractManagement|Contract Management]]** &gt; **Contract** &gt; **All**.
+    -   If you are using the core UI, navigate to **Contract Management** &gt; **Contract** &gt; **All**.
     -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
@@ -35,7 +35,7 @@ Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace on
 
     |Field|Description|
     |-----|-----------|
-    |Number|The unique number identifying the [[c_ExpenseLine|expense line]].|
+    |Number|The unique number identifying the expense line.|
     |Date|The date on which the expense line was created.|
     |Rate Card|The identification number of the rate card to which the expense line is associated.|
     |Rate type|The rate type that is considered during the expense line generation. This field is read-only.|
@@ -68,8 +68,3 @@ Role required: asset, contract\_manager\(core UI and Hardware Asset Workspace on
 
 [View contract expense lines]()
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[c_ExpenseLine|Expense Line]]

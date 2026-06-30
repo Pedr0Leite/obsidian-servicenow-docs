@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow Voice reference, ServiceNow Voice, Manage people and wor
 
 # Components installed with Amazon Connect Integration with ServiceNow Voice
 
-Several types of components are installed with installation of the Amazon [[c_Connect|Connect]] Integration with Voice application \(sn\_cti\_amzn\_cct\), including user roles, plugins, and operation handlers.
+Several types of components are installed with installation of the Amazon Connect Integration with Voice application \(sn\_cti\_amzn\_cct\), including user roles, plugins, and operation handlers.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -60,9 +60,5 @@ Operation handlers are defined in the ServiceNow instance to run a script based 
 |$connect.s3.event|Receives and processes JSON events from the S3 buckets where the call recording, transcript and analysis data is created and stored. Associates this information with an interaction and Openframe call log records.|
 |createPhoneLog|Creates a PhoneLog for each call transfer and links the Phone Log to the Interaction Related Record|
 
-**Parent Topic:**[[ccc-reference|ServiceNow Voice reference]]
+**Parent Topic:**[ServiceNow Voice reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-reference.md)
 
-## Related
-
-- [[ccc-reference|ServiceNow Voice reference]]
-- [[c_Connect|Connect]]

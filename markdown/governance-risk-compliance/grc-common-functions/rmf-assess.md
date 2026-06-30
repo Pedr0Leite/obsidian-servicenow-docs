@@ -16,15 +16,15 @@ breadcrumb: [Process overview, NIST RMF Use Case Accelerator, GRC use case accel
 
 Within the NIST RMF application, the **Assess** section involves performing security control attestations, evaluating the control effectiveness, managing associated risks and issues, and performing remediation tasks.
 
-**Note:** Starting with version 10.1.0, the [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
+**Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
 Broadly, assessment also involves managing the controls, risks, issues, and remediation tasks that stem from the implementation of the security controls.
 
-**Note:** The NIST RMF application provides read-only access to the content. Update the content following the standard GRC procedures, as outlined in the [[r_PolicyComplianceMgmt|Policy and Compliance Management]], Risk Management, and/or [[c_GRCAudits|Audit Management]] applications.
+**Note:** The NIST RMF application provides read-only access to the content. Update the content following the standard GRC procedures, as outlined in the Policy and Compliance Management, Risk Management, and/or Audit Management applications.
 
 Users can:
 
--   [[rmf-perform-control-attestations|review and perform control attestations]] currently in the system relating to NIST RMF security attestations
+-   review and perform control attestations currently in the system relating to NIST RMF security attestations
 -   view all control tests, highlighting the control and current effectiveness of each control test in place
 -   manage and address any risks stemming from risk statements having a content source of NIST 800-53.r4
 -   identify risks and perform their assessments
@@ -37,7 +37,7 @@ Review and evaluate the effectiveness of the controls through the execution of c
 -   **[Manage and address risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/rmf-manage-address-risks.md)**  
 Review and manage all risks stemming from risk statements having the content source of NIST 800-53.r4.
 -   **[Review and perform risk assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/rmf-perform-risk-assessment.md)**  
-Review and execute the [[risk-assessments|risk assessments]] relating to NIST RMF security assessments.
+Review and execute the risk assessments relating to NIST RMF security assessments.
 -   **[Manage and address issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-address-issues.md)**  
 Review all issues stemming from controls and risks with NIST 800-53.r4 as the source and address them.
 -   **[Manage and address remediation tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-address-remediation-tasks.md)**  
@@ -47,10 +47,3 @@ The NIST RMF assess dashboard provides insights into the overall status of the t
 
 **Parent Topic:**[NIST RMF process overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/nist-rmf-process.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]
-- [[rmf-perform-control-attestations|Review and perform control attestations]]
-- [[risk-assessments|risk assessments]]

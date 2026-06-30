@@ -24,7 +24,7 @@ Role required: none
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] go to **[[egd-oppt-mrktplc-landing|Opportunity marketplace]]** &gt; **Other opportunities**.
+1.  From the Employee Center go to **Opportunity marketplace** &gt; **Other opportunities**.
 
 2.  Select **Edit preferences**.
 
@@ -89,7 +89,3 @@ Save and close the preferences form to make your preferences immediately availab
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

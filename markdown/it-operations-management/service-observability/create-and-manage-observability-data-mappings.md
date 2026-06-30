@@ -33,7 +33,7 @@ Role required: sn\_sow\_svcobs.admin
 
 ## About this task
 
-When a service CI is mapped to specific observability vendor metric tag key/value pairs, [[service-observability|Service Observability]] displays metrics containing those tags for that service. These metrics are grouped by the following entity types:
+When a service CI is mapped to specific observability vendor metric tag key/value pairs, Service Observability displays metrics containing those tags for that service. These metrics are grouped by the following entity types:
 
 -   Application: Metrics associated with the selected service
 -   Compute: Metrics associated with the hosts the service is run on
@@ -44,7 +44,7 @@ For example, say you have metrics from New Relic that are used to monitor servic
 
 If some of your metrics on different entities use a different key name or a different key value, you can create exceptions. For example, if your host metrics use `service` instead of `service_name`, you can create an exception to include those metrics.
 
-Each entity type has its own dashboard and each metric or related CI has its own default chart. You can customize the templates used for the [[otto-aiops-dashboards|dashboards]] and charts. See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md) for more information.
+Each entity type has its own dashboard and each metric or related CI has its own default chart. You can customize the templates used for the dashboards and charts. See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md) for more information.
 
 **Note:** To understand how Service Observability creates these mappings, see [Observability vendor entity mappings for Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/apm-vendor-entity-mappings.md).
 
@@ -106,7 +106,3 @@ On the **Observability** tab of the Service details page, dashboards and charts 
 
 **Parent Topic:**[Configuring Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/configuring-service-observability.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[otto-aiops-dashboards|Dashboards]]

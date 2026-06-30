@@ -28,7 +28,7 @@ Number
 
 </td><td>
 
-[[mco-product-non-conformances|Product non-conformance]] case task number that is automatically generated. The number starts with "PNCCT" and incremented for every new report.
+Product non-conformance case task number that is automatically generated. The number starts with "PNCCT" and incremented for every new report.
 
 </td></tr><tr><td>
 
@@ -119,9 +119,5 @@ Description
 Short description.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[mco-qim-form|Quality issue management form]]
+</table>**Parent Topic:**[Quality issue management form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-qim-form.md)
 
-## Related
-
-- [[mco-qim-form|Quality issue management form]]
-- [[mco-product-non-conformances|Product non-conformance]]

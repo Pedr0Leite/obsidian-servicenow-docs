@@ -24,7 +24,7 @@ Because responsible users cannot be configured for targets on Data snapshots ind
 
 ## Procedure
 
-1.  Open [[kpi-details|KPI Details]] for a native Data snapshots indicator, as described in [[view-kpi-details|View KPI Details]].
+1.  Open KPI Details for a native Data snapshots indicator, as described in [View KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/view-kpi-details.md).
 
 2.  Select the target icon \(\[Omitted image "target-icon.png"\] Alt text: Target icon\) in the sidebar.
 
@@ -35,7 +35,7 @@ Because responsible users cannot be configured for targets on Data snapshots ind
 4.  Select users from the Users \[sys\_user\] table to receive email notifications when a target is met or missed.
 
 
-**Parent Topic:**[[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
+**Parent Topic:**[Indicator targets and thresholds in KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-targets.md)
 
 **Related topics**  
 
@@ -52,8 +52,3 @@ Because responsible users cannot be configured for targets on Data snapshots ind
 
 [bundle-platadm.notifications]
 
-## Related
-
-- [[view-kpi-details|View KPI Details]]
-- [[kpi-details-targets|Indicator targets and thresholds in KPI Details]]
-- [[kpi-details|KPI Details]]

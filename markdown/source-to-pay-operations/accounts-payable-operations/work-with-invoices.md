@@ -15,22 +15,22 @@ breadcrumb: [Using Accounts Payable Invoice Processing, Use, Accounts Payable Op
 
 # Work with invoices
 
-[[invoices|Invoices]] are generated for payments against purchase orders and processed through automated and manual workflows, with Accounts Payable specialists managing them from creation through approval.
+Invoices are generated for payments against purchase orders and processed through automated and manual workflows, with Accounts Payable specialists managing them from creation through approval.
 
-[[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] automatically extracts data from the invoices that are received as an attachment via email, and creates the invoice records and the invoice line records. When the invoice is in certain states during automated invoice processing, manual intervention is required by the Accounts Payable Specialist to move the invoice to the next stage of processing.
+Accounts Payable Operations integration with Document Intelligence automatically extracts data from the invoices that are received as an attachment via email, and creates the invoice records and the invoice line records. When the invoice is in certain states during automated invoice processing, manual intervention is required by the Accounts Payable Specialist to move the invoice to the next stage of processing.
 
-**Note:** [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] supports invoices of type **PO Invoice**, **Non-PO Invoice**, **[[invoice-type-credit-memo|Credit memo]]**.
+**Note:** Accounts Payable Operations supports invoices of type **PO Invoice**, **Non-PO Invoice**, **Credit memo**.
 
 The Accounts Payable Specialist can view the invoices by doing the following:
 
-1.  Navigate to **Accounts Payable Operations** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Accounts Payable Operations** &gt; **Source-to-Pay Workspace**.
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 3.  Navigate to **Lists** &gt; **Invoices**.
 
 -   **[Create an invoice manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md)**  
 Manually create an invoice from the Source-to-Pay Workspace when the automated invoice creation process encounters issues or is unavailable.
 -   **[Update the purchase order on an invoice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/change-invoice-po-number.md)**  
-Correct the [[purchase-order-table|purchase order]] associated with an invoice when the wrong purchase order is linked.
+Correct the purchase order associated with an invoice when the wrong purchase order is linked.
 -   **[View your invoices on Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/view-invoices-ec.md)**  
 View invoices you own directly from Employee Center to monitor invoice status and review invoice details.
 
@@ -53,11 +53,3 @@ View invoices you own directly from Employee Center to monitor invoice status an
 
 [View invoice documents in the Source-to-Pay Workspace]()
 
-## Related
-
-- [[invoices|Invoices]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoice-type-credit-memo|Credit memo]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]

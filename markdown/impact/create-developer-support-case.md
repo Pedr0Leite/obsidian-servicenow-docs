@@ -12,11 +12,11 @@ breadcrumb: [Debug instance customizations with Developer Support, Platform Heal
 
 # Create a Developer Support case
 
-Enter a support case to engage Developer Support assistance, if you are a named contact on the [[impact-landing-page|Impact]] plan.
+Enter a support case to engage Developer Support assistance, if you are a named contact on the Impact plan.
 
 ## Before you begin
 
-Role required: [[developer-support|Impact Developer Support]]
+Role required: Impact Developer Support
 
 ## Procedure
 
@@ -42,7 +42,4 @@ Role required: [[developer-support|Impact Developer Support]]
 
     Once case is created and a case number is generated, you may add additional authorized users on the account to the watch list, further comments, and attachments.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[developer-support|Impact Developer Support]]

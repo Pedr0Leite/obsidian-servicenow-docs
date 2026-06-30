@@ -26,7 +26,7 @@ You can use the default set of actions or customize the actions to suit your bus
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[action-group-framework|Action framework]]** &gt; **Action Groups**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Action framework** &gt; **Action Groups**.
 
 2.  Click **New** or edit an existing **Approvals action group** record.
 
@@ -61,7 +61,3 @@ You can use the default set of actions or customize the actions to suit your bus
 
 Approvals action group is configured to perform quick actions such as **Approve** and **Reject** from the approval page.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[action-group-framework|Action framework]]

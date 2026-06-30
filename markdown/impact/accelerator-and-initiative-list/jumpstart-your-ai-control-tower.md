@@ -18,7 +18,7 @@ Jumpstart your AI Control Tower: Foundations provides a demonstration of the pos
 
 ## Accelerator overview
 
-Jumpstart Your AI Control Tower: Foundations introduces [[impact-landing-page|Impact]] customers to AI Control Tower of ServiceNow. Through an applied demonstration, customers gain clarity on how it supports AI governance, helping them improve oversight and closely track their AI investments. This accelerator includes key resources and leading practice guides, enabling customers to leave feeling confident in their ability to govern AI initiatives effectively.
+Jumpstart Your AI Control Tower: Foundations introduces Impact customers to AI Control Tower of ServiceNow. Through an applied demonstration, customers gain clarity on how it supports AI governance, helping them improve oversight and closely track their AI investments. This accelerator includes key resources and leading practice guides, enabling customers to leave feeling confident in their ability to govern AI initiatives effectively.
 
 ## Package Availability
 
@@ -64,6 +64,3 @@ Jumpstart Your AI Control Tower: Foundations introduces [[impact-landing-page|Im
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]

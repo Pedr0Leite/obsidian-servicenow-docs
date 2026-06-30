@@ -20,7 +20,7 @@ SP admins can perform the following functions:
 
 -   View different aspects of the service consumption such as the number of services consumed per customer and the ticket volume per service.
 -   View customer details including the number of services and HR users.
--   Access [[emp-center-quick-link-config|quick links]] related to daily work tasks such as domain and customer creations, and user management.
+-   Access quick links related to daily work tasks such as domain and customer creations, and user management.
 -   Access quick links for specific domain on the customer details page.
 
     **Note:** SP Admin \(sn\_sp\_admin\_ws.admin\) can access workspace and see a consolidated view of the demand and consumption of services offered to customers. This enables data driven decision making and access to portfolio level links.
@@ -140,6 +140,3 @@ Execute \(1 ACL\)
 |Service Provider|Primary controller that encapsulates all business logic for MSP dashboard features such as create or update KPI, data and links, which need to be shown on the MSP dashboard.|
 |Service Provider Client|Controller that encapsulates all business logic for MSP dashboard client details page features such as create or update KPI, data and links, which need to be shown on the client details page.|
 
-## Related
-
-- [[emp-center-quick-link-config|Quick links]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Create a payload for external third-party providers
 
-Create a payload for external third-party providers to send your [[awa-work-items|work items]] to the external queue.
+Create a payload for external third-party providers to send your work items to the external queue.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: admin
 
 ## Procedure
 
-1.  On your ServiceNow instance, navigate to **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Queues**.
+1.  On your ServiceNow instance, navigate to **All** &gt; **Advanced Work Assignment** &gt; **Queues**.
 
-2.  [[skills-example-queue|Create a queue]] enabling External Routing.
+2.  Create a queue enabling External Routing.
 
     For more information about creating a queue with external routing, see [Enable external routing for queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/enable-awa-external-routing.md).
 
@@ -49,8 +49,4 @@ Role required: admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[skills-example-queue|Create a queue]]

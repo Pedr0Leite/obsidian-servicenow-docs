@@ -12,7 +12,7 @@ breadcrumb: [Email client configurations, Configure, Email client, Notifications
 
 # Define email client recipient qualifiers
 
-Create a configuration that controls the auto-complete list of recipients displayed in the [[c_EnableTheEmailClient|email client]].
+Create a configuration that controls the auto-complete list of recipients displayed in the email client.
 
 ## Before you begin
 
@@ -25,9 +25,9 @@ You can specify recipient qualifiers that display additional fields \(from a sel
 Use the following tabs in the Email Client Recipient Qualifier form to define a recipient configuration.
 
 -   **Display Configuration** – Set up the email recipient auto-complete behavior and optionally select additional fields to differentiate recipients who have the same name. The additional fields ensure that users select the proper recipient for an email.
--   **Query Configuration** – Specify a condition or script that queries the selected table and filters the recipient [[hs-results|results]] returned.
+-   **Query Configuration** – Specify a condition or script that queries the selected table and filters the recipient results returned.
 
-You can define different recipient [[clone-configurations-tab|configurations]], which can be used in an email client configuration.
+You can define different recipient configurations, which can be used in an email client configuration.
 
 ## Procedure
 
@@ -115,11 +115,5 @@ If you selected Script for the **Type**, enter a script that uses these variable
     The recipient qualifier configuration is added to the Recipient Qualifier \[sys\_recipient\_qualifier\] table and is available for use in an email client configuration.
 
 
-**Parent Topic:**[[email-client-configuration|Email client configurations]]
+**Parent Topic:**[Email client configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md)
 
-## Related
-
-- [[email-client-configuration|Email client configurations]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

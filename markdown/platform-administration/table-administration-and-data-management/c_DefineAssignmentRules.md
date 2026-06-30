@@ -14,10 +14,10 @@ breadcrumb: [Working with Task table, Table admin, Tables and data, Configure co
 
 # Defining assignment rules
 
-The instance can automatically assign a task to a user or group based on pre-defined conditions by using [[c_DataLookupRules|data lookup rules]] and assignment rules.
+The instance can automatically assign a task to a user or group based on pre-defined conditions by using data lookup rules and assignment rules.
 
 -   **[Assignment rules module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_AssignmentRulesModule.md)**  
-The [[c_AssignmentRulesModule|Assignment rules module]] allows you to automatically set a value in the assigned\_to and assignment\_group fields when a set of conditions occurs.
+The Assignment rules module allows you to automatically set a value in the assigned\_to and assignment\_group fields when a set of conditions occurs.
 -   **[Data lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_DataLookupRules.md)**  
 Data lookup rules offer a generic way to change any field value, not just assignment fields.
 -   **[Precedence between data lookup, assignment, and business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_PrecBetweenAssignmentAndBusRules.md)**  
@@ -33,7 +33,3 @@ Automatically assign a record using Data Lookup and Record Matching.
 
 **Parent Topic:**[Working with the Task table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/c_TaskTable.md)
 
-## Related
-
-- [[c_DataLookupRules|Data lookup rules]]
-- [[c_AssignmentRulesModule|Assignment rules module]]

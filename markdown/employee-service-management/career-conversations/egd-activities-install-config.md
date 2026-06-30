@@ -14,7 +14,7 @@ breadcrumb: [Career Conversations, Growth Experiences, HR Service Delivery, Empl
 
 # Install and configure Career Conversations
 
-Install and configure the features and components for the [[egd-activities-conversations-module|Career Conversations]] application.
+Install and configure the features and components for the Career Conversations application.
 
 -   **[Install Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-install.md)**  
 Install the Career Conversations app to enable employees and managers to create, manage, and track conversations.
@@ -29,6 +29,3 @@ Perform the following steps to set up an integration with Microsoft Outlook
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]

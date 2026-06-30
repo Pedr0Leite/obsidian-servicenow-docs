@@ -14,7 +14,7 @@ breadcrumb: [Software license reconciliation counters for the legacy Software As
 
 # Create a software counter for the legacy Software Asset Management plugin
 
-How to create a software counter for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+How to create a software counter for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Depending on the [license type](https://raw.githubusercontent.com/ServiceNow/Ser
 
 To manage multiple versions of software from a single licensing perspective for the parent software model:
 
--   The downgrade child [[c_CreatingSoftwareModels|software models]] that are licensed under the parent software model should all be related to a the single parent software model.
+-   The downgrade child software models that are licensed under the parent software model should all be related to a the single parent software model.
 -   The downgrade child software models should not have any software counters associated with them.
 -   The software counter should be associated only with the licensed parent software model, otherwise misleading results for the counter will be reported
 
@@ -70,7 +70,7 @@ Software model
 
 </td><td>
 
-\[Required\] Click the [[reference-for-itsm-mobile-agent|reference]] lookup icon and select the software model for which the counter will check compliance.
+\[Required\] Click the reference lookup icon and select the software model for which the counter will check compliance.
 
 </td></tr><tr><td>
 
@@ -244,8 +244,3 @@ Displays all software counter history records for this software counter. Each ti
 
 **Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -54,7 +54,7 @@ Probe to run with this activity, from the list of probes in the system
 
 </td><td>
 
-Host name or [[ip-address|IP address]] of the target server for this activity.
+Host name or IP address of the target server for this activity.
 
 </td></tr><tr><td id="d396685e151">
 
@@ -62,11 +62,11 @@ Host name or [[ip-address|IP address]] of the target server for this activity.
 
 </td><td>
 
-[[mid-server-landing|MID Server]] to use, by capabilities.
+MID Server to use, by capabilities.
 
 </td></tr><tr><td id="d396685e160">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -117,7 +117,7 @@ probe
 
 </td><td>
 
-[[reference|Reference]]
+Reference
 
 </td><td>
 
@@ -187,7 +187,7 @@ Array of hashmap
 
 </td><td>
 
-Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the [[c_MIDServerSelector|MID Server selection]]:```
+Capability values used to select the MID Server. For more information, see [MID Server capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown). If there are additional capabilities that are assigned by value, use this example to customize the MID Server selection:```
 var valueCapability = {'NEW_MID_CAPABIILTY':'NEW_MID_CAPABILITY_VALUE'}; executionParam.valueCapabilities.push(valueCapability);
 ```
 
@@ -236,10 +236,4 @@ Role required: activity\_creator, admin
 
 4.  Click **Continue** to advance to the **Outputs** stage.
 
-## Related
 
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[reference|Reference]]
-- [[c_MIDServerSelector|MID Server selection]]

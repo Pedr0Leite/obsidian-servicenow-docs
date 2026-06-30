@@ -14,7 +14,7 @@ breadcrumb: [Contractor Portal, Completing work orders on the web interface, Use
 
 # Onboard agents on the Field Service Contractor Portal
 
-Onboard a Field Service agent so the contractor company can [[assign-wot-ext-agent|assign outsourced work order tasks]] to be performed at the customer location by that agent.
+Onboard a Field Service agent so the contractor company can assign outsourced work order tasks to be performed at the customer location by that agent.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ An external agent of the contractor company is onboarded and the internal manage
 
 The internal manager receives a request to approve the onboarding of an agent. For more information, see [Approve or reject requests for onboarding agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Approve-reject-request-onboard-agent.md).
 
-## Related
-
-- [[assign-wot-ext-agent|Assign outsourced work order tasks]]

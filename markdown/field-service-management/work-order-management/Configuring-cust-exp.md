@@ -14,7 +14,7 @@ breadcrumb: [Set up work orders and tasks, Configure, Field Service Management]
 
 # Configuring Field Service Management Customer Experience
 
-Configure the [[fsm-application-landing-page|Field Service Management]] Customer Experience application to enable sending notifications to your customers through email and SMS.
+Configure the Field Service Management Customer Experience application to enable sending notifications to your customers through email and SMS.
 
 ## Configuration Overview
 
@@ -79,7 +79,7 @@ The following items are installed with Field Service Management Customer Experie
 -   Properties
 -   Business rules
 
-For more information, see [[customer-experience-components|Customer Experience components]].
+For more information, see [Customer Experience components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/customer-experience-components.md).
 
 ### Procedure
 
@@ -108,12 +108,7 @@ Customers are notified when one of the following activities is performed to the 
 -   Work order task is canceled
 -   Agent starts to travel to the work order task location
 -   Agents reaches to the work location
--   [[appointment-booking|Appointment booking]] is confirmed
+-   Appointment booking is confirmed
 -   Appointment booking is rescheduled
 -   Appointment booking is canceled
 
-## Related
-
-- [[customer-experience-components|Customer Experience components]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[appointment-booking|Appointment booking]]

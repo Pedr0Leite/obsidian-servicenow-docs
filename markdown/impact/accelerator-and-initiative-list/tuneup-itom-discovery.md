@@ -18,7 +18,7 @@ Provides insight and guidance to improve the health of your Configuration Manage
 
 ## Accelerator Overview
 
-TuneUp Your ITOM Discovery provides [[impact-landing-page|Impact]] Customers with an analysis of common ITOM discovery areas through HealthScan along with recommendations on addressing those findings. Obtain assistance to gain better insight into your CMDB implementation, including a review of the top challenging areas and leading practices on how to best remediate gaps.
+TuneUp Your ITOM Discovery provides Impact Customers with an analysis of common ITOM discovery areas through HealthScan along with recommendations on addressing those findings. Obtain assistance to gain better insight into your CMDB implementation, including a review of the top challenging areas and leading practices on how to best remediate gaps.
 
 ## Package Availability
 
@@ -63,6 +63,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing ITOM Discovery recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

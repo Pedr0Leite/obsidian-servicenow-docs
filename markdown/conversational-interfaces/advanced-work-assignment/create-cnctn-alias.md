@@ -21,7 +21,7 @@ Create a connection Alias for your third-party provider to enable external routi
 Role required: admin
 
 -   Plugins to be installed:
-    -   [[awa-application-landing-page|Advanced Work Assignment]] plugin \(com.glide.awa\)
+    -   Advanced Work Assignment plugin \(com.glide.awa\)
     -   External Routing Support plugin \(com.glide.awa-external\)
 
         **Note:** Load the demo data while installing the plugin.
@@ -43,6 +43,3 @@ Role required: admin
         -   For the Connection URL, give an active URL \(of any third-party provider\) for local set up.
     -   Select **Save**.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

@@ -16,7 +16,7 @@ Enable push notifications for users when they're logged out to deliver timely cr
 
 ## Before you begin
 
-**Important:** Avoid including sensitive information or actionable [[notifications|notifications]] in push notifications sent to logged-out users.
+**Important:** Avoid including sensitive information or actionable notifications in push notifications sent to logged-out users.
 
 Role required: admin
 
@@ -69,7 +69,7 @@ The date and time to activate the plugin.
 
         After the Now Support maintenance window closes, the plugin will be installed on your instance.
 
-    5.  Confirm the installation by viewing the applications listed in the **Installed** tab in the [[application-manager|Application Manager]].
+    5.  Confirm the installation by viewing the applications listed in the **Installed** tab in the Application Manager.
 
 2.  Navigate to **All** &gt; **System Notification** &gt; **Push** &gt; **Push Notifications**.
 
@@ -77,7 +77,7 @@ The date and time to activate the plugin.
 
 4.  In the form, select the **Push to inactive users** check box.
 
-    If the **Push to inactive users** check box is not visible, configure the form layout. For more information, see [[configure-form-layout|Configuring the form layout]].
+    If the **Push to inactive users** check box is not visible, configure the form layout. For more information, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 5.  Select **Update**.
 
@@ -98,7 +98,7 @@ The date and time to activate the plugin.
     4.  Select **Submit**.
 
 
-**Parent Topic:**[[c_PushNotifications|Push notifications]]
+**Parent Topic:**[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_PushNotifications.md)
 
 **Related topics**  
 
@@ -119,9 +119,3 @@ The date and time to activate the plugin.
 
 [Push notification retention]()
 
-## Related
-
-- [[configure-form-layout|Configuring the form layout]]
-- [[c_PushNotifications|Push notifications]]
-- [[notifications|Notifications]]
-- [[application-manager|Application Manager]]

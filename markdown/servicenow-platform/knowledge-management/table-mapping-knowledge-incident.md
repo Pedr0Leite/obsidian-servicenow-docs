@@ -53,7 +53,7 @@ Role required: admin
 
     -   In the **Source** field, select the field in the source Incident table that contains the information to be copied to the field in the article template target table.
     -   In the **Target** field, select the field in the article template target table to which you need information copied to from the field in the source Incident table.
-9.  To customize when and how the **Knowledge** [[check-box|check box]] is displayed, click the **Condition** tab.
+9.  To customize when and how the **Knowledge** check box is displayed, click the **Condition** tab.
 
 10. To map fields using advanced scripts, select the **Advanced Field Mapping** check box.
 
@@ -85,6 +85,3 @@ Role required: admin
 
 **Parent Topic:**[Knowledge article creation from an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-from-incident.md)
 
-## Related
-
-- [[check-box|Check box]]

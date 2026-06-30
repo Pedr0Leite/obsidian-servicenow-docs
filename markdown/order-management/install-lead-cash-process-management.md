@@ -29,7 +29,7 @@ The following items are installed with Lead-to-Cash Process Management:
 -   Tables
 -   Properties
 
-For more information, see [[components-installed-lead-cash-process-management|Components installed with Lead-to-Cash Process Management]] and [[properties-installed-lead-cash-process-management|Properties installed with Lead-to-Cash Process Management]].
+For more information, see [Components installed with Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-lead-cash-process-management.md) and [Properties installed with Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/properties-installed-lead-cash-process-management.md).
 
 ## Procedure
 
@@ -49,37 +49,25 @@ For more information, see [[components-installed-lead-cash-process-management|Co
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
 
 ## Result
 
-The Lead-to-Cash Process Management application is installed on your instance. The Business Object Core application is auto-installed as a dependency. For more information, see [[components-installed-business-object-core|Components installed with Business Object Core]].
+The Lead-to-Cash Process Management application is installed on your instance. The Business Object Core application is auto-installed as a dependency. For more information, see [Components installed with Business Object Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-business-object-core.md).
 
-The O2C Objects business object group also becomes available. It contains entities involved in the opportunity-to-cash process, such as opportunity, quote, and order. You can use this group provided you have [[opportunity-management|Opportunity Management]], [[quote-management|Quote Management]], and [[explore-order-management|Order Management]] apps installed on your ServiceNow instance.
+The O2C Objects business object group also becomes available. It contains entities involved in the opportunity-to-cash process, such as opportunity, quote, and order. You can use this group provided you have Opportunity Management, Quote Management, and Order Management apps installed on your ServiceNow instance.
 
 ## What to do next
 
-Assign roles to Lead-to-Cash Process Management users so that they can access features and perform tasks using this app. For more information, see [[assign-roles-lead-cash-process-management|Assign roles to Lead-to-Cash Process Management users]].
+Assign roles to Lead-to-Cash Process Management users so that they can access features and perform tasks using this app. For more information, see [Assign roles to Lead-to-Cash Process Management users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/assign-roles-lead-cash-process-management.md).
 
 **Related topics**  
 
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
-## Related
-
-- [[components-installed-lead-cash-process-management|Components installed with Lead-to-Cash Process Management]]
-- [[properties-installed-lead-cash-process-management|Properties installed with Lead-to-Cash Process Management]]
-- [[components-installed-business-object-core|Components installed with Business Object Core]]
-- [[assign-roles-lead-cash-process-management|Assign roles to Lead-to-Cash Process Management users]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
-- [[use-cases|Use cases]]
-- [[opportunity-management|Opportunity Management]]
-- [[quote-management|Quote Management]]
-- [[explore-order-management|Order management]]

@@ -18,7 +18,7 @@ The TuneUp Your Virtual Agent - Assessment Accelerator provides guidance on fine
 
 ## Accelerator Overview
 
-The TuneUp Your Virtual Agent - Assessment Accelerator provides [[impact-landing-page|Impact]] customers with an assessment of Virtual Agent with leading practices and prescriptive guidance to enhance Virtual Agent setup. Reviewing the Virtual Agent assessment readout, recommendations to improve Virtual Agent topics, and exploring additional capabilities designed to optimize value from Virtual Agent are included.
+The TuneUp Your Virtual Agent - Assessment Accelerator provides Impact customers with an assessment of Virtual Agent with leading practices and prescriptive guidance to enhance Virtual Agent setup. Reviewing the Virtual Agent assessment readout, recommendations to improve Virtual Agent topics, and exploring additional capabilities designed to optimize value from Virtual Agent are included.
 
 See [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md) for additional information on Virtual Agent.
 
@@ -104,6 +104,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

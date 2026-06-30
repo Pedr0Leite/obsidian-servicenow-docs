@@ -14,13 +14,13 @@ breadcrumb: [Using Impact, Impact]
 
 Outcomes based contextual learning recommendations provide data-driven recommendations for your operational outcomes. This includes tailored trainings for your outcome results.
 
-Outcomes based contextual recommendations analyze the [[instance-observer-performance|performance]] of an outcome, and its associated capabilities to recommend the most appropriate ServiceNow University courses.
+Outcomes based contextual recommendations analyze the performance of an outcome, and its associated capabilities to recommend the most appropriate ServiceNow University courses.
 
 These recommendations are personalized, based on the performance of the outcome and its associated capabilities. For each capability, a single learning recommendation will be generated, with multiple relevant courses included in the same record when applicable.
 
 In the Zurich release, contextual learning recommendations are added for your organizational outcomes insights.
 
-To access an outcomes insight related learning recommendation, navigate to **All** &gt; **[[impact-landing-page|Impact]] [[impact-in-platform-business-outcomes|Value Management]]** &gt; **Outcomes Insights**, and then select the desired outcome.
+To access an outcomes insight related learning recommendation, navigate to **All** &gt; **Impact Value Management** &gt; **Outcomes Insights**, and then select the desired outcome.
 
 The **Outcome Recommendations** panel appears on the **Outcome Detail** page. The selected contextual outcome recommendation summary consists of the following:
 
@@ -38,8 +38,3 @@ You can use the\[Omitted image "ellipsis-vertical-outline-24.svg"\] icon to do t
 -   Email the recommendation text to your team.
 -   Hide recommendations that aren't relevant to you.
 
-## Related
-
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[impact-in-platform-business-outcomes|Value management]]

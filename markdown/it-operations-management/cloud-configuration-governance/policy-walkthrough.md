@@ -34,7 +34,7 @@ You can change any base-system policy by modifying settings or making the policy
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Search for and open the **Lease End ServiceNow** policy.
 
@@ -74,7 +74,7 @@ You can change any base-system policy by modifying settings or making the policy
 
         Notice that the **Scheduled Operations \[sn\_cmp\_scheduled\_operation\]** table is specified.
 
-        **Note:** You base all notifications for [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] on this table.
+        **Note:** You base all notifications for Cloud Provisioning and Governance on this table.
 
         \[Omitted image "policy-lease-end-notification-table.png"\] Alt text: Scheduled Operations table
 
@@ -123,7 +123,3 @@ This example uses the settings available through the form configuration. To see 
 
 **Parent Topic:**[Policies for Cloud Provisioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-policy.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

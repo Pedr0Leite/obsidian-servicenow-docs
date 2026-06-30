@@ -14,9 +14,9 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 # Document Intelligence properties
 
-[[document-intelligence-landing|Document Intelligence]] \(DocIntel\) system properties control the behavior of the Document Intelligence application.
+Document Intelligence \(DocIntel\) system properties control the behavior of the Document Intelligence application.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 The DocIntel Manager \(sn\_docintel.manager\) can modify the system properties for DocIntel.
 
@@ -72,7 +72,7 @@ sn\_docintel.default\_thumbnail\_sidebar\_width
 
 </td><td>
 
-The default thumbnail sidebar width for the [[now-assist-global-navigation|navigation]] panel in the Document Intelligence workspace.
+The default thumbnail sidebar width for the navigation panel in the Document Intelligence workspace.
 
 </td><td>
 
@@ -114,7 +114,7 @@ sn\_docintel.show\_candidate\_score
 
 </td><td>
 
-Show [[docintel-confidence-scores|confidence scores]] on the recommendations selection menu in the document fields panel in the Document Intelligence workspace.
+Show confidence scores on the recommendations selection menu in the document fields panel in the Document Intelligence workspace.
 
 </td><td>
 
@@ -381,9 +381,3 @@ Allowed: true, false
 
 [Limitations in Document Intelligence]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[now-assist-global-navigation|Navigation]]
-- [[docintel-confidence-scores|Confidence scores]]

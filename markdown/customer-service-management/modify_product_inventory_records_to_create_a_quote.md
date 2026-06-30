@@ -12,7 +12,7 @@ breadcrumb: [Modify product inventory records, Product inventory configurations,
 
 # Modify product inventory records to create a quote
 
-Perform the **Modify**operation on a single product inventory record that results in the creation of a quote on the [[csm-workspaces-configure|CSM Configurable Workspace]]. For example, you might want to add or delete an optional product inventory or update its configurations.
+Perform the **Modify**operation on a single product inventory record that results in the creation of a quote on the CSM Configurable Workspace. For example, you might want to add or delete an optional product inventory or update its configurations.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Required plugins: Product Configurator UI \(com.sn\_prd\_config\_ui\), Quote Man
 
     A quote to modify the product inventory is created. You can select the quote number from the confirmation message on the account page to open the quote and see the quote line items. Alternatively, you can find the quote from **All Menu** &gt; **Quote** in the Quote list.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

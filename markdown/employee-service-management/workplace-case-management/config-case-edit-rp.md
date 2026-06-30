@@ -14,9 +14,9 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Configuring a record producer for request edit
 
-[[wsd-create-record-producer|Configure a record producer]] for editable workplace service requests.
+Configure a record producer for editable workplace service requests.
 
-The request edit feature in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] lets users modify the details of their submitted requests. Cases that are created with record producers on the Workplace Case or Workplace Case Extension tables can be edited, keeping records current and accurate.
+The request edit feature in Workplace Service Delivery lets users modify the details of their submitted requests. Cases that are created with record producers on the Workplace Case or Workplace Case Extension tables can be edited, keeping records current and accurate.
 
 To configure the edit functionality of a record producer, follow the steps in the following sections.
 
@@ -24,7 +24,7 @@ To configure the edit functionality of a record producer, follow the steps in th
 
 You must first create a record producer on the Workplace Case or Workplace Case Extension tables, then map it to the **Record Producer** field of a Workplace Service. For more information about creating a record producer, see [Configure a Record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/wsd-create-record-producer.md).
 
-If you want to integrate the record producer with [[workplace-rsv-mgmt-feat|Workplace Reservation Management]], see [Configuring a record producer for reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/config-reservation-rp.md).
+If you want to integrate the record producer with Workplace Reservation Management, see [Configuring a record producer for reservation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/config-reservation-rp.md).
 
 ## Enabling the edit functionality
 
@@ -57,7 +57,7 @@ After making their changes, users can save the updated case, which makes the fol
 
     While setting the default value for any variable, ensure that it only applies to the new request submission. You can use the `id` parameter from the page URL in the client scripts to determine whether it’s a request submission page or an edit page.
 
-    For more information, refer to any record producers installed with [[workplace-case-mgmt-feat|Workplace Case Management]], like `Catering`.
+    For more information, refer to any record producers installed with Workplace Case Management, like `Catering`.
 
 -   **Triggering an event on submission**
 
@@ -71,7 +71,7 @@ After making their changes, users can save the updated case, which makes the fol
 
     Condition
 
-    To use custom widgets in the record producer, ensure that the widget can pre-fill data based on the submitted request. The [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] for the widget can be taken from the Workplace Service widget.
+    To use custom widgets in the record producer, ensure that the widget can pre-fill data based on the submitted request. The reference for the widget can be taken from the Workplace Service widget.
 
     Remedy
 
@@ -119,10 +119,3 @@ After making their changes, users can save the updated case, which makes the fol
 
 [Group similar workplace cases under a parent case]()
 
-## Related
-
-- [[wsd-create-record-producer|Configure a Record producer]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

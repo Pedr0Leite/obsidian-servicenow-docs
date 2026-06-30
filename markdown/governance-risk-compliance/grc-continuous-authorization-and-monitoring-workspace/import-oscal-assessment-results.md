@@ -14,7 +14,7 @@ breadcrumb: [Import in OSCAL format, CAM OSCAL, Continuous authorization and mon
 
 # Import OSCAL Assessment Results \(AR\)
 
-Import an OSCAL Assessment Results \(AR\) package from another instance or external tool to [[t_CreateEngagement|create an engagement]].
+Import an OSCAL Assessment Results \(AR\) package from another instance or external tool to create an engagement.
 
 ## Before you begin
 
@@ -180,6 +180,3 @@ Assign users to the authorization package roles for the imported files. The role
 
 **Parent Topic:**[Import in OSCAL format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/import-oscal.md)
 
-## Related
-
-- [[t_CreateEngagement|Create an engagement]]

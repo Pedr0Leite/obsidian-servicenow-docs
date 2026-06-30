@@ -13,7 +13,7 @@ breadcrumb: [Building a scenario analysis using simulation, Scenario analysis us
 
 # Mark the scenario analysis as complete
 
-Complete the [[scenario-analysis-ov|Scenario analysis]] after all required playbook steps are finished to lock the record and make the results available for reporting and governance review.
+Complete the Scenario analysis after all required playbook steps are finished to lock the record and make the results available for reporting and governance review.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ The **Complete analysis** button is active only after all required steps are mar
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
 
 2.  Confirm that all required steps show a completed status in the stage panel.
 
@@ -48,7 +48,3 @@ The **Complete analysis** button is active only after all required steps are mar
 
 The Scenario analysis record is complete. Simulation results, treatment decision, and any captured vulnerabilities or issues are saved to the record and available for reporting and governance review in Operational Resilience Workspace. The **Operational Vulnerabilities** and **Issues** stages remain visible in read-only mode after completion; you cannot add new vulnerabilities or issues from the playbook after the record reaches the **Completed** state.
 
-## Related
-
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]

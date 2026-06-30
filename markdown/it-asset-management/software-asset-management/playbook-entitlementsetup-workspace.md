@@ -38,7 +38,7 @@ A playbook is divided into three parts:
 
 You can use the guided walk-through playbook for setting up entitlements. The guided walk-through playbook takes you step by step through each stage of the entitlement creation process, from initiation to completion.
 
-To access the [[c_SoftwareAssetMgmt|Software Asset Management]] playbook, you must install it from the ServiceNow Store and then access the playbook from the landing page on the [[sam-workspace|Software Asset Workspace]].
+To access the Software Asset Management playbook, you must install it from the ServiceNow Store and then access the playbook from the landing page on the Software Asset Workspace.
 
 ## Using Guided Setup
 
@@ -118,7 +118,3 @@ Navigate to the Adobe Cloud Guided Setup using either of the following ways:
 
 [Software Asset Management publisher pack for Adobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

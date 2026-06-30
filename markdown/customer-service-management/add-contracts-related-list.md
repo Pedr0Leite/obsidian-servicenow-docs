@@ -22,11 +22,11 @@ Role required: manager
 
 To see the contracts associated with Accounts, Consumers, and Households, respectively, on the same page, you must add the related list manually on the form.
 
-**Note:** You can only add the related list on the platform interface in the Workspace view. The same setting is implemented on the [[csm-workspaces-configure|CSM Configurable Workspace]].
+**Note:** You can only add the related list on the platform interface in the Workspace view. The same setting is implemented on the CSM Configurable Workspace.
 
 ## Procedure
 
-1.  [[add-lists-sp-ibi|Add related lists to sold products and install base items]].
+1.  Add related lists to sold products and install base items.
 
 <table id="choicetable_zqd_tnc_pzb"><thead><tr><th align="left" id="d319700e65">
 
@@ -67,7 +67,7 @@ Procedure
 
 
 </td></tr></tbody>
-</table>2.  From the Additional actions menu, select **Configure** &gt; **Related [[migration-lists|Lists]]**.
+</table>2.  From the Additional actions menu, select **Configure** &gt; **Related Lists**.
 
 3.  Select **Workspace** in the **View name** field.
 
@@ -77,8 +77,4 @@ Procedure
 
     The related lists are added on the Sold Product or Install Base Item form.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[add-lists-sp-ibi|Add related lists to sold products and install base items]]
-- [[migration-lists|Lists]]

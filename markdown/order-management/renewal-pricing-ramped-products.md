@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Renewal pricing for products with price and quantity ramps
 
-You can control how renewal uplift pricing for product offerings with [[defining-products-with-ramps|price and quantity ramps]] is calculated by the pricing engine. A renewal uplift is a price increase applied to a product when a contract is renewed.
+You can control how renewal uplift pricing for product offerings with price and quantity ramps is calculated by the pricing engine. A renewal uplift is a price increase applied to a product when a contract is renewed.
 
 ## Overview of renewal pricing for products with ramps
 
@@ -69,11 +69,7 @@ Using the uplift calculation example from the previous section, the pricing engi
 
 Manage how the pricing engine calculates renewal uplift pricing for ramped products by using the following properties and extension point:
 
--   Uplift renewal multiplier: To set the uplift renewal multiplier, use the `renewal_uplift_term` system property. For more information, see [[som-set-pricing-properties|Set properties to control pricing processing]].
+-   Uplift renewal multiplier: To set the uplift renewal multiplier, use the `renewal_uplift_term` system property. For more information, see [Set properties to control pricing processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-set-pricing-properties.md).
 -   Segment basis and term used by the pricing engine: Use the system properties `sn_csm_pricing.ramp_renewal_price_segment` and `sn_csm_pricing.ramp_renewal_term_basis`. To learn more, see [Set properties to control pricing processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-set-pricing-properties.md).
 -   Override the default renewal uplift calculations for ramped products: Use the `RampRenewalUpliftCalculationExtensionPoint` to customize the uplift calculation logic. Access the extension point by navigating to **All** &gt; **Pricing** &gt; **Administration** &gt; **Scripted Extension Points** and in the Extension Points list, select `sn_csm_pricing.RampRenewalUpliftCalculationExtensionPoint`. Your inputs can include data such as the unit price and term for each ramp segment.
 
-## Related
-
-- [[som-set-pricing-properties|Set properties to control pricing processing]]
-- [[defining-products-with-ramps|Price and quantity ramps]]

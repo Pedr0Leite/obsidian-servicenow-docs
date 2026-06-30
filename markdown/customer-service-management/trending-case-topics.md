@@ -12,7 +12,7 @@ breadcrumb: [Machine learning solutions, Implement Intelligence, Configure, Cust
 
 # Trending case topics
 
-Resolve cases more efficiently and proactively using Predictive [[intelligence-csm|Intelligence]] to identify clusters of cases with similar issues and pinpoint factors that drive up case volume. Each cluster of cases represents a trending case topic.
+Resolve cases more efficiently and proactively using Predictive Intelligence to identify clusters of cases with similar issues and pinpoint factors that drive up case volume. Each cluster of cases represents a trending case topic.
 
 Using trending case topics has the following benefits: ​
 
@@ -22,7 +22,7 @@ Using trending case topics has the following benefits: ​
 
 System administrators train solution definitions to cluster similar cases and identify similar major cases for the clustering.
 
-Major issue managers use trending case topic [[migration-lists|lists]] to analyze the backlog of cases. Using the lists, they can quickly identify any existing major cases that the backlog could be linked to or create a new major case.
+Major issue managers use trending case topic lists to analyze the backlog of cases. Using the lists, they can quickly identify any existing major cases that the backlog could be linked to or create a new major case.
 
 ## Activation information
 
@@ -31,19 +31,11 @@ The trending case topics feature requires the Predictive Intelligence for CSM \(
 **Related topics**  
 
 
-[[configure-trending-topics|Configure trending case topics]]
+[Configure trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-trending-topics.md)
 
-[[view-trending-case-topics|View trending case topics]]
+[View trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-trending-case-topics.md)
 
-[[trending-case-topics-mim|Add trending case topics to existing major cases]]
+[Add trending case topics to existing major cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/trending-case-topics-mim.md)
 
-[[major-cases-trending-topics|Create major cases for trending case topics]]
+[Create major cases for trending case topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-cases-trending-topics.md)
 
-## Related
-
-- [[configure-trending-topics|Configure trending case topics]]
-- [[view-trending-case-topics|View trending case topics]]
-- [[trending-case-topics-mim|Add trending case topics to existing major cases]]
-- [[major-cases-trending-topics|Create major cases for trending case topics]]
-- [[intelligence-csm|Intelligence]]
-- [[migration-lists|Lists]]

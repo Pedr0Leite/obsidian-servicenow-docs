@@ -14,11 +14,11 @@ breadcrumb: [Set up Desktop Assistant, Configure, Digital End-User Experience, I
 
 # Customizing Desktop Assistant notifications using API parameters
 
-Administrators can send customized [[da-push-notifications|Desktop Assistant notifications]] to specific users by using the `DesktopAppNotificationUtils` script include with a set of notification parameters.
+Administrators can send customized Desktop Assistant notifications to specific users by using the `DesktopAppNotificationUtils` script include with a set of notification parameters.
 
 Desktop Assistant notifications are sent using the sendDANotification\(\) method of the `DesktopAppNotificationUtils` script include in the sn\_dex\_desktop application scope. This method is a server-side invocation that can be called from business rules, Background Scripts, Scheduled Jobs, Flow Script Steps, or Flow Designer actions. It is not exposed as a REST endpoint or Notify API. The Desktop Assistant client receives these notifications and displays them on the user's device, notifying employees of time-sensitive events such as major incidents affecting their services or software licenses that are about to expire.
 
-By default, Major [[c_IncidentManagement|Incident Management]] \(MIM\) and [[proactive-engagement-landing-page|Proactive Engagement]] \(PE\) send notifications through Desktop Assistant without invoking this API. For more information, see [Desktop Assistant notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/da-push-notifications.md). Use the `DesktopAppNotificationUtils` API to send notifications from additional sources.
+By default, Major Incident Management \(MIM\) and Proactive Engagement \(PE\) send notifications through Desktop Assistant without invoking this API. For more information, see [Desktop Assistant notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/da-push-notifications.md). Use the `DesktopAppNotificationUtils` API to send notifications from additional sources.
 
 **Note:** Desktop Assistant notifications require the Desktop Assistant client to be installed and running on the user's endpoint device.
 
@@ -37,7 +37,7 @@ By default, Major [[c_IncidentManagement|Incident Management]] \(MIM\) and [[pro
 
 Each Desktop Assistant notification appears as a card in the Desktop Assistant notification panel. The notification card displays the title, message body, and a timestamp indicating when the notification was sent.
 
-If a notification is associated with a ServiceNow record, the card includes a deep link that opens the linked record directly. When the user's device is active at notification delivery time, a brief system tray toast notification also appears. The toast disappears automatically, while the notification card remains available in the Desktop Assistant panel for later [[reference-for-itsm-mobile-agent|reference]].
+If a notification is associated with a ServiceNow record, the card includes a deep link that opens the linked record directly. When the user's device is active at notification delivery time, a brief system tray toast notification also appears. The toast disappears automatically, while the notification card remains available in the Desktop Assistant panel for later reference.
 
 ## Notification visibility duration
 
@@ -58,9 +58,3 @@ The **sn\_dex\_desktop.sn\_desktop\_assistant.notification\_time\_to\_live** sys
 
 [Digital End-User Experience properties and settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-properties-settings.md)
 
-## Related
-
-- [[da-push-notifications|Desktop Assistant notifications]]
-- [[c_IncidentManagement|Incident Management]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[reference-for-itsm-mobile-agent|Reference]]

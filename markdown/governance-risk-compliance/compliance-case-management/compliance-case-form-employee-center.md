@@ -14,7 +14,7 @@ breadcrumb: [Employee Center, Report compliance case, Use, Compliance Case Manag
 
 # Report a Compliance Case form
 
-Use the Report a Compliance Case form in the [[employee-center|Employee Center]] to report a compliance case.
+Use the Report a Compliance Case form in the Employee Center to report a compliance case.
 
 See the following table for a description of the field values.
 
@@ -36,6 +36,3 @@ See the following table for a description of the field values.
 
 **Parent Topic:**[Report a compliance case from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/report-compliance-case-employee-center.md)
 
-## Related
-
-- [[employee-center|employee center]]

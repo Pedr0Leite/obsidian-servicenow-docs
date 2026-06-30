@@ -22,9 +22,9 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Software Asset Workspace**.
 
-2.  From the Software Asset Workspace, open the [[operations-workspace|License operations view]].
+2.  From the Software Asset Workspace, open the License operations view.
 
 3.  From the navigation menu of the License operations view, navigate to **Content** &gt; **Parent-Child Relationship**.
 
@@ -44,17 +44,11 @@ Role required: sam\_admin
 
 ## Result
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application automatically updates the life-cycle dates of the specified child product with the life-cycle dates of the specified parent product, given that the child product does not already have its own specific life-cycle dates.
+The Software Asset Management application automatically updates the life-cycle dates of the specified child product with the life-cycle dates of the specified parent product, given that the child product does not already have its own specific life-cycle dates.
 
 ## What to do next
 
-View life-cycle dates and other life-cycle information for both your parent and child software products in the [[lifecycle-management-dashboard|Lifecycle management dashboard]]. You can access this dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**. See [Lifecycle management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/lifecycle-management-dashboard.md) for more information on this dashboard.
+View life-cycle dates and other life-cycle information for both your parent and child software products in the Lifecycle management dashboard. You can access this dashboard by navigating to **Workspaces** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Lifecycle management**. See [Lifecycle management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/lifecycle-management-dashboard.md) for more information on this dashboard.
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]
-- [[operations-workspace|License operations view]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[lifecycle-management-dashboard|Lifecycle management dashboard]]

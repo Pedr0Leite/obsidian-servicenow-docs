@@ -18,10 +18,7 @@ Use this option to modify the ArcSight ESM default ingestion settings.
 
 To modify the system properties, log in as a user with the `sn_si.admin` role and navigate to **ArcSight ESM Integration** &gt; **ArcSight ESM Integration Settings**.
 
-The default [[qradar-ibm-intg-settings|configuration settings]] are displayed. You can modify these settings if required.
+The default configuration settings are displayed. You can modify these settings if required.
 
 \[Omitted image "sir-arcsight-esm-intg-settings.png"\] Alt text: ArcSight ESM: Integration Settings
 
-## Related
-
-- [[qradar-ibm-intg-settings|Configuration settings]]

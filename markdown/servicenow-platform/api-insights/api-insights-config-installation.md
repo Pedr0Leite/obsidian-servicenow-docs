@@ -14,7 +14,7 @@ breadcrumb: [Configure, API Insights, Configuration Management Database \(CMDB\)
 
 # Configuring API Insights as a system administrator
 
-As a user with the admin role, set up the [[api-insights|API Insights]] workspace by installing the application and assigning roles to users for managing API operations.
+As a user with the admin role, set up the API Insights workspace by installing the application and assigning roles to users for managing API operations.
 
 ## System administrator tasks overview
 
@@ -26,6 +26,4 @@ As a user with the admin role, set up the [[api-insights|API Insights]] workspac
 
     Assign roles for using the API Insights workspace.
 
-## Related
 
-- [[api-insights|API Insights]]

@@ -18,12 +18,12 @@ The ServiceNow® HR Service Delivery Integration with Workday Learning applicati
 
 With this application, you can do the following:
 
--   [[w-profile|Synchronize worker profiles]] from Workday to a ServiceNow application.
--   Pull Workday tasks into a ServiceNow application. Enable employees to view all their to-dos or tasks in a single place, [[employee-center-landing-page|Employee Center]].
+-   Synchronize worker profiles from Workday to a ServiceNow application.
+-   Pull Workday tasks into a ServiceNow application. Enable employees to view all their to-dos or tasks in a single place, Employee Center.
 
 ## Application setup
 
-First, you must activate the HR Service Delivery Integration with Workday Learning application from ServiceNow Store. This automatically activates the Workday [[exploring-learning-exp|Learning]] Spoke. Next you must set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md).
+First, you must activate the HR Service Delivery Integration with Workday Learning application from ServiceNow Store. This automatically activates the Workday Learning Spoke. Next you must set up [Workday HR Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/workday-hr-spoke.md).
 
 **Note:**
 
@@ -36,7 +36,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: [[config-hrsd-int-workday|Using HR Service Delivery Integration with Workday]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-workday-learning-intg.md)
+[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text: Using HR Service Delivery Integration with Workday.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/using-workday-learning-intg.md)
 
 </td><td>
 
@@ -44,15 +44,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties. Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hrsd-int-workday-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like fields, tables, and properties. Get details about components like fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hrsd-int-workday-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[w-profile|Synchronize worker profiles]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]
-- [[config-hrsd-int-workday|Using HR Service Delivery Integration with Workday]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

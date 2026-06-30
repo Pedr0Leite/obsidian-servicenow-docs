@@ -18,7 +18,7 @@ Use regular expression \(regex\) encoding to establish a pattern format for voca
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Common Model plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
 -   Create or use an existing NLU model for Virtual Agent or AI Search.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The editor must be assigned to the model.
 
@@ -64,6 +64,3 @@ See [Using regular expressions in entities](https://raw.githubusercontent.com/Se
 
 [Using regular expressions in entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/using-regular-expressions-nlu.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

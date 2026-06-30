@@ -31,7 +31,7 @@ By default, the KPIs that are associated with your KPI assignment groups are sch
 
 1.  Create a KPI group.
 
-    1.  Navigate to **[[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]** &gt; **Team Performance** &gt; **KPI Groups**.
+    1.  Navigate to **Workforce Optimization for ITSM** &gt; **Team Performance** &gt; **KPI Groups**.
 
     2.  Click **New**.
 
@@ -65,6 +65,3 @@ By default, the KPIs that are associated with your KPI assignment groups are sch
 
 **Parent Topic:**[Setting up Teams in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/setup-teams-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

@@ -26,7 +26,7 @@ Each floor in the organization can be considered as a site. Each site can be fur
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[contact-tracing|Contact Tracing]]** &gt; **Mist Systems** &gt; **Organizations**.
+1.  Navigate to **All** &gt; **Contact Tracing** &gt; **Mist Systems** &gt; **Organizations**.
 
 2.  Click **New**.
 
@@ -51,6 +51,3 @@ Each floor in the organization can be considered as a site. Each site can be fur
 
 **Parent Topic:**[Retrieving Wi-Fi access log data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/wifi-access-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

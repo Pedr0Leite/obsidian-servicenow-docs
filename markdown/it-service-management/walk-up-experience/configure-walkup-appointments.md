@@ -14,7 +14,7 @@ breadcrumb: [Configure Walk-up Experience appointment booking, Walk-up Experienc
 
 # Create or modify a Walk-up Experience appointment booking service configuration
 
-Create or modify appointment booking configurations for [[walkup-experience-landing-page|Walk-up Experience]] services. A service is defined as the actual physical location of a walk-up queue. The information stored in the Walk-up Experience application configuration applies to all services, or queue locations, within the application.
+Create or modify appointment booking configurations for Walk-up Experience services. A service is defined as the actual physical location of a walk-up queue. The information stored in the Walk-up Experience application configuration applies to all services, or queue locations, within the application.
 
 ## Before you begin
 
@@ -116,7 +116,7 @@ Location
 
 </td><td>
 
-The field on the record provider that determines the appointment location. **Note:** Ensure the **Location** field on both this form and the Walk-up Location Queue \(wu\_location\_queue\) form are configured in alignment. Walk-up Experience contains the *location* [[reference-for-itsm-mobile-agent|reference]] variable, which is a Location \(cmn\_location\) record. Selecting **Location** from the search list \[Omitted image "List\_SearchIcon.png"\] Alt text: search list icon icon ensures that you’re aligning with the same time zone as the walk-up location you are configuring for. When you select **Location**, the online appointment scheduling calendar displays in the requester time zone. If this field is kept empty or if the requester preference for the instance is not configured to have an associated time zone, the appointment scheduling calendar defaults to display in the requester time zone.
+The field on the record provider that determines the appointment location. **Note:** Ensure the **Location** field on both this form and the Walk-up Location Queue \(wu\_location\_queue\) form are configured in alignment. Walk-up Experience contains the *location* reference variable, which is a Location \(cmn\_location\) record. Selecting **Location** from the search list \[Omitted image "List\_SearchIcon.png"\] Alt text: search list icon icon ensures that you’re aligning with the same time zone as the walk-up location you are configuring for. When you select **Location**, the online appointment scheduling calendar displays in the requester time zone. If this field is kept empty or if the requester preference for the instance is not configured to have an associated time zone, the appointment scheduling calendar defaults to display in the requester time zone.
 
 If a requester in Europe has User preferences for **Time zone** configured for **Europe/Brussels** and the Appointment Booking Configuration for the **Location** field is set to a cmn\_location with the time zone **US/Pacific**, then the appointment scheduling calendar will display in the US/Pacific time zone.
 
@@ -265,7 +265,3 @@ Create or modify different schedules at a day level when booking appointments fo
 
 **Parent Topic:**[Configure Walk-up Experience appointment booking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-appointment-booking-config.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[reference-for-itsm-mobile-agent|Reference]]

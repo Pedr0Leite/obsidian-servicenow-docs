@@ -14,11 +14,11 @@ breadcrumb: [Reference, Currency administration, Configure core features, Admini
 
 # Life cycle of records containing FX Currency fields
 
-The behavior of [[fx-currency|FX Currency fields]] varies during the processing that occurs during the lifetime of a record containing them.
+The behavior of FX Currency fields varies during the processing that occurs during the lifetime of a record containing them.
 
 ## Insert / Update
 
-The FX Currency field points to a Currency Instance \[fx\_currency2\_instance\] record. When you change the currency value in an FX Currency field, it determines the conversion rate and calculates the [[reference-email-admin|reference]] currency before:
+The FX Currency field points to a Currency Instance \[fx\_currency2\_instance\] record. When you change the currency value in an FX Currency field, it determines the conversion rate and calculates the reference currency before:
 
 -   The **before** business rules run.
 -   The **after** business rules run, and it includes any further changes you may have made to the **before** business rules.
@@ -46,7 +46,3 @@ When creating history lines for a user, the audited string is formatted, using t
 
 [Dot-walkable Currency Instance fields]()
 
-## Related
-
-- [[fx-currency|FX Currency fields]]
-- [[reference-email-admin|Reference]]

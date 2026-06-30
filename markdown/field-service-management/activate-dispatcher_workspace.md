@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Activate Dispatcher Workspace
 
-You can activate the [[dispatcher-activities|Dispatcher Workspace]] plugin \(sn\_fsm\_disp\_wrkspc\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related plugins if they are not already installed.
+You can activate the Dispatcher Workspace plugin \(sn\_fsm\_disp\_wrkspc\) for Field Service Management if you have the admin role. The application includes demo data and installs related plugins if they are not already installed.
 
 ## Before you begin
 
@@ -69,7 +69,4 @@ This plugin provides a set of generic artifacts that can be used to define confi
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

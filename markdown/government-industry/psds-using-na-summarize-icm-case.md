@@ -12,7 +12,7 @@ breadcrumb: [Use generative AI skills, Now Assist for PSDS, Public Sector Digita
 
 # Summarize an investigative case using the Now Assist for PSDS Investigative case summarization skill
 
-Generate a summary directly from the investigative case workspace to help you understand the case context using the investigative case summarization skill in the [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]] application.
+Generate a summary directly from the investigative case workspace to help you understand the case context using the investigative case summarization skill in the Now Assist for Public Sector Digital Services \(PSDS\) application.
 
 ## About this task
 
@@ -104,7 +104,3 @@ If you want to view more details about the summary, select the more info icon \(
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[now-assist-for-psds|Now Assist for Public Sector Digital Services \(PSDS\)]]

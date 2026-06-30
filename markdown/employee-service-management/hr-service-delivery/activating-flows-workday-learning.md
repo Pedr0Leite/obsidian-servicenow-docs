@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with Workday Learning, I
 
 # Activate schedule flows
 
-Activate the schedule flow that interacts with Workday [[exploring-learning-exp|Learning]] to pull user profile information and tasks into a ServiceNow application.
+Activate the schedule flow that interacts with Workday Learning to pull user profile information and tasks into a ServiceNow application.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_lrn\_workday.admin
 
 5.  In the **Trigger** field, specify the time and interval at which you want to automatically run the scheduled flow.
 
-    This flow in turn triggers the [[flows-ukg|subflows]] to automate tasks. To customize the sample flow, copy it to the required application scope.
+    This flow in turn triggers the subflows to automate tasks. To customize the sample flow, copy it to the required application scope.
 
     Available subflows include:
 
@@ -40,15 +40,10 @@ Role required: sn\_lrn\_workday.admin
     |-------|-----------|
     |Assign Course to Workday Learning|Assigns learning courses to the ServiceNow users.|
     |Pull Courses from Workday Learning|Retrieves details of the learning courses and maps courses from Workday Learning to ServiceNow.|
-    |Pull User [[activity-lxp|Activity]] from Workday Learning|Retrieves user course activity data from Workday Learning and saves it in the ServiceNow instance.|
+    |Pull User Activity from Workday Learning|Retrieves user course activity data from Workday Learning and saves it in the ServiceNow instance.|
     |Track Approval for Workday Learning|Retrieves details of learning todos from Workday Learning and saves it in the ServiceNow instance.|
     |Workday Learning User Mapping|Maps users between Workday Learning and ServiceNow instance|
 
-    Once data is pulled into staging tables, [[transform-maps-navex|transform maps]] move data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-transform-maps-wd-learning.md).
+    Once data is pulled into staging tables, transform maps move data into target tables. For more details, refer to [Use transform maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/use-transform-maps-wd-learning.md).
 
-## Related
 
-- [[exploring-learning-exp|Learning]]
-- [[flows-ukg|Subflows]]
-- [[activity-lxp|Activity]]
-- [[transform-maps-navex|Transform maps]]

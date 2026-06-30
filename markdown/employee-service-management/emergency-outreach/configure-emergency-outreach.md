@@ -14,7 +14,7 @@ breadcrumb: [Emergency Outreach, Emergency Response Management, Employee Service
 
 # Configure Emergency Outreach notifications
 
-A user with the admin role can add email notifications to use for any of the apps that communicate using [[emergency-outreach|Emergency Outreach]]. Each app provides a default email notification as an example to help with planning a new notification.
+A user with the admin role can add email notifications to use for any of the apps that communicate using Emergency Outreach. Each app provides a default email notification as an example to help with planning a new notification.
 
 ## Before you begin
 
@@ -25,16 +25,16 @@ Role required: admin and sn\_imt\_checkin.checkin\_admin
 The Emergency Outreach notification feature supports the following applications and base system outreach notifications.
 
 -   Emergency Outreach: Request employee response indicating health status.
--   [[employee-readiness-surveys|Employee Readiness Surveys]]: Send a survey link with questions to determine employee readiness to return to the workplace.
--   [[employee-health-screening|Employee Health Screening]]: Request that employees acknowledge their health status verification each day before they can return to the workplace.
--   [[contact-tracing|Contact Tracing]]:
+-   Employee Readiness Surveys: Send a survey link with questions to determine employee readiness to return to the workplace.
+-   Employee Health Screening: Request that employees acknowledge their health status verification each day before they can return to the workplace.
+-   Contact Tracing:
     -   Schedule an email notification to request that employees in the workplace list other employees they were in contact with.
     -   Schedule an email notification to request that employees review the organization's privacy policy and provide their consent to use their data for contact tracing.
     -   Send an email notification to potentially exposed contacts in an exposure case to notify them that they might have been potentially exposed to an affected employee at the workplace.
 
 ## Procedure
 
-1.  [Add an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/configure-outreach-email-notif.md) to customize the send conditions and [[ec-notification-content|notification content]] for an outreach.
+1.  [Add an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/configure-outreach-email-notif.md) to customize the send conditions and notification content for an outreach.
 
 2.  [Update the email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/edit-add-emergency-outreach-notif.md) used in the outreach notification.
 
@@ -54,10 +54,4 @@ The Emergency Outreach notification feature supports the following applications 
 
     **Note:** SMS notifications are available only for outreach acknowledgments and daily health verifications.
 
-## Related
 
-- [[emergency-outreach|Emergency Outreach]]
-- [[employee-readiness-surveys|Employee Readiness Surveys]]
-- [[employee-health-screening|Employee Health Screening]]
-- [[contact-tracing|Contact Tracing]]
-- [[ec-notification-content|Notification content]]

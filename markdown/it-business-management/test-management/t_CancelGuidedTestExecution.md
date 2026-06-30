@@ -19,7 +19,7 @@ Cancel the guided testing process after it has started so that you can restart i
 ## Before you begin
 
 -   [Create a test plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_CreateATestPlan.md).
--   Add [[c_TestCases|test cases]] to the test plan.
+-   Add test cases to the test plan.
 -   [Assign testers from the Test Plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_AssignTestersFromTheTestPlanForm.md).
 -   [Initiate guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/t_InitiateGuidedTestExecution.md)
 -   Role required: tm\_test\_manager or tm\_tester
@@ -30,7 +30,7 @@ Use the related link on the Test Plan form to cancel a test execution that has a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Open the test plan that you want to stop the testing for.
 
@@ -47,7 +47,3 @@ The **Cancel test execution** related link on the Test Plan page changes to **No
 
 **Parent Topic:**[Guided test execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_GuidedTestExecution.md)
 
-## Related
-
-- [[c_TestCases|Test cases]]
-- [[c_TestPlans|Test plans]]

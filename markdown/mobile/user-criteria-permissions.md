@@ -14,7 +14,7 @@ breadcrumb: [User roles/criteria permissions, Before implementation, Configurati
 
 Control the visibility of different areas of your mobile apps by defining user criteria permissions. User criteria permissions enable you to segment your users into different groups, such as location, department or company. You can change information within a single area of a group to update all users' details associated within that group.
 
-Use user criteria permissions to control access to [[mobile-app-components-landing|mobile app components]] based on factors like departments, groups, locations, roles, or company, or any logic that can be defined via a script. These criteria set specific conditions that are matched against user profiles. When these criteria are established, only users who meet these conditions can see the relevant records.
+Use user criteria permissions to control access to mobile app components based on factors like departments, groups, locations, roles, or company, or any logic that can be defined via a script. These criteria set specific conditions that are matched against user profiles. When these criteria are established, only users who meet these conditions can see the relevant records.
 
 ## User criteria use cases
 
@@ -22,25 +22,25 @@ Use user criteria permissions to control access to [[mobile-app-components-landi
 -   User criteria can also be used for mobile theming. For example, a large corporation with many subsidiary companies can maintain the look-and-feel specific to each company. This can include the overall appearance, the empty state images, and the different tabs that display on the navigation bar.
 -   You can assign management employees the ability to view certain navigation tabs and data visualizations.
 
-**Note:** If you don't select user criteria for any of these components, any user who has access to the mobile app can see that component. However, users still may not see certain components, as user role permissions may be defined. For a full list of the components where you can apply user roles and user criteria, see [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]].
+**Note:** If you don't select user criteria for any of these components, any user who has access to the mobile app can see that component. However, users still may not see certain components, as user role permissions may be defined. For a full list of the components where you can apply user roles and user criteria, see [Mobile components where user roles and user criteria permissions apply](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/components-roles-criteria.md).
 
 User criteria permissions are supported for the following components: Native Client, launcher screen, UI sections, navigation tabs and icon section destination.
 
 -   **Native Client and applications**
 
-    Limit a user's ability to access certain applications in the mobile app. For example, prevent IT Service Management \(ITSM\) users from accessing Field Service Management \(FSM\) applications. Native Client relates to app level functionality and includes components like mobile themes, empty state, navigation bar, geolocation, and offline. You can also define that users don't have permission to view an app. For example, you prefer that agents don’t have access to the [[now-mobile-app|Now Mobile app]].
+    Limit a user's ability to access certain applications in the mobile app. For example, prevent IT Service Management \(ITSM\) users from accessing Field Service Management \(FSM\) applications. Native Client relates to app level functionality and includes components like mobile themes, empty state, navigation bar, geolocation, and offline. You can also define that users don't have permission to view an app. For example, you prefer that agents don’t have access to the Now Mobile app.
 
 -   **Launcher screens**
 
-    Allow only users with specified user criteria to access launcher screens within your mobile applications. For example, create launcher screens specifically for certain roles, and permit only users with specified roles to view these launchers. For more information on launcher screens, see [[sg-mobile-applet-launcher|Launcher screens]].
+    Allow only users with specified user criteria to access launcher screens within your mobile applications. For example, create launcher screens specifically for certain roles, and permit only users with specified roles to view these launchers. For more information on launcher screens, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md).
 
 -   **UI sections**
 
-    Allow only users with specified roles to access launcher screens within your mobile apps. For example, [[launcher-screen-template|create a launcher screen]] that only employees with a manager role can see. Additionally, create a launcher screen with an employee role that everyone can view. For more information on launcher screens, see [[alp-ui-sections|Launcher screen UI sections]].
+    Allow only users with specified roles to access launcher screens within your mobile apps. For example, create a launcher screen that only employees with a manager role can see. Additionally, create a launcher screen with an employee role that everyone can view. For more information on launcher screens, see [Launcher screen UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/alp-ui-sections.md).
 
 -   **Navigation tabs**
 
-    Limit a user’s ability to access certain tabs displayed in the navigation bar. For more information, [[sg-mobile-tab-bar|Navigation bar]].
+    Limit a user’s ability to access certain tabs displayed in the navigation bar. For more information, [Navigation bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-tab-bar.md).
 
     **Note:** You shouldn't remove the Settings and Notifications tabs from the navigation bar.
 
@@ -48,8 +48,8 @@ User criteria permissions are supported for the following components: Native Cli
 
     Limit a user's ability to view either the whole icon section or the icon destination component within an icon section. Icon destination components are icons and images that represent a launcher screen, a function, or a navigation point to a screen.
 
-    -   For icons, use the reference lookup icon to select an existing icon to display in the icon section. For more information, see [[sg-ui-section-config-navig|Configure an icon UI section]].
-    -   For images, use the reference lookup icon to select the image to display in the icon section. For more information, see [[add-image-icon-section|Adding images to an icon section]].
+    -   For icons, use the reference lookup icon to select an existing icon to display in the icon section. For more information, see [Configure an icon UI section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-ui-section-config-navig.md).
+    -   For images, use the reference lookup icon to select the image to display in the icon section. For more information, see [Adding images to an icon section](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/add-image-icon-section.md).
 
 ## General guidelines for using user criteria
 
@@ -62,24 +62,10 @@ User criteria permissions are supported for the following components: Native Cli
 -   Minimize the use of scripted user criteria, as they can adversely affect performance.
 -   User roles are supported in offline.
 
--   **[[user-criteria-config|Assign mobile user criteria permissions]]**  
+-   **[Assign mobile user criteria permissions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-config.md)**  
 Apply user criteria permissions to segment your users into different groups, such as location, department, or company.
--   **[[user-criteria-active-inactive|Define user criteria status as active or inactive]]**  
+-   **[Define user criteria status as active or inactive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/user-criteria-active-inactive.md)**  
 Learn how to define a user criteria component's status as active or inactive.
 
-**Parent Topic:**[[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
+**Parent Topic:**[User roles and user criteria permissions for mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/roles-user-criteria.md)
 
-## Related
-
-- [[components-roles-criteria|Mobile components where user roles and user criteria permissions apply]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[alp-ui-sections|Launcher screen UI sections]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[sg-ui-section-config-navig|Configure an icon UI section]]
-- [[add-image-icon-section|Adding images to an icon section]]
-- [[user-criteria-config|Assign mobile user criteria permissions]]
-- [[user-criteria-active-inactive|Define user criteria status as active or inactive]]
-- [[roles-user-criteria|User roles and user criteria permissions for mobile apps]]
-- [[mobile-app-components-landing|Mobile app components]]
-- [[now-mobile-app|Now Mobile app]]
-- [[launcher-screen-template|Create a launcher screen]]

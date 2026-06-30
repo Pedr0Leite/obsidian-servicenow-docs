@@ -22,7 +22,7 @@ Role required: sn\_si.admin, sn\_si.ingestion\_profile\_admin
 
 ## Procedure
 
-1.  Select one of the Sample Ingestion Methods in the Field [[mapping-logrhythm|Mapping]] section.
+1.  Select one of the Sample Ingestion Methods in the Field Mapping section.
 
 <table id="table_kyc_qbg_p4b"><thead><tr><th>
 
@@ -61,7 +61,7 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
     2.  In the Security Incident column, expand the list that is displayed and then select a field.
 
-        **Note:** Multiple [[c_Observables|observables]] can be displayed on the same security incident. For example, the **Observable** field can be mapped multiple times with different values. Similarly, the **Configuration Item** and **Work notes fields** support multiple values. If you try to map two values to a field that can't support multiple values, you see an error message that this field does not support multiple values. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field does not populate on the security incident.
+        **Note:** Multiple observables can be displayed on the same security incident. For example, the **Observable** field can be mapped multiple times with different values. Similarly, the **Configuration Item** and **Work notes fields** support multiple values. If you try to map two values to a field that can't support multiple values, you see an error message that this field does not support multiple values. Similarly, if a field on a security incident has a list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the list, the field does not populate on the security incident.
 
     3.  From the Incident and Alert Fields section, drag and drop your field to map it to your new field.
 
@@ -69,8 +69,8 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
         **Note:** In the base system, the system property sn\_sec\_pan\_xsiam.incident\_updates is by default set to False to receive the XSIAM updates related to new alerts that are linked to SIR.
 
-        -   By default, the Affected Users, Configuration items, and Observables fields are checked. This means that whenever there are new observables or associated configuration items, or affected users that gets added to the incident then that information is automatically extracted and populated in the respective related lists in the [[sir-landing-page|Security Incident Response]] \(SIR\) during that polling interval.
-        -   After ingestion, Security Incident records show Unmatched CI in the Configuration Items related list and Unmatched Affected Users in a dedicated related list when matching CMDB or [[identity|identity]] records are not found, ensuring complete visibility of affected entities throughout the incident life-cycle.
+        -   By default, the Affected Users, Configuration items, and Observables fields are checked. This means that whenever there are new observables or associated configuration items, or affected users that gets added to the incident then that information is automatically extracted and populated in the respective related lists in the Security Incident Response \(SIR\) during that polling interval.
+        -   After ingestion, Security Incident records show Unmatched CI in the Configuration Items related list and Unmatched Affected Users in a dedicated related list when matching CMDB or identity records are not found, ensuring complete visibility of affected entities throughout the incident life-cycle.
         -   For any other fields, you must select the check box that corresponds to a field for any new or updated changes made in the XSIAM incident record within XSIAM. This will automatically replace the respective SIR incident data with the new incident data.
         **Important:** Due diligence is required to be done before selecting this functionality as overriding the existing data may result in unstable data for the analyst to work with and any other automation that is set even by the field values of security incident may also get affected. So, it is very important to do the due diligence before you select any override functionality.
 
@@ -114,7 +114,7 @@ Use this ingestion method to import the most recent Incidents and alerts. If the
 
     You can use the same field values in the Incident Generation Conditions builder to define additional criteria that an incoming Incident must satisfy to create a security incident.
 
-    \[Omitted image "xsiam-mapping.png"\] Alt text: [[microsoft-defender-mapping|Map Incident Fields]] to SIR Incident Target Fields
+    \[Omitted image "xsiam-mapping.png"\] Alt text: Map Incident Fields to SIR Incident Target Fields
 
 9.  Select **Continue**.
 
@@ -125,10 +125,3 @@ Define and set filter conditions to specify which incidents should create securi
 
 For more information, see [Define filter and aggregation criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/xsiam-filtering-and-aggregation.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[identity|Identity]]
-- [[microsoft-defender-mapping|Map incident fields]]

@@ -14,7 +14,7 @@ breadcrumb: [Workplace Connectors, Workplace Service Delivery, Employee Service 
 
 # Exploring Workplace Connectors
 
-[[workplace-connectors-landing-page|Workplace Connectors]] is a framework to integrate different types of badging, occupancy, air quality, and temperature sensor data. It provides a standardized way of fetching badging, occupancy, air quality and temperature data from workplace hardware or sensors in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+Workplace Connectors is a framework to integrate different types of badging, occupancy, air quality, and temperature sensor data. It provides a standardized way of fetching badging, occupancy, air quality and temperature data from workplace hardware or sensors in Workplace Service Delivery.
 
 ## Key features
 
@@ -33,7 +33,3 @@ breadcrumb: [Workplace Connectors, Workplace Service Delivery, Employee Service 
 
 **Next topic:**[Configure Workplace Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/configure-workplace-connectors.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

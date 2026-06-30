@@ -14,7 +14,7 @@ breadcrumb: [Create a work order for the planned work, Manage work orders, Prepa
 
 # Work plan example
 
-You can [[create-work-plan|create a work plan]] to define a maintenance schedule for multiple assets based on their installation date.
+You can create a work plan to define a maintenance schedule for multiple assets based on their installation date.
 
 The following image illustrates the maintenance plan for two assets installed on different dates.
 
@@ -36,7 +36,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Click **New** and create a work plan.
 
@@ -131,7 +131,3 @@ Create third schedule
 
 The Hospital device maintenance plan schedules all assets for maintenance based on their installation date as mentioned in the [15 years Maintenance Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/example-planned-work.md) image.
 
-## Related
-
-- [[create-work-plan|Create a work plan]]
-- [[planned-work-management|Planned Work Management]]

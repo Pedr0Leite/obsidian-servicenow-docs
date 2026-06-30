@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Price Error outbound staging table
 
-The Price Error \[sn\_spend\_intg\_price\_error\] staging table stores important data about [[pricing|pricing]] error so that an ERP integrator can export this data to a third-party ERP system.
+The Price Error \[sn\_spend\_intg\_price\_error\] staging table stores important data about pricing error so that an ERP integrator can export this data to a third-party ERP system.
 
 ## Price Error staging table
 
@@ -22,7 +22,7 @@ The following table lists fields for the Price Error \[sn\_spend\_intg\_price\_e
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Supplier part number|String|Unique number that is used by the [[supplier|supplier]] to identify this product.|
+|Supplier part number|String|Unique number that is used by the supplier to identify this product.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
 
@@ -101,7 +101,3 @@ The following table lists fields for the Price Error \[sn\_spend\_intg\_price\_e
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[pricing|Pricing]]
-- [[supplier|Supplier]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Graph Workspace, Configuration Management Databa
 
 # Customize data exploration contexts in Service Graph Workspace
 
-Customize the default navigation contexts that are used for [[explore-cmdb|exploring CMDB]] data in the [[sg-workspace-search-explore-view|Explore and Search view in Service Graph Workspace]], by adding contexts that are relevant in your organization.
+Customize the default navigation contexts that are used for exploring CMDB data in the Explore and Search view in Service Graph Workspace, by adding contexts that are relevant in your organization.
 
 ## About this task
 
@@ -22,11 +22,11 @@ A context-based hierarchy provides the navigation for exploring CMDB data in the
 
 The contexts hierarchy can be two or more levels deep. The child context which doesn't expand further to any context is the leaf-context. When selecting the leaf-context, the tables associated with that context, appear.
 
-You can associate customizations of the contexts navigation hierarchy with the [[cnfg-identifiers-framework-sg|configuration identifiers framework]] to make those customizations available for use with other workspaces. For more information, see [Configuration identifiers framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cnfg-identifiers-framework-sg.md).
+You can associate customizations of the contexts navigation hierarchy with the configuration identifiers framework to make those customizations available for use with other workspaces. For more information, see [Configuration identifiers framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cnfg-identifiers-framework-sg.md).
 
 ## Before you begin
 
-The [[sg-workspace|Service Graph Workspace]] - Content store app and its dependent app, Data Model Navigator, must be installed to enable the **Explore by contexts** option. To add or modify contexts, you must use the following tables:
+The Service Graph Workspace - Content store app and its dependent app, Data Model Navigator, must be installed to enable the **Explore by contexts** option. To add or modify contexts, you must use the following tables:
 
 -   Model Context \[sn\_data\_model\_nav\_model\_context\]
 -   Model Context to Model Contexts \[sn\_data\_model\_nav\_model\_context\_to\_context\]
@@ -117,9 +117,3 @@ Role required: sn\_data\_model\_nav.data\_model\_navigator\_write \(write access
 
 When exploring CMDB data in the Explore and Search view in Service Graph Workspace, the new context structure appears in the navigation panel, and when selecting the leaf-context, records from associated tables appear, filtered as specified.
 
-## Related
-
-- [[explore-cmdb|Exploring CMDB]]
-- [[sg-workspace-search-explore-view|Explore and Search view in Service Graph Workspace]]
-- [[cnfg-identifiers-framework-sg|Configuration identifiers framework]]
-- [[sg-workspace|Service Graph Workspace]]

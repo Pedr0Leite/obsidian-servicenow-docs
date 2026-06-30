@@ -24,7 +24,7 @@ Three options are available for handling months that do not have a matching Fift
 -   Next: Selects the first instance of the weekday in the next month.
 -   Strict: Skips any month without a matching Fifth instance and selects only months that have a matching Fifth instance.
 
-Use the **glide.[[c_UseSchedules|schedules]].fifth** system property to control how a schedule entry that selects the fifth occurrence of a weekday behaves in months containing only four occurrences of that day.
+Use the **glide.schedules.fifth** system property to control how a schedule entry that selects the fifth occurrence of a weekday behaves in months containing only four occurrences of that day.
 
 -   Use of this property is only valid when the **glide.schedules.repeat\_nth** property is set to **Day**.
 -   The following example illustrates computing what day of the month a schedule repeats on when the schedule starts on the Fifth instance of a weekday in the month.
@@ -39,7 +39,7 @@ Use the **glide.[[c_UseSchedules|schedules]].fifth** system property to control 
 
 4.  Navigate to **System Scheduler** &gt; **Schedules** &gt; **Schedules**, [define a new schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_DefineASchedule.md), and click **Submit**.
 
-5.  Open the new schedule and in the **Schedule Entries** related list, create a new entry with the following [[r_DirectJDBCProbeParameters|parameters]]:
+5.  Open the new schedule and in the **Schedule Entries** related list, create a new entry with the following parameters:
 
     -   When: November 29, 2012 at 10:00 to November 29, 2012 at 11:00
     -   Repeats: Monthly
@@ -97,7 +97,3 @@ Use the **glide.[[c_UseSchedules|schedules]].fifth** system property to control 
 
 [Repeat a monthly schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_RepeatAMonthlySchedule.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

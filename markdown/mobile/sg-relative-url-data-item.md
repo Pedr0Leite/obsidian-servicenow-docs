@@ -12,7 +12,7 @@ breadcrumb: [Data items, Mobile app components, Building mobile apps, Mobile Pla
 
 # Configure an encoded query data item for chart screens
 
-Configure an encoded query data item to query data for chart screens. An encoded query data item is a parametrized data item that is the basis for a [[chart-screen|chart screen]] to be passed to a [[list-screen|list screen]]. When tapped it enables users to drill-down to a list of items that the chart is created from.
+Configure an encoded query data item to query data for chart screens. An encoded query data item is a parametrized data item that is the basis for a chart screen to be passed to a list screen. When tapped it enables users to drill-down to a list of items that the chart is created from.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Data** category, and then select **New**.
 
@@ -52,7 +52,7 @@ Name
 
 </td><td>
 
-A title for the data item. You can have multiple [[sg-data-item|data items]] with the same name. Make sure that this name is unique so that you can find it easily.
+A title for the data item. You can have multiple data items with the same name. Make sure that this name is unique so that you can find it easily.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Table
 
 </td><td>
 
-The name of the table you want the data item to pull information from.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [[sg-allow-custom-tables|Allow or restrict access to custom tables in mobile data items]].
+The name of the table you want the data item to pull information from.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [Allow or restrict access to custom tables in mobile data items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-allow-custom-tables.md).
 
 </td></tr><tr><td>
 
@@ -104,14 +104,5 @@ This field only appears after you select **Append Encoded Query** in the **Condi
 
 ## What to do next
 
-For more information on how parameters pass values between screens, see [[list-applet-parameters|Parametrized list screens]].
+For more information on how parameters pass values between screens, see [Parametrized list screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/list-applet-parameters.md).
 
-## Related
-
-- [[sg-allow-custom-tables|Allow or restrict access to custom tables in mobile data items]]
-- [[list-applet-parameters|Parametrized list screens]]
-- [[chart-screen|Chart screen]]
-- [[list-screen|List screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]

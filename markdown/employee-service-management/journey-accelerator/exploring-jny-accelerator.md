@@ -14,7 +14,7 @@ breadcrumb: [Journey Accelerator, Employee Journey Management, HR Service Delive
 
 # Exploring Journey Accelerator
 
-[[exploring-learning-exp|Learning]] about how to use [[journey-accelerator-1|Journey Accelerator]] application to create templates for plans and to-do tasks. How Managers can use the templates to create and publish customized plans for key employee transitions. Managers, employees, and mentors can access the plans from the [[employee-center-landing-page|Employee Center]]
+Learning about how to use Journey Accelerator application to create templates for plans and to-do tasks. How Managers can use the templates to create and publish customized plans for key employee transitions. Managers, employees, and mentors can access the plans from the Employee Center
 
 ## Journey Accelerator overview
 
@@ -37,7 +37,7 @@ Administrators
 </td><td>
 
 -   Define and manage plan types for employee transitions, such as promotions, onboarding, offboarding, and more.
--   Create and manage plan configurations for specific employee [[ecpro-audience|audiences]], such as sales associates or IT technicians.
+-   Create and manage plan configurations for specific employee audiences, such as sales associates or IT technicians.
 -   Create and manage task templates, such as workstation setup or planning and training sessions.
 -   Track plan progress and template usage from the Journey Accelerator dashboard.
 
@@ -52,7 +52,7 @@ Managers
 **Note:** Only managers can create plans.
 
 -   Add to-do tasks by using a library of existing tasks.
--   [[create-applicant-tasks|Create tasks]] that are unique to an employee transition.
+-   Create tasks that are unique to an employee transition.
 -   Publish plans that are based on employee transition dates, such as start dates.
 -   Assign mentors to employees.
 
@@ -99,11 +99,3 @@ Employees
 To learn more about configuring and using , see:
 
 -   -   -   
-
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[employee-center-landing-page|Employee Center]]
-- [[ecpro-audience|Audiences]]
-- [[create-applicant-tasks|Create tasks]]

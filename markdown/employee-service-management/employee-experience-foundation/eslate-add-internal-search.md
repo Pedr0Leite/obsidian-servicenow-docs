@@ -15,11 +15,11 @@ breadcrumb: [Search sources for Employee Slate, Working with Employee Slate capa
 
 # Add internal search sources
 
-Add internal search sources to include ServiceNow table content in [[employee-slate-landing-page|Employee Slate]] conversational search.
+Add internal search sources to include ServiceNow table content in Employee Slate conversational search.
 
 ## Before you begin
 
-The [[employee-slate-nowassist|Employee Slate for Now Assist]] product is installed and configured through the Product Configuration console.
+The Employee Slate for Now Assist product is installed and configured through the Product Configuration console.
 
 You have identified the table that you want to index as a search source.
 
@@ -58,7 +58,3 @@ Internal search sources contribute results to the conversational assistant from 
 
 The internal search source links to the Employee Slate for Now Assist search profile. The conversational assistant returns results from the configured table within the filter conditions that you set.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]

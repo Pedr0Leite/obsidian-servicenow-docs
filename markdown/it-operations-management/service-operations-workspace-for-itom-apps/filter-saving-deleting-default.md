@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  In the primary navigation, select the Express List icon \(\[Omitted image "express-list1.png"\] Alt text: Express List icon\).
 
@@ -59,6 +59,4 @@ Role required: evt\_mgmt\_operator, evt\_mgmt\_admin
 
     2.  Select the More Actions icon \(\[Omitted image "more-actions-icon.png"\] Alt text: More actions icon\) and select **Delete filter**.
 
-## Related
 
-- [[workspace-dashboard-use|Service Operations Workspace]]

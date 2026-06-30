@@ -25,7 +25,7 @@ Role required: admin
 MIBs are only loaded during MID Server startup. When the MID Server starts up, the following MIB modules are loaded:
 
 -   Modules that are bundled with the MID Server software. These MIBs are defined industry standards.
--   Modules that are included in each instance. These MIBs are provided by manufacturers for [[r-discovery|Discovery]] to extract specific information from a device.
+-   Modules that are included in each instance. These MIBs are provided by manufacturers for Discovery to extract specific information from a device.
 
 You can view any errors associated with loading a MIB module in the agent log.
 
@@ -63,6 +63,3 @@ Update the appropriate pattern or probe to query for the specific OID values def
 
 **Parent Topic:**[SNMP probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_SNMPProbe.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

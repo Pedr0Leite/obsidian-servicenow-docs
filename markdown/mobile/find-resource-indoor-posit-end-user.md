@@ -12,11 +12,11 @@ breadcrumb: [Indoor positioning, Indoor Wayfinding and reservations, Using the m
 
 # Find resources with indoor positioning
 
-When [[indoor-positioning-end-user|indoor positioning]] is enabled on your device, you can get step-by-step interactive directions to resources in a building that has been mapped for this feature.
+When indoor positioning is enabled on your device, you can get step-by-step interactive directions to resources in a building that has been mapped for this feature.
 
 ## Before you begin
 
-Your ServiceNow instance admin must [[configure-indoor-positioning|configure indoor positioning]] before you can enable it on your device.
+Your ServiceNow instance admin must configure indoor positioning before you can enable it on your device.
 
 Role required: none
 
@@ -86,7 +86,4 @@ The route to the person or resource you searched for appears on the map. The exp
 </td></tr></tbody>
 </table>6.  When you arrive at your destination, select **End Directions**.
 
-## Related
 
-- [[indoor-positioning-end-user|Indoor positioning]]
-- [[configure-indoor-positioning|Configure indoor positioning]]

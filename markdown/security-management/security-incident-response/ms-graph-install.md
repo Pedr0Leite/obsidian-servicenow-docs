@@ -14,7 +14,7 @@ breadcrumb: [Set up instance, Microsoft Graph Security API alert ingestion integ
 
 # Install and configure the Servicenow application for Microsoft Graph Security API alert ingestion integration
 
-Before you run the integration on your ServiceNow AI Platform® instance, complete these installation and configuration steps so the application properly integrates with the [[sir-landing-page|Security Incident Response]] and [[security-operations-landing-page|Security Operations]] products on your ServiceNow AI Platform instance.
+Before you run the integration on your ServiceNow AI Platform® instance, complete these installation and configuration steps so the application properly integrates with the Security Incident Response and Security Operations products on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  If you have not installed the Microsoft Graph Security API application from the ServiceNow Store for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the Microsoft Graph Security API application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you have successfully installed the application, navigate to **Integrations** &gt; **Integrations Configurations** and locate the Microsoft Graph Security API - Alert Ingestion tile.
 
@@ -82,8 +82,3 @@ The password for your registered application.
 
 You have successfully installed and configured the application. The next step is to create an alert profile.
 
-## Related
-
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

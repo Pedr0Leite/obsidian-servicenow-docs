@@ -247,7 +247,7 @@ Textual representation of a complete or partial field name value.For the "is one
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**.
 
 2.  Open the data visualization that you want to add the dynamic filter to and select **Edit**.
 
@@ -261,7 +261,7 @@ Textual representation of a complete or partial field name value.For the "is one
 
     -   The "between" operator provides two fields that can support the same or different JavaScript URLs.
     -   The "is" operator can return an array of data elements of the expected type. In this case the operator is treated as the "is one of" operator.
-    -   List fields do not support [[dynamic-js-filters|dynamic JavaScript filters]].
+    -   List fields do not support dynamic JavaScript filters.
 5.  Choose a field type and operator and enter a JavaScript statement.
 
     -   For a one-line JavaScript statement, use the format `javascript:<JavaScript_Statement>;`.
@@ -273,10 +273,5 @@ Textual representation of a complete or partial field name value.For the "is one
 
 After you add the necessary JavaScript statements and conditions and configure the remainder of the report, test the report to ensure it returns and displays the expected results.
 
-**Parent Topic:**[[filter-dv-condition-builder|Filter data visualizations with the condition builder]]
+**Parent Topic:**[Filter data visualizations with the condition builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/filter-dv-condition-builder.md)
 
-## Related
-
-- [[filter-dv-condition-builder|Filter data visualizations with the condition builder]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[dynamic-js-filters|Dynamic JavaScript filters]]

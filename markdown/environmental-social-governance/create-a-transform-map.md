@@ -37,8 +37,5 @@ A map is transformed when you import data from a staging table such as Watershed
 5.  Select **Transform**.
 
 
-**Parent Topic:**[[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]
+**Parent Topic:**[Integrating Operational Sustainability Management \(formerly ESG\) with Watershed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/integrate-esg-with-watershed.md)
 
-## Related
-
-- [[integrate-esg-with-watershed|Integrating Operational Sustainability Management \(formerly ESG\) with Watershed]]

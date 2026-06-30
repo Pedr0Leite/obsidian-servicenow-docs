@@ -24,15 +24,15 @@ Ensure you have an admin role or permission from the dashboard owner to edit the
 
 ## About this task
 
-If you have the appropriate role, you can add and edit funnel reports on a dashboard. The **Edit** button is not available on the ITOM [[otto-aiops-dashboards|dashboards]] unless the user has rights to edit it. For more details on creating dashboards, see [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md).
+If you have the appropriate role, you can add and edit funnel reports on a dashboard. The **Edit** button is not available on the ITOM dashboards unless the user has rights to edit it. For more details on creating dashboards, see [Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md).
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** and select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\).
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** and select the AIOps Dashboards icon \(\[Omitted image "aiops-operational-icon.png"\] Alt text: AIOps Dashboards icon.\).
 
 2.  From the Dashboard picker, select **AIOps 360 overview**.
 
-    \[Omitted image "sow-aiops-dasboard.png"\] Alt text: [[aiops-360-overview-dashboard|AIOps 360 overview dashboard]]
+    \[Omitted image "sow-aiops-dasboard.png"\] Alt text: AIOps 360 overview dashboard
 
 3.  Select **Edit** to put dashboard in the edit mode.
 
@@ -86,8 +86,3 @@ When you select an indicator data source for the funnel visualization, the follo
 
 **Parent Topic:**[Data visualization in ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/itom-data-visualization.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[aiops-360-overview-dashboard|AIOps 360 overview dashboard]]

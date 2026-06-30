@@ -17,7 +17,7 @@ Use bar visualizations to show information in segments that are proportional to 
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 For more information about this visualization type, see [Bar Visualization Overview](https://developer.servicenow.com/dev.do#!/reference/now-experience/xanadu/shared-components/now-vis-bar-wrapper/overview) on the ServiceNow Developer Site. This site gives information about Horizontal and Vertical bar data visualization components in the UI Builder, and some configuration options may differ from the Visualization Designer.
 
@@ -27,7 +27,7 @@ In general, use horizontal bars to graph nominal data, such as the number of use
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -166,17 +166,17 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>5.  Choose a data source.
 
-    For general descriptions of the data sources, see [[data-sources-visualizations|Data sources for data visualizations]].
+    For general descriptions of the data sources, see [Data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-sources-visualizations.md).
 
     -   Table \(available in the base system\). When you select a table, you can filter it by custom or preconfigured conditions. Custom conditions can include questions or Service Catalog variables.
 
-        Configured [[c_ReportSources|report sources]] appear in the **Predefined conditions** list. For more information, see [Report sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportSources.md).
+        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportSources.md).
 
         To help you create a custom filter, there is a preview list of records that would be included in the visualization. You can change which fields are shown as columns and the width of columns in the list actions.
 
         \[Omitted image "dv-preview-edit-cols.png"\] Alt text: Preview record list for table source data visualization with list actions shown.
 
-    -   Indicator \(available in the base system\). You can filter the indicator scores by breakdowns and elements. [[automated-indicators|Automated indicators]] can be configured with selected breakdowns. [[formula-indicators|Formula indicators]] inherit their breakdowns from the parent indicators. Data snapshots [[c_CreatingBreakdowns|indicator breakdowns]] are configured in the indicator. In both cases, only those breakdowns are available when you configure a visualization based on those indicators.
+    -   Indicator \(available in the base system\). You can filter the indicator scores by breakdowns and elements. Automated indicators can be configured with selected breakdowns. Formula indicators inherit their breakdowns from the parent indicators. Data snapshots indicator breakdowns are configured in the indicator. In both cases, only those breakdowns are available when you configure a visualization based on those indicators.
 
         **Note:** Benchmark indicators are not supported.
 
@@ -186,18 +186,18 @@ Specify the text color of the title. The default title color is black, but you c
 
         You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/condition-operators-ind-bkdowns.md).
 
-        Indicator types include Automated, Formula, and [[t_CreateAManualIndicator|Manual indicators]] as well as Automated and Formula Data Snapshots. The Indicator Preview shows an example of the visualization and a list of the indicator's properties.
+        Indicator types include Automated, Formula, and Manual indicators as well as Automated and Formula Data Snapshots. The Indicator Preview shows an example of the visualization and a list of the indicator's properties.
 
         \[Omitted image "dv-indicator-source-preview.png"\] Alt text: Indicator preview example with visualization example and list of properties including source type, indicator source, indicator type, additional conditions and available breakdowns.
 
-    -   [[user-exp-analytics-landing|Usage Insights]] \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [[uxa-data-sources|Usage Insights data sources for data visualizations]].
-    **Note:** You can choose multiple data sources for this visualization. However, all data sources must be of the same type: table, indicator, or Usage Insights. For more information, see [[multiple-data-sources|Multiple data sources]].
+    -   Usage Insights \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/uxa-data-sources.md).
+    **Note:** You can choose multiple data sources for this visualization. However, all data sources must be of the same type: table, indicator, or Usage Insights. For more information, see [Multiple data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/multiple-data-sources.md).
 
 6.  Select the options for your data source.
 
-    -   If your visualization represents table data, go to [[config-dv-bar-table-data|Table data options for horizontal and vertical bar visualizations]].
-    -   If your visualization represents indicator data, go to [[config-dv-bar-ind-data|Indicator data options for horizontal and vertical bar visualizations]].
-    -   If your visualization represents Usage Insights data, go to [[config-dv-bar-uxa-data|Usage Insights data options for bar visualizations]].
+    -   If your visualization represents table data, go to [Table data options for horizontal and vertical bar visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-bar-table-data.md).
+    -   If your visualization represents indicator data, go to [Indicator data options for horizontal and vertical bar visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-bar-ind-data.md).
+    -   If your visualization represents Usage Insights data, go to [Usage Insights data options for bar visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-bar-uxa-data.md).
 7.  Under **Presentation**, provide display and color information.
 
     **Note:** For horizontal bar visualizations, the X axis is the primary. For vertical bar visualizations, the Y axis is primary.
@@ -407,12 +407,12 @@ Set color type
 </td><td>
 
 Type of color scheme to apply to the component. Options include: -   Default: A color or set of colors that come from the UX Theme that is applied to the instance. For more information, see .
--   Color palette: List of [[color-palettes|color palettes]] to select from predefined system palettes in the Chart Color Scheme \[pa\_chart\_color\_schemes\] table. For grouped or stacked data, the colors apply in order from highest value to lowest. For multiple data sources, palette colors apply in the order of data sources. For example, the first color of a palette applies to the first data source, and the second palette color applies to the second source. All visualizations that use the same color palette show the same colors, regardless of what data they display.
+-   Color palette: List of color palettes to select from predefined system palettes in the Chart Color Scheme \[pa\_chart\_color\_schemes\] table. For grouped or stacked data, the colors apply in order from highest value to lowest. For multiple data sources, palette colors apply in the order of data sources. For example, the first color of a palette applies to the first data source, and the second palette color applies to the second source. All visualizations that use the same color palette show the same colors, regardless of what data they display.
 -   Single color/Colors per metric: Select a single color in the **Set value color** field. Interacting with that field opens a selector where you can choose the color from either a set of icons or from a list. You can also search for a color. Entering a search value has the selector show you a list of colors filtered by that search value.
 
 If the visualization has more than one metric, you see the Colors per metric option instead. This option lets you select a single color for each metric.
 
--   Fixed element color: Use a specific color from the [[c_ChartColors|Chart Colors]] table \[sys\_report\_chart\_color\] for each element. All data visualizations that use fixed element colors show the same element, such as critical incidents in the Global scope, in the same color.
+-   Fixed element color: Use a specific color from the Chart Colors table \[sys\_report\_chart\_color\] for each element. All data visualizations that use fixed element colors show the same element, such as critical incidents in the Global scope, in the same color.
 
 This option is available only for Table data sources and only if no more than one data source or metric is added, and a Group by is defined.
 
@@ -441,9 +441,9 @@ Action
 
 </td><td>
 
-Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [[dv-chart-interactions|Chart interactions in a data visualization]].
+Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
--   **Go to data view** opens a list view, [[kpi-details|KPI Details]] page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [[visualization-drilldown-in-config-ws|Data views for different data sources]].
+-   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/visualization-drilldown-in-config-ws.md).
 -   **Go to URL** opens the specified URL, which can be on the instance or external. You have the option of specifying a page name to appear in the tooltip, for those visualizations with tooltips.
 -   **Apply as filter** filters all data visualizations on the dashboard by the value of the selected segment, where applicable.
 
@@ -451,7 +451,7 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 -   **Drill down to chart** \(Visualization Designer only\) Opens a different data visualization that is filtered by the selected data. You can add a drill-down visualization for each metric on the parent visualization.
 
-**Note:** The last level of drill down in the [[par-workspace|Platform Analytics experience]] is always a Core UI list. Records do not open in Workspace embedded lists.
+**Note:** The last level of drill down in the Platform Analytics experience is always a Core UI list. Records do not open in Workspace embedded lists.
 
 **Drill down to chart** supports only table data sources.
 
@@ -463,9 +463,9 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 ## What to do next
 
--   [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
--   [[share-dv-ac|Share a data visualization in the Visualization Designer]]
--   [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
+-   [Add a visualization to a dashboard from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dv-new-db.md)
+-   [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md)
 
 -   **[Table data options for horizontal and vertical bar visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-bar-table-data.md)**  
 When you select a table data source for a horizontal or vertical bar visualization, the following Data configuration options are available.
@@ -473,38 +473,10 @@ When you select a table data source for a horizontal or vertical bar visualizati
 When you select an indicator data source for a horizontal or vertical bar visualization, the following Data configuration options are available.
 -   **[Usage Insights data options for bar visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-bar-uxa-data.md)**  
 When you select a Usage Insights data source for a horizontal or vertical bar visualization, the following Data configuration options are available.
--   **[[chart-options-bars-multi-metrics|Following filters per metric]]**  
+-   **[Following filters per metric](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-bars-multi-metrics.md)**  
 If you are showing multiple metrics in a horizontal or vertical bar visualization, you can have filters on a dashboard apply only to specific metrics.
--   **[[dv-example-bar|Bar visualization examples]]**  
+-   **[Bar visualization examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-bar.md)**  
 Bar visualizations enable you to show the comparative size or frequency of different categories or groups, for example, sales in different regions or over different periods of time.
 
-**Parent Topic:**[[creating-data-visualizations|Creating data visualizations]]
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[data-sources-visualizations|Data sources for data visualizations]]
-- [[uxa-data-sources|Usage Insights data sources for data visualizations]]
-- [[multiple-data-sources|multiple data sources]]
-- [[config-dv-bar-table-data|Table data options for horizontal and vertical bar visualizations]]
-- [[config-dv-bar-ind-data|Indicator data options for horizontal and vertical bar visualizations]]
-- [[config-dv-bar-uxa-data|Usage Insights data options for bar visualizations]]
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[visualization-drilldown-in-config-ws|Data views for different data sources]]
-- [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[chart-options-bars-multi-metrics|Following filters per metric]]
-- [[dv-example-bar|Bar visualization examples]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]
-- [[automated-indicators|Automated indicators]]
-- [[formula-indicators|Formula indicators]]
-- [[c_CreatingBreakdowns|Indicator breakdowns]]
-- [[t_CreateAManualIndicator|Manual indicators]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[color-palettes|Color palettes]]
-- [[c_ChartColors|Chart colors]]
-- [[kpi-details|KPI Details]]
-- [[par-workspace|Platform Analytics experience]]

@@ -22,9 +22,9 @@ If you want to change those properties, you can override them to further customi
 
 ## Process tables
 
-In process tables, if you see a value in the **Overrides \[sys\_overrides\]** field, a process override record exists. That means that delegated administration, which is how administrators can set domain-specific [[ca-policies|policies]], is in effect. Admins in the global domain can use the **Expand/Collapse [[c_DomainScope|Domain Scope]]** related link to see override records.
+In process tables, if you see a value in the **Overrides \[sys\_overrides\]** field, a process override record exists. That means that delegated administration, which is how administrators can set domain-specific policies, is in effect. Admins in the global domain can use the **Expand/Collapse Domain Scope** related link to see override records.
 
-**Note:** Reports are separated into domains and contain an **Overrides** field. To view all reports from the global domain, use the **[[t_ChangeDomainVisibility|Expand Domain Scope]]** related link.
+**Note:** Reports are separated into domains and contain an **Overrides** field. To view all reports from the global domain, use the **Expand Domain Scope** related link.
 
 When you view process tables from a domain, you see only the relevant process records for the selected domain. When you view a process table from the global domain, the **Expand Domain Scope** related link is displayed to let you see all process records, including overrides. To view only the relevant process records for global again, use the **Collapse Domain Scope** related link.
 
@@ -64,7 +64,7 @@ The Default domain in the following image is a data domain.
 
 **User Data**
 
-User record data never belongs in the global domain or any of the process domains. [[users|Users]] are primarily created in customer domains and can on occasion be created in data domains.
+User record data never belongs in the global domain or any of the process domains. Users are primarily created in customer domains and can on occasion be created in data domains.
 
 Admin accounts are special as they should not be used as everyday users of the instance and should be in the global domain to facilitate administrative functions.
 
@@ -84,9 +84,9 @@ The instance owner’s administrators must handle all normal process creation, m
 
 You can create and maintain the process that affect the global domain as well as set the parameters. These properties are common for all users of a domain-separated instance.
 
-Examples: [[ca-system-properties|System properties]], dictionary overrides, `sys_documentation` \(field labels\), the data model \(classes, CI types, and so on\), tables and fields `[sys_dictionary]` \(access can be restricted\), indexing \(text indexes as well as database\), ACLs, [[r_InstallationExits|installation exits]], inbound actions, public pages, and interceptors.
+Examples: System properties, dictionary overrides, `sys_documentation` \(field labels\), the data model \(classes, CI types, and so on\), tables and fields `[sys_dictionary]` \(access can be restricted\), indexing \(text indexes as well as database\), ACLs, installation exits, inbound actions, public pages, and interceptors.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -123,7 +123,7 @@ Examples: [[ca-system-properties|System properties]], dictionary overrides, `sys
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -141,13 +141,3 @@ Examples: [[ca-system-properties|System properties]], dictionary overrides, `sys
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[ca-policies|Policies]]
-- [[c_DomainScope|Domain scope]]
-- [[t_ChangeDomainVisibility|Expand domain scope]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]
-- [[r_InstallationExits|Installation exits]]
-- [[logs|Logs]]

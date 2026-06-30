@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Revert Software Asset Management customizations
 
-After installing the [[c_SoftwareAssetMgmt|Software Asset Management]] application for the first time, or upgrading from the Software Asset Management Foundation plugin, you need to revert customizations for all features work. The Revert Customizations module in the Software Asset Management application can revert customized files related to Software Asset Management back to the base configurations that were skipped during the installation or upgrade process.
+After installing the Software Asset Management application for the first time, or upgrading from the Software Asset Management Foundation plugin, you need to revert customizations for all features work. The Revert Customizations module in the Software Asset Management application can revert customized files related to Software Asset Management back to the base configurations that were skipped during the installation or upgrade process.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ You can also revert customizations using the **System Diagnostics** &gt; **Upgra
 
     You can also verify the disposition of all skipped files in the Upgrade Details \[sys\_upgrade\_history\_log\] table and the current OOB version in the Update Versions \[sys\_update\_version\] table.
 
-## Related
 
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

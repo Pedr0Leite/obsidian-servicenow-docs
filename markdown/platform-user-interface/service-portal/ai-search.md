@@ -14,7 +14,7 @@ breadcrumb: [Configuring search in a portal, Configuring Service Portal, Service
 
 # AI Search in Service Portal
 
-[[configure-onboarding-modals|Configure]] the ServiceNow AI Search application for [[c_ServicePortal|Service Portal]] so that portal users can take advantage of intelligent query features and quickly find the answers they need.
+Configure the ServiceNow AI Search application for Service Portal so that portal users can take advantage of intelligent query features and quickly find the answers they need.
 
 ## AI Search features
 
@@ -36,7 +36,7 @@ breadcrumb: [Configuring search in a portal, Configuring Service Portal, Service
 
 -   **Intelligent search refinement**
 
-    Portal users can refine their search results using dynamic and static [[c_Filters|filters]]. For example, if a user searches `Mac`, they can use facets to filter search results by hardware or user profiles.
+    Portal users can refine their search results using dynamic and static filters. For example, if a user searches `Mac`, they can use facets to filter search results by hardware or user profiles.
 
     \[Omitted image "ais-facets.png"\] Alt text: Search facets example
 
@@ -55,7 +55,7 @@ AI Search is enabled in Service Portal for all new and zBoot customers by defaul
 
 If you're upgrading to Australia as an existing customer, AI Search is inactive in Service Portal by default. You can enable it by updating the portal record. For more information, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md).
 
-**Note:** [[search-widgets|Search widgets]] that you copied or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reclassify-search-widgets.md).
+**Note:** Search widgets that you copied or customized before a system upgrade may not be compatible with AI Search. You can resolve this issue by running a fix script that reclassifies search widget instances. For more information, see [Reclassify cloned or customized search widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/reclassify-search-widgets.md).
 
 ## Configuring AI Search for Service Portal
 
@@ -80,7 +80,7 @@ To use a different search application or search results configuration for a spec
 -   [Catalog Homepage Search widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/cat-homepage-search-widget.md)
 -   [Knowledge Breadcrumbs widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/knowledge-breadcrumbs.md)
 
-To configure the search results payload to navigate to and display the appropriate portal page for a selected data source, [[ais-results-action|define an AI Search results action]]. For more information, see [Define an AI Search Results Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-results-action.md).
+To configure the search results payload to navigate to and display the appropriate portal page for a selected data source, define an AI Search results action. For more information, see [Define an AI Search Results Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-results-action.md).
 
 You can configure the action buttons in genius results by defining an Entity View Action Mapping \(EVAM\) action. For more information, see [Define an EVAM action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/define-evam-action.md).
 
@@ -95,15 +95,7 @@ Enable and define the AI Search experience in your portal.
 -   **[Define an AI Search Results Action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-results-action.md)**  
 Configure which portal page opens when a result is selected from the list of search results.
 -   **[Create a CSS include to override theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/css-override-ais-theming-sp.md)**  
-Override [[ais-sp-css-vars|theming for AI Search in Service Portal]] to match your company branding.
+Override theming for AI Search in Service Portal to match your company branding.
 
 **Parent Topic:**[Configuring search in a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/search-service-portal.md)
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_Filters|Filters]]
-- [[search-widgets|Search widgets]]
-- [[ais-results-action|Define an AI Search Results Action]]
-- [[ais-sp-css-vars|Theming for AI Search in Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply 
 
 # Sourcing and Procurement Operations integration with Employee Center
 
-As an employee, shopper, or requester, you can view all [[procurement-case-types|procurement case types]] available to you, knowledge articles, open to-dos and purchasing tasks assigned to you, track your requests, and even access your purchases on the Employee Center \(EC\) portal by integrating [[psm-overview|Sourcing and Procurement Operations]] with Employee Center.
+As an employee, shopper, or requester, you can view all procurement case types available to you, knowledge articles, open to-dos and purchasing tasks assigned to you, track your requests, and even access your purchases on the Employee Center \(EC\) portal by integrating Sourcing and Procurement Operations with Employee Center.
 
 Ensure that your admin has installed Employee Center, which is available as a zBoot plugin, for you to enjoy the seamless unified employee portal experience. Further, they may choose to install the employee content taxonomy plugin to access a prebuilt taxonomy for your service catalog, including the Purchases and Expenses topic.
 
@@ -24,8 +24,8 @@ Ensure that your admin has installed Employee Center, which is available as a zB
 
 You can view the following subtopics from the **Purchase and Expense** tab:
 
--   [[invoices|Invoices]]
--   [[supplier|Supplier]] Services
+-   Invoices
+-   Supplier Services
 -   Corporate Cards
 -   Purchase Requests
 -   Travel and Expenses
@@ -36,7 +36,7 @@ Select **Browse all** to view all the above subtopics across categories. These i
 
 **Note:** These subtopics are configured by the admin from the Employee taxonomy, where the search items are mapped to relevant connected content.
 
-From **Purchase Requests** in particular, you can do a bunch of things that include editing, canceling, or returning a purchase, buying something, requesting for a product or service, submitting a quote, requesting a copy of a contract, asking any queries to the procurement team, understanding what a [[sourcing-request|sourcing request]] or [[purchase-order-table|purchase order]] is, and so on.
+From **Purchase Requests** in particular, you can do a bunch of things that include editing, canceling, or returning a purchase, buying something, requesting for a product or service, submitting a quote, requesting a copy of a contract, asking any queries to the procurement team, understanding what a sourcing request or purchase order is, and so on.
 
 From **Quick links**, you can directly go to the list of third-party supplier sites, or visit ShoppingHub.
 
@@ -85,11 +85,11 @@ You can search for punchout products directly in Employee Center using the AI se
 -   **[Tracking your procurement requests in Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/track-proc-requests-on-ec.md)**  
 As a shopper, you can enjoy complete visibility into the progress of your requests by tracking your procurement cases in Employee Center.
 -   **[Approve a request from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approve-request-from-employee-center.md)**  
-Approve, reject, or request clarification on open [[purchase-requisition|purchase requisition]] lines and sourcing requests that are assigned to you, directly from Employee Center.
+Approve, reject, or request clarification on open purchase requisition lines and sourcing requests that are assigned to you, directly from Employee Center.
 -   **[Provide more details on your purchase from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/provide-more-details-tasks-ec.md)**  
 Provide additional information on your purchase from Employee Center by answering the follow-up questions that the procurement specialist has posted regarding your order. Your response to these to-dos ensures that the procurement specialist understands your exact requirements and has all the necessary information before proceeding with the sourcing request.
 -   **[Confirm meeting a milestone for your service from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/confirm-meeting-milestone-ec.md)**  
-Provide confirmation from Employee Center on whether the supplier has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can [[cancel-request|raise a cancel request]] or propose a new completion date.
+Provide confirmation from Employee Center on whether the supplier has met a milestone for a service you had ordered, so that payment can be processed to the supplier for that milestone. If a milestone hasn’t been met by the due date, you can raise a cancel request or propose a new completion date.
 -   **[Review your service acknowledgment task from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-serv-ack-task-ec.md)**  
 Review and acknowledge the receipt status of your ordered service from your supplier from Employee Center.
 -   **[Confirm receipt of your order from Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/confirm-receipt-task-ec.md)**  
@@ -107,7 +107,7 @@ Fill in a form that your procurement specialist has sent to you, and submit it d
 -   **[Raise a general inquiry for procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/raise-general-inquiry-for-procurement.md)**  
 As a shopper, raise an inquiry for any pre-existing purchase or for any other queries that you may have regarding any procurement function​​.
 -   **[Virtual Agent for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/virtual-agent-for-psm.md)**  
-ServiceNow® [[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement Operations]] enables shoppers to quickly find and purchase products that they're looking for from a vendor on ShoppingHub, by interacting with a virtual agent from Employee Center. It also allows shoppers to view purchases, procurement tasks, procurement cases, and even work on their to-dos. They can also get help from the procurement team using Virtual Agent.
+ServiceNow® Virtual Agent for Sourcing and Procurement Operations enables shoppers to quickly find and purchase products that they're looking for from a vendor on ShoppingHub, by interacting with a virtual agent from Employee Center. It also allows shoppers to view purchases, procurement tasks, procurement cases, and even work on their to-dos. They can also get help from the procurement team using Virtual Agent.
 
 **Parent Topic:**[Integrate Sourcing and Procurement Operations with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/integrating-spo.md)
 
@@ -134,14 +134,3 @@ ServiceNow® [[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement 
 
 [Procurement File Transfer Framework]()
 
-## Related
-
-- [[procurement-case-types|Procurement case types]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[invoices|Invoices]]
-- [[supplier|Supplier]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[cancel-request|Raise a cancel request]]
-- [[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement Operations]]

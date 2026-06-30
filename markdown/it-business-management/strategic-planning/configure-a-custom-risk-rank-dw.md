@@ -26,12 +26,10 @@ Role required: pps\_admin
 
 2.  Select **New**.
 
-3.  On the [[risk-value-lookup-form-ppw|Risk value lookup form]], fill in the fields.
+3.  On the Risk value lookup form, fill in the fields.
 
     For a description of the field names, see [Risk value lookup form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/risk-value-matcher-form-dw.md).
 
 4.  Select **Submit**.
 
-## Related
 
-- [[risk-value-lookup-form-ppw|Risk value lookup form]]

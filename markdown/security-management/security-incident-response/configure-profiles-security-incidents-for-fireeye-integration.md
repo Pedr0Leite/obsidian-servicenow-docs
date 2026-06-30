@@ -14,7 +14,7 @@ breadcrumb: [FireEye Endpoint Security integration, Security Incident Response i
 
 # Configure profiles and security incidents for the FireEye HX integration
 
-After you [[arcsight-esm-create-profile|create a profile]] and select the FireEye HX capabilities that you want the profile to run, configure the settings so that the profile can be invoked only under the defined conditions.
+After you create a profile and select the FireEye HX capabilities that you want the profile to run, configure the settings so that the profile can be invoked only under the defined conditions.
 
 ## Before you begin
 
@@ -64,6 +64,4 @@ Configure the profile so that it runs only when the conditions you specify are f
 
 5.  Verify FireEye HX trigger conditions.
 
-## Related
 
-- [[arcsight-esm-create-profile|Create a profile]]

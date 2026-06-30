@@ -14,9 +14,9 @@ breadcrumb: [Manage incidents, Data Loss Prevention Incident Response, Security 
 
 # Data Loss Prevention Incident Response Dashboard
 
-The [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) Dashboard provides a high-level overview of your DLP incidents and daily incidents trends in your instance in the form of graphical charts. These charts help you effectively view, manage, and remediate the DLP incidents.
+The Data Loss Prevention Incident Response \(DLP IR\) Dashboard provides a high-level overview of your DLP incidents and daily incidents trends in your instance in the form of graphical charts. These charts help you effectively view, manage, and remediate the DLP incidents.
 
-The Data Loss Prevention Incident Response dashboard provides key insights about your DLP incidents daily. You can set up [[indicator|indicators]] and regularly collect data snapshots of the incidents matching the conditions in the indicator properties. The collected data is then visualized using widgets in the dashboard. To analyze the DLP incidents in different time intervals, you can apply different date ranges.
+The Data Loss Prevention Incident Response dashboard provides key insights about your DLP incidents daily. You can set up indicators and regularly collect data snapshots of the incidents matching the conditions in the indicator properties. The collected data is then visualized using widgets in the dashboard. To analyze the DLP incidents in different time intervals, you can apply different date ranges.
 
 **Parent Topic:**[Data Loss Prevention Incident Response Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/data-loss-prevention-incident-management.md)
 
@@ -71,7 +71,4 @@ You can visualize the daily trends using widgets in the DLP dashboard. The data 
 
 6.  Use the filters below the chart to drill down and perform a more in-depth analysis.
 
-## Related
 
-- [[dlp-landing|Data Loss Prevention Incident Response]]
-- [[indicator|Indicators]]

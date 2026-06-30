@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Core Business Suite setup on Product Hub
 
-[[cbs-landing|Core Business Suite]] \(CBS\) is available in three subscription tiers. Depending on your subscription, you can set up your application on the Product Hub.
+Core Business Suite \(CBS\) is available in three subscription tiers. Depending on your subscription, you can set up your application on the Product Hub.
 
 Core Business Suite is available in the following subscription tiers:
 
@@ -22,15 +22,10 @@ Core Business Suite is available in the following subscription tiers:
 
 Depending on your subscription, you can set up your CBS application directly from the Product Hub. Check your entitlements to determine whether you have access to the tier that meets your needs.
 
-For more details, see [[configure-cbs-product-hub|Configure CBS on Product Hub]].
+For more details, see [Configure CBS on Product Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs-product-hub.md).
 
 -   **[Configure CBS on Product Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs-product-hub.md)**  
 Install your Core Business Suite subscription from the Product Hub to set up the application on your instance.
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[configure-cbs-product-hub|Configure CBS on Product Hub]]
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

@@ -25,9 +25,9 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist or sn\_ap\_apm.admin
 
 An invoice case with a category of Invoice automation and sub-category of Invoice processing is referred to as an invoice processing case.
 
-By default, an invoice processing case is automatically created when you receive an invoice via email. Document Intelligence captures the invoice data and subsequently creates the invoice and invoice line records in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]. However, the Accounts Payable Specialist can also manually create an invoice from the [[purch-order-mgmt-ws|Source-to-Pay Workspace]]. For more information, see [Create an invoice manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md).
+By default, an invoice processing case is automatically created when you receive an invoice via email. Document Intelligence captures the invoice data and subsequently creates the invoice and invoice line records in Accounts Payable Operations. However, the Accounts Payable Specialist can also manually create an invoice from the Source-to-Pay Workspace. For more information, see [Create an invoice manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice.md).
 
-For a description of the field values and information about the available tabs on the [[invoice-processing-case-form|invoice processing case form]], see [Invoice processing case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md).
+For a description of the field values and information about the available tabs on the invoice processing case form, see [Invoice processing case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/invoice-processing-case-form.md).
 
 ## Procedure
 
@@ -37,13 +37,13 @@ For a description of the field values and information about the available tabs o
 
 3.  Do one of the following:
 
-    -   Navigate to **Lists** &gt; **My Work** &gt; **My open [[working-with-ingestion-cases|invoice processing cases]]**.
+    -   Navigate to **Lists** &gt; **My Work** &gt; **My open invoice processing cases**.
     -   Navigate to **Lists** &gt; **All Work** &gt; **All open invoice processing cases**.
     \[Omitted image "apo-list-view.png"\] Alt text: List view
 
 4.  Open an invoice processing case.
 
-    Typically, the state of the newly created invoice processing case is New and the status of the invoice associated with this case is either Draft or Received, depending on how it was processed by the [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]] application.
+    Typically, the state of the newly created invoice processing case is New and the status of the invoice associated with this case is either Draft or Received, depending on how it was processed by the Accounts Payable Operations integration with Document Intelligence application.
 
     For more information about invoice statuses, see [Work with invoices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-invoices.md).
 
@@ -98,7 +98,7 @@ If a transformation error occurs in Document Intelligence, the invoice processin
 
     The automated duplicate check process is run and if the process suspects that the invoice is a duplicate, the invoice moves to the Suspected duplicate status, and the invoice processing case displays the following error.
 
-    `Invoice is a potential duplicate. Review [[invoices|invoices]] in "Potential duplicate invoices" tab to confirm or reject duplicate.`
+    `Invoice is a potential duplicate. Review invoices in "Potential duplicate invoices" tab to confirm or reject duplicate.`
 
     The Accounts Payable Specialist must manually confirm whether the invoice is a duplicate.
 
@@ -117,7 +117,7 @@ If a transformation error occurs in Document Intelligence, the invoice processin
     -   If the invoice matches with the PO, then the invoice moves to the PO matching completed status.
     -   If the invoice doesn't match with the PO, then the invoice moves to the PO matching error status and the invoice processing case displays the following error:
 
-        `Invoice needs to match [[purchase-order-table|Purchase order]]. Match "invoice lines" to "[[purchase-order-lines|Purchase order lines]]" to continue processing.`
+        `Invoice needs to match Purchase order. Match "invoice lines" to "Purchase order lines" to continue processing.`
 
         The Accounts Payable Specialist must manually match the invoice and invoice lines with the PO and the PO lines, respectively. The invoice moves to the PO matching completed status only after all the invoice lines move to the PO matching completed status.
 
@@ -125,7 +125,7 @@ If a transformation error occurs in Document Intelligence, the invoice processin
 
         **Note:** After the invoice moves to the PO matching completed status, the exception engine is run via a scheduled job at a specific time on a recurring basis. The exception engine runs on all the invoices that are in the PO matching completed status.
 
-        At this stage, however, you can also manually run the exception engine to identify [[work-with-invoice-exceptions|invoice exceptions]] on the invoice.
+        At this stage, however, you can also manually run the exception engine to identify invoice exceptions on the invoice.
 
     **Note:** The **Check for exceptions** option enables you to instantly run the exception engine on a single, selected invoice that is in the PO matching completed status, whereas the scheduled job periodically runs the exception engine on all the invoices that are in the PO matching completed status.
 
@@ -164,14 +164,3 @@ Manual tasks in Accounts Payable Operations are actions that specialists complet
 
 **Parent Topic:**[Invoice processing cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/working-with-ingestion-cases.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[invoice-processing-case-form|Invoice processing case form]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[apo-docintel-integration|Accounts Payable Operations integration with Document Intelligence]]
-- [[invoices|Invoices]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]

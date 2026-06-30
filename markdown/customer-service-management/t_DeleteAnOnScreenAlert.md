@@ -36,11 +36,7 @@ Users with the sn\_customerservice\_manager role can delete a special handling n
 **Related topics**  
 
 
-[[c_OnScreenAlerts|Special handling notes]]
+[Special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OnScreenAlerts.md)
 
-[[t_DeleteAnOnScreenAlertFromForm|Delete a special handling note from a form]]
+[Delete a special handling note from a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_DeleteAnOnScreenAlertFromForm.md)
 
-## Related
-
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[t_DeleteAnOnScreenAlertFromForm|Delete a special handling note from a form]]

@@ -16,9 +16,9 @@ breadcrumb: [Track metrics, Use ITSM Virtual Agent analytics dashboard, Now Assi
 
 # ITSM Virtual Agent resources analytics
 
-Track knowledge base articles and catalog items referenced in the [[itsm-virtual-agent|ITSM Virtual Agent]] interactions to identify which resources support successful incident deflections instead of being transferred to a live agent for resolution.
+Track knowledge base articles and catalog items referenced in the ITSM Virtual Agent interactions to identify which resources support successful incident deflections instead of being transferred to a live agent for resolution.
 
-Using the **Resources** tab, you can monitor the knowledge base articles and catalog items that ITSM Virtual Agent interactions [[reference-for-itsm-mobile-agent|reference]]. It provides visibility into the resource usage by tracking which knowledge articles or catalog items support successful interactions and which ones are associated with transferring the incident resolution to a live agent. These insights help evaluate the effectiveness of the knowledge and catalog content for each interaction and identify opportunities to improve self-service capabilities.
+Using the **Resources** tab, you can monitor the knowledge base articles and catalog items that ITSM Virtual Agent interactions reference. It provides visibility into the resource usage by tracking which knowledge articles or catalog items support successful interactions and which ones are associated with transferring the incident resolution to a live agent. These insights help evaluate the effectiveness of the knowledge and catalog content for each interaction and identify opportunities to improve self-service capabilities.
 
 With standardized deflection metrics, users can:
 
@@ -66,7 +66,3 @@ Track which knowledge base articles or catalog items the ITSM Virtual Agent refe
 |Top 10 catalog items referenced in transfers to live agents|A bar chart showing the catalog items most frequently referenced in the interactions that required a transfer to a live agent. |
 |All catalog items referenced in transfers to live agents|A table listing all catalog items referenced in chats that required live agent escalation, along with the number of times each item was referenced. |
 
-## Related
-
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[reference-for-itsm-mobile-agent|Reference]]

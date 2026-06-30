@@ -24,11 +24,11 @@ The Knowledge Health Score measures the quality of knowledge articles and your k
 
 ## Prerequisites
 
-You must enable [[enable-healthscore-calculation|Enable article health score calculation]] property and [Enable article optimization recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/enable-ao-recommendations.md) skill to view knowledge health score.
+You must enable [Enable article health score calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/enable-healthscore-calculation.md) property and [Enable article optimization recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/enable-ao-recommendations.md) skill to view knowledge health score.
 
 ## How the Knowledge Health Score is calculated
 
-Each knowledge article is scanned against six quality parameters and assigned an article health score from 0 to 100. Knowledge Base scores are the average of all article scores within that Knowledge Base, and the score is the average of all Knowledge Base scores. See [[healthscore-metrics|Article health score]] for the full parameter breakdown and weighted calculation.
+Each knowledge article is scanned against six quality parameters and assigned an article health score from 0 to 100. Knowledge Base scores are the average of all article scores within that Knowledge Base, and the score is the average of all Knowledge Base scores. See [Article health score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/healthscore-metrics.md) for the full parameter breakdown and weighted calculation.
 
 ## Score aggregation across levels
 
@@ -44,7 +44,7 @@ Article scores aggregate upward through two additional levels:
 
 -   **Aggregated score**
 
-    The average of all Knowledge Base scores across the Knowledge Base. This is the score displayed on the [[knowledge-management|Knowledge Management]] homepage gauge by default.
+    The average of all Knowledge Base scores across the Knowledge Base. This is the score displayed on the Knowledge Management homepage gauge by default.
 
 
 A change to a single article score propagates upward: improving an article raises its Knowledge Base score, which in turn affects the average score appearing in the home page.
@@ -92,11 +92,5 @@ The view contains three sections:
 
 [Enable article health score calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/enable-healthscore-calculation.md)
 
-[[view-knowledge-health-base|View the Knowledge Health Score dashboard]]
+[View the Knowledge Health Score dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/view-knowledge-health-base.md)
 
-## Related
-
-- [[enable-healthscore-calculation|Enable article health score calculation]]
-- [[healthscore-metrics|Article health score]]
-- [[view-knowledge-health-base|View the Knowledge Health Score dashboard]]
-- [[knowledge-management|Knowledge Management]]

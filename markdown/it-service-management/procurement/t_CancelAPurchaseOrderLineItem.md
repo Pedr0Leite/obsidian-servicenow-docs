@@ -14,11 +14,11 @@ breadcrumb: [Create a purchase order, Procurement purchase order management for 
 
 # Cancel a purchase order line item
 
-You can [[t_CancelAPurchaseOrder|cancel a purchase order]] line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
+You can cancel a purchase order line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -42,7 +42,3 @@ Keep the following in mind when you cancel a purchase order line item.
 
 **Parent Topic:**[Create a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CreateAPurchaseOrder.md)
 
-## Related
-
-- [[t_CancelAPurchaseOrder|Cancel a purchase order]]
-- [[c_Procurement|Procurement]]

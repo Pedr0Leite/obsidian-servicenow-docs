@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Hold Notification, Legal Service Delivery Practice
 
 # Components installed with Legal Hold Notification
 
-Various components are installed with [[lg-hold-notif-landing-page|Legal Hold Notification]].
+Various components are installed with Legal Hold Notification.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -117,6 +117,3 @@ Stores custodian details.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Hold Notification reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/lg-hold-notif-ref.md)
 
-## Related
-
-- [[lg-hold-notif-landing-page|Legal Hold Notification]]

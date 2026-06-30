@@ -16,8 +16,5 @@ Add functions to your details screens to enable your users to take actions or vi
 
 ## Add functions to your details screens
 
-Use field and footer functions to provide information and actions for users viewing records within a mobile app. You can add these functions as instances on your record screens [[mab-building-records|using the Mobile App Builder]].
+Use field and footer functions to provide information and actions for users viewing records within a mobile app. You can add these functions as instances on your record screens using the Mobile App Builder.
 
-## Related
-
-- [[mab-building-records|Using the Mobile App Builder]]

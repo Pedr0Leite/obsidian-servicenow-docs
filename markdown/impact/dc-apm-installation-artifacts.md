@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection for APM, Enable data collec
 
 # Review APM artifacts
 
-The data collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The data collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 |Artifact type|Description|
 |-------------|-----------|
@@ -48,6 +48,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Manual|Impact VM - % of applications with indicator score|
 |Automated|Impact VM - \# of applications migrated|
 
-## Related
-
-- [[io-analytics|Analytics]]

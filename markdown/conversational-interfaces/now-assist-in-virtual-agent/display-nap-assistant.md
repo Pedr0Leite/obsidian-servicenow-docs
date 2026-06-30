@@ -24,7 +24,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## About this task
 
-If your instance is eligible, you can opt into the [[nava-integrated-chat|premium chat]] experience. ServiceNow performs a set of readiness checks to see if your instance is eligible for premium chat. The default chat experience is [[nava-enhanced-chat|enhanced chat]]. However, if you also previously had [[nava-standard-chat|standard chat]] enabled, you still have that as an option.
+If your instance is eligible, you can opt into the premium chat experience. ServiceNow performs a set of readiness checks to see if your instance is eligible for premium chat. The default chat experience is enhanced chat. However, if you also previously had standard chat enabled, you still have that as an option.
 
 **Note:** An alert is shown when:
 
@@ -66,8 +66,3 @@ For Now Assist panel – Developer assistant, premium chat is not available. Pro
 
 See [Brand and personalize an assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/brand-assistant.md).
 
-## Related
-
-- [[nava-integrated-chat|Premium chat]]
-- [[nava-enhanced-chat|Enhanced chat]]
-- [[nava-standard-chat|Standard chat]]

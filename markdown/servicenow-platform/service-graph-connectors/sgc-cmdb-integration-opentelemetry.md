@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 # Service Graph Connector for OpenTelemetry
 
-Use the Service Graph Connector for OpenTelemetry to ingest [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] data from the ServiceNow Cloud Observability \(formerly Lightstep\) application using REST APIs. Push events from the Cloud Observability application into ServiceNow with Event Management.
+Use the Service Graph Connector for OpenTelemetry to ingest Configuration Management Database \(CMDB\) data from the ServiceNow Cloud Observability \(formerly Lightstep\) application using REST APIs. Push events from the Cloud Observability application into ServiceNow with Event Management.
 
 **Important:** Starting with the Australia release, Service Graph Connector for OpenTelemetry is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
@@ -41,11 +41,11 @@ The guided setup for the Service Graph Connector for OpenTelemetry provides an o
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Cloud Observability integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Cloud Observability integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from the Cloud Observability data sources is mapped and transformed into the ServiceNow CMDB configuration item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the Cloud Observability data sources is mapped and transformed into the ServiceNow CMDB configuration item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 When you complete setting up the connection, you can configure the integration to pull data from the application periodically.
 
@@ -222,7 +222,7 @@ OpenTelemetry Dependency Map \[sn\_sg\_lightstep\_dependency\_map\]
 </td></tr></tbody>
 </table>For more information on where data is saved when pulling data from Cloud Observability, see [CMDB classes targeted in Service Graph Connector for OpenTelemetry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-opentelemetry-classes.md).
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Inferred service linking
 
@@ -233,10 +233,3 @@ The ServiceNow Cloud Observability application can infer the presence of an infe
 
 [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]

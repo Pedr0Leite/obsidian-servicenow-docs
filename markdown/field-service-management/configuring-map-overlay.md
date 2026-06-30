@@ -471,11 +471,11 @@ Enter weight for heatmap. Determines the intensity of a data point on the heatma
 </td></tr></tbody>
 </table>4.  Change the color gradient of the visualization using the Heatmap Gradient \(sn\_cmn\_mo.HeatmapGradient\) extension point.
 
-    For more information, see [[extension-points-field-service|Extension points in Field Service Management]].
+    For more information, see [Extension points in Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/extension-points-field-service.md).
 
 5.  Change the opacity level and the radius that influence the data point in the heatmap.
 
-    For more information, see [[territory-planning-components-fsm|Field Service Territory Planning console properties]].
+    For more information, see [Field Service Territory Planning console properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-components-fsm.md).
 
 6.  Create a map overlay definition, link the overlay definition and data item.
 
@@ -727,7 +727,3 @@ You can link the overlay group and overlay definition to any one of the followin
 
 The overlay definition appears either on the view port or territory based on the linked group usage.
 
-## Related
-
-- [[extension-points-field-service|Extension points in Field Service Management]]
-- [[territory-planning-components-fsm|Field Service Territory Planning components]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Advanced Integration with Oracle HCM, Integrati
 
 # Components installed with HR Service Delivery Advanced Integration with Oracle HCM
 
-Several types of components are installed with activation of the [[adv-or-hcm|HR Service Delivery Advanced Integration with Oracle HCM]] \[sn\_hr\_oracle\_adv\] plugin, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Advanced Integration with Oracle HCM \[sn\_hr\_oracle\_adv\] plugin, including tables and user roles.
 
 Demo data is available for this feature.
 
@@ -39,7 +39,7 @@ HR Oracle Advanced Admin\[sn\_hr\_oracle\_adv.admin\]
 </td><td>
 
 -   Can complete the set up to display total rewards information from an Oracle HCM system into a ServiceNow instance.
--   Can complete the set up to pull [[holiday-calendar-awd|holiday calendars]] from an Oracle HCM system into a ServiceNow instance.
+-   Can complete the set up to pull holiday calendars from an Oracle HCM system into a ServiceNow instance.
 
 </td><td>
 
@@ -66,8 +66,3 @@ Stores holiday calendars that are pulled from a Oracle HCM system into a Service
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[adv-or-hcm|HR Service Delivery Advanced Integration with Oracle HCM]]
-- [[holiday-calendar-awd|Holiday calendars]]

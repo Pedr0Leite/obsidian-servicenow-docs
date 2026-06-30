@@ -14,7 +14,7 @@ breadcrumb: [Localization Framework reference, Localization Framework, Translati
 
 # Translation modes
 
-[[localization-framework-landing|Localization Framework]] offers several translation modes for completing [[ia-localization-il|localization]] tasks. As a localization admin, you can select one or more of these modes when configuring the procedures for localization tasks.
+Localization Framework offers several translation modes for completing localization tasks. As a localization admin, you can select one or more of these modes when configuring the procedures for localization tasks.
 
 ## Overview of translation modes in Localization Framework
 
@@ -25,7 +25,7 @@ As a localization admin, you can configure these modes when configuring localiza
 -   Before starting configuration of Translation Preferences in Settings, finish any applicable prerequisites such as setting up a machine translator service or TMS, enabling file formats for email, and so forth.
 -   Complete Translation Preferences in Settings before configuring the next tab, **Workflow Preferences**.
 
-These translation modes also constrain the methods available to translation requests in [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md). Translation modes must be enabled in Localization Framework before they are available in the translation request wizard of [[localization-workspace|Localization Workspace]].
+These translation modes also constrain the methods available to translation requests in [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md). Translation modes must be enabled in Localization Framework before they are available in the translation request wizard of Localization Workspace.
 
 ## Machine Translation
 
@@ -41,9 +41,9 @@ RWS and XTM Translation Management Systems are supported by default and require 
 
 Alternatively, you can configure a custom TMS of your choice. For more information, see [Create a custom translation management system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-custom-tms.md).
 
-When the [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]] is installed, the TMS must be configured accordingly. For more information, see [Localization Framework Hub and Spoke architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-hub-spoke-architecture.md).
+When the Localization Framework Hub and Spoke architecture is installed, the TMS must be configured accordingly. For more information, see [Localization Framework Hub and Spoke architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-hub-spoke-architecture.md).
 
-Zip attachments must be supported on the instance. For details on attachment configuration, see [[t_DisablingTheDragAndDropFeature|Configure system attachment properties]].
+Zip attachments must be supported on the instance. For details on attachment configuration, see [Configure system attachment properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingTheDragAndDropFeature.md).
 
 ## Send via Email
 
@@ -69,10 +69,3 @@ Either the CSV or the XLIFF attachment format must be supported on the instance.
 
 [Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md)
 
-## Related
-
-- [[t_DisablingTheDragAndDropFeature|Configure attachment system properties]]
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[localization-workspace|Localization Workspace]]
-- [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]]

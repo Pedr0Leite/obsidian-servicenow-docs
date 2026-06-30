@@ -16,7 +16,7 @@ breadcrumb: [IT Service Management]
 
 ITSM Success Dashboard indicators provide insights to the IT leadership team and process owners so that they can measure the performance of their ITSM implementation using the KPIs defined by ServiceNow.
 
-Success Dashboard is available for [[r_ITServiceManagement|IT Service Management]] and HR Service Delivery and is delivered via the following [[dex-workspace-application-tab|applications]]:
+Success Dashboard is available for IT Service Management and HR Service Delivery and is delivered via the following applications:
 
 -   ITSM Success Dashboard indicators
 
@@ -47,7 +47,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: [[reference-for-itsm-mobile-agent|Reference]] Get details about ITSM Success Dashboard components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/itsm-success-dashboard-reference.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Reference Get details about ITSM Success Dashboard components such as roles and dependent applications.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/itsm-success-dashboard-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -55,8 +55,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Ask or answer questions in the Task Intelligence for ITSM community](https://community.servicenow.com/community/it-service-management/content?filterID=contentstatus%5Bpublished%5D%7Ecategory%5Bincident-management%5D)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[reference-for-itsm-mobile-agent|Reference]]

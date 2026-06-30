@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow AI Lens, Enable AI experiences]
 
 # Using ServiceNow AI Lens
 
-If you have a lens\_user role, you can use the [[servicenow-lens-landing-page|ServiceNow AI Lens]] application to capture screens or upload files, extract and comprehend data from the captured screenshotsor uploaded files, auto-fill form fields, or preview the extracted data.
+If you have a lens\_user role, you can use the ServiceNow AI Lens application to capture screens or upload files, extract and comprehend data from the captured screenshotsor uploaded files, auto-fill form fields, or preview the extracted data.
 
 ## Using ServiceNow AI Lens overview
 
@@ -29,6 +29,3 @@ Use ServiceNow AI Lens to do the following tasks:
 -   Extract and analyze data from the files that you upload, and show the outcome of the analysis as a preview. For more information, see [Extract and analyze data with ServiceNow AI Lens desktop app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/sn-lens-standalone-app.md).
 -   Trigger ServiceNow AI Lens in the context of Lens actions from a Virtual Agent conversation. For more information, see [Extract and analyze data using ServiceNow AI Lens from Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/servicenow-lens/trigger-lens-from-va.md).
 
-## Related
-
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Configure reasons for rejecting work items
 
-Define the reasons that agents can use to decline [[awa-assignment|work assignments]] that they receive in their Agent Workspace inbox. A reject reason can apply to all [[awa-service-channels|service channels]] or a single channel that you specify.
+Define the reasons that agents can use to decline work assignments that they receive in their Agent Workspace inbox. A reject reason can apply to all service channels or a single channel that you specify.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: awa\_admin or admin
 
 1.  Navigate to the reject reasons settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Additional settings section, select **Set up reject reasons**.
 
@@ -37,7 +37,7 @@ Role required: awa\_admin or admin
 
     |Field|Definition|
     |-----|----------|
-    |Reason|Name of the reason for rejecting [[awa-work-items|work items]].|
+    |Reason|Name of the reason for rejecting work items.|
     |Agent selectable|Indicates that the reject reason is selectable by agents in their Agent Workspace Inbox.|
     |Order|Order in which the reject reasons are listed in the agent inbox.|
     |Apply to all service channels|Indicates that the reject reason applies to all service channels. To make the reason available to a single channel, unselect this check box and in the **Service channel** field, select the appropriate channel.|
@@ -48,9 +48,4 @@ Role required: awa\_admin or admin
 
     The rejection reason is added to or updated in the Reject Reasons \[awa\_reject\_reason\] table.
 
-## Related
 
-- [[awa-assignment|Work assignments]]
-- [[awa-service-channels|Service channels]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]

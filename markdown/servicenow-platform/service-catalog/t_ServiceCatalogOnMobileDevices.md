@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog customization, Types of catalog items, Explore, Ser
 
 # Configure Classic Mobile devices
 
-When you configure [[service-catalog|Service Catalog]] on a Classic Mobile device, you can define the layout and presentation of catalogs. You can then perform actions such as ordering products and services, submit incidents and problems using record producers.
+When you configure Service Catalog on a Classic Mobile device, you can define the layout and presentation of catalogs. You can then perform actions such as ordering products and services, submit incidents and problems using record producers.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Users can access the service catalog on Classic Mobile devices to:
 -   View and order products and services.
 -   Submit incidents and problems using record producers.
 
-**Note:** Users cannot access [[c_ServiceCatalogOrderGuides|order guides]], wizards, or content items from Classic Mobile devices.
+**Note:** Users cannot access order guides, wizards, or content items from Classic Mobile devices.
 
 Administrators and catalog administrators can configure the layout, presentation, and other aspects of the service catalog for Classic Mobile devices.
 
@@ -44,7 +44,7 @@ Including:
 
 Accessing the Service Catalogon Mobile Devices
 
-To access the service catalog, navigate to **[[self-service-landing|Self-Service]]** &gt; **Catalog**.
+To access the service catalog, navigate to **Self-Service** &gt; **Catalog**.
 
 \[Omitted image "ServiceCatalogHomepageMobile.png"\] Alt text: Screenshot for Service Catalog Classic Mobile homepage.
 
@@ -94,8 +94,3 @@ By default, item descriptions in the smartphone interface are truncated to a max
 
 **Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogCustomization.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ServiceCatalogOrderGuides|Order guides]]
-- [[self-service-landing|Self-service]]

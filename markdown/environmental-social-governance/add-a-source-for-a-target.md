@@ -31,8 +31,5 @@ Role required: sn\_esg.program\_manager
 4.  Select **Add as target source**.
 
 
-**Parent Topic:**[[create-esg-target|Create an Operational Sustainability Management \(formerly ESG Management\) target]]
+**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) target](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-target.md)
 
-## Related
-
-- [[create-esg-target|Create an Operational Sustainability Management \(formerly ESG Management\) target]]

@@ -20,11 +20,11 @@ Create a Guided Setup to assist users with planning the roll-out of a product an
 
 Role required: sn\_help\_setup\_admin or sn\_help\_setup\_player
 
-The [[guided-setup|Guided Setup]] builder is supported by the Process Automation Designer.
+The Guided Setup builder is supported by the Process Automation Designer.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adoption-services|Adoption Services]]** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Adoption Services** &gt; **Guided Setup**.
 
 2.  Select the **Build your guided setups** tab.
 
@@ -114,7 +114,7 @@ The [[guided-setup|Guided Setup]] builder is supported by the Process Automation
 
     1.  To delete a stage, select the more actions menu \[Omitted image "guided-setup-more-actions.png"\] Alt text: More actions icon on your stage.
 
-        -   [[configure-onboarding-modals|Configure]] stage
+        -   Configure stage
         -   Add stage before
         -   Add stage after
         -   Delete stage
@@ -125,8 +125,3 @@ The [[guided-setup|Guided Setup]] builder is supported by the Process Automation
         -   Move activity
         -   Delete activity
 
-## Related
-
-- [[guided-setup|Guided Setup]]
-- [[adoption-services|Adoption services]]
-- [[configure-onboarding-modals|Configure]]

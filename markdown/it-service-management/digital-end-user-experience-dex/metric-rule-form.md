@@ -70,7 +70,7 @@ Action
 
 </td><td>
 
-Alert action for the metric rule that triggers the [[remedial-action|remedial action]] for the alert.
+Alert action for the metric rule that triggers the remedial action for the alert.
 
 </td></tr><tr><td>
 
@@ -85,6 +85,3 @@ Date and time when the metric rule is last updated.
 
 **Parent Topic:**[Administration cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]

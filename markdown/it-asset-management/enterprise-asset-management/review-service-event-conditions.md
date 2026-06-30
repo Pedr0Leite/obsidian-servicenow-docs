@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Work management** &gt; **work order tasks**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Work management** &gt; **work order tasks**.
 
 2.  In the Condition lines tab, select a service event.
 
@@ -36,6 +36,4 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 5.  On the dashboard, scroll down to view the asset condition overview.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

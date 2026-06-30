@@ -14,7 +14,7 @@ breadcrumb: [Connect work, Use, Collaborative Work Management, Strategic Portfol
 
 # Connect work from other ServiceNow apps to CWM Boards
 
-Enable a consolidated view of all relevant work by connecting work items from different ServiceNow applications to a Board in [[cwm-landing|Collaborative Work Management]].
+Enable a consolidated view of all relevant work by connecting work items from different ServiceNow applications to a Board in Collaborative Work Management.
 
 ## Before you begin
 
@@ -88,6 +88,3 @@ To enable additional fields from any connected work table, change the form layou
 
 [Update filter conditions for connected work in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/update-conditions-for-connected-work-in-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

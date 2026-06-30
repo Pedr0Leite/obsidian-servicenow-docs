@@ -14,7 +14,7 @@ breadcrumb: [Templates in Agent Workspace for HR Case Management, Using Agent Wo
 
 # Create and sign document tasks in Agent Workspace for HR Case Management
 
-Create document tasks directly in the [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] [[using-doc-templates|using document templates]] and sign them off from Agent Workspace.
+Create document tasks directly in the Agent Workspace for HR Case Management using document templates and sign them off from Agent Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select an HR case for the document task.
 
@@ -46,7 +46,7 @@ Role required: sn\_hr\_core.case\_writer
 
 7.  Select **Sign Document** or **Fill Document** as displayed.
 
-    **Note:** The **Fill Document** button appears only for PDF [[document-templates-overview|document templates]].
+    **Note:** The **Fill Document** button appears only for PDF document templates.
 
 8.  In the dialog box that appears, sign the document \(HTML template\) or fill the required fields and sign the document \(as configured in PDF template\).
 
@@ -61,9 +61,3 @@ Role required: sn\_hr\_core.case\_writer
 
 After all the documents associated with the case are closed, the document is generated and listed under **Attachments**.
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[using-doc-templates|Using Document Templates]]
-- [[case-management-workspace|Case management]]
-- [[document-templates-overview|Document Templates]]

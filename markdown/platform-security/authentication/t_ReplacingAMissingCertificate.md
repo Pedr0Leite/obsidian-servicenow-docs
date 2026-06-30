@@ -14,7 +14,7 @@ breadcrumb: [Install the identity provider certificate, SAML, Multi-Provider sin
 
 # Replace a missing certificate for SAML
 
-If the **Certificate** module displays a blank page, the [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 certificate record has been deleted. You can replace the missing certificate by manually creating a certificate record.
+If the **Certificate** module displays a blank page, the SAML 2.0 certificate record has been deleted. You can replace the missing certificate by manually creating a certificate record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[c_Certificates|Certificates]]**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Certificates**.
 
 2.  Create a new record called `SAML 2.0`.
 
@@ -34,7 +34,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 5.  Click **Save**.
 
-## Related
 
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Certificates|Certificates]]

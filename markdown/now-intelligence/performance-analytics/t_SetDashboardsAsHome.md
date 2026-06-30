@@ -35,7 +35,7 @@ Use the [Homepage deprecation help tool](https://raw.githubusercontent.com/Servi
 
 For more information, see:
 
--   [[analytics-center-dashboards|Dashboards in the Analytics Center]].
+-   [Dashboards in the Analytics Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 -   [Working with responsive dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ResponsiveDashboards.md).
 
 When dashboards are set as your **Home**, the most recently selected dashboard is always loaded. You cannot specify a dashboard as your **Home**. Mark a dashboard as a favorite to navigate to the dashboard easily.
@@ -61,6 +61,3 @@ When you navigate to **Self-Service** &gt; **Dashboards** or select your company
 
 **Parent Topic:**[Create and use dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-and-edit-dashboards.md)
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]

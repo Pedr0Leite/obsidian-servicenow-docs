@@ -14,7 +14,7 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 # Domain separation and Service Level Management
 
-Domain separation is supported in [[service-level-mgmt-landing-page|Service Level Management]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Service Level Management. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -65,6 +65,3 @@ The intention of SLM is to provide customers with an expectation of service with
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

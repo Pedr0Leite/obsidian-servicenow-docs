@@ -15,7 +15,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Collect web usage data using Agent Client Collector for Visibility - Content
 
-Track website visits across your organization and gain visibility into web applications your users access using [[acc-landing-page|Agent Client Collector]] for Visibility - Content \(ACC-VC\).
+Track website visits across your organization and gain visibility into web applications your users access using Agent Client Collector for Visibility - Content \(ACC-VC\).
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Verify that the following components are installed in your environment:
 
 -   Agent Client Collector Framework \(ACC-F\)
 -   Agent Client Collector for Visibility - Content
--   URL [[r-discovery|Discovery]] and Monitoring \(sn\_itom\_url\_disc\)
+-   URL Discovery and Monitoring \(sn\_itom\_url\_disc\)
 -   The DEX Browser Extension 4.1.0 is enabled on the host
 
 Role required: sn\_acc\_vis\_content.application\_admin and discovery\_admin
@@ -72,7 +72,3 @@ For details on these tables, see [Web usage data collection tables and fields](h
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

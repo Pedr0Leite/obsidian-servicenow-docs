@@ -14,7 +14,7 @@ breadcrumb: [Inbound staging tables for Accounts Payable Operations, Inbound sta
 
 # Organization tax details inbound staging table
 
-The [[organization-tax-details|Organization tax details]] inbound \[sn\_fcms\_intg\_org\_tax\_detail\_inbound\] staging table temporarily stores important data about an organization's tax information before this data is sent to the Organization Tax Details \[sn\_fin\_org\_tax\_detail\] primary table.
+The Organization tax details inbound \[sn\_fcms\_intg\_org\_tax\_detail\_inbound\] staging table temporarily stores important data about an organization's tax information before this data is sent to the Organization Tax Details \[sn\_fin\_org\_tax\_detail\] primary table.
 
 ## Organization tax details inbound staging table
 
@@ -44,6 +44,3 @@ The following table lists the mandatory fields for the Organization tax details 
 
 [Invoice line stage table]()
 
-## Related
-
-- [[organization-tax-details|Organization tax details]]

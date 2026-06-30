@@ -14,7 +14,7 @@ breadcrumb: [Data Loss Prevention Incident Response Integration with Proofpoint,
 
 # Create a Profile for Proofpoint DLP integration
 
-[[ms-defender-profile|Create an incident profile]] in your  ServiceNow AI Platform instance. Determine the  Proofpoint DLP incidents that are suitable for creating DLP incidents.
+Create an incident profile in your  ServiceNow AI Platform instance. Determine the  Proofpoint DLP incidents that are suitable for creating DLP incidents.
 
 ## Before you begin
 
@@ -81,11 +81,7 @@ Description to help distinguish this profile from other profiles.
 -   **[Define filters to apply for the Incident creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/define-filters-incident-creation-proofpoint.md)**  
 Define and set filter conditions to filter the incoming  Proofpoint DLP  incidents. Control which DLP incidents should be created on ServiceNow®.
 -   **[Preview evidence files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/preview-file-proofpoint.md)**  
-Preview [[dlp-landing|Data Loss Prevention Incident Response]] evidence files in the DLP IR Analyst workspace.
+Preview Data Loss Prevention Incident Response evidence files in the DLP IR Analyst workspace.
 
 **Parent Topic:**[Data Loss Prevention Incident Response Integration with Proofpoint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/dlp-incident-response-integration-proofpoint.md)
 
-## Related
-
-- [[ms-defender-profile|Create an incident profile]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

@@ -12,9 +12,9 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Filter activities in the activity stream
 
-Use tags to filter the items that appear in the [[csm-config-ws-activity-stream|activity stream]].
+Use tags to filter the items that appear in the activity stream.
 
-Tags enable you to filter your activities in the activity stream by dynamic and static states not offered in filter [[migration-lists|lists]]. For example, these states can include Workaround or Status checked.
+Tags enable you to filter your activities in the activity stream by dynamic and static states not offered in filter lists. For example, these states can include Workaround or Status checked.
 
 \[Omitted image "filter-activity-stream-tags.png"\] Alt text: Filter the activity stream by selecting tags from the Tags dropdown menu
 
@@ -22,7 +22,3 @@ Tags are enabled and created by your system administrator. To enable and add tag
 
 To use tags to filter activities in the activity stream, see [Filter activities with tags](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tags-activity-stream-agent.md).
 
-## Related
-
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[migration-lists|Lists]]

@@ -15,11 +15,11 @@ breadcrumb: [Default DevOps Config policies, DevOps Config reference, DevOps Con
 
 # Generic policies in DevOps Config
 
-By default, the [[devops-config-landing-page|DevOps Config]] Policy content pack contains a set of generic policies to validate your configuration data.
+By default, the DevOps Config Policy content pack contains a set of generic policies to validate your configuration data.
 
 **Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
-You can use or customize these [[devops-config-default-policies|default DevOps Config policies]] to validate that your configuration data content is conformable, or [administrate the full life cycle of PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-managing-policies.md).
+You can use or customize these default DevOps Config policies to validate that your configuration data content is conformable, or [administrate the full life cycle of PaCE policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-managing-policies.md).
 
 **Note:** You can’t modify the default policies. However, you can make a copy of the policy and customize your copy.
 
@@ -183,7 +183,7 @@ Checks whether all the key-value combinations are the same for every first-level
 
 Results into a non-complaint status when any two first-level nodes in a snapshot have different key-value combinations.
 
-Use case: When all the nodes in a snapshot are a group of [[dex-workspace-devices-tab|devices]] or virtual machines \(VMs\), they have the same configuration.
+Use case: When all the nodes in a snapshot are a group of devices or virtual machines \(VMs\), they have the same configuration.
 
 -   **Input argument**
 
@@ -378,7 +378,7 @@ Note the following points for the policy compliance:
 
 -   **Input arguments**
     -   keysToValidateObject
-        -   An array of objects where each object contains a key path, an operator, and a [[reference-for-itsm-mobile-agent|reference]] list.
+        -   An array of objects where each object contains a key path, an operator, and a reference list.
         -   Allowed operators are `IN`, `CONTAINS`, `NOT CONTAINS`, and `EQUALS`.
         -   Example input value to enforce that a user defined in the system `/root/user path` is either `user1` or `user2`:
 
@@ -744,7 +744,7 @@ Checks whether there are no duplicate key names in a snapshot.
 
 Results into a non-compliant status if a key name has multiple occurrences in a snapshot.
 
-Use case: Deployment automation tools can handle multiple occurrences of [[settings-mobile|settings]] badly resulting into downtime of services.
+Use case: Deployment automation tools can handle multiple occurrences of settings badly resulting into downtime of services.
 
 -   **Input argument**
 
@@ -932,7 +932,7 @@ Checks whether the key values do not contain white-space characters including le
 
 Result into a non-compliant status when a key value includes a white-space character.
 
-Use case: Prevent white-space characters from causing issues for tools or [[dex-workspace-application-tab|applications]] when settings are applied.
+Use case: Prevent white-space characters from causing issues for tools or applications when settings are applied.
 
 -   **Input argument**
 
@@ -1025,11 +1025,3 @@ Results into a non-compliant status when a variable used in a key value cannot b
 
 Use case: Ensure all the variables used in the configuration data settings are replaced with a value because any unresolved variables can break the deployment operation.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[devops-config-default-policies|Default DevOps Config policies]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[settings-mobile|Settings]]
-- [[dex-workspace-application-tab|Applications]]

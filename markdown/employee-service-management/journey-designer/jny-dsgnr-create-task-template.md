@@ -14,7 +14,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Create a task template
 
-Journey owners \(managers\) and mentors create templates of tasks, such as scheduling a meeting or taking a [[exploring-learning-exp|learning]] course, to assign to employees' journeys.
+Journey owners \(managers\) and mentors create templates of tasks, such as scheduling a meeting or taking a learning course, to assign to employees' journeys.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: Modifier \[sn\_jny.writer\]
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]], navigate to **Journeys** &gt; **My templates**.
+1.  From the Employee Center, navigate to **Journeys** &gt; **My templates**.
 
 2.  Select **Create task template**.
 
@@ -109,7 +109,3 @@ Option to set this task to optional.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

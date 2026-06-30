@@ -22,7 +22,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -64,7 +64,7 @@ Role required: sn\_hs\_rm.risk\_assessment\_manager or sn\_hs\_rm.risk\_assessme
 
     -   The severity and likelihood of the hazard before controls are evaluated to show the hazard's risk level in the **Inherent risk** field on the form.
     -   The severity and likelihood of the hazard after controls are evaluated to show the hazard's risk level in the **Residual risk** field on the form. After controls, the risk level should be reduced.
-    \[Omitted image "hs-hazard-assessment.png"\] Alt text: [[hs-hazard-assessment-form|Hazard assessment form]] showing Inherent and Residual risk fields.
+    \[Omitted image "hs-hazard-assessment.png"\] Alt text: Hazard assessment form showing Inherent and Residual risk fields.
 
     For more information on risk level calculation, see [Risk matrix form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-matrix-form.md).
 
@@ -76,7 +76,3 @@ If a risk analysis includes more than one hazard, perform a hazard assessment fo
 
 **Parent Topic:**[Safety risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-assessment.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-hazard-assessment-form|Hazard assessment form]]

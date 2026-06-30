@@ -22,13 +22,13 @@ Lenses in Strategic Planning indicate a perspective in which you can plan and fu
 
 ## Lens structure
 
-Each lens in [[alignment-planner-workspace-landing-page|Strategic Planning]] consists of a structure that is made up of entities. Lens entities represent different levels of planning for your company. You can build portfolio plans at one of these levels.
+Each lens in Strategic Planning consists of a structure that is made up of entities. Lens entities represent different levels of planning for your company. You can build portfolio plans at one of these levels.
 
 The planning item types associated with the bottom entity of a lens represent the type of work that can be planned using these portfolio plans.
 
 \[Omitted image "lens-structure-pp.png"\] Alt text: Lens structure
 
-For example, the Organization lens has a Company, Business Unit, and Department as its entities. As the head of the Support department, you can [[create-portfolio-plan-in-portfolio-planning-workspace|create a portfolio plan]] at the department level. Then, you can prioritize the work that is assigned to the department and plan a roadmap for the prioritized work. This work can be in the form of epics, projects, demands, or any other custom type.
+For example, the Organization lens has a Company, Business Unit, and Department as its entities. As the head of the Support department, you can create a portfolio plan at the department level. Then, you can prioritize the work that is assigned to the department and plan a roadmap for the prioritized work. This work can be in the form of epics, projects, demands, or any other custom type.
 
 Get started with one of the pre-defined lenses, or build a custom lens structure, with up to six levels, to suit your planning needs.
 
@@ -89,7 +89,7 @@ Product
 
 </td><td>
 
-Plan, fund, and [[prioritize-work-portfolio-planning-workspace|prioritize work]] from a product lens.
+Plan, fund, and prioritize work from a product lens.
 
 </td></tr><tr><td>
 
@@ -147,7 +147,7 @@ Goal
 
 </td><td>
 
--   Create, share, and [[collaborate-stakeholders-portfolio-plan-alignment-planner-workspace|collaborate on a portfolio plan]] for defined goals.
+-   Create, share, and collaborate on a portfolio plan for defined goals.
 -   Set targets for the goals to track their progress.
 -   Align, prioritize, and roadmap the work you must do to achieve them.
 
@@ -244,9 +244,3 @@ Plan, prioritize, and roadmap the work directly with planning items, without con
 
 **Parent Topic:**[Exploring Portfolio Planning in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]]
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]
-- [[collaborate-stakeholders-portfolio-plan-alignment-planner-workspace|Collaborate on a portfolio plan]]

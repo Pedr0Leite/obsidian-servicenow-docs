@@ -31,7 +31,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 There are two translation services available to translate user-generated content in Now Assist applications. For more information on the differences between the two, see [Multilingual service for Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/translation-for-now-assist.md). In that documentation, you can also find the steps for adding another language to your service if it is not preconfigured.
 
-After you have enabled either Dynamic Translation or native translation, translations will be available for in-product experiences, [[virtual-agent-landing-page|Virtual Agent]], and the Now Assist panel.
+After you have enabled either Dynamic Translation or native translation, translations will be available for in-product experiences, Virtual Agent, and the Now Assist panel.
 
 ## Procedure
 
@@ -64,6 +64,3 @@ Multilingual service is enabled for Now Assist applications.
 
 **Parent Topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

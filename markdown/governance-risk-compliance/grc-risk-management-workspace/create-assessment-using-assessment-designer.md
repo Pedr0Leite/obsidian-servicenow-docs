@@ -22,7 +22,7 @@ Role required: sn\_risk.asmt\_creator, sn\_risk.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[Administration|Administration]]** &gt; **Assessment Types**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Administration** &gt; **Assessment Types**.
 
 2.  Click **Risk Assessment Designer**.
 
@@ -135,12 +135,8 @@ Opens a fresh canvas for a new assessment.
 Opens a list of existing assessment that you can select and edit.
 
 </td></tr></tbody>
-</table>    Unlike other types of assessments, [[risk-assessments|risk assessments]] do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module, because hundreds of control attestations could be generated at once. Instead,risk assessments are shown as a list in the **Risk** &gt; **Risk Register** &gt; **My Assessments** and **Risk** &gt; **Risk Register** &gt; **All Assessments** module.
+</table>    Unlike other types of assessments, risk assessments do not appear in the **Self-Service** &gt; **My assessments &amp; surveys** module, because hundreds of control attestations could be generated at once. Instead,risk assessments are shown as a list in the **Risk** &gt; **Risk Register** &gt; **My Assessments** and **Risk** &gt; **Risk Register** &gt; **All Assessments** module.
 
 
 **Parent Topic:**[Assess risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/assess-risk-old-way.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]

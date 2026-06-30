@@ -22,20 +22,14 @@ Time sheet policies also provide an ability to specify appropriate approval work
 
 A time sheet policy can be [set as a default policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-default-time-sheet-policy.md). The default policy is a global time sheet policy which applies to all the users who are not assigned to any other time sheet policy. Only one time sheet policy can be set as a default policy.
 
-Navigate to **[[time-sheets|Time Sheets]]** &gt; **Administration** &gt; **Time Sheet Policies** to view the list of timesheet policies.
+Navigate to **Time Sheets** &gt; **Administration** &gt; **Time Sheet Policies** to view the list of timesheet policies.
 
 -   **[Create a time sheet policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/create-time-sheet-policy.md)**  
-As a time card administrator, you can [[create-time-sheet-policy|create a time sheet policy]] to define the requirements for time card users to record their [[c_TimeWorked|time worked]]. The time card approvers must review and process time sheets under the applicable time sheet policy.
+As a time card administrator, you can create a time sheet policy to define the requirements for time card users to record their time worked. The time card approvers must review and process time sheets under the applicable time sheet policy.
 -   **[Set a time sheet policy as default policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/set-default-time-sheet-policy.md)**  
 As a time card administrator, you can set a time sheet policy as the default policy. The default policy is a global time sheet policy which applies to all the users who are not assigned to any other time sheet policy.
 -   **[Assign a time sheet policy to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/assign-time-sheet-policy-to-user.md)**  
-As a time card administrator, you can [[assign-time-sheet-policy-to-user|assign a time sheet policy to a user]].
+As a time card administrator, you can assign a time sheet policy to a user.
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/time-card-management.md)
 
-## Related
-
-- [[time-sheets|Time Sheets]]
-- [[create-time-sheet-policy|Create a time sheet policy]]
-- [[c_TimeWorked|Time worked]]
-- [[assign-time-sheet-policy-to-user|Assign a time sheet policy to a user]]

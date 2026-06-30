@@ -26,7 +26,7 @@ If you have not done so already, create a delegation rule table. See [Add delega
 
 Administrators create delegation rules to allow the delegation of specific records. Access Control Rules \(ACLs\) determine if a delegate can access the records that match the delegation rules assigned to them. Creating delegation rules requires an administrator to be familiar with the data model of the delegated services.
 
-**Important:** [[granular-delegation|Granular delegation]] does not change a delegate's access to records. To access records, a delegate must already have the necessary roles. For example, to delegate task records, a delegate must have a role such as itil to access the Task table and its extensions.
+**Important:** Granular delegation does not change a delegate's access to records. To access records, a delegate must already have the necessary roles. For example, to delegate task records, a delegate must have a role such as itil to access the Task table and its extensions.
 
 ## Procedure
 
@@ -115,7 +115,7 @@ Option to delegate assignments.
 
     **Note:** If there are delegates using the rule, you cannot delete it and can only edit the **Name** and **Short description** fields.
 
-    The **My Delegates** widget on the [[employee-center-landing-page|Employee Center]] does not appear unless there is an active delegation rule.
+    The **My Delegates** widget on the Employee Center does not appear unless there is an active delegation rule.
 
 5.  Select the **Delegates** tab.
 
@@ -154,7 +154,3 @@ Delegate assigned tasks for a specific period of time. See [Create a delegate](h
 
 Employees can now delegate their assigned tasks to other employees. See [Delegate on-demand tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation/granular-delegation-use.md).
 
-## Related
-
-- [[granular-delegation|Granular Delegation]]
-- [[employee-center-landing-page|Employee Center]]

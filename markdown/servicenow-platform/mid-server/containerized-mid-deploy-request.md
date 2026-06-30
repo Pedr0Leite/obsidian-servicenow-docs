@@ -14,7 +14,7 @@ breadcrumb: [Containerized MID Server Deployment and Auto-configuration, Contain
 
 # MID Server Deployment Request
 
-After creating a [[mid-server-landing|MID server]] profile, the user can make a new deployment request to prepare the deployment process.​ A deployment request can be different for different container orchestrators.
+After creating a MID server profile, the user can make a new deployment request to prepare the deployment process.​ A deployment request can be different for different container orchestrators.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: agent\_admin
 
 The user can access MID Server deployment request from the app module **MID Deployment Requests**.​
 
-Currently, only K8s deployment is supported. The K8s deployment request includes a [[reference|reference]] to a MID Server profile, information about a MID Server docker image, K8s secrets, K8s deployment labels, and a list of MID Server names to assign to the new MID Servers.
+Currently, only K8s deployment is supported. The K8s deployment request includes a reference to a MID Server profile, information about a MID Server docker image, K8s secrets, K8s deployment labels, and a list of MID Server names to assign to the new MID Servers.
 
 ## Procedure
 
@@ -75,7 +75,7 @@ Currently, only K8s deployment is supported. The K8s deployment request includes
 
         Enter the absolute path of the MID Mutual Auth PEM file inside container.
 
-    -   **K8s Deployment [[label|Label]]**
+    -   **K8s Deployment Label**
 
         Enter a deployment label which is a list of key/value pairs. The label is attached to K8s deployment. A valid label must be 63 characters or less and can be empty. Unless the label is empty, it must begin and end with an alphanumeric character and contain only dashes, underscores, dots, and alphanumeric characters.
 
@@ -84,8 +84,3 @@ Currently, only K8s deployment is supported. The K8s deployment request includes
 
 When a request is ready, the user can choose **Export to YAML file** to generate a K8s deployment YAML file and attach it to the same record.​ Once a request is processed, the entire record is set to read-only. There is a scheduled job that removes deployment requests older than 365 days.
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[reference|Reference]]
-- [[label|Label]]

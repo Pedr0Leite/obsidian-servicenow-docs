@@ -15,7 +15,7 @@ breadcrumb: [Use, AI Risk and Compliance, Governance, Risk, and Compliance]
 
 # Create bulk risk assessment
 
-Create a bulk [[risk-assessment-project|risk assessment project]] to perform assessments on multiple risks and controls simultaneously using the [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]. You can define the project context, including the assessable entity, [[risk-assessment-methodology-prm|Risk assessment methodology \(RAM\)]], project name, description, and identify and add stakeholders.
+Create a bulk risk assessment project to perform assessments on multiple risks and controls simultaneously using the AI Risk and Compliance workspace. You can define the project context, including the assessable entity, Risk assessment methodology \(RAM\), project name, description, and identify and add stakeholders.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ To create bulk risk assessment, you must install the Advanced Risk application.
 4.  To create a bulk risk assessment, you can use one of the following two methods:\[Omitted image "create-bulk-risk-assessment.png"\] Alt text: Choices to create bulk risk assessment from the AI asset record.
 
     -   Select the **AI assessment** drop-down, and select **Bulk risk assessment**.
-    -   Navigate to **Assessments** &gt; **Bulk [[risk-assessments|risk assessments]]** and select **New**.
+    -   Navigate to **Assessments** &gt; **Bulk risk assessments** and select **New**.
 5.  On the Create bulk risk assessment dialog, fill in the fields.
 
 <table id="table_ttz_lgb_lhc"><thead><tr><th>
@@ -186,9 +186,3 @@ Watchlist users from the assessable entity stakeholders list. This field appears
 
 **Parent Topic:**[Using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/using-ai-risk-and-compliance.md)
 
-## Related
-
-- [[risk-assessment-project|risk assessment project]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[risk-assessments|risk assessments]]

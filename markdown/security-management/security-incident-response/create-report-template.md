@@ -14,7 +14,7 @@ breadcrumb: [Configure Major Security Incident status reports, Manage MSIM statu
 
 # Create a Report Template
 
-Create various report templates, which can be applied to the major security incidents and generate a status report. You can add standard and custom Major [[sir-landing-page|Security Incident Response]] form fields to the report template that are dot-walkable. In addition, you can format and configure the report based on your requirements using sections, subsections, and its elements.
+Create various report templates, which can be applied to the major security incidents and generate a status report. You can add standard and custom Major Security Incident Response form fields to the report template that are dot-walkable. In addition, you can format and configure the report based on your requirements using sections, subsections, and its elements.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can define report components to your report templates and provide additional
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **All** &gt; **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -108,7 +108,7 @@ The page size of your report template. For example, the default size is A4.
 
 </td><td>
 
-Select the check box for the MSI Manager to generate a report from the template that was created from the **Reports Template** section.**Note:** If the check box is cleared, then the MSI Manager can't [[create-report-sir|create a report]] for that specific report template type in the MSIM workspace.
+Select the check box for the MSI Manager to generate a report from the template that was created from the **Reports Template** section.**Note:** If the check box is cleared, then the MSI Manager can't create a report for that specific report template type in the MSIM workspace.
 
 </td></tr><tr><td id="d41737e194">
 
@@ -135,7 +135,7 @@ Use report lists to define and include the related list artifacts to generate li
 -   **[Use Template Scripts in your Report Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-template-scripts-in-your-report-templates.md)**  
 Create a script to include the related lists data, date operations, and any other data that aren’t directly dot-walkable.
 -   **[Preview the Report Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/preview-status-reports.md)**  
-Use the Preview functionality to preview your design-time report template to generate and share the report with other stakeholders during run time from the [[msim-workspace|Major Security Incident Management workspace]].
+Use the Preview functionality to preview your design-time report template to generate and share the report with other stakeholders during run time from the Major Security Incident Management workspace.
 
 **Parent Topic:**[Configure Major Security Incident status reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/manage-status-reports-for-major-security-incident-management.md)
 
@@ -152,9 +152,3 @@ Use the Preview functionality to preview your design-time report template to gen
 
 [Create and distribute MSIM Status Reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-and-distributing-major-security-incident-status-reports.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[create-report-sir|Create a report]]
-- [[msim-workspace|Major Security Incident Management workspace]]

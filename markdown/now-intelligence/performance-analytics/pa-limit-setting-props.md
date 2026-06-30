@@ -38,11 +38,11 @@ com.snc.pa.breakdown\_element\_cutoff
 
 </td><td>
 
-Maximum number of elements that a breakdown can have where the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] and [[kpi-details|KPI Details]] show its scoreless elements.
+Maximum number of elements that a breakdown can have where the Analytics Hub and KPI Details show its scoreless elements.
 
  An element is scoreless when it meets one of these conditions:
 
--   For [[real-time-scores|real-time scores]], the element has never had a score.
+-   For real-time scores, the element has never had a score.
 
 -   For a formula indicator, the element has never had a score in one or more of the [contributing indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/performance-analytics-glossary.md).
 
@@ -123,7 +123,7 @@ Maximum number of widget indicators, in addition to the main indicator that can 
 
 </td></tr><tr><td>
 
-com.snc.pa.[[widgets|widgets]].respect\_acl
+com.snc.pa.widgets.respect\_acl
 
 </td><td>
 
@@ -133,9 +133,3 @@ Restrict widget visibility following the ACLs of indicators and breakdowns. True
 </td></tr></tbody>
 </table>**Parent Topic:**[Performance Analytics properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/pa-properties.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[kpi-details|KPI Details]]
-- [[real-time-scores|Real-time scores]]
-- [[widgets|Widgets]]

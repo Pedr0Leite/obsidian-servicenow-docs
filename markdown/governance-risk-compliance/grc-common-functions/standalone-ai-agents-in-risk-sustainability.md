@@ -15,22 +15,18 @@ breadcrumb: [Use agentic AI, Now Assist, Common GRC features, Governance, Risk, 
 
 # Standalone AI Agents in Now Assist for Integrated Risk Management \(IRM\)
 
-Use AI agents in [[r_WhatIsGRC|Governance, Risk, and Compliance]] to complete IT-related tasks autonomously.
+Use AI agents in Governance, Risk, and Compliance to complete IT-related tasks autonomously.
 
 ## Standalone agents in Now Assist for Integrated Risk Management \(IRM\)
 
 The following AI agents are available in the Now Assist for IRM application:
 
--   [[issue-submission-ai-agent|Report a GRC issue AI agent]]
+-   Report a GRC issue AI agent
 
     For more information, see [Report a GRC issue](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/report-a-grc-issue.md).
 
--   [[control-objective-change-agent|Control Objective Change Agent]]
+-   Control Objective Change Agent
 
     For more information, see [Use Control Objective Change Agent to update control objectives](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/update-impacted-control-objectives-AI.md).
 
-## Related
 
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[issue-submission-ai-agent|Report a GRC issue AI agent]]
-- [[control-objective-change-agent|Control Objective Change Agent]]

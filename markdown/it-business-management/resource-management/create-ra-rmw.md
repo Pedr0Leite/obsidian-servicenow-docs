@@ -14,7 +14,7 @@ breadcrumb: [Using Resource Management Workspace, Use, Resource Management Works
 
 # Create resource assignments and operation resource assignments in Resource Management Workspace
 
-Create and assign resource assignments and operation resource assignments from [[rsrc-mgmt-wrkspc|Resource Management Workspace]].
+Create and assign resource assignments and operation resource assignments from Resource Management Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: resource\_user, resource\_manager, It\_project\_manager
 
 2.  Select the Resource cards icon \(\[Omitted image "rmw-resource-cards-L1-icon.png"\] Alt text: Resource cards icon.\) from the menu and open a resource card.
 
-3.  [[create-rsrc-asgnmnts-ppm|Create resource assignments]] using one of the following options.
+3.  Create resource assignments using one of the following options.
 
 <table id="choicetable_ibq_nxx_bcc"><thead><tr><th align="left" id="d229827e98">
 
@@ -43,7 +43,7 @@ Procedure
 </td><td>
 
 1.  Select **New** or select **New Resource Assignment** from the more actions list.
-2.  On the [[create-ra-form-rmw|New Resource Assignment form]], fill in the fields.
+2.  On the New Resource Assignment form, fill in the fields.
 
 For a description of the field names, see [New Resource Assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-form-rmw.md).
 
@@ -54,7 +54,7 @@ For a description of the field names, see [New Resource Assignment form](https:/
 </td><td>
 
 1.  Select **New operational Assignment** from the more actions list.
-2.  On the [[create-op-ra-form-rmw|New Operational Assignment form]], fill in the fields.
+2.  On the New Operational Assignment form, fill in the fields.
 
 For a description of the field names, see [New Operational Assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-op-ra-form-rmw.md).
 
@@ -70,9 +70,3 @@ If an assignment is made for a resource from the resource board and if it's with
 
 **Parent Topic:**[Using Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/using-rmw.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[create-ra-form-rmw|New Resource Assignment form]]
-- [[create-op-ra-form-rmw|New Operational Assignment form]]

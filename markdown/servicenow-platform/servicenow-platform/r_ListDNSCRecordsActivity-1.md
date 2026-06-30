@@ -12,9 +12,9 @@ reading_time_minutes: 1
 
 The List DNS C-records activity retrieves all canonical \(CNAME\) records from a specified Infoblox server.
 
-The DNS activities use the [REST web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a [[mid-server-landing|MID Server]] with REST capabilities.
+The DNS activities use the [REST web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) template to manage DNS records using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **DNS**.
 
 ## Input variables
 
@@ -67,7 +67,7 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 |reference|Reference value for a DNS CNAME record, such as: `record:cname/ZG5zLmJpbmRfY25hbWUkLl9kZWZhdWx0LmNvbS50ZXN0LmNuYW1l:cname.test.com/default`|
 |cannonicalName|CNAME record.|
 |name|Name of the network option returned, such as **domain-name-server**.|
-|view|The assigned view of the DNS data. A given zone can have multiple views, which are accessed depending on the [[ip-address|IP address]] of the source of the query. The **default** view of DNS data for this activity is the network view.|
+|view|The assigned view of the DNS data. A given zone can have multiple views, which are accessed depending on the IP address of the source of the query. The **default** view of DNS data for this activity is the network view.|
 
 ## Conditions
 
@@ -76,8 +76,3 @@ Name of the Infoblox network view. The default value is **default**. **Note:** I
 |Success|Activity successfully listed the DNS C records.|
 |Failure|Activity failed to list the DNS C records.|
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

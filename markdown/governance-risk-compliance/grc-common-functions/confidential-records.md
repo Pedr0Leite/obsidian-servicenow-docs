@@ -26,7 +26,7 @@ A new option **Enable record level confidentiality** is available under GRC prop
 
 The confidential records in GRC are listed under the GRC Confidential module. The GRC confidential records module is displayed in the application navigator only when you enable the **Enable record level confidentiality** property.
 
-Starting with San Diego, the GRC Confidential Records module is available for the [[c_GRCAudits|Audit Management]], GRC core, [[r_PolicyComplianceMgmt|Policy and Compliance Management]], and Risk Management applications.
+Starting with San Diego, the GRC Confidential Records module is available for the Audit Management, GRC core, Policy and Compliance Management, and Risk Management applications.
 
 ## Unmarking confidentiality on the record
 
@@ -111,7 +111,3 @@ You can set up confidentiality inheritance in the tables that are already config
 
 **Parent Topic:**[Common Governance, Risk, and Compliance features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

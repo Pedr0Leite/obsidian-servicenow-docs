@@ -19,7 +19,7 @@ Activate the mobile card generation skill to let Now Assist generate mobile comp
 
 Role required: admin
 
-Make sure that Now Assist for Creator and [[mab-concept|Mobile App Builder]] AI is enabled in the instance. For more information, see [Configuring Now Assist for Creator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/configuring-now-assist-for-creator.md).
+Make sure that Now Assist for Creator and Mobile App Builder AI is enabled in the instance. For more information, see [Configuring Now Assist for Creator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/configuring-now-assist-for-creator.md).
 
 ## Procedure
 
@@ -42,9 +42,5 @@ The **Use Now Assist** option is now available in the web to mobile conversion f
 
 ## What to do next
 
-Use the web to mobile conversion skill in Mobile App Builder to generate a native mobile component. For more information, see [[web-mobile-component-conversion|Web to mobile component conversion]].
+Use the web to mobile conversion skill in Mobile App Builder to generate a native mobile component. For more information, see [Web to mobile component conversion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/web-mobile-component-conversion.md).
 
-## Related
-
-- [[web-mobile-component-conversion|Web to mobile component conversion]]
-- [[mab-concept|Mobile App Builder]]

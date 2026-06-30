@@ -16,11 +16,11 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 Create a business hierarchy based on your organization's businesses. Allocate workplace locations based on the business to which they’re associated with. Configure workplace entity types and workplace entities to create the structure. For example, add entity types such as Business Units, Marketing Units, and associate workplace entities such as ITSM, Facilities, and more under them.
 
-The [[workplace-safety-mgmt-hr|Workplace Core]] applications enable you to classify your workplace locations based on their cost center, department, and workplace entity. The workplace entity-based allocation helps you in create an organized business structure where you can configure parent-child-based hierarchies and manage various workplace-related activities. You can create a structure exactly as your organization's business by configuring workplace entity types and workplace entities. You can associate locations based on the business to which they’re associated with.
+The Workplace Core applications enable you to classify your workplace locations based on their cost center, department, and workplace entity. The workplace entity-based allocation helps you in create an organized business structure where you can configure parent-child-based hierarchies and manage various workplace-related activities. You can create a structure exactly as your organization's business by configuring workplace entity types and workplace entities. You can associate locations based on the business to which they’re associated with.
 
-As a workplace manager, you can manage space allocations based on their entity levels that are set and verify proper space utilization according to business. You can visualize data on the stack plan and floor map based on the workplace entities that you’ve configured. You can view the space allocations of a building based on workplace entities. At any time, you can select a space and know its hierarchy level, that is, the details of its parent and child if present. This business-based hierarchy model, that is, workplace entity-based allocation, enables you to control the space consumption of each business in your organization. The [[space-optimization|Space Optimization]] dashboard also enables you to visualize data based on the different workplace entities configured. For more information about how workplace entities and other allocations work, refer to [Allocation - types, setting, and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/setting-an-allocation-and-its-impact.md).
+As a workplace manager, you can manage space allocations based on their entity levels that are set and verify proper space utilization according to business. You can visualize data on the stack plan and floor map based on the workplace entities that you’ve configured. You can view the space allocations of a building based on workplace entities. At any time, you can select a space and know its hierarchy level, that is, the details of its parent and child if present. This business-based hierarchy model, that is, workplace entity-based allocation, enables you to control the space consumption of each business in your organization. The Space Optimization dashboard also enables you to visualize data based on the different workplace entities configured. For more information about how workplace entities and other allocations work, refer to [Allocation - types, setting, and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/setting-an-allocation-and-its-impact.md).
 
-**Important:** You can’t [[create-multi-building-scenario|create a scenario]] based on workplace entities. You can only view and make [[map-based-space-administration|map based space administration]] for workplace entities.
+**Important:** You can’t create a scenario based on workplace entities. You can only view and make map based space administration for workplace entities.
 
 At any time, you can filter your workplace locations and perform various actions easily on these entities directly. The application enables you to specify an order to each entity type based on which a hierarchy is set. For a parent-child hierarchy, you can also perform direct actions on a parent if you want to implement the same throughout its child entities.
 
@@ -82,9 +82,3 @@ Create workplace entities based on your organization's business structure. Speci
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[space-optimization|Space Optimization]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[map-based-space-administration|Map based space administration]]

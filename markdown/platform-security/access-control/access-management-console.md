@@ -26,11 +26,7 @@ Learn the features and business value of Access management console.](https://raw
 
 [Use](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/use-access-management-console.md)\[Omitted image "bus-sdlc.svg"\] Alt text: Use
 
-Understand how to [[use-access-management-console|use Access management console]].
+Understand how to use Access management console.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[use-access-management-console|Use Access management console]]

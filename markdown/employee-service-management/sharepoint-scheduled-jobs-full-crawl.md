@@ -16,7 +16,7 @@ Create a scheduled job to fetch each entity such as sites, drives, file metadata
 
 You can change the frequency of the scheduled jobs. The list of the scheduled jobs is as follows:
 
--   [[sharepoint-search-overview|SharePoint Online Search Connector]]: Ingest Sites
+-   SharePoint Online Search Connector: Ingest Sites
 -   SharePoint Online Search Connector: Ingest Drives
 -   SharePoint Online Search Connector: Ingest Files
 -   SharePoint Online Search Connector: Index Content
@@ -30,6 +30,3 @@ You can change the frequency of the scheduled jobs. The list of the scheduled jo
 
 **Note:** The default frequency for the scheduled jobs is set to maximize the performance.
 
-## Related
-
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]

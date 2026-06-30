@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Risk Management, Health and Safety, Em
 
 # Configure a safety inspection or auditsurvey
 
-Review surveys available with the [[hs-risk-management-landing-page|Health and Safety Risk Management]] application. Modify the survey, or create one or more surveys to use for different workplaces or to check other areas of concern.
+Review surveys available with the Health and Safety Risk Management application. Modify the survey, or create one or more surveys to use for different workplaces or to check other areas of concern.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_hs\_rm.safety\_inspection\_manager, sn\_hs\_rm.safety\_audit\
 
 ## About this task
 
-You can convert your existing Survey templates related to [[health-safety-overview|Health and Safety]] into Smart Assessment templates using the Smart Assessment Engine migration tool. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-migrating.md).
+You can convert your existing Survey templates related to Health and Safety into Smart Assessment templates using the Smart Assessment Engine migration tool. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-migrating.md).
 
 ## Procedure
 
@@ -36,7 +36,7 @@ You can convert your existing Survey templates related to [[health-safety-overvi
     -   To create a survey, click **New** or **Survey Designer**.
     -   To modify a predefined one, filter the list to show the surveys for the Health and Safety Risk Management application and open the desired survey.
     -   For information on building and updating surveys, see [Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md).
-    -   **Tip:** When assigned to a user, any survey created via the ServiceNow® Assessments and Surveys is available under **My Assessments and Surveys** in the [[employee-center-landing-page|Employee Center]]. Therefore, it might be a good idea that your survey has the same name as your inspection or audit record. This helps identify the inspection or audit survey quickly in the list of other assessments and surveys the user has been assigned.
+    -   **Tip:** When assigned to a user, any survey created via the ServiceNow® Assessments and Surveys is available under **My Assessments and Surveys** in the Employee Center. Therefore, it might be a good idea that your survey has the same name as your inspection or audit record. This helps identify the inspection or audit survey quickly in the list of other assessments and surveys the user has been assigned.
 
 3.  In the **Source table** field, select the source table.
 
@@ -57,8 +57,3 @@ The survey is available for selection in the safety inspection or safety audit r
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]

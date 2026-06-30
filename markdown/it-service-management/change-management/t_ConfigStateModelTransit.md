@@ -14,7 +14,7 @@ breadcrumb: [Legacy: State model and transitions, Configure, Change Management, 
 
 # Legacy: Configure state model transitions
 
-You can use script includes or UI policies to configure state [[c_Models|models]] and the criteria for moving change requests from one state to another.
+You can use script includes or UI policies to configure state models and the criteria for moving change requests from one state to another.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ Role required: script\_include\_admin, ui\_policy\_admin, or admin
 
 **Parent Topic:**[Legacy: State model and transitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ChangeStateModel.md)
 
-## Related
-
-- [[c_Models|Models]]

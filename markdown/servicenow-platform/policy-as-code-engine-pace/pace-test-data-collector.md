@@ -38,8 +38,6 @@ Role required: sn\_pace.code\_editor
 
     The results will appear in the Output tab.
 
-7.  In the Publish draft window, select the **Activate this data collector** [[check-box|check box]], then **Publish**.
+7.  In the Publish draft window, select the **Activate this data collector** check box, then **Publish**.
 
-## Related
 
-- [[check-box|Check box]]

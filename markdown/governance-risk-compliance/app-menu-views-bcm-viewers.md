@@ -12,11 +12,11 @@ breadcrumb: [Setup by system administrators, Configure, Business Continuity Mana
 
 # Application menu options for BCM users
 
-The table lists the application menu options that are available for the main users of the [[business-continuity-mangmt-overview|business continuity management]] application to view and navigate.
+The table lists the application menu options that are available for the main users of the business continuity management application to view and navigate.
 
 ## BCM application menu options
 
-For detailed information on user roles, see [[installed-with-bcm|Roles installed]] table.
+For detailed information on user roles, see [Roles installed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/installed-with-bcm.md) table.
 
 <table id="table_tnn_nvs_kmb"><tbody><tr><td>
 
@@ -29,12 +29,12 @@ BCM Admin
 </td><td>
 
 As a BCM administrator, you can access all menu options from the Business Continuity menu:-   Business Continuity Workspace
--   [[bia-uib|Business Impact Analysis]]
+-   Business Impact Analysis
 -   Planning
 -   Crisis Management
 -   BIA Configuration
 -   Plan Configuration
--   General [[Administration|Administration]]
+-   General Administration
 
 </td></tr><tr><td>
 
@@ -79,12 +79,5 @@ BCM viewer
 To view the workspace: **Business Continuity** &gt; **Business Continuity Workspace**
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[set-up-bcm-sys-admin-tasks|Setup by system administrators]]
+</table>**Parent Topic:**[Setup by system administrators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-sys-admin-tasks.md)
 
-## Related
-
-- [[installed-with-bcm|Components installed with Business Continuity Management]]
-- [[set-up-bcm-sys-admin-tasks|Setup by system administrators]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]
-- [[Administration|Administration]]

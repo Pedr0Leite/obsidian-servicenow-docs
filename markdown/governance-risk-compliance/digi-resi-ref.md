@@ -18,19 +18,12 @@ Reference topics provide additional information about Digital resilience third-p
 
 The Type of ICT services field on contractual arrangement, supply chain, and assessment forms uses the regulator-defined code list \(eba\_TA\_S13 through eba\_TA\_S19\). The same code list is referenced from each form.
 
--   **[[properties-dora|Properties installed with Digital Operational Resilience Management]]**  
-When you install the Digital [[grc-opres-landing-page|Operational Resilience]] Management application, several system properties are added to your instance. You can access the properties by navigating to **All &gt; Digital Operational Resilience Management &gt; Properties** &gt; **.**
--   **[[roles-for-drtpr|Roles installed with Digital resilience third-party registers]]**  
+-   **[Properties installed with Digital Operational Resilience Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/properties-dora.md)**  
+When you install the Digital Operational Resilience Management application, several system properties are added to your instance. You can access the properties by navigating to **All &gt; Digital Operational Resilience Management &gt; Properties** &gt; **.**
+-   **[Roles installed with Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/roles-for-drtpr.md)**  
 Specific roles are installed with Digital resilience third-party registers.
--   **[[tables-for-drtpr|Tables installed with Digital resilience third-party registers]]**  
+-   **[Tables installed with Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/tables-for-drtpr.md)**  
 Specific tables are installed with Digital resilience third-party registers.
 
-**Parent Topic:**[[op-res-reference|Operational Resilience reference]]
+**Parent Topic:**[Operational Resilience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/op-res-reference.md)
 
-## Related
-
-- [[properties-dora|Properties installed with Digital Operational Resilience Management]]
-- [[roles-for-drtpr|Roles installed with Digital resilience third-party registers]]
-- [[tables-for-drtpr|Tables installed with Digital resilience third-party registers]]
-- [[op-res-reference|Operational Resilience reference]]
-- [[grc-opres-landing-page|Operational Resilience]]

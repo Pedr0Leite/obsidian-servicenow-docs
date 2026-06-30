@@ -50,21 +50,17 @@ Role required: manufacturing operations admin \(sn\_mfg\_cmn.manufacturing\_oper
     |--------|-----------|
     |**Claim in review**|The claim is successfully submitted for review.|
     |**Review and approve**|Review the claim and approve. Enter the amount that you want to approve.|
-    |**Claim summary**|View the summary of the [[mco-sales-promotion|sales promotion]] claims.|
+    |**Claim summary**|View the summary of the sales promotion claims.|
 
 
 ## Result
 
 Sales promotion claim case is created.
 
-**Parent Topic:**[[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
+**Parent Topic:**[Sales promotion claim management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-sls-pro-clm-mgmt.md)
 
 **Related topics**  
 
 
 [bundle-csm.filter-activity-stream-csm]
 
-## Related
-
-- [[mco-sls-pro-clm-mgmt|Sales promotion claim management]]
-- [[mco-sales-promotion|Sales promotion]]

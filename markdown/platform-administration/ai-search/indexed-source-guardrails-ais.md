@@ -18,7 +18,7 @@ Reduce index size and increase search performance with guardrails that limit the
 
 ## Guardrails overview
 
-The Task \[task\] and Alert \[em\_alert\] tables and their child tables contain large numbers of records. Indexing the full set of records from these tables for search increases the size of the [[ia-ai-search|AI Search]] index and can impact indexing and search performance.
+The Task \[task\] and Alert \[em\_alert\] tables and their child tables contain large numbers of records. Indexing the full set of records from these tables for search increases the size of the AI Search index and can impact indexing and search performance.
 
 To reduce index size and preserve search performance, AI Search applies guardrails when indexing records from these tables. These guardrails limit the maximum number of records that can be indexed from the Task and Alert tables.
 
@@ -44,6 +44,3 @@ A ServiceNow® employee can modify guardrail settings for your instance as follo
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

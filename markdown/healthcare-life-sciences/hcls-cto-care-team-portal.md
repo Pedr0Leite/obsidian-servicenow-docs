@@ -12,11 +12,11 @@ breadcrumb: [Explore, Care Team Portal, Healthcare Operations, Healthcare and Li
 
 # Care Team Portal
 
-Use the [[care-team-portal-landing|Care Team Portal]] to create requests for supporting service departments and maintain visibility into all requests created by you or your team.
+Use the Care Team Portal to create requests for supporting service departments and maintain visibility into all requests created by you or your team.
 
 Care team members often rely on multiple, disconnected systems to report issues, leading to delays, frustration, and a lack of visibility into request status. This disconnection results in duplicate work, unnecessary escalations, and time taken away from patient care.
 
-The Care Team Portal, part of [[hcls-cto-app|Healthcare Operations Core]], centralizes issue reporting and provides real-time visibility into request statuses, reducing frustration and ensuring efficient support.
+The Care Team Portal, part of Healthcare Operations Core, centralizes issue reporting and provides real-time visibility into request statuses, reducing frustration and ensuring efficient support.
 
 Pre-installed record producers for ancillary departments, depending on which additional plugins are installed, allow care teams to easily create and track support requests. This enhances productivity and allows teams to focus more on patient care.
 
@@ -24,16 +24,16 @@ The Care Team Portal provides a responsive portal experience that can be used by
 
 \[Omitted image "care-team-portal-overview.png"\] Alt text: Landing page for Care Team Portal.
 
-The Care Team Portal can also be embedded within Epic, with access to all features available in the browser experience. For instructions, see [[configure-care-team-portal|Embedding Care Team Portal in Epic Hyperspace via Hyperdrive]].
+The Care Team Portal can also be embedded within Epic, with access to all features available in the browser experience. For instructions, see [Embedding Care Team Portal in Epic Hyperspace via Hyperdrive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configure-care-team-portal.md).
 
 The following plugins provide preconfigured record producers for use with Care Team Portal:
 
--   [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
--   [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
--   [[cto-facilities-landing|Care Team Operations for Facilities]]
--   [[cto-evs-landing|Care Team Operations for Environmental Services]]
+-   Care Team Operations for Healthcare IT
+-   Care Team Operations for Biomed
+-   Care Team Operations for Facilities
+-   Care Team Operations for Environmental Services
 
-For information on the features available with the Care Team Portal, see [[hcls-cto-using-portal|Navigate the Care Team Portal]].
+For information on the features available with the Care Team Portal, see [Navigate the Care Team Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-using-portal.md).
 
 ## Accessing the Care Team Portal
 
@@ -55,13 +55,3 @@ To interact with Virtual Agent, simply select the chat window icon on the bottom
 
 For more information on Virtual Agent, see [Virtual Agent as an application design element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/virtual-agent.md).
 
-## Related
-
-- [[configure-care-team-portal|Embedding Care Team Portal in Epic Hyperspace via Hyperdrive]]
-- [[hcls-cto-using-portal|Navigate the Care Team Portal]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[cto-facilities-landing|Care Team Operations for Facilities]]
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

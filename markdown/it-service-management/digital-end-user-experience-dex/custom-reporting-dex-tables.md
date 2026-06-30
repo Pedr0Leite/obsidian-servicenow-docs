@@ -278,7 +278,7 @@ Up time, boot time, last reboot time, device age
 
 </td></tr><tr><td>
 
-[[remedial-action|Remedial Action]] Execution
+Remedial Action Execution
 
 </td><td>
 
@@ -310,7 +310,7 @@ sn\_pren\_experience\_issue
 
 </td><td>
 
-[[proactive-engagement-landing-page|Proactive Engagement]]
+Proactive Engagement
 
 </td><td>
 
@@ -318,7 +318,7 @@ Experience issue ID, issue registry numbers, state, reason for end state, fallba
 
 -   DEX Self-service for employees
 -   Employee self-service from Desktop Assistant
--   [[device-actions|Device actions]] from DEX Self-service
+-   Device actions from DEX Self-service
 -   Device actions from Desktop Assistant
 -   Self-service using Now Assist
 -   Proactive Engagement
@@ -362,7 +362,7 @@ DEX
 
 </td><td>
 
-A Windows user profile is the collection of [[settings-mobile|settings]], files, and configuration data that defines a user's environment.
+A Windows user profile is the collection of settings, files, and configuration data that defines a user's environment.
 
 </td></tr><tr><td>
 
@@ -407,9 +407,3 @@ Device metrics provide details on memory usage, virtual memory, and device stabi
 </td></tr></tbody>
 </table>**Parent Topic:**[Digital End-User Experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-reference.md)
 
-## Related
-
-- [[remedial-action|Remedial action]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[device-actions|Device actions]]
-- [[settings-mobile|Settings]]

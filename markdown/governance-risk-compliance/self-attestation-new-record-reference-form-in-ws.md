@@ -12,7 +12,7 @@ breadcrumb: [Perform the self-attestation assessment, Certifying services using 
 
 # Create New Self attestation form
 
-If you're the owner of the self-attestation, use the Create New Self attestation form in [[grc-opres-landing-page|Operational Resilience]] Workspace to submit the self-attestation for the services.
+If you're the owner of the self-attestation, use the Create New Self attestation form in Operational Resilience Workspace to submit the self-attestation for the services.
 
 ## Create New Self attestation form
 
@@ -184,12 +184,7 @@ Operational Resilience Attestation Template
 
 </td><td>
 
-Assessment questionnaire for the services. **Note:** If you're the owner of the attestation, you can view the assessment. You can fill in the responses to the questions and [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]] for the self-attestation.
+Assessment questionnaire for the services. **Note:** If you're the owner of the attestation, you can view the assessment. You can fill in the responses to the questions and submit the assessment for the self-attestation.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

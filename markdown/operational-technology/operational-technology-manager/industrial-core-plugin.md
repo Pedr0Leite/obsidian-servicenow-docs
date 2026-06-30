@@ -14,11 +14,11 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 # Industrial Core plugin
 
-The Industrial Core plugin contains the class mappings needed for the [[operational-technology-overview|Operational Technology]] \(OT\) certified Service Graph Connectors.
+The Industrial Core plugin contains the class mappings needed for the Operational Technology \(OT\) certified Service Graph Connectors.
 
 ## Industrial Core plugin overview
 
-The Industrial Core plugin \[sn\_ot\_core\] introduces foundational capabilities to support OT-specific data models and the site based licensing requirements for OT. The plugin is required as a dependency by all products in the Operational Technology Management solution. The dependency can be a direct dependency or a dependency through a base product. For example, the [[operational-technology-manager|Operational Technology Manager]] application is a dependency. For the [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] application, the Industrial Core plugin isn't added as a dependency because Operational Technology Manager is a direct dependency for Operational Technology Vulnerability Response.
+The Industrial Core plugin \[sn\_ot\_core\] introduces foundational capabilities to support OT-specific data models and the site based licensing requirements for OT. The plugin is required as a dependency by all products in the Operational Technology Management solution. The dependency can be a direct dependency or a dependency through a base product. For example, the Operational Technology Manager application is a dependency. For the Operational Technology Vulnerability Response application, the Industrial Core plugin isn't added as a dependency because Operational Technology Manager is a direct dependency for Operational Technology Vulnerability Response.
 
 **Note:** All partner applications integrating with the OT functionality must declare a dependency on the Industrial Core plugin. This ensures consistent handling of licensing and future model enhancements.
 
@@ -46,7 +46,7 @@ The Industrial Core plugin introduces a configuration template to manage class m
 
 With the OT Class Mapping template, you can also define an OT device naming strategy per class by using the **Allow Custom Device Naming** and **Device Naming Strategy** fields. For more information about how to implement the device naming strategy, see [Create and use an OT device naming strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/create-use-ot-device-naming-strategy.md).
 
-For more information about the OT Class Mapping Template and its available fields, see the **OT Class Mapping Template** section in [Operational Technology \(OT\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-operation-technology.md).For more information about reviewing class mappings for the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]], see [Review class mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/review-class-mappings-sgc-excel.md).
+For more information about the OT Class Mapping Template and its available fields, see the **OT Class Mapping Template** section in [Operational Technology \(OT\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-operation-technology.md).For more information about reviewing class mappings for the Service Graph Connector for Microsoft Excel, see [Review class mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/review-class-mappings-sgc-excel.md).
 
 </td></tr><tr><td>
 
@@ -137,9 +137,3 @@ Create and use the Operational Technology \(OT\) device naming strategy to creat
 
 **Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]

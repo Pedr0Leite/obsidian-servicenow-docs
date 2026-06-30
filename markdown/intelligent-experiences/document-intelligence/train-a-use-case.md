@@ -14,9 +14,9 @@ breadcrumb: [Set up document classification use cases, Configure, Document Intel
 
 # Train a use case
 
-Train the document classification use case with user input from completed document tasks to improve [[document-intelligence-landing|Document Intelligence]] recommendations over time.
+Train the document classification use case with user input from completed document tasks to improve Document Intelligence recommendations over time.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Train the document classification use case with user input from completed docume
 
 ## About this task
 
-Document classification use [[cases|cases]] don’t begin with pre-trained [[ai-models|AI models]], so it’s important to train the models with user input from completed document tasks.
+Document classification use cases don’t begin with pre-trained AI models, so it’s important to train the models with user input from completed document tasks.
 
 **Note:** To reduce server load and minimize performance issues, the default limit for training a use case is once every 30 days.
 
@@ -85,9 +85,4 @@ The following example shows how to train a document classification use case to p
 
     \[Omitted image "docintel-train-example-4.png"\] Alt text: Train Use Case button on the use case screen.
 
-## Related
 
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]
-- [[ai-models|AI models]]

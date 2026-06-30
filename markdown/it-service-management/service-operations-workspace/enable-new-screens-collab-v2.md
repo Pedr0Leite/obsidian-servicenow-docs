@@ -14,7 +14,7 @@ breadcrumb: [Enable collaboration services for configurable workspaces, Getting 
 
 # Migrate the collaborate and Microsoft Teams import screens to new Collaboration services screens
 
-Map the collaborate and MS Teams import screens to use the new [[collab-services-tcm|Collaboration services]] screens in Service Operations Workspace \(SOW\).
+Map the collaborate and MS Teams import screens to use the new Collaboration services screens in Service Operations Workspace \(SOW\).
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ Role required: admin
 
     3.  In the **UX Screens** tab, under **Active**, set the **Start MS Teams Chat** value as **false**.
 
-## Related
 
-- [[collab-services-tcm|Collaboration services]]

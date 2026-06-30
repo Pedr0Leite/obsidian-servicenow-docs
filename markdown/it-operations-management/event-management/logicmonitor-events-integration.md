@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Logicmonitor events
 
-Integrate Logicmonitor with [[c_EM|Event Management]] to send events into ServiceNow by adding a webhook using Basic Authentication, it will also be available with bi-directional functionality.
+Integrate Logicmonitor with Event Management to send events into ServiceNow by adding a webhook using Basic Authentication, it will also be available with bi-directional functionality.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Integrate Logicmonitor with [[c_EM|Event Management]] to send events into Servic
 
 Configure the Event Management environment for the collection of events from Logicmonitor. In your Logicmonitor console, set your ServiceNow AI Platform instance as the rest endpoint using a standard webhook.
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
@@ -77,7 +77,3 @@ Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rul
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

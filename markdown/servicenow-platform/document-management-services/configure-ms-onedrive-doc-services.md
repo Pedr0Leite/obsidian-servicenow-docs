@@ -14,12 +14,12 @@ breadcrumb: [Microsoft OneDrive integration with Document Services, Integrate wi
 
 # Setup Microsoft OneDrive for Document Services
 
-Integrate the ServiceNow instance and Microsoft OneDrive for [[document-services-landing-page|Document Services]] by creating a custom OAuth application in Document Services to authenticate ServiceNow requests.
+Integrate the ServiceNow instance and Microsoft OneDrive for Document Services by creating a custom OAuth application in Document Services to authenticate ServiceNow requests.
 
 ## Before you begin
 
 -   Request an Integration Hub subscription.
--   Set up and [[c_Connect|connect]] Microsoft Entra ID Spoke, see [Set up Microsoft Entra ID spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/set-up-azure.md) and [Microsoft OneDrive Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/onedrive-spoke.md).
+-   Set up and connect Microsoft Entra ID Spoke, see [Set up Microsoft Entra ID spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/set-up-azure.md) and [Microsoft OneDrive Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/onedrive-spoke.md).
 
 Microsoft OneDrive requirements:
 
@@ -100,7 +100,3 @@ Complete these steps from your [Azure](https://docs.microsoft.com/en-us/azure/) 
 
 **Parent Topic:**[Microsoft OneDrive integration with Document Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/one-drive-integration.md)
 
-## Related
-
-- [[document-services-landing-page|Document Services]]
-- [[c_Connect|Connect]]

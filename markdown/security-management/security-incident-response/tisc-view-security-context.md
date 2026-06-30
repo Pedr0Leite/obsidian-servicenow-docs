@@ -15,7 +15,7 @@ breadcrumb: [TISC integration within SIR Workspace, Working with Security Incide
 
 # Enable security incidents for vulnerabilities
 
-Access [[threat-intel-landing-page|threat intelligence]] context for security incidents directly within the [[sir-workspace-landing-page|Security Incident Response Workspace]]. TISC context helps you understand related threats and make informed decisions during incident response.
+Access threat intelligence context for security incidents directly within the Security Incident Response Workspace. TISC context helps you understand related threats and make informed decisions during incident response.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Roles required:
 
 ## About this task
 
-Security incidents enable tracking and management of remediation efforts for [[vulnerabilities|vulnerabilities]] in TISC, supporting prioritized response and maintaining auditability. For more information, see [Create Security Incident from a Vulnerability Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-security-incident.md).
+Security incidents enable tracking and management of remediation efforts for vulnerabilities in TISC, supporting prioritized response and maintaining auditability. For more information, see [Create Security Incident from a Vulnerability Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-security-incident.md).
 
 ## Procedure
 
@@ -42,11 +42,11 @@ Security incidents enable tracking and management of remediation efforts for [[v
 
     The **Vulnerabilities** entry point provides access to information about threat objects related to the selected vulnerability.
 
-6.  Select **View Related Info** to [[threat-intelligence-security-center-overview|explore]] associated vulnerability data.
+6.  Select **View Related Info** to explore associated vulnerability data.
 
-    This displays a list of related threat objects associated with the vulnerability, including [[threat-actors|threat actors]], [[attack-patterns|attack patterns]], [[threat-intelligence-campaigns|campaigns]], cases, vulnerability entries, and vulnerability assessments.
+    This displays a list of related threat objects associated with the vulnerability, including threat actors, attack patterns, campaigns, cases, vulnerability entries, and vulnerability assessments.
 
-7.  Select any object to view the corresponding record in the [[view-threat-intelligence-security-center-homepage|TISC workspace]].
+7.  Select any object to view the corresponding record in the TISC workspace.
 
 
 **Parent Topic:**[TISC integration within SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/tisc-sir-workspace.md)
@@ -60,13 +60,3 @@ Security incidents enable tracking and management of remediation efforts for [[v
 
 [Create Vulnerability Assessment from a Vulnerability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-vul-assess.md)
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[threat-actors|Threat actors]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[view-threat-intelligence-security-center-homepage|TISC Workspace]]

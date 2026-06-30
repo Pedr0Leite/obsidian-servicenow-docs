@@ -12,7 +12,7 @@ breadcrumb: [Survey URLs, Survey distribution, Survey administration, Use survey
 
 # Deactivate auto-notification for surveys
 
-Deactivate an auto-notification to avoid a problem that causes a second system-generated [[email|email]] notification being sent to a user.
+Deactivate an auto-notification to avoid a problem that causes a second system-generated email notification being sent to a user.
 
 ## Before you begin
 
@@ -30,10 +30,10 @@ Role required: admin or survey\_admin
 
     The **Send to event creator** option is selected by default.
 
-4.  Clear the **Send to event creator** [[check-box|check box]].
+4.  Clear the **Send to event creator** check box.
 
 
-**Parent Topic:**[[c_SurveyURLs|Survey URLs]]
+**Parent Topic:**[Survey URLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyURLs.md)
 
 **Related topics**  
 
@@ -44,8 +44,3 @@ Role required: admin or survey\_admin
 
 [Test a survey URL]()
 
-## Related
-
-- [[c_SurveyURLs|Survey URLs]]
-- [[email|Email]]
-- [[check-box|Check box]]

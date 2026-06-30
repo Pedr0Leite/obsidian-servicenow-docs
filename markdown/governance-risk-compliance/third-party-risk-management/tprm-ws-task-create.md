@@ -26,7 +26,7 @@ In an iterative process, before the TPR manager closes an assessment, the TPR ma
 
 ## Procedure
 
-1.  In the **Quick actions** box on the [[tprm-ws-home-page|TPRM home page]] \[Omitted image "icon-tprm-ws-home.png"\] Alt text:, select **Create task**.
+1.  In the **Quick actions** box on the TPRM home page \[Omitted image "icon-tprm-ws-home.png"\] Alt text:, select **Create task**.
 
 2.  Fill in the form and then select **Save**.
 
@@ -189,7 +189,3 @@ Dates that the task was saved and date of the latest change.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tprm-ws-home-page|TPRM Home page]]

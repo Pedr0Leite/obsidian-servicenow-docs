@@ -12,7 +12,7 @@ breadcrumb: [Configurable Portal widgets instance options, Configurable Portal W
 
 # Portal Object widget instance options form
 
-Instance options enable you to configure the [[portal-object-widget|Portal Object widget]] on a portal page.
+Instance options enable you to configure the Portal Object widget on a portal page.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -137,7 +137,7 @@ Enable Service Definitions
 
 </td><td>
 
-Option to display the service definitions associated with the record under **Actions**. For details, see [[csm-service-definitions|Service definitions]].
+Option to display the service definitions associated with the record under **Actions**. For details, see [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md).
 
 </td></tr><tr><td>
 
@@ -153,7 +153,3 @@ When enabled, users with edit permissions see **Edit details** button as one of 
 
 [Add and configure the Portal Object widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/add-conf-port-object-widget.md)
 
-## Related
-
-- [[csm-service-definitions|Service definitions]]
-- [[portal-object-widget|Portal Object widget]]

@@ -30,7 +30,7 @@ Role required: admin
 
 3.  Go to the script include: NonCataloglntakeService, function: createSourcingRequest.
 
-    This function creates and appends the information passed from the record producer to the [[sourcing-request|sourcing request]] record. Ensure that the sourcing request has the appropriate field in its table.
+    This function creates and appends the information passed from the record producer to the sourcing request record. Ensure that the sourcing request has the appropriate field in its table.
 
 4.  To save the information on the purchase request line, go to the script include: NonCataloglntakeService.
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md)
 
-## Related
-
-- [[sourcing-request|Sourcing request]]

@@ -18,9 +18,5 @@ The form is the user interface where agents do most of their work. Workspace for
 
 ## Form parameters
 
-Form mapping doesn't directly correspond between Workspace form components and Configurable Workspace form components. Workspace components are hard-coded with the form and incorporate everything on the form including the form header, [[migration-form-ui-actions|UI action bar]], [[csm-config-ws-activity-stream|Activity stream]], the sidebar, etc. In Configurable Workspace, these features are separate components.
+Form mapping doesn't directly correspond between Workspace form components and Configurable Workspace form components. Workspace components are hard-coded with the form and incorporate everything on the form including the form header, UI action bar, Activity stream, the sidebar, etc. In Configurable Workspace, these features are separate components.
 
-## Related
-
-- [[migration-form-ui-actions|UI Action Bar]]
-- [[csm-config-ws-activity-stream|Activity stream]]

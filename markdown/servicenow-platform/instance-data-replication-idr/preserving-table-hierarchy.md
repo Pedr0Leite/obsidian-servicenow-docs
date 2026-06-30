@@ -14,7 +14,7 @@ breadcrumb: [Configure, Instance Data Replication, Manage instance data sources,
 
 # Preserving table hierarchy in Instance Data Replication
 
-Decide if you want to replicate a parent-child table hierarchy and what strategy to use for replicating the data in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Decide if you want to replicate a parent-child table hierarchy and what strategy to use for replicating the data in Instance Data Replication \(IDR\).
 
 Before you create a replication set, determine if the table that you want to replicate is part of a parent-child table hierarchy. If it is, decide if you want to preserve the hierarchy and whether to replicate the data from the parent perspective \(retaining only columns belonging to the parent table\) or from the child perspective \(retaining all columns that belong to the child tables\). Review the following available strategies.
 
@@ -62,6 +62,3 @@ Before you create a replication set, determine if the table that you want to rep
 
 **Parent Topic:**[Configuring Instance Data Replication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instance-data-replication-idr/configuring-instance-data-replication.md)
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

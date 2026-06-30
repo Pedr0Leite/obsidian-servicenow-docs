@@ -12,7 +12,7 @@ breadcrumb: [Virtual Private Network \(VPN\)]
 
 # Activating a VPN service
 
-For all VPN requests, including provisioning, modifications, or general questions, use the Service Catalog VPN [[c_requestAPI|Request]] form.
+For all VPN requests, including provisioning, modifications, or general questions, use the Service Catalog VPN Request form.
 
 ## Before you begin
 
@@ -39,9 +39,5 @@ Role required: admin
 
 ## Result
 
-Once your request is submitted, ServiceNow will work with your network engineer\(s\) to [[naai-tutorial-test-validate|test and validate]] that the VPN is successfully passing traffic. To ensure that your questions are answered in a timely manner, please address VPN-related questions during this process.
+Once your request is submitted, ServiceNow will work with your network engineer\(s\) to test and validate that the VPN is successfully passing traffic. To ensure that your questions are answered in a timely manner, please address VPN-related questions during this process.
 
-## Related
-
-- [[c_requestAPI|request]]
-- [[naai-tutorial-test-validate|Test and validate]]

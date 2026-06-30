@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Activate role-based multi-factor authentication \[Updated in Security Center 1.3\]
 
-Use the **glide.authenticate.multifactor** property to enforce role-based [[mfa-landing|multi-factor authentication]] \(MFA\) for all [[users|users]] assigned to specific roles.
+Use the **glide.authenticate.multifactor** property to enforce role-based multi-factor authentication \(MFA\) for all users assigned to specific roles.
 
 Enforce multi-factor authentication based on the roles assigned to the user. If a user has been assigned "admin", "security\_admin" or "user\_admin" roles in the multi-factor roles list, MFA will be enforced.
 
@@ -41,7 +41,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[mfa-landing|Multi-factor authentication]]
-- [[users|Users]]

@@ -14,7 +14,7 @@ breadcrumb: [CI relationships in the CMDB, Configuration Management Database \(C
 
 # Suggested class relationships
 
-The system keeps a table \(Suggested Relationship \[cmdb\_rel\_type\_suggest\]\) of relationship types that are appropriate for a CI type, based on its class. You can manage suggested relationships by navigating to **Configuration** &gt; **Suggested Relationships**, or in the [[ci-class-manager-landing-page|CI Class Manager]].
+The system keeps a table \(Suggested Relationship \[cmdb\_rel\_type\_suggest\]\) of relationship types that are appropriate for a CI type, based on its class. You can manage suggested relationships by navigating to **Configuration** &gt; **Suggested Relationships**, or in the CI Class Manager.
 
 ## Suggestion model
 
@@ -32,7 +32,7 @@ ITOM Visibility, if available, uses enhanced discovery patterns to identify and 
 
 ## Suggested CI relationships in the relationship editor
 
-The [[c_RelationshipEditor|CI relationship editor]] uses the suggestion model to help users select reasonable relationships for configuration items.
+The CI relationship editor uses the suggestion model to help users select reasonable relationships for configuration items.
 
 For example, consider these relationship types in the system:
 
@@ -72,7 +72,3 @@ For descriptions of some key relationships, see [CI relationships in the CMDB](h
 
 [CI Class Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/t_AddANewSuggestedRelationship.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[c_RelationshipEditor|CI relationship editor]]

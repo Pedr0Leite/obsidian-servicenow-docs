@@ -26,7 +26,7 @@ While responding to an assessment, you can reassign the assessment to another us
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self Service** &gt; **[[employee-center|Employee Center]]** &gt; **My active items** &gt; **GRC tasks** &gt; **My to-dos**.
+1.  Navigate to **All** &gt; **Self Service** &gt; **Employee Center** &gt; **My active items** &gt; **GRC tasks** &gt; **My to-dos**.
 
 2.  Open the assessment assigned to you.
 
@@ -69,7 +69,7 @@ Action
 1.  Select **Reassign**.
 2.  In the Reassign privacy assessment dialogue box, select an assignee.
 
-**Note:** You can only reassign the assessment to a user who is a key stakeholder and should have the privilege to [[sae-asmnt-respond|respond to an assessment]].
+**Note:** You can only reassign the assessment to a user who is a key stakeholder and should have the privilege to respond to an assessment.
 
 3.  In the **Additional comments** field, provide the reason for reassignment.
 4.  Select **Reassign**.
@@ -83,7 +83,3 @@ The responses are captured in the respective entity and the processing activity.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[sae-asmnt-respond|Respond to an assessment]]

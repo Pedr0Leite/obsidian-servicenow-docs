@@ -14,7 +14,7 @@ breadcrumb: [Cart layout, Service Catalog customization, Types of catalog items,
 
 # Legacy flexible checkout and delivery forms
 
-ServiceNow includes several options that provide administrators some control over content in [[service-catalog|service catalog]] template-driven forms.
+ServiceNow includes several options that provide administrators some control over content in service catalog template-driven forms.
 
 Some service catalog forms, such as the checkout form, are generated from templates, instead of being data-driven like other forms in the system, such as the Incident form.
 
@@ -22,7 +22,7 @@ Template-driven forms provide enhanced look-and-feel over standard data-driven f
 
 **Note:**
 
-It is recommended that you use [[c_ConfigureCartLayout|cart layout]] records to configure cart layouts. Using cart layout records lets you configure the service catalog cart without writing and maintaining scripts.
+It is recommended that you use cart layout records to configure cart layouts. Using cart layout records lets you configure the service catalog cart without writing and maintaining scripts.
 
 -   **[Modifications in the delivery screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ModifyTheDeliveryScreen.md)**  
 In the final checkout step, a summary screen provides a list of all items and services ordered.
@@ -31,7 +31,3 @@ You can modify the checkout form to use an alternate description field or to add
 
 **Parent Topic:**[Cart layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_ConfigureCartLayout.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[c_ConfigureCartLayout|Cart layout]]

@@ -14,7 +14,7 @@ breadcrumb: [Install Microsoft Word add-in for ServiceNow Contracts, Configure, 
 
 # Configure the Microsoft Word add-in for ServiceNow Contracts
 
-As an admin, [[cncore-config-word-addin|configure the Microsoft Word add-in for ServiceNow Contracts]].
+As an admin, configure the Microsoft Word add-in for ServiceNow Contracts.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ The **ServiceNow Contracts** add-in is available in the Home ribbon.
 
 **Parent Topic:**[Install Microsoft Word add-in for ServiceNow Contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-install-word-addin.md)
 
-## Related
-
-- [[cncore-config-word-addin|Configure the Microsoft Word add-in for ServiceNow Contracts]]

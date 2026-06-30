@@ -12,7 +12,7 @@ breadcrumb: [Using Code Signing, Code Signing, Platform Security]
 
 # Sign the flows, subflows, and actions in the protected instance
 
-Use update sets to sign and validate the flows, subflows, and actions by enabling the [[code-signing-landing|Code Signing]] in protected and trusted instances.
+Use update sets to sign and validate the flows, subflows, and actions by enabling the Code Signing in protected and trusted instances.
 
 -   Establish Circle of Trust between the protected and trusted instances.
 -   Role required: security\_admin
@@ -38,10 +38,10 @@ Role required: sn\_kmf.cryptographic\_manager
         |Field|Description|
         |-----|-----------|
         |Name|Name to identify the record.|
-        |Type|Type of the [[encryption-landing|encryption]] job. Select **Mass Sign Records**.|
+        |Type|Type of the encryption job. Select **Mass Sign Records**.|
         |Table|Table from which the records should be signed. Select **Step Instance**.|
 
-    4.  Click **[[export|Export]] Code Signing job to production**.
+    4.  Click **Export Code Signing job to production**.
 
         Two locally signed update sets are created.
 
@@ -126,8 +126,4 @@ Role required: sn\_kmf.cryptographic\_manager
 
         The update set is committed successfully.
 
-## Related
 
-- [[code-signing-landing|Code Signing]]
-- [[encryption-landing|Encryption]]
-- [[export|Export]]

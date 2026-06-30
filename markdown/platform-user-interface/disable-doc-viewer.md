@@ -58,14 +58,10 @@ Description
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[Documentviewer|Document Viewer]]
+**Parent Topic:**[Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)
 
 **Related topics**  
 
 
-[[enable-document-viewer|Enable Document Viewer]]
+[Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-document-viewer.md)
 
-## Related
-
-- [[Documentviewer|Document Viewer]]
-- [[enable-document-viewer|Enable Document Viewer]]

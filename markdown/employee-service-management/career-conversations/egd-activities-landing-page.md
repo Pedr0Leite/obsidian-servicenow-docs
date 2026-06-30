@@ -18,7 +18,7 @@ Supports an end-to-end process for individuals and managers to create and manage
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text:Learn now [[egd-activities-conversations-module|Career Conversations]] help managers and employees have important conversations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-explore-activities.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text:Learn now Career Conversations help managers and employees have important conversations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-explore-activities.md)
 
 </td><td>
 
@@ -30,11 +30,11 @@ Supports an end-to-end process for individuals and managers to create and manage
 
 </td></tr><tr><td>
 
-[Use \[Omitted image "bus-meetings.svg"\] Alt text: From the [[employee-center-landing-page|Employee Center]] managers and employees use the Career Conversations app to have conversations about career growth and development.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
+[Use \[Omitted image "bus-meetings.svg"\] Alt text: From the Employee Center managers and employees use the Career Conversations app to have conversations about career growth and development.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-use.md)
 
 </td><td>
 
-[Reference \[Omitted image "bus-documentation.svg"\] Alt text:[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] information for Career Conversations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-reference.md)
+[Reference \[Omitted image "bus-documentation.svg"\] Alt text:Reference information for Career Conversations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-reference.md)
 
 </td><td>
 
@@ -49,8 +49,3 @@ Supports an end-to-end process for individuals and managers to create and manage
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

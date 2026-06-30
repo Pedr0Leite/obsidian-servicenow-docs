@@ -12,22 +12,14 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 # Customer Central
 
-Learn about how CSM Agent Workspace [[customer-central|Customer Central]] functions with [[csm-workspaces-configure|CSM Configurable Workspace]].
+Learn about how CSM Agent Workspace Customer Central functions with CSM Configurable Workspace.
 
-Customer Central displays all the touch [[gamification-components-points|points]] that a customer has had with a contact center in the form of information cards. CSM Agent Workspace Customer Central configurations function in CSM Configurable Workspace. Configuration changes at the sn\_customercentral\_cust\_info\_config and sys\_declarative\_action\_assignment and their related [[migration-lists|lists]], however, can be configured in CSM Configurable Workspace.
+Customer Central displays all the touch points that a customer has had with a contact center in the form of information cards. CSM Agent Workspace Customer Central configurations function in CSM Configurable Workspace. Configuration changes at the sn\_customercentral\_cust\_info\_config and sys\_declarative\_action\_assignment and their related lists, however, can be configured in CSM Configurable Workspace.
 
--   Set up the Customer Information view in CSM Configurable Workspace using [[cust-central-configure-info-tab|Guided Setup]].
--   Set up the Customer Information view in CSM Agent Workspace using [[configure-information-tab|Guided Setup]].
+-   Set up the Customer Information view in CSM Configurable Workspace using [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/cust-central-configure-info-tab.md).
+-   Set up the Customer Information view in CSM Agent Workspace using [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-information-tab.md).
 
 |Legacy table name|UIB table name|
 |-----------------|--------------|
 |sys\_declarative\_action\_assignment|sys\_ux\_screen|
 
-## Related
-
-- [[cust-central-configure-info-tab|Configure the Customer Information view using CSM Configurable Workspace]]
-- [[configure-information-tab|Configure the Customer Information view using CSM Agent Workspace]]
-- [[customer-central|Customer Central]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]
-- [[migration-lists|Lists]]

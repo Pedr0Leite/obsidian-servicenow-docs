@@ -25,7 +25,7 @@ The TISC add-on is installed and configured. See [Configure TISC add-on in Splun
 
 ## About this task
 
-Use this procedure when an input is not pulling [[c_Observables|observables]] from TISC as expected, when records appear stale or missing in the KV store, or to inspect the execution history of a configured input.
+Use this procedure when an input is not pulling observables from TISC as expected, when records appear stale or missing in the KV store, or to inspect the execution history of a configured input.
 
 ## Procedure
 
@@ -82,6 +82,3 @@ You have collected the diagnostic information needed to identify why an input fa
 
 [TISC add-on for Splunk overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-addon-splunk.md)
 
-## Related
-
-- [[c_Observables|Observables]]

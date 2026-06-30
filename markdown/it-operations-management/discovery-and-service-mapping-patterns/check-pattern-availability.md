@@ -14,7 +14,7 @@ breadcrumb: [Configuring Pattern Designer and related applications, Discovery pa
 
 # Check which plugin contains a required pattern
 
-Since ServiceNow releases [[r-discovery|discovery]] patterns using two different plugins, you may need to check which plugin to install or upgrade.
+Since ServiceNow releases discovery patterns using two different plugins, you may need to check which plugin to install or upgrade.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: service\_mapping\_admin
 
 ServiceNow releases all discovery patterns using the following applications:
 
--   **Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns \(sn\_itom\_pattern\)**
+-   **Discovery and Service Mapping Patterns \(sn\_itom\_pattern\)**
 
     This application provides the latest versions of discovery patterns the original version of which ServiceNow released on ServiceNow Store.
 
@@ -56,7 +56,3 @@ ServiceNow releases all discovery patterns using the following applications:
 
 **Parent Topic:**[Configuring Pattern Designer and related applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/configuring-pattern-designer-plugins.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

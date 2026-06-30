@@ -28,7 +28,7 @@ The visual tagging framework is a no-code, UI-based solution. It enables you to 
 
 1.  Navigate to the page in which you would like to track your click action.
 
-2.  In the [[user-exp-analytics-landing|Usage Insights]] page overlay panel, select **Instrumentation tab**&gt;**Start instrumentation**.\[Omitted image "usage-insights-event-tagging-instrumentation-tab.png"\] Alt text: select instrumentation tab
+2.  In the Usage Insights page overlay panel, select **Instrumentation tab**&gt;**Start instrumentation**.\[Omitted image "usage-insights-event-tagging-instrumentation-tab.png"\] Alt text: select instrumentation tab
 
     If your page overlay tab isn't already open, you can find it in the main toolbar.\[Omitted image "usage-insights-event-tagging-page-overlay.png"\] Alt text: Page overlay tab
 
@@ -64,6 +64,3 @@ The visual tagging framework is a no-code, UI-based solution. It enables you to 
 
 [Viewing events analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/view-events.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

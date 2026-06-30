@@ -14,7 +14,7 @@ breadcrumb: [Multi Provider Document Services Framework, Document Services, Mana
 
 # Integrate with Document Services
 
-Integrate Microsoft OneDrive, Microsoft SharePoint, and Google Drive with [[document-services-landing-page|Document Services]].
+Integrate Microsoft OneDrive, Microsoft SharePoint, and Google Drive with Document Services.
 
 ## Integration overview
 
@@ -26,6 +26,3 @@ Integrate Microsoft OneDrive, Microsoft SharePoint, and Google Drive with [[docu
     1.  [Document Services Framework for Google Drive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/google-drive-spoke-document-services.md)
     2.  [Set up Document Services framework for Google Drive](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/setup-gdrive-spoke-document-services.md)
 
-## Related
-
-- [[document-services-landing-page|Document Services]]

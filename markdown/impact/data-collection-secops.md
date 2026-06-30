@@ -16,18 +16,10 @@ Install and configure the Data Collection Content Pack for SecOps.
 
 Perform the steps in the following order:
 
-1.  [[dc-secops-install|Install the Data Collection Pack for SecOps]]
-2.  [[dc-secops-config|Configure Data Collection for SecOps]]
-3.  [[dc-secops-activate|Activate Data Collection for SecOps]]
-4.  [[dc-secops-install-artifacts|Review SecOps artifacts]]
+1.  [Install the Data Collection Pack for SecOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-secops-install.md)
+2.  [Configure Data Collection for SecOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-secops-config.md)
+3.  [Activate Data Collection for SecOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-secops-activate.md)
+4.  [Review SecOps artifacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-secops-install-artifacts.md)
 
-You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [[dc-all-modify|Modifying the Data Collection configuration]] and [[dc-all-upgrade|Upgrading the Data Collection Content Pack]].
+You can also modify the configuration at any point, and maintain customizations when you are ready to upgrade. For more information, see [Modifying the Data Collection configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-modify.md) and [Upgrading the Data Collection Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/dc-all-upgrade.md).
 
-## Related
-
-- [[dc-secops-install|Install the Data Collection Pack for SecOps]]
-- [[dc-secops-config|Configure Data Collection for SecOps]]
-- [[dc-secops-activate|Activate Data Collection for SecOps]]
-- [[dc-secops-install-artifacts|Review SecOps artifacts]]
-- [[dc-all-modify|Modifying the Data Collection configuration]]
-- [[dc-all-upgrade|Upgrading the Data Collection Content Pack]]

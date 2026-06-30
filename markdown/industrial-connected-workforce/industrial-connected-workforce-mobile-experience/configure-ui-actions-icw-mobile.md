@@ -28,11 +28,8 @@ Role required: sn\_icw.application\_admin
 
 3.  Select and hold \(or right-click\) the **Function** field and select **Group**.
 
-4.  Set the **Active** field to false for the buttons that you want to disable in the [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] mobile interface.
+4.  Set the **Active** field to false for the buttons that you want to disable in the Industrial Connected Workforce Mobile Experience mobile interface.
 
 
 **Parent Topic:**[Configure the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/configure-now-mobile-agent-application-icw-mobile.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

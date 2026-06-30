@@ -41,7 +41,7 @@ Role required: admin
     2.  Edit the right-hand side so that the script contains whichever content you want. To move a block of code from the left to right side, click the small arrows corresponding to that block in the middle column.
     3.  Click **OK**.
 
-        The system returns to the [[uc-resolve-conflicts-form|Resolve Conflicts form]].
+        The system returns to the Resolve Conflicts form.
 
 4.  To save your changes to the record, click **Save Merge**.
 
@@ -49,13 +49,9 @@ Role required: admin
 
 
 -   **[Upgrade details form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-details-form.md)**  
-From the [[uc-upgrade-details-form|Upgrade Details form]], you can review an individual record affected by the upgrade and reconcile conflicts between the upgrade and customizations.
+From the Upgrade Details form, you can review an individual record affected by the upgrade and reconcile conflicts between the upgrade and customizations.
 -   **[Resolve Conflicts form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-resolve-conflicts-form.md)**  
 The Resolve Conflicts form you compare to the base system version with the customized version of a record and reconcile the differences.
 
 **Parent Topic:**[Upgrade Monitor tool in Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-upgrade-monitor-tool.md)
 
-## Related
-
-- [[uc-resolve-conflicts-form|Resolve Conflicts form]]
-- [[uc-upgrade-details-form|Upgrade details form]]

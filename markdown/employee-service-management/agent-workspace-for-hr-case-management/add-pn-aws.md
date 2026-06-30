@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.case\_writer
 
 ## About this task
 
-Unlike working notes, which are accessible to all agents assigned to a case, personal notes provide a secure way to document sensitive information that shouldn't be shared with the broader team. For example, when managing [[hr-case-employee-relations|Employee Relations]] cases, agents can use personal notes to document confidential details.\[Omitted image "personal-notes-aws.png"\] Alt text: Personal notes
+Unlike working notes, which are accessible to all agents assigned to a case, personal notes provide a secure way to document sensitive information that shouldn't be shared with the broader team. For example, when managing Employee Relations cases, agents can use personal notes to document confidential details.\[Omitted image "personal-notes-aws.png"\] Alt text: Personal notes
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: HR Workspace Lists icon\).
 
@@ -40,8 +40,4 @@ Unlike working notes, which are accessible to all agents assigned to a case, per
 
 6.  Select **+Add file** to add an attachment.
 
-## Related
 
-- [[hr-case-employee-relations|Employee Relations]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

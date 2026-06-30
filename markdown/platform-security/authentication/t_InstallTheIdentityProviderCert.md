@@ -14,7 +14,7 @@ breadcrumb: [SAML, Multi-Provider single sign-on \(SSO\), Authentication, Access
 
 # Install the identity provider certificate
 
-You can paste a PEM certificate into a X.509 Certificate form so the identify provider can verify [[sc-communications|communications]] with the service provider.
+You can paste a PEM certificate into a X.509 Certificate form so the identify provider can verify communications with the service provider.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 The IdP's certificate is located within the IdP's metadata. The IdP developer determines where the certificate metadata resides when creating the local IdP.
 
-**Note:** [[c_Certificates|Certificates]] for single-sign on should always be in PEM format to work with [[c_SAML2.0WebBrowserSSOProfile|SAML]] certificates.
+**Note:** Certificates for single-sign on should always be in PEM format to work with SAML certificates.
 
 ## Procedure
 
@@ -41,7 +41,7 @@ The IdP's certificate is located within the IdP's metadata. The IdP developer de
     |Field|Description|
     |-----|-----------|
     |Name|The certificate name. Do not change the Name entry. The name of the X.509 certificate must be SAML 2.0 in order for the integration to use it. This requirement is only true if you are not using [Multi-Provider single sign-on \(SSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/c_MultipleProviderSingleSignOn.md).|
-    |Expiration notification|Select this option to send a notification to the [[users|users]] selected in the **Notify on expiration** field. By default, this is enabled.|
+    |Expiration notification|Select this option to send a notification to the users selected in the **Notify on expiration** field. By default, this is enabled.|
     |Notify on expiration|Select the users to revive the notification regarding certificate expiration. If no users are selected, the logged in user is added by default, along with the last two logged in users with the administrator role.|
     |Warn in days to expire|The number of days before expiration that the instance send the notification. Enter a value of at least 20. Instances upgraded to Istanbul and later releases have this value set to 20 unless a greater value is specified.|
     |Active|A check box to indicate that this certificate is active.|
@@ -60,9 +60,3 @@ The IdP's certificate is located within the IdP's metadata. The IdP developer de
 
 Click **Validate Stores/Certificates** to test the trust store and certificate.
 
-## Related
-
-- [[sc-communications|Communications]]
-- [[c_Certificates|Certificates]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[users|Users]]

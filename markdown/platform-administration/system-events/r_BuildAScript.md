@@ -44,20 +44,16 @@ The then part of each script, the gs.eventQueue function, adds the event to the 
 gs.eventQueue("incident.updated", current, gs.getUserID(), gs.getUserName());
 ```
 
-The gs.eventQueue function takes the following [[r_DirectJDBCProbeParameters|parameters]]:
+The gs.eventQueue function takes the following parameters:
 
 |Field|Input Value|
 |-----|-----------|
 |Name|The name of the event triggered, set in quotation marks.|
 |Record|The record referenced when the condition in the script evaluates to true. Usually this is expressed as current, meaning the current record the business rule is working on. If the business rule is being triggered as part of a scheduled job, use a GlideRecord argument in its place.|
-|Parm 1|An optional parameter you can use to pass system or record information with the event. For example, the GlideSystem API call gs.getUserID\(\) passes the Sys ID of the user who acted on the current record as a string value. Other scripts can [[reference-email-admin|reference]] this string value as parm1 using the format `${event.parm1}`.|
+|Parm 1|An optional parameter you can use to pass system or record information with the event. For example, the GlideSystem API call gs.getUserID\(\) passes the Sys ID of the user who acted on the current record as a string value. Other scripts can reference this string value as parm1 using the format `${event.parm1}`.|
 |Parm 2|An optional parameter you can use to pass system or record information with the event. For example, the GlideSystem API call gs.getUserName\(\) passes the user name of the user who acted on the current record. Other scripts can reference this string values as parm2 using the format `${event.parm2}`.|
 
 **Note:** The gs.EventQueue function works directly with the backend and therefore business rules that are called by gs.EventQueue\(\) are not invoked.
 
 **Parent Topic:**[System events reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-reference.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[reference-email-admin|Reference]]

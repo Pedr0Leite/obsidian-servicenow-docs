@@ -14,7 +14,7 @@ breadcrumb: [Manage resource assignments from Project Workspace, Use, Resource M
 
 # Create resource assignments using Project Workspace
 
-[[create-attribute-resource-assignment|Create an attribute-based resource assignment]] in the [[project-workspace-landing-page|Project Workspace]] application for any project or project task.
+Create an attribute-based resource assignment in the Project Workspace application for any project or project task.
 
 ## Before you begin
 
@@ -42,15 +42,15 @@ Role required: it\_project\_manager
 
     When you create a resource assignment, the user or group allocation is based on the selected effort type. For example, when you add a user and the effort type is selected as hours, the allocations are displayed in hours.
 
-    A resource assignment record is created and auto-saved. The [[pw-resource-assignment-form|resource assignment form]] auto-populates the project or task information.
+    A resource assignment record is created and auto-saved. The resource assignment form auto-populates the project or task information.
 
 6.  From the resource assignment pane, create a resource assignment for a project or task by selecting **New Resource**.
 
-    You can use this option to create a resource assignment using the [[rsrc-form|resource form]]. On the [[create-ra-form-rmw|New Resource Assignment form]], fill in the fields and select **Submit**. For a description of the field names, see [New Resource Assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-form-rmw.md).
+    You can use this option to create a resource assignment using the resource form. On the New Resource Assignment form, fill in the fields and select **Submit**. For a description of the field names, see [New Resource Assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-form-rmw.md).
 
 7.  Select the expense type of the assignment based on the work as **Opex** or **Capex**.
 
-    A resource can use this information while capturing efforts using the [[worker-portal|time sheet portal]]. Once the time sheet is approved, an expense line is created for the project capturing the expense as capex or opex, based on the selected expense type.
+    A resource can use this information while capturing efforts using the time sheet portal. Once the time sheet is approved, an expense line is created for the project capturing the expense as capex or opex, based on the selected expense type.
 
 
 ## What to do next
@@ -68,11 +68,3 @@ Role required: it\_project\_manager
 
 [Realign resource assignments with project dates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/realign-resource-assignment-to-task.md)
 
-## Related
-
-- [[create-attribute-resource-assignment|Create an attribute-based resource assignment]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[pw-resource-assignment-form|Resource assignment form]]
-- [[rsrc-form|Resource form]]
-- [[create-ra-form-rmw|New Resource Assignment form]]
-- [[worker-portal|Time Sheet Portal]]

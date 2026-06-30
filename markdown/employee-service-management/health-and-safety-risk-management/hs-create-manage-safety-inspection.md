@@ -14,7 +14,7 @@ breadcrumb: [Safety inspections and audits, Use, Health and Safety Risk Manageme
 
 # Create and manage a safety inspection
 
-Create a safety inspection to manage your workplace inspection of a particular [[activity-lxp|activity]], process, or an area. Review the questionnaire responses and add findings, root cause analyses \(RCA\), and actions for the inspection.
+Create a safety inspection to manage your workplace inspection of a particular activity, process, or an area. Review the questionnaire responses and add findings, root cause analyses \(RCA\), and actions for the inspection.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace**.
 
 2.  Select the risk management icon \(\[Omitted image "icon-risk-assessment.png"\] Alt text: Risk assessment icon\).
 
@@ -48,7 +48,7 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
     -   The associated smart assessment or inspection survey is assigned for completion.
     -   The assigned user receives a notification to complete the smart assessment or survey. If the inspection format is digital, the notification includes a direct link to access the assessment or survey.
         -   A smart assessment can be completed from the mobile app. For more information, see [Complete a smart assessment from mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-create-smart-assessment-inspection-audit-mobile-agent.md).
-        -   A survey can be completed either in the [[employee-center-landing-page|Employee Center]] or the mobile app. For more information, see [Complete an inspection survey from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-complete-safety-insp-survey.md).
+        -   A survey can be completed either in the Employee Center or the mobile app. For more information, see [Complete an inspection survey from the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-complete-safety-insp-survey.md).
 7.  Review the smart assessment or inspection survey responses that are submitted by the assigned user.
 
     When completed, the assessment results for this inspection are available in the following tabs:
@@ -83,8 +83,3 @@ You can also set up an inspection schedule to schedule recurring safety inspecti
 
 **Parent Topic:**[Safety inspections and audits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-inspections.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[employee-center-landing-page|Employee Center]]

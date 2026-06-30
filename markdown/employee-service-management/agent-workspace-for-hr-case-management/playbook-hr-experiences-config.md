@@ -20,7 +20,7 @@ Use Playbook Experiences to modify the default playbook experience configuration
 
 Role required: sn\_hr\_ws.admin
 
-**Note:** To make changes, clone the [[playbook-hr-experience|HR Playbook Experience]] record first.
+**Note:** To make changes, clone the HR Playbook Experience record first.
 
 ## Procedure
 
@@ -32,13 +32,10 @@ Role required: sn\_hr\_ws.admin
 
     For information on the form fields, see Update playbook experience configurations.
 
-4.  Select the **Playbook [[activity-lxp|Activity]] Overrides** tab and an activity override.
+4.  Select the **Playbook Activity Overrides** tab and an activity override.
 
     For information on the form fields, see Set up playbook activity overrides.
 
 5.  After editing or creating, click **Update** or **Submit**.
 
-## Related
 
-- [[playbook-hr-experience|HR Playbook Experience]]
-- [[activity-lxp|Activity]]

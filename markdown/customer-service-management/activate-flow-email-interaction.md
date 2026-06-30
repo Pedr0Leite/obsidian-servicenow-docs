@@ -13,7 +13,7 @@ breadcrumb: [Configure flows for incoming emails, Email Interaction, Email chann
 
 # Activate a flow for Email Interaction for CSM
 
-Activate flows for customers who have the [[email-as-an-interaction|Email Interaction]] for CSM application configured, enabling efficient workflow automation.
+Activate flows for customers who have the Email Interaction for CSM application configured, enabling efficient workflow automation.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ For new CSM customers, the inbound actions are activated by default. Existing CS
 
 All the available flows are activated.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

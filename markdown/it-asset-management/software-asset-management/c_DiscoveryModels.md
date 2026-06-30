@@ -14,7 +14,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 # Discovery models and software installations
 
-[[sam-software-discovery|Software discovery]] [[c_Models|models]] are automatically created during discovery to identify and normalize the software installed in your environment.
+Software discovery models are automatically created during discovery to identify and normalize the software installed in your environment.
 
 Software discovery models are stored in the Software Discovery Model \[cmdb\_sam\_sw\_discovery\_model\] table. The normalization process is automatically run when a new discovery model is created. Discovery models are not created for software installations that have a name containing `Security Update`.
 
@@ -51,7 +51,7 @@ Under specific conditions, certain fields that are typically read-only can be ed
 
 You can revert a normalization if needed.
 
-When you revert a normalization, discovery models that have a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized** revert to the status of **Match Not Found**. All normalized fields are also reset to their original unnormalized values. You can then normalize your discovery models manually or wait for the next normalization to run automatically. If you are normalizing your discovery models manually, the [[c_SoftwareAssetMgmt|Software Asset Management]] application creates normalization suggestions based on the latest normalization rules from the Content Service team. You can choose to accept or reject these suggestions. If you wait for normalization to run automatically, discovery models are normalized using the latest normalization rules from the Content Service team. The discovery models are then set to a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized**, and the normalized field values are set.
+When you revert a normalization, discovery models that have a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized** revert to the status of **Match Not Found**. All normalized fields are also reset to their original unnormalized values. You can then normalize your discovery models manually or wait for the next normalization to run automatically. If you are normalizing your discovery models manually, the Software Asset Management application creates normalization suggestions based on the latest normalization rules from the Content Service team. You can choose to accept or reject these suggestions. If you wait for normalization to run automatically, discovery models are normalized using the latest normalization rules from the Content Service team. The discovery models are then set to a status of **Normalized**, **Partially Normalized**, or **Publisher Normalized**, and the normalized field values are set.
 
 ## Software Installations
 
@@ -63,8 +63,3 @@ Discovery automatically matches the discovered software installation with a new 
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

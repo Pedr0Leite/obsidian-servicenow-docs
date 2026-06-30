@@ -14,7 +14,7 @@ breadcrumb: [Integrate, Journey designer, Employee Journey Management, HR Servic
 
 # Integrating HR Service Delivery Virtual Agent Conversations app with Journey designer
 
-Install the [[hr-service-delivery|HR Service Delivery]] Virtual Agent Conversations app to enable [[jny-dsgnr-landing-page-1|Journey designer]] to send actionable notifications as nudges to employees and managers on configured communications channels.
+Install the HR Service Delivery Virtual Agent Conversations app to enable Journey designer to send actionable notifications as nudges to employees and managers on configured communications channels.
 
 The HR Service Delivery Virtual Agent Conversations app displays action buttons to enable interactions and complete the actions. Using HR Service Delivery Virtual Agent Conversations app aids faster approvals and task completion by engaging employees and managers on the channels that they are at.
 
@@ -26,13 +26,13 @@ Install the latest version of [HR Service Delivery Virtual Agent Conversations \
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-Integrating the [[exploring-learning-exp|Learning]] Posts app with Journey designer enables you to manage recommended learning for journeys from inside Journey designer.
+Integrating the Learning Posts app with Journey designer enables you to manage recommended learning for journeys from inside Journey designer.
 
 ## Predefined Virtual Agent notifications for HR Service Delivery
 
 The HR Service Delivery Virtual Agent Conversations app provides predefined notifications to help your employees, mentors, and managers receive information about the common tasks in HR Service Delivery.
 
-Notifications are sent to employees, managers, and mentors that are associated with a journey. The following HR Service Delivery [[va-notification-ta|Virtual Agent notifications]] are available:
+Notifications are sent to employees, managers, and mentors that are associated with a journey. The following HR Service Delivery Virtual Agent notifications are available:
 
 -   New Journey created – Notify Employee
 -   New Journey created – Notify Manager
@@ -62,7 +62,7 @@ As and admin, go to **Conversational Interfaces** &gt; **Virtual Agent** &gt; **
 
 There are four action topics linked to Journey designer provided in the base system of the application.
 
--   \_add\_comment\_to\_ja\_task - Add a comment. These comments are alsi displayed in the journey task [[activity-lxp|activity]].
+-   \_add\_comment\_to\_ja\_task - Add a comment. These comments are alsi displayed in the journey task activity.
 -   \_add\_mentor\_to\_journey - Add a mentor. You can select a mentor from the list provided by the Virtual agent or search a person by typing the name.
 -   \_approve\_le\_approval\_activity - Approve the request assigned as a part of the journey.
 -   \_reject\_le\_approval\_activity - Reject the request assigned as a part of the journey.
@@ -71,10 +71,3 @@ You can also associate other actions with the notifications. For more informatio
 
 **Parent Topic:**[Integrations for Journey designer app]()
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[exploring-learning-exp|Learning]]
-- [[va-notification-ta|Virtual Agent notifications]]
-- [[activity-lxp|Activity]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Center for mobile, Now Mobile experience for E
 
 # Workday approvals in Now Mobile
 
-Access your Workday approvals in the [[mobile-employee-experience|Now Mobile app]], with [[employee-center-landing-page|Employee Center]].
+Access your Workday approvals in the Now Mobile app, with Employee Center.
 
 Receive all your Workday approval tasks under the **My Tasks** section with Employee Center on Now Mobile. Select an approval task to:
 
@@ -47,7 +47,3 @@ Configure the approve and reject buttons for all the Workday approval task types
 
 **Parent Topic:**[Configuring Employee Center for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-mobile-configrations.md)
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]

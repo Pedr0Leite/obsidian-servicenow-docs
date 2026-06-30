@@ -24,9 +24,9 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
-2.  Click **[[virtual-agent-landing-page|Virtual Agent]]**.
+2.  Click **Virtual Agent**.
 
 3.  Under Natural Language Understanding \(NLU\), click **View settings**.
 
@@ -45,7 +45,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Localizing Virtual Agent conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/localize-va-topic.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -20,7 +20,7 @@ After Portal or Rich content is published, you must checkout the content to modi
 
 Role required: sn\_cd.content\_manager
 
-**Note:** [[ec-content-versioning|Content versioning]] must be enabled in **Content Publishing** &gt; **Advanced** &gt; **Properties**. For more information, see [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md)
+**Note:** Content versioning must be enabled in **Content Publishing** &gt; **Advanced** &gt; **Properties**. For more information, see [Properties installed with Content Publishing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/properties-with-content-delivery.md)
 
 ## About this task
 
@@ -50,7 +50,7 @@ For more information on content versioning, see [Content versioning](https://raw
 
     3.  Click **Preview on portal**.
 
-        The [[employee-center-landing-page|Employee Center]] opens in a new tab, displaying the updated content as it would appear once published.
+        The Employee Center opens in a new tab, displaying the updated content as it would appear once published.
 
 7.  When you are ready to publish your updates, click **Save and publish**.
 
@@ -63,7 +63,3 @@ For more information on content versioning, see [Content versioning](https://raw
 
 After publishing the updated content, you can create additional publish plans: [Create a publish plan for your content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-publish2.md)
 
-## Related
-
-- [[ec-content-versioning|Content versioning]]
-- [[employee-center-landing-page|Employee Center]]

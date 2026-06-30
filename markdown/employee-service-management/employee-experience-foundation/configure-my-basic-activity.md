@@ -22,7 +22,7 @@ Role required: admin, sp\_admin, or ESC admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[activity-lxp|Activity]] Configuration**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Activity Configuration**.
 
 2.  Click **New**.
 
@@ -39,10 +39,5 @@ If you click **Save**, the **Activity Configuration Details** tab appears. Provi
 
 Provide details for a advanced activity configuration. For more information, see [Perform an advanced activity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-my-activity.md).
 
-If you click **Save**, the **Activity Configuration Details** and **Activity Access** tabs appear.[[grant-restrict-activity-access|Restrict access to an activity]]. For more information, see [Restrict access to an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/grant-restrict-activity-access.md).
+If you click **Save**, the **Activity Configuration Details** and **Activity Access** tabs appear.Restrict access to an activity. For more information, see [Restrict access to an activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/grant-restrict-activity-access.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[grant-restrict-activity-access|Restrict access to an activity]]

@@ -31,28 +31,22 @@ Role required: none
 
 3.  To see products scoped to a specific configuration and its children only, navigate to that configuration in the sidebar and review the tier-level product list, if one has been added by the admin.
 
-    For steps on navigating between configurations, see [[navigate-solution|Navigate within a solution]].
+    For steps on navigating between configurations, see [Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md).
 
 
 ## What to do next
 
 After reviewing the solution BOM:
 
--   To remove a child configuration whose products are no longer needed, see [[remove-child-configuration|Remove a configurable product from a solution]].
+-   To remove a child configuration whose products are no longer needed, see [Remove a configurable product from a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/remove-child-configuration.md).
 -   To continue configuring individual components, return to the navigation sidebar. See [Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md).
 
-**Parent Topic:**[[cpq-using|Using CPQ]]
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
 **Related topics**  
 
 
 [Navigate within a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/navigate-solution.md)
 
-[[bill-of-materials-in-solution-configuration|Bill of Materials in solution configuration]]
+[Bill of Materials in solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/bill-of-materials-in-solution-configuration.md)
 
-## Related
-
-- [[navigate-solution|Navigate within a solution]]
-- [[remove-child-configuration|Remove a configurable product from a solution]]
-- [[cpq-using|Using CPQ]]
-- [[bill-of-materials-in-solution-configuration|Bill of Materials in solution configuration]]

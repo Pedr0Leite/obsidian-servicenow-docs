@@ -126,7 +126,7 @@ Displays the percentage as well as the number of users with different levels of 
 </td></tr></tbody>
 </table>## Reports
 
-**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with [[exploring-learning-exp|Learning]] application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/activate-wfo-hr.md).
+**Important:** The Pending Users and Assigned Tasks reports display when you enable the Coaching with Learning application from the ServiceNow® Store. To enable this application, see [Activate Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/activate-wfo-hr.md).
 
 |Title|Type|Source table|Description|
 |-----|----|------------|-----------|
@@ -137,6 +137,3 @@ Displays the percentage as well as the number of users with different levels of 
 
 **Parent Topic:**[Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/using-coaching-wfo-hr.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, Digital Portfolio Management, IT Service Management]
 
 # Digital Portfolio Management related applications and data sources
 
-[[dpm-landing|Digital Portfolio Management]] \(DPM\) enables you to use related [[dex-workspace-application-tab|applications]] to view and edit service details in the plan-build-run life cycle. All related applications are optional, so they aren't required to use the DPM experience.
+Digital Portfolio Management \(DPM\) enables you to use related applications to view and edit service details in the plan-build-run life cycle. All related applications are optional, so they aren't required to use the DPM experience.
 
 ## Data Sources
 
@@ -34,7 +34,7 @@ To view details on the Digital Portfolio Management data sources including data 
 
 Since the Utah release, you can install the enterprise portfolio plugin \[enterprise portfolio\] that’s available as part of the core ServiceNow AI Platform. Installing the plugin installs two new roles:
 
--   The enterprise portfolio admin \[sn\_ep.enterprise\_portfolio\_admin\] can create, read, update, and delete \(CRUD\) [[dpm-enterprise-portfolios|enterprise portfolios]].
+-   The enterprise portfolio admin \[sn\_ep.enterprise\_portfolio\_admin\] can create, read, update, and delete \(CRUD\) enterprise portfolios.
 -   The enterprise portfolio viewer \[sn\_ep.enterprise\_portfolio\_viewer\] can read enterprise portfolios.
 
     Installing the enterprise portfolio plugin results in the following:
@@ -77,7 +77,7 @@ DPM Manager \[sn\_dpm.dpm\_manager\]
 
 </td><td>
 
--   Use the contextual side panel to navigate to portfolios and [[dpm-list-modules-concept|list modules]] in DPM.
+-   Use the contextual side panel to navigate to portfolios and list modules in DPM.
 -   See items that need attention based on criticality.
 
 </td></tr><tr><td>
@@ -92,7 +92,7 @@ To see roadmap data:
 
  To see improvement initiatives:
 
- Install the plugin for ServiceNow® [[cim-landing-page|Continual Improvement Management]] com.sn\_cim
+ Install the plugin for ServiceNow® Continual Improvement Management com.sn\_cim
 
  To see demand data:
 
@@ -134,7 +134,7 @@ To see roadmap data:
 
  To see changes:
 
- No required install. Change data is standard with [[r_ITServiceManagement|IT Service Management]] \(ITSM\).
+ No required install. Change data is standard with IT Service Management \(ITSM\).
 
  To see improvement initiatives:
 
@@ -251,7 +251,7 @@ To see audits, install the plugin for Audit Management \(sn\_audit\)
  To see technical risks, install the plugin for Technology Portfolio Management: sn\_apm\_tpm. This plugin has two dependency plugins:
 
 -   Application Portfolio Management \(com.snc.apm\)
--   Software [[c_AssetManagement|Asset Management]] \(com.snc.sams\)
+-   Software Asset Management \(com.snc.sams\)
 
 </td><td>
 
@@ -384,7 +384,7 @@ View the Performance snapshot, which includes the following metrics:
  View deployments data:
 
 -   Deployments breakdown
--   Deployment hardware and [[c_CreatingSoftwareModels|software models]] \(technology data\)
+-   Deployment hardware and software models \(technology data\)
 
  **Note:** Technology Portfolio Management data comes from APM.
 
@@ -512,7 +512,7 @@ View the following information:
  View technology risk
 
 -   Software models by:
--   Hardware [[c_Models|models]]
+-   Hardware models
 -   Drilling down in each model to see the related records
 
 </td></tr><tr><td>
@@ -552,14 +552,3 @@ Strategic Planning \(formerly known as Alignment Planner Workspace\) is a pro ve
 
 **Parent Topic:**[Digital Portfolio Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-reference-cfw.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]
-- [[dpm-list-modules-concept|List modules]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]

@@ -26,7 +26,7 @@ You can create pre-provisioning tasks only for catalog items that are based on t
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Cloud Catalog Items**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Cloud Catalog Items**.
 
 2.  Open a catalog item, click the **Pre Provisioning Operation** tab, click **New**, and then fill in the form.
 
@@ -98,6 +98,4 @@ Option for enabling the pre-provision operation you want invoked.
 
     All the configurations you made to the attributes are saved and you are returned to the Cloud Catalog Items screen.
 
-## Related
 
-- [[cloud-admin-portal|Cloud Admin Portal]]

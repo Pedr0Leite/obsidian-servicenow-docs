@@ -12,7 +12,7 @@ breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Co
 
 # Task Plan Templates tables
 
-The [[task-plan-templates|Task Plan Templates]] application includes tables that store task plan template, template item, and template item condition records.
+The Task Plan Templates application includes tables that store task plan template, template item, and template item condition records.
 
 The Task Plan Templates application includes the following tables.
 
@@ -58,15 +58,9 @@ Stores template item condition records.You can add conditions to a template item
 </table>**Related topics**  
 
 
-[[task-plan-template-form|Task Plan Template form]]
+[Task Plan Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-template-form.md)
 
-[[task-plan-template-item-form|Template item form]]
+[Template item form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-template-item-form.md)
 
-[[task-plan-template-item-condition-form|Template item condition form]]
+[Template item condition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/task-plan-template-item-condition-form.md)
 
-## Related
-
-- [[task-plan-template-form|Task Plan Template form]]
-- [[task-plan-template-item-form|Template item form]]
-- [[task-plan-template-item-condition-form|Template item condition form]]
-- [[task-plan-templates|Task Plan Templates]]

@@ -12,28 +12,28 @@ breadcrumb: [Vaccination Status, Safe Workplace, Health and Safety, Employee Ser
 
 # Confirm a vaccine exemption request for a user
 
-As a Vaccination Status adminor manager, use the [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]] to approve or deny a user's vaccine exemption request.
+As a Vaccination Status adminor manager, use the Employee Readiness Core Approval Portal to approve or deny a user's vaccine exemption request.
 
 ## Before you begin
 
-Your organization must install both [[health-safety-testing|Health and Safety Testing]] and Vaccination Status to use the Approval Portal.
+Your organization must install both Health and Safety Testing and Vaccination Status to use the Approval Portal.
 
 -   For more information on installing Health and Safety Testing, see [Install Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/install-health-testing.md).
--   For more information on installing Vaccination Status, see [[install-vaccination-status|Install Vaccination Status]].
+-   For more information on installing Vaccination Status, see [Install Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/install-vaccination-status.md).
 
 Activate the **sn\_imt\_vaccine.allow\_managers\_ability\_to\_update\_vaccine\_exemption\_records** property to enable all managers to approve or deny vaccine exemption requests for their direct reports. This property assigns the sn\_imt\_core.approval\_portal\_manager role to managers and grants access to the Approval Portal for vaccine exemption requests.
 
-Your organization must enable vaccine exemptions. Exemptions do not affect a user's **Covid 19 Vaccine Complete** status in their vaccine profile. For more information, see [[config-vaccination-properties|Set up Vaccination Status properties]].
+Your organization must enable vaccine exemptions. Exemptions do not affect a user's **Covid 19 Vaccine Complete** status in their vaccine profile. For more information, see [Set up Vaccination Status properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/config-vaccination-properties.md).
 
 Role required: sn\_imt\_vaccine.admin, sn\_imt\_core.approval\_portal\_manager, or sn\_imt\_core.health\_and\_safety\_approver
 
 ## About this task
 
-Managers can only approve or deny the vaccine exemption requests of their direct reports. Vaccine admins and [[health-safety-overview|health and safety]] approvers can approve or deny the requests of all users.
+Managers can only approve or deny the vaccine exemption requests of their direct reports. Vaccine admins and health and safety approvers can approve or deny the requests of all users.
 
 ## Procedure
 
-1.  Navigate to **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Approval Portal**.
+1.  Navigate to **Employee Health and Safety Status** &gt; **Approval Portal**.
 
     The default view displays all health test, vaccine dose, and exemption request records that require review.
 
@@ -121,14 +121,5 @@ A log of work notes included for tracking purposes.
 
 The record is moved to the **Approved** or **Denied** tab based on your decision.The user's vaccine profile is updated to show who approved the vaccination exemption \(if approved\) and when it expires \(if applicable\).
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[install-vaccination-status|Install Vaccination Status]]
-- [[config-vaccination-properties|Set up Vaccination Status properties]]
-- [[vaccination-status|Vaccination Status]]
-- [[employee-readiness-core-approval-portal|Employee Readiness Core Approval Portal]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-health-safety-status|Employee Health and Safety Status]]

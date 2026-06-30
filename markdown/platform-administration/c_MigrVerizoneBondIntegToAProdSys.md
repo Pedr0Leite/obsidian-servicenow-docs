@@ -40,8 +40,5 @@ Perform these tasks in order.
     **Warning:** Do not create test tickets against the production system without working with the Verizon team. Any tickets created are treated as real tickets.
 
 
-**Parent Topic:**[[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]
+**Parent Topic:**[ServiceNow provided integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ServiceNowProvidedintegrations.md)
 
-## Related
-
-- [[r_ServiceNowProvidedintegrations|ServiceNow provided integrations]]

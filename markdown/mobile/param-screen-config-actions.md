@@ -16,19 +16,19 @@ Configure the actions that you want to appear on an Input field to trigger a UI 
 
 ## Before you begin
 
-You must create an [[parameter-input-screen|input form screen]] before you can create actions. For information about creating an input form screen, see [[parameter-screen-config|Configure an input form screen]].
+You must create an input form screen before you can create actions. For information about creating an input form screen, see [Configure an input form screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-config.md).
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **Screens** category and then select the input form screen for which you want to configure variables.
 
@@ -142,7 +142,7 @@ Action attributes
 
 </td><td>
 
-Determine where or how the action handles the generated data.**Note:** The only action attribute available when `Input source` is selected in the **Input type** field, is *UserActionID*. For a list of the attributes when the **Input type** is `Input action`, see [[input-actions-configure|.]]
+Determine where or how the action handles the generated data.**Note:** The only action attribute available when `Input source` is selected in the **Input type** field, is *UserActionID*. For a list of the attributes when the **Input type** is `Input action`, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/input-actions-configure.md)
 
 **UserActionID**: A unique value that identifies this action record. It is needed to associate the action with a UI rule.
 
@@ -152,13 +152,5 @@ Determine where or how the action handles the generated data.**Note:** The only 
 
 ## What to do next
 
-Associate the **UserActionID** for this action to a UI rule. For more information, see [[create-mobile-ui-rule|Create a mobile UI rule]].
+Associate the **UserActionID** for this action to a UI rule. For more information, see [Create a mobile UI rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mobile-ui-rule.md).
 
-## Related
-
-- [[parameter-screen-config|Configure an input form screen]]
-- [[input-actions-configure|Configure input form actions in an input form screen]]
-- [[create-mobile-ui-rule|Create a mobile UI rule]]
-- [[parameter-input-screen|Input form screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

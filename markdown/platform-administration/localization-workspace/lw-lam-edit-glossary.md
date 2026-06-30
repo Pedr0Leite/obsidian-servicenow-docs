@@ -14,7 +14,7 @@ breadcrumb: [Language Asset Management, Configuring Localization Workspace, Loca
 
 # Edit a glossary in Language Asset Management
 
-Edit the contents of your glossary in [[lw-language-asset-management|Language Asset Management]]. Modify existing terms and translations or add more terms.
+Edit the contents of your glossary in Language Asset Management. Modify existing terms and translations or add more terms.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Initially you create a glossary in Language Asset Management by uploading a spre
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-workspace|Localization Workspace]]** &gt; **Language Asset Management.**.
+1.  Navigate to **All** &gt; **Localization Workspace** &gt; **Language Asset Management.**.
 
 2.  On the Glossaries tab, select your glossary from the values in the **Glossary Name** column.
 
@@ -137,7 +137,3 @@ You can also delete a translation from a source term using Delete from More Opti
 
 **Parent Topic:**[Language Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/lw-language-asset-management.md)
 
-## Related
-
-- [[lw-language-asset-management|Language Asset Management]]
-- [[localization-workspace|Localization Workspace]]

@@ -26,15 +26,15 @@ Role required: sales\_agent
 
     -   On the **Leads- All** page, select **Create task**.
     -   Open the lead record, select the **Tasks** tab and select **New** to start a new lead task or select an existing lead task to make changes.
-    To [[create-new-lead|Create a lead]], select **New**.
+    To [Create a lead](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-new-lead.md), select **New**.
 
     **Note:**
 
     Immediately after you create the lead, a message confirms that the lead was created. To continue working on the lead, select the link in the message.
 
-3.  On the Create New Lead Task form, fill in the [[fields|fields]].
+3.  On the Create New Lead Task form, fill in the fields.
 
-    For a description of the field values, see [[create-lead-task-form|Create new lead task form]].
+    For a description of the field values, see [Create new lead task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-lead-task-form.md).
 
 4.  Select **Create Task**.
 
@@ -43,27 +43,17 @@ Role required: sales\_agent
 
 ## What to do next
 
-You can create appointments in your lead tasks. To learn more, see [[opportunity-management-create-an-appoinment|Create an appointment from Opportunity Management]].
+You can create appointments in your lead tasks. To learn more, see [Create an appointment from Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-create-an-appoinment.md).
 
--   **[[lead-management-create-appointment|Create appointments for lead tasks]]**  
+-   **[Create appointments for lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-create-appointment.md)**  
 Create appointments with your stakeholders to conduct business discussions for your lead.
 
-**Parent Topic:**[[lead-management-using|Using Lead Management]]
+**Parent Topic:**[Using Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-using.md)
 
 **Related topics**  
 
 
-[[configure-lead-management|Install and configure Lead Management]]
+[Install and configure Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-lead-management.md)
 
-[[lead-management|Lead Management]]
+[Lead Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management.md)
 
-## Related
-
-- [[create-new-lead|Create a lead]]
-- [[create-lead-task-form|Create new lead task form]]
-- [[opportunity-management-create-an-appoinment|Create an appointment from Opportunity Management]]
-- [[lead-management-create-appointment|Create appointments for lead tasks]]
-- [[lead-management-using|Using Lead Management]]
-- [[configure-lead-management|Install and configure Lead Management]]
-- [[lead-management|Lead Management]]
-- [[fields|Fields]]

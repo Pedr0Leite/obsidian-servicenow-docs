@@ -14,14 +14,10 @@ breadcrumb: [Resolving Qualys Vulnerability Integration issues, Qualys, Integrat
 
 # Data retrieval limitations
 
-By default, there are no restrictions on how data is retrieved from Qualys. Many records can be related to low severity [[vulnerabilities|vulnerabilities]] that a customer is not willing to remediate using their [[vuln-landing-page|vulnerability response]] process. Updating the corresponding REST message/method parameters can modify this behavior.
+By default, there are no restrictions on how data is retrieved from Qualys. Many records can be related to low severity vulnerabilities that a customer is not willing to remediate using their vulnerability response process. Updating the corresponding REST message/method parameters can modify this behavior.
 
 The REST message/method responsible for this update is **Qualys Host Detection – Standard/post**. To update the values, add a new HTTP Query Parameter to the post method with the following values:
 
 -   Name: severities
 -   Value: 3-5 \(or whatever appropriate severities are desired\)
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]

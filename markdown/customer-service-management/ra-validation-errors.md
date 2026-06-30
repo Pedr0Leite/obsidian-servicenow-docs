@@ -94,7 +94,7 @@ Type of answer in Question \{number\} doesn't exist
 
 </td><td>
 
-The answer type that you entered in the **Type of answer** field isn’t valid. Select the answer type from the list. For more information, see [[type-of-answer|Answer types for questions]].
+The answer type that you entered in the **Type of answer** field isn’t valid. Select the answer type from the list. For more information, see [Answer types for questions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/type-of-answer.md).
 
 </td></tr><tr><td>
 
@@ -196,7 +196,7 @@ This node needs a guidance
 Guidance nodes must be linked to a guidance. Either select an existing guidance or create one.
 
  -   Select an available guidance from the list in the **Guidance** field.
--   Create a guidance in Core UI by selecting the Create a guidance icon \[Omitted image "icon-add-path.png"\] Alt text: Create a guidance icon in the **Guidance** field. For more information, see [[create-guidances|Create a guidance in the Core UI]].
+-   Create a guidance in Core UI by selecting the Create a guidance icon \[Omitted image "icon-add-path.png"\] Alt text: Create a guidance icon in the **Guidance** field. For more information, see [Create a guidance in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-guidances.md).
 
 </td></tr><tr><td>
 
@@ -204,7 +204,7 @@ You need to set inputs for this guidance
 
 </td><td>
 
-Configure the guidance inputs for the guidance that you selected. For more information, see [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]].
+Configure the guidance inputs for the guidance that you selected. For more information, see [Provide actions to agents in a decision tree](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-guidance-in-gdb.md).
 
 </td></tr><tr><td>
 
@@ -263,7 +263,7 @@ This node needs a child tree
 Linking nodes must be linked to a child tree. Either select an activated decision tree or create one.
 
  -   Select an activated decision tree from the list in the **Child decision tree** field.
--   Create a decision tree in Core UI by selecting the Create a decision tree icon \[Omitted image "icon-add-path.png"\] Alt text: Create a decision tree icon in the **Child decision tree** field. For more information, see [[configure-decision-trees-gdb|Create a decision tree in Core UI]].
+-   Create a decision tree in Core UI by selecting the Create a decision tree icon \[Omitted image "icon-add-path.png"\] Alt text: Create a decision tree icon in the **Child decision tree** field. For more information, see [Create a decision tree in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-decision-trees-gdb.md).
 
 </td></tr><tr><td>
 
@@ -312,7 +312,7 @@ Make sure these linked decision trees can still use \{child decision tree\}:
 
 </td><td>
 
-When you update and [[activate-guided-decision-tree|activate a decision tree]], the parent decision trees that use this decision tree as a child tree must also be updated.1.  Select the parent decision tree.
+When you update and activate a decision tree, the parent decision trees that use this decision tree as a child tree must also be updated.1.  Select the parent decision tree.
 2.  Select the link node that references the child decision tree that has changed.
 3.  Unlink the input by deleting the link.
 4.  If necessary, select the Link input icon \(\[Omitted image "icon-link-input.png"\] Alt text: Link input icon\) to link the input from the prior node or enter a static value.
@@ -386,11 +386,3 @@ Configure questions and answer types in the path's parent node.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[type-of-answer|Answer types for questions]]
-- [[create-guidances|Create a guidance in the Core UI]]
-- [[configure-guidance-in-gdb|Provide actions to agents in a decision tree]]
-- [[configure-decision-trees-gdb|Create a decision tree in Core UI]]
-- [[activate-guided-decision-tree|Activate a decision tree]]

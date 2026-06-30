@@ -20,7 +20,7 @@ Role required: snc\_external
 
 ## Procedure
 
-1.  In the Customer Service Portal header, click **My [[migration-lists|Lists]]**.
+1.  In the Customer Service Portal header, click **My Lists**.
 
 2.  In the My Lists filter, click **My Cases**.
 
@@ -28,6 +28,4 @@ Role required: snc\_external
 
 4.  View the record status after the record number in the Related Records widget.
 
-## Related
 
-- [[migration-lists|Lists]]

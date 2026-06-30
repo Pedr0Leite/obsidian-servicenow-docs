@@ -23,8 +23,5 @@ ServiceNow mobile apps communicate with a third party software for app crash rep
     Uses Crashlytics for crash reporting.
 
 
-**Parent Topic:**[[sg-mobile-security-practices|Mobile security practices]]
+**Parent Topic:**[Mobile security practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-practices.md)
 
-## Related
-
-- [[sg-mobile-security-practices|Mobile security practices]]

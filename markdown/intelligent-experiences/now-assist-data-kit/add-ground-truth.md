@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Data Kit, Now Assist Data Kit, Enable AI experienc
 
 # Add a ground truth to each dataset record
 
-Add a ground truth to each record in a dataset. A ground truth is an expected correct output for a given record. During evaluation in [[now-assist-skill-kit-landing|Now Assist Skill Kit]], your custom skill's actual output is compared against the ground truth to measure accuracy and identify areas for improvement.
+Add a ground truth to each record in a dataset. A ground truth is an expected correct output for a given record. During evaluation in Now Assist Skill Kit, your custom skill's actual output is compared against the ground truth to measure accuracy and identify areas for improvement.
 
 ## About this task
 
@@ -37,7 +37,7 @@ The **Create ground truth guidelines** button is controlled by a system property
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-data-kit-landing|Now Assist Data Kit]]** &gt; **Home**, and open an existing data set in the **[[ai-datasets|Datasets]]** tab.
+1.  Navigate to **All** &gt; **Now Assist Data Kit** &gt; **Home**, and open an existing data set in the **Datasets** tab.
 
 2.  Select the **Create ground truth guidelines** button.
 
@@ -145,8 +145,4 @@ The name of the column that is added for the ground truth in the dataset.
 
     The data collection is published and available in ServiceNow SDK for evaluation.
 
-## Related
 
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[ai-datasets|Datasets]]

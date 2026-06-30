@@ -23,9 +23,9 @@ Role required: maint or hermes\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Settings**.
 
-    The [[c-hermes-settings|Hermes Settings page]] is displayed.
+    The Hermes Settings page is displayed.
 
 2.  Locate the category for the property that you plan to modify, such as **Kafka Integration** or **Topic Management**.
 
@@ -46,7 +46,3 @@ Role required: maint or hermes\_admin
 
 **Parent Topic:**[Managing Hermes settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/manage-hermes-settings.md)
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c-hermes-settings|Hermes Settings page]]

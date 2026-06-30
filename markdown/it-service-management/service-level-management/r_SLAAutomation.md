@@ -18,7 +18,7 @@ SLAs are calculated and assessed by a business rule and scheduled jobs that run 
 
 The mechanisms that control SLA Workflow and SLA Automation are independent of each other. You may have a requirement to send out email notifications from the SLA Workflow displaying the current elapsed percentage of the SLA. However, this does not work because using percentage in a notification only displays the most recently calculated value of the Task SLA. This results in inaccurate values sent out in email when using SLA calculated values in a Task SLA email notification.
 
-One solution is to specify elapsed percentage in [[c_SLANotifications|SLA notifications]] by using notifications for each percentage level. For example, an email notification for "75 percent SLA Warning" is created and a special event is used to trigger that notification. The event can be called "sla.warning.75". Another solution is hard-coding these email notifications to trigger at a specified duration percentage, and configure the workflow linked to that SLA definition to send an email notification after waiting an elapsed percentage.
+One solution is to specify elapsed percentage in SLA notifications by using notifications for each percentage level. For example, an email notification for "75 percent SLA Warning" is created and a special event is used to trigger that notification. The event can be called "sla.warning.75". Another solution is hard-coding these email notifications to trigger at a specified duration percentage, and configure the workflow linked to that SLA definition to send an email notification after waiting an elapsed percentage.
 
 -   **[Run the 2011 SLA engine asynchronously](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_RunSLABusinessRule.md)**  
 By default in the 2011 SLA engine, the SLA processing is performed by the **Run SLAs** business rule. This business rule runs synchronously and is the suggested configuration.
@@ -29,6 +29,3 @@ When business percentages are used for SLA calculations, they are rounded up to 
 
 **Parent Topic:**[Using Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/using-service-level-management.md)
 
-## Related
-
-- [[c_SLANotifications|SLA notifications]]

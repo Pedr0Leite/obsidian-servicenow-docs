@@ -34,7 +34,7 @@ The change request execution process includes the task stages that you need to c
 
 -   **Create a logical connection**
 
-    Add similar sets of site selection fields for the physical and [[design-logical-connection-design-assign-playbook|logical connections]] between your start \(A\) and end \(Z\) locations. You can only select those interfaces that are associated with the designated equipment model for the A- and Z-end interfaces. To learn more, see [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md) .
+    Add similar sets of site selection fields for the physical and logical connections between your start \(A\) and end \(Z\) locations. You can only select those interfaces that are associated with the designated equipment model for the A- and Z-end interfaces. To learn more, see [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md) .
 
 -   **Create a physical connection**
 
@@ -49,7 +49,7 @@ The change request execution process includes the task stages that you need to c
     Select a network site and equipment model for your equipment instantiation. The instantiation process is when you generate and validate the equipment records at the site level. To learn more, see [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md) and [Change request and change task forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/change_request_forms.md).
 
 
-After you complete this sequence, you can complete the [[telecommunications-circuit-design-resource-assignment|design and assign]] procedure for the GPON broadband services.
+After you complete this sequence, you can complete the design and assign procedure for the GPON broadband services.
 
 To execute this process successfully, you need to consider a set of conditions as well as scenarios. To learn more, see the next section in this topic called "Path computation for the GPON Broadband Service change model.".
 
@@ -97,7 +97,3 @@ To learn more about errors occur in the path computation, see [Path computation 
 
 [Design your GPON Broadband Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/gpon-broadband-change-model.md)
 
-## Related
-
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]

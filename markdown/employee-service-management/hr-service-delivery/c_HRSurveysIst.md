@@ -20,7 +20,7 @@ One predefined HR survey is provided: HR Request Satisfaction Survey. HR adminis
 
 The HR Request Satisfaction Survey is triggered randomly for 50% of closed HR cases. Users receive an email with the survey link after they accept the resolution or when the HR case is closed incomplete.
 
-HR managers and administrators can review responses by question and see a scorecard. Comments entered by users provide feedback that can be used to improve the performance of HR [[case-management-workspace|case management]]. The following survey options can be configured.
+HR managers and administrators can review responses by question and see a scorecard. Comments entered by users provide feedback that can be used to improve the performance of HR case management. The following survey options can be configured.
 
 -   The look and feel of the questionnaire, for example, by adding the company logo.
 -   Conditional questions that appear when users answer other questions in a certain way.
@@ -43,6 +43,3 @@ When you create an HR survey, you can add a trigger condition to specify when th
 
 **Parent Topic:**[HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

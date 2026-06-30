@@ -25,7 +25,7 @@ Role required: pps\_admin
 You can use the **Update Resource Aggregates** related link in the following scenarios:
 
 -   If you notice a discrepancy in aggregates and want to generate correct data.
--   If you want to synchronize aggregates with the [[r_AllocatingResources|Resource Allocation]] Daily \[resource\_allocation\_daily\] entries for a specific time frame.
+-   If you want to synchronize aggregates with the Resource Allocation Daily \[resource\_allocation\_daily\] entries for a specific time frame.
 
 ## Procedure
 
@@ -42,6 +42,3 @@ You can use the **Update Resource Aggregates** related link in the following sce
 
 **Parent Topic:**[User resources and group resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_UserResourcesAndGroupResources.md)
 
-## Related
-
-- [[r_AllocatingResources|Resource allocation]]

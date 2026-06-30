@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Create a business process in the Risk Workspace
 
-[[create-a-business-process|Create a business process]] in the [[risk-workspace|Risk Workspace]] and define the owners, approvers, business criticality, and review frequency for the process.
+Create a business process in the Risk Workspace and define the owners, approvers, business criticality, and review frequency for the process.
 
 ## Before you begin
 
@@ -229,7 +229,3 @@ Add related business assets to a business process to gain visibility into the IT
 
 [Add related assets to a business process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/add-related-assets-to-a-bp.md)
 
-## Related
-
-- [[create-a-business-process|create a business process]]
-- [[risk-workspace|risk workspace]]

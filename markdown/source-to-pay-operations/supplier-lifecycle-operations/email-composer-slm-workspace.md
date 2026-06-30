@@ -14,9 +14,9 @@ breadcrumb: [Using Source-to-Pay Workspace, Use, Supplier Lifecycle Operations, 
 
 # Composing emails with predefined content from the Source-to-Pay Workspace
 
-Insert predefined content into the message body of emails that you send from the email client in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+Insert predefined content into the message body of emails that you send from the email client in the Source-to-Pay Workspace.
 
-You can use this feature to compose and send emails directly from a [[supplier|supplier]] case or a supplier task. To open the email client, select **Compose Email** from the more actions icon \(\[Omitted image "more-actions-icon.png"\] Alt text: More actions icon.\) from a supplier case or a supplier task. A draft email appears with pre-populated data in the **Cc** and **Subject** fields. The **Cc** field is auto-populated with the email address of the contact who opened the case. The **Subject** field is auto-populated with the case number and issue description.
+You can use this feature to compose and send emails directly from a supplier case or a supplier task. To open the email client, select **Compose Email** from the more actions icon \(\[Omitted image "more-actions-icon.png"\] Alt text: More actions icon.\) from a supplier case or a supplier task. A draft email appears with pre-populated data in the **Cc** and **Subject** fields. The **Cc** field is auto-populated with the email address of the contact who opened the case. The **Subject** field is auto-populated with the case number and issue description.
 
 ## Using quick messages
 
@@ -89,7 +89,3 @@ Compose and send emails directly from a supplier case or a supplier task in the 
 
 [Communicate using emails from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/send-emails-slm-ws.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]

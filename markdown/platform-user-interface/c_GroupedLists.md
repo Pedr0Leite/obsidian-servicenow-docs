@@ -22,7 +22,7 @@ For example, this picture shows active incidents grouped by caller.
 -   The record count for each group appears next to the group name.
 -   The total number of items in the list \(all groups combined\) appears near the paging controls in the list. This total displays only when the list is grouped on a field.
 
-**Parent Topic:**[[c_UseLists|Lists in the classic environment]]
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 ## Use a grouped list
 
@@ -83,6 +83,4 @@ Open the full list.
     -   Grouped lists with a script include in the filter may cause slowness.
     The maximum number of records shown per group is the number of records per page in list view.
 
-## Related
 
-- [[c_UseLists|Lists in the classic environment]]

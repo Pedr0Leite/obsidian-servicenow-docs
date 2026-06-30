@@ -14,7 +14,7 @@ breadcrumb: [Process a change request, Use, Change Management, IT Service Manage
 
 # Refresh impacted services and CIs for Change
 
-The Impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business [[dex-workspace-application-tab|Applications]] related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
+The Impacted services and CIs related list refreshes its records and also the records listed in the Service Offerings and Business Applications related lists based on the affected CIs. You can identify the impacted services and CIs and take necessary action.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: itil, change\_manager, sn\_change\_write, or admin
 
 Refreshing impacted Services on a change request form is executed in one of the following ways:
 
--   [[c_ConflictDetection|Conflict detection]]: When a conflict detection is triggered, refreshing of impacted services may be initiated. The **Automatically include business or application services related to Cis with conflicts in the Impacted Cis/Services related list** property \(**change.conflict.populateimpactedcis**\) controls whether the Impacted Services/CIs related list should be refreshed or not. If this property is enabled, then a call is made to the `ChangeUtils` script include calling a refreshImpactedServices method for the current change request.
+-   Conflict detection: When a conflict detection is triggered, refreshing of impacted services may be initiated. The **Automatically include business or application services related to Cis with conflicts in the Impacted Cis/Services related list** property \(**change.conflict.populateimpactedcis**\) controls whether the Impacted Services/CIs related list should be refreshed or not. If this property is enabled, then a call is made to the `ChangeUtils` script include calling a refreshImpactedServices method for the current change request.
 -   Automatically when the change request moves from the new state: Impacted services are refreshed when the change request moves from the new state and when the Affected CIs related list is not modifiable.
 -   Manually when selecting the **Refresh Impacted Services** option from contextual menu.
 
@@ -45,12 +45,7 @@ Refreshing impacted Services on a change request form is executed in one of the 
 
 
 -   **[Refresh impacted services properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/refreshing-impacted-services-properties.md)**  
-Use the [[refreshing-impacted-services-properties|refresh impacted services properties]] to enable or disable the refresh impacted services capability, and to configure the criteria for additional refresh impacted services properties.
+Use the refresh impacted services properties to enable or disable the refresh impacted services capability, and to configure the criteria for additional refresh impacted services properties.
 
 **Parent Topic:**[Process a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_ProcessAChangeRequest.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[c_ConflictDetection|Conflict detection]]
-- [[refreshing-impacted-services-properties|Refresh impacted services properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Use generative AI, Now Assist for FSO, Financial Services Operation
 
 # Summarize a banking customer profile in the Customer 360 page
 
-Use the Customer Profile Summarization skill to generate an AI-powered overview of a customer's status and information within the Customer 360 page in [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]. This feature helps customer service representatives quickly understand a customer's status to provide personalized, real-time support.
+Use the Customer Profile Summarization skill to generate an AI-powered overview of a customer's status and information within the Customer 360 page in Agentic Contact Center for Banking. This feature helps customer service representatives quickly understand a customer's status to provide personalized, real-time support.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The Customer profile summarization skill provides a concise, comprehensive summa
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[fso-overview|Financial Services]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Financial Services Workspace**.
 
 2.  Open a customer record.
 
@@ -93,7 +93,3 @@ Use an AI agent to engage in Q&amp;A, anticipate customer needs, and surface ins
 
 [Configure banking customer profile summarization in Now Assist for FSO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/configure-customer-profile-summarization-fso.md)
 
-## Related
-
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[fso-overview|Financial Services]]

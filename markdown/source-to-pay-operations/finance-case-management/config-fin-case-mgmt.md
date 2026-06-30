@@ -14,7 +14,7 @@ breadcrumb: [Finance Case Management, Finance and Supply Chain applications, Fin
 
 # Configure Finance Case Management
 
-Plan and configure your implementation for [[fin-case-mgmt-landing-page|Finance Case Management]].
+Plan and configure your implementation for Finance Case Management.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -25,6 +25,3 @@ Plan and configure your implementation for Finance Operations Workspace.
 
 **Parent Topic:**[Finance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/fin-case-mgmt-landing-page.md)
 
-## Related
-
-- [[fin-case-mgmt-landing-page|Finance Case Management]]

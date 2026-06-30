@@ -16,7 +16,7 @@ As a ServiceNow developer, you can receive code fix suggestions when an error is
 
 ## Before you begin
 
-Complete the pre-requisites and setup steps in order to activate Fix code in real-time. See [[configure-ai-code-fix-for-platform-health|Configure Fix code in real-time for Platform Health]] for details.
+Complete the pre-requisites and setup steps in order to activate Fix code in real-time. See [Configure Fix code in real-time for Platform Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-ai-code-fix-for-platform-health.md) for details.
 
 Role required: sn\_impact\_gen\_ai\_fix\_user
 
@@ -26,7 +26,7 @@ Role required: sn\_impact\_gen\_ai\_fix\_user
 
     The Findings panel displays on the right side of the workspace and organizes findings into the following tabs: **All**, **Act**, **Recommend**, **Suggest**, and **Review**. Each finding card includes:
 
-    -   **Finding level** and **[[impact-landing-page|impact]] level**: The severity and a link to the Scan Engine definition.
+    -   **Finding level** and **impact level**: The severity and a link to the Scan Engine definition.
     -   **Details**: The exact line number in the code where the finding occurred.
     -   **Steps to resolve issue**: A description of the recommended resolution.
     -   **Supporting documentation**: A link to a knowledge base article or documentation explaining the recommended configuration.
@@ -50,10 +50,6 @@ Role required: sn\_impact\_gen\_ai\_fix\_user
 
     -   The available prompts are displayed in the bulleted list for the proposed solution.
     -   If you reject the solution, the code will be editable.
-    **Note:** Users with the executive role can access the Executive Dashboard which contains a module that displays all findings resolved using the Now Assist Agent. See [[scan-engine-executive-dashboard|Scan Engine Executive dashboard]] for additional information.
+    **Note:** Users with the executive role can access the Executive Dashboard which contains a module that displays all findings resolved using the Now Assist Agent. See [Scan Engine Executive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/scan-engine-executive-dashboard.md) for additional information.
 
-## Related
 
-- [[configure-ai-code-fix-for-platform-health|Configure Fix code in real-time for Platform Health]]
-- [[scan-engine-executive-dashboard|Scan Engine Executive dashboard]]
-- [[impact-landing-page|Impact]]

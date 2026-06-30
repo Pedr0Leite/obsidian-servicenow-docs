@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Add data subject type to a processing activity
 
-Add [[data-subjects|data subject types]] to a processing activity in the Privacy Workspace.
+Add data subject types to a processing activity in the Privacy Workspace.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  In the Privacy Workspace, select the List icon \(\[Omitted image "ws-list-icon.png"\]\).
 
-3.  Navigate to **[[ropa-record|Processing activities]]** &gt; **All processing activities**.
+3.  Navigate to **Processing activities** &gt; **All processing activities**.
 
 4.  Select and open the processing activity to which you want to add a data subject type.
 
@@ -40,7 +40,7 @@ Role required: sn\_privacy.manager or sn\_privacy.analyst
 
 9.  Select **Data subject locations**.
 
-10. Select the **[[information-objects|Information Objects]]** you want to add to the data subject type.
+10. Select the **Information Objects** you want to add to the data subject type.
 
 11. Select **Add**.
 
@@ -51,9 +51,3 @@ The data subject type that you added appears in the **Data subject types** table
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[data-subjects|Data subject types]]
-- [[privacy-management|privacy management]]
-- [[ropa-record|Processing activities]]
-- [[information-objects|information objects]]

@@ -34,7 +34,7 @@ AI resource finder helps resource and project managers identify the best-fit res
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  View the resource assignment pane by enabling the Resource assignments toggle button.
 
@@ -59,6 +59,3 @@ AI resource finder helps resource and project managers identify the best-fit res
 
 **Parent Topic:**[Resource assignments in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/resource-assignments-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

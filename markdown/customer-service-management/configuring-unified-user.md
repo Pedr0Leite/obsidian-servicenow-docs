@@ -12,7 +12,7 @@ breadcrumb: [User management, Set up your environment, Configure, Customer Servi
 
 # Configuring a Unified User
 
-By unifying multiple profiles for a single user in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application, you don't need to create and manage multiple user accounts for that user.
+By unifying multiple profiles for a single user in the Customer Service Management \(CSM\) application, you don't need to create and manage multiple user accounts for that user.
 
 A user can maintain multiple profiles within the Customer Service Management \(CSM\) application and other ServiceNow applications with one login.
 
@@ -35,15 +35,9 @@ By using multiple profiles within the CSM application, your organization can hav
 **Related topics**  
 
 
-[[configuring-employee-as-a-consumer|Configuring a user as a Unified Consumer]]
+[Configuring a user as a Unified Consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-employee-as-a-consumer.md)
 
-[[configuring-a-contact-as-a-unified-consumer|Configuring a contact as a consumer]]
+[Configuring a contact as a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configuring-a-contact-as-a-unified-consumer.md)
 
-[[update-system-property|Update system property]]
+[Update system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/update-system-property.md)
 
-## Related
-
-- [[configuring-employee-as-a-consumer|Configuring a user as a Unified Consumer]]
-- [[configuring-a-contact-as-a-unified-consumer|Configuring a contact as a consumer]]
-- [[update-system-property|Update system property]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -30,7 +30,7 @@ When a field's **Read only option** is set to Instance Configured, read-only beh
 
 ## Procedure
 
-1.  Navigate to the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table's list view.
+1.  Navigate to the System Properties \[sys\_properties\] table's list view.
 
     1.  Select **All**.
 
@@ -88,6 +88,3 @@ Test any client scripts or server-side APIs that update read-only fields work as
 
 **Parent Topic:**[Configuring read-only security options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/read-only-option.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

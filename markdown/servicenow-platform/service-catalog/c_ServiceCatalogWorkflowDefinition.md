@@ -14,11 +14,11 @@ breadcrumb: [Service Catalog request fulfillment, Configuring Service Catalog, S
 
 # Service catalog workflows
 
-Two service catalog workflows are provided in the base system. Use the Graphical [[workflow-editor|Workflow Editor]] to modify the default workflows or to create additional service catalog workflows. Service catalog workflows support [[domain-separation-relationship-formatter-editor|domain separation]].
+Two service catalog workflows are provided in the base system. Use the Graphical Workflow Editor to modify the default workflows or to create additional service catalog workflows. Service catalog workflows support domain separation.
 
 ## Default service catalog workflows
 
--   **[[service-catalog|Service Catalog]] Request**: a simple workflow that fulfills a simple order.
+-   **Service Catalog Request**: a simple workflow that fulfills a simple order.
 -   **Service Catalog Item Request**: a more complex workflow that fulfills a more complex order.
 
 \[Omitted image "SCWorkflow1.png"\] Alt text: Service Catalog Request workflow
@@ -29,8 +29,8 @@ Two service catalog workflows are provided in the base system. Use the Graphical
 
 Creating a workflow involves the following processes:
 
--   [[t_CreateAWorkflow|Create a workflow]] to process the catalog item.
--   Define the [[c_WorkflowActivities|workflow activities]] to process the catalog item.
+-   Create a workflow to process the catalog item.
+-   Define the workflow activities to process the catalog item.
 -   Publish the catalog item workflow.
 -   [Create or edit a catalog item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_DefineACatalogItem.md) to call the catalog item workflow
 
@@ -53,10 +53,3 @@ Publish the catalog workflow to make it available for use in the system.
 
 **Parent Topic:**[Service Catalog request fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-fulfillment.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[service-catalog|Service Catalog]]
-- [[t_CreateAWorkflow|Create a workflow]]
-- [[c_WorkflowActivities|Workflow activities]]

@@ -15,11 +15,11 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Assign user to Event Management admin role
 
-Assign the evt\_mgmt\_admin role to users who will be in charge of [[c_EM|Event Management]] configuration and operational control.
+Assign the evt\_mgmt\_admin role to users who will be in charge of Event Management configuration and operational control.
 
 ## Before you begin
 
-Verify that the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] plugins are installed.
+Verify that the ITOM AIOps and Now Assist for IT Operations Management plugins are installed.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -47,8 +47,4 @@ The evt\_mgmt\_admin role provides users with the necessary permissions to confi
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]

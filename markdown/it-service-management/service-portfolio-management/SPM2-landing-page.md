@@ -34,7 +34,7 @@ Service Portfolio Management enables portfolio owners and service owners to crea
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about Service Portfolio Management administration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get information about Service Portfolio Management administration.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -43,6 +43,3 @@ Service Portfolio Management enables portfolio owners and service owners to crea
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Now Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -26,7 +26,7 @@ Add a risk event cause to the cause library to help with risk analysis, risk pre
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Causes**.
+1.  Navigate to **All** &gt; **Risk Events** &gt; **Administration** &gt; **Causes**.
 
 2.  Click **New**.
 
@@ -52,6 +52,3 @@ The risk event cause is added to the library.
 
 [Add a risk event consequence to the consequence library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/add-consequence.md)
 
-## Related
-
-- [[Administration|Administration]]

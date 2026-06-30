@@ -16,7 +16,7 @@ breadcrumb: [Explore, Dashboards, Strategic Planning, Strategic Portfolio Manage
 
 The Feedback Dashboard helps product managers track feedback volume and stakeholder trends to surface recurring pain points, inform prioritization decisions, and demonstrate responsiveness.
 
-\[Omitted image "feedback-dashboard-spw.gif"\] Alt text: Feedback Dashboard in [[alignment-planner-workspace-landing-page|Strategic Planning]]
+\[Omitted image "feedback-dashboard-spw.gif"\] Alt text: Feedback Dashboard in Strategic Planning
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -34,6 +34,3 @@ The Feedback Dashboard helps product managers track feedback volume and stakehol
 
 **Parent Topic:**[Exploring Dashboards in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/exploring-dashboards-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

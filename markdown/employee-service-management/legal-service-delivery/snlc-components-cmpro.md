@@ -14,13 +14,13 @@ breadcrumb: [Reference, Contract Management Pro for Legal Service Delivery, Inte
 
 # Components installed with Contract Management Pro for Legal Service Delivery
 
-Several types of components are installed with activation of the [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] application which includes the components for Contracts Core and [[cncore-expl-wdt|Word Document Templates]], including tables and user roles.
+Several types of components are installed with activation of the Contract Management Pro for Legal Service Delivery application which includes the components for Contracts Core and Word Document Templates, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 ## Roles
 
-**Note:** Some roles in the **Contains roles** column are available with installation of the respective [[legal-management-overview|Legal Service Delivery]] application. For example, roles with an sn\_lg\_matter prefix are added when you install the [[legal-matter-management-landing-page|Legal Matter Management]] application.
+**Note:** Some roles in the **Contains roles** column are available with installation of the respective Legal Service Delivery application. For example, roles with an sn\_lg\_matter prefix are added when you install the Legal Matter Management application.
 
 <table id="table_tn1_45f_5xb"><thead><tr><th>
 
@@ -157,7 +157,7 @@ sn\_cm\_core.contract\_user
 </td></tr></tbody>
 </table>## Tables
 
-**Note:** In addition to the following tables, tables specific to practice areas are installed with [[legal-request-management-landing-page|Legal Request Management]]. For more information, see [Practice area tables for legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-pa-tables.md).
+**Note:** In addition to the following tables, tables specific to practice areas are installed with Legal Request Management. For more information, see [Practice area tables for legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/legal-request-pa-tables.md).
 
 <table id="table_k41_45f_5xb"><thead><tr><th>
 
@@ -335,10 +335,3 @@ Store details of supporting files attached to the third-party contract review re
 
 [Third-party Contract Review form]()
 
-## Related
-
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-request-management-landing-page|Legal Request Management]]

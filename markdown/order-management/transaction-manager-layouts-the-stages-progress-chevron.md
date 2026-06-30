@@ -60,7 +60,7 @@ stageProgress:
 
 ## Custom picklist-based definition
 
-Use custom [[fields|fields]] to dynamically populate the chevron.
+Use custom fields to dynamically populate the chevron.
 
 JSON:
 
@@ -84,7 +84,7 @@ stageProgress:
 
 This method supports:
 
--   Exclusion [[rules_101|rules]] to hide or disable specific stages.
+-   Exclusion rules to hide or disable specific stages.
 -   Determination rules to set the value of the current stage.
 
     Determination rules are useful when multiple stages should display as a single chevron.
@@ -119,7 +119,3 @@ The component supports theming using CSS custom properties. The following table 
 
 **Tip:** You can inspect the element in your browser to explore more custom properties.
 
-## Related
-
-- [[fields|Fields]]
-- [[rules_101|Rules]]

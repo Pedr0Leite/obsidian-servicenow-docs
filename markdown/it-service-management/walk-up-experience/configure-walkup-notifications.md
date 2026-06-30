@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Create or modify Walk-up Experience notifications
 
-Create and use [[walkup-experience-landing-page|Walk-up Experience]] notifications to keep requesters informed of queue events that concern them. The system can notify users by email, SMS text message, or push notification to a mobile device.
+Create and use Walk-up Experience notifications to keep requesters informed of queue events that concern them. The system can notify users by email, SMS text message, or push notification to a mobile device.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Walk-up Experience includes several base-system notifications that you can use o
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

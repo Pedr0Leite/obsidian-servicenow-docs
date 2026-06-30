@@ -14,7 +14,7 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Set up Contact Tracing properties
 
-Configure system properties to adjust how [[contact-tracing|contact tracing]] data is used.
+Configure system properties to adjust how contact tracing data is used.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ Enables or disables automatic creation of a case task when a case manager adds a
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

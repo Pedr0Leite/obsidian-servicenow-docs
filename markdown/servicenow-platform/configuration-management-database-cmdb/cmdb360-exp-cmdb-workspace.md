@@ -14,7 +14,7 @@ breadcrumb: [CMDB 360, Configuration Management Database \(CMDB\), Configuration
 
 # CMDB 360 experience in CMDB Workspaceand in Service Graph Workspace
 
-The [[multisource-cmdb|CMDB 360]] view in CMDB Workspaceand in [[sg-workspace|Service Graph Workspace]] provides aggregations and analysis of CMDB 360 data which you can use to track activities and identify Potential issues of discovery sources. You can also create different types of your own queries and associated schedules and reports to explore CMDB data.
+The CMDB 360 view in CMDB Workspaceand in Service Graph Workspace provides aggregations and analysis of CMDB 360 data which you can use to track activities and identify Potential issues of discovery sources. You can also create different types of your own queries and associated schedules and reports to explore CMDB data.
 
 Use the CMDB 360 view in [CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)or the CMDB 360 insights page in [Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/sg-workspace.md), to access all of the CMDB 360 capabilities. For information about all CMDB 360 dashboard settings, see [Configure the CMDB 360 dashboard in CMDB Workspace or in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-configure.md).
 
@@ -51,7 +51,7 @@ Cards on the Potential issues tile show details about CIs with discovery sources
 
 -   **Data mismatch**
 
-    Lists CIs for which different discovery sources are reporting different values. Attributes are considered mismatched when different discovery sources report different values for the attribute. CIs that appear when you drill down on this card can reveal issues with the individual CI, or your [[r_ReconciliationRulesPrinciples|reconciliation rules]].
+    Lists CIs for which different discovery sources are reporting different values. Attributes are considered mismatched when different discovery sources report different values for the attribute. CIs that appear when you drill down on this card can reveal issues with the individual CI, or your reconciliation rules.
 
     The specific records that appear in the drilled-down list view, depend on the [Data mismatch](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/workspc-mltsrc-configure.md) dashboard settings.
 
@@ -126,8 +126,4 @@ Various settings apply only to the coverage charts. They determine the scope and
 
     **Note:** Some classes, when included or excluded from the coverage charts, can greatly impact the overall performance of the chart calculations. For more information, see [Components related to CMDB 360](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/components-multisource-cmdb.md).
 
-## Related
 
-- [[multisource-cmdb|CMDB 360]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]

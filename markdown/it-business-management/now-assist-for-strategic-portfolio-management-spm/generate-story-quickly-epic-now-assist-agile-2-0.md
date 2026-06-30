@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist for Strategic Portfolio Management \(SPM\), Now As
 
 # Generate a story from an epic using Now Assist for SPM in Agile Development 2.0
 
-Generate a complete user story directly from an epic using the Quick story generation feature in [[agile-landing-page|Agile Development 2.0]]. Provide brief context, and Now Assist generates a story title, description, and acceptance criteria that you can review and edit before saving.
+Generate a complete user story directly from an epic using the Quick story generation feature in Agile Development 2.0. Provide brief context, and Now Assist generates a story title, description, and acceptance criteria that you can review and edit before saving.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: scrum\_story\_creator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[agile-development|Agile Development]]** &gt; **Epics**.
+1.  Navigate to **All** &gt; **Agile Development** &gt; **Epics**.
 
 2.  Open the epic for which you want to generate a story.
 
@@ -77,7 +77,3 @@ To further refine the story after saving, open the story record and select **Gen
 
 [Generate acceptance criteria for EAP stories using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-generate-acceptance-criteria-for-stories.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 # Configure the Patient Portal for Vaccine Administration Management
 
-Complete all configuration tasks to confirm that the [[hcls-vam|Vaccine Administration Management]] \(VAM\) Patient Portal is set up correctly for the user.
+Complete all configuration tasks to confirm that the Vaccine Administration Management \(VAM\) Patient Portal is set up correctly for the user.
 
 **Important:**
 
@@ -56,7 +56,3 @@ Configure advanced appointment scheduling for a vaccination center based on avai
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

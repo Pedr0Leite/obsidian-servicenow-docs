@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for Workplace Service Delivery \(WSD\), Workplace Servic
 
 # Using Now Assist in Virtual Agent
 
-Reserve a space using the [[create-reservation-request-1|create a reservation]] agent and get insights on your collaborators using the Workplace Collaboration agent.
+Reserve a space using the create a reservation agent and get insights on your collaborators using the Workplace Collaboration agent.
 
 Employees can interact with the reservation agent and collaboration agent using the Now Assist in Virtual Agent enhanced chat interface.
 
@@ -30,13 +30,9 @@ Visit these resources about Now Assist in Virtual Agent.
 -   [Exploring Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/exploring-now-assist-va.md)
 
 -   **[Making reservations using the Create a reservation agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/using-reservation-agent.md)**  
-The Create a reservation agent enables employees to find an available space and create workplace reservations quickly. Employees can interact with the reservation agent using the Now Assist in Virtual Agent enhanced chat interface in [[employee-center-landing-page|Employee Center]]. They can also use the Now Mobile® chat interface for interacting with the Virtual Agent.
+The Create a reservation agent enables employees to find an available space and create workplace reservations quickly. Employees can interact with the reservation agent using the Now Assist in Virtual Agent enhanced chat interface in Employee Center. They can also use the Now Mobile® chat interface for interacting with the Virtual Agent.
 -   **[Using the workplace collaboration Agent for space suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/suggest-space-agent.md)**  
 The Workplace Collaboration Agent provides insights on your team members in-office attendance. Based on this information, the reservation agent finds and reserves a space for reservation and collaboration. The collaboration agent considers your colleague's in-office days, location, and suggests a space for collaboration when you are in office.
 
 **Parent Topic:**[Now Assist for Workplace Service Delivery \(WSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/now-assist-wsd-landing.md)
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[employee-center-landing-page|Employee Center]]

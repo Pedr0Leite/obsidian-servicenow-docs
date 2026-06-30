@@ -37,7 +37,7 @@ Priority lookup rules are organizational configurations set by administrators. T
     |Impact|Impact is a measure of the effect of an incident, problem, or change on business processes.|
     |Urgency|Urgency is a measure of how long the resolution can be delayed until an incident, problem, or change has a significant business impact.|
     |Priority|Priority is based on impact and urgency, and it identifies how quickly the service desk should address the task.|
-    |Application|Application scope of the rules. The scope defines whether the rules are available for all [[dex-workspace-application-tab|applications]] or for scoped applications.|
+    |Application|Application scope of the rules. The scope defines whether the rules are available for all applications or for scoped applications.|
     |Active|Option to define whether the rule is active or not.|
     |Order|Sequence in which the rules appear in the priority lookup list. This field indicates the sequence of the rule that is executed first.|
 
@@ -64,6 +64,3 @@ Priority lookup rules are organizational configurations set by administrators. T
 
 **Parent Topic:**[Configuring Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/incident-configuration.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

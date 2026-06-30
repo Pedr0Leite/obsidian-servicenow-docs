@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID-less ACC, ACC deployment - endpoints, Configuring A
 
 # Configure MID-less Agent Client Collector using a single-line command
 
-Use a single-line command to set up a MID-less [[acc-landing-page|Agent Client Collector]]. You can also use the single-line command to migrate agents configured with a MID Server to have a MID-less configuration.
+Use a single-line command to set up a MID-less Agent Client Collector. You can also use the single-line command to migrate agents configured with a MID Server to have a MID-less configuration.
 
 ## Before you begin
 
@@ -113,6 +113,3 @@ Explains what the specified command does.
 
 **Parent Topic:**[Configuring MID-less Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configuring-without-mid.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

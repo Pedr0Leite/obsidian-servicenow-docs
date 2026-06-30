@@ -18,17 +18,17 @@ Customize the icons that show on calendar events to clarify their purpose or mat
 
 Role required: wm\_admin
 
-Make sure that **Enable icon display on calendar event** is enabled. For more information, see [[configure-workspce-settings|Configure settings for Dispatcher Workspace]].
+Make sure that **Enable icon display on calendar event** is enabled. For more information, see [Configure settings for Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-workspce-settings.md).
 
 ## About this task
 
-For a list of icons that show on calendar events, see [[calendar-event-icons|Calendar event icons in Dispatcher Workspace]].
+For a list of icons that show on calendar events, see [Calendar event icons in Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/calendar-event-icons.md).
 
 **Warning:** You must understand JSON code to perform this procedure.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **[[dispatcher-activities|Dispatcher Workspace]] Configuration** &gt; **Calendar Event Body Iconography**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher Workspace Configuration** &gt; **Calendar Event Body Iconography**.
 
 2.  In the **Value** field, note the file name of the icon to be changed.
 
@@ -37,7 +37,7 @@ For a list of icons that show on calendar events, see [[calendar-event-icons|Cal
     -   topIcon - The icon at the top left indicates the work type
     -   bottomFirstIcon - The first icon at the bottom right indicates whether a task is a crew task
     -   bottomSecondIcon - The second icon at the bottom right indicates whether a task is locked
-    For information on changing the fields that determine whether the icon is displayed, see [[add-event-icons|Change the fields that display calendar event icons]].
+    For information on changing the fields that determine whether the icon is displayed, see [Change the fields that display calendar event icons](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/add-event-icons.md).
 
 3.  Select **All** search for **Images,** and select **Images** under **System UI**.
 
@@ -62,9 +62,3 @@ For a list of icons that show on calendar events, see [[calendar-event-icons|Cal
 
 The icon is updated and appears on calendar events in Dispatcher Workspace.
 
-## Related
-
-- [[configure-workspce-settings|Configure settings for Dispatcher Workspace]]
-- [[calendar-event-icons|Calendar event icons in Dispatcher Workspace]]
-- [[add-event-icons|Change the fields that display calendar event icons]]
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -31,11 +31,11 @@ Creating an outbound intelligence share record via automated process:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Automated Flows**.
 
-3.  Select **[[tisc-automated-sharing-flow|Automated sharing of high-risk IOC's with trusted partners]]** action link to view the respective rule details in the flow designer.
+3.  Select **Automated sharing of high-risk IOC's with trusted partners** action link to view the respective rule details in the flow designer.
 
 4.  View the flow designer action for the following triggers:
 
@@ -49,8 +49,8 @@ Creating an outbound intelligence share record via automated process:
     |Action|Description|
     |------|-----------|
     |**Select the Sharing Template**|Templates with a usage mode of both **On-Demand and Automated Sharing**, and **Automated Sharing** can be selected for Automated Sharing.|
-    |**List of [[c_Observables|Observables]]**|Select the type of observables record to add to an outbound intelligence record.|
-    |**List of [[indicator|Indicators]]**|Select the type of indicators to add to an outbound intelligence record.|
+    |**List of Observables**|Select the type of observables record to add to an outbound intelligence record.|
+    |**List of Indicators**|Select the type of indicators to add to an outbound intelligence record.|
     |**List of Objects**|Select the type of objects to add to an outbound intelligence record.|
     |**Include Related Records**|Add the related records of the selected observables, including indicators and objects.|
     |**Requires approval**|Select the check box that requires approval for the outbound intelligence record. [Defining Approval Rule for Outbound Intel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approval-outbound-intel.md).|
@@ -71,9 +71,3 @@ Activate the flow. For more information on automated flows, see [Automated shari
 
 [Sharing of Outbound Intelligence Records from GUI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-intel-records-lib.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-automated-sharing-flow|Automated sharing of high-risk IOC's with trusted partners]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

@@ -15,7 +15,7 @@ breadcrumb: [Operating systems discovery, Data collected by ITOM Visibility, ITO
 
 # Discovery for VMware vCenter
 
-[[r-discovery|Discovery]] can explore the VMware vCenter process running on a Windows or Linux host. IPv6 is supported for disocvery in VMware vCenter.
+Discovery can explore the VMware vCenter process running on a Windows or Linux host. IPv6 is supported for disocvery in VMware vCenter.
 
 **Note:**
 
@@ -76,7 +76,7 @@ When a vCenter CI, such as a virtual machine, is removed, the ServiceNow instanc
 
 To avoid stale CI health indicators from being generated during VMware discovery, set the system property **glide.cmdb.health.src.cmdb\_health\_audit\_only** to **true**. This disables stale CI reporting from the VMware discovery source, enabling you to manage the CI life cycle through other means. For more information, see [CMDB Health system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CMDBHealthProperties.md).
 
-You have the option of creating a [CMDB remediation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCMDBRemediationRule.md) to automatically execute a [[ccg-remediation|remediation]] workflow that can, for example, delete stale CIs. For more information on stale CIs, see [CMDB Health Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CMDBHealthMetrics.md).
+You have the option of creating a [CMDB remediation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCMDBRemediationRule.md) to automatically execute a remediation workflow that can, for example, delete stale CIs. For more information on stale CIs, see [CMDB Health Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_CMDBHealthMetrics.md).
 
 ## vCenter Discovery on Windows host
 
@@ -84,7 +84,3 @@ Windows credentials aren't necessary for vCenter Discovery, when valid VMware cr
 
 **Parent Topic:**[Operating systems discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Computers.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]

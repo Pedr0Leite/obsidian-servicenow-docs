@@ -14,11 +14,11 @@ breadcrumb: [Standard currency fields, Explore, Currency administration, Configu
 
 # Session and reference currency
 
-The default, or standard, currency fields in the ServiceNow AI Platform® use two kinds of currency, Session and [[reference-email-admin|Reference]].
+The default, or standard, currency fields in the ServiceNow AI Platform® use two kinds of currency, Session and Reference.
 
 -   **Session currency**
 
-    The session currency is defined for the user by the user’s locale or [[single-currency-mode|single-currency mode]].
+    The session currency is defined for the user by the user’s locale or single-currency mode.
 
 -   **Reference**
 
@@ -54,7 +54,7 @@ To perform calculations on heterogeneous currency values, the ServiceNow AI Plat
 -   System locale set using the property **glide.system.locale**
 -   Java default locale, typically en.US
 
-The filtering and aggregation features use the reference currency value to perform calculations on default currency fields. These features can yield inaccurate [[hs-results|results]] because of conversion rate changes.
+The filtering and aggregation features use the reference currency value to perform calculations on default currency fields. These features can yield inaccurate results because of conversion rate changes.
 
 ## Issues with currency fields
 
@@ -72,8 +72,3 @@ This confusion may be the result of the difference between session and reference
 
 **Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[single-currency-mode|Single-currency mode]]
-- [[hs-results|Results]]

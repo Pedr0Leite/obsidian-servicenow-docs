@@ -14,7 +14,7 @@ breadcrumb: [Using Predictive Intelligence, Predictive Intelligence, Enable AI e
 
 # Use Predictive Intelligence in Workflow Studio with ML actions
 
-Use [[predictive-intelligence-landing|Predictive Intelligence]] actions in Workflow Studio to create flows that incorporate your model predictions.
+Use Predictive Intelligence actions in Workflow Studio to create flows that incorporate your model predictions.
 
 ## Before you begin
 
@@ -114,7 +114,7 @@ For more information on how to use Flow Designer in Workflow Studio, see . For i
 
 7.  In the ACTIONS section of the screen, use the following steps to create actions and flow logic for the incident's Prediction Results.
 
-    **Note:** Although you can use a loop to iterate through every prediction result, the scenario shown in this documentation uses a relatively small number of actions. For more advanced flow [[exploring-ai-governance|configurations]], see the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
+    **Note:** Although you can use a loop to iterate through every prediction result, the scenario shown in this documentation uses a relatively small number of actions. For more advanced flow configurations, see the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md).
 
     1.  **For each item in** **list of items**: Drag and drop the **Prediction Results** data pill into the **Items** field.
 
@@ -231,7 +231,3 @@ For more information on how to use Flow Designer in Workflow Studio, see . For i
 
 [bundle-crworkflow.predictive-intelligence-spoke]
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[exploring-ai-governance|Configurations]]

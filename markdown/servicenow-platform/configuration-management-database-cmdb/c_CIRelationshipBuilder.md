@@ -14,9 +14,9 @@ breadcrumb: [CI relationship editor, CI relationships in the CMDB, Configuration
 
 # Legacy CI relationship builder
 
-Used to define CI relationships manually, this page is a sophisticated version of the standard [[list-collector|list collector]]. In the [[r_LegacyCIRelationsFormatter|legacy CI relations formatter]], click the CI relationship builder icon \(\[Omitted image "CIRelationshipBuilderIcon.png"\] Alt text: CI relationship builder icon\) to display the legacy Define Relationships page.
+Used to define CI relationships manually, this page is a sophisticated version of the standard list collector. In the legacy CI relations formatter, click the CI relationship builder icon \(\[Omitted image "CIRelationshipBuilderIcon.png"\] Alt text: CI relationship builder icon\) to display the legacy Define Relationships page.
 
-For information about the latest [[c_RelationshipEditor|CI relationship editor]], see [CI relationship editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_RelationshipEditor.md).
+For information about the latest CI relationship editor, see [CI relationship editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_RelationshipEditor.md).
 
 ## Select a CI relationship type
 
@@ -24,14 +24,14 @@ The top half of the legacy relationship editor contains a large option box that 
 
 ## Filter the list of CI relationships
 
-In the legacy relationship editor, the check boxes along the right hand edge of the [[select-box|select box]] provide a quick way to filter down the list of available relationships.
+In the legacy relationship editor, the check boxes along the right hand edge of the select box provide a quick way to filter down the list of available relationships.
 
 By default, the system displays a list of all suggested relationships for the type of CI you selected. For example, if you selected a Database instance, a relationship of "Runs on" makes sense, but a relationship of "Provides HVAC for" does not. The default filter is stored in the user preferences ci\_manage\_relationships\_filter\_hint.cmdb\_cici\_manage\_relationships\_filter\_hint.sys\_user, and ci\_manage\_relationships\_filter\_hint.sys\_user\_group.
 
 -   **Hide CI relationship** -- Hides any relationships between this CI and another CI \(e.g. "Receives data from"\).
 -   **Hide user relationships** -- Hides any relationships between this CI and a user \(e.g. "Logs reviewed by"\).
 -   **Hide group relationships** -- Hides any relationships between this CI and a group \(e.g. "Backups done by"\).
--   **Show all relationships** -- If you have the appropriate role \(sn\_cmdb\_admin or itil\_admin in the base system\) you will have an additional [[check-box|check box]] labeled "Show all relationships." If you click that check box, the system will let you choose any relationship defined in the system, regardless of where it is on the "suggested" list for this type of CI.
+-   **Show all relationships** -- If you have the appropriate role \(sn\_cmdb\_admin or itil\_admin in the base system\) you will have an additional check box labeled "Show all relationships." If you click that check box, the system will let you choose any relationship defined in the system, regardless of where it is on the "suggested" list for this type of CI.
 
 ## Select CI relationship targets
 
@@ -87,10 +87,3 @@ This causes you to exit without saving your changes.
 
 [CI relationships in the CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CIRelationships.md)
 
-## Related
-
-- [[list-collector|List collector]]
-- [[r_LegacyCIRelationsFormatter|Legacy CI relations formatter]]
-- [[c_RelationshipEditor|CI relationship editor]]
-- [[select-box|Select box]]
-- [[check-box|Check box]]

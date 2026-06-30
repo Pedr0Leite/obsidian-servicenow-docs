@@ -14,7 +14,7 @@ breadcrumb: [Internationalization support, Administer, AI Search, Search adminis
 
 # Configure translation for knowledge article reference field values in facets
 
-Specify whether facets should display knowledge article [[reference-email-admin|reference]] field values in the search user's session language. If you disable translation, facets display knowledge article reference field values in your instance's default language.
+Specify whether facets should display knowledge article reference field values in the search user's session language. If you disable translation, facets display knowledge article reference field values in your instance's default language.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-By default, the search [[hs-results|results]] page displays facets for knowledge article reference fields using translated field values in the search user's session language. If no translated field value is available for the search user's session language, the knowledge article facet instead displays the field value in your instance's default language.
+By default, the search results page displays facets for knowledge article reference fields using translated field values in the search user's session language. If no translated field value is available for the search user's session language, the knowledge article facet instead displays the field value in your instance's default language.
 
 As an example, if you search from a Japanese session on an English-language instance, the KB Category facet displays field values in Japanese using Japanese translated field values. If a field value has no Japanese translation, the KB Category facet falls back to displaying that field value in English.
 
@@ -32,13 +32,13 @@ To learn more about facets, see [Create a facet in an AI Search application conf
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **AI Search Index** &gt; **Indexed Sources**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **AI Search Index** &gt; **Indexed Sources**.
 
 2.  Open the Knowledge Table indexed source record in form view by selecting its name.
 
 3.  In the Advanced Configuration related list, select **New**.
 
-4.  On the [[indexed-source-attribute-form-ais|Indexed Source Attribute form]], fill in the fields.
+4.  On the Indexed Source Attribute form, fill in the fields.
 
     |Field|Value|
     |-----|-----|
@@ -64,9 +64,3 @@ Facets for knowledge article reference fields display field value translations i
 
 **Parent Topic:**[Internationalization support for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/international-language-support-ais.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-attribute-form-ais|Indexed Source Attribute form]]

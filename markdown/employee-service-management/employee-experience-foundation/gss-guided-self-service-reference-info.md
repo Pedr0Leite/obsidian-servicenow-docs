@@ -14,17 +14,17 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Guided Self-Service reference
 
-Use the following [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information for the Guided Self-Service functionality.
+Use the following reference information for the Guided Self-Service functionality.
 
 ## Guided Self-Service: Things to remember
 
 You can display Guided Self-Service as a widget on the home page or as a quick link or as a widget on topic pages. Remember the following information:
 
 -   Ensure that the **sn\_hr\_sp.esc\_admin** user has the **playbook.write** role to edit the playbook design and **playbook\_experience.admin** to preview the guided experience.
--   Only when the playbook and guided help process are in an active state, the guided help process appears on the [[employee-center-landing-page|Employee Center]].
+-   Only when the playbook and guided help process are in an active state, the guided help process appears on the Employee Center.
 -   Guided Self-Service can’t be created from the playbook page directly, create the process from the GSS form, see [Configure Guided Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-help-config.md).
 -   Guided Self-Service flow is a single-stage flow.
--   The [[activity-lxp|Activity]] Definition \[sys\_pd\_activity\_definition\] table lists the definitions for the activities that you can add to a playbook in **Workflow Studio**.
+-   The Activity Definition \[sys\_pd\_activity\_definition\] table lists the definitions for the activities that you can add to a playbook in **Workflow Studio**.
 
     To access the activity definitions, navigate to **Process Automation** &gt; **Process Automation Administration** &gt; **Activity Definitions**
 
@@ -48,7 +48,7 @@ You can display Guided Self-Service as a widget on the home page or as a quick l
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -76,7 +76,7 @@ You can display Guided Self-Service as a widget on the home page or as a quick l
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -100,10 +100,3 @@ You can display Guided Self-Service as a widget on the home page or as a quick l
 
 [Use Guided Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-homepage.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

@@ -14,7 +14,7 @@ breadcrumb: [Data migration in TISC, Use, Threat Intelligence Security Center, S
 
 # Data migration from SIR TI to TISC
 
-Data Migration Job Configuration in TISC enables you to move the existing [[threat-intel-landing-page|Threat intelligence]] plugin data to TISC plugin data directly.
+Data Migration Job Configuration in TISC enables you to move the existing Threat intelligence plugin data to TISC plugin data directly.
 
 ## Before you begin
 
@@ -23,16 +23,16 @@ Role required: sn\_sec\_tisc.admin
 ## About this task
 
 -   **Selective Record Migration**: Only records from the selected table that meet specified conditions are migrated.
--   **Include [[stix-relationships|Relationships]]**: Related records are migrated only if the **Include Relationships** check box is selected.
+-   **Include Relationships**: Related records are migrated only if the **Include Relationships** check box is selected.
 -   **Entity Migration Status**: Once an entity \(observable or object\) is migrated, it won't be included in further migrations unless it is being migrated as a related record.
 
     **Note:** **Records exclusion criteria for migration utility**
 
     The migration utility excludes certain records based on the following criteria:
 
-    -   **[[c_Observables|Observables]]**: Observables of type **file** that contain secure file attachments will not be migrated.
-    -   **[[indicator|Indicators]]**: Indicators with blank values in either the pattern or pattern type fields will not be migrated.
-    -   **Objects**: Objects ingested from the MITRE TAXII profile within threat intelligence data will not be migrated to the [[tisc-landing-page|Threat Intelligence Security Center]].
+    -   **Observables**: Observables of type **file** that contain secure file attachments will not be migrated.
+    -   **Indicators**: Indicators with blank values in either the pattern or pattern type fields will not be migrated.
+    -   **Objects**: Objects ingested from the MITRE TAXII profile within threat intelligence data will not be migrated to the Threat Intelligence Security Center.
 -   **Case Records**: Only active records are migrated by default, unless the **Include Closed Cases** check box is selected.
 
 ## Procedure
@@ -70,7 +70,7 @@ Select the table from which the records should be migrated to TISC.The TISC tabl
 -   Observable\(sn\_ti\_observable\)
 -   Indicator of Compromise\(sn\_ti\_indicator\)
 -   Security Case\(sn\_ti\_case\)
--   STIX V2 objects \(sn\_ti\_stix2\_object\) \(options such as [[attack-patterns|attack patterns]], [[threat-intelligence-campaigns|campaigns]], course of action\)
+-   STIX V2 objects \(sn\_ti\_stix2\_object\) \(options such as attack patterns, campaigns, course of action\)
 **Note:**
 
 -   When you select the STIX V2 option then all the STIX objects are migrated except the MITRE ATT&amp;CK as TISC has a different framework to migrate the MITRE ATT&amp;CK.
@@ -160,12 +160,4 @@ The expiry period for the migrated TISC entities.
 
 10. Verify the TISC entities created as part of batch migration under respective related lists in **Migration Processing Queue** record.
 
-## Related
 
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[stix-relationships|Relationships]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-campaigns|Campaigns]]

@@ -51,7 +51,7 @@ If the flow detects an IOC, the **IOC Detected** tag can be automatically added 
 
 </td></tr><tr><td>
 
-Add [[c_Observables|observables]] to the security incident
+Add observables to the security incident
 
 </td><td>
 
@@ -159,7 +159,7 @@ Retrieves the configuration items \(CIs\) of all affected users.
 
 </td><td>
 
-In phishing or [[threat-intelligence-malware|malware]] scenarios, you can use this action to update the Affected Configuration Items \(CI\) related list and investigate the CIs. You can then update the severity or risk score of the security incident based on the number of identified CIs.
+In phishing or malware scenarios, you can use this action to update the Affected Configuration Items \(CI\) related list and investigate the CIs. You can then update the severity or risk score of the security incident based on the number of identified CIs.
 
 </td><td>
 
@@ -219,7 +219,7 @@ Confirms the presence of one or more malicious observables in a set of observabl
 
 </td><td>
 
-After the [[tisc-threat-lookup|threat lookup]] has been completed and you have identified the presence of malicious observables, you can increase the severity or risk score of a security incident.
+After the threat lookup has been completed and you have identified the presence of malicious observables, you can increase the severity or risk score of a security incident.
 
 </td><td>
 
@@ -298,9 +298,3 @@ In an organization, if two or more users report phishing emails, you can find ou
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]
-- [[tisc-threat-lookup|Threat Lookup]]

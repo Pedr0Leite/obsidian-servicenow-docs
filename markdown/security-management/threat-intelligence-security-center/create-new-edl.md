@@ -85,7 +85,7 @@ Description
 
 </td><td>
 
-Description of the Palo Alto Networks - Firewall Dynamic List. The name generally contains the types of sites and [[c_Observables|observables]] you would expect to be on this EDL, and you can use this field for more details.
+Description of the Palo Alto Networks - Firewall Dynamic List. The name generally contains the types of sites and observables you would expect to be on this EDL, and you can use this field for more details.
 
 </td></tr><tr><td>
 
@@ -126,6 +126,3 @@ The configuration URL for Palo Alto Networks is automatically generated and disp
 
 [Define Palo Alto Networks Approval Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edl-approval-rules.md)
 
-## Related
-
-- [[c_Observables|Observables]]

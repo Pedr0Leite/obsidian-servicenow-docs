@@ -14,17 +14,17 @@ breadcrumb: [ITSM Mobile Agent, IT Service Management]
 
 # Exploring ITSM Mobile Agent
 
-[[itsm-mobile-agent|ITSM Mobile Agent]] provides IT agents with the access needed to perform the various [[r_ITServiceManagement|IT Service Management]] \(ITSM\) tasks on the go with this mobile application.
+ITSM Mobile Agent provides IT agents with the access needed to perform the various IT Service Management \(ITSM\) tasks on the go with this mobile application.
 
 ## ITSM Mobile Agent overview
 
-ITSM Mobile Agent is a mobile application designed for ServiceNow users who work in IT Service Management \(ITSM\) roles. It enables IT agents to perform various ITSM tasks and provide support from their mobile [[dex-workspace-devices-tab|devices]]. The mobile agent app provides features such as ServiceNow® [[c_IncidentManagement|Incident Management]], ServiceNow®, [[c_ProblemManagement|Problem Management]], ServiceNow® [[c_ITILChangeManagement|Change Management]], and ServiceNow® Service Catalog access. With ITSM Mobile Agent, IT agents can stay connected and collaborate on IT tasks while on the go.
+ITSM Mobile Agent is a mobile application designed for ServiceNow users who work in IT Service Management \(ITSM\) roles. It enables IT agents to perform various ITSM tasks and provide support from their mobile devices. The mobile agent app provides features such as ServiceNow® Incident Management, ServiceNow®, Problem Management, ServiceNow® Change Management, and ServiceNow® Service Catalog access. With ITSM Mobile Agent, IT agents can stay connected and collaborate on IT tasks while on the go.
 
 ## ITSM Mobile Agent workflow
 
 A general overview of the typical ITSM Mobile Agent workflow:
 
-1.  Incident creation: When a user encounters an issue or incident, they can use ITSM Mobile Agent to [[create-an-incident|create an incident]] ticket. The ticket can include details such as a description of the problem, priority level, and any relevant attachments.
+1.  Incident creation: When a user encounters an issue or incident, they can use ITSM Mobile Agent to create an incident ticket. The ticket can include details such as a description of the problem, priority level, and any relevant attachments.
 2.  Notification and assignment: After the incident ticket is created, the mobile agent app sends a notification to the assigned IT agent or the appropriate support group. This notification ensures that the incident is promptly handled.
 3.  Incident management: The assigned IT agent can view the incident details, communicate with the user through the chat functionality of the app, and perform any necessary troubleshooting steps. If necessary, the IT Agent can propose an incident to Major incident.
 4.  Resolution and closure: The IT agent can resolve the incident with the appropriate resolution code and description.
@@ -41,12 +41,3 @@ A general overview of the typical ITSM Mobile Agent workflow:
 |AI search|[AI Search in ITSM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/ai-search-itsm-mobile-agent.md)|All|
 |Collaboration services|[Collaboration Services for ITSM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/collaboration-itsm-mobile-agent.md)|Administrator|
 
-## Related
-
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[create-an-incident|Create an incident]]

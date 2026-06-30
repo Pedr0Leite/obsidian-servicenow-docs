@@ -19,10 +19,7 @@ Set up and install your Customer Service Management environment with data models
 ||Create an internal business location to enable users and consumers to create accounts, contacts, consumers, and households.|
 ||Add users as staff members to an internal business location to support accounts, contacts, consumers, and households.|
 ||Assign responsibilities to a service organization \(SO\) member.|
-|[[assign-mco-roles|Assign roles]]|Assign roles to internal and external users to facilitate proper access to service organizations, business locations, and households.|
+|[Assign roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/assign-mco-roles.md)|Assign roles to internal and external users to facilitate proper access to service organizations, business locations, and households.|
 
 To set up the Customer Service Management environment, see .
 
-## Related
-
-- [[assign-mco-roles|Assign roles]]

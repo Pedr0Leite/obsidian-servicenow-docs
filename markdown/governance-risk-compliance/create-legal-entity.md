@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-When you select the Legal entities record in Digital resilience third-party registers menu item in the [[grc-opres-landing-page|Operational Resilience]] Workspace, you can view the existing legal entities \(core companies\) in the system.
+When you select the Legal entities record in Digital resilience third-party registers menu item in the Operational Resilience Workspace, you can view the existing legal entities \(core companies\) in the system.
 
 When you install Digital resilience third-party registers, the **Legal entities** tab gets added for the existing companies. You can launch the **Legal entities** tab and configure the details.
 
@@ -40,7 +40,7 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[create-new-legal-entity-form|Create New Company form]].
+    For more information, see [Create New Company form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-legal-entity-form.md).
 
 4.  Select **Save**.
 
@@ -50,7 +50,7 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 5.  To create a legal entity record and set up its digital resilience information for DORA regulation, navigate to the **Legal entity** tab and select **New**.
 
-    For information on setting up the digital resilience information for a legal entity, see [[create-new-legal-entity|Create New Legal entity form]].
+    For information on setting up the digital resilience information for a legal entity, see [Create New Legal entity form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-legal-entity.md).
 
     The Create New Legal Entity form is displayed.
 
@@ -82,19 +82,12 @@ When you install Digital resilience third-party registers, the **Legal entities*
 
 ## What to do next
 
-Set up branches for a legal entity. For more information, see [[create-drtp-reg-branch|Create a branch and enhance digital resilience data]].
+Set up branches for a legal entity. For more information, see [Create a branch and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-branch.md).
 
 -   **[Create New Company form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-legal-entity-form.md)**  
 On the Create New Company form, fill in the fields for the legal entity.
 -   **[Create New Legal entity form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-legal-entity.md)**  
 On the Create New Legal entity form, fill in the fields to set up the digital resilience information.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-new-legal-entity-form|Create New Company form]]
-- [[create-new-legal-entity|Create New Legal entity form]]
-- [[create-drtp-reg-branch|Create a branch and enhance digital resilience data]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]

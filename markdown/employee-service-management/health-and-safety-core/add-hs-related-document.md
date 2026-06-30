@@ -14,7 +14,7 @@ breadcrumb: [Use, Health and Safety Core, Health and Safety, Employee Service Ma
 
 # Add a new Health and Safety related document
 
-Add and store documents [[health-safety-overview|Health and Safety]] related documents so that they can be easily and appropriately referenced in related records.
+Add and store documents Health and Safety related documents so that they can be easily and appropriately referenced in related records.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: sn\_ohs\_im.document\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
@@ -71,7 +71,3 @@ Role required: sn\_ohs\_im.document\_writer
 
 **Parent Topic:**[Using Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/using-hs-core.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

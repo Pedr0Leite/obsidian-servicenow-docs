@@ -14,7 +14,7 @@ breadcrumb: [Agent availability and calendars, Managing workforce, Use, Field Se
 
 # Use Now Assist for FSM to manage shifts
 
-Use Now Assist for FSM to create shifts for [[fsm-application-landing-page|Field Service Management]] technicians.
+Use Now Assist for FSM to create shifts for Field Service Management technicians.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The shift is created and the technician\(s\) receive a push notification telling
 
 [View and reply to task comments from push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/reply-to-push-notification.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

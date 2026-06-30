@@ -14,7 +14,7 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Add a custom product
 
-If you have a product that is not represented in the [[am-landing-page|Asset Management]] Content Service yet, you can create a custom product.
+If you have a product that is not represented in the Asset Management Content Service yet, you can create a custom product.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ After you've created the hardware model, [normalize the model](https://raw.githu
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[am-landing-page|Asset Management]]

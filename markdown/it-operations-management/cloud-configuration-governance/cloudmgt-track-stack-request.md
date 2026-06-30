@@ -14,7 +14,7 @@ breadcrumb: [Launch a stack, Cloud User Portal, Cloud Provisioning and Governanc
 
 # Track a stack request
 
-The system generates a request when you submit the form to [[cloudmgt-launch-stack|launch a stack]].
+The system generates a request when you submit the form to launch a stack.
 
 ## Before you begin
 
@@ -94,7 +94,3 @@ Lists all the catalog tasks created for stacks that failed to provision. Click a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloudmgt-launch-stack|Launch a stack]]

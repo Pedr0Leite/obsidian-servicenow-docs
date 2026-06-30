@@ -25,7 +25,7 @@ The configuration goals include reducing alert noise, enabling predictive issue 
 
 ## Phase 1: Event sources and intelligent correlation
 
-The administrator configures [[c_EM|Event Management]] to aggregate and intelligently correlate alerts from multiple monitoring tools and data sources.
+The administrator configures Event Management to aggregate and intelligently correlate alerts from multiple monitoring tools and data sources.
 
 -   **Event source integration**
 
@@ -44,34 +44,34 @@ The administrator configures [[c_EM|Event Management]] to aggregate and intellig
 
 The administrator configures advanced analytics capabilities that enable proactive issue detection and intelligent insights for operational teams.
 
--   **[[hla-landing-page|Health Log Analytics]] setup**
+-   **Health Log Analytics setup**
 
     HLA is configured to ingest log data from critical applications and infrastructure components. The administrator sets up log parsing rules, anomaly detection thresholds, and predictive models. These models learn normal operational patterns and identify deviations that indicate potential issues.
 
--   **[[operational-metrics|Metric Intelligence]] configuration**
+-   **Metric Intelligence configuration**
 
     Machine learning algorithms are trained on historical performance data to establish baseline behaviors for key metrics. The administrator configures anomaly detection sensitivity.
 
--   **[[synthetic-monitoring-landing-page|Synthetic monitoring]]**
+-   **Synthetic monitoring**
 
     Synthetic transactions are configured to continuously test critical user journeys through API endpoints. The administrator sets up monitoring with 5-minute frequency intervals.
 
--   **[[sr-landing-page|Service Reliability Management]] configuration**
+-   **Service Reliability Management configuration**
 
-    Service Reliability Management is configured to establish incident response workflows, collaboration channels, and automated [[ccg-remediation|remediation]] capabilities. The administrator sets up on-call schedules, escalation policies, and integration with communication platforms. This enables rapid response when alerts require immediate attention.
+    Service Reliability Management is configured to establish incident response workflows, collaboration channels, and automated remediation capabilities. The administrator sets up on-call schedules, escalation policies, and integration with communication platforms. This enables rapid response when alerts require immediate attention.
 
--   **[[slo-landing-page|Service Level Objective Management]] setup**
+-   **Service Level Objective Management setup**
 
     SLO targets are defined for critical business services based on customer expectations and business requirements. The administrator configures SLO monitoring for availability, performance, and error rate metrics. The administrator establishes error budgets and burn rate alerts that provide early warning when services risk missing reliability targets.
 
--   **[[service-observability|Service Observability]] integration**
+-   **Service Observability integration**
 
     Service Observability is configured to combine Observability telemetry from external monitoring tools with CMDB relationship data. This data integration enables rapid identification of issues in specific microservices and their related entities without having to use an external tool.
 
 
 ## Phase 3: Unified workspace and user experience
 
-The administrator configures the [[workspace-dashboard-use|Service Operations Workspace]] to provide role-based [[otto-aiops-dashboards|dashboards]] and workflows that enable efficient operations management.
+The administrator configures the Service Operations Workspace to provide role-based dashboards and workflows that enable efficient operations management.
 
 -   **Dashboard customization**
 
@@ -83,7 +83,7 @@ The administrator configures the [[workspace-dashboard-use|Service Operations Wo
 
 -   **AI-Powered assistance**
 
-    [[now-assist-itom|Now Assist for ITOM]] is configured to provide intelligent alert analysis, recommended actions, and contextual guidance. AI models use organization-specific knowledge including historical incident patterns, common error code translations, and proven remediation procedures to provide insights. Approval workflows are established for high-risk AI-recommended actions while allowing automatic execution of low-risk remediation steps.
+    Now Assist for ITOM is configured to provide intelligent alert analysis, recommended actions, and contextual guidance. AI models use organization-specific knowledge including historical incident patterns, common error code translations, and proven remediation procedures to provide insights. Approval workflows are established for high-risk AI-recommended actions while allowing automatic execution of low-risk remediation steps.
 
 
 ## Phase 4: Performance tuning and optimization
@@ -128,29 +128,14 @@ The comprehensive ITOM AIOps configuration delivers measurable improvements in o
     Alert prioritization and impact analysis directly tied to business service criticality
 
 
-This configuration enables the operational workflows demonstrated in the [[noc-operator-aiops-use-case|NOC operator use case for AIOps]]. The configuration transforms reactive operations into intelligent, proactive service management.
+This configuration enables the operational workflows demonstrated in the [NOC operator use case for AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/noc-operator-aiops-use-case.md). The configuration transforms reactive operations into intelligent, proactive service management.
 
 **Related topics**  
 
 
 [NOC operator use case for AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/noc-operator-aiops-use-case.md)
 
-[[itom-health-landing-page|ITOM AIOps]]
+[ITOM AIOps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-health-landing-page.md)
 
 [Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-landing-page-itom.md)
 
-## Related
-
-- [[noc-operator-aiops-use-case|NOC operator use case for AIOps]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[c_EM|Event Management]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[operational-metrics|Metric Intelligence]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[ccg-remediation|Remediation]]
-- [[slo-landing-page|Service Level Objective Management]]
-- [[service-observability|Service Observability]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[now-assist-itom|Now Assist for ITOM]]

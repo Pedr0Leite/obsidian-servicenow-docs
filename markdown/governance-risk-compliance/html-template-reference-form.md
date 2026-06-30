@@ -12,7 +12,7 @@ breadcrumb: [Create HTML and PDF document templates, Completing general administ
 
 # HTML Template form
 
-If you have the sn\_oper\_res.admin role, use the [[html-template-form-op-vul|HTML Template form]] to create an HTML template instead of using the default HTML template.
+If you have the sn\_oper\_res.admin role, use the HTML Template form to create an HTML template instead of using the default HTML template.
 
 ## HTML Template form
 
@@ -48,7 +48,7 @@ Category
 
 </td><td>
 
-Category of the document template, such as [[grc-opres-landing-page|Operational Resilience]].
+Category of the document template, such as Operational Resilience.
 
 </td></tr><tr><td>
 
@@ -167,8 +167,3 @@ Information about the page. The options are as follows:-   Page size: Size of th
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[html-template-form-op-vul|HTML Template form]]
-- [[grc-opres-landing-page|Operational Resilience]]

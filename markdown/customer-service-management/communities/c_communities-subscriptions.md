@@ -54,7 +54,7 @@ Notification settings
 </table>-   **[Subscribe to content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/subscribe.md)**  
 Subscribe to forums, topics, questions, blogs, and videos. You are automatically subscribed to content that you create.
 -   **[Set notification preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/manage-subscriptions.md)**  
-[[manage-subscriptions|Set notification preferences]] to receive updates via email on the content that you are following.
+Set notification preferences to receive updates via email on the content that you are following.
 
 **Parent Topic:**[Using communities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/using-communities.md)
 
@@ -91,6 +91,3 @@ Subscribe to forums, topics, questions, blogs, and videos. You are automatically
 
 [Gamification]()
 
-## Related
-
-- [[manage-subscriptions|Set notification preferences]]

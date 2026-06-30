@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Agent Client Collector Framework default checks
 
-[[acc-landing-page|Agent Client Collector]] Framework provides default checks with the base system.
+Agent Client Collector Framework provides default checks with the base system.
 
 ## Checks
 
@@ -54,7 +54,7 @@ Restart agent
 
 </td></tr><tr><td>
 
-[[r-discovery|Discovery]]
+Discovery
 
 </td><td>
 
@@ -79,7 +79,3 @@ endpoint\_discovery.rb
 
 **Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[r-discovery|Discovery]]

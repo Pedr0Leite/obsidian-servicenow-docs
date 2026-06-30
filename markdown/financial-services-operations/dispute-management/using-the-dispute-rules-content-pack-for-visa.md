@@ -14,7 +14,7 @@ breadcrumb: [Dispute Rules Content Pack for Visa, Dispute Management, Banking ap
 
 # Using the Dispute Rules Content Pack for Visa
 
-Dispute agents use the [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]'s questionnaire to help customers in completing the reason code mapping. This enables the categorization of the dispute and determines eligibility according to the Visa Core Rules. Learn how agents initiate, investigate, and resolve dispute cases.
+Dispute agents use the Dispute Rules Content Pack for Visa's questionnaire to help customers in completing the reason code mapping. This enables the categorization of the dispute and determines eligibility according to the Visa Core Rules. Learn how agents initiate, investigate, and resolve dispute cases.
 
 ## Dispute Rules Content Pack for Visa workflows
 
@@ -32,6 +32,4 @@ When an agent disputes a transaction on behalf of a customer, a dispute service 
 
     Submit the case for investigation by updating the dispute amount and determine your eligibility for a chargeback through the questionnaire and reason code mapping.
 
-## Related
 
-- [[dispute-rules-content-pack-for-visa-landing-page-1|Dispute Rules Content Pack for Visa]]

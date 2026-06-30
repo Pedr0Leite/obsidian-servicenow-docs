@@ -20,7 +20,7 @@ Role required: workspace\_user
 
 ## About this task
 
-If there’s an **Add** button on a related list within a record's Related records tab, you can add records to [[c_RelatedLists|related lists]]. Add records to a related list when you find records related to an open record.
+If there’s an **Add** button on a related list within a record's Related records tab, you can add records to related lists. Add records to a related list when you find records related to an open record.
 
 For example, an open record documents a power outage in one location. When there's a power outage in a second location, you can add that outage's record to the related list for the first record.
 
@@ -46,7 +46,7 @@ For example, an open record documents a power outage in one location. When there
 
 5.  Select the records that you want to add to the related list.
 
-    -   Use the [[c_ConditionBuilder|condition builder]] to filter records.
+    -   Use the condition builder to filter records.
     -   Select the check box for each record to select multiple records at once.
     -   Select the check box in the row header to select all records.
     -   Records selected on one page remain selected as you move to other pages.
@@ -58,7 +58,3 @@ For example, an open record documents a power outage in one location. When there
 
 The records you selected appear in the related list for the record.
 
-## Related
-
-- [[c_RelatedLists|Related lists]]
-- [[c_ConditionBuilder|Condition builder]]

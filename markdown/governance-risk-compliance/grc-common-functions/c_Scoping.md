@@ -14,7 +14,7 @@ breadcrumb: [Explore entities, Common GRC features, Governance, Risk, and Compli
 
 # Entity scoping in GRC
 
-Entity scoping is permitted in each of the core GRC applications. Scoping provides a way to allocate risks and controls at different levels. Dependencies are created using the dependency map in the [[grc-workbench|GRC Workbench]].
+Entity scoping is permitted in each of the core GRC applications. Scoping provides a way to allocate risks and controls at different levels. Dependencies are created using the dependency map in the GRC Workbench.
 
 ## Entity scoping overview
 
@@ -24,10 +24,10 @@ Organizations have various control owners maintaining individual files and sprea
 
 \[Omitted image "entity-approach.png"\] Alt text: Legacy bottom-up approach to improved top-down system
 
-1.  Create or edit **[[entity-type-in-risk-ws|Entity Types]]** and map them using the **Entity Filter** to existing ServiceNow® tables.
+1.  Create or edit **Entity Types** and map them using the **Entity Filter** to existing ServiceNow® tables.
 2.  Map these entity types to external regulations and internal policies using control objectives and risk statements.
 3.  Generate risk and control instances on related entities.
-4.  Maintain your risk appetite and [[scoring-results|scoring results]] by the aggregated calculation for entities; all combos for risk scores on risk roll up.
+4.  Maintain your risk appetite and scoring results by the aggregated calculation for entities; all combos for risk scores on risk roll up.
 
 \[Omitted image "scoping-process.png"\] Alt text: image shows scoping process with old and new terms
 
@@ -40,8 +40,3 @@ Create relationships between entities to understand how controls and risks affec
 
 **Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 
-## Related
-
-- [[grc-workbench|grc workbench]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[scoring-results|Scoring results]]

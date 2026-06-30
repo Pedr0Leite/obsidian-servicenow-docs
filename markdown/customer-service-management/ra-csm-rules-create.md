@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Recommended Actions application, Recommended Action
 
 # Create a rule in Recommended Actions
 
-Create a rule for a context that determines when [[configure-nba|recommended actions]] are made available to agents.
+Create a rule for a context that determines when recommended actions are made available to agents.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_nb\_action.next\_best\_action\_author, or admin
 
 ## About this task
 
-New [[gamification-components-rules|rules]] can be created from the context records only.
+New rules can be created from the context records only.
 
 ## Procedure
 
@@ -46,7 +46,7 @@ New [[gamification-components-rules|rules]] can be created from the context reco
 
 9.  Enable the **Apply to tables extended from the context table** check box, so that the rule and its recommendations are applied to tables that are extended from the context table.
 
-    For more information, see [[ra-csm-rules|Apply rules to tables extended from the context table]].
+    For more information, see [Apply rules to tables extended from the context table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-rules.md).
 
 10. In the **Fields affecting this rule** field, add fields from the context table that must be monitored for changes.
 
@@ -58,8 +58,4 @@ New [[gamification-components-rules|rules]] can be created from the context reco
 
 12. Click **Submit**.
 
-## Related
 
-- [[ra-csm-rules|Rules in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]
-- [[gamification-components-rules|Rules]]

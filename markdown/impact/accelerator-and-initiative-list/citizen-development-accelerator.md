@@ -18,9 +18,9 @@ Provides prescriptive guidance on enabling Citizen Development for your ServiceN
 
 ## Accelerator Overview
 
-The Citizen Development Program Design Accelerator provides [[impact-landing-page|Impact]] customers with prescriptive guidance to effectively  develop a Citizen Development Program for the ServiceNow platform. ServiceNow technology empowers non coders, known as Citizen Developers, to build new applications and workflows without having prior coding knowledge using low-code development.
+The Citizen Development Program Design Accelerator provides Impact customers with prescriptive guidance to effectively  develop a Citizen Development Program for the ServiceNow platform. ServiceNow technology empowers non coders, known as Citizen Developers, to build new applications and workflows without having prior coding knowledge using low-code development.
 
-This Accelerator includes workshops to assess and create a prioritized list of candidates for Citizen Development, determine the required screening and training for them, and assess operational and [[technical-governance|technical governance]] to identify any necessary adjustments.
+This Accelerator includes workshops to assess and create a prioritized list of candidates for Citizen Development, determine the required screening and training for them, and assess operational and technical governance to identify any necessary adjustments.
 
 For more information on the Citizen Development and low code development, see [Exploring App Engine Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/exploring-aes.md).
 
@@ -85,7 +85,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator Ac
 
 ServiceNow is not responsible setting up or for implementing App Engine' recommendations on Customer’s sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[technical-governance|Technical Governance]]

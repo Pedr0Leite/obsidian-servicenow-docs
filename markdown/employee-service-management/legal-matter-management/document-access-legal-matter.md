@@ -42,7 +42,7 @@ The scheduled job **Process External Storage Permissions** runs at the defined i
 
     **Note:** Requesters can delete only those documents from the request that they've attached.
 
--   The matter owner assigned to the legal matter can access documents from the **Documents** tab of the Artifacts record in the [[legal-counsel-center-landing|Legal Counsel Center]].
+-   The matter owner assigned to the legal matter can access documents from the **Documents** tab of the Artifacts record in the Legal Counsel Center.
 -   Users added to the matter can request on-demand access to documents if they need access before the scheduled job is run.
 -   The legal admin can revoke a user's access to documents of a legal matter and legal requests.
 -   Ad hoc approvers lose document access after they approve or reject the requested item.
@@ -55,6 +55,3 @@ Remove existing users' access to documents attached to a legal matter's artifact
 
 **Parent Topic:**[Create an artifact for a legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/add-artifact-to-legal-matter.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

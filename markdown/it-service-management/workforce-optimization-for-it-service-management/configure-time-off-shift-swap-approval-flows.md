@@ -44,7 +44,7 @@ Then
 
 </th><th>
 
-[[reference-for-itsm-mobile-agent|Reference]] image
+Reference image
 
 </th></tr></thead><tbody><tr><td>
 
@@ -136,6 +136,3 @@ Enter the due date for the requestee agent to approve.\[Omitted image "shift-swa
 
 [Build your first flow in Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/build-your-first-flow.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

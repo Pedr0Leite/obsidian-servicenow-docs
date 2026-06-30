@@ -40,7 +40,7 @@ If Zero Trust Access is enabled on mobile, the following scenarios trigger a che
 
 If the session access state changes, the user is informed with a banner and the app refreshes to the home tab. If session access privilege is reduced while the user is impersonating, the session isrelegated and ends the impersonation mode.
 
-To turn off the banner display on mobile app screens when the connection state changes, set the **disableZTABanner** mobile property to `True`. For more information, see [[turn-off-zta-banner|Turn off the Zero Trust Access banner on mobile apps]].
+To turn off the banner display on mobile app screens when the connection state changes, set the **disableZTABanner** mobile property to `True`. For more information, see [Turn off the Zero Trust Access banner on mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/turn-off-zta-banner.md).
 
 **Note:**
 
@@ -51,9 +51,5 @@ This feature is not yet fully supported with mobile offline capability. Mobile o
 
 Typically, users should not to opt in for mobile offline and ZTA together. However, if users want both then they should create a group of users to whom the ZTA policy should not be applied. This group of users would contain mobile offline users, and if ZTA is enabled, the access policies can be defined to exclude ZTA offline users.
 
-**Parent Topic:**[[zero-trust-access-for-mobile|Securing your ServiceNow mobile instance with Zero Trust Access]]
+**Parent Topic:**[Securing your ServiceNow mobile instance with Zero Trust Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/zero-trust-access-for-mobile.md)
 
-## Related
-
-- [[turn-off-zta-banner|Turn off the Zero Trust Access banner on mobile apps]]
-- [[zero-trust-access-for-mobile|Securing your ServiceNow mobile instance with Zero Trust Access]]

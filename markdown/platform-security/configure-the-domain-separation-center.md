@@ -20,17 +20,17 @@ Role required: admin
 
 ## About this task
 
-You can [[schedule-audits|schedule audits]] to run on a daily, weekly, or monthly basis. Audits run on large tables can take a significant amount of time. For that reason, avoid running audits daily on large tables. Starting a new audit on one that is taking more than a day to run can have negative consequences.
+You can schedule audits to run on a daily, weekly, or monthly basis. Audits run on large tables can take a significant amount of time. For that reason, avoid running audits daily on large tables. Starting a new audit on one that is taking more than a day to run can have negative consequences.
 
 Detailed logging can provide greater insights into problems found during audits, however might cause performance issues.
 
 ## Procedure
 
-1.  In the [[domain-separation-center|Domain Separation Center]], select **Configure Domain Center**.
+1.  In the Domain Separation Center, select **Configure Domain Center**.
 
     The Configure Domain Center page appears.
 
-2.  Select **Yes** for **Enables detail domain logging**, to store detailed [[logs|logs]] that help diagnose domain-related issues.
+2.  Select **Yes** for **Enables detail domain logging**, to store detailed logs that help diagnose domain-related issues.
 
     These logs refer to server-side logs in the Domain Log \[syslog\_domain\] table. For information about viewing the logs, see the View audits with warnings and failures section.
 
@@ -42,8 +42,4 @@ Detailed logging can provide greater insights into problems found during audits,
 
 5.  If you have large tables that should never be audited, set the **com.glide.domain.audit.big\_tables.additional** system property to a comma-separated list of those table names.
 
-## Related
 
-- [[schedule-audits|Schedule audits]]
-- [[domain-separation-center|Domain Separation Center]]
-- [[logs|Logs]]

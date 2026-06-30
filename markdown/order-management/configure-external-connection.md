@@ -12,7 +12,7 @@ breadcrumb: [Set up External connections for configuration rules, CPQ app, Confi
 
 # Create an external connection
 
-Create an external connection in CPQ to enable enrichments to retrieve data from an external system for use in configuration [[rules_101|rules]].
+Create an external connection in CPQ to enable enrichments to retrieve data from an external system for use in configuration rules.
 
 ## Before you begin
 
@@ -28,11 +28,11 @@ External connections are used in configuration rules only. They can only be call
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **CPQ Administration** &gt; **[[cpq-utilities|Utilities]]** &gt; **External Connections**.
+1.  Navigate to **All** &gt; **CPQ Administration** &gt; **Utilities** &gt; **External Connections**.
 
 2.  Select **+New** to create a new external connection.
 
-3.  In the **Authentication type** field, select the credential method that the external system requires, then complete the [[fields|fields]] for that authentication type.
+3.  In the **Authentication type** field, select the credential method that the external system requires, then complete the fields for that authentication type.
 
 <table><thead><tr><th align="left" id="d103299e146">
 
@@ -95,7 +95,7 @@ Complete the following fields:-   **Client ID**: Client identifier created for C
 
 ## Result
 
-The external connection is saved and available to call from enrichment [[scripts|scripts]].
+The external connection is saved and available to call from enrichment scripts.
 
 ## BOM enrichment using an external pricing connection
 
@@ -146,12 +146,5 @@ return ProductList;
 **Related topics**  
 
 
-[[external-connections|Set up External connections for configuration rules]]
+[Set up External connections for configuration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/external-connections.md)
 
-## Related
-
-- [[external-connections|Set up External connections for configuration rules]]
-- [[rules_101|Rules]]
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]
-- [[scripts|Scripts]]

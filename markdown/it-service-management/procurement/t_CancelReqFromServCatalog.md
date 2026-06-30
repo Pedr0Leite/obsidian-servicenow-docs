@@ -18,7 +18,7 @@ You can cancel a request from the service catalog if, for example, the item is n
 
 ## Before you begin
 
-Role required: catalog\_admin, [[c_Procurement|procurement]]\_admin, or procurement\_user
+Role required: catalog\_admin, procurement\_admin, or procurement\_user
 
 ## About this task
 
@@ -52,6 +52,3 @@ Associated transfer order lines that are in the **In Transit** or **Delivered** 
 
 [Create an asset and reserve it for the requester]()
 
-## Related
-
-- [[c_Procurement|Procurement]]

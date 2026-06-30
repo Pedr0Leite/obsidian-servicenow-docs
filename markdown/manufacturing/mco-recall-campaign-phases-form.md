@@ -12,7 +12,7 @@ breadcrumb: [Repair form, Reference, Manufacturing Commercial Operations]
 
 # Recall campaign phase form
 
-The recall campaign phase form enables you to add the [[mco-rcl-clms|recall campaign]] phases details.
+The recall campaign phase form enables you to add the recall campaign phases details.
 
 <table id="table_sdt_5jj_wfc"><thead><tr><th>
 
@@ -107,17 +107,12 @@ Description
 Brief description about the recall campaign phase.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
 [mco-rc-all-campaign-phases]
 
-[[mco-rc-my-campaign-phases|Create My campaign phases]]
+[Create My campaign phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-rc-my-campaign-phases.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-rc-my-campaign-phases|Create My campaign phases]]
-- [[mco-rcl-clms|Recall campaign]]

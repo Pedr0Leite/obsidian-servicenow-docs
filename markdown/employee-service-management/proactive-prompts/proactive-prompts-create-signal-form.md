@@ -14,7 +14,7 @@ breadcrumb: [Reference for Proactive Prompts, Proactive Prompts, HR Service Deli
 
 # Signal configuration form
 
-Form to [[proactive-prompts-signal-create|create a signal in Proactive Prompts]].
+Form to create a signal in Proactive Prompts.
 
 <table id="table_i32_kgc_pvb"><thead><tr><th>
 
@@ -121,7 +121,7 @@ Prompt header
 
 </td><td>
 
-Icon and label displayed on the [[employee-center-portal-overview|Employee Portal]] to identify the type of prompt. For example, you could have headers for Skills, [[exploring-learning-exp|Learning]], Roles, and so on.For information on adding headers, see [Add a new prompt header to identify the prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-add-header.md).
+Icon and label displayed on the Employee Portal to identify the type of prompt. For example, you could have headers for Skills, Learning, Roles, and so on.For information on adding headers, see [Add a new prompt header to identify the prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-add-header.md).
 
 </td></tr><tr><td>
 
@@ -171,8 +171,3 @@ A URL that the user can access in the **View details** action on the Employee Po
 
 [Signal data source form]()
 
-## Related
-
-- [[proactive-prompts-signal-create|Create a signal in Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[exploring-learning-exp|Learning]]

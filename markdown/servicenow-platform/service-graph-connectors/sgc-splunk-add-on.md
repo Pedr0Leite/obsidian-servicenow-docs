@@ -14,18 +14,18 @@ breadcrumb: [Splunk, Service Graph Connectors, Integrating third-party data into
 
 # Service Graph Connector for Splunk add-on
 
-Import more detailed asset data with the [[sgc-splunk-integration|Service Graph Connector for Splunk]] with an add-on developed by ServiceNow engineering. The add-on permits you to import data about your Windows and Linux assets.
+Import more detailed asset data with the Service Graph Connector for Splunk with an add-on developed by ServiceNow engineering. The add-on permits you to import data about your Windows and Linux assets.
 
 ## Service Graph Connector for Splunk
 
-The Service Graph Connector for Splunk retrieves computer and software information from the Splunk product and imports it into the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] in your instance. By default, the following basic data is imported:
+The Service Graph Connector for Splunk retrieves computer and software information from the Splunk product and imports it into the Configuration Management Database \(CMDB\) in your instance. By default, the following basic data is imported:
 
 -   Forwarder's version \(agent\)
 -   Forwarder's type \(agent\)
 -   Forwarder's last check-in time \(agent\)
 -   OS
 -   Host
--   Host [[ip-address|IP address]]
+-   Host IP address
 
 The service graph connector for Splunk is available on the ServiceNow® Store.
 
@@ -75,8 +75,3 @@ This add-on supports the following types of deployments:
 
 See Splunk documentation for more information about their supported workloads.
 
-## Related
-
-- [[sgc-splunk-integration|Service Graph Connector for Splunk]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[ip-address|IP Address]]

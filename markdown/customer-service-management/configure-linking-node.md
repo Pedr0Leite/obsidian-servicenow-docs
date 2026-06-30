@@ -24,7 +24,7 @@ Create a linking path first. A linking node is automatically created with the sa
 
 The execution of the linked decision tree begins when a specific condition specified in the linking path is met. The linking node holds a reference of the start node in the next decision tree.
 
-You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]].
+You can edit or extend existing decision trees in the Core UI but you can no longer create them. Use Decision Tree Builder to create new decision trees. For more information, see [Configuring decision trees in Decision Tree Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/decision-trees-in-gdb.md).
 
 ## Procedure
 
@@ -38,6 +38,4 @@ You can edit or extend existing decision trees in the Core UI but you can no lon
 
 5.  Select **Update**.
 
-## Related
 
-- [[decision-trees-in-gdb|Configuring decision trees in Decision Tree Builder]]

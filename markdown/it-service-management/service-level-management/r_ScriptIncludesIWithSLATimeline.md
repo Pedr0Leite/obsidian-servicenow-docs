@@ -14,7 +14,7 @@ breadcrumb: [Activate SLA timeline, Service Level Management plugins, Configurin
 
 # Script includes installed with SLA timeline
 
-When [[c_SLATimeline|SLA timeline]] is activated, script includes are installed.
+When SLA timeline is activated, script includes are installed.
 
 SLA timeline adds the following script includes.
 
@@ -27,6 +27,3 @@ SLA timeline adds the following script includes.
 
 **Parent Topic:**[Activate SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_ActivateSLATimeline.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]

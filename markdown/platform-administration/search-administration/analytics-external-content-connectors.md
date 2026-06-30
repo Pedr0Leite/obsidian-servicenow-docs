@@ -15,7 +15,7 @@ breadcrumb: [Reference, External Content Connectors, Search administration, Conf
 
 # Analytics for external content connectors
 
-[[c_MetricDefinitionSupport|Metrics]] that show how your external content connector has run over time.
+Metrics that show how your external content connector has run over time.
 
 You can view analytics for an external content connector by navigating to the **Analytics** tab in the connector editor. For more details on this procedure, see [Review analytics for an external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/review-analytics-external-content-connector.md).
 
@@ -39,7 +39,7 @@ Documents indexed
 
 </td><td>
 
-**Timeseries visualization:** Graph shows the number of items \(documents with searchable content and metadata\) the connector retrieved that were included in the [[ia-ai-search|AI Search]] index for each date in the selected date range.
+**Timeseries visualization:** Graph shows the number of items \(documents with searchable content and metadata\) the connector retrieved that were included in the AI Search index for each date in the selected date range.
 
 </td></tr><tr><td>
 
@@ -154,7 +154,3 @@ User permission crawls
 </td></tr></tbody>
 </table>**Parent Topic:**[External Content Connectors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/reference-ext-cont-connectors.md)
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[ia-ai-search|AI Search]]

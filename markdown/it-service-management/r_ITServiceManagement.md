@@ -19,7 +19,7 @@ The ITSM solution can help increase your agents' productivity, resolve issues qu
 
 ## Transform the impact, speed, and delivery of IT services
 
-The ServiceNow AI Platform was built for the cloud and has its own shared data model, AI, and workflow automation that are leveraged by many IT [[dex-workspace-application-tab|applications]]. The combination of the ServiceNow platform and applications helps you increase productivity by automatically identifying and resolving issues, which reduces the negative business impacts of unplanned, non-strategic work.
+The ServiceNow AI Platform was built for the cloud and has its own shared data model, AI, and workflow automation that are leveraged by many IT applications. The combination of the ServiceNow platform and applications helps you increase productivity by automatically identifying and resolving issues, which reduces the negative business impacts of unplanned, non-strategic work.
 
 [View and download the full infocard](https://downloads.docs.servicenow.com/resource/enus/infocard/itsm-statcard-paris.pdf) for a highlight of ITSM features.
 
@@ -53,7 +53,7 @@ Improve IT productivityUse machine learning algorithms and virtual agents to aut
 
 </td><td>
 
-Gain visibility into processes and servicesGet full visibility into any process or service with built-in dashboards and analytics providing real-time, actionable information to improve [[service-quality-ref|service quality]].
+Gain visibility into processes and servicesGet full visibility into any process or service with built-in dashboards and analytics providing real-time, actionable information to improve service quality.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Reduce the number of separate tools your company uses to provide a consistent se
 
 ## Improve IT productivity
 
-Accelerate resolution with built-in machine learning. Chatbots provide immediate resolution to common questions. With [[itsm-virtual-agent|ITSM Virtual Agent]] in action, you can have employees with 24\*7 support service. Service desk agents can take advantage of machine-learning automation to resolve incidents and recommend resolutions for agents based on similar incidents solved in the past.
+Accelerate resolution with built-in machine learning. Chatbots provide immediate resolution to common questions. With ITSM Virtual Agent in action, you can have employees with 24\*7 support service. Service desk agents can take advantage of machine-learning automation to resolve incidents and recommend resolutions for agents based on similar incidents solved in the past.
 
 ## Gain visibility into processes and services
 
@@ -86,7 +86,7 @@ Make smarter decisions with real-time analytics across the entire IT value chain
 
 ## Provide mobile connectivity
 
-Stay connected and access information in real time using the [[itsm-mobile-agent|ITSM mobile agent]]. You can access work assigned to you or your group, receive push notifications, and approve or reject change requests and requested items. The ITSM mobile agent is available on the iOS platform from the Apple App Store or on the Android platform from the Google Play Store.
+Stay connected and access information in real time using the ITSM mobile agent. You can access work assigned to you or your group, receive push notifications, and approve or reject change requests and requested items. The ITSM mobile agent is available on the iOS platform from the Apple App Store or on the Android platform from the Google Play Store.
 
 ## Edge Encryption for ITSM Virtual Agent within ITSM
 
@@ -109,7 +109,7 @@ To configure edge encryption, see [Edge Encryption configuration](https://raw.gi
 -   Get answers to common questions and connect with other ITSM users in the [ServiceNow ITSM community](https://www.servicenow.com/community/itsm/ct-p/it-service-management).
 -   Learn about the ITSM packages on the [ServiceNow Products website](https://www.servicenow.com/products/itsm.html).
 -   Take an ITSM course. To sign up, go to [ServiceNow training and certification](https://www.servicenow.com/services/training-and-certification.html).
--   Set up an [[c_IncidentManagement|Incident Management]] to start managing service interruptions. For more information, see [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md).
+-   Set up an Incident Management to start managing service interruptions. For more information, see [Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/c_IncidentManagement.md).
 
 ## Learn
 
@@ -128,12 +128,12 @@ To configure edge encryption, see [Edge Encryption configuration](https://raw.gi
 
 ## Applications and features
 
--   [[machine-learning-itsm|Machine learning solutions for IT Service Management]]
+-   [Machine learning solutions for IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/machine-learning-itsm.md)
 -   [Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm.md)
 -   [Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/asset-management/c_AssetManagement.md)
--   [[benchmarks-landing|Benchmarks]]
+-   Benchmarks
 -   [Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ITILChangeManagement.md)
--   [[cf-coaching-landing|Coaching]]
+-   Coaching
 -   [Collaboration services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/collaboration-services/collab-services-tcm.md)
 -   [Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-landing-page.md)
 -   [Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/contract-management/c_ContractManagement.md)
@@ -149,7 +149,7 @@ To configure edge encryption, see [Edge Encryption configuration](https://raw.gi
 -   [ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent/itsm-virtual-agent.md)
 -   [ITSM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-mobile-agent/itsm-mobile-agent.md)
 -   [ITSM Success Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/success-dashboard-indicator-landing.md)
--   [[itsm-dashboards-content-pack|ITSM Platform Analytics Solutions]]
+-   [ITSM Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-dashboards-content-pack.md)
 -   ITSM Predictive Intelligence Workbench
 -   [On-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/c_OnCallScheduling.md)
 -   [Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management-landing-page.md)
@@ -170,14 +170,3 @@ To configure edge encryption, see [Edge Encryption configuration](https://raw.gi
 -   [Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-landing-page.md)
 -   [Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/workforce-optimization-itsm-landing-page.md)
 
-## Related
-
-- [[machine-learning-itsm|Machine learning solutions for IT Service Management]]
-- [[itsm-dashboards-content-pack|itsm dashboards content pack]]
-- [[dex-workspace-application-tab|Applications]]
-- [[service-quality-ref|Service Quality]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[itsm-mobile-agent|ITSM Mobile Agent]]
-- [[c_IncidentManagement|Incident Management]]
-- [[benchmarks-landing|Benchmarks]]
-- [[cf-coaching-landing|Coaching]]

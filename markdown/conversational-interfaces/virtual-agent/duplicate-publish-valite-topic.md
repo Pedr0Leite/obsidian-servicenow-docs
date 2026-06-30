@@ -15,7 +15,7 @@ breadcrumb: [Virtual Agent Lite, Explore, Virtual Agent, Conversational Interfac
 
 # Duplicate and publish Virtual Agent Lite topics
 
-Copy and publish a pre-built ITSM [[va-lite|Virtual Agent Lite]] topic to deploy it to your users.
+Copy and publish a pre-built ITSM Virtual Agent Lite topic to deploy it to your users.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  In the topic that you've tested, select **Duplicate** in the triple-dot icon on the [[virtual-agent-landing-page|Virtual Agent]] Designer header bar.
+1.  In the topic that you've tested, select **Duplicate** in the triple-dot icon on the Virtual Agent Designer header bar.
 
     1.  In the pop-up window, enter the name of your duplicated topic.
 
@@ -54,7 +54,3 @@ For example, in the Microsoft Teams integration, the topic selection menu displa
 
 \[Omitted image "va-lite-msteams.png"\] Alt text: Microsoft Teams conversation showing a welcome message with topic choices and asking to type hi to if you need further help.
 
-## Related
-
-- [[va-lite|Virtual Agent Lite]]
-- [[virtual-agent-landing-page|Virtual Agent]]

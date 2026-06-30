@@ -20,7 +20,7 @@ As a demand progresses through the demand life cycle, a risk might result in an 
 
 -   Ability to create related records without having to enter the relevant information manually.
 -   Helps you analyze and identify patterns, trends, and probable resolution for planning future demands.
--   Enables you to view a consolidated list of all converted RIDAC records using the **View RIDAC** related link on the [[demand-form|Demand form]].
+-   Enables you to view a consolidated list of all converted RIDAC records using the **View RIDAC** related link on the Demand form.
 
 Consider the following points before converting or associating RIDAC records:
 
@@ -40,7 +40,7 @@ As a demand manager, develop a plan to manage risks and issues proactively with 
 -   **[Add actions for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/add-actions-for-demand.md)**  
 Add actions that are required for resolving an issue or risk for a demand. You can also convert a risk, issue, or decision to an action based on your analysis and plan for resolution of a risk or issue.
 -   **[Add Request Changes to a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/add-request-change-for-demand.md)**  
-As a demand manager, you might [[create-project-change-request|create a request change]] as the outcome of the action taken to resolve an issue or mitigate a risk. The request change might result in changing the demand's scope, resource requirement, cost, or schedule to minimize the impact of a risk or issue.
+As a demand manager, you might create a request change as the outcome of the action taken to resolve an issue or mitigate a risk. The request change might result in changing the demand's scope, resource requirement, cost, or schedule to minimize the impact of a risk or issue.
 -   **[Convert one RIDAC \(Risk, Issue, Decision, Action, and Request Change\) record to another for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/convert-ridac-for-demand.md)**  
 Convert one RIDAC record \(risk, issue, action, decision, and request changes\) to another, in that order to retain the record information instead of having to create a record manually and to track the issue more easily.
 -   **[Associate existing RIDAC \(risks, issues, actions, decisions, and request changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/reassociate-ridac-demand.md)**  
@@ -65,19 +65,13 @@ Link existing RIDAC records \(risks, issues, actions, decisions, and request cha
 
 [Move and resize a demand]()
 
-[Train the similarity solution for [[c_DemandManagement|Demand Management]] to find similar demands]()
+[Train the similarity solution for Demand Management to find similar demands]()
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[create-project-change-request|Create a request change]]
-- [[c_DemandManagement|Demand Management]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

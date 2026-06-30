@@ -12,7 +12,7 @@ breadcrumb: [Components, Record pages and page templates, CSM Configurable Works
 
 # Collaborate component
 
-Use the Collaborate component in [[csm-workspaces-configure|CSM Configurable Workspace]] to communicate with stakeholders and gather information for case resolution.
+Use the Collaborate component in CSM Configurable Workspace to communicate with stakeholders and gather information for case resolution.
 
 \[Omitted image "csm-config-ws-collaboration-component.png"\] Alt text: The collaboration component displays the available configured services when an agent initiates a new conversation.
 
@@ -20,7 +20,7 @@ Customer service agents can use the Collaborate component to initiate chats and 
 
 The Collaborate component requires configured integrations with communication services such as Microsoft Teams, Slack, and Zoom. When no integrations have been configured, agents can use the Collaborate component to start Sidebar discussions.
 
-The Collaborate component is available as the last tab in the contextual side panel in CSM Configurable Workspace. The Collaborate component is available on all CSM Configurable Workspace [[csm-config-ws-pages-templates|record pages]] where the table is set to one of the following:
+The Collaborate component is available as the last tab in the contextual side panel in CSM Configurable Workspace. The Collaborate component is available on all CSM Configurable Workspace [record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-pages-templates.md) where the table is set to one of the following:
 
 -   Interaction \[interaction\]
 -   A child of the Task \[task\] table, such as the Case table \[sn\_customerservice\_case\]
@@ -53,13 +53,8 @@ The Collaborate component can also be configured to use different communication 
 
 ## Collaborate component extension points
 
-Customers can implement the following extension [[gamification-components-points|points]] to customize conditions for visibility of the Call and Chat tabs in the Collaborate component:
+Customers can implement the following extension points to customize conditions for visibility of the Call and Chat tabs in the Collaborate component:
 
 -   sn\_uib\_notify.NotifyUIBVisibility
 -   sn\_uib\_collab.ContextualPanelVisibility
 
-## Related
-
-- [[csm-config-ws-pages-templates|CSM Configurable Workspace record pages and page templates]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[gamification-components-points|Points]]

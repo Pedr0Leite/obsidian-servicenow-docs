@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Portal, Service Portal, Configure UIs and porta
 
 # Configuring search in a portal
 
-[[c_ServicePortal|Service Portal]] displays search results data within a widget on the search page. To make data searchable from Service Portal, you can fetch data from a single table within your ServiceNow instance, from multiple ServiceNow tables, or from an external site.
+Service Portal displays search results data within a widget on the search page. To make data searchable from Service Portal, you can fetch data from a single table within your ServiceNow instance, from multiple ServiceNow tables, or from an external site.
 
 ## Search engines
 
@@ -33,7 +33,7 @@ Generate relevant search suggestions for your users and monitor search analytics
 
 -   **Generate suggestions from custom widgets**
 
-    By default, the Search Events \[sys\_search\_event\] and Search Source Events \[sys\_search\_source\_event\] tables collect search data from base system [[search-widgets|search widgets]]. To generate search analytics from custom Service Portal search widgets, use the GlideSPSearchAnalytics API. For more information, see GlideSPSearchAnalytics.
+    By default, the Search Events \[sys\_search\_event\] and Search Source Events \[sys\_search\_source\_event\] tables collect search data from base system search widgets. To generate search analytics from custom Service Portal search widgets, use the GlideSPSearchAnalytics API. For more information, see GlideSPSearchAnalytics.
 
 
 ## Performance guidelines
@@ -43,18 +43,12 @@ To avoid performance degradation and improve the search experience for end users
 -   Limit search sources when possible to perform only the necessary query. For example, if a search only needs to return active incidents, add a condition to the search source set to **\[Active\]** **\[is\]** **\[true\]**. A search that queries only active incidents is faster than a search that queries all records in the incident table.
 -   Create facet items and mapped queries with no more than 30 filter items. To verify, test each search source with a variety of keywords as a user with low permissions.
 
-**Note:** Service Portal search results display as text only. HTML [[c_Tags|tags]], images, and formatting do not display in search results.
+**Note:** Service Portal search results display as text only. HTML tags, images, and formatting do not display in search results.
 
 -   **[AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ai-search.md)**  
-[[configure-onboarding-modals|Configure]] the ServiceNow AI Search application for Service Portal so that portal users can take advantage of intelligent query features and quickly find the answers they need.
+Configure the ServiceNow AI Search application for Service Portal so that portal users can take advantage of intelligent query features and quickly find the answers they need.
 -   **[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)**  
 Service Portal search supports the ServiceNow Zing text indexing and search engine. Zing allows you to index and search record data by table and is created entirely with ServiceNow code and implemented within the relational model.
 
 **Parent Topic:**[Configuring Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/configuring-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[search-widgets|Search widgets]]
-- [[c_Tags|Tags]]
-- [[configure-onboarding-modals|Configure]]

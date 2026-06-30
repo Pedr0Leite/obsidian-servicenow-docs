@@ -16,7 +16,7 @@ breadcrumb: [Purchase lines, Sourcing and Purchasing Automation, Explore, Sourci
 
 A prepayment is the amount paid for services before their receipt or invoiced due date. When an invoice is issued for a pre-payment, it is against the pre-paid account. During the defined pre-paid period, the amount is amortized accordingly against the capex or expense account.
 
-The **Pre-payments required** field on the purchase line indicates if pre-payments can be credited to the [[supplier|supplier]] against a purchase. Selecting this field also results in the display of the Pre-payments related list on the purchase line. The pre-payment information is carried over to a [[purchase-order-table|purchase order]] line whenever a purchase order is created.
+The **Pre-payments required** field on the purchase line indicates if pre-payments can be credited to the supplier against a purchase. Selecting this field also results in the display of the Pre-payments related list on the purchase line. The pre-payment information is carried over to a purchase order line whenever a purchase order is created.
 
 The following are the key fields of a prepayment:
 
@@ -54,7 +54,7 @@ The purchase line associated with this pre-payment. This field is auto-populated
 
 </td></tr><tr><td>
 
-[[purchase-requisition|Purchase requisition]]
+Purchase requisition
 
 </td><td>
 
@@ -165,8 +165,3 @@ The end date of the pre-payment period, after which no pre-payments are made.
 
 **Parent Topic:**[Purchase lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-lines.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]

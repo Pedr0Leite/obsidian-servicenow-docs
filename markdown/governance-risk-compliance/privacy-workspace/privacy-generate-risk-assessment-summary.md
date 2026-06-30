@@ -14,11 +14,11 @@ breadcrumb: [Now Assist for Privacy Management, Privacy Management, Governance, 
 
 # Use Risk assessment summarization skill to generate summary
 
-Use Risk assessment summarization skill to [[generate-risk-assessment-summary-genai|generate a risk assessment summary]] that is based on inherent risks, residual risks, target risks, and control effectiveness data. Your approvers get the key insights to understand the context quickly, and you can reduce the time involved in creating summaries manually.
+Use Risk assessment summarization skill to generate a risk assessment summary that is based on inherent risks, residual risks, target risks, and control effectiveness data. Your approvers get the key insights to understand the context quickly, and you can reduce the time involved in creating summaries manually.
 
 ## Before you begin
 
-Install the [[now-assist-for-privacy-management|Now Assist for Privacy Management]] application to generate a risk assessment summary. For more information, see [Install Now Assist for Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-install-now-assist.md).
+Install the Now Assist for Privacy Management application to generate a risk assessment summary. For more information, see [Install Now Assist for Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-install-now-assist.md).
 
 Role required: The sn\_prm\_gen\_ai.user role must be assigned manually to your role to generate the risk assessment summary.
 
@@ -36,7 +36,7 @@ Privacy Managers can generate the risk assessment summary and save the summary i
 
 2.  Select the List icon.
 
-3.  Under Risk center, select **All [[risk-assessments|risk assessments]]**.
+3.  Under Risk center, select **All risk assessments**.
 
 4.  Select the risk assessment for which you want to generate a summary.
 
@@ -50,8 +50,4 @@ Privacy Managers can generate the risk assessment summary and save the summary i
 
     You also have the options to generate the summary again, expand, collapse or close the panel, provide feedback, or copy the information.
 
-## Related
 
-- [[generate-risk-assessment-summary-genai|Generate a risk assessment summary]]
-- [[now-assist-for-privacy-management|Now Assist for Privacy Management]]
-- [[risk-assessments|risk assessments]]

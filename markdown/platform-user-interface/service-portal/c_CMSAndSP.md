@@ -14,7 +14,7 @@ breadcrumb: [Understanding Service Portal, Exploring Service Portal, Service Por
 
 # Content Management and Service Portal
 
-[[c_ServicePortal|Service Portal]] is a compelling alternative to the [[c_ContentManagementSystem|Content Management System]] \(CMS\) with a refined user experience. It does not duplicate CMS or platform UI functionality. Users who have sophisticated experiences delivered through CMS may need to invest time into transitioning to Service Portal, especially if the CMS implementation includes complex and customized Service Catalog [[form-configurable-workspace|forms]].
+Service Portal is a compelling alternative to the Content Management System \(CMS\) with a refined user experience. It does not duplicate CMS or platform UI functionality. Users who have sophisticated experiences delivered through CMS may need to invest time into transitioning to Service Portal, especially if the CMS implementation includes complex and customized Service Catalog forms.
 
 ## Service Portal compatibility with existing CMS sites
 
@@ -69,7 +69,7 @@ Content page
 
 </td></tr><tr><td>
 
-[[c_ContentTypes|Content types]]
+Content types
 
 </td><td>
 
@@ -97,7 +97,7 @@ Content block
 
 A content block is a reusable piece of content.
 
- In Service Portal, [[c_ContentBlocks|content blocks]] are replaced by widgets.
+ In Service Portal, content blocks are replaced by widgets.
 
  Learn more: [Using portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/service-portal-widgets.md).
 
@@ -107,7 +107,7 @@ Service Catalog
 
 </td><td>
 
-Service Catalog pages are rendered using the [[sc-catalog-item-widget|SC Catalog Item widget]] in Service Portal. For this reason, Service Catalog forms such as catalog items and record producers are shared between your CMS implementation and Service Portal. If you have a highly customized Service Catalog, you may need to invest time in simplifying your Service Catalog items and client scripts so that they render as expected in Service Portal.
+Service Catalog pages are rendered using the SC Catalog Item widget in Service Portal. For this reason, Service Catalog forms such as catalog items and record producers are shared between your CMS implementation and Service Portal. If you have a highly customized Service Catalog, you may need to invest time in simplifying your Service Catalog items and client scripts so that they render as expected in Service Portal.
 
  Learn more: [Service Catalog forms in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sc-forms-in-sp.md).
 
@@ -144,11 +144,3 @@ Your CMS may include complex forms and customizations that do not render as expe
 
 **Parent Topic:**[Understanding Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/sp-what-to-know.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[c_ContentManagementSystem|Content Management System]]
-- [[form-configurable-workspace|Forms]]
-- [[c_ContentTypes|Content types]]
-- [[c_ContentBlocks|Content blocks]]
-- [[sc-catalog-item-widget|SC Catalog Item widget]]

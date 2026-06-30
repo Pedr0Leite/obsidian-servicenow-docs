@@ -18,13 +18,13 @@ This dashboard uses advanced features such as interactive filters and workbench 
 
 **Important:**
 
-Starting in Xanadu release, the Problem premium dashboard is deprecated. Users can use [[problem|Problem dashboard]] to view, and track the open problems.
+Starting in Xanadu release, the Problem premium dashboard is deprecated. Users can use [Problem dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem.md) to view, and track the open problems.
 
 \[Omitted image "problem-premium-process-age.png"\] Alt text: Process by Age tab
 
 \[Omitted image "problem-premium-overview.png"\] Alt text: Problem premium dashboard overview tab
 
-**Note:** The Overview tab has the same contents as the [[problem-overview-dashboard|Problem Overview dashboard]].
+**Note:** The Overview tab has the same contents as the Problem Overview dashboard.
 
 \[Omitted image "problem-premium-data-quality.png"\] Alt text: Problem Premium dashboard Data Quality tab
 
@@ -306,8 +306,3 @@ Open problems where the Change request has a State value of 3, meaning the reque
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[problem|Problem dashboard]]
-- [[problem-overview-dashboard|problem overview dashboard]]

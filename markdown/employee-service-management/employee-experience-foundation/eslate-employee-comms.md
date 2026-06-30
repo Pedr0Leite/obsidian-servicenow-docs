@@ -15,11 +15,11 @@ breadcrumb: [Working with Employee Slate capabilities, Employee Slate, Unified E
 
 # Employee communications
 
-[[employee-slate-landing-page|Employee Slate]] helps you create, publish, and manage employee communications in a variety of content types and delivery channels.
+Employee Slate helps you create, publish, and manage employee communications in a variety of content types and delivery channels.
 
-Announcements give communication teams a controlled channel for highlighting important content on the [[emp-slate-home-page|Employee Slate home]] page. Examples include a new policy, a required action, a seasonal announcement, or a featured knowledge article. Announcements appear in the Employee Comms widget as a carousel. Content managers can also promote them to supported chat channels.
+Announcements give communication teams a controlled channel for highlighting important content on the Employee Slate home page. Examples include a new policy, a required action, a seasonal announcement, or a featured knowledge article. Announcements appear in the Employee Comms widget as a carousel. Content managers can also promote them to supported chat channels.
 
-**Note:** To use Employee communications, you must install [[employee-slate-advanced|Employee Slate Advanced]].
+**Note:** To use Employee communications, you must install Employee Slate Advanced.
 
 \[Omitted image "es-employee-comms.png"\] Alt text: Create employee communication and engagement
 
@@ -68,8 +68,3 @@ Enhanced canvas with a feed widget to give employees a robust news feed experien
 
 [Employee Slate announcement form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/eslate-employee-slate-announcement-fields.md)
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-home-page|Employee Slate home]]
-- [[employee-slate-advanced|Employee Slate Advanced]]

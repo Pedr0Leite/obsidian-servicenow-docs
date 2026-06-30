@@ -20,7 +20,7 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 ## Overview tab in the Execution Dashboard
 
-\[Omitted image "execution-dashboard-overview-ppw.gif"\] Alt text: Execution Dashbaord-Overview in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+\[Omitted image "execution-dashboard-overview-ppw.gif"\] Alt text: Execution Dashbaord-Overview in Portfolio Planning.
 
 |Widget/Visualization|Description|
 |--------------------|-----------|
@@ -115,6 +115,3 @@ The Execution Dashboard provides various analytics across different tabs, includ
 
 **Parent Topic:**[Using dashboards in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/using-dashboards-in-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

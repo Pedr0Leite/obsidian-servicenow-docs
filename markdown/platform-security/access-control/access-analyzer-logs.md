@@ -14,11 +14,11 @@ breadcrumb: [Frequently Asked Questions, Access Analyzer, Access Management]
 
 # Access Analyzer Debug logs
 
-Access Analyzer debug logs supply detailed information about the evaluation of access controls for a specific operation. These [[logs|logs]] assist administrators and developers in troubleshooting access issues, optimizing security configurations, and ensuring that [[users|users]] have appropriate access to resources within the ServiceNow platform.
+Access Analyzer debug logs supply detailed information about the evaluation of access controls for a specific operation. These logs assist administrators and developers in troubleshooting access issues, optimizing security configurations, and ensuring that users have appropriate access to resources within the ServiceNow platform.
 
 ## Fields in Debug logs
 
-For a given operation, the debug logs show a granular view of how ACLs, business rules, and other [[security-attributes-landing|security attributes]] are evaluated.
+For a given operation, the debug logs show a granular view of how ACLs, business rules, and other security attributes are evaluated.
 
 \[Omitted image "access-analyzer-logs-details.png"\] Alt text: Fields in the Debug log
 
@@ -30,7 +30,7 @@ Following are the fields and their description in the Debug logs:
 |Applies to|Indicates the level at which the ACL is applied, for example, `Field`, `Record`, or `Table`.|
 |Status|The status of the ACL for the associated role and permission, for example, `Passed`, `Blocked`, or `Skipped`.|
 |Required ACL roles|Specifies the roles necessary for access to the resource.|
-|Role|Provides details about the status of roles in terms of [[sc-access-control|access control]], for example, `blocked`, `passed`, or `skipped`.|
+|Role|Provides details about the status of roles in terms of access control, for example, `blocked`, `passed`, or `skipped`.|
 |Security Attribute|The details about the security attribute evaluated as `Blocked`, `Passed`, or `Skipped` for the Access Control.|
 |Condition|The details about the condition evaluated as `blocked`, `passed`, or `skipped` for the Access Control.|
 |Script|The details about the script evaluated as `blocked`, `passed`, or `skipped` for the Access Control.|
@@ -63,22 +63,14 @@ ACLs for the operations are evaluated in the following order:
 
 Alert Icon in any status indicates the presence of a script in the ACL. Review highlighted ACLs to understand the final access.
 
-**Note:** During an [[access-analyzer|Access Analyzer]] query, business rules are executed first and then the access control list.
+**Note:** During an Access Analyzer query, business rules are executed first and then the access control list.
 
 ## Sequence of execution
 
 The order of execution for determining access in different scenarios is as follows:
 
 1.  **Presence of an inherited or wildcard ACL**: During the sequence of execution, the inherited ACLs are evaluated first and then wildcard ACLs.
-2.  **If one ACL is passed, the others are skipped**: During execution and evaluation of permissions, if one ACL is passed, the other ACLs' execution and evaluations are skipped. They are skipped because overall permissions for the selected operation require only one ACL to access a field, record, or table for an [[identity-landing|identity]].
+2.  **If one ACL is passed, the others are skipped**: During execution and evaluation of permissions, if one ACL is passed, the other ACLs' execution and evaluations are skipped. They are skipped because overall permissions for the selected operation require only one ACL to access a field, record, or table for an identity.
 3.  **Field level ACL and table level ACLs execution**: During execution, field level ACLs are executed first, followed by table level ACLs. This provides more granular results when analyzing access for an identity.
 4.  **Evaluation in the presence of scripted ACL**: When a script is present, the overall access for the operation is passed with an Alert icon to indicate that there's a script in the ACL.
 
-## Related
-
-- [[logs|Logs]]
-- [[users|Users]]
-- [[security-attributes-landing|Security Attributes]]
-- [[sc-access-control|Access control]]
-- [[access-analyzer|Access Analyzer]]
-- [[identity-landing|Identity]]

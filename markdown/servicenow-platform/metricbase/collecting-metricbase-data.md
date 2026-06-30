@@ -18,7 +18,7 @@ Store time-series summaries of much larger data collections.
 
 ## Overview of creating a time-series definition
 
-In [[metricbase|MetricBase]], you specify the metric that you want to store and how often to collect it. You can also determine how long to store it in the MetricBase database. Then, you send the data from an instance to the MetricBase server at the rate that you define using MetricBase REST or JavaScript APIs. In this way, you can monitor a much larger data collection with MetricBase summaries of it.
+In MetricBase, you specify the metric that you want to store and how often to collect it. You can also determine how long to store it in the MetricBase database. Then, you send the data from an instance to the MetricBase server at the rate that you define using MetricBase REST or JavaScript APIs. In this way, you can monitor a much larger data collection with MetricBase summaries of it.
 
 MetricBase collects the metrics of how often you send data and what the aggregation of that data is, for example, maximum, minimum, average, or last. This data is called time-series data. For example, if you collect drone speeds on an instance, you can send the average drone speed for every two minutes to the MetricBase database. You can also collect altitude and battery life. MetricBase stores each metric as a column in its database.
 
@@ -44,6 +44,4 @@ MetricBase collects the metrics of how often you send data and what the aggregat
 
     Distinguish normal data from anomalous data using predictive models.
 
-## Related
 
-- [[metricbase|MetricBase]]

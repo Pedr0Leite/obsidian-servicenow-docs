@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Log in to your ServiceNow instance.
 
-2.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[zoom-ec-create-app|Employee Center for Zoom]]** &gt; **Connected Zoom accounts**.
+2.  Navigate to **All** &gt; **Employee Center** &gt; **Employee Center for Zoom** &gt; **Connected Zoom accounts**.
 
     On the Installed Accounts form, the Zoom accounts connected to the ServiceNow instance are listed.
 
@@ -33,7 +33,3 @@ Role required: admin
 
 **Parent Topic:**[Employee Center for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-ec-create-app.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[zoom-ec-create-app|Employee Center for Zoom]]

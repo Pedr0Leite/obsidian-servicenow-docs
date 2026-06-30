@@ -14,7 +14,7 @@ breadcrumb: [Portal Banner Carousel widget, Configurable Portal widgets, Set up 
 
 # Add and configure the Portal Banner Carousel widget
 
-Add a [[csm-portal-carousel-widget|Portal Banner Carousel widget]] to the portal and modify its presentation and behavior.
+Add a Portal Banner Carousel widget to the portal and modify its presentation and behavior.
 
 ## Before you begin
 
@@ -74,11 +74,8 @@ Role required: sp\_admin
 
 17. On the Instance form, fill in the fields.
 
-    For a description of the field values, see [[port-banner-carousel-inst-options|Portal Banner Carousel widget instance options form]].
+    For a description of the field values, see [Portal Banner Carousel widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/port-banner-carousel-inst-options.md).
 
 18. Select **Save**.
 
-## Related
 
-- [[port-banner-carousel-inst-options|Portal Banner Carousel widget instance options form]]
-- [[csm-portal-carousel-widget|Portal Banner Carousel widget]]

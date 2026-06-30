@@ -18,7 +18,7 @@ This accelerator provides a demonstration of the possibilities and capabilities 
 
 ## Accelerator Overview
 
-Jumpstart Your Now Assist in Document Intelligence \(DocIntel\) provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration of Now Assist in DocIntel functionality. This offering helps customers understand a capability that is central to both AI Agents and Now Assist Skills. It also serves as a valuable resource for developers building custom workflows that involve documents. Additionally, this accelerator includes key resources and leading practice guides to [[io-help|help]] customers get started.
+Jumpstart Your Now Assist in Document Intelligence \(DocIntel\) provides Impact customers with an overview and applied demonstration of Now Assist in DocIntel functionality. This offering helps customers understand a capability that is central to both AI Agents and Now Assist Skills. It also serves as a valuable resource for developers building custom workflows that involve documents. Additionally, this accelerator includes key resources and leading practice guides to help customers get started.
 
 ## Package Availability
 
@@ -35,11 +35,11 @@ Jumpstart Your Now Assist in Document Intelligence \(DocIntel\) provides [[impac
     Includes the following:
 
     -   Overview of the benefits and impact of Now Assist in DocIntel
-    -   End-[[user-experience-insights|user experience]] walk-through
+    -   End-user experience walk-through
     -   Technical demonstration
         -   Configuration overview
         -   Setup
-    -   Monitoring results with the [[io-analytics|Analytics]] Dashboard
+    -   Monitoring results with the Analytics Dashboard
     -   Temporary instance with 30 days provided access
 -   **Customer Coaching Session \#2 \(Optional upon Customer request – up to 60 min\)**
 
@@ -68,9 +68,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[user-experience-insights|User Experience]]
-- [[io-analytics|Analytics]]

@@ -24,7 +24,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[csm-playbook-create-record|Create a record using a playbook]]
+Create a record using a playbook
 
 </td><td>
 
@@ -56,17 +56,17 @@ Use the contextual side panel to view additional information
 
 Playbooks can display the following information in the contextual side panel:
 
--   [[csm-config-ws-activity-stream|Activity stream]]
+-   Activity stream
 -   Ribbon information such as the case overview, customer details, timeline, and SLAs
 -   Dynamic related records \(see below for more information\)
 -   Related Items tab
 
  For more information, see:
 
--   [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
--   [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
--   [[csm-playbooks-viewing-rel-records|Viewing related records in the contextual side panel]]
--   [[csm-playbook-related-items-component|Related Items]]
+-   [Using the activity stream in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
+-   [Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
+-   [Viewing related records in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-rel-records.md)
+-   [Related Items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-related-items-component.md)
 -   [Administering Activity stream for Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/administer-activity-stream-configurable-workspace.md)
 
 </td></tr><tr><td>
@@ -77,7 +77,7 @@ Use the contextual side panel to display dynamic related records
 
 Display records in the contextual side panel that dynamically change based on the context of the current record or playbook activity.
 
- For more information, see [[csm-contextual-related-records|Dynamic related records]].
+ For more information, see [Dynamic related records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-contextual-related-records.md).
 
 </td></tr><tr><td>
 
@@ -108,13 +108,3 @@ Activity cards in the playbook activity viewer can display an SLA widget in the 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[csm-playbooks-viewing-rel-records|Viewing dynamic related records in the contextual side panel]]
-- [[csm-playbook-related-items-component|Playbook related items component]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[csm-playbook-create-record|Create a record using a playbook]]
-- [[csm-config-ws-activity-stream|Activity stream]]

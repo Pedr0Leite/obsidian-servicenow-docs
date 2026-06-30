@@ -15,7 +15,7 @@ breadcrumb: [Enable Override do not disturb to receive critical alerts, Configur
 
 # Configure a ringtone for critical alerts
 
-Select a preferred ringtone for your critical notifications in [[itsm-mobile-agent|ITSM Mobile Agent]] application.
+Select a preferred ringtone for your critical notifications in ITSM Mobile Agent application.
 
 ## Before you begin
 
@@ -77,6 +77,4 @@ Role required: admin
     -   NotificationAlert-14.caf
 4.  Select **Update**.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

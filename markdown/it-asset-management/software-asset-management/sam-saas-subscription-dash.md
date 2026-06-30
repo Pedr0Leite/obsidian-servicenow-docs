@@ -14,16 +14,16 @@ breadcrumb: [Software Asset Management publisher pack for Adobe, Supported softw
 
 # Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic
 
-View compliance analysis results related to Microsoft Office 365 and Adobe Cloud License Management in [[c_SoftwareAssetMgmt|Software Asset Management]] classic.
+View compliance analysis results related to Microsoft Office 365 and Adobe Cloud License Management in Software Asset Management classic.
 
 **Note:** The Office 365 &amp; Adobe Cloud dashboard is no longer available for new Australia users who have activated the Software Asset Management Professional \(com.snc.samp\) plugin or upgraded to Australia without activating the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia.
 
 -   If you activated the Software Asset Management Professional \(com.snc.samp\) plugin prior to Australia but didn't activate the Workspace plugin \(com.sn\_sam\_workspace\), you have access to this dashboard.
--   If you activated the [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application after upgrading to Australia, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
+-   If you activated the Software Asset Workspace \(sn\_sam\_workspace\) store application after upgrading to Australia, you won’t be able to access this dashboard from the **Software Asset** navigation menu in your instance. You can however access this dashboard from the **Dashboards** navigation menu.
 
 Access the dashboard by navigating to **All** &gt; **Software Asset** &gt; **Office 365 &amp; Adobe Cloud**.
 
-You can filter by **Subscription [[c_CreatingSoftwareModels|Software Models]]** or **Subscription Publisher** using filter lists.
+You can filter by **Subscription Software Models** or **Subscription Publisher** using filter lists.
 
 **Note:** The Subscription Publisher filter list always includes Microsoft and Adobe even when only one subscription publisher pack is active.
 
@@ -52,8 +52,3 @@ Only Adobe software products that are recognized as subscription software are sh
 
 **Parent Topic:**[Software Asset Management publisher pack for Adobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_CreatingSoftwareModels|Software models]]

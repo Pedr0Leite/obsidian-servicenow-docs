@@ -12,7 +12,7 @@ breadcrumb: [Using Field Encryption, Field Encryption, Encryption]
 
 # Create cryptographic module for Field Encryption
 
-Create a [[field-encryption|Field Encryption]] cryptographic module to define the mechanisms used for cryptographic operations.
+Create a Field Encryption cryptographic module to define the mechanisms used for cryptographic operations.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: security\_admin  and sn\_kmf.cryptographic\_manager  or sn\_k
 
 ## About this task
 
-This procedure describes options that are available with Field Encryption with the base system and additional [[sc-configuration|configuration]] options that become available with [[now-platform-encryption|Field Encryption Enterprise]] functionality. Field Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [[activate-platform-encryption|Activate Field Encryption]] for more information on obtaining Field Encryption Enterprise.
+This procedure describes options that are available with Field Encryption with the base system and additional configuration options that become available with Field Encryption Enterprise functionality. Field Encryption Enterprise is available with a paid subscription. Refer to [Encryption and Key Management subscription bundle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/encryption-sku.md) for supported features and options available with each offering. See [Activate Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/activate-platform-encryption.md) for more information on obtaining Field Encryption Enterprise.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ This procedure describes options that are available with Field Encryption with t
 
     **Warning:**
 
-    -   **For legacy [[encryption-landing|encryption]] support [[users|users]]:**
+    -   **For legacy encryption support users:**
 
         If you're using the non-enterprise version of Field Encryption, you're limited to five fields. If you've exceeded this limit, you receive the following warning:
 
@@ -68,17 +68,7 @@ To open the configuration options, click the newly created cryptographic module.
 
 **Note:** A maximum of five Field Encryption fields are allowed before upgrading to Field Encryption Enterprise. A message displays at the top stating the allowance and the number of encrypted fields that you currently have is listed. Once that maximum allowance is met, the **Create new** button is grayed out and you're prevented from adding additional cryptographic modules.
 
-[[create-crypto-spec-pe|Create a cryptographic specification for Field Encryption]].
+[Create a cryptographic specification for Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-crypto-spec-pe.md).
 
-**Parent Topic:**[[using-column-level-encryption|Using Field Encryption]]
+**Parent Topic:**[Using Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption.md)
 
-## Related
-
-- [[activate-platform-encryption|Activate Field Encryption]]
-- [[create-crypto-spec-pe|Create a cryptographic specification for Field Encryption]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]

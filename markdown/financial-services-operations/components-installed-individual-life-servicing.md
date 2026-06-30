@@ -12,7 +12,7 @@ breadcrumb: [Reference, Individual Life Servicing, Life Insurance Servicing, Ins
 
 # Components installed with Individual Life Servicing
 
-Several types of components are installed with activation of the [[individual-life-servicing|Individual Life Servicing]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Individual Life Servicing plugin, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -32,7 +32,7 @@ Customer Service\[com.sn\_customerservice\]
 
 </td><td>
 
-Enables the extension of tables from the Customer Service Management application into the [[fso-overview|Financial Services]] Operations applications.
+Enables the extension of tables from the Customer Service Management application into the Financial Services Operations applications.
 
 </td></tr><tr><td>
 
@@ -47,9 +47,9 @@ Enables insurance carriers to route service requests to underwriters based on th
 
 |Store application|Description|
 |-----------------|-----------|
-|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [[financial-services-operations-core-data-model|Financial Services Operations Core]].|
-|Individual Life Insurance Underwriting Operations|Enables management of individual policy underwriting services tasks that are used in insurance policy service workflows. For more information, see [[components-installed-with-individual-life-underwriting|Components installed with Individual Life Underwriting]].|
-|Document Processor|Enables management of document services tasks that are used in insurance policy service cases. For more information, see [[integrating-with-document-processor|Integrating with Document Processor]].|
+|Financial Services Operations Core|Stores the customer data that is needed to make policy service requests. For more information, see [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md).|
+|Individual Life Insurance Underwriting Operations|Enables management of individual policy underwriting services tasks that are used in insurance policy service workflows. For more information, see [Components installed with Individual Life Underwriting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-individual-life-underwriting.md).|
+|Document Processor|Enables management of document services tasks that are used in insurance policy service cases. For more information, see [Integrating with Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integrating-with-document-processor.md).|
 |Playbooks for Customer Service Management|Provides a way to visualize business process workflows in a simple, task-oriented view, ensuring consistent responses to commonly encountered situations. For more information, see [Playbooks for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-playbooks.md).|
 |CSM Contributor User|Enables middle office teams to create cases for customer requests. For more information, see [CSM Contributor User](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md) [Configure Contributor Users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-contributor-user.md).|
 
@@ -77,7 +77,7 @@ Individual policy admin
 
 -   Grant individual insurance servicing roles
 -   Delete individual policy cases and tasks
--   [[configure-individual-life-servicing|Configure Individual Life Servicing]] application
+-   Configure Individual Life Servicing application
 -   Create and modify individual policy service definitions
 -   Has read, write, and create access to individual policy data
 
@@ -96,7 +96,7 @@ Individual life manager
 
 </td><td>
 
--   View the Performance Analytics reports in the [[individual-life-servicing-dashboard|Individual Life Servicing dashboard]]
+-   View the Performance Analytics reports in the Individual Life Servicing dashboard
 -   Use Process Mining projects for insurance operations processes
 
 </td><td>
@@ -155,7 +155,7 @@ Individual policy contributor\[sn\_ins\_indiv\_life.contributor\]
 
 </td><td>
 
-Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+Create and track policy service cases for accounts managed by them.**Important:** For the contributor role to work, it must be combined with one of the CSM Contributor users roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 </td><td>
 
@@ -236,16 +236,5 @@ Policy Coverage Line\[sn\_ins\_indiv\_life\_coverage\_line\]
 This is an Info table which stores the changes to coverages of policy services for the Individual Life Servicing
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[individual-life-servicing-reference|Individual Life Servicing reference]]
+</table>**Parent Topic:**[Individual Life Servicing reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/individual-life-servicing-reference.md)
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[components-installed-with-individual-life-underwriting|Components installed with Individual Life Underwriting]]
-- [[integrating-with-document-processor|Integrating with Document Processor]]
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[individual-life-servicing-reference|Individual Life Servicing reference]]
-- [[individual-life-servicing|Individual Life Servicing]]
-- [[fso-overview|Financial Services]]
-- [[configure-individual-life-servicing|Configure Individual Life Servicing]]
-- [[individual-life-servicing-dashboard|Individual Life Servicing dashboard]]

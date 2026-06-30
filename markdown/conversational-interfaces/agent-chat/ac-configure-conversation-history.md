@@ -24,9 +24,9 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
-2.  Select **[[ci-use-agent-chat|Agent Chat]]** and then on the Agent Experience card, select **View Settings** next to Conversation History.
+2.  Select **Agent Chat** and then on the Agent Experience card, select **View Settings** next to Conversation History.
 
 3.  To turn on conversation history, toggle on the Activate switch.
 
@@ -59,7 +59,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Agent Chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/ci-agent-chat-configuring.md)
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[ci-use-agent-chat|Agent Chat]]

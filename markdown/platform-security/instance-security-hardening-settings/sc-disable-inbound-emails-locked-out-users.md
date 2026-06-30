@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Disable inbound emails for locked out users
 
-Use the **glide.pop3.process\_locked\_out** property to control inbound [[email|email]] actions for locked out, active [[users|users]].
+Use the **glide.pop3.process\_locked\_out** property to control inbound email actions for locked out, active users.
 
 The **glide.pop3.process\_locked\_out** system property controls inbound email actions for locked out users. If **glide.pop3.process\_locked\_out** is set to **true**, there may be an information disclosure as inbound emails would be received by users with locked accounts.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -119,9 +119,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[email|Email]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

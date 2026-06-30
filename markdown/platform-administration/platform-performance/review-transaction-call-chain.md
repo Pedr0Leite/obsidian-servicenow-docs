@@ -14,7 +14,7 @@ breadcrumb: [Transaction call chains, Monitor, Platform performance, Maintain an
 
 # Review a transaction call chain
 
-Use [[transaction-call-chains|Transaction Call Chains]] to review the resulting call chain for a selected transaction. You can use the information in Transaction Call Chains can help debug performance issues.
+Use Transaction Call Chains to review the resulting call chain for a selected transaction. You can use the information in Transaction Call Chains can help debug performance issues.
 
 ## Before you begin
 
@@ -22,19 +22,14 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Transaction Call Chain** &gt; **Transaction Call Chains**.
+1.  Navigate to **All** &gt; **System Diagnostics** &gt; **Transaction Call Chain** &gt; **Transaction Call Chains**.
 
 2.  To view call chain detail, select the **Created** field for the desired call chain component or script.
 
-    For a description of the field values in the [[transaction-call-chain-form|Transaction Call Chain form]], see [Transaction call chain form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-call-chain-form.md).
+    For a description of the field values in the Transaction Call Chain form, see [Transaction call chain form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-call-chain-form.md).
 
     **Note:** You can view transaction log detail by selecting the **Transaction Log** field for the selected call chain component or script. To learn more, see [Transaction logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_TransactionLogs.md).
 
 
 **Parent Topic:**[Transaction call chains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-call-chains.md)
 
-## Related
-
-- [[transaction-call-chains|Transaction call chains]]
-- [[sys-diag|System Diagnostics]]
-- [[transaction-call-chain-form|Transaction call chain form]]

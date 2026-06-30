@@ -24,7 +24,7 @@ Role required: analytics\_admin
 
 1.  Navigate to **All**.
 
-2.  In the navigator, enter `sys_analytics_user_consent_decision.list` to open the [[user-exp-analytics-landing|Usage Insights]] User Consent Decisions page.
+2.  In the navigator, enter `sys_analytics_user_consent_decision.list` to open the Usage Insights User Consent Decisions page.
 
 3.  Review the data that applies to your users’ tracking selections.
 
@@ -39,6 +39,3 @@ Role required: analytics\_admin
 
 **Parent Topic:**[How users consent to tracking in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-user-set.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

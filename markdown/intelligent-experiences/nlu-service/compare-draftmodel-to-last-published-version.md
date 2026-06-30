@@ -14,16 +14,16 @@ breadcrumb: [Test and publish your model, Model management, Natural Language Und
 
 # Compare draft and published versions of your NLU model
 
-Compare a draft trained [[nlu-landing|Natural Language Understanding]] \(NLU\) model to its most recent published version. Test and review the changes to make sure that your draft model will have increased performance.
+Compare a draft trained Natural Language Understanding \(NLU\) model to its most recent published version. Test and review the changes to make sure that your draft model will have increased performance.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] plugin and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are installed and activated.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, NLU Workbench - Advanced Features plugin and Predictive Intelligence plugin are installed and activated.
 -   Role required: nlu\_editor, nlu\_admin, or admin. The editor must be assigned to the model.
 
 ## About this task
 
-In this example scenario, you're training and trying a published NLU model in the NLU Workbench iteratively with the goal of improving its prediction [[docintel-confidence-scores|confidence scores]].
+In this example scenario, you're training and trying a published NLU model in the NLU Workbench iteratively with the goal of improving its prediction confidence scores.
 
 When you try an utterance against an NLU model:
 
@@ -41,7 +41,7 @@ In this example procedure, you've cloned the model from a pre-built read-only HR
 
 2.  Select the tab corresponding to your model's application, then select the name of your published model.
 
-3.  From the model's overview page, locate the **[[managing-model-content|Build and train your model]]** card and click its **View phase**.
+3.  From the model's overview page, locate the **Build and train your model** card and click its **View phase**.
 
 4.  Make a change to the intents, utterances, entities, or vocabulary.
 
@@ -64,13 +64,5 @@ In this example procedure, you've cloned the model from a pre-built read-only HR
 
 ## What to do next
 
-Use the information in the test panel to see if the changes you make will improve the model's performance. Once you are satisfied with your changes, [[test-your-model|test your model]] before publishing. Then, publish your model to replace the current published version.
+Use the information in the test panel to see if the changes you make will improve the model's performance. Once you are satisfied with your changes, test your model before publishing. Then, publish your model to replace the current published version.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[docintel-confidence-scores|Confidence scores]]
-- [[managing-model-content|Build and train your model]]
-- [[test-your-model|Test your model]]

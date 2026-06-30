@@ -18,7 +18,7 @@ Email notification for an approval request helps the approver be notified withou
 
 An email notification is sent to your registered email address when a job requisition approval request is raised for you.
 
-Get the details of the approval request like job title, [[hiring-tab-concept|hiring]] manager, recruiter, employment type, compensation range from the email notification.
+Get the details of the approval request like job title, hiring manager, recruiter, employment type, compensation range from the email notification.
 
 You can approve or reject the request for the job requisition from the email notification.
 
@@ -26,6 +26,3 @@ Select **approval task** to navigate to the portal to complete the approval task
 
 **Parent Topic:**[Approve a job requisition in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/recruitment-workspace/approve-a-job-req.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

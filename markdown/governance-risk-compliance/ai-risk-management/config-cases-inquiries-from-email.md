@@ -15,7 +15,7 @@ breadcrumb: [Configure, AI Risk and Compliance, Governance, Risk, and Compliance
 
 # Configure email-based intake for AI Risk and Compliance
 
-Configure email-based intake so that incoming email messages create intake records in [[ai-risk-and-compliance|AI Risk and Compliance]].
+Configure email-based intake so that incoming email messages create intake records in AI Risk and Compliance.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Emails sent to the configured group email address and the instance email address
 
 For more information, see [Automatic creation of AI cases and inquiries from inbound email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/automatic-creation-cases-inquiries-from-email.md).
 
-## Related
-
-- [[ai-risk-and-compliance|AI Risk and Compliance]]

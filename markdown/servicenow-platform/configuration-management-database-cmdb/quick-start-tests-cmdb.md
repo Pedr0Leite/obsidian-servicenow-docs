@@ -14,13 +14,13 @@ breadcrumb: [Reference, Configuration Management Database \(CMDB\), Configuratio
 
 # Quick start tests for Configuration Management Database \(CMDB\)
 
-Validate that [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Configuration Management Database \(CMDB\) still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
-Configuration Management Database \(CMDB\) quick start tests require activating the [[manage-cmdb|Configuration Management]] \(CMDB\) plugin \(com.snc.cmdb\) and the CMDB - ATF Tests plugin \(com.snc.cmdb.atf\).
+Configuration Management Database \(CMDB\) quick start tests require activating the Configuration Management \(CMDB\) plugin \(com.snc.cmdb\) and the CMDB - ATF Tests plugin \(com.snc.cmdb.atf\).
 
 |Test|Description|Release version|
 |----|-----------|---------------|
-|CMDB BSM: Dependency Views|Test functionality of [[c_BusinesssServiceManagementMaps|Dependency Views]] APIs. These APIs retrieve [[c_NextGenBSMMaps|Dependency Views map]] and associated map items such as context menu items, for a given CI sys\_id and using sn\_cmdb\_editor or itil user role.|New York|
+|CMDB BSM: Dependency Views|Test functionality of Dependency Views APIs. These APIs retrieve Dependency Views map and associated map items such as context menu items, for a given CI sys\_id and using sn\_cmdb\_editor or itil user role.|New York|
 
 <table id="table_ipl_qdw_nhb"><thead><tr><th>
 
@@ -36,7 +36,7 @@ Release version
 
 </th></tr></thead><tbody><tr><td>
 
-[[c_CMDBHealth|CMDB HEALTH]]: Health Job Status
+CMDB HEALTH: Health Job Status
 
 </td><td>
 
@@ -93,7 +93,7 @@ CMDB IRE: Reconciliation Rule
 
 </td><td>
 
-Check operations on a reconciliation rule, in [[ci-class-manager-landing-page|CI Class Manager]], using sn\_cmdb\_editor, sn\_cmdb\_admin, itil, and itil\_admin roles. Operations include create, edit, and delete a reconciliation rule.
+Check operations on a reconciliation rule, in CI Class Manager, using sn\_cmdb\_editor, sn\_cmdb\_admin, itil, and itil\_admin roles. Operations include create, edit, and delete a reconciliation rule.
 
  Also, check for active and not active setting, and derived rules.
 
@@ -118,7 +118,7 @@ Paris
 </td></tr></tbody>
 </table>|Test|Description|Release version|
 |----|-----------|---------------|
-|CMDB QB: Query Builder - cmdb\_query\_builder Role|Verify that cmdb\_query\_builder user role can save queries, and access and run all saved queries, in [[cmdb-query-builder-landing-page|CMDB Query Builder]].|New York|
+|CMDB QB: Query Builder - cmdb\_query\_builder Role|Verify that cmdb\_query\_builder user role can save queries, and access and run all saved queries, in CMDB Query Builder.|New York|
 |CMDB QB: Query Builder - cmdb\_query\_builder\_read Role|Verify that cmdb\_query\_builder\_read user role can access and run all saved queries, and cannot save any query, in CMDB Query Builder.|New York|
 
 |Test|Description|Release version|
@@ -141,12 +141,3 @@ Paris
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[manage-cmdb|Configuration Management]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]

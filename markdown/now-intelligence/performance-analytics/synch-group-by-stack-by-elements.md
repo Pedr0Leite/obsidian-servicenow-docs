@@ -14,7 +14,7 @@ breadcrumb: [Interactive Analysis, Reporting, dashboards, and Performance Analyt
 
 # Synchronize Group by and Stack by elements in filters
 
-Synchronize Group by and Stack by elements in an [[interactive-analysis|interactive analysis]] when filters are added to the filter panel and when they are removed from the filter panel. You can also remove a filter without synchronizing group by and stack by elements.
+Synchronize Group by and Stack by elements in an interactive analysis when filters are added to the filter panel and when they are removed from the filter panel. You can also remove a filter without synchronizing group by and stack by elements.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You must have access to the list of records that you want to analyze.
 
 1.  Navigate to the table that you want to analyze.
 
-2.  Right-click on the header of the column you want to analyze and select **[[launch-interactive-analysis-pa|Launch Interactive Analysis]]**.
+2.  Right-click on the header of the column you want to analyze and select **Launch Interactive Analysis**.
 
 3.  In the **Filters** panel, click **Add Filters** and add a new filter.
 
@@ -47,7 +47,3 @@ You must have access to the list of records that you want to analyze.
 
 **Parent Topic:**[Interactive Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
-## Related
-
-- [[interactive-analysis|Interactive Analysis]]
-- [[launch-interactive-analysis-pa|Launch Interactive Analysis]]

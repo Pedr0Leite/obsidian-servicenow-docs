@@ -18,8 +18,8 @@ Use the Lease Administration dashboard to get insight into the number of total c
 
 ## Prerequisites for accessing the Lease Administration dashboard
 
--   Ensure that the [[workplace-central-feat|Workplace Central]] application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
--   Ensure that the [[workplace-lease-admin-feat|Workplace Lease Administration]] \(sn\_wsd\_la\) application is installed. For more information, see [Activate Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/install-lease-administration.md)
+-   Ensure that the Workplace Central application is installed. For more information, see [Install Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/install-workplace-central.md)
+-   Ensure that the Workplace Lease Administration \(sn\_wsd\_la\) application is installed. For more information, see [Activate Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/install-lease-administration.md)
 -   Ensure that the Workplace Central and Workplace Lease Administration applications and all of their associated store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
 ## Accessing the dashboard
@@ -60,7 +60,7 @@ For more information, see [Workplace Lease Administration](https://raw.githubuse
 **Related topics**  
 
 
-[View [[space-optimization|Space Optimization]] metrics]()
+[View Space Optimization metrics]()
 
 [View Occupancy Dashboard]()
 
@@ -68,8 +68,3 @@ For more information, see [Workplace Lease Administration](https://raw.githubuse
 
 [Manage Workplace Dashboards]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[space-optimization|Space Optimization]]

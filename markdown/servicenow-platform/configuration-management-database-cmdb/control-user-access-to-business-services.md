@@ -14,7 +14,7 @@ breadcrumb: [Service instances \(Application services\), Configuration Managemen
 
 # Control user access to application services
 
-Assign user roles to service groups to grant users access to application services in your organization. Your organization may [[t_ContrlAccessByCDGUOrLoc|restrict access]] to some services for security or secrecy reasons.
+Assign user roles to service groups to grant users access to application services in your organization. Your organization may restrict access to some services for security or secrecy reasons.
 
 ## Before you begin
 
@@ -134,6 +134,3 @@ To manage access to services that contain sensitive financial information in you
 
 As a result, only users with the Financial Services administrator role can access application services belonging to the Financial Services group.
 
-## Related
-
-- [[t_ContrlAccessByCDGUOrLoc|Restrict access]]

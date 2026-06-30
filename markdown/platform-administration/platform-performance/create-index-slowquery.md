@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[sys-diag|System Diagnostics]]** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; To review**.
+1.  Navigate to **System Diagnostics** &gt; **Index Suggestions** &gt; **Index Suggestions &gt; To review**.
 
 2.  In the Index Suggestion table, select the table associated with the index suggestion you want to create from the **Table Name** column.
 
@@ -45,6 +45,3 @@ Role required: admin
 
 **Parent Topic:**[Resolving slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/resolving-slow-queries.md)
 
-## Related
-
-- [[sys-diag|System Diagnostics]]

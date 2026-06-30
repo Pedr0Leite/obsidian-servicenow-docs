@@ -27,10 +27,7 @@ Add or mute participants in a Twilio conference call.
 -   **[Reinitiate a conference call from Twilio in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/reinitiate-conference-call-telephony.md)**  
 Reinitiate a Twilio conference call that was ended to discuss about the resolution of an incident.
 -   **[View a conference call recording from Twilio in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/view-call-recording-twilio-sow.md)**  
-View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a [[reference-for-itsm-mobile-agent|reference]].
+View details for a recorded conference call in Service Operations Workspace by accessing the associated conference record as a reference.
 
 **Parent Topic:**[Notify in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/notify-sow.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

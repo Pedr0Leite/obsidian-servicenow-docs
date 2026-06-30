@@ -14,7 +14,7 @@ breadcrumb: [Configuring Notify, Notify, Manage service capabilities, Extend Ser
 
 # Activate Notify
 
-You can activate the [[notify-landing-page|Notify]] \(com.snc.notify\) plugin if you are an administrator. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate the Notify \(com.snc.notify\) plugin if you are an administrator. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -61,7 +61,7 @@ Provides ability to set SMS preferences for receiving messages from different pr
 
 3.  Select **Install** to start the installation process.
 
-    **Note:** When [[domain-separation-relationship-formatter-editor|domain separation]] and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
+    **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -80,7 +80,3 @@ When migrating to Notify from the Legacy Notify functionality, several changes a
 
 [E.164 phone number field configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ConfigureE.164PhoneNumberFields.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

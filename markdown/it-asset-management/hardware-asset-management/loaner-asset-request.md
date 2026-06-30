@@ -68,7 +68,7 @@ Location
 
 </td><td>
 
-Location where the requested asset should be provided.When the location that you specified is a service location of multiple [[c_Stockrooms|stockrooms]], the Model field shows the list of loaner asset [[c_Models|models]] that are available in all those stockrooms in addition to the models available in the stockroom of that location. For more details on service locations, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md).
+Location where the requested asset should be provided.When the location that you specified is a service location of multiple stockrooms, the Model field shows the list of loaner asset models that are available in all those stockrooms in addition to the models available in the stockroom of that location. For more details on service locations, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md).
 
 </td></tr><tr><td>
 
@@ -103,7 +103,7 @@ Justification
 Reason why you need the asset.
 
 </td></tr></tbody>
-</table>    After entering the **Start date** and **Return date**, if there are no [[loaner-asset|loaner assets]] available in the selected location and for the selected time period, a warning appears. If you still submit the loaner order, your loaner order will be in a waitlist.
+</table>    After entering the **Start date** and **Return date**, if there are no loaner assets available in the selected location and for the selected time period, a warning appears. If you still submit the loaner order, your loaner order will be in a waitlist.
 
 4.  Select **Submit**.
 
@@ -112,15 +112,9 @@ Reason why you need the asset.
 
 ## What to do next
 
-To view your request, navigate to **Self-Service** &gt; **My Requests**. You can also view your order by using the [[now-mobile-asset|Now Mobile app]].
+To view your request, navigate to **Self-Service** &gt; **My Requests**. You can also view your order by using the Now Mobile app.
 
 Before you receive your loaner asset, you can cancel the loaner asset request by selecting **Cancel**. After you receive your loaner asset, the **Cancel** button doesn't appear anymore. You can also return your loaner asset before the specified **Return date**.
 
 **Parent Topic:**[Manage loaner assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-loaner-asset.md)
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[c_Models|Models]]
-- [[loaner-asset|Loaner assets]]
-- [[now-mobile-asset|Now Mobile app]]

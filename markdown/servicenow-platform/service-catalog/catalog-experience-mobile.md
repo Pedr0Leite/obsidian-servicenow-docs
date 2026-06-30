@@ -14,7 +14,7 @@ breadcrumb: [Integrating Service Catalog, Service Catalog, Manage service capabi
 
 # Service Catalog in mobile
 
-You can use a mobile and track request and approval flows of [[service-catalog|Service Catalog]].
+You can use a mobile and track request and approval flows of Service Catalog.
 
 -   **[Fulfiller experience in Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/itsm-mobile-request-approval.md)**  
 Approve catalog requests, requested items, or change requests from anywhere using the ITSM ServiceNow Agent application.
@@ -23,6 +23,3 @@ You can enable users to request for an item or service, and track or approve req
 
 **Parent Topic:**[Integrating Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/integrating-service-catalog.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

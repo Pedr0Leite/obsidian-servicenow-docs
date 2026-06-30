@@ -23,7 +23,7 @@ Role required: itil or admin
 
 ## About this task
 
-When you view a CI, you can see proposed changes before they are applied. This is useful when you want to plan [[migration-utility-modification|modifications]] prior to the approval stage and apply them only after the change is implemented.
+When you view a CI, you can see proposed changes before they are applied. This is useful when you want to plan modifications prior to the approval stage and apply them only after the change is implemented.
 
 If the change is not approved, no records need to be reversed. If it is implemented, select **Apply proposed changes** to apply all proposed changes.
 
@@ -88,6 +88,3 @@ If the change is not approved, no records need to be reversed. If it is implemen
 
 **Parent Topic:**[Create a change request in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-change-sow.md)
 
-## Related
-
-- [[migration-utility-modification|Modifications]]

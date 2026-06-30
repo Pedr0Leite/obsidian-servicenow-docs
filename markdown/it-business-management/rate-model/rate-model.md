@@ -26,7 +26,7 @@ A rate model is a collection of multiple rate lines. A rate line is a unique com
 
 ## Rate model processing
 
-To derive hourly rates from a rate model for the [[c_ResourcePlans|resource plans]] and [[c_TimeCards|time cards]] of a project or demand, associate the rate model with the project or demand.​
+To derive hourly rates from a rate model for the resource plans and time cards of a project or demand, associate the rate model with the project or demand.​
 
 **Note:** A project or demand without a rate model uses the labor rate cards associated with rate type to find a rate for the time cards.
 
@@ -52,16 +52,16 @@ When a rate is requested, the rate model uses the following process.
     -   If a single rate line is found, the corresponding rate is returned.
 
     -   If multiple rate lines are found, the system determines the number of hours in the request that applies to each rate.
-    -   For example, say the rate requested is for [[r_AllocatingResources|resource allocation]] from July 1 to July 30. The rate model has one rate from July 1 to July 15 and a different rate from July 16 to July 30 for the same set of criteria. The rate model applies the first rate to the requested hours for July 1–15 and the second rate to the requested hours for July 16–30.
+    -   For example, say the rate requested is for resource allocation from July 1 to July 30. The rate model has one rate from July 1 to July 15 and a different rate from July 16 to July 30 for the same set of criteria. The rate model applies the first rate to the requested hours for July 1–15 and the second rate to the requested hours for July 16–30.
     If no rate lines match the request, then the request uses the [default rate card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_InstalledWithCostManagement.md).
 
 
 -   **[Create or modify a rate model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/create-rate-model.md)**  
-[[create-rate-model|Create or modify a rate model]] that can be linked to a project or demand to determine planned costs and actuals for their resource. The rate model provides date-effective, criteria-driven hourly rates for these investments.
+Create or modify a rate model that can be linked to a project or demand to determine planned costs and actuals for their resource. The rate model provides date-effective, criteria-driven hourly rates for these investments.
 -   **[Define criteria of a rate model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/define-rate-model-criteria.md)**  
 Set the criteria of a rate model by adding attributes from a set of predefined entities to derive resource hourly rates based on the criteria.
 -   **[Create a rate line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/create-rate-line.md)**  
-In a rate model, [[create-rate-line|create a rate line]] to define an hourly rate based on a set of criteria for a given date range.
+In a rate model, create a rate line to define an hourly rate based on a set of criteria for a given date range.
 -   **[Export rate lines to a file](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/export-rate-lines.md)**  
 Export rate lines to a Microsoft Excel or CSV file to quickly update or add new rate lines and import them back into the rate model.
 -   **[Import rate lines into a rate model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/rate-model/import-rate-lines.md)**  
@@ -69,10 +69,3 @@ Use the import rate lines function to quickly add multiple rate lines from an ex
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[c_TimeCards|Time cards]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[create-rate-model|Create or modify a rate model]]
-- [[create-rate-line|Create a rate line]]

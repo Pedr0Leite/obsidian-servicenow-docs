@@ -40,7 +40,7 @@ SLA breakdown data includes:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Breakdowns** &gt; **Breakdown definitions**, and click **New**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **Breakdowns** &gt; **Breakdown definitions**, and click **New**.
 
 2.  On the form, fill in the fields.
 
@@ -113,6 +113,3 @@ Check box to select if the SLA breakdown definition is active.
 
 **Parent Topic:**[Configuring Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/configuring-service-level-management.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Create a workflow, Workflow management, Classic Workflow, ServiceNo
 
 # Create a workflow for a new service catalog item
 
-When you create a new [[service-catalog|service catalog]] item, you can create a new corresponding workflow at the same time.
+When you create a new service catalog item, you can create a new corresponding workflow at the same time.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create a new [[service-catalog|service catalog]] item, you can create a
 
 2.  At the top of the form, next to **Catalog Items**, click **New** \[Omitted image "NewCatalogItemButton.png"\] Alt text:.
 
-    The [[catalog-item-form|Catalog Item form]] opens.
+    The Catalog Item form opens.
 
 3.  Add a **Name**.
 
@@ -36,7 +36,7 @@ When you create a new [[service-catalog|service catalog]] item, you can create a
 
 6.  Next to Workflow at the top, click **New**.
 
-    \[Omitted image "CreateWorkflowFromServiceCatalog.png"\] Alt text: [[t_CreateAWorkflow|Create a workflow]] from a Service Catalog item. The Workflow version dialog opens in the New Workflow View. The **Table** field is set to **Requested Item \(sc\_req\_item\)** and is read-only.
+    \[Omitted image "CreateWorkflowFromServiceCatalog.png"\] Alt text: Create a workflow from a Service Catalog item. The Workflow version dialog opens in the New Workflow View. The **Table** field is set to **Requested Item \(sc\_req\_item\)** and is read-only.
 
 7.  Add a **Name**.
 
@@ -56,14 +56,8 @@ When you create a new [[service-catalog|service catalog]] item, you can create a
 
 13. Click **Update**.
 
-    If you close the [[workflow-editor|Workflow Editor]], you can see the Catalog Item record. Note that the workflow is added to the Workflow field. The Show Workflow and Information icons appear next to the **Workflow** field. Hover over the information icon to view a read-only summary of the workflow.
+    If you close the Workflow Editor, you can see the Catalog Item record. Note that the workflow is added to the Workflow field. The Show Workflow and Information icons appear next to the **Workflow** field. Hover over the information icon to view a read-only summary of the workflow.
 
 
 **Parent Topic:**[Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-item-form|Catalog Item form]]
-- [[t_CreateAWorkflow|Create a workflow]]
-- [[workflow-editor|Workflow editor]]

@@ -14,7 +14,7 @@ breadcrumb: [Cloud resource discovery references, Data collected by ITOM Visibil
 
 # Data collected for VMware Cloud Discovery
 
-[[r-discovery|Discovery]] collects information about VMware resources in your cloud service accounts.
+Discovery collects information about VMware resources in your cloud service accounts.
 
 ## Distributed Resource Scheduler \(DRS\) discovery
 
@@ -973,7 +973,7 @@ Discovery identifies ESXi servers based on the correlation ID \(BIOS UUID\), whe
 |Component and Name|Description|
 |------------------|-----------|
 |Classifier \[vCenter\]|Classifies standalone vCenter servers.|
-|Probe \[VMWare - vCenter ESX Hosts\]|Creates records for ESXi servers and host mounts. Creates relationships between ESXi servers and vCenter components. Triggers probes for [[c_Storage|storage Discovery]].|
+|Probe \[VMWare - vCenter ESX Hosts\]|Creates records for ESXi servers and host mounts. Creates relationships between ESXi servers and vCenter components. Triggers probes for storage Discovery.|
 |Probe \[VMWare - vCenter ESX Hosts Storage\]|Creates records for ESXi host hardware: network adapters, disks, HBAs, FC ports, iSCSI, and FC disks. Creates relationships between DAS/iSCSI/FC disks and datastore disks.|
 
 ## Data collected
@@ -1321,7 +1321,3 @@ Once an ESXi server is migrated to vCenter, triggering a standalone ESXi discove
 
 **Parent Topic:**[Cloud resource discovery references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/cloud-discovery-collected-data.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_Storage|Storage discovery]]

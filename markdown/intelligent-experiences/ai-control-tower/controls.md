@@ -15,7 +15,7 @@ breadcrumb: [Configurations, AI Control Tower dashboard, Explore, AI Control Tow
 
 # Controls
 
-Explore the **Controls** section on the [[exploring-ai-governance|configurations]] page of the [[ai-control-tower-landing|AI Control Tower]].
+Explore the **Controls** section on the configurations page of the AI Control Tower.
 
 Expand the **Controls** section to explore the sub sections:
 
@@ -23,7 +23,3 @@ Expand the **Controls** section to explore the sub sections:
 -   [Explore AI model providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/ai-model-providers.md)
 -   [Automation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-control-tower/automation-rules.md)
 
-## Related
-
-- [[exploring-ai-governance|Configurations]]
-- [[ai-control-tower-landing|AI Control Tower]]

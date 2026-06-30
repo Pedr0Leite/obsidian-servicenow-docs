@@ -20,10 +20,7 @@ To access the Administration tab, navigate to **Workspaces** &gt; **Service Oper
 
 **Note:** To view the **Administration** tab, you must have the sn\_dex.admin role.
 
-Use the DEX Administration tab to monitor and manage [[dex-workspace-application-tab|applications]]. Use Application management, Agent policies, User roles, System compliance, Metric rules, File management, Windows registry management, Remedial Actions, and Administrator cards to find more information. Track Agent Client Collector installations in Agent health. For more information on each card, see [Administration cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md).
+Use the DEX Administration tab to monitor and manage applications. Use Application management, Agent policies, User roles, System compliance, Metric rules, File management, Windows registry management, Remedial Actions, and Administrator cards to find more information. Track Agent Client Collector installations in Agent health. For more information on each card, see [Administration cards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/administration-cards.md).
 
 [View Desktop Assistant usage metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/view-da-usage-metrics.md) to monitor your Desktop Assistant connection status verifying communication with the ServiceNow instance. For more information on Desktop Assistant, see [Use DEX Desktop Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/use-dex-desktop-exp.md).
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

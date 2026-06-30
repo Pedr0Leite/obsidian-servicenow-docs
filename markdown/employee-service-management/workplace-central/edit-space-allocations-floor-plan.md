@@ -24,9 +24,9 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-2.  On the side navigation, select the **[[space-planning|Space Planning]]** module.
+2.  On the side navigation, select the **Space Planning** module.
 
     The Space Planning workspace opens with the **Floor plan** tab selected by default.
 
@@ -102,7 +102,3 @@ You can also review the current allocation details based on your selection.
 </table>
 **Parent Topic:**[Use Floor Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-floor-plan.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[space-planning|Space Planning]]

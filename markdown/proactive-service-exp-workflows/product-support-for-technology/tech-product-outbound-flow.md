@@ -14,7 +14,7 @@ breadcrumb: [Proactive Service Experience Workflows, Product Support for Technol
 
 # Integrating Proactive Service Experience Workflows with southbound external systems
 
-In [[psew-landing-page|Proactive Service Experience Workflows]], you can submit outbound service test run requests to various external systems by integrating the application with the external southbound systems.
+In Proactive Service Experience Workflows, you can submit outbound service test run requests to various external systems by integrating the application with the external southbound systems.
 
 ## Overview of southbound external systems
 
@@ -54,6 +54,4 @@ The integration process for with the external service test management systems is
 
     **Note:** The customer must fill the id field of the test measure definition.
 
-## Related
 
-- [[psew-landing-page|Proactive Service Experience Workflows]]

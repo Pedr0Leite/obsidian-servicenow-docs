@@ -72,7 +72,7 @@ Use the Cloud Provisioning and Governance application to provide a single interf
 
 </td><td>
 
-Uses bases [[base-system-roles|system roles]]. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
+Uses bases system roles. See [Base system roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/r_BaseSystemRoles.md).
 
 </td><td>
 
@@ -142,6 +142,3 @@ pa\_data\_collector
 </td></tr></tbody>
 </table>**Parent Topic:**[Select your adoption blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/admin-center/ac-select-business-objective.md)
 
-## Related
-
-- [[base-system-roles|System roles]]

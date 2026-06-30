@@ -80,30 +80,20 @@ Genesys uses the Audio Connector integration and the WebSocket channel type. Aft
 
 The **Web Real-Time Communication \(WebRTC\)** tab connects the voice assistant to mobile applications.
 
-For more information, see [[integrate-voice-assistant-with-mobile-app-voice-launcher|Integrate voice assistant with mobile app voice launcher]].
+For more information, see [Integrate voice assistant with mobile app voice launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-assistant-with-mobile-app-voice-launcher.md).
 
--   **[[integrate-voice-service-with-twilio|Integrate ServiceNow voice assistant with Twilio voice service]]**  
+-   **[Integrate ServiceNow voice assistant with Twilio voice service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-twilio.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow AI voice assistant with the Twilio voice service.
--   **[[integrate-voice-service-with-genesys|Integrate ServiceNow voice assistant with Genesys Cloud service \(Audio Connector\)]]**  
+-   **[Integrate ServiceNow voice assistant with Genesys Cloud service \(Audio Connector\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-genesys.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow AI voice assistant with Genesys Cloud service using the Audio Connector integration.
--   **[[integrate-voice-service-with-genesys-sip|Integrate ServiceNow voice assistant with Genesys Cloud service \(SIP\)]]**  
+-   **[Integrate ServiceNow voice assistant with Genesys Cloud service \(SIP\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-genesys-sip.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow voice assistant with Genesys Cloud service using the Session Initiation Protocol \(SIP\) communication channel.
--   **[[integrate-voice-service-with-3clogic|Integrate ServiceNow voice assistant with 3CLogic]]**  
+-   **[Integrate ServiceNow voice assistant with 3CLogic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-3clogic.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow AI voice assistant with the 3CLogic voice service.
--   **[[integrate-voice-service-with-amazon-connect|Integrate ServiceNow voice assistant with Amazon Connect]]**  
+-   **[Integrate ServiceNow voice assistant with Amazon Connect](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-amazon-connect.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow voice assistant with Amazon Connect.
--   **[[integrate-voice-service-with-five9|Integrate ServiceNow voice assistant with Five9]]**  
+-   **[Integrate ServiceNow voice assistant with Five9](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrate-voice-service-with-five9.md)**  
 Enable users to get support from AI voice agents by integrating a ServiceNow voice assistant with Five9 voice service.
 
-**Parent Topic:**[[deploy-ai-agents-for-voice|Deploy AI voice agents]]
+**Parent Topic:**[Deploy AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/deploy-ai-agents-for-voice.md)
 
-## Related
-
-- [[integrate-voice-assistant-with-mobile-app-voice-launcher|Integrate voice assistant with mobile app launcher]]
-- [[integrate-voice-service-with-twilio|Integrate ServiceNow voice assistant with Twilio voice service]]
-- [[integrate-voice-service-with-genesys|Integrate ServiceNow voice assistant with Genesys Cloud service \(Audio Connector\)]]
-- [[integrate-voice-service-with-genesys-sip|Integrate ServiceNow voice assistant with Genesys Cloud service \(SIP\)]]
-- [[integrate-voice-service-with-3clogic|Integrate ServiceNow voice assistant with 3CLogic]]
-- [[integrate-voice-service-with-amazon-connect|Integrate ServiceNow voice assistant with Amazon Connect]]
-- [[integrate-voice-service-with-five9|Integrate ServiceNow voice assistant with Five9]]
-- [[deploy-ai-agents-for-voice|Deploy AI voice agents]]

@@ -21,7 +21,7 @@ The Faq widget displays a list of frequently asked questions \(FAQ\) articles fo
 ## Key features
 
 -   Displayed for both logged-in and non-logged-in users.
--   By default, shows maximum of five FAQ articles from the [[hcls-overview|Healthcare and Life Sciences]] knowledge base.
+-   By default, shows maximum of five FAQ articles from the Healthcare and Life Sciences knowledge base.
 
 \[Omitted image "hcls-widget-io-faq.png"\] Alt text: Screenshot displaying theFaq widget instance options. For the text description, refer to the Faq widget instance options fields section.
 
@@ -68,6 +68,3 @@ Maximum number of articles that appear on the widget. The default value is **3**
 </td></tr></tbody>
 </table>**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 
-## Related
-
-- [[hcls-overview|Healthcare and Life Sciences]]

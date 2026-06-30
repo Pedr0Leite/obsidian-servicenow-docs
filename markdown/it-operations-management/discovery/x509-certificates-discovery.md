@@ -14,7 +14,7 @@ breadcrumb: [Certificate Inventory and Management patterns, Certificate Inventor
 
 # Java KeyStore and Windows Certificate Store discovery
 
-[[r-discovery|Discovery]] uses the **Collect Certificates** extension section of the **Linux Server** and **Windows OS – Servers** patterns to discover certificates stored in the Java KeyStore or Windows Certificate Store. Discovering the certificate information requires installing and updating Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns and [[cert-inventory-mgmt|Certificate Inventory and Management]].
+Discovery uses the **Collect Certificates** extension section of the **Linux Server** and **Windows OS – Servers** patterns to discover certificates stored in the Java KeyStore or Windows Certificate Store. Discovering the certificate information requires installing and updating Discovery and Service Mapping Patterns and Certificate Inventory and Management.
 
 ## Request apps on the Store
 
@@ -249,8 +249,3 @@ A reference to the root certificate record. The reference is available if the is
 </td></tr></tbody>
 </table>**Parent Topic:**[Certificate Inventory and Management patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

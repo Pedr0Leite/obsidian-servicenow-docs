@@ -16,7 +16,7 @@ breadcrumb: [Creating and maintaining articles, Knowledge Management, Manage con
 
 Initiate the retirement workflow to retire a knowledge article. Knowledge base owners and managers can view articles after they are retired but cannot search for retired articles on the Knowledge homepage and portal.
 
-A knowledge article has an associated retirement workflow, similar to the publishing workflow. This allows administrators to configure these workflows, defining an approval and [[c_ReviewProcess|review process]] for retiring knowledge if appropriate.
+A knowledge article has an associated retirement workflow, similar to the publishing workflow. This allows administrators to configure these workflows, defining an approval and review process for retiring knowledge if appropriate.
 
 When editing an article, select **Retire**. This launches the retirement workflow associated with that article. Only knowledge administrator, knowledge manager, and the latest publisher of the versioned knowledge article \(not available for kcs\_candidate or kcs\_contributor\) can retire a knowledge article. For more information, see [Retire a versioned article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/retire-versioned-article.md). If the article requires approval prior to retirement, the article goes to a pending approval state, and the workflow either finishes when approved or cancels if rejected by an approver. The article number associated with the retired article is not available for reuse. For information on the status of a knowledge article see [Knowledge article states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-states.md).
 
@@ -41,6 +41,3 @@ You can provide a replacement article while retiring a knowledge article. When t
 
 Users with the admin role can delete a published knowledge article. On an article record, select **Delete**. If the **Delete** button isn't displayed, select the more actions icon \(\[Omitted image "more.png"\] Alt text: More actions icon\), and then select **Delete**.
 
-## Related
-
-- [[c_ReviewProcess|Review process]]

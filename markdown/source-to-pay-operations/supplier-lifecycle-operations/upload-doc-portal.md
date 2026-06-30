@@ -14,11 +14,11 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # Manage documents from the Supplier Collaboration Portal
 
-Manage documents by uploading, updating and downloading the required documents from the [[supplier-central|Supplier Collaboration Portal]].
+Manage documents by uploading, updating and downloading the required documents from the Supplier Collaboration Portal.
 
 ## Before you begin
 
-Ensure that you have created a [[supplier|supplier]] document configuration. For more information, see [Supplier Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md).
+Ensure that you have created a supplier document configuration. For more information, see [Supplier Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-doc-mgmt-overview.md).
 
 Role required: sn\_slm.contact or sn\_slm.admin
 
@@ -57,7 +57,7 @@ Complete the document upload tasks assigned to you from the My tasks page on the
 
 [Raising requests from the Supplier Collaboration Portal]()
 
-[Viewing [[supplier-contact|supplier contact]] tasks from the Supplier Collaboration Portal]()
+[Viewing supplier contact tasks from the Supplier Collaboration Portal]()
 
 [View or update your user profile from the Supplier Collaboration Portal]()
 
@@ -71,15 +71,9 @@ Complete the document upload tasks assigned to you from the My tasks page on the
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-## Related
-
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

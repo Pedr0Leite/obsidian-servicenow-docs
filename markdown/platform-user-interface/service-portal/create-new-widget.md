@@ -22,7 +22,7 @@ Role required: admin or sp\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Service Portal Configuration**.
 
 2.  Select **Widget Editor**.
 
@@ -47,6 +47,3 @@ Role required: admin or sp\_admin
 
 **Parent Topic:**[Developing custom widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dev-guide.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

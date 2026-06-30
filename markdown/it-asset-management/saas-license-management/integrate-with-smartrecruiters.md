@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with SmartRecruiters
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the SmartRecruiters application enables you to track your software subscriptions and deactivate stale users. The reclamation flow deactivates only the users’ access. The reclamation flow does not affect the subscription cost because SmartRecruiters is not priced based on the number of users.
+Integrating your Software Asset Management application with the SmartRecruiters application enables you to track your software subscriptions and deactivate stale users. The reclamation flow deactivates only the users’ access. The reclamation flow does not affect the subscription cost because SmartRecruiters is not priced based on the number of users.
 
 **Important:** Minimize security risks and protect information by granting access only to the necessary user or API permissions.
 
@@ -63,7 +63,7 @@ Create a SmartRecruiters integration profile to track software subscriptions and
 
 ### Before you begin
 
-The Software Asset Management - [[sam-subscription-management|SaaS License Management]] plugin \(sn\_sam\_saas\_int\) must be installed from the [ServiceNow Store](https://store.servicenow.com/).
+The Software Asset Management - SaaS License Management plugin \(sn\_sam\_saas\_int\) must be installed from the [ServiceNow Store](https://store.servicenow.com/).
 
 ServiceNow Role required: sam\_integrator
 
@@ -71,7 +71,7 @@ ServiceNow Role required: sam\_integrator
 
 ### About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to create the SmartRecruiters integration profile in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to create the SmartRecruiters integration profile in Core UI is inactive.
 
 ### Procedure
 
@@ -98,7 +98,7 @@ Action
 
 </td></tr><tr><td id="d80379e435">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -162,7 +162,7 @@ Type of integration profile. This field is automatically set to **SmartRecruiter
 
         **Note:** Software Asset Management pulls the events from the time that you start analyzing user activity irrespective of the profile creation date.
 
-        You can modify this value in the Last activity threshold field of your [[sw-reclamation-rules|software reclamation rules]]. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
+        You can modify this value in the Last activity threshold field of your software reclamation rules. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
     3.  In the Reclaim Subscription Subflow section, verify that the **Subflow** field is set to **SmartRecruiters Reclaim Subscription**.
 
@@ -241,7 +241,7 @@ API key for your SmartRecruiters applications. Enter the same API key that you g
 
 ### What to do next
 
-After the integration connects, your ServiceNow instance automatically creates [[c_CreatingSoftwareModels|software models]], reclamation rules, and software subscriptions that are refreshed daily.
+After the integration connects, your ServiceNow instance automatically creates software models, reclamation rules, and software subscriptions that are refreshed daily.
 
 After creating an integration profile, view information about the profile in the Software Asset Workspace by navigating to **License operations** &gt; **User subscription** &gt; **Direct integration profiles**. You can select an integration profile to view the following related lists. If all of the following related lists aren't visible for an integration profile in the default view, you can select the custom integration view from the Details tab:
 
@@ -270,11 +270,3 @@ Reconciliation also runs on your subscriptions as a scheduled job or on-demand. 
 -   For more information on running reconciliation in the Software Asset Management classic application, see [Run software reconciliation in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RunReconciliation.md).
 -   For more information on running reconciliation in the Software Asset Workspace, see [Run software reconciliation in the workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/run-recon-workspace.md).
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-subscription-management|SaaS License Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[sw-reclamation-rules|Software reclamation rules]]
-- [[c_CreatingSoftwareModels|Software models]]

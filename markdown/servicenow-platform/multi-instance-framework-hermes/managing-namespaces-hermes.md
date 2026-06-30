@@ -64,7 +64,7 @@ Plan how want to organize your namespaces and topics before you start creating t
     You can enforce tighter constraints on where topics are created by deleting the Default Namespace. For example, if you decide that all topics must have a prefix that matches a namespace, deleting the Default Namespace ensures that topics without a matching prefix aren't created.
 
 
-For details on using [[domain-separation-relationship-formatter-editor|domain separation]] with namespaces in Hermes, see [Hermes Messaging Service domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-domain-separation.md).
+For details on using domain separation with namespaces in Hermes, see [Hermes Messaging Service domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/hermes-messaging-service-domain-separation.md).
 
 -   **[Create a namespace in Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/create-namespace-hermes.md)**  
 Organize your Kafka topics by creating a namespace.
@@ -80,6 +80,3 @@ Prevent topics from being added to a namespace by deleting the namespace in Herm
 
 [Monitoring topics in the Hermes Kafka cluster]()
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

@@ -43,7 +43,7 @@ The CI lists for empty application services, that do not contain any CIs contain
 
 3.  Click the name of the application service for which you want to view the list of CIs.
 
-    The [[r-discovery|discovery]] state of the selected service must be **Done**.
+    The discovery state of the selected service must be **Done**.
 
 4.  Click **List CIs** under Related Links.
 
@@ -58,6 +58,3 @@ The CI lists for empty application services, that do not contain any CIs contain
 
 **Parent Topic:**[Application service analysis and maintenance using classic Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_SvcPlanningAndAnalysisUsingMaps.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

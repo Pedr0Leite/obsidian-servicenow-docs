@@ -18,7 +18,7 @@ You can create a purchase order. Purchase orders specify assets to order from a 
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -212,7 +212,7 @@ Received
 
 </td><td>
 
-The date and time at which the [[r_FollowAPurchaseOrderStatus|purchase order status]] changed to **Received**.
+The date and time at which the purchase order status changed to **Received**.
 
 </td></tr><tr><td>
 
@@ -263,11 +263,11 @@ The purchase order record and the purchase order line item record both contain t
 -   **[Cancel a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CancelAPurchaseOrder.md)**  
 You can cancel purchase orders with a status of **Requested**, **Ordered**, or **Pending Delivery**.
 -   **[Cancel a purchase order line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_CancelAPurchaseOrderLineItem.md)**  
-You can [[t_CancelAPurchaseOrder|cancel a purchase order]] line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
+You can cancel a purchase order line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
 -   **[Reorder a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ReorderAPurchaseOrder.md)**  
-You can [[t_ReorderAPurchaseOrder|reorder a purchase order]] that was canceled.
+You can reorder a purchase order that was canceled.
 -   **[Reorder a purchase order line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ReorderAPurchaseOrderLineItem.md)**  
-You can [[t_ReorderAPurchaseOrderLineItem|reorder a purchase order line item]] that was canceled.
+You can reorder a purchase order line item that was canceled.
 
 **Parent Topic:**[Procurement purchase order management for assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/c_UseProcurement.md)
 
@@ -284,10 +284,3 @@ You can [[t_ReorderAPurchaseOrderLineItem|reorder a purchase order line item]] t
 
 [Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/c_TransferOrders.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[r_FollowAPurchaseOrderStatus|Purchase order status]]
-- [[t_CancelAPurchaseOrder|Cancel a purchase order]]
-- [[t_ReorderAPurchaseOrder|Reorder a purchase order]]
-- [[t_ReorderAPurchaseOrderLineItem|Reorder a purchase order line item]]

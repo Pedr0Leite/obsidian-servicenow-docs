@@ -14,7 +14,7 @@ breadcrumb: [Managing order fallout, Order Management, Use, Sales Customer Relat
 
 With Fallout Management, a provider can create automated fallout records for specific order tasks so that your orders can continue processing through to completion.
 
-To enable creation of automated fallout records, you configure an [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] workflow in the Workflow Studio.
+To enable creation of automated fallout records, you configure an order fulfillment workflow in the Workflow Studio.
 
 -   To do so, use the **Create fallout** action when defining processing scenarios and conditions.
 -   You can define workflows for the parent records that the order tasks originate from. Generally, order tasks originate from the customer or service orders and order line items.
@@ -25,7 +25,7 @@ You might encounter the following scenarios when you are attempting to fulfill c
 
 ## Scenarios of fallout failures with downstream systems
 
-This fallout scenario could be a situation where failures are expected to be temporary and resolved over time. Ideally, order processing should not be affected, and work should [[Resume|resume]] after the network and system resources come back online. A typical scenario is as follows:
+This fallout scenario could be a situation where failures are expected to be temporary and resolved over time. Ideally, order processing should not be affected, and work should resume after the network and system resources come back online. A typical scenario is as follows:
 
 -   The order task sends a request to an external or provisioning system.
 -   The response from the external system comes back as `Timeout` or `Unable to reach`.
@@ -48,19 +48,12 @@ You can define a workflow that automatically creates fallout records whenever in
 
 Even when the right data structure is submitted in an external system, errors can happen due to the business logic that is implemented in the external system.
 
-**Parent Topic:**[[fallout-management-overview|Managing order fallout]]
+**Parent Topic:**[Managing order fallout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/fallout-management-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[fallout-management-overview|Managing order fallout]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[Resume|Resume]]

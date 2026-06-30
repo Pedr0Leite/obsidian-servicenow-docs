@@ -14,7 +14,7 @@ breadcrumb: [Application monitoring setup, Configure, Digital End-User Experienc
 
 # Onboard for DEX Application and Device Health
 
-During the onboarding process, when there's no application listed to be monitored, you can begin by accessing a list of available [[dex-workspace-application-tab|applications]]. You can also add your own custom applications and enable them for monitoring along with any existing applications.
+During the onboarding process, when there's no application listed to be monitored, you can begin by accessing a list of available applications. You can also add your own custom applications and enable them for monitoring along with any existing applications.
 
 ## Before you begin
 
@@ -32,9 +32,9 @@ Role required: sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
-3.  Select **Configure Applications** on the [[app-mngmt-card|Application management card]].
+3.  Select **Configure Applications** on the Application management card.
 
     A pre-existing list of monitoring-enabled applications is provided, initially turned off. You can add your own application to the list.
 
@@ -56,8 +56,3 @@ You can explore the product and learn about the various pages and their offering
 
 **Parent Topic:**[DEX application monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-application-monitoring.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[app-mngmt-card|Application management card]]

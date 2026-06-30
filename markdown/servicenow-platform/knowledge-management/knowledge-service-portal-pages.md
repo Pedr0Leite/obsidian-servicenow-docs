@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Knowledge Management Service Portal homepage features
 
-The [[knowledge-management|Knowledge Management]] Service Portal homepage displays knowledge articles organized by knowledge base and category, as well as featured content and popular articles. Learn how to navigate the homepage to search for and find useful and relevant information quickly.
+The Knowledge Management Service Portal homepage displays knowledge articles organized by knowledge base and category, as well as featured content and popular articles. Learn how to navigate the homepage to search for and find useful and relevant information quickly.
 
 To use the Knowledge Management Service Portal, the Knowledge Management — Service Portal plugin \(com.snc.knowledge\_serviceportal\) must be activated.
 
@@ -70,7 +70,7 @@ Overflow icon \(\[Omitted image "KnowledgeServicePortalOverflowIcon.png"\] Alt t
 
 </td><td>
 
-Click the Overflow icon and select **Create Article** to [[create-knowledge-article|create a knowledge article]].
+Click the Overflow icon and select **Create Article** to create a knowledge article.
 
 </td></tr><tr><td>
 
@@ -119,7 +119,3 @@ Lists the top five articles with the most views.
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[create-knowledge-article|Create a knowledge article]]

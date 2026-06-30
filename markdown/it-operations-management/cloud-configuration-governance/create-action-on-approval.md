@@ -14,7 +14,7 @@ breadcrumb: [Create a cloud policy, Policies for Cloud Provisioning, Cloud Admin
 
 # Create an action for an approval policy
 
-A policy that is triggered by one of the approval triggers can start approval subflows. The approval triggers are \(on Blueprint provision \(approval\), on Stack operation \(approval\), on Stack resource operation \(approval\), and on Task [[ccg-remediation|remediation]].
+A policy that is triggered by one of the approval triggers can start approval subflows. The approval triggers are \(on Blueprint provision \(approval\), on Stack operation \(approval\), on Stack resource operation \(approval\), and on Task remediation.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ When multiple "approval" policies apply, the policies are applied in the followi
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -147,7 +147,3 @@ Select one or more users to whom the approval action applies. All selected users
 </table>
 **Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

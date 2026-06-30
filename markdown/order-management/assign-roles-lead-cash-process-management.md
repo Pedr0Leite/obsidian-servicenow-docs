@@ -12,7 +12,7 @@ breadcrumb: [Lead-to-Cash Process Management, Order operations apps, Configure, 
 
 # Assign roles to Lead-to-Cash Process Management users
 
-Assign roles to your users so that they can access features, capabilities, and data in the [[explore-lead-cash-process-management|Lead-to-Cash Process Management]] application.
+Assign roles to your users so that they can access features, capabilities, and data in the Lead-to-Cash Process Management application.
 
 ## Before you begin
 
@@ -119,12 +119,7 @@ Sales process manager
 
 [Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ua-creating-groups.md)
 
-[[components-installed-lead-cash-process-management|Components installed with Lead-to-Cash Process Management]]
+[Components installed with Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-lead-cash-process-management.md)
 
-[[components-installed-business-object-core|Components installed with Business Object Core]]
+[Components installed with Business Object Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-business-object-core.md)
 
-## Related
-
-- [[components-installed-lead-cash-process-management|Components installed with Lead-to-Cash Process Management]]
-- [[components-installed-business-object-core|Components installed with Business Object Core]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]

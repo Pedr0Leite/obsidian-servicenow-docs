@@ -18,7 +18,7 @@ After you submit a new transfer order, the system examines all existing transfer
 
 The system uses these criteria to merge transfer orders:
 
--   Created from the [[fsm-application-landing-page|Field Service Management]] application. \(Configure the transfer order record to add the **Type** field.\)
+-   Created from the Field Service Management application. \(Configure the transfer order record to add the **Type** field.\)
 -   In the **Draft** stage.
 -   Same **From Stockroom**.
 -   Same **Destination Stockroom**.
@@ -27,6 +27,3 @@ If an existing transfer order matches these criteria, the new transfer order lin
 
 When all the transfer order lines under a part requirement are delivered to the assigned agent's personal stockroom, the part requirement is marked **Delivered**. When both the consumable and non-consumable assets are delivered, the system changes their **State** to **In stock** and their **Substate** to **Reserved** \(in [Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_AssetManagement.md)\).
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

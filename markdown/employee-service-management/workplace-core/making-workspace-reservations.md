@@ -14,11 +14,11 @@ breadcrumb: [Request employee-related services, Workplace Core, Workplace Servic
 
 # Making workplace reservations
 
-Make workplace reservations in [[workplace-safety-mgmt-hr|Workplace Core]] when you are ready to return to the office. You can [[reserve-space-for-a-day|reserve a workplace for a day]] or less directly or request a workplace for a specified period. Once a reservation request is approved and confirmed, you are notified about the reservation details. The [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] also offers more advanced workplace reservation options in the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+Make workplace reservations in Workplace Core when you are ready to return to the office. You can reserve a workplace for a day or less directly or request a workplace for a specified period. Once a reservation request is approved and confirmed, you are notified about the reservation details. The Workplace Service Delivery also offers more advanced workplace reservation options in the Workplace Reservation Management application.
 
 ## Reserving a workplace
 
-As an employee, you can request a workplace reservation [[using-emp-center|using Employee Center]].
+As an employee, you can request a workplace reservation using Employee Center.
 
 When making a reservation, you can choose an available space that you want to access or select an available area. If you have made a reservation for an area, you can work from any available space within that area when you return to the office.
 
@@ -63,10 +63,3 @@ Reserve workplaces for a day on which you want to return to the office by using 
 
 [Manage workplace activities and services with Location directory]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reserve-space-for-a-day|Reserve a workplace for a day]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[using-emp-center|Using Employee Center]]

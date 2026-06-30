@@ -22,7 +22,7 @@ The JSON v2 format is the same as the format that clients use to send event mess
 
 For more information, see [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md).
 
-**Note:** [[c_EM|Event Management]] accepts events in the timezone of the MID Server through which the listener has sent the event message. If you require a different timezone, you can configure the script as required, see [Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md).
+**Note:** Event Management accepts events in the timezone of the MID Server through which the listener has sent the event message. If you require a different timezone, you can configure the script as required, see [Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md).
 
 ## URL to push custom payloads
 
@@ -76,6 +76,3 @@ For more information about authentication and data security, see [Configure the 
 
 [Pushing events to the instance using web service API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/send-events-via-web-service.md)
 
-## Related
-
-- [[c_EM|Event Management]]

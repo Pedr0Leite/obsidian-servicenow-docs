@@ -14,7 +14,7 @@ breadcrumb: [Dynamic topic pages, Setup Employee Center browse experience featur
 
 # Connect content to topic pages with the topic list selector
 
-Get a uniform Service Catalog item-to-topic association experience with the topic list selector on [[employee-center-landing-page|Employee Center]].
+Get a uniform Service Catalog item-to-topic association experience with the topic list selector on Employee Center.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ You can associate any Service Catalog item to multiple topic pages using the top
 -   Choose multiple topics altogether in any active taxonomy to associate with a Service Catalog item.
 -   Add up to eight levels of sub-tree topics to the Service Catalog item.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

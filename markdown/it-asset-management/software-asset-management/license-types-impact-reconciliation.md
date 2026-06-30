@@ -15,7 +15,7 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 # Impact of different license types on software reconciliation
 
-Each license type has entitlements and conditions outlined on the entitlement form, and more importantly, these license types have a significant impact on the [[c_SoftwareAssetMgmt|Software Asset Management]] \(SAM\) reconciliation process.
+Each license type has entitlements and conditions outlined on the entitlement form, and more importantly, these license types have a significant impact on the Software Asset Management \(SAM\) reconciliation process.
 
 <table id="table_mtr_hzy_bfc"><thead><tr><th>
 
@@ -222,6 +222,3 @@ The From SA license must be associated with a perpetual Office legacy license wi
 
 [Software entitlement fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-entitlement-fields.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

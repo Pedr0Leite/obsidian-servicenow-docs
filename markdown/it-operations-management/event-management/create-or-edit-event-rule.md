@@ -14,7 +14,7 @@ breadcrumb: [Event rules, Processing Events, Configuring Event Management, Event
 
 # Create or edit an event rule
 
-You can create [[create-event-rules|event rules]] to generate alerts for tracking and [[ccg-remediation|remediation]]. Use team-based integrations in event rules to make sure that connector ownership and execution of rules give precedence to general rules. Teams can maintain consistency and hierarchy while offering flexibility and customization options.
+You can create event rules to generate alerts for tracking and remediation. Use team-based integrations in event rules to make sure that connector ownership and execution of rules give precedence to general rules. Teams can maintain consistency and hierarchy while offering flexibility and customization options.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ You can refresh an existing event rule with new event data. For more information
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Event Rules** and take one of the following actions.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules** and take one of the following actions.
 
 <table id="choicetable_u5d_w1m_zt"><tbody><tr><td id="d569942e178">
 
@@ -200,8 +200,3 @@ Configure event rules to automatically bind alerts to CI information from the CM
 
 [Filter the events that an event rule applies to](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateFilter.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

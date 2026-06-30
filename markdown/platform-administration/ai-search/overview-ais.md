@@ -14,7 +14,7 @@ breadcrumb: [Search administration, Configure core features, Administer the Serv
 
 # AI Search
 
-The ServiceNow® [[ia-ai-search|AI Search]] application provides a consumer-grade search engine for ServiceNow® Service Portal, ServiceNow® Now Mobile, and ServiceNow® Virtual Agent. Intelligent query features help you quickly find the answers you need.
+The ServiceNow® AI Search application provides a consumer-grade search engine for ServiceNow® Service Portal, ServiceNow® Now Mobile, and ServiceNow® Virtual Agent. Intelligent query features help you quickly find the answers you need.
 
 \[Omitted video\] Description: AI Search overview video, approximately three minutes and five seconds long.
 
@@ -44,7 +44,7 @@ Watch this short video to see how users can find answers using AI Search.
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details on [[system-properties-ais|AI Search system properties]] and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details on AI Search system properties and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Watch this short video to see how users can find answers using AI Search.
 
 </td><td>
 
-[Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/adv-ais-mgmt-tools-content-pack.md) \[Omitted image "bus-it-leader.svg"\] Alt text:Analyze trends for search query traffic, review indexed record counts and configuration settings, and preview search query [[hs-results|results]].
+[Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/adv-ais-mgmt-tools-content-pack.md) \[Omitted image "bus-it-leader.svg"\] Alt text:Analyze trends for search query traffic, review indexed record counts and configuration settings, and preview search query results.
 
 </td><td>
 
@@ -61,8 +61,3 @@ Watch this short video to see how users can find answers using AI Search.
 </td></tr></tbody>
 </table>**Note:** AI Search isn't available in personal developer instances \(PDIs\).
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[system-properties-ais|AI Search system properties]]
-- [[hs-results|Results]]

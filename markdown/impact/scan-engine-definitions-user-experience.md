@@ -12,7 +12,7 @@ breadcrumb: [Scan Engine definitions, Diagnose technical debt, Platform Health, 
 
 # Scan Engine definitions: User Experience
 
-Scan Engine [[user-experience-insights|user experience]] definitions evaluate the quality of user interactions with applications. Considers the ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional [[impact-landing-page|impact]].
+Scan Engine user experience definitions evaluate the quality of user interactions with applications. Considers the ease of use, efficiency, design, responsiveness, accessibility, and its emotional and functional impact.
 
 ## Australia definitions
 
@@ -236,7 +236,7 @@ End users may become frustrated with the lack of how to use the system.
 
 </td><td>
 
-Add a hint describing any pertinent information about the field to [[io-help|help]] the end user better understand the field's purpose.
+Add a hint describing any pertinent information about the field to help the end user better understand the field's purpose.
 
 </td><td>
 
@@ -972,7 +972,7 @@ Excessive Client Scripts
 
 </td><td>
 
-Users may experience reduced [[instance-observer-performance|performance]] while loading or updating records.
+Users may experience reduced performance while loading or updating records.
 
 </td><td>
 
@@ -1240,10 +1240,3 @@ First, upload an image by navigating to System UI &gt; Images &gt; New. Once upl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[user-experience-insights|User Experience]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

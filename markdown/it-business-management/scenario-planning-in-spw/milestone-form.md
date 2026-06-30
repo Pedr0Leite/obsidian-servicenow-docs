@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Roadmap milestone form
 
-Learn about the fields of the [[roadmap-milestone-form|roadmap milestone form]]. Use this form to [[t_CreateMilestones|create a milestone]] for the timeline of your roadmap in [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn about the fields of the roadmap milestone form. Use this form to create a milestone for the timeline of your roadmap in Strategic Planning workspace.
 
 <table id="table_mht_s4h_cqb"><thead><tr><th>
 
@@ -70,8 +70,3 @@ User who is assigned to the milestone.
 
 [Update a roadmap milestone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-roadmap-milestone.md)
 
-## Related
-
-- [[roadmap-milestone-form|Roadmap milestone form]]
-- [[t_CreateMilestones|Create a milestone]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

@@ -14,32 +14,21 @@ breadcrumb: [Order Management, Use, Sales Customer Relationship Management]
 
 Learn how to qualify and manage service orders, work with external product inventory, and manage outbound requests.
 
--   **[[ext-inventory-id|External product inventory ID]]**  
-You can use a product inventory ID from external Configure, Price, and Quote \(CPQ\) systems in the Order Management application to complete the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] flow for various actions on the product and service orders.
--   **[[order-mgt-outbound-request|Create outbound requests for service orders]]**  
-As a provider, create an [[outbound-request-configuration-table|outbound request]] for the service orders. You can interact with the external Service Order Management \(SOM\) or Technical Order Management \(TOM\) systems to manage the end-to-end order fulfillment process.
--   **[[network-slice|Orders for 5G sliced networks]]**  
+-   **[External product inventory ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/ext-inventory-id.md)**  
+You can use a product inventory ID from external Configure, Price, and Quote \(CPQ\) systems in the Order Management application to complete the order fulfillment flow for various actions on the product and service orders.
+-   **[Create outbound requests for service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-outbound-request.md)**  
+As a provider, create an outbound request for the service orders. You can interact with the external Service Order Management \(SOM\) or Technical Order Management \(TOM\) systems to manage the end-to-end order fulfillment process.
+-   **[Orders for 5G sliced networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/network-slice.md)**  
 A communication service provider \(CSP\) can define 5G services in the technical catalog and manage the creation and fulfillment of these orders for a sliced network.
--   **[[order-mgt-tsq-about|Service qualification requests]]**  
+-   **[Service qualification requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-tsq-about.md)**  
 Use the Technical Service Qualification API to evaluate a service request for feasibility and availability before you submit an order for fulfillment in the Order Management application.
 
-**Parent Topic:**[[using-order-management|Using Order Management]]
+**Parent Topic:**[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[ext-inventory-id|External product inventory ID]]
-- [[order-mgt-outbound-request|Create outbound requests for service orders]]
-- [[network-slice|Orders for 5G sliced networks]]
-- [[order-mgt-tsq-about|Service qualification requests]]
-- [[using-order-management|Using Order Management]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[outbound-request-configuration-table|Outbound Request]]

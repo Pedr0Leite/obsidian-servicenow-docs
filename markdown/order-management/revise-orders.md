@@ -41,25 +41,18 @@ Role required: order\_approver, order\_viewer, sn\_ind\_tmt\_orm.order-fulfillme
     -   The **State** field changes to Revision in progress.
     -   The **Version** field increments to the next version number.
     -   The **Revision Operation** field is set to Update.
-    -   If there are any associated order tasks, their state [[fields|fields]] change to On Hold.
+    -   If there are any associated order tasks, their state fields change to On Hold.
 
 ## What to do next
 
-A designated manager must approve the order revision. To learn more, see [[review-and-approve-or-decline-order-cancellation-requests|Review and approve order revisions or cancellation requests]].
+A designated manager must approve the order revision. To learn more, see [Review and approve order revisions or cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/review-and-approve-or-decline-order-cancellation-requests.md).
 
-**Parent Topic:**[[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
+**Parent Topic:**[Managing inflight order changes and cancellation requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/inflight-order-change-mgt-overview.md)
 
 **Related topics**  
 
 
-[[order-mgt-configuring|Configuring Order Management]]
+[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[review-and-approve-or-decline-order-cancellation-requests|Review and approve order revisions or cancellation requests]]
-- [[inflight-order-change-mgt-overview|Managing inflight order changes and cancellation requests]]
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

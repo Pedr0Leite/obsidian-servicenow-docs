@@ -18,16 +18,16 @@ The Employee Readiness Core Approval Portal enables you to approve or deny submi
 
 ## Installation and setup requirements
 
-The Approval Portal is included with [[employee-readiness-core|Employee Readiness Core]]. To use the Approval Portal, your organization must [[install-health-testing|install Health and Safety Testing]] and [[vaccination-status|Vaccination Status]].
+The Approval Portal is included with Employee Readiness Core. To use the Approval Portal, your organization must install Health and Safety Testing and Vaccination Status.
 
 **Note:** Both applications must be installed, but your organization does not have to use both applications.
 
--   For more information on installing [[health-safety-testing|Health and Safety Testing]], see [Install Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/install-health-testing.md).
--   For more information on installing Vaccination Status, see [[install-vaccination-status|Install Vaccination Status]].
+-   For more information on installing Health and Safety Testing, see [Install Health and Safety Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/install-health-testing.md).
+-   For more information on installing Vaccination Status, see [Install Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/install-vaccination-status.md).
 
 ## Using the Approval Portal
 
-To use the Approval Portal, you must have either the Vaccination Status admin \[sn\_imt\_vaccine.admin\], [[health-safety-overview|Health and safety]] approver \[sn\_imt\_core.health\_and\_safety\_approver\], or Approval Portal manager \[sn\_imt\_core.approval\_portal\_manager\] roles.
+To use the Approval Portal, you must have either the Vaccination Status admin \[sn\_imt\_vaccine.admin\], Health and safety approver \[sn\_imt\_core.health\_and\_safety\_approver\], or Approval Portal manager \[sn\_imt\_core.approval\_portal\_manager\] roles.
 
 Managers with the Approval Portal manager role can see only approvals for their direct reports. This role is automatically assigned to all managers as long as one of the following properties is enabled:
 
@@ -40,8 +40,8 @@ Each property provides managers access to the Approval Portal, however, managers
 You can perform the following tasks on the Approval Portal:
 
 -   View and approve or deny COVID-19 health test results. For more information, see [Confirm COVID-19 test results for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-testing/confirm-health-test-result.md).
--   View and approve or deny an employee's vaccination status and dose details. For more information, see [[confirm-vaccine-response|Confirm the reported vaccination status for a user]].
--   View and approve or deny employee vaccination exemption requests. For more information, see [[confirm-vaccine-exemption-request|Confirm a vaccine exemption request for a user]].
+-   View and approve or deny an employee's vaccination status and dose details. For more information, see [Confirm the reported vaccination status for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/confirm-vaccine-response.md).
+-   View and approve or deny employee vaccination exemption requests. For more information, see [Confirm a vaccine exemption request for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/confirm-vaccine-exemption-request.md).
 -   Review attachments and documentation submitted with the user's responses and requests. Supported documents open in the document viewer. For more information on supported formats, see [Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/Documentviewer.md).
 -   Review and add work notes to the records.
 
@@ -57,13 +57,3 @@ The Employee readiness approvals page provides employee vaccine and health recor
 
 **Parent Topic:**[Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core.md)
 
-## Related
-
-- [[install-vaccination-status|Install Vaccination Status]]
-- [[confirm-vaccine-response|Confirm the reported vaccination status for a user]]
-- [[confirm-vaccine-exemption-request|Confirm a vaccine exemption request for a user]]
-- [[employee-readiness-core|Employee Readiness Core]]
-- [[install-health-testing|Install Health and Safety Testing]]
-- [[vaccination-status|Vaccination Status]]
-- [[health-safety-testing|Health and Safety Testing]]
-- [[health-safety-overview|Health and Safety]]

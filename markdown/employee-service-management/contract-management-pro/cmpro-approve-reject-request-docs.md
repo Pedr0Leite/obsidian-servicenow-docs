@@ -24,7 +24,7 @@ Role required: sn\_cm\_core.contract\_fulfiller
 
 ## Procedure
 
-1.  Open the approval record from the email notification, Self-Service, or [[employee-center-landing-page|Employee Center]] portal.
+1.  Open the approval record from the email notification, Self-Service, or Employee Center portal.
 
 <table id="choicetable_ix4_gbl_trb"><thead><tr><th align="left" id="d207030e54">
 
@@ -102,6 +102,3 @@ If the requested item was assigned to a user group for approval, then the state 
 </td></tr></tbody>
 </table>**Parent Topic:**[Initiate an ad hoc approval for a contract document revision](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-initiate-approval-contract-request.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

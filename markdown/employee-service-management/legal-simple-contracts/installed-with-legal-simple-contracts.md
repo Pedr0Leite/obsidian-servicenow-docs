@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Simple Contracts, Legal Service Delivery Practice 
 
 # Components installed with Legal Simple Contracts
 
-Several types of components are installed with activation of the [[legal-simple-contracts-landing-page|Legal Simple Contracts]] application, including tables and user roles.
+Several types of components are installed with activation of the Legal Simple Contracts application, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -51,7 +51,7 @@ Contracts Configurator\[sn\_lg\_contracts.contracts\_config\]
 
 </td><td>
 
-Provides access to configure data such as [[document-templates-overview|document templates]], internal signatories, template rules. It does not provide access to transactional data of requests and matters.
+Provides access to configure data such as document templates, internal signatories, template rules. It does not provide access to transactional data of requests and matters.
 
 </td><td>
 
@@ -263,7 +263,3 @@ Stores all signatory information, including the order of signatories to sign the
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Simple Contracts reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-reference.md)
 
-## Related
-
-- [[legal-simple-contracts-landing-page|Legal Simple Contracts]]
-- [[document-templates-overview|Document Templates]]

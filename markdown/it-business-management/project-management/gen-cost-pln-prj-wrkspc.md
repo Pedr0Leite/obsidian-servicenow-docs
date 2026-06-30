@@ -14,7 +14,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 # Generate labor costs
 
-[[generate-labor-cost-demand|Generate labor costs]] based on the planning attributes configured for financials in the planning attributes page for the resource assignments in a project.
+Generate labor costs based on the planning attributes configured for financials in the planning attributes page for the resource assignments in a project.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ breadcrumb: [Starting a project, Using Project Management, Project Management, P
 
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All** and select the required project.
 
-    Make sure that the resource assignments are finalized to generate cost plans. If there are no resource assignments for the project, migrate the [[c_ResourcePlans|resource plans]] to resource assignments. For more information, see [Migrate resource plans and cost plans for projects and demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-rsrc-plan-rsrc-asgnmnt.md).
+    Make sure that the resource assignments are finalized to generate cost plans. If there are no resource assignments for the project, migrate the resource plans to resource assignments. For more information, see [Migrate resource plans and cost plans for projects and demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/migrate-rsrc-plan-rsrc-asgnmnt.md).
 
 2.  Generate labor costs using one of the following options.
 
@@ -64,7 +64,7 @@ Select the **Generate Labor Costs** related link.
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 2.  Filter the Name field to locate the **Generate labor costs for demands and projects** scheduled job and open it.
-3.  Select **Active** and on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], fill the fields.
+3.  Select **Active** and on the Scheduled Script Execution form, fill the fields.
 
 For a description of the field names, see [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md).
 
@@ -135,8 +135,3 @@ Activate and trigger a scheduled job to generate attribute-based labor costs for
 
 [Scheduled Script Execution Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/scheduled-script-execution-form.md)
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]
-- [[c_ResourcePlans|Resource plans]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

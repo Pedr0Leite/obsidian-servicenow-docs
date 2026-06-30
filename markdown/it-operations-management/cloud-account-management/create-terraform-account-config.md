@@ -14,7 +14,7 @@ breadcrumb: [Creating configurations, Configuring Cloud Account Management, Clou
 
 # Create a Terraform account configuration
 
-Configure the [[cam-landing|Cloud Account Management]] app as a foundational step before creating a service account using Terraform. Proper Cloud Account Management setup ensures the application is optimally prepared to handle account management functions and achieve desired outcomes.Define and set up Terraform-based configurations to automate cloud account provisioning, including required credentials and infrastructure templates.
+Configure the Cloud Account Management app as a foundational step before creating a service account using Terraform. Proper Cloud Account Management setup ensures the application is optimally prepared to handle account management functions and achieve desired outcomes.Define and set up Terraform-based configurations to automate cloud account provisioning, including required credentials and infrastructure templates.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_itom\_cam.cw\_admin
 
 [Review default Cloud Account Management certification policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/policy-setup.md)
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]

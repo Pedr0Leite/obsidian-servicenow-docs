@@ -14,11 +14,11 @@ breadcrumb: [Normalizing firmware for OT assets, Managing enterprise models and 
 
 # Create a firmware model for the firmware embedded into your Operational Technology \(OT\) assets
 
-Create a firmware model for the firmware that's embedded into your OT assets if the model isn't already represented in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service.
+Create a firmware model for the firmware that's embedded into your OT assets if the model isn't already represented in the Enterprise Asset Management Content Service.
 
 ## Before you begin
 
-**Important:** The [[ot-asset-management|OT Asset Management]] application must be activated to access the [[ot-asset-ws-otam|OT Asset Workspace]]. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
+**Important:** The OT Asset Management application must be activated to access the OT Asset Workspace. For details, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
 The firmware product and the firmware version details should be available in the Enterprise Asset Management Content Service. If not, you can also create the firmware product and the firmware version for your firmware model. For more details, see [Create a custom firmware product for your operational technology \(OT\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-custom-firmware-product-ot-assets.md) and [Create a custom firmware version for your operational technology \(OT\) assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-custom-firmware-version-ot-assets.md).
 
@@ -56,8 +56,3 @@ Role required: sn\_otam.ot\_asset\_manager
     -   Knowledge
 -   The lifecycle phases associated with the firmware model are listed in **Firmware model lifecycles** tab only if that firmware version has lifecycles defined in the Firmware lifecycle definition \[sn\_itam\_firmware\_lifecycle\_def\] table.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-management|OT Asset Management]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]

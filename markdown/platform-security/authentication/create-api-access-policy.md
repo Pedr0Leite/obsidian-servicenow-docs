@@ -14,7 +14,7 @@ breadcrumb: [REST API access policies, API access policy, Authentication, Access
 
 # Create REST API access policy
 
-Create an [[api-access-policy|API access policy]] and map an [[c_Authentication|authentication]] profile to restrict the authentication type for a REST API. For example, you can create an API access policy that allows only ID token authentication for a REST API.
+Create an API access policy and map an authentication profile to restrict the authentication type for a REST API. For example, you can create an API access policy that allows only ID token authentication for a REST API.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Web Services** &gt; **[[inbound-authentication-profile|REST API Access Policies]]**.
+1.  Navigate to **All** &gt; **System Web Services** &gt; **REST API Access Policies**.
 
 2.  Select **New**.
 
@@ -88,7 +88,7 @@ Version
 
 </td><td>
 
-Version of the API. For example, **v1**. This field is auto-populated based on the selected REST API.**Note:** If you want to create an authentication policy for all versions of a REST API, you must create individual [[ca-policies|policies]] for each version.
+Version of the API. For example, **v1**. This field is auto-populated based on the selected REST API.**Note:** If you want to create an authentication policy for all versions of a REST API, you must create individual policies for each version.
 
 </td></tr><tr><td>
 
@@ -163,13 +163,13 @@ Option to apply the policy to all tables. This option only applies to policies f
 Determines whether the `WWW-Authenticate` header includes all configured authentication schemes. When set to `false` \(default\), the header includes only the most recently configured authentication profile in the policy. When set to `true`, the header lists all configured authentication schemes.
 
 </td></tr></tbody>
-</table>    **Note:** To understand more about the [[api-access-policy-prioritization|API access policy prioritization]], see [API access policy prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-access-policy-prioritization.md).
+</table>    **Note:** To understand more about the API access policy prioritization, see [API access policy prioritization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/api-access-policy-prioritization.md).
 
 4.  Double-click **Insert a new row**.
 
 5.  Select an inbound authentication profile from the list and select the save icon \[Omitted image "green-checkmark.png"\] Alt text: save icon.
 
-    For example, you can add **Basic Auth**, **ID Token**, **Certificate based Auth**, **[[oauth-inbound-and-outbound|OAuth]]** or **WSSE Auth**.
+    For example, you can add **Basic Auth**, **ID Token**, **Certificate based Auth**, **OAuth** or **WSSE Auth**.
 
     1.  To add one or more inbound authentication profiles, select **New** to create a new profile.
 
@@ -185,11 +185,4 @@ Determines whether the `WWW-Authenticate` header includes all configured authent
 
 6.  Select **Submit** to submit the REST API access policy.
 
-## Related
 
-- [[api-access-policy|API access policy]]
-- [[c_Authentication|Authentication]]
-- [[inbound-authentication-profile|REST API access policies]]
-- [[ca-policies|Policies]]
-- [[api-access-policy-prioritization|API access policy prioritization]]
-- [[oauth-inbound-and-outbound|OAuth]]

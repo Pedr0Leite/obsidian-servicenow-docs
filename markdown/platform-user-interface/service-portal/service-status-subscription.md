@@ -14,7 +14,7 @@ breadcrumb: [Service Portal service status widgets, Widget library, Using portal
 
 # Service Status Subscription widget
 
-Used in conjunction with the [[service-status-widget|service status widget]]. Users subscribe to receive updates about the service status. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Used in conjunction with the service status widget. Users subscribe to receive updates about the service status. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetServiceStatusSubscription.png"\] Alt text: Service Status Subscription widget
 
@@ -27,13 +27,9 @@ The Service Status Subscription widget does not have any included instance optio
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[service-status-widget|Service Status widget]]
-- [[c_ServicePortal|Service Portal]]

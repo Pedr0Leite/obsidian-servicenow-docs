@@ -22,7 +22,7 @@ Role required: sn\_itom\_cam.cw\_admin
 
 ## Procedure
 
-1.  Add environment elements to help categorize [[cloud-accounts|cloud accounts]] based on multiple environments.
+1.  Add environment elements to help categorize cloud accounts based on multiple environments.
 
     1.  Navigate to **All** and search for `sys_choice.LIST`.
 
@@ -96,7 +96,3 @@ Contains user information for the ServiceNow instance.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-accounts|Cloud accounts]]

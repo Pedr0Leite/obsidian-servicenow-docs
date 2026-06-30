@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Remove an equipment or rack from logical composite
 
-Remove a rack or equipment from a logical composite using [[telecommunications-circuit-design-resource-assignment|design and assign]].
+Remove a rack or equipment from a logical composite using design and assign.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\), and then go to **Changes** &gt; **All**.
 
@@ -68,7 +68,3 @@ The equipment or rack record is removed from the logical composite record.
 
 [Define a network model relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-network-model-relationships.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

@@ -60,7 +60,7 @@ Application
 
 </td><td>
 
-The name of the application scope \([[sir-landing-page|Security Incident Response]] UI\) in which the UI action is being added is displayed here.
+The name of the application scope \(Security Incident Response UI\) in which the UI action is being added is displayed here.
 
 </td></tr><tr><td colspan="2">
 
@@ -115,6 +115,3 @@ Select the Scripted Rest Resource that defines the action.**Note:** The **SIR UI
 7.  Navigate to **Security Incidents** &gt; **Incidents \(New UI\)** page.
 8.  Click on a security incident number to view the security incident record. Launch the respective Related List to view the new UI action.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

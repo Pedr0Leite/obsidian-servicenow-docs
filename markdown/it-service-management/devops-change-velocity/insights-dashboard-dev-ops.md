@@ -14,11 +14,11 @@ breadcrumb: [Explore, DevOps Change Velocity, IT Service Management]
 
 # DevOps dashboards
 
-Use the DevOps Insights dashboard to evaluate the results of your overall DevOps process. Use the [[dev-ops-pipeline-ui|DevOps Pipeline UI]] view to visually analyze your pipeline executions.
+Use the DevOps Insights dashboard to evaluate the results of your overall DevOps process. Use the DevOps Pipeline UI view to visually analyze your pipeline executions.
 
 After the DevOps toolchain integrations and change policies are configured, all data is connected to provide insights about the process and velocity from the team level to the enterprise level.
 
-Using the [[devops-insights-working-in|DevOps Insights reports]], monitor pipeline modeling and change acceleration benefits in your environment.
+Using the DevOps Insights reports, monitor pipeline modeling and change acceleration benefits in your environment.
 
 -   DevOps administrators can check the current health of the system.
 -   DevOps app owners can view the development and quality metrics by app or team.
@@ -44,7 +44,3 @@ For more information, see [DevOps System Health dashboard](https://raw.githubuse
 
 **Parent Topic:**[Exploring DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-landing-page.md)
 
-## Related
-
-- [[dev-ops-pipeline-ui|DevOps Pipeline UI]]
-- [[devops-insights-working-in|DevOps Insights reports]]

@@ -26,7 +26,7 @@ No component history is retained. If you remove a component from a bundled model
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **[[c_CreatingBundledModels|Bundled Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Bundled Models**.
 
 2.  Open a bundle record.
 
@@ -46,7 +46,3 @@ No component history is retained. If you remove a component from a bundled model
 
 [Publish bundled models to product catalog]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_CreatingBundledModels|Bundled models]]

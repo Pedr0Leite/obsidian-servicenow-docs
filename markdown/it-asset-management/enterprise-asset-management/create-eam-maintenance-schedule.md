@@ -34,7 +34,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 4.  Apply a work order template to the maintenance schedule.
 
-    Work order templates enable the [[enterprise-asset-management|Enterprise Asset Management]] application to automatically populate information, generate appropriate requests and tasks, and create part requirements for your work orders each time the scheduled maintenance runs.
+    Work order templates enable the Enterprise Asset Management application to automatically populate information, generate appropriate requests and tasks, and create part requirements for your work orders each time the scheduled maintenance runs.
 
     1.  On the **Schedule Templates** tab of the maintenance schedule record, select **New**.
 
@@ -60,6 +60,3 @@ Maintenance runs automatically based on the schedule that you set for the mainte
 
 Each time maintenance runs, the Enterprise Asset Management application automatically creates a corresponding work order for every enterprise asset that the maintenance plan is applied to, given that the asset isn't already associated with an existing work order. You can use these work orders to track and manage all the work that you need to perform on the specified enterprise assets. See [Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md) for more information on work orders.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]

@@ -22,7 +22,7 @@ Role required: inventory\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Shipment** list, select **Shipping carriers**.
 
@@ -123,6 +123,3 @@ The shipping carrier record is created and added to the Shipping carriers list.
 
 [Track a hardware asset shipment]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]

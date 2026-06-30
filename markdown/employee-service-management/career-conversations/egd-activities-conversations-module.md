@@ -16,7 +16,7 @@ breadcrumb: [Explore Career Conversations application, Career Conversations, Gro
 
 The Career Conversations application supports dialogue between subordinates and their leaders. This application enables your employees to engage in meaningful conversations that are focused on the employee's growth and development.
 
-When the Career Conversations app is installed, you can use it to create and track conversations from the [[employee-center-landing-page|Employee Center]]. An employee's growth and development is produced substantially by the conversations held in the one-on-one discussions with their managers. These conversations are imperative in building strong relationships in the workplace. The effectiveness is optimized when the dialogue revolves around the employee's aspirations and growth plans. The Career Conversations app facilitates the administration of one-on-one conversations between leaders and their subordinates. It simultaneously improves the effectiveness of communication by enabling you to establish the topics of discussion.
+When the Career Conversations app is installed, you can use it to create and track conversations from the Employee Center. An employee's growth and development is produced substantially by the conversations held in the one-on-one discussions with their managers. These conversations are imperative in building strong relationships in the workplace. The effectiveness is optimized when the dialogue revolves around the employee's aspirations and growth plans. The Career Conversations app facilitates the administration of one-on-one conversations between leaders and their subordinates. It simultaneously improves the effectiveness of communication by enabling you to establish the topics of discussion.
 
 ## Benefits of the Career Conversations app
 
@@ -105,7 +105,7 @@ Manager
     |Employee|Your details|
     |Manager|Employee details|
 
-    The contextual side panel doesn’t appear when the corresponding conversation is defined as a [[mentoring-egd-overview|mentoring]] conversation.
+    The contextual side panel doesn’t appear when the corresponding conversation is defined as a mentoring conversation.
 
 
 **Parent Topic:**[Explore Career Conversations application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-explore-activities.md)
@@ -123,7 +123,3 @@ Manager
 
 [Schedule a mentoring conversation in Career Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-act-schd-mentor-conversation.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[mentoring-egd-overview|Mentoring]]

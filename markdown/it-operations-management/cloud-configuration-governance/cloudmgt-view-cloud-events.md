@@ -14,7 +14,7 @@ breadcrumb: [Using the Activities page, Cloud User Portal, Cloud Provisioning an
 
 # View cloud events
 
-You can view the events that are generated from your cloud resources if your administrator configured [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] to monitor them. All events are listed on the Cloud Events tab on the stack details page.
+You can view the events that are generated from your cloud resources if your administrator configured Cloud Provisioning and Governance to monitor them. All events are listed on the Cloud Events tab on the stack details page.
 
 ## Before you begin
 
@@ -82,6 +82,4 @@ Unique ID of the resource that received the life cycle state change or configura
 </td></tr></tbody>
 </table>2.  Click an entry to view full details.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

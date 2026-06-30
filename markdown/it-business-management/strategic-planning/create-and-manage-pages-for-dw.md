@@ -14,7 +14,7 @@ breadcrumb: [Collaborate with Docs, Use, Next Experience for Demand Management i
 
 # Create and manage pages and subpages for demands
 
-Flexibly organize information for your planning items by creating, duplicating, and deleting pages and subpages in Next Experience for [[c_DemandManagement|Demand Management]].
+Flexibly organize information for your planning items by creating, duplicating, and deleting pages and subpages in Next Experience for Demand Management.
 
 ## Before you begin
 
@@ -69,7 +69,7 @@ Select **Create page**.The new page is created and added to your Doc with the na
 
 </td><td>
 
-Select the **Page Actions** menu \(\[Omitted image "eap-doc-page-actions-icon.png"\] Alt text: Page Actions icon.\) and select **Create subpage**.\[Omitted image "eap-doc-create-subpage.png"\] Alt text: Create subpage for a Doc in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Select the **Page Actions** menu \(\[Omitted image "eap-doc-page-actions-icon.png"\] Alt text: Page Actions icon.\) and select **Create subpage**.\[Omitted image "eap-doc-create-subpage.png"\] Alt text: Create subpage for a Doc in Portfolio Planning.
 
 </td></tr><tr><td id="d315842e204">
 
@@ -112,8 +112,3 @@ Select the **Page Actions** menu \(\[Omitted image "eap-doc-page-actions-icon.pn
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

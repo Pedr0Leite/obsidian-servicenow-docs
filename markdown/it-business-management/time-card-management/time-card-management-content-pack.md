@@ -16,10 +16,7 @@ breadcrumb: [Time Card management, Project Portfolio Management, Strategic Portf
 
 This Platform Analytics Solution contains preconfigured dashboards. These dashboards contain actionable data visualizations that help you improve your business processes and practices.
 
-The [[time-card-management|Time Card Management]] and Time Sheet dashboards are included in the Project Portfolio Suite with Financials Dashboards. For more information, see [Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md).
+The Time Card Management and Time Sheet dashboards are included in the Project Portfolio Suite with Financials Dashboards. For more information, see [Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md).
 
 **Parent Topic:**[Time Card Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-card-management.md)
 
-## Related
-
-- [[time-card-management|Time Card Management]]

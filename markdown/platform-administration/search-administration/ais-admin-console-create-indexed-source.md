@@ -15,7 +15,7 @@ breadcrumb: [Managing indexed sources, Using AI Search Admin console, AI Search 
 
 # Create an indexed source from the AI Search Admin console
 
-Define an indexed source to make content and metadata from ServiceNow AI Platform table records searchable by using [[ia-ai-search|AI Search]].
+Define an indexed source to make content and metadata from ServiceNow AI Platform table records searchable by using AI Search.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: admin or ais\_admin
 
 1.  Navigate to **All** &gt; **AI Search Admin** &gt; **AI Search Admin Home**.
 
-2.  On the **Shared [[clone-configurations-tab|Configurations]]** tab, select the **Indexed Sources** tab.
+2.  On the **Shared Configurations** tab, select the **Indexed Sources** tab.
 
 3.  Select **New**.
 
@@ -48,7 +48,3 @@ To make content from internal indexed sources and source records searchable, per
 
 **Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-managing-indexed-source.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]

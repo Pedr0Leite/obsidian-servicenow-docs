@@ -38,8 +38,5 @@ If the agent creates a case or links the discussion to an existing case, you can
 **Related topics**  
 
 
-[[virtual-agent-support-business-locations|Virtual Agent support for business locations]]
+[Virtual Agent support for business locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/virtual-agent-support-business-locations.md)
 
-## Related
-
-- [[virtual-agent-support-business-locations|Virtual Agent support for business locations]]

@@ -14,13 +14,13 @@ breadcrumb: [Health and Safety Incident Management, Health and Safety, Employee 
 
 # Exploring Health and Safety Incident Management
 
-[[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] enables the safety department to receive incidents and observations and conduct detailed [[legal-investigations-landing-page|legal investigations]] by conducting interviews, gathering evidence, and preparing final reports and recommended actions.
+Health and Safety Incident Management enables the safety department to receive incidents and observations and conduct detailed legal investigations by conducting interviews, gathering evidence, and preparing final reports and recommended actions.
 
 ## Features
 
 -   Puts safety in the hands of all employees
     -   Report incidents and observations
-    -   Access [[health-safety-overview|Health and Safety]] knowledge articles​
+    -   Access Health and Safety knowledge articles​
 -   Provides anonymous reporting capabilities
     -   Report safety concerns anonymously
     -   Flags incidents, observations, and concerns as sensitive.
@@ -68,7 +68,7 @@ End users \(requesters\)
 
 Safety requesters who report safety incidents and observations. The following users can submit incidents and observations:
 
- -   Employees \(through [[employee-center-landing-page|Employee Center]] and [[mobile-employee-experience|Now Mobile app]]\)
+ -   Employees \(through Employee Center and Now Mobile app\)
 -   Safety agent \(can directly create a safety incident from workspace\)
 -   Safety operations manager such as line manager or supervisor \(through workspace\)
 
@@ -108,10 +108,3 @@ The safety incident workflow available with Health and Safety Incident Managemen
 
 **Parent Topic:**[Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-mgmt-landing-page.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]

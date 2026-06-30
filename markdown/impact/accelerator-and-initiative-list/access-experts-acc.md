@@ -14,7 +14,7 @@ breadcrumb: [Technical Accelerators, Accelerator catalog, View the Initiatives a
 
 # Access to Experts
 
-The Access to Experts Accelerator connects [[impact-landing-page|Impact]] customers to ServiceNow subject matter experts via personalized virtual coaching sessions.
+The Access to Experts Accelerator connects Impact customers to ServiceNow subject matter experts via personalized virtual coaching sessions.
 
 ## Accelerator overview
 
@@ -22,7 +22,7 @@ Access to Experts targets precise and actionable guidance on the ServiceNow Plat
 
 Sessions offer specialized guidance on various ServiceNow product topics, aimed at accelerating value realization and outcomes on the ServiceNow Platform.
 
-**Note:** [[impact-squad|Impact squad]] members may determine that an Access to Experts Accelerator is to be requested based on the information submitted in the [Access to Expertise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/access-expertise-initiative.md) initiative. The Accelerator is not available to be requested by customers outside of the Initiative.
+**Note:** Impact squad members may determine that an Access to Experts Accelerator is to be requested based on the information submitted in the [Access to Expertise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/access-expertise-initiative.md) initiative. The Accelerator is not available to be requested by customers outside of the Initiative.
 
 ## Package Availability
 
@@ -102,7 +102,3 @@ This Accelerator doesn’t include:
     -   To comply with legal, regulatory, and privacy requirements, ServiceNow uses only demonstration data during Product Capability Overview sessions and does not present or share any live customer data. Furthermore, as external systems are not accessible during these sessions, demonstrations involving product integrations are outside the scope of delivery.
     -   Full module demos are not included in this session. These types of demos are typically designed for customers who are not yet licensed and are created by Pre-Sales teams where they showcase specific customer use cases and workflows, often covering multiple areas of the platform.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]

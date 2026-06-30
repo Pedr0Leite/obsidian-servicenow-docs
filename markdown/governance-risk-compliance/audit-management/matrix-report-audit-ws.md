@@ -14,7 +14,7 @@ breadcrumb: [Audit Workspace for the Auditor, Audit Workspace Overview, Audit Ma
 
 # Matrix report in Audit Workspace
 
-Matrix report is a structured report that you can configure to view in a grid or table format in the [[audit-management-overview-ws|Audit Workspace]]. You can use the matrix report to analyze relationships between different objects, for example [[assessing-risks|assessing risks]] and controls.
+Matrix report is a structured report that you can configure to view in a grid or table format in the Audit Workspace. You can use the matrix report to analyze relationships between different objects, for example assessing risks and controls.
 
 The matrix has rows and columns, where each row represents the object of the configured columns. The columns contain details such as name, descriptions, owner, risk ratings, and other data points.
 
@@ -22,7 +22,3 @@ You can have a Matrix report such as Risk and Controls Matrix, which is used in 
 
 Auditors use this matrix to verify that all significant risks have appropriate controls in place and are functioning effectively.
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[assessing-risks|assessing risks]]

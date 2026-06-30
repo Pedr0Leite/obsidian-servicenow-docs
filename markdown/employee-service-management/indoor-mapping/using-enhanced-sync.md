@@ -14,7 +14,7 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Using enhanced synchronization
 
-Synchronize your workplace locations with your [[Indoor-mapping|Indoor Mapping]] data by using the enhanced sync feature.
+Synchronize your workplace locations with your Indoor Mapping data by using the enhanced sync feature.
 
 To use the enhanced sync feature, you must have completed the initial manual sync to link Indoor Mapping and WSD. You must have the sn\_wsd\_indoor\_map.admin role or the sn\_wsd\_core.workplace\_manager role to access the relevant modules.
 
@@ -22,11 +22,11 @@ To use the enhanced sync feature, you must have completed the initial manual syn
 
 To use the enhanced sync feature, see the following steps.
 
-1.  Configure the [[enhanced-sync-properties|Enhanced Sync properties]] to define the behavior of the sync operations between Indoor Mapping and [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]].
+1.  Configure the Enhanced Sync properties to define the behavior of the sync operations between Indoor Mapping and Workplace Service Delivery.
 
     For more information about the Enhanced Sync properties, see [Enhanced Sync Properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/enhanced-sync-properties.md).
 
-2.  Update data in [[workplace-safety-mgmt-hr|Workplace Core]].
+2.  Update data in Workplace Core.
 
     Updates to the location hierarchy objects in Workplace Core are synced to the Indoor Mapping objects based on the sync properties. These objects include the names and titles of Campuses, Buildings, Floors, and Spaces.
 
@@ -64,9 +64,3 @@ Review pending sync operations and decide whether to process or ignore the opera
 
 **Next topic:**[Manage enhanced sync operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-sync-operations.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[enhanced-sync-properties|Enhanced Sync Properties]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

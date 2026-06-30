@@ -13,7 +13,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Set assignment rules in CBS
 
-Configure assignment rules for each business unit in [[cbs-landing|Core Business Suite]] to control how tasks are automatically assigned to groups or users based on defined conditions.
+Configure assignment rules for each business unit in Core Business Suite to control how tasks are automatically assigned to groups or users based on defined conditions.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Assignment rules are available by default for all business units. The default se
 
 5.  On the Edit assignment rule form, fill in the fields and select **Save**.
 
-    For a description of the field values, see [[assignment-rules-cbs|Assignment rule form]].
+    For a description of the field values, see [Assignment rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/assignment-rules-cbs.md).
 
 6.  On the Assignment Rules page, select **Add New** to create a custom rule.
 
@@ -44,10 +44,5 @@ Assignment rules are available by default for all business units. The default se
 
 Assignment rules are configured for the required business units in CBS.
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[assignment-rules-cbs|Assignment rule form]]
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

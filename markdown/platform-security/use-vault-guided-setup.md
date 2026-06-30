@@ -12,13 +12,13 @@ breadcrumb: [Configuring ServiceNow Vault, ServiceNow Vault]
 
 # Use guided setup for ServiceNow Vault
 
-Use guided setup to configure an application with [[servicenow-vault-landing|ServiceNow Vault]].
+Use guided setup to configure an application with ServiceNow Vault.
 
 ## Before you begin
 
 Role required: Elevate to sn\_vault\_console.vault\_console\_admin role.
 
-To secure custom apps, install the [[now-assist-vault-landing|Now Assist for Vault]] application and make sure that all Now Assist for Vault skills and workflows are enabled. See [[configuring-now-assist-vault|Install Now Assist for Vault]] for more information.
+To secure custom apps, install the Now Assist for Vault application and make sure that all Now Assist for Vault skills and workflows are enabled. See [Install Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-now-assist-vault.md) for more information.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ To secure custom apps, install the [[now-assist-vault-landing|Now Assist for Vau
 
     The proposed classes are based on table column names and application context.
 
-4.  In **Preview [[data-classification|data classification]]**, review your data classification settings.
+4.  In **Preview data classification**, review your data classification settings.
 
     |Label|Description|
     |-----|-----------|
@@ -48,25 +48,25 @@ To secure custom apps, install the [[now-assist-vault-landing|Now Assist for Vau
     |Column name|The column the data is located in.|
     |Final class|The class the data will be assigned.|
 
-    When finished, select the **Agree** check box and select **[[dps-classify-data|Classify data]]**.
+    When finished, select the **Agree** check box and select **Classify data**.
 
 5.  In **Classification summary**, review the results of the data classification and select **Next** when finished.
 
     Use [Data Classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/data-classification.md) to review any data that failed to classify.
 
-6.  In **Protect existing data**, review the protection [[ca-policies|policies]] of the data.
+6.  In **Protect existing data**, review the protection policies of the data.
 
     |Label|Description|
     |-----|-----------|
     |Table|The table the data is located in.|
     |Column|The column the data is located in.|
-    |Anonymization|Reports if a [[dps-data-anonymization|data anonymization]] policy can be, or already is applied to the data.|
-    |Field encryption|Reports if a [[field-encryption|field encryption]] policy can be, or already is applied to the data.|
+    |Anonymization|Reports if a data anonymization policy can be, or already is applied to the data.|
+    |Field encryption|Reports if a field encryption policy can be, or already is applied to the data.|
     |Zero trust access|Reports if a zero trust access policy can be, or already is applied to the data.|
 
-7.  Begin applying that column's respective application [[naai-data-protection|data protection]] policy by selecting **Available**.
+7.  Begin applying that column's respective application data protection policy by selecting **Available**.
 
-    Review [[vault-tools|Vault tools and metrics]] for more information.
+    Review [Vault tools and metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-tools.md) for more information.
 
 8.  In **Protect real-time data**, review your real-time data protection policies.
 
@@ -83,19 +83,5 @@ To secure custom apps, install the [[now-assist-vault-landing|Now Assist for Vau
 
 ## Result
 
-The selected application now has classified data and protection policies. It also reports relevant [[ca-metrics|metrics]] to the [[vault-dashboard|ServiceNow Vault console dashboard]].
+The selected application now has classified data and protection policies. It also reports relevant metrics to the [ServiceNow Vault console dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/vault-dashboard.md).
 
-## Related
-
-- [[configuring-now-assist-vault|Install Now Assist for Vault]]
-- [[vault-tools|Vault tools and metrics]]
-- [[vault-dashboard|ServiceNow Vault console dashboard]]
-- [[servicenow-vault-landing|ServiceNow Vault]]
-- [[now-assist-vault-landing|Now Assist for Vault]]
-- [[data-classification|Data Classification]]
-- [[dps-classify-data|Classify data]]
-- [[ca-policies|Policies]]
-- [[dps-data-anonymization|Data anonymization]]
-- [[field-encryption|Field Encryption]]
-- [[naai-data-protection|Data protection]]
-- [[ca-metrics|Metrics]]

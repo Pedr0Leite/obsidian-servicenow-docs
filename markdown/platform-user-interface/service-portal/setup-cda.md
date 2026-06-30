@@ -14,12 +14,12 @@ breadcrumb: [Cloud Deployment Automation, Configure a catalog in Service Portal,
 
 # Set up Cloud Deployment Automation
 
-Set up the [[cloud-dep-auto|Cloud Deployment Automation]] application by configuring the [[c_ServicePortal|Service Portal]] page to use the default catalog items.
+Set up the Cloud Deployment Automation application by configuring the Service Portal page to use the default catalog items.
 
 ## Before you begin
 
 -   Request Integration Hub subscription. For more information, see [Legal schedules - IntegrationHub overview](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/snc-addendum-integrationhub.pdf).
--   Activate and [[configure-onboarding-modals|configure]] the AWS CloudFormation spoke.
+-   Activate and configure the AWS CloudFormation spoke.
 -   Activate the Cloud Deployment Automation app
 -   Role required: admin
 
@@ -93,8 +93,3 @@ Set up the [[cloud-dep-auto|Cloud Deployment Automation]] application by configu
 
 **Parent Topic:**[Cloud Deployment Automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/cloud-dep-auto.md)
 
-## Related
-
-- [[cloud-dep-auto|Cloud Deployment Automation]]
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]

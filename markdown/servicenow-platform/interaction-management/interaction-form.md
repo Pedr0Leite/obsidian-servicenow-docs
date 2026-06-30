@@ -92,7 +92,7 @@ A brief description of the customer issue.
 
 </td></tr><tr><td>
 
-[[c_WorkNotes|Work notes]]
+Work notes
 
 </td><td>
 
@@ -104,7 +104,7 @@ Wrap up duration
 
 </td><td>
 
-If using the [[interaction-wrap-up-state|Interaction wrap up]] feature, the system administrator can configure the Interaction form and add the **Wrap up duration** field.
+If using the Interaction wrap up feature, the system administrator can configure the Interaction form and add the **Wrap up duration** field.
 
  This field records the length of time that the Interaction record spends in the Wrap Up state. This is a read-only field. If a duration is not calculated, this field is set to 0.
 
@@ -130,7 +130,3 @@ If using the Interaction wrap up feature, the system administrator can configure
 </td></tr></tbody>
 </table>**Parent Topic:**[Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md)
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[interaction-wrap-up-state|Interaction wrap up]]

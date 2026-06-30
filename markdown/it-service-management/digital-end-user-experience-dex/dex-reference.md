@@ -14,7 +14,7 @@ breadcrumb: [Digital End-User Experience, IT Service Management]
 
 # Digital End-User Experience reference
 
-These [[reference-for-itsm-mobile-agent|reference]] sections provide more information about monitoring and managing your [[dex-workspace-devices-tab|devices]] and apps with [[dex-landing|Digital End-User Experience]] and its components.
+These reference sections provide more information about monitoring and managing your devices and apps with Digital End-User Experience and its components.
 
 -   **[DEX Application and Device Health reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-console-reference.md)**  
 Reference topics provide additional information about the cards, lists, and forms that helps you to configure and use DEX Application and Device Health.
@@ -23,16 +23,9 @@ Reference topics provide additional information about policies and check definit
 -   **[DEX Desktop Assistant reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)**  
 Reference topics provide additional information about forms and dashboard that you use to configure and administer Desktop Assistant.
 -   **[Digital End-User Experience properties and settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-properties-settings.md)**  
-You can update the following [[dex-properties-settings|Digital End-User Experience properties and settings]] to fit your needs. You must have the admin role to update these [[settings-mobile|settings]] and properties.
+You can update the following Digital End-User Experience properties and settings to fit your needs. You must have the admin role to update these settings and properties.
 -   **[Custom reporting on DEX tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/custom-reporting-dex-tables.md)**  
 You can use the following listed tables to generate a report for the required metrics on DEX.
 
 **Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-properties-settings|Digital End-User Experience properties and settings]]
-- [[settings-mobile|Settings]]

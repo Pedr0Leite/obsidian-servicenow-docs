@@ -14,7 +14,7 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # Create a CMDB remediation rule
 
-A CMDB remediation rule is associated with a task that was created for a failed [[c_CMDBHealth|CMDB health]] test. A CMDB remediation rule is applied automatically or manually to execute a remediation workflow that can, for example, delete stale CIs.
+A CMDB remediation rule is associated with a task that was created for a failed CMDB health test. A CMDB remediation rule is applied automatically or manually to execute a remediation workflow that can, for example, delete stale CIs.
 
 ## Before you begin
 
@@ -123,6 +123,3 @@ Manually initiate a workflow to remediate a CI that failed a CMDB health test. F
 
 [Dot-Walking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_DotWalking.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]

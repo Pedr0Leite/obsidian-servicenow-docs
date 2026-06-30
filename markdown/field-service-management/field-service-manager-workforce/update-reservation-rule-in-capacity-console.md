@@ -14,7 +14,7 @@ breadcrumb: [View territory and demand channel summary, Using the Capacity Conso
 
 # Update capacity value and reservation for a territory in capacity console
 
-The [[capacity-console|Capacity Console]] provides flexibility for [[capacity|capacity]] planners and managers to modify capacity value and reservation rule for better allocation of resources. Reservations determine the demand channels applicable and the percentage allocation of capacity for each channel on a given day.
+The Capacity Console provides flexibility for capacity planners and managers to modify capacity value and reservation rule for better allocation of resources. Reservations determine the demand channels applicable and the percentage allocation of capacity for each channel on a given day.
 
 ## Before you begin
 
@@ -83,7 +83,3 @@ The following snapshots showcases the actions performed in the contextual side p
 
 \[Omitted image "copy-reservation.png"\] Alt text: Capacity console contextual side panel showcasing the option to copy and modify the reservation.
 
-## Related
-
-- [[capacity-console|Capacity Console]]
-- [[capacity|Capacity]]

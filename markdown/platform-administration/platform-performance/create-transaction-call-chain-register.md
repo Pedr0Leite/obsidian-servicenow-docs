@@ -50,14 +50,14 @@ Steps
 
 </td><td>
 
-1.  Navigate to **[[sys-diag|System Diagnostics]]** &gt; **Stats** &gt; **Slow Transactions**
+1.  Navigate to **System Diagnostics** &gt; **Stats** &gt; **Slow Transactions**
 2.  To aid in debugging, filter and group the Slow Transactions list by application scope, limiting transactions that appear to only those transactions originating in specific scopes.
 3.  Select the problematic transaction.
 4.  In the Slow Transactions form, click **Open Record**, then select **Record call chain of next occurrence**.
 
 
 </td></tr></tbody>
-</table>2.  On the [[transaction-call-chain-reg-form|Transaction Call Chain Register form]], fill in the fields.
+</table>2.  On the Transaction Call Chain Register form, fill in the fields.
 
     For a description of the field values, see [Transaction call chain register form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-call-chain-reg-form.md).
 
@@ -76,7 +76,3 @@ A call chain register is created to designate that the next occurrence of the tr
 
 **Parent Topic:**[Transaction call chains](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/transaction-call-chains.md)
 
-## Related
-
-- [[sys-diag|System Diagnostics]]
-- [[transaction-call-chain-reg-form|Transaction call chain register form]]

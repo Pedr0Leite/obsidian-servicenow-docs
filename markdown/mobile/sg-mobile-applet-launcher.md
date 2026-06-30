@@ -26,29 +26,22 @@ Launcher screens serve as landing pages. A launcher screen serves as a container
 
 When creating a new launcher screen, you configure the following few components within the launcher screen itself:
 
- -   **[[create-alp-header|Headers]]**
+ -   **[Headers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-alp-header.md)**
 
 The header of the launcher screen defines how the title of the screen appears and what information is shown in the header.
 
--   **[[mobile-search-config|Global search]]**
+-   **[Global search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-search-config.md)**
 
 Global search gives your users the ability to search for information within the defined search sources from a mobile app.
 
--   **[[alp-ui-sections|UI sections]]**
+-   **[UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/alp-ui-sections.md)**
 
 UI sections contain the screen, charts, and record information on your launcher screen pages.
 
--   **[[sg-config-quick-actions|Quick actions]]**
+-   **[Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-quick-actions.md)**
 
 Quick actions give users the ability to access commonly used functions from a launcher screen.
 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-alp-header|Configure a launcher screen header]]
-- [[mobile-search-config|Global search for mobile]]
-- [[alp-ui-sections|Launcher screen UI sections]]
-- [[sg-config-quick-actions|Quick actions]]

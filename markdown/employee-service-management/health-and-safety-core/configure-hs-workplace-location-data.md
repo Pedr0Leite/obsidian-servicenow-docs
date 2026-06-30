@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Workplace location data
 
-In the [[workplace-safety-mgmt-hr|Workplace Core]] application, set up data related to your workplace locations so you can select a location in your safety records, for example, your safety incidents and observations.
+In the Workplace Core application, set up data related to your workplace locations so you can select a location in your safety records, for example, your safety incidents and observations.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The **Location** field on safety forms, for example, incidents and observations,
 **Related topics**  
 
 
-[Install [[health-safety-overview|Health and Safety]] Core]()
+[Install Health and Safety Core]()
 
 [Enable a Health and Safety table for configuring report field mapping]()
 
@@ -52,7 +52,3 @@ The **Location** field on safety forms, for example, incidents and observations,
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[health-safety-overview|Health and Safety]]

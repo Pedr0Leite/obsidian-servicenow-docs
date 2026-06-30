@@ -42,7 +42,7 @@ You can create a project task using any of the following options.
 
 -   From [an incident, problem, or change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateTaskIntPrblmChange.md).
 
-    The Project Task related list is also available from the Incident, Problem, and Change Request [[form-field-information-for-dw|forms]]. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
+    The Project Task related list is also available from the Incident, Problem, and Change Request forms. The tasks you create from these forms makes the project task a child of the incident, problem, or change, rather than a project.
 
 
 **Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
@@ -74,6 +74,3 @@ You can create a project task using any of the following options.
 
 [Link change requests to a project task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_LinkChangesToAProjectTask.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]

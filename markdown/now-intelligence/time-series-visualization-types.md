@@ -80,12 +80,8 @@ Area\[Omitted image "inline-data-vis-area.png"\] Alt text: area visualization
 
 </td><td>
 
-Resembles a line visualization, but the area between the axis and line is emphasized with colors. Use with [[multiple-data-sources|multiple data sources]] to highlight the relative contribution that each data source makes to the whole.
+Resembles a line visualization, but the area between the axis and line is emphasized with colors. Use with multiple data sources to highlight the relative contribution that each data source makes to the whole.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-dv-time-series-ac|Create time series data visualizations]]
+</table>**Parent Topic:**[Create time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-time-series-ac.md)
 
-## Related
-
-- [[create-dv-time-series-ac|Create time series data visualizations]]
-- [[multiple-data-sources|multiple data sources]]

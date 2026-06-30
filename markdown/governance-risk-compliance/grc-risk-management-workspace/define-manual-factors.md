@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Create a manual factor
 
-Create manual [[factors|factors]] to evaluate and assess risks on a risk assessment instance.
+Create manual factors to evaluate and assess risks on a risk assessment instance.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_risk.admin
 
 Manual factors need human responses. You can create manual factors and associate them with various assessment types, such as an inherent assessment, control assessment, or residual assessment.
 
-**Note:** You can only delete a factor if there are no [[airc-rams|Risk assessment methodologies]] \(RAMs\) associated with the factor.
+**Note:** You can only delete a factor if there are no Risk assessment methodologies \(RAMs\) associated with the factor.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Manual Factors**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Manual Factors**.
 
 2.  Select **New**.
 
@@ -156,7 +156,7 @@ Guidance on how to respond to the factor. If the risk assessor does not understa
 </td></tr></tbody>
 </table>4.  Click **Save**.
 
-5.  Click the Qualitative [[transformation-criteria|Transformation Criteria]] related list.
+5.  Click the Qualitative Transformation Criteria related list.
 
     **Note:** This related list appears only when you select the **Transform qualitative score** option.
 
@@ -180,10 +180,3 @@ The factor is published and is ready for use in a Risk Assessment Methodology.
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[factors|factors]]
-- [[airc-rams|Risk assessment methodologies]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[transformation-criteria|transformation criteria]]

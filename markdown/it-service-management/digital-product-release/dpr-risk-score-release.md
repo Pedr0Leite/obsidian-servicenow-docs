@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Risk score for a release
 
-Risk scores help release coordinators and product managers identify potential issues early and take corrective action. The risk score is calculated for the current in-progress phase and is recalculated each time you view the [[dpr-release-overview-dashboard|Release overview dashboard]].
+Risk scores help release coordinators and product managers identify potential issues early and take corrective action. The risk score is calculated for the current in-progress phase and is recalculated each time you view the Release overview dashboard.
 
 Risk score is calculated differently for timeline-oriented releases and stage-oriented releases.
 
@@ -64,7 +64,7 @@ Where each metric is calculated as follows:
     -   If 10-40% of policies fail, the policy failure score is 1.
     -   If &gt;40% of policies fail, the policy failure score is 2.
 
-Based on the [[risk-lookup|calculated risk score]], the release is categorized into one of the following risk levels:
+Based on the calculated risk score, the release is categorized into one of the following risk levels:
 
 -   Low, if the value is 0 or 1
 -   Medium, if the value is 2
@@ -160,7 +160,3 @@ The risk score returns 0 in the following cases:
 
 [Managing stage-oriented releases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-working-stage-release.md)
 
-## Related
-
-- [[dpr-release-overview-dashboard|Release Overview dashboard]]
-- [[risk-lookup|Calculated Risk Score]]

@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Configure users for Multi-Provider SSO
 
-Administrators can configure Multi-Provider SSO for individual [[users|users]] or for all users who belong to a company. You cannot configure Multi-Provider SSO for groups.
+Administrators can configure Multi-Provider SSO for individual users or for all users who belong to a company. You cannot configure Multi-Provider SSO for groups.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers**.
 
 2.  Right-click an identity provider record and select **Copy sys\_id**.
 
@@ -34,12 +34,8 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 6.  In the **SSO Source** field, enter one of the following:
 
-    -   **[[c_SAML2.0WebBrowserSSOProfile|SAML]] users**: enter **sso:** followed by the sys\_id of the identity provider's record.
+    -   **SAML users**: enter **sso:** followed by the sys\_id of the identity provider's record.
     -   **SSO Federation users**: enter **federation:** followed by the sys\_id of the federation record.
 7.  Click **Update**.
 
-## Related
 
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

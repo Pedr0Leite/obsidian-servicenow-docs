@@ -14,9 +14,9 @@ breadcrumb: [Setting up Field Service Mobile Agent, Configure, Field Service Man
 
 # Field Service Contractor for mobile feature of the Now Mobile Agent application
 
-The Field Service Contractor for mobile feature of the Now Mobile Agent application enables contractors to [[manage-work-order-tasks-dw|manage work order tasks]].
+The Field Service Contractor for mobile feature of the Now Mobile Agent application enables contractors to manage work order tasks.
 
-The [[wot-fsc|Field Service Contractor for mobile]] application enables managers and field service agents of contractor companies to manage and work on assigned work order tasks. When not connected to the internet, agents can use the mobile application to perform activities like adding notes, referring to attached knowledge articles and also closing work order tasks. The Now Mobile Agent application syncs the information and provides the latest information when it is online again.
+The Field Service Contractor for mobile application enables managers and field service agents of contractor companies to manage and work on assigned work order tasks. When not connected to the internet, agents can use the mobile application to perform activities like adding notes, referring to attached knowledge articles and also closing work order tasks. The Now Mobile Agent application syncs the information and provides the latest information when it is online again.
 
 The steps for configuring Field Service Contractor for mobile are:
 
@@ -34,7 +34,3 @@ The steps for configuring Field Service Contractor for mobile are:
 
 [Field Service Contractor for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/wot-fsc.md)
 
-## Related
-
-- [[manage-work-order-tasks-dw|Manage work order tasks]]
-- [[wot-fsc|Field Service Contractor for mobile]]

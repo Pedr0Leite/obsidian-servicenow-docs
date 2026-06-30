@@ -14,7 +14,7 @@ breadcrumb: [Manage IP addresses, Inventory number allocation, Define inventory 
 
 # Create Managed Network
 
-Create a managed network to manage all your networks and IP addresses using the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can create, review, update, and delete a network.
+Create a managed network to manage all your networks and IP addresses using the Telecommunications Network Inventory application. You can create, review, update, and delete a network.
 
 ## Before you begin
 
@@ -27,9 +27,9 @@ Managed network enables you to add IP pool and IP network subnet in your network
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **Managed Network**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Number Allocation** &gt; **Managed Network**.
 
 3.  Select **New**.
 
@@ -54,13 +54,7 @@ Managed network enables you to add IP pool and IP network subnet in your network
 
 ## What to do next
 
-You can review, or update the fields, create a related tab record, or can [[delete-inventory-record|delete a record]]. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
+You can review, or update the fields, create a related tab record, or can delete a record. To learn more, see [Update or delete a record of an inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/update_and_delete_ip_address_space.md).
 
 **Parent Topic:**[Manage IP addresses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/manage-ip-addresses.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[delete-inventory-record|Delete a record]]

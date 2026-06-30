@@ -14,11 +14,11 @@ breadcrumb: [Using Help Center, Help Center, In-product help, Adoption services,
 
 # Create Help Center content for configurable workspace
 
-Create [[help-center|Help Center]] content to provide your users with helpful information about the page that they are working on within a configurable workspace.
+Create Help Center content to provide your users with helpful information about the page that they are working on within a configurable workspace.
 
 ## Before you begin
 
-Create or edit an [[embedded-help|embedded help]] record before creating a guidance record by following the steps in [Add custom Embedded Help content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-custom-help-topic.md) to create content or [Add custom Embedded Help from a copy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-custom-help-copy.md) to modify existing content.
+Create or edit an embedded help record before creating a guidance record by following the steps in [Add custom Embedded Help content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-custom-help-topic.md) to create content or [Add custom Embedded Help from a copy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/add-custom-help-copy.md) to modify existing content.
 
 Role required: admin
 
@@ -122,7 +122,7 @@ Route parameters
 
 </td><td>
 
-An advanced configuration to display guidance only when users view specific [[lists-configurable-workspace|lists]] or record types within your workspace.
+An advanced configuration to display guidance only when users view specific lists or record types within your workspace.
 
  To provide guidance when a user is viewing a specific list, review the URL you noted earlier and look for the list id number, such as `list-id/d03d64feebd1301080de83402a5228f1`. Then, enter route parameters in the following format: `{"params":{"listId":"d03d64feebd1301080de83402a5228f1"}}`.
 
@@ -194,8 +194,3 @@ To provide guidance when a user is viewing a related record \(a record accessed 
 
 \[Omitted image "URL-with-related-record.png"\] Alt text: A labeled image highlighting parts of the URL used in the guidance record fields.
 
-## Related
-
-- [[help-center|Help Center]]
-- [[embedded-help|Embedded Help]]
-- [[lists-configurable-workspace|Lists]]

@@ -22,11 +22,11 @@ Role required: ais\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Sources**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Sources**.
 
 2.  Open the search source that you want to preview matching records for.
 
-3.  On the [[search-source-form-ais|Search Source form]], select the **preview** link in the informational message that reports the number of matching records.
+3.  On the Search Source form, select the **preview** link in the informational message that reports the number of matching records.
 
     For a description of the field values, see [Search Source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-source-form-ais.md).
 
@@ -39,7 +39,3 @@ The ServiceNow AI Platform table specified in the search source's indexed source
 
 **Parent Topic:**[Search sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[search-source-form-ais|Search Source form]]

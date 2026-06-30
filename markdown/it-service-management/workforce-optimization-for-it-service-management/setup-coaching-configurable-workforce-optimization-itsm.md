@@ -16,11 +16,11 @@ breadcrumb: [Coaching, Workforce Optimization for ITSM, IT Service Management]
 
 Manage agent skills and assess the quality of completed tasks. Use predictive intelligence to recommend skills for agents. Train your agents with internal and external learning content.
 
-To [[cf-identify-learning-content|identify and add course items for a virtual coach]], see [Identify and add course items for a virtual coach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-identify-learning-content.md).
+To identify and add course items for a virtual coach, see [Identify and add course items for a virtual coach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-identify-learning-content.md).
 
-**Important:** If you have enabled the [[cf-coaching-landing|Coaching]] \(sn\_coaching\) plugin, make sure that you have upgraded the following plugins to latest store release version:
+**Important:** If you have enabled the Coaching \(sn\_coaching\) plugin, make sure that you have upgraded the following plugins to latest store release version:
 
--   [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] Configurable Workspace \(sn\_wfo\_cfg\_itsm\).
+-   Workforce Optimization for ITSM Configurable Workspace \(sn\_wfo\_cfg\_itsm\).
 -   Workforce Optimization Configurable Workspace Core \(sn\_wfo\_cfg\_ws\).
 -   Workforce Optimization Common \(sn\_wfo\_common\).
 
@@ -35,8 +35,3 @@ Connect your ServiceNow instance with third-party learning sites to pull learnin
 
 **Parent Topic:**[Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/explore-coaching-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[cf-identify-learning-content|Identify and add course items for a virtual coach]]
-- [[cf-coaching-landing|Coaching]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

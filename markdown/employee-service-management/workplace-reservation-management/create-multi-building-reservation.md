@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## About this task
 
-Reserve multiple spaces belonging to different buildings in a single reservation using the **Add another building** option on the [[reservation-portal|Make a reservation]] page. For example, if you want to have a meeting where your colleagues are joining from different locations, you can create a single reservation with multiple locations from different time zones. Some of your colleagues may join from California while others may join from Amsterdam, and so on. [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] automatically takes care of the timezone conversion based on the buildings selected and their associated timezones.
+Reserve multiple spaces belonging to different buildings in a single reservation using the **Add another building** option on the Make a reservation page. For example, if you want to have a meeting where your colleagues are joining from different locations, you can create a single reservation with multiple locations from different time zones. Some of your colleagues may join from California while others may join from Amsterdam, and so on. Workplace Reservation Management automatically takes care of the timezone conversion based on the buildings selected and their associated timezones.
 
 The **Allow multiple building reservations** option should be configured by your administrator to make a multi-building reservation. For more information, see [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
@@ -56,7 +56,7 @@ The **Allow multiple building reservations** option should be configured by your
 
     The bottom pane will show the number of items that you've selected from the search results.
 
-6.  If your organization has uploaded floor maps, view the **Floor maps** using Mappedin or [[Indoor-mapping|Indoor Mapping]] map providers.
+6.  If your organization has uploaded floor maps, view the **Floor maps** using Mappedin or Indoor Mapping map providers.
 
 7.  To revisit and update the search criteria, click **Edit search**.
 
@@ -74,7 +74,7 @@ The **Allow multiple building reservations** option should be configured by your
 
 11. Click **Submit Reservation**.
 
-    **Note:** When you create a multi-building reservation using the Workplace Reservation Management application and synchronize it with the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] service and later on, if you update this reservation in calendar service by removing all spaces from a primary building, then, the primary building will continue to remain as a primary building with no reserved spaces.
+    **Note:** When you create a multi-building reservation using the Workplace Reservation Management application and synchronize it with the Workplace Calendar Synchronization service and later on, if you update this reservation in calendar service by removing all spaces from a primary building, then, the primary building will continue to remain as a primary building with no reserved spaces.
 
     This behavior is different when compared to multi-building reservations created using the Workplace Reservation Management application, as it does not allow you to proceed with the reservation if you have not selected a space in the primary building.
 
@@ -116,9 +116,3 @@ The **Allow multiple building reservations** option should be configured by your
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

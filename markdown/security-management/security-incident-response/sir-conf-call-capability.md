@@ -16,7 +16,7 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 The Security Incident Response Conference Call integration enables you to manage and initiate conference call and chat for analysts, managers and affected users.
 
-With [[sir-landing-page|Security Incident Response]] conference call feature, you can collaborate with customers and peer agents to resolve security incidents over a call. You can also collaborate using a group chat.
+With Security Incident Response conference call feature, you can collaborate with customers and peer agents to resolve security incidents over a call. You can also collaborate using a group chat.
 
 You can initiate conference calls using third-party communication channels such as Microsoft Teams, Cisco Webex or Zoom meetings. To collaborate using chat, use the Sidebar chat of the SIR application.
 
@@ -62,6 +62,3 @@ The SIR Conference Call integration with third-party communication channels such
 
 [Timeline in Security Incident Response Workspace]()
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

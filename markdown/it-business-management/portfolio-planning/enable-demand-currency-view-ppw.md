@@ -24,13 +24,13 @@ Role required: it\_demand\_manager
 
 ## About this task
 
-The demand currency view enables you to see the planned cost fields in some demand [[form-field-information-for-dw|forms]] in the selected demand currency. For more information about which fields are supported in the demand currency view, see [Multicurrency fields in demand-related forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/multicurrency-fields-in-demand-related-forms-ppw.md).
+The demand currency view enables you to see the planned cost fields in some demand forms in the selected demand currency. For more information about which fields are supported in the demand currency view, see [Multicurrency fields in demand-related forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/multicurrency-fields-in-demand-related-forms-ppw.md).
 
 ## Procedure
 
 1.  Navigate to each form in which you want to enable the demand currency view.
 
-    The demand currency view is available in the following forms: Demand, Demand Task, Cost Plan, [[cost-plan-breakdown|Cost Plan Breakdown]], Benefit Plan, Benefit Plan Breakdown, Expense Line, and Project Funding.
+    The demand currency view is available in the following forms: Demand, Demand Task, Cost Plan, Cost Plan Breakdown, Benefit Plan, Benefit Plan Breakdown, Expense Line, and Project Funding.
 
 2.  Select and hold \(or right-click\) the form header to display the context menu or select the additional actions icon.
 
@@ -43,7 +43,3 @@ The demand currency view enables you to see the planned cost fields in some dema
 
 Review the form fields exclusive to the demand currency view. All other form tabs and fields remain the same in both default view and demand currency view.
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[cost-plan-breakdown|Cost plan breakdown]]

@@ -14,11 +14,11 @@ breadcrumb: [Test the SAML integration, SAML, Multi-Provider single sign-on \(SS
 
 # Multi-SSO \(SAML 2.0\) errors and fixes
 
-A list of common errors and associated fixes for a Multi-SSO \([[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0\) setup and [[sc-configuration|configuration]].
+A list of common errors and associated fixes for a Multi-SSO \(SAML 2.0\) setup and configuration.
 
 <table id="table_y1c_2l1_qy"><thead><tr><th>
 
-Error in instance [[logs|logs]]
+Error in instance logs
 
 </th><th>
 
@@ -80,7 +80,7 @@ Ensure that the correct PEM-formatted certificate is uploaded to the instance.
 
 </td></tr><tr><td>
 
-[[c_Certificates|Certificates]] do not match. Expect: &lt;certStr&gt;, actual: &lt;inboundCert&gt;.
+Certificates do not match. Expect: &lt;certStr&gt;, actual: &lt;inboundCert&gt;.
 
 </td><td>
 
@@ -237,7 +237,7 @@ Assertion issuer is invalid.
 
 </td><td>
 
-The [[identity-landing|Identity]] Provider URL that issues the SAML2 security token with user info.
+The Identity Provider URL that issues the SAML2 security token with user info.
 
 </td><td>
 
@@ -318,16 +318,16 @@ Login requests generate an infinite loop between the system and the IdP when Hig
 -   Typically the URL endpoint is an error page or logout page.
 -   The logout\_redirect.do might create this loop when you define **glide.security.url.whitelist** without adding the IdP host name to the property value.
 
-**Note:** To learn more about this property, see [Enforce URL allowlist check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-url-allowlist-check.md) in Instance [[sc-hardening|Security Hardening]] Settings.
+**Note:** To learn more about this property, see [Enforce URL allowlist check](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-url-allowlist-check.md) in Instance Security Hardening Settings.
 
 
 </td><td>
 
-Set \(or create\) the system property glide.authenticate.failed\_redirect to redirect failed [[c_Authentication|authentication]] requests to this URL.
+Set \(or create\) the system property glide.authenticate.failed\_redirect to redirect failed authentication requests to this URL.
 
 </td></tr><tr><td>
 
-The token used to authenticate the user or the [[c_requestAPI|request]] is signed with the signature algorithm http://www.w3.org/2001/04/xmldsig-more\#rsa-sha256 which is not the expected signature algorithm http://www.w3.org/2000/09/xmldsig\#rsa-sha1.
+The token used to authenticate the user or the request is signed with the signature algorithm http://www.w3.org/2001/04/xmldsig-more\#rsa-sha256 which is not the expected signature algorithm http://www.w3.org/2000/09/xmldsig\#rsa-sha1.
 
 </td><td>
 
@@ -339,7 +339,7 @@ Navigate to the Advanced tab of the Relying Party Trust configuration dialog and
 
 </td></tr><tr><td>
 
-The error message `urn:oasis:names:tc:SAML:2.0:status:Requester` appears in your [[r_SystemLogs|system log]] \(syslog\) table.
+The error message `urn:oasis:names:tc:SAML:2.0:status:Requester` appears in your system log \(syslog\) table.
 
 </td><td>
 
@@ -351,15 +351,3 @@ Review the SAML request sent to the IDP, and work with your IDP administrator to
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]
-- [[c_Certificates|Certificates]]
-- [[identity-landing|Identity]]
-- [[sc-hardening|Security hardening]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[r_SystemLogs|System log]]

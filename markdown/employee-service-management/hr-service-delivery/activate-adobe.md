@@ -14,7 +14,7 @@ breadcrumb: [Integrating with the Adobe Sign service, HR Integrations, Integrati
 
 # Activate the Adobe Sign spoke
 
-Activate the Adobe Sign spoke in IntegrationHub from the ServiceNow Store, and enable the signing of adhoc documents \(HR PDF [[document-templates-overview|document templates]]\) and Adobe Sign templates.
+Activate the Adobe Sign spoke in IntegrationHub from the ServiceNow Store, and enable the signing of adhoc documents \(HR PDF document templates\) and Adobe Sign templates.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 **Parent Topic:**[Integrating with the Adobe Sign service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrating-with-adobe-sign-service.md)
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

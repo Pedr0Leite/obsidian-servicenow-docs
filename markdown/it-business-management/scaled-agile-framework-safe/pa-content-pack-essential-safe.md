@@ -14,11 +14,11 @@ breadcrumb: [Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
 
 # Performance Analytics Content Pack for Essential SAFe
 
-Improve your SAFe processes and practices using the Platform Analytics Content Pack for [[essential-overview|Essential SAFe]] that contains preconfigured dashboards with data visualizations.
+Improve your SAFe processes and practices using the Platform Analytics Content Pack for Essential SAFe that contains preconfigured dashboards with data visualizations.
 
 **Important:**
 
-Starting with the Xanadu release, the plugins [[portfolio-overview|Portfolio SAFe]], Essential SAFe, Performance Analytics Content Pack for Essential SAFe, [[work-progress-status-safe-overview|Work Progress Status for SAFe]], Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-landing.md) provides the latest experience for this functionality.
+Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, Performance Analytics Content Pack for Essential SAFe, Work Progress Status for SAFe, Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-landing.md) provides the latest experience for this functionality.
 
 For more information on the deprecation process and its impact, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
@@ -43,19 +43,19 @@ Enable scheduled data collection to begin collecting scores on new data automati
 -   **[Using Solution Library for Essential SAFe dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/using-solution-library-for-essential-safe-dashboards.md)**  
 Upgrade to the latest layout of Essential SAFe dashboards using Solution Library.
 -   **[SAFe Feature Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-feature-dashboard.md)**  
-The [[safe-feature-dashboard|SAFe Feature Dashboard]] provides a visualization of the changes in scope and the progress of the stories in the feature over a given period.
+The SAFe Feature Dashboard provides a visualization of the changes in scope and the progress of the stories in the feature over a given period.
 -   **[SAFe Epic Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-epic-dashboard.md)**  
-The [[safe-epic-dashboard|SAFe Epic Dashboard]] provides a visualization of how the features of an epic are progressing over a given period of time.
+The SAFe Epic Dashboard provides a visualization of how the features of an epic are progressing over a given period of time.
 -   **[SAFe Sprint Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-sprint-dashboard.md)**  
-Track the progress of your SAFe stories in the current sprint and forecast sprint completion using the [[safe-sprint-dashboard|SAFe Sprint Dashboard]].
+Track the progress of your SAFe stories in the current sprint and forecast sprint completion using the SAFe Sprint Dashboard.
 -   **[SAFe Prior Sprint Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-prior-sprint-dashboard.md)**  
-The [[safe-prior-sprint-dashboard|SAFe Prior Sprint Dashboard]] provides data visualization on scope, actual burnup and burndown, and forecast trends of previous sprints. Analyze the data and plan the work for upcoming sprints.
+The SAFe Prior Sprint Dashboard provides data visualization on scope, actual burnup and burndown, and forecast trends of previous sprints. Analyze the data and plan the work for upcoming sprints.
 -   **[SAFe PI Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-pi-dashboard.md)**  
-The [[safe-pi-dashboard|SAFe PI Dashboard]] allows you to track the progress of your features in the current program increment \(PI\).
+The SAFe PI Dashboard allows you to track the progress of your features in the current program increment \(PI\).
 -   **[SAFe Prior PI Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-prior-pi-dashboard.md)**  
-The [[safe-prior-pi-dashboard|SAFe Prior PI Dashboard]] provides data visualization on scope, actual burndown, and forecast trends of previous program increments \(PI\). Analyze the data and plan the work for upcoming PIs.
+The SAFe Prior PI Dashboard provides data visualization on scope, actual burndown, and forecast trends of previous program increments \(PI\). Analyze the data and plan the work for upcoming PIs.
 -   **[SAFe ART Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-art-dashboard.md)**  
-Visualize how the ART members are progressing on features and program increments \(PIs\) over a given period using the [[safe-art-dashboard|SAFe ART dashboard]]. Gain insight on the overall velocity of the ART members, historical performance of the ART on the PI objectives so that you can plan the work accordingly for the upcoming program increments.
+Visualize how the ART members are progressing on features and program increments \(PIs\) over a given period using the SAFe ART dashboard. Gain insight on the overall velocity of the ART members, historical performance of the ART on the PI objectives so that you can plan the work accordingly for the upcoming program increments.
 -   **[SAFe Team Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-team-art-dashboard.md)**  
 Visually analyze how a team is progressing on stories over a given period. Gain insight on the overall velocity of the team and helps you plan the team's capacity for the upcoming sprints and program increments \(PIs\). In addition, this dashboard provides details of all the team members.
 -   **[Customizing Essential SAFe dashboard reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/customizing-safe-dashboard-reports.md)**  
@@ -80,15 +80,3 @@ Customize the Burnup, Burndown, and Cumulative Flow Diagram reports of your dash
 
 [Activate your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[portfolio-overview|Portfolio SAFe]]
-- [[work-progress-status-safe-overview|Work Progress Status for SAFe]]
-- [[safe-feature-dashboard|SAFe Feature Dashboard]]
-- [[safe-epic-dashboard|SAFe Epic Dashboard]]
-- [[safe-sprint-dashboard|SAFe Sprint Dashboard]]
-- [[safe-prior-sprint-dashboard|SAFe Prior Sprint Dashboard]]
-- [[safe-pi-dashboard|SAFe PI Dashboard]]
-- [[safe-prior-pi-dashboard|SAFe Prior PI Dashboard]]
-- [[safe-art-dashboard|SAFe ART Dashboard]]

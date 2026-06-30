@@ -32,7 +32,7 @@ In the following diagram, you can see the elements of the context.
 
 \[Omitted image "bp-user-session-context-home.png"\] Alt text: User session context home domain
 
-The system administrator sets [[users|users]]' home domains on their user records. Typically, a user’s home domain is set to the same domain as their company’s domain. When the user [[logs|logs]] in, the domain picker sets automatically to the user’s home domain. Users can return to their home domain at any time by clicking the arrow icon on the domain picker.
+The system administrator sets users' home domains on their user records. Typically, a user’s home domain is set to the same domain as their company’s domain. When the user logs in, the domain picker sets automatically to the user’s home domain. Users can return to their home domain at any time by clicking the arrow icon on the domain picker.
 
 The domain picker's list includes domains within the user’s session context. Users may further limit their session context by selecting child domains with the picker.
 
@@ -40,7 +40,7 @@ The context of the user session includes the user's home domain and any child do
 
 Service accounts that are used for integrations also have user session context. There is user context and records context, each with its own data in its own domain. These contexts affect the integrations. Database queries \(records\) are limited in the same way as interactive users \(users\), meaning that they work as normal but are limited by whatever constraints the developer has configured.
 
-You can learn about additional ways to add domains to a user’s session context in [[bp-sp-reference-arch-ds|Service provider reference architecture]].
+You can learn about additional ways to add domains to a user’s session context in [Service provider reference architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-sp-reference-arch-ds.md).
 
 ## Record context
 
@@ -55,7 +55,7 @@ A record’s domain dictates the process, data, and the availability of UI eleme
 
 \[Omitted image "bp-record-context.png"\] Alt text: Record context
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -110,9 +110,3 @@ A record’s domain dictates the process, data, and the availability of UI eleme
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-sp-reference-arch-ds|Service provider reference architecture]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[users|Users]]
-- [[logs|Logs]]

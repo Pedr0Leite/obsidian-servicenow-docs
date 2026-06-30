@@ -12,7 +12,7 @@ breadcrumb: [Impact Value Management Data Collection Content Pack for SecOps, En
 
 # Review SecOps artifacts
 
-The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform [[io-analytics|Analytics]] application.
+The Data Collection app contains a pre-build data metric structure for the ServiceNow Performance/Platform Analytics application.
 
 The content pack comes with the following artifact types.
 
@@ -73,6 +73,3 @@ The app contains the following artifacts for each of the above-specified artifac
 |Formula|Impact VM - Mean time to close SI \(days\)|
 |Automated|Impact VM - Summed duration of closed security incident|
 
-## Related
-
-- [[io-analytics|Analytics]]

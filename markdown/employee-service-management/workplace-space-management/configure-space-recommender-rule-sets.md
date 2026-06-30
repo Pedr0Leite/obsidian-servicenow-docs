@@ -14,15 +14,15 @@ breadcrumb: [Create a Space Recommender rule, Manage, Workplace Space Management
 
 # Configure a Space Recommender Rule set
 
-[[create-a-space-recommender-rule|Create a space recommender rule]] set consisting multiple rules. The rule set calculates the qualifying spaces when a user submits a [[space-assistance|space assistance]] request using the [[workplace-services-portal-hr|Workplace Service Portal]]. You must have [[workplace-central-feat|Workplace Central]] plugin.
+Create a space recommender rule set consisting multiple rules. The rule set calculates the qualifying spaces when a user submits a space assistance request using the Workplace Service Portal. You must have Workplace Central plugin.
 
 ## Before you begin
 
 Ensure the following:
 
 -   Workplace Central plugin is installed.
--   [[workplace-case-mgmt-feat|Workplace Case Management]] is installed.
--   [[workplace-safety-mgmt-hr|Workplace Core]] is installed.
+-   Workplace Case Management is installed.
+-   Workplace Core is installed.
 
 Role required: sn\_wsd\_core.admin
 
@@ -63,11 +63,3 @@ The Space Recommender Rule set is created.
 
 **Parent Topic:**[Create a Space Recommender rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/create-a-space-recommender-rule.md)
 
-## Related
-
-- [[create-a-space-recommender-rule|Create a Space Recommender rule]]
-- [[space-assistance|Space assistance]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

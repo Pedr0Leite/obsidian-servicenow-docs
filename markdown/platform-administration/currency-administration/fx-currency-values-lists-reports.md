@@ -14,13 +14,13 @@ breadcrumb: [FX Currency fields, Explore, Currency administration, Configure cor
 
 # Understanding FX Currency values in lists and reports
 
-By default, the currency values that appear in the [[fx-currency|FX Currency fields]] in lists and reports are the values that you directly enter into the FX Currency fields. For reports, the aggregations of FX Currency fields are, by default, [[reference-email-admin|reference]] currency values.
+By default, the currency values that appear in the FX Currency fields in lists and reports are the values that you directly enter into the FX Currency fields. For reports, the aggregations of FX Currency fields are, by default, reference currency values.
 
 ## FX Currency values in list views
 
 In lists, FX Currency values appear as a formatted currency string returned from getDisplayValue\(\).
 
--   The settings in the **Display Digits** and **Display Value Currency** fields in **[[system-localization-landing|System Localization]]** &gt; **FX Currency Configuration** determine how the currency values appear in lists.
+-   The settings in the **Display Digits** and **Display Value Currency** fields in **System Localization** &gt; **FX Currency Configuration** determine how the currency values appear in lists.
 -   To learn more, see [Identify the FX Currency field and its display parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-display-parameters.md).
 
 For an FX Currency field that depends on another FX Currency field, the currency value comes from the Currency Instance \[fx\_currency2\_instance\] record associated with the latter. The display value format is based on how you configured its display settings in **System Localization** &gt; **FX Currency Configuration.**
@@ -29,14 +29,14 @@ For an FX Currency field that depends on another FX Currency field, the currency
 
 ## Filtering FX Currency values in lists
 
-In lists, FX Currency field filtering behaves differently than with [[configure-and-use-default-currency-fields|standard currency fields]]. The filtering takes place using the currency type selected when a currency value is originally entered into an FX Currency field. It doesn't take reference currencies into account when you filter a list. So, if the unfiltered list contains FX Currency field entries in multiple currencies, a filtered list would only contain those records originally entered using the specified filtering currency.
+In lists, FX Currency field filtering behaves differently than with standard currency fields. The filtering takes place using the currency type selected when a currency value is originally entered into an FX Currency field. It doesn't take reference currencies into account when you filter a list. So, if the unfiltered list contains FX Currency field entries in multiple currencies, a filtered list would only contain those records originally entered using the specified filtering currency.
 
 -   For example, if you entered a currency value in Euros \(EUR\) and the reference currency is US Dollars \(USD\), the reference currency value may appear in an unfiltered list.
 -   However, if you filter the list, and select USD as the currency, the currency value, originally entered in Euros, doesn't appear. In this case, only currency values originally entered in USD would appear.
 
 ## Dependent FX Currency fields
 
-Use of FX Currency view or [[c_SpecifyDependentFields|dependent fields]] enable you to use alternate display [[clone-configurations-tab|configurations]] defined in **System Localization** &gt; **FX Currency Configuration** for a particular FX Currency field. To learn more about FX Currency field configurations, see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md).
+Use of FX Currency view or dependent fields enable you to use alternate display configurations defined in **System Localization** &gt; **FX Currency Configuration** for a particular FX Currency field. To learn more about FX Currency field configurations, see [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md).
 
 When you create an FX Currency field, you can mark it as dependent on another FX Currency field. Marking an FX Currency field as dependent enables it to use the configuration settings for the original FX Currency field to display the amount values in different currency. Any changes that you make to the dependent field don't affect the original FX Currency field.
 
@@ -92,11 +92,3 @@ You can also use a Group By command on FX Currency fields.
 
 [Configuring FX Currency field behavior](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-fx-currency-field-behavior.md)
 
-## Related
-
-- [[fx-currency|FX Currency fields]]
-- [[reference-email-admin|Reference]]
-- [[system-localization-landing|System Localization]]
-- [[configure-and-use-default-currency-fields|Standard currency fields]]
-- [[c_SpecifyDependentFields|Dependent fields]]
-- [[clone-configurations-tab|Configurations]]

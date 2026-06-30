@@ -12,7 +12,7 @@ breadcrumb: [Address field with auto-suggestions, Reference, Field administratio
 
 # Configure address suggestion properties
 
-Configure the address suggestion [[r_SetArchiveRuleProcessingBehavior|system properties]] so that the Address \(Simple\) field retrieves matching addresses as you enter text.
+Configure the address suggestion system properties so that the Address \(Simple\) field retrieves matching addresses as you enter text.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 The address suggestions API displays closely matched addresses as you enter text in the Address \(Simple\) field.
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

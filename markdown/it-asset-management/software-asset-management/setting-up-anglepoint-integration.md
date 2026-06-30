@@ -14,23 +14,16 @@ breadcrumb: [Authorized SAM Provider \(ASP\) integrations for IBM, Software Asse
 
 # Setting up an IBM Authorized SAM Provider \(ASP\) integration
 
-Before you can integrate the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] with an Authorized SAM Provider \(ASP\), complete the setup process.
+Before you can integrate the Software Asset Management publisher pack for IBM with an Authorized SAM Provider \(ASP\), complete the setup process.
 
-To integrate with an ASP, you must request and install the IBM License Compliance for [[c_SoftwareAssetMgmt|Software Asset Management]] application from the ServiceNow® Store. If you are integrating with Anglepoint, you must also request and install Anglepoint's IBM Licensing for Software Asset Management application from the ServiceNow® Store. You must also upload the IBM [[sam-software-discovery|software discovery]] catalog from the ASP to your ServiceNow instance.
+To integrate with an ASP, you must request and install the IBM License Compliance for Software Asset Management application from the ServiceNow® Store. If you are integrating with Anglepoint, you must also request and install Anglepoint's IBM Licensing for Software Asset Management application from the ServiceNow® Store. You must also upload the IBM software discovery catalog from the ASP to your ServiceNow instance.
 
 -   **[Request the IBM License Compliance for Software Asset Management application for Authorized Software Asset Management Provider \(ASP\) integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/request-ibm-license-compliance-sam-application.md)**  
 Request the IBM License Compliance for Software Asset Management application from the ServiceNow® Store so that you can integrate the Software Asset Management publisher pack for IBM with an Authorized SAM Provider \(ASP\). Use the integration to track and manage your IBM licenses.
 -   **[Request Anglepoint's IBM Licensing for Software Asset Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/request-anglepoint-application.md)**  
-If you are integrating the Software Asset Management publisher pack for IBM with Anglepoint, [[request-anglepoint-application|request Anglepoint's IBM Licensing for Software Asset Management application]] from the ServiceNow® Store. This application extends the base Software Asset Management File Names \[samp\_file\_name\], File Maps \[samp\_file\_map\], and File Sets \[samp\_file\_set\] tables so that you can store IBM software information from Anglepoint.
+If you are integrating the Software Asset Management publisher pack for IBM with Anglepoint, request Anglepoint's IBM Licensing for Software Asset Management application from the ServiceNow® Store. This application extends the base Software Asset Management File Names \[samp\_file\_name\], File Maps \[samp\_file\_map\], and File Sets \[samp\_file\_set\] tables so that you can store IBM software information from Anglepoint.
 -   **[Upload the IBM software discovery catalog to your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/upload-anglepoint-software-discovery-catalog.md)**  
-[[upload-anglepoint-software-discovery-catalog|Upload the IBM software discovery catalog to your ServiceNow instance]] so that discovery tools, such as the ServiceNow® Discovery application, can identify the IBM software that is discovered in your environment.
+Upload the IBM software discovery catalog to your ServiceNow instance so that discovery tools, such as the ServiceNow® Discovery application, can identify the IBM software that is discovered in your environment.
 
 **Parent Topic:**[Authorized SAM Provider \(ASP\) integrations for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-asp-integration.md)
 
-## Related
-
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[request-anglepoint-application|Request Anglepoint's IBM Licensing for Software Asset Management application]]
-- [[upload-anglepoint-software-discovery-catalog|Upload the IBM software discovery catalog to your ServiceNow instance]]

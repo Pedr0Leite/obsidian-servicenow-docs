@@ -14,7 +14,7 @@ breadcrumb: [Enrich the CMDB with host data from logs, Administer HLA, Configuri
 
 # Add log-based CIs to the CMDB in Health Log Analytics
 
-Keep the Configuration Management Database \(CMDB\) updated with host data [[hla-landing-page|Health Log Analytics]] discovered in your logs by adding log-based configuration items \(CIs\) to the database.
+Keep the Configuration Management Database \(CMDB\) updated with host data Health Log Analytics discovered in your logs by adding log-based configuration items \(CIs\) to the database.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ For field descriptions, see [Log-based CI candidates fields in Health Log Analyt
 
         -   To add the CI candidate to the CMDB as is, select **Add to CMDB** and then select **Continue**.
         -   To add more information, select **Edit additional CI fields**. Enter data that was not extracted from the logs, such as the name of the company associated with the CI, and then select **Submit**.
-The CI is added to the CMDB. In the CMDB table for the relevant class type, the [[r-discovery|discovery]] source for the new CI is Health Log Analytics. The CI candidate record is automatically deleted from the Log-based CI candidates table.
+The CI is added to the CMDB. In the CMDB table for the relevant class type, the discovery source for the new CI is Health Log Analytics. The CI candidate record is automatically deleted from the Log-based CI candidates table.
 
     -   If the CI candidate is irrelevant, delete it by selecting **Delete**.
 
@@ -79,7 +79,3 @@ The selected CIs are added to the CMDB. The CI candidate records are automatical
 </table>
 **Parent Topic:**[Enhancing the CMDB with host data Health Log Analytics found in logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-cmdb-enrich-concept.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[r-discovery|Discovery]]

@@ -24,10 +24,10 @@ Role required: none
 
 1.  Navigate to one of the following locations:
 
-    -   **Compliance** &gt; **[[c_DesiredState|Desired State]]** &gt; **Audit Results**
-    -   **Compliance** &gt; **[[c_ArchitectureCompliance|Architecture Compliance]]** &gt; **Audit Results**
-    -   **Compliance** &gt; **[[c_ScriptedAudits|Scripted Audits]]** &gt; **Audit Results**
-    -   **[[c_DataCertification|Data Certification]]** &gt; **Schedules** &gt; **Audit results**
+    -   **Compliance** &gt; **Desired State** &gt; **Audit Results**
+    -   **Compliance** &gt; **Architecture Compliance** &gt; **Audit Results**
+    -   **Compliance** &gt; **Scripted Audits** &gt; **Audit Results**
+    -   **Data Certification** &gt; **Schedules** &gt; **Audit results**
 2.  From any audit results list, you can edit the filter to show the results for any audit type.
 
     The results filter by audit type and grouped by audit number. Within the groups, results list by date, from oldest to newest.
@@ -141,10 +141,3 @@ Stability state of a CI. Stability state is based on the number of times the aud
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DesiredState|Desired State]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_ScriptedAudits|Scripted audits]]
-- [[c_DataCertification|Data Certification]]

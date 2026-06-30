@@ -96,7 +96,7 @@ What data will be used as inputs for this model?
 
 </td><td>
 
-Details about the data sources or [[dataset-airc|datasets]] the model uses.
+Details about the data sources or datasets the model uses.
 
 </td></tr><tr><td>
 
@@ -119,9 +119,5 @@ Estimated level of model complexity. The options are as follows:-   Simple
 </td></tr></tbody>
 </table>**Note:** The fields shown in the intake form are sample basic fields. You can configure additional fields and update choice values as needed to meet your specific requirements.
 
-**Parent Topic:**[[request-new-model|Request a new model]]
+**Parent Topic:**[Request a new model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/request-new-model.md)
 
-## Related
-
-- [[request-new-model|Request a new model]]
-- [[dataset-airc|Datasets]]

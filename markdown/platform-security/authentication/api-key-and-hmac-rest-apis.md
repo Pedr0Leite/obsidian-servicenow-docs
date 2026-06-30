@@ -16,34 +16,25 @@ breadcrumb: [Token-based authentication, API Authentication, Authentication, Acc
 
 Support API tokens for REST API endpoints so that the ServiceNow® user name and password isn't visible in the webhook URL.
 
-Enable API key-based [[c_Authentication|authentication]] to securely authenticate inbound webhook URL.
+Enable API key-based authentication to securely authenticate inbound webhook URL.
 
 To use the API Key and HMAC Authentication, you must install the \(Plugin: `com.glide.tokenbased_auth`\) in the ServiceNow® instance.
 
-**Warning:** Use **POST** [[c_requestAPI|request]] when submitting any sensitive information to the server.
+**Warning:** Use **POST** request when submitting any sensitive information to the server.
 
 Installing API Key and HMAC Authentication has dependencies on the following plugins:
 
--   [[rest-api-auth-scope|REST API Auth Scope]] Plugin \(`com.glide.rest.auth.scope`\)
--   REST [[api-access-policy|API Access Policy]] Plugin \(`com.glide.rest.policy`\)
+-   REST API Auth Scope Plugin \(`com.glide.rest.auth.scope`\)
+-   REST API Access Policy Plugin \(`com.glide.rest.policy`\)
 -   Authentication scope \(`com.glide.auth.scope`\)
 
 ## Benefits
 
 API Key and HMAC Authentication for inbound REST APIs enables:
 
--   Ability to specify API key or HMAC token for REST [[api-authentication|API authentication]].
+-   Ability to specify API key or HMAC token for REST API authentication.
 -   Ability to associate a user account with the API key or HMAC token.
 -   Ability to specify a token as query parameter or header within the REST API call.
 -   Ability to associate authentication scope with API key or HMAC token configurations so that API keys can only be used to invoke APIs associated with a particular scopes.
--   Ability to associate an API key or HMAC token [[sc-configuration|configuration]] with an authentication profile that can be used in API access [[ca-policies|policies]].
+-   Ability to associate an API key or HMAC token configuration with an authentication profile that can be used in API access policies.
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[rest-api-auth-scope|REST API Auth Scope]]
-- [[api-access-policy|API access policy]]
-- [[api-authentication|API Authentication]]
-- [[sc-configuration|Configuration]]
-- [[ca-policies|Policies]]

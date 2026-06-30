@@ -14,7 +14,7 @@ breadcrumb: [Manage API data connections, API Insights, Configuration Management
 
 # View the status of API data connections in API Insights
 
-View the status of your API data connections using [[cmdb-sgc-available|Service Graph Connectors]], including success rates, processing status, and ongoing executions.
+View the status of your API data connections using Service Graph Connectors, including success rates, processing status, and ongoing executions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[api-insights|API Insights]]**.
+1.  Navigate to **Workspaces** &gt; **API Insights**.
 
 2.  In the Connections overview section of the Overview tab, access the various cards to gain insights on the performance of Service Graph Connectors.
 
@@ -44,7 +44,4 @@ Role required: sn\_cmdb\_admin and cmdb\_inst\_admin
     |Import schedules|Scheduled imports for the connection, including parent schedule, data source, timing and frequency of data retrieval.|
     |Errors|Error related to the connection.|
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[api-insights|API Insights]]

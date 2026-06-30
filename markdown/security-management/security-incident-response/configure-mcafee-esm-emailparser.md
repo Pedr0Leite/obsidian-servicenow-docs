@@ -14,7 +14,7 @@ breadcrumb: [McAfee ESM - Email Parser integration, Security Incident Response i
 
 # Configure McAfee ESM - Email Parser integration
 
-[[mcafee-esm-emailparser-integration|McAfee ESM - Email Parser integration]] uses [[tisc-email-notifications|email notifications]] from ESM to drive enrichment, and response workflows.
+McAfee ESM - Email Parser integration uses email notifications from ESM to drive enrichment, and response workflows.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A McAfee ESM email parser template is provided to use for the integration. It mu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
     The available security integrations appear as a series of cards.
 
@@ -36,7 +36,7 @@ A McAfee ESM email parser template is provided to use for the integration. It mu
 
 4.  Select the **McAfee ESM** link to edit the settings in the template email parser provided.
 
-    At a minimum, fill in the `Email is from` field. To create you own email parser, see [[parsing-emails|Create email parsers in Security Operations]].
+    At a minimum, fill in the `Email is from` field. To create you own email parser, see [Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md).
 
 5.  Check the **Active** box.
 
@@ -44,9 +44,4 @@ A McAfee ESM email parser template is provided to use for the integration. It mu
 
     The email parser is active. You do not need to return to **Integration Configurations**.
 
-## Related
 
-- [[parsing-emails|Create email parsers in Security Operations]]
-- [[mcafee-esm-emailparser-integration|McAfee ESM - Email Parser integration]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[security-operations-landing-page|Security Operations]]

@@ -20,7 +20,7 @@ Users with the password\_reset\_admin or password\_reset\_credential\_manager ro
 
 ## Credential store types installed with the base system
 
-A credential store type is a set of workflows that specify how to [[c_Connect|connect]] to a credential store. Navigate to **[[password-reset-landing-page|Password Reset]]** &gt; **Credential Store Types** to view the list of example credential stores that are based on the base-system types. The base system includes the following credential store types:
+A credential store type is a set of workflows that specify how to connect to a credential store. Navigate to **Password Reset** &gt; **Credential Store Types** to view the list of example credential stores that are based on the base-system types. The base system includes the following credential store types:
 
 |Name|Description|
 |----|-----------|
@@ -88,7 +88,7 @@ A credential store type is a set of workflows that specify how to connect to a c
 -   **[Credential Store for Password Reset for Microsoft Entra ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/credentials-store-micro-ad.md)**  
 A credential store type is the set of flows to manage password and account of Microsoft Entra ID user. Navigate to **Password Reset** &gt; **Credential Stores** to view the list of example credential stores that are based on the base-system types.
 -   **[Test the connection to a credential store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/test-cxn-to-credential-store.md)**  
-You should [[test-cxn-to-credential-store|test the connection to a credential store]] after you configure a new credential store or when users experience problems that might involve the connection.
+You should test the connection to a credential store after you configure a new credential store or when users experience problems that might involve the connection.
 -   **[Delete a connection to a credential store for Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/t_DeleteACredentialStore.md)**  
 Important: Before you delete the connection to a credential store, check all Password Reset processes to ensure that the credential store is not in use. If the credential store is being used by a process, update the process before deleting the credential store.
 
@@ -109,7 +109,7 @@ Important: Before you delete the connection to a credential store, check all Pas
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
@@ -117,9 +117,3 @@ Important: Before you delete the connection to a credential store, check all Pas
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[password-reset-landing-page|Password Reset]]
-- [[test-cxn-to-credential-store|Test the connection to a credential store]]
-- [[email|Email]]

@@ -14,18 +14,18 @@ breadcrumb: [Dynamic Translation, Translation and localization, Configure core f
 
 # Configuring Dynamic Translation
 
-Activate and configure [[dynamic-translation|Dynamic Translation]] to integrate with a third-party machine translation provider to enable live translation of user-generated content across the ServiceNow AI Platform.
+Activate and configure Dynamic Translation to integrate with a third-party machine translation provider to enable live translation of user-generated content across the ServiceNow AI Platform.
 
 ## Configuration overview
 
-[[activate-dynamic-translation|Activate dynamic translation]] and integrate with your preferred service provider.
+Activate dynamic translation and integrate with your preferred service provider.
 
 -   **[Activate Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-dynamic-translation.md)**  
 Activate the Dynamic Translation plugin \(com.glide.dynamic\_translation\) to enable all the required APIs.
 -   **[Request for domain separation in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/activate-domainsep-dyn-transl.md)**  
 Enable the support for the Dynamic Translation framework in domain-separated instances.
 -   **[Exclusion Framework in Dynamic Translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-exclusion-framework.md)**  
-Preserve text such as product names or technical terms during machine translation. With [[dyn-translation-exclusion-framework|Exclusion Framework in Dynamic Translation]], you can specify words and patterns that should not be translated.
+Preserve text such as product names or technical terms during machine translation. With Exclusion Framework in Dynamic Translation, you can specify words and patterns that should not be translated.
 
 **Parent Topic:**[ServiceNow AI Platform translation and localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/translation-and-localization.md)
 
@@ -36,8 +36,3 @@ Preserve text such as product names or technical terms during machine translatio
 
 [Reference for Dynamic Translation]()
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[activate-dynamic-translation|Activate Dynamic Translation]]
-- [[dyn-translation-exclusion-framework|Exclusion Framework in Dynamic Translation]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure Virtual Agent for a mobile application, Configure, Virtua
 
 # Now Mobile notification of unread chat and Virtual Agent messages
 
-When Now® Mobile app users navigate away from the app after starting an active conversation, they can automatically receive [[virtual-agent-landing-page|Virtual Agent]] mobile push notifications informing them of new, unread chat messages and  Virtual Agent notifications that have arrived.
+When Now® Mobile app users navigate away from the app after starting an active conversation, they can automatically receive Virtual Agent mobile push notifications informing them of new, unread chat messages and  Virtual Agent notifications that have arrived.
 
 Now Mobile users might need to leave an active conversation for various reasons. They could be waiting for an available agent and decide to handle other tasks instead. Or, they could be engaged in a long-running \(asynchronous\) conversation and do not need to be online concurrently with an agent. Now Mobile users can check Virtual Agent push notifications to get timely information about their current conversations when they’re away from the app. These push notifications enable them to stay engaged with live and virtual agents and avoid unnecessary conversation closures \(timeouts\).
 
@@ -55,6 +55,3 @@ The content of Virtual Agent push notification messages sent to Now Mobile users
 
 **Parent Topic:**[Configure Virtual Agent for a ServiceNow mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-mobile-web-client.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

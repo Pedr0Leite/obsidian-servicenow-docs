@@ -15,7 +15,7 @@ breadcrumb: [Scheduled jobs to fetch primary data, Source-to-Pay integration fra
 
 # Run scheduled jobs
 
-Run adhoc scheduled jobs to fetch entity primary data from the target [[erp-source|ERP source]].
+Run adhoc scheduled jobs to fetch entity primary data from the target ERP source.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Executes on-demand scheduled jobs on true entities of an ERP source target and f
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
 2.  Select the ERP source for which you would like to run scheduled jobs.
 
@@ -37,7 +37,4 @@ Executes on-demand scheduled jobs on true entities of an ERP source target and f
 
     Entity inbound tables are populated with primary data.
 
-## Related
 
-- [[erp-source|ERP source]]
-- [[erp-source-configuration|ERP source configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [Connect, ServiceNow AI Platform Additional Capabilities, Extend Ser
 
 # Supported browsers for Connect Chat
 
-The system supports [[c_Collaboration|Connect Chat]] on most modern browsers.
+The system supports Connect Chat on most modern browsers.
 
 **Important:**
 
@@ -25,6 +25,3 @@ Core UI is required to use Connect Chat. Connect Chat is not supported in Next E
 -   Safari version 9.1 and later
 -   Microsoft Edge version 90
 
-## Related
-
-- [[c_Collaboration|Connect Chat]]

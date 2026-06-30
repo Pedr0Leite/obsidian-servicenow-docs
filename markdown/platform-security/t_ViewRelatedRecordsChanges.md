@@ -18,8 +18,8 @@ On the time line of changes for a CI record, you can also view a timeline of cha
 
 Role required: admin
 
--   Target table: the CI record must be in the [[sc-configuration|Configuration]] Item \[cmdb\_ci\] table or a descendant of this table.
--   [[c_AuditedTables|Auditing]]: must be enabled for the table containing the CI.
+-   Target table: the CI record must be in the Configuration Item \[cmdb\_ci\] table or a descendant of this table.
+-   Auditing: must be enabled for the table containing the CI.
 
 ## Procedure
 
@@ -38,7 +38,3 @@ The timeline of changes to the CI's related records is displayed right above the
 
 Hover over a change bubble on the related records timeline to display details about the change, such as date and number of changed properties. As you change the time interval in focus, or zoom in or out, it affects both the CI timeline and the related records timeline simultaneously.
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]

@@ -15,7 +15,7 @@ breadcrumb: [Explore, Demand Management, Project Portfolio Management, Strategic
 
 # Now Assist skills for Demand Management
 
-[[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]] provides AI-powered skills for demand records that help you quickly understand demand details and identify related records. These skills improve planning efficiency and support informed decision-making.
+Now Assist for Strategic Portfolio Management \(SPM\) provides AI-powered skills for demand records that help you quickly understand demand details and identify related records. These skills improve planning efficiency and support informed decision-making.
 
 ## Similar record identification
 
@@ -42,6 +42,3 @@ For more information on, see [Summarize demands with demand summarization skill]
 
 [Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/now-assist-spm.md)
 
-## Related
-
-- [[now-assist-spm|Now Assist for Strategic Portfolio Management \(SPM\)]]

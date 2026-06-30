@@ -14,17 +14,17 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Close an enterprise asset reclamation request
 
-[[close-asset-reclamation-request|Close an asset reclamation request]] to efficiently reclaim enterprise assets when an employee leaves an organization or moves to a different role.
+Close an asset reclamation request to efficiently reclaim enterprise assets when an employee leaves an organization or moves to a different role.
 
 ## Before you begin
 
-For each reclaimed asset, an [[enterprise-asset-reclamation|Enterprise Asset Reclamation]] Line is created. You must close all the tasks of a Enterprise Asset Reclamation Line to close the Enterprise Asset Reclamation Line. Once all Enterprise Asset Reclamation Lines are closed, the [[reclaim-asset|Asset Reclamation]] Request is closed.
+For each reclaimed asset, an Enterprise Asset Reclamation Line is created. You must close all the tasks of a Enterprise Asset Reclamation Line to close the Enterprise Asset Reclamation Line. Once all Enterprise Asset Reclamation Lines are closed, the Asset Reclamation Request is closed.
 
 Role required: sn\_eam.enterptrise\_asset\_manager or sn\_eam.enterptrise\_asset\_technician
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory** &gt; **Reclamation requests**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Inventory** &gt; **Reclamation requests**.
 
 2.  In the Asset reclamation requests page, open the request that you want to fulfill and select the Enterprise Asset Reclamation Lines related list.
 
@@ -55,7 +55,7 @@ Role required: sn\_eam.enterptrise\_asset\_manager or sn\_eam.enterptrise\_asset
 
     The **Stage** field of the Enterprise Asset Reclamation Line form changes from **Ready** to **Pending received**.
 
-    A [[receive-rma-asset|Receive asset]] task is created in the Enterprise Asset Reclamation Line.
+    A Receive asset task is created in the Enterprise Asset Reclamation Line.
 
 6.  Open the Receive asset task.
 
@@ -148,10 +148,3 @@ Any additional information that you want to mention.
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[close-asset-reclamation-request|Close an asset reclamation request]]
-- [[enterprise-asset-reclamation|Enterprise asset reclamation]]
-- [[reclaim-asset|Asset reclamation]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[receive-rma-asset|Receive asset]]

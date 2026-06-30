@@ -14,18 +14,18 @@ breadcrumb: [Virtual Agent reference, Virtual Agent, Conversational Interfaces]
 
 # Assistant Designer interface reference
 
-The [[assistant-designer|Assistant Designer]] interface lets you create, modify, test, publish, and localize topics, topic blocks, and custom controls.
+The Assistant Designer interface lets you create, modify, test, publish, and localize topics, topic blocks, and custom controls.
 
 Assistant Designer provides the following views. Some tabs may not be available, depending on how you configured your instance or the type of topic you are working with.
 
 -   **[Assistant Designer Asset library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-topics-page.md)**  
-The [[vad-topics-page|Assistant Designer Asset library]] page lists all LLM assets and NLU/Keyword topics in [[virtual-agent-landing-page|Virtual Agent]] Designer. You can also create more topics, subflows, actions, custom skills, AI agents, and agentic workflows.
+The Assistant Designer Asset library page lists all LLM assets and NLU/Keyword topics in Virtual Agent Designer. You can also create more topics, subflows, actions, custom skills, AI agents, and agentic workflows.
 -   **[Virtual Agent Designer legacy Topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md)**  
 The Virtual Agent Designer legacy home page lists cards for available topics in your instance.
 -   **[Virtual Agent Designer All pre-built topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-additional-topics-list.md)**  
 When you install pre-built conversations, such as ITSM Virtual Agent, some topics may not appear on the home page unless you install their dependent plugins. This page shows the additional topics that are available.
 -   **[Create a topic form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-topic-creation-form.md)**  
-The [[vad-topic-creation-form|Create a topic form]] is used to set the properties for a new conversational topic for Virtual Agent.
+The Create a topic form is used to set the properties for a new conversational topic for Virtual Agent.
 -   **[Topic Properties tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-topic-properties-tab.md)**  
 Use the **Topic Properties** tab to identify a topic and how it's used. You can control who uses the topic and what channels it can run in.
 -   **[Topic Flow tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-topic-flow-tab.md)**  
@@ -45,9 +45,3 @@ You can control interactions within a topic by using utilities in Assistant Desi
 
 **Parent Topic:**[Virtual Agent reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-parent-reference.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[vad-topic-creation-form|Create a topic form]]

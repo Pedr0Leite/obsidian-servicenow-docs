@@ -14,9 +14,9 @@ breadcrumb: [Explore credentials, connections, and aliases, Connections and Cred
 
 # Connection &amp; Credential configuration templates
 
-Enable [[users|users]] with the admin and flow\_designer roles to set up spoke integrations with third-party systems using a single, customizable form.
+Enable users with the admin and flow\_designer roles to set up spoke integrations with third-party systems using a single, customizable form.
 
-For example, you can set up an [[oauth-inbound-and-outbound|OAuth]] integration, which registers an OAuth provider, generates a token, and creates connection and credential records. An action designer or developer can use a [[sc-configuration|configuration]] template to set up the spoke in one place and the system creates the associated records.
+For example, you can set up an OAuth integration, which registers an OAuth provider, generates a token, and creates connection and credential records. An action designer or developer can use a configuration template to set up the spoke in one place and the system creates the associated records.
 
 ## Benefits
 
@@ -31,9 +31,9 @@ You can create configuration templates for integrations with these credential ty
 
 -   Basic auth
 -   API key
--   OAuth [[jwt-bearer|JWT Bearer]] grant type
--   OAuth [[authorization-code-grant|Authorization Code grant]] type
--   Custom [[c_Authentication|authentication]]
+-   OAuth JWT Bearer grant type
+-   OAuth Authorization Code grant type
+-   Custom authentication
 
 ## Configuration template components
 
@@ -69,11 +69,3 @@ Create a template that defines the inputs required to set up a spoke. Set static
 
 **Parent Topic:**[Explore credentials, connections, and aliases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/credentials-connections-alias.md)
 
-## Related
-
-- [[users|Users]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[sc-configuration|Configuration]]
-- [[jwt-bearer|JWT Bearer]]
-- [[authorization-code-grant|Authorization code grant]]
-- [[c_Authentication|Authentication]]

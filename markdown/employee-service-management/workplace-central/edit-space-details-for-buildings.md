@@ -22,7 +22,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **[[space-optimization|Space Optimization]]** &gt; **All Buildings**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Space Optimization** &gt; **All Buildings**.
 
 2.  Select **View All** and select a building from the list of buildings.
 
@@ -178,7 +178,3 @@ Select **Remove allocation** from the drop-down list to remove the selected spac
 
 [Move employees on a floor or to a different floor using the map]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[space-optimization|Space Optimization]]

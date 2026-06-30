@@ -30,7 +30,7 @@ Save time in resolving the current alert by reviewing how similar alerts were re
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Alerts**.
 
 2.  In the list of alerts, click the alert record that you want to investigate.
 
@@ -38,7 +38,7 @@ Save time in resolving the current alert by reviewing how similar alerts were re
 
     Alerts that are similar to the alert that is being investigated are listed.
 
-    \[Omitted image "alert-similar-list.png"\] Alt text: [[alert-similarity|Alert similarity]]
+    \[Omitted image "alert-similar-list.png"\] Alt text: Alert similarity
 
     By default, up to 10 similar alerts are listed. You can modify this value by setting the `evt_mgmt.similarity_max_similar_alerts_shown` property.
 
@@ -53,7 +53,3 @@ Save time in resolving the current alert by reviewing how similar alerts were re
 
 **Parent Topic:**[Alert similarity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-similarity.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-similarity|Alert similarity]]

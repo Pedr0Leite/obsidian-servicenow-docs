@@ -51,11 +51,7 @@ Role required: sam\_integrator
 
 Reclamation rules and stale user reclamation candidates are created automatically after the integration is connected. User subscriptions and reclamation candidates are refreshed daily.
 
-It's important that you review all automatically generated reclamation rules to ensure that they meet your specifications for [[reclaiming-user-subscriptions-saas|reclaiming user subscriptions]]. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
+It's important that you review all automatically generated reclamation rules to ensure that they meet your specifications for reclaiming user subscriptions. For more information, see [Review a software reclamation rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/add-reclamation-rule-sub.md).
 
-Create software entitlements for the automatically generated [[c_CreatingSoftwareModels|software models]] to track software used against software owned. For more information, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/track-software-rights.md).
+Create software entitlements for the automatically generated software models to track software used against software owned. For more information, see [Create entitlements in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/track-software-rights.md).
 
-## Related
-
-- [[reclaiming-user-subscriptions-saas|Reclaiming user subscriptions]]
-- [[c_CreatingSoftwareModels|Software models]]

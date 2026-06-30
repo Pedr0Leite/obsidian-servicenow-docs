@@ -200,7 +200,7 @@ cloud.rb
 </td></tr></tbody>
 </table>**Note:**
 
-running\_processes.rb and tcp\_connections.rb are interdependent. For an efficient [[r-discovery|Discovery]], keep both tcp\_connections.rb and running\_processes.rb together. Both the files are needed to get the complete data. If one is not there, it will not populate the other data.
+running\_processes.rb and tcp\_connections.rb are interdependent. For an efficient Discovery, keep both tcp\_connections.rb and running\_processes.rb together. Both the files are needed to get the complete data. If one is not there, it will not populate the other data.
 
 To fetch information about all the running\_processes on the macOS, you must provide sudo access to osquery. If this configuration is not made, then running\_processes.rb will only fetch what is triggered by \_servicenow user. For tcp\_connections.rb, you must add ‘sudo lsof’ command in the sudoers file. If this is not done, tcp\_connections.rb will only fetch what is triggered by \_servicenow user.
 
@@ -224,7 +224,7 @@ ACC-VC uses the same classification criteria as IP-based Discovery for classifyi
 
 ## Agent Client Collector terms
 
--   **[[acc-landing-page|Agent Client Collector]] \(ACC\)**
+-   **Agent Client Collector \(ACC\)**
 
     The software component installed on target hosts that communicates with the MID Server. Sometimes referred to as Agent. This component is a ServiceNow derivative of Sensu-Go.
 
@@ -232,7 +232,7 @@ ACC-VC uses the same classification criteria as IP-based Discovery for classifyi
 
     A ServiceNow base scoped application that leverages ACC and provides core capabilities \(including Check Types, Check Definitions, Policies, and so on\) enabling other ACC scoped applications, including ACC-M and ACC-VC.
 
--   **[[acc-monitoring-landing-page|Agent Client Collector Monitoring]] Monitoring \(ACC-M\)**
+-   **Agent Client Collector Monitoring Monitoring \(ACC-M\)**
 
     A ServiceNow scoped application enabling monitoring use cases.
 
@@ -266,34 +266,23 @@ ACC-VC uses the same classification criteria as IP-based Discovery for classifyi
 
 
 -   **[Agent Client Collector for Visibility - Content default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-visibility-checks-policies.md)**  
-Agent Client Collector for Visibility - Content \(ACC-VC\) provides various [[checks-policies|checks and policies]] as well as a business rule.
+Agent Client Collector for Visibility - Content \(ACC-VC\) provides various checks and policies as well as a business rule.
 -   **[Agent Client Collector MID-less installation command parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-ics-command-params.md)**  
-Description of the command line parameters used during MID-less [[acc-installation|Agent Client Collector installation]].
+Description of the command line parameters used during MID-less Agent Client Collector installation.
 -   **[Data collected during Agent Client Collector for Visibility - Content File-Based Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/data-collected-file-based-discovery.md)**  
-The following tables describe the [[data-collected-file-based-discovery|data collected during Agent Client Collector for Visibility - Content file-based Discovery]].
+The following tables describe the data collected during Agent Client Collector for Visibility - Content file-based Discovery.
 -   **[Software edition configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/software-edition-configuration.md)**  
-Description of the [[software-edition-configuration|software edition configuration fields]] in use when identifying the edition of Windows software.
+Description of the software edition configuration fields in use when identifying the edition of Windows software.
 -   **[Agent Client Collector File-Based Discovery properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/file-based-discovery-configuration-properties.md)**  
-Configure [[file-based-discovery|File-Based Discovery]] behavior using system properties that control scanning paths, performance throttling, and file filtering options.
+Configure File-Based Discovery behavior using system properties that control scanning paths, performance throttling, and file filtering options.
 -   **[Web usage data collection tables and fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/web-usage-collection-tables.md)**  
 Description of the tables and their fields used when gathering web usage data from your Windows and macOS machines.
 -   **[Archive file scanning filtering rules and limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/archive-file-scanning-reference.md)**  
 Reference information for the filtering rules and performance safeguards that apply when Agent Client Collector for Visibility - Content scans ZIP and JAR archive files during File-Based Discovery.
 -   **[License key discovery and access control tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/license-key-discovery-reference.md)**  
-Reference information for the tables, fields, access control, and scheduled job used by [[license-key-discovery|license key discovery]] in Agent Client Collector for Visibility - Content.
+Reference information for the tables, fields, access control, and scheduled job used by license key discovery in Agent Client Collector for Visibility - Content.
 -   **[Running process-based discovery platform coverage and properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/running-process-based-discovery-platform-coverage-properties.md)**  
 Platform coverage identifies which operating systems are supported and what privileges the agent needs for full coverage. The system property controls whether the feature is enabled or disabled.
 
 **Parent Topic:**[Agent Client Collector reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[acc-monitoring-landing-page|Agent Client Collector Monitoring]]
-- [[checks-policies|Checks and policies]]
-- [[acc-installation|Agent Client Collector installation]]
-- [[data-collected-file-based-discovery|Data collected during Agent Client Collector for Visibility - Content File-Based Discovery]]
-- [[software-edition-configuration|Software edition configuration fields]]
-- [[file-based-discovery|File-based Discovery]]
-- [[license-key-discovery|License key discovery]]

@@ -18,11 +18,11 @@ Resource plans are the key element in resource management.
 
 **Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged to work on resource assignments which offers more flexibility [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) [[using-rmw|using Resource Management Workspace]] or [[project-workspace-landing-page|Project Workspace]].
+You're encouraged to work on resource assignments which offers more flexibility [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Resource requesters, such as project managers, [create resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateResourcePlanProjectTask.md) to ask for resources, track effort, and track costs. Resource managers modify and approve resource plans before the plans are used.
 
-All resource plans for a task appear on the **Resource Plan** related list of the [[project-task-form|Project task form]], where resource requesters can access them.
+All resource plans for a task appear on the **Resource Plan** related list of the Project task form, where resource requesters can access them.
 
 Resource plans progress through several states.
 
@@ -78,7 +78,7 @@ Allocated
 
 </td><td>
 
-After the plan is confirmed, the resource manager can review the plans, view availability, change resource preferences and perform the [[r_AllocatingResources|resource allocation]]. The resource plan moves into the Allocated state. A resource manager can only cancel, complete, or modify it.
+After the plan is confirmed, the resource manager can review the plans, view availability, change resource preferences and perform the resource allocation. The resource plan moves into the Allocated state. A resource manager can only cancel, complete, or modify it.
 
  Soft allocations are converted to hard allocations when the resource plan moves to the Allocated state.
 
@@ -103,13 +103,13 @@ A plan can be canceled if the allocations are no longer required. This removes a
 </td></tr></tbody>
 </table>**Note:** When a resource requester wants to change a plan that was already submitted for review \(in Requested or Confirmed state but not yet allocated\), the requester can [request a change](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_RequestAChangeToAResourcePlan.md). The plan then moves back to the Planning state.
 
-Resource Management supports time zones, which are important in the [[c_MyCalendar|My Calendar]] and Resource Workbench modules.
+Resource Management supports time zones, which are important in the My Calendar and Resource Workbench modules.
 
 ## Modifications in Confirmed or Allocated state
 
 Only a resource manager can modify a resource plan in the Confirmed or Allocated state.
 
-The effects of modification in header area on a [[rsrc-plan-form|resource plan form]] in Confirmed state are:
+The effects of modification in header area on a resource plan form in Confirmed state are:
 
 -   All soft [allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/r_AllocatingResources.md) are deleted.
 -   Requested allocations are re-created with changed values.
@@ -158,13 +158,13 @@ If rate model is not available, the hourly rate for calculating the correspondin
 Projects and Demands can have multiple resource plans. The aggregated costs for all resources plans roll up to the **Planned Cost** and **Allocated Cost** fields and the **Resource Cost** section of both projects and demands.
 
 -   **[Create a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_CreateResourcePlanProjectTask.md)**  
-You can [[t_CreateResourcePlanProjectTask|create a resource plan]] from the Resource Management application for any task such as demand, project, project task, incident, problem, or change. You can edit and adjust the plan until you submit it for approval.
+You can create a resource plan from the Resource Management application for any task such as demand, project, project task, incident, problem, or change. You can edit and adjust the plan until you submit it for approval.
 -   **[Use Resource Finder to analyze resource availability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-resource-plan-with-finder.md)**  
 Search and analyze resource availability using the Resource Finder, so that you can create resource plans for a project or demand.
 -   **[Create an operational resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-operational-plan.md)**  
-[[create-operational-plan|Create an operational resource plan]] and allocate a certain portion of your team capacity for operational work, such as administration, meeting, or training.
+Create an operational resource plan and allocate a certain portion of your team capacity for operational work, such as administration, meeting, or training.
 -   **[Request resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_RequestResourcePlanApproval.md)**  
-After you create a resource plan, [[t_RequestResourcePlanApproval|request resources]] from the resource manager.
+After you create a resource plan, request resources from the resource manager.
 -   **[Confirm a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/confirm-resource-plan.md)**  
 As a resource manager, you can confirm or block the resources after a resource plan is requested. The resource plan must be in the Requested state to be confirmed.
 -   **[Confirm and allocate a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/confirm-allocate-resource-plan.md)**  
@@ -182,7 +182,7 @@ If a resource plan is no longer needed, you can cancel it which also cancels its
 -   **[Delete a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/t_DeleteAResourcePlan.md)**  
 Deleting a plan also deletes all associated resource allocations.
 -   **[Extend a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/extend-resource-plan.md)**  
-You can extend the date of an allocated resource plan and [[allocate-resources-for-extended-period|allocate resources for the extended period]].
+You can extend the date of an allocated resource plan and allocate resources for the extended period.
 -   **[Request extension of an allocated resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/request-extension-allocated-resource-plan.md)**  
 As a project manager, you can request the extension of an allocated resource plan.
 -   **[Allocate resources for the extended period](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/allocate-resources-for-extended-period.md)**  
@@ -196,15 +196,3 @@ If one resource is allocated to identically named tasks in two resource plans, u
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[using-rmw|Using Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[project-task-form|Project task form]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[c_MyCalendar|My Calendar]]
-- [[rsrc-plan-form|Resource Plan form]]
-- [[t_CreateResourcePlanProjectTask|Create a resource plan]]
-- [[create-operational-plan|Create an operational resource plan]]
-- [[t_RequestResourcePlanApproval|Request resources]]
-- [[allocate-resources-for-extended-period|Allocate resources for the extended period]]

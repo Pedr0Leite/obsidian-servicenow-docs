@@ -26,22 +26,17 @@ Field descriptions for viewing email records linked to CRM entities in the Stage
 |Deleted|Indicates whether the email has been marked as deleted.|
 |Target table|Database table of the linked CRM record, such as Lead \[sn\_lead\_mgmt\_core\_lead\].|
 |Reply to|Email address specified for replies if different from the sender.|
-|Recipients|Email addresses of all recipients, including the **To** and **CC** [[fields|fields]].|
+|Recipients|Email addresses of all recipients, including the **To** and **CC** fields.|
 |Subject|Subject line of the email.|
 |Headers|Any headers embedded in the email, such as routing details, authentication results, and server timestamps.|
 |Content type|The MIME \(Multipurpose Internet Mail Extension\) media type of the email content stored in this record. This value indicates how the email body should be interpreted and rendered by email clients, including the content format and character encoding. For example, `text/html; charset=utf-8`.|
 |Body|HTML-formatted content of the email.|
 |Body text|Plain text version of the email content.|
 
-**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
 **Related topics**  
 
 
-[[view-associated-emails-crm|Track emails linked from Microsoft Outlook]]
+[Track emails linked from Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-associated-emails-crm.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[view-associated-emails-crm|Track emails linked from Microsoft Outlook]]
-- [[fields|Fields]]

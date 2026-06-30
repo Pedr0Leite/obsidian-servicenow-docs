@@ -15,7 +15,7 @@ breadcrumb: [Managing indexed sources, Using AI Search Admin console, AI Search 
 
 # Define the semantic indexing configuration for an indexed source
 
-Define the semantic indexing configuration for your indexed sources so that [[ia-ai-search|AI Search]] can analyze and understand your content accurately. By doing this process, you can help to ensure that you get more relevant search [[hs-results|results]].
+Define the semantic indexing configuration for your indexed sources so that AI Search can analyze and understand your content accurately. By doing this process, you can help to ensure that you get more relevant search results.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ AI Search indexes content from the indexed source for use with a semantic vector
 
 1.  Navigate to **All** &gt; **AI Search Admin** &gt; **AI Search Admin Home**.
 
-2.  On the **Shared [[clone-configurations-tab|Configurations]]** tab, select the **Indexed Sources** table.
+2.  On the **Shared Configurations** tab, select the **Indexed Sources** table.
 
 3.  Select the indexed source that you want to configure the semantic indexing settings for.
 
@@ -66,8 +66,3 @@ After updating the semantic index configuration settings for an indexed source, 
 
 **Parent Topic:**[Managing indexed sources from the AI Search Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-managing-indexed-source.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]
-- [[clone-configurations-tab|Configurations]]

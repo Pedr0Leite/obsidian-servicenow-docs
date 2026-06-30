@@ -12,17 +12,17 @@ breadcrumb: [MAB categories home screen, Mobile App Builder, Building tools, Bui
 
 # Menu options in the categories home screen
 
-Familiarize yourself with the various menu options in the [[mab-concept|Mobile App Builder]] categories home page.
+Familiarize yourself with the various menu options in the Mobile App Builder categories home page.
 
 -   **Mobile app configs**
 
-    The Mobile app configs category is the configuration option for ServiceNow applications on iOS and Android mobile devices. Select an option to personalize the app theme, set user access permissions, and create a [[sg-mobile-tab-bar|navigation bar]]. You must select one configuration per app type. This category is based on the \[sys\_sg\_native\_client\] table.
+    The Mobile app configs category is the configuration option for ServiceNow applications on iOS and Android mobile devices. Select an option to personalize the app theme, set user access permissions, and create a navigation bar. You must select one configuration per app type. This category is based on the \[sys\_sg\_native\_client\] table.
 
     **Note:** You can open an existing Mobile Onboarding app configured from a previous release. However, you cannot create a new Mobile Onboarding app configuration.
 
 <table id="table_mdx_sqk_qqb"><tbody><tr><td>
 
-Select the **New** button \(\[Omitted image "mab-buttton-new-green-solid.png"\] Alt text: New button in categories home screen.\) to create a new mobile app configuration.Alternatively, select the name of a listed mobile app configuration to open the defined records for that configuration, in the [[mab-workspace|Mobile App Builder record screen]].
+Select the **New** button \(\[Omitted image "mab-buttton-new-green-solid.png"\] Alt text: New button in categories home screen.\) to create a new mobile app configuration.Alternatively, select the name of a listed mobile app configuration to open the defined records for that configuration, in the Mobile App Builder record screen.
 
 </td><td>
 
@@ -65,7 +65,7 @@ Select the **New** button \(\[Omitted image "mab-buttton-new-green-solid.png"\] 
 
 -   **Data**
 
-    [[sg-data-item|Data items]] provide the data presented in a screen. Select the table you want data from and define the conditions that must be met for the data to be displayed. This category is based on the \[sys\_sg\_data\_item\] table.
+    Data items provide the data presented in a screen. Select the table you want data from and define the conditions that must be met for the data to be displayed. This category is based on the \[sys\_sg\_data\_item\] table.
 
 <table id="table_r1k_nbr_qqb"><tbody><tr><td>
 
@@ -78,7 +78,7 @@ Select the **new** button \(\[Omitted image "mab-buttton-new-green-solid.png"\] 
 </td></tr></tbody>
 </table>-   **All mobile records**
 
-    Use the **All mobile records** category to quickly find records within specific tables without the need to drill down into multiple layers of the ServiceNow AI Platform configuration tree. For example, a filter record can be selected here instead of having to select a [[list-screen|list screen]] record and then drill down to the filter record.
+    Use the **All mobile records** category to quickly find records within specific tables without the need to drill down into multiple layers of the ServiceNow AI Platform configuration tree. For example, a filter record can be selected here instead of having to select a list screen record and then drill down to the filter record.
 
 <table id="table_pz3_xbr_qqb"><tbody><tr><td>
 
@@ -90,11 +90,3 @@ Use the **Record type** field to search and select the table you require. The re
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[mab-workspace|Mobile App Builder record screen]]
-- [[sg-data-item|Data items]]
-- [[list-screen|List screen]]

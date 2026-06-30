@@ -14,7 +14,7 @@ breadcrumb: [GRC use case accelerators, Common GRC features, Governance, Risk, a
 
 # Technology Controls Monitoring Accelerator
 
-The Technology Controls Monitoring Accelerator is a collection of pre-defined indicator templates designed to ease collection of data, and aid validation and continuous monitoring of technology controls. This application can be run with the [[cybersecurity-controls-accelerator|Cybersecurity Controls Accelerator]] or as a standalone application.
+The Technology Controls Monitoring Accelerator is a collection of pre-defined indicator templates designed to ease collection of data, and aid validation and continuous monitoring of technology controls. This application can be run with the Cybersecurity Controls Accelerator or as a standalone application.
 
 The indicator templates contained in the Technology Controls Monitoring Accelerator are linked to specific ServiceNow® applications to allow compliance validation for standards and frameworks such as:
 
@@ -42,7 +42,7 @@ When you download the GRC: Technology Controls Monitoring Accelerator applicatio
 -   **[View your operational status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/view-operational-status.md)**  
 View the Operational Status modules for a list of the CIS Controls and technology Controls. Each control also includes the technology used to validate compliance, type of indicator template available, and the control's source table.
 -   **[View the Cybersecurity Controls module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/view-cybersecurity-controls.md)**  
-[[view-cybersecurity-controls|View the Cybersecurity Controls module]] for a list of the Authority documents, Controls, Control Objectives, and CIS Indicator Templates mapped to specific CIS controls classified by domain, implementation group, and ISO controls.
+View the Cybersecurity Controls module for a list of the Authority documents, Controls, Control Objectives, and CIS Indicator Templates mapped to specific CIS controls classified by domain, implementation group, and ISO controls.
 -   **[Using indicator templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/using-indicator-templates.md)**  
 Indicators collect data to monitor a single control or risk. Indicator templates allow you to create multiple indicators for similar controls or risks. The Technology Controls Monitoring Accelerator application provides a collection of 171 predefined indicator templates for monitoring cybersecurity controls.
 -   **[Indicator templates for controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/indicator-templates-for-ctrls.md)**  
@@ -50,7 +50,3 @@ The Technology Controls Monitoring Accelerator includes 273 indicator templates 
 
 **Parent Topic:**[Governance, Risk, and Compliance use case accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-use-case-accelerators.md)
 
-## Related
-
-- [[cybersecurity-controls-accelerator|cybersecurity controls accelerator]]
-- [[view-cybersecurity-controls|View the Cybersecurity Controls module]]

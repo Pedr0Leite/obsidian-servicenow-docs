@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Agent Workspace integration with Universal Requ
 
 # Create an HR case from Universal Request in HR Service Delivery Agent Workspace
 
-[[search-hr-case|Create an HR case]] from a [[ur-landing-limitedaccess|universal request]] record to restore service to a customer as soon as possible. After creating the HR case record, you can investigate potential solutions.
+Create an HR case from a universal request record to restore service to a customer as soon as possible. After creating the HR case record, you can investigate potential solutions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: routing\_agent and sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **HR Agent Workspace**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **HR Agent Workspace**.
 
 2.  Navigate to **Universal Requests** &gt; **All**.
 
@@ -44,11 +44,6 @@ Role required: routing\_agent and sn\_hr\_core.case\_writer
 
 6.  Click **Submit**.
 
-    The HR case number appears in the **Primary Ticket** field on the [[new-ur-record-form|universal request form]], and the ticket is listed in the **Associated Tickets** related list. Also the universal request number from which the HR case is created appears in the **Universal Request** field on the HR case form.
+    The HR case number appears in the **Primary Ticket** field on the universal request form, and the ticket is listed in the **Associated Tickets** related list. Also the universal request number from which the HR case is created appears in the **Universal Request** field on the HR case form.
 
-## Related
 
-- [[search-hr-case|Create an HR case]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[case-management-workspace|Case management]]
-- [[new-ur-record-form|Universal Request form]]

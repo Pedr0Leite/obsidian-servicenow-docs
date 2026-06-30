@@ -14,7 +14,7 @@ breadcrumb: [Using Procurement Case Management, Use, Sourcing and Procurement Op
 
 # Create a procurement case
 
-As a procurement specialist, create a procurement case from the list view of [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to address your procurement-related business needs.
+As a procurement specialist, create a procurement case from the list view of Source-to-Pay Workspace to address your procurement-related business needs.
 
 \[Omitted video\] Description: Describes the procedure for creating a procurement case from the Procurement workspace.
 
@@ -24,7 +24,7 @@ Role required: sn\_shop.procurement\_specialist
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  On the list page, navigate to **All work** &gt; **Cases**.
 
@@ -147,7 +147,7 @@ Summary Details
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]]
+Supplier
 
 </td><td>
 
@@ -159,7 +159,7 @@ Related PO
 
 </td><td>
 
-[[purchase-order-table|Purchase order]] associated with the case.
+Purchase order associated with the case.
 
 </td></tr><tr><td>
 
@@ -167,7 +167,7 @@ Related PR
 
 </td><td>
 
-[[purchase-requisition|Purchase requisition]] associated with the case.
+Purchase requisition associated with the case.
 
 </td></tr><tr><td>
 
@@ -175,7 +175,7 @@ Related SR
 
 </td><td>
 
-[[sourcing-request|Sourcing request]] associated with the case.
+Sourcing request associated with the case.
 
 </td></tr><tr><td>
 
@@ -276,11 +276,3 @@ Reason why the case was created.
 
 [Base system procurement case type reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/base-system-procurement-case-types.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[psd-overview|Procurement Case Management]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-requisition|Purchase requisition]]
-- [[sourcing-request|Sourcing request]]

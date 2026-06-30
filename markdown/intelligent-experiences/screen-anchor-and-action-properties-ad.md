@@ -61,7 +61,7 @@ Learn about the properties of screens, anchors, and steps. There are multiple ty
 
     |Property|Description|
     |--------|-----------|
-    |Use parameter|Option to supply the value from a Desktop action parameter record mapped in [[ai-agent-studio|AI Agent Studio]]. When selected, the Static value field is not used.|
+    |Use parameter|Option to supply the value from a Desktop action parameter record mapped in AI Agent Studio. When selected, the Static value field is not used.|
     |Static value|The text to enter in the field when Use parameter is not selected.|
 
 -   **Mouse Click**
@@ -110,6 +110,4 @@ Type of mouse click action to set for this step:-   Left click
     |Width|Width of the area in image to recognize and get the text.|
     |Height|Height of the area in image to recognize and get the text.|
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]

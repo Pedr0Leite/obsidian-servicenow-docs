@@ -12,7 +12,7 @@ breadcrumb: [Order Management integration with Strategic Portfolio Management, I
 
 # Configuring the Strategic Portfolio Management integration
 
-Configure the Strategic Portfolio Management integration so that order delivery tasks in [[explore-order-management|Order Management]] can be tracked as planned project tasks in SPM.
+Configure the Strategic Portfolio Management integration so that order delivery tasks in Order Management can be tracked as planned project tasks in SPM.
 
 As an admin, follow these tasks to set up the SPM integration.
 
@@ -36,7 +36,7 @@ Install the PPM Standard \(com.snc.financial\_planning\_pmo\) plugin. If you're 
 
 </td></tr><tr><td>
 
-[[creating-project-templates-orders|Create project templates and project template tasks]]
+[Create project templates and project template tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating-project-templates-orders.md)
 
 </td><td>
 
@@ -44,23 +44,23 @@ Use the Project Portfolio Management application to create the project templates
 
 </td></tr><tr><td>
 
-[[configure-project-table-mapping|Configure field mapping between orders and projects]]
+[Configure field mapping between orders and projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-project-table-mapping.md)
 
 </td><td>
 
-Configure the CSM table maps to associate [[fields|fields]] in order lines, domain orders, and order tasks to projects and programs in SPM.
+Configure the CSM table maps to associate fields in order lines, domain orders, and order tasks to projects and programs in SPM.
 
 </td></tr><tr><td>
 
-[[setting-up-project-oversight|Set up project oversight conditions and decision rules]]
+[Set up project oversight conditions and decision rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/setting-up-project-oversight.md)
 
 </td><td>
 
-Configure the conditions and decision [[rules_101|rules]] for determining the order lines, domain orders, and order tasks that qualify for project management and order tasks that qualify for project management oversight. You also specify the project templates to be used to create those projects.
+Configure the conditions and decision rules for determining the order lines, domain orders, and order tasks that qualify for project management and order tasks that qualify for project management oversight. You also specify the project templates to be used to create those projects.
 
 </td></tr><tr><td>
 
-[[control-auto-closure-proj-tasks|Control the automatic closure of project tasks]]
+[Control the automatic closure of project tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/control-auto-closure-proj-tasks.md)
 
 </td><td>
 
@@ -68,13 +68,3 @@ Manage the automatic closure of project tasks when related child tasks are compl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[creating-project-templates-orders|Creating project templates and project template tasks]]
-- [[configure-project-table-mapping|Configure field mappings]]
-- [[setting-up-project-oversight|Setting up project oversight conditions and decision rules]]
-- [[control-auto-closure-proj-tasks|Control automatic closure of project tasks]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

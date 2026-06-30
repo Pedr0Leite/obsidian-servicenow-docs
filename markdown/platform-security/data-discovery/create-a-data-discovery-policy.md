@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery policies, Exploring Data Discovery \(Classic\), Data
 
 # Create a Data Discovery policy
 
-Create a Data Discovery Policy for granular control over your [[data-discovery-jobs|Data Discovery jobs]].
+Create a Data Discovery Policy for granular control over your Data Discovery jobs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin, sn\_data\_discovery\_admin, data\_privacy\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[data-discovery-landing|Data Discovery]] \(Classic\)** &gt; **[[data-discovery-policies|Data Discovery Policies]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Data Discovery \(Classic\)** &gt; **Data Discovery Policies**.
 
 2.  Select the **New** button.
 
@@ -84,8 +84,3 @@ The data pattern the policy will use.
 
 Select the policy when creating a [Data Discovery jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/data-discovery-jobs.md).
 
-## Related
-
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[data-discovery-landing|Data Discovery]]
-- [[data-discovery-policies|Data Discovery policies]]

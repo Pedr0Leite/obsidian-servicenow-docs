@@ -24,7 +24,7 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[exam-engine|Career Assessment]]** &gt; **Exams** &gt; **Exam Instances**.
+1.  Navigate to **All** &gt; **Career Assessment** &gt; **Exams** &gt; **Exam Instances**.
 
     The following modules are available based on the state of the instances.
 
@@ -40,7 +40,7 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 
 -   **[View number of exam instance attempts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/view-exam-attempts.md)**  
-[[view-exam-attempts|View number of exam instance attempts]] by a user.
+View number of exam instance attempts by a user.
 
 **Parent Topic:**[Using Career Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-exam-engine.md)
 
@@ -51,10 +51,5 @@ Only a user with the sn\_exam.catalog\_admin role who is configured as part of t
 
 [Create an exam]()
 
-[Add exams to a [[exploring-learning-exp|learning]] path from Career Assessment]()
+[Add exams to a learning path from Career Assessment]()
 
-## Related
-
-- [[exam-engine|Career Assessment]]
-- [[view-exam-attempts|View number of exam instance attempts]]
-- [[exploring-learning-exp|Learning]]

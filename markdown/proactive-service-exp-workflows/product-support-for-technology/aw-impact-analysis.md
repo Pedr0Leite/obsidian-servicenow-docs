@@ -24,7 +24,7 @@ Role required: sn\_ind\_tsm\_sdwan.PSEW\_USER
 
 ## About this task
 
-After a workflow in [[psew-landing-page|Proactive Service Experience Workflows]] triggers, you can identify the customers and systems that are affected by the network issue. You can then either automatically create the individual cases for the impacted customers or create a major case and child cases for a larger number of affected customers.
+After a workflow in Proactive Service Experience Workflows triggers, you can identify the customers and systems that are affected by the network issue. You can then either automatically create the individual cases for the impacted customers or create a major case and child cases for a larger number of affected customers.
 
 ## Procedure
 
@@ -86,6 +86,3 @@ When the incident is resolved, it triggers the auto-closure of related cases.
 
 **Parent Topic:**[About identifying affected accounts with Proactive Service Experience Workflows in Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/psew-identify-act-incident.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

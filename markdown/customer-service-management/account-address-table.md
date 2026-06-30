@@ -18,7 +18,7 @@ The Account Address \[account\_address\_relationship\] table maintains the relat
 
 The Account Address table eliminates the need to duplicate address records that must be reused across multiple accounts. The Account Address table provides details like the name and the location of the account. The table also provides information on the type of account address, and whether the account is primary or not.
 
-The Account Address table is available for use when the [[csm-enable-enhanced-address-data-model|Enhanced address data model for accounts]] feature is enabled. For more information on enabling the feature and configuring the Account Address table, see [[enable-enhanced-address-model|Enable enhanced address model for accounts]]. When address sharing is enabled, Account address related list is visible on the account and location [[migration-forms|forms]].
+The Account Address table is available for use when the Enhanced address data model for accounts feature is enabled. For more information on enabling the feature and configuring the Account Address table, see [Enable enhanced address model for accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-enhanced-address-model.md). When address sharing is enabled, Account address related list is visible on the account and location forms.
 
 If you have any one of the sn\_crm\_account\_data\_manager, sn\_crm\_account\_relationship\_data\_manager, sn\_crm\_foundation\_data\_manager, and sn\_crm\_foundation\_admin, roles, you can create, update, view and delete account address records. If you have the sn\_crm\_account\_viewer, sn\_crm\_account\_relationship\_viewer, or sn\_crm\_foundation\_data\_viewer role, you can view the account address records.
 
@@ -36,11 +36,5 @@ If you have any one of the sn\_crm\_account\_data\_manager, sn\_crm\_account\_re
 
 [Enable enhanced address model for accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/enable-enhanced-address-model.md)
 
-[[associate-address-account|Associate an address to an account]]
+[Associate an address to an account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/associate-address-account.md)
 
-## Related
-
-- [[enable-enhanced-address-model|Enable enhanced address model for accounts]]
-- [[associate-address-account|Associate an address to an account]]
-- [[csm-enable-enhanced-address-data-model|Enhanced address data model for accounts]]
-- [[migration-forms|Forms]]

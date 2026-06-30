@@ -14,7 +14,7 @@ breadcrumb: [Setting up primary data Shopping, Configure, Sourcing and Procureme
 
 # Configure delegate for a shopper
 
-Configure your employees as delegates to shop on behalf of someone else. For these employees, the **Shopping as** option is available on the [[shopping-hub-overview|Shopping Hub]] homepage to shop as a delegate.
+Configure your employees as delegates to shop on behalf of someone else. For these employees, the **Shopping as** option is available on the Shopping Hub homepage to shop as a delegate.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 \[Omitted video\] Description: Shows how to configure a delegate for a shopper.
 
-When shopping as a delegate, the user can see the previous purchases and top [[supplier|supplier]] preferences of the delegate. The user can place orders and request [[pricing|pricing]] for the catalog and non-catalog items on Shopping Hub on the behalf of the delegate.
+When shopping as a delegate, the user can see the previous purchases and top supplier preferences of the delegate. The user can place orders and request pricing for the catalog and non-catalog items on Shopping Hub on the behalf of the delegate.
 
 For example, if Jo Sparks is shopping on behalf of a business owner Alan Edwards, Jo selects Alan Edwards from the **Shopping as** option. The scope of products available for purchase on Shopping Hub is then based on Alan Edwards' permissions and not Jo's. For all purchases that Jo submits on behalf of Alan, Alan Edwards is listed in the **Business Owner** field and Jo is listed in the **Submitted by** field.
 
@@ -94,7 +94,7 @@ Approvals
 
 </td><td>
 
-Indicates if the user can have the delegate authority for approvals.Configure an approval rule for a delegate to ensure that the business owner has better visibility into the request before approval. For more information, see [[config-approval-delegate|Configure approval rule for a delegate]].
+Indicates if the user can have the delegate authority for approvals.Configure an approval rule for a delegate to ensure that the business owner has better visibility into the request before approval. For more information, see [Configure approval rule for a delegate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/config-approval-delegate.md).
 
 </td></tr><tr><td>
 
@@ -127,9 +127,3 @@ Configure an approval rule for a delegate to ensure that the business owner has 
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[config-approval-delegate|Configure approval rule for a delegate]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[pricing|Pricing]]

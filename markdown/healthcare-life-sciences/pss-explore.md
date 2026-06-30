@@ -12,7 +12,7 @@ breadcrumb: [Patient Support Services, Healthcare and Life Sciences Service Mana
 
 # Exploring Patient Support Services
 
-Whether you're starting or expanding your implementation of the [[pss-app|Patient Support Services]] application, consider learning more about features available to streamline the onboarding, education, and engagement processes for your patients.
+Whether you're starting or expanding your implementation of the Patient Support Services application, consider learning more about features available to streamline the onboarding, education, and engagement processes for your patients.
 
 ## Patient Support Services overview
 
@@ -28,7 +28,7 @@ For healthcare organizations, overcome the hurdles faced by patients when starti
 
 For care coordinators, the Patient Support Services playbook provides a guided experience to review enrollment requests. They can verify the patient information, review enrollment details, identify and assign the required consent tasks and forms, and send the appropriate documentation to the patient’s insurance organization for pre-authorization.
 
-The Patient Support Services application uses the data model provided by the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application. The enrollment requests are submitted as enrollment cases and assigned to patient service agents acting as care coordinators who can then use a guided playbook within their Workspace for fulfilling tasks within the patient support program and closing an enrollment case.
+The Patient Support Services application uses the data model provided by the Healthcare and Life Sciences Service Management Core application. The enrollment requests are submitted as enrollment cases and assigned to patient service agents acting as care coordinators who can then use a guided playbook within their Workspace for fulfilling tasks within the patient support program and closing an enrollment case.
 
 ## Patient Support Services workflow
 
@@ -64,7 +64,7 @@ Manage enrollment requests and complete to-do items, such as training tasks.
 
 </td><td>
 
-[[pss-using-workspace|Manage enrollment requests in Workspace]]
+[Manage enrollment requests in Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-using-workspace.md)
 
 </td><td>
 
@@ -76,7 +76,7 @@ Book appointments for support programs and complete to-do items assigned to you 
 
 </td><td>
 
-[[pss-complete-to-do|Complete to-do items for Patient Support Services]]
+[Complete to-do items for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-complete-to-do.md)
 
 </td><td>
 
@@ -88,20 +88,12 @@ Book appointments for enrollment training requests.
 
 </td><td>
 
-[[pss-booking-appt-patient|Booking appointments for Patient Support Services]]
+[Booking appointments for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-booking-appt-patient.md)
 
 </td><td>
 
 Care Coordinator
 
 </td></tr></tbody>
-</table>To get started with the Patient Support Services application, see [[pss-config-app|Configuring Patient Support Services]].
+</table>To get started with the Patient Support Services application, see [Configuring Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-config-app.md).
 
-## Related
-
-- [[pss-using-workspace|Manage enrollment requests in Workspace]]
-- [[pss-complete-to-do|Complete to-do items for Patient Support Services]]
-- [[pss-booking-appt-patient|Booking appointments for Patient Support Services]]
-- [[pss-config-app|Configuring Patient Support Services]]
-- [[pss-app|Patient Support Services]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

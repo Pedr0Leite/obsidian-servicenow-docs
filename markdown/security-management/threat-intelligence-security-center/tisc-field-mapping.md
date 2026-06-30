@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Feeds, Integrate, Threat Intelligence Security 
 
 # Configure Custom Field Mapping
 
-Field [[mapping-logrhythm|Mapping]] allows you to configure how each field in a data feed such as Text, CSV or JSON is interpreted and assigned to the corresponding observable.
+Field Mapping allows you to configure how each field in a data feed such as Text, CSV or JSON is interpreted and assigned to the corresponding observable.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Integrations**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Integrations**.
 
 2.  Select **Threat Intel Feeds** &gt; **All Feeds** &gt; **Text**.
 
@@ -78,7 +78,7 @@ Role required: sn\_sec\_tisc.admin
 
     \[Omitted image "tisc-field-mapping-data-delimiter.png"\] Alt text: TISC Field Mapping Data Delimiter
 
-15. Use the **Transform Script** to transform and normalize the input values before mapping them to [[c_Observables|observables]].
+15. Use the **Transform Script** to transform and normalize the input values before mapping them to observables.
 
     You can map the same source column \(for example, column 2\) multiple times such as to the **Additional Context** field using a dedicated script handler.
 
@@ -136,8 +136,3 @@ Role required: sn\_sec\_tisc.admin
 
 **Parent Topic:**[Threat Intelligence Feeds](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-intelligence-feeds.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]

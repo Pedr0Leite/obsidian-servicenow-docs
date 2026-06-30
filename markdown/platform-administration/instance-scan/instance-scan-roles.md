@@ -14,9 +14,9 @@ breadcrumb: [Instance Scan references, Instance Scan, Maintain and monitor, Admi
 
 # Instance Scan roles
 
-[[hs-landing-page|Instance Scan]] is installed with these roles.
+Instance Scan is installed with these roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Instance Scan references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-references.md)
 
@@ -27,7 +27,7 @@ To learn more about managing subscriptions, see [[managing-user-subscriptions-v2
 
 ## Instance Scan user \[scan\_user\]
 
-The scan\_user role can run different types of scans and view the [[hs-findings|findings]] and [[hs-results|results]].
+The scan\_user role can run different types of scans and view the findings and results.
 
 ### Contains Roles
 
@@ -45,9 +45,3 @@ None.
 
 None.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]
-- [[hs-results|Results]]

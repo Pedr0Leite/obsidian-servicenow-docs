@@ -12,7 +12,7 @@ breadcrumb: [Use, Model Risk Management, Governance, Risk, and Compliance]
 
 # Create assessment in the Pre-deployment stage
 
-Create a model risk assessment by verifying the details, assigning stakeholders, and create an assessment using the [[model-risk-management|Model Risk Management]] application in the Pre-deployment stage.
+Create a model risk assessment by verifying the details, assigning stakeholders, and create an assessment using the Model Risk Management application in the Pre-deployment stage.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ The Model Risk Coordinator \[sn\_model\_risk\_mgmt.risk\_coordinator\] can also 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -45,13 +45,7 @@ The Model Risk Coordinator \[sn\_model\_risk\_mgmt.risk\_coordinator\] can also 
 
 ## What to do next
 
-[[perform-model-risk-assessment|Perform model risk assessment]]
+[Perform model risk assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-model-risk-assessment.md)
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[perform-model-risk-assessment|Perform model risk assessment]]
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-management|Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]

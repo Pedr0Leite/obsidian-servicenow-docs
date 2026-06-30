@@ -14,7 +14,7 @@ breadcrumb: [External Legal Service Center, Legal Service Delivery, Legal and Co
 
 # Using External Legal Service Center
 
-The ServiceNow® [[lsd-ext-portal-landing-page|External Legal Service Center]] application enables external users to register themselves, submit, view, and track their requests for legal services.
+The ServiceNow® External Legal Service Center application enables external users to register themselves, submit, view, and track their requests for legal services.
 
 You can also add attachments while submitting a request.
 
@@ -40,6 +40,4 @@ To register yourself and submit a request for legal services, perform the follow
 
     View and track requests submitted for a legal service from the External Legal Service Center.
 
-## Related
 
-- [[lsd-ext-portal-landing-page|External Legal Service Center]]

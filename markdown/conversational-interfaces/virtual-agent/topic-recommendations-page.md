@@ -14,7 +14,7 @@ breadcrumb: [Topic Recommendations interface reference, Using Virtual Agent Topi
 
 # Topic Recommendations page
 
-Use the Topic Recommendations page to run analysis reports, view recommendations, add topics to [[virtual-agent-landing-page|Virtual Agent]], or link a recommendation to an existing topic.
+Use the Topic Recommendations page to run analysis reports, view recommendations, add topics to Virtual Agent, or link a recommendation to an existing topic.
 
 ## View all recommendations \(aggregate view\)
 
@@ -28,6 +28,3 @@ You can view topic recommendations by their data source. This lets you run a new
 
 \[Omitted image "tr-page-source-view.png"\] Alt text: The source view groups recommendations by the data source for the analysis. An analysis report on the Incidents table would be broken out separately from reports on other tables.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

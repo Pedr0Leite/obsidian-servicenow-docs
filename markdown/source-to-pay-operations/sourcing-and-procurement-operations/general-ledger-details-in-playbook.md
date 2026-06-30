@@ -16,7 +16,7 @@ breadcrumb: [Working with playbooks, Use, Sourcing and Procurement Operations, F
 
 As a fulfiller working in the procurement team, you can review and update missing General Ledger \(GL\) account details using playbook.
 
-If a shopper checks out multiple products from a single [[supplier|supplier]], multiple [[purchase-requisition|purchase requisition]] lines are generated that can contain missing GL accounting details. The purchase requisition lines with missing GL accounting details are auto-populated in a playbook associated with the purchase requisition in the procurement case.
+If a shopper checks out multiple products from a single supplier, multiple purchase requisition lines are generated that can contain missing GL accounting details. The purchase requisition lines with missing GL accounting details are auto-populated in a playbook associated with the purchase requisition in the procurement case.
 
 -   **[Review and update missing general ledger details in playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/playbook-review-missing-general-ledger-details.md)**  
 Review and update missing General Ledger \(GL\) accounting details through the procurement playbook. If a shopper checks out multiple products from a single supplier, multiple Purchase Requisition Lines \(PRLs\) are generated, some of which could potentially contain missing GL accounting details.
@@ -26,7 +26,7 @@ Review and update missing General Ledger \(GL\) accounting details through the p
 **Related topics**  
 
 
-[Process a [[purchase-order-table|purchase order]] edit in playbook]()
+[Process a purchase order edit in playbook]()
 
 [Process a purchase requisition edit request in playbook]()
 
@@ -46,8 +46,3 @@ Review and update missing General Ledger \(GL\) accounting details through the p
 
 [Streamlining the supplier risk assessment workflow]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

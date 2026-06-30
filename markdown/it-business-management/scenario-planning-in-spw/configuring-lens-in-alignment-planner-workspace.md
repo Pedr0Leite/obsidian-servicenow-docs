@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Lens configuration in Strategic Planning
 
-Learn how to configure settings for planning items and add additional configuration for a lens in [[alignment-planner-workspace-landing-page|Strategic Planning]] so that you can set up lenses for your planning manager.
+Learn how to configure settings for planning items and add additional configuration for a lens in Strategic Planning so that you can set up lenses for your planning manager.
 
 Your planning manager can use one of the nine pre-defined lenses - Project Portfolio, Project Program, Organization, Strategic Investments, Product, Digital Product, Value Stream, Goals, and Business Capability - to create portfolio plans, or you can set up a custom lens structure for them.
 
@@ -46,7 +46,3 @@ Custom lens
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

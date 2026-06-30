@@ -16,7 +16,7 @@ Custom themes let you customize your layout. You can enable custom themes by sub
 
 CPQ admin users can edit a custom theme to customize the look and feel of their layout.
 
-To access the custom theme options in the [[layout_editor|layout editor]], submit a CPQ Feature Enablement Request to enable themes.
+To access the custom theme options in the layout editor, submit a CPQ Feature Enablement Request to enable themes.
 
 ## Getting started
 
@@ -34,7 +34,7 @@ When this option is turned on, you see the full Theme Editor screen.
 
 ## The visual editor
 
-The visual editor includes five [[cpq-sets|sets]] of options and an interactive preview. The standard CPQ theme is applied by default, but you can [[Modify|modify]] any [[fields|fields]] to start customizing your theme.
+The visual editor includes five sets of options and an interactive preview. The standard CPQ theme is applied by default, but you can modify any fields to start customizing your theme.
 
 \[Omitted image "cpq-themes-visual-editor.png"\] Alt text: Visual editor showing default options on the interactive preview screen
 
@@ -84,9 +84,3 @@ A theme can support a custom font through a hosted URL entered in either the vis
 
 \[Omitted image "cpq-themes-custom-font.png"\] Alt text: Custom font links user interface
 
-## Related
-
-- [[layout_editor|Layout editor]]
-- [[cpq-sets|Sets]]
-- [[Modify|Modify]]
-- [[fields|Fields]]

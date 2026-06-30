@@ -22,7 +22,7 @@ Role required: sn\_data\_kit.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-data-kit-landing|Now Assist Data Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Data Kit** &gt; **Home**.
 
 2.  In the Generate Data section, select **Start now**.
 
@@ -39,6 +39,4 @@ Role required: sn\_data\_kit.admin
 
     \[Omitted image "nadk-data-insights.png"\] Alt text: Now Assist Data Kit data insights page
 
-## Related
 
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

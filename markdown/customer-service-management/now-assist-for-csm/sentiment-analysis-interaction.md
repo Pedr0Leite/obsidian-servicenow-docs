@@ -15,7 +15,7 @@ breadcrumb: [Activate Now Assist Skills, Configure, Now Assist for CSM, Customer
 
 # Sentiment analysis for email interactions
 
-[[case-sentiment-analysis-configure|Configure Sentiment analysis]] for email interactions to evaluate sentiment, trends, and reasoning at interaction level and help agents resolve cases more efficiently.
+Configure Sentiment analysis for email interactions to evaluate sentiment, trends, and reasoning at interaction level and help agents resolve cases more efficiently.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Sentiment analysis for email interactions is generated from the information that
 -   Description
 -   Short Description
 
-Any modifications to the names or labels of these fields can result in issues with [[case-sentiment-analysis|sentiment analysis]]. Sentiment is calculated using several factors:
+Any modifications to the names or labels of these fields can result in issues with sentiment analysis. Sentiment is calculated using several factors:
 
 -   Latest requester message
 -   Overall conversation between agent and customer captured in transcript
@@ -175,7 +175,7 @@ Assigned to
     2.  Go to the **Prompt Template** field and edit the prompt.
     3.  **Save** the record.
 
-        **Note:** Verify that the user is in [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] scope and the record is still in **Published** state.
+        **Note:** Verify that the user is in Now Assist for Customer Service Management \(CSM\) scope and the record is still in **Published** state.
 
 
 **Related topics**  
@@ -185,8 +185,3 @@ Assigned to
 
 [Enable and configure the Sentiment Analysis](https://support.servicenow.com/kb?sys_kb_id=ec531aab47a48794b6d8aa25126d4322&id=kb_article_view)
 
-## Related
-
-- [[case-sentiment-analysis-configure|Configure Sentiment Analysis]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]

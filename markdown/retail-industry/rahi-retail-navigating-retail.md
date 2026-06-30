@@ -12,18 +12,11 @@ breadcrumb: [Retail]
 
 # Track cases and tasks from the Retail portal
 
-You can track your store inquiry cases from the [[rahi-retail-portal|Retail portal]].
+You can track your store inquiry cases from the Retail portal.
 
-Track your cases and tasks, read the knowledge articles that are posted by your organization, or see the [[rahi-retail-operations-overview|retail]] organizations that you are associated with all by going to the Retail portal. For more information, see the following topics:
+Track your cases and tasks, read the knowledge articles that are posted by your organization, or see the retail organizations that you are associated with all by going to the Retail portal. For more information, see the following topics:
 
--   [[view-cases-and-tasks-in-retail-portal|Track your cases and tasks from the Retail portal]]
--   [[rahi-retail-portal-view-knowledge-articles|View your organization's knowledge articles from the Retail portal]]
--   [[rahi-retail-portal-view-retail-organizations|View your associated retail organizations from the Retail portal]]
+-   [Track your cases and tasks from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/view-cases-and-tasks-in-retail-portal.md)
+-   [View your organization's knowledge articles from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-portal-view-knowledge-articles.md)
+-   [View your associated retail organizations from the Retail portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-portal-view-retail-organizations.md)
 
-## Related
-
-- [[view-cases-and-tasks-in-retail-portal|Track your cases and tasks from the Retail portal]]
-- [[rahi-retail-portal-view-knowledge-articles|View your organization's knowledge articles from the Retail portal]]
-- [[rahi-retail-portal-view-retail-organizations|View your associated retail organizations from the Retail portal]]
-- [[rahi-retail-portal|Retail portal]]
-- [[rahi-retail-operations-overview|Retail]]

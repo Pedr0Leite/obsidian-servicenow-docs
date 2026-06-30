@@ -19,9 +19,9 @@ Enable your organization or brand to maintain constant engagement with end users
 
 With Asynchronous Chat, end users and agents can engage in conversations that might span several hours or even days. These conversations run on messaging channels that allow your users and agents to communicate at different times and to resume conversations where they left off. Users can respond at their convenience and are no longer limited to working with agents only during customer support hours.
 
-Long-running conversations are supported on channels that are designated as messaging channels in the Messaging Channel \[sys\_cs\_channel\] table. Messaging channels provided with your base system include the SMS channel, which is used by the ServiceNow [[sms-twilio-store-app|Conversational SMS Integration with Twilio]] app and the ServiceNow [[conversation-sms-service-channel-store-app|Conversational SMS service channel]] app.
+Long-running conversations are supported on channels that are designated as messaging channels in the Messaging Channel \[sys\_cs\_channel\] table. Messaging channels provided with your base system include the SMS channel, which is used by the ServiceNow Conversational SMS Integration with Twilio app and the ServiceNow Conversational SMS service channel app.
 
-Starting with the Rome release, you can also configure the web \(mweb\) channel, which includes the iOS, Android, and desktop devices, as a messaging channel instead of a chat channel. For configuration details, see [[configure-async-web|Configure asynchronous chat for the web channel]].
+Starting with the Rome release, you can also configure the web \(mweb\) channel, which includes the iOS, Android, and desktop devices, as a messaging channel instead of a chat channel. For configuration details, see [Configure asynchronous chat for the web channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-async-web.md).
 
 **Note:** The web chat and mweb channels are the only channels that support both chat and messaging mode, depending on your need. Web chat can only be set up in one mode on any given instance. The Asynchronous Chat feature specifically refers to the mweb channel in messaging mode.
 
@@ -45,9 +45,9 @@ Glide Conversation Server
 
 </td><td>
 
-Enables [[virtual-agent-landing-page|Virtual Agent]] functionality handled by the Conversation Server, including conversation settings and the Virtual Agent chat widget plugin \(com.glide.cs.sn-va-web-client-app\).
+Enables Virtual Agent functionality handled by the Conversation Server, including conversation settings and the Virtual Agent chat widget plugin \(com.glide.cs.sn-va-web-client-app\).
 
- The Conversation Server is included with [[va-lite|Virtual Agent Lite]], which is provided with your base system. For full Virtual Agent functionality, see [Activate Glide Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md), which is available by subscription.
+ The Conversation Server is included with Virtual Agent Lite, which is provided with your base system. For full Virtual Agent functionality, see [Activate Glide Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/activate-virtual-agent.md), which is available by subscription.
 
 </td></tr><tr><td>
 
@@ -65,13 +65,13 @@ Now Mobile app\(Version 12.2\)
 
 </td><td>
 
-Enables users to submit incidents and requests, manage tasks, and request help from [[ci-use-agent-chat|Agent Chat]] \(and Virtual Agent if using Virtual Agent\).
+Enables users to submit incidents and requests, manage tasks, and request help from Agent Chat \(and Virtual Agent if using Virtual Agent\).
 
  End users install the Now Mobile app for iOS or Android systems from the Apple App Store or the Google Play store, respectively.
 
 </td></tr><tr><td>
 
-[[agent-init-messg-interface|Agent-initiated Messaging Interface]]\(Version 3.0\)
+Agent-initiated Messaging Interface\(Version 3.0\)
 
 </td><td>
 
@@ -205,15 +205,5 @@ When a user starts the chat widget after having received offline messages from a
 -   **[Configure asynchronous chat for the web channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-async-web.md)**  
 Set the chat widget as a messaging channel for asynchronous chat.
 
-**Parent Topic:**[[ci-channels-overview|Channels in Conversational Interfaces]]
+**Parent Topic:**[Channels in Conversational Interfaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-channels-overview.md)
 
-## Related
-
-- [[configure-async-web|Configure asynchronous chat for the web channel]]
-- [[ci-channels-overview|ci channels overview]]
-- [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
-- [[conversation-sms-service-channel-store-app|Conversational SMS service channel]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[va-lite|Virtual Agent Lite]]
-- [[ci-use-agent-chat|Agent Chat]]
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]

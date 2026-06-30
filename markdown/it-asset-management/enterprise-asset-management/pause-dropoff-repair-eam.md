@@ -14,7 +14,7 @@ breadcrumb: [Record time worked on Drop off and Receive tasks, Delivering enterp
 
 # Pause a Drop off task or Receive task for enterprise assets
 
-Record a break from a Drop off or Receive task in the [[using-eam-workspace|Enterprise Asset Workspace]] if you’re not continuing to work on it.
+Record a break from a Drop off or Receive task in the Enterprise Asset Workspace if you’re not continuing to work on it.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ Each time you pause or resume work on the task, the actual time you worked on th
 
 [Record time worked on a Drop off task or Receive task manually]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

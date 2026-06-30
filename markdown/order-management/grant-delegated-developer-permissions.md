@@ -31,11 +31,7 @@ Role required: admin
 **Related topics**  
 
 
-[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

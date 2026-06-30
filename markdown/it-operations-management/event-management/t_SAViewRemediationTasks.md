@@ -14,7 +14,7 @@ breadcrumb: [CI Remediation, Manage and monitor alerts, Configuring Event Manage
 
 # View remediation tasks
 
-[[c_EM|Event Management]] automatically creates a [[ccg-remediation|remediation]] task to capture every remediation that was applied to a CI or to an alert. It gives you an overall view of remediation activities in the organization.
+Event Management automatically creates a remediation task to capture every remediation that was applied to a CI or to an alert. It gives you an overall view of remediation activities in the organization.
 
 ## Before you begin
 
@@ -37,7 +37,3 @@ Role required: evt\_mgmt\_user
 
 **Parent Topic:**[CI Remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-remediation.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[ccg-remediation|Remediation]]

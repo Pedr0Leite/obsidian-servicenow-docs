@@ -22,7 +22,7 @@ Role required: catalog\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Variables** &gt; **Variable Validation Regex**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Variables** &gt; **Variable Validation Regex**.
 
 2.  Click **New**.
 
@@ -100,6 +100,3 @@ Character set that is considered while validating the regular expression.-   Non
 
 [Create a service catalog variable](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/t_CreateAVariableForACatalogItem.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

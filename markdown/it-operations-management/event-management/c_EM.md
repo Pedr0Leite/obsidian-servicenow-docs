@@ -24,7 +24,7 @@ Event Management seamlessly integrates with various monitoring tools via connect
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore the various types of [[c_ServiceAnalyticsOverview|alert grouping]] and the rules for correlation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_ServiceAnalyticsOverview.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Explore the various types of alert grouping and the rules for correlation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_ServiceAnalyticsOverview.md)
 
 </td><td>
 
@@ -32,7 +32,7 @@ Event Management seamlessly integrates with various monitoring tools via connect
 
 </td><td>
 
-[Use\[Omitted image "bus-community.svg"\] Alt text: [[t_EMViewAlert|View alert information]] and monitor service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/user-guide.md)
+[Use\[Omitted image "bus-community.svg"\] Alt text: View alert information and monitor service health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/user-guide.md)
 
 </td></tr><tr><td>
 
@@ -57,7 +57,3 @@ Event Management seamlessly integrates with various monitoring tools via connect
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[t_EMViewAlert|View alert information]]

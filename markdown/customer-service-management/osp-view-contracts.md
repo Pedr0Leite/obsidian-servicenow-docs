@@ -20,7 +20,7 @@ Role required: sn\_csm\_ocs.ext\_manager/sn\_csm\_ocs.ext\_agent
 
 ## Procedure
 
-1.  Open the [[r_CustomerServiceCaseForm|case form]].
+1.  Open the case form.
 
 2.  Click the **Preview** icon next to the **Account** or **Consumer** field.
 
@@ -28,6 +28,4 @@ Role required: sn\_csm\_ocs.ext\_manager/sn\_csm\_ocs.ext\_agent
 
 4.  View the list of assets belonging to an account or consumer and fulfill a case.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -27,7 +27,7 @@ The Configuration Summary page tracks setup progress across five sections: **App
 
 ## Procedure
 
-1.  Navigate to **Admin** &gt; **Admin Home** &gt; **[[cbs-landing|Core Business Suite]]** &gt; ****.
+1.  Navigate to **Admin** &gt; **Admin Home** &gt; **Core Business Suite** &gt; ****.
 
 2.  Select **Core Business Suite** card, and select **Configure**.
 
@@ -47,7 +47,7 @@ The Configuration Summary page tracks setup progress across five sections: **App
 
 7.  On the Configuration Summary menu follow through the steps.
 
-    For a description of the field values, see [[es-moveworks-cbs-fsummary|Employee Slate for Moveworks configuration menu]].
+    For a description of the field values, see [Employee Slate for Moveworks configuration menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/es-moveworks-cbs-fsummary.md).
 
 8.  Select **Mark as configured** after finishing configuration of each section.
 
@@ -56,10 +56,5 @@ The Configuration Summary page tracks setup progress across five sections: **App
 
 After all sections are complete, the setup status on the Configuration Summary page shows 100% configured. Select **Package and download** to export the configuration.
 
-**Parent Topic:**[[employee-slate-config-cbs|Employee Slate configuration for CBS]]
+**Parent Topic:**[Employee Slate configuration for CBS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/employee-slate-config-cbs.md)
 
-## Related
-
-- [[es-moveworks-cbs-fsummary|Employee Slate for Moveworks configuration menu]]
-- [[employee-slate-config-cbs|Employee Slate configuration for CBS]]
-- [[cbs-landing|Core Business Suite]]

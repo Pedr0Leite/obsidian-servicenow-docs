@@ -20,7 +20,7 @@ Role required: sn\_majorissue\_mgt.major\_issue\_manager, sn\_customerservice\_m
 
 ## About this task
 
-The **Create Child Cases** button on the Major [[r_CustomerServiceCaseForm|Case form]] creates a child case for each account or consumer in the recipients list selected in the **Affected Customers** field. If a child case for an account or consumer exists, the system doesn’t create a duplicate child case.
+The **Create Child Cases** button on the Major Case form creates a child case for each account or consumer in the recipients list selected in the **Affected Customers** field. If a child case for an account or consumer exists, the system doesn’t create a duplicate child case.
 
 **Note:** Use caution when selecting the recipients list for a major case. Selecting the wrong recipients list can have a serious impact by creating a large number of cases for incorrect accounts or consumers. Verify that you have selected the correct recipients list before selecting **Create Child Cases**.
 
@@ -52,9 +52,5 @@ Creating child cases copies information from the major case to each of the child
 **Related topics**  
 
 
-[[major-issue-recipient-lists|Recipients lists]]
+[Recipients lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-recipient-lists.md)
 
-## Related
-
-- [[major-issue-recipient-lists|Recipients lists]]
-- [[r_CustomerServiceCaseForm|Case form]]

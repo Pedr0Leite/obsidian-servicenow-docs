@@ -15,7 +15,7 @@ breadcrumb: [Personalized canvas, Working with Employee Slate capabilities, Empl
 
 # Configure the default canvas dashboard
 
-Configure the default canvas dashboard that [[employee-slate-landing-page|Employee Slate]] presents to employees before they personalize their canvas. Set the subtitle, widget layout, and preview experience.
+Configure the default canvas dashboard that Employee Slate presents to employees before they personalize their canvas. Set the subtitle, widget layout, and preview experience.
 
 ## Before you begin
 
@@ -68,6 +68,3 @@ The default canvas dashboard is the starting layout that employees see on their 
 
 Employees see the layout and widgets that you configured. This layout applies when they open their canvas for the first time or reset it to the default. Employees personalize their canvas from this starting point.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]

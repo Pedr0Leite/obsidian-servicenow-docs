@@ -14,11 +14,11 @@ breadcrumb: [Admin configurations, Configuring Employee Center, Employee Center,
 
 # Employee Center plugins
 
-[[discover-lxp|Discover]] the Employee Center plugins that are included out-of-the-box on a new ServiceNow® instance.
+Discover the Employee Center plugins that are included out-of-the-box on a new ServiceNow® instance.
 
 ## Available out-of-the-box
 
-New ServiceNow® instances include the [[employee-center-landing-page|Employee Center]] and dependency plugins. Review the following table to learn more about the plugins.
+New ServiceNow® instances include the Employee Center and dependency plugins. Review the following table to learn more about the plugins.
 
 |Plugin|Description|
 |------|-----------|
@@ -30,7 +30,3 @@ New ServiceNow® instances include the [[employee-center-landing-page|Employee C
 
 For more information, see the [List of plugins \(Australia\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/list-of-plugins.md).
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[employee-center-landing-page|Employee Center]]

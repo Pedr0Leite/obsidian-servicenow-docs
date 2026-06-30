@@ -18,7 +18,7 @@ Guided Self-Service \(GSS\) helps create a playbook for all the useful content f
 
 ## Before you begin
 
-Ensure you activate the [[employee-center-landing-page|Employee Center]] application first before installing the **Guided Self-Service** in Employee Center app from ServiceNow Store.
+Ensure you activate the Employee Center application first before installing the **Guided Self-Service** in Employee Center app from ServiceNow Store.
 
 Role required: sn\_hr\_sp.esc\_admin
 
@@ -143,6 +143,3 @@ Click the **Edit in Process Automation Designer** button to define and publish t
 
 [Use Guided Self-Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/gss-guided-self-service-homepage.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

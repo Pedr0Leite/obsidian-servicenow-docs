@@ -26,7 +26,7 @@ Role required: admin, sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.s
 
     1.  Navigate to **Policy and Compliance** &gt; **Scoping** and select one of the following modules:
 
-        -   **[[entity-type-in-risk-ws|Entity Types]]**
+        -   **Entity Types**
         -   **My Entities**
         -   **All Entities**
     2.  Select one of the records.
@@ -48,6 +48,3 @@ Role required: admin, sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.s
 
 **Parent Topic:**[Align and prioritize cybersecurity activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/align-prioritize-activities.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

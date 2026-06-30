@@ -14,7 +14,7 @@ breadcrumb: [Manage, Smart Assessment Engine, Governance, Risk, and Compliance]
 
 # Using the template designer
 
-You can create [[airc-assessment-templates|assessment templates]] and add instructions, questions, and reference information by using the template designer in the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application. Smart assessments can help you to evaluate various situations, aspects, or records.
+You can create assessment templates and add instructions, questions, and reference information by using the template designer in the Smart Assessment Engine application. Smart assessments can help you to evaluate various situations, aspects, or records.
 
 ## Overview of using the template designer
 
@@ -63,10 +63,5 @@ Search for text within the assessment template sections, subsections, or questio
 
 After you finalize and publish these templates, you can use them to trigger the assessments. For more information on triggering the assessments, see [Triggering assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-triggering.md).
 
-**Note:** You can [[sae-asmnt-template-create|create an assessment template]] only from a published assessment. If there isn’t an associated active assessment, you can modify and publish these published templates again.For more information, see [Accessing templates in the Assessment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-workspace.md) and [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
+**Note:** You can create an assessment template only from a published assessment. If there isn’t an associated active assessment, you can modify and publish these published templates again.For more information, see [Accessing templates in the Assessment Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-workspace.md) and [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[sae-asmnt-template-create|Create an assessment template]]

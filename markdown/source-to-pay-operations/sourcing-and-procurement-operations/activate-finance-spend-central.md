@@ -23,33 +23,33 @@ Role required: admin
 
 ## About this task
 
-Install the following applications in the suggested sequence to get started with [[psm-overview|Sourcing and Procurement Operations]]:
+Install the following applications in the suggested sequence to get started with Sourcing and Procurement Operations:
 
 1.  Finance Common Architecture \[sn\_fin\]
-2.  [[erp-integration-framework|ERP Integration Framework]] \[sn\_fcms\_intg\]
+2.  ERP Integration Framework \[sn\_fcms\_intg\]
 3.  Common Service Delivery \[sn\_spend\_sdc\]
-4.  [[psd-overview|Procurement Case Management]] \[sn\_spend\_psd\]
-5.  [[purch-order-mgmt-ws|Source-to-Pay Workspace]] \[sn\_spend\_workspace\]
+4.  Procurement Case Management \[sn\_spend\_psd\]
+5.  Source-to-Pay Workspace \[sn\_spend\_workspace\]
 6.  Source-to-Pay Common Architecture \[sn\_shop\]
-7.  [[purchase-experience-workflow|Sourcing and Purchasing Automation]] \[sn\_pr\]
+7.  Sourcing and Purchasing Automation \[sn\_pr\]
 
     **Note:** If you want to leverage the demo data, you must repair the Sourcing and Purchasing Automation plugin. You can repair it now or after you have completed installing all the plugins.
 
-8.  [[shopping-hub-overview|Shopping Hub]] \[sn\_spend\_uib\]
-9.  [[shoppinghub-mobile|Shopping Hub Mobile]] \[sn\_shop\_mobile\]
+8.  Shopping Hub \[sn\_spend\_uib\]
+9.  Shopping Hub Mobile \[sn\_shop\_mobile\]
 10. Playbooks for Sourcing and Procurement Operations \[sn\_spend\_cp\]
-11. [[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement Operations]] \[sn\_shop\_va\]
+11. Virtual Agent for Sourcing and Procurement Operations \[sn\_shop\_va\]
 12. Natural Language Understanding Models for Sourcing and Procurement Operations \[sn\_spend\_nlu\]
-13. [[source-to-pay-integration-framework|Source-to-Pay Integration Framework]] \[sn\_spend\_intg\]
-14. [[procurement-file-transfer-framework|Procurement File Transfer Framework]] \[sn\_spend\_ftp\_intg\]
-15. [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]] \[sn\_spend\_pa\]
+13. Source-to-Pay Integration Framework \[sn\_spend\_intg\]
+14. Procurement File Transfer Framework \[sn\_spend\_ftp\_intg\]
+15. Performance Analytics for Sourcing and Procurement Operations \[sn\_spend\_pa\]
 16. Risk Assessments Integration for Sourcing and Procurement Operations \[sn\_spend\_vrm\]
 17. Project Costing for Sourcing and Procurement Operations \[sn\_spend\_ppm\]
-18. [[source-to-pay-operations-overview|Source-to-Pay Operations]] with Contract Management Pro \[sn\_spend\_clm\]
-19. [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] \[sn\_spend\_gen\_ai\]
-20. [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]] \[sn\_spend\_awa\]
+18. Source-to-Pay Operations with Contract Management Pro \[sn\_spend\_clm\]
+19. Now Assist for Sourcing and Procurement Operations \(SPO\) \[sn\_spend\_gen\_ai\]
+20. Advanced Work Assignment for Source-to-Pay Operations \[sn\_spend\_awa\]
 21. Process Mining for Source-to-Pay Operations \[sn\_s2p\_mining\]
-22. [[master-data-integration|Primary Data Integration]] with SAP \[sn\_sap\_data\_int\]
+22. Primary Data Integration with SAP \[sn\_sap\_data\_int\]
 23. Sourcing and Procurement Operations Integration with SAP \[sn\_psm\_sap\_int\]
 24. Procurement for Field Service Management
 
@@ -120,23 +120,5 @@ The following table lists the Sourcing and Procurement Operations \(SPO\) plugin
 
 [Advanced Work Assignment for Source-to-Pay Operations]()
 
-[Install [[universal-request|Universal Request]] for Sourcing and Procurement Operations]()
+[Install Universal Request for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[erp-integration-framework|ERP Integration Framework]]
-- [[psd-overview|Procurement Case Management]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[shoppinghub-mobile|Shopping Hub Mobile]]
-- [[virtual-agent-for-psm|Virtual Agent for Sourcing and Procurement Operations]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[procurement-file-transfer-framework|Procurement File Transfer Framework]]
-- [[performance-analytics-for-spo|Performance Analytics for Sourcing and Procurement Operations]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
-- [[master-data-integration|Primary data integration]]
-- [[universal-request|Universal Request]]

@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Resource** &gt; **Calendar** &gt; **[[c_MyCalendar|My Calendar]]**.
+1.  Navigate to **All** &gt; **Resource** &gt; **Calendar** &gt; **My Calendar**.
 
 2.  Double-click an event that has not been assigned to a resource plan.
 
@@ -42,6 +42,3 @@ Role required: none
 
 [Change the resource event color]()
 
-## Related
-
-- [[c_MyCalendar|My Calendar]]

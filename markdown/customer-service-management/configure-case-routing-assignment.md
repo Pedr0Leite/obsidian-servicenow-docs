@@ -12,7 +12,7 @@ breadcrumb: [Route and assign cases, Configure case management, Case management,
 
 # Configure case routing and assignment
 
-The case routing feature uses matching [[gamification-components-rules|rules]] and assignment rules to identify cases that meet certain conditions and then route those cases to customer service agents.
+The case routing feature uses matching rules and assignment rules to identify cases that meet certain conditions and then route those cases to customer service agents.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Assignment rules automatically assign tasks to users and groups when the conditi
 
 2.  On the Getting Started page of the guided setup, click **Get Started**.
 
-3.  In the [[case-management|Case Management]] category, view the list of tasks to configure the feature.
+3.  In the Case Management category, view the list of tasks to configure the feature.
 
     |Task|Description|
     |----|-----------|
@@ -45,10 +45,5 @@ Assignment rules automatically assign tasks to users and groups when the conditi
 **Related topics**  
 
 
-[[c_CaseRouting|Routing and assigning customer service cases]]
+[Routing and assigning customer service cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CaseRouting.md)
 
-## Related
-
-- [[c_CaseRouting|Routing and assigning customer service cases]]
-- [[gamification-components-rules|Rules]]
-- [[case-management|Case management]]

@@ -14,7 +14,7 @@ breadcrumb: [Sending notifications during a critical event, Critical Event Manag
 
 # Create a communication task
 
-Create an on-demand, customized message for a critical event in [[critical-event-management|Critical Event Management]], choose how often to send it, and select the communication channels.
+Create an on-demand, customized message for a critical event in Critical Event Management, choose how often to send it, and select the communication channels.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Critical Event Management** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -30,7 +30,7 @@ Role required: sn\_critical.agent
 
 4.  Select the **Create new communication** button.
 
-5.  In the [[create-new-communication-form|Communication form]], fill in the fields.
+5.  In the Communication form, fill in the fields.
 
     For a description of the field values, see [Communication form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/create-new-communication-form.md).
 
@@ -50,8 +50,3 @@ If you chose **Now** from the **Compose and send communication** field on the Co
 
 [Manage the recipients of a communication task]()
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[create-new-communication-form|Communication form]]

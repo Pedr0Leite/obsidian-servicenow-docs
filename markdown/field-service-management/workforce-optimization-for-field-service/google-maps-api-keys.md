@@ -14,7 +14,7 @@ breadcrumb: [Set up workforce, Configure, Field Service Management]
 
 # Configuring Google Maps API keys
 
-Google Maps API keys are essential for accessing and utilizing the features provided by the Google Maps Platform in [[fsm-application-landing-page|Field Service Management]].
+Google Maps API keys are essential for accessing and utilizing the features provided by the Google Maps Platform in Field Service Management.
 
 As an administrator, you can set up Google Maps API keys for the FSM features.
 
@@ -42,6 +42,4 @@ The steps for setting up Google Maps API keys are:
 
     Field Service requires Google Maps API configuration for users to operate location features properly.
 
-## Related
 
-- [[fsm-application-landing-page|Field Service Management]]

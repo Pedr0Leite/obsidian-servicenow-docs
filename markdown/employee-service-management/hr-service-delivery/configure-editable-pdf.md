@@ -31,7 +31,7 @@ Role required: sn\_hr\_core.admin and Delegated developer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[document-templates-overview|Document Templates]]** &gt; **All Document Templates**.
+1.  Navigate to **All** &gt; **Document Templates** &gt; **All Document Templates**.
 
 2.  Click **New**.
 
@@ -226,6 +226,3 @@ Source template from which you created a copy of current template.
 -   Click [Mark a signature block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/mark-signature-doctemp.md).
 -   Publish the template. Flows using the template might get effected in case you want to edit a published template.
 
-## Related
-
-- [[document-templates-overview|Document Templates]]

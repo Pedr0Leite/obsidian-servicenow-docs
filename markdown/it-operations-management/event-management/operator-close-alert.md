@@ -18,7 +18,7 @@ After you take action on an alert, you can verify several items on the alert and
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 <table id="table_pp3_vg3_3db"><tbody><tr><td>
 
@@ -54,7 +54,7 @@ Phase 3
 
 </td><td>
 
-[[t_EMCloseAlert|Close an alert]]
+Close an alert
 
 </td></tr></tbody>
 </table>Role required: evt\_mgmt\_operator
@@ -63,7 +63,7 @@ Phase 3
 
 ## Procedure
 
-1.  Navigate to **Workspace Experience** &gt; **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspace Experience** &gt; **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  Find the alert you want to close.
 
@@ -108,11 +108,11 @@ Phase 3
 
 ## What to do next
 
-You are finished with the [[operator-guide-em|Event Management Operator tutorial]], which covers a basic workflow of analyzing alerts, triaging them, and closing them out.
+You are finished with the Event Management Operator tutorial, which covers a basic workflow of analyzing alerts, triaging them, and closing them out.
 
 After you close an alert, you might need to follow up on these items:
 
--   **[[t_EMReopenAlert|Reopen an alert]]**
+-   **Reopen an alert**
 
     If you think an alert requires further action, you can manually change its state to **Reopen**. When an alert reopens, any associated incidents can also be updated or reopened according to the incident state and the rules that your administrator configured.
 
@@ -129,10 +129,3 @@ For a summary of other tasks that you might need to perform at some time, see [A
 
 **Parent Topic:**[What Event Management operators do](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-process.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[t_EMCloseAlert|Close an alert]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[operator-guide-em|Event Management Operator Tutorial]]
-- [[t_EMReopenAlert|Reopen an alert]]

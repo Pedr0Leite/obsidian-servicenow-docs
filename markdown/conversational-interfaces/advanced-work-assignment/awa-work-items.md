@@ -14,11 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Work items
 
-View [[awa-application-landing-page|Advanced Work Assignment]] work items using the Work Items menu options.
+View Advanced Work Assignment work items using the Work Items menu options.
 
-Work items are a single piece of work handled by an agent from start to finish. For example, one chat or one case is an object that is routed and assigned to agents. Only users with awa\_manager privileges can access the [[management|Management]] menu options.
+Work items are a single piece of work handled by an agent from start to finish. For example, one chat or one case is an object that is routed and assigned to agents. Only users with awa\_manager privileges can access the Management menu options.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]

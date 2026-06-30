@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Components installed with Analytics Pack for Contract Management Pro
 
-Several types of components are installed with activation of the Analytics Pack for [[cncore-cmpro-landing-page|Contract Management Pro]] plugin, including user roles and scheduled jobs.
+Several types of components are installed with activation of the Analytics Pack for Contract Management Pro plugin, including user roles and scheduled jobs.
 
 ## Roles
 
@@ -59,7 +59,7 @@ Contracts Core: Daily Data Collection
 
 </td><td>
 
-Collects analytics information for the indicators and breakdowns in the [[cncore-contracts-dashboard|Contracts Dashboard]].
+Collects analytics information for the indicators and breakdowns in the Contracts Dashboard.
 
  This job runs daily and populates the contract request data in the widgets of the dashboard.
 
@@ -81,7 +81,7 @@ Contracts Core: Historical Data Collection
 
 Provides an immediate insight from your existing contract request data.
 
- Run this job when you first [[cncore-activate-analytics-cmpro-plugin|activate Analytics Pack for Contract Management Pro]] or create indicators. When collecting data for the first time, the job generates scores and snapshots for existing records.
+ Run this job when you first activate Analytics Pack for Contract Management Pro or create indicators. When collecting data for the first time, the job generates scores and snapshots for existing records.
 
  For more information on running historical data collection jobs, see [Collect historical data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/t_RunHistoricalDataCollection.md).
 
@@ -125,8 +125,3 @@ Provides an immediate insight from your existing contract request data.
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-contracts-dashboard|Contracts Dashboard]]
-- [[cncore-activate-analytics-cmpro-plugin|Activate Analytics Pack for Contract Management Pro]]

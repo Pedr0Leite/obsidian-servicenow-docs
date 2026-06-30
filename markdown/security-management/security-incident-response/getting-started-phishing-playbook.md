@@ -14,7 +14,7 @@ breadcrumb: [Playbook Resources, Security Incident Response, Enterprise security
 
 # Activate a Security Incident Response flow
 
-Security administrators and flow designers can use the [[sir-landing-page|Security Incident Response]] flows to automate the process of resolving security incidents in the organization.
+Security administrators and flow designers can use the Security Incident Response flows to automate the process of resolving security incidents in the organization.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ The flows provided with the base system are in an inactive state. Activate these
 
 ## Procedure
 
-1.  [[download-app-first-time|Download and install]] the [[security-operations-landing-page|Security Operations]] Spoke application.
+1.  [Download and install](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md) the Security Operations Spoke application.
 
     This Spoke application provides security operations actions that you can use while defining Security Incident Response flows.
 
@@ -34,7 +34,7 @@ The flows provided with the base system are in an inactive state. Activate these
 
     \[Omitted image "cj-sir-flow-phishing.png"\] Alt text: Security Incident Management SpokesNotice that the flows have a published status and are inactive.
 
-3.  For example, if you want to activate the Automated [[threat-intelligence-malware|Malware]] Playbook flow, select the **Security Incident - Automated Phishing Playbook - Template V1** link to view the flow.
+3.  For example, if you want to activate the Automated Malware Playbook flow, select the **Security Incident - Automated Phishing Playbook - Template V1** link to view the flow.
 
     \[Omitted image "cj-sir-flow-auto.png"\] Alt text: Automated Phishing Playbook Template
 
@@ -47,9 +47,3 @@ The flows provided with the base system are in an inactive state. Activate these
 
 The Automated Phishing Playbook flow is active and ready to use.
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[threat-intelligence-malware|Malware]]

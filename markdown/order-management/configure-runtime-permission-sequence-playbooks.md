@@ -12,17 +12,17 @@ breadcrumb: [Create sequences, Customer Engagement Sequences, Lead and opportuni
 
 # Assign runtime permissions while creating sequences
 
-Use permission [[cpq-sets|sets]] to control access to sequence records such as sequence tasks and steps.
+Use permission sets to control access to sequence records such as sequence tasks and steps.
 
 ## Before you begin
 
-Delegated developer roles must be assigned to designated users. For more information, see [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]].
+Delegated developer roles must be assigned to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 **Note:** Runtime permissions are available only with at least Playbooks version 28.1 on the Zurich release. For more information, see [Playbook release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/process-automation-designer-rn.md).
 
 Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
-**Note:** If you're [[using-customer-engagement-sequences|using Customer Engagement Sequences]] 1.0.0, you need the playbook.admin or pd\_author role to create sequences.
+**Note:** If you're using Customer Engagement Sequences 1.0.0, you need the playbook.admin or pd\_author role to create sequences.
 
 ## Procedure
 
@@ -58,20 +58,12 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 12. Select **Save and close**.
 
 
-**Parent Topic:**[[create-customer-engagement-sequence|Create a customer engagement sequence]]
+**Parent Topic:**[Create a customer engagement sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)
 
 **Related topics**  
 
 
-[[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
+[Configuring Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]]
-- [[create-customer-engagement-sequence|Create a customer engagement sequence]]
-- [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]
-- [[cpq-sets|Sets]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]

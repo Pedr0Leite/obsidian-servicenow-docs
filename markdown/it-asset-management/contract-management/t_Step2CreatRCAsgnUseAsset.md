@@ -22,7 +22,7 @@ Role required: financial\_mgmt\_user, asset, or contract\_manager
 
 ## Procedure
 
-1.  Navigate to **[[c_ContractManagement|Contract Management]]** &gt; **Contract** &gt; **All**.
+1.  Navigate to **Contract Management** &gt; **Contract** &gt; **All**.
 
 2.  Select a contract with an assigned user or asset.
 
@@ -51,6 +51,3 @@ Role required: financial\_mgmt\_user, asset, or contract\_manager
 
 **Next topic:**[Configure rate card expense generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/t_Step3ConfigRCExpenseGen.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]

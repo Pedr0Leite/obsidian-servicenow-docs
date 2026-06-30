@@ -14,7 +14,7 @@ breadcrumb: [OAuth 2.0 authentication via MID Server using external credential s
 
 # Configure CyberArk
 
-Configure the CyberArk vault to store [[oauth-2-credentials|OAuth 2.0 credentials]] and respond to requests for OAuth 2.0 credentials from the MID Server.
+Configure the CyberArk vault to store OAuth 2.0 credentials and respond to requests for OAuth 2.0 credentials from the MID Server.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ Configure your CyberArk vault with OAuth 2.0 credentials that the ServiceNow ins
 
 **Parent Topic:**[OAuth 2.0 authentication via MID Server using external credential storage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/oauth-2-0-support-in-external-credential.md)
 
-## Related
-
-- [[oauth-2-credentials|OAuth 2.0 credentials]]

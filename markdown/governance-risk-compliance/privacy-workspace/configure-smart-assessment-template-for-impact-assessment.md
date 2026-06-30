@@ -14,7 +14,7 @@ breadcrumb: [Configure, Privacy Management, Governance, Risk, and Compliance]
 
 # Configure smart assessment templates for impact assessments
 
-Create privacy [[airc-assessment-templates|assessment templates]] using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] as a base for sending privacy impact assessments and using them to detect the privacy risks and mitigate those risks.
+Create privacy assessment templates using the Smart Assessment Engine as a base for sending privacy impact assessments and using them to detect the privacy risks and mitigate those risks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace** &gt; **Lists** &gt; **Configure privacy management** &gt; **Assessment template configuration**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace** &gt; **Lists** &gt; **Configure privacy management** &gt; **Assessment template configuration**.
 
 2.  Select **New**.
 
@@ -135,7 +135,7 @@ Domain of the configuration. When accessed from the Privacy Workspace, this fiel
 
     4.  Select **Add**.
 
-    For example, for the Personal data section, you can add Data elements, [[data-subjects|Data subject types]], Hierarchy, and Legal basis. The details in the **Guidance** field of the subsections appear during the assessment to help the responder understand the questions in the assessment.
+    For example, for the Personal data section, you can add Data elements, Data subject types, Hierarchy, and Legal basis. The details in the **Guidance** field of the subsections appear during the assessment to help the responder understand the questions in the assessment.
 
 
 ## What to do next
@@ -150,9 +150,3 @@ To create a version of an existing template, see [Create a version of a privacy 
 
 **Parent Topic:**[Configuring Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-privacy-mgmt.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[privacy-management|privacy management]]
-- [[data-subjects|Data subject types]]

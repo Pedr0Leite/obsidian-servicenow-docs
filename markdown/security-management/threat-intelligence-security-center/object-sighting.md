@@ -14,21 +14,14 @@ breadcrumb: [Threat Entities, TISC Library Repository, Threat Intelligence Secur
 
 # Object Sighting
 
-[[indicator-sightings|Sightings]] denote that an object was seen. Objects may be a [[threat-intelligence-malware|malware]], tool, [[threat-actor|threat actor]], and so on.
+Sightings denote that an object was seen. Objects may be a malware, tool, threat actor, and so on.
 
 Sightings track who and what is the target, how attacks are carried out, and to track trends in attack behavior.
 
-The Sighting relationship object contains extra properties not present in the generic relationship objects. These extra properties represent data specific to sighting [[stix-relationships|relationships]].
+The Sighting relationship object contains extra properties not present in the generic relationship objects. These extra properties represent data specific to sighting relationships.
 
 -   **[Define Object Sighting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/define-object-sighting.md)**  
-[[define-object-sighting|Define object sighting]] that describes that an object \(malware, tool, threat actor, and so on\) was seen.
+Define object sighting that describes that an object \(malware, tool, threat actor, and so on\) was seen.
 
 **Parent Topic:**[Threat Entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-threat-entities.md)
 
-## Related
-
-- [[indicator-sightings|Sightings]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actor|Threat Actor]]
-- [[stix-relationships|Relationships]]
-- [[define-object-sighting|Define Object Sighting]]

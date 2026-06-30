@@ -14,14 +14,14 @@ breadcrumb: [Lists in the classic environment, Working in the classic environmen
 
 You can create personal lists to customize which columns appear and the order in which they appear. Personal lists modify a specific list view according to your individual preferences.
 
-Personal list customizations don’t affect what other users see in their [[lists-configurable-workspace|lists]]. Administrators can [manage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AdministeringPersonalLists.md) the personal lists function.
+Personal list customizations don’t affect what other users see in their lists. Administrators can [manage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_AdministeringPersonalLists.md) the personal lists function.
 
-**Parent Topic:**[[c_UseLists|Lists in the classic environment]]
+**Parent Topic:**[Lists in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UseLists.md)
 
 **Related topics**  
 
 
-[[view-management-overview|View management]]
+[View management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/view-management-overview.md)
 
 ## Personalize a list
 
@@ -43,7 +43,7 @@ Role required: personalize\_list or admin
 
     **Note:**
 
-    -   Values in the first column appear as links. If the first column isn’t a [[onboarding-modals-reference|reference]] field, the link opens the record from the list, as expected. If the first column is a reference field, the link opens the record from the referenced table. This behavior can be confusing. For this reason, avoid using a reference field as the first column.
+    -   Values in the first column appear as links. If the first column isn’t a reference field, the link opens the record from the list, as expected. If the first column is a reference field, the link opens the record from the referenced table. This behavior can be confusing. For this reason, avoid using a reference field as the first column.
     -   If an inactive field is removed from an admin-configured default view, any personal lists will reset to follow the default view, thus removing the inactive field from the personal list.
 4.  Select display options.
 
@@ -55,7 +55,7 @@ Role required: personalize\_list or admin
 
 </td><td>
 
-Select the **Wrap column text** check box. Clear the check box to display text on one line.In [[c_UI16|Core UI]], this option is also available in the **Lists** section of the [[r_UI16BannerFrame|system settings]].
+Select the **Wrap column text** check box. Clear the check box to display text on one line.In Core UI, this option is also available in the **Lists** section of the [system settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_UI16BannerFrame.md).
 
 </td></tr><tr><td id="d44461e212">
 
@@ -82,7 +82,7 @@ Select the **Active row highlighting** check box. Clear the check box to restore
 Select the **Modern cell coloring** check box.In Core UI, this option is also available in the **Lists** section of the [system settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_UI16BannerFrame.md).
 
 </td></tr></tbody>
-</table>5.  Select list editing options \(requires you to [[configure-onboarding-modals|configure]] the list editor\).
+</table>5.  Select list editing options \(requires you to configure the list editor\).
 
     **Note:** These options apply to all lists, not just the view you’re personalizing.
 
@@ -115,19 +115,9 @@ To reset a list to the default layout, select the personalize list icon and sele
 **Related topics**  
 
 
-[[t_UseSlushbuckets|Configure items on forms or in lists using a list collector]]
+[Configure items on forms or in lists using a list collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseSlushbuckets.md)
 
 [Reference field type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceField.md)
 
 [List editor administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AdministeringTheListEditor.md)
 
-## Related
-
-- [[c_UseLists|Lists in the classic environment]]
-- [[view-management-overview|View management]]
-- [[r_UI16BannerFrame|System settings for the Core UI]]
-- [[t_UseSlushbuckets|Configure items on forms or in lists using a list collector]]
-- [[lists-configurable-workspace|Lists]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

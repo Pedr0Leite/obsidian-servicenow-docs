@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management reference, Cloud Cost Management, IT Asset Ma
 
 # Supported CI class types for Microsoft Azure services
 
-Supported CI class types for Microsoft Azure enable assigning cost and usage data correctly using the CI placement process. The CI placement process places a subset of CIs into corresponding CI tables that are used in the recommendation generation process for [[cloud-insights-landing-page|Cloud Cost Management]].
+Supported CI class types for Microsoft Azure enable assigning cost and usage data correctly using the CI placement process. The CI placement process places a subset of CIs into corresponding CI tables that are used in the recommendation generation process for Cloud Cost Management.
 
 **Note:** All the supported CI class types are placed after the Cumulus Unsupported CI Placement scheduled job runs daily. Some of the CI class types are placed immediately after Billing Download job execution.
 
@@ -33,6 +33,3 @@ Supported CI class types for Microsoft Azure enable assigning cost and usage dat
 
 **Parent Topic:**[Cloud Cost Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/reference-cloudinsights.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]

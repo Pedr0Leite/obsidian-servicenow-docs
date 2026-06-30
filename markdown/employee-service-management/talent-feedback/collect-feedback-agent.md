@@ -22,7 +22,7 @@ Role required: manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Your team** &gt; **Team members**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **Your team** &gt; **Team members**.
 
 2.  Select the Now Assist icon to start a conversation with the agent.
 
@@ -46,6 +46,4 @@ Role required: manager
 
 9.  View a preview of the feedback request and end the chat with Now Assist in Virtual Agent.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

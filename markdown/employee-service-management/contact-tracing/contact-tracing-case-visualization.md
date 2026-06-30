@@ -14,7 +14,7 @@ breadcrumb: [Managing cases to follow up with potentially exposed contacts, Cont
 
 # Working on a case through contact tracing visualization
 
-The [[contact-tracing|contact tracing]] visualization in a case is a graphical representation of the affected user and potentially exposed contacts.
+The contact tracing visualization in a case is a graphical representation of the affected user and potentially exposed contacts.
 
 ## About Contact Tracing Visualization
 
@@ -90,7 +90,7 @@ Options available on the card
 </td></tr></tbody>
 </table>## Vaccination statuses in contact tracing visualization
 
-Organizations with Contact Tracing and the [[vaccination-status|Vaccination Status]] application can view vaccination statuses on the **Exposed Contacts** list and contact tracing visualization. The **Vaccinated** label on a card indicates that the user is vaccinated.
+Organizations with Contact Tracing and the Vaccination Status application can view vaccination statuses on the **Exposed Contacts** list and contact tracing visualization. The **Vaccinated** label on a card indicates that the user is vaccinated.
 
 For more information, see [Configure contact tracing visualization to show vaccination status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/add-vaccination-status-to-case-visualization.md).
 
@@ -126,7 +126,3 @@ Case managers with the sn\_imt\_vaccine.vaccine\_profile\_reader role can filter
 </td></tr></tbody>
 </table>**Parent Topic:**[Managing cases to follow up with potentially exposed contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/exposure-case-management.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]
-- [[vaccination-status|Vaccination Status]]

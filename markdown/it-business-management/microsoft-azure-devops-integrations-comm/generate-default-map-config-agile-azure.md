@@ -27,7 +27,7 @@ You can restore the default map configuration of an Azure DevOps process type by
 
 When you import available work items such as epics and stories from Azure DevOps, this data is stored in tables as defined in the map configuration of the project's process type.
 
-If the table map does not exist for a work item in your Azure DevOps process, this work item cannot be imported and exported between Azure DevOps and [[agile-landing-page|Agile Development 2.0]].
+If the table map does not exist for a work item in your Azure DevOps process, this work item cannot be imported and exported between Azure DevOps and Agile Development 2.0.
 
 ## Procedure
 
@@ -55,6 +55,3 @@ Once the state of the Create mappings request changes to **Completed**, you can 
 
 [Customizing your map configuration for Azure DevOps integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/customizing-map-config-agile-azure.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

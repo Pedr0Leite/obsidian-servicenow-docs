@@ -14,7 +14,7 @@ breadcrumb: [Use, Unified Map, Configuration Management Database \(CMDB\), Confi
 
 # View service instances for a CI
 
-For a selected CI, the **Service instances** panel in [[cmdb-workspace-unified-map|Unified Map]] lists details in the Service Mapping application for all associated service instances \(formerly application services\).
+For a selected CI, the **Service instances** panel in Unified Map lists details in the Service Mapping application for all associated service instances \(formerly application services\).
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ The information that appears on a service instance card is described in [Service
 
 [Service Mapping data that appears on maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/unified-map/um-data-from-service-mapping.md)
 
-## Related
-
-- [[cmdb-workspace-unified-map|Unified Map]]

@@ -14,20 +14,20 @@ breadcrumb: [Sourcing checkout, Setting up primary data Shopping, Configure, Sou
 
 # Configure sourcing checkout
 
-As an administrator, you can configure the [[sourcing-checkout|sourcing checkout]] to collect information that is relevant to a specific product, product model, or product category. You can also change the default sourcing checkout used universally. The additional information at the sourcing checkout helps understand the requirement better and enable quicker processing.
+As an administrator, you can configure the sourcing checkout to collect information that is relevant to a specific product, product model, or product category. You can also change the default sourcing checkout used universally. The additional information at the sourcing checkout helps understand the requirement better and enable quicker processing.
 
 ## Before you begin
 
 Role required: sn\_shop.shopping\_hub\_admin
 
-Configure sourcing checkouts in [[shopping-hub-overview|Shopping Hub]] to change all sourcing requests for a product or service throughout the system. Or you can configure for specific products and categories.
+Configure sourcing checkouts in Shopping Hub to change all sourcing requests for a product or service throughout the system. Or you can configure for specific products and categories.
 
 To configure a sourcing checkout for a product or service, you must first create the sourcing checkout from the purchasing automation tab of product, product model, or category. Simply select **Create new sourcing checkout**, for more information, see [Create sourcing checkout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-sourcing-checkout-record.md).
 
--   **[[supplier|Supplier]] Product**: Create or change the sourcing checkout for a specific product from a specific supplier. For example, MacBook Pros 15 inch sold by a specific supplier, for example, Apple.
+-   **Supplier Product**: Create or change the sourcing checkout for a specific product from a specific supplier. For example, MacBook Pros 15 inch sold by a specific supplier, for example, Apple.
 -   **Product Model**: Create or change the sourcing checkout for a product model. For example, MacBook Pros 15 inch sold by any supplier.
 -   **Product Categories**: Create or change the sourcing checkout for a product category. For example, Laptops.
--   **Default Sourcing Checkout**: Change the sourcing checkout for all sourcing requests of goods or services in [[shoppinghub-configurations|ShoppingHub Configuration]]. From **Catalog builder**, edit the default checkout and submit.
+-   **Default Sourcing Checkout**: Change the sourcing checkout for all sourcing requests of goods or services in ShoppingHub Configuration. From **Catalog builder**, edit the default checkout and submit.
 
     **Note:** Values defined at the supplier product take priority over the values defined at other levels.
 
@@ -40,7 +40,7 @@ Configure the relevant questions in this manner.
 
 1.  Select a sourcing checkout to use in one of the following locations:
 
-    -   **Supplier Product**: Navigate to **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data** &gt; **Supplier Product**.
+    -   **Supplier Product**: Navigate to **Sourcing and Purchasing Automation** &gt; **Primary Data** &gt; **Supplier Product**.
     -   **Product Model**: Configure the details from **ShoppingHub** &gt; **Model Management** &gt; **All Models**.
     -   **Product Category** Configure the details from **ShoppingHub** &gt; **Category Management** &gt; **Product Categories**.
 2.  From the **Purchasing automation** tab, select the **Sourcing checkout** field.
@@ -68,10 +68,3 @@ Configure the relevant questions in this manner.
 
 [Create sourcing checkout record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-sourcing-checkout-record.md)
 
-## Related
-
-- [[sourcing-checkout|Sourcing checkout]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[supplier|Supplier]]
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

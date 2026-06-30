@@ -18,11 +18,11 @@ Owners add or update the stages in journey plan configurations.
 
 ## Before you begin
 
-Role required: Owner or co-owner of a [[jny-dsgnr-landing-page-1|Journey designer]] plan configuration.
+Role required: Owner or co-owner of a Journey designer plan configuration.
 
 ## About this task
 
-[[jny-dsgnr-owner-role-and-responsibility|Journey designer plan configuration owners]] can change or create task templates for a plan configuration.
+Journey designer plan configuration owners can change or create task templates for a plan configuration.
 
 -   Add stages
 -   Delete stages. A stage must not have any task if you want to delete it.
@@ -34,7 +34,7 @@ Role required: Owner or co-owner of a [[jny-dsgnr-landing-page-1|Journey designe
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] service portal, navigate to the **Journeys** page.
+1.  From the Employee Center service portal, navigate to the **Journeys** page.
 
 2.  Select the **Journey templates** tab.
 
@@ -58,8 +58,3 @@ Role required: Owner or co-owner of a [[jny-dsgnr-landing-page-1|Journey designe
 
 **Parent Topic:**[Journey designer plan configuration owners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-owner-role-and-responsibility.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[jny-dsgnr-owner-role-and-responsibility|Journey designer plan configuration owners]]
-- [[employee-center-landing-page|Employee Center]]

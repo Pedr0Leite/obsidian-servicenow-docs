@@ -14,7 +14,7 @@ breadcrumb: [HR Administration, Configure, Case and Knowledge Management, HR Ser
 
 # Response templates for HR Service Delivery
 
-You can use response templates with [[hr-service-delivery|HR Service Delivery]] to resolve cases faster and more efficiently.
+You can use response templates with HR Service Delivery to resolve cases faster and more efficiently.
 
 Response templates \(formerly known as templated snippets\) are reusable messages. You can copy these messages created from these templates to an HR case, task, email, or chat to provide quick and consistent messages to employees. For example, a response template for a payroll discrepancy case enables HR agents to use a standardized message when responding to that case type.
 
@@ -36,7 +36,7 @@ To create a universal response template that is available for all channels, assi
 
 ## Activation information
 
-The response templates feature automatically activates when [[case-knowledge-management-landing-page|Case and Knowledge Management]] activates. See [Activate response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/activate-templated-snippets.md).
+The response templates feature automatically activates when Case and Knowledge Management activates. See [Activate response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/activate-templated-snippets.md).
 
 To use response templates in a chat in Agent Workspace for HR Service Delivery, activate: Advanced Work Assignment for HRSD \(com.sn\_hr\_awa\) plugin.
 
@@ -196,7 +196,7 @@ Also, use condition builder to define when a case meets the criteria for a templ
 
 ### Procedure
 
-1.  Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Response template configuration**.
+1.  Navigate to **HR Administration** &gt; **Response template configuration**.
 
 2.  Select **New** to create a response template.
 
@@ -274,7 +274,7 @@ Template body
 
 </td><td>
 
-Text of the response template providing instructions to the agent on how to respond to a specific case or task.You can [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] field values by selecting variables from the variables list based on the table you select.
+Text of the response template providing instructions to the agent on how to respond to a specific case or task.You can reference field values by selecting variables from the variables list based on the table you select.
 
  You can manually enter custom variable references:
 
@@ -409,7 +409,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **All HR Cases**, and open one of the modules, such as **Assigned to me** or **Open**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **All HR Cases**, and open one of the modules, such as **Assigned to me** or **Open**.
 
 2.  Open the HR case.
 
@@ -427,10 +427,4 @@ Role required: sn\_hr\_core.case\_writer
 
     **Note:** For information on using response templates in HR Agent Workspace, see .
 
-## Related
 
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-knowledge-management-landing-page|Case and Knowledge Management]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[case-management-workspace|Case management]]

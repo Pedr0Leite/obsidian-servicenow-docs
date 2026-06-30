@@ -14,10 +14,5 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 
 # DEX insights and lists
 
-DEX enables visibility and insight into the state and performance of the user [[dex-workspace-application-tab|applications]] and [[dex-workspace-devices-tab|devices]]. You can [[view-device-compliance|view system compliance]], manage files, and perform other operations as needed.
+DEX enables visibility and insight into the state and performance of the user applications and devices. You can view system compliance, manage files, and perform other operations as needed.
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]
-- [[view-device-compliance|View system compliance]]

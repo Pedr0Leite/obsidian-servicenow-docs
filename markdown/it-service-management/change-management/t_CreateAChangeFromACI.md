@@ -14,7 +14,7 @@ breadcrumb: [Create a change request, Use, Change Management, IT Service Managem
 
 # Create a change request from a configuration item \(CI\)
 
-[[t_CreateAChange|Create a change request]] from a list of configuration items \(CIs\), or add selected CIs from a list to a change record.
+Create a change request from a list of configuration items \(CIs\), or add selected CIs from a list to a change record.
 
 ## Before you begin
 
@@ -71,6 +71,3 @@ Select this option to associate the CIs with a new change request.
 
 [Unauthorized change request]()
 
-## Related
-
-- [[t_CreateAChange|Create a change request]]

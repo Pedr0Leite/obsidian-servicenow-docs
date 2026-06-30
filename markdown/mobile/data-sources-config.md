@@ -12,7 +12,7 @@ breadcrumb: [Data sources, Configure an input form screen, Input form screen, Mo
 
 # Configure data sources
 
-Configure data sources to map UI elements to specific database fields using element identifiers, enabling the [[sg-mobile-security-retrieval|retrieval]] and display of data on input form screens. This mapping verifies that each UI element accurately reflects the corresponding data field within a record.
+Configure data sources to map UI elements to specific database fields using element identifiers, enabling the retrieval and display of data on input form screens. This mapping verifies that each UI element accurately reflects the corresponding data field within a record.
 
 ## Before you begin
 
@@ -24,13 +24,13 @@ To create a data source, you establish uniquely named element identifiers and se
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you're working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the **All mobile records** from the menu.
 
@@ -42,13 +42,8 @@ To create a data source, you establish uniquely named element identifiers and se
 
 7.  Edit the script in the **Data source script** field as required.
 
-    For examples of data source script, see [[data-source-script-examples|Data source script examples]].
+    For examples of data source script, see [Data source script examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/data-source-script-examples.md).
 
 8.  Select **Save**.
 
-## Related
 
-- [[data-source-script-examples|Data source script examples]]
-- [[sg-mobile-security-retrieval|Retrieval]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

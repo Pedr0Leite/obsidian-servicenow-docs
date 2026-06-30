@@ -36,7 +36,7 @@ Configuration examples include:
 
 -   Forms: Configure tables, fields, data types, default values, and field dependencies to configure the data you capture and display.
 -   UI elements: Modify layouts, add related lists, add buttons, and change field names.
--   [[service-catalog|Service Catalog]]: Configure portals where your customers can request catalog items such as service and product offerings.
+-   Service Catalog: Configure portals where your customers can request catalog items such as service and product offerings.
 -   ACLs: Restrict unauthorized users from accessing forms and data.
 -   System property values: Modify the application’s experience for all users.
 
@@ -63,7 +63,7 @@ ServiceNow tools include:
 -   UI Policies: Dynamically modify the visibility of fields and attributes on a form according to user inputs.
 -   Business rules: Automatically trigger actions based on specified conditions.
 -   UI Actions: Extend and customize forms and lists by adding buttons, context menu items, or other UI elements that perform specific actions when clicked.
--   Client-side scripts: Scripts that execute within the user's browser when certain actions occur on a form or a [[ui-page|UI page]].
+-   Client-side scripts: Scripts that execute within the user's browser when certain actions occur on a form or a UI page.
 -   Server-side scripts: Scripts that execute on the ServiceNow server or database, for example, to update record fields when a database query runs.
 
 ## What is personalization
@@ -135,7 +135,7 @@ If you must make a customization, consider the following suggestions:
 -   Document all customizations. Add comments explaining why you customized \(including business justification\). Review all comments before upgrading to determine if you can revert to out-of-the-box code.
 -   Create tests for all customizations. Write Automated Test Framework \(ATF\) tests for all customizations where possible.
 -   Use HealthScan regularly to identify unnecessary customizations.
--   Customizations should be made to baseline objects where necessary so that conflict resolution and decision-making can be appropriately recorded in the updates. Hidden customizations may cause administrators to overlook updates in future [[r_Assessments|assessments]] in case reverts or merges are necessary.
+-   Customizations should be made to baseline objects where necessary so that conflict resolution and decision-making can be appropriately recorded in the updates. Hidden customizations may cause administrators to overlook updates in future assessments in case reverts or merges are necessary.
 -   Test your customization for all use cases. Include performance testing and the introduction of unintended consequences.
 -   Administrators are responsible for verifying that their customizations work after a ServiceNow platform upgrade, and for keeping track of what customizations are made.
 
@@ -151,8 +151,3 @@ Assuming you’ve documented all your customizations—including the business ju
 
 **Parent Topic:**[Service Catalog customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/p_ServiceCatalogCustomization.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[ui-page|UI page]]
-- [[r_Assessments|Assessments]]

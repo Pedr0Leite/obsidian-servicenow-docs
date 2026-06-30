@@ -16,7 +16,7 @@ breadcrumb: [Translation Management System configurations, Localization Framewor
 
 The XTM Translation Management System spoke provides subflows and actions to localize the artifacts using the XTM translation management system service.
 
-Activate the [[localization-framework-landing|Localization Framework]] Installer plugin \(com.glide.[[ia-localization-il|localization]]\_framework.installer\) to activate the XTM Translation Management System Spoke for localization Framework \(com.glide.localization\_framework.xtm\_spoke\).
+Activate the Localization Framework Installer plugin \(com.glide.localization\_framework.installer\) to activate the XTM Translation Management System Spoke for localization Framework \(com.glide.localization\_framework.xtm\_spoke\).
 
 ## Subscription
 
@@ -32,7 +32,7 @@ The spoke provides subflows in the Published state to integrate with the XTM TMS
 
 |Subflow|Description|
 |-------|-----------|
-|Request Translations \[request\_translations\]|Contains set of inputs and outputs to [[language-picker-ui|request translations]] of the artifacts.|
+|Request Translations \[request\_translations\]|Contains set of inputs and outputs to request translations of the artifacts.|
 |Retrieve Translations \[retrieve\_translations\]|Contains set of inputs and outputs to retrieve translations of the translated artifacts.|
 
 ## Spoke actions
@@ -66,8 +66,3 @@ See [Configure XTM TMS in the Localization Framework](https://raw.githubusercont
 
 **Parent Topic:**[Translation Management System configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/tms-configuration.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[ia-localization-il|Localization]]
-- [[language-picker-ui|Request translations]]

@@ -15,14 +15,14 @@ breadcrumb: [Analyze potential impact agentic workflow, Use agentic AI, Now Assi
 
 # Use the Analyze potential impact agentic workflow to assess a change request
 
-Use the [[now-assist-itom-analyze-potential-impact-workflow|Analyze potential impact agentic workflow]] to assess the effects of a change request. This workflow highlights the potential impacted servers and suggested services to help you identify risks, benefits, and make any necessary adjustments.
+Use the Analyze potential impact agentic workflow to assess the effects of a change request. This workflow highlights the potential impacted servers and suggested services to help you identify risks, benefits, and make any necessary adjustments.
 
 ## Before you begin
 
 Using the Analyze potential impact agentic workflow requires the installation of the following:
 
--   [[c_ServiceMappingOverview|Service Mapping]] Plus version 1.16.3.
--   Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) version 2.3.0.
+-   Service Mapping Plus version 1.16.3.
+-   Now Assist for IT Operations Management \(ITOM\) version 2.3.0.
 -   Now Assist for IT Service Management \(ITSM\) version 11.1.3.
 
 Role required: sn\_change\_write
@@ -66,7 +66,7 @@ Steps
 
 </td><td>
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]** &gt; **.**
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace** &gt; **.**
 2.  Select the list icon \[Omitted image "list-icon-op-ws.png"\].
 3.  Navigate to **Changes** &gt; **All**.
 4.  Select the applicable change request from the list.
@@ -84,9 +84,3 @@ In the Now Assist panel, the Analyze potential impact agentic workflow generates
 
 The impact analysis is updated in the work notes in the change request details.
 
-## Related
-
-- [[now-assist-itom-analyze-potential-impact-workflow|Analyze potential impact agentic workflow]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

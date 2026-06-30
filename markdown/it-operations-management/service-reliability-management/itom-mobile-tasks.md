@@ -14,7 +14,7 @@ breadcrumb: [Use, ITOM Mobile Agent, Service Reliability Management, ITOM AIOps,
 
 # Working with tasks on mobile
 
-Manage change and catalog tasks on your mobile device using [[itom-mobile-landing|ITOM Mobile Agent]]. Learn how to respond to issues quickly by viewing, closing, and adding comments to tasks on the go.
+Manage change and catalog tasks on your mobile device using ITOM Mobile Agent. Learn how to respond to issues quickly by viewing, closing, and adding comments to tasks on the go.
 
 ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage alerts, incidents, and on-call schedules from the same mobile app. Refer to the following ITSM Mobile Agent documentation to learn about managing tasks on your mobile device.
 
@@ -33,6 +33,3 @@ ITOM Mobile Agent auto-integrates with ITSM Mobile Agent, letting you manage ale
 
 **Next topic:**[ITOM Mobile Agent reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-settings.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]

@@ -18,37 +18,24 @@ The Facilities Service Management application offers the following benefits:
 
 -   Indicates the location of a facility request so the facilities team knows exactly where users encountered the issue.
 -   Identifies configuration items \(CIs\) for each facility request so you know which items in your infrastructure are also impacted.
--   Allows any user in the system to view all open [[c_FacilitiesRequests|facilities requests]]. Users can see the facilities issues that have already been reported before they submit a new request.
+-   Allows any user in the system to view all open facilities requests. Users can see the facilities issues that have already been reported before they submit a new request.
 
--   **[[t_ActivateFacilitiesSM|Activate Facilities Service Management]]**  
+-   **[Activate Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacilitiesSM.md)**  
 The Facilities Service Management plugin \(com.snc.facilities\_service\_automation\) is now deprecated and no longer supported or available for new activation.
--   **[[t_ActivateFacMoveMgmt|Activate Facilities Move Management]]**  
+-   **[Activate Facilities Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacMoveMgmt.md)**  
 The \(com.snc.facilities\_service\_automation\) and the \(com.snc.facilities\_service\_automation.move\) plugins are now deprecated and no longer supported or available for new activation.
--   **[[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]**  
+-   **[Activate Facilities Visualization Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_ActivateFacVisWorkbench.md)**  
 The \(com.snc.facilities\_service\_automation\) and the \(com.snc.facilities\_service\_automation.fvw\) plugins are now deprecated and no longer supported or available for new activation.
--   **[[c_FacilitiesSMProcess|Facilities service management process]]**  
+-   **[Facilities service management process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesSMProcess.md)**  
 The facilities administrator creates the campus and configures the application with workflow, agent assignment, and other considerations. Employees make facilities and move requests that are tracked to specific locations anywhere on the campus.
--   **[[domain-separation-facilities-service-mgt|Domain separation and Facilities Service Management]]**  
+-   **[Domain separation and Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/domain-separation-facilities-service-mgt.md)**  
 Domain separation is supported in Facilities Service Management. Domain separation allows you to separate data, processes, and administrative tasks into logical groupings called domains. You can then control several aspects of this separation, including which users can see and access data.
--   **[[r_SpaceManagement|Space management]]**  
+-   **[Space management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_SpaceManagement.md)**  
 The concept of space is part of the Facilities Service Management application. Space provides a definition at all levels with the same unit measure, and presents metrics that are readily available for analysis. These metrics include occupancy percentage, total space available, and so on.
--   **[[c_FacMoveMgmt|Facilities move management]]**  
-Employees and managers can request single user moves. Members of the facilities staff can use the [[c_EnterpriseMove|enterprise move]] tool to plan and execute large move scenarios involving multiple people, assets/CIs, and departments.
--   **[[c_InteractiveFacilityMaps|Interactive facility maps]]**  
+-   **[Facilities move management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacMoveMgmt.md)**  
+Employees and managers can request single user moves. Members of the facilities staff can use the enterprise move tool to plan and execute large move scenarios involving multiple people, assets/CIs, and departments.
+-   **[Interactive facility maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_InteractiveFacilityMaps.md)**  
 The interactive facility maps, including the Workbench and the Floor Plan, provide a campus-level hierarchy, improving your facilities request tracking and space management. Decision makers in your organization can track, manage, and analyze spaces in support of organizational needs and users can find other users and assets.
 
-**Parent Topic:**[[FacilitiesLandingPage|Facilities Service Management]]
+**Parent Topic:**[Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/FacilitiesLandingPage.md)
 
-## Related
-
-- [[t_ActivateFacilitiesSM|Activate Facilities Service Management]]
-- [[t_ActivateFacMoveMgmt|Activate Facilities Move Management]]
-- [[t_ActivateFacVisWorkbench|Activate Facilities Visualization Workbench]]
-- [[c_FacilitiesSMProcess|Facilities service management process]]
-- [[domain-separation-facilities-service-mgt|Domain separation and Facilities Service Management]]
-- [[r_SpaceManagement|Space management]]
-- [[c_FacMoveMgmt|Facilities move management]]
-- [[c_InteractiveFacilityMaps|Interactive facility maps]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[c_EnterpriseMove|Enterprise move]]

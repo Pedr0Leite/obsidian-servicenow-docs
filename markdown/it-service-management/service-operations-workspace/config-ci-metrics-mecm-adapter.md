@@ -18,7 +18,7 @@ Configure the display of the metrics for Microsoft Endpoint Configuration Manage
 
 You must ensure the following requirements:
 
--   Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application must be installed along with the investigation framework [[dex-workspace-application-tab|applications]]. For more information, see [Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mecm-adapter.md) and [Components installed with Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-mecm-adapter.md).
+-   Microsoft Endpoint Configuration Manager for Investigation \(sn\_mecm\_adapter\) application must be installed along with the investigation framework applications. For more information, see [Install Microsoft Endpoint Configuration Manager\(MECM\) for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/install-mecm-adapter.md) and [Components installed with Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/components-installed-mecm-adapter.md).
 -   Microsoft Endpoint Configuration Manager Spoke \[sn\_ms\_epcfgmgr\_spk\] must be installed and configured. For more information, see [Microsoft Endpoint Configuration Manager spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/ms-endpoint.md) and [Microsoft SCCM integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_MicrosoftSCCMIntegration.md).
 -   Microsoft Endpoint Configuration Manager server must be logged in using the Microsoft remote desktop.
 
@@ -39,7 +39,7 @@ Configure the display of the logged in users metrics for Microsoft Endpoint Conf
 -   **[Configure Installed application metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-install-app-metrics.md)**  
 Configure the display of the installed application metrics for Microsoft Endpoint Configuration Manager for Investigation.
 -   **[Configure remedial action - Restart Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-ra-restart-service.md)**  
-Configure the Restart Service [[remedial-action|remedial action]] for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
+Configure the Restart Service remedial action for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
 -   **[Configure remedial actions - End Process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/config-ra-end-process.md)**  
 Configure the End Process remedial action for Microsoft Endpoint Configuration Manager for Investigation \(MECM\).
 -   **[Create a script in Microsoft Endpoint Configuration Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-mecm-script.md)**  
@@ -47,12 +47,7 @@ Create a script in the Microsoft Endpoint Configuration Manager to configure the
 -   **[Extend hardware inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/extend-hardware-entity.md)**  
 Extend the hardware inventory to add the CMPivot entity on the CMPivot entity list in the Microsoft Endpoint Configuration Manager.
 -   **[Verify a CMPivot entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/verify-cmpivot-entity.md)**  
-[[verify-cmpivot-entity|Verify a CMPivot entity]] and its attributes to configure the display of the CI metrics information on the Investigation tab of the Incident record.
+Verify a CMPivot entity and its attributes to configure the display of the CI metrics information on the Investigation tab of the Incident record.
 
 **Parent Topic:**[Setting up investigation framework using Microsoft Endpoint Configuration Manager for Investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/set-up-investigate-fw-mecm.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[remedial-action|Remedial action]]
-- [[verify-cmpivot-entity|Verify a CMPivot entity]]

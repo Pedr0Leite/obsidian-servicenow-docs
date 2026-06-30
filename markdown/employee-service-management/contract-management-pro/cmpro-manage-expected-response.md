@@ -29,7 +29,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 3.  On the **Contract analysis** tile, select **Edit** in the options menu \(\[Omitted image "cmpro-na-three-dot-icon.png"\] Alt text: Options menu icon.\).
 
-    \[Omitted image "cmpro-na-active-skills.png"\] Alt text: Active skills in [[cncore-cmpro-landing-page|Contract management pro]].
+    \[Omitted image "cmpro-na-active-skills.png"\] Alt text: Active skills in Contract management pro.
 
 4.  In the skill guided setup, select **Expected response mappings**.
 
@@ -73,6 +73,3 @@ Now Assist uses the updated response mappings to identify non-standard clauses i
 
 [Map a field to an expected response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-exp-res-mapping.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

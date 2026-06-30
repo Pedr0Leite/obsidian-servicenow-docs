@@ -28,7 +28,7 @@ When you check out an article, the default value of **Valid to** field of the ar
 
 When you check out an article, attachments from the article's base version are copied into the new article version and relative paths to these attachments are also updated.
 
-**Note:** For article versions that were created in the previous releases, the relative paths to the attachments may not be updated. To update them, activate and run the Fix [[attachment|attachment]] links on article versions fix script.
+**Note:** For article versions that were created in the previous releases, the relative paths to the attachments may not be updated. To update them, activate and run the Fix attachment links on article versions fix script.
 
 ## Procedure
 
@@ -47,6 +47,3 @@ When you check out an article, attachments from the article's base version are c
 
 **Parent Topic:**[Use article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-versioning_0.md)
 
-## Related
-
-- [[attachment|Attachment]]

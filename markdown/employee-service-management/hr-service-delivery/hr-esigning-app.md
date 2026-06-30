@@ -27,7 +27,7 @@ Apps that support documents in HR.
 </td></tr></tbody>
 </table>[HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md)
 
-[[hr-e-signature|HR e-signature]] is a **non-embedded signature** capability for managed documents, and knowledge articles, attached to an HR task for fulfillment. It supports three signing types \(Acknowledgment, Credential, and Signature\) and two document types \(Managed Documents and Knowledge Articles\).
+HR e-signature is a **non-embedded signature** capability for managed documents, and knowledge articles, attached to an HR task for fulfillment. It supports three signing types \(Acknowledgment, Credential, and Signature\) and two document types \(Managed Documents and Knowledge Articles\).
 
 **Note:**
 
@@ -36,11 +36,7 @@ Apps that support documents in HR.
 
 
 
-HR [[document-templates-overview|document templates]] provides embedded signature and supports both internal and external e-signing use cases. It supports two document types, HTML and PDF.
+HR document templates provides embedded signature and supports both internal and external e-signing use cases. It supports two document types, HTML and PDF.
 
 **Note:** HR document templates is a legacy product and being prepared for deprecation. Use [Document Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/document-templates-overview.md) instead.
 
-## Related
-
-- [[hr-e-signature|HR e-signature]]
-- [[document-templates-overview|Document Templates]]

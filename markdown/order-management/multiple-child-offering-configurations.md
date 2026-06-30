@@ -16,11 +16,11 @@ As a product catalog manager, when you define a configurable product offering, y
 
 ## How multiple configurations work
 
-When you use the Create New Product Offering form to define configurable product offerings and child product offerings, select the **Allow multiple configurations** option to enable the creation of multiple child offering configurations. For information on defining product offerings, see [[som-create-product-offering|Create product offerings]].
+When you use the Create New Product Offering form to define configurable product offerings and child product offerings, select the **Allow multiple configurations** option to enable the creation of multiple child offering configurations. For information on defining product offerings, see [Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md).
 
 **Note:** If the configurable product has an associated product specification, the **Allow multiple configurations** option is enabled automatically and can't be unselected.
 
-When agents add [[configurable-products-explore|configurable products]] to new opportunities, quotes, and orders, they can create multiple configurations for a child offering. They navigate to a summary page for a selected child offering. From this page, they can do the following:
+When agents add configurable products to new opportunities, quotes, and orders, they can create multiple configurations for a child offering. They navigate to a summary page for a selected child offering. From this page, they can do the following:
 
 -   Change the quantity of a child offering.
 -   Clone a child offering.
@@ -58,7 +58,7 @@ When the child offering configurations are created, each offering name reflects 
 
 ## Validation during multiple configuration creation
 
-As your agents create multiple configurations, the system uses the default, minimum, and maximum cardinality [[rules_101|rules]] defined for the product offering to validate the configurations. If there are violations, the system displays the appropriate information and error messages in the product configurator UI.
+As your agents create multiple configurations, the system uses the default, minimum, and maximum cardinality rules defined for the product offering to validate the configurations. If there are violations, the system displays the appropriate information and error messages in the product configurator UI.
 
 The system also uses the cardinality rules to determine when certain configuration options \(**Split** and **Delete**\) should be enabled or turned off, based on the context. For example, if the minimum child offering quantity is 1 and a child offering has a quantity of 1, the system disables the **Delete** option in the More options menu.
 
@@ -66,7 +66,7 @@ The system also uses the cardinality rules to determine when certain configurati
 
 Multiple configurations aren’t supported for quotes of type sales agreements. Also, changes for quotes and orders with sold products or product inventory have the following limitations:
 
--   Sold products: When creating a [[Modify|modify]] order, the **Delete** option for multiple configurations is supported, but the **Clone** and **Split** options aren’t supported.
+-   Sold products: When creating a modify order, the **Delete** option for multiple configurations is supported, but the **Clone** and **Split** options aren’t supported.
 -   Product inventory: Multiple configurations are supported. The **Split** option isn’t supported.
 
 ## Setting up multiple configurations
@@ -74,21 +74,12 @@ Multiple configurations aren’t supported for quotes of type sales agreements. 
 For details on enabling and creating multiple configurations for child offerings, see the following sections:
 
 -   [Create product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-create-product-offering.md)
--   [[create-multiple-child-configs|Create multiple configurations]]
+-   [Create multiple configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-multiple-child-configs.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-create-product-offering|Create product offerings]]
-- [[create-multiple-child-configs|Create multiple configurations]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[configurable-products-explore|Configurable products]]
-- [[rules_101|Rules]]
-- [[Modify|Modify]]

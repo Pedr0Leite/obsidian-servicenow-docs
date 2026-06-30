@@ -14,17 +14,11 @@ breadcrumb: [Playbooks and Solutions, Configure agent workspaces, Configure, Pub
 
 Install the Social Benefits Playbook application, which enables public sector end users to submit and track social benefit requests and provides government agents with a pre-defined process for handling and resolving these requests. You can then configure the features available for submitting requests and routing requests to agents.
 
-As a user with the admin role, complete the following configuration tasks to set up the Social Benefits Playbook, after you install the [[install-public-sector-digital-services-core|Public Sector Digital Services Core]] application.
+As a user with the admin role, complete the following configuration tasks to set up the Social Benefits Playbook, after you install the [Public Sector Digital Services Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-public-sector-digital-services-core.md) application.
 
 |Task|Description|
 |----|-----------|
-|[[install-psds-social-benefits-playbook|Install Social Benefits Playbook for Public Sector Digital Services]]|Install Social Benefits Playbook \(app-psds-social-benefits\) from the ServiceNow® Store.|
-|[[awa-psds-overview|Automatically route social benefit requests using Advanced Work Assignment]]|Use the ServiceNow Advanced Work Assignment \(AWA\) application to route and assign social benefit requests to designated agents.|
-|[[psds-configure-eligibility-sbp|Configure Eligibility Rules Engine in Social Benefits Playbook]]|Configure the eligibility framework engine to allow agents to confirm whether an applicant is eligible for the specific social benefits requested.|
+|[Install Social Benefits Playbook for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/install-psds-social-benefits-playbook.md)|Install Social Benefits Playbook \(app-psds-social-benefits\) from the ServiceNow® Store.|
+|[Automatically route social benefit requests using Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/awa-psds-overview.md)|Use the ServiceNow Advanced Work Assignment \(AWA\) application to route and assign social benefit requests to designated agents.|
+|[Configure Eligibility Rules Engine in Social Benefits Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-configure-eligibility-sbp.md)|Configure the eligibility framework engine to allow agents to confirm whether an applicant is eligible for the specific social benefits requested.|
 
-## Related
-
-- [[install-public-sector-digital-services-core|Install Public Sector Digital Services Core]]
-- [[install-psds-social-benefits-playbook|Install Social Benefits Playbook for Public Sector Digital Services]]
-- [[awa-psds-overview|Configure Advanced Work Assignment for Public Sector Digital Services]]
-- [[psds-configure-eligibility-sbp|Configure Eligibility Rules Engine in Social Benefits Playbook]]

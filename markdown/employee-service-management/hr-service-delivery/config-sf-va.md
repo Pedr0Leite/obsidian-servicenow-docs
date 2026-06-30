@@ -14,7 +14,7 @@ breadcrumb: [Configure, HR Service Delivery Integration with SuccessFactors, Int
 
 # Configure Virtual Agent topics for HR Service Delivery Integration with SuccessFactors
 
-Complete the configuration steps to enable your employees place requests to the SuccessFactors system using the [[now-assist-ohcm|Now Assist for HRSD Virtual Agent topics]] in [[employee-center-landing-page|Employee Center]].
+Complete the configuration steps to enable your employees place requests to the SuccessFactors system using the Now Assist for HRSD Virtual Agent topics in Employee Center.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
 
 ## Procedure
 
-1.  Install the [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]], Now Assist for HRSD, and [[hr-integrations-framework|Enterprise Service Management Integrations Framework]] \(v3.6\) applications from ServiceNow Store.
+1.  Install the HR Service Delivery Integration with SuccessFactors, Now Assist for HRSD, and Enterprise Service Management Integrations Framework \(v3.6\) applications from ServiceNow Store.
 
 2.  Configure the [SuccessFactors Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/successfactors-spoke.md) to pull data from SuccessFactors system.
 
-3.  Create [[flows-ukg|subflows]] aligning with Template Integration Gateway.
+3.  Create subflows aligning with Template Integration Gateway.
 
     See [Create a subflow using Template Integration Gateway](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-integration-gateway.md).
 
@@ -44,10 +44,3 @@ Role required: flow\_designer, decision\_table\_admin, sn\_hr\_integr\_fw.admin,
         1.  Edit topic properties, make the necessary edits in the topic, such as update the node name, and response message.
         2.  In Integration Gateway, specify the appropriate feature, service name, user, and make the necessary edits.
 
-## Related
-
-- [[now-assist-ohcm|Now Assist for HRSD Virtual Agent topics]]
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[flows-ukg|Subflows]]

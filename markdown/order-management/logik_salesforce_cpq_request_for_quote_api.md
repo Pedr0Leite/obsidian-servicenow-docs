@@ -37,7 +37,7 @@ This API is exposed in the Salesforce org and requires authorization with Salesf
 
 In CPQ, the only step is to ensure that in Admin settings, **Push BOM Data to Logik Salesforce Object** is enabled. CPQ uses the data stored in the Configuration Line Items \(LGK\_\_ConfigurationLineItem\_\_c\) to create any additional sales BOM lines on the quote and write the BOM Data field on the quote line.
 
-**Note:** The API will also respect normal Salesforce [[please_share_your_feedback_on_admin_assist_responses|user access]] levels, so if the authenticated Salesforce user \(or a partner site itself, via sharing settings\) does not have certain object or field level access, the API call may fail or not behave as expected. The user calling the API needs access to the standard Salesforce CPQ and related objects as well as the CPQ Configuration Line Item object and its [[fields|fields]].
+**Note:** The API will also respect normal Salesforce user access levels, so if the authenticated Salesforce user \(or a partner site itself, via sharing settings\) does not have certain object or field level access, the API call may fail or not behave as expected. The user calling the API needs access to the standard Salesforce CPQ and related objects as well as the CPQ Configuration Line Item object and its fields.
 
 A short list of necessary objects includes:
 
@@ -535,7 +535,3 @@ Sample response body:
 }
 ```
 
-## Related
-
-- [[please_share_your_feedback_on_admin_assist_responses|User access]]
-- [[fields|Fields]]

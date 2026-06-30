@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist in Document Intelligence, Enable AI experienc
 
 # Change the language modelsfor a use case
 
-Choose the language models for a [[platform-now-assist-landing|Now Assist]] in Document Intelligenceuse case.
+Choose the language models for a Now Assist in Document Intelligenceuse case.
 
 ## Before you begin
 
@@ -26,9 +26,9 @@ Choose the language models for a [[platform-now-assist-landing|Now Assist]] in D
 
 Language models are used to detect information in documents and make predictions for information extraction.
 
-Third-party large language model \(LLM\) providers are available for [[now-assist-skills|Now Assist skills]] and AI agents in addition to Now LLM Service. For more information on LLMs in Now Assist, see [[manage-large-language-models|Manage AI models]].
+Third-party large language model \(LLM\) providers are available for Now Assist skills and AI agents in addition to Now LLM Service. For more information on LLMs in Now Assist, see [Manage AI models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md).
 
-For each [[docintel-nowassist-landing|Now Assist in Document Intelligence]] use case, only one LLM can be enabled at a time. Now Assist employs the selected LLM when processing documents for the use case.
+For each Now Assist in Document Intelligence use case, only one LLM can be enabled at a time. Now Assist employs the selected LLM when processing documents for the use case.
 
 For image files that need optical character recognition \(OCR\) to detect the text in them, OCR models are used to support different language groups. The language selected during use case setup helps the OCR model to detect text in the images.
 
@@ -38,7 +38,7 @@ For image files that need optical character recognition \(OCR\) to detect the te
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable [[document-intelligence-landing|document intelligence]] skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
 4.  Select the use case you would like to configure.
 
@@ -90,10 +90,3 @@ The selected languages areenabled for the use case.
 
 [Delete a use case in Now Assist in Document Intelligence]()
 
-## Related
-
-- [[manage-large-language-models|Manage AI models]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skills|Now Assist skills]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[document-intelligence-landing|Document Intelligence]]

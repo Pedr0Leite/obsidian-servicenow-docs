@@ -14,7 +14,7 @@ breadcrumb: [Technology Product Support Case, Product Support for Technology]
 
 # Configuring Product Support for Technology
 
-Learn how to install and configure the [[assurance-workflows|Product Support for Technology]] application.
+Learn how to install and configure the Product Support for Technology application.
 
 ## Activation information
 
@@ -39,6 +39,3 @@ You must install the following plugins to start working on the Product Support f
 -   Product Catalog Management Core \(com.sn\_prd\_pm\)
 -   Service Test Management \(com.sn\_st\_mgmt\)
 
-## Related
-
-- [[assurance-workflows|Product Support for Technology]]

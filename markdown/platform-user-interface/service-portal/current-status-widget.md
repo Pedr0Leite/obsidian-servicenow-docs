@@ -26,7 +26,7 @@ The Current Status displays outages only for services, which are tracked in the 
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Current Status widget for a portal page.
+Use the instance options to configure the Current Status widget for a portal page.
 
 |Field|Description|
 |-----|-----------|
@@ -38,13 +38,9 @@ Use the instance options to [[configure-onboarding-modals|configure]] the Curren
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

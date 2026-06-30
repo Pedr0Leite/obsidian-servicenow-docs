@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Manager, Operational Technology]
 
 # APIs for IT to OT and OT to IT conversion
 
-There are 2 APIs used for handling refresh workflow scenarios for converting IT to [[operational-technology-overview|Operational Technology]] \(OT\) and vice versa with the OT Asset Management application.
+There are 2 APIs used for handling refresh workflow scenarios for converting IT to Operational Technology \(OT\) and vice versa with the OT Asset Management application.
 
 ## APIs used in OT Asset Management
 
@@ -39,6 +39,3 @@ For more information about OT Asset Management, see [OT Asset Management](https:
 
 **Parent Topic:**[Operational Technology Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/operational-technology-manager-reference.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

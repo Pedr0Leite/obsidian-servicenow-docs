@@ -14,7 +14,7 @@ breadcrumb: [Manage access requests, API Insights, Configuration Management Data
 
 # Manage requests received for API access in API Insights
 
-Manage incoming received requests for API access in [[api-insights|API Insights]].
+Manage incoming received requests for API access in API Insights.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
 
     You can review the details such as API name, requested by, request type, duration, and the reason for the request.
 
-    **Important:** The **View requests** link in the API request reminder [[email|email]] works only if you have the sn\_api\_insights\_ws.api\_mgmt\_architect or sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role and are part of the same group that received the email to view the requests.
+    **Important:** The **View requests** link in the API request reminder email works only if you have the sn\_api\_insights\_ws.api\_mgmt\_architect or sn\_api\_insights\_ws.api\_mgmt\_architect\_admin role and are part of the same group that received the email to view the requests.
 
 4.  Select the check boxes next to the request names to select one or more access requests that you want to process.
 
@@ -43,7 +43,3 @@ Role required: sn\_api\_insights\_ws.api\_mgmt\_architect
 
 A confirmation notification appears, indicating that the API request access flow process was initiated or completed successfully.
 
-## Related
-
-- [[api-insights|API Insights]]
-- [[email|Email]]

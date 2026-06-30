@@ -14,7 +14,7 @@ breadcrumb: [Resource plans, Resource Management classic, Project Portfolio Mana
 
 # Associate a time card with a resource plan
 
-If one resource is allocated to identically named tasks in two [[c_ResourcePlans|resource plans]], use the following procedure to specify the resource plan the time card should be allocated to.
+If one resource is allocated to identically named tasks in two resource plans, use the following procedure to specify the resource plan the time card should be allocated to.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ Role required: resource\_manager
 
 ## Procedure
 
-1.  Navigate to the **All** &gt; **[[c_TimeCards|Time Cards]]** &gt; **All**.
+1.  Navigate to the **All** &gt; **Time Cards** &gt; **All**.
 
 2.  Select a time card.
 
@@ -81,7 +81,3 @@ Role required: resource\_manager
 
 [Time zones in resource plans]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[c_TimeCards|Time cards]]

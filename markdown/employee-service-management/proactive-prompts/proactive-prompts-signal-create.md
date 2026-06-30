@@ -18,7 +18,7 @@ Configure signals to determine what prompts to send, whom to send them to, where
 
 ## Before you begin
 
-**Note:** You must install and activate both the [[proactive-prompts-for-hrsd|Proactive Prompts]] application and Now Assist for HRSD application so that you can use the capability and prompts from the base system. The two signals that are available for use are the Approvals pending prompt, and the High leave balance prompt.
+**Note:** You must install and activate both the Proactive Prompts application and Now Assist for HRSD application so that you can use the capability and prompts from the base system. The two signals that are available for use are the Approvals pending prompt, and the High leave balance prompt.
 
 Role required: sn\_pp.admin
 
@@ -80,7 +80,7 @@ Prompt header
 
 </td><td>
 
-Header for the prompt or create a header. For information on adding a new header, see [Add a new prompt header to identify the prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-add-header.md).The header is an icon and a label that is displayed on the prompt to identify the type of prompt on the [[employee-center-portal-overview|Employee Portal]]. For example, you could have headers for Skills, [[exploring-learning-exp|Learning]], Roles, and so on.
+Header for the prompt or create a header. For information on adding a new header, see [Add a new prompt header to identify the prompt](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-add-header.md).The header is an icon and a label that is displayed on the prompt to identify the type of prompt on the Employee Portal. For example, you could have headers for Skills, Learning, Roles, and so on.
 
 **Note:** If no header is selected, then the header that's marked as default is added to the prompt and displayed.
 
@@ -123,8 +123,4 @@ URL that the user can access in the **View details** option on the Employee Port
 
     You've configured a signal that delivers the prompt message to the user in the frequency that you scheduled.
 
-## Related
 
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[exploring-learning-exp|Learning]]

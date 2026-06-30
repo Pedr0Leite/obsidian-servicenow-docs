@@ -15,11 +15,11 @@ breadcrumb: [Now Assist Readiness Evaluation, Enable AI experiences]
 
 # Using Now Assist Readiness Evaluation
 
-The [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] app helps you find actionable items in your implementation preparation and provides direct hyperlinks to improve upon those gaps.
+The Now Assist Readiness Evaluation app helps you find actionable items in your implementation preparation and provides direct hyperlinks to improve upon those gaps.
 
 ## Overview of Now Assist Readiness Evaluation
 
-Use the Now Assist Readiness Evaluation app to help you prepare to launch generative AI, agentic AI, or both in [[platform-now-assist-landing|Now Assist]] for your organization. The following list is a high-level overview of the documentation topics in this section that you can refer to on how to use and interpret the Now Assist Readiness Evaluation results.
+Use the Now Assist Readiness Evaluation app to help you prepare to launch generative AI, agentic AI, or both in Now Assist for your organization. The following list is a high-level overview of the documentation topics in this section that you can refer to on how to use and interpret the Now Assist Readiness Evaluation results.
 
 -   [Using Now Assist Readiness Evaluation dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-readiness-evaluation/using-now-assist-readiness-evaluation-dashboard.md)
 
@@ -37,7 +37,4 @@ Use the Now Assist Readiness Evaluation app to help you prepare to launch genera
 
     View the agentic AI assessment report results for IT Service Management \(ITSM\) and Customer Service Management \(CSM\).
 
-## Related
 
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[platform-now-assist-landing|Now Assist]]

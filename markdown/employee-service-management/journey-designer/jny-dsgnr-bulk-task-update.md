@@ -16,7 +16,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 Many journeys have similar task types for multiple users. You can update similar task types in bulk for journeys of the same type.
 
-Managers and other journey participants that regularly manage journey tasks can update certain types of task in a single action. [[jny-dsgnr-landing-page-1|Journey designer]] identifies similar task types that are present in similar journeys. Similar tasks can be managed in bulk instead of managing each task in each journey type.
+Managers and other journey participants that regularly manage journey tasks can update certain types of task in a single action. Journey designer identifies similar task types that are present in similar journeys. Similar tasks can be managed in bulk instead of managing each task in each journey type.
 
 There are a limited number of task types available for bulk update.
 
@@ -32,6 +32,3 @@ Managers, mentors, and other journey participants with access to certain Journey
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]

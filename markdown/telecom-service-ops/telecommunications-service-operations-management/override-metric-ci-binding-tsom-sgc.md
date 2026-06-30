@@ -14,7 +14,7 @@ breadcrumb: [Configure Telecom Assurance, Configure, Telecommunications Service 
 
 # Override default metric-to-CI binding
 
-Replace the shipped logic that binds collected metrics to configuration items \(CIs\) for a [[telecommunications-service-operations-management|Telecommunications Service Operations Management]] metric source by creating your own implementation of the `EventFieldMapping` extension point and wiring it into an event field mapping rule.
+Replace the shipped logic that binds collected metrics to configuration items \(CIs\) for a Telecommunications Service Operations Management metric source by creating your own implementation of the `EventFieldMapping` extension point and wiring it into an event field mapping rule.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Replace the shipped logic that binds collected metrics to configuration items \(
 
 Role required: `tsom_assurance_admin`
 
-For an overview of how [[metric-to-ci-binding-tsom-sgc|metric-to-CI binding]] works in Telecommunications Service Operations Management service graph connectors, see [Metric-to-CI binding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/metric-to-ci-binding-tsom-sgc.md).
+For an overview of how metric-to-CI binding works in Telecommunications Service Operations Management service graph connectors, see [Metric-to-CI binding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/metric-to-ci-binding-tsom-sgc.md).
 
 ## About this task
 
@@ -139,7 +139,3 @@ New metrics collected from the source are bound to configuration items by your c
 
 [MPN Formulas table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-service-ops/telecommunications-service-operations-management/nokia-mpn-formulas-table.md)
 
-## Related
-
-- [[telecommunications-service-operations-management|Telecommunications Service Operations Management]]
-- [[metric-to-ci-binding-tsom-sgc|Metric-to-CI binding]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Industrial Workspace, Operational Technology]
 
 # Operational Technology Unified Map experience in the Industrial Workspace
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Unified Map available in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] provides a unified experience to view the relationships between devices and other configuration items \(CIs\), and view related items, like OT incidents and change requests.
+The Operational Technology \(OT\) Unified Map available in the Industrial Workspace provides a unified experience to view the relationships between devices and other configuration items \(CIs\), and view related items, like OT incidents and change requests.
 
 ## Unified Map overview
 
@@ -95,7 +95,3 @@ For more information about viewing an OT Unified Map, see [View an Operational T
 
 **Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/exploring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

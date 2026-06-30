@@ -14,19 +14,19 @@ breadcrumb: [Chargeback, Processing a Mastercard dispute, Resolving disputes wit
 
 # Review chargeback response and decide on pre-arbitration or arbitration
 
-Review second presentment for the chargeback and initiate pre-arbitration or arbitration, as required for the dispute workflow of the [[chargeback-stage|Chargeback stage]]. For Mastercard transaction chargeback, you can skip raising the pre-arbitration and directly raise the arbitration request.
+Review second presentment for the chargeback and initiate pre-arbitration or arbitration, as required for the dispute workflow of the Chargeback stage. For Mastercard transaction chargeback, you can skip raising the pre-arbitration and directly raise the arbitration request.
 
 ## Before you begin
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector.
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
 This task becomes active when the merchant proceeds with a second presentment after the collaboration step is not successful. The following outcomes are possible:
 
--   Mark as **Resolved**: Review the second presentment, mark it as **Resolved**, and close the chargeback. The transaction moves to [[financial-adjustments|Financial adjustments]] 1.
+-   Mark as **Resolved**: Review the second presentment, mark it as **Resolved**, and close the chargeback. The transaction moves to Financial adjustments 1.
 -   Mark as **Unresolved**: If the second presentment is **Unresolved** and the cardholder decides not to proceed further with the chargeback, the transaction moves to Financial adjustments 2.
 -   Escalate to pre-arbitration or arbitration: If the second presentment is **Unresolved** and the cardholder decides to proceed with the chargeback, then create a pre-arbitration or arbitration.
     -   If the merchant responds, the task progresses to the next stage.
@@ -35,11 +35,11 @@ This task becomes active when the merchant proceeds with a second presentment af
         **Note:** You can access this response from your **Landing Page** &gt; **Acquirer deadline expired tasks**. For more information, see [Dispute agent workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/workspace-for-agent.md)
 
 
-If [[card-data-security|Card Data Security]] is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -74,7 +74,7 @@ If [[card-data-security|Card Data Security]] is installed and configured, **Atta
     **Note:**
 
     -   You must upload a single `.zip` file whenever you submit documents to Mastercard.
-    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [[mastercard-image-and-document-requirements|Mastercard document requirements]].
+    -   When integrated with Mastercard's Mastercom APIs, the system automatically compresses multiple attachments into a single zip file. It also validates attached files against Mastercard requirements for file type and size, and alerts you when any attachment doesn’t meet Mastercard requirements. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/mastercard-image-and-document-requirements.md).
 13. In the **Response outcome** field, select **Resolved** or **Unresolved**.
 
 <table id="choicetable_sc5_fy5_vfc"><thead><tr><th align="left" id="d57169e437">
@@ -153,11 +153,3 @@ Based on the option the dispute agent selects, the response received field chang
 
 **Parent Topic:**[Chargeback in Mastercard transaction disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage-mastercard.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[mastercard-image-and-document-requirements|Mastercard document requirements]]
-- [[chargeback-stage|chargeback stage]]
-- [[financial-adjustments|financial adjustments]]
-- [[card-data-security|Card Data Security]]
-- [[fso-overview|Financial Services]]

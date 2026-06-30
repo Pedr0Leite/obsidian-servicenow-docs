@@ -12,27 +12,18 @@ breadcrumb: [SGC Central, Integrating third-party data into CMDB, Configuration 
 
 # Configuring SGC Central
 
-Set up the [[sgcc-landing|SGC Central]] application for onboarding and maintaining [[cmdb-sgc-available|Service Graph Connectors]] and monitoring the errors related to connections added using Service Graph Connectors.
+Set up the SGC Central application for onboarding and maintaining Service Graph Connectors and monitoring the errors related to connections added using Service Graph Connectors.
 
 ## Configuration checklist
 
-1.  [[sgcc-install|Install SGC Central]].
+1.  [Install SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-install.md).
 
-    **Note:** If you don't see the SGC Central view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace, clear the browser cache and try accessing the view again.
+    **Note:** If you don't see the SGC Central view in the Service Graph Workspace or CMDB Workspace, clear the browser cache and try accessing the view again.
 
-2.  [[sgcc-config-scheduled-jobs|Configure scheduled jobs for data collection]].
+2.  [Configure scheduled jobs for data collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-config-scheduled-jobs.md).
 
     **Note:** If you don't see data on the SGC Central dashboard, run scheduled jobs to display data on the SGC Central dashboard.
 
-3.  [[sgcc-explore-connectors|Onboard Service Graph Connectors within SGC Central.]]
-4.  [[sgcc-settings|Configure the Service Graph Connector settings within SGC Central]].
+3.  [Onboard Service Graph Connectors within SGC Central.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-explore-connectors.md)
+4.  [Configure the Service Graph Connector settings within SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-settings.md).
 
-## Related
-
-- [[sgcc-install|Install SGC Central]]
-- [[sgcc-config-scheduled-jobs|Configuring scheduled jobs for SGC Central]]
-- [[sgcc-explore-connectors|Exploring Service Graph Connectors in SGC Central]]
-- [[sgcc-settings|Configuring Service Graph Connector settings in SGC Central]]
-- [[sgcc-landing|SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]

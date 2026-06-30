@@ -12,7 +12,7 @@ breadcrumb: [Create sightings search configuration records, Security Operations 
 
 # Run a Sightings Search
 
-Determine the prevalence of a threat over time or test remediation or eradication efforts. You can select individual or multiple [[c_Observables|observables]] and the date range for your search from a security incident. Results are included in the **Security Incident Observables** related list.
+Determine the prevalence of a threat over time or test remediation or eradication efforts. You can select individual or multiple observables and the date range for your search from a security incident. Results are included in the **Security Incident Observables** related list.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-The [[indicator-sightings|Sightings]] Search capability has a flow, [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]], that executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries based on Sightings Search Configurations, and executes the searches based on the configured flow.
+The Sightings Search capability has a flow, [Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md), that executes the sightings search. This flow accepts a list of observables, finds any implementing capabilities, creates the queries based on Sightings Search Configurations, and executes the searches based on the configured flow.
 
 **Note:** An active implementation must be configured. Sightings Search supports Elasticsearch, Splunk, McAfee ESM, HPE ArcSight Logger, and QRadar incident enrichment. If no implementations are available, capability actions, such as **Run Sightings Search**, are not displayed in product menus.
 
@@ -92,11 +92,5 @@ Range of dates to search. Default dates are:-   The date and time the incident w
     |Updated|Date and time of the last modification.|
 
 
-**Parent Topic:**[[sightings-search-configurations|Create sightings search configuration records]]
+**Parent Topic:**[Create sightings search configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sightings-search-configurations.md)
 
-## Related
-
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[sightings-search-configurations|Create sightings search configuration records]]
-- [[c_Observables|Observables]]
-- [[indicator-sightings|Sightings]]

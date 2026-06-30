@@ -42,7 +42,7 @@ Title
 
 </td><td>
 
-The title you entered from the **[[ec-to-do-content|To-do content]]** form.This field only appears when you select content that has a content type of:
+The title you entered from the **To-do content** form.This field only appears when you select content that has a content type of:
 
 -   Button Complete
 -   E-Signature
@@ -82,7 +82,7 @@ Filters widget instances for the page you select.Select a page and only the widg
 
  You can open the Page record and select the **Try It** button to view the page.
 
- **Note:** Only appears when **[[ec-streamline-content|Portal Content]]** or **Styled content** is the content type for content selected.
+ **Note:** Only appears when **Portal Content** or **Styled content** is the content type for content selected.
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Widget instance
 
 </td><td>
 
-The [[employee-center-landing-page|Employee Center]] widget instance. A widget instance is a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to a widget that contains properties and CSS specific to that instance.A list of filtered widget instances appear when you select a page from the **Page** choice list.
+The Employee Center widget instance. A widget instance is a reference to a widget that contains properties and CSS specific to that instance.A list of filtered widget instances appear when you select a page from the **Page** choice list.
 
  **Note:** Only appears when **Portal Content** or **Styled content** is the content type for content selected.
 
@@ -100,7 +100,7 @@ Taxonomy
 
 </td><td>
 
-Filters what topics you can schedule your content to. Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, [[emp-center-quick-link-config|quick links]], and [[eslate-employee-comms|employee communications]]. For example, you can set up separate taxonomies for HR and IT so you can group specific topics under each.
+Filters what topics you can schedule your content to. Taxonomy is a collection of hierarchical topics that brings together different content types, like requests, articles, quick links, and employee communications. For example, you can set up separate taxonomies for HR and IT so you can group specific topics under each.
 
  For this field to appear, select a page that has Taxonomy \(sn\_ex\_sp\_taxonomy\) entered in the Choices tab for the dictionary entry for the Category table of the page. For more information, see [Create a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateATable.md).
 
@@ -192,7 +192,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[ec-mobile-content|Mobile Content]]
+Mobile Content
 
 </td><td>
 
@@ -200,7 +200,7 @@ Announcement banners you can send to your employee's mobile devices. The banner 
 
 </td></tr><tr><td>
 
-[[ec-notification-content|Notification Content]]
+Notification Content
 
 </td><td>
 
@@ -220,7 +220,7 @@ To-do Content
 
 </td><td>
 
-Content that assigns tasks to your employees and can be sent via email, SMS, or posted to your Employee Center or Service Portal.**Note:** For information on [[ecpro-content-to-dos|creating to-do content]], see [Create to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-content-to-do.md).
+Content that assigns tasks to your employees and can be sent via email, SMS, or posted to your Employee Center or Service Portal.**Note:** For information on creating to-do content, see [Create to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-manage-content-to-do.md).
 
 </td></tr></tbody>
 </table>6.  Click **Submit**.
@@ -242,14 +242,3 @@ Click **Cancel Campaign** to de-activate all undelivered content \(including not
 
 Click **Deactivate Content** to remove the content from a campaign. The content does not appear for users who have not yet viewed it.
 
-## Related
-
-- [[ec-to-do-content|To-do content]]
-- [[ec-streamline-content|Portal content]]
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[eslate-employee-comms|Employee communications]]
-- [[ec-mobile-content|Mobile content]]
-- [[ec-notification-content|Notification content]]
-- [[ecpro-content-to-dos|Creating to-do content]]

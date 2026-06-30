@@ -14,19 +14,19 @@ breadcrumb: [Access management console, Access Management]
 
 # Explore Access management console
 
-Use the [[access-management-console|Access Management Console]] within [[sec-center-v2|Security Center]] to review and remediate access issues and misconfigurations. The Access Management Console provides enhanced visibility and control of your [[access-analyzer|Access Analyzer]] findings, and streamlines remediation efforts. Within the console you can track, prioritize, and resolve access issues by assigning tasks.
+Use the Access Management Console within Security Center to review and remediate access issues and misconfigurations. The Access Management Console provides enhanced visibility and control of your Access Analyzer findings, and streamlines remediation efforts. Within the console you can track, prioritize, and resolve access issues by assigning tasks.
 
 Access the console by navigating to **All** &gt; **System Security** &gt; **Security Center** &gt; **Access management console**.
 
 The access management console is divided into 3 tabs:
 
 -   Overview
--   [[access-findings|Access findings]]
+-   Access findings
 -   Access analyzer
 
 ## Overview tab
 
-Use the Overview tab to get an overview of access issues and misconfiguration on your instance. From the overview panel you can see your findings and evaluate permissions for [[users|users]], roles, and groups. You can also review additional resources to learn about user administration on ServiceNow instances.
+Use the Overview tab to get an overview of access issues and misconfiguration on your instance. From the overview panel you can see your findings and evaluate permissions for users, roles, and groups. You can also review additional resources to learn about user administration on ServiceNow instances.
 
 <table id="table_vv1_ks5_bhc"><tbody><tr><td>
 
@@ -64,11 +64,11 @@ For details on using the Access Analyzer diagnostic tool, see [Access Analyzer](
 
 -   **Additional Resources**
 
-Use this section to learn more about [[sc-access-control|access control]] lists \(ACLs\), user administration, and Security Center.
+Use this section to learn more about access control lists \(ACLs\), user administration, and Security Center.
 
 Select the **Learn More** links to view product documentation about each subject.
 
-Select **Learn more in Security Center** to view the **[[learning|Security learning]] and references** page on your instance, which contains links to documentation, user guides, and more for Security Center. To learn more, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md) documentation.
+Select **Learn more in Security Center** to view the **Security learning and references** page on your instance, which contains links to documentation, user guides, and more for Security Center. To learn more, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md) documentation.
 
 
 </td><td>
@@ -109,7 +109,7 @@ Access the **Access checks** section by selecting it on the left edge of the scr
 
 <table id="table_kxr_z4d_hhc"><tbody><tr><td>
 
-Use the access analyzer tab start using the Access Analyzer tool, designed to help administrators view the permissions of an [[identity-landing|identity]] for a resource. From this tab, you can use the tool, review previously searched criteria, and review resources to learn how to use Access Analyzer. For more details on this tool and how it's used, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md).
+Use the access analyzer tab start using the Access Analyzer tool, designed to help administrators view the permissions of an identity for a resource. From this tab, you can use the tool, review previously searched criteria, and review resources to learn how to use Access Analyzer. For more details on this tool and how it's used, see [Access Analyzer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-analyzer.md).
 
 </td><td>
 
@@ -117,14 +117,3 @@ Use the access analyzer tab start using the Access Analyzer tool, designed to he
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[access-management-console|Access management console]]
-- [[sec-center-v2|Security Center]]
-- [[access-analyzer|Access Analyzer]]
-- [[access-findings|Access findings]]
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[learning|Security learning]]
-- [[identity-landing|Identity]]

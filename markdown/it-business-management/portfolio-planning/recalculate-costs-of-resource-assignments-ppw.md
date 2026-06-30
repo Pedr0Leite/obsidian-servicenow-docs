@@ -25,7 +25,7 @@ Role required: it\_demand\_manager
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -74,7 +74,7 @@ End date of the time period for which the costs are recalculated.By default, the
 ## Result
 
 -   Recalculates the selected resource costs of all the applicable resource assignments in the demand based on the latest hourly rates. The hourly rates are derived from the rate model associated with the demand.
--   Updates the recalculated resource costs on the respective cost fields on the [[pw-resource-assignment-form|resource assignment form]] and the **Resource assignments** tab.
+-   Updates the recalculated resource costs on the respective cost fields on the resource assignment form and the **Resource assignments** tab.
 -   Reflects the revised values in the respective cost fields of the demand.
 
 **Related topics**  
@@ -86,7 +86,3 @@ End date of the time period for which the costs are recalculated.By default, the
 
 [Create resource assignment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-resource-assignment-form-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[pw-resource-assignment-form|Resource assignment form]]

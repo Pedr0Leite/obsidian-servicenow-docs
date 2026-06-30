@@ -14,11 +14,11 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 # Zing can include attachments in search results
 
-Search content from attachments on indexed tables. Display attachments for search [[hs-results|results]] from the Knowledge \[kb\_knowledge\] table.
+Search content from attachments on indexed tables. Display attachments for search results from the Knowledge \[kb\_knowledge\] table.
 
 \[Omitted image "Km\_search\_filter\_H.png"\] Alt text: Sample Knowledge search including attachments.
 
-By default, search only matches content from attachments on Knowledge \[kb\_knowledge\] records. Administrators can [[t_DisablingAttachmentsOnATable|enable search for attachments on other tables]], but doing so causes the system to re-index the selected table, its parent table, and any children of the parent table.
+By default, search only matches content from attachments on Knowledge \[kb\_knowledge\] records. Administrators can [enable search for attachments on other tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingAttachmentsOnATable.md), but doing so causes the system to re-index the selected table, its parent table, and any children of the parent table.
 
 **Warning:** For large tables, such as the Task table, re-indexing can take several hours and slows down the system until complete. Re-indexing is best performed during non-peak times.
 
@@ -69,21 +69,15 @@ You can enable attachment indexing for a table so text searches can return match
 
 [Zing indexes words]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
 [Index attachments on a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_DisablingAttachmentsOnATable.md)
 
-## Related
-
-- [[t_DisablingAttachmentsOnATable|Index attachments on a table]]
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

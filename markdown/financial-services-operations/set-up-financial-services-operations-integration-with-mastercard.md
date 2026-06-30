@@ -12,7 +12,7 @@ breadcrumb: [Configure, Mastercard, Integrate, Financial Services Operations \(F
 
 # Set up Financial Services Operations Integration with Mastercard
 
-Configure the [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]] application by using the Mastercard connection and credential record to authenticate ServiceNow requests.
+Configure the Financial Services Operations Integration with Mastercard application by using the Mastercard connection and credential record to authenticate ServiceNow requests.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: admin
 
 To view the action execution details, click **Your test has finished running. View the Action execution details.**
 
-## Related
-
-- [[financial-services-operations-integration-with-mastercard-landing-page|Financial Services Operations Integration with Mastercard]]

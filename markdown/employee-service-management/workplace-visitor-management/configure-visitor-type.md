@@ -22,7 +22,7 @@ Role required: sn\_wsd\_visitor.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-visitor-mgmt-feat|Workplace Visitor Management]]** &gt; **Administration** &gt; **Visitor types**.
+1.  Navigate to **All** &gt; **Workplace Visitor Management** &gt; **Administration** &gt; **Visitor types**.
 
 2.  On the Visitor types list, select **New**.
 
@@ -31,7 +31,7 @@ Role required: sn\_wsd\_visitor.admin
     |Field|Description|
     |-----|-----------|
     |Name|Name of the visitor type, like prospect or candidate.|
-    |Order|Order of the visitor type in the list while [[adding-visitors|adding visitors]]. Visitor types with a lower order are displayed first.|
+    |Order|Order of the visitor type in the list while adding visitors. Visitor types with a lower order are displayed first.|
     |Label|Label of the visitor type that is displayed while adding visitors.|
     |Active|Option to set the record to active. Inactive visitor types are not displayed while adding visitors.|
 
@@ -67,12 +67,7 @@ Role required: sn\_wsd\_visitor.admin
 
 [Create a visitor badge template]()
 
-[Configuring Workplace Visitor Management for [[workplace-services|Workplace Services]] Kiosk]()
+[Configuring Workplace Visitor Management for Workplace Services Kiosk]()
 
 [Quick start test for Workplace Visitor Management]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[adding-visitors|Adding visitors]]
-- [[workplace-services|Workplace Services]]

@@ -14,24 +14,17 @@ breadcrumb: [Agent assignment methods, Request Management in a Service Managemen
 
 When auto assignment is enabled and a task is qualified or marked as **Ready for Work**, an appropriate agent is automatically assigned to the task and it is moved to the **Assigned** state. If the task cannot be auto-assigned, a user with the dispatcher role must adjust the values in the request or task form and then save the record.
 
-The Auto-Assignment feature can be enabled for requests or tasks, depending on the configuration settings of [[c_ServiceManagement|Service Management]] \(SM\) application:
+The Auto-Assignment feature can be enabled for requests or tasks, depending on the configuration settings of Service Management \(SM\) application:
 
 -   If the Requests are assigned via auto-assignment option is enabled, requests are automatically assigned.
 -   If the Tasks are assigned via auto-assignment option is enabled, the tasks in a request are automatically assigned.
 
--   **[[c_AgentAutoAssignUseRatBaseCrit|Agent auto assignment using rating-based criteria]]**  
+-   **[Agent auto assignment using rating-based criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAutoAssignUseRatBaseCrit.md)**  
 Rating-based methods, such as location, skills, and time zones, help to auto assign agents based on configuration settings and optional properties. The calculated ratings are used to determine the best agent to perform the task.
--   **[[c_AgAtAssgnTime|Agent auto assignment using time-based criteria]]**  
+-   **[Agent auto assignment using time-based criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgnTime.md)**  
 Time-based methods, such as schedules and priority assignment, help you auto assign agents based on configuration settings and optional properties. The calculated ratings are used to determine the best agent to perform the task.
--   **[[c_AgAtAssgmtMlt|Agent auto assignment using multiple selection criteria]]**  
+-   **[Agent auto assignment using multiple selection criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgAtAssgmtMlt.md)**  
 At its simplest, auto assignment involves identifying a set of selection criteria and automatically assigning the task to the agent who most closely meets the criteria. You can, however, select multiple sets of criteria, including both rating-based and time-based criteria.
 
-**Parent Topic:**[[c_AgentAssignment|Agent assignment methods]]
+**Parent Topic:**[Agent assignment methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_AgentAssignment.md)
 
-## Related
-
-- [[c_AgentAutoAssignUseRatBaseCrit|Agent auto assignment using rating-based criteria]]
-- [[c_AgAtAssgnTime|Agent auto assignment using time-based criteria]]
-- [[c_AgAtAssgmtMlt|Agent auto assignment using multiple selection criteria]]
-- [[c_AgentAssignment|Agent assignment methods]]
-- [[c_ServiceManagement|Service Management]]

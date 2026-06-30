@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Workday Learning, I
 
 # Edit a record in HR Service Delivery Integration with Workday Learning
 
-Use this form to create a new record in [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]] for multiple scenarios like Sync User [[activity-lxp|Activity]], Self Enrollment Activity, and Track Approval.
+Use this form to create a new record in HR Service Delivery Integration with Workday Learning for multiple scenarios like Sync User Activity, Self Enrollment Activity, and Track Approval.
 
 |Field|Description|
 |-----|-----------|
@@ -34,12 +34,7 @@ Use this form to create a new record in [[hr-integration-with-workday-learning|H
 
 [Components installed with workday learning]()
 
-[Workday [[exploring-learning-exp|learning]] todos staging form]()
+[Workday learning todos staging form]()
 
 [Workday learning user course activity staging form]()
 
-## Related
-
-- [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]]
-- [[activity-lxp|Activity]]
-- [[exploring-learning-exp|Learning]]

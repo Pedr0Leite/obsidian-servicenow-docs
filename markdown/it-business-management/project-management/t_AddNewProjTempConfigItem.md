@@ -26,7 +26,7 @@ Role required: it\_pps\_admin
 
 2.  Select **New**.
 
-3.  Fill in the fields on the [[c_ProjectTemplateConfiguration|Project Template Configuration]] form.
+3.  Fill in the fields on the Project Template Configuration form.
 
     For more information, see [Project template configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/project-template-form.md).
 
@@ -49,6 +49,3 @@ Role required: it\_pps\_admin
 
 [Project template configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTemplateConfiguration.md)
 
-## Related
-
-- [[c_ProjectTemplateConfiguration|Project template configuration]]

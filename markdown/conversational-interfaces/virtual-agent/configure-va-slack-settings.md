@@ -14,7 +14,7 @@ breadcrumb: [Conversational Integration with Slack, Integrate VA with messaging 
 
 # Configure Virtual Agent settings for Slack
 
-Configure your Slack bots that are integrated with the [[virtual-agent-landing-page|Virtual Agent]] to enable notifications, to link ServiceNow user profiles, and to set up system messages and contextual actions.
+Configure your Slack bots that are integrated with the Virtual Agent to enable notifications, to link ServiceNow user profiles, and to set up system messages and contextual actions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, click **View All**.
 
@@ -42,7 +42,7 @@ Role required: admin
 
     -   **System Messages**: Customize the default system messages displayed during Virtual Agent conversations.
 
-        For more information about changing or updating a system message, see [[ac-change-system-messages|Change system messages]].
+        For more information about changing or updating a system message, see [Change system messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-change-system-messages.md).
 
     -   **Contextual Actions**: Customize the supported actions per user command inputs.
 
@@ -54,15 +54,9 @@ You have the flexibility to customize the default ServiceNow branding for your S
 -   **[Configure branding for your self-configured bot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/slack-brand-self-configured.md)**  
 Configure your self-configured Slack app's branding. You have the flexibility to customize the default ServiceNow branding for the Slack self-configured bot name and icon.
 -   **[Pre-link Virtual Agent requesters before integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prelink-va-users-integ-slack.md)**  
-Pre-link your Virtual Agent requesters to a ServiceNow instance before they run the [[mssg-slack|Conversational Integration with Slack]]. Batch pre-linking enables your Virtual Agent users immediately to chat with a virtual agent and receive notifications without going through the initial authentication linking process.
+Pre-link your Virtual Agent requesters to a ServiceNow instance before they run the Conversational Integration with Slack. Batch pre-linking enables your Virtual Agent users immediately to chat with a virtual agent and receive notifications without going through the initial authentication linking process.
 -   **[Configure promoted topics for Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-slack-promoted-topics.md)**  
 Configure promoted topics to push out important, common topics for users' quick consumption during a conversation with the Slack bot. You can configure up to six different promoted topics to be displayed on the Slack channel greeting message.
 
 **Parent Topic:**[Conversational Integration with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/mssg-slack.md)
 
-## Related
-
-- [[ac-change-system-messages|Change Virtual Agent and Agent Chat system messages]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[mssg-slack|Conversational Integration with Slack]]

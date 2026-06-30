@@ -12,7 +12,7 @@ breadcrumb: [Using BCM Classic Workspace, Manage, Business Continuity Management
 
 # Customizing the Business Continuity Management classic Workspace
 
-You can set up the basic settings and features in the [[business-continuity-mangmt-overview|Business Continuity Management]] classic Workspace for your specific requirements.
+You can set up the basic settings and features in the Business Continuity Management classic Workspace for your specific requirements.
 
 **Note:** The BCM classic Workspace is being prepared for future deprecation. It will be hidden from the navigation on the new instances but it will continue to be supported. The BCM UIB Workspace provides the latest experience for this functionality.
 
@@ -20,6 +20,3 @@ For information on how to configure commonly used custom components in BCM class
 
 **Note:** You must log in to Now Support to view the Knowledge Base articles.
 
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

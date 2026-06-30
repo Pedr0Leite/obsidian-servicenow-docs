@@ -12,14 +12,14 @@ breadcrumb: [Now Assist for SFA, Sales Customer Relationship Management]
 
 # Exploring Now Assist for SFA
 
-With the [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]] application, sales agents can manage the lifecycle of leads by automating outreach, follow-up communications, demo bookings, and handling lead disinterest or opt-outs. It can operate independently or under human supervision, thereby streamlining engagement and demo scheduling.
+With the Now Assist for Sales Force Automation \(SFA\) application, sales agents can manage the lifecycle of leads by automating outreach, follow-up communications, demo bookings, and handling lead disinterest or opt-outs. It can operate independently or under human supervision, thereby streamlining engagement and demo scheduling.
 
 ## Now Assist for Sales Force Automation \(SFA\) overview
 
 Sales agents use the Now Assist for Sales Force Automation \(SFA\) AI agent collection to complete these tasks autonomously:
 
 1.  Follow-up/Nudge Emails: Automated follow-ups at defined intervals if leads do not respond, with escalation to sales agents for disqualification.
-2.  Demo Booking/Rebooking/Cancellation: Reviews lead email replies to book, reschedule, or [[cancel|cancel]] demos, checking sales agent calendars and sending confirmations.
+2.  Demo Booking/Rebooking/Cancellation: Reviews lead email replies to book, reschedule, or cancel demos, checking sales agent calendars and sending confirmations.
 3.  Lead Disinterest/Opt-Outs: Identifies disinterest or opt-out requests from emails, updating lead status and ensuring compliance \(for example, unsubscribe links\).
 
 ## Now Assist for Sales Force Automation \(SFA\) users
@@ -74,7 +74,7 @@ The agent is accessible via MCP clients \(such as Claude\) through the Sales CRM
 The agent supports the following operations on opportunity records and related entities, including contacts, tasks, touchpoints, meetings, line items, and competitors:
 
 -   **Retrieve**: view pipeline snapshots, opportunity details, tasks, touchpoints, contacts, accounts, and opportunity lines.
--   **Update**: change field values on opportunities and related records. Multi-field updates \(up to five [[fields|fields]] in one prompt\) and relative date expressions such as "end of next month" are supported.
+-   **Update**: change field values on opportunities and related records. Multi-field updates \(up to five fields in one prompt\) and relative date expressions such as "end of next month" are supported.
 -   **Create**: add opportunities, contacts, tasks, touchpoints, and competitors.
 -   **Delete**: remove junction or child records such as opportunity competitors and associated contacts. Parent records such as the opportunity itself, the contact record, or the product are never deleted.
 
@@ -82,13 +82,6 @@ The agent supports the following operations on opportunity records and related e
 
 To learn more about configuring and using Now Assist for Sales Force Automation \(SFA\), see:
 
--   [[configure-now-assist-som|Configure Now Assist for Sales Force Automation \(SFA\)]]
--   [[using-agentic-worklflows-in-lead-management|Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)]]
+-   [Configure Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-now-assist-som.md)
+-   [Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-agentic-worklflows-in-lead-management.md)
 
-## Related
-
-- [[configure-now-assist-som|Configure Now Assist for Sales Force Automation \(SFA\)]]
-- [[using-agentic-worklflows-in-lead-management|Use agentic workflows in Now Assist for Sales Force Automation \(SFA\)]]
-- [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]]
-- [[cancel|Cancel]]
-- [[fields|Fields]]

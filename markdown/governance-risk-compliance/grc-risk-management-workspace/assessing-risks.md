@@ -20,7 +20,7 @@ Assess the risks that you have configured and reassign the risks to relevant app
 
 Role required: sn\_grc.business\_user
 
-**Note:** You must manually assign the [[advanced-risk-assessment|advanced risk assessment]] roles to the sn\_grc.business\_user role. To understand how you can adjust granting of roles and groups, see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base.
+**Note:** You must manually assign the advanced risk assessment roles to the sn\_grc.business\_user role. To understand how you can adjust granting of roles and groups, see the [How to adjust granting of roles and groups to use background jobs \[KB0963693\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0963693) article in the Now Support Knowledge Base.
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Role required: sn\_grc.business\_user
 
     The work flow moves to the first risk assessment type. If a particular assessment type is not configured, then that section does not appear on the form.
 
-3.  To [[reassign-an-assessment|reassign an assessment]], click **Reassign** and enter the name of the person who you want to reassign the assessment to.
+3.  To reassign an assessment, click **Reassign** and enter the name of the person who you want to reassign the assessment to.
 
 4.  Click the Inherent Assessment section and answer the questions on the form.
 
@@ -45,7 +45,7 @@ Role required: sn\_grc.business\_user
         |Results|
         |Computed inherent risk|Inherent risk score.|
         |Override computed score|Option to override the computed inherent score.|
-        |Computed inherent ALE|Computed inherent ALE of the risk. The ALE is calculated based on the inherent assessment [[factors|factors]].|
+        |Computed inherent ALE|Computed inherent ALE of the risk. The ALE is calculated based on the inherent assessment factors.|
         |Override inherent risk|Value that was configured in the RAM form to override the computed inherent risk score. This field is available only when the **Override computed score** option is selected.|
         |Override inherent ALE|Value that overrides the computed inherent risk score. The value is used for rollup.|
         |Comments|Additional information that provides more details for the risk assessment approver. Users must enter a reason for overriding the computed score. This field is required when the **Override computed score** option is selected.|
@@ -65,7 +65,7 @@ Role required: sn\_grc.business\_user
         |Override computed score|Option for overriding the computed control effectiveness score.|
         |Comments|Additional information that provides more details for the risk assessment approver. This field is required when the **Override computed score** option is selected.|
 
-        **Note:** If you have selected **Individual assessment of controls** in the **Calculate based on** field in the [[control-assessment-form|Control Assessment form]], then you can create controls from the library, add existing controls, add new controls, or remove existing controls. Use guidance text for assistance in answering the factors. To determine if the control is compliant, see the Status column.
+        **Note:** If you have selected **Individual assessment of controls** in the **Calculate based on** field in the Control Assessment form, then you can create controls from the library, add existing controls, add new controls, or remove existing controls. Use guidance text for assistance in answering the factors. To determine if the control is compliant, see the Status column.
 
     2.  To create, add, or remove controls, perform one of the following actions:
 
@@ -151,7 +151,7 @@ To remove any control
 
 7.  To move to the next state and respond to the risks that you have assessed, click **Respond**.
 
-    1.  In the **[[risk-response|Risk Response]]** tab, click **Risk response** and select one or more risk responses from the following options:
+    1.  In the **Risk Response** tab, click **Risk response** and select one or more risk responses from the following options:
 
         -   **None**: Do not select any response for the risk.
         -   **Accept**: Accept and acknowledge the risk.
@@ -181,10 +181,3 @@ To view the summary of the assessment, click **Assessment Summary**.
 
 **Parent Topic:**[Perform Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-advanced-risk-assessment.md)
 
-## Related
-
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[reassign-an-assessment|Reassign an assessment]]
-- [[factors|factors]]
-- [[control-assessment-form|control assessment form]]
-- [[risk-response|risk response]]

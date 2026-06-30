@@ -50,7 +50,7 @@ Add Assigned Users To MS Group\[add\_assigned\_users\_to\_ms\_group\]
 
 </td><td>
 
-Handles adding the users in the **Assigned to** or **Additional Assignee list** fields of the [[t_CreateAProjectTask|project tasks]] to the project channel or team.
+Handles adding the users in the **Assigned to** or **Additional Assignee list** fields of the project tasks to the project channel or team.
 
 </td></tr><tr><td>
 
@@ -176,6 +176,3 @@ If you want to update the configuration for any of these flows, you can edit the
 
 [Flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/flows.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]

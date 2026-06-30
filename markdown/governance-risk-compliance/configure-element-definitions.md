@@ -12,7 +12,7 @@ breadcrumb: [BCM in the Classic Workspace, Configure, Business Continuity Manage
 
 # Configure element definitions for Business Continuity Management
 
-Configure element definitions to identify the configuration item that has to be assessed in a [[bia-uib|business impact analysis]] and recovered in a business continuity plan.
+Configure element definitions to identify the configuration item that has to be assessed in a business impact analysis and recovered in a business continuity plan.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_bcm.admin
 
 ## Procedure
 
-1.  Navigate to **Business Continuity** &gt; **General [[Administration|Administration]]** &gt; **Element Definitions**.
+1.  Navigate to **Business Continuity** &gt; **General Administration** &gt; **Element Definitions**.
 
 2.  Click **New**.
 
@@ -64,13 +64,9 @@ Requires data backup
 
 </td><td>
 
-Option to indicate if the primary element requires a data backup. Technology assets require data backup as they pertain to important IT information stored in a system or database.See [[view-bia-details|View business impact analysis details]].
+Option to indicate if the primary element requires a data backup. Technology assets require data backup as they pertain to important IT information stored in a system or database.See [View business impact analysis details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/view-bia-details.md).
 
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[view-bia-details|View business impact analysis details]]
-- [[bia-uib|Business impact analysis]]
-- [[Administration|Administration]]

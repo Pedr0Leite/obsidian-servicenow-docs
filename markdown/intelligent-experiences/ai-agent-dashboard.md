@@ -20,7 +20,7 @@ Track the AI agent use and efficiency gain on your instance through the AI Agent
 
 To use the AI Agent Analytics dashboard, you must have either the sn\_aia.viewer or the sn\_aia.admin role.
 
-If you want to change the dashboard, you must duplicate it and apply changes to the copy. You can redirect the Analytics page in [[ai-agent-studio|AI Agent Studio]] to the new dashboard by replacing the dashboard sys\_id in the system property **sn\_aia.analytics\_dashboard\_sysid**.
+If you want to change the dashboard, you must duplicate it and apply changes to the copy. You can redirect the Analytics page in AI Agent Studio to the new dashboard by replacing the dashboard sys\_id in the system property **sn\_aia.analytics\_dashboard\_sysid**.
 
 ## Accessing the AI Agent Analytics dashboard
 
@@ -32,7 +32,7 @@ You can also access the dashboard from the AI Agent Studio overview page. Go to 
 
 Most indicators are updated daily. The latency indicators are updated every 15 minutes.
 
-Once you have installed [[na-ai-agents|Now Assist AI Agents]], you can collect initial data by running the \[Now Assist AI Agents\] Historical Data Collection job. The other data collection jobs, \[Now Assist AI Agents\] Daily Data Collection and \[Now Assist AI Agents\] Periodic Data Collection, update the indicators.
+Once you have installed Now Assist AI Agents, you can collect initial data by running the \[Now Assist AI Agents\] Historical Data Collection job. The other data collection jobs, \[Now Assist AI Agents\] Daily Data Collection and \[Now Assist AI Agents\] Periodic Data Collection, update the indicators.
 
 <table><thead><tr><th>
 
@@ -200,7 +200,7 @@ Total number of CS conversations
 
 </td><td>
 
-Total number of conversations in [[now-assist-center-now-assist-panel|Now Assist panel]] or Virtual Agent.
+Total number of conversations in Now Assist panel or Virtual Agent.
 
 </td></tr><tr><td>
 
@@ -654,7 +654,7 @@ Bar chart
 
 </td><td>
 
-Most common user intents as interpreted by the LLM. Intents are grouped by [[group-action-framework|Group Action Framework]].
+Most common user intents as interpreted by the LLM. Intents are grouped by [Group Action Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/group-action-framework.md).
 
 </td></tr><tr><td>
 
@@ -1380,7 +1380,7 @@ List
 List of agentic workflow errors.
 
 </td></tr></tbody>
-</table>For more information on security [[controls|controls]] for agentic AI, see [[aia-security-implementation|Security for AI agents]].
+</table>For more information on security controls for agentic AI, see [Security for AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-security-implementation.md).
 
 <table><thead><tr><th>
 
@@ -1524,7 +1524,7 @@ Score card
 
 </td><td>
 
-Total number of agentic workflows without roles identified for [[aia-role-masking|role masking]] and data access.
+Total number of agentic workflows without roles identified for [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) and data access.
 
 </td></tr><tr><td>
 
@@ -1660,13 +1660,3 @@ List of AI agents running as an AI user.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[group-action-framework|Group Action Framework]]
-- [[aia-security-implementation|Implement access control in Now Assist AI agents]]
-- [[aia-role-masking|Role masking in Now Assist AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[controls|Controls]]

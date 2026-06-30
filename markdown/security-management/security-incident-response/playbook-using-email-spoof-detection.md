@@ -23,13 +23,13 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
 1.  When the playbook is triggered and starts executing, in Action 1, the playbook extracts the email domain from the phishing email.
 
-2.  In Action 2, the playbook retrieves all the domain/email address type [[c_Observables|observables]] tagged by the security tag 'Domain Spoofing Candidate'.
+2.  In Action 2, the playbook retrieves all the domain/email address type observables tagged by the security tag 'Domain Spoofing Candidate'.
 
 3.  In Action 3, the playbook calculates the similarity between the Get Tagged domain and Email domain using the Levenshtein algorithm.
 
@@ -50,7 +50,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for Email Domain Spoofing Detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-email-spoof-detection.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]

@@ -14,7 +14,7 @@ breadcrumb: [Run Reports, HR Dashboards &amp; Reports, Case and Knowledge Manage
 
 # Available HR reports
 
-Predefined HR reports are available in the **HR [[case-management-workspace|Case Management]]** &gt; **Reports** list.
+Predefined HR reports are available in the **HR Case Management** &gt; **Reports** list.
 
 |Report name|Description|Displays|
 |-----------|-----------|--------|
@@ -41,6 +41,3 @@ Predefined HR reports are available in the **HR [[case-management-workspace|Case
 
 [HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[case-management-workspace|Case management]]

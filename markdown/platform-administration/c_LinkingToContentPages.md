@@ -12,7 +12,7 @@ breadcrumb: [Links to records, Create an email notification, Email and SMS notif
 
 # Content page links in email notifications
 
-Links to CMS pages can be put in [[notifications|notifications]] to make it easy for the reader to access the pages.
+Links to CMS pages can be put in notifications to make it easy for the reader to access the pages.
 
 The link takes the following format: **$\{CMS\_URI+&lt;site&gt;/&lt;page&gt;\}**.
 
@@ -20,9 +20,5 @@ For example, to link the email recipient to a page called Incident in the conten
 
 The resulting email URL has this format: `https://<instance name>.service-now.com/ess/incident_detail.do?sysparm_document_key=incident,46e18c0fa9fe19810066a0083f76bd56`
 
-**Parent Topic:**[[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
+**Parent Topic:**[Links to records in email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EnablingLinksToServiceNowRecords.md)
 
-## Related
-
-- [[c_EnablingLinksToServiceNowRecords|Links to records in email notifications]]
-- [[notifications|Notifications]]

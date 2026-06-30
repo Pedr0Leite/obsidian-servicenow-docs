@@ -14,7 +14,7 @@ breadcrumb: [Create resource assignments using Project Workspace, Resource assig
 
 # Create an attribute-based resource assignment
 
-Create an attribute-based resource assignment in [[project-workspace-landing-page|Project Workspace]]. You can pre-define attributes based on your requirement.
+Create an attribute-based resource assignment in Project Workspace. You can pre-define attributes based on your requirement.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Role required: pps\_admin or it\_project\_manager
 
 6.  From the resource assignee list, select a user or group and press **Enter**.
 
-    You can create new custom attributes, such as location, in addition to group, skill, and role, and can also leverage these custom attributes to [[create-rsrc-asgnmnts-ppm|create resource assignments]].
+    You can create new custom attributes, such as location, in addition to group, skill, and role, and can also leverage these custom attributes to create resource assignments.
 
 
 ## Result
@@ -51,7 +51,3 @@ A resource assignment record for an attribute is created and auto-saved.
 
 **Parent Topic:**[Create resource assignments using Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-resource-assignment-prj-wksp.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]

@@ -24,7 +24,7 @@ Role required: user must have contributor access to the knowledge base.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Knowledge** &gt; **[[knowledge-blocks|Knowledge Blocks]]** &gt; **Create New**.
+1.  Navigate to **All** &gt; **Knowledge** &gt; **Knowledge Blocks** &gt; **Create New**.
 
 2.  Click **New** or open a record.
 
@@ -68,7 +68,7 @@ Ownership Group
 
 </td><td>
 
-Ownership group for the knowledge block. This field appears when the [[enable-ownership-group|ownership groups]] feature is enabled.Knowledge blocks can be used with or without the ownership groups feature. To learn more about ownership groups, including how to enable the feature, see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md).
+Ownership group for the knowledge block. This field appears when the ownership groups feature is enabled.Knowledge blocks can be used with or without the ownership groups feature. To learn more about ownership groups, including how to enable the feature, see [Ownership groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/enable-ownership-group.md).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Version
 
 </td><td>
 
-This field is automatically set to a version number when the [[article-versioning|article versioning]] feature is enabled.Knowledge blocks can be used with or without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
+This field is automatically set to a version number when the article versioning feature is enabled.Knowledge blocks can be used with or without the article versioning feature. To learn more about article versioning, including how to disable the feature, see [Article versioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/article-versioning.md).
 
 </td></tr><tr><td>
 
@@ -126,7 +126,7 @@ Article type
 
 </td><td>
 
-This field is automatically set to [[html|HTML]].**Note:** Knowledge blocks are only supported with HTML knowledge articles.
+This field is automatically set to HTML.**Note:** Knowledge blocks are only supported with HTML knowledge articles.
 
 </td></tr><tr><td>
 
@@ -163,9 +163,3 @@ You can retire a published knowledge block so that it's no longer available for 
 
 **Parent Topic:**[Using knowledge blocks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowlege-blocks.md)
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]
-- [[enable-ownership-group|Ownership groups]]
-- [[article-versioning|Article versioning]]
-- [[html|HTML]]

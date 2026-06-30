@@ -14,7 +14,7 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 # Quick start tests for Service Level Management
 
-Validate that [[service-level-mgmt-landing-page|Service Level Management]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Service Level Management still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Service Level Management quick start tests require activating the Service Level Management - ATF Tests plugin \(com.snc.service\_level\_management.atf\).
 
@@ -22,7 +22,7 @@ Service Level Management quick start tests require activating the Service Level 
 |----|-----------|---------------|
 |SLM: Service Level Management Task SLA completed workflow|Tests that a user can create a task SLA and complete the workflow.|Orlando|
 |SLM: Service Level Management Task SLA cancelled workflow|Tests that a user can create a task SLA and cancel the workflow.|Orlando|
-|SLM: Service Level Management Task [[sla-timer|SLA timer]] REST API|Tests that the SLA Timer API response matches data expected by SLA Timer Seismic component.|Paris|
+|SLM: Service Level Management Task SLA timer REST API|Tests that the SLA Timer API response matches data expected by SLA Timer Seismic component.|Paris|
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
@@ -31,7 +31,3 @@ Service Level Management quick start tests require activating the Service Level 
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[sla-timer|SLA timer]]

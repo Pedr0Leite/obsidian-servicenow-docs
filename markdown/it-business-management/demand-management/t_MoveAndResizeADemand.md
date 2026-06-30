@@ -58,17 +58,13 @@ Moving and resizing bubbles in the bubble chart updates the corresponding values
 
 [Delete demands]()
 
-[Train the similarity solution for [[c_DemandManagement|Demand Management]] to find similar demands]()
+[Train the similarity solution for Demand Management to find similar demands]()
 
 [PPM PIWB template - Find similar demands]()
 
-[Identify similar records using Now Assist for [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\)]()
+[Identify similar records using Now Assist for Strategic Portfolio Management \(SPM\)]()
 
 [Summarize demands with demand summarization skill]()
 
 [Associate AI systems with demands]()
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

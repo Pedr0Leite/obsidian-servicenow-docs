@@ -14,7 +14,7 @@ breadcrumb: [Install Virtual Agent plugins, Activate and get started, Virtual Ag
 
 # Prebuilt Virtual Agent topics, topic blocks, and ServiceNow NLU models
 
-Prebuilt [[virtual-agent-landing-page|Virtual Agent]] conversations \(topics\), reusable topic blocks, and ServiceNow NLU models are available for the Virtual Agent platform and various business applications, such as Customer Service [[management|Management]], HR Service Delivery, IT Service Management, and more.
+Prebuilt Virtual Agent conversations \(topics\), reusable topic blocks, and ServiceNow NLU models are available for the Virtual Agent platform and various business applications, such as Customer Service Management, HR Service Delivery, IT Service Management, and more.
 
 These predefined conversations help users with common self-service tasks in each business area, such as creating or updating cases or providing answers to frequently asked questions. Prebuilt topic blocks are reusable components \(similar to subflows\) that perform a specific function or task and can be added to a conversation topic. Prebuilt NLU models define the business-specific language understanding needed for Virtual Agent to understand and process user requests. Each NLU intent in a model maps to a single Virtual Agent conversation topic.
 
@@ -112,7 +112,3 @@ For details on creating, testing \(previewing\), duplicating, and publishing a t
 
 For details on creating, training, and publishing ServiceNow NLU models, see [Natural Language Understanding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-landing.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

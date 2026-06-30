@@ -28,15 +28,15 @@ Not all elements require data backup, however technology assets like IT hardware
 
 2.  Click the lists icon \(\[Omitted image "ListsIcon.jpg"\] Alt text: Lists icon.\).
 
-    By default the records in the **In Draft** state of the [[bia-uib|Business Impact Analysis]] list opens.
+    By default the records in the **In Draft** state of the Business Impact Analysis list opens.
 
-3.  To [[create-bia-in-uib-ws|create a business impact analysis]] \(BIA\) record, click **New**.
+3.  To create a business impact analysis \(BIA\) record, click **New**.
 
 4.  To update an existing BIA, click the link to the record in the **Name** column.
 
 5.  To assess a BIA of its recovery point objective, click the **RPO Impact Assessment** tab.
 
-    The **RPO Impact Assessment** tab appears only if you, as a BCM administrator, had set the **Requires data backup** field as **Yes** in the [[configure-element-definitions|Configure element definitions for Business Continuity Management]].
+    The **RPO Impact Assessment** tab appears only if you, as a BCM administrator, had set the **Requires data backup** field as **Yes** in the [Configure element definitions for Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-element-definitions.md).
 
 6.  Enter the data value of the asset in terms of its RPO impact on the business in the **Response** cell of the Data Value grid.
 
@@ -67,8 +67,3 @@ The impact rating has an integer value preconfigured in the Impact Rating table 
 
 The mapping results of the threshold score and the timeframe are stored in the Score timeframe mapping table \[sn\_bia\_score\_timeframe\_mapping\].
 
-## Related
-
-- [[configure-element-definitions|Configure element definitions for Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]
-- [[create-bia-in-uib-ws|Create a business impact analysis]]

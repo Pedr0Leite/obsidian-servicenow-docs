@@ -15,7 +15,7 @@ breadcrumb: [AI assets, Explore, AI Risk and Compliance, Governance, Risk, and C
 
 # 360° Relationship Visualization of an AI asset
 
-Use the 360° AI asset view to explore the relationship between your [[ai-assets-airc|AI assets]] and all its associated records in a distinctive visualization. To use this feature, you must integrate [[ai-risk-and-compliance|AI Risk and Compliance]] with the 360° Relationship Visualization application.
+Use the 360° AI asset view to explore the relationship between your AI assets and all its associated records in a distinctive visualization. To use this feature, you must integrate AI Risk and Compliance with the 360° Relationship Visualization application.
 
 ## 360° view of an AI asset
 
@@ -35,14 +35,14 @@ The 360° view provides a visual map of all records associated with an AI asset.
 
 -   **Related AI Assets**
 
-    Shows other AI assets that are linked to the selected asset. For example, [[dataset-airc|datasets]] or [[ai-model-airc|AI models]] that share dependencies or are part of the same workflow.
+    Shows other AI assets that are linked to the selected asset. For example, datasets or AI models that share dependencies or are part of the same workflow.
 
 -   **Includes**
 
     This section lists records that are directly included within the AI asset’s scope:
 
     -   AI assessments: Shows the list of AI assessments associated with the AI asset.
-    -   [[risk-assessments|Risk assessments]]: Shows the list of risk assessments associated with the AI asset.
+    -   Risk assessments: Shows the list of risk assessments associated with the AI asset.
     -   Tasks: Shows the list of AI asset tasks associated with the AI asset.
 -   **Applies to**
 
@@ -51,10 +51,3 @@ The 360° view provides a visual map of all records associated with an AI asset.
     -   Risks: Shows the list of risks associated with the AI asset.
     -   Controls: Shows the list of controls associated with the AI asset.
 
-## Related
-
-- [[ai-assets-airc|AI assets]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[dataset-airc|Datasets]]
-- [[ai-model-airc|AI models]]
-- [[risk-assessments|risk assessments]]

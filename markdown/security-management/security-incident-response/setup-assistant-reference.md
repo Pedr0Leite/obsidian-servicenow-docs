@@ -14,7 +14,7 @@ breadcrumb: [Install and configure Security Incident Response, Security Incident
 
 # Setup Assistant reference
 
-The Setup Assistant walks you through the steps you need to perform to set up the [[sir-landing-page|Security Incident Response]] base system. This section provides additional information on the complicated steps for which you may require more explanation.
+The Setup Assistant walks you through the steps you need to perform to set up the Security Incident Response base system. This section provides additional information on the complicated steps for which you may require more explanation.
 
 ## Roles
 
@@ -22,8 +22,8 @@ The Setup Assistant requires the sn\_secops\_setup.admin role for full access to
 
 The following access levels are enforced through the sn\_secops\_setup.admin role:
 
--   Setup Assistant SIR Admin - Access to [[setup-sir|Security Incident Response setup]] configuration.
--   Setup Assistant VR Admin - Access to [[vuln-landing-page|Vulnerability Response]] setup configuration.
+-   Setup Assistant SIR Admin - Access to Security Incident Response setup configuration.
+-   Setup Assistant VR Admin - Access to Vulnerability Response setup configuration.
 -   Setup Assistant VR/SIR Admin - Access to combined Vulnerability Response and Security Incident Response setup configuration.
 -   Setup Assistant System Admin - Access to system-level setup assistant operations.
 
@@ -487,7 +487,7 @@ Role required: sn\_si.admin
 
 ### Create a security incident calculator
 
-Security incident calculators allow you to [[calculate-si-severity|calculate the severity of a security incident]] based on pre-defined formulas. You can define your own security incident calculators, as needed.
+Security incident calculators allow you to calculate the severity of a security incident based on pre-defined formulas. You can define your own security incident calculators, as needed.
 
 #### Before you begin
 
@@ -594,7 +594,7 @@ Use filter group
 
 </td><td>
 
-Select this check box to use a predefined filter group or [[create-filter-group|create a new filter group]] to define the calculator criteria.
+Select this check box to use a predefined filter group or [create a new filter group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-filter-group.md) to define the calculator criteria.
 
 </td></tr><tr><td>
 
@@ -612,7 +612,7 @@ Use advanced condition
 
 Select this check box to indicate that a script condition is used to determine when this calculator is applied. When you select the check box, an **Advanced condition** scripting field appears.If you selected the **Use filter group** check box, this field is hidden.
 
- **Note:** Before you define advanced conditions and write scripts for determining when the security incident calculators are applied, return to the Security Incident Calculators list. [[threat-intelligence-security-center-overview|Explore]] the calculator records shipped with the base system.
+ **Note:** Before you define advanced conditions and write scripts for determining when the security incident calculators are applied, return to the Security Incident Calculators list. Explore the calculator records shipped with the base system.
 
 </td></tr><tr><td>
 
@@ -747,7 +747,7 @@ This severity calculator defines its selection criteria using an advanced condit
 
 </td></tr><tr><td>
 
-Set priority with [[c_Observables|observables]]
+Set priority with observables
 
 </td><td>
 
@@ -758,7 +758,7 @@ This severity calculator defines its selection criteria using an advanced condit
     -   Denial of Service
     -   Spear Phishing
     -   Malicious code activity
--   One of the associated observables or [[indicator|indicators]] has a sighting count that exceeds two [[indicator-sightings|sightings]] with active indicators \(that is, the observables or indicators are confirmed as being bad from multiple sources\).
+-   One of the associated observables or indicators has a sighting count that exceeds two sightings with active indicators \(that is, the observables or indicators are confirmed as being bad from multiple sources\).
 
 **Note:** This calculator is available in the base system when you have the Advanced Security Operation pricing tier and you activate the Threat Feeds plugin.
 
@@ -827,7 +827,7 @@ The **Set priority with category and services** and **Set priority with observab
 -   Update risk score
 -   Update SI risk score
 
-**Note:** The risk calculator available in the base system depends on your [[security-operations-landing-page|Security Operations]] pricing tier.
+**Note:** The risk calculator available in the base system depends on your Security Operations pricing tier.
 
 When you look at a list of security incidents in the base system, notice the **Risk score** column.
 
@@ -858,7 +858,7 @@ The work notes are updated when the following fields are changed \(causing the r
 -   **Severity** on the Security Incident form \(hidden by default\)
 -   **Business impact** on the **Affected Users** related list
 -   **Business impact** on the **Affected Services** related list
--   **Business impact** on [[vulnerabilities|vulnerabilities]] on the **Vulnerable items** related list
+-   **Business impact** on vulnerabilities on the **Vulnerable items** related list
 
 Additionally, the work notes are updated in the following situations:
 
@@ -1063,16 +1063,3 @@ This example shows a matching rule for handling user-reported phishing.
 
 \[Omitted image "cj-sir-email-match-example.png"\] Alt text: Email matching rule
 
-## Related
-
-- [[create-filter-group|Create and define filter groups in Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[setup-sir|Security Incident Response setup]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[calculate-si-severity|Calculate the severity of a security incident]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[indicator-sightings|Sightings]]
-- [[security-operations-landing-page|Security Operations]]
-- [[vulnerabilities|Vulnerabilities]]

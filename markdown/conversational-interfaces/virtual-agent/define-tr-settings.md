@@ -32,9 +32,9 @@ When configuring analysis reports, consider the following:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
-2.  Select **[[virtual-agent-landing-page|Virtual Agent]]**.
+2.  Select **Virtual Agent**.
 
 3.  Under Topic Recommendations, click **View all**.
 
@@ -49,10 +49,5 @@ When configuring analysis reports, consider the following:
 
 ## Result
 
-The data source that you defined for a given table and taxonomy displays as a section on the [[topic-recommendations-page|Topic Recommendations page]]. You can now [run a topic recommendation analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/run-tr-analysis.md).
+The data source that you defined for a given table and taxonomy displays as a section on the Topic Recommendations page. You can now [run a topic recommendation analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/run-tr-analysis.md).
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-recommendations-page|Topic Recommendations page]]

@@ -14,11 +14,11 @@ breadcrumb: [Using Cloud Cost Management, Cloud Cost Management, IT Asset Manage
 
 # Manage unused resources
 
-Reduce cost by identifying the [[um-cloudin|unused resources]] and scheduling jobs to power-off or terminate the unused resources.
+Reduce cost by identifying the unused resources and scheduling jobs to power-off or terminate the unused resources.
 
 You can [configure Unused resources operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/um-settings-config-cloudin.md) by selecting **Settings**.
 
-\[Omitted image "unused-res-ws.png"\] Alt text: Unused resources recommendations in [[ci-workspace|Cloud Cost Management Workspace]].
+\[Omitted image "unused-res-ws.png"\] Alt text: Unused resources recommendations in Cloud Cost Management Workspace.
 
 |Chart|Description|
 |-----|-----------|
@@ -43,7 +43,7 @@ New
 
 </td><td>
 
-Resources that are candidates for Unused resources. Each successful execution of a Billing Download job triggers the Budget Forecast, [[bh-cloudin|Business Hours]], Reservation Plans, Rightsizing, and Unused resources jobs to analyze the spend and usage data of resources and to update the actionable recommendations in reports.**Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. [[cloud-insights-landing-page|Cloud Cost Management]] doesn’t generate the recommendations.
+Resources that are candidates for Unused resources. Each successful execution of a Billing Download job triggers the Budget Forecast, Business Hours, Reservation Plans, Rightsizing, and Unused resources jobs to analyze the spend and usage data of resources and to update the actionable recommendations in reports.**Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. Cloud Cost Management doesn’t generate the recommendations.
 
 </td><td>
 
@@ -250,9 +250,3 @@ View and manage the upcoming and completed Unused resources jobs.
 
 **Parent Topic:**[Using Cloud Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/using-cloud-insights.md)
 
-## Related
-
-- [[um-cloudin|Unused resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[bh-cloudin|Business hours]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

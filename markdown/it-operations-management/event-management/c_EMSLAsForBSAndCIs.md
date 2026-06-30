@@ -14,13 +14,13 @@ breadcrumb: [Manage and monitor alerts, Configuring Event Management, Event Mana
 
 # SLAs for application services and CIs
 
-[[c_EM|Event Management]] supports the creation of SLAs for application services and for CIs.
+Event Management supports the creation of SLAs for application services and for CIs.
 
 You can monitor and manage the quality of the application services offered by your organization. For example, you might want to set up an SLA that is triggered when the max alert severity of an application service or CI is **Critical**, and measure the time it takes to bring the application service or CI back to the **OK** state, when the conditions that caused the alert have been resolved.
 
 ## SLAs and the Task table
 
-You can create SLA definitions only for tables that extend the Task table. The Event Management application provides a table named Event Management SLA \[em\_ci\_severity\_task\], which extends the Task table. Use this table in your SLA definitions to specify the severity level that should trigger and stop the SLA. During [[c_EMImpactCalculation|alert impact calculation]], changes in the severity level of application services and CIs are automatically updated in the Event Management SLA table. [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/r_InstalledWithEventManagement.md) keep the information in this table up to date.
+You can create SLA definitions only for tables that extend the Task table. The Event Management application provides a table named Event Management SLA \[em\_ci\_severity\_task\], which extends the Task table. Use this table in your SLA definitions to specify the severity level that should trigger and stop the SLA. During alert impact calculation, changes in the severity level of application services and CIs are automatically updated in the Event Management SLA table. [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/r_InstalledWithEventManagement.md) keep the information in this table up to date.
 
 ## How the Event Management SLA table is populated
 
@@ -38,7 +38,3 @@ You can create SLA definitions for CIs and application services just as you can 
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_EMImpactCalculation|Alert impact calculation]]

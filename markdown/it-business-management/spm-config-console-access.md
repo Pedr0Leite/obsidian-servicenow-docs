@@ -14,7 +14,7 @@ breadcrumb: [Setup Hub \(SPM\), Strategic Portfolio Management]
 
 # Access Setup Hub \(SPM\)
 
-Use Open Setup Hub from the Admin Home page to start setting up [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) applications for your organization.
+Use Open Setup Hub from the Admin Home page to start setting up Strategic Portfolio Management \(SPM\) applications for your organization.
 
 ## Before you begin
 
@@ -36,9 +36,6 @@ Role required: admin
 
 5.  Complete the tasks for each module in the setup.
 
-    For a complete listing of modules and the per-application setup task each item links to, see [[spm-config-console-modules|Modules in Setup Hub \(SPM\)]].
+    For a complete listing of modules and the per-application setup task each item links to, see [Modules in Setup Hub \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/spm-config-console-modules.md).
 
-## Related
 
-- [[spm-config-console-modules|Modules in Setup Hub \(SPM\)]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]

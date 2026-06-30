@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Equipment extension classes
 
-The Equipment extension classes are the subclasses that are extended from the telco equipment, network gear, and hardware tables. You can define equipment records for these classes in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Equipment extension classes are the subclasses that are extended from the telco equipment, network gear, and hardware tables. You can define equipment records for these classes in the Telecommunications Network Inventory application.
 
 |Class Name|Table Name|Extends generic CI class|Description|
 |----------|----------|------------------------|-----------|
@@ -99,6 +99,3 @@ The Equipment extension classes are the subclasses that are extended from the te
 
 [Create a telecommunications equipment instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-equipment-type.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

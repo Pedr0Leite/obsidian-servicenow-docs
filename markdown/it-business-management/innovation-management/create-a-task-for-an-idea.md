@@ -49,14 +49,10 @@ Create a task such as a demand, project, story, SAFe epic, SAFe feature, or SAFe
     -   SAFe epic
     -   SAFe feature
     -   SAFe story
-    These task options are based on the installed plugins such as PPM Standard, [[agile-landing-page|Agile Development 2.0]], and [[SAFeoverview|Scaled Agile Framework \(SAFe\)]].
+    These task options are based on the installed plugins such as PPM Standard, Agile Development 2.0, and Scaled Agile Framework \(SAFe\).
 
     **Note:** You must also have the appropriate role based on the plugins to create these task types.
 
 
 **Parent Topic:**[Managing ideas using Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/using-innovation-management.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

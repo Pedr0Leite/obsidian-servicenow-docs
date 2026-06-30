@@ -12,7 +12,7 @@ breadcrumb: [Configure assets, Product data, Set up your environment, Configure,
 
 # Import assets with guided setup
 
-Use [[c_CustomerServiceManagement|Customer Service Management]] guided setup to import existing assets.
+Use Customer Service Management guided setup to import existing assets.
 
 ## Before you begin
 
@@ -36,6 +36,4 @@ There are different types of assets and information for each type of asset is st
 
 6.  Verify that the data records are imported into the target table.
 
-## Related
 
-- [[c_CustomerServiceManagement|Customer Service Management]]

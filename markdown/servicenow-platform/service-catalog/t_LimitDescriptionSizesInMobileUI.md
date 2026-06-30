@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Catalog Administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Administration** &gt; **Properties**.
 
 2.  Set the **Limit descriptions in category and item listings to two rows in the Mobile UI** property \(glide.sc.mobile.limit.description\) to **No**.
 
@@ -55,6 +55,3 @@ If set to **No**, the full descriptions are given
 
 [Define the mobile layout]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]

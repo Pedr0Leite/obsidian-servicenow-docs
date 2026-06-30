@@ -14,7 +14,7 @@ breadcrumb: [Install Universal Request integration, Plan your installation, Inte
 
 # Approve application restricted caller access privileges
 
-Approve restricted caller access \(RCA\) privileges in the target scope so that you can provide scope access privileges. Approving the RCA privileges enables the script includes in [[ur-landing-limitedaccess|Universal Request]] scope to be accessed from the [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] scope.
+Approve restricted caller access \(RCA\) privileges in the target scope so that you can provide scope access privileges. Approving the RCA privileges enables the script includes in Universal Request scope to be accessed from the Universal Request integration with Microsoft Teams scope.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ The RCA is approved. The records get updated as shown in the following figure. T
 
 **Parent Topic:**[Install Universal Request integration with Microsoft Teams application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/install-ur-ms-teams-app.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]

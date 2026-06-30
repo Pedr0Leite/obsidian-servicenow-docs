@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites for performing top-down discovery using Service Mappi
 
 # SNMP-based queries
 
-[[c_ServiceMappingOverview|Service Mapping]] accesses network infrastructure devices like load balancers and routers using Simple Network Management Protocol \(SNMP\) v1/v2c/v3. Configure SNMP community credentials to enable this type of access.
+Service Mapping accesses network infrastructure devices like load balancers and routers using Simple Network Management Protocol \(SNMP\) v1/v2c/v3. Configure SNMP community credentials to enable this type of access.
 
 Configure SNMP community if you use SNMP v1/v2 or SNMPv3 credentials if you use SNMP v3. For operational information, see [SSH credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_SSHCredentialsForm.md).
 
@@ -145,7 +145,7 @@ Make sure that the user has credentials for SNMPv3 unless read-only community st
 
 ## IBM WebSphere DataPower
 
--   For horizontal [[r-discovery|discovery]] of the Data Power Hosting Server \[cmdb\_ci\_datapower\_server\]:
+-   For horizontal discovery of the Data Power Hosting Server \[cmdb\_ci\_datapower\_server\]:
     -   1.3.6.1.2.1.1.1
     -   1.3.6.1.2.1.1.5
     -   1.3.6.1.2.1.4.20.1
@@ -200,7 +200,3 @@ Make sure that the user has credentials for SNMPv3 unless read-only community st
 
 [ITOM Content Service reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/itom-content-service-classifiers.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

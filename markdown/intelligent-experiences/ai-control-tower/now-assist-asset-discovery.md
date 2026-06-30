@@ -14,9 +14,9 @@ breadcrumb: [Explore, AI Control Tower, Enable AI experiences]
 
 # Explore Now Assist AI asset discovery
 
-Explore the synchronizing process of [[ai-assets|AI assets]] including models, [[ai-datasets|datasets]], [[ai-prompts|prompts]], skills, and agentic AI components into the [[ai-inventory|AI Asset Inventory]] of [[ai-control-tower-landing|AI Control Tower]].
+Explore the synchronizing process of AI assets including models, datasets, prompts, skills, and agentic AI components into the AI Asset Inventory of AI Control Tower.
 
-The [[ai-system|AI systems]] are synchronized from source [[platform-now-assist-landing|Now Assist]] skill config record \(sn\_nowassist\_skill\_config\).
+The AI systems are synchronized from source Now Assist skill config record \(sn\_nowassist\_skill\_config\).
 
 1.  The default skill meets the following conditions for an AI system:
     1.  If active, insert
@@ -195,7 +195,7 @@ All agent-tool mappings
 
 Agent Use
 
- [[cases|cases]]
+ cases
 
 </td><td>
 
@@ -240,13 +240,3 @@ All usecase-agent mappings
 </td></tr></tbody>
 </table>Refer to the [KB2674041](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2674041) article in the Now Support Knowledge Base to learn about Model, dataset, prompt, and skill sync process.
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[ai-prompts|Prompts]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-system|AI systems]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[cases|Cases]]

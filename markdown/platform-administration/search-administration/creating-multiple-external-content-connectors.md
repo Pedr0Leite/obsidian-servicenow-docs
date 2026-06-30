@@ -15,15 +15,15 @@ breadcrumb: [Creating external content connectors, Explore, External Content Con
 
 # Creating multiple external content connectors of the same type
 
-Admins can create multiple [[ext-cont-connectors-landing-page|external content connectors]] of the same type on a single ServiceNow AI Platform® instance. These connectors can crawl different source systems or the same source system. Connectors that crawl the same source system can include overlapping crawl locations.
+Admins can create multiple external content connectors of the same type on a single ServiceNow AI Platform® instance. These connectors can crawl different source systems or the same source system. Connectors that crawl the same source system can include overlapping crawl locations.
 
 ## Supported configurations
 
-The system supports these [[clone-configurations-tab|configurations]] for multiple external content connectors of the same type running on the same ServiceNow AI Platform instance.
+The system supports these configurations for multiple external content connectors of the same type running on the same ServiceNow AI Platform instance.
 
 -   **Multiple external content connectors of the same type that crawl different source systems**
 
-    For example, one [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]] crawls sites 1A and 1B in source system 1, while a second Microsoft SharePoint Online external content connector crawls sites 2A and 2B in source system 2. The two external content connectors have no sites in common, so there's no duplication of retrieved content.
+    For example, one Microsoft SharePoint Online external content connector crawls sites 1A and 1B in source system 1, while a second Microsoft SharePoint Online external content connector crawls sites 2A and 2B in source system 2. The two external content connectors have no sites in common, so there's no duplication of retrieved content.
 
 -   **Multiple external content connectors of the same type that crawl the same source system with distinct crawl scopes**
 
@@ -44,7 +44,7 @@ When you create multiple external content connectors of the same type on the sam
 
 -   **During indexing of crawled content, retrieved items are deduplicated across all external content connectors of the same type**
 
-    As an example, if two different Microsoft SharePoint Online external content connectors both retrieve the same file from the same site, only one copy of the retrieved file is indexed and appears in your search [[hs-results|results]].
+    As an example, if two different Microsoft SharePoint Online external content connectors both retrieve the same file from the same site, only one copy of the retrieved file is indexed and appears in your search results.
 
 -   **User permissions are specific to an individual external content connector, not shared between all external content connectors of the same type**
 
@@ -74,9 +74,3 @@ When creating multiple external content connectors of the same type on the same 
 
 **Parent Topic:**[Creating external content connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/creating-ext-cont-connectors.md)
 
-## Related
-
-- [[ext-cont-connectors-landing-page|External Content Connectors]]
-- [[clone-configurations-tab|Configurations]]
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]
-- [[hs-results|Results]]

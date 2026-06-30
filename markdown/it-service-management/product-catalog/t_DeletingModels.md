@@ -22,7 +22,7 @@ Role required: model\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **All [[c_Models|Models]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **All Models**.
 
 2.  Select the check box beside the product model.
 
@@ -33,7 +33,3 @@ Role required: model\_manager
 
 **Parent Topic:**[Models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/product-catalog/c_Models.md)
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[c_Models|Models]]

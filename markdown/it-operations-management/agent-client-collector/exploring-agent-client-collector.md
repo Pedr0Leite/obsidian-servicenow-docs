@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector, IT Operations Management]
 
 # Exploring Agent Client Collector
 
-The [[acc-landing-page|Agent Client Collector]] Framework \(ACC-F\) is a powerful solution for monitoring the performance and health of infrastructure components by using agents installed on servers and devices. It collects and sends critical system data to ServiceNow for analysis, enabling proactive management and troubleshooting of Configuration Items \(CIs\).
+The Agent Client Collector Framework \(ACC-F\) is a powerful solution for monitoring the performance and health of infrastructure components by using agents installed on servers and devices. It collects and sends critical system data to ServiceNow for analysis, enabling proactive management and troubleshooting of Configuration Items \(CIs\).
 
 ## Agent Client Collector Framework overview
 
@@ -31,7 +31,7 @@ The following illustration describes the layout and data flow within the Agent C
 3.  MID Server communication: The agent sends the collected data to the ServiceNow instance through a dedicated MID Server. The MID Server acts as a secure communication bridge between the infrastructure and the ServiceNow platform, ensuring data is transmitted reliably and securely.
 4.  Data Storage: Upon receiving the data, the ServiceNow instance stores the events and performance metrics in the relevant database. This data is then associated with the respective Configuration Items \(CIs\) within the ServiceNow CMDB Configuration Management Database \(CMDB\), enabling efficient tracking and reporting.
 5.  Data Analysis and Reporting: The collected data is analyzed within the ServiceNow instance, where it is used for monitoring, troubleshooting, and reporting purposes. This analysis helps identify potential issues or areas of improvement, triggering alerts or actions to resolve problems proactively.
-6.  Feedback Loop: Based on the analysis, the system can trigger [[ccg-remediation|remediation]] actions, such as running corrective scripts, reconfiguring settings, or notifying responsible teams for further investigation. The feedback is looped back into the system, allowing for continuous monitoring and optimization.
+6.  Feedback Loop: Based on the analysis, the system can trigger remediation actions, such as running corrective scripts, reconfiguring settings, or notifying responsible teams for further investigation. The feedback is looped back into the system, allowing for continuous monitoring and optimization.
 
 ## Agent Client Collector Framework benefits
 
@@ -39,14 +39,9 @@ Agent Client Collector Framework provides data to other Agent Client Collector c
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Monitor your system’s health, performance, and availability through automated collection of events and metrics, leveraging automated configurations.|[Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-landing-page.md)|NOC User, [[c_EM|Event Management]] administrator|
+|Monitor your system’s health, performance, and availability through automated collection of events and metrics, leveraging automated configurations.|[Agent Client Collector Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-monitoring-landing-page.md)|NOC User, Event Management administrator|
 |Track server inventory, software installations and usage continuously with non-admin access and minimal network communication.|[How Agent Client Collector for Visibility - Content works](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/how-acc-v-works.md)|CMDB/Discovery administrator|
 |Gather detailed inventory data of devices not connected to your network or running in isolated environments \(air-gapped\).|[Agent Client Collector Framework Air Gapped Configuration Item Management Solution](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585753)|CMDB/Discovery administrator|
 |Minimize triage time of incidents by direct access of live device details and interactions to remediate.|[View live CI data with Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-live-ci-view.md)|ITSM user|
 |Stream log data into your instance to predict problems and solve them before they happen, to minimize user impact.|[Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md)|Agent Client Collector administrator|
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[ccg-remediation|Remediation]]
-- [[c_EM|Event Management]]

@@ -20,7 +20,7 @@ This activity implements the Microsoft Exchange [Move-AddressList](https://techn
 
 The Exchange server caches the changes from this activity but does not immediately apply them. Use the [Update Address List](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_UpdateAddressListActivity.md) activity after this activity to apply the changes or wait for the Exchange server to automatically apply cached changes.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Exchange** &gt; **Address List**.
 
 **Note:** This activity replaces an Exchange activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [PowerShell activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_PowershellActivityDesigner.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
@@ -28,7 +28,7 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 |Variables|Description|
 |---------|-----------|
-|hostname|The hostname of the Exchange server with which the activity interacts. Do not enter an [[ip-address|IP address]] in this variable.|
+|hostname|The hostname of the Exchange server with which the activity interacts. Do not enter an IP address in this variable.|
 |domain|The name of the Exchange server's assigned domain.|
 |identity|Name of the address list to move.|
 |target|Path to the address list's new location.|
@@ -51,7 +51,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 
 **Parent Topic:**[Exchange activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationExchangeActivities.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

@@ -14,7 +14,7 @@ breadcrumb: [Amazon ECS resource, AWS discovery, Available cloud discovery patte
 
 # Create a serverless schedule for Amazon ECS discovery
 
-Create a serverless schedule to discover Amazon Elastic Container Service \(Amazon ECS\) and Amazon Elastic Container Registry \(ECR\) resources in a standalone [[r-discovery|discovery]].
+Create a serverless schedule to discover Amazon Elastic Container Service \(Amazon ECS\) and Amazon Elastic Container Registry \(ECR\) resources in a standalone discovery.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: discovery\_admin
 
 ## About this task
 
-Discovering ECR resources requires running the Amazon AWS - ECS pattern before using Aqua Trivy to [[container-image-task|scan container images]]. To discover only ECS and ECR resources without performing a full AWS pattern discovery, create a [[serverless-discovery|serverless discovery]] schedule using the Amazon AWS - ECS pattern.
+Discovering ECR resources requires running the Amazon AWS - ECS pattern before using Aqua Trivy to scan container images. To discover only ECS and ECR resources without performing a full AWS pattern discovery, create a serverless discovery schedule using the Amazon AWS - ECS pattern.
 
 ## Procedure
 
@@ -91,8 +91,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [Scan container images](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/container-image-task.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[container-image-task|Scan container images]]
-- [[serverless-discovery|Serverless Discovery]]

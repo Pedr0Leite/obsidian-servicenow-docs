@@ -26,11 +26,11 @@ You can allocate your workplace location under the following system provided all
 -   Department
 -   Workplace entity
 
-**Important:** Starting from [[workplace-safety-mgmt-hr|Workplace Core]] version 2.16.1, the allocation type **Department and cost center** is no longer available. A new allocation type **Workplace entity** is introduced that provides more advantages.
+**Important:** Starting from Workplace Core version 2.16.1, the allocation type **Department and cost center** is no longer available. A new allocation type **Workplace entity** is introduced that provides more advantages.
 
 ## System property
 
-The application provides you with the system property, Allocation type \[**sn\_wsd\_core.ALLOCATION\_TYPE**\], which enables you to specify an allocation type based on which you want spaces to be retrieved and displayed to users while searching for spaces to reserve, during [[scenario-planning|scenario planning]], space recommendation and more.
+The application provides you with the system property, Allocation type \[**sn\_wsd\_core.ALLOCATION\_TYPE**\], which enables you to specify an allocation type based on which you want spaces to be retrieved and displayed to users while searching for spaces to reserve, during scenario planning, space recommendation and more.
 
 When a user searches for a space to reserve, depending on the allocation type, the workplace profile of the user, and the **Reservation Allocation check** and **Enable allocation duration check** settings in the reservable module, the spaces are displayed to the users. The duration check follows only the start and end dates of the allocation, which are set in the system time zone.
 
@@ -51,16 +51,16 @@ Depending on a workplace location's allocation, the following actions are perfor
 -   You can make allocations based on the business hierarchy of your organization. You can assign a location or an employee to a workplace entity and create a hierarchy. The application enables you to configure entity types based on your businesses and assign workplace entities to them. You can also create a parent-child hierarchy between workplace entities. For more information, refer to [Configure Workplace entity and entity types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-entity.md).
 -   During scenario creation, you can specify based on what type of allocation you want to group the spaces. The grouping options are displayed to you based on the allocation that is specified in the system property **sn\_wsd\_core.ALLOCATION\_TYPE**.
 
-    **Important:** You cannot [[create-multi-building-scenario|create a scenario]] based on workplace entities. You can only view and make map space administration for workplace entities.
+    **Important:** You cannot create a scenario based on workplace entities. You can only view and make map space administration for workplace entities.
 
 -   During scenario planning, you can also change the **View by** option of a scenario to view based on different allocations. However, you cannot edit the scenario if the **View by** that you selected is different than the **Group by** setting of the scenario.
 -   In the case of scenarios that are created with a **Group by** option that is not the same as the current allocation type set in the **sn\_wsd\_core.ALLOCATION\_TYPE** system property, then such scenarios can only be viewed in a read-only mode.
 -   For a space, you can create multiple allocations of different types.
--   When an employee raises a [[space-assistance|space assistance]] request, the allocation type of the spaces is set based in the allocation type that is specified in the Allocation type \[**sn\_wsd\_core.ALLOCATION\_TYPE**\] system property.
+-   When an employee raises a space assistance request, the allocation type of the spaces is set based in the allocation type that is specified in the Allocation type \[**sn\_wsd\_core.ALLOCATION\_TYPE**\] system property.
 
 ## Push down functionality in Workplace Space Management
 
-The [[workplace-space-mgmt-ovw|Workplace Space Management]] application enables you to push down the cost center or department of a parent workplace location to its child locations.
+The Workplace Space Management application enables you to push down the cost center or department of a parent workplace location to its child locations.
 
 You can assign the cost center or department to child locations such as areas, rooms, and spaces. Select the **Push down** option on the Floor or Area form to apply the values of the **Cost center** or **Department** fields. The cost center or department is applied based on the **Push down** option selected in child workplace locations.
 
@@ -194,10 +194,3 @@ The user can access.
 
 [Schedule Planning]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[scenario-planning|Scenario Planning]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[space-assistance|Space assistance]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

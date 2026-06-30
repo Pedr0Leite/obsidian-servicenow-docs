@@ -16,7 +16,7 @@ breadcrumb: [Standard currency fields, Explore, Currency administration, Configu
 
 In forms, currency values appear in the currency in which they were entered.
 
-A combo box provides a list of available currencies, and the user's locale determines its format. When entering or changing the numeric currency value, enter it in the same format specified by the user’s locale. In the form for a new record, the [[reference-email-admin|reference]] currency is pre-selected in the currency list, with the numeric value set to zero.
+A combo box provides a list of available currencies, and the user's locale determines its format. When entering or changing the numeric currency value, enter it in the same format specified by the user’s locale. In the form for a new record, the reference currency is pre-selected in the currency list, with the numeric value set to zero.
 
 \[Omitted image "currency-field.png"\] Alt text: Currency combo box
 
@@ -31,6 +31,3 @@ If a currency instance record exists, an **Edit** icon appears next to the **Cur
 
 **Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]

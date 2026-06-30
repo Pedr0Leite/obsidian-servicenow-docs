@@ -14,13 +14,13 @@ breadcrumb: [Configuring Notify, Notify, Manage service capabilities, Extend Ser
 
 # Configure Notify with Twilio
 
-Configure [[notify-landing-page|Notify]] to use the Twilio telephony service.
+Configure Notify to use the Twilio telephony service.
 
 ## Before you begin
 
 You must have an SID and authentication token for an active Twilio account \(https://www.twilio.com/\). You must have a separate contract with Twilio.
 
-You must exclusively use a Twilio account to [[c_Connect|connect]] your ServiceNow instance.
+You must exclusively use a Twilio account to connect your ServiceNow instance.
 
 **Important:** Ensure that each instance on which you configure Notify uses a different Twilio account. Each account specifies a unique account SID, authentication token, telephone numbers, and endpoint. Using the same account across multiple instances may cause your Twilio service configuration to be overwritten.
 
@@ -64,7 +64,3 @@ You can configure Amazon Polly as the default voice by overriding the default vo
 
 **Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configuring-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[c_Connect|Connect]]

@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to **Admin** &gt; **Admin Home**.
 
-2.  On the [[cbs-landing|Core Business Suite]] Foundation card, select **View product overview**.
+2.  On the Core Business Suite Foundation card, select **View product overview**.
 
 3.  On the Core Business Suite Foundation page, select **Source-to-Pay** in the Install section.
 
@@ -34,9 +34,9 @@ Role required: admin
 
 5.  Select **Apply default configurations**.
 
-    Applying default configurations sets the required default settings for the Source-to-Pay. For information about default configurations, see [[source-to-pay-default-configurations|Source-to-Pay default configurations]].
+    Applying default configurations sets the required default settings for the Source-to-Pay. For information about default configurations, see [Source-to-Pay default configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/source-to-pay-default-configurations.md).
 
-    If the default configurations aren’t applied, run the script to apply them. For more information, see [[reset-default-configurations|Reapply the default configurations]].
+    If the default configurations aren’t applied, run the script to apply them. For more information, see [Reapply the default configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/reset-default-configurations.md).
 
 
 ## Result
@@ -46,11 +46,5 @@ The installed Source-to-Pay business unit appears in the ready to configure sect
 -   **[Source-to-Pay default configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/source-to-pay-default-configurations.md)**  
 Details of the default configurations for Source-to-Pay.
 
-**Parent Topic:**[[install-cbs-apps|Install Core Business Suite applications]]
+**Parent Topic:**[Install Core Business Suite applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/install-cbs-apps.md)
 
-## Related
-
-- [[source-to-pay-default-configurations|Source-to-Pay default configurations]]
-- [[reset-default-configurations|Reapply the default configurations]]
-- [[install-cbs-apps|Install Core Business Suite applications]]
-- [[cbs-landing|Core Business Suite]]

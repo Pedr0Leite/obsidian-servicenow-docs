@@ -20,7 +20,7 @@ Get the custom add-in for your Microsoft Outlook client to use the features conf
 
 The add-in is available only if the admin has deployed the add-in in the Microsoft admin center.
 
-**Important:** [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]] is only supported for Microsoft Outlook 2019 or later versions.
+**Important:** ServiceNow Add-in for Microsoft 365 is only supported for Microsoft Outlook 2019 or later versions.
 
 Role required: None
 
@@ -43,6 +43,3 @@ The custom add-in is added to your Microsoft Outlook client. You can use it to r
 
 **Parent Topic:**[Using ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-sn-addin-for-ms365.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]

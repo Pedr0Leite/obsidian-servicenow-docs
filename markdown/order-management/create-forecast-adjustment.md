@@ -12,7 +12,7 @@ breadcrumb: [Sales Forecasting, Lead and opportunity apps, Use, Sales Customer R
 
 # Create forecast adjustment
 
-[[Modify|Modify]] system-generated forecast values based on your judgment and prediction. Sales agents can adjust their individual forecasts and managers can modify team forecasts to align with overall targets. Sales managers can override team-level adjustments and the system automatically recalculates the roll-ups to reflect the updated forecast values.
+Modify system-generated forecast values based on your judgment and prediction. Sales agents can adjust their individual forecasts and managers can modify team forecasts to align with overall targets. Sales managers can override team-level adjustments and the system automatically recalculates the roll-ups to reflect the updated forecast values.
 
 ## Before you begin
 
@@ -45,18 +45,12 @@ Role required: sn\_sales\_forecast.adjustment\_writer
     On your forecast item, the Owner Adjustment field displays the adjusted forecast value and the Hierarchy Forecast value displays the original forecast value.
 
 
-**Parent Topic:**[[using-sales-forecasting|Using Sales Forecasting]]
+**Parent Topic:**[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
 **Related topics**  
 
 
-[[configure-sales-forecasting|Configure Sales Forecasting]]
+[Configure Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-sales-forecasting.md)
 
-[[sales-forecasting|Sales Forecasting]]
+[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)
 
-## Related
-
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[configure-sales-forecasting|Configure Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]
-- [[Modify|Modify]]

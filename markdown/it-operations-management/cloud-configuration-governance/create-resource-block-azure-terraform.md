@@ -22,7 +22,7 @@ Role required: sn\_cmp.cmp\_root\_admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
 2.  Click **New** to open the Create Resource Block dialog box and then fill in the form.
 
@@ -137,7 +137,7 @@ API Provider\[Operation Type = Invoke Cloud API\]
 
 </td><td>
 
-Select the API that provides the interfaces you need. The providers are part of the [[cloud-management-api|Cloud API \(CAPI\)]].
+Select the API that provides the interfaces you need. The providers are part of the Cloud API \(CAPI\).
 
  For example, CAPI supplies the **Terraform OpenSource**provider, which provides the **Configuration Orchestration Interface**.
 
@@ -191,7 +191,3 @@ Enter an optional condition that must be met before the system uses this step.
 
 **Parent Topic:**[Resource blocks in Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/resource-blocks.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-management-api|Cloud API \(CAPI\)]]

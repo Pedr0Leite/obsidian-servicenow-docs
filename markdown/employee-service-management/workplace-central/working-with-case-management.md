@@ -14,12 +14,12 @@ breadcrumb: [Use, Workplace Central, Workplace Service Delivery, Employee Servic
 
 # Working with Case management
 
-Manage your workplace cases using the [[case-management-workspace|Case management]] workspace. Monitor the progress of the cases, update the cases and perform other actions.
+Manage your workplace cases using the Case management workspace. Monitor the progress of the cases, update the cases and perform other actions.
 
 **Important:** You need the case manager \[sn\_wsd\_case.manager\] role to access the Case management module.
 
 -   **[Manage workplace cases using Case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-workplace-cases-using-case-management.md)**  
-Monitor the workplace cases requested in your organization at any time using the [[workplace-central-feat|Workplace Central]] Case management workspace.
+Monitor the workplace cases requested in your organization at any time using the Workplace Central Case management workspace.
 -   **[Work on a workplace case using Case management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/work-on-a-workplace-case-using-case-management.md)**  
 Update, edit, or resolve a workplace case at any time from a single workspace using the Workplace Central Case management workspace.
 -   **[Create a workplace service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-case-casemgmtworkspace.md)**  
@@ -27,7 +27,7 @@ As a case manager, apart from managing the workplace cases, you can also create 
 -   **[Create a child case and a child task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md)**  
 As a case manager, to fulfill a case, you can create a child case and also a child task using the workspace.
 -   **[Print a workplace case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/print-a-workplace-case.md)**  
-As a case manager, apart from [[manage-workplace-cases|managing workplace cases]], you can also [[print-a-workplace-case|print a workplace case]] using the Workplace Central Case management workspace.
+As a case manager, apart from managing workplace cases, you can also print a workplace case using the Workplace Central Case management workspace.
 -   **[Managing print case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/manage-print-case.md)**  
 Filter workplace cases using criteria such as Short Description, Workplace Location, or other relevant fields to generate a consolidated report using the Workplace Central Case management workspace.
 -   **[Cancel or delete a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/cancel-or-delete-a-case-casemgmtworkspace.md)**  
@@ -60,9 +60,3 @@ Use the Facility Assets list to look up an asset and its related cases without l
 
 [Working with Kiosk Indoor Mapping]()
 
-## Related
-
-- [[case-management-workspace|Case management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[manage-workplace-cases|Managing Workplace cases]]
-- [[print-a-workplace-case|Print a workplace case]]

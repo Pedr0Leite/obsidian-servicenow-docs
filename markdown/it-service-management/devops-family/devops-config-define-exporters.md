@@ -18,7 +18,7 @@ Define exporters in DevOps Config to export config data from all or part of the 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: sn\_devops\_config.admin
 
@@ -26,7 +26,7 @@ Role required: sn\_devops\_config.admin
 
 1.  In the **Admin** view, select the **Exporters** tab.
 
-2.  Select a default exporter or select **New** to [[cdm-exporter-create-custom|create a custom exporter]].
+2.  Select a default exporter or select **New** to create a custom exporter.
 
     See [Create a custom exporter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-exporter-create-custom.md) for details.
 
@@ -38,7 +38,3 @@ Role required: sn\_devops\_config.admin
 
 [Default DevOps Config exporters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/devops-config-default-exporters.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[cdm-exporter-create-custom|Create a custom exporter]]

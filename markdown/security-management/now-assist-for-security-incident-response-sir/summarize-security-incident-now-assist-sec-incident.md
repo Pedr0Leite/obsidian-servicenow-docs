@@ -19,7 +19,7 @@ Understand the context of a security incident with the Security Incident summari
 
 ## Before you begin
 
-You can summarize a security incident in the legacy Core UI \(UI16\) and in the [[sir-workspace-landing-page|Security Incident Response Workspace]]. There must be a minimum of 50 words in the fields that are used for the input data to summarize an incident using generative AI. For more information about the input fields, see [Inputs and triggers for Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/input-triggers-now-assist-security-incident.md).
+You can summarize a security incident in the legacy Core UI \(UI16\) and in the Security Incident Response Workspace. There must be a minimum of 50 words in the fields that are used for the input data to summarize an incident using generative AI. For more information about the input fields, see [Inputs and triggers for Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/input-triggers-now-assist-security-incident.md).
 
 Roles required: sn\_si.analyst, sn\_si.manager, or sn\_si.basic
 
@@ -94,7 +94,3 @@ Select the copy icon \(\[Omitted image "icon-copy.png"\] Alt text: Copy icon.\) 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

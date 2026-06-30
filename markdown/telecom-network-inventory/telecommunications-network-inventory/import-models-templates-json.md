@@ -14,7 +14,7 @@ breadcrumb: [Import models and templates, Use, Telecommunications Network Invent
 
 # Import models and templates in JSON format
 
-Create an import request to import your collection of models and templates in JSON format, and streamline the workflow using the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Create an import request to import your collection of models and templates in JSON format, and streamline the workflow using the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ After you create an import template request, a detailed summary is generated tha
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Import** &gt; **Imports**.
 
 3.  Select **New**.
 
-4.  On the Select an Import File Type window, select **[[import-models-and-templates|Import Models and Templates]] \(JSON\)** from the list.
+4.  On the Select an Import File Type window, select **Import Models and Templates \(JSON\)** from the list.
 
 5.  On the **Details** tab, fill in the general information.
 
@@ -60,7 +60,7 @@ Description
 
 </td><td>
 
-Short description of the [[import-inventory|import models]] or templates.
+Short description of the import models or templates.
 
 </td></tr><tr><td>
 
@@ -91,9 +91,3 @@ Select **Attach File** to attach the import model file in JSON format.**Note:**
 
 **Parent Topic:**[Import models and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/import-models-and-templates.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[import-models-and-templates|Import models and templates]]
-- [[import-inventory|Import models]]

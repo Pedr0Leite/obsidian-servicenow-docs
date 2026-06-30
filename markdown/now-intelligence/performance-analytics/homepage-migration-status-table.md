@@ -16,7 +16,7 @@ breadcrumb: [Homepage deprecation, Administering dashboards, Responsive dashboar
 
 Use the Homepage migration status table to address homepage retirement and conversion.
 
-The homepage migration status table lists the homepages on your instance that are not associated with dashboards or dashboard tabs. It also shows the decisions made by an administrator about the status of each one. You can access the homepage migration status table from most of the visualizations on the Overview tab or you can navigate to **All** &gt; **[[hp-dep-help-tool-features|Homepage deprecation help tool]]** &gt; **Homepage migration status**. For more information, see [Homepage deprecation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/homepage-deprecation-help-tool.md).
+The homepage migration status table lists the homepages on your instance that are not associated with dashboards or dashboard tabs. It also shows the decisions made by an administrator about the status of each one. You can access the homepage migration status table from most of the visualizations on the Overview tab or you can navigate to **All** &gt; **Homepage deprecation help tool** &gt; **Homepage migration status**. For more information, see [Homepage deprecation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/homepage-deprecation-help-tool.md).
 
 The table contains the following columns.
 
@@ -95,7 +95,3 @@ Decision
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hp-dep-help-tool-features|Homepage deprecation help tool]]

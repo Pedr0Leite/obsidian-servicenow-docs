@@ -28,26 +28,19 @@ The channel partner \[sn\_prm\_channel\_partner\] table is an extension of Exter
 
 2.  Select **New** to open the Channel Partner Registration details form.
 
-3.  On the form, fill in the [[fields|fields]].
+3.  On the form, fill in the fields.
 
-    To learn more about the fields on the channel partner table and their descriptions, see [[channel-partner-table-fields|Channel partner table fields]].
+    To learn more about the fields on the channel partner table and their descriptions, see [Channel partner table fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/channel-partner-table-fields.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
+**Parent Topic:**[Data model for Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/data-model-for-partner-relationship-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[channel-partner-table-fields|Channel partner table fields]]
-- [[data-model-for-partner-relationship-management|Data model for Partner Relationship Management]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[fields|Fields]]

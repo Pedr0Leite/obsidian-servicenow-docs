@@ -14,7 +14,7 @@ breadcrumb: [Use, Major Security Incident Management, Security Incident Response
 
 # Link additional records to Major Security Incident
 
-In the workspace, use the linking records functionality to link any related Security Incident records and its child security incidents, Remediation Tasks from [[vuln-landing-page|Vulnerability Response]], and Security Cases from [[threat-intel-landing-page|Threat Intelligence]] to a Major Security Incident \(MSI\) record.
+In the workspace, use the linking records functionality to link any related Security Incident records and its child security incidents, Remediation Tasks from Vulnerability Response, and Security Cases from Threat Intelligence to a Major Security Incident \(MSI\) record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager and sn\_msi.workspace\_responder
 
 ## Procedure
 
-1.  Navigate to **Major [[sir-landing-page|Security Incident Response]]** &gt; **MSIM Workspace**.
+1.  Navigate to **Major Security Incident Response** &gt; **MSIM Workspace**.
 
 2.  Navigate to the **Lists** view, which is displayed in the left pane of the workspace.
 
@@ -76,8 +76,3 @@ Role required: sn\_msi.workspace\_manager and sn\_msi.workspace\_responder
 
 [Unlink records from Major Security Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/unlinking-msi-records.md)
 
-## Related
-
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[sir-landing-page|Security Incident Response]]

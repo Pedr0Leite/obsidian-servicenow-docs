@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-A custom connector script can make remote API calls for a new event source to send events to the ServiceNow instance. You can create a script, and then add it as part of a new [[c_EM|Event Management]] connector definition and connector instance. This procedure automatically creates a JavaScript code file using the name that you enter in the **Name** field as the filename. The JavaScript custom code that accomplishes these actions must:
+A custom connector script can make remote API calls for a new event source to send events to the ServiceNow instance. You can create a script, and then add it as part of a new Event Management connector definition and connector instance. This procedure automatically creates a JavaScript code file using the name that you enter in the **Name** field as the filename. The JavaScript custom code that accomplishes these actions must:
 
 -   Connect to an event monitoring tool.
 -   Retrieve events from an event monitoring tool.
@@ -217,6 +217,3 @@ The MID Server name to process events from the event server. If not specified, a
 
 **Parent Topic:**[Configure Event Management connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/connectors-and-listeners.md)
 
-## Related
-
-- [[c_EM|Event Management]]

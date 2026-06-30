@@ -25,7 +25,7 @@ The Data Model Navigator app gathers comprehensive information about the base-sy
 
 The app provides context-driven guidance for specific scenarios:
 
--   Identify tables and attributes that strengthen solutions for [[ip-address|IP address]] management
+-   Identify tables and attributes that strengthen solutions for IP address management
 -   Learn the differences between data modeling in cloud and non-cloud environments
 -   Make informed decisions about how to structure and populate your CMDB data
 -   Determine which tables and attributes to prioritize for your use case
@@ -42,7 +42,7 @@ For more information, see [Working in the Now Assist panel](https://raw.githubus
 
 ## Prerequisites
 
-The Data Model Navigator store app must be installed. It is installed automatically when you install the [[sg-workspace|Service Graph Workspace]] - Content store app.
+The Data Model Navigator store app must be installed. It is installed automatically when you install the Service Graph Workspace - Content store app.
 
 Role required: sn\_data\_model\_nav.data\_model\_navigator\_write or sn\_data\_model\_nav.data\_model\_navigator\_read
 
@@ -59,7 +59,3 @@ Navigate to **All** &gt; **Data Model Navigator**.
 |Fields|Identify and review key attributes for a class. The app differentiates key attributes from similar ones in the same table and highlights attributes that are important in specific use cases.|
 |Relationships|Review guidance on how and why to model relationships between specific classes.|
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[sg-workspace|Service Graph Workspace]]

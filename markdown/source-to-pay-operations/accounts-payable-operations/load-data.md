@@ -15,7 +15,7 @@ breadcrumb: [Import data into invoice, Accounts Payable Operations integration f
 
 # Load invoice data
 
-Load bulk invoice data from an Excel template into the [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] invoice import staging table `sn_spend_intg_imp_invoice`.
+Load bulk invoice data from an Excel template into the Accounts Payable Operations invoice import staging table `sn_spend_intg_imp_invoice`.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin
 
 The invoice data from the excel template is processed successfully.
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

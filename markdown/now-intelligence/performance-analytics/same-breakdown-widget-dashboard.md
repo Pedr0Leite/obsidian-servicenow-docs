@@ -31,9 +31,9 @@ In the following animation, you have a breakdown widget on a breakdown dashboard
 **Related topics**  
 
 
-[Add [[breakdown-sources|breakdown sources]] to a dashboard]()
+[Add breakdown sources to a dashboard]()
 
-[Configure [[widgets|widgets]] for breakdown dashboards]()
+[Configure widgets for breakdown dashboards]()
 
 [Showing multiple elements separately or aggregated]()
 
@@ -41,7 +41,3 @@ In the following animation, you have a breakdown widget on a breakdown dashboard
 
 [Interacting with breakdown widgets on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_WidgetInteractivity.md)
 
-## Related
-
-- [[breakdown-sources|Breakdown sources]]
-- [[widgets|Widgets]]

@@ -14,15 +14,15 @@ breadcrumb: [Workspace, Source-to-Pay Operations, Finance and Supply Chain]
 
 # Configure Source-to-Pay Workspace
 
-Configure Source-to-Pay Workspace to set up queues, work assignments, integrations, and other settings for [[acc-pay-mgmt-landing-page|accounts payable operations]].
+Configure Source-to-Pay Workspace to set up queues, work assignments, integrations, and other settings for accounts payable operations.
 
--   For more information on configuring [[psm-overview|Sourcing and Procurement Operations]], see [Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md).
--   For more information on configuring [[supp-mgmt-landing-page|Supplier Lifecycle Operations]], see [Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-mgmt.md).
--   For more information on configuring [[purch-order-mgmt-ws|Source-to-Pay Workspace]], see [Configure Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-acc-pay-mgmt.md).
+-   For more information on configuring Sourcing and Procurement Operations, see [Configure Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configuring-spo.md).
+-   For more information on configuring Supplier Lifecycle Operations, see [Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-mgmt.md).
+-   For more information on configuring Source-to-Pay Workspace, see [Configure Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/config-acc-pay-mgmt.md).
 
 ## AI search in Source-to-Pay Workspace
 
-The AI search feature in the Source-to-Pay Workspace and [[supplier-central|Supplier Collaboration Portal]] enables users \(with admin role and suppliers\) to refine searches by filtering their results. You can search for procurement records, [[supplier|supplier]] records, and invoice records. You can choose to show or hide the AI search in your workspace.
+The AI search feature in the Source-to-Pay Workspace and Supplier Collaboration Portal enables users \(with admin role and suppliers\) to refine searches by filtering their results. You can search for procurement records, supplier records, and invoice records. You can choose to show or hide the AI search in your workspace.
 
 Make record content searchable by configuring an indexed source to add it to the AI Search index. For more information on AI search indexing, see [AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/overview-ais.md).
 
@@ -42,11 +42,3 @@ Configure knowledge bases so that guest users can read the created knowledge art
 
 [Source-to-Pay Workspace Reference]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]

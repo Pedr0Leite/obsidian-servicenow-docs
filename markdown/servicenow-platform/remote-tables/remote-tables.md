@@ -14,7 +14,7 @@ breadcrumb: [Manage instance data sources, Extend ServiceNow AI Platform capabil
 
 # Remote tables
 
-[[c_Connect|Connect]] the ServiceNow AI Platform to third-party sources, or to another instance, so that you can retrieve external data and optionally cache it in memory.
+Connect the ServiceNow AI Platform to third-party sources, or to another instance, so that you can retrieve external data and optionally cache it in memory.
 
 You can view external data in lists or forms and process it with standard Glide scripts. You can also group, sort, aggregate, and filter the data just like you would for standard internal tables. If editing is enabled for a remote table, you can insert, update, and delete data in the external source from the remote table on the instance.
 
@@ -26,7 +26,7 @@ Use the following components to build an external data framework:
 
     You create remote tables to describe the schema for the data that you want to retrieve from an external source.
 
-    The table definition is in the ServiceNow AI Platform, but its rows, or external records, live in memory. You [[create-remote-table|create a remote table]] the same way that you would create a standard internal table. You define columns and controls and designate application access for it just like you would do for an internal table. Unlike an internal table, a remote table doesn’t get its records from the ServiceNow AI Platform database. It gets its records from running an associated query script against an external data source.
+    The table definition is in the ServiceNow AI Platform, but its rows, or external records, live in memory. You create a remote table the same way that you would create a standard internal table. You define columns and controls and designate application access for it just like you would do for an internal table. Unlike an internal table, a remote table doesn’t get its records from the ServiceNow AI Platform database. It gets its records from running an associated query script against an external data source.
 
     To learn more about creating remote tables, see [Create a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table.md).
 
@@ -41,7 +41,7 @@ Use the following components to build an external data framework:
 
 By using a remote table, you can retrieve the data from external sources or from another instance with REST or SOAP services. The external data lives in memory in read-only mode, which makes the data temporary, or transient, within the ServiceNow AI Platform. You can then view and update the external data without importing or storing it.
 
-You view the external data in lists or forms in the same way that you view internally stored data. You can manipulate this data by using standard Glide records, business rules, remote APIs, scripting, table [[reference|reference]] fields, services, and development tools in the ServiceNow AI Platform. If editing is enabled for a remote table, you can insert, update, and delete data in the external source from the remote table on the instance.
+You view the external data in lists or forms in the same way that you view internally stored data. You can manipulate this data by using standard Glide records, business rules, remote APIs, scripting, table reference fields, services, and development tools in the ServiceNow AI Platform. If editing is enabled for a remote table, you can insert, update, and delete data in the external source from the remote table on the instance.
 
 **Important:** If the data size that is retrieved from the external source is small, use the 1000 rows default limit in a remote table to minimize query times. If the retrieved data size is large and could be less performative, in the script definition, you can select the advanced **Enhanced Capacity** field to support a large number of rows.
 
@@ -84,7 +84,7 @@ Choose whether to use a remote table or Integration Hub to process external data
 **Note:** If you create a remote table that uses the data from an external source that is outside of the ServiceNow AI Platform, you must have an Integration Hub subscription entitlement. To learn more about the Integration Hub, see [Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/integrationhub.md).
 
 -   **[Activate the remote tables plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/activate-remote-tables-plugin.md)**  
-If you have the admin role, you can [[activate-remote-tables-plugin|activate the Remote Tables plugin]] \(com.glide.script.vtable\). This plugin includes demo data and activates related plugins if they aren’t already active.
+If you have the admin role, you can activate the Remote Tables plugin \(com.glide.script.vtable\). This plugin includes demo data and activates related plugins if they aren’t already active.
 -   **[Create a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table.md)**  
 Create a remote table using data retrieved from an external source.
 -   **[Create script definitions for a remote table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/create-remote-table-script.md)**  
@@ -94,15 +94,7 @@ Build and create a flow for a remote table so that you can retrieve data from an
 -   **[Debugging remote table script definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/debugging-remote-table-scripts.md)**  
 You can enable session debugging for remote table script definitions. To enable script definition logging in a session debug log, set the **glide.script.vtable.log.debug** property to **true**.
 -   **[Domain separation and remote tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/domain-separation-remote-tables.md)**  
-[[domain-separation-relationship-formatter-editor|Domain separation]] is unsupported in remote tables. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported in remote tables. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[manage-data-sources|Manage instance data sources]]
+**Parent Topic:**[Manage instance data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-data-sources.md)
 
-## Related
-
-- [[manage-data-sources|Manage instance data sources]]
-- [[c_Connect|Connect]]
-- [[create-remote-table|Create a remote table]]
-- [[reference|Reference]]
-- [[activate-remote-tables-plugin|Activate the remote tables plugin]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

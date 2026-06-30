@@ -58,7 +58,7 @@ The system displays the global search UI and uses the legacy display logic.
 
 ## Legacy global search user preferences
 
-The global text search [[hs-results|results]] page allows users to set several user preferences for global text search.
+The global text search results page allows users to set several user preferences for global text search.
 
 The following search preferences are available from the **Search tips and preferences** link.
 
@@ -163,6 +163,3 @@ In this sample exact match, the system displays the matching article and an info
 
 [User preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UserPreferences.md)
 
-## Related
-
-- [[hs-results|Results]]

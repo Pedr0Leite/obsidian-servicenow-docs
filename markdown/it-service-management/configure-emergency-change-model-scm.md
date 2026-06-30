@@ -23,7 +23,7 @@ Role required: sn\_itsm\_chg\_admin.change\_models\_config, sn\_itsm\_chg\_admin
 
 1.  Open the **Emergency** change model in the Configuration Console.
 
-    For navigation steps, see [[configure-change-models-scm|Configure change models for Simplified Change Management]].
+    For navigation steps, see [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 2.  Configure the availability, templates, authorized submitters, risk-based approvals for the states, and control automatic change task creation.
 
@@ -71,7 +71,7 @@ The Authorize state is the business approval gate. It verifies the change is app
 
 -   **Member of assignment group**: Any member of the assignment group can approve. One approval is sufficient.
 -   **Manager of assignment group**: The manager of the assignment group must approve.
--   **Change manager**: Any member of the [[c_ITILChangeManagement|change management]] group can approve.
+-   **Change manager**: Any member of the change management group can approve.
 -   **CAB member**: At least one CAB member must approve.
 -   **Other group**: A specific group that you select must approve. Select an assignment group from the list on the modal window.
 Default approvers for each risk level are:
@@ -87,7 +87,7 @@ Scheduled
 
 </td><td>
 
-The Scheduled state controls auto-creation of a task to verify planning and resources required for the change. Select **Yes** to generate the [[change-tasks|change tasks]] automatically when the change enters this state. This task helps confirm the change is properly planned and resources are in place before implementation.
+The Scheduled state controls auto-creation of a task to verify planning and resources required for the change. Select **Yes** to generate the change tasks automatically when the change enters this state. This task helps confirm the change is properly planned and resources are in place before implementation.
 
 </td></tr><tr><td>
 
@@ -117,13 +117,7 @@ The Emergency change model configuration is saved. Only members of the designate
 
 ## What to do next
 
-To configure additional change [[c_Models|models]], return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
+To configure additional change models, return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 **Parent Topic:**[Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md)
 
-## Related
-
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-tasks|Change tasks]]
-- [[c_Models|Models]]

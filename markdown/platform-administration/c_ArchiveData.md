@@ -24,27 +24,19 @@ System Archive is a platform feature that's available on all the ServiceNow inst
 -   Preserves data for auditing or historical purposes.
 -   Deletes archived data after a specified period using a destroy rule.
 
-Note that System Archive does not reduce primary storage usage or move data to a separate storage tier. For information about moving records off the primary database to an object storage, see [[data-archiving-with-raptordb-professional-v2|Live Archive with RaptorDB Professional V2]].
+Note that System Archive does not reduce primary storage usage or move data to a separate storage tier. For information about moving records off the primary database to an object storage, see [Live Archive with RaptorDB Professional V2](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-archiving-with-raptordb-professional-v2.md).
 
 \[Omitted image "SampleBenefitsOfArchivingData.png"\] Alt text: Archiving data within the instance using System Archive
 
 ## Archive rules
 
-During archiving, records that meet the defined archive rules are moved to a corresponding archive table prefixed with `ar_`. For more information, see [[data-management-table-rules|Viewing table rules]] and [[data-management-rule-activities|Viewing rule activities]].
+During archiving, records that meet the defined archive rules are moved to a corresponding archive table prefixed with `ar_`. For more information, see [Viewing table rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-table-rules.md) and [Viewing rule activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/data-management-rule-activities.md).
 
 ## Use cases
 
--   Instances that have been running for a long time and have accumulated data that is no longer relevant. For example, task records from two years ago are typically less relevant than currently active tasks. This old data can eventually cause performance issues by consuming system resources and slowing down queries and reports. You can archive records in core tables such as the Task \[task\] table and records in [[custom-tables|custom tables]] that you create on the ServiceNow AI Platform.
+-   Instances that have been running for a long time and have accumulated data that is no longer relevant. For example, task records from two years ago are typically less relevant than currently active tasks. This old data can eventually cause performance issues by consuming system resources and slowing down queries and reports. You can archive records in core tables such as the Task \[task\] table and records in custom tables that you create on the ServiceNow AI Platform.
 -   The Incident \[incident\] table on your instance has grown and users are reporting that queries against the table are slow. You can create an archive rule with conditions like **\[Closed\] \[relative\] \[on or before\] \[150\] \[Days\] \[ago\]** and **\[Active\] \[is\] \[false\]** to move records to the Archived Incidents \[ar\_incident\] table when they're closed for more than 150 days.
--   Archive related records together to maintain data integrity for compliance and auditing requirements. This approach archives records from a primary table along with any dependent records in other tables that [[reference-email-admin|reference]] them. For example, when archiving records from the Problem \[problem\] table, you can include incidents that reference those problem records in the **Problem in incident** field.
+-   Archive related records together to maintain data integrity for compliance and auditing requirements. This approach archives records from a primary table along with any dependent records in other tables that reference them. For example, when archiving records from the Problem \[problem\] table, you can include incidents that reference those problem records in the **Problem in incident** field.
 
-For information about using the System Archive feature, see [[archiving-older-records|Archiving records in Core UI]].
+For information about using the System Archive feature, see [Archiving records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archiving-older-records.md).
 
-## Related
-
-- [[data-archiving-with-raptordb-professional-v2|Live Archive with RaptorDB Professional V2]]
-- [[data-management-table-rules|Viewing table rules]]
-- [[data-management-rule-activities|Viewing rule activities]]
-- [[archiving-older-records|Archiving records in Core UI]]
-- [[custom-tables|Custom tables]]
-- [[reference-email-admin|Reference]]

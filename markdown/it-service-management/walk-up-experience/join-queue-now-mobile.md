@@ -14,7 +14,7 @@ breadcrumb: [Walk-up Experience on Now Mobile, Walk-up Experience, IT Service Ma
 
 # Join a queue at the Walk-up Experience Tech Lounge
 
-Join a queue at a ServiceNow [[walkup-experience-landing-page|Walk-up Experience]] Tech Lounge by using the Now® Mobile app for immediate assistance with an issue.
+Join a queue at a ServiceNow Walk-up Experience Tech Lounge by using the Now® Mobile app for immediate assistance with an issue.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Role required: user
 
 **Parent Topic:**[Walk-up Experience on Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walk-up-experience-now-mobile.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

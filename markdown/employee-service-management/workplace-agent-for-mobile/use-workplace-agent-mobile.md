@@ -14,7 +14,7 @@ breadcrumb: [Workplace Agent for mobile, Workplace Service Delivery, Employee Se
 
 # Use Workplace Agent for mobile
 
-Use the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] to perform workplace case or task related activities using the ServiceNow Agent mobile application.
+Use the Workplace Agent for mobile to perform workplace case or task related activities using the ServiceNow Agent mobile application.
 
 -   **[Manage workplace cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/manage-workplace-cases-and-tasks-assigned-to-you-agentmobile.md)**  
 Track the workplace cases and tasks that are assigned to you and your assignment group. Know the number of cases that are open, critical, and breached at any time. View the details of the case and perform an action accordingly.
@@ -25,18 +25,13 @@ Workplace agents can print the workplace case at any time on the go. The case re
 -   **[Print workplace tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/print-workplace-tasks-mobile.md)**  
 Workplace agents can print the workplace task details related to a workplace case. The task reports contain reservation details, services, and all other relevant information.
 -   **[Create a child task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-a-child-task-agentmobile.md)**  
-Add child tasks to a workplace case when needed. The application enables you to [[create-a-child-task-agentmobile|create a child task]] instantly from the case details page.
+Add child tasks to a workplace case when needed. The application enables you to create a child task instantly from the case details page.
 -   **[Create a workplace case on behalf of an employee through Workplace Agent for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/create-agentcase-mobile.md)**  
 Create workplace cases on behalf of an employee in the Workplace Agent for mobile work view page.
 -   **[Edit or view a child task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/edit-or-view-a-child-task-agentmobile.md)**  
 View or update a task whenever you want to get the details or update the progress.
 -   **[Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/offline-mode.md)**  
-You can switch to an [[offline-mode|offline mode]] and work on your workplace cases in the ServiceNow Agent application. When you work on an offline mode, you can perform any action without an internet connection. Once you turn on to the online mode, the changes are all synchronized automatically. If there are any conflicts, you can resolve them in your outbox.
+You can switch to an offline mode and work on your workplace cases in the ServiceNow Agent application. When you work on an offline mode, you can perform any action without an internet connection. Once you turn on to the online mode, the changes are all synchronized automatically. If there are any conflicts, you can resolve them in your outbox.
 
 **Parent Topic:**[Workplace Agent for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/workplace-agent-mobile-feat.md)
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]
-- [[create-a-child-task-agentmobile|Create a child task]]
-- [[offline-mode|Offline mode]]

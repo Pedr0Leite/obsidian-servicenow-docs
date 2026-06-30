@@ -14,7 +14,7 @@ breadcrumb: [Using My Learning, Learning, Growth Experiences, HR Service Deliver
 
 # View recent activity
 
-Review your recent [[exploring-learning-exp|learning]] [[activity-lxp|activity]] with easy access to your assigned, saved, shared with, and history tabs.
+Review your recent learning activity with easy access to your assigned, saved, shared with, and history tabs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: learning.user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
 2.  View your assigned, saved, shared with you, and history of completed courses using the following tabs available under the **Activity** tab on My Learning.
 
@@ -50,9 +50,3 @@ Role required: learning.user
 
 [Skill sensing for learning content]()
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]

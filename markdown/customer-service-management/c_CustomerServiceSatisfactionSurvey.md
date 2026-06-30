@@ -12,7 +12,7 @@ breadcrumb: [Close a customer service case, Manage cases, Use, Customer Service 
 
 # Customer service satisfaction surveys
 
-Customers can complete a satisfaction survey when they accept a case solution or [[customer-close-case-from-portal|close a case from the Customer Service Portal]].
+Customers can complete a satisfaction survey when they accept a case solution or close a case from the Customer Service Portal.
 
 When a customer accepts a proposed solution for a case by clicking **Accept Solution** on the case record or closes a case by clicking **Close Case**, they can access a satisfaction survey in the Customer Service Portal. Customers have the option of completing or skipping the survey.
 
@@ -31,6 +31,3 @@ You can also design your own survey using the survey designer tool. After design
 
 [Service Manager dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/customer-service-dashboard.md)
 
-## Related
-
-- [[customer-close-case-from-portal|Close a case from the Customer Service Portal]]

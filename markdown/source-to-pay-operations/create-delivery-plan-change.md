@@ -25,7 +25,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[purchase-order-table|Purchase order]]
+Purchase order
 
 </td><td>
 
@@ -45,7 +45,7 @@ Purchase order line
 
 </td><td>
 
-Individual line under a purchase order. When selecting a purchase order, all the [[purchase-order-lines|purchase order lines]] are listed.
+Individual line under a purchase order. When selecting a purchase order, all the purchase order lines are listed.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,7 @@ Location where the product is to be delivered. This field is auto-populated when
 
 </td></tr><tr><td>
 
-[[supplier|Supplier]] product
+Supplier product
 
 </td><td>
 
@@ -114,21 +114,14 @@ Proposed delivery date
 Revised delivery date.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[purchase-order-mgmt-reference|Purchase Order Management reference]]
+</table>**Parent Topic:**[Purchase Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purchase-order-mgmt-reference.md)
 
 **Related topics**  
 
 
 [Purchase order exception form]()
 
-[Create new [[purchase-order-exception-table|purchase order exception]] form]()
+[Create new purchase order exception form]()
 
 [Master data tables for Purchase Order Management]()
 
-## Related
-
-- [[purchase-order-mgmt-reference|Purchase Order Management reference]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[purchase-order-exception-table|Purchase Order Exception]]

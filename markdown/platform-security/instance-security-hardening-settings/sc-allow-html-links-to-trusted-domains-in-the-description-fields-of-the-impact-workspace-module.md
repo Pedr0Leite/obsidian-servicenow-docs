@@ -16,13 +16,13 @@ breadcrumb: [Validation, sanitization, and encoding, Hardening settings, Platfor
 
 Use a system property to help sanitize the HTML allowed in the descriptions fields. This property limits the allowed links to only those from the trusted domains listed in the property.
 
-**Note:** This hardening setting is not a part of the hardening baseline. It does not appear in [[sec-center-v2|Security Center]] hardening pages and affect your hardening score.
+**Note:** This hardening setting is not a part of the hardening baseline. It does not appear in Security Center hardening pages and affect your hardening score.
 
 The Impact Workspace module allows HTML in a number of description-related fields. When configured, the **sn\_impact\_common.whitelisted.url\_HTML\_injection** system property contains a comma-separated list of domain names. Description fields for the Impact Workspace module are allowed to contain HREFs with URLs only from the domains listed in the property.
 
 Ensure the **sn\_impact\_common.whitelisted.url\_HTML\_injection** system property is set to a comma-separated list of domain names that represent the domains allowed in HTTP reference URLs of description fields for the Impact Workspace module.
 
-To disallow HREFs in these fields, set the property to an empty string. If the property doesn’t exist on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, it defaults to this list: `servicenow.com, service-now.com, youtube.com, google.com, youtu.be, soti.net, dpdhl.sharepoint.com, documentation.avaya.com, www.juniper.net, servicenow.sharepoint.com, servicenow-my.sharepoint.com, scaledagileframework.com`.
+To disallow HREFs in these fields, set the property to an empty string. If the property doesn’t exist on the System Properties \[sys\_properties\] table, it defaults to this list: `servicenow.com, service-now.com, youtube.com, google.com, youtu.be, soti.net, dpdhl.sharepoint.com, documentation.avaya.com, www.juniper.net, servicenow.sharepoint.com, servicenow-my.sharepoint.com, scaledagileframework.com`.
 
 ## More information
 
@@ -36,7 +36,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -121,8 +121,3 @@ If the **sn\_impact\_common.blacklist\_tags\_HTML\_injection** system property c
 
 **Parent Topic:**[Validation, sanitization, and encoding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/validation-sanitization-encoding.md)
 
-## Related
-
-- [[sec-center-v2|Security Center]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

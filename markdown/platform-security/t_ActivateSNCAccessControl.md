@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow access control, Access Management]
 
 # Activate ServiceNow access control
 
-You [[c_requestAPI|request]] activation of the SNC [[sc-access-control|Access Control]] plugin \(com.snc.snc\_access\_control\).
+You request activation of the SNC Access Control plugin \(com.snc.snc\_access\_control\).
 
 ## Before you begin
 
@@ -76,7 +76,4 @@ Select the date and time to activate the plugin.
 
     After the maintenance window, the system installs the plugin on your instance. To confirm the installation, go to the Installed tab in the Application Manager.
 
-## Related
 
-- [[c_requestAPI|request]]
-- [[sc-access-control|Access control]]

@@ -12,14 +12,14 @@ breadcrumb: [Execute desktop actions, AI Desktop Actions, Enable AI experiences]
 
 # Example: Use AI agents to process badge-related requests automatically
 
-As an HR representative, automatically process various badge requests by triggering AI agents that use desktop action tools from the [[now-assist-center-now-assist-panel|Now Assist panel]].
+As an HR representative, automatically process various badge requests by triggering AI agents that use desktop action tools from the Now Assist panel.
 
 ## Before you begin
 
-To access the [[agentic-desktop-landing-page|AI Desktop Actions]] functionality, perform the following steps:
+To access the AI Desktop Actions functionality, perform the following steps:
 
--   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [[configure-agentic-desktop|Configure AI Desktop Actions]].
--   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [[download-agentic-desktop-installer|Download AI Desktop Actions installer]].
+-   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md).
+-   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/download-agentic-desktop-installer.md).
 
 Confirm that the following system requirements are met:
 
@@ -38,13 +38,13 @@ Confirm that the following system requirements are met:
 
 **Note:** Screen resolution and scaling must be the same between the systems used for recording and execution of desktop actions that are created before AI Desktop Actions v1.0.1.
 
-Familiarize yourself with the AI Desktop Actions Execution workspace. For more information, see [[agentic-desktop-excution-workspace|AI Desktop Actions Execution workspace]].
+Familiarize yourself with the AI Desktop Actions Execution workspace. For more information, see [AI Desktop Actions Execution workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-excution-workspace.md).
 
 Role required: now\_assist\_panel\_user
 
 ## About this task
 
-AI agents use desktop actions that are designed in the [[agentic-desktop-overview|AI Desktop Actions Design workspace]] as tools. When an AI agent is triggered from the Now Assist panel, it determines which desktop actions it can use to perform the automation. Once triggered, the automation is executed in the desktop-in-desktop mode within the AI Desktop Actions Execution workspace.
+AI agents use desktop actions that are designed in the AI Desktop Actions Design workspace as tools. When an AI agent is triggered from the Now Assist panel, it determines which desktop actions it can use to perform the automation. Once triggered, the automation is executed in the desktop-in-desktop mode within the AI Desktop Actions Execution workspace.
 
 \[Omitted image "execution-workspace-ready-ad.png"\] Alt text: AI Desktop Actions Execution workspace displaying "Listening for instructions" message for desktop session activation.
 
@@ -56,7 +56,7 @@ To avoid conflicts, do not run the AI Desktop Actions Execution workspace and RP
 
 1.  Navigate to **All** &gt; **Requests** &gt; **Assigned to you** and select all the pending requests that you would like to resolve.
 
-2.  Open the Now Assist panel by using the [[platform-now-assist-landing|Now Assist]] \[Omitted image "wwna-icon.png"\] Alt text: Now Assist icon. icon.
+2.  Open the Now Assist panel by using the Now Assist \[Omitted image "wwna-icon.png"\] Alt text: Now Assist icon. icon.
 
 3.  On the Now Assist panel, enter `Use the badge management tool and process the selected requests`.
 
@@ -84,7 +84,7 @@ The agent shows which desktop actions it uses for the execution.
 
 </td><td>
 
-The Execution workspace waits for instructions from [[ai-agent-studio|AI Agent Studio]].
+The Execution workspace waits for instructions from AI Agent Studio.
 
 </td></tr><tr><td>
 
@@ -147,16 +147,5 @@ If the desktop session isn't sized correctly and mouse actions aren't working as
 
 `Ctrl + Shift + D`: Resize to actual desktop view.
 
-**Parent Topic:**[[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
+**Parent Topic:**[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md)
 
-## Related
-
-- [[configure-agentic-desktop|configure agentic desktop]]
-- [[download-agentic-desktop-installer|Download AI Desktop Actions installer]]
-- [[agentic-desktop-excution-workspace|AI Desktop Actions Execution workspace]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[agentic-desktop-overview|AI Desktop Actions Design workspace]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-agent-studio|AI Agent Studio]]

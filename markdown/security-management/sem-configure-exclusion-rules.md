@@ -20,7 +20,7 @@ The execution order defines the priority in which exclusion rules are processed.
 
 1.  Default execution order for new rules
 
-    When you [[create-exclusion-rule|create an exclusion rule]], the system automatically assigns an execution order to maintain spacing and avoid conflicts.
+    When you create an exclusion rule, the system automatically assigns an execution order to maintain spacing and avoid conflicts.
 
     System behavior:
 
@@ -28,7 +28,7 @@ The execution order defines the priority in which exclusion rules are processed.
     -   Subsequent rules: Execution order = \(highest existing execution order\) + 1000
 2.  Updating execution order via drag
 
-    In the [[sem-workspace-user-interface|Security Exposure Management Workspace]], you can reorder exclusion rules using drag in the list view. When rules are repositioned, execution order values are recalculated automatically based on their new position.
+    In the Security Exposure Management Workspace, you can reorder exclusion rules using drag in the list view. When rules are repositioned, execution order values are recalculated automatically based on their new position.
 
     System behavior:
 
@@ -36,20 +36,13 @@ The execution order defines the priority in which exclusion rules are processed.
     -   Moved to the top of the list: New execution order = \(Execution order of current top rule\) ÷ 2
     -   Moved to the bottom of the list: New execution order = \(Execution order of current bottom rule + 1000\)
 
--   **[[sem-create-or-edit-exclusion-rules|Create or edit exclusion rules]]**  
+-   **[Create or edit exclusion rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-or-edit-exclusion-rules.md)**  
 Create a rule to filter or exclude detections from getting converted into vulnerable items \(VITs\) during ingestion.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-controlling-ingestion-volume-automatic-exclusion|Controlling the ingestion volume with automatic exclusion]]
+[Controlling the ingestion volume with automatic exclusion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-controlling-ingestion-volume-automatic-exclusion.md)
 
-## Related
-
-- [[sem-create-or-edit-exclusion-rules|Create or edit exclusion rules]]
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-controlling-ingestion-volume-automatic-exclusion|Controlling the ingestion volume with automatic exclusion]]
-- [[create-exclusion-rule|Create an exclusion rule]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

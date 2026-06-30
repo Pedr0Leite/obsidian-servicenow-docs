@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-\[Omitted image "polaris-ui-incident-attach-kb.png"\] Alt text: Related Search [[hs-results|Results]] for an Incident displaying Knowledge article with Attach button.
+\[Omitted image "polaris-ui-incident-attach-kb.png"\] Alt text: Related Search Results for an Incident displaying Knowledge article with Attach button.
 
 ## Procedure
 
@@ -56,6 +56,3 @@ Specify which field to add a note to when you attach a Knowledge article to a re
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[hs-results|Results]]

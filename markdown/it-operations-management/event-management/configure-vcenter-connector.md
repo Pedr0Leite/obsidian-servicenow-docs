@@ -26,7 +26,7 @@ Role required: evt\_mgmt\_admin
 
 ## About this task
 
-Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) [[create-event-rules|event rules]] provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
+Starting from the Xanadu release, the OOTB \(Out-Of-The-Box\) event rules provided with the connector, which you have not previously used \(i.e., neither activated, deactivated, nor modified\), will now have the **Apply additional matching rules** check box set to true. Previously, this check box was disabled. This change allows you to execute more event rules or automation using the same filter conditions for the events.
 
 **Note:** This feature applies only to active event rules.
 
@@ -34,7 +34,7 @@ This connector has the **debug** and **logPayloadForDebug** log parameters enabl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Click **New**.
 
@@ -87,7 +87,3 @@ This connector has the **debug** and **logPayloadForDebug** log parameters enabl
 
 **Parent Topic:**[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

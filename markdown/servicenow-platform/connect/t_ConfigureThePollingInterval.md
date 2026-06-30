@@ -14,7 +14,7 @@ breadcrumb: [Connect administration, Connect, ServiceNow AI Platform Additional 
 
 # Configure the polling interval
 
-The polling interval determines how frequently the system polls for new [[c_Connect|Connect]] messages.
+The polling interval determines how frequently the system polls for new Connect messages.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 The default interval is 10 seconds. You can change this value. The shorter the polling interval, the more frequently the system checks for new messages and the greater the impact on performance.
 
-**Note:** This setting impacts [[c_Collaboration|Connect Chat]] and [[c_ConnectSupport|Connect Support]].
+**Note:** This setting impacts Connect Chat and Connect Support.
 
 ## Procedure
 
@@ -36,8 +36,4 @@ The default interval is 10 seconds. You can change this value. The shorter the p
 
     Setting the polling interval to a value smaller than 2 is likely to tax the system too heavily, while a value greater than 10 is likely to result in a poor user experience.
 
-## Related
 
-- [[c_Connect|Connect]]
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]

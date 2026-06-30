@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contractor Service Center, Health and Safety, Employee S
 
 # Domain separation and Contractor Service Center
 
-Domain separation is supported for [[hs-contractor-service-center-landing-page|Contractor Service Center]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Contractor Service Center. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -44,6 +44,3 @@ All tables in the Contractor Service Center can be domain-separated and include 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]

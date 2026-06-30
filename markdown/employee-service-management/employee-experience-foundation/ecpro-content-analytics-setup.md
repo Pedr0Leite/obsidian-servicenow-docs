@@ -14,7 +14,7 @@ breadcrumb: [Content Analytics, Setup continuous improvement, Configuring Employ
 
 # Create a Content Analytics tracking profile
 
-Use Tracking Profiles to configure your ServiceNow [[content-analytics-dashboards|content analytics dashboards]].
+Use Tracking Profiles to configure your ServiceNow content analytics dashboards.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Tracking profiles define:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ecpro-content-automation-analytics|Content Analytics]]** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Content Analytics** &gt; **Setup**.
 
 2.  Click **New**.
 
@@ -67,7 +67,7 @@ Default
 
 </td><td>
 
-Indicates that the profile is the default profile. Portals use the default tracking profile when configured for tracking without setting a specific tracker.**Note:** The base system [[employee-center-landing-page|Employee Center]] \(EC\) uses the default tracking profile.
+Indicates that the profile is the default profile. Portals use the default tracking profile when configured for tracking without setting a specific tracker.**Note:** The base system Employee Center \(EC\) uses the default tracking profile.
 
 </td></tr><tr><td>
 
@@ -129,8 +129,3 @@ The new tracking profile appears in the Tracking profiles list and the system cr
 
 2.  To manually execute the script, click **Execute Now**.
 
-## Related
-
-- [[content-analytics-dashboards|Content Analytics dashboards]]
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[employee-center-landing-page|Employee Center]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure the Discovery Console for OT, Discovery Console for Opera
 
 # Install a Linux operating system
 
-Install a Linux operating system on a virtual machine and then [[install-discovery-console-ot|install the Discovery Console for OT]] on the same VM.
+Install a Linux operating system on a virtual machine and then install the Discovery Console for OT on the same VM.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: admin
 ## About this task
 
 -   Install the distribution with minimal configuration, including an SSH server, and confirm the VM supports AVX/AVX2 instructions.
--   Allocate 16 GB of RAM for installation. ​For resource requirements, see [[deployment-scenarios|Operational Technology Discovery deployment scenarios]] or .
+-   Allocate 16 GB of RAM for installation. ​For resource requirements, see [Operational Technology Discovery deployment scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/deployment-scenarios.md) or .
 
 ## Procedure
 
@@ -33,7 +33,4 @@ Role required: admin
     |**Debian 12**|See [https://www.debian.org/releases/testing/amd64/](https://www.debian.org/releases/testing/amd64/).|
     |**Ubuntu 22.04 and 24.04**|See [https://ubuntu.com/tutorials/install-ubuntu-desktop\#1-overview](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview).|
 
-## Related
 
-- [[deployment-scenarios|Operational Technology Discovery deployment scenarios]]
-- [[install-discovery-console-ot|Install the Discovery Console for OT]]

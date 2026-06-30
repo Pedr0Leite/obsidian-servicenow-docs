@@ -28,13 +28,13 @@ Users with an edit access to the event record can edit the fields in the recover
 -   **Actual end**
 -   **Assigned group**
 
-For more information, see [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]].
+For more information, see [Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md).
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **[[crisis-management-uib|Crisis events]]** &gt; **Pending** and select the crisis event in the list.
+2.  In the List view, navigate to **Crisis events** &gt; **Pending** and select the crisis event in the list.
 
 3.  Select the **Event tasks** tab.
 
@@ -60,7 +60,7 @@ For more information, see [[perform-tasks-to-manage-crisis-events|Structured wor
 
 6.  After the bulk add completes, wait for the auto-refresh banner to dismiss, or select **Refresh** to refresh the **Event tasks** list manually.
 
-    The **Event tasks** list does not auto-refresh row by row. Instead, the banner **The event tasks are updated. Select Refresh to see updated data. List will auto-refresh once all tasks are created.** is displayed while the system creates the tasks. About ten seconds after the last task is created, the list refreshes once. This avoids repeated refreshes on event tasks lists that contain a large number of rows. For more information, see [[bcm-event-task-template-progress|Event task creation progress in exercise and crisis events]].
+    The **Event tasks** list does not auto-refresh row by row. Instead, the banner **The event tasks are updated. Select Refresh to see updated data. List will auto-refresh once all tasks are created.** is displayed while the system creates the tasks. About ten seconds after the last task is created, the list refreshes once. This avoids repeated refreshes on event tasks lists that contain a large number of rows. For more information, see [Event task creation progress in exercise and crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-event-task-template-progress.md).
 
     \[Omitted image "event-tasks-auto-refresh-banner.png"\] Alt text: Yellow banner stating the event tasks are updated with a Refresh button.
 
@@ -74,7 +74,7 @@ For more information, see [[perform-tasks-to-manage-crisis-events|Structured wor
 
     **Note:** An ad-hoc task is added to the crisis event so that you can take corrective actions for the crisis event. When you add an ad-hoc task to the crisis event that is in the **Work in progress** state and if the activated plan is in the **Work in progress** state, the tasks will be in the **Open** state. If the activated plan is the **Pending** state, the task will be in the **Pending** state.
 
-    For more information on the fields in the New Event Task form, see [[create-new-event-task-form-uib-ws|Create Event Task form]].
+    For more information on the fields in the New Event Task form, see [Create Event Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-event-task-form-uib-ws.md).
 
     **Note:** You cannot create an ad-hoc task for the activated plans that are in **Closed Complete** or **Closed Incomplete** state.
 
@@ -107,10 +107,3 @@ For more information, see [[perform-tasks-to-manage-crisis-events|Structured wor
 
 **Parent Topic:**[Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md)
 
-## Related
-
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[bcm-event-task-template-progress|Event task creation progress in exercise and crisis events]]
-- [[create-new-event-task-form-uib-ws|Create Event Task form]]
-- [[list-view-uib-ws|List view]]
-- [[crisis-management-uib|Crisis events]]

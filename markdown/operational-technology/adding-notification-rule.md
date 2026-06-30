@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[notification-rules-page|Notification Rules page]] in your Console.
+1.  Navigate to the Notification Rules page in your Console.
 
 2.  Select the add icon \[Omitted image "add-icon-msi.jpg"\] Alt text:.
 
@@ -40,6 +40,4 @@ Role required: admin
 
 4.  Select **Create Rule**.
 
-## Related
 
-- [[notification-rules-page|Notification Rules page]]

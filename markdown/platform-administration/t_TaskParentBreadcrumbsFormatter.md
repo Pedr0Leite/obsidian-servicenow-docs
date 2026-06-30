@@ -22,11 +22,11 @@ Role required: personalize\_form
 
 To add the parent breadcrumbs formatter to a form, configure the form and add **Parent Breadcrumbs** to the desired location. The breadcrumbs show only six levels of parents. If more levels exist, the breadcrumbs display an ellipsis \('''...'''\).
 
-The **Parent** [[reference-email-admin|reference]] field also has to contain a value for the breadcrumbs to appear. You may need to configure the form to contain the **Parent** field as well.
+The **Parent** reference field also has to contain a value for the breadcrumbs to appear. You may need to configure the form to contain the **Parent** field as well.
 
 \[Omitted image "ParentBreadcrumbReferenceField.png"\] Alt text: Problem Task showing breadcrumbs and the Parent reference field
 
-**Parent Topic:**[[c_Formatters|Using formatters]]
+**Parent Topic:**[Using formatters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Formatters.md)
 
 ## Customize the parent breadcrumbs formatter
 
@@ -97,7 +97,4 @@ To make the formatter available for a different table, duplicate the formatter u
 
 5.  Add the new formatter to the appropriate form.
 
-## Related
 
-- [[c_Formatters|Using formatters]]
-- [[reference-email-admin|Reference]]

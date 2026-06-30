@@ -26,7 +26,7 @@ Starting in the London release, the related search box is available in forms by 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Table Configuration**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Table Configuration**.
 
 2.  Open the record for the table whose form you want to show the related search box on.
 
@@ -39,6 +39,3 @@ Starting in the London release, the related search box is available in forms by 
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]

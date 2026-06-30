@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Global search displays a page of matching results
 
-Global search displays a page of [[hs-results|results]] that match your search, grouped by table.
+Global search displays a page of results that match your search, grouped by table.
 
 The elements included on the search results page differ by UI, as described in the following sections.
 
@@ -221,7 +221,7 @@ Name of the search group that includes the table with matching records.
 
 Partial list of matching records for the specified table, with maximum count controlled by the preview limit. By default, the system displays up to 10 matching records per table, sorted from highest to lowest document score. The system displays a separate list for each table in the search group. By default, the system uses the table's text\_search list view if available. Otherwise, it displays fields with the default list view.
 
- Users with the admin role can modify the default preview results limit and search results table list view by changing the values of the **glide.ui.text\_search.rowcount** and **glide.ui.text\_search.view** [[r_SetArchiveRuleProcessingBehavior|system properties]]. For more details on these properties, see [Set global text search properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-global-text-search-properties.md).
+ Users with the admin role can modify the default preview results limit and search results table list view by changing the values of the **glide.ui.text\_search.rowcount** and **glide.ui.text\_search.view** system properties. For more details on these properties, see [Set global text search properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/set-global-text-search-properties.md).
 
 </td></tr><tr><td>
 
@@ -229,7 +229,7 @@ Partial list of matching records for the specified table, with maximum count con
 
 </td><td>
 
-Name of the search group table and the number of matching records in the table. Click the link to launch a filtered list view based on the query. Users with the admin role can hide matching record counts by setting the **sn\_global\_searchui.hide\_results\_count** property to **true** in the [[r_AvailableSystemProperties|System Property]] table.
+Name of the search group table and the number of matching records in the table. Click the link to launch a filtered list view based on the query. Users with the admin role can hide matching record counts by setting the **sn\_global\_searchui.hide\_results\_count** property to **true** in the [System Property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_AvailableSystemProperties.md) table.
 
 </td></tr><tr><td>
 
@@ -273,9 +273,3 @@ List of search groups and tables with the number of search results per group and
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_AvailableSystemProperties|Available system properties]]
-- [[hs-results|Results]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating CPQ with visualization tools, CPQ with other apps, Inte
 
 Integrate kBridge for real-time 3D visualization. Sync configuration inputs with visual updates to enhance user experience.
 
-CPQ supports several different 3D visualization options in the end-user configuration experience. CPQ can be implemented to use kBridge as a visualization component that is updated in real time in the CPQ UI as the user changes configuration inputs \(one-way communication\). In addition, bidirectional \(two-way\) communication may be defined so that user manipulations of the graphic update CPQ configuration [[fields|fields]].
+CPQ supports several different 3D visualization options in the end-user configuration experience. CPQ can be implemented to use kBridge as a visualization component that is updated in real time in the CPQ UI as the user changes configuration inputs \(one-way communication\). In addition, bidirectional \(two-way\) communication may be defined so that user manipulations of the graphic update CPQ configuration fields.
 
 The following video shows how to integrate CPQ with kBridge for real-time updates:
 
@@ -58,8 +58,8 @@ width: number
 ## CPQ data
 
 -   `eventFields`: Mapping of CPQ fields to kBridge
--   `eventSets`: Mapping of CPQ [[cpq-sets|sets]] to kBridge
--   `eventProductPickers`: Mapping of CPQ [[product_picker_overview|product pickers]] to kBridge
+-   `eventSets`: Mapping of CPQ sets to kBridge
+-   `eventProductPickers`: Mapping of CPQ product pickers to kBridge
 -   `setActiveTriggers`: CPQ set triggers
 -   `listenerFields`: For two-way data communication involving one or more CPQ sets, this object specifies the CPQ text field variable name to which a JSON representation of the set\(s\), manipulated in the kBridge visualization by the user, will be returned to CPQ. The Admin must define a rule that parses the content of the listenerFields and populates the appropriate set inputs.
 
@@ -113,8 +113,3 @@ width: number
 
 For a discussion of features available among supported visualization applications in integration with CPQ, see [Visualization Integrations: An Overview](https://logikio.atlassian.net/wiki/spaces/CS/pages/1615462425/Visualization+Integrations+An+Overview).
 
-## Related
-
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[product_picker_overview|Product pickers]]

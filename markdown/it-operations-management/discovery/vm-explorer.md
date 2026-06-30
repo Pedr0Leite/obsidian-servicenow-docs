@@ -15,7 +15,7 @@ breadcrumb: [Discovery Admin Workspace Insights, Discovery Admin Workspace, Expl
 
 # Virtual Machine Explorer dashboard
 
-The [[discovery-admin-workspace|Discovery Admin Workspace]] Virtual Machine Explorer dashboard displays information on the activity and capacity of your virtual machine \(VM\) instances as revealed by the [[r-discovery|discovery]] process.
+The Discovery Admin Workspace Virtual Machine Explorer dashboard displays information on the activity and capacity of your virtual machine \(VM\) instances as revealed by the discovery process.
 
 \[Omitted image "vm\_daw.png"\] Alt text: VM dashboard
 
@@ -94,7 +94,3 @@ Displays the percent of VMs grouped by the following states: on, off, or other.V
 
 This section offers an overview of VM instances discovered, featuring key information such as the Object ID, Class, and Network adapters. You can select an instance from the table to view detailed information about it, or select the **Edit form** icon \(\[Omitted image "workspace-edit-vminstance.png"\] Alt text: Edit form icon\) to edit details and view activity. The filter icon \(\[Omitted image "filter-icon-daw.png"\] Alt text: filter icon\) enables you to apply fixed filters or create custom filters that can be saved and reused. To export the table, choose the **Export** option and select your preferred format: Excel, CSV, JSON, or PDF.
 
-## Related
-
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[r-discovery|Discovery]]

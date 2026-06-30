@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - servers, Configuring Agent Client Collector, Agent
 
 # Agent Client Collector Log Analytics setup
 
-Configure [[acc-log-analytics|Agent Client Collector Log Analytics]] on your ServiceNow instance either with or without using guided setup.
+Configure Agent Client Collector Log Analytics on your ServiceNow instance either with or without using guided setup.
 
 ## Agent Client Collector Log Analytics setup using guided setup
 
@@ -29,7 +29,7 @@ If you are not using guided setup, you must perform several configuration steps 
 -   **[Set up Agent Client Collector Log Analytics using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-guided-setup-use.md)**  
 Configure Agent Client Collector Log Analytics on your ServiceNow instance using guided setup.
 -   **[Set up Agent Client Collector Log Analytics without using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-enable-hla.md)**  
-Configure the [[acc-landing-page|Agent Client Collector]] to stream log data from Linux and Windows hosts to a ServiceNow instance without using guided setup.
+Configure the Agent Client Collector to stream log data from Linux and Windows hosts to a ServiceNow instance without using guided setup.
 -   **[Identify and resolve log streaming issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-verify-log-streaming.md)**  
 Make sure that your ACC data inputs are streaming data properly by identifying and resolving log streaming issues.
 -   **[View log shipper alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/accl-log-shipper-alerts.md)**  
@@ -39,7 +39,3 @@ View all log shipper events with all severity levels for Agent Client Collector 
 
 **Parent Topic:**[Deploying Agent Client Collector on servers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-server-deployment.md)
 
-## Related
-
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]

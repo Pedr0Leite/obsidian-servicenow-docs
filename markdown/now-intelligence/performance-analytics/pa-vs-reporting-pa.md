@@ -16,11 +16,11 @@ breadcrumb: [Explore, Performance Analytics \(Indicator data sources\), Platform
 
 Indicator data sources address a different set of use cases than table data sources.
 
-Generally speaking, table data shows current state and indicators show trends. Visualizations of table data are more suitable for managing records. [[c_Indicators|Performance Analytics indicators]] focus on managing processes. You need both.
+Generally speaking, table data shows current state and indicators show trends. Visualizations of table data are more suitable for managing records. Performance Analytics indicators focus on managing processes. You need both.
 
 Performance Analytics is able to generate accurate historical trends by capturing continuous snapshots on a regular schedule. As illustrated by the following diagram, table data answers the question of "Where are we today," while indicators answer questions of what is happening over time.
 
-\[Omitted image "pa-vs-[[reporting-landing-page|reporting]].png"\] Alt text: Reporting answers questions about what is happening now. Performance Analytics answers questions about where we were and where we are going.
+\[Omitted image "pa-vs-reporting.png"\] Alt text: Reporting answers questions about what is happening now. Performance Analytics answers questions about where we were and where we are going.
 
 In addition to calculating trends from snapshots, Performance Analytics is able to:
 
@@ -45,7 +45,3 @@ Finally, while you can develop table data visualizations through trial and error
 
 [Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[reporting-landing-page|Reporting]]

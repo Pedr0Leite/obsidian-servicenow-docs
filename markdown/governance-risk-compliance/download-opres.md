@@ -12,7 +12,7 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Install Operational Resilience application
 
-Install the GRC: [[grc-opres-landing-page|Operational Resilience]] application from the ServiceNow Store and run it in your instance.
+Install the GRC: Operational Resilience application from the ServiceNow Store and run it in your instance.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ Role required: admin
 
     The application dependencies are installed by default.
 
-    **Note:** If you purchased the IRM Professional SKU \(alone or with BCM Professional\), you must install the IRM plugins manually. If you purchased only the BCM Professional SKU, you cannot install the IRM plugins. For more information, see [[roles-installed-with-op-res|Roles installed with Operational Resilience]].
+    **Note:** If you purchased the IRM Professional SKU \(alone or with BCM Professional\), you must install the IRM plugins manually. If you purchased only the BCM Professional SKU, you cannot install the IRM plugins. For more information, see [Roles installed with Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/roles-installed-with-op-res.md).
 
 4.  To install Digital resilience incident reporting, search for 'Digital resilience incident reporting' \(com.sn\_app\_digital\_resilience\_incident\_reporting\), select **Install** and confirm the install on your instance.
 
@@ -60,7 +60,3 @@ Role required: admin
 
 [List of plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/t_ActivateGRCPandC.md)
 
-## Related
-
-- [[roles-installed-with-op-res|Roles installed with Operational Resilience]]
-- [[grc-opres-landing-page|Operational Resilience]]

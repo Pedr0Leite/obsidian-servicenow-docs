@@ -22,44 +22,34 @@ Make sure that Now Assist is enabled in the instance. For more information, see 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
-3.  Select the **Screens** category, and then choose the [[parameter-input-screen|input form screen]] you wish to add resolution notes generation to, or select **New**.
+3.  Select the **Screens** category, and then choose the input form screen you wish to add resolution notes generation to, or select **New**.
 
     **Note:** The input form screen must have at least one **String** type input as this is where the summary text will be generated.
 
-4.  [[param-screen-config-actions|Create a parameter action]].
+4.  [Create a parameter action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/param-screen-config-actions.md).
 
-5.  [[create-mobile-ui-rule|Create a mobile UI rule]] with the **onUserAction** trigger type.
+5.  [Create a mobile UI rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mobile-ui-rule.md) with the **onUserAction** trigger type.
 
     This action is what will show up on the keyboard when a user clicks into an input field.
 
     **Note:** Parameter actions will only support triggering record summarization and will only appear when the input field is empty.
 
-6.  [[create-mobile-ui-rule-action|Create a mobile UI rule action]] with the **Record Summarization** operation type.
+6.  [Create a mobile UI rule action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mobile-ui-rule-action.md) with the **Record Summarization** operation type.
 
 7.  Add a delete action using the **ShowDeleteAll** input attribute.
 
-    For more information, see [[parameter-screen-var-attr|Input form screen attributes for inputs]].
+    For more information, see [Input form screen attributes for inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/parameter-screen-var-attr.md).
 
 8.  Select **Save**.
 
 
-**Parent Topic:**[[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 
-## Related
-
-- [[param-screen-config-actions|Configure input sources in an input form screen]]
-- [[create-mobile-ui-rule|Create a mobile UI rule]]
-- [[create-mobile-ui-rule-action|Create a mobile UI rule action]]
-- [[parameter-screen-var-attr|Input form screen attributes for inputs]]
-- [[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[parameter-input-screen|Input form screen]]

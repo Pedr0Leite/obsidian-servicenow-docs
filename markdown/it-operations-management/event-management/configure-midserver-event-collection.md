@@ -14,11 +14,11 @@ breadcrumb: [Configure a push connector, Configure Event Management connectors, 
 
 # Configure a MID Server for event collection using a push operation \(listener\)
 
-The MID Server supports the collection of event messages, using the [[mid-web-server|MID Web Server]] to collect data from external sources and transforming \(parsing\) them to the format required for event fields in the event \[em\_event\] table. The transformed events are then transmitted to the instance.
+The MID Server supports the collection of event messages, using the MID Web Server to collect data from external sources and transforming \(parsing\) them to the format required for event fields in the event \[em\_event\] table. The transformed events are then transmitted to the instance.
 
 ## Before you begin
 
-Ensure that the [[c_EM|Event Management]] Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
+Ensure that the Event Management Connectors \(sn\_em\_connector\) plugin is installed on the ServiceNow AI Platform instance.
 
 Role required: evt\_mgmt\_admin
 
@@ -64,7 +64,3 @@ Configure the MID WebService Event Collector to enable a URL method to push even
 
 [Configure the MID WebService Event Collector Context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-em-context-extension.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]
-- [[c_EM|Event Management]]

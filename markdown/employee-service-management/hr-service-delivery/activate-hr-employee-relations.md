@@ -14,7 +14,7 @@ breadcrumb: [Configuring Employee Relations, Employee Relations, Case and Knowle
 
 # Activate Employee Relations
 
-You can activate Human Resources Scoped App: [[hr-case-employee-relations|Employee Relations]] \[com.sn\_hr\_employee\_relations\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
+You can activate Human Resources Scoped App: Employee Relations \[com.sn\_hr\_employee\_relations\] if you have the admin role. This plugin includes demo data and activates related plugins if they are not already active.
 
 ## Before you begin
 
@@ -110,7 +110,7 @@ HR ER administrator\[sn\_hr\_er.admin\]
 
 </td><td>
 
-Can access and configure [[hr-service-delivery|HR Service Delivery]] Employee Relations.
+Can access and configure HR Service Delivery Employee Relations.
 
 </td><td>
 
@@ -272,8 +272,3 @@ Contains information on involved parties related to the ER case.**Note:** A non-
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-delivery|HR Service Delivery]]

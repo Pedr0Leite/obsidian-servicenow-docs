@@ -12,7 +12,7 @@ breadcrumb: [Dynamic Schema, Administer, Field administration, Forms, fields, an
 
 # Working with Dynamic Schema
 
-Extend [[dynamic-schema|Dynamic Schema]] capabilities by defining dynamic attributes and dynamic categories in a dynamic namespace.
+Extend Dynamic Schema capabilities by defining dynamic attributes and dynamic categories in a dynamic namespace.
 
 After planning your metadata strategy, you can start building out your schema by creating dynamic attribute records in the dynamic namespace. Formally defining attributes provides several key benefits.
 
@@ -25,36 +25,28 @@ After planning your metadata strategy, you can start building out your schema by
 
 Implement Dynamic Schema using the following process.
 
-1.  [[create-dynamic-attribute-store-field|Create a dynamic attribute store field]]
+1.  [Create a dynamic attribute store field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-attribute-store-field.md)
 
     Get started by creating a dynamic attribute field for storing your dynamic attributes.
 
-2.  [[add-dynamic-attributes|Create a dynamic attribute]]
+2.  [Create a dynamic attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes.md)
 
     Define one or more dynamic attributes in the dynamic namespace that's associated with the dynamic store field.
 
-3.  [[create-dynamic-category|Create a dynamic category]]
+3.  [Create a dynamic category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-dynamic-category.md)
 
     Define one or more dynamic categories in the dynamic namespace.
 
-4.  [[add-dynamic-attributes-dynamic-category|Include dynamic attributes in a dynamic category]]
+4.  [Include dynamic attributes in a dynamic category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes-dynamic-category.md)
 
     Organize your dynamic attributes using the dynamic categories that you defined.
 
-5.  [[create-choice-set|Create a dynamic choice set]]
+5.  [Create a dynamic choice set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-choice-set.md)
 
     Define a fixed set of choices for an attribute and create choice overrides as needed.
 
-6.  [[add-dynamic-attributes-record|Add dynamic attributes to a record]]
+6.  [Add dynamic attributes to a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/add-dynamic-attributes-record.md)
 
     Populate the dynamic attribute store field using the GlideRecord setValue\(\) method or by entering attributes and values as JSON.
 
-## Related
 
-- [[create-dynamic-attribute-store-field|Create a dynamic attribute store field]]
-- [[add-dynamic-attributes|Create a dynamic attribute]]
-- [[create-dynamic-category|Create a dynamic category]]
-- [[add-dynamic-attributes-dynamic-category|Include dynamic attributes in a dynamic category]]
-- [[create-choice-set|Create a dynamic choice set]]
-- [[add-dynamic-attributes-record|Add dynamic attributes to a record]]
-- [[dynamic-schema|Dynamic Schema]]

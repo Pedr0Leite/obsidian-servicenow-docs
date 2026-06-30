@@ -34,7 +34,7 @@ After creation, each related template owns its naming pattern independently. Cha
 
 Because each related template owns its own pattern after creation, you can edit any single related template's pattern without affecting the rest. This flexibility lets you handle exceptions — for example, a slot that needs a non-standard naming format for integration with an external tool.
 
-Overrides are visible to anyone reading [[inventory-template-overview-tab|the Inventory Template Overview tab]], where the resolved name produced by each related template's current pattern appears as the tree node label. Inconsistencies — for example, ten slots producing names like `Slot -1`, `Slot -2` and an eleventh slot producing `Slot-11` because of a manual edit — appear side by side in the tree, making them easy to spot before the template is used to create CIs.
+Overrides are visible to anyone reading the Inventory Template Overview tab, where the resolved name produced by each related template's current pattern appears as the tree node label. Inconsistencies — for example, ten slots producing names like `Slot -1`, `Slot -2` and an eleventh slot producing `Slot-11` because of a manual edit — appear side by side in the tree, making them easy to spot before the template is used to create CIs.
 
 ## Who works at each layer
 
@@ -80,6 +80,3 @@ The Inventory Template Overview tab supports both activities by showing the reso
 
 [The Inventory Template Overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-template-overview-tab.md)
 
-## Related
-
-- [[inventory-template-overview-tab|The Inventory Template Overview tab]]

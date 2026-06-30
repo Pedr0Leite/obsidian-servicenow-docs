@@ -35,7 +35,7 @@ Level 4 LEI validation checks LEI codes in the Digital resilience third-party re
 
 1.  Configure LEI validation system properties to control upload save behavior and API settings.
 
-    1.  Navigate to **All** &gt; **Digital [[grc-opres-landing-page|Operational Resilience]] Management** &gt; **Properties**.
+    1.  Navigate to **All** &gt; **Digital Operational Resilience Management** &gt; **Properties**.
 
     2.  In the DORA LEI Validation section, review and update the following properties as needed.
 
@@ -117,6 +117,3 @@ Maximum number of LEI codes sent in a single batch GLEIF API call. Valid range: 
 
 When all LEI codes pass validation, the Level 4 LEI Validation Report is still included in the `Consolidated_Reports.zip` attachment and the request record message confirms successful validation.
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]

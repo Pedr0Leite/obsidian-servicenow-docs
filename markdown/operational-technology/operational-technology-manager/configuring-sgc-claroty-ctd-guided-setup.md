@@ -14,7 +14,7 @@ breadcrumb: [Service Graph Connector Integration for Claroty CTD, Integrate, Ope
 
 # Configure the Service Graph Connector Integration for Claroty CTD
 
-Use the guided setup for [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]] to lead you through the integration steps.
+Use the guided setup for Service Graph Connector Integration for Claroty CTD to lead you through the integration steps.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Dependencies and requirements:
 -   Review that **View** access is enabled in Claroty CTD for the following user permissions to collect data from Claroty CTD to ServiceNow:
     -   Visibility
     -   Investigation
--   The [[industrial-core-plugin|Industrial Core plugin]]. You must activate this plugin.
+-   The Industrial Core plugin. You must activate this plugin.
 
     The Industrial Core plugin is required to access the class mappings table for the Service Graph Connector Integration for Claroty CTD. For more information about the Industrial Core plugin, see [Industrial Core plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/industrial-core-plugin.md).
 
@@ -146,7 +146,7 @@ Set to **true**.
 
         For more information, see [MID Server certificate check policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-security-checks.md).
 
-8.  To [[configure-ot-incident-management-properties|set the system properties]] that configure the API resource paths, pagination sizes, and API key expiration times,complete the following:
+8.  To set the system properties that configure the API resource paths, pagination sizes, and API key expiration times,complete the following:
 
     1.  In the Configure System Properties section, select **Configure**.
 
@@ -322,7 +322,7 @@ Property to provide a list of Purdue Levels separated by the delimiter \($\). Fo
 
     **Note:** Empty rack slots associated with a PLC are no longer imported into the Configuration Management Database \(CMDB\).
 
-    1.  In the [[configure-import-schedules|Configure Import Schedules]] section, select the Configure Sites Import Schedule task.
+    1.  In the Configure Import Schedules section, select the Configure Sites Import Schedule task.
 
     2.  Select **Configure**.
 
@@ -600,9 +600,9 @@ Save any schedule changes by selecting **Update**.
 </td></tr></tbody>
 </table>12. When configuration items \(CIs\) are created in the CMDB, asset records are created.
 
-    The asset record contains the model category of the CI. For more information about the [[model-categories-for-ot|model categories for Operational Technology]] \(OT\), see [Model categories for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
+    The asset record contains the model category of the CI. For more information about the model categories for Operational Technology \(OT\), see [Model categories for Operational Technology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/model-categories-for-ot.md). To view the model category for an OT device, complete the following:
 
-    1.  Navigate to **All** &gt; **[[operational-technology-overview|Operational Technology]] \(OT\)** &gt; **All OT Devices**.
+    1.  Navigate to **All** &gt; **Operational Technology \(OT\)** &gt; **All OT Devices**.
     2.  Select an OT device to view its asset record in a new tab.
 13. To troubleshoot the Service Graph Connector Integration for Claroty CTD, complete the following:
 
@@ -629,11 +629,3 @@ Save any schedule changes by selecting **Update**.
 
 **Parent Topic:**[Service Graph Connector Integration for Claroty CTD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/sgc-cmdb-integration-claroty-ctd.md)
 
-## Related
-
-- [[sgc-cmdb-integration-claroty-ctd|Service Graph Connector Integration for Claroty CTD]]
-- [[industrial-core-plugin|Industrial Core plugin]]
-- [[configure-ot-incident-management-properties|Set the system properties]]
-- [[configure-import-schedules|Configure import schedules]]
-- [[model-categories-for-ot|Model categories for Operational Technology]]
-- [[operational-technology-overview|Operational Technology]]

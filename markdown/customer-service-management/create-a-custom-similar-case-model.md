@@ -27,9 +27,9 @@ The model looks at the prediction fields of a prediction table and the training 
 
 ## Set up similar cases prediction model
 
-Use Task [[intelligence-csm|Intelligence]] for CSM to set up similar case prediction model and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model.
+Use Task Intelligence for CSM to set up similar case prediction model and train it with your data to make predictions. Access your model's performance results, set the prediction preferences and behavior, and deploy your model.
 
-1.  Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Setup** to access the [[csm-task-intel-admin-center|Task Intelligence Admin Console]].
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup** to access the Task Intelligence Admin Console.
 2.  On the **Suggest similar case to reduce resolution time** card, select **Set up model**.
 
 This action opens the model and displays the introductory pages. Each page in the model asks you questions and helps you select the information needed to build an effective model.
@@ -77,9 +77,9 @@ Steps in Assess the similarity model:
 
     |Options|Description|
     |-------|-----------|
-    |Recommendations|Shows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced [[configure-nba|Recommended actions]] for CSM. For more information, see [[configure-recommended-actions|Configuring the Recommended Actions application]].|
+    |Recommendations|Shows the top recommendations based on the similarity patterns. Agents can choose to accept or reject the recommendation. You can configure the number of recommended values using Advanced Recommended actions for CSM. For more information, see [Configuring the Recommended Actions application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-recommended-actions.md).|
     |Turn off predictions|Stops the model from performing any predictions.|
-    |Monitor only|Monitors and runs the model in the background only without making any predictions on the [[r_CustomerServiceCaseForm|case form]].|
+    |Monitor only|Monitors and runs the model in the background only without making any predictions on the case form.|
 
 4.  Select **Save &amp; continue**.
 
@@ -92,11 +92,3 @@ Deploy the Similar cases model to predict the similar records for the cases.
 
 A pop-up appears confirming that your model was deployed.
 
-## Related
-
-- [[configure-recommended-actions|Configuring the Recommended Actions application]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[configure-nba|Recommended Actions]]
-- [[r_CustomerServiceCaseForm|Case form]]

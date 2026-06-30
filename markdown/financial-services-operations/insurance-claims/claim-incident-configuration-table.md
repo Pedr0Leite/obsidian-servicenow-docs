@@ -14,11 +14,11 @@ breadcrumb: [Configure, Insurance claims, Exploring insurance claims application
 
 # Claim Incident Configuration table
 
-Associate the service definition of a case with the incident and adjuster task service definitions by using the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table in the [[insurance-claims-flow|Insurance claims]] application.
+Associate the service definition of a case with the incident and adjuster task service definitions by using the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table in the Insurance claims application.
 
 ## Claim Incident Configuration table overview
 
-You can define the [[claim-incidents|claim incidents]] that can be created in the Insurance claims workflow by making an entry in the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table. This incident type also creates an adjuster task in the system for the corresponding case so that you don't have to notify the adjuster about the case.
+You can define the claim incidents that can be created in the Insurance claims workflow by making an entry in the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table. This incident type also creates an adjuster task in the system for the corresponding case so that you don't have to notify the adjuster about the case.
 
 To access the Claim Incident Configuration \[sn\_ins\_claim\_incident\_config\] table, set the application scope of your instance to **Insurance claims**, and then navigate to **All** &gt; **Insurance claims** &gt; **Administration** &gt; **Claim incident configurations**.
 
@@ -128,7 +128,3 @@ If the claim incident supports an itemized loss as defined in the table, the **I
 
 \[Omitted image "incident-itemized-loss.png"\] Alt text: Itemized Loss/Expenses tab is displayed for an incident when the Itemized loss available is true.
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]
-- [[claim-incidents|Claim incidents]]

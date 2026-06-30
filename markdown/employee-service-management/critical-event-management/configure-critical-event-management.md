@@ -14,7 +14,7 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
 # Configuring Critical Event Management
 
-As an admin you can customize the [[critical-event-management|Critical Event Management]] application by installing the application and reviewing and configuring the components that are installed with the application.
+As an admin you can customize the Critical Event Management application by installing the application and reviewing and configuring the components that are installed with the application.
 
 ## Configuration overview
 
@@ -24,11 +24,11 @@ As an admin you can customize the [[critical-event-management|Critical Event Man
 
 -   [Configure Critical Event Management groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/configure-critical-event-management-groups.md)
 
-    Create groups, [[add-members-group|add members to the group]], and assign roles to the members.
+    Create groups, add members to the group, and assign roles to the members.
 
 -   [Define communication plans, tasks, and recipients](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/define-communication-plan.md)
 
-    Customize communication plans, [[create-applicant-tasks|create tasks]], and add recipients.
+    Customize communication plans, create tasks, and add recipients.
 
 -   [Configure Twilio to send SMS notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/configure-twilio-sms.md)
 
@@ -46,8 +46,4 @@ As an admin you can customize the [[critical-event-management|Critical Event Man
 
     Add knowledge articles about emergency procedures or edit existing ones.
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]
-- [[add-members-group|Add members to the group]]
-- [[create-applicant-tasks|Create tasks]]

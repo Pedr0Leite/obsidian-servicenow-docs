@@ -32,7 +32,7 @@ After creating an article, there are two publishing options:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_TargetedCommunications|Targeted Communications]]** &gt; **Create New Publication**.
+1.  Navigate to **All** &gt; **Targeted Communications** &gt; **Create New Publication**.
 
 2.  Fill in the fields on the Publication form.
 
@@ -75,7 +75,7 @@ If desired, select a category for the publication. The following categories are 
 
 </td></tr><tr><td>
 
-Recipient [[migration-lists|Lists]]
+Recipient Lists
 
 </td><td>
 
@@ -170,8 +170,3 @@ The stage is set to **Review** and the publication is sent to the approver for r
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]
-- [[migration-lists|Lists]]

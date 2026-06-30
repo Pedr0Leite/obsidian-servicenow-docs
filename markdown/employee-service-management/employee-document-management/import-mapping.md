@@ -14,7 +14,7 @@ breadcrumb: [Bulk imports, Use, Employee Document Management, HR Documents, HR S
 
 # Use import mapping to locate and transform source employee documents
 
-Import mapping locates your source employee documents from your source document repository and transforms them to import them to [[hr-employee-doc-management|Employee Document Management]].
+Import mapping locates your source employee documents from your source document repository and transforms them to import them to Employee Document Management.
 
 Import maps define mapping variables used to acquire meta data from the source document repository. It also allows you to correctly identify the employee documents you want to import and maps them to required elements in Employee Document Management.
 
@@ -67,6 +67,3 @@ You can also use scripts to map source elements to the required map elements for
 
 **Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-uploads.md)
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]

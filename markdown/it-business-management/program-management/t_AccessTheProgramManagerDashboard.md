@@ -14,7 +14,7 @@ breadcrumb: [Program Dashboard, Program Management, Project Portfolio Management
 
 # Access the Program Dashboard
 
-View different graphical reports for your programs on the [[pmo-dashboard|PMO Dashboard]].
+View different graphical reports for your programs on the PMO Dashboard.
 
 ## Before you begin
 
@@ -22,14 +22,10 @@ Role required: it\_program\_manager
 
 ## Procedure
 
-1.  Navigate to **Projects** &gt; **Programs** &gt; **[[c_ProgramManagerDashboard|Program Dashboard]]**.
+1.  Navigate to **Projects** &gt; **Programs** &gt; **Program Dashboard**.
 
     The PMO Dashboard is displayed.
 
 
 **Parent Topic:**[Program Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagerDashboard.md)
 
-## Related
-
-- [[pmo-dashboard|PMO dashboard]]
-- [[c_ProgramManagerDashboard|Program Dashboard]]

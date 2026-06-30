@@ -12,7 +12,7 @@ breadcrumb: [Order Management reference, Reference, Sales Customer Relationship 
 
 # Jeopardy Management roles and personas
 
-Learn more about how the roles and personas in [[explore-order-management|Order Management]] may change by adopting [[jeopardy-management|Jeopardy Management]].
+Learn more about how the roles and personas in Order Management may change by adopting Jeopardy Management.
 
 ## Roles in Jeopardy Management
 
@@ -37,7 +37,7 @@ System administrator
 </td><td>
 
 -   Configures fulfillment flows for Jeopardy Management.
--   Configures all jeopardy-related decision table rule [[cpq-sets|sets]] that define jeopardy fulfillment policies.
+-   Configures all jeopardy-related decision table rule sets that define jeopardy fulfillment policies.
 -   Configures service level agreements \(SLA\) definitions for tasks.
 -   Reviews and updates existing workflows and adds jeopardy actions when updates are required.
 -   Reviews and updates jeopardy decision tables.
@@ -48,7 +48,7 @@ Admin
 
 </td></tr><tr><td>
 
-[[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]] manager
+Order fulfillment manager
 
 </td><td>
 
@@ -105,12 +105,5 @@ Service order agent
 sn\_ind\_tmt\_orm.service\_order\_agent
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[order-mgt-reference|Order Management reference]]
+</table>**Parent Topic:**[Order Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-reference.md)
 
-## Related
-
-- [[order-mgt-reference|Order Management reference]]
-- [[explore-order-management|Order management]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[cpq-sets|Sets]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

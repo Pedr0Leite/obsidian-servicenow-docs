@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  To view existing neighborhoods with assigned spaces and user allocation, navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Neighborhood** &gt; **All**.
+1.  To view existing neighborhoods with assigned spaces and user allocation, navigate to **All** &gt; **Workplace Core** &gt; **Neighborhood** &gt; **All**.
 
 2.  Select a neighborhood, then add spaces from a group, cost center, or department, by selecting **Assign spaces**.
 
@@ -146,7 +146,7 @@ Table
 
 </td><td>
 
-By default, the **sys\_user** table is selected.User criteria [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] various user fields \(from the User \[sys\_user\] table\), such as department, cost center, and group.
+By default, the **sys\_user** table is selected.User criteria reference various user fields \(from the User \[sys\_user\] table\), such as department, cost center, and group.
 
 </td></tr><tr><td>
 
@@ -186,18 +186,12 @@ Option to make users active in a neighborhood.
 
         Workplace Profile records are updated, added, or removed. A move task is initiated for employees who have a new space allocation and who are moved from one floor to another.
 
-11. To create and manage a neighborhood in [[workplace-central-feat|Workplace Central]] for a scenario, see [Create a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
+11. To create and manage a neighborhood in Workplace Central for a scenario, see [Create a scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
 12. To view and reserve spaces in a neighborhood using the Reservation Management portal, see [Create neighborhood reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/create-neighborhood-reservations.md).
 
-13. To [[add-a-user-to-neighbourhood|add a user to the neighborhood]], refer to [Add a user to the neighborhood](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-a-user-to-neighbourhood.md).
+13. To add a user to the neighborhood, refer to [Add a user to the neighborhood](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/add-a-user-to-neighbourhood.md).
 
 
 **Parent Topic:**[Managing Neighborhoods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/neighborhoods.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[workplace-central-feat|Workplace Central]]
-- [[add-a-user-to-neighbourhood|Add a user to the neighborhood]]

@@ -21,7 +21,7 @@ Generate a Java KeyStore \(JKS\) file for OAuth authentication setup. This proce
 
 Role required: admin
 
-This task requires a credentials JSON file from the [[card-data-security|Card Data Security]] tokenizer service. See [Initial setup for Vault schema, Connections and Service Account for Card data security \(KB2830577\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2830577) for more information.
+This task requires a credentials JSON file from the Card Data Security tokenizer service. See [Initial setup for Vault schema, Connections and Service Account for Card data security \(KB2830577\)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2830577) for more information.
 
 ## Procedure
 
@@ -46,6 +46,3 @@ A JKS file is generated for use in your ServiceNow instance.
 
 [Create an X.509 Certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/create-an-x-509-certificate.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

@@ -14,11 +14,11 @@ breadcrumb: [Manage map objects and data, Indoor Mapping, Workplace Service Deli
 
 # Create a campus with buildings and floors
 
-Create your first [[Indoor-mapping|Indoor Mapping]] campus and add a few buildings and floors to it using the Indoor Mapping Map Studio. Import your CAD and raster image source files to complete your campus configuration.
+Create your first Indoor Mapping campus and add a few buildings and floors to it using the Indoor Mapping Map Studio. Import your CAD and raster image source files to complete your campus configuration.
 
 ## Before you begin
 
-[[install-indoor-mapping|Install Indoor Mapping]] and configure basic information about your campus, building, or floors in the Map Studio by importing the floor plan sources.
+Install Indoor Mapping and configure basic information about your campus, building, or floors in the Map Studio by importing the floor plan sources.
 
 **Note:** Upload and Import AutoCAD \(DWF or DXF\) or raster image \(PNG\) source files in the Map Studio.
 
@@ -123,7 +123,3 @@ Role required: map admin, map editor, map editor limited
 
 **Next topic:**[Working with boundary editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/working-with-boundary-editor.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[install-indoor-mapping|install indoor mapping]]

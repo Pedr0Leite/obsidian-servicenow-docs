@@ -20,7 +20,7 @@ Now Assist for Operational Sustainability is supported starting from the Yokoham
 
 ## Supported user interfaces
 
-The Now Assist for Operational Sustainability application skill [[ai-driven-document-intelligence-for-utility-invoices|Document Intelligence for Utility Invoices]] can be accessed on Operational Sustainability Workspace.
+The Now Assist for Operational Sustainability application skill Document Intelligence for Utility Invoices can be accessed on Operational Sustainability Workspace.
 
 ## Application information
 
@@ -31,12 +31,7 @@ This store app has the following dependencies:
 -   Now Assist Platform
 -   Environmental, Social, Governance Management
 
-For more information, see [[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]].
+For more information, see [Configure Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configure-now-assist-for-esg.md).
 
-**Parent Topic:**[[exploring-now-assist-for-esg|Exploring Now Assist for Operational Sustainability \(formerly ESG\)]]
+**Parent Topic:**[Exploring Now Assist for Operational Sustainability \(formerly ESG\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/exploring-now-assist-for-esg.md)
 
-## Related
-
-- [[configure-now-assist-for-esg|Configure Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[exploring-now-assist-for-esg|Exploring Now Assist for Operational Sustainability \(formerly ESG\)]]
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]

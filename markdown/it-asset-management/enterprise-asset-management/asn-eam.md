@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Use Advanced Shipment Notification in Enterprise Asset Management
 
-[[advanced-shipment-notification|Use Advanced Shipment Notification]] \(ASN\) to automate and create enterprise asset records for when your assets are in transit.
+Use Advanced Shipment Notification \(ASN\) to automate and create enterprise asset records for when your assets are in transit.
 
 ## Before you begin
 
@@ -26,13 +26,13 @@ Role required: sn\_eam.enterprise\_admin
 
 Creating enterprise asset records manually is time consuming and can lead to errors. Use ASN to reduce the risk of shipment going missing or misplaced and increase inventory accuracy.
 
-If the asset records that you want to create belong to [[model-hierarchy|model categories]] linked to a CI class with identification rules defined for fields like the Asset tag, Serial number, or MAC address, you must provide details for at least one of these fields in the ASN template. Otherwise, the asset record won't be created. For example, if identification rules are defined for the Serial number and MAC address, you should provide a value for either of these fields.
+If the asset records that you want to create belong to model categories linked to a CI class with identification rules defined for fields like the Asset tag, Serial number, or MAC address, you must provide details for at least one of these fields in the ASN template. Otherwise, the asset record won't be created. For example, if identification rules are defined for the Serial number and MAC address, you should provide a value for either of these fields.
 
 The identification rules for a CI class are defined in the CMDB Identification and Reconciliation engine \(IRE\). For more details, see [Identification rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_IdentificationRules.md) and [Create a CI identification rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCIIdentificationRule.md). These rules help to uniquely identify the asset through these required fields and maintain accurate asset records.
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **[[c_Procurement|Procurement]]** &gt; **Advance shipment**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Procurement** &gt; **Advance shipment**.
 
 2.  Select **New**.
 
@@ -46,7 +46,7 @@ The identification rules for a CI class are defined in the CMDB Identification a
 
     **Note:** From the Yokohama release onward, the Download template for Advanced Shipment Notification includes the **MAC address** field. After a successful import, the MAC address that you provided in the template is added to the **MAC address** \[mac\_addr\] field in the Asset \[alm\_asset\] table.
 
-    Starting with the Zurich release, the Download template for Advanced Shipment Notification includes the **OT entity** column. When this column is set to **TRUE** for hardware [[c_Models|models]], it creates OT hardware assets in the [[ot-asset-ws-otam|OT Asset Workspace]].
+    Starting with the Zurich release, the Download template for Advanced Shipment Notification includes the **OT entity** column. When this column is set to **TRUE** for hardware models, it creates OT hardware assets in the OT Asset Workspace.
 
     The upload may take some time. Once the file is uploaded, the name of the spreadsheet appears in the **File** field.
 
@@ -69,11 +69,3 @@ The identification rules for a CI class are defined in the CMDB Identification a
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[advanced-shipment-notification|Use Advanced Shipment Notification]]
-- [[model-hierarchy|Model categories]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[ot-asset-ws-otam|OT Asset Workspace]]

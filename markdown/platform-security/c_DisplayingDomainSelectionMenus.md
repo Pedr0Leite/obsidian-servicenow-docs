@@ -19,20 +19,15 @@ The instance offers domain selection via two menu formats.
 
 The placement of these pickers and the procedure to show or hide them differ depending on the user interface version.
 
--   **[[t_EnableDomainReferencePickerProperty|Enable domain selection menus in Core UI]]**  
+-   **[Enable domain selection menus in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_EnableDomainReferencePickerProperty.md)**  
 Displaying the domain picker in Core UI enables the domain selector by default. After enabling the domain selector, you can add a system property to enable the domain reference picker.
--   **[[t_RestrictAccesstoDomainPicker|Restrict access to the domain picker]]**  
+-   **[Restrict access to the domain picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_RestrictAccesstoDomainPicker.md)**  
 Use a system property to restrict access to the domain picker in Core UI and Next Experience.
 
-**Parent Topic:**[[c_DomainSeparationAdministration|Advanced domain separation administration]]
+**Parent Topic:**[Advanced domain separation administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparationAdministration.md)
 
 **Related topics**  
 
 
 [Domain separation application properties]()
 
-## Related
-
-- [[t_EnableDomainReferencePickerProperty|Enable domain selection menus in Core UI]]
-- [[t_RestrictAccesstoDomainPicker|Restrict access to the domain picker]]
-- [[c_DomainSeparationAdministration|Advanced domain separation administration]]

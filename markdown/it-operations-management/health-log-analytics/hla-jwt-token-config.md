@@ -15,7 +15,7 @@ breadcrumb: [MID-less log streaming, MID-less integrations, Set up integrations 
 
 # Configure a JSON Web Token \(JWT\) provider and token for Health Log Analytics
 
-Configure a JWT provider and token to authenticate log streaming integrations sending data to [[hla-landing-page|Health Log Analytics]] \(HLA\) via ITOM Gateway. This configuration is required before you can activate any ITOM Gateway integration in Integrations Launchpad.
+Configure a JWT provider and token to authenticate log streaming integrations sending data to Health Log Analytics \(HLA\) via ITOM Gateway. This configuration is required before you can activate any ITOM Gateway integration in Integrations Launchpad.
 
 ## Before you begin
 
@@ -123,6 +123,3 @@ The JWT provider and token are configured, enabling Health Log Analytics to auth
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

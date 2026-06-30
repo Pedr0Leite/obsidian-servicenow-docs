@@ -33,7 +33,7 @@ Role required: admin
     |Label|Label used for displaying the record hierarchy.|
     |Name|Internal name for the record hierarchy.|
     |Table|The table with records that you want organize into a hierarchy.|
-    |Reference Field|The self-[[reference-email-admin|reference]] field that defines parent-child relationships between records in the selected table.|
+    |Reference Field|The self-reference field that defines parent-child relationships between records in the selected table.|
 
 4.  Select **Submit**.
 
@@ -46,6 +46,3 @@ A record hierarchy based on the specified reference field is created. The Servic
 
 Build queries in condition builder using the \[is in hierarchy\] or \[is in hierarchy \(dynamic\)\] operators. See [Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md).
 
-## Related
-
-- [[reference-email-admin|Reference]]

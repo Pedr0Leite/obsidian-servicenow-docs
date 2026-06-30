@@ -16,15 +16,15 @@ breadcrumb: [Configure the Localization Framework, Localization Framework, Trans
 
 You can define translation and workflow preferences for one or more languages and for one or all the available artifacts with Localization Framework settings.
 
-Before you define the translation and workflow preferences, ensure that you have the required artifacts to define the [[ia-localization-il|localization]] settings. For more information, see [Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md).
+Before you define the translation and workflow preferences, ensure that you have the required artifacts to define the localization settings. For more information, see [Artifact configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/framework-configuration.md).
 
 **Note:** Languages with no localization settings can't be selected for translation requests.
 
-You can enable one or more of the following [[translation-modes|translation modes]] to define the translation preferences. For more information, see [Translation modes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/translation-modes.md).
+You can enable one or more of the following translation modes to define the translation preferences. For more information, see [Translation modes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/translation-modes.md).
 
 -   Activate the required translator if you want to use machine translation.
 
-    **Note:** Machine translation in the [[localization-framework-landing|Localization Framework]] application is powered by [[dynamic-translation|Dynamic Translation]]. Therefore, activating the Dynamic Translation plugin \(com.glide.dynamic\_translation\) enables you to use the machine translation capability in Localization Framework
+    **Note:** Machine translation in the Localization Framework application is powered by Dynamic Translation. Therefore, activating the Dynamic Translation plugin \(com.glide.dynamic\_translation\) enables you to use the machine translation capability in Localization Framework
 
     .
 
@@ -42,9 +42,3 @@ Use update sets to migrate your translations to another instance. Configure prop
 
 **Parent Topic:**[Configure the Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/configuring-localization-framework.md)
 
-## Related
-
-- [[ia-localization-il|Localization]]
-- [[translation-modes|Translation modes]]
-- [[localization-framework-landing|Localization Framework]]
-- [[dynamic-translation|Dynamic translation]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage the receiving of assets at stockrooms, Manage stockrooms, Us
 
 # Import and receive assets in bulk at your stockroom in the Hardware Asset Workspace
 
-Receive multiple hardware and [[c_ReceiveAConsumableAsset|consumable assets]] at your stockroom by importing the asset records using an Excel template in the [[using-ham-workspace|Hardware Asset Workspace]].
+Receive multiple hardware and consumable assets at your stockroom by importing the asset records using an Excel template in the Hardware Asset Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ham\_admin
 
 ## About this task
 
-This task enables you to [[c_ReceiveAssets|receive assets]] with existing records, and also new assets, only if you have provided valid asset details in the template.
+This task enables you to receive assets with existing records, and also new assets, only if you have provided valid asset details in the template.
 
 When you import a template with asset details, extensive validation is performed on each row. The records from the template and the validation results are stored in the Import asset row \[sn\_itam\_cmn\_import\_asset\_row\] table.
 
@@ -31,20 +31,20 @@ When you import a template with asset details, extensive validation is performed
 The asset data validation takes care of the following points:
 
 -   Child assets can't be received.
--   Enterprise assets can only be received if the [[enterprise-asset-management|Enterprise Asset Management]] application is activated.
--   Operational Technology \(OT\) assets can only be received if the [[ot-asset-management|OT Asset Management]] application is activated.
+-   Enterprise assets can only be received if the Enterprise Asset Management application is activated.
+-   Operational Technology \(OT\) assets can only be received if the OT Asset Management application is activated.
 -   Assets can be received only if the following conditions are fulfilled:
     -   The required fields are provided.
     -   The asset quantity is valid.
     -   The Source type and Source ticket details are valid.
 -   Asset from purchase order lines can be received only in Zurich and later releases.
--   [[asset-bundles-concept|Asset bundles]] can't be received.
+-   Asset bundles can't be received.
 
 ## Procedure
 
 1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  Select the stockroom for which you want to receive hardware or consumable assets.
 
@@ -67,7 +67,7 @@ The asset data validation takes care of the following points:
 
                 -   `TOL` for transfer order line
                 -   `POL` for purchase order line
-                -   `RMAL` for [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\)
+                -   `RMAL` for Return Merchandise Authorization \(RMA\)
                 **Note:** This field is required for a consumable asset so that the correct asset is identified and received.
 
             -   **Source ticket**: The request number of the source workflow that's associated with the asset that you want to receive, such as TO line number, PO line number, or RMA line number.
@@ -116,13 +116,3 @@ The asset data validation takes care of the following points:
 
 **Parent Topic:**[Manage the receiving of assets at stockrooms in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-stockroom-receive-hws.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[c_ReceiveAssets|Receive assets]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-management|OT Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Stockrooms|Stockrooms]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

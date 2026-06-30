@@ -14,9 +14,9 @@ breadcrumb: [Encryption rule objects and APIs, Define a custom encryption rule, 
 
 # request
 
-The request object is a global object available in [[edge-encryption|Edge Encryption]] rule action and condition scripts.
+The request object is a global object available in Edge Encryption rule action and condition scripts.
 
-The request object is a JavaScript object that represents the client request coming in to the Edge Encryption proxy server. You must build your [[encryption-landing|encryption]] rule to parse the request object, map request object values to fields in a table on the instance, and encrypt any sensitive data in the request object.
+The request object is a JavaScript object that represents the client request coming in to the Edge Encryption proxy server. You must build your encryption rule to parse the request object, map request object values to fields in a table on the instance, and encrypt any sensitive data in the request object.
 
 The request object includes the following attributes and data from the client request:
 
@@ -32,7 +32,7 @@ The request object includes the following attributes and data from the client re
 
 ## request - getAsJsonContent\(\)
 
-Returns the request as an iterable object of type [[c_JsonNodeAPI|JsonNode]].
+Returns the request as an iterable object of type JsonNode.
 
 This method is available only in an Edge Encryption rule if the request body is a valid JSON payload. If you are not sure what format the request body includes, check the contentType field on the request object.
 
@@ -48,7 +48,7 @@ Once the request is returned as a JsonNode object, you can use the [JSON APIs](h
 
 ## request - getAsXmlContent\(\)
 
-Returns the request content as an iterable object of type [[c_XMLContentAPI|XMLContent]].
+Returns the request content as an iterable object of type XMLContent.
 
 This method is available only in an Edge Encryption rule if the request body is a valid XML payload. If you are not sure what format the request body includes, check the contentType field on the request object.
 
@@ -76,9 +76,3 @@ This method is available only if the request body is a valid XML payload. If you
 |----|-----------|
 |Boolean|Whether the given path exists in the XML DOM.|
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[c_JsonNodeAPI|JsonNode]]
-- [[c_XMLContentAPI|XMLContent]]

@@ -14,11 +14,11 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Compare quotes and select a supplier from Shopping Hub Home
 
-Review the quotes that you have received from the various suppliers for the product you had requested sourcing for. These quotes are displayed after the sourcing requests have listed similar suppliers for the product model you requested for. You can choose to award the [[supplier|supplier]] with the quote that best fulfills your requirements.
+Review the quotes that you have received from the various suppliers for the product you had requested sourcing for. These quotes are displayed after the sourcing requests have listed similar suppliers for the product model you requested for. You can choose to award the supplier with the quote that best fulfills your requirements.
 
 ## Before you begin
 
-To review the quotes that you have received from suppliers, you should have received at least one quote from a supplier for your product. Only then, this to-do is displayed to you on [[shopping-hub-overview|Shopping Hub]] Home.
+To review the quotes that you have received from suppliers, you should have received at least one quote from a supplier for your product. Only then, this to-do is displayed to you on Shopping Hub Home.
 
 Role required: sn\_shop.shopper
 
@@ -62,7 +62,3 @@ Reject all the quotes if none of them serve your purpose.**Note:** When rejectin
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[shopping-hub-overview|Shopping Hub]]

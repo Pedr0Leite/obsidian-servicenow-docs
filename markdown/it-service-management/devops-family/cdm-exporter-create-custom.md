@@ -18,7 +18,7 @@ Copy an existing exporter script as a starting point for a custom exporter.
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_exporter\_editor or cdm\_editor or cdm\_admin
 
@@ -91,6 +91,4 @@ Select the check box to require that the argument value is specified.
 
         The argument now appears in the **Input arguments** field on the Test Playground panel.
 
-## Related
 
-- [[devops-config-landing-page|DevOps Config]]

@@ -14,17 +14,17 @@ breadcrumb: [Microsoft Exchange Online integration, Security Incident Response i
 
 # Edit security tags for the Microsoft Exchange Online integration
 
-You can edit the names and colors of the security tags in your ServiceNow AI Platform® instance for the [[ms-exchange-online-lookups|Microsoft Exchange Online integration]]. These security tags help you quickly identify when email search either completes or fails. They also identify when requests to delete emails are initiated and when the email items are successfully deleted.
+You can edit the names and colors of the security tags in your ServiceNow AI Platform® instance for the Microsoft Exchange Online integration. These security tags help you quickly identify when email search either completes or fails. They also identify when requests to delete emails are initiated and when the email items are successfully deleted.
 
 ## Before you begin
 
-By default, the security tags are enabled in your ServiceNow AI Platform® instance if you select the **Display Tags** option during the configuration step. You can edit tag colors and names, and assign tags to security tag groups to help you organize them in your ServiceNow AI Platform® instance. For example, you can change the colors of tags so that the start tag of a capability is one color, and the completion tag is another color to match the other security tags that are enabled in your ServiceNow AI Platform® instance. These different colors can help you quickly identify when workflows start and are successfully completed. If you decide that you do not need a specific tag, without disabling tagging for the integration, you can also disable a single tag from the tag record. If disabled, this tag is no longer displayed on the related security incidents. For more information on how to [[create-class-group-and-tags|set up security tag groups and tags]], see Set up security tag groups and tags on the [Servicenow Product Documentation website](https://www.servicenow.com/docs).
+By default, the security tags are enabled in your ServiceNow AI Platform® instance if you select the **Display Tags** option during the configuration step. You can edit tag colors and names, and assign tags to security tag groups to help you organize them in your ServiceNow AI Platform® instance. For example, you can change the colors of tags so that the start tag of a capability is one color, and the completion tag is another color to match the other security tags that are enabled in your ServiceNow AI Platform® instance. These different colors can help you quickly identify when workflows start and are successfully completed. If you decide that you do not need a specific tag, without disabling tagging for the integration, you can also disable a single tag from the tag record. If disabled, this tag is no longer displayed on the related security incidents. For more information on how to set up security tag groups and tags, see Set up security tag groups and tags on the [Servicenow Product Documentation website](https://www.servicenow.com/docs).
 
 Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Exchange Online Settings**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Exchange Online Settings**.
 
 2.  Click the **Additional Settings** tab to select it.
 
@@ -116,8 +116,3 @@ Description for the tag.
 
 **Next topic:**[Microsoft Exchange On-Premises integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/ms-exch-on-prem-landing-page.md)
 
-## Related
-
-- [[ms-exchange-online-lookups|Microsoft Exchange Online integration]]
-- [[create-class-group-and-tags|Set up security tag groups and tags]]
-- [[security-operations-landing-page|Security Operations]]

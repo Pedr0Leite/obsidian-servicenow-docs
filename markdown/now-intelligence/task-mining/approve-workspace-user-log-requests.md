@@ -14,7 +14,7 @@ breadcrumb: [Requesting workstation user data, Use, Task Mining, Platform Analyt
 
 # Approve workspace user data collection
 
-Approve requests from [[task-mining|Task Mining]] analysts to enable workstation user data collection.
+Approve requests from Task Mining analysts to enable workstation user data collection.
 
 ## Before you begin
 
@@ -37,6 +37,4 @@ A request for approval is sent to every manager of each workstation user that da
 
         **Note:** A reason is required when rejecting a data request.
 
-## Related
 
-- [[task-mining|Task Mining]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace reservations for employees, Manage workplace saf
 
 # Create workplace reservations for an employee
 
-[[reserve-workspaces-for-employees|Create workplace reservations for an employee]] in the [[workplace-safety-mgmt-hr|Workplace Core]] application using the shifts and shift schedules that you defined.
+Create workplace reservations for an employee in the Workplace Core application using the shifts and shift schedules that you defined.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ breadcrumb: [Managing workplace reservations for employees, Manage workplace saf
 -   [Define the capacity of workplace areas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/define-capacity-of-workplace-areas-wsd.md)
 -   Ensure you have the data that shows the mapping of employees to the workplaces in your workplace.
 
-**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-services|workplace services]] provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
+**Important:** Starting with Workplace Core \(sn\_wsd\_core\) version 2.1, all updates and new features are available only on the Workplace Service Portal. The workplace services provided by ServiceNow® are removed from the Service Portal on Workplace Core \(sn\_wsd\_core\) beginning with version 2.1. To configure the Workplace service catalog in the Service Portal, see [Configure a catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/associate-portal-catalog.md).
 
 Role required: sn\_wsd\_core.workplace\_manager
 
@@ -36,7 +36,7 @@ You can also access the Reservation form by navigating to **Workplace Core** &gt
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Browse Workplace Services**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Browse Workplace Services**.
 
 2.  Scroll and select **Reserve a space**.
 
@@ -109,10 +109,3 @@ Date and time until which the reservation remains active.
 
 **Parent Topic:**[Managing workplace reservations for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/managing-workplace-reservations-wsd.md)
 
-## Related
-
-- [[reserve-workspaces-for-employees|Create workplace reservations for an employee]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-services|Workplace Services]]
-- [[employee-center-landing-page|Employee Center]]

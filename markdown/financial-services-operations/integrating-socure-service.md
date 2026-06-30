@@ -17,7 +17,7 @@ The ServiceNow® Financial Services Operations integration with Socure enables y
 With the ServiceNow® Financial Services Operations Integration with Socure application, you can do the following tasks:
 
 -   Streamline your customer's onboarding journey.
--   Verify an applicant's identity and eligibility by using a plugin that uses the [[fso-kyc-landing-page|Financial Services Know Your Customer]] \(KYC\) application.
+-   Verify an applicant's identity and eligibility by using a plugin that uses the Financial Services Know Your Customer \(KYC\) application.
 -   Improve a customer's risk determination by executing subflows that look up a customer's fraud scores.
 -   Enable your clients to embed Socure APIs in workflows that are developed with the Financial Services Operations Integration with Socure.
 -   Streamline your risk analysis and document verification processes.
@@ -40,7 +40,3 @@ With the ServiceNow® Financial Services Operations Integration with Socure appl
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-kyc-landing-page|Financial Services Know Your Customer]]

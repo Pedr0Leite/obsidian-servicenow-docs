@@ -42,9 +42,9 @@ Role required: admin
 
 ## What to do next
 
-[[upload-email-certificate|Upload an email certificate]].
+[Upload an email certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upload-email-certificate.md).
 
-**Parent Topic:**[[smime-for-email-signing-and-encryption|Setting up S/MIME for email]]
+**Parent Topic:**[Setting up S/MIME for email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
@@ -55,7 +55,3 @@ Role required: admin
 
 [Enable S/MIME]()
 
-## Related
-
-- [[upload-email-certificate|Upload an email certificate]]
-- [[smime-for-email-signing-and-encryption|Setting up S/MIME for email]]

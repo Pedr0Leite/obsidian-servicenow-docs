@@ -26,7 +26,7 @@ All data imported from UCF Authority Documents is read-only and must be protecte
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Unified Compliance Integration**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Unified Compliance Integration**.
 
 2.  Click the **UCF** configuration.
 
@@ -74,7 +74,7 @@ This message may also indicate that the authority documents are part of an exist
 
 </td><td>
 
-Starting with [[r_PolicyComplianceMgmt|Policy and Compliance Management]] version 12.0.4, your UCF Administrator receives an email with links to any invalid records. 1.  Click a link in the mail and fix the record\(s\) listed.
+Starting with Policy and Compliance Management version 12.0.4, your UCF Administrator receives an email with links to any invalid records. 1.  Click a link in the mail and fix the record\(s\) listed.
 2.  Repeat for other invalid records, if they appear in the email.
 3.  Click **Import Shared List** to download again.
  **Note:**
@@ -100,7 +100,7 @@ If the selected UCF Shared List that you are downloading does not include all th
 
     \[Omitted image "ucf-review-records.png"\] Alt text: List of changed records
 
-    Authority documents in the UCF content are organized and mapped to their proper citations, which in turn are mapped to a common set of controls. The [[tprm-terminology|terminology]] between UCF and the GRC applications differs slightly as explained in the following table.
+    Authority documents in the UCF content are organized and mapped to their proper citations, which in turn are mapped to a common set of controls. The terminology between UCF and the GRC applications differs slightly as explained in the following table.
 
     |UCF|ServiceNow GRC application|
     |---|--------------------------|
@@ -111,8 +111,3 @@ If the selected UCF Shared List that you are downloading does not include all th
 
 **Parent Topic:**[Integrate with UCF Common Controls Hub to manage compliance frameworks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/c_UCF.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[tprm-terminology|Terminology]]

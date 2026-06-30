@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for BCPs, Manage, Business Continuity Manageme
 
 # Add asset and scope to the BCP
 
-Add an asset and the scope to the business continuity plan \(BCP\). You can then view the primary elements in the [[bcm-workspace|BCM Configurable Workspace]].
+Add an asset and the scope to the business continuity plan \(BCP\). You can then view the primary elements in the BCM Configurable Workspace.
 
 ## Before you begin
 
@@ -24,18 +24,18 @@ You can select a primary asset and track its related assets in the plan. You can
 
 You can check the Types column in the **Scope** tab to see the classification of an asset. An asset can be classified as a primary scope type, a related asset type, or both. To understand the source of the relationship for related assets, such as an upstream BIA or a CMDB asset from which the dependency originates, refer to the Relationship Source column in the Plan Asset and Snapshot records. The Relationship source column in the **Asset dependencies** tab shows the actual record responsible for pulling this relationship. If two business impact analyses \(BIAs\) have the same asset dependencies, the most recent BIA is recognized as the relationship source and it is shown in the Types column in the plan.
 
-You can use the Hierarchical view in the plan form to view the parent-child relationship of the assets. You can toggle the view to display either the [[list-view-uib-ws|List view]] or the Hierarchical view. When the dependencies are updated, the values in the columns of the **Scope** and **Asset dependencies** tabs are updated and color-coded for reference as shown in the examples:
+You can use the Hierarchical view in the plan form to view the parent-child relationship of the assets. You can toggle the view to display either the List view or the Hierarchical view. When the dependencies are updated, the values in the columns of the **Scope** and **Asset dependencies** tabs are updated and color-coded for reference as shown in the examples:
 
 -   BIA
 -   Recovery time objective \(RTO\)
 -   Recovery point objective \(RPO\)
 -   Recovery tier \(RT\)
 
-You can use the updated dependencies from the most recent BIA record to conduct a dependency assessment on an asset. Employing these updated dependencies enables you to accurately carry out the [[bia-uib|business impact analysis]]. Additionally, it assists in determining the essential recovery timeframe and data backup needs for the assets, which are then shown in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
+You can use the updated dependencies from the most recent BIA record to conduct a dependency assessment on an asset. Employing these updated dependencies enables you to accurately carry out the business impact analysis. Additionally, it assists in determining the essential recovery timeframe and data backup needs for the assets, which are then shown in the Required Recovery Timeframe and Required Data Backup columns of the BIA record.
 
 \[Omitted image "data-pulled-in-scope-tab.png"\] Alt text: Data in scope tab.
 
-The Hierarchical view is used to evaluate the BIA, Recovery time objective \(RTO\), Recovery point objective \(RPO\), and Recovery tier \(RT\) values between the primary and related assets within a plan. The color coding helps [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) planners to compare these metrics:
+The Hierarchical view is used to evaluate the BIA, Recovery time objective \(RTO\), Recovery point objective \(RPO\), and Recovery tier \(RT\) values between the primary and related assets within a plan. The color coding helps Business Continuity Management \(BCM\) planners to compare these metrics:
 
 -   Rows where the RTO or RPO value for the primary asset is lower than that of the related asset are marked in Red.
 -   Rows where the RTO or RPO value for the primary asset exceeds that of the related asset are marked in Green.
@@ -75,12 +75,5 @@ When you hover over the information icon in the column, it shows the comparison 
 5.  Select **Save**.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[list-view-uib-ws|List view]]
-- [[bia-uib|Business impact analysis]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

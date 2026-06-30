@@ -14,7 +14,7 @@ breadcrumb: [MID Server configuration file security, Securing and encrypting MID
 
 # MID Server IMidServerEncrypter interface
 
-Use the methods in this interface to create a custom external encrypter for the [[mid-server-landing|MID Server]] **config.xml** file.
+Use the methods in this interface to create a custom external encrypter for the MID Server **config.xml** file.
 
 **Note:** These methods are contained in the **snc-automation-api.jar** file, located in the MID Server installation folder.
 
@@ -93,6 +93,3 @@ Decrypted data.
 </td></tr></tbody>
 </table>**Parent Topic:**[MID Server configuration file security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/mid-server-encrypter-api.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]

@@ -28,7 +28,7 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
 
 3.  In the Contracts and Entitlements - Customer Contracts list, select the customer contract.
 
-4.  Select **[[Resume|Resume]]**.
+4.  Select **Resume**.
 
 5.  In the Resume customer contract window, in the **Start date and time** field, enter when you want to resume the customer contract.
 
@@ -47,6 +47,3 @@ Role required: sn\_customerservice\_manager and sn\_ind\_tmt\_orm.order\_agent.
 
 The customer contract and all its associated child contract lines and entitlements are back in Active or Draft state, depending on the start date of the respective entity.
 
-## Related
-
-- [[Resume|Resume]]

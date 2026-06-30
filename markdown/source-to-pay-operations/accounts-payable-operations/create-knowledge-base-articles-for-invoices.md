@@ -15,7 +15,7 @@ breadcrumb: [Use, Accounts Payable Operations, Finance and Supply Chain]
 
 # Create a knowledge base article about invoice
 
-[[create-kb-fcm|Create a knowledge base article]] to share invoice information and policies with your employees and suppliers.
+Create a knowledge base article to share invoice information and policies with your employees and suppliers.
 
 ## Before you begin
 
@@ -72,7 +72,7 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -86,10 +86,5 @@ Role required: sn\_ap\_apm.accounts\_payable\_specialist
 
 [Playbook for updating the invoice primary data]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[create-kb-fcm|Create a knowledge base article]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-central|Supplier Collaboration Portal]]

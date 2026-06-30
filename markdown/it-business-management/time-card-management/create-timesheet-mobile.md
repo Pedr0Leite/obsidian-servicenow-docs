@@ -14,7 +14,7 @@ breadcrumb: [Mobile Time Sheets, Time Card management, Project Portfolio Managem
 
 # Create a time sheet from your mobile device
 
-[[create-time-sheet|Create a time sheet]] to group all your [[c_TimeCards|time cards]] for the given week and submit them in a single step from the Now Mobile application.
+Create a time sheet to group all your time cards for the given week and submit them in a single step from the Now Mobile application.
 
 ## Before you begin
 
@@ -40,7 +40,3 @@ Search for a specific time sheet from the time sheet lists by applying filters.
 
 **Parent Topic:**[Mobile Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/timesheet-mobile.md)
 
-## Related
-
-- [[create-time-sheet|Create a time sheet]]
-- [[c_TimeCards|Time cards]]

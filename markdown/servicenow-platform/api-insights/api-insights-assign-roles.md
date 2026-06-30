@@ -14,7 +14,7 @@ breadcrumb: [System administrator tasks, Configure, API Insights, Configuration 
 
 # Assign roles for API Insights users
 
-Assign roles to control access to features, capabilities, and data in the [[api-insights|API Insights]] application.
+Assign roles to control access to features, capabilities, and data in the API Insights application.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Users with the sn\_api\_insights\_ws.api\_mgmt\_architect\_admin, sn\_api\_insig
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[api-insights|API Insights]]

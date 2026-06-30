@@ -12,7 +12,7 @@ breadcrumb: [Set up the emission factor library, Configure, Operational Sustaina
 
 # Import emission activities and map their locations
 
-Use the [[esg-content-accelerator|Unified content management]] application to import the standard emission activities and add their locations. These emission factors identify which activities within your organization are producing specific amounts of pollution. The reason you must add locations to a factor is that an organization may have different locations and each location may have a different factor value for different periods.
+Use the Unified content management application to import the standard emission activities and add their locations. These emission factors identify which activities within your organization are producing specific amounts of pollution. The reason you must add locations to a factor is that an organization may have different locations and each location may have a different factor value for different periods.
 
 ## Before you begin
 
@@ -43,9 +43,5 @@ Role required: sn\_esg.program\_manager, sn\_esg.admin
 
 The emission activities are mapped to the emission factor sources and the factors are ready to be used in calculate metric definitions.
 
-**Parent Topic:**[[set-up-the-emission-factor-library|Set up the emission factor library]]
+**Parent Topic:**[Set up the emission factor library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-the-emission-factor-library.md)
 
-## Related
-
-- [[set-up-the-emission-factor-library|Set up the emission factor library]]
-- [[esg-content-accelerator|Unified content management]]

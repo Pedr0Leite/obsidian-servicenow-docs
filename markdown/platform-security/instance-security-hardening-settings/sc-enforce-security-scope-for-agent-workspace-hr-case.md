@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Enforce Security Scope for Agent Workspace for HR Case Management \[New in Security Center 1.5 and updated in 2.0\]
 
-Configure the Agent Workspace for HR Case Management plugin so that data in scope master tables can only be accessed by [[users|users]] with the correct permissions, enforcing the principle of least privilege.
+Configure the Agent Workspace for HR Case Management plugin so that data in scope master tables can only be accessed by users with the correct permissions, enforcing the principle of least privilege.
 
-When the **glide.enforce\_security\_scope.sn\_hr\_agent\_ws** plugin is configured to the recommended value of true, then only the [[sc-access-control|access control]] lists \(ACLs\) within the Agent Workspace for HR Case Management plugin are used to determine access to a resource. When this setting is set to false, then Agent Workspace for HR Case Management data in scope master tables are exposed because the ACLs from all scopes are granted access.For example, an IT Administrator can access Agent Workspace for HR Case Management data when this setting is set to false. To prevent this from happening, set **glide.enforce\_security\_scope.sn\_hr\_agent\_ws** to the recommended value of true which ensures that the principle of least privilege exists as users can only access resources they have permission to.
+When the **glide.enforce\_security\_scope.sn\_hr\_agent\_ws** plugin is configured to the recommended value of true, then only the access control lists \(ACLs\) within the Agent Workspace for HR Case Management plugin are used to determine access to a resource. When this setting is set to false, then Agent Workspace for HR Case Management data in scope master tables are exposed because the ACLs from all scopes are granted access.For example, an IT Administrator can access Agent Workspace for HR Case Management data when this setting is set to false. To prevent this from happening, set **glide.enforce\_security\_scope.sn\_hr\_agent\_ws** to the recommended value of true which ensures that the principle of least privilege exists as users can only access resources they have permission to.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -114,9 +114,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

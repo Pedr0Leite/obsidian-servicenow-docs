@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Update multiple work order tasks simultaneously
 
-Save time and update multiple work order tasks at once in the calendar in [[dispatcher-activities|Dispatcher Workspace]].
+Save time and update multiple work order tasks at once in the calendar in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -40,6 +40,3 @@ Role required: wm\_dispatcher
     -   Unlock all
     -   Deselect all
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

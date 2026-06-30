@@ -14,7 +14,7 @@ breadcrumb: [Report compliance case, Use, Compliance Case Management, Governance
 
 # Report a compliance case from the Employee Center
 
-Report any violation of the organization's policies or guidelines by using the [[employee-center|Employee Center]] application. By reporting a case, you reduce and avert the adverse regulatory actions that could impact the company's financials, reputation, and growth.
+Report any violation of the organization's policies or guidelines by using the Employee Center application. By reporting a case, you reduce and avert the adverse regulatory actions that could impact the company's financials, reputation, and growth.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: sn\_grc\_emp\_user.grc\_employee or sn\_comp\_case.compliance\_ca
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the [[compliance-case-form-employee-center|Report a compliance case form]], see [Report a Compliance Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-form-employee-center.md).
+    For a description of the field values on the Report a compliance case form, see [Report a Compliance Case form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-form-employee-center.md).
 
 5.  On the Report a compliance case form, select **Add attachments** to attach supporting material or evidence.
 
@@ -42,7 +42,3 @@ Use the Report a Compliance Case form in the Employee Center to report a complia
 
 **Parent Topic:**[Reporting a compliance case in GRC: Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/reporting-compliance-case.md)
 
-## Related
-
-- [[employee-center|employee center]]
-- [[compliance-case-form-employee-center|Report a Compliance Case form]]

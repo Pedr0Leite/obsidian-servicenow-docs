@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # AWS Health Monitoring default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for AWS monitoring.
+Agent Client Collector provides the following default checks and policies for AWS monitoring.
 
 <table id="table_rgw_psy_vrb"><thead><tr><th>
 
@@ -378,7 +378,3 @@ Batch size. Number of clusters to fetch metrics in parallel. \(Default value: 10
 
 [AWS metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/aws-metrics.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

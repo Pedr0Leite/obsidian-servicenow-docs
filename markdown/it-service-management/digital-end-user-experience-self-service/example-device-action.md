@@ -14,11 +14,11 @@ breadcrumb: [Reference, Digital End-user Experience Self-service, Digital End-Us
 
 # Custom device action example
 
-Example of creating a device action that enables end users to reconnect to their VPN on Windows [[dex-workspace-devices-tab|devices]] and restore access to internal resources from Employee Center without contacting the service desk.
+Example of creating a device action that enables end users to reconnect to their VPN on Windows devices and restore access to internal resources from Employee Center without contacting the service desk.
 
 ## Example configuration
 
-Creating a device action requires configuring an issue configuration, a [[remedial-action|remedial action]], and a device action record.
+Creating a device action requires configuring an issue configuration, a remedial action, and a device action record.
 
 -   Issue configuration to identify a VPN connectivity issue on Windows devices and enabled for end users.
 
@@ -27,7 +27,7 @@ Creating a device action requires configuring an issue configuration, a [[remedi
     |Field|Value|
     |-----|-----|
     |Title|`VPN connectivity issue`|
-    |Action Applicability|`[[device-actions|Device actions]]`|
+    |Action Applicability|`Device actions`|
     |Category|`Network stability`|
     |Subcategory|`VPN connectivity`|
     |Type|`Device`|
@@ -58,8 +58,3 @@ Creating a device action requires configuring an issue configuration, a [[remedi
 
 When an end user selects the **Reconnect VPN** device action from the Employee Center, the remedial action linked to the device action runs on the device and restores the VPN connection.
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-action|Remedial action]]
-- [[device-actions|Device actions]]

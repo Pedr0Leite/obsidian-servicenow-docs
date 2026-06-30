@@ -24,7 +24,7 @@ Role required: sn\_client\_sf\_dist.csd\_admin, admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ClientSoftwareDistribution|Client Software Distribution]]** &gt; **Extensions** &gt; **Providers**.
+1.  Navigate to **All** &gt; **Client Software Distribution** &gt; **Extensions** &gt; **Providers**.
 
 2.  Click **New**.
 
@@ -86,7 +86,7 @@ Deployment flow
 
 </td><td>
 
-Flow that deploys software from the provider server. This is the flow you created with custom activities that tells the provider where to deploy an application requested from the [[service-catalog|service catalog]].
+Flow that deploys software from the provider server. This is the flow you created with custom activities that tells the provider where to deploy an application requested from the service catalog.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,3 @@ Option to use Integration Hub flows for client software distribution. When this 
 </table>
 **Parent Topic:**[Client software distribution extension framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_CSDExtensionFramework.md)
 
-## Related
-
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[service-catalog|Service Catalog]]

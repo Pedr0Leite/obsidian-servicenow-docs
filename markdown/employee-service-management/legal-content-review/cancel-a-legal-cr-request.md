@@ -26,7 +26,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 2.  Select **View all** from the **My Requests** panel.
 
-3.  Open your submitted [[legal-content-review|Legal Content Review]] request.
+3.  Open your submitted Legal Content Review request.
 
 4.  From the Actions menu, select **Cancel Request**.
 
@@ -41,6 +41,3 @@ Role required: sn\_lg\_ops.legal\_user
 
 **Parent Topic:**[Legal Content Review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-content-review-requests.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]

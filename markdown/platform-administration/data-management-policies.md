@@ -18,23 +18,23 @@ Manage the growth and storage of data on your instance by creating data manageme
 
 Create and manage Data Management rules in Core UI.
 
--   [[create-data-management-policy|Create a data management policy in Core UI]]
+-   [Create a data management policy in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-data-management-policy.md)
 
     Create a data management policy for any table that accumulates data that you want to archive or delete periodically.
 
--   [[archiving-older-records|Archiving records in Core UI]]
+-   [Archiving records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archiving-older-records.md)
 
-    Move records in a primary table to an archive table, including any records in other tables that [[reference-email-admin|reference]] those records.
+    Move records in a primary table to an archive table, including any records in other tables that reference those records.
 
--   [[deleting-older-records|Deleting older or unwanted records in Core UI]]
+-   [Deleting older or unwanted records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-older-records.md)
 
     Prevent data from growing exponentially by implementing table cleanup rules.
 
--   [[updating-records-safely|Updating records safely in Core UI]]
+-   [Updating records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/updating-records-safely.md)
 
     Update several records simultaneously without using scripts by creating and executing a batch update job.
 
--   [[deleting-records-safely|Deleting records safely in Core UI]]
+-   [Deleting records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-records-safely.md)
 
     Safely delete records from a table without using scripts and without deleting the table by creating and executing delete jobs.
 
@@ -49,18 +49,8 @@ Delete older, expired, or unwanted records from tables automatically.
 Update several records simultaneously without using scripts by creating and executing a batch update job.
 -   **[Deleting records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-records-safely.md)**  
 Safely delete records from a table without using scripts and without deleting the table by creating and executing delete jobs.
--   **[[archive-reference-migration|Migrating non-reference fields to reference fields]]**  
+-   **[Migrating non-reference fields to reference fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/archive-reference-migration.md)**  
 Manually preserve sys\_ids in reference fields instead of storing the display name as a string.
 
-**Parent Topic:**[[c_DataManagement|Data Management]]
+**Parent Topic:**[Data Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DataManagement.md)
 
-## Related
-
-- [[create-data-management-policy|Create a data management policy in Core UI]]
-- [[archiving-older-records|Archiving records in Core UI]]
-- [[deleting-older-records|Deleting older or unwanted records in Core UI]]
-- [[updating-records-safely|Updating records safely in Core UI]]
-- [[deleting-records-safely|Deleting records safely in Core UI]]
-- [[archive-reference-migration|Migrating non-reference fields to reference fields]]
-- [[c_DataManagement|Data Management]]
-- [[reference-email-admin|Reference]]

@@ -16,7 +16,7 @@ breadcrumb: [ACL debugging tools, Advanced ACL configuration, Access Control Lis
 
 The ACL configuration watcher lets you know what related ACLs exist on a table when you insert, update, or delete an ACL on the same table.
 
-The ACL configuration watcher is an interceptor window that displays every time you make important changes on the [[sc-access-control|Access Control]] \[sys\_security\_acl\] table. It displays a security rules summary window where you can view ACLs related to the one you are modifying. You cannot modify any ACLs from the security rules window. To make any modifications, close the watcher window and go to those ACLs.
+The ACL configuration watcher is an interceptor window that displays every time you make important changes on the Access Control \[sys\_security\_acl\] table. It displays a security rules summary window where you can view ACLs related to the one you are modifying. You cannot modify any ACLs from the security rules window. To make any modifications, close the watcher window and go to those ACLs.
 
 The ACL configuration watcher does not appear in the following situations:
 
@@ -26,7 +26,7 @@ The ACL configuration watcher does not appear in the following situations:
 
 ## ACL Security Rules window
 
-The [[sc-configuration|configuration]] watcher shows the [ACL execution plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/t_ShowACLExecutionPlan.md). The execution plan is displayed in the security rules pop-up window. You can view this kind of information:
+The configuration watcher shows the [ACL execution plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/t_ShowACLExecutionPlan.md). The execution plan is displayed in the security rules pop-up window. You can view this kind of information:
 
 |Item|Description|
 |----|-----------|
@@ -38,7 +38,3 @@ The [[sc-configuration|configuration]] watcher shows the [ACL execution plan](ht
 
 \[Omitted image "config\_watcher\_example.png"\] Alt text: Configuration watcher
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[sc-configuration|Configuration]]

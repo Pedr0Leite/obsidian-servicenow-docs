@@ -14,13 +14,10 @@ breadcrumb: [Upgrade Console, Upgrade, Administer the ServiceNow AI Platform]
 
 # Upgrade Console references
 
-Find all the miscellaneous information about [[um-landing-page|Upgrade Console]] in this section.
+Find all the miscellaneous information about Upgrade Console in this section.
 
 -   **[Upgrade Console roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-roles.md)**  
 Upgrade Console is installed with these roles.
 
 **Parent Topic:**[Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-landing-page.md)
 
-## Related
-
-- [[um-landing-page|Upgrade Console]]

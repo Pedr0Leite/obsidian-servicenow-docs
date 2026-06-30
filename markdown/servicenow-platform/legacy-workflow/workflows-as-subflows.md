@@ -16,9 +16,9 @@ breadcrumb: [Workflow management, Classic Workflow, ServiceNow AI Platform Addit
 
 A workflow can launch another workflow as an activity.
 
-The parent workflow triggers the subflow and then waits for the subflow to complete before continuing. Run the [[c_WorkflowValidation|workflow validation]] tool prior to publishing to detect missing subflows and other dependency problems, such as those involving update sets.
+The parent workflow triggers the subflow and then waits for the subflow to complete before continuing. Run the workflow validation tool prior to publishing to detect missing subflows and other dependency problems, such as those involving update sets.
 
-The **Workflows** tab in the [[workflow-editor|Workflow Editor]] contains a list of the workflows available for use as subflows.
+The **Workflows** tab in the Workflow Editor contains a list of the workflows available for use as subflows.
 
 \[Omitted image "WorkflowsUsedAsSubflows.png"\] Alt text: Workflows available to use as subflows
 
@@ -47,7 +47,3 @@ Review the process of preparing a subflow for use in a parent workflow, and for 
 
 **Parent Topic:**[Workflow management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/managing-workflows.md)
 
-## Related
-
-- [[c_WorkflowValidation|Workflow validation]]
-- [[workflow-editor|Workflow editor]]

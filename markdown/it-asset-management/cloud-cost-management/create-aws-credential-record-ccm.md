@@ -14,7 +14,7 @@ breadcrumb: [Set up access to AWS billing and usage data, Configure Cloud Cost M
 
 # Create a record of AWS credentials in Cloud Cost Management
 
-Create a record of the AWS credentials in [[cloud-insights-landing-page|Cloud Cost Management]].
+Create a record of the AWS credentials in Cloud Cost Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Credentials**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Credentials**.
 
 2.  On the Cloud API credentials page, select **AWS credentials**.
 
@@ -39,7 +39,4 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or admin
 
 5.  Select **Save**.
 
-## Related
 
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

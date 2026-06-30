@@ -22,7 +22,7 @@ The Onsite Arrival and Check-in process ensures accurate task location confirmat
     -   Informs when the agent arrives at the task location.
     -   Completion of prerequisites before initiating work.
 -   **Geofencing Validation**
-    -   Verifies [[c_AgentLocation|agent location]] within the configured geofence radius.
+    -   Verifies agent location within the configured geofence radius.
     -   Check-In status stores the outcomes such as success, failure, or skipped scenarios. The following table outlines the outcomes based on different scenarios and geofence validations when an agent clicks the **Check-in** button. The status gets stored in the Check-in status field of the work order task table. For more information, see [Create a work order task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/t_CreateAWorkOrderTask.md)
 
         |Scenario|Check-In Status|
@@ -52,7 +52,7 @@ The Onsite Arrival and Check-in process ensures accurate task location confirmat
 
     To enable the system property, navigate to **All** &gt; **Field Service** &gt; **Administration** &gt; **Configuration**.
 
--   Not mandatory; agents can skip and [[t_StartWork|start work]] directly.
+-   Not mandatory; agents can skip and start work directly.
 
 ## Check-In and task execution during offline
 
@@ -93,7 +93,3 @@ Enable the system property **Enable/Disable Onsite Arrival Check-in for Agents**
 
 4. Automatic generation of the Task travel time card, stored under the **Time Worked** related list.
 
-## Related
-
-- [[c_AgentLocation|Agent location]]
-- [[t_StartWork|Start work]]

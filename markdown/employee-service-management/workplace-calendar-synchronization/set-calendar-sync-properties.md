@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Calendar Synchronization, Configure, Workplace Cale
 
 # Set Workplace Calendar Synchronization properties
 
-Configure the properties for the [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]] to set the Exchange Online Sync Integration Mode to Strict, Personal Authentication, or Normal mode to synchronize reservations.
+Configure the properties for the Workplace Calendar Synchronization to set the Exchange Online Sync Integration Mode to Strict, Personal Authentication, or Normal mode to synchronize reservations.
 
 ## Before you begin
 
@@ -63,6 +63,4 @@ To manage all reservations in Outlook using admin client credentials, set up a N
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-## Related
 
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

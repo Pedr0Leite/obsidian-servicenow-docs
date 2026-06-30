@@ -14,7 +14,7 @@ breadcrumb: [Platform Analytics solutions, Reporting, dashboards, and Performanc
 
 # Install a dashboard
 
-Use the Solution Library to install a dashboard and all its associated visualizations such as [[widgets|widgets]] and reports, and to configure existing dashboards.
+Use the Solution Library to install a dashboard and all its associated visualizations such as widgets and reports, and to configure existing dashboards.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ To reinstall a solution metadata record from a dashboard, such as a widget, with
 
 2.  Select the dashboard you want to install.
 
-    The dashboards provided in the Solution Library may depend on indicators, [[c_IndicatorSources|indicator sources]], or other configuration records. Solution Library content always includes the associated visualization and configuration content.
+    The dashboards provided in the Solution Library may depend on indicators, indicator sources, or other configuration records. Solution Library content always includes the associated visualization and configuration content.
 
 3.  Click **Install**.
 
@@ -48,11 +48,11 @@ To reinstall a solution metadata record from a dashboard, such as a widget, with
 Navigate to the dashboard to begin analyzing your data.
 
 -   **[Upgrade a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/upgrade-content.md)**  
-When you [[upgrade-content|upgrade a dashboard]], solution metadata that have updates available, including any new records added to the dashboard, are installed. Solution metadata records that you have customized, even if those records are updated in the newer release​, are not affected.
+When you upgrade a dashboard, solution metadata that have updates available, including any new records added to the dashboard, are installed. Solution metadata records that you have customized, even if those records are updated in the newer release​, are not affected.
 -   **[Install a single solution metadata record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/install-content-single-record.md)**  
-[[install-content-single-record|Install a single solution metadata record]] used by a dashboard, such as a widget, to match the latest version of the record without impacting other records used by the same dashboard.
+Install a single solution metadata record used by a dashboard, such as a widget, to match the latest version of the record without impacting other records used by the same dashboard.
 -   **[Duplicate an Analytics and Reporting Solution dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/duplicate-dashboard.md)**  
-Copy an [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution dashboard, including the tabs, portal pages, and canvas records. Widgets on the dashboard are not duplicated.
+Copy an Platform Analytics Solution dashboard, including the tabs, portal pages, and canvas records. Widgets on the dashboard are not duplicated.
 
 **Parent Topic:**[Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/content-packs-in-form-analytics-published.md)
 
@@ -61,10 +61,3 @@ Copy an [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution dashb
 
 [bundle-platadm.t_ActivateAPlugin]
 
-## Related
-
-- [[widgets|Widgets]]
-- [[c_IndicatorSources|Indicator sources]]
-- [[upgrade-content|Upgrade a dashboard]]
-- [[install-content-single-record|Install a single solution metadata record]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

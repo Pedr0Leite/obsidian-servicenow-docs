@@ -22,11 +22,11 @@ Role required: ais\_admin
 
 ## About this task
 
-To use a Genius Result configuration, link it to a search profile. [[ia-ai-search|AI Search]] evaluates the Genius Result configuration for all searches made with the search profile.
+To use a Genius Result configuration, link it to a search profile. AI Search evaluates the Genius Result configuration for all searches made with the search profile.
 
 You can link a single Genius Result configuration to multiple search profiles. A search profile can include multiple Genius Result configuration links.
 
-AI Search evaluates active Genius Result [[clone-configurations-tab|configurations]] for a search profile in an order determined by their numeric **Order** field values, as defined in the search profile's [[genius-results-ais|Genius Results]] related list. Genius Result configurations with lower **Order** field values are evaluated before those with higher field values. As an example, a Genius Result configuration with **Order** 100 is evaluated before one with **Order** 200.
+AI Search evaluates active Genius Result configurations for a search profile in an order determined by their numeric **Order** field values, as defined in the search profile's Genius Results related list. Genius Result configurations with lower **Order** field values are evaluated before those with higher field values. As an example, a Genius Result configuration with **Order** 100 is evaluated before one with **Order** 200.
 
 ## Procedure
 
@@ -36,7 +36,7 @@ AI Search evaluates active Genius Result [[clone-configurations-tab|configuratio
 
 3.  In the Genius Results related list, select **Link Existing**.
 
-4.  On the [[search-prof-gr-mapping-form-ais|Search Profile - Genius Result Mapping form]], fill in the fields.
+4.  On the Search Profile - Genius Result Mapping form, fill in the fields.
 
     For a description of the field values, see [Search Profile - Genius Result Mapping form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/search-prof-gr-mapping-form-ais.md).
 
@@ -49,9 +49,3 @@ The new Genius Result configuration link appears in the search profile's Genius 
 
 **Parent Topic:**[Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-results-ais|Genius Results]]
-- [[search-prof-gr-mapping-form-ais|Search Profile - Genius Result Mapping form]]

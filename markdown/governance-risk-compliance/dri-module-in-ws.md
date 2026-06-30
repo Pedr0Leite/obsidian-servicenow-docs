@@ -12,7 +12,7 @@ breadcrumb: [Using Digital resilience incident reporting, Manage, Operational Re
 
 # Explore Digital resilience incident reporting
 
-The Digital resilience incident reporting module in the [[grc-opres-landing-page|Operational Resilience]] Workspace is used to log and report incidents data to the regulators.
+The Digital resilience incident reporting module in the Operational Resilience Workspace is used to log and report incidents data to the regulators.
 
 ## Key features of Digital resilience incident reporting
 
@@ -96,10 +96,5 @@ The **My tasks** page in the Operational Resilience Workspace displays all the r
 
 ## Roles, Scripts, and Tables used for reporting
 
-For information on the roles, scripts, and tables used in [[roles-with-drir|Roles installed with Digital resilience incident reporting]], see [[drir-ref|Digital resilience incident reporting reference]].
+For information on the roles, scripts, and tables used in [Roles installed with Digital resilience incident reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/roles-with-drir.md), see [Digital resilience incident reporting reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/drir-ref.md).
 
-## Related
-
-- [[roles-with-drir|Roles installed with Digital resilience incident reporting]]
-- [[drir-ref|Digital resilience incident reporting reference]]
-- [[grc-opres-landing-page|Operational Resilience]]

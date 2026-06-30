@@ -14,7 +14,7 @@ breadcrumb: [Create inventory models, Use, Telecommunications Network Inventory]
 
 # Create a network topology model
 
-Create a network topology model in the [[telecom-network-inventory|Telecommunications Network Inventory]] application to define the metadata for the topology according to your recommendations. You can use a topology model to create a record by using the [[using-playbooks-design-assign-inventory-record|design and assign function]].
+Create a network topology model in the Telecommunications Network Inventory application to define the metadata for the topology according to your recommendations. You can use a topology model to create a record by using the design and assign function.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.telco\_inventory\_cat
 
 ## About this task
 
-When you create a network topology model record, it creates a model in the [[using-network-topology|Network Topology]] Models \[sn\_ent\_network\_topology\_model\] table.
+When you create a network topology model record, it creates a model in the Network Topology Models \[sn\_ent\_network\_topology\_model\] table.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Models** &gt; **Network Topology Models**.
 
@@ -107,9 +107,3 @@ You use the design and assign function to create a topology record. To learn mor
 
 [Network inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-inventory-models-tni.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[using-network-topology|Network topology]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

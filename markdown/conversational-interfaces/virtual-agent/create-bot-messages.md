@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channel Integrations** &gt; **Connections** and select a connection.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Channel Integrations** &gt; **Connections** and select a connection.
 
 2.  In the **Provider Channel Identity** tab, select a provider channel identity.
 
@@ -67,6 +67,3 @@ function getBotMessage(providerId, inboundId, botMessageName) {
 }
 ```
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]

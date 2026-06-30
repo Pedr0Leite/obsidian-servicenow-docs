@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Workday, Integratio
 
 # Components installed with HR Service Delivery Integration with Workday
 
-Several types of components are installed with activation of the [[w-integration|HR Service Delivery Integration with Workday]] \(sn\_hr\_workday\) application, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with Workday \(sn\_hr\_workday\) application, including tables and user roles.
 
 Demo data is available for this feature.
 
@@ -40,7 +40,7 @@ HR Workday Admin\[sn\_hr\_workday.admin\]
 
 -   Can access all features and capabilities of the HR Service Delivery Integration with Workday application.
 
--   Can [[config-w-sync|configure worker profile settings]].
+-   Can configure worker profile settings.
 
 </td><td>
 
@@ -126,7 +126,3 @@ Stores parameters or inputs which help in setting up the todos configuration.
 
 [Worker profile synchronization limitations]()
 
-## Related
-
-- [[w-integration|HR Service Delivery Integration with Workday]]
-- [[config-w-sync|Configure worker profile settings]]

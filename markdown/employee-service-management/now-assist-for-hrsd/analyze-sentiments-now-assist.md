@@ -27,7 +27,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to the case in the Core UI or in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+1.  Navigate to the case in the Core UI or in Agent Workspace for HR Case Management.
 
 2.  <table id="table_emg_jm5_w2c"><thead><tr><th>
 
@@ -43,7 +43,7 @@ Navigate in Core UI
 
 </td><td>
 
-1.  Go to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**
+1.  Go to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**
 
 The case list view appears.
 
@@ -85,7 +85,7 @@ Navigate in Agent Workspace for HR Case Management
 **Related topics**  
 
 
-[Summarize a chat conversation using Now Assist for [[hr-service-delivery|HR Service Delivery]] \(HRSD\)]()
+[Summarize a chat conversation using Now Assist for HR Service Delivery \(HRSD\)]()
 
 [Summarize a Sidebar discussion by using Now Assist for HRSD]()
 
@@ -115,8 +115,3 @@ Navigate in Agent Workspace for HR Case Management
 
 [Now Assist for HR Service Delivery \(HRSD\) integration with Enterprise Service Management Integrations Framework]()
 
-## Related
-
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]
-- [[hr-service-delivery|HR Service Delivery]]

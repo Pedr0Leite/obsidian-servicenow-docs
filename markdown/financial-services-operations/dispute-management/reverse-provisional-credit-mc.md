@@ -22,7 +22,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -38,21 +38,16 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 6.  In the **Processing** tab, select the transaction ID.
 
-7.  Select the  **[[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]** activity.
+7.  Select the  **Reverse provisional credit** activity.
 
 8.  On the form, fill in the required fields and any other related information that you have gathered.
 
 9.  Select **Add file** to attach supporting documents to the task.
 
-    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [[mastercard-image-and-document-requirements|Mastercard document requirements]].
+    **Note:** You must upload a single `.zip` file whenever you submit documents to Mastercard. For more information, see [Mastercard document requirements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/mastercard-image-and-document-requirements.md).
 
 10. Select **Close task**.
 
 
 **Parent Topic:**[Chargeback in Mastercard transaction disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/chargeback-stage-mastercard.md)
 
-## Related
-
-- [[mastercard-image-and-document-requirements|Mastercard document requirements]]
-- [[fso-overview|Financial Services]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]

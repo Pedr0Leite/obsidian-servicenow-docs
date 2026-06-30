@@ -18,13 +18,13 @@ Use the Project Integration Configuration form to set up the risk assessment. Yo
 
 ## Before you begin
 
-To [[use-advanced-risk-assessment|use Advanced Risk Assessment]] for Project Management, do the following:
+To use Advanced Risk Assessment for Project Management, do the following:
 
 -   Activate the Project Portfolio Management plugin.
 -   Activate the Advanced Risk plugin.
--   Enable the **Enable Advanced Risk PPM Integration** property under **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Properties**. This property is automatically set to **No** by default. Only users with the it\_pps\_admin or sn\_ risk.admin roles can enable this property..
+-   Enable the **Enable Advanced Risk PPM Integration** property under **Advanced Risk Assessment** &gt; **Administration** &gt; **Properties**. This property is automatically set to **No** by default. Only users with the it\_pps\_admin or sn\_ risk.admin roles can enable this property..
 
-**Note:** Currently, in the Project Portfolio Management suite, advanced [[risk-assessments|risk assessments]] are only supported for the Project Management application.
+**Note:** Currently, in the Project Portfolio Management suite, advanced risk assessments are only supported for the Project Management application.
 
 Role required: sn\_risk.admin
 
@@ -32,10 +32,10 @@ Role required: sn\_risk.admin
 
 As the risk administrator, you can select the following on the Project Integration Configurations form:
 
--   The [[risk-assessment-methodology-prm|risk assessment methodology \(RAM\)]].
+-   The risk assessment methodology \(RAM\).
 -   The approvers and assessors for both enterprise risk assessment and project risk assessment.
 
-Two predefined RAMs are provided for Enterprise Risk Assessment and Project Risk Assessment. You can modify the default methodology or create methodologies. If you select your own risk assessment methodology, then the [[entity-class|entity class]] for that methodology must be Project. For assessing project risks and enterprise risks, you can add the approvers and assessors of your choice. The risk assessment methodology for project risk is automatically selected as the methodology that is associated to the Project Portfolio Management risk table.
+Two predefined RAMs are provided for Enterprise Risk Assessment and Project Risk Assessment. You can modify the default methodology or create methodologies. If you select your own risk assessment methodology, then the entity class for that methodology must be Project. For assessing project risks and enterprise risks, you can add the approvers and assessors of your choice. The risk assessment methodology for project risk is automatically selected as the methodology that is associated to the Project Portfolio Management risk table.
 
 ## Procedure
 
@@ -153,11 +153,3 @@ The assessor and approver details are set.
 
 **Parent Topic:**[Project Risk Assessment using Advanced Risk Assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-and-ppm-better-together.md)
 
-## Related
-
-- [[use-advanced-risk-assessment|use advanced risk assessment]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]
-- [[risk-assessments|risk assessments]]
-- [[risk-assessment-methodology-prm|Risk Assessment Methodology \(RAM\)]]
-- [[entity-class|entity class]]

@@ -108,8 +108,5 @@ Table from which the data is obtained. This field is automatically populated.
 
 ## What to do next
 
-Create content configurations to specify the type of data you want to fetch on the report. For more information, see [[create-content-configurations-action-tasks|Create Content configurations]].
+Create content configurations to specify the type of data you want to fetch on the report. For more information, see [Create Content configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-content-configurations-action-tasks.md).
 
-## Related
-
-- [[create-content-configurations-action-tasks|Create Content configurations]]

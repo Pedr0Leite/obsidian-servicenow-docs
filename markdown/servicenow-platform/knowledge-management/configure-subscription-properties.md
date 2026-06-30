@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Configure knowledge subscriptions
 
-Configure knowledge subscriptions by activating the [[knowledge-management|Knowledge Management]] Advanced plugin and setting the subscription properties.
+Configure knowledge subscriptions by activating the Knowledge Management Advanced plugin and setting the subscription properties.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Enable subscribe feature for KM\[glide.knowman.enable\_km\_subscription\]
 
 </td><td>
 
-Enables or disables the Knowledge Management [[knowledge-article-subscriptions|knowledge subscriptions]] feature.
+Enables or disables the Knowledge Management knowledge subscriptions feature.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,3 @@ A comma-separated list of the article states for which the knowledge subscriptio
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-article-subscriptions|Knowledge subscriptions]]

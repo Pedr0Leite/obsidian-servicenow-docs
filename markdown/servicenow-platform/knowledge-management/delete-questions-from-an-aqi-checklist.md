@@ -31,7 +31,7 @@ Role required: admin
 
 2.  Click the AQI checklist from which you want to delete one or more questions.
 
-3.  In the Checklist Questions related list, select the [[check-box|check box]] next to the questions that you want to delete.
+3.  In the Checklist Questions related list, select the check box next to the questions that you want to delete.
 
 4.  From the **Actions on Selected Rows** choice list, select **Delete**.
 
@@ -40,6 +40,3 @@ Role required: admin
 
 **Parent Topic:**[Use Article Quality Index](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-article-quality-index.md)
 
-## Related
-
-- [[check-box|Check box]]

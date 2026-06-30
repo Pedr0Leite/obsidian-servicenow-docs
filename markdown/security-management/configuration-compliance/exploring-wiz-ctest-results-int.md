@@ -14,7 +14,7 @@ breadcrumb: [Integrate with other applications, Configuration Compliance, Unifie
 
 # Exploring the Wiz Test Results and Issues Integrations with Configuration Compliance
 
-Import cloud configuration data with the Wiz Test Results and Issues Integrations with [[vr-config-compliance-landing|Configuration Compliance]] that are included with the Wiz [[vuln-landing-page|Vulnerability Response]] Integration.
+Import cloud configuration data with the Wiz Test Results and Issues Integrations with Configuration Compliance that are included with the Wiz Vulnerability Response Integration.
 
 ## Wiz Test Results Integration
 
@@ -26,15 +26,9 @@ Findings are mapped to cloud test results \(CTRs\) in the Configuration Complian
 
 ## Wiz Issues Integration
 
-Import issues data from Wiz to help vulnerability managers, analysts, and cloud security and risk teams identify combinations of [[vulnerabilities|vulnerabilities]] that might reveal a potential attack path in your cloud [[threat-intelligence-infrastructure|infrastructure]].
+Import issues data from Wiz to help vulnerability managers, analysts, and cloud security and risk teams identify combinations of vulnerabilities that might reveal a potential attack path in your cloud infrastructure.
 
 These findings are also mapped to CTRs with `Wiz Issues` labeled as the source in the Configuration Compliance application to help you track and remediate assets that may pose complex multi-vector risks.
 
 For more information about the other integrations that are included with the Wiz Vulnerability Response Integration and installation and configuration steps, see [Understanding the Wiz Vulnerability Response Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-wiz-exploring-host-cf.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

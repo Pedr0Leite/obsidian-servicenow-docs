@@ -14,7 +14,7 @@ breadcrumb: [Intraday optimization, Schedule Optimization, Setting up a Field Se
 
 # Activate intraday optimization
 
-Activate Intraday optimization by activating the [[fsm-application-landing-page|Field Service Management]] Scheduling Automations plugin \(com.snc.sn\_app\_fsm\_scheduling\_flows\) for Field Service Management. After the plugin is installed, navigate to flow designer to activate the relevant flows to trigger Intraday optimization to run throughout the day as scheduling conditions change.
+Activate Intraday optimization by activating the Field Service Management Scheduling Automations plugin \(com.snc.sn\_app\_fsm\_scheduling\_flows\) for Field Service Management. After the plugin is installed, navigate to flow designer to activate the relevant flows to trigger Intraday optimization to run throughout the day as scheduling conditions change.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Role required: wm\_admin
 
 6.  Duplicate the Schedule intraday jobs flow
 
-    1.  Select the Schedule intraday jobs Field Service Management [[schedule-optimization|Schedule Optimization]] flow.
+    1.  Select the Schedule intraday jobs Field Service Management Schedule Optimization flow.
 
     2.  Copy the flow by selecting the More actions icon \(\[Omitted image "more\_actions.png"\] Alt text: More actions icon\) in the top right and selecting **Copy flow**.
 
@@ -87,7 +87,3 @@ Role required: wm\_admin
 
 [Configure intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[schedule-optimization|Schedule Optimization]]

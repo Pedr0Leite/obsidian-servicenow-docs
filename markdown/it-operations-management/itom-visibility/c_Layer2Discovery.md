@@ -14,11 +14,11 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # Layer 2 discovery
 
-[[r-discovery|Discovery]] can detect the physical connections, known as layer 2, between network devices.
+Discovery can detect the physical connections, known as layer 2, between network devices.
 
 ## Layer 2 discovery process
 
-Discovery uses multiple probes to gather information about network adapters and their Layer 2 connections. The following diagram shows the probes that Discovery launches for [[c_NetworkDiscovery|network Discovery]], including those used for Layer 2 Discovery.
+Discovery uses multiple probes to gather information about network adapters and their Layer 2 connections. The following diagram shows the probes that Discovery launches for network Discovery, including those used for Layer 2 Discovery.
 
 \[Omitted image "Layer2DiscoveryProbesDiagram.png"\] Alt text: Layer 2 probes
 
@@ -158,7 +158,7 @@ arp -a
 
 </td><td>
 
-[[c_PowershellProbe|Powershell probe]] that retrieves the network information from the ARP table on a Windows server.
+Powershell probe that retrieves the network information from the ARP table on a Windows server.
 
 </td></tr><tr><td>
 
@@ -333,8 +333,3 @@ These port tables are populated during horizontal Discovery of a device:
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_NetworkDiscovery|Network discovery]]
-- [[c_PowershellProbe|PowerShell probe]]

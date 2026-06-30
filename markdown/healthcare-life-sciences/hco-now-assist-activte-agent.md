@@ -12,7 +12,7 @@ breadcrumb: [Configure, Now Assist for Care Team Operations, Healthcare and Life
 
 # Activate Now Assist in Virtual Agent for case intake
 
-Activate Virtual Agent and set it to discoverable to enable case intake within the [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]].
+Activate Virtual Agent and set it to discoverable to enable case intake within the Request care team assistance agentic workflow.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: admin
 
 Now Assist in Virtual Agent is now available to initiate the Request care team assistance agentic workflow.
 
-## Related
-
-- [[hco-now-assist-request-assistance|Request care team assistance agentic workflow]]

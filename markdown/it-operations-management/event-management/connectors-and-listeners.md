@@ -14,7 +14,7 @@ breadcrumb: [Event Management Integrations, Configuring Event Management, Event 
 
 # Configure Event Management connectors
 
-[[c_EM|Event Management]] provides many connectors to pull or push events from external devices. Connectors are available from the ServiceNow store as well as from third parties. You can also create custom connectors.
+Event Management provides many connectors to pull or push events from external devices. Connectors are available from the ServiceNow store as well as from third parties. You can also create custom connectors.
 
 ## Provided connectors \(pull\)
 
@@ -22,7 +22,7 @@ This table lists the connectors that are provided with Event Management.
 
 **Note:**
 
--   The [[azure-metrics|Azure Metrics]] and AWS CloudWatch Metrics connectors display in the base system only when the Operational Intelligence plugin \(com.snc.sa.metric\) is activated.
+-   The Azure Metrics and AWS CloudWatch Metrics connectors display in the base system only when the Operational Intelligence plugin \(com.snc.sa.metric\) is activated.
 -   All connectors support external credential storage solutions. For details on configuring external credential storage, see [External credential storage configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/external_cred_storage_configuration.md).
 
 <table id="table_lzz_dcm_s1c"><thead><tr><th>
@@ -679,7 +679,7 @@ Juniper Mist
 
 NetScout - nGeniusONE Alert integration
 
- The NETSCOUT integration module enables nGeniusONE to generate enhanced alerts to ServiceNow ITOM with a contextual launch capability for service triage. ServiceNow ITOM users can launch queries into nGeniusONE from any other alert with that context. nGeniusONE [[otto-aiops-dashboards|dashboards]] and reports will support the visualization of those alert conditions to and from ServiceNow ITOM
+ The NETSCOUT integration module enables nGeniusONE to generate enhanced alerts to ServiceNow ITOM with a contextual launch capability for service triage. ServiceNow ITOM users can launch queries into nGeniusONE from any other alert with that context. nGeniusONE dashboards and reports will support the visualization of those alert conditions to and from ServiceNow ITOM
 
 </td><td>
 
@@ -695,7 +695,7 @@ Panopta IntegrationIntegrate with this application for one-directional transfer 
 
 </td></tr><tr><td>
 
-Splunk IntegrationIntegrate the Splunk Add-on with ServiceNow to enable Splunk users to [[create-incidents|create incidents]] and events in Event Management. For more information about the configuration of this integration, see [Splunk Add-on for ServiceNow](http://docs.splunk.com/Documentation/AddOns/released/ServiceNow/ConfigureServiceNowtointegratewithSplunkEnterprise).
+Splunk IntegrationIntegrate the Splunk Add-on with ServiceNow to enable Splunk users to create incidents and events in Event Management. For more information about the configuration of this integration, see [Splunk Add-on for ServiceNow](http://docs.splunk.com/Documentation/AddOns/released/ServiceNow/ConfigureServiceNowtointegratewithSplunkEnterprise).
 
 </td><td>
 
@@ -729,7 +729,7 @@ Site24X7Integrate with this application for one-directional transfer of events f
 </table>-   **[Create a custom pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateCustomConnectorDefinition.md)**  
 You can create a customized pull connector that requires a script, connector definition, and connector instance, to retrieve events on behalf of an event source.
 -   **[Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)**  
-[[t_EMConfigureConnectorInstance|Configure a pull connector]] to schedule the frequency of event collection.
+Configure a pull connector to schedule the frequency of event collection.
 -   **[Configure event collection for SNMP traps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMSNMPTrapEvent.md)**  
 The SNMP listener runs on the MID Server, which acts as a collection endpoint for SNMP traps. The MID Server sends the traps to the ServiceNow instance for further processing as an event by Event Management.
 -   **[Configure event collection from email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureEmailConnector.md)**  
@@ -737,10 +737,3 @@ Configure an inbound email action to send email notifications when events and al
 
 **Parent Topic:**[Event Management Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMEvent.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[azure-metrics|Azure metrics]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[create-incidents|Create incidents]]
-- [[t_EMConfigureConnectorInstance|Configure a pull connector]]

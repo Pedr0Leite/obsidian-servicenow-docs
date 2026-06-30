@@ -16,7 +16,7 @@ Manage constituent requests, applications, and issues by creating cases, routing
 
 ## Getting to know the case management process
 
-Case management refers to the processes and activities designed to evaluate and address constituent issues, requests, and applications while managing effective communication. Case management enables you as a government service agency to engage with constituents, categorize and route cases, assign work to government service agents, and manage cases through resolution and reporting. Case management starts with case creation from an interaction, as constituents reach out through a number of communication channels including email, phone, chat, and the [[gsp-overview-public-sector|Government Service Portal]].
+Case management refers to the processes and activities designed to evaluate and address constituent issues, requests, and applications while managing effective communication. Case management enables you as a government service agency to engage with constituents, categorize and route cases, assign work to government service agents, and manage cases through resolution and reporting. Case management starts with case creation from an interaction, as constituents reach out through a number of communication channels including email, phone, chat, and the Government Service Portal.
 
 The following diagram shows the case management process.
 
@@ -31,38 +31,29 @@ Use the following features with the Public Sector Digital Services application t
 
 A case workflow is a series of steps and tasks that are involved in closing a case. By using a case workflow, you can automate systems to simplify your processes, track task completion, and accelerate case resolution..
 
-To learn more about case workflows, see [[government-service-case-states|Life cycle of a Public Service case]].
+To learn more about case workflows, see [Life cycle of a Public Service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/government-service-case-states.md).
 
 ## Case types
 
 A case type is a collection of data and processes that are needed to resolve a specific type of issue. For example, case types are needed when a government agency has different processes for supporting constituents across multiple departments, agency locations, or service types. By using a case type, you can separate these processes through case applications that support each process.
 
-To learn more about case types, see [[government-service-case-type|Government Service Case Types]].
+To learn more about case types, see [Government Service Case Types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/government-service-case-type.md).
 
 ## Service definitions
 
 A service definition refers to a specific type of service request that your agents can offer to constituents for a case type. Service definitions establish a connection between the products, services, and case types so agents and constituents can quickly access the relevant case types.
 
-To learn more about the service definitions, see [[psds-service-definitions|Service Definitions]].
+To learn more about the service definitions, see [Service Definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-service-definitions.md).
 
 ## Playbooks
 
 Playbooks provide agents with a visual guide, including step-by-step guidance for the various tasks that the agents can use to resolve the specific type of service case. A playbook helps to improve agent productivity and the constituent experience by digitizing and automating complex agency service processes.
 
-To learn more about playbooks, see [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]].
+To learn more about playbooks, see [Playbooks for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/playbooks-psds-exploring.md).
 
 ## Service Exchange
 
-Service Bridge for [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]] allows agencies to connect multiple ServiceNow instances to provide support and service experiences across the Public Sector​ ecosystem, enabling coordination between multiple government service agencies and their constituents.
+Service Bridge for Public Sector Digital Services \(PSDS\) allows agencies to connect multiple ServiceNow instances to provide support and service experiences across the Public Sector​ ecosystem, enabling coordination between multiple government service agencies and their constituents.
 
-To learn more about Service Bridge for PSDS, see [[servicebridge-psds-exploring|Service Exchange for Public Sector Digital Services]].
+To learn more about Service Bridge for PSDS, see [Service Exchange for Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/servicebridge-psds-exploring.md).
 
-## Related
-
-- [[government-service-case-states|Life cycle of a Public Service case]]
-- [[government-service-case-type|Public Sector Digital Services case types]]
-- [[psds-service-definitions|Service definitions for Public Sector Digital Services]]
-- [[playbooks-psds-exploring|Playbooks for Public Sector Digital Services]]
-- [[servicebridge-psds-exploring|Service Exchange for Public Sector Digital Services]]
-- [[gsp-overview-public-sector|Government Service Portal]]
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]

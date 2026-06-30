@@ -12,7 +12,7 @@ breadcrumb: [Create product offerings, Configuring product offerings and catalog
 
 # Create product offering relationship groups
 
-Use relationship groups to organize child offer options or relationships into logical groups and set up cardinality [[rules_101|rules]] at the group level in [[order-mgt-overview|Sales Customer Relationship Management]]. Groups of product offerings then appear on the product configurator.
+Use relationship groups to organize child offer options or relationships into logical groups and set up cardinality rules at the group level in Sales Customer Relationship Management. Groups of product offerings then appear on the product configurator.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Assign child product offerings in a bundle to the product offering relationship 
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -58,32 +58,18 @@ Assign child product offerings in a bundle to the product offering relationship 
 
 ## What to do next
 
--   [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
--   [[som-product-config-add-visuals|Add product visuals]]
--   [[som-product-config-offering-categories|Add product catalog categories]]
--   [[som-product-config-offering-relationships|Create product offering relationships]]
--   [[som-product-config-related-contracts|Add related contracts to product offerings]]
--   [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
--   [[som-product-config-create-new-version|Create a product offering version]]
+-   [Create product characteristics and characteristic options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-characteristics.md)
+-   [Add product visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-visuals.md)
+-   [Add product catalog categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-categories.md)
+-   [Create product offering relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-offering-relationships.md)
+-   [Add related contracts to product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-related-contracts.md)
+-   [Add a unit of measure to a product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-add-unit-of-measure.md)
+-   [Create a product offering version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-product-config-create-new-version.md)
 
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[som-product-config-add-characteristics|Create product characteristics and characteristic options]]
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[som-product-config-offering-categories|Add product catalog categories]]
-- [[som-product-config-offering-relationships|Create product offering relationships]]
-- [[som-product-config-related-contracts|Add related contracts to product offerings]]
-- [[som-product-config-add-unit-of-measure|Add a unit of measure to a product offering]]
-- [[som-product-config-create-new-version|Create a product offering version]]
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[rules_101|Rules]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]

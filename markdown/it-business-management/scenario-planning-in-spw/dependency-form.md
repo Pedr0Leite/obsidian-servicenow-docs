@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Strategic Planning, Reference, Portfolio
 
 # Dependency form
 
-Learn about the fields of the [[dependency-form-portfolio-planning|dependency form]]. Use this form to add and establish dependencies between planning items on the roadmap in [[alignment-planner-workspace-landing-page|Strategic Planning]] workspace.
+Learn about the fields of the dependency form. Use this form to add and establish dependencies between planning items on the roadmap in Strategic Planning workspace.
 
 <table id="table_bgs_pn3_dtb"><thead><tr><th>
 
@@ -69,7 +69,3 @@ System-generated unique identification number for the dependency.
 
 [Add dependencies for roadmap items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-planning-item-dependencies-in-a-roadmap.md)
 
-## Related
-
-- [[dependency-form-portfolio-planning|Dependency form]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

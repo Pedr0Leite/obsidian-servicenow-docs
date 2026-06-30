@@ -66,7 +66,7 @@ SRP also provides ways to add screen condition mappings when a page appears.
 
 10. To modify the order of the record, perform the following steps.
 
-    1.  Select the **[[settings-mobile|Settings]]** tab \[Omitted image "editor-settings.png"\] Alt text: Editor and Settings.
+    1.  Select the **Settings** tab \[Omitted image "editor-settings.png"\] Alt text: Editor and Settings.
 
     2.  To modify the display order of the record, edit the **Order** value.
 
@@ -101,6 +101,3 @@ SRP also provides ways to add screen condition mappings when a page appears.
 
 **Parent Topic:**[Configuring Standard Record Page in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/srp-service-operations-workspace.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

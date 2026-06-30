@@ -18,7 +18,7 @@ Create an active employee definition to generate the employee profiles.
 
 ## Before you begin
 
-After you install the [[emp-slate-employee-profile|employee profile]], create an active employee definition to opt in the new unified employee profile. An active employee definition is a condition that determines who an employee is. You can have only one active employee definition per domain.
+After you install the employee profile, create an active employee definition to opt in the new unified employee profile. An active employee definition is a condition that determines who an employee is. You can have only one active employee definition per domain.
 
 **Note:** The employee definition table is domain-separated.
 
@@ -33,7 +33,7 @@ Role required: sn\_employee.admin
 3.  Select one of the available **Table** options.
 
     -   To create an employee definition from a user table, select **User**.
-    -   To create an employee definition from HR records, select **[[c_HRProfileRecords|HR Profile]]**.
+    -   To create an employee definition from HR records, select **HR Profile**.
 
         **Note:** The HR profile table is available only when you install the Human Resources Scoped App: Core \[com.sn\_hr\_core\] plugin.
 
@@ -68,7 +68,3 @@ Once employee profiles are generated, you receive an email with the count and th
 
 Once you have employee definition, you can proceed to opt for the employee profile.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[c_HRProfileRecords|HR Profile]]

@@ -20,7 +20,7 @@ Chat with an employee from Agent Workspace through Microsoft Teams so that you c
 
 The **Start Microsoft Teams Chat** button is available only if the following conditions are met:
 
--   At least one of the users marked in the [[ur-landing-limitedaccess|universal request]] has [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]] enabled.
+-   At least one of the users marked in the universal request has Universal Request integration with Microsoft Teams enabled.
 -   The universal request is not associated with a primary ticket.
 
 Role required: agent
@@ -48,7 +48,3 @@ The Microsoft Teams application opens the tab where you can chat with the select
 
 **Parent Topic:**[Manage chat messages from the Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-start-import-chat-aws.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[sn-ms-teams-ur|Universal Request integration with Microsoft Teams]]

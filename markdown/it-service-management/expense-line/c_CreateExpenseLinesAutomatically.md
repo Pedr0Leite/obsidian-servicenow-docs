@@ -18,7 +18,7 @@ You can automatically create expense lines to facilitate the accurate reporting 
 
 If enabled, the following processes generate expense lines automatically.
 
--   Active CI rate cards are processed monthly to generate expense lines for each CI in the rate card. If a CI relationship is changed, existing expense lines are not affected. Changes are reflected in the next scheduled [[c_ExpenseLine|expense line]].
+-   Active CI rate cards are processed monthly to generate expense lines for each CI in the rate card. If a CI relationship is changed, existing expense lines are not affected. Changes are reflected in the next scheduled expense line.
 -   Active distribution costs are processed monthly to generate expense lines based on distribution rule targets.
 -   Closed tasks on task rate cards are processed to generate expense lines.
 
@@ -41,6 +41,3 @@ Expense lines can also be imported from external systems or generated from scrip
 
 [Create or edit a CI relationship](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateCIRelationship.md)
 
-## Related
-
-- [[c_ExpenseLine|Expense Line]]

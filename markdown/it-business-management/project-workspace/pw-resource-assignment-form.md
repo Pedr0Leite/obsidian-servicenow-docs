@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Workspace, Project Workspace ref
 
 # Resource assignment form
 
-Use this form to [[create-rsrc-asgnmnts-ppm|create resource assignments]] from [[project-workspace-landing-page|Project Workspace]].
+Use this form to create resource assignments from Project Workspace.
 
 <table id="table_v5p_d5w_bxb"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Start date
 
 </td><td>
 
-Start date for the resource assignment. By default, this field shows the **Planned start date** of the associated project record or task record. If both planned and actual start dates are available on the [[t_CreateAProjectTask|project tasks]], the actual dates are considered by default for resource assignment start date.
+Start date for the resource assignment. By default, this field shows the **Planned start date** of the associated project record or task record. If both planned and actual start dates are available on the project tasks, the actual dates are considered by default for resource assignment start date.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Allocation status
 
 </td><td>
 
-Status of the [[r_AllocatingResources|resource allocation]]. This field is automatically set to **Allocated**.
+Status of the resource allocation. This field is automatically set to **Allocated**.
 
 </td></tr><tr><td>
 
@@ -175,9 +175,3 @@ Difference between actual or planned start date of project or task and resource 
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/form-field-information-for-project-workspace.md)
 
-## Related
-
-- [[create-rsrc-asgnmnts-ppm|Create resource assignments]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[r_AllocatingResources|Resource allocation]]

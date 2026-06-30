@@ -15,7 +15,7 @@ breadcrumb: [Workday external content connector, Configure, External Content Con
 
 # Configure a payslip report in Workday
 
-Configure a custom report for payroll data in Workday. The [[workday-external-content-connector|Workday external content connector]] uses this report to make content and metadata from your payroll data searchable.
+Configure a custom report for payroll data in Workday. The Workday external content connector uses this report to make content and metadata from your payroll data searchable.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ A Workday admin must have already an integration system user and an unconstraine
 You need an account with the following privileges in your organization's Workday tenant:
 
 -   **Custom Report Creation** domain access
--   Access to the **Payroll [[hs-results|Results]]** report data source
+-   Access to the **Payroll Results** report data source
 -   **Copy Standard Report to Custom Report** task access
 
 Role required: none
@@ -110,7 +110,7 @@ This task is optional. The Workday external content connector can retrieve paysl
 
     3.  Select **OK**.
 
-        Workday displays [[r_DirectJDBCProbeParameters|parameters]] and URLs for your sample report.
+        Workday displays parameters and URLs for your sample report.
 
     4.  Long-press \(or right-click\) the **CSV** link and copy the CSV URL.
 
@@ -153,7 +153,7 @@ This task is optional. The Workday external content connector can retrieve paysl
 
 ## What to do next
 
-Provide the following items to the connector administrator who creates your Workday [[ext-cont-connectors-landing-page|external content connectors]]:
+Provide the following items to the connector administrator who creates your Workday external content connectors:
 
 -   The base URL for your Workday tenant that you copied in step [10.a](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-payslip-report-workday.md).
 -   The Workday tenant name that you copied in step [10.b](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/configure-payslip-report-workday.md).
@@ -165,9 +165,3 @@ Your connector administrator needs these items to configure a Workday external c
 
 **Parent Topic:**[Workday external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/workday-external-content-connector.md)
 
-## Related
-
-- [[workday-external-content-connector|Workday external content connector]]
-- [[hs-results|Results]]
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

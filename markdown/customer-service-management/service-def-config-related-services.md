@@ -12,7 +12,7 @@ breadcrumb: [Configuring service definitions, Service definitions, Case manageme
 
 # Configure related services for a service definition
 
-After creating a service definition, you can associate one or more related services with the service definition. This creates a parent-child relationship between [[csm-service-definitions|service definitions]].
+After creating a service definition, you can associate one or more related services with the service definition. This creates a parent-child relationship between service definitions.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ When creating relationships between services on the Service to Service Relations
 
     The related service is added to the to the Service to Service Relationships related list. The **Table** column displays the name of the target table for the related service.
 
-## Related
 
-- [[csm-service-definitions|Service definitions]]

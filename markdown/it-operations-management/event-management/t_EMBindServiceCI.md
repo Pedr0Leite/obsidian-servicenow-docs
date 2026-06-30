@@ -14,7 +14,7 @@ breadcrumb: [Overriding default binding, Binding alerts to CIs, Event rules, Pro
 
 # Example: Binding alerts to non-host CIs
 
-Bind alerts to an application service \(a non-host CI\) using [[create-event-rules|event rules]] and event field mapping. This example demonstrates how to achieve this by leveraging the IP address associated with the service.
+Bind alerts to an application service \(a non-host CI\) using event rules and event field mapping. This example demonstrates how to achieve this by leveraging the IP address associated with the service.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ To achieve this, follow these steps:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **All Events**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **All Events**.
 
 2.  Open the specific event for which you want to create an event rule.
 
@@ -170,7 +170,4 @@ Corp E-mail
 
     \[Omitted image "em-example-result.png"\] Alt text: Binds alerts to service.
 
-## Related
 
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]

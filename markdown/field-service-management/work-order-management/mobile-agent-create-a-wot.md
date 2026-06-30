@@ -26,7 +26,7 @@ To add locations, agents must have the sn\_fsm\_service\_loc.wm\_service\_locati
 
 1.  Navigate to the Create new work form.
 
-    -   To [[create-task-manager-mobile|create a work order task]] from Draft tasks, navigate to **My Work** &gt; **Draft tasks** &gt; **Create new work**.
+    -   To create a work order task from Draft tasks, navigate to **My Work** &gt; **Draft tasks** &gt; **Create new work**.
     -   To create a work order task from an asset, navigate to the asset then tap **Create new work**.
     -   To create a work order task from the Work order overflow menu, navigate to the work order and select the **Overflow menu** \[Omitted image "more-actions-mobile-icon.png"\] Alt text: Overflow icon.. Select **Create new work**.
     -   To create a sibling work order task, open the selected work order task. Then navigate to **Related** &gt; **Sibling work order tasks** &gt; **Create new sibling task**.
@@ -108,6 +108,4 @@ Exact technical description of the work to be performed. Provide as much detail 
 </td></tr></tbody>
 </table>3.  Tap **Submit**.
 
-## Related
 
-- [[create-task-manager-mobile|Create a work order task]]

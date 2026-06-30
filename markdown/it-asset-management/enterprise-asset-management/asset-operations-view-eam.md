@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Asset operations overview for Enterprise Asset Workspace
 
-Use the [[asset-operations-view|Asset operations view]] in the [[using-eam-workspace|Enterprise Asset Workspace]] to track and manage shipments,service catalog requests, requested items, catalog tasks, and contract renewal requests.
+Use the Asset operations view in the Enterprise Asset Workspace to track and manage shipments,service catalog requests, requested items, catalog tasks, and contract renewal requests.
 
 Use the Asset operations view to perform the following tasks:
 
@@ -23,7 +23,7 @@ Use the Asset operations view to perform the following tasks:
 -   View onboarding requests and tasks
 -   Create and view move orders.
 -   Create onboarding orders to onboard multiple enterprise assets at one go. For more details, see [Onboarding multiple enterprise assets in the Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/onboarding-multi-asset-from-ws.md).
--   Create Calculated model lifecycle templates for enterprise [[c_Models|models]]. For more details, see [Manage the lifecycle of enterprise models with calculated lifecycle templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-eam-lifecycle-temp.md).
+-   Create Calculated model lifecycle templates for enterprise models. For more details, see [Manage the lifecycle of enterprise models with calculated lifecycle templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-eam-lifecycle-temp.md).
 
 \[Omitted image "asset-operations-view-updated.png"\] Alt text: Asset operations view.
 
@@ -31,8 +31,3 @@ After you’ve created your request in the Service Catalog application, you can 
 
 **Note:** All requests created for hardware assets and enterprise assets are listed in the **Requests** list section. Similarly all catalog tasks created for hardware assets and enterprise assets are listed in the **Catalog tasks** list section. The Requested items list section only shows the requested items pertaining to enterprise assets.
 
-## Related
-
-- [[asset-operations-view|Asset operations view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Models|Models]]

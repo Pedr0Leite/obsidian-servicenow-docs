@@ -14,7 +14,7 @@ breadcrumb: [Event field mapping configuration, Processing Events, Configuring E
 
 # Create event field mappings
 
-Use event field mappings to map values from specific event fields to values in other fields to provide more comprehensive information in an alert. Use team-based integrations in [[create-event-rules|event rules]] to make sure that connector ownership and execution of rules give precedence to global rules. Teams can maintain consistency and hierarchy while offering flexibility and customization options.
+Use event field mappings to map values from specific event fields to values in other fields to provide more comprehensive information in an alert. Use team-based integrations in event rules to make sure that connector ownership and execution of rules give precedence to global rules. Teams can maintain consistency and hierarchy while offering flexibility and customization options.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: evt\_mgmt\_admin
 
 Create the rule to match the event by its class and original values. Also, specify the new values to replace the original values in the event.
 
-For users familiar with the classic [[c_EM|Event Management]] experience, enrich automations create event rules but with an easier interface and with better team support. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
+For users familiar with the classic Event Management experience, enrich automations create event rules but with an easier interface and with better team support. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
 ## Procedure
 
@@ -84,7 +84,7 @@ Mapping type
 
 Mapping mechanism that is used to change an event field value. -   **Map field and transform value \(Single field\)**:
 
-Maps the **Source field** value to the matching value in the Transform value pairs \[em\_mapping\_pair\] table and populates the **Target field**. Source and Target fields may be event fields, additional info fields, or [[alert-tags|alert tags]].
+Maps the **Source field** value to the matching value in the Transform value pairs \[em\_mapping\_pair\] table and populates the **Target field**. Source and Target fields may be event fields, additional info fields, or alert tags.
 
 -   **Create or update field and set constant value \(Constant\)**:
 
@@ -623,8 +623,3 @@ Test an event field mapping by sending an event that includes a field that is pr
 
 **Parent Topic:**[Event field mapping configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMEventFieldMapping.md)
 
-## Related
-
-- [[create-event-rules|Event rules]]
-- [[c_EM|Event Management]]
-- [[alert-tags|Alert tags]]

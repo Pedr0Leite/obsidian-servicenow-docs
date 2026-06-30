@@ -15,7 +15,7 @@ breadcrumb: [Use, Card Data Security, Dispute Management, Banking applications, 
 
 # Manage attachments in Card Data Security
 
-Learn how attachments in the contextual side panel are handled in [[card-data-security|Card Data Security]].
+Learn how attachments in the contextual side panel are handled in Card Data Security.
 
 ## Attachments in Card Data Security
 
@@ -40,6 +40,3 @@ The files in the **Merchant** tab aren't stored in the ServiceNow instance; they
 
 \[Omitted image "card-data-security-merchant-attachments.png"\] Alt text: Transaction review page showing the Merchant tab in Attachments.
 
-## Related
-
-- [[card-data-security|Card Data Security]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Time configuration, Configure core features, Administer the Se
 
 # Creating business calendars
 
-Create business calendars in the ServiceNow AI Platform so that you can schedule events for your users and track their time across applications. You define [[c_UseSchedules|schedules]] and calendars of all types, including fiscal calendars, in the Business Calendar menu.
+Create business calendars in the ServiceNow AI Platform so that you can schedule events for your users and track their time across applications. You define schedules and calendars of all types, including fiscal calendars, in the Business Calendar menu.
 
 ## Business calendar components
 
@@ -22,7 +22,7 @@ Use the following forms when you define calendars and schedules in the Business 
 
 -   **Business calendar definition record**
 
-    Identifies an individual business calendar where you can specify a [[reference-email-admin|reference]] name, labeling, parent business calendar \(if any\), and a time zone. A business calendar can represent any time period, and its definition record is saved in the Business Calendar \[business\_calendar\] table.
+    Identifies an individual business calendar where you can specify a reference name, labeling, parent business calendar \(if any\), and a time zone. A business calendar can represent any time period, and its definition record is saved in the Business Calendar \[business\_calendar\] table.
 
     To learn more about creating a business calendar definition, see [Create a business calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/create-business-calendar.md).
 
@@ -73,7 +73,7 @@ In this example, you create a fiscal calendar with 4 quarters and 12 fiscal peri
 In this example, you create a work schedule for the month of December.
 
 -   The work schedule consists of a parent calendar, a child calendar for the working weeks in December, and another child calendar for the working days in December.
--   The December Workdays calendar consists of business calendar entries for each working day. You don’t include non-work days such as Saturdays, Sundays, and company [[c_Holidays|holidays]].
+-   The December Workdays calendar consists of business calendar entries for each working day. You don’t include non-work days such as Saturdays, Sundays, and company holidays.
 
 \[Omitted image "business-calendar-schedule-ex\_updated.png"\] Alt text: Business calendar schedule example
 
@@ -82,7 +82,7 @@ In this example, you create a work schedule for the month of December.
     **Note:** You can make the December Work Schedule even more granular by creating a subordinate child calendar for December workdays. In this case, its immediate parent is the December Work Weeks calendar.
 
 -   When you create each calendar, use the Business Calendar Entries related list, or navigate to **Business Calendar** &gt; **Business Calendar Entries** to create, at minimum, one business calendar entry for it. For each business calendar entry, you give it a reference name, and designate the start and end date times for each time span within the calendar.
-    -   For example, the parent December Work [[schedule-calendar|Schedule calendar]] is for a time span of December 1, 20nn 12:00 through December 31, 20nn 23:59:59.
+    -   For example, the parent December Work Schedule calendar is for a time span of December 1, 20nn 12:00 through December 31, 20nn 23:59:59.
     -   The child December Work Week calendar consists of five business calendar entries. Each entry is for the start and end dates of each calendar week in December.
     -   The child December Workdays calendar consists of multiple business calendar entries. Each entry is for the start and end date times for each working day in December. You don’t create business calendar entries for company holidays such as New Year's Eve or New Year's Day.
 -   Use **Business Calendar** &gt; **Calendars for Package** to pair the parent business calendar December Work Schedule with the appropriate ServiceNow AI Platform packages, such as Customer Service Management.
@@ -103,7 +103,7 @@ For Performance Analytics and Reporting to use business calendars, organize seve
 -   **[Create a business calendar span using a Script includes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/create-a-business-calendar-span-using-a-script-includes.md)**  
 You can generate business calendar spans and their names using the **Script includes** titled **BusinessCalendarGeneratorUtil**. The calendars you create are accessible across both global and scoped applications.
 -   **[Define business calendar entries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-entries.md)**  
-Create business calendar entry records that define the individual time periods that make up a business calendar. You [[create-business-calendar|create a business calendar]] entry for every individual time span in the calendar.
+Create business calendar entry records that define the individual time periods that make up a business calendar. You create a business calendar entry for every individual time span in the calendar.
 -   **[Define business calendar filtering options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/define-business-calendar-filtering-options.md)**  
 Define date and time filtering options for a business calendar. These filtering options are in addition to the standard date and time filtering in the ServiceNow AI Platform. You can provide your users with additional filtering options when they use the business calendar with ServiceNow AI Platform packages and functional areas.
 -   **[Pair business calendars with packages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/pair-business-calendars-with-packages.md)**  
@@ -116,10 +116,3 @@ Pair a business calendar that you created with a package, or functional area, in
 
 [Using schedules and calendars](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_CreateCalendarsWithSchedulePages.md)
 
-## Related
-
-- [[c_UseSchedules|Schedules]]
-- [[reference-email-admin|Reference]]
-- [[c_Holidays|Holidays]]
-- [[schedule-calendar|Schedule calendar]]
-- [[create-business-calendar|Create a business calendar]]

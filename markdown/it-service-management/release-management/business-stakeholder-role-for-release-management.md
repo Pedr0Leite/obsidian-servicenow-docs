@@ -14,7 +14,7 @@ breadcrumb: [Release Management, IT Service Management]
 
 # Business stakeholder role for Release Management
 
-Use the business stakeholder role to read and retrieve data from any table of the [[c_ITILReleaseManagement|Release Management]] application to generate reports.
+Use the business stakeholder role to read and retrieve data from any table of the Release Management application to generate reports.
 
 When you activate the Business Stakeholder plugin \(com.snc.business\_stakeholder\) in your ServiceNow instance, the Read only roles for Release Management plugin \(com.snc.release\_management\_read\_roles\) is also activated. This plugin provides a business stakeholder role \(sn\_release\_read\) with which you can access all the tables of the Release Management application. You can assign this role to any user in your organization who is a business stakeholder.
 
@@ -79,6 +79,3 @@ Represents work items and change records associated to the release.
 </td></tr></tbody>
 </table>**Parent Topic:**[Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]

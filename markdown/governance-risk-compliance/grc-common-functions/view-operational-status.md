@@ -24,7 +24,7 @@ Role required: admin or sn\_compliance.reader
 
 Starting with Version 12.0.2, the Operational Status modules provide a view of all of your CIS Controls and/or ISO 27002-based indicator templates mapped to specific CIS/ISO controls in one place. This information can be useful for monitoring your controls and the health of your system. The application is able to scan your instance and determine which controls you have implemented, along with the various technologies available for validating each control and protecting your data.
 
-Beginning with the Australia release, [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]] provides pre-packaged CIS v8 controls and indicator templates.
+Beginning with the Australia release, Technology Controls Monitoring Accelerator provides pre-packaged CIS v8 controls and indicator templates.
 
 ## Procedure
 
@@ -58,7 +58,7 @@ Controls
 
 </td><td>
 
-The controls included when you download and activate the [[cybersecurity-controls-accelerator|Cybersecurity Controls Accelerator]] application.
+The controls included when you download and activate the Cybersecurity Controls Accelerator application.
 
 </td></tr><tr><td>
 
@@ -133,7 +133,3 @@ The source table for the data being monitored by the control.
 </table>
 **Parent Topic:**[Technology Controls Monitoring Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/tech-controls-monitoring-accel.md)
 
-## Related
-
-- [[tech-controls-monitoring-accel|Technology Controls Monitoring Accelerator]]
-- [[cybersecurity-controls-accelerator|cybersecurity controls accelerator]]

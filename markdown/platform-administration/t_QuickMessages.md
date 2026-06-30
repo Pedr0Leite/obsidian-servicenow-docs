@@ -12,7 +12,7 @@ breadcrumb: [Composing emails with quick messages, Configure, Email client, Noti
 
 # Define a quick message
 
-Create predefined content to add in the [[c_EnableTheEmailClient|email client]] so that users can write emails consistently and efficiently.
+Create predefined content to add in the email client so that users can write emails consistently and efficiently.
 
 ## Before you begin
 
@@ -98,7 +98,7 @@ Body
 
 Content to insert in the **Message Text** field in the email client. By default, the field supports HTML format.
 
- To [[reference-email-admin|reference]] field values, select variables from the variables list or manually type variable references using the syntax `${table_name.variable_name}`. To reference the user who launches the email client, enter the variable `${current_user}`. To reference the title of the user who launches the email client, enter the variable `${current_user.title}`.
+ To reference field values, select variables from the variables list or manually type variable references using the syntax `${table_name.variable_name}`. To reference the user who launches the email client, enter the variable `${current_user}`. To reference the title of the user who launches the email client, enter the variable `${current_user.title}`.
 
  **Note:** To view and select the variables, you must select a Table.
 
@@ -110,10 +110,5 @@ Content to insert in the **Message Text** field in the email client. By default,
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[quick-message|Composing emails with quick messages]]
+**Parent Topic:**[Composing emails with quick messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/quick-message.md)
 
-## Related
-
-- [[quick-message|Composing emails with quick messages]]
-- [[c_EnableTheEmailClient|Email client]]
-- [[reference-email-admin|Reference]]

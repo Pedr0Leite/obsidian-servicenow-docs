@@ -12,20 +12,20 @@ breadcrumb: [Care Team Operations for Biomed, Healthcare Operations, Healthcare 
 
 # Exploring Care Team Operations for Biomed
 
-Learn how you can use the [[care-team-operations-for-biomed|Care Team Operations for Biomed]] application to support your care team in resolving biomed issues quickly and efficiently.
+Learn how you can use the Care Team Operations for Biomed application to support your care team in resolving biomed issues quickly and efficiently.
 
 ## Care Team Operations for Biomed overview
 
 Care Team Operations for Biomed contains the case types to report and fulfill biomed issues in hospitals.
 
-Care Team Operations for Biomed provides care teams with a streamlined platform to report medical device or other biomed issues. Using the [[care-team-portal-landing|Care Team portal]], care team members can raise an issue with the Biomed case type. A work order is then automatically created, which service agents in the Biomed department then manage using Workspace as they fix the issue.
+Care Team Operations for Biomed provides care teams with a streamlined platform to report medical device or other biomed issues. Using the Care Team portal, care team members can raise an issue with the Biomed case type. A work order is then automatically created, which service agents in the Biomed department then manage using Workspace as they fix the issue.
 
 There are two types of service requests available with Care Team Operations for Biomed:
 
 -   Report a medical device issue
 -   Request other Biomed service
 
-**Note:** Care Team Operations for Biomed requires installation of the [[hcls-cto-app|Healthcare Operations Core]] and Care Team Portal plugins.
+**Note:** Care Team Operations for Biomed requires installation of the Healthcare Operations Core and Care Team Portal plugins.
 
 ## Care Team Operations for Biomed users
 
@@ -44,34 +44,22 @@ There are two types of service requests available with Care Team Operations for 
 
 1.  An administrator configures the Care Team Operations for Biomed application.
 2.  A care team member reports a medical device or other biomed issue and reports it using the Care Team Portal.
-3.  A biomed support agent receives the request in the form of a work order \(if using [[clinical-device-mgmt-overview|Clinical Device Management]]\) and fulfills it using Workspace.
+3.  A biomed support agent receives the request in the form of a work order \(if using Clinical Device Management\) and fulfills it using Workspace.
 
 ## Care Team Operations for Biomed benefits
 
 |Benefit|Feature|Users|
 |-------|-------|-----|
-|Automate [[healthcare-operations-overview|healthcare operations]] by enabling biomed support request creation and fulfillment.|[[hcls-cto-biomed-case|Healthcare Biomed case overview]]|Admin|
-|Receive visibility into all biomed requests created by your team.|[[requesting-cto-biomed|Creating service requests in Care Team Operations for Biomed]]|Care Team|
-|Use Workspace to fulfill biomed service requests.|[[cto-fulfilling-biomed|Fulfilling service requests in Care Team Operations for Biomed]]|Agent|
+|Automate healthcare operations by enabling biomed support request creation and fulfillment.|[Healthcare Biomed case overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/hcls-cto-biomed-case.md)|Admin|
+|Receive visibility into all biomed requests created by your team.|[Creating service requests in Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/requesting-cto-biomed.md)|Care Team|
+|Use Workspace to fulfill biomed service requests.|[Fulfilling service requests in Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-fulfilling-biomed.md)|Agent|
 
 ## What to explore next
 
 To learn more about configuring and using Care Team Operations for Biomed, see:
 
--   [[configuring-cto-biomed|Configuring Care Team Operations for Biomed]]
+-   [Configuring Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/configuring-cto-biomed.md)
 -   [Creating service requests in Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/requesting-cto-biomed.md)
 -   [Fulfilling service requests in Care Team Operations for Biomed](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-fulfilling-biomed.md)
--   [[cto-biomed-reference|Care Team Operations for Biomed Reference]]
+-   [Care Team Operations for Biomed Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/cto-biomed-reference.md)
 
-## Related
-
-- [[hcls-cto-biomed-case|Healthcare Biomed case overview]]
-- [[requesting-cto-biomed|Creating service requests in Care Team Operations for Biomed]]
-- [[cto-fulfilling-biomed|Fulfilling service requests in Care Team Operations for Biomed]]
-- [[configuring-cto-biomed|Configuring Care Team Operations for Biomed]]
-- [[cto-biomed-reference|Care Team Operations for Biomed Reference]]
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]
-- [[care-team-portal-landing|Care Team Portal]]
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[clinical-device-mgmt-overview|Clinical Device Management]]
-- [[healthcare-operations-overview|Healthcare Operations]]

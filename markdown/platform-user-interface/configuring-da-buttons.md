@@ -12,53 +12,42 @@ breadcrumb: [Declarative actions, Administer, Configurable Workspace UI, Configu
 
 # Configuring declarative action buttons
 
-[[configure-onboarding-modals|Configure]] declarative action buttons to perform actions.
+Configure declarative action buttons to perform actions.
 
--   **[[create-da-buttons-now-assist-icon|Configure a declarative action with the Now Assist icon]]**
+-   **[Configure a declarative action with the Now Assist icon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-da-buttons-now-assist-icon.md)**
 
     Configure a declarative action button with the Now Assist icon \(\[Omitted image "icon-ai-sparkle.png"\] Alt text:\) and hover animation.
 
--   **[[configure-da-ui-interactions|Trigger a UI interaction as a declarative action]]**
+-   **[Trigger a UI interaction as a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-ui-interactions.md)**
 
     Trigger a UI interaction from a declarative action to extend a page without taking ownership.
 
--   **[[configure-da-action-layout|Configure a form action layout on a workspace page]]**
+-   **[Configure a form action layout on a workspace page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-da-action-layout.md)**
 
     Add a UX Form Actions Layout to a workspace page in UI Builder.
 
--   **[[configuring-an-action-button-to-open-a-custom-modal|Configure a form action to open a custom modal]]**
+-   **[Configure a form action to open a custom modal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configuring-an-action-button-to-open-a-custom-modal.md)**
 
     Configure a declarative action to open a custom modal that provides information or interactive elements without navigating away from the current page.
 
--   **[[set-up-asychronous-record-addition-declarative-actions|Configure modal background loading]]**
+-   **[Configure modal background loading](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-asychronous-record-addition-declarative-actions.md)**
 
     Configure a modal to load large selections of records added to a related list in the background.
 
--   **[[set-up-resizing-for-select-modals-in-configurable-workspace|Resize a modal]]**
+-   **[Resize a modal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-resizing-for-select-modals-in-configurable-workspace.md)**
 
     Use declarative actions to resize a modal in your workspace.
 
--   **[[disable-list-actions-based-on-dynamic-conditions|Configure dynamic conditions for a list action]]**
+-   **[Configure dynamic conditions for a list action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/disable-list-actions-based-on-dynamic-conditions.md)**
 
     Configure a list or related list action to perform an action only when it satisfies dynamic conditions.
 
--   **[[config-da-action-configuration|Configure an action configuration record]]**
+-   **[Configure an action configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/config-da-action-configuration.md)**
 
     Create an action configuration record for a form or list action and copy the action configuration record's sys\_id.
 
--   **[[configure-watch-list|Configure a watch list]]**
+-   **[Configure a watch list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-watch-list.md)**
 
     Configure a watch list where you can add yourself, remove yourself, add multiple users, and add multiple records.
 
-## Related
 
-- [[create-da-buttons-now-assist-icon|Configure a declarative action with the Now Assist icon]]
-- [[configure-da-ui-interactions|Trigger a UI interaction from a declarative action]]
-- [[configure-da-action-layout|Configure a form action layout on a workspace page]]
-- [[configuring-an-action-button-to-open-a-custom-modal|Configuring a form action to open a custom modal]]
-- [[set-up-asychronous-record-addition-declarative-actions|Configure modal background loading]]
-- [[set-up-resizing-for-select-modals-in-configurable-workspace|Resize a modal]]
-- [[disable-list-actions-based-on-dynamic-conditions|Configure dynamic conditions for a list action]]
-- [[config-da-action-configuration|Configure an action configuration record]]
-- [[configure-watch-list|Configure a watch list]]
-- [[configure-onboarding-modals|Configure]]

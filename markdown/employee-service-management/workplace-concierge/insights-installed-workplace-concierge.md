@@ -14,7 +14,7 @@ breadcrumb: [Workplace Concierge - Components, Workplace Concierge, Workplace Se
 
 # Insights installed with Workplace Concierge
 
-The following insights are installed with the [[workplace-concierge-feat|Workplace Concierge]] and [[proactive-prompts-for-hrsd|Proactive Prompts]] plugins.
+The following insights are installed with the Workplace Concierge and Proactive Prompts plugins.
 
 Installing the Workplace Concierge plugin with the Proactive Prompts plugin creates records in the following tables.
 
@@ -75,7 +75,3 @@ Displays a message if the employee presence isn’t set to five days in the offi
 
 [Properties installed with Workplace Concierge]()
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

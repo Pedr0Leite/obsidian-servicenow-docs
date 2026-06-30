@@ -14,13 +14,13 @@ breadcrumb: [Manage stockrooms with inventory reports, Manage stockrooms, Use, H
 
 # Identify suitable replacement options for assets in the Hardware Asset Workspace
 
-Use the Inventory availability report to determine suitable replacement options for your assets and their child components that are in use, in maintenance, pending repair, or defective. The report also helps you to determine the quantity of available substitute [[c_Models|models]] that can be used locally, moved through the distribution channels, and estimate the lead time for new purchases.
+Use the Inventory availability report to determine suitable replacement options for your assets and their child components that are in use, in maintenance, pending repair, or defective. The report also helps you to determine the quantity of available substitute models that can be used locally, moved through the distribution channels, and estimate the lead time for new purchases.
 
 ## Before you begin
 
 The Inventory Availability Report is available only for hardware, consumable, and bundle assets that are in use, in maintenance, pending repair, or defective.
 
-Service locations and distribution channels should be configured for the stockroom. If the asset's location is a service location of a stockroom, it automatically becomes the local stockroom. A location can have multiple local [[c_Stockrooms|stockrooms]] if it is serviced by more than one stockroom. For more details, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md) and [Link stockrooms into a distribution channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-distribution-channels.md).
+Service locations and distribution channels should be configured for the stockroom. If the asset's location is a service location of a stockroom, it automatically becomes the local stockroom. A location can have multiple local stockrooms if it is serviced by more than one stockroom. For more details, see [Associate a stockroom with service locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-service-locations.md) and [Link stockrooms into a distribution channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/associate-stockroom-with-distribution-channels.md).
 
 Role required: asset
 
@@ -30,7 +30,7 @@ The Inventory availability report helps you to identify the best sourcing option
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset estate**.
 
 2.  Select the asset for which you want to view the replacement assets available in the local and remote stockrooms.
 
@@ -108,8 +108,3 @@ Average time in days it has taken from ordering to receiving replacement assets 
 </table>
 **Parent Topic:**[Manage stockrooms with inventory reports in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-stockroom-inventory-report-ham.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Stockrooms|Stockrooms]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

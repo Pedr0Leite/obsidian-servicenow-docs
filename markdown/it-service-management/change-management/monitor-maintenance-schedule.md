@@ -14,7 +14,7 @@ breadcrumb: [Conflict detection, Configure, Change Management, IT Service Manage
 
 # Configure a change request to monitor outside maintenance schedule conflicts
 
-When a change request is configured to display the conflicts that are outside the maintenance schedule, [[c_ConflictDetection|conflict detection]] indicates whether the planned start and end dates occur outside the maintenance window or not. By reviewing the conflicts that are detected, you can modify the change schedule.
+When a change request is configured to display the conflicts that are outside the maintenance schedule, conflict detection indicates whether the planned start and end dates occur outside the maintenance window or not. By reviewing the conflicts that are detected, you can modify the change schedule.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ When you save a change request that is outside the maintenance schedule, a warni
 
 [Detect conflicts manually and review conflict details]()
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]

@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d199370e119">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -85,7 +85,7 @@ Steps
 
     2.  Enter a value in the **Account Identifier** field.
 
-        **Note:** Account Identifier is the unique identifier for your account in the Harness platform. Copy it from Account [[settings-mobile|Settings]] of your Harness account.
+        **Note:** Account Identifier is the unique identifier for your account in the Harness platform. Copy it from Account Settings of your Harness account.
 
     3.  If your Harness instance is attached to a MID Server, select the **MID Server** option and enter its details.
 
@@ -137,14 +137,9 @@ Steps
 
 ## Result
 
-You’ve successfully onboarded your Harness tool to [[devops-landing-page-new|DevOps Change Velocity]].
+You’ve successfully onboarded your Harness tool to DevOps Change Velocity.
 
 **Note:** If your tool credential changes, you must also update the credentials in DevOps Change. For more information, see [Update third-party tool credentials in DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-third-party-tool-credentials-in-devops-change-velocity.md).
 
 **Parent Topic:**[Harness integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/harness-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]
-- [[devops-landing-page-new|DevOps Change Velocity]]

@@ -14,7 +14,7 @@ breadcrumb: [TISC Enrichment integrations, TISC Integrations, Integrate, Threat 
 
 # Configure Threat Lookup
 
-Scan selected [[c_Observables|observables]] for [[threat-intelligence-malware|malware]] using [[threat-intel-landing-page|Threat Intelligence]] to determine if they are malicious. Use this lookup to assess security threats from IP addresses, URLs, file hashes, and other observable types.
+Scan selected observables for malware using Threat Intelligence to determine if they are malicious. Use this lookup to assess security threats from IP addresses, URLs, file hashes, and other observable types.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 **Note:** The Enrichment Integrations module appears only if at least one integration supporting any capability is installed in the application.
 
-The [[tisc-landing-page|Threat Intelligence Security Center]] supports [[tisc-threat-lookup|Threat Lookup]] only for the following integrations:
+The Threat Intelligence Security Center supports Threat Lookup only for the following integrations:
 
 -   VirusTotal
 -   CrowdStrike Intelligence
@@ -43,7 +43,7 @@ This section displays cards for each of the configured integration implementatio
 
     \[Omitted image "enrich-threatlook.png"\] Alt text: Threat Lookup integrations
 
-3.  Select the **[[tisc-config-new-enrich|Configure new enrichment]]** action.
+3.  Select the **Configure new enrichment** action.
 
     A pop-up displays the available integrations.
 
@@ -91,11 +91,3 @@ You can view the Threat Lookup Finding Calculator to calculate the observable fi
 
 [View Threat Lookup Reputation Calculators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/view-threat-lookup-reputation-calculators.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-config-new-enrich|Configure new enrichment]]

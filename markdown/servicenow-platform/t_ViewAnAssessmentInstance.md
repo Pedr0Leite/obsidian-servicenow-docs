@@ -20,7 +20,7 @@ Role required: survey\_admin, assessment\_admin, or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **[[c_AssessmentInstances|Assessment Instances]]**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Assessment Instances**.
 
     The following sub-modules are available based on the state of the instances:
 
@@ -73,7 +73,7 @@ Due date
 
 </td><td>
 
-Date by which the assessment instance must be completed. The system populates the due date from the value in the metric type **Assessment duration** field. The system generates [[email|email]] notifications related to the due date.**Note:** By default, the system runs the Cancel Expired Assessments script every 30 days to cancel expired survey, assessment, and quiz instances that are in the Work in progress or Ready to take states.
+Date by which the assessment instance must be completed. The system populates the due date from the value in the metric type **Assessment duration** field. The system generates email notifications related to the due date.**Note:** By default, the system runs the Cancel Expired Assessments script every 30 days to cancel expired survey, assessment, and quiz instances that are in the Work in progress or Ready to take states.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ Signature
 
 </td><td>
 
-Name of the [[t_CreateAnAssessmentSignature|signature record]] attached to this assessment. A signature requires that assessment recipients acknowledge that they have read any assertions attached to a questionnaire.
+Name of the [signature record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_CreateAnAssessmentSignature.md) attached to this assessment. A signature requires that assessment recipients acknowledge that they have read any assertions attached to a questionnaire.
 
 </td></tr><tr><td>
 
@@ -113,12 +113,12 @@ Signature result
 
 </td><td>
 
-Verification provided by the recipient when a signature is required. This value is either the recipient's full name from the User \[sys\_user\] table or **checked**, indicating that the recipient acknowledged reading the assertion by selecting a [[check-box|check box]].
+Verification provided by the recipient when a signature is required. This value is either the recipient's full name from the User \[sys\_user\] table or **checked**, indicating that the recipient acknowledged reading the assertion by selecting a check box.
 
 </td></tr></tbody>
 </table>3.  Click **Take assessment** to open the questionnaire.
 
-    For more information, see [[t_TakeAnAssessment|Take an assessment]].
+    For more information, see [Take an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_TakeAnAssessment.md).
 
     This button is available if all the following conditions are true for the assessment instance:
 
@@ -126,25 +126,14 @@ Verification provided by the recipient when a signature is required. This value 
     -   The **State** is **Ready to take** or **In progress**.
     -   The associated metric type is **Active**.
 
-**Parent Topic:**[[c_ScheduledAssessments|Scheduled assessments]]
+**Parent Topic:**[Scheduled assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ScheduledAssessments.md)
 
 **Related topics**  
 
 
-[[c_AssessmentGeneration|Assessment generation]]
+[Assessment generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentGeneration.md)
 
-[[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
+[Generate a scheduled assessment manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_GenSchedAssessmentManually.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduleEvents.md)
 
-## Related
-
-- [[t_CreateAnAssessmentSignature|Create an assessment signature]]
-- [[t_TakeAnAssessment|Take an assessment]]
-- [[c_ScheduledAssessments|Scheduled assessments]]
-- [[c_AssessmentGeneration|Assessment generation]]
-- [[t_GenSchedAssessmentManually|Generate a scheduled assessment manually]]
-- [[r_Assessments|Assessments]]
-- [[c_AssessmentInstances|Assessment instances]]
-- [[email|Email]]
-- [[check-box|Check box]]

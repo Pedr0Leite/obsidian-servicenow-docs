@@ -90,7 +90,7 @@ Role required: admin
 
         You can edit the number description and also associate it with a new contact flow on the Manage Phone numbers page.
 
-        After the number is published, customers can make a call and start conversations with the [[virtual-agent-landing-page|Virtual Agent]].
+        After the number is published, customers can make a call and start conversations with the Virtual Agent.
 
     For more information about creating a Contact Flow, see [Amazon Contact flow documentation](https://docs.aws.amazon.com/connect/latest/adminguide/create-contact-flow.html).
 
@@ -103,6 +103,3 @@ Invoke an automated caller interaction with bots to fulfill the caller's request
 
 **Parent Topic:**[Configuring your AWS account for use with Conversational IVR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-aws-account.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

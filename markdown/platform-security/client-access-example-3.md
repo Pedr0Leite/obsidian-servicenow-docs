@@ -12,7 +12,7 @@ breadcrumb: [Configuring client accessible secrets, Secrets Management, Platform
 
 # Create a secret group with criteria
 
-Secret groups organize secrets and apply access [[ca-policies|policies]] at the group level. Associate a secret group with an [[identity-landing|identity]] group to control MID Server access.
+Secret groups organize secrets and apply access policies at the group level. Associate a secret group with an identity group to control MID Server access.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[secrets-management|Secrets Management]]** &gt; **Secret Groups with Criteria**.
+1.  Navigate to **All** &gt; **Secrets Management** &gt; **Secret Groups with Criteria**.
 
 2.  Select **New** to create a **Secret Group with Criteria** record.
 
@@ -33,7 +33,7 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
     |Autogen module|Check the box|
     |Short description|Description of the secret group. Enter a value that indicates what this group is being used for.|
     |Criterion type|Select **Target table**|
-    |Target table|Select **[[r_SSHCredentialsForm|SSH Credentials]] \[ssh\_credentials\]**|
+    |Target table|Select **SSH Credentials \[ssh\_credentials\]**|
 
 4.  Select and hold \(or right-click\) the form header and select **Save** from the context menu to save the record.
 
@@ -75,7 +75,7 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 
 17. Select **OK** to close the **Import identity public key certificate** window.
 
-    A blue **Keys and [[c_Certificates|certificates]] are successfully imported to the instance** banner displays confirming a successful import.
+    A blue **Keys and certificates are successfully imported to the instance** banner displays confirming a successful import.
 
 18. Select **Submit**.
 
@@ -114,13 +114,5 @@ Role required: admin, sn\_kmf.admin, sn\_secrets.admin
 29. Select **Update** to save the record.
 
 
-**Parent Topic:**[[client-access-secret-landing|Configuring client accessible secrets]]
+**Parent Topic:**[Configuring client accessible secrets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
-## Related
-
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[ca-policies|Policies]]
-- [[identity-landing|Identity]]
-- [[secrets-management|Secrets Management]]
-- [[r_SSHCredentialsForm|SSH credentials]]
-- [[c_Certificates|Certificates]]

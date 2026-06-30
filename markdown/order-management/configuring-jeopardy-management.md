@@ -14,7 +14,7 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 You can configure Jeopardy Management to monitor tasks in a fulfillment plan and alert managers about the jeopardy levels.
 
-There are several steps to set up Jeopardy Management in [[explore-order-management|Order Management]] as listed in the following table.
+There are several steps to set up Jeopardy Management in Order Management as listed in the following table.
 
 <table id="table_wnk_l1d_rxb"><thead><tr><th>
 
@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[define-jm-enabled-fulfillment-flows|Define Jeopardy-enabled fulfillment workflows]]
+[Define Jeopardy-enabled fulfillment workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-jm-enabled-fulfillment-flows.md)
 
 </td><td>
 
@@ -40,7 +40,7 @@ Define subflows for product and service specifications using the following Jeoap
 
 </td></tr><tr><td>
 
-[[enable-jeopardy-management|Configure the Order Jeopardy Enablement Policy]]
+[Configure the Order Jeopardy Enablement Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-jeopardy-management.md)
 
 </td><td>
 
@@ -101,14 +101,7 @@ If you have a Telecommunications subscription, the following fulfillment subflow
 **Related topics**  
 
 
-[[jeopardy-management|Jeopardy Management]]
+[Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/jeopardy-management.md)
 
-[[monitoring-jeopardy-management|Monitoring order jeopardy]]
+[Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[define-jm-enabled-fulfillment-flows|Define Jeopardy-enabled fulfillment workflows]]
-- [[enable-jeopardy-management|Configure the Order Jeopardy Enablement Policy]]
-- [[jeopardy-management|Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[explore-order-management|Order management]]

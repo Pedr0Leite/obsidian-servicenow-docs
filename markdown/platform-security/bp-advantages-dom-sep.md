@@ -16,9 +16,9 @@ Domain separation may work better for your customers' organizations than any oth
 
 
 
-You can enable domain separation with a ServiceNow plugin that has functionality built into the core platform. The separate domains [[sc-configuration|configuration]] is managed by a product manager who is supported by a development team. Enhancements and fixes for domain separation functionality are included with ServiceNow releases and ready to be used by customers. For assistance with domain separation, your instance owners can use Customer Service and Support resources, such as the [Service Portal](https://support.servicenow.com).
+You can enable domain separation with a ServiceNow plugin that has functionality built into the core platform. The separate domains configuration is managed by a product manager who is supported by a development team. Enhancements and fixes for domain separation functionality are included with ServiceNow releases and ready to be used by customers. For assistance with domain separation, your instance owners can use Customer Service and Support resources, such as the [Service Portal](https://support.servicenow.com).
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -55,7 +55,7 @@ You can enable domain separation with a ServiceNow plugin that has functionality
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -73,8 +73,3 @@ You can enable domain separation with a ServiceNow plugin that has functionality
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

@@ -16,11 +16,11 @@ breadcrumb: [Security scanner, Security configuration console, Security Center, 
 
 A finding is a reference to a record that has violated a rule from a check on the instance. You can find the source record and the number of times the record triggered the rules of a given check.
 
-\[Omitted image "security-scanner.png"\] Alt text: [[sc-scanning|Security scanner]] tab in the [[sec-center-v2|Security Center]]
+\[Omitted image "security-scanner.png"\] Alt text: Security scanner tab in the Security Center
 
 Navigate to the **Findings** tab to view scan findings in a list. The cards above the list provide a count of the findings that match specific criteria listed on the card. Select any of these cards to filter the list to show only those that match the criteria.
 
-Select the **+Create task** button to create a Security Task to resolve a finding. This button appears both on the list and within the finding record. For details on [[security-task-manager|Security Tasks]], see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
+Select the **+Create task** button to create a Security Task to resolve a finding. This button appears both on the list and within the finding record. For details on Security Tasks, see [Security Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-task-manager.md).
 
 ## Scan findings
 
@@ -34,7 +34,7 @@ Select a link under the **Count** column to view a finding record, which display
 
 -   **Category**
 
-    Security category associated with the scan. For example, [[sc-access-control|access control]] or [[sc-malicious-code|malicious code]].
+    Security category associated with the scan. For example, access control or malicious code.
 
 -   **Count**
 
@@ -85,10 +85,3 @@ Findings can be muted by selecting the **Mute / Unmute** button. When muting a s
 
 **Parent Topic:**[Security scanner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/sc-scanning.md)
 
-## Related
-
-- [[sc-scanning|Security scanner]]
-- [[sec-center-v2|Security Center]]
-- [[security-task-manager|Security Tasks]]
-- [[sc-access-control|Access control]]
-- [[sc-malicious-code|Malicious code]]

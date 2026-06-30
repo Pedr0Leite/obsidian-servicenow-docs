@@ -12,7 +12,7 @@ breadcrumb: [Email to case, Email channel, Enable communication channels, Config
 
 # Customer service email properties
 
-Users with the system administrator role can set several properties for the [[c_CustomerServiceManagement|Customer Service Management]] email communication channel.
+Users with the system administrator role can set several properties for the Customer Service Management email communication channel.
 
 After creating the incoming and outgoing email addresses that customers use to communicate with customer service agents, the system administrator can set the following email-specific properties.
 
@@ -80,14 +80,9 @@ Email history notifications
 
 </td><td>
 
-By default, the email history shows the last three messages in the case record. To show all activities on a case record in email replies and email notifications, add this script `${mail_script:get_emails_comments_activity_history}` to the email reply system property \(reply-received\) and the case commented system property \(case.commented.for.customer\). For more information, refer to [[config-email-notifications|Configure email and comment notifications]]
+By default, the email history shows the last three messages in the case record. To show all activities on a case record in email replies and email notifications, add this script `${mail_script:get_emails_comments_activity_history}` to the email reply system property \(reply-received\) and the case commented system property \(case.commented.for.customer\). For more information, refer to [Configure email and comment notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-email-notifications.md)
 
 .
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[config-email-notifications|Configure email and comment notifications]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

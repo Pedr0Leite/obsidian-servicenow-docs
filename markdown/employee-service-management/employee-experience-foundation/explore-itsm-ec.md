@@ -31,7 +31,7 @@ Service management is also easier with the Rich Content Editor and the Unified B
 
 ## Employee Center for ITSM workflow
 
-The infographic highlights how [[employee-center-landing-page|Employee Center]] can enhance the ITSM managing and service experience.
+The infographic highlights how Employee Center can enhance the ITSM managing and service experience.
 
 \[Omitted image "ec-itsm-wrkflw.jpg"\] Alt text: The image depicts how the EC and ITSM workflows can work together to provide solutions.
 
@@ -46,7 +46,7 @@ Connect everything and easily scale across the enterprise to deliver experiences
 The following requirements must be met to use Employee Center with ITSM.
 
 -   You can use Employee Center with ITSM or ITSM Pro subscription.
--   You must subscribe to [[employee-center-pro-landing|Employee Center Pro]] separately from the ServiceNow store.
+-   You must subscribe to Employee Center Pro separately from the ServiceNow store.
 
 ## Employee Center versus Employee Center Pro
 
@@ -177,7 +177,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](https://raw.githubu
 
 </td></tr><tr><td>
 
-[[eslate-employee-comms|Employee communications]]-   [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md)
+Employee communications-   [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md)
 -   [Microsites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-rich-content.md)
 -   [Employee News](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-news-articles.md)
 -   [Content engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-engagement.md)
@@ -195,7 +195,7 @@ Curated Experiences \([Unified Taxonomy for Employee Center](https://raw.githubu
 
 </td></tr><tr><td>
 
-Enterprise Search \(with [[sharepoint-search-overview|SharePoint Online Search Connector]]\)
+Enterprise Search \(with [SharePoint Online Search Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/sharepoint-search-overview.md)\)
 
 </td><td>
 
@@ -281,15 +281,8 @@ Integration-powered capabilities-   [App Launcher](https://raw.githubusercontent
 </td></tr></tbody>
 </table>## What to explore next
 
-To learn more about configuring and [[use-itsm-ec-new|using Employee Center for ITSM]], see:
+To learn more about configuring and using Employee Center for ITSM, see:
 
 -   [Configuring Employee Center for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-itsm-ec-new.md)
 -   [Using Employee Center for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/use-itsm-ec-new.md)
 
-## Related
-
-- [[sharepoint-search-overview|SharePoint Online Search Connector]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[eslate-employee-comms|Employee communications]]
-- [[use-itsm-ec-new|Using Employee Center for ITSM]]

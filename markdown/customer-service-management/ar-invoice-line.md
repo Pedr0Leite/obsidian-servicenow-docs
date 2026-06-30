@@ -16,7 +16,7 @@ The AR invoice line \(sn\_otc\_invoice\_line\) table stores the invoice line dat
 
 ## Accounts Receivable invoice line table
 
-The following table [[migration-lists|lists]] the fields for AR invoice line \[sn\_otc\_invoice\_line\] table.
+The following table lists the fields for AR invoice line \[sn\_otc\_invoice\_line\] table.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
@@ -47,6 +47,3 @@ The following table [[migration-lists|lists]] the fields for AR invoice line \[s
 |Tax rate string|String|Tax rate % applied on the invoice line - Tax rate in string if tax code and decimal is not used.|
 |Unit of Measure|Reference to Unit|Unit of Measure for the invoice line item quantity.|
 
-## Related
-
-- [[migration-lists|Lists]]

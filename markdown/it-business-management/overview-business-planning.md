@@ -12,9 +12,9 @@ breadcrumb: [Strategic Portfolio Management]
 
 # Business Planning Portal
 
-A business plan includes a business goal and a plan to achieve that goal. Business planning involves various entities of a business such as goals, [[c_BusinessUnits|business units]], business capabilities, capability map, enterprise strategies, and business unit strategies. As a business planner you can manage these entities from the business planning portal.
+A business plan includes a business goal and a plan to achieve that goal. Business planning involves various entities of a business such as goals, business units, business capabilities, capability map, enterprise strategies, and business unit strategies. As a business planner you can manage these entities from the business planning portal.
 
-To access the business planning portal, the Business Planner \(com.snc.apm.business\_planner\) plugin must be activated. This plugin is installed only when any one of the other [[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) plugins is already installed.
+To access the business planning portal, the Business Planner \(com.snc.apm.business\_planner\) plugin must be activated. This plugin is installed only when any one of the other Strategic Portfolio Management \(SPM\) plugins is already installed.
 
 Access the business planning entities, goals, business units, enterprise strategy, business unit strategy, capabilities, and capability in the **Business Planner** module.
 
@@ -36,27 +36,20 @@ The business planning portal helps the business planner to view and create goals
 
 -   **Strategies**
 
-    Displays the number of objectives that have been created. Click to view the list of strategic objectives that align with your business plans. Click to [[create-a-business-unit-strategy|create a business unit strategy]] or an [[create-a-enterprise-strategy|enterprise strategy]] to fulfill a new business plan. You can also assign strategies to a goal.
+    Displays the number of objectives that have been created. Click to view the list of strategic objectives that align with your business plans. Click to [create a business unit strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/create-a-business-unit-strategy.md) or an [enterprise strategy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/create-a-enterprise-strategy.md) to fulfill a new business plan. You can also assign strategies to a goal.
 
     -   Enterprise strategy is at a higher level and business unit strategies can be assigned at its child level.
     -   Business unit strategy is at a lower level and an enterprise strategy or a business unit strategy can be assigned as a parent strategy.
 -   **Business Units**
 
-    A business unit is a segment of an enterprise that represents a business function. View the existing number of business units in your organization. Click to [[t_CreateBusinessUnits|create a business unit]] to define its functions.
+    A business unit is a segment of an enterprise that represents a business function. View the existing number of business units in your organization. Click to [create a business unit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/t_CreateBusinessUnits.md) to define its functions.
 
 -   **No. of goals**
 
-    View the number of goals created to achieve a business plan. You can relate goals to many enterprise and business unit strategies. Similarly, more than one enterprise and business unit strategies can be related to more than one goal. Click a goal from the list to update its status and assign a task to it. You can also [[create-goal|create a goal]] for an application strategy.
+    View the number of goals created to achieve a business plan. You can relate goals to many enterprise and business unit strategies. Similarly, more than one enterprise and business unit strategies can be related to more than one goal. Click a goal from the list to update its status and assign a task to it. You can also create a goal for an application strategy.
 
 -   **Recent Activity**
 
     View the recent goals, strategic objectives, and business units that you had created.
 
-## Related
 
-- [[create-a-business-unit-strategy|Create a business unit strategy]]
-- [[create-a-enterprise-strategy|Create an enterprise strategy]]
-- [[t_CreateBusinessUnits|Create business units]]
-- [[c_BusinessUnits|Business units]]
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[create-goal|Create a goal]]

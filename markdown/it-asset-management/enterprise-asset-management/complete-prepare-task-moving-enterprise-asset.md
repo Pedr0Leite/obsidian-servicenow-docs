@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager, sn\_eam.enterprise\_admin, or
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], navigate to **Asset operations** &gt; **Moves** &gt; **Move orders**.
+1.  From the Enterprise Asset Workspace, navigate to **Asset operations** &gt; **Moves** &gt; **Move orders**.
 
 2.  From the list of available move orders, select the move order that you want to complete.
 
@@ -132,7 +132,7 @@ Notes about the task that are visible to all users within your organization.
 
 The Prepare task is automatically updated with a state of Closed Complete.
 
-If you set the **Move type** field to **Local Move**, the [[enterprise-asset-management|Enterprise Asset Management]] application automatically generates a corresponding Local move task for the enterprise move line. If you set the **Move type** field to **Ship**, the Enterprise Asset Management application automatically generates a corresponding Ship task for the enterprise move line.
+If you set the **Move type** field to **Local Move**, the Enterprise Asset Management application automatically generates a corresponding Local move task for the enterprise move line. If you set the **Move type** field to **Ship**, the Enterprise Asset Management application automatically generates a corresponding Ship task for the enterprise move line.
 
 ## What to do next
 
@@ -142,7 +142,3 @@ If you set the **Move type** field to **Ship**, proceed to [Complete the shipmen
 
 **Parent Topic:**[Completing an enterprise asset move order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/completing-enterprise-asset-move-order.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

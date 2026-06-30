@@ -48,13 +48,13 @@ Role required: admin
 
 Use the following procedures to configure and customize the GOV.UK Developer Toolkit GDS Service Portal to your needs:
 
-[[psds-config-govuk-dev-toolkit|Configure GOV.UK Developer Toolkit]]
+[Configure GOV.UK Developer Toolkit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-toolkit.md)
 
-[[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
+[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-[[psds-config-gds-profile-page|Configure the GOV.UK Design System Service Portal User Profile page]]
+[Configure the GOV.UK Design System Service Portal User Profile page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-profile-page.md)
 
-[[psds-config-gds-error-page|Configure the Error Pages for GOV.UK Developer Toolkit GDS Service Portal]]
+[Configure the Error Pages for GOV.UK Developer Toolkit GDS Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-error-page.md)
 
 **Parent Topic:**[Configure GOV.UK Developer Toolkit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-govuk-dev-toolkit.md)
 
@@ -62,9 +62,3 @@ Use the following procedures to configure and customize the GOV.UK Developer Too
 
 **Next topic:**[Configure the GOV.UK Design System \(GDS\) Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gds-content-pack-gsp.md)
 
-## Related
-
-- [[psds-config-govuk-dev-toolkit|Configure GOV.UK Developer Toolkit]]
-- [[psds-config-gds-content-pack-gsp|Configure the GOV.UK Design System \(GDS\) Service Portal]]
-- [[psds-config-gds-profile-page|Configure the GOV.UK Design System Service Portal User Profile page]]
-- [[psds-config-gds-error-page|Configure the Error Pages for GOV.UK Developer Toolkit GDS Service Portal]]

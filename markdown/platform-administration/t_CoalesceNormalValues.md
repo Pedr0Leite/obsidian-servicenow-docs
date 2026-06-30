@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-An example of this is the Company table that might have multiple variants of a company name, such as Hewlett-Packard, Hewlett-Packard, Inc., Hewlett-Packard Incorporated, HP, and so on. Potentially, thousands of records might [[reference-email-admin|reference]] each of these duplicate company records. Using the variants of the Hewlett-Packard name as aliases, coalescence unifies all these references into a single record that normalizes the **Name** field in the Company record to a normal value such as **HP**.
+An example of this is the Company table that might have multiple variants of a company name, such as Hewlett-Packard, Hewlett-Packard, Inc., Hewlett-Packard Incorporated, HP, and so on. Potentially, thousands of records might reference each of these duplicate company records. Using the variants of the Hewlett-Packard name as aliases, coalescence unifies all these references into a single record that normalizes the **Name** field in the Company record to a normal value such as **HP**.
 
-**Note:** Coalescing [[c_WhatFieldNormalizationDoes|normal values]] changes the record values permanently. If a rollback is performed, records will be returned to the table, but the normalized values will not be rolled back to the original variants.
+**Note:** Coalescing normal values changes the record values permanently. If a rollback is performed, records will be returned to the table, but the normalized values will not be rolled back to the original variants.
 
 When the references are fixed, all table fields directly corresponding to sys\_dictionary get fixed. The secondary references are not fixed. If you have filter conditions that has the old, pre coelesced company names, they aren't fixed either.
 
@@ -46,12 +46,8 @@ When the references are fixed, all table fields directly corresponding to sys\_d
 
     The system updates any references to records that match aliases and rules to instead point to the normal record. The system also deletes the duplicate records from the table.
 
-6.  [[t_ApplyAliases|Start]] all the **Alias application** data jobs to replace the aliases with the normal value in existing records in the database.
+6.  [Start](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ApplyAliases.md) all the **Alias application** data jobs to replace the aliases with the normal value in existing records in the database.
 
     The system starts the **Coalesce to normal** data jobs for each alias.
 
-## Related
 
-- [[t_ApplyAliases|Apply aliases]]
-- [[reference-email-admin|Reference]]
-- [[c_WhatFieldNormalizationDoes|Normal values]]

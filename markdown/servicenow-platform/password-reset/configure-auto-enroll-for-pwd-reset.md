@@ -14,7 +14,7 @@ breadcrumb: [Configure your Password Reset process, Configuring Password Reset, 
 
 # Configure your Password Reset process to auto-enroll users
 
-To simplify management, many organizations auto-enroll users in the [[password-reset-landing-page|Password Reset]] program. Every base-system verification type enables you to specify automatic enrollment for your process.
+To simplify management, many organizations auto-enroll users in the Password Reset program. Every base-system verification type enables you to specify automatic enrollment for your process.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Automatic enrollment
 
 </td><td>
 
-Select the [[check-box|check box]] to auto-enroll users. **Note:** If **Automatic enrollment** is not selected, then you must provide an enrollment UI macro and enrollment processor script as described in [Create a custom Password Reset verification type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/create-verification-type.md).
+Select the check box to auto-enroll users. **Note:** If **Automatic enrollment** is not selected, then you must provide an enrollment UI macro and enrollment processor script as described in [Create a custom Password Reset verification type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/create-verification-type.md).
 
 </td></tr></tbody>
 </table>4.  Repeat the procedure for all verifications that your Password Reset process uses.
@@ -81,7 +81,7 @@ Select the [[check-box|check box]] to auto-enroll users. **Note:** If **Automati
 
 [Configure Password Reset properties]()
 
-[Send [[email|email]] to remind users to enroll for Password Reset]()
+[Send email to remind users to enroll for Password Reset]()
 
 [Configure the required strength for passwords]()
 
@@ -89,8 +89,3 @@ Select the [[check-box|check box]] to auto-enroll users. **Note:** If **Automati
 
 [Configure Google reCAPTCHA for the password reset process]()
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]
-- [[email|Email]]

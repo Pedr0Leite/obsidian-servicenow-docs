@@ -12,7 +12,7 @@ breadcrumb: [Using MITRE-ATT&amp;CK to detect and analyze threats, MITRE-ATT&amp
 
 # Perform link analysis and threat hunting using MITRE-ATT&amp;CK specific filters
 
-Correlate and perform link analysis of [[c_Observables|observables]], security incidents, and MITRE-ATT&amp;CK related information so that your organization can start hunting for threats.
+Correlate and perform link analysis of observables, security incidents, and MITRE-ATT&amp;CK related information so that your organization can start hunting for threats.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ti.mitre\_analyst, sn\_si.read
 
 ## About this task
 
-After you associate the security incidents with MITRE-ATT&amp;CK information, you can use the MITRE-ATT&amp;CK specific filters for threat hunting. Use the MITRE-ATT&amp;CK filters with the existing [[sir-landing-page|Security Incident Response]] filters to correlate and perform link analysis.
+After you associate the security incidents with MITRE-ATT&amp;CK information, you can use the MITRE-ATT&amp;CK specific filters for threat hunting. Use the MITRE-ATT&amp;CK filters with the existing Security Incident Response filters to correlate and perform link analysis.
 
 ## Procedure
 
@@ -32,8 +32,8 @@ After you associate the security incidents with MITRE-ATT&amp;CK information, yo
 
     -   MITRE-ATT&amp;CK Adversary Group
     -   MITRE-ATT&amp;CK Data Source
-    -   MITRE-ATT&amp;CK Procedure \([[threat-intelligence-malware|Malware]]\)
-    -   MITRE-ATT&amp;CK Procedure \([[tools|Tools]]\)
+    -   MITRE-ATT&amp;CK Procedure \(Malware\)
+    -   MITRE-ATT&amp;CK Procedure \(Tools\)
     -   MITRE-ATT&amp;CK Tactic
     -   MITRE-ATT&amp;CK Technique
 4.  Create a filter condition that is based on the above criteria and click **Run** to perform a link analysis or correlation between security incidents, observables, and MITRE-ATT&amp;CK related information.
@@ -45,7 +45,7 @@ After you associate the security incidents with MITRE-ATT&amp;CK information, yo
     \[Omitted image "mitre-filter-conditions.png"\] Alt text: MITRE filter conditions for threat analysis.
 
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -56,7 +56,7 @@ After you associate the security incidents with MITRE-ATT&amp;CK information, yo
 
 [Associate MITRE-ATT&amp;CK information with security case]()
 
-[Rollup MITRE-ATT&amp;CK information using [[tisc-threat-lookup|Threat Lookup]] results]()
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results]()
 
 [Rollup MITRE-ATT&amp;CK information from detection rules]()
 
@@ -66,11 +66,3 @@ After you associate the security incidents with MITRE-ATT&amp;CK information, yo
 
 [Using the MITRE-ATT&amp;CK dashboard]()
 
-## Related
-
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[tools|Tools]]
-- [[tisc-threat-lookup|Threat Lookup]]

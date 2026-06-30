@@ -12,7 +12,7 @@ breadcrumb: [Case Management for Invoice Operations, Case management, Organize a
 
 # Creating an invoice case
 
-Agents can create invoice cases from the Invoice Cases list view in [[csm-workspaces-configure|CSM Configurable Workspace]] or the Core UI.
+Agents can create invoice cases from the Invoice Cases list view in CSM Configurable Workspace or the Core UI.
 
 Agents can create invoice cases by selecting **New** from the Invoice Cases list view. From the Invoice case record, agents can:
 
@@ -45,6 +45,3 @@ Once an invoice case has been created, agents can add invoices or invoice lines 
 
 The agent can select an invoice line or invoice for the Invoice Case Line record and then select **Save** to add it to the invoice case as an invoice case line.
 
-## Related
-
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

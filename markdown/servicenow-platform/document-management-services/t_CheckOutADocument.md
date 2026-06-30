@@ -14,7 +14,7 @@ breadcrumb: [Create a document, Managed Documents, Document Services, Manage con
 
 # Check out a document
 
-Documents in the [[c_ManagedDocuments|Managed Documents]] application can only be revised by one user at a time. Check out the document to revise it.
+Documents in the Managed Documents application can only be revised by one user at a time. Check out the document to revise it.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Create a document](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_CreateADocument.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

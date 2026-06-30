@@ -12,7 +12,7 @@ breadcrumb: [Using Business Location 360, Manage cases, Use, Customer Service Ma
 
 # Access Business Location 360 as a customer service manager
 
-Access the business location 360 page in the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) application as a customer service manager. You can get a comprehensive, 360-degree view of the business location issues all in one place.
+Access the business location 360 page in the Customer Service Management \(CSM\) application as a customer service manager. You can get a comprehensive, 360-degree view of the business location issues all in one place.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ As a customer service manager \(sn\_customerservice\_manager\), you can view the
 
 1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace**.
 
-2.  On the CSM/FSM Configurable Workspace **[[migration-lists|Lists]]** tab, select **Service Organizations** &gt; **Internal/External Business Locations**.
+2.  On the CSM/FSM Configurable Workspace **Lists** tab, select **Service Organizations** &gt; **Internal/External Business Locations**.
 
 3.  In the Internal/External Business Locations list, select a record.
 
@@ -36,16 +36,9 @@ As a customer service manager \(sn\_customerservice\_manager\), you can view the
 **Related topics**  
 
 
-[[ui-components-under-business-location-360|Business Location 360 components]]
+[Business Location 360 components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ui-components-under-business-location-360.md)
 
-[[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
+[Access Business Location 360 as a customer service agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-business-location-360-as-agents.md)
 
-[[access-bl-360-as-loc-serv-agent|Access Business Location 360 as a location service agent]]
+[Access Business Location 360 as a location service agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/access-bl-360-as-loc-serv-agent.md)
 
-## Related
-
-- [[ui-components-under-business-location-360|Business Location 360 components]]
-- [[access-business-location-360-as-agents|Access Business Location 360 as a customer service agent]]
-- [[access-bl-360-as-loc-serv-agent|Access Business Location 360 as a location service agent]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[migration-lists|Lists]]

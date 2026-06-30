@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics, Financial Services Operations \(FSO\)]
 
 # Client Lifecycle dashboard
 
-With the [[fso-overview|Financial Services]] Client Lifecycle dashboard, you can get insight into how your team and business are performing for the client lifecycle cases.
+With the Financial Services Client Lifecycle dashboard, you can get insight into how your team and business are performing for the client lifecycle cases.
 
 **Important:** The Financial Services Client Lifecycle dashboard has been modernized to give you a better user experience.
 
@@ -117,9 +117,5 @@ The following table shows the available filters in the Client Lifecycle dashboar
 |----|----|-----------|
 |Age|Bucket|Shows the age ranges in days for the Client Lifecycle cases.|
 
-**Parent Topic:**[[fso-content-pack|Implementing Platform Analytics solutions]]
+**Parent Topic:**[Implementing Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-content-pack.md)
 
-## Related
-
-- [[fso-content-pack|Implementing Platform Analytics solutions]]
-- [[fso-overview|Financial Services]]

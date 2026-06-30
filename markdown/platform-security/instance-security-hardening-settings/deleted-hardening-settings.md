@@ -14,22 +14,14 @@ breadcrumb: [Deleted hardening settings, Baseline versions, Hardening settings, 
 
 # Deleted hardening settings for baseline version 2.0
 
-Some [[security-hardening-settings|hardening settings]] have been removed with the release of [[sec-center-v2|Security Center]] baseline version 2.0.
+Some hardening settings have been removed with the release of Security Center baseline version 2.0.
 
--   Enable [[code-signing-landing|Code Signing]] for Application [[sc-configuration|Configuration]] Data and Scripts
+-   Enable Code Signing for Application Configuration Data and Scripts
 -   Enable Glide KMF encrypter
 -   Disable the Use of Instance Level Encrypter
--   Enable [[explicit-roles|Explicit Roles]] Internal Denylist
+-   Enable Explicit Roles Internal Denylist
 -   Block Direct Inserts to MID ECC Queue for Code Signing Requirement
--   Log All Outbound HTTP [[c_requestAPI|Request]] Fields
+-   Log All Outbound HTTP Request Fields
 
 **Parent Topic:**[Deleted hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-deleted.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[explicit-roles|Explicit Roles]]
-- [[c_requestAPI|request]]

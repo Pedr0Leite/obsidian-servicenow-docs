@@ -16,14 +16,14 @@ breadcrumb: [Viewing On-Call Scheduling reports, On-Call Scheduling, IT Service 
 
 Run My Groups Overview reports to view the activities of a selected group: Count information on acknowledged and unacknowledged escalations by shift, acknowledged escalations by user, and the hours for each user over seven days.
 
-**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [[oncall-scheduling|On-call dashboard]] to view, maintain, and track the escalation reports.
+**Important:** Starting in Xanadu release, the On-Call dashboard is deprecated. Users can use [On-call dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/oncall-scheduling.md) to view, maintain, and track the escalation reports.
 
 ## Opening the reports
 
 Any user with the itil role can view the reports. Use one of the following methods to open the reports:
 
 -   Click **Self-Service** &gt; **Dashboards** and select **On-Call Overview**. If you have licensed the premium version, then click **On-Call Overview - Premium**.
--   Click **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Reports** &gt; **Overview**.
+-   Click **On-Call Scheduling** &gt; **Reports** &gt; **Overview**.
 
 Click the **My Groups Overview** tab and then specify the group in the **My On-Call Groups** list.
 
@@ -57,7 +57,3 @@ Click the **My Groups Overview** tab and then specify the group in the **My On-C
 
 **Parent Topic:**[Viewing On-Call Scheduling reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-reports.md)
 
-## Related
-
-- [[oncall-scheduling|On-call dashboard]]
-- [[c_OnCallScheduling|On-Call Scheduling]]

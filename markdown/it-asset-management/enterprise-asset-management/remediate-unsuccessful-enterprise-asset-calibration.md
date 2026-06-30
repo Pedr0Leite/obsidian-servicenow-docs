@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace**.
 
 2.  From the Enterprise Asset Workspace, open the Work management view.
 
@@ -73,6 +73,3 @@ Work with the assigned agent to complete and close all subsequent tasks for the 
 
 **Parent Topic:**[Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

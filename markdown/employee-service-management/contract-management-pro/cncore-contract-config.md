@@ -22,7 +22,7 @@ A contract template and a template rule that will pick the template when the use
 
 You can distinguish configurations for an amendment request from those for a new contract by using the **Request type** selection.
 
-If you want the variables related to the contract request to be available in condition builder, add the contract request [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
+If you want the variables related to the contract request to be available in condition builder, add the contract request reference to your application table. For more information, see [Enable contract request fields in condition builders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-add-cmr-condtion-build.md)
 
 For a request:
 
@@ -49,7 +49,7 @@ Third party contracts already have a default contract configuration in the base 
 
 2.  Select **New**.
 
-3.  On the [[cncore-contract-config-form|Contract Configuration form]], fill in the fields.
+3.  On the Contract Configuration form, fill in the fields.
 
     For more information, see [Contract Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-contract-config-form.md).
 
@@ -73,7 +73,7 @@ Fields available
 
 </th></tr></thead><tbody><tr><td id="d84535e223">
 
-**Field mapping - [[map-fields-navex|Map fields]] from the request table to the fields in the contract repository table.**
+**Field mapping - Map fields from the request table to the fields in the contract repository table.**
 
 </td><td>
 
@@ -117,8 +117,4 @@ Fields available
 
 8.  Select **Update** to save the contract configuration.
 
-## Related
 
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[cncore-contract-config-form|Contract Configuration form]]
-- [[map-fields-navex|Map fields]]

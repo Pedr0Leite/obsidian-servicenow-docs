@@ -29,7 +29,7 @@ Use the **Items orderable by subscribers** related list \(tab\) on a service off
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[SPM2-landing-page|Service Portfolio Management]]** &gt; **Service offerings**.
+1.  Navigate to **All** &gt; **Service Portfolio Management** &gt; **Service offerings**.
 
 2.  Open a service offering that you want to relate a catalog item to or add a catalog item to.
 
@@ -217,7 +217,7 @@ Time frame for recurrence, such as **Monthly** or **Annually**.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-Portal [[settings-mobile|Settings]]
+Portal Settings
 
 </td></tr><tr><td colspan="2">
 
@@ -328,7 +328,3 @@ If selected, adding an attachment is required for the catalog item.**Note:** App
 
 **Parent Topic:**[Service offerings in Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-service-offerings.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[settings-mobile|Settings]]

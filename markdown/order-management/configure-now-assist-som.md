@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for SFA, Sales Customer Relationship Management]
 
 # Configure Now Assist for Sales Force Automation \(SFA\)
 
-If you have the admin role, you can configure the [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]] application so that agents can use the generative AI capabilities in the CSM Configurable Workspace.
+If you have the admin role, you can configure the Now Assist for Sales Force Automation \(SFA\) application so that agents can use the generative AI capabilities in the CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -28,6 +28,4 @@ Role required: admin
 
     For information about the installation process, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md).
 
-## Related
 
-- [[now-assist-for-sales-and-order-management-som|Now Assist for Sales Force Automation \(SFA\)]]

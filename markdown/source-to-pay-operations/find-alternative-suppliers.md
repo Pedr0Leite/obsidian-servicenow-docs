@@ -13,7 +13,7 @@ breadcrumb: [Resolving purchase order exceptions, Use, Purchase Order Management
 
 # Find alternative suppliers
 
-If a [[supplier|supplier]]'s inability to fulfill an order creates a shortfall, find an alternative supplier. Review open orders with other suppliers for the same material at the required location. You can then request for expedited delivery or increased quantities.
+If a supplier's inability to fulfill an order creates a shortfall, find an alternative supplier. Review open orders with other suppliers for the same material at the required location. You can then request for expedited delivery or increased quantities.
 
 ## Before you begin
 
@@ -21,9 +21,9 @@ Role required: sn\_poem\_core.operational\_buyer
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Source-to-Pay Workspace**.
 
-2.  Select the **[[purchase-order-mgmt-landing-page|Purchase order management]]** tab.
+2.  Select the **Purchase order management** tab.
 
 3.  Select an open exception that you want to work on.
 
@@ -42,15 +42,7 @@ Role required: sn\_poem\_core.operational\_buyer
 
 ## Result
 
-A [[purchase-order-table|purchase order]] revision is created for the alternative supplier and is assigned to the [[supplier-contact|supplier contact]].
+A purchase order revision is created for the alternative supplier and is assigned to the supplier contact.
 
-**Parent Topic:**[[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
+**Parent Topic:**[Resolving purchase order exceptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/resolving-purchase-order-exceptions.md)
 
-## Related
-
-- [[resolving-purchase-order-exceptions|Resolving purchase order exceptions]]
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier-contact|Supplier contact]]

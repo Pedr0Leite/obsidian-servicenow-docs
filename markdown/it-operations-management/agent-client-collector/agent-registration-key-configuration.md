@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - endpoints, Configuring Agent Client Collector, Age
 
 # Configure an agent registration key
 
-Configure an agent registration key so that you can deploy MID-less [[acc-landing-page|Agent Client Collector]]. Deploying MID-less Agent Client Collector enables you to use the MID Server for more persistent resources.
+Configure an agent registration key so that you can deploy MID-less Agent Client Collector. Deploying MID-less Agent Client Collector enables you to use the MID Server for more persistent resources.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ The new agent registration key is ready to use for installation.
 
 [Agent Client Collector Framework configuration properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-framework-configuration-properties.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

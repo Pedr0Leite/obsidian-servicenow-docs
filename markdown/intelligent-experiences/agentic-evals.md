@@ -12,7 +12,7 @@ breadcrumb: [Now Assist AI agents, Enable AI experiences]
 
 # Evaluate agentic AI assets
 
-Agentic evaluations enable you to test agentic [[ai-assets|AI assets]] against defined [[ai-datasets|datasets]] to verify quality before deployment. Run results score performance, identify issues, and provide opportunities for optimization.
+Agentic evaluations enable you to test agentic AI assets against defined datasets to verify quality before deployment. Run results score performance, identify issues, and provide opportunities for optimization.
 
 ## Get started
 
@@ -29,7 +29,7 @@ Agentic evaluations enable you to test agentic [[ai-assets|AI assets]] against d
 [Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn more about the roles, parser tool for custom metrics, and the results page.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ref-aia-eval.md)
 
 </td></tr></tbody>
-</table>Automated evaluations for agentic AI are a structured quality assurance capability for agentic AI assets built in [[ai-agent-studio|AI Agent Studio]]. Each evaluation run tests your agents against a defined dataset, applies LLM-powered judges to score key quality dimensions, and surfaces issues with recommended fixes. Use automated evaluations to get objective, explainable evidence that your agentic AI is ready to deploy.
+</table>Automated evaluations for agentic AI are a structured quality assurance capability for agentic AI assets built in AI Agent Studio. Each evaluation run tests your agents against a defined dataset, applies LLM-powered judges to score key quality dimensions, and surfaces issues with recommended fixes. Use automated evaluations to get objective, explainable evidence that your agentic AI is ready to deploy.
 
 ## Helpful resources
 
@@ -71,8 +71,3 @@ Some ServiceNow resources that can provide you with helpful information are:
     -   [https://support.servicenow.com/now](https://support.servicenow.com/now)
     -   
 
-## Related
-
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[ai-agent-studio|AI Agent Studio]]

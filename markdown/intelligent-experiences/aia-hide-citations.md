@@ -13,7 +13,7 @@ breadcrumb: [Citations in Now Assist AI agents, Configure, Now Assist AI agents,
 
 # Disable citations in AI Agent Studio
 
-Disable citations for specific agentic workflows or AI agents in [[ai-agent-studio|AI Agent Studio]] where citations aren’t required or involve confidential information.
+Disable citations for specific agentic workflows or AI agents in AI Agent Studio where citations aren’t required or involve confidential information.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ By default, the citations are enabled for all agentic workflows and AI agents. T
     |Value|Provide **false** as the value to hide the citations.|
     |Target table|The table where the target agentic workflow or AI agent resides.|
     |Target record|The record of the target agentic workflow or AI agent.|
-    |Application|The application scope for the agent property record: [[na-ai-agents|Now Assist AI agents]].|
+    |Application|The application scope for the agent property record: Now Assist AI agents.|
 
 4.  Select **Submit**.
 
@@ -50,7 +50,3 @@ Execute an AI agent or an agentic workflow for which you have disabled citations
 
 \[Omitted image "hide-citations.png"\] Alt text: Citations hidden in the output of an executed agentic workflow on AI Agent Studio.
 
-## Related
-
-- [[ai-agent-studio|AI Agent Studio]]
-- [[na-ai-agents|Now Assist AI agents]]

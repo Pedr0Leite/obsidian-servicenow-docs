@@ -12,13 +12,13 @@ breadcrumb: [References for generative AI, Reference, Unified Security Exposure 
 
 # Sample queries for the Retrieve Vulnerability Response data agentic workflow
 
-The following sample prompts might help you become familiar with the Retrieve [[vuln-landing-page|Vulnerability Response]] data agentic workflow.
+The following sample prompts might help you become familiar with the Retrieve Vulnerability Response data agentic workflow.
 
 ## Notes on queries and prompts
 
 You can enter prompts or queries in natural language. Based on your role, suggestion questions or prompts for a topic are also provided dynamically by the AI agent.
 
-For [[avr-landing|Application Vulnerability Response]] findings, substitute application vulnerable items \(AVITs\) for \(VITs\) in your queries.
+For Application Vulnerability Response findings, substitute application vulnerable items \(AVITs\) for \(VITs\) in your queries.
 
 -   This AI agent is designed to help you answer query-related questions about data for Vulnerability Response and Application Vulnerability Response findings.
 -   Prompts that involve any sort of data analysis of the vulnerability data that might match your questions are not supported by this AI agent.
@@ -53,10 +53,5 @@ For [[avr-landing|Application Vulnerability Response]] findings, substitute appl
 |Show me all the deferred VITs that are about to expire in 7 days.|
 |Show me all the VITs that are currently unassigned.|
 
-**Parent Topic:**[[now-assist-vulnerability-response-reference|Now Assist for Vulnerability Response reference information]]
+**Parent Topic:**[Now Assist for Vulnerability Response reference information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-vulnerability-response-reference.md)
 
-## Related
-
-- [[now-assist-vulnerability-response-reference|Now Assist for Vulnerability Response reference information]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]

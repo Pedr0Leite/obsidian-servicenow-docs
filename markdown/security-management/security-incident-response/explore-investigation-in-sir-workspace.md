@@ -20,7 +20,7 @@ Within the SIR Workspace, the security incident investigation primarily revolves
 
 The following are a few key entry points that are provisioned for the security analysts within the base system:
 
--   Associated [[c_Observables|Observables]]
+-   Associated Observables
 -   Configuration Items
 -   Affected Users
 -   Associated Phish Emails
@@ -30,7 +30,7 @@ You can also configure entry points by adding, modifying, or removing the entry 
 
 On the **Investigation** tab, the entry point table acts as the parent table. All the tables that hold the results of an orchestration action performed on the parent table are presented as children table within the entry point.
 
-For example, for **Associated Observables** entry point, **Associate Observables** table is the parent table, and other tables such as [[tisc-threat-lookup|Threat Lookup]] Results, Sandbox submission results are the children tables.
+For example, for **Associated Observables** entry point, **Associate Observables** table is the parent table, and other tables such as Threat Lookup Results, Sandbox submission results are the children tables.
 
 The security analyst can perform all the orchestration actions on the Associated Observables table, and is able to view all the associated information within the same page, without the need to navigate across multiple places.
 
@@ -51,7 +51,7 @@ The following is a detailed example of an entry point \(Associated Observable\) 
 2.  Select one or more observables from the parent table.
 3.  Run the desired capability.
 
-    For example, select **[[tisc-run-threat-lookup|Run Threat Lookup]]** to fetch the threat lookup results for a selected observable.
+    For example, select **Run Threat Lookup** to fetch the threat lookup results for a selected observable.
 
     **Note:** When a corresponding observable action is executed, the process is run in the backend and the results are displayed below the Observables list.
 
@@ -61,7 +61,7 @@ The following is a detailed example of an entry point \(Associated Observable\) 
 
     In addition, you can filter the results **by associated related lists** which are the children table results. By default, all the configured children table related lists are displayed. For more information, see [Configure SI design time investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-investigation-canvas-records.md). However, you can choose to select only those children tables that are required.
 
-    \[Omitted image "sirw-[[threat-intelligence-security-center-overview|explore]]-investigation-view-info.png"\] Alt text: View associated info.
+    \[Omitted image "sirw-explore-investigation-view-info.png"\] Alt text: View associated info.
 
 5.  Select **View Associated Info** to view all the associated children table data in one place. However you can close the related lists view by selecting **Close View** button. Once you close the view, you can only see the observables parent table as earlier.
 6.  Select **Expand all** upward direction icon within the **Viewing available associated info** results table to expand all the related lists children table data.
@@ -94,9 +94,3 @@ The following is a detailed example of an entry point \(Associated Observable\) 
 
 [Configure SI design time investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configure-investigation-canvas-records.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[threat-intelligence-security-center-overview|Explore]]

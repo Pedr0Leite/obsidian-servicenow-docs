@@ -22,7 +22,7 @@ UI Builder is a low-code environment. You should be comfortable interacting with
 
 ## Customizing pages in UI Builder
 
-Next Experience components are the base elements of UI Builder pages like [[dispatcher-activities|Dispatcher Workspace]]. Components range from core elements like buttons and labels to more complex components like lists and forms. You can change components to update the Dispatcher Workspace user interface or add new ones. You can also create your own components if the ones that come with UI Builder don't fit your needs.
+Next Experience components are the base elements of UI Builder pages like Dispatcher Workspace. Components range from core elements like buttons and labels to more complex components like lists and forms. You can change components to update the Dispatcher Workspace user interface or add new ones. You can also create your own components if the ones that come with UI Builder don't fit your needs.
 
 **Important:** You must use a Script Include when making any customizations to Dispatcher Workspace. For more information, see [Extend a Script Include](https://developer.servicenow.com/dev.do#!/learn/courses/vancouver/app_store_learnv2_scripting_vancouver_scripting_in_servicenow/app_store_learnv2_scripting_vancouver_server_side_scripting/app_store_learnv2_scripting_vancouver_extend_a_script_include).
 
@@ -30,13 +30,7 @@ For information on components and how to work with them in UI Builder, see [Cust
 
 You can configure nearly any area of Dispatcher Workspace in UI Builder. Three of the most common areas to update are the contextual side panel, the agent card, and the calendar. For more information see the following topics:
 
--   [[side-panel-ui-builder|Customizing the contextual side panel in Dispatcher Workspace with UI Builder]]
--   [[agent-card-ui-builder|Customizing the agent card in Dispatcher Workspace with UI Builder]]
--   [[calendar-color-ui-builder|Customizing the calendar grid in Dispatcher Workspace with UI Builder]]
+-   [Customizing the contextual side panel in Dispatcher Workspace with UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/side-panel-ui-builder.md)
+-   [Customizing the agent card in Dispatcher Workspace with UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/agent-card-ui-builder.md)
+-   [Customizing the calendar grid in Dispatcher Workspace with UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/calendar-color-ui-builder.md)
 
-## Related
-
-- [[side-panel-ui-builder|Customizing the contextual side panel in Dispatcher Workspace with UI Builder]]
-- [[agent-card-ui-builder|Customizing the agent card in Dispatcher Workspace with UI Builder]]
-- [[calendar-color-ui-builder|Customizing the calendar grid in Dispatcher Workspace with UI Builder]]
-- [[dispatcher-activities|Dispatcher Workspace]]

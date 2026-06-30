@@ -52,7 +52,7 @@ After you enforce the restriction on specific security incidents and limit the a
 
     8.  Click **Update**.
 
-3.  If you are [[using-sir-workspace|using SIR Workspace]], perform the following:
+3.  If you are using SIR Workspace, perform the following:
 
     1.  From the security incident, click the **Details** tab.
 
@@ -70,6 +70,4 @@ After you enforce the restriction on specific security incidents and limit the a
 
     6.  Click **Save**.
 
-## Related
 
-- [[using-sir-workspace|Using SIR Workspace]]

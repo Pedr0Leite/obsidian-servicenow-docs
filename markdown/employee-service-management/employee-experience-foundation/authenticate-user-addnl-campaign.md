@@ -14,7 +14,7 @@ breadcrumb: [Working on campaigns in Microsoft Teams, Integration for Employee E
 
 # Authenticate users with additional permissions to send campaign notifications in Microsoft Teams
 
-Assign additional Microsoft Azure permissions to users to enable Microsoft Teams create and send new campaign notifications on the user’s behalf in the teamwork [[activity-lxp|activity]] feed.
+Assign additional Microsoft Azure permissions to users to enable Microsoft Teams create and send new campaign notifications on the user’s behalf in the teamwork activity feed.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ Role required: admin
 
 **Parent Topic:**[Working on campaigns in Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-campaigns-ms-teams.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

@@ -15,17 +15,17 @@ breadcrumb: [Working with responsive dashboards, Create and use dashboards, Resp
 
 # Create or configure a responsive dashboard in Core UI
 
-Create a dashboard where you can add [[c_Widgets|Performance Analytics widgets]], data visualizations, and other content that you frequently use. You can then share the dashboard with other users.
+Create a dashboard where you can add Performance Analytics widgets, data visualizations, and other content that you frequently use. You can then share the dashboard with other users.
 
 ## Before you begin
 
 If you're new to dashboards, the Visualize and Next Experience Dashboards sections of the ServiceNow University [Platform Analytics \(PA\) Overview training](https://learning.servicenow.com/lxp/en/now-intelligence/platform-analytics-pa-overview?id=learning_course_prev&course_id=fb9decf8932f06905402393d6cba10f6&s=1&ssa=3) provide an overview of these features. \(Registration and enrollment required.\)
 
-**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to [[par-workspace|Platform Analytics experience]], see [[create-db-in-ac|Create a dashboard with the in-line editor]].
+**Note:** This topic refers to Dashboards in the Core UI. If your instance is migrated to Platform Analytics experience, see [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md).
 
-Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [[data-migration-migrate-dbs-you-own|Migrate dashboards that you own]].
+Owners of Core UI responsive dashboards have the option to migrate these dashboards to Platform Analytics experience. For more information, see [Migrate dashboards that you own](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration-migrate-dbs-you-own.md).
 
-The dashboard overview in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library shows both Core UI and Platform Analytics experience dashboards.
+The dashboard overview in the Platform Analytics library shows both Core UI and Platform Analytics experience dashboards.
 
 Core UI dashboard backgrounds are not themeable with custom colors.
 
@@ -97,7 +97,7 @@ The dashboard owner. Only a user with the administrator role can change this val
     |Field|Description|
     |-----|-----------|
     |**Group**|Select the magnifier icon to add the dashboard to a **Group**. Groups organize dashboards in the dashboard picker list. Grouped dashboards appear at the top of the list. Ungrouped dashboards appear in the list under **Other**.|
-    |**Breakdown Source**|Select one or more [[breakdown-sources|breakdown sources]] in the **Breakdown Source** related list. Breakdowns enable users to filter Performance Analytics data on the dashboard. The **Breakdown Source** related list is available on the Dashboard form after you create the dashboard. For more information, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).|
+    |**Breakdown Source**|Select one or more breakdown sources in the **Breakdown Source** related list. Breakdowns enable users to filter Performance Analytics data on the dashboard. The **Breakdown Source** related list is available on the Dashboard form after you create the dashboard. For more information, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).|
     |**Act as filter**|You can configure a Performance Analytics breakdown on a dashboard to act as an interactive filter for reports on the dashboard. The dashboard must be configured as a breakdown dashboard. Select the interactive filter that you want this breakdown source to act as.|
 
 7.  Select **Submit**.
@@ -120,11 +120,3 @@ Add more content to your new dashboard. For more information, see [Edit a respon
 
 [Organize dashboards into groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_GroupDashboards.md)
 
-## Related
-
-- [[create-db-in-ac|Create a dashboard with the in-line editor]]
-- [[data-migration-migrate-dbs-you-own|Migrate dashboards that you own]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[breakdown-sources|Breakdown sources]]

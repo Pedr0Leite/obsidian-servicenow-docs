@@ -14,7 +14,7 @@ breadcrumb: [Activate Planned Maintenance, Planned Maintenance, Service Manageme
 
 # Installed with SM Planned Maintenance
 
-The SM [[c_SMPlanMaint|Planned Maintenance]] core plugin also includes demo data.
+The SM Planned Maintenance core plugin also includes demo data.
 
 ## Tables installed with SM Planned Maintenance
 
@@ -40,7 +40,7 @@ Schedule Template\[sm\_m2m\_schedule\_template\]
 
 </td><td>
 
-Relates a maintenance schedule to [[c_ServiceManagement|service management]] templates.
+Relates a maintenance schedule to service management templates.
 
 </td></tr><tr><td>
 
@@ -266,7 +266,3 @@ Updates the business rule for applying a plan to new records whenever the **Appl
 
 **Parent Topic:**[Activate Planned Maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/t_ActivatePlanMaint.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]
-- [[c_ServiceManagement|Service Management]]

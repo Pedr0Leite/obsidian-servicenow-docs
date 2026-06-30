@@ -14,10 +14,10 @@ breadcrumb: [Cloud Services Catalog Terraform Connector, Support for continuous 
 
 # Cloud Services Catalog Terraform Connector reference
 
-Reference topics provide additional information about the [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]] application.
+Reference topics provide additional information about the Cloud Services Catalog Terraform Connector application.
 
 -   **[Cloud Services Catalog Terraform Connector Create Config Provider form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-config-provider-form.md)**  
-[[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] uses the config provider to interact with the Terraform deployment.
+Cloud Provisioning and Governance uses the config provider to interact with the Terraform deployment.
 -   **[Cloud Services Catalog Terraform Connector SSH Private Key Credentials form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/ccg-terraform-connector-ssh-private-key-credential-form.md)**  
 Cloud Services Catalog Terraform Connector uses the SSH private key credential to connect with the Linux server on which Terraform Open Source is running.
 -   **[Cloud Services Catalog Terraform Connector Windows Credentials form reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/ccg-terraform-connector-windows-credentials-form.md)**  
@@ -29,7 +29,3 @@ Use the Terraform Catalog Item Task form to specify the action you want to take 
 
 **Parent Topic:**[Cloud Services Catalog Terraform Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cpg-terraform-connector-landing-page.md)
 
-## Related
-
-- [[cpg-terraform-connector-landing-page|Cloud Services Catalog Terraform Connector]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

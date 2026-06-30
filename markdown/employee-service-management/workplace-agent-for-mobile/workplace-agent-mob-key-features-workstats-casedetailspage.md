@@ -14,11 +14,11 @@ breadcrumb: [Reference, Workplace Agent for mobile, Workplace Service Delivery, 
 
 # Workplace Agent for mobile - Key features, actions, and case details
 
-The [[workplace-agent-mobile-feat|Workplace Agent for mobile]] lets you manage your workplace cases, maintenance cases, move cases and, tasks associated with them on the go using your mobile device.
+The Workplace Agent for mobile lets you manage your workplace cases, maintenance cases, move cases and, tasks associated with them on the go using your mobile device.
 
 ## Workplace Agent for mobile - Capabilities
 
-The Workplace Agent for mobile is designed for a workplace agent to handle any cases raised from the [[workplace-service-delivery-apps|Workplace Service Delivery applications]] at any time. The application mainly intends to save time by letting you view or work on a case from anywhere using just a mobile device. As an agent, you can view, edit, update, and resolve a case based on the progress.
+The Workplace Agent for mobile is designed for a workplace agent to handle any cases raised from the Workplace Service Delivery applications at any time. The application mainly intends to save time by letting you view or work on a case from anywhere using just a mobile device. As an agent, you can view, edit, update, and resolve a case based on the progress.
 
 When you log in to the application as an agent, the application displays all the workplace cases that are associated with you. You can get details such as the number of cases that are assigned to you, the details of the cases that are assigned to you, the cases that are assigned to your assignment group, and also the unassigned cases that belong to the agent assignment group.
 
@@ -34,7 +34,7 @@ The launch screen of the Workplace Agent for mobile application enables you to s
 -   **Articles**: The **Articles** tab displays the knowledge base articles created by your organization. The search option uses AI and is used to search for the articles within the workplace service.
 -   **Notifications**: The **Notifications** tab displays notifications of the cases that have breached SLAs and more.
 -   **Saved**: The **Saved** tab displays any cases or tasks that you have saved for a quick view or for any other reason.
--   **Settings**: The **Settings** page enables you to make settings related to your profile and more. You can also switch to an [[offline-mode|offline mode]]. When you work on an offline mode, you can perform any action without an internet connection. Once you turn on to the online mode, the changes are all synchronized automatically. If there are any conflicts, you can resolve them in your outbox.
+-   **Settings**: The **Settings** page enables you to make settings related to your profile and more. You can also switch to an offline mode. When you work on an offline mode, you can perform any action without an internet connection. Once you turn on to the online mode, the changes are all synchronized automatically. If there are any conflicts, you can resolve them in your outbox.
 
 ## Workplace Agent for mobile - Work view
 
@@ -53,7 +53,7 @@ The **Work view** is the default page that is displayed when you launch the appl
     -   **All**: Displays all the open cases, tasks and reports.
     You can select a report card to get more details of the cases/tasks. You can view details such as the type of workplace case, the priority of the case, the case number, the current state of the case, the assignment group associated with the case, the employee for whom the case was requested and the location for which the workplace case is requested along with the location pin to view it on the floor map. You can also select the case details card for further details such as the child cases, child tasks associated with the case and to edit or perform any action. For more information about the case details and actions that you can perform on a case/task, scroll down to the **Workplace case details - Overview and actions** topic below.
 
-    The **Work view** page displays a section of [[emp-center-quick-link-config|quick links]] for performing actions.
+    The **Work view** page displays a section of quick links for performing actions.
 
     -   **Create a task**: Agents can create a task without connecting to any parent cases.
     -   **My schedule**: Displays only those cases and tasks which have expected start and due date available in a calendar view. You can also create a task from the My schedule page associating with a parent case.
@@ -118,7 +118,7 @@ The default view of the case details provides the following options:
 
         Displays the variables entered on the form when the case was requested by the requester.
 
-    -   **[[activity-lxp|Activity]]**
+    -   **Activity**
 
         Displays the various activities performed on the workplace case since its creation.
 
@@ -188,7 +188,7 @@ Select the action menu \(\[Omitted image "actions.png"\] Alt text: Action menu i
 
 -   **Create task**
 
-    The option enables you to [[create-a-child-task-agentmobile|create a child task]] and a parent case is already associated.
+    The option enables you to create a child task and a parent case is already associated.
 
 -   **Attach knowledge**
 
@@ -269,11 +269,3 @@ For more actions, select the action menu \[Omitted image "wsdagentmob-actions.pn
 
 **Parent Topic:**[Workplace Agent for mobile - references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-agent-for-mobile/workplace-agent-mobile-references.md)
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]
-- [[workplace-service-delivery-apps|Workplace Service Delivery applications]]
-- [[offline-mode|Offline mode]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[activity-lxp|Activity]]
-- [[create-a-child-task-agentmobile|Create a child task]]

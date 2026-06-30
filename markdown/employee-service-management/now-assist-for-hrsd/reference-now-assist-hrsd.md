@@ -14,7 +14,7 @@ breadcrumb: [Now Assist for HR Service Delivery \(HRSD\), HR Service Delivery, E
 
 # Reference for Now Assist for HR Service Delivery \(HRSD\)
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about user roles, tables, and default configurations in [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]].
+Reference topics provide additional information about user roles, tables, and default configurations in Now Assist for HR Service Delivery \(HRSD\).
 
 -   **[Sensitivity detection filters mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/reference-sd-info-values.md)**  
 The `sys_gen_ai_filter` table includes eight out-of-the-box filters that determines which topics are regarded as sensitive. Each filter is mapped to an HR service that is used to create a case and a chat queue.
@@ -25,7 +25,3 @@ Information about the roles, tables, and scheduled jobs that are installed with 
 
 **Parent Topic:**[Now Assist for HR Service Delivery \(HRSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-hrsd/now-assist-hrsd.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]

@@ -18,7 +18,7 @@ The ServiceNow® Release Management v2 application encompasses the planning, des
 
 The Release Management v2 application handles releases using the task record system. Each planned feature is generated through various means as a task record, populated with the pertinent information in individual fields. These tasks can be assigned to appropriate release management team members, who deal with the tasks as appropriate until the release has been properly deployed.
 
-Release Management can be effectively used to coordinate releases as a vehicle for planning releases, composed of individual work items such as, projects, epics, stories, and problems. After the release scope \(projects, stories, and so on\) is finalized, you can generate Change Items and associate them to the release, allowing the implementation and deployment of a release to be handled within the [[c_ITILChangeManagement|change management]] process.
+Release Management can be effectively used to coordinate releases as a vehicle for planning releases, composed of individual work items such as, projects, epics, stories, and problems. After the release scope \(projects, stories, and so on\) is finalized, you can generate Change Items and associate them to the release, allowing the implementation and deployment of a release to be handled within the change management process.
 
 -   **[Activate Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/t_ActivateReleaseManagement.md)**  
 Activate the Release Management plugin \(com.snc.release\_management\_v2\) with the admin role.
@@ -33,9 +33,5 @@ The Release Management v2 plugin \(com.snc.release\_management\_v2\) provides re
 -   **[Software control distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_SoftwareControlDistribution.md)**  
 The application enables the Release Management team to control the distribution of software by creating a Definitive Media Library \(DML\) stored in the CMDB.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[c_ITILChangeManagement|Change Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Quizzes, Quizzes, Assessments and Surveys, Exploring Service 
 
 # Add a metric category and metric in the question bank for quizzes
 
-Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for [[c_Quizzes|quizzes]]. You can add metric categories or metrics from the question bank to a quiz, or from the quiz to a question bank.
+Reuse the question categories \(metric categories\) and questions \(metrics\) added in the question bank for quizzes. You can add metric categories or metrics from the question bank to a quiz, or from the quiz to a question bank.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin or assessment\_admin
 
 2.  Click **New**.
 
-3.  In the [[metric-category-form|Metric Category form]], fill the fields.
+3.  In the Metric Category form, fill the fields.
 
     |Field|Description|
     |-----|-----------|
@@ -34,23 +34,15 @@ Role required: admin or assessment\_admin
 
 4.  Right-click on the title bar and click **Save**.
 
-5.  In the [[c_AssessmentMetrics|Assessment Metrics]] related list, click **New**.
+5.  In the Assessment Metrics related list, click **New**.
 
-6.  In the [[assessment-metric-form|Assessment Metric form]], fill the fields.
+6.  In the Assessment Metric form, fill the fields.
 
 7.  Click **Submit**.
 
 
--   **[[configure-questionbank-quiz|Configure metric categories or metrics for a quiz using the question bank]]**  
+-   **[Configure metric categories or metrics for a quiz using the question bank](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configure-questionbank-quiz.md)**  
 Reuse question categories \(metric categories\) and questions \(metrics\) from the **Question Bank** module while creating or updating a quiz.
 
-**Parent Topic:**[[using-quizzes|Using Quizzes]]
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)
 
-## Related
-
-- [[configure-questionbank-quiz|Configure metric categories or metrics for a quiz using the question bank]]
-- [[using-quizzes|Using Quizzes]]
-- [[c_Quizzes|Quizzes]]
-- [[metric-category-form|Metric Category form]]
-- [[c_AssessmentMetrics|Assessment metrics]]
-- [[assessment-metric-form|Assessment Metric form]]

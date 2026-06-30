@@ -64,7 +64,7 @@ Calendar type that is used for setting goals. The available calendar types are G
 
 </td></tr><tr><td>
 
-Disable [[target-breakdowns-gf|target breakdowns]] at the instance level.
+Disable target breakdowns at the instance level.
 
 </td><td>
 
@@ -73,6 +73,3 @@ Can disable the target breakdowns feature. When the feature is enabled, target b
 </td></tr></tbody>
 </table>**Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 
-## Related
-
-- [[target-breakdowns-gf|Target breakdowns]]

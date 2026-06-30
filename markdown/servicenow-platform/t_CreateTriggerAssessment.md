@@ -20,30 +20,22 @@ Role required: assessment\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_Assessments|Assessments]]** &gt; **Admin** &gt; **Trigger Conditions**.
+1.  Navigate to **All** &gt; **Assessments** &gt; **Admin** &gt; **Trigger Conditions**.
 
 2.  On the Trigger Condition form, fill in the fields.
 
-    For a description of the field values, see [[trigger-condition-form-for-assessment|Trigger Condition form for assessments]].
+    For a description of the field values, see [Trigger Condition form for assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/trigger-condition-form-for-assessment.md).
 
 
--   **[[r_AssessmentTriggerConditions|Assessment trigger conditions]]**  
+-   **[Assessment trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_AssessmentTriggerConditions.md)**  
 A trigger condition tells the system who to send a designated assessment to and when, based on specific conditions.
 
-**Parent Topic:**[[c_AssessmentProcess|Assessment administrator tasks]]
+**Parent Topic:**[Assessment administrator tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_AssessmentProcess.md)
 
 **Related topics**  
 
 
-[[c_TriggerConditions|Survey trigger conditions]]
+[Survey trigger conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_TriggerConditions.md)
 
-[[c_assessable-records|Assessable records]]
+[Assessable records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_assessable-records.md)
 
-## Related
-
-- [[trigger-condition-form-for-assessment|Trigger Condition form for assessments]]
-- [[r_AssessmentTriggerConditions|Assessment trigger conditions]]
-- [[c_AssessmentProcess|Assessment administrator tasks]]
-- [[c_TriggerConditions|Survey trigger conditions]]
-- [[c_assessable-records|Assessable records]]
-- [[r_Assessments|Assessments]]

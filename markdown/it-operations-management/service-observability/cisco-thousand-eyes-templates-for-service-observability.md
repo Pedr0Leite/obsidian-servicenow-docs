@@ -14,7 +14,7 @@ breadcrumb: [Service Observability templates, Service Observability reference, S
 
 # Cisco ThousandEyes templates for Service Observability
 
-Templates used to create Cisco ThousandEyes synthetics dashboard in [[service-observability|Service Observability]]. You can edit this template as needed.
+Templates used to create Cisco ThousandEyes synthetics dashboard in Service Observability. You can edit this template as needed.
 
 See [Customize Service Observability dashboard templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/customize-service-observability-dashboard-templates.md) for more information.
 
@@ -23,6 +23,3 @@ Dashboard and charts on the Cisco ThousandEyes Observability tab of the Service 
 
 **Parent Topic:**[Service Observability templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/observability-templates.md)
 
-## Related
-
-- [[service-observability|Service Observability]]

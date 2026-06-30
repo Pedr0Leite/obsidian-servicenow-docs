@@ -16,11 +16,11 @@ breadcrumb: [Indicator breakdowns, Configure fundamentals, Performance Analytics
 
 Breakdown relations open a new navigation path for viewing breakdown scores, by moving from one breakdown element to another element of the same breakdown. The elements should be in an hierarchical relationship.
 
-**Important:** [[c_performanceAnalyticsAndReporting|Platform Analytics]] features other than indicator scorecardsdo not support breakdown relations.
+**Important:** Platform Analytics features other than indicator scorecardsdo not support breakdown relations.
 
-You can use breakdown relations to navigate between the elements of a single breakdown that are in a hierarchical relationship. For example, the Location breakdown has a hierarchy of 'parent' and 'child' elements, where a country can be the parent of cities. Breakdown relations let an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] viewer navigate from a country down into a city, from a city to the country, or between cities in the same country.
+You can use breakdown relations to navigate between the elements of a single breakdown that are in a hierarchical relationship. For example, the Location breakdown has a hierarchy of 'parent' and 'child' elements, where a country can be the parent of cities. Breakdown relations let an Analytics Hub viewer navigate from a country down into a city, from a city to the country, or between cities in the same country.
 
-In Platform Analytics, breakdown relations can be applied only on indicator scorecards. The latest version of the Data Visualizations application from the ServiceNow® Store is required. In the Core UI, breakdown relations affect navigation on the Analytics Hub and in [[breakdown-widgets|breakdown widgets]].
+In Platform Analytics, breakdown relations can be applied only on indicator scorecards. The latest version of the Data Visualizations application from the ServiceNow® Store is required. In the Core UI, breakdown relations affect navigation on the Analytics Hub and in breakdown widgets.
 
 ## Breakdown relations on Next Experience dashboards
 
@@ -50,16 +50,9 @@ To set up navigation in a visualization between the elements of two breakdowns a
 **Related topics**  
 
 
-[[create-dv-indicator-scorecard|Create an Indicator Scorecard]]
+[Create an Indicator Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-indicator-scorecard.md)
 
-[[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
+[Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md)
 
 [Breakdown widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/breakdown-widgets.md)
 
-## Related
-
-- [[create-dv-indicator-scorecard|Create an Indicator Scorecard]]
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[breakdown-widgets|Breakdown widgets]]

@@ -14,11 +14,11 @@ breadcrumb: [Use generative AI skills, Now Assist for Security Incident Response
 
 # Exploring correlation insights with Now Assist for Security Incident Response
 
-You can generate correlation insights to help you avoid duplicating your investigation into affected users, configuration items, and [[c_Observables|observables]] and help you resolve the security incident that you are working on more quickly. You select the criteria from a security incident that you want to base the correlation insights on.
+You can generate correlation insights to help you avoid duplicating your investigation into affected users, configuration items, and observables and help you resolve the security incident that you are working on more quickly. You select the criteria from a security incident that you want to base the correlation insights on.
 
 ## Generating correlation insights from the Security Incident Response Workspace
 
-Starting with v3.0.0 of [[now-assist-security-incident-landing|Now Assist for Security Incident Response]], generate and view correlation insights and view the results in the [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Starting with v3.0.0 of Now Assist for Security Incident Response, generate and view correlation insights and view the results in the Security Incident Response Workspace.
 
 -   Previously, if you selected a configuration item \(CI\) or affected user to base your insights on, the lookup returned the primary affected user or primary CI associated with a security incident. Starting with v3.0.0 the agent asks you which CI or Affected user you would you like to correlate the security incident with from the related lists.
 -   You can generate correlation insights from the **Investigation** tab for a security incident in any state in the Security Incident Response Workspace.
@@ -48,13 +48,7 @@ If you do not see the Now Assist panel, you must activate it. For more informati
     -   Problem \[problem\] table.
     -   Vulnerable item \[sn\_vul\_vulnerable\_item\] table.
     -   Associate observable \[sn\_ti\_observable\] table.
--   Your results for correlation insights are based on the tables that you have access to. For example, if you want to view vulnerable items \(VIT\)s in your correlation insights results, you must have the [[vuln-landing-page|Vulnerability Response]] application installed and the read access role \(sn\_vul.read\_all\).
+-   Your results for correlation insights are based on the tables that you have access to. For example, if you want to view vulnerable items \(VIT\)s in your correlation insights results, you must have the Vulnerability Response application installed and the read access role \(sn\_vul.read\_all\).
 
 For the steps to generate correlation insights, see [Generate correlation insights from the Security Incident Response Workspace with Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/generate-correlation-insights-now-assist-sir-entry-points.md) and [Generate correlation insights in the Now Assist panel with Now Assist for Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/now-assist-for-security-incident-response-sir/generate-correlation-insights-now-assist-for-security.md).
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[now-assist-security-incident-landing|Now Assist for Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]

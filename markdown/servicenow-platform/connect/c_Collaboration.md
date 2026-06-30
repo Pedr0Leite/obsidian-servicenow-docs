@@ -26,18 +26,14 @@ Features include:
 
 -   Direct conversations between two users.
 -   Group conversations between three or more users.
--   Conversations linked to records. Comments and [[c_WorkNotes|work notes]] appear in conversations in real time and users can update the record directly from the conversation.
+-   Conversations linked to records. Comments and work notes appear in conversations in real time and users can update the record directly from the conversation.
 -   Drag-and-drop sharing of links, files, and records.
 
 Core UI is required to use Connect Chat.
 
 This video demonstrates how to use Connect Chat.
 
-This video demonstrates how to use [[c_ConnectSupport|Connect Support]].
+This video demonstrates how to use Connect Support.
 
 **Note:** Connect Chat does not replace legacy chat but offers some of the same functionality. The features should not be used concurrently.
 
-## Related
-
-- [[c_WorkNotes|Work notes]]
-- [[c_ConnectSupport|Connect Support]]

@@ -47,8 +47,5 @@ Role required: admin
     The server response times for that particular interaction are displayed.
 
 
-**Parent Topic:**[[measuring-performance-next-experience|Instance performance in Next Experience]]
+**Parent Topic:**[Instance performance in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/measuring-performance-next-experience.md)
 
-## Related
-
-- [[measuring-performance-next-experience|Instance performance in Next Experience]]

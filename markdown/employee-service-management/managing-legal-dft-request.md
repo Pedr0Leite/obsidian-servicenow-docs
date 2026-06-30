@@ -14,25 +14,16 @@ breadcrumb: [Legal Digital Forensics, Legal Service Delivery Practice Applicatio
 
 As a member of the legal department, work on the digital forensics requests for data discovery related to custodial and non-custodial data sources that are subject to investigations or litigation.
 
-Use the [[legal-counsel-center-landing|Legal Counsel Center]] to manage digital forensics requests.
+Use the Legal Counsel Center to manage digital forensics requests.
 
--   **[[work-on-legal-dft-request|Work on a digital forensic request]]**  
-As a member of the digital forensic team, you [[work-on-legal-request|work on a legal request]] to investigate and resolve the request.
--   **[[approve-reject-dft-request|Approve or reject the processing of custodial and non-custodial data]]**  
+-   **[Work on a digital forensic request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/work-on-legal-dft-request.md)**  
+As a member of the digital forensic team, you work on a legal request to investigate and resolve the request.
+-   **[Approve or reject the processing of custodial and non-custodial data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/approve-reject-dft-request.md)**  
 Review and approve or reject the processing of a custodial or non-custodial record of a digital forensic request.
--   **[[work-on-dft-legal-matter|Work on a digital forensic legal matter]]**  
+-   **[Work on a digital forensic legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/work-on-dft-legal-matter.md)**  
 Work on a digital forensic legal matter assigned to you to get the requested actions for the custodial and non-custodial data done to resolve the request.
--   **[[work-on-dft-matter-task|Work on a task for a digital forensic legal matter]]**  
+-   **[Work on a task for a digital forensic legal matter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/work-on-dft-matter-task.md)**  
 Follow the instructions and complete the to-do items in the checklist of a legal matter task assigned to you.
 
-**Parent Topic:**[[legal-digital-forensics-landing-page|Legal Digital Forensics]]
+**Parent Topic:**[Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-digital-forensics-landing-page.md)
 
-## Related
-
-- [[work-on-legal-dft-request|Work on a digital forensic request]]
-- [[approve-reject-dft-request|Approve or reject the processing of custodial and non-custodial data]]
-- [[work-on-dft-legal-matter|Work on a digital forensic legal matter]]
-- [[work-on-dft-matter-task|Work on a task for a digital forensic legal matter]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[work-on-legal-request|Work on a legal request]]

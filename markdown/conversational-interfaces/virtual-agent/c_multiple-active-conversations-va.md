@@ -14,13 +14,13 @@ breadcrumb: [Configure, Virtual Agent, Conversational Interfaces]
 
 # Using multiple active conversations in Virtual Agent
 
-[[virtual-agent-landing-page|Virtual Agent]] features the ability to have multiple conversations at the same time, separated and directed by chosen context.
+Virtual Agent features the ability to have multiple conversations at the same time, separated and directed by chosen context.
 
 ## Overview of Multiple active conversations for Virtual Agent
 
 Virtual Agent messages commonly follow one conversation with a shared history that persists on all VA clients, and thus all portals. For example, if you’re conversing with Virtual Agent in a Service Portal \(SP\) portal context, the same conversation is shown in an Employee Service Center \(ESC\) portal. The multiple active conversations feature expands the reach of Virtual Agent by eliminating the one-conversation limit. By configuring their Virtual Agent conversations based on context, customers can choose to share or restrict any or all content between concurrent conversations on differing portals.
 
-Each Virtual Agent conversation is fully independent, with no overlap between chats. For example, a conversation in SP will be entirely different from ESC. Each conversation also has its own transcript. You must set up context values for Natural Language Understanding \(NLU\) chats, while Large Language Model \(LLM\) chats are automatically configured for multiple active conversations based on each portal. An administrator can activate an LLM assistant for each portal by using guided setup configurations. \(For more information on [[configure-virtual-agent|configuring Virtual Agent]] conversations, see [[ci-guided-setup|Conversational Interfaces Guided Setup]].\)
+Each Virtual Agent conversation is fully independent, with no overlap between chats. For example, a conversation in SP will be entirely different from ESC. Each conversation also has its own transcript. You must set up context values for Natural Language Understanding \(NLU\) chats, while Large Language Model \(LLM\) chats are automatically configured for multiple active conversations based on each portal. An administrator can activate an LLM assistant for each portal by using guided setup configurations. \(For more information on configuring Virtual Agent conversations, see [Conversational Interfaces Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-guided-setup.md).\)
 
 ## Benefits of multiple active conversations
 
@@ -28,7 +28,7 @@ Previously, if a user was engaged in a conversation with a virtual agent, the ch
 
 To exclude conversation history between portals, use the following procedure:
 
-1.  Navigate to **All** &gt; **Service Portal** &gt; **[[ci-use-agent-chat|Agent Chat]]**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Agent Chat**.
 2.  Select the Agent Chat Configuration for which you want to set the context value.
 3.  In the Server Script window, add the line `skip_load_history: true` to load conversations without the conversation history.
 
@@ -53,9 +53,3 @@ Send notifications and other Virtual Agent messages through as many portals as d
 
 **Parent Topic:**[Configuring Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-virtual-agent.md)
 
-## Related
-
-- [[ci-guided-setup|Conversational Interfaces Guided Setup]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[configure-virtual-agent|Configuring Virtual Agent]]
-- [[ci-use-agent-chat|Agent Chat]]

@@ -15,7 +15,7 @@ breadcrumb: [Reference, Now Assist in Document Intelligence, Enable AI experienc
 
 # Document Intelligence tool for Now Assist Skill Kit
 
-Use the [[document-intelligence-landing|Document Intelligence]] tool to leverage extraction, question answering, and summarization capabilities for a skill created with [[now-assist-skill-kit-landing|Now Assist Skill Kit]].
+Use the Document Intelligence tool to leverage extraction, question answering, and summarization capabilities for a skill created with Now Assist Skill Kit.
 
 ## Document Intelligence tool overview
 
@@ -39,14 +39,14 @@ The Document Intelligence tool provides the following capabilities for a custom 
 
     Pull structured data and insights from file content.
 
-    Extract values from the files based on the fields, tables, and questions defined in a [[docintel-nowassist-landing|Now Assist in Document Intelligence]] use case. Use an existing use case or create a new one that meets the needs of your custom skill.
+    Extract values from the files based on the fields, tables, and questions defined in a Now Assist in Document Intelligence use case. Use an existing use case or create a new one that meets the needs of your custom skill.
 
 -   **Summarize files**
 
     Generate a concise summary the key topics of the file content.
 
 
-For more information on creating custom [[platform-now-assist-landing|Now Assist]] [[ai-prompts|prompts]] and skills, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md).
+For more information on creating custom Now Assist prompts and skills, see [Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/now-assist-skill-kit-landing.md).
 
 **Parent Topic:**[Now Assist in Document Intelligence reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/now-assist-in-document-intelligence-reference.md)
 
@@ -69,10 +69,3 @@ For more information on creating custom [[platform-now-assist-landing|Now Assist
 
 [Languages supported by Now Assist in Document Intelligence]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-prompts|Prompts]]

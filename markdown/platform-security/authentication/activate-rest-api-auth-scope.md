@@ -14,13 +14,13 @@ breadcrumb: [REST API Auth Scope, REST API access policies, API access policy, A
 
 # Activate REST API Auth Scope
 
-You can activate the [[rest-api-auth-scope|REST API Auth Scope]] plugin \(com.glide.rest.auth.scope\) to link the [[oauth-inbound-and-outbound|OAuth]] entity with [[c_Authentication|authentication]] scopes.
+You can activate the REST API Auth Scope plugin \(com.glide.rest.auth.scope\) to link the OAuth entity with authentication scopes.
 
 ## Before you begin
 
 Install the following plugins:
 
--   [[c_OAuthApplications|OAuth 2.0]]
+-   OAuth 2.0
 -   REST API Provider
 -   Authentication scope
 -   REST API Scope
@@ -33,9 +33,9 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the REST API auth Scope \(com.glide.rest.auth.scope\) plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the REST API auth Scope \(com.glide.rest.auth.scope\) plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -43,11 +43,4 @@ Role required: api\_service\_admin, adaptive\_auth\_policy\_admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[rest-api-auth-scope|REST API Auth Scope]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

@@ -14,7 +14,7 @@ breadcrumb: [Connect Support, Connect, ServiceNow AI Platform Additional Capabil
 
 # Transfer a Connect Support conversation to a different agent or queue
 
-You can transfer a [[c_ConnectSupport|Connect Support]] conversation to a different agent in the queue or to a different queue.
+You can transfer a Connect Support conversation to a different agent in the queue or to a different queue.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: none
 
 1.  Open a Connect Support conversation.
 
-2.  At the bottom of the conversation, click the menu icon \(\[Omitted image "IconMenu.png"\] Alt text: Menu icon\) to open the [[c_Connect|Connect]] actions menu.
+2.  At the bottom of the conversation, click the menu icon \(\[Omitted image "IconMenu.png"\] Alt text: Menu icon\) to open the Connect actions menu.
 
 3.  In the Connect actions menu, select **Transfer**.
 
@@ -63,8 +63,3 @@ Click **Transfer** by a queue.The system automatically removes you from the conv
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]

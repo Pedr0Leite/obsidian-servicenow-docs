@@ -22,7 +22,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[cmdb-query-builder-landing-page|CMDB Query Builder]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CMDB Query Builder**.
 
 2.  Select **Create new** and then enter `Application services with incidents or change requests` as the query name.
 
@@ -38,9 +38,9 @@ Role required: none
 
 7.  Locate the **Change Requests** class in the class hierarchy, and then drag it to the canvas.
 
-8.  [[c_Connect|Connect]] the Application Service and the Incidents nodes, and then, in the Properties right-side bar.
+8.  Connect the Application Service and the Incidents nodes, and then, in the Properties right-side bar.
 
-    1.  Select **Apply Incidents [[reference|reference]] filter to all nodes in the pattern**.
+    1.  Select **Apply Incidents reference filter to all nodes in the pattern**.
 
     2.  Set **Use CI reference column** to **Configuration item**.
 
@@ -56,8 +56,4 @@ Role required: none
 
 12. Select **Run** and then review the results.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]
-- [[reference|Reference]]

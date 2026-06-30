@@ -15,7 +15,7 @@ breadcrumb: [AI Search Admin console reference, AI Search Admin console, Search 
 
 # Edit view config form
 
-The Edit view config form contains information about EVAM view [[clone-configurations-tab|configurations]] defined for [[defining-search-app-cfgs-ais|search application configurations]] in [[ia-ai-search|AI Search]]. Use this form when creating or modifying a view configuration.
+The Edit view config form contains information about EVAM view configurations defined for search application configurations in AI Search. Use this form when creating or modifying a view configuration.
 
 For details on creating or modifying a view configuration, see [Create or edit an EVAM view definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/ais-admin-console-evam-configurations.md).
 
@@ -69,7 +69,7 @@ Dynamically generated value based on a specific columns from the selected table.
 
 -   **Custom Field**
 
-Specific information that is returned as part of the search [[hs-results|results]]. By default, there are four custom fields available:
+Specific information that is returned as part of the search results. By default, there are four custom fields available:
 
     -   ai\_search\_teaser\_title
     -   ai\_search\_teaser\_text
@@ -138,9 +138,3 @@ The font size for the text in an EVAM view result card to control the visual app
 |Open in new tab|An option to display and enable the Open in New Tab icon on the EVAM view result card.|
 |Is global|Indicates whether the view configuration is for a portal.|
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ia-ai-search|AI Search]]
-- [[hs-results|Results]]

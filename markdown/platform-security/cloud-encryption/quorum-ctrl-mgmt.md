@@ -14,13 +14,13 @@ breadcrumb: [Quorum Control Policy, Cloud Encryption with Key Management, Encryp
 
 # Manage Quorum Control
 
-After a withdrawal operation workflow is triggered, quorum actions can be managed from the [[key-mgmt-operations-ce|Key Management Operations]] page. The key withdrawal operation is blocked until the quorum is met.
+After a withdrawal operation workflow is triggered, quorum actions can be managed from the Key Management Operations page. The key withdrawal operation is blocked until the quorum is met.
 
 ## Before you begin
 
 Role required: sn\_kmf.admin or sn\_kmf.cryptographic\_manager
 
-When the quorum has been either approved or rejected, the requestor of the key withdrawal will receive an [[email|email]] notating if quorum was achieved or denied.
+When the quorum has been either approved or rejected, the requestor of the key withdrawal will receive an email notating if quorum was achieved or denied.
 
 ## Procedure
 
@@ -28,7 +28,7 @@ When the quorum has been either approved or rejected, the requestor of the key w
 
 2.  View the Quorum Control Requests and Quorum Control Approvers tabs that activated. \[Omitted image "key-def-table.png"\] Alt text: Shows the quorum control tabs.
 
-3.  Open the **Quorum Control Requests** tab to view the actual [[c_requestAPI|request]] that is created.
+3.  Open the **Quorum Control Requests** tab to view the actual request that is created.
 
     -   State:
         -   Open: The key withdrawal action is pending the quorum being met.
@@ -43,7 +43,7 @@ When the quorum has been either approved or rejected, the requestor of the key w
 
     -   Requested: The approver has not yet taken action on the approval request.
     -   Approved: The request has been approved either from the email or the approvals page.
-5.  Select the **[[key-mgmt-transactions-ce|Key Management Transactions]]** tab to view the progress of the request step for the key withdrawal.
+5.  Select the **Key Management Transactions** tab to view the progress of the request step for the key withdrawal.
 
     -   Step 0 - Quorum Request: The actual quorum request. The quorum request must be completed in order to trigger the key withdrawal steps.
     -   Step 1 - Key Withdrawal: The key withdrawal step. This is composed of steps two through seven.
@@ -55,17 +55,9 @@ When the quorum has been either approved or rejected, the requestor of the key w
     -   Step 7 - post\_withdraw: Makes a call to shut down the instance.
 
 -   **[Approve or deny a quorum control request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-transactions-approval.md)**  
-[[quorum-transactions-approval|Approve or deny a quorum control request]] from Key Management Transactions.
+Approve or deny a quorum control request from Key Management Transactions.
 -   **[Approve or deny a quorum request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/perform-quorum-action.md)**  
-When a quorum request has been created, the minimum number of approvals is required by the members. After a withdrawal operation workflow is triggered, quorum actions can be managed using several methods. The [[users|users]] can grant approvals from the Key Management Operations page, **My Approvals** in the Instance, or directly from the request email. The key withdrawal operation is blocked until the quorum is met.
+When a quorum request has been created, the minimum number of approvals is required by the members. After a withdrawal operation workflow is triggered, quorum actions can be managed using several methods. The users can grant approvals from the Key Management Operations page, **My Approvals** in the Instance, or directly from the request email. The key withdrawal operation is blocked until the quorum is met.
 
 **Parent Topic:**[Quorum Control Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/quorum-ctrl-policy.md)
 
-## Related
-
-- [[key-mgmt-operations-ce|Key management operations]]
-- [[email|Email]]
-- [[c_requestAPI|request]]
-- [[key-mgmt-transactions-ce|Key management transactions]]
-- [[quorum-transactions-approval|Approve or deny a quorum control request]]
-- [[users|Users]]

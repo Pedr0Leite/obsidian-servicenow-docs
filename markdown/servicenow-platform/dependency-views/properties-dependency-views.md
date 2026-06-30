@@ -14,7 +14,7 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Properties for Dependency Views
 
-[[p_UseNGBSM|Use Dependency Views]] properties to configure how data appears in [[c_BusinesssServiceManagementMaps|Dependency Views]] maps.
+Use Dependency Views properties to configure how data appears in Dependency Views maps.
 
 These properties are available for Dependency Views. To view and edit these properties, the sn\_cmdb\_admin or admin role is required.
 
@@ -57,7 +57,7 @@ Level depth is the graph distance between the root CI and a node.
 
 </td></tr><tr><td>
 
-Display the continuation of the map underneath virtual group. Virtual links are used to [[c_Connect|connect]] virtual groups to their child nodes.
+Display the continuation of the map underneath virtual group. Virtual links are used to connect virtual groups to their child nodes.
 
  glide.bsm.show\_virtual\_node\_children
 
@@ -200,7 +200,7 @@ Truncate node labels to a single line and to fit available space \(default\). Di
 
 </td><td>
 
-If **glide.ngbsm.show\_class\_labels** is enabled, then the class [[label|label]] always displays on top of the CI label, and wrapping applies to both the class and the CI labels.
+If **glide.ngbsm.show\_class\_labels** is enabled, then the class label always displays on top of the CI label, and wrapping applies to both the class and the CI labels.
 
  -   Type: Yes \| No
 -   Default value: No
@@ -264,10 +264,3 @@ The distance is measured in pixels between one node's center to another node's c
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[p_UseNGBSM|Use Dependency Views]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_Connect|Connect]]
-- [[label|Label]]

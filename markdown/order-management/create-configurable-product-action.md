@@ -17,7 +17,7 @@ Create a configurable product action to link a child blueprint to a parent bluep
 
 ## Before you begin
 
--   Solution configuration is enabled in your environment. For more information, see [[enable-solution-configuration|Enable solution configuration]].
+-   Solution configuration is enabled in your environment. For more information, see [Enable solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/enable-solution-configuration.md).
 -   The parent blueprint and child blueprint are created and deployed.
 -   The configurable product associated with the child blueprint exists and has the correct blueprint assigned to it.
 
@@ -33,7 +33,7 @@ A configurable product action is a type of product action that, when its conditi
 
 1.  Open the parent blueprint in the admin.
 
-2.  Navigate to the [[rules_101|Rules]] section and open the rule where you want to add the configurable product action.
+2.  Navigate to the Rules section and open the rule where you want to add the configurable product action.
 
 3.  Add a product action and set the action type to **Configurable Product Action**.
 
@@ -41,7 +41,7 @@ A configurable product action is a type of product action that, when its conditi
 
 5.  In the **Blueprint** field, select the child blueprint to use for the child configuration.
 
-    If you are creating an advanced configurable product action, set the **Product ID** and **Blueprint** [[fields|fields]] outside the advanced script.
+    If you are creating an advanced configurable product action, set the **Product ID** and **Blueprint** fields outside the advanced script.
 
 6.  Set the condition for the action.
 
@@ -66,24 +66,15 @@ When the condition is met during a buyer's configuration session, a child config
 
 After creating a configurable product action:
 
--   To pass field values from the parent blueprint to the child, see [[define-field-mappings-sol-config|Define field mappings for a solution configuration]].
--   To test the action, launch the product in the quoting application and verify that the child configuration is created. See [[launch-solution|Launch a solution]].
+-   To pass field values from the parent blueprint to the child, see [Define field mappings for a solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/define-field-mappings-sol-config.md).
+-   To test the action, launch the product in the quoting application and verify that the child configuration is created. See [Launch a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/launch-solution.md).
 
 **Related information**  
 
 
-[[field-mapping-in-solution-configuration|Field mapping in solution configuration]]
+[Field mapping in solution configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/field-mapping-in-solution-configuration.md)
 
 [Solution configuration limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-[[add-configurable-products-solution|Add configurable products to a solution]]
+[Add configurable products to a solution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-configurable-products-solution.md)
 
-## Related
-
-- [[enable-solution-configuration|Enable solution configuration]]
-- [[define-field-mappings-sol-config|Define field mappings for a solution configuration]]
-- [[launch-solution|Launch a solution]]
-- [[field-mapping-in-solution-configuration|Field mapping in solution configuration]]
-- [[add-configurable-products-solution|Add configurable products to a solution]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]

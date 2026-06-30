@@ -34,7 +34,7 @@ gr.insert();
 
 ## About this task
 
-Filters allow users to refine dashboard data by specific fields. This procedure demonstrates how to add a new filter to any base system dashboard such as trending topics dashboard or [[case-sentiment-analysis|sentiment analysis]] dashboard by duplicating and configuring an existing filter carousel item.
+Filters allow users to refine dashboard data by specific fields. This procedure demonstrates how to add a new filter to any base system dashboard such as trending topics dashboard or sentiment analysis dashboard by duplicating and configuring an existing filter carousel item.
 
 ## Procedure
 
@@ -120,6 +120,3 @@ The new filter appears in the dashboard filter carousel and enables users to fil
 
 [Change an insight to use a different field for trending topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/change-insight-to-use-a-different-field.md)
 
-## Related
-
-- [[case-sentiment-analysis|Sentiment Analysis]]

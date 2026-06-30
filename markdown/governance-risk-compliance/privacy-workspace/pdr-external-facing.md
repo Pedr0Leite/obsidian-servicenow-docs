@@ -25,7 +25,7 @@ The PDR external-facing form enables customers, ex-employees, or third-party ind
 
 ## Key benefits
 
--   Enables requesters to submit PDRs directly from the organization's public site. No [[employee-center|Employee Center]] access is required.
+-   Enables requesters to submit PDRs directly from the organization's public site. No Employee Center access is required.
 -   Ensures that the identity of the requester is verified through an email-based verification code before any request is accepted.
 -   Supports region-specific jurisdiction-driven request types and privacy-by-design practices.
 -   Smoothens the intake of PDR requests, triggers acknowledgments with PDR numbers, and hands off to privacy agents for fulfillment.
@@ -43,6 +43,3 @@ Examples:
 
 Administrators can add additional rights beyond these defaults as needed to meet organizational or regulatory requirements.
 
-## Related
-
-- [[employee-center|employee center]]

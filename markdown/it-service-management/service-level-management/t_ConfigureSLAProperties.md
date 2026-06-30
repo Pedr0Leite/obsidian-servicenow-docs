@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Service Level Management** &gt; **Properties**.
 
 2.  Select one of the following:
 
@@ -94,7 +94,7 @@ Run the 2011 SLA engine \(2010, 2011\)
 
 </td><td>
 
-[[t_RunSLABusinessRule|Run the 2011 SLA engine asynchronously]] after task insert or update operations.
+Run the 2011 SLA engine asynchronously after task insert or update operations.
 
  -   Type: true \| false
 -   Default value: false
@@ -118,7 +118,7 @@ Enable compatibility with 2010 'breached' status of SLAs \(default: false\)
 
 </td><td>
 
-The name of the Script Include class that will be used to evaluate [[c_SLAConditions|SLA Conditions]] for the 2011 SLA engine \(use to override with your own extension of the SLAConditionBase class\)
+The name of the Script Include class that will be used to evaluate SLA Conditions for the 2011 SLA engine \(use to override with your own extension of the SLAConditionBase class\)
 
  -   Type: String
 -   Default value: SLAConditionBase
@@ -300,9 +300,3 @@ Enable SLA repair. When enabled the Repair modules and UI Actions will be activa
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[t_RunSLABusinessRule|Run the 2011 SLA engine asynchronously]]
-- [[c_SLAConditions|SLA conditions]]

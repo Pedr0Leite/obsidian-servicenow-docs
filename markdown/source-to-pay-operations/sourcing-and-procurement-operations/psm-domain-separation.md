@@ -14,7 +14,7 @@ breadcrumb: [Reference, Sourcing and Procurement Operations, Finance and Supply 
 
 # Domain separation and Sourcing and Procurement Operations
 
-Domain separation is unsupported for [[psm-overview|Sourcing and Procurement Operations]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is unsupported for Sourcing and Procurement Operations. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: No support
 
@@ -36,7 +36,7 @@ For more information on support levels, see [Application support for domain sepa
 
 [Savings opportunity fields]()
 
-[Purchase requisition, [[purchase-order-table|purchase order]], and [[sourcing-request|sourcing request]] states]()
+[Purchase requisition, purchase order, and sourcing request states]()
 
 [SPO and ITAM data model mappings]()
 
@@ -44,8 +44,3 @@ For more information on support levels, see [Application support for domain sepa
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]

@@ -14,7 +14,7 @@ breadcrumb: [Designing an escalation process, Escalations in On-Call Scheduling,
 
 # Create an escalation policy
 
-An escalation policy includes the policy type that defines the order in which rosters and roster members receive escalation notifications. You can create a custom escalation policy for a shift by overriding [[settings-mobile|settings]] in a default escalation type, for example, by configuring custom delays between escalation steps.
+An escalation policy includes the policy type that defines the order in which rosters and roster members receive escalation notifications. You can create a custom escalation policy for a shift by overriding settings in a default escalation type, for example, by configuring custom delays between escalation steps.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ The escalation type determines the order in which members of a user group are no
 -   If the shift has multiple rosters, the escalation type is automatically set to **Rotate through rosters** and the escalation path goes through all rosters to determine whom to notify.
 -   If the shift has a customized escalation hierarchy, the escalation type is set to **Custom** and the escalation path goes through members as defined in the escalation hierarchy. See [Create an escalation policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-custom-esc-policy-oncall.md) for details.
 
-[[c_OnCallScheduling|On-Call Scheduling]] supports multiple escalation policies per shift; for example, policies based on the priority of the incident or type of task record.
+On-Call Scheduling supports multiple escalation policies per shift; for example, policies based on the priority of the incident or type of task record.
 
 ## Procedure
 
@@ -148,7 +148,7 @@ Users to whom escalation notifications and reminders are sent.
 
 </td></tr><tr><td>
 
-[[dex-workspace-devices-tab|Devices]]
+Devices
 
 </td><td>
 
@@ -194,8 +194,3 @@ Option to select group managers hierarchically to send escalation notifications 
 
 **Parent Topic:**[Designing an escalation process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/designing-escalation-process-oncall.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[dex-workspace-devices-tab|Devices]]

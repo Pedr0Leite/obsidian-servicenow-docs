@@ -13,7 +13,7 @@ breadcrumb: [Using the asset inventory, Use, Now Assist Center, Enable AI experi
 
 # View your AI assets in the asset inventory
 
-Use the asset library to view the [[ai-assets|AI assets]] in your instance.
+Use the asset library to view the AI assets in your instance.
 
 ## Before you begin
 
@@ -21,15 +21,15 @@ Role required: sn\_na\_center.nac\_admin
 
 ## About this task
 
-Follow these steps to view the AI assets on your instance. AI assets include agents, agentic workflows, skills, subflows, actions, virtual assistants, and topics.They also include [[ai-datasets|datasets]], knowledge graphs, and catalog items.
+Follow these steps to view the AI assets on your instance. AI assets include agents, agentic workflows, skills, subflows, actions, virtual assistants, and topics.They also include datasets, knowledge graphs, and catalog items.
 
-For more information, see [[platform-ai-assets-section|Now Assist AI assets]].
+For more information, see [Now Assist AI assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-assets-section.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-2.  Select **Asset inventory** \(\[Omitted image "icon-now-assist-center-nav-assets.png"\] Alt text: Asset inventory icon.\) in the [[now-assist-center-side-navigation-bar|side navigation bar]].
+2.  Select **Asset inventory** \(\[Omitted image "icon-now-assist-center-nav-assets.png"\] Alt text: Asset inventory icon.\) in the side navigation bar.
 
     The Asset inventory tab opens showing tabs for the various asset types.
 
@@ -85,9 +85,9 @@ Skills
 
 </td><td>
 
-Displays a list of all [[now-assist-skills|Now Assist skills]].
+Displays a list of all Now Assist skills.
 
- A [[platform-now-assist-landing|Now Assist]] skill is a capability that uses generative AI to perform tasks such as generating summaries, resolution notes, and so on. You can have base system skills or custom skills created in [[now-assist-skill-kit-landing|Now Assist Skill Kit]].
+ A Now Assist skill is a capability that uses generative AI to perform tasks such as generating summaries, resolution notes, and so on. You can have base system skills or custom skills created in Now Assist Skill Kit.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Data assets
 
 Displays a list of all datasets.
 
- A custom dataset and data collection in [[now-assist-data-kit-landing|Now Assist Data Kit]] is used for evaluations in Now Assist Skill Kit.
+ A custom dataset and data collection in Now Assist Data Kit is used for evaluations in Now Assist Skill Kit.
 
 </td></tr><tr><td>
 
@@ -157,14 +157,14 @@ Knowledge graphs
 
 Displays a list of all knowledge graphs.
 
- A [[knowledge-graph-landing|knowledge graph]] is a graphical representation of real-world entities \(tables\) and their relationships. It is used add context and meaning to information to enable intelligent search, insights, and AI-driven experiences.
+ A knowledge graph is a graphical representation of real-world entities \(tables\) and their relationships. It is used add context and meaning to information to enable intelligent search, insights, and AI-driven experiences.
 
 </td></tr></tbody>
 </table>4.  Select a combination of sort and filter options to refine the list.
 
     The filters vary depending on the asset tab selected.
 
-    \[Omitted image "now-assist-center-asset-inventory-filters.png"\] Alt text: Filter and sorting [[controls|controls]] for the asset list.
+    \[Omitted image "now-assist-center-asset-inventory-filters.png"\] Alt text: Filter and sorting controls for the asset list.
 
     -   Select the **Sort by** button \(\[Omitted image "icon-now-assist-center-sort.png"\] Alt text: Sort by icon.\) and select a sorting order.
     -   Select a filter button.
@@ -198,24 +198,10 @@ Displays a list of all knowledge graphs.
     The asset details page may open on a separate workspace tab if the selected asset is managed using an application that is fully integrated in Now Assist Center. If it is managed in another application, the application opens to the asset details page.
 
 
-**Parent Topic:**[[now-assist-center-using-asset-inventory|Using the asset inventory in Now Assist Center]]
+**Parent Topic:**[Using the asset inventory in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-asset-inventory.md)
 
 **Related topics**  
 
 
 [Create an AI asset in the asset inventory]()
 
-## Related
-
-- [[platform-ai-assets-section|Now Assist AI assets]]
-- [[now-assist-center-using-asset-inventory|Using the asset inventory in Now Assist Center]]
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-side-navigation-bar|Side navigation bar]]
-- [[now-assist-skills|Now Assist skills]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[controls|Controls]]

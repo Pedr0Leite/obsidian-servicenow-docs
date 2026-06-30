@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Set up a form action in CSM Configurable Workspace
 
-Create a form action that links to a UI action so that you can use the UI action in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Create a form action that links to a UI action so that you can use the UI action in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ In order to use UI actions in CSM Configurable Workspace, each UI action must ha
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **[[migration-form-declarative-actions|Declarative Actions]]** &gt; **Create New Action**.
+1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Declarative Actions** &gt; **Create New Action**.
 
 2.  Select **Form** from the list of available actions.
 
@@ -95,7 +95,4 @@ Select a UI view for the action button to appear on.
 
 7.  Select **Update**.
 
-## Related
 
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-form-declarative-actions|Declarative actions]]

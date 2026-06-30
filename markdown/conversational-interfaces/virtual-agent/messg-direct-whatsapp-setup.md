@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with WhatsApp \(WhatsApp Clou
 
 # Set up Conversational Integration with WhatsApp \(WhatsApp Cloud API\)
 
-Set up the [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]] application so that you can engage requesters in bot conversations. Integrating with ServiceNowVirtual Agent enables you to interact on WhatsApp chat with a [[virtual-agent-landing-page|Virtual Agent]] or Live Agent.
+Set up the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application so that you can engage requesters in bot conversations. Integrating with ServiceNowVirtual Agent enables you to interact on WhatsApp chat with a Virtual Agent or Live Agent.
 
 ## Before you begin
 
@@ -263,7 +263,3 @@ Name of the Token Message Verification record that you created for the inbound h
 
 **Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-configure.md)
 
-## Related
-
-- [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]]
-- [[virtual-agent-landing-page|Virtual Agent]]

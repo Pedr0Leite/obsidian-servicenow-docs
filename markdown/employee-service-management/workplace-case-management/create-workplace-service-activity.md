@@ -14,7 +14,7 @@ breadcrumb: [Create a Workplace service, Configure, Workplace Case Management, W
 
 # Create a Workplace service activity
 
-Create a Workplace service activity to trigger a background [[activity-lxp|activity]] when a Workplace service is selected. The activity can be an approval action, task, or a child case.
+Create a Workplace service activity to trigger a background activity when a Workplace service is selected. The activity can be an approval action, task, or a child case.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Activities can be approvals, tasks, or child cases. You can specify the order in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Case Management - Setup** &gt; **[[workplace-services|Workplace services]]**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
 
 2.  Select the workplace service that you want to modify to add more workplace service activities.
 
@@ -146,8 +146,3 @@ Select this option if you want this activity to continue when the activity is cl
 
 The Workplace Service Activity is created and will be executed when the parent Workplace service is requested.
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]

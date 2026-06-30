@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Enabling Agent Client Collector data collection
 
-You can perform actions which enhance data collection from the hosts on which [[acc-landing-page|Agent Client Collector]] is running.
+You can perform actions which enhance data collection from the hosts on which Agent Client Collector is running.
 
 -   **[Create a call API to send an osquery request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-api-send-os-query-reqs.md)**  
 Create a background script to send an `osquery` request. The `osquery` request enables data collection from your host's operating system.
@@ -33,6 +33,3 @@ Clear the plugin and configuration file cache folder and control plugin download
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

@@ -14,11 +14,11 @@ breadcrumb: [Configure, Change Management, IT Service Management]
 
 # Change schedules
 
-The Change Schedules [[dex-workspace-dashboard-tab|landing page]] provides a view of schedules that are categorized under **Pinned Schedules**, **Your Schedules**, and **All Schedules**. The grouping of schedules provides easy access to your most required schedules and saves your time from searching through all the schedules in the system.
+The Change Schedules landing page provides a view of schedules that are categorized under **Pinned Schedules**, **Your Schedules**, and **All Schedules**. The grouping of schedules provides easy access to your most required schedules and saves your time from searching through all the schedules in the system.
 
 To access Change Schedules, navigate to **Change** &gt; **Schedule** &gt; **Change Schedules**.
 
-**Note:** To view the Change Schedules page, you must [[activate-changemgmt-changeschedule|activate Change Management - Change Schedule]] plugin \(com.snc.change\_management.soc\).
+**Note:** To view the Change Schedules page, you must activate Change Management - Change Schedule plugin \(com.snc.change\_management.soc\).
 
 \[Omitted image "image.change\_schedules"\] Alt text: Change schedules landing page
 
@@ -37,7 +37,7 @@ Click a tab to view a Change Schedule. For more information, refer [Change sched
 -   **[Change schedules view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-schedules-view.md)**  
 The Change Schedules module provides a Gantt or timeline view of change requests based on criteria defined within a Change Schedule Definition.
 -   **[Create a change schedule from the Change Schedules page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-chng-sch-from-chng-sch-page.md)**  
-You can create a change schedule to view all scheduled changes, [[change-tasks|change tasks]], blackout periods, maintenance windows for any given date, week, month, or year.
+You can create a change schedule to view all scheduled changes, change tasks, blackout periods, maintenance windows for any given date, week, month, or year.
 -   **[Create a change schedule from the change schedule definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-chng-sch-from-chng-sch-def.md)**  
 You can define a change schedule from a change schedule definition record. Change schedule definitions help you to define the content that displays in the change summary popover, the users, groups or roles with whom a schedule is to be shared, and related span style colors.
 -   **[Add related tasks to a change schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/add-related-tasks-to-chng-schedule.md)**  
@@ -47,8 +47,3 @@ You can create a style span to specify the color for different events in a chang
 
 **Parent Topic:**[Configuring Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/configure-change-management.md)
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[activate-changemgmt-changeschedule|Activate Change Management - Change Schedule]]
-- [[change-tasks|Change tasks]]

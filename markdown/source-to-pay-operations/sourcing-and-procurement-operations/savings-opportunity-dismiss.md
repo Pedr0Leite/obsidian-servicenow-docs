@@ -25,7 +25,7 @@ Role required: sn\_spend\_mgmt.category\_manager\_admin
 
 ## Procedure
 
-1.  From the **Workspaces** tab, select **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  From the **Workspaces** tab, select **Source-to-Pay Workspace**.
 
 2.  Select the **Category management** tab.
 
@@ -73,6 +73,3 @@ The **Learn more** Now Assist trigger remains available on dismissed records bec
 
 **Parent Topic:**[Action or dismiss a savings opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/action-or-dismiss-savings-opportunity.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

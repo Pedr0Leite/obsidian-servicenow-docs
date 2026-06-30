@@ -13,19 +13,19 @@ breadcrumb: [Execute desktop actions, AI Desktop Actions, Enable AI experiences]
 
 # Trigger an AI agent to execute adaptive path desktop actions
 
-Trigger an AI agent that uses adaptive desktop actions from the [[now-assist-center-now-assist-panel|Now Assist panel]]. These desktop actions perform tasks on an external website or web application.
+Trigger an AI agent that uses adaptive desktop actions from the Now Assist panel. These desktop actions perform tasks on an external website or web application.
 
 ## Before you begin
 
--   Confirm that the **ServiceNow Web Automation** Google Chrome extension is installed and connected to your ServiceNow® instance. For more information, see [[na-ai-wa-install-browser-extension|Install the Google Chrome extension for adaptive desktop actions]].
+-   Confirm that the **ServiceNow Web Automation** Google Chrome extension is installed and connected to your ServiceNow® instance. For more information, see [Install the Google Chrome extension for adaptive desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-install-browser-extension.md).
 -   Confirm that you're logged in to your ServiceNow instance and it is in the active state in the browser window.
--   Verify that enhanced chat is available in Now Assist panel. The Web view pane is available only when enhanced chat is enabled. For more information see [[now-assist-panel-enhanced|Enhanced chat]].
+-   Verify that enhanced chat is available in Now Assist panel. The Web view pane is available only when enhanced chat is enabled. For more information see [Enhanced chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-enhanced.md).
 
 Role required: now\_assist\_panel\_user
 
 ## About this task
 
-AI agents using adaptive desktop actions perform tasks for you on a website or web application. The AI agent opens the website in a separate browser tab in the background, and reports its actions to you in the Now Assist panel. During the process, the website may require credentials for a login or acceptance of terms. In such [[cases|cases]], the AI agent [[ai-prompts|prompts]] you to provide credentials in the chat or switch to the website's browser window temporarily so you can enter the required information.
+AI agents using adaptive desktop actions perform tasks for you on a website or web application. The AI agent opens the website in a separate browser tab in the background, and reports its actions to you in the Now Assist panel. During the process, the website may require credentials for a login or acceptance of terms. In such cases, the AI agent prompts you to provide credentials in the chat or switch to the website's browser window temporarily so you can enter the required information.
 
 Here are tips for writing successful requests for the LLM:
 
@@ -35,7 +35,7 @@ Here are tips for writing successful requests for the LLM:
 
 ## Procedure
 
-1.  On your ServiceNow instance, open the Now Assist panel by using the [[platform-now-assist-landing|Now Assist]] \[Omitted image "wwna-icon.png"\] Alt text: Now Assist icon. icon.
+1.  On your ServiceNow instance, open the Now Assist panel by using the Now Assist \[Omitted image "wwna-icon.png"\] Alt text: Now Assist icon. icon.
 
     Use the same instance that the **ServiceNow Web Automation** extension is connected to and has at least one AI agent that uses adaptive desktop actions.
 
@@ -53,7 +53,7 @@ Here are tips for writing successful requests for the LLM:
     -   Can you find the latest invoice from invoiceninja.com?
     -   Navigate to https://www.accuweather.com/. In the Search field, enter "zip code 95054" and search. In the search results, open the first page. Find the current temperature in degrees Fahrenheit and tell me the temperature.
     -   Navigate to en.wikipedia.org. On the main page of wikipedia.org, in the Search field, search for "Santa Clara, California". In the search results, open the first page listed, and read its contents. Summarize the contents of the page in 2 or 3 sentences.
-    In your conversations with AI agents, the actual wording of the questions and answers may be different from the given examples. For more information about Now Assist panel, see [[now-assist-panel-overview|Now Assist panel]].
+    In your conversations with AI agents, the actual wording of the questions and answers may be different from the given examples. For more information about Now Assist panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
 
 4.  Review the execution plan proposed by the AI agent and confirm your approval.
 
@@ -91,21 +91,10 @@ The browser tabs opened during goal execution in adaptive desktop actions stay o
 
 ## What to do next
 
-You can delete the chat log in Now Assist panel if any sensitive information was captured. For detailed instructions, see [[na-ai-wa-delete-chat-log|Delete an AI agent chat log]].
+You can delete the chat log in Now Assist panel if any sensitive information was captured. For detailed instructions, see [Delete an AI agent chat log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-delete-chat-log.md).
 
 -   **[Delete an AI agent chat log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-wa-delete-chat-log.md)**  
 After you close an AI agent session, you can delete its chat if any sensitive information was captured. Deleting your chat log permanently erases the chat history of that session, including screenshots.
 
-**Parent Topic:**[[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
+**Parent Topic:**[Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md)
 
-## Related
-
-- [[na-ai-wa-install-browser-extension|Install the Google Chrome extension for adaptive desktop actions]]
-- [[now-assist-panel-enhanced|Enhanced chat]]
-- [[now-assist-panel-overview|Now Assist panel]]
-- [[na-ai-wa-delete-chat-log|Delete an AI agent chat log]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[cases|Cases]]
-- [[ai-prompts|Prompts]]
-- [[platform-now-assist-landing|Now Assist]]

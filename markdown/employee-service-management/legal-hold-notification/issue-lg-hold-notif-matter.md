@@ -22,7 +22,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -57,7 +57,7 @@ Role required: sn\_lg\_hold.legal\_hold\_fulfiller
 
 ## Result
 
-In the **[[activity-lxp|Activity]]** section, a message is displayed as **Legal hold notice has been sent to X custodians**.
+In the **Activity** section, a message is displayed as **Legal hold notice has been sent to X custodians**.
 
 In the **Tasks** tab, the state of the task assigned to the custodian changes from Draft to Assigned.
 
@@ -67,7 +67,3 @@ A copy of the legal hold notice sent to the custodian is attached under the **Ar
 
 **Parent Topic:**[Using Legal Hold Notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-hold-notification/use-lg-hold-notif.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

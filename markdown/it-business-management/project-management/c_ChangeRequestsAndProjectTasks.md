@@ -16,15 +16,15 @@ breadcrumb: [Basics of Project Management, Exploring Project Management, Project
 
 Large-scale changes approved by your change approval board \(CAB\) require new or existing projects to be implemented.
 
-To bridge the gap between change management and [[c_ProjectApplicationOverview|project management]], the instance allows you to link one or more change requests to a project task. You can link an existing change request to a project task or create a new change request directly from a project task.
+To bridge the gap between change management and project management, the instance allows you to link one or more change requests to a project task. You can link an existing change request to a project task or create a new change request directly from a project task.
 
 When you link a project task to a change request record, a new project task link record is created. It provides the actual link between the project task record and the change request record. The project task link copies all attributes of the change request record. It then becomes a child task of the project task that you linked to the change request. The rules that govern the relationship between the project task and the project task link are the same as the rules for all parent and child tasks.
 
-\[Omitted image "Project\_change1.png"\] Alt text: [[t_CreateAProjectTask|Project tasks]] linked to change requests
+\[Omitted image "Project\_change1.png"\] Alt text: Project tasks linked to change requests
 
 **Note:** A project task cannot have both task link records and child project tasks. When a project task is linked to a change request, you cannot also create child tasks for that project task. Likewise, when a project task has child tasks, you cannot link the parent project task to a change record.
 
-The project task link record is read only. You can view the project task links from a related list on the [[project-task-form|Project Task form]].
+The project task link record is read only. You can view the project task links from a related list on the Project Task form.
 
 You can also link multiple change requests to a single project task. In this case, a project task link record is created for each link and all the project task link records become child tasks of the project task.
 
@@ -67,7 +67,7 @@ These change request settings also roll up to the project task that is the paren
 
 When you start a project, tasks that have **Start ASAP** as the time constraint and have no other start dependencies start immediately. However, project tasks with linked change requests do not start automatically. The project manager must start the task manually by changing the **State** field to **Work in Progress**.
 
-Modifications made in the Project Management application do not propagate to a linked change request record, so [[t_CloseAProject|closing a project]] does not close a linked change. When you successfully implement a change and close the project it belongs to, you must go to the change request record and manually change the state to **Closed**.
+Modifications made in the Project Management application do not propagate to a linked change request record, so closing a project does not close a linked change. When you successfully implement a change and close the project it belongs to, you must go to the change request record and manually change the state to **Closed**.
 
 **Parent Topic:**[Basics of Project Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectTasks.md)
 
@@ -98,9 +98,3 @@ Modifications made in the Project Management application do not propagate to a l
 
 [Link change requests to a project task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_LinkChangesToAProjectTask.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[project-task-form|Project task form]]
-- [[t_CloseAProject|Closing a project]]

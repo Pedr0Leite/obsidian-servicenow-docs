@@ -37,7 +37,7 @@ The attachment uploaded for this variable is copied in the following scenarios:
 
     **Important:** The individual variable attributes are not honored for the catalog items in the rule base. For example, let us consider that a variable in the **Describe Needs** section allows a .pdf attachment and the variable of a catalog item in the rule base allows a .txt attachment. When you upload an attachment of .pdf type for a variable in the **Describe Needs** section, it is initially cascaded to the variable in the catalog item as well and the variable attributes specified in the catalog item are not honored. However, if you delete this initially cascaded attachment from an individual item and try to upload a new attachment, then the individual variable attributes of the catalog item are honored.
 
--   In a [[c_RecordProducer|record producer]], when the variable is mapped to a task table field. This variable can be mapped only to the File Attachment field type of a task table.
+-   In a record producer, when the variable is mapped to a task table field. This variable can be mapped only to the File Attachment field type of a task table.
 
 **Important:** After an attachment is copied, the changes to the individual attachments are independent. For example, any change to an attachment in the order guide does not impact the same attachment cascaded to the catalog item in the rule base.
 
@@ -114,6 +114,3 @@ If the system-wide anti-virus check is enabled, the anti-virus check is performe
 
 [Variable support in various channels]()
 
-## Related
-
-- [[c_RecordProducer|Record Producer]]

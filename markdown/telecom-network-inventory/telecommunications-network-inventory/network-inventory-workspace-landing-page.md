@@ -14,7 +14,7 @@ breadcrumb: [Network Inventory Workspace, Explore, Telecommunications Network In
 
 # Landing page
 
-Get real-time visibility into your network inventory and to perform the daily tasks through the [[exploring-network-inventory-workspace|Network Inventory Workspace]] landing page.
+Get real-time visibility into your network inventory and to perform the daily tasks through the Network Inventory Workspace landing page.
 
 The landing page in the Network Inventory Workspace displays the list of your and your team's assignments. For example, you can look at the landing page to see the number of open change requests and change tasks that are assigned to you. You can use this page to get the real-time data of your work and of your team's work.
 
@@ -43,6 +43,3 @@ On the landing page, do the following to view the change requests and change tas
 
 **Parent Topic:**[Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

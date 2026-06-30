@@ -14,7 +14,7 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 # New hardening settings for baseline version 5.0
 
-[[hardening-settings-new|New hardening settings]] have been released with [[sec-center-v2|Security Center]] baseline version 5.0.
+New hardening settings have been released with Security Center baseline version 5.0.
 
 -   [Enforce ACL on HR Lifecycle Events Data \[New in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-acl-on-hr-lifecycle-events-data.md)
 -   [Sanitize All Translated HTML Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-sanitize-all-translated-html-fields.md)
@@ -28,13 +28,8 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 -   [Set Automatic Token Cleanup for Token Credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-automatic-token-cleanup-for-token-credentials.md)
 -   [Restrict Global App Development by Role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-global-app-development-by-role.md)
 -   [Enable ACLs for Encoded Query in Simple List Widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enable-acls-for-encoded-query-in-simple-list-widget.md)
--   [Invalidate Session After [[oauth-inbound-and-outbound|OAuth]] Token Expiration \[New in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-invalidate-session-after-oauth-token-expiration.md)
+-   [Invalidate Session After OAuth Token Expiration \[New in Security Center 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-invalidate-session-after-oauth-token-expiration.md)
 -   [Restrict Impersonation to Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-restrict-impersonation-to-admin.md)
 
 **Parent Topic:**[New hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-new.md)
 
-## Related
-
-- [[hardening-settings-new|New hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[oauth-inbound-and-outbound|OAuth]]

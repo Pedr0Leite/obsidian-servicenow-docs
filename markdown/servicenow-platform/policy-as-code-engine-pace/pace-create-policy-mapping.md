@@ -40,10 +40,8 @@ Role required: sn\_pace.mapping\_admin
 
     \[Omitted image "pace-mapping-policy-1.jpg"\] Alt text: Map the policy to objects.
 
-5.  Select the [[check-box|check box]] to the left of each object that you want to map the policy to, and click **Map Policy**.
+5.  Select the check box to the left of each object that you want to map the policy to, and click **Map Policy**.
 
     The new mapping input is added to the list of policy mappings. In addition, an alert message indicates whether the mapping is valid and active. For information about editing existing mapping inputs, see [Edit mapping inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/policy-as-code-engine-pace/pace-edit-mapping-inputs.md).
 
-## Related
 
-- [[check-box|Check box]]

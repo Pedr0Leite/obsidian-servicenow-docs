@@ -73,7 +73,7 @@ When the attribute value is decreased, it decreases the number of CFS/RFS.
 
 ### Customer order vs. Service order decomposition
 
-While the fundamental principles of decomposition remain the same, there are key differences when decomposing a service order compared to a customer order. The most significant difference is that [[service-order-mgt-order-decomposition|service order decomposition]] does not generate product orders. The process is focused exclusively on the fulfillment of services and their underlying resources. The decomposition of a service order generates a specific set of service and resource orders:
+While the fundamental principles of decomposition remain the same, there are key differences when decomposing a service order compared to a customer order. The most significant difference is that service order decomposition does not generate product orders. The process is focused exclusively on the fulfillment of services and their underlying resources. The decomposition of a service order generates a specific set of service and resource orders:
 
 -   Customer-Facing Service \(CFS\) Order: A service order for the performance of a customer-facing service.
 -   Resource-Facing Service \(RFS\) Order: A service order for the internal use of resources required to perform the actual service for the customer.
@@ -215,6 +215,3 @@ Fore more information, see [Customer order decomposition](https://raw.githubuser
 
 [Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-## Related
-
-- [[service-order-mgt-order-decomposition|Service order decomposition]]

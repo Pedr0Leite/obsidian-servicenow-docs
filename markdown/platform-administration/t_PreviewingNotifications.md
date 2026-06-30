@@ -12,7 +12,7 @@ breadcrumb: [Create an email notification, Email and SMS notifications, System n
 
 # Preview email notifications
 
-You can preview what [[notifications|notifications]] look like before you actually enable the instance to send them.
+You can preview what notifications look like before you actually enable the instance to send them.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 You can preview both types of notifications as specified by the **Send when** field on the Notification form:
 
 -   **Record inserted or updated**: A change to record in the instance triggers the notification.
--   **Event is fired**: An event, such as the expiration of a certificate or an [[ia-inbound-email-il|inbound email]] action, triggers the notification.
+-   **Event is fired**: An event, such as the expiration of a certificate or an inbound email action, triggers the notification.
 
 ## Procedure
 
@@ -103,10 +103,5 @@ The content of the notification as defined by the template. The **Subject** and 
 6.  Make the necessary changes to the notification or template, if necessary.
 
 
-**Parent Topic:**[[t_CreateANotification|Create an email notification]]
+**Parent Topic:**[Create an email notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateANotification.md)
 
-## Related
-
-- [[t_CreateANotification|Create an email notification]]
-- [[notifications|Notifications]]
-- [[ia-inbound-email-il|Inbound email]]

@@ -15,7 +15,7 @@ breadcrumb: [Change flows, Reference, Change Management, IT Service Management]
 
 # Change Management Workflow Studio actions
 
-Use Workflow Studio actions as building blocks to handle the Change [[c_Models|models]] and types. The flow actions are available under the ITSM spoke in Workflow Studio.
+Use Workflow Studio actions as building blocks to handle the Change models and types. The flow actions are available under the ITSM spoke in Workflow Studio.
 
 <table id="table_wtp_v3v_bnb"><thead><tr><th>
 
@@ -31,11 +31,11 @@ Apply Change Approval Policy
 
 </td><td>
 
-Controls the approval process for a change request by creating user and group approvals according to a change approval policy record. Multiple actions can be used in a flow, where each action references the same or different [[change-approval-policy|Change approval policies]].
+Controls the approval process for a change request by creating user and group approvals according to a change approval policy record. Multiple actions can be used in a flow, where each action references the same or different Change approval policies.
 
 </td></tr><tr><td>
 
-Cancel [[change-tasks|Change Tasks]] from Flow
+Cancel Change Tasks from Flow
 
 </td><td>
 
@@ -70,8 +70,3 @@ Evaluates the Change Model associated with this change request against the curre
 </td></tr></tbody>
 </table>**Parent Topic:**[Change flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-flows.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[change-approval-policy|Change approval policies]]
-- [[change-tasks|Change tasks]]

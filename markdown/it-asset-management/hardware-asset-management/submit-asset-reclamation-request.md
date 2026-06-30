@@ -14,11 +14,11 @@ breadcrumb: [Reclaim hardware assets, Use, Hardware Asset Management, IT Asset M
 
 # Submit an asset reclamation request
 
-Use Reclaim Asset catalog item to efficiently [[manage-asset-reclaim|reclaim hardware assets]] when an employee leaves an organization or moves to a different role.
+Use Reclaim Asset catalog item to efficiently reclaim hardware assets when an employee leaves an organization or moves to a different role.
 
 ## Before you begin
 
-**Important:** [[reclaim-asset|Asset reclamation]] supports hardware and [[c_ReceiveAConsumableAsset|consumable assets]]. [[asset-bundles-concept|Asset bundles]] and pallets aren't supported by default and require customization of the reclamation flow and request to handle these asset classes.
+**Important:** Asset reclamation supports hardware and consumable assets. Asset bundles and pallets aren't supported by default and require customization of the reclamation flow and request to handle these asset classes.
 
 Role required: Any employee can submit an asset reclamation request.
 
@@ -110,9 +110,3 @@ Any instructions if you want to mention.
 
 **Parent Topic:**[Reclaim hardware assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/manage-asset-reclaim.md)
 
-## Related
-
-- [[manage-asset-reclaim|Reclaim hardware assets]]
-- [[reclaim-asset|Asset reclamation]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[asset-bundles-concept|Asset bundles]]

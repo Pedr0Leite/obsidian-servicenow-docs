@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Change email notifications
 
-Use email notifications to alert users when an [[operational-technology-overview|Operational Technology]] \(OT\) change request or a change task is updated.
+Use email notifications to alert users when an Operational Technology \(OT\) change request or a change task is updated.
 
 The notifications for OT change requests and change tasks are listed in the following tables.
 
@@ -327,6 +327,3 @@ Work Notes: &lt;Work notes added to change task&gt;
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

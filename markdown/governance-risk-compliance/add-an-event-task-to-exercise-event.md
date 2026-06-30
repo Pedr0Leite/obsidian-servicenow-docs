@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Man
 
 # Monitor event tasks and create ad-hoc tasks
 
-Monitor event task completion and create ad-hoc tasks as necessary in the exercise from the [[bcm-workspace|BCM Configurable Workspace]]. The tasks are then completed in a sequence.
+Monitor event task completion and create ad-hoc tasks as necessary in the exercise from the BCM Configurable Workspace. The tasks are then completed in a sequence.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-Starting with version 6.1.x of the [[business-continuity-mangmt-overview|Business Continuity Management]] application, these enhancements are supported for managing the tasks.
+Starting with version 6.1.x of the Business Continuity Management application, these enhancements are supported for managing the tasks.
 
 -   Perform edits and change the state of tasks, making the process more efficient.
 -   Reduce the time spent on managing the tasks individually.
--   Improve efficiency for the users who perform the [[exercise-management-uib|exercises]] or events offline in tools such as Microsoft Excel. This enhancement helps streamline the transition from offline to online task management.
+-   Improve efficiency for the users who perform the exercises or events offline in tools such as Microsoft Excel. This enhancement helps streamline the transition from offline to online task management.
 -   Edit the **State** field of the event task if you have the BCM manager role, BCM planner role, or if you are the user assigned to the event.
 -   The **Retrigger as manual** UI action is used only for the automated tasks.
 
@@ -36,7 +36,7 @@ The edit enhancement offers flexibility for managing the event tasks. The BCM ma
 -   Edit multiple recovery tasks in the **Task status**, **Actual start**, **Actual end**, **Assigned to**, **Assigned group**, and **Additional assignee** fields in the recovery tasks list at one go.
 -   Open a closed task for editing that was closed by mistake. For this scenario, the **Closed failed** task state is added to the tasks. Moving a task to the **Closed failed** state brings an entire exercise to a stop unless the program manager \(sn\_bcm.program\_manager\) unblocks the task and moves it to the **Closed complete** state.
 
-For more information on editing of tasks, see [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]] and [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]].
+For more information on editing of tasks, see [Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md) and [Structured workflows for Crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/perform-tasks-to-manage-crisis-events.md).
 
 ## Procedure
 
@@ -48,7 +48,7 @@ For more information on editing of tasks, see [[performing-tasks-to-manage-exerc
 
     When you add or update the plan to the exercise event, the related plans, assets, and tasks that are associated with the plan also get pulled into the event as shown in the example.\[Omitted image "event-tasks-w-phases.png"\] Alt text: Event tasks with phases.
 
-    You can update the phase of the event task from the [[list-view-uib-ws|list view]]. You can also create an ad-hoc task and then associate a phase with that event task.
+    You can update the phase of the event task from the list view. You can also create an ad-hoc task and then associate a phase with that event task.
 
     You can edit the phase for an event task until it reaches the **Closed** state. Once the task is marked as **Closed complete**, **Closed failed**, or **Closed incomplete**, the phase field becomes read-only. This change verifies that phases remain editable during active task management but are locked once the task is finalized.
 
@@ -72,7 +72,7 @@ For more information on editing of tasks, see [[performing-tasks-to-manage-exerc
 
 5.  After the bulk add completes, wait for the auto-refresh banner to dismiss, or select **Refresh** to refresh the **Event tasks** list manually.
 
-    The **Event tasks** list does not auto-refresh row by row. Instead, the banner **The event tasks are updated. Select Refresh to see updated data. List will auto-refresh once all tasks are created.** is displayed while the system creates the tasks. About ten seconds after the last task is created, the list refreshes once. This avoids repeated refreshes on event tasks lists that contain a large number of rows. For more information, see [[bcm-event-task-template-progress|Event task creation progress in exercise and crisis events]].
+    The **Event tasks** list does not auto-refresh row by row. Instead, the banner **The event tasks are updated. Select Refresh to see updated data. List will auto-refresh once all tasks are created.** is displayed while the system creates the tasks. About ten seconds after the last task is created, the list refreshes once. This avoids repeated refreshes on event tasks lists that contain a large number of rows. For more information, see [Event task creation progress in exercise and crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-event-task-template-progress.md).
 
     \[Omitted image "event-tasks-auto-refresh-banner.png"\] Alt text: Yellow banner stating the event tasks are updated with a Refresh button.
 
@@ -88,7 +88,7 @@ For more information on editing of tasks, see [[performing-tasks-to-manage-exerc
 
     **Note:** When you add an ad-hoc task to the exercise event that is in the **Work in progress** state and if the activated plan is in the **Work in progress** state, the tasks get moved to the **Open** state. If the activated plan is the **Pending** state, the task moves to the **Pending** state.
 
-    For more information on the fields in the New Event Task form, see [[create-new-event-task-form-uib-ws|Create Event Task form]].
+    For more information on the fields in the New Event Task form, see [Create Event Task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-event-task-form-uib-ws.md).
 
     **Note:** You cannot create an ad-hoc task for the activated plans that are in **Closed Complete** or **Closed Incomplete** state.
 
@@ -142,13 +142,3 @@ Use the Create New Event Task form in BCM UIB Workspace to add details about an 
 
 **Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[perform-tasks-to-manage-crisis-events|Structured workflows for Crisis events]]
-- [[bcm-event-task-template-progress|Event task creation progress in exercise and crisis events]]
-- [[create-new-event-task-form-uib-ws|Create Event Task form]]
-- [[bcm-workspace|BCM Configurable Workspace]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[exercise-management-uib|Exercises]]
-- [[list-view-uib-ws|List view]]

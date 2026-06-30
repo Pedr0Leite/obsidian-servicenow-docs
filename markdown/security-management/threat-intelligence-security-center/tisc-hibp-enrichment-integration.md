@@ -21,7 +21,7 @@ Run the Have I Been Pwned \(HIBP\) enrichment on an email address or domain name
 
 Role required: sn\_sec\_tisc.analyst
 
-Ensure that the [[tisc-hibp-integration|Have I Been Pwned integration]] is configured and enabled by your administrator. For more information, see [Configure and enable Have I Been Pwned integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-hipw-integration.md).
+Ensure that the Have I Been Pwned integration is configured and enabled by your administrator. For more information, see [Configure and enable Have I Been Pwned integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-hipw-integration.md).
 
 ## About this task
 
@@ -32,7 +32,7 @@ The integration queries the HIBP database to identify whether a submitted observ
 -   Email address
 -   Domain name
 
-Submitting an unsupported observable type such as an IP address or file hash results in the observable being excluded from enrichment with an alert message indicating that an unsupported observable type. [[c_Observables|Observables]] on the allow list are also excluded from submission.
+Submitting an unsupported observable type such as an IP address or file hash results in the observable being excluded from enrichment with an alert message indicating that an unsupported observable type. Observables on the allow list are also excluded from submission.
 
 You can initiate enrichment from an individual observable record or from the **Artifacts** tab of a case when working with multiple observables.
 
@@ -40,11 +40,11 @@ You can initiate enrichment from an individual observable record or from the **A
 
 1.  Navigate to the observable record you want to enrich.
 
-    1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **[[threat-intel-landing-page|Threat Intelligence]] Library** and open any observable record from the Threat Intelligence Library.
+    1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intelligence Library** and open any observable record from the Threat Intelligence Library.
 
         \[Omitted image "tisc-hibp-obs-enrichment.png"\] Alt text: TISC Observables form view
 
-    2.  \(Alternatively\) open a case, navigate to the **Artifacts** tab, and select the **Observables** related list from Case to [[tisc-run-observable-enrichment|run observable enrichment]].
+    2.  \(Alternatively\) open a case, navigate to the **Artifacts** tab, and select the **Observables** related list from Case to run observable enrichment.
 
         \[Omitted image "tisc-case-obs-enrich-result.png"\] Alt text: TISC Case Artifacts:Observables - Run Observable Enrichment
 
@@ -67,7 +67,7 @@ To view the enrichment results:
 
 1.  Navigate to any observable record.
 2.  Go to **Enrichment Results** tab.
-3.  Select **[[tisc-observable-enrichment|Observable Enrichment]] Results** and open the result record.
+3.  Select **Observable Enrichment Results** and open the result record.
 
     \[Omitted image "tisc-hibp-obs-enrich-view.png"\] Alt text: Observable enrichment results section
 
@@ -170,7 +170,7 @@ You can also view the Have I Been Pwned flags, which indicate the attributes ide
 |Related Record|Description|
 |--------------|-----------|
 |Verified|Indicates that the breach is considered unverified. An unverified breach is still loaded into HIBP when there's sufficient confidence that a significant portion of the data is legitimate.|
-|Malware|Indicates that the data was sourced from a [[threat-intelligence-malware|malware]] [[campaign|campaign]] rather than a security compromise of an online service.|
+|Malware|Indicates that the data was sourced from a malware campaign rather than a security compromise of an online service.|
 |Sensitive|Indicates that the breach is considered sensitive. The public API will not return any accounts for a breach flagged as sensitive.|
 |Fabricated|Indicates that the breach is considered fabricated. However, it still contains legitimate email addresses.|
 |StealerLog|Indicates if the breach is sourced from stealer logs.|
@@ -191,13 +191,3 @@ You can also view the Have I Been Pwned flags, which indicate the attributes ide
 
 [Configure and enable Have I Been Pwned integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-config-hipw-integration.md)
 
-## Related
-
-- [[tisc-hibp-integration|Have I Been Pwned integration]]
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[threat-intelligence-malware|Malware]]
-- [[campaign|Campaign]]

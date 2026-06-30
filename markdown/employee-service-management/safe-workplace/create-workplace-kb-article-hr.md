@@ -42,7 +42,7 @@ A knowledge base article undergoes the following workflow when it is created:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Knowledge management** &gt; **Create new article**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Knowledge management** &gt; **Create new article**.
 
 2.  Select **New**.
 
@@ -62,7 +62,7 @@ Knowledge base
 
 </td><td>
 
-Name of the knowledge base. Select the **[[workplace-services|Workplace services]]** knowledge base.
+Name of the knowledge base. Select the **Workplace services** knowledge base.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,3 @@ The knowledge base article is created.
 
 Publish the knowledge base article. For more information, see [Publish a workplace knowledge base article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/publish-workplace-kb-article-wsd.md).
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]

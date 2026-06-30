@@ -36,14 +36,10 @@ The BCM administrators select the **Send notification** option to set the notifi
 
 The plan owner and BCM lead reviews the dependency updates from the snapshot record. The delta snapshot record displays the updated dependencies such as Added, Updated, and Deleted assets for the selected plan record.
 
-For more information on configuring the Planning dependency update configuration record, see [[conf-plan-dep-update-confi-module|Set up Planning dependency update configuration]].
+For more information on configuring the Planning dependency update configuration record, see [Set up Planning dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-plan-dep-update-confi-module.md).
 
 -   **[Set up Planning dependency update configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-plan-dep-update-confi-module.md)**  
 Configure the Planning dependency update configuration record to configure the plan record \(for which the dependencies are updated\), its target records, sources, and notification preferences.
 
-**Parent Topic:**[[dependency-config-modules|Dependency Configuration records]]
+**Parent Topic:**[Dependency Configuration records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/dependency-config-modules.md)
 
-## Related
-
-- [[conf-plan-dep-update-confi-module|Set up Planning dependency update configuration]]
-- [[dependency-config-modules|Dependency Configuration records]]

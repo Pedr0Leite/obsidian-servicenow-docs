@@ -12,7 +12,7 @@ breadcrumb: [Outsourced Service Provider manager tasks, Agent management, Use, C
 
 # Assign a case to an OSP agent
 
-As an [[outsourced-service-provider|Outsourced Customer Service]] external manager, you can [[osp-assign-case|assign a case]] to an agent under your group.
+As an Outsourced Customer Service external manager, you can assign a case to an agent under your group.
 
 ## Before you begin
 
@@ -34,7 +34,4 @@ Role required: sn\_csm\_ocs.ext\_manager
 
 4.  Click **Update**.
 
-## Related
 
-- [[outsourced-service-provider|Outsourced Customer Service]]
-- [[osp-assign-case|Assign a case]]

@@ -13,7 +13,7 @@ breadcrumb: [Legacy scenario analysis, Scenario analysis, Manage, Operational Re
 
 # Enable the legacy scenario analysis flow
 
-Complete admin procedure to activate the [[legacy-scenario-analysis-ov|legacy scenario analysis]] flow \(sn\_oper\_res\_scenario\_analysis\) across the four entry-point surfaces in the [[grc-opres-landing-page|Operational Resilience]] Workspace. Deactivate the advanced flow when you want to continue using the legacy scenario analysis flow.
+Complete admin procedure to activate the legacy scenario analysis flow \(sn\_oper\_res\_scenario\_analysis\) across the four entry-point surfaces in the Operational Resilience Workspace. Deactivate the advanced flow when you want to continue using the legacy scenario analysis flow.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Complete each step in the order shown. Each step covers one of the four entry-po
 
 1.  To activate the legacy list, navigate to **System Definition** &gt; **sys\_ux\_list.list**.
 
-    1.  Open the **[[scenario-analysis-ov|Scenario analysis]] \(Legacy\)** record.
+    1.  Open the **Scenario analysis \(Legacy\)** record.
 
     2.  Select the **Active** check box.
 
@@ -46,7 +46,7 @@ Complete each step in the order shown. Each step covers one of the four entry-po
 
         The legacy list is available to users in the Operational Resilience Workspace.
 
-        **Note:** The active list determines which table the Scenario Analyses [[list-view-uib-ws|list view]] sources records from. Only one list record should be active at a time.
+        **Note:** The active list determines which table the Scenario Analyses list view sources records from. Only one list record should be active at a time.
 
 2.  Complete the following steps to swap the Home page widget and reports.
 
@@ -100,7 +100,7 @@ Complete each step in the order shown. Each step covers one of the four entry-po
 
     \[Omitted image "scenario-analysis-program-activities-old-vs-new.png"\] Alt text: Service Offering record with the new Program Activities related list next to the legacy related list.
 
-4.  Activate the legacy choice on the [[exploring-op-vul|Operational vulnerability]] source field in the Drop-down entry point.
+4.  Activate the legacy choice on the Operational vulnerability source field in the Drop-down entry point.
 
     1.  Navigate to **All** &gt; **System Definition** &gt; **Choice Lists**.
 
@@ -121,13 +121,5 @@ Complete each step in the order shown. Each step covers one of the four entry-po
 
 The legacy scenario analysis flow is active on all four entry-point surfaces in the Operational Resilience Workspace.
 
-For information on creating a legacy scenario analysis, see [[create-scenario-analysis-in-ws|Create a legacy scenario analysis]].
+For information on creating a legacy scenario analysis, see [Create a legacy scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-scenario-analysis-in-ws.md).
 
-## Related
-
-- [[create-scenario-analysis-in-ws|Create a legacy scenario analysis]]
-- [[legacy-scenario-analysis-ov|Legacy scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[list-view-uib-ws|List view]]
-- [[exploring-op-vul|Operational vulnerability]]

@@ -14,7 +14,7 @@ breadcrumb: [Dynamic Scheduling, Setting up a Field Service scheduling method, C
 
 # Activate dynamic scheduling
 
-Activate the [[dynamic-scheduling|dynamic scheduling]] feature by activating the [[fsm-application-landing-page|Field Service Management]] plugin \(com.snc.work\_management\).
+Activate the dynamic scheduling feature by activating the Field Service Management plugin \(com.snc.work\_management\).
 
 ## Before you begin
 
@@ -89,7 +89,4 @@ Stores the task unassignment constraints for a dynamic scheduling configuration.
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-application-landing-page|Field Service Management]]

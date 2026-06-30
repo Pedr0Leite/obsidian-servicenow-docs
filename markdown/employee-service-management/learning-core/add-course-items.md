@@ -18,9 +18,9 @@ After you create a collection, add course items as groupings of courses that are
 
 ## Before you begin
 
-Role required: sn\_lc.[[exploring-learning-exp|learning]]\_admin, sn\_lc.learning\_course\_catalog\_admin
+Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
-[[create-content-collection|Create a content collection]]. For more information, see [Create a content collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md).
+Create a content collection. For more information, see [Create a content collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md).
 
 ## Procedure
 
@@ -78,7 +78,3 @@ If it is mandatory for the course item to be added to the collection.
 </table>
 **Parent Topic:**[Create a content collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-content-collection|Create a content collection]]

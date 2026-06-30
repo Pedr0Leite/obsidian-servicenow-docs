@@ -15,7 +15,7 @@ breadcrumb: [Configure, Operational Technology Request Management, Operational T
 
 # Create a catalog item for your Operational Technology Service Catalog
 
-Create a catalog item for the [[operational-technology-overview|Operational Technology]] \(OT\) Service Catalog using the catalog builder so that other users can submit OT requests categorized by catalog item.
+Create a catalog item for the Operational Technology \(OT\) Service Catalog using the catalog builder so that other users can submit OT requests categorized by catalog item.
 
 ## Before you begin
 
@@ -60,6 +60,3 @@ The catalog item is created and available for other users to select when they cr
 
 **Parent Topic:**[Configuring Operational Technology Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-request-management/configuring-operational-technology-request-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

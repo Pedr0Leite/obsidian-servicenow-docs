@@ -22,7 +22,7 @@ Role required: contract\_manager
 
 ## About this task
 
-Use the [[c_ContractManagement|Contract Management]] application to set a software license as enterprise or subscription for the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+Use the Contract Management application to set a software license as enterprise or subscription for the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Procedure
 
@@ -61,7 +61,3 @@ Use the [[c_ContractManagement|Contract Management]] application to set a softwa
 
 **Parent Topic:**[Software licenses in the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_SoftwareLicenses.md)
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_AssetManagement|Asset Management]]

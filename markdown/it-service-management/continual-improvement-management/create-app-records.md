@@ -14,7 +14,7 @@ breadcrumb: [Create an improvement request, Continual Improvement Management, IT
 
 # Create application records from improvement initiatives
 
-Create records for integrated [[dex-workspace-application-tab|applications]] from improvement initiatives or CIM tasks to transform improvement initiatives into broader, actionable efforts to enable improvements across teams and processes.
+Create records for integrated applications from improvement initiatives or CIM tasks to transform improvement initiatives into broader, actionable efforts to enable improvements across teams and processes.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Create Project
 
 </td></tr><tr><td>
 
-[[cf-coaching-landing|Coaching]] opportunity
+Coaching opportunity
 
 </td><td>
 
@@ -114,7 +114,3 @@ The application record is created and UI changes display on the source improveme
 
 **Parent Topic:**[Create an improvement request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/create-cim-request.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]
-- [[cf-coaching-landing|Coaching]]

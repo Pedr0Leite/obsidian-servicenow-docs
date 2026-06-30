@@ -13,17 +13,17 @@ breadcrumb: [Configure, Purchase Order Management, Source-to-Pay Operations, Fin
 
 # Assigning priority to a purchase order
 
-[[purchase-order-table|Purchase order]] exceptions are automatically assigned a priority level to indicate the most urgent issues.
+Purchase order exceptions are automatically assigned a priority level to indicate the most urgent issues.
 
 Priority assignment calculation is done by using the **Set Impact and Urgency fields for Priority** business rule. A business rule is a server-side script that runs when a record is displayed, inserted, deleted, or when a table is queried. Admins can use business rules to change values in form fields automatically when the specified conditions are met.
 
-Priority is calculated by using the time remaining to resolve the exception before the requested delivery date \(urgency\) and the [[supplier|supplier]]'s proposed delivery deviation from the order request \(impact\).
+Priority is calculated by using the time remaining to resolve the exception before the requested delivery date \(urgency\) and the supplier's proposed delivery deviation from the order request \(impact\).
 
 The Priority field for purchase order exceptions can have one of the following values: Critical, High, Moderate, and Low.
 
 As an admin, you can configure the **Set Impact and Urgency fields for Priority** business rule to fit your business practices. To calculate impact and urgency level automatically based on the product model and supplier, use this business rule to create your own advanced configurations.
 
-**Parent Topic:**[[configure-purch-order-mgmt|Configure Purchase Order Management]]
+**Parent Topic:**[Configure Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/configure-purch-order-mgmt.md)
 
 **Related topics**  
 
@@ -34,8 +34,3 @@ As an admin, you can configure the **Set Impact and Urgency fields for Priority*
 
 [Domain separation and Purchase Order Management]()
 
-## Related
-
-- [[configure-purch-order-mgmt|Configure Purchase Order Management]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

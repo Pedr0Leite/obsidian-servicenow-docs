@@ -14,7 +14,7 @@ breadcrumb: [Using Procurement Case Management, Use, Sourcing and Procurement Op
 
 # Create a supplier case
 
-As a procurement specialist, with an additional [[supplier|supplier]] role of sn\_slm.manager, create a supplier case from the list view of [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to address your supplier-related business needs.
+As a procurement specialist, with an additional supplier role of sn\_slm.manager, create a supplier case from the list view of Source-to-Pay Workspace to address your supplier-related business needs.
 
 \[Omitted video\] Description: Demonstrates the procedure for creating a supplier case.
 
@@ -24,7 +24,7 @@ Role required: sn\_shop.procurement\_specialist and sn\_slm.manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[psd-overview|Procurement Case Management]]** &gt; **Source-to-Pay Workspace**.
+1.  Navigate to **All** &gt; **Procurement Case Management** &gt; **Source-to-Pay Workspace**.
 
 2.  On the list page, navigate to **All work** &gt; **Cases**.
 
@@ -61,8 +61,3 @@ Role required: sn\_shop.procurement\_specialist and sn\_slm.manager
 
 **Parent Topic:**[Using Procurement Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/using-pcm.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[psd-overview|Procurement Case Management]]

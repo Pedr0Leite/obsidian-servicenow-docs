@@ -14,7 +14,7 @@ breadcrumb: [Advanced ACL configuration, Access Control List Rules, Access Manag
 
 # ACL debugging tools
 
-Field level debugging and access ACL rule output messages are available to help you troubleshoot and debug ACLs. The [[c_ACLConfigWatcher|ACL configuration watcher]] lets you know what related ACLs exist when you modify one.
+Field level debugging and access ACL rule output messages are available to help you troubleshoot and debug ACLs. The ACL configuration watcher lets you know what related ACLs exist when you modify one.
 
 ## Field level debugging
 
@@ -132,6 +132,4 @@ You can perform these actions on the ACL debug output:
 
     \[Omitted image "ACL-hover.png"\] Alt text: Hover over an ACL check mark
 
-## Related
 
-- [[c_ACLConfigWatcher|ACL configuration watcher]]

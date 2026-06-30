@@ -29,7 +29,7 @@ Selecting a case opens a form with the following sections:
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
 2.  Click **Support** &gt; **Cases** in the portal header to view a list of cases related to the current user.
 
@@ -39,6 +39,4 @@ Selecting a case opens a form with the following sections:
 
     Your message becomes part of the case conversation. All responses from the agent are also included in the conversation.
 
-## Related
 
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]

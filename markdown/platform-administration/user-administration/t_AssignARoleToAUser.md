@@ -20,7 +20,7 @@ A user inherits roles from all groups to which they belong. You can also assign 
 
 Role required: user\_admin or admin
 
-When possible, simplify [[c_UserAdministration|user administration]] by assigning roles to groups. Create groups that contain all the roles necessary for specific personas, and then assign users to those groups.
+When possible, simplify user administration by assigning roles to groups. Create groups that contain all the roles necessary for specific personas, and then assign users to those groups.
 
 ## About this task
 
@@ -30,7 +30,7 @@ To grant the admin role to a user, you must also have the admin role. To grant t
 
 The System administrator\(admin\) role provides access to all system features, functions, and data, regardless of security constraints. Avoid assigning this role to your users when more targeted roles are available.
 
-You can't delete roles that are assigned to the group from [[user|the user record]]. You must remove the user from the group record.
+You can't delete roles that are assigned to the group from the user record. You must remove the user from the group record.
 
 **Note:** The **Collection** list displays only roles for applications and plugins that are installed on your instance. If a role does not appear, the corresponding application may not be installed.
 
@@ -51,7 +51,3 @@ You can't delete roles that are assigned to the group from [[user|the user recor
 
 **Parent Topic:**[Create a role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user-administration/t_CreateARole.md)
 
-## Related
-
-- [[c_UserAdministration|User administration]]
-- [[user|The User record]]

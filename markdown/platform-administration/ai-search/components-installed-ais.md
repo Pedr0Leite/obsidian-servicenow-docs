@@ -14,21 +14,21 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Components installed with AI Search
 
-Several types of components are installed with activation of the [[ia-ai-search|AI Search]] plugin, including [[c_ScheduledJobs|scheduled jobs]], tables, and user roles.
+Several types of components are installed with activation of the AI Search plugin, including scheduled jobs, tables, and user roles.
 
-To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
-**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [[find-components|Find components installed with an application]].
+**Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 ## Scheduled jobs installed
 
 |Scheduled job|Description|
 |-------------|-----------|
 |Aggregate Health Data for AIS Partition|Collects health check data for AI Search query nodes connected to your instance.|
-|AI Search Expire Rules|Marks [[result-improvement-rules-ais|result improvement rules]] as expired when their end date is in the past.|
+|AI Search Expire Rules|Marks result improvement rules as expired when their end date is in the past.|
 |AI Search Relevancy Data Processor|Processes search signal data as part of search profile relevancy model tuning by the machine learning relevancy feature.|
 |AIS Collect Ingestion Stats|Collects ingestion history statistics for indexed sources.|
-|AIS Derived Dictionary Auto Refresh|Refreshes derived [[typo-handling-ais|typo handling]] dictionaries when their refresh interval has elapsed.|
+|AIS Derived Dictionary Auto Refresh|Refreshes derived typo handling dictionaries when their refresh interval has elapsed.|
 |AIS Index Event Processor|Processes indexing events for indexed sources.|
 |AIS Index Event Queue Size Monitor|Monitors the size of the indexing queue during indexing of source records.|
 |AIS Index Purge Stale Document|Optimizes the search index by deleting stale documents.|
@@ -71,7 +71,7 @@ List of child tables defined for indexed sources.
 
 </td></tr><tr><td>
 
-[[ai-search-configuration|AI Search Configuration]] Attribute \[ais\_configuration\_attribute\]
+AI Search Configuration Attribute \[ais\_configuration\_attribute\]
 
 </td><td>
 
@@ -131,7 +131,7 @@ AI Search Genius Result Configuration \[ais\_genius\_result\_configuration\]
 
 </td><td>
 
-List of Genius Result [[clone-configurations-tab|configurations]].
+List of Genius Result configurations.
 
 </td></tr><tr><td>
 
@@ -287,7 +287,7 @@ List of relevancy model staging tasks performed by machine learning relevancy.
 
 </td></tr><tr><td>
 
-AI Search [[hs-results|Results]] Improvement Rule \[ais\_rule\]
+AI Search Results Improvement Rule \[ais\_rule\]
 
 </td><td>
 
@@ -422,14 +422,3 @@ None.
 
 **Note:** Avoid granting an admin role when more specialized roles are available.
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[find-components|Find components installed with an application]]
-- [[ia-ai-search|AI Search]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[typo-handling-ais|Typo handling]]
-- [[ai-search-configuration|AI Search configuration]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]

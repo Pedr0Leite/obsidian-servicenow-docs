@@ -14,16 +14,12 @@ breadcrumb: [Installed with Facilities Service Management, Activate Facilities S
 
 Table transform maps allows you to add spaces or details about spaces from other sources.
 
-[[FacilitiesLandingPage|Facilities Service Management]] adds the following table transform maps.
+Facilities Service Management adds the following table transform maps.
 
 |Table transform maps|Description|
 |--------------------|-----------|
 |Facilities level transform map|Helps the user quickly populate floor \(level\) data.|
 |Facilities transform map|Helps the user quickly populate space data, including associated users.|
 
-**Parent Topic:**[[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
+**Parent Topic:**[Installed with Facilities Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_InstallWFacServMgmnt.md)
 
-## Related
-
-- [[r_InstallWFacServMgmnt|Installed with Facilities Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

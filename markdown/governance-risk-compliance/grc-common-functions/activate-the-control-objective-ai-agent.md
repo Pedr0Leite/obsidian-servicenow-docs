@@ -15,13 +15,13 @@ breadcrumb: [Configure, Now Assist, Common GRC features, Governance, Risk, and C
 
 # Activate the Control Objective Change Agent
 
-Enable the [[control-objective-change-agent|Control Objective Change Agent]] in AI Agent Studio to automate compliance workflows using generative AI.
+Enable the Control Objective Change Agent in AI Agent Studio to automate compliance workflows using generative AI.
 
 ## Before you begin
 
 Role required: sn\_grc\_sharegenai.compliance\_library\_aiagent\_user
 
-Install the [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]] plugin \(sn\_irm\_gen\_ai\).
+Install the Now Assist for Integrated Risk Management \(IRM\) plugin \(sn\_irm\_gen\_ai\).
 
 ## Procedure
 
@@ -56,7 +56,3 @@ Use the **Testing** playground to [Manually test the execution of an AI agent](h
 
 If not done already, set up the Now Assist panel. For more information see, [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-## Related
-
-- [[control-objective-change-agent|Control Objective Change Agent]]
-- [[now-assist-for-irm|Now Assist for Integrated Risk Management \(IRM\)]]

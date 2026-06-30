@@ -18,11 +18,11 @@ Create a basic secret group to group any secrets, regardless of their criteria.
 
 Role required: admin
 
-Basic secret groups can contain any secret you add to them, regardless of their table, scope, or application. After creating it, you manually add secrets to the group. To create a group specifically for all secrets that share a common attribute such as those, [[client-access-example-3|create a secret group with criteria]] using the instructions in [[sm-create-criteria-group|Create a secret group with criteria]].
+Basic secret groups can contain any secret you add to them, regardless of their table, scope, or application. After creating it, you manually add secrets to the group. To create a group specifically for all secrets that share a common attribute such as those, create a secret group with criteria using the instructions in [Create a secret group with criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-create-criteria-group.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[secrets-management|Secrets Management]]** &gt; **Secret Groups**.
+1.  Navigate to **All** &gt; **Secrets Management** &gt; **Secret Groups**.
 
 2.  Select **New**.
 
@@ -84,7 +84,7 @@ Crypto Module
 
 </td><td>
 
-Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access [[ca-policies|policies]], see [Module access policy overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
+Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access policies, see [Module access policy overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
 
 </td></tr></tbody>
 </table>5.  Click **Submit**.
@@ -92,12 +92,5 @@ Select the cryptographic module to use with this group. This module encrypts and
     **Note:** When created, a secret group is inactive by default. Return to the group record and select **Active** to activate the group.
 
 
-**Parent Topic:**[[secrets-dashboard|Secrets Management dashboard]]
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
-## Related
-
-- [[sm-create-criteria-group|Create a secret group with criteria]]
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[client-access-example-3|Create a secret group with criteria]]
-- [[secrets-management|Secrets Management]]
-- [[ca-policies|Policies]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB based alert grouping, Mixed alert grouping, Alert grouping typ
 
 # Delete a CI relationship from CMDB Group CI Relations
 
-Delete a CMDB group CI relationship to limit available relationships for CMDB [[c_ServiceAnalyticsOverview|alert grouping]], helping to reduce noise and improve alert relevance.
+Delete a CMDB group CI relationship to limit available relationships for CMDB alert grouping, helping to reduce noise and improve alert relevance.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Administration** &gt; **CMDB Group CI Relations**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Administration** &gt; **CMDB Group CI Relations**.
 
 2.  Select the check box next to the CI relationship you want to delete.
 
@@ -34,7 +34,4 @@ Role required: evt\_mgmt\_admin
 
     The CI relationship is deleted.
 
-## Related
 
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_EM|Event Management]]

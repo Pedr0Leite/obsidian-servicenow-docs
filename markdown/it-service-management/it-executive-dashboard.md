@@ -149,8 +149,5 @@ The following indicators do not appear on the dashboard but are used in formulas
 -   Stage \(Requested Item\)
 -   State \(Change, Request, Problem\)
 
-**Parent Topic:**[[itsm-dashboards-content-pack|Legacy: Performance Analytics ITSM Dashboards]]
+**Parent Topic:**[Legacy: Performance Analytics ITSM Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-dashboards-content-pack.md)
 
-## Related
-
-- [[itsm-dashboards-content-pack|itsm dashboards content pack]]

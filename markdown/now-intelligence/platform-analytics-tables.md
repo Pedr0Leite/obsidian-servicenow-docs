@@ -12,7 +12,7 @@ breadcrumb: [Reference, Platform Analytics experience, Platform Analytics]
 
 # Platform Analytics tables
 
-The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations and dashboards and can be accessed through scripts.
+The following tables relate to Platform Analytics data visualizations and dashboards and can be accessed through scripts.
 
 ## Data visualization tables
 
@@ -37,10 +37,10 @@ The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Ana
 |Table|Description|
 |-----|-----------|
 |analytics\_dashboard|Parent table for all par\_dashboard\* and pa\_dashboard\* tables. This table holds all fields common to both Platform Analytics and Core UI dashboards.|
-|par\_automated\_kpi\_promin\_project|Stores references to [[process-mining|Process Mining]] maps that are on Platform Analytics dashboards.|
+|par\_automated\_kpi\_promin\_project|Stores references to Process Mining maps that are on Platform Analytics dashboards.|
 |par\_computed\_insight|Contains all standard proactive analytics insights|
 |par\_custom\_insight\_content|Contains all custom-built proactive analytics insights|
-|par\_dashboard|Contains all dashboards in the dashboard library. [[technical-dashboards|Technical dashboards]] can be identified by belonging to the Advanced Dashboards experience. Extends sys\_metadata.|
+|par\_dashboard|Contains all dashboards in the dashboard library. Technical dashboards can be identified by belonging to the Advanced Dashboards experience. Extends sys\_metadata.|
 |par\_dashboard\_cache|Stores all changes to Platform Analytics dashboard layouts.|
 |par\_dashboard\_canvas|Stores the names, descriptions, and layouts of Platform Analytics dashboards and dashboard tabs. Extends sys\_metadata.|
 |par\_dashboard\_config|Contains the macroponent definitions for each type of data visualization that you can create inside a dashboard. Extends sys\_metadata.|
@@ -48,9 +48,9 @@ The following tables relate to [[c_performanceAnalyticsAndReporting|Platform Ana
 |par\_dashboard\_permission|Contains the role, group, and user permissions for all dashboards in the dashboard library. Extends sys\_metadata.|
 |par\_dashboard\_tab|Contains the name, domain, application scope, and parent dashboard of all Platform Analytics dashboard tabs. Extends sys\_metadata.|
 |par\_dashboard\_user\_metadata|Contains all options set by a dashboard viewer that persist between that viewer's user sessions. Extends sys\_metadata.|
-|par\_dashboard\_visibility|Cross-references all [[find-dashboard-library|dashboards in the library]] by which experiences and workspaces contain them. Extends sys\_metadata.|
+|par\_dashboard\_visibility|Cross-references all dashboards in the library by which experiences and workspaces contain them. Extends sys\_metadata.|
 |par\_dashboard\_widget|Cross-references all components that appear on dashboards by the dashboard canvas and the library component, if any. Extends sys\_metadata.|
-|par\_dashboard\_widget\_group|Contains the configuration for a set of grouped [[widgets|widgets]] including name, coordinates, and color properties for border and background.|
+|par\_dashboard\_widget\_group|Contains the configuration for a set of grouped widgets including name, coordinates, and color properties for border and background.|
 |par\_dashboard\_widget\_group\_mapping|Contains a mapping of elements in a widget group to those elements. Group this table by Elements Group to see the widgets in each group clearly.|
 |par\_export|Lists all scheduled dashboard and data visualization exports.|
 |par\_export\_dashboard|Stores the export details of all scheduled dashboard exports. Extends par\_export.|
@@ -94,13 +94,5 @@ Analytics Library Scan Executions
 Stores the logs of the scheduled library management jobs
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[platform-analytics-exp-reference|Platform Analytics experience reference]]
+</table>**Parent Topic:**[Platform Analytics experience reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-exp-reference.md)
 
-## Related
-
-- [[platform-analytics-exp-reference|Platform Analytics experience reference]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[process-mining|Process Mining]]
-- [[technical-dashboards|Technical dashboards]]
-- [[find-dashboard-library|Dashboards in the library]]
-- [[widgets|Widgets]]

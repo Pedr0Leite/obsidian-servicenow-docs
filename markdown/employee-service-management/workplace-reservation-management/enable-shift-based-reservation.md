@@ -32,7 +32,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Shift Management** &gt; **All**.
+1.  Navigate to **Workplace Core** &gt; **Shift Management** &gt; **All**.
 
 2.  Select the shift to which you want to assign spaces and users.
 
@@ -71,7 +71,7 @@ Role required: sn\_wsd\_core.workplace\_manager
 
 The users and spaces are assigned to the shift. When an employee wants to make a shift reservation, the Reservation portal displays the following information:
 
--   The shifts for which the employee can [[reservation-portal|make a reservation]].
+-   The shifts for which the employee can make a reservation.
 -   The spaces that are available for reservation in the selected shift.
 
 **Parent Topic:**[Reserve workplace items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reserve-workplace-items.md)
@@ -111,7 +111,3 @@ The users and spaces are assigned to the shift. When an employee wants to make a
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[reservation-portal|Make a reservation]]

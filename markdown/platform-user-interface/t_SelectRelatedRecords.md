@@ -45,7 +45,7 @@ Role required: none
         The new record is added to the related table and to the related list of the record.
 
 
-**Parent Topic:**[[c_RelatedLists|Related lists]]
+**Parent Topic:**[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)
 
 **Related topics**  
 
@@ -62,6 +62,3 @@ Role required: none
 
 [Create a default filter for list selector records]()
 
-## Related
-
-- [[c_RelatedLists|Related lists]]

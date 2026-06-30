@@ -18,7 +18,7 @@ Operational risk managers manage operational risks such as losses due to errors,
 
 ## Operational risk manager
 
-Operational risk managers are a part of the operational risk team that manages the risk posture of the organization. Risk posture is the current [[tprm-risk-profile-what-is|risk profile]] for a company. As an operational risk manager, you must perform the following tasks.
+Operational risk managers are a part of the operational risk team that manages the risk posture of the organization. Risk posture is the current risk profile for a company. As an operational risk manager, you must perform the following tasks.
 
 -   **Define the operational risk framework**
 
@@ -34,23 +34,23 @@ Operational risk managers are a part of the operational risk team that manages t
 
     -   Creating risk statements: A risk statement is used to record a risk in a way that everyone can reach a common agreement on its severity or relative priority.
     -   Creating control objectives: A control objective defines the aim or purpose of risk-mitigating controls. These controls need continuous monitoring.
-    -   Defining [[entity-class-in-risk-ws|entity classes]], [[entity-type-in-risk-ws|entity types]], and entities: For more information on entities, see [Understanding entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage-entities.md).
+    -   Defining entity classes, entity types, and entities: For more information on entities, see [Understanding entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/manage-entities.md).
     -   Defining the upstream and downstream entities.
     The first step is to set up risk statements so that your team has a specific idea of the risk. For example, simply calling a risk as a cybersecurity risk is not specific. Cybersecurity risks could mean different things to different people. Therefore, a common statement to define cybersecurity is created as a risk statement. To create risk statements and their hierarchy, clearly define the risk impact, the assets at risk, and the source of risk. By defining the risk statements and creating their hierarchy, you can ensure that the risk scores are aggregated thus giving the complete risk status.
 
--   **Conduct [[risk-assessments|risk assessments]] on a periodic basis**
+-   **Conduct risk assessments on a periodic basis**
 
     Perform the annual risk assessments according to your organization's policies. Also, ensure that the risk register is updated and accurate. Create risk assessment scopes and schedule assessments. To learn more about risk registers, see [Risk register in the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-register-workspace.md).
 
 -   **Record and monitor risk events**
 
-    Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization. To effectively manage risks, it is essential to monitor risk events, perform a root-cause analysis, and track the remedial tasks. Organizations [[use-risk-events|use risk events]] to understand their losses and analyze areas of improvement to reduce further losses. You must maintain the loss event register to capture complete event information and to suggest additional controls to mitigate risks in the future.
+    Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization. To effectively manage risks, it is essential to monitor risk events, perform a root-cause analysis, and track the remedial tasks. Organizations use risk events to understand their losses and analyze areas of improvement to reduce further losses. You must maintain the loss event register to capture complete event information and to suggest additional controls to mitigate risks in the future.
 
 -   **Define key risk indicators**
 
     Monitor the risk posture of your enterprise on a continuous basis. Continuous monitoring of risks and controls involves identifying and creating key risk and control indicators. Supporting information can be collected for those indicators through automatic data collection or manual tasks. Indicator results are then used to create issues for controls, signal a change in the risk posture, and to provide supporting information for audit activities and control testing. If the indicator thresholds are breached, you must escalate to the respective stakeholders.
 
--   **[[manage-issues-common-core|Manage issues]] and incidents**
+-   **Manage issues and incidents**
 
     An issue is created when there is a change in the environment, process, or system that poses a threat. An issue requires action to prevent an incident or loss. An incident is a successful outcome or event with a negative impact. As the operational risk manager, you can view, create, and manage issues and incidents. Ensure tracking, proper closure, remediation, and monitoring of issues and incidents.
 
@@ -147,11 +147,3 @@ Create aggregated risk reports
 
 [Roles installed with the GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/roles-installed-with-risk-ws.md)
 
-## Related
-
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[risk-assessments|risk assessments]]
-- [[use-risk-events|use risk events]]
-- [[manage-issues-common-core|Manage issues]]

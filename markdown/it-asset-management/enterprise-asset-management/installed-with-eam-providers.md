@@ -38,7 +38,7 @@ Provider asset manager
 
 </td><td>
 
-Manages all DaaS-related activities, including the fulfillment of [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) requests.
+Manages all DaaS-related activities, including the fulfillment of Return Merchandise Authorization \(RMA\) requests.
 
 </td><td>
 
@@ -64,7 +64,7 @@ sn\_eam.asset\_technician
 
 |Name|Description|
 |----|-----------|
-|ITAM Common forDaaS \(sn\_daas\_common\)|Provides [[am-landing-page|asset management]] services to DaaS providers, vendors, and manufacturers to support their DaaS offerings.|
+|ITAM Common forDaaS \(sn\_daas\_common\)|Provides asset management services to DaaS providers, vendors, and manufacturers to support their DaaS offerings.|
 
 ## Tables installed
 
@@ -119,7 +119,3 @@ Information about each asset that is associated with your inbound asset orders, 
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise Asset Management for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-providers.md)
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[am-landing-page|Asset Management]]

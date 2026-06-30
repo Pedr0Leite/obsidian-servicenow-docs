@@ -18,7 +18,7 @@ View software usage records to track the usage of software products that you hav
 
 ## About this task
 
-If you’re [[using-sam-workspace|using Software Asset Workspace]], the option to view or create software usage in Core UI is inactive.
+If you’re using Software Asset Workspace, the option to view or create software usage in Core UI is inactive.
 
 The Software Usage \[samp\_sw\_usage\] table tracks down usage to the product level and not to the version or edition level.
 
@@ -37,7 +37,7 @@ Use the following steps to create software usage records manually.
     |Interface|Action|
     |---------|------|
     |**Core UI**|Navigate to **All** &gt; **Software Asset** &gt; **Discovery** &gt; **Software Usage**.|
-    |**[[sam-workspace|Software Asset Workspace]]**|Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Discovery** &gt; **Software usage**.|
+    |**Software Asset Workspace**|Navigate to **Workspaces** &gt; **Software Asset Workspace** &gt; **License operations** &gt; **Discovery** &gt; **Software usage**.|
 
 2.  Select **New**.
 
@@ -153,7 +153,3 @@ After the software usage is created, you can view it by navigating to **License 
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]

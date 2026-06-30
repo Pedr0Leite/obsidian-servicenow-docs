@@ -41,7 +41,7 @@ Model categories
 List of model categories that maps to a CI class. The model categories are part of the Product Catalog application.**Note:**
 
 -   The instance is created in the mapped CI class of the selected model category.
--   To achieve the [[telecom-network-inventory|Telecommunications Network Inventory]] functionalities, choose one of the following options:
+-   To achieve the Telecommunications Network Inventory functionalities, choose one of the following options:
     -   Equipment rack
     -   Cabinet
     -   Slot
@@ -211,6 +211,3 @@ Option that designates if this network asset is certified.
 
 [Create inventory models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/creating-your-inventory-models.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

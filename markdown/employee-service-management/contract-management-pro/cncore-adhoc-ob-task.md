@@ -38,7 +38,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d300262e73">
 
-**[[cncore-contract-workspace|Contract Workspace]]**
+**Contract Workspace**
 
 </td><td>
 
@@ -81,6 +81,3 @@ The obligation task is created and the assigned user is notified through email.
 
 **Parent Topic:**[Create obligation records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-create-obligations.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]

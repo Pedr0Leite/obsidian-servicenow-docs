@@ -12,7 +12,7 @@ breadcrumb: [Data policy, Administer, Field administration, Forms, fields, and l
 
 # Convert a data policy to a UI policy
 
-Convert a data policy to a UI policy if a [[c_DataPolicy|data policy]] already exists but needs to apply only to records created or updated in the browser.
+Convert a data policy to a UI policy if a data policy already exists but needs to apply only to records created or updated in the browser.
 
 ## Before you begin
 
@@ -34,9 +34,6 @@ Converting deactivates the data policy. The new UI policy is applied only at the
 
 3.  Edit the fields on the UI policy record as necessary.
 
-    For details about the fields, see [[t_CreateAUIPolicy|Create a UI Policy]].
+    For details about the fields, see [Create a UI Policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAUIPolicy.md).
 
-## Related
 
-- [[t_CreateAUIPolicy|Using UI policies]]
-- [[c_DataPolicy|Data policy]]

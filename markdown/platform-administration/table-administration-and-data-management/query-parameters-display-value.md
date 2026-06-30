@@ -14,11 +14,11 @@ breadcrumb: [Data export reference, Exporting data, Tables and data, Configure c
 
 # Query parameters for display value and header
 
-Use query [[r_DirectJDBCProbeParameters|parameters]] to export the display value or raw value of fields and the field label or field name for headers.
+Use query parameters to export the display value or raw value of fields and the field label or field name for headers.
 
-Query parameters control the output for CSV, XLS, JSON, XLSX, and XML file formats. Query parameters, if present, override [[r_SetArchiveRuleProcessingBehavior|system properties]].
+Query parameters control the output for CSV, XLS, JSON, XLSX, and XML file formats. Query parameters, if present, override system properties.
 
-The following table describes each of the query parameters that control [[c_DisplayValues|display values]] and headers.
+The following table describes each of the query parameters that control display values and headers.
 
 <table id="table_ps3_vz3_hbb"><thead><tr><th>
 
@@ -92,8 +92,3 @@ Exports the CSV, XLS, and XLSX file formats with the field label \(**true**\) or
 
 **Parent Topic:**[Data export reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/data-export-reference.md)
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_DisplayValues|Display values]]

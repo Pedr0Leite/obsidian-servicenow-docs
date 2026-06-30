@@ -14,7 +14,7 @@ breadcrumb: [Activate External User Self-Registration, Self-register to ServiceN
 
 # External roles in self-registration
 
-To prevent inadvertently providing access to external [[users|users]], you can assign the snc\_external role to all external users.
+To prevent inadvertently providing access to external users, you can assign the snc\_external role to all external users.
 
 External users that self-register must be assigned the snc\_external role, which has the least privileges. The snc\_external role indicates that the user is external to your organization and should not have any access to resources unless explicitly allowed through ACLs for the snc\_external role or additional roles that inherit the snc\_external role.
 
@@ -26,6 +26,3 @@ By default, users with the snc\_external role cannot access:
 
 Beginning with the Paris release, you must enable an exclude-list property to enforce the explicit assignment of snc\_external roles. For information about enabling the property, see [Prevent future internal role assignments for external users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/fix-csm-external-user-roles-task4.md).
 
-## Related
-
-- [[users|Users]]

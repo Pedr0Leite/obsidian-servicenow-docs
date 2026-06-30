@@ -18,8 +18,8 @@ When you customize or override a definition on a development instance, the Defin
 
 ## Prerequisites
 
--   My SN Instances registration is complete. See [[register-your-instance|Register your instance]].
--   Authentication is configured. See [[configure-basic-auth-method|Configure the Basic authentication method]] or [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]].
+-   My SN Instances registration is complete. See [Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md).
+-   Authentication is configured. See [Configure the Basic authentication method](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-basic-auth-method.md) or [Configure the OAuth authentication method development instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-oauth-auth-method.md).
 -   Role required: `sn_se.scan_engine_admin`.
 
 ## What syncs
@@ -30,15 +30,8 @@ The following definition states can be synchronized:
 -   Customized definitions where default behavior has been modified.
 -   Overridden definitions where the default has been replaced entirely.
 
--   **[[sync-new-customized-overridden-defs|Sync definitions]]**  
+-   **[Sync definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/sync-new-customized-overridden-defs.md)**  
 Enable definition synchronization and push new, customized, or overridden definitions from a development instance to production.
 
-**Parent Topic:**[[instance-integration-scan-engine|Scan Engine integrations]]
+**Parent Topic:**[Scan Engine integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-integration-scan-engine.md)
 
-## Related
-
-- [[register-your-instance|Register your instance]]
-- [[configure-basic-auth-method|Configure the Basic authentication method]]
-- [[configure-oauth-auth-method|Configure the OAuth authentication method development instance]]
-- [[sync-new-customized-overridden-defs|Sync definitions]]
-- [[instance-integration-scan-engine|Scan Engine integrations]]

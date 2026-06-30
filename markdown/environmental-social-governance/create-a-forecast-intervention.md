@@ -63,7 +63,7 @@ For example, if your formula is as follows:
 **Note:**
 
 -   The fields displayed vary based on the operands chosen in the CMD formula and differ according to the specific CMD.
--   These fields appear when creating an analysis context with a metric definition selected in the **Type** field and a calculated metric definition selected in the **Metric definition** field. For more information, refer to [[create-an-analysis-context|Create an analysis context]].
+-   These fields appear when creating an analysis context with a metric definition selected in the **Type** field and a calculated metric definition selected in the **Metric definition** field. For more information, refer to [Create an analysis context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-an-analysis-context.md).
 
 
 </td></tr><tr><td>
@@ -92,13 +92,7 @@ Choose an adjustment type absolute \(123\) or percentage \(%\) and enter the cor
 
 ## What to do next
 
-After creating and publishing multiple analyses and forecasts, you can compare the analyses and view a graph that captures the data for each analysis you select. For more information on viewing a Comparison graph see, [[create-forecast-comparison|Create a forecast comparison graph]]. For more information on creating analyses, see [[create-a-scenario-analysis|Create an analysis]].
+After creating and publishing multiple analyses and forecasts, you can compare the analyses and view a graph that captures the data for each analysis you select. For more information on viewing a Comparison graph see, [Create a forecast comparison graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-forecast-comparison.md). For more information on creating analyses, see [Create an analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-a-scenario-analysis.md).
 
-**Parent Topic:**[[set-up-scenarios|Set up analysis contexts and analyses]]
+**Parent Topic:**[Set up analysis contexts and analyses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/set-up-scenarios.md)
 
-## Related
-
-- [[create-an-analysis-context|Create an analysis context]]
-- [[create-forecast-comparison|Create a forecast comparison graph]]
-- [[create-a-scenario-analysis|Create an analysis]]
-- [[set-up-scenarios|Set up analysis contexts and analyses]]

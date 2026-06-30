@@ -12,7 +12,7 @@ breadcrumb: [Sales and Service API Core, Lead-to-cash foundation apps, Configure
 
 # Outbound Request
 
-Initiate outbound requests to manage service orders by interacting with external Service [[explore-order-management|Order Management]] \(SOM\) to facilitate end-to-end [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]]. This process requires specific roles and is enabled via bi-directional REST API integration with Order Management for [[sales-and-services-api-core|Sales and Service API Core]].
+Initiate outbound requests to manage service orders by interacting with external Service Order Management \(SOM\) to facilitate end-to-end order fulfillment. This process requires specific roles and is enabled via bi-directional REST API integration with Order Management for Sales and Service API Core.
 
 ## Overview of the Outbound Request table
 
@@ -108,14 +108,7 @@ Document ID
 **Related topics**  
 
 
-[[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
+[Using lead-to-cash foundation applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-foundation.md)
 
-[[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
+[Lead-to-cash foundation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-lead-cash-foundation.md)
 
-## Related
-
-- [[using-lead-cash-foundation|Using lead-to-cash foundation applications]]
-- [[reference-lead-cash-foundation|Lead-to-cash foundation reference]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[sales-and-services-api-core|Sales and Service API Core]]

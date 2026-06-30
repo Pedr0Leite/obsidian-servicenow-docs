@@ -47,8 +47,5 @@ Role required: sn\_nowassist\_admin.nsa\_admin
     9.  Select **Continue to Test Chat Response** to initiate the testing of the agentic workflow.
 
 
-**Parent Topic:**[[activate-carbon-calculations-agentic-workflow|Activate carbon calculations agentic workflow]]
+**Parent Topic:**[Activate carbon calculations agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-carbon-calculations-agentic-workflow.md)
 
-## Related
-
-- [[activate-carbon-calculations-agentic-workflow|Activate carbon calculations agentic workflow]]

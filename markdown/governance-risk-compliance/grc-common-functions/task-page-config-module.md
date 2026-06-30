@@ -22,7 +22,7 @@ GRC administrators perform task page configurations, including the workspaces, t
 
 In the homepage view of the workspace, the widgets displayed about the tasks such as My tasks and My group's work are configured using the UI Builder. Clicking these widgets in the homepage view directs the users to the Tasks page in the workspace.
 
-For the [[audit-management-overview-ws|Audit workspace]], Compliance workspace, Privacy workspace, and [[risk-workspace|Risk workspace]], the following pre-configured tabs are shipped by default:
+For the Audit workspace, Compliance workspace, Privacy workspace, and Risk workspace, the following pre-configured tabs are shipped by default:
 
 -   My pending tasks
 -   My group's tasks
@@ -49,7 +49,3 @@ GRC administrators can configure the names of the task configuration records tha
 
 **Parent Topic:**[Landing Page Configurations module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/admin-config-using-grc-common.md)
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[risk-workspace|risk workspace]]

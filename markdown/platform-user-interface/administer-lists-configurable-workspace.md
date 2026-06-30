@@ -14,37 +14,28 @@ breadcrumb: [Administer, Configurable Workspace UI, Configure UIs and portals, C
 
 Administer list features that aren't configured in UI Builder with components.
 
--   **[[live-list-updates-configurable-workspace|Configure live updates]]**
+-   **[Configure live updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/live-list-updates-configurable-workspace.md)**
 
-    Configure live updates for lists by adding the **glide.[[lists-configurable-workspace|lists]].live\_list\_enabled** system property.
+    Configure live updates for lists by adding the **glide.lists.live\_list\_enabled** system property.
 
--   **[[live-list-updates-page-level|Configure live updates for a list page]]**
+-   **[Configure live updates for a list page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/live-list-updates-page-level.md)**
 
-    [[configure-onboarding-modals|Configure]] live updates at the list page level without affecting other lists in your Configurable Workspace.
+    Configure live updates at the list page level without affecting other lists in your Configurable Workspace.
 
--   **[[exporting-lists-google-spreadsheets|Export to Google Sheets]]**
+-   **[Export to Google Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/exporting-lists-google-spreadsheets.md)**
 
     Configure lists in Configurable Workspace to export directly to Google Sheets.
 
--   **[[fetch-list-record-count-asynchronously|Configure record count background loading]]**
+-   **[Configure record count background loading](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/fetch-list-record-count-asynchronously.md)**
 
     Configure lists created from large tables to load the list record count in the background by using the **glide.ui.fetch.list.record.count.asynchronously** property.
 
--   **[[set-up-asynchronous-record-addition|Configure related list background loading]]**
+-   **[Configure related list background loading](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/set-up-asynchronous-record-addition.md)**
 
     Configure large selections of records added to a related list to load in the background for your entire workspace experience.
 
--   **[[configure-related-list-grouping|Group a related list by a field]]**
+-   **[Group a related list by a field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-related-list-grouping.md)**
 
     Configure a related list to group by a field.
 
-## Related
 
-- [[live-list-updates-configurable-workspace|Configure live updates for lists]]
-- [[live-list-updates-page-level|Configure live updates for a list page]]
-- [[exporting-lists-google-spreadsheets|Exporting lists to Google Sheets]]
-- [[fetch-list-record-count-asynchronously|Configure list record count to load in the background]]
-- [[set-up-asynchronous-record-addition|Configure related list background loading]]
-- [[configure-related-list-grouping|Group a related list by a field]]
-- [[lists-configurable-workspace|Lists]]
-- [[configure-onboarding-modals|Configure]]

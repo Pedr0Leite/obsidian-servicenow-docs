@@ -22,7 +22,7 @@ Role required: sn\_customerservice.customer
 
 This task describes how to create an invoice case using the playbook experience in the Business Portal. The playbook experience enables you to dispute various invoice discrepancies depending on the scope you select, including quantity, part number, billing location, and shipping location issues.
 
-Creating invoice cases using the Now Assist panel limits disputes to quantity issues only. For more information, see [[dispute-invoice-issues-now-assist|Dispute invoice issues using Now Assist Virtual Assistant]].
+Creating invoice cases using the Now Assist panel limits disputes to quantity issues only. For more information, see [Dispute invoice issues using Now Assist Virtual Assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/dispute-invoice-issues-now-assist.md).
 
 ## Procedure
 
@@ -32,7 +32,7 @@ Creating invoice cases using the Now Assist panel limits disputes to quantity is
 
 3.  Create a new invoice case.
 
-    1.  On the form, fill in the [[fields|fields]].
+    1.  On the form, fill in the fields.
 
 <table id="table_kph_1wl_1fc"><thead><tr><th>
 
@@ -109,7 +109,7 @@ Optional brief description.
 
     2.  On the Add invoice line item to case window, select one or more invoice lines and select **Add**.
 
-        For a description of the Add invoice line items to case list view, see [[invoice-line-item-business-portal|Invoice line item details on Business Portal]].
+        For a description of the Add invoice line items to case list view, see [Invoice line item details on Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-line-item-business-portal.md).
 
         Invoice case lines are created corresponding to the invoice records.
 
@@ -121,7 +121,7 @@ Optional brief description.
 
         If you no longer want to change an invoice case line item, select it, select the drop-down button next to **Edit**, and select **Delete** to remove it from the list of items to be modified.
 
-    4.  [[Modify|Modify]] any or all of the values in the Edit item dialog box.
+    4.  Modify any or all of the values in the Edit item dialog box.
 
         |Field|Description|
         |-----|-----------|
@@ -145,21 +145,12 @@ The invoice case is created with the invoice case lines corresponding to the inv
 
 ## What to do next
 
-Track the status of your invoice case. For more information, see [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]].
+Track the status of your invoice case. For more information, see [View invoice case details in the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-invoice-cases-business-portal.md).
 
-Follow up on your invoice case. For more information, see [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]].
+Follow up on your invoice case. For more information, see [Communicate and share supporting documents for an invoice case from Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/manage-invoice-cases-bp.md).
 
 **Related topics**  
 
 
-[[invoice-case-header-list-view|Invoice case details on the Business Portal]]
+[Invoice case details on the Business Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/invoice-case-header-list-view.md)
 
-## Related
-
-- [[dispute-invoice-issues-now-assist|Dispute invoice issues using Now Assist Virtual Assistant]]
-- [[invoice-line-item-business-portal|Invoice line item details on Business Portal]]
-- [[view-invoice-cases-business-portal|View invoice case details in the Business Portal]]
-- [[manage-invoice-cases-bp|Communicate and share supporting documents for an invoice case from Business Portal]]
-- [[invoice-case-header-list-view|Invoice case details on the Business Portal]]
-- [[fields|Fields]]
-- [[Modify|Modify]]

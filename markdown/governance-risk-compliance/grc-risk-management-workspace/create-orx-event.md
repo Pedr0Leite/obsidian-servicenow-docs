@@ -26,7 +26,7 @@ The ORX association enables operational and non-financial risk professionals to 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **External risk events** &gt; **ORX events**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **External risk events** &gt; **ORX events**.
 
 2.  Click **New**.
 
@@ -80,6 +80,3 @@ The ORX association enables operational and non-financial risk professionals to 
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

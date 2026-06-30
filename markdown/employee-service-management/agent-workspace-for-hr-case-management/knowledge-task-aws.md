@@ -14,7 +14,7 @@ breadcrumb: [Report a knowledge gap from a case in Agent Workspace for HR Case M
 
 # View assigned knowledge tasks in Agent Workspace for HR Case Management
 
-View your assigned knowledge tasks in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]] when a knowledge gap is reported in a case.
+View your assigned knowledge tasks in Agent Workspace for HR Case Management when a knowledge gap is reported in a case.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.kb\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: HR Workspace Lists icon\).
 
@@ -30,7 +30,4 @@ Role required: sn\_hr\_core.kb\_writer
 
 4.  Select the knowledge task that you want to work on.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

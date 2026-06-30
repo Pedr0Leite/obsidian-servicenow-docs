@@ -27,7 +27,7 @@ Generating a sample of a cluster filters the records for that cluster. Generatin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[predictive-intelligence-landing|Predictive Intelligence]]** &gt; **Clustering** &gt; **Solutions**.
+1.  Navigate to **All** &gt; **Predictive Intelligence** &gt; **Clustering** &gt; **Solutions**.
 
 2.  Select a clustering solution.
 
@@ -40,6 +40,3 @@ Generating a sample of a cluster filters the records for that cluster. Generatin
 
 The **ML Cluster Detail** list shows the top 25 records in the cluster. The cluster sample also applies to the cluster visualization.
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

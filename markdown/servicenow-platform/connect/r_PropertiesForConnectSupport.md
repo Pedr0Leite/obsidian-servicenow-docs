@@ -14,7 +14,7 @@ breadcrumb: [Connect Support administration, Connect Support, Connect, ServiceNo
 
 # Properties for Connect Support
 
-The [[c_ConnectSupport|Connect Support]] Properties page provides several configuration options specifically for Connect Support.
+The Connect Support Properties page provides several configuration options specifically for Connect Support.
 
 **Important:**
 
@@ -32,11 +32,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Should [[c_Connect|Connect]] be used for handling chat queue entriesglide.connect.support.enabled
+Should Connect be used for handling chat queue entriesglide.connect.support.enabled
 
 </td><td>
 
-Disables or enables Connect Support. When the property is enabled, the **Service Desk Chat** button in the Employee [[self-service-landing|Self-Service]] portal opens the conversation in Connect Support, rather than legacy chat. Additionally, the Support tab appears in the Connect sidebar.-   **Type**: true \| false
+Disables or enables Connect Support. When the property is enabled, the **Service Desk Chat** button in the Employee Self-Service portal opens the conversation in Connect Support, rather than legacy chat. Additionally, the Support tab appears in the Connect sidebar.-   **Type**: true \| false
 -   Default value: true
 -   Location: **Collaborate** &gt; **Support Administration** &gt; **Properties**
 
@@ -92,9 +92,3 @@ Determines how many closed conversations appear in a user's support conversation
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[self-service-landing|Self-service]]

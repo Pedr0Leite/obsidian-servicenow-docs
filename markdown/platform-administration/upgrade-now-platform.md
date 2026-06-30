@@ -23,9 +23,9 @@ Get the latest in ServiceNow® products and services on the ServiceNow AI Platfo
 [Upgrades and Conversions \[Omitted image "bus-management-console.svg"\] Alt text: Take advantage of tools to bring you the latest releases for your instance on the ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-landing-page.md)
 
 </td></tr></tbody>
-</table>## [[uc-landing-page|Upgrade Center]]
+</table>## Upgrade Center
 
-Plan for all your upgrades on the ServiceNow AI Platform, and get clear oversight of the process at every step. The Upgrade Center includes multiple options for each aspect of your upgrading plan. Explore various updates available to your infrastructure with Upgrade Preview, including detailed insights before actually upgrading. Visual task boards \(VTB\) in the Upgrade Center give you all the necessary info to manage your workflow post-upgrade, and past updates are detailed with the [[uc-history-module|Upgrade History module]]. Tie it all together with the Upgrade Monitor to plan, schedule, observe, and debug upgrades.
+Plan for all your upgrades on the ServiceNow AI Platform, and get clear oversight of the process at every step. The Upgrade Center includes multiple options for each aspect of your upgrading plan. Explore various updates available to your infrastructure with Upgrade Preview, including detailed insights before actually upgrading. Visual task boards \(VTB\) in the Upgrade Center give you all the necessary info to manage your workflow post-upgrade, and past updates are detailed with the Upgrade History module. Tie it all together with the Upgrade Monitor to plan, schedule, observe, and debug upgrades.
 
 See [Upgrade Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-landing-page.md).
 
@@ -35,7 +35,3 @@ Keep your instance running smoothly during and after upgrading. ServiceNow AI Pl
 
 See [Upgrade Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-management/um-landing-page.md).
 
-## Related
-
-- [[uc-landing-page|Upgrade Center]]
-- [[uc-history-module|Upgrade History module]]

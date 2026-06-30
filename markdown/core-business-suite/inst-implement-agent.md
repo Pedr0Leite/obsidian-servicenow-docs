@@ -12,7 +12,7 @@ breadcrumb: [Configure, Core Business Suite]
 
 # Install Implementation agent
 
-Install the Implementation Agent to enable an admin home dashboard where you can access and set up [[cbs-landing|Core Business Suite]].
+Install the Implementation Agent to enable an admin home dashboard where you can access and set up Core Business Suite.
 
 ## Before you begin
 
@@ -55,12 +55,7 @@ Role required: admin
 
 ## What to do next
 
-Set up the Core Business Suite. For more information, see [[set-up-cbs|Install Core Business Suite Foundation]].
+Set up the Core Business Suite. For more information, see [Install Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/set-up-cbs.md).
 
-**Parent Topic:**[[configure-cbs|Configure Core Business Suite Foundation]]
+**Parent Topic:**[Configure Core Business Suite Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/configure-cbs.md)
 
-## Related
-
-- [[set-up-cbs|Install Core Business Suite Foundation]]
-- [[configure-cbs|Configure Core Business Suite Foundation]]
-- [[cbs-landing|Core Business Suite]]

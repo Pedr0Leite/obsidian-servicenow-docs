@@ -24,7 +24,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Open a project from the home page of [[project-workspace-landing-page|Project Workspace]].
+1.  Open a project from the home page of Project Workspace.
 
     For information, see [Access the new Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/access-new-project-workspace.md).
 
@@ -45,14 +45,14 @@ Role required: admin
 
 5.  Select **Save**.
 
-    Once you make the project confidential, the confidentiality setting is applied to the project, all sub projects, and entities such as cost plans, cost plan breakdowns, benefit plans, benefit plan breakdowns, expense lines, [[c_TimeCards|time cards]], status reports, baselines, story, investment object, [[t_CreateAProjectTask|project tasks]], resource plan, resource assignments, and RIDAC.
+    Once you make the project confidential, the confidentiality setting is applied to the project, all sub projects, and entities such as cost plans, cost plan breakdowns, benefit plans, benefit plan breakdowns, expense lines, time cards, status reports, baselines, story, investment object, project tasks, resource plan, resource assignments, and RIDAC.
 
     These will only be accessible to individuals who have been explicitly added to the project.
 
     This setting applies to all associated workspaces. If the project is marked confidential in one workspace, it is automatically made confidential across all other workspaces, including:
 
-    -   [[c_ProjectApplicationOverview|Project Management]] Workspace
-    -   [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
+    -   Project Management Workspace
+    -   Resource Management Workspace
     -   Strategic Portfolio Workspace
 
 **Parent Topic:**[Configuring security for a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configuring-security-for-a-project-in-pw.md)
@@ -62,10 +62,3 @@ Role required: admin
 
 [Configuring security for a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configuring-security-for-a-project-in-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[c_TimeCards|Time cards]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

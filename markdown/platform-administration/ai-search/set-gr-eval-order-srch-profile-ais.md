@@ -14,7 +14,7 @@ breadcrumb: [Genius Results, Search profiles, Configuring AI Search, AI Search, 
 
 # Set the evaluation order for Genius Result configurations in a search profile
 
-Change the order in which [[ia-ai-search|AI Search]] evaluates Genius Result [[clone-configurations-tab|configurations]] linked to a search profile.
+Change the order in which AI Search evaluates Genius Result configurations linked to a search profile.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## About this task
 
-AI Search evaluates active Genius Result configurations for a search profile in an order determined by their numeric **Order** field values, as defined in the search profile's [[genius-results-ais|Genius Results]] related list. Genius Result configurations with lower **Order** field values are evaluated before those with higher field values. As an example, a Genius Result configuration with **Order** 100 is evaluated before one with **Order** 200.
+AI Search evaluates active Genius Result configurations for a search profile in an order determined by their numeric **Order** field values, as defined in the search profile's Genius Results related list. Genius Result configurations with lower **Order** field values are evaluated before those with higher field values. As an example, a Genius Result configuration with **Order** 100 is evaluated before one with **Order** 200.
 
 **Note:** **Order** field values for linked Genius Result configurations are set separately for each search profile. A Genius Result configuration that's linked to multiple search profiles can have a different **Order** field value in each profile. For instance, you might set an **Order** value of 100 for the Q&amp;A Genius Result configuration in one search profile but set a value of 750 for the same Genius Result configuration in a second search profile that it's linked to.
 
@@ -45,8 +45,3 @@ To make changes in the **Order** field values take effect, publish the search pr
 
 **Parent Topic:**[Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-results-ais|Genius Results]]

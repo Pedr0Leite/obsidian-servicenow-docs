@@ -24,7 +24,7 @@ With Teams, you can do the following:
 -   View the KPIs between the selected date range.
 -   Drill down into a Team level KPI to view the split of KPIs across all individual team members.
 -   View the KPI trend to analyze the future forecasts for each of the KPIs, if the date range has the latest values.
--   Drill down to the individual agent level to view a 360-degree view of the current work, historical KPIs, presence history, channel [[capacity|capacity]] utilization, skills, and upcoming agent time-offs.
+-   Drill down to the individual agent level to view a 360-degree view of the current work, historical KPIs, presence history, channel capacity utilization, skills, and upcoming agent time-offs.
 
 ## Analyze the performance trends for your teams
 
@@ -42,7 +42,7 @@ Role required: sn\_wfo\_fsm.manager
 
 3.  Select a date range to view your teams' performance for that time period.
 
-    You can set the default date range using the sn\_team\_perf.default\_date\_range property. For more information, see [[components-wfo-fsm|Workforce Optimization for Field Service components]].
+    You can set the default date range using the sn\_team\_perf.default\_date\_range property. For more information, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md).
 
 4.  Analyze team performance.
 
@@ -83,7 +83,4 @@ Select the **Tasks** tab and analyze all cases related to the team.-   To view t
 </td></tr></tbody>
 </table>    You can also review cases, details of assignment groups, additional managers, and information relevant to the team.
 
-## Related
 
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]
-- [[capacity|Capacity]]

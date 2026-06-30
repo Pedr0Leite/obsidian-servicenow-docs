@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Configuring Enterprise Asset Management
 
-Configure the [[enterprise-asset-management|Enterprise Asset Management]] application to manage the life cycle of your enterprise connected and non connected assets.
+Configure the Enterprise Asset Management application to manage the life cycle of your enterprise connected and non connected assets.
 
 ## Configuration overview
 
@@ -48,7 +48,7 @@ Required to use the Enterprise Asset Management application.
 
 </td></tr><tr><td>
 
-[[optin-cs-eam|Opt-in to the Enterprise Asset Management Content Service]]
+Opt-in to the Enterprise Asset Management Content Service
 
 </td><td>
 
@@ -62,11 +62,11 @@ Optional. This task enables your organization to share unnormalized enterprise m
 
 </td></tr><tr><td>
 
-Install the [[eam-for-healthcare|Enterprise Asset Management for Healthcare]] application
+Install the Enterprise Asset Management for Healthcare application
 
 </td><td>
 
-Optional. This application provides functionalities, features, and workflows of Enterprise Asset Management that support healthcare-related roles and asset [[c_Models|models]]
+Optional. This application provides functionalities, features, and workflows of Enterprise Asset Management that support healthcare-related roles and asset models
 
 </td><td>
 
@@ -76,7 +76,7 @@ Optional. This application provides functionalities, features, and workflows of 
 
 </td></tr><tr><td>
 
-Install [[ot-asset-management|OT Asset Management]] application
+Install OT Asset Management application
 
 </td><td>
 
@@ -90,7 +90,7 @@ Optional. This application helps you to manage assets of the Industrial model ca
 
 </td></tr><tr><td>
 
-Install the [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]] application
+Install the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application
 
 </td><td>
 
@@ -102,7 +102,7 @@ Optional. This application provides the functionalities, features, and workflows
 
 </td></tr><tr><td>
 
-Install the [[eam-providers|Enterprise Asset Management for Providers]] application
+Install the Enterprise Asset Management for Providers application
 
 </td><td>
 
@@ -126,13 +126,3 @@ Optional. This application provides demo data for the Enterprise Asset Managemen
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[optin-cs-eam|Opt-in to the Enterprise Asset Management Content Service]]
-- [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
-- [[c_Models|Models]]
-- [[ot-asset-management|OT Asset Management]]
-- [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]]
-- [[eam-providers|Enterprise Asset Management for Providers]]

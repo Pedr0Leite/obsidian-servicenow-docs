@@ -14,7 +14,7 @@ breadcrumb: [Using Dispatcher Workspace, Assigning tasks from Dispatcher Workspa
 
 # Time zones in Dispatcher Workspace
 
-There are a few ways that dispatchers can choose to control the time zones that show on the calendar in [[dispatcher-activities|Dispatcher Workspace]].
+There are a few ways that dispatchers can choose to control the time zones that show on the calendar in Dispatcher Workspace.
 
 ## Using a single time zone on the calendar
 
@@ -62,6 +62,3 @@ When the resource time indicators are turned on:
 -   Tasks show on the calendar in Dispatcher Workspace in the task’s time zone. For example, if a technician in California has WOT123 scheduled for 1-2 Pacific Time assigned to them, and another task WOT456 scheduled for 1-2 Mountain Time also assigned to them, then the tasks show as overlapped on the calendar but they’re sequential. Alternatively, if a technician located in California has WOT123 scheduled for 8-9 Pacific Time assigned to them, and another task WOT456 scheduled for 10-11 Mountain Time also assigned to them, then the tasks show as one after another but there’s an hour gap between the two tasks.
 -   New events use the technician's time zone if there's one technician or if multiple technicians are added from the same zone. If you add more than one technician to the event and they’re in different time zones, then the dispatcher’s time zone is used. If you add a location to the event, then the location’s time zone takes priority and is used.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 # Split a remediation task
 
-From an existing remediation task in the [[vr-config-compliance-landing|Configuration Compliance]] application, identify a subset of test results that you want to move to a new Remediation Task.
+From an existing remediation task in the Configuration Compliance application, identify a subset of test results that you want to move to a new Remediation Task.
 
 **Important:** As an admin and a remediation owner, you can split a remediation task from the [Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vr-ws-exceptions-split-VMGR-ws.md) and [IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-split-task.md) respectively.
 
@@ -126,6 +126,3 @@ Use cases for splitting test results from existing Remediation Tasks into new ta
 
 You can create or associate change requests for your new remediation tasks. For more information, see [Associate a remediation task to an existing change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-CR-v12-assoc.md) and [Create a change request in Configuration Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuration-compliance/cc-CR-v12-create.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

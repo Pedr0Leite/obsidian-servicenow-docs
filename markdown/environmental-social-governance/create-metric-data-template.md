@@ -37,11 +37,7 @@ The metric import template must be used for importing historical metric data and
 
 ## What to do next
 
-Upload the complete metric import template as part of an metric import job. For more information, see [[import-metric-data|Import historical metric data and tasks]].
+Upload the complete metric import template as part of an metric import job. For more information, see [Import historical metric data and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/import-metric-data.md).
 
-**Parent Topic:**[[importing-metric-data|Importing historical metric data]]
+**Parent Topic:**[Importing historical metric data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/importing-metric-data.md)
 
-## Related
-
-- [[import-metric-data|Import historical metric data and tasks]]
-- [[importing-metric-data|Importing historical metric data]]

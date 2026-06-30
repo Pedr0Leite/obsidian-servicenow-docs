@@ -14,7 +14,7 @@ breadcrumb: [Upgrade Center references, Upgrade Center, Upgrade, Administer the 
 
 # Upgrade Center properties
 
-On the properties form, you can set [[r_DirectJDBCProbeParameters|parameters]] that control how the system executes.
+On the properties form, you can set parameters that control how the system executes.
 
 <table id="table_y3t_t15_flb"><thead><tr><th>
 
@@ -30,7 +30,7 @@ Queries upgrade duration estimate **glide.upgrade.preview.duration.instance.id**
 
 </td><td>
 
-A non-production instance queries the upgrade duration estimate. If this property is absent, the system uses all remote instance records to query the upgrade duration estimate. You can also copy the sys\_id of the remote instance record you wish to query for upgrade duration estimate. The system uses the highest duration from the [[hs-results|results]].
+A non-production instance queries the upgrade duration estimate. If this property is absent, the system uses all remote instance records to query the upgrade duration estimate. You can also copy the sys\_id of the remote instance record you wish to query for upgrade duration estimate. The system uses the highest duration from the results.
 
 </td></tr></tbody>
 </table><table id="table_mlx_3c5_flb"><thead><tr><th>
@@ -90,7 +90,3 @@ You must configure the instance either as a builder or a consumer. You must buil
 
 [Upgrade Center roles]()
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]
-- [[hs-results|Results]]

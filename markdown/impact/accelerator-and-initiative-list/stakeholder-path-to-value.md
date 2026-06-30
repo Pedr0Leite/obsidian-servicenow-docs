@@ -14,13 +14,13 @@ breadcrumb: [Strategy Accelerators, Accelerator catalog, View the Initiatives an
 
 # Stakeholder Path to Value
 
-The Stakeholder Path to Value Accelerator helps [[impact-landing-page|Impact]] customers accelerate the value creation through Stakeholder alignment.
+The Stakeholder Path to Value Accelerator helps Impact customers accelerate the value creation through Stakeholder alignment.
 
 ## Accelerator Overview
 
 The Stakeholder Path to Value Accelerator equips Impact squads and customers with deep qualitative insights into how process owners and key stakeholders utilize the ServiceNow platform to deliver vital services across the organization.
 
-This initiative focuses on understanding how critical applications are being used, whether they are delivering the expected value, and how Impact can [[io-help|help]] customers maximize their investment. Unlike traditional metrics-based approaches, this continuous improvement effort explores the 'why' and 'how' behind user behaviors, opinions, and experiences.
+This initiative focuses on understanding how critical applications are being used, whether they are delivering the expected value, and how Impact can help customers maximize their investment. Unlike traditional metrics-based approaches, this continuous improvement effort explores the 'why' and 'how' behind user behaviors, opinions, and experiences.
 
 These insights are instrumental in uncovering customer motivations, identifying opportunities to boost adoption and automation, and guiding Impact support strategies that align with business priorities. When combined with usage data and metrics from other accelerator programs, these insights provide a comprehensive view of adoption and ROI.
 
@@ -30,7 +30,7 @@ These insights are instrumental in uncovering customer motivations, identifying 
 
 ## Prerequisites
 
-[[foundations|Impact Foundations]] Activities along with documented [[vision-and-strategy|Vision and Strategy]].
+Impact Foundations Activities along with documented Vision and Strategy.
 
 ## What You Get
 
@@ -61,7 +61,7 @@ These insights are instrumental in uncovering customer motivations, identifying 
     -   Insights  summarized into business themes and priorities
     -   Refined partnership vision  aligned to your strategy
     -   Strategic roadmap with clear milestones
-    -   [[product-adoption|Product adoption]] roadmap to accelerate value realization
+    -   Product adoption roadmap to accelerate value realization
     -   Tactical action plan with next steps and ownership
     -   Access to leading practices and key resources to support execution
     Your Benefit: A clear, actionable plan to drive measurable impact across your organization.
@@ -79,7 +79,7 @@ These insights are instrumental in uncovering customer motivations, identifying 
 |Support Account Manager \(SAM\)|The SAM may attend any workshop interviews where they may benefit from increased customer engagement, or if they would like to gain knowledge in a specific area of the business or platform to better support the customer.| |✓|
 |Developer\(s\)|Makes changes within the ServiceNow platform to meet process requirements.| |✓|
 |Trusted Service Partners|Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customers going forward.| |✓|
-|Other Customer Roles|Primary stakeholders responsible for agent experience and engagement, including Customer Service Agents, team leaders and [[user-experience-insights|User Experience]] champions.| |✓|
+|Other Customer Roles|Primary stakeholders responsible for agent experience and engagement, including Customer Service Agents, team leaders and User Experience champions.| |✓|
 
 ## Requested Information / Access
 
@@ -89,11 +89,3 @@ Vision and strategy; objectives and outcomes, strategic roadmap, Product Adoptio
 
 ServiceNow is not responsible for the execution of Stakeholder Path to Value recommendations.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[foundations|Impact Foundations]]
-- [[vision-and-strategy|Vision and Strategy]]
-- [[product-adoption|Product Adoption]]
-- [[user-experience-insights|User Experience]]

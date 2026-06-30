@@ -18,23 +18,16 @@ Once a plan is published and cases are generated, tracking gives plan authors a 
 
 -   **Plan-level rollup** - A consolidated view of execution progress across all stores assigned to a published plan.
 -   **Drill-down navigation** - A structured path from a published plan through to parent HQ cases, store cases, and individual store tasks to enable managers to investigate specific delays without losing context.
--   **Consistent case access** - Parent and child cases are accessible from the plan record, plan type list, and [[rahi-retail-operations-overview|retail]] case views to eliminate the navigation friction that forces teams into ad-hoc case searches today.
+-   **Consistent case access** - Parent and child cases are accessible from the plan record, plan type list, and retail case views to eliminate the navigation friction that forces teams into ad-hoc case searches today.
 
 Store Plan Authoring handles the design and scheduling of plans to define tasks, link store locations, and trigger case generation on a schedule. Execution Tracking picks up from the point of publication and provides the operational oversight layer that Authoring does not cover.
 
--   **[[rahi-retail-stages-tracking-monitoring|Stages of store plan tracking and monitoring]]**  
+-   **[Stages of store plan tracking and monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-stages-tracking-monitoring.md)**  
 A store plan moves through distinct phases, each supported by specific screens and interactions. Tracking activates from the point of publication onward.
--   **[[rahi-retail-scenarios-tracking-store-plans|Scenarios for tracking store plans]]**  
+-   **[Scenarios for tracking store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-scenarios-tracking-store-plans.md)**  
 Tracking can support several operational goals.
--   **[[rahi-retail-implementation-details|Implementation details]]**  
+-   **[Implementation details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-implementation-details.md)**  
 The following table captures each screen in the tracking flow and the interaction pattern it uses.
 
-**Parent Topic:**[[rahi-retail-retail-multistore-operational-planning|Retail store plans]]
+**Parent Topic:**[Retail store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-multistore-operational-planning.md)
 
-## Related
-
-- [[rahi-retail-stages-tracking-monitoring|Stages of store plan tracking and monitoring]]
-- [[rahi-retail-scenarios-tracking-store-plans|Scenarios for tracking store plans]]
-- [[rahi-retail-implementation-details|Implementation details]]
-- [[rahi-retail-retail-multistore-operational-planning|Retail store plans]]
-- [[rahi-retail-operations-overview|Retail]]

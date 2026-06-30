@@ -14,7 +14,7 @@ breadcrumb: [Reference, Software Bill of Materials, Unified Security Exposure Ma
 
 # Create an application vulnerable item rule in the Software Bill of Materials Workspace
 
-Set up the conditions under which application vulnerable items \(AVITs\) are created automatically in the AVI Creation Rules module in the [[sbom-landing|Software Bill of Materials]] \(SBOM\) Workspace.
+Set up the conditions under which application vulnerable items \(AVITs\) are created automatically in the AVI Creation Rules module in the Software Bill of Materials \(SBOM\) Workspace.
 
 ## Before you begin
 
@@ -62,7 +62,7 @@ Execution order
 
 Order in which the rules are evaluated. The rule with the lowest numerical value runs first.
 
- For example, you might create higher priority rules for items that need special handling, or where risk is critical, so they are run first. Next, create general rules for items that require no special handling. Finally, create a default rule to catch any components that have [[vulnerabilities|vulnerabilities]].
+ For example, you might create higher priority rules for items that need special handling, or where risk is critical, so they are run first. Next, create general rules for items that require no special handling. Finally, create a default rule to catch any components that have vulnerabilities.
 
 </td></tr><tr><td>
 
@@ -97,7 +97,3 @@ After they are created, you can verify that an AVIT was created specifically for
 |Source|SBOM|
 |Scan type|SBOM-SCA|
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -16,7 +16,7 @@ breadcrumb: [Training your teams, Coaching, Workforce Optimization for ITSM, IT 
 
 Assess the quality of your teams' completed tasks. Use surveys to get feedback on from your team.
 
-**Note:** For detailed information on how to [[cf-create-survey-coaching-opportunity|create a survey and associate with a coaching opportunity]], see [Create a survey and associate with a Coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-survey-coaching-opportunity.md).
+**Note:** For detailed information on how to create a survey and associate with a coaching opportunity, see [Create a survey and associate with a Coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-survey-coaching-opportunity.md).
 
 -   **[Assess the quality of your agent's completed tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/assess-skills-automatically-configurable-workspace.md)**  
 Assess the ability of your agents to resolve incidents or the quality of their completed tasks.
@@ -27,6 +27,3 @@ Assign a published survey to agents or groups so that they can take the survey.
 
 **Parent Topic:**[Training your teams using Coaching in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/coaching-configurable-wfo-itsm.md)
 
-## Related
-
-- [[cf-create-survey-coaching-opportunity|Create a survey and associate with a Coaching opportunity]]

@@ -28,7 +28,7 @@ The **ValidateDanglingTransition** validator finds and reports any transitions t
 -   Valid Message: Valid
 -   Invalid Result: Invalid
 -   Invalid Message: Invalid
--   Suggested Action: Remove or [[c_Connect|connect]] the offending transition. Get the source activity name from the validation report details and resolve the issue. Then, run the validation again to test your changes.
+-   Suggested Action: Remove or connect the offending transition. Get the source activity name from the validation report details and resolve the issue. Then, run the validation again to test your changes.
 -   Publishable: No
 -   Runnable: No
 -   Related Information: None
@@ -41,8 +41,8 @@ To find and remove the faulted transition:
 
 1.  Make note of the workflow version and activity that contains the faulted transition as indicated in the validator details.
 2.  Navigate to **Workflow** &gt; **Administration** &gt; **Workflow Version**.
-3.  In the list of [[c_WorkflowVersions|workflow versions]], select the workflow that has the faulted transition.
-4.  On Workflow Version form, add the [[c_WorkflowActivities|workflow activities]] related list. Click the menu icon, select **Configure &gt; Related Lists**, move **Workflow Activity--&gt;Workflow Version** from the **Available** list to the **Selected** list, and click **Save**.
+3.  In the list of workflow versions, select the workflow that has the faulted transition.
+4.  On Workflow Version form, add the workflow activities related list. Click the menu icon, select **Configure &gt; Related Lists**, move **Workflow Activity--&gt;Workflow Version** from the **Available** list to the **Selected** list, and click **Save**.
 5.  In the **Workflow Activities** related list, select the activity cited in the validator.
 6.  In the Workflow Activity form, view the **Workflow Transitions** section or tab and identify the transition in that list that has no value or a null value in the **To** column.
 7.  Delete this transition.
@@ -52,8 +52,3 @@ The **Critical** warning should disappear. The workflow should execute as expect
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[c_Connect|Connect]]
-- [[c_WorkflowVersions|Workflow versions]]
-- [[c_WorkflowActivities|Workflow activities]]

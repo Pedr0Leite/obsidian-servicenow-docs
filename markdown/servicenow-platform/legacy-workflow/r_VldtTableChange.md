@@ -21,7 +21,7 @@ For example, a workflow version that is associated with the Change Request \[cha
 ## Validation summary
 
 -   Risk: If the current record at runtime does not originate from the table specified by the lowest common table, the activities for the lowest common table cannot set specific values.
--   Severity Level: Warning if the table that is associated with a workflow is higher in the table hierarchy than the lowest common table required for the [[c_WorkflowActivities|workflow activities]].
+-   Severity Level: Warning if the table that is associated with a workflow is higher in the table hierarchy than the lowest common table required for the workflow activities.
 -   Valid Result: Valid
 -   Valid Message: All activities are valid for the newly selected table
 -   Invalid Result: Invalid Activity
@@ -38,7 +38,7 @@ For example, a workflow version that is associated with the Change Request \[cha
 
 Navigate to **Workflow** &gt; **Administration** &gt; **Activity Definitions**. Note the **Table** column in the list. Each activity that is not global is associated with a table.
 
-When you select a table in the [[r_WorkflowProperties|Workflow Properties]] form, the activity menu presents only activities that are compatible with the selected table. Associating a table with a workflow activity enables the system to make certain decisions about the activity that affect value comparison, condition routing, or the setting and getting of field values in the current record.
+When you select a table in the Workflow Properties form, the activity menu presents only activities that are compatible with the selected table. Associating a table with a workflow activity enables the system to make certain decisions about the activity that affect value comparison, condition routing, or the setting and getting of field values in the current record.
 
 When a workflow is set to the Global \[global\] table, it is possible that the process executing the workflow ensures that the current record meets the requirements of the activities identified by this validator. In that case, the activity still works as expected. If that assurance cannot be guaranteed by the user process, do not use the activity identified by the validator without assigning a table that meets the requirements of all the activities on the canvas.
 
@@ -46,7 +46,3 @@ This validation check ensures that the table specified by all the activities in 
 
 **Parent Topic:**[Workflow validator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowValidator.md)
 
-## Related
-
-- [[c_WorkflowActivities|Workflow activities]]
-- [[r_WorkflowProperties|Workflow properties]]

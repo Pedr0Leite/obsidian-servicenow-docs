@@ -25,7 +25,7 @@ The ServiceNow® Workplace Reservation Management application makes it easier fo
 
 </td><td>
 
-[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Configure the application and setup the reservable modules and related settings for employees to [[reservation-portal|make a reservation]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/wsd-reservation-setup.md)
+[Configure \[Omitted image "bus-sdlc.svg"\] Alt text: Configure the application and setup the reservable modules and related settings for employees to make a reservation.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/wsd-reservation-setup.md)
 
 </td><td>
 
@@ -52,6 +52,3 @@ The ServiceNow® Workplace Reservation Management application makes it easier fo
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[reservation-portal|Make a reservation]]

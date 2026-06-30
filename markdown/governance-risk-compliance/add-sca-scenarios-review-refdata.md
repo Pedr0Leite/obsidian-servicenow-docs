@@ -27,7 +27,7 @@ The Scenarios step lets you select a scenario record. The Risk Events list in th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-opres-landing-page|Operational Resilience]]** &gt; **[[scenario-analysis-ov|Scenario Analysis]]** and open the Scenario Analysis record form.
+1.  Navigate to **All** &gt; **Operational Resilience** &gt; **Scenario Analysis** and open the Scenario Analysis record form.
 
 2.  In the Playbook stage panel, select **Scenarios**.
 
@@ -76,10 +76,5 @@ The **Scenarios** and **Reference Data** steps are complete. The playbook advanc
 
 ## What to do next
 
-For information on completing scenario testing, see [[complete-sca-scenario-testing|Start simulation and run scenario testing]].
+For information on completing scenario testing, see [Start simulation and run scenario testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/complete-sca-scenario-testing.md).
 
-## Related
-
-- [[complete-sca-scenario-testing|Start simulation and run scenario testing]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]

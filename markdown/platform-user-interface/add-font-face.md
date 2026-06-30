@@ -70,12 +70,7 @@ Font faces are applied individually to components, as needed. Theme Builder does
 
 ## Result
 
-Now that you have added a font face, [[tb-edit-components|you can apply it to individual components for more precise styling]]. For information on deleting a font family or font face, see [[delete-custom-font|Delete a custom font from your theme]].
+Now that you have added a font face, [you can apply it to individual components for more precise styling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-edit-components.md). For information on deleting a font family or font face, see [Delete a custom font from your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/delete-custom-font.md).
 
-**Parent Topic:**[[upload-custom-font|Upload a custom font to your theme]]
+**Parent Topic:**[Upload a custom font to your theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/upload-custom-font.md)
 
-## Related
-
-- [[tb-edit-components|Edit components]]
-- [[delete-custom-font|Delete a custom font from your theme]]
-- [[upload-custom-font|Upload a custom font to your theme]]

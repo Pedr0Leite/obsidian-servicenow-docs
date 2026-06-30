@@ -14,7 +14,7 @@ breadcrumb: [Create an external identity provider, Multi-Provider SSO configurat
 
 # Generate instance service provider \(SP\) metadata for SAML
 
-As part of your SSO [[sc-configuration|configuration]], you can generate the instance SP metadata to provide to the IdP.
+As part of your SSO configuration, you can generate the instance SP metadata to provide to the IdP.
 
 ## Before you begin
 
@@ -34,11 +34,11 @@ The IdP needs the instance SP metadata to authenticate and forward requests.
 
 </td><td>
 
-Navigate to **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**. Choose an IdP and click the **Generate Metadata** button. The integration automatically generates the instance's SP metadata from the system property settings.
+Navigate to **Multi-Provider SSO** &gt; **Identity Providers**. Choose an IdP and click the **Generate Metadata** button. The integration automatically generates the instance's SP metadata from the system property settings.
 
 </td></tr><tr><td id="d51031e95">
 
-**[[c_SAML2.0WebBrowserSSOProfile|SAML]] 2 SSO**
+**SAML 2 SSO**
 
 </td><td>
 
@@ -64,8 +64,4 @@ Navigate to **SAML 2 Single Sign-on** &gt; **Metadata**. The integration automat
 
     For example, SSOCircle allows a user to provide the SP metadata online.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

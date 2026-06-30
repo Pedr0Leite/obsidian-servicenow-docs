@@ -16,7 +16,7 @@ breadcrumb: [Exploring Certificate Inventory and Management, Certificate Invento
 
 Dedicated users with specialized roles are assigned to optimize the monitoring and tracking of requests for new and renewing certificates.
 
-The [[cert-inventory-mgmt|Certificate Inventory and Management]] dashboard and certificate configuration settings are activated or deactivated depending on the assigned roles.
+The Certificate Inventory and Management dashboard and certificate configuration settings are activated or deactivated depending on the assigned roles.
 
 <table id="table_o1v_pbq_31c"><thead><tr><th>
 
@@ -32,14 +32,14 @@ Certificate Administrator \[sn\_disco\_certmgmt.pki\_admin\]
 
 </td><td>
 
-The headless user \(an account not tied to a specific user\) is included in the base system and equipped with the **sn\_disco\_certmgmt.pki\_admin** role. It serves as the caller for automatically generated renewal certificate tasks and incidents. To customize this user, adjust the user ID using the [[r-discovery|Discovery]] property: **glide.discovery.certs.cert\_admin\_user\_id** instead of leaving it as the default headless user.
+The headless user \(an account not tied to a specific user\) is included in the base system and equipped with the **sn\_disco\_certmgmt.pki\_admin** role. It serves as the caller for automatically generated renewal certificate tasks and incidents. To customize this user, adjust the user ID using the Discovery property: **glide.discovery.certs.cert\_admin\_user\_id** instead of leaving it as the default headless user.
 
- Responsible for changing non-standard attributes in the original certificate record, this role can modify attributes like state, status, assigned to, assignment group, renewal tracking, and service type. The certificate's inherent attributes remain unaltered. The default state for discovered certificates is installed, but this role can manually adjust it to other states such as issued, installed, revoked, and retired. Additionally, users with this role have the capability to view diverse [[otto-aiops-dashboards|dashboards]] and possess read/write access to certificates and certificate tasks associated with certificate Discovery.
+ Responsible for changing non-standard attributes in the original certificate record, this role can modify attributes like state, status, assigned to, assignment group, renewal tracking, and service type. The certificate's inherent attributes remain unaltered. The default state for discovered certificates is installed, but this role can manually adjust it to other states such as issued, installed, revoked, and retired. Additionally, users with this role have the capability to view diverse dashboards and possess read/write access to certificates and certificate tasks associated with certificate Discovery.
 
  **Note:**
 
 -   The sn\_disco\_certmgmt.pki\_admin role contains the sn\_disco\_certmgmt.pki\_user role.
--   Any user with the pki\_admin role can be added to the approver field in the [[req-new-cert-form-table-fields|certificate request form]]. Users with pki\_admin role should be assigned with the approval\_admin role manually to approve or reject requests from the certificate task form. This approver does not need to login to approve the task. In a certificate task form or related list, system admin or a user with approval\_admin role or pki\_admin role can add multiple approvers or edit the existing one.
+-   Any user with the pki\_admin role can be added to the approver field in the certificate request form. Users with pki\_admin role should be assigned with the approval\_admin role manually to approve or reject requests from the certificate task form. This approver does not need to login to approve the task. In a certificate task form or related list, system admin or a user with approval\_admin role or pki\_admin role can add multiple approvers or edit the existing one.
 -   The approver\_user role is required if the user wants to approve a request by logging in. Without the approver\_user role, a user doesn't have the option to navigate to **My Approvals** where the requests can be approved.
 
 </td></tr><tr><td>
@@ -68,10 +68,3 @@ Responsible for submitting certificate requests, this role is granted the abilit
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[r-discovery|Discovery]]
-- [[otto-aiops-dashboards|Dashboards]]
-- [[req-new-cert-form-table-fields|Certificate request form]]

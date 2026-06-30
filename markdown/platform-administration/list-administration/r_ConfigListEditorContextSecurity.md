@@ -19,11 +19,8 @@ The list editor enforces existing access control rules \(ACLs\) and additional s
 The list\_edit security operation specifically controls the ability to edit information in a list. Apply this operation in the same manner as the write operation to limit list editing for fields that require the user to navigate to the form. Reasons you may require a user to edit a field in a form include complex UI policy constraints or other policies you have in place.
 
 -   write and list\_edit access to the field
--   write and list\_edit access to any [[c_SpecifyDependentFields|dependent fields]] of the field
+-   write and list\_edit access to any dependent fields of the field
 -   write and list\_edit access to any fields that depend on the field being edited
 
 To configure access controls, navigate to **System Security** &gt; **Access Controls**. The following examples use the list\_edit security operation to restrict list editing in certain contexts.
 
-## Related
-
-- [[c_SpecifyDependentFields|Dependent fields]]

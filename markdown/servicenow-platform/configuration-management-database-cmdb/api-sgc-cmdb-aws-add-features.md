@@ -14,7 +14,7 @@ breadcrumb: [AWS API Gateway, API Service Graph Connectors, Integrating third-pa
 
 # Additional features within the API Service Graph Connector for AWS API Gateway
 
-Use the additional features available within the [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]] to maximize its use for importing data.
+Use the additional features available within the API Service Graph Connector for AWS API Gateway to maximize its use for importing data.
 
 The following features are available within the API Service Graph Connector for AWS API Gateway:
 
@@ -26,6 +26,4 @@ The following features are available within the API Service Graph Connector for 
 
     Control the number of records fetched per API call by setting the **PageSize** connection property.
 
-## Related
 
-- [[api-sgc-aws-gateway|API Service Graph Connector for AWS API Gateway]]

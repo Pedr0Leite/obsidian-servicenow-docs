@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with MS Teams for GCC-H, Specialized VA integrations f
 
 # Auto-generate the manifest file and upload it into Microsoft Teams for GCC-Hor DoD
 
-After you complete integrating the bot on the ServiceNow instance, configure the manifest file, auto-generate it, and upload the package file to Microsoft Teams to start conversing with the [[virtual-agent-landing-page|Virtual Agent]].
+After you complete integrating the bot on the ServiceNow instance, configure the manifest file, auto-generate it, and upload the package file to Microsoft Teams to start conversing with the Virtual Agent.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ You need permission to upload custom apps in Microsoft Teams. To learn how to en
 
     \[Omitted image "msteams-confirm-snow-acnt-link.png"\] Alt text: Microsoft Teams account linking dialog box.
 
-    Account linking associates your Microsoft Teams account with your ServiceNow account for the ServiceNow instance that is integrated with the [[teams-conv-integration|Conversational Integration with Microsoft Teams]]. If your account is linked, you can run Virtual Agent topics that use ServiceNow information and records.
+    Account linking associates your Microsoft Teams account with your ServiceNow account for the ServiceNow instance that is integrated with the Conversational Integration with Microsoft Teams. If your account is linked, you can run Virtual Agent topics that use ServiceNow information and records.
 
     \[Omitted image "msteams-acnt-link-snow.png"\] Alt text: ServiceNow account linked with Microsoft Teams tenant.
 
@@ -73,7 +73,3 @@ You have successfully integrated Virtual Agent with Microsoft Teams using the se
 
 **Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams-gcch.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

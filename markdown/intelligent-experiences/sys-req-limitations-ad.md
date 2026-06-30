@@ -13,7 +13,7 @@ breadcrumb: [Reference, AI Desktop Actions, Enable AI experiences]
 
 # System requirements and limitations in AI Desktop Actions
 
-Be aware of system requirements and a few limitations when you’re using the [[agentic-desktop-landing-page|AI Desktop Actions]] application for defined desktop actions.
+Be aware of system requirements and a few limitations when you’re using the AI Desktop Actions application for defined desktop actions.
 
 **Note:** These system requirements and limitations apply to only defined desktop actions that are created in the AI Desktop Actions Windows application.
 
@@ -63,7 +63,7 @@ RPA Attended robot and AI Desktop Actions parallel execution
 
 </td><td>
 
-To avoid conflicts, do not run the [[agentic-desktop-excution-workspace|AI Desktop Actions Execution workspace]] and RPA Attended Desktop mode at the same time.
+To avoid conflicts, do not run the AI Desktop Actions Execution workspace and RPA Attended Desktop mode at the same time.
 
 </td></tr><tr><td>
 
@@ -87,7 +87,7 @@ Screen elements
 
 </td><td>
 
-During recording, auto-assignment accuracy of screen elements depends heavily on the target application’s technology and interface characteristics. Applications with strong accessibility support, such as well-defined UI elements and [[controls|controls]], stable rendering performance, and simple, consistent layouts enable anchors to be detected more reliably. In contrast, UI complexity, such as dynamic elements, frequent layout shifts, animations, or poor accessibility metadata can reduce accuracy and may require manual anchor configuration or additional tuning.
+During recording, auto-assignment accuracy of screen elements depends heavily on the target application’s technology and interface characteristics. Applications with strong accessibility support, such as well-defined UI elements and controls, stable rendering performance, and simple, consistent layouts enable anchors to be detected more reliably. In contrast, UI complexity, such as dynamic elements, frequent layout shifts, animations, or poor accessibility metadata can reduce accuracy and may require manual anchor configuration or additional tuning.
 
 </td></tr><tr><td>
 
@@ -95,7 +95,7 @@ Getting table information
 
 </td><td>
 
-The **Get Table** step doesn’t convert ordinary text to table data. For the step to capture table data successfully, the data must already be in the [[table-form|table form]].
+The **Get Table** step doesn’t convert ordinary text to table data. For the step to capture table data successfully, the data must already be in the table form.
 
 </td></tr><tr><td>
 
@@ -114,12 +114,5 @@ Sensitive information
 The sensitive information isn’t masked during recording. Confirm that you don’t record any sensitive information.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[agentic-desktop-reference|AI Desktop Actions reference]]
+</table>**Parent Topic:**[AI Desktop Actions reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-reference.md)
 
-## Related
-
-- [[agentic-desktop-reference|AI Desktop Actions reference]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[agentic-desktop-excution-workspace|AI Desktop Actions Execution workspace]]
-- [[controls|Controls]]
-- [[table-form|Table form]]

@@ -32,7 +32,7 @@ Run the [workflow validation](https://raw.githubusercontent.com/ServiceNow/Servi
 
 1.  Add transitions to the workflow using either of these methods:
 
-    -   Drag and drop an activity directly onto a transition line to [[c_Connect|connect]] it to the adjacent activities. The transition line turns blue when the connection is made. The system updates the transitions automatically to reflect the new sequence.
+    -   Drag and drop an activity directly onto a transition line to connect it to the adjacent activities. The transition line turns blue when the connection is made. The system updates the transitions automatically to reflect the new sequence.
 
         \[Omitted image "WorkflowAddActivity.png"\] Alt text: Add a transition by dragging and dropping an activity on an existing transition line.
 
@@ -51,6 +51,3 @@ Controls on the **Approval - User** activity enable an administrator to add addi
 
 Transitions defined using this method do not become a permanent feature of the **Approval - User** activity. After a new transition is configured, that transition must be applied manually to subsequent instances of the activity, where desired.
 
-## Related
-
-- [[c_Connect|Connect]]

@@ -12,7 +12,7 @@ breadcrumb: [Set up CSM Configurable Workspace, CSM Configurable Workspace, Orga
 
 # Configure the Agent Assist and Response Template tabs
 
-Add a table configuration for the [[migration-agent-assist|Agent Assist]] tab or Response Template tab for custom tables or custom case types in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Add a table configuration for the Agent Assist tab or Response Template tab for custom tables or custom case types in the contextual side panel in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -147,7 +147,3 @@ Agent Assist and Response Template example:
 
 [Configuring contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-contextual-search.md)
 
-## Related
-
-- [[migration-agent-assist|Agent assist]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

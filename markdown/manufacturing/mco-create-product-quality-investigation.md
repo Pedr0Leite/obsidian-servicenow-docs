@@ -26,24 +26,18 @@ Role required: admin
 
 3.  On the Product Quality Investigation form, fill in the fields.
 
-    For a description of the field values, see [[mco-product-quality-investigation-form|Product quality investigation form]].
+    For a description of the field values, see [Product quality investigation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-quality-investigation-form.md).
 
 4.  Select **Save**.
 
 
--   **[[mco-related-list-for-pqi|Related list for quality issues]]**  
+-   **[Related list for quality issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-related-list-for-pqi.md)**  
 In the workspace, you can use the product quality issues related list to log the report.
 
-**Parent Topic:**[[mco-PQI-use|Product quality investigation]]
+**Parent Topic:**[Product quality investigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-PQI-use.md)
 
 **Related topics**  
 
 
-[[mco-notes|Notes form]]
+[Notes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-notes.md)
 
-## Related
-
-- [[mco-product-quality-investigation-form|Product quality investigation form]]
-- [[mco-related-list-for-pqi|Related list for quality issues]]
-- [[mco-PQI-use|Product quality investigation]]
-- [[mco-notes|Notes form]]

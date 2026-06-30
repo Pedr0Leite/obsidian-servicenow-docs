@@ -26,9 +26,9 @@ Health state metrics indicate how effectively alert automations add context and 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -70,7 +70,7 @@ If the source event does not provide values for these fields, ensure they are po
 
 To learn more about de-duplication, see [Event Management configuration preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/r_EMBestPractice.md). To set the message key in your custom connector integration, see [Configure an event custom connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/custom-connector.md).
 
--   Ignore alert [[create-event-rules|event rules]]: Filter out low-quality alerts by creating an [ignore automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/create-ignore-automation-sow-itom.md).
+-   Ignore alert event rules: Filter out low-quality alerts by creating an [ignore automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/create-ignore-automation-sow-itom.md).
 
 
 </td></tr><tr><td>
@@ -89,7 +89,7 @@ CI Binding
 
 </td><td>
 
-The percentage of alerts successfully bound to a Configuration Item \(CI\) in your CMDB is crucial. Aim for this number to be at or near 100% to enhance [[c_ServiceAnalyticsOverview|alert grouping]], root cause analysis, assignment, and more.
+The percentage of alerts successfully bound to a Configuration Item \(CI\) in your CMDB is crucial. Aim for this number to be at or near 100% to enhance alert grouping, root cause analysis, assignment, and more.
 
  To bind a host, machine, or any device with an IP, populate the **Node** field with a unique hostname, FQDN, IP, or MAC address. This can be done within the integration itself or by creating an enrich automation. For more complex scenarios, you can override node-based binding using event rules. For more information on CI binding, see [Binding alerts to CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/ci-binding-alert.md).
 
@@ -107,7 +107,7 @@ Suggested tags
 
 </td><td>
 
-Provides suggested [[alert-tags|alert tags]] based on the integration payload. Alert tags are structured fields that you can define to facilitate easier filtering and grouping of alerts.
+Provides suggested alert tags based on the integration payload. Alert tags are structured fields that you can define to facilitate easier filtering and grouping of alerts.
 
  The tags are stored in **sn\_itom\_integ\_app\_recommendation\_tags\_suggestion**, and only the top 5 most popular tags are displayed. In case you prefer to refine the results of suggestion mechanism, you can use property **sn\_itom\_integ\_app.evt\_mgmt\_tag\_suggestion\_ignore\_keys**, which displays a list of lowercase field names or keywords, separated by commas, to be ignored when scanning additional alert info for tag suggestions. Default value is time.
 
@@ -123,10 +123,3 @@ Provides suggested [[alert-tags|alert tags]] based on the integration payload. A
 
 Now that you've confirmed alerts from the events, you can initiate the alert automation process by selecting **Add automation**. This takes you to the ignore automation step, where you can disregard irrelevant or false-positive alerts. Following that, proceed to enrich, group, and automate responses. This process involves transforming raw alerts into a format understandable by ServiceNow, grouping the alerts, and escalating an alert to ensure an immediate response from the appropriate team or individual. For more information on alert automation, see [Alert automation in Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-itom-alert-automation.md).
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[create-event-rules|Event rules]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[alert-tags|Alert tags]]

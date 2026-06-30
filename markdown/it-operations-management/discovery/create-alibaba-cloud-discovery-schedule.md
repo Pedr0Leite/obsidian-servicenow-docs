@@ -14,7 +14,7 @@ breadcrumb: [Discovery for Alibaba Cloud, Discovery for cloud environment, Disco
 
 # Create a Discovery schedule for Alibaba Cloud
 
-Create a [[r-discovery|Discovery]] schedule to run Alibaba Cloud discovery.
+Create a Discovery schedule to run Alibaba Cloud discovery.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: discovery\_admin
 
 1.  Navigate to **Discovery** &gt; **Discovery Schedules**.
 
-    **Note:** Starting with v1.13.0, you can also create an Alibaba Cloud in [[discovery-admin-workspace|Discovery Admin Workspace]]. For more information, see [Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-schedule-DAW.md).
+    **Note:** Starting with v1.13.0, you can also create an Alibaba Cloud in Discovery Admin Workspace. For more information, see [Create an Alibaba Cloud Discovery schedule in Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-alibaba-schedule-DAW.md).
 
 2.  Select the **Cloud Discovery** button.
 
@@ -112,7 +112,3 @@ The form fields are populated with the information from the selected account.
 
 **Parent Topic:**[Discovery for Alibaba Cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/alibaba-cloud-discovery.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

@@ -19,9 +19,9 @@ Enable the Asset put away task explicitly for your stockroom to put away the ass
 -   **[Enable the asset put away task for your stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/enable-putaway-task-for-stockroom-ham.md)**  
 Enable the Asset put away feature for your stockroom so that the Asset put away task is automatically created to track asset movement.
 -   **[View open put away tasks for your stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-putaway-tasks-ham.md)**  
-View the open put away tasks for your stockroom in the [[using-ham-workspace|Hardware Asset Workspace]] to get the details of the tasks that need action.
+View the open put away tasks for your stockroom in the Hardware Asset Workspace to get the details of the tasks that need action.
 -   **[Create an Asset put away task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-asset-put-away-task.md)**  
-[[create-asset-put-away-task|Create an Asset put away task]] manually for the In stock assets in the Hardware Asset Workspace to track the movement of assets within the stockroom.
+Create an Asset put away task manually for the In stock assets in the Hardware Asset Workspace to track the movement of assets within the stockroom.
 -   **[Close an Asset put away task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/close-put-away-task-ham.md)**  
 Add the asset drop-off location for an open Asset put away task and close it in the Hardware Asset Workspace.
 
@@ -34,7 +34,7 @@ Add the asset drop-off location for an open Asset put away task and close it in 
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -56,13 +56,13 @@ Add the asset drop-off location for an open Asset put away task and close it in 
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -80,7 +80,7 @@ Add the asset drop-off location for an open Asset put away task and close it in 
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -94,11 +94,3 @@ Add the asset drop-off location for an open Asset put away task and close it in 
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[create-asset-put-away-task|Create an Asset put away task]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

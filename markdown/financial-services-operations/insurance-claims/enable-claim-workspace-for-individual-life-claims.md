@@ -14,7 +14,7 @@ breadcrumb: [Configure, Individual Life Claims, Exploring insurance claims appli
 
 # Enable the claim workspace for Individual Life Claims
 
-Enable the claim workspace page on the claim case so that a claims manager or adjuster can view the page in [[individual-life-claims-landing-page|Individual Life Claims]].
+Enable the claim workspace page on the claim case so that a claims manager or adjuster can view the page in Individual Life Claims.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Navigation to page records
 </table>
 **Parent Topic:**[Setting up Individual Life Claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/setting-up-individual-life-claims.md)
 
-## Related
-
-- [[individual-life-claims-landing-page|Individual Life Claims]]

@@ -12,9 +12,9 @@ breadcrumb: [Components installed with additional plugins, Reference, Field Serv
 
 # Field Service Capacity and Reservations Management components
 
-Several types of components are installed with the Field Service [[capacity-management|Capacity and Reservations Management]] feature, including tables, business rules, scheduled jobs, and script includes.
+Several types of components are installed with the Field Service Capacity and Reservations Management feature, including tables, business rules, scheduled jobs, and script includes.
 
-Install the Field Service Contractor Management plugin \(com.snc.fsm\_contractor\_management\) to take the external groups into account while reserving, defining, and assigning the work [[capacity|capacity]]. For more information, see [Activate Field Service Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-contractor-management-plugin.md).
+Install the Field Service Contractor Management plugin \(com.snc.fsm\_contractor\_management\) to take the external groups into account while reserving, defining, and assigning the work capacity. For more information, see [Activate Field Service Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/activate-contractor-management-plugin.md).
 
 Activation of Field Service Capacity and Reservations Management adds the Capacity Management menu to the application navigator and the following modules:
 
@@ -23,7 +23,7 @@ Activation of Field Service Capacity and Reservations Management adds the Capaci
 -   **Capacity Assignments**: Assign the capacity and capacity reservations to internal work groups and external groups of contractor companies.
 -   **Capacity Usages**: View the record of capacity used by different groups and agents.
 
-**Note:** You must select **using [[dynamic-scheduling|dynamic scheduling]]** in the **Assignment method for tasks** configuration option to enable your application to distribute work based on the capacity management rules.
+**Note:** You must select **using dynamic scheduling** in the **Assignment method for tasks** configuration option to enable your application to distribute work based on the capacity management rules.
 
 ## Tables
 
@@ -510,7 +510,7 @@ Agent Schedule Time Off Request \[sn\_shift\_planning\_agent\_schedule\_request\
 Updates demand metrics table for territory planning.
 
 </td></tr></tbody>
-</table>Capacity management adds the following business rules for [[territory-planning-fsm|Field Service Territory Planning]]. You must install the com.snc.fsm\_territory\_planning plugin to enable these business rules.
+</table>Capacity management adds the following business rules for Field Service Territory Planning. You must install the com.snc.fsm\_territory\_planning plugin to enable these business rules.
 
 <table id="table_kmx_rtj_bgc"><thead><tr><th>
 
@@ -669,7 +669,7 @@ The Capacity and Reservations Management adds the following scheduled job. To fi
 
 |Scheduled job|Description|
 |-------------|-----------|
-|Compute Capacity Demand Metrics Data|Calculates and generates data for the [[capacity-dashboard|Field Service Territory Capacity Analytics dashboard]].|
+|Compute Capacity Demand Metrics Data|Calculates and generates data for the Field Service Territory Capacity Analytics dashboard.|
 
 ## Script includes
 
@@ -697,7 +697,7 @@ FSMCapacityAppnmtBookingUtil
 
 </td><td>
 
-Utility methods to support [[appointment-booking|appointment booking]] in FSM. This utility method retrieves dispatch groups for a location and filters groups based on the configuration. It also determines the eligible groups for task assignment during appointment scheduling.
+Utility methods to support appointment booking in FSM. This utility method retrieves dispatch groups for a location and filters groups based on the configuration. It also determines the eligible groups for task assignment during appointment scheduling.
 
 </td></tr><tr><td>
 
@@ -833,7 +833,7 @@ ScheduleOptimizationCapacityResponse
 
 </td><td>
 
-Contains a utility class that provides methods to calculate the capacity horizons for groups or territories, to determine the available and allocated capacity for task optimization within a specified date range.**Note:** The [[schedule-optimization|Schedule Optimization]] plugin \(com.snc\_schedule\_optimization\) for [[fsm-application-landing-page|Field Service Management]] must be installed to enable this script include.
+Contains a utility class that provides methods to calculate the capacity horizons for groups or territories, to determine the available and allocated capacity for task optimization within a specified date range.**Note:** The Schedule Optimization plugin \(com.snc\_schedule\_optimization\) for Field Service Management must be installed to enable this script include.
 
 </td></tr></tbody>
 </table>The Capacity and Reservations Management adds the following Script includes for Field Service Territory Planning. You must activate the Field Service Territory Planning plugin \(com.snc.fsm\_territory\_planning\) for Field Service Management to enable these script includes.
@@ -855,23 +855,10 @@ The Capacity and Reservations Management adds the following roles. To find them,
 |Roles|Description|
 |-----|-----------|
 |sn\_fsm\_capacity\_mg.wm\_capacity\_write|Allows CRUD access to all the capacity related tables|
-|sn\_fsm\_capacity\_mg.wm\_capacity\_read|Allows read access to all the capacity related tables and [[capacity-console|Capacity console]] workspace|
+|sn\_fsm\_capacity\_mg.wm\_capacity\_read|Allows read access to all the capacity related tables and Capacity console workspace|
 
--   **[[advanced-capacity-components|Capacity and Reservations Management components]]**  
+-   **[Capacity and Reservations Management components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/advanced-capacity-components.md)**  
 Several types of components are installed with the Advanced Capacity and Reservations Management feature, including tables, and script includes.
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[advanced-capacity-components|Capacity and Reservations Management components]]
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
-- [[capacity-management|Capacity and Reservations Management]]
-- [[capacity|Capacity]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[capacity-dashboard|Field Service Territory Capacity Analytics dashboard]]
-- [[appointment-booking|Appointment booking]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[capacity-console|Capacity Console]]

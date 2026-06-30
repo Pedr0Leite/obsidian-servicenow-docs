@@ -14,7 +14,7 @@ breadcrumb: [Configure patterns, Data Discovery jobs, Exploring Data Discovery \
 
 # Default regular expression data patterns
 
-Review the default data pattern regular expressions included in [[data-discovery-landing|Data Discovery]]. These default data patterns can be used to filter table entries for further classification.
+Review the default data pattern regular expressions included in Data Discovery. These default data patterns can be used to filter table entries for further classification.
 
 Data Discovery supports using a Named Entity Recognition \(NER\) model to discover data, such as names, organizations, nationalities, and political affiliations. Data patterns with the type **Model** use this feature.
 
@@ -96,7 +96,7 @@ August 21, 1974
 
 </td></tr><tr><td>
 
-[[email|Email]]
+Email
 
 </td><td>
 
@@ -532,8 +532,3 @@ US Bank Routing \(ABA\) number
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[data-discovery-landing|Data Discovery]]
-- [[email|Email]]

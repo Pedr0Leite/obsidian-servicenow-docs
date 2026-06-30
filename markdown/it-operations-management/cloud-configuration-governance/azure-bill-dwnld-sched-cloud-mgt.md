@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Microsoft Azure Cloud on Cloud Provisioning a
 
 # Create Microsoft Azure credentials for billing download
 
-Define the scheduled job that regularly uses a MID Server to download billing data from the provider. [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] saves the data in a cost table and uses the information to generate reports.
+Define the scheduled job that regularly uses a MID Server to download billing data from the provider. Cloud Provisioning and Governance saves the data in a cost table and uses the information to generate reports.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Define the scheduled job that regularly uses a MID Server to download billing da
 Starting with the Vancouver release, the Billing dashboard is no longer available if you have downloaded and activated the ServiceNow Store Cloud Cost Management application. The following changes occur:
 
 -   You’re redirected to the Cloud Cost Management home page by default.
--   The View Dashboard widget in the [[cloudmgt-cloud-user-portal|Cloud User portal]] is replaced by the View Resources widget.
+-   The View Dashboard widget in the Cloud User portal is replaced by the View Resources widget.
 -   The Current Month Spend widget and the Budget widget on the Cloud User portal don’t show any data if Cloud Cost Management is activated on the instance.
 
 If you have activated the Cloud Cost Management application, you can only navigate to the Billing Dashboard when you’re using Cloud Provisioning and Governance on a domain-separated instance.
@@ -77,7 +77,4 @@ During the billing download process, all the resources are pulled into the syste
 
     2.  Copy the Subscription ID from the Subscription Overview page.
 
-## Related
 
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]

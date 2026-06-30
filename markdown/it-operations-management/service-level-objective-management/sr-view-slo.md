@@ -20,11 +20,11 @@ Learn about an existing service level objective \(SLO\) and service level indica
 
 Role required: srm\_manager, srm\_responder, or srm\_admin
 
-**Note:** Administrators can view any [[sr-landing-page|Service Reliability Management]] \(SRM\) SLO.
+**Note:** Administrators can view any Service Reliability Management \(SRM\) SLO.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the primary navigation, select the **Services** icon \(\[Omitted image "icon-sr-services.png"\] Alt text: Services icon\).
 
@@ -123,7 +123,3 @@ To learn how to create or edit SLOs, see [Create SLOs, SLIs, and error budget po
 
 **Parent Topic:**[Using SLO Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/using-service-level-objective-management.md)
 
-## Related
-
-- [[sr-landing-page|Service Reliability Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

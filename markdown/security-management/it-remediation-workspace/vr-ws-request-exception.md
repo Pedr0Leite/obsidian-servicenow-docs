@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Request an exception in the IT Remediation Workspace
 
-Request an exception for the host vulnerable item \(VIT\), application vulnerable item \(AVIT\), container vulnerable item \(CVIT\) and remediation task \(VUL, AVUL, CVUL, or CRG\) from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]].
+Request an exception for the host vulnerable item \(VIT\), application vulnerable item \(AVIT\), container vulnerable item \(CVIT\) and remediation task \(VUL, AVUL, CVUL, or CRG\) from the IT Remediation Workspace.
 
 ## Before you begin
 
@@ -27,11 +27,11 @@ Role required:
 
 ## About this task
 
-Some [[vulnerabilities|vulnerabilities]] might not have an existing patch, fix, or solution. Or, you might determine that a remediation task cannot be resolved by its target date. When your remediation can't comply with a published vulnerability management or security policy, standard, or guideline, you can request an exception.
+Some vulnerabilities might not have an existing patch, fix, or solution. Or, you might determine that a remediation task cannot be resolved by its target date. When your remediation can't comply with a published vulnerability management or security policy, standard, or guideline, you can request an exception.
 
 You can request exceptions for remediation tasks \(VUL, AVUL, CVUL, or CRG\) and vulnerable items \(VIT, AVIT, or CVIT\) from the IT Remediation Workspace that are assigned to you.
 
-**Note:** Starting with v19.0 of [[vuln-landing-page|Vulnerability Response]], the following terms have been renamed:
+**Note:** Starting with v19.0 of Vulnerability Response, the following terms have been renamed:
 
 |Terminology prior to v19.0|Terminology v19.0 onwards|
 |--------------------------|-------------------------|
@@ -73,8 +73,3 @@ For more information about requesting exceptions in the classic environment, see
     -   If the request is rejected, the request record \(VCA\#\) displays **Rejected** in the Approval state column in your List view under My requests.
     -   You are required to submit a new exception request if you still want to defer this item.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]

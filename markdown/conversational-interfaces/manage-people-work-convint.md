@@ -12,7 +12,7 @@ breadcrumb: [Conversational Interfaces]
 
 # Manage people and work
 
-Use these applications to help streamline communications and manage [[awa-assignment|work assignments]] and interactions.
+Use these applications to help streamline communications and manage work assignments and interactions.
 
 <table id="table_oyp_mhr_r5b" class="nav-card"><tbody><tr><td>
 
@@ -24,7 +24,7 @@ Use these applications to help streamline communications and manage [[awa-assign
 
 </td><td>
 
-[Zoom extension for [[omnichannel-callback|Omnichannel Callback]]\[Omitted image "bus-2-person.svg"\] Alt text: Enables other ServiceNow® applications to display a Zoom callback option.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/callback-over-zoom/zoom-extension-omni-callback.md)
+[Zoom extension for Omnichannel Callback\[Omitted image "bus-2-person.svg"\] Alt text: Enables other ServiceNow® applications to display a Zoom callback option.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/callback-over-zoom/zoom-extension-omni-callback.md)
 
 </td></tr><tr><td>
 
@@ -39,9 +39,9 @@ Use these applications to help streamline communications and manage [[awa-assign
  
 
 </td></tr></tbody>
-</table>## [[awa-application-landing-page|Advanced Work Assignment]] \(AWA\)
+</table>## Advanced Work Assignment \(AWA\)
 
-Maintain and improve your business workflow on the ServiceNow AI Platform. Advanced Work Assignment has options to assign tasks to teams and individual personnel based on availability and demand, as well as their skill levels. Give users the best service possible, with service messaging and role [[management|management]] handled on-the-fly for each task or assignment.
+Maintain and improve your business workflow on the ServiceNow AI Platform. Advanced Work Assignment has options to assign tasks to teams and individual personnel based on availability and demand, as well as their skill levels. Give users the best service possible, with service messaging and role management handled on-the-fly for each task or assignment.
 
 ## Omnichannel Callback
 
@@ -49,17 +49,9 @@ Expand your service contact opportunities with Omnichannel Callback. This module
 
 ## Zoom extension for Omnichannel Callback
 
-The [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]] app is a ServiceNow AI Platform capability that enables users to request a callback over Zoom when the agent wait time is long, or agents are unavailable. Agents and users can collaborate over a Zoom meeting at a date and time requested by users.
+The Zoom extension for Omnichannel Callback app is a ServiceNow AI Platform capability that enables users to request a callback over Zoom when the agent wait time is long, or agents are unavailable. Agents and users can collaborate over a Zoom meeting at a date and time requested by users.
 
 ## Proactive Triggers
 
-[[proactive-triggers-landing-page|Proactive Triggers]] supports end users by providing helpful platform actions, using real-time data. Admin users can customize rules and actions to present rich text pop-up messages to specific users.
+Proactive Triggers supports end users by providing helpful platform actions, using real-time data. Admin users can customize rules and actions to present rich text pop-up messages to specific users.
 
-## Related
-
-- [[awa-assignment|Work assignments]]
-- [[omnichannel-callback|Omnichannel Callback]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]
-- [[zoom-extension-omni-callback|Zoom extension for Omnichannel Callback]]
-- [[proactive-triggers-landing-page|Proactive Triggers]]

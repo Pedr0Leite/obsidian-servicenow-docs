@@ -14,12 +14,12 @@ breadcrumb: [Operational Technology Incident Management, Operational Technology]
 
 # Using Operational Technology Incident Management
 
-After you complete all required set up tasks for the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]] application, you can begin [[managing-ot-incidents|managing OT incidents]].
+After you complete all required set up tasks for the Operational Technology Incident Management application, you can begin managing OT incidents.
 
 -   **[Managing OT incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/managing-ot-incidents.md)**  
-Depending on your assigned user role, you can manage OT incidents in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Depending on your assigned user role, you can manage OT incidents in the Industrial Workspace.
 -   **[Access control for incidents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/access-control-ot-incidents.md)**  
-To help separate [[operational-technology-overview|Operational Technology]] \(OT\) and Information Technology \(IT\) data, only OT users can view OT incidents.
+To help separate Operational Technology \(OT\) and Information Technology \(IT\) data, only OT users can view OT incidents.
 -   **[Report an OT incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/report-ot-incident.md)**  
 Create an Operational Technology \(OT\) incident record to report a deviation from an expected standard of operation.
 -   **[Create an Operational Technology incident from an Operational Technology change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/create-ot-incident-from-ot-change.md)**  
@@ -33,7 +33,7 @@ With the Operational Technology \(OT\) incident fulfiller role \(sn\_ot\_inciden
 -   **[Synchronization between an incident and its incident tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/synchronization-between-ot-incident-and-ot-incident-tasks.md)**  
 You can use Operational Technology \(OT\) incident tasks to collaborate with and request work from other stakeholders. An OT incident and its tasks are synchronized so that the state of the incident tasks change depending on the state of incident.
 -   **[Incident email notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/ot-incident-notifications.md)**  
-Use Operational Technology \(OT\) [[ot-incident-notifications|incident email notifications]] to alert users when changes are made to an incident.
+Use Operational Technology \(OT\) incident email notifications to alert users when changes are made to an incident.
 -   **[Compose an email from an OT incident record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/compose-an-email-from-ot-incident-record.md)**  
 Compose an email directly in an OT incident record so that you can conveniently update your team and others about the incident.
 -   **[Resolve and close an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/resolve-and-close-ot-incident.md)**  
@@ -43,10 +43,3 @@ Add or remove the related Operational Technology \(OT\) devices and equipment mo
 
 **Parent Topic:**[Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/operational-technology-incident-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[managing-ot-incidents|Managing OT incidents]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[ot-incident-notifications|Incident email notifications]]

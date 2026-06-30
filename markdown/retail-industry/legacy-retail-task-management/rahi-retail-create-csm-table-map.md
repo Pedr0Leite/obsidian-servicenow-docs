@@ -20,11 +20,11 @@ Create a CSM table map to create multi-store case configurations for use with yo
 
 Role required: admin
 
-Scope required: [[rahi-retail-task-management-overview|Retail Task Management]] Core.
+Scope required: Retail Task Management Core.
 
 ## About this task
 
-\[Omitted image "rahi-[[rahi-retail-operations-overview|retail]]-csm-table-map.png"\] Alt text: Retail multi-store record CSM table map creation form.
+\[Omitted image "rahi-retail-csm-table-map.png"\] Alt text: Retail multi-store record CSM table map creation form.
 
 In the preceding example, Retail Case is both the parent and child case type for this table mapping. This means that for parent cases of type Retail Case, child cases will also be of this type.
 
@@ -55,7 +55,3 @@ Once this mapping has been created, use the field mapping to define which fields
 -   Short description
 -   Priority
 
-## Related
-
-- [[rahi-retail-task-management-overview|Retail Task Management]]
-- [[rahi-retail-operations-overview|Retail]]

@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Next-Gen SIEM integration, Security Incident Response i
 
 # Automate detection updates and closures
 
-Automate detection updates and closures based on the [[sir-landing-page|Security Incident Response]] incident status. The [[crowdstrike-next-gen-integration-secops|CrowdStrike Next-Gen SIEM integration]] enables detections to create security incidents and also to update the incidents after they are created or closed.
+Automate detection updates and closures based on the Security Incident Response incident status. The CrowdStrike Next-Gen SIEM integration enables detections to create security incidents and also to update the incidents after they are created or closed.
 
 ## Before you begin
 
@@ -56,7 +56,4 @@ Role required: sn\_si.ingestion\_profile\_admin
 
     3.  Select **Continue**.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[crowdstrike-next-gen-integration-secops|CrowdStrike Next-Gen SIEM integration]]

@@ -24,7 +24,7 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
 2.  On the **Custom integrations** page, select **New**.
 
-    You can also select an unpublished application to [[edit-an-integration-sir|edit an integration]]. You can only view a published application.
+    You can also select an unpublished application to edit an integration. You can only view a published application.
 
 3.  On the **Create new integration** page, select **Application type**.
 
@@ -47,9 +47,6 @@ Role required: sn\_si\_int\_kit.integration\_creator
     -   **Choose existing application**
         1.  Select an existing application in **Select Application**.
         2.  Select **Save changes**.
-4.  Select **Next** to [[add-connection-details|add connection details]].
+4.  Select **Next** to add connection details.
 
-## Related
 
-- [[edit-an-integration-sir|Edit an integration]]
-- [[add-connection-details|Add connection details]]

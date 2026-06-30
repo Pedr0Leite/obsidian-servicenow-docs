@@ -14,7 +14,7 @@ breadcrumb: [Personal authentication, Authentication, Access Management]
 
 # Configure Personal Authentication
 
-You can configure personal [[oauth-inbound-and-outbound|OAuth]] [[c_Authentication|authentication]] with the REST step in Flow Designer.
+You can configure personal OAuth authentication with the REST step in Flow Designer.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ For information to generate the initial token for a user, who doesn’t have acc
 
 4.  Create an **OAuth Credential**.
 
-    1.  Navigate to **[[oauth-2-credentials|OAuth 2.0 Credentials]]**.
+    1.  Navigate to **OAuth 2.0 Credentials**.
 
     2.  Create a new OAuth credential record and link it to the OAuth profile created in Step 1.
 
@@ -58,7 +58,7 @@ For information to generate the initial token for a user, who doesn’t have acc
 
     3.  Select **Manage Tokens** to view and manage the tokens.
 
-    **Note:** Add a UI action to your application so that the end [[users|users]] can generate tokens. Only administrators can open the credential form directly.
+    **Note:** Add a UI action to your application so that the end users can generate tokens. Only administrators can open the credential form directly.
 
 8.  Navigate to **Action** to create an action for your use case.
 
@@ -97,14 +97,8 @@ For information to generate the initial token for a user, who doesn’t have acc
 
 12. Manage missing or expired tokens.
 
-    If the session user has no access token, the REST [[c_requestAPI|request]] returns a **HTTP 401 Unauthorized status code** response. Ensure that the token is created before you initiate the flow.
+    If the session user has no access token, the REST request returns a **HTTP 401 Unauthorized status code** response. Ensure that the token is created before you initiate the flow.
 
     If the access token is expired but a valid refresh token exists, the system automatically renews the access token.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[oauth-2-credentials|OAuth 2.0 credentials]]
-- [[users|Users]]
-- [[c_requestAPI|request]]

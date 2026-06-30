@@ -14,7 +14,7 @@ breadcrumb: [Incident communication plan state model, Exploring Incident Communi
 
 # Incident communication plan state model \(old\)
 
-[[incident-comm-plan-new-state-model|Incident communication plan state model]] helps you to understand the different states through which a plan can progress and also to track the plan through its states.
+Incident communication plan state model helps you to understand the different states through which a plan can progress and also to track the plan through its states.
 
 Incident alerts are created with a **New** state. They follow a process that finishes with the **Closed** or **Canceled** state.
 
@@ -33,9 +33,5 @@ The following two properties are responsible for different actions that take pla
     -   If an incident communication plan is closed, the state of all open incident communication tasks is set to **Closed Incomplete**.
     -   If an incident communication plan is canceled, the state of all open incident communication tasks is set to **Closed Skipped**.
 
-**Note:** The **Close open Incident Communication Plans when Incident is closed or canceled** and **Close open Incident Communication Tasks when an Incident Communication Plan is closed or canceled** property is visible when you activate the [[c_IncidentAlertManagement|Incident Communications Management]] plugin \(com.snc.iam\). This property is set to false for both new and existing customers.
+**Note:** The **Close open Incident Communication Plans when Incident is closed or canceled** and **Close open Incident Communication Tasks when an Incident Communication Plan is closed or canceled** property is visible when you activate the Incident Communications Management plugin \(com.snc.iam\). This property is set to false for both new and existing customers.
 
-## Related
-
-- [[incident-comm-plan-new-state-model|Incident communication plan state model]]
-- [[c_IncidentAlertManagement|Incident Communications Management]]

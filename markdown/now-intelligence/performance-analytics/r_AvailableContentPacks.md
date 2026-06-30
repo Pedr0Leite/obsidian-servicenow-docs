@@ -14,9 +14,9 @@ breadcrumb: [Platform Analytics solutions, Reporting, dashboards, and Performanc
 
 # Available Platform Analytics Solutions
 
-The following [[content-packs-in-form-analytics-published|Platform Analytics Solutions]] are available for their corresponding ServiceNow Performance Analytics entitlements. The solutions are at no extra charge, but the underlying applications require appropriate licensing.
+The following Platform Analytics Solutions are available for their corresponding ServiceNow Performance Analytics entitlements. The solutions are at no extra charge, but the underlying applications require appropriate licensing.
 
-Platform Analytics Solutions provide dashboards and underlying Performance Analytics components. These dashboards leverage Performance Analytics to create greater value for the product each [[c_performanceAnalyticsAndReporting|Platform Analytics]] Solution supports.
+Platform Analytics Solutions provide dashboards and underlying Performance Analytics components. These dashboards leverage Performance Analytics to create greater value for the product each Platform Analytics Solution supports.
 
 ## General Performance Analytics Solutions
 
@@ -46,7 +46,7 @@ Activate the following Solutions when you have the Performance Analytics for Cus
 -   Change Management \(com.snc.pa.change\)
 -   [Communities \(com.snc.pa.communities\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities-content-pack.md)
 -   [Customer Service \(com.snc.pa.customer\_service\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-content-pack.md)
--   [Customer Service Management - Advanced \(com.snc.pa.customer\_service\_advanced\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-content-pack.md) Preconfigured [[c_Indicators|Performance Analytics indicators]] and breakdowns for Customer Service Management. Has the contents of the older OOTB Customer Service Performance Analytics Solution, and also supports the following features:
+-   [Customer Service Management - Advanced \(com.snc.pa.customer\_service\_advanced\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-content-pack.md) Preconfigured Performance Analytics indicators and breakdowns for Customer Service Management. Has the contents of the older OOTB Customer Service Performance Analytics Solution, and also supports the following features:
     -   Case Management
     -   Major Issue Management
     -   Customer Service Case Action Status
@@ -143,7 +143,7 @@ Activate the following Solutions when you have the Performance Analytics for Ser
 
 ## Adding Self-Service Analytics widgets to a dashboard or Service Portal
 
-If you have Self-Service Analytics activated on an instance, you can add Self-Service analytics [[widgets|widgets]] to your Performance Analytics dashboards or a Service Portal. To obtain a ready-made set of indicators and breakdowns, activate the Self-Service Analytics PA \(**com.snc.pa.self\_service\_analytics**\) plugin. Find the Self-Service indicators through the [[pa-admin-console|Performance Analytics Admin Console]], then create widgets and add them to your dashboard or portal. Also activate the \[SSA\] Self-Service Analytics data collection job.
+If you have Self-Service Analytics activated on an instance, you can add Self-Service analytics widgets to your Performance Analytics dashboards or a Service Portal. To obtain a ready-made set of indicators and breakdowns, activate the Self-Service Analytics PA \(**com.snc.pa.self\_service\_analytics**\) plugin. Find the Self-Service indicators through the Performance Analytics Admin Console, then create widgets and add them to your dashboard or portal. Also activate the \[SSA\] Self-Service Analytics data collection job.
 
 **Note:** Customer Service Management customers can install the Platform Analytics Solution for Self-Service Analytics for Customer Service. This Solution contains additional Customer Service-specific indicators and breakdowns as well as widgets and a dashboard. For more information, see [Self-Service Analytics for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ssa-cs-content-pack.md).
 
@@ -159,10 +159,3 @@ The ITSM Dashboards plugin \(com.snc.pa.itsm\_dashboards\) activates the followi
 
 **Parent Topic:**[Platform Analytics solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/content-packs-in-form-analytics-published.md)
 
-## Related
-
-- [[content-packs-in-form-analytics-published|Platform Analytics solutions]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[widgets|Widgets]]
-- [[pa-admin-console|Performance Analytics Admin Console]]

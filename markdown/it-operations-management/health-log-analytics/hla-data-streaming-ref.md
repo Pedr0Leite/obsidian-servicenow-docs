@@ -15,7 +15,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # General guidelines for streaming data to Health Log Analytics
 
-This section helps you identify the appropriate data input for streaming your specific data type to the [[hla-landing-page|Health Log Analytics]] \(HLA\) application.
+This section helps you identify the appropriate data input for streaming your specific data type to the Health Log Analytics \(HLA\) application.
 
 <table id="table_wrn_3bx_hfc"><thead><tr><th>
 
@@ -35,7 +35,7 @@ Flat files
 
 </td><td>
 
-ACC agent \([[acc-landing-page|Agent Client Collector]] Framework\)
+ACC agent \(Agent Client Collector Framework\)
 
 </td><td>
 
@@ -111,7 +111,3 @@ Varies by tool
 </td></tr></tbody>
 </table>**Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]

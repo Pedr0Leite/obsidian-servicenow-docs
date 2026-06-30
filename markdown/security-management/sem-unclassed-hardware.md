@@ -31,9 +31,9 @@ When Discovery subsequently finds an asset that already exists as unclassed hard
 -   **Inconsistent Naming**: The name used by Unified Security Exposure Management \(e.g., FQDN or NetBIOS name\) might differ from the name used by Discovery \(e.g., just the hostname\).
 -   **Result**: This discrepancy prevents IRE from recognizing the unclassed hardware and the newly discovered asset as the same entity, leading to the creation of a duplicate CI under a new class rather than reclassifying the original.
 
-**Note:** If the Identification and Reconciliation Engine \(IRE\) is activated, the option to reclassify items directly from [[cj-discovered-items|discovered items]] is not supported.
+**Note:** If the Identification and Reconciliation Engine \(IRE\) is activated, the option to reclassify items directly from discovered items is not supported.
 
-The following extracts show the IRE payload for creating CI in Unclassed Hardware via [[vuln-landing-page|Vulnerability Response]] and Discovery respectively.
+The following extracts show the IRE payload for creating CI in Unclassed Hardware via Vulnerability Response and Discovery respectively.
 
 ```
 "className": "cmdb_ci_unclassed_hardware",
@@ -70,16 +70,10 @@ The following extracts show the IRE payload for creating CI in Unclassed Hardwar
 
 In this scenario, the existing Unclassed Hardware CI is not reclassified as a Windows Server. Instead, a new CI is created under Windows Server. This is because the identification rule depends on the Hardware CI’s name. As you can see from the payloads, the name received from Unified Security Exposure Management matches the FQDN/NETBIOS, whereas the Discovery payload provides only the host name.
 
-**Parent Topic:**[[sem-associate-finding-configuration-item-using-lookup-rules|Associating finding with a configuration item using lookup rules]]
+**Parent Topic:**[Associating finding with a configuration item using lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-associate-finding-configuration-item-using-lookup-rules.md)
 
 **Related topics**  
 
 
-[[sem-reclassify-unclassed-hardware|Reclassify unclassed hardware]]
+[Reclassify unclassed hardware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-reclassify-unclassed-hardware.md)
 
-## Related
-
-- [[sem-associate-finding-configuration-item-using-lookup-rules|Associating finding with a configuration item using lookup rules]]
-- [[sem-reclassify-unclassed-hardware|Reclassify unclassed hardware]]
-- [[cj-discovered-items|Discovered Items]]
-- [[vuln-landing-page|Vulnerability Response]]

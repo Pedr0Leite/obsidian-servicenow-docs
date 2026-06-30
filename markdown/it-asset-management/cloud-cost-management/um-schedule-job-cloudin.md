@@ -14,7 +14,7 @@ breadcrumb: [Manage unused resources, Using Cloud Cost Management, Cloud Cost Ma
 
 # Schedule unused resources to be powered off or terminated
 
-To terminate or power off an unused resource, add it to an [[um-cloudin|Unused resources]] job, specify whether to terminate or power off, and specify when the job should run. You can also move resources from one scheduled job to a different job.
+To terminate or power off an unused resource, add it to an Unused resources job, specify whether to terminate or power off, and specify when the job should run. You can also move resources from one scheduled job to a different job.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: insights\_admin \[sn\_clin\_core.insights\_admin\] or insights\_o
 
 ## About this task
 
-**Important:** After an Unused resources job powers off or terminates a machine, the machine is added to the Excluded Resources list for [[bh-cloudin|Business Hours]]. This process ensures that the resource isn't started again in the future because it matches a Business Hours policy. The exclusion reason on the Business Hours **Excluded Resources** tab indicates that the resource is an unused resource.
+**Important:** After an Unused resources job powers off or terminates a machine, the machine is added to the Excluded Resources list for Business Hours. This process ensures that the resource isn't started again in the future because it matches a Business Hours policy. The exclusion reason on the Business Hours **Excluded Resources** tab indicates that the resource is an unused resource.
 
 When you change the resources that are included in a job, the app checks for the following conditions:
 
@@ -39,13 +39,13 @@ If either condition is met, the app sends an email notification to the owner of 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
 
 2.  In the list on the appropriate tab, select the check boxes for the resources to terminate.
 
     -   To create an Unused resources job for resources that are new candidates for termination: On the **New Recommendations** tab, select the resources and then select **Schedule Job**.
     -   To create a job for resources that had previously been scheduled but the action wasn't completed successfully: On the **Declined Recommendations** tab or the **Failed Recommendations** tab, select the resources and then select **Reschedule**.
-    **Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. [[cloud-insights-landing-page|Cloud Cost Management]] doesn't generate the recommendations.
+    **Note:** Microsoft Azure only: The Azure Advisor service generates the recommendations that appear in Rightsizing and Unused resources reports. Cloud Cost Management doesn't generate the recommendations.
 
 3.  In the dialog box, fill in the fields.
 
@@ -141,9 +141,3 @@ The Unused resources job is created and runs at the scheduled time.
 
 [Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[um-cloudin|Unused resources]]
-- [[bh-cloudin|Business hours]]
-- [[ci-workspace|Cloud Cost Management Workspace]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

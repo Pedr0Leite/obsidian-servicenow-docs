@@ -14,7 +14,7 @@ breadcrumb: [Using proxy agents in ACC, ACC deployment - servers, Configuring Ag
 
 # Configure an agent on a proxy server
 
-Configure an [[acc-landing-page|Agent Client Collector]] on a proxy server when monitoring services external to the host server, such as URLs or external databases in the cloud.
+Configure an Agent Client Collector on a proxy server when monitoring services external to the host server, such as URLs or external databases in the cloud.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Proxy agents should be dedicated agents, as running other apps on a proxy agent 
 
 2.  Select the policy containing the checks that you want to run on a proxy server.
 
-    You must configure a proxy server for [[checks-policies|checks and policies]] that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md).
+    You must configure a proxy server for checks and policies that monitor external services. For details on these checks and policies, see [Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md).
 
 3.  Select the **Proxy Settings** tab.
 
@@ -108,7 +108,3 @@ Clear this option to load balance the selected multi proxy agents that monitor t
 
 **Parent Topic:**[Using proxy agents in Agent Client Collector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/proxy-agent.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

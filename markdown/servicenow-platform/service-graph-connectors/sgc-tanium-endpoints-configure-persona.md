@@ -14,7 +14,7 @@ breadcrumb: [Configure the Tanium environment, Tanium Endpoints, Service Graph C
 
 # Configure a persona
 
-Create a persona to bind the API token that is used by the [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]. If a persona for the integration already exists, edit it. Use a persona only if a service account isn't permitted by your organization.
+Create a persona to bind the API token that is used by the Service Graph Connector for Tanium Endpoints. If a persona for the integration already exists, edit it. Use a persona only if a service account isn't permitted by your organization.
 
 ## Before you begin
 
@@ -49,6 +49,4 @@ For more information, see [Creating API tokens for ServiceNow](https://help.tani
 
 8.  Select **Save** to complete the configuration.
 
-## Related
 
-- [[sgc-integration-tanium-endpoints|Service Graph Connector for Tanium Endpoints]]

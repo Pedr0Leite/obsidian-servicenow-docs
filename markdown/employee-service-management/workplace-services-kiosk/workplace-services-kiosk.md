@@ -32,15 +32,15 @@ Workplace Services Kiosk provides a seamless check-in experience for visitors.
 
 </td><td>
 
-[Manage\[Omitted image "bus-optimize-manage.svg"\] Alt text:Assign, change, or remove a [[kiosk-configuration-form|kiosk configuration form]] kiosk devices.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/manage-workplace-services-kiosk.md)
+[Manage\[Omitted image "bus-optimize-manage.svg"\] Alt text:Assign, change, or remove a kiosk configuration form kiosk devices.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/manage-workplace-services-kiosk.md)
 
 </td></tr><tr><td>
 
-[Use\[Omitted image "bus-monitor.svg"\] Alt text:Check-in or [[visitor-self-register|self-register as a visitor]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/use-workplace-services-kiosk.md)
+[Use\[Omitted image "bus-monitor.svg"\] Alt text:Check-in or self-register as a visitor.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/use-workplace-services-kiosk.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Information about lists and forms used to configure Workplace Services Kiosk.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Information about lists and forms used to configure Workplace Services Kiosk.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/workplace-services-kiosk-reference.md)
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -51,8 +51,3 @@ Workplace Services Kiosk provides a seamless check-in experience for visitors.
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[kiosk-configuration-form|Kiosk configuration form]]
-- [[visitor-self-register|Self-register as a visitor]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

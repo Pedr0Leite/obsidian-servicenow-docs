@@ -14,12 +14,12 @@ breadcrumb: [Reference, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Managing Strategic Planning with Project Portfolio Management, Agile Development 2.0, and SAFe
 
-Ensure that [[alignment-planner-workspace-landing-page|Strategic Planning]] is integrated properly with PPM, [[agile-landing-page|Agile Development 2.0]], and SAFe with these guidelines.
+Ensure that Strategic Planning is integrated properly with PPM, Agile Development 2.0, and SAFe with these guidelines.
 
 -   Do not change the filter condition of a table map after the records are interfaced. The already interfaced records might not match with the new filter condition and any change in the filter condition can result in data inconsistency. If you need to change the filter condition, ensure that the relevant attributes on the interfaced records are updated manually to avoid data inconsistency issues.
 -   Whenever a table map is created, ensure that the relevant field maps and choice maps are also configured.
 -   When an import job for a table map is running \(processing\), do not modify the table map or its field maps.
--   Using the **Converted to** field on the [[planning-item-form|planning item form]], you can identify the original record from which it was converted.
+-   Using the **Converted to** field on the planning item form, you can identify the original record from which it was converted.
 -   Ensure that the **Lookup field** and **Lookup column** values are added whenever the execution and alignment tables are referencing two different tables, while creating a field map for field type of reference or glide list.
 -   If there is a data synchronization failure, check if:
     -   The **Integration error logs** related list within that Alignment integration record.
@@ -33,13 +33,7 @@ Ensure that [[alignment-planner-workspace-landing-page|Strategic Planning]] is i
 
 -   A **Primary goal** field is introduced to the projects, demands, and epics table maps to support the integration of the **Goal** field between alignment and execution tables.
 -   When you are trying to import or export a project, ensure that the demands \(that are a part of that project\) are synced.
--   You can [[create-custom-table-maps-for-custom-planning-items-ppw|create a table map]] for any execution table. If a table map is not created from one of the delivered tables \(pm\_portfolio, rm\_epic, dmn\_demand, pm\_project\) or does not extend from them, you are required to create a business rule to support the interfacing of the table map records. For more information on creating a business rule, see [Create a business rule to apply a custom table map configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-bussiness-rule.md).
+-   You can create a table map for any execution table. If a table map is not created from one of the delivered tables \(pm\_portfolio, rm\_epic, dmn\_demand, pm\_project\) or does not extend from them, you are required to create a business rule to support the interfacing of the table map records. For more information on creating a business rule, see [Create a business rule to apply a custom table map configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-a-bussiness-rule.md).
 
 **Parent Topic:**[Strategic Planning Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/alignment-planner-workspace-reference.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[planning-item-form|Planning item form]]
-- [[create-custom-table-maps-for-custom-planning-items-ppw|Create a table map]]

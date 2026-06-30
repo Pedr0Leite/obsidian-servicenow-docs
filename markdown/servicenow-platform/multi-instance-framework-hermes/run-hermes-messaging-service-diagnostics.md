@@ -22,7 +22,7 @@ Role required: hermes\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hermes-messaging-service|Hermes Messaging Service]]** &gt; **Diagnostics**.
+1.  Navigate to **All** &gt; **Hermes Messaging Service** &gt; **Diagnostics**.
 
     The dashboard loads and Hermes diagnostic tests are run automatically verifying instance public key infrastructure \(PKI\) configuration, external port status, and Glide Hermes Message Queue plugin \(com.glide.hermes\) activation.
 
@@ -38,7 +38,7 @@ Role required: hermes\_admin or admin
 
         Determine whether failures occurred with sending or receiving messages.
 
-3.  View the producer and consumer bootstrap addresses that you can use to [[c_Connect|connect]] to Hermes in the Setup Information section.
+3.  View the producer and consumer bootstrap addresses that you can use to connect to Hermes in the Setup Information section.
 
     Use these port mappings to connect producer and consumer clients to the Kafka cluster bootstrap addresses, as described in [Exchanging data using Hermes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/exchanging-data-hermes-messaging-service.md).
 
@@ -107,7 +107,3 @@ Role required: hermes\_admin or admin
 
 [View Hermes Messaging Service log messages]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]

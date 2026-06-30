@@ -14,7 +14,7 @@ breadcrumb: [Exploring Knowledge Management, Knowledge Management, Manage conten
 
 # Migration from workflow to flow
 
-Migration from Workflow to Flow in [[knowledge-management|Knowledge Management]] includes migration of publishing and retiring workflows to the flow designer framework.
+Migration from Workflow to Flow in Knowledge Management includes migration of publishing and retiring workflows to the flow designer framework.
 
 Beginning with Zurich, the Workflow model is replaced by Flow. Publishing and retiring articles in Knowledge Management will follow the flow designer framework.
 
@@ -27,6 +27,3 @@ Existing users of Knowledge Management upgrading to Zurich will have access to b
 
 [Knowledge workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeWorkflows.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

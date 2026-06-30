@@ -20,7 +20,7 @@ Manage SAE templates for TPRM from the Unified Content Management page in the Ve
 
 Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
-You must have the Unified Content Management application installed and you must set the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience.
+You must have the Unified Content Management application installed and you must set the Smart Assessment Engine enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After setting this property, SAE becomes the default assessment engine and replaces the legacy experience.
 
 **Warning:** After this option is enabled, this selection can’t be reversed.
 
@@ -70,6 +70,3 @@ To create a new version of a published template, use the **Create Version** acti
 
 You can also copy an existing template, including all questions, sections, instructions, and configurations. For more information, see [Copy an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-duplicate.md).
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

@@ -14,7 +14,7 @@ breadcrumb: [Now Assist certificate renewal AI agent, Use agentic AI, Now Assist
 
 # Use Now Assist to renew a certificate set to renew manually
 
-Use the [[now-assist-cert-renewal-ai-agent|Now Assist certificate renewal AI agent]] to immediately renew certificates set to renew manually.
+Use the Now Assist certificate renewal AI agent to immediately renew certificates set to renew manually.
 
 ## Before you begin
 
@@ -54,6 +54,3 @@ Find tasks that require you to renew your certificates manually and renew them i
 
 The certificate is renewed by the Now Assist AI certificate renewal agent.
 
-## Related
-
-- [[now-assist-cert-renewal-ai-agent|Now Assist certificate renewal AI agent]]

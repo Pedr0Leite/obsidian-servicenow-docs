@@ -14,7 +14,7 @@ breadcrumb: [Report an AI case anonymously, Use, AI Risk and Compliance, Governa
 
 # Report an AI case form
 
-Use the [[report-ai-case-form|Report an AI case form]] in the Anonymous Report Center to report an AI case with the necessary details. After you submit the AI case report, mandatory fields and input format are validated before submission.
+Use the Report an AI case form in the Anonymous Report Center to report an AI case with the necessary details. After you submit the AI case report, mandatory fields and input format are validated before submission.
 
 See the following table for a description of the field values.
 
@@ -43,7 +43,7 @@ Category of the AI issue being reported.The following options are available.
 -   Fairness &amp; Transparency \(Lack of explainability in AI decision-making, leading to unfair outcomes.\)
 -   Misinformation &amp; Deepfake \(AI-generated false content violating copyrights, patents, or trademarks.\)
 -   IP Theft &amp; Copyright Infringement \(AI-generated content violating copyrights, patents, or trademarks.\)
--   Unauthorised AI Model Usage \(Use of [[ai-model-airc|AI models]] outside agreed licensing terms.\)
+-   Unauthorised AI Model Usage \(Use of AI models outside agreed licensing terms.\)
 -   AI System Malfunction \(AI failures leading to unintended consequences in critical applications.\)
 -   Data Poisoning \(Manipulation of training data to mislead AI model behavior.\)
 -   Bias &amp; Discrimination \(e.g., racial, gender, socioeconomic biases.\)
@@ -138,7 +138,3 @@ Enter the CAPTCHA verification code on the screen.
 </td></tr></tbody>
 </table>**Parent Topic:**[Report an AI case anonymously](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/report-ai-case-anon.md)
 
-## Related
-
-- [[report-ai-case-form|Report an AI case form]]
-- [[ai-model-airc|AI models]]

@@ -18,13 +18,13 @@ Create a multi-component model to define more than one model component based on 
 
 ## Before you begin
 
-For details on multi-component [[c_Models|models]], see [Multi-component models and assets in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complex-models.md).
+For details on multi-component models, see [Multi-component models and assets in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/complex-models.md).
 
 Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 ## Procedure
 
-1.  Create a model by navigating to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management**
+1.  Create a model by navigating to **Enterprise Asset Workspace** &gt; **Enterprise model management**
 
     You can create a pre-assembled or an user-assembled model. For details on creating a model, see [Create enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-model-eam.md).
 
@@ -39,7 +39,3 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

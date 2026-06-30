@@ -16,7 +16,7 @@ As a patient service representative, you can use the landing page of the Workspa
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -24,7 +24,7 @@ The landing page of the Workspace provides an overview of procedure request case
 
 ## Role required
 
-Patient service representatives must have the sn\_previsit.patient\_service\_agent or sn\_hcls.manager role to use the Workspace. For more information, see [[pre-visit-assign-roles|Assign roles for Pre-Visit Management users]].
+Patient service representatives must have the sn\_previsit.patient\_service\_agent or sn\_hcls.manager role to use the Workspace. For more information, see [Assign roles for Pre-Visit Management users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-assign-roles.md).
 
 ## Accessing and using the landing page
 
@@ -44,7 +44,3 @@ The Workspace landing page for procedure request cases is same as the landing pa
 
 **Note:** Your administrator can customize the landing page for Workspace and change the data that appears on it.
 
-## Related
-
-- [[pre-visit-assign-roles|Assign roles for Pre-Visit Management users]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

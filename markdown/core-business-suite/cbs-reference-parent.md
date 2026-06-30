@@ -15,27 +15,18 @@ breadcrumb: [Core Business Suite]
 
 The reference topics provide details of the properties, forms, lists, roles, tables, and widgets you want to configure to use the CBS application.
 
--   **[[comp-inst-with-cbs|Components installed with Core Business Suite]]**  
+-   **[Components installed with Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/comp-inst-with-cbs.md)**  
 Various components are installed with Core Business Suite.
--   **[[helpt-instance-form|Help topics instance options]]**  
+-   **[Help topics instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/helpt-instance-form.md)**  
 The details provide the field and its descriptions of the widget instance options.
--   **[[es-moveworks-cbs-fsummary|Employee Slate for Moveworks configuration menu]]**  
+-   **[Employee Slate for Moveworks configuration menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/es-moveworks-cbs-fsummary.md)**  
 Navigation sections available on the Employee Slate for Moveworks Configuration Summary page, and what each section contains.
--   **[[es-na-cbs-fsummary|Employee Slate for Now Assist configuration menu]]**  
+-   **[Employee Slate for Now Assist configuration menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/es-na-cbs-fsummary.md)**  
 Navigation sections available on the Employee Slate for Now Assist configuration summary page, and what each section contains.
--   **[[assignment-rules-cbs|Assignment rule form]]**  
+-   **[Assignment rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/assignment-rules-cbs.md)**  
 Field descriptions for the Edit assignment rule form, used to define when and how tasks are assigned to a group or user in Core Business Suite.
--   **[[cbs-role-rule-form|CBS Client Role Rule form]]**  
+-   **[CBS Client Role Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-role-rule-form.md)**  
 Field descriptions for the CBS Client Role Rule form, used to define the conditions that determine how the CBS requester role is assigned to employees.
 
-**Parent Topic:**[[cbs-landing|Core Business Suite]]
+**Parent Topic:**[Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-landing.md)
 
-## Related
-
-- [[comp-inst-with-cbs|Components installed with Core Business Suite]]
-- [[helpt-instance-form|Help topics instance options]]
-- [[es-moveworks-cbs-fsummary|Employee Slate for Moveworks configuration menu]]
-- [[es-na-cbs-fsummary|Employee Slate for Now Assist configuration menu]]
-- [[assignment-rules-cbs|Assignment rule form]]
-- [[cbs-role-rule-form|CBS Client Role Rule form]]
-- [[cbs-landing|Core Business Suite]]

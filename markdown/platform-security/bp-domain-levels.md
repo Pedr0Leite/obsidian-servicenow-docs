@@ -14,7 +14,7 @@ breadcrumb: [Recommended practices for service providers, Domain separation for 
 
 Choose from three categories for domain separation of an application for your customers' organizations.
 
-Applications that support domain separation may support the separation of data and data routing only, have advanced [[sc-business-logic|business logic]] separation, or support tenant \(customer\) level administration of the application. These definitions delineate the support levels from the perspective of actual use cases and the people who implement them.
+Applications that support domain separation may support the separation of data and data routing only, have advanced business logic separation, or support tenant \(customer\) level administration of the application. These definitions delineate the support levels from the perspective of actual use cases and the people who implement them.
 
 ## Incremental ServiceNow support levels
 
@@ -83,7 +83,7 @@ Enhanced
 
 </td><td>
 
-Customer self-managed [[sc-configuration|configuration]]
+Customer self-managed configuration
 
 </td><td>
 
@@ -108,7 +108,7 @@ In some cases, a platform feature or application may support service provider us
  Use case: Before the New York release, Service Catalog had no domain support but the instance owners could configure separate catalogs and items for each tenant in a domain-separated instance by using user criteria. The result was that each tenant could use Service Catalog at a Standard level.
 
 </td></tr></tbody>
-</table>To view all applications listed by their support level see [[domain-separated-apps|Application support for domain separation]].
+</table>To view all applications listed by their support level see [Application support for domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-separated-apps.md).
 
 ## Summary
 
@@ -116,7 +116,7 @@ Domain separation is a framework that you must use to make your applications awa
 
 Consider the domain framework capabilities, your applications' business use cases, what the personas are, and how they use the application before you can use the framework to make your application supportable.
 
-**Parent Topic:**[[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
+**Parent Topic:**[Domain separation recommended practices for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-domain-sep-recommended.md)
 
 **Related topics**  
 
@@ -153,7 +153,7 @@ Consider the domain framework capabilities, your applications' business use case
 
 [Setting up domain hierarchies]()
 
-[Checking domain [[logs|logs]] for errors and warnings]()
+[Checking domain logs for errors and warnings]()
 
 [Importance of the Default domain]()
 
@@ -171,10 +171,3 @@ Consider the domain framework capabilities, your applications' business use case
 
 [Domain separation and the Customer Service Management \(CSM\) plugin]()
 
-## Related
-
-- [[domain-separated-apps|Application support for domain separation]]
-- [[bp-domain-sep-recommended|Domain separation recommended practices for service providers]]
-- [[sc-business-logic|Business Logic]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

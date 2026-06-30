@@ -23,7 +23,7 @@ Role required: sn\_bom\_fraud.agent or sn\_bom\_fraud.agent\_connector
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -56,6 +56,4 @@ Role required: sn\_bom\_fraud.agent or sn\_bom\_fraud.agent\_connector
     |**To submit a fraud case**|In the case playbook, select **Submit**.|
     |**To close investigation tasks**|In the task form, select **Close** to close the task.|
 
-## Related
 
-- [[fso-overview|Financial Services]]

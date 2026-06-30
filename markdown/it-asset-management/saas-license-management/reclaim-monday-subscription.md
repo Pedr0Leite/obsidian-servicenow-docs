@@ -24,7 +24,7 @@ ServiceNow Role required: sam\_user
 
 ## About this task
 
-The [[sam-subscription-management|SaaS License Management]] monday.com integration doesn’t support reclamation through the ServiceNow AI Platform. When [[c_SoftwareAssetMgmt|Software Asset Management]] creates a removal candidate for your monday.com integration, you can reclaim the user subscription by deactivating the associated user on your monday.com account. After you deactivate the user, you must update the state of the removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table.
+The SaaS License Management monday.com integration doesn’t support reclamation through the ServiceNow AI Platform. When Software Asset Management creates a removal candidate for your monday.com integration, you can reclaim the user subscription by deactivating the associated user on your monday.com account. After you deactivate the user, you must update the state of the removal candidate to **Closed Skipped** so that the user subscription is removed from the Software Subscriptions \[samp\_sw\_subscription\] table.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ The [[sam-subscription-management|SaaS License Management]] monday.com integrati
 
     2.  Select your monday.com integration profile from the Integration Profiles list.
 
-    3.  On the **[[c_CreatingSoftwareModels|Software Models]]** tab of the Integration Profile form, select the software model that is associated with the integration profile.
+    3.  On the **Software Models** tab of the Integration Profile form, select the software model that is associated with the integration profile.
 
     4.  On the Software Model form, select the **Reclamation Candidates** related tab to view the list of available removal candidates.
 
@@ -91,8 +91,3 @@ The [[sam-subscription-management|SaaS License Management]] monday.com integrati
 
 **Parent Topic:**[Reclaim user subscriptions in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/saas-license-management/reclaim-user-subscription-saas-classic.md)
 
-## Related
-
-- [[sam-subscription-management|SaaS License Management]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]

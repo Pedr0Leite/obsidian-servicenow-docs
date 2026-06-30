@@ -12,13 +12,13 @@ breadcrumb: [Enterprise security case management applications, Security Operatio
 
 # Threat Intelligence
 
-The ServiceNow® Threat Intelligence application enables you to find [[c_IoCs|indicators of compromise]] \(IoC\) and enrich security incidents with threat intelligence data.
+The ServiceNow® Threat Intelligence application enables you to find indicators of compromise \(IoC\) and enrich security incidents with threat intelligence data.
 
 ## Get started
 
 <table id="table_wjt_yml_xbc" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn Threat Intelligence concepts and its key features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/understanding-threat-intel.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn Threat Intelligence concepts and its key features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/understanding-threat-intel.md)
 
 </td><td>
 
@@ -46,7 +46,7 @@ The ServiceNow® Threat Intelligence application enables you to find [[c_IoCs|in
 
 </td><td>
 
-[Security Case Management\[Omitted image "bus-case.svg"\] Alt text:Manage [[case-mgmt|Security Case Management]] by gathering information on suspicious activities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-mgmt.md)
+[Security Case Management\[Omitted image "bus-case.svg"\] Alt text:Manage Security Case Management by gathering information on suspicious activities.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/case-mgmt.md)
 
 </td><td>
 
@@ -67,8 +67,3 @@ The ServiceNow® Threat Intelligence application enables you to find [[c_IoCs|in
 -   [Security Operations Resource Library](https://www.servicenow.com/community/secops-articles/security-operations-resource-library/ta-p/3120885)
 -   [Security Operations community](https://www.servicenow.com/community/secops/ct-p/security-operations)
 
-## Related
-
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[case-mgmt|Security Case Management]]

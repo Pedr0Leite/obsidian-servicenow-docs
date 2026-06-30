@@ -15,13 +15,13 @@ breadcrumb: [Generate recommendations for regulatory alert impacted areas, Use g
 
 # Accept or dismiss recommendations for regulatory alert impacted policies
 
-Accept AI-generated recommendations in [[reg-change-mgmt-landing-page|Regulatory Change Management]] to mark specific business areas as impacted so that you can help compliance practitioners capture and address the relevant regulatory alert for policies. You can also dismiss recommendations to filter out irrelevant or unnecessary information.
+Accept AI-generated recommendations in Regulatory Change Management to mark specific business areas as impacted so that you can help compliance practitioners capture and address the relevant regulatory alert for policies. You can also dismiss recommendations to filter out irrelevant or unnecessary information.
 
 ## Before you begin
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-Role required: To view your assigned [[list-view-of-reg-alerts|regulatory alerts]], you need the sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_user roles.
+Role required: To view your assigned regulatory alerts, you need the sn\_grc\_reg\_change.user and sn\_grc\_comp\_genai.reg\_change\_ai\_user roles.
 
 **Important:** Be sure to check AI-generated recommendations for accuracy. If no information is available, the generated recommendations display "No recommendations available," "None," "No records to display," and so on.
 
@@ -29,7 +29,7 @@ To learn about the related roles and regulatory alerts for a recommendation, see
 
 ## About this task
 
-The Recommendation Framework enables dynamic, AI-driven policy recommendations by evaluating regulatory alert content against configurable policy associations. This helps to enhance impact analysis and improve compliance accuracy. When a regulatory alert is issued, the system generates relevant policy suggestions. After reviewing each recommendation, compliance analysts can accept applicable policies to mark the corresponding business areas as impacted. For example, a regulatory alert related to Digital [[grc-opres-landing-page|Operational Resilience]] Act \(DORA\) can prompt recommendations for policies such as Vendor Onboarding Procedures and Incident Response Protocols. After a compliance analyst reviews and accepts these policies, they can mark the relevant business areas as impacted and take steps to help ensure regulatory compliance while managing regulatory tasks.
+The Recommendation Framework enables dynamic, AI-driven policy recommendations by evaluating regulatory alert content against configurable policy associations. This helps to enhance impact analysis and improve compliance accuracy. When a regulatory alert is issued, the system generates relevant policy suggestions. After reviewing each recommendation, compliance analysts can accept applicable policies to mark the corresponding business areas as impacted. For example, a regulatory alert related to Digital Operational Resilience Act \(DORA\) can prompt recommendations for policies such as Vendor Onboarding Procedures and Incident Response Protocols. After a compliance analyst reviews and accepts these policies, they can mark the relevant business areas as impacted and take steps to help ensure regulatory compliance while managing regulatory tasks.
 
 You can view the related activity for each recommendation by selecting the summary icon \[Omitted image "summary-icon.png"\] Alt text: to open the Feedback trail side-panel.
 
@@ -201,8 +201,3 @@ Related goal or requirement that can be associated with the policy.For each cont
 
 If you accepted any recommendations, confirm the creation of an impacted area by navigating to the **Impacted areas** tab. If you dismissed all recommendations or must add more impacted areas, you can manually add impacted areas. For more information, see [Add impacted areas manually to a regulatory alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/add-impacted-area-reg-alert.md).
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[grc-opres-landing-page|Operational Resilience]]

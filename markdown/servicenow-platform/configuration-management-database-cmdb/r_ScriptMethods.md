@@ -74,7 +74,7 @@ auditId: Sys\_id of audit record executed.
 
  followOnTask: Sys\_id of the follow-on task associated with the audited record and can be an empty string.
 
- columnDisplayName: [[label|Label]] of the column audited. For example, Disk space \(GB\).
+ columnDisplayName: Label of the column audited. For example, Disk space \(GB\).
 
  operatorLabel: Label of the operator used to audit the column. For example, is not empty or greater than can be the label.
 
@@ -108,7 +108,3 @@ auditId: Sys\_id of the audit record executed.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[label|Label]]

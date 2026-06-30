@@ -28,9 +28,9 @@ As a requester, you can start with viewing all the topics, and then selecting **
 
 You could also directly start typing what you need, in which case the utterance detection mechanism uses Genius Results to retrieve Virtual Agent topics, catalog items, and Q&amp;A results, and displays them to the requester within a card carousel. For details, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-now-assist-in-va.md).
 
-The Virtual Agent engages you in a guided conversation, asking you relevant questions along the way to help you submit your purchase, sourcing, and off-catalog requests, as well as procurement cases, independently, without the need to reach out to fulfillers. You can then review and track these request records from [[shopping-hub-overview|Shopping Hub]], Employee Center, or Platform.
+The Virtual Agent engages you in a guided conversation, asking you relevant questions along the way to help you submit your purchase, sourcing, and off-catalog requests, as well as procurement cases, independently, without the need to reach out to fulfillers. You can then review and track these request records from Shopping Hub, Employee Center, or Platform.
 
-To learn more about quick checkout and [[sourcing-checkout|sourcing checkout]] processes, see [Order a product with quick checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md) and [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md) respectively. For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md).
+To learn more about quick checkout and sourcing checkout processes, see [Order a product with quick checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md) and [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md) respectively. For more information on off-catalog intake forms, see [Requesting for products or services that you don't see on ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-prod-serv-dont-see-sh.md).
 
 Now Assist in Virtual Agent provides your users with an interactive generative Artificial Intelligence \(AI\) experience. A friendly, natural language conversation is easier to understand and makes requesters more comfortable with talking to a bot. To learn how a conversation powered by generative AI might look in Virtual Agent, see [Using Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/using-now-assist-in-va.md).
 
@@ -41,9 +41,9 @@ For detailed information on Now Assist in Virtual Agent in general, and Now Assi
 For information on configuring Now Assist for SPO, see [Configure Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-now-assist-for-spo.md).
 
 -   **[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-record.md)**  
-As a fulfiller, summarize procurement-related records to know about their status, progress, and action items by using the record summarization skills in the [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]] application.
+As a fulfiller, summarize procurement-related records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
 -   **[Summarize a record by using Now Assist for Sourcing and Procurement Operations \(SPO\) in Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-summarize-shopping.md)**  
-As a shopper, summarize [[sourcing-request|sourcing request]], [[purchase-requisition|purchase requisition]], and [[purchase-order-table|purchase order]] records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
+As a shopper, summarize sourcing request, purchase requisition, and purchase order records to know about their status, progress, and action items by using the record summarization skills in the Now Assist for Sourcing and Procurement Operations \(SPO\) application.
 -   **[Request the generative AI capabilites in Now Assist for Sourcing and Procurement Operations \(SPO\) by using Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/request-gen-ai-capabilities-spo-now-assist-panel.md)**  
 Request the contextual generative AI capabilities to summarize procurement-related records in the Now Assist for Sourcing and Procurement Operations \(SPO\) application by using the conversational interface in the Now Assist panel.
 -   **[Use the Now Assist for Sourcing and Procurement Operations \(SPO\) skills in a Virtual Agent chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-va-using.md)**  
@@ -55,11 +55,3 @@ Analyze requester sentiments on active procurement cases to help procurement spe
 
 **Parent Topic:**[Now Assist for Sourcing and Procurement Operations \(SPO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]
-- [[sourcing-checkout|Sourcing checkout]]
-- [[now-assist-spo|Now Assist for Sourcing and Procurement Operations \(SPO\)]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

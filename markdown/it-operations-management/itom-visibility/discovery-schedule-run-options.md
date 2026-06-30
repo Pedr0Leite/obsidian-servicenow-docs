@@ -14,7 +14,7 @@ breadcrumb: [ITOM Visibility reference, ITOM Visibility, IT Operations Managemen
 
 # Run options for discovery schedules
 
-Both horizontal and top-down [[r-discovery|discovery]] use these run options.
+Both horizontal and top-down discovery use these run options.
 
 <table id="table_qtt_ldf_br"><thead><tr><th>
 
@@ -129,6 +129,3 @@ Allows you to sequentially stagger the schedule. Use this option to run this sch
 
 [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

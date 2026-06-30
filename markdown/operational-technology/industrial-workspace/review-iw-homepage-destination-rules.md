@@ -22,7 +22,7 @@ Role required: configure\_industrial\_workspace
 
 ## About this task
 
-The homepage destination rules redirect users to different pages in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] based on user criteria. For more information about the homepage destination rules, see [Industrial Workspace homepage destination rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/industrial-workspace-homepage-destination-rules.md).
+The homepage destination rules redirect users to different pages in the Industrial Workspace based on user criteria. For more information about the homepage destination rules, see [Industrial Workspace homepage destination rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/industrial-workspace-homepage-destination-rules.md).
 
 ## Procedure
 
@@ -32,17 +32,17 @@ The homepage destination rules redirect users to different pages in the [[indust
 
 3.  Press the Enter key.
 
-4.  Select one of the following [[industrial-workspace-homepage-destination-rules|Industrial Workspace homepage destination rules]] whose user criteria you want to edit:
+4.  Select one of the following Industrial Workspace homepage destination rules whose user criteria you want to edit:
 
     -   OT Progress Scorecard Page
-    -   Industrial Workspace [[home-page|Home Page]]
+    -   Industrial Workspace Home Page
     -   OT Dashboard Library Page
 
-        **Note:** The OT Dashboard Library Page rule only displays if [[operational-technology-manager|Operational Technology Manager]] is installed.
+        **Note:** The OT Dashboard Library Page rule only displays if Operational Technology Manager is installed.
 
     -   ISA Equipment Model Page
 
-        **Note:** The ISA Equipment Model Page rule only displays if [[industrial-process-manager-overview|Industrial Process Manager]] is installed.
+        **Note:** The ISA Equipment Model Page rule only displays if Industrial Process Manager is installed.
 
     -   Industrial Workspace List Page
 5.  In the **User Criteria** field, copy the user criteria.
@@ -60,10 +60,3 @@ The users, groups, and roles defined in the user criteria record are now automat
 
 **Parent Topic:**[Configuring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/configuring-industrial-workspace.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-workspace-homepage-destination-rules|Industrial Workspace homepage destination rules]]
-- [[home-page|Home page]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

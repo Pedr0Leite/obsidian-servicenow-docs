@@ -19,7 +19,7 @@ Activate or update the EU Artificial Intelligence Act framework and select the c
 
 ## Before you begin
 
-Install the [[unified-content-management-in-airc|AI Risk and Compliance content]] application before activating frameworks. For more information, see [Install AI Risk and Compliance content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/install-ai-risk-content-pack.md).
+Install the AI Risk and Compliance content application before activating frameworks. For more information, see [Install AI Risk and Compliance content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/install-ai-risk-content-pack.md).
 
 Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_manager
 
@@ -29,7 +29,7 @@ Activating the EU Artificial Intelligence Act installs the framework's citations
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the AI Risk and Compliance Content icon \[Omitted image "unified-content-mgmt-icon.png"\] Alt text: on the AI Risk and Compliance Workspace.
 
@@ -73,7 +73,3 @@ To activate additional frameworks, see [Activate or update NIST Risk Management 
 
 [AI Risk and Compliance Content Pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/airc-content-pack.md)
 
-## Related
-
-- [[unified-content-management-in-airc|AI Risk and Compliance Content]]
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]

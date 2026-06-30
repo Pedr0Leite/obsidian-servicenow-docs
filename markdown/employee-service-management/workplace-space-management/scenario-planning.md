@@ -14,22 +14,22 @@ breadcrumb: [Explore, Workplace Space Management, Workplace Service Delivery, Em
 
 # Scenario Planning
 
-Manage space allocations in your workplace in the most efficient way using the [[space-optimization|Space optimization]] scenario planning feature. Adjust your existing space allocations, floor arrangements, and employee seating plan by creating a scenario and deploying it.
+Manage space allocations in your workplace in the most efficient way using the Space optimization scenario planning feature. Adjust your existing space allocations, floor arrangements, and employee seating plan by creating a scenario and deploying it.
 
 ## Overview of Scenario Planning
 
-The [[workplace-central-feat|Workplace Central]] is like a central homepage where you can monitor all your workplace-related tasks. The Workplace Central provides you the Space optimization module that enables you to create scenarios using a stack plan and view the plan on the floor map. Using the Space optimization module, as a space planner you can perform several actions related to scenarios such as creating a scenario, monitoring the number of scenarios created and more. For more information about the Space optimization module, refer to [Space Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md).
+The Workplace Central is like a central homepage where you can monitor all your workplace-related tasks. The Workplace Central provides you the Space optimization module that enables you to create scenarios using a stack plan and view the plan on the floor map. Using the Space optimization module, as a space planner you can perform several actions related to scenarios such as creating a scenario, monitoring the number of scenarios created and more. For more information about the Space optimization module, refer to [Space Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/space-optimization.md).
 
 Space Optimization enables you to perform scenario planning using a stack plan and a floor map. Scenario planning enables you to create multiple versions of a building with different space allocations until you finalize the best plan. You can share a scenario between multiple stake holders and deploy the best plan to the production.
 
 ## Working with Scenario planning
 
-To [[create-multi-building-scenario|create a scenario]] using the space optimization feature, you must install the latest version of the following plugins:
+To create a scenario using the space optimization feature, you must install the latest version of the following plugins:
 
 -   Workplace Central
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[workplace-move-mgmt-overview|Workplace Move Management]]
--   Workplace [[Indoor-mapping|Indoor Mapping]]
+-   Workplace Space Management
+-   Workplace Move Management
+-   Workplace Indoor Mapping
 
 Install the plugins from the from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html)..
 
@@ -37,9 +37,9 @@ Using the Space optimization module you can create scenarios for a single buildi
 
 -   A scenario creates a copy of a building with its entire space allocation plan and displays in on a stack plan, according to floors. A stack plan enables you to view all the allocations made on different floors of a building with clear divisions and colors.
 -   Using the stack plan, visualize spaces and departments as bars and move them to different floors as required. The bars are color-coded and depending on the allocation, the numbers are displayed. You can view unallocated spaces on a floor. You can categorize the spaces based on their department or cost center. You can switch views depending on how you want to view the spaces.
--   You can also [[create-copy-of-scenario|create a copy of an existing scenario]]. You can create multiple scenarios of a building and compare the best plan with your stake holders. You can share these scenarios with other colleagues or stake holders by changing the ownership of the scenario and deploying it after finalizing one.
+-   You can also create a copy of an existing scenario. You can create multiple scenarios of a building and compare the best plan with your stake holders. You can share these scenarios with other colleagues or stake holders by changing the ownership of the scenario and deploying it after finalizing one.
 -   Create a single scenario or multiple scenarios. You can work on multiple scenarios at a time, publish them so that your stake holders can review.
--   [[send-a-scenario-for-approval|Send a scenario for approval]] after you publish it. The application provides a default approval definition which is used to process approvals.
+-   Send a scenario for approval after you publish it. The application provides a default approval definition which is used to process approvals.
 -   You can view your approver and approval-related details in an Approver tab.
 -   You can deploy an approved scenario directly. In case the scenario is rejected, you can view the details of rejected and implement changes. You can send a scenario for approval multiple times till it is approved.
 -   Change space assignments on a floor, move a department or cost center from one floor to another, add or remove spaces, view the number of unallocated spaces, and more.
@@ -80,13 +80,3 @@ Using the Space optimization module you can create scenarios for a single buildi
 
 [Kiosk Indoor Mapping]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-central-feat|Workplace Central]]
-- [[create-multi-building-scenario|Create a scenario]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[create-copy-of-scenario|Create a copy of an existing scenario]]
-- [[send-a-scenario-for-approval|Send a scenario for approval]]

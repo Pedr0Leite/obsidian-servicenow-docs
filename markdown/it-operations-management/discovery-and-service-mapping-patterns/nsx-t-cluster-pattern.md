@@ -15,7 +15,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # VMware NSX-T cluster pattern-based discovery
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses the NSX Cluster pattern to find VMware NSX-T infrastructure. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses the NSX Cluster pattern to find VMware NSX-T infrastructure. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -51,7 +51,7 @@ The following diagram illustrates the tables and relationships that the Discover
     -   `GET /api/v1/transport-zones`
     -   `GET /api/v1/fabric/virtual-switches/`
     -   `GET /api/v1/edge-clusters`
--   **Create a [[serverless-discovery|serverless discovery]] schedule**
+-   **Create a serverless discovery schedule**
 
     For more information, see [Create a serverless schedule for NSX-T cluster discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-nsx-t.md).
 
@@ -259,7 +259,7 @@ User-provided description of the transport node.
 
 ## Dependency Views map
 
-On the [[dependency-views-map|Dependency Views map]], you can view discovered NSX-T cluster resources and the relationships between them.
+On the Dependency Views map, you can view discovered NSX-T cluster resources and the relationships between them.
 
 \[Omitted image "nsx-management-cluster-ci-dependency-view.png"\] Alt text: NSX Management Cluster CI and connection on a Dependency Views map
 
@@ -518,9 +518,3 @@ Create a serverless discovery schedule to run the NSX Cluster pattern against a 
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[serverless-discovery|Serverless Discovery]]
-- [[dependency-views-map|Dependency Views map]]

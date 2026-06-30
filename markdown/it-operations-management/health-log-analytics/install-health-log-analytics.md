@@ -15,7 +15,7 @@ breadcrumb: [Configuring, Health Log Analytics, ITOM AIOps, IT Operations Manage
 
 # Install Health Log Analytics \(HLA\)
 
-Install [[hla-landing-page|Health Log Analytics]] by requesting ServiceNow HLA installation from ServiceNow Customer Support.
+Install Health Log Analytics by requesting ServiceNow HLA installation from ServiceNow Customer Support.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
 
 ## Procedure
 
-1.  On the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website, opt into the [[itom-health-landing-page|ITOM AIOps]] product.
+1.  On the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website, opt into the ITOM AIOps product.
 
     1.  Go to the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) website and search for the Health Log Analytics app.
 
@@ -88,16 +88,10 @@ The Health Log Analytics application is installed and provisioned on your instan
 ## What to do next
 
 -   [Set up the data input process for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
--   \(Optional\) Install the ServiceNow® [[acc-log-analytics|Agent Client Collector Log Analytics]] \(ACC-L\) plugin.
+-   \(Optional\) Install the ServiceNow® Agent Client Collector Log Analytics \(ACC-L\) plugin.
 
-    Agent Client Collector Log Analytics enables you to stream log data from Linux and Windows hosts to a ServiceNow instance using the [[acc-landing-page|Agent Client Collector]]. For more information, see the [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md) documentation.
+    Agent Client Collector Log Analytics enables you to stream log data from Linux and Windows hosts to a ServiceNow instance using the Agent Client Collector. For more information, see the [Agent Client Collector Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-log-analytics.md) documentation.
 
 
 **Parent Topic:**[Configuring Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[acc-log-analytics|Agent Client Collector Log Analytics]]
-- [[acc-landing-page|Agent Client Collector]]

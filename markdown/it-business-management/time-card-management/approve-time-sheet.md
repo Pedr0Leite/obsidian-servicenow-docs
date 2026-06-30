@@ -14,7 +14,7 @@ breadcrumb: [Time Sheets, Time Card management, Project Portfolio Management, St
 
 # Approve or reject a time sheet
 
-View, approve, or reject time sheet or [[c_TimeCards|time cards]] for your user, for the given week, in a single step.
+View, approve, or reject time sheet or time cards for your user, for the given week, in a single step.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: timecard\_approver or timecard\_admin
 
 A user manager is the one who has either of the required roles and is selected in the **Manager** field on User form of the time card user.
 
-During out-of-office time, the user manager can [Delegate time sheet approvals to another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the [[time-sheets|time sheets]] submitted by the time card users to process.
+During out-of-office time, the user manager can [Delegate time sheet approvals to another user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/delegate-time-sheet-approvals.md) with the required roles as the time sheet approver. For the specified time period, the delegated user also receives all the time sheets submitted by the time card users to process.
 
 **Note:**
 
@@ -54,7 +54,3 @@ The time sheet moves to the Approved or Rejected state.
 
 **Parent Topic:**[Time Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/time-card-management/time-sheets.md)
 
-## Related
-
-- [[c_TimeCards|Time cards]]
-- [[time-sheets|Time Sheets]]

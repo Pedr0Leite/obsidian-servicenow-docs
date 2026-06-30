@@ -14,7 +14,7 @@ breadcrumb: [Downgrade a license using the legacy Software Asset Management plug
 
 # Identify a downgrade child from a software license record using the legacy Software Asset Management plugin
 
-Use the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin to identify a downgrade child from a software license record.
+Use the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin to identify a downgrade child from a software license record.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: sam
 
 **Parent Topic:**[Downgrade a license using the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_DowngradingALicense.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

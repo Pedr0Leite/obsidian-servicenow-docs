@@ -12,7 +12,7 @@ breadcrumb: [Integrating Order Management with FSM, Integrate, Sales Customer Re
 
 # Synchronization of information between Order Management and Field Service Management - Workflow scenario
 
-The integration between [[explore-order-management|Order Management]] and Field Service Management provides support for the end-to-end [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process. The following scenario shows the seamless synchronization of data, customer information, status, and other updates between Order Management and Field Service Management.
+The integration between Order Management and Field Service Management provides support for the end-to-end order fulfillment process. The following scenario shows the seamless synchronization of data, customer information, status, and other updates between Order Management and Field Service Management.
 
 ## Scenario
 
@@ -31,7 +31,4 @@ After the order fulfillment manager approves the order in Order Management, work
 
     **Note:** The agent cannot close a domain order unless all the work orders associated with that domain order are closed.
 
-## Related
 
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]

@@ -14,7 +14,7 @@ breadcrumb: [Automatically assign categories, Explore, Now Assist for SPO, Sourc
 
 # Ensure consistent invoice spend categories during PO matching
 
-Maintain aligned spend categories when matching invoice lines with [[purchase-order-lines|purchase order lines]] by applying the spend category from the PO line to the corresponding invoice line.
+Maintain aligned spend categories when matching invoice lines with purchase order lines by applying the spend category from the PO line to the corresponding invoice line.
 
 The Spend categorization agent maintains consistent spend categories when matching invoice lines \(IVLs\) to purchase order lines \(POLs\).
 
@@ -24,6 +24,3 @@ For older invoice lines created before SPO installation, the system generates up
 
 **Parent Topic:**[Automatically assign categories during SR and PR creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/automatically-assign-categories.md)
 
-## Related
-
-- [[purchase-order-lines|Purchase order lines]]

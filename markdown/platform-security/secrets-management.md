@@ -12,15 +12,15 @@ breadcrumb: [Platform Security]
 
 # Secrets Management
 
-Secrets Management lets you control which applications and [[users|users]] can access sensitive credentials stored on your instance.
+Secrets Management lets you control which applications and users can access sensitive credentials stored on your instance.
 
 **Important:**
 
-Secrets Management has begun its End of Life process and has reached the End of Sale and End of Renewal milestones as of the Yokohama release. For support storing passwords with two-way [[encryption-landing|encryption]], see [Password2 encryption with the Key Management Framework \(KMF\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password-2way-encrypted-fields.md).
+Secrets Management has begun its End of Life process and has reached the End of Sale and End of Renewal milestones as of the Yokohama release. For support storing passwords with two-way encryption, see [Password2 encryption with the Key Management Framework \(KMF\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/password-2way-encrypted-fields.md).
 
-Use Secrets Management to restrict access to passwords and other sensitive credentials beyond standard role-based controls, such as when different teams or applications share an instance but shouldn't have access to each other's credentials, or when your organization's security [[ca-policies|policies]] require fine-grained control over who can decrypt specific secrets.
+Use Secrets Management to restrict access to passwords and other sensitive credentials beyond standard role-based controls, such as when different teams or applications share an instance but shouldn't have access to each other's credentials, or when your organization's security policies require fine-grained control over who can decrypt specific secrets.
 
-Secrets Management has two available versions. Secrets Management Core is included on the ServiceNow platform at no additional cost and Secrets Management Enterprise is a premium, subscription version of the product. For more information on the difference between these versions, see [[exploring-secrets-management|Exploring Secrets Management]].
+Secrets Management has two available versions. Secrets Management Core is included on the ServiceNow platform at no additional cost and Secrets Management Enterprise is a premium, subscription version of the product. For more information on the difference between these versions, see [Exploring Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/exploring-secrets-management.md).
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -32,13 +32,13 @@ Secrets Management has two available versions. Secrets Management Core is includ
 
 [Analyze\[Omitted image "icon-workspace.png"\] Alt text: Analyze](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
- [[secrets-dashboard|Learn more about Secrets Management dashboard.]]
+ [Learn more about Secrets Management dashboard.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
 </td></tr><tr><td>
 
 [Configure\[Omitted image "icon-set-up.png"\] Alt text: Configure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
- [[client-access-secret-landing|Plan your core configurations.]]
+ [Plan your core configurations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/client-access-secret-landing.md)
 
 </td><td>
 
@@ -52,14 +52,5 @@ Learn how to configure your instance to use client accessible secrets.
 -   **[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)**  
 Use the Secrets Management dashboard to review the secret groups configured on your instance and learn about any security issues.
 
-**Parent Topic:**[[platsec-sublanding|Platform Security]]
+**Parent Topic:**[Platform Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platsec-sublanding.md)
 
-## Related
-
-- [[exploring-secrets-management|Exploring Secrets Management]]
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[client-access-secret-landing|Configuring client accessible secrets]]
-- [[platsec-sublanding|Platform Security]]
-- [[users|Users]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]

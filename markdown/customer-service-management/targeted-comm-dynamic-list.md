@@ -12,11 +12,11 @@ breadcrumb: [Targeted communications, Configure case management, Case management
 
 # Recipients lists
 
-Create the recipients list for a [[c_TargetedCommunications|targeted communications]] that can include internal users, customer, accounts, contacts, and consumers. You can create the recipient list using the methods of user import, dynamic [[migration-lists|lists]], or scripting.
+Create the recipients list for a targeted communications that can include internal users, customer, accounts, contacts, and consumers. You can create the recipient list using the methods of user import, dynamic lists, or scripting.
 
 When an article is published, the recipients on this list can view the article on the Customer or Consumer Service Portal. Recipients can also receive optional email notifications.
 
-[[major-issue-recipient-lists|Recipients lists]] are also used by the Major Issue Management application to [[create-child-cases-for-major-case|create child cases for a major case]].
+Recipients lists are also used by the Major Issue Management application to create child cases for a major case.
 
 Recipients lists are created in the following ways:
 
@@ -53,9 +53,3 @@ Create a recipient list using a script with these supported entities: contact, c
 
 To create a recipient list using a script, select Dynamic Condition in the **Method** field on the Recipients List form and enable the **Show Script** check box. Then create your script in the **Script** field.
 
-## Related
-
-- [[c_TargetedCommunications|Targeted communications]]
-- [[migration-lists|Lists]]
-- [[major-issue-recipient-lists|Recipients lists]]
-- [[create-child-cases-for-major-case|Create child cases for a major case]]

@@ -26,7 +26,7 @@ If you have been assigned as an approver as part of a metric definition record, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the Metric tasks \[Omitted image "metric-tasks-irm.png"\] Alt text: icon.
 
@@ -68,6 +68,3 @@ Action
 
 **Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-metrics-irm.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

@@ -16,7 +16,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 Use the **Topics** tab in the Conversational Analytics dashboard to identify the best and underperforming topics.
 
-The **Topics** tab provides insights into which [[virtual-agent-landing-page|Virtual Agent]] \(VA\) topics are performing well and which aren’t. To use the Topics tab, you must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role.
+The **Topics** tab provides insights into which Virtual Agent \(VA\) topics are performing well and which aren’t. To use the Topics tab, you must have the Chat Analytics Viewer \(chat\_analytics\_viewer\) role.
 
 \[Omitted image "Dashboard-Topics-2-pae.png"\] Alt text: Virtual Agent dashboard topics tab.
 
@@ -37,7 +37,7 @@ The Underperforming topics indicators show topics that didn't perform well. The 
 
 ## Spokes
 
-The [[topic-spokes-subtab-pae|Spokes]] indicator provides details of the spoke, actions, subflows, and topics that executed the spoke. Select a spoke on the chart to view the details of the spoke. For more information, see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-spokes-subtab-pae.md).
+The Spokes indicator provides details of the spoke, actions, subflows, and topics that executed the spoke. Select a spoke on the chart to view the details of the spoke. For more information, see [Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-spokes-subtab-pae.md).
 
 -   **[Spokes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/topic-spokes-subtab-pae.md)**  
 Use the Spokes indicators to view details such as spoke usage, spoke actions, and subflows for the selected spoke.
@@ -48,7 +48,3 @@ Use the Topic Details page in the Conversational Analytics dashboard to view key
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-spokes-subtab-pae|Spokes]]

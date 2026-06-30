@@ -14,7 +14,7 @@ breadcrumb: [Shodan integration, Security Incident Response integrations, Securi
 
 # \(Optional\) Manually attach an observable for Shodan
 
-You can manually attach [[c_Observables|observables]] to a security incident. You manually attach observables when you want to perform threat lookups on observables that are not attached to a security incident on the initial event trigger. Also, you might perform this task when you want more information about a related observable.
+You can manually attach observables to a security incident. You manually attach observables when you want to perform threat lookups on observables that are not attached to a security incident on the initial event trigger. Also, you might perform this task when you want more information about a related observable.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ Role required: sn\_si.analyst
 
 8.  At the bottom of the record, select the **Show All Related Lists** related link.
 
-9.  Select the **[[tisc-observable-enrichment|Observable Enrichment]] Results** or **Network Banners** tabs for results, and select the blue information icon next to an observable for more information on a specific item.
+9.  Select the **Observable Enrichment Results** or **Network Banners** tabs for results, and select the blue information icon next to an observable for more information on a specific item.
 
 10. In the dialog that is displayed, select **Open Record** to view raw data and more details.
 
@@ -59,7 +59,3 @@ Review the **Work notes** for more information and how to proceed if you can't v
 
 **Next topic:**[Secureworks CTP Ticket Ingestion Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/secureworks-ctp-about.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

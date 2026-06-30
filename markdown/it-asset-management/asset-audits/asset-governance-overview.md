@@ -14,7 +14,7 @@ breadcrumb: [Asset Governance Workspace, Explore, Asset Audit Response, IT Asset
 
 # Asset governance overview
 
-Enhance your [[asset-audit-response|Asset Audit Response]] experience by using the modernized and user-friendly Asset governance overview. This simplified and intuitive overview helps you use the Asset Audit Response application more effectively by reducing complexity.
+Enhance your Asset Audit Response experience by using the modernized and user-friendly Asset governance overview. This simplified and intuitive overview helps you use the Asset Audit Response application more effectively by reducing complexity.
 
 You can use the Asset governance overview to perform the following tasks:
 
@@ -27,11 +27,7 @@ Select any widget to view more detailed information or to perform a relevant tas
 
 |Widget|Description|
 |------|-----------|
-|Asset evidence tasks|Number of asset evidence tasks, grouped by the task state. Each asset evidence task corresponds with an evidence request that was assigned and submitted to you through the Lite [[audit-workspace|Audit Workspace]].|
+|Asset evidence tasks|Number of asset evidence tasks, grouped by the task state. Each asset evidence task corresponds with an evidence request that was assigned and submitted to you through the Lite Audit Workspace.|
 |Evidence|Number of evidence records that you have created for all evidence requests, grouped by the record state.|
 |Remediation tasks|Number of remediation tasks that are generated for all evidence requests, grouped by the task state.|
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]
-- [[audit-workspace|Audit Workspace]]

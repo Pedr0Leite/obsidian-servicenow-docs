@@ -14,7 +14,7 @@ breadcrumb: [Manage phase-wise Software Asset Management implementation, Using S
 
 # Remove published software products
 
-Remove published software products that you no longer manage or report on as part of your [[c_SoftwareAssetMgmt|Software Asset Management]] implementation.
+Remove published software products that you no longer manage or report on as part of your Software Asset Management implementation.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sam\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations**.
+1.  Navigate to **All** &gt; **Software Asset Workspace** &gt; **License operations**.
 
 2.  From the **SAM Implementation** list, select **Published products**.
 
@@ -48,7 +48,3 @@ The software products that you removed are no longer shown in the Published prod
 
 [Publish a specific set of your software products]()
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

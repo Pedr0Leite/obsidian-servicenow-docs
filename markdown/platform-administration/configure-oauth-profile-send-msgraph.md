@@ -12,7 +12,7 @@ breadcrumb: [Send email using Microsoft Graph, Read or send emails using Microso
 
 # Configure OAuth profile to use a client ID and secret for token generation
 
-Configure an OAuth profile using a client ID and client secret to [[t_ConfigureAnEmailAccount|create an email account]] for using Microsoft Graph \(send\) in your email account type.
+Configure an OAuth profile using a client ID and client secret to create an email account for using Microsoft Graph \(send\) in your email account type.
 
 ## Before you begin
 
@@ -75,9 +75,5 @@ Role required: admin and Microsoft Azure portal administrator
 9.  Navigate to **Overview** &gt; **Endpoints** and copy the **OAuth 2.0 token endpoint \(v2\)** to a text file.
 
 
-**Parent Topic:**[[send-email-using-ms-graph|Sending email using Microsoft Graph]]
+**Parent Topic:**[Sending email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-using-ms-graph.md)
 
-## Related
-
-- [[send-email-using-ms-graph|Sending email using Microsoft Graph]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]

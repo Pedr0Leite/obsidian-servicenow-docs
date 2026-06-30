@@ -28,7 +28,7 @@ For more information on Zebra MotionWorks, refer to the [Zebra MotionWorks Locat
 
 ## Importing RFID location data from Zebra MotionWorks location solutions
 
-When you import RFID location data from Zebra MotionWorks location solutions, the data is added to the RFID Stage Asset \[sn\_itam\_common\_rfid\_stg\_asset\] table based on the enterprise assets that it is associated with. The [[enterprise-asset-management|Enterprise Asset Management]] application automatically creates a separate table entry for each enterprise asset that you import this RFID location data for.
+When you import RFID location data from Zebra MotionWorks location solutions, the data is added to the RFID Stage Asset \[sn\_itam\_common\_rfid\_stg\_asset\] table based on the enterprise assets that it is associated with. The Enterprise Asset Management application automatically creates a separate table entry for each enterprise asset that you import this RFID location data for.
 
 After the RFID location data is added to the RFID Stage Asset \[sn\_itam\_common\_rfid\_stg\_asset\] table, the Enterprise Asset Management application uses the RFID Resource Data transform map to process and then map this data to the RFID Asset \[sn\_itam\_common\_rfid\_asset\] table. However, RFID location data can be mapped to the RFID Asset \[sn\_itam\_common\_rfid\_asset\] table only for enterprise assets that contain serial numbers.
 
@@ -37,10 +37,10 @@ On successful mapping, you can run the **RFID Asset Mapping Job** scheduled job 
 -   If a corresponding asset record already exists for an enterprise asset that you want to map data for, it automatically updates each time the RFID location data for that enterprise asset changes. In addition, the **Status** of the enterprise asset changes from **New** to **Matched** in the RFID Asset \[sn\_itam\_common\_rfid\_asset\] table.
 -   If a corresponding asset record does not already exist, data for that enterprise asset cannot be mapped from the RFID Asset \[sn\_itam\_common\_rfid\_asset\] table to the Asset \[alm\_asset\] table. The **Status** of the enterprise asset changes from **New** to **Unmatched** in the RFID Asset \[sn\_itam\_common\_rfid\_asset\] table.
 
-    You can view and take action on these unmatched enterprise assets by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise [[asset-estate-view-am|asset estate view]]. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-estate-overview-eam.md).
+    You can view and take action on these unmatched enterprise assets by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise asset estate view. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-estate-overview-eam.md).
 
 
-You can view your asset records in the [Enterprise asset estate view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-estate-overview-eam.md) of the [[using-eam-workspace|Enterprise Asset Workspace]]. For details on the RFID fields that are included in each asset record, see [Asset fields for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-fields-eam.md).
+You can view your asset records in the [Enterprise asset estate view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-estate-overview-eam.md) of the Enterprise Asset Workspace. For details on the RFID fields that are included in each asset record, see [Asset fields for enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-fields-eam.md).
 
 **Note:** If you are importing RFID location data for parent enterprise assets with one or more child enterprise assets, RFID location data for those child enterprise assets is based on the RFID tags that they are associated with.
 
@@ -49,8 +49,3 @@ You can view your asset records in the [Enterprise asset estate view](https://ra
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

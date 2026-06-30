@@ -14,7 +14,7 @@ breadcrumb: [Create a portal, Configuring Service Portal, Service Portal, Config
 
 # Configure a catalog in Service Portal
 
-Associate a portal with multiple catalogs. By default, [[c_ServicePortal|Service Portal]] is associated with Service Catalog.
+Associate a portal with multiple catalogs. By default, Service Portal is associated with Service Catalog.
 
 ## Before you begin
 
@@ -63,6 +63,3 @@ Automates the deployment and provisioning of the AWS CloudFormation services usi
 
 [Service Catalog in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/catalog-on-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

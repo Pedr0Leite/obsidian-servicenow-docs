@@ -22,7 +22,7 @@ Role required: sn\_wsd\_rsv.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Administration** &gt; **User Criteria**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Administration** &gt; **User Criteria**.
 
 2.  Click **New**.
 
@@ -89,6 +89,3 @@ Apply a user criteria to give permission for employees and groups to view and ma
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

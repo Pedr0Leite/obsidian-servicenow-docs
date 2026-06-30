@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Google Cloud Platform Load Balancer
 
-[[csc-home|Cloud Services Catalog]] with Google Cloud Platform HTTP Load Balancer for high availability.
+Cloud Services Catalog with Google Cloud Platform HTTP Load Balancer for high availability.
 
 This is a sample catalog item designed to streamline the process of provisioning an HTTP load balancer from the Google Cloud Provider. Its primary objective is to mitigate performance issues and enhance user experience by efficiently managing incoming traffic.
 
@@ -40,6 +40,3 @@ Google Cloud Platform HTTP Load Balancer Out Of Box permissions
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

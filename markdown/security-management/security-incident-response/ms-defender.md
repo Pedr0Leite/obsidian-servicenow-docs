@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Microsoft Defender integration for Security Operations
 
-The Microsoft Defender integration for ServiceNow [[security-operations-landing-page|Security Operations]] ingests alerts and incidents into the ServiceNow [[sir-landing-page|Security Incident Response]] \(SIR\) platform for centralized case management. Bi-directional synchronization keeps status and work notes aligned across both platforms, ensuring teams working in either system maintain consistent information without discrepancies.
+The Microsoft Defender integration for ServiceNow Security Operations ingests alerts and incidents into the ServiceNow Security Incident Response \(SIR\) platform for centralized case management. Bi-directional synchronization keeps status and work notes aligned across both platforms, ensuring teams working in either system maintain consistent information without discrepancies.
 
 **Important:**
 
@@ -52,7 +52,3 @@ Microsoft Defender integration tasks involve the following roles.
 
 For more information on Roles installed, see [Components installed with Security Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]

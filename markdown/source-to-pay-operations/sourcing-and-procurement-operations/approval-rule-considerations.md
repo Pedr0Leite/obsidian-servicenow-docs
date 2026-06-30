@@ -20,7 +20,7 @@ Factors like currency, which includes foreign exchange, reference, and transacti
 
 If an approval rule has a defined approved purchasing limit, the foreign exchange currency is defaulted to the system reference currency.
 
-To determine the approval rule to be triggered, compare the transactional currency on the **Total amount** field on the [[purchase-requisition|purchase requisition]] against the reference currency approval rule bucket that it belongs to.
+To determine the approval rule to be triggered, compare the transactional currency on the **Total amount** field on the purchase requisition against the reference currency approval rule bucket that it belongs to.
 
 If an approval rule has an approval trigger defined using the total line amount, it should be defined by dot-walking to the reference amount. The transactional currency on the purchase line's total line amount is compared against the reference currency, to determine the approval rule to be triggered.
 
@@ -30,6 +30,3 @@ For a fully received line, the line amount is taken into consideration to determ
 
 **Parent Topic:**[Create an approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/create-approval-rule.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]

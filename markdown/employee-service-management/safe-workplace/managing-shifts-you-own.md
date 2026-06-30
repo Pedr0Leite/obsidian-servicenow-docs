@@ -14,7 +14,7 @@ breadcrumb: [Workplace Core, Safe Workplace, Health and Safety, Employee Service
 
 # Managing workplace shifts that you own
 
-Review the workplace shifts that you own in [[workplace-safety-mgmt-hr|Workplace Core]] and update the shift details if necessary. You can also monitor the reservations and requests made for the workspaces associated with these shifts.
+Review the workplace shifts that you own in Workplace Core and update the shift details if necessary. You can also monitor the reservations and requests made for the workspaces associated with these shifts.
 
 ## Update details of the shifts that you own
 
@@ -170,6 +170,4 @@ Role required: sn\_wsd\_core.workplace\_shift\_owner
 
 4.  If you are viewing employee requests, note any requests in the **Pending** state so you can work with your workplace manager to resolve them.
 
-## Related
 
-- [[workplace-safety-mgmt-hr|Workplace Core]]

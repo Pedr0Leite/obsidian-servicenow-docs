@@ -23,7 +23,7 @@ Create External Dynamic List \(EDLs\) for Palo Alto Networks. After you create E
 -   **[Define Palo Alto Networks Approval Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edl-approval-rules.md)**  
 Activate approval workflows to require approval or rejection of EDL entries before they take effect.
 -   **[Add Observables to EDLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/add-obsesrvables-edl.md)**  
-Add [[c_Observables|observables]] such as IP addresses, domains, and hashes to External Dynamic Lists \(EDLs\) to automatically update [[threat-intelligence-feeds|threat intelligence feeds]] in your security [[threat-intelligence-infrastructure|infrastructure]].
+Add observables such as IP addresses, domains, and hashes to External Dynamic Lists \(EDLs\) to automatically update threat intelligence feeds in your security infrastructure.
 -   **[Remove Observables from EDL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/remove-observables-edl.md)**  
 Remove observables from an External Dynamic List \(EDL\) to stop blocking or monitoring specific observables. Use this when observables are no longer relevant or incorrectly categorized.
 -   **[Approve EDL entries for Palo Alto Networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-approve-edl-entries.md)**  
@@ -31,8 +31,3 @@ Approving External Dynamic List \(EDL\) entries is part of the pre configuration
 
 **Parent Topic:**[Firewall integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-security-tools.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[threat-intelligence-feeds|Threat Intelligence Feeds]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

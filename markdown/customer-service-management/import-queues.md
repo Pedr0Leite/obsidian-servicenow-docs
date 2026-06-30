@@ -80,7 +80,7 @@ Follow these steps in the workflow to import queues from your selected contact c
 1.  In the **View summary** step, review a summary of your recent actions.
 2.  Additionally, you can also choose to import more queues or view all queues in the table.
 3.  Review the list of queues to confirm their successful import.
-4.  The new imported queues and queues that previously existed are displayed in two separate [[migration-lists|lists]] in the confirmation page.
+4.  The new imported queues and queues that previously existed are displayed in two separate lists in the confirmation page.
 
 ## Example: Fetch all queues, assign a service channel, and import all queues
 
@@ -96,6 +96,3 @@ The following example demonstrates how to fetch all available queues, assign the
 8.  Select **Import** to start the import process.
 9.  Review a summary of your import in the **View summary** step.
 
-## Related
-
-- [[migration-lists|Lists]]

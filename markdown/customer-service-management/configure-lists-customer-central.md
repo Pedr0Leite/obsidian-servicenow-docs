@@ -20,13 +20,13 @@ Role required: admin
 
 ## About this task
 
-[[migration-lists|Lists]] are displayed in the Customer Information view in Agent Workspace.
+Lists are displayed in the Customer Information view in Agent Workspace.
 
 \[Omitted image "customer-lists.jpg"\] Alt text: Recent cases section displaying a list of recent cases and their details.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer Information** &gt; **List Configurations**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer Information** &gt; **List Configurations**.
 
 2.  Select **New**.
 
@@ -95,7 +95,4 @@ Enter the number of records to display in the list. You can access the remaining
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[customer-central|Customer Central]]

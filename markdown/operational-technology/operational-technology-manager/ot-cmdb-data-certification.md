@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Manager, Operational Technology]
 
 # Create CMDB Data Certification Policy for Operational Technology
 
-Create a CMDB Data Certification Policy for [[operational-technology-overview|Operational Technology]] \(OT\) to validate and maintain accurate configuration item \(CI\) data.
+Create a CMDB Data Certification Policy for Operational Technology \(OT\) to validate and maintain accurate configuration item \(CI\) data.
 
 ## Before you begin
 
@@ -117,6 +117,3 @@ You can view the policy in the **Published Policies** section on the main page a
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

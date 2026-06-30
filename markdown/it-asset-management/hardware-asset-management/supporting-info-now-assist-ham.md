@@ -15,7 +15,7 @@ breadcrumb: [AI in Hardware Asset Management, Explore, Hardware Asset Management
 
 # Supporting information for Now Assist for Hardware Asset Management \(HAM\)
 
-Get a quick overview of the important information related to the [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]] application.
+Get a quick overview of the important information related to the Now Assist for Hardware Asset Management \(HAM\) application.
 
 ## Supported versions
 
@@ -23,11 +23,11 @@ The Now Assist for HAM application is supported starting with the Yokohama Patch
 
 ## Supported user interfaces
 
-You can access the agentic workflow included in the Now Assist for HAM application through the Now Assist panel in the [[using-ham-workspace|Hardware Asset Workspace]].
+You can access the agentic workflow included in the Now Assist for HAM application through the Now Assist panel in the Hardware Asset Workspace.
 
 ## Licensing requirements
 
-The Now Assist for HAM application requires a [[ham-landing-page|Hardware Asset Management]] Pro Plus license.
+The Now Assist for HAM application requires a Hardware Asset Management Pro Plus license.
 
 ## Application information
 
@@ -37,7 +37,7 @@ This store application has the following dependencies:
 
 -   Hardware Asset Management \(com.sn\_hamp\)
 -   Now Assist for Platform \(com.sn\_genai\_platform\)
--   AI Agents for [[it-asset-management|IT Asset Management]] \(com.sn\_itam\_aia\)
+-   AI Agents for IT Asset Management \(com.sn\_itam\_aia\)
 
 Activate the applications in the following order:
 
@@ -46,9 +46,3 @@ Activate the applications in the following order:
 -   AI Agents for IT Asset Management \(com.sn\_itam\_aia\)
 -   Now Assist for Hardware Asset Management \(HAM\) \(sn\_now\_assist\_ham\)
 
-## Related
-
-- [[now-assist-ham|Now Assist for Hardware Asset Management \(HAM\)]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[it-asset-management|IT Asset Management]]

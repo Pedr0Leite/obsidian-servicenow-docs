@@ -14,7 +14,7 @@ breadcrumb: [Common applications, Financial Services Operations \(FSO\)]
 
 # Financial Services Customer Lifecycle Operations
 
-ServiceNow® [[fso-overview|Financial Services]] Business Lifecycle and ServiceNow® Financial Services Client Lifecycle are a pair of applications in ServiceNow® Customer Lifecycle Operations that offer management and oversight of the customer lifecycle process and services. These solutions provide streamlined workflows to gather information, verify identity documentation, and approve potential customers for banking services.
+ServiceNow® Financial Services Business Lifecycle and ServiceNow® Financial Services Client Lifecycle are a pair of applications in ServiceNow® Customer Lifecycle Operations that offer management and oversight of the customer lifecycle process and services. These solutions provide streamlined workflows to gather information, verify identity documentation, and approve potential customers for banking services.
 
 ## Request apps on the Store
 
@@ -46,7 +46,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

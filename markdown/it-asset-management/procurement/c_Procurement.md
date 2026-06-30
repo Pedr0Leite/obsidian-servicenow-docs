@@ -21,7 +21,7 @@ Procurement offers the ability to perform the following functions.
 -   Track service catalog requests
 -   Create and manage purchase orders
 -   Create and manage transfer orders
--   [[c_ReceiveAssets|Receive assets]]
+-   Receive assets
 
 -   **[Procurement roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/r_ProcurementRoles.md)**  
 The Procurement application uses the following roles.
@@ -40,9 +40,5 @@ Assets can be received and added to the system when they are delivered to a stoc
 -   **[Domain separation and Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/domain-separation-procurement.md)**  
 Domain separation is supported in Procurement processing. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[c_ReceiveAssets|Receive assets]]

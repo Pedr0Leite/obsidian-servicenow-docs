@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Contractor Management, Health and Safety, Employe
 
 # Exploring Health and Safety Contractor Management
 
-Learn more about [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] and review the benefits it can provide for different users in your organization.
+Learn more about Health and Safety Contractor Management and review the benefits it can provide for different users in your organization.
 
 ## Health and Safety Contractor Management overview
 
@@ -36,8 +36,8 @@ Safety contractor coordinator
 
 </td><td>
 
--   Adds contractor companies and its workers from the [[health-safety-core-workspace|Health and Safety Workspace]].
--   Manages contractor workers for their [[health-safety-overview|health and safety]] and knows who is on site at all times. The contractor coordinator confirms that contractor workers have relevant certificates and skills and have completed the required trainings before granting them access to the site.
+-   Adds contractor companies and its workers from the Health and Safety Workspace.
+-   Manages contractor workers for their health and safety and knows who is on site at all times. The contractor coordinator confirms that contractor workers have relevant certificates and skills and have completed the required trainings before granting them access to the site.
 
 </td></tr><tr><td>
 
@@ -45,7 +45,7 @@ Employee and Line manager
 
 </td><td>
 
-Adds contractor companies from the [[employee-center-landing-page|Employee Center]] to initiate their health and safety pre-qualification process.
+Adds contractor companies from the Employee Center to initiate their health and safety pre-qualification process.
 
 </td></tr><tr><td>
 
@@ -148,9 +148,3 @@ To learn more about configuring and using Health and Safety Contractor Managemen
 -   [Managing contractors for health and safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-using-contractor-management.md)
 -   [Health and Safety Contractor Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-management-reference.md)
 
-## Related
-
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]
-- [[employee-center-landing-page|Employee Center]]

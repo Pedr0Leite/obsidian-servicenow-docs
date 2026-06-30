@@ -14,11 +14,11 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Path Search function
 
-The Path Search function enables you to execute the path computation function between the starting and ending sites in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can use this function for the path computation when you process the network inventory [[telecommunications-circuit-design-resource-assignment|design and assign]].
+The Path Search function enables you to execute the path computation function between the starting and ending sites in the Telecommunications Network Inventory application. You can use this function for the path computation when you process the network inventory design and assign.
 
 You can use the Path Search function to identify the possible paths between your network sites.
 
-If no path is found, the Path Search function uses the available input to create a logical connection without adding any connection elements. If you don’t enter the end equipment, it selects any equipment that matches the Type attribute that belongs to the end site. The function uses the start and end interfaces in the input to set the Port A and Port Z of the [[design-logical-connection-design-assign-playbook|logical connections]]. Otherwise, it selects any interface in the Availability field, which is marked as Available.
+If no path is found, the Path Search function uses the available input to create a logical connection without adding any connection elements. If you don’t enter the end equipment, it selects any equipment that matches the Type attribute that belongs to the end site. The function uses the start and end interfaces in the input to set the Port A and Port Z of the logical connections. Otherwise, it selects any interface in the Availability field, which is marked as Available.
 
 You can use this function as a Workflow Studio action in the Telecommunications Network Inventory workflow.
 
@@ -224,8 +224,3 @@ The following table lists the information about the function's output.
 
 [Lookup Next Hub function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]

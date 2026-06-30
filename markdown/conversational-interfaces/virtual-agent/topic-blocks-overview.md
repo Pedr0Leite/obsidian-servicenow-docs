@@ -15,7 +15,7 @@ breadcrumb: [Exploring other Virtual Agent features, Build and deploy, Virtual A
 
 # Maximizing code reuse with topic blocks
 
-Topic blocks are reusable components that you can create to run common tasks and conversational elements in [[virtual-agent-landing-page|Virtual Agent]] conversations. Topic blocks simplify the topic authoring and maintenance process by enabling you to reuse standard procedures or actions across conversation topics.
+Topic blocks are reusable components that you can create to run common tasks and conversational elements in Virtual Agent conversations. Topic blocks simplify the topic authoring and maintenance process by enabling you to reuse standard procedures or actions across conversation topics.
 
 ## How reusable topic blocks work
 
@@ -62,16 +62,16 @@ Contextual search: Uses a search phrase to return search results in a card forma
 
 </td><td>
 
-Common topic block used by the CSM, HR Service Delivery, and ITSM business applications. Provided with the Service [[management|Management]] Virtual Agent Topic Blocks plugin \(com.glideapp.cs.sm\_topic\_blocks\). This plugin is included with the [Virtual Agent conversation plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for these business applications.
+Common topic block used by the CSM, HR Service Delivery, and ITSM business applications. Provided with the Service Management Virtual Agent Topic Blocks plugin \(com.glideapp.cs.sm\_topic\_blocks\). This plugin is included with the [Virtual Agent conversation plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/prebuilt-topics-ITSM.md) for these business applications.
 
 </td></tr></tbody>
-</table>**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+</table>**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 On the home page, you can use the filter icon \[Omitted image "filter-icon.png"\] Alt text: Filter icon. to filter and view only the topic blocks.
 
 \[Omitted image "topic-block-list.png"\] Alt text: Filtered list of topic blocks.
 
-After you create and publish a topic block, the block is available for use as a [[va-topic-blocks|Topic Block utility]] in Virtual Agent Designer. You can add the topic block to a calling topic or to another topic block. In the following example, the calling topic uses the Contextual Search topic block. When a topic calls the Contextual Search topic block, the conversation flow contained in the topic block executes.
+After you create and publish a topic block, the block is available for use as a Topic Block utility in Virtual Agent Designer. You can add the topic block to a calling topic or to another topic block. In the following example, the calling topic uses the Contextual Search topic block. When a topic calls the Contextual Search topic block, the conversation flow contained in the topic block executes.
 
 \[Omitted image "tb-overview-example.png"\] Alt text: Contextual Search topic block.
 
@@ -91,10 +91,4 @@ Working with topic blocks involves the following steps:
 
     When you update a published topic block, Virtual Agent Designer performs certain checks. Displayed messages inform you of changes that you may want to make to calling topics that use the updated block.
 
-## Related
 
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[va-topic-blocks|Topic Block utility]]

@@ -163,7 +163,7 @@ Asset Audits
 
 </td></tr><tr><td>
 
-Hardware [[reclaim-asset|Asset Reclamation]] Line
+Hardware Asset Reclamation Line
 
  \[sn\_hamp\_asset\_reclaim\_line\]
 
@@ -394,13 +394,13 @@ Planned Assets
 
 </td></tr><tr><td>
 
-Replacement [[c_Models|Models]]
+Replacement Models
 
  \[sn\_hamp\_m2m\_ztr\_replacement\_model\]
 
 </td><td>
 
-[[zero-touch-asset-refresh|Zero touch refresh]] model \[refresh\_model\]
+Zero touch refresh model \[refresh\_model\]
 
 </td></tr><tr><td>
 
@@ -755,7 +755,7 @@ Import asset data rows
 
 </td></tr><tr><td>
 
-[[asset-attestation-ham|Asset attestation]]
+Asset attestation
 
  \[sn\_itam\_common\_asset\_attestation\]
 
@@ -846,7 +846,7 @@ Name \[name\]
 
 </td></tr><tr><td>
 
-[[asset-donation|Asset Donation]] Order
+Asset Donation Order
 
  \[sn\_itam\_common\_donation\_order\]
 
@@ -1019,7 +1019,7 @@ Profile mapped date \[profile\_mapped\_date\]
 
 </td></tr><tr><td>
 
-Renewal [[c_Contracts|contracts]]
+Renewal contracts
 
  \[sn\_m2m\_renewal\_contract\]
 
@@ -1051,11 +1051,3 @@ Failure risk score \[risk\_score\]
 </td></tr></tbody>
 </table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[reclaim-asset|Asset reclamation]]
-- [[c_Models|Models]]
-- [[zero-touch-asset-refresh|Zero Touch Refresh]]
-- [[asset-attestation-ham|Asset Attestation]]
-- [[asset-donation|Asset donation]]
-- [[c_Contracts|Contracts]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Workplace Agent for mobile, Workplace Service Delivery, Employ
 
 # Create a workplace case on behalf of an employee through Workplace Agent for mobile
 
-Create workplace cases on behalf of an employee in the [[workplace-agent-mobile-feat|Workplace Agent for mobile]] work view page.
+Create workplace cases on behalf of an employee in the Workplace Agent for mobile work view page.
 
 ## Before you begin
 
@@ -56,6 +56,3 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 [Offline mode]()
 
-## Related
-
-- [[workplace-agent-mobile-feat|Workplace Agent for mobile]]

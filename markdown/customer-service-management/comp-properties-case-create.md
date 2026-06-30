@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Case create
 
-Component properties enable you to configure the behavior of the [[case-create-component|Case create component]] instance on a third-party website.
+Component properties enable you to configure the behavior of the Case create component instance on a third-party website.
 
 <table id="table_csm_base_entities"><thead><tr><th>
 
@@ -134,11 +134,7 @@ Option to show or hide component notifications.By default, it shows notification
 
 [Embed the Case create component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-case-create-component-on-third-party-website.md)
 
-[[we-case-create-event-handlers|Event handlers in the Case create component]]
+[Event handlers in the Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-case-create-event-handlers.md)
 
 [Sample code for the Case create component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-case-create-sample-code.md)
 
-## Related
-
-- [[we-case-create-event-handlers|Event handlers in the Case create component]]
-- [[case-create-component|Case create component]]

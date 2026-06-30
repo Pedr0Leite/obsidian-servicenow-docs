@@ -14,11 +14,11 @@ breadcrumb: [Planning item configuration for lenses and portfolio plans, Configu
 
 # Define a new planning item type in Strategic Planning
 
-Create a custom planning item type in [[alignment-planner-workspace-landing-page|Strategic Planning]] to enable planning them on the portfolio plans.
+Create a custom planning item type in Strategic Planning to enable planning them on the portfolio plans.
 
 ## Before you begin
 
-Ensure the application scope in your instance is set to [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Ensure the application scope in your instance is set to Portfolio Planning.
 
 Role required: admin
 
@@ -36,7 +36,7 @@ Role required: admin
 
 5.  Save the form.
 
-    1.  Select the Additional actions icon \(\[Omitted image "additional-actions-icon.png"\] Alt text: additional actions or the context menu icon on the [[new-planning-item-planning-org-form|planning item type form]].\).
+    1.  Select the Additional actions icon \(\[Omitted image "additional-actions-icon.png"\] Alt text: additional actions or the context menu icon on the planning item type form.\).
 
     2.  Select **Save**.
 
@@ -45,8 +45,3 @@ Role required: admin
 
 If you've created any planning item types, create relevant form views for it. For more information, see [Create form views for new planning item tables in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-form-views-for-planning-item-tables-in-apw.md).
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[new-planning-item-planning-org-form|Planning item type form]]

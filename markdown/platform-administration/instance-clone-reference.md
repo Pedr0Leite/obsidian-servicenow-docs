@@ -12,33 +12,20 @@ breadcrumb: [Instance Clone, Configure core features, Administer the ServiceNow 
 
 # Instance Clone reference
 
-[[reference-email-admin|Reference]] topics provide information about clone options, clone states, and terminology.
+Reference topics provide information about clone options, clone states, and terminology.
 
--   **[[clone-options|Clone options]]**  
-A reference topic that contains various [[clone-configurations-tab|configurations]] for your data when requesting a clone.
--   **[[clone-states|Clone states]]**  
+-   **[Clone options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-options.md)**  
+A reference topic that contains various configurations for your data when requesting a clone.
+-   **[Clone states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-states.md)**  
 A reference topic displaying the various states of a clone.
--   **[[clone-terminology|Clone terminology]]**  
-A reference topic that contains various terms and [[clone-exclusions-preservers-cleanupscripts|definitions]] for cloning.
--   **[[clone-duration-optimization|General guidelines for optimizing your clone duration]]**  
-A reference topic that includes [[ia-des-conf|general guidelines]] to optimize your clone duration when requesting a clone.
--   **[[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]**  
+-   **[Clone terminology](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-terminology.md)**  
+A reference topic that contains various terms and definitions for cloning.
+-   **[General guidelines for optimizing your clone duration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-duration-optimization.md)**  
+A reference topic that includes general guidelines to optimize your clone duration when requesting a clone.
+-   **[Troubleshooting for registering target instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/register-target-instance-troubleshooting.md)**  
 A reference topic that includes troubleshooting to try to resolve errors that occur while registering a target instance.
--   **[[clone-exclusions-guidelines|General guidelines for excluding a table from cloning]]**  
-A reference topic that includes general guidelines to [[t_ExcludeATableFromCloning|exclude a table from cloning]].
+-   **[General guidelines for excluding a table from cloning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-exclusions-guidelines.md)**  
+A reference topic that includes general guidelines to exclude a table from cloning.
 
 **Parent Topic:**[Instance Clone](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[clone-options|Clone options]]
-- [[clone-states|Clone states]]
-- [[clone-terminology|Clone terminology]]
-- [[clone-duration-optimization|General guidelines for optimizing your clone duration]]
-- [[register-target-instance-troubleshooting|Troubleshooting for registering target instance]]
-- [[clone-exclusions-guidelines|General guidelines for excluding a table from cloning]]
-- [[reference-email-admin|Reference]]
-- [[clone-configurations-tab|Configurations]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[ia-des-conf|General guidelines]]
-- [[t_ExcludeATableFromCloning|Exclude a table from cloning]]

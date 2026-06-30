@@ -18,7 +18,7 @@ Guidance on technical governance management of the ServiceNow AI Platform
 
 ## Accelerator Overview
 
-Technical Governance provides [[impact-landing-page|Impact]] Customers with a framework that defines how to govern and manage the stability of the ServiceNow platform. This Impact Accelerator aims to assist Customers in establishing technical decision-making processes, and governance policies and processes that can facilitate faster implementations and upgrades, smoother development, and greater value from enhanced feature adoption.
+Technical Governance provides Impact Customers with a framework that defines how to govern and manage the stability of the ServiceNow platform. This Impact Accelerator aims to assist Customers in establishing technical decision-making processes, and governance policies and processes that can facilitate faster implementations and upgrades, smoother development, and greater value from enhanced feature adoption.
 
 ## Package Availability
 
@@ -52,8 +52,8 @@ Technical Governance provides [[impact-landing-page|Impact]] Customers with a fr
 
 ## Requested information/access
 
--   [[servicenow-governance|ServiceNow governance]] structure documents – charters, board participant lists, etc.
--   [[strategy-governance|Strategy Governance]], [[portfolio-governance|Portfolio Governance]], and [[architecture-blueprint|Architecture Blueprint]] Impact Accelerators are prerequisites for Technical Governance Accelerator CoE Charter
+-   ServiceNow governance structure documents – charters, board participant lists, etc.
+-   Strategy Governance, Portfolio Governance, and Architecture Blueprint Impact Accelerators are prerequisites for Technical Governance Accelerator CoE Charter
 -   Organization chart
 -   IT governance documents
 -   Current state architecture blueprint
@@ -64,10 +64,3 @@ Technical Governance provides [[impact-landing-page|Impact]] Customers with a fr
 
 ServiceNow is not responsible for development or execution of the technical governance process or policy.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[servicenow-governance|ServiceNow Governance]]
-- [[strategy-governance|Strategy Governance]]
-- [[portfolio-governance|Portfolio Governance]]
-- [[architecture-blueprint|Architecture Blueprint]]

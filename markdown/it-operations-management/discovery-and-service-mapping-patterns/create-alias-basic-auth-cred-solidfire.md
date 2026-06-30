@@ -25,7 +25,7 @@ Verify that a basic authentication account is configured with SolidFire Cluster 
 -   reporting
 -   drives
 
-Role required: [[r-discovery|discovery]]\_admin
+Role required: discovery\_admin
 
 ## Procedure
 
@@ -58,7 +58,7 @@ Role required: [[r-discovery|discovery]]\_admin
 
 ## What to do next
 
-Create a [[serverless-discovery|serverless discovery]] schedule. For more information, see [Create a serverless discovery schedule for NetApp SolidFire discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-solidfire.md).
+Create a serverless discovery schedule. For more information, see [Create a serverless discovery schedule for NetApp SolidFire discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/create-serverless-schedule-solidfire.md).
 
 **Parent Topic:**[NetApp SolidFire storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/solidfire-storage-pattern.md)
 
@@ -67,7 +67,3 @@ Create a [[serverless-discovery|serverless discovery]] schedule. For more inform
 
 [NetApp SolidFire storage system discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/solidfire-storage-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[serverless-discovery|Serverless Discovery]]

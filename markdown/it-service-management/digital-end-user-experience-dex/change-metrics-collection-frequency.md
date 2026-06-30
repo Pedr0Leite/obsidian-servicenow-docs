@@ -24,7 +24,7 @@ Role required: sn\_dex\_admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
+2.  In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\).
 
 3.  In the Device and application configuration section, select **Manage policies** on the Agent policies card.
 
@@ -44,6 +44,4 @@ Role required: sn\_dex\_admin
 
 9.  Select **Republish**.
 
-## Related
 
-- [[dex-workspace-administration-tab|DEX Administration]]

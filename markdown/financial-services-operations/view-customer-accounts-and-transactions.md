@@ -41,21 +41,16 @@ Role required: sn\_fso\_csr.business\_agent, sn\_fso\_csr.personal\_agent
     \[Omitted image "agentic-contact-center-banking-c360-overview.png"\] Alt text: Customer 360 overview showing deposit, credit, and debt summaries with account transactions.
 
 
-**Parent Topic:**[[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
+**Parent Topic:**[Using Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-agentic-contact-center-for-banking.md)
 
 **Related topics**  
 
 
-[[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]
+[Customer 360 page for Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-agentic-contact-center-for-banking.md)
 
-[[view-cases|View customer cases in Agentic Contact Center for Banking]]
+[View customer cases in Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/view-cases.md)
 
 [Summarize a banking customer profile in the Customer 360 page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-customer-profile-fso.md)
 
 [Generate customer insights in the Customer 360 page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/generate-customer-insights-customer-360-workspace.md)
 
-## Related
-
-- [[using-agentic-contact-center-for-banking|Using Agentic Contact Center for Banking]]
-- [[customer-360-agentic-contact-center-for-banking|Customer 360 page for Agentic Contact Center for Banking]]
-- [[view-cases|View customer cases in Agentic Contact Center for Banking]]

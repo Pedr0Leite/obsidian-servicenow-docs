@@ -25,9 +25,9 @@ If your advanced approval admin has defined you as an approver or a member of an
 
 ## Approval workflow
 
-When a sales rep \(requester\) submits an approval request, the advanced approval engine creates one or more approval requests and routes them to the appropriate approvers. As an approver, you’re responsible for only the approval steps assigned to you. Approval actions taken by another approver do not give you access to approval steps assigned to other approvers. But you can track and review the approval process for the request using the [[tracking-approval-status|approval workflow interface]].
+When a sales rep \(requester\) submits an approval request, the advanced approval engine creates one or more approval requests and routes them to the appropriate approvers. As an approver, you’re responsible for only the approval steps assigned to you. Approval actions taken by another approver do not give you access to approval steps assigned to other approvers. But you can track and review the approval process for the request using the [approval workflow interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/tracking-approval-status.md).
 
-Review the requests. You evaluate requests based on business policies, financial [[rules_101|rules]], legal rules, or other internal guidelines that your company follows:
+Review the requests. You evaluate requests based on business policies, financial rules, legal rules, or other internal guidelines that your company follows:
 
 -   Details of the approval entity, such as quotes and their related pricing
 -   The approval reason or condition that triggered the request
@@ -53,7 +53,7 @@ You may also receive email reminders if your approval rule admin has set up emai
 
 When you reject an approval request, the advanced approval engine updates the approval step record. Rejection helps prevent the request from progressing to the remaining approval steps and indicates that changes are required.
 
-When you reject an approval request, you specify the reason for the rejection. If you reject the request from an email notification, an Approval Request Rejected notification is generated and sent to the requester. The notification indicates the request was rejected and the reason for rejection. The requester can [[Modify|modify]] the business item, such as a quote, and resubmit the request for approval.
+When you reject an approval request, you specify the reason for the rejection. If you reject the request from an email notification, an Approval Request Rejected notification is generated and sent to the requester. The notification indicates the request was rejected and the reason for rejection. The requester can modify the business item, such as a quote, and resubmit the request for approval.
 
 ## Escalation workflow
 
@@ -63,7 +63,7 @@ As an escalated assignee, you can approve or reject requests from different chan
 
 ## Adding ad-hoc approvers
 
-You can add one or more ad-hoc approvers or approval groups when others outside the original approver list must review the request. For example, an approval request may require approval by others who are familiar with the rules or business guidelines relevant to the request. For more information on adding an ad-hoc approver, see [[add-approver|Add approvers to an approval request]].
+You can add one or more ad-hoc approvers or approval groups when others outside the original approver list must review the request. For example, an approval request may require approval by others who are familiar with the rules or business guidelines relevant to the request. For more information on adding an ad-hoc approver, see [Add approvers to an approval request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-approver.md).
 
 If you've been added as an ad hoc approver, you can accept or reject the approval request from the approval request notification. You can also approve or reject the request in the General Chain of the approval workflow interface.
 
@@ -71,12 +71,5 @@ If you've been added as an ad hoc approver, you can accept or reject the approva
 
 If you need to be away from work for a specific time period and can't review your approval requests, you can delegate your approval responsibilities to another coworker if the granular delegation feature in HR Service Delivery has been implemented. For more information on delegation, see [Granular Delegation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/granular-delegation.md).
 
-**Parent Topic:**[[using-advanced-approval-management|Using Advanced Approval Management]]
+**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 
-## Related
-
-- [[tracking-approval-status|Tracking approval status and history]]
-- [[add-approver|Add approvers to an approval request]]
-- [[using-advanced-approval-management|Using Advanced Approval Management]]
-- [[rules_101|Rules]]
-- [[Modify|Modify]]

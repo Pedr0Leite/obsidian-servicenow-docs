@@ -18,7 +18,7 @@ When you import data from the IBM License Metric Tool \(ILMT\) or BigFix Invento
 
 ## Default ILMT and BigFix Inventory transform map
 
-By default, the ServiceNow AI Platform provides the ILMT [[sam-license-workbench|Software License Usage]] transform map to process the IBM license usage data that you import using version 2 of the ILMT and BigFix Inventory integration APIs. When you import this data into your ServiceNow instance, it is added to the source ILMT Product Usage Staging \[ilmt\_v2\_product\_usage\_staging\] and ILMT Device Usage Staging \[ilmt\_v2\_device\_usage\_staging\] tables. The ILMT Software License Usage transform map then uses the following table mappings to map the data from these source tables to the corresponding target tables:
+By default, the ServiceNow AI Platform provides the ILMT Software License Usage transform map to process the IBM license usage data that you import using version 2 of the ILMT and BigFix Inventory integration APIs. When you import this data into your ServiceNow instance, it is added to the source ILMT Product Usage Staging \[ilmt\_v2\_product\_usage\_staging\] and ILMT Device Usage Staging \[ilmt\_v2\_device\_usage\_staging\] tables. The ILMT Software License Usage transform map then uses the following table mappings to map the data from these source tables to the corresponding target tables:
 
 <table id="table_u3v_wjr_yxb"><thead><tr><th>
 
@@ -59,6 +59,3 @@ The ILMT Software License Usage transform map processes data by using the onStar
 
 **Parent Topic:**[Integrating with the IBM License Metric Tool \(ILMT\) or BigFix Inventory using v2 APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/integrating-ilmt-bigfix-v2-apis.md)
 
-## Related
-
-- [[sam-license-workbench|Software license usage]]

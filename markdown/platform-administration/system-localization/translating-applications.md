@@ -16,7 +16,7 @@ breadcrumb: [System Localization, Translation and localization, Configure core f
 
 Translate content you create or modify to a supported language or add an unsupported language.
 
-**Note:** Using the [[localization-framework-landing|Localization Framework]] application is recommend for [[self-localize|translating to an unsupported language]] or translating large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md).
+**Note:** Using the Localization Framework application is recommend for translating to an unsupported language or translating large amounts of custom UI string content in a supported language. For more information, see [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md).
 
 ServiceNow provides translations of the base system UI strings in supported languages through the internationalization \(I18N\) language plugins. For applications you create and modifications you make to the ServiceNow AI Platform® content, you must provide your own translations. You can also provide any translations to unsupported languages that ServiceNow does not provide translations for. The ServiceNow AI Platform does not provide any automatic translation capability.
 
@@ -70,7 +70,7 @@ Service Catalog items
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **[[system-localization-landing|System Localization]]** and set **Display translation prefix on translatable strings** to **Yes**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System Localization** and set **Display translation prefix on translatable strings** to **Yes**.
 2.  Create the item in English.
 3.  Change the preferred language to a different language.
 4.  Translate all the translatable items, now identified by translation prefix.
@@ -152,7 +152,7 @@ Support Chat is mostly translated through the I18N language plugins. If you cust
 
 </td></tr><tr><td>
 
-[[notifications|Notifications]] and surveys
+Notifications and surveys
 
 </td><td>
 
@@ -168,10 +168,3 @@ Export translation records to translate to additional languages in your preferre
 
 **Parent Topic:**[System Localization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-landing.md)
 
-## Related
-
-- [[localization-framework-landing|Localization Framework]]
-- [[self-localize|Translating to an unsupported language]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]
-- [[notifications|Notifications]]

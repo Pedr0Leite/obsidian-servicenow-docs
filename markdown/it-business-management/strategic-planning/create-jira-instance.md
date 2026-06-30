@@ -14,7 +14,7 @@ breadcrumb: [Set up a Jira instance, Configure, SPW Jira Integrations, Strategic
 
 # Create Jira instance for SPW Jira Integrations
 
-Create a Jira instance record which is later used to connect [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace and Jira.
+Create a Jira instance record which is later used to connect Strategic Planning Workspace and Jira.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: sn\_jira\_int.admin
 
 **Parent Topic:**[Setting up a Jira instance for SPW Jira Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/setting-up-jira-instance-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

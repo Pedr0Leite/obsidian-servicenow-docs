@@ -14,7 +14,7 @@ breadcrumb: [Manage Predictive Intelligence for User Reported Phishing, Security
 
 # Required components and plugins
 
-To use [[cj-sir-ml-urp|Predictive Intelligence for User Reported Phishing]], you must install the following applications
+To use Predictive Intelligence for User Reported Phishing, you must install the following applications
 
 |Plugin name|Minimum version|
 |-----------|---------------|
@@ -22,11 +22,11 @@ To use [[cj-sir-ml-urp|Predictive Intelligence for User Reported Phishing]], you
 |Predictive Intelligence|Orlando version|
 |Predictive Intelligence for User Reported Phishing|10.0.2|
 
-**Note:** The following new enhancements are available with [[sir-landing-page|Security Incident Response]] 10.4:
+**Note:** The following new enhancements are available with Security Incident Response 10.4:
 
 -   The ability to choose close codes from custom fields for model training.
 -   The ability to explicitly activate predictions after model building.
--   The ability to generate a final verdict on the User Reported Phishing submission using a decision table. \(requires [[security-operations-landing-page|Security Operations]] Spoke 10.3.0\)
+-   The ability to generate a final verdict on the User Reported Phishing submission using a decision table. \(requires Security Operations Spoke 10.3.0\)
 
 To use the new enhancements, you must upgrade the following applications:
 
@@ -49,8 +49,3 @@ To use the new enhancements, you must upgrade the following applications:
     -   URPMLProcessor: Extracts and processes data from the sn\_si\_phishing\_email table.
     -   URPMLAction: Executes flow to accept prediction result.
 
-## Related
-
-- [[cj-sir-ml-urp|Predictive Intelligence for User Reported Phishing]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]

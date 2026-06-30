@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Change Management, Operational Technolo
 
 # Create a change request from OT device details
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) change request from an OT device record. Creating a change request from a device record automatically populates the information in your change request record, such as the site or business service and the OT Device field.
+Create an Operational Technology \(OT\) change request from an OT device record. Creating a change request from a device record automatically populates the information in your change request record, such as the site or business service and the OT Device field.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_change\_write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  In the All OT Devices list, select an OT device record.
 
@@ -36,11 +36,11 @@ Role required: sn\_ot\_change\_write
 
 7.  Complete the playbook as needed as your team works on the change request.
 
-    For more information about the [[basic-ot-change-model|Basic OT Change Model playbook]], see [Basic OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/basic-ot-change-model.md). For more information about the [[advanced-ot-change-model|Advanced OT Change Model playbook]], see [Advanced OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/advanced-ot-change-model.md).
+    For more information about the Basic OT Change Model playbook, see [Basic OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/basic-ot-change-model.md). For more information about the Advanced OT Change Model playbook, see [Advanced OT Change Model playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/advanced-ot-change-model.md).
 
     The following fields are automatically populated depending on the conditions that you set.
 
-    -   The **OT Device** field is auto-populated only if the [[industrial-process-manager-overview|Industrial Process Manager]] application is enabled.
+    -   The **OT Device** field is auto-populated only if the Industrial Process Manager application is enabled.
     -   If the Industrial Process Manager is installed, then the site assigned to the OT device shows up in the **Site** field.
     -   If the Industrial Process Manager is enabled and there's only one entity that is associated with the OT device, then the **Equipment model entity** field is automatically populated.
 
@@ -53,10 +53,3 @@ The change request is created, and the users in the Assignment group, Assigned t
 
 **Parent Topic:**[Using Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/using-operational-technology-change-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[basic-ot-change-model|Basic OT Change Model playbook]]
-- [[advanced-ot-change-model|Advanced OT Change Model playbook]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

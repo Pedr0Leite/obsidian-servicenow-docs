@@ -12,7 +12,7 @@ breadcrumb: [Indicators of compromise, IoC Repository, Threat Intelligence, Ente
 
 # Identify associated indicator types
 
-If an IoC has no associated indicator types defined, it tracks all types of [[c_Observables|observables]]. However, if you associate one or more types of [[indicator|indicators]] to an IoC, it limits the types of observables that can be associated with the IoC.
+If an IoC has no associated indicator types defined, it tracks all types of observables. However, if you associate one or more types of indicators to an IoC, it limits the types of observables that can be associated with the IoC.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_ti.write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Indicators**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Indicators**.
 
 2.  Click the indicator to which you want to associate an indicator type.
 
@@ -35,7 +35,7 @@ Role required: sn\_ti.write
 7.  Click **Save**.
 
 
-**Parent Topic:**[[c_IoCs|Indicators of compromise]]
+**Parent Topic:**[Indicators of compromise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IoCs.md)
 
 **Related topics**  
 
@@ -50,10 +50,3 @@ Role required: sn\_ti.write
 
 [Add associated tasks to an IoC]()
 
-## Related
-
-- [[c_IoCs|Indicators of compromise]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]

@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Add the impacted area
 
-Add an impacted area or an object to the [[exploring-op-vul|operational vulnerability]] record in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Add an impacted area or an object to the operational vulnerability record in the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -34,11 +34,11 @@ Beginning with Release 20.1.x, the Operational Resilience application supports t
 
 4.  On the Impacted area form, fill in the fields.
 
-    To view more information on the fields, see the [[impacted-area-form|Impacted area form]].
+    To view more information on the fields, see the [Impacted area form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/impacted-area-form.md).
 
 5.  Select **Save**.
 
-    When you [[add-pri-origin|add the primary origin]] of the operational vulnerability, its impacted areas with upstream entities are updated on the **Impacted areas** tab.
+    When you add the primary origin of the operational vulnerability, its impacted areas with upstream entities are updated on the **Impacted areas** tab.
 
     \[Omitted image "op-vul-pri-ori-imp-area.png"\] Alt text: Impacted areas with upstream entities.
 
@@ -52,9 +52,4 @@ Beginning with Release 20.1.x, the Operational Resilience application supports t
 
     After running the scheduled job, the operational vulnerability count on the overview page of SO1 is updated to 1. This ensures that the updated data is promptly reflected on the Operational Resilience dashboard.
 
-## Related
 
-- [[impacted-area-form|Impacted area form]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[add-pri-origin|Add the primary origin]]

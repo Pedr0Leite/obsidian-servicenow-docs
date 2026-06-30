@@ -12,7 +12,7 @@ breadcrumb: [Reporting Operational vulnerability, Managing Operational vulnerabi
 
 # Report an operational vulnerability from the Self-attestation module
 
-Report an Operational vulnerability from the Self-attestation module in the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+Report an Operational vulnerability from the Self-attestation module in the Operational Resilience Workspace.
 
 ## Before you begin
 
@@ -38,13 +38,13 @@ Role required: sn\_oper\_res.manager
 
 5.  Open the Service record, select **More** and add the **Operational vulnerabilities** related list.
 
-6.  Select **New** in the Operational vulnerabilities related list and add an [[exploring-op-vul|operational vulnerability]].
+6.  Select **New** in the Operational vulnerabilities related list and add an operational vulnerability.
 
 7.  On the Vulnerability New record form, fill in the fields.
 
     The source of the vulnerability is the Self-attestation. Therefore, the **Source** field on the form shows the source as Self attestation and the **Source table** field on the form shows the table as Self attestation. The **Source table** field is auto-filled.
 
-    To view more information on the fields, see the [[create-new-op-vul-form|Create Operational vulnerability form]].
+    To view more information on the fields, see the [Create Operational vulnerability form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-op-vul-form.md).
 
 8.  Select **Save**.
 
@@ -56,8 +56,4 @@ Role required: sn\_oper\_res.manager
 
     The Self-attestation record is saved.
 
-## Related
 
-- [[create-new-op-vul-form|Create Operational vulnerability form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[exploring-op-vul|Operational vulnerability]]

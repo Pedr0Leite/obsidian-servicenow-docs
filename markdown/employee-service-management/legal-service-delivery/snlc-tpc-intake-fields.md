@@ -32,7 +32,7 @@ Requested For
 
 </td><td>
 
-The user for whom the request is being submitted. This field is visible only when you’re a legal fulfiller with the sn\_lg\_cnt.contract\_fulfiller role and are submitting a request from the [[legal-counsel-center-landing|Legal Counsel Center]].
+The user for whom the request is being submitted. This field is visible only when you’re a legal fulfiller with the sn\_lg\_cnt.contract\_fulfiller role and are submitting a request from the Legal Counsel Center.
 
 </td></tr><tr><td>
 
@@ -122,7 +122,7 @@ Signature type
 
 Type of signature.-   Electronic signature: The signatory electronically signs the contract.
 -   Wet signature: The signatory manually signs the physical version of the contract.
--   Offline signature: The contract is signed outside [[cncore-cmpro-landing-page|Contract Management Pro]] — for example, on paper or through a third-party application.
+-   Offline signature: The contract is signed outside Contract Management Pro — for example, on paper or through a third-party application.
 
 The default signature type is Electronic Signature.
 
@@ -158,7 +158,3 @@ Contract and supporting documents to be reviewed by the legal department.
 
 [Components installed with Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

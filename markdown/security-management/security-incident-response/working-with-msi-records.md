@@ -14,9 +14,9 @@ breadcrumb: [Use, Security Incident Response Workspace, Security Incident Respon
 
 # Working with MSI Records
 
-Using the [[sir-workspace-landing-page|Security Incident Response workspace]], you can propose, promote, or link security incidents as major security incidents when the incidents are identified as critical threat to the organization.
+Using the Security Incident Response workspace, you can propose, promote, or link security incidents as major security incidents when the incidents are identified as critical threat to the organization.
 
-After you install [[major-security-incident-management-landing-page|Major Security Incident Management]] \(MSIM\) on your ServiceNow AI Platform instance, you can then handle the transition of security incidents to major incidents.
+After you install Major Security Incident Management \(MSIM\) on your ServiceNow AI Platform instance, you can then handle the transition of security incidents to major incidents.
 
 The Major Security Incident Management \(MSIM\) UI actions are displayed on the top right of the security incident form banner of the SIR workspace. Select the UI action as applicable.
 
@@ -42,7 +42,7 @@ Link a security incident to a major security incident as child security incident
 
 [Prerequisites for the Playbooks]()
 
-[Rebuilding existing [[tisc-playbooks-admin|playbooks]] in Workflow Studio]()
+[Rebuilding existing playbooks in Workflow Studio]()
 
 [Activity Definitions]()
 
@@ -54,8 +54,3 @@ Link a security incident to a major security incident as child security incident
 
 [Handle security incidents using Advanced Work Assignment]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[tisc-playbooks-admin|Playbooks]]

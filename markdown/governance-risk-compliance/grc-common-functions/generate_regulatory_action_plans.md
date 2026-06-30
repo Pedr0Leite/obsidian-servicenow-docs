@@ -15,7 +15,7 @@ breadcrumb: [Agentic workflows in Risk &amp; Sustainability, Use agentic AI, Now
 
 # Generate regulatory action plans
 
-Generate regulatory action plans by using the [[rcm-agent-actions-workflow|generate regulatory action plan agentic workflow]] in the Now Assist panel. This agentic workflow analyzes impacted areas and similar historical alerts to create change tasks and action tasks that help implement regulatory change.
+Generate regulatory action plans by using the generate regulatory action plan agentic workflow in the Now Assist panel. This agentic workflow analyzes impacted areas and similar historical alerts to create change tasks and action tasks that help implement regulatory change.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Agentic workflows and their AI agents use [role masking](https://raw.githubuserc
 
 ## About this task
 
-The generate regulatory action plan agentic workflow helps [[reg-change-mgmt-landing-page|regulatory change management]] professionals create structured action plans for alerts in the New or In Progress state. The workflow analyzes impacted areas identified on the alert and references similar historical alerts to generate change tasks and action tasks. These tasks are grouped by type such as control update, citation amendment, and policy revision, and appear in the **Regulatory tasks** tab. You can accept or dismiss the proposed plan, and only tasks in the New state can be deleted manually.
+The generate regulatory action plan agentic workflow helps regulatory change management professionals create structured action plans for alerts in the New or In Progress state. The workflow analyzes impacted areas identified on the alert and references similar historical alerts to generate change tasks and action tasks. These tasks are grouped by type such as control update, citation amendment, and policy revision, and appear in the **Regulatory tasks** tab. You can accept or dismiss the proposed plan, and only tasks in the New state can be deleted manually.
 
 **Note:**
 
@@ -39,7 +39,7 @@ When you modify an agentic workflow, AI agent, or tool, make sure that you updat
 
 1.  Navigate to one of the following locations:
 
-    -   **Workspaces** &gt; **Compliance Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **[[list-view-of-reg-alerts|Regulatory alerts]]**.
+    -   **Workspaces** &gt; **Compliance Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **Regulatory alerts**.
     -   **Workspaces** &gt; **Compliance Workspace** select the Regulatory Change Management dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
 2.  Select any regulatory alert in the New or In Progress state.
 
@@ -118,8 +118,3 @@ For more information on tasks, see [Regulatory change tasks](https://raw.githubu
 
 [Accept or dismiss recommendations for regulatory alert impacted citations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/manage-recommendation-reg-alert.md)
 
-## Related
-
-- [[rcm-agent-actions-workflow|Generate regulatory action plan agentic workflow]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

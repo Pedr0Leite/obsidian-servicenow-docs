@@ -14,7 +14,7 @@ breadcrumb: [Customizing and configuring Visual Task Boards, Using Visual Task B
 
 # Modify the query or lane field for an existing Visual Task Board
 
-For flexible and guided [[c_VisualTaskBoards|Visual Task Boards]], you can edit the board query or lane field. This ability enables you to change the board contents while preserving the member list, board configuration settings, and, if applicable, Connect Chat conversation history.
+For flexible and guided Visual Task Boards, you can edit the board query or lane field. This ability enables you to change the board contents while preserving the member list, board configuration settings, and, if applicable, Connect Chat conversation history.
 
 ## Before you begin
 
@@ -42,7 +42,7 @@ The lane field is the field on the underlying table that defines the lanes. For 
 
 </td><td>
 
-1.  Under **Board Filter**, select**Edit Filter** to open the [[c_ConditionBuilder|condition builder]].
+1.  Under **Board Filter**, select**Edit Filter** to open the condition builder.
 2.  Add and remove conditions as needed to edit the query.
 3.  Select **Save**.
 
@@ -66,7 +66,3 @@ Guided boards have the **Vertical Lane Field** set to a field, such as **State**
 
 **Parent Topic:**[Customizing and configuring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/configuring-vis-task-boards.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[c_ConditionBuilder|Condition builder]]

@@ -12,7 +12,7 @@ breadcrumb: [Enable the legacy scenario analysis flow, Legacy scenario analysis,
 
 # Submit the scenario analysis and receive an approval
 
-Submit the [[scenario-analysis-ov|scenario analysis]] for an approval in the [[grc-opres-landing-page|Operational Resilience]] Workspace. The analysis approver for the scenario analysis reviews the details and subsequently approves it. Having an scenario analysis is the final step in the workflow.
+Submit the scenario analysis for an approval in the Operational Resilience Workspace. The analysis approver for the scenario analysis reviews the details and subsequently approves it. Having an scenario analysis is the final step in the workflow.
 
 ## Before you begin
 
@@ -46,7 +46,4 @@ Role required: sn\_oper\_res.manager
 
     The scenario analysis is approved by the analysis approver and the state of the scenario analysis is updated to **Approved**. This action completes the scenario analysis workflow.
 
-## Related
 
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[grc-opres-landing-page|Operational Resilience]]

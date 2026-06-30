@@ -14,7 +14,7 @@ breadcrumb: [Customizing Service Operations Workspace for ITSM to align with you
 
 # Customize Service Operations Workspace landing page
 
-Modify the [[dex-workspace-dashboard-tab|landing page]] of the Service Operations Workspace to ensure that the customers can view the page that they use regularly. To customize the data displayed in sub pages of the landing page that is available in the base system. For any visual styling changes, you need to create a copy of that landing page and edit it.
+Modify the landing page of the Service Operations Workspace to ensure that the customers can view the page that they use regularly. To customize the data displayed in sub pages of the landing page that is available in the base system. For any visual styling changes, you need to create a copy of that landing page and edit it.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Experiences**.
 
-2.  From the UX [[application-form|Applications list]], select **Service Operations Workspace**.
+2.  From the UX Applications list, select **Service Operations Workspace**.
 
 3.  For the Admin Panel field, select the \[Omitted image "preview-icon.png"\] Alt text: Preview this record icon.
 
@@ -44,7 +44,3 @@ Role required: admin
 
 [Customize the incident record page]()
 
-## Related
-
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[application-form|Applications list]]

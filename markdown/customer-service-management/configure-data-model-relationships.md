@@ -12,7 +12,7 @@ breadcrumb: [Configure Service Model Foundation, Data models, Set up your enviro
 
 # Create relationships
 
-Use relationships to provide internal and external users with additional access to [[customer-data|customer data]].
+Use relationships to provide internal and external users with additional access to customer data.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Account Team Member
 
 </td><td>
 
-Use the Account Manager responsibility to create a relationship between an internal user and an account. With this relationship, the internal user can: -   Create and [[manage-cases|manage cases]] for their accounts.
+Use the Account Manager responsibility to create a relationship between an internal user and an account. With this relationship, the internal user can: -   Create and manage cases for their accounts.
 -   View account information, including the related entities for an account.
 -   Create and manage contacts and additional addresses for their accounts.
 
@@ -93,13 +93,13 @@ Authorized Representative
 
 </td><td>
 
-Use the Authorized Representative responsibility to [[create-user-consumer-relationship|create a relationship between two consumers]], regardless of household, or between two consumers within the same household.With this relationship, a consumer can:
+Use the Authorized Representative responsibility to create a relationship between two consumers, regardless of household, or between two consumers within the same household.With this relationship, a consumer can:
 
 -   Create and manage cases for another consumer.
 -   View the information of another consumer.
 -   View the install base information of another consumer and create cases for:
-    -   [[sold-product|Sold products]]
-    -   [[install-base-item|Install base items]]
+    -   Sold products
+    -   Install base items
 
 </td></tr></tbody>
 </table>## Procedure
@@ -228,31 +228,20 @@ Household Member Relationship
 
     The relationship is added to the relationship list.
 
-    Account, Consumer, and Household Team Member relationships are also added to the corresponding related [[migration-lists|lists]] on the Business Location form.
+    Account, Consumer, and Household Team Member relationships are also added to the corresponding related lists on the Business Location form.
 
     -   Account Staff Relationships
     -   Consumer Staff Relationships
     -   Household Staff Relationships
     Consumer to Consumer and Household Member relationships are added to the following related lists:
 
-    -   [[data-model-household-form|Household form]] &gt; Member Relationships
+    -   Household form &gt; Member Relationships
     -   Consumer form &gt; Consumer Relationships
 
 **Related topics**  
 
 
-[[csm-data-model-responsibilities|Service Model Foundation responsibilities]]
+[Service Model Foundation responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-data-model-responsibilities.md)
 
-[[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
+[Create a responsibility definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_CreateAResponsibilityDefinition.md)
 
-## Related
-
-- [[csm-data-model-responsibilities|Service Model Foundation responsibilities]]
-- [[t_CreateAResponsibilityDefinition|Create a responsibility definition]]
-- [[customer-data|Customer data]]
-- [[manage-cases|Manage cases]]
-- [[create-user-consumer-relationship|Create a relationship between two consumers]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]
-- [[data-model-household-form|Household form]]

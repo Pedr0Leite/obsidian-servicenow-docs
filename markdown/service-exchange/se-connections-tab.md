@@ -15,7 +15,7 @@ breadcrumb: [Service Exchange Center, Explore, Service Exchange]
 
 # Connections
 
-Use the Connections tab in the Provider Center and Consumer Center to add, monitor, and manage your [[tmt-service-bridge-both-landing-page|Service Exchange]] connections from a single location.
+Use the Connections tab in the Provider Center and Consumer Center to add, monitor, and manage your Service Exchange connections from a single location.
 
 The **Connections** tab displays each connection as a card. Each card shows the company name, connection number, instance URL, and the current state of the connection. For onboarded connections, the card also displays the application version and location details.
 
@@ -57,12 +57,7 @@ Apart from viewing connection details, you can perform several actions from the 
 **Related topics**  
 
 
-[[se-provider-center-onboarding|Register a consumer from the Provider Center]]
+[Register a consumer from the Provider Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-provider-center-onboarding.md)
 
-[[se-consumer-center-onboarding|Consumer registration from the Consumer Center]]
+[Consumer registration from the Consumer Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-consumer-center-onboarding.md)
 
-## Related
-
-- [[se-provider-center-onboarding|Register a consumer from the Provider Center]]
-- [[se-consumer-center-onboarding|Consumer registration from the Consumer Center]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

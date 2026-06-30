@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Task Attribute in Manage Phone Number Form
 
-The Task attributes in Manage Phone Number Form form enables you to [[telecommunications-circuit-design-resource-assignment|design and assign]] a phone number in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+The Task attributes in Manage Phone Number Form form enables you to design and assign a phone number in the Telecommunications Network Inventory application.
 
 <table id="table_rgv_w4f_4xb"><thead><tr><th>
 
@@ -100,7 +100,3 @@ Geographic area code that forms part of the telephone number.**Note:** This fiel
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

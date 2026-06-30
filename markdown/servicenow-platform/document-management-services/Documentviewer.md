@@ -44,7 +44,7 @@ The following table describes the icons used in Document Viewer.
 |Icon|Description|
 |----|-----------|
 |\[Omitted image "IconDocViewerToggleSidebar.png"\] Alt text: Sidebar toggle icon to preview all the pages in the document|Toggle the sidebar to see a preview of all the pages in the document.|
-|\[Omitted image "IconDocViewerDownloadAttch.png"\] Alt text: Icon to download the attachment|Download the [[attachment|attachment]].|
+|\[Omitted image "IconDocViewerDownloadAttch.png"\] Alt text: Icon to download the attachment|Download the attachment.|
 |\[Omitted image "IconDocViewerPreviousPg.png"\] Alt text: Page up or page down icons to scroll the page|Page up or down using the arrow buttons. You can also scroll or use your keyboard arrow keys.|
 |\[Omitted image "IconDocViewerClockwise.png"\] Alt text: Icon to rotate document page|Rotate the page to the right.|
 |\[Omitted image "IconDocViewerUnClockwise.png"\] Alt text: Icon to rotate page|Rotate the page to the left.|
@@ -59,6 +59,3 @@ The following table describes the icons used in Document Viewer.
 
 [Enable Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/enable-document-viewer.md)
 
-## Related
-
-- [[attachment|Attachment]]

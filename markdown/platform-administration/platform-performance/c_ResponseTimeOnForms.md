@@ -40,7 +40,7 @@ To view a detailed breakdown of the processing time on forms, select the respons
 
 \[Omitted image "ResponseTime1.png"\] Alt text: Response statistics
 
-Administrators can disable the response time by setting the **glide.ui.response\_time** property to **false** in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table. In the navigation filter, enter `sys_properties.list` and search for **glide.ui.response\_time**.
+Administrators can disable the response time by setting the **glide.ui.response\_time** property to **false** in the System Properties \[sys\_properties\] table. In the navigation filter, enter `sys_properties.list` and search for **glide.ui.response\_time**.
 
 ## Reviewing response times from system logs
 
@@ -53,13 +53,9 @@ If you notice issues with form response times, see [Improving response times on 
 
 ## Client transaction timings
 
-The [[r_ClientTransactionTimings|Client Transaction Timings]] plugin provides extra information about the time spent on both the client and server sides, by the browser and the network. This feature not only helps find long-running processes, but also provides information about where in the process the performance issue is caused.
+The Client Transaction Timings plugin provides extra information about the time spent on both the client and server sides, by the browser and the network. This feature not only helps find long-running processes, but also provides information about where in the process the performance issue is caused.
 
 For more information, see [Client transaction timings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_ClientTransactionTimings.md).
 
 **Parent Topic:**[Monitoring platform performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/platform-performance/monitoring-platform-performance.md)
 
-## Related
-
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[r_ClientTransactionTimings|Client transaction timings]]

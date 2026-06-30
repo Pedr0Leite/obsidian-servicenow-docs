@@ -168,14 +168,10 @@ Activity
 Updates and information related to the channel partner.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[[mco-create-channel-partner|Create a channel partner]]
+[Create a channel partner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-create-channel-partner.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-create-channel-partner|Create a channel partner]]

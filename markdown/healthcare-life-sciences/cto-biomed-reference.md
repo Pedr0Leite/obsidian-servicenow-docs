@@ -12,8 +12,5 @@ breadcrumb: [Care Team Operations for Biomed, Healthcare Operations, Healthcare 
 
 # Care Team Operations for Biomed Reference
 
-Reference topics provide additional information about [[care-team-operations-for-biomed|Care Team Operations for Biomed]] components.
+Reference topics provide additional information about Care Team Operations for Biomed components.
 
-## Related
-
-- [[care-team-operations-for-biomed|Care Team Operations for Biomed]]

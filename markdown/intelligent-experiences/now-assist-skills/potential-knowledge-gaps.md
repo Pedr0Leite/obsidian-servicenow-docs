@@ -14,12 +14,9 @@ breadcrumb: [Skills in the Platform workflow, Now Assist skills, Now Assist AI a
 
 # Potential knowledge gaps
 
-The potential knowledge gap skill helps find missing or incomplete knowledge coverage by analyzing service interactions. Gap recommendations become available after you activate the knowledge gaps skills in [[platform-now-assist-landing|Now Assist]] Admin.
+The potential knowledge gap skill helps find missing or incomplete knowledge coverage by analyzing service interactions. Gap recommendations become available after you activate the knowledge gaps skills in Now Assist Admin.
 
 The knowledge gaps feature \(also known as potential gaps\) helps knowledge managers and service teams discover missing or insufficient knowledge articles by analyzing service case and incident patterns. When the relevant skills are activated, Now Assist generates gap recommendations to guide the creation or improvement of knowledge content.
 
 For more information, see [Manage potential knowledge gaps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/address-knowledge-gaps.md)
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]

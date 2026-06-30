@@ -14,17 +14,17 @@ breadcrumb: [Viewing reports and dashboards in the Software Bill of Materials wo
 
 # Creating rules for application vulnerable items in the Software Bill of Materials Workspace
 
-Before you can see application vulnerable items \(AVITs\) in the [[sbom-landing|Software Bill of Materials]] \(SBOM\) Workspace, you must set up the conditions under which AVITs are created.
+Before you can see application vulnerable items \(AVITs\) in the Software Bill of Materials \(SBOM\) Workspace, you must set up the conditions under which AVITs are created.
 
 ## AVITs in the SBOM Workspace
 
 If you’ve installed and activated the SBOM Response application, AVITs are created for SBOM files if any of the imported data matches the conditions of your existing AVIT creation rules.
 
-The SBOM Response and [[vuln-landing-page|Vulnerability Response]] applications are required to set up rules for creating application vulnerable items \(AVITs\) automatically and remediating them with the [[avr-landing|Application Vulnerability Response]] workflow. See [Exploring Software Bill of Materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-exploring.md) for more information.
+The SBOM Response and Vulnerability Response applications are required to set up rules for creating application vulnerable items \(AVITs\) automatically and remediating them with the Application Vulnerability Response workflow. See [Exploring Software Bill of Materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-exploring.md) for more information.
 
-As a user with the sn\_sbom\_resp.manage\_avi\_rule role, you must add AVIT creation rules in the SBOM Workspace before you can create AVITs for the [[vulnerabilities|vulnerabilities]] that are found in your ingested SBOM data. AVITs enable you to evaluate the integrity of the third-party components in your applications. An AVIT is created in your instance when an application is matched to a component that has an associated vulnerability.
+As a user with the sn\_sbom\_resp.manage\_avi\_rule role, you must add AVIT creation rules in the SBOM Workspace before you can create AVITs for the vulnerabilities that are found in your ingested SBOM data. AVITs enable you to evaluate the integrity of the third-party components in your applications. An AVIT is created in your instance when an application is matched to a component that has an associated vulnerability.
 
-In the SBOM Workspace, you can view only SBOM AVITs. However You can view SBOM AVITs along with other types of vulnerable items in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]] in Vulnerability Response. You can view all the AVITs that have been created in the SBOM Workspace in the List Module. The list module also includes all the NVD and CWE entries and Application Vulnerabilities.
+In the SBOM Workspace, you can view only SBOM AVITs. However You can view SBOM AVITs along with other types of vulnerable items in the Vulnerability Manager Workspace in Vulnerability Response. You can view all the AVITs that have been created in the SBOM Workspace in the List Module. The list module also includes all the NVD and CWE entries and Application Vulnerabilities.
 
 You can also assign AVITs for remediation based on recommendations from known vulnerability lists such as the National Vulnerability Database \(NVD\). A scheduled job is triggered, and if the conditions of your creation rules match the ingested data, AVITs are created.
 
@@ -55,10 +55,3 @@ A **Closed** application vulnerable item \(AVIT\) for a component with an associ
 
 Deactivate this system property only if you do not want **Closed** AVITs to reopen automatically.
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[avr-landing|Application Vulnerability Response]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

@@ -14,15 +14,15 @@ breadcrumb: [Contracts, Contract Management use, Contract Management, IT Asset M
 
 # Create a contract
 
-Create a contract with various contract [[c_Models|models]], which would act as a binding agreement between the two parties.
+Create a contract with various contract models, which would act as a binding agreement between the two parties.
 
 ## Before you begin
 
 Role required:
 
--   For Core UI and [[using-ham-workspace|Hardware Asset Workspace]]: admin, contract\_manager
--   For [[using-eam-workspace|Enterprise Asset Workspace]]: sn\_eam.enterprise\_admin, sn\_eam.enterprise\_asset\_manager
--   For [[sam-workspace|Software Asset Workspace]]: sam\_admin, sam\_user
+-   For Core UI and Hardware Asset Workspace: admin, contract\_manager
+-   For Enterprise Asset Workspace: sn\_eam.enterprise\_admin, sn\_eam.enterprise\_asset\_manager
+-   For Software Asset Workspace: sam\_admin, sam\_user
 
 ## About this task
 
@@ -30,12 +30,12 @@ If a contract has one or more associated rate cards, the fields on the Contract 
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you’re using the Core UI, navigate to **All** &gt; **Contract** and select a contract type, such as **Insurance**, **Maintenance**, or **Service**, or select **All**.
-    -   If you’re using Hardware Asset Workspace, navigate to the **[[c_ContractManagement|Contract management]]** view and then select the **All contracts** tab.
+    -   If you’re using Hardware Asset Workspace, navigate to the **Contract management** view and then select the **All contracts** tab.
     -   If you’re using Enterprise Asset Workspace, open the **Contract and lease management** view and then select the **All contracts** tab.
-    -   If you’re [[using-sam-workspace|using Software Asset Workspace]], navigate to **License operations** &gt; **Contracts** &gt; **Software contracts** and select **New**.
+    -   If you’re using Software Asset Workspace, navigate to **License operations** &gt; **Contracts** &gt; **Software contracts** and select **New**.
 2.  Select **New**.
 
 3.  On the form, fill in the fields.
@@ -360,7 +360,7 @@ Percentage increase or decrease in price of contract. To indicate a decrease in 
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-[[c_TermsAndConditions|Terms and Conditions]] section
+Terms and Conditions section
 
 </td></tr><tr><td>
 
@@ -511,13 +511,3 @@ Contracts can be associated with documents. Linking a contract to related docume
 
 [Initiate metadata and obligation extraction from a signed contract in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/extract-metadata-from-uploaded-contract-document.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[c_ContractManagement|Contract Management]]
-- [[using-sam-workspace|Using Software Asset Workspace]]
-- [[c_TermsAndConditions|Terms and conditions]]

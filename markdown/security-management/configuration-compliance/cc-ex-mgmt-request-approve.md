@@ -16,7 +16,7 @@ breadcrumb: [Use, Configuration Compliance, Unified Security Exposure Management
 
 You can request to defer the remediation of a remediation task for a specified period. Users who are a part of the approver group can approve exception requests.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -31,11 +31,7 @@ To request or approve exception requests, see:
 
 **Note:**
 
-[[tisc-email-notifications|Email notifications]] are sent at every stage of exception management, providing the status and other details of a request. For example, when an exception is requested, the requester receives an email confirming that the request is raised. The approver also receives an email stating that an exception has been requested.
+Email notifications are sent at every stage of exception management, providing the status and other details of a request. For example, when an exception is requested, the requester receives an email confirming that the request is raised. The approver also receives an email stating that an exception has been requested.
 
 Starting from v14.11 of Configuration Compliance, you can configure the time frames for approving exceptions, along with email notifications for both the approver and requester after a set number of days. When a request is raised, the test result changes to In-Review status and a state change record is created. If the approver doesn't respond within the configured time frame, the test result reverts to Open status. The previous state is stored in the **backup\_state** field. For more information, see [Configure approval rules for Exception Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/exception-mgt-approval-rules.md).
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[tisc-email-notifications|Email Notifications]]

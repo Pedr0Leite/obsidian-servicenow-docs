@@ -16,7 +16,7 @@ breadcrumb: [Change success score, Configure, Change Management, IT Service Mana
 
 To calculate the success score, formula indicators are provided. These indicators apply the multiplication operation to the data collected by the automated indicators to arrive at the final score.
 
-You can view the [[change-success-score|Change success score]] formula indicators in Performance Analytics under the indicator group **Change success score - multipliers**.
+You can view the Change success score formula indicators in Performance Analytics under the indicator group **Change success score - multipliers**.
 
 Review the following table to understand the default multipliers used in success score calculation.
 
@@ -34,6 +34,3 @@ Modify the multiplier values in the formula indicators to calculate the final su
 
 **Parent Topic:**[Change success score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md)
 
-## Related
-
-- [[change-success-score|Change success score]]

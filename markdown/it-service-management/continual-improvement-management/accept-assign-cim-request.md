@@ -18,7 +18,7 @@ Accept and assign a new improvement request so it can be assessed for approval. 
 
 ## Before you begin
 
-The Improvement Requester must [[create-cim-request|create an improvement request]].
+The Improvement Requester must create an improvement request.
 
 Role required: sn\_cim.improvement\_manager, sn\_cim.improvement\_coordinator
 
@@ -69,7 +69,7 @@ As part of the acceptance process, the Improvement Manager determined that KPI p
 |Benefits|High|
 |Percent complete|0|
 |Short description|Improve average time to resolve an incident by 25%|
-|Business justification|Average time to resolve an incident time is bad compared to Industry average. Compared company value with global values from companies in the same industry using the [[benchmarks-landing|Benchmarks]] application.|
+|Business justification|Average time to resolve an incident time is bad compared to Industry average. Compared company value with global values from companies in the same industry using the Benchmarks application.|
 
 |Field|Value|
 |-----|-----|
@@ -108,7 +108,3 @@ As part of the acceptance process, the Improvement Manager determined that KPI p
 
 [Improvement field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-field-descriptions.md)
 
-## Related
-
-- [[create-cim-request|Create an improvement request]]
-- [[benchmarks-landing|Benchmarks]]

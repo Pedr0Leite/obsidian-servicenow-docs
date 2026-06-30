@@ -16,13 +16,13 @@ breadcrumb: [Security configuration console, Security Center, Platform Security]
 
 View your hardening compliance score, compare it with previous scores, and change settings to improve your compliance score and security posture in the security hardening page.
 
-\[Omitted image "sec-center-hardening.png"\] Alt text: [[hardening-score-comparison|Hardening score comparison]] page
+\[Omitted image "sec-center-hardening.png"\] Alt text: Hardening score comparison page
 
-[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md) specify recommended values for the security-related properties and plugins in the ServiceNow AI Platform. The hardening tool calculates the hardening setting compliance score as a percentage. This number indicates how compliant your instance is with the [[sec-center-v2|Security Center]] [[security-hardening-settings|hardening settings]].
+[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md) specify recommended values for the security-related properties and plugins in the ServiceNow AI Platform. The hardening tool calculates the hardening setting compliance score as a percentage. This number indicates how compliant your instance is with the Security Center hardening settings.
 
 The formula for calculating the hardening compliance score:
 
--   Each hardening setting has a risk score between 0-10. You can see the values of individual settings in the **[[all-settings|All settings]]** section.
+-   Each hardening setting has a risk score between 0-10. You can see the values of individual settings in the **All settings** section.
 -   The score equals the sum of all the compliant risk scores divided by the sum of all risk scores.
 
 For example, the sum of all the compliant risk scores is 25.4, and the total for all risk scores is 34.9. For this sum, the compliance score is \(25.4 /34.9\) × 100 which equals 72.7. This decimal gets rounded up to the nearest whole number and will therefore be equal to 73.
@@ -46,9 +46,3 @@ Gain visibility to the health of your hardening settings and use this data to im
 
 **Parent Topic:**[Security configuration console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/homepage.md)
 
-## Related
-
-- [[hardening-score-comparison|Hardening score comparison]]
-- [[sec-center-v2|Security Center]]
-- [[security-hardening-settings|Hardening settings]]
-- [[all-settings|All settings]]

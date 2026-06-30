@@ -40,8 +40,8 @@ Roles/User Criteria
 
 Provides dynamic employee-centric browse experience based on a unified taxonomy across all content types:​-   **Employee Taxonomy**: The base system employee-centric taxonomy that organizations can use as a starting point.​
 -   **Mega Menu Widget**: The top navigation bar for employees to browse all available topics.​
--   **[[config-popular-topics|Popular Topics Widget]]**: The most popular topics highlighted across all organizations.​
--   **[[dynamic-topic-page|Dynamic Topic Pages]]**: The dedicated and dynamically created page for accessing all content associated with the topic.​
+-   **Popular Topics Widget**: The most popular topics highlighted across all organizations.​
+-   **Dynamic Topic Pages**: The dedicated and dynamically created page for accessing all content associated with the topic.​
 
 
 </td><td>
@@ -50,7 +50,7 @@ admin
 
 </td></tr><tr><td>
 
-**[[emp-slate-employee-profile|Employee Profile]] Page**
+**Employee Profile Page**
 
 </td><td>
 
@@ -110,7 +110,7 @@ admin, sp\_admin, esc\_admin
 
 </td></tr><tr><td>
 
-**[[emp-center-quick-link-config|Quick Links]] Widget**
+**Quick Links Widget**
 
 </td><td>
 
@@ -122,7 +122,7 @@ sp\_admin, user\_criteria\_admin, Taxonomy Manager
 
 </td></tr><tr><td>
 
-**[[rfy-ec|Recommended for you]] widget**
+**Recommended for you widget**
 
 </td><td>
 
@@ -174,7 +174,7 @@ admin, sp\_admin
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -196,11 +196,3 @@ admin, sp\_admin
 
 [Website configuration form]()
 
-## Related
-
-- [[config-popular-topics|Popular topics widget]]
-- [[dynamic-topic-page|Dynamic topic pages]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[rfy-ec|Recommended for you]]
-- [[ec-notification-content|Notification content]]

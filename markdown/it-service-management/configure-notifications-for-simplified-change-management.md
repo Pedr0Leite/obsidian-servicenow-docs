@@ -12,7 +12,7 @@ breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller
 
 # Configure notifications for Simplified Change Management
 
-Add and manage notifications for [[c_ITILChangeManagement|Change Management]] to keep users informed about approvals, status updates, and task assignments at key steps in the change process.
+Add and manage notifications for Change Management to keep users informed about approvals, status updates, and task assignments at key steps in the change process.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The following types of pre-configured notifications are available:
 
 1.  From the header of your ServiceNow instance, navigate to **All** &gt; **Admin Home**.
 
-2.  From the **Manage your products** section, select **View product overview** for [[r_ITServiceManagement|IT Service Management]].
+2.  From the **Manage your products** section, select **View product overview** for IT Service Management.
 
 3.  On the Product Hub page for IT Service Management, from the Configure your product section, select **Configure**.
 
@@ -136,7 +136,7 @@ Create a script to perform certain actions, like sending a notification based on
 
 10. Select **Submit**.
 
-11. On the Notifications [[dex-workspace-dashboard-tab|landing page]], select **Mark as configured** to save your [[settings-mobile|settings]] and mark this step as complete.
+11. On the Notifications landing page, select **Mark as configured** to save your settings and mark this step as complete.
 
     To revert changes made in the current session before saving, select **Undo**.
 
@@ -149,12 +149,5 @@ Create a script to perform certain actions, like sending a notification based on
 
 The notification is saved and appears in the **Notifications** list. It fires automatically whenever the defined conditions are met.
 
-**Parent Topic:**[[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
+**Parent Topic:**[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)
 
-## Related
-
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[settings-mobile|Settings]]

@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Cloning options with Instance Data Replication
 
-Ensure that certain tables are preserved or excluded to clone your database from one instance to another successfully with [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Ensure that certain tables are preserved or excluded to clone your database from one instance to another successfully with Instance Data Replication \(IDR\).
 
 There are multiple methods for copying an IDR configuration from one instance to another.
 
@@ -151,6 +151,3 @@ After performing the true clone, you must perform the following actions on the t
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]

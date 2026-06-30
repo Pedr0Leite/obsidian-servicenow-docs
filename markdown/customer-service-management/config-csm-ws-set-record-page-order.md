@@ -12,7 +12,7 @@ breadcrumb: [Record pages, Record pages and page templates, CSM Configurable Wor
 
 # Set record page order
 
-Set the order value of a record page to determine the default page for displaying records in [[csm-workspaces-configure|CSM Configurable Workspace]].
+Set the order value of a record page to determine the default page for displaying records in CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ To use a different page as the default page, you need to manually switch from th
 
 2.  Select the **CSM/FSM Configurable Workspace** experience.
 
-3.  Select the desired page in the Variants list, for example, **[[csm-default-record-page|CSM default record page]]**.
+3.  Select the desired page in the Variants list, for example, **CSM default record page**.
 
 4.  Set the page order value.
 
@@ -67,10 +67,5 @@ To use a different page as the default page, you need to manually switch from th
 **Related topics**  
 
 
-[[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
+[CSM Configurable Workspace record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md)
 
-## Related
-
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-default-record-page|CSM default record page]]

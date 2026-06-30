@@ -26,7 +26,7 @@ Role required: sn\_cm\_core.contract\_user
 
 2.  Open the contract request.
 
-3.  Review the information in the **[[activity-lxp|Activity]]** stream to find the validation error.
+3.  Review the information in the **Activity** stream to find the validation error.
 
 4.  Select the **Signatories** tab.
 
@@ -51,6 +51,3 @@ The contract request is resubmitted and the state changes from Draft to Work in 
 
 **Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-update-sync-signatories.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

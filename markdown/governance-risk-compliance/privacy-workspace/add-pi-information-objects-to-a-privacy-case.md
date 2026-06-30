@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Case Management, Privacy Management, Governance, Risk,
 
 # Add PI information objects to a privacy case
 
-To identify the types of personal data compromised during a breach, add \[PI\] [[information-objects|information objects]] to a privacy case.
+To identify the types of personal data compromised during a breach, add \[PI\] information objects to a privacy case.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_privacy\_case.privacy\_case\_analyst
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Privacy Workspace**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Privacy Workspace**.
 
 2.  Select the list \[Omitted image "ws-list-icon.png"\] icon.
 
@@ -54,7 +54,3 @@ After adding PI information objects, add key stakeholders to the privacy case. F
 
 [Information objects in Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/information-object-in-privacy.md)
 
-## Related
-
-- [[information-objects|information objects]]
-- [[privacy-management|privacy management]]

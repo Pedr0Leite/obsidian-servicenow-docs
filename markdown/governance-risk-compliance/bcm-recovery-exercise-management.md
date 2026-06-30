@@ -18,11 +18,8 @@ The objectives of Recovery and Exercise Management are:
 
 -   **Plan Exercising Recovery Management**
     -   Provide continuous testing and improving of continuity plans.
-    -   Improve effectiveness and usability of plans during simulated and actual [[crisis-management-uib|crisis events]].
+    -   Improve effectiveness and usability of plans during simulated and actual crisis events.
 -   **Crisis Management**
     -   Minimize unavailability of critical business functions and processes across the organization.
     -   Minimize financial, reputation, legal, and regulatory impacts during a crisis event.
 
-## Related
-
-- [[crisis-management-uib|Crisis events]]

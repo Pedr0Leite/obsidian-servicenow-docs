@@ -22,7 +22,7 @@ Role required: admin, sn\_sb.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Provider [[se-connections-tab|Connections]]**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Provider Connections**.
 
 2.  Click on the **Number** column to open the provider connection record.
 
@@ -77,7 +77,3 @@ The following tables are deleted:
             -   sn\_sb\_con\_inbound\_field
             -   sn\_sb\_con\_outbound\_field
 
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

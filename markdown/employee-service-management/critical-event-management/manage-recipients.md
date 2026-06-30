@@ -22,7 +22,7 @@ Role required: sn\_critical.agent
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **[[critical-event-management|Critical Event Management]]** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -50,7 +50,3 @@ Role required: sn\_critical.agent
 
 [Create a communication task]()
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[critical-event-management|Critical Event Management]]

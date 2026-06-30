@@ -12,7 +12,7 @@ breadcrumb: [Healthcare and Life Sciences]
 
 # Now Assist for Care Team Operations
 
-Use the ServiceNow®Now Assist for Care Team Operations application to create support requests in [[care-team-mobile-landing|Care Team Mobile]] or [[care-team-portal-landing|Care Team Portal]].
+Use the ServiceNow®Now Assist for Care Team Operations application to create support requests in Care Team Mobile or Care Team Portal.
 
 ## Get started
 
@@ -45,7 +45,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[care-team-mobile-landing|Care Team Mobile]]
-- [[care-team-portal-landing|Care Team Portal]]

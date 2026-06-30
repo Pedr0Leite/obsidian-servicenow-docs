@@ -21,7 +21,7 @@ Enable the Asset pick task for your stockroom so that the task is automatically 
 -   **[Add aisles and spaces to a stockroom in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/add-aisle-space-stockroom-ham-ws.md)**  
 Add details of aisles and spaces in a stockroom to provide granular location details of an asset in that stockroom. The aisle and space details enable you to locate and pick an asset in the stockroom.
 -   **[View the open hardware asset pick tasks for your stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/view-open-pick-tasks-ham.md)**  
-[[view-open-pick-tasks-ham|View the open hardware asset pick tasks for your stockroom]] to get the details of the tasks that need action.
+View the open hardware asset pick tasks for your stockroom to get the details of the tasks that need action.
 
 **Parent Topic:**[Using Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/using-ham-classic.md)
 
@@ -32,7 +32,7 @@ Add details of aisles and spaces in a stockroom to provide granular location det
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -54,13 +54,13 @@ Add details of aisles and spaces in a stockroom to provide granular location det
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -78,7 +78,7 @@ Add details of aisles and spaces in a stockroom to provide granular location det
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -92,10 +92,3 @@ Add details of aisles and spaces in a stockroom to provide granular location det
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[view-open-pick-tasks-ham|View the open hardware asset pick tasks for your stockroom]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Project Workspace, Project Portfolio Management, Strategic Portfoli
 
 # Configuring Project Workspace
 
-Set up and configure the [[project-workspace-landing-page|Project Workspace]] application to initiate and plan your projects, financials, and resources.
+Set up and configure the Project Workspace application to initiate and plan your projects, financials, and resources.
 
 -   **[Configuring projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/configure-projects-pw.md)**  
 Set up the Project Workspace application and start planning on your project.
@@ -40,6 +40,3 @@ Define custom fields and a unique form layout to support configuration independe
 
 [Project Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-reference.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

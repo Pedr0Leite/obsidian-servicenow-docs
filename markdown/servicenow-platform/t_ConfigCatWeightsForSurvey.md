@@ -26,7 +26,7 @@ Weights are set to a value of **10** by default but can be changed.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Survey** &gt; **View [[r_SurveyManagementLandingPage|Surveys]]** and select a survey from the list.
+1.  Navigate to **All** &gt; **Survey** &gt; **View Surveys** and select a survey from the list.
 
 2.  In the Survey Definition form, select a category from the **Metric Categories** related list.
 
@@ -35,7 +35,7 @@ Weights are set to a value of **10** by default but can be changed.
 4.  Click **Update**.
 
 
-**Parent Topic:**[[c_SurveyDesigner|Survey designer]]
+**Parent Topic:**[Survey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyDesigner.md)
 
 **Related topics**  
 
@@ -54,7 +54,3 @@ Weights are set to a value of **10** by default but can be changed.
 
 [Edit a survey in the survey designer]()
 
-## Related
-
-- [[c_SurveyDesigner|Survey designer]]
-- [[r_SurveyManagementLandingPage|Surveys]]

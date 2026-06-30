@@ -14,9 +14,9 @@ breadcrumb: [Privacy Management, Governance, Risk, and Compliance]
 
 # Privacy Case Management
 
-The [[r_WhatIsGRC|Governance, Risk, and Compliance]]: Privacy Case Management application enables you to report and manage privacy violations and complaints. The solution allows for the swift and efficient management of privacy breaches and complaints through collaboration with various teams which help in investigating the root cause and key details of the breach reported.
+The Governance, Risk, and Compliance: Privacy Case Management application enables you to report and manage privacy violations and complaints. The solution allows for the swift and efficient management of privacy breaches and complaints through collaboration with various teams which help in investigating the root cause and key details of the breach reported.
 
-With the ability to integrate with other systems and record impacted areas, the application helps to identify key stakeholders and [[information-objects|information objects]] associated with a case. This helps privacy teams to take appropriate preventive measures and remediation steps to manage the breach and its impact.
+With the ability to integrate with other systems and record impacted areas, the application helps to identify key stakeholders and information objects associated with a case. This helps privacy teams to take appropriate preventive measures and remediation steps to manage the breach and its impact.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -28,7 +28,7 @@ With the ability to integrate with other systems and record impacted areas, the 
 
 </td><td>
 
-[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md) Work on creating privacy assessments, [[ropa-record|processing activities]] and so on.
+[Use \[Omitted image "bus-agent-workspace-1.svg"\] Alt text:](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-pcm.md) Work on creating privacy assessments, processing activities and so on.
 
 </td></tr><tr><td>
 
@@ -44,9 +44,3 @@ With the ability to integrate with other systems and record impacted areas, the 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[information-objects|information objects]]
-- [[ropa-record|Processing activities]]

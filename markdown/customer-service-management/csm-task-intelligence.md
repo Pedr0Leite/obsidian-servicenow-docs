@@ -12,9 +12,9 @@ breadcrumb: [Machine learning solutions, Implement Intelligence, Configure, Cust
 
 # Task Intelligence for Customer Service
 
-Task Intelligence for Customer Service offers several AI capabilities such as language detection, record categorization, Sentiment Analysis, and Document [[intelligence-csm|Intelligence]]. These capabilities automate several routine tasks across the case lifecycle and enable agents to focus on complex case resolution.
+Task Intelligence for Customer Service offers several AI capabilities such as language detection, record categorization, Sentiment Analysis, and Document Intelligence. These capabilities automate several routine tasks across the case lifecycle and enable agents to focus on complex case resolution.
 
-\[Omitted image "task-intel-overview-screenshot.png"\] Alt text: [[r_CustomerServiceCaseForm|Case form]] with highlighted Task Intelligence features that automate routine tasks across the case lifecycle. For the text description, refer to the Task Intelligence for Customer Service features table.
+\[Omitted image "task-intel-overview-screenshot.png"\] Alt text: Case form with highlighted Task Intelligence features that automate routine tasks across the case lifecycle. For the text description, refer to the Task Intelligence for Customer Service features table.
 
 <table id="table_epw_m1g_vtb"><thead><tr><th>
 
@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[case-categorization-overview|Record categorization]]
+[Record categorization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-categorization-overview.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ This feature evaluates text in the email subject and body, the record short desc
 
 </td></tr><tr><td>
 
-[[case-sentiment-analysis|Sentiment Analysis]]
+[Sentiment Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis.md)
 
 </td><td>
 
@@ -58,11 +58,11 @@ Help agents gauge customer emotions and better prioritize their work while enabl
 
 </td></tr><tr><td>
 
-[[case-language-detection|Language detection]]
+[Language detection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-language-detection.md)
 
 </td><td>
 
-Identify the language used to [[t_CreateACaseFromCustServApp|create a customer service case]] and add the language to the **Language** field for the case record. This feature can identify up to 20 different languages.
+Identify the language used to create a customer service case and add the language to the **Language** field for the case record. This feature can identify up to 20 different languages.
 
  Add the identified language to the case as a skill, which is stored in the Task Skills table. This table can be configured as a related list on the Case form.
 
@@ -70,7 +70,7 @@ Identify the language used to [[t_CreateACaseFromCustServApp|create a customer s
 
 </td></tr><tr><td>
 
-[[csm-document-intelligence|Document Intelligence]]
+[Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-document-intelligence.md)
 
 </td><td>
 
@@ -80,7 +80,7 @@ Document intelligence reduces the time needed to resolve the case by automating 
 
 </td></tr><tr><td>
 
-[[csm-task-intel-admin-center|Task Intelligence Admin Console]]
+[Task Intelligence Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md)
 
 </td><td>
 
@@ -97,11 +97,11 @@ DocIntel Admin experience
 The Document Intelligence application includes the DocIntel Admin experience, which provides an easy-to-use interface that you can use to do the following:-   Create and configure document processing use cases
 -   Monitor the performance of Document Intelligence use cases
 
-For more information, see [[csm-task-intel-create-di-use-case|Create a Document Intelligence use case]].
+For more information, see [Create a Document Intelligence use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-di-use-case.md).
 
 </td></tr><tr><td>
 
-[[similar-case-recommendation|Similar case recommendation]]
+[Similar case recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/similar-case-recommendation.md)
 
 </td><td>
 
@@ -116,7 +116,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\) is available from the ServiceNow Store. This application has the following plugin dependencies:
 
--   Predictive Intelligence for [[c_CustomerServiceManagement|Customer Service Management]] \(com.snc.csm\_ml\)
+-   Predictive Intelligence for Customer Service Management \(com.snc.csm\_ml\)
 -   Customer Service \(com.sn\_customerservice\)
 -   Skills Management \(com.snc.skills\_management\)
 -   Dynamic Translation \(com.glide.dynamic\_translation\)
@@ -128,7 +128,7 @@ The Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\)
 
 After installing the Task Intelligence for Customer Service application, you can configure the different features and use the Task Intelligence Admin Console to create models. For more information, see:
 
--   [[configure-task-intelligence|Install and configure Task Intelligence features]]
+-   [Install and configure Task Intelligence features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-task-intelligence.md)
 -   [Set up and deploy Task Intelligence models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-task-intelligence.md)
 
 ## Using Task Intelligence for Customer Service
@@ -139,11 +139,11 @@ Use the Task Intelligence features to complete the following tasks:
 -   Review and submit values extracted by Document Intelligence
 -   Review Task Intelligence analytics and prediction history
 
-For more information about these tasks, see [[use-task-intelligence|Use Task Intelligence for Customer Service]].
+For more information about these tasks, see [Use Task Intelligence for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-task-intelligence.md).
 
 ## AI Prediction Banner Display Behavior
 
-AI prediction banner display in [[csm-workspaces-configure|CSM Configurable Workspace]]: AI prediction banners in CSM Configurable Workspace are controlled by specific client-side and back end configurations that determine when and how prediction results are displayed to agents.
+AI prediction banner display in CSM Configurable Workspace: AI prediction banners in CSM Configurable Workspace are controlled by specific client-side and back end configurations that determine when and how prediction results are displayed to agents.
 
 Client-side control: The AI Banner Display Client controls the functionality of prediction banners in CSM Configurable Workspace. This is the current implementation that replaces the deprecated version.
 
@@ -155,19 +155,3 @@ Standard UI Form versus workspace display: There is a clear distinction between 
 
 **Tip:** When troubleshooting AI prediction banner visibility issues, verify both the back end prediction processing and the workspace client-side display configuration. Ensure you are using the default workspace page layout for banner functionality.
 
-## Related
-
-- [[case-categorization-overview|Record categorization]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[case-language-detection|Language detection]]
-- [[csm-document-intelligence|Document Intelligence for Customer Service]]
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[csm-task-intel-create-di-use-case|Create a Document Intelligence use case]]
-- [[similar-case-recommendation|Similar case recommendation]]
-- [[configure-task-intelligence|configure task intelligence]]
-- [[use-task-intelligence|Use Task Intelligence for Customer Service]]
-- [[intelligence-csm|Intelligence]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[t_CreateACaseFromCustServApp|Create a customer service case]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

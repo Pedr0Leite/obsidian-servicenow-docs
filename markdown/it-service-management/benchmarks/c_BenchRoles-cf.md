@@ -14,7 +14,7 @@ breadcrumb: [Explore, Benchmarks, IT Service Management]
 
 # Benchmarks roles
 
-The [[benchmarks-landing|Benchmarks]] admin and the viewer roles are introduced with Benchmarks.
+The Benchmarks admin and the viewer roles are introduced with Benchmarks.
 
 <table id="table_ukk_4pn_b1b"><thead><tr><th>
 
@@ -74,7 +74,3 @@ sn\_process\_optimization\_viewer
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[benchmarks-landing|Benchmarks]]

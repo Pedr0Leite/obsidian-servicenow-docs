@@ -27,7 +27,7 @@ If you're a new customer, you automatically have Next Experience enabled and you
 
 ## Existing customer upgrading instance without UI customization
 
-If you're an existing customer, but haven't implemented UI customizations or invested significantly in adopting Workspace, the [[next-experience-landing-page|Next Experience UI]] is turned on when you upgrade.
+If you're an existing customer, but haven't implemented UI customizations or invested significantly in adopting Workspace, the Next Experience UI is turned on when you upgrade.
 
 ## Existing customer upgrading instance with UI customization
 
@@ -40,8 +40,8 @@ If you're an existing customer who has made any of the following modifications t
 You can use the following tools and APIs with your implementation partner to help adjust your customizations to work well with the new Next Experience theme:
 
 -   Scriptable PolarisUI API
--   [[next-exp-client-script-globals|Next Experience client scripting globals]]
--   Jelly [[c_Tags|tags]]
+-   [Next Experience client scripting globals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-exp-client-script-globals.md)
+-   Jelly tags
 
 ## Existing customer who upgraded previously
 
@@ -73,10 +73,10 @@ These features and products are not currently supported with Next Experience:
 -   The JavaScript console log isn't supported in the Next Experience framework.
 -   ATF doesn't support these elements of Next Experience, but support for these features is planned for future releases:
 
-    -   Pages built with UI Builder, including pages with [[lists-configurable-workspace|lists]] and form components.
+    -   Pages built with UI Builder, including pages with lists and form components.
     -   Configurable Workspaces
     -   Landing pages
-    **Note:** ATF still supports the [[c_UI16|Core UI]], including Classic Environment \(such as classic lists and [[form-configurable-workspace|forms]]\).
+    **Note:** ATF still supports the Core UI, including Classic Environment \(such as classic lists and forms\).
 
 
 For more information, see:
@@ -85,7 +85,7 @@ For more information, see:
 -   [KB1123615 – Moving from Connect Chat to Sidebar](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1123615)
 -   [KB1157068 – Live Feed Is Not Supported in Next Experience](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1157068)
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
 ## Enable Next Experience
 
@@ -97,7 +97,7 @@ Role required: admin
 
 ### About this task
 
-As an administrator, you can enable Next Experience for all users on your Australia instance, or let users enable or disable unified navigation for themselves. After Next Experience is enabled at the instance level, users can choose to enable or disable it for their own session from the user menu. For more information, see [[configure-next-experience-user-experience|Configure Next Experience user experience preferences]].
+As an administrator, you can enable Next Experience for all users on your Australia instance, or let users enable or disable unified navigation for themselves. After Next Experience is enabled at the instance level, users can choose to enable or disable it for their own session from the user menu. For more information, see [Configure Next Experience user experience preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-next-experience-user-experience.md).
 
 If you're a new customer running the Australia release, Next Experience is enabled by default. If you're upgrading, see the information at [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md) before you enable Next Experience.
 
@@ -129,13 +129,4 @@ If you're a new customer running the Australia release, Next Experience is enabl
 
     3.  Reload your instance.
 
-## Related
 
-- [[next-exp-client-script-globals|Next Experience client-side scripting global variables]]
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[configure-next-experience-user-experience|Configure Next Experience user experience preferences]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[c_Tags|Tags]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_UI16|Core UI]]
-- [[form-configurable-workspace|Forms]]

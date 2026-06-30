@@ -14,19 +14,19 @@ breadcrumb: [Tag-based discovery configuration, Advanced Service Mapping configu
 
 # Add or edit CI relationships in tag-based discovery
 
-Activate pre-configured CI relationships that [[c_ServiceMappingOverview|Service Mapping]] does not include by default or add additional relationships to use in the tag-based [[r-discovery|discovery]] process. For example, you can add a CI relationship between Linux servers and storage devices to discover servers hosting storage devices based on tags.
+Activate pre-configured CI relationships that Service Mapping does not include by default or add additional relationships to use in the tag-based discovery process. For example, you can add a CI relationship between Linux servers and storage devices to discover servers hosting storage devices based on tags.
 
 ## Before you begin
 
 Learn about default feature configuration in [Tag-based discovery in Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping.md).
 
-**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based [[sm-dashboard|Service Mapping workspace]] to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
+**Note:** Starting with Service Mapping Plus version 1.16.3, take advantage of the Tag-based Service Mapping workspace to efficiently map you application services. For more information, see [Tag-based mapping in the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-based-mapping-dashboard.md) and [Tag-based discovery for the Service Mapping Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag-discovery-service-mapping-workspace.md).
 
 Role required: service\_mapping\_admin
 
 ## About this task
 
-The Application Services \[svc\_traversal\_rules\] table appears filtered to show only CI relationships used for tag-based discovery. By default, preconfigured CI relationships used in tag-based discovery have the **true** value in the **Base System Rule** column. Use this information to create new CI relationships or to edit [[ci_relationships_tag_mapping|preconfigured CI relationships in tag-based discovery]].
+The Application Services \[svc\_traversal\_rules\] table appears filtered to show only CI relationships used for tag-based discovery. By default, preconfigured CI relationships used in tag-based discovery have the **true** value in the **Base System Rule** column. Use this information to create new CI relationships or to edit preconfigured CI relationships in tag-based discovery.
 
 **Important:** You cannot delete or modify preconfigured CI relationships used for tag-based discovery from the Traversal Rules for Application Services \[svc\_traversal\_rules\] table.
 
@@ -53,9 +53,3 @@ If you refine the default configuration after creating appliations based on tags
 
 **Parent Topic:**[Tag-based discovery configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/tag_discovery_configuration.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[sm-dashboard|Service Mapping Workspace]]
-- [[ci_relationships_tag_mapping|Preconfigured CI relationships in tag-based discovery]]

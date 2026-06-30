@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vr-config-compliance-landing|Configuration Compliance]]** &gt; **Supporting Data** &gt; **Authoritative Sources**.
+1.  Navigate to **All** &gt; **Configuration Compliance** &gt; **Supporting Data** &gt; **Authoritative Sources**.
 
 2.  Click the **Short description** of the authoritative source you want to view.
 
@@ -46,6 +46,4 @@ Role required:
 
     Removes the record from your instance. If it is still in use in your third-party integration, it returns in the next import
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

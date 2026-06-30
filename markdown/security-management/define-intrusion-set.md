@@ -20,7 +20,7 @@ Role required: sn\_ti.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **[[ioc-repository|IoC Repository]]** &gt; **Intrustion Set**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **IoC Repository** &gt; **Intrustion Set**.
 
 2.  Click **New**.
 
@@ -104,7 +104,7 @@ Alternative names to identify this intrusion set.
 
 </td><td>
 
-The high-level goals of this intrusion set, namely, what are they trying to do. For example, they may be motivated by personal gain, but their goal is to steal credit card numbers. To do this, they may execute specific [[threat-intelligence-campaigns|campaigns]] that have detailed objectives like compromising point of sale systems at a large retailer.
+The high-level goals of this intrusion set, namely, what are they trying to do. For example, they may be motivated by personal gain, but their goal is to steal credit card numbers. To do this, they may execute specific campaigns that have detailed objectives like compromising point of sale systems at a large retailer.
 
 </td></tr><tr><td id="d77861e177">
 
@@ -148,11 +148,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Show [[stix-relationships|Relationships]]
+Show Relationships
 
 </td><td>
 
-Opens the [[stix-visualizer|STIX Visualizer]] where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
+Opens the STIX Visualizer where you can view the relationship of the STIX object.Show Relationships appears only when the object has an associated object.
 
 </td></tr><tr><td>
 
@@ -172,7 +172,7 @@ Lists any secondary motivations why this intrusion set wants to achieve.
 
 </td></tr><tr><td>
 
-[[attack-patterns|Attack Patterns]]
+Attack Patterns
 
 </td><td>
 
@@ -188,7 +188,7 @@ Lists campaigns associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-identities|Identities]]
+Identities
 
 </td><td>
 
@@ -196,15 +196,15 @@ List of identities associated with this object.
 
 </td></tr><tr><td>
 
-[[indicator|Indicators]]
+Indicators
 
 </td><td>
 
-Lists related [[c_IoCs|Indicators of Compromise]] \(IoC\) that have been identified by the threat source associated with this object.
+Lists related Indicators of Compromise \(IoC\) that have been identified by the threat source associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-locations|Locations]]
+Locations
 
 </td><td>
 
@@ -212,7 +212,7 @@ Lists locations that provide geographic context to this object.
 
 </td></tr><tr><td>
 
-[[threat-intelligence-malware|Malware]]
+Malware
 
 </td><td>
 
@@ -220,7 +220,7 @@ Lists malicious code associated with this object.
 
 </td></tr><tr><td>
 
-[[threat-actors|Threat Actors]]
+Threat Actors
 
 </td><td>
 
@@ -228,7 +228,7 @@ Lists individuals, groups, or organizations who act with malicious intent associ
 
 </td></tr><tr><td>
 
-[[tools|Tools]]
+Tools
 
 </td><td>
 
@@ -236,29 +236,12 @@ Lists legitimate software that is used by threat actors to perform attacks assoc
 
 </td></tr><tr><td>
 
-[[vulnerabilities|Vulnerabilities]]
+Vulnerabilities
 
 </td><td>
 
 Lists a weakness or defect in a software or hardware that attackers exploit which is associated with this object.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[threat-intelligence-intrusion-sets|Intrusion set]]
+</table>**Parent Topic:**[Intrusion set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-intrusion-sets.md)
 
-## Related
-
-- [[threat-intelligence-intrusion-sets|Intrusion set]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[ioc-repository|IoC Repository]]
-- [[threat-intelligence-campaigns|Campaigns]]
-- [[stix-relationships|Relationships]]
-- [[stix-visualizer|STIX Visualizer]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intelligence-identities|Identities]]
-- [[indicator|Indicators]]
-- [[c_IoCs|Indicators of compromise]]
-- [[threat-intelligence-locations|Locations]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-actors|Threat actors]]
-- [[tools|Tools]]
-- [[vulnerabilities|Vulnerabilities]]

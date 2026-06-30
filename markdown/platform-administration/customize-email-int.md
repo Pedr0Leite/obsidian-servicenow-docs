@@ -183,8 +183,5 @@ Define the roles that have write access to this property.
     4.  Select **Update**.
 
 
-**Parent Topic:**[[email-address-internationalization|Email address internationalization]]
+**Parent Topic:**[Email address internationalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-address-internationalization.md)
 
-## Related
-
-- [[email-address-internationalization|Email address internationalization]]

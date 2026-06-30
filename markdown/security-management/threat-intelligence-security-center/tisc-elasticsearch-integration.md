@@ -14,7 +14,7 @@ breadcrumb: [Get started with Sighting Search Configurations, Configure Sighting
 
 # Configure and enable Elasticsearch integration
 
-Elasticsearch is a distributed, RESTful search and analytics engine that easily integrates with [[security-operations-landing-page|Security Operations]].
+Elasticsearch is a distributed, RESTful search and analytics engine that easily integrates with Security Operations.
 
 ## Before you begin
 
@@ -24,14 +24,14 @@ Role required: sn\_sec\_tisc.admin
 
 **Important:**
 
--   The [[tisc-landing-page|Threat Intelligence Security Center]] plugin must be installed and activated before you can use the Elasticsearch integration.
+-   The Threat Intelligence Security Center plugin must be installed and activated before you can use the Elasticsearch integration.
 -   Obtain the Elasticsearch API Base URL, Kibana Base URL, Username, and Password under your Elasticsearch profile.
 
 ## Procedure
 
 1.  Using your instance, access **Threat Intelligence Security Center**.
 
-2.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+2.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 3.  When the installation is complete, navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
@@ -41,7 +41,7 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** The configured integrations appear as a series of cards.
 
-6.  In the **Elasticsearch** card, select **[[tisc-config-new-enrich|Configure New Enrichment]]** to configure **Elasticsearch** integration.
+6.  In the **Elasticsearch** card, select **Configure New Enrichment** to configure **Elasticsearch** integration.
 
 7.  Fill in the fields on the Configure New Enrichment form.
 
@@ -49,7 +49,7 @@ Role required: sn\_sec\_tisc.admin
     |-----|-----------|
     |Name|Enter a name for the sighting search configuration.|
     |Vendor Name|Name of the vendor. The details of the selected vendor is populated by default. For example, Elasticsearch.|
-    |Integration Type|Type of integration that you selected. For example, [[tisc-threat-lookup|Threat Lookup]].|
+    |Integration Type|Type of integration that you selected. For example, Threat Lookup.|
     |Description|Enter the description for the Elasticsearch integration. For example, The Elasticsearch enrichment integration aids in the investigation of an observable by supporting the querying of logs in your Elasticsearch deployment.|
     |**Integration Configuration**|
     |Elasticsearch API Base URL|The base URL you acquired from the Elasticsearch site.|
@@ -60,7 +60,7 @@ Role required: sn\_sec\_tisc.admin
     |Date range field|The timestamp of the configuration.|
     |Max Rows|The maximum number of rows you want to search.|
     |Earliest Result \(days\)|The earliest results you want to see in number of days.|
-    |Include raw data samples in search results|Select this to include samples of raw data in your [[indicator-sightings|sightings]] search results. The amount of data returned depends on your setting in the number of rows of raw data property in [Security Incident Response properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md).|
+    |Include raw data samples in search results|Select this to include samples of raw data in your sightings search results. The amount of data returned depends on your setting in the number of rows of raw data property in [Security Incident Response properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/installed-with-sir.md).|
     |MID Server|Select Any to use any active MID Server, or select a specific MID Server name.|
 
     **Note:** Configuring this integration activates workflows. To manage the workflows, navigate to the Workflow Editor.
@@ -74,16 +74,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Result
 
-After it is configured, Elasticsearch can be selected for performing sighting search on [[c_Observables|observables]] in Threat Intelligence Security Center.
+After it is configured, Elasticsearch can be selected for performing sighting search on observables in Threat Intelligence Security Center.
 
 **Parent Topic:**[Get started with Sighting Search Configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-get-sighting-configs.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

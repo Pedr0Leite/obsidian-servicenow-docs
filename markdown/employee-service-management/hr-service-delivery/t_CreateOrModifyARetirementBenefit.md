@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Enroll in the company retirement plan
 
-As an employee, you can submit a question about, or enroll in the company retirement plan from the [[employee-center-landing-page|Employee Center]].
+As an employee, you can submit a question about, or enroll in the company retirement plan from the Employee Center.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Alternatively, a manager can submit a tuition reimbursement request by opening a
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

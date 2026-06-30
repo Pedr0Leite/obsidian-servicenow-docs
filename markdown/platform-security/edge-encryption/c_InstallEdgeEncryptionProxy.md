@@ -14,7 +14,7 @@ breadcrumb: [Edge Encryption, Encryption]
 
 # Installing Edge Encryption
 
-You can install an [[edge-encryption|Edge Encryption]] proxy manually or using the Edge Encryption interactive installer.
+You can install an Edge Encryption proxy manually or using the Edge Encryption interactive installer.
 
 ## Java requirements
 
@@ -27,12 +27,12 @@ The host machine installing or running the Edge Encryption proxy server must mai
 Installing Edge Encryption includes these steps.
 
 -   Install the Edge Encryption proxy application on a server in your network using the interactive installer or the manual installer.
--   Generate the RSA key pair for digitally signing [[encryption-landing|encryption]] configurations and encryption rules.
+-   Generate the RSA key pair for digitally signing encryption configurations and encryption rules.
 -   Install the Java Cryptography Extension \(JCE\), if you plan to use AES 256 encryption.
 -   If you are using a secure SSL connection, obtain a server certificate and import it to the Java KeyStore.
 -   Set up your keystore and encryption key.
 -   If order preserving encryption types or encryption patterns are to be used, set up a MySQL database on a machine in your network.
--   Set the desired properties. Properties are located in the `edgeencryption.properties` [[sc-configuration|configuration]] file.
+-   Set the desired properties. Properties are located in the `edgeencryption.properties` configuration file.
 -   Specify that a proxy server is a trusted source so that Edge Encryption can process requests coming from that proxy server.
 
 ## Accessing the proxy server
@@ -55,7 +55,7 @@ The Edge Encryption plugin \(com.glide.edgeencryption\) is available as a separa
 -   **[Set up an Edge Encryption user account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetupEdgeEncryptionUser.md)**  
 The Edge Encryption proxies connect to the instance as a user to obtain and update encryption configuration information. Create a user account for this purpose and give the edge\_encryption role to the user.
 -   **[Download the Edge Encryption proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_DownloadtheProxy.md)**  
-[[t_DownloadtheProxy|Download the Edge Encryption proxy server]] application from your instance, and then copy the file to each computer that is to run the Edge Encryption proxy server.
+Download the Edge Encryption proxy server application from your instance, and then copy the file to each computer that is to run the Edge Encryption proxy server.
 -   **[Install the Edge Encryption proxy server using the interactive installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/proxy-installer.md)**  
 Install the Edge Encryption proxy server on a Windows or Linux computer using the interactive installer.
 -   **[Install the Edge Encryption proxy server using the command line installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/manual-proxy-install.md)**  
@@ -69,7 +69,7 @@ You can uninstall the Edge Encryption proxy. If you are upgrading the proxy, it 
 -   **[Uninstall the Edge Encryption proxy on Windows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_UninstalltheProxyonWindows.md)**  
 You can uninstall the Edge Encryption proxy. If you are upgrading the proxy, it is not necessary to shut down and uninstall the current version.
 -   **[Set up multiple provider SSO with Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/SSO-edge.md)**  
-Set up multiple provider SSO to enable logging in through the Edge Encryption proxy server URL or the instance URL. If you are implementing multiple provider single sign-on \(SSO\) with Edge Encryption enabled, some [[users|users]] might need to log in to your instance through the Edge Encryption proxy server, while other users might not.
+Set up multiple provider SSO to enable logging in through the Edge Encryption proxy server URL or the instance URL. If you are implementing multiple provider single sign-on \(SSO\) with Edge Encryption enabled, some users might need to log in to your instance through the Edge Encryption proxy server, while other users might not.
 -   **[Edge Encryption proxy server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)**  
 The `edgeencryption.properties` configuration file located in the `<installation directory>/conf/` folder contains properties used to configure your environment.
 -   **[CyberArk integration with the Edge proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/cyberark-integration-edge-proxy.md)**  
@@ -79,10 +79,3 @@ You can use a load balancer to balance the load across the proxy servers in your
 
 **Parent Topic:**[Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[t_DownloadtheProxy|Download the Edge Encryption proxy server]]
-- [[users|Users]]

@@ -16,7 +16,7 @@ breadcrumb: [Manage work orders, Prepare work orders, Use, Field Service Managem
 
 Work orders must be qualified to ensure that work order tasks are created and assigned. The qualifying process can be automatic or manual.
 
-Depending on how the [[t_ConfigureFieldService|Qualification is required for new requests]] option is set in the [[fsm-application-landing-page|Field Service Management]] configuration, the qualifying process is manual or automatic.
+Depending on how the [Qualification is required for new requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ConfigureFieldService.md) option is set in the Field Service Management configuration, the qualifying process is manual or automatic.
 
 -   **Manual qualification**
 
@@ -26,7 +26,7 @@ Depending on how the [[t_ConfigureFieldService|Qualification is required for new
 
     In the Awaiting Qualification state, all the work order tasks must be qualified by a user with the appropriate role.
 
-    Qualifiers, who are users with the wm\_qualifier role, select the dispatch group, add work order tasks, and define [[c_PartRequirements|part requirements]]. Qualifiers can also edit the affected CI, short description, and description for work orders.
+    Qualifiers, who are users with the wm\_qualifier role, select the dispatch group, add work order tasks, and define part requirements. Qualifiers can also edit the affected CI, short description, and description for work orders.
 
     After all the tasks are qualified, the work order is moved to the Qualified state.
 
@@ -48,12 +48,6 @@ The following table describes the properties that control whether the choice-lis
 |SM Config setting|**use\_location**|Master toggle in the local Service Management configuration that controls whether location/proximity is used in agent recommendations|
 |Property|**autodispatch.geolocation**|Enables geolocation-based distance calculations for auto-dispatch|
 |Property|**travel.calculation.auto\_assignment**|Controls map provider for manual/auto assignment \(defaults to Google Maps API\)|
-|Property|**travel.calculation.dynamic\_scheduling**|Controls map provider for [[dynamic-scheduling|dynamic scheduling]] \(defaults to straight-line estimate\)|
+|Property|**travel.calculation.dynamic\_scheduling**|Controls map provider for dynamic scheduling \(defaults to straight-line estimate\)|
 |Property|**work.spacing**|Task spacing in hours, affects travel time calculations between tasks|
 
-## Related
-
-- [[t_ConfigureFieldService|Global domain configurations]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_PartRequirements|Part requirements]]
-- [[dynamic-scheduling|Dynamic scheduling]]

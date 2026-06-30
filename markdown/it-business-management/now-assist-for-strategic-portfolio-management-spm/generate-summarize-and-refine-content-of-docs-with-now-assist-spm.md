@@ -25,7 +25,7 @@ Role required: sn\_align\_core.ap\_read\_only, sn\_align\_core.pf\_read, sn\_apw
 
 You can interact with Now Assist directly in your Doc to create new content, add context, or improve existing sections. This helps you draft faster, refine ideas, and keep your work relevant without leaving the page.
 
-The Generate and Improve Content feature is available in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace, and [[project-workspace-landing-page|Project Workspace]].
+The Generate and Improve Content feature is available in Strategic Planning Workspace, Portfolio Planning Workspace, and Project Workspace.
 
 This task will be explained using Project Workspace as the example.
 
@@ -114,8 +114,3 @@ Whether the content in the Doc is added manually or generated using Now Assist, 
 
 **Parent Topic:**[Using Now Assist for Strategic Portfolio Management \(SPM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/now-assist-for-strategic-portfolio-management-spm/using-now-assist-for-spm.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[project-workspace-landing-page|Project Workspace]]

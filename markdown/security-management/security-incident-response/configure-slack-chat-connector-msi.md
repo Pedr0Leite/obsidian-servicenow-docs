@@ -14,7 +14,7 @@ breadcrumb: [Configure, Major Security Incident Management, Security Incident Re
 
 # Configure Slack chat connector for major security incidents
 
-[[integrating-threat-intelligence-security-center|Integrate]] and collaborate with Slack to resolve Major Security Incident to view and filter collaboration chat activities.
+Integrate and collaborate with Slack to resolve Major Security Incident to view and filter collaboration chat activities.
 
 Configuring and subscribing to a Slack chat environment, retrieving chat conversations from within specified channels, and archiving the Slack and associated channels are included as part of the incident closure process. A designated Slack environment and related Slack API configuration is required to create individual channels that are specific to a Major Security Incident.
 
@@ -32,7 +32,7 @@ Configure Chat Teams and Channel Templates to create chat teams and channels to 
 -   **[Activate Slack as a channel provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/activate-slack-channel-provider.md)**  
 Activate Slack by validating the Slack connection.
 -   **[View chat message activities in Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-chat-message-activities-slack.md)**  
-Chat message activity is recorded and displayed on the Collaboration tab of the [[msim-workspace|Major Security Incident Management workspace]].
+Chat message activity is recorded and displayed on the Collaboration tab of the Major Security Incident Management workspace.
 
 **Parent Topic:**[Configuring Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-major-security-incident-management.md)
 
@@ -43,7 +43,3 @@ Chat message activity is recorded and displayed on the Collaboration tab of the 
 
 [Configure Microsoft Teams]()
 
-## Related
-
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[msim-workspace|Major Security Incident Management workspace]]

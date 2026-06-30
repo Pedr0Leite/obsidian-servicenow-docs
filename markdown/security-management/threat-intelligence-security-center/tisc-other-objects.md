@@ -16,9 +16,9 @@ breadcrumb: [TISC Library Repository, Threat Intelligence Security Center Librar
 
 Define and manage data classifications within TISC.
 
-[[data-sources|Data Sources]] represent broad categories of security telemetry. Data Components provide a more granular breakdown of the specific type of data collected within a source.
+Data Sources represent broad categories of security telemetry. Data Components provide a more granular breakdown of the specific type of data collected within a source.
 
-These records support consistent documentation of detection coverage and analytical context. You can associate data sources and components with relevant [[tisc-threat-entities|threat entities]] to identify required telemetry, assess monitoring gaps, and support detection engineering and threat analysis activities.
+These records support consistent documentation of detection coverage and analytical context. You can associate data sources and components with relevant threat entities to identify required telemetry, assess monitoring gaps, and support detection engineering and threat analysis activities.
 
 -   **[Data Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/data-component.md)**  
 Data components are used to identify specific properties or values of a data source.
@@ -50,7 +50,3 @@ Data sources represent the various subjects/topics of information that can be co
 
 [Vulnerability relationship mapping]()
 
-## Related
-
-- [[data-sources|Data Sources]]
-- [[tisc-threat-entities|Threat Entities]]

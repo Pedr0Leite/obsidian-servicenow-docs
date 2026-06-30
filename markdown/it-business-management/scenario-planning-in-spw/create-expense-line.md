@@ -28,7 +28,7 @@ For unplanned expense lines which are not associated to any cost plan, system au
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -75,7 +75,7 @@ Select **New expense line** using the More actions option.\[Omitted image "fin-n
 **Note:** Use this option to record and calculate any unplanned expenses.
 
 </td></tr></tbody>
-</table>5.  On the [[create-exp-line-form-pp|Create expense line form]], fill the fields.
+</table>5.  On the Create expense line form, fill the fields.
 
     For a description of the field names, see [Create expense line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/create-exp-line-form-spw.md).
 
@@ -89,7 +89,4 @@ Select **New expense line** using the More actions option.\[Omitted image "fin-n
 
 9.  Update the expense values as needed and select **Save**.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-exp-line-form-pp|Create expense line form]]

@@ -39,8 +39,8 @@ Role required: sn\_si.analyst
 
 ## Result
 
--   The **[[tisc-threat-lookup|Threat lookup]] results** tab provides the threat assessment, including malicious findings, threat scores, and additional details. These details are provided in the standard threat lookup format structure for all ServiceNow threat lookup integrations.
--   The **[[c_IoCs|Indicators of compromise]]** tab provides the malicious or suspicious sandbox results with the Confidence scores. The Confidence scores are similar to other Indicator information that is stored in the ServiceNow platform. [[indicator|Indicators]] that are classified as informational are not included in this tab.
+-   The **Threat lookup results** tab provides the threat assessment, including malicious findings, threat scores, and additional details. These details are provided in the standard threat lookup format structure for all ServiceNow threat lookup integrations.
+-   The **Indicators of compromise** tab provides the malicious or suspicious sandbox results with the Confidence scores. The Confidence scores are similar to other Indicator information that is stored in the ServiceNow platform. Indicators that are classified as informational are not included in this tab.
 -   The external link provides you with a view the Sandbox results in the CrowdStrike Falcon X Sandbox portal.
 
     **Note:** This option requires that you have the CrowdStrike Falcon X Sandbox role to view the results.
@@ -48,8 +48,3 @@ Role required: sn\_si.analyst
 
 You can also monitor the sandbox submission results for all security incidents by navigating to **CrowdStrike Falcon Sandbox** &gt; **Sandbox Submission Results**.
 
-## Related
-
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[c_IoCs|Indicators of compromise]]
-- [[indicator|Indicators]]

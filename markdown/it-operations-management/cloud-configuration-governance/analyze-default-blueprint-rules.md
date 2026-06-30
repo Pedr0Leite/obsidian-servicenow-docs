@@ -14,7 +14,7 @@ breadcrumb: [Cloud catalog form configuration examples, Form configuration with 
 
 # Populate the location based on the cloud account
 
-This example walks you through an existing set of blueprint rules that [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] provides by default.
+This example walks you through an existing set of blueprint rules that Cloud Provisioning and Governance provides by default.
 
 ## Before you begin
 
@@ -98,19 +98,14 @@ This blueprint, which includes a virtual server that can be provisioned in an AW
 
         \[Omitted image "assoc-datacenters-list.png"\] Alt text: Getting the associated datacenters list
 
-        The list of datacenters that are already associated with [[cloud-accounts|cloud accounts]] appears.
+        The list of datacenters that are already associated with cloud accounts appears.
 
         \[Omitted image "list-of-associated-datacenters.png"\] Alt text: List of associated datacenters
 
-        Notice that the **My Cloud Account** cloud account is already associated with **AWS Datacenter - us-east-1**, which is the value that the user sees in the Location field. The system knew to display that value because of the association in this Associated Datacenter table. The system created this association when your Cloud Provisioning and Governance administrator created the cloud account for AWS, and then ran [[r-discovery|discovery]] on the us-east-1 datacenter in that cloud account.
+        Notice that the **My Cloud Account** cloud account is already associated with **AWS Datacenter - us-east-1**, which is the value that the user sees in the Location field. The system knew to display that value because of the association in this Associated Datacenter table. The system created this association when your Cloud Provisioning and Governance administrator created the cloud account for AWS, and then ran discovery on the us-east-1 datacenter in that cloud account.
 
         It is possible that multiple datacenters could be associated with **My Cloud Account**. In that case, the Location field reloads all the associated datacenters and in the Location field. Since the Location field is of type Select, the field allows the user to select which location to choose.
 
 
 **Parent Topic:**[Cloud catalog form configuration examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/example-blueprint-rules.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]

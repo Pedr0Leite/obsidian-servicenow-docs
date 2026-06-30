@@ -22,12 +22,9 @@ When photo search is configured on your instance, a photo icon \(\[Omitted image
 
 ## Google Firebase account
 
-To take advantage of image recognition in your mobile applications, you need a Firebase account with the Google Vision API enabled. Google Firebase and the Google Vision API are third-party services that must be subscribed to separately. Once you have a Firebase account, you can connect that account to your ServiceNow instance by entering your Firebase App ID and Web API key. For details on this process see [[sg-configure-image-search|Configure photo search]].
+To take advantage of image recognition in your mobile applications, you need a Firebase account with the Google Vision API enabled. Google Firebase and the Google Vision API are third-party services that must be subscribed to separately. Once you have a Firebase account, you can connect that account to your ServiceNow instance by entering your Firebase App ID and Web API key. For details on this process see [Configure photo search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md).
 
 ## Third-party data usage
 
 Images you take using the photo search feature are sent to Google for identification using Google Vision API. ServiceNow does not have control of the image once it has been sent. For details on how Google Vision API handles your image, see [https://cloud.google.com/vision/docs/data-usage](https://cloud.google.com/vision/docs/data-usage).
 
-## Related
-
-- [[sg-configure-image-search|Configure photo search]]

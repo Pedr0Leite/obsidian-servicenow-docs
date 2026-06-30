@@ -22,9 +22,9 @@ Role required: sn\_spend\_psd.psd\_admin, sn\_shop.procurement\_administrator
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **[[shoppinghub-configurations|ShoppingHub Configuration]]**.
+1.  Navigate to **All** &gt; **ShoppingHub** &gt; **Administration** &gt; **ShoppingHub Configuration**.
 
-2.  Select purchase modification type, for example, **Cancel [[purchase-order-table|purchase order]]** to modify the details.
+2.  Select purchase modification type, for example, **Cancel purchase order** to modify the details.
 
 3.  On the form, fill in the fields.
 
@@ -33,7 +33,7 @@ Role required: sn\_spend\_psd.psd\_admin, sn\_shop.procurement\_administrator
     |Name|Name of the configuration|
     |Configuration type|Select the type from the available list. For example, user interface|
     |Active|Check box to determine the active status of this configuration|
-    |Page|Page information for [[shopping-hub-overview|Shopping Hub]] configuration|
+    |Page|Page information for Shopping Hub configuration|
     |Section|Section information for Shopping Hub configuration, for example, User actions|
     |Object|Details of the object name, for example, Purchase order|
     |Purchase modification type|Details of the modification, for example, Cancel|
@@ -61,8 +61,3 @@ You may add additional configurations to suit your business requirements.
 
 **Parent Topic:**[ShoppingHub configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shoppinghub-configurations.md)
 
-## Related
-
-- [[shoppinghub-configurations|ShoppingHub configuration]]
-- [[purchase-order-table|Purchase order]]
-- [[shopping-hub-overview|Shopping Hub]]

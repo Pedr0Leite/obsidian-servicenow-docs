@@ -70,8 +70,8 @@ Related Input tables
 </td><td>
 
 -   MITRE Techniques
--   Related [[c_Observables|Observables]]
--   Related [[indicator|Indicators]]
+-   Related Observables
+-   Related Indicators
 -   Related Objects
 -   Affected Assets
 -   Affected Services
@@ -79,8 +79,3 @@ Related Input tables
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

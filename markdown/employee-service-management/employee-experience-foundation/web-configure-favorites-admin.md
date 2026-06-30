@@ -137,7 +137,7 @@ Navigational settings for the favorite icon. Select the following options: -   *
 
 ## Result
 
-The favorites appears on the [[employee-center-landing-page|Employee Center]] and MESP portal.
+The favorites appears on the Employee Center and MESP portal.
 
 Here's a sample illustration of how the configuration looks on the **Favorites** and the message when a favorites is not available for your access.
 
@@ -145,6 +145,3 @@ Here's a sample illustration of how the configuration looks on the **Favorites**
 
 For more information on how Favorites appear, see [Manage favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/web-configure-favorites-employee.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

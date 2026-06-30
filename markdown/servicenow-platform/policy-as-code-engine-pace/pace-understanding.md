@@ -28,13 +28,13 @@ PaCE provides the following capabilities:
 
 PaCE can be used to:
 
--   Identify posture drifts from a [[c_DesiredState|desired state]] in the current application.
+-   Identify posture drifts from a desired state in the current application.
 -   Make decisions \(compliant or non-compliant\) based on a change in the application or service and enforce the decision to prevent a drift.
 -   Automate execution of policies and eliminate dependency on humans.
 -   Standardize policies so that they can be shared and reused within a service and across services.
 -   Increase change velocity while including guardrails with automated workflows to provide preventive controls.
 -   Collect evidence and proof of compliance for audit purposes. This feature can be used by internal auditors to automate the process of collecting evidence for governance and risk requirements.
--   Provide business context to PaCE policies by using control objectives to [[c_Connect|connect]] PaCE with the Integrated Risk Management and Policy and Compliance Management workspace.
+-   Provide business context to PaCE policies by using control objectives to connect PaCE with the Integrated Risk Management and Policy and Compliance Management workspace.
 
 PaCE enables policy developers to view and understand an existing policy, make and assess changes, and decide if a policy can be used as a baseline for another policy. They can also use PaCE before debugging to understand how the policy should work and why it is not working as expected.
 
@@ -49,7 +49,3 @@ Policies are also containers for all the elements that make up a policy. These e
 
 You can define any number of policies within PaCE.
 
-## Related
-
-- [[c_DesiredState|Desired State]]
-- [[c_Connect|Connect]]

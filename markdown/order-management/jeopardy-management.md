@@ -16,13 +16,13 @@ Jeopardy Management is a risk assessment tool that monitors fulfillment tasks, a
 
 ## Overview of Jeopardy Management
 
-Jeopardy Management consists of multiple components in the [[explore-order-management|Order Management]] application that work together to monitor and report on task completion time in a fulfillment plan.
+Jeopardy Management consists of multiple components in the Order Management application that work together to monitor and report on task completion time in a fulfillment plan.
 
 If a task is taking longer than expected, the system assesses the percentage of delay and assigns a risk level.
 
 In Order Management, some customer orders are expected to be fulfilled in a committed time frame. The time commitment may be part of a contract that the customer and customer service provider \(CSP\) have signed to ensure delivery and assurance of products and services. To fulfill an order in the target date and time, a CSP depends on order management systems to monitor the fulfillment progress. Jeopardy Management proactively identities any delays and shares alerts, which can be addressed by fulfillment managers.
 
-Jeopardy Management provides proactive risk management for the [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] process through the following steps:
+Jeopardy Management provides proactive risk management for the order fulfillment process through the following steps:
 
 1.  Monitor order fulfillment progress.
 2.  Predict jeopardy and risk for domain orders and order tasks.
@@ -42,7 +42,7 @@ Jeopardy Management uses the following components to monitor and manage risk in 
     -   Define and launch SLA for order tasks.
     -   Monitor fulfillment progress and closure of domain orders and order tasks.
 -   **Predict jeopardy and risk**
-    -   Leverage planned task date [[fields|fields]] and date roll-up logic to produce timelines for order task fulfillment progression.
+    -   Leverage planned task date fields and date roll-up logic to produce timelines for order task fulfillment progression.
     -   Monitor the progress of each order task and produce jeopardy information.
     -   Roll up jeopardy date changes for all order entities.
 -   **Share jeopardy information**
@@ -80,13 +80,6 @@ Jeopardy Management assesses all tasks in a workflow and adjusts the risk level 
 
 For information on configuring and using Jeopardy Management, see:
 
--   [[configuring-jeopardy-management|Configuring Jeopardy Management]]
--   [[monitoring-jeopardy-management|Monitoring order jeopardy]]
+-   [Configuring Jeopardy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-jeopardy-management.md)
+-   [Monitoring order jeopardy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/monitoring-jeopardy-management.md)
 
-## Related
-
-- [[configuring-jeopardy-management|Configuring Jeopardy Management]]
-- [[monitoring-jeopardy-management|Monitoring order jeopardy]]
-- [[explore-order-management|Order management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[fields|Fields]]

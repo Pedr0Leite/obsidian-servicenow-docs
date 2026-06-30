@@ -14,7 +14,7 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # AWS tag discovery with Patterns
 
-The ServiceNow [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] applications can use patterns to discover the tags for AWS resources and configuration item \(CI\) types, and then populate the CMDB with these discoveries. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery and Service Mapping applications can use patterns to discover the tags for AWS resources and configuration item \(CI\) types, and then populate the CMDB with these discoveries. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 This tag-specific discovery pattern is in addition to the other AWS patterns available on the ServiceNow Store.This pattern extends the ones used for discovering the respective AWS resources.
 
@@ -191,7 +191,3 @@ Similar EVALS are available for patterns where the main identification section d
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure skills with custom prompts for knowledge article template
 
 # Guidelines for creating prompts
 
-The guidelines help to write prompts for Out-of-Box \(OOB\) and custom [[knowledge-article-templates|knowledge article templates]]. Follow these instructions to create ideal prompts that optimize the use of AI models for generating knowledge articles.
+The guidelines help to write prompts for Out-of-Box \(OOB\) and custom knowledge article templates. Follow these instructions to create ideal prompts that optimize the use of AI models for generating knowledge articles.
 
 ## Create prompts for a how-to article template for a case
 
@@ -78,7 +78,7 @@ List each step required to resolve the issue, and ensure that each step is writt
 Attempted troubleshooting steps are included.
 Steps should be in a numbered list with each step describing a single action.
 Add a new line character at the end of each step to display individual steps in separate lines in the final output.
-Derive information from comments, [[c_WorkNotes|work notes]], or resolution notes of the case, after verifying all relevant steps.
+Derive information from comments, work notes, or resolution notes of the case, after verifying all relevant steps.
 If no resolution is provided in the case, enter "N/A".
 **Title:**
 Provide a concise and formal title that accurately describes the issue. Derive the title from the short description of the incident
@@ -123,7 +123,7 @@ Summarize problems from all child articles
 **Severity:**
 determine severity from all child articles
 **Steps to Resolve:**
-It should contain the detailed list of steps that customers can take to resolve the problem on their own. It should include all the steps and their details from the Steps to Resolve section of the child articles. Make sure to include all the relevant notes, code, scripts, [[reference-document-management|references]], additional information, URLs and any other entities that are needed for resolving the issue. For each separate problem, provide a title of the problem in a new line but do not include any generic words like "Issue", "Problem" or "Steps to Resolve" and do not add markdown format while generating the title for steps to resolve section and then the list of steps to resolve that problem. Make each step a numbered list item (starting with 1., 2., etc.). Then add a new line character at the end of each list item and 2 new line characters at the end of the last list item of each problem such that they appear in a new line in the final output with proper titles. Make sure to use full sentences for each step.
+It should contain the detailed list of steps that customers can take to resolve the problem on their own. It should include all the steps and their details from the Steps to Resolve section of the child articles. Make sure to include all the relevant notes, code, scripts, references, additional information, URLs and any other entities that are needed for resolving the issue. For each separate problem, provide a title of the problem in a new line but do not include any generic words like "Issue", "Problem" or "Steps to Resolve" and do not add markdown format while generating the title for steps to resolve section and then the list of steps to resolve that problem. Make each step a numbered list item (starting with 1., 2., etc.). Then add a new line character at the end of each list item and 2 new line characters at the end of the last list item of each problem such that they appear in a new line in the final output with proper titles. Make sure to use full sentences for each step.
 **Title:**
 It should only contain a short description of the problem in formal language and only be a few words. It should be generic enough to capture the topics of the issues present in all the child articles.
 For each section, if you are not absolutely sure, generate "Not enough information available for this section.".
@@ -150,8 +150,3 @@ Generate a JSON response in the following format:
 
 **Parent Topic:**[Configure skills with custom prompts for knowledge article templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-in-knowledge-management/Now-assist-configure-custom-prompts-for-templates.md)
 
-## Related
-
-- [[knowledge-article-templates|Knowledge article templates]]
-- [[c_WorkNotes|Work notes]]
-- [[reference-document-management|References]]

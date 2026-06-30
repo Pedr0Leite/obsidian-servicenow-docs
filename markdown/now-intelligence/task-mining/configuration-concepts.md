@@ -18,7 +18,7 @@ Categorization rules organize and add context to your data by grouping similar w
 
 ## Purpose of categorization
 
-[[task-mining|Task Mining]] categorization determines how information displays in analyses and provides several benefits.
+Task Mining categorization determines how information displays in analyses and provides several benefits.
 
 -   Grouping apps into categories makes dashboards more easily readable and enables you to distinguish between different types of activities.
 -   Displaying only categorized apps avoids cluttering the analysis with unwanted information.
@@ -75,6 +75,3 @@ Organizing your activities with categories and application names adds context to
 
 [Refine the presentation of your data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/preview-data-based-on-categorization-rules.md)
 
-## Related
-
-- [[task-mining|Task Mining]]

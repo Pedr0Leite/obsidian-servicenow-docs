@@ -14,7 +14,7 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
 # Reporting critical events
 
-[[report-an-emergency|Report a critical event as an agent]] or an employee, and [[employee-self-reporting-emergency|self-report your status]] as an employee.
+Report a critical event as an agent or an employee, and self-report your status as an employee.
 
 -   [Report a critical event as an agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/report-an-emergency.md)
 
@@ -28,7 +28,4 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
     Self-report as an employee during an emergency and inform about your safety status.
 
-## Related
 
-- [[report-an-emergency|Report a critical event as an agent]]
-- [[employee-self-reporting-emergency|Self-report your status]]

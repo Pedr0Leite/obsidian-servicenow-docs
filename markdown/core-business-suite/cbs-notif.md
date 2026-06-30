@@ -41,8 +41,5 @@ You can view the request details along with a **View request** or **View case** 
 
 For more information on email notifications, see [Email Notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/tisc-email-notifications.md).
 
-**Parent Topic:**[[cbs-using-parent|Using Core Business Suite]]
+**Parent Topic:**[Using Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
 
-## Related
-
-- [[cbs-using-parent|Using Core Business Suite]]

@@ -21,7 +21,7 @@ Using the catalog builder, you can create the record producer for mapping the **
 You can use the following capabilities:
 
 -   Configure the sourcing checkout when initiating a sourcing event.
--   Enable the sourcing checkout flow by [[supplier|Supplier]] Product, Product model, Product Category.
+-   Enable the sourcing checkout flow by Supplier Product, Product model, Product Category.
 -   Provide better visibility into the procurement processes and checkout experience.
 
 You can use the default or add a new sourcing checkout and customize the questions in an existing sourcing checkout based on your sourcing and procurement policies.
@@ -42,6 +42,3 @@ As an administrator, you can configure the sourcing checkout to collect informat
 
 [Complete sourcing checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-sourcing-checkout.md)
 
-## Related
-
-- [[supplier|Supplier]]

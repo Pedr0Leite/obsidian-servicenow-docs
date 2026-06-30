@@ -32,7 +32,7 @@ Use the ServiceNow® Now Assist for Sourcing and Procurement Operations \(SPO\) 
 
 </td></tr><tr><td>
 
-[Use [[psm-overview|Sourcing and Procurement Operations]] AI agent collection\[Omitted image "bus-explore.svg"\] Alt text:Use agentic workflows in Now Assist for SPO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agentic-ai-now-assist-spo.md)
+[Use Sourcing and Procurement Operations AI agent collection\[Omitted image "bus-explore.svg"\] Alt text:Use agentic workflows in Now Assist for SPO](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agentic-ai-now-assist-spo.md)
 
 </td><td>
 
@@ -70,6 +70,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]

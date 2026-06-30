@@ -12,7 +12,7 @@ breadcrumb: [Explore, Pre-Visit Management, Healthcare and Life Sciences Service
 
 # Pre-Visit Management - Workflow scenario
 
-Use the [[pre-visit-mgmt-app|Pre-Visit Management]] application for streamlining pre-visit activities for a procedure request including patient to-dos, approvals, pre-authorization, and scheduling.
+Use the Pre-Visit Management application for streamlining pre-visit activities for a procedure request including patient to-dos, approvals, pre-authorization, and scheduling.
 
 **Important:**
 
@@ -55,6 +55,3 @@ The following workflow elaborates how various users use the Pre-Visit Management
 13. Three days before the procedure, the Pre-Visit Management workflow automatically assigns a to-do item to the patient to review and sign the procedure consent and sends an email notification to the patient.
 14. Patient logs in to the patient portal and reviews and submits the procedure consent online.
 
-## Related
-
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

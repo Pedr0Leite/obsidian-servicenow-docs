@@ -14,7 +14,7 @@ breadcrumb: [Normalizing enterprise models, Managing enterprise models and asset
 
 # Create custom enterprise model type
 
-If you have an enterprise model type that isn't represented in the [[enterprise-asset-management|Enterprise Asset Management]] Content Service yet, you can create a custom model type.
+If you have an enterprise model type that isn't represented in the Enterprise Asset Management Content Service yet, you can create a custom model type.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Normalization**.
+1.  Navigate to **All** &gt; **Enterprise Asset Workspace** &gt; **Normalization**.
 
 2.  Select the **Custom enterprise model type** tab.
 
@@ -41,7 +41,4 @@ Role required: sn\_eam.enterprise\_admin
 
     After the model type is created, normalize the model type.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

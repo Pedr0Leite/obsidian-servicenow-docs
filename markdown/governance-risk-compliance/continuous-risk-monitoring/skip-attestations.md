@@ -22,7 +22,7 @@ To skip the attestation stage for all controls in a package, select **Skip attes
 
 This option is editable when the package is in the Prepare, Categorize, or Select step. After controls are created in the Implement step, the configuration becomes read-only.
 
-When enabled, the following changes apply to all controls generated from this package: The **Attest** button isn't available in any view: form view, [[list-view-uib-ws|list view]], related list view, hierarchical grid view, and classic view.
+When enabled, the following changes apply to all controls generated from this package: The **Attest** button isn't available in any view: form view, list view, related list view, hierarchical grid view, and classic view.
 
 -   Controls move directly from Draft to Review instead of passing through the attestation stage.
 -   The **Review** button is available in the controls list view in the CAM workspace. The **Review** button appears only when Skip attestations is enabled for the package and at least one control is in Draft state. When selected, the system reads each control's package configuration and moves only eligible controls to Review; controls from packages where Skip attestations is not enabled are skipped.
@@ -31,7 +31,7 @@ When enabled, the following changes apply to all controls generated from this pa
     -   Attestations related list on the control record
     -   Attestation widgets on the control overview page
     -   Attestations related list on the control requirement record
-    -   Attestation section in the [[cam-cr-control-form|control requirement details view]]
+    -   Attestation section in the control requirement details view
 
 This configuration applies only to controls generated from packages where Skip attestations is enabled. Controls from other packages, including other CAM packages where this option is not selected, continue to follow the standard attestation workflow and are not affected by this setting. Standard compliance controls on instances without CAM are also unaffected.
 
@@ -56,7 +56,3 @@ The following parent-child syncing rules apply when status changes:
 -   When a control requirement is set to Non-Compliant, the parent control's status is automatically updated to Non-Compliant.
 -   When a control is set to Compliant, control requirements with an empty status are automatically updated to Compliant.
 
-## Related
-
-- [[list-view-uib-ws|List view]]
-- [[cam-cr-control-form|Control Requirement Details View]]

@@ -14,7 +14,7 @@ breadcrumb: [Guided Tour Designer use case, Use Guided Tours, Guided Tours, Adop
 
 # Create a guided tour to illustrate vacation delegation
 
-Use [[guided-tours-designer|Guided Tour Designer]] to create a guided tour for assigning a vacation delegate.
+Use Guided Tour Designer to create a guided tour for assigning a vacation delegate.
 
 ## Before you begin
 
@@ -40,7 +40,7 @@ Here’s an example of using Guided Tour Designer to create a tour that explains
 
     A guided tour is created.
 
-6.  In the [[guided-tours|Guided Tours]] form view, to open the Guided Tour Designer select **Edit with Designer**.
+6.  In the Guided Tours form view, to open the Guided Tour Designer select **Edit with Designer**.
 
 7.  Add the following steps to the guided tour:
 
@@ -206,7 +206,7 @@ No trigger is required.
 </table>
 ## Result
 
-The guided tour is created and listed in the [[help-center|Help Center]].
+The guided tour is created and listed in the Help Center.
 
 Users can access a guided tour by navigating to a page that has one. For more information, see [Start a guided tour](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/accessing-guided-tours.md).
 
@@ -219,8 +219,3 @@ Users can access a guided tour by navigating to a page that has one. For more in
 
 [Edit Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/edit-guided-tour.md)
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[guided-tours|Guided Tours]]
-- [[help-center|Help Center]]

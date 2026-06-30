@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Relationship and Performance Management, Use, Suppli
 
 # Create action plan for KPIs
 
-Create action plans linked to under-performing KPIs, enabling visual tracking of [[milestones|milestones]] and tasks. The tasks triggered by the action plans are assigned to the suppliers and they can see and complete those tasks in the [[supplier-central|Supplier Collaboration Portal]].
+Create action plans linked to under-performing KPIs, enabling visual tracking of milestones and tasks. The tasks triggered by the action plans are assigned to the suppliers and they can see and complete those tasks in the Supplier Collaboration Portal.
 
 \[Omitted video\] Description: Create action plan for KPIs.
 
@@ -24,11 +24,11 @@ Role required: sn\_kpi.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Under **Quick actions**, select **Manage my suppliers**.
 
-3.  Under **My suppliers**, select the legal name of the [[supplier|supplier]].
+3.  Under **My suppliers**, select the legal name of the supplier.
 
 4.  Select the **KPI management** tab.
 
@@ -167,7 +167,7 @@ Detailed description of the action plan
 
     Internal users can add comments through the **Work notes** and the progress of the action plan can be tracked in the **Activity** stream section.
 
-    \[Omitted image "slo-action-plan-activity.png"\] Alt text: Action plan with the [[activity-stream|Activity stream]] and work notes
+    \[Omitted image "slo-action-plan-activity.png"\] Alt text: Action plan with the Activity stream and work notes
 
 
 ## Result
@@ -205,11 +205,3 @@ Create supplier tasks for the affected KPIs in the action plan.
 
 **Parent Topic:**[Using Supplier Relationship and Performance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/using-supplier-relationship-and-performance-management.md)
 
-## Related
-
-- [[milestones|Milestones]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[activity-stream|Activity stream]]

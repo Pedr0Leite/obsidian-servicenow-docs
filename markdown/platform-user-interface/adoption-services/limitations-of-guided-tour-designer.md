@@ -14,20 +14,20 @@ breadcrumb: [Explore Guided Tours, Guided Tours, Adoption services, Configure us
 
 # Limitations of GTD
 
-Learn about the limitation of the [[guided-tours-designer|Guided Tour Designer]].
+Learn about the limitation of the Guided Tour Designer.
 
 The GTD does not currently support the following areas.
 
--   **Standard [[form-configurable-workspace|Forms]] and [[lists-configurable-workspace|Lists]] UI**
+-   **Standard Forms and Lists UI**
     -   Flow Designer
     -   Agent Workspace
     -   Pop-up windows
-    -   Connect Chat and [[embedded-help|Embedded Help]] on the GTD sliding panel
+    -   Connect Chat and Embedded Help on the GTD sliding panel
     -   Select2 elements
     -   SVG elements
-    -   Custom [[c_Tags|Tags]]
+    -   Custom Tags
     -   Standard UI pages that have custom UI elements, such as Contextual search.
--   **[[c_ServicePortal|Service Portal]]**
+-   **Service Portal**
     -   Service Portal pages that contain IFRAMES
     -   The Service Portal Branding Editor, which also contains IFRAMES
     -   Select2 elements
@@ -37,7 +37,7 @@ The GTD does not currently support the following areas.
 
         For example: sn-search-combobox - AI search box, sn-search-results-container - AI search results, ci-chat-components.
 
-    -   Tours when loaded in the [[next-experience-landing-page|Next Experience UI]].
+    -   Tours when loaded in the Next Experience UI.
 -   **Workspace**
     -   Only the following app shell experiences are supported:
         -   Breadcrumb App shell
@@ -49,7 +49,7 @@ The GTD does not currently support the following areas.
     -   Not recommended to create tours on Workspaces in UI16
     -   Variants
     -   Callouts inside iframes in a workspace
-    -   [[guided-tours|Guided Tours]] that start in a standard UI or workspace and go to a service portal
+    -   Guided Tours that start in a standard UI or workspace and go to a service portal
     -   Guided Tours are only supported within a page, if a link opens in a new tab the tour does not continue
 
         **Note:** Admins must add the right action for the callout on elements that can open in a new tab.
@@ -60,13 +60,3 @@ The GTD does not currently support the following areas.
     -   Elements that are loaded in DOM by scrolling the page effect Guided Tours. The admin must inform the user to scroll further when the form is present.
     -   If there is no click action on the elements that are selectable while creating the tour, place the callout on the parent element.
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[form-configurable-workspace|Forms]]
-- [[lists-configurable-workspace|Lists]]
-- [[embedded-help|Embedded Help]]
-- [[c_Tags|Tags]]
-- [[c_ServicePortal|Service Portal]]
-- [[next-experience-landing-page|Next Experience UI]]
-- [[guided-tours|Guided Tours]]

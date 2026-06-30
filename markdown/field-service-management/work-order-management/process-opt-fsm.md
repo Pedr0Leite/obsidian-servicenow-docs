@@ -14,7 +14,7 @@ breadcrumb: [Work order tasks, Set up work orders and tasks, Configure, Field Se
 
 # Process Mining for Field Service Management
 
-Integrating the Process Mining application with the [[fsm-application-landing-page|Field Service Management]] application enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with work order tasks.
+Integrating the Process Mining application with the Field Service Management application enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with work order tasks.
 
 Process Mining for FSM creates business process flows from the work order task data in audit trails, allowing process owners to perform in-depth analysis and discover process insights to improve business outcomes.
 
@@ -30,7 +30,7 @@ The **Work order tasks** process model definition includes default activity defi
 
 ## Continual Improvement Management initiative for work order tasks
 
-You can use the CIM project from the Analyst Workbench to track the progress of improvement initiatives for work order tasks. The [[field-service-performance-analytics|Field Service Platform Analytics dashboard]] displays the daily and weekly progress of work orders and work order tasks for your assignment groups. The improvement initiative and Process Mining model are automatically linked. For more information, see [Integration with Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/integrate-with-continuous-i.md).
+You can use the CIM project from the Analyst Workbench to track the progress of improvement initiatives for work order tasks. The Field Service Platform Analytics dashboard displays the daily and weekly progress of work orders and work order tasks for your assignment groups. The improvement initiative and Process Mining model are automatically linked. For more information, see [Integration with Continual Improvement Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/integrate-with-continuous-i.md).
 
 ## Performance Analytics for work order tasks
 
@@ -41,7 +41,3 @@ Enables you to monitor work order task indicators, such as the number of agents 
 
 [Content pack for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/example-po-fsm.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[field-service-performance-analytics|Field Service Platform Analytics dashboard]]

@@ -29,9 +29,5 @@ After installing the Contracts and Entitlement Workflows plugin \(com.sn\_contra
 |------|-----------|
 |Customer Contracts and Entitlements \(com.sn\_pss\_core\)|Provides foundational objects to manage customer contracts and entitlements.|
 |Lead to Cash Core \(com.snc.l2c\_core\)|Enables customers to compose​ Sales CRM flows.|
-|Customer Life Cycle Management Workflows \(com.snc.l2c\_cust\_flows\)|Provides workflows to manage the life cycles of [[sold-product|sold products]] and [[install-base-item|install base items]].|
+|Customer Life Cycle Management Workflows \(com.snc.l2c\_cust\_flows\)|Provides workflows to manage the life cycles of sold products and install base items.|
 
-## Related
-
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]

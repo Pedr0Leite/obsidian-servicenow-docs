@@ -14,17 +14,17 @@ breadcrumb: [Now Assist Data Kit, Enable AI experiences]
 
 # Exploring Now Assist Data Kit
 
-The [[now-assist-data-kit-landing|Now Assist Data Kit]] plugin for [[platform-now-assist-landing|Now Assist]] enables you to add [[ai-datasets|datasets]] to a data catalog and create collections for use in ServiceNow SDK.
+The Now Assist Data Kit plugin for Now Assist enables you to add datasets to a data catalog and create collections for use in ServiceNow SDK.
 
 ## Now Assist Data Kit overview
 
-If the base system [[now-assist-skills|Now Assist skills]] don't fit your needs, you can use Now Assist Data Kit to create custom datasets and data collections that can be used in [[now-assist-skill-kit-landing|Now Assist Skill Kit]] for evaluation.
+If the base system Now Assist skills don't fit your needs, you can use Now Assist Data Kit to create custom datasets and data collections that can be used in Now Assist Skill Kit for evaluation.
 
 ## Now Assist Data Kit users
 
 |User|Description|
 |----|-----------|
-|AI practitioner|AI practitioners manage data set creation in Now Assist Data Kit. They develop and evaluate skills and other technical solutions for various use [[cases|cases]].|
+|AI practitioner|AI practitioners manage data set creation in Now Assist Data Kit. They develop and evaluate skills and other technical solutions for various use cases.|
 |Analyst|Analysts confirm data quality for AI development and evaluation. They work with AI practitioners to follow data curation guidelines set for specific AI use cases.|
 
 ## Now Assist Data Kit workflow
@@ -33,7 +33,7 @@ The following diagram shows the user journey for Now Assist Data Kit.
 
 \[Omitted image "na-data-kit-infographic.png"\] Alt text: Now Assist Data kit workflow
 
-1.  [[create-new-skill|Create a skill]] in Now Assist Skill Kit
+1.  Create a skill in Now Assist Skill Kit
 2.  Create an evaluation dataset in Now Assist Data Kit
 3.  Add table data to the catalog as a dataset
 4.  Create a data collection
@@ -53,18 +53,8 @@ The following diagram shows the user journey for Now Assist Data Kit.
 
 ## What to explore next
 
-To learn more about configuring and [[using-now-assist-skill-kit|using Now Assist Skill Kit]], see:
+To learn more about configuring and using Now Assist Skill Kit, see:
 
 -   [Configuring Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/configuring-now-assist-skill-kit.md)
 -   [Using Now Assist Skill Kit](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skill-kit/using-now-assist-skill-kit.md)
 
-## Related
-
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-skills|Now Assist skills]]
-- [[now-assist-skill-kit-landing|Now Assist Skill Kit]]
-- [[cases|Cases]]
-- [[create-new-skill|Create a skill]]
-- [[using-now-assist-skill-kit|Using Now Assist Skill Kit]]

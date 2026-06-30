@@ -14,7 +14,7 @@ breadcrumb: [Set up a profile for scheduled notable event ingestion, Create an e
 
 # Preview security incident
 
-After you complete the [[mapping-logrhythm|mapping]] step, preview the values that you mapped in a ServiceNow AI Platform® [[sir-landing-page|Security Incident Response]] \(SIR\) security incident. This preview step permits you to verify that you have mapped all the notable fields that you want displayed on the security incident.
+After you complete the mapping step, preview the values that you mapped in a ServiceNow AI Platform® Security Incident Response \(SIR\) security incident. This preview step permits you to verify that you have mapped all the notable fields that you want displayed on the security incident.
 
 ## Before you begin
 
@@ -56,7 +56,7 @@ Preview a security incident and edit the mapping again as required to fix fields
 
     \[Omitted image "previewsplunk\_es\_worknote\_security.png"\] Alt text: Work note and Description fields on the security incident preview
 
-    **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or [[identity|identity]] records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
+    **Note:** The Profile Preview section displays related items for **Unmatched Affected User** and **Unmatched Configuration Item** when matching CMDB or identity records are not found. After ingestion, Security Incident records show **Unmatched CI** in the **Configuration Items** related list and **Unmatched Affected Users** in a dedicated related list, ensuring complete visibility of affected entities throughout the incident life-cycle.
 
 9.  After you have fixed any errors and verified that the fields are the way you want them, choose one option to continue.
 
@@ -114,8 +114,3 @@ Delete this event profile and the Splunk Event Profiles list is displayed.
 
 If no error messages are displayed, and you are satisfied with the field mapping on the security incident, the next step is to [Schedule and retrieve alerts for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-schedule.md).
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[sir-landing-page|Security Incident Response]]
-- [[identity|Identity]]

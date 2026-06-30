@@ -14,7 +14,7 @@ breadcrumb: [Configuring Strategic Planning with PPM, Agile 2.0, and SAFe, Confi
 
 # Configure bulk import
 
-This system property enables you to update the bulk import functionality in [[executing-work-from-apw-in-ppm-agile2-0-or-safe|Strategic Planning with PPM, Agile 2.0, and SAFe]].
+This system property enables you to update the bulk import functionality in Strategic Planning with PPM, Agile 2.0, and SAFe.
 
 ## Before you begin
 
@@ -33,10 +33,6 @@ Role required: sn\_align\_core.apw\_admin
     |**Upsert**|Enables update and inserting of new work items.|
     |**Insert**|Enables inserting new work items only. This is the default value.|
 
-    When the records are imported from PPM, [[agile-landing-page|Agile Development 2.0]], or SAFe to [[alignment-planner-workspace-landing-page|Strategic Planning]] , only the last comment will be imported.
+    When the records are imported from PPM, Agile Development 2.0, or SAFe to Strategic Planning , only the last comment will be imported.
 
-## Related
 
-- [[executing-work-from-apw-in-ppm-agile2-0-or-safe|Strategic Planning with PPM, Agile 2.0, and SAFe]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

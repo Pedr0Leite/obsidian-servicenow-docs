@@ -19,7 +19,7 @@ Specify an alternate port for the VMware - vCenter datacenters probe.
 
 ## Before you begin
 
-Role required: [[r-discovery|Discovery]] admin or VMware admin responsible for vCenter and ESXi hosts
+Role required: Discovery admin or VMware admin responsible for vCenter and ESXi hosts
 
 ## About this task
 
@@ -64,7 +64,7 @@ When these ports are detected, the VMWare - vCenter datacenters probe is trigger
 
     **Important:** This configuration is only required when vCenter is on port 443.
 
-    1.  Navigate to **All** &gt; **Discovery Definition** &gt; **[[r_PortProbes|Port Probes]]**.
+    1.  Navigate to **All** &gt; **Discovery Definition** &gt; **Port Probes**.
 
     2.  Open the http port probe record.
 
@@ -76,7 +76,4 @@ When these ports are detected, the VMWare - vCenter datacenters probe is trigger
 
         The VMWare - vCenter Classify probe establishes a connection between the MID Server and the vCenter instance. If the connection is successful, it triggers the VMWare - vCenter datacenters probe.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]

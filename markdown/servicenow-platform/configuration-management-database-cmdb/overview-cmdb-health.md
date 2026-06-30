@@ -14,7 +14,7 @@ breadcrumb: [Explore, CMDB Health, Configuration Management Database \(CMDB\), C
 
 # Overview of CMDB Health
 
-Learn about the benefits, configuration, and usage of the [[c_CMDBHealth|CMDB Health]] feature.
+Learn about the benefits, configuration, and usage of the CMDB Health feature.
 
 The health of the CMDB data is monitored and reported for the following KPIs, each further consisting of sub-metrics:
 
@@ -24,7 +24,7 @@ The health of the CMDB data is monitored and reported for the following KPIs, ea
 
 -   **Correctness**
 
-    CIs are tested against predefined data integrity rules such as [[c_IdentificationRules|identification rules]] \(to detect duplicate CIs\), orphan CI rules, and stale CI rules.
+    CIs are tested against predefined data integrity rules such as identification rules \(to detect duplicate CIs\), orphan CI rules, and stale CI rules.
 
 -   **Compliance**
 
@@ -55,7 +55,7 @@ Use
 
 </th></tr></thead><tbody><tr><td>
 
-CMDB Health Dashboard1.  Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**.
+CMDB Health Dashboard1.  Navigate to **Workspaces** &gt; **Service Graph Workspace**.
 2.  On the navigation panel, select the Insights icon.
 3.  In the Insights navigation panel, select **CMDB Health**.
 
@@ -81,7 +81,7 @@ Main CMDB Health Dashboard with the following views:**Class View**
 
 **Health Group View**
 
--   Shows health reports for [[cmdb-groups|CMDB groups]] of type **Health**.
+-   Shows health reports for CMDB groups of type **Health**.
 -   Detailed health for CIs in the group, with aggregations for KPIs, metrics, and health groups.
 
 In either dashboard view you can select **CMDB Health settings** to manage the CMDB Health Dashboard jobs and configure other CMDB Health settings. For more information, see [Configuring CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthSetupandConfig.md).
@@ -98,7 +98,7 @@ Shows various charts for relationships health, such as duplicate, orphan, and st
 
 </td></tr><tr><td>
 
-CI health report -   On a CI form outside of CMDB Workspaceand Service Graph Workspace, select **Open in Workspace** to [[t_ViewCIHealth|view CI health]].
+CI health report -   On a CI form outside of CMDB Workspaceand Service Graph Workspace, select **Open in Workspace** to view CI health.
 -   In CMDB Workspace, select a CI in a list view to open the CI's form. For example, on the CMDB Health Dashboard, drill down a KPI tile and then select a CI in the tile's list view.
 
 </td><td>
@@ -110,7 +110,7 @@ On a CI form, the CI Health tile contains widgets that show CIs health reports. 
 
 To start gathering and aggregating health data, you must enable the CMDB Health-related jobs \(CMDB Health Dashboard jobs\) which are initially disabled. You also need to configure CMDB Health related system properties and health KPIs and metric test rules, to reflect health standards in your organization.
 
-For details about setting up and [[c_CMDBHealthSetupandConfig|configuring CMDB Health]], see [Configuring CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthSetupandConfig.md).
+For details about setting up and configuring CMDB Health, see [Configuring CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthSetupandConfig.md).
 
 <table id="table_jhf_14q_fbc"><thead><tr><th>
 
@@ -122,7 +122,7 @@ Configuration
 
 </th></tr></thead><tbody><tr><td>
 
-[CI Class Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-class-manager-landing-page.md)**Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**
+[CI Class Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ci-class-manager-landing-page.md)**Configuration** &gt; **CI Class Manager**
 
 </td><td>
 
@@ -140,7 +140,7 @@ CMDB Health PreferencesNavigate to **Configuration** &gt; **Health Preferences**
 
 </td><td>
 
-Central location for configuring CMDB Health settings:-   Configure [[r_CMDBHealthProperties|CMDB Health system properties]].
+Central location for configuring CMDB Health settings:-   Configure CMDB Health system properties.
 -   Enable and manage the CMDB Health Dashboard jobs.
 -   Activate or deactivate KPIs and metrics.
 -   Set the maximum failure threshold for the KPIs and metrics.
@@ -153,20 +153,9 @@ CMDB Health provides a framework for configuring [CI remediation](https://raw.gi
 
 ## Domain separation
 
-CMDB Health is domain aware. If the [[domain-separation-relationship-formatter-editor|domain separation]] plugin has been activated, then the CMDB Health Dashboard shows health based on data, rules, and settings from the logged-on user domain. If rules and settings aren't defined for a child domain, then the parent's settings are applied, recursively.
+CMDB Health is domain aware. If the domain separation plugin has been activated, then the CMDB Health Dashboard shows health based on data, rules, and settings from the logged-on user domain. If rules and settings aren't defined for a child domain, then the parent's settings are applied, recursively.
 
 For more information, see [Domain separation in CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-domain-separation.md).
 
 **Parent Topic:**[Exploring CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-cmdb-health-parent.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[c_IdentificationRules|Identification rules]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[cmdb-groups|CMDB groups]]
-- [[t_ViewCIHealth|View CI health]]
-- [[c_CMDBHealthSetupandConfig|Configuring CMDB Health]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[r_CMDBHealthProperties|CMDB Health system properties]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

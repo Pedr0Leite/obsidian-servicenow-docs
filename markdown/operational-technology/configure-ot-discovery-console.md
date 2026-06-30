@@ -18,7 +18,7 @@ This section is an overview of the steps for installing the Discovery Console fo
 
 ## Workflow
 
-In your instance, navigate to the [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]] page and select Get Started. In the top section, select the Download &amp; Deploy OT Discovery link. The Download &amp; Deploy OT Discovery page opens. Select **Configure** and the Downloads page opens. Download the OT component packages.
+In your instance, navigate to the Service Graph Connector for ServiceNow OT Discovery Guided Setup page and select Get Started. In the top section, select the Download &amp; Deploy OT Discovery link. The Download &amp; Deploy OT Discovery page opens. Select **Configure** and the Downloads page opens. Download the OT component packages.
 
 Review the steps in the installation process listed in the Installation Workflow table.
 
@@ -89,11 +89,11 @@ For closed network systems, you can download and install containerized packages 
 
 </td></tr><tr><td>
 
-[[install-discovery-console-ot|Install the Discovery Console for OT]]
+Install the Discovery Console for OT
 
 </td><td>
 
-Install the Discovery Console for OT before you [[install-discovery-sensor-for-ot|install the Discovery Sensor for OT]].
+Install the Discovery Console for OT before you install the Discovery Sensor for OT.
 
 </td></tr><tr><td>
 
@@ -151,7 +151,7 @@ EULA Agreement
 Next, the EULA appears on the screen. Accept the EULA by checking the box next to **Agree**.
 
 </td></tr></tbody>
-</table>**Note:** Once installation is complete, and you log onto the Console, you may choose to use the interactive configuration wizard. Included with many beginning steps, the wizard guides you to upload your Console license. For more on the wizard, see [[console-onboarding-wizard|Use the Discovery Console for OT interactive configuration wizard]].
+</table>**Note:** Once installation is complete, and you log onto the Console, you may choose to use the interactive configuration wizard. Included with many beginning steps, the wizard guides you to upload your Console license. For more on the wizard, see [Use the Discovery Console for OT interactive configuration wizard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/console-onboarding-wizard.md).
 
 ## What to do next
 
@@ -159,15 +159,7 @@ To complete installation and configuration of the Discovery Console for OT, cont
 
 1.  See  for initially logging onto the Console.
 2.  Review the  sections. The requirement section includes information about the Console license.
-3.  [[install-linux-os|Install a Linux operating system]].
+3.  [Install a Linux operating system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/install-linux-os.md).
 4.  .
-5.  [[generate-new-certificate-discovery-for-ot|Generate a certificate]].
+5.  [Generate a certificate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/generate-new-certificate-discovery-for-ot.md).
 
-## Related
-
-- [[console-onboarding-wizard|Use the Discovery Console for OT interactive configuration wizard]]
-- [[install-linux-os|Install a Linux operating system]]
-- [[generate-new-certificate-discovery-for-ot|Generate a certificate]]
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]
-- [[install-discovery-console-ot|Install the Discovery Console for OT]]
-- [[install-discovery-sensor-for-ot|Install the Discovery Sensor for OT]]

@@ -14,10 +14,10 @@ breadcrumb: [Source-to-Pay integration with Coupa, Integration with third-party 
 
 # Use Source-to-Pay integration with Coupa
 
-Use the [[source-to-pay-coupa-integration|Source-to-Pay integration with Coupa]] to process employee information at ServiceNow.
+Use the Source-to-Pay integration with Coupa to process employee information at ServiceNow.
 
 -   **[Trigger a flow or subflow in Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/manually-trigger-subflows-coupa.md)**  
-Manually [[manually-trigger-subflows-coupa|trigger a flow or subflow in Coupa]].
+Manually trigger a flow or subflow in Coupa.
 -   **[View the execution status of a flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/view-executed-flow-status.md)**  
 View the status of a flow that has been triggered. If there were any errors during execution, you can view them under the processing message column.
 -   **[Use a flow or subflow in Coupa \(outbound\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/use-flow-or-subflow-coupa.md)**  
@@ -27,7 +27,3 @@ Create a copy of a flow or subflow, make the necessary modifications, and then a
 
 **Parent Topic:**[Source-to-Pay integration with Coupa](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/source-to-pay-coupa-integration.md)
 
-## Related
-
-- [[source-to-pay-coupa-integration|Source-to-Pay integration with Coupa]]
-- [[manually-trigger-subflows-coupa|Trigger a flow or subflow in Coupa]]

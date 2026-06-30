@@ -41,11 +41,11 @@ The **Secret Group Overview** tab displays information about your configured sec
 
 \[Omitted image "sm\_dash\_2.png"\] Alt text: Secrets management dashboard
 
-The **Secret Group Warnings** tab displays warnings related to your secret groups and [[identity-landing|identity]] groups.
+The **Secret Group Warnings** tab displays warnings related to your secret groups and identity groups.
 
 -   **Instance Accessible Secret Groups- Warnings**
 
-    This card displays warnings if there are secret groups with no active access [[ca-policies|policies]] in place. Select a secret group name to view that record.
+    This card displays warnings if there are secret groups with no active access policies in place. Select a secret group name to view that record.
 
 -   **Client Accessible Secret Groups- Warnings**
 
@@ -58,31 +58,18 @@ The **Secret Group Warnings** tab displays warnings related to your secret group
 
 **Note:** The Secrets Management Dashboard is a part of Secrets Management Enterprise. Secrets Management Enterprise is a Secrets Management Enterprise. Secrets Management ServiceNow's production instance.
 
--   **[[roles-sec-man|Secrets Management roles]]**  
+-   **[Secrets Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/roles-sec-man.md)**  
 Secrets Management adds these roles.
--   **[[create-sm-crypto-module|Create a secret group cryptographic module]]**  
-Create a secret group cryptographic module to perform [[encryption-landing|encryption]] and decryption.
--   **[[sm-create-basic-group|Create a basic secret group]]**  
+-   **[Create a secret group cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/create-sm-crypto-module.md)**  
+Create a secret group cryptographic module to perform encryption and decryption.
+-   **[Create a basic secret group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-create-basic-group.md)**  
 Create a basic secret group to group any secrets, regardless of their criteria.
--   **[[sm-create-criteria-group|Create a secret group with criteria]]**  
-[[client-access-example-3|Create a secret group with criteria]] to organize secrets entered in Password2 fields automatically when they share a common criteria, such as table, scope, or application.
--   **[[sm-upload-key|Upload a public key for Secrets Management]]**  
+-   **[Create a secret group with criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-create-criteria-group.md)**  
+Create a secret group with criteria to organize secrets entered in Password2 fields automatically when they share a common criteria, such as table, scope, or application.
+-   **[Upload a public key for Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-upload-key.md)**  
 Upload a public key to encrypt your secrets in Secrets Management.
--   **[[sm-security-jobs|Run Secrets Management security jobs]]**  
+-   **[Run Secrets Management security jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-security-jobs.md)**  
 Schedule a Secrets Management job to perform encryption tasks on secrets fields on your instance.
 
-**Parent Topic:**[[secrets-management|Secrets Management]]
+**Parent Topic:**[Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-management.md)
 
-## Related
-
-- [[roles-sec-man|Secrets Management roles]]
-- [[create-sm-crypto-module|Create a secret group cryptographic module]]
-- [[sm-create-basic-group|Create a basic secret group]]
-- [[sm-create-criteria-group|Create a secret group with criteria]]
-- [[sm-upload-key|Upload a public key for Secrets Management]]
-- [[sm-security-jobs|Run Secrets Management security jobs]]
-- [[secrets-management|Secrets Management]]
-- [[identity-landing|Identity]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[client-access-example-3|Create a secret group with criteria]]

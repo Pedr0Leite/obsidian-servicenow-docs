@@ -15,7 +15,7 @@ breadcrumb: [Explore, Now Assist for Legal Service Delivery \(LSD\), Legal Servi
 
 # Supporting information for Now Assist for Legal Service Delivery \(LSD\)
 
-Get a quick overview of the important information that is related to the [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for Legal Service Delivery \(LSD\) application.
 
 ## Application information
 
@@ -23,14 +23,14 @@ Activate the Now Assist for LSD store app \(sn\_lg\_gen\_ai\) to use the summari
 
 This store app has the following dependencies which will be installed automatically:
 
--   [[legal-request-management-landing-page|Legal Request Management]] \(sn\_lg\_ops\)
+-   Legal Request Management \(sn\_lg\_ops\)
 -   Now Assist for Platform \(sn\_genai\_platform\) - Version 7.x and above
 -   Now Assist Admin Console \(sn\_nowassist\_admin\)
 
 You need to install the following applications manually:
 
--   [[legal-counsel-center-landing|Legal Counsel Center]] \(sn\_lg\_cf\_workspace\) - Version 1.5.1 and above
--   [[legal-matter-management-landing-page|Legal Matter Management]] \(sn\_lg\_matter\) – Required for Legal Matter summarization
+-   Legal Counsel Center \(sn\_lg\_cf\_workspace\) - Version 1.5.1 and above
+-   Legal Matter Management \(sn\_lg\_matter\) – Required for Legal Matter summarization
 
 For more information, see [Configure Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-configuring.md).
 
@@ -63,7 +63,7 @@ Now Assist Q&amp;A Genius Results
 
 </td><td>
 
--   [[employee-center-landing-page|Employee Center]]
+-   Employee Center
 -   Global search
 
 </td></tr><tr><td>
@@ -77,10 +77,3 @@ Now Assist in Virtual Agent
 </td></tr></tbody>
 </table>**Parent Topic:**[Explore Now Assist for Legal Service Delivery \(LSD\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-legal-service-delivery/now-assist-lsd-exploring.md)
 
-## Related
-
-- [[now-assist-lsd-landing|Now Assist for Legal Service Delivery \(LSD\)]]
-- [[legal-request-management-landing-page|Legal Request Management]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[employee-center-landing-page|Employee Center]]

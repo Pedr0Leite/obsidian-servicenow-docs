@@ -17,7 +17,7 @@ Enable users to get support from AI voice agents by integrating a ServiceNow voi
 
 ## Before you begin
 
--   Create a voice assistant. See [[create-an-ai-voice-service|Create an AI voice assistant]] for more information.
+-   Create a voice assistant. See [Create an AI voice assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/create-an-ai-voice-service.md) for more information.
 -   Access to your Amazon Connect instance with permissions to create Lambda functions, configure contact flows, and manage Identity and Access Management \(IAM\) roles.
 
 Role required: sn\_aia.admin
@@ -32,7 +32,7 @@ Connect your Amazon Connect contact center to a ServiceNow voice assistant using
 
 2.  Find the voice assistant that you want to connect to Amazon Connect and select **Edit**.
 
-3.  Select **Communication channels** from the guided setup [[now-assist-global-navigation|navigation]].
+3.  Select **Communication channels** from the guided setup navigation.
 
 4.  In the **Provider application** field, select the provider application to deploy the voice assistant to.
 
@@ -72,7 +72,7 @@ Connect your Amazon Connect contact center to a ServiceNow voice assistant using
 
     2.  In the Lambda function code editor, replace the default handler code with the Lambda function code.
 
-        See [[voice-agent-reference|Amazon Connect Lambda function code]].
+        See [Amazon Connect Lambda function code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/voice-agent-reference.md).
 
     3.  Set the following environment variables on the Lambda function.
 
@@ -164,11 +164,5 @@ Amazon Connect is connected to your ServiceNow voice assistant. Incoming calls r
 
 Test the integration by placing a call through your Amazon Connect phone number and verifying that the voice assistant responds correctly. Review the CloudWatch logs for the Lambda function to troubleshoot any connection issues.
 
-**Parent Topic:**[[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
+**Parent Topic:**[Integrating voice assistant with CCaaS provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/integrating-voice-service-with-ccaas-providers.md)
 
-## Related
-
-- [[create-an-ai-voice-service|Create an AI voice assistant]]
-- [[voice-agent-reference|AI voice agent reference]]
-- [[integrating-voice-service-with-ccaas-providers|Integrating voice assistant with CCaaS provider]]
-- [[now-assist-global-navigation|Navigation]]

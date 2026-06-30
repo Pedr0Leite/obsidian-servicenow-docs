@@ -12,7 +12,7 @@ breadcrumb: [Opportunity Management, Lead and opportunity apps, Use, Sales Custo
 
 # Add a new opportunity team member
 
-[[create-new-opportunity|Create an opportunity]] team member for a structured collaboration among multiple users.
+Create an opportunity team member for a structured collaboration among multiple users.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: opportunity\_writer
 
 3.  Select **New** to add a new opportunity team member or select an existing opportunity team member to make changes.
 
-4.  Fill in the [[fields|fields]] in the Opportunity Team Member form.
+4.  Fill in the fields in the Opportunity Team Member form.
 
 <table id="table_orf_nx5_c1c"><thead><tr><th>
 
@@ -87,19 +87,12 @@ Enter work notes for reference.
     The Opportunity Team Member information is added to the main opportunity.
 
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]
-- [[create-new-opportunity|Create an opportunity]]
-- [[fields|Fields]]

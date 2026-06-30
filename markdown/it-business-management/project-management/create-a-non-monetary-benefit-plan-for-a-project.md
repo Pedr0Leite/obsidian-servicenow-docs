@@ -45,7 +45,7 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 ## What to do next
 
--   On the [[benefit-plan-form-project-management|Benefit Plan form]], view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
+-   On the Benefit Plan form, view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
 -   [Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/associate-monetary-and-non-monetary-benefit-plans-project.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the project for the hybrid benefit plans.
 
 -   **[Update a non-monetary benefit plan breakdown for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-a-non-monetary-benefit-plan-breakdown-for-a-project.md)**  
@@ -66,7 +66,7 @@ Update a non-monetary benefit plan breakdown record that specifies the estimated
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -102,7 +102,3 @@ Update a non-monetary benefit plan breakdown record that specifies the estimated
 
 [Update a non-monetary benefit plan breakdown for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-a-non-monetary-benefit-plan-breakdown-for-a-project.md)
 
-## Related
-
-- [[benefit-plan-form-project-management|Benefit Plan form]]
-- [[c_ResourcePlans|Resource plans]]

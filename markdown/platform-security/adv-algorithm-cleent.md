@@ -12,7 +12,7 @@ breadcrumb: [Using Field Encryption, Field Encryption, Encryption]
 
 # Configure advanced algorithms for Field Encryption Enterprise
 
-[[create-crypto-spec|Create a cryptographic specification]] to define the algorithm for a cryptographic module. Customize the [[encryption-landing|encryption]] specifications with advanced options that are available for [[now-platform-encryption|Field Encryption Enterprise]].
+Create a cryptographic specification to define the algorithm for a cryptographic module. Customize the encryption specifications with advanced options that are available for Field Encryption Enterprise.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience** tab, click **New**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** tab, click **New**.
 
 2.  Select **View module details** from the **Field Encryption overview** to open the module record you want to configure.
 
@@ -105,7 +105,7 @@ Option to provide Integrity in GCM operation and does not apply for Field Encryp
 
     The following example shows AES 256 CBC encryption. When Field Encryption Enterprise is active and the parent module is column\_level\_encryption, only Symmetric Data Encryption/Decryption AES 256 CBC applies as the crypto purpose. See [Cryptographic specification overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/cryptographic-purpose.md) for details.
 
-    \[Omitted image "fe-crypto-module-def.png"\] Alt text: Shows the AES 256 CBC encryption [[sc-configuration|configuration]] options.
+    \[Omitted image "fe-crypto-module-def.png"\] Alt text: Shows the AES 256 CBC encryption configuration options.
 
 
 ## What to do next
@@ -115,17 +115,8 @@ Perform one of the following operations:
 -   Select an entry in the Key Lifecycle table to define key lifecycle behavior. See [Configure key lifecycle states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-key-lifecycle-states.md) for details to complete the lifecycle definition for the key.
 -   Select **Next** to create a cryptographic key. See one of the following tasks for key generation:
     -   [Generate a ServiceNow cryptographic key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/generate_sn_key.md).
-    -   [[customer-supplied-keys|Configure properties for customer-supplied keys]].
+    -   [Configure properties for customer-supplied keys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/customer-supplied-keys.md).
     -   [Import the wrapping / unwrapping key pair](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/import-key-webservice-1.md).
 
-**Parent Topic:**[[using-column-level-encryption|Using Field Encryption]]
+**Parent Topic:**[Using Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/using-column-level-encryption.md)
 
-## Related
-
-- [[customer-supplied-keys|Configure properties for customer-supplied keys]]
-- [[using-column-level-encryption|Using Field Encryption]]
-- [[create-crypto-spec|Create a cryptographic specification]]
-- [[encryption-landing|Encryption]]
-- [[now-platform-encryption|Field Encryption Enterprise]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]

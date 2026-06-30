@@ -14,7 +14,7 @@ breadcrumb: [Integrated experience and service feedback, Setup continuous improv
 
 # Set up the feedback configuration
 
-Set up the feedback configuration for the experience and service feedback in the [[employee-center-landing-page|Employee Center]] portal. Configure a seamless channel of feedback communication that remains constant for your portal.
+Set up the feedback configuration for the experience and service feedback in the Employee Center portal. Configure a seamless channel of feedback communication that remains constant for your portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## About this task
 
-Set up the integrated service and experience feedback that is available with [[employee-center-pro-landing|Employee Center Pro]]. Get responses anywhere in your portal, via email or Virtual Agent, or through the Kiosk.
+Set up the integrated service and experience feedback that is available with Employee Center Pro. Get responses anywhere in your portal, via email or Virtual Agent, or through the Kiosk.
 
 The feedback configuration is generic for all feedback types and definitions.
 
@@ -32,7 +32,7 @@ The feedback configuration is generic for all feedback types and definitions.
 
 2.  Select **New** to create a feedback configuration.
 
-3.  On the [[ex-feedback-new-record|feedback configuration form]], fill in the fields.
+3.  On the feedback configuration form, fill in the fields.
 
     For a description of the field values, see [Feedback configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ex-feedback-new-record.md).
 
@@ -43,7 +43,7 @@ The feedback configuration is generic for all feedback types and definitions.
     -   **Employee center feedback configuration**
     -   **Feedback configuration for kiosk portal**
     -   **MESP Feedback Configuration**
-    If you have the [[ecbe-intro|Browser Extension for Employee Center]] plugin \(sn\_ex\_brw\_ext\) version 1.0 along with the Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0, you have **Browser Extension feedback configuration** by default.
+    If you have the Browser Extension for Employee Center plugin \(sn\_ex\_brw\_ext\) version 1.0 along with the Employee Center Pro plugin \(sn\_ex\_sp\_pro\) version 36.0, you have **Browser Extension feedback configuration** by default.
 
 
 ## Result
@@ -52,12 +52,5 @@ You’ve configured the properties for the integrated service and experience fee
 
 ## What to do next
 
-[[config-feedback-dfnition|Set up the feedback definition]]. For more information, see [Set up the feedback definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-feedback-dfnition.md).
+Set up the feedback definition. For more information, see [Set up the feedback definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-feedback-dfnition.md).
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[ex-feedback-new-record|Feedback configuration form]]
-- [[ecbe-intro|Browser Extension for Employee Center]]
-- [[config-feedback-dfnition|Set up the feedback definition]]

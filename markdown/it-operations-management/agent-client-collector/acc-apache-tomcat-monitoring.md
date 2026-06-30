@@ -14,7 +14,7 @@ breadcrumb: [Operating system and application monitoring using ACC, Exploring Ag
 
 # Configure Agent Client Collector Apache Tomcat monitoring
 
-To configure the [[acc-landing-page|Agent Client Collector]] to perform Apache Tomcat monitoring, set the following configurations in the Apache Tomcat application.
+To configure the Agent Client Collector to perform Apache Tomcat monitoring, set the following configurations in the Apache Tomcat application.
 
 ## Before you begin
 
@@ -76,6 +76,4 @@ Role required: agent\_client\_collector\_admin
 
     2.  In a Windows environment: Run the `shutdown.bat` script, followed by the `startup.bat` script.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

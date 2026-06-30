@@ -14,7 +14,7 @@ breadcrumb: [Threat Intelligence Security Center Library, Use, Threat Intelligen
 
 # Deleting threat intelligence library records
 
-Delete [[threat-intel-landing-page|threat intelligence]] library records such as [[c_Observables|observables]], [[indicator|indicators]], and objects.
+Delete threat intelligence library records such as observables, indicators, and objects.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The following example procedure explains how to delete an observable record. You
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **Observables** &gt; **All Observables**.
 
 2.  Open any observable record.
 
@@ -60,14 +60,7 @@ Refer to the section [Define an Observable](https://raw.githubusercontent.com/Se
 
 [Export intelligence data]()
 
-[Confirm [[potential-relationships|Potential Relationships]] from Related Records]()
+[Confirm Potential Relationships from Related Records]()
 
 [Automated Correlation]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[potential-relationships|Potential Relationships]]

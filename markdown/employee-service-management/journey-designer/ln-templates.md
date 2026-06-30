@@ -14,7 +14,7 @@ breadcrumb: [Initiate a learning task from a lifecycle event, Configure Journey 
 
 # Create a learning template
 
-Create a learning template to simplify the process of creating [[exploring-learning-exp|learning]] tasks by populating fields automatically.
+Create a learning template to simplify the process of creating learning tasks by populating fields automatically.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ In the **Assign to** field, specify the user to whom the learning task is applic
 
 **Parent Topic:**[Initiate a learning task from a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/ln-task-pst.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

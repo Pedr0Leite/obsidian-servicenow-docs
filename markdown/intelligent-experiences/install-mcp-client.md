@@ -20,7 +20,7 @@ Role required: sn\_mcp\_client.admin
 
 Verify that you:
 
--   Install the [[ai-agent-studio|AI Agent Studio]] plugin \[com.snc.sn\_aia\] and the [[generative-ai-controller|Generative AI Controller]] plugin \[com.sn.generative.ai\] to use the MCP Client.
+-   Install the AI Agent Studio plugin \[com.snc.sn\_aia\] and the Generative AI Controller plugin \[com.sn.generative.ai\] to use the MCP Client.
 -   Enable the MCP Tool experience in your instance by setting the **sn\_aia.enable\_mcp\_tool** system property to **true**.
 
 **Note:** ServiceNow supports Protocol version 2025-03-26 of the MCP Servers for MCP Client.
@@ -29,12 +29,8 @@ Verify that you:
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Plugins**.
 
-2.  Search for [[mcp-client|Model Context Protocol Client]] plugin \[sn\_mcp\_client\].
+2.  Search for Model Context Protocol Client plugin \[sn\_mcp\_client\].
 
 3.  Select **Install**.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]
-- [[generative-ai-controller|Generative AI Controller]]
-- [[mcp-client|Model Context Protocol Client]]

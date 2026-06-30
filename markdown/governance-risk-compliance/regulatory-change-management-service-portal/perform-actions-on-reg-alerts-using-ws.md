@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Assign a regulatory event alert to a coordinator
 
-Log in to the GRC: [[reg-change-mgmt-landing-page|Regulatory Change Management]] application, review the regulatory event alert, update the details, and assign it to a coordinator.
+Log in to the GRC: Regulatory Change Management application, review the regulatory event alert, update the details, and assign it to a coordinator.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ In the following procedure, step 4 and after describe various actions that users
 
     The Regulatory Change Management application in the Compliance Workspace is displayed.
 
-3.  Navigate to **Lists** &gt; **Assigned [[list-view-of-reg-alerts|Regulatory Alerts]]** view.
+3.  Navigate to **Lists** &gt; **Assigned Regulatory Alerts** view.
 
 4.  In the Assigned Alerts list, select a regulatory event alert.
 
@@ -80,7 +80,3 @@ The regulatory event alert is assigned to the selected coordinator.
 
 [Assess the impact of a regulatory event alert](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/assess-impact-of-reg-change-using-ws.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]

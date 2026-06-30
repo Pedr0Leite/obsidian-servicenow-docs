@@ -14,7 +14,7 @@ breadcrumb: [Configure outbound FDS as providers, Configure for providers, Servi
 
 # Publish a foundation data subscription
 
-Publish the [[service-bridge-v2-explore-foundation-data-sync|foundation data sync]] \(FDS\) subscription to complete the foundation data sync after the consumer configures and accepts the subscription.
+Publish the foundation data sync \(FDS\) subscription to complete the foundation data sync after the consumer configures and accepts the subscription.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If the **Auto publish FDS subscriptions** option isn’t selected, you must manu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Open Records** &gt; **FDS Request**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Open Records** &gt; **FDS Request**.
 
 2.  Open the provider offering request by selecting the record number in the **Number** column.
 
@@ -36,7 +36,4 @@ If the **Auto publish FDS subscriptions** option isn’t selected, you must manu
 
     You must publish each subscription that is accepted by your consumer to complete the FDS.
 
-## Related
 
-- [[service-bridge-v2-explore-foundation-data-sync|Foundation data sync]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

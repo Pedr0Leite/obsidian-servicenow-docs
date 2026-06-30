@@ -12,7 +12,7 @@ breadcrumb: [Reference, Patient Support Services, Healthcare and Life Sciences S
 
 # Components installed with Patient Support Services
 
-Several types of components are installed with installation of the [[pss-app|Patient Support Services]] application, including tables, user roles, ServiceNow Store applications, and business rules.
+Several types of components are installed with installation of the Patient Support Services application, including tables, user roles, ServiceNow Store applications, and business rules.
 
 **Important:**
 
@@ -96,7 +96,7 @@ sn\_patientservice.agent\_connector
 
 Views, creates, and updates enrollment cases for all associated objects.
 
- You can combine this role with other roles for a user with the agent connector profile. For more information, see [[pss-connector-contributor|Determining additional user profiles in Patient Support Services]].
+ You can combine this role with other roles for a user with the agent connector profile. For more information, see [Determining additional user profiles in Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-connector-contributor.md).
 
 </td><td>
 
@@ -227,7 +227,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hcls-core-app|Healthcare and Life Sciences Service Management Core]] \(sn\_hcls\)
+Healthcare and Life Sciences Service Management Core \(sn\_hcls\)
 
 </td><td>
 
@@ -330,7 +330,7 @@ After insert
 
 </td><td>
 
-Populates patient and practitioner details on the [[hcls-med-prescription-form|Medication Prescription form]] based on the name of a patient entered in an enrollment case.
+Populates patient and practitioner details on the Medication Prescription form based on the name of a patient entered in an enrollment case.
 
 </td></tr><tr><td>
 
@@ -478,10 +478,3 @@ Sets the enrollment case state to **Open** when the case is assigned to a care c
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pss-connector-contributor|Determining additional user profiles in Patient Support Services]]
-- [[pss-app|Patient Support Services]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-med-prescription-form|Medication Prescription form]]

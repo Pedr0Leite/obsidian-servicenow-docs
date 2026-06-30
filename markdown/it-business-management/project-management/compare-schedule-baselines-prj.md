@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-[Create schedule baselines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md) at various stages of a project, for example, at the end of each phase or after every calendar month or quarter. Each baseline captures the schedule information of [[t_CreateAProjectTask|project tasks]] at a particular moment. This snapshot provides a basis for comparison and helps you to identify and review the changes made to the project. Having multiple baselines and comparing them helps you track the performance of your projects.
+[Create schedule baselines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md) at various stages of a project, for example, at the end of each phase or after every calendar month or quarter. Each baseline captures the schedule information of project tasks at a particular moment. This snapshot provides a basis for comparison and helps you to identify and review the changes made to the project. Having multiple baselines and comparing them helps you track the performance of your projects.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ Steps
 
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All**.
 2.  Open the project for which you want to compare baselines.
-3.  On the [[create-a-project-form|Project form]], select the **Planning Console** related link.
+3.  On the Project form, select the **Planning Console** related link.
 4.  On the Planning Console, select the more actions icon \(\[Omitted image "gannt\_chart\_icon.png"\] Alt text: More actions icon\) and then from the Baselines list, select a baseline.
 
 
@@ -81,7 +81,3 @@ Steps
 
 [Create baseline of a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectBaseline.md)
 
-## Related
-
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]

@@ -14,7 +14,7 @@ breadcrumb: [ServiceNow Add-in for Microsoft 365 reference, ServiceNow Add-in fo
 
 # Office Control form
 
-The Office Control form helps you create a button, menu, or menu item for the [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]].
+The Office Control form helps you create a button, menu, or menu item for the ServiceNow Add-in for Microsoft 365.
 
 <table id="table_ijn_b4k_pcc"><thead><tr><th>
 
@@ -135,6 +135,3 @@ Section that requires HTTPS or relative URLs for the office control icons.
 </td></tr></tbody>
 </table>**Parent Topic:**[ServiceNow Add-in for Microsoft 365 reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn-addin-for-ms365-reference.md)
 
-## Related
-
-- [[sn-addin-for-ms365|ServiceNow Add-in for Microsoft 365]]

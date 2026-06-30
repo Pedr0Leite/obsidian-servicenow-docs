@@ -12,7 +12,7 @@ breadcrumb: [Use, Document Processor, Integrate, Financial Services Operations \
 
 # Document Processor workflows
 
-The [[fso-overview|Financial Services]] Document Processor application installs automated workflows for enabling document collection and verification.
+The Financial Services Document Processor application installs automated workflows for enabling document collection and verification.
 
 ## Workflows available with the application
 
@@ -32,7 +32,7 @@ These workflows are built using [Flow Designer](https://raw.githubusercontent.co
 
 Document Processor determines the documents that are required in a workflow in a Financial Services Operations \(FSO\) application. If any documents must be verified, a document verification task is automatically generated for a document agent.
 
-The following is a typical loan workflow in the [[loan-ops-landing-page|Financial Services Loan Operations]] application.
+The following is a typical loan workflow in the Financial Services Loan Operations application.
 
 **Note:** Depending on the request type, individual workflows might have additional or fewer tasks.
 
@@ -42,10 +42,6 @@ The following is a typical loan workflow in the [[loan-ops-landing-page|Financia
 4.  A document verification task is generated.
 5.  A document agent manually verifies or rejects the document, or approves or rejects an exception or deferral request.
 
-    **Note:** For documents specified to required OCR processing, Document Intelligence can automatically extract data and verify a document if the extracted data attributes are sufficiently provided. For more information, see [[integration-with-document-intelligence|Integrating with Document Intelligence]].
+    **Note:** For documents specified to required OCR processing, Document Intelligence can automatically extract data and verify a document if the extracted data attributes are sufficiently provided. For more information, see [Integrating with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md).
 
-## Related
 
-- [[integration-with-document-intelligence|Integrating with Document Intelligence]]
-- [[fso-overview|Financial Services]]
-- [[loan-ops-landing-page|Financial Services Loan Operations]]

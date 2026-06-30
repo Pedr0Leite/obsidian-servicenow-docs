@@ -38,7 +38,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
     |Audience type|User criteria|
     |-------------|-------------|
-    |**Only primary [[supplier-contact|supplier contact]]\(s\)**|**[[supplier|Supplier]]: Primary Contact** \(predefined\)|
+    |**Only primary supplier contact\(s\)**|**Supplier: Primary Contact** \(predefined\)|
     |**All supplier contacts**|**Supplier: Any Contact** \(predefined\)|
     |**Manager\(s\)**|Set the custom criteria for primary supplier managers. For more information, see [Create custom user criteria for primary managers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-user-criteria.md).|
     |**All supplier managers**|Set the custom criteria for all supplier managers. For more information, see [Create custom user criteria for all managers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-user-criteria-all-managers.md).|
@@ -52,19 +52,12 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 ## What to do next
 
-[[create-segmentation-rule-slo|Create segmentation rule]], map it to the assessment template, and create assessments from the [[purch-order-mgmt-ws|Source-to-Pay workspace]].
+Create segmentation rule, map it to the assessment template, and create assessments from the Source-to-Pay workspace.
 
 -   **[Create custom user criteria for primary managers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-new-user-criteria.md)**  
 You can create custom user criteria for primary relationship managers for configuring the assessment reassignment criteria.
 -   **[Create custom user criteria for all managers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-user-criteria-all-managers.md)**  
-You can [[create-user-criteria-all-managers|create custom user criteria for all managers]] for configuring the assessment reassignment criteria.
+You can create custom user criteria for all managers for configuring the assessment reassignment criteria.
 
 **Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[create-segmentation-rule-slo|Create segmentation rule]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[create-user-criteria-all-managers|Create custom user criteria for all managers]]

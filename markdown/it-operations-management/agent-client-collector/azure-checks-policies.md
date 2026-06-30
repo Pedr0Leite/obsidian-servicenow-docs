@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # Azure Health Monitoring default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for Azure health monitoring.
+Agent Client Collector provides the following default checks and policies for Azure health monitoring.
 
 <table id="table_snq_v3n_trb"><thead><tr><th>
 
@@ -58,7 +58,3 @@ Example: `metrics-azure-k8s-service.rb -S {{.labels.params_subscription_id}} -r 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

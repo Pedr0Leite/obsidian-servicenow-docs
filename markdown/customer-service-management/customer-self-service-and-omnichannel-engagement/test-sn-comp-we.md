@@ -14,8 +14,5 @@ breadcrumb: [Set up Web Embeddables, Web Embeddables, Set up self-service, Confi
 
 # Test the ServiceNow components in a sandbox environment
 
-Enables you to test the [[servicenow-web-components-overview|ServiceNow components]] on your sandbox instance without setting up a custom URL and authentication. It isn’t recommended to use this method for production or non-production instance.
+Enables you to test the ServiceNow components on your sandbox instance without setting up a custom URL and authentication. It isn’t recommended to use this method for production or non-production instance.
 
-## Related
-
-- [[servicenow-web-components-overview|ServiceNow components]]

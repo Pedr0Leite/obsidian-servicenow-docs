@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management, IT Asset Management]
 
 # Procuring enterprise assets
 
-You can use the ServiceNow® [[c_Procurement|Procurement]] application to source and receive requested enterprise assets so that you can fulfill service catalog requests.
+You can use the ServiceNow® Procurement application to source and receive requested enterprise assets so that you can fulfill service catalog requests.
 
 ## Overview of procuring enterprise assets
 
@@ -23,11 +23,7 @@ With the Procurement application, you can
 -   track and manage service catalog requests,
 -   create and manage purchase orders,
 -   create and manage transfer orders,
--   and [[c_ReceiveAssets|receive assets]].
+-   and receive assets.
 
 See [Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_Procurement.md) for more information on procuring assets.
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_ReceiveAssets|Receive assets]]

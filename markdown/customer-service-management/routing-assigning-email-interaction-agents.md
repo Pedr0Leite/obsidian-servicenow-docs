@@ -13,11 +13,11 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Routing and assigning an email interaction to agents
 
-Route and assign email interactions to the appropriate agents based on predefined [[gamification-components-rules|rules]] and criteria.
+Route and assign email interactions to the appropriate agents based on predefined rules and criteria.
 
 When agents accept email interactions routed by Advanced Work Assignment \(AWA\), the interaction state changes from New to Work in progress and it’s assigned to the agent.
 
-For information on the configuration required to route and assign email interactions, see [[configure-advanced-work-assignment-route-email-interactions|Configure Advanced Work Assignment for routing email interactions]].
+For information on the configuration required to route and assign email interactions, see [Configure Advanced Work Assignment for routing email interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-advanced-work-assignment-route-email-interactions.md).
 
 Alternatively, agents can assign the email interactions manually.
 
@@ -50,7 +50,4 @@ The **Assign to me** button is only visible if the interaction is in the New sta
     |**Assign the interaction to yourself**|Select **Assign to me**. The Assigned to field gets populated with the agent's name and the state changes to Work in Progress.|
     |**Assign the interaction to another agent**|Select an agent in the **Assigned to** field and select **Save**.|
 
-## Related
 
-- [[configure-advanced-work-assignment-route-email-interactions|Configure Advanced Work Assignment for routing email interactions]]
-- [[gamification-components-rules|Rules]]

@@ -14,32 +14,20 @@ breadcrumb: [Mobile security, Configuring the Mobile Platform, Mobile Platform]
 
 This document applies to current ServiceNow apps for iOS and Android for Australia. This document may be subject to change for future mobile releases.
 
--   **[[sg-mobile-security-components-architecture|Components and architecture]]**  
+-   **[Components and architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-components-architecture.md)**  
 The ServiceNow mobile apps consist of the ServiceNow server instance and native apps for iOS and Android. The apps use fully native code and are not a hybrid approach. The mobile client applications communicate over a wireless connection with the server and pull live data for the end user.
--   **[[sg-mobile-ID-access-mgmt|Identity and access management]]**  
+-   **[Identity and access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-ID-access-mgmt.md)**  
 Learn about user authentication, third party authentication, and user session termination for mobile applications.
--   **[[sg-security-mobile-data-flow|Mobile data flow for ServiceNow mobile apps]]**  
+-   **[Mobile data flow for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-security-mobile-data-flow.md)**  
 Data can be retrieved, downloaded from, and written back to a mobile device.
--   **[[sg-mobile-security-app-distro|Internal mobile app distribution]]**  
+-   **[Internal mobile app distribution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-app-distro.md)**  
 Internal distribution of ServiceNow mobile apps is supported through all major EMM vendors.
--   **[[sg-mobile-security-data|Data security for ServiceNow mobile apps]]**  
+-   **[Data security for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-data.md)**  
 ServiceNow mobile apps use SSL/TLS for Over-the-Air \(OTA\) communication encryption for data security. The OAuth authorization endpoints are HTTPS.
--   **[[sg-mobile-security-push-notif|Push notifications]]**  
+-   **[Push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-push-notif.md)**  
 Administrators create push notifications and users are able to receive them.
--   **[[sg-mobile-security-practices|Mobile security practices]]**  
-Mobile security practices include mobile-specific system properties, attachment control, password reinforcement, [[sg-mobile-security-patching|security patching]], and controlling [[sg-mobile-security-shared-data|shared data]].
--   **[[sg-edge-encryption|Edge Encryption for ServiceNow mobile]]**  
+-   **[Mobile security practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-security-practices.md)**  
+Mobile security practices include mobile-specific system properties, attachment control, password reinforcement, security patching, and controlling shared data.
+-   **[Edge Encryption for ServiceNow mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-edge-encryption.md)**  
 Users can view and edit data protected with Edge Encryption within their mobile device. The data appears in readable form on the mobile device but is encrypted in the database.
 
-## Related
-
-- [[sg-mobile-security-components-architecture|Components and architecture]]
-- [[sg-mobile-ID-access-mgmt|Identity and access management]]
-- [[sg-security-mobile-data-flow|Mobile data flow for ServiceNow mobile apps]]
-- [[sg-mobile-security-app-distro|Internal mobile app distribution]]
-- [[sg-mobile-security-data|Data security for ServiceNow mobile apps]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[sg-mobile-security-practices|Mobile security practices]]
-- [[sg-edge-encryption|Edge Encryption for ServiceNow mobile]]
-- [[sg-mobile-security-patching|Security patching]]
-- [[sg-mobile-security-shared-data|Shared data]]

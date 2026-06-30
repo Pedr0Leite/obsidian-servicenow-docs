@@ -14,11 +14,11 @@ breadcrumb: [Encrypting fields and attachments, Using Field Encryption, Field En
 
 Scripts can be run to access a cryptographic module policy for a cryptographic purpose.
 
-For [[encryption|Key Management Framework]], [[ca-policies|policies]] can be based scripts. When an access policy is triggered for script access, the backend script can execute the module policy actions from the script.
+For Key Management Framework, policies can be based scripts. When an access policy is triggered for script access, the backend script can execute the module policy actions from the script.
 
-Cryptographic modules can support one or more [[encryption-landing|encryption]] purposes, such as Asymmetric Data Decryption and Symmetric Data Decryption. Each cryptographic purpose requires the generation of an encryption key and defined cryptographic purpose.
+Cryptographic modules can support one or more encryption purposes, such as Asymmetric Data Decryption and Symmetric Data Decryption. Each cryptographic purpose requires the generation of an encryption key and defined cryptographic purpose.
 
-Consider the following when executing an encryption script [[c_requestAPI|request]]:
+Consider the following when executing an encryption script request:
 
 -   The referenced cryptographic purpose must be defined in the cryptographic module.
 -   An active generated key must exist for the cryptographic module.
@@ -32,18 +32,10 @@ When creating a module access policy that is set to the script type, there is an
 
 ## Configure script access to encrypted data
 
-Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity. See [[configure-script-encryption|Configure script access to encrypted data]].
+Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity. See [Configure script access to encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-script-encryption.md).
 
 -   **[Configure script access to encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-script-encryption.md)**  
 Execute a script to run the cryptographic module policy for a cryptographic purpose. Specific read \(decrypt/unwrap\) or write \(encrypt, wrap\) access can be defined based on the module access policy operation granularity.
 
-**Parent Topic:**[[field-encryption-key-management|Encrypting fields and attachments]]
+**Parent Topic:**[Encrypting fields and attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/field-encryption-key-management.md)
 
-## Related
-
-- [[configure-script-encryption|Configure script access to encrypted data]]
-- [[field-encryption-key-management|Encrypting fields and attachments]]
-- [[encryption|Key Management Framework]]
-- [[ca-policies|Policies]]
-- [[encryption-landing|Encryption]]
-- [[c_requestAPI|request]]

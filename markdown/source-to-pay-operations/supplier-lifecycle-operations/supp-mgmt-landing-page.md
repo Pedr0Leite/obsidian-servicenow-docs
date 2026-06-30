@@ -14,7 +14,7 @@ breadcrumb: [Finance and Supply Chain]
 
 # Supplier Lifecycle Operations
 
-With ServiceNow® Supplier Lifecycle Operations \(SLO\), you can effectively collaborate with suppliers, manage [[supplier|supplier]] relationships, monitor risk, compliance, and performance across the supplier life cycle.
+With ServiceNow® Supplier Lifecycle Operations \(SLO\), you can effectively collaborate with suppliers, manage supplier relationships, monitor risk, compliance, and performance across the supplier life cycle.
 
 This video provides a visual overview of Supplier Lifecycle Operations and its key capabilities.
 
@@ -28,7 +28,7 @@ This video provides a visual overview of Supplier Lifecycle Operations and its k
 
 </td><td>
 
-[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about how supplier managers and supplier contacts [[use-supp-mgmt|use Supplier Lifecycle Operations]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/explore-supp-mgmt.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about how supplier managers and supplier contacts use Supplier Lifecycle Operations.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/explore-supp-mgmt.md)
 
 </td><td>
 
@@ -71,7 +71,4 @@ Here are some additional ServiceNow resources that can help you:
 
     Connect with other Supplier Lifecycle Operations users at [ServiceNow Community](https://www.servicenow.com/community/source-to-pay-operations/ct-p/source-2-pay-operations).
 
-## Related
 
-- [[supplier|Supplier]]
-- [[use-supp-mgmt|Use Supplier Lifecycle Operations]]

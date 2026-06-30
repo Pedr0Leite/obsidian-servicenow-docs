@@ -14,9 +14,9 @@ breadcrumb: [Integrate, Sourcing and Procurement Operations, Finance and Supply 
 
 # Sourcing and Procurement Operations integration with IT Asset Management
 
-The Asset Management Integration for [[psm-overview|Sourcing and Procurement Operations]] plugin \(sn\_spend\_asset\) provides an integration between IT Asset Management \(ITAM\) and Sourcing and Procurement Operations \(SPO\) applications, enhancing operational efficiency.
+The Asset Management Integration for Sourcing and Procurement Operations plugin \(sn\_spend\_asset\) provides an integration between IT Asset Management \(ITAM\) and Sourcing and Procurement Operations \(SPO\) applications, enhancing operational efficiency.
 
-This integration enables asset managers to access [[shopping-hub-overview|Shopping Hub]] catalog items, including the catalog items without assigned prices, directly within the ITAM workspace. By enabling procurement actions without switching platforms, it streamlines workflows and improves the user experience for asset managers and end users.
+This integration enables asset managers to access Shopping Hub catalog items, including the catalog items without assigned prices, directly within the ITAM workspace. By enabling procurement actions without switching platforms, it streamlines workflows and improves the user experience for asset managers and end users.
 
 ## ITAM-SPO better together workflow
 
@@ -38,7 +38,7 @@ The Asset Manager role \(sn\_spend\_asset.spo\_shopper\) is required to work on 
 
 The following are the plugin dependencies that are required to use Asset Management Integration for Sourcing and Procurement Operations \(sn\_spend\_asset\):
 
--   [[purchase-experience-workflow|Sourcing and Purchasing Automation]] \(sn\_pr\)
+-   Sourcing and Purchasing Automation \(sn\_pr\)
 -   Procurement \(procurement\)
 -   Shopping Hub \(uib.sn\_spend\_uib\)
 
@@ -51,7 +51,7 @@ Additional plugins may be required based on the specific asset management produc
 
 ## Inventory stock orders
 
-Typically, inventory stock orders are automatically submitted based on the stock rules configuration. Stock rules define the conditions under which a specified quantity of an asset is transferred from another stockroom or ordered from a [[supplier|supplier]] when the inventory in a particular stockroom falls below a defined threshold. For more information, see [Stock rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_StockRules.md).
+Typically, inventory stock orders are automatically submitted based on the stock rules configuration. Stock rules define the conditions under which a specified quantity of an asset is transferred from another stockroom or ordered from a supplier when the inventory in a particular stockroom falls below a defined threshold. For more information, see [Stock rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_StockRules.md).
 
 The following are the prerequisites for creating a stock order via stock rules:
 
@@ -129,9 +129,3 @@ This section provides information on considerations for implementing the ITAM-SP
 
 [Procurement File Transfer Framework]()
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[supplier|Supplier]]

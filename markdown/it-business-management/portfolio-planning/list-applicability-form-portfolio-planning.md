@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # List Applicability form
 
-Learn the field information for the List Applicability form. Use this information to define audience for the newly created lists for [[portfolio-planning-app-landing-page|Portfolio Planning]] workspace.
+Learn the field information for the List Applicability form. Use this information to define audience for the newly created lists for Portfolio Planning workspace.
 
 <table id="table_swd_cly_2wb"><thead><tr><th>
 
@@ -59,6 +59,3 @@ Option to enable this applicability to the list.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

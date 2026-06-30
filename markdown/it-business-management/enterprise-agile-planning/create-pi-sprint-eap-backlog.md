@@ -28,7 +28,7 @@ This task is explained using the default Full Configuration as an example, where
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Enterprise Agile Planning**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Enterprise Agile Planning**.
 
 2.  From the Agile structure section of the left navigation panel, choose your ART.
 
@@ -73,6 +73,3 @@ This task is explained using the default Full Configuration as an example, where
 
 **Parent Topic:**[Manage team backlog in EAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/using-eap.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

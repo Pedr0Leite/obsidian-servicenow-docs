@@ -22,7 +22,7 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-lease-admin-feat|Workplace Lease Administration]]** &gt; **Workplace Contracts**.
+1.  Navigate to **All** &gt; **Workplace Lease Administration** &gt; **Workplace Contracts**.
 
 2.  Select a contract.
 
@@ -51,6 +51,3 @@ Role required: sn\_wsd\_la.manager or sn\_wsd\_la.admin
 
 **Parent Topic:**[Create workplace contracts in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/create-lease-contracts.md)
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

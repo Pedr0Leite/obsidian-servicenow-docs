@@ -14,7 +14,7 @@ breadcrumb: [Risk assessment project, Use Risk Workspace, Risk Management, Gover
 
 # Perform assessment on a risk assessment project in stacked view
 
-Perform assessments on multiple risks and controls simultaneously in a [[risk-assessment-project|risk assessment project]] [[using-risk-workspace|using Risk Workspace]]. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
+Perform assessments on multiple risks and controls simultaneously in a risk assessment project using Risk Workspace. You can assess inherent risks, effectiveness of controls, residual risks, and target risks. You can define risk responses that enable you to manage and mitigate the risks identified during the risk assessment process.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **My tasks**.
 
 2.  Open the risk assessment project that you want to assess.
 
@@ -34,7 +34,7 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 5.  To start the assessment, select **Let's get started**.
 
-    If you're performing reassessment, Copy [[risk-assessments|risk assessments]] dialog box appears. Select **Yes** to copy responses from the previous risk assessment.
+    If you're performing reassessment, Copy risk assessments dialog box appears. Select **Yes** to copy responses from the previous risk assessment.
 
 6.  To reassign the project, select the \[Omitted image "more-actions-vertical-icon.png"\] Alt text: more actions. icon, and select **Reassign**.
 
@@ -62,13 +62,13 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
         The selected risk is deleted, along with all associated responses.
 
-9.  Respond to all the [[factors|factors]] in Inherent, Control, and Residual assessments, and define a [[risk-response|risk response]] strategy for each risk within the project.
+9.  Respond to all the factors in Inherent, Control, and Residual assessments, and define a risk response strategy for each risk within the project.
 
     The application automatically saves your responses and calculates the overall risk score.
 
 10. To view the complete summary of the assessment, select **View summary**.
 
-11. To check for any errors in the assessment before you [[submit-an-importance-and-impact-tolerance-assessment-in-ws|submit the assessment]], select the \[Omitted image "more-actions-vertical-icon.png"\] Alt text: more actions. icon, and select **Validate**.
+11. To check for any errors in the assessment before you submit the assessment, select the \[Omitted image "more-actions-vertical-icon.png"\] Alt text: more actions. icon, and select **Validate**.
 
     You can see the list of errors, if any, that must be resolved in the side panel for the selected risk.
 
@@ -83,12 +83,3 @@ Role required: sn\_grc.business\_user, sn\_risk\_workspace.IT\_risk\_manager, an
 
 **Parent Topic:**[Risk assessment project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-assessment-project.md)
 
-## Related
-
-- [[risk-assessment-project|risk assessment project]]
-- [[using-risk-workspace|using risk workspace]]
-- [[risk-workspace|risk workspace]]
-- [[risk-assessments|risk assessments]]
-- [[factors|factors]]
-- [[risk-response|risk response]]
-- [[submit-an-importance-and-impact-tolerance-assessment-in-ws|Submit the assessment]]

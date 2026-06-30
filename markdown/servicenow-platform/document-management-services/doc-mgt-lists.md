@@ -22,7 +22,7 @@ A user with the admin role can create document lists and add multiple documents 
 
 ## New hire onboarding
 
-During new hire onboarding, employees must upload multiple documents such as ID, training certificates, and so on. Your organization can create documents as templates and group them under a list. Then when you [[reference|reference]] this list to a target record, all the template documents under the list are created and linked to the target record.
+During new hire onboarding, employees must upload multiple documents such as ID, training certificates, and so on. Your organization can create documents as templates and group them under a list. Then when you reference this list to a target record, all the template documents under the list are created and linked to the target record.
 
 \[Omitted image "doc-list.png"\] Alt text: Document list form
 
@@ -48,6 +48,3 @@ You can create and reference documents on a target table record through the Docu
 
 [Add a document template to a document list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/add-list-entry-to-doc-list.md)
 
-## Related
-
-- [[reference|Reference]]

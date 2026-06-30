@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology Change Management, Operational Technology]
 
 # Using Operational Technology Change Management
 
-After you complete all required set-up tasks for the [[operational-technology-change-management-landing-page|Operational Technology Change Management]] application, you can begin managing [[operational-technology-overview|Operational Technology]] \(OT\) change requests.
+After you complete all required set-up tasks for the Operational Technology Change Management application, you can begin managing Operational Technology \(OT\) change requests.
 
 -   **[Create a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/create-ot-change-request.md)**  
 Create an Operational Technology \(OT\) change request to report a change in your site.
@@ -39,7 +39,3 @@ Use email notifications to alert users when an Operational Technology \(OT\) cha
 
 **Parent Topic:**[Operational Technology Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-change-management/operational-technology-change-management-landing-page.md)
 
-## Related
-
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[operational-technology-overview|Operational Technology]]

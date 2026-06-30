@@ -14,11 +14,11 @@ breadcrumb: [Reporting, dashboards, and Performance Analytics in the Core UI, Pl
 
 # Responsive dashboards in the Core UI
 
-Responsive Dashboards enable you to display multiple performance analytics, [[reporting-landing-page|reporting]], and other [[widgets|widgets]] on a single screen. Use dashboards to create a story with data you can share with multiple users.
+Responsive Dashboards enable you to display multiple performance analytics, reporting, and other widgets on a single screen. Use dashboards to create a story with data you can share with multiple users.
 
 ## Get started
 
-**Note:** You can migrate your Core UI dashboards to the [[par-workspace|Platform Analytics experience]]. For more information, see [[data-migration|Platform Analytics Migration Center]].
+**Note:** You can migrate your Core UI dashboards to the Platform Analytics experience. For more information, see [Platform Analytics Migration Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-migration.md).
 
 Core UI dashboard functionality is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
@@ -40,10 +40,3 @@ Core UI dashboard functionality is in maintenance mode and is no longer being au
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[data-migration|Platform Analytics Migration Center]]
-- [[reporting-landing-page|Reporting]]
-- [[widgets|Widgets]]
-- [[par-workspace|Platform Analytics experience]]

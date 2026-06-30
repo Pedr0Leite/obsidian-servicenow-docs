@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI, Now Assist for CSM, Customer Service Management]
 
 # Use automated quality assurance dashboard as a live agent
 
-The [[quality-assurance-management|automated quality assurance]] dashboard provides GenAI-generated quality insights for individual agents, including time-based filters, trend analysis, category and parameter breakdowns, with a detailed list of reviewed cases.
+The automated quality assurance dashboard provides GenAI-generated quality insights for individual agents, including time-based filters, trend analysis, category and parameter breakdowns, with a detailed list of reviewed cases.
 
 ## Overview of automated quality assurance dashboard
 
@@ -76,6 +76,3 @@ The **Reviewed cases** list provides rich data exploration capabilities with fil
 
 [Automated quality assurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/quality-assurance-management.md)
 
-## Related
-
-- [[quality-assurance-management|Automated quality assurance]]

@@ -28,7 +28,7 @@ For applications such as Virtual Agent, Automation Discovery helps you implement
 
 ## Installation
 
-Automation Discovery is available from the ServiceNow Store. For more information, see [[install-automation-discovery|Install Automation Discovery]].
+Automation Discovery is available from the ServiceNow Store. For more information, see [Install Automation Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/install-automation-discovery.md).
 
 ## Language support
 
@@ -54,7 +54,7 @@ The **Automation Discovery Reports** page lists your created reports. For each r
 |Frequency|Number of times to run the report.|
 |Status|Status of the report.|
 
-To create a new report, see [[create-auto-discovry-report|Create an Automation Discovery report]].
+To create a new report, see [Create an Automation Discovery report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-auto-discovry-report.md).
 
 To view results, select the name of the report.
 
@@ -113,7 +113,3 @@ Enabling sampling of data before clustering is run can help speed up the report 
 
 [Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-landing-page.md)
 
-## Related
-
-- [[install-automation-discovery|Install Automation Discovery]]
-- [[create-auto-discovry-report|Create an Automation Discovery report]]

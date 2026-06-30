@@ -14,7 +14,7 @@ breadcrumb: [Skills Foundation, Growth Experiences, HR Service Delivery, Employe
 
 # Exploring Skills Foundation
 
-The [[skills-intelligence|Skills Foundation]] platform uses AI Search to process your industry skills data. Learn how Skills Foundation can help transform your organization to build a workforce that is based on skills.
+The Skills Foundation platform uses AI Search to process your industry skills data. Learn how Skills Foundation can help transform your organization to build a workforce that is based on skills.
 
 ## Overview of Skills Foundation
 
@@ -34,11 +34,11 @@ As a manager, you can review and validate the skill proficiency levels updated b
 
 ## Skills-driven Learning recommendations
 
-Talent Development uses Skills Foundation to deliver [[exploring-learning-exp|learning]] recommendations for employees and their managers, keeping them engaged and productive. For more information, see [Learning overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-learning-ovrvw.md). The Skills Foundation application integrates with Learning to introduce skills-driven learning search results that your managers can use to recommend courses based on the skills of your employees. For more information, see [Learning integration with Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skills-intelligence-lxp.md).
+Talent Development uses Skills Foundation to deliver learning recommendations for employees and their managers, keeping them engaged and productive. For more information, see [Learning overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-learning-ovrvw.md). The Skills Foundation application integrates with Learning to introduce skills-driven learning search results that your managers can use to recommend courses based on the skills of your employees. For more information, see [Learning integration with Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skills-intelligence-lxp.md).
 
 ## Proactive Prompts integrated with Skills Foundation
 
-[[proactive-prompts-for-hrsd|Proactive Prompts]] enable contextual and proactive engagement for your managers and employees by bringing actionable insights as prompts into their flow of work. You can use these prompts in multiple engagement channels, such as Microsoft Teams, Microsoft Outlook, Zoom, and the short messaging service \(SMS\). For more information, see [Proactive Prompts for Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/proactive-prompts-skills.md).
+Proactive Prompts enable contextual and proactive engagement for your managers and employees by bringing actionable insights as prompts into their flow of work. You can use these prompts in multiple engagement channels, such as Microsoft Teams, Microsoft Outlook, Zoom, and the short messaging service \(SMS\). For more information, see [Proactive Prompts for Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/proactive-prompts-skills.md).
 
 ## Support for multiple languages in Skills Foundation
 
@@ -52,7 +52,7 @@ Employees can view the skill names and their descriptions translated when they c
 
 ## Hiring core for Skills Foundation
 
-[[hiring-core|Hiring Core]] provides a repository to store information for your [[hiring-tab-concept|hiring]] requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. Skills Foundation runs predictions on the data in the hiring core tables and offers skill recommendations for role groups. For more information, see [Hiring Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/hiring-core.md).
+Hiring Core provides a repository to store information for your hiring requirements. Activate the Hiring Core plugin \(app-hiring-core\) to start using it. Skills Foundation runs predictions on the data in the hiring core tables and offers skill recommendations for role groups. For more information, see [Hiring Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/hiring-core.md).
 
 ## Key benefits
 
@@ -112,7 +112,7 @@ Imports skills from resumes and LinkedIn profiles of the employees.**Note:** Thi
 
 </td><td>
 
-Managers validate the skill proficiency level of employees in the [[manager-hub-overview|Manager Hub]] and employees can see these validated skills on their skills profile.
+Managers validate the skill proficiency level of employees in the Manager Hub and employees can see these validated skills on their skills profile.
 
 </td></tr><tr><td>
 
@@ -132,12 +132,3 @@ Enables your employees to search for skills that they’re interested in develop
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[skills-intelligence|Skills Foundation]]
-- [[exploring-learning-exp|Learning]]
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]
-- [[hiring-core|Hiring Core]]
-- [[hiring-tab-concept|Hiring]]
-- [[manager-hub-overview|Manager Hub]]

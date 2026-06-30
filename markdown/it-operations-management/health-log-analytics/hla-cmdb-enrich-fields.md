@@ -30,7 +30,7 @@ Host name
 
 </td><td>
 
-The host name that [[hla-landing-page|Health Log Analytics]] discovered in the log data.
+The host name that Health Log Analytics discovered in the log data.
 
 </td></tr><tr><td>
 
@@ -345,6 +345,3 @@ Option to indicate if the device is running on a virtual machine instance.​
 </td></tr></tbody>
 </table>**Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

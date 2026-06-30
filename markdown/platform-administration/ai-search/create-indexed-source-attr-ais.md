@@ -14,7 +14,7 @@ breadcrumb: [Indexed source attributes, Indexed sources, Configuring AI Search, 
 
 # Create an indexed source attribute in AI Search
 
-Define an indexed source attribute to configure the [[ia-ai-search|AI Search]] content indexing behavior for all records on a source table.
+Define an indexed source attribute to configure the AI Search content indexing behavior for all records on a source table.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ For details on available indexed source attributes and values, see [List of AI S
 
 3.  In the Advanced Configuration related list, select **New**.
 
-4.  On the [[indexed-source-attribute-form-ais|Indexed Source Attribute form]], fill in the fields.
+4.  On the Indexed Source Attribute form, fill in the fields.
 
     For a description of the field values, see [Indexed Source Attribute form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attribute-form-ais.md).
 
@@ -49,7 +49,3 @@ To make the new indexed source attribute take effect, perform a full table reind
 
 **Parent Topic:**[Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-attribute-form-ais|Indexed Source Attribute form]]

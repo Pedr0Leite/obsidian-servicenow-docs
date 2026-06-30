@@ -14,13 +14,13 @@ breadcrumb: [Configuring Discovery, Discovery, ITOM Visibility, IT Operations Ma
 
 # SNMP support for Discovery
 
-[[r-discovery|Discovery]] supports SNMP versions 1, 2c, and 3. If you have an active SNMP v3 credential, valid options for SNMP version are v3 or All. If you have an active SNMP v1 or v2 credential \(community string\), valid options for SNMP version are v1, v2c, or All. Default is All.
+Discovery supports SNMP versions 1, 2c, and 3. If you have an active SNMP v3 credential, valid options for SNMP version are v3 or All. If you have an active SNMP v1 or v2 credential \(community string\), valid options for SNMP version are v1, v2c, or All. Default is All.
 
 MID Servers support all SNMP protocol versions by default. You can set a MID Server to support only specific versions of SNMP.
 
 For SNMP credentials information, see [SNMP credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_SNMPCredentials.md).
 
-[[r_SNMPProbeParameters|SNMP probe parameters]] can be used while discovering an SNMP device. See [SNMP probe parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_SNMPProbeParameters.md) for more information.
+SNMP probe parameters can be used while discovering an SNMP device. See [SNMP probe parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_SNMPProbeParameters.md) for more information.
 
 ## Add an SNMPv3 user credential in Discovery
 
@@ -268,7 +268,4 @@ A MID Server parameter is also available to control SNMP versions. See [MID Serv
 
     The default value is **ALL**. You can change this to **v1**,**v2c**, or **v3**.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[r_SNMPProbeParameters|SNMP probe parameters]]

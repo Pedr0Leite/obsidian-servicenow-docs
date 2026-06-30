@@ -14,7 +14,7 @@ breadcrumb: [Reference, Instance Data Replication, Manage instance data sources,
 
 # Instance Data Replication system properties
 
-These system properties control the behavior of the [[instance-data-replication|Instance Data Replication]] \(IDR\) application.
+These system properties control the behavior of the Instance Data Replication \(IDR\) application.
 
 To set IDR system properties, navigate to the System Properties \[sys\_properties\] table and add the property.
 
@@ -86,7 +86,7 @@ By default, IDR stops replication if an out-or-order issue occurs on the consume
 
 </td></tr><tr><td>
 
-Set [[attachment|attachment]] size limit
+Set attachment size limit
 
 `idr.cdc.replication.table.reader.attachment.size`
 
@@ -124,7 +124,3 @@ If this property isn't set or present, there's no limit on the number of records
 
 [Instance Data Replication roles]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[attachment|Attachment]]

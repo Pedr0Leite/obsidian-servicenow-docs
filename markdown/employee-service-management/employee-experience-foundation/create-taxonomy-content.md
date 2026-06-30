@@ -40,9 +40,5 @@ Role required: taxonomy\_admin
 
 Associate all existing and new content to the taxonomy created.
 
-**Note:** By default, taxonomy for [[employee-center-landing-page|Employee Center]] and [[deskless-kiosk-overview|Employee Center Pro Kiosk]] are available.
+**Note:** By default, taxonomy for Employee Center and Employee Center Pro Kiosk are available.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]

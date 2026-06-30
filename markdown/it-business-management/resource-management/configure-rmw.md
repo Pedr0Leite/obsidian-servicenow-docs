@@ -23,7 +23,7 @@ Install and configure Resource Management Workspace to manage efforts and alloca
 
 ## Guided setup for Resource Management Workspace
 
-Guided Setup provides a sequence of tasks to help you with the required configuration on your ServiceNow instances. After installing [[rsrc-mgmt-wrkspc|Resource Management Workspace]], navigate to **All** &gt; **Resource** &gt; **Resource Management Guided Setup**.
+Guided Setup provides a sequence of tasks to help you with the required configuration on your ServiceNow instances. After installing Resource Management Workspace, navigate to **All** &gt; **Resource** &gt; **Resource Management Guided Setup**.
 
 -   **[Install Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/config-rmw.md)**  
 Install the Resource Management Workspace application from the ServiceNow Store.
@@ -36,6 +36,3 @@ Configure whether the resource board in the Resource Management Workspace uses p
 
 **Parent Topic:**[Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-mgmt-wrkspc.md)
 
-## Related
-
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]

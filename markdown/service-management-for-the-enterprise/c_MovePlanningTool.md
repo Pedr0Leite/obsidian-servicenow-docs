@@ -55,21 +55,14 @@ Display
 </td></tr></tbody>
 </table>\[Omitted image "MPTPlanningTab.png"\] Alt text: In this figure, the Move Planning Tool is displayed with different colors representing categories per floors in a building.
 
--   **[[r_EnterMoveScenarios|Enterprise move scenarios]]**  
+-   **[Enterprise move scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveScenarios.md)**  
 Move scenarios are used by the Facilities team to see the implications of a move in relation to other moves. Multiple scenarios can be created.
--   **[[r_EnterMoveDetails|Enterprise move details]]**  
+-   **[Enterprise move details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveDetails.md)**  
 Enterprise move details are created when people are added to the scenario. Move details contain information about the move for a specific person, such the destination floor, destination building, need for moving boxes, or a security badge update.
--   **[[r_EnterMoveRequests|Enterprise move requests]]**  
+-   **[Enterprise move requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveRequests.md)**  
 Enterprise move requests are managed by a workflow, which contains required approvals from facilities\_admin or move\_admin. State changes are handled by UI actions.
--   **[[r_EnterMoveTasks|Enterprise move tasks]]**  
+-   **[Enterprise move tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_EnterMoveTasks.md)**  
 Before a move can be executed, destination locations for all users must be complete. Move tasks are based on check boxes on the request form.
 
-**Parent Topic:**[[c_EnterpriseMove|Enterprise move]]
+**Parent Topic:**[Enterprise move](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_EnterpriseMove.md)
 
-## Related
-
-- [[r_EnterMoveScenarios|Enterprise move scenarios]]
-- [[r_EnterMoveDetails|Enterprise move details]]
-- [[r_EnterMoveRequests|Enterprise move requests]]
-- [[r_EnterMoveTasks|Enterprise move tasks]]
-- [[c_EnterpriseMove|Enterprise move]]

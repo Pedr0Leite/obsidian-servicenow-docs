@@ -16,18 +16,15 @@ Integrate intelligence features to automate routine tasks and provide relevant c
 
 <table id="table_bxc_fn1_l1c" class="nav-card"><tbody><tr><td>
 
-[Now Assist for [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]\[Omitted image "bus-artificial-intelligence.svg"\] Alt text:Use Now Assist for PSDS to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md)
+[Now Assist for Public Sector Digital Services \(PSDS\)\[Omitted image "bus-artificial-intelligence.svg"\] Alt text:Use Now Assist for PSDS to enhance user productivity and efficiency through conversation and proactive experiences using generative AI.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md)
 
 </td><td>
 
 
 
 </td></tr></tbody>
-</table>-   **[[now-assist-psds-configuring|Now Assist for Public Sector Digital Services \(PSDS\)]]**
+</table>-   **[Now Assist for Public Sector Digital Services \(PSDS\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/now-assist-psds-configuring.md)**
 
     Use the Public Sector Digital Services to boost productivity and efficiency with generative AI. This tool enhances user interactions by summarizing case information, generating resolution notes, and providing chat summaries. It also helps you quickly understand chat and case context, enabling faster and more accurate customer resolutions.
 
-## Related
 
-- [[now-assist-psds-configuring|Configure Now Assist for Public Sector Digital Services \(PSDS\)]]
-- [[bun-public-sector-landing-page|Public Sector Digital Services \(PSDS\)]]

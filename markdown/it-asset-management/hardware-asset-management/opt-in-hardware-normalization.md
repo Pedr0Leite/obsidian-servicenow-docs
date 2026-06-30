@@ -14,7 +14,7 @@ breadcrumb: [Work with hardware normalization, Use, Hardware Asset Management, I
 
 # Opt-in to the Hardware Asset Management Content Service
 
-Opt in to the [[ham-landing-page|Hardware Asset Management]] Content Service to improve the normalization process by sharing hardware and consumable model data from your organization with ServiceNow.
+Opt in to the Hardware Asset Management Content Service to improve the normalization process by sharing hardware and consumable model data from your organization with ServiceNow.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## About this task
 
-By opting in to the Hardware Asset Management Content Service, your data is securely shared with ServiceNow to build the content service repository. Adding to the content service allows more [[c_Models|models]] be normalized automatically. These updates occur weekly.
+By opting in to the Hardware Asset Management Content Service, your data is securely shared with ServiceNow to build the content service repository. Adding to the content service allows more models be normalized automatically. These updates occur weekly.
 
 The content updates are based on data from the hardware and consumable models, lifecycles, and custom hardware product models sent back to the Hardware Asset Management Content Service.
 
@@ -33,7 +33,7 @@ Any data that is retrieved by the content service remains anonymous and secure, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Asset** &gt; **Administration** &gt; **[[hardware-normalization|Hardware Model Normalization]]** &gt; **Content Service Setup**.
+1.  Navigate to **All** &gt; **Asset** &gt; **Administration** &gt; **Hardware Model Normalization** &gt; **Content Service Setup**.
 
 2.  Read the Hardware Asset Management Content Service agreement.
 
@@ -74,8 +74,3 @@ You are returned to the Hardware Asset Management Content Service agreement and 
 
 **Parent Topic:**[Work with hardware normalization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/Work-with-hardware-normalization.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Models|Models]]
-- [[hardware-normalization|Hardware Model Normalization]]

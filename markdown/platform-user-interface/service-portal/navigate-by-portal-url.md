@@ -14,7 +14,7 @@ breadcrumb: [Understanding Service Portal, Exploring Service Portal, Service Por
 
 # Page navigation in Service Portal by URL
 
-You can navigate to a portal or a page in [[c_ServicePortal|Service Portal]] using a URL.
+You can navigate to a portal or a page in Service Portal using a URL.
 
 Service Portal URLs have the following structure:
 
@@ -97,7 +97,7 @@ Additional parameters are required by some pages to load dynamic content by look
 
 ## Referencing a page ID
 
-Widgets and widget instance options [[onboarding-modals-reference|reference]] Service Portal pages using the page ID. For example, a link to the sc\_home page within a widget HTML template might appear as follows:
+Widgets and widget instance options reference Service Portal pages using the page ID. For example, a link to the sc\_home page within a widget HTML template might appear as follows:
 
 ```
 <div><a href="?id=sc_home">${Order something...}</a></div>
@@ -110,7 +110,3 @@ Widgets and widget instance options [[onboarding-modals-reference|reference]] Se
 
 [Add human readable keywords to page URLs]()
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[onboarding-modals-reference|Reference]]

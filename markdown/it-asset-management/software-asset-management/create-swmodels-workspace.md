@@ -22,13 +22,13 @@ Role required: sam\_user, sam\_admin, or model\_manager
 
 ## About this task
 
-You can manually create a software model. However, you can leverage the [[c_SAMContentService|Software Asset Management Content Service]] Library to automate the creation of [[c_CreatingSoftwareModels|software models]] through their relationship to software entitlements. While creating or importing a software entitlement, specifying a publisher part number automatically creates a software model \(if needed\) or links to an existing software model.
+You can manually create a software model. However, you can leverage the Software Asset Management Content Service Library to automate the creation of software models through their relationship to software entitlements. While creating or importing a software entitlement, specifying a publisher part number automatically creates a software model \(if needed\) or links to an existing software model.
 
 You must manually create a software model if a publisher part number isn’t available, or a publisher part number doesn’t exist in the Content Service Library, or if you are creating a software model for a custom product.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]**.
+1.  Navigate to **All** &gt; **Software asset** &gt; **Software Asset Workspace**.
 
 2.  Select the **License operations** view.
 
@@ -44,7 +44,7 @@ You must manually create a software model if a publisher part number isn’t ava
 
 6.  Select **Save**.
 
-    After you save the software model, the **General**, **Suite Components**, **Suite Parents**, and the **[[c_ProductCatalog|Product Catalog]]** tabs appear on the page. You can now add details in these related tabs.
+    After you save the software model, the **General**, **Suite Components**, **Suite Parents**, and the **Product Catalog** tabs appear on the page. You can now add details in these related tabs.
 
 7.  Specify whether your software publisher is part of a suite.
 
@@ -66,7 +66,7 @@ You must manually create a software model if a publisher part number isn’t ava
 
 12. Specify the number of devices or users that are accessing the software by selecting [Client Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) and complete the form.
 
-13. To create a new record for the software [[downgrade-rights|downgrade rights]], select [Downgrade Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) and complete the form.
+13. To create a new record for the software downgrade rights, select [Downgrade Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/software-model-fields.md) and complete the form.
 
     **Note:** If your software model has a discovery map associated with it and the discovery map has downgrade rights, the downgrade rights are populated automatically. Downgraded versions of the software appear in a hierarchical list. For more information, see [Downgrade Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/downgrade-rights.md).
 
@@ -87,10 +87,3 @@ You must manually create a software model if a publisher part number isn’t ava
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[downgrade-rights|Downgrade Rights]]

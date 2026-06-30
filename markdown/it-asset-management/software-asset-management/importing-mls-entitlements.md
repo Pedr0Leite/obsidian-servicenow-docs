@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Microsoft, Supported s
 
 # Importing Microsoft entitlements from a Microsoft License Statement \(MLS\)
 
-You can import entitlements from an MLS to automatically define the license details and license agreements that are matched to your Microsoft [[c_CreatingSoftwareModels|software models]].
+You can import entitlements from an MLS to automatically define the license details and license agreements that are matched to your Microsoft software models.
 
 An MLS is a report that contains a comprehensive inventory of licensing information for each of your Microsoft products. This report provides an in-depth look into your company's entire license transaction history, which you can use to better forecast your Microsoft licensing needs.
 
@@ -28,17 +28,12 @@ Each MLS contains the following information:
 -   **Frequently Asked Questions and Glossary**: Answers to frequently asked questions and definitions for common Microsoft terminology.
 -   **Pivot Data**: Data that you can use to generate a license position for Microsoft.
 
-When you import licensing information from an MLS, [[c_SoftwareAssetMgmt|Software Asset Management]] automatically creates entitlements and license agreements using data from only the **Transaction Data** tab of the MLS.
+When you import licensing information from an MLS, Software Asset Management automatically creates entitlements and license agreements using data from only the **Transaction Data** tab of the MLS.
 
 -   **[Import Microsoft entitlements from a Microsoft License Statement \(MLS\) in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-mls-entitlements-sam-classic.md)**  
 Import entitlements from an MLS using the Software Asset Management classic application.
 -   **[Import Microsoft entitlements from a Microsoft License Statement \(MLS\) in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/import-mls-entitlements-workspace.md)**  
-Import entitlements from an MLS using the [[sam-workspace|Software Asset Workspace]].
+Import entitlements from an MLS using the Software Asset Workspace.
 
 **Parent Topic:**[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

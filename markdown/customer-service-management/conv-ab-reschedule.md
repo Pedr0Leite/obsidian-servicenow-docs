@@ -48,11 +48,7 @@ The appointment is rescheduled.
 **Related topics**  
 
 
-[[conv-ab-schedule|Schedule an appointment]]
+[Schedule an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-schedule.md)
 
-[[conv-ab-cancel|Cancel an appointment]]
+[Cancel an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-cancel.md)
 
-## Related
-
-- [[conv-ab-schedule|Schedule an appointment with Conversational Appointment Booking]]
-- [[conv-ab-cancel|Cancel an appointment with Conversational Appointment Booking]]

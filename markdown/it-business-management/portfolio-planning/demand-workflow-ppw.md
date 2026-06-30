@@ -20,7 +20,7 @@ The demand workflow defines the life-cycle of a request, from initial intake thr
 
 The following table lists the end-to-end life cycle for managing demands. This workflow provides a process for demands so they are progressively refined, validated, and aligned with business and strategic objectives.
 
-**Note:** This workflow describes the traditional [[c_DemandManagement|demand management]] process. You can customize the states and activities by defining a custom playbook.
+**Note:** This workflow describes the traditional demand management process. You can customize the states and activities by defining a custom playbook.
 
 <table id="table_mb5_3qp_13c"><thead><tr><th>
 
@@ -40,12 +40,12 @@ Roles involved
 
 </th></tr></thead><tbody><tr><td>
 
-[[t_CreatingDemands|Create a demand]]
+Create a demand
 
 </td><td>
 
-Demands enter the system via Service Catalog or Idea Portal, or being submitted directly by demand managers: -   Business users can [[submit-idea-in-idea-portal|submit an idea]] via the Service Catalog or Idea Portal. The idea is then evaluated by demand managers after which they can promote it to a demand.
--   Business users can bypass the ideation process and [[submit-a-demand-ppw|submit a demand]] directly from the Service Catalog.
+Demands enter the system via Service Catalog or Idea Portal, or being submitted directly by demand managers: -   Business users can submit an idea via the Service Catalog or Idea Portal. The idea is then evaluated by demand managers after which they can promote it to a demand.
+-   Business users can bypass the ideation process and submit a demand directly from the Service Catalog.
 -   Demand managers or demand users can directly submit demands from the Next Experience for Demand Management.
 
 </td><td>
@@ -205,10 +205,3 @@ Demand manager, Next Experience for Demand Management
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[t_CreatingDemands|Create a demand]]
-- [[submit-idea-in-idea-portal|Submit an idea]]
-- [[submit-a-demand-ppw|Submit a demand]]

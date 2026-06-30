@@ -36,7 +36,7 @@ The breakdown source uses the following records from the Choice table:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]] Administration** &gt; **Data Sources** &gt; **[[breakdown-sources|Breakdown Sources]]**.
+1.  Navigate to **All** &gt; **Platform Analytics Administration** &gt; **Data Sources** &gt; **Breakdown Sources**.
 
 2.  Select **New**.
 
@@ -99,7 +99,3 @@ Create breakdowns that use this breakdown source. You can open the **Breakdowns*
 
 **Parent Topic:**[Breakdown sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/breakdown-sources.md)
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[breakdown-sources|Breakdown sources]]

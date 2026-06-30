@@ -76,7 +76,7 @@ Available options:
 
 The reason for rejecting the task is populated in the work notes and the task moves to **Pending Dispatch** state.
 
- **Note:** The rejected task is not dynamically scheduled to the same agent for the next 24 hours. This is controlled by the work.management.rejected.technician.duration [[r_PropInstallWFieldServMgmnt|system property]]. However, as an agent you can manually assign the work order task back to yourself or as a dispatcher you can assign it back to the same agent.
+ **Note:** The rejected task is not dynamically scheduled to the same agent for the next 24 hours. This is controlled by the work.management.rejected.technician.duration [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_PropInstallWFieldServMgmnt.md). However, as an agent you can manually assign the work order task back to yourself or as a dispatcher you can assign it back to the same agent.
 
 </td></tr></tbody>
 </table>    \[Omitted image "accept-reject-task.png"\] Alt text: accept and reject buttons
@@ -86,9 +86,5 @@ The reason for rejecting the task is populated in the work notes and the task mo
 
 In case an agent accepts a successor \(downstream\) task that is dependent on another task, the successor \(downstream\) task can be started before the predecessor \(upstream\) task is complete.
 
-When the agent selects **[[t_StartWork|Start Work]]**, a message states that open task dependencies exist and asks if the agent wants to start work.
+When the agent selects **Start Work**, a message states that open task dependencies exist and asks if the agent wants to start work.
 
-## Related
-
-- [[r_PropInstallWFieldServMgmnt|Properties installed with Field Service Management]]
-- [[t_StartWork|Start work]]

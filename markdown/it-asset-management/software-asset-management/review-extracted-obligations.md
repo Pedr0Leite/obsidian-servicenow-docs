@@ -22,11 +22,11 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_fulfiller, sam\_admin/sam\_user, an
 
 ## About this task
 
-The manage contract repository agentic workflow uses AI agents to extract key contractual obligations from signed [[c_Contracts|contracts]]. The obligations are extracted based on the applicable use case in the contract obligation extraction skill. After obligation extraction is complete, a message appears on the contract record and an email notification is sent with a link to review the extracted obligations. The playbook provides a step-by-step interface where you can review each obligation, make necessary edits, and decide whether to approve or reject it. Approved obligations are added as actionable records in the **Obligations** tab in the [[operations-workspace|License operations view]].
+The manage contract repository agentic workflow uses AI agents to extract key contractual obligations from signed contracts. The obligations are extracted based on the applicable use case in the contract obligation extraction skill. After obligation extraction is complete, a message appears on the contract record and an email notification is sent with a link to review the extracted obligations. The playbook provides a step-by-step interface where you can review each obligation, make necessary edits, and decide whether to approve or reject it. Approved obligations are added as actionable records in the **Obligations** tab in the License operations view.
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations** &gt; **Contracts** &gt; **Software contracts**.
 
 2.  Open a Contract record for which you want to review the extracted obligation record.
 
@@ -75,8 +75,3 @@ If the schedule of the obligation is adhoc, you must create obligation tasks man
 
 **Parent Topic:**[Use manage contract repository agentic workflow in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/manage-contract-repository-workflow.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[operations-workspace|License operations view]]
-- [[sam-workspace|Software Asset Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [Standard currency fields, Explore, Currency administration, Configu
 
 # Locale settings
 
-There are two locale settings, system and user. The system locale determines the [[reference-email-admin|reference]] currency, and the user locale determines the session currency.
+There are two locale settings, system and user. The system locale determines the reference currency, and the user locale determines the session currency.
 
 ## System locale
 
@@ -25,7 +25,7 @@ You set the system locale using the **glide.system.locale** property. The value 
 
 Internally, this value is used as specified by Java. The system locale setting should be in the [Java supported locales](http://www.oracle.com/technetwork/java/javase/javase7locales-334809.html) list. Set the system locale once after a fresh zBoot, because reference currency values that appear in currency fields are in the currency implied by the system locale. To set this property, see [Control default currency field configuration and use in an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/currency-properties.md).
 
-**Note:** Do not change the system locale after currency values have been entered into the instance. When you change the system locale, the reference currency values are not adjusted. There is no rate conversion. This persistence [[hs-results|results]] in invalid aggregations and filtering.
+**Note:** Do not change the system locale after currency values have been entered into the instance. When you change the system locale, the reference currency values are not adjusted. There is no rate conversion. This persistence results in invalid aggregations and filtering.
 
 ## User locale
 
@@ -39,7 +39,3 @@ Amounts in currency fields are composed of a currency code and amount. Amounts a
 
 **Parent Topic:**[Standard currency fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/configure-and-use-default-currency-fields.md)
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]

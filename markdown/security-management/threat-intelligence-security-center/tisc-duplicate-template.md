@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Threat Intelligence Security Center** &gt; **** &gt; **Administration**.
 
 2.  Select **Reports** &gt; **Report Template**.
 
@@ -36,6 +36,4 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** You can also delete report templates you no longer need and create templates.
 
-## Related
 
-- [[tisc-landing-page|Threat Intelligence Security Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Create averages for product life cycles in workspace
 
-Create averages to calculate software End of Life \(EOL\) and End of Support \(EOS\) life cycles in the [[sam-workspace|Software Asset Workspace]].
+Create averages to calculate software End of Life \(EOL\) and End of Support \(EOS\) life cycles in the Software Asset Workspace.
 
 ## Before you begin
 
@@ -117,6 +117,3 @@ Indicates that the life cycle average record will be used for creating software 
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

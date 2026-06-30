@@ -16,11 +16,11 @@ Quote Self-Service \(com.sn\_quote\_self\_service\) enables channel partners to 
 
 ## About Quote Self-Service for PRM
 
-Quote Self-Service enables channel partners to create and manage quotes directly in the [[partner-relationship-management-reference|Partner portal]]through a guided quote creation playbook, catalog browsing, and line item management.
+Quote Self-Service enables channel partners to create and manage quotes directly in the [Partner portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)through a guided quote creation playbook, catalog browsing, and line item management.
 
 Quotes and quote line items help channel partners track products associated with submitted quotes, reducing turnaround time and promoting transparency between enterprises and partners.
 
-**Note:** The Quote Self-service application is installed along with [[quote-management|Quote Management]] for Channel Partners.
+**Note:** The Quote Self-service application is installed along with Quote Management for Channel Partners.
 
 ## Key benefits of Quote creation via Self-Service
 
@@ -28,20 +28,13 @@ The Quote Self-Service application \(com.sn\_quote\_self\_service\) offers the f
 
 -   Guided quote creation playbook in the Partner portal.
 -   Self-service catalog browsing, product configuration, and quote building reduces quote turnaround time from days to minutes.
--   Partners can [[Modify|modify]] quotes directly in the portal to edit, revise, apply discounts, and download without requesting changes through internal teams.
+-   Partners can modify quotes directly in the portal to edit, revise, apply discounts, and download without requesting changes through internal teams.
 -   Full audit trail and version history for all quote activities promotes trust and transparency in the partner ecosystem.
 
-**Parent Topic:**[[install-quote-management-for-channel-partners|Install Quote Management for Channel Partners]]
+**Parent Topic:**[Install Quote Management for Channel Partners](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/install-quote-management-for-channel-partners.md)
 
 **Related topics**  
 
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]
-- [[install-quote-management-for-channel-partners|Install Quote Management for Channel Partners]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[quote-management|Quote Management]]
-- [[Modify|Modify]]

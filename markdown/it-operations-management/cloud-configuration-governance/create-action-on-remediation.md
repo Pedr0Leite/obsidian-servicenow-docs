@@ -14,7 +14,7 @@ breadcrumb: [Create a cloud policy, Policies for Cloud Provisioning, Cloud Admin
 
 # Create an action for an 'on Task Remediation' policy
 
-The on Task [[ccg-remediation|remediation]] trigger fires when a user resubmits a failed request. A policy that is triggered by the on Task Remediation trigger can start approval subflows.
+The on Task remediation trigger fires when a user resubmits a failed request. A policy that is triggered by the on Task Remediation trigger can start approval subflows.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The on Task [[ccg-remediation|remediation]] trigger fires when a user resubmits 
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and set the policy to the **Draft** state if needed.
 
@@ -84,8 +84,3 @@ Select one or more users to whom the approval action applies. All selected users
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ccg-remediation|Remediation]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

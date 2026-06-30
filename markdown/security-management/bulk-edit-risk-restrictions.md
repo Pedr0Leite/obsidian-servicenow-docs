@@ -13,7 +13,7 @@ breadcrumb: [Using bulk edit in the Security Exposure Management Workspace, Bulk
 
 # Bulk edit risk reduction restrictions
 
-Risk reduction in the Bulk Edit dialog is restricted in specific scenarios based on the [[vulnerabilities|vulnerabilities]] mapped to the selected items and the vulnerability configuration.
+Risk reduction in the Bulk Edit dialog is restricted in specific scenarios based on the vulnerabilities mapped to the selected items and the vulnerability configuration.
 
 ## Selection and configuration restrictions
 
@@ -24,13 +24,7 @@ Risk reduction in the Bulk Edit dialog is restricted in specific scenarios based
 
 ## Application support
 
-[[bulk-edit-risk-reduction|Bulk edit risk reduction]] is supported in the host vulnerability and CVE-based vulnerable items applications. It is not supported in the [[vr-config-compliance-landing|Configuration Compliance]] application.
+Bulk edit risk reduction is supported in the host vulnerability and CVE-based vulnerable items applications. It is not supported in the Configuration Compliance application.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[bulk-edit-risk-reduction|Bulk edit risk reduction]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

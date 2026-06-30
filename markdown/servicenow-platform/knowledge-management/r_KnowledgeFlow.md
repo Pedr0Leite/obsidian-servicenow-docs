@@ -36,7 +36,7 @@ Knowledge - Approval Publish
 
 </td><td>
 
-Requests approval from a manager of the knowledge base. Articles in approval are In Review state before moving to Published state once approved or to Scheduled for publish if set to publish later. If the manager rejects the request, the workflow is canceled and the article remains in Draft state. If [[enable-ownership-group|ownership groups]] is enabled, [[email|email]] notifications with a link to the article are sent to the ownership group members for approval.
+Requests approval from a manager of the knowledge base. Articles in approval are In Review state before moving to Published state once approved or to Scheduled for publish if set to publish later. If the manager rejects the request, the workflow is canceled and the article remains in Draft state. If ownership groups is enabled, email notifications with a link to the article are sent to the ownership group members for approval.
 
  If ownership groups is not enabled, email notifications with a link to the article are sent to knowledge base managers for approval.
 
@@ -94,7 +94,3 @@ Action that can be used to retire the knowledge article.
 -   Only administrators and knowledge administrators can view the retired knowledge articles. To reuse a retired article, administrators and knowledge administrators can republish the article. For more information, see [Republish a retired article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/republish-retired-article.md).
 -   An article and its translations have a parent-child relationship. Retiring a parent article does not automatically retire all its translated child articles.
 
-## Related
-
-- [[enable-ownership-group|Ownership groups]]
-- [[email|Email]]

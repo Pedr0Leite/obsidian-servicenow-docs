@@ -14,7 +14,7 @@ breadcrumb: [Hermes Messaging Service, Manage service capabilities, Extend Servi
 
 # Administering Hermes Messaging Service
 
-Monitor the [[hermes-messaging-service|Hermes Messaging Service]] by viewing diagnostics and inspecting topics.
+Monitor the Hermes Messaging Service by viewing diagnostics and inspecting topics.
 
 -   **[Managing Hermes settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/manage-hermes-settings.md)**  
 View, modify, and manage configuration properties that control the behavior of Hermes Messaging Service. You can update property values, manage background job states, or adjust settings where automated detection is unavailable.
@@ -29,9 +29,5 @@ To clone your database from one instance to another successfully with Hermes ena
 -   **[View Hermes Messaging Service log messages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/view-hermes-log-messages.md)**  
 Review Hermes event details by viewing log messages.
 
-**Parent Topic:**[[manage-services|Manage service capabilities]]
+**Parent Topic:**[Manage service capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
-## Related
-
-- [[manage-services|Manage service capabilities]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

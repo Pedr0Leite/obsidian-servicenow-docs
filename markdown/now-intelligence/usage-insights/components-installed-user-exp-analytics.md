@@ -14,7 +14,7 @@ breadcrumb: [Usage Insights reference, Usage Insights, Platform Analytics]
 
 # Roles installed with Usage Insights
 
-Several roles are installed to distinguish the activities different users can perform within [[user-exp-analytics-landing|Usage Insights]].
+Several roles are installed to distinguish the activities different users can perform within Usage Insights.
 
 Usage Insights uses these roles.
 
@@ -35,6 +35,3 @@ View Usage Insights in the application navigator. Assigned users have viewer rol
 
 **Parent Topic:**[Usage Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-experience-analytics-reference.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]

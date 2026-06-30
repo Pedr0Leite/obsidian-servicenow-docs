@@ -43,7 +43,7 @@ Each ServiceNow app displays a navigation bar along the bottom of the screen. Th
 
  Your administrator selects which tabs appear in the navigation bar, and the order in which they appear. If a navigation bar has six or more icons, a **More** \(\[Omitted image "more-icon.png"\] Alt text: More icon.\) tab displays. Tap the **More** tab to see the additional tabs in a list format.
 
- For information on navigation bar configuration, see [[sg-mobile-tab-bar|Navigation bar]].
+ For information on navigation bar configuration, see [Navigation bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-tab-bar.md).
 
 </td></tr></tbody>
 </table>## Launcher screens
@@ -54,26 +54,26 @@ Launcher screens serve as a landing page or a home page. Using a launcher screen
 
  -   **Header**
 
-The header of the launcher screen defines how the title of the screen appears and what information is shown in the header. For more details on configuring headers, see [[create-alp-header|Configure a launcher screen header]].
+The header of the launcher screen defines how the title of the screen appears and what information is shown in the header. For more details on configuring headers, see [Configure a launcher screen header](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-alp-header.md).
 
 -   **Search**
 
-Use global search to search through defined search sources configured on your instance. For more details, see [[mobile-search-config|Global search for mobile]].
+Use global search to search through defined search sources configured on your instance. For more details, see [Global search for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-search-config.md).
 
 -   **UI sections**
 
-UI sections appear as containers within launcher screens. Within sections, you can see other screens, analytics previews, record information, and more. For more details on these sections, see [[alp-ui-sections|Launcher screen UI sections]].
+UI sections appear as containers within launcher screens. Within sections, you can see other screens, analytics previews, record information, and more. For more details on these sections, see [Launcher screen UI sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/alp-ui-sections.md).
 
 -   **Quick Actions**
 
-Quick actions are a way to access commonly used functions, such as transferring records or using a template in the mobile app. For more details on quick actions, see [[sg-config-quick-actions|Quick actions]].
+Quick actions are a way to access commonly used functions, such as transferring records or using a template in the mobile app. For more details on quick actions, see [Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-quick-actions.md).
 
 
- For more information on launcher screens configuration, see [[sg-mobile-applet-launcher|Launcher screens]].
+ For more information on launcher screens configuration, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md).
 
 </td><td>
 
-\[Omitted image "applet-launcher-generic.png"\] Alt text: Application launcher in the [[mobile-experience|Mobile Agent app]].
+\[Omitted image "applet-launcher-generic.png"\] Alt text: Application launcher in the Mobile Agent app.
 
 </td></tr></tbody>
 </table>## Settings
@@ -92,32 +92,32 @@ The header displays the name of the logged-in user and last login time and date.
 
 -   **Instance**
 
-Tap to view the ServiceNow instance you're currently using, and the instances that are available to you. For more information, see [[instances-concept|Working with mobile accounts]].
+Tap to view the ServiceNow instance you're currently using, and the instances that are available to you. For more information, see [Working with mobile accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/instances-concept.md).
 
 -   **Location tracking**
 
 Option to enable location tracking. Location tracking keeps a record of your location either for a defined period or while performing actions.
 
-For more information, see [[mobile-location|Using location tracking for mobile]]. For information on location tracking configuration, see [[mobile-location-tracking|Location tracking for mobile]].
+For more information, see [Using location tracking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-location.md). For information on location tracking configuration, see [Location tracking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-location-tracking.md).
 
 -   **Offline**
 
 Tap to open the offline mode page. Here you can select to work offline and to download the cache.
 
-For more information about working in offline, see [[offline-end-user|Offline mode for mobile]]. For information about offline configuration, see [[mobile-offline-mode|Offline mode]].
+For more information about working in offline, see [Offline mode for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-end-user.md). For information about offline configuration, see [Offline mode](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-offline-mode.md).
 
 -   **Preferences**
 
-Tap to list additional settings. For example, languages, enable [[sg-mobile-security-push-notif|push notifications]], themes, analytics, and banners.
+Tap to list additional settings. For example, languages, enable push notifications, themes, analytics, and banners.
 
-    -   Language: Tap to display the Language page, where you can select a language for your ServiceNow mobile app. For more information, see [[display-language|Languages on your mobile device]].
-    -   Notification: Option to enable push notifications on your mobile device. For more information, see [[notification-preference-settings|Enable notification settings for mobile]].
-    -   Security: Tap to display the option to set up an app PIN. For more information, see [[mobile-app-pin-settings|App PIN settings for mobile]].
-    -   Theme: Option to enable the dark theme or the default theme on your mobile app. For more information. see [[enable-dark-theme|Enable dark theme]].
+    -   Language: Tap to display the Language page, where you can select a language for your ServiceNow mobile app. For more information, see [Languages on your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/display-language.md).
+    -   Notification: Option to enable push notifications on your mobile device. For more information, see [Enable notification settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/notification-preference-settings.md).
+    -   Security: Tap to display the option to set up an app PIN. For more information, see [App PIN settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-app-pin-settings.md).
+    -   Theme: Option to enable the dark theme or the default theme on your mobile app. For more information. see [Enable dark theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/enable-dark-theme.md).
     -   Start my week: Option to select which day to allocate as the start of your week.
-    -   Analytics: Enable analytics tracking for your mobile app journey. For more information about analytics settings, see [[mobile-analytics-settings|Analytics settings for mobile]].
-    -   Banners: Tap to open the Banners page. Within the page, select the number of seconds a banner displays. You can also select whether to group multiple messages. For more information, see [[banner-display|Define notification banner display time]].
-    -   Chart accessibility: Select whether to display data analytics views in color or black and white patterns. For more information, see [[accessibility-chart-view|Change mobile analytics views for accessibility]].
+    -   Analytics: Enable analytics tracking for your mobile app journey. For more information about analytics settings, see [Analytics settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-analytics-settings.md).
+    -   Banners: Tap to open the Banners page. Within the page, select the number of seconds a banner displays. You can also select whether to group multiple messages. For more information, see [Define notification banner display time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/banner-display.md).
+    -   Chart accessibility: Select whether to display data analytics views in color or black and white patterns. For more information, see [Change mobile analytics views for accessibility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/accessibility-chart-view.md).
     -   Swipe from edge: For Android devices that have the option to swipe a screen from the side of the device.
 -   **Legal**
 
@@ -125,7 +125,7 @@ Tap to view the apps legal disclosures and privacy policy.
 
 -   **Give feedback**
 
-Tap to provide feedback on your ServiceNow mobile app experience. For more information, see [[feedback-mobile-app|Mobile app feedback]].
+Tap to provide feedback on your ServiceNow mobile app experience. For more information, see [Mobile app feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/feedback-mobile-app.md).
 
 -   **Version**
 
@@ -149,9 +149,9 @@ The notifications page is accessed from the **Notifications** tab on the navigat
 
  You can mark all notifications as read or delete all notifications by tapping on the more menu \(\[Omitted image "IconAppMenuAndroid.png"\] Alt text: More icon.\) and selecting the appropriate option.
 
- For more information on notifications, see [[mobile-notifications|Mobile notifications]], [[mobile-alerts-using|Handling mobile alerts]], and [[critical-alert-enable|Enabling critical alerts]].
+ For more information on notifications, see [Mobile notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-notifications.md), [Handling mobile alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-alerts-using.md), and [Enabling critical alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/critical-alert-enable.md).
 
- For information on mobile notification configuration, see [[sg-mobile-push-notifications|Mobile push notifications]].
+ For information on mobile notification configuration, see [Mobile push notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-push-notifications.md).
 
 </td><td>
 
@@ -172,19 +172,19 @@ Screens within your mobile apps are designed for specific tasks. The template ma
 
 -   **Embedded screens**
 
-    Within a [[form-screen|record screen]], you might see one or many embedded screens. An embedded screen could be a details screen, an activity stream screen, a related [[list-screen|list screen]], or an embedded list screen.
+    Within a record screen, you might see one or many embedded screens. An embedded screen could be a details screen, an activity stream screen, a related list screen, or an embedded list screen.
 
 -   **Functions**
 
     Screens can be associated with one or more functions. Access these functions through the top menu or swipe actions. Use functions to perform tasks relating to the current record, or navigate to another screens, launcher screens, or external resources.
 
 
-For more information on screens and how to configure them, see [[sg-mobile-applet|Mobile screen types]].
+For more information on screens and how to configure them, see [Mobile screen types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet.md).
 
 **Related topics**  
 
 
-[[mobile-hierarchy|Mobile hierarchy]]
+[Mobile hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-hierarchy.md)
 
 [Navigation bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-tab-bar.md)
 
@@ -192,34 +192,3 @@ For more information on screens and how to configure them, see [[sg-mobile-apple
 
 [Mobile screen types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet.md)
 
-## Related
-
-- [[sg-mobile-tab-bar|Navigation bar]]
-- [[create-alp-header|Configure a launcher screen header]]
-- [[mobile-search-config|Global search for mobile]]
-- [[alp-ui-sections|Launcher screen UI sections]]
-- [[sg-config-quick-actions|Quick actions]]
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[instances-concept|Working with mobile accounts]]
-- [[mobile-location|Using location tracking for mobile]]
-- [[mobile-location-tracking|Location tracking for mobile]]
-- [[offline-end-user|Offline mode for mobile]]
-- [[mobile-offline-mode|Offline mode]]
-- [[display-language|Languages on your mobile device]]
-- [[notification-preference-settings|Enable notification settings for mobile]]
-- [[mobile-app-pin-settings|App PIN settings for mobile]]
-- [[enable-dark-theme|Enable dark theme]]
-- [[mobile-analytics-settings|Analytics settings for mobile]]
-- [[banner-display|Define notification banner display time]]
-- [[accessibility-chart-view|Change mobile analytics views for accessibility]]
-- [[feedback-mobile-app|Mobile app feedback]]
-- [[mobile-notifications|Mobile notifications]]
-- [[mobile-alerts-using|Handling mobile alerts]]
-- [[critical-alert-enable|Enabling critical alerts]]
-- [[sg-mobile-push-notifications|Mobile push notifications]]
-- [[sg-mobile-applet|Mobile screen types]]
-- [[mobile-hierarchy|Mobile hierarchy]]
-- [[mobile-experience|Mobile Agent app]]
-- [[sg-mobile-security-push-notif|Push notifications]]
-- [[form-screen|Record screen]]
-- [[list-screen|List screen]]

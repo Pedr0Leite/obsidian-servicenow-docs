@@ -12,7 +12,7 @@ breadcrumb: [Integrating ServiceNow Voice with CSM, Integrating Voice with other
 
 # Install ServiceNow Voice for CSM
 
-You can install the [[cloud-call-center-overview|ServiceNow Voice]] for CSM application \(sn\_cti\_csm\_cnt\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
+You can install the ServiceNow Voice for CSM application \(sn\_cti\_csm\_cnt\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ You can install the [[cloud-call-center-overview|ServiceNow Voice]] for CSM appl
 
             Installs the Customer Service Management application.
 
-        -   **Amazon [[c_Connect|Connect]] Integration with ServiceNow Voice \(sn\_cti\_amzn\_cct\)**
+        -   **Amazon Connect Integration with ServiceNow Voice \(sn\_cti\_amzn\_cct\)**
 
             Integrates the ServiceNow instance with the Amazon Connect server.
 
@@ -37,7 +37,7 @@ The following items are installed with ServiceNow Voice for CSM:
 -   Contact flows
 -   Operation handlers
 
-For more information, see [[instld-with-ccc-csm|Components installed with ServiceNow Voice for CSM]].
+For more information, see [Components installed with ServiceNow Voice for CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/instld-with-ccc-csm.md).
 
 ## Procedure
 
@@ -53,7 +53,7 @@ For more information, see [[instld-with-ccc-csm|Components installed with Servic
 
     Dependent plugins and applications are listed if they will be installed, are currently installed, or need to be installed. If there are any plugins or applications that need to be installed, you must install them before you can install ServiceNow Voice for CSM.
 
-4.  If demo data is available and you want to install it, select the **Load demo data** [[check-box|check box]].
+4.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
     Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
@@ -62,15 +62,7 @@ For more information, see [[instld-with-ccc-csm|Components installed with Servic
 
 ## What to do next
 
-To set up Voice for CSM, see [[ccc-setup|Setting up ServiceNow Voice]]
+To set up Voice for CSM, see [Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
-**Parent Topic:**[[integrating-ccc-csm|Integrating ServiceNow Voice with CSM]]
+**Parent Topic:**[Integrating ServiceNow Voice with CSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integrating-ccc-csm.md)
 
-## Related
-
-- [[instld-with-ccc-csm|Components installed with ServiceNow Voice for CSM]]
-- [[ccc-setup|Setting up ServiceNow Voice]]
-- [[integrating-ccc-csm|Integrating ServiceNow Voice with CSM]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[c_Connect|Connect]]
-- [[check-box|Check box]]

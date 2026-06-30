@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist in CM Pro, Contract Management Pro, Legal and
 
 # Configuring contract analysis
 
-Configure use cases with associated field groups and fields, and map them to clauses and expected responses. Now Assist uses the applicable use case to [[cmpro-analyze-contract-doc|analyze a contract document]] and identify non-standard and missing clauses.
+Configure use cases with associated field groups and fields, and map them to clauses and expected responses. Now Assist uses the applicable use case to analyze a contract document and identify non-standard and missing clauses.
 
 -   **[Create use cases for contract analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-usecase-ca.md)**  
 Create a use case for contract analysis that is used by Now Assist to identify non-standard and missing clauses in a contract document.
@@ -43,6 +43,3 @@ Map a use case to specific tables, and define conditions to apply the use case f
 
 [Post-upgrade steps for Now Assist in Contract Management]()
 
-## Related
-
-- [[cmpro-analyze-contract-doc|Analyze a contract document]]

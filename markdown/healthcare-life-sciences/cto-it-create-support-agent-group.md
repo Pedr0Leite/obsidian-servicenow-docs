@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 # Create a group for all location support agents in Care Team Operations for Healthcare IT
 
-Create a group for location support agents with the sn\_cto\_hcit.loc\_support\_agent role assigned so that users added to this group inherits the collection of roles for [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+Create a group for location support agents with the sn\_cto\_hcit.loc\_support\_agent role assigned so that users added to this group inherits the collection of roles for Care Team Operations for Healthcare IT.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ The location support agent role gives healthcare organization members the abilit
 
 A user group is created for your location support agents to which you can assign your IT fulfillers when doing automated user imports.
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]

@@ -14,7 +14,7 @@ breadcrumb: [Reporting reference, Reporting, Reporting, dashboards, and Performa
 
 # Reporting roles
 
-[[reporting-landing-page|Reporting]] is installed with roles that limit report creation. [[access-control|Access control]] lists \(ACLs\) can also limit report viewing and creation.
+Reporting is installed with roles that limit report creation. Access control lists \(ACLs\) can also limit report viewing and creation.
 
 **Note:**
 
@@ -154,7 +154,3 @@ None.
 
 For more information, see [Administer table and field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/admin-table-field-descriptions.md).
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[access-control|Access control]]

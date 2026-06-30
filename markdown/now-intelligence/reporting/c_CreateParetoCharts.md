@@ -18,7 +18,7 @@ Pareto charts help you identify the most important dimension in a large set of d
 
 Pareto charts contain both bar and line graphs. The bars display the data in descending order from left to right, and the line graph shows the cumulative totals from each category in the same order. The left Y axis is the record count, and the right Y axis is the cumulative percentage of the total number of records evaluated. The blue line at the 80% mark helps determine which data is the most influential in the process. The data to the left of the intersection of the line graph and the 80% mark have the greatest effect on the overall outcome.
 
-**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and [[par-workspace|Platform Analytics experience]] data visualizations are found in the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[explore-data-vis-library|Exploring the Data Visualizations library]].
+**Note:** On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Exploring the Data Visualizations library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/explore-data-vis-library.md).
 
 The figure below shows that five callers account for 80% of the incident calls, while seven account for the other 20%.
 
@@ -38,7 +38,7 @@ Role required: itil, report\_user, report\_group, report\_global, report\_admin,
 
 1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations** and select **New**.
 
-2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]].
+2.  On instances with Unified Analytics enabled, and on new Australia instances, both Core UI reports and Platform Analytics experience data visualizations are found in the Platform Analytics library. Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**. For more information, see [Differences between Core UI and Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/differences-between-core-ui-ne-dbs.md).
 
 3.  On the **Data** tab, give the report a name that reflects the information being grouped.
 
@@ -58,7 +58,7 @@ Also called a report source, a data source is a table with filters applied to pr
 
 </td><td>
 
-The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend [[reporting-landing-page|reporting]], you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
+The raw data from a table with no filters applied. When you select a table, its short description appears below the table name. For trend reporting, you can also select a remote table, which aggregates, in memory, data retrieved from an external source. Then select a **Trend by** field option to aggregate its data. To learn more about remote tables, see Retrieving external data using remote tables and scripts
 
 </td></tr><tr><td id="d136850e304">
 
@@ -166,7 +166,7 @@ Check box to include the Other group in the report. The Other group contains dat
 
     2.  Select the sort plus icon \(\[Omitted image "sort-order-plus-icon.png"\] Alt text: Sort plus icon\) to configure additional sorting order conditions. \(Select the sort minus icon \( \[Omitted image "sort-order-minus-icon.png"\] Alt text: Sort minus icon\) to delete configured sorting order conditions.\)
     3.  Select **Save**.
-    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and [[c_HeatmapCharts|heatmap reports]], sort order is determined by the sequence of the choices in the list.
+    For fields of the type Choice list, sort order is not determined alphabetically based on Label, it is sorted based on the **Value** of the choice field. For multi-level pivot table and heatmap reports, sort order is determined by the sequence of the choices in the list.
 
     \[Omitted image "choice-list-sort-order.png"\] Alt text: Report sorted by priority choice list
 
@@ -174,7 +174,7 @@ Check box to include the Other group in the report. The Other group contains dat
 
     To learn how to construct conditions, see Condition builder.
 
-    **Note:** In aggregated and [[list-reports|list reports]], language-dependent filter conditions may return zero results on localized instances.
+    **Note:** In aggregated and list reports, language-dependent filter conditions may return zero results on localized instances.
 
 10. On the **Style** tab, fill in the fields as appropriate to configure the appearance of the report.
 
@@ -213,8 +213,8 @@ Chart color
 </td><td>
 
 Source of colors used in the report. If you are not stacking the report by a field, you can select one of the following options:-   **Use one color**: Select a single predefined color in the **Chart color field**.
--   **Use color palette**: Select a color palette from the predefined system [[color-palettes|color palettes]].
--   **Use [[c_ChartColors|chart colors]]**: Use the colors defined in **Reports** &gt; **Chart Colors**.
+-   **Use color palette**: Select a color palette from the predefined system color palettes.
+-   **Use chart colors**: Use the colors defined in **Reports** &gt; **Chart Colors**.
 
  If you are stacking the report, select one of the following options:
 
@@ -461,15 +461,3 @@ Enable this option to show the labels of the report in a bold typeface.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[explore-data-vis-library|Exploring the Data Visualizations library]]
-- [[differences-between-core-ui-ne-dbs|Differences between Core UI and Platform Analytics dashboards]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[reporting-landing-page|Reporting]]
-- [[c_HeatmapCharts|Heatmap reports]]
-- [[list-reports|List reports]]
-- [[color-palettes|Color palettes]]
-- [[c_ChartColors|Chart colors]]

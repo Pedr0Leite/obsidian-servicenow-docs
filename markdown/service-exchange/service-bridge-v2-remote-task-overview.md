@@ -27,15 +27,11 @@ Remote tasks enable you to assign and synchronize the task's data on separate in
 
 As a provider, you must first create and publish the remote task definitions that your consumers can use for creating a remote task. You entitle these definitions to your consumers who can adjust the mappings and field data rules or simply activate the definition. Your consumers can apply a trigger on the definition or manually create a remote task for you, the provider, based on an active definition.
 
-For more information, see [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]].
+For more information, see [Create a remote task definition in Service Exchange for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-create-remote-tasks-defs.md).
 
 The remote task feature includes a Remote Task table, which is an extension of the Task table in the ServiceNow AI Platform. With remote tasks, you can enable bidirectional linking of workflows between multiple ServiceNow instances.
 
-**Note:** When data, such as an attachment or task, is shared with another instance through [[tmt-service-bridge-both-landing-page|Service Exchange]], it becomes part of that instance’s data. Service Exchange does not delete data on remote instances; the receiving instance must handle the deletion if required.
+**Note:** When data, such as an attachment or task, is shared with another instance through Service Exchange, it becomes part of that instance’s data. Service Exchange does not delete data on remote instances; the receiving instance must handle the deletion if required.
 
 For example, an incident on a consumer instance must be assigned to a provider's instance as a case. The Remote Task record in each instance facilitates the bidirectional flow of the task's data between the case and the incident.
 
-## Related
-
-- [[service-bridge-v2-create-remote-tasks-defs|Create a remote task definition in Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

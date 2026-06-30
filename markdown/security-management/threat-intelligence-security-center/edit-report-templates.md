@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 
 2.  Select **Reports** &gt; **Report Template**.
 
@@ -46,10 +46,6 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:**
 
-    -   You can also [[preview-status-reports|preview the report template]] contents before publishing the report template.
+    -   You can also preview the report template contents before publishing the report template.
     -   If you want to delete the report template, you can select **Delete** to delete the report template.
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[preview-status-reports|Preview the Report Template]]

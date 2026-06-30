@@ -14,7 +14,7 @@ breadcrumb: [Commercial Lines Claims, Exploring insurance claims applications, I
 
 # Install Commercial Lines Claims
 
-If you have the admin role, you can install the [[commercial-lines-claims-landing-page|Commercial Lines Claims]] application \(sn\_ins\_claim\_cml\).The application installs related ServiceNow Store applications and plugins if they aren’t already installed.
+If you have the admin role, you can install the Commercial Lines Claims application \(sn\_ins\_claim\_cml\).The application installs related ServiceNow Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ For more information, see [Components installed with Commercial Lines Claims](ht
 
 6.  Select **Install**.
 
-## Related
 
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]

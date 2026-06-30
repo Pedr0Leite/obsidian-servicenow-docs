@@ -12,9 +12,9 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 # Setting up Scheduling in Workforce Optimization for Customer Service
 
-Manage events using the team calendar. Create different types of event categories. Use scripted extension [[gamification-components-points|points]] to customize event types.
+Manage events using the team calendar. Create different types of event categories. Use scripted extension points to customize event types.
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
 ## Configure event categories for Manager Workspace
 
@@ -34,7 +34,7 @@ The following event category configurations are available by default:
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[configurable-wfo-cs|Workforce Optimization for Customer Service]]** &gt; **Scheduling** &gt; **Event Categories**.
+1.  Navigate to **All** &gt; **Workforce Optimization for Customer Service** &gt; **Scheduling** &gt; **Event Categories**.
 
 2.  In the **Event Categories** list, select **New**.
 
@@ -207,11 +207,11 @@ The threshold settings for adherence and conformance indicate how many minutes e
 **Related topics**  
 
 
-[Scheduling in Workforce [[optimization|Optimization]] for Customer Service]()
+[Scheduling in Workforce Optimization for Customer Service]()
 
-[[view-schedule-adherence-configurable-wfo|Monitor schedule adherence of your agents]]
+[Monitor schedule adherence of your agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-schedule-adherence-configurable-wfo.md)
 
-[[analyze-time-worked-summary-configurable-wfo-cs|Analyze adherence and conformance from the time worked summary]]
+[Analyze adherence and conformance from the time worked summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analyze-time-worked-summary-configurable-wfo-cs.md)
 
 ## Modify schedule adherence and conformance formulas by using extension points
 
@@ -273,11 +273,3 @@ You can use extension points to create events such as meeting, training, and tim
 
 [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 
-## Related
-
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[view-schedule-adherence-configurable-wfo|Monitor schedule adherence of your agents]]
-- [[analyze-time-worked-summary-configurable-wfo-cs|Analyze adherence and conformance from the time worked summary]]
-- [[gamification-components-points|Points]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[optimization|Optimization]]

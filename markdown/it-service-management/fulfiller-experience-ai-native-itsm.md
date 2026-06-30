@@ -12,13 +12,13 @@ breadcrumb: [Simplified IT Service Management, IT Service Management]
 
 # Fulfiller experience in Simplified IT Service Management
 
-The Simplified IT Service Management fulfiller experience consists of simplified incident and [[c_RequestManagement|request management]] with AI recommendations.
+The Simplified IT Service Management fulfiller experience consists of simplified incident and request management with AI recommendations.
 
 ## Fulfiller experience key features
 
 These are the fulfiller experience key features with Simplified IT Service Management.
 
--   Automatically [[create-an-incident|create an incident]] or request from a chat.
+-   Automatically create an incident or request from a chat.
 -   Provide incident and chat summaries and suggest next steps.
 -   Generate recommendations, resolution notes, summaries, and email responses.
 -   Attach knowledge articles, link similar incidents, and order catalog items.
@@ -27,7 +27,7 @@ These are the fulfiller experience key features with Simplified IT Service Manag
 
 ## Simplified IT Service Management landing page
 
-You can access the Simplified IT Service Management [[dex-workspace-dashboard-tab|landing page]] from Service Operations Workspace.
+You can access the Simplified IT Service Management landing page from Service Operations Workspace.
 
 The Simplified ITSM landing page contains these main metrics.
 
@@ -39,22 +39,12 @@ Also included are the Incidents, Requests, and Catalog Tasks lists.
 
 \[Omitted image "home-ai-native-itsm.png"\] Alt text: AI native home landing page.
 
--   **[[accept-chat-ai-native-itsm|Accept a live chat from a requester]]**  
+-   **[Accept a live chat from a requester](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/accept-chat-ai-native-itsm.md)**  
 Automatically create an incident by accepting a live chat or phone call from a requester.
--   **[[generating-ai-native-itsm|Generating AI summary and next steps]]**  
+-   **[Generating AI summary and next steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/generating-ai-native-itsm.md)**  
 You can generate AI summary, key actions taken, proposed next steps, and related search results directly on the incident form to help resolve the incident, and also summarize the incident to gain an overall understanding of the incident details.
--   **[[using-now-assist-ai-native-itsm|Using the Service Desk Team Dashboard]]**  
-Service desk managers can use the Service Desk Team Dashboard to view key [[perf-metrics-mob|performance metrics]], including incident and requested item backlog, and team MTTR.
+-   **[Using the Service Desk Team Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/using-now-assist-ai-native-itsm.md)**  
+Service desk managers can use the Service Desk Team Dashboard to view key performance metrics, including incident and requested item backlog, and team MTTR.
 
-**Parent Topic:**[[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
+**Parent Topic:**[Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/ai-native-it-service-desk-landing-page.md)
 
-## Related
-
-- [[accept-chat-ai-native-itsm|Accept a live chat from a requester]]
-- [[generating-ai-native-itsm|Generating AI summary and next steps]]
-- [[using-now-assist-ai-native-itsm|Using the Service Desk Team Dashboard]]
-- [[ai-native-it-service-desk-landing-page|Simplified IT Service Management]]
-- [[c_RequestManagement|Request Management]]
-- [[create-an-incident|Create an incident]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[perf-metrics-mob|Performance metrics]]

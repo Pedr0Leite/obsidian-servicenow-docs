@@ -12,9 +12,9 @@ breadcrumb: [Monitor System Events and Scheduled Jobs dashboard, Maintain and mo
 
 # Understand your Scheduled Jobs dashboard
 
-Visit scheduler dashboard to learn about key health [[c_MetricDefinitionSupport|metrics]] and insights of [[c_ScheduledJobs|scheduled jobs]].
+Visit scheduler dashboard to learn about key health metrics and insights of scheduled jobs.
 
-Navigate to **All** &gt; **[[sys-diag|System Diagnostics]]** &gt; **Scheduled Jobs Dashboard**.
+Navigate to **All** &gt; **System Diagnostics** &gt; **Scheduled Jobs Dashboard**.
 
 \[Omitted image "scheduled-jobs-dashboard.png"\] Alt text: Scheduled jobs dashboard.
 
@@ -159,9 +159,3 @@ Total time needed to process the jobs.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[sys-diag|System Diagnostics]]

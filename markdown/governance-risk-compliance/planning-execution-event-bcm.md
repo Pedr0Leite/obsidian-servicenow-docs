@@ -12,7 +12,7 @@ breadcrumb: [Structured workflows for Exercise and Crisis Management, Using BCM 
 
 # Data flow, planning, and execution in an event
 
-When the configuration item data is available on the ServiceNow AI Platform the same items can be used to assess dependencies in [[bia-uib|business impact analysis]] \(BIA\). The dependencies from the BIA can then be used in the planning and events. The configuration items \(CIs\) can be added manually to the plans and events as well.
+When the configuration item data is available on the ServiceNow AI Platform the same items can be used to assess dependencies in business impact analysis \(BIA\). The dependencies from the BIA can then be used in the planning and events. The configuration items \(CIs\) can be added manually to the plans and events as well.
 
 You can also add new plans with assets to be recovered in a sequence.
 
@@ -38,7 +38,7 @@ When a record in created in ServiceNow AI Platform as a configuration item in CM
 
     When you are in the planning stage, if you have scoped the BIA-dependent item and added it as the scope, then the dependencies of the scoped item are available as Related Assets. Also, the plans existing for these assets are available as Related Plans. In addition, you can add new plans also. For example, a plan is created for Data Center: NYC, along with which the related plans of the related assets such as SAP on-premise application and Facility: New York \(created in BIA\) also move in to the planning phase automatically. In addition to the items that came from the BIA, you can also add new assets manually to the plan.
 
-    In the **Recovery Tasks** tab of a plan, you can also [[bcp-recovery-tasks-grid|refer to a different plan]] and select the plan from the list of related plans.
+    In the **Recovery Tasks** tab of a plan, you can also [refer to a different plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-recovery-tasks-grid.md) and select the plan from the list of related plans.
 
 -   **Exercise**
 
@@ -63,7 +63,3 @@ Navigate to the **Event Tasks** tab to track the execution of the event tasks of
 
 For a primary main plan, if there are related referred plans within, then the application executes only the referred sub-plan but does not execute any other related plan that the sub-plan might have. The hierarchy of execution stops with the first level only if there are sub-plans.
 
-## Related
-
-- [[bcp-recovery-tasks-grid|Create, update, and group recovery tasks]]
-- [[bia-uib|Business impact analysis]]

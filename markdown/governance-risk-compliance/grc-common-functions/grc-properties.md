@@ -18,7 +18,7 @@ The following are the common GRC properties under Policy and Compliance and Risk
 
 ## Common GRC properties
 
-Navigate to **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **GRC Properties**. Alternatively, you can navigate to **Risk** &gt; **Administration** &gt; **GRC Properties**.
+Navigate to **Policy and Compliance** &gt; **Administration** &gt; **GRC Properties**. Alternatively, you can navigate to **Risk** &gt; **Administration** &gt; **GRC Properties**.
 
 <table id="table_dhr_rjk_3jb"><thead><tr><th>
 
@@ -128,7 +128,7 @@ Issue assignee suggestion based on. sn\_grc\_pred\_intel.issue\_assignee\_sugges
 
 </td><td>
 
-If this property is set to “None” the Suggest icon wouldn’t be available beside the Assigned To field on the [[issue-form|issue form]]. If it is set to “Similarity Analysis” then the suggest icon would be available and the assignment predictions would happen based on the similarity solution definition name provided in the property " Machine learning solution for prediction of issue assignees”, when the user clicks the suggest icon.
+If this property is set to “None” the Suggest icon wouldn’t be available beside the Assigned To field on the issue form. If it is set to “Similarity Analysis” then the suggest icon would be available and the assignment predictions would happen based on the similarity solution definition name provided in the property " Machine learning solution for prediction of issue assignees”, when the user clicks the suggest icon.
 
 </td></tr><tr><td>
 
@@ -221,14 +221,8 @@ Navigate to **All** &gt; **Composite Entities** &gt; **Properties**.
 
 |Property|Description|
 |--------|-----------|
-|Separator used to auto-generate the name of composite entity and composite [[entity-class-in-risk-ws|entity classes]] \[sn\_grc\_comp\_ent.name\_separator\]|Property to specify the separator that is used for the composite entity and composite [[entity-class|entity class]] name.|
+|Separator used to auto-generate the name of composite entity and composite entity classes \[sn\_grc\_comp\_ent.name\_separator\]|Property to specify the separator that is used for the composite entity and composite entity class name.|
 |Maximum number of entities that can be rendered inside the content tree \[sn\_grc\_comp\_ent.max\_content\_tree\_entity\_count\]|Property to define the maximum number of entities displayed in the content tree during an entity search.|
 
 **Parent Topic:**[Governance, Risk, and Compliance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-reference.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[issue-form|Issue form]]
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-class|entity class]]

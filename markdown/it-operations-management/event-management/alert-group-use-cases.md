@@ -14,7 +14,7 @@ breadcrumb: [Alert grouping, Configuring Event Management, Event Management, ITO
 
 # Alert grouping and use cases
 
-[[c_ServiceAnalyticsOverview|Alert grouping]] methods range from user-defined approaches, like Manual and Rule-based to advanced, fine-tunable algorithms, including Automatic, Mixed, Text-based, Log Analytics, and Network Traffic-based grouping.
+Alert grouping methods range from user-defined approaches, like Manual and Rule-based to advanced, fine-tunable algorithms, including Automatic, Mixed, Text-based, Log Analytics, and Network Traffic-based grouping.
 
 <table id="table_dwb_r55_hcc"><thead><tr><th>
 
@@ -40,7 +40,7 @@ Alerts are grouped based on the analysis of log data. This involves correlating 
 
 An online gaming company enhances server stability by implementing proactive log analytics. They monitor logs from game servers in real-time and use analysis tools to detect patterns of errors that occur before crashes.
 
- For instance, the analysis reveals that certain error patterns appear about 30 minutes prior to server crashes. By setting up automated alerts for these patterns, the company can initiate [[ccg-remediation|remediation]] actions, such as restarting services or reallocating resources, before a crash occurs. This proactive approach prevents disruptions, minimizes downtime, and improves the gaming experience by addressing issues before they impact players.
+ For instance, the analysis reveals that certain error patterns appear about 30 minutes prior to server crashes. By setting up automated alerts for these patterns, the company can initiate remediation actions, such as restarting services or reallocating resources, before a crash occurs. This proactive approach prevents disruptions, minimizes downtime, and improves the gaming experience by addressing issues before they impact players.
 
 </td></tr><tr><td>
 
@@ -52,7 +52,7 @@ Alerts are grouped according to predefined rules and criteria set by users. Thes
 
 </td><td>
 
-In a data center managing an e-commerce website, [[c_EMEventCorrelationRules|rule-based alert grouping]] helps handle high traffic during events like flash sales. Alerts about server issues, such as high CPU usage, are designated as parent alerts. These parent alerts are linked to child alerts that report related problems, like slow database queries.
+In a data center managing an e-commerce website, rule-based alert grouping helps handle high traffic during events like flash sales. Alerts about server issues, such as high CPU usage, are designated as parent alerts. These parent alerts are linked to child alerts that report related problems, like slow database queries.
 
  The rules ensure that server-related alerts are grouped with their symptoms, allowing the IT team to quickly identify and address server overload issues. This approach improves issue resolution efficiency and minimizes downtime.
 
@@ -64,7 +64,7 @@ Automated Grouping
 
 Advanced algorithms automatically identify and group related alerts based on patterns and similarities in the alert data. This method leverages machine learning and AI to adapt to new and unknown issues, providing proactive alert management.
 
- [[c_EM|Event Management]] groups alerts that are similar, but not necessarily identical, based on the proximity in time of the last event generation. Alerts with the same CI and the same pattern identifier are grouped together.
+ Event Management groups alerts that are similar, but not necessarily identical, based on the proximity in time of the last event generation. Alerts with the same CI and the same pattern identifier are grouped together.
 
  Automatic alert grouping consists of the following components.
 
@@ -104,7 +104,7 @@ Network-traffic based Grouping
 
 </td><td>
 
-Network-traffic-based alert grouping analyzes network connections between processes across hosts to identify related alerts. This method leverages service candidates detected through ML [[c_ServiceMappingOverview|Service Mapping]], ensuring that alerts related to network traffic issues are grouped together for better context and faster alert resolution.
+Network-traffic-based alert grouping analyzes network connections between processes across hosts to identify related alerts. This method leverages service candidates detected through ML Service Mapping, ensuring that alerts related to network traffic issues are grouped together for better context and faster alert resolution.
 
 </td><td>
 
@@ -145,10 +145,3 @@ A system administrator receives multiple alerts about different services failing
 
 For information on scheduled jobs and parameters, refer to [Scheduled jobs and parameters for alert grouping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/alert-grp-jobs-parameters.md). For detailed information on different grouping types, see [Alert grouping types and creation methods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/Alert-Groups.md).
 
-## Related
-
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[ccg-remediation|Remediation]]
-- [[c_EMEventCorrelationRules|Rule-based alert grouping]]
-- [[c_EM|Event Management]]
-- [[c_ServiceMappingOverview|Service Mapping]]

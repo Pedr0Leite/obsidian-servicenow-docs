@@ -14,7 +14,7 @@ breadcrumb: [Portal Banner widget, Configurable Portal widgets, Set up self-serv
 
 # Add and configure the Portal Banner widget
 
-Add a [[portal-banner-widget|Portal Banner widget]] to your portal and modify its appearance and behavior. You can use the Portal Banner widget to display announcements, new product or feature [[migration-form-highlights|highlights]], and important information on the portal page.
+Add a Portal Banner widget to your portal and modify its appearance and behavior. You can use the Portal Banner widget to display announcements, new product or feature highlights, and important information on the portal page.
 
 ## Before you begin
 
@@ -94,17 +94,12 @@ Role required: sp\_admin
         }
         ```
 
-        For more information about each parameter, see [[json-param-search-option-banner-widget|Script parameters for the search option in the Portal Banner widget]].
+        For more information about each parameter, see [Script parameters for the search option in the Portal Banner widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/json-param-search-option-banner-widget.md).
 
     6.  On the Instance form, fill in the fields.
 
-        For a description of the field values, see [[banner-widget-inst-options|Portal Banner widget instance options form]].
+        For a description of the field values, see [Portal Banner widget instance options form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/banner-widget-inst-options.md).
 
     7.  Select **Save**.
 
-## Related
 
-- [[json-param-search-option-banner-widget|Script parameters for the search option in the Portal Banner widget]]
-- [[banner-widget-inst-options|Portal Banner widget instance options form]]
-- [[portal-banner-widget|Portal Banner widget]]
-- [[migration-form-highlights|Highlights]]

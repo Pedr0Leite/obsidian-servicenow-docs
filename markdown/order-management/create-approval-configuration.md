@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management, Configure, price, quote apps, Configu
 
 # Create an approval configuration
 
-Create an approval configuration for a [[order-mgt-overview|Sales Customer Relationship Management]] entity, such as quotes.
+Create an approval configuration for a Sales Customer Relationship Management entity, such as quotes.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_adv\_appr\_mgmt.approval\_rule\_admin or sn\_adv\_appr\_mgmt.
 
 ## About this task
 
-An approval configuration is a container for the workflow elements that you define for a specified entity, such as the conditions that trigger approval workflows for related approval [[rules_101|rules]]. You can also enable certain features for the configuration:
+An approval configuration is a container for the workflow elements that you define for a specified entity, such as the conditions that trigger approval workflows for related approval rules. You can also enable certain features for the configuration:
 
 -   **Allow email consolidation**: Option that consolidates multiple, separate approval request emails for the same approver \(or group\) into a single approval request email, instead of sending multiple individual approval request emails. Consolidated email approval requests are held until the final relevant approval sequence for that approver is ready. The approval engine then routes the consolidated request to the approver \(or group\).
 -   **Escalations**: Enable escalations, which is a mechanism for reassigning an approval request to another approver when the original approver does not take action within a defined time. If you enable this feature, you also define the escalation details in approval rules, such as the escalation assignee and length of time allowed for approval completion before the request is reassigned.
@@ -36,7 +36,7 @@ An approval configuration is a container for the workflow elements that you defi
 
 4.  Select **New**.
 
-    On the Approval Configuration form, fill in the [[fields|fields]] to create a configuration for an entity, such as quotes. For field descriptions, see the [[approval-configuration-form|Approval Configuration form]].
+    On the Approval Configuration form, fill in the fields to create a configuration for an entity, such as quotes. For field descriptions, see the [Approval Configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/approval-configuration-form.md).
 
 5.  Select **Save**.
 
@@ -47,12 +47,5 @@ An approval configuration is a container for the workflow elements that you defi
 
 ## What to do next
 
-[[set-approval-trigger-conditions|Create conditions that trigger approval workflows]]
+[Create conditions that trigger approval workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/set-approval-trigger-conditions.md)
 
-## Related
-
-- [[approval-configuration-form|Approval Configuration form]]
-- [[set-approval-trigger-conditions|Create conditions that trigger approval workflows]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]

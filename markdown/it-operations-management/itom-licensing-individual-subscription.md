@@ -24,10 +24,7 @@ If your organization surpasses the number of purchased subscriptions for an ITOM
 
 \[Omitted image "itom-license-subscr-only-diagram.png"\] Alt text: The diagram shows how the licensing module calculates a la carte subscriptions.
 
-If your organization exceeds the total number of subscription units purchased, the Subscriptions window indicates the relevant a la carte subscription as overdrawn. In the following illustration, [[itom-health-landing-page|ITOM AIOps]] consumed more subscriptions than the amount purchased for it.
+If your organization exceeds the total number of subscription units purchased, the Subscriptions window indicates the relevant a la carte subscription as overdrawn. In the following illustration, ITOM AIOps consumed more subscriptions than the amount purchased for it.
 
 \[Omitted image "itom-license-summary-carte-overdraft.png"\] Alt text: Subscriptions window showing a la carte subscriptions in an overdraft.
 
-## Related
-
-- [[itom-health-landing-page|ITOM AIOps]]

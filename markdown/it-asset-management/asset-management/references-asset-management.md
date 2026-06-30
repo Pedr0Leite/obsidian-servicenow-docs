@@ -14,8 +14,5 @@ breadcrumb: [Asset Management, IT Asset Management]
 
 # Asset Management references
 
-Reference topics provide additional information about the lists and forms that you use to configure and administer [[am-landing-page|Asset Management]].
+Reference topics provide additional information about the lists and forms that you use to configure and administer Asset Management.
 
-## Related
-
-- [[am-landing-page|Asset Management]]

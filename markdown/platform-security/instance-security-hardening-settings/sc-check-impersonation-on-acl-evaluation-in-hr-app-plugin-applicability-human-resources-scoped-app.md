@@ -16,7 +16,7 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 Use the **sn\_hr\_core.impersonateCheck** property to prevent a user from impersonating another user and accessing their HR information.
 
-A secure setting prevents an admin from seeing another user's HR information while using impersonation. An insecure setting for this property allows an admin to impersonate a user and access HR data such as survey results or audit records with the impersonated user's access. Due to the nature of this type of data, such as information which should be available only to the user themselves like [[email|email]], this is not recommended. Setting **sn\_hr\_core.impersonateCheck** to true only allows access to HR information when the user is not impersonating any others.
+A secure setting prevents an admin from seeing another user's HR information while using impersonation. An insecure setting for this property allows an admin to impersonate a user and access HR data such as survey results or audit records with the impersonated user's access. Due to the nature of this type of data, such as information which should be available only to the user themselves like email, this is not recommended. Setting **sn\_hr\_core.impersonateCheck** to true only allows access to HR information when the user is not impersonating any others.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -105,8 +105,3 @@ When this property set to true, it prevents an admin from seeing another user's 
 </td></tr></tbody>
 </table>**Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[email|Email]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

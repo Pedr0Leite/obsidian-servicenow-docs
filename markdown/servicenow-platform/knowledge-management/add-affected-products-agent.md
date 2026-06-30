@@ -26,7 +26,7 @@ Role required: agent\_workspace\_user
 
 ## About this task
 
-This task provides steps to add affected products to a knowledge article in Agent Workspace. You can also add affected products to a knowledge article using the [[knowledge-management|Knowledge Management]] application in the ServiceNow AI Platform interface. For more information, see [Add a related product to a knowledge base or knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_AddRelatedProdToKBOrArticle.md).
+This task provides steps to add affected products to a knowledge article in Agent Workspace. You can also add affected products to a knowledge article using the Knowledge Management application in the ServiceNow AI Platform interface. For more information, see [Add a related product to a knowledge base or knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_AddRelatedProdToKBOrArticle.md).
 
 ## Procedure
 
@@ -50,6 +50,3 @@ This task provides steps to add affected products to a knowledge article in Agen
 
 [Edit a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/edit-article-workspace.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

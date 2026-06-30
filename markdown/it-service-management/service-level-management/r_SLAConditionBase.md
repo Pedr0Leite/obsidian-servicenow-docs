@@ -14,11 +14,11 @@ breadcrumb: [SLA condition rules, Service Level Management reference, Service Le
 
 # SLAConditionBase script
 
-The SLAConditionBase script include implements the default [[r_SLATransitions|SLA transitions]].
+The SLAConditionBase script include implements the default SLA transitions.
 
 The SLAConditionBase script include implements the default SLA condition processing.
 
-To view the script, navigate to **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Administration** &gt; **[[c_SLAConditionRules|SLA Condition Rules]]**, then click on the **SLAConditionBase** entry to view details. The record in the **Class name** field is the script include that defines the condition processing.
+To view the script, navigate to **Service Level Management** &gt; **Administration** &gt; **SLA Condition Rules**, then click on the **SLAConditionBase** entry to view details. The record in the **Class name** field is the script include that defines the condition processing.
 
 **Note:** We recommend you do not modify this script , but use it as an example for creating your own script includes.
 
@@ -28,8 +28,3 @@ The following diagram shows how the transitions work:
 
 **Parent Topic:**[SLA condition rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLAConditionRules.md)
 
-## Related
-
-- [[r_SLATransitions|SLA transitions]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[c_SLAConditionRules|SLA condition rules]]

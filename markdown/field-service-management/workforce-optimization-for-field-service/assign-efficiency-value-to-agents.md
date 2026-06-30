@@ -14,7 +14,7 @@ breadcrumb: [Agent Efficiency, Set up workforce, Configure, Field Service Manage
 
 # Assign an Agent Efficiency value to agents
 
-Assign a [[agent-efficiency|Field Service Agent Efficiency]] criteria and efficiency value to agents to more accurately calculate work duration.
+Assign a Field Service Agent Efficiency criteria and efficiency value to agents to more accurately calculate work duration.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: admin
 
 The Agent Efficiency value is assigned to the agent.
 
-## Related
-
-- [[agent-efficiency|Field Service Agent Efficiency]]

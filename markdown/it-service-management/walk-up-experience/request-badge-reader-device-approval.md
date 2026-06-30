@@ -26,7 +26,7 @@ When you request activation approval, via the Badge Reader record, you initiate 
 
 If there are no people in the approval group, the flow will skip past the approval group requirement, and activate the badge reader. For detailed information about approvals, groups, and adding users to groups, refer to [Approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/r_Approvals.md) [Creating groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ua-creating-groups.md) and [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
 
-**Note:** Badge Reader record required fields are read only when the badge reader device is activated. Badge reader [[dex-workspace-devices-tab|devices]] can be deactivated by de-selecting the **Active** field on the Badge Reader record. Reactivation of a badge reader requires going through the approval process again.
+**Note:** Badge Reader record required fields are read only when the badge reader device is activated. Badge reader devices can be deactivated by de-selecting the **Active** field on the Badge Reader record. Reactivation of a badge reader requires going through the approval process again.
 
 ## Procedure
 
@@ -47,6 +47,3 @@ If there are no people in the approval group, the flow will skip past the approv
 
 **Parent Topic:**[Walk-up Experience Badge Reader Integration setup and configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-badge-read-integ-config.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

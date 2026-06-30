@@ -22,11 +22,11 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[recruitment-workspace-concept|Recruitment workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Recruitment workspace**.
 
 2.  Select the job requisition that you want to view the interviewer's scheduling preferences for.
 
-3.  In the **[[hiring-tab-concept|Hiring]] team** tab, select one or more interviewers to view their scheduling preferences.
+3.  In the **Hiring team** tab, select one or more interviewers to view their scheduling preferences.
 
 4.  Select **View scheduling preferences**.
 
@@ -37,7 +37,3 @@ Role required: sn\_ta\_hiring\_core.recruiter or sn\_ta\_hiring\_core.recruitmen
 
 **Parent Topic:**[Using Interview Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/interview-management/using-interview-mgmnt.md)
 
-## Related
-
-- [[recruitment-workspace-concept|Recruitment workspace]]
-- [[hiring-tab-concept|Hiring]]

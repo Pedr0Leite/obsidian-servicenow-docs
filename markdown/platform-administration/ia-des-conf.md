@@ -12,11 +12,11 @@ breadcrumb: [Reference, Setup Hub, Get started, Administer the ServiceNow AI Pla
 
 # General guidelines
 
-Practice the following general guidelines for an enhanced [[ia-landing|Setup Hub]] experience.
+Practice the following general guidelines for an enhanced Setup Hub experience.
 
 ## Instance specific configurations
 
-The following [[clone-configurations-tab|configurations]] are excluded from the update set and must be re-configured directly on the production instance:
+The following configurations are excluded from the update set and must be re-configured directly on the production instance:
 
 -   Single Sign-On \(SSO\)
 -   LDAP directory integration
@@ -32,7 +32,7 @@ If you encounter an error immediately after uploading the update set XML file, p
 
 ## Preview errors
 
-Preview errors indicate conflicts or unresolved dependencies in the update set. Resolve each error on the Update Set Preview page before you can commit the update set. For each preview problem record, there is an [[app-installation|Available Actions]] dropdown. The following resolution options are available:
+Preview errors indicate conflicts or unresolved dependencies in the update set. Resolve each error on the Update Set Preview page before you can commit the update set. For each preview problem record, there is an Available Actions dropdown. The following resolution options are available:
 
 <table id="table_vh3_trw_p3c"><thead><tr><th>
 
@@ -107,11 +107,5 @@ Shows the local update of the update set version available on the production ins
 Select this option to view the update made to the current update set version on the production instance.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[ia-reference|Setup Hub references]]
+</table>**Parent Topic:**[Setup Hub references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-reference.md)
 
-## Related
-
-- [[ia-reference|Setup Hub references]]
-- [[ia-landing|Setup Hub]]
-- [[clone-configurations-tab|Configurations]]
-- [[app-installation|Available actions]]

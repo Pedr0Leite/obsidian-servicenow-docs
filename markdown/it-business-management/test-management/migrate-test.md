@@ -14,7 +14,7 @@ breadcrumb: [Test Management applications, Strategic Portfolio Management]
 
 # Migration from Test Management 1.0 to Test Management 2.0
 
-Migrate your test data from [[c_TestManagement|Test Management 1.0]] to [[test-management2-landing-page|Test Management 2.0]], and start using Test Management 2.0 for its enhanced testing capabilities and features.
+Migrate your test data from Test Management 1.0 to Test Management 2.0, and start using Test Management 2.0 for its enhanced testing capabilities and features.
 
 Apply the following migration steps on a non-production instance, verify if the migration is completed as intended, and then perform the migration steps on a production instance.
 
@@ -23,7 +23,7 @@ Apply the following migration steps on a non-production instance, verify if the 
 To migrate your test data from Test Management 1.0 to Test Management 2.0, complete the following steps in order:
 
 1.  Activate the required plugins. For more information, see [Migration from Test Management 1.0 to Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/migrate-test.md).
-2.  Convert your [[c_TestSuites|test suites]]. For more information, see [Convert test suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/migrate-test-suites.md).
+2.  Convert your test suites. For more information, see [Convert test suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/migrate-test-suites.md).
 3.  Verify the migrated data on a non-production instance before repeating on production.
 
 ## Activate plugins
@@ -32,11 +32,11 @@ Activate the Test Management 2.0 \(com.snc.test\_management.2.0\) and Test Manag
 
 ## Migrate data
 
-The migration process allows you to move test suites, [[c_TestCases|test cases]], and [[c_Tests|tests]].
+The migration process allows you to move test suites, test cases, and tests.
 
 **Note:**
 
--   [[c_TestPlans|Test plans]] cannot be migrated due to significant change of data model.
+-   Test plans cannot be migrated due to significant change of data model.
 -   Test suites, test cases, and tests that are migrated to Test Management 2.0 will not be removed from Test Management 1.0.
 
 Test cases that are migrated to Test Management 2.0 are converted to test versions in the following manner:
@@ -75,11 +75,3 @@ You have added custom fields to the tables of Test Management 1.0, and want to m
 
 [Convert test suites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/migrate-test-suites.md) with underlying test cases to test sets and tests.
 
-## Related
-
-- [[c_TestManagement|Test Management 1.0]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestSuites|Test suites]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]

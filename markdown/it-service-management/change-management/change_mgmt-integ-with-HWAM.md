@@ -16,7 +16,7 @@ breadcrumb: [Change management integrations, Reference, Change Management, IT Se
 
 The Change Management integration with Hardware Asset Management helps in determining the asset action that must be performed on the configuration item \(CI\) that is associated with a hardware asset. Using this capability, change implementers can quickly update asset records directly from change and the Asset Manager can see current state on all assets that were updated by the change request.
 
-This integration requires the Hardware [[c_AssetManagement|Asset Management]] Professional \(com.sn\_hamp\) plugin.
+This integration requires the Hardware Asset Management Professional \(com.sn\_hamp\) plugin.
 
 **Note:** You must request the activation of the Hardware Asset Management Professional \(com.sn\_hamp\) plugin from the ServiceNow® application store.
 
@@ -38,6 +38,3 @@ For more information, see [Hardware Asset Management](https://raw.githubusercont
 
 **Parent Topic:**[Change management integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-mgmt-integrations.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

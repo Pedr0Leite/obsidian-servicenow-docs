@@ -14,7 +14,7 @@ breadcrumb: [Orchestration activity designer, Classic Orchestration, ServiceNow 
 
 # Orchestration custom activity templates
 
-Orchestration provides customizable activity templates to create and manage custom activities in the [[workflow-editor|Workflow Editor]].
+Orchestration provides customizable activity templates to create and manage custom activities in the Workflow Editor.
 
 You create and update different types of Orchestration activities with the Activity Designer using activity templates for SSH, PowerShell, REST, SOAP, JMS, SFTP, JDBC, JavaScript Probes, and Probes.
 
@@ -27,7 +27,7 @@ Create a custom JDBC activity to automate SQL commands and stored procedure call
 -   **[Create a SOAP web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateASOAPWebServiceActivity.md)**  
 Use this template to create a custom SOAP activity.
 -   **[Create a JavaScript Probe activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAJavaScriptProbeActivity.md)**  
-[[t_CreateAJavaScriptProbeActivity|Create a JavaScript Probe activity]] to instruct a [[mid-server-landing|MID server]] to execute server-side javascript.
+Create a JavaScript Probe activity to instruct a MID server to execute server-side javascript.
 -   **[Create a PowerShell activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md)**  
 Create a custom PowerShell activity return data to a workflow from a host using Microsoft PowerShell.
 -   **[Create a REST web service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md)**  
@@ -45,8 +45,3 @@ Create a custom JMS activity to retrieve or send messages to external systems us
 
 **Parent Topic:**[Orchestration activity designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_WorkflowActivityDesigner.md)
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[t_CreateAJavaScriptProbeActivity|Create a JavaScript Probe activity]]
-- [[mid-server-landing|MID Server]]

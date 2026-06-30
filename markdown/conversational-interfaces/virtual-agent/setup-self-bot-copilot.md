@@ -17,7 +17,7 @@ breadcrumb: [Integrating Now Assist in Virtual Agent with Microsoft Copilot, Use
 
 Using your Self-configured bot with Microsoft Copilot for Now Assist conversations requires you to complete a few additional setup actions.
 
-**Note:** Custom Engine Agent \(CEA\) is replacing Declarative Agent \(DA\), the prior Microsoft Copilot integration. The CEA enables [[virtual-agent-landing-page|Virtual Agent]] to be discoverable by Microsoft Copilot, with full functional access to [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and multi-turn conversations.
+**Note:** Custom Engine Agent \(CEA\) is replacing Declarative Agent \(DA\), the prior Microsoft Copilot integration. The CEA enables Virtual Agent to be discoverable by Microsoft Copilot, with full functional access to Now Assist in Virtual Agent and multi-turn conversations.
 
 You must have version 10.1.1 or higher of the Microsoft Teams plugin to have CEA support. In version 10.2 of the Microsoft Teams plugin, streaming is inactive by default and CEA is active by default.
 
@@ -30,7 +30,7 @@ As of October 2025, streaming is active by default for both Teams and Copilot. C
 You can use the self-configured bot or the default version to install Microsoft Copilot integration. The default bot automatically deploys in Copilot. If you want to use a self-configured bot for Microsoft Copilot, complete the following additional setup:
 
 -   Provide the Self-configured bot a name while creating it. This name is also provided to the Custom Engine Agent \(CEA\).
--   Activate your assistant in the [[convint-landing-page|Conversational Interfaces]] configuration page. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
+-   Activate your assistant in the Conversational Interfaces configuration page. For more information, see [Configuring assistants overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/configure-now-assist-va.md).
 -   Migrate any relevant topics to the Now LLM Service for Now Assist large language model \(LLM\) conversations with Copilot. To migrate your topics to LLM, you must enable LLM. For more information, see [Migrate NLU topics to LLM topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/migrate-nlu-llm.md).
 -   Update the following fields within the manifest file that is downloaded from Admin experience to configure the Self-configured bot. You can update your agent's description and update its prompts if it has any unique capabilities.
 
@@ -46,8 +46,3 @@ You can use the self-configured bot or the default version to install Microsoft 
 
 **Parent Topic:**[Integrating Now Assist in Virtual Agent with Microsoft Copilot](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/ms-copilot-na-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

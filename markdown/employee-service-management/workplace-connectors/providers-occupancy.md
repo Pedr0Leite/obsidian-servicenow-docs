@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Connectors, Workplace Service Delivery, Employ
 
 # Configure sensor data providers
 
-Configure sensor data providers in [[workplace-connectors-landing-page|Workplace Connectors]] for retrieving the workplace sensor data from third-party data providers.
+Configure sensor data providers in Workplace Connectors for retrieving the workplace sensor data from third-party data providers.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin \(sn\_wsd\_wc.admin\)
 
 **Next topic:**[Setup Workplace Connectors for badging data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/setup-workplace-connectors.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]

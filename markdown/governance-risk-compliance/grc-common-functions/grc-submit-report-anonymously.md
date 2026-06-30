@@ -14,13 +14,13 @@ breadcrumb: [Anonymous Reporting Center, Common GRC features, Governance, Risk, 
 
 # Submit a report anonymously from the Anonymous Reporting Center
 
-Use **Submit a report anonymously** on the [[grc-anonymous-reporting-center|Anonymous Reporting Center]] \(ARC\) landing page to raise suspected compliance, privacy, or AI-related issues confidentially.
+Use **Submit a report anonymously** on the Anonymous Reporting Center \(ARC\) landing page to raise suspected compliance, privacy, or AI-related issues confidentially.
 
 ## Before you begin
 
 Role required: sn\_grc.business\_user
 
-**Note:** This role is only required to access the **[[employee-center|Employee Center]]**. No role is required to submit a report directly through ARC.
+**Note:** This role is only required to access the **Employee Center**. No role is required to submit a report directly through ARC.
 
 ## About this task
 
@@ -37,7 +37,7 @@ Anonymous reports accept standard text characters. Avoid including executable co
 2.  On the **Employee Center** landing page:
 
     -   Navigate to the **Risk and compliance** tab for privacy and compliance cases.
-    -   Navigate to **Help center** &gt; **Technology services** and then select **[[ai-assets-airc|AI assets]]** from the **Technology services** topics section for AI cases.
+    -   Navigate to **Help center** &gt; **Technology services** and then select **AI assets** from the **Technology services** topics section for AI cases.
 3.  Select the **Visit Anonymous Report Center** card.
 
     You’re automatically signed out of your employee account and redirected to ARC.
@@ -55,8 +55,3 @@ Anonymous reports accept standard text characters. Avoid including executable co
 
 **Parent Topic:**[Anonymous Reporting Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-anonymous-reporting-center.md)
 
-## Related
-
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]
-- [[employee-center|employee center]]
-- [[ai-assets-airc|AI assets]]

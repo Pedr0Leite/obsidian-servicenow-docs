@@ -14,7 +14,7 @@ breadcrumb: [Employee Relations, Case and Knowledge Management, HR Service Deliv
 
 # Anonymous Report Center \(ARC\)
 
-The Anonymous Report Center \(ARC\) enables employees to report discrimination or misconduct without revealing their identity. Employees are automatically signed out of the [[employee-center-landing-page|Employee Center]] when the ARC opens.
+The Anonymous Report Center \(ARC\) enables employees to report discrimination or misconduct without revealing their identity. Employees are automatically signed out of the Employee Center when the ARC opens.
 
 ## Anonymous reporting in the ARC
 
@@ -23,10 +23,10 @@ The ARC homepage provides employees with options to submit a new report or retur
 The following steps describe how an employee submits a report and how the system routes it for investigation:
 
 1.  Employee Submits a Report — The employee submits a report through the ARC, which is designed to protect their anonymity throughout the process.
-2.  Case Creation — The system automatically creates an [[hr-case-employee-relations|Employee Relations]] case in the HR Agent Workspace, routing it to the appropriate HR team for review.
+2.  Case Creation — The system automatically creates an Employee Relations case in the HR Agent Workspace, routing it to the appropriate HR team for review.
 3.  Investigation — An HR agent picks up the case and can initiate a formal investigation directly from the HR Agent Workspace.
 4.  Two-Way Communication — If the HR agent needs more information, they can communicate with the employee through case comments. The employee can respond without ever revealing their identity.
-5.  Employee Case Tracking — The employee can check in on their case at any time by returning to the ARC and entering their case number and case key to view status updates and any new [[activity-lxp|activity]].
+5.  Employee Case Tracking — The employee can check in on their case at any time by returning to the ARC and entering their case number and case key to view status updates and any new activity.
 
 ## Getting Started
 
@@ -41,12 +41,6 @@ The following steps describe how an employee submits a report and how the system
 </td></tr></tbody>
 </table>**Note:**
 
--   The ARC can be activated as a stand-alone feature or combined with [[hr-service-delivery|HR Service Delivery]] Employee Relations.
+-   The ARC can be activated as a stand-alone feature or combined with HR Service Delivery Employee Relations.
 -   Although HR agents can’t see who submitted the report via the ARC, system admins can potentially trace users via their IP addresses.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[activity-lxp|Activity]]
-- [[hr-service-delivery|HR Service Delivery]]

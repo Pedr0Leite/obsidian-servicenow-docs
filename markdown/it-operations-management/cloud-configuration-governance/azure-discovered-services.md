@@ -14,7 +14,7 @@ breadcrumb: [Cloud accounts, Cloud Provisioning and Governance administration gu
 
 # Service categories discovered in Azure
 
-The [[r-discovery|Discovery]] process discovers Microsoft Azure services.
+The Discovery process discovers Microsoft Azure services.
 
 ## Services categories discovered in Azure
 
@@ -65,6 +65,3 @@ The CAPI-based discovery method is deprecated. Follow [Migrate from CAPI to Patt
 
 **Parent Topic:**[Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-accounts.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

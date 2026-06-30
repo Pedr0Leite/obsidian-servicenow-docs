@@ -14,11 +14,11 @@ breadcrumb: [Hardware Asset Management, IT Asset Management]
 
 # Device as a Service
 
-The Device as a Service \(DaaS\) feature provides assets and [[am-landing-page|asset management]] services to the customers of DaaS providers via a subscription model.
+The Device as a Service \(DaaS\) feature provides assets and asset management services to the customers of DaaS providers via a subscription model.
 
 ## DaaS overview
 
-\[Omitted video\] Description: [[ham-landing-page|Hardware Asset Management]] for DaaS.
+\[Omitted video\] Description: Hardware Asset Management for DaaS.
 
 Managing your DaaS offerings on a single platform through provider-focused views and tasks brings significant advantages to both providers and customers. DaaS providers can manage their asset inventory from sourcing through disposal to support their DaaS offerings. By consolidating all DaaS - related activities and information onto one platform, DaaS providers can streamline their operations and improve efficiency. For more information, see [DaaS provider view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/daas-workspace.md).
 
@@ -42,7 +42,7 @@ DaaS Asset manager
 
 </td></tr><tr><td>
 
-Automate the [[c_Procurement|procurement]] process of the DaaS assets.
+Automate the procurement process of the DaaS assets.
 
 </td><td>
 
@@ -94,9 +94,3 @@ Systematically refresh, decommission, and dispose of assets at the end of their 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[am-landing-page|Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Procurement|Procurement]]

@@ -14,15 +14,15 @@ breadcrumb: [Requesting a workplace service, Workplace Case Management, Workplac
 
 # Raise a space assistance request
 
-Submit a workplace service request to get space allocation recommendations using the [[workplace-services-portal-hr|Workplace Service Portal]]. The [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] [[space-assistance|space assistance]] provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
+Submit a workplace service request to get space allocation recommendations using the Workplace Service Portal. The Workplace Service Delivery space assistance provides you with the best space allocation plan options based on the space quantity and the department that you specify. You can select the most suitable allocation or none. Depending on your selection, the Space planner deploys the plan to use.
 
 ## Before you begin
 
 Ensure the following:
 
--   [[workplace-central-feat|Workplace Central]] plugin is installed.
--   [[workplace-case-mgmt-feat|Workplace Case Management]] plugin is installed.
--   To view the space recommendations on the map, the floor map must be configured using Workplace [[Indoor-mapping|Indoor Mapping]].
+-   Workplace Central plugin is installed.
+-   Workplace Case Management plugin is installed.
+-   To view the space recommendations on the map, the floor map must be configured using Workplace Indoor Mapping.
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -34,7 +34,7 @@ You can select the best option and submit the selection. If an approval is confi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Workplace service portal**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace service portal**.
 
     The Workplace Service Portal opens.
 
@@ -44,7 +44,7 @@ You can select the best option and submit the selection. If an approval is confi
 
     2.  Select **Browse by Categories**.
 
-    3.  In the [[workplace-services|Workplace Services]] Catalog, select **General**.
+    3.  In the Workplace Services Catalog, select **General**.
 
         **Note:** If there are multiple catalogs configured on the portal, go to the Catalogs list and select **Workplace Services Catalog** &gt; **General**.
 
@@ -210,7 +210,7 @@ Exact match \(Move-in date\)
 
 </td><td>
 
-Option to confirm that you want see only the spaces that are available on the selected move-in date.This option is not available from [[workplace-space-mgmt-ovw|Workplace Space Management]] version 1.12.0.
+Option to confirm that you want see only the spaces that are available on the selected move-in date.This option is not available from Workplace Space Management version 1.12.0.
 
 </td></tr><tr><td>
 
@@ -358,14 +358,3 @@ The option that you selected is submitted. At any time, you can view your select
 
 [Manage reservation waitlist records]()
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[space-assistance|Space assistance]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]

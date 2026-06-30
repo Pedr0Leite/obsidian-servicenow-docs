@@ -53,12 +53,7 @@ Role required: admin
 
 ## What to do next
 
-After you set up AI Enhanced recommended actions for ICW, you can use the feature in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]. For more information see, [[use-ai-enhanced-ra-icw|Contextualize an external document for a Deviation in the Digital Factory Workspace]].
+After you set up AI Enhanced recommended actions for ICW, you can use the feature in the Digital Factory Workspace. For more information see, [Contextualize an external document for a Deviation in the Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/use-ai-enhanced-ra-icw.md).
 
-**Parent Topic:**[[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
+**Parent Topic:**[Configure AI Enhanced recommended actions for Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/configure-ai-enhanced-ra-icw.md)
 
-## Related
-
-- [[use-ai-enhanced-ra-icw|Contextualize an external document for a Deviation in the Digital Factory Workspace]]
-- [[configure-ai-enhanced-ra-icw|Configure AI Enhanced recommended actions for Industrial Connected Workforce]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

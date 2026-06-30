@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Space Management, Workplace Service Delivery, 
 
 # Install Workplace Space Management
 
-Install the [[workplace-space-mgmt-ovw|Workplace Space Management]] application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Space Management application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Complete the following setup instructions:
     The list displays the subscriptions that your organization has purchased.
 
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\), minimum version 2.6.2
+    -   Workplace Core \(sn\_wsd\_core\), minimum version 2.6.2
     -   Workplace Space Management \(sn\_wsd\_spcmgmt\), minimum version 1.0
 
 Use the following details when required:
@@ -60,7 +60,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Workplace Space Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-space-management/configure-space-management.md)
 
-## Related
-
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

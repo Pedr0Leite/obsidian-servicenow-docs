@@ -32,12 +32,10 @@ Role required: admin
 
 2.  Search for and select the **Update existing records with partition details** scheduled job.
 
-3.  On the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]], ensure that the **Run** field is set to **On Demand**.
+3.  On the Scheduled Script Execution form, ensure that the **Run** field is set to **On Demand**.
 
 4.  Select **Execute Now**.
 
     The scheduled job runs and stamps partition details on all existing records in the project, demand, and planning item tables based on the configured partition criteria. After the job completes, segmentation for access control and configuration mapping is enabled on the updated records.
 
-## Related
 
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

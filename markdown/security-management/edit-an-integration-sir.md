@@ -16,14 +16,10 @@ Editing an integration enables you to modify existing published integrations to 
 
 When editing an existing integration, note the following:
 
--   You can't edit the application and connection details. To change credentials or connection details, [[create-integrations|create an integration]].
+-   You can't edit the application and connection details. To change credentials or connection details, create an integration.
 -   You can only change the capabilities and their API information.
 -   You can add or remove capabilities.
--   After making API updates, select the **Save changes** button. You have to create API endpoint details, generate the parsing and invocation scripts. For more details, see [[add-apis|Add APIs]].
+-   After making API updates, select the **Save changes** button. You have to create API endpoint details, generate the parsing and invocation scripts. For more details, see [Add APIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/add-apis.md).
 -   Once you save and publish your changes, you can’t revert to the previous version from the UI.
 -   When you republish an integration, new capabilities are generated, and any capabilities you removed are marked as inactive.
 
-## Related
-
-- [[add-apis|Add APIs]]
-- [[create-integrations|Create an integration]]

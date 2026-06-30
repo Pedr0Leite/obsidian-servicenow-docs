@@ -14,7 +14,7 @@ breadcrumb: [Document Management integration with external content providers, Us
 
 # Configure system properties to access files and folders from external content providers
 
-Configure system properties to enable access to files and folders from external content providers like Microsoft OneDrive V3.1 and Google Drive V3.1 when using the **sn-document-explorer-connected** component in [[doc-management-landing|Document Management]] with [[personal-authentication-documents|Personal authentication]].
+Configure system properties to enable access to files and folders from external content providers like Microsoft OneDrive V3.1 and Google Drive V3.1 when using the **sn-document-explorer-connected** component in Document Management with Personal authentication.
 
 ## Before you begin
 
@@ -39,7 +39,3 @@ Role required: mp\_document\_admin
 
 **Parent Topic:**[Document Management integration with external content providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/integration-external-content-providers.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[personal-authentication-documents|Personal authentication]]

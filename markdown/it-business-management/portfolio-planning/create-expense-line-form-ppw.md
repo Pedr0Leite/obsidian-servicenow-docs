@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Create expense line form
 
-The [[expense-line-form-demand|expense line form]] information is used to [[t_CreateAExpenseLine|create an expense line]] for your actual expenses.
+The expense line form information is used to create an expense line for your actual expenses.
 
 <table id="table_eh4_qrp_c3c"><thead><tr><th>
 
@@ -160,8 +160,3 @@ Sources of the expense line. These sources include:-   Asset
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[expense-line-form-demand|Expense line form]]
-- [[t_CreateAExpenseLine|Create an expense line]]

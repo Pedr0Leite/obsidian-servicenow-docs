@@ -14,21 +14,21 @@ breadcrumb: [Journey designer, Employee Journey Management, HR Service Delivery,
 
 # Explore Journey designer features
 
-Organization administrators activate and configure [[jny-dsgnr-landing-page-1|Journey designer]] to help managers and employees understand and actively collaborate on professional and personal journeys.
+Organization administrators activate and configure Journey designer to help managers and employees understand and actively collaborate on professional and personal journeys.
 
 ## Journey designer data model and related applications
 
-Journey designer expands the possibilities for managers and administrators to create consistent and meaningful employee journeys. Journeys are created by [[using-lifecycle-events|using Lifecycle Events]] and [[journey-accelerator-1|Journey Accelerator]] features and functionality to support employees and mentors navigate various journeys.
+Journey designer expands the possibilities for managers and administrators to create consistent and meaningful employee journeys. Journeys are created by using Lifecycle Events and Journey Accelerator features and functionality to support employees and mentors navigate various journeys.
 
 \[Omitted image "jd-explore-info-graphic.png"\] Alt text: Explore Journey designer features and integrations
 
 -   **[Lifecycle Events]()**
 
-    [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] enable the fulfillment of HR cases that are related to various employee journeys and transitions.
+    Lifecycle Events enable the fulfillment of HR cases that are related to various employee journeys and transitions.
 
 -   **[Journey Accelerator]()**
 
-    Administrators can use the ServiceNow® Journey Accelerator application to create templates for plans and to-do tasks. Managers then use the templates to create and publish customized plans for key employee transitions. Managers, employees, and mentors can access the plans from the [[employee-center-landing-page|Employee Center]] \(EC\).
+    Administrators can use the ServiceNow® Journey Accelerator application to create templates for plans and to-do tasks. Managers then use the templates to create and publish customized plans for key employee transitions. Managers, employees, and mentors can access the plans from the Employee Center \(EC\).
 
 -   **[Integrations for Journey designer app]()**
 
@@ -54,7 +54,7 @@ Journey designer expands the possibilities for managers and administrators to cr
 
 -   View and complete urgent to-dos from Lifecycle Events and Journey Accelerator.
 -   Navigate through all of their tasks and milestones.
--   Schedule events and complete [[exploring-learning-exp|learning]].
+-   Schedule events and complete learning.
 -   Complete learning courses added by your organization or your manager.
 
 **Related topics**  
@@ -64,11 +64,3 @@ Journey designer expands the possibilities for managers and administrators to cr
 
 [Journey Accelerator]()
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[using-lifecycle-events|Using Lifecycle Events]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]
-- [[exploring-learning-exp|Learning]]

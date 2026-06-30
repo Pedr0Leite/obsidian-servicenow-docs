@@ -14,7 +14,7 @@ breadcrumb: [Performing tests and updating the test status, Test Management 1.0,
 
 # Perform tests using the Visual Task Board
 
-Perform [[c_Tests|tests]] from an assigned test case and record results using a bulletin board-type graphical interface.
+Perform tests from an assigned test case and record results using a bulletin board-type graphical interface.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: tm\_tester
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]**.
+1.  Navigate to **All** &gt; **Test Management** &gt; **Test Execution** &gt; **Test Plans**.
 
 2.  Click the **Show Visual Task Board** related link.
 
@@ -58,7 +58,3 @@ Role required: tm\_tester
 
 **Parent Topic:**[Performing tests and updating the test status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/c_Tester.md)
 
-## Related
-
-- [[c_Tests|Tests]]
-- [[c_TestPlans|Test plans]]

@@ -14,11 +14,11 @@ breadcrumb: [Train and use the similarity solution to recommend citations on reg
 
 # Auto-assign configuration for regulatory alerts
 
-Set up an assignment configuration record to enable auto-assignments for [[list-view-of-reg-alerts|regulatory alerts]] of the type regulatory event.
+Set up an assignment configuration record to enable auto-assignments for regulatory alerts of the type regulatory event.
 
 ## Before you begin
 
-The GRC: Assignment and Approval Configurations \(sn\_grc\_appr\) application for approval and assignment configurations is installed with the GRC: [[compliance-case-management|Compliance Case Management]] application.
+The GRC: Assignment and Approval Configurations \(sn\_grc\_appr\) application for approval and assignment configurations is installed with the GRC: Compliance Case Management application.
 
 Role required: sn\_grc\_appr.admin, sn\_compliance\_ws.corporate\_compliance\_analyst, sn\_compliance\_ws.corporate\_compliance\_manager
 
@@ -32,22 +32,16 @@ You can now route regulatory alerts to domain experts who can promptly address c
 
 2.  Select **New**.
 
-    The [[assignment-configuration-new-record|Assignment configuration New Record]] is displayed.
+    The Assignment configuration New Record is displayed.
 
 3.  On the form, fill in the fields.
 
     For information on the fields in the form, see [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configuration-new-record.md).
 
-    **Note:** You cannot have more than one [[bcm-approval-configuration|approval configuration]] applying to the table with the same priority.
+    **Note:** You cannot have more than one approval configuration applying to the table with the same priority.
 
 4.  Select **Submit**.
 
 
 **Parent Topic:**[Train and use the similarity solution to recommend citations on regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/retrain-ml-reg-compliance-mapping.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[compliance-case-management|compliance case management]]
-- [[assignment-configuration-new-record|Assignment Configuration New Record]]
-- [[bcm-approval-configuration|Approval configuration]]

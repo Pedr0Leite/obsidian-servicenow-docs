@@ -27,7 +27,7 @@ Role required:
 
 Use this procedure for fields which should not be mandatory, but that might have useful information that the CI should have. For example, a field with information that might at some point help with diagnosis. Initially, a derived class is set with the recommended fields that are defined at the parent level. You can add or remove recommended fields for a derived class, setting it with its own recommended fields, without affecting the recommended fields at the parent or sibling levels. If all recommended fields for a derived class are removed, then the derived class automatically derives the recommended fields from its parent class.
 
-The [[ci-class-manager-landing-page|CI Class Manager]] doesn't support dot-walking for selecting fields from referenced tables, as recommended. See the steps at the end of this procedure to directly update tables with recommended fields, using one level dot-walking.
+The CI Class Manager doesn't support dot-walking for selecting fields from referenced tables, as recommended. See the steps at the end of this procedure to directly update tables with recommended fields, using one level dot-walking.
 
 For more information about child and parent classes, see [Table extension and classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-extension-and-classes.md).
 
@@ -39,7 +39,7 @@ For more information about child and parent classes, see [Table extension and cl
 
 3.  In the class navigation bar, expand **Health**, select **Completeness**, and then select the Recommended Fields tab.
 
-4.  In the Recommended Fields tab, use the [[list-collector|list collector]] to move the fields that you want to designate as recommended, from the **Available** list to the **Selected** list.
+4.  In the Recommended Fields tab, use the list collector to move the fields that you want to designate as recommended, from the **Available** list to the **Selected** list.
 
 5.  Click **Save**.
 
@@ -51,11 +51,6 @@ To directly update the CMDB Recommended Fields \[cmdb\_recommended\_fields\] tab
 1.  Select **All**.
 2.  In the Filter navigator, enter `cmdb_recommended_fields.list` to access the CMDB Recommended Fields table.
 3.  On the CMDB Recommended Field form, set **Table** to the table that you want to set with recommended fields.
-4.  Select **Recommended fields** and use the list collector to select recommended fields for the table. You can expand a [[reference|reference]] field up to one level, and use dot-walking to select a field from a referenced table.
+4.  Select **Recommended fields** and use the list collector to select recommended fields for the table. You can expand a reference field up to one level, and use dot-walking to select a field from a referenced table.
 5.  Select **Submit**.
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[list-collector|List collector]]
-- [[reference|Reference]]

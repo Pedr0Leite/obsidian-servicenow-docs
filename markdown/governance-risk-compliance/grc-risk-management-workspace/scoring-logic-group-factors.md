@@ -14,13 +14,13 @@ breadcrumb: [Create a group factor, Perform Advanced Risk Assessment, Use, Risk 
 
 # Scoring logic for predefined formulas for group factors
 
-Group [[factors|factors]] have multiple predefined formulae and each of them has a specific contribution to the scoring logic.
+Group factors have multiple predefined formulae and each of them has a specific contribution to the scoring logic.
 
 ## Predefined formulae scoring logic
 
 Users can select one of the following predefined formulae to calculate the scoring for group factors. The scores are contributed by scores of manual factors that comprise a group factor and have factor contribution as Qualitative or Quantitative, or Both.
 
-The qualitative scores calculated using the predefined formulae are transformed using the [[transformation-criteria|transformation criteria]] if the **Transform qualitative score** option is selected for the group factor.
+The qualitative scores calculated using the predefined formulae are transformed using the transformation criteria if the **Transform qualitative score** option is selected for the group factor.
 
 The qualitative scores calculated after transformation will be derived using the Qualitative weighting of the group factor. For example, if the calculated score is 10 and the Qualitative weighting is 50%, then the final score for group factor will be calculated as 10 x 0.5 = 5.
 
@@ -61,7 +61,3 @@ The qualitative scores calculated after transformation will be derived using the
 
 **Parent Topic:**[Create a group factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/define-group-factor.md)
 
-## Related
-
-- [[factors|factors]]
-- [[transformation-criteria|transformation criteria]]

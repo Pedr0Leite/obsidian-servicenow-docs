@@ -14,10 +14,10 @@ breadcrumb: [CMDB Health, Configuration Management Database \(CMDB\), Configurat
 
 # CMDB Health reference
 
-[[reference|Reference]] topics provide additional information about the KPIs and metrics that [[c_CMDBHealth|CMDB Health]] uses and about tables, scheduled jobs, and properties that are used by CMDB Health.
+Reference topics provide additional information about the KPIs and metrics that CMDB Health uses and about tables, scheduled jobs, and properties that are used by CMDB Health.
 
 -   **[Domain separation in CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-health-domain-separation.md)**  
-This is an overview of [[domain-separation-relationship-formatter-editor|domain separation]] as it pertains to CMDB Health. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+This is an overview of domain separation as it pertains to CMDB Health. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 **Parent Topic:**[CMDB Health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealth.md)
 
@@ -38,8 +38,3 @@ This is an overview of [[domain-separation-relationship-formatter-editor|domain 
 
 [CMDB Health process tracking and troubleshooting]()
 
-## Related
-
-- [[reference|Reference]]
-- [[c_CMDBHealth|CMDB Health]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Install the Edge Encryption proxy server \(interactive installer\)
 
-Install the [[edge-encryption|Edge Encryption]] proxy on a Windows or Linux computer.
+Install the Edge Encryption proxy on a Windows or Linux computer.
 
 ## Before you begin
 
@@ -106,7 +106,7 @@ Proxy Poll Interval
 
 </td><td>
 
-Poll interval in seconds. With the default setting, it takes 5 seconds for the proxy to learn of [[encryption-landing|encryption]] [[sc-configuration|configuration]] changes. Larger values cause the instance to take longer to detect proxies that have come online. **Note:** Changing the default setting of the Proxy Poll Interval can result in detection delays when a proxy comes online.
+Poll interval in seconds. With the default setting, it takes 5 seconds for the proxy to learn of encryption configuration changes. Larger values cause the instance to take longer to detect proxies that have come online. **Note:** Changing the default setting of the Proxy Poll Interval can result in detection delays when a proxy comes online.
 
 </td></tr><tr><td>
 
@@ -128,8 +128,3 @@ Time in seconds between pings issued by the proxy to the instance. Pings are iss
 
 **Next topic:**[Configure CyberArk properties protection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-cyberark-prop-protection.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

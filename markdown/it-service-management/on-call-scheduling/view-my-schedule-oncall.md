@@ -22,7 +22,7 @@ Role required: itil
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Reports** &gt; **My Schedule Report**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Reports** &gt; **My Schedule Report**.
 
 2.  In the **Show for** field, select a date range and then click **Submit**.
 
@@ -39,6 +39,3 @@ Role required: itil
 
 **Parent Topic:**[Viewing schedules and request time-off](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/viewing-schedules-and-escalation.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

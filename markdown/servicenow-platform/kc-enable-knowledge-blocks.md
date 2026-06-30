@@ -12,7 +12,7 @@ breadcrumb: [Configuring Knowledge Center, Knowledge Center, Manage content capa
 
 # Enable knowledge blocks in the Knowledge Center
 
-Enable the [[knowledge-blocks|knowledge blocks]] feature for each knowledge base where you plan to use the blocks. Once enabled, you can create knowledge blocks to add to knowledge articles within a knowledge base.
+Enable the knowledge blocks feature for each knowledge base where you plan to use the blocks. Once enabled, you can create knowledge blocks to add to knowledge articles within a knowledge base.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: knowledge\_admin or knowledge\_manager
 
 2.  Open the knowledge base record.
 
-3.  In the Knowledge Base form, select the **Enable blocks** [[check-box|check box]].
+3.  In the Knowledge Base form, select the **Enable blocks** check box.
 
     **Note:** If the **Enable blocks** check box isn’t visible, you can add the field to the form by select and hold \(or right-click\) the form header and navigating to **Configure** &gt; **Form Layout**.
 
@@ -42,13 +42,7 @@ Create knowledge blocks to use within the enabled knowledge base.
 **Related topics**  
 
 
-[[kc-knowledge-blocks|Knowledge blocks in Knowledge Center]]
+[Knowledge blocks in Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-knowledge-blocks.md)
 
-[[kc-create-a-knowledge-block|Create a knowledge block in the Knowledge Center]]
+[Create a knowledge block in the Knowledge Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/kc-create-a-knowledge-block.md)
 
-## Related
-
-- [[kc-knowledge-blocks|Knowledge blocks in Knowledge Center]]
-- [[kc-create-a-knowledge-block|Create a knowledge block in the Knowledge Center]]
-- [[knowledge-blocks|Knowledge blocks]]
-- [[check-box|Check box]]

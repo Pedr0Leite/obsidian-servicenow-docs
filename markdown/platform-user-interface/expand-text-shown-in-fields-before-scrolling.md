@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Configure automatic resizing
 
-[[configure-onboarding-modals|Configure]] fields to display multiple lines of content automatically without scrolling.
+Configure fields to display multiple lines of content automatically without scrolling.
 
 ## Before you begin
 
@@ -63,11 +63,11 @@ Configure system properties for automatic resizing to display fields with multip
 
 -   **__glide.ui.html.editor.v5.enabled\_plugins__**
 
-    Determines the line number after which the scroll bar should appear for the text area component in all [[activity-stream-configurable-workspace|Activity stream]] textarea fields.
+    Determines the line number after which the scroll bar should appear for the text area component in all Activity stream textarea fields.
 
     Enter a maximum value for text area fields to resize automatically.
 
--   **__glide.activity.[[activity-stream-compose-configurable-workspace|compose]].html.autoresize\_line\_limit__**
+-   **__glide.activity.compose.html.autoresize\_line\_limit__**
 
     Determines the line number after which the scroll bar should appear for the HTML editor component in all Activity stream journal fields with the HTML subtype.
 
@@ -79,8 +79,4 @@ Configure system properties for automatic resizing to display fields with multip
 
     Set the Value field to **true**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[activity-stream-compose-configurable-workspace|Compose]]

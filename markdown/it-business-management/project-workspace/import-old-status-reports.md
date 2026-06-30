@@ -14,7 +14,7 @@ breadcrumb: [Create a status report in Project Workspace, Managing projects with
 
 # Import old project status report to Project Workspace
 
-Migrate your old status reports from the classic [[project-workspace-landing-page|Project Workspace]] to the new Project Workspace and optimize reporting process of your projects.
+Migrate your old status reports from the classic Project Workspace to the new Project Workspace and optimize reporting process of your projects.
 
 ## Before you begin
 
@@ -52,6 +52,3 @@ Role required: it\_pps\_admin, it\_project\_manager
 
 [Duplicate a status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/duplicate-status-report-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

@@ -22,20 +22,20 @@ ServiceNow® AI Desktop Actions enables you to design, configure, and manage des
 
 There are two types of desktop actions: defined path and adaptive path. Both enable AI agents to automate tasks on behalf of users, but they differ in how steps are designed and executed, what applications they support, and how they handle variation in the user interface.
 
--   **[[desktop-actions|Defined desktop actions for desktop and web-based tasks \(deterministic\)]]**
+-   **[Defined desktop actions for desktop and web-based tasks \(deterministic\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/desktop-actions.md)**
 
     With defined path desktop actions, you record with AIor capture a fixed sequence of steps in the AI Desktop Actions Windows application. The AI agent executes these predefined steps in order without deviation.
 
     Best for: Repeatable tasks with consistent steps and predictable UI interactions.
 
--   **[[web-agents-overview|Adaptive desktop actions for web-based tasks \(probabilistic\)]]**
+-   **[Adaptive desktop actions for web-based tasks \(probabilistic\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/web-agents-overview.md)**
 
     With adaptive path desktop actions, you describe what task you want to accomplish at a high level in the tool configuration for web-based tasks. The web-based tasks include performing tasks on web applications or websites. The AI agent processes the request, generates an execution plan, and dynamically determines the specific steps needed to complete the task.
 
     Best for: Tasks that require flexibility, decision-making, or adaptation to changing UI elements.
 
 
-For more information, see [[adaptive-vs-fixed-desktop-action|When to use adaptive vs. defined path desktop actions]].
+For more information, see [When to use adaptive vs. defined path desktop actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/adaptive-vs-fixed-desktop-action.md).
 
 ## Get started
 
@@ -87,14 +87,7 @@ This application requires data to be transferred from ServiceNow customers' indi
 
 ## Data collection
 
-ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about scripts \(and associated script records\) in which Now Assist for code generation is called. Customers can opt out of future data collection at any time, as described in the [[opt-out-of-data-sharing-for-now-assist|Now Assist Opt-Out page]].
+ServiceNow collects and uses the inputs, outputs, and edits to outputs of this application to develop and improve ServiceNow technologies including ServiceNow models and AI products. In addition, this application will collect information about scripts \(and associated script records\) in which Now Assist for code generation is called. Customers can opt out of future data collection at any time, as described in the [Now Assist Opt-Out page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/opt-out-of-data-sharing-for-now-assist.md).
 
-For more information, see the [[platform-now-assist-landing|Now Assist documentation]].
+For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[desktop-actions|Defined desktop actions for desktop and web-based tasks]]
-- [[web-agents-overview|Adaptive desktop actions for web-based tasks]]
-- [[adaptive-vs-fixed-desktop-action|When to use adaptive vs. defined path desktop actions]]
-- [[opt-out-of-data-sharing-for-now-assist|Opt out of data sharing for Now Assist]]
-- [[platform-now-assist-landing|Now Assist]]

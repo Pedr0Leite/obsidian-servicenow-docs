@@ -18,17 +18,17 @@ Add screen fields to improve the usability of your record screens. Screen fields
 
 Role required: admin
 
-To add screen fields to your [[form-screen|record screen]], confirm that you have configured a record screen that contains a details screen. For more information, see [[configure-form-details-screen|Configure a details screen for a record screen]].
+To add screen fields to your record screen, confirm that you have configured a record screen that contains a details screen. For more information, see [Configure a details screen for a record screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-form-details-screen.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Screens** from the menu.
 
@@ -64,11 +64,11 @@ Type
 
 </td><td>
 
-Type of screen field. For a list of types and a description of how they're used, see [[sg-screen-field-enhancements|Screen fields]].**Note:**
+Type of screen field. For a list of types and a description of how they're used, see [Screen fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-screen-field-enhancements.md).**Note:**
 
 -   Select the **Auto** option to link the field type with the selected **Form Field** option. The **Auto** option includes the following field types: **Text**, **Percentage**, **Image**, **Video**, **File**, **HTML**, **Date**, and **Script**.
 
-**Note:** For more information about using the script screen option, see [[record-screen-script-type|Dynamic variable support in record screens]].
+**Note:** For more information about using the script screen option, see [Dynamic variable support in record screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/record-screen-script-type.md).
 
 -   The **Auto** field type doesn't include field types **Attachments List** and **Checklist**. You must manually select these options from the **Type** field.
 
@@ -127,17 +127,8 @@ Value of the field without the field label.**Note:** This option is only availab
 
 -   **[Dynamic variable support in record screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/record-screen-script-type.md)**  
 Use the script screen field in record screens to display dynamic field values. The script runs to determine the field value before it displays in your form. The value returned by the script doesn't replace the database value. For example, you can display translated content for dynamic variables within an email.
--   **[[record-screen-script-type-config|Configure the script field for records screens]]**  
+-   **[Configure the script field for records screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/record-screen-script-type-config.md)**  
 Configure script screen fields to display calculated or personalized content in your mobile forms, without modifying the underlying database values.
 
 **Parent Topic:**[Screen fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-screen-field-enhancements.md)
 
-## Related
-
-- [[configure-form-details-screen|Configure a details screen for a record screen]]
-- [[sg-screen-field-enhancements|Screen fields]]
-- [[record-screen-script-type|Dynamic variable support in record screens]]
-- [[record-screen-script-type-config|Configure the script field for records screens]]
-- [[form-screen|Record screen]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

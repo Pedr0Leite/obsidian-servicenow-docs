@@ -25,7 +25,7 @@ Role required: sn\_cwm.cwm\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  Open the Board or Doc that you want to save as a template.
 
@@ -81,6 +81,3 @@ The saved template is added to the Template Center.
 
 **Parent Topic:**[Templates in CWM for Boards and Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/templates-in-cwm-for-spaces-boards-and-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

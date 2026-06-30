@@ -20,7 +20,7 @@ Role required: ui\_builder\_admin
 
 ## About this task
 
-In experiences and workspaces, the Analytics Overview provides a central page with tabs for all the other pages related to [[c_performanceAnalyticsAndReporting|Platform Analytics]]. You do not have to add an Analytics Overview, but this procedure uses that page as example. The same procedure applies to adding the other Platform Analytics pages from templates. Details about those pages are provided at the end of this topic.
+In experiences and workspaces, the Analytics Overview provides a central page with tabs for all the other pages related to Platform Analytics. You do not have to add an Analytics Overview, but this procedure uses that page as example. The same procedure applies to adding the other Platform Analytics pages from templates. Details about those pages are provided at the end of this topic.
 
 ## Procedure
 
@@ -71,9 +71,9 @@ Create pages using the following templates. Follow the same process you used to 
 
 **Note:**
 
--   The default event handlers use the paths in this table. If you specify a different path, you have to customize the event handler as described in [[config-custom-redirection-from-db|Configure custom redirection from a dashboard component]].
+-   The default event handlers use the paths in this table. If you specify a different path, you have to customize the event handler as described in [Configure custom redirection from a dashboard component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-custom-redirection-from-db.md).
 -   Simple List and Dashboard overview are legacy page templates, like Analytics Center. You must specify the parameters manually for these pages. Newer page templates give you the parameters in the course of page creation.
--   Platform Analytics is modular. You can create only some of the pages and get their standalone functions. For example, if you only want dashboard support or [[kpi-details|KPI Details]], create the pages with that functionality and don't create an Analytics Overview.
+-   Platform Analytics is modular. You can create only some of the pages and get their standalone functions. For example, if you only want dashboard support or KPI Details, create the pages with that functionality and don't create an Analytics Overview.
 
 <table id="table_c3v_3q3_k1c"><thead><tr><th>
 
@@ -197,7 +197,7 @@ Displays a list of data visualizations on the instance, along with usage statist
 
 </td></tr><tr><td>
 
-Dashboards \(see [[add-dashboard-to-workspace|Add a dashboard to a Dashboards page]]\)
+Dashboards \(see [Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dashboard-to-workspace.md)\)
 
 </td><td>
 
@@ -236,9 +236,9 @@ none
 visualization-designer
 
 </td></tr></tbody>
-</table>**Important:** You must use these paths, which are the same paths of the pages in the [[par-workspace|Platform Analytics experience]]. The preconfigured event handlers on the pages use these paths. If you do not give your pages these paths, the event handlers will not work.
+</table>**Important:** You must use these paths, which are the same paths of the pages in the Platform Analytics experience. The preconfigured event handlers on the pages use these paths. If you do not give your pages these paths, the event handlers will not work.
 
-**Parent Topic:**[[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
+**Parent Topic:**[Creating Platform Analytics pages in your own workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/adding-analytics-center-to-ws.md)
 
 **Related topics**  
 
@@ -257,11 +257,3 @@ visualization-designer
 
 [Add a dashboard to a Dashboards page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dashboard-to-workspace.md)
 
-## Related
-
-- [[config-custom-redirection-from-db|Configure custom redirection from a dashboard component]]
-- [[add-dashboard-to-workspace|Add a dashboard to a Dashboards page]]
-- [[adding-analytics-center-to-ws|Creating Platform Analytics pages in your own workspace]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[kpi-details|KPI Details]]
-- [[par-workspace|Platform Analytics experience]]

@@ -35,7 +35,7 @@ Security admin
 Create event profiles for filtering the ingested events. SIR creates incidents for these the ingested events.
 
 </td></tr></tbody>
-</table>## [[proofpoint-integration-secops-landing|Proofpoint Integration for Security Operations]] benefits
+</table>## Proofpoint Integration for Security Operations benefits
 
 <table id="table_dt5_k2g_b2c"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Users
 
 </th></tr></thead><tbody><tr><td>
 
-Pull event data into your instance and create security incidents. Review security incidents from a single [[location|location]] for events deemed suspicious or malicious.
+Pull event data into your instance and create security incidents. Review security incidents from a single location for events deemed suspicious or malicious.
 
 </td><td>
 
@@ -64,7 +64,7 @@ If the delivered email messages and permitted clicks are later deemed malicious,
 Managers
 
 </td></tr></tbody>
-</table>## What to [[threat-intelligence-security-center-overview|explore]] next
+</table>## What to explore next
 
 To learn more about configuring and using Proofpoint, see:
 
@@ -72,8 +72,3 @@ To learn more about configuring and using Proofpoint, see:
 -   [Review Proofpoint integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/review-proofpoint-integration-setting-sir.md)
 -   [View the Proofpoint Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-proofpoint-dashboard.md)
 
-## Related
-
-- [[proofpoint-integration-secops-landing|Proofpoint Integration for Security Operations]]
-- [[location|Location]]
-- [[threat-intelligence-security-center-overview|Explore]]

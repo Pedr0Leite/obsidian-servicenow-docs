@@ -16,7 +16,7 @@ breadcrumb: [Processing Events, Configuring Event Management, Event Management, 
 
 Use Event field mappings rules to map values from specific fields to values in other fields.
 
-[[c_EM|Event Management]] stores event field mappings in the Event Field Mapping \[em\_mapping\_rule\] table. The mappings apply after event rule processing and prior to alert generation. The mapping values from the Event Mapping Pair \[em\_mapping\_pair\] table apply to the alert. The original event severity remains unchanged.
+Event Management stores event field mappings in the Event Field Mapping \[em\_mapping\_rule\] table. The mappings apply after event rule processing and prior to alert generation. The mapping values from the Event Mapping Pair \[em\_mapping\_pair\] table apply to the alert. The original event severity remains unchanged.
 
 For example, if events come with the field "**org\_severity**" with the values "**Low**, **Medium**, **High**" and you want the alert **Severity** to hold this value, create an event field mapping rule that maps the field **org\_severity** to **Severity**, with these values:
 
@@ -32,14 +32,10 @@ Event Management provides default event field mappings for commonly used system 
 
 You can view the default event field mappings and mapping pairs by navigating to **Event Management** &gt; **Rules** &gt; **Event Field Mappings** and double-clicking **Name**.
 
-For users familiar with the classic Event Management experience, enrich automations create [[create-event-rules|event rules]] but with an easier interface and with better team support. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
+For users familiar with the classic Event Management experience, enrich automations create event rules but with an easier interface and with better team support. For more information, see [Create Enrich automation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/enrich-alert-sow-itom.md).
 
 -   **[Create event field mappings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMCreateEventFieldMapping2.md)**  
 Use event field mappings to map values from specific event fields to values in other fields to provide more comprehensive information in an alert. Use team-based integrations in event rules to make sure that connector ownership and execution of rules give precedence to global rules. Teams can maintain consistency and hierarchy while offering flexibility and customization options.
 
 **Parent Topic:**[Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EM.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

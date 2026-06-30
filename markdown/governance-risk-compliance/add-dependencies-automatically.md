@@ -12,7 +12,7 @@ breadcrumb: [Manage, Operational Resilience, Governance, Risk, and Compliance]
 
 # Fetching dependencies from the CMDB and BIA
 
-You can fetch the dependencies for the services or business services from CMDB in [[grc-opres-landing-page|Operational Resilience]]. Similarly, when the BCM applications are installed, the Operational Resilience scheduled job also monitors for the changes in the [[bia-uib|business impact analysis]] \(BIA\) dependencies and fetches the dependency updates.
+You can fetch the dependencies for the services or business services from CMDB in Operational Resilience. Similarly, when the BCM applications are installed, the Operational Resilience scheduled job also monitors for the changes in the business impact analysis \(BIA\) dependencies and fetches the dependency updates.
 
 ## Fetching the dependencies from CMDB for the services
 
@@ -69,7 +69,7 @@ For each fetched dependency, the Operational Resilience application looks for an
 
 To fetch the CMDB dependency updates or BIA dependency updates, the following conditions are followed:
 
--   If there is no entity for the dependency, it is skipped. Operational Resilience does not [[create-new-entity-ws|create an entity]] for the dependency.
+-   If there is no entity for the dependency, it is skipped. Operational Resilience does not create an entity for the dependency.
 -   If a dependency entity is inactive, it is ignored.
 -   If a dependency entity is active, but it has no pillar, it is ignored.
 -   If a dependency entity is active and has a pillar, but it does not belong to any Operational Resilience entity type, it is ignored.
@@ -80,12 +80,5 @@ If the entity does not belong to an entity type such as Facilities, People, Supp
 
 ## Support for main node configuration in Data Relationships Framework
 
-For information on the Data Relationships Framework and main node configuration, see [[data-relationship-framework|Data Relationships Framework]] and [[create-a-main-node-config-record|Create a main node configuration record]].
+For information on the Data Relationships Framework and main node configuration, see [Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/data-relationship-framework.md) and [Create a main node configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-a-main-node-config-record.md).
 
-## Related
-
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[create-a-main-node-config-record|Create a main node configuration record]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[bia-uib|Business impact analysis]]
-- [[create-new-entity-ws|Create an entity]]

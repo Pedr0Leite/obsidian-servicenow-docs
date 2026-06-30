@@ -12,7 +12,7 @@ breadcrumb: [Setting up pillars, entity types, entity filters, and entities, Con
 
 # Generate entities automatically using a scheduled job
 
-Generate entities automatically via scheduled job once pillars, [[entity-type-in-risk-ws|entity types]], and [[what-is-an-entity-filter|entity filters]] are active. Entities are individual records matching your filter criteria. For actual entity creation, you should run the **GRC Profile Generation** scheduled job in the GRC: Profiles application rather than using entity filters.
+Generate entities automatically via scheduled job once pillars, entity types, and entity filters are active. Entities are individual records matching your filter criteria. For actual entity creation, you should run the **GRC Profile Generation** scheduled job in the GRC: Profiles application rather than using entity filters.
 
 ## Before you begin
 
@@ -40,11 +40,6 @@ Entities can be generated using two methods. This section describes the automati
 
 6.  Open an entity type and check the entities related list.
 
-    **Note:** Generate entities automatically using the scheduled job. Use manual addition from the [[grc-opres-landing-page|Operational Resilience]] Workspace for exceptions or one-off additions that don't fit the filter criteria. For adding entities from the Operational Resilience Workspace using the **Add to OpRes** UI action, see [[gen-ent-manually|Add entities manually]].
+    **Note:** Generate entities automatically using the scheduled job. Use manual addition from the Operational Resilience Workspace for exceptions or one-off additions that don't fit the filter criteria. For adding entities from the Operational Resilience Workspace using the **Add to OpRes** UI action, see [Add entities manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/gen-ent-manually.md).
 
-## Related
 
-- [[gen-ent-manually|Add entities manually]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[grc-opres-landing-page|Operational Resilience]]

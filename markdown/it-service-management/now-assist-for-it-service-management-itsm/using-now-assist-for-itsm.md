@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for IT Service Management \(ITSM\), IT Service Managemen
 
 # Using Now Assist for IT Service Management \(ITSM\) Generative AI skills
 
-If you have the itil role, you can summarize the chat interactions with a requester, summarize an incident, and generate resolution notes by using the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application. You can also understand the chat and incident context and propose resolutions more quickly to the requester.
+If you have the itil role, you can summarize the chat interactions with a requester, summarize an incident, and generate resolution notes by using the Now Assist for IT Service Management \(ITSM\) application. You can also understand the chat and incident context and propose resolutions more quickly to the requester.
 
 **Note:**
 
@@ -33,12 +33,12 @@ If you have the itil role, you can summarize the chat interactions with a reques
 
 |Skill Name|Description|Link|
 |----------|-----------|----|
-|Chat summarization|Summarizes the Virtual Agent chat conversation between a live agent and a requester in [[sow-landing-page|Service Operations Workspace for ITSM]].|[Summarize a chat conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/generate-chat-summary-interaction-now-assist-itsm.md)|
+|Chat summarization|Summarizes the Virtual Agent chat conversation between a live agent and a requester in Service Operations Workspace for ITSM.|[Summarize a chat conversation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/generate-chat-summary-interaction-now-assist-itsm.md)|
 |Sidebar discussion summarization|Generates summaries of Sidebar chat discussions between agents, requesters, and subject matter experts.|[Summarize a sidebar discussion](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-sidebar-discussion.md)|
 |Incident summarization|Generates summaries of incident details to quickly understand the incident context and respond to a requester's inquiries.|[Summarize an incident by using Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/summarize-incident-now-assist.md)[Summarize an incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/summarize-incident-now-assist.md)|
 |Incident reassignment summarization|Provides information about the incident when assigning it to another agent or assignment group by summarizing all actions until hand off.|[Summarize an incident on reassignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/reassign-incident-now-assist-itsm.md)|
 |Change request summarization|Quickly captures the important details of a change request including the current status.|[Summarize a change request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/summarize-change-now-assist.md)|
-|Change request risk explanation|Explains the [[c_RskAsmtCalc|risk assessment]] of a change request to help agents understand potential impacts.|[Explain a change request risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/change-risk-exp-now-assist.md)|
+|Change request risk explanation|Explains the risk assessment of a change request to help agents understand potential impacts.|[Explain a change request risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/change-risk-exp-now-assist.md)|
 |Resolution notes generation|Automatically generates the resolution notes for an incident on demand using the Now Assist context menu \(NACM\).|[Generate the resolution notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/resolve-incident-now-assist.md)|
 |Knowledge article generation|Creates knowledge articles from incidents to help deflect future similar issues.|[Generate a knowledge article](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/Now-Assist-generate-article-SOW-itsm.md)|
 |Chat reply recommendation|Generates a reply based on the context of the chat conversation using the Now Assist icon.|[Generate a chat reply recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/now-assist-itsm-chat-recommendation.md)|
@@ -54,8 +54,3 @@ If you have the itil role, you can summarize the chat interactions with a reques
 |Investigating Zoom call issues|Investigates zoom call quality issues.|[Investigate Zoom call issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/investigate-and-resolve-zoom-call-issues.md)|
 |Investigating Zoom call issues|Investigates boot time issues|[Investigate boot time issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/investigate-and-resolve-boot-time-issues.md)|
 
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[c_RskAsmtCalc|Risk assessment]]

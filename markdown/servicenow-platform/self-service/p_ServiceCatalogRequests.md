@@ -19,7 +19,7 @@ This page contains links to content on service catalog requests.
 -   **[Add new request items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/t_AddNewRequestItems.md)**  
 Use ServiceNow's web-based interface to add new items to a request.
 -   **[Amazon EC2 instance request from the Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_AmazonEC2InstanceRequest.md)**  
-Users can request the provisioning and deletion of virtual computers \(Linux or Windows\) in the Amazon EC2 virtual computing environment through the ServiceNow [[service-catalog|Service Catalog]].
+Users can request the provisioning and deletion of virtual computers \(Linux or Windows\) in the Amazon EC2 virtual computing environment through the ServiceNow Service Catalog.
 -   **[Check-out redirect property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_checkout-redirect-property.md)**  
 A property called One-step checkout redirect \(**glide.vm.checkout\_redirect**\) controls the view presented to virtual machine requesters in the service catalog.
 -   **[Delete request items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/t_DeleteRequestItems.md)**  
@@ -33,6 +33,3 @@ View the status of a request to see its progress, and determine when it may be f
 
 **Parent Topic:**[Exploring Self-service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/r_EmployeeSelfService.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

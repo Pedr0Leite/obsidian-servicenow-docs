@@ -15,7 +15,7 @@ breadcrumb: [Workplace Service Delivery, Employee Service Management]
 
 # Workplace Core
 
-The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables you to create safer, managed processes for employees in the workplace. You can establish distancing plans, shift assignments, and sanitation scheduling. Manage your workspace allocation in stages. The Workplace Core is the core application of the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] suite.
+The ServiceNow® Workplace Core application enables you to create safer, managed processes for employees in the workplace. You can establish distancing plans, shift assignments, and sanitation scheduling. Manage your workspace allocation in stages. The Workplace Core is the core application of the Workplace Service Delivery suite.
 
 ## Get started
 
@@ -33,7 +33,7 @@ The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables
 
 </td></tr><tr><td>
 
-[Request \[Omitted image "bus-start-discussion.svg"\] Alt text: [[request-employee-services|Request employee-related services]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/request-employee-services.md)
+[Request \[Omitted image "bus-start-discussion.svg"\] Alt text: Request employee-related services.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/request-employee-services.md)
 
 </td><td>
 
@@ -52,8 +52,3 @@ The ServiceNow® [[workplace-safety-mgmt-hr|Workplace Core]] application enables
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[request-employee-services|Request employee-related services]]

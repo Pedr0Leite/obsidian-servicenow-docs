@@ -28,7 +28,7 @@ Role required:
 
 ## About this task
 
-Asset groups can be used and created in the [[using-eam-workspace|Enterprise Asset Workspace]], Facility Asset Workspace, Medical Asset Workspace, and the Operational Technology \(OT\) Asset Workspace. This task specifically describes how to create an asset group in the Enterprise Asset Workspace.
+Asset groups can be used and created in the Enterprise Asset Workspace, Facility Asset Workspace, Medical Asset Workspace, and the Operational Technology \(OT\) Asset Workspace. This task specifically describes how to create an asset group in the Enterprise Asset Workspace.
 
 After you create an asset group, you can create subgroups and add assets to the subgroups.
 
@@ -227,6 +227,3 @@ Add existing assets to an asset group or a subgroup.
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

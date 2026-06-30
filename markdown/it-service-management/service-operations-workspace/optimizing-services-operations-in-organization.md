@@ -19,15 +19,15 @@ You can leverage a few Service Operations Workspace integrations to enhance and 
 ## An agent's journey when optimizing IT services
 
 -   An agent can start the day by looking at an overview of assignments, outages, service announcements, and assignments in Service Operations Workspace to prioritize work based on service level agreements \(SLAs\), priority level, and urgency​.
--   The agent can [[create-an-incident|create an incident]] based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
+-   The agent can create an incident based on the issue reported. Since the agent has access to related incidents and recent interactions, better and faster support can be provided. Agent also has access to all related information from the incident record page.
 -   The agent can resolve the incident faster by using tailored recommendations.
 -   The agent can reach out to experts on-call for high-priority tasks.​
 -   The agent can collaborate easily with the requester and peers right from the task.
--   The agent can [[t_CreateAChange|create a change request]] to fix the issue.
+-   The agent can create a change request to fix the issue.
 -   The agent can manage schedules and assigned trainings. The agent can also request for time-offs, shift swaps, and track performance against goals.
 
 -   **[Workforce Optimization for ITSM in the Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/wfo-itsm-service-operations-workspace.md)**  
-Manage your schedule using [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] Scheduling in Service Operations Workspace. Use [[cf-coaching-landing|Coaching]] to review and complete assigned training.
+Manage your schedule using Workforce Optimization for ITSM Scheduling in Service Operations Workspace. Use Coaching to review and complete assigned training.
 
 **Parent Topic:**[Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/sow-landing-page.md)
 
@@ -38,9 +38,3 @@ Manage your schedule using [[workforce-optimization-itsm-landing-page|Workforce 
 
 [Managing IT services in your organization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/managing-services-operations-in-organization.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]
-- [[t_CreateAChange|Create a change request]]
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]

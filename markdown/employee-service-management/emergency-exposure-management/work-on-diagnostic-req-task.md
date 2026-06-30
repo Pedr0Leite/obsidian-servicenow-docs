@@ -26,7 +26,7 @@ The diagnostic request task is created from the diagnostic request task configur
 
 ## Procedure
 
-1.  Navigate to **[[emergency-exposure-management|Emergency Exposure Management]]** &gt; **All**.
+1.  Navigate to **Emergency Exposure Management** &gt; **All**.
 
 2.  Open a diagnostic request from the list.
 
@@ -124,6 +124,3 @@ Role required: sn\_imt\_diagnosis.diagnostics\_admin or admin
 
 The Zebra MotionWorks proximity report contains a list of users equipped with handheld or wearable devices who were in close proximity to the affected user. The users who were inclose proximity for more than the permissible time with the affected user during the specified dates are identified from this proximity report. The information about these potentially exposed users populates the corresponding related list on the Diagnostic Request form.
 
-## Related
-
-- [[emergency-exposure-management|Emergency Exposure Management]]

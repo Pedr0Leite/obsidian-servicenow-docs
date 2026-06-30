@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # IBM WebSphere Application Server discovery using patterns
 
-The [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns application uses the Websphere On Windows and Websphere On Unix patterns to find IBM WebSphere Application Servers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The Discovery and Service Mapping Patterns application uses the Websphere On Windows and Websphere On Unix patterns to find IBM WebSphere Application Servers. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 The IBM WebSphere Application Server is a software framework with middleware that hosts Java-based web applications. Discovery identifies and classifies information about the IBM WebSphere Application Server on both Windows and Linux computers.
 
@@ -51,7 +51,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
     For more information, see [Windows credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/r_WindowsCredentialsForm.md).
 
--   **[[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]**
+-   **Schedule a horizontal discovery**
 
     For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
@@ -123,7 +123,7 @@ Discovery populates the data in the CMDB when running the Websphere On Windows a
 |Cell ID \[cell\_id\]|ID of the WebSphere cell.|
 |Cell type \[cell\_type\]|Type of the WebSphere cell.|
 |Cell discovery protocol \[cell\_discovery\_protocol\]|Cell discovery protocol.|
-|Description \[short\_description\]|Description of the cell, if one has been provided. This field is populated in [[r_DataCollDiscoLinuxComputers|Linux discovery]] only.|
+|Description \[short\_description\]|Description of the cell, if one has been provided. This field is populated in Linux discovery only.|
 
 ## CI relationships
 
@@ -137,9 +137,3 @@ Discovery creates these relationships to support the WebSphere Application Serve
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]
-- [[r_DataCollDiscoLinuxComputers|Linux discovery]]

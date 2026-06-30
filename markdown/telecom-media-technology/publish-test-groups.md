@@ -22,7 +22,7 @@ Role required: sn\_st\_mgmt.test\_def\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[stm-landing-page|Service Test Management]]** &gt; **Test Groups** &gt; **All**.
+1.  Navigate to **All** &gt; **Service Test Management** &gt; **Test Groups** &gt; **All**.
 
 2.  Select the test group that you want to publish.
 
@@ -33,6 +33,3 @@ Role required: sn\_st\_mgmt.test\_def\_manager
 
 The test group is published and its state changes from Draft to Published.
 
-## Related
-
-- [[stm-landing-page|Service Test Management]]

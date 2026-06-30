@@ -44,7 +44,7 @@ Shift Handover template key points:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace**.
 
 2.  Select the Security Incident List \[Omitted image "listview-icon.png"\] Alt text: list icon icon.
 
@@ -213,6 +213,3 @@ The shift name containing the shift start and shift end details. For example, US
 
 [Export Security Incidents or Response Tasks]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

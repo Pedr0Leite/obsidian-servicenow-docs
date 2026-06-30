@@ -20,9 +20,9 @@ Use the ServiceNow® Workplace Personal Protective Equipment Inventory Managemen
 
 PPE supplies can easily be ordered from the self-service portal via mobile or desktop.  A dashboard provides  a comprehensive view  of inventory  by facility, an  aggregate look at the  entire workplace, and  historical data on how  equipment  levels have changed over time.  Inventory levels can be updated  daily for accurate, real-time inventory management.
 
--   **Use guided setup to implement [[safe-workplace|Safe Workplace]] suite apps**
+-   **Use guided setup to implement Safe Workplace suite apps**
 
-    The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and [[emergency-response-management|Emergency Response Management]] applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
+    The Safe Workplace guided setup provides a sequence of tasks that help you configure the Safe Workplace and Emergency Response Management applications on your ServiceNow instance. To open the Safe Workplace guided setup, navigate to **Guided Setup** &gt; **Safe Workplace Guided Setup**. For more information about using the guided setup interface, see [Using guided setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
 
 ## Use with other Safe Workplace suite applications
@@ -103,11 +103,11 @@ All decisions in connection with the implementation of this application are at t
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
 -   **[Install Workplace PPE Inventory Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/install-ppe-inventory.md)**  
-You can [[install-ppe-inventory|install Workplace PPE Inventory Management]] if you have the admin role.
+You can install Workplace PPE Inventory Management if you have the admin role.
 -   **[Set up Workplace PPE Inventory Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/set-up-ppe.md)**  
-Complete setup tasks to start using Workplace PPE Inventory Management. [[create-ppe-model|Create models for PPE items]], add PPE items to your service catalog, [[add-ppe-stock|add PPE stock]], and create stock rules.
+Complete setup tasks to start using Workplace PPE Inventory Management. Create models for PPE items, add PPE items to your service catalog, add PPE stock, and create stock rules.
 -   **[PPE Inventory Overview dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/ppe-overview-dashboard.md)**  
-Use the [[ppe-overview-dashboard|PPE Inventory Overview dashboard]] to track PPE items that are in stock, on order, and assigned to employees.
+Use the PPE Inventory Overview dashboard to track PPE items that are in stock, on order, and assigned to employees.
 -   **[Request PPE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/request-ppe.md)**  
 Use Service Catalog to request personal protective equipment \(PPE\) for you to use at your workplace.
 -   **[Fulfill a request for PPE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/fulfill-ppe-request.md)**  
@@ -117,11 +117,3 @@ You can assign PPE directly to an employee without them submitting a request.
 
 **Parent Topic:**[Safe Workplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/safe-workplace.md)
 
-## Related
-
-- [[safe-workplace|Safe Workplace]]
-- [[emergency-response-management|Emergency Response Management]]
-- [[install-ppe-inventory|Install Workplace PPE Inventory Management]]
-- [[create-ppe-model|Create models for PPE items]]
-- [[add-ppe-stock|Add PPE stock]]
-- [[ppe-overview-dashboard|PPE Inventory Overview dashboard]]

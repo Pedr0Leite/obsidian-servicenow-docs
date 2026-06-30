@@ -14,11 +14,11 @@ breadcrumb: [Intraday optimization, Schedule Optimization, Setting up a Field Se
 
 # Configure on demand optimization
 
-Enable dispatchers to respond to unexpected changes by configuring on demand intraday optimization, giving them the ability to run [[schedule-optimization|Schedule Optimization]] ad hoc directly from [[dispatcher-activities|Dispatcher Workspace]].
+Enable dispatchers to respond to unexpected changes by configuring on demand intraday optimization, giving them the ability to run Schedule Optimization ad hoc directly from Dispatcher Workspace.
 
 ## Before you begin
 
-Activate and [[configure-intraday-optimization|configure intraday optimization]]. For more information, see [Activate intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-intraday-optimization.md) and [Configure intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md).
+Activate and configure intraday optimization. For more information, see [Activate intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/activate-intraday-optimization.md) and [Configure intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md).
 
 Role required: wm\_admin
 
@@ -60,8 +60,3 @@ Intraday optimization can now be triggered on demand by dispatchers to adapt to 
 
 [Run optimization for your groups or territories from Dispatcher Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/optimize-agent-schedules-on-demand-in-dispatcher-workspace.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[configure-intraday-optimization|Configure intraday optimization]]

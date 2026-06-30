@@ -14,7 +14,7 @@ breadcrumb: [Healthcare and Life Sciences Service Management Core, Healthcare an
 
 # Configuring Healthcare and Life Sciences Service Management Core
 
-Set up the [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application to create different types of workflow for [[hcls-overview|Healthcare and Life Sciences]] industry solutions.
+Set up the Healthcare and Life Sciences Service Management Core application to create different types of workflow for Healthcare and Life Sciences industry solutions.
 
 <table id="table_ksw_gpr_4nb"><thead><tr><th>
 
@@ -72,7 +72,7 @@ Define the conditions for auto-generating documents for a healthcare case.
 
 </td><td>
 
-Approve restricted caller access \(RCA\) privileges for accessing document templates from the [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] applications.
+Approve restricted caller access \(RCA\) privileges for accessing document templates from the Healthcare and Life Sciences Service Management applications.
 
 </td></tr><tr><td>
 
@@ -156,9 +156,3 @@ Prevent unauthorized users from viewing sensitive healthcare data.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]
-- [[hcls-overview|Healthcare and Life Sciences]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]

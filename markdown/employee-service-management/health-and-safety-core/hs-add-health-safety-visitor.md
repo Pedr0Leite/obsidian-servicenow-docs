@@ -14,7 +14,7 @@ breadcrumb: [Configure, Health and Safety Core, Health and Safety, Employee Serv
 
 # Add a Health and Safety visitor
 
-Create a record for a [[health-safety-overview|Health and Safety]] visitor so that they can be easily referenced in the **Visitor** field on related records.
+Create a record for a Health and Safety visitor so that they can be easily referenced in the **Visitor** field on related records.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ A visitor is a person from outside the organization who came to visit the site.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
@@ -50,7 +50,7 @@ A visitor is a person from outside the organization who came to visit the site.
 
     A Visitor ID is generated for the visitor.
 
-7.  Assign the [[health-and-safety-user-profile|Health and Safety user profile]] to the visitor record.
+7.  Assign the Health and Safety user profile to the visitor record.
 
     For more information, see [Assign Health and Safety profile to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/assign-hs-profile-user.md).
 
@@ -61,7 +61,7 @@ A visitor is a person from outside the organization who came to visit the site.
 
 -   The visitor is listed in the **Health and safety visitors** list under **Configuration** and is saved in the Health and Safety visitor \[sn\_ohs\_im\_health\_and\_safety\_visitor\] table.
 
-    **Note:** If the [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] \(com.sn\_wsd\_visitor\) application is also installed on your instance, then the list of WSD visitors from the Visitor \[sn\_wsd\_visitor\_visitor\] table is automatically synchronized with the Health and Safety visitors list in the Health and Safety visitor \[sn\_ohs\_im\_health\_and\_safety\_visitor\] table. So, the WSD visitors also show up in the **Health and safety visitors** list and should be assigned the Health and Safety user profile.
+    **Note:** If the Workplace Visitor Management \(com.sn\_wsd\_visitor\) application is also installed on your instance, then the list of WSD visitors from the Visitor \[sn\_wsd\_visitor\_visitor\] table is automatically synchronized with the Health and Safety visitors list in the Health and Safety visitor \[sn\_ohs\_im\_health\_and\_safety\_visitor\] table. So, the WSD visitors also show up in the **Health and safety visitors** list and should be assigned the Health and Safety user profile.
 
 -   The visitor's Health and Safety user profile is saved in the Health and Safety profile \[sn\_ohs\_im\_health\_and\_safety\_profile\] table.
 -   The visitor is available to be referenced in the **Visitor** field on Health and Safety records such as safety incidents that the visitor is involved in.
@@ -87,9 +87,3 @@ A visitor is a person from outside the organization who came to visit the site.
 
 [Migrate existing safety documents to the Document library]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]

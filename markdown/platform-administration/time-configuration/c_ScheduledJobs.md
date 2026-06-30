@@ -26,7 +26,7 @@ You can automate the following kinds of tasks:
 
 For developer training, see [Scheduled Script Executions and Events Objectives](https://developer.servicenow.com/dev.do#!/learn/courses/washingtondc/app_store_learnv2_automatingapps_washingtondc_automating_application_logic/app_store_learnv2_automatingapps_washingtondc_scheduled_script_executions_and_events/app_store_learnv2_automatingapps_washingtondc_scheduled_script_executions_and_events_objectives) on the ServiceNow Developer Site.
 
-Use the [[track-events|System Events and Jobs Dashboard]] to monitor the system event processing system and the scheduled jobs processing system.
+Use the [System Events and Jobs Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/track-events.md) to monitor the system event processing system and the scheduled jobs processing system.
 
 ## Scheduled job states
 
@@ -54,7 +54,7 @@ A scheduled job can be in any one of the following states.
 If you encounter errors generating a scheduled job, visit  for additional information.
 
 -   **[Create a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_CreateAScheduledJob.md)**  
-[[t_CreateAScheduledJob|Create a scheduled job]] on the Schedule Job \[sysauto\] table.
+Create a scheduled job on the Schedule Job \[sysauto\] table.
 -   **[Special cases in job schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/r_SpecialCasesInJobSchedules.md)**  
 Some special cases require care in job scheduling.
 -   **[View a schedule item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/t_ViewAScheduleItem.md)**  
@@ -64,7 +64,3 @@ Advanced scheduling options for scheduled jobs support greater flexibility in jo
 
 **Parent Topic:**[System scheduler](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_SystemScheduler.md)
 
-## Related
-
-- [[track-events|Monitor System Events and Scheduled Jobs dashboards]]
-- [[t_CreateAScheduledJob|Create a scheduled job]]

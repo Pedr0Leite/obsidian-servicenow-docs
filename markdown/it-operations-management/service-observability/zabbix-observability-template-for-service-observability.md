@@ -20,7 +20,7 @@ Dashboard and charts on the Zabbix Observability tab of the Service Details page
 
 This dashboard displays performance metrics for the selected service.
 
-**Note:** If the [[otto-aiops-dashboards|dashboards]] have been customized, they might not reflect the information shown on this page.
+**Note:** If the dashboards have been customized, they might not reflect the information shown on this page.
 
 |Chart|Description|Data source|
 |-----|-----------|-----------|
@@ -66,7 +66,7 @@ These dashboards display metrics for databases related to the service.
 |Rows Returned By Queries Per Second|Number of rows returned by queries per second.|Zabbix|
 |Rows Inserted By Queries Per Second|Number of rows inserted by queries per second.|Zabbix|
 |Rows Deleted By Queries Per Second|Number of rows deleted by queries per second.|Zabbix|
-|All Postgresql Instances|Table listing all PostgreSQL database instances with their operational status, [[r-discovery|discovery]] source, category, subcategory, and support group information.|CMDB|
+|All Postgresql Instances|Table listing all PostgreSQL database instances with their operational status, discovery source, category, subcategory, and support group information.|CMDB|
 
 ## Networking dashboards
 
@@ -373,7 +373,3 @@ Zabbix
 </td></tr></tbody>
 </table>**Parent Topic:**[Zabbix templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/zabbix-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]
-- [[r-discovery|Discovery]]

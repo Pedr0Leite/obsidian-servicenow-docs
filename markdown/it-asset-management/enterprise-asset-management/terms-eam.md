@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Terminology for linear assets
 
-Terms commonly used for linear assets in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+Terms commonly used for linear assets in the Enterprise Asset Management application.
 
 ## Linear asset terms and their description
 
@@ -128,7 +128,7 @@ A linear asset relationship for linear assets that have a start and an end marke
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -156,7 +156,3 @@ A linear asset relationship for linear assets that have a start and an end marke
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[model-hierarchy|Model categories]]

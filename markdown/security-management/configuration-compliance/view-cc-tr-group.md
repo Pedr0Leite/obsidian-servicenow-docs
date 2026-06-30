@@ -16,7 +16,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 You can view, or, alternatively, create a remediation task and perform remediation.
 
-**Important:** You can view the remediation tasks in the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]. For more information, see [List page in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-list-page.md).
+**Important:** You can view the remediation tasks in the Vulnerability Manager Workspace. For more information, see [List page in the Vulnerability Manager Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-manager-workspace/vmws-list-page.md).
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 -   sn\_vulc.admin to update or create
 -   sn\_vulc.remediation\_owner to view
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -267,8 +267,3 @@ Status and states of change request approvals associated with this remediation t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

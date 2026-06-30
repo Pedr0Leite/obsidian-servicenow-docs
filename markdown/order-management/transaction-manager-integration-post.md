@@ -16,13 +16,13 @@ Learn how to write data to a third-party application such as Salesforce by using
 
 ## Prerequisites
 
-This article assumes that you have a CPQ environment that is integrated to a corresponding Salesforce environment. Before you continue, see [[installing-the-salesforce-transaction-manager-integration-package-extension|Installing the Salesforce Transaction Manager Integration Package extension]] to complete the necessary integrations.
+This article assumes that you have a CPQ environment that is integrated to a corresponding Salesforce environment. Before you continue, see [Installing the Salesforce Transaction Manager Integration Package extension](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/installing-the-salesforce-transaction-manager-integration-package-extension.md) to complete the necessary integrations.
 
-When the end user initiates a function that writes CPQ data back to the corresponding Salesforce transaction record, CPQ must have the Salesforce transaction’s record identifier on hand. To understand how to retrieve the Salesforce transaction ID and save it into CPQ for future use, see [[transaction-manager-integration-get|Transaction Manager: Integration - GET]].
+When the end user initiates a function that writes CPQ data back to the corresponding Salesforce transaction record, CPQ must have the Salesforce transaction’s record identifier on hand. To understand how to retrieve the Salesforce transaction ID and save it into CPQ for future use, see [Transaction Manager: Integration - GET](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-get.md).
 
 ## Salesforce setup
 
-In this example, we write LGK data to the Salesforce [[fields|fields]] listed below. Review the Salesforce Transaction and TransactionLine objects to ensure these fields are present.
+In this example, we write LGK data to the Salesforce fields listed below. Review the Salesforce Transaction and TransactionLine objects to ensure these fields are present.
 
 Header fields \(Salesforce object:**LGK\_\_Transaction\_\_c**\)
 
@@ -36,7 +36,7 @@ Line Fields \(Salesforce object: **LGK\_\_TransactionLine\_\_c**\)
 -   **LGK\_\_PricingList\_\_c**: the line-level list price.
 -   **LGK\_\_PricingNet\_\_c**: the line net price, or discounted piece price.
 -   **LGK\_\_PricingExtendedNet\_\_c**: the line net total, or extended net price \(includes quantity\).
--   **LGK\_\_ParentTransactionLineId\_\_c** checks whether **txn.line.custom.parentLineReferenceId** exists. If it does, it assigns the corresponding line's **id**; otherwise, it [[cpq-sets|sets]] the value to **null**.
+-   **LGK\_\_ParentTransactionLineId\_\_c** checks whether **txn.line.custom.parentLineReferenceId** exists. If it does, it assigns the corresponding line's **id**; otherwise, it sets the value to **null**.
 -   **LGK\_\_Product2Id\_\_c** is mapped to the **partnerId** of the product associated with the current transaction line.
 
 ## POST integration using Composite Graph
@@ -59,7 +59,7 @@ The Salesforce Composite Graph API does not support hyphens in certain identifie
 
 To remove hyphens by using a rule, create a determination rule action to make line-level reference Id fields Salesforce-compatible. You can add both the lineReferenceId determination action and parentLineReferenceId determination action in a single rule.
 
-Below are two determination [[scripts|scripts]] \(transaction line level\) for how the fields should be defined.
+Below are two determination scripts \(transaction line level\) for how the fields should be defined.
 
 ```
 // lineReferenceId Determination Action
@@ -91,7 +91,7 @@ return result;
 
 The rule should be configured as follows, with two determination actions to handle **txn.line.custom.lineReferenceId** and **txn.line.custom.parentLineReferenceId**:
 
-\[Omitted image "cpq-txn-mgr-integration-post-[[rules_101|rules]]-1.png"\] Alt text: [[transaction-manager|Transaction Manager]] Setup
+\[Omitted image "cpq-txn-mgr-integration-post-rules-1.png"\] Alt text: Transaction Manager Setup
 
 \[Omitted image "cpq-txn-mgr-integration-post-rules-2.png"\] Alt text: Transaction Manager Setup
 
@@ -99,7 +99,7 @@ Add Connection
 
 The screenshot below shows the external connection as “Salesforce” in the POST integration.
 
-If you want to create a new connection, see the "Creating a Connection" section in [[transaction-manager-integrations|Transaction Manager: Integrations]].
+If you want to create a new connection, see the "Creating a Connection" section in [Transaction Manager: Integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integrations.md).
 
 \[Omitted image "cpq-txn-mgr-integration-post-add-connection.png"\] Alt text: Transaction Manager Setup
 
@@ -163,7 +163,7 @@ This transformation template is added to the Transformation Template area of the
 
 \[Omitted image "cpq-txn-mgr-integration-post-add-2.png"\] Alt text: Transaction Manager Setup
 
-For more information about Handlebar syntax, see [[transaction-manager-integrations-handlebar-syntax|Transaction Manager: Integrations - Handlebars syntax]].
+For more information about Handlebar syntax, see [Transaction Manager: Integrations - Handlebars syntax](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integrations-handlebar-syntax.md).
 
 ## Debugging the POST call
 
@@ -189,14 +189,3 @@ To use the Integration Admin interface to debug a POST call that is not working 
 
 [Transaction Manager: Integration - GET](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/transaction-manager-integration-get.md)
 
-## Related
-
-- [[installing-the-salesforce-transaction-manager-integration-package-extension|Installing the Salesforce Transaction Manager Integration Package extension]]
-- [[transaction-manager-integration-get|transaction manager integration get]]
-- [[transaction-manager-integrations|transaction manager integrations]]
-- [[transaction-manager-integrations-handlebar-syntax|transaction manager integrations handlebar syntax]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[scripts|Scripts]]
-- [[rules_101|Rules]]
-- [[transaction-manager|Transaction Manager]]

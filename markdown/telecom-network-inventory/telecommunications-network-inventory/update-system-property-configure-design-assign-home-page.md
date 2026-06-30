@@ -14,7 +14,7 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Update system property to configure the Design and Assign home page
 
-Update the system property to add a playbook to the [[telecommunications-circuit-design-resource-assignment|Design and Assign]] home page in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can launch the [[using-playbooks-design-assign-inventory-record|Design and Assign function]] from the home page and execute the steps to achieve your goal.
+Update the system property to add a playbook to the Design and Assign home page in the Telecommunications Network Inventory application. You can launch the Design and Assign function from the home page and execute the steps to achieve your goal.
 
 ## Before you begin
 
@@ -54,8 +54,3 @@ Use the playbook to design and assign a service request. To learn more, see [Des
 
 [Configure a Design and Assign function example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-design-assign-playbook-use-case.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]

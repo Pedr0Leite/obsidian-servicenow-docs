@@ -15,7 +15,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Detecting portable applications using push-based discovery
 
-Portable applications are those applications that don’t need to be installed on the target system. Starting in ACC-VC version 2.3.0, push-based [[r-discovery|Discovery]] can detect portable applications, such as Firefox, VLC, Notepad++ etc, for Windows only.
+Portable applications are those applications that don’t need to be installed on the target system. Starting in ACC-VC version 2.3.0, push-based Discovery can detect portable applications, such as Firefox, VLC, Notepad++ etc, for Windows only.
 
 **Note:** Only portable applications listed in [https://portableapps.com/](https://portableapps.com/) are supported.
 
@@ -37,6 +37,3 @@ Name, Version, and Vendor attributes are fetched from the Portable software and 
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

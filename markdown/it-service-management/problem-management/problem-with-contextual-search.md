@@ -16,7 +16,7 @@ breadcrumb: [Reference section for Problem Management, Problem Management, IT Se
 
 Contextual search display results on forms and record producers based on the text that you provide in a field.
 
-**Note:** Contextual Search is available for problems in instances starting with the Madrid release. Existing users can request to activate the [[c_ProblemManagement|Problem Management]] general guidelines — Madrid plugin \(com.snc.best\_practice.problem.madrid\).
+**Note:** Contextual Search is available for problems in instances starting with the Madrid release. Existing users can request to activate the Problem Management general guidelines — Madrid plugin \(com.snc.best\_practice.problem.madrid\).
 
 You can:
 
@@ -31,6 +31,3 @@ You can:
 
 [Contextual search overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ContextualSearch.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

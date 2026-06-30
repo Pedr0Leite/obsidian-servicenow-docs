@@ -14,7 +14,7 @@ breadcrumb: [Applying CSDM guidelines to Problem Management, Configuring Problem
 
 # Problem Management and CSDM tables
 
-[[c_ProblemManagement|Problem Management]] manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Problem Management.
+Problem Management manages and uses CSDM tables. Several ServiceNow products benefit from and add value to Problem Management.
 
 ## CSDM tables used by Problem Management
 
@@ -30,24 +30,17 @@ breadcrumb: [Applying CSDM guidelines to Problem Management, Configuring Problem
 When you use Problem Management with one of the following ServiceNow products, you increase the value you get from Problem Management.
 
 -   Discovery provides details about the tangible/physical and software CIs you are using.
--   [[SPM2-landing-page|Service Portfolio Management]] provides life-cycle information for a service.
--   [[c_AssetManagement|Asset Management]] provides the related product model. Software Asset Management \(SAM Foundation \) and Hardware Asset Management \(HAM\) provide life-cycle data for Technology Portfolio Management.
+-   Service Portfolio Management provides life-cycle information for a service.
+-   Asset Management provides the related product model. Software Asset Management \(SAM Foundation \) and Hardware Asset Management \(HAM\) provide life-cycle data for Technology Portfolio Management.
 -   Security Management provides initial information to containment, eradication, and recovery of security related problems.
 -   Risk Management provides IT risk and financial risk information.
 
 ## Products that benefit from APM
 
--   [[r_ITServiceManagement|IT Service Management]] \(ITSM\): Services have the context of the business and [[dex-workspace-application-tab|applications]], along with the information and technologies layered beneath them.
+-   IT Service Management \(ITSM\): Services have the context of the business and applications, along with the information and technologies layered beneath them.
 -   Information Technology Operations Management \(ITOM\): Understands the business context for the service instances along with the tangible/physical device and software being managed.
 -   Governance, Risk, and Compliance \(GRC\): Auditors can leverage the business applications and related Information Objects. This helps auditors understand the design-time data sensitivity for scoping audits, measuring risks, and managing audit activities.
 -   Asset Management: Manages the software and tangible/physical CI life cycles for business applications and business services.
 
 **Parent Topic:**[Applying CSDM guidelines to Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/pm-use-case-product-view.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[c_AssetManagement|Asset Management]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[dex-workspace-application-tab|Applications]]

@@ -34,7 +34,7 @@ The system uses roles, groups, skills, and location to determine the appropriate
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Manage Roles** &gt; **Escalation Rules**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Manage Roles** &gt; **Escalation Rules**.
 
 2.  Create a new escalation rule by selecting **New**, or modify an existing rule by opening it from the list.
 
@@ -62,6 +62,3 @@ You can view group information by selecting any tier in the **Escalate from** or
 
 [Manage HR Groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_ManageHRGroups.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

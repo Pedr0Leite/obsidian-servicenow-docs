@@ -12,7 +12,7 @@ breadcrumb: [Configure, Pre-Visit Management, Healthcare and Life Sciences Servi
 
 # Configure when to send the procedure consent form to a patient
 
-Configure the [[pre-visit-mgmt-app|Pre-Visit Management]] application to when to send the procedure consent document for review and signature to a patient before the procedure appointment date.
+Configure the Pre-Visit Management application to when to send the procedure consent document for review and signature to a patient before the procedure appointment date.
 
 ## Before you begin
 
@@ -42,9 +42,5 @@ By default, the **Send procedure consent schedule** scheduled job is configured 
 **Related topics**  
 
 
-[[pre-visit-properties|Pre-Visit Management properties]]
+[Pre-Visit Management properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-properties.md)
 
-## Related
-
-- [[pre-visit-properties|Pre-Visit Management properties]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

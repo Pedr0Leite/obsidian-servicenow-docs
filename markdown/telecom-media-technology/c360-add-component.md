@@ -24,7 +24,7 @@ Add the Telecom Customer 360 component as a dedicated tab on a record page in th
 
 **Note:**
 
--   After adding the component, you must also add the **Setup Customer360 Context** data resource to the page. This data resource resolves the record to the associated account or consumer. Without it, the component context cannot be determined. See [[c360-add-data-resource|Add the Setup Customer360 Context data resource]].
+-   After adding the component, you must also add the **Setup Customer360 Context** data resource to the page. This data resource resolves the record to the associated account or consumer. Without it, the component context cannot be determined. See [Add the Setup Customer360 Context data resource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-add-data-resource.md).
 -   The component can be only be added as a new tab on the record page. You can't embed it within an existing tab.
 
 ## Procedure
@@ -109,16 +109,11 @@ A JSON object that maps each card key to the sys ID of the card definition recor
 
 ## Result
 
-When you navigate to a record on the page where the component is added, the new tab displays the Telecom Customer 360 view for the account or consumer associated with that record. To change the cards that are displayed or the data shown on each card, update the card settings as described in [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]].
+When you navigate to a record on the page where the component is added, the new tab displays the Telecom Customer 360 view for the account or consumer associated with that record. To change the cards that are displayed or the data shown on each card, update the card settings as described in [Configure the Telecommunications Customer 360 variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-configure-variables.md).
 
 ## What to do next
 
 Add the Setup Customer360 Context data resource to the page. For more information, see [Add the Setup Customer360 Context data resource](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-add-data-resource.md).
 
-**Parent Topic:**[[c360-component|Telecommunications Customer 360 component]]
+**Parent Topic:**[Telecommunications Customer 360 component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/c360-component.md)
 
-## Related
-
-- [[c360-add-data-resource|Add the Setup Customer360 Context data resource]]
-- [[c360-configure-variables|Configure the Telecommunications Customer 360 variables]]
-- [[c360-component|Telecommunications Customer 360 component]]

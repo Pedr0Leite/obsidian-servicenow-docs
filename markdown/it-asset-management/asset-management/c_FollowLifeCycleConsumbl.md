@@ -22,7 +22,7 @@ The group of consumables has one or more of the following traits.
 -   Same state
 -   Consumed by the same asset, typically as accessories or parts
 
-Some common [[c_ReceiveAConsumableAsset|consumable assets]] include mouse devices, computer keyboards, and pencils. The base ServiceNow system includes the **Consumable** model category. The first step in working with [[c_Models|models]] is to create a model within the model category for an individual consumable asset. Items such as monitors, keyboards, and mouse devices are often tracked as consumables. Consumables cannot be pre-allocated.
+Some common consumable assets include mouse devices, computer keyboards, and pencils. The base ServiceNow system includes the **Consumable** model category. The first step in working with models is to create a model within the model category for an individual consumable asset. Items such as monitors, keyboards, and mouse devices are often tracked as consumables. Consumables cannot be pre-allocated.
 
 Consumable assets are stored in the Consumable \[alm\_consumable\] table. Consumables follow a slightly different life cycle from other assets.
 
@@ -43,11 +43,11 @@ Consumables are tracked as a group of the same model, but you can view individua
 -   **[Create consumable assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingConsumableAssets.md)**  
 Create a consumable to track an asset as a group of the same model.
 -   **[Consume consumable assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_ConsumingConsumableAssets.md)**  
-To [[t_ConsumingConsumableAssets|consume consumable assets]], they must have a state of **In Stock** and a substate of **Available**.
+To consume consumable assets, they must have a state of **In Stock** and a substate of **Available**.
 -   **[Return consumable assets to stockrooms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/return-consumables.md)**  
 Move a consumable asset that is in a consumed state and has completed its life cycle back to an in-stock status.
 -   **[Dispose of consumable assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/dispose-consumables.md)**  
-Dispose of those consumable assets that are no longer required in your [[c_Stockrooms|stockrooms]].
+Dispose of those consumable assets that are no longer required in your stockrooms.
 
 **Parent Topic:**[Using Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/using-asset-management.md)
 
@@ -70,9 +70,3 @@ Dispose of those consumable assets that are no longer required in your [[c_Stock
 
 [Use Organization Management]()
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Models|Models]]
-- [[t_ConsumingConsumableAssets|Consume consumable assets]]
-- [[c_Stockrooms|Stockrooms]]

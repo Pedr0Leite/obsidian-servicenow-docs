@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Investigations, Legal Service Delivery Practice Ap
 
 # Ethics complaints intake form in the Anonymous Report Center portal
 
-Employees can use the [[ethics-complaint-intake-form|Ethics Complaints intake form]] in the [[arc-portal|Anonymous Report Center \(ARC\)]] portal to report an ethics violation incident. Different sets of fields appear on the form based on the active record producers.
+Employees can use the Ethics Complaints intake form in the Anonymous Report Center \(ARC\) portal to report an ethics violation incident. Different sets of fields appear on the form based on the active record producers.
 
 The following fields appear on the Ethics Complaints form in the ARC portal when the record producer mapped to the Ethics \[sn\_lg\_ops\_ethics\] table is active.
 
@@ -67,7 +67,7 @@ I understand that the information I'm providing, including any sensitive or pers
 Option to acknowledge submitting sensitive information or personal details of people involved through the request.
 
 </td></tr></tbody>
-</table>The following fields appear on the Ethics Complaints form in the ARC portal when the record producer mapped to the [[ur-landing-limitedaccess|Universal Request]] \[universal\_request\] table is active.
+</table>The following fields appear on the Ethics Complaints form in the ARC portal when the record producer mapped to the Universal Request \[universal\_request\] table is active.
 
 |Field|Description|
 |-----|-----------|
@@ -76,8 +76,3 @@ Option to acknowledge submitting sensitive information or personal details of pe
 
 **Parent Topic:**[Legal Investigations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/legal-investigations-reference.md)
 
-## Related
-
-- [[ethics-complaint-intake-form|Ethics complaints intake form]]
-- [[arc-portal|Anonymous Report Center \(ARC\)]]
-- [[ur-landing-limitedaccess|Universal Request]]

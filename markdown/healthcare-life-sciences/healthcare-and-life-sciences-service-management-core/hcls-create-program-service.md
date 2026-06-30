@@ -14,7 +14,7 @@ breadcrumb: [Configure programs and program services, Configure, Healthcare and 
 
 # Configure a program service
 
-Add a program service for use within the programs associated with the [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] applications.
+Add a program service for use within the programs associated with the Healthcare and Life Sciences Service Management applications.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn.hcls\_manager or admin
 
 ## About this task
 
-By default, the application provides a few sample program services for the [[hcls-overview|Healthcare and Life Sciences]] workflows that you can as a reference when creating a program service.
+By default, the application provides a few sample program services for the Healthcare and Life Sciences workflows that you can as a reference when creating a program service.
 
 ## Procedure
 
@@ -192,7 +192,4 @@ Role required: sn.hcls\_manager or admin
 
 3.  On the Program service form, click **Publish** to make the program service available for use within Healthcare and Life Sciences Service Management applications.
 
-## Related
 
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[hcls-overview|Healthcare and Life Sciences]]

@@ -87,8 +87,5 @@ Role required: ui\_builder\_admin, admin
 14. Save the page.
 
 
-**Parent Topic:**[[technical-dashboards|Technical dashboards]]
+**Parent Topic:**[Technical dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/technical-dashboards.md)
 
-## Related
-
-- [[technical-dashboards|Technical dashboards]]

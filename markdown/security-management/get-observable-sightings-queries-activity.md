@@ -12,7 +12,7 @@ breadcrumb: [Security Operations Integration - Sightings Search Flow, Create sig
 
 # Get Observable Sightings Queries activity
 
-The **Get Observable [[indicator-sightings|Sightings]] Queries** workflow activity retrieves queries from the integration configuration.
+The **Get Observable Sightings Queries** workflow activity retrieves queries from the integration configuration.
 
 The **Get Observable Sightings Queries** activity can be used with any workflow to get queries to send to the specified implementation using the **Parallel Flow Launcher**.
 
@@ -31,7 +31,7 @@ Input variables determine the initial behavior of the activity.
 
 |Variable|Description|
 |--------|-----------|
-|observables|List of filtered [[c_Observables|observables]].|
+|observables|List of filtered observables.|
 |capabilities|List of supported capabilities.|
 
 ## Output variables
@@ -43,10 +43,5 @@ The output variables contain data that can be used in subsequent activities.
 |queries|Search string.|
 |queryCount|Number of queries to run.|
 
-**Parent Topic:**[[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
+**Parent Topic:**[Security Operations Integration - Sightings Search Flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/secops-integration-sightings-search-workflow.md)
 
-## Related
-
-- [[secops-integration-sightings-search-workflow|Security Operations Integration - Sightings Search Flow]]
-- [[indicator-sightings|Sightings]]
-- [[c_Observables|Observables]]

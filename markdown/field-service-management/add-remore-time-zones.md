@@ -16,7 +16,7 @@ Add time zones for dispatchers to choose from and make it easier for dispatchers
 
 ## About this task
 
-Dispatchers can choose what time zones to display on the calendar or hybrid views in [[dispatcher-activities|Dispatcher Workspace]]. You, the administrator, determine what time zones each dispatcher can add.
+Dispatchers can choose what time zones to display on the calendar or hybrid views in Dispatcher Workspace. You, the administrator, determine what time zones each dispatcher can add.
 
 After you add a time zone as an option, dispatchers can select it from the settings menu. For more information, see the calendar section on [Enable Dispatcher Workspace settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/dispatcher-wrkspc-settings.md).
 
@@ -45,6 +45,4 @@ Role required: admin
 
 7.  Select **Update**.
 
-## Related
 
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,7 +14,7 @@ breadcrumb: [HR Predictive Intelligence Workbench administration, HR Predictive 
 
 # HR Predictive Intelligence Workbench notifications
 
-[[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]] includes several email notifications that alert users throughout the use-case model implementation.
+HR Predictive Intelligence Workbench includes several email notifications that alert users throughout the use-case model implementation.
 
 The Predictive Intelligence process architects who are creating and training use-case models receive an email notification when a use-case model is successfully trained and when batch testing has finished successfully. If a use case fails training or if batch testing produces errors, users will receive notifications about these scenarios, as well.
 
@@ -57,6 +57,3 @@ Sends an email to a specified user group when a use case model training has fail
 
 **Parent Topic:**[HR Predictive Intelligence Workbench administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-piwb-administration.md)
 
-## Related
-
-- [[hr-predictive-intelligence-wb|HR Predictive Intelligence Workbench]]

@@ -24,7 +24,7 @@ Users with the sn\_customerservice\_manager role can update a special handling n
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnScreenAlerts|Special Handling Notes]]** &gt; **Special Handling Notes**.
+1.  Navigate to **All** &gt; **Special Handling Notes** &gt; **Special Handling Notes**.
 
     You can also update a note from the Special Handling Notes list on a form.
 
@@ -34,6 +34,4 @@ Users with the sn\_customerservice\_manager role can update a special handling n
 
 4.  Click **Update**.
 
-## Related
 
-- [[c_OnScreenAlerts|Special handling notes]]

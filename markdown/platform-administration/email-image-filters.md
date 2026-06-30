@@ -12,11 +12,11 @@ breadcrumb: [Email properties, Configure, Email Administration, Notifications, C
 
 # Email image filtering properties
 
-Use email image filtering properties to control how [[ia-inbound-email-il|inbound email]] images attach to a target record.
+Use email image filtering properties to control how inbound email images attach to a target record.
 
 When a user sends an email to the system, email images \(such as logos or email signatures\) attach to the target record by default. These images are also visible in the activity stream of the target record. The system then replicates these images, which can cause duplicate image attachments to the target record and also duplicate images in the activity stream.
 
-To filter images from emails and reduce duplicate image attachments to target records, configure the following properties in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table. Use these properties to:
+To filter images from emails and reduce duplicate image attachments to target records, configure the following properties in the System Properties \[sys\_properties\] table. Use these properties to:
 
 -   Specify the email image sizes eligible for filtering.
 -   Choose an action that controls image attachment behavior and image visibility in the activity stream.
@@ -46,7 +46,7 @@ Sets the minimum image size in bytes for inbound email images to attach to the t
 
 </td><td>
 
-Specifies the image filtering behavior. **Note:** Regardless of the action you select, the image is visible when you choose to **Preview HTML Email** or **Show Email Details** in the [[c_ActivityFormatter|activity formatter]].
+Specifies the image filtering behavior. **Note:** Regardless of the action you select, the image is visible when you choose to **Preview HTML Email** or **Show Email Details** in the activity formatter.
 
  -   Type: Choice list
     -   AttachTarget - Associate the image to the target record. The image is visible in the activity formatter and in the attachment to the target record.
@@ -55,7 +55,7 @@ Specifies the image filtering behavior. **Note:** Regardless of the action you s
 -   Default value: AttachEmail
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_EmailProperties|Email properties]]
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailProperties.md)
 
 **Related topics**  
 
@@ -68,12 +68,5 @@ Specifies the image filtering behavior. **Note:** Regardless of the action you s
 
 [Advanced email properties]()
 
-[[t_AddAPropertyUsingSysPropsList|Add a system property]]
+[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
-## Related
-
-- [[c_EmailProperties|Email properties]]
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_ActivityFormatter|Activity formatter]]

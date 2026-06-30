@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Management Database \(CMDB\), Configuratio
 
 # CMDB APIs \(CMDB SDK\)
 
-Use CMDB APIs to create, update, and read operations on the CMDB. [[domain-separation-relationship-formatter-editor|Domain separation]] is supported in CMDB APIs.
+Use CMDB APIs to create, update, and read operations on the CMDB. Domain separation is supported in CMDB APIs.
 
 ## CMDB APIs \(CMDB SDK\)
 
@@ -82,6 +82,3 @@ There is no application-specific data to manage with CMDB.
 
 [Domain separation and Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/domain-separation-cmdb.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

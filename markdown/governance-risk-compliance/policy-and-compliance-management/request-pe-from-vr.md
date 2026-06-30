@@ -14,7 +14,7 @@ breadcrumb: [Manage policy exceptions and extensions, Classic UI, Policy and Com
 
 # Policy Exception Integration with Vulnerability Response
 
-Starting with Version 10.1, you can request policy exceptions using the GRC policy exception management capability inherent in the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application from within version 10.3 of the Vulnerability Response application.
+Starting with Version 10.1, you can request policy exceptions using the GRC policy exception management capability inherent in the Policy and Compliance Management application from within version 10.3 of the Vulnerability Response application.
 
 ## Benefits of using the Policy Exception Integration
 
@@ -109,6 +109,3 @@ Clicking the **Approve** button causes the approval rule to be executed and the 
 
 **Parent Topic:**[Manage policy exceptions and extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/manage-policy-exceptions.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

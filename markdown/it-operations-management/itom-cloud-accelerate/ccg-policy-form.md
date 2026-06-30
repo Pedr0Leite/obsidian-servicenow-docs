@@ -68,7 +68,7 @@ Type
 
 </td><td>
 
-[[cloud-configuration-governance|Cloud Configuration Governance]] supports the following types:-   **Condition builder**: The no-code method for creating policies.
+Cloud Configuration Governance supports the following types:-   **Condition builder**: The no-code method for creating policies.
 -   **Integration Hub Flow**: The low-code method for creating policies.
 -   **Script**: The code-based method for creating policies.
 
@@ -175,6 +175,3 @@ Severity level of the violation. If you do not select the severity level in the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Configuration Governance reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-reference.md)
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]

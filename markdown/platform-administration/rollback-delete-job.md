@@ -24,7 +24,7 @@ If you want to restore records deleted through a delete job, execute a rollback 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Delete jobs**.
+1.  Navigate to **All** &gt; **System Data Management** &gt; **Delete jobs**.
 
 2.  Select a delete job that has been executed.
 
@@ -37,9 +37,5 @@ If you want to restore records deleted through a delete job, execute a rollback 
 
 The rollback job is executed immediately and the deleted records are restored. If you want to delete the restored records, create a delete job using the same conditions, and then schedule the delete job or execute it immediately.
 
-**Parent Topic:**[[deleting-records-safely|Deleting records safely in Core UI]]
+**Parent Topic:**[Deleting records safely in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-records-safely.md)
 
-## Related
-
-- [[deleting-records-safely|Deleting records safely in Core UI]]
-- [[c_DataManagement|Data Management]]

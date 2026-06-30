@@ -22,7 +22,7 @@ The ServiceNow AI Platform configuration tree shows your selected record as the 
 
 -   **Large configuration trees**
 
-    For large configuration trees the [[mab-concept|Mobile App Builder]] condenses certain records. This capability ensures that the configuration tree is a more manageable size.
+    For large configuration trees the Mobile App Builder condenses certain records. This capability ensures that the configuration tree is a more manageable size.
 
     These partially loaded records are recognizable because they don’t have any child records displayed beneath them. Open and edit these floored records and any records associated with it by choosing the record and then selecting the **Open record to edit** button. Once selected, the Mobile App Builder displays the chosen floored record as the root-level record. You can edit this record and all its child records. To return to the parent record, select the **Back to &lt;parent record name&gt;** button, located next to the record name in the toolbar.
 
@@ -42,7 +42,7 @@ Resize panel controller
 
 </th></tr></thead><tbody><tr><td>
 
-\[Omitted image "mab-config-tree.png"\] Alt text: Configuration tree within the [[form-screen|record screen]].
+\[Omitted image "mab-config-tree.png"\] Alt text: Configuration tree within the record screen.
 
 </td><td>
 
@@ -50,8 +50,3 @@ Resize panel controller
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[form-screen|Record screen]]

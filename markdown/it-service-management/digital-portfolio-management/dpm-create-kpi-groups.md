@@ -14,7 +14,7 @@ breadcrumb: [Configure KPI groups, Configure, Digital Portfolio Management, IT S
 
 # Create KPI groups and mappings in Digital Portfolio Management
 
-Create key performance indicator \(KPI\) groups and mappings in [[dpm-landing|Digital Portfolio Management]] \(DPM\) to monitor the overall health and progress of all your services and offerings.
+Create key performance indicator \(KPI\) groups and mappings in Digital Portfolio Management \(DPM\) to monitor the overall health and progress of all your services and offerings.
 
 ## Before you begin
 
@@ -30,8 +30,8 @@ Create KPI groups and associate each group's type with its corresponding record.
 -   Services
 -   Offerings
 -   Service instances
--   Business [[dex-workspace-application-tab|applications]]
--   [[dpm-enterprise-portfolios|Enterprise portfolios]]
+-   Business applications
+-   Enterprise portfolios
 -   Enterprise taxonomy nodes
 
 In addition to creating your own KPI groups, you can use and configure the KPI groups that come with the base DPM application. For details, see [KPI groups in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-kpi.md).
@@ -255,8 +255,3 @@ Mapping type associated with the KPI group. Depending on which KPI Group you sel
 
 [Configure KPIs in Digital Portfolio Management with service availability example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-configure-kpi-availability.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-enterprise-portfolios|Enterprise portfolios]]

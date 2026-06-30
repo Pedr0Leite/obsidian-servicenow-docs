@@ -14,7 +14,7 @@ breadcrumb: [Reference, Employee Document Management, HR Documents, HR Service D
 
 # Components installed with Employee Document Management
 
-Several types of components install with the activation of the [[hr-employee-doc-management|Employee Document Management]] \[com.sn\_employee\_document\_management\] plugin, including tables, user roles, and scheduled jobs.
+Several types of components install with the activation of the Employee Document Management \[com.sn\_employee\_document\_management\] plugin, including tables, user roles, and scheduled jobs.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -53,10 +53,10 @@ Has full control over the Employee Document Management application. Can:-   Acce
     -   Document Type \[sn\_hr\_ef\_document\_type\]
 -   Manage legal holds on profiles and document types.
 
-**Note:** Contains the HR basic \[sn\_hr\_core.basic\] role that contains the [[c_HRProfileRecords|HR profile]] writer \[sn\_hr\_core.profile\_writer\] role.
+**Note:** Contains the HR basic \[sn\_hr\_core.basic\] role that contains the HR profile writer \[sn\_hr\_core.profile\_writer\] role.
 
 -   Administer the Employee Documents Properties.
--   Configure and administer [[edm-bulk-uploads|Employee Document Management Bulk Imports]].
+-   Configure and administer Employee Document Management Bulk Imports.
 
 </td><td>
 
@@ -314,8 +314,3 @@ Associates security policies to a document type.
 
 [Properties for Employee Document Management application]()
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[edm-bulk-uploads|Employee document management bulk imports]]

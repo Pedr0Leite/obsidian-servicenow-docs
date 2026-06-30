@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.case\_writer
 
 The Advanced Work Assignment for HRSD \(com.sn\_hr\_awa\) plugin must be activated to use response templates in chat. For more information, see [Response templates for HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-templated-snippets.md).
 
-**Note:** Currently, chat is only available for Interactions in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]].
+**Note:** Currently, chat is only available for Interactions in Agent Workspace for HR Case Management.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **Agent Workspace for HR Case Management**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Ensure your **Inbox** status is set to **Available**.
 
@@ -40,7 +40,4 @@ The Advanced Work Assignment for HRSD \(com.sn\_hr\_awa\) plugin must be activat
 
 6.  Select the Send button to transmit the message.
 
-## Related
 
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[case-management-workspace|Case management]]

@@ -55,7 +55,7 @@ Configure which fields appear in the community profile and manage the settings a
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -77,6 +77,3 @@ Configure which fields appear in the community profile and manage the settings a
 
 [Community Service Portal]()
 
-## Related
-
-- [[servicenow-communities|Communities]]

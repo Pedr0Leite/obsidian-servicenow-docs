@@ -18,8 +18,5 @@ JSON Web Tokens \(JWTs\) enable the capability to configure server-to-server API
 
 The JSON Web Token\(JWT\) bearer grant is a JSON string contains claim values which are evaluated and validated by the JWT Grant Handlers at the Authorization Server end, before issuing an access token.
 
-Using the JWT Bearer grant type, you can configure [[c_OAuthApplications|OAuth 2.0]] JWT bearer grant flow for outbound rest message.
+Using the JWT Bearer grant type, you can configure OAuth 2.0 JWT bearer grant flow for outbound rest message.
 
-## Related
-
-- [[c_OAuthApplications|OAuth 2.0]]

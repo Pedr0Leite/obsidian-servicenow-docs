@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Highlighted Value Condition form
 
-Learn about the fields of the Highlighted Value Conditions form. Use this form to configure the display of highlighted fields in [[portfolio-planning-app-landing-page|Portfolio Planning]] workspace.
+Learn about the fields of the Highlighted Value Conditions form. Use this form to configure the display of highlighted fields in Portfolio Planning workspace.
 
 <table id="table_dyb_41y_2wb"><thead><tr><th>
 
@@ -111,6 +111,3 @@ Custom display text that replaces the actual field value in the view. When speci
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

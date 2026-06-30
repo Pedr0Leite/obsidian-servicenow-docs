@@ -37,7 +37,7 @@ User Criteria output based on **Available For** and **Not Available For** values
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -67,7 +67,7 @@ User Criteria output based on **Available For** and **Not Available For** values
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -87,7 +87,3 @@ User Criteria output based on **Available For** and **Not Available For** values
 
 [Website configuration form]()
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

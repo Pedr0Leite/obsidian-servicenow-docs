@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # HP Operations Manager discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of HP Operations Manager.
+Discovery creates or updates a CMDB record when it detects a running instance of HP Operations Manager.
 
 By default, Discovery uses the **HP Operations Manager for Windows** pattern to discover the HP Operations Manager.
 
@@ -30,6 +30,3 @@ The following data is collected in the HP Operations Manager `[cmdb_ci_appl_hp_o
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

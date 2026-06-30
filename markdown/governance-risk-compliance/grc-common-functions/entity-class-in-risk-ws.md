@@ -16,9 +16,9 @@ breadcrumb: [Explore entities, Common GRC features, Governance, Risk, and Compli
 
 Entity classes are used to add a conceptual information about the entity or to tag the entity. They are used to classify the entities and they represent a collection of entities that have the same attributes.
 
-To understand the concept of [[entity-class|entity class]], consider an example. A company has office branches in three cities. The office space is considered as an entity and the entity class for these entities would be the location. For example, Risk as an entity could be a process or it could be the department in an organization. The entity class defines whether it belongs as a process or as a class in this example.
+To understand the concept of entity class, consider an example. A company has office branches in three cities. The office space is considered as an entity and the entity class for these entities would be the location. For example, Risk as an entity could be a process or it could be the department in an organization. The entity class defines whether it belongs as a process or as a class in this example.
 
-Entity classes are listed under Lists in the workspace view. Click an entity class in the [[list-view-uib-ws|List view]] to display its details.
+Entity classes are listed under Lists in the workspace view. Click an entity class in the List view to display its details.
 
 The **Details** tab in the Entity classes form displays the following fields:
 
@@ -62,7 +62,7 @@ Information on the child classes:-   Name
 </table>To save the newly created entity class configuration, click **Save**.
 
 -   **[Create an entity class](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/create-new-entity-class-ws.md)**  
-[[create-new-entity-class-ws|Create an entity class]] that is associated with an entity. Entity classes are used to add a conceptual information about the entity and classify the entities. They represent a collection of entities that have the same attributes such as Department, Business Unit, or Business Service. You can gather data about the entities based on the entity class.
+Create an entity class that is associated with an entity. Entity classes are used to add a conceptual information about the entity and classify the entities. They represent a collection of entities that have the same attributes such as Department, Business Unit, or Business Service. You can gather data about the entities based on the entity class.
 -   **[Update entity classes for multiple entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/bulk-update-entity-class.md)**  
 Provide an entity class for multiple entities where the class field is empty. Entity classes are used to add a conceptual information about the entity and classify the entities. As an administrator, you can update the entity classes for multiple entities with a single click.
 -   **[Scheduled jobs for Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/scheduled-jobs.md)**  
@@ -70,8 +70,3 @@ Scheduled jobs are automated pieces of work that can be performed at a specific 
 
 **Parent Topic:**[Exploring the entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/exploring-the-entities.md)
 
-## Related
-
-- [[entity-class|entity class]]
-- [[list-view-uib-ws|List view]]
-- [[create-new-entity-class-ws|Create an entity class]]

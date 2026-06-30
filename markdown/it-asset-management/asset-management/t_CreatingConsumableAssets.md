@@ -146,7 +146,7 @@ Disposal order number
 
 A unique number assigned to the asset disposal order.
 
- **Note:** This field appears only if you have installed [[ham-landing-page|Hardware Asset Management]] from the ServiceNow Store.
+ **Note:** This field appears only if you have installed Hardware Asset Management from the ServiceNow Store.
 
 </td></tr><tr><td>
 
@@ -236,6 +236,3 @@ Work notes related to the asset.
 
 **Parent Topic:**[Consumables life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/c_FollowLifeCycleConsumbl.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, EMR Help, Healthcare and Life Sciences Service Managemen
 
 # Assign roles for EMR Help users
 
-Assign roles to control access to features, capabilities, and data in the [[emr-exploring|EMR Help]] application.
+Assign roles to control access to features, capabilities, and data in the EMR Help application.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ View details of the EMR data associated with a ServiceNow service request.
     -   To assign a role to a user, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
     -   To assign a role to a group, see [Assign a role to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignRoleToGroup.md).
 
-## Related
-
-- [[emr-exploring|EMR Help]]

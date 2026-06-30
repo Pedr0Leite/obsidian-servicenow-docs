@@ -26,14 +26,14 @@ For every transformation, you must either create a transform map or select an ex
 
 ## Procedure
 
-1.  Navigate to **Integrations Framework** &gt; **[[transform-maps-navex|Transform Maps]]**.
+1.  Navigate to **Integrations Framework** &gt; **Transform Maps**.
 
 2.  View the existing transform maps.
 
     |Name|Description|
     |----|-----------|
     |HR Pull to-do transform map|Moves tasks or Todos from the HR Pulled To-do Integration Staging \[sn\_hr\_integr\_fw\_todo\_inbound\_staging\] table into the HR Pulled Integration To-do \[sn\_hr\_integr\_fw\_todo\_inbound\] table.|
-    |HR Profile Transform Map|Maps workers, future workers, and effective workers from the [[c_HRProfileRecords|HR Profile]] Staging \[sn\_hr\_integr\_fw\_hr\_profile\_staging\] table into the HR Profile \[sn\_hr\_core\_profile\] table.|
+    |HR Profile Transform Map|Maps workers, future workers, and effective workers from the HR Profile Staging \[sn\_hr\_integr\_fw\_hr\_profile\_staging\] table into the HR Profile \[sn\_hr\_core\_profile\] table.|
     |Job Transform Map|Maps job profiles from the Job Staging \[sn\_hr\_integr\_fw\_job\_staging\] table to the Job \[sn\_hr\_core\_job\] table.|
     |Department Transform Map|Maps departments from the Department Staging \[sn\_hr\_integr\_fw\_department\_staging\] table to the Department \[cmn\_department\] table.|
     |Location Transform Map|Maps locations from the Location Staging \[sn\_hr\_integr\_fw\_location\_staging\] table to the Location \[cmn\_location\] table.|
@@ -43,7 +43,4 @@ For every transformation, you must either create a transform map or select an ex
 
     For details of how to create a transform map, refer to the table in [Transformation scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreateATransformMap.md).
 
-## Related
 
-- [[transform-maps-navex|Transform maps]]
-- [[c_HRProfileRecords|HR Profile]]

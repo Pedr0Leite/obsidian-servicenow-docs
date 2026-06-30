@@ -22,9 +22,9 @@ Role required: content\_admin or admin
 
 ## About this task
 
-The block works with [[c_ContentTypes|content types]] in the **Default detail page** field. For more information, see [Configure a content type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentType.md).
+The block works with content types in the **Default detail page** field. For more information, see [Configure a content type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentType.md).
 
-If you plan to use a script to find a document, [[configure-onboarding-modals|configure]] the form to add the **Script** field if it is not displayed.
+If you plan to use a script to find a document, configure the form to add the **Script** field if it is not displayed.
 
 ## Procedure
 
@@ -138,7 +138,3 @@ Enter a script to find an appropriate document if the **Type** is set to **Use a
 
 [Configure a content block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateAContentBlock.md)
 
-## Related
-
-- [[c_ContentTypes|Content types]]
-- [[configure-onboarding-modals|Configure]]

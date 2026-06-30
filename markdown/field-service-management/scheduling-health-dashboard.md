@@ -12,7 +12,7 @@ breadcrumb: [Analytics and reporting, Field Service Management]
 
 # Scheduling Health dashboard
 
-Use this dashboard to view technician metrics, task metrics, and [[schedule-optimization|Schedule Optimization]] configuration details.
+Use this dashboard to view technician metrics, task metrics, and Schedule Optimization configuration details.
 
 \[Omitted image "schedule-health-dash.png"\] Alt text: schedule health dashboard
 
@@ -77,7 +77,7 @@ Admins have the capabilities of a dispatcher and can update the information that
 |Tasks without location coordinates|Single Score|wm\_task|The number of tasks that don't have latitude and longitude.|
 |Tasks without optimization value|Single Score|wm\_task|The number of tasks that don't have an optimization value.|
 |Tasks without skills|Single Score|task\_m2m\_skill|The number of tasks with no skill requirements.|
-|Tasks without parts|Single Score|wm\_task|The number of tasks with no [[c_PartRequirements|part requirements]].|
+|Tasks without parts|Single Score|wm\_task|The number of tasks with no part requirements.|
 |Tasks without technician preferences|Single Score|wm\_task|The number of tasks that don't have technician preferences.|
 |Tasks without location time zone|Single Score|wm\_task|The number of tasks that don’t have a time zone set.|
 |Tasks with scheduled start in the past|Single Score|wm\_task|The number of tasks whose scheduled start time is at least one day in the past.|
@@ -164,10 +164,5 @@ The **Type** filter contains two choices, batch and intraday. Your selection out
 |Batch|Single select|Generate a report based on the selected batch configuration.|
 |Intraday configuration|Single select|Generate a report based on the selected intraday configuration.|
 
-**Parent Topic:**[[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
+**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 
-## Related
-
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[c_PartRequirements|Part requirements]]

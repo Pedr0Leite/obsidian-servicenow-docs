@@ -14,11 +14,11 @@ breadcrumb: [Observability-AppDynamics, Service Graph Connectors, Integrating th
 
 # Configure Service Graph Connector for Observability - AppDynamics using SGC Central
 
-Set up scheduled import jobs to pull in AppDynamics data into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in AppDynamics data into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
--   Install [[cmdb-integration-appdynamics|Service Graph Connector for Observability - AppDynamics]] version 1.4.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
+-   Install Service Graph Connector for Observability - AppDynamics version 1.4.0 or later from the ServiceNow Store. For ServiceNow Store installation steps, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/installing-applications-in-application-manager.md).
 -   Install Observability Commons for CMDB \(sn\_observability\), which is only required for event ingestion. This application must be installed prior to installing the connector for Event Management to work. For more information, see [Observability Commons for CMDB](https://store.servicenow.com/sn_appstore_store.do#!/store/application/97e04562072020107add6a77c4a9351a) on the ServiceNow Store.
 
 Role required: The following table shows the roles required for each stage of the playbook.
@@ -28,11 +28,11 @@ Role required: The following table shows the roles required for each stage of th
 |Prerequisites|admin|
 |Setup|SGC-Admin \(sn\_cmdb\_int\_util.sgc\_admin\) or admin|
 
-**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for [[cmdb-sgc-available|Service Graph Connectors]], see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
+**Note:** The admin user role is required to run background scripts and to provide access to global tables to the SGC-Admin user. For information about the user roles for Service Graph Connectors, see [Service Graph Connector user roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sgc-intro.md).
 
 ## About this task
 
-The playbook experience for onboarding connectors is activated with [[sgcc-landing|SGC Central]] in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. To configure the SGC Central application, see [[sgcc-configuring|Configuring SGC Central]] and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
+The playbook experience for onboarding connectors is activated with SGC Central in the Service Graph Workspace or CMDB Workspace. To configure the SGC Central application, see [Configuring SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-configuring.md) and for more information on how to interact with a playbook, see [Interact with Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
 ## Procedure
 
@@ -50,7 +50,7 @@ The playbook experience for onboarding connectors is activated with [[sgcc-landi
 
 4.  Complete the initial prerequisites when setting up a connection for the first time using a connector.
 
-    **Note:** This step is required only during the first-time setup. See [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]].
+    **Note:** This step is required only during the first-time setup. See [Perform initial setup tasks when creating a connection in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-first-time-setup.md).
 
 5.  Enter connection details and test the API connection for importing AppDynamics data.
 
@@ -100,7 +100,7 @@ Client secret of your AppDynamics client application.
 
 </td></tr><tr><td>
 
-Use [[mid-server-landing|MID server]]
+Use MID server
 
 </td><td>
 
@@ -112,7 +112,7 @@ MID selection
 
 </td><td>
 
-Name of the MID Server used by the connector.This field appears only when the **Use MID server** [[check-box|check box]] is selected.
+Name of the MID Server used by the connector.This field appears only when the **Use MID server** check box is selected.
 
 </td></tr></tbody>
 </table>    3.  Select **Update and test connection**.
@@ -179,14 +179,3 @@ Select **View all connections** to review the connection details. The configured
 
 [Accessing the connection details for Service Graph Connector for Observability - AppDynamics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-appdynamics-conn.md)
 
-## Related
-
-- [[sgcc-configuring|Configuring SGC Central]]
-- [[sgcc-first-time-setup|Perform initial setup tasks when creating a connection in SGC Central]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[cmdb-integration-appdynamics|Service Graph Connector for Observability - AppDynamics]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[mid-server-landing|MID Server]]
-- [[check-box|Check box]]

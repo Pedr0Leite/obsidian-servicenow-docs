@@ -75,7 +75,7 @@ The SAFe PI planning board contains the following components that guide you duri
 
     See the stories of your SAFe features in the form of cards. You can move these cards around to assign them to teams and to plan them into sprints.
 
-    If you have activated the [[safeunified-backlog|SAFe — Unified Backlog]] plugin \(com.snc.sdlc.safe.multi\_task\), then you can also see stories that were added from the triage board into your unified backlog. From the PI planning board, you can double-click a story card to open it in a modal form and edit its details. If the story is created from a record on the triage board, such as an incident, then you can see both the story information and the defect information side-by-side.
+    If you have activated the SAFe — Unified Backlog plugin \(com.snc.sdlc.safe.multi\_task\), then you can also see stories that were added from the triage board into your unified backlog. From the PI planning board, you can double-click a story card to open it in a modal form and edit its details. If the story is created from a record on the triage board, such as an incident, then you can see both the story information and the defect information side-by-side.
 
     The story cards use the following indicators:
 
@@ -119,6 +119,3 @@ Plan your SAFe program increments \(PIs\) and track the progress of stories and 
 
 **Parent Topic:**[SAFe Board — ART level](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/program-level-tabs.md)
 
-## Related
-
-- [[safeunified-backlog|SAFe — Unified Backlog]]

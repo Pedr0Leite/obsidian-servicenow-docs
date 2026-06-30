@@ -14,7 +14,7 @@ breadcrumb: [Using SOW for ITOM, Service Operations Workspace for ITOM, ITOM AIO
 
 # Integrations Launchpad in Service Operations Workspace for ITOM
 
-The Integrations Launchpad showcases all [[c_EM|Event Management]] connector integrations, allowing users to pull or push events from external or internal devices. This centralized hub simplifies Event Management by consolidating integration options in one place.
+The Integrations Launchpad showcases all Event Management connector integrations, allowing users to pull or push events from external or internal devices. This centralized hub simplifies Event Management by consolidating integration options in one place.
 
 The Integrations Launchpad streamlines the process of managing and utilizing event connectors, enhancing operational efficiency and ensuring seamless integration of event data from various external sources. This centralization helps users maintain better control and visibility over their Event Management ecosystem.
 
@@ -45,6 +45,4 @@ Lists all user-configured integrations, both active and inactive. This tab featu
     |Draft|In-progress integrations with a configuration that was started but not completed|
     |No data|Integrations that were successfully installed with no data|
 
-## Related
 
-- [[c_EM|Event Management]]

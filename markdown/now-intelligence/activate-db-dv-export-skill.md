@@ -12,7 +12,7 @@ breadcrumb: [Configure, Platform Analytics in the Now Assist panel, Now Assist i
 
 # Dashboard and visualization export skill
 
-Give users generative AI capabilities for [[creating-data-visualizations|creating data visualizations]] from the Now Assist panel by activating the dashboard and visualization export skill.
+Give users generative AI capabilities for creating data visualizations from the Now Assist panel by activating the dashboard and visualization export skill.
 
 ## Before you begin
 
@@ -41,9 +41,5 @@ Role required: admin
 
 If the skill was successfully activated or deactivated, the system notifies you.
 
-**Parent Topic:**[[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]
+**Parent Topic:**[Configuring Now Assist panel skills for Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configuring-now-ass-skills-pa.md)
 
-## Related
-
-- [[configuring-now-ass-skills-pa|Configuring Now Assist panel skills for Platform Analytics]]
-- [[creating-data-visualizations|Creating data visualizations]]

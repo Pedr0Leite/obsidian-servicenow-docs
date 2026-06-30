@@ -14,13 +14,13 @@ breadcrumb: [Configure a service activity for an HR service, Configure an HR ser
 
 # Configure a child HR service
 
-Configure a service [[activity-lxp|activity]] that is a child HR service.
+Configure a service activity that is a child HR service.
 
 ## Before you begin
 
 Role required: sn\_hr\_core.admin
 
-**Note:** This feature is only available when the Human Resources Scoped App: [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] \(com.sn\_hr\_lifecycle\_events\) plugin is activated.
+**Note:** This feature is only available when the Human Resources Scoped App: Lifecycle Events \(com.sn\_hr\_lifecycle\_events\) plugin is activated.
 
 ## Procedure
 
@@ -88,7 +88,3 @@ Order number for when the service activity is made available. Lower numbered ser
 
 **Parent Topic:**[Configure a service activity for an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-service-activity-for-hr-service.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

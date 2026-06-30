@@ -12,7 +12,7 @@ breadcrumb: [Subscription Management, Get started, Administer the ServiceNow AI 
 
 # Exploring Subscription Management
 
-Learn how [[subscription-management-landing-page-v2|Subscription Management]] helps you track and manage your product subscriptions and their applications.
+Learn how Subscription Management helps you track and manage your product subscriptions and their applications.
 
 ## Subscription Management Overview
 
@@ -27,7 +27,7 @@ Subscription Management gives you an accurate, consolidated view of your entitle
 
 |User|Description|
 |----|-----------|
-|Usage admin|The usage admin allocates per-user subscriptions by adding groups to a product subscription. The usage admin maps [[custom-tables|custom tables]] and custom applications to subscriptions with available entitlements to maximize subscription usage and stay in compliance.|
+|Usage admin|The usage admin allocates per-user subscriptions by adding groups to a product subscription. The usage admin maps custom tables and custom applications to subscriptions with available entitlements to maximize subscription usage and stay in compliance.|
 
 ## Subscription Management workflow
 
@@ -39,10 +39,10 @@ In this workflow:
 
 1.  The chief information officer or service owner works with the ServiceNow platform owner to purchase new subscriptions.
 2.  After the purchase is complete, the platform owner views the products and applications in Impact.
-3.  The usage admin views the new product subscriptions in Subscription Management on the production instance. For more information, see [[subscriptions-overview-v2|Product subscriptions overview]].
+3.  The usage admin views the new product subscriptions in Subscription Management on the production instance. For more information, see [Product subscriptions overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscriptions-overview-v2.md).
 4.  The usage admin performs the following tasks in Subscription Management:
-    -   Allocates per-user subscriptions by adding groups to a product subscription, which grants entitlement to all group members. For more information, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]].
-    -   Maps custom tables and custom applications to subscriptions with available entitlements to maximize subscription usage and stay in compliance. For more information, see [[allocating-custom-tables-subscr-apps-v2|Managing custom tables and applications in Subscription Management]].
+    -   Allocates per-user subscriptions by adding groups to a product subscription, which grants entitlement to all group members. For more information, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md).
+    -   Maps custom tables and custom applications to subscriptions with available entitlements to maximize subscription usage and stay in compliance. For more information, see [Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocating-custom-tables-subscr-apps-v2.md).
 5.  If the organization requires security approvals before adding users to groups or financial approvals before subscriptions are allocated to users, the usage admin works with group managers to create subscription approval workflows that determine who gets a subscription when new users are added to groups.
 6.  The usage admin monitors subscription usage to stay in compliance and make informed decisions on future purchases, consistently monitoring the following data:
     -   Over-allocated subscriptions
@@ -55,12 +55,12 @@ In this workflow:
 
 |Benefit|Feature|User|
 |-------|-------|----|
-|Fix over-allocated subscriptions|[[discovering-insights-subscription-management-v2|Insights]]|Usage admin|
+|Fix over-allocated subscriptions|[Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/discovering-insights-subscription-management-v2.md)|Usage admin|
 |View unallocated subscriptions|[Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/discovering-insights-subscription-management-v2.md)|Usage admin|
-|Allocate available subscriptions using recommended groups|[[allocate-subscriptions-v2|Allocate subscriptions]]|Usage admin|
-|Map global custom tables to a product subscription|[[addressing-issues-subscription-management-v2|Issues]]|Usage admin|
+|Allocate available subscriptions using recommended groups|[Allocate subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocate-subscriptions-v2.md)|Usage admin|
+|Map global custom tables to a product subscription|[Issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/addressing-issues-subscription-management-v2.md)|Usage admin|
 |Map custom applications to a product subscription|[Issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/addressing-issues-subscription-management-v2.md)|Usage admin|
-|View a summary of subscription allocations|[[subscription-details-v2|Subscription details]]|Usage admin|
+|View a summary of subscription allocations|[Subscription details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-details-v2.md)|Usage admin|
 |View subscription allocation details over time|[Subscription details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-details-v2.md)|Usage admin|
 |View custom table usage over time|[Subscription details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-details-v2.md)|Usage admin|
 
@@ -68,23 +68,9 @@ In this workflow:
 
 To learn more about configuring and using Subscription Management, see:
 
--   [[configuring-subscription-management-v2|Configuring Subscription Management]]
+-   [Configuring Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-subscription-management-v2.md)
 -   [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md)
 -   [Managing custom tables and applications in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/allocating-custom-tables-subscr-apps-v2.md)
--   [[monitoring-capacity-subscriptions|Monitoring capacity subscriptions]]
--   [[subscription-management-reference-v2|Subscription Management reference]]
+-   [Monitoring capacity subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-capacity-subscriptions.md)
+-   [Subscription Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/subscription-management-reference-v2.md)
 
-## Related
-
-- [[subscriptions-overview-v2|Product subscriptions overview]]
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[allocating-custom-tables-subscr-apps-v2|Managing custom tables and applications in Subscription Management]]
-- [[discovering-insights-subscription-management-v2|Discovering insights in Subscription Management]]
-- [[allocate-subscriptions-v2|Allocate subscriptions in Subscription Management]]
-- [[addressing-issues-subscription-management-v2|Addressing issues in Subscription Management]]
-- [[subscription-details-v2|Viewing product subscription details in Subscription Management]]
-- [[configuring-subscription-management-v2|Configuring Subscription Management]]
-- [[monitoring-capacity-subscriptions|Monitoring capacity subscriptions]]
-- [[subscription-management-reference-v2|Subscription Management reference]]
-- [[subscription-management-landing-page-v2|Subscription Management]]
-- [[custom-tables|Custom tables]]

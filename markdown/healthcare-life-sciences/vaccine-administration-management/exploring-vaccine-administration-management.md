@@ -14,7 +14,7 @@ breadcrumb: [Vaccine Administration Management, Healthcare and Life Sciences Ser
 
 # Exploring Vaccine Administration Management
 
-The ServiceNow® [[hcls-vam|Vaccine Administration Management]] application provides a workflow for users, healthcare providers, and clinicians to manage vaccinations for infectious diseases, such as COVID-19, from start to finish.
+The ServiceNow® Vaccine Administration Management application provides a workflow for users, healthcare providers, and clinicians to manage vaccinations for infectious diseases, such as COVID-19, from start to finish.
 
 The Vaccine Administration Management application accelerates the immunization process by delivering predefined content to manage vaccinations.
 
@@ -82,7 +82,3 @@ HCLS Manager
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]

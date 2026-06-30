@@ -14,7 +14,7 @@ breadcrumb: [Agile Development 2.0, Agile Development, Strategic Portfolio Manag
 
 # Integrating Agile Development 2.0 with third-party applications
 
-Integrate third-party applications such as Microsoft Azure DevOps or Atlassian Jira with [[agile-landing-page|Agile Development 2.0]], so that the planned and executed work can be synchronized in both applications.
+Integrate third-party applications such as Microsoft Azure DevOps or Atlassian Jira with Agile Development 2.0, so that the planned and executed work can be synchronized in both applications.
 
 After the integration is set up, plan the work, such as epics and stories, in Agile Development 2.0 and enable your teams to deliver using the execution application of their choice, such as Microsoft Azure DevOps or Atlassian Jira.
 
@@ -25,6 +25,3 @@ To get started with configuring these integrations, see:
 -   [Microsoft Azure DevOps Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/agile-azure-integration-overview.md)
 -   [Atlassian Jira Integration for Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/atlassian-jira-integrations-common/agile-jira-integration-overview.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]

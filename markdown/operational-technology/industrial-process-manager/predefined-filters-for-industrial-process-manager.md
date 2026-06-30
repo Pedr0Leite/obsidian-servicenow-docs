@@ -14,7 +14,7 @@ breadcrumb: [Reference, Industrial Process Manager, Operational Technology]
 
 # Predefined filters for the Industrial Process Manager
 
-[[industrial-process-manager-overview|Industrial Process Manager]] application uses predefined filters so that you can view the equipment model dependency maps by selecting the available UI actions in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+Industrial Process Manager application uses predefined filters so that you can view the equipment model dependency maps by selecting the available UI actions in the Industrial Workspace.
 
 The following predefined filters are available for the Industrial Process Manager.
 
@@ -24,7 +24,7 @@ The following predefined filters are available for the Industrial Process Manage
 
 -   **ISA Equipment Model - OT Dependency Map**
 
-    The hierarchical structure of the selected equipment model entity and its relationship with other entities and [[operational-technology-overview|Operational Technology]] \(OT devices in the production process.
+    The hierarchical structure of the selected equipment model entity and its relationship with other entities and Operational Technology \(OT devices in the production process.
 
 -   **ISA Equipment Model - OT Device Map**
 
@@ -52,8 +52,3 @@ Modify the predefined filters for the ISA Equipment Model application as needed 
 
 **Parent Topic:**[Industrial Process Manager reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 
-## Related
-
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]

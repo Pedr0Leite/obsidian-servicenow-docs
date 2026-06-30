@@ -14,7 +14,7 @@ breadcrumb: [Alerts in Instance Observer, Monitoring instance health with Instan
 
 Use the Instance Observer Key Alerts Activation functionality for flexibility to set alerts with historical thresholds from four week increments specific to your business needs and configure who on your team receives notifications.
 
-**Note:** Instance Observer **Alerts** support is only available for Advanced and Total packages of ServiceNow [[impact-landing-page|Impact]].
+**Note:** Instance Observer **Alerts** support is only available for Advanced and Total packages of ServiceNow Impact.
 
 Keys alerts activation will provide you with proactive alerts about moving averages, a statistic that captures the average change in a data series over time, for six critical metrics:
 
@@ -32,18 +32,12 @@ Instance Observer utilizes the P-Score to assess instance usage, then calculate 
 -   When an instance meets the required P-Score for eligibility, users will see a banner to opt-in for the alerts activation feature. Users will receive intelligent thresholds under the **IO recommended** condition for all six metrics derived from historical data.
 -   If an instance has a low P-Score, the banner to opt-in for alerts activation feature will not be visible. The P-Score is regularly refreshed, and as instances grow in the future, you will see the option to opt-in for the alerts activation feature. Thresholds are refreshed automatically weekly for instances meeting the minimum P-Score criteria.
 
-To set up alerts, see [[configuring-io-alerts|Configure Key Alerts]].
+To set up alerts, see [Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 -   **[Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md)**  
 Follow these steps to configure Key Alerts on an instance where critical alerts have not yet been configured.
--   **[[generate-thresholds-io-alerts|Generate thresholds for key alerts]]**  
+-   **[Generate thresholds for key alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/generate-thresholds-io-alerts.md)**  
 For an instance where critical alerts have already been configured you can obtain improved thresholds to receive enhanced or minimal alerts.
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[configuring-io-alerts|Configure Key Alerts]]
-- [[generate-thresholds-io-alerts|Generate thresholds for key alerts]]
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[impact-landing-page|Impact]]

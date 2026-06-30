@@ -15,7 +15,7 @@ breadcrumb: [Savings opportunities, Spend and Savings Management, Explore, Sourc
 
 # Contract optimization savings opportunities
 
-The Contract Optimization Opportunity Finder Agent identifies opportunities to reduce costs by renegotiating price escalations, renewal caps, and [[payment-terms|payment terms]] on [[supplier|supplier]] [[contracts|contracts]].
+The Contract Optimization Opportunity Finder Agent identifies opportunities to reduce costs by renegotiating price escalations, renewal caps, and payment terms on supplier contracts.
 
 The Contract Optimization Opportunity Finder Agent analyzes supplier contracts that have an attached document to extract clause-level data and identify opportunities to reduce future spend. Two savings levers are currently supported: price escalation and renewal caps, and payment terms. For each lever, the agent calculates the savings available from renegotiating the existing terms and displays the finding as a savings opportunity .
 
@@ -58,8 +58,3 @@ A payment terms opportunity captures the following information:
 
 **Parent Topic:**[Savings opportunity identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/savings-opportunity-identification.md)
 
-## Related
-
-- [[payment-terms|Payment terms]]
-- [[supplier|Supplier]]
-- [[contracts|Contracts]]

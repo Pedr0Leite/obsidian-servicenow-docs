@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Enable external routing for queues
 
-Configure [[awa-application-landing-page|Advanced Work Assignment]] to route [[awa-work-items|work items]] in the queue using external routing.
+Configure Advanced Work Assignment to route work items in the queue using external routing.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ The installation of the External Routing Support plugin \(com.glide.awa-external
 **Note:**
 
 -   If the customer modifies the default AWA Queue form view, the **External** field is not added to the form even if the external routing plugin is installed as the installation does not override the customer configurations and it must be manually added to the form.
--   Installing AWA without this plugin still enables AWA and [[ci-use-agent-chat|Agent Chat]] to function normally, and does not result in any errors or warning logs due to code attempting to access tables or fields that do not exist.
+-   Installing AWA without this plugin still enables AWA and Agent Chat to function normally, and does not result in any errors or warning logs due to code attempting to access tables or fields that do not exist.
 
 If External \(with external partner\) and internal AWA queues are mixed up with the respective service channel in an External Partner outbound payload-defined configuration, then a warning message is displayed.
 
@@ -107,8 +107,4 @@ Unique application or integration identifier, which is used by the third-party r
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[ci-use-agent-chat|Agent Chat]]

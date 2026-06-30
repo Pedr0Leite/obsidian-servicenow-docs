@@ -48,11 +48,7 @@ You can associate one or more document types with a document category.
 
 ## What to do next
 
-[[doc-processor-define-document-list|Create a document list definition]]
+[Create a document list definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-define-document-list.md)
 
-**Parent Topic:**[[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]
+**Parent Topic:**[Configuring Financial Services Operations Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configuring-fso-document-processor.md)
 
-## Related
-
-- [[doc-processor-define-document-list|Create a document list definition]]
-- [[configuring-fso-document-processor|Configuring Financial Services Operations Document Processor]]

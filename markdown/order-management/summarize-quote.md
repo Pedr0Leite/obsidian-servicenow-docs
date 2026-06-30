@@ -12,7 +12,7 @@ breadcrumb: [Use, Now Assist for CPQ, Sales Customer Relationship Management]
 
 # Summarize a quote using quote summarization
 
-Summarize a quote to generate a consolidated report of a quote record to quickly understand the quote without manually reviewing multiple [[fields|fields]], line items, or related records.
+Summarize a quote to generate a consolidated report of a quote record to quickly understand the quote without manually reviewing multiple fields, line items, or related records.
 
 ## Before you begin
 
@@ -87,7 +87,3 @@ If you want to check details about the summary, select the more info icon \[Omit
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fields|Fields]]

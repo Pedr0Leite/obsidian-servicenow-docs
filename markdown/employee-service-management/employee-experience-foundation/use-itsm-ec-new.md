@@ -14,7 +14,7 @@ breadcrumb: [Employee Center for IT Service Management, Unified Employee Experie
 
 # Using Employee Center for ITSM
 
-Use [[employee-center-landing-page|Employee Center]] for ITSM together to reduce costs, deliver high-quality customer and employee experiences, and drive operational resilience.
+Use Employee Center for ITSM together to reduce costs, deliver high-quality customer and employee experiences, and drive operational resilience.
 
 -   [Using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/using-emp-center.md)
 
@@ -22,9 +22,6 @@ Use [[employee-center-landing-page|Employee Center]] for ITSM together to reduce
 
 -   [Using Employee Center Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-pro-use.md)
 
-    Get an overview of the functionality usage in [[employee-center-pro-landing|Employee Center Pro]] to leverage your IT Service Management experience.
+    Get an overview of the functionality usage in Employee Center Pro to leverage your IT Service Management experience.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]

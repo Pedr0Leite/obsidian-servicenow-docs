@@ -16,7 +16,7 @@ Select a Performance Analytics indicator \(KPI\) to display in your data visuali
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -28,7 +28,7 @@ This procedure assumes you're in the process of creating or editing a data visua
 
 1.  Start to create a data visualization, or open an existing visualization for editing.
 
-    For more information, see [[creating-data-visualizations|Creating data visualizations]].
+    For more information, see [Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md).
 
 2.  Choose one of the following:
 
@@ -52,7 +52,7 @@ This procedure assumes you're in the process of creating or editing a data visua
     You return to the data visualization editor. In the configuration panel, you can add Group by fields and set other data properties, depending on the visualization type.
 
 
-**Parent Topic:**[[selecting-data-sources|Selecting data sources for data visualizations]]
+**Parent Topic:**[Selecting data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/selecting-data-sources.md)
 
 **Related topics**  
 
@@ -67,11 +67,5 @@ This procedure assumes you're in the process of creating or editing a data visua
 
 [Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-[[indicator-data-sources-pa|Indicator management and Performance Analytics]]
+[Indicator management and Performance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/indicator-data-sources-pa.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[selecting-data-sources|Selecting data sources for data visualizations]]
-- [[indicator-data-sources-pa|Indicator management and Performance Analytics]]

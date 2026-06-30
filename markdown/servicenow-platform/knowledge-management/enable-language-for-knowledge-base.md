@@ -18,7 +18,7 @@ Select the languages you want enabled at a knowledge base level. Users can then 
 
 ## Before you begin
 
-You must activate the [[knowledge-management|Knowledge Management]] Advanced \(com.snc.knowledge\_advanced\) plugin, and I18N: Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugin.
+You must activate the Knowledge Management Advanced \(com.snc.knowledge\_advanced\) plugin, and I18N: Knowledge Management Internationalization Plugin v2 \(com.glideapp.knowledge.i18n2\) plugin.
 
 Role required: knowledge\_admin or admin
 
@@ -37,6 +37,3 @@ Role required: knowledge\_admin or admin
 
 **Parent Topic:**[Configuring Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configuring-knowledge-management.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

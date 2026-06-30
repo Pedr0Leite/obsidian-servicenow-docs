@@ -14,7 +14,7 @@ breadcrumb: [Shopping cart, Using Shopping Hub, Use, Sourcing and Procurement Op
 
 # Add products to your shopping cart
 
-Use your [[shopping-cart|shopping cart]] to add multiple products that you have shortlisted and want to purchase when you are done shopping on [[shopping-hub-overview|Shopping Hub]].
+Use your shopping cart to add multiple products that you have shortlisted and want to purchase when you are done shopping on Shopping Hub.
 
 ## Before you begin
 
@@ -35,12 +35,7 @@ Role required: sn\_shop.shopper
 
 ## What to do next
 
-When you are done adding products to your cart, you can [[review-shopping-cart|review your shopping cart]] and proceed to final checkout. For more information, see [Review your shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-shopping-cart.md).
+When you are done adding products to your cart, you can review your shopping cart and proceed to final checkout. For more information, see [Review your shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/review-shopping-cart.md).
 
 **Parent Topic:**[Shopping cart](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-cart.md)
 
-## Related
-
-- [[shopping-cart|Shopping cart]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[review-shopping-cart|Review your shopping cart]]

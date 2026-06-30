@@ -12,7 +12,7 @@ breadcrumb: [MITRE-ATT&amp;CK administration, MITRE-ATT&amp;CK framework overvie
 
 # Manage techniques
 
-Manage the techniques that have been imported from the MITRE TAXII collections. The techniques contain various ways attackers have developed to employ a given tactic. You can review and deactivate techniques that are not relevant to your organization. In STIX, techniques are known as [[attack-patterns|attack patterns]].
+Manage the techniques that have been imported from the MITRE TAXII collections. The techniques contain various ways attackers have developed to employ a given tactic. You can review and deactivate techniques that are not relevant to your organization. In STIX, techniques are known as attack patterns.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[threat-intel-landing-page|Threat Intelligence]]** &gt; **MITRE ATT&amp;CK Repository** &gt; **Techniques**.
+1.  Navigate to **All** &gt; **Threat Intelligence** &gt; **MITRE ATT&amp;CK Repository** &gt; **Techniques**.
 
     \[Omitted image "techniques-list.png"\] Alt text: View the list of techniques and sub-techniques.
 
@@ -33,11 +33,11 @@ Role required:
 
 2.  To review and deactivate techniques that are not relevant to your organization, go to the list view for the selected technique, and under the Active column, update the setting to **false**, and save the setting.
 
-    Deactivate the techniques that aren't used by the [[tisc-other-objects|other objects]] in the [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK repository]].
+    Deactivate the techniques that aren't used by the other objects in the MITRE-ATT&amp;CK repository.
 
 3.  To prioritize a technique, assign a priority in the **Relevant Priority \(Custom\)** field.
 
-    The base system relevant priority is set to none. The **Relevant Priority \(Custom\)** field is not imported from the MITRE-ATT&amp;CK TAXII collections but a custom field introduced in the ServiceNow AI Platform. You can use the relevant priority information to filter and prioritize techniques in the dashboards, during the data source [[mapping-logrhythm|mapping]], or when analyzing the heat map.
+    The base system relevant priority is set to none. The **Relevant Priority \(Custom\)** field is not imported from the MITRE-ATT&amp;CK TAXII collections but a custom field introduced in the ServiceNow AI Platform. You can use the relevant priority information to filter and prioritize techniques in the dashboards, during the data source mapping, or when analyzing the heat map.
 
 4.  Click a technique to view all the associated information with this technique.
 
@@ -45,16 +45,16 @@ Role required:
 
     \[Omitted image "mitre-technique-attack-pattern.jpg"\] Alt text: View the attack pattern technique and it's related information.
 
-    **Note:** The Data Source: [[data-component|Data Component]] element introduced by MITRE replaces the previous Data Source field. Data component provides an extra sublayer of context to the [[data-sources|data sources]]. If your MITRE-ATT&amp;CK repository contains the old TAXII collections, then you can view the Data Source field. Otherwise, you can view the data sources with the additional context of data components in the Data Source: Data Component field. You can view the new data component field only when the source is Enterprise ATT&amp;CK. For more information, see [[map-the-data-source-and-data-components|data component mapping]].
+    **Note:** The Data Source: Data Component element introduced by MITRE replaces the previous Data Source field. Data component provides an extra sublayer of context to the data sources. If your MITRE-ATT&amp;CK repository contains the old TAXII collections, then you can view the Data Source field. Otherwise, you can view the data sources with the additional context of data components in the Data Source: Data Component field. You can view the new data component field only when the source is Enterprise ATT&amp;CK. For more information, see [data component mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/map-the-data-source-and-data-components.md).
 
-5.  To view how these objects are related, click **Show [[stix-relationships|Relationships]]**.
+5.  To view how these objects are related, click **Show Relationships**.
 
 
 ## What to do next
 
-You can [[view-and-extend-information|extend the information]] in some of these related list objects. For example, you can add new information for Group, Mitigation, and External References.
+You can [extend the information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/view-and-extend-information.md) in some of these related list objects. For example, you can add new information for Group, Mitigation, and External References.
 
-**Parent Topic:**[[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
+**Parent Topic:**[MITRE-ATT&amp;CK administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-administration.md)
 
 **Related topics**  
 
@@ -105,16 +105,3 @@ You can [[view-and-extend-information|extend the information]] in some of these 
 
 [Review the MITRE-ATT&amp;CK system properties]()
 
-## Related
-
-- [[map-the-data-source-and-data-components|Define the data source and data component mapping]]
-- [[view-and-extend-information|Extend the MITRE-ATT&amp;CK data]]
-- [[mitre-att-ck-administration|MITRE-ATT&amp;CK administration]]
-- [[attack-patterns|Attack patterns]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-other-objects|Other Objects]]
-- [[tisc-mitre-att-ck-framework-overview|MITRE-ATT&amp;CK Repository]]
-- [[mapping-logrhythm|Mapping]]
-- [[data-component|Data Component]]
-- [[data-sources|Data Sources]]
-- [[stix-relationships|Relationships]]

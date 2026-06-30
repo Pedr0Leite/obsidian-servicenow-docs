@@ -36,7 +36,7 @@ Role required: Scan Engine admin \(sn\_se.scan\_engine\_admin\).
 
     Create one basic auth record per user who will create Azure DevOps work items. Set **Username** to the user's email address and paste the API token in **Password**.
 
-6.  Navigate to **ALL** &gt; **[[impact-landing-page|Impact]]** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
+6.  Navigate to **ALL** &gt; **Impact** &gt; **Configuration** &gt; **Scan Engine Properties** and select the **User Story Integration** properties tab.
 
 7.  Set **Integration Type** to `Azure DevOps` and populate the following fields: **Organization name**, **Project name**, **Work item type**.
 
@@ -47,7 +47,7 @@ Role required: Scan Engine admin \(sn\_se.scan\_engine\_admin\).
 
 See [Azure DevOps integration script leading practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-azure-devops-integration-options.md) for available script variables, common field paths, and guidance on writing field mapping scripts for Azure DevOps.
 
-**Parent Topic:**[[user-story-integration-properties|User story integration]]
+**Parent Topic:**[User story integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/user-story-integration-properties.md)
 
 ## Azure DevOps integration script leading practices
 
@@ -90,7 +90,4 @@ The Azure DevOps field mapping script runs on the ServiceNow instance at the tim
 
     To use modern JavaScript syntax, enable **ECMAScript 2021 \(ES12\) mode** in Scan Engine Properties before writing your mapping script.
 
-## Related
 
-- [[user-story-integration-properties|User story integration]]
-- [[impact-landing-page|Impact]]

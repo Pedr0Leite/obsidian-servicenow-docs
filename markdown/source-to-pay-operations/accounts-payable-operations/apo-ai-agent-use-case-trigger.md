@@ -15,11 +15,11 @@ breadcrumb: [Inquiry resolution provider AI agent, Using AI agents in Now Assist
 
 # Work with the Inquiry resolution provider
 
-Use the Inquiry resolution provider agent to generate resolutions to [[work-with-inquiry-cases|invoice inquiry cases]] raised by suppliers and employees.
+Use the Inquiry resolution provider agent to generate resolutions to invoice inquiry cases raised by suppliers and employees.
 
 ## Before you begin
 
-Set the scope to Now Assist for [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Set the scope to Now Assist for Accounts Payable Operations.
 
 Role required: now\_assist\_panel\_user, admin
 
@@ -77,7 +77,3 @@ Enter the objective of the task as `Help me resolve invoice inquiry INVC0001001`
 
 [Case resolution using Inquiry resolution provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/case-resolution-using-agent.md)
 
-## Related
-
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

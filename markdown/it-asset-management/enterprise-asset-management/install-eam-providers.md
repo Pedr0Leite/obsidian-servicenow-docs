@@ -14,26 +14,26 @@ breadcrumb: [Enterprise Asset Management for Providers, Industry-specific EAM so
 
 # Install Enterprise Asset Management for Providers
 
-You can install the [[eam-providers|Enterprise Asset Management for Providers]] application \(com.sn\_eam\_provider\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
+You can install the Enterprise Asset Management for Providers application \(com.sn\_eam\_provider\) if you have the admin role. The application installs related ServiceNow® Store applications if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [Enterprise Asset Management for Providers](https://store.servicenow.com/sn_appstore_store.do#!/store/application/c20fc42fffb62210883dffffffffffd7/1.0.0) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
--   Install the [[enterprise-asset-management|Enterprise Asset Management]] \(com.sn\_eam\) application or one of the following Enterprise Asset Management-dependent applications on your ServiceNow instance:
+-   Install the Enterprise Asset Management \(com.sn\_eam\) application or one of the following Enterprise Asset Management-dependent applications on your ServiceNow instance:
 
     **Note:** For instructions on how to install the Enterprise Asset Management application, see [Install Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-eam.md).
 
-    -   [[ot-asset-management|OT Asset Management]] \(com.sn\_otam\)
+    -   OT Asset Management \(com.sn\_otam\)
 
         For instructions on how to install this application, see [Install OT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-otam.md).
 
-    -   [[eam-for-healthcare|Enterprise Asset Management for Healthcare]] \(com.sn\_eamhc\)
+    -   Enterprise Asset Management for Healthcare \(com.sn\_eamhc\)
 
         For instructions on how to install this application, see [Install Enterprise Asset Management for healthcare](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-eam-for-healthcare.md).
 
     -   Enterprise Asset Management for Facilities \(com.sn\_eamfam\)
-    -   Enterprise Asset Management for Data Center and Network [[am-landing-page|Asset Management]] \(com.sn\_eam\_dcnam\)
+    -   Enterprise Asset Management for Data Center and Network Asset Management \(com.sn\_eam\_dcnam\)
 
         For instructions on how to install this application, see [Install Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/install-eam-dcnam.md).
 
@@ -71,10 +71,3 @@ For more information, see [Components installed with Enterprise Asset Management
 
 **Parent Topic:**[Enterprise Asset Management for Providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-providers.md)
 
-## Related
-
-- [[eam-providers|Enterprise Asset Management for Providers]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ot-asset-management|OT Asset Management]]
-- [[eam-for-healthcare|Enterprise Asset Management for Healthcare]]
-- [[am-landing-page|Asset Management]]

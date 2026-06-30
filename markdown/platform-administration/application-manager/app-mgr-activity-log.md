@@ -14,7 +14,7 @@ breadcrumb: [Explore, Application Manager, Administering applications, Get start
 
 # Application Manager activity log
 
-The Activity log displays recent and upcoming [[application-manager|Application Manager]] activity for quick [[reference-email-admin|reference]].
+The Activity log displays recent and upcoming Application Manager activity for quick reference.
 
 The **Activity log** is available in the Application Manager home toolbar. You can use the **Filter** drop-down menu of the Activity log to view items based on the following criteria:
 
@@ -24,7 +24,3 @@ The **Activity log** is available in the Application Manager home toolbar. You c
 -   Failed
 -   Completed
 
-## Related
-
-- [[application-manager|Application Manager]]
-- [[reference-email-admin|Reference]]

@@ -64,8 +64,5 @@ Role required: Scan Engine Admin \(`sn_se.scan_engine_admin`\).
     When enabled, all active definitions run during update set scans regardless of instance-specific settings. This is useful for validating update sets before promoting them to production.
 
 
-**Parent Topic:**[[configure-scan-engine-properties|Configure Scan Engine properties]]
+**Parent Topic:**[Configure Scan Engine properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configure-scan-engine-properties.md)
 
-## Related
-
-- [[configure-scan-engine-properties|Configure Scan Engine properties]]

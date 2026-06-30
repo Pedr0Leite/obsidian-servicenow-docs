@@ -18,7 +18,7 @@ Enable the Transfer Layer Security \(TLS\) port probe \[tls\_ssl\_certs\] and sc
 
 ## Before you begin
 
-Know the IP address, range of IP addresses, or list of IP addresses you want to perform Certificate [[r-discovery|Discovery]] on.
+Know the IP address, range of IP addresses, or list of IP addresses you want to perform Certificate Discovery on.
 
 Role required: Certificate administrator, discovery\_admin, or admin
 
@@ -26,7 +26,7 @@ Role required: Certificate administrator, discovery\_admin, or admin
 
 1.  Activate the TLS port probe \[tls\_ssl\_certs\].
 
-    1.  Navigate to **All** &gt; **Discovery Definition** &gt; **[[r_PortProbes|Port Probes]]**.
+    1.  Navigate to **All** &gt; **Discovery Definition** &gt; **Port Probes**.
 
     2.  Open **tls\_ssl\_certs**.
 
@@ -85,7 +85,3 @@ Role required: Certificate administrator, discovery\_admin, or admin
 
 The probe tls\_ssl\_certs searches for Certificates inside your selected IP immediately, and reports the certificates it finds.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]

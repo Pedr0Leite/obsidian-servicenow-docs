@@ -20,17 +20,14 @@ Role required: sn\_customerservice.consumer, sn\_customerservice.consumer\_contr
 
 ## Procedure
 
-1.  [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]].
+1.  Log in to the Consumer Service Portal.
 
 2.  Navigate to **Support** &gt; **Install Base**.
 
-    In the header on the Consumer Service Portal, you can access a list of the [[install-base-item|install base items]] that are registered to you.
+    In the header on the Consumer Service Portal, you can access a list of the install base items that are registered to you.
 
     In the list layout for an install base item, the details that are related to consumers in the **Household** and **Consumer** fields are visible. Only consumers with the appropriate roles can see the install base option in the support menu.
 
 3.  From the list, open an install base record to see all the details and cases for that install base item.
 
-## Related
 
-- [[log-in-to-consumer-service-portal|Log in to the Consumer Service Portal]]
-- [[install-base-item|Install base items]]

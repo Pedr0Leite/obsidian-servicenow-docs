@@ -14,7 +14,7 @@ breadcrumb: [AI Control Tower Home, AI Control Tower dashboard, Explore, AI Cont
 
 # AI strategy tab in AI Control Tower
 
-The **AI strategy** tab includes information about all the AI-related priorities, goals, planning items, and execution items—projects and demands in the [[ai-control-tower-landing|AI Control Tower]] workspace.
+The **AI strategy** tab includes information about all the AI-related priorities, goals, planning items, and execution items—projects and demands in the AI Control Tower workspace.
 
 This tab helps you track and monitor AI-related work across various sections—Strategy, Costs, Prioritized AI work, and AI Risks, Issues, Decisions, Actions, and Request Changes \(RIDAC\)—enabling you to make informed decisions. The tab displays the AI-related work defined in ServiceNow® Goal Framework, the ServiceNow® Strategic Planning, and ServiceNow® PPM Standard.
 
@@ -54,6 +54,3 @@ Projects that meet any of the following criteria appear in the AI RIDAC section 
 
 \[Omitted image "ai-strategy-tab-ridac.png"\] Alt text: AI RIDAC in the AI Control Tower workspace.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]

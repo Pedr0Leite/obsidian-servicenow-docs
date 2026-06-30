@@ -12,7 +12,7 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Define colors for work order states
 
-Define colors for work order states so that you can have a visual indication of the task state in the [[dispatcher-activities|Dispatcher Workspace]].
+Define colors for work order states so that you can have a visual indication of the task state in the Dispatcher Workspace.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ The property `work.management.task_state_color.use_hex` must be enabled to chang
 
 ## About this task
 
-By default, each work order task state is represented with a specific color. You can change colors for existing [[work-order-task-states|work order task states]] or define a color for a new state. The assigned work order state colors appear in the task card and calendar of Dispatcher Workspace.
+By default, each work order task state is represented with a specific color. You can change colors for existing work order task states or define a color for a new state. The assigned work order state colors appear in the task card and calendar of Dispatcher Workspace.
 
-You can display events in their selected default color on Dispatcher Workspace calendar by configuring the **sn\_fsm\_disp\_wrkspc.agent\_shift\_schdlng\_event\_color** property. Different events can be created in the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] application, such as agent's break, time-off, and more. For more information about property, see [[components-wfo-fsm|Workforce Optimization for Field Service components]].
+You can display events in their selected default color on Dispatcher Workspace calendar by configuring the **sn\_fsm\_disp\_wrkspc.agent\_shift\_schdlng\_event\_color** property. Different events can be created in the Workforce Optimization for Field Service application, such as agent's break, time-off, and more. For more information about property, see [Workforce Optimization for Field Service components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-wfo-fsm.md).
 
 ## Procedure
 
@@ -53,9 +53,3 @@ You can display events in their selected default color on Dispatcher Workspace c
 
 The color code is applied to the task state. The color appears in the task card and calendar of Dispatcher Workspace.
 
-## Related
-
-- [[components-wfo-fsm|Workforce Optimization for Field Service components]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[work-order-task-states|Work order task states]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

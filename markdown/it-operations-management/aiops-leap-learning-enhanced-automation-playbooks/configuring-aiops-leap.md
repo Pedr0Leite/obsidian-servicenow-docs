@@ -14,7 +14,7 @@ breadcrumb: [Learning Enhanced Automation Platform \(LEAP\), Now Assist for ITOM
 
 # Configuring LEAP
 
-You can download and [[install-aiops-leap-application|install LEAP]] application from the ServiceNow® Store to manage your IT operations efficiently.
+You can download and install LEAP application from the ServiceNow® Store to manage your IT operations efficiently.
 
 ## Configuration overview
 
@@ -28,7 +28,7 @@ You can download and [[install-aiops-leap-application|install LEAP]] application
 
 3.  [Activate LEAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/activate-aiops-leap.md)
 
-    [[activate-aiops-leap|Activate LEAP]] to enable grouping of incidents, create problem records, and generate resolution playbooks.
+    Activate LEAP to enable grouping of incidents, create problem records, and generate resolution playbooks.
 
 4.  [Change LEAP large language model \(LLM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/change-leap-large-languauge-model-llm.md)
 
@@ -36,10 +36,6 @@ You can download and [[install-aiops-leap-application|install LEAP]] application
 
 5.  [Configure Ansible automation integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aiops-leap-learning-enhanced-automation-playbooks/configure-ansible-automation-integration.md)
 
-    Configure the integration between LEAP and Ansible Automation Platform to enable automated [[r-discovery|discovery]] and execution of Ansible job templates.
+    Configure the integration between LEAP and Ansible Automation Platform to enable automated discovery and execution of Ansible job templates.
 
-## Related
 
-- [[install-aiops-leap-application|Install LEAP]]
-- [[activate-aiops-leap|Activate LEAP]]
-- [[r-discovery|Discovery]]

@@ -34,7 +34,7 @@ Third-party risk \(TPR\) manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\]
 
 </td><td>
 
-Edit the Third-party Insights and TPRM Custom Analytics dashboard.View all questionnaire responses, including responses from tiering assessments, internal assessments, and third-party [[risk-assessments|risk assessments]].
+Edit the Third-party Insights and TPRM Custom Analytics dashboard.View all questionnaire responses, including responses from tiering assessments, internal assessments, and third-party risk assessments.
 
 </td></tr><tr><td>
 
@@ -87,6 +87,3 @@ To learn more about creating and using TPRM dashboards, see:
 
 For more information on dashboards, see [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md).
 
-## Related
-
-- [[risk-assessments|risk assessments]]

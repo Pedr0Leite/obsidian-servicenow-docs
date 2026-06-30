@@ -14,7 +14,7 @@ breadcrumb: [Managing part requirements, Using Dispatcher Workspace, Assigning t
 
 # Create a part requirement in Dispatcher Workspace
 
-[[t_CreateAPartRequirement|Create a part requirement]] for a work order task in [[dispatcher-activities|Dispatcher Workspace]].
+Create a part requirement for a work order task in Dispatcher Workspace.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: wm\_dispatcher
 
 2.  Click a task number from the task panel or calendar that is in Awaiting Qualification, Qualified, Assigned, or Work in Progress state.
 
-    **Note:** Enabling the **Apply Work Order template in draft status** configuration, allows you to create [[c_PartRequirements|part requirements]] for a work order task that is in the Draft state.
+    **Note:** Enabling the **Apply Work Order template in draft status** configuration, allows you to create part requirements for a work order task that is in the Draft state.
 
 3.  In the **Part Requirements** related list, click **New**.
 
@@ -54,8 +54,3 @@ Role required: wm\_dispatcher
 
 Part requirement is created successfully. The part requirement record number starts with an SOPR prefix and the records are stored in the \[sm\_part\_requirement\] table in the Service Order Management application.
 
-## Related
-
-- [[t_CreateAPartRequirement|Create a part requirement]]
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[c_PartRequirements|Part requirements]]

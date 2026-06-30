@@ -14,7 +14,7 @@ breadcrumb: [Create a privacy assessment, Configure, Privacy Management, Governa
 
 # Write a processing activity script
 
-Write custom scripts on the [[airc-assessment-templates|assessment templates]] to update the processing activity fields using a script. The script runs when the assessment response is completed. You can write multiple scripts for both screening assessments and impact assessments.
+Write custom scripts on the assessment templates to update the processing activity fields using a script. The script runs when the assessment response is completed. You can write multiple scripts for both screening assessments and impact assessments.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_privacy.developer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[privacy-management|Privacy Management]]** &gt; **Assessments** &gt; **All Assessment Templates**.
+1.  Navigate to **All** &gt; **Privacy Management** &gt; **Assessments** &gt; **All Assessment Templates**.
 
 2.  Open the assessment template for which you want to write the script.
 
@@ -86,7 +86,3 @@ Script to be used to update the processing activity.
 
 **Parent Topic:**[Create a privacy assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-assessment-template.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[privacy-management|privacy management]]

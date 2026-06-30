@@ -12,7 +12,7 @@ breadcrumb: [Managing Operational vulnerability, Manage, Operational Resilience,
 
 # Request an approval
 
-Request an approval for the [[exploring-op-vul|Operational vulnerability]] record. When you request an approval, the state of the vulnerability is updated to the **Pending approval** state and then to the **Requested** state respectively.
+Request an approval for the Operational vulnerability record. When you request an approval, the state of the vulnerability is updated to the **Pending approval** state and then to the **Requested** state respectively.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[grc-opres-landing-page|Operational Resilience]] Workspace** &gt; **All Operational Vulnerabilities**.
+1.  Navigate to **Workspaces** &gt; **Operational Resilience Workspace** &gt; **All Operational Vulnerabilities**.
 
 2.  Open the vulnerability that you want to submit for an approval.
 
@@ -59,10 +59,5 @@ Role required: sn\_oper\_res.manager
 
 ## What to do next
 
-The subsequent step requires the approver to review the email notification, select the approval link from the email, and approve the Operational vulnerability. For more information, see [[approve-vul|Approve the operational vulnerability]].
+The subsequent step requires the approver to review the email notification, select the approval link from the email, and approve the Operational vulnerability. For more information, see [Approve the operational vulnerability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/approve-vul.md).
 
-## Related
-
-- [[approve-vul|Approve the operational vulnerability]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

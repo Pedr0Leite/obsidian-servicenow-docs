@@ -18,13 +18,13 @@ Use ServiceNow Machine Learning \(ML\) APIs to train Machine Learning models and
 
 ML APIs enable training solutions and managing solution versions. You can get and set active versions, monitor training status, and more. The ML API also provides encoders, which enable using term frequency–inverse document frequency \(TF-IDF\) as a word corpus. Predictability estimates enable assessing the predictive value of table columns.
 
-**Note:** [[predictive-intelligence-landing|Predictive Intelligence]] APIs run with full privileges before the Vancouver Patch 7 Hotfix 2b and Washington DC Patch 7 releases. With later releases, grant access using ACLs. For more information see [Query ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/query-acl-rule.md).
+**Note:** Predictive Intelligence APIs run with full privileges before the Vancouver Patch 7 Hotfix 2b and Washington DC Patch 7 releases. With later releases, grant access using ACLs. For more information see [Query ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/query-acl-rule.md).
 
 ## ML API class overview
 
 This section briefly describes classes for training ML solutions and running inferences with trained solutions.
 
--   **[[ai-datasets|Datasets]]**
+-   **Datasets**
 
     A dataset is a set of records including a table name, columns, and row selection criteria to use as input for ML training algorithms. Datasets don't contain the actual data.
 
@@ -298,7 +298,4 @@ Follow these example breakdowns to learn how to manage trained solution versions
         }
         ```
 
-## Related
 
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[ai-datasets|Datasets]]

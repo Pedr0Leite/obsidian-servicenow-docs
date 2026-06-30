@@ -67,7 +67,7 @@ Wrap Up
 
 This state indicates that the agent has completed a conversation with a customer and is wrapping up the interaction.
 
- This state is available if an [[interaction-wrap-up-state|interaction wrap up]] configuration has been created for the specific type of interaction and that configuration is active.
+ This state is available if an interaction wrap up configuration has been created for the specific type of interaction and that configuration is active.
 
  For more information, see [Interaction wrap up](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-wrap-up-state.md).
 
@@ -90,6 +90,3 @@ The interaction is closed because the consumer disconnects or is unresponsive.
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/configuring-interaction-management.md)
 
-## Related
-
-- [[interaction-wrap-up-state|Interaction wrap up]]

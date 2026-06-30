@@ -18,8 +18,8 @@ Use a report range to define intervals that break up continuous timespan data in
 
 Sometimes it can be helpful to group results into ranges or buckets rather than viewing every result as an individual score. Think of a bar or pie chart which shows the business duration of incidents. By default each individual value would be a separate slice, creating an unnecessarily crowded-looking visual. However, segmenting the results into logical groups of scores can add context and help the audience understand which ranges are good, bad, or concerning. A report range is used to define data intervals for the following charts:
 
--   Core UI: Bar, pie, and [[c_CreateDonutCharts|donut reports]]
--   [[c_performanceAnalyticsAndReporting|Platform Analytics]]: All relevant data visualization types including heatmap and time series, when the data source is a table.
+-   Core UI: Bar, pie, and donut reports
+-   Platform Analytics: All relevant data visualization types including heatmap and time series, when the data source is a table.
 
 Example use case: There is a significant cost involved to a business each time a SLA is breached at a company. A Service Manager can understand which SLAs are being easily met versus which ones are being breached, or are coming close to being breached by viewing how many tasks were completed well within the SLA versus how many elapsed during the SLA.. This information helps them identify which SLAs may need to be adjusted.
 
@@ -98,9 +98,9 @@ Value list
 Value list - works with elements that store a list of table sysIds.
 
 </td></tr></tbody>
-</table>## [[t_CreateYourOwnReport|Create a report]] range
+</table>## Create a report range
 
-Create a report range to define data intervals that are used in bar and [[c_CreatePieCharts|pie charts]].
+Create a report range to define data intervals that are used in bar and pie charts.
 
 ### Before you begin
 
@@ -245,9 +245,3 @@ Role required: admin
 
 You can define report ranges for your Core UI pie and bar charts.
 
-## Related
-
-- [[c_CreateDonutCharts|Donut reports]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[t_CreateYourOwnReport|Create a report]]
-- [[c_CreatePieCharts|Pie charts]]

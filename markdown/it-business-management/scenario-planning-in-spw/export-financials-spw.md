@@ -22,7 +22,7 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** and select portfolio plan.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** and select portfolio plan.
 
 2.  Select a planning item from the Planning module.
 
@@ -41,6 +41,4 @@ Role required: sn\_align\_ws.spw\_financial\_user
 
     **Note:** You can export financials data from Cost view and Baselines comparison view.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

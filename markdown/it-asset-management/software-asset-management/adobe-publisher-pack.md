@@ -71,13 +71,9 @@ Adobe Cloud reports can be accessed by navigating to **Reports** &gt; **View/Run
 You can view Adobe subscriptions, compliance, and cost using the [Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-saas-subscription-dash.md) or [Publisher overview for Adobe Systems in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-adobe.md).
 
 -   **[Office 365 &amp; Adobe Cloud dashboard in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-saas-subscription-dash.md)**  
-View compliance analysis results related to Microsoft Office 365 and Adobe Cloud License Management in [[c_SoftwareAssetMgmt|Software Asset Management]] classic.
+View compliance analysis results related to Microsoft Office 365 and Adobe Cloud License Management in Software Asset Management classic.
 -   **[Publisher overview for Adobe Systems in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-adobe.md)**  
-View license usage information related to Adobe in the [[publisher-overview-adobe|publisher overview for Adobe Systems in the Software Asset Workspace]].
+View license usage information related to Adobe in the publisher overview for Adobe Systems in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-publisher-packs.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[publisher-overview-adobe|Publisher overview for Adobe Systems in the Software Asset Workspace]]

@@ -14,13 +14,13 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 # New hardening settings for baseline version 6.0
 
-[[hardening-settings-new|New hardening settings]] have been released with [[sec-center-v2|Security Center]] baseline version 6.0.
+New hardening settings have been released with Security Center baseline version 6.0.
 
 -   [Enforce application specific ACLs only for application data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-application-specific-acls-only-for-application-data.md)
 -   [Disable legacy JQuery UI usage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-legacy-jquery-ui-usage.md)
 -   [Display recommendations for high risk UI pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-display-recommendations-for-high-risk-ui-pages.md)
 -   [Enforce current password policy compliance requirements on login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-enforce-current-password-policy-compliance-requirements-on-login.md)
--   [Prevent [[users|Users]] From Accepting Warning To Bypass CSRF Validation \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-csrf-strict-validation.md)
+-   [Prevent Users From Accepting Warning To Bypass CSRF Validation \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-csrf-strict-validation.md)
 -   [Require Minimum and Maximum Password Length](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-set-minimal-password-length.md)
 -   [Limit session length for high assurance sessions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-limit-session-length-for-high-assurance-sessions.md)
 -   [Disable deprecated TLS versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-disable-deprecated-tls-versions.md)
@@ -35,8 +35,3 @@ breadcrumb: [New hardening settings, Baseline versions, Hardening settings, Plat
 
 **Parent Topic:**[New hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-new.md)
 
-## Related
-
-- [[hardening-settings-new|New hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]

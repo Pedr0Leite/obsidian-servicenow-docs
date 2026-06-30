@@ -22,7 +22,7 @@ An issue can be created for a control requirement through an attestation. You ca
 
 If the attestation fails, then an issue is created. The issue created because of an attestation failure has the **Issue source** field tagged as **Requirement Attestation Failure**.
 
-You can view the control requirement reference in the **Control/Risk** field of the Details related list in the [[issue-form|Issue form]].
+You can view the control requirement reference in the **Control/Risk** field of the Details related list in the Issue form.
 
 You can close the issue by providing a response and saving it in the Issue form. Your response can be either **Remediate** or **Accept**.
 
@@ -96,6 +96,3 @@ For more information on attestation flow scenarios, see the [Attestation workflo
 
 **Parent Topic:**[CAM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/reference-grc-cam.md)
 
-## Related
-
-- [[issue-form|Issue form]]

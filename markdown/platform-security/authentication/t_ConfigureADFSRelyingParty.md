@@ -14,7 +14,7 @@ breadcrumb: [ADFS integration with SAML 2.0, Integrating SAML 2.0 with other fea
 
 # Configure an ADFS relying party
 
-Take the instance metadata and import it into your ADFS server. However, manual [[sc-configuration|configuration]] of the relying party appears to be easier to implement.
+Take the instance metadata and import it into your ADFS server. However, manual configuration of the relying party appears to be easier to implement.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers** &gt; **SAML2 Update1** &gt; **[[encryption-landing|Encryption]] And Signing** and verify that the [[c_SAML2.0WebBrowserSSOProfile|SAML]] property Sign AuthnRequest \(**glide.authenticate.sso.saml2.require\_signed\_authnrequest**\) is not active.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers** &gt; **SAML2 Update1** &gt; **Encryption And Signing** and verify that the SAML property Sign AuthnRequest \(**glide.authenticate.sso.saml2.require\_signed\_authnrequest**\) is not active.
 
     Only keep this property active if your ADFS administrator can verify that you require signed requests.
 
@@ -54,7 +54,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
     In this case, use `https://company.service-now.com` and click **Add**.
 
-13. Permit all [[users|users]] to access this relying party.
+13. Permit all users to access this relying party.
 
 14. Click **Next** and clear the **Open the Claims when this finishes** check box.
 
@@ -68,10 +68,4 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 18. Browse to the Endpoints tab and add a **SAML Assertion Consumer** with a **Post** binding and a URL of `https://company.service-now.com/navpage.do`.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[identity-landing|Identity]]
-- [[encryption-landing|Encryption]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[users|Users]]

@@ -16,7 +16,7 @@ breadcrumb: [Channels, Workforce Optimization for ITSM, IT Service Management]
 
 Set up service channels, queues, and key performance indicators \(KPIs\) to route work items automatically to agents based on an agent's availability, capacity, and skills.
 
-With [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]:
+With Workforce Optimization for ITSM:
 
 -   As a channel administrator, you can set up service channels and work item queues and then automatically route incoming work to agents. You can also configure real-time refresh intervals for the metrics and lists so that managers can always see the latest information about their teams.
 -   As a manager, you can view the real-time operational metrics for the work that is being done by your teams and the specific items that your teams are working on.
@@ -24,7 +24,7 @@ With [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]
 **Note:** As an administrator, you can configure filters to refine the search and view targeted results. Filters are persisted across all channel management pages in the session. To view a list of the default interactive filters and the KPI reports for channels, queues, agents, and groups that you can map to the interactive filters, see [the filter configuration tables for Channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configure-filter-configurable-manager-workspace.md). By default, the assignment group filter is applied to all lists and groups that you manage. You can disable interactive filters by using the **sn\_channel\_mgmt.filter\_config.enable** property.
 
 -   **[Add service channels and queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/add-channels-queues-configurable-wfo-itsm.md)**  
-[[add-channels-queues-configurable-wfo-itsm|Add service channels and queues]] to automatically route incoming work items to agents.
+Add service channels and queues to automatically route incoming work items to agents.
 -   **[Create assignment rules and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/create-assignment-rules-configurable-wfo-itsm.md)**  
 Define agent assignment rules and specify groups of agents who are eligible to receive overflow work assignments for a queue.
 -   **[Configure KPIs for service channels](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configure-kpis-service-channels-configurable-wfo-itsm.md)**  
@@ -42,7 +42,3 @@ Use extension points to call scripts to configure the list sort order in Channel
 
 **Parent Topic:**[Channels in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/exploring-channels-configurable-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[add-channels-queues-configurable-wfo-itsm|Add service channels and queues]]

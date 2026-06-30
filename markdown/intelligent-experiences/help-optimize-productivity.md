@@ -24,9 +24,9 @@ The agentic workflow performs the following tasks:
 -   Calculates workloads relative to each team member's typical capacity
 -   Enables proactive team management with data-driven insights
 
-The agents, tools, and triggers that are associated with the Help optimize team productivity agentic workflow are provided by [[platform-now-assist-landing|Now Assist]] applications. You can [[activate-aia-use-case|activate the agentic workflow template]] by making triggers active and setting the display settings to include the [[now-assist-center-now-assist-panel|Now Assist panel]]. If you want to change this agentic workflow's instructions, you must [[clone-aia-usecase|duplicate it]], adjust the settings to suit your specific needs, and activate the duplicated version of the agentic workflow instead.
+The agents, tools, and triggers that are associated with the Help optimize team productivity agentic workflow are provided by Now Assist applications. You can [activate the agentic workflow template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-aia-use-case.md) by making triggers active and setting the display settings to include the Now Assist panel. If you want to change this agentic workflow's instructions, you must [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), adjust the settings to suit your specific needs, and activate the duplicated version of the agentic workflow instead.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Prerequisites and setup
 
@@ -36,13 +36,13 @@ To access this workflow, you must have Now Assist for Platform installed on your
 
 Required role: sn\_uxc\_gen\_ai.platform\_ai\_help\_allocate\_work.
 
-Agentic workflows and their AI agents use [[aia-role-masking|role masking]] to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security [[controls|controls]] to include these roles. For the instructions to change the security controls, see [[define-sec-controls-aw|Define security controls for an agentic workflow]].
+Agentic workflows and their AI agents use [role masking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/aia-role-masking.md) to determine which users can access them. Ones installed with Now Assist applications have specific roles that come included with the application. If you select **Users with specific roles** for user access, you must configure the security controls to include these roles. For the instructions to change the security controls, see [Define security controls for an agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md).
 
 In the data access settings, you must also add the necessary roles to enable reading of the tables for records assigned to team members. For example, you can add the itil role to the agentic workflow's list of approved roles so that it can access Incident records.
 
 ## Additional configuration
 
-You can change different settings related to the agentic workflow by changing values for the Now Assist Skill Config Var Set. To access the variable set and make changes, do the following while in the [[platform-ai-agents|Platform AI Agents]] and Skills scope:
+You can change different settings related to the agentic workflow by changing values for the Now Assist Skill Config Var Set. To access the variable set and make changes, do the following while in the Platform AI Agents and Skills scope:
 
 -   Go to the Now Assist Skill Config \[sn\_nowassist\_skill\_config\] table.
 -   Open the record named **Optimal Ticket Assignment**.
@@ -166,16 +166,16 @@ How often the scheduled job runs and triggers the agentic workflow.
 
 To access the agentic workflow:
 
-1.  Navigate to **All** &gt; **[[ai-agent-studio|AI Agent Studio]]** &gt; **Create and manage**.
+1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Help optimize team productivity**.
 
 The first step of the guided setup includes a complete list of included AI agents. Selecting the name of an AI agent opens it in a new browser tab, where you can see the full description, role, list of steps, and tools. Tools are displayed in the second step of the AI agent guided setup, Add tools and information.
 
 ## Testing the Help optimize team productivity agentic workflow
 
-You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md). Start a manual test, select a test type and the name of the workflow, and use utterances in the Task field like the following samples. See [[test-aia-use-case|Test an agentic workflow execution]].
+You can manually test an agentic workflow execution or access on the Testing page of AI Agent Studio if you have the sn.aia\_admin role and all other roles configured [in the security controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/define-sec-controls-aw.md). Start a manual test, select a test type and the name of the workflow, and use utterances in the Task field like the following samples. See [Test an agentic workflow execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-use-case.md).
 
-If you want to evaluate the agentic workflow over many different execution logs, run an [[execute-aia-eval|automated evaluation]].
+If you want to evaluate the agentic workflow over many different execution logs, run an [automated evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 ## Sample utterance
 
@@ -195,20 +195,5 @@ The following table lists the agents that are used in the Help optimize team pro
 
 ## Other Platform agentic workflows
 
-For more information on other agentic workflows that are associated with the Platform workflow, see [[platform-use-cases|Platform agentic workflows]].
+For more information on other agentic workflows that are associated with the Platform workflow, see [Platform agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-use-cases.md).
 
-## Related
-
-- [[activate-aia-use-case|Activate an agentic workflow template]]
-- [[clone-aia-usecase|Duplicate an agentic workflow]]
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[aia-role-masking|Role masking in Now Assist AI agents]]
-- [[define-sec-controls-aw|Define security controls for an agentic workflow]]
-- [[test-aia-use-case|Manually test the execution of an agentic workflow]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[platform-use-cases|Platform agentic workflows]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[controls|Controls]]
-- [[platform-ai-agents|Platform AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]

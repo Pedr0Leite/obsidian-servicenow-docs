@@ -14,7 +14,7 @@ breadcrumb: [Fortinet firewall and FortiGate VDOM REST-based, Available on-premi
 
 # Create a serverless schedule for Fortinet firewall REST-based discovery
 
-Create a [[serverless-discovery|serverless discovery]] schedule to discover Fortinet firewalls and FortiGate Virtual Domains \(VDOMs\) through REST-based [[r-discovery|discovery]].
+Create a serverless discovery schedule to discover Fortinet firewalls and FortiGate Virtual Domains \(VDOMs\) through REST-based discovery.
 
 ## Before you begin
 
@@ -82,7 +82,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [Fortinet firewall and FortiGate VDOM REST-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/fortinet-fw-vdoms-rest-discovery.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]

@@ -35,7 +35,7 @@ The steps in this procedure use the example of a formula column that calculates 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, open the Board where you want to add a formula column.
 
@@ -77,6 +77,3 @@ Use Now Assist to automatically generate formulas to compute values such as summ
 
 [Generate a formula using Now Assist for CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/generate-formula-cwm-board-now-assist.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

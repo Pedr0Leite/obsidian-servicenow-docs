@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Monitoring replication status in Instance Data Replication
 
-Monitor the status of active producer and consumer replication sets, scheduled jobs, seeding requests, license usage, or [[scheduled-replication|scheduled replication]] through the [[instance-data-replication|Instance Data Replication]] \(IDR\) Monitoring Dashboard.
+Monitor the status of active producer and consumer replication sets, scheduled jobs, seeding requests, license usage, or scheduled replication through the Instance Data Replication \(IDR\) Monitoring Dashboard.
 
 ## Accessing the IDR Monitoring dashboard
 
@@ -68,7 +68,7 @@ The IDR Overall Monitoring dashboard monitors the following:
 
     |Jobs|Description|
     |----|-----------|
-    |Hermes Metrics Collection|Collects metrics related to the [[hermes-messaging-service|Hermes Messaging Service]].|
+    |Hermes Metrics Collection|Collects metrics related to the Hermes Messaging Service.|
     |Hermes Periodic Purge|Cleans obsolete cached data in the Hermes API.|
     |Hermes Topics Util|Synchronizes topics across Hermes clusters. Initially, topics are created in a single Hermes cluster. This job detects new topics and creates the same topics in the remaining Hermes clusters.|
     |IDRConsumerJob|Polls for record changes and seeding requests on the consumer instance in 15-second intervals.|
@@ -233,8 +233,3 @@ Monitor the status of scheduled replication requests within a specific time peri
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[scheduled-replication|Scheduled replication]]
-- [[instance-data-replication|Instance Data Replication]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

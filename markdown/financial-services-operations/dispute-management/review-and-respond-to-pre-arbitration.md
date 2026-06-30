@@ -26,7 +26,7 @@ The acquirer might choose to initiate pre-arbitration. You can review and respon
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -50,7 +50,7 @@ The acquirer might choose to initiate pre-arbitration. You can review and respon
 
     You can also view the merchant response as an attachment in the activity stream.
 
-    **Note:** If [[card-data-security|Card Data Security]] is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+    **Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 10. Respond in one of the following ways.
 
@@ -68,9 +68,9 @@ Description
 
 </td><td>
 
-Determine whether to [[fso-ach-dispute-reverse-provisional|reverse provisional credit]] using the **Reverse provisional credit** field. Select **Continue**, then select **Accept dispute**. Select **Close task**.
+Determine whether to reverse provisional credit using the **Reverse provisional credit** field. Select **Continue**, then select **Accept dispute**. Select **Close task**.
 
- As a result, the issuer accepts the pre-arbitration request of the acquirer. It reverses provisional credit or [[convert-provisional-credit-to-final-credit|convert provisional credit to final credit]].
+ As a result, the issuer accepts the pre-arbitration request of the acquirer. It reverses provisional credit or convert provisional credit to final credit.
 
 </td></tr><tr><td id="d79348e257">
 
@@ -96,9 +96,3 @@ You can recall the request if you're within three days from the submission date 
 
 **Parent Topic:**[Allocation dispute workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/allocation-dispute-work-flow.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[card-data-security|Card Data Security]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]
-- [[convert-provisional-credit-to-final-credit|Convert provisional credit to final credit]]

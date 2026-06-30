@@ -12,7 +12,7 @@ breadcrumb: [Configuring customer service case types, Customer service case type
 
 # Configure case type declarative actions
 
-Configure [[migration-form-declarative-actions|declarative actions]] that enable agents to create [[csm-cases-case-tasks-overview|cases and case tasks]] from different locations within [[csm-workspaces-configure|CSM Configurable Workspace]].
+Configure declarative actions that enable agents to create cases and case tasks from different locations within CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-The [[customer-service-case-types|Customer Service Case Types]] plugin includes declarative actions that enable agents to create cases and case tasks using the [[csm-case-type-select-modals|case type selector]] and [[csm-case-task-type-select-modal|case task type selector]]. These declarative actions are disabled by default.
+The Customer Service Case Types plugin includes declarative actions that enable agents to create cases and case tasks using the [case type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md) and [case task type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-task-type-select-modal.md). These declarative actions are disabled by default.
 
 |Action label|Location|Action|
 |------------|--------|------|
@@ -42,11 +42,4 @@ Declarative actions are stored in the Action Assignment \[sys\_declarative\_acti
 
 3.  For each of the desired declarative actions, set the **Active** field to true.
 
-## Related
 
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-case-task-type-select-modal|Case task type selector]]
-- [[migration-form-declarative-actions|Declarative actions]]
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[customer-service-case-types|Customer service case types]]

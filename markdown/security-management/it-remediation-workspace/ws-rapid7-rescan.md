@@ -14,13 +14,13 @@ breadcrumb: [Rescan vulnerable items and remediation tasks in the IT Remediation
 
 # Rescan Rapid7 vulnerable items from the Vulnerability Response workspaces
 
-Verify your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans in the Rapid7 product on-demand from the [[it-remediation-workspace-landing-page|IT Remediation Workspace]] in your ServiceNow AI Platform instance.
+Verify your vulnerable items have been remediated between scheduled scanning cycles. Initiate rescans in the Rapid7 product on-demand from the IT Remediation Workspace in your ServiceNow AI Platform instance.
 
 ## Before you begin
 
 To initiate a rescan for the product from the classic environment, see [Initiate rescan for the Rapid7 Vulnerability Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-r7-rescan.md). This topic also includes information about how to schedule scans with the integration parameters on the Rapid7 integration instance.
 
-The Rapid7 scanners are deactivated by default in the [[vuln-landing-page|Vulnerability Response]] application. If you try to perform a rescan from the vulnerable items or remediation tasks that have Rapid7 application as a source, the **Rescan** button is not available.
+The Rapid7 scanners are deactivated by default in the Vulnerability Response application. If you try to perform a rescan from the vulnerable items or remediation tasks that have Rapid7 application as a source, the **Rescan** button is not available.
 
 To activate these scanners, as a user with the sn\_vul.vulnerability\_admin role:
 
@@ -39,7 +39,7 @@ To activate these scanners, as a user with the sn\_vul.vulnerability\_admin role
 Roles required:
 
 -   sn\_vul.remediation\_owner for the IT Remediation workspace
--   sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin from the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
+-   sn\_vul.vulnerability\_analyst or sn\_vul.vulnerability\_admin from the Vulnerability Manager Workspace
 
 ## Procedure
 
@@ -66,8 +66,4 @@ Roles required:
 
     All VIs that have transitioned, or will transition, to Closed/Fixed are imported with the next scheduled import of the Rapid7 integrations.
 
-## Related
 
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]

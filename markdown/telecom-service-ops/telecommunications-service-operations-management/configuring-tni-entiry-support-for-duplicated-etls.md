@@ -21,7 +21,7 @@ When Telecom Network Inventory \(TNI\) is enabled, every Configuration Item \(CI
 Role required: admin
 
 -   Ensure TNI is installed and active in your instance.
--   Complete the duplication of the [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]] ETL into the target application scope.
+-   Complete the duplication of the Telecom Discovery Builder framework ETL into the target application scope.
 
 ## Procedure
 
@@ -45,6 +45,4 @@ Role required: admin
 
     The duplicated ETL links TNI entities for discovered CIs.
 
-## Related
 
-- [[exploring-the-telco-generic-schema-etl-framework|Telecom Discovery Builder framework]]

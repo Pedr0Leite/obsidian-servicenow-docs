@@ -16,7 +16,7 @@ breadcrumb: [Configuration Compliance, Unified Security Exposure Management, Sec
 
 Use test results obtained from third-party Secure Configuration Assessment \(SCA\) integrations to verify compliance with security or corporate policies. Identify, prioritize, and remediate non-compliant configuration items.
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -26,7 +26,7 @@ Use test results obtained from third-party Secure Configuration Assessment \(SCA
 
 ## What is Configuration Compliance
 
-The ServiceNow® Configuration Compliance application enables you to prioritize and remediate the most critical configuration-related [[vulnerabilities|vulnerabilities]] in your environment quickly and efficiently. Configuration Compliance is available by subscription in the ServiceNow® Store.
+The ServiceNow® Configuration Compliance application enables you to prioritize and remediate the most critical configuration-related vulnerabilities in your environment quickly and efficiently. Configuration Compliance is available by subscription in the ServiceNow® Store.
 
 \[Omitted image "cc-overview-image.png"\] Alt text: Configuration Compliance workflow
 
@@ -65,7 +65,7 @@ Configuration Compliance tasks involve the following roles.
 
 ## Configuration Compliance and Security Operations
 
-When the Qualys Vulnerability Integration and the Tenable Vulnerability Integration are installed, access to [[vuln-landing-page|Vulnerability Response]] becomes available. You can have multiple deployments of these integrations. Data sourced from each deployment is identified and available in a single instance of GRC.
+When the Qualys Vulnerability Integration and the Tenable Vulnerability Integration are installed, access to Vulnerability Response becomes available. You can have multiple deployments of these integrations. Data sourced from each deployment is identified and available in a single instance of GRC.
 
 ## Available versions for Australia
 
@@ -79,7 +79,7 @@ Release notes
 
 </th></tr></thead><tbody><tr><td>
 
-If you intend to upgrade to a version that is compatible with [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]], please select a version starting with 30.x when installing or upgrading.
+If you intend to upgrade to a version that is compatible with Unified Security Exposure Management \(USEM\), please select a version starting with 30.x when installing or upgrading.
 
 </td><td>
 
@@ -97,10 +97,3 @@ If you do not intend to upgrade to a version that is compatible with Unified Sec
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[unified-security-exposure-management-landing-page|Unified Security Exposure Management \(USEM\)]]

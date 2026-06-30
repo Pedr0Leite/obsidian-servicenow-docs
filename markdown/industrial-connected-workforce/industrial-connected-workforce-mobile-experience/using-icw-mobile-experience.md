@@ -14,7 +14,7 @@ breadcrumb: [Industrial Connected Workforce Mobile Experience, Industrial Connec
 
 # Using the Industrial Connected Workforce Mobile Experience
 
-The [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] app helps operators manage work on the shop floor from their mobile devices. It brings together tasks, deviations, actions, and knowledge in one interface, so operators can stay productive without leaving their work area.
+The Industrial Connected Workforce Mobile Experience app helps operators manage work on the shop floor from their mobile devices. It brings together tasks, deviations, actions, and knowledge in one interface, so operators can stay productive without leaving their work area.
 
 ## Overview of Industrial Connected Workforce Mobile Experience
 
@@ -51,17 +51,17 @@ Execute an Industrial Guided Task \(IGT\) with the Industrial Connected Workforc
 -   **[Save an Industrial Guided Task while offline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/save-igt-offline-icw-mobile.md)**  
 Save the progress of an Industrial Guided Task \(IGT\) to the outbox while working in offline mode so that your changes are preserved and automatically uploaded when connectivity is restored.
 -   **[Create an action in the Industrial Connected Workforce Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/create-action-mobile.md)**  
-[[create-industrial-action|Create an action]] in Industrial Connected Workforce Mobile Experience to manage all ad-hoc tasks that don't fit into any of the standard processes.
+Create an action in Industrial Connected Workforce Mobile Experience to manage all ad-hoc tasks that don't fit into any of the standard processes.
 -   **[Create an action from another task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/create-action-from-another-task-mobile.md)**  
 Create an action as a child task to another task Industrial Connected Workforce Mobile Experience.
 -   **[Create a follow-up action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/create-follow-up-action-mobile.md)**  
-[[create-follow-up-action|Create a follow-up action]] for a task with the Industrial Connected Workforce Mobile Experience.
+Create a follow-up action for a task with the Industrial Connected Workforce Mobile Experience.
 -   **[Create a deviation in the Industrial Connected Workforce Mobile application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/create-deviation-mobile.md)**  
-[[create-industrial-deviation|Create a deviation]] in the mobile app to report an issue that deviates from standard operations, such as an equipment malfunction. This way the issue can be tracked, investigated, and resolved.
+Create a deviation in the mobile app to report an issue that deviates from standard operations, such as an equipment malfunction. This way the issue can be tracked, investigated, and resolved.
 -   **[Escalate a deviation to a breakdown](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/escalate-deviation-to-breakdown-mobile.md)**  
-[[escalate-deviation-to-breakdown|Escalate a deviation to a breakdown]] to perform deeper analysis, uncover root causes, and help prevent similar issues in future processes.
+Escalate a deviation to a breakdown to perform deeper analysis, uncover root causes, and help prevent similar issues in future processes.
 -   **[Create a breakdown in the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/create-breakdown-mobile.md)**  
-[[create-breakdown|Create a breakdown]] when the impact of the anomaly increases. For example, when the duration of production impairment increases as the problem remains unresolved.
+Create a breakdown when the impact of the anomaly increases. For example, when the duration of production impairment increases as the problem remains unresolved.
 -   **[Initiate a breakdown analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/initiate-breakdown-analysis-from-breakdown-mobile.md)**  
 Use breakdown analysis to investigate the cause of breakdown further.
 -   **[Create a safety incident from a task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/icw-mobile-create-safety-incident-from-task.md)**  
@@ -71,11 +71,3 @@ Report a safety incident directly from your mobile device when you encounter a s
 
 **Parent Topic:**[Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/icw-mobile-exp-landing-page.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[create-industrial-action|Create an action]]
-- [[create-follow-up-action|Create a follow-up action]]
-- [[create-industrial-deviation|Create a deviation]]
-- [[escalate-deviation-to-breakdown|Escalate a deviation to a breakdown]]
-- [[create-breakdown|Create a breakdown]]

@@ -14,7 +14,7 @@ breadcrumb: [Using the Service Graph Connector for Microsoft Excel through impor
 
 # Create a remediation task for invalid staging records
 
-After running validations for the [[operational-technology-overview|Operational Technology]] \(OT\) device data imported with the [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]], optionally [[create-remediation-task|create a remediation task]] to resolve invalid staging records.
+After running validations for the Operational Technology \(OT\) device data imported with the Service Graph Connector for Microsoft Excel, optionally create a remediation task to resolve invalid staging records.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ You can optionally create remediation tasks to resolve invalid staging records. 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Select the **List** \(\[Omitted image "icon-list.png"\] Alt text: List icon\) icon.
 
@@ -51,9 +51,3 @@ When you view the remediation task record, you can also view the staging records
 
 **Parent Topic:**[Using the Service Graph Connector for Microsoft Excel through import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/use-excel-sgc-through-import-tasks.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[service-graph-connector-for-OT-excel|Service Graph Connector for Microsoft Excel]]
-- [[create-remediation-task|Create a remediation task]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

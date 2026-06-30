@@ -22,9 +22,9 @@ Role required: inventory\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Enterprise Asset Workspace** &gt; **Inventory**.
 
-2.  Select the **All [[c_Stockrooms|stockrooms]]** tab.
+2.  Select the **All stockrooms** tab.
 
 3.  Select the stockroom.
 
@@ -50,7 +50,3 @@ Manage all the enterprise asset pick tasks assigned to you by using the Mobile A
 
 [Add aisles and spaces to a stockroom in the Enterprise Asset Workspace]()
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

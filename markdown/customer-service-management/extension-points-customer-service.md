@@ -12,7 +12,7 @@ breadcrumb: [Reference, Customer Service Management]
 
 # Extension points in Customer Service Management
 
-Use extension [[gamification-components-points|points]] to call custom scripts in the [[c_CustomerServiceManagement|Customer Service Management]] application.
+Use extension points to call custom scripts in the Customer Service Management application.
 
 To access the available extension points, type **sys\_extension\_point.list** in the application navigator and press **Enter**. Click the desired extension point to view the record details.
 
@@ -61,7 +61,7 @@ sn\_action\_status.NeedsAttentionAccessUtil
 
 </td><td>
 
-Enables each application to choose the user roles that can enable and disable the **Needs Attention** field on a [[r_CustomerServiceCaseForm|case form]]. Available with the Customer Service [[case-action-status-csm-workspace|Case Action Status]] plugin \(com.snc.csm\_action\_status\).
+Enables each application to choose the user roles that can enable and disable the **Needs Attention** field on a case form. Available with the Customer Service Case Action Status plugin \(com.snc.csm\_action\_status\).
 
 </td></tr><tr><td>
 
@@ -117,7 +117,7 @@ AddressMgmtExtensionPoint
 
 </td><td>
 
-Enables users to customize the reference qualifiers of the location field in the [[account-address-table|Account Address table]]​.Allows users to create an implementation of this extension point and override the “getAccountLocationsRefQual” function.
+Enables users to customize the reference qualifiers of the location field in the Account Address table​.Allows users to create an implementation of this extension point and override the “getAccountLocationsRefQual” function.
 
 </td></tr></tbody>
 </table>**Related topics**  
@@ -131,10 +131,3 @@ Enables users to customize the reference qualifiers of the location field in the
 
 [Using client extension points in client-side UI scripting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/client-extension-points.md)
 
-## Related
-
-- [[gamification-components-points|Points]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[case-action-status-csm-workspace|Case action status]]
-- [[account-address-table|Account Address table]]

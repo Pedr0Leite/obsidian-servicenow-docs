@@ -14,11 +14,11 @@ breadcrumb: [Initiatives catalog, View the Initiatives and Accelerators catalog,
 
 # Access to Expertise
 
-The Access to Expertise Initiative connects [[impact-landing-page|Impact]] customers to ServiceNow subject matter experts via personalized virtual coaching sessions.
+The Access to Expertise Initiative connects Impact customers to ServiceNow subject matter experts via personalized virtual coaching sessions.
 
 ## Initiative overview
 
-[[access-experts-acc|Access to Experts]] sessions offer specialized guidance on various ServiceNow product topics, aimed at accelerating value realization and outcomes on the ServiceNow platform.
+Access to Experts sessions offer specialized guidance on various ServiceNow product topics, aimed at accelerating value realization and outcomes on the ServiceNow platform.
 
 Receive prescriptive and actionable guidance on effective strategies to address platform obstacles, processes, and workflows.
 
@@ -37,7 +37,7 @@ Topics covered will primarily focus on the ServiceNow platform, with the potenti
 -   IT Operations Management \(ITOM\)
 -   IT Service Management \(ITSM\)
 -   Platform upgrades
--   Reporting, [[instance-observer-performance|Performance]] [[io-analytics|Analytics]]
+-   Reporting, Performance Analytics
 -   Service Portfolio Management
 -   Virtual Agent, Now Intelligence \(AI\)
 
@@ -93,9 +93,3 @@ How do you set up the workflow for Mobile barcode scanning upon initiation of a 
 </td></tr></tbody>
 </table>Submit queries with detailed information using an intake form. See [Request Access to Expertise](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/access-expertise.md) for details on entering the request.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[access-experts-acc|Access to Experts]]
-- [[instance-observer-performance|Performance]]
-- [[io-analytics|Analytics]]

@@ -22,7 +22,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the side of the page, select the Process configurations icon \(\[Omitted image "icon-process-config.png"\] Alt text: Process configuration builder\).
 
@@ -34,9 +34,9 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     The **Investigative features** page has four sections:
 
-    -   [[auto-rca|Automated root cause analysis]]
-    -   [[cluster-analysis|Cluster analysis]]
-    -   [[worknotes-analysis|Work notes analysis]]
+    -   Automated root cause analysis
+    -   Cluster analysis
+    -   Work notes analysis
     \[Omitted image "invest-features-config.png"\] Alt text: Investigative features in process configuration
 
 4.  Add fields that you want for automated root cause analysis in the **Automated root cause analysis** field.
@@ -49,7 +49,7 @@ Role required: sn\_process\_mining\_power\_user or sn\_process\_mining\_admin
 
     **Note:** If the automated root cause analysis isn’t set up in the process configuration, it isn’t available.
 
-5.  Select an existing clustering definition in the **[[intent-activity-analysis|Intent and activity analysis]]** field.
+5.  Select an existing clustering definition in the **Intent and activity analysis** field.
 
     **Note:** Intent and activity analysis isn’t available unless specified in the process configuration. Also, if the Intent and Activity Analysis skill is not activated in Now Assist for Creator, then the section is not available for edit. For more information on Intent and Activity Analysis skill, see [Working with intent and activity analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/nowass-intent-activity-analysis.md).
 
@@ -163,10 +163,3 @@ Select the length greater than which the work notes are disregarded in the analy
 
 **Parent Topic:**[Create process configuration using Process Configuration Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/process-config-builder.md)
 
-## Related
-
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[auto-rca|Automated root cause analysis]]
-- [[cluster-analysis|Cluster analysis]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[intent-activity-analysis|Intent and activity analysis]]

@@ -20,7 +20,7 @@ Role required: sn\_aia.admin
 
 ## Procedure
 
-1.  Navigate to **[[ai-agent-studio|AI Agent Studio]]** &gt; **Settings** &gt; **Long-term memory**.
+1.  Navigate to **AI Agent Studio** &gt; **Settings** &gt; **Long-term memory**.
 
 2.  Select **View All** against View the existing categories of memories.
 
@@ -57,6 +57,4 @@ A brief explanation of what type of user information this category captures.The 
 
     After saving the record, the category is activated by default and is available to map to one or more AI agents.
 
-## Related
 
-- [[ai-agent-studio|AI Agent Studio]]

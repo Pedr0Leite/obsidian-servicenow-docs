@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Imports**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Imports**.
 
 2.  Select **Redaction Imports** &gt; **My Imports**
 
@@ -40,6 +40,3 @@ Role required: sn\_sec\_tisc.admin
 
 [View all Redaction Imports]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

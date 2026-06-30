@@ -14,7 +14,7 @@ breadcrumb: [Plan your installation, Integrating ServiceNow with Microsoft Teams
 
 # Install Notify connector for Microsoft Teams
 
-Install and activate the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] plugin to be able to initiate a Microsoft Teams meeting directly from a Task record or via the Major Incident Workbench.
+Install and activate the Notify connector for Microsoft Teams plugin to be able to initiate a Microsoft Teams meeting directly from a Task record or via the Major Incident Workbench.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Integrate Notify connector for Microsoft Teams in ServiceNow instance.
 
 **Parent Topic:**[Plan your installation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/plan-installation-ms-teams.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

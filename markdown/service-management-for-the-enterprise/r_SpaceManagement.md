@@ -12,7 +12,7 @@ breadcrumb: [Facilities Service Management overview, Facilities Service Manageme
 
 # Space management
 
-The concept of space is part of the [[FacilitiesLandingPage|Facilities Service Management]] application. Space provides a definition at all levels with the same unit measure, and presents metrics that are readily available for analysis. These metrics include occupancy percentage, total space available, and so on.
+The concept of space is part of the Facilities Service Management application. Space provides a definition at all levels with the same unit measure, and presents metrics that are readily available for analysis. These metrics include occupancy percentage, total space available, and so on.
 
 **Note:** This feature is no longer available for new customers.
 
@@ -61,19 +61,12 @@ You can assign spaces to more than one department for cost allocation and report
 
 The Associated Department \[fm\_m2m\_department\_to\_space\] table extends the fm\_space table, containing the relationship of departments and percentage ownership. A percentage automatically calculates after setting the weight for each department. A business rule sets the percentages based on weight so that the sum of percentages equals 100%.
 
--   **[[r_GeoJSONMapFiles|GeoJSON map files]]**  
+-   **[GeoJSON map files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_GeoJSONMapFiles.md)**  
 The floor plan visualization feature uses files in the GeoJSON format, an open standard for representing geographical features.
--   **[[r_Manually-builtMaps|Customer-created maps]]**  
+-   **[Customer-created maps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_Manually-builtMaps.md)**  
 Creating a map begins with the addition of the campus, then the buildings, floors, and other spaces.
--   **[[t_RunTransform|Run transform to update data]]**  
+-   **[Run transform to update data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_RunTransform.md)**  
 Running a transform exports information from your records into an .xls file. That data can be imported into the ServiceNow space management application.
 
-**Parent Topic:**[[c_FacilitiesServiceManagement|Facilities Service Management overview]]
+**Parent Topic:**[Facilities Service Management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_FacilitiesServiceManagement.md)
 
-## Related
-
-- [[r_GeoJSONMapFiles|GeoJSON map files]]
-- [[r_Manually-builtMaps|Customer-created maps]]
-- [[t_RunTransform|Run transform to update data]]
-- [[c_FacilitiesServiceManagement|Facilities Service Management overview]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

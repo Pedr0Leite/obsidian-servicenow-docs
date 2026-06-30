@@ -14,8 +14,5 @@ breadcrumb: [Using Interview Management, Using HR Service Delivery Employee Rela
 
 # Scheduling an interview
 
-You can use the default ServiceNow® calendar or integrate with Microsoft Exchange to schedule interviews related to [[hr-case-employee-relations|Employee Relations]] \(ER\) cases.
+You can use the default ServiceNow® calendar or integrate with Microsoft Exchange to schedule interviews related to Employee Relations \(ER\) cases.
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

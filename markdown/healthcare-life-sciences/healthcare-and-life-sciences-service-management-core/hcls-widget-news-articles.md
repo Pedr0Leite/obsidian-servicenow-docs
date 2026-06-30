@@ -21,7 +21,7 @@ The News and Articles widget displays a list of articles that are accessible to 
 ## Key features
 
 -   Displayed for both logged-in and non-logged-in users.
--   By default, shows maximum of four articles from the [[hcls-overview|Healthcare and Life Sciences]] knowledge base.
+-   By default, shows maximum of four articles from the Healthcare and Life Sciences knowledge base.
 
 \[Omitted image "hcls-widget-io-news-articles.png"\] Alt text: Screenshot displaying theNews and Articles widget instance options. For the text description, refer to the News and Articles widget instance options fields section.
 
@@ -68,6 +68,3 @@ Maximum number of articles that appear on the widget. The default value is **3**
 </td></tr></tbody>
 </table>**Parent Topic:**[Patient Portal widget library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-pat-widget-library.md)
 
-## Related
-
-- [[hcls-overview|Healthcare and Life Sciences]]

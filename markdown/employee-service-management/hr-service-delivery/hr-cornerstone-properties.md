@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Cornerstone OnDeman
 
 # Source for HR Service Delivery Integration with Cornerstone OnDemand
 
-Once you set up the [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]] application, the source record for Cornerstone On Demand application is automatically created in [[hr-integrations-framework|Enterprise Service Management Integrations Framework]], Source module. The Cornerstone OnDemand source record in the in Enterprise Service Management Integrations Framework application contains a predefined set of properties and HR Integration Services.
+Once you set up the HR Service Delivery Integration with Cornerstone OnDemand application, the source record for Cornerstone On Demand application is automatically created in Enterprise Service Management Integrations Framework, Source module. The Cornerstone OnDemand source record in the in Enterprise Service Management Integrations Framework application contains a predefined set of properties and HR Integration Services.
 
 <table id="table_tyz_xpj_1nb"><thead><tr><th>
 
@@ -50,7 +50,7 @@ url-prefix
 
 </td><td>
 
-Deep link prefix to pull [[exploring-learning-exp|learning]] objects from the Cornerstone OnDemand system during run time. For more information, see [Use deep link for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/generate-deep-link-cor.md).
+Deep link prefix to pull learning objects from the Cornerstone OnDemand system during run time. For more information, see [Use deep link for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/generate-deep-link-cor.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Reference for HR Service Delivery Integration with Cornerstone OnDemand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/reference-ondemand.md)
@@ -58,7 +58,7 @@ Deep link prefix to pull [[exploring-learning-exp|learning]] objects from the Co
 **Related topics**  
 
 
-[Components installed with [[hr-service-delivery|HR Service Delivery]] Integration with Cornerstone OnDemand]()
+[Components installed with HR Service Delivery Integration with Cornerstone OnDemand]()
 
 [HR Integration Services for HR Service Delivery Integration with Cornerstone OnDemand]()
 
@@ -70,9 +70,3 @@ Deep link prefix to pull [[exploring-learning-exp|learning]] objects from the Co
 
 [Transform maps for HR Service Delivery Integration with Cornerstone OnDemand]()
 
-## Related
-
-- [[hr-cornerstone-int|HR Service Delivery Integration with Cornerstone OnDemand]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]
-- [[exploring-learning-exp|Learning]]
-- [[hr-service-delivery|HR Service Delivery]]

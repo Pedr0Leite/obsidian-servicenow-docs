@@ -14,7 +14,7 @@ breadcrumb: [Zing text indexing and search engine, Search administration, Config
 
 # Zing filters search results with access controls
 
-Zing filters search [[hs-results|results]] to only display records the user can access.
+Zing filters search results to only display records the user can access.
 
 For example, suppose you index the System Property \[sys\_properties\] table. When the ITIL user searches for a term in the System Property table, Zing returns no search results because the ITIL user doesn't meet the ACL rule requirements.
 
@@ -43,18 +43,13 @@ When a system administrator searches for the same property, Zing returns search 
 
 [Zing can include attachments in search results]()
 
-[Zing removes [[stop-words-ais|stop words]] from queries]()
+[Zing removes stop words from queries]()
 
 [Zing matches derived words with stemming]()
 
 [Zing can expand search results with synonyms]()
 
-[Zing displays [[search-suggestions-overview|search suggestions]] as users enter search terms]()
+[Zing displays search suggestions as users enter search terms]()
 
 [Installed with Zing]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[stop-words-ais|Stop words]]
-- [[search-suggestions-overview|Search Suggestions]]

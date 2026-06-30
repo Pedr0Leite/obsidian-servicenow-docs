@@ -21,12 +21,12 @@ You can request parts from a peer's stockroom or warehouse. If you request parts
 You can request inventory in two ways:
 
 -   **Create part requirement**: Select and request a single part with or without the context of work order task.
--   **Create part request**: Select and request multiple parts from a single or multiple stockrooms directly or based out of existing [[c_PartRequirements|part requirements]].
+-   **Create part request**: Select and request multiple parts from a single or multiple stockrooms directly or based out of existing part requirements.
 
 **Related topics**  
 
 
-[[view-available-parts-inventory|Track inventory]]
+[Track inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/view-available-parts-inventory.md)
 
 [Accept or reject part requests from peer agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/accept-reject-part-request-mobile.md)
 
@@ -34,7 +34,7 @@ You can request inventory in two ways:
 
 ## Request a single part
 
-[[t_CreateAPartRequirement|Create a part requirement]] to receive parts when you find defective parts in your stockroom or your stock has run out.
+Create a part requirement to receive parts when you find defective parts in your stockroom or your stock has run out.
 
 ### Before you begin
 
@@ -48,7 +48,7 @@ You can create a part requirement with or without the context of a work order ta
 
 1.  Open the ServiceNow Agent application.
 
-2.  Request and [[c_SourceParts|source parts]].
+2.  Request and source parts.
 
 <table id="choicetable_z2w_ytf_ytb"><thead><tr><th align="left" id="d68996e151">
 
@@ -153,7 +153,7 @@ Request and source multiple parts simultaneously from a single or multiple stock
 
 ### Before you begin
 
-The Field Service Advanced Parts Sourcing \[com.snc.fsm\_advanced\_parts\_sourcing\] plugin must be activated. For more information on the steps to activate a plugin, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+The Field Service Advanced Parts Sourcing \[com.snc.fsm\_advanced\_parts\_sourcing\] plugin must be activated. For more information on the steps to activate a plugin, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 Role required: wm\_agent
 
@@ -163,7 +163,7 @@ You can create part requests from **My work** and **Inventory** screens with the
 
 **Note:**
 
--   The parts are searched for in the stockrooms based on the defined values in the Part Search Criteria property. For more information, see [[advanced-part-souring-components|Advanced Part Sourcing components]].
+-   The parts are searched for in the stockrooms based on the defined values in the Part Search Criteria property. For more information, see [Advanced Part Sourcing components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/advanced-part-souring-components.md).
 -   Your current location is considered as the source location and searches for stockrooms in the radius as mentioned in the **Maximum part search radius** and **Distance Unit** of your profile.
 
 ### Procedure
@@ -313,11 +313,3 @@ Do this
 -   A temporary part request \(RITM\) record is created for the requested parts and sent to your agents as a mobile notification. If the property is disabled or you have requested parts from warehouse, the transfer orders are generated automatically in the Draft state.
 -   If you have requested parts for a specific work order task, the Part Requests and Transfer Orders related lists are updated in the work order task form.
 
-## Related
-
-- [[view-available-parts-inventory|Track inventory]]
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[advanced-part-souring-components|Advanced Part Sourcing components]]
-- [[c_PartRequirements|Part requirements]]
-- [[t_CreateAPartRequirement|Create a part requirement]]
-- [[c_SourceParts|Source parts]]

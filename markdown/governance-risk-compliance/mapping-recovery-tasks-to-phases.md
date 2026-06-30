@@ -16,7 +16,7 @@ Starting with BCM, version 9.x.x, BCM administrators set up active phases for pl
 
 ## Implementing phases in recovery
 
-Organizing recovery and event tasks into logical phases provides a structure and context to the recovery activities. The logical grouping of phases helps you to understand the progression of plans, [[exercise-management-uib|exercises]], and [[crisis-management-uib|crisis events]], maintain flexibility in execution, and navigate complex recovery processes effectively.
+Organizing recovery and event tasks into logical phases provides a structure and context to the recovery activities. The logical grouping of phases helps you to understand the progression of plans, exercises, and crisis events, maintain flexibility in execution, and navigate complex recovery processes effectively.
 
 Phases act as indicators of the current status of plans, exercises, or crisis events, and they provide clarity while reviewing the recovery and event tasks. You can tag the recovery tasks and event tasks to an appropriate phase such as Preparation, Recovery, Post incident review, and so on as part of the recovery process. This mapping ensures structured and efficient handling of recovery tasks and event tasks.
 
@@ -37,7 +37,7 @@ BCM administrators have the flexibility to configure these phases to meet their 
 
 -   **Phase column**
 
-    Recovery and event tasks now include the Phase column in both list and form views, indicating association with specific phases within the recovery process. By default, the phase [[list-view-uib-ws|list view]] only displays active phases, streamlining the user experience.
+    Recovery and event tasks now include the Phase column in both list and form views, indicating association with specific phases within the recovery process. By default, the phase list view only displays active phases, streamlining the user experience.
 
 
 ## Benefit of mapping phases to plans or events
@@ -46,7 +46,7 @@ By setting up active phases in the BCM application and mapping them to relevant 
 
 ## Phases for task classification
 
-BCM Administrators can configure phases using the Active Phases module, which is accessible through the **General [[Administration|administration]]** menu in the Core UI. For more information on setting up the phases, see [[set-up-phases|Set up the phases]].
+BCM Administrators can configure phases using the Active Phases module, which is accessible through the **General administration** menu in the Core UI. For more information on setting up the phases, see [Set up the phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-phases.md).
 
 ## Execution of the phases
 
@@ -81,19 +81,9 @@ These changes enhance the overall functionality and security of the BCM system, 
 
 For information on setting up the phases, see [Set up the phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-phases.md).
 
-For information and steps on mapping recovery tasks to phases, see [[add-a-recovery-task|Add recovery tasks]].
+For information and steps on mapping recovery tasks to phases, see [Add recovery tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/add-a-recovery-task.md).
 
-For information on mapping event tasks to phases, see [[mapping-event-tasks-to-phases|Mapping event tasks to phases]].
+For information on mapping event tasks to phases, see [Mapping event tasks to phases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/mapping-event-tasks-to-phases.md).
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[set-up-phases|Set up the phases]]
-- [[add-a-recovery-task|Add recovery tasks]]
-- [[mapping-event-tasks-to-phases|Mapping event tasks to phases]]
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[exercise-management-uib|Exercises]]
-- [[crisis-management-uib|Crisis events]]
-- [[list-view-uib-ws|List view]]
-- [[Administration|Administration]]

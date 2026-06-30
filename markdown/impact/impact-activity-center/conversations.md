@@ -14,7 +14,7 @@ breadcrumb: [Activity Center, Impact reference, Impact]
 
 # Activity Center Conversations
 
-Scan all conversations you are included in. [[start-conversation-store|Start a conversation]] any time to ask a question or get advice from your [[impact-squad|Impact squad]].
+Scan all conversations you are included in. Start a conversation any time to ask a question or get advice from your Impact squad.
 
 Conversations is customizable by either the Kanban view or a List View. Several filter options are also available:
 
@@ -29,12 +29,7 @@ Conversations is customizable by either the Kanban view or a List View. Several 
 -   View the state by Open or Closed
 
 -   **[Create and manage conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/create-manage-conversations.md)**  
-Create new [[impact-conversations_store|Impact conversations]] or manage existing conversations.
+Create new Impact conversations or manage existing conversations.
 
 **Parent Topic:**[Activity Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-activity-center/impact-activity-center.md)
 
-## Related
-
-- [[start-conversation-store|Start a conversation]]
-- [[impact-squad|Impact Squad]]
-- [[impact-conversations_store|Impact Conversations]]

@@ -15,15 +15,15 @@ breadcrumb: [Explore, Now Assist in Document Intelligence, Enable AI experiences
 
 # Use cases in Now Assist in Document Intelligence
 
-In [[docintel-nowassist-landing|Now Assist in Document Intelligence]], a use case is used to define the information you want generative AI to detect from a document.
+In Now Assist in Document Intelligence, a use case is used to define the information you want generative AI to detect from a document.
 
 ## Use cases for Now Assist in Document Intelligence skills
 
-Now Assist in Document Intelligence supports use [[cases|cases]] for the following skills:
+Now Assist in Document Intelligence supports use cases for the following skills:
 
 -   **Extract information from documents**
 
-    In an extract information use case, define the information you want [[platform-now-assist-landing|Now Assist]] to extract from a document in the form of fields, tables, and questions.
+    In an extract information use case, define the information you want Now Assist to extract from a document in the form of fields, tables, and questions.
 
     You can define a specific field to extract, a table structure with multiple columns, or a question you want generative AI to answer based on the text in a document.
 
@@ -38,7 +38,7 @@ Now Assist in Document Intelligence uses fields to identify the specific informa
 
 ## Use case setup
 
-Use the Now Assist Features interface to set up use cases for Now Assist in Document Intelligence skills. Use cases for the [[document-intelligence-landing|Document Intelligence]] application have a separate setup process. For more information, see [Configuring Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/doc-intel-administration.md).
+Use the Now Assist Features interface to set up use cases for Now Assist in Document Intelligence skills. Use cases for the Document Intelligence application have a separate setup process. For more information, see [Configuring Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/doc-intel-administration.md).
 
 Use case setup involves defining the use case name and details, defining the fields, tables, and questions, setting up integrations and flows, and testing the use case.
 
@@ -48,9 +48,3 @@ For more information, see [Set up a use case for Now Assist in Document Intellig
 
 Once you completed the setup of a use case, agents can begin processing documents for it.
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

@@ -14,7 +14,7 @@ breadcrumb: [Life-cycle management, Explore, Digital Portfolio Management, IT Se
 
 # View service and service offering details
 
-View information about services and service offerings that may impact your solutions. Each [[dpm-landing|Digital Portfolio Management]] \(DPM\) page presents the life-cycle phase information in tabs — Plan, Build, Run, and Info.
+View information about services and service offerings that may impact your solutions. Each Digital Portfolio Management \(DPM\) page presents the life-cycle phase information in tabs — Plan, Build, Run, and Info.
 
 ## Status of services and service offerings
 
@@ -22,7 +22,7 @@ When viewing the service and service offering details in DPM, the **Phase** and 
 
 When viewing details of a service or service offering that's retired, an alert banner along the top of the workspace view states that it's retired. In the list view, the Phase is listed as **Retired**, the life-cycle stage is **End of Life**, and the life-cycle stage status is **Retired**.
 
-**Important:** If your organization transitioned from the traditional [[SPM2-landing-page|Service Portfolio Management]] fields to the CSDM life-cycle fields, then the field names differ from this document. For more information, see [Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-csdm.md).
+**Important:** If your organization transitioned from the traditional Service Portfolio Management fields to the CSDM life-cycle fields, then the field names differ from this document. For more information, see [Apply the CSDM guidelines to Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-csdm.md).
 
 **Important:** For the Australia release and later, the labels for the items in the \[cmdb\_ci\_service\_technical\] table and \[service\_offering\] table are Technology Management Service and Technology Management Service Offering, respectively. Prior to the Australia release, the labels are technology management service and technology management service Offering.
 
@@ -152,7 +152,7 @@ Project information related to the service or service offering.
 
  **Active improvement initiatives**
 
- The total number of active improvement initiatives on the service or service offering. The number of active improvement initiatives is in the gray box. You can select an active improvement initiative for its details, including its [[cim-landing-page|Continual Improvement Management]] \(CIM\) phase, CIM tasks, impacted key performance indicators \(KPIs\), and approvers.
+ The total number of active improvement initiatives on the service or service offering. The number of active improvement initiatives is in the gray box. You can select an active improvement initiative for its details, including its Continual Improvement Management \(CIM\) phase, CIM tasks, impacted key performance indicators \(KPIs\), and approvers.
 
 </td></tr></tbody>
 </table>## Run tab
@@ -258,7 +258,7 @@ General information about the service or the service offering.
 
 </td></tr><tr><td>
 
-**[[dpm-personal-portfolio|Personal portfolios]]**
+**Personal portfolios**
 
 </td><td>
 
@@ -317,7 +317,7 @@ The offerings for the service. The number of service offerings is in a gray box.
 
 </td></tr><tr><td>
 
-**Service [[c_Contracts|Contracts]]** \(for services\) or **Contracts** \(for service offerings\)
+**Service Contracts** \(for services\) or **Contracts** \(for service offerings\)
 
 </td><td>
 
@@ -339,10 +339,3 @@ The Needs attention panel includes the following icons for services and service 
 
 [Work with Needs attention panels in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-needs-attn-panels.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[SPM2-landing-page|Service Portfolio Management]]
-- [[cim-landing-page|Continual Improvement Management]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[c_Contracts|Contracts]]

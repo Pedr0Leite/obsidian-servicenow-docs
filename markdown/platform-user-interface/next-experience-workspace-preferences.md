@@ -31,9 +31,7 @@ Role required: none
     |-----|-----------|
     |\[Omitted image "pol-pref-workspace-ribbon.png"\] Alt text: Show the ribbon.|Shows the ribbon widget by default when the form loads.|
     |\[Omitted image "pol-pref-workspace-sidebar.png"\] Alt text: Show the sidebar.|Shows the contextual side panel by default when the form loads.|
-    |\[Omitted image "pol-pref-workspace-activity-stream.png"\] Alt text: Expand [[activity-stream-configurable-workspace|activity stream]] items by default.|Expands all activities in the activity stream automatically.|
+    |\[Omitted image "pol-pref-workspace-activity-stream.png"\] Alt text: Expand activity stream items by default.|Expands all activities in the activity stream automatically.|
     |\[Omitted image "pol-pref-workspace-lazy.png"\] Alt text: Lazy load workspace pages.|Loads all content on a page dynamically, as needed. Disable this preference to load all content immediately.|
 
-## Related
 
-- [[activity-stream-configurable-workspace|Activity stream]]

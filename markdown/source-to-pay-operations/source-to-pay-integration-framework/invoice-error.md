@@ -15,16 +15,12 @@ breadcrumb: [Outbound staging tables for Accounts Payable Operations, Outbound s
 
 # Invoice error staging table
 
-Field descriptions and data types for the Invoice error \[sn\_spend\_intg\_import\_error\] staging table used to capture [[invoice-integration|invoice integration]] error data before transfer to the primary table.
+Field descriptions and data types for the Invoice error \[sn\_spend\_intg\_import\_error\] staging table used to capture invoice integration error data before transfer to the primary table.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
-|Supplier invoice number|String|Unique invoice number created by the [[supplier|supplier]].|
+|Supplier invoice number|String|Unique invoice number created by the supplier.|
 |Supplier invoice line number|String|Unique identifier for each line item on a supplier invoice.|
 |Sales order number|String|Unique identifier for a customer's purchase.|
 |Sales order line number|String|Unique identifier for each item on a sales order.|
 
-## Related
-
-- [[invoice-integration|Invoice integration]]
-- [[supplier|Supplier]]

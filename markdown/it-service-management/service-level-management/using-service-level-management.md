@@ -21,17 +21,13 @@ SLAs are calculated and assessed by a business rule and scheduled jobs that run 
 -   **[Repair Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_RepairSLAs.md)**  
 SLA Administrators can repair SLA records to ensure SLA timing and duration information is accurate.
 -   **[View SLA timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_ViewSLATimeline.md)**  
-View an [[c_SLATimeline|SLA timeline]] to review its details and its progress over time.
+View an SLA timeline to review its details and its progress over time.
 -   **[Add custom business rules to Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/t_AddCustomBusinessRulesToSLAs.md)**  
 You can add custom business rules to your SLAs.
 -   **[Add custom business rules to Service Level Agreement \(SLA\) considerations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/r_AddCustomBusRuleToSLACons.md)**  
-Prior to adding custom business rules to the [[r_TaskSLATable|task SLA table]], you must consider a few points regarding the processing and calculation of the task SLA based on your organization’s needs.
+Prior to adding custom business rules to the task SLA table, you must consider a few points regarding the processing and calculation of the task SLA based on your organization’s needs.
 -   **[Monitoring Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLAForTheEndUser.md)**  
 You can view the details for every task SLA record created for a task.
 
 **Parent Topic:**[Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-mgmt-landing-page.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]
-- [[r_TaskSLATable|Task SLA table]]

@@ -12,7 +12,7 @@ breadcrumb: [Order Operations Case Management, Case management, Organize agent w
 
 # Components installed with Order Operations Case Management
 
-Several types of components are installed with the [[csm-case-mgmt-order-ops|Order Operations Case Management]] application, including tables, roles, and service definitions.
+Several types of components are installed with the Order Operations Case Management application, including tables, roles, and service definitions.
 
 ## Tables
 
@@ -28,7 +28,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[order-case-form|Order Case]]\[sn\_order\_case\]
+[Order Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/order-case-form.md)\[sn\_order\_case\]
 
 </td><td>
 
@@ -36,7 +36,7 @@ Stores order case records. This table extends the Case \[sn\_customerservice\_ca
 
 </td></tr><tr><td>
 
-[[order-case-line-form|Order Case Line]]\[sn\_order\_case\_line\]
+[Order Case Line](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/order-case-line-form.md)\[sn\_order\_case\_line\]
 
 </td><td>
 
@@ -45,7 +45,7 @@ Stores the case line items created for order cases. This table extends the Case 
 Records in the Order Case Line table use the prefix **ORDCSL**.
 
 </td></tr></tbody>
-</table>The Order Operations Case Management application also uses the following tables from the [[csm-case-mgmt-case-lines|Case lines and workflows]] application.
+</table>The Order Operations Case Management application also uses the following tables from the [Case lines and workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-mgmt-case-lines.md) application.
 
 <table id="table_jcd_55l_fdc"><thead><tr><th>
 
@@ -69,7 +69,7 @@ Case Line Characteristic\[sn\_case\_line\_characteristic\]
 
 </td><td>
 
-The [[case-line-characteristics-form|Case Line Characteristic form]] displays details about a case line item on a case record.The prefix for case line characteristic records is **CSLC**.
+The Case Line Characteristic form displays details about a case line item on a case record.The prefix for case line characteristic records is **CSLC**.
 
 </td></tr><tr><td>
 
@@ -295,7 +295,7 @@ This role provides access to case tasks and related case information.For the Ord
 -   Order case line item
 -   Case line characteristic
 
-When a case line task is assigned to a case task agent, the agent's name and assignment group are added to the **[[customer-service-contributor-users|Contributor Users]]** and **Contributor Groups** fields on the Order case record. If the **Assigned to** field on the case line task record changes, these fields are updated.
+When a case line task is assigned to a case task agent, the agent's name and assignment group are added to the **Contributor Users** and **Contributor Groups** fields on the Order case record. If the **Assigned to** field on the case line task record changes, these fields are updated.
 
 </td><td>
 
@@ -306,13 +306,13 @@ When a case line task is assigned to a case task agent, the agent's name and ass
 </td></tr></tbody>
 </table>## Service definitions and service definition categories
 
-The Order Operations Case Management application provides the following order case service definitions. These service definitions belong to the Orders service definition category, which stores services for order-related issues. When creating a case, agents can select the desired service definition in the [[csm-case-type-select-modals|case type selector]].
+The Order Operations Case Management application provides the following order case service definitions. These service definitions belong to the Orders service definition category, which stores services for order-related issues. When creating a case, agents can select the desired service definition in the [case type selector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-case-type-select-modals.md).
 
 **Note:** The system administrator needs to activate these service definitions. Navigate to **All** &gt; **Customer Service** &gt; **Administration** &gt; **Service Definitions** and filter the list to show service definitions from the Order Case \[sn\_order\_case\] table.
 
 For more information about service definitions and categories, see the following topics:
 
--   [[csm-service-definitions|Service definitions]]
+-   [Service definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 -   [Service definition categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-service-definitions.md)
 
 <table id="table_xwk_wkw_tcc"><thead><tr><th>
@@ -364,11 +364,11 @@ This configuration includes a condition that creates special handling notes for 
 -   **Short description**: Urgent issue reported.
 -   **Message**: This case is set as critical. Follow up immediately.
 
-For more information, see [[c_OnScreenAlerts|Special handling notes]].
+For more information, see [Special handling notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_OnScreenAlerts.md).
 
 ## Order case archive rules
 
-The Order Operations Case Management application includes archive [[gamification-components-rules|rules]] that archive older order cases.
+The Order Operations Case Management application includes archive rules that archive older order cases.
 
 <table id="table_bmp_vgp_2dc"><thead><tr><th>
 
@@ -436,15 +436,3 @@ Subflows:
 
 To view these subflows, navigate to **All** &gt; **Process Automation** &gt; **Workflow Studio** and select **Subflows** on the Workflow Studio homepage.
 
-## Related
-
-- [[order-case-form|Order case form]]
-- [[order-case-line-form|Order case line item form]]
-- [[csm-case-mgmt-case-lines|Case Lines and Workflows]]
-- [[csm-case-type-select-modals|Case type selector]]
-- [[csm-service-definitions|Service definitions]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[csm-case-mgmt-order-ops|Order Operations Case Management]]
-- [[case-line-characteristics-form|Case line characteristic form]]
-- [[customer-service-contributor-users|Contributor users]]
-- [[gamification-components-rules|Rules]]

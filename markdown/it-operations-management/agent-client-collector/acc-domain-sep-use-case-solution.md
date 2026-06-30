@@ -22,7 +22,7 @@ The financial institution must comply with regulations that require strict data 
 
 ## Solution
 
-1.  Create separate domains for each department \(IT, Finance, HR, Compliance, and so forth\) in the [[acc-landing-page|Agent Client Collector]] \(ACC\) configuration.
+1.  Create separate domains for each department \(IT, Finance, HR, Compliance, and so forth\) in the Agent Client Collector \(ACC\) configuration.
 2.  Apply access controls so that sensitive data \(such as employee records and financial transactions\) is accessible only to authorized departments.
 3.  Use ACC health instance scans to ensure that data separation is maintained, especially when updating or troubleshooting systems.
 4.  Periodically audit domain separation settings to ensure compliance with data privacy regulations such as GDPR, SOX, or PCI-DSS.
@@ -31,6 +31,3 @@ The financial institution must comply with regulations that require strict data 
 
 Compliance with legal and regulatory requirements is ensured, and sensitive data is protected from unauthorized access.
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

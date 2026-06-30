@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, or admi
 
 ## About this task
 
-After a work order is created, it appears in the **Work Orders** related list on the [[r_CustomerServiceCaseForm|Case form]]. The case number is also referenced on the work order.
+After a work order is created, it appears in the **Work Orders** related list on the Case form. The case number is also referenced on the work order.
 
 ## Procedure
 
@@ -40,6 +40,3 @@ After a work order is created, it appears in the **Work Orders** related list on
 
 [Manage work orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/c_ManageWorkOrders.md)
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

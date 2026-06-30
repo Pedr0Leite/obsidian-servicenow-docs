@@ -12,7 +12,7 @@ breadcrumb: [ServiceNow Security Operations integration development guidelines, 
 
 # Types of ServiceNow integrations provided
 
-The [[security-operations-landing-page|Security Operations]] applications \([[sir-landing-page|Security Incident Response]], [[threat-intel-landing-page|Threat Intelligence]], and [[vuln-landing-page|Vulnerability Response]]\) can be seamlessly integrated with other ServiceNow applications to enhance their functionality.
+The Security Operations applications \(Security Incident Response, Threat Intelligence, and Vulnerability Response\) can be seamlessly integrated with other ServiceNow applications to enhance their functionality.
 
 The following integrations are provided in the Security Operations base system.
 
@@ -22,12 +22,12 @@ The capabilities of the Event Management application have been expanded to suppo
 
 Use case covered:
 
-Creation of security events in the Event Management system from Security Information and Event Management \(SIEM\) [[tools|tools]]
+Creation of security events in the Event Management system from Security Information and Event Management \(SIEM\) tools
 
 Useful capabilities provided:
 
 -   Event management functionality – event correlation, event rules, and alert rules
--   Automatic [[mapping-logrhythm|mapping]] of additional\_information values to resulting security incident
+-   Automatic mapping of additional\_information values to resulting security incident
 
 Resources:
 
@@ -47,7 +47,7 @@ Creation of security incidents directly from SIEM tools.
 
 Useful capabilities provided:
 
-Automatic CI matching on [[si-creation|Security Incident creation]] based on IP, NetBIOS, or fully qualified domain name.
+Automatic CI matching on Security Incident creation based on IP, NetBIOS, or fully qualified domain name.
 
 Resources:
 
@@ -67,7 +67,7 @@ Useful capabilities provided:
 
 -   Consistent way to request lookups from catalog items and security incidents.
 -   Rate limiting and throttling capabilities provided with little/no coding.
--   Automatic creation of [[c_IoCs|Indicators of Compromise]] \(IoC\) observable entries for any issues found by lookup sources.
+-   Automatic creation of Indicators of Compromise \(IoC\) observable entries for any issues found by lookup sources.
 
 ## Threat Intelligence - threat source integration
 
@@ -82,12 +82,12 @@ Useful capabilities provided:
 -   Support for simple blocklists and TAXII collections with no coding.
 -   Simple mechanism for executing REST messages for retrieving data.
 -   Decoupled data retrieval/processing for integration component reusability.
--   Native support for processing passing data returned to [[data-sources|data sources]] \(and import sets/transform maps\).
+-   Native support for processing passing data returned to data sources \(and import sets/transform maps\).
 -   Supports multiple data requests per integration \(for paginated calls\) with the ability to pass context to subsequent calls
 
 Resources:
 
-[[c_GetStartedWithThreatIntel|Define a threat source]]
+[Define a threat source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_GetStartedWithThreatIntel.md)
 
 ## Vulnerability Response - scanner invocation integration
 
@@ -105,7 +105,7 @@ Useful capabilities provided:
 
 ## Vulnerability Response - data integration
 
-Vulnerability data integrations are intended to retrieve vulnerability data from third-party vulnerability systems. The expected outputs from these integrations are vulnerability entries and vulnerable items. This integration allows third-party vulnerability scanners to function independently, with the expectation that [[vulnerabilities|vulnerabilities]] can be worked and tracked within the instance.
+Vulnerability data integrations are intended to retrieve vulnerability data from third-party vulnerability systems. The expected outputs from these integrations are vulnerability entries and vulnerable items. This integration allows third-party vulnerability scanners to function independently, with the expectation that vulnerabilities can be worked and tracked within the instance.
 
 Use cases covered:
 
@@ -123,7 +123,7 @@ Resources:
 
 [Vulnerability data integration documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/c_VulnerabilityIntegrations.md)
 
-**Parent Topic:**[[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
+**Parent Topic:**[ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
 
 **Related topics**  
 
@@ -134,17 +134,3 @@ Resources:
 
 [Integration troubleshooting]()
 
-## Related
-
-- [[c_GetStartedWithThreatIntel|Set up Threat Intelligence]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[tools|Tools]]
-- [[mapping-logrhythm|Mapping]]
-- [[si-creation|Security incident creation]]
-- [[c_IoCs|Indicators of compromise]]
-- [[data-sources|Data Sources]]
-- [[vulnerabilities|Vulnerabilities]]

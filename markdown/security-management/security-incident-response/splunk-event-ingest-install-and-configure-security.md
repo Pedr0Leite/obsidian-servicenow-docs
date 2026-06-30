@@ -14,7 +14,7 @@ breadcrumb: [Splunk Enterprise Security event ingestion integration, Security In
 
 # Install and configure Splunk Enterprise Security Notable Event Ingestion integration
 
-Install and configure Splunk Enterprise Security Notable Event Ingestion integration for [[security-operations-landing-page|Security Operations]] application from the ServiceNow Store on your ServiceNow AI Platform® instance.
+Install and configure Splunk Enterprise Security Notable Event Ingestion integration for Security Operations application from the ServiceNow Store on your ServiceNow AI Platform® instance.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Assign a Security Analyst \(ess\_analyst\) user role in Splunk ES to perform all
 
 ## Procedure
 
-1.  If you have not installed the Splunk Enterprise Security Event Ingestion application from the ServiceNow Store for the integration, see [[install-non-core-apps|Install a Security Operations integration]] and follow the steps to install it.
+1.  If you have not installed the Splunk Enterprise Security Event Ingestion application from the ServiceNow Store for the integration, see [Install a Security Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/install-non-core-apps.md) and follow the steps to install it.
 
 2.  After you have successfully installed the application, navigate to **All** &gt; **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
@@ -136,7 +136,3 @@ If you want to change the MID Server, then you have to reconfigure it from the A
 
 [Create and name an event profile for the Splunk Enterprise Security event ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-create-profile-security.md)
 
-## Related
-
-- [[install-non-core-apps|Install a Security Operations integration]]
-- [[security-operations-landing-page|Security Operations]]

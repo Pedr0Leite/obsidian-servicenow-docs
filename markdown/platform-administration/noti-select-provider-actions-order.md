@@ -12,7 +12,7 @@ breadcrumb: [Create, Provider notifications, Notifications, Configure core featu
 
 # Add actions to the notification content
 
-Use the Link Actions to Content related list to add actions to the notification content, selection of the [[notification-provider|provider notification]] and ordering of actions of an actionable content.
+Use the Link Actions to Content related list to add actions to the notification content, selection of the provider notification and ordering of actions of an actionable content.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Notification** &gt; **Provider** &gt; **[[notifications|Notifications]]**.
+1.  Navigate to **All** &gt; **System Notification** &gt; **Provider** &gt; **Notifications**.
 
 2.  Select **New** to create a notification, or select an existing notification.
 
@@ -108,10 +108,5 @@ Option to link actions from event parm2. Actions must be sys\_ids from the **sys
 </table>6.  Select **Submit**.
 
 
-**Parent Topic:**[[create-provider-notification-using|Create provider notification]]
+**Parent Topic:**[Create provider notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-provider-notification-using.md)
 
-## Related
-
-- [[create-provider-notification-using|Create provider notification]]
-- [[notification-provider|Provider notification]]
-- [[notifications|Notifications]]

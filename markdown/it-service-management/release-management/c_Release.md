@@ -14,11 +14,11 @@ breadcrumb: [Release Management, IT Service Management]
 
 # Using Release Management v2
 
-The [[c_ITILReleaseManagement|Release Management]] v2 plugin \(com.snc.release\_management\_v2\) provides release tables which store information about the planned release and tasks that are required to execute the release.
+The Release Management v2 plugin \(com.snc.release\_management\_v2\) provides release tables which store information about the planned release and tasks that are required to execute the release.
 
 ## Product
 
-Use a Product record in Release Management to store information about a product for [[reference-for-itsm-mobile-agent|reference]] purposes and groups all the releases and work artifacts for the product.
+Use a Product record in Release Management to store information about a product for reference purposes and groups all the releases and work artifacts for the product.
 
 You can use the **Configuration Items** reference field to link the product with a corresponding CI in the CMDB. Each CI keeps information about how it relates to other CIs, and can track any incidents, problems, or changes related to it. Specifying a CI for the Product connects information from the release process to other processes in the instance.
 
@@ -46,7 +46,7 @@ For example, a minor release might only have a few problems and enhancements whe
 
 **Important:** Starting with the New York release, scoping a release using SDLC or Scrum \(Agile Development 1.0 \(com.snc.sdlc.scrum.pp\)\) is not available.
 
-While scoping the release, you can use the Release Hierarchy related list on the [[create-release-form|Release Form]] to view the release as a hierarchy.
+While scoping the release, you can use the Release Hierarchy related list on the Release Form to view the release as a hierarchy.
 
 -   **[Product hierarchy in Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ProductHierarchy.md)**  
 A release can be an enterprise release, in which it is associated to all products or services or to more than one product. In either case, defining a product is not required.
@@ -61,8 +61,3 @@ Add projects, epics, stories, enhancements, and defects to define the scope of a
 
 **Parent Topic:**[Release Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/release-management/c_ITILReleaseManagement.md)
 
-## Related
-
-- [[c_ITILReleaseManagement|Release Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[create-release-form|Release form]]

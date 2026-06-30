@@ -15,12 +15,12 @@ Use Access Observer to understand people and processes access data on your insta
 
 With Access Observer security administrators can:
 
--   Understand which entities like [[users|users]], roles, scoped apps, and scripts that access your data.
+-   Understand which entities like users, roles, scoped apps, and scripts that access your data.
 -   Use this foreknowledge to know how best to apply security to limit unnecessary access to your data, while confirming those requiring access and still operate normally.
 -   Avoid broken automation by seeing a clear view of how your data is accessed before making security changes.
--   Address the need to provide information regarding how [[encryption-landing|encryption]] is applied on your instance.
+-   Address the need to provide information regarding how encryption is applied on your instance.
 
-Configure Access Observer by creating Access Observer [[sc-configuration|configuration]] records. Within these records, you define a specific table and column to be observed and the time in which the column is observed.
+Configure Access Observer by creating Access Observer configuration records. Within these records, you define a specific table and column to be observed and the time in which the column is observed.
 
 \[Omitted image "data-obs-1.png"\] Alt text: Access Observer configuration record
 
@@ -28,15 +28,8 @@ Find the results of your observations on the Access Observer log record table. O
 
 \[Omitted image "data-obs-2.png"\] Alt text: Access Observer log records showing details of an observation
 
--   **[[config-access-observation|Configure access observation]]**  
+-   **[Configure access observation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/config-access-observation.md)**  
 Create an access observation record to review access to a data column during a specified time window.
--   **[[review-access-obs-logs|Review Access Observer logs]]**  
+-   **[Review Access Observer logs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/review-access-obs-logs.md)**  
 Use information in the Access Observer log records for insights on how your data is accessed.
 
-## Related
-
-- [[config-access-observation|Configure access observation]]
-- [[review-access-obs-logs|Review Access Observer logs]]
-- [[users|Users]]
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]

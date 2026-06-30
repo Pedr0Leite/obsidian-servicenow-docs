@@ -14,20 +14,20 @@ breadcrumb: [Database Encryption, Encryption]
 
 # Exploring Database Encryption
 
-ServiceNow® offers [[db-full-disk-encryption|database encryption]] \(DBE\) and full-disk [[encryption-landing|encryption]] methods for customers with statutory obligations for [[naai-data-protection|data protection]] which may require at-rest protection for all data.
+ServiceNow® offers database encryption \(DBE\) and full-disk encryption methods for customers with statutory obligations for data protection which may require at-rest protection for all data.
 
 **Important:** Starting with the Washington DC release, Database Encryption is being prepared for future deprecation. Cloud Encryption is the replacement solution for data at rest encryption. For details, see [Cloud Encryption with Key Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-overview.md)
 
 Database Encryption enables all data to be protected with symmetric AES-256 encryption, whether the database is online or offline. From the ServiceNow AI Platform perspective, all data flows in decrypted.
 
 -   Database Encryption supports all stored data to be encrypted in real time providing protection for data online and offline with no loss of functionality.
--   [[full-disk-encryption|Full disk encryption]] protects offline data if there is disk loss or theft.
+-   Full disk encryption protects offline data if there is disk loss or theft.
 
 \[Omitted image "fig-5-database-encryption.png"\] Alt text: Database Encryption
 
 With Database Encryption, all stored data is encrypted and individual records or tables are decrypted in memory while being accessed. New or changed data is encrypted as it is entered into a table and associated activity log files \(bin, redo, undo, and error\) are also encrypted.
 
-Database Encryption is transparent to [[users|users]], with no loss of functionality. When using this feature, all instances are encrypted, along with replication traffic and backups. Instance cloning is still available with a minor performance impact for using Database Encryption of up to 5%. Both new and existing instances on supported releases of the ServiceNow AI Platform can take advantage of database encryption.
+Database Encryption is transparent to users, with no loss of functionality. When using this feature, all instances are encrypted, along with replication traffic and backups. Instance cloning is still available with a minor performance impact for using Database Encryption of up to 5%. Both new and existing instances on supported releases of the ServiceNow AI Platform can take advantage of database encryption.
 
 As illustrated, ServiceNow stores and manages keys using a three-level key hierarchy:
 
@@ -45,10 +45,3 @@ If you are using your own keys for database encryption, see [Database Encryption
 
 **Parent Topic:**[Database Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/database-encryption-with-customer-controlled-switch/db-full-disk-encryption.md)
 
-## Related
-
-- [[db-full-disk-encryption|Database Encryption]]
-- [[encryption-landing|Encryption]]
-- [[naai-data-protection|Data protection]]
-- [[full-disk-encryption|Full disk encryption]]
-- [[users|Users]]

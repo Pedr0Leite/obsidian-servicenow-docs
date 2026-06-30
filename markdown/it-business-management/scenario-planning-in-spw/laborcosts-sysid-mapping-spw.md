@@ -14,7 +14,7 @@ breadcrumb: [Configure financials for planning items Strategic Planning, Configu
 
 # Create custom labor costs and map them to sys\_id
 
-Create and map custom labor costs to sys\_id to [[generate-labor-cost-demand|generate labor costs]] based on the relevant expenses.
+Create and map custom labor costs to sys\_id to generate labor costs based on the relevant expenses.
 
 ## Before you begin
 
@@ -76,6 +76,3 @@ Omitting this update may result in system errors or incomplete data processing i
 }
 ```
 
-## Related
-
-- [[generate-labor-cost-demand|Generate labor costs]]

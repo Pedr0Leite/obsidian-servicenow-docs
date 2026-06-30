@@ -30,7 +30,7 @@ You can define a sample template with the draft of an email. It can contain the 
 
 3.  On the form, fill in the fields.
 
-    For more information on the fields, see [[notification-template-form|Notification Template form]].
+    For more information on the fields, see [Notification Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/notification-template-form.md).
 
 4.  Select **Submit**.
 
@@ -38,9 +38,5 @@ You can define a sample template with the draft of an email. It can contain the 
 -   **[Notification Template form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/notification-template-form.md)**  
 Use the Notification Template form to create a template with pre-defined information for sending out the notifications.
 
-**Parent Topic:**[[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]
+**Parent Topic:**[Setup for Everbridge notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/setup-steps-for-emergency-notification-uib-ws.md)
 
-## Related
-
-- [[notification-template-form|Notification Template form]]
-- [[setup-steps-for-emergency-notification-uib-ws|Setup for Everbridge notifications]]

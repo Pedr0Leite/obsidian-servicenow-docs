@@ -12,7 +12,7 @@ breadcrumb: [Defined desktop actions for desktop, Explore, AI Desktop Actions, E
 
 # Action recorder in AI Desktop Actions
 
-With Action recorder, you can capture steps to automate repetitive tasks in [[agentic-desktop-landing-page|AI Desktop Actions]]. You can save the steps that you perform on application elements as a reusable desktop action.
+With Action recorder, you can capture steps to automate repetitive tasks in AI Desktop Actions. You can save the steps that you perform on application elements as a reusable desktop action.
 
 Action recorder helps you record your interactions with desktop applications to create automated workflows. By recording steps, you can automate tasks that replicate your interactions. The recorded actions are displayed as screenshots in the Design workspace with anchors and steps automatically added.
 
@@ -29,7 +29,7 @@ When you record with AI, after you finish recording, AI analyzes the recording, 
 
 After AI processing completes, a confirmation banner appears: `AI analysis complete. Verify AI generated anchors and screen contexts before continuing.` Review and refine the AI-generated anchors and screen contexts before activating the action.
 
-**Important:** Record with AI feature requires the [[servicenow-lens-skill|ServiceNow AI Lens skill]] to be active on your instance and you must have the sn\_desktop\_core.desktop\_action\_user role. If these conditions aren't met, the **Record with AI** option is unavailable. Contact your ServiceNow administrator for help.
+**Important:** Record with AI feature requires the ServiceNow AI Lens skill to be active on your instance and you must have the sn\_desktop\_core.desktop\_action\_user role. If these conditions aren't met, the **Record with AI** option is unavailable. Contact your ServiceNow administrator for help.
 
 ## Capture modes
 
@@ -104,19 +104,11 @@ You can capture a maximum of 50 steps using the recorder in a recording session.
 **Related topics**  
 
 
-[[agentic-desktop-overview|AI Desktop Actions Design workspace]]
+[AI Desktop Actions Design workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md)
 
-[[record-with-ai-ad|Automate repetitive tasks by recording steps with AI in AI Desktop Actions]]
+[Automate repetitive tasks by recording steps with AI in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/record-with-ai-ad.md)
 
-[[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
+[Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md)
 
-[[example-badging-magmt-concept-ad|Create badge desktop action in AI Desktop Actions]]
+[Create badge desktop action in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-badging-magmt-concept-ad.md)
 
-## Related
-
-- [[agentic-desktop-overview|AI Desktop Actions Design workspace]]
-- [[record-with-ai-ad|Automate repetitive tasks by recording steps with AI in AI Desktop Actions]]
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[example-badging-magmt-concept-ad|example badging magmt concept ad]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[servicenow-lens-skill|ServiceNow AI Lens skill]]

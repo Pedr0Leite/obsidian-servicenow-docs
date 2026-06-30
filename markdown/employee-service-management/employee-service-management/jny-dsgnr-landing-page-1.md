@@ -12,7 +12,7 @@ reading_time_minutes: 2
 
 The ServiceNow® Journey designer application enables employees and managers in your organization to initiate and manage journeys to drive employee engagement and productivity.
 
-Journey designer uses [[journey-accelerator-1|Journey Accelerator]] and [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] to create a unified journey experience for employees and managers in the [[employee-center-landing-page|Employee Center]]. Journeys offer a unique user experience. In the back-end, records are created [[using-jny-dsnr|using Journey designer]], Journey Accelerator, and Lifecycle Events components to pull together a customized journey for employees.
+Journey designer uses Journey Accelerator and Lifecycle Events to create a unified journey experience for employees and managers in the Employee Center. Journeys offer a unique user experience. In the back-end, records are created using Journey designer, Journey Accelerator, and Lifecycle Events components to pull together a customized journey for employees.
 
 <table id="jny-dsgn-info-model-table" class="nav-card"><tbody><tr><td>
 
@@ -48,7 +48,7 @@ Journey designer uses [[journey-accelerator-1|Journey Accelerator]] and [[hr-lif
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like roles, fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components like roles, fields, tables, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsnr-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -63,10 +63,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[employee-center-landing-page|Employee Center]]
-- [[using-jny-dsnr|Using Journey designer]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

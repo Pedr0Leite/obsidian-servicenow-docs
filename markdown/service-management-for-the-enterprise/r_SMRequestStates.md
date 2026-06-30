@@ -12,7 +12,7 @@ breadcrumb: [Request Management in a Service Management application, Service Man
 
 # Request states
 
-[[c_ServiceManagement|Service Management]] requests follow a specific life cycle and move through a series of states, which are displayed in the **State** field on the request record.
+Service Management requests follow a specific life cycle and move through a series of states, which are displayed in the **State** field on the request record.
 
 The request states displayed depend on the SM application, as indicated in the table.
 
@@ -56,7 +56,7 @@ Awaiting Approval
 
 </td><td>
 
-When the information is complete enough for review by an approver, the request is marked ready for approval. This state is valid only for the [[FacilitiesLandingPage|Facilities Service Management]] application.
+When the information is complete enough for review by an approver, the request is marked ready for approval. This state is valid only for the Facilities Service Management application.
 
 </td></tr><tr><td>
 
@@ -99,15 +99,9 @@ Canceled
 Request was canceled.
 
 </td></tr></tbody>
-</table>In addition to the **State** field, the different [[r_SMRequestTaskStates|request task states]] are also shown visually at the top of each task record with the process flow formatter.
+</table>In addition to the **State** field, the different request task states are also shown visually at the top of each task record with the process flow formatter.
 
 **Note:** If the **State flows are enabled** option in the configuration screen is not selected, the process flow formatter is removed. If you added states to the request and task tables, those states are visible on the request form.
 
-**Parent Topic:**[[rm-sm-application|Request Management in a Service Management application]]
+**Parent Topic:**[Request Management in a Service Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/rm-sm-application.md)
 
-## Related
-
-- [[rm-sm-application|Request Management in a Service Management application]]
-- [[c_ServiceManagement|Service Management]]
-- [[FacilitiesLandingPage|Facilities Service Management]]
-- [[r_SMRequestTaskStates|Request task states]]

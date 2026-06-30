@@ -14,7 +14,7 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Capacity reservation rules
 
-[[capacity|Capacity]] Reservations enable you to efficiently distribute the total work capacity among work order tasks based on their attributes, such as work type, location, and priority.
+Capacity Reservations enable you to efficiently distribute the total work capacity among work order tasks based on their attributes, such as work type, location, and priority.
 
 You can create multiple reservation rules to manage and prioritize work order tasks based on their attributes, such as priority and demand. Each rule assigns a percentage of the total capacity to a specific task type or condition. This helps distribute workloads efficiently and make the best use of available resources.
 
@@ -220,6 +220,3 @@ Case 2: Allow Overflow Handling for Breakfix:
     -   1 additional task is allocated from the unreserved capacity \(utilizing up to 50% overflow\).
     -   The system makes room to accommodate 1 more task within the overflow threshold.
 
-## Related
-
-- [[capacity|Capacity]]

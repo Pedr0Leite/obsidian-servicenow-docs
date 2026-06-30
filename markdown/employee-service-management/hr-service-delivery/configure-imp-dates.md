@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Configure important dates
 
-Configure important dates, such as employee leaves, employee birthdays, or anniversaries, that you want to display on the **Upcoming team events** widget in [[manager-hub-overview|Manager Hub]].
+Configure important dates, such as employee leaves, employee birthdays, or anniversaries, that you want to display on the **Upcoming team events** widget in Manager Hub.
 
 ## Before you begin
 
@@ -112,7 +112,7 @@ Start date field
 
 Indicates the start date from which you want to pull important dates.For example: Assume that the important dates configuration record is being created to display birthdays of team members. Data offset unit is **Week** and Date offset before quantity and Date offset after quantity is **1**.
 
- All the birthdays before and after a week of start date are pulled and displayed on the Important dates widget in Manager Hub in [[employee-center-landing-page|Employee Center]].
+ All the birthdays before and after a week of start date are pulled and displayed on the Important dates widget in Manager Hub in Employee Center.
 
 </td></tr><tr><td>
 
@@ -215,7 +215,3 @@ Text that must appear when multiple important date configuration records are dis
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]

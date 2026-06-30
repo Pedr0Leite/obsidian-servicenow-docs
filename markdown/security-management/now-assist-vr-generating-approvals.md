@@ -16,7 +16,7 @@ Learn more about the how the Approval Recommendation generative AI skill arrives
 
 ## Overview for the Approval Recommendation skill
 
-The Approval Recommendation generative AI skill provides exception and false positive approvers in [[vuln-landing-page|Vulnerability Response]] with recommendations to help them make faster, more consistent decisions while reducing manual analysis effort.
+The Approval Recommendation generative AI skill provides exception and false positive approvers in Vulnerability Response with recommendations to help them make faster, more consistent decisions while reducing manual analysis effort.
 
 A finding \(vulnerable item\) is a vulnerability detected on an asset. Some findings don't require immediate remediation, for example, false positives or cases where a fix isn't yet available. From these types of findings and remediation tasks, users submit exception requests and ask for approval to defer remediation or indicate that a finding is a false positive. Users can request to defer the remediation of a finding or remediation task for a specified period.
 
@@ -30,7 +30,7 @@ In some cases, the approval requests for these exceptions and false positives re
 
 ## Sources and input parameters used for the recommendations
 
-The Approval Recommendation generative AI skill considers information from following tables, [[data-sources|data sources]], and information to arrive at its approval recommendations.
+The Approval Recommendation generative AI skill considers information from following tables, data sources, and information to arrive at its approval recommendations.
 
 -   See the following table for asset \(configuration item\) and vulnerability details.
 -   Historical Approval data - Count totals for how many times similar request types for false positives and deferrals from a finding type \(VIT, CVIT, AVIT, CTR\) have been approved or rejected on records on the Change Approval \[sn\_sec\_exception\_change\_approval\] table.
@@ -57,23 +57,15 @@ The Approval Recommendation generative AI skill considers information from follo
 
 |Application|Vulnerability details|
 |-----------|---------------------|
-|Vulnerability Response \(Host VR\)|Total counts of [[vulnerabilities|vulnerabilities]], normalized severity, CVSS scores, CISA exists, active exploit, preferred solution, EPSS percentile.|
+|Vulnerability Response \(Host VR\)|Total counts of vulnerabilities, normalized severity, CVSS scores, CISA exists, active exploit, preferred solution, EPSS percentile.|
 |Container Vulnerability Response \(CVR\)|Total counts of container vulnerabilities, normalized severity, CVSS scores, CISA exists, active exploit, preferred solution, EPSS percentile.|
 |Application Vulnerability Response \(AVR\)|Total counts of application vulnerabilities, normalized severity, CVSS scores, active exploit, preferred solution, EPSS percentile, and if threat exists.|
 |Configuration Compliance \(CC\)|Test result data is used instead of vulnerability data. Total counts of tests, test source category, test subcategory, criticality, and technology.|
 
-The Approval Recommendation generative AI skill provides its suggestions and is visible on approval request records \(CA\)s. For more information about how to invoke the agent and get the recommendations, see [[sem-approval-recommendation-skill|Generate approval recommendations with generative AI]].
+The Approval Recommendation generative AI skill provides its suggestions and is visible on approval request records \(CA\)s. For more information about how to invoke the agent and get the recommendations, see [Generate approval recommendations with generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-recommendation-skill.md).
 
 -   **[Generate approval recommendations with generative AI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-approval-recommendation-skill.md)**  
-Use a generative AI skill to streamline the approval process for exceptions and false positive requests with AI-driven recommendations. Reduce manual effort and improve decision accuracy for your approvers in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Use a generative AI skill to streamline the approval process for exceptions and false positive requests with AI-driven recommendations. Reduce manual effort and improve decision accuracy for your approvers in the Security Exposure Management Workspace.
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[sem-approval-recommendation-skill|Generate approval recommendations with generative AI]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[data-sources|Data Sources]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

@@ -14,13 +14,13 @@ breadcrumb: [Configure advanced features, Performance Analytics \(Indicator data
 
 # Activating your Performance Analytics subscription
 
-Without a paid Performance Analytics subscription, your use is limited to 180 days of data collection \(five months for monthly indicators\) and to specific indicators provided by ServiceNow, and you cannot [[activate-unlimited-breakdowns|activate Data snapshots]]. For unlimited access to all features, purchase a subscription to Performance Analytics.
+Without a paid Performance Analytics subscription, your use is limited to 180 days of data collection \(five months for monthly indicators\) and to specific indicators provided by ServiceNow, and you cannot activate Data snapshots. For unlimited access to all features, purchase a subscription to Performance Analytics.
 
 After you purchase the subscription, you might need to activate the plugin associated with that subscription on production instances.
 
 Performance Analytics subscriptions enable you to use the following functionality beyond what is available with the base system:
 
--   Custom [[c_Indicators|Performance Analytics indicators]], breakdowns, [[widgets|widgets]], or other configuration records
+-   Custom Performance Analytics indicators, breakdowns, widgets, or other configuration records
 -   The ability to activate Data snapshots for indicators. For more information, see [Data snapshots and multiple breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-level-breakdowns.md).
 -   Scores preserved for longer than 180 days \(Five full months for monthly indicators\)
 -   Text analytics widgets \(Core UI only\)
@@ -38,7 +38,7 @@ If you try to perform these tasks on a production instance that doesn’t have a
 
 \[Omitted image "complimentary-warning.png"\] Alt text: Warning that you cannot do what you are trying to do unless you subscribe to Performance Analytics
 
-The [[pa-admin-console|Performance Analytics Admin Console]] also warns you when an instance doesn’t have the full version of Performance Analytics activated.
+The Performance Analytics Admin Console also warns you when an instance doesn’t have the full version of Performance Analytics activated.
 
 \[Omitted image "admin-console-pa-not-activated.png"\] Alt text: Performance Analytics admin console showing subscription version not activated
 
@@ -110,9 +110,3 @@ A progress bar shows you the progress of the plugin activation, after which you 
 
 Consider activating Spotlight. Spotlight helps prioritize records by evaluating them against multiple weighted criteria. For more information, see [Ranking records with Spotlight](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/spotlight/spotlight.md).
 
-## Related
-
-- [[activate-unlimited-breakdowns|Activate Data snapshots]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[widgets|Widgets]]
-- [[pa-admin-console|Performance Analytics Admin Console]]

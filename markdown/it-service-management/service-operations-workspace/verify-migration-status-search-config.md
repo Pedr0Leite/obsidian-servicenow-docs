@@ -14,7 +14,7 @@ breadcrumb: [Migration of search configurations from ITSM Agent Workspace to Ser
 
 # Perform post-migration tasks for search configurations
 
-Verify that the search configurations in Service Operations Workspace \(SOW\) are consistent with the search configurations in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the [[migrated-records|migrated]] search configurations [[settings-mobile|settings]] in SOW based on your requirements.
+Verify that the search configurations in Service Operations Workspace \(SOW\) are consistent with the search configurations in ITSM Agent Workspace \(ITSM AW\) and are ready for use in SOW. You can update the migrated search configurations settings in SOW based on your requirements.
 
 ## Before you begin
 
@@ -59,7 +59,3 @@ When migrating the search configuration from ITSM Agent Workspace to SOW, the **
 
 **Parent Topic:**[Migration of search configurations from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/search-config-migration-itsm-aw-sow.md)
 
-## Related
-
-- [[migrated-records|Migrated]]
-- [[settings-mobile|Settings]]

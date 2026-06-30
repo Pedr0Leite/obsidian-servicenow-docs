@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Test IdP connections
 
-Testing the connection to an IdP validates the settings before enabling external [[c_Authentication|authentication]].
+Testing the connection to an IdP validates the settings before enabling external authentication.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Refresh MultiSSO IDP Metadata job fetches and updates the certificate for the Id
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **[[identity-landing|Identity]] Providers**.
+1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Identity Providers**.
 
 2.  Select a defined IdP or click **New** to define a new IdP.
 
@@ -38,9 +38,9 @@ Refresh MultiSSO IDP Metadata job fetches and updates the certificate for the Id
 
 4.  Click **Test Connection**, enter login credentials for the IdP to check login.
 
-    You cannot activate the IdP until you have a successful test connection. If the test fails, you can update to save your [[sc-configuration|configuration]] information, but you cannot activate this configuration.
+    You cannot activate the IdP until you have a successful test connection. If the test fails, you can update to save your configuration information, but you cannot activate this configuration.
 
-5.  Verify results using the **SSO Test Results/Summary** or the **Testing SSO [[logs|Logs]]** section to see log messages.
+5.  Verify results using the **SSO Test Results/Summary** or the **Testing SSO Logs** section to see log messages.
 
     If there are any errors, refer to the [Multi-SSO \(SAML 2.0\) errors and fixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/saml-errors.md)
 
@@ -48,9 +48,4 @@ Refresh MultiSSO IDP Metadata job fetches and updates the certificate for the Id
 
     \[Omitted image "Test\_connection.png"\] Alt text: Sample test connection
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]

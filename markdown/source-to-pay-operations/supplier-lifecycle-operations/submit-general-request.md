@@ -14,7 +14,7 @@ breadcrumb: [Raising requests, Using Supplier Collaboration Portal, Use, Supplie
 
 # Request something else using the supplier catalog
 
-Request something else if the available catalog items in the [[supplier|supplier]] catalog do not meet your needs.
+Request something else if the available catalog items in the supplier catalog do not meet your needs.
 
 ## Before you begin
 
@@ -22,13 +22,13 @@ Role required: sn\_slm.contact
 
 ## Procedure
 
-1.  Navigate to the [[supplier-central|Supplier Collaboration Portal]] home page by accessing your instance URL and adding a /supplier suffix.
+1.  Navigate to the Supplier Collaboration Portal home page by accessing your instance URL and adding a /supplier suffix.
 
     For example, `https://example.com/supplier`.
 
 2.  Select the supplier from the **My Company** drop-down list of suppliers associated with your profile.
 
-    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between [[supplier-contact|supplier contact]] and suppliers** is enabled.
+    **Important:** The list of suppliers under **My Company** is available from the Xanadu December 2024 release onwards, only if **M2M mapping between supplier contact and suppliers** is enabled.
 
 3.  In the portal header, select **Raise a request**.
 
@@ -83,8 +83,3 @@ After the supplier manager approves the case, the supplier record is updated acc
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier-contact|Supplier contact]]

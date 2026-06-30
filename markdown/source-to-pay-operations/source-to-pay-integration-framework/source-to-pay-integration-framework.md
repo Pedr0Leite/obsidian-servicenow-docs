@@ -14,20 +14,20 @@ breadcrumb: [Integration with third-party applications, Integrations, Source-to-
 
 # Source-to-Pay integration framework
 
-As part of the Source-to-Pay \(S2P\) integration framework, customers can install an optional third-party ERP integration application that enables primary data, fixed assets, [[purchase-order-table|purchase order]], receipt, invoice, and tax integration capabilities between S2P and the third-party ERP application.
+As part of the Source-to-Pay \(S2P\) integration framework, customers can install an optional third-party ERP integration application that enables primary data, fixed assets, purchase order, receipt, invoice, and tax integration capabilities between S2P and the third-party ERP application.
 
 Primary data entities include:
 
--   [[supplier|Supplier]]
+-   Supplier
 -   Profit center
--   [[cost-center|Cost center]]
+-   Cost center
 -   Ledger accounts
 -   Purchase organizations
 -   Asset category
 -   Material mapping
 -   Unit of measure
 
-While the third-party application is the system of record for primary data, S2P is the system of record for purchase orders and [[receipts|receipts]]. [[invoices|Invoices]] are either created manually in S2P or through an external supplier portal \(for example, Ariba\). For tax calculation and integration, see [Tax calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/tax-calculations.md).
+While the third-party application is the system of record for primary data, S2P is the system of record for purchase orders and receipts. Invoices are either created manually in S2P or through an external supplier portal \(for example, Ariba\). For tax calculation and integration, see [Tax calculations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/tax-calculations.md).
 
 The integration between S2P and the third-party application requires settings on both sides so that these applications function properly together.
 
@@ -43,7 +43,7 @@ The integration requires the Finance – ERP Integration store application.
 The following ServiceNow roles are required for integration:
 
 -   System administrator \(admin\) for installation of the integration application.
--   Procurement Specialist \(sn\_shop.procurement\_specialist\) for defining the [[erp-source|ERP source]].
+-   Procurement Specialist \(sn\_shop.procurement\_specialist\) for defining the ERP source.
 -   FCA Integration user \(sn\_fcms\_intg.integration\_user\) for ERP source configurations such as web service authorization, web services for Park and Post, Reverse, and User and Role mapping.
 
     Add the following roles to the FCA Integration user:
@@ -57,11 +57,3 @@ This integration requires an installed and configured MID Server in your Service
 
 **Note:** The MID Server integration is required only for an ERP integration using SOAP services.
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]
-- [[cost-center|Cost center]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[erp-source|ERP source]]

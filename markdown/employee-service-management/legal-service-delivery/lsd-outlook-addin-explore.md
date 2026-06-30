@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Outlook Add-In for Legal Service Delivery, Integration wi
 
 # Explore Microsoft Outlook Add-In for Legal Service Delivery
 
-Learn more about [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]] through a sample workflow and review the benefits it can provide.
+Learn more about Microsoft Outlook Add-In for Legal Service Delivery through a sample workflow and review the benefits it can provide.
 
 ## Microsoft Outlook Add-In for Legal Service Delivery overview
 
@@ -73,6 +73,3 @@ To learn more about configuring and using , see:
 -   [Use Microsoft Outlook Add-In for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-use.md)
 -   [Microsoft Outlook Add-In for Legal Service Delivery reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-outlook-addin-refrence.md)
 
-## Related
-
-- [[lsd-outlook-addin-landing|Microsoft Outlook Add-In for Legal Service Delivery]]

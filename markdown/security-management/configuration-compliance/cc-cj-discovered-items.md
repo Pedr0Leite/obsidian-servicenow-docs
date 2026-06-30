@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance imported data, Explore, Configuration Comp
 
 # Discovered Items for Configuration Compliance
 
-Assets are automatically matched to configuration items \(CIs\) using CI lookup rules, when they are imported using the host and test results integrations. [[cj-discovered-items|Discovered Items]] give you visibility into how asset identification is mapped to CIs in the CMDB.
+Assets are automatically matched to configuration items \(CIs\) using CI lookup rules, when they are imported using the host and test results integrations. Discovered Items give you visibility into how asset identification is mapped to CIs in the CMDB.
 
 Discovered Items are considered **Matched**, **Unmatched**, or **Reclassified**. Identified CIs are in the **Matched** state.
 
@@ -24,11 +24,7 @@ To make it easier to find potential matching issues, the CI Lookup Rule that mat
 
 If a match was not found, a CI is created in the Unmatched CI class `[sn_sec_cmn_unmatched_ci]`, `[cmdb_ci_unclassed_hardware]`, or `[cmdb_ci_incomplete_ip]` of the CMDB. If the original unmatched CI was reclassified, Discovered item records are updated to reflect that state. For more information, see [Working with unmatched CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/working-unmatched-cis.md) and [View and reclassify unmatched configuration items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/view-discovered-items.md) for more information.
 
-By default, the **[[security-operations-landing-page|Security Operations]]** &gt; **CMDB** &gt; **Discovered Items** module lists unmatched configuration items. You can view all discovered items from an import by removing the filter.
+By default, the **Security Operations** &gt; **CMDB** &gt; **Discovered Items** module lists unmatched configuration items. You can view all discovered items from an import by removing the filter.
 
 For a description of the fields in Discovered Items, see [Discovered Items form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/discovered-items-fields.md).
 
-## Related
-
-- [[cj-discovered-items|Discovered Items]]
-- [[security-operations-landing-page|Security Operations]]

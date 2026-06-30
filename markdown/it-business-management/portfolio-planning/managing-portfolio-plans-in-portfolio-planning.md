@@ -15,18 +15,18 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Managing portfolio plans in Portfolio Planning
 
-Create personalized [[portfolio-plans-in-portfolio-planning-ppw|portfolio plans in Portfolio Planning]] Workspace and enable focused planning of work in the desired perspective \(lens\) to align with business objectives.
+Create personalized portfolio plans in Portfolio Planning Workspace and enable focused planning of work in the desired perspective \(lens\) to align with business objectives.
 
 The following sections guide you on creating, updating, sharing, and collaborating with portfolio plans in Portfolio Planning Workspace.
 
 For details on how to use roadmaps for your portfolio plans, see [Planning roadmaps in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/planning-roadmaps-in-portfolio-planning.md).
 
 -   **[Create a high-level portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-high-level-portfolio-plan-ppw.md)**  
-Build a portfolio plan for high-level items \(programs\) in the [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace so that you can prioritize, roadmap, and manage work aligned to these programs.
+Build a portfolio plan for high-level items \(programs\) in the Portfolio Planning Workspace so that you can prioritize, roadmap, and manage work aligned to these programs.
 -   **[Create a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/create-portfolio-plan-in-portfolio-planning-workspace.md)**  
 Use lens and build a personalized portfolio plan in Portfolio Planning Workspace so that you can start to prioritize and align work in the planning perspective of your choice.
 -   **[Duplicate a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/copy-portfolio-plan-in-portfolio-planning.md)**  
-[[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]] with the data of an existing portfolio plan. If the portfolio plan you want to create is similar to an existing portfolio plan, duplicating the existing portfolio plan saves your time. You can also copy portfolio plans that were shared with you either with view or edit access.
+Create a portfolio plan with the data of an existing portfolio plan. If the portfolio plan you want to create is similar to an existing portfolio plan, duplicating the existing portfolio plan saves your time. You can also copy portfolio plans that were shared with you either with view or edit access.
 -   **[Modify a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-portfolio-plan-in-portfolio-planning-workspace.md)**  
 Update the details of a portfolio plan in Portfolio Planning Workspace or delete it, to reflect the changes in your planning priorities.
 -   **[Show or hide the features for a portfolio plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/show-or-hide-the-features-for-your-portfolio-plan-ppw.md)**  
@@ -38,8 +38,3 @@ Add comments and attachments to your portfolio plan so that users can review and
 
 **Parent Topic:**[Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md)
 
-## Related
-
-- [[portfolio-plans-in-portfolio-planning-ppw|Portfolio plans in Portfolio Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[create-portfolio-plan-in-portfolio-planning-workspace|Create a portfolio plan]]

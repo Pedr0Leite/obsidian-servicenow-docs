@@ -22,7 +22,7 @@ Role required: manager
 
 ## Procedure
 
-1.  In [[employee-center-landing-page|Employee Center]] navigate to **Your team** &gt; **Skills**.
+1.  In Employee Center navigate to **Your team** &gt; **Skills**.
 
 2.  On the skill feedback requests sent widget, select **Request feedback**.
 
@@ -79,6 +79,4 @@ This is an optional entry for you to add any other information that you'd like t
 </td></tr></tbody>
 </table>4.  Select **Send request**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

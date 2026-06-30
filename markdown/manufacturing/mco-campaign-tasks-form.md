@@ -12,7 +12,7 @@ breadcrumb: [Repair form, Reference, Manufacturing Commercial Operations]
 
 # Campaign tasks form
 
-Campaign tasks form enables you to add the [[mco-rcl-clms|recall campaign]] details.
+Campaign tasks form enables you to add the recall campaign details.
 
 <table id="table_rg5_n23_wfc"><thead><tr><th>
 
@@ -44,7 +44,7 @@ Recall campaign
 
 </td><td>
 
-Recall campaign details that are fetched from [[mco-recall-campaign-form|Recall campaign form]].
+Recall campaign details that are fetched from [Recall campaign form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-form.md).
 
 </td></tr><tr><td>
 
@@ -92,10 +92,5 @@ Description
 Any information that you want to update for next phases.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
-## Related
-
-- [[mco-recall-campaign-form|Recall campaign form]]
-- [[repair-form|Repair form]]
-- [[mco-rcl-clms|Recall campaign]]

@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Variable types supported by AI Search indexing
 
-[[ia-ai-search|AI Search]] can index searchable content and metadata from multiple variable types found on indexed source records.
+AI Search can index searchable content and metadata from multiple variable types found on indexed source records.
 
 ## Variable types indexed from variables column
 
@@ -37,13 +37,9 @@ When indexing records from the Catalog Item \[sc\_cat\_item\] table and tables t
 
 Other variable types aren't supported for catalog variable indexing.
 
-Catalog variable indexing is not active in the base system, but it's activated if you've installed the [[now-assist-ais|Now Assist in AI Search]] application. To learn how to activate and configure catalog variable indexing, see [Activate indexing of catalog variable content on Catalog Item records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/activate-catalog-variable-indexing.md). For details on the Now Assist in AI Search application, see [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md).
+Catalog variable indexing is not active in the base system, but it's activated if you've installed the Now Assist in AI Search application. To learn how to activate and configure catalog variable indexing, see [Activate indexing of catalog variable content on Catalog Item records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/activate-catalog-variable-indexing.md). For details on the Now Assist in AI Search application, see [Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-ais.md).
 
 For the full list of available Service Catalog variable types, see [Types of Service Catalog variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_VariableTypes.md).
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[now-assist-ais|Now Assist in AI Search]]

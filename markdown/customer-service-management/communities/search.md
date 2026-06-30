@@ -40,7 +40,7 @@ Role required: sn\_communities.community\_user
 
 
 -   **[Refine your search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/refine-search-results.md)**  
-[[refine-search-results|Refine your search results]] to narrow down the content displayed.
+Refine your search results to narrow down the content displayed.
 -   **[Sort your search results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/sort.md)**  
 Sort your community search results to narrow down the content displayed.
 
@@ -79,6 +79,3 @@ Sort your community search results to narrow down the content displayed.
 
 [Gamification]()
 
-## Related
-
-- [[refine-search-results|Refine your search results]]

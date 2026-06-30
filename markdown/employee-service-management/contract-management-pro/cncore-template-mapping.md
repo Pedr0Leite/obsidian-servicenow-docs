@@ -70,7 +70,7 @@ The type of field being mapped. The choices are:-   Text Field: Descriptive meta
 -   Signatory title: Title of the signatory.
 **Note:**
 
--   These options are available when the template is contracts-related for [[cncore-cmpro-landing-page|Contract Management Pro]].
+-   These options are available when the template is contracts-related for Contract Management Pro.
 -   Ensure you have mapped Signature and Signature date to the participants and delete any unmapped Signature and Signature date fields.
 
 
@@ -130,7 +130,7 @@ Participant
 
 Select the participant associated with the contract template.While creating of participants,
 
--   To create an internal signer, map user [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to the participant record, for example, P1.
+-   To create an internal signer, map user reference to the participant record, for example, P1.
 -   To create an external signer, map the Participant name, Participant email, and Participant title fields in the participant record.
 When you map a participant to signatory name, email, and title fields in the template mappings, the participant record mapped value to the participant name, email, and title fields in the signer tasks.
 
@@ -171,7 +171,3 @@ The script configuring the mapping between fields and record producer variables.
 
 [Classify and map imported clauses]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

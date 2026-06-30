@@ -14,7 +14,7 @@ breadcrumb: [Use, Operational Technology Incident Management, Operational Techno
 
 # Report an OT incident
 
-Create an [[operational-technology-overview|Operational Technology]] \(OT\) incident record to report a deviation from an expected standard of operation.
+Create an Operational Technology \(OT\) incident record to report a deviation from an expected standard of operation.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ot\_incident\_write
 
 ## About this task
 
-For a walkthrough of how to report an OT incident, watch this video.\[Omitted video\] Description: Reporting an OT incident in the [[industrial-workspace-for-operational-technology|Industrial Workspace]]
+For a walkthrough of how to report an OT incident, watch this video.\[Omitted video\] Description: Reporting an OT incident in the Industrial Workspace
 
 ## Procedure
 
@@ -225,7 +225,3 @@ You can view an OT incident record created for an OT device directly in the devi
 
 **Parent Topic:**[Using Operational Technology Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-incident-management/using-operational-technology-incident-mgt.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

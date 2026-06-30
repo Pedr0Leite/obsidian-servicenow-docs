@@ -20,7 +20,7 @@ Perform the following steps to integrate your GitHub Apps using Authorization co
 
 Role required:
 
--   oauth\_admin in [[devops-landing-page-new|DevOps Change Velocity]].
+-   oauth\_admin in DevOps Change Velocity.
 -   Admin account in GitHub.
 
 **Note:** Only user-level repositories are supported. You must have access to all the GitHub repositories that you want to configure in DevOps Change Velocity using Authorization code.
@@ -39,11 +39,11 @@ Role required: No instance role required
 
 ### About this task
 
-Complete these steps from your GitHub account. See [Building GitHub Apps](https://developer.github.com/apps/building-github-apps/) on the GitHub Developer site for instructions on creating and configuring custom [[dex-workspace-application-tab|applications]].
+Complete these steps from your GitHub account. See [Building GitHub Apps](https://developer.github.com/apps/building-github-apps/) on the GitHub Developer site for instructions on creating and configuring custom applications.
 
 ### Procedure
 
-1.  From your GitHub account, create your GitHub App by navigating to **Developer [[settings-mobile|Settings]]** &gt; **GitHub Apps**.
+1.  From your GitHub account, create your GitHub App by navigating to **Developer Settings** &gt; **GitHub Apps**.
 
 2.  In the **Homepage URL** field, enter `https://<instance-name>.service-now.com`.
 
@@ -153,7 +153,7 @@ Role required: admin, sn\_devops.admin
 
 3.  Select **Connect to a third party OAuth Provider**.
 
-    The system displays an empty [[application-registries-form|Application Registries form]].
+    The system displays an empty Application Registries form.
 
 4.  Complete the form.
 
@@ -318,9 +318,3 @@ Select the order to apply this credential. For example, enter `100`.
 
 [ServiceNow DevOps custom actions from GitHub marketplace]()
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[dex-workspace-application-tab|Applications]]
-- [[settings-mobile|Settings]]
-- [[application-registries-form|Application Registries form]]

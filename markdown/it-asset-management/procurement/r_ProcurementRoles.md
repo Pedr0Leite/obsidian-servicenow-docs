@@ -14,7 +14,7 @@ breadcrumb: [Procurement, IT Asset Management]
 
 # Procurement roles
 
-The [[c_Procurement|Procurement]] application uses the following roles.
+The Procurement application uses the following roles.
 
 <table id="id_anj_yhk_wwb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ procurement\_user
 
 </td><td>
 
-Can create purchase orders without a request. Can view requests and requested items. Can view transfer orders. Can [[t_CreateAPurchaseOrder|create a purchase order]] or transfer order when sourcing items for a request. Can view the vendor catalog.Can refresh, add, delete, and rearrange gauges in the Procurement Overview module.
+Can create purchase orders without a request. Can view requests and requested items. Can view transfer orders. Can create a purchase order or transfer order when sourcing items for a request. Can view the vendor catalog.Can refresh, add, delete, and rearrange gauges in the Procurement Overview module.
 
 </td></tr><tr><td>
 
@@ -72,7 +72,3 @@ Can create purchase orders without a request. Can view requests and requested it
 
 [Domain separation and Procurement]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[t_CreateAPurchaseOrder|Create a purchase order]]

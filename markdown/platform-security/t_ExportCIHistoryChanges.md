@@ -16,13 +16,13 @@ You can export a snapshot of a configuration item from its timeline.
 
 ## Before you begin
 
-The [[sc-configuration|configuration]] item must be in the Configuration Item \[cmdb\_ci\] table or a descendant of this table. [[c_AuditedTables|Auditing]] must be enabled for the table containing the CI.
+The configuration item must be in the Configuration Item \[cmdb\_ci\] table or a descendant of this table. Auditing must be enabled for the table containing the CI.
 
 Role required: admin.
 
 ## About this task
 
-You can [[export|export]] a snapshot of the CI to an XML, PDF \(Portal\), or PDF \(Landscape\) format.
+You can export a snapshot of the CI to an XML, PDF \(Portal\), or PDF \(Landscape\) format.
 
 ## Procedure
 
@@ -40,8 +40,4 @@ You can [[export|export]] a snapshot of the CI to an XML, PDF \(Portal\), or PDF
 
     You can download the file to your system for viewing.
 
-## Related
 
-- [[sc-configuration|Configuration]]
-- [[c_AuditedTables|Auditing]]
-- [[export|Export]]

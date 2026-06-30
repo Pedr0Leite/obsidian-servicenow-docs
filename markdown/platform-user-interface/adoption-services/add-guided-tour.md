@@ -14,7 +14,7 @@ breadcrumb: [Configure Guided Tours, Guided Tours, Adoption services, Configure 
 
 # Create Guided Tours
 
-After you outline the guided tour, use the [[guided-tours-designer|Guided Tour Designer]] \(GTD\) to enter the steps using callouts and triggers.
+After you outline the guided tour, use the Guided Tour Designer \(GTD\) to enter the steps using callouts and triggers.
 
 ## Before you begin
 
@@ -53,7 +53,7 @@ Tour Type
 </td><td>
 
 Select:-   **Standard UI** for tours that start from system platform content, such as a list or a form.
--   **[[c_ServicePortal|Service Portal]]** for tours that start from a Service Portal page.
+-   **Service Portal** for tours that start from a Service Portal page.
 
 **Note:** When you select **Service Portal**, a **Portal** option appears, where you choose a record from the Service Portals table.
 
@@ -67,7 +67,7 @@ Starting Page
 
 </td><td>
 
-Select the page that the tour starts on:-   If your tour type is Standard UI, your choices include pages that show [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]].
+Select the page that the tour starts on:-   If your tour type is Standard UI, your choices include pages that show lists and forms.
 -   If your tour type is [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md), your choices include [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md) pages.
 
 **Note:** In the base system, you can only launch tours from pages that use the SP Header Menu. Manually launched tours do not display on pages with custom header menus.
@@ -80,7 +80,7 @@ Select the page that the tour starts on:-   If your tour type is Standard UI, yo
 
     -   Manual Selection: You can select the page from the drop-down menu by entering the name of the page.
 
-**Note:** If the selected page contains parameters, you must mention the values of the parameters. If you want the tour to apply to the same page without exact parameters, [[configure-onboarding-modals|configure]] the page parameters as dynamic.
+**Note:** If the selected page contains parameters, you must mention the values of the parameters. If you want the tour to apply to the same page without exact parameters, configure the page parameters as dynamic.
 
 You can begin entering the UI page name to show a list of matching pages, and then select it from the list.
 
@@ -137,7 +137,7 @@ Select the roles that can access the guided tour and move them from the Availabl
 
         \[Omitted image "guided-tour-delegate-callout-london.png"\] Alt text: Callout trigger
 
-    4.  To format text, such as bold or italic, add HTML [[c_Tags|tags]] around the text.
+    4.  To format text, such as bold or italic, add HTML tags around the text.
 
         For example, enter `Click <b>New</b> to set up a delegate`. You can add other HTML tags, including tags for images.
 
@@ -182,19 +182,10 @@ Select the roles that can access the guided tour and move them from the Availabl
 
 ## Result
 
-The guided tour is created and listed in the [[help-center|Help Center]]. Each guided tour is allotted with a unique tour ID. If you set property **\(com.snc.guided\_tours.sort\)** to **true**, the tours appear in alphabetical order.
+The guided tour is created and listed in the Help Center. Each guided tour is allotted with a unique tour ID. If you set property **\(com.snc.guided\_tours.sort\)** to **true**, the tours appear in alphabetical order.
 
 **Related topics**  
 
 
 [Exploring Guided Tours](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/exploring-guided-tours.md)
 
-## Related
-
-- [[guided-tours-designer|Guided Tour Designer]]
-- [[c_ServicePortal|Service Portal]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_Tags|Tags]]
-- [[help-center|Help Center]]

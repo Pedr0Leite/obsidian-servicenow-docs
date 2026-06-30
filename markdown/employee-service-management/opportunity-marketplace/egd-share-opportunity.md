@@ -24,11 +24,11 @@ Role required: None
 
 ## About this task
 
-Sharing [[egd-oppt-mrktplc-internal-job|internal jobs]] enables you to connect with coworkers within the organization.
+Sharing internal jobs enables you to connect with coworkers within the organization.
 
 ## Procedure
 
-1.  From the [[employee-center-landing-page|Employee Center]] **[[egd-oppt-mrktplc-landing|Opportunity marketplace]]** &gt; **Internal jobs**.
+1.  From the Employee Center **Opportunity marketplace** &gt; **Internal jobs**.
 
 2.  Locate any **Internal job** post.
 
@@ -53,8 +53,3 @@ When you share an opportunity with a coworker, you and the person you share the 
 
 **Parent Topic:**[Use Opportunity Marketplace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-using.md)
 
-## Related
-
-- [[egd-oppt-mrktplc-internal-job|Internal jobs]]
-- [[employee-center-landing-page|Employee Center]]
-- [[egd-oppt-mrktplc-landing|Opportunity Marketplace]]

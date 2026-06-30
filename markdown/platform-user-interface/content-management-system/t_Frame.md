@@ -14,7 +14,7 @@ breadcrumb: [Style in Content Management, Configure Content Management sites, Co
 
 # Format a frame
 
-Frames provide a way to manage decorative containers for [[c_ContentBlocks|content blocks]] and any other elements within the site. For example, one frame can be a container, made of div or span [[c_Tags|tags]], that is styled with rounded corners.
+Frames provide a way to manage decorative containers for content blocks and any other elements within the site. For example, one frame can be a container, made of div or span tags, that is styled with rounded corners.
 
 ## Before you begin
 
@@ -40,7 +40,3 @@ Copy an existing frame UI macro to display content in a custom frame.
 
 **Parent Topic:**[Style in Content Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_StyleInContentManagement.md)
 
-## Related
-
-- [[c_ContentBlocks|Content blocks]]
-- [[c_Tags|Tags]]

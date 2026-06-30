@@ -83,7 +83,7 @@ Published
 
 </td><td>
 
-\[Read-only\] [[check-box|Check box]] to indicate whether the workflow has been published. Automatically set by the **Publish** action in the workflow menu.
+\[Read-only\] Check box to indicate whether the workflow has been published. Automatically set by the **Publish** action in the workflow menu.
 
 </td></tr><tr><td>
 
@@ -142,7 +142,7 @@ The Inputs section lists all the activities in the current workflow that input d
 
 |Field|Description|
 |-----|-----------|
-|Label|Displayed column [[label|label]]. Localized depending on user locale.|
+|Label|Displayed column label. Localized depending on user locale.|
 |Reference|Input field from another table.|
 |Type|Data type. For example, integer or string.|
 |Default value|Value used if you do not provide a value.|
@@ -266,7 +266,7 @@ The Stages section appears if you select a table with **Type** = **Workflow**.
 |-----|-----------|
 |Stage|Displays the workflow stage progress on the selected table. Optionally, select **Stage rendering** and **Stage order** schemes to customize the appearance of the stage field. The default values cover typical scenarios.|
 |Stage rendering|The renderer to use when displaying stage icons on a form or list view. For more information about renderers, see [Workflow stage renderers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/r_WorkflowStageRenderers.md).|
-|Stage order|The order of [[c_WorkflowStages|workflow stages]] when you view a workflow field in a list. Select **Computed** to let the workflow engine compute the stage order from the order of execution in the workflow. Select **User Specified** to use the **Order** field from that [Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md).|
+|Stage order|The order of workflow stages when you view a workflow field in a list. Select **Computed** to let the workflow engine compute the stage order from the order of execution in the workflow. Select **User Specified** to use the **Order** field from that [Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md).|
 |Name|The name of the stage as it appears in workflow fields..|
 |Duration|Time allocated for the specific stage.|
 |Order|The order of workflow stages when you view a workflow field in a list. Select **Computed** to let the workflow engine compute the stage order from the order of execution in the workflow. Select **User Specified** to use the **Order** field from that [Workflow stages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowStages.md).|
@@ -319,8 +319,3 @@ Outlier Percentage Threshold for ERT
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/t_CreateAWorkflow.md)
 
-## Related
-
-- [[check-box|Check box]]
-- [[label|Label]]
-- [[c_WorkflowStages|Workflow stages]]

@@ -14,7 +14,7 @@ breadcrumb: [Work on a safety incident, Manage incidents and observations, Manag
 
 # Log an injury and illness
 
-Log an injury and illness that resulted from a [[health-safety-overview|health and safety]] incident.
+Log an injury and illness that resulted from a health and safety incident.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Add an injury and illness record for each affected person during the incident.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\) and navigate to the **Lists** tab.
 
@@ -38,7 +38,7 @@ Add an injury and illness record for each affected person during the incident.
 
     The incident playbook opens.
 
-5.  In the **Add injury and illness** [[activity-lxp|activity]], add the injury and illness.
+5.  In the **Add injury and illness** activity, add the injury and illness.
 
     1.  Select **New**.
 
@@ -70,11 +70,11 @@ Add an injury and illness record for each affected person during the incident.
     -   The color on an injury detail card matches with the highlighted color of the related body part.
 8.  Select **Save**.
 
-9.  [[search-hr-case|Create an HR case]] for the injury or illness using the **Create HR Case** button, if needed.
+9.  Create an HR case for the injury or illness using the **Create HR Case** button, if needed.
 
     **Note:** This button appears only when the following conditions are met:
 
-    -   [[hs-case-management-landing-page|Health and Safety Case Management]] \(sn\_hs\_cm\) application and the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin are installed on your ServiceNow instance.
+    -   Health and Safety Case Management \(sn\_hs\_cm\) application and the Human Resources Scoped App: Core \(com.sn\_hr\_core\) plugin are installed on your ServiceNow instance.
     -   Safety case manager \[sn\_hs\_cm.case\_manager\] role assigned to you.
     -   **Employee** is selected in the **Person type** field.
     For more information, see [Create an HR case from an injury or illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/create-hr-case-injury-illness.md).
@@ -99,7 +99,7 @@ Add an injury and illness record for each affected person during the incident.
 
 -   The injury is listed in the Injury and Illness section of the activity. The injury card also appears in the Injuries and Illnesses section in the **Incident Overview** tab.
 -   The **Generate OSHA 301 form** button appears based on the following conditions:
-    -   The [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]] \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
+    -   The Health and Safety Incident Management OSHA Content Pack \(com.snc.sn\_hs\_im\_osha\) application is installed on your ServiceNow instance.
     -   The **Recordable** option is selected on the injury and illness report.
     -   The safety compliance manager \[sn\_ohs\_im.compliance\_manager\] role is assigned to you.
 
@@ -109,11 +109,3 @@ If an asset was involved in this injury, add it in the next playbook activity.
 
 **Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]
-- [[search-hr-case|Create an HR case]]
-- [[hs-case-management-landing-page|Health and Safety Case Management]]
-- [[generating-osha-forms|Health and Safety Incident Management OSHA Content Pack]]

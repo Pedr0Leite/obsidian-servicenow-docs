@@ -159,7 +159,7 @@ Used by
 
 </td><td>
 
-User or device that is using the rights.**Note:** If your rights are associated with client access records, the **Used by** field displays the name of each client access record that is using those rights. Select a client access record name to view the corresponding breakdown of users or devices that are using the associated rights. See [Add a software client access record in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAClientAccessRec.md) for more information on client access records in the [[c_SoftwareAssetMgmt|Software Asset Management]] classic application. See [Create a software client access record in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-clientaccess-workspace.md) for more information on client access records in the [[sam-workspace|Software Asset Workspace]].
+User or device that is using the rights.**Note:** If your rights are associated with client access records, the **Used by** field displays the name of each client access record that is using those rights. Select a client access record name to view the corresponding breakdown of users or devices that are using the associated rights. See [Add a software client access record in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddAClientAccessRec.md) for more information on client access records in the Software Asset Management classic application. See [Create a software client access record in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-clientaccess-workspace.md) for more information on client access records in the Software Asset Workspace.
 
 </td></tr><tr><td>
 
@@ -354,7 +354,3 @@ Number of allocations needed for compliance. Only used for Per Named User and Pe
 
 **Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

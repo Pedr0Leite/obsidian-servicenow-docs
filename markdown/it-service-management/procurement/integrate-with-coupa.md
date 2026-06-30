@@ -14,25 +14,20 @@ breadcrumb: [Integrating with external procurement applications, Procurement, As
 
 # Integrating with Coupa
 
-Integrating Coupa with Software [[c_AssetManagement|Asset Management]] helps you create software requisitions directly on Coupa. Software Asset Management tracks these requisitions and automatically generates entitlements or entitlement import errors after these requisitions are received on Coupa.
+Integrating Coupa with Software Asset Management helps you create software requisitions directly on Coupa. Software Asset Management tracks these requisitions and automatically generates entitlements or entitlement import errors after these requisitions are received on Coupa.
 
 **Note:** This integration doesn't pull requisitions created on Coupa to Software Asset Management.
 
 ## Before you begin
 
--   Install the Asset Management - [[c_Procurement|Procurement]] Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/install-proc-int.md).
+-   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/install-proc-int.md).
 -   You must have the Software Asset Management Enterprise license.
 -   Activate the Coupa spoke. For more information, see [Coupa Spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/coupa-spoke.md).
 -   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/t_ActivateProcurement.md).
 
 ## Synchronize reference data
 
-Both ServiceNow Procurement and Coupa have theirs own set of tables and [[reference-for-itsm-mobile-agent|reference]] data types. For a smooth and successful integration, you must synchronize the data you would refer. For more information, see [Reference data synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/ref-data-coupa.md).
+Both ServiceNow Procurement and Coupa have theirs own set of tables and reference data types. For a smooth and successful integration, you must synchronize the data you would refer. For more information, see [Reference data synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/procurement/ref-data-coupa.md).
 
 **Warning:** If you don't synchronize data, you might encounter a few issues while creating a requisition on Coupa.
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[reference-for-itsm-mobile-agent|Reference]]

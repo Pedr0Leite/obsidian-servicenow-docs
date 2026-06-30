@@ -14,15 +14,15 @@ breadcrumb: [Connect interface, Connect, ServiceNow AI Platform Additional Capab
 
 # Connect workspace
 
-The Connect workspace is a full-screen view of all your [[c_Collaboration|Connect Chat]] and [[c_ConnectSupport|Connect Support]] conversations in one place. It contains the conversation pane, which displays the conversation header and an expanded version of the mini window, and the conversation tools area.
+The Connect workspace is a full-screen view of all your Connect Chat and Connect Support conversations in one place. It contains the conversation pane, which displays the conversation header and an expanded version of the mini window, and the conversation tools area.
 
-To open the Connect workspace, navigate to **Collaborate** &gt; **Connect Chat** or click the new window icon \(\[Omitted image "IconNewWindow.png"\] Alt text: New window icon\) in a [[c_Connect|Connect]] mini window. If you do not have any recent conversations, a screen appears with helpful information about Connect.
+To open the Connect workspace, navigate to **Collaborate** &gt; **Connect Chat** or click the new window icon \(\[Omitted image "IconNewWindow.png"\] Alt text: New window icon\) in a Connect mini window. If you do not have any recent conversations, a screen appears with helpful information about Connect.
 
 The Connect workspace is composed of the following elements.
 
 |Element|Description|
 |-------|-----------|
-|Sidebar|Provides access to conversations. The Connect sidebar behaves the same way in the workspace as it does in the [[c_CollaborationOverlay|Connect overlay]]. The only difference is that the sidebar appears on the left edge of the Connect workspace. For more information about using the sidebar, see [Connect sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_CollaborationOverlay.md).|
+|Sidebar|Provides access to conversations. The Connect sidebar behaves the same way in the workspace as it does in the Connect overlay. The only difference is that the sidebar appears on the left edge of the Connect workspace. For more information about using the sidebar, see [Connect sidebar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/connect/c_CollaborationOverlay.md).|
 |Conversation pane|Displays the currently selected conversation.|
 |Conversation tools|Provides quick access to key information, conversation members, attachments, and notification preferences for the currently selected conversation. Some of the conversation tools vary depending on the type of conversation.|
 
@@ -104,7 +104,7 @@ Members
 
 </td><td>
 
-Lists all members of the current conversation. You can [[t_AddOrRemoveConversationMembers|add or remove conversation members]] for group and record conversations.
+Lists all members of the current conversation. You can add or remove conversation members for group and record conversations.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ Attachments
 
 </td><td>
 
-Lists all attachments in the conversation. Click an [[attachment|attachment]] to open it. Click **Add Attachment** to upload an attachment.
+Lists all attachments in the conversation. Click an attachment to open it. Click **Add Attachment** to upload an attachment.
 
 </td></tr><tr><td>
 
@@ -132,12 +132,3 @@ Contains settings to control which notifications you receive for the current con
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_Collaboration|Connect Chat]]
-- [[c_ConnectSupport|Connect Support]]
-- [[c_Connect|Connect]]
-- [[c_CollaborationOverlay|Connect overlay]]
-- [[t_AddOrRemoveConversationMembers|Add or remove conversation members]]
-- [[attachment|Attachment]]

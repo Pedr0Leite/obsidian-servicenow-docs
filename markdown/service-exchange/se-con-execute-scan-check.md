@@ -22,7 +22,7 @@ Role required: admin \(sb\_admin\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Consumer** &gt; **Administration** &gt; **Consumer Center**.
+1.  Navigate to **All** &gt; **Service Exchange Consumer** &gt; **Administration** &gt; **Consumer Center**.
 
 2.  Select the **Scan suite** tab.
 
@@ -61,9 +61,5 @@ Role required: admin \(sb\_admin\)
 **Related topics**  
 
 
-[[se-se-center|Service Exchange Center]]
+[Service Exchange Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-se-center.md)
 
-## Related
-
-- [[se-se-center|Service Exchange Center]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

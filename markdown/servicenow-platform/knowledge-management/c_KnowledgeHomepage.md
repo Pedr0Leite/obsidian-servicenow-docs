@@ -14,9 +14,9 @@ breadcrumb: [Using Knowledge Management, Knowledge Management, Manage content ca
 
 # Using the homepage of Knowledge Management v3
 
-The [[knowledge-management|Knowledge Management]] v3 homepage displays knowledge articles organized by knowledge base and category, as well as featured content and popular articles.
+The Knowledge Management v3 homepage displays knowledge articles organized by knowledge base and category, as well as featured content and popular articles.
 
-To view the default knowledge homepage, navigate to **[[self-service-landing|Self-Service]]** &gt; **Knowledge**.
+To view the default knowledge homepage, navigate to **Self-Service** &gt; **Knowledge**.
 
 **Note:**
 
@@ -31,7 +31,7 @@ If you access knowledge from a service management application, the knowledge hom
 
 Only published and not yet expired knowledge articles \(that is the valid do date not yet reached\) appear on the homepage.
 
-From the homepage, you can [[import-word-platform|import a Word document to a knowledge base]] by clicking **Import Articles**.
+From the homepage, you can import a Word document to a knowledge base by clicking **Import Articles**.
 
 **Note:** From Madrid, you can import a word document from the Import Articles module available in the Application Navigator. This feature is active by default for customers on Madrid and later releases. Existing customers on release versions prior to Madrid use the Word import functionality on the Knowledge V3 homepage. Upgrade customers use the Word import functionality on the Knowledge V3 homepage by default. If required, add the Import Articles module to the Application Navigator. If you add the module, the **Import Articles** button does not appear on the Knowledge v3 homepage.
 
@@ -46,7 +46,7 @@ You can select a knowledge base to browse articles within that knowledge base. Y
 
 Articles are organized by category or by tag. Categories are listed alphabetically. You can sort content by most recent update or by number of views.
 
-You can comment on an article. There is no [[html|HTML]] formatting available for comments on the Knowledge V3 homepage.
+You can comment on an article. There is no HTML formatting available for comments on the Knowledge V3 homepage.
 
 Existing customers on release versions prior to New York can view knowledge article feedback comments in the following ways.
 
@@ -61,7 +61,7 @@ An administrator can configure the knowledge homepage to display the number of a
 -   **[Search using Knowledge Management v3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/r_KnowledgeSearch.md)**  
 Search for knowledge articles from the knowledge homepage using the search bar on the Knowledge Management v3 homepage.
 -   **[Import a Word document to a knowledge base using Knowledge Management v3](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/t_ImportADocument.md)**  
-Import a Microsoft Word document [[using-knowledge-management|using Knowledge Management]] v3 homepage to [[create-knowledge-article|create a knowledge article]].
+Import a Microsoft Word document using Knowledge Management v3 homepage to create a knowledge article.
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
@@ -74,11 +74,3 @@ Import a Microsoft Word document [[using-knowledge-management|using Knowledge Ma
 
 [Import a Word document to a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/import-word-platform.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[self-service-landing|Self-service]]
-- [[import-word-platform|Import a Word document to a knowledge base]]
-- [[html|HTML]]
-- [[using-knowledge-management|Using Knowledge Management]]
-- [[create-knowledge-article|Create a knowledge article]]

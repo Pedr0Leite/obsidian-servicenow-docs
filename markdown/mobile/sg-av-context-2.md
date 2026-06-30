@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  From the [[mab-concept|Mobile App Builder]] home screen, select the **Functions** category and then select **New**.
+1.  From the Mobile App Builder home screen, select the **Functions** category and then select **New**.
 
 2.  In the **Action item** area of the form, select **New**.
 
@@ -64,9 +64,5 @@ Role required: admin
 
 The UI parameters that you created are available to your Virtual Agent topics within the `vaContext` object. You can access these parameters in Virtual Agent Designer by entering `vaContext.` followed by the name of your UI parameter. For example, you can access the `incident_caller` UI parameter by entering `vaContext.incident_caller`. For more details on using context variables in Virtual Agent, see [Virtual Agent scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent-scripts.md).
 
-**Parent Topic:**[[sg-av-context-action|Configure a contextual link to Virtual Agent]]
+**Parent Topic:**[Configure a contextual link to Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-av-context-action.md)
 
-## Related
-
-- [[sg-av-context-action|Configure a contextual link to Virtual Agent]]
-- [[mab-concept|Mobile App Builder]]

@@ -12,7 +12,7 @@ breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship
 
 # Create an order in Order Management
 
-Create a product or service order for an account or consumer in [[explore-order-management|Order Management]].
+Create a product or service order for an account or consumer in Order Management.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_ind\_tmt\_orm.order\_agent, sn\_ind\_tmt\_orm.service\_order\
 
 4.  Select **New**.
 
-5.  On the form, fill in the [[fields|fields]].
+5.  On the form, fill in the fields.
 
 <table id="table_x1q_jcv_4gc"><thead><tr><th>
 
@@ -121,19 +121,12 @@ The order is started and the product catalog opens.
 
 ## What to do next
 
-Browse the product catalog and add products and services to the order. For more information, see [[som-add-products-services-to-orders|Add products or services to an order in Order Management]].
+Browse the product catalog and add products and services to the order. For more information, see [Add products or services to an order in Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-add-products-services-to-orders.md).
 
 **Related topics**  
 
 
-[[som-order-types|Order types in Sales Customer Relationship Management]]
+[Order types in Sales Customer Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-order-types.md)
 
-[[order-mgt-customer-order-types|Action types for customer and service orders]]
+[Action types for customer and service orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-types.md)
 
-## Related
-
-- [[som-add-products-services-to-orders|Add products or services to an order in Order Management]]
-- [[som-order-types|Order types in Sales Customer Relationship Management]]
-- [[order-mgt-customer-order-types|Action types for customer and service orders]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

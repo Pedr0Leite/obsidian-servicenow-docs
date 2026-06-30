@@ -14,7 +14,7 @@ breadcrumb: [Exploring Localization Workspace, Localization Workspace, Translati
 
 # Localization Workspace Home and translation job status
 
-Start a translation request and monitor the current status of your translation requests from the [[localization-workspace|Localization Workspace]] Home screen.
+Start a translation request and monitor the current status of your translation requests from the Localization Workspace Home screen.
 
 ## Overview of Localization Workspace Home
 
@@ -28,17 +28,17 @@ Also you can track and manage the progress of translation requests in the Home s
 
 ## Guided Tours available from Help Center on Home
 
-From version 3.0.0, two guided tours are available. One guided tour assists with configuring a language provider, and is accessible to users with the [[ia-localization-il|Localization]] administrator role \(localization\_admin\). The other guided tour assists with configuring language groups, and is accessible to the Localization admin \(localization\_admin\) and Localization requester \(localization\_requestor\) roles. Find the guided tours by selecting the Help Center icon \[Omitted image "Banner\_HelpIcon.png"\] on the Home screen.
+From version 3.0.0, two guided tours are available. One guided tour assists with configuring a language provider, and is accessible to users with the Localization administrator role \(localization\_admin\). The other guided tour assists with configuring language groups, and is accessible to the Localization admin \(localization\_admin\) and Localization requester \(localization\_requestor\) roles. Find the guided tours by selecting the Help Center icon \[Omitted image "Banner\_HelpIcon.png"\] on the Home screen.
 
 ## Projects
 
 \[Omitted image "lw-status-synchronization-home-overview.png"\] Alt text: The Home screen of Localization Workspace including the My Requests list displaying one saved translation request and one submitted request. A tab for a localization project is highlighted.
 
-Localization Workspace extends and builds on projects in [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md). When you create a translation request, the system creates a project in [[localization-framework-landing|Localization Framework]] for you. You can open a tab for the translation request's project by selecting the **LF Project** number from the Requests list.
+Localization Workspace extends and builds on projects in [Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-landing.md). When you create a translation request, the system creates a project in Localization Framework for you. You can open a tab for the translation request's project by selecting the **LF Project** number from the Requests list.
 
 \[Omitted image "lw-status-synchronization-project.png"\] Alt text: A localization project tab which has been opened from the Home screen. The project details can be reviewed and optionally updated.
 
-In the Localization Project tab you can drill down into project components such as Localization Tasks. You can [[fulfill-localization-task|fulfill a localization task]] using the **Translate** button in a Localization Task tab, when the project state is In Progress.
+In the Localization Project tab you can drill down into project components such as Localization Tasks. You can fulfill a localization task using the **Translate** button in a Localization Task tab, when the project state is In Progress.
 
 Any update you make here in Localization Workspace is saved to the underlying Localization Framework tables. Completed and archived projects can't be updated. For more information, see [Fulfill a localization task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/fulfill-localization-task.md) in the Localization Framework documentation.
 
@@ -146,9 +146,3 @@ When displayed in the Requests list, the Cost uses a rate rounded up to the deci
 
 [Requesting translations in Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/requesting-translations-localization-workspace.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]
-- [[localization-framework-landing|Localization Framework]]
-- [[fulfill-localization-task|Fulfill a localization task]]

@@ -14,7 +14,7 @@ breadcrumb: [Activate Problem Management, Problem Management plugins, Configurin
 
 # Components installed with Problem Management
 
-Several types of components are installed with activation of the [[c_ProblemManagement|Problem Management]] plugin, including tables.
+Several types of components are installed with activation of the Problem Management plugin, including tables.
 
 ## Tables installed
 
@@ -37,6 +37,3 @@ The Problem table is extended from the Task \[task\] table. It inherits all the 
 </td></tr></tbody>
 </table>**Parent Topic:**[Activate Problem Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/activate-prob-mgmt.md)
 
-## Related
-
-- [[c_ProblemManagement|Problem Management]]

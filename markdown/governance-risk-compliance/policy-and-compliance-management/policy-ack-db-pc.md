@@ -16,7 +16,7 @@ breadcrumb: [Analytics and Reporting solutions for GRC: Policy and Compliance Ma
 
 The Policy Acknowledgement dashboard gives you the acknowledgement status of the policies. It includes count of policy acknowledgements that have been accepted, declined, pending, past the due date of acknowledgement, exemptions requested, and those that are exempted.
 
-**Important:** Starting with version 18.1.1 of the [[r_PolicyComplianceMgmt|Policy and Compliance Management]] application, the Policy Acknowledgement dashboard is available in the Next Experience UI Framework.
+**Important:** Starting with version 18.1.1 of the Policy and Compliance Management application, the Policy Acknowledgement dashboard is available in the Next Experience UI Framework.
 
 If you are on Vancouver or Washington DC, you can view the dashboard in the Next Experience UI Framework.
 
@@ -45,6 +45,3 @@ To open the dashboard, navigate to **All** &gt; **Policy and Compliance** &gt; *
 
 **Parent Topic:**[Analytics and Reporting solutions for GRC: Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/grc-policy-compliance-content-pack.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

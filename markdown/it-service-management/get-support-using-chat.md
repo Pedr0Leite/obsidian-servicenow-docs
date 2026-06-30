@@ -56,8 +56,5 @@ Type live agent in the chat or choose **Contact Live Agent** from the Support op
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[employee-experience-employee-center|Employee experience using Employee Center]]
+**Parent Topic:**[Employee experience using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-employee-center.md)
 
-## Related
-
-- [[employee-experience-employee-center|Employee experience using Employee Center]]

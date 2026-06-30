@@ -22,7 +22,7 @@ Role required: sn\_msi.workspace\_manager
 
 ## Procedure
 
-1.  Navigate to **[[major-security-incident-management-landing-page|Major Security Incident Management]]** &gt; **MSI Administration** &gt; **Status Report Setup**.
+1.  Navigate to **Major Security Incident Management** &gt; **MSI Administration** &gt; **Status Report Setup**.
 
     The MSI Status Report Setup page displays.
 
@@ -35,11 +35,11 @@ Role required: sn\_msi.workspace\_manager
     |MSI Report Lists|Description|
     |----------------|-----------|
     |**Affected Assets**|The related list of affected assets view in the status report.|
-    |**Affected [[threat-intelligence-locations|Locations]]**|The related list of affected locations view in the status report.|
+    |**Affected Locations**|The related list of affected locations view in the status report.|
     |**Affected Users**|The related list of affected users view in the status report.|
-    |**[[indicator|Indicators]]**|The related list of indicators view in the status report.|
+    |**Indicators**|The related list of indicators view in the status report.|
     |**Linked Security Incident**|The related list of linked security incident view in the status report.|
-    |**[[c_Observables|Observables]]**|The related list of observables view in the status report.|
+    |**Observables**|The related list of observables view in the status report.|
 
 
 **Parent Topic:**[Create a Report Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)
@@ -49,9 +49,3 @@ Role required: sn\_msi.workspace\_manager
 
 [Create a List Type Element](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-list-type-element.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[threat-intelligence-locations|Locations]]
-- [[indicator|Indicators]]
-- [[c_Observables|Observables]]

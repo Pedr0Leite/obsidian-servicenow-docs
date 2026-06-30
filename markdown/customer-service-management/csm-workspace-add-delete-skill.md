@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Manage skills for a customer service case
 
-Add or remove optional and [[mandatory-skills|mandatory skills]] for a customer service case.
+Add or remove optional and mandatory skills for a customer service case.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Agents can also change a skill between mandatory and optional.
 
     3.  Click **Save**.
 
-## Related
 
-- [[mandatory-skills|Mandatory skills]]

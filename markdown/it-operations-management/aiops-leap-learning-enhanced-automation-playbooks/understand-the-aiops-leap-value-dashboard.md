@@ -15,7 +15,7 @@ breadcrumb: [Using LEAP, Learning Enhanced Automation Platform \(LEAP\), Now Ass
 
 # Monitor automation opportunities using the LEAP value dashboard
 
-Use the dashboard to track [[automation-opportunities|automation opportunities]], cost savings, and operational efficiency metrics.
+Use the dashboard to track automation opportunities, cost savings, and operational efficiency metrics.
 
 ## Before you begin
 
@@ -74,6 +74,3 @@ The LEAP value dashboard provides real-time insights into automation opportuniti
 
 The dashboard displays current automation metrics including potential cost savings, time savings, and automation opportunities. Use these metrics to prioritize automation initiatives and demonstrate ROI to stakeholders. If the dashboard shows no data, verify that LEAP settings are configured correctly.
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]

@@ -30,7 +30,7 @@ Although you can view or modify existing cases from Microsoft Outlook, you can a
 
 3.  Click **Cases** in the Outlook add-in panel.
 
-    The add-in panel [[migration-lists|lists]] the five most recent cases connected to the contact that are not closed. You can load more cases.
+    The add-in panel lists the five most recent cases connected to the contact that are not closed. You can load more cases.
 
 4.  Click a case to open the case details.
 
@@ -43,9 +43,5 @@ Although you can view or modify existing cases from Microsoft Outlook, you can a
 
 ## Result
 
-The newly added message is available in the [[csm-config-ws-activity-stream|activity stream]].
+The newly added message is available in the activity stream.
 
-## Related
-
-- [[migration-lists|Lists]]
-- [[csm-config-ws-activity-stream|Activity stream]]

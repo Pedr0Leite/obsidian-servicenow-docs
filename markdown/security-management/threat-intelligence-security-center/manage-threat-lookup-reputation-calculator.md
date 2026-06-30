@@ -14,7 +14,7 @@ breadcrumb: [Administer, Threat Intelligence Security Center, Security Operation
 
 # Managing the Threat Lookup Reputation Calculator
 
-You can use the [[tisc-threat-lookup|Threat Lookup]] Finding Calculator to calculate the observable findings based on the responses received from threat lookup vendor.
+You can use the Threat Lookup Finding Calculator to calculate the observable findings based on the responses received from threat lookup vendor.
 
 You can create a Threat Lookup Finding Calculator for your integration and use a script to determine how you want to identify the various observable findings. The Threat Lookup Finding Calculator includes a sample script that comes with the base system, which you can use to identify the observable findings or you can modify this script according to your requirements.
 
@@ -39,14 +39,14 @@ Role required: sn\_sec\_tisc.admin
 
 To view the Threat Lookup Reputation Calculator, perform the following steps:
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration**.
 2.  Select the **Threat Lookup Reputation Calculator** section.
 
     You can view the list of Threat Lookup Reputation Calculators.
 
 3.  Click on the required Threat Lookup Reputation Calculator to view the details of the calculator.
 
-    \[Omitted image "enrich-view-threat-calculator.png"\] Alt text: [[view-threat-lookup-reputation-calculators|View Threat Lookup Reputation Calculators]]
+    \[Omitted image "enrich-view-threat-calculator.png"\] Alt text: View Threat Lookup Reputation Calculators
 
 
 ## Create Threat Lookup Reputation Calculator
@@ -77,8 +77,3 @@ To create a Threat Lookup Reputation Calculator, perform the following steps:
 
 5.  Click **Save**.
 
-## Related
-
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[view-threat-lookup-reputation-calculators|View Threat Lookup Reputation Calculators]]

@@ -18,7 +18,7 @@ When assets arrive at a stockroom and you receive them, a receiving slip is crea
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
@@ -63,6 +63,3 @@ The **Receiving stockroom** field on the Receiving Slip record becomes read-only
 
 [Consumable assets]()
 
-## Related
-
-- [[c_Procurement|Procurement]]

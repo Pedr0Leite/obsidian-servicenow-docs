@@ -40,7 +40,7 @@ A risk is any uncertain event that can potentially impact the success or outcome
 
     Only the risks statements that belong to the Project category are displayed for the user.
 
-5.  On the [[risk-form|Risk form]], fill in the fields.
+5.  On the Risk form, fill in the fields.
 
     For more information, see [Risk, issues, decisions, actions, and request change \(RIDAC\) form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/ridac-forms.md).
 
@@ -66,6 +66,3 @@ A risk is any uncertain event that can potentially impact the success or outcome
 
 [Associate existing RIDAC \(Risks, Issues, Actions, Decisions, and Request Changes\) records for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/reassociate-ridac-project.md)
 
-## Related
-
-- [[risk-form|Risk form]]

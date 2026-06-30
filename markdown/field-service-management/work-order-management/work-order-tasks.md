@@ -14,7 +14,7 @@ breadcrumb: [Contractor Portal, Completing work orders on the web interface, Use
 
 # Work order tasks on the Field Service Contractor Portal
 
-Organizations outsource their work order tasks to the contractor companies in the Field Service to perform required jobs at a customer location. Managers and agents of contractor companies use the Field Service [[field-service-contractor-portal|Contractor Portal]] to view and manage the work order tasks assigned to them.
+Organizations outsource their work order tasks to the contractor companies in the Field Service to perform required jobs at a customer location. Managers and agents of contractor companies use the Field Service Contractor Portal to view and manage the work order tasks assigned to them.
 
 Managers and agents can perform the following activities:
 
@@ -26,6 +26,3 @@ Managers and agents can perform the following activities:
 -   Agents can view the work order tasks assigned to them and choose to accept or reject them. If an agent rejects the task, it goes back to the agent's manager. The manager can reassign the task to another appropriate agent from the same group, accept the request and work on the task, or keep the task in the Pending assignment state.
 -   Managers and agents receive email notifications for each work order task assignment that include a link to use to open and view the work order task details.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

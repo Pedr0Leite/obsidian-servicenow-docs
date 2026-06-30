@@ -76,8 +76,5 @@ Only third-party apps listed in value of the property can be linked to using dee
 
 **Note:** If the value of this property is left empty, or the property is deleted, there are no restrictions on deep linking to third-party apps.
 
-**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]

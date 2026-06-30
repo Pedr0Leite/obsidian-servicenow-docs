@@ -14,7 +14,7 @@ breadcrumb: [View normalization suggestions in Software Asset Management classic
 
 # Manually normalize a software discovery model in Software Asset Management classic
 
-You can edit a [[sam-software-discovery|software discovery]] model to manually normalize discovered software that has not been fully normalized \(partially normalized, publisher normalized, or match not found\) on the Software Discovery [[c_Models|Models]] form so that it can be reconciled.
+You can edit a software discovery model to manually normalize discovered software that has not been fully normalized \(partially normalized, publisher normalized, or match not found\) on the Software Discovery Models form so that it can be reconciled.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ If the information automatically added to the software discovery model is incomp
 
     The normalization status is set to Manually Normalized.
 
-4.  To [[revert-norm-eam|revert normalization]], select **Revert Normalization**.
+4.  To revert normalization, select **Revert Normalization**.
 
     **Note:** Discovery models with a status of Normalized, Partially Normalized, or Publisher Normalized revert to the status of Match Not Found. Discovery models with a status of Manually Normalized and discovery models that have been normalized using pattern rules cannot be reverted.
 
@@ -45,8 +45,3 @@ If the information automatically added to the software discovery model is incomp
 
 **Parent Topic:**[View normalization suggestions in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-norm-suggestions-sam.md)
 
-## Related
-
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[revert-norm-eam|Revert normalization]]

@@ -14,7 +14,7 @@ breadcrumb: [Service Portal configuration page widgets, Widget library, Using po
 
 # Portal config widget
 
-The Portal Config widget is the left panel of the Branding Editor, which you use to [[configure-onboarding-modals|configure]] themes for your portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+The Portal Config widget is the left panel of the Branding Editor, which you use to configure themes for your portal. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 
 
@@ -23,13 +23,9 @@ The Portal Config widget is the left panel of the Branding Editor, which you use
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]

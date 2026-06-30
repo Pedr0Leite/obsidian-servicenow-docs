@@ -22,7 +22,7 @@ The insights\_admin role can create policies for AWS and GCP databases.
 
 ## How the Business hours feature works
 
-Each successful execution of a Billing Download job triggers the Budget Forecast, Business Hours, Reservation Plans, Rightsizing, and [[um-cloudin|Unused resources]] jobs to analyze the spend and usage data and to update the actionable recommendations in the reports. Business Hours jobs follow this process.
+Each successful execution of a Billing Download job triggers the Budget Forecast, Business Hours, Reservation Plans, Rightsizing, and Unused resources jobs to analyze the spend and usage data and to update the actionable recommendations in the reports. Business Hours jobs follow this process.
 
 \[Omitted image "bh-policy-flow-diagram.png"\] Alt text: Process flow for Business Hours
 
@@ -38,7 +38,7 @@ Each successful execution of a Billing Download job triggers the Budget Forecast
 
 AWS only:
 
--   AWS Auto Scaling group \(ASG\) operations act to maintain minimum capacity for ASG-member resources. To avoid conflicts with ASG operations, the [[cloud-insights-landing-page|Cloud Cost Management]] app excludes all instances that are part of an Auto Scaling group from Business Hours operations.
+-   AWS Auto Scaling group \(ASG\) operations act to maintain minimum capacity for ASG-member resources. To avoid conflicts with ASG operations, the Cloud Cost Management app excludes all instances that are part of an Auto Scaling group from Business Hours operations.
 -   You can view ASG-member resources on the **Excluded Resources** tab for Business Hours.
 
 Google Cloud only: The instance can be defined as a Managed instance groups \(MIGs\). MIGs let you operate applications on multiple identical VMs. You can make your workloads scalable and highly available by taking advantage of automated MIG services, including: auto-scaling, auto-healing, regional \(multiple zone\) deployment, and automatic updating.
@@ -89,7 +89,3 @@ For each resource that matches the policy criteria, the actions that the policy 
 
 [Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[um-cloudin|Unused resources]]
-- [[cloud-insights-landing-page|Cloud Cost Management]]

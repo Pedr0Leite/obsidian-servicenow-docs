@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Portfolio Planning, Reference, Portfolio
 
 # Planning item milestone form
 
-Learn about the fields of the planning item milestone form. Use this form to create milestones for the planning items in your roadmap in [[portfolio-planning-app-landing-page|Portfolio Planning]].
+Learn about the fields of the planning item milestone form. Use this form to create milestones for the planning items in your roadmap in Portfolio Planning.
 
 <table id="table_planning_milestone"><thead><tr><th>
 
@@ -81,6 +81,3 @@ Brief description about the milestone.
 </td></tr></tbody>
 </table>**Parent Topic:**[Form field information for Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/form-field-information-for-portfolio-planning.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

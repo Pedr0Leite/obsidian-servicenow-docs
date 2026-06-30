@@ -14,7 +14,7 @@ breadcrumb: [Reference, MetricBase, Manage instance data sources, Extend Service
 
 # Developer resources
 
-Developers can use JavaScript or REST APIs to insert and retrieve time-series data from the [[metricbase|MetricBase]] database and to run transforms on the data. The transformations enable you to visualize time-series data in a variety of ways.
+Developers can use JavaScript or REST APIs to insert and retrieve time-series data from the MetricBase database and to run transforms on the data. The transformations enable you to visualize time-series data in a variety of ways.
 
 ## REST APIs
 
@@ -48,6 +48,3 @@ Experiment and get familiar with the JavaScript APIs by using the [MetricBase Da
 
 [MetricBase roles]()
 
-## Related
-
-- [[metricbase|MetricBase]]

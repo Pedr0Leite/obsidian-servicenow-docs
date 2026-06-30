@@ -14,7 +14,7 @@ breadcrumb: [Running discoveries in your network, Using Discovery, Discovery, IT
 
 # Serverless Discovery
 
-[[r-discovery|Discovery]] can find applications on host machines without the need to discover the host first. This type of Discovery is referred to as serverless Discovery.
+Discovery can find applications on host machines without the need to discover the host first. This type of Discovery is referred to as serverless Discovery.
 
 Serverless Discovery relies on infrastructure patterns to explore CIs on a host. This kind of Discovery skips the [scanning and classification phases of Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/disco-process-flow-patterns.md). There are two types of serverless Discovery: standard and host-based. Both types require an infrastructure pattern.
 
@@ -38,6 +38,3 @@ The infrastructure patterns that serverless Discovery uses are triggered from a 
 -   Values for input parameters in the pattern if you are using standard serverless Discovery. See [Create a schedule for standard serverless Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-pattern-for-serverless.md) for instructions.
 -   A host CI if you are using proxy-host based Discovery. See [Create a schedule for host-based serverless Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/create-pattern-for-proxy-serverless.md) for more information.
 
-## Related
-
-- [[r-discovery|Discovery]]

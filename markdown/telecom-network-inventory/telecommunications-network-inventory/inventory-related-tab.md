@@ -45,7 +45,7 @@ Image of the telco equipment. You can select the image to see a preview in a sep
 Relationship with the associated network inventories. The Relations section shows all the child hierarchies that are associated with the telco equipment. You can only view the relations in the workspace.
 
 
- **Note:** This tab is available only for the [[tni-equipment-form-configuration|Telco Equipment form]].
+ **Note:** This tab is available only for the Telco Equipment form.
 
 </td></tr><tr><td>
 
@@ -61,7 +61,7 @@ Child Site
 
 </td><td>
 
-List of the child inventory sites that are associated with the parent site.**Note:** This tab is available only for the [[tni-network-site-form|Network Site form]].
+List of the child inventory sites that are associated with the parent site.**Note:** This tab is available only for the Network Site form.
 
 </td></tr><tr><td>
 
@@ -105,7 +105,7 @@ List of the physical connections that are associated with the network inventory.
 
 </td></tr><tr><td>
 
-[[design-logical-connection-design-assign-playbook|Logical Connections]]
+Logical Connections
 
 </td><td>
 
@@ -342,7 +342,7 @@ List of protection paths that are associated with logical connection record.**No
 
 </td></tr><tr><td>
 
-[[using-network-topology|Network Topology]] Root Nodes
+Network Topology Root Nodes
 
 </td><td>
 
@@ -372,9 +372,3 @@ List of place records.
 
 [Reviewing and updating your network inventory with the Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-workspace.md)
 
-## Related
-
-- [[tni-equipment-form-configuration|Telco Equipment form]]
-- [[tni-network-site-form|Network site form]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[using-network-topology|Network topology]]

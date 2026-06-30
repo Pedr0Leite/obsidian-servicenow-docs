@@ -14,7 +14,7 @@ breadcrumb: [Digital Factory Workspace, Industrial Connected Workforce]
 
 # Configuring Digital Factory Workspace
 
-Set up prerequisite tasks before proceeding to use the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Set up prerequisite tasks before proceeding to use the Digital Factory Workspace.
 
 ## Configuration overview
 
@@ -40,11 +40,7 @@ Set up prerequisite tasks before proceeding to use the Digital Factory Workspace
 -   **[Configuring Industrial Guided Tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/configuring-industrial-guided-tasks.md)**  
 Learn how to configure Industrial Guided Tasks.
 -   **[Configure Recommended Actions for the Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/configure-recommended-actions-icw.md)**  
-[[configure-recommended-actions-icw|Configure Recommended Actions for the Industrial Connected Workforce]]. Recommended Actions are based on context, rules, and recommendations and can be configured to support additional use cases. You can create rules and recommendations or modify existing ones to meet the specific requirements of your organization.
+Configure Recommended Actions for the Industrial Connected Workforce. Recommended Actions are based on context, rules, and recommendations and can be configured to support additional use cases. You can create rules and recommendations or modify existing ones to meet the specific requirements of your organization.
 
 **Parent Topic:**[Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-digital-factory-workspace-landing-page.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[configure-recommended-actions-icw|Configure Recommended Actions for the Industrial Connected Workforce]]

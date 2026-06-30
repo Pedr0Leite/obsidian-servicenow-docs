@@ -14,7 +14,7 @@ breadcrumb: [Using AI agent workflows in Now Assist for WSD, Now Assist for Work
 
 # Automate map updates agentic workflow
 
-This AI agent helps map admins configure the map during bulk updates to [[Indoor-mapping|Indoor Mapping]].
+This AI agent helps map admins configure the map during bulk updates to Indoor Mapping.
 
 ## Automate map updates workflow overview
 
@@ -76,6 +76,3 @@ Select this option to receive and review notifications sent by AI agents in the 
 
 [AI Agent Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-studio.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]

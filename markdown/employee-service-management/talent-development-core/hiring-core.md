@@ -14,7 +14,7 @@ breadcrumb: [Skills Foundation Reference, Skills Foundation, Growth Experiences,
 
 # Hiring Core
 
-Hiring Core provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your [[hiring-tab-concept|hiring]] requirements.
+Hiring Core provides a repository where you can store information that you’ve created or received from any third party talent acquisition platform for your hiring requirements.
 
 |Table|Description|
 |-----|-----------|
@@ -38,6 +38,3 @@ Hiring Core provides a repository where you can store information that you’ve 
 
 **Parent Topic:**[Skills Foundation Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/skills-intelligence-reference.md)
 
-## Related
-
-- [[hiring-tab-concept|Hiring]]

@@ -14,13 +14,13 @@ breadcrumb: [CEM Critical event record, Exploring, Critical Event Management, He
 
 # CEM Related records tab
 
-In [[critical-event-management|Critical Event Management]] \(CEM\), the **Related records** tab enables agents to view and manage critical event tasks, [[health-safety-overview|Health and Safety]] incidents, child critical events, and any sent notifications linked to the current critical event.
+In Critical Event Management \(CEM\), the **Related records** tab enables agents to view and manage critical event tasks, Health and Safety incidents, child critical events, and any sent notifications linked to the current critical event.
 
 You can find the **Related records** tab in any critical event record. The tab contains the following sections:
 
 -   Critical event tasks
 
-    You can create and manage critical event tasks. Each task represents a specific response or [[activity-lxp|activity]] required to reduce the impact of the event. You can track the progress of each task, prioritize responses, maintain accountability for each task, and coordinate better as all critical events are listed in one place.
+    You can create and manage critical event tasks. Each task represents a specific response or activity required to reduce the impact of the event. You can track the progress of each task, prioritize responses, maintain accountability for each task, and coordinate better as all critical events are listed in one place.
 
 -   Health and Safety incidents
 
@@ -34,8 +34,4 @@ You can find the **Related records** tab in any critical event record. The tab c
 
     Review any notification that you have sent for a critical event to track and verify communication related to the critical event, including who received the notification, what the notification said, and when the notification was sent. To learn how to view the sent notifications, see [View sent notifications for a critical event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/view-sent-notifications.md).
 
-## Related
 
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[activity-lxp|Activity]]

@@ -44,13 +44,10 @@ Role required: admin
                             },
     ```
 
-    This method checks if the [[cncore-now-assit-landing|Now Assist in Contract Management]] \(com.sn\_cm\_gen\_ai\) plugin is active. If the plugin is not active, it returns `true` hiding the tab by default.
+    This method checks if the Now Assist in Contract Management \(com.sn\_cm\_gen\_ai\) plugin is active. If the plugin is not active, it returns `true` hiding the tab by default.
 
 5.  Select **Update**.
 
 
 **Parent Topic:**[Configuring the Playbook tab on contract repository records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-config-playbook-tab.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Enable AI experiences]
 
 # Now Assist and Agentic AI glossary
 
-Learn about the terms and concepts used in [[platform-now-assist-landing|Now Assist]] and [[na-ai-agents|Now Assist AI agents]].
+Learn about the terms and concepts used in Now Assist and Now Assist AI agents.
 
 ## agents
 
@@ -24,7 +24,7 @@ Agentic AI refers to artificial intelligence systems that possess autonomy, enab
 
 ## agentic conversation
 
-Agentic conversation refers to interactions between humans and [[ai-system|AI systems]] where the AI exhibits autonomous behavior, making decisions and taking actions to achieve specific goals. In an agentic conversation, the AI agent can understand the context, reason, and respond accordingly, often without requiring explicit human direction. You can enable it in Virtual Agent, [[now-assist-center-now-assist-panel|Now Assist panel]], Voice/Web agents, and enhance it through [[knowledge-graph-landing|Knowledge Graph]], RAG, and Open [[ai-prompts|Prompts]].
+Agentic conversation refers to interactions between humans and AI systems where the AI exhibits autonomous behavior, making decisions and taking actions to achieve specific goals. In an agentic conversation, the AI agent can understand the context, reason, and respond accordingly, often without requiring explicit human direction. You can enable it in Virtual Agent, Now Assist panel, Voice/Web agents, and enhance it through Knowledge Graph, RAG, and Open Prompts.
 
 ## agentic system
 
@@ -32,7 +32,7 @@ An agentic system is a type of software or AI that perceives its environment, ma
 
 ## agentic workflow
 
-An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective. You can create and manage these workflows in [[ai-agent-studio|AI Agent Studio]] by using triggers, tools, and evaluation plans, and deploy across ITSM, HR, and CSM use [[cases|cases]].
+An agentic workflow is a structured sequence of tasks executed by one or more AI agents with minimal human intervention to fulfill a business objective. You can create and manage these workflows in AI Agent Studio by using triggers, tools, and evaluation plans, and deploy across ITSM, HR, and CSM use cases.
 
 ## AI agents
 
@@ -42,11 +42,11 @@ The AI agent is a virtual worker that performs specific tasks leveraging tools f
 
 ## AI compliance
 
-AI compliance refers to the adherence to regulatory requirements, standards, and guidelines governing the development, deployment, and use of artificial intelligence systems. It involves ensuring that AI systems are designed and implemented in a way that meets legal, ethical, and organizational standards. This includes addressing issues related to data privacy, bias, transparency, and accountability. You can manage it through audit trails, model life cycle management, and data masking by [[using-ai-control-tower|using AI Control Tower]] in ServiceNow AI Platform.
+AI compliance refers to the adherence to regulatory requirements, standards, and guidelines governing the development, deployment, and use of artificial intelligence systems. It involves ensuring that AI systems are designed and implemented in a way that meets legal, ethical, and organizational standards. This includes addressing issues related to data privacy, bias, transparency, and accountability. You can manage it through audit trails, model life cycle management, and data masking by using AI Control Tower in ServiceNow AI Platform.
 
 ## AI Control Tower
 
-[[ai-control-tower-landing|AI Control Tower]] is a centralized governance hub for managing [[ai-models|AI models]], agents, and compliance across the ServiceNow AI Platform. It provides visibility into model usage, performance, risk and compliance, and is integrated with Now Assist Admin console.
+AI Control Tower is a centralized governance hub for managing AI models, agents, and compliance across the ServiceNow AI Platform. It provides visibility into model usage, performance, risk and compliance, and is integrated with Now Assist Admin console.
 
 ## AI governance
 
@@ -54,7 +54,7 @@ AI governance refers to the set of policies, procedures, and standards that guid
 
 ## AI steward
 
-An AI steward within ServiceNow AI Platform is a governance role responsible for overseeing the life cycle of [[ai-assets|AI assets]], including models, data sets, and prompts. You can use AI stewards in AI Control Tower to coordinate governance activities between legal, security, compliance, and innovation teams for the responsible deployment of AI agents, skills, and models across the platform.
+An AI steward within ServiceNow AI Platform is a governance role responsible for overseeing the life cycle of AI assets, including models, data sets, and prompts. You can use AI stewards in AI Control Tower to coordinate governance activities between legal, security, compliance, and innovation teams for the responsible deployment of AI agents, skills, and models across the platform.
 
 ## citation
 
@@ -92,7 +92,7 @@ The Knowledge Graph organizes structured and unstructured enterprise data into a
 
 ## large language model \(LLM\)
 
-A complex machine-learning model trained on large [[ai-datasets|datasets]] to generate human-like responses to user input.
+A complex machine-learning model trained on large datasets to generate human-like responses to user input.
 
 ## multi-turn catalog ordering
 
@@ -132,7 +132,7 @@ A predefined capability within Now Assist that uses generative AI to perform tas
 
 ## Now LLM Service
 
-A component of the ServiceNow AI Platform that leverages large language models \(LLM\) to enhance generative AI capabilities. It supports various [[now-assist-skills|Now Assist skills]], such as chat summarization, case summarization, and resolution notes generation.
+A component of the ServiceNow AI Platform that leverages large language models \(LLM\) to enhance generative AI capabilities. It supports various Now Assist skills, such as chat summarization, case summarization, and resolution notes generation.
 
 ## offensive content detection
 
@@ -154,19 +154,3 @@ Q&amp;A Genius Results in Now Assist provide users with concise, actionable answ
 
 Retrieval Augmented Generation is a generative AI technique that enhances large language model \(LLM\) outputs by retrieving relevant enterprise content, such as knowledge articles or records and using it as context to generate more accurate and actionable responses. Within ServiceNow, RAG is implemented in products like Now Assist for Search, where it powers Genius Results cards by combining AI Search with generative responses. It is also configurable in AI Agent Studio, allowing admins to define RAG based tools that retrieve external or internal data to support autonomous or supervised AI agent workflows.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[ai-system|AI systems]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[ai-prompts|Prompts]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[cases|Cases]]
-- [[using-ai-control-tower|Using AI Control Tower]]
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-models|AI models]]
-- [[ai-assets|AI assets]]
-- [[ai-datasets|Datasets]]
-- [[now-assist-skills|Now Assist skills]]

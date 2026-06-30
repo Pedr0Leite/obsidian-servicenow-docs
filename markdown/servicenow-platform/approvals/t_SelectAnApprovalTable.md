@@ -14,7 +14,7 @@ breadcrumb: [Approval with e-signature, Classic approvals, Exploring Service Adm
 
 # Select an approval table
 
-By default, activating the [[approval-with-e-signature|Approval with E-signature]] plugin enables [[e-signature|e-signature]] for all tables for which an approval exists.
+By default, activating the Approval with E-signature plugin enables e-signature for all tables for which an approval exists.
 
 ## Before you begin
 
@@ -42,7 +42,3 @@ E-signature approvals can also be enabled on a table-by-table basis.
 
 **Parent Topic:**[Approval with e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/approvals/approval-with-e-signature.md)
 
-## Related
-
-- [[approval-with-e-signature|Approval with e-signature]]
-- [[e-signature|E-signature]]

@@ -47,8 +47,5 @@ Domain separation is supported for TPRM. Domain separation enables you to separa
 -   **[Vendor Risk Overview reports — Legacy view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vendor-risk-overview-reports.md)**  
 The Vendor Risk Overview page is replaced by the third-party risk reports on the Vendor Management Workspace.
 
-**Parent Topic:**[[r_WhatIsGRC|Governance, Risk, and Compliance]]
+**Parent Topic:**[Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

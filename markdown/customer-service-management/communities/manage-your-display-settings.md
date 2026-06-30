@@ -30,7 +30,7 @@ You can edit your own display settings for your community profile. If a communit
 
 2.  Click the **...** icon and then click **Display Settings**.
 
-3.  Open the choice [[migration-lists|lists]] and select display settings for any section.
+3.  Open the choice lists and select display settings for any section.
 
 4.  Choose the privacy level to apply.
 
@@ -84,6 +84,3 @@ Visible to users who are following your profile.
 
 **Parent Topic:**[Use a community profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/community-profile.md)
 
-## Related
-
-- [[migration-lists|Lists]]

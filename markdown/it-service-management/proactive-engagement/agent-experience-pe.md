@@ -14,7 +14,7 @@ breadcrumb: [Using, Proactive Engagement, Digital End-User Experience, IT Servic
 
 # Agent experience through Proactive Engagement
 
-This experience details the agent experience through the [[proactive-engagement-landing-page|Proactive Engagement]] application.
+This experience details the agent experience through the Proactive Engagement application.
 
 Proactive Engagement executes a set of resolutions on the end-user device. If the resolution doesn’t resolve the issue, as one of the fallback options, the incident created reaches the agent.
 
@@ -26,6 +26,3 @@ The agents can refer to the Experience Issue that is tagged as the Origin of the
 
 **Parent Topic:**[Using Proactive Engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/using-proactive-engagement.md)
 
-## Related
-
-- [[proactive-engagement-landing-page|Proactive Engagement]]

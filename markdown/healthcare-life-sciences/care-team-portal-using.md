@@ -12,10 +12,7 @@ breadcrumb: [Care Team Portal, Healthcare Operations, Healthcare and Life Scienc
 
 # Using Care Team Portal
 
-Use the [[care-team-portal-landing|Care Team Portal]] to create and track service requests, manage your teams, and review knowledge base articles.
+Use the Care Team Portal to create and track service requests, manage your teams, and review knowledge base articles.
 
 The following topics describe the day-to-day tasks care team members perform inside the Care Team Portal, including creating support requests, tracking in-flight work, managing team membership, and finding knowledge articles.
 
-## Related
-
-- [[care-team-portal-landing|Care Team Portal]]

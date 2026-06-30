@@ -16,7 +16,7 @@ Run the scheduled integration job that runs that pulls data for the activated re
 
 ## Before you begin
 
-At least one [[activate-the-workday-reports|Workday report]] must be activated.
+At least one [Workday report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/activate-the-workday-reports.md) must be activated.
 
 Role required: admin
 
@@ -30,6 +30,4 @@ Role required: admin
 
 4.  Select **Execute Now**.
 
-## Related
 
-- [[activate-the-workday-reports|Activate the Workday reports]]

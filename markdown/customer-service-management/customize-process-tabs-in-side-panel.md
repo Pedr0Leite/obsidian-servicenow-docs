@@ -50,16 +50,11 @@ The added component gets displayed on the UI. The location depends on where you 
 **Related topics**  
 
 
-[[config-csm-ws-side-panel-tabs|Configure tabs in the contextual side panel]]
+[Configure tabs in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-side-panel-tabs.md)
 
-[[config-csm-ws-custom-record-page|Customize a record page]]
+[Customize a record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-custom-record-page.md)
 
-[[config-csm-ws-set-record-page-order|Set record page order]]
+[Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md)
 
 [Customize UI Builder pages using components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/work-components.md)
 
-## Related
-
-- [[config-csm-ws-side-panel-tabs|Configure tabs in the contextual side panel]]
-- [[config-csm-ws-custom-record-page|Customize a record page]]
-- [[config-csm-ws-set-record-page-order|Set record page order]]

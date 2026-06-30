@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-A stack can be dependent on multiple stacks, and multiple stacks can depend on a single stack. Stacks that comprise multiple configuration items \(CIs\) and services make up the stack dependencies in the [[csc-home|Cloud Services Catalog]] application. The dependency map provides a simple and detailed graphical representation of these complex settings. You can navigate through the references to understand the event impact that one branch has on another.
+A stack can be dependent on multiple stacks, and multiple stacks can depend on a single stack. Stacks that comprise multiple configuration items \(CIs\) and services make up the stack dependencies in the Cloud Services Catalog application. The dependency map provides a simple and detailed graphical representation of these complex settings. You can navigate through the references to understand the event impact that one branch has on another.
 
 ## Procedure
 
@@ -43,6 +43,3 @@ A stack can be dependent on multiple stacks, and multiple stacks can depend on a
 
 **Parent Topic:**[Exploring the My Stacks tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/manage-stacks.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

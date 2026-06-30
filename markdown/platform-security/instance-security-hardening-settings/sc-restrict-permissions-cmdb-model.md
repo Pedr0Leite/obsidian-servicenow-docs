@@ -14,9 +14,9 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Restrict permissions for CMDB model
 
-Use the **csm\_cmdb\_model.customer\_visible\_flag** system property to limit customer access to data in the Product Models table as an additional [[sc-access-control|access control]] to the CMDB model.
+Use the **csm\_cmdb\_model.customer\_visible\_flag** system property to limit customer access to data in the Product Models table as an additional access control to the CMDB model.
 
-The **csm\_cmdb\_model.customer\_visible\_flag** system property is an additional access control to the CMDB model. If **csm\_cmdb\_model.customer\_visible\_flag** is not set to the recommended value of **true**, then any user with the sn\_esm\_user role and out of the box ACLs will have permissions to the CMDB model. Note that this role tends to be granted to external [[users|users]].
+The **csm\_cmdb\_model.customer\_visible\_flag** system property is an additional access control to the CMDB model. If **csm\_cmdb\_model.customer\_visible\_flag** is not set to the recommended value of **true**, then any user with the sn\_esm\_user role and out of the box ACLs will have permissions to the CMDB model. Note that this role tends to be granted to external users.
 
 Ensure that the property **csm\_cmdb\_model.customer\_visible\_flag** is set to **true**.
 
@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,9 +117,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[sc-access-control|Access control]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

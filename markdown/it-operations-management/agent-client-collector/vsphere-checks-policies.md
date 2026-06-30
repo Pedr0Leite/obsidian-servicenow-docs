@@ -14,7 +14,7 @@ breadcrumb: [Agent Client Collector Monitoring default checks and policies, ACC-
 
 # vSphere default checks and policies
 
-[[acc-landing-page|Agent Client Collector]] provides the following default [[checks-policies|checks and policies]] for vSphere monitoring.
+Agent Client Collector provides the following default checks and policies for vSphere monitoring.
 
 <table id="table_kzz_mv4_f5b"><thead><tr><th>
 
@@ -205,7 +205,3 @@ vsphere.HostSystem.net.bytesRx.average.total 5924 1655198166
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Monitoring default checks and policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-policies-checks.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[checks-policies|Checks and policies]]

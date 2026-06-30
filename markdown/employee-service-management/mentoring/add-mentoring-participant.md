@@ -14,7 +14,7 @@ breadcrumb: [Configure, Mentoring, Growth Experiences, HR Service Delivery, Empl
 
 # Add a new Mentoring participant
 
-As a manager, add members from your team either as mentors or mentees to participate in [[mentoring-egd-overview|mentoring]] programs.
+As a manager, add members from your team either as mentors or mentees to participate in mentoring programs.
 
 ## About this task
 
@@ -80,6 +80,4 @@ State of the participant.-   **Draft**
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[mentoring-egd-overview|Mentoring]]

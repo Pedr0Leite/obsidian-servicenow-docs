@@ -14,7 +14,7 @@ breadcrumb: [Perform Advanced Risk Assessment, Use, Risk Management, Governance,
 
 # Create a scripted automated factor
 
-Create scripted automated [[factors|factors]] that use a script to fetch data from ServiceNow® records or from external sources. During risk assessment, scripted automated factors automatically calculate and provide the responses for factors.
+Create scripted automated factors that use a script to fetch data from ServiceNow® records or from external sources. During risk assessment, scripted automated factors automatically calculate and provide the responses for factors.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_grc.developer and sn\_risk.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[advanced-risk-assessment|Advanced Risk Assessment]]** &gt; **[[Administration|Administration]]** &gt; **Automated Scripted Factors**.
+1.  Navigate to **All** &gt; **Advanced Risk Assessment** &gt; **Administration** &gt; **Automated Scripted Factors**.
 
 2.  Click **New**.
 
@@ -201,8 +201,3 @@ The factor is published and is ready for use in a Risk Assessment Methodology.
 
 [Create an automated factor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configure_automated_factor.md)
 
-## Related
-
-- [[factors|factors]]
-- [[advanced-risk-assessment|advanced risk assessment]]
-- [[Administration|Administration]]

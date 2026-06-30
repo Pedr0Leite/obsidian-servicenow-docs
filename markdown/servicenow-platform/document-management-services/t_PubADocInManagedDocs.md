@@ -14,7 +14,7 @@ breadcrumb: [Managed Documents, Document Services, Manage content capabilities, 
 
 # Publish a document in Managed Documents
 
-After the document is reviewed and approved, publish the document within [[c_ManagedDocuments|Managed Documents]].
+After the document is reviewed and approved, publish the document within Managed Documents.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: document\_management\_user
 
 **Parent Topic:**[Managed Documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/c_ManagedDocuments.md)
 
-## Related
-
-- [[c_ManagedDocuments|Managed Documents]]

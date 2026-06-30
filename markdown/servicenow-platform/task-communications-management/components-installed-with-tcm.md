@@ -14,7 +14,7 @@ breadcrumb: [Activate Task Communications Management, Task Communications Manage
 
 # Components installed with Task Communications Management
 
-Several types of components are installed with the [[tcm-landing-page|Task Communications Management]] plugin, including tables and user roles.
+Several types of components are installed with the Task Communications Management plugin, including tables and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -72,7 +72,7 @@ Main table for channel definitions.
 
 </td></tr><tr><td>
 
-Communication Channel Definition — [[email|Email]]\[comm\_channel\_def\_email\]
+Communication Channel Definition — Email\[comm\_channel\_def\_email\]
 
 </td><td>
 
@@ -84,7 +84,7 @@ Communication Channel Definition — SMS\[comm\_channel\_def\_sms\]
 
 </td><td>
 
-Defines SMS as a channel.**Note:** This table is available only when you install the [[notify-landing-page|Notify]] plugin \(com.snc.notify\).
+Defines SMS as a channel.**Note:** This table is available only when you install the Notify plugin \(com.snc.notify\).
 
 </td></tr><tr><td>
 
@@ -239,8 +239,3 @@ Configure all Task Communications Management features including communication pl
 
 **Parent Topic:**[Activate Task Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/task-communications-management/activate-tcm-plugin.md)
 
-## Related
-
-- [[tcm-landing-page|Task Communications Management]]
-- [[email|Email]]
-- [[notify-landing-page|Notify]]

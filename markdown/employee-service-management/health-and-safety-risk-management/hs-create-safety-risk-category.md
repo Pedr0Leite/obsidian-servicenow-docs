@@ -41,7 +41,7 @@ Role required: sn\_hs\_rm.risk\_category\_manager or sn\_hs\_rm.risk\_category\_
     |Number|System-generated unique number for the risk category.|
     |Name|Name of the risk category.|
     |Short description|Description of the risk category.|
-    |Order|Order at which this risk category is listed on the Select hazards form when submitting a [[hs-job-safety-analysis|Job safety analysis]] \(JSA\).|
+    |Order|Order at which this risk category is listed on the Select hazards form when submitting a Job safety analysis \(JSA\).|
     |Active|Option to mark this risk category available for use. A risk category must be active to be used.|
 
 5.  Select **Submit**.
@@ -59,6 +59,3 @@ Associate related hazards with the risk category. For more information, see [Def
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[hs-job-safety-analysis|Job safety analysis]]

@@ -14,7 +14,7 @@ breadcrumb: [Migrate to CSM Configurable Workspace, Migrating to Configurable Wo
 
 Learn how the Workspace declarative actions function with configurable workspace.
 
-Declarative actions add custom functionality to your Workspace [[migration-forms|forms]], fields, [[migration-lists|lists]], and related lists without writing custom scripts or learning APIs. Declarative actions include: form and list actions, related list actions, and field decorators.
+Declarative actions add custom functionality to your Workspace forms, fields, lists, and related lists without writing custom scripts or learning APIs. Declarative actions include: form and list actions, related list actions, and field decorators.
 
 <table id="table_lby_n12_jqb"><thead><tr><th>
 
@@ -47,7 +47,3 @@ Action Assignment \[sys\_declarative\_action\_assignment\]
 
 [Bind an event to a declarative action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/bind-event-declarative-action.md)
 
-## Related
-
-- [[migration-forms|Forms]]
-- [[migration-lists|Lists]]

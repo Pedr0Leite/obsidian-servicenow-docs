@@ -44,17 +44,14 @@ To support your organization's authentication policies, you can configure a list
 
 7.  In the **Value** field, enter a comma-separated list of the iOS Bundle IDs and of the Android Package Names for the apps that can log in to your instance.
 
-    The following example shows a configuration that only allows end users with the Intune [[now-mobile-app|Now Mobile app]] to log in to the instance. All other apps are restricted and unable to log in.
+    The following example shows a configuration that only allows end users with the Intune Now Mobile app to log in to the instance. All other apps are restricted and unable to log in.
 
     ```
     com.servicenow.intune.requestor,com.servicenow.requestor.mam.intune
     ```
 
-    For a list of iOS Bundle IDs and Android Package IDs, see [[sg-mobile-package-ids|Bundle and Package IDs for ServiceNow mobile apps]].
+    For a list of iOS Bundle IDs and Android Package IDs, see [Bundle and Package IDs for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-package-ids.md).
 
 8.  Select **Submit**.
 
-## Related
 
-- [[sg-mobile-package-ids|Bundle and Package IDs for ServiceNow mobile apps]]
-- [[now-mobile-app|Now Mobile app]]

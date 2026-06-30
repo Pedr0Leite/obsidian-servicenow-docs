@@ -14,7 +14,7 @@ breadcrumb: [Enable and configure the Pre-hire Experience, Configure, Journey de
 
 # Configure the Getting started resources widget
 
-[[jny-dsgnr-landing-page-1|Journey designer]] administrators can configure the Getting started resources widget to provide [[emp-center-quick-link-config|quick links]] that give access to internal and external resources. Administrators can provide links to knowledge base articles, catalog items, pages, or other pertinent information that your organization deems beneficial for an onboarding employee.
+Journey designer administrators can configure the Getting started resources widget to provide quick links that give access to internal and external resources. Administrators can provide links to knowledge base articles, catalog items, pages, or other pertinent information that your organization deems beneficial for an onboarding employee.
 
 ## Before you begin
 
@@ -55,7 +55,3 @@ Role required: admin \[sn\_jny.admin\]
 
 **Parent Topic:**[Enable and configure the Pre-hire Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-pre-hire-enable-configure.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[emp-center-quick-link-config|Quick links]]

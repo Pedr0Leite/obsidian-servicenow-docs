@@ -14,7 +14,7 @@ breadcrumb: [Reference, CMDB success advisor, Configuration Management Database 
 
 # Components installed with CMDB success advisor
 
-Several types of components are installed with activation of the [[cmdb-sa|CMDB success advisor]] plugin, including tables and scheduled jobs.
+Several types of components are installed with activation of the CMDB success advisor plugin, including tables and scheduled jobs.
 
 ## Scheduled jobs installed
 
@@ -36,7 +36,7 @@ On-demand scheduled job that automatically configures the Data Foundations advis
 
 </td></tr><tr><td>
 
-**CMDB Advisor - Check Job Completion and [[notify-landing-page|Notify]]**
+**CMDB Advisor - Check Job Completion and Notify**
 
 </td><td>
 
@@ -119,7 +119,7 @@ CMDB Advisor suggested ingestion source
 
 </td><td>
 
-Ingestion source suggestions for CMDB success advisor based on the associated [[cmdb-sgc-available|Service Graph Connectors]], Discovery patterns, and product.
+Ingestion source suggestions for CMDB success advisor based on the associated Service Graph Connectors, Discovery patterns, and product.
 
 </td></tr><tr><td>
 
@@ -164,8 +164,3 @@ Scope selections for each product dashboard, including principal classes in the 
 </td></tr></tbody>
 </table>**Parent Topic:**[CMDB success advisor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-reference.md)
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[notify-landing-page|Notify]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

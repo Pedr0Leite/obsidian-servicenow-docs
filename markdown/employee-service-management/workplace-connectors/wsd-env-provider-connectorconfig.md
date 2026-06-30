@@ -14,7 +14,7 @@ breadcrumb: [Setup Workplace Connectors for environmental data, Configure, Workp
 
 # Provider Connector Configuration for Environmental sensors
 
-Configure the [[provider-configuration-ovw|provider connector configuration]] for setting up environmental sensors in workplace locations.
+Configure the provider connector configuration for setting up environmental sensors in workplace locations.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Provider Connector Configuration**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Provider Connector Configuration**.
 
 2.  Select **New**.
 
@@ -108,7 +108,3 @@ For example, if a new floor or a space is added to a location, then they're auto
 
 **Next topic:**[Set up the Units of measure data table for environmental sensors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/wsd-enviromental-unit-measure.md)
 
-## Related
-
-- [[provider-configuration-ovw|Provider connector configuration]]
-- [[workplace-connectors-landing-page|Workplace Connectors]]

@@ -12,7 +12,7 @@ breadcrumb: [Case and account escalation, Configure case management, Case manage
 
 # Case and account escalation components
 
-The roles, modules, and tables installed with the [[customer-service-case-escalation|case and account escalation]] feature.
+The roles, modules, and tables installed with the case and account escalation feature.
 
 ## Roles
 
@@ -40,7 +40,7 @@ De-escalation requester \(sn\_customerservice.deescalation\_requester\)
 
 </td><td>
 
-Can de-[[osp-escalate-case|escalate a case]] or account. This role contains the sn\_customerservice.escalation\_requester role.
+Can de-escalate a case or account. This role contains the sn\_customerservice.escalation\_requester role.
 
 </td></tr><tr><td>
 
@@ -75,7 +75,7 @@ Escalation Administrator \(sn\_crm\_escalation\_admin\)
 
 The case and account escalation feature adds the Escalations module to the Customer Service menu:
 
--   **All**: [[migration-lists|lists]] all escalation records for cases and accounts.
+-   **All**: lists all escalation records for cases and accounts.
 -   **Escalation Templates**: lists the case and account escalation templates.
 -   **Escalation Severity**: lists the types of escalation severity.
 
@@ -119,9 +119,3 @@ Stores escalation severity definition records.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[customer-service-case-escalation|Case and account escalation]]
-- [[osp-escalate-case|Escalate a case]]
-- [[migration-lists|Lists]]

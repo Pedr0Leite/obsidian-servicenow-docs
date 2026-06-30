@@ -18,7 +18,7 @@ Create a timeline page to track any activity bounded by two dates.
 
 ## Procedure
 
-1.  Navigate to **System UI** &gt; **[[c_TimelinePages|Timeline Pages]]** and create a new record \(see table for field descriptions\).
+1.  Navigate to **System UI** &gt; **Timeline Pages** and create a new record \(see table for field descriptions\).
 
     |Field|Description|
     |-----|-----------|
@@ -37,7 +37,7 @@ Create a timeline page to track any activity bounded by two dates.
     |Show tooltips|Select this check box to display tooltips when the cursor rests on a span.|
     |Tooltip text fields|Select from the specified table the fields whose values appear as tooltips. For example, you might select **Category**, **Assigned to**, and **Due date**.|
     |Filtering and Sorting|
-    |Condition|Create a condition to filter the [[hs-results|results]] that appear in the timeline. For example, a condition that displays only active, high priority incidents. [[t_AddingTheConditionCountWidget|Add the condition count to a condition field]] to preview what records will be returned by this condition set.|
+    |Condition|Create a condition to filter the results that appear in the timeline. For example, a condition that displays only active, high priority incidents. [Add the condition count to a condition field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddingTheConditionCountWidget.md) to preview what records will be returned by this condition set.|
     |Perform custom sort?|Select this check box to enable custom sorting. Configure the sort order by selecting fields in the **Sort by** and **Sort by order** fields.|
     |Sort by|Select any field in the list for sorting the spans in the timeline. Common practice is to select either the **Start date field** or the **End date field** as the sorting field. If you select a different sorting field, also include that field in the list of **Tooltip text fields** to give users a way of discovering the sort criteria.|
     |Sort by order|Select the sort order for the sorting fields selected.|
@@ -50,8 +50,3 @@ Create a timeline page to track any activity bounded by two dates.
 
 **Parent Topic:**[Timeline pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_TimelinePages.md)
 
-## Related
-
-- [[t_AddingTheConditionCountWidget|Add the condition count to a condition field]]
-- [[c_TimelinePages|Timeline pages]]
-- [[hs-results|Results]]

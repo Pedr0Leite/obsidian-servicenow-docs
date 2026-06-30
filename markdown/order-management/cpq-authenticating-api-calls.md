@@ -16,13 +16,13 @@ Secure CPQ API calls with admin API keys, JWT tokens, session cookies, or Google
 
 ## Authenticating runtime API calls
 
-When [[cpq-using|using CPQ]] in a headless manner, you authenticate your configuration session by using a runtime client. To create a runtime client, navigate to the CPQ Admin UI, click **[[cpq-utilities|Utilities]]** in the sidebar, and then click **Runtime Clients**. From here, specify the origin of your call, whether it is an external URL or an origin specified in the header of your call. You can also give your client an expiration date. After you save your client, you can copy the token and use it as the bearer token in other runtime API calls.
+When using CPQ in a headless manner, you authenticate your configuration session by using a runtime client. To create a runtime client, navigate to the CPQ Admin UI, click **Utilities** in the sidebar, and then click **Runtime Clients**. From here, specify the origin of your call, whether it is an external URL or an origin specified in the header of your call. You can also give your client an expiration date. After you save your client, you can copy the token and use it as the bearer token in other runtime API calls.
 
 \[Omitted image "cpq-menu-runtime-clients.png"\] Alt text: Menu
 
 \[Omitted image "cpq-edit-runtime-client-dialog.png"\] Alt text: Edit Run time client
 
-For more information on CPQ runtime calls, see [[intro_to_runtime_api_calls|Intro to runtime API calls]].
+For more information on CPQ runtime calls, see [Intro to runtime API calls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/intro_to_runtime_api_calls.md).
 
 ## Authenticating admin API calls
 
@@ -38,7 +38,7 @@ There are four ways to authenticate your admin API calls:
 
     To ensure tighter security for long-term admin API authentication, we leverage the Salesforce JWT web token. For steps to initialize this access flow, see:
 
-    [[admin-apis-authentication-via-salesforce-connected-app|Admin APIs: Authentication using a Salesforce-connected app]]
+    [Admin APIs: Authentication using a Salesforce-connected app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/admin-apis-authentication-via-salesforce-connected-app.md)
 
 -   Session cookies
 
@@ -56,9 +56,4 @@ There are four ways to authenticate your admin API calls:
 
     [Setting up a Google IdP JWT Token for Headless admin API Authentication](https://logikio.atlassian.net/wiki/spaces/CS/pages/1614479620/Setting+up+a+Google+IdP+JWT+Token+for+Headless+Admin+API+Authentication)
 
-## Related
 
-- [[intro_to_runtime_api_calls|Intro to runtime API calls]]
-- [[admin-apis-authentication-via-salesforce-connected-app|admin apis authentication via salesforce connected app]]
-- [[cpq-using|Using CPQ]]
-- [[cpq-utilities|Utilities]]

@@ -15,7 +15,7 @@ breadcrumb: [Audit entry for GRC objects, Exploring Audit Management, Audit Mana
 
 # Duplicate a second-line record as an audit entry
 
-Use the **Duplicate as [[audit-entry-overview|audit entry]]** action to copy a second-line control, control objective, risk, or risk statement into a new third-line record. Each source record can be duplicated only once.
+Use the **Duplicate as audit entry** action to copy a second-line control, control objective, risk, or risk statement into a new third-line record. Each source record can be duplicated only once.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_audit\_ws.third\_line\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Audit** &gt; **[[audit-management-overview-ws|Audit Workspace]]**.
+1.  Navigate to **All** &gt; **Audit** &gt; **Audit Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -51,7 +51,3 @@ Role required: sn\_audit\_ws.third\_line\_manager
 
 **Parent Topic:**[Audit entry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/audit-entry-overview.md)
 
-## Related
-
-- [[audit-entry-overview|Audit entry]]
-- [[audit-management-overview-ws|Audit Workspace]]

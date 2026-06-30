@@ -14,11 +14,11 @@ breadcrumb: [Use, Document Management, Document Services, Manage content capabil
 
 # Document repository
 
-In the [[doc-management-landing|Document Management]] application, you can create, view, update, share documents in the document repository. When new documents are created, they’re placed into a record with metadata such as name, description, type, and so on. The record contains all the versions of the document so you can track and update the documents.
+In the Document Management application, you can create, view, update, share documents in the document repository. When new documents are created, they’re placed into a record with metadata such as name, description, type, and so on. The record contains all the versions of the document so you can track and update the documents.
 
-You can access the document by opening one of its versions. A document can contain numerous versions. The document record contains [[reference-document-management|references]] to the documents and not contain actual document files.
+You can access the document by opening one of its versions. A document can contain numerous versions. The document record contains references to the documents and not contain actual document files.
 
-When you want to add a document to a record, upload it as an [[attachment|attachment]]. Each time you update the document, you can create a new version. Alternatively, you can provide the link to a document in the URL field. You can include the review and approval workflow before publishing a document.
+When you want to add a document to a record, upload it as an attachment. Each time you update the document, you can create a new version. Alternatively, you can provide the link to a document in the URL field. You can include the review and approval workflow before publishing a document.
 
 You can generate and share the document link with authorized users for collaboration or to include the link on any page. The default version of the shared document will have public access and can be accessed by anyone within or outside the organization.
 
@@ -37,13 +37,7 @@ Set sharing permissions on external cloud files using document configuration.
 -   **[Delete a document link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/delete-document-link.md)**  
 Delete a shared link to remove existing user access to the document.
 -   **[Delete documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/delete-a-doc.md)**  
-[[delete-a-doc|Delete documents]] in the document repository.
+Delete documents in the document repository.
 
 **Parent Topic:**[Using Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/using-document-management.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[reference-document-management|References]]
-- [[attachment|Attachment]]
-- [[delete-a-doc|Delete documents]]

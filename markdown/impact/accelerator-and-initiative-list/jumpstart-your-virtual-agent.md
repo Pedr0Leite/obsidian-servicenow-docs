@@ -18,7 +18,7 @@ This accelerator provides guidance on realizing benefits with the ITSM Virtual A
 
 ## Accelerator Overview
 
-Jumpstart Your Virtual Agent provides [[impact-landing-page|Impact]] Customers with an applied demonstration of ITSM Virtual Agent capabilities. This includes a technical overview of how to set up ITSM Virtual Agent, resources, training, and services available to successfully implement ITSM Virtual Agent. It aims to [[io-help|help]] Customers remove barriers and accelerate Virtual Agent adoption by demonstrating ITSM Virtual Agent capabilities in a temporary instance, which is a copy of the Customer’s selected production environment.
+Jumpstart Your Virtual Agent provides Impact Customers with an applied demonstration of ITSM Virtual Agent capabilities. This includes a technical overview of how to set up ITSM Virtual Agent, resources, training, and services available to successfully implement ITSM Virtual Agent. It aims to help Customers remove barriers and accelerate Virtual Agent adoption by demonstrating ITSM Virtual Agent capabilities in a temporary instance, which is a copy of the Customer’s selected production environment.
 
 **Note:**
 
@@ -67,7 +67,3 @@ This accelerator does not cover content related to the Now Assist \(GenAI\) Virt
 
 **Note:** Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the [Impact Accelerator Terms Matrix](https://www.servicenow.com/legal/servicenow-impact.html).
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]

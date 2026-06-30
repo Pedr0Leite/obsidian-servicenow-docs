@@ -14,16 +14,16 @@ breadcrumb: [Goal Framework and Goal Framework for SPM, Strategic Portfolio Mana
 
 # Configuring Goal Framework and Goal Framework for SPM
 
-As an administrator, use this section to set up the [[goal-framework|Goal Framework and Goal Framework for SPM]] applications.
+As an administrator, use this section to set up the Goal Framework and Goal Framework for SPM applications.
 
 -   **[Install Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/install-goal-framework.md)**  
 You can install the Goal Framework \(sn\_gf\) and Goal Framework for SPM \(sn\_gfa\) applications if you have the admin role.
 -   **[Migrate existing goals data to Goal Framework tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/migrate-existing-goals-data.md)**  
 If your organization uses the legacy goal and strategy tables \(Goal, Enterprise Strategy, Business Unit Strategy, and Strategic Objective\), you can migrate the existing data to the Goal Framework tables by running the scheduled job.
 -   **[Configure goal preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/configure-goal-preferences.md)**  
-[[configure-goal-preferences|Configure goal preferences]] to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
+Configure goal preferences to manage goals such as the calendar type used for goal setting, weighted average calculation for goal progress, and deletion of goals and targets.
 -   **[Configure a table for an assigned entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/configure-assigned-entity.md)**  
-[[configure-assigned-entity|Configure a table for an assigned entity]] type so that the goal user can associate goals with the required assigned entity.
+Configure a table for an assigned entity type so that the goal user can associate goals with the required assigned entity.
 -   **[Import goals and targets data from a spreadsheet](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/import-goals-and-targets-data-from-a-spreadsheet.md)**  
 With the admin role, you can import your existing goals and targets data from a spreadsheet to the Goal Framework tables.
 -   **[Update a scheduled job to automate the Actual value of the targets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/schedule-a-job-to-automate-actual-value-of-the-targets.md)**  
@@ -33,13 +33,7 @@ Configure target sources for target automation so that the goal user can define 
 -   **[Migrate target breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/migrate-target-breakdowns.md)**  
 After upgrading to Goal Framework for SPM v2.3.0 or later, run the **Migrate BreakdownInterval To Checkinfrequency** scheduled job to migrate the existing values from the **Review frequency** field to the **Check-in frequency** field in the target records.
 -   **[Defining a custom unit of measure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/defining-a-custom-unit-of-measure-gf.md)**  
-[[defining-a-custom-unit-of-measure-gf|Defining a custom unit of measure]] helps the goal users to set the unit of measure for targets as per their choice. Unit of measures are two types, quantitative and qualitative.
+Defining a custom unit of measure helps the goal users to set the unit of measure for targets as per their choice. Unit of measures are two types, quantitative and qualitative.
 
 **Parent Topic:**[Goal Framework and Goal Framework for SPM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework.md)
 
-## Related
-
-- [[goal-framework|Goal Framework and Goal Framework for SPM]]
-- [[configure-goal-preferences|Configure goal preferences]]
-- [[configure-assigned-entity|Configure a table for an assigned entity]]
-- [[defining-a-custom-unit-of-measure-gf|Defining a custom unit of measure]]

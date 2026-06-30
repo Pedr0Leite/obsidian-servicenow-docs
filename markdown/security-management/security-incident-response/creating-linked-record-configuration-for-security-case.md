@@ -28,7 +28,7 @@ Role required: admin and sn\_msi.workspace\_admin
 
 2.  Select **New**.
 
-3.  Fill the form with the required columns and write a field [[mapping-logrhythm|mapping]] script.
+3.  Fill the form with the required columns and write a field mapping script.
 
     \[Omitted image "linked-record-fill-form.png"\] Alt text: Fill the form
 
@@ -68,7 +68,7 @@ Can promote to MSI
 
 True, select this check box to promote the security case to MSI.**Note:**
 
--   Link and Unlink security case records to major security incidents both from [[msim-workspace|Major Security Incident Management workspace]]. Also, Unlink record functionality is visible only for the linked records.
+-   Link and Unlink security case records to major security incidents both from Major Security Incident Management workspace. Also, Unlink record functionality is visible only for the linked records.
     -   This will enable the link, promote, and propose to Security Case to Major Security Incident using classic environment actions, but those UI actions will not be available out of the box. Each UI action needs to be created manually. For more information, see [Step 3. Create UI actions for the Source Table for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/creating-ui-actions-for-source-table.md).
     -   Link/Promote/Propose UI action are available for Security Incident, Remediation Task, and Security Case out of the box.
 -   MSIM workspace linked record page will show the linked Security Case records.
@@ -100,7 +100,3 @@ This script describes the fields from source tables record will mapped to newly 
 </table>
 **Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[msim-workspace|Major Security Incident Management workspace]]

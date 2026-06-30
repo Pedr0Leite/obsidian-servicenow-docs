@@ -25,11 +25,11 @@ Role required: sn\_lg\_ops.legal\_user
 You can also submit a legal request through your mobile device or the Virtual Agent chat.
 
 -   For more information on submitting a legal request through a mobile device, see [Submit a legal request through Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-mobile/submit-legal-request-mobile.md).
--   To submit a legal request through Virtual Agent chat, you must have the [[legal-va-conversations|Legal Virtual Agent Conversations]] application installed on your instance. For more information, see [Legal Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md).
+-   To submit a legal request through Virtual Agent chat, you must have the Legal Virtual Agent Conversations application installed on your instance. For more information, see [Legal Virtual Agent Conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legal-va-conversations.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you're using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting a request from the **Service Catalog**.
 
@@ -52,7 +52,7 @@ You can also submit a legal request through your mobile device or the Virtual Ag
 
 -   The request is assigned to a group or user in the legal department based on the [assignment rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/create-assignment-rules-intake-form.md) set in the associated practice area.
 -   The Standard Ticket page displays that has the following tabs to perform different tasks:
-    -   [[activity-lxp|Activity]]: Track the activity history of the request and post messages for the fulfiller working on the request.
+    -   Activity: Track the activity history of the request and post messages for the fulfiller working on the request.
     -   Attachments or Documents: Upload and manage the documents in the legal request.
 
         **Note:** If the external storage option is enabled, the **Documents** tab is displayed. Otherwise, the **Attachments** tab is displayed.
@@ -62,8 +62,3 @@ You can also submit a legal request through your mobile device or the Virtual Ag
 
 **Parent Topic:**[Using Legal Request Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-request-management/submitting-legal-request.md)
 
-## Related
-
-- [[legal-va-conversations|Legal Virtual Agent Conversations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

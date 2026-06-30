@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # Setup or update your direct deposit
 
-As an employee, setup or update direct deposit from the [[employee-center-landing-page|Employee Center]].
+As an employee, setup or update direct deposit from the Employee Center.
 
 ## Before you begin
 
@@ -114,6 +114,3 @@ Displays when Percentage is selected for Deposit type. Enter the percentage amou
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

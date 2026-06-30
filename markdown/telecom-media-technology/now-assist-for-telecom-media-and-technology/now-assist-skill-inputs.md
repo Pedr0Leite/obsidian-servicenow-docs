@@ -422,7 +422,7 @@ Input fields
 
 </td><td>
 
--   [[tmt-service-bridge-both-landing-page|Service Exchange]] integration
+-   Service Exchange integration
 -   Short description
 -   Description
 -   Go live date
@@ -1050,7 +1050,3 @@ Input fields
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

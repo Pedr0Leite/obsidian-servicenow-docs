@@ -12,7 +12,7 @@ breadcrumb: [Now Assist for Retail Service Management \(RSM\), Retail]
 
 # Configure Now Assist for Retail Service Management \(RSM\)
 
-The collection comprises of [[rahi-retail-now-assist-for-retail|Now Assist for Retail Service Management \(RSM\)]] and RSM AI agent collection. The Now Assist for Retail Service Management \(RSM\) and RSM AI agent collection together enable the store inquiry AI agent.
+The collection comprises of Now Assist for Retail Service Management \(RSM\) and RSM AI agent collection. The Now Assist for Retail Service Management \(RSM\) and RSM AI agent collection together enable the store inquiry AI agent.
 
 -   The HQ agent can leverage the store inquiry AI agent either manually or by enabling or configuring the trigger.
 -   A trigger allows the AI agent to launch automatically without requiring a HQ agent request when the trigger condition is met.
@@ -20,6 +20,3 @@ The collection comprises of [[rahi-retail-now-assist-for-retail|Now Assist for R
 -   By default, the trigger being shipped is disabled and HQ agent can navigate to the AI agent and enable the trigger.
 -   Now Assist for doc Intel should be upgraded to 6.0.0.
 
-## Related
-
-- [[rahi-retail-now-assist-for-retail|Now Assist for Retail Service Management \(RSM\)]]

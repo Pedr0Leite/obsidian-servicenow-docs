@@ -14,7 +14,7 @@ breadcrumb: [Configure File Explorer Component, Configure, Major Security Incide
 
 # File Explorer Activity Stream in Workspace
 
-Use the File Explorer section from the [[msim-workspace|Major Security Incident Management workspace]] to display the folders and files, the sequence those were created in Microsoft SharePoint document library.
+Use the File Explorer section from the Major Security Incident Management workspace to display the folders and files, the sequence those were created in Microsoft SharePoint document library.
 
 The activity stream lists all the automation activity postings whenever any folder and file activity, or logs that occur during the Major Security Incident resolution. The activity stream structure is aligned in the same format of the Microsoft SharePoint library which shows the folders that were created and which users or user groups were assigned to those folders.
 
@@ -22,6 +22,3 @@ Activity Stream enables the workspace mangers and other user or user group\(s\) 
 
 **Parent Topic:**[Configure File Explorer Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/file-explorer.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]

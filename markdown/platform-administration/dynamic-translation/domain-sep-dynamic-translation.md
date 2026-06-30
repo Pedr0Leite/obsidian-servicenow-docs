@@ -14,7 +14,7 @@ breadcrumb: [Reference for Dynamic Translation, Dynamic Translation, Translation
 
 # Domain separation and Dynamic Translation
 
-Domain separation is supported in [[dynamic-translation|Dynamic Translation]] and is configured to apply to translator [[clone-configurations-tab|configurations]] and Exclusion Framework. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in Dynamic Translation and is configured to apply to translator configurations and Exclusion Framework. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -70,7 +70,7 @@ A domain can have multiple default translator configurations. In this case also,
 
 \[Omitted image "domain-sep-tc.png"\] Alt text: Domain separation in Dynamic Translation
 
-In Domain B, both TC1 and TC2 are visible. From Domain B, TC2 is first set as the default translator configuration. From Domain A, TC1 is then overridden and set as the default translator configuration. This [[hs-results|results]] in multiple default translator configurations in Domain B. In this case, when in Domain B, TC2 is used as the default translator configuration for dynamic translation.
+In Domain B, both TC1 and TC2 are visible. From Domain B, TC2 is first set as the default translator configuration. From Domain A, TC1 is then overridden and set as the default translator configuration. This results in multiple default translator configurations in Domain B. In this case, when in Domain B, TC2 is used as the default translator configuration for dynamic translation.
 
 ## Overriding a translator configuration
 
@@ -100,8 +100,3 @@ The Exclusion Framework module in Dynamic Translation supports domain separation
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]

@@ -14,7 +14,7 @@ breadcrumb: [Password Reset, Local authentication, Authentication, Access Manage
 
 # Configure Password Reset properties
 
-You can specify properties that configure the [[c_SelfServicePasswordReset|Password Reset]] experience for end [[users|users]].
+You can specify properties that configure the Password Reset experience for end users.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: password\_reset\_admin
 
 While there are no range limits for the values you can enter for properties, consider using only positive integer values starting at 1. When you determine the limit for the upper range of a property, consider the task that the user is performing.
 
-For example, you would not want to allow 100 attempts for users to verify their [[identity-landing|identity]]. A more common value is 3 attempts. Similarly, you may not want to force users who are completing the enrollment process to spend time selecting and answering 30 security questions. The more commonly used number of security questions is between 5 and 7.
+For example, you would not want to allow 100 attempts for users to verify their identity. A more common value is 3 attempts. Similarly, you may not want to force users who are completing the enrollment process to spend time selecting and answering 30 security questions. The more commonly used number of security questions is between 5 and 7.
 
 ## Procedure
 
@@ -34,8 +34,4 @@ For example, you would not want to allow 100 attempts for users to verify their 
 
 2.  Update settings as needed and then click **Save**.
 
-## Related
 
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[users|Users]]
-- [[identity-landing|Identity]]

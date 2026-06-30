@@ -32,7 +32,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -44,7 +44,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -102,8 +102,8 @@ Functional impact
 
 </td><td>
 
-This remediation modified the SessionID when user navigates from unauthenticated page to authenticated pages. -   If you are using a proxy or hardcoding the SessionID when a user first [[logs|logs]] in, or for any purpose, then there can be a potential functionality impact.
--   If you are using the [[c_SAML2.0WebBrowserSSOProfile|SAML]] 2.0 plugin for Single Sign-on [[c_Authentication|authentication]], it might interfere with the session information sharing between the instance and the [[identity-landing|Identity]] Provider. In such case, you can set this property to false.
+This remediation modified the SessionID when user navigates from unauthenticated page to authenticated pages. -   If you are using a proxy or hardcoding the SessionID when a user first logs in, or for any purpose, then there can be a potential functionality impact.
+-   If you are using the SAML 2.0 plugin for Single Sign-on authentication, it might interfere with the session information sharing between the instance and the Identity Provider. In such case, you can set this property to false.
 
 </td></tr><tr><td>
 
@@ -116,11 +116,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[logs|Logs]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[c_Authentication|Authentication]]
-- [[identity-landing|Identity]]

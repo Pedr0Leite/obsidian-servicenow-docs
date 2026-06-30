@@ -12,7 +12,7 @@ breadcrumb: [Configure photo search, Mobile photo search, Global search, Launche
 
 # Enable photo search on your launcher screen
 
-Enable photo search on your launcher screen record in [[mab-concept|Mobile App Builder]] to present the photo search option for your users.
+Enable photo search on your launcher screen record in Mobile App Builder to present the photo search option for your users.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: admin
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select **Screens** from the menu, and then select the launcher screen that you want to update.
 
@@ -39,10 +39,5 @@ Role required: admin
 6.  Select **Save**.
 
 
-**Parent Topic:**[[sg-configure-image-search|Configure photo search]]
+**Parent Topic:**[Configure photo search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md)
 
-## Related
-
-- [[sg-configure-image-search|Configure photo search]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]

@@ -38,7 +38,7 @@ Details
 
 </td><td>
 
-Details associated with the channel partner.To learn more information about the details, see [[create-channel-partner-record|Create Channel Partner record]].
+Details associated with the channel partner.To learn more information about the details, see [Create Channel Partner record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-channel-partner-record.md).
 
 </td></tr><tr><td>
 
@@ -110,13 +110,8 @@ Register Partner Staff
 
 </td><td>
 
-Register staff to an enterprise. To learn more about registering partner staff, see [[register-partner-staff-on-workspace|Register Partner Staff on workspace]].
+Register staff to an enterprise. To learn more about registering partner staff, see [Register Partner Staff on workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/register-partner-staff-on-workspace.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[partner-relationship-management-reference|Partner Relationship Management reference]]
+</table>**Parent Topic:**[Partner Relationship Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management-reference.md)
 
-## Related
-
-- [[create-channel-partner-record|Create Channel Partner record]]
-- [[register-partner-staff-on-workspace|Register Partner Staff on workspace]]
-- [[partner-relationship-management-reference|Partner Relationship Management reference]]

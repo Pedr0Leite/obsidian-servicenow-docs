@@ -14,7 +14,7 @@ breadcrumb: [Change success score, Configure, Change Management, IT Service Mana
 
 # Success score indicators
 
-[[change-success-score|Change Success score]] contains Performance Analytics indicators for data collection. Indicators define a performance measurement taken at regular intervals of a business service, an activity, or organizational behavior. These performance measurements result in a series of indicator scores over time.
+Change Success score contains Performance Analytics indicators for data collection. Indicators define a performance measurement taken at regular intervals of a business service, an activity, or organizational behavior. These performance measurements result in a series of indicator scores over time.
 
 The following are the Change Success Score indicators that are used to collect data daily for the changes completed on the previous day.
 
@@ -51,6 +51,3 @@ For more information on the PA indicators, see [Performance Analytics indicators
 
 **Parent Topic:**[Change success score](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-success-score.md)
 
-## Related
-
-- [[change-success-score|Change success score]]

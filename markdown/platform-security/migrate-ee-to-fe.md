@@ -18,25 +18,18 @@ Migrate from Edge Encryption to Field Encryption to take advantage of the latest
 
 This topic covers, which comprise the following steps:
 
-1.  Migrate columns and attachment from [[edge-encryption|Edge Encryption]] to [[field-encryption|Field Encryption]].
+1.  Migrate columns and attachment from Edge Encryption to Field Encryption.
 2.  Stop and disabling Edge Encryption proxy servers.
 3.  De-tokenize your data
 4.  Decrypt Service Catalog item variables.
 
 ## Limitations
 
--   Field Encryption doesn’t currently support tokenizing data in the same way that Edge Encryption does. Data that is tokenized through Edge Encryption must be included in an encrypted field [[sc-configuration|configuration]] for Field Encryption.
+-   Field Encryption doesn’t currently support tokenizing data in the same way that Edge Encryption does. Data that is tokenized through Edge Encryption must be included in an encrypted field configuration for Field Encryption.
 -   Field Encryption doesn’t currently support encrypting Service Catalog item variables.
 
--   **[[migrate-ee-to-fe-1|Configure Field Encryption for your Edge Encrypted fields]]**  
+-   **[Configure Field Encryption for your Edge Encrypted fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/migrate-ee-to-fe-1.md)**  
 Before migrating your existing edge encrypted fields to Field Encryption, you must configure field encryption for these fields.
 
-**Parent Topic:**[[configuring-column-level-encryption|Configuring Field Encryption]]
+**Parent Topic:**[Configuring Field Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configuring-column-level-encryption.md)
 
-## Related
-
-- [[migrate-ee-to-fe-1|Configure Field Encryption for your Edge Encrypted fields]]
-- [[configuring-column-level-encryption|Configuring Field Encryption]]
-- [[edge-encryption|Edge Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[sc-configuration|Configuration]]

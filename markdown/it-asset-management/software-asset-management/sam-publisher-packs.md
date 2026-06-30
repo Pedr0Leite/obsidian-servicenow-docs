@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management, IT Asset Management]
 
 # Supported software publisher licenses
 
-With [[c_SoftwareAssetMgmt|Software Asset Management]], there are several publisher packs that can be used to extend functionality between the ServiceNow AI Platform and your third-party software applications.
+With Software Asset Management, there are several publisher packs that can be used to extend functionality between the ServiceNow AI Platform and your third-party software applications.
 
 The following Software Asset Management publisher pack plugins can be requested from ServiceNow personnel for activation. See [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md) for more information on how to request these plugins.
 
@@ -116,28 +116,19 @@ View compliance analysis results for Microsoft Office 365 and Adobe Cloud on the
 **Note:** The Software Asset Management Professional for Adobe publisher pack add-on must be activated to see the Office 365 and Adobe Cloud dashboard.
 
 -   **[Software Asset Management publisher pack for Adobe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/adobe-publisher-pack.md)**  
-Use the [[adobe-publisher-pack|Software Asset Management publisher pack for Adobe]] to track compliance using Adobe - specific licensing metrics and integrate with Adobe Cloud.
+Use the Software Asset Management publisher pack for Adobe to track compliance using Adobe - specific licensing metrics and integrate with Adobe Cloud.
 -   **[Software Asset Management publisher pack for Citrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/citrix-publisher-pack.md)**  
 Use the Citrix publisher pack for the optimization and reconciliation of your Citrix products. You can track licensing positions for your Citrix users and devices so that you can determine your license compliance.
 -   **[Software Asset Management publisher pack for IBM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/ibm-publisher-pack.md)**  
-Use the [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]] to track and optimize licensing for your IBM software products. You can also use the publisher pack to track and optimize licensing for the Red Hat Enterprise Linux Server and Red Hat Enterprise Linux for Virtual Datacenters products.
+Use the Software Asset Management publisher pack for IBM to track and optimize licensing for your IBM software products. You can also use the publisher pack to track and optimize licensing for the Red Hat Enterprise Linux Server and Red Hat Enterprise Linux for Virtual Datacenters products.
 -   **[Software Asset Management publisher pack for Microsoft](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/microsoft-publisher-pack.md)**  
-The [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]] helps you track your license compliance position using Microsoft licensing metrics.
+The Software Asset Management publisher pack for Microsoft helps you track your license compliance position using Microsoft licensing metrics.
 -   **[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)**  
-Use the [[oracle-publisher-pack|Software Asset Management publisher pack for Oracle]] to track and optimize licensing for your Oracle products.
+Use the Software Asset Management publisher pack for Oracle to track and optimize licensing for your Oracle products.
 -   **[Software Asset Management publisher pack for SAP](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sap-publisher-pack.md)**  
-Use the [[sap-publisher-pack|Software Asset Management publisher pack for SAP]] to manage and optimize your SAP licenses. Get comprehensive visibility into your SAP license compliance and uncover potential savings.
+Use the Software Asset Management publisher pack for SAP to manage and optimize your SAP licenses. Get comprehensive visibility into your SAP license compliance and uncover potential savings.
 -   **[Software Asset Management publisher pack for VMware](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/vmware-publisher-pack.md)**  
-Use the [[vmware-publisher-pack|Software Asset Management publisher pack for VMware]] to track and optimize licensing for your VMware software products.
+Use the Software Asset Management publisher pack for VMware to track and optimize licensing for your VMware software products.
 
 **Parent Topic:**[Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SoftwareAssetMgmt.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[adobe-publisher-pack|Software Asset Management publisher pack for Adobe]]
-- [[ibm-publisher-pack|Software Asset Management publisher pack for IBM]]
-- [[microsoft-publisher-pack|Software Asset Management publisher pack for Microsoft]]
-- [[oracle-publisher-pack|Software Asset Management publisher pack for Oracle]]
-- [[sap-publisher-pack|Software Asset Management publisher pack for SAP]]
-- [[vmware-publisher-pack|Software Asset Management publisher pack for VMware]]

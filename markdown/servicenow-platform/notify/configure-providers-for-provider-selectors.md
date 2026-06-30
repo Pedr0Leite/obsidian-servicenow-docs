@@ -18,7 +18,7 @@ Configure a conference provider or a phone number to be used as choices for init
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_admin
+Role required: notify\_admin
 
 ## About this task
 
@@ -53,6 +53,3 @@ Role required: [[notify-landing-page|notify]]\_admin
 
 **Parent Topic:**[Configuring Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configuring-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

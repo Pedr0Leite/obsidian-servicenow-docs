@@ -14,7 +14,7 @@ breadcrumb: [Using Supplier Collaboration Portal, Use, Supplier Lifecycle Operat
 
 # View supplier payment information from the Supplier Collaboration Portal
 
-As a [[supplier-contact|supplier contact]], view the payment information of a [[supplier|supplier]] in the [[supplier-central|Supplier Collaboration Portal]].
+As a supplier contact, view the payment information of a supplier in the Supplier Collaboration Portal.
 
 ## Before you begin
 
@@ -69,15 +69,9 @@ The Payment Information section displays the details about your banks. You can d
 
 [Complete a risk assessment from the Supplier Collaboration Portal]()
 
-[Create a [[universal-request|Universal Request]] from the Supplier Collaboration Portal]()
+[Create a Universal Request from the Supplier Collaboration Portal]()
 
 [Raising requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/supp-catalog-req.md)
 
 [View all your requests from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supp-case-sc.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[universal-request|Universal Request]]

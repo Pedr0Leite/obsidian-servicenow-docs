@@ -16,7 +16,7 @@ Show changes in data over time. Use different time series visualizations to emph
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -30,11 +30,11 @@ When you are selecting a visualization for a time series, consider whether you w
 
 For information about the use of a Time series visualization in a dashboard, see [the Developer Site](https://developer.servicenow.com/dev.do#!/reference/now-experience/xanadu/shared-components/now-vis-timeseries-wrapper/usage). This site gives information about Time series data visualization components in the UI Builder, and some configuration options may differ from the Visualization Designer.
 
-For an example of creating a time series visualization, see [[dv-example-line|Time series data visualization example]].
+For an example of creating a time series visualization, see [Time series data visualization example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-line.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
 2.  Select **Create data visualization**.
 
@@ -171,11 +171,11 @@ Specify the text color of the title. The default title color is black, but you c
 </td></tr></tbody>
 </table>4.  Choose a data source.
 
-    For general descriptions of the data sources, see [[data-sources-visualizations|Data sources for data visualizations]].
+    For general descriptions of the data sources, see [Data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-sources-visualizations.md).
 
     -   Table \(available in the base system\). When you select a table, you can filter it by custom or preconfigured conditions. Custom conditions can include questions or Service Catalog variables.
 
-        Configured [[c_ReportSources|report sources]] appear in the **Predefined conditions** list. For more information, see [Report sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportSources.md).
+        Configured report sources appear in the **Predefined conditions** list. For more information, see [Report sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_ReportSources.md).
 
         To help you create a custom filter, there is a preview list of records that would be included in the visualization. You can change which fields are shown as columns and the width of columns in the list actions.
 
@@ -192,15 +192,15 @@ Specify the text color of the title. The default title color is black, but you c
         You might have a multiple select \(is one of\) or dynamic \(is \(dynamic\)\) operator on the breakdown element filter. These operators require the indicator and breakdown to support them. For more information about the configurations that support these operators, see ["Is one of" and "Is \(Dynamic\)" operators on breakdown conditions in data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/condition-operators-ind-bkdowns.md).
 
     -   MetricBase \(available if MetricBase is enabled\). When you select a MetricBase data source, you have the option of constructing a custom filter for it using conditions and related list conditions, as with Table data sources.
-    -   [[user-exp-analytics-landing|Usage Insights]] \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [[uxa-data-sources|Usage Insights data sources for data visualizations]].
-    **Note:** You can select multiple data sources for this visualization, but they must be of the same type: table, indicator, Usage Insights, or MetricBase. For more information, see [[multiple-data-sources|Multiple data sources]].
+    -   Usage Insights \(available with the User Experience PAR Integration application, to users with a required role\). Choose one of up to three KPIs included with this application, depending on the visualization type. For more information, see [Usage Insights data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/uxa-data-sources.md).
+    **Note:** You can select multiple data sources for this visualization, but they must be of the same type: table, indicator, Usage Insights, or MetricBase. For more information, see [Multiple data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/multiple-data-sources.md).
 
 5.  Select the options for your data source.
 
-    -   If your visualization represents table data, go to [[config-dv-time-series-table-data|Table data options for time series data visualizations]].
-    -   If your visualization represents indicator data, go to [[config-dv-time-series-ind-data|Indicator data options for time series data visualizations]].
-    -   If your visualization represents Usage Insights data, go to [[config-dv-time-series-uxa-data|Usage Insights data options for time series data visualizations]].
-    -   If your visualization represents MetricBase data, go to [[config-dv-time-series-mb-data|MetricBase data options for time series data visualizations]].
+    -   If your visualization represents table data, go to [Table data options for time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-table-data.md).
+    -   If your visualization represents indicator data, go to [Indicator data options for time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-ind-data.md).
+    -   If your visualization represents Usage Insights data, go to [Usage Insights data options for time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-uxa-data.md).
+    -   If your visualization represents MetricBase data, go to [MetricBase data options for time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-mb-data.md).
 6.  Under **Presentation**, provide display and color information.
 
 <table id="table_gvk_2mr_qtb"><thead><tr><th>
@@ -213,7 +213,7 @@ Description
 
 </th></tr></thead><tbody><tr><td colspan="2">
 
-Display settings: Each visualization type, such as Area and Column, has a different set of display settings. See [[display-settings-ts-charts|Display settings for different time series data visualizations]].
+Display settings: Each visualization type, such as Area and Column, has a different set of display settings. See [Display settings for different time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/display-settings-ts-charts.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -371,8 +371,8 @@ Set color type
 Type of color scheme to apply to the component. Options include:
 
 -   Default: A color or set of colors that come from the UX Theme that is applied to the instance. For more information, see .
--   Color palette: List of [[color-palettes|color palettes]] to select from predefined system palettes in the Chart Color Scheme \[pa\_chart\_color\_schemes\] table. For grouped or stacked data, the colors apply in order from highest value to lowest. For multiple data sources, palette colors apply in the order of data sources. For example, the first color of a palette applies to the first data source, and the second palette color applies to the second source. All visualizations that use the same color palette show the same colors, regardless of what data they display.
--   Fixed element color: Use a specific color from the [[c_ChartColors|Chart Colors]] table \[sys\_report\_chart\_color\] for each element. All data visualizations that use fixed element colors show the same element, such as critical incidents in the Global scope, in the same color.
+-   Color palette: List of color palettes to select from predefined system palettes in the Chart Color Scheme \[pa\_chart\_color\_schemes\] table. For grouped or stacked data, the colors apply in order from highest value to lowest. For multiple data sources, palette colors apply in the order of data sources. For example, the first color of a palette applies to the first data source, and the second palette color applies to the second source. All visualizations that use the same color palette show the same colors, regardless of what data they display.
+-   Fixed element color: Use a specific color from the Chart Colors table \[sys\_report\_chart\_color\] for each element. All data visualizations that use fixed element colors show the same element, such as critical incidents in the Global scope, in the same color.
 
 This option is available only for Table data sources and only if no more than one data source or metric is added, and a Group by is defined.
 
@@ -403,13 +403,13 @@ Action
 
 </td><td>
 
-Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [[dv-chart-interactions|Chart interactions in a data visualization]].
+Choose the event that occurs when a user clicks in a visualization or one of its segments. Choices depend on the visualization type and data source. Applies only when **Allow chart interaction** is on. For more information, see [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
--   **Go to data view** opens a list view, [[kpi-details|KPI Details]] page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [[visualization-drilldown-in-config-ws|Data views for different data sources]].
+-   **Go to data view** opens a list view, KPI Details page, or Usage Insights overview page relevant to the associated segment or visualization. For table data, a system property determines whether a Core UI list or a Platform Analytics list opens. For more information, see [Data views for different data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/visualization-drilldown-in-config-ws.md).
 -   **Go to URL** opens the specified URL, which can be on the instance or external. You have the option of specifying a page name to appear in the tooltip, for those visualizations with tooltips.
 -   **Drill down to chart** \(Visualization Designer only\) Opens a different data visualization that is filtered by the selected data. You can add a drill-down visualization for each metric on the parent visualization.
 
-**Note:** The last level of drill down in the [[par-workspace|Platform Analytics experience]] is always a Core UI list. Records do not open in Workspace embedded lists.
+**Note:** The last level of drill down in the Platform Analytics experience is always a Core UI list. Records do not open in Workspace embedded lists.
 
 **Drill down to chart** supports only table data sources.
 
@@ -421,11 +421,11 @@ Choose the event that occurs when a user clicks in a visualization or one of its
 
 ## What to do next
 
--   [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
--   [[share-dv-ac|Share a data visualization in the Visualization Designer]]
--   [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
+-   [Add a visualization to a dashboard from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-dv-new-db.md)
+-   [Share a data visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/share-dv-ac.md)
+-   [Bookmark a visualization in the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/bookmark-dv-ac.md)
 
--   **[[time-series-visualization-types|Use cases for different time series visualization types]]**  
+-   **[Use cases for different time series visualization types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/time-series-visualization-types.md)**  
 Time series visualizations can emphasize the trend in the data or specific changes in the data. They can show one data source or compare several related data sources.
 -   **[Table data options for time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/config-dv-time-series-table-data.md)**  
 The following Data configuration options are available for all time series type visualizations of table data.
@@ -437,40 +437,12 @@ The following Data configuration options are available for all time series type 
 The following data options are available for all time series type visualizations of MetricBase data.
 -   **[Display settings for different time series data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/display-settings-ts-charts.md)**  
 Each time series visualization type has a different set of display settings.
--   **[[configure-forecast-ts-viz|Configure a forecast in a time series data visualization]]**  
+-   **[Configure a forecast in a time series data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-forecast-ts-viz.md)**  
 If a time series visualization is configured to show forecasts, you can configure the forecasts for that visualization.
--   **[[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]**  
+-   **[Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md)**  
 If you are showing multiple metrics in a time series data visualization, you can set the group by, visualization type, and Y-axis scale for each metric. You can also have filters on a dashboard apply only to specific metrics.
 -   **[Time series data visualization example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-line.md)**  
 Time series visualizations show the changes in data over time. This example starts with a single indicator data source and adds more complexity.
 
-**Parent Topic:**[[creating-data-visualizations|Creating data visualizations]]
+**Parent Topic:**[Creating data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/creating-data-visualizations.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[dv-example-line|Time series data visualization example]]
-- [[data-sources-visualizations|Data sources for data visualizations]]
-- [[uxa-data-sources|Usage Insights data sources for data visualizations]]
-- [[multiple-data-sources|multiple data sources]]
-- [[config-dv-time-series-table-data|Table data options for time series data visualizations]]
-- [[config-dv-time-series-ind-data|Indicator data options for time series data visualizations]]
-- [[config-dv-time-series-uxa-data|Usage Insights data options for time series data visualizations]]
-- [[config-dv-time-series-mb-data|MetricBase data options for time series data visualizations]]
-- [[display-settings-ts-charts|Display settings for different time series data visualizations]]
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[visualization-drilldown-in-config-ws|Data views for different data sources]]
-- [[add-dv-new-db|Add a visualization to a dashboard from the Visualization Designer]]
-- [[share-dv-ac|Share a data visualization in the Visualization Designer]]
-- [[bookmark-dv-ac|Bookmark a visualization in the Visualization Designer]]
-- [[time-series-visualization-types|Use cases for different time series visualization types]]
-- [[configure-forecast-ts-viz|Configure a forecast in a time series data visualization]]
-- [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]
-- [[creating-data-visualizations|Creating data visualizations]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_ReportSources|Report sources]]
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[color-palettes|Color palettes]]
-- [[c_ChartColors|Chart colors]]
-- [[kpi-details|KPI Details]]
-- [[par-workspace|Platform Analytics experience]]

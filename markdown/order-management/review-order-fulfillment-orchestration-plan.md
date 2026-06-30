@@ -27,7 +27,7 @@ By using the order orchestration UI, you can perform the following actions:
 -   Determine the current state of the associated order line items, domain orders, and order tasks.
 -   Identify any order delays or fallouts in the order fulfillment process, and resolve them on time.
 
-To learn more, see [[orchestration-plans-for-order-fulfillment|Using the order orchestration UI]].
+To learn more, see [Using the order orchestration UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/orchestration-plans-for-order-fulfillment.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ To learn more, see [[orchestration-plans-for-order-fulfillment|Using the order o
     -   To view only open, unfulfilled customer orders, select **Open**.
 4.  Select an order you want to fulfill.
 
-5.  Access the [[order-orchestration|order orchestration]] UI for a selected order, order line item, or domain order by performing the respective task from the following table.
+5.  Access the order orchestration UI for a selected order, order line item, or domain order by performing the respective task from the following table.
 
 <table id="choicetable_u3t_rjd_54b"><thead><tr><th align="left" id="d48277e133">
 
@@ -154,29 +154,20 @@ System-assigned domain product or order task number.
 
 Current state of the domain product or order task. To learn more, see:
 
-    -   [[order-mgt-state-values|Customer order states]]
-    -   [[service-order-mgt-state-values|Service order states]]
+    -   [Customer order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-state-values.md)
+    -   [Service order states](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/service-order-mgt-state-values.md)
 
 
 </td></tr></tbody>
 </table>
 ## What to do next
 
-[[order-mgt-customer-order-tasks|Review and close fulfillment tasks]]
+[Review and close fulfillment tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-customer-order-tasks.md)
 
-**Parent Topic:**[[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
+**Parent Topic:**[Order fulfillment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reviewing-orchestration-plans-order-fulfillment.md)
 
 **Related topics**  
 
 
-[[view-order-timelines|View an order timeline]]
+[View an order timeline](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-order-timelines.md)
 
-## Related
-
-- [[orchestration-plans-for-order-fulfillment|Using the order orchestration UI]]
-- [[order-mgt-state-values|Customer order states]]
-- [[service-order-mgt-state-values|Service order states]]
-- [[order-mgt-customer-order-tasks|Review and close fulfillment tasks]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[view-order-timelines|View an order timeline]]
-- [[order-orchestration|Order orchestration]]

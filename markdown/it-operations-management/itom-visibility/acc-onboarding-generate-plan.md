@@ -15,7 +15,7 @@ breadcrumb: [Use the Agent Client Collector \(ACC\) admin workspace, Use ITOM In
 
 # Generate an Agent Client Collector installation plan
 
-Configure and deploy new agents in your environment, using the Agent Onboarding guide. The Agent Onboarding guide generates a customized installation plan for deploying the [[acc-landing-page|Agent Client Collector]] on your endpoints or servers.
+Configure and deploy new agents in your environment, using the Agent Onboarding guide. The Agent Onboarding guide generates a customized installation plan for deploying the Agent Client Collector on your endpoints or servers.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The Agent Onboarding guide generates a customized installation plan based on you
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[itom-infra-srv-wrksp-landing|ITOM Infra Services Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **ITOM Infra Services Workspace**.
 
 2.  Select the **ACC agents** icon \[Omitted image "acc-agents-icon.png"\] Alt text: ACC agents icon.
 
@@ -57,7 +57,7 @@ The Agent Onboarding guide generates a customized installation plan based on you
 
 7.  Select the **Next: Installation plan** button to view the agent installation plan, based on your configured settings.
 
-    For details on the displayed [[agent-installation-plan-steps|agent installation plan steps]] and the commands required to be carried out for each, see [Agent installation plan steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-installation-plan-steps.md).
+    For details on the displayed agent installation plan steps and the commands required to be carried out for each, see [Agent installation plan steps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-installation-plan-steps.md).
 
     The settings configured for your agent appear in the Agent configuration panel.
 
@@ -76,8 +76,3 @@ After completing the installation plan steps, verify that the agent is running a
 
 **Parent Topic:**[Use the Agent Client Collector \(ACC\) admin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/use-acc-admin-workspace.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[itom-infra-srv-wrksp-landing|ITOM Infra Services Workspace]]
-- [[agent-installation-plan-steps|Agent installation plan steps]]

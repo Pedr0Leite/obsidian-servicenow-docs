@@ -12,7 +12,7 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Configure the Main node configurations
 
-Create the Main node configuration record to fetch data into [[grc-opres-landing-page|Operational Resilience]] for reporting. Main node configurations are available with the base system. You can use the existing Main node configurations or create new Main node configurations for your business needs.
+Create the Main node configuration record to fetch data into Operational Resilience for reporting. Main node configurations are available with the base system. You can use the existing Main node configurations or create new Main node configurations for your business needs.
 
 ## Before you begin
 
@@ -34,8 +34,8 @@ Main node configurations define how your source data is linked, for example, how
 Before creating the Main node configuration record, ensure that you have completed the following prerequisites:
 
 1.  You can create a new Main node configuration with the sn\_oper\_res.admin role only.
-2.  You have completed the configuration set up instructions listed on the [[configure-operational-resilience|Configuring Operational Resilience]] page.
-3.  The [[data-relationship-framework|Data Relationships Framework]] \(sn\_grc\_rel\_config\) application is installed in your instance by default.
+2.  You have completed the configuration set up instructions listed on the [Configuring Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-operational-resilience.md) page.
+3.  The Data Relationships Framework \(sn\_grc\_rel\_config\) application is installed in your instance by default.
 4.  The entities are generated in Operational Resilience. Only when the entities are generated and the relationships are created in the Main node configurations, CMDB data can be brought into Operational Resilience for reporting.
 5.  All Main node configurations with the source as **OpRes CMDB** run in parallel.
 6.  To enable reporting, ensure that entities are generated and relationships are established in Main node configurations. Data can only be brought in for reporting after these steps are completed.
@@ -60,7 +60,7 @@ Before creating the Main node configuration record, ensure that you have complet
 
 3.  On the form, fill in the fields.
 
-    For descriptions of all the fields in the form, see [[main-node-config-form|Main node configuration form]].
+    For descriptions of all the fields in the form, see [Main node configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-config-form.md).
 
     1.  Add the name for the configuration.
 
@@ -91,17 +91,9 @@ Before creating the Main node configuration record, ensure that you have complet
 
 ## What to do next
 
-Specify how the source table is connected to the target table in the [[node-relationship-configurations|Node relationship configurations]].
+Specify how the source table is connected to the target table in the Node relationship configurations.
 
 \[Omitted image "node-rel-config-rel-list.png"\] Alt text: Node relationships configuration related list.
 
-For details, see [[update-node-rel-config|Configure the Node relationship configurations]].
+For details, see [Configure the Node relationship configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-node-rel-config.md).
 
-## Related
-
-- [[configure-operational-resilience|Configuring Operational Resilience]]
-- [[main-node-config-form|Main node configuration form]]
-- [[update-node-rel-config|Configure the Node relationship configurations]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[node-relationship-configurations|Node relationship configurations]]

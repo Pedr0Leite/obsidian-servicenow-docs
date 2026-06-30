@@ -14,11 +14,11 @@ breadcrumb: [Contact Tracing, Safe Workplace, Health and Safety, Employee Servic
 
 # Tracking employee contacts using daily logs
 
-After employees start returning to the workplace, use daily contact logs to help promote the [[health-safety-overview|health and safety]] of all your employees. Let employees submit a list of other people with whom they come in contact during the day. Send mobile and email push notifications to employees to submit their contact log for the day.
+After employees start returning to the workplace, use daily contact logs to help promote the health and safety of all your employees. Let employees submit a list of other people with whom they come in contact during the day. Send mobile and email push notifications to employees to submit their contact log for the day.
 
 Keep a track of the employees who have responded from the daily contact log responses. You can resend notifications to employees who have not responded to alert them for submitting their daily contact log.
 
-The employee daily contact log in the [[contact-tracing|Contact Tracing]] application works with the [[emergency-outreach|Emergency Outreach]] application. For more information, see [Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md).
+The employee daily contact log in the Contact Tracing application works with the Emergency Outreach application. For more information, see [Emergency Outreach](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-outreach/emergency-outreach.md).
 
 A user with the sn\_imt\_checkin.checkin\_admin role for Emergency Outreach can review and modify the outreach notification for the daily contact log. For more information, see [Configure an Emergency Outreach notification for the daily contact log](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/configure-outreach-notif-daily-log.md).
 
@@ -35,8 +35,3 @@ Review daily contact log responses from employees who received a push notificati
 
 **Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[contact-tracing|Contact Tracing]]
-- [[emergency-outreach|Emergency Outreach]]

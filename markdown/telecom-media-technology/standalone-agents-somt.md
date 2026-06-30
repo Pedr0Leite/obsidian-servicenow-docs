@@ -16,19 +16,11 @@ Use these standalone AI agents to autonomously complete Sales CRM for Telecommun
 
 ## Standalone agents in Now Assist for Sales CRM for Telecommunications
 
-The following AI agents are available with [[somt-now-assist|Now Assist for Sales CRM for Telecommunications]]:
+The following AI agents are available with Now Assist for Sales CRM for Telecommunications:
 
--   [[order-enrichment-agent-somt|Order enrichment AI agent]]
--   [[order-fulfillment-agent-somt|Order fulfillment AI agent]]
--   [[now-assist-move-order-somt|Move order voice AI agent]]
--   [[now-assist-order-fallout-somt|Order fallout AI agent]]
--   [[now-assist-task-template-generation-somt|Image to task plan template AI agent]]
+-   [Order enrichment AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/order-enrichment-agent-somt.md)
+-   [Order fulfillment AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/order-fulfillment-agent-somt.md)
+-   [Move order voice AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-move-order-somt.md)
+-   [Order fallout AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-order-fallout-somt.md)
+-   [Image to task plan template AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/now-assist-task-template-generation-somt.md)
 
-## Related
-
-- [[order-enrichment-agent-somt|Now Assist for Sales CRM for Telecommunications AI agent collection order enrichment AI agent]]
-- [[order-fulfillment-agent-somt|Now Assist for Sales CRM for Telecommunications AI agent collection order fulfillment AI agent]]
-- [[now-assist-move-order-somt|Now Assist for Sales CRM for Telecommunications AI agent Move order voice AI agent]]
-- [[now-assist-order-fallout-somt|Now Assist for Sales CRM for Telecommunications AI agent Order fallout AI agent]]
-- [[now-assist-task-template-generation-somt|Now Assist for Sales CRM for Telecommunications AI agent Image to task plan template AI agent]]
-- [[somt-now-assist|Now Assist for Sales CRM for Telecommunications]]

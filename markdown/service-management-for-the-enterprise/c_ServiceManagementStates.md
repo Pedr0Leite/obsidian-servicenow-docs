@@ -12,31 +12,23 @@ breadcrumb: [Service Management]
 
 # Service management states
 
-From creation until closure, SM application requests for work \(for example, work orders and [[c_FacilitiesRequests|facilities requests]]\), and their respective tasks follow a life cycle tracked by the **State** field in Field Service Management and [[FacilitiesLandingPage|Facilities Service Management]].
+From creation until closure, SM application requests for work \(for example, work orders and facilities requests\), and their respective tasks follow a life cycle tracked by the **State** field in Field Service Management and Facilities Service Management.
 
 The life cycle is controlled through business rules and UI actions that are updated by the system automatically.
 
 **Note:** The **State** field on the record is always read-only.
 
--   **[[c_StateFlowCustomization|State flow customization]]**  
+-   **[State flow customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md)**  
 State flows control the sequence in which records transition between states in Service Management applications.
--   **[[t_StateFlowExample|State flow example]]**  
+-   **[State flow example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_StateFlowExample.md)**  
 Your business processes might require work order tasks to be accepted automatically when dispatched to an agent.
--   **[[c_ImpDsblStFl|Implications of disabling SM state flows]]**  
+-   **[Implications of disabling SM state flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ImpDsblStFl.md)**  
 State flows are used by SM applications to control how a work order or request automatically transitions from one state to the next. When state flows are disabled, various aspects of the ServiceNow system are also changed, as described here.
 
-**Parent Topic:**[[c_ServiceManagement|Service Management]]
+**Parent Topic:**[Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_ServiceManagement.md)
 
 **Related topics**  
 
 
 [bundle-fsm.t_CustomizeAStateFlow]
 
-## Related
-
-- [[c_StateFlowCustomization|State flow customization]]
-- [[t_StateFlowExample|State flow example]]
-- [[c_ImpDsblStFl|Implications of disabling SM state flows]]
-- [[c_ServiceManagement|Service Management]]
-- [[c_FacilitiesRequests|Facilities requests]]
-- [[FacilitiesLandingPage|Facilities Service Management]]

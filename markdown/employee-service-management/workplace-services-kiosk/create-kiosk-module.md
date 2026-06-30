@@ -66,7 +66,7 @@ Entry point
 
 </td><td>
 
-Page displayed on the home screen of the module.For visitor check in, select **visitor\_check\_in**. For visitor check out, select **visitor\_check\_out**. For [[kiosk-indoor-mapping|kiosk indoor mapping]], select **kiosk\_indoor\_map**.
+Page displayed on the home screen of the module.For visitor check in, select **visitor\_check\_in**. For visitor check out, select **visitor\_check\_out**. For kiosk indoor mapping, select **kiosk\_indoor\_map**.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
@@ -131,6 +131,3 @@ Visitors can use the camera to scan QR codes or to take their picture.
 
 **Parent Topic:**[Configuring Workplace Services Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-services-kiosk/configure-workplace-services-kiosk.md)
 
-## Related
-
-- [[kiosk-indoor-mapping|Kiosk Indoor Mapping]]

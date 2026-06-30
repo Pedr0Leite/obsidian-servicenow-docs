@@ -26,7 +26,7 @@ Role required: major\_incident\_manager, itil, ia\_admin, or admin
 
 2.  In the related list, select the **Incident communications Plans** button to open a list of the existing communication plans associated with the incident record.
 
-3.  Select **New** to [[create-an-incident|create an incident]] communication plan.
+3.  Select **New** to create an incident communication plan.
 
     For more information on the form fields of an incident communication plan, see [Create adhoc incident communication plan from incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_CreateAnAlertFromAnIncident.md).
 
@@ -77,6 +77,3 @@ Role required: major\_incident\_manager, itil, ia\_admin, or admin
 
 **Parent Topic:**[Collaborate with stakeholders during a major incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/collaborate-stakeholders-mim-sow.md)
 
-## Related
-
-- [[create-an-incident|Create an incident]]

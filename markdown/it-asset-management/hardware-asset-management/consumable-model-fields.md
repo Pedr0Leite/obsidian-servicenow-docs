@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Consumable model fields
 
-Consumable [[c_Models|Models]] form and related list field descriptions.
+Consumable Models form and related list field descriptions.
 
 |Field|Description|
 |-----|-----------|
@@ -84,7 +84,7 @@ Lifecycle phase
 
 Phase of the lifecycle for a consumable model.-   **General Availability**: The date when the model becomes generally available through the manufacturer’s sales channels, including its worldwide subsidiaries, affiliates, and country distributors. The model is considered current/active and receiving support from the manufacturer.
 -   **End of Sale**: The last date to order the model through the manufacturer’s sales channels, including its worldwide subsidiaries, affiliates, and country distributors. After end of sale date, the model is no longer available for sale.
--   **End of Support**: The last date upon which the manufacturer provides standard/regular support for the consumable as entitled by active service [[c_Contracts|contracts]]. After this date, the manufacturer may continue to provide active support for certain issues in a limited capacity, the scope of which may vary across different manufacturers according to their lifecycle and/or support policies.
+-   **End of Support**: The last date upon which the manufacturer provides standard/regular support for the consumable as entitled by active service contracts. After this date, the manufacturer may continue to provide active support for certain issues in a limited capacity, the scope of which may vary across different manufacturers according to their lifecycle and/or support policies.
 -   **End of Extended Support**: Up until this date, the manufacturer extends limited support for the consumable \(after standard/regular support expires\), for a defined period according to manufacturer policy.
 -   **End of Life**: The date which indicates the consumable is at the end of its useful life \(from the manufacturer’s point of view\). The manufacturer stops marketing, selling, or sustaining the consumable.
 
@@ -118,7 +118,7 @@ Phase end date
 
 </td><td>
 
-This field is intentionally left empty and is not utilized by any hardware models within the [[ham-landing-page|Hardware Asset Management]] application.
+This field is intentionally left empty and is not utilized by any hardware models within the Hardware Asset Management application.
 
 </td></tr><tr><td>
 
@@ -144,8 +144,3 @@ Option that indicates the lifecycle of the model is active.
 
 [Create a hardware or consumable model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/create-hardware-consumable-model.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_Contracts|Contracts]]
-- [[ham-landing-page|Hardware Asset Management]]

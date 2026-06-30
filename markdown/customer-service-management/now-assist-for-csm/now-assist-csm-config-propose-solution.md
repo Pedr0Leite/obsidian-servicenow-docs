@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist for CSM, Customer Service Management]
 
 # Configure the Propose Solution UI action and declarative action
 
-Add generative AI-specific functionality to the [[r_CustomerServiceCaseForm|Case form]] by configuring the Propose Solution UI action and declarative action that are included with the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application.
+Add generative AI-specific functionality to the Case form by configuring the Propose Solution UI action and declarative action that are included with the Now Assist for Customer Service Management \(CSM\) application.
 
 ## Before you begin
 
@@ -23,11 +23,11 @@ Role required: admin
 
 ## About this task
 
-The [[c_CustomerServiceManagement|Customer Service Management]] application includes a Propose Solution UI action that agents can use to propose a solution for a customer service case.
+The Customer Service Management application includes a Propose Solution UI action that agents can use to propose a solution for a customer service case.
 
 The Now Assist for Customer Service Management \(CSM\) application includes the following actions that provide generative AI-specific functionality. Agents can use these actions to propose solutions that include AI-generated resolution notes:
 
--   Propose Solution declarative action: Generates resolution notes in [[csm-workspaces-configure|CSM Configurable Workspace]].
+-   Propose Solution declarative action: Generates resolution notes in CSM Configurable Workspace.
 -   Propose Solution UI action: Generates resolution notes in Core UI.
 
 **Note:** These actions are inactive by default.
@@ -76,9 +76,4 @@ To use the generative AI functionality, you must deactivate the Propose Solution
 
         The system returns you to the Action Assignments list.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

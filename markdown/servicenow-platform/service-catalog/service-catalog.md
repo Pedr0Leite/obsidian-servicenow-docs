@@ -14,17 +14,17 @@ breadcrumb: [Manage service capabilities, Extend ServiceNow AI Platform capabili
 
 # Service Catalog
 
-Use the ServiceNow Service Catalog application to develop comprehensive service catalogs that empower customers with [[self-service-landing|self-service]] capabilities. Tailor portals to enable customers to request a range of catalog items, including services and product offerings. Additionally, you can standardize request fulfillment processes to ensure the accuracy and availability of items within the catalogs.
+Use the ServiceNow Service Catalog application to develop comprehensive service catalogs that empower customers with self-service capabilities. Tailor portals to enable customers to request a range of catalog items, including services and product offerings. Additionally, you can standardize request fulfillment processes to ensure the accuracy and availability of items within the catalogs.
 
 ## Get started
 
 <table id="table_ghl_z24_wxb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about the Service Catalog concept, [[r_ExtendedCatalogItemFunctions|types of catalog items]], [[catalog-builder|Catalog Builder]], and catalog items.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/exploring-service-catalog.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about the Service Catalog concept, types of catalog items, Catalog Builder, and catalog items.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/exploring-service-catalog.md)
 
 </td><td>
 
-[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure Service Catalog. Learn about setup, categories, scoping, request fulfillment, and [[p_ServiceCatalogSecurity|Service Catalog security]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-service-catalog.md)
+[Configure\[Omitted image "bus-sdlc.svg"\] Alt text:Configure Service Catalog. Learn about setup, categories, scoping, request fulfillment, and Service Catalog security.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/configuring-service-catalog.md)
 
 </td><td>
 
@@ -48,7 +48,7 @@ Use the ServiceNow Service Catalog application to develop comprehensive service 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about components like fields and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/service-catalog-reference.md)
 
 </td><td>
 
@@ -76,22 +76,11 @@ Reference topics provide additional information about the lists and forms.
 -   **[Debugging Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)**  
 Debug user criteria of catalog items, UI customizations for Service Catalog pages, actions on catalog item variables, performance diagnostics of a catalog item, and so on.
 -   **[Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-builder.md)**  
-You can [[t_DefineACatalogItem|create or edit a catalog item]] \(catalog item or [[c_RecordProducer|record producer]]\) using a visual and guided experience along with specified restrictions. The Catalog Builder experience enables you to delegate the creation and maintenance of the catalog.
+You can create or edit a catalog item \(catalog item or record producer\) using a visual and guided experience along with specified restrictions. The Catalog Builder experience enables you to delegate the creation and maintenance of the catalog.
 -   **[Now Assist in Catalog Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-for-catalog-generation.md)**  
-Use ServiceNow® [[now-assist-for-catalog-generation|Now Assist in Catalog Builder]] to create catalog items of your choice in Catalog Builder by giving text inputs.
+Use ServiceNow® Now Assist in Catalog Builder to create catalog items of your choice in Catalog Builder by giving text inputs.
 -   **[Now Assist in Conversational Catalog Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/now-assist-in-conversational-catalog-request.md)**  
 Speed up and provide a conversational and streamlined experience based on generative AI while submitting a catalog item request in Virtual Agent. Your organization can increase self-service and reduce operating costs.
 
-**Parent Topic:**[[manage-services|Manage service capabilities]]
+**Parent Topic:**[Manage service capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
-## Related
-
-- [[manage-services|Manage service capabilities]]
-- [[self-service-landing|Self-service]]
-- [[r_ExtendedCatalogItemFunctions|Types of catalog items]]
-- [[catalog-builder|Catalog Builder]]
-- [[p_ServiceCatalogSecurity|Service Catalog security]]
-- [[reference|Reference]]
-- [[t_DefineACatalogItem|Create or edit a catalog item]]
-- [[c_RecordProducer|Record Producer]]
-- [[now-assist-for-catalog-generation|Now Assist in Catalog Builder]]

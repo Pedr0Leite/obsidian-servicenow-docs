@@ -16,7 +16,7 @@ breadcrumb: [EMR Help, Healthcare and Life Sciences Service Management, Healthca
 
 You can request service directly within the EMR system which automatically creates a service request in a ServiceNow instance
 
-Work on task records that are automatically created when clinicians submit ServiceNow service requests from an EMR system. Incidents are the task type configured by default with the [[emr-exploring|EMR Help]] application.
+Work on task records that are automatically created when clinicians submit ServiceNow service requests from an EMR system. Incidents are the task type configured by default with the EMR Help application.
 
 As a fulfiller, for example, if you are an IT agent or a healthcare agent, you can access the task record for a service request on the ServiceNow instance linked with the EMR system.
 
@@ -29,6 +29,3 @@ Use EMR Help for the following:
 -   [Submitting ServiceNow IT service requests from EMR systems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/emr-help-issues-reporting.md)
 -   [Creating healthcare cases from within your EMR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/submitting-cases-from-emr-systems.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

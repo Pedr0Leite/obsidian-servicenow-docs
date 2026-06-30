@@ -14,9 +14,9 @@ breadcrumb: [Exploring Service Level Management, Service Level Management, IT Se
 
 # Define a service contract
 
-A new table of SLA [[c_Contracts|contracts]] is provided through the **[[service-level-mgmt-landing-page|Service Level Management]]** &gt; **Service Contracts** module. These contracts group together SLAs that relate to a single vendor or customer, as well as the CIs, locations, groups, users, and child contracts that are related to the contract.
+A new table of SLA contracts is provided through the **Service Level Management** &gt; **Service Contracts** module. These contracts group together SLAs that relate to a single vendor or customer, as well as the CIs, locations, groups, users, and child contracts that are related to the contract.
 
-The table Service Contract \[ast\_service\] extends the table Contract \[ast\_contract\]. It stores information about service contracts for [[c_AssetManagement|asset management]] purposes. To get the service contract functionality, activate the Service Level Management - [[c_ContractManagement|Contract Management]] Integration \[com.snc.sla.contract2\] plugin. Installing the SLA Contract Add-on plugin adds relations to this table to make it useful for Service Management purposes. Once the plugin is installed, the Service Contract record possesses related lists for:
+The table Service Contract \[ast\_service\] extends the table Contract \[ast\_contract\]. It stores information about service contracts for asset management purposes. To get the service contract functionality, activate the Service Level Management - Contract Management Integration \[com.snc.sla.contract2\] plugin. Installing the SLA Contract Add-on plugin adds relations to this table to make it useful for Service Management purposes. Once the plugin is installed, the Service Contract record possesses related lists for:
 
 -   SLAs
 -   Contract CIs
@@ -172,9 +172,3 @@ Depending on how the contract is used, the **Contract** field can be added to an
 
 **Parent Topic:**[Exploring Service Level Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/exploring-slm.md)
 
-## Related
-
-- [[c_Contracts|Contracts]]
-- [[service-level-mgmt-landing-page|Service Level Management]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_ContractManagement|Contract Management]]

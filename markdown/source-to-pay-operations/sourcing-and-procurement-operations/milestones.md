@@ -14,7 +14,7 @@ breadcrumb: [Purchase lines, Sourcing and Purchasing Automation, Explore, Sourci
 
 # Milestones
 
-Milestones represent an acknowledgment that a certain deliverable is achieved for a service. You can create a milestone against the purchase line and [[purchase-order-table|purchase order]] line for a service product type, when the acknowledgment type is set to **Milestones**.
+Milestones represent an acknowledgment that a certain deliverable is achieved for a service. You can create a milestone against the purchase line and purchase order line for a service product type, when the acknowledgment type is set to **Milestones**.
 
 The key fields of a milestone are:
 
@@ -56,7 +56,7 @@ Primary contact
 
 </td><td>
 
-Person within the procurement team who can be contacted with questions about [[receipts|receipts]], milestones, [[invoices|invoices]], or other activities related to acknowledgment. This field is populated or updated with the same user in the **Assigned to** field of the parent task record, as follows: For a milestone or acknowledgment task, from the referenced purchase order.
+Person within the procurement team who can be contacted with questions about receipts, milestones, invoices, or other activities related to acknowledgment. This field is populated or updated with the same user in the **Assigned to** field of the parent task record, as follows: For a milestone or acknowledgment task, from the referenced purchase order.
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Payout amount
 
 Amount associated with this milestone.This field is displayed if the payout type is set to **Amount**.
 
- Sum of the amount across all milestones can’t exceed the total amount on the [[purchase-requisition|purchase requisition]].
+ Sum of the amount across all milestones can’t exceed the total amount on the purchase requisition.
 
 </td></tr><tr><td>
 
@@ -161,9 +161,3 @@ The UI action to confirm or defer the milestone is displayed when the state of t
 
 **Parent Topic:**[Purchase lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-lines.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[purchase-requisition|Purchase requisition]]

@@ -16,7 +16,7 @@ Use the Scan Results list view to initiate scans, monitor scan status, and manag
 
 ## Before you begin
 
-Your ServiceNow instance must be running a minimum of Zurich release with the [[impact-landing-page|Impact]] [[platform-health-idi|Platform Health]] product installed. See [[configuring-impact-platform|Configure the Impact Store Application]] for details.
+Your ServiceNow instance must be running a minimum of Zurich release with the Impact Platform Health product installed. See [Configure the Impact Store Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-impact-platform.md) for details.
 
 Role required: impact\_admin, impact\_ai\_fix\_user, impact\_scan\_user, impact\_scan-read\_user
 
@@ -118,11 +118,5 @@ After scan completion:
 -   Address any identified issues or recommendations.
 -   Review the Scan Engine Score to assess instance health.
 
-**Parent Topic:**[[run-scan-engine|Run your first scan with the Scan Engine]]
+**Parent Topic:**[Run your first scan with the Scan Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/run-scan-engine.md)
 
-## Related
-
-- [[configuring-impact-platform|Configure the Impact Store Application]]
-- [[run-scan-engine|Run your first scan with the Scan Engine]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

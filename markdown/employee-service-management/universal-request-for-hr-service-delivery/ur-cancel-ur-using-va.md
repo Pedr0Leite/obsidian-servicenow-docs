@@ -14,7 +14,7 @@ breadcrumb: [Virtual Agent for Universal Request, Universal Request, Employee Se
 
 # Update or cancel a universal request using Virtual Agent
 
-Update or [[cancel-ur|cancel a universal request]] with the help of the Virtual Agent in the chat option.
+Update or cancel a universal request with the help of the Virtual Agent in the chat option.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: none
 
     If you are not sure about the option to select, enter `Track my request`.
 
-3.  Select **Track [[ur-landing-limitedaccess|universal Request]] Status \(Template\)**
+3.  Select **Track universal Request Status \(Template\)**
 
 4.  Select the request that you want to update.
 
@@ -41,7 +41,3 @@ Role required: none
 
 **Parent Topic:**[Virtual Agent for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-va-landing.md)
 
-## Related
-
-- [[cancel-ur|Cancel a universal request]]
-- [[ur-landing-limitedaccess|Universal Request]]

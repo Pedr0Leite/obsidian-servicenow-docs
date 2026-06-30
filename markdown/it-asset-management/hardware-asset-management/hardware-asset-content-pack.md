@@ -24,7 +24,7 @@ Use the Performance Analytics widgets on the dashboard to visualize data over ti
 
 For unlimited access to all features of this Platform Analytics Solution, purchase a Performance Analytics subscription. For more information, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md).
 
-To use this Analytics and Reporting Solution, you must be entitled to use Performance Analytics with [[ham-landing-page|Hardware Asset Management]]. For more information about entitlements to Performance Analytics, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
+To use this Analytics and Reporting Solution, you must be entitled to use Performance Analytics with Hardware Asset Management. For more information about entitlements to Performance Analytics, see [Activating your Performance Analytics subscription](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/c_PremiumPerformanceAnalytics.md)
 
 This Out-of-the-box Performance Analytics Solution is available from the ServiceNow Store. To enable this solution, an admin navigates to **System Applications** &gt; **Search ServiceNow Store**. When the landing page for the ServiceNow Store opens, search for Hardware Asset Management. When you have found the Solution, follow the instructions in the Store. The ServiceNow Store has its own documentation.
 
@@ -41,7 +41,7 @@ The Performance Analytics dashboards available for Hardware Asset Management are
 -   Hardware Asset Dashboard
 -   Hardware Normalization Dashboard
 -   My Assets
--   [[c_Procurement|Procurement]] Overview
+-   Procurement Overview
 -   Asset Contract Overview
 -   Asset Overview
 
@@ -61,7 +61,7 @@ Beginning with the Xanadu release, note the following points about the Core UI P
 
 ## Hardware Asset dashboard
 
-View the key metrics on your hardware and consumable [[c_Models|models]] and assets for the entire asset life cycle in the Hardware Asset dashboard.
+View the key metrics on your hardware and consumable models and assets for the entire asset life cycle in the Hardware Asset dashboard.
 
 **Important:** You can access the Hardware Asset dashboard only if you have upgraded from prior releases to Xanadu. Beginning with the Xanadu release, the Hardware Asset Dashboard isn't available to new users of Hardware Asset Management.
 
@@ -194,7 +194,7 @@ Product Model \[cmdb\_ model\]
 
 </td><td>
 
-Current count of hardware, consumable, and [[c_CreatingSoftwareModels|software models]] based on the status of the models. Drill down on a model to view the status of that model. For example, click hardware models on the chart to see the status of all the hardware models: In Production, Retired, or sold.
+Current count of hardware, consumable, and software models based on the status of the models. Drill down on a model to view the status of that model. For example, click hardware models on the chart to see the status of all the hardware models: In Production, Retired, or sold.
 
 </td></tr><tr><td>
 
@@ -280,7 +280,7 @@ Requests that haven’t yet been addressed. Requests for which either a purchase
 
 ### Inventory tab
 
-This tab shows data regarding your open stock orders. You can also view information about active [[c_StockRules|stock rules]], open transfer orders, and requests sourced through stock. You can filter the results in this tab by location and stockroom.
+This tab shows data regarding your open stock orders. You can also view information about active stock rules, open transfer orders, and requests sourced through stock. You can filter the results in this tab by location and stockroom.
 
 <table id="table_ow5_jhl_blb"><thead><tr><th>
 
@@ -419,7 +419,7 @@ Asset \[alm\_asset\]
 
 </td><td>
 
-Hardware and [[c_ReceiveAConsumableAsset|consumable assets]] whose warranty expiration date falls in the current month, quarter, or year.**Note:** Only assets that are in the following states appear.
+Hardware and consumable assets whose warranty expiration date falls in the current month, quarter, or year.**Note:** Only assets that are in the following states appear.
 
 -   in stock
 -   in transit
@@ -473,7 +473,7 @@ Contract \[ast\_contract\]
 
 </td><td>
 
-Hardware and consumable assets whose lease expiration date falls in the current month, quarter, or year. It shows only the active [[c_Contracts|contracts]].
+Hardware and consumable assets whose lease expiration date falls in the current month, quarter, or year. It shows only the active contracts.
 
 </td></tr><tr><td>
 
@@ -490,12 +490,3 @@ A list of Hardware Asset Refresh ordered.
 </td></tr></tbody>
 </table>\[Omitted image "endoflife-dashboard.png"\] Alt text: End of Life tab on the Hardware Dashboard.
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_StockRules|Stock rules]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Contracts|Contracts]]

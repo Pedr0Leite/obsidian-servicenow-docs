@@ -14,7 +14,7 @@ breadcrumb: [View normalization suggestions in Software Asset Management classic
 
 # View a software job result
 
-You can view the results of [[c_SoftwareAssetMgmt|Software Asset Management]] jobs that have run to verify completion.
+You can view the results of Software Asset Management jobs that have run to verify completion.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Job results include:
 -   Identify New Reclamation Candidates
 -   Software Usage Import
 -   Update Existing Reclamation Candidates
--   [[c_SAMContentService|Software Asset Management Content Service]] Upload/Download
+-   Software Asset Management Content Service Upload/Download
 
 All Software Asset Management scheduled jobs are listed in the **System Definition** &gt; **Scheduled Jobs** navigation area. Software Asset Management scheduled job names begin with the product name \(SAM\).
 
@@ -52,7 +52,3 @@ All Software Asset Management scheduled jobs are listed in the **System Definiti
 
 **Parent Topic:**[View normalization suggestions in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/view-norm-suggestions-sam.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_SAMContentService|Software Asset Management Content Service]]

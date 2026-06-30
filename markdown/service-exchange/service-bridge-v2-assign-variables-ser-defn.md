@@ -14,7 +14,7 @@ breadcrumb: [Create remote catalogs, Configure for providers, Service Exchange f
 
 # Create variables for remote record producers for Providers
 
-Create variables for a remote record producer \(RRP\) in [[service-bridge-providers-landing-page|Service Exchange for Providers]] application.
+Create variables for a remote record producer \(RRP\) in Service Exchange for Providers application.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Administration** &gt; **Remote Catalog Items**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Administration** &gt; **Remote Catalog Items**.
 
 2.  Click a record producer that you want to create variables for.
 
@@ -177,7 +177,4 @@ Values specific to the type of variables.You can add scripts by selecting **Use 
 
     Repeat the process to create additional variables for the same remote record producer.
 
-## Related
 
-- [[service-bridge-providers-landing-page|Service Exchange for Providers]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

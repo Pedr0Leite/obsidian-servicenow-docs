@@ -14,7 +14,7 @@ breadcrumb: [Microsoft Azure discovery, Available cloud discovery patterns, Disc
 
 # Microsoft Azure Application Gateway discovery with Patterns
 
-The ServiceNow [[r-discovery|Discovery]] application uses the Azure Application Gateway \(LP\) pattern for discovering this product, while the [[c_ServiceMappingOverview|Service Mapping]] application discovers Application Gateway using the Azure Application Gateway TD \(LBS\) pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+The ServiceNow Discovery application uses the Azure Application Gateway \(LP\) pattern for discovering this product, while the Service Mapping application discovers Application Gateway using the Azure Application Gateway TD \(LBS\) pattern. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request apps on the Store
 
@@ -24,7 +24,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Azure Principal credentials**
 
-    On the ServiceNow platform, [[create-service-account|create a service account]] for cloud discovery. Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
+    On the ServiceNow platform, create a service account for cloud discovery. Set the account Id to the Azure Service Principal as it appears at the Microsoft Azure Console.
 
 -   **Privileges**
 
@@ -262,8 +262,3 @@ Service Mapping performs the top-down discovery of the Azure Application Gateway
 
 [Define a Cloud REST Query for cloud computing devices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/cloud-rest-query-pattern.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[create-service-account|Create a service account]]

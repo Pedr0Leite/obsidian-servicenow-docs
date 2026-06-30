@@ -23,7 +23,7 @@ Customer service agents can:
 -   Publish summaries to customers and internal stakeholders or publish to customers and send email notifications to internal stakeholders.
 -   Update and re-send summaries as needed.
 
-Customer service agents use the **Send Case Action Summary** UI action to create a case action summary. This action creates a case action summary record and adds the record to the Related Records section on the [[r_CustomerServiceCaseForm|Case form]] in the **Case Action Summary** field.
+Customer service agents use the **Send Case Action Summary** UI action to create a case action summary. This action creates a case action summary record and adds the record to the Related Records section on the Case form in the **Case Action Summary** field.
 
 Customer service agents can preview a case action summary before publishing it to a case. In the preview, internal content appears after the customer-visible information and is identified with a message: **The following content is not visible to customers.**
 
@@ -42,9 +42,5 @@ Closing a case automatically closes the corresponding case action summary.
 **Related topics**  
 
 
-[[create-case-action-summary|Create a case action summary]]
+[Create a case action summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-case-action-summary.md)
 
-## Related
-
-- [[create-case-action-summary|Create a case action summary]]
-- [[r_CustomerServiceCaseForm|Case form]]

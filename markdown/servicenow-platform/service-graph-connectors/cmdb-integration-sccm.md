@@ -16,7 +16,7 @@ breadcrumb: [Service Graph Connectors, Integrating third-party data into CMDB, C
 
 Use the Service Graph Connector for Microsoft SCCM to pull data from Microsoft System Center Configuration Manager \(SCCM\) into your ServiceNow instance.
 
-The Service Graph Connector for Microsoft SCCM \(SG-SCCM\) imports SCCM data into the ServiceNow® [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] application. The integration does not write to the SCCM database and supports the Microsoft Endpoint Configuration Manager \(MECM\). The integration pulls data from computers, processors, operating systems, disks, networks, and software.
+The Service Graph Connector for Microsoft SCCM \(SG-SCCM\) imports SCCM data into the ServiceNow® Configuration Management Database \(CMDB\) application. The integration does not write to the SCCM database and supports the Microsoft Endpoint Configuration Manager \(MECM\). The integration pulls data from computers, processors, operating systems, disks, networks, and software.
 
 ## Request apps on the Store
 
@@ -44,7 +44,7 @@ The following ServiceNow applications have features that interact with the Servi
     -   Incidents, problems, and changes on discovered configuration items \(CI\).
     -   Automatic device ownership assignment.
 -   [Software Asset Management \(SAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/c_SoftwareAssetMgmt.md) and [IT Asset Management \(ITAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
-    -   Tight integration with Software Asset Management Professional and [[c_ClientSoftwareDistribution|client software distribution]] workflows.
+    -   Tight integration with Software Asset Management Professional and client software distribution workflows.
     -   Inventory Software package and installation tracking.
     -   Software Usage tracking.
     -   License reclamation by detecting removed software.
@@ -57,17 +57,17 @@ After you've installed the latest version of the Service Graph Connector for Mic
 
 ## Configuring a connection for the connector
 
-You can configure a connection for the connector by using the [[sgcc-landing|SGC Central]] view in the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft SCCM using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-sccm-integ.md).
+You can configure a connection for the connector by using the SGC Central view in the Service Graph Workspace or CMDB Workspace. The view enables you to discover and install connectors, and then effectively manage the full life cycle of creating, editing, monitoring, and debugging connections. To configure the connector using SGC Central, see [Configure Service Graph Connector for Microsoft SCCM using SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgcc-configure-sccm-integ.md).
 
 **Important:** Unless there are configuration issues, use the SGC Central view in the Service Graph Workspace or CMDB Workspace to configure the connection for the connector, as the guided setup method is planned for deprecation.
 
 ## CMDB integrations dashboard
 
-The [[integration-commons-for-cmdb|Integration Commons for CMDB]] store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft SCCM integrations in the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]], see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
+The Integration Commons for CMDB store app provides a dashboard with a central view of the status, processing results, and processing errors of all installed integrations. You can see metrics for all integration runs. You can filter the view to a specific CMDB integration, a specific time duration, or a specific integration run. For more details about monitoring Microsoft SCCM integrations in the CMDB Integrations Dashboard, see [Using the CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-for-cmdb.md).
 
 ## Data mapping
 
-Data from the SCCM data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow® CMDB using the [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Data from the SCCM data sources is mapped and transformed into the ServiceNow CMDB Configuration Item \(CI\) class definitions using the Robust Transform Engine \(RTE\). Data is inserted into the ServiceNow® CMDB using the Identification and Reconciliation Engine \(IRE\).
 
 The SCCM data sources include the following:
 
@@ -96,7 +96,7 @@ When you complete setting up the connection, you can configure the integration t
 -   CI Relationship \[cmdb\_rel\_ci\]
 -   Computer \[cmdb\_ci\_computer\] \(required\)
 -   Disk \[cmdb\_ci\_disk\]
--   [[ip-address|IP address]] \[cmdb\_ci\_ip\_address\]
+-   IP address \[cmdb\_ci\_ip\_address\]
 -   Network Adapter \[cmdb\_ci\_network\_adapter\]
 -   Serial Number \[cmdb\_serial\_number\]
 -   Software Installation \[cmdb\_sam\_sw\_install\] \(If the SAM application is installed.\)
@@ -106,7 +106,7 @@ When you complete setting up the connection, you can configure the integration t
 
 For more information on where data is saved when pulling data from a Microsoft SCCM application, see [CMDB classes targeted in Service Graph Connector for Microsoft SCCM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sccm-classes.md).
 
-You can use the [[integrationhub-etl|IntegrationHub ETL]] app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
+You can use the IntegrationHub ETL app to view the data maps. See [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) for more information.
 
 ## Resolving the missing IP address or MAC address issue
 
@@ -128,14 +128,3 @@ By default, network adapters that are missing an IP address or MAC address are n
 
 [Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[c_ClientSoftwareDistribution|Client Software Distribution]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[ip-address|IP Address]]
-- [[integrationhub-etl|IntegrationHub ETL]]

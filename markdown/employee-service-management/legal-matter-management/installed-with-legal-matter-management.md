@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Matter Management, Legal Service Delivery, Legal a
 
 # Components installed with Legal Matter Management
 
-Several types of components are installed with installation of the [[legal-matter-management-landing-page|Legal Matter Management]] application, including tables, and user roles.
+Several types of components are installed with installation of the Legal Matter Management application, including tables, and user roles.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -144,7 +144,7 @@ Approver Group\[sn\_lg\_matter\_m2m\_approver\_group\]
 
 </td><td>
 
-Stores user groups who can approve [[legal-matter-administration|legal matter templates]].
+Stores user groups who can approve legal matter templates.
 
 </td></tr><tr><td>
 
@@ -229,7 +229,3 @@ Stores the details of the relationship between a request and a matter.
 </td></tr></tbody>
 </table>**Parent Topic:**[Legal Matter Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/legal-matter-management-reference.md)
 
-## Related
-
-- [[legal-matter-management-landing-page|Legal Matter Management]]
-- [[legal-matter-administration|Legal matter templates]]

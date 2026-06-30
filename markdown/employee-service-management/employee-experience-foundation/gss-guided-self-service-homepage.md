@@ -19,7 +19,7 @@ Use the Guided Self-Service experience to self-serve, leading to improved produc
 With an in-context visual way to navigate the complex work scenarios, you can enhance productivity, engagement, and contribute to the overall organizational efficiency.
 
 -   Self-serve with easy access to information, processes, and resolutions for day-to-day work.
--   [[discover-lxp|Discover]] and use the available GSS process from the search.
+-   Discover and use the available GSS process from the search.
 -   Navigate to the right article or catalog form through a visual QnA experience.
 -   Access information, services, and technology intuitively​.
 
@@ -34,7 +34,7 @@ As an employee, you can select options, view or modify the choices, restart acti
 
 Here is the intuitive step-by-step flow for the use cases.
 
-\[Omitted image "gss-guided-help-employee.gif"\] Alt text: Know your benefits - [[gss-guided-self-service-overview|Guided Self-Service in Employee Center]] and its intuitive uses.
+\[Omitted image "gss-guided-help-employee.gif"\] Alt text: Know your benefits - Guided Self-Service in Employee Center and its intuitive uses.
 
 \[Omitted image "gss-guided-help-employee-leave-flow.gif"\] Alt text: Leave request - Guided Self-Service in Employee Center and its intuitive uses.
 
@@ -45,7 +45,7 @@ For more information, see [Guided Self-Service in Employee Center](https://raw.g
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -59,7 +59,7 @@ For more information, see [Guided Self-Service in Employee Center](https://raw.g
 
 [Task filters on My tasks]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -75,9 +75,3 @@ For more information, see [Guided Self-Service in Employee Center](https://raw.g
 
 [Access applications from App Launcher]()
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[gss-guided-self-service-overview|Guided Self-Service in Employee Center]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

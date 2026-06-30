@@ -45,9 +45,9 @@ Role required: admin
 
 ## Result
 
-The favicon appears in the bookmarks and browser address bar for the platform or the [[c_ContentManagementSystem|Content Management System]] \(CMS\). For more information on how to change the favicon for [[c_ServicePortal|Service Portal]], see [Create a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md).
+The favicon appears in the bookmarks and browser address bar for the platform or the Content Management System \(CMS\). For more information on how to change the favicon for Service Portal, see [Create a portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-a-portal.md).
 
-**Parent Topic:**[[t_CreateACompanyProfile|Create a company profile]]
+**Parent Topic:**[Create a company profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CreateACompanyProfile.md)
 
 **Related topics**  
 
@@ -60,8 +60,3 @@ The favicon appears in the bookmarks and browser address bar for the platform or
 
 [Modify the banner]()
 
-## Related
-
-- [[t_CreateACompanyProfile|Create a company profile]]
-- [[c_ContentManagementSystem|Content Management System]]
-- [[c_ServicePortal|Service Portal]]

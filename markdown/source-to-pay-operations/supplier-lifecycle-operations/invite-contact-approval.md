@@ -14,7 +14,7 @@ breadcrumb: [Configure self-registration for external users, Install Supplier Co
 
 # Configure the flow to create approval records for all supplier contact invite requests
 
-Typically, an approval record is created only when a [[supplier-contact|supplier contact]] self-registers to get access to the [[supplier-central|Supplier Collaboration Portal]]. However, a [[supplier|supplier]] admin can configure the Supplier Contact Onboarding flow to create approval records even when a supplier manager adds or invites a new supplier contact.
+Typically, an approval record is created only when a supplier contact self-registers to get access to the Supplier Collaboration Portal. However, a supplier admin can configure the Supplier Contact Onboarding flow to create approval records even when a supplier manager adds or invites a new supplier contact.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.admin
 
 After you perform this task, an approval record is created for the Enroll a new supplier user case type, regardless of whether a supplier contact self-registers or a supplier manager invites a new supplier contact.
 
-**Important:** [[supplier-case-management|Supplier Case Management]] creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
+**Important:** Supplier Case Management creates an approval record if the "Ask For Approval" action is a part of any SLO flow. This approval record can be approved by the user who belongs to the Supplier Administrators group \(sys\_user\_group table\). For more information, see [Add a user to a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAUserToAGroup.md).
 
 ## Procedure
 
@@ -52,9 +52,3 @@ After you perform this task, an approval record is created for the Enroll a new 
 
 [Configure the Vendor Contact table to send invitation emails during self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-vendor-contact-table.md)
 
-## Related
-
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[supplier|Supplier]]
-- [[supplier-case-management|Supplier Case Management]]

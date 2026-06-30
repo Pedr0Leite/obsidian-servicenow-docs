@@ -27,9 +27,9 @@ These fields operate the same as normal text and HTML fields respectively, excep
 
 **Note:** There is a slight performance penalty associated with changing a normal HTML or text field into a translated HTML or text field. It is best only to use translated fields if the translated capability is required.
 
-For translated text and HTML fields, the English language text is stored in the main table, but the values of other languages are stored in the Translated Text \[sys\_translated\_text\] table. Each translated field on every row has one or more entries in the [[r_TranslatedText|Translated Text table]]: one per language for which ServiceNow provides a translation. For more information, see [Translated text table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslatedText.md).
+For translated text and HTML fields, the English language text is stored in the main table, but the values of other languages are stored in the Translated Text \[sys\_translated\_text\] table. Each translated field on every row has one or more entries in the Translated Text table: one per language for which ServiceNow provides a translation. For more information, see [Translated text table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslatedText.md).
 
-**Note:** Knowledge article translation uses a separate system that relies on the I18N: [[ia-knowledge-mgmt|Knowledge Management]] Internationalization Plugin. If this plugin is not activated, knowledge article translation falls back on the system described here, with translations kept in the Translated Text \[sys\_translated\_text\] table. For more information about Knowledge Management internationalization, see [Translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/translation-management.md) in the Knowledge Management documentation.
+**Note:** Knowledge article translation uses a separate system that relies on the I18N: Knowledge Management Internationalization Plugin. If this plugin is not activated, knowledge article translation falls back on the system described here, with translations kept in the Translated Text \[sys\_translated\_text\] table. For more information about Knowledge Management internationalization, see [Translation management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/translation-management.md) in the Knowledge Management documentation.
 
 ## Translate long text content
 
@@ -73,7 +73,4 @@ Use the following procedure to translate the content for customer-created text f
 
     A new record in the Translated Text \[sys\_translated\_text\] table for the active language is added. For more information about this table, see [Translated text table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/r_TranslatedText.md).
 
-## Related
 
-- [[r_TranslatedText|Translated text table]]
-- [[ia-knowledge-mgmt|Knowledge management]]

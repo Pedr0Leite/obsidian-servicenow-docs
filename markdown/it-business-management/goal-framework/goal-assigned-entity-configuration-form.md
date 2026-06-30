@@ -14,17 +14,13 @@ breadcrumb: [Reference, Goal Framework and Goal Framework for SPM, Strategic Por
 
 # Goal Assigned Entity Configuration form
 
-Use the Goal Assigned Entity Configuration form to [[configure-assigned-entity|configure a table for an assigned entity]] type so that the goal user can associate goals with the required assigned entity.
+Use the Goal Assigned Entity Configuration form to configure a table for an assigned entity type so that the goal user can associate goals with the required assigned entity.
 
 |Field|Description|
 |-----|-----------|
 |Assigned entity table|Entity table that a goal is assigned to.|
 |Application|Name of the application scope.|
-|Assigned entity field|Reference field on the [[goal-form|goal form]].|
+|Assigned entity field|Reference field on the goal form.|
 
 **Parent Topic:**[Goal Framework and Goal Framework for SPM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/goal-framework/goal-framework-reference.md)
 
-## Related
-
-- [[configure-assigned-entity|Configure a table for an assigned entity]]
-- [[goal-form|Goal form]]

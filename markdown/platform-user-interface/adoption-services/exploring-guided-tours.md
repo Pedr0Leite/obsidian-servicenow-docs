@@ -14,13 +14,13 @@ breadcrumb: [Guided Tours, Adoption services, Configure user experiences]
 
 # Exploring Guided Tours
 
-Discover the components of [[guided-tours|Guided Tours]] and learn how to create and utilize guided tours to familiarize new users with the features and processes of the ServiceNow AI Platform®.
+Discover the components of Guided Tours and learn how to create and utilize guided tours to familiarize new users with the features and processes of the ServiceNow AI Platform®.
 
 ## Get to know Guided Tours
 
-ServiceNow® Guided Tours are interactive guides designed to help users [[exploring|explore]] the features and processes of the ServiceNow AI Platform®. Two main personas are involved: the Administrator \(or designer\) and the User \(or player\). Administrators create the guided tours, which Users then utilize to understand the platform's capabilities and processes.
+ServiceNow® Guided Tours are interactive guides designed to help users explore the features and processes of the ServiceNow AI Platform®. Two main personas are involved: the Administrator \(or designer\) and the User \(or player\). Administrators create the guided tours, which Users then utilize to understand the platform's capabilities and processes.
 
-The tours are designed to operate within the ServiceNow® user interface, which includes the Standard UI, Workspace, [[c_ServicePortal|Service Portal]], and Custom UI.
+The tours are designed to operate within the ServiceNow® user interface, which includes the Standard UI, Workspace, Service Portal, and Custom UI.
 
 Each tour may consist of steps where users can either read information or engage in interactive experiences. For instance, the ["Explore Service Portal Home Page"](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/usecase-create-guide-tour-service-portal.md) tour highlights the features of the Service Portal, while the ["Create an Incident in Workspaces"](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/usecase-create-guided-tour-in-workspace.md)tour guides users through the process of creating an incident, resulting in a new record being added to the Incidents list.
 
@@ -42,8 +42,3 @@ Administrators \(or designers\) create engaging guided tours that empower users 
 |\(Optional\) [Guided Tour Designer use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-designer-use-case.md)|
 |[Guided Tours dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/adoption-services/guided-tour-overview.md)|
 
-## Related
-
-- [[guided-tours|Guided Tours]]
-- [[exploring|Explore]]
-- [[c_ServicePortal|Service Portal]]

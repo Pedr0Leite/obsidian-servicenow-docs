@@ -29,8 +29,5 @@ The following image shows the qualitative metric overview page with the data sta
 
 \[Omitted image "qualitative-md-overview.png"\] Alt text: Qualitative metric definition overview page.
 
-**Parent Topic:**[[using-grc-metrics|Using GRC: Metrics to provide data]]
+**Parent Topic:**[Using GRC: Metrics to provide data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-grc-metrics.md)
 
-## Related
-
-- [[using-grc-metrics|using grc metrics]]

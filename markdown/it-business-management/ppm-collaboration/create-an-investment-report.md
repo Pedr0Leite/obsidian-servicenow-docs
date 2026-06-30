@@ -22,7 +22,7 @@ Role required: it\_project\_manager, it\_project\_user, or sn\_ppm\_finance\_rea
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Project** &gt; **[[investment-portal|Investment Portal]]**.
+1.  Navigate to **All** &gt; **Project** &gt; **Investment Portal**.
 
 2.  On the My Investment Views page, select **New**.
 
@@ -54,6 +54,3 @@ Once your investment board is created, it opens up in the Investment Portal page
 
 [Investment Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/investment-portal.md)
 
-## Related
-
-- [[investment-portal|Investment Portal]]

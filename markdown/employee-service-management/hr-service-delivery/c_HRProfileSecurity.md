@@ -14,7 +14,7 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # HR profile and HR case security
 
-Because [[c_HRProfileRecords|HR profile]] information is sensitive and confidential, the System Administrator \[admin\] cannot view it. The same is true for some of the information in HR cases and HR tasks.
+Because HR profile information is sensitive and confidential, the System Administrator \[admin\] cannot view it. The same is true for some of the information in HR cases and HR tasks.
 
 HR profile information is confidential and viewed only by authorized HR personnel who are assigned a role that includes sn\_hr\_core.profile\_reader or sn\_hr\_core.profile\_writer, such as sn\_hr\_core.secure\_info\_reader.
 
@@ -33,7 +33,7 @@ System Administrators cannot create an HR profile. They can see the list of HR p
     -   Employment Information
     -   Contact Information
     -   Beneficiaries
-    -   [[t_WhosCovered|Who is Covered]]
+    -   Who is Covered
     -   Emergency Contacts
     -   Direct Reports
     -   Colleagues
@@ -41,7 +41,7 @@ System Administrators cannot create an HR profile. They can see the list of HR p
 
 ## HR case and task information accessible by HR Administrators
 
-HR Administrators can view the employee user information, such as location and department, and the short description. Activities, such as state changes, are displayed in the [[activity-lxp|activity]] stream, but comments and work notes are hidden. System Administrators cannot view this information.
+HR Administrators can view the employee user information, such as location and department, and the short description. Activities, such as state changes, are displayed in the activity stream, but comments and work notes are hidden. System Administrators cannot view this information.
 
 When the HR Administrator opens an HR case or HR task, a message describes the information that is not displayed.
 
@@ -51,7 +51,7 @@ An HR case can be created from an HR profile. Click **Create New Case** under **
 
 You can prevent a user from accessing HR information by impersonating a user that has HR access by using the **If true, ACLs check if the user is being impersonated.** property.
 
--   Navigate to **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Properties**.
+-   Navigate to **HR Administration** &gt; **Properties**.
 -   Scroll to **If true, ACLs check if the user is being impersonated.**
 -   Check **Yes** \(true\) to enable ACLs to check when a user is impersonating another user and prevent the user from viewing HR information.
 
@@ -59,7 +59,7 @@ You can prevent a user from accessing HR information by impersonating a user tha
 
 -   Even if the logged in user has HR access and impersonates another HR user with the same access, HR information is not visible.
 
-    **Note:** This property was introduced for the [[hr-service-delivery|HR Service Delivery]] scoped application and not applicable to the [[hr-service-administration|HR Services]] Delivery Non-scoped application.
+    **Note:** This property was introduced for the HR Service Delivery scoped application and not applicable to the HR Services Delivery Non-scoped application.
 
 
 See [Add field security in HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/FieldSecurity.md).
@@ -70,11 +70,3 @@ See [Manage HR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDoc
 
 **Parent Topic:**[HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[t_WhosCovered|Who is covered]]
-- [[activity-lxp|Activity]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-service-administration|HR services]]

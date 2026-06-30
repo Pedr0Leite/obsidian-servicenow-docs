@@ -55,7 +55,7 @@ Record-level analysis provides deeper insights into your data. You can activate 
 
 10. Select **Save and continue**.
 
-11. Finish configuring the skill as described in [[activate-now-ass-explorer|Activate AI Data Explorer skills]], or exit if the skill is already activated and you don’t wish to make further changes.
+11. Finish configuring the skill as described in [Activate AI Data Explorer skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/activate-now-ass-explorer.md), or exit if the skill is already activated and you don’t wish to make further changes.
 
 
 ## Simple request with and without record level analytics
@@ -72,9 +72,5 @@ Finally, you ask the same question again in an exploration, asking for all open 
 
 \[Omitted image "ai-data-expl-response-with-rla.png"\] Alt text: Response in an exploration with record level analytics.
 
-**Parent Topic:**[[configure-now-ass-explorer|Configure AI Data Explorer]]
+**Parent Topic:**[Configure AI Data Explorer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-now-ass-explorer.md)
 
-## Related
-
-- [[activate-now-ass-explorer|Activate AI Data Explorer skills]]
-- [[configure-now-ass-explorer|Configure AI Data Explorer]]

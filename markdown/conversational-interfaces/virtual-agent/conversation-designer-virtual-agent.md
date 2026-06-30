@@ -15,19 +15,19 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Getting started with Virtual Agent Designer
 
-The [[virtual-agent-landing-page|Virtual Agent]] Designer is a diagram tool for creating and managing assets, which are blueprints for conversations between a Virtual Agent and a user. You can design topics that help your users resolve common work issues or guide them through self-service tasks.
+The Virtual Agent Designer is a diagram tool for creating and managing assets, which are blueprints for conversations between a Virtual Agent and a user. You can design topics that help your users resolve common work issues or guide them through self-service tasks.
 
 Virtual Agent conversations are built using topics. When building an asset, there are various components \(controls\) that you can use to build the logic of a conversation, as well as the responses that the user sees.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
-You can also view and manage the following in [[assistant-designer|Assistant Designer]]:
+You can also view and manage the following in Assistant Designer:
 
 -   Conversational subflows and actions for LLM-enabled conversations
 
-    Virtual Agent conversations can include subflows and actions if they were made conversational in Workflow Studio or topics that include subflows and actions through the [[va-action|Action utility]] node.
+    Virtual Agent conversations can include subflows and actions if they were made conversational in Workflow Studio or topics that include subflows and actions through the Action utility node.
 
-    -   Conversational subflows and actions are available in Assistant Designer only if [[now-assist-in-va-landing|Now Assist in Virtual Agent]] has been configured.
+    -   Conversational subflows and actions are available in Assistant Designer only if Now Assist in Virtual Agent has been configured.
     -   Conversational subflows and actions are also shown in Assistant Designer if the Now Assist Panel is available. For more information on the Now Assist Panel, see [Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-panel-overview.md).
     -   Conversational subflows and actions only appear to users during a conversation if the Subflows and actions skill is turned on in Now Assist Admin. For more information, see [Now Assist in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/now-assist-in-va-landing.md).
     **Note:** Conversational subflows and actions are not applicable to the Virtual Agent Designer legacy topic cards page view.
@@ -51,7 +51,7 @@ If you're using ServiceNow NLU/keyword topic discovery, then Assistant Designer 
 
 ## Assistant Designer Asset library
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 When you open Assistant Designer, the Asset library lists the assets in your instance. These assets include topics, topic blocks, setup topics, small talk topics, custom controls, subflows, actions, and AI agents.
 
@@ -94,9 +94,9 @@ For LLM topics, the **Select assistant** list enables you to filter the assets b
 
 \[Omitted image "vad-home-assist.png"\] Alt text: Select an assistant.
 
-You can create assistants from **[[convint-landing-page|Conversational interfaces]]** &gt; **Assistants**. For more information about creating assistants, see [Create a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/create-assistant.md).
+You can create assistants from **Conversational interfaces** &gt; **Assistants**. For more information about creating assistants, see [Create a chat assistant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/create-assistant.md).
 
-For more information about [[llm-assistants|LLM assistants]], see [LLM assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/llm-assistants.md).
+For more information about LLM assistants, see [LLM assistants](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/now-assist-in-virtual-agent/llm-assistants.md).
 
 ## Topic properties
 
@@ -108,7 +108,7 @@ Use the **Properties** tab to do the following:
 -   Specify the model type, purpose of the topic, and which assistants can run this topic for Now Assist customers.
 -   Specify the model type, add a topic description, specify the purpose of the topic, and select which assistants can run this topic for Now Assist customers.
 -   Control who uses the topic and [what channels it can run in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/integrate-virtual-agent.md).
--   Associate [[live-agent-chat-context-vars|live agent variables]] with a topic.
+-   Associate [live agent variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md) with a topic.
 -   Add keywords to the topic or map the topic to a ServiceNow NLU model and intent.
 
 For more information, see [Topic Properties tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-topic-properties-tab.md).
@@ -182,7 +182,7 @@ Investigate and resolve unexpected behavior in your custom Virtual Agent topics,
 -   **[Publish a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/publish-virtual-agent-topic.md)**  
 Deploy an inactive topic or an updated topic to save it and make it available to users on Virtual Agent clients.
 -   **[Delete a Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/delete-virtual-agent-topic.md)**  
-[[delete-virtual-agent-topic|Delete a Virtual Agent topic]] that is no longer needed.
+Delete a Virtual Agent topic that is no longer needed.
 -   **[Promote or demote LLM conversational subflows, actions, and topics in Assistant Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/promote-demote-va-topics.md)**  
 Promote assets including conversational subflows, conversational actions, and topics in Assistant Designer, after associating them with a large language model \(LLM\) assistant, to have them suggested to the user by the LLM assistant.
 -   **[Reorder promoted LLM conversational subflows, actions, and topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/sort-promoted-va-topics.md)**  
@@ -202,14 +202,3 @@ View AI agents created in AI Agent Studio through Assistant Designer.
 
 **Parent Topic:**[Building and deploying Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/using-virtual-agent.md)
 
-## Related
-
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[assistant-designer|Assistant Designer]]
-- [[va-action|Action utility]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[llm-assistants|LLM assistants]]
-- [[delete-virtual-agent-topic|Delete a Virtual Agent topic]]

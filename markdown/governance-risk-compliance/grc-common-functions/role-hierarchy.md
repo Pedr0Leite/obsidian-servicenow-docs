@@ -22,7 +22,7 @@ GRC users can have usage-based or role-based use of licenses. If the license usa
 
 To see the role hierarchy of a user, use either of the following methods:
 
--   On the [[grc-licensing-summary-dashboard|GRC licensing summary dashboard]], under the License consumption tab, select the user count, then a user and select **Show role hierarchy**.
+-   On the GRC licensing summary dashboard, under the License consumption tab, select the user count, then a user and select **Show role hierarchy**.
 -   On the GRC licensing summary dashboard, under the Estimated next month usage tab, select the user count, then a user and select **Show role hierarchy**. Or select a user under User role allocation and then select **Show role hierarchy**.
 
 The role hierarchy node map displays the child relationships of a user. If a user has multiple roles assigned, the role hierarchy node map displays the entire hierarchy.
@@ -35,6 +35,3 @@ The following illustration shows a sample node map for user Cary Mccamey. Cary h
 
 **Parent Topic:**[GRC licensing summary dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-licensing-summary-dashboard.md)
 
-## Related
-
-- [[grc-licensing-summary-dashboard|GRC licensing summary dashboard]]

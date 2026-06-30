@@ -14,16 +14,12 @@ breadcrumb: [Health and Safety Environmental Management, Health and Safety, Empl
 
 # Using Health and Safety Environmental Management
 
-Learn how to use the [[hs-environmental-management-landing-page|Health and Safety Environmental Management]] application to manage and track chemicals for your organizations.
+Learn how to use the Health and Safety Environmental Management application to manage and track chemicals for your organizations.
 
-For an overview of [[hs-using-chemical-management|chemical management]] and its benefits, see [Chemical management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-chemical-management-workflow.md).
+For an overview of chemical management and its benefits, see [Chemical management overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-chemical-management-workflow.md).
 
 -   **[Chemical management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-using-chemical-management.md)**  
 Use the Health and Safety Environmental Management application to view the chemical library, raise chemical requests, and submit the requests for approvals.
 
 **Parent Topic:**[Health and Safety Environmental Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-environmental-management-landing-page.md)
 
-## Related
-
-- [[hs-environmental-management-landing-page|Health and Safety Environmental Management]]
-- [[hs-using-chemical-management|Chemical management]]

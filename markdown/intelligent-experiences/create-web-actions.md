@@ -12,17 +12,17 @@ breadcrumb: [Create AI agents, AI Desktop Actions, Enable AI experiences]
 
 # Add an adaptive desktop action tool to an AI agent for web-based tasks
 
-Configure and add a desktop action as a tool to an AI agent in [[ai-agent-studio|AI Agent Studio]] so that AI agents can perform dynamic steps in the web environment.
+Configure and add a desktop action as a tool to an AI agent in AI Agent Studio so that AI agents can perform dynamic steps in the web environment.
 
 ## Before you begin
 
-Familiarize yourself with adaptive desktop actions. For more information, see [[web-agents-overview|Adaptive desktop actions for web-based tasks]].
+Familiarize yourself with adaptive desktop actions. For more information, see [Adaptive desktop actions for web-based tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/web-agents-overview.md).
 
 Role required: sn\_aia.admin
 
 ## About this task
 
-Desktop actions are tools that AI agents use to interact with web applications through a browser extension. When you configure an AI agent and select desktop action as a tool, you define whether the AI agent follows a defined path \(fixed steps designed in [[agentic-desktop-landing-page|AI Desktop Actions]]\) or an adaptive path \(high-level goal described in the tool configuration\). Unlike defined path desktop actions that follow preconfigured workflows, adaptive path desktop actions enable AI agents to dynamically plan and execute tasks based on high-level instructions.
+Desktop actions are tools that AI agents use to interact with web applications through a browser extension. When you configure an AI agent and select desktop action as a tool, you define whether the AI agent follows a defined path \(fixed steps designed in AI Desktop Actions\) or an adaptive path \(high-level goal described in the tool configuration\). Unlike defined path desktop actions that follow preconfigured workflows, adaptive path desktop actions enable AI agents to dynamically plan and execute tasks based on high-level instructions.
 
 An AI agent named **Web Automation Agent** and agentic workflow named **Web Automation** are provided by default when you install AI Desktop Actions. You can create a different AI agent following this procedure.
 
@@ -36,7 +36,7 @@ An AI agent named **Web Automation Agent** and agentic workflow named **Web Auto
 
     You can select the AI agent that is provided by default \(**Web Automation Agent**\) or create an AI agent.
 
-    For creating an AI agent, see [[configure-next-best-action-agent|Create an AI agent]].
+    For creating an AI agent, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 4.  Navigate to the **Add tools and information** step.
 
@@ -82,7 +82,7 @@ Description of the tool's purpose, functionality, inputs, and expected outputs, 
 
 </td></tr><tr><td id="d98904e249">
 
-**[[now-assist-global-navigation|Navigation]] actions**
+**Navigation actions**
 
 </td><td>
 
@@ -112,7 +112,7 @@ Mode of execution for your selected desktop action:-   **Supervised**: Inputs fr
 
 </td><td>
 
-Permission to display the output of the execution in the [[now-assist-center-now-assist-panel|Now Assist panel]] or in Virtual Agent:-   **Yes**
+Permission to display the output of the execution in the Now Assist panel or in Virtual Agent:-   **Yes**
 -   **No**
 If you want the AI agent to work in Off Glide architecture with AI-native experience, you must turn-on the **Display output** toggle. When the toggle is turned-on, you can add widgets that can be used in assistants built with AI-native experiences. The widget configuration includes:
 
@@ -156,14 +156,5 @@ Message to display to users during tool execution.-   In-progress message: Write
 
 ## What to do next
 
-For more information about executing desktop actions, see [[use-agentic-desktop|Examples of executing desktop actions using AI agents]].
+For more information about executing desktop actions, see [Examples of executing desktop actions using AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-agentic-desktop.md).
 
-## Related
-
-- [[web-agents-overview|Adaptive desktop actions for web-based tasks]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[use-agentic-desktop|Examples of executing desktop actions using AI agents]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-global-navigation|Navigation]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

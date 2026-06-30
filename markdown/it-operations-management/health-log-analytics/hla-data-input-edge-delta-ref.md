@@ -58,7 +58,7 @@ When choosing the TCP transport option, create a TCP destination in Edge Delta t
 
 **Note:** For the HTTP protocol, authentication is used.
 
-If you select HTTP, you must provide the [[mid-web-server|MID Web Server]] that is running on the MID Server. The system then populates the MID Server and port fields automatically, based on the provided MID Web Server.
+If you select HTTP, you must provide the MID Web Server that is running on the MID Server. The system then populates the MID Server and port fields automatically, based on the provided MID Web Server.
 
 Depending on the MID Web Server configuration, you can send logs using either HTTP or HTTPS. If the **Secure Connection** check box on the MID Web Server extension form is clear, use HTTP. If it is selected, use HTTPS. For more information, see [Event Management MID Web Server extension form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-midwebserver-extension-form.md). In addition, if the **Authentication Type** on the MID Web Server extension form is Basic, provide Basic authentication details in the Authorization header. If the **Authentication Type** is API Key, provide the key as “Key Api\_Key".
 
@@ -106,6 +106,3 @@ The service instance to which to bind the log data. This field is required.Choos
 </td></tr></tbody>
 </table>**Parent Topic:**[Data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-config-fields.md)
 
-## Related
-
-- [[mid-web-server|MID Web Server]]

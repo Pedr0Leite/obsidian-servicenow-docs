@@ -14,7 +14,7 @@ breadcrumb: [Document references, Use, Document Management, Document Services, M
 
 # Delete a document reference from document record
 
-Remove and unlink a document [[reference|reference]] from a document record.
+Remove and unlink a document reference from a document record.
 
 ## Before you begin
 
@@ -38,14 +38,10 @@ User: owner
 
 2.  Select the document.
 
-3.  In the **[[doc-mgt-references|Document References]]** tab, select the documents you want to unlink.
+3.  In the **Document References** tab, select the documents you want to unlink.
 
 4.  In the **Actions on selected rows** drop-down menu, select **Remove**.
 
 
 **Parent Topic:**[Document references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-mgt-references.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[doc-mgt-references|Document references]]

@@ -24,7 +24,7 @@ Role required: ham\_admin, asset \(owner of the goal\)
 
 1.  Navigate to one of the following paths.
 
-    -   **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Success portal**
+    -   **Hardware Asset Workspace** &gt; **Success portal**
     -   **Hardware Asset Workspace** &gt; **Asset operations** &gt; **Success activities**
 2.  Select **Create success activity** or **New**.
 
@@ -37,11 +37,7 @@ Role required: ham\_admin, asset \(owner of the goal\)
 
 ## Result
 
-The success activity that you created gets displayed on the Success activities page in the [[asset-operations-view|Asset operations view]].
+The success activity that you created gets displayed on the Success activities page in the Asset operations view.
 
 **Parent Topic:**[Assess performance of Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/suc-goal-act-hw.md)
 
-## Related
-
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

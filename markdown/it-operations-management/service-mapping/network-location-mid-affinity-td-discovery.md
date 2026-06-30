@@ -14,7 +14,7 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Fine-tune Service Mapping with MID affinity and IP reuse
 
-The MID Server needed to map an application service might be misidentified in subnetworks with overlapping IP ranges and reused IP addresses. To enable the successful [[r-discovery|discovery]] of resources associated with a subnetwork, [[c_ServiceMappingOverview|Service Mapping]] provides several properties for MID Server identification.
+The MID Server needed to map an application service might be misidentified in subnetworks with overlapping IP ranges and reused IP addresses. To enable the successful discovery of resources associated with a subnetwork, Service Mapping provides several properties for MID Server identification.
 
 The networks of large organizations are often divided into numerous subnetworks, each acting as a network of its own. Service Mapping selects the MID Server based on its IP range. Subnetworks with overlapping IP ranges and reuse of IP addresses risk misidentification of the MID Server needed to map an application service. Discovery can therefore fail, resulting in incomplete or inaccurate service maps.
 
@@ -39,7 +39,3 @@ To learn more about enabling each property, see [Components installed with Servi
 
 [MID Server configuration for Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/configure-mid-service-mapping.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

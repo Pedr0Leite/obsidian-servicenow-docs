@@ -35,7 +35,7 @@ Role required: admin or survey\_admin
     The changes are also reflected in the **Survey Users** related list on the survey definition.
 
 
-**Parent Topic:**[[c_SurveyUsersAndGroups|Survey users and groups]]
+**Parent Topic:**[Survey users and groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SurveyUsersAndGroups.md)
 
 **Related topics**  
 
@@ -48,6 +48,3 @@ Role required: admin or survey\_admin
 
 [Allow recipients to retake a survey]()
 
-## Related
-
-- [[c_SurveyUsersAndGroups|Survey users and groups]]

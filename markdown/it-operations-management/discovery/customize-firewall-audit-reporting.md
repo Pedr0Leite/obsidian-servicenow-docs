@@ -14,11 +14,11 @@ breadcrumb: [Visibility to Firewall inventory, Configuring Firewall Audits and R
 
 # Customize Firewall Audits and Reporting
 
-Change [[r_DiscoveryProperties|Discovery properties]] to customize some of the aspects of [[firewall-audit-reporting|Firewall Audits and Reporting]].
+Change Discovery properties to customize some of the aspects of Firewall Audits and Reporting.
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## About this task
 
@@ -41,8 +41,3 @@ Role required: [[r-discovery|discovery]]\_admin or admin
 
 **Parent Topic:**[Visibility to Firewall inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/use-firewall-audit-rep.md)
 
-## Related
-
-- [[r_DiscoveryProperties|Discovery properties]]
-- [[firewall-audit-reporting|Firewall Audits and Reporting]]
-- [[r-discovery|Discovery]]

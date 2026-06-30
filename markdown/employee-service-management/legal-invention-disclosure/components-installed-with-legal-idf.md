@@ -14,7 +14,7 @@ breadcrumb: [Reference, Legal Invention Disclosure, Legal Service Delivery Pract
 
 # Components installed with Legal Invention Disclosure
 
-Several types of components are installed with activation of the [[legal-invention-disclosure-landing|Legal Invention Disclosure]] plugin, including tables and user role.
+Several types of components are installed with activation of the Legal Invention Disclosure plugin, including tables and user role.
 
 ## Roles
 
@@ -67,6 +67,3 @@ Fulfiller access for working on assigned requests and matters.
 
 **Parent Topic:**[Legal Invention Disclosure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/legal-invention-disclosure-reference.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]

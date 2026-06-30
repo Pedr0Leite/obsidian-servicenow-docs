@@ -21,7 +21,7 @@ MID Servers can be deployed via StatefulSet with any number of replicas. They ca
 ![Setup indicator for configuration phase](../image/ProgressBarConfig.png)
 
 </td></tr></tbody>
-</table>Kubernetes can add or remove any numbers of stateful [[mid-server-landing|MID Server]] replicas as required by the workload. HPA only supports CPU and memory metrics. MID Servers can be deployed as a stateful application by providing the following information in the StatefulSet section of the deployment request form:
+</table>Kubernetes can add or remove any numbers of stateful MID Server replicas as required by the workload. HPA only supports CPU and memory metrics. MID Servers can be deployed as a stateful application by providing the following information in the StatefulSet section of the deployment request form:
 
 -   Name
 -   Headless service name
@@ -47,6 +47,3 @@ When you create a deployment request, you can choose either HPA version 1 or ver
 
 When creating a deployment request on the instance with an HPA configuration, apply the exported YAML file and HPA autoscaling begins working immediately.
 
-## Related
-
-- [[mid-server-landing|MID Server]]

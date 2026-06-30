@@ -14,7 +14,7 @@ breadcrumb: [Style rules definition, Change schedules, Configure, Change Managem
 
 # Define default style rules
 
-You can define style rules from the Default Style Rules module when you want the style rules to be used by [[change-schedule|change schedules]] globally and not for any specific application.
+You can define style rules from the Default Style Rules module when you want the style rules to be used by change schedules globally and not for any specific application.
 
 ## Before you begin
 
@@ -109,6 +109,3 @@ Color of the schedule span displayed for each record on the timeline that matche
 
 [Define style rules from Change Schedules View]()
 
-## Related
-
-- [[change-schedule|Change schedules]]

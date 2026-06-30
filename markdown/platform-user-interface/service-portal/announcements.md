@@ -14,7 +14,7 @@ breadcrumb: [Service Portal, Configure UIs and portals, Configure user experienc
 
 # Posting announcements to portal users
 
-Announcements broadcast messages to [[c_ServicePortal|Service Portal]] users. They display in an announcement banner or an announcement widget instance.
+Announcements broadcast messages to Service Portal users. They display in an announcement banner or an announcement widget instance.
 
 Announcements are active on new instances. To activate announcements after upgrade, activate the Service Portal Announcements plugin \(com.glide.service-portal.announcements\).
 
@@ -42,7 +42,7 @@ When creating announcements, you can define the way an announcement displays.
 
     -   Create a custom color scheme.
     -   Change the text alignment.
-    Announcements that appear in a banner use the display style defined in the Announcement record by default. To use the display style in an instance of the [[announcements-widget|Announcements widget]], select the **Use Display Style** instance option.
+    Announcements that appear in a banner use the display style defined in the Announcement record by default. To use the display style in an instance of the Announcements widget, select the **Use Display Style** instance option.
 
 -   **User criteria**
 
@@ -58,7 +58,3 @@ Announcement types determine where an announcement displays. Announcements inclu
 
 **Parent Topic:**[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[announcements-widget|Announcements widget]]

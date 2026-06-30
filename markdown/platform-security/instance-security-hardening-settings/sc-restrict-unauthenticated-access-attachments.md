@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Restrict unauthenticated access to image attachments using a system property.
 
-Use the **glide.image\_provider.security\_enabled** property restrict unauthenticated access to image attachments. If set to `true`, images are visible to any authenticated user but no unauthenticated user. If set to `false`, images are visible to anyone with a URL to the attachment. Thumbnails of an attached image maintain the same policy as the original attached image and are accessible to the same set of [[users|users]] as the original attached image. When this property is enabled, more fine grained [[sc-access-control|access control]] for unauthenticated users is obtained through entries in the Security Allow/Deny List Entities \[sys\_security\_restricted\_list\] table and through the declaration of public KB articles for those images attached to KB articles. These exceptions to the default policy for unauthenticated users when this property is `true` are applied in the following order.
+Use the **glide.image\_provider.security\_enabled** property restrict unauthenticated access to image attachments. If set to `true`, images are visible to any authenticated user but no unauthenticated user. If set to `false`, images are visible to anyone with a URL to the attachment. Thumbnails of an attached image maintain the same policy as the original attached image and are accessible to the same set of users as the original attached image. When this property is enabled, more fine grained access control for unauthenticated users is obtained through entries in the Security Allow/Deny List Entities \[sys\_security\_restricted\_list\] table and through the declaration of public KB articles for those images attached to KB articles. These exceptions to the default policy for unauthenticated users when this property is `true` are applied in the following order.
 
 **Note:** In these exceptions, "parent table" refers to the table of the original image attachment from which a thumbnail is generated.
 
@@ -24,7 +24,7 @@ Use the **glide.image\_provider.security\_enabled** property restrict unauthenti
 2.  If the table of an attached image or parent table of a thumbnail image is allow-listed in the Security Allow/Deny List Entities \[sys\_security\_restricted\_list\] table, access is granted to the image/thumbnail.
 3.  If the table of an attached image or parent table of a thumbnail image is included in a public KB article, access is granted to the image/thumbnail.
 
-Ensure that the property **glide.image\_provider.security\_enabled** is set to `true`. If the property does not exist on the [[ca-system-properties|System Properties]] \[sys\_properties\] table, the default value is `false`.
+Ensure that the property **glide.image\_provider.security\_enabled** is set to `true`. If the property does not exist on the System Properties \[sys\_properties\] table, the default value is `false`.
 
 ## More information
 
@@ -46,7 +46,7 @@ Property name
 
 </td></tr><tr><td>
 
-[[sc-configuration|Configuration]] type
+Configuration type
 
 </td><td>
 
@@ -118,9 +118,3 @@ References
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-access-control|Access control]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]

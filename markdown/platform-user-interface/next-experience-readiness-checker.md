@@ -24,7 +24,7 @@ To access the Next Experience Readiness Checker, navigate to **Now Experience Fr
 
 \[Omitted image "next-exp-readiness-checker.png"\] Alt text: Next Experience Readiness Checker overview. The Next Experience Readiness Checker results section displays the application cards for each of the applications that are checked for compatibility with Next Experience. The applications that are checked are as follows.
 
--   [[guided-tours|Guided Tours]]
+-   Guided Tours
 -   Connect Chat
 -   Connect Support
 -   Live Feed
@@ -44,9 +44,5 @@ The compatibility scan examines your instance for usage of applications that are
 
 If there are no errors, select the **Turn on Next Experience** button to enable Next Experience.
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[guided-tours|Guided Tours]]

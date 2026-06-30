@@ -14,7 +14,7 @@ breadcrumb: [Using Knowledge Graph Designer, Knowledge Graph, Enable AI experien
 
 # Manage nodes in a Knowledge Graph schema
 
-Add or delete a node from an existing [[knowledge-graph-landing|Knowledge Graph]] schema.
+Add or delete a node from an existing Knowledge Graph schema.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ Role required: kg\_admin
 
     The nodes are added to the Knowledge Graph schema​ and displayed on Knowledge Graph canvas.
 
-6.  Select the node to update the node details in the side [[now-assist-global-navigation|navigation]] pane.
+6.  Select the node to update the node details in the side navigation pane.
 
 7.  Select **Save** to save your changes.
 
@@ -52,7 +52,4 @@ Role required: kg\_admin
 
     \[Omitted image "remove-node.png"\] Alt text: Remove node
 
-## Related
 
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[now-assist-global-navigation|Navigation]]

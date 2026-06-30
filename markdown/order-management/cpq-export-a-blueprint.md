@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Next to the blueprint name, select the check box.
 
-    \[Omitted image "cpq-[[blueprints|blueprints]]-export-1.png"\] Alt text: Blueprints user interface
+    \[Omitted image "cpq-blueprints-export-1.png"\] Alt text: Blueprints user interface
 
 2.  In the top right, select **Export**.
 
@@ -39,15 +39,10 @@ Role required: admin
 
 ## What to do next
 
-[[cpq-import-a-blueprint|Import a blueprint]]
+[Import a blueprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-import-a-blueprint.md)
 
 **Related topics**  
 
 
-[[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
+[Testing in non-production environments before migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-env-to-env-bp-migration-intro.md)
 
-## Related
-
-- [[cpq-import-a-blueprint|Import a blueprint]]
-- [[cpq-env-to-env-bp-migration-intro|Testing in non-production environments before migration]]
-- [[blueprints|Blueprints]]

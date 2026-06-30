@@ -14,11 +14,11 @@ breadcrumb: [Test Management 2.0, Test Management applications, Strategic Portfo
 
 # Sprint testing
 
-You can use [[test-management2-landing-page|Test Management 2.0]] with [[agile-landing-page|Agile Development 2.0]] to test the work of a scrum team sprint-by-sprint.
+You can use Test Management 2.0 with Agile Development 2.0 to test the work of a scrum team sprint-by-sprint.
 
 Sprint testing lets you verify user stories sprint by sprint. The process involves the following steps:
 
-1.  Create [[c_Tests|tests]] for the stories in the current sprint. For more information, see [Create a test in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md).
+1.  Create tests for the stories in the current sprint. For more information, see [Create a test in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/create-test2.md).
 2.  Run the assigned tests and capture results. For more information, see [Run your test assignments in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/run-your-test-assignments.md).
 3.  Review test results and close stories when all tests pass. For information about monitoring progress, see [Test Board in Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md).
 
@@ -34,7 +34,7 @@ With the integration of Test Management 2.0 and Agile Development 2.0, you can p
 -   Review the history of test results.
 -   Close stories.
 
-When you [[t_CreateATest|create a test]] through the **Sprint Tracking** view, the test is automatically associated with the story displayed in that row. You can verify this link by opening the story record and reviewing the **Tests** related list. To view all tests linked to stories in a sprint, use the [Test Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md).
+When you create a test through the **Sprint Tracking** view, the test is automatically associated with the story displayed in that row. You can verify this link by opening the story record and reviewing the **Tests** related list. To view all tests linked to stories in a sprint, use the [Test Board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-board.md).
 
 ## Viewing sprint test results
 
@@ -52,9 +52,3 @@ View the test scenario, execute all the steps of the test, and review the test r
 
 **Parent Topic:**[Test Management 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/test-management/test-management2-landing-page.md)
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[c_Tests|Tests]]
-- [[t_CreateATest|Create a test]]

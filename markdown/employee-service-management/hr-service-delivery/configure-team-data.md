@@ -22,7 +22,7 @@ Role required: sn\_mh.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[manager-hub-overview|Manager Hub]]** &gt; **Administration** &gt; **Team Data Configuration**.
+1.  Navigate to **All** &gt; **Manager Hub** &gt; **Administration** &gt; **Team Data Configuration**.
 
 2.  Click **New**.
 
@@ -137,6 +137,3 @@ Option to add a script to retrieve the preferred records. This option allows you
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]

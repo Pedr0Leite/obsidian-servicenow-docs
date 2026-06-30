@@ -12,11 +12,11 @@ breadcrumb: [CPQ, Configure, price, quote, Explore, Sales Customer Relationship 
 
 # Scripts
 
-Learn how scripting extends CPQ beyond simple [[rules_101|rules]]—understand where scripts run, what they return, and how to use them to model advanced configuration logic safely and efficiently.
+Learn how scripting extends CPQ beyond simple rules—understand where scripts run, what they return, and how to use them to model advanced configuration logic safely and efficiently.
 
 Scripting enhances CPQ when configuration logic requires more flexibility than simple rules. Administrators can use scripts to calculate complex values, evaluate conditions, or manipulate product data dynamically. Scripts are available in rule conditions, actions, and in blueprint enrichments for initialization, validation, or pricing.
 
-Scripting complements, but does not replace, declarative options. Use standard rules, [[cpq-picklist-extensions-ples|picklist extensions]], and [[product_picker_overview|product pickers]] first. Reserve scripting for specialized scenarios.
+Scripting complements, but does not replace, declarative options. Use standard rules, picklist extensions, and product pickers first. Reserve scripting for specialized scenarios.
 
 ## Where can you use scripts
 
@@ -121,7 +121,7 @@ Updated configuration object
 Scripts interact with the following configuration objects:
 
 -   `cfg`: A read-only snapshot of current field values used by rules.
--   `cfgRequest`: A writable object available in Enrichments; use `.set("value", x)` to [[Modify|modify]] [[fields|fields]].
+-   `cfgRequest`: A writable object available in Enrichments; use `.set("value", x)` to modify fields.
 -   `ProductList`: Used to add or modify items in the bill of materials \(BOM\).
 
 You can reference properties using either dot or bracket notation \(`cfgRequest.fieldName` or `cfgRequest["fieldName"]`\).
@@ -131,7 +131,7 @@ You can reference properties using either dot or bracket notation \(`cfgRequest.
 Use external data to enhance configurations dynamically:
 
 -   Managed tables: Query data with `lookup()` to map results into fields or products.
--   External connections: Make approved calls \(for example, SOQL queries to Salesforce\) to populate [[cpq-sets|sets]] or field values in Enrichments.
+-   External connections: Make approved calls \(for example, SOQL queries to Salesforce\) to populate sets or field values in Enrichments.
 
 These techniques reduce hard-coded logic and centralize data management.
 
@@ -154,14 +154,5 @@ The scripting interface includes built-in tools:
 **Related topics**  
 
 
-[[scripting|Create scripts]]
+[Create scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/scripting.md)
 
-## Related
-
-- [[scripting|Create scripts]]
-- [[rules_101|Rules]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]
-- [[product_picker_overview|Product pickers]]
-- [[Modify|Modify]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

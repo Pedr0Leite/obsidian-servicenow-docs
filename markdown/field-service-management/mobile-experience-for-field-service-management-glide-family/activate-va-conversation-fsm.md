@@ -14,7 +14,7 @@ breadcrumb: [Set up Virtual Agent conversations, Setting up Field Service Mobile
 
 # Activate required Virtual Agent conversation topics for Field Service Management
 
-Activate [[virtual-agent-fsm|Virtual Agent for Field Service Management]] to start chatting with the virtual agent.
+Activate Virtual Agent for Field Service Management to start chatting with the virtual agent.
 
 ## Before you begin
 
@@ -56,6 +56,4 @@ The base system provides the following predefined virtual agent topics \(chatbot
 
 4.  Repeat this procedure for the other required topics, as many times as needed.
 
-## Related
 
-- [[virtual-agent-fsm|Virtual Agent for Field Service Management]]

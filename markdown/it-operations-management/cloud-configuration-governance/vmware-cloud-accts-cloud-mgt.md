@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for VMware on Cloud Provisioning and Governance, 
 
 # Set up cloud accounts for VMware
 
-A cloud account is the logical representation in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
+A cloud account is the logical representation in Cloud Provisioning and Governance of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts — even service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Manage** &gt; **[[cloud-accounts|Cloud Accounts]]**.
+1.  In the Cloud Admin Portal, navigate to **Manage** &gt; **Cloud Accounts**.
 
 2.  Click **New**, enter a unique and meaningful **Name** and **Description**, and then select the cloud **Provider** for the account \(VMware vCenter\).
 
@@ -44,7 +44,7 @@ See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
     The following lists appear:
 
-    -   **Resources**: Cloud resources for the current datacenter. Run [[r-discovery|Discovery]] to populate the CMDB for the datacenter and populate the tab. See [Discover all datacenters in a service account on-demand]().
+    -   **Resources**: Cloud resources for the current datacenter. Run Discovery to populate the CMDB for the datacenter and populate the tab. See [Discover all datacenters in a service account on-demand]().
     -   **Capacity Limits**: Limits on virtual CPUs, virtual networks, storage volume size, and other services. [Set capacity limits on user requests for resources]()
     -   **Discovery Log**: The process creates a log record for each action in an datacenter.
     **Note:**
@@ -56,9 +56,3 @@ See [Cloud accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs
 
 Repeat the process to create additional cloud accounts as needed. Run Discovery and set capacity limits for each datacenter.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[cloud-accounts|Cloud accounts]]
-- [[r-discovery|Discovery]]

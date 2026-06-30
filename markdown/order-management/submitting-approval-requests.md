@@ -16,7 +16,7 @@ As a requester with the approval request writer role, when you submit your reque
 
 ## Previewing and submitting approval requests
 
-When a business item such as a customer quote is ready for approval, you can submit an approval request from the [[order-mgt-overview|Sales Customer Relationship Management]] application for the entity, for example [[quote-management|Quote Management]]. When you select the **Preview and Submit for approval** option, a preview of your request and the approval workflow opens. You can see the approval conditions that will be used to evaluate your request, the approval steps in the process, and the approvers who review your request. Select **Request Approval** to generate the request.
+When a business item such as a customer quote is ready for approval, you can submit an approval request from the Sales Customer Relationship Management application for the entity, for example Quote Management. When you select the **Preview and Submit for approval** option, a preview of your request and the approval workflow opens. You can see the approval conditions that will be used to evaluate your request, the approval steps in the process, and the approvers who review your request. Select **Request Approval** to generate the request.
 
 \[Omitted image "approval-preview.png"\] Alt text: Approval request preview that shows approval steps and approvers in the Sales chain and the approval step and approvers for Finance
 
@@ -28,7 +28,7 @@ Recalling a request helps prevent approvers from continuing to review outdated i
 
 ## Resubmitting rejected or recalled approval requests
 
-If you recalled an approval request or a request was rejected, you can revise it and resubmit for approval. For example, when you resubmit an approval request for a quote, the approval engine reevaluates the request and determines which approval steps must run again based on the configured [[rules_101|rules]] and conditions.
+If you recalled an approval request or a request was rejected, you can revise it and resubmit for approval. For example, when you resubmit an approval request for a quote, the approval engine reevaluates the request and determines which approval steps must run again based on the configured rules and conditions.
 
 Approval steps that are unaffected by the changes might be automatically approved \(smart reapprovals\) depending on the reapproval conditions set by your approval admin. But approval steps affected by the changes are routed again to the appropriate approvers. This helps reduce unnecessary reapprovals while ensuring that all required conditions are met before the quote is approved.
 
@@ -36,19 +36,11 @@ Once all required approval steps are approved, your business item, such as the q
 
 ## Adding ad-hoc approvers to an approval request
 
-As a requester, you can add one or more approvers or approval groups to a chain named General, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For details on adding ad-hoc approvers, see [[add-approver|Add approvers to an approval request]].
+As a requester, you can add one or more approvers or approval groups to a chain named General, when an approval request requires approval by others who are familiar with the rules or business guidelines relevant to the request, but outside of the original approvers. For details on adding ad-hoc approvers, see [Add approvers to an approval request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-approver.md).
 
 ## Overriding an approval step
 
-There may be times when an approval is no longer required. If you're a requester who also has the approval admin role, you can override or bypass a pending approval request step to unblock an approval request when the approval is no longer required. For more information, see [[override-approval-step|Override an approver]].
+There may be times when an approval is no longer required. If you're a requester who also has the approval admin role, you can override or bypass a pending approval request step to unblock an approval request when the approval is no longer required. For more information, see [Override an approver](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/override-approval-step.md).
 
-**Parent Topic:**[[using-advanced-approval-management|Using Advanced Approval Management]]
+**Parent Topic:**[Using Advanced Approval Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-advanced-approval-management.md)
 
-## Related
-
-- [[add-approver|Add approvers to an approval request]]
-- [[override-approval-step|Override an approver]]
-- [[using-advanced-approval-management|Using Advanced Approval Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[quote-management|Quote Management]]
-- [[rules_101|Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [Purchase revision flows, Using Shopping Hub, Use, Sourcing and Proc
 
 # Edit a purchase line from a purchase requisition or order
 
-You can edit and revise the quantity of a product or delivery location of a purchase line directly from a [[purchase-requisition|purchase requisition]] or order. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
+You can edit and revise the quantity of a product or delivery location of a purchase line directly from a purchase requisition or order. You can also view the existing or current quantity or delivery date of the purchase requisition or order.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
 2.  Select a purchase requisition or order and select **Edit**.
 
-    \[Omitted image "spo-sh-select-po-and-edit.png"\] Alt text: Selecting a [[purchase-order-table|purchase order]] and editing it.
+    \[Omitted image "spo-sh-select-po-and-edit.png"\] Alt text: Selecting a purchase order and editing it.
 
     You can also select the **More options** icon on the line and select **Edit** to modify the details of the purchase requisition or order.
 
@@ -36,7 +36,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
     **Note:** Remember that the **Edit** option isn’t available for purchases in the Closed state.
 
-    The Edit a purchase page is displayed with the available [[purchase-lines|purchase lines]].
+    The Edit a purchase page is displayed with the available purchase lines.
 
     \[Omitted image "spo-sh-edit-a-purchase-form.png"\] Alt text: Available purchase lines when you edit the details of the purchase requisition or order.
 
@@ -44,7 +44,7 @@ Role required: sn\_spend\_psd.requestor or shopper
 
     \[Omitted image "spo-sh-open-preview-po.png"\] Alt text: Open preview.
 
-    The delivery location available for selection is filtered based on the countries [[supplier|supplier]] can deliver to.
+    The delivery location available for selection is filtered based on the countries supplier can deliver to.
 
 4.  You can update the following details.
 
@@ -172,9 +172,3 @@ Browse and select the related attachments for updating the purchase requisition 
 
 **Parent Topic:**[Purchase revision flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/purchase-revision-flows.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-lines|Purchase lines]]
-- [[supplier|Supplier]]

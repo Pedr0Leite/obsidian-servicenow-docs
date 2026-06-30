@@ -32,7 +32,7 @@ Risk criteria thresholds define a high/likely or low/unlikely score as shown:
 
 |Name|Description|
 |----|-----------|
-|A list of tables that are available in the **Applies to** field on forms|If this field is blank, all tables are available on the various forms for [[entity-type-in-risk-ws|Entity Types]], Entities, and Risks. Defines a comma-separated list of tables that are available in the **Applies to** field on the Entity Type, Entity, and Risk form. Add **.extended** after the table name to include all extended tables.|
+|A list of tables that are available in the **Applies to** field on forms|If this field is blank, all tables are available on the various forms for Entity Types, Entities, and Risks. Defines a comma-separated list of tables that are available in the **Applies to** field on the Entity Type, Entity, and Risk form. Add **.extended** after the table name to include all extended tables.|
 
 ## Assessment types
 
@@ -40,6 +40,3 @@ Risk managers can create a new set of questions for each risk assessment. See [C
 
 **Parent Topic:**[Risk Management detailed setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/setup-risk-management.md)
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

@@ -22,7 +22,7 @@ Role required: admin, sp\_admin, or announcement\_admin
 
 ## About this task
 
-Similar to creating a category tag, you can create alternative types to define custom locations. For example, to display an announcement only in a specific widget instance, you can [[create-announcement|create an announcement]] type for that widget instance. Any announcements tagged with that type will only display in the desired widget instance.
+Similar to creating a category tag, you can create alternative types to define custom locations. For example, to display an announcement only in a specific widget instance, you can create an announcement type for that widget instance. Any announcements tagged with that type will only display in the desired widget instance.
 
 ## Procedure
 
@@ -40,7 +40,7 @@ Similar to creating a category tag, you can create alternative types to define c
 
 5.  Add the custom type to an announcement.
 
-    1.  Navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Announcements**.
+    1.  Navigate to **Service Portal** &gt; **Announcements**.
 
     2.  Open an existing announcement or create a new announcement.
 
@@ -72,7 +72,3 @@ The widget instance associated with the type displays any announcements tagged w
 
 [Create an announcement display style]()
 
-## Related
-
-- [[create-announcement|Create an announcement]]
-- [[c_ServicePortal|Service Portal]]

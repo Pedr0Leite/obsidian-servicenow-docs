@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Lease Administration, Workplace Service Delive
 
 # Activate Workplace Lease Administration
 
-You can activate the [[workplace-lease-admin-feat|Workplace Lease Administration]] plugin \(sn\_wsd\_la\) for Workplace Lease Administration if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Workplace Lease Administration plugin \(sn\_wsd\_la\) for Workplace Lease Administration if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ For more information, see [Components installed with Workplace Lease Administrat
 
 **Parent Topic:**[Configure Workplace Lease Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/config-lease-administration.md)
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]

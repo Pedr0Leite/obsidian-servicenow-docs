@@ -16,7 +16,7 @@ breadcrumb: [Manage MSIM status reports, Major Security Incident Management, Sec
 
 Configure major security incident reports to set up and download the reports according to your business needs throughout the life cycle of the major security incident record remediation process.
 
-You can build the report templates with a specific format and layout, and customize these reports according to your specific requirements using the Status Reports feature of the [[msim-workspace|Major Security Incident Management workspace]].
+You can build the report templates with a specific format and layout, and customize these reports according to your specific requirements using the Status Reports feature of the Major Security Incident Management workspace.
 
 A user with the sn\_msi.workspace\_manager role can create and configure the report templates that outline the type of report information that can be used to generate all the status reports, which can be shared with specific users such as executive stakeholders, legal departments and map those templates to the major security incident records.
 
@@ -69,7 +69,7 @@ The report template sections contain various subsections, which describe how you
 4.  [Use Reports Lists in Report Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/using-reports-lists-in-your-report-templates.md)
 
 -   **[Create a Report Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-template.md)**  
-Create various report templates, which can be applied to the major security incidents and generate a status report. You can add standard and custom Major [[sir-landing-page|Security Incident Response]] form fields to the report template that are dot-walkable. In addition, you can format and configure the report based on your requirements using sections, subsections, and its elements.
+Create various report templates, which can be applied to the major security incidents and generate a status report. You can add standard and custom Major Security Incident Response form fields to the report template that are dot-walkable. In addition, you can format and configure the report based on your requirements using sections, subsections, and its elements.
 -   **[Create a Report Section Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-section-template.md)**  
 A report can further be divided into various sections. Use the Report section to break down the report into multiple sections and reorganize them in order.
 -   **[Create a Report Subsection Template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-template.md)**  
@@ -77,13 +77,7 @@ Use the report subsection to further organize the section into multiple subsecti
 -   **[Create Report Subsection Element template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-report-subsection-element-template.md)**  
 Use subsection elements to further organize a subsection into multiple elements. Subsection elements help define visualizations, lists, free-form text more declaratively with filter options such as assignment groups and labels.
 -   **[Add system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/adding-system-properties-to-your-status-reports.md)**  
-[[adding-system-properties-to-your-status-reports|Add system properties]] to control MSIM application behavior. Following are the default system properties that are introduced as part of the [[major-security-incident-management-landing-page|Major Security Incident Management]] status reports.
+Add system properties to control MSIM application behavior. Following are the default system properties that are introduced as part of the Major Security Incident Management status reports.
 
 **Parent Topic:**[Managing MSIM status reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/reports-and-metrics.md)
 
-## Related
-
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[sir-landing-page|Security Incident Response]]
-- [[adding-system-properties-to-your-status-reports|Add system properties]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

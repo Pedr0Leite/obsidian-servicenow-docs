@@ -38,7 +38,7 @@ Amount of time \(in minutes\) to add between the end of a task and the travel st
 
 </td></tr><tr><td>
 
-Qualifier type for [[schedule-optimization|schedule optimization]]
+Qualifier type for schedule optimization
 
 </td><td>
 
@@ -97,7 +97,7 @@ Maximum number of location points allowed in a map vendor call
 
 </td><td>
 
-Numeric value set to determine the maximum number of location points allowed in a map provider call. Beans.AI is the map provider that Schedule Optimization supports for travel time estimates. For more information, see [[schedule-optimization-travel-estimate-providers|Schedule Optimization travel estimate providers]].
+Numeric value set to determine the maximum number of location points allowed in a map provider call. Beans.AI is the map provider that Schedule Optimization supports for travel time estimates. For more information, see [Schedule Optimization travel estimate providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-travel-estimate-providers.md).
 
 -   Type: Integer
 -   Default value: 300
@@ -404,7 +404,7 @@ sn\_schedule\_optim.qualifier\_distribution\_splits
 
 </td><td>
 
-Number of splits to distribute qualifiers across parallel optimization jobs for each batch or intraday configuration. Higher split counts reduce processing time per job but require more ML [[capacity|capacity]].If running multiple optimization modes simultaneously adjust `sn_schedule_optim.so_max_solution_threshold` to accommodate the total number of concurrent ML solutions needed.
+Number of splits to distribute qualifiers across parallel optimization jobs for each batch or intraday configuration. Higher split counts reduce processing time per job but require more ML capacity.If running multiple optimization modes simultaneously adjust `sn_schedule_optim.so_max_solution_threshold` to accommodate the total number of concurrent ML solutions needed.
 
 -   Type: Integer
 -   Default value: 1
@@ -930,7 +930,7 @@ Controls balanced events load distribution for custom queue sn\_schedule\_optim.
 </td></tr></tbody>
 </table>**Note:** The 'maint' role is required to edit any performance-related properties. This role is exclusive to internal users. Contact support to make changes.
 
-**Parent Topic:**[[schedule-optimization-components|Schedule Optimization components]]
+**Parent Topic:**[Schedule Optimization components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-components.md)
 
 **Related topics**  
 
@@ -941,9 +941,3 @@ Controls balanced events load distribution for custom queue sn\_schedule\_optim.
 
 [Configuring log levels for detailed optimization analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configuring-log-levels-for-detailed-optimization-analysis.md)
 
-## Related
-
-- [[schedule-optimization-travel-estimate-providers|Schedule Optimization travel estimate providers]]
-- [[schedule-optimization-components|Schedule Optimization components]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[capacity|Capacity]]

@@ -36,7 +36,7 @@ If configured, monitor your ServiceNow AI Platform change request and assign any
 
 3.  In the open EDL record, select the change request number in the Change Requests related list.
 
-    The change request record is displayed. The **Description** field lists the retrieval URL used to configure the Palo Alto Networks EDL. Details about [[mapping-logrhythm|mapping]] the EDL to the appropriate Palo Alto Networks Next-Generation Firewall policy are also included. In the **Short description** field, a comment indicates that there is a request to add a new EDL.
+    The change request record is displayed. The **Description** field lists the retrieval URL used to configure the Palo Alto Networks EDL. Details about mapping the EDL to the appropriate Palo Alto Networks Next-Generation Firewall policy are also included. In the **Short description** field, a comment indicates that there is a request to add a new EDL.
 
 4.  In the upper-right corner of the record, select **Request Approval**.
 
@@ -105,6 +105,3 @@ Submit EDL entries from a security incident or from the blocklist.
 
 **Parent Topic:**[Activate an EDL for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-activate-edl.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

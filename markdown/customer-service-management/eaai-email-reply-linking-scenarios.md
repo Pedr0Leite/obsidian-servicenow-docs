@@ -13,7 +13,7 @@ breadcrumb: [Email Interaction for CSM reference, Reference, Customer Service Ma
 
 # Email reply linking scenarios for closed interactions
 
-Describes how [[email-as-an-interaction|Email Interaction]] links a customer email reply when the reply references a closed interaction. The system evaluates conditions in the order listed.
+Describes how Email Interaction links a customer email reply when the reply references a closed interaction. The system evaluates conditions in the order listed.
 
 |Scenario|Condition|System action|
 |--------|---------|-------------|
@@ -30,6 +30,3 @@ Describes how [[email-as-an-interaction|Email Interaction]] links a customer ema
 -   No new interaction or case is created when a valid open record is identified.
 -   Extended case types are included in the evaluation and standard cases.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

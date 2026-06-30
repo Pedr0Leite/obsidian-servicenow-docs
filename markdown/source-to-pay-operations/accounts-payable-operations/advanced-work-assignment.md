@@ -21,7 +21,7 @@ Customers use different channels to request service, for example, email, chats, 
 
 For more information about AWA, refer [Advanced Work Assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/awa-application-landing-page.md).
 
-**Note:** Check your entitlements to determine whether you have access to Advanced Work Assignment in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] in [[source-to-pay-operations-overview|Source-to-Pay Operations]] Professional.
+**Note:** Check your entitlements to determine whether you have access to Advanced Work Assignment in Accounts Payable Operations in Source-to-Pay Operations Professional.
 
 -   **[Setting up Advanced Work Assignment for Accounts Payable Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/setting-up-AWA-for-APO.md)**  
 Set up Advanced Work Assignment \(AWA\) and required plugins to automatically route incoming work items to qualified agents in Accounts Payable Operations.
@@ -53,10 +53,5 @@ Set up Advanced Work Assignment \(AWA\) and required plugins to automatically ro
 
 [Playbook for updating the invoice primary data]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[supplier-central|Supplier Collaboration Portal]]

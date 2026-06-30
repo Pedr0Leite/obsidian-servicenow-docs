@@ -14,15 +14,15 @@ breadcrumb: [Using Skills Foundation, Skills Foundation, Growth Experiences, HR 
 
 # Add skills as part of your onboarding journey
 
-Upload your resume or LinkedIn profile as part of your onboarding journey and add skills from them to your profile in [[employee-center-landing-page|Employee Center]] so that you can focus on growth and career development in the organization.
+Upload your resume or LinkedIn profile as part of your onboarding journey and add skills from them to your profile in Employee Center so that you can focus on growth and career development in the organization.
 
 ## About this task
 
-**Note:** You can upload your resume or LinkedIn profile after your [[emp-slate-employee-profile|employee profile]] is created in Employee Center. For more information, see [Import skills from your resume or LinkedIn profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/import-skills-from-resume.md).
+**Note:** You can upload your resume or LinkedIn profile after your employee profile is created in Employee Center. For more information, see [Import skills from your resume or LinkedIn profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/import-skills-from-resume.md).
 
 ## Before you begin
 
-To enable recording skills when you join the organization, an [[activity-lxp|activity]] item **Upload resume/LinkedIn files to add skills to profile** is created as part of the Week 1 activity set of your onboarding journey. Make sure to check for the activity item and follow the procedure to add skills. Contact your system admin if you don't see the activity item.
+To enable recording skills when you join the organization, an activity item **Upload resume/LinkedIn files to add skills to profile** is created as part of the Week 1 activity set of your onboarding journey. Make sure to check for the activity item and follow the procedure to add skills. Contact your system admin if you don't see the activity item.
 
 Role required: sn\_skills\_int.emp
 
@@ -57,8 +57,3 @@ Role required: sn\_skills\_int.emp
 
 **Parent Topic:**[Using Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/using-skills-intelligence.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[activity-lxp|Activity]]

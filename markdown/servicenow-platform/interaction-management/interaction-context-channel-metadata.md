@@ -22,10 +22,7 @@ Context for an interaction tracks the information for an interaction, such as th
 
 ## Channel metadata
 
-Channel metadata contains the information needed to interact with the channel on which communication is happening on, for example, the chat or phone channels. Channel metadata can be free-form JSON or a [[reference|reference]] to another record.
+Channel metadata contains the information needed to interact with the channel on which communication is happening on, for example, the chat or phone channels. Channel metadata can be free-form JSON or a reference to another record.
 
 **Parent Topic:**[Configuring Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/configuring-interaction-management.md)
 
-## Related
-
-- [[reference|Reference]]

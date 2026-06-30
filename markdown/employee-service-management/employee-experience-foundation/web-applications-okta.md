@@ -18,7 +18,7 @@ Using OOTB integration with Okta, you can automatically sync the registered appl
 
 ## Before you begin
 
--   The [[web-application-employee-about|app launcher]] sync of applications from Okta is only compatible with the latest Okta Spoke version. Ensure you upgrade the existing Okta spoke to sync the apps on to your web applications.
+-   The app launcher sync of applications from Okta is only compatible with the latest Okta Spoke version. Ensure you upgrade the existing Okta spoke to sync the apps on to your web applications.
 -   Integrate Okta spoke with ServiceNow, Inc., create credential records, and create connection records as explained in [Okta spoke setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/okta-v2-spoke.md).
 
 Role required: sp\_admin, taxonomy admin, or taxonomy manager
@@ -27,7 +27,7 @@ Role required: sp\_admin, taxonomy admin, or taxonomy manager
 
 After the spoke setup, Okta applications are synced on daily basis to a web application table from the Okta account. To sync the latest applications, you can do the following:
 
--   As sn\_hr\_sp.esc\_admin, navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Web Applications** &gt; **Update applications** to sync the updates instantly.
+-   As sn\_hr\_sp.esc\_admin, navigate to **All** &gt; **Employee Center** &gt; **Web Applications** &gt; **Update applications** to sync the updates instantly.
 
     When you update applications, you can track the flow execution status from the related link on the page.
 
@@ -127,7 +127,7 @@ Featured
 
 </td><td>
 
-Option to mark the application as featured. Use the **Featured** option to promote new or important or seasonal applications for higher visibility. **Note:** [[eslate-applications|Featured applications]] have display preferences and appear on the top of the page despite any filters or sorting.
+Option to mark the application as featured. Use the **Featured** option to promote new or important or seasonal applications for higher visibility. **Note:** Featured applications have display preferences and appear on the top of the page despite any filters or sorting.
 
 </td></tr></tbody>
 </table>    Applications are fetched. You can proceed to associate topics suitable for the application.
@@ -141,7 +141,7 @@ When you sync applications, you can see the list of Okta apps. Track the flow ex
 
 ## What to do next
 
-For upgrades: When you have an existing Okta spoke and connection and if upgrade to the [[employee-center-pro-landing|employee center pro]] with the App launcher feature, the apps get synced through a job automatically and are updated nightly. To disable the fetch applications job, you must mark the job to the inactive state from **System Definition** &gt; **Scheduled job**.
+For upgrades: When you have an existing Okta spoke and connection and if upgrade to the employee center pro with the App launcher feature, the apps get synced through a job automatically and are updated nightly. To disable the fetch applications job, you must mark the job to the inactive state from **System Definition** &gt; **Scheduled job**.
 
 ```
 Scheduled Job: Fetch applications 
@@ -156,9 +156,3 @@ Based on the user permissions and the applications mapped with the Okta, the app
 
 **Note:** When an application is hidden, users still have permissions to the application until the next sync.
 
-## Related
-
-- [[web-application-employee-about|App Launcher]]
-- [[employee-center-landing-page|Employee Center]]
-- [[eslate-applications|Featured applications]]
-- [[employee-center-pro-landing|Employee Center Pro]]

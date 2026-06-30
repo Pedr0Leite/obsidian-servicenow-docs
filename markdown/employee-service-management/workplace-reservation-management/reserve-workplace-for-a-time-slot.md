@@ -14,7 +14,7 @@ breadcrumb: [Reserve workplace items, Workplace Reservation Management, Workplac
 
 # Reserve a workplace using the Quick Reservation widget
 
-Reserve a workplace quickly by using the Quick Reservation widget in the [[workplace-services-portal-hr|Workplace Service Portal]]. The widget enables you to select from a list of available time slots instead of specifying the start and end times.
+Reserve a workplace quickly by using the Quick Reservation widget in the Workplace Service Portal. The widget enables you to select from a list of available time slots instead of specifying the start and end times.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## About this task
 
-With the Quick Reservation widget, you can directly make a quick reservation from the Workplace Service Portal home page. Specify the type of space that you are looking for, the date, the time slot, and the building in which you want to reserve a space. Depending on your specifications, the workplace that best matches your specifications is displayed. You can either [[reservation-portal|make a reservation]] directly using the Quick reservation widget or use the Reservation portal to search for more suitable workplaces. Select **Advanced reservations** to open the Reservation portal.
+With the Quick Reservation widget, you can directly make a quick reservation from the Workplace Service Portal home page. Specify the type of space that you are looking for, the date, the time slot, and the building in which you want to reserve a space. Depending on your specifications, the workplace that best matches your specifications is displayed. You can either make a reservation directly using the Quick reservation widget or use the Reservation portal to search for more suitable workplaces. Select **Advanced reservations** to open the Reservation portal.
 
 **Note:** It is not possible to make a shift-based reservation using the Reservation widget.
 
@@ -30,7 +30,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **Portal** &gt; **New Reservation**.
+1.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **Portal** &gt; **New Reservation**.
 
 2.  Select the Quick Reservation widget on the home page.
 
@@ -42,7 +42,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
     3.  In the **Time slot** field, select a time slot for which you want to make a reservation.
 
-        **Note:** Employees are not allowed to [[create-reservation-request-1|create a reservation]] too far in the future if they have enabled **Max days in future** value on the Reservable module. A warning message is shown in case if an employee tries to enter a date that is greater than the **Max days in future** value. For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, a warning message is displayed. For more information, see [Create a reservation]() and [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
+        **Note:** Employees are not allowed to create a reservation too far in the future if they have enabled **Max days in future** value on the Reservable module. A warning message is shown in case if an employee tries to enter a date that is greater than the **Max days in future** value. For example, if the **Max days in future** value is 90 days, and if you try to select a date beyond 90 days, a warning message is displayed. For more information, see [Create a reservation]() and [Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md).
 
         If the**Max days in future** value is not enabled, users can select a date as per the **Max number of occurrences** on the Reservable module.
 
@@ -60,7 +60,7 @@ With the Quick Reservation widget, you can directly make a quick reservation fro
 
     \[Omitted image "favorite-icon.png"\] Alt text: Favorite icon
 
-    **Note:** The Favorite icon will appear only if you have access to the [[employee-center-landing-page|Employee Center]].
+    **Note:** The Favorite icon will appear only if you have access to the Employee Center.
 
 5.  To make the reservation, select **Reserve this desk**.
 
@@ -114,10 +114,3 @@ To view the details of the reservation, click **View details**. To cancel the re
 
 [Download an iCalendar for a reservation]()
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[reservation-portal|Make a reservation]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[create-reservation-request-1|Create a reservation]]
-- [[employee-center-landing-page|Employee Center]]

@@ -22,7 +22,7 @@ When employees leave an organization, they take valuable institutional knowledge
 -   Organizing the retrieved documents and resources using AI-powered categorization
 -   Creating tasks for managers to review and transfer critical information to remaining team members
 
-The offboarding knowledge transfer plan generation agentic workflow integrates with [[jny-dsgnr-landing-page-1|Journey designer]] to create an AI-powered offboarding workflow. This agentic workflow operates in two phases: manager initiation and employee review. During manager initiation, an AI agent interacts with the departing employee's manager to determine whether knowledge transfer is needed and collect requirements. During employee review, a second AI agent presents the knowledge transfer content to the departing employee for review and approval before sharing with the manager.
+The offboarding knowledge transfer plan generation agentic workflow integrates with Journey designer to create an AI-powered offboarding workflow. This agentic workflow operates in two phases: manager initiation and employee review. During manager initiation, an AI agent interacts with the departing employee's manager to determine whether knowledge transfer is needed and collect requirements. During employee review, a second AI agent presents the knowledge transfer content to the departing employee for review and approval before sharing with the manager.
 
 ## How offboarding knowledge transfer works
 
@@ -123,7 +123,7 @@ Organizations using the offboarding knowledge transfer plan generation agentic w
 
     To use the offboarding knowledge transfer plan generation agentic workflow, you must install and configure the following plugins:
 
-    -   [[hr-service-delivery|HR Service Delivery]] AI agent collection \(sn\_hr\_ai\_agents\)
+    -   HR Service Delivery AI agent collection \(sn\_hr\_ai\_agents\)
     -   Now Assist for HRSD \(sn\_hr\_gen\_ai\)
     -   Journey designer \(sn\_jny\)
     -   AI Search \(glide.ais\)
@@ -139,12 +139,6 @@ Organizations using the offboarding knowledge transfer plan generation agentic w
 
     In the journey configuration for which you want to enable agentic offboarding, the following fields must be configured:
 
-    -   The **[[journey-accelerator-1|Journey accelerator]] plan type** field must be set to **Agentic AI Offboarding Plan Type**.
-    -   The **LE [[activity-lxp|activity]] sets can be personalized** check box must be selected.
+    -   The **Journey accelerator plan type** field must be set to **Agentic AI Offboarding Plan Type**.
+    -   The **LE activity sets can be personalized** check box must be selected.
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[activity-lxp|Activity]]

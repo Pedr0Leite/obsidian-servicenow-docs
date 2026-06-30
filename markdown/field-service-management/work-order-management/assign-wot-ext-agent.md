@@ -26,7 +26,7 @@ Outsourced work order tasks are always automatically assigned to the managers of
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage**.
 
 2.  Click **My Lists** &gt; **My Tasks** &gt; **All Tasks**.
 
@@ -47,6 +47,3 @@ Outsourced work order tasks are always automatically assigned to the managers of
 
 If you have assigned the task to an agent, the agent receives an email notification about the assignment.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

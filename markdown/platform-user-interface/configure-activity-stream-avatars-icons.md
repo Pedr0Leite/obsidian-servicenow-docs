@@ -12,7 +12,7 @@ breadcrumb: [Activity stream, Administer, Configurable Workspace UI, Configure U
 
 # Configure avatars for Activity stream tiles
 
-[[configure-onboarding-modals|Configure]] [[activity-stream-configurable-workspace|Activity stream]] tiles to display avatars by using the **glide.activity.show\_tile\_icons** system property.
+Configure Activity stream tiles to display avatars by using the **glide.activity.show\_tile\_icons** system property.
 
 ## Before you begin
 
@@ -30,7 +30,4 @@ Role required: admin
 
 4.  Select **Submit**.
 
-## Related
 
-- [[configure-onboarding-modals|Configure]]
-- [[activity-stream-configurable-workspace|Activity stream]]

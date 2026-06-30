@@ -29,13 +29,10 @@ Rate limiting policy is enabled by default for SMS for better security. To confi
 
     **Note:** The maximum number of attempts is **3**.
 
-    If your account is locked, you are treated as a guest user when you start a new conversation. The bot confirms that your account is locked. You are then provided with the public topics and you can also unlock the account using the **Setup/Reset Verification Profile** [[virtual-agent-landing-page|Virtual Agent]] topic to reset the Soft PIN and Google authenticator.
+    If your account is locked, you are treated as a guest user when you start a new conversation. The bot confirms that your account is locked. You are then provided with the public topics and you can also unlock the account using the **Setup/Reset Verification Profile** Virtual Agent topic to reset the Soft PIN and Google authenticator.
 
 
 \[Omitted image "sms-auth-rate-limit-properties.png"\] Alt text: The Provider Properties tab lists entries for each of these parameters, including the value and description.
 
 **Parent Topic:**[Configure SMS authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-sms-auth.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -18,7 +18,7 @@ The Create and Assign Range/Single Number function enables you to create the inv
 
 You use the Create and Assign Range/Single Number function to create the inventory number records between the input start and end numbers. This function also creates the corresponding number elements.
 
-You can use this function as a Workflow Studio action in the [[telecom-network-inventory|Telecommunications Network Inventory]] workflow.
+You can use this function as a Workflow Studio action in the Telecommunications Network Inventory workflow.
 
 ## Roles and availability
 
@@ -201,6 +201,3 @@ Consider, a VLAN has 1–4096 as range and 1–1000, 1001–2500, and 2510–409
 
 [Path Search function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

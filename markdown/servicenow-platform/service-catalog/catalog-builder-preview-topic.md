@@ -14,7 +14,7 @@ breadcrumb: [Create a catalog item using a template, Creating or editing catalog
 
 # Catalog builder preview topic conversation
 
-From the [[catalog-builder|catalog builder]], a user can preview a catalog item in a Virtual Agent conversation.
+From the catalog builder, a user can preview a catalog item in a Virtual Agent conversation.
 
 This conversation uses the Request Catalog Item topic block. For information on this topic block, see [Service Catalog topic blocks in Virtual Agent powered by NLU](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-topic-blocks-va.md).
 
@@ -36,6 +36,3 @@ In catalog builder, when the user selects the required item and navigates to pre
 
 [Service Catalog topic blocks in Virtual Agent powered by NLU](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-topic-blocks-va.md)
 
-## Related
-
-- [[catalog-builder|Catalog Builder]]

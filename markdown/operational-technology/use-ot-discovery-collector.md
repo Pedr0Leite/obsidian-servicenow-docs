@@ -18,10 +18,6 @@ When your OT Discovery Collector stops or loses power use the next task specific
 
 Use the following tasks when your OT Discovery Collector stops or loses power.
 
--   [[restart-discovery-collector-on-windows|Restart OT Discovery Collector on a Windows system]]
--   [[restart-collector-on-linux|Restart OT Discovery Collector on a Linux system]]
+-   [Restart OT Discovery Collector on a Windows system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/restart-discovery-collector-on-windows.md)
+-   [Restart OT Discovery Collector on a Linux system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/restart-collector-on-linux.md)
 
-## Related
-
-- [[restart-discovery-collector-on-windows|Restart OT Discovery Collector on a Windows system]]
-- [[restart-collector-on-linux|Restart OT Discovery Collector on a Linux system]]

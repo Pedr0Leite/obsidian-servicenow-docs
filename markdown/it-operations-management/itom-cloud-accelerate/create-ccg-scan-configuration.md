@@ -14,7 +14,7 @@ breadcrumb: [Scan configuration, Using Cloud Configuration Governance, Cloud Con
 
 # Create a scan configuration
 
-Create a scan configuration in [[cloud-configuration-governance|Cloud Configuration Governance]] to scan the cloud resources against one or more [[aws-policy-set|policy sets]] and identify the policy violations.
+Create a scan configuration in Cloud Configuration Governance to scan the cloud resources against one or more policy sets and identify the policy violations.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ Create a scan configuration in [[cloud-configuration-governance|Cloud Configurat
 
 2.  Select **New**.
 
-3.  Fill the values on the [[ccg-scan-configuration|Scan Configuration]] form.
+3.  Fill the values on the Scan Configuration form.
 
     For a description of the form fields, see [Cloud Configuration Governance Scan configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/ccg-scan-configuration-form.md).
 
@@ -41,16 +41,10 @@ Create a scan configuration in [[cloud-configuration-governance|Cloud Configurat
 
     1.  Set a criteria to cancel the long running scan runs.
 
-        To import the configuration data of the cloud resources, Cloud Configuration Governance resource collectors and configuration collectors use Workflow Studio subflows. Sometimes, the subflow errors out and it doesn't report the error. In such cases, the [[ccg-scan-run|scan run]] can run indefinitely. Setting a cancellation criteria helps to cancel such scans.
+        To import the configuration data of the cloud resources, Cloud Configuration Governance resource collectors and configuration collectors use Workflow Studio subflows. Sometimes, the subflow errors out and it doesn't report the error. In such cases, the scan run can run indefinitely. Setting a cancellation criteria helps to cancel such scans.
 
 
 ## What to do next
 
 Run the scan configuration to evaluate the resource configuration of the given cloud against the specified policy sets and identify the policy violations. For more information, see [Run the scan configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-cloud-accelerate/run-ccg-scan-configuration.md).
 
-## Related
-
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[aws-policy-set|Policy sets]]
-- [[ccg-scan-configuration|Scan configuration]]
-- [[ccg-scan-run|Scan run]]

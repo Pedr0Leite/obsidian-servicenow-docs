@@ -16,7 +16,7 @@ breadcrumb: [Work Progress Status for SAFe, Scaled Agile Framework \(SAFe\), Str
 
 Understand if your work would be completed by the planned end dates by reviewing progress status of your SAFe features and epics.
 
-Navigate to **[[SAFeoverview|Scaled Agile Framework \(SAFe\)]]** &gt; **Epics** or **Scaled Agile Framework \(SAFe\)** &gt; **Features** and filter the records for your team.
+Navigate to **Scaled Agile Framework \(SAFe\)** &gt; **Epics** or **Scaled Agile Framework \(SAFe\)** &gt; **Features** and filter the records for your team.
 
 The Status column of the list shows a Green, Yellow, or Red indicator for each record to indicate the following:
 
@@ -50,6 +50,3 @@ The color of the progress status indicator is determined using the following con
 
 [SAFe Epic Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scaled-agile-framework-safe/safe-epic-dashboard.md)
 
-## Related
-
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

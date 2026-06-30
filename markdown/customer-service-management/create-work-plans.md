@@ -12,7 +12,7 @@ breadcrumb: [Install base work plans, Schedules and sites, Use, Customer Service
 
 # Create a work plan with Customer Service Management \(CSM\)
 
-Create a work plan so that you can plan and delegate field service agents to fulfill the planned maintenance operations for an install base item on the [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) \(CSM\) application and [[csm-workspaces-configure|CSM Configurable Workspace]].
+Create a work plan so that you can plan and delegate field service agents to fulfill the planned maintenance operations for an install base item on the Customer Service Management \(CSM\) \(CSM\) application and CSM Configurable Workspace.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Type
 
 Type of trigger that determines when work should be performed:-   **Model based:** Base the work plan on a specified model of a configuration item \(CI\).
 -   **General:** Base the work plan on a table and filter.
--   **Install base:** Base the work plan on specified models of the [[install-base-item|install base items]].
+-   **Install base:** Base the work plan on specified models of the install base items.
  **Note:**
 
 -   Model-based plans apply only to hardware models, specifically ones that have at least one model category defined.
@@ -75,8 +75,3 @@ One or more product catalog items that you can select to identify the configurat
 
 A draft of the work plan is created. Next, you can create a planned work schedule to make the work plan active and ready for an agent. To configure a planned work schedule, see [Configure a work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-work-plan.md).
 
-## Related
-
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[install-base-item|Install base items]]

@@ -16,7 +16,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 Use the **password\_reset.captcha.ignore** property to enable or disable requiring a CAPTCHA challenge when a user resets their password.
 
-If the **password\_reset.captcha.ignore** system property is not set to the recommended value of **false**, then a CAPTCHA challenge-response will not be used during the [[c_SelfServicePasswordReset|password reset]] process. CAPTCHAs help prevent automation attacks by prompting the user for a challenge-response that is not easily answered by automated systems.
+If the **password\_reset.captcha.ignore** system property is not set to the recommended value of **false**, then a CAPTCHA challenge-response will not be used during the password reset process. CAPTCHAs help prevent automation attacks by prompting the user for a challenge-response that is not easily answered by automated systems.
 
 Ensure that the property **password\_reset.captcha.ignore** is set to **false**.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -119,8 +119,3 @@ None
 
 **Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

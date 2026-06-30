@@ -26,9 +26,9 @@ When you create a version of a product offering, do the following actions:
     -   Characteristics
     -   Characteristic options
     -   Product specifications
-2.  Create the required specification relationships, decomposition rules, and attribute mappings for each specification in the new version. To learn more, see [[creating-publish-specification-versions-somt|.]]
+2.  Create the required specification relationships, decomposition rules, and attribute mappings for each specification in the new version. To learn more, see [.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/creating-publish-specification-versions-somt.md)
 3.  Create the product offering, and then publish it when you update your product catalog.
-4.  Retire or archive old or unused specifications, and product offerings. To learn more, see [[retiring-archiving-specifications-somt|Retiring or archiving versioned specifications and product offerings]].
+4.  Retire or archive old or unused specifications, and product offerings. To learn more, see [Retiring or archiving versioned specifications and product offerings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/retiring-archiving-specifications-somt.md).
 
 ## Updates and validations that are performed when you create and publish a product offering version
 
@@ -52,10 +52,5 @@ When you create a version for a currently published product offering, the Servic
     -   **Initial Version**. The name of the base version of the product offering appears but can't be changed.
     -   **Previous Version**: The name of the product offering is as it was in the previous version.
 
-When you publish the updated product version, additional validations are performed on your edits. To learn more, see the Updating and validating copied rules for a new specification version section in [[create-publish-new-specification-somt|Create and publish a specification version]].
+When you publish the updated product version, additional validations are performed on your edits. To learn more, see the Updating and validating copied rules for a new specification version section in [Create and publish a specification version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-media-technology/create-publish-new-specification-somt.md).
 
-## Related
-
-- [[creating-publish-specification-versions-somt|Creating and publishing specification versions]]
-- [[retiring-archiving-specifications-somt|Retiring or archiving versioned specifications and product offerings]]
-- [[create-publish-new-specification-somt|Create and publish a specification version]]

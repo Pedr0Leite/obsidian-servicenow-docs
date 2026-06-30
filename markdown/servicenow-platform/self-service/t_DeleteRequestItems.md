@@ -26,9 +26,9 @@ All users can delete items from their own requests any time prior to delivery. M
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **Open Records** &gt; **Requests** and open an existing request.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Open Records** &gt; **Requests** and open an existing request.
 
-2.  In the **Requested Items** related list, select the [[check-box|check box]] beside the item to delete.
+2.  In the **Requested Items** related list, select the check box beside the item to delete.
 
 3.  In the **Actions** choice list, select Delete.
 
@@ -37,7 +37,3 @@ All users can delete items from their own requests any time prior to delivery. M
 
 **Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[check-box|Check box]]

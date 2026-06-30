@@ -32,7 +32,7 @@ Roles required: admin, activity\_admin, activity\_creator
 
 3.  When you are finished editing the checked out activity, publish it again.
 
-    The system adds a new version of this activity to the **Custom** tab in the [[workflow-editor|Workflow Editor]] palette.
+    The system adds a new version of this activity to the **Custom** tab in the Workflow Editor palette.
 
     **Note:** Activities you create and publish are visible in the **Packs** tab only if they were created in the current application scope.
 
@@ -75,6 +75,4 @@ An administrator can return a locked activity to a published state.
 
     The activity becomes available to users with the appropriate roles.
 
-## Related
 
-- [[workflow-editor|Workflow editor]]

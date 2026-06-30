@@ -15,7 +15,7 @@ breadcrumb: [Inbound Invoice Fields, Create New Invoice form, Create New Invoice
 
 # Inbound invoice payment fields
 
-Field descriptions and data types for inbound invoice payment records used to import [[supplier|supplier]] invoice payment data into [[acc-pay-mgmt-landing-page|Accounts Payable Operations]].
+Field descriptions and data types for inbound invoice payment records used to import supplier invoice payment data into Accounts Payable Operations.
 
 |Column|Description|Data type|
 |------|-----------|---------|
@@ -36,7 +36,3 @@ Field descriptions and data types for inbound invoice payment records used to im
 
 **Parent Topic:**[Inbound Invoice Fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/inbound-invoice-fields.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

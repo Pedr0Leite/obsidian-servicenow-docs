@@ -14,7 +14,7 @@ breadcrumb: [Omnichannel Callback reference, Omnichannel Callback, Manage people
 
 # Components installed with Omnichannel Callback
 
-Several types of components are installed with activation of the [[omnichannel-callback|Omnichannel Callback]] plugin, including user roles, scheduled jobs, and tables.
+Several types of components are installed with activation of the Omnichannel Callback plugin, including user roles, scheduled jobs, and tables.
 
 ## Scheduled jobs installed
 
@@ -111,6 +111,3 @@ None.
 
 None.
 
-## Related
-
-- [[omnichannel-callback|Omnichannel Callback]]

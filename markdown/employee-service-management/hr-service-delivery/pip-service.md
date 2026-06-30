@@ -14,7 +14,7 @@ breadcrumb: [Using HR Service Delivery Employee Relations, Employee Relations, C
 
 # Performance Improvement Plan \(PIP\) service
 
-Manage employee performance issues within [[hr-case-employee-relations|Employee Relations]] using the Performance Improvement Plan \(PIP\) service.
+Manage employee performance issues within Employee Relations using the Performance Improvement Plan \(PIP\) service.
 
 Organizations handle employee performance issues in close coordination with HR teams, Employee Relations teams, and/or Legal teams. Proper processes must be followed and appropriate documentation and communication must be maintained.
 
@@ -35,6 +35,3 @@ Use case explaining how a manager, an employee, and an ER agent can work togethe
     -   Conducts periodic reviews with the ER agent to evaluate employee progress.
     -   Submits the PIP assessment indicating whether the PIP is successful or unsuccessful. See [Complete PIP assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/submit-pip-assessment.md).
 
-## Related
-
-- [[hr-case-employee-relations|Employee Relations]]

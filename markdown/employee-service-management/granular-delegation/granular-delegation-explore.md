@@ -14,7 +14,7 @@ breadcrumb: [Granular Delegation, Employee Service Management]
 
 # Exploring Granular Delegation
 
-Use [[granular-delegation|Granular Delegation]] to allow your employees to delegate their tasks to other employees.
+Use Granular Delegation to allow your employees to delegate their tasks to other employees.
 
 The base system provides your employees with the ability to delegate their tasks to other employees. This feature provides flexibility to your employees when:
 
@@ -96,7 +96,7 @@ Each time you authorize a delegate, the delegate receives the following **email*
 
 -   **All notifications**
 
-    Option to send the delegate a copy of all notifications you receive during the delegation period. Select this option when you want the delegate to receive the delegation notification. For example, you want the delegate to receive notifications about [[activity-lxp|activity]] stream or record updates. It is set to False by default to avoid concerns around getting notifications that has critical and sensitive data.
+    Option to send the delegate a copy of all notifications you receive during the delegation period. Select this option when you want the delegate to receive the delegation notification. For example, you want the delegate to receive notifications about activity stream or record updates. It is set to False by default to avoid concerns around getting notifications that has critical and sensitive data.
 
     All columns are contained in the Granular Delegate \[sys\_granular-delegate\] table.
 
@@ -135,7 +135,3 @@ The following scheduled jobs are provided:
 
 Granular delegation supports Approvals with e-Signature \(com.glide.e\_signature\_approvals\). When enabled, the system requires delegates to enter their credentials to fulfill an approval.
 
-## Related
-
-- [[granular-delegation|Granular Delegation]]
-- [[activity-lxp|Activity]]

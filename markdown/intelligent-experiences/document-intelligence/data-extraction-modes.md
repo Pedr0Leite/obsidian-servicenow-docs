@@ -14,9 +14,9 @@ breadcrumb: [Reference, Document Intelligence, Enable AI experiences]
 
 # Data extraction modes
 
-Extraction modes determine how the data is extracted in the document task and how the task is processed. The mode changes the behavior of the fields in the [[document-intelligence-landing|Document Intelligence]] workspace.
+Extraction modes determine how the data is extracted in the document task and how the task is processed. The mode changes the behavior of the fields in the Document Intelligence workspace.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 DocIntel uses the following extraction modes.
 
@@ -56,7 +56,7 @@ Fully automated
 
 </td><td>
 
-DocIntel automatically extracts the data for all fields and processes the document task if the [[docintel-confidence-scores|confidence scores]] for all required fields are above the defined confidence threshold. Fields don’t need to be reviewed.
+DocIntel automatically extracts the data for all fields and processes the document task if the confidence scores for all required fields are above the defined confidence threshold. Fields don’t need to be reviewed.
 
  **Note:** For Fully automated mode to process tasks successfully, the use case must have at least one field designated as required.
 
@@ -92,8 +92,3 @@ DocIntel automatically extracts the data for all fields and processes the docume
 
 [Limitations in Document Intelligence]()
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[docintel-confidence-scores|Confidence scores]]

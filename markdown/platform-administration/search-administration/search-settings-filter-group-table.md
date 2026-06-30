@@ -14,7 +14,7 @@ breadcrumb: [Global search finds records from multiple tables, Zing text indexin
 
 # Search settings filter and group global search results by table
 
-Global search filters and groups matching [[hs-results|results]] by table. You can configure search sources \(in Next Experience UI\) or search groups to define tables and groups for global search.
+Global search filters and groups matching results by table. You can configure search sources \(in Next Experience UI\) or search groups to define tables and groups for global search.
 
 The configuration settings for table-based filtering and grouping of global search results differ by UI, as described in the following sections.
 
@@ -100,7 +100,7 @@ A search source defines a table that is searchable by global or workspace search
 
     4.  Select **New**.
 
-    5.  On the [[search-source-form-ais|Search Source form]], fill in the fields.
+    5.  On the Search Source form, fill in the fields.
 
         |Field|Description|
         |-----|-----------|
@@ -111,7 +111,7 @@ A search source defines a table that is searchable by global or workspace search
 
     6.  Select **Submit**.
 
-2.  Link the new search source to the record for the global or workspace search application in the [[defining-search-app-cfgs-ais|Search Application Configurations]] \[m2m\_search\_context\_config\_search\_source\] table.
+2.  Link the new search source to the record for the global or workspace search application in the Search Application Configurations \[m2m\_search\_context\_config\_search\_source\] table.
 
     1.  Select **All**.
 
@@ -174,7 +174,7 @@ Record for the global or workspace search application in the Search Application 
 
 3.  Reorder search sources for the global or workspace search application.
 
-    1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Applications**.
+    1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Applications**.
 
     2.  Open the record for the search application.
 
@@ -375,9 +375,4 @@ Select one or more conditions to determine which records on the selected **Table
 </td></tr></tbody>
 </table>    3.  Select **Submit**.
 
-## Related
 
-- [[hs-results|Results]]
-- [[search-source-form-ais|Search Source form]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[ia-ai-search|AI Search]]

@@ -18,7 +18,7 @@ The PMO dashboard provides comprehensive reports to the portfolio and program ma
 
 **Important:**
 
-Starting with the Australia release, the PMO dashboard is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use Execution dashboard in [[portfolio-planning-app-landing-page|Portfolio Planning]] to gain real-time visibility into delivery progress across work items.
+Starting with the Australia release, the PMO dashboard is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use Execution dashboard in Portfolio Planning to gain real-time visibility into delivery progress across work items.
 
 ## PMO dashboard in Next experience UI
 
@@ -46,7 +46,7 @@ The Summary, Pipeline, and Project Health tabs in the dashboard contain widgets 
 
 -   **PPM – Allocated Hours less than Planned Hours**
 
-    Count of active projects that have [[c_ResourcePlans|resource plans]] where the allocated hours is less than the planned hours.
+    Count of active projects that have resource plans where the allocated hours is less than the planned hours.
 
 -   **PPM – Active Projects in Open, Pending, Work in Progress state**
 
@@ -216,7 +216,7 @@ The dashboard includes the following visualizations:
 |Projects by Investment Type|Pie chart \[Omitted image "donut-icon.png"\] Alt text: Pie chart|Breakdown of the number of active projects grouped by investment type.|
 |Projects by Investment Class|Pie chart \[Omitted image "donut-icon.png"\] Alt text: Pie chart|Breakdown of the number of active projects grouped by investment class.|
 |Projects by Priority|Horizontal bar chart \[Omitted image "horizontal-bar.png"\] Alt text: Horizontal bar chart|Breakdown of the number of active projects grouped by priority.|
-|Hours by Project Time Category|Line chart\[Omitted image "line-icon.png"\] Alt text: Line chart|Trend of total hours reported in [[c_TimeCards|time cards]] for each Project Time Category. The trend is displayed from the beginning of last quarter until the end of next quarter.|
+|Hours by Project Time Category|Line chart\[Omitted image "line-icon.png"\] Alt text: Line chart|Trend of total hours reported in time cards for each Project Time Category. The trend is displayed from the beginning of last quarter until the end of next quarter.|
 |Active Demands|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of demands in Submitted, Screened, Qualified, and Approved state with no project associated.|
 |Demands – No Manager|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active demands with no associated demand manager.|
 |Demands – No Business Case|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active demands with no business case.|
@@ -234,7 +234,7 @@ The dashboard includes the following visualizations:
 |Projects – No Manager|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with no associated project manager.|
 |Projects – No Business Case|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with no business case.|
 |Projects – No Planned Cost|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with zero total planned cost.|
-|Projects – No Task|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with no associated [[t_CreateAProjectTask|project tasks]].|
+|Projects – No Task|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with no associated project tasks.|
 |Projects – No Investment Class|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with no associated investment class.|
 |Projects – No Budget Cost|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects with zero budget cost.|
 |Projects – No Description|Single score \[Omitted image "single-score.png"\] Alt text: Single-score|Number of active projects that have no description.|
@@ -252,9 +252,3 @@ The dashboard includes the following visualizations:
 
 **Parent Topic:**[Project Portfolio Management Platform Analytics Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/project-portfolio-content-pack.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ResourcePlans|Resource plans]]
-- [[c_TimeCards|Time cards]]
-- [[t_CreateAProjectTask|Project tasks]]

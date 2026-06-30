@@ -17,7 +17,7 @@ breadcrumb: [Explore, Service Exchange]
 
 Proactively notifies consumer users of case alerts and enables real-time collaboration with providers without any additional configuration in connected consumer instances.
 
-A proactive case in [[tmt-service-bridge-both-landing-page|Service Exchange]] is similar to the synchronization that occurs between a provider's and customer's instances when the customer submits a service request. However, in this case, the fulfillment process proactively triggers by alert monitoring.
+A proactive case in Service Exchange is similar to the synchronization that occurs between a provider's and customer's instances when the customer submits a service request. However, in this case, the fulfillment process proactively triggers by alert monitoring.
 
 After a customer on boards through Service Exchange, that customer gets notified of cases that are created from alert monitoring. Customers proactively receive up-to-date information about issues that affect them, and are informed about the progress of the resolution of those issues.
 
@@ -28,9 +28,5 @@ The process is as follows:
 3.  An automatic Customer Service Management notification is sent to the primary customer contact, and a link to the provider task is also included.
 4.  Any state changes or additional comments that are added to the case record in the provider's instance appear in the customer's instance. The status change in the case triggers creation of a case on the provider's instance.
 
-For more information about the Service Exchange synchronization for resolving cases, see [[service-bridge-v2-proactive-customer-care-csp|Fulfill a consumer request]].
+For more information about the Service Exchange synchronization for resolving cases, see [Fulfill a consumer request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-proactive-customer-care-csp.md).
 
-## Related
-
-- [[service-bridge-v2-proactive-customer-care-csp|Fulfill a consumer request]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

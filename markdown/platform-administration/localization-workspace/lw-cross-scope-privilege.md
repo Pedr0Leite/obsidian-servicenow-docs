@@ -14,14 +14,14 @@ breadcrumb: [Configuring Localization Workspace, Localization Workspace, Transla
 
 # Cross-scope privileges for Localization Workspace
 
-After you create custom translation artifacts, set cross-scope privileges so that your artifacts can be accessed from [[localization-workspace|Localization Workspace]].
+After you create custom translation artifacts, set cross-scope privileges so that your artifacts can be accessed from Localization Workspace.
 
 ## Before you begin
 
 -   Ensure that your custom artifact has a processor script which includes a method named getTranslatableContent.
 -   Confirm the name of the table where your custom artifact's records are stored. Also confirm the table's application scope. You can find this information in the artifact's record in \[sn\_lf\_config\]. Detailed table information can also be found in \[sys\_db\_object\].
 -   Set your application scope to Localization Workspace.
--   Role required: admin. The [[ia-localization-il|localization]]\_admin can't complete this procedure.
+-   Role required: admin. The localization\_admin can't complete this procedure.
 
 ## About this task
 
@@ -86,7 +86,3 @@ You may also need to set Restricted Caller Access privileges to make restricted 
 
 [Create a processor script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/create-processor-script.md)
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]

@@ -30,7 +30,7 @@ For the list of tables searchable by default in the base system, see [Default gl
 
 The text\_search list view for a searchable table determines which fields the system uses to populate the title, field list, and description for each result from that table.
 
-\[Omitted image "pol-search-result-fields.png"\] Alt text: Sample search result listing in [[next-experience-landing-page|Next Experience UI]] showing result's title, field list, and description.
+\[Omitted image "pol-search-result-fields.png"\] Alt text: Sample search result listing in Next Experience UI showing result's title, field list, and description.
 
 To learn how the system uses fields in the text\_search list view to populate search result entries, see [Text search views control format of global search results for tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/text-search-view-formats-results.md).
 
@@ -48,9 +48,5 @@ For details on using the search context menu, see [View and open search results 
 
 For more information on configuring search settings in Next Experience, see [Global search finds records from multiple tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_GlobalTextSearch.md).
 
-**Parent Topic:**[[next-experience-ui-admin|Configuring the Next Experience UI]]
+**Parent Topic:**[Configuring the Next Experience UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-ui-admin.md)
 
-## Related
-
-- [[next-experience-ui-admin|Configuring the Next Experience UI]]
-- [[next-experience-landing-page|Next Experience UI]]

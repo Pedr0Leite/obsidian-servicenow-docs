@@ -30,15 +30,9 @@ With the integration of ServiceNow Operational Sustainability Workspace with Goa
 
 ## Goal Framework for SPM with Strategic Planning
 
-Use the ServiceNow [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace to visualize the progress of your targets graphically and update the target actuals with ease.
+Use the ServiceNow Strategic Planning Workspace to visualize the progress of your targets graphically and update the target actuals with ease.
 
-You can [[create-goal|create a goal]] or target relationship with a planning item or any other item to identify and associate your current or future work and achieve your goals and targets. You can also associate a primary goal or target for the planning items where the items contribute to achieving the goal or target. For more information, see [Managing portfolio plan goals in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-goals-in-alignment-planner-workspace.md).
+You can create a goal or target relationship with a planning item or any other item to identify and associate your current or future work and achieve your goals and targets. You can also associate a primary goal or target for the planning items where the items contribute to achieving the goal or target. For more information, see [Managing portfolio plan goals in Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/managing-goals-in-alignment-planner-workspace.md).
 
-**Note:** When you [[install-alignment-planner-workspace|install Strategic Planning]], you get all the features of the [[goal-framework|Goal Framework and Goal Framework for SPM]] applications.
+**Note:** When you install Strategic Planning, you get all the features of the Goal Framework and Goal Framework for SPM applications.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[create-goal|Create a goal]]
-- [[install-alignment-planner-workspace|Install Strategic Planning]]
-- [[goal-framework|Goal Framework and Goal Framework for SPM]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Scheduled jobs and tables installed with normalization of firmware models
 
-Scheduled jobs that run during the normalization of firmware [[c_Models|models]] embedded into Operational Technology \(OT\) assets and tables that store firmware normalization details are installed with the [[ot-asset-management|OT Asset Management]] application.
+Scheduled jobs that run during the normalization of firmware models embedded into Operational Technology \(OT\) assets and tables that store firmware normalization details are installed with the OT Asset Management application.
 
 <table id="table_knc_ytj_tdc"><thead><tr><th>
 
@@ -92,7 +92,7 @@ Normalizes firmware models using the newly downloaded content.
 |Firmware CPE mapping \[sn\_itam\_firmware\_cpe\_mapping\]|Stores details of mapping between firmware and CPE.|
 |Custom firmware CPE mapping \[sn\_itam\_cust\_firmware\_cpe\_mapping\]|Stores custom firmware and CPE mapping details.|
 |Firmware content audit \[sn\_itam\_firmware\_content\_audit\]|Stores content values that changed.|
-|Manage firmware library \[sn\_itam\_firmware\_manage\_library\]|Stores [[import-export-ham|import and export content data]].|
+|Manage firmware library \[sn\_itam\_firmware\_manage\_library\]|Stores import and export content data.|
 |Firmware configuration \[sn\_itam\_firmware\_configuration\]|Stores opt-in and opt-out data.|
 
 **Parent Topic:**[Enterprise Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/reference-enterprise-asset-management.md)
@@ -112,7 +112,7 @@ Normalizes firmware models using the newly downloaded content.
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -140,9 +140,3 @@ Normalizes firmware models using the newly downloaded content.
 
 [Asset put away task fields]()
 
-## Related
-
-- [[c_Models|Models]]
-- [[ot-asset-management|OT Asset Management]]
-- [[import-export-ham|Import and export content data]]
-- [[model-hierarchy|Model categories]]

@@ -20,9 +20,9 @@ Predictive search feature that shows words as users type. You can use this base 
 
 ## Instance options
 
-Use the instance options to [[configure-onboarding-modals|configure]] the Typeahead Search widget for a portal page.
+Use the instance options to configure the Typeahead Search widget for a portal page.
 
-**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for [[c_ServicePortal|Service Portal]], see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md).
+**Note:** The AI Search instance options apply only if AI Search is enabled in your portal. For more information on enabling AI Search for Service Portal, see [Enable and configure AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/enable-ais-sp.md).
 
 <table id="table_ghq_ddf_kz"><thead><tr><th>
 
@@ -58,7 +58,7 @@ glyph
 
 </td><td>
 
-The icon that appears in the search field beside the widget. The search icon is the default. To use a different icon, type the name of the icon in the field, for example `search-plus`. For a list of icons to choose from, open the instance options for the [[icon-link-widget|Icon Link widget]].
+The icon that appears in the search field beside the widget. The search icon is the default. To use a different icon, type the name of the icon in the field, for example `search-plus`. For a list of icons to choose from, open the instance options for the Icon Link widget.
 
 </td></tr><tr><td>
 
@@ -150,8 +150,3 @@ Content that portal users can search on, including tables in your instance or ex
 
 [Clone a widget]()
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]
-- [[c_ServicePortal|Service Portal]]
-- [[icon-link-widget|Icon Link widget]]

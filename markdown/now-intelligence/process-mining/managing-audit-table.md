@@ -14,7 +14,7 @@ breadcrumb: [Working with external datasets, Use, Process Mining, Platform Analy
 
 # Managing an audit table
 
-After the audit and record tables are created with the imported data, you can use them to [[create-project|create a project]]. You can also share, edit, empty, or delete the tables.
+After the audit and record tables are created with the imported data, you can use them to create a project. You can also share, edit, empty, or delete the tables.
 
 **Parent Topic:**[Working with external datasets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/external-dataset.md)
 
@@ -28,7 +28,7 @@ Role required: sn\_process\_mining\_admin
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 
 2.  On the left of the page, select the External data integration icon \(\[Omitted image "ext-dataset-modules.png"\] Alt text: External data integration icon\).
 
@@ -133,12 +133,8 @@ Role required: sn\_process\_mining\_admin
 
 5.  Type “Delete” in the confirmation area, and select **Delete dataset**.
 
-    The data from the audit and record tables, and the associated [[process-mining|Process Mining]] projects are removed.
+    The data from the audit and record tables, and the associated Process Mining projects are removed.
 
     **Note:** The tables aren’t deleted. Only data is deleted. If you want to delete the tables, the administrator must delete them manually. The administrator must delete the tables periodically.
 
-## Related
 
-- [[create-project|Create a project]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[process-mining|Process Mining]]

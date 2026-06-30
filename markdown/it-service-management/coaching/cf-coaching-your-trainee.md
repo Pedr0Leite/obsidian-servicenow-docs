@@ -14,7 +14,7 @@ breadcrumb: [Training agents using Coaching with Learning, Coaching, IT Service 
 
 # Coaching your trainee
 
-A manager, or coach, is a subject matter expert of a process and is responsible for providing [[cf-coaching-landing|coaching]] to an employee, or trainee. Use the Coach Dashboard to manage and measure the effectiveness of your coaching.
+A manager, or coach, is a subject matter expert of a process and is responsible for providing coaching to an employee, or trainee. Use the Coach Dashboard to manage and measure the effectiveness of your coaching.
 
 You can access the Coaching Dashboard from the Coaching navigation menu, or directly from the dashboard list. Click a report to view the detailed data.
 
@@ -112,6 +112,3 @@ Use a coaching assessment to review the work of a trainee and to provide trainin
 
 **Parent Topic:**[Training agents using Coaching with Learning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-train-your-agents.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

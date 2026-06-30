@@ -12,7 +12,7 @@ breadcrumb: [Synthetic monitoring reference, Synthetic monitoring, ITOM AIOps, I
 
 # Domain separation and synthetic monitoring
 
-Domain separation is supported for [[synthetic-monitoring-landing-page|synthetic monitoring]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for synthetic monitoring. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -38,17 +38,12 @@ You define the domain-separated environment when you configure your data inputs.
 
 Using domain separation in your instance is transparent to synthetic monitoring. The application manages all aspects of the data, such as the monitor configurations and results. When a property is changed, the new value affects new sources only in the specific domain.
 
-When setting up [[acc-landing-page|Agent Client Collector]] \(ACC\) for non-hosted synthetic checks, each domain that supports non-hosted synthetics requires its own ACC cluster and MID Server. The ACC cluster and MID Server must be created in a leaf domain.
+When setting up Agent Client Collector \(ACC\) for non-hosted synthetic checks, each domain that supports non-hosted synthetics requires its own ACC cluster and MID Server. The ACC cluster and MID Server must be created in a leaf domain.
 
-**Parent Topic:**[[synthetic-monitoring-reference|Synthetic monitoring reference]]
+**Parent Topic:**[Synthetic monitoring reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/synthetic-monitoring-reference.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[synthetic-monitoring-reference|Synthetic monitoring reference]]
-- [[synthetic-monitoring-landing-page|Synthetic monitoring]]
-- [[acc-landing-page|Agent Client Collector]]

@@ -98,12 +98,8 @@ The outcome of a user's most recently reported COVID-19 vaccine. This field is u
 
 **Note:** A validator service can only approve reviews or leave them in the same status as if they had not been reviewed. If the vaccine response could not be validated and approved, the response must be manually reviewed.
 
- For more information, see [[confirm-vaccine-response|Confirm the reported vaccination status for a user]].
+ For more information, see [Confirm the reported vaccination status for a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/confirm-vaccine-response.md).
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[vaccination-status|Vaccination Status]]
+</table>**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[confirm-vaccine-response|Confirm the reported vaccination status for a user]]
-- [[vaccination-status|Vaccination Status]]

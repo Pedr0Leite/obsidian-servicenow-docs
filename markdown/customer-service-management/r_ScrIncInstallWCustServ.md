@@ -12,7 +12,7 @@ breadcrumb: [Components installed with Customer Service Management, Reference, C
 
 # Script includes installed with Customer Service Management
 
-Script includes are added with activation of [[c_CustomerServiceManagement|Customer Service Management]].
+Script includes are added with activation of Customer Service Management.
 
 |Script include|Description|
 |--------------|-----------|
@@ -21,9 +21,5 @@ Script includes are added with activation of [[c_CustomerServiceManagement|Custo
 |AccountTeamUtil|Util APIs for the Customer Service Management account team responsibility module.|
 |AjaxCustomerServiceSearch|Ajax class that provides the knowledge base search results.|
 
-**Parent Topic:**[[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
+**Parent Topic:**[Components installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_InstalledWithCustomerService.md)
 
-## Related
-
-- [[r_InstalledWithCustomerService|Components installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Explore, Sales Customer Relationship Management for Telecommunicati
 
 # Mapping of Sales CRM for Telecommunications PSR catalog to TMF SID
 
-The [[somt-psr-catalog|Sales CRM for Telecommunications PSR catalog]] entities, product offering, product specification, customer facing service specification, resource facing service specification, and resource specification map directly to the corresponding entities in the TM Forum \(TMF\) shared information and data \(SID\) model.
+The Sales CRM for Telecommunications PSR catalog entities, product offering, product specification, customer facing service specification, resource facing service specification, and resource specification map directly to the corresponding entities in the TM Forum \(TMF\) shared information and data \(SID\) model.
 
 ## TMF SID model
 
@@ -85,6 +85,3 @@ The following example shows how the SASE Custom Solution Bundle is defined in th
 
 \[Omitted image "somt-psr-sid-example.jpg"\] Alt text: Catalog hierarchy showing SASE Custom Solution Bundle with three child offerings mapped to product specifications and resource specifications.
 
-## Related
-
-- [[somt-psr-catalog|Sales CRM for Telecommunications PSR catalog]]

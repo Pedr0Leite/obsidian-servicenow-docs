@@ -14,22 +14,22 @@ breadcrumb: [Configure, Health and Safety Risk Management, Health and Safety, Em
 
 # Configure the smart assessment template for safety inspections and audits
 
-You can create smart assessment templates and add instructions, questions, and [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information by using the template designer in the Smart Assessment Engine application.
+You can create smart assessment templates and add instructions, questions, and reference information by using the template designer in the Smart Assessment Engine application.
 
 ## Before you begin
 
 -   Smart assessments are built using the ServiceNow® Smart Assessment Engine \(SAE\) application. Familiarize yourself with the [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-asmnt-engine-landing-page.md).
--   Verify that the application scope is selected as [[hs-risk-management-landing-page|Health and Safety Risk Management]]. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+-   Verify that the application scope is selected as Health and Safety Risk Management. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: sn\_hs\_rm.safety\_inspection\_manager or sn\_hs\_rm.safety\_audit\_manager
 
 ## About this task
 
-You can also convert your existing Survey templates related to [[health-safety-overview|Health and Safety]] into Smart Assessment templates using the Smart Assessment Engine migration tool. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-migrating.md).
+You can also convert your existing Survey templates related to Health and Safety into Smart Assessment templates using the Smart Assessment Engine migration tool. For more information, see [Creating an assessment template from legacy assessment metric types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/sae-asmnt-template-migrating.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the **Workspaces** tab and then select the **Assessment workspace**.
 
@@ -55,7 +55,7 @@ You can also convert your existing Survey templates related to [[health-safety-o
 
     2.  In the **Assessment reader role** field, select \[sn\_smart\_asmt.assessment\_reader\] role or any role that contains this role.
 
-        **Important:** Only the role selected here can access the smart assessments that uses this template. This role can complete the smart assessment, assign it, and [[hs-create-actions-findings-smart-assessments|create actions or findings for the smart assessment questionnaire]].
+        **Important:** Only the role selected here can access the smart assessments that uses this template. This role can complete the smart assessment, assign it, and create actions or findings for the smart assessment questionnaire.
 
 
 ## What to do next
@@ -64,10 +64,3 @@ You can configure which question in the smart assessment should have action crea
 
 **Parent Topic:**[Setting up Health and Safety Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-setting-up-risk-mgmt.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hs-risk-management-landing-page|Health and Safety Risk Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-create-actions-findings-smart-assessments|Create actions or findings for the smart assessment questionnaire]]

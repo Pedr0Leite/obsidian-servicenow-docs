@@ -14,7 +14,7 @@ breadcrumb: [Commercial Lines Claims, Exploring insurance claims applications, I
 
 # Exploring Commercial Lines Claims
 
-Learn how the first-notice-of-loss \(FNOL\) representatives, processors, adjusters, special investigation agents, and managers can use the [[commercial-lines-claims-landing-page|Commercial Lines Claims]] application to create and manage commercial [[insurance-claims-flow|insurance claims]].
+Learn how the first-notice-of-loss \(FNOL\) representatives, processors, adjusters, special investigation agents, and managers can use the Commercial Lines Claims application to create and manage commercial insurance claims.
 
 With the Commercial Lines Claims application, you can manage the initiation, processing, and resolving of insurance policy claims for your commercial customers from one centralized workflow. With this application, you can coordinate with the special investigation departments and offices to manage the claims tasks. You can also collect and validate the required claim documentation, investigate the claim, and settle the claim.
 
@@ -91,10 +91,5 @@ Manager who approves the reserves and payment requests and can view an overview 
 </table>**Related topics**  
 
 
-[[commercial-lines-claims|Commercial Lines Claims dashboard]]
+[Commercial Lines Claims dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/commercial-lines-claims.md)
 
-## Related
-
-- [[commercial-lines-claims|Commercial Lines Claims dashboard]]
-- [[commercial-lines-claims-landing-page|Commercial Lines Claims]]
-- [[insurance-claims-flow|Insurance claims]]

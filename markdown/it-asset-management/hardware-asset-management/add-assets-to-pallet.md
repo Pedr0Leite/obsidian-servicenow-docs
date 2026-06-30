@@ -14,7 +14,7 @@ breadcrumb: [Manage your inventory through pallet assets, Use, Hardware Asset Ma
 
 # Add assets to a pallet
 
-Add base, hardware, bundle, consumable, and other [[pallet-assets|pallet assets]] to an in-stock pallet to track and manage the assets in a stockroom as a group.
+Add base, hardware, bundle, consumable, and other pallet assets to an in-stock pallet to track and manage the assets in a stockroom as a group.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ When an asset that is a parent to other assets is added to a pallet, all its chi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset estate**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Asset estate**.
 
 2.  Select the **Pallets** tab.
 
@@ -63,9 +63,9 @@ When an asset that is a parent to other assets is added to a pallet, all its chi
 
     The assets that you added to the pallet are added to the list shown in the Assets tab. The state, substate, location, stockroom, aisle, and space details of the assets are synced with the pallet.
 
-    **Note:** Only the substate of [[pre-allocated-asset|pre-allocated assets]] isn't synced with the pallet. For more information, see [Create pre-allocated assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingPreAllocatedAssets.md).
+    **Note:** Only the substate of pre-allocated assets isn't synced with the pallet. For more information, see [Create pre-allocated assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingPreAllocatedAssets.md).
 
-6.  Add [[c_ReceiveAConsumableAsset|consumable assets]] to the pallet.
+6.  Add consumable assets to the pallet.
 
     1.  Select **Add consumables**.
 
@@ -91,9 +91,3 @@ When an asset that is a parent to other assets is added to a pallet, all its chi
 
 [Using pallet assets for managing inventory]()
 
-## Related
-
-- [[pallet-assets|Pallet assets]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[pre-allocated-asset|Pre-allocated assets]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

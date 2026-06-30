@@ -50,20 +50,16 @@ To show single groups in the dashboard picker, add the parameter `sysparm_group=
 
     Only view permissions can be set on dashboard groups.
 
-    Dashboard groups use standard platform permissions. For more information, see [[access-control|Access control]] list rules.
+    Dashboard groups use standard platform permissions. For more information, see Access control list rules.
 
 5.  Select **Update**.
 
 
 ## How dashboard and dashboard group permissions interact on responsive dashboards
 
-Dashboard group and [[c_DashboardRoles|dashboard permissions]] are not additive. Depending on how permissions are defined on a dashboard, dashboard group permissions may not apply.
+Dashboard group and dashboard permissions are not additive. Depending on how permissions are defined on a dashboard, dashboard group permissions may not apply.
 
 If a dashboard belongs to a dashboard group, any view permissions defined on the dashboard override all view permissions on the dashboard group. Permissions on the dashboard group level are not visible from the **Share** panel of a dashboard. When you change the view permissions of a dashboard in a group, always review the dashboard group permissions to ensure that users do not lose access. For more information, see [Dashboard permissions scenarios](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/troubleshoot-dashboard-permissions.md).
 
 For example, the dashboard group Support Dashboards contains the dashboards Open Incidents and Incident Metrics. The dashboard group has view permissions for the group Support. When you give view permissions to user John Dee for the dashboard Incident Metrics, the group Support can no longer see that dashboard. View permissions on the dashboard override all view permissions on the dashboard group.
 
-## Related
-
-- [[access-control|Access control]]
-- [[c_DashboardRoles|Dashboard permissions]]

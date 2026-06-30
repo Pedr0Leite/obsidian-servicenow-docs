@@ -14,13 +14,13 @@ breadcrumb: [Explore, Major Security Incident Management, Security Incident Resp
 
 # Checklist for MSIM setup
 
-Before using the ServiceNow® [[major-security-incident-management-landing-page|Major Security Incident Management]] \(MSIM\) application, download the application from the ServiceNow® Store.
+Before using the ServiceNow® Major Security Incident Management \(MSIM\) application, download the application from the ServiceNow® Store.
 
 Track your progress with the setup, installation, and configuration from the following table.
 
 **Note:** The roles assigned for Major Security Incident Management application are listed in the further following sections, for more information, see [Major Security Incident Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/msi-roles.md).
 
-Use the following checklist to guide you through the end-to-end steps to [[configure-cortex-xsiam-siem|install and configure]] Major Security Incident Management application.
+Use the following checklist to guide you through the end-to-end steps to install and configure Major Security Incident Management application.
 
 <table id="table_k5l_nk1_rpb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Verify that the Major Security Incident Management application is installed and 
 
 Major Security Incident Management v1.1.1 is available on ServiceNow® Store.
 
- Follow these instructions: [[download-app-first-time|downloading an application from the ServiceNow Store]].
+ Follow these instructions: [downloading an application from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 </td></tr><tr><td>
 
@@ -46,13 +46,13 @@ Verify that the following applications are installed in the given order.
 
 </td><td>
 
-The following applications will be installed by default after you install Major Security Incident Management application in the current application release version:-   File Explorer Core for [[security-operations-landing-page|Security Operations]] v1.1.1
+The following applications will be installed by default after you install Major Security Incident Management application in the current application release version:-   File Explorer Core for Security Operations v1.1.1
 -   Microsoft SharePoint File Explorer Connector for Security Operations v1.1.1
 -   File Explorer Component for Security Operations v1.0.0
 -   Microsoft Teams Chat Connector for Security Operations v1.0.0
 -   Chat core for Security Operations v1.0.0
--   Major [[sir-landing-page|Security Incident Response]] v1.1.1
--   Collab Chat EVAM card for MSIM workspace v1.0.0 \(This application is set up only for the UI visualizations in the application background for [[msim-workspace|Major Security Incident Management workspace]]\)
+-   Major Security Incident Response v1.1.1
+-   Collab Chat EVAM card for MSIM workspace v1.0.0 \(This application is set up only for the UI visualizations in the application background for Major Security Incident Management workspace\)
 -   Task Organizer UI Component for Major Security Incident Management workspace 1.0.0
 -   Security Incident Response v12.8.1
 
@@ -108,7 +108,7 @@ Manage access from Microsoft SharePoint site to different users and user groups.
 
 </td></tr><tr><td>
 
-Verify that you have created and configured Microsoft SharePoint Drive and necessary [[qradar-ibm-intg-settings|configuration settings]].
+Verify that you have created and configured Microsoft SharePoint Drive and necessary configuration settings.
 
 </td><td>
 
@@ -155,7 +155,7 @@ Verify that the Major Security Incident Administration - Notifications settings 
 
 </td><td>
 
-As an MSI Administrator, trigger [[tisc-email-notifications|email notifications]] when a security incident is proposed and are sent to all those users and groups who are configured to the notifications list. For more information, see [Set notification preferences for MSIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-msi-administration-settings.md).
+As an MSI Administrator, trigger email notifications when a security incident is proposed and are sent to all those users and groups who are configured to the notifications list. For more information, see [Set notification preferences for MSIM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/configuring-msi-administration-settings.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Major Security Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/exploring-major-security-incident-management.md)
@@ -169,13 +169,3 @@ As an MSI Administrator, trigger [[tisc-email-notifications|email notifications]
 
 [Major Security Incident Management roles]()
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[msim-workspace|Major Security Incident Management workspace]]
-- [[qradar-ibm-intg-settings|Configuration settings]]
-- [[tisc-email-notifications|Email Notifications]]

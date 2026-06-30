@@ -12,7 +12,7 @@ breadcrumb: [Creating action items in crisis events, Structured workflows for Cr
 
 # Create task and assessment-type action items
 
-Use integration of [[crisis-management-uib|crisis events]] and Smart Assessment for creating necessary action items related to the crisis event. The action items can be of task and assessment type.
+Use integration of crisis events and Smart Assessment for creating necessary action items related to the crisis event. The action items can be of task and assessment type.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_bcm.planner, sn\_bcm.program\_manager
 
 ## About this task
 
-Verify that you have created Smart [[airc-assessment-templates|Assessment templates]] for integrating crisis events with the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].
+Verify that you have created Smart Assessment templates for integrating crisis events with the Smart Assessment Engine.
 
 ## Procedure
 
-1.  In the [[list-view-uib-ws|List view]], navigate to **Crisis events** &gt; **Pending** and select the crisis event in the list.
+1.  In the List view, navigate to **Crisis events** &gt; **Pending** and select the crisis event in the list.
 
 2.  Report the crisis event either from the home page or from the events page by creating an event.
 
@@ -38,13 +38,13 @@ Verify that you have created Smart [[airc-assessment-templates|Assessment templa
 
 3.  In the **Action items** tab of the event, select **New**.
 
-    The [[create-new-action-item-form|Create New Action item form]] is displayed.
+    The Create New Action item form is displayed.
 
     \[Omitted image "create-new-action-item-action-task.png"\] Alt text: Create New Action item.
 
 4.  On the form, fill in the fields.
 
-    For descriptions of all these fields, see [[create-new-action-item-crisis-event-form|Create New Action item form for crisis events]].
+    For descriptions of all these fields, see [Create New Action item form for crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-action-item-crisis-event-form.md).
 
     1.  Add the description and short description of the action item.
 
@@ -85,7 +85,7 @@ Verify that you have created Smart [[airc-assessment-templates|Assessment templa
         5.  Publish the assessment template.
         Only when these conditions are met, the template is available for selection in the drop-down of the action item form.
 
-        **Note:** If a BCM administrator publishes a new version of the threat assessment template, future crisis-event assessment-type action items use the new version. Open action items based on the retired version are either retained or canceled depending on the **Assessment handling on version retirement** option configured on the **Threat assessment for crisis events** template category. For minor corrections such as typos or grammar, use **Quick Edit** to update a published template without creating a new version. For more information, see [[using-smart-asmt-template|Using latest assessment template for conducting BIAs]].
+        **Note:** If a BCM administrator publishes a new version of the threat assessment template, future crisis-event assessment-type action items use the new version. Open action items based on the retired version are either retained or canceled depending on the **Assessment handling on version retirement** option configured on the **Threat assessment for crisis events** template category. For minor corrections such as typos or grammar, use **Quick Edit** to update a published template without creating a new version. For more information, see [Using latest assessment template for conducting BIAs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-smart-asmt-template.md).
 
         For information on setting up Smart Assessment templates, see [Create an assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-asmnt-template-create.md).
 
@@ -115,18 +115,7 @@ Verify that you have created Smart [[airc-assessment-templates|Assessment templa
 
 
 -   **[Create New Action item form for crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-new-action-item-crisis-event-form.md)**  
-Use the Create New Action item form in the [[bcm-workspace|BCM Configurable Workspace]] to add action items about a crisis event.
+Use the Create New Action item form in the BCM Configurable Workspace to add action items about a crisis event.
 
-**Parent Topic:**[[creating-action-items-in-crisis|Creating action items in crisis events]]
+**Parent Topic:**[Creating action items in crisis events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/creating-action-items-in-crisis.md)
 
-## Related
-
-- [[create-new-action-item-crisis-event-form|Create New Action item form for crisis events]]
-- [[using-smart-asmt-template|Using latest assessment template for conducting BIAs]]
-- [[creating-action-items-in-crisis|Creating action items in crisis events]]
-- [[crisis-management-uib|Crisis events]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[list-view-uib-ws|List view]]
-- [[create-new-action-item-form|create new action item form]]
-- [[bcm-workspace|BCM Configurable Workspace]]

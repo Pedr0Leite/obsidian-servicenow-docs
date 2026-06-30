@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure alerts**.
 
@@ -61,13 +61,7 @@ After the request submission, all six alerts will be enabled automatically, no m
 
 ## What to do next
 
-[[manage-io-alerts|Manage Instance Observer alerts]]
+[Manage Instance Observer alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/manage-io-alerts.md)
 
-**Parent Topic:**[[io-alerts|Key alerts – activation and notifications]]
+**Parent Topic:**[Key alerts – activation and notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts.md)
 
-## Related
-
-- [[manage-io-alerts|Manage Instance Observer alerts]]
-- [[io-alerts|Key alerts – activation and notifications]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

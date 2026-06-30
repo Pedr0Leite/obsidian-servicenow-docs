@@ -16,9 +16,9 @@ breadcrumb: [Identity Center for users, Identity Center, Identity]
 
 Provide details about your registered mobile on the ServiceNow instance.
 
-The Registered Mobile Devices tab in the [[identity-center|Identity Center]] displays the details about your registered devices that were used to access the ServiceNow instance.
+The Registered Mobile Devices tab in the Identity Center displays the details about your registered devices that were used to access the ServiceNow instance.
 
-If the [[adaptive-authentication|Adaptive Authentication]] module is enabled and a registered mobile device is enrolled the Identity Center displays the details about your registered devices.
+If the Adaptive Authentication module is enabled and a registered mobile device is enrolled the Identity Center displays the details about your registered devices.
 
 Further, it also displays details of the devices such as Operating System, Device Id, and Status of the device along with the Registration Time of the device.
 
@@ -26,7 +26,3 @@ To register your mobile device, you must make sure the Adaptive Authentication \
 
 \[Omitted image "registered-mobile-devices.png"\] Alt text: Registered Mobile Devices
 
-## Related
-
-- [[identity-center|Identity Center]]
-- [[adaptive-authentication|Adaptive authentication]]

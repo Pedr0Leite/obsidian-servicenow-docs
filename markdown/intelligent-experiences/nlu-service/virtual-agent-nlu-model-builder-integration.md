@@ -14,9 +14,9 @@ breadcrumb: [Natural Language Understanding, Enable AI experiences]
 
 # Virtual Agent and NLU Workbench integration
 
-Virtual Agent administrators can access and update their [[nlu-models|NLU models]] from within the Virtual Agent Designer user interface.
+Virtual Agent administrators can access and update their NLU models from within the Virtual Agent Designer user interface.
 
-**Note:** If you have [[platform-now-assist-landing|Now Assist]] in Virtual Agent, you can continue to use your existing NLU topics and migrate them into new LLM topics using the topic migration feature within Virtual Agent Designer. For more information on topic migration, see .
+**Note:** If you have Now Assist in Virtual Agent, you can continue to use your existing NLU topics and migrate them into new LLM topics using the topic migration feature within Virtual Agent Designer. For more information on topic migration, see .
 
 ## Integration setup tasks, roles, and details
 
@@ -31,7 +31,7 @@ In addition, they must also complete the following tasks in Virtual Agent **Gene
 Virtual Agent administrators must also apply their NLU model to a conversation topic by completing the following tasks in Virtual Agent Designer:
 
 -   In **Topic Properties**, select the NLU model, the NLU intent, and the topic switching behavior.
--   For input [[controls|controls]] used in the topic flow, set the NLU properties for entity extraction.
+-   For input controls used in the topic flow, set the NLU properties for entity extraction.
 
 Optionally, admins can activate Dialog Acts to enable Virtual Agent to respond flexibly when users make a modification in mid-conversation. Currently available response types are Modify, Affirm, and Negate, based on the last 5 exchanges in the conversation. Dialog Acts can be configured for English only, in Topic Properties. For more information see .
 
@@ -40,7 +40,7 @@ After the NLU model is complete and associated with a Virtual Agent conversation
 -   Update NLU intent utterances.
 -   Train, test, and publish the NLU model.
 
-For more information, see [[nlu-landing|Natural Language Understanding]] \(NLU\) topic discovery in Virtual Agent.
+For more information, see Natural Language Understanding \(NLU\) topic discovery in Virtual Agent.
 
 ## Publishing topics from Virtual Agent
 
@@ -56,9 +56,3 @@ Publishing a topic with a mapped intent fails for the following reasons:
 -   The last trained model is already published with a VA topic.
 -   The intent is not enabled in the model.
 
-## Related
-
-- [[nlu-models|NLU models]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[controls|Controls]]
-- [[nlu-landing|Natural Language Understanding]]

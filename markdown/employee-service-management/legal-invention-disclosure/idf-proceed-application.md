@@ -14,7 +14,7 @@ breadcrumb: [Use, Legal Invention Disclosure, Legal Service Delivery Practice Ap
 
 # Proceed with a Legal Invention Disclosure request
 
-Once an application for a [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request is complete and has been approved, approve the application to proceed for review by an outside counsel.
+Once an application for a Legal Invention Disclosure request is complete and has been approved, approve the application to proceed for review by an outside counsel.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_lg\_ip.patent\_fulfiller
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\) from the primary navigation and in the Legal Requests section of the **Lists** menu, select **All**.
 
@@ -49,7 +49,3 @@ Once you have associated the outside counsel to a legal matter send an email wit
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

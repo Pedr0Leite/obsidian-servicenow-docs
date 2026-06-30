@@ -28,7 +28,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Search Contexts**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Search Contexts**.
 
 2.  Open the search context record to change its default source.
 
@@ -51,6 +51,3 @@ Role required: admin
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[c_ContextualSearch|Contextual search]]

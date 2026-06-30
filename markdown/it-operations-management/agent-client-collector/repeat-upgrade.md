@@ -26,7 +26,7 @@ Roles required: agent\_client\_collector\_admin
 
 ## Procedure
 
-1.  Navigate to the Agent Client Collectors page **All** &gt; **[[acc-landing-page|Agent Client Collector]]** &gt; **Agents**.
+1.  Navigate to the Agent Client Collectors page **All** &gt; **Agent Client Collector** &gt; **Agents**.
 
 2.  Select an entry for which the **Version** number is not the highest available version.
 
@@ -45,6 +45,3 @@ The specified agents will be upgraded with the next scheduled high volume upgrad
 
 **Parent Topic:**[Agent Client Collector upgrade overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-agent-upgrade-overview.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

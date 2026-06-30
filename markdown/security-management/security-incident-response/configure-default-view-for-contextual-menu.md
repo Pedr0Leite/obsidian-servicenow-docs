@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[sir-landing-page|Security Incident Response]] Workspaces** &gt; **Administration**.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Security Incident Response Workspaces** &gt; **Administration**.
 
 2.  Select **SIR Workspace Properties**.
 
@@ -30,14 +30,10 @@ Role required: sn\_si.admin
 
 4.  On the sn\_si\_aw.collapse\_tab page, update the **Value** field as needed.
 
-    **Note:** By default, the contextual menu panel in the [[sir-workspace-landing-page|Security Incident Response Workspace]] is collapsed, that is, the default value of the sn\_si\_aw.collapse\_tab property is true.
+    **Note:** By default, the contextual menu panel in the Security Incident Response Workspace is collapsed, that is, the default value of the sn\_si\_aw.collapse\_tab property is true.
 
 5.  Select **Save**.
 
 
 **Parent Topic:**[View and update Security Incident Response system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/view-update-sirw-system-properties.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

@@ -44,10 +44,7 @@ The location table and records will be updated as per the customized location.
 **Related topics**  
 
 
-[[service-locations-components|Field Service with Service Locations Support components]]
+[Field Service with Service Locations Support components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/service-locations-components.md)
 
 [Assign ad-hoc Service Locations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/field-service-with-service-locations.md)
 
-## Related
-
-- [[service-locations-components|Field Service with Service Locations Support components]]

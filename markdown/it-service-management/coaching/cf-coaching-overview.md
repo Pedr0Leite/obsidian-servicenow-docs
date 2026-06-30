@@ -14,7 +14,7 @@ breadcrumb: [Explore, Coaching, IT Service Management]
 
 # About Coaching
 
-After you enable [[cf-coaching-landing|Coaching]], you can set up roles and groups, define coaching opportunities, create training material, and start assessing and coaching employees. The Coach and Trainee dashboards provide useful overviews to manage and measure results.
+After you enable Coaching, you can set up roles and groups, define coaching opportunities, create training material, and start assessing and coaching employees. The Coach and Trainee dashboards provide useful overviews to manage and measure results.
 
 **Note:** For detailed information on how to get started with Coaching, see the [Coaching demo](https://www.servicenow.com/community/itsm-blog/servicenow-coaching-module-demo/ba-p/2332545).
 
@@ -122,11 +122,11 @@ You can create a manual assessment and complete the following tasks manually:-  
 -   Associate coaching surveys to the assessment
 
 </td></tr></tbody>
-</table>You can use Coaching for any task-based process for such as [[c_ITILChangeManagement|Change Management]], Customer Service Management or [[c_IncidentManagement|Incident Management]] to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md).
+</table>You can use Coaching for any task-based process for such as Change Management, Customer Service Management or Incident Management to set up Coaching. You can also use Coaching for a non-task or custom table source by [configuring a business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-reference.md).
 
 ## Initial Coaching setup
 
-Once you have enabled Coaching, set up the application by assigning user roles, [[cf-configuring-coaching|configuring coaching]] opportunities and creating training content.
+Once you have enabled Coaching, set up the application by assigning user roles, configuring coaching opportunities and creating training content.
 
 1.  Set up Coaching [Coaching roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-roles.md) and groups
 2.  [Define trigger conditions for a coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-coaching-opportunity.md)
@@ -178,9 +178,3 @@ You can define activities that occur when trainees work through an ITSM process,
 |Implementation|
 |Post implementation review|
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_IncidentManagement|Incident Management]]
-- [[cf-configuring-coaching|Configuring Coaching]]

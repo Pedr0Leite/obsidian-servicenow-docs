@@ -15,7 +15,7 @@ breadcrumb: [Manage notifications in Contract Management Pro, Configure addition
 
 # Configure Obligation Management notifications
 
-Activate [[cncore-ob-mgmt-notification|Obligation Management notifications]] to notify users when an obligation task is created, assigned, submitted, approved, or rejected.
+Activate Obligation Management notifications to notify users when an obligation task is created, assigned, submitted, approved, or rejected.
 
 ## About this task
 
@@ -70,6 +70,3 @@ The obligation task-specific notifications are activated and the default system 
 
 **Parent Topic:**[Manage notifications in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-manage-notifications.md)
 
-## Related
-
-- [[cncore-ob-mgmt-notification|Obligation Management notifications]]

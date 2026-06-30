@@ -17,7 +17,7 @@ Create a risk reduction request for multiple vulnerable items at once by using t
 
 ## Before you begin
 
-All vulnerable items you plan to select must map to the same vulnerability. Risk reduction is not available when items from multiple different [[vulnerabilities|vulnerabilities]] are selected.
+All vulnerable items you plan to select must map to the same vulnerability. Risk reduction is not available when items from multiple different vulnerabilities are selected.
 
 Risk reduction must be enabled on the vulnerability before you can request it for the associated items.
 
@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
     **Note:** The selected records must be in the **Open**, **Under Investigation**, or **Awaiting Implementation** state.
 
@@ -58,10 +58,5 @@ Role required:
 
 Approvers at each configured level must approve the risk reduction and deferral requests. After all approvals are complete, the Remediation Task transitions to **Deferred** state and the risk ratings on the affected items are updated to reflect the approved desired rating.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

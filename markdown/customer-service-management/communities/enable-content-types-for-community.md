@@ -72,7 +72,7 @@ You can configure content types at both the community and forum level. At the co
 
 [Enable knowledge harvesting]()
 
-[Activate [[servicenow-communities|Communities]] plugins]()
+[Activate Communities plugins]()
 
 [Community setup guide for admins]()
 
@@ -96,6 +96,3 @@ You can configure content types at both the community and forum level. At the co
 
 [Community content types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/c_communities-content-types.md)
 
-## Related
-
-- [[servicenow-communities|Communities]]

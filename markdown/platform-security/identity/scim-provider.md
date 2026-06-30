@@ -14,7 +14,7 @@ breadcrumb: [System for Cross-domain Identity Management \(SCIM\), Identity]
 
 # SCIM Provider
 
-The Service Provider provisions [[users|users]] and groups using the SCIM API.
+The Service Provider provisions users and groups using the SCIM API.
 
 <table id="table_en2_q4d_2yb" class="nav-card"><tbody><tr><td>
 
@@ -42,7 +42,3 @@ The Service Provider provisions [[users|users]] and groups using the SCIM API.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[users|Users]]

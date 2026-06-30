@@ -20,22 +20,16 @@ Role required: sn\_rcl\_claim\_mgmt.recall\_manager and sn\_rcl\_claim\_mgmt.rec
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **[[mco-recall-management|Recall Management]]** &gt; **My Campaign** &gt; **[[mco-rcl-clms|Recall Campaign]] Phases** &gt; **Phase tasks**.
+1.  Navigate to **Workspaces** &gt; **CSM/FSM Configurable Workspace** &gt; **Lists** &gt; **Recall Management** &gt; **My Campaign** &gt; **Recall Campaign Phases** &gt; **Phase tasks**.
 
 2.  Select **New**.
 
 3.  On the Phase task form, fill in the fields.
 
-    For a description of the field values, see [[mco-phase-task-form|Phase task form]].
+    For a description of the field values, see [Phase task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-phase-task-form.md).
 
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[mco-recall-campaign-phases|Recall a campaign phase]]
+**Parent Topic:**[Recall a campaign phase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-recall-campaign-phases.md)
 
-## Related
-
-- [[mco-phase-task-form|Phase task form]]
-- [[mco-recall-campaign-phases|Recall a campaign phase]]
-- [[mco-recall-management|Recall management]]
-- [[mco-rcl-clms|Recall campaign]]

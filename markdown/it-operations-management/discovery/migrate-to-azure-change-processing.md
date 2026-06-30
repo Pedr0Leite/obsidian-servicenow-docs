@@ -18,7 +18,7 @@ Migrate to Azure change processing to improve the change processing performance 
 
 ## Before you begin
 
--   Ensure that the latest version of [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns store app is installed on the ServiceNow AI Platform.
+-   Ensure that the latest version of Discovery and Service Mapping Patterns store app is installed on the ServiceNow AI Platform.
 -   Ensure that Microsoft Azure alert-driven discovery is configured on the ServiceNow AI Platform.
 -   Ensure that the Cloud Events \[sn\_cmp\_cloud\_event\] table doesn’t contain any event in ready state.
 -   Ensure that the scope is set to Global.
@@ -28,7 +28,7 @@ Role required: discovery\_admin or sn\_cmp.cloud\_admin
 
 ## About this task
 
-If you are using the Microsoft Azure alert-driven discovery and the ServiceNow AI Platform receives a huge number of alerts from the Azure cloud, it may take a significant amount of time to process the alerts and update the Configuration Management Database \(CMDB\). Migrate to the [[azure-change-processing|Azure change processing]] to overcome the performance issues. For more information on the Azure change processing, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md).
+If you are using the Microsoft Azure alert-driven discovery and the ServiceNow AI Platform receives a huge number of alerts from the Azure cloud, it may take a significant amount of time to process the alerts and update the Configuration Management Database \(CMDB\). Migrate to the Azure change processing to overcome the performance issues. For more information on the Azure change processing, see [Azure change processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/azure-change-processing.md).
 
 ## Procedure
 
@@ -46,24 +46,17 @@ If you are using the Microsoft Azure alert-driven discovery and the ServiceNow A
 
     2.  Add the selected accounts to the **Service Accounts with ‘pull-based’ change processing** list.
 
-        **Note:** When you [[configure-azure-change-processing|enable Azure change processing]] for an Azure management group, it is also enabled for all the subscriptions in the management group.
+        **Note:** When you enable Azure change processing for an Azure management group, it is also enabled for all the subscriptions in the management group.
 
 5.  Select **OK**.
 
 
 ## Result
 
-The migration script marks the Azure configurations module as deprecated. In the Cloud Discovery. The Azure Alert Configurations page is hidden in the [[cow-landing-page|Cloud Discovery Workspace]].
+The migration script marks the Azure configurations module as deprecated. In the Cloud Discovery. The Azure Alert Configurations page is hidden in the Cloud Discovery Workspace.
 
 **Related topics**  
 
 
 [https://support.servicenow.com/kb?id=kb\_article\_view&amp;sysparm\_article=KB1705862](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1705862)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[azure-change-processing|Azure change processing]]
-- [[configure-azure-change-processing|Enable Azure change processing]]
-- [[cow-landing-page|Cloud Discovery Workspace]]

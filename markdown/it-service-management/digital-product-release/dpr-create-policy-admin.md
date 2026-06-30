@@ -26,7 +26,7 @@ The policies are defined using ServiceNow® Policy as Code Engine \(PaCE\), so m
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the policy administration icon \(\[Omitted image "dpr-icon-policy-admin.png"\] Alt text: Policy administration icon.\).
 
@@ -74,6 +74,3 @@ The policy version is updated as Current and is used the next time the policy is
 
 For more information, see [Manage PaCE policy versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-policy-versions.md).
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

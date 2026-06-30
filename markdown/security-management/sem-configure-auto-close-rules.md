@@ -17,18 +17,18 @@ By configuring auto-close rules, you can automate the process of closing stale d
 The base system provides the following auto-close rules:
 
 -   **Assets last scanned**: Detections associated with assets that haven’t been scanned within the last 90 days are transitioned to Stale state.
--   **Detections last found**: Detections that haven’t been found within the last 90 days. If you activate Detections last found record, then this feature requires a successful integration run of Rapid7 Comprehensive Vulnerable Item Integrations and Microsoft TVM Machine [[vulnerabilities|Vulnerabilities]] Integration \(Full import\) within the last seven days.
+-   **Detections last found**: Detections that haven’t been found within the last 90 days. If you activate Detections last found record, then this feature requires a successful integration run of Rapid7 Comprehensive Vulnerable Item Integrations and Microsoft TVM Machine Vulnerabilities Integration \(Full import\) within the last seven days.
 
 Starting with v30.3.3 of USEM parallel processing for auto close rules is supported. Previously, auto close rules ran as a single sequential job. With parallel processing, the system automatically creates multiple concurrent jobs based on data volume, significantly reducing execution time for large datasets. When you enable an auto close rule, the system evaluates the number of applicable items and determines the number of parallel jobs to create automatically. Parallelism is configured in code and requires no manual setup.
 
 Configuration of auto-delete rules includes the following steps.
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
 
-[[sem-closing-stale-findings-automatically|Closing stale detections and findings automatically using auto-close rules]]
+[Closing stale detections and findings automatically using auto-close rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-closing-stale-findings-automatically.md)
 
 ## Create or edit auto-close rules
 
@@ -36,11 +36,11 @@ Create rules to close stale detections and findings associated with retired conf
 
 ### Before you begin
 
-Role required: See [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
+Role required: See [Access control lists \(ACLs\) for administration rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-acls-for-admin-rules.md)
 
 ### Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -148,10 +148,4 @@ If selected, any findings or detections that are mapped to the **In-review** or 
     -   Based on specified conditions, container vulnerable items \(CVITs\) are marked Closed with the substate Fixed. Any related container image findings are subsequently moved to Closed status as well.
     When you upgrade to the latest version of Unified Security Exposure Management, the conditions set in your auto-close rules also get updated accordingly. Additionally, if the rules are associated with different domains, the rules are created specifically within those domains.
 
-## Related
 
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[sem-closing-stale-findings-automatically|Closing stale detections and findings automatically using auto-close rules]]
-- [[sem-acls-for-admin-rules|Access control lists \(ACLs\) for administration rules]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

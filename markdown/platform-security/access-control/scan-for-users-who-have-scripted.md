@@ -15,17 +15,17 @@ breadcrumb: [Use Scripting Governance Tool, Scripting Governance Tool, Access Ma
 
 # Scan for users who have scripted
 
-Scan your instance to find [[users|users]] who have scripted within a specific time frame. The scan queries the audit [[logs|logs]] and identifies any user who has performed write or update to a table having script field.
+Scan your instance to find users who have scripted within a specific time frame. The scan queries the audit logs and identifies any user who has performed write or update to a table having script field.
 
 ## Before you begin
 
 Role required: security\_admin
 
-**Important:** You must have elevate your role `security_admin`. See [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+**Important:** You must have elevate your role `security_admin`. See [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Security** &gt; **[[scripting-governance|Scripting Governance Tool]]**.
+1.  Navigate to **All** &gt; **System Security** &gt; **Scripting Governance Tool**.
 
 2.  Select **Scan for scripting users**.
 
@@ -62,7 +62,7 @@ Role required: security\_admin
 
     \[Omitted image "sgt-view-scans.png"\] Alt text: View scan
 
-7.  Select the scan record to open the [[scan-results|scan results]] page.
+7.  Select the scan record to open the scan results page.
 
     The scan results page opens and displays the following information:
 
@@ -90,10 +90,3 @@ The scan produces a clear picture of active and inactive scripters on the Servic
 
 After reviewing the scan results, remove any users from the **Conditional Script Writer** group who no longer require scripting access. Removing a user from the group does not affect any other permissions they hold on the ServiceNow AI Platform.
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[users|Users]]
-- [[logs|Logs]]
-- [[scripting-governance|Scripting Governance Tool]]
-- [[scan-results|Scan results]]

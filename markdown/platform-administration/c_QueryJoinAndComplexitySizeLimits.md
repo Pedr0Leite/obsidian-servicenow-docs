@@ -18,7 +18,7 @@ Database engines normally handle multiple joins quite well. The relational model
 
 To mitigate this potential complexity, use the following property to limit join complexity and size.
 
-Navigate to **[[r_SetArchiveRuleProcessingBehavior|System Properties]] &gt; System** and find the property with this description:
+Navigate to **System Properties &gt; System** and find the property with this description:
 
 **Max number of database joins per query. Smaller values cause the system to issue a larger number of less complex queries. Larger values reduce the number of queries at the cost of additional complexity per query. In the absence of known database issues stemming from large join counts, this property should remain unchanged.**
 
@@ -28,9 +28,5 @@ The system must compensate for the fewer joins by issuing more queries to retrie
 
 **Note:** In the absence of known database issues stemming from large join counts, this parameter should remain unchanged.
 
-**Parent Topic:**[[p_CoreConfigurationOverview|Basic system configuration]]
+**Parent Topic:**[Basic system configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/p_CoreConfigurationOverview.md)
 
-## Related
-
-- [[p_CoreConfigurationOverview|Basic system configuration]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

@@ -16,8 +16,5 @@ breadcrumb: [Managing enterprise assets and tasks using the Mobile Agent applica
 
 As an enterprise asset technician, manage the delivery of enterprise assets that you have in your personal stockroom to any other warehouse stockroom by creating Drop off tasks in the Mobile Agent application. The asset manager of the destination stockroom receives the assets that you dropped off, verifies the asset, and completes the Receive and Drop off tasks in the Mobile Agent application.
 
-You can also manage Drop off tasks in the [[using-eam-workspace|Enterprise Asset Workspace]]. For details, see [Delivering enterprise assets in your personal stockroom through Drop off tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/drop-off-receive-assets-eam.md).
+You can also manage Drop off tasks in the Enterprise Asset Workspace. For details, see [Delivering enterprise assets in your personal stockroom through Drop off tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/drop-off-receive-assets-eam.md).
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]

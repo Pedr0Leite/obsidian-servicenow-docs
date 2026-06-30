@@ -14,7 +14,7 @@ breadcrumb: [Setup employee communications, Configuring Employee Center Pro, Emp
 
 # Content templates
 
-Content templates empower content creators to efficiently publish large volumes of [[ec-news-articles|news articles]]. Each template defines the article layout, publishing schedule, destination, and target audience. By associating a news article with a content template, the system automatically generates publish plans, which reduces the effort required to publish content.
+Content templates empower content creators to efficiently publish large volumes of news articles. Each template defines the article layout, publishing schedule, destination, and target audience. By associating a news article with a content template, the system automatically generates publish plans, which reduces the effort required to publish content.
 
 Your instance includes two out of the box templates with a set duration of 90 days and an audience of all active users.
 
@@ -47,6 +47,3 @@ When the content author clicks **Save** or **Save and continue**, the system aut
 
 A Content template can be modified, even if it is associated with a News article. Changes to a Content template will not impact the existing publish plans for News articles.
 
-## Related
-
-- [[ec-news-articles|News articles]]

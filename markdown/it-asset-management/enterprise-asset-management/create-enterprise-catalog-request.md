@@ -66,7 +66,7 @@ Employee separation
 
 </td><td>
 
-Whether the person for who you are submitting the [[reclaim-asset|asset reclamation]] is leaving the organization or moving to a different role.
+Whether the person for who you are submitting the asset reclamation is leaving the organization or moving to a different role.
 
 </td></tr><tr><td>
 
@@ -111,13 +111,8 @@ Any instructions that you may want to mention.
 </td></tr></tbody>
 </table>5.  Select **Submit**.
 
-    The [[enterprise-asset-reclamation|enterprise asset reclamation]] request is created. Once the request is created, the enterprise\_asset\_technician role navigates to the [[using-eam-workspace|Enterprise Asset Workspace]] to view the reclamation line and complete the tasks. For more details, see [Close an enterprise asset reclamation request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/close-enteprise-reclamation-request.md).
+    The enterprise asset reclamation request is created. Once the request is created, the enterprise\_asset\_technician role navigates to the Enterprise Asset Workspace to view the reclamation line and complete the tasks. For more details, see [Close an enterprise asset reclamation request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/close-enteprise-reclamation-request.md).
 
 
 **Parent Topic:**[Enterprise asset reclamation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/enterprise-asset-reclamation.md)
 
-## Related
-
-- [[reclaim-asset|Asset reclamation]]
-- [[enterprise-asset-reclamation|Enterprise asset reclamation]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

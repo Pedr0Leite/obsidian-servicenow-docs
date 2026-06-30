@@ -14,13 +14,13 @@ breadcrumb: [Explore, Hermes Messaging Service, Manage service capabilities, Ext
 
 # Exchanging data using Hermes
 
-Produce and consume Kafka messages in your ServiceNow instance using the [[hermes-messaging-service|Hermes Messaging Service]].
+Produce and consume Kafka messages in your ServiceNow instance using the Hermes Messaging Service.
 
 There are several methods for exchanging data between your ServiceNow instance and your Kafka environment using the Hermes Messaging Service. In all cases, data is produced from one entity and consumed by another.
 
 ## Using Stream Connect
 
-With Stream [[c_Connect|Connect]], you can produce messages from your ServiceNow instance using a Producer step from a flow action or the Producer API, and then consume the messages in your external application.
+With Stream Connect, you can produce messages from your ServiceNow instance using a Producer step from a flow action or the Producer API, and then consume the messages in your external application.
 
 You can also produce messages from an external application and then consume the messages in your ServiceNow instance via any of the following methods:
 
@@ -49,10 +49,5 @@ With the Kafka standard protocol, you can exchange messages with any application
 
 For details on exchanging data using a Kafka client, see [Producing and consuming messages from a Kafka client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/producing-consuming-hermes.md).
 
-**Parent Topic:**[[manage-services|Manage service capabilities]]
+**Parent Topic:**[Manage service capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-services.md)
 
-## Related
-
-- [[manage-services|Manage service capabilities]]
-- [[hermes-messaging-service|Hermes Messaging Service]]
-- [[c_Connect|Connect]]

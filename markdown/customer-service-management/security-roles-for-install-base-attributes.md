@@ -12,7 +12,7 @@ breadcrumb: [Install base characteristics, Install base items, Configure install
 
 # Security roles for the install base characteristics
 
-You can assign functional and granular roles to [[c_CustomerServiceManagement|Customer Service Management]] \(CSM\) users and administrators so that they can access the different capabilities and features of the [[attributes-and-configuration-of-install-base-management|install base characteristics]].
+You can assign functional and granular roles to Customer Service Management \(CSM\) users and administrators so that they can access the different capabilities and features of the install base characteristics.
 
 Functional and granular roles come with varying levels of permissions for the configuration of install base characteristics on the Customer Service Management \(CSM\) application.
 
@@ -92,7 +92,7 @@ Customer Service Install Base Management \[com.snc.install\_base\_characteristic
 
 </td><td>
 
-This role provides access to manage the [[install-base-item|install base items]] and their characteristics. This role is intended for internal users only.
+This role provides access to manage the install base items and their characteristics. This role is intended for internal users only.
 
 </td><td>
 
@@ -193,11 +193,5 @@ sn\_install\_base.install\_base\_manager
 |----------|---------------|-----------|--------------|-------------|
 |sn\_customerservice.customer|Customer Service Management \[com.sn\_customerservice\]|This role provides access to research and manage install base items and their associated characteristics. Users with this role can view install base items, including all related characteristics and assets associated with their accounts. This role is intended for external users only.|sn\_esm\_user,snc\_external|None|
 
-For more information on the customer roles, see [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]].
+For more information on the customer roles, see [Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md).
 
-## Related
-
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[attributes-and-configuration-of-install-base-management|Install base characteristics]]
-- [[install-base-item|Install base items]]

@@ -61,11 +61,8 @@ Verify that ServiceNow® core application that is required to support the Symant
 </td><td>
 
 Verify that the following DLP applications and security support common applications are installed and activated from ServiceNow Store. If not installed, install, and activate on application. -   Security Support Common
--   [[dlp-landing|Data Loss Prevention Incident Response]]
+-   Data Loss Prevention Incident Response
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/symantec-dlp-integration.md)
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

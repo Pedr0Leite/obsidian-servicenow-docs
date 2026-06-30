@@ -28,7 +28,7 @@ Unlike guided boards, the lanes on a freeform or flexible task board do not matc
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[c_VisualTaskBoards|Visual Task Boards]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Visual Task Boards**.
 
 2.  Open a task board.
 
@@ -42,7 +42,7 @@ Unlike guided boards, the lanes on a freeform or flexible task board do not matc
 
 1.  Scroll past the last lane and click **Add Lane**.
 2.  Enter a title for the lane, then press the Enter key.
- The **Add Lane** option is always available for freeform and flexible boards. It is available for guided boards only if the lanes are based on a [[onboarding-modals-reference|reference]] field, such as **Assigned to**.
+ The **Add Lane** option is always available for freeform and flexible boards. It is available for guided boards only if the lanes are based on a reference field, such as **Assigned to**.
 
 </td></tr><tr><td id="d47842e137">
 
@@ -126,7 +126,3 @@ The Child table lanes and records are excluded.
 
 [Delete a Visual Task Board]()
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[onboarding-modals-reference|Reference]]

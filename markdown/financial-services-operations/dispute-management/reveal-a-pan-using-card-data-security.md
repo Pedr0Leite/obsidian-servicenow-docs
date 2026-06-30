@@ -15,7 +15,7 @@ breadcrumb: [Use, Card Data Security, Dispute Management, Banking applications, 
 
 # Reveal a PAN in the workspace using Card Data Security
 
-Use the [[card-data-security|Card Data Security]] component to mask and reveal a PAN in the dispute workspace and transaction details record.
+Use the Card Data Security component to mask and reveal a PAN in the dispute workspace and transaction details record.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: none
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Create a new card dispute case, or open an existing one.
 
@@ -37,7 +37,4 @@ Role required: none
 
     \[Omitted image "card-data-security-card-details-txn.png"\] Alt text: Transaction details form showing card number reveal component in card details section.
 
-## Related
 
-- [[card-data-security|Card Data Security]]
-- [[fso-overview|Financial Services]]

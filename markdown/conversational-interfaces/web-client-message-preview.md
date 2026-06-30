@@ -27,7 +27,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings** &gt; **General**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings** &gt; **General**.
 
 2.  Under **Display options**, activate **Message preview**.
 
@@ -49,9 +49,5 @@ The end user can either:
 
 The badge icon appears only when there are new or unread messages. The badge icon is updated every 10 seconds, and displays the first new or unread message.
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ci-configuring-chat-features|General chat settings]]
-- [[convint-landing-page|Conversational Interfaces]]

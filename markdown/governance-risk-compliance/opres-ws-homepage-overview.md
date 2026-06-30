@@ -12,7 +12,7 @@ breadcrumb: [Landing page and dashboard views, Operational Resilience, Governanc
 
 # Resilience metrics
 
-You can view resilience metrics for services or business services, and pillars on the landing page of the [[grc-opres-landing-page|Operational Resilience]] Workspace.
+You can view resilience metrics for services or business services, and pillars on the landing page of the Operational Resilience Workspace.
 
 ## Services, Business services, and Pillars overview
 
@@ -22,17 +22,17 @@ The landing page displays a summary of the resilience metrics for the services o
 
 The landing page of the Operational Resilience Workspace displays the following tabs:
 
--   **Services overview** tab—Displays an overview of the status of the services in your organization. The [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]] fetches service-related data. Resilience metrics for the services, including their operational status, completed activities, red flags, and suggestions for improvements, are displayed on this tab. For information on the resilience metric displayed on the **Services overview** tab, see [[ser-ov|Services overview tab]].
--   **Business services overview** tab—Displays the status of the business services in your organization. The [[opres-with-csdm-header|Opres with CSDM header Main node configuration]] sets up the business services-related data. Resilience metrics for the business services, including their operational status, completed activities, red flags, and suggestions for improvements, are displayed on this tab. For information on the resilience metric displayed on the **Business services overview** tab, see [[bs-ov|Business services overview tab]].
--   **Pillars overview** tab—Displays the status and metrics of the pillars in your organization. For information on the resilience metric displayed on the **Pillars overview** tab, see [[pillars-ov|Pillars overview tab]].
+-   **Services overview** tab—Displays an overview of the status of the services in your organization. The Service \(CMDB\) Main node configuration fetches service-related data. Resilience metrics for the services, including their operational status, completed activities, red flags, and suggestions for improvements, are displayed on this tab. For information on the resilience metric displayed on the **Services overview** tab, see [Services overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ser-ov.md).
+-   **Business services overview** tab—Displays the status of the business services in your organization. The Opres with CSDM header Main node configuration sets up the business services-related data. Resilience metrics for the business services, including their operational status, completed activities, red flags, and suggestions for improvements, are displayed on this tab. For information on the resilience metric displayed on the **Business services overview** tab, see [Business services overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bs-ov.md).
+-   **Pillars overview** tab—Displays the status and metrics of the pillars in your organization. For information on the resilience metric displayed on the **Pillars overview** tab, see [Pillars overview tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/pillars-ov.md).
 
 Existing customers typically use the Service \(CMDB\) Main node configuration, while new customers use the OpRes with CSDM header Main node configuration. Depending on the setup done by your administrator, either the **Services overview** or the **Business services overview** tab, is shown on the landing page.
 
-Administrators or UI Builder administrators can show or hide these tabs from the Workspace view based on organizational needs. For information on how to display or hide either the **Services overview** or **Business services overview** tab, see [[displaying-services-overview-tab|Show Business services overview tab in Workspace view]].
+Administrators or UI Builder administrators can show or hide these tabs from the Workspace view based on organizational needs. For information on how to display or hide either the **Services overview** or **Business services overview** tab, see [Show Business services overview tab in Workspace view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/displaying-services-overview-tab.md).
 
 ## Third-party Risk Management \(TPRM\) integration
 
-Starting with Operational Resilience, release 21.0.x, you can track third-party [[risk-assessments|risk assessments]] as red flags in the Operational Resilience reports and the overview pages for business services, service offerings, and business processes.
+Starting with Operational Resilience, release 21.0.x, you can track third-party risk assessments as red flags in the Operational Resilience reports and the overview pages for business services, service offerings, and business processes.
 
 TPRM risk assessments are integrated into Operational Resilience if they meet the following conditions:
 
@@ -54,7 +54,7 @@ To view Related lists and Red flags data in the Operational Resilience Workspace
     However, if TPRM is installed, Operational Resilience users can access both risk red flags and Third-party Risk Management red flags because they are assigned the TPRM viewer role. The TPRM viewer role includes risk viewer capabilities, thus eliminating the need for IRM roles.
 
 
-For information on the roles required to view the related lists and red flags data, see the "Roles to view related lists and Red flags data" table in the [[service-form-lists-ws-reference|Create Service form]] page.
+For information on the roles required to view the related lists and red flags data, see the "Roles to view related lists and Red flags data" table in the [Create Service form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/service-form-lists-ws-reference.md) page.
 
 ## Displaying reports for different user roles
 
@@ -62,7 +62,7 @@ Separate reports are displayed in the Operational Resilience Workspace landing p
 
 ## Enhanced roles for accessing the reports
 
-The [[roles-installed-with-op-res|roles installed with Operational Resilience]] now contain the relationship for BCM Professional and IRM Professional users.
+The roles installed with Operational Resilience now contain the relationship for BCM Professional and IRM Professional users.
 
 All Operational Resilience users can access general reports on the landing page.
 
@@ -174,15 +174,3 @@ Users with this role can participate in both operational resilience activities a
 </td></tr></tbody>
 </table>\[Omitted image "irm-reports.png"\] Alt text: IRM reports.
 
-## Related
-
-- [[ser-ov|Services overview tab]]
-- [[bs-ov|Business services overview tab]]
-- [[pillars-ov|Pillars overview tab]]
-- [[displaying-services-overview-tab|Show Business services overview tab in Workspace view]]
-- [[service-form-lists-ws-reference|Create Service form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]
-- [[risk-assessments|risk assessments]]
-- [[roles-installed-with-op-res|Roles installed with Operational Resilience]]

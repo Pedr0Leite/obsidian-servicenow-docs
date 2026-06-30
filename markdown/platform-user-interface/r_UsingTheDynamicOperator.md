@@ -12,11 +12,11 @@ breadcrumb: [Filters, Filters and breadcrumbs, Lists in the classic environment,
 
 # Dynamic operators
 
-The dynamic operator, **is \(dynamic\)**, [[lists-configurable-workspace|lists]] predefined dynamic filter options where the condition value is computed from a value in a [[onboarding-modals-reference|reference]] field.
+The dynamic operator, **is \(dynamic\)**, lists predefined dynamic filter options where the condition value is computed from a value in a reference field.
 
 The following dynamic filter options are available by default.
 
-**Note:** Administrators can [[t_DynamicFilterOptions|create new dynamic filter options]].
+**Note:** Administrators can [create new dynamic filter options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_DynamicFilterOptions.md).
 
 |Target table of reference field|Option label|Description|
 |-------------------------------|------------|-----------|
@@ -33,7 +33,7 @@ The following table contains examples and descriptions of dynamic filter conditi
 |Caller|is \(dynamic\)|Me|Computes the value of Caller based on the current user viewing the list.|
 |Assignment group|is \(dynamic\)|One of My Groups|Computes the value of Assignment group based on the current user viewing the list.|
 
-**Parent Topic:**[[c_Filters|Filters]]
+**Parent Topic:**[Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Filters.md)
 
 **Related topics**  
 
@@ -46,9 +46,3 @@ The following table contains examples and descriptions of dynamic filter conditi
 
 [Filter on multiple string values]()
 
-## Related
-
-- [[t_DynamicFilterOptions|Create a dynamic filter option]]
-- [[c_Filters|Filters]]
-- [[lists-configurable-workspace|Lists]]
-- [[onboarding-modals-reference|Reference]]

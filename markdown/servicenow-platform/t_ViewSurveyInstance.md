@@ -31,7 +31,7 @@ Role required: admin or survey\_admin
     -   **All**: Displays survey instances in all states. By default, these instances are sorted in ascending order by the **Number** field.
 2.  Open a survey instance from the required sub-module.
 
-    By default, you can view the following fields in the [[survey-instance-form|Survey Instance form]] for all sub-modules other than **Completed**.
+    By default, you can view the following fields in the [Survey Instance form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-instance-form.md) for all sub-modules other than **Completed**.
 
     -   **Number**
     -   **Metric type**
@@ -48,7 +48,7 @@ Role required: admin or survey\_admin
     -   When you open an instance in the **Completed** sub-module, you are redirected to the User's Response page.
     -   Each survey instance is stored as a record on the Assessment Instance \[asmt\_assessment\_instance\] table with a modified view for survey use.
 
-**Parent Topic:**[[r_SurveyAdminTasks|Survey administration]]
+**Parent Topic:**[Survey administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/r_SurveyAdminTasks.md)
 
 **Related topics**  
 
@@ -67,7 +67,7 @@ Role required: admin or survey\_admin
 
 [Survey definitions]()
 
-[Create a [[c_SurveyDesigner|survey designer]] template question]()
+[Create a survey designer template question]()
 
 [Survey questions]()
 
@@ -85,13 +85,7 @@ Role required: admin or survey\_admin
 
 [Legacy survey migration]()
 
-[[c_SchedulePeriods|Schedule periods]]
+[Schedule periods](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_SchedulePeriods.md)
 
 [Event scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduleEvents.md)
 
-## Related
-
-- [[survey-instance-form|Survey Instance form]]
-- [[r_SurveyAdminTasks|Survey administration]]
-- [[c_SchedulePeriods|Schedule periods]]
-- [[c_SurveyDesigner|Survey designer]]

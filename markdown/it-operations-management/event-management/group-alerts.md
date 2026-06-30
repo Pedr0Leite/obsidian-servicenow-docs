@@ -19,7 +19,7 @@ Configure grouping rules to automatically consolidate related alerts into single
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -27,11 +27,11 @@ Role required: evt\_mgmt\_admin or evt\_team\_operator
 
 ## About this task
 
-[[c_ServiceAnalyticsOverview|Alert grouping]] rules automatically combine related alerts that represent the same underlying issue or event. This reduces alert volume and helps operations teams focus on resolving the root cause rather than managing multiple individual alerts for the same problem.
+Alert grouping rules automatically combine related alerts that represent the same underlying issue or event. This reduces alert volume and helps operations teams focus on resolving the root cause rather than managing multiple individual alerts for the same problem.
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Reduce Noise**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Reduce Noise**.
 
 2.  Expand **Reduce Noise**.
 
@@ -53,9 +53,4 @@ Role required: evt\_mgmt\_admin or evt\_team\_operator
 
 5.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]
-- [[c_EM|Event Management]]

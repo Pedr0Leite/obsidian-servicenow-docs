@@ -14,7 +14,7 @@ breadcrumb: [Incident templates and record producers, Configuring Incident Manag
 
 # Create incident template
 
-[[create-an-incident|Create an incident]] template to confirm consistency in the way information about the incident request is captured. A template also helps you to create incident easily and accurately.
+Create an incident template to confirm consistency in the way information about the incident request is captured. A template also helps you to create incident easily and accurately.
 
 ## Before you begin
 
@@ -65,6 +65,3 @@ Let us consider an example where you want to create a template to log an inciden
 
 [Create a record producer using a template]()
 
-## Related
-
-- [[create-an-incident|Create an incident]]

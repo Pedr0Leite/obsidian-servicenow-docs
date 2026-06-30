@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[task-mining-workspace|Task Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Task Mining Workspace**.
 
 2.  Navigate to the project you want to archive.
 
@@ -52,6 +52,3 @@ Role required: admin
 
 [Modify the Task Mining data retention period](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/define-data-retention.md)
 
-## Related
-
-- [[task-mining-workspace|Task Mining Workspace]]

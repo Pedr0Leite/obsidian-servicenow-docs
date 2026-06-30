@@ -287,7 +287,7 @@ Advanced
 
 </td><td>
 
-Select this [[check-box|check box]] to write a script for determining additional users to request approvals from. Use the **Additional groups script** to customize group approvals.
+Select this check box to write a script for determining additional users to request approvals from. Use the **Additional groups script** to customize group approvals.
 
 </td></tr><tr><td>
 
@@ -331,6 +331,3 @@ The activity state tells the workflow engine what to do with the activity.
 
 **Parent Topic:**[Approval and rollback workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/workflow-activities/c_ApprovalAndRollbackActivities.md)
 
-## Related
-
-- [[check-box|Check box]]

@@ -14,7 +14,7 @@ breadcrumb: [OAuth 2.0, OAuth authentication, Authentication, Access Management]
 
 # Activate OAuth
 
-By default, the **[[c_OAuthApplications|OAuth 2.0]] \(com.snc.platform.security.[[oauth-inbound-and-outbound|oauth]]\)** plugin is active on new and upgraded instances. If the plugin is not active on your instance, you can activate it.
+By default, the **OAuth 2.0 \(com.snc.platform.security.oauth\)** plugin is active on new and upgraded instances. If the plugin is not active on your instance, you can activate it.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -34,9 +34,4 @@ Role required: admin
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

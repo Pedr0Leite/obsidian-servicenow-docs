@@ -14,7 +14,7 @@ breadcrumb: [Administering reports, Reporting, Reporting, dashboards, and Perfor
 
 # Domain separation and Reporting
 
-Domain separation is supported in [[reporting-landing-page|reporting]] and relates to report creation and administration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported in reporting and relates to report creation and administration. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Standard
 
@@ -41,7 +41,7 @@ In Reporting, separated data includes report designs and report content. A repor
 
 \[Omitted image "domains-list-example.png"\] Alt text: List of company departments in separate domains including IT, CS, and HR. IT, CS, and HR are child domains of Joe's Company.
 
-If you [[t_CreateYourOwnReport|create a report]] in one domain and copy it to another, the report structure remains the same, but the report data is adjusted for the domain. For example, an Active Incident report shows all active incidents to a user in the parent domain, but only IT incidents to a user in the IT domain.
+If you create a report in one domain and copy it to another, the report structure remains the same, but the report data is adjusted for the domain. For example, an Active Incident report shows all active incidents to a user in the parent domain, but only IT incidents to a user in the IT domain.
 
 -   **[Enable domain separation on reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/t_EnsureDomainSepOnAReport.md)**  
 Activate the domain separation plugin to enable reports to display content based on data, rules, and settings from the logged-on user domain.
@@ -55,7 +55,3 @@ Activate the domain separation plugin to enable reports to display content based
 
 [Understanding domain separation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/c_DomainSeparation.md)
 
-## Related
-
-- [[reporting-landing-page|Reporting]]
-- [[t_CreateYourOwnReport|Create a report]]

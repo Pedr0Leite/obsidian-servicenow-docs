@@ -26,7 +26,7 @@ You have two options for editing your model: view the current training results o
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[csm-task-intelligence|Task Intelligence for Customer Service]]** &gt; **Setup**.
+1.  Navigate to **All** &gt; **Task Intelligence for Customer Service** &gt; **Setup**.
 
 2.  From the **Models** list, select the menu icon of the model you want to edit, and then select **Edit Model**.
 
@@ -57,9 +57,5 @@ You have two options for editing your model: view the current training results o
 
 ## What to do next
 
-See how to [[export-a-task-intelligence-model|Export a model]]
+See how to [Export a model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/export-a-task-intelligence-model.md)
 
-## Related
-
-- [[export-a-task-intelligence-model|Export a model]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]

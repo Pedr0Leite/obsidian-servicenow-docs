@@ -12,7 +12,7 @@ breadcrumb: [Configure, Data visualizations, Platform Analytics experience, Plat
 
 # System tables in data visualizations
 
-System tables are excluded from data visualizations by default. However, you can exempt system tables from the prohibition. Some system tables are exempt from the restriction by default. Be very careful when [[creating-data-visualizations|creating data visualizations]] on these system tables.
+System tables are excluded from data visualizations by default. However, you can exempt system tables from the prohibition. Some system tables are exempt from the restriction by default. Be very careful when creating data visualizations on these system tables.
 
 Prohibited system tables include, but are not limited to:
 
@@ -32,9 +32,5 @@ With reports and data visualizations, however, you cannot predict what your quer
 -   It is slow, so your report or data visualization will take an unacceptably long time to run.
 -   While the database is scanning your table, your instance will slow down or even become unavailable because other queries cannot get the resources they need.
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
-## Related
-
-- [[configure-data-visualizations|Configure data visualizations]]
-- [[creating-data-visualizations|Creating data visualizations]]

@@ -14,7 +14,7 @@ breadcrumb: [Universal Request reference, Universal Request, Employee Service Ma
 
 # Transfer configuration form
 
-Use the **[[configure-route-state|Transfer configuration]]** form to configure your transfer details in the [[ur-landing-limitedaccess|Universal Request]] application.
+Use the **Transfer configuration** form to configure your transfer details in the Universal Request application.
 
 <table id="table_jb3_qpg_q5"><thead><tr><th>
 
@@ -106,7 +106,3 @@ Select the fields that you want to populate other than the state.
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Request reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/ur-reference-topic.md)
 
-## Related
-
-- [[configure-route-state|Transfer configuration]]
-- [[ur-landing-limitedaccess|Universal Request]]

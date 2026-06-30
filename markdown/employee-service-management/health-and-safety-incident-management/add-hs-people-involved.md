@@ -26,7 +26,7 @@ People involved are individuals who are directly or indirectly connected to an i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Open a safety incident assigned to you in which you want to add involved people.
 
@@ -34,7 +34,7 @@ People involved are individuals who are directly or indirectly connected to an i
 
     The incident playbook opens.
 
-4.  In the **Add people involved** [[activity-lxp|activity]], add or modify a person involved.
+4.  In the **Add people involved** activity, add or modify a person involved.
 
     -   To add a person involved, fill in the fields in the **Add persons involved** section.
     -   To modify the record of an existing person involved, select the person in the **People involved** list to open it.
@@ -57,8 +57,3 @@ If this incident involves more than one person, create a record for each.
 
 **Parent Topic:**[Work on a safety incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/work-hs-incident-observation.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]

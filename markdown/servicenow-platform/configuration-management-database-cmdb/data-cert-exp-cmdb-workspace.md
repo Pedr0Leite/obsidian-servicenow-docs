@@ -14,7 +14,7 @@ breadcrumb: [Data Certification, CMDB data management, Configuration Management 
 
 # Data Certification experience in CMDB Workspaceand in Service Graph Workspace
 
-Use [[c_DataCertification|Data Certification]] in CMDB Workspace or in [[sg-workspace|Service Graph Workspace]] to administer Data Certification, create certification policies, manage certification tasks, and view analytics about on-going processes.
+Use Data Certification in CMDB Workspace or in Service Graph Workspace to administer Data Certification, create certification policies, manage certification tasks, and view analytics about on-going processes.
 
 ## Use Data Certification in CMDB Workspaceand in Service Graph Workspace
 
@@ -34,18 +34,12 @@ Manage certification tasks in CMDB Workspaceand in Service Graph Workspace:
 
 ## Retention of Data Certification records
 
-Archival and destroy processes of certification policy related records, are separate from those processes for records of all other policy types. This separation facilitates the extension of the retention period of certification policy records. Retaining certification policy execution records for longer periods of time is useful in situations where those records are needed for audits and is also useful for the [[data-cert-dashboard-workspace|Data Certification Dashboard]], which is populated by these records.
+Archival and destroy processes of certification policy related records, are separate from those processes for records of all other policy types. This separation facilitates the extension of the retention period of certification policy records. Retaining certification policy execution records for longer periods of time is useful in situations where those records are needed for audits and is also useful for the Data Certification Dashboard, which is populated by these records.
 
 The following configurations facilitate the separation of retention policies for Data Certification records:
 
--   The table cleanup rule for the [[cmdb-data-management-landing|CMDB Data Management]] Policy Executions \[cmdb\_data\_management\_policy\_execution\] table, which is stored in the Auto Flushes \[sys\_auto\_flush\] table, excludes certification policy execution records from recurring cleanups.
+-   The table cleanup rule for the CMDB Data Management Policy Executions \[cmdb\_data\_management\_policy\_execution\] table, which is stored in the Auto Flushes \[sys\_auto\_flush\] table, excludes certification policy execution records from recurring cleanups.
 -   The Archive CMDB Data Management Tasks archive rule, that applies to all CMDB Data Manager policy execution records, excludes certification policy records. At each archive run, this archive rule is configured to also automatically archive its related records in the CMDB Data Management Certification Task To Document \[sn\_cmdb\_ws\_dm\_certification\_task\_to\_document\] table \(Archive Related Records\).
 -   The archive rule, Archive Certification Instances, archives certification policy execution records from the CMDB Data Management Policy Execution \[cmdb\_data\_management\_policy\_execution\] table. This archive rule is configured to archive certification policy execution records 2 years after creation, and to destroy those records 7 years after they are archived.
 -   The archive rule, Archive Certification tasks, archives the certification task records from the CMDB Data Management Task \[cmdb\_data\_management\_task\] table. This archive rule also contains an Archive Related Records entry that archives the related records in the CMDB Data Management Certification Task To Document \[sn\_cmdb\_ws\_dm\_certification\_task\_to\_document\] table.
 
-## Related
-
-- [[c_DataCertification|Data Certification]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[data-cert-dashboard-workspace|Data Certification Dashboard]]
-- [[cmdb-data-management-landing|CMDB data management]]

@@ -20,13 +20,13 @@ Role required: sn\_ins\_policy\_b2b.bop\_processor
 
 ## About this task
 
-The [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]] modules enable processors to work on cases and tasks for commercial policy accounts. When a customer requests an insurance policy service, a policy service case is created and assigned to an insurance policy processor. After the processor updates the case details, the configured workflow is triggered. The flow triggers various tasks from the case and the assignment rules route these tasks to the appropriate back-office teams such as insurance policy, underwriting, or document service. A new task is created when an agent closes the previous task. All tasks that are associated with the case appear in respective tasks tabs.
+The Commercial Lines Servicing modules enable processors to work on cases and tasks for commercial policy accounts. When a customer requests an insurance policy service, a policy service case is created and assigned to an insurance policy processor. After the processor updates the case details, the configured workflow is triggered. The flow triggers various tasks from the case and the assignment rules route these tasks to the appropriate back-office teams such as insurance policy, underwriting, or document service. A new task is created when an agent closes the previous task. All tasks that are associated with the case appear in respective tasks tabs.
 
 Use the case playbook that provides the activities and tasks required to research and fulfill the request.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -61,23 +61,14 @@ The case workflow triggers next tasks for underwriter and document agent and the
 
 Work on the tasks associated with the case to resolve it.
 
--   [[work-insurance-underwriting-task|Work on an insurance underwriting task]].
--   [[work-document-task-ins-policy-ops|Work on a document task to verify documents for a policy service case]].
+-   [Work on an insurance underwriting task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-insurance-underwriting-task.md).
+-   [Work on a document task to verify documents for a policy service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-document-task-ins-policy-ops.md).
 -   Work on a policy service task.
 
--   **[[work-commercial-insurance-underwriting-task|Work on an insurance underwriting task]]**  
+-   **[Work on an insurance underwriting task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-commercial-insurance-underwriting-task.md)**  
 Work on a commercial insurance underwriting task to evaluate the policy request and analyze risks for an insurance policy customer.
--   **[[work-document-task-commercial-policy|Work on a document task to verify documents for a policy service case]]**  
+-   **[Work on a document task to verify documents for a policy service case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/work-document-task-commercial-policy.md)**  
 Work on a document task to manage and track documents \(inbound and outbound\) that are needed for a policy service case.
 
-**Parent Topic:**[[using-financial-services-commercial-lines-servicing|Using Commercial Lines Servicing]]
+**Parent Topic:**[Using Commercial Lines Servicing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-financial-services-commercial-lines-servicing.md)
 
-## Related
-
-- [[work-insurance-underwriting-task|Work on an insurance underwriting task]]
-- [[work-document-task-ins-policy-ops|Work on a document task to verify documents for a policy service case]]
-- [[work-commercial-insurance-underwriting-task|Work on an insurance underwriting task]]
-- [[work-document-task-commercial-policy|Work on a document task to verify documents for a policy service case]]
-- [[using-financial-services-commercial-lines-servicing|Using Commercial Lines Servicing]]
-- [[fso-ins-commercial-policy-ops-landing-page|Commercial Lines Servicing]]
-- [[fso-overview|Financial Services]]

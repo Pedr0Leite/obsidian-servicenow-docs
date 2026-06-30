@@ -23,15 +23,15 @@ Role required: sn\_shop.procurement\_specialist
 
 ## About this task
 
-The sourcing event that you plan to work on, and all its associated [[negotiations|negotiations]], sourcing requests, and [[purchase-lines|purchase lines]] must be in the Requires Decision state. When negotiations are complete for a sourcing event, you can award one or more suppliers. Awarding suppliers creates purchase requisitions for the selected suppliers and items.
+The sourcing event that you plan to work on, and all its associated negotiations, sourcing requests, and purchase lines must be in the Requires Decision state. When negotiations are complete for a sourcing event, you can award one or more suppliers. Awarding suppliers creates purchase requisitions for the selected suppliers and items.
 
 ## Procedure
 
-1.  Navigate to **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **Source-to-Pay Workspace**.
 
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\) and do one of the following:
 
-    -   Navigate to **Lists** &gt; **My work** &gt; **[[negotiation-events|Sourcing events]]**.
+    -   Navigate to **Lists** &gt; **My work** &gt; **Sourcing events**.
     -   Navigate to **Lists** &gt; **All work** &gt; **Sourcing events**.
 3.  Open the sourcing event that is in the Requires Decision state.
 
@@ -43,7 +43,7 @@ The sourcing event that you plan to work on, and all its associated [[negotiatio
 
     \[Omitted image "pipeline-award-suppliers.png"\] Alt text: Review selection option.
 
-5.  Select the [[supplier|supplier]] for each product you want to purchase.
+5.  Select the supplier for each product you want to purchase.
 
 6.  Select **Review selection**.
 
@@ -72,10 +72,3 @@ The sourcing event is moved to Closed Complete, with the individual negotiations
 
 **Parent Topic:**[Using Sourcing Pipeline Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-pipeline-sourcing-mgmt.md)
 
-## Related
-
-- [[negotiations|Negotiations]]
-- [[purchase-lines|Purchase lines]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[negotiation-events|Sourcing events]]
-- [[supplier|Supplier]]

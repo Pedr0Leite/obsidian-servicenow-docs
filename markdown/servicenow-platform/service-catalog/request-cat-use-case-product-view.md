@@ -14,7 +14,7 @@ breadcrumb: [Configuring Service Catalog, Service Catalog, Manage service capabi
 
 # Service Catalog and CSDM
 
-The [[service-catalog|Service Catalog]] lets you create other catalogs \(such as the Request Catalog and the Product Catalog\) that provide [[self-service-landing|self-service]] opportunities in the channel you want to use, such as the self-service portal, the mobile app, or the Virtual Agent.
+The Service Catalog lets you create other catalogs \(such as the Request Catalog and the Product Catalog\) that provide self-service opportunities in the channel you want to use, such as the self-service portal, the mobile app, or the Virtual Agent.
 
 The goal of this product view is to help you to understand how Service Catalog key entities work with the core CSDM framework.
 
@@ -32,7 +32,3 @@ Consider these points while implementing the CSDM framework.
 
 [Applying CSDM guidelines to your product — product views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/use-cases.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]

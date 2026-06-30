@@ -20,8 +20,8 @@ Role required: none.
 
 Ensure that you have performed the following:
 
--   Enable the Rollup MITRE ATT&amp;ACK information automatically from alert rules to security incidents property in the Properties module. By default, this option is disabled. For more information, see [[configure-mitre-att-ck-properties|Review the MITRE-ATT&amp;CK system properties]].
--   Perform [[mapping-logrhythm|mapping]] of detection rules to MITRE-ATT&amp;CK TTPs in Detection Rules - MITRE ATT&amp;CK TTP Mapping module. The detection rule name must match the alert rule name that triggers the security incident. For more information, see [[create-detection-rules|Create and map detection rules]].
+-   Enable the Rollup MITRE ATT&amp;ACK information automatically from alert rules to security incidents property in the Properties module. By default, this option is disabled. For more information, see [Review the MITRE-ATT&amp;CK system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configure-mitre-att-ck-properties.md).
+-   Perform mapping of detection rules to MITRE-ATT&amp;CK TTPs in Detection Rules - MITRE ATT&amp;CK TTP Mapping module. The detection rule name must match the alert rule name that triggers the security incident. For more information, see [Create and map detection rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/create-detection-rules.md).
 
 ## About this task
 
@@ -52,7 +52,7 @@ If you do not intend to use the base system SIEM auto-extraction rules, then ena
     The origin of techniques should be Detection Rule.
 
 
-**Parent Topic:**[[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
+**Parent Topic:**[Using MITRE-ATT&amp;CK to detect and analyze threats](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/mitre-att-ck-features.md)
 
 **Related topics**  
 
@@ -63,7 +63,7 @@ If you do not intend to use the base system SIEM auto-extraction rules, then ena
 
 [Associate MITRE-ATT&amp;CK information with security case]()
 
-[Rollup MITRE-ATT&amp;CK information using [[tisc-threat-lookup|Threat Lookup]] results]()
+[Rollup MITRE-ATT&amp;CK information using Threat Lookup results]()
 
 [Rollup MITRE-ATT&amp;CK information from child security incidents]()
 
@@ -73,10 +73,3 @@ If you do not intend to use the base system SIEM auto-extraction rules, then ena
 
 [Using the MITRE-ATT&amp;CK dashboard]()
 
-## Related
-
-- [[configure-mitre-att-ck-properties|Review the MITRE-ATT&amp;CK system properties]]
-- [[create-detection-rules|Create and map detection rules]]
-- [[mitre-att-ck-features|Using MITRE-ATT&amp;CK to detect and analyze threats]]
-- [[mapping-logrhythm|Mapping]]
-- [[tisc-threat-lookup|Threat Lookup]]

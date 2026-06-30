@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -35,7 +35,7 @@ Role required:
 
 5.  Navigate to the **Contract Requests** tab and open the request.
 
-6.  Navigate to the **[[activity-lxp|Activity]]** stream to learn the validation error.
+6.  Navigate to the **Activity** stream to learn the validation error.
 
 7.  Select the **Signatories** tab.
 
@@ -60,7 +60,3 @@ Role required:
 
 **Parent Topic:**[Updating and synchronizing signatories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-sync-signatories.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

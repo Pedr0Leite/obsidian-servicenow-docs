@@ -20,22 +20,22 @@ Several types of components are installed with activation of the ITOM/OT SU Lice
 |-------------|-----------|
 |ITOM Exclusion Tables Update Store|Updates the exclusion list.|
 |ITOM Licensing Aggregator Store|Calculates the average of daily CI counts for the last 90 days.|
-|ITOM Licensing Cloud Accelerate CI Listing Store|Creates the list of licensable CIs for [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]].|
+|ITOM Licensing Cloud Accelerate CI Listing Store|Creates the list of licensable CIs for ITOM Cloud Accelerate.|
 |ITOM Cloud Accelerate Licensing Usage Count Store|Calculates the daily CI counts for ITOM Cloud Accelerate.|
-|Event Management - Node Count Store|Calculates the node count used in [[c_EM|Event Management]].|
+|Event Management - Node Count Store|Calculates the node count used in Event Management.|
 |ITOMHealthCIReporterWithOTOMCountITOMStore|Compiles the list of licensable CIs for ITOM.|
 |ITOMHealthCIReporterWithOTOMCountOTOMStore|Compiles the list of licensable CIs for Operational Technology Management \(OTM\).|
-|ITOM Health Licensing Usage Count Store|Calculates the daily CI count for [[itom-health-landing-page|ITOM AIOps]].|
-|ITOM Optimization Licensing Usage Count Store|Calculates the daily CI count for [[itom-optimization-landing-page|ITOM Optimization]].|
+|ITOM Health Licensing Usage Count Store|Calculates the daily CI count for ITOM AIOps.|
+|ITOM Optimization Licensing Usage Count Store|Calculates the daily CI count for ITOM Optimization.|
 |ITOM Licensing Optimization CI Listing Store|Compiles the list of licensable CIs for ITOM Optimization.|
-|OTOM Licensing Visibility CI Listing Store|Compiles the list of licensable CIs for [[itom-visibility-landing-page|ITOM Visibility]] \(OTM\).|
-|ITOM Licensing [[r-discovery|Discovery]] CI Listing Store|Compiles the list of licensable CIs for Discovery.|
+|OTOM Licensing Visibility CI Listing Store|Compiles the list of licensable CIs for ITOM Visibility \(OTM\).|
+|ITOM Licensing Discovery CI Listing Store|Compiles the list of licensable CIs for Discovery.|
 |ITOM Licensing Visibility CI Listing Store|Compiles the list of licensable CIs for ITOM Visibility.|
 |ITOM Visibility Licensing Usage Count Store|Calculates the daily CI count for ITOM Visibility.|
 |OTOM Licensing Discovery CI Listing Store|Compiles the list of licensable CIs for Discovery \(OTM\).|
 |ITOM DEX Licensing Usage Count Store|Calculates the daily CI counts for ITOM DEX.|
 |ITOM Licensing DEX CI Listing Store|Creates the list of licensable CIs for ITOM DEX.|
-|ITOM Licensing [[service-observability|Service Observability]] CI Listing Store|Creates the list of licensable CIs for ITOMService Observability.|
+|ITOM Licensing Service Observability CI Listing Store|Creates the list of licensable CIs for ITOMService Observability.|
 |ITOMService Observability Licensing Usage Count Store|Calculates the CI counts for ITOMService Observability.|
 |ITOM Licensing Historical Table Update Store|Creates a table to store all the licensable CIs daily|
 
@@ -132,15 +132,5 @@ Historical Licensable CIs\[sn\_itom\_licensing\_itom\_lu\_historical\_cis\]
 Contains the list of Historical Licensable CIs.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
+</table>**Parent Topic:**[ITOM/OT SU Licensing Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-su-licensing-reference.md)
 
-## Related
-
-- [[itom-su-licensing-reference|ITOM/OT SU Licensing Reference]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[itom-optimization-landing-page|ITOM Optimization]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[service-observability|Service Observability]]

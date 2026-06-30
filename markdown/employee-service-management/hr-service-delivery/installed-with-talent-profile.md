@@ -14,7 +14,7 @@ breadcrumb: [Reference, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Components installed with Talent Profile
 
-Several types of components are installed with activation of the [[talent-profile-landing|Talent Profile]] plugin, including tables, user roles, and scheduled jobs.
+Several types of components are installed with activation of the Talent Profile plugin, including tables, user roles, and scheduled jobs.
 
 ## Roles installed
 
@@ -81,7 +81,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[generate-tp|Generate Talent Profiles]]
+Generate Talent Profiles
 
 </td><td>
 
@@ -110,7 +110,7 @@ Details of the job leads in the system.
 
 </td></tr><tr><td>
 
-[[talent-pool-overview|Talent pool]]\[sn\_ta\_tp\_talent\_pool\]
+Talent pool\[sn\_ta\_tp\_talent\_pool\]
 
 </td><td>
 
@@ -142,9 +142,3 @@ Details of the talent profile definition created for your organization.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[talent-profile-landing|Talent Profile]]
-- [[generate-tp|Generate talent profiles]]
-- [[talent-pool-overview|Talent pool]]

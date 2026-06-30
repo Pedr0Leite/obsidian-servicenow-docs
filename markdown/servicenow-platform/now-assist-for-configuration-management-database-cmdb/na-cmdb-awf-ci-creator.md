@@ -26,7 +26,7 @@ Role required:
 
 ## About this task
 
-Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks [[ire|Identification and Reconciliation engine \(IRE\)]] rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI.
+Occasionally, you might create a CI manually. To help you, the Create configuration item agentic workflow accepts your natural language request and verifies that it understands which class the new CI should belong to. The workflow then checks Identification and Reconciliation engine \(IRE\) rules to determine the required attributes for the CI and requests that information. After you provide sufficient data, the workflow ensures that the proposed CI includes the attributes that you requested, complies with IRE rules, and is not a duplicate. The workflow then creates the CI.
 
 The Create configuration item agentic workflow is particularly useful for adding CIs to tables accessed by Operational Technology because users might add physical CIs while unaware of the importance of managing CI data in the CMDB.
 
@@ -38,7 +38,7 @@ To learn more about using the Now Assist panel, see [Working in the Now Assist p
 
 1.  Use either of the following methods to start the process.
 
-    -   While working in the [[sg-workspace|Service Graph Workspace]] orCMDB Workspace, select **Create CI** in the Quick Links section.
+    -   While working in the Service Graph Workspace orCMDB Workspace, select **Create CI** in the Quick Links section.
     -   While working in the Service Graph Workspace orCMDB Workspace, select the Now Assist icon \[Omitted image "icon-now-assist-sparkle.png"\] and then enter `create a ci`.
 2.  Enter the class of CI to create and then continue by answering the Now Assist questions.
 
@@ -66,7 +66,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d521455e237">
 
@@ -80,8 +80,3 @@ If you think that data might have changed after you viewed the response, select 
 </table>
 **Parent Topic:**[Using agentic workflows in Now Assist for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-using.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[email|Email]]

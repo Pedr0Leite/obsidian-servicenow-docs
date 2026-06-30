@@ -12,7 +12,7 @@ breadcrumb: [Platform Analytics Migration Center, Platform Analytics experience,
 
 # Hide the Platform Analytics library banner
 
-On instances that will not be migrated to [[par-workspace|Platform Analytics experience]], set a system property to hide the banner that links to the Platform Analytics experience library.
+On instances that will not be migrated to Platform Analytics experience, set a system property to hide the banner that links to the Platform Analytics experience library.
 
 ## Before you begin
 
@@ -33,6 +33,3 @@ Role required: admin
 
 Users will not see the banner that directs them to the Platform Analytics experience library.
 
-## Related
-
-- [[par-workspace|Platform Analytics experience]]

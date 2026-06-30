@@ -14,7 +14,7 @@ breadcrumb: [Advanced work assignment for Legal Service Delivery, Integration wi
 
 # Explore Advanced Work Assignment for Legal Service Delivery
 
-Use the ServiceNow [[lsd-awa-landing|Advanced Work Assignment for Legal Service Delivery]] feature to automatically assign legal to agents based on availability, capacity, and optionally skills.
+Use the ServiceNow Advanced Work Assignment for Legal Service Delivery feature to automatically assign legal to agents based on availability, capacity, and optionally skills.
 
 ## Advanced Work Assignment for Legal Service Delivery overview
 
@@ -53,6 +53,3 @@ To learn more about configuring and using Advanced Work Assignment for Legal Ser
 
 **Parent Topic:**[Advanced work assignment for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/lsd-awa-landing.md)
 
-## Related
-
-- [[lsd-awa-landing|Advanced work assignment for Legal Service Delivery]]

@@ -83,7 +83,7 @@ Array – List of fields that you want to show on the Experts On-call recommende
 
 </td><td>
 
--   recordGr – GlideRecord [[reference-for-itsm-mobile-agent|reference]]
+-   recordGr – GlideRecord reference
 -   fieldWatchList – Object containing all the fields and their respective values.
  For example: **\{ "assignment\_group": &lt;assignment\_group\_sys\_id&gt; \}**
 
@@ -109,6 +109,3 @@ Boolean – return true to enable the Expert On-call for this table.
 
 **Parent Topic:**[Configuring record pages in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configuring-record-pages-sow-itsm.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

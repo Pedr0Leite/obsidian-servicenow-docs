@@ -24,11 +24,11 @@ Examples of uses are for Business Rules and Script Includes. This procedure uses
 
 ## Procedure
 
-1.  [[create-cryptographic-module|Create a cryptographic module]] with the symmetric data encryption/decryption algorithm.
+1.  Create a cryptographic module with the symmetric data encryption/decryption algorithm.
 
     Refer to [Create a cryptographic module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-cryptographic-module.md) for details. Specific access to the data or attachment is controlled with a module access policy with the following characteristics:
 
-    -   Symmetric [[encryption-landing|encryption]]: The script is able to encrypt data but unable to decrypt the data.
+    -   Symmetric encryption: The script is able to encrypt data but unable to decrypt the data.
     -   Symmetric decryption: The script is able to decrypt uploaded encrypted data or attachment but unable to encrypt data or attachments.
     -   Symmetric encryption and decryption: The script is able to both encrypt and decrypt data or attachments.
 2.  Navigate to **System Definition** &gt; **Business Rules**.
@@ -121,7 +121,7 @@ gs.info(decrypted == value);
 
 5.  Select **Submit**.
 
-6.  Navigate to **All** &gt; **System Security** &gt; **[[field-encryption|Field Encryption]]** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access [[ca-policies|Policies]]** &gt; **** **All**.
+6.  Navigate to **All** &gt; **System Security** &gt; **Field Encryption** &gt; **Field Encryption Experience** &gt; **Configurations** &gt; **Access Policies** &gt; **** **All**.
 
     **Note:** For additional information, refer to [Create a module access policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/create-module-access-policy.md).
 
@@ -147,7 +147,7 @@ gs.info(decrypted == value);
     |Active|Select to activate the policy.|
     |Target Script|Select the script document for the policy. Select the **Table name** and then the related document for the policy. For this example, select the Business Rule that you created in previous steps.|
     |Check script version|Select this option to direct the system to perform a version comparison anytime the script is run. If the script has been changed, the user is notified.|
-    |Specify purpose|Optional. Enable  to  display  the  Crypto  Spec field  on  the  form.  Enable this option to configure granular operations, such as some [[users|users]] being able to encrypt, but not decrypt.|
+    |Specify purpose|Optional. Enable  to  display  the  Crypto  Spec field  on  the  form.  Enable this option to configure granular operations, such as some users being able to encrypt, but not decrypt.|
     |Application|The  Application scope  is  auto-populated  by  your  current scope. |
 
 11. Select **Save**.
@@ -155,17 +155,8 @@ gs.info(decrypted == value);
     The Module Access Policy for the script is now available in the system.
 
 
--   **[[view-declined-crypto-module-usage-requests|View declined cryptographic module usage requests]]**  
+-   **[View declined cryptographic module usage requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/view-declined-crypto-module-usage-requests.md)**  
 View cryptographic modules that rejected encryption requests made by scripts because of unsupported encryption mechanisms.
 
-**Parent Topic:**[[script-map|Script access for cryptographic modules]]
+**Parent Topic:**[Script access for cryptographic modules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/script-map.md)
 
-## Related
-
-- [[view-declined-crypto-module-usage-requests|View declined cryptographic module usage requests]]
-- [[script-map|Script access for cryptographic modules]]
-- [[create-cryptographic-module|Create a cryptographic module]]
-- [[encryption-landing|Encryption]]
-- [[field-encryption|Field Encryption]]
-- [[ca-policies|Policies]]
-- [[users|Users]]

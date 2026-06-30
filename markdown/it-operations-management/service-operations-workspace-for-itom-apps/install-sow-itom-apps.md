@@ -14,13 +14,13 @@ breadcrumb: [Configuring SOW for ITOM, Service Operations Workspace for ITOM, IT
 
 # Install Service Operations Workspace for ITOM application
 
-You can install the AIOps Experience \[sn\_sow\_aiops\] application to get [[sow-landing-page-itom|Service Operations Workspace for ITOM]] if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications if they are not already installed.
+You can install the AIOps Experience \[sn\_sow\_aiops\] application to get Service Operations Workspace for ITOM if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications if they are not already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [AIOps Experience](https://store.servicenow.com/sn_appstore_store.do#!/store/application/38f8f09e68752110f87762d826aeb7f4/24.2.3?referer=%2Fstore%2Fsearch%3Flistingtype%3Dallintegrations%25253Bancillary_app%25253Bcertified_apps%25253Bcontent%25253Bindustry_solution%25253Boem%25253Butility%25253Btemplate%25253Bgenerative_ai%25253Bsnow_solution%26q%3DAIOps%2520Experience&sl=sh) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
--   [[workspace-dashboard-use|Service Operations Workspace]] supports domain separation. For details, see [Domain separation and Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/domain-separation-event-management.md).
+-   Service Operations Workspace supports domain separation. For details, see [Domain separation and Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/domain-separation-event-management.md).
 
 Role required: admin
 
@@ -58,7 +58,3 @@ For more information, see [Components installed with AIOps Experience](https://r
 
 **Parent Topic:**[Configuring Service Operations Workspace for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/configure-sow-itom.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

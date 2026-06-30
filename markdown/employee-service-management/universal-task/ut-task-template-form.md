@@ -14,7 +14,7 @@ breadcrumb: [Universal Task reference, Universal Task, Employee Service Manageme
 
 # Universal Task template form
 
-Use the Universal Task template form to [[create-unitask|create a Universal Task]] template.
+Use the Universal Task template form to create a Universal Task template.
 
 <table id="table_hhn_1my_s4b"><thead><tr><th>
 
@@ -75,6 +75,3 @@ Option for making the template available for use. A template must be active to b
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Task reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
 
-## Related
-
-- [[create-unitask|Create a universal task]]

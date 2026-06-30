@@ -22,7 +22,7 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sir-workspace-landing-page|Security Incident Response Workspace]]** &gt; **Security Incidents** &gt; **All**.
+1.  Navigate to **Workspaces** &gt; **Security Incident Response Workspace** &gt; **Security Incidents** &gt; **All**.
 
 2.  Locate and open any specific security incident that you are investigating.
 
@@ -30,7 +30,7 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
 3.  Click on the **Related Records** tab on the workspace.
 
-    You can perform the action of adding [[c_Observables|observables]] to TISC case\(s\) using various tabs from the Security Incident Response Workspace.
+    You can perform the action of adding observables to TISC case\(s\) using various tabs from the Security Incident Response Workspace.
 
     **Note:** You can navigate to the
 
@@ -46,7 +46,7 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
 7.  Select **Add to TISC Case**.
 
-8.  Select the case\(s\) from the **[[add-to-case|Add to Case]]** dialog box.
+8.  Select the case\(s\) from the **Add to Case** dialog box.
 
     \[Omitted image "tisc-add2-case-modal.png"\] Alt text: Add to TISC Case.
 
@@ -56,12 +56,12 @@ Role required: sn\_si.analyst, sn\_sec\_tisc.case\_write
 
 10. Click the Case record to view the case in TISC from the information message displayed or from the **Activity** stream.
 
-    **Note:** If the observable does not have a corresponding TISC Observable, then the selected observable in SIR workspace will be sent to TISC automatically and will subsequently gets added to the selected TISC case record\(s\). To view the linked observables, click on the particular case record from the **Activity** stream. By clicking on this will take you to the case record in [[view-threat-intelligence-security-center-homepage|TISC workspace]] and the observables will get added under **Artifacts** tab of the Case Management module.
+    **Note:** If the observable does not have a corresponding TISC Observable, then the selected observable in SIR workspace will be sent to TISC automatically and will subsequently gets added to the selected TISC case record\(s\). To view the linked observables, click on the particular case record from the **Activity** stream. By clicking on this will take you to the case record in TISC workspace and the observables will get added under **Artifacts** tab of the Case Management module.
 
 
 ## Result
 
-You have successfully send the observables data to [[tisc-landing-page|Threat Intelligence Security Center]] case management.
+You have successfully send the observables data to Threat Intelligence Security Center case management.
 
 **Parent Topic:**[Send data from SIR Workspace to TISC](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/send-sir-to-tisc.md)
 
@@ -74,18 +74,9 @@ You have successfully send the observables data to [[tisc-landing-page|Threat In
 
 [Send Observables to TISC]()
 
-[Send [[tisc-threat-lookup|Threat Lookup]] to TISC]()
+[Send Threat Lookup to TISC]()
 
 [Send Sighting Search to TISC]()
 
-[Send [[tisc-observable-enrichment|Observable Enrichment]] to TISC]()
+[Send Observable Enrichment to TISC]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[add-to-case|Add to Case]]
-- [[view-threat-intelligence-security-center-homepage|TISC Workspace]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

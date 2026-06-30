@@ -18,7 +18,7 @@ Create a part requirement for a work order task.
 
 ## Before you begin
 
-Role required: wm\_admin, wm\_agent, wm\_dispatcher, wm\_qualifier, or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_admin, wm\_agent, wm\_dispatcher, wm\_qualifier, or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
@@ -44,7 +44,7 @@ You can create a part requirement to request a part with or without the context 
 
 </td><td>
 
-All tasks and [[c_PartRequirements|part requirements]] are listed on the left. Point to any task or part requirement icon to obtain more information. Right-click a work order task and select **Create Part Requirement**. This method is useful if you are sourcing multiple parts for a work order task.
+All tasks and part requirements are listed on the left. Point to any task or part requirement icon to obtain more information. Right-click a work order task and select **Create Part Requirement**. This method is useful if you are sourcing multiple parts for a work order task.
 
 </td></tr><tr><td id="d48868e203">
 
@@ -77,7 +77,4 @@ This method is useful if you are sourcing a single part for a work order task.
 
     **Note:** Part requirement record numbers start with an **SOPR** prefix and the records are stored in the \[sm\_part\_requirement\] table in the Service Order Management application. Part requirements created in prior releases start with an **WOPR** prefix.
 
-## Related
 
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[c_PartRequirements|Part requirements]]

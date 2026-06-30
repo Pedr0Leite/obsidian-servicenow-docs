@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Viewing connections for a Service Graph Connector in SGC Central
 
-You can view installed and draft connections that were added using [[cmdb-sgc-available|Service Graph Connectors]] within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace.
+You can view installed and draft connections that were added using Service Graph Connectors within the SGC Central view of the Service Graph Workspace or CMDB Workspace.
 
 The following connection types are available for viewing:
 
@@ -70,8 +70,4 @@ Role required: SGC-admin or admin
     -   Select **Resume setup** to set up a single instance connector for the first time.
     **Note:** When you select a connection, the application scope changes to the selected connector type.
 
-## Related
 
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

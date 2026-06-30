@@ -15,11 +15,11 @@ breadcrumb: [Search sources for Employee Slate, Working with Employee Slate capa
 
 # Add external search sources
 
-Add external search sources to include non-ServiceNow content in [[employee-slate-landing-page|Employee Slate]] conversational search.
+Add external search sources to include non-ServiceNow content in Employee Slate conversational search.
 
 ## Before you begin
 
-The [[employee-slate-nowassist|Employee Slate for Now Assist]] product is installed and configured through the Product Configuration console.
+The Employee Slate for Now Assist product is installed and configured through the Product Configuration console.
 
 You have network and credential details for the external source.
 
@@ -68,7 +68,3 @@ No external source is linked out of the box for Employee Slate for Now Assist. A
 
 The external search source links to the Employee Slate for Now Assist search profile. The conversational assistant returns results from the external source after the initial crawl completes.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[employee-slate-nowassist|Employee Slate for Now Assist]]

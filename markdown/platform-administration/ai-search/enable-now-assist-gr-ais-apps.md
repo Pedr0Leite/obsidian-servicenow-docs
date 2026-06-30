@@ -15,19 +15,19 @@ breadcrumb: [Configuring Now Assist in AI Search, Now Assist in AI Search, Servi
 
 # Enable Now Assist Genius Results in AI Search portals and mobile applications
 
-Specify the Now Assist Genius Result types you want to make available in each of your [[ia-ai-search|AI Search]] portals and mobile applications.
+Specify the Now Assist Genius Result types you want to make available in each of your AI Search portals and mobile applications.
 
 ## Before you begin
 
-The [[now-assist-ais|Now Assist in AI Search]] ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
+The Now Assist in AI Search ServiceNow® Store application must be installed on your instance. For details on installing this application, see [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/install-now-assist-ais.md).
 
 Role required: ais\_admin
 
 ## About this task
 
-Now Assist in AI Search provides multiple AI-powered Genius Result [[clone-configurations-tab|configurations]]. As a search administrator, you can enable individual Now Assist Genius Result configurations in AI Search portal and mobile applications.
+Now Assist in AI Search provides multiple AI-powered Genius Result configurations. As a search administrator, you can enable individual Now Assist Genius Result configurations in AI Search portal and mobile applications.
 
-To learn more about how [[genius-results-ais|Genius Results]] work, see [Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md). For details on the Now Assist Genius Result configurations, see [Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md) and [Now Assist Actions Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md).
+To learn more about how Genius Results work, see [Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-results-ais.md). For details on the Now Assist Genius Result configurations, see [Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-qna-genius-results.md) and [Now Assist Actions Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/now-assist-catalog-ordering-gr.md).
 
 ## Procedure
 
@@ -41,7 +41,7 @@ To learn more about how [[genius-results-ais|Genius Results]] work, see [Genius 
 
 3.  In each search profile row, select the options for the individual Now Assist Genius Results you want to enable for the associated AI Search portal or mobile application.
 
-    As an example, to enable [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]] in Service Portal, select the **Now Assist Q&amp;A** option in the **Service Portal Default Search Profile** row.
+    As an example, to enable Now Assist Q&amp;A Genius Results in Service Portal, select the **Now Assist Q&amp;A** option in the **Service Portal Default Search Profile** row.
 
     **Note:** You can disable a Now Assist Genius Result for an AI Search portal or mobile application by clearing its option.
 
@@ -54,10 +54,3 @@ AI Search enables your selected Now Assist Genius Result configurations for all 
 
 **Parent Topic:**[Configuring Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/configuring-now-assist-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[now-assist-ais|Now Assist in AI Search]]
-- [[clone-configurations-tab|Configurations]]
-- [[genius-results-ais|Genius Results]]
-- [[now-assist-qna-genius-results|Now Assist Q&amp;A Genius Results]]

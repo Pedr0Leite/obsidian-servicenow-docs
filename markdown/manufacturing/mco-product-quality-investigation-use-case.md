@@ -12,11 +12,11 @@ breadcrumb: [Quality issue management, Explore, Manufacturing Commercial Operati
 
 # Product quality investigation use case
 
-Use case scenarios demonstrate when and how to use the [[mco-product-non-conformances|Product non-conformance]] application to [[mco-create-product-quality-investigation|create a product quality investigation]] report. It provides practical examples of common [[mco-PQI-use|product quality investigation]] situations.
+Use case scenarios demonstrate when and how to use the Product non-conformance application to create a product quality investigation report. It provides practical examples of common product quality investigation situations.
 
 ## Use Case 2: Airbag Sensor Defect-Quality Investigation
 
-This use case is a follow-up use case from Product non-conformance, see [[mco-product-non-conformance-use-case|Product non-conformance use case]].
+This use case is a follow-up use case from Product non-conformance, see [Product non-conformance use case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-product-non-conformance-use-case.md).
 
 Solution
 
@@ -70,9 +70,3 @@ Outcome
 
 The quality investigation team identifies the root cause of the airbag sensor defects through 8D analysis — including 5 Why and Fishbone techniques — and cross-functional collaboration. Emily coordinates stakeholders across Engineering, Supplier Quality, and Manufacturing to develop corrective and preventive action plans, and raises a financial request for remediation costs. Smith reviews and approves or rejects line-level charges, maintaining cost governance. The investigation establishes preventive measures to avoid recurrence and provides full traceability from root cause through remediation.
 
-## Related
-
-- [[mco-product-non-conformance-use-case|Product non-conformance use case]]
-- [[mco-product-non-conformances|Product non-conformance]]
-- [[mco-create-product-quality-investigation|Create a product quality investigation]]
-- [[mco-PQI-use|Product quality investigation]]

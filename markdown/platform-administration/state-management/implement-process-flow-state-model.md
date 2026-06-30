@@ -30,23 +30,18 @@ State models provide a way to limit the choices for moving between states in a f
 
 1.  Verify the choices for the **State** field for the table and ensure that you created transitions for them.
 
-    For more information about how to add **State** field choices, see [[c_BPForStateFieldChoiceValues|Best practices for state field choice values]].
+    For more information about how to add **State** field choices, see [Best practices for state field choice values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_BPForStateFieldChoiceValues.md).
 
 2.  After creating the state model, define the process flow.
 
-    For more information about process flows, see [[r_ProcessFlowFormatter|Process flow formatter]].
+    For more information about process flows, see [Process flow formatter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_ProcessFlowFormatter.md).
 
 3.  Define UI actions as desired to move between states.
 
-    For more information about UI actions, see [[c_UIActions|UI actions]].
+    For more information about UI actions, see [UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md).
 
 
 ## Result
 
 After the state model is enabled, only the defined state transitions are included in the choice list for the **State** field, and the process flow and UI actions are implemented.
 
-## Related
-
-- [[c_BPForStateFieldChoiceValues|Configure state field choice values]]
-- [[r_ProcessFlowFormatter|Process flow formatter]]
-- [[c_UIActions|Defining UI actions]]

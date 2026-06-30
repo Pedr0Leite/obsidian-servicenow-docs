@@ -14,7 +14,7 @@ breadcrumb: [Reference, Collaborative Work Management, Strategic Portfolio Manag
 
 # Components installed with Collaborative Work Management
 
-Several types of components are installed with activation of the [[cwm-landing|Collaborative Work Management]] application, including tables and user roles.
+Several types of components are installed with activation of the Collaborative Work Management application, including tables and user roles.
 
 ## Roles installed
 
@@ -80,7 +80,7 @@ Team member read
 
 </td><td>
 
-Allows users to view [[t_CreateAProjectTask|project tasks]] and [[demand-task|demand tasks]], and add comments to them.
+Allows users to view project tasks and demand tasks, and add comments to them.
 
 </td><td>
 
@@ -419,8 +419,3 @@ Stores information of tasks shown in My Work such as dates, states, and assigned
 </td></tr></tbody>
 </table>**Parent Topic:**[Collaborative Work Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/reference-cwm.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[demand-task|Demand tasks]]

@@ -13,7 +13,7 @@ breadcrumb: [Reference, Dashboards, Platform Analytics experience, Platform Anal
 
 # Dashboard terms
 
-[[analytics-center-dashboards|Dashboards in Platform Analytics]] and the classic environment use terms that describe how data is organized, displayed, and shared.
+Dashboards in Platform Analytics and the classic environment use terms that describe how data is organized, displayed, and shared.
 
 ## bookmark
 
@@ -33,11 +33,11 @@ A canvas for organizing and sharing data visually. Dashboards contain data visua
 
 ## data visualization
 
-A graphic representation of table, indicator, or other instance data placed on a [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboard. Data visualizations replace reports and [[c_Widgets|Performance Analytics widgets]] from the Core UI. Types include bar charts, dial charts, gauge charts, geomaps, heatmaps, [[c_PivotTables|pivot tables]], single scores, and time series charts.
+A graphic representation of table, indicator, or other instance data placed on a Platform Analytics dashboard. Data visualizations replace reports and Performance Analytics widgets from the Core UI. Types include bar charts, dial charts, gauge charts, geomaps, heatmaps, pivot tables, single scores, and time series charts.
 
 ## element
 
-A visual object placed on a Platform Analytics dashboard. Elements include data visualizations, dividers, filters, filter groups, headings, images, lists, Now Assist Context Menus, [[process-mining|Process Mining]] maps, rich text, workbenches, and funnels.
+A visual object placed on a Platform Analytics dashboard. Elements include data visualizations, dividers, filters, filter groups, headings, images, lists, Now Assist Context Menus, Process Mining maps, rich text, workbenches, and funnels.
 
 ## filter
 
@@ -65,14 +65,5 @@ The area of a tabbed dashboard that is visible regardless of which tab is active
 
 ## widget
 
-An object added to a Core UI dashboard. Widget types include reports, Performance Analytics visualizations, [[c_HomepagePublishers|interactive filters]], and content blocks. [[widgets|Widgets]] are not available on Platform Analytics dashboards; on migrated dashboards, widgets are displayed in iframes.
+An object added to a Core UI dashboard. Widget types include reports, Performance Analytics visualizations, interactive filters, and content blocks. Widgets are not available on Platform Analytics dashboards; on migrated dashboards, widgets are displayed in iframes.
 
-## Related
-
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_PivotTables|Pivot tables]]
-- [[process-mining|Process Mining]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

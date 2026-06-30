@@ -14,7 +14,7 @@ breadcrumb: [Specialized VA integrations for Teams, Integrate VA with Teams, Con
 
 # Integrating Virtual Agent with Microsoft Teams for GCC-Hor DoD
 
-You can [[va-integ-msteams|integrate Virtual Agent with Microsoft Teams]] for GCC-H \(Government Community Cloud - High\) or DoD \(Department of Defense\)customers by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now [[virtual-agent-landing-page|Virtual Agent]] app that is published on the Microsoft Store. The self-configured bot bypasses the collaboration proxy architecture.
+You can integrate Virtual Agent with Microsoft Teams for GCC-H \(Government Community Cloud - High\) or DoD \(Department of Defense\)customers by configuring your own bots. The self-configured method provides another way for customers to enable the integration without installing the default Now Virtual Agent app that is published on the Microsoft Store. The self-configured bot bypasses the collaboration proxy architecture.
 
 If you are a commercial customer who has already installed a pre-published bot but would like to integrate with multiple ServiceNow instances within a single Microsoft Teams tenant, see [Integrate your self-configured bot with single Microsoft Teams tenant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install-custom-app.md).
 
@@ -25,7 +25,7 @@ If you are aMicrosoft GCC \(GovtCommunityCloud\) customer, do not follow this st
 Before integrating Virtual Agent with your Microsoft Teams tenant, ensure that the following prerequisites are met:
 
 -   Verify that your ServiceNow instances have been upgraded to the San Diego release.
--   Verify that you have not previously attempted installing the [[teams-conv-integration|Conversational Integration with Microsoft Teams]] app on your instances.
+-   Verify that you have not previously attempted installing the Conversational Integration with Microsoft Teams app on your instances.
 
     If you previously tried to install the integration in Quebec and the above releases, refer to this [Knowledge Base](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1116195) article to remove the residual installation items.
 
@@ -51,8 +51,3 @@ Learn about the limitations for Microsoft Teams Government Community Cloud - Hig
 
 **Parent Topic:**[Specialized Virtual Agent integrations for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/specialized-va-integs-msteams.md)
 
-## Related
-
-- [[va-integ-msteams|Integrate Virtual Agent with Microsoft Teams]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[teams-conv-integration|Conversational Integration with Microsoft Teams]]

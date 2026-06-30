@@ -14,9 +14,9 @@ breadcrumb: [Discover and import Azure DevOps projects, Setting up the integrati
 
 # Default map configuration for Azure DevOps integration with Agile Development 2.0
 
-Understand the default field map configuration, of different process types, between Azure DevOps and [[agile-landing-page|Agile Development 2.0]].
+Understand the default field map configuration, of different process types, between Azure DevOps and Agile Development 2.0.
 
-By looking at the default map configuration for different process types, you can see how work item types in Azure DevOps are mapped in [[agile-development|Agile Development]]. You can also see how fields are mapped between the two applications.
+By looking at the default map configuration for different process types, you can see how work item types in Azure DevOps are mapped in Agile Development. You can also see how fields are mapped between the two applications.
 
 When you import available epics, stories, and issues from Azure DevOps, this data is stored in tables as defined in the process map configuration.
 
@@ -65,7 +65,3 @@ The following are the details of the default map configuration for various proce
 
 **Parent Topic:**[Discover and import Azure DevOps projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/discover-import-azure-projects.md)
 
-## Related
-
-- [[agile-landing-page|Agile Development 2.0]]
-- [[agile-development|Agile Development]]

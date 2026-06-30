@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-services-portal-hr|Workplace Service Portal]]** &gt; **Workplace Service Portal Home**.
+1.  Navigate to **All** &gt; **Workplace Service Portal** &gt; **Workplace Service Portal Home**.
 
 2.  Open the knowledge base page.
 
@@ -42,6 +42,3 @@ Role required: sn\_wsd\_core.workplace\_user
 
 **Parent Topic:**[Workplace knowledge management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-knowledge-mgmt-wsd.md)
 
-## Related
-
-- [[workplace-services-portal-hr|Workplace Service Portal]]

@@ -14,7 +14,7 @@ breadcrumb: [Symantec Integration for Data Loss Prevention Incident Response, In
 
 # Severity mapping between Symantec DLP incidents with ServiceNow incidents
 
-Use the severity [[mapping-logrhythm|mapping]] feature to configure and synchronize the mapping between Symantec incidents and ServiceNow AI Platform® incidents.
+Use the severity mapping feature to configure and synchronize the mapping between Symantec incidents and ServiceNow AI Platform® incidents.
 
 ## Before you begin
 
@@ -47,6 +47,3 @@ DLP Severity mapping allows you to map the source severity with the DLP incident
 
 **Parent Topic:**[Symantec Integration for Data Loss Prevention Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/symantec-dlp-integration.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

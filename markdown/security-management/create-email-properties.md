@@ -18,11 +18,11 @@ You can specify email addresses for reports and control automatic email behavior
 
 Role required: sn\_sec\_cmn.admin
 
-Set up external detection [[tools|tools]] to send emails to your email parsing inbox.
+Set up external detection tools to send emails to your email parsing inbox.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Email Processing** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Email Processing** &gt; **Properties**.
 
 2.  Enter your recipient mailboxes as appropriate:
 
@@ -31,20 +31,12 @@ Set up external detection [[tools|tools]] to send emails to your email parsing i
     |Field|Description|
     |-----|-----------|
     |Inbox for Security Operations tools|Full email address for Security Operations. For example, secops\_support@yourcompany.com.|
-    |Inbox for Security Incident tools|Full email address for [[sir-landing-page|Security Incident Response]]. For example, sir\_support@your.company.com.|
-    |Inbox for [[vuln-landing-page|Vulnerability Response]] tools|Full email address for Vulnerability Response. For example, vuln\_resp@yourcompany.com.|
-    |Inbox for [[threat-intel-landing-page|Threat Intelligence]] tools|Full email address for Threat Intelligence. For example, threat\_intel@yourcompany.com.|
+    |Inbox for Security Incident tools|Full email address for Security Incident Response. For example, sir\_support@your.company.com.|
+    |Inbox for Vulnerability Response tools|Full email address for Vulnerability Response. For example, vuln\_resp@yourcompany.com.|
+    |Inbox for Threat Intelligence tools|Full email address for Threat Intelligence. For example, threat\_intel@yourcompany.com.|
 
 3.  Click **Save**.
 
 
-**Parent Topic:**[[email-properties|Security Operations email properties]]
+**Parent Topic:**[Security Operations email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-properties.md)
 
-## Related
-
-- [[email-properties|Security Operations email properties]]
-- [[tools|Tools]]
-- [[security-operations-landing-page|Security Operations]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[threat-intel-landing-page|Threat Intelligence]]

@@ -22,15 +22,15 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent, or sn\_ohs\_im.operations
 
 ## About this task
 
-Use the **Report an incident** playbook available with [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] to manage safety incidents and resolve them. You can access the **Report an incident** playbook tab when a safety incident is assigned to you.
+Use the **Report an incident** playbook available with Health and Safety Incident Management to manage safety incidents and resolve them. You can access the **Report an incident** playbook tab when a safety incident is assigned to you.
 
 For more information on how to interact with a playbook, see [Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/playbook-ui.md).
 
-**Note:** To work in a tab-based experience for safety incidents, your administrator can disable the playbook through [[health-safety-overview|Health and Safety]] properties. For more information, see [Disable the safety incident playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/disable-safety-incident-playbook.md).
+**Note:** To work in a tab-based experience for safety incidents, your administrator can disable the playbook through Health and Safety properties. For more information, see [Disable the safety incident playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/disable-safety-incident-playbook.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Health and Safety** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the incident management icon \(\[Omitted image "list-icon-hs.png"\] Alt text: Incident Management icon.\).
 
@@ -44,12 +44,12 @@ For more information on how to interact with a playbook, see [Playbooks](https:/
 
 6.  Record the information related to the incident using the playbook activities and tasks.
 
-    Selecting **Mark complete** marks an [[activity-lxp|activity]] as complete and makes the next activity or stage available in the playbook. However, you can also select **Skip** to move to the next activity. You can go back to previous activities and update them later.
+    Selecting **Mark complete** marks an activity as complete and makes the next activity or stage available in the playbook. However, you can also select **Skip** to move to the next activity. You can go back to previous activities and update them later.
 
     -   **Enter incident summary**, to add a summary of the incident such as the time and date the incident occurred on, severity, and the category of the incident. For more information, see [Health and safety incident form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/hs-incident-form.md).
     -   **Add event details**, to add event location and sequence of events. For more information, see [Log sequence of events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/log-sequence-safety-incident.md).
     -   **Add people involved**, to add people involved in the incident such as an injured person, witnesses, and collaborators. For more information, see [Add or modify people involved](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/add-hs-people-involved.md).
-    -   **Add injury and illness**, to [[log-injury-illness|log an injury and illness]] report for each affected person during the incident. For more information, see [Log an injury and illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/log-injury-illness.md)
+    -   **Add injury and illness**, to log an injury and illness report for each affected person during the incident. For more information, see [Log an injury and illness](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/log-injury-illness.md)
     -   **Add assets involved**, if an asset was involved in this incident. For more information, see [Associate an asset to the incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/associate-asset-safety-incident.md).
     -   **Add root cause analysis**, to perform root cause analysis for the incident. For more information, see [Perform root cause analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/perform-hs-root-cause-analysis.md).
 7.  Add actions based on your root cause analysis.
@@ -88,10 +88,3 @@ Perform a root cause analysis \(RCA\) for a safety incident as you go through it
 
 **Parent Topic:**[Managing Health and Safety incidents and observations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/managing-hs-incidents-obs.md)
 
-## Related
-
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[activity-lxp|Activity]]
-- [[log-injury-illness|Log an injury and illness]]

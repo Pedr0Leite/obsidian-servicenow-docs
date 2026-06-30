@@ -12,7 +12,7 @@ breadcrumb: [Insurance Claims Core, Data Models, Explore, Financial Services Ope
 
 # Insurance Claims Core roles and properties
 
-This section outlines the core roles involved in managing [[insurance-claims-flow|insurance claims]] and highlights their system properties.
+This section outlines the core roles involved in managing insurance claims and highlights their system properties.
 
 ## Roles installed
 
@@ -234,9 +234,5 @@ When enabled, the manager receives a notification that the adjuster has submitte
  When disabled, the approval request goes directly to a manager who has the approval authority for the amount.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[insurance-claims-core-data-model|Insurance Claims Core]]
+</table>**Parent Topic:**[Insurance Claims Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims-core-data-model.md)
 
-## Related
-
-- [[insurance-claims-core-data-model|Insurance Claims Core]]
-- [[insurance-claims-flow|Insurance claims]]

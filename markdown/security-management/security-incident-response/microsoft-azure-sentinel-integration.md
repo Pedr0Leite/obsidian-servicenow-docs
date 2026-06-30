@@ -14,7 +14,7 @@ breadcrumb: [Security Incident Response integrations, Security Incident Response
 
 # Microsoft Azure Sentinel integration
 
-Microsoft Azure Sentinel is a cloud-based Security Information Event Management \(SIEM\) and Security Orchestration Automated Response \(SOAR\) solution. You can use the Microsoft Azure Sentinel integration to ingest Azure Sentinel incidents and automatically create security incidents in [[sir-landing-page|Security Incident Response]].
+Microsoft Azure Sentinel is a cloud-based Security Information Event Management \(SIEM\) and Security Orchestration Automated Response \(SOAR\) solution. You can use the Microsoft Azure Sentinel integration to ingest Azure Sentinel incidents and automatically create security incidents in Security Incident Response.
 
 **Important:**
 
@@ -28,7 +28,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Overview of Microsoft Azure Sentinel integration
 
-See the following diagram to learn how Microsoft Azure Sentinel integrates with the ServiceNow AI Platform [[security-operations-landing-page|Security Operations]] applications.
+See the following diagram to learn how Microsoft Azure Sentinel integrates with the ServiceNow AI Platform Security Operations applications.
 
 \[Omitted image "sentinel-overview.png"\] Alt text: How Azure Sentinel integrates with the ServiceNow AI Platform.
 
@@ -40,9 +40,9 @@ Use the key features of this integration to do the following actions:
 -   Map Microsoft Azure Sentinel incident and entity fields to SIR security incident fields.
 -   Filter Microsoft Azure Sentinel incidents.
 -   Aggregate incidents to existing open security incidents so that you don't have to create duplicate security incidents.
--   Automate Microsoft Azure Sentinel incident status updates for Security Incident Response so that you can create and [[t_ClosingSecIncidents|close security incidents]].
+-   Automate Microsoft Azure Sentinel incident status updates for Security Incident Response so that you can create and close security incidents.
 
-    **Note:** ServiceNow updates the status of Microsoft Azure Sentinel incidents based on the [[si-creation|security incident creation]] or closure. This update also includes comments of aggregated incidents and new incidents.
+    **Note:** ServiceNow updates the status of Microsoft Azure Sentinel incidents based on the security incident creation or closure. This update also includes comments of aggregated incidents and new incidents.
 
 -   Schedule incident ingestion to create security incidents periodically.
 -   Synchronize Microsoft Azure Sentinel incident comments with SIR Work notes.
@@ -54,9 +54,3 @@ Use the key features of this integration to do the following actions:
 |Microsoft product documentation website|[Microsoft Product Documentation website](https://docs.microsoft.com/en-us/azure/sentinel/)|
 |ServiceNow product documentation website|[ServiceNow Product Documentation website](https://www.servicenow.com/docs)|
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[t_ClosingSecIncidents|Close security incidents]]
-- [[si-creation|Security incident creation]]

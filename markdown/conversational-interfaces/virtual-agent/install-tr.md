@@ -18,15 +18,15 @@ You can install updates to the Topic Recommendations application \(com.snc.va\_t
 
 ## Before you begin
 
-Starting with the Tokyo release, the Topic Recommendations store app is automatically [[installed-wth-virtual-agent|installed with Virtual Agent]]. When using Topic Recommendations, the app checks the ServiceNow Store and notifies you when an update is available.
+Starting with the Tokyo release, the Topic Recommendations store app is automatically installed with Virtual Agent. When using Topic Recommendations, the app checks the ServiceNow Store and notifies you when an update is available.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **[[virtual-agent-landing-page|Virtual Agent]]** &gt; **Topic Recommendations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
-    If an update is available, a notification displays on the [[topic-recommendations-page|Topic Recommendations page]].
+    If an update is available, a notification displays on the Topic Recommendations page.
 
     \[Omitted image "tr-update-available.png"\] Alt text: A notification that reads, "Topic Recommendations - New version available. Select the View update link to open the ServiceNow Store.
 
@@ -36,9 +36,4 @@ Role required: admin
 
 3.  Follow the instructions on the ServiceNow Store website to request an update for Topic Recommendations on your instance.
 
-## Related
 
-- [[installed-wth-virtual-agent|Installed with Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-recommendations-page|Topic Recommendations page]]

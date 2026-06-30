@@ -14,11 +14,11 @@ breadcrumb: [Explore, Service Graph Workspace, Configuration Management Database
 
 # Ingestion view in Service Graph Workspace
 
-The Overview page in the Ingestion view in Service Graph Workspace provides a centralized dashboard view for administrators to monitor the installation, performance, and error handling of [[cmdb-sgc-available|Service Graph Connectors]].
+The Overview page in the Ingestion view in Service Graph Workspace provides a centralized dashboard view for administrators to monitor the installation, performance, and error handling of Service Graph Connectors.
 
 ## Access
 
-Navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]**, and then in the navigation panel, select the Ingestion icon.
+Navigate to **Workspaces** &gt; **Service Graph Workspace**, and then in the navigation panel, select the Ingestion icon.
 
 Role required: sgc\_admin, cmdb\_inst\_admin, or admin
 
@@ -136,7 +136,7 @@ Displays the number of import set runs that ended in an error, including those i
 
 -   **Error summary**
 
-Provides a short description of the most recent error, if any. The summary includes error type and cause. A **View details** link may be available for diagnosing a processing error. To learn more, see [[sgcc-diagnose-proc-errors|Diagnose a processing error in SGC Central]].
+Provides a short description of the most recent error, if any. The summary includes error type and cause. A **View details** link may be available for diagnosing a processing error. To learn more, see [Diagnose a processing error in SGC Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/sgcc-diagnose-proc-errors.md).
 
 -   **Last processed on**
 
@@ -312,7 +312,7 @@ Enables narrowing the data shown in graphs and metrics based on connector type, 
 |Connector type|List|Filters a list of installed Service Graph Connectors.|
 |Connection|List|Filters a list of connection records for the Service Graph Connectors.|
 |Data source|List|Filters a list of data sources for the Service Graph Connectors.|
-|Date range|Date|Filters the [[sgcc-landing|SGC Central]] dashboard data based on the date range selected.|
+|Date range|Date|Filters the SGC Central dashboard data based on the date range selected.|
 
 ## Indicators
 
@@ -501,10 +501,3 @@ Displays the breakdown of updated and inserted CIs for a class.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgcc-diagnose-proc-errors|Diagnose a processing error in SGC Central]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[sg-workspace|Service Graph Workspace]]
-- [[sgcc-landing|SGC Central]]

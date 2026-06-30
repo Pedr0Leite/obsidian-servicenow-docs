@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Complete the following steps to implement [[security-best-practices-manager|security best practices]] on your ServiceNow instance.
+Complete the following steps to implement security best practices on your ServiceNow instance.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ Complete the following steps to implement [[security-best-practices-manager|secu
 
 2.  Apply a filter to view security best practices to implement.
 
-    1.  Navigate to the **[[best-practices|Best Practices]]** table in the UI.
+    1.  Navigate to the **Best Practices** table in the UI.
 
     2.  Select the kebab menu, or the item with three vertical dots \(\[Omitted image "ellipsis-vertical-outline-24.svg"\] Alt text: vertical dots\) in the **Status** column.
 
@@ -57,7 +57,3 @@ Complete the following steps to implement [[security-best-practices-manager|secu
 
 **Parent Topic:**[Security Best Practices](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/security-center/security-best-practices-manager.md)
 
-## Related
-
-- [[security-best-practices-manager|Security Best Practices]]
-- [[best-practices|Best Practices]]

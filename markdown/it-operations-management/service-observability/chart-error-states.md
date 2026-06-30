@@ -14,7 +14,7 @@ breadcrumb: [Service Observability reference, Service Observability, ITOM AIOps,
 
 # Chart error states
 
-Understand the different error states that the charts in [[service-observability|Service Observability]] might display and how to fix them.
+Understand the different error states that the charts in Service Observability might display and how to fix them.
 
 |Error message|Fix|
 |-------------|---|
@@ -24,11 +24,7 @@ Understand the different error states that the charts in [[service-observability
 |No results found|No metrics were found for the chart.|
 |Something went wrong|Connection to the data source was successful, but the observability instance didn't respond. This error might be due to a connection timeout on the observability vendor side.|
 |No impacted systems found \(Impacted systems chart on the Overview page\)|Only services found on your service map can be displayed. Update your service map to include all services that should be included in the chart. See [Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/c_ServiceMappingOverview.md).|
-|Set up objectives \(SLO Error Budget chart on the Overview page\)|SLOs haven't been configured for [[sr-landing-page|Service Reliability Management]]. See [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md).|
+|Set up objectives \(SLO Error Budget chart on the Overview page\)|SLOs haven't been configured for Service Reliability Management. See [Create SLOs, SLIs, and error budget policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-level-objective-management/sr-create-slo-sli.md).|
 
 **Parent Topic:**[Service Observability reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/service-observability-reference.md)
 
-## Related
-
-- [[service-observability|Service Observability]]
-- [[sr-landing-page|Service Reliability Management]]

@@ -14,7 +14,7 @@ breadcrumb: [CMDB Compliance, Configuration Management Database \(CMDB\), Config
 
 # Certification templates
 
-Certification templates can define attributes, relationships, and [[reference|reference]] field values that indicate what a record is expected to contain.
+Certification templates can define attributes, relationships, and reference field values that indicate what a record is expected to contain.
 
 These values are used to perform audits on ServiceNow records. The certification filter selected in the template identifies the table and records to audit, and the template conditions set the expected state for those records. The type of audit you create determines which tables and template conditions are available.
 
@@ -31,10 +31,10 @@ The available condition builders for each audit type:
 -   Compliance: Runs audits on any set of ServiceNow records, not only configuration items \(CI\). This audit type provides the following types of conditions for any ServiceNow table:
     -   Attribute: Sets conditions for the attributes of the records.
     -   Related List: Runs audits on records in tables that reference the table defined in the template.
--   [[c_ArchitectureCompliance|Architecture Compliance]]: Defines the following types of conditions for tables that extend the Configuration Item \[cmdb\_ci\] table.
+-   Architecture Compliance: Defines the following types of conditions for tables that extend the Configuration Item \[cmdb\_ci\] table.
     -   Attribute: Sets conditions for physical attributes of CIs, such as memory or disk size.
     -   Related List: Runs audits on records in tables that reference the table defined in the template.
--   [[c_DesiredState|Desired State]]: Defines the following types of conditions for tables that extend the Configuration Item \[cmdb\_ci\] table.
+-   Desired State: Defines the following types of conditions for tables that extend the Configuration Item \[cmdb\_ci\] table.
     -   Attribute: Sets conditions for physical attributes of CIs, such as memory or disk size.
     -   CI relationship: Defines the relationships these CIs have with other CIs. An example of a relationship is a business service, such as Outlook Web Access, that depends on a server.
     -   User relationship: Defines the user who reviewed the log records. The only operator available with this condition builder.
@@ -48,8 +48,3 @@ The default Templates list displays only the active version of each template, bu
 -   Default Templates List: The default Templates list displays only the active version of each template, filtered by **Audit type**.
 -   All Template Versions: To view all template versions for an audit type, click the arrow before **Active=true** to remove that condition from the breadcrumbs. \[Omitted image "DesiredStateBreadcrumbs.png"\] Alt text: Breadcrumbs.
 
-## Related
-
-- [[reference|Reference]]
-- [[c_ArchitectureCompliance|Architecture Compliance]]
-- [[c_DesiredState|Desired State]]

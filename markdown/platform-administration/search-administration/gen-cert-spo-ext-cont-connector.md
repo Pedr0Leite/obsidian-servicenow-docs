@@ -15,7 +15,7 @@ breadcrumb: [Microsoft SharePoint Online external content connector, Configure, 
 
 # Create a public/private key pair for the Microsoft SharePoint Online external content connector
 
-Generate a public/private key pair for the [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra [[admin-center-intro|admin center]].
+Generate a public/private key pair for the Microsoft SharePoint Online external content connector. Extract the public key as a DER-encoded binary X.509 format certificate for use in configuring API access for the connector in the Microsoft Entra admin center.
 
 ## Before you begin
 
@@ -89,7 +89,7 @@ To configure public/private key pair authentication for the connector, you need 
 
 ## What to do next
 
-Provide both of the files you generated to the admins who configure your Microsoft SharePoint Online instance and [[ia-ai-search|AI Search]] on your ServiceNow AI Platform® instance, as follows:
+Provide both of the files you generated to the admins who configure your Microsoft SharePoint Online instance and AI Search on your ServiceNow AI Platform® instance, as follows:
 
 <table id="table_rr3_wd3_xdc"><thead><tr><th>
 
@@ -118,8 +118,3 @@ Provide this Java KeyStore file and its password to your ServiceNow AI Platform 
 </td></tr></tbody>
 </table>**Parent Topic:**[Microsoft SharePoint Online external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/microsoft-sharepoint-online-external-content-connector.md)
 
-## Related
-
-- [[microsoft-sharepoint-online-external-content-connector|Microsoft SharePoint Online external content connector]]
-- [[admin-center-intro|Admin Center]]
-- [[ia-ai-search|AI Search]]

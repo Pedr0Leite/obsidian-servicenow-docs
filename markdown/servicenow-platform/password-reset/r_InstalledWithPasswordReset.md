@@ -14,7 +14,7 @@ breadcrumb: [Password Reset reference, Password Reset, Manage service capabiliti
 
 # Installed with Password Reset
 
-Tables, roles, business rules, scripts, and workflows are installed with the [[password-reset-landing-page|Password Reset]] application.
+Tables, roles, business rules, scripts, and workflows are installed with the Password Reset application.
 
 ## Password Reset tables
 
@@ -88,7 +88,7 @@ Password Reset Desktop Access Control\[pwd\_access\_control\]
 
 </td><td>
 
-[[win-password-reset-overview|Password Reset Windows Application]] access control.
+Password Reset Windows Application access control.
 
 </td></tr><tr><td>
 
@@ -116,7 +116,7 @@ User SMS devices that are in a state of verified.
 
 </td></tr><tr><td>
 
-Password Reset [[email|Email]] Verification Code\[pwd\_email\_code\]
+Password Reset Email Verification Code\[pwd\_email\_code\]
 
 </td><td>
 
@@ -273,7 +273,7 @@ Password Reset verification types that are available.
 </td></tr></tbody>
 </table>## Password Reset roles
 
-**Note:** Only the user with the following roles can have access to Password Reset tables. The deny unless authenticated ACLs [[t_ContrlAccessByCDGUOrLoc|restrict access]] to the Password Reset tables for any unauthenticated role such as public role user.
+**Note:** Only the user with the following roles can have access to Password Reset tables. The deny unless authenticated ACLs restrict access to the Password Reset tables for any unauthenticated role such as public role user.
 
 For more information, see [Deny-Unless ACL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/acl-denial-behavior.md).
 
@@ -564,7 +564,7 @@ Password Reset Process \[pwd\_process\]
 
 </td><td>
 
-Checks that either **Email/SMS password** or **Display password** is selected when the **Auto-generate password** [[check-box|check box]] is selected.
+Checks that either **Email/SMS password** or **Display password** is selected when the **Auto-generate password** check box is selected.
 
 </td></tr><tr><td>
 
@@ -700,7 +700,7 @@ Sets a new record flag for the client to take appropriate action.
 
 </td></tr><tr><td>
 
-Send SMS Verification Code Via [[notify-landing-page|Notify]]
+Send SMS Verification Code Via Notify
 
 </td><td>
 
@@ -897,7 +897,7 @@ Checks whether auto-enroll is selected and ensures that an enrollment check scri
 
 |Name|Description|
 |----|-----------|
-|$pwd\_reset|First page of [[self-service-landing|self-service]] reset process \(asks for user ID\).|
+|$pwd\_reset|First page of self-service reset process \(asks for user ID\).|
 |$pwd\_reset\_serviceDesk|First page of service desk assisted reset process \(asks for user ID\).|
 |$pwd\_verify|Second page of reset process \(asks user to verify identity\).|
 |$pwd\_new|Last page of password change process \(asks for new password\).|
@@ -936,7 +936,7 @@ Checks whether auto-enroll is selected and ensures that an enrollment check scri
 
 ## UI scripts installed with Password Reset
 
-You can create a UI script and [[reference|reference]] the script from a UI macro or [[ui-page|UI page]] by using a &lt;g:include\_script&gt; Jelly tag. The following example shows how the $pwd\_enroll\_questions\_ui UI macro can reference the $pwd\_enroll\_questions\_ui script. In the example, \[UI Script Name\]+".jsdbx" is the name of the script:
+You can create a UI script and reference the script from a UI macro or UI page by using a &lt;g:include\_script&gt; Jelly tag. The following example shows how the $pwd\_enroll\_questions\_ui UI macro can reference the $pwd\_enroll\_questions\_ui script. In the example, \[UI Script Name\]+".jsdbx" is the name of the script:
 
 ```
 <g:include_script src="$pwd_enroll_questions_ui.jsdbx" />
@@ -954,7 +954,7 @@ By referencing an external script, you can maintain separation between client Ja
 |$pwd\_enroll\_sms\_ui|SMS enrollment UI script.|
 |$pwd\_enrollment\_submit\_event|UI script for an enrollment submission event.|
 |$pwd\_util|Utilities for password reset UI pages and UI macros.|
-|$pwdWfManager|Helper class to handle [[c_WorkflowActivities|workflow activities]] and post-processing.|
+|$pwdWfManager|Helper class to handle workflow activities and post-processing.|
 
 ## Password Reset workflows
 
@@ -1122,15 +1122,3 @@ For the Email/SMS Password Reset URL process: Sends email or SMS \(if configured
 |pwd\_success|/api/now/v2/pwd\_reset/success|v2|Get success page components.|
 |pwd\_failure|/api/now/v2/pwd\_reset/failure|v2|Get failure page components.|
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[win-password-reset-overview|Password Reset Windows Application]]
-- [[email|Email]]
-- [[t_ContrlAccessByCDGUOrLoc|Restrict access]]
-- [[check-box|Check box]]
-- [[notify-landing-page|Notify]]
-- [[self-service-landing|Self-service]]
-- [[reference|Reference]]
-- [[ui-page|UI page]]
-- [[c_WorkflowActivities|Workflow activities]]

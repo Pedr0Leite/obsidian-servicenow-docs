@@ -14,7 +14,7 @@ breadcrumb: [Learning Core, HR Service Delivery, Employee Service Management]
 
 # Exploring Learning Core
 
-The ServiceNow® [[learning-core_overview|Learning Core]] application enables you to build a [[exploring-learning-exp|learning]] content repository by integrating with third-party Learning Management Systems, such as Cornerstone OnDemand, Udemy, PluralSight, Sumtotal and Saba learning systems. It allows you to configure learning catalogs that contain course items from both external learning systems and internal learning systems.
+The ServiceNow® Learning Core application enables you to build a learning content repository by integrating with third-party Learning Management Systems, such as Cornerstone OnDemand, Udemy, PluralSight, Sumtotal and Saba learning systems. It allows you to configure learning catalogs that contain course items from both external learning systems and internal learning systems.
 
 Learning Core provides the base set of tables, content, learning bases, roles, and access configuration that are used in the Learning Posts application and other coaching applications. Learning Core can be activated only as a dependent plugin.
 
@@ -22,10 +22,5 @@ By default, Learning Core integrates with Cornerstone OnDemand, Pluralsight, Ude
 
 ## Key features
 
-Enablement of Predictive Intelligence Workbench displays recommended learning courses to users in [[employee-center-landing-page|Employee Center]].
+Enablement of Predictive Intelligence Workbench displays recommended learning courses to users in Employee Center.
 
-## Related
-
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]

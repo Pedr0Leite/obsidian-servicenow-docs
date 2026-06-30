@@ -14,7 +14,7 @@ breadcrumb: [Processing, Use, Dispute Management, Banking applications, Financia
 
 # Managing disputes integrated with Mastercard
 
-The integration of Mastercard APIs into [[dispute-management|Dispute Management]] enables you to resolve card disputes faster and more efficiently.
+The integration of Mastercard APIs into Dispute Management enables you to resolve card disputes faster and more efficiently.
 
 The Dispute Management workflow integrates with subflows that communicate with Mastercom, supporting an end-to-end dispute lifecycle from raising an initial dispute to final resolution. These subflows can help you meet Mastercard's chargeback deadlines and confirm successful dispute resolution.
 
@@ -33,6 +33,3 @@ You can view all the transactions of the dispute in the **Processing** stage of 
 
 **Parent Topic:**[Managing Disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 
-## Related
-
-- [[dispute-management|Dispute Management]]

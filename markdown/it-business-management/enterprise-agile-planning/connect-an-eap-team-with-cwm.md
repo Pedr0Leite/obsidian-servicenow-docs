@@ -14,11 +14,11 @@ breadcrumb: [Connect with CWM, Enterprise Agile Planning, Strategic Planning, St
 
 # Connect an EAP team with CWM
 
-Establish a connection to CWM by setting your EAP team's Agile tool to [[cwm-landing|Collaborative Work Management]].
+Establish a connection to CWM by setting your EAP team's Agile tool to Collaborative Work Management.
 
 ## Before you begin
 
-Ensure that **Application Scope** of your ServiceNow instance is set to **[[alignment-planner-workspace-landing-page|Strategic Planning]]**.
+Ensure that **Application Scope** of your ServiceNow instance is set to **Strategic Planning**.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -52,7 +52,3 @@ Role required: sn\_apw\_advanced.eap\_admin
 
 Navigate to **Workspaces** &gt; **Collaborative Work Management** to start managing this team's work. To learn more, see [Managing work using Boards in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-boards.md) and [Sprint planning in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/agile-sprint-planning-in-cwm.md).
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

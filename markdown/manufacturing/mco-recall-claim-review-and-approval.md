@@ -12,7 +12,7 @@ breadcrumb: [Recall campaign, MCO core, Explore, Manufacturing Commercial Operat
 
 # Recall claim review and approval use case
 
-Use case scenarios demonstrate when and how to use the [[mco-rcl-clms|recall campaign]] application to review and approve the claims. It provides practical examples of common [[mco-recall-management|recall management]] situations.
+Use case scenarios demonstrate when and how to use the recall campaign application to review and approve the claims. It provides practical examples of common recall management situations.
 
 ## Use case: Recall claim review and approval
 
@@ -33,7 +33,7 @@ Solution
 Angela uses the FSM/CSM Workspace to review and approve the recall claim efficiently:
 
 1.  Opens the claim marked "Pending Review" with centralized visibility into all claim details
-2.  Reviews all line items including [[mco-corrective-actions|corrective actions]], part numbers, labor hours, unit prices, quantities, and claimed amounts
+2.  Reviews all line items including corrective actions, part numbers, labor hours, unit prices, quantities, and claimed amounts
 3.  Selects approval action from four options: Approve All, Reject All, Partially Approve, or Send Back with Comments
 4.  Approves valid items \(Alectri Airbag Module\) and rejects invalid items \(labor for Brake Drum Replacement\) using line-level adjudication
 5.  Sends claim back with comments requesting missing proof of service documentation
@@ -56,8 +56,3 @@ Outcome
 
 Angela successfully reviews and approves the recall claim after James provides missing documentation. The line-level approval capability, automated amount population, and transparent feedback loop reduce processing time and improve decision accuracy, strengthening trust between Alectri and its dealer network.
 
-## Related
-
-- [[mco-rcl-clms|Recall campaign]]
-- [[mco-recall-management|Recall management]]
-- [[mco-corrective-actions|Corrective actions]]

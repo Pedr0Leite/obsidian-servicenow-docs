@@ -14,7 +14,7 @@ breadcrumb: [CMDB Query Builder, Configuration Management Database \(CMDB\), Con
 
 # Exploring CMDB Query Builder
 
-The [[cmdb-query-builder-landing-page|CMDB Query Builder]] enables you to build complex infrastructure and service queries that span multiple CMDB classes, non-CMDB tables, and that involve many CIs that are connected by different relationships.
+The CMDB Query Builder enables you to build complex infrastructure and service queries that span multiple CMDB classes, non-CMDB tables, and that involve many CIs that are connected by different relationships.
 
 The CMDB Query Builder provides a canvas into which you drag the CI classes that you want to include in a query. Then you add relationships, AND/OR operators between the CI classes, and define the relationship properties to query for. You can use saved queries to populate a CMDB group with CIs, and then use scriptable APIs to retrieve the CI list and apply actions collectively to all the CIs in the group.
 
@@ -26,7 +26,7 @@ There are two query types: CMDB Query and a Service Mapping query, which you can
 -   All servers that are not mapped to any application service.
 -   All application services and their associated servers and the cost of each server. This query helps evaluate the cost of technology for each application service.
 
-Starting node: The starting point of the query which is labeled as **STARTING NODE** on the Query Builder canvas. The first class that you drag to the canvas becomes automatically the starting node of the query and you cannot select a different starting node. In a complex query, the starting node must always be the only node connected to an AND/OR operator. If you try to [[c_Connect|connect]] a second node to an operator that the starting node is connected to, the query fails to run and a prompt to select a different starting node appears.
+Starting node: The starting point of the query which is labeled as **STARTING NODE** on the Query Builder canvas. The first class that you drag to the canvas becomes automatically the starting node of the query and you cannot select a different starting node. In a complex query, the starting node must always be the only node connected to an AND/OR operator. If you try to connect a second node to an operator that the starting node is connected to, the query fails to run and a prompt to select a different starting node appears.
 
 ## Additional information
 
@@ -36,7 +36,7 @@ For a webinar, see [CMDB Query Builder Queries and Reporting - Platform Analytic
 
 By default, [Intelligent Search for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/intelligent-search-cmdb.md) functionality is integrated into the CMDB Query Builder. When opening the Query Builder, you can use the Intelligent Search search box which appears above the Query Builder canvas. Intelligent Search lets you use everyday natural language query \(NLQ\) to build a query. Intelligent Search parses, resolves any ambiguities in table names and relationship types, and then converts your search string into a valid query. The query appears fully constructed on the Query Builder canvas where you can run or continue and develop the query.
 
-The integration of [[intelligent-search-cmdb|Intelligent Search for CMDB]] with the CMDB Query Builder is controlled by the system property **glide.cmdb.query.nlq.activated**, which is set to **true** by default. If you set the property to **false**, Intelligent Search for CMDB will not be available within the Query Builder.
+The integration of Intelligent Search for CMDB with the CMDB Query Builder is controlled by the system property **glide.cmdb.query.nlq.activated**, which is set to **true** by default. If you set the property to **false**, Intelligent Search for CMDB will not be available within the Query Builder.
 
 ## AI Search and CMDB
 
@@ -50,7 +50,7 @@ There are several types of CMDB queries:
 
 -   **CMDB Query**
 
-    A query type that queries the infrastructure for CI classes and the relationships and [[reference-document-management|references]] that connect them. You can optionally add the context of non-CMDB tables to a CMDB query.
+    A query type that queries the infrastructure for CI classes and the relationships and references that connect them. You can optionally add the context of non-CMDB tables to a CMDB query.
 
     You can include [Service instances \(Application services\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/application-services.md) in a CMDB query, to find, for example:
 
@@ -58,7 +58,7 @@ There are several types of CMDB queries:
     -   All infrastructure in a particular application service.
     -   All incidents for a particular CI in an application service, or all incidents for all the CIs of an application service.
     -   All application services with a pattern of a service connected to a database, and where the database has incidents.
-    The list of available non-CMDB tables includes a subset of tables within the system, which have a [[reference|reference]] to the [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]] or its children. The list of non-CMDB tables, includes tables such as Asset, Task, and Problem. You can use the system property [glide.cmdb.query.non\_cmdb.black\_listed\_tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-sysproprties.md) to narrow down the list of non-CMDB tables to choose from.
+    The list of available non-CMDB tables includes a subset of tables within the system, which have a reference to the Configuration Item \[cmdb\_ci\] class or its children. The list of non-CMDB tables, includes tables such as Asset, Task, and Problem. You can use the system property [glide.cmdb.query.non\_cmdb.black\_listed\_tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-querybldr-sysproprties.md) to narrow down the list of non-CMDB tables to choose from.
 
 -   **Service Mapping Query**
 
@@ -74,11 +74,3 @@ There are several types of CMDB queries:
 
 [CMDB groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-groups.md)
 
-## Related
-
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]
-- [[intelligent-search-cmdb|Intelligent Search for CMDB]]
-- [[reference-document-management|References]]
-- [[reference|Reference]]
-- [[cmdb-table-property-descriptions|Configuration Item \[cmdb\_ci\] class]]

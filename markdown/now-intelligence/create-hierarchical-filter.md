@@ -24,7 +24,7 @@ In the Filter Designer \(**Library** &gt; **Filters** &gt; **New**\): analytics\
 
 ## About this task
 
-A record hierarchy consists of a parent record and all child records where a reference field value defines parent-child relationships. For example, in the Manager hierarchy, this field is the Manager field on the User \[sys\_user\] table. One user is the parent, and all users who have that user specified in the Manager field are child records. The hierarchy is multi-generational, so to speak, so users with a Manager who have the parent as their Manager are also included in the hierarchy. In short, starting with one manager, that manager's entire downward [[reporting-landing-page|reporting]] chain is included in the hierarchy.
+A record hierarchy consists of a parent record and all child records where a reference field value defines parent-child relationships. For example, in the Manager hierarchy, this field is the Manager field on the User \[sys\_user\] table. One user is the parent, and all users who have that user specified in the Manager field are child records. The hierarchy is multi-generational, so to speak, so users with a Manager who have the parent as their Manager are also included in the hierarchy. In short, starting with one manager, that manager's entire downward reporting chain is included in the hierarchy.
 
 When you filter through a record hierarchy, you select one value of the reference field to be the parent. You can then filter by that value and/or by any of its child values.
 
@@ -32,11 +32,11 @@ When you filter through a record hierarchy, you select one value of the referenc
 
 Hierarchical filters support only the hierarchies defined in the Record Hierarchy \[sys\_record\_hierarchy\] table and not those defined in other tables, such as Governance, Risk, and Compliance \(GRC\) tables. Hierarchical filters generally follow the same logic as hierarchical queries, as described in .
 
-To create a hierarchical dashboard filter, follow the procedure in [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]] to create a multi-select filter. When you reach the step where you define the filter source, specify the hierarchy.
+To create a hierarchical dashboard filter, follow the procedure in [Configure a Single/Multiple select or cascading filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-select-filter-workspace.md) to create a multi-select filter. When you reach the step where you define the filter source, specify the hierarchy.
 
 ## Procedure
 
-1.  Create a filter and select the Single or Multiple Select filter type, as described in [[select-workspace-filter-type|Create or add a filter on an inline dashboard]] or [[add-filter-library|Create a filter in the Filter Designer]].
+1.  Create a filter and select the Single or Multiple Select filter type, as described in [Create or add a filter on an inline dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-workspace-filter-type.md) or [Create a filter in the Filter Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/add-filter-library.md).
 
 2.  Select a Table source.
 
@@ -87,9 +87,3 @@ The end result on the dashboard is a filter that can filter by Fred Luddy, Fred'
 
 \[Omitted image "hierarchy-filter-tester-dboard.png"\] Alt text: Dashboard with a Incident by priority data visualization and a filter that can filter the data from a manager hierarchy starting from Fred Luddy.
 
-## Related
-
-- [[create-select-filter-workspace|Configure a Single/Multiple select or cascading filter]]
-- [[select-workspace-filter-type|Create or add a filter on an inline dashboard]]
-- [[add-filter-library|Create a filter in the Filter Designer]]
-- [[reporting-landing-page|Reporting]]

@@ -26,11 +26,11 @@ You can add user criteria to custom or default [Configuring search in a portal](
 
 ## Procedure
 
-1.  In the [[service-portal-configuration-page|Service Portal Configuration page]] \(**[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**\), navigate to **Portal Tables** &gt; **Search Source** in the header menu.
+1.  In the Service Portal Configuration page \(**Service Portal** &gt; **Service Portal Configuration**\), navigate to **Portal Tables** &gt; **Search Source** in the header menu.
 
 2.  Open the search source record that you would like to modify.
 
-3.  Under [[c_RelatedLists|related lists]], click **Who Can View Search Sources** or **Who Cannot View Search Sources**.
+3.  Under related lists, click **Who Can View Search Sources** or **Who Cannot View Search Sources**.
 
 4.  Click **New**.
 
@@ -43,8 +43,3 @@ You can add user criteria to custom or default [Configuring search in a portal](
 
 **Parent Topic:**[User criteria for Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/user-criteria.md)
 
-## Related
-
-- [[service-portal-configuration-page|Service Portal configuration page]]
-- [[c_ServicePortal|Service Portal]]
-- [[c_RelatedLists|Related lists]]

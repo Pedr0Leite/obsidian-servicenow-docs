@@ -40,11 +40,9 @@ If the custom data lookup definition rules are not behaving as expected, check f
 -   Ensure that the matcher variable is not read-only. Since users cannot change read-only variables, there cannot be an on form change event for read-only variables.
 -   Ensure that the data in the matcher table is correct.
 -   If the lookup requires an exact match, verify that there is a matcher table row for each possible combination \(including blank values\). The lookup fails if it cannot find a matching value.
--   If the variable is an option or [[check-box|check box]], it always has a value, so you must select **Always replace**.
+-   If the variable is an option or check box, it always has a value, so you must select **Always replace**.
 -   Verify that you have not created a recursive rule, such as:
 
     If Variable A = 1, then Variable B =2. If Variable B = 2, then Variable A = 2.
 
-## Related
 
-- [[check-box|Check box]]

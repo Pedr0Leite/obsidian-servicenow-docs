@@ -22,13 +22,13 @@ Use these activities to register, reserve, list, or delete IP addresses.
 
 ## IPAM Register IP Address activity
 
-The [[r_IPAMRegisterIPAddressActivity-1|IPAM Register IP Address activity]] registers an [[ip-address|IP address]] in a network using Infoblox IPAM.
+The IPAM Register IP Address activity registers an IP address in a network using Infoblox IPAM.
 
 The output of this activity produces an InfoBlox IP address record that can be used for other IPAM functions in the format `fixedaddress/<encrypted key>:<reserved ip address>/<view>`.
 
-The IPAM activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a [[mid-server-landing|MID Server]] with REST capabilities.
+The IPAM activities use the [REST web service activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateARESTWebServiceActivity.md) to manage IP addresses using an Infoblox DDI Grid Server. These activities are configured to use a MID Server with REST capabilities.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **IPAM**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Infoblox DDI** &gt; **IPAM**.
 
 ### Input variables
 
@@ -329,9 +329,3 @@ Defines the version of WAPI to use for the integration endpoints. The default va
 |Success|Activity successfully deleted the specified IP address.|
 |Failure|Activity failed to delete the specified IP address.|
 
-## Related
-
-- [[r_IPAMRegisterIPAddressActivity-1|IPAM Register IP Address activity]]
-- [[ip-address|IP Address]]
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, Regulatory Change Management, Governance, Risk, and Compliance
 
 # Create an issue related to regulatory tasks
 
-Create an issue as part of the [[reg-change-task|regulatory change tasks]] and source document tasks workflow to capture any problems or exceptions that are observed during the workflow. You can create and view issues related to regulatory tasks using the issues related list.
+Create an issue as part of the regulatory change tasks and source document tasks workflow to capture any problems or exceptions that are observed during the workflow. You can create and view issues related to regulatory tasks using the issues related list.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_grc\_reg\_change.manager, sn\_grc\_reg\_change.user
 
 ## About this task
 
-A new module titled as Issue is introduced in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application.
+A new module titled as Issue is introduced in the Regulatory Change Management application.
 
 ## Procedure
 
@@ -84,7 +84,3 @@ You can view the issues related to the Regulatory tasks in the respective module
 
 For information about how to enable or disable menu items, see [Enable/disable application menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EnDisableAppMenuOrMod.md).
 
-## Related
-
-- [[reg-change-task|Regulatory change tasks]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

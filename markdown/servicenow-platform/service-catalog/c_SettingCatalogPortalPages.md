@@ -16,7 +16,7 @@ breadcrumb: [Using the content management system with the service catalog, Servi
 
 The Catalog Portal Page `[sc_catalog_view_mtom]` table links catalogs to CMS portal pages and defines the default catalog to portal page combination used by URLs.
 
-For example, the default portal page for the [[service-catalog|service catalog]] is the catalog\_default page.
+For example, the default portal page for the service catalog is the catalog\_default page.
 
 Catalog portal page records appear in the Catalog Portal Pages related list on the Catalog form. The Catalog Portal Page table generates two values in a URL: **sysparm\_catalog\_view** and **sysparam\_catalog**. Use the [Catalog Portal Page form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MultipleServiceCatalogs.md) to enter a custom link, if required.
 
@@ -24,7 +24,7 @@ Catalog portal page records appear in the Catalog Portal Pages related list on t
 
 If a catalog record is not associated to a catalog portal page record, ServiceNow attempts to present a view based on a set prefix of: **catalog\_&lt;catalog name&gt;**.
 
-For example, if the default service catalog has no catalog portal page record, the system sets **sysparm\_view** to **catalog\_Service\_Catalog**. With this setting, when you navigate to **[[self-service-landing|Self-Service]]** &gt; **Service Catalog**, you view a new and apparently blank **catalog\_Service\_Catalog** portal page, instead of the existing and populated **catalog\_default** portal page.
+For example, if the default service catalog has no catalog portal page record, the system sets **sysparm\_view** to **catalog\_Service\_Catalog**. With this setting, when you navigate to **Self-Service** &gt; **Service Catalog**, you view a new and apparently blank **catalog\_Service\_Catalog** portal page, instead of the existing and populated **catalog\_default** portal page.
 
 To correct, go to the Sites related list on the Catalog form and [add a new catalog portal page record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/c_MultipleServiceCatalogs.md) manually.
 
@@ -43,7 +43,3 @@ For example, for the default service catalog, add a record with the following va
 
 [Manage catalog portal pages]()
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]

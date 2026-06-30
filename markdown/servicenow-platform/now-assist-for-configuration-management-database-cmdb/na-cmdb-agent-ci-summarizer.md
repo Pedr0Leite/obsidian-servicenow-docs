@@ -64,7 +64,7 @@ If you think that the response was helpful, select thumbs-up \[Omitted image "ic
 
 </td><td>
 
-Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an [[email|email]].
+Select the copy to clipboard icon \[Omitted image "icon-clipboard.png"\] to use the response information for another purpose, such as pasting into an email.
 
 </td></tr><tr><td id="d390820e198">
 
@@ -81,6 +81,3 @@ If you think that data might have changed after you viewed the response, select 
 
 [Configure the CI summarization skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/now-assist-for-configuration-management-database-cmdb/now-assist-cmdb-config-ci-summary.md)
 
-## Related
-
-- [[email|Email]]

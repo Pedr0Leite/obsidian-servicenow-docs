@@ -24,7 +24,7 @@ You can import the completed template by navigating to the Metric import jobs li
 
 \[Omitted image "metric-import.png"\] Alt text: Importing the template. For the text description, refer to the text that preceded this example.
 
-The system then performs validations to check for mandatory fields like metric start date, end date, and state, as well as duplicate records. If the data meets these criteria, it is imported into the [[metric-data-table|metric data table]], and corresponding metric data tasks are created if you specified a task as required in the template. You can review import job details such as metrics that were ignored, skipped or updated as well as import log information by navigating to the transform history and import log tabs as shown in the following example.
+The system then performs validations to check for mandatory fields like metric start date, end date, and state, as well as duplicate records. If the data meets these criteria, it is imported into the metric data table, and corresponding metric data tasks are created if you specified a task as required in the template. You can review import job details such as metrics that were ignored, skipped or updated as well as import log information by navigating to the transform history and import log tabs as shown in the following example.
 
 \[Omitted image "metric-import-complete.png"\] Alt text: Completed import job. For the text description, refer to the text that preceded this example.
 
@@ -32,16 +32,10 @@ The system then performs validations to check for mandatory fields like metric s
 
 To learn more about importing historical data, see:
 
--   **[[create-metric-data-template|Download a metric import template]]**  
+-   **[Download a metric import template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-metric-data-template.md)**  
 Download and populate a metric import template that you can use for importing historical metric data and tasks. This template includes directions and is formatted specifically for this type of data import.
--   **[[import-metric-data|Import historical metric data and tasks]]**  
+-   **[Import historical metric data and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/import-metric-data.md)**  
 Import historical metric data with or without corresponding metric data tasks.
 
-**Parent Topic:**[[configuring-grc-metrics|Configuring GRC: Metrics]]
+**Parent Topic:**[Configuring GRC: Metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-grc-metrics.md)
 
-## Related
-
-- [[create-metric-data-template|Download a metric import template]]
-- [[import-metric-data|Import historical metric data and tasks]]
-- [[configuring-grc-metrics|configuring grc metrics]]
-- [[metric-data-table|Metric data table]]

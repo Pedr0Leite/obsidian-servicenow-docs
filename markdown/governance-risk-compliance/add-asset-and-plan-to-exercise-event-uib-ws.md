@@ -20,13 +20,13 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **[[exercise-management-uib|Exercises]]** &gt; **Pending** and select the exercise event in the list.
+1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace** &gt; **Exercises** &gt; **Pending** and select the exercise event in the list.
 
 2.  Select **Add** in the **Assets** tab.
 
     You can add an asset that you want to recover during the exercise. The primary elements of the asset are listed as **Asset types**. The primary elements belong to the element definition type that is identified in the plan template. When you add an asset to the event, its associated dependencies are pulled into the event. The dependencies are displayed in the **Asset types** panel.
 
-    When you select **Add** for an application, all the dependencies that you had identified in the [[bia-uib|business impact analysis]] of that application are also added to the exercise. The example shows the dependencies for Business Application: Acrobat in the **Asset types** panel of the exercise.
+    When you select **Add** for an application, all the dependencies that you had identified in the business impact analysis of that application are also added to the exercise. The example shows the dependencies for Business Application: Acrobat in the **Asset types** panel of the exercise.
 
     **Note:** Starting with the Xanadu and later releases, the Crisis manager can initiate an event task even if the plan includes recovery tasks that do not have any assets tagged. The former requirement that every activated plan should have at least one tagged asset has been removed.
 
@@ -46,7 +46,7 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
 
     **Note:** Recovery assets are now linked to their corresponding BIA records, enabling automatic retrieval of key data such as RTO, RPO, and Recovery Tier.
 
-    \[Omitted image "acrobat-event-asset-rto.png"\] Alt text: [[event-assets|Event assets]].
+    \[Omitted image "acrobat-event-asset-rto.png"\] Alt text: Event assets.
 
     When you open the event asset record \(for example, "Acrobat"\), the "Finalized RTO," "Finalized RPO," "Recovery Tier," and "BIA" values are automatically populated and displayed in the record as shown in the example.
 
@@ -96,11 +96,5 @@ Role required: sn\_bcm.admin, sn\_bcm.program\_manager, or sn\_bcm.planner
     The exercise is saved in the **Pending** state.
 
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[exercise-management-uib|Exercises]]
-- [[bia-uib|Business impact analysis]]
-- [[event-assets|Event assets]]

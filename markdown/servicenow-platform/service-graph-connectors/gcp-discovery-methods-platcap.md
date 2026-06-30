@@ -15,7 +15,7 @@ breadcrumb: [Reference, GCP, Service Graph Connectors, Integrating third-party d
 
 # GCP discovery solutions comparison
 
-ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] with their attributes.
+ITOM Visibility applications discover a variety of Google Cloud Platform \(GCP\) resources and populate the relevant configuration item \(CI\) classes in the Configuration Management Database \(CMDB\) with their attributes.
 
 ## ITOM Visibility solutions
 
@@ -48,7 +48,7 @@ Discovery and Service Mapping Patterns and Visibility Content
 
 </td></tr><tr><td>
 
-[[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]
+Service Graph Connector for GCP
 
 </td><td>
 
@@ -213,7 +213,3 @@ If an entry is marked with two asterisks, the resource type is supported by Serv
 
 **Parent Topic:**[Service Graph Connector for GCP reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-gcp-reference.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgc-cmdb-integration-gcp|Service Graph Connector for GCP]]

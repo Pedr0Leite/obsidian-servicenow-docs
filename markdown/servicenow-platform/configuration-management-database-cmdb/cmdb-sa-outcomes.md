@@ -14,7 +14,7 @@ breadcrumb: [CMDB success advisor, Configuration Management Database \(CMDB\), C
 
 # Supported business outcomes
 
-[[cmdb-sa|CMDB success advisor]] drives measurable CMDB improvements by aligning data quality efforts with specific business outcomes. Instead of tackling the entire CMDB at once, the advisor enables you to target the areas that matter most, beginning with the outcomes you want to achieve.
+CMDB success advisor drives measurable CMDB improvements by aligning data quality efforts with specific business outcomes. Instead of tackling the entire CMDB at once, the advisor enables you to target the areas that matter most, beginning with the outcomes you want to achieve.
 
 Each supported business outcome maps to a dedicated product with its own scope, dashboard, data quality monitoring, and guided remediation. CMDB success advisor supports the following business outcomes:
 
@@ -24,7 +24,7 @@ Each supported business outcome maps to a dedicated product with its own scope, 
 
     When you configure your Data Foundations scope in CMDB success advisor, the selected CI classes are automatically marked as principal classes. Doing so filters the CI fields on task records to show only the most relevant items, enabling you to reduce data entry errors and improve the accuracy of your incident, problem, and change records.
 
-    You can select principal classes to improve foundational data accuracy, align with [[csdm-landing-page|Common Service Data Model]] \(CSDM\), strengthen incident and change CI links, and increase integration coverage for important CI classes.The default configuration enables you to select up to 200 principal classes.
+    You can select principal classes to improve foundational data accuracy, align with Common Service Data Model \(CSDM\), strengthen incident and change CI links, and increase integration coverage for important CI classes.The default configuration enables you to select up to 200 principal classes.
 
     To learn more, see [Using CMDB success advisor for Data Foundations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df.md).
 
@@ -51,7 +51,3 @@ Use the following table to get the right CMDB success advisor guidance for your 
 |Eliminate duplicate hardware records and asset and CI state mismatches|HAM|
 |Improve both data quality and hardware asset accuracy|Both: Data Foundations and HAM can run simultaneously|
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[csdm-landing-page|Common Service Data Model]]

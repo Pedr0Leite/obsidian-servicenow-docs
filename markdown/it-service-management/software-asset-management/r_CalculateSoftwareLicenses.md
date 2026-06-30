@@ -16,7 +16,7 @@ breadcrumb: [License calculations with the legacy Software Asset Management plug
 
 Software calculations use license calculation types to determine how software licenses are counted in your organization.
 
-You can use the default license types provided by the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin or create new ones. To view the default types, navigate to **Software Asset** &gt; **Reconciliation** &gt; **License Calculations** and select a type. All fields in the default records are read-only.
+You can use the default license types provided by the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin or create new ones. To view the default types, navigate to **Software Asset** &gt; **Reconciliation** &gt; **License Calculations** and select a type. All fields in the default records are read-only.
 
 |Field|Description|
 |-----|-----------|
@@ -26,6 +26,3 @@ You can use the default license types provided by the legacy Software [[c_AssetM
 
 **Parent Topic:**[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseLicenseCalculations.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

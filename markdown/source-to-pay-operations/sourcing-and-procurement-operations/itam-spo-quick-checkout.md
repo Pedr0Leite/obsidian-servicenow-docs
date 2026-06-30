@@ -14,7 +14,7 @@ breadcrumb: [Create SR or PR via ITAM Workspace, Sourcing Procurement Operations
 
 # Create purchase requisition from the ITAM Workspace
 
-As an asset manager, use SPO’s purchasing flow from the ITAM Workspace to complete checkout when the requested item has contractual [[pricing|pricing]].
+As an asset manager, use SPO’s purchasing flow from the ITAM Workspace to complete checkout when the requested item has contractual pricing.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ This task describes the options you need to select and the information you need 
 
 1.  Complete steps 1 through 10 as described in [Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-submit-requests.md).
 
-2.  Submit [[sourcing-request|sourcing request]] for items without price.
+2.  Submit sourcing request for items without price.
 
-3.  On the Delivery location page, [[select-delivery-location|select a delivery location]] from the **Delivery location** list.
+3.  On the Delivery location page, select a delivery location from the **Delivery location** list.
 
     \[Omitted image "itam-spo-qco-delivery-loc.png"\] Alt text: Delivery location page.
 
@@ -48,7 +48,7 @@ This task describes the options you need to select and the information you need 
 
 8.  Select **Continue to Payment method**.
 
-9.  On the Payment method page, you can retain the selected [[cost-center|cost center]] or select any of the following options:
+9.  On the Payment method page, you can retain the selected cost center or select any of the following options:
 
     -   **Use another cost center**
     -   **Pay with multiple cost centers**
@@ -65,28 +65,18 @@ This task describes the options you need to select and the information you need 
 
 12. Select **Complete checkout**.
 
-    A [[purchase-requisition|purchase requisition]] is created for the requested items in SPO.
+    A purchase requisition is created for the requested items in SPO.
 
 
 ## What to do next
 
-The Procurement Specialist reviews the requisition in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and converts it into a [[purchase-order-table|purchase order]].
+The Procurement Specialist reviews the requisition in the Source-to-Pay Workspace and converts it into a purchase order.
 
 **Note:** The PO created in SPO \(sn\_shop\_purchase\_order table\) references the corresponding PO generated in ITAM \(procure\_po table\). The Asset Manager can monitor the progress of the SR, PR, and PO by closely tracking the PO within ITAM.
 
-If the asset manager has the [[shopping-hub-overview|Shopping Hub]] shopper role \(sn\_shop.shopper\), they can also view the status of their request directly in Shopping Hub.
+If the asset manager has the Shopping Hub shopper role \(sn\_shop.shopper\), they can also view the status of their request directly in Shopping Hub.
 
 The end user who submitted the original RITM continues to track and monitor the request status on the RITM record. Statuses between SPO and ITAM objects are synchronized so that updates appear in real time.
 
 **Parent Topic:**[Create Sourcing Request or Purchase Requisition in SPO via ITAM Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-submit-requests.md)
 
-## Related
-
-- [[pricing|Pricing]]
-- [[sourcing-request|Sourcing request]]
-- [[select-delivery-location|Select a delivery location]]
-- [[cost-center|Cost center]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[purchase-order-table|Purchase order]]
-- [[shopping-hub-overview|Shopping Hub]]

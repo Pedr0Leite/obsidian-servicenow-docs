@@ -14,7 +14,7 @@ breadcrumb: [Managing Feedback application in Strategic Planning, Feedback appli
 
 # Associate a product idea with a goal
 
-[[create-goal|Create a goal]] relationship by associating one or more product ideas with goals. Focus and target on product ideas by defining specific goals.
+Create a goal relationship by associating one or more product ideas with goals. Focus and target on product ideas by defining specific goals.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: pf\_user or apw\_user or goal\_user
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace**.
 
 2.  Select **Feedback**.
 
@@ -44,7 +44,4 @@ Role required: pf\_user or apw\_user or goal\_user
 
     You can now track your goals from the Goal Relationship list.
 
-## Related
 
-- [[create-goal|Create a goal]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

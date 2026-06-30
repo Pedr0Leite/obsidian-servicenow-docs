@@ -14,13 +14,13 @@ breadcrumb: [Integration with third-party applications, Integrations, Source-to-
 
 # Source-to-Pay integration with SAP
 
-The Source-to-Pay integration with SAP enables you to send purchase orders, [[receipts|receipts]], and [[invoices|invoices]] created on the SAP from your ServiceNow instance. This integration helps in looking up or extracting primary data objects from SAP into ServiceNow.
+The Source-to-Pay integration with SAP enables you to send purchase orders, receipts, and invoices created on the SAP from your ServiceNow instance. This integration helps in looking up or extracting primary data objects from SAP into ServiceNow.
 
 ## Key features
 
 With this application, you can perform the following:
 
--   Integration hub actions for [[purchase-requisition|purchase requisition]], [[purchase-order-table|purchase order]], receipt, and invoices.
+-   Integration hub actions for purchase requisition, purchase order, receipt, and invoices.
 -   Create or update purchase orders in SAP.
 -   Cancel purchase orders in SAP.
 -   Create good receipts in SAP.
@@ -50,9 +50,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 The subflows enable a plug-and-play experience for the integration scenarios. Integration Hub Actions provide the building blocks for Source-to-Pay subflows and connects to the SAP system through REST APIs.
 
-## Related
-
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]

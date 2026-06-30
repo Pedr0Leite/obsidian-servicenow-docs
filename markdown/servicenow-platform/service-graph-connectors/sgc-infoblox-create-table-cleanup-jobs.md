@@ -14,7 +14,7 @@ breadcrumb: [Infoblox, Service Graph Connectors, Integrating third-party data in
 
 # Create table cleanup jobs for Service Graph Connector for Infoblox
 
-Create table cleanup jobs to automate the cleanup of retired CIs from [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]] version 1.4.0 and earlier based on your organization's data retention requirements and integration dependencies.
+Create table cleanup jobs to automate the cleanup of retired CIs from Service Graph Connector for Infoblox version 1.4.0 and earlier based on your organization's data retention requirements and integration dependencies.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
 1.  Set the application scope to **CMDB CI Class Models** by using the application picker.
 
-    The IPAM tables \(Managed Network, IP Pool, Subnet, and Allocated [[ip-address|IP Address]]\) belong to the CMDB CI Class Models scope. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+    The IPAM tables \(Managed Network, IP Pool, Subnet, and Allocated IP Address\) belong to the CMDB CI Class Models scope. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 2.  Navigate to **All** &gt; **System Maintenance** &gt; **Table Cleanup**.
 
@@ -132,7 +132,4 @@ Set the value to either `0` or `86400` \(24 hours\).-   `0`: All records updated
 
     6.  Select **Submit**.
 
-## Related
 
-- [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]]
-- [[ip-address|IP Address]]

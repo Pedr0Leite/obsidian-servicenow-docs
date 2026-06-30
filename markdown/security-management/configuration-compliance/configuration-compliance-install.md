@@ -26,7 +26,7 @@ Role required: admin
 
 ## About this task
 
-Use Performance Analytics for the [[vr-config-compliance-landing|Configuration Compliance]] dashboard to generate reports on the remediation tasks, the compliance status, the remediation actions, and the exception requests.
+Use Performance Analytics for the Configuration Compliance dashboard to generate reports on the remediation tasks, the compliance status, the remediation actions, and the exception requests.
 
 ## Procedure
 
@@ -40,6 +40,4 @@ Use Performance Analytics for the [[vr-config-compliance-landing|Configuration C
 
     When you install this application, you also activate the Configuration Compliance application.
 
-## Related
 
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -22,7 +22,7 @@ The following key terms are used during the installation and configuration. For 
 
 -   **ServiceNow AI Platform**
 
-    An enterprise ServiceNow product. The ServiceNow AI Platform is the base upon which individual components such as [[sir-landing-page|Security Incident Response]] \(SIR\), IT Service Management \(ITSM\), and other products are built.
+    An enterprise ServiceNow product. The ServiceNow AI Platform is the base upon which individual components such as Security Incident Response \(SIR\), IT Service Management \(ITSM\), and other products are built.
 
 -   **ServiceNow Splunkbase Addon**
 
@@ -50,7 +50,7 @@ The following key terms are used during the installation and configuration. For 
 
 -   **MID Server**
 
-    This application facilitates communication and movement of data between the ServiceNow AI Platform and external applications, [[data-sources|data sources]], and services. This application is typically required for integration with on-premises technologies, and, for this Splunk Enterprise Event Ingestion integration, the MID Server facilitates communication between the ServiceNow AI Platform and the on-premises instance of Splunk Enterprise. A MID Server is not required if you are integrating your ServiceNow AI Platform instance with a Splunk Cloud instance.
+    This application facilitates communication and movement of data between the ServiceNow AI Platform and external applications, data sources, and services. This application is typically required for integration with on-premises technologies, and, for this Splunk Enterprise Event Ingestion integration, the MID Server facilitates communication between the ServiceNow AI Platform and the on-premises instance of Splunk Enterprise. A MID Server is not required if you are integrating your ServiceNow AI Platform instance with a Splunk Cloud instance.
 
 -   **Security incident admin \(sn\_si.admin\)**
 
@@ -67,7 +67,7 @@ The following key terms are used during the installation and configuration. For 
 
 ## External systems connection
 
-An event profile is a container that you create, name, and configure for a singular connection and call to the Splunk service to pull the most current triggered alerts that match specific criteria. After triggered alerts that match your profile have been pulled from Splunk, you select which of these alerts you want displayed as a ServiceNow AI Platform Security Incident Response SIR security incident. A default view of the Splunk Enterprise alert fields is available, and you edit this [[mapping-logrhythm|mapping]] of alert fields to the fields on a SIR security incident to meet your needs. You preview your mapping to verify that you have all the required alert field values populated on the SIR security incident. To complete the configuration of the alert profile, you schedule the retrieval of alerts and then activate the profile. After you activate the profile in the ServiceNow AI Platform, you are ready to ingest historical and on-going Splunk alerts automatically.
+An event profile is a container that you create, name, and configure for a singular connection and call to the Splunk service to pull the most current triggered alerts that match specific criteria. After triggered alerts that match your profile have been pulled from Splunk, you select which of these alerts you want displayed as a ServiceNow AI Platform Security Incident Response SIR security incident. A default view of the Splunk Enterprise alert fields is available, and you edit this mapping of alert fields to the fields on a SIR security incident to meet your needs. You preview your mapping to verify that you have all the required alert field values populated on the SIR security incident. To complete the configuration of the alert profile, you schedule the retrieval of alerts and then activate the profile. After you activate the profile in the ServiceNow AI Platform, you are ready to ingest historical and on-going Splunk alerts automatically.
 
 As a user with the sn\_si.admin role, if you determine that a new triggered alert is similar to alerts previously ingested, you can aggregate new triggered alerts to existing SIR security incidents. You set criteria to specify matching target field values in the Splunk Enterprise alert profile that define when an existing security incident is updated and when a new security incident is created. If the aggregation feature is enabled in your event profile, when the import set is transformed, your ServiceNow AI Platform instance checks for an existing record in the target table that has the same value in the target and source fields. If an existing record with a matching value in the target table is found, that record is updated. If no matching record is found, a new record is created in the target table. If enabled, the aggregation option updates existing security incidents with new triggered alerts, and you avoid creating multiple security incidents. For more information about updating records using aggregation options, see [Updating records using coalesce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/c_ImportSetCoalesce.md).
 
@@ -104,8 +104,3 @@ Use this checklist to guide you through all the tasks of the integration. The fo
 
 **Next topic:**[Copy Splunk Enterprise Event Ingestion profiles from one instance to another using export/import functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/export-and-import-splunk-event-profile-data.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]
-- [[data-sources|Data Sources]]
-- [[mapping-logrhythm|Mapping]]

@@ -14,11 +14,11 @@ breadcrumb: [Exploring Metric Intelligence, Metric Intelligence, IT Operations M
 
 # Understanding Metric Intelligence
 
-Use [[operational-metrics|Metric Intelligence]] to identify and prevent potential service outages. Metric Intelligence, based on historical metric data, indicates anomalous behavior of CIs which events might not capture. Anomaly alerts can be promoted to regular IT alerts and appear on the [[workspace-dashboard-use|Service Operations Workspace]] and service health dashboard for preventive actions.
+Use Metric Intelligence to identify and prevent potential service outages. Metric Intelligence, based on historical metric data, indicates anomalous behavior of CIs which events might not capture. Anomaly alerts can be promoted to regular IT alerts and appear on the Service Operations Workspace and service health dashboard for preventive actions.
 
 ## Anomaly detection
 
-Metric data is collected by various data sources such as SCOM, SolarWinds monitoring system, or Nagios XI server \(some partially configured for metric collection by default\). These monitoring systems collect metric data from the source environment regularly. Metric Intelligence captures the raw data from these monitoring systems, and uses [[create-event-rules|event rules]] and the CMDB identification engine to map data to existing CIs and their resources. The data is then analyzed to detect anomalies and to provide other statistical scores.
+Metric data is collected by various data sources such as SCOM, SolarWinds monitoring system, or Nagios XI server \(some partially configured for metric collection by default\). These monitoring systems collect metric data from the source environment regularly. Metric Intelligence captures the raw data from these monitoring systems, and uses event rules and the CMDB identification engine to map data to existing CIs and their resources. The data is then analyzed to detect anomalies and to provide other statistical scores.
 
 Metric Intelligence uses historical metric data to build statistical models. These models facilitate projection of expected metric values along with upper and lower bounds. Metric Intelligence then uses these projections to detect statistical outliers and to calculate anomaly scores. Anomalies are scored on a range of 0-10. High anomaly scores for CI metrics can indicate that a CI is at risk of causing a service outage.
 
@@ -111,7 +111,7 @@ The following statistical models and classifiers are used in anomaly detection:
 
         \[Omitted image "CenteredNoisyDataModel.png"\] Alt text: Centered noisy classifier
 
-        To retrieve alerts for metrics with this model, [[create-metric-rules|create metric rules]] for static bounds definitions. For details, see [Create metric rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-metric-rules.md).
+        To retrieve alerts for metrics with this model, create metric rules for static bounds definitions. For details, see [Create metric rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/metric-intelligence/create-metric-rules.md).
 
     -   **Skewed noisy**
 
@@ -237,9 +237,4 @@ The metric is not considered for the detected constant model.
 
     An add-on to the skewed noisy classifier. In this type of data, noise distribution is not symmetrical and does not fit any seasonal pattern. In addition, data reflects a heavy or long-tailed distribution. The MAD statistical model creates control bounds that better fit the data, and once learned, the control bounds persist until the next learning cycle. Using this model enhances the deciphering of data collection with approximately 30% greater efficiency.
 
-## Related
 
-- [[operational-metrics|Metric Intelligence]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[create-event-rules|Event rules]]
-- [[create-metric-rules|Create metric rules]]

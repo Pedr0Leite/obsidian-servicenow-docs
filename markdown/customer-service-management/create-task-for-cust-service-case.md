@@ -20,7 +20,7 @@ Role required: sn\_customerservice\_agent, sn\_customerservice\_manager, or admi
 
 ## About this task
 
-When you create a task, the system uses information from the case to automatically fill in fields on the [[csm-case-task-form|Case Task form]]. After you create and save a task, it appears in the **Tasks** related list on the [[r_CustomerServiceCaseForm|Case form]].
+When you create a task, the system uses information from the case to automatically fill in fields on the Case Task form. After you create and save a task, it appears in the **Tasks** related list on the Case form.
 
 ## Procedure
 
@@ -167,7 +167,4 @@ Customer-viewable comments. Each comment is inserted into the **Activity** field
 </td></tr></tbody>
 </table>4.  Click **Update**.
 
-## Related
 
-- [[csm-case-task-form|Case task form]]
-- [[r_CustomerServiceCaseForm|Case form]]

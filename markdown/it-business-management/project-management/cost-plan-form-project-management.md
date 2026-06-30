@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Project Management, Project Management r
 
 # Cost Plan form
 
-Learn about the fields of [[demand-plan-form|cost plan form]].
+Learn about the fields of cost plan form.
 
 <table id="table_mb3_rfw_1r"><thead><tr><th>
 
@@ -113,7 +113,7 @@ Investment
 
 Name of the investment created for the project.
 
- This field appears only if the legacy [[investment-funding-overview|Investment Funding]] \(com.snc.investment\_funding\) plugin is activated or the Investment Funding \(sn\_invst\_pln\) application is installed.
+ This field appears only if the legacy Investment Funding \(com.snc.investment\_funding\) plugin is activated or the Investment Funding \(sn\_invst\_pln\) application is installed.
 
 </td></tr><tr><td>
 
@@ -185,7 +185,3 @@ Sum of all actuals for past fiscal periods added to the functional cost for futu
 
 [Create a project cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateAProjectCostPlan.md)
 
-## Related
-
-- [[demand-plan-form|Cost plan form]]
-- [[investment-funding-overview|Investment Funding]]

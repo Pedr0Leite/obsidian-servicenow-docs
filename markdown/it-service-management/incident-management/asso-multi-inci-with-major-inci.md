@@ -22,7 +22,7 @@ Role required: itil, sn\_incident\_write, or admin
 
 ## About this task
 
-When a major incident occurs, there are usually multiple incidents created for the same issue and there might be multiple [[major-incidents-candidate|major incident candidates]] created for a single issue. All the incidents for a single issue can be associated with the appropriate major incident.
+When a major incident occurs, there are usually multiple incidents created for the same issue and there might be multiple major incident candidates created for a single issue. All the incidents for a single issue can be associated with the appropriate major incident.
 
 ## Procedure
 
@@ -45,6 +45,3 @@ When a major incident occurs, there are usually multiple incidents created for t
 
 **Parent Topic:**[Working on major incident management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/work-on-mim.md)
 
-## Related
-
-- [[major-incidents-candidate|Major incident candidates]]

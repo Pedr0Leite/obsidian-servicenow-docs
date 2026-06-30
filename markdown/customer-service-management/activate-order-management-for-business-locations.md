@@ -28,7 +28,7 @@ The following items are installed with Order Management for Business Locations:
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[personas-roles-and-tables-post-integration|Roles and responsibilities]].
+For more information, see [Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration.md).
 
 ## Procedure
 
@@ -48,9 +48,5 @@ For more information, see [[personas-roles-and-tables-post-integration|Roles and
 **Related topics**  
 
 
-[[order-managment-for-business-location|Order Management for business location]]
+[Order Management for business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/order-managment-for-business-location.md)
 
-## Related
-
-- [[personas-roles-and-tables-post-integration|Roles and responsibilities]]
-- [[order-managment-for-business-location|Order Management for business location]]

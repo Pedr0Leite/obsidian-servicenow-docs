@@ -14,7 +14,7 @@ breadcrumb: [Configuration Compliance imported data, Explore, Configuration Comp
 
 # Configuration Compliance correlation
 
-[[vr-config-compliance-landing|Configuration Compliance]] provides prioritization and test result grouping \(into remediation task\) to aid remediation of non-compliance issues.
+Configuration Compliance provides prioritization and test result grouping \(into remediation task\) to aid remediation of non-compliance issues.
 
 **Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
@@ -51,13 +51,13 @@ The **Result** value determines the state. We ignore remediation tasks in the **
 
 ## Remediation Tasks creation
 
-[[vuln-config-compl-remediation|Configuration Compliance Remediation]] Tasks are created manually.
+Configuration Compliance Remediation Tasks are created manually.
 
 There are two ways to create and populate **Remediation Tasks**.
 
 -   From the **Remediation Tasks** module and using filters that automatically populate the **Test Results** tab.
 
-    This way is good for when you know what filtering you want to use. For example, capturing all failed test results that are moderate and higher criticality, affect the windows-based [[threat-intelligence-infrastructure|infrastructure]], and apply only to the SAP supply chain application.
+    This way is good for when you know what filtering you want to use. For example, capturing all failed test results that are moderate and higher criticality, affect the windows-based infrastructure, and apply only to the SAP supply chain application.
 
 -   By selecting test results in the **Test Results** list and creating a remediation task from the **Actions on selected rows...** menu.
 
@@ -70,8 +70,3 @@ There are two ways to create and populate **Remediation Tasks**.
 
 **Ungrouped Test Results** contain all non-pass test results that are not members of an active \(non-**Closed**\) remediation task. This module is updated after every import and whenever test results are added or removed from a remediation task.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-config-compl-remediation|Configuration Compliance remediation]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

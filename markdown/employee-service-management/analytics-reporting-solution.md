@@ -12,21 +12,14 @@ breadcrumb: [Workplace Move Management, Workplace Service Delivery, Employee Ser
 
 # Analytics and reporting solutions for Workplace Move Management
 
-Raise a move request on behalf of an employee, [[update-move-request-workplace-service|update a move request workplace service]] or a move-related workplace record producer, or [[create-move-related-kb-article|create a move-related knowledge base article]] with Workplace Move Management
+Raise a move request on behalf of an employee, update a move request workplace service or a move-related workplace record producer, or create a move-related knowledge base article with Workplace Move Management
 
 Create, update, or raise a move request on behalf of an employee.
 
--   **[[view-move-requests|View move requests]]**  
+-   **[View move requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/view-move-requests.md)**  
 Monitor the move requests that are assigned to you, the requests that are currently open, and all the other requests that are created in the application.
--   **[[view-move-tasks|View move tasks]]**  
+-   **[View move tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/view-move-tasks.md)**  
 Monitor the move-related tasks that are created in the application to fulfill a move request. View the move tasks assigned to you, the tasks that are currently open, and all the move tasks created in the application.
 
-**Parent Topic:**[[workplace-move-mgmt-overview|Workplace Move Management]]
+**Parent Topic:**[Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-move-mgmt-overview.md)
 
-## Related
-
-- [[view-move-requests|View move requests]]
-- [[view-move-tasks|View move tasks]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[update-move-request-workplace-service|Update a move request workplace service]]
-- [[create-move-related-kb-article|Create a move-related knowledge base article]]

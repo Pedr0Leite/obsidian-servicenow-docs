@@ -14,7 +14,7 @@ breadcrumb: [Reference, Vaccine Administration Management, Healthcare and Life S
 
 # Integration with Healthcare and Life Sciences Service Management Core
 
-[[hcls-vam|Vaccine Administration Management]] is integrated with the ServiceNow® [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] application, enabling capabilities such as synchronization of some records across applications and services, and vaccination history that patient users can view.
+Vaccine Administration Management is integrated with the ServiceNow® Healthcare and Life Sciences Service Management Core application, enabling capabilities such as synchronization of some records across applications and services, and vaccination history that patient users can view.
 
 Vaccine Administration Management relies on the Healthcare and Life Sciences Service Management Core application to create or link to existing patient, consumer, and immunization records. Integration with Healthcare and Life Sciences Service Management Core uses the following tables:
 
@@ -32,7 +32,3 @@ Integration with Healthcare and Life Sciences Service Management Core also adds 
 
 [Immunization table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-and-life-sciences-service-management-core/hcls-immunization-table.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

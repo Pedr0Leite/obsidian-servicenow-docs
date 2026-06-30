@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Create a work item queue
 
-Define or change a queue so that you can determine which [[awa-work-items|work items]] are routed automatically to agents through a given service channel.
+Define or change a queue so that you can determine which work items are routed automatically to agents through a given service channel.
 
 ## Before you begin
 
@@ -28,14 +28,14 @@ Depending on the service channel, additional configuration options are available
 
 1.  Navigate to the queue settings through one of the following navigation paths:
 
-    -   **All** &gt; **[[awa-application-landing-page|Advanced Work Assignment]]** &gt; **Home**.
+    -   **All** &gt; **Advanced Work Assignment** &gt; **Home**.
 
         In the Essential settings section, select **Set up queues**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Queues**.
 2.  Choose a situation.
 
-    -   To [[skills-example-queue|create a queue]], select **New**.
+    -   To create a queue, select **New**.
     -   To change a queue, select the queue record to be updated.
 3.  On the form, fill in the fields.
 
@@ -198,8 +198,3 @@ Maximum amount of time that all available agents have to accept or reject a chat
 -   Optionally, define the [**Queue Triggers**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-create-queue-triggers.md).
 -   Optionally, define the [**Set Agent Affinity rules**](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/advanced-work-assignment/awa-set-agent-affinity-for-queue.md).
 
-## Related
-
-- [[awa-work-items|Work items]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[skills-example-queue|Create a queue]]

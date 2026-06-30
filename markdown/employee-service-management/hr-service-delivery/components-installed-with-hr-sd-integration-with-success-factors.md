@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with SuccessFactors, Int
 
 # Components installed with HR Service Delivery Integration with SuccessFactors
 
-Several types of components are installed with activation of the [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]] application, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with SuccessFactors application, including tables and user roles.
 
 ## Roles installed
 
@@ -38,7 +38,7 @@ SuccessFactors Admin\[sn\_hr\_sf.admin\]
 
 -   Can access all features and capabilities of HR Service Delivery Integration with SuccessFactors application.
 
--   Can [[config-w-sync|configure worker profile settings]].
+-   Can configure worker profile settings.
 
 </td><td>
 
@@ -66,12 +66,7 @@ Pulls data from SuccessFactors to ServiceNow. By default the flow is in inactive
 </td></tr></tbody>
 </table>## Tables installed
 
-The tables required for HR Service Delivery Integration with SuccessFactors are obtained from the [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]. The tables get auto-installed with the Enterprise Service Management Integrations Framework installation when you activate the HR Service Delivery Integration with SuccessFactors application. For more information, see [Components installed with Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-hr-int-fra.md).
+The tables required for HR Service Delivery Integration with SuccessFactors are obtained from the Enterprise Service Management Integrations Framework. The tables get auto-installed with the Enterprise Service Management Integrations Framework installation when you activate the HR Service Delivery Integration with SuccessFactors application. For more information, see [Components installed with Enterprise Service Management Integrations Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/installed-with-hr-int-fra.md).
 
 **Parent Topic:**[HR Service Delivery Integration with SuccessFactors reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery-integration-with-success-factors-reference.md)
 
-## Related
-
-- [[hr-service-delivery-integration-success-factors|HR Service Delivery Integration with SuccessFactors]]
-- [[config-w-sync|Configure worker profile settings]]
-- [[hr-integrations-framework|Enterprise Service Management Integrations Framework]]

@@ -14,7 +14,7 @@ breadcrumb: [Migration job, Migration Utility, Configuring Problem Management, P
 
 # Resolve blocking modifications
 
-Blocking [[migration-utility-modification|modifications]] that are detected in your instance are not compatible with the problem state model and you must resolve them before you activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model plugin.
+Blocking modifications that are detected in your instance are not compatible with the problem state model and you must resolve them before you activate the Problem Management Best Practice — Madrid — State Model plugin.
 
 ## Before you begin
 
@@ -33,7 +33,3 @@ Role required: admin
 
 [Review warning modifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/review-warning-modifications.md).
 
-## Related
-
-- [[migration-utility-modification|Modifications]]
-- [[c_ProblemManagement|Problem Management]]

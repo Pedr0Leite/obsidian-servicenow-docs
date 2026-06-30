@@ -26,11 +26,11 @@ Instead of using the default template, you can create a questionnaire template f
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Privacy Case Management** &gt; **[[airc-assessment-templates|Assessment Templates]]**.
+1.  Navigate to **All** &gt; **Privacy Case Management** &gt; **Assessment Templates**.
 
 2.  Select **New**.
 
-3.  On the [[new-assessment-reference|Assessment Metric Type form]], fill in the fields.
+3.  On the Assessment Metric Type form, fill in the fields.
 
     For a description of the field values on the Assessment Metric Type form, see [Assessment metric type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/prm-assessment-metric-form.md).
 
@@ -46,7 +46,3 @@ Use the Assessment Metric Type form to create an assessment questionnaire templa
 
 **Parent Topic:**[Configuring Privacy Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-privacy-case-management.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[new-assessment-reference|Assessment Metric Type form]]

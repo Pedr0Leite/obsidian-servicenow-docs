@@ -14,7 +14,7 @@ breadcrumb: [Using Design &amp; Assign Network, Use, Telecommunications Network 
 
 # Create a change request from Network Inventory Workspace
 
-Create, review, update, or close a change request for a change model from the [[exploring-network-inventory-workspace|network inventory workspace]] of the [[telecom-network-inventory|Telecommunications Network Inventory]] application. You can also analyze the instantiation details of the network instance.
+Create, review, update, or close a change request for a change model from the network inventory workspace of the Telecommunications Network Inventory application. You can also analyze the instantiation details of the network instance.
 
 ## Before you begin
 
@@ -96,7 +96,3 @@ For more information, see [Create and execute a change task](https://raw.githubu
 
 **Parent Topic:**[Instantiating your network inventory by using design and assign](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/instantiate-asset-using-template-relationship-model.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

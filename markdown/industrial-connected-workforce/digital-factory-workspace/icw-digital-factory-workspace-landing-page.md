@@ -35,11 +35,11 @@ Digital Factory Workspace helps standardize processes and improve efficiency on 
 [Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Digital Factory Workspace components such as forms, fields, roles, and properties.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)
 
 </td></tr></tbody>
-</table>Digital Factory Workspace acts as a centralized operational hub for Industrial Connected Workforce ICW, which enables operators and equipment owners to manage deviations, breakdowns, actions, and [[industrial-root-cause-analysis|root cause analysis]] through structured task flows. Digital Factory Workspace enables you to use access and use:
+</table>Digital Factory Workspace acts as a centralized operational hub for Industrial Connected Workforce ICW, which enables operators and equipment owners to manage deviations, breakdowns, actions, and root cause analysis through structured task flows. Digital Factory Workspace enables you to use access and use:
 
 -   Standards hub for governing operational standards
--   [[operational-equipment-model|Operational Equipment Model]] for managing ISA-95 hierarchies
--   [[industrial-materials|Industrial Materials]] for organizing material classes
+-   Operational Equipment Model for managing ISA-95 hierarchies
+-   Industrial Materials for organizing material classes
 -   Manufacturing Standards, Industrial Guided Tasks, and knowledge articles across the shop floor environment.
 
 -   **[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)**  
@@ -51,11 +51,5 @@ Use the Digital Factory Workspace to manage your Industrial Connected Workforce 
 -   **[Digital Factory Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/digital-factory-workspace-reference.md)**  
 Reference topics provide additional information about Digital Factory Workspace.
 
-**Parent Topic:**[[industrial-connected-workforce-overview|Industrial Connected Workforce]]
+**Parent Topic:**[Industrial Connected Workforce](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-overview.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[operational-equipment-model|Operational Equipment Model]]
-- [[industrial-materials|Industrial Materials]]

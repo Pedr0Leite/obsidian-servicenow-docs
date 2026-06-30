@@ -14,7 +14,7 @@ breadcrumb: [VA feature support in Slack conversations, Conversational Integrati
 
 # Unsupported Virtual Agent features in Slack
 
-Refer to the unsupported features of [[virtual-agent-landing-page|Virtual Agent]] in [[mssg-slack|Conversational Integration with Slack]].
+Refer to the unsupported features of Virtual Agent in Conversational Integration with Slack.
 
 ## Unsupported features
 
@@ -25,7 +25,3 @@ Virtual Agent does not support the following functionalities during a conversati
 
 **Parent Topic:**[Virtual Agent features supported in Slack conversations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-slack-other-features.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-slack|Conversational Integration with Slack]]

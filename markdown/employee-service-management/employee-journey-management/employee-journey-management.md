@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery, Employee Service Management]
 
 # Employee Journey Management
 
-Employee Journey Management integrates [[hr-service-delivery|HR Service Delivery]] features and applications to enable employees, managers, and the organization to initiate and manage journeys to drive employee engagement and productivity. There are several applications, plugins, integrations, and features that are available for Employee Journey Management.
+Employee Journey Management integrates HR Service Delivery features and applications to enable employees, managers, and the organization to initiate and manage journeys to drive employee engagement and productivity. There are several applications, plugins, integrations, and features that are available for Employee Journey Management.
 
 ## Get started
 
@@ -24,11 +24,11 @@ Employee Journey Management integrates [[hr-service-delivery|HR Service Delivery
 
 </td><td>
 
-[Journey Accelerator\[Omitted image "bus-rocketship.svg"\] Alt text:Use [[journey-accelerator-1|Journey Accelerator]] to create personalized journey plans for key employee transitions.]()
+[Journey Accelerator\[Omitted image "bus-rocketship.svg"\] Alt text:Use Journey Accelerator to create personalized journey plans for key employee transitions.]()
 
 </td><td>
 
-[Lifecycle Events\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Use [[hr-lifecycle-events-landing-page-1|Lifecycle Events]] to automate complex processes across the enterprise and create great employee experiences during moments that matter.]()
+[Lifecycle Events\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Use Lifecycle Events to automate complex processes across the enterprise and create great employee experiences during moments that matter.]()
 
 </td></tr></tbody>
 </table>## Additional resources
@@ -39,8 +39,3 @@ Employee Journey Management integrates [[hr-service-delivery|HR Service Delivery
 -   Find useful resources related to your role and explore best practices at the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Connect with other Customer Service Management users at [Now Community](https://www.servicenow.com/community/).
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

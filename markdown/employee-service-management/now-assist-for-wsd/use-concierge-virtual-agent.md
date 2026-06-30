@@ -14,7 +14,7 @@ breadcrumb: [Workplace Concierge agentic workflow, Using AI agent workflows in N
 
 # Use Workplace Concierge with Now Assist in Virtual Agent
 
-Invoke [[workplace-concierge-feat|Workplace Concierge]] from Now Assist in Virtual Agent to invite visitors to your organization.
+Invoke Workplace Concierge from Now Assist in Virtual Agent to invite visitors to your organization.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_core.workplace\_user and now\_assist\_panel\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  From the Employee Center portal home page, select the Now Assist in Virtual Agent chat interface.
 
@@ -53,7 +53,3 @@ If Workplace Concierge is included in any emails that are sent to the visitors, 
 
 **Parent Topic:**[Workplace Concierge agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-wsd/workplace-concierge-ai-agent.md)
 
-## Related
-
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[employee-center-landing-page|Employee Center]]

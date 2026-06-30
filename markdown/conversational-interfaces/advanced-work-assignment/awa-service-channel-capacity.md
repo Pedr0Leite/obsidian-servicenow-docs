@@ -14,9 +14,9 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Service channel capacity and utilization
 
-In [[awa-application-landing-page|Advanced Work Assignment]], capacity is the number of [[awa-work-items|work items]] automatically assigned to agents supporting a service channel. Utilization is the condition that identifies the work item states supported in the channel.
+In Advanced Work Assignment, capacity is the number of work items automatically assigned to agents supporting a service channel. Utilization is the condition that identifies the work item states supported in the channel.
 
-Agents have an assigned capacity for each service channel. This capacity is based on the default capacity set for the channel. The agent capacity for one service channel \(for example, chat\) does not interfere with the capacity on other [[awa-service-channels|service channels]] \(for example, case or incident\). Admins can set the **Default capacity** for a channel on the Service Channel form. This setting applies to all agents supporting the channel.
+Agents have an assigned capacity for each service channel. This capacity is based on the default capacity set for the channel. The agent capacity for one service channel \(for example, chat\) does not interfere with the capacity on other service channels \(for example, case or incident\). Admins can set the **Default capacity** for a channel on the Service Channel form. This setting applies to all agents supporting the channel.
 
 Managers can override the default capacity for:
 
@@ -25,8 +25,3 @@ Managers can override the default capacity for:
 
 If an agent already has a capacity override, setting the override again updates the existing capacity for that agent. Override capacity is stored in the Agent Capacity \(awa\_agent\_capacity\) table.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[awa-service-channels|Service channels]]

@@ -14,7 +14,7 @@ breadcrumb: [Employee Center Pro, Unified Employee Experience, Employee Service 
 
 # Configuring Employee Center Pro
 
-Guidance for setting up [[employee-center-pro-landing|Employee Center Pro]].
+Guidance for setting up Employee Center Pro.
 
 In the links below, Employee Center Pro features are organized into categories, each with its own landing page to help guide users through the configuration process.
 
@@ -24,7 +24,7 @@ In the links below, Employee Center Pro features are organized into categories, 
 
 -   [Browse experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-browse-experience.md)
 
-    Make it easy for employees to navigate the portal and [[discover-lxp|discover]] content.
+    Make it easy for employees to navigate the portal and discover content.
 
 -   [Search experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-search-experience.md)
 
@@ -54,7 +54,3 @@ In the links below, Employee Center Pro features are organized into categories, 
 
 [Employee Center for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/zoom-ec-create-app.md)
 
-## Related
-
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[discover-lxp|Discover]]

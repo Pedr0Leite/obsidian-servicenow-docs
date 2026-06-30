@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Create work orders for a selected asset on a mobile device
 
-Create a work order for an asset through the [[wot-fsc|Field Service Contractor for mobile]] application.
+Create a work order for an asset through the Field Service Contractor for mobile application.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: wm\_ext\_agent or wm\_ext\_manager
 
 A work order is created for a selected asset or review the related work history.
 
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]

@@ -16,9 +16,9 @@ breadcrumb: [Translating with Dynamic Translation, Dynamic Translation, Translat
 
 The ServiceNow Language Detection Service spoke is an in-house language detection service offered by the ServiceNow platform. It provides a single subflow and action to identify the language of a given text.
 
-The ServiceNow Language Detection Service spoke plugin \(com.glide.language\_detection\_spoke\) is available with the activation of [[dynamic-translation|Dynamic Translation]] plugin \(com.glide.dynamic\_translation\).
+The ServiceNow Language Detection Service spoke plugin \(com.glide.language\_detection\_spoke\) is available with the activation of Dynamic Translation plugin \(com.glide.dynamic\_translation\).
 
-This spoke creates an entry named ServiceNow in Dynamic Translation's Translator [[clone-configurations-tab|Configurations]] \(sn\_dt\_translator\_configuration\) table. By default, this entry is active and marked as default for detection. To configure your own language detection service, see [Integration with other translation services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md).
+This spoke creates an entry named ServiceNow in Dynamic Translation's Translator Configurations \(sn\_dt\_translator\_configuration\) table. By default, this entry is active and marked as default for detection. To configure your own language detection service, see [Integration with other translation services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/integration-with-other-translation-services.md).
 
 ## Subscription
 
@@ -85,7 +85,3 @@ Detects the languages of texts using ServiceNow Language Detection Service. The 
 
 For more information, see [DynamicTranslation API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation/dyn-translation-apis.md).
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[clone-configurations-tab|Configurations]]

@@ -44,18 +44,12 @@ The relationship between product offerings and the product, service, and resourc
 
 -   **[https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-characteristics.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-characteristics.md)**  
 
--   **[[create-specification-characteristic|Create specification characteristics]]**  
+-   **[Create specification characteristics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-specification-characteristic.md)**  
 Define characteristics for a product, service, or resource specification.
 -   **[https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-specification-rels.md](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-specification-rels.md)**  
 
--   **[[som-specification-version-update|Updating specification versions]]**  
-Enterprises frequently create and update new versions of product and service specifications. When these changes occur, it's important to update the existing product specification in ServiceNow®. Failure to update the product specifications can lead to difficulties with MACD \([[Modify|Modify]], Add, Change, Delete\) operation when orders enter fulfillment.
+-   **[Updating specification versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-specification-version-update.md)**  
+Enterprises frequently create and update new versions of product and service specifications. When these changes occur, it's important to update the existing product specification in ServiceNow®. Failure to update the product specifications can lead to difficulties with MACD \(Modify, Add, Change, Delete\) operation when orders enter fulfillment.
 
-**Parent Topic:**[[som-managing-product-catalogs|Configuring product offerings and catalogs]]
+**Parent Topic:**[Configuring product offerings and catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-managing-product-catalogs.md)
 
-## Related
-
-- [[create-specification-characteristic|Create specification characteristics]]
-- [[som-specification-version-update|Updating specification versions]]
-- [[som-managing-product-catalogs|Configuring product offerings and catalogs]]
-- [[Modify|Modify]]

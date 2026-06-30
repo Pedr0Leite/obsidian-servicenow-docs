@@ -31,7 +31,7 @@ View data such as how many new users you have, how many never returned, and how 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **[[user-exp-analytics-landing|Usage Insights]]**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Usage Insights**.
 
 2.  Choose the application that you want to review retention for from the **All Applications** list.
 
@@ -83,7 +83,3 @@ For example, a cohort has defined two similar login actions. If a user logged in
 
 When filtering by application versions, the analysis shows only the users who performed their first action from the selected version.
 
-## Related
-
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[user-exp-analytics-landing|Usage Insights]]

@@ -14,7 +14,7 @@ breadcrumb: [Proactive Triggers reference, Proactive Triggers, Manage people and
 
 # Proactive Rule form
 
-When creating a [[proactive-triggers-landing-page|Proactive Triggers]] rule, the Proactive Rule form includes the following fields.
+When creating a Proactive Triggers rule, the Proactive Rule form includes the following fields.
 
 <table id="table_fdr_hvz_5vb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Type
 
 </td><td>
 
-Proactive Triggers conversation type for end users. Choices are:-   [[virtual-agent-landing-page|Virtual Agent]]
+Proactive Triggers conversation type for end users. Choices are:-   Virtual Agent
 
 Rules are triggered when the Virtual Agent is available.
 
@@ -165,7 +165,3 @@ Option to check for any available live agents.
 </td></tr></tbody>
 </table>**Parent Topic:**[Proactive Triggers reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/product-support-for-technology/proactive-triggers-reference.md)
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]
-- [[virtual-agent-landing-page|Virtual Agent]]

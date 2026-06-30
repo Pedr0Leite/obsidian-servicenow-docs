@@ -14,7 +14,7 @@ breadcrumb: [Function catalog, Reference, Telecommunications Network Inventory]
 
 # Allocate Free Number function
 
-The Allocate Free Number function enables you to assign free numbers from the [[telecom-network-inventory|Telecommunications Network Inventory]] number record. You use this function to allocate a quantity of numbers from a specified range to add against the configuration item \(CI\) in a number element.
+The Allocate Free Number function enables you to assign free numbers from the Telecommunications Network Inventory number record. You use this function to allocate a quantity of numbers from a specified range to add against the configuration item \(CI\) in a number element.
 
 You use the Allocate Free Number function to do the following actions:
 
@@ -153,6 +153,3 @@ Consider that a VLAN has 1–4096 as the number range and 1–1000, 1001–2500,
 
 [Path Search function]()
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

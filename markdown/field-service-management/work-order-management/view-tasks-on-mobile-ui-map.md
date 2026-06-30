@@ -54,7 +54,7 @@ All assigned tasks are displayed by default. Disable the switch to hide assigned
 
 </td><td>
 
-Displays your current position on the map with the [[c_AgentLocation|agent location]] icon. Disable the switch to remove this icon from the map.If the system cannot locate you automatically by mobile device, it uses the location of a continuing task or the home office.
+Displays your current position on the map with the agent location icon. Disable the switch to remove this icon from the map.If the system cannot locate you automatically by mobile device, it uses the location of a continuing task or the home office.
 
 </td></tr><tr><td id="d137099e131">
 
@@ -75,6 +75,4 @@ All unassigned tasks are displayed by default. Disable the switch to hide unassi
 </td></tr></tbody>
 </table>4.  Click **Save** and then click the left arrow to return to the map.
 
-## Related
 
-- [[c_AgentLocation|Agent location]]

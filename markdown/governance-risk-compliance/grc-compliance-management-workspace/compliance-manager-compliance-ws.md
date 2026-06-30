@@ -48,14 +48,9 @@ To help the compliance manager attend to tasks that need immediate action, the c
 
 ## Other GRC plugins for an overall view
 
-As the compliance manager requires an overall view of all compliance tasks, they can view the [[privacy-management|privacy management]] and [[reg-change-mgmt-landing-page|regulatory change management]] application domains as well in the compliance manager home page. However, you require the following plugins to be installed for certain widgets to be displayed on the home page.
+As the compliance manager requires an overall view of all compliance tasks, they can view the privacy management and regulatory change management application domains as well in the compliance manager home page. However, you require the following plugins to be installed for certain widgets to be displayed on the home page.
 
--   GRC: [[c_GRCAudits|Audit Management]] for the control tests widget in the Control assurance section.
+-   GRC: Audit Management for the control tests widget in the Control assurance section.
 -   GRC: Regulatory Change Management for the Regulatory changes widget in the Tracking section. The logged in user must also have the RCM manager role \(sn\_grc\_reg\_change.manager\).
 -   GRC: Privacy Management for the Domain compliance status section. The logged in user must also have a privacy manager role \(sn\_privacy.manager\).
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[c_GRCAudits|Audit Management]]

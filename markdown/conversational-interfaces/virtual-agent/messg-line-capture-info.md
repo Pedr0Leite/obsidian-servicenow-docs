@@ -14,7 +14,7 @@ breadcrumb: [Configure, Conversational Integration with LINE, Integrate VA with 
 
 # Capturing information from a user in a LINE chat conversation
 
-Use the collection of input controls provided by the [[virtual-agent-landing-page|Virtual Agent]] Designer to prompt and capture information from the user in a LINE chat conversation.
+Use the collection of input controls provided by the Virtual Agent Designer to prompt and capture information from the user in a LINE chat conversation.
 
 Virtual Agent Designer is a diagram tool for creating and managing topics, which are blueprints for conversations between a virtual agent and user. For more information, see [Using Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md).
 
@@ -29,7 +29,7 @@ There are two ways for users to grant consent to receive notifications:
 
 ## User input controls
 
-The [[messg-line|Conversational Integration with LINE]] application supports the following user input controls in Virtual Agent Designer.
+The Conversational Integration with LINE application supports the following user input controls in Virtual Agent Designer.
 
 <table id="table_fq2_gqz_2mb"><thead><tr><th>
 
@@ -105,7 +105,3 @@ The Conversational Integration with LINE application supports the following bot 
 
 For more information about configuring bot responses, see [Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[messg-line|Conversational Integration with LINE]]

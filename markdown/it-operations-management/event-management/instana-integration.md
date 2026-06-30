@@ -14,7 +14,7 @@ breadcrumb: [Integrate with push connectors, Configure a push connector, Configu
 
 # Integrate Instana events
 
-Integrate Instana with [[c_EM|Event Management]] by adding Instana as an authenticated data source.
+Integrate Instana with Event Management by adding Instana as an authenticated data source.
 
 ## What authentication is used
 
@@ -30,6 +30,3 @@ Integrate Instana with Event Management with ServiceNow using OAuth authenticati
 
 **Parent Topic:**[Integrate with push connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/configure-listener-transform-script.md)
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Create remote catalogs, Configure for providers, Service Exchange f
 
 # Create a consumer criteria
 
-Using consumer criteria associated with record producers and other configurations, [[tmt-service-bridge-both-landing-page|Service Exchange]] automatically generates the entitlement records that are replicated to eligible consumer instances.
+Using consumer criteria associated with record producers and other configurations, Service Exchange automatically generates the entitlement records that are replicated to eligible consumer instances.
 
 ## Before you begin
 
@@ -51,7 +51,7 @@ From the list, select an existing condition.
 1.  In the Entity Criteria popup, select **New**.
 2.  On the Consumer criteria new record form, fill in the fields.
 
-For a description of the field values, see [[service-bridge-v2-consumer-criteria-new-record-form|Consumer criteria record form]].
+For a description of the field values, see [Consumer criteria record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-consumer-criteria-new-record-form.md).
 
 3.  Select **Submit.**
 4.  From the criteria list, select your criteria.
@@ -75,7 +75,3 @@ This consumer criteria entitles content to Service Exchange consumers that have 
 
 \[Omitted image "service-bridge-v2-consum-crit-ex3.jpg"\] Alt text: Consumer criteria configuration example 3
 
-## Related
-
-- [[service-bridge-v2-consumer-criteria-new-record-form|Consumer criteria record form]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

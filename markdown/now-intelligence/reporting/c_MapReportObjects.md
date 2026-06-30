@@ -20,7 +20,7 @@ Each map report contains a map source hierarchy, which configures the data for a
 
 **Note:** A set of predefined map sources and maps are available by default. Use these predefined objects whenever possible. If you need a map source that does not exist, generate it automatically using **Generate map source levels** link on the map source form, then customize it.You can automatically generate map source levels only for map sources that reference the location table. These map sources have a field that ends in `.location`.
 
-\[Omitted image "MapArchitecture.png"\] Alt text: Architecture of objects used in [[c_MapReport|map reports]].
+\[Omitted image "MapArchitecture.png"\] Alt text: Architecture of objects used in map reports.
 
 <table id="table_dsl_3tv_y5"><thead><tr><th>
 
@@ -72,6 +72,3 @@ Transform the data in a map source to a value that can be displayed on a map. Ma
 
 [Create a map]()
 
-## Related
-
-- [[c_MapReport|Map reports]]

@@ -267,7 +267,7 @@ External risk type
 </td><td>
 
 -   **Credit**: Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations. For example, when lenders offer credit cards, or loans, there's a risk that the borrower might not repay the loan.
--   **Market**: Market risk is the possibility of an investor incurring losses due to [[factors|factors]] that affect the performance of the financial markets in which the investor is involved. For example, a recession might impact the entire market.
+-   **Market**: Market risk is the possibility of an investor incurring losses due to factors that affect the performance of the financial markets in which the investor is involved. For example, a recession might impact the entire market.
 
 
 </td></tr><tr><td>
@@ -474,6 +474,3 @@ Option to provide work notes for reference. Work notes are not visible to the ri
 
 **Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)
 
-## Related
-
-- [[factors|factors]]

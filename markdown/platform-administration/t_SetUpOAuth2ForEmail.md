@@ -45,7 +45,7 @@ Setting up OAuth 2.0 for email requires you to obtain access and refresh tokens 
 
 8.  Click **Submit**.
 
-9.  Navigate to **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+9.  Navigate to **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
     **Note:** Port and Connection Security information is provided by the provider.
 
@@ -59,7 +59,7 @@ Setting up OAuth 2.0 for email requires you to obtain access and refresh tokens 
 
 12. Click **New**.
 
-13. [[t_ConfigureAnEmailAccount|Create an email account]] record for your OAuth 2.0 SMTP server where the **Type** is **SMTP**.
+13. Create an email account record for your OAuth 2.0 SMTP server where the **Type** is **SMTP**.
 
 14. For **Authentication**, select **OAuth 2.0**.
 
@@ -80,11 +80,5 @@ Setting up OAuth 2.0 for email requires you to obtain access and refresh tokens 
     Use the same **Authentication** and **OAuth profile** settings as the OAuth SMTP email account.
 
 
-**Parent Topic:**[[c_OAuthEmailAuthentication|OAuth email authentication]]
+**Parent Topic:**[OAuth email authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_OAuthEmailAuthentication.md)
 
-## Related
-
-- [[c_OAuthEmailAuthentication|OAuth email authentication]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]

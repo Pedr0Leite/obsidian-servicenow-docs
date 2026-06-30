@@ -18,7 +18,7 @@ Map individual alert fields from triggered alerts to fields on a ServiceNow AI P
 
 ## Alert field mapping
 
-As a user with the sn\_si.admin role, use the fields from the Sample Alerts section on the left and map them to the security incident fields in the SIR Incident Field [[mapping-logrhythm|Mapping]] column on the right panel. Edit the mapping configuration by dragging alert fields from the left side and dropping them on the SIR incident mapping section on the right. The mapping on the right associates the incoming alert field with an outgoing security incident field.
+As a user with the sn\_si.admin role, use the fields from the Sample Alerts section on the left and map them to the security incident fields in the SIR Incident Field Mapping column on the right panel. Edit the mapping configuration by dragging alert fields from the left side and dropping them on the SIR incident mapping section on the right. The mapping on the right associates the incoming alert field with an outgoing security incident field.
 
 1.  After you have fetched the sample data, the next step is map the alert fields to the security incident. To map a field value from the left side of the form to a field on the security incident on the right side of the form, click-hold a blue field name on the left side of the form.
 2.  Drag the field name, for example, `category`, and drop it on a field in the Input Expression column next to a field name in the Security Incident column.
@@ -36,7 +36,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Alerts sect
     **Note:**
 
     1.  To manually enter a value in the Input Expression field, enter it in the format $\{fieldname\}$. The alert field will be mapped to the security incident field.
-    2.  You cannot map ingested alerts to the MITRE-ATT&amp;CK Framework fields in the security incident mapping section. If you still map the fields, the information will not be available as part of the MITRE-ATT&amp;CK card in the MITRE-ATT&amp;CK framework section in the security incident form. To associate the MITRE-ATT&amp;CK Techniques, use the [[auto-extract-technique-rules|Auto Extraction Feature]] available as part of the MITRE-ATT&amp;CK Framework in the [[threat-intel-landing-page|Threat Intelligence]] Module.
+    2.  You cannot map ingested alerts to the MITRE-ATT&amp;CK Framework fields in the security incident mapping section. If you still map the fields, the information will not be available as part of the MITRE-ATT&amp;CK card in the MITRE-ATT&amp;CK framework section in the security incident form. To associate the MITRE-ATT&amp;CK Techniques, use the [Auto Extraction Feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/auto-extract-technique-rules.md) available as part of the MITRE-ATT&amp;CK Framework in the Threat Intelligence Module.
 3.  To add fields to the default fields displayed on the security incident on the right side of the form, follow these steps.
     1.  On the right of the form in the SIR Incident Field Mapping section, at the bottom of the grid, select the plus \(+\) icon. A new field is displayed.
     2.  In the Security Incident column, expand the choice list that is displayed, and select a field.
@@ -45,7 +45,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Alerts sect
 
         \[Omitted image "ms-graph-create-profile-4.png"\] Alt text: Microsoft Graph Security API: mapping and color coding
 
-        **Note:** As multiple [[c_Observables|observables]] can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
+        **Note:** As multiple observables can be displayed on the same security incident, the Observable field can be mapped multiple times with different values. Similarly, the Configuration Item and Work notes fields support multiple values. If you try to map two values to a field that cannot support multiple values, when you preview the incident, an error message is displayed that there is no value for the field. Similarly, if a field on a security incident has a choice list from which you can choose multiple options, and you try to map an option to that field that is not displayed on the choice list, the field is not populated on the security incident.
 
     3.  Alternatively, type a value in the Search field for the new row.
     4.  From the left side of the form, left-click to select the Alert ID that you want in the Input Expression field. With the drag-and-drop feature, map it next to your new field.
@@ -54,7 +54,7 @@ As a user with the sn\_si.admin role, use the fields from the Sample Alerts sect
 
 ## Format field translation
 
-In certain cases, alert field values in Microsoft Graph Security API may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, a category value of [[threat-intelligence-malware|Malware]] Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
+In certain cases, alert field values in Microsoft Graph Security API may not translate directly to the fields on the SIR security incident. For these values, you can use a script editor to format field values on the security incident during the mapping step. Use the script editor if you want to format values that are similar, but not identical. For example, with the script editor, a category value of Malware Alert and Virus Infection may have different field values for the source category but both values can be translated to a common Malicious Code Activity in the Category field on the SIR security incident using the Format Field Translation functionality.
 
 To use the script editor, click the \{\} icon. The script editor is displayed.
 
@@ -96,10 +96,3 @@ Define additional alert aggregation criteria that aggregates an incoming alert t
 
 4.  Click **Continue** to continue with the profile configuration. The next step is to preview the fields you mapped on a SIR security incident
 
-## Related
-
-- [[auto-extract-technique-rules|Auto-extract technique rules for importing MITRE-ATT&amp;CK information]]
-- [[mapping-logrhythm|Mapping]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-malware|Malware]]

@@ -78,8 +78,5 @@ External Roles
 **Related topics**  
 
 
-[[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]]
+[Roles installed with Public Sector Digital Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/roles-installed-with-public-sector-digital-services.md)
 
-## Related
-
-- [[roles-installed-with-public-sector-digital-services|Roles installed with Public Sector Digital Services]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring the Scope 3 dashboard, Configure, Operational Sustainab
 
 # Create an emission category type
 
-Create emission category types to define the categories for which you want to report scope 3 data that will be displayed on the [[scope-3-dashboard|Scope 3 dashboard]].
+Create emission category types to define the categories for which you want to report scope 3 data that will be displayed on the Scope 3 dashboard.
 
 ## Before you begin
 
@@ -67,16 +67,11 @@ EEIO emission activity
 
 </td><td>
 
-EEIO emission activity associated with the category type. The selection made in this field helps in the calculation of the emissions. **Note:** You must activate the emission activities from the [[esg-content-accelerator|Unified content management]] application.
+EEIO emission activity associated with the category type. The selection made in this field helps in the calculation of the emissions. **Note:** You must activate the emission activities from the Unified content management application.
 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[configuring-the-scope-3-dashboard|Configuring the Scope 3 dashboard]]
+**Parent Topic:**[Configuring the Scope 3 dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-the-scope-3-dashboard.md)
 
-## Related
-
-- [[configuring-the-scope-3-dashboard|Configuring the Scope 3 dashboard]]
-- [[scope-3-dashboard|Scope 3 dashboard]]
-- [[esg-content-accelerator|Unified content management]]

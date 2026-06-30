@@ -14,7 +14,7 @@ breadcrumb: [Audit Plan Overview, Audit Management Overview, Audit Management, G
 
 # Create an engagement with advanced planning
 
-Use the advanced planning capabilities to [[t_CreateEngagement|create an engagement]] that automatically creates an engagement project. After an engagement project is created, you can add resource plans and cost plans to the engagement. The values of these plans roll up to the engagement and to the audit plan.
+Use the advanced planning capabilities to create an engagement that automatically creates an engagement project. After an engagement project is created, you can add resource plans and cost plans to the engagement. The values of these plans roll up to the engagement and to the audit plan.
 
 ## Before you begin
 
@@ -22,16 +22,16 @@ To use the advanced planning feature, you must activate the following store appl
 
 -   GRC Advanced Audit plugin \(com.sn\_audit\_advanced\)
 -   GRC Profiles
--   GRC [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+-   GRC Policy and Compliance Management
 -   GRC Risk Management
 -   GRC Advanced Core
 -   GRC Advanced Risk
--   GRC [[c_GRCAudits|Audit Management]]
+-   GRC Audit Management
 -   Project Portfolio Management Standard
 
 You can choose to create audit plans for the engagement.
 
-**Note:** To know more about the applications in GRC module, see [[r_WhatIsGRC|Governance, Risk, and Compliance]].
+**Note:** To know more about the applications in GRC module, see [Governance, Risk, and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/r_WhatIsGRC.md).
 
 Role required: sn\_audit.manager
 
@@ -455,9 +455,3 @@ An engagement project is created in the background for the engagement. The Resou
 
 [Create a resource plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/t_CreateResourcePlanProjectTask.md) and [Create a cost plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/t_CreateAProjectCostPlan.md).
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[t_CreateEngagement|Create an engagement]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[c_GRCAudits|Audit Management]]

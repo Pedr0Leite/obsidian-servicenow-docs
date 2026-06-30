@@ -12,7 +12,7 @@ breadcrumb: [Activity Management, Lead and opportunity management apps, Configur
 
 # Install CRM Outlook Add-in
 
-You can install the [[explore-crm-outlook-add-in|CRM Outlook Add-in]] application \(com.sn\_crm\_outlook\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install the CRM Outlook Add-in application \(com.sn\_crm\_outlook\) if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-User roles are installed with CRM Outlook Add-in. For more information, see [[components-installed-crm-outlook-add-in|Components installed with the CRM Outlook Add-in]].
+User roles are installed with CRM Outlook Add-in. For more information, see [Components installed with the CRM Outlook Add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/components-installed-crm-outlook-add-in.md).
 
 ## Procedure
 
@@ -43,29 +43,20 @@ User roles are installed with CRM Outlook Add-in. For more information, see [[co
 
 5.  If demo data is available and you want to install it, select the **Load demo data** check box.
 
-    Demo data are the sample records that describe application features for common [[use-cases|use cases]]. Load the demo data when you first install the application on a development or test instance.
+    Demo data are the sample records that describe application features for common use cases. Load the demo data when you first install the application on a development or test instance.
 
 6.  Select **Install**.
 
 
 ## What to do next
 
--   [[add-crm-outlook-add-in|Configure CRM access from Microsoft Outlook]]
--   [[promote-crm-outlook-emails|Make emails associated through the CRM Outlook Add-in visible to agents]]
+-   [Configure CRM access from Microsoft Outlook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-crm-outlook-add-in.md)
+-   [Make emails associated through the CRM Outlook Add-in visible to agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/promote-crm-outlook-emails.md)
 
 **Related topics**  
 
 
-[[using-activity-management|Using Activity Management]]
+[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
-[[explore-activity-management|Activity Management]]
+[Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-activity-management.md)
 
-## Related
-
-- [[components-installed-crm-outlook-add-in|Components installed with the CRM Outlook Add-in]]
-- [[add-crm-outlook-add-in|Configure CRM access from Microsoft Outlook]]
-- [[promote-crm-outlook-emails|Make emails associated through the CRM Outlook Add-in visible to agents]]
-- [[using-activity-management|Using Activity Management]]
-- [[explore-activity-management|Activity Management]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]
-- [[use-cases|Use cases]]

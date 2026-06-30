@@ -18,7 +18,7 @@ The states of configuration test records and their associated remediation tasks 
 
 ## State transition scenarios between test results and remediation tasks
 
-**Note:** Starting with v14.9 of [[vr-config-compliance-landing|Configuration Compliance]], the following terms have been renamed:
+**Note:** Starting with v14.9 of Configuration Compliance, the following terms have been renamed:
 
 |Terminology prior to v14.9|Terminology v14.9 onwards|
 |--------------------------|-------------------------|
@@ -276,6 +276,3 @@ Test results remain Open
 -   Starting with v14.12 of Configuration Compliance, the **Result invalid** option is removed in the **Resolution** field in the Close modal.
 -   Starting with v14.12 of Configuration Compliance, the **Remediation Task State Approval** workflow is deprecated and replaced by the flow Remediation Task State Approval in the flow designer.
 
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]

@@ -20,7 +20,7 @@ Obfuscate passwords in the `edgeencryption.properties` file to be able to share 
 
 Role required: admin
 
-Make sure that the [[edge-encryption|Edge Encryption]] proxy server is set up and successfully running before you set this property. Before setting this property, [Stop the Edge Encryption proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_StoptheProxy.md).
+Make sure that the Edge Encryption proxy server is set up and successfully running before you set this property. Before setting this property, [Stop the Edge Encryption proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_StoptheProxy.md).
 
 ## About this task
 
@@ -51,6 +51,3 @@ After setting this property, you can [Start the Edge Encryption proxy](https://r
 
 **Next topic:**[Manually add an additional proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_AddAdditionalProxies.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]

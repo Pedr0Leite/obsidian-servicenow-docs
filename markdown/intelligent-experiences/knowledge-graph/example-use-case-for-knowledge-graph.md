@@ -14,13 +14,13 @@ breadcrumb: [Exploring Knowledge Graph, Knowledge Graph, Enable AI experiences]
 
 # Leverage Knowledge Graph prebuilt integration with Now Assist Virtual Agent and Now Assist Panel
 
-The prebuilt integrations of [[knowledge-graph-landing|Knowledge Graph]] can help ServiceNow users to drive productivity, enhance decision-making, and unlock the full potential of enterprise data- while maintaining robust data governance and permission [[controls|controls]].
+The prebuilt integrations of Knowledge Graph can help ServiceNow users to drive productivity, enhance decision-making, and unlock the full potential of enterprise data- while maintaining robust data governance and permission controls.
 
-In this release, the available prebuilt integrations with [[platform-now-assist-landing|Now Assist]] Virtual Agent and [[now-assist-center-now-assist-panel|Now Assist Panel]] are:
+In this release, the available prebuilt integrations with Now Assist Virtual Agent and Now Assist Panel are:
 
 1.  Integration with Now Assist for User Context: Helps requesters and fulfillers with personalized responses.
 2.  Integration with Now Assist for Slot filling: Helps requesters and fulfillers in pre-filling the slots for LLM topics and skills execution using Natural Language Querying of Knowledge Graph.
-3.  Integration with Now Assist for [[natural-language-query|Natural Language Query]] graph: Helps requesters and fulfillers with personalized responses on people queries and Natural Language queries. Also supports people citation card.
+3.  Integration with Now Assist for Natural Language Query graph: Helps requesters and fulfillers with personalized responses on people queries and Natural Language queries. Also supports people citation card.
 
 **Note:** To enable Knowledge Graph for Now Assist Virtual Agent, ensure that **sn\_vad\_genai.knowledge\_graph.enabled** and **sn\_ais\_assist.enable\_knowledge\_graph\_nlq** system properties are set to true. See .
 
@@ -65,7 +65,7 @@ An employee uses Virtual Agent to request a laptop replacement. Virtual Agent us
 \[Omitted image "mmasset0020508-knowledgegraph-vertical.svg"\] Alt text: Knowledge Graph example.
 
 1.  The user uses Virtual Agent to query `Need assistance in laptop replacement.`
-2.  Virtual Agent processes the query and generates the following [[ai-prompts|prompts]] required for this request:
+2.  Virtual Agent processes the query and generates the following prompts required for this request:
     -   Topic: New laptop request
     -   Name
     -   Location
@@ -129,11 +129,3 @@ Ensure that you have already configured Knowledge Graph with an assistant before
 
 To configure and enable the AI Search see [Now Assist Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/now-assist-qna-genius-results.md).
 
-## Related
-
-- [[knowledge-graph-landing|Knowledge Graph]]
-- [[controls|Controls]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[natural-language-query|Natural Language Query]]
-- [[ai-prompts|Prompts]]

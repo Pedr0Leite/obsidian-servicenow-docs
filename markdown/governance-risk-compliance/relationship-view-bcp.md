@@ -26,7 +26,7 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
 1.  Navigate to **Workspaces** &gt; **Business Continuity Workspace**.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Planning** and select a record from the list.
+2.  In the List view, navigate to **Planning** and select a record from the list.
 
     The business continuity plan record is displayed.
 
@@ -45,13 +45,8 @@ The configurations for the 360° view are stored in **360° View Configurations*
 
     \[Omitted image "360-bcp-loss-scenario.png"\] Alt text: 360-view-for-a-loss-scenario.
 
-4.  To navigate to the plan again, select the plan or list view in the [[breadcrumb-navigation|breadcrumb navigation]].
+4.  To navigate to the plan again, select the plan or list view in the breadcrumb navigation.
 
 
-**Parent Topic:**[[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
+**Parent Topic:**[Structured workflows for BCPs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcp-tasks-performed-by-bcp-owner.md)
 
-## Related
-
-- [[bcp-tasks-performed-by-bcp-owner|Structured workflows for BCPs]]
-- [[list-view-uib-ws|List view]]
-- [[breadcrumb-navigation|Breadcrumb navigation]]

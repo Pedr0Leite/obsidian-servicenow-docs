@@ -15,7 +15,7 @@ breadcrumb: [Additional data input setup tasks, Set up data inputs manually, Set
 
 # Modify a data input configuration in Health Log Analytics
 
-Change the configuration of a data input for [[hla-landing-page|Health Log Analytics]] by adding a new path to an existing data input configuration or modifying the data input's MID Server destination and port.
+Change the configuration of a data input for Health Log Analytics by adding a new path to an existing data input configuration or modifying the data input's MID Server destination and port.
 
 ## Before you begin
 
@@ -212,6 +212,3 @@ Windows using Beats \(Filebeat or Winlogbeat\):
 
 [Configure advanced settings for Beats data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-beats.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

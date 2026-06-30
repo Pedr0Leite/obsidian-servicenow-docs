@@ -15,12 +15,8 @@ breadcrumb: [Agentic Contact Center for Banking, Banking applications, Financial
 
 Learn about the components and properties that are installed with Agentic Contact Center for Banking.
 
--   **[[components-installed-with-agentic-contact-center-for-banking|Components installed with Agentic Contact Center for Banking]]**  
+-   **[Components installed with Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/components-installed-with-agentic-contact-center-for-banking.md)**  
 Learn about the components that are installed with the activation of Agentic Contact Center for Banking.
 
-**Parent Topic:**[[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
+**Parent Topic:**[Agentic Contact Center for Banking](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/agentic-contact-center-for-banking-landing.md)
 
-## Related
-
-- [[components-installed-with-agentic-contact-center-for-banking|Components installed with Agentic Contact Center for Banking]]
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]

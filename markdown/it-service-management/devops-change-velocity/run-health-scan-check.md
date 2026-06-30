@@ -14,7 +14,7 @@ breadcrumb: [Manage, DevOps Change Velocity, IT Service Management]
 
 # Run health scans for DevOps Change Velocity
 
-Run health check scans on your [[devops-landing-page-new|DevOps Change Velocity]] instance and get recommendations on fixing any errors that might exist.
+Run health check scans on your DevOps Change Velocity instance and get recommendations on fixing any errors that might exist.
 
 ## Before you begin
 
@@ -49,14 +49,10 @@ You can also choose to navigate to the Checks list, and run a specific health ch
 
 Once the scan is executed, you can view the results and findings of the scan in the Results and Findings lists respectively. You can navigate to the Findings list from the DevOps Change Workspace home page also by selecting **View all findings** in the **Health scan findings** widget. You can navigate to a specific scan finding or check as well from the **Health scan findings** widget. To navigate to a specific scan finding, select the required value in the **Created** column, and to navigate to a specific check, select a value in the **Check** column. The DevOps Change Health Scan Content Pack application must be activated to view data in the **Health scan findings** widget in the home page.
 
-A scan result reports the status and type of the scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs. A finding is a [[reference-for-itsm-mobile-agent|reference]] to a record that has violated a rule from a check on the instance. You can find the source record and the number of times the record triggered the rules of a given check.
+A scan result reports the status and type of the scan. You can also see all the checks that ran as part of the scan and all other information related to the scan such as errors and scan logs. A finding is a reference to a record that has violated a rule from a check on the instance. You can find the source record and the number of times the record triggered the rules of a given check.
 
 **Related topics**  
 
 
 [DevOps Change Velocity suite health scan checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-suite-health-scan-checks.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[reference-for-itsm-mobile-agent|Reference]]

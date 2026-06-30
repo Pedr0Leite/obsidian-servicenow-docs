@@ -15,11 +15,11 @@ breadcrumb: [Optimization Accelerators, Accelerator catalog, View the Initiative
 
 # Optimization Capability Configuration
 
-This accelerator provides support in configuring capabilities and features to enhance [[platform-health-idi|platform health]] and drive ServiceNow [[product-adoption|product adoption]].
+This accelerator provides support in configuring capabilities and features to enhance platform health and drive ServiceNow product adoption.
 
 ## Accelerator Overview
 
-Optimization Capability Configuration provides [[impact-landing-page|Impact]] customers with configuration support for a targeted ServiceNow capability or feature. This accelerator may be initiated based on an Impact recommendation, including but not limited to:
+Optimization Capability Configuration provides Impact customers with configuration support for a targeted ServiceNow capability or feature. This accelerator may be initiated based on an Impact recommendation, including but not limited to:
 
 -   Outputs from an Impact Accelerator.
 -   Enabling a new feature not currently in use.
@@ -65,7 +65,7 @@ Customer will provide the required resources, as communicated by ServiceNow in t
 |Business Analyst|Responsible for working with key project stakeholders to capture business and user requirements as stories. The Business Analyst also works with the Platform Administrators to ensure stories are understood, developed, tested, and delivered to specifications.|
 |Process Owner|Responsible for the correct and complete definition of each of the processes implemented within the ServiceNow platform.|
 |Product Owner\(s\)|Responsible for ensuring that the product backlog is defined with stories, visible, transparent, and clear to all, and shows what the team will work on next. The Product Owner also demonstrates the configured functionality to Customer's stakeholders at the end of each sprint.|
-|Subject Matter Expert\(s\) \(SME\)|Responsible for confirming the design to [[io-help|help]] meet the Customer's requirements, and for working with ServiceNow to identify opportunities for processes to be moved into ServiceNow. The role may comprise both functional and technical experts. The SME also possesses in-depth functional and technical knowledge of any necessary processes and functions.|
+|Subject Matter Expert\(s\) \(SME\)|Responsible for confirming the design to help meet the Customer's requirements, and for working with ServiceNow to identify opportunities for processes to be moved into ServiceNow. The role may comprise both functional and technical experts. The SME also possesses in-depth functional and technical knowledge of any necessary processes and functions.|
 |System Administrator\(s\)|Responsible for maintaining the stability and usability of the ServiceNow platform by performing application maintenance, managing support for incidents related to ServiceNow applications, and contributing to ServiceNow software releases by delivering configuration tasks and features. The ServiceNow System Administrator has technical ability that enables the fulfilment of common configuration and maintenance tasks.|
 |Executive Sponsor|Responsible for setting and communicating the vision of ServiceNow within the rest of the enterprise. The Executive Sponsor also participates in governance and removes roadblocks to a successful completion.|
 |Platform Owner|Responsible for the overall accountability of the ServiceNow platform. Provides leadership and oversight to the System Administrators, ensures team alignment to business strategy and the ServiceNow roadmap, and is actively involved in the overarching governance of the platform.|
@@ -78,7 +78,7 @@ Customer will provide the required resources, as communicated by ServiceNow in t
 Before ServiceNow can begin the accelerator, the following prerequisite tasks must be completed:
 
 -   Intake form \(to be provided by the ServiceNow team\) must be completed by the Customer at least four weeks prior to the Kick-off and Scope Alignment Session.
--   Customer shall grant ServiceNow resources access to Customer's instances for the purposes of providing the accelerator during the period of [[instance-observer-performance|performance]].
+-   Customer shall grant ServiceNow resources access to Customer's instances for the purposes of providing the accelerator during the period of performance.
 -   Customer shall clone its ServiceNow production environment to a sub-production instance on which ServiceNow will perform the accelerator activities.
 
 Additional details on supplemental legal terms, prerequisites, specifications, requirements, and exclusions can be found in the Impact Accelerator Terms Matrix [here](https://www.servicenow.com/legal/servicenow-impact.html).
@@ -90,10 +90,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 -   Changes to Customer or third-party systems.
 -   Data modification, normalization, formatting, or alteration.
 
-## Related
-
-- [[platform-health-idi|Platform Health]]
-- [[product-adoption|Product Adoption]]
-- [[impact-landing-page|Impact]]
-- [[io-help|Help]]
-- [[instance-observer-performance|Performance]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Threat Intelligence External Sharing, Administer, Threa
 
 # Exploring TAXII Outbound Server
 
-TAXII collections are logical groupings of [[threat-intel-landing-page|threat intelligence]] data.
+TAXII collections are logical groupings of threat intelligence data.
 
 -   **[Create TAXII Collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-create-taxii-collection.md)**  
 Use this section to learn how to configure and define TAXII collections for sharing intelligence.
@@ -32,6 +32,3 @@ View the records that are added to the TAXII collections.
 
 [Exploring Inbound Intel Sharing]()
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]

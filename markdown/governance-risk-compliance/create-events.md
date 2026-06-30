@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Create an event for the scenario
 
-Create an event in the [[grc-opres-landing-page|Operational Resilience]] application so that you can associate it with a scenario and assess its impact on your services.
+Create an event in the Operational Resilience application so that you can associate it with a scenario and assess its impact on your services.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ If you have the sn\_oper\_res.admin role, you can create an event in the Operati
 
 5.  In the **Event group** field, select an event group.
 
-    For a description of the field values in the form, see [[event-reference|Event New record form]].
+    For a description of the field values in the form, see [Event New record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/event-reference.md).
 
     **Note:** You can add an event to many scenarios, but you can add an event to a scenario only once.
 
@@ -46,7 +46,4 @@ If you have the sn\_oper\_res.admin role, you can create an event in the Operati
 
     As shown in the example, the scenarios for an event can be associated with different pillars.
 
-## Related
 
-- [[event-reference|Event New record form]]
-- [[grc-opres-landing-page|Operational Resilience]]

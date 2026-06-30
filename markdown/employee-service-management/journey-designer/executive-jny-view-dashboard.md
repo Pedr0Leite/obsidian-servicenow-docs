@@ -24,7 +24,7 @@ The sn\_jny.reader role is needed to access this dashboard.
 
 ## Access the Executive journey overview dashboard
 
-To open the dashboard, navigate to **All** &gt; **[[jny-dsgnr-landing-page-1|Journey designer]]** &gt; **Administration** &gt; **Executive journey view**.
+To open the dashboard, navigate to **All** &gt; **Journey designer** &gt; **Administration** &gt; **Executive journey view**.
 
 ## Use cases
 
@@ -67,7 +67,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Overdue [[journey-accelerator-1|journey accelerator]] tasks
+Overdue journey accelerator tasks
 
 </td><td>
 
@@ -85,7 +85,7 @@ Contains Journey Accelerator task details and relationships to other Journey Acc
 
 </td></tr><tr><td>
 
-Overdue [[hr-lifecycle-events-landing-page-1|lifecycle events]] tasks
+Overdue lifecycle events tasks
 
 </td><td>
 
@@ -257,8 +257,3 @@ Displays tasks based on the start date of the employee.
 </td></tr></tbody>
 </table>**Parent Topic:**[Journey designer dashboards and reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-report-dashboards.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

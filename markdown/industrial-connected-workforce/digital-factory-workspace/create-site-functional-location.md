@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Create a functional location of the type site
 
-Create a location for your user to be able to work with the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\).
+Create a location for your user to be able to work with the Industrial Connected Workforce \(ICW\).
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ The location is the site. Every user must set their location in the user profile
 
     4.  Select **Submit**.
 
-2.  [[create-functional-location|Create a functional location]] for your site.
+2.  Create a functional location for your site.
 
     1.  Navigate to **All** &gt; **Equipment Model - ISA** &gt; **Equipment Model Entities**.
 
@@ -59,7 +59,7 @@ The location is the site. Every user must set their location in the user profile
 
 ## Result
 
-The functional location of the type site is available in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]], from where you can create child functional locations.
+The functional location of the type site is available in the Digital Factory Workspace, from where you can create child functional locations.
 
 **Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/setting-up-prerequisites-digital-factory-workspace.md)
 
@@ -68,8 +68,3 @@ The functional location of the type site is available in the [[icw-digital-facto
 
 [Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/equipment-model-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[create-functional-location|Create a functional location]]
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

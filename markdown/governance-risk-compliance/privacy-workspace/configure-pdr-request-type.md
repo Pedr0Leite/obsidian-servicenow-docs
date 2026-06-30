@@ -14,7 +14,7 @@ breadcrumb: [Configure, Personal Data Rights \(PDR\), Privacy Management, Govern
 
 # Configuring Personal Data Rights request type
 
-Create a request type in the [[personal-data-rights|Personal Data Rights]] application to categorize and manage the personal data rights requests. After you create a request type, the personal data rights agents and the task owners can select the required request type on the request form while working on a personal data rights request.
+Create a request type in the Personal Data Rights application to categorize and manage the personal data rights requests. After you create a request type, the personal data rights agents and the task owners can select the required request type on the request form while working on a personal data rights request.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_grc\_pdr.pdr\_admin
 
 2.  On the form, fill in the fields.
 
-    For a description of the field values on the [[request-type-form|request type form]], see [Personal Data Rights request type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/pdr-request-type-form.md).
+    For a description of the field values on the request type form, see [Personal Data Rights request type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/pdr-request-type-form.md).
 
 3.  Open the form context menu and select **Save**.
 
@@ -57,7 +57,3 @@ Use the Request Type form in the Personal Data Rights application to categorize 
 
 **Parent Topic:**[Configuring Personal Data Rights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configuring-personal-data-rights.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]
-- [[request-type-form|Request type form]]

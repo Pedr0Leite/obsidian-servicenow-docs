@@ -14,7 +14,7 @@ breadcrumb: [Check permissions and update credentials, Manage, DevOps Change Vel
 
 # Permissions required for DevOps tools
 
-Permissions required in your third-party tool to connect to [[devops-landing-page-new|DevOps Change Velocity]].
+Permissions required in your third-party tool to connect to DevOps Change Velocity.
 
 ## Azure DevOps permissions
 
@@ -314,6 +314,3 @@ Required to process workflow events associated with private repositories.
 
 **Parent Topic:**[Check permissions and update credentials for tools — Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/update-credentials-check-permissions.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]

@@ -14,7 +14,7 @@ breadcrumb: [Use, IT Remediation Workspace, Vulnerability Response Workspaces, U
 
 # Open search results in IT Remediation Workspace
 
-Set the application scope to [[it-remediation-workspace-landing-page|IT Remediation Workspace]] to open your search results in the IT Remediation Workspace instead of classic UI by changing the application scope.
+Set the application scope to IT Remediation Workspace to open your search results in the IT Remediation Workspace instead of classic UI by changing the application scope.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ When you search for records such as VITs, remediation tasks, state change approv
 
 When the scope is not Global, the globe icon displays with a red ring \[Omitted image "icon-scope-change.png"\] Alt text: Application scope icon. Select it again to change the scope.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]

@@ -35,17 +35,12 @@ By default, the Lead-to-Cash Process Management hierarchical node map shows thre
 5.  Select **Update**.
 
 
-**Parent Topic:**[[customizing-sales-process-dashboard|Customizing the sales process dashboard]]
+**Parent Topic:**[Customizing the sales process dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customizing-sales-process-dashboard.md)
 
 **Related topics**  
 
 
-[[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
+[Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-lead-cash-process-management.md)
 
-[[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]
+[Using Lead-to-Cash Process Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-lead-cash-process-management.md)
 
-## Related
-
-- [[customizing-sales-process-dashboard|Customizing the sales process dashboard]]
-- [[explore-lead-cash-process-management|Lead-to-Cash Process Management]]
-- [[using-lead-cash-process-management|Using Lead-to-Cash Process Management]]

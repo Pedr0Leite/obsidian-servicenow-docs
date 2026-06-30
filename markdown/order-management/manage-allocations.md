@@ -16,27 +16,19 @@ Allocate and track sales credit across opportunity team members to recognize ind
 
 For clear visibility into who contributed to each sale, supporting collaboration, reporting, and forecasting.
 
--   **[[view-allocations|View allocations for an opportunity]]**  
+-   **[View allocations for an opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-allocations.md)**  
 View allocation details and distributed amounts for an opportunity.
--   **[[add-or-edit-opportunity-allocations|Add or edit opportunity allocations]]**  
+-   **[Add or edit opportunity allocations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/add-or-edit-opportunity-allocations.md)**  
 Use the allocations configurator to add new allocation rows, edit existing ones, or split an allocation across multiple contributors.
--   **[[split-an-opportunity-allocation|Split opportunity allocation]]**  
+-   **[Split opportunity allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/split-an-opportunity-allocation.md)**  
 Split an allocation row to divide its credit between two contributors while keeping, for example, the same product family and effective date.
 
-**Parent Topic:**[[opportunity-mgmt-using|Using Opportunity Management]]
+**Parent Topic:**[Using Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-mgmt-using.md)
 
 **Related topics**  
 
 
-[[configure-opportunity-mgmt|Install and configure Opportunity Management]]
+[Install and configure Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-opportunity-mgmt.md)
 
-[[opportunity-management|Opportunity Management]]
+[Opportunity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management.md)
 
-## Related
-
-- [[view-allocations|View allocations for an opportunity]]
-- [[add-or-edit-opportunity-allocations|Add or edit opportunity allocations]]
-- [[split-an-opportunity-allocation|Split opportunity allocation]]
-- [[opportunity-mgmt-using|Using Opportunity Management]]
-- [[configure-opportunity-mgmt|Install and configure Opportunity Management]]
-- [[opportunity-management|Opportunity Management]]

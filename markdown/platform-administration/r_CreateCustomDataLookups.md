@@ -94,7 +94,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **System Policy** &gt; **Rules** &gt; **Data Lookup [[clone-exclusions-preservers-cleanupscripts|Definitions]]**.
+1.  Navigate to **All** &gt; **System Policy** &gt; **Rules** &gt; **Data Lookup Definitions**.
 
 2.  Select **New**.
 
@@ -150,7 +150,7 @@ Run on form change
 
 Select this check box to automatically look up values whenever a user or onChange client script changes a field value on a source table form.
 
- **Note:** This does not include changes automatically made by other [[c_DataLookupRules|data lookup rules]], such as the Priority Lookup Rules.
+ **Note:** This does not include changes automatically made by other data lookup rules, such as the Priority Lookup Rules.
 
 </td></tr><tr><td>
 
@@ -275,7 +275,4 @@ If the custom data lookup definition rules are not behaving as expected, check f
 
     If Field A = 1, then Field B =2. If Field B = 2, then Field A = 2.
 
-## Related
 
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]
-- [[c_DataLookupRules|Data lookup rules]]

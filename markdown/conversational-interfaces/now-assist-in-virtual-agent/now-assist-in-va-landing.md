@@ -18,7 +18,7 @@ Use generative AI skills in your conversational experiences. Now Assist in Virtu
 
 ## Get started
 
-For an introduction to building a [[virtual-agent-landing-page|Virtual Agent]] with Now Assist, watch this video.
+For an introduction to building a Virtual Agent with Now Assist, watch this video.
 
 \[Omitted video\] Description: Building a Virtual Agent with Now Assist
 
@@ -74,6 +74,3 @@ ServiceNow collects and uses the inputs, outputs, and edits to outputs of this a
 
 For more information, see the [Now Assist documentation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md).
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

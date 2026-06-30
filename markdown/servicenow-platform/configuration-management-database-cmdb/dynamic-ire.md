@@ -14,15 +14,15 @@ breadcrumb: [Explore, CMDB Identification and Reconciliation \(IRE\), Configurat
 
 # Dynamic IRE
 
-Dynamic [[ire|Identification and Reconciliation Engine \(IRE\)]] processes CI identification for maximum accuracy and efficiency and eliminates the need to manually create or maintain rules. Actually, you can't alter any of the algorithms or operations of Dynamic IRE.
+Dynamic Identification and Reconciliation Engine \(IRE\) processes CI identification for maximum accuracy and efficiency and eliminates the need to manually create or maintain rules. Actually, you can't alter any of the algorithms or operations of Dynamic IRE.
 
 When necessary to differentiate, the legacy, manually-driven IRE, is referred to as Static IRE.
 
-Dynamic IRE is a new engine that you can choose to use instead of Static IRE. Dynamic IRE identifies CIs using an improved identification dynamic process and automatically updates its IRE [[c_IdentificationRules|identification rules]] during ingestion of data payloads.
+Dynamic IRE is a new engine that you can choose to use instead of Static IRE. Dynamic IRE identifies CIs using an improved identification dynamic process and automatically updates its IRE identification rules during ingestion of data payloads.
 
 Dynamic IRE evaluates various conditions within the payload simultaneously by running algorithms in parallel to score potential matches and to accurately determine CI identity across multiple data sources. Compared to Static IRE, on average, Dynamic IRE matches CIs using a larger combination of the CI attributes to improve the chances of finding an optimal match, and by so, reducing the chances for duplicate CIs.
 
-Dynamic IRE is applicable only to the [[class-hardware|Hardware \[cmdb\_ci\_hardware\] class]] and its descending classes. However, you can configure the system to exclude from Dynamic IRE specific classes descending from the Hardware class.
+Dynamic IRE is applicable only to the Hardware \[cmdb\_ci\_hardware\] class and its descending classes. However, you can configure the system to exclude from Dynamic IRE specific classes descending from the Hardware class.
 
 Key benefits of Dynamic IRE are:
 
@@ -57,7 +57,7 @@ For more information, see [Exclude classes from Dynamic IRE](https://raw.githubu
 To start using Dynamic IRE exclusively, a general guideline is to test it first by simulation on a non-production instance:
 
 1.  Use a user role that meets the role requirement: sn\_cmdb\_user.
-2.  On a non-production instance, navigate to the [[ci-class-manager-landing-page|CI Class Manager]].
+2.  On a non-production instance, navigate to the CI Class Manager.
 3.  In CI Class Manager, select **Hierarchy** and then select the Hardware class.
 4.  In the Hardware navigation panel, select **Identification Rule**.
 5.  In the Dynamic IRE section, select **Simulate Dynamic IRE**.
@@ -92,9 +92,3 @@ On a record form, you can select **Summarize** to show an organized and more use
 
 **Parent Topic:**[Exploring CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/exploring-ire.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[class-hardware|Hardware \[cmdb\_ci\_hardware\] class]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

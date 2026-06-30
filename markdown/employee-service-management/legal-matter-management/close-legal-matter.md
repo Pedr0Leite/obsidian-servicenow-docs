@@ -30,7 +30,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -67,7 +67,7 @@ The state of the legal matter updates to Work in Progress.
 
 
 </td></tr></tbody>
-</table>4.  In the **[[activity-lxp|Activity]]** section, enter comments, add links to related knowledge base articles, or attach files.
+</table>4.  In the **Activity** section, enter comments, add links to related knowledge base articles, or attach files.
 
 5.  Click **Close Complete**.
 
@@ -90,7 +90,3 @@ The state of the legal matter updates to Work in Progress.
 
 **Parent Topic:**[Work on a legal matter]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[activity-lxp|Activity]]

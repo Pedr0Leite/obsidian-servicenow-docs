@@ -14,7 +14,7 @@ breadcrumb: [Review and update the equipment model details, Managing equipment m
 
 # Bulk edit a site's Operational Technology Vulnerability Response assignment group
 
-Use the bulk edit feature to update the [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] \(OT VR\) assignment group field in multiple site records at once.
+Use the bulk edit feature to update the Operational Technology Vulnerability Response \(OT VR\) assignment group field in multiple site records at once.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: cmdb\_ot\_isa\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**.
+1.  Navigate to **All** &gt; **Industrial Workspace**.
 
 2.  Open the list \(\[Omitted image "icon-list.png"\] Alt text: List icon in the Industrial Workspace.\) view.
 
-3.  Under the **[[industrial-process-manager-overview|Industrial Process Manager]]** module, select the Sites list.
+3.  Under the **Industrial Process Manager** module, select the Sites list.
 
 4.  Select the check box next to each OT site that you want to edit.
 
@@ -43,8 +43,3 @@ The **OT VR assignment group** field is updated for each selected site.
 
 **Parent Topic:**[Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/equipment-model-workspace.md)
 
-## Related
-
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

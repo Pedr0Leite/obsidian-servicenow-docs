@@ -32,7 +32,7 @@ Role required: sn\_eam.enterprise\_admin
     |-----|-----------|
     |Model component|The model components associated with the multi-component model.|
     |Quantity|Quantity of the model component.|
-    |Asset|Assets from the parent stockroom. For [[c_ReceiveAConsumableAsset|consumable assets]], the quantity of the asset in the stockroom is also mentioned.|
+    |Asset|Assets from the parent stockroom. For consumable assets, the quantity of the asset in the stockroom is also mentioned.|
     |Action|Indicates if the corresponding model component is required or not. A enabled cross indicates that you can remove the model component. A disabled cross indicates that this is a required model component. If you remove a model component, the Select more model components drop-down box appears allowing you to restore the model components that you removed.|
 
 4.  Select **Assemble**.
@@ -42,6 +42,3 @@ Role required: sn\_eam.enterprise\_admin
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

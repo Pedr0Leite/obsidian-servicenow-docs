@@ -12,7 +12,7 @@ breadcrumb: [Completing general administrative tasks, Configure, Operational Res
 
 # Create and edit the attestation template
 
-Create a customized attestation template in the [[grc-opres-landing-page|Operational Resilience]] application that suits your business needs. By customizing an attestation template, you can add your own questions for your self-attestation. You can also edit an existing attestation template for your own business needs.
+Create a customized attestation template in the Operational Resilience application that suits your business needs. By customizing an attestation template, you can add your own questions for your self-attestation. You can also edit an existing attestation template for your own business needs.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can update the questions according to your business requirements as shown in
 
 1.  Navigate to **Workspaces** &gt; **Assessment Workspace** to access the Assessment Workspace landing page.
 
-2.  Select **New template** and then fill in the Template details in the [[create-assessment-template-form|Create assessment template form]].
+2.  Select **New template** and then fill in the Template details in the Create assessment template form.
 
     1.  Enter the name of the template in the **Template name** field in the Details section of the **General** tab.
 
@@ -42,7 +42,7 @@ You can update the questions according to your business requirements as shown in
 
     2.  Add details about the template in the **Description** field.
 
-    3.  Select **Self attestation assessment** as the purpose from the [[airc-assessment-templates|Assessment templates]] list.
+    3.  Select **Self attestation assessment** as the purpose from the Assessment templates list.
 
         Ensure that you select the correct purpose, as it is crucial for the self-attestation process.
 
@@ -70,18 +70,12 @@ You can update the questions according to your business requirements as shown in
 
     3.  On the Assessment Metric Type New Record form, enter the name for the attestation template and select **Submit**.
 
-        For a description of the field values on the form, see [[attestation-template-reference|Assessment Metric Type New Record form]].
+        For a description of the field values on the form, see [Assessment Metric Type New Record form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/attestation-template-reference.md).
 
-        The attestation template is displayed in the templates [[list-view-uib-ws|list view]] as shown in the following example.
+        The attestation template is displayed in the templates list view as shown in the following example.
 
         \[Omitted image "attestation-template-list.png"\] Alt text: Attestation template in the list view.
 
         By selecting **Submit**, you add the Operational Resilience tables and the application users to your customized attestation template.
 
-## Related
 
-- [[attestation-template-reference|Assessment Metric Type New Record form]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[create-assessment-template-form|Create assessment template form]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[list-view-uib-ws|List view]]

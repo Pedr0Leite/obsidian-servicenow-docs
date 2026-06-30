@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Manager, Operational Technology]
 
 # Assign Operational Technology Manager roles
 
-[[assign-operational-technology-incident-management-roles|Assign roles to your users]] so that you can control their access to the features, capabilities, and data in the [[operational-technology-manager|Operational Technology Manager]] application.
+Assign roles to your users so that you can control their access to the features, capabilities, and data in the Operational Technology Manager application.
 
 ## Before you begin
 
@@ -36,11 +36,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[operational-technology-discovery-landing|Operational Technology Discovery]] Administrator \[ot\_discovery\_admin\]
+Operational Technology Discovery Administrator \[ot\_discovery\_admin\]
 
 </td><td>
 
-Can run the Discovery for [[operational-technology-overview|Operational Technology]] process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [[run-discovery-for-operational-technology|Create an OT Discovery schedule and run the Discovery process]].
+Can run the Discovery for Operational Technology process, but cannot access the Configuration Management Database \(CMDB\) to view the configuration items \(CIs\) and related Operational Technology \(OT\) entities that are created from discovered items. To learn more, see [Create an OT Discovery schedule and run the Discovery process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/run-discovery-for-operational-technology.md).
 
 </td></tr><tr><td>
 
@@ -79,10 +79,3 @@ Create, read, update, and delete access for Operational Technology \(OT\) device
 
 **Parent Topic:**[Configuring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-operational-technology-manager.md)
 
-## Related
-
-- [[run-discovery-for-operational-technology|Create an OT Discovery schedule and run the Discovery process]]
-- [[assign-operational-technology-incident-management-roles|Assign roles to your users]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]
-- [[operational-technology-overview|Operational Technology]]

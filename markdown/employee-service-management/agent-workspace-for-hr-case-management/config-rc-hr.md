@@ -20,7 +20,7 @@ Configure recommended actions to create a context, rule, and recommendations wit
 
 A context enables agents to see recommendations for a specific type of record when certain rules are met. These recommendations can help agents by suggesting actions to take based on the record context.  For more information, see [Contexts in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts.md).
 
-The [[recommended-actions-hrsd|Recommended Actions for HRSD]] application ships the HR Case Context. Add rules, recommendations, guidance to this context based on your business requirements. To access HR Case Context, navigate to **All** &gt; **Recommended actions** &gt; **Contexts**
+The Recommended Actions for HRSD application ships the HR Case Context. Add rules, recommendations, guidance to this context based on your business requirements. To access HR Case Context, navigate to **All** &gt; **Recommended actions** &gt; **Contexts**
 
 ## Guidance-based recommendations
 
@@ -36,9 +36,5 @@ The Recommended Actions for HRSD application ships the **HR Case Approval** rule
 
 ## Search Application Configuration
 
-The HR system includes the **\[AIS\] Recommended Actions for HR Search Config** by default. This application supports the AI search for various records in [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]], including cases, and KBs.
+The HR system includes the **\[AIS\] Recommended Actions for HR Search Config** by default. This application supports the AI search for various records in Agent Workspace for HR Case Management, including cases, and KBs.
 
-## Related
-
-- [[recommended-actions-hrsd|Recommended Actions for HRSD]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]

@@ -22,7 +22,7 @@ Existing workflows using it will continue to work as designed. To edit this acti
 
 The **REST Message** activity executes a dead link REST function \(POST, PUT, GET, or DELETE\) on an endpoint using values defined in the function record.
 
-**Note:** If you want to use a [[mid-server-landing|MID Server]] to send the REST message, the MID Server must be accessible by the instance and configured to use SSH.
+**Note:** If you want to use a MID Server to send the REST message, the MID Server must be accessible by the instance and configured to use SSH.
 
 ## Input variables
 
@@ -44,7 +44,7 @@ REST Message
 
 </td><td>
 
-Name of the [Create a REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfiguringARESTMessage.md) to run. This is a [[reference|reference]] field to the REST Message \[sys\_rest\_message\] table \(**System Web Services** &gt; **Outbound** &gt; **REST Message**\).
+Name of the [Create a REST message](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/t_ConfiguringARESTMessage.md) to run. This is a reference field to the REST Message \[sys\_rest\_message\] table \(**System Web Services** &gt; **Outbound** &gt; **REST Message**\).
 
 </td></tr><tr><td>
 
@@ -90,7 +90,7 @@ Use MID Server
 
 </td><td>
 
-Check this box if you want to use a MID Server to send the REST message. A MID Server might be necessary to reach an endpoint within a firewall or a subnetwork that is not visible from the instance. If this [[check-box|check box]] is selected, but no MID Server is defined in the **MID Server** field, the workflow automatically attempts to find a MID Server based on IP range and the REST capability.
+Check this box if you want to use a MID Server to send the REST message. A MID Server might be necessary to reach an endpoint within a firewall or a subnetwork that is not visible from the instance. If this check box is selected, but no MID Server is defined in the **MID Server** field, the workflow automatically attempts to find a MID Server based on IP range and the REST capability.
 
 </td></tr><tr><td>
 
@@ -114,9 +114,3 @@ The script to execute after the request has been made and a response has been re
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[reference|Reference]]
-- [[check-box|Check box]]

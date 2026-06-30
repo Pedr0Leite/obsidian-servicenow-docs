@@ -25,7 +25,7 @@ As the conversation progresses, the AI agent processes the customer's request, a
 
 CSRs can also type their own questions directly into the Now Assist panel at any time. The panel displays responses from the AI agent in a structured format that may include insights, recommendations, and guidance based on the content and sentiment of the conversation.
 
-For more information, see [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]] .
+For more information, see Agentic Contact Center for Insurance .
 
 ## Policyholder context summary
 
@@ -93,12 +93,7 @@ For more information, see the following topics:
 
 [CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspaces-configure.md)
 
-[[explore-agentic-contact-center-for-insurance|Exploring Agentic Contact Center for Insurance]]
+[Exploring Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/explore-agentic-contact-center-for-insurance.md)
 
-[[customer-360-insurance-agentic-contact-centre|Customer 360 page for Agentic Contact Center for Insurance]]
+[Customer 360 page for Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/customer-360-insurance-agentic-contact-centre.md)
 
-## Related
-
-- [[explore-agentic-contact-center-for-insurance|Exploring Agentic Contact Center for Insurance]]
-- [[customer-360-insurance-agentic-contact-centre|Customer 360 page for Agentic Contact Center for Insurance]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]

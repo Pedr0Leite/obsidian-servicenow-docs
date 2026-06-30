@@ -14,7 +14,7 @@ breadcrumb: [Procurement, IT Asset Management]
 
 # Integrating with external procurement applications
 
-Manage an end-to-end [[c_Procurement|procurement]] process by integrating external procurement applications with [[c_SoftwareAssetMgmt|Software Asset Management]] and create software requisitions directly on the external procurement applications. Software Asset Management tracks these requisitions and automatically generates entitlements or entitlement import errors after these requisitions are received on the external procurement application.
+Manage an end-to-end procurement process by integrating external procurement applications with Software Asset Management and create software requisitions directly on the external procurement applications. Software Asset Management tracks these requisitions and automatically generates entitlements or entitlement import errors after these requisitions are received on the external procurement application.
 
 Integrating Software Asset Management with external procurement applications help you to:
 
@@ -25,10 +25,5 @@ Integrating Software Asset Management with external procurement applications hel
 ## Before you begin
 
 -   Activate the Procurement plugin \(com.snc.procurement\). For more information, see [Activate Procurement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ActivateProcurement.md).
--   Install the [[am-landing-page|Asset Management]] - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/install-proc-int.md).
+-   Install the Asset Management - Procurement Integration \(app-itam-procurement-integration\) store application from ServiceNow Store. For more information, see [Install Asset Management - Procurement Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/install-proc-int.md).
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[am-landing-page|Asset Management]]

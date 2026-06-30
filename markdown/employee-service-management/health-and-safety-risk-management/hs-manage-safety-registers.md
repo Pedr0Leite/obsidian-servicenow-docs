@@ -22,11 +22,11 @@ Role required: sn\_hs\_rm.safety\_register\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Select the configuration icon \(\[Omitted image "icon-config.png"\] Alt text: Configuration icon\).
 
-3.  In the **Configuration** tab, select **[[hs-safety-registers|Safety Registers]]** and then the required register.
+3.  In the **Configuration** tab, select **Safety Registers** and then the required register.
 
     -   For chemicals, select **Chemicals** and then **All**.
     -   For asbestos, select **Asbestos** and then **All**.
@@ -50,13 +50,7 @@ Depending on the selected register type, the safety register is available in the
 
 ## What to do next
 
-Employees can access the attached safety register document, such as SDS, through the [[employee-center-landing-page|Employee Center]]. For more information, see [Access a safety register document in Employee center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-view-safety-register-docs-ec.md).
+Employees can access the attached safety register document, such as SDS, through the Employee Center. For more information, see [Access a safety register document in Employee center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-view-safety-register-docs-ec.md).
 
 **Parent Topic:**[Safety registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-safety-registers.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[hs-safety-registers|Safety registers]]
-- [[employee-center-landing-page|Employee Center]]

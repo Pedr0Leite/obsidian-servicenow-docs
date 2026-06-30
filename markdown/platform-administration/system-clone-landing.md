@@ -14,7 +14,7 @@ breadcrumb: [Configure core features, Administer the ServiceNow AI Platform]
 
 Clone copies data and metadata from one ServiceNow instance \(source instance\) to another ServiceNow instance \(target instance\).
 
-\[Omitted video\] Description: [[Clone-UI|Clone Admin Console]] overview video
+\[Omitted video\] Description: Clone Admin Console overview video
 
 Watch this short video to see an overview of the Clone Admin Console.
 
@@ -34,11 +34,11 @@ Watch this short video to see an overview of the Clone Admin Console.
 
 </td></tr><tr><td>
 
-[Request a Clone\[Omitted image "bus-integration-and-apis.svg"\] Alt text:[[t_StartAClone|Request a clone]] to copy data from a production instance to a non-production instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_StartAClone.md)
+[Request a Clone\[Omitted image "bus-integration-and-apis.svg"\] Alt text:Request a clone to copy data from a production instance to a non-production instance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_StartAClone.md)
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about [[clone-options|Clone options]] when requesting a clone, various [[clone-states|clone states]], and [[clone-terminology|clone terminology]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-[[reference-email-admin|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about Clone options when requesting a clone, various clone states, and clone terminology.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-clone-reference.md)
 
 </td><td>
 
@@ -52,11 +52,3 @@ Watch this short video to see an overview of the Clone Admin Console.
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now)
 
-## Related
-
-- [[Clone-UI|Clone Admin Console]]
-- [[t_StartAClone|Request a clone]]
-- [[clone-options|Clone options]]
-- [[clone-states|Clone states]]
-- [[clone-terminology|Clone terminology]]
-- [[reference-email-admin|Reference]]

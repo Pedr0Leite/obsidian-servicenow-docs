@@ -12,7 +12,7 @@ breadcrumb: [Configuring Simplified Change Management, Configuring the fulfiller
 
 # Configure schedules for Simplified Change Management
 
-Create and manage blackout and maintenance schedules for [[c_ITILChangeManagement|Change Management]] to control when changes are permitted or blocked across your organization.
+Create and manage blackout and maintenance schedules for Change Management to control when changes are permitted or blocked across your organization.
 
 ## Before you begin
 
@@ -20,17 +20,17 @@ Role required: sn\_itsm\_chg\_admin.change\_schedules\_config
 
 ## About this task
 
-Use the Blackout and Maintenance windows to schedule a change. Blackout schedules block changes during critical periods such as financial year-end or major platform releases. Maintenance windows designate periods when changes are actively expected, such as recurring patching cycles. Both schedule types serve as the authoritative source for downstream enforcement logic including [[c_ConflictDetection|conflict detection]] and approval routing.
+Use the Blackout and Maintenance windows to schedule a change. Blackout schedules block changes during critical periods such as financial year-end or major platform releases. Maintenance windows designate periods when changes are actively expected, such as recurring patching cycles. Both schedule types serve as the authoritative source for downstream enforcement logic including conflict detection and approval routing.
 
 ## Procedure
 
 1.  From the header of your ServiceNow instance, navigate to **All** &gt; **Admin Home**.
 
-2.  From the **Manage your products** section, select **View product overview** for [[r_ITServiceManagement|IT Service Management]].
+2.  From the **Manage your products** section, select **View product overview** for IT Service Management.
 
 3.  On the Product Hub page for IT Service Management, from the Configure your product section, select **Configure**.
 
-4.  On the Configuration Console, from the left navigation panel, select **ITSM fulfiller experience &gt; Change Management &gt; [[change-schedule|Change schedules]]**. \[Omitted image "simplified-change-schedules.png"\] Alt text: Change schedules configuration page
+4.  On the Configuration Console, from the left navigation panel, select **ITSM fulfiller experience &gt; Change Management &gt; Change schedules**. \[Omitted image "simplified-change-schedules.png"\] Alt text: Change schedules configuration page
 
     The **Schedules** list displays the pre-configured schedules, organized under the **Blackouts** and **Maintenance** tabs.
 
@@ -79,7 +79,7 @@ Use the Blackout and Maintenance windows to schedule a change. Blackout schedule
 
 10. Select **Save**.
 
-11. When you have finished configuring, select **Mark as configured** to save your [[settings-mobile|settings]] and mark this step as complete.
+11. When you have finished configuring, select **Mark as configured** to save your settings and mark this step as complete.
 
     To revert changes made in the current session before saving, select **Undo**.
 
@@ -90,18 +90,10 @@ Use the Blackout and Maintenance windows to schedule a change. Blackout schedule
 
 The new schedule is created and appears in the **Schedules** list under the **Blackouts** or **Maintenance** tab, depending on the type you selected. The schedule is active immediately and is used by Change Management for conflict detection and change enforcement.
 
-**Parent Topic:**[[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
+**Parent Topic:**[Configuring Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configuring-change-management-experience-in-it-service-management.md)
 
 **Related topics**  
 
 
 [Create blackout and maintenance schedules in Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/t_CreateBlkoutMaintSched.md)
 
-## Related
-
-- [[configuring-change-management-experience-in-it-service-management|Configuring Simplified Change Management]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[c_ConflictDetection|Conflict detection]]
-- [[r_ITServiceManagement|IT Service Management]]
-- [[change-schedule|Change schedules]]
-- [[settings-mobile|Settings]]

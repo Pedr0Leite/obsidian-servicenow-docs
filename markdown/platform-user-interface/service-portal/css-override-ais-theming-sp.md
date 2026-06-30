@@ -14,7 +14,7 @@ breadcrumb: [AI Search in Service Portal, Configuring search in a portal, Config
 
 # Create a CSS include to override theming for AI Search in Service Portal
 
-Override [[ais-sp-css-vars|theming for AI Search in Service Portal]] to match your company branding.
+Override theming for AI Search in Service Portal to match your company branding.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## About this task
 
-As an example of styling features of [[ai-search|AI Search in Service Portal]], this procedure removes the borders around the search [[c_Filters|filters]]. You can style several other features using additional CSS variables. For more information about these variables, see [Theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-sp-css-vars.md).
+As an example of styling features of AI Search in Service Portal, this procedure removes the borders around the search filters. You can style several other features using additional CSS variables. For more information about these variables, see [Theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-sp-css-vars.md).
 
 **Search filters**: Remove the line borders around search filters.
 
@@ -136,7 +136,7 @@ Option to load the CSS Include asynchronously to improve page load time. This op
  The CSS Includes with **Lazy Load** enabled are listed in the **Lazy load CSS includes** related list in the theme record.
 
 </td></tr></tbody>
-</table>3.  Input your CSS override into the [[c_StyleSheets|style sheets]] form and override the theme that's applied to your UI.
+</table>3.  Input your CSS override into the style sheets form and override the theme that's applied to your UI.
 
     1.  Enter `m2m_sp_theme_css_include` in the filter navigator.
 
@@ -157,14 +157,7 @@ Option to load the CSS Include asynchronously to improve page load time. This op
 The borders around the search filters are removed.\[Omitted image "sp-ais-filters-overridden.png"\] Alt text: Search filters panel with line borders removed.
 
 -   **[Theming for AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ais-sp-css-vars.md)**  
-You can customize the look and feel of the AI Search experience in [[c_ServicePortal|Service Portal]] by updating the relevant CSS variables.
+You can customize the look and feel of the AI Search experience in Service Portal by updating the relevant CSS variables.
 
 **Parent Topic:**[AI Search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ai-search.md)
 
-## Related
-
-- [[ais-sp-css-vars|Theming for AI Search in Service Portal]]
-- [[ai-search|AI Search in Service Portal]]
-- [[c_Filters|Filters]]
-- [[c_StyleSheets|Style sheets]]
-- [[c_ServicePortal|Service Portal]]

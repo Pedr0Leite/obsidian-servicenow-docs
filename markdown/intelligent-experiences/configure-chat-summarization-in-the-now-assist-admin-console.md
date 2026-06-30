@@ -13,7 +13,7 @@ breadcrumb: [Activate a Now Assist skill, Using Now Assist Admin, Now Assist, En
 
 # Configure chat summarization and chat reply recommendation skills in the Now Assist Admin console
 
-Define the triggers, inputs, and display location for chat summarization and chat reply recommendation by using the guided setup in the [[platform-now-assist-landing|Now Assist]] Admin console. The activation steps are conceptually same for both the skills.
+Define the triggers, inputs, and display location for chat summarization and chat reply recommendation by using the guided setup in the Now Assist Admin console. The activation steps are conceptually same for both the skills.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
     If you’re already in the Now Assist Admin console, select the **Now Assist Features** tab.
 
-2.  On the [[now-assist-global-navigation|navigation]] panel, select a workflow that has chat recommendation, either **Technology** or **Customer**.
+2.  On the navigation panel, select a workflow that has chat recommendation, either **Technology** or **Customer**.
 
     Each workflow contains feature sets.
 
@@ -35,7 +35,7 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 5.  Go to **Define Trigger**, the first step in the guided setup.
 
-    By default, many of the options in the setup are configured for the most common use [[cases|cases]]. You might need to select the step in the guided setup navigation to go back and change the [[exploring-ai-governance|configurations]] in previous steps. You can also use **Back** to navigate through the steps.
+    By default, many of the options in the setup are configured for the most common use cases. You might need to select the step in the guided setup navigation to go back and change the configurations in previous steps. You can also use **Back** to navigate through the steps.
 
 6.  Using the toggles, select the actions trigger the chat recommendation skill.
 
@@ -73,15 +73,15 @@ Role required: sn\_generative\_ai.nsa\_admin
 
 16. Go to **Select display**, the last step, and select where you would like to display the skill.
 
-    You can select both in-product, [[now-assist-center-now-assist-panel|Now Assist panel]], or both.
+    You can select both in-product, Now Assist panel, or both.
 
     **Note:** Chat recommendation is not available in the Now Assist panel.
 
-    -   **In-product desktop**: When selected, [[now-assist-skills|Now Assist skills]] are displayed on forms and workspaces.
+    -   **In-product desktop**: When selected, Now Assist skills are displayed on forms and workspaces.
     -   **Now Assist panel**: When selected, Now Assist skills are available in the Now Assist panel. Select the down arrow to identify the roles that can use the skill. Select the arrow next to toggle, to select roles who can access the skill. You can add roles by entering the name of the role in the **User roles** field. You can remove existing roles by selecting the X icon in the role bubble. You must have at least one role specified, but you can add as many roles as you like.
     **Note:** You can use different roles for chat recommendation in different workflows. You can see which workflow you're configuring by checking the label next to the skill name at the top of the guided setup, such as "ITSM" or "HRSD."
 
-    \[Omitted image "na-chat-summarization-display.png"\] Alt text: Select display step of the Now Assist incident summarization skill configuration [[ai-prompts|prompts]] you to define where the skill is displayed, either in-product, in the Now Assist panel, or both.
+    \[Omitted image "na-chat-summarization-display.png"\] Alt text: Select display step of the Now Assist incident summarization skill configuration prompts you to define where the skill is displayed, either in-product, in the Now Assist panel, or both.
 
 17. Review your choices and complete the configuration by selecting **Activate**.
 
@@ -96,15 +96,5 @@ Chat recommendation or reply recommendation for the workflow is active on the in
 
 Analyze your skill performance and usage on the Now Assist Admin console to help determine the success of the skill. Learn more about tracking your Now Assist usage at [Monitoring Now Assist usage in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/monitoring-now-assist-usage.md).
 
-**Parent Topic:**[[configure-a-now-assist-skill|Activate a Now Assist skill]]
+**Parent Topic:**[Activate a Now Assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-a-now-assist-skill.md)
 
-## Related
-
-- [[configure-a-now-assist-skill|Activate a Now Assist skill]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-global-navigation|Navigation]]
-- [[cases|Cases]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-skills|Now Assist skills]]
-- [[ai-prompts|Prompts]]

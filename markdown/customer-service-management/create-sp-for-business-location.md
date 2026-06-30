@@ -12,7 +12,7 @@ breadcrumb: [Business locations, Configure Service Model Foundation, Data models
 
 # Create and manage sold products for a business location
 
-Staff members with the location agent role can manage [[sold-product|sold products]] for their business locations.
+Staff members with the location agent role can manage sold products for their business locations.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Staff members with the sn\_customerservice\_manager role can create sold product
 
 2.  Select either an internal or an external business location.
 
-3.  In the Sold Products related [[migration-lists|lists]], select **New**.
+3.  In the Sold Products related lists, select **New**.
 
 4.  On the form, fill in the fields.
 
@@ -81,10 +81,5 @@ Internal or external entity that is involved in providing service to the custome
 **Related topics**  
 
 
-[[create-sold-item|Create a sold product]]
+[Create a sold product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-sold-item.md)
 
-## Related
-
-- [[create-sold-item|Create a sold product]]
-- [[sold-product|Sold products]]
-- [[migration-lists|Lists]]

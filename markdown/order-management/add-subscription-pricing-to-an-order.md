@@ -12,7 +12,7 @@ breadcrumb: [Creating orders, Order Management, Use, Sales Customer Relationship
 
 # Add subscription pricing to an order
 
-Add contract pricing to an order or order line items including start and end dates in [[explore-order-management|Order Management]].
+Add contract pricing to an order or order line items including start and end dates in Order Management.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In an order, you can set the contract start date and end date, or you can enter 
 
 Subscription pricing can be added at the order header level or at the order line item level.
 
-See [[som-subscription-pricing|Subscription revenue metrics]] for more information about how contract pricing works.
+See [Subscription revenue metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/som-subscription-pricing.md) for more information about how contract pricing works.
 
 ## Procedure
 
@@ -55,10 +55,5 @@ See [[som-subscription-pricing|Subscription revenue metrics]] for more informati
 **Related topics**  
 
 
-[[field-descriptions-customer-orders|Order details page - Dates fields]]
+[Order details page - Dates fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/field-descriptions-customer-orders.md)
 
-## Related
-
-- [[som-subscription-pricing|Subscription revenue metrics]]
-- [[field-descriptions-customer-orders|Customer and Service order details forms]]
-- [[explore-order-management|Order management]]

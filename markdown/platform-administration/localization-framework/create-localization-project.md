@@ -14,17 +14,17 @@ breadcrumb: [Create translation projects, Localization Framework, Translation an
 
 # Create a localization project
 
-Create [[ia-localization-il|localization]] projects to bundle multiple requested items under one localization task.
+Create localization projects to bundle multiple requested items under one localization task.
 
 ## Before you begin
 
-Enable Localization Projects in [[localization-settings|Localization Framework settings]].
+Enable Localization Projects in Localization Framework settings.
 
 Role required: localization\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[localization-framework-landing|Localization Framework]]** &gt; **My Projects**.
+1.  Navigate to **All** &gt; **Localization Framework** &gt; **My Projects**.
 
 2.  Select **New**.
 
@@ -42,8 +42,4 @@ Role required: localization\_manager
 
 4.  Select **Submit**.
 
-## Related
 
-- [[ia-localization-il|Localization]]
-- [[localization-settings|Localization Framework settings]]
-- [[localization-framework-landing|Localization Framework]]

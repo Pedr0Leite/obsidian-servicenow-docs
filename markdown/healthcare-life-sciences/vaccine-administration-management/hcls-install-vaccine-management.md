@@ -14,17 +14,17 @@ breadcrumb: [Configure, Vaccine Administration Management, Healthcare and Life S
 
 # Install Vaccine Administration Management
 
-[[hcls-vam|Vaccine Administration Management]] \(VAM\) is available on the ServiceNow Store.
+Vaccine Administration Management \(VAM\) is available on the ServiceNow Store.
 
 ## Before you begin
 
-Vaccine Administration Management requires the ServiceNow® [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]] application, the Appointment Booking plugin \(com.snc.appointment\_booking\) . The Virtual Agent plugin \(com.glide.cs.chatbot\) can optionally be installed to enable chatbot conversations in the self-service portal.
+Vaccine Administration Management requires the ServiceNow® Healthcare and Life Sciences Service Management application, the Appointment Booking plugin \(com.snc.appointment\_booking\) . The Virtual Agent plugin \(com.glide.cs.chatbot\) can optionally be installed to enable chatbot conversations in the self-service portal.
 
 If you don't have a Healthcare and Life Sciences Service Management license, contact your ServiceNow account representative. The ServiceNow platform provides support for Field Encryption for the tables under the Vaccine Administration Management application. However, it isn't activated as part of the initial app installation.
 
 **Note:**
 
--   Installation of Vaccine Administration Management relies on [[hcls-core-app|Healthcare and Life Sciences Service Management Core]] \(com.sn\_hcls\) as a dependency plugin.
+-   Installation of Vaccine Administration Management relies on Healthcare and Life Sciences Service Management Core \(com.sn\_hcls\) as a dependency plugin.
 -   The customer is responsible for configuring the implementation to meet local compliance rules, regulations, and laws.
 -   If your instance is already set up to use encryption contexts for column-level encryption, migration is required to use encryption modules. Contact Now Support for assistance with the migration.
 -   To use Field Encryption Enterprise, customers must purchase the Field Encryption Enterprise SKU. If the customer doesn't share data contained in the Field Encryption Enterprise encrypted fields between instances, then the customer can install and activate Field Encryption Enterprise on a single instance \(and not on all account instances\). To avoid fees for using Field Encryption Enterprise, existing ServiceNow customers can use Field Encryption that is provided at no additional cost or use a third-party encryption solution.
@@ -92,8 +92,3 @@ Role required: admin
 
 **Parent Topic:**[Configuring Vaccine Administration Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/vaccine-administration-management/vaccine-mgmt-config.md)
 
-## Related
-
-- [[hcls-vam|Vaccine Administration Management]]
-- [[hcls-service-mgmt-overview|Healthcare and Life Sciences Service Management]]
-- [[hcls-core-app|Healthcare and Life Sciences Service Management Core]]

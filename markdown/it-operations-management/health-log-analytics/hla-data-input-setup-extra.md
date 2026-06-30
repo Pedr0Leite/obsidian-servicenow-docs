@@ -14,7 +14,7 @@ breadcrumb: [Set up data inputs manually, Set up HLA on your instance, Configuri
 
 # Additional data input setup tasks in Health Log Analytics
 
-After performing the initial data input setup and configuration in [[hla-landing-page|Health Log Analytics]], continue with the remaining data input setup tasks.
+After performing the initial data input setup and configuration in Health Log Analytics, continue with the remaining data input setup tasks.
 
 -   **[Add a timestamp format in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-timestamp-formats-add.md)**  
 Define any timestamp format that does not appear in the list of defined formats. Health Log Analytics must be able to read timestamps of any format contained in your log files.
@@ -35,6 +35,3 @@ Change the configuration of a data input for Health Log Analytics by adding a ne
 
 **Parent Topic:**[Set up data inputs in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-setup-manual.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -42,7 +42,7 @@ Data source
 
 </td><td>
 
-You have selected an Indicator data source in [[create-dv-donut-ac|Create a pie or donut data visualization]].
+You have selected an Indicator data source in [Create a pie or donut data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-donut-ac.md).
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -185,7 +185,7 @@ This selection opens a dialog in which you select additional items that the data
 
 Data snapshots indicators support only reference, boolean, and choice fields for alternative group bys.
 
-For more information about setting alternative group-bys for multiple metrics, see [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]. For more information about the viewer experience selecting from alternative group-by values, see [[select-group-runtime|Select a group-by value in a data visualization as a viewer]].
+For more information about setting alternative group-bys for multiple metrics, see [Options for time series data visualizations with multiple metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/chart-options-multi-metrics.md). For more information about the viewer experience selecting from alternative group-by values, see [Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md).
 
 **Important:**
 
@@ -298,7 +298,7 @@ Show total value
 
 </td><td>
 
-Option to show the overall total value. Value is still hidden if it does not fit in the donut, due to width/height settings, page resizing, or similar issues. Clicking the total value opens a list of contributing table records or [[kpi-details|KPI Details]] for the indicator.
+Option to show the overall total value. Value is still hidden if it does not fit in the donut, due to width/height settings, page resizing, or similar issues. Clicking the total value opens a list of contributing table records or KPI Details for the indicator.
 
 </td></tr><tr><td>
 
@@ -391,9 +391,3 @@ The alignment of the illustration and text in the message.
 </td></tr></tbody>
 </table>**Parent Topic:**[Create a pie or donut data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-donut-ac.md)
 
-## Related
-
-- [[create-dv-donut-ac|Create a pie or donut data visualization]]
-- [[chart-options-multi-metrics|Options for time series data visualizations with multiple metrics]]
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[kpi-details|KPI Details]]

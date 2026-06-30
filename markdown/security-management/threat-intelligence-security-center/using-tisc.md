@@ -14,9 +14,5 @@ breadcrumb: [Threat Intelligence Security Center, Security Operations]
 
 # Using Threat Intelligence Security Center
 
-Use [[tisc-landing-page|Threat Intelligence Security Center]] to manage [[threat-intel-landing-page|Threat Intelligence]] library records, import external threat data, and streamline case management. It helps security teams centralize intelligence data, enhance analysis, and respond more effectively to threats by integrating the relevant information into ongoing investigations.
+Use Threat Intelligence Security Center to manage Threat Intelligence library records, import external threat data, and streamline case management. It helps security teams centralize intelligence data, enhance analysis, and respond more effectively to threats by integrating the relevant information into ongoing investigations.
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

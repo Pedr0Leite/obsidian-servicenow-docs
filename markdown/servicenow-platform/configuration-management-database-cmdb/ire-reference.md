@@ -14,7 +14,7 @@ breadcrumb: [CMDB Identification and Reconciliation \(IRE\), Configuration Manag
 
 # CMDB IRE reference
 
-[[reference|Reference]] topics provide property settings, [[domain-separation-relationship-formatter-editor|domain separation]], and other reference content for the CMDB [[ire|Identification and Reconciliation Engine \(IRE\)]].
+Reference topics provide property settings, domain separation, and other reference content for the CMDB Identification and Reconciliation Engine \(IRE\).
 
 ## Reference topics
 
@@ -34,8 +34,4 @@ breadcrumb: [CMDB Identification and Reconciliation \(IRE\), Configuration Manag
 
     Details about tables associated with IRE.
 
-## Related
 
-- [[reference|Reference]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

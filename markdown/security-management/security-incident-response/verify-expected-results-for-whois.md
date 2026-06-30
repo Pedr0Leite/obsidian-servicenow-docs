@@ -14,7 +14,7 @@ breadcrumb: [Reverse Whois integration, Security Incident Response integrations,
 
 # \(Optional\) Run enrichment lookup and verify expected results for Whois
 
-Run the [[tisc-whoisxml-integration|Whois integration]] to perform enrichment lookups on the domains returned from the [[reversewhois-lookups|Reverse Whois integration]].
+Run the Whois integration to perform enrichment lookups on the domains returned from the Reverse Whois integration.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_si.analyst
 
 ## About this task
 
-Results are displayed on the **[[tisc-observable-enrichment|Observable Enrichment]] Results** tab on the Observable record.
+Results are displayed on the **Observable Enrichment Results** tab on the Observable record.
 
 ## Procedure
 
@@ -38,9 +38,9 @@ Results are displayed on the **[[tisc-observable-enrichment|Observable Enrichmen
 
 4.  In the **Observable** column, select an observable.
 
-    On the **Child [[c_Observables|Observables]]** tab, the child observables are displayed. The child observables are generated only if the initial scan of the observable by the Reverse Whois application returned domains.
+    On the **Child Observables** tab, the child observables are displayed. The child observables are generated only if the initial scan of the observable by the Reverse Whois application returned domains.
 
-5.  Select the child observables you want to run the observable enrichment on, and, in the **Action on selected rows** list, select **[[tisc-run-observable-enrichment|Run Observable Enrichment]]**.
+5.  Select the child observables you want to run the observable enrichment on, and, in the **Action on selected rows** list, select **Run Observable Enrichment**.
 
     The **Run Observable Enrichment** dialog box is displayed.
 
@@ -68,10 +68,3 @@ If you can't locate child observables or enrichment results, verify that the Rev
 
 [Verify expected results for Reverse Whois](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/verify-expected-rslts-rvrsewhois.md)
 
-## Related
-
-- [[tisc-whoisxml-integration|Whois integration]]
-- [[reversewhois-lookups|Reverse Whois integration]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[c_Observables|Observables]]
-- [[tisc-run-observable-enrichment|Run Observable Enrichment]]

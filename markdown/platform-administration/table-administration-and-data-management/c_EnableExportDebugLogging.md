@@ -26,7 +26,7 @@ When the property glide.export.debug is true, the instance logs export processin
 07/17/14 15:53:48 (550) SYSTEM Enabling elevated role: security_admin
 07/17/14 15:53:48 (588) SYSTEM Export API - ExcelExporter : 29 rows retrieved from database duration_milliseconds=2
 07/17/14 15:53:49 (534) NONE New transaction EB39A310EB022100C46AC2EEF106FED9 #751 /poll_processor.do
-07/17/14 15:53:49 (544) EB39A310EB022100C46AC2EEF106FED9 #751 /poll_processor.do [[r_DirectJDBCProbeParameters|Parameters]] -------------------------
+07/17/14 15:53:49 (544) EB39A310EB022100C46AC2EEF106FED9 #751 /poll_processor.do Parameters -------------------------
     sys_action=poll
     sysparm_processor=poll_processor
     job_id=a61a2314eb022100c46ac2eef106fe0a
@@ -34,6 +34,3 @@ When the property glide.export.debug is true, the instance logs export processin
 07/17/14 15:53:49 (740) SYSTEM Export API - ExcelExporter : Rows written to file duration_milliseconds=1150
 ```
 
-## Related
-
-- [[r_DirectJDBCProbeParameters|Parameters]]

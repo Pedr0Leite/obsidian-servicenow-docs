@@ -14,7 +14,7 @@ breadcrumb: [Administer, Instance Data Replication, Manage instance data sources
 
 # Manage consumer access to replication data in Instance Data Replication
 
-Approve a consumer's request to access replication data in [[instance-data-replication|Instance Data Replication]] \(IDR\).
+Approve a consumer's request to access replication data in Instance Data Replication \(IDR\).
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ You can review consumer access requests for all of your producer replication set
 
     The approved consumer sets start receiving the replicated data.
 
-    **Note:** You can change the Consumer [[c_ApprovalStatus|Approval Status]] to Denied to prevent the consumer from receiving the replicated data.
+    **Note:** You can change the Consumer Approval Status to Denied to prevent the consumer from receiving the replicated data.
 
 4.  Approve a consumer access request for a specific producer replication set.
 
@@ -75,7 +75,3 @@ Restore Instance Data Replication \(IDR\) access to replicated data by sending a
 
 [Resolving data replication errors in Instance Data Replication]()
 
-## Related
-
-- [[instance-data-replication|Instance Data Replication]]
-- [[c_ApprovalStatus|Approval status]]

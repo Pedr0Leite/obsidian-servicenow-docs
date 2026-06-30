@@ -14,7 +14,7 @@ breadcrumb: [Configure, Task Mining, Platform Analytics]
 
 # Install the Task Mining agent
 
-The [[task-mining|Task Mining]] agent is a service installed on workstations that logs certain events from desktop applications.
+The Task Mining agent is a service installed on workstations that logs certain events from desktop applications.
 
 Role required: Task Mining Agent Install
 
@@ -43,6 +43,3 @@ The process to install a Task Mining agent is as follows:
 
 For more information about the data collected, see [Data collected by Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/data-management.md).
 
-## Related
-
-- [[task-mining|Task Mining]]

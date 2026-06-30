@@ -14,7 +14,7 @@ breadcrumb: [Supplier contact self-registration process, Supplier contact self-r
 
 # Approve a request associated with the Enroll a new supplier user case type from the Source-to-Pay Workspace
 
-As a [[supplier|supplier]] manager, you can approve or reject the assigned approve requests.
+As a supplier manager, you can approve or reject the assigned approve requests.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_slm.manager, sn\_slm.owner, sn\_slm.fulfiller, or sn\_slm.adm
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Open a supplier case.
 
@@ -53,8 +53,3 @@ The request associated with the **Enroll a new supplier user** case type is appr
 
 **Parent Topic:**[Supplier contact self-registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/how-self-reg-works.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

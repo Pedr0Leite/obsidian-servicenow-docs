@@ -14,7 +14,7 @@ breadcrumb: [IntegrationHub ETL, Integrating third-party data into CMDB, Configu
 
 # Add before and after scripts to an integration data source
 
-Add custom before and after scripts for a data source of a CMDB integration application. Those scripts provide access to the input and output payloads of IRE. When a CMDB integration invokes [[ire|Identification and Reconciliation Engine \(IRE\)]], those scripts run before and after IRE processes the integration payload.
+Add custom before and after scripts for a data source of a CMDB integration application. Those scripts provide access to the input and output payloads of IRE. When a CMDB integration invokes Identification and Reconciliation Engine \(IRE\), those scripts run before and after IRE processes the integration payload.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: cmdb\_inst\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[integrationhub-etl|IntegrationHub ETL]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **IntegrationHub ETL**.
 
     The landing page of the IntegrationHub ETL lists all integrations that exist in the system, including integrations that were downloaded from the ServiceNow Store.
 
@@ -42,7 +42,3 @@ Role required: cmdb\_inst\_admin
 
 [Identification and Reconciliation Engine \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]

@@ -14,7 +14,7 @@ breadcrumb: [Discovery behaviors, Advanced Discovery configuration, Configuring 
 
 # Access an ACL-protected SNMP device
 
-Access an SNMP device protected by an ACL using a [[r-discovery|Discovery]] behavior.
+Access an SNMP device protected by an ACL using a Discovery behavior.
 
 ## Before you begin
 
@@ -44,7 +44,7 @@ A specific type of Access Control List \(ACL\) on an SNMP device can prevent Dis
 
         For the functionality that scans for the WMI protocol, we must define criteria that specify the Windows domain and MID Server being used. Because this Discovery is being performed on one Windows domain, we can configure a functionality for WMI and SSH \(**All except SNMP**\) using the same MID Server.
 
-    \[Omitted image "DiscoveryBehaviorRecordACL.png"\] Alt text: [[c_DiscoveryBehaviors|Discovery behaviors]]
+    \[Omitted image "DiscoveryBehaviorRecordACL.png"\] Alt text: Discovery behaviors
 
 4.  Define the functionalities.
 
@@ -169,7 +169,3 @@ Be sure to enable the criteria by selecting this check box \(**true**\).
 
 [Examples of Discovery behavior functionalities]()
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryBehaviors|Discovery behaviors]]

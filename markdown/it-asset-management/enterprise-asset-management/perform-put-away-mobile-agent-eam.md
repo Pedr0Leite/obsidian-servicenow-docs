@@ -23,7 +23,7 @@ Role required: inventory\_user
 
 ## About this task
 
-The inventory user can scan the available assets in the inventory and put them away in the scanned aisle-space in the stockroom. The [[enterprise-asset-management|Enterprise Asset Management]] application checks the existence of an active put away task for the asset and makes the required update in the [[using-eam-workspace|Enterprise Asset Workspace]].
+The inventory user can scan the available assets in the inventory and put them away in the scanned aisle-space in the stockroom. The Enterprise Asset Management application checks the existence of an active put away task for the asset and makes the required update in the Enterprise Asset Workspace.
 
 -   If an active Asset put away task exists, the task is closed when the asset is placed in the designated stockroom location.
 -   If an active Asset put away task doesn't exist for the asset, then a task is created and closed when the asset is placed in the designated stockroom location.
@@ -53,7 +53,3 @@ The inventory user can scan the available assets in the inventory and put them a
 
 A confirmation message appears on the mobile screen showing the number of put away tasks closed.
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -14,13 +14,13 @@ breadcrumb: [Vulnerability Response Workspaces, Unified Security Exposure Manage
 
 # IT Remediation Workspace
 
-IT teams can save time resolving IT-related [[vulnerabilities|vulnerabilities]] by easily creating change requests, rescanning vulnerable items, and submitting exception requests from the IT Remediation Workspace.
+IT teams can save time resolving IT-related vulnerabilities by easily creating change requests, rescanning vulnerable items, and submitting exception requests from the IT Remediation Workspace.
 
 ## Get started
 
 <table id="table_ocs_2gm_qzb" class="nav-card"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text:Learn about the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-itro-wkspce.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text:Learn about the IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/vr-ws-itro-wkspce.md)
 
 </td><td>
 
@@ -28,7 +28,7 @@ IT teams can save time resolving IT-related [[vulnerabilities|vulnerabilities]] 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information that you use to configure and [[tisc-data-administration|administer]] IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/it-remediation-workspace-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information that you use to configure and administer IT Remediation Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/it-remediation-workspace/it-remediation-workspace-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -37,8 +37,3 @@ IT teams can save time resolving IT-related [[vulnerabilities|vulnerabilities]] 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[vulnerabilities|Vulnerabilities]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[tisc-data-administration|Administer]]

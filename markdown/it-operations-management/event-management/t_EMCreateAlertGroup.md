@@ -18,7 +18,7 @@ An alert query is a set of alerts that meet specific criteria for a particular s
 
 ## Before you begin
 
-Navigate to **[[c_EM|Event Management]]** &gt; **Administration** &gt; **Event Management Properties** and ensure that the **Enable alert query support** \(**evt\_mgmt.impact\_calulation.alert\_group\_support**\) property is set to **Yes**.
+Navigate to **Event Management** &gt; **Administration** &gt; **Event Management Properties** and ensure that the **Enable alert query support** \(**evt\_mgmt.impact\_calulation.alert\_group\_support**\) property is set to **Yes**.
 
 Role required: evt\_mgmt\_admin or evt\_mgmt\_operator
 
@@ -42,7 +42,7 @@ You can learn about Event Management basics, including alert queries, from this 
 
     **Note:** In the **Filter** field:
 
-    -   When defining an alert query filter, include only fields that appear in the Alert Histories \[em\_alert\_history\] table. Impact calculation is based on Alert History data and fields such as Overall Event Count, Priority, and [[alert-priority-group|Priority group]] are not copied to the Alert Histories \[em\_alert\_history\] table.
+    -   When defining an alert query filter, include only fields that appear in the Alert Histories \[em\_alert\_history\] table. Impact calculation is based on Alert History data and fields such as Overall Event Count, Priority, and Priority group are not copied to the Alert Histories \[em\_alert\_history\] table.
     -   Do not specify a dynamic time condition. For example, in the filter, do not specify `Created` condition of `Last 45 minutes` because impact calculation is triggered by a change of alert or alert query. However, for the dynamic time condition, none of these conditions have changed. \[Omitted image "dynamic-time-condition.png"\] Alt text: Do not specify a dynamic time condition
     -   Some filters may slow down impact calculation. To solve this problem, adjust your alert query by adding an appropriate index, as described in [Index suggestions for slow queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/index-suggestions.md).
 4.  Select **Update**.
@@ -55,7 +55,3 @@ You can learn about Event Management basics, including alert queries, from this 
 
 [Create alert group manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_SAAddAlertCorrelatedAlertGrp.md)
 
-## Related
-
-- [[c_EM|Event Management]]
-- [[alert-priority-group|Priority group]]

@@ -12,7 +12,7 @@ breadcrumb: [Repair form, Reference, Manufacturing Commercial Operations]
 
 # Pre-authorization form
 
-The pre-authorization form enables you to enter the [[mco-pre-auth-request|pre-authorization]] details.
+The pre-authorization form enables you to enter the pre-authorization details.
 
 <table id="table_npw_5cx_ygc"><thead><tr><th>
 
@@ -60,7 +60,7 @@ Description
 
 </td><td>
 
-Brief description about the [[mco-pre-auth-request-use|pre-authorization request]].
+Brief description about the pre-authorization request.
 
 </td></tr><tr><td>
 
@@ -104,16 +104,10 @@ Quantity of assets that are raised for pre-authorization claim. Unit of measure 
 -   Year
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[repair-form|Repair form]]
+</table>**Parent Topic:**[Repair form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/repair-form.md)
 
 **Related topics**  
 
 
-[[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
+[Create a pre-authorization request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-agents-create-pre-auth-request.md)
 
-## Related
-
-- [[repair-form|Repair form]]
-- [[mco-agents-create-pre-auth-request|Create a pre-authorization request]]
-- [[mco-pre-auth-request|Pre-authorization]]
-- [[mco-pre-auth-request-use|Pre-authorization request]]

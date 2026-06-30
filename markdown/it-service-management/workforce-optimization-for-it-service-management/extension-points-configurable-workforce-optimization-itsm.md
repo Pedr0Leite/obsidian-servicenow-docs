@@ -35,7 +35,7 @@ Here are some examples that provide guidance on some of the considerations you m
     -   The is a non-work type event.
     -   The event has to go through a manager approval process.
 
-To see a list of extension points that you can use for [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]], navigate to **System Extension Points** &gt; **Scripted Extension Points**. In the Extension Points list, open the sn\_shift\_planning.EventManager extension point.
+To see a list of extension points that you can use for Workforce Optimization for ITSM, navigate to **System Extension Points** &gt; **Scripted Extension Points**. In the Extension Points list, open the sn\_shift\_planning.EventManager extension point.
 
 Use scripted extension points to integrate customizations without altering the core components in the application code. When customizing a base application, you implement the scripted extension points by creating the custom script includes and registering them against the scripted extension points.
 
@@ -60,6 +60,3 @@ You can use extension points to create events such as meeting, training, and tim
 
 [Using extension points to extend application functionality](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/web-services/extension-points.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]

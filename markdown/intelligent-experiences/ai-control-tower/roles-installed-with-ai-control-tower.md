@@ -15,7 +15,7 @@ breadcrumb: [Reference, AI Control Tower, Enable AI experiences]
 
 # AI Control Tower roles
 
-Certain roles are installed along with the installation of the [[ai-control-tower-landing|AI Control Tower]].This section also covers roles which are installed with AI Risk and Compliance.
+Certain roles are installed along with the installation of the AI Control Tower.This section also covers roles which are installed with AI Risk and Compliance.
 
 <table id="table_a4d_hpy_yfc"><thead><tr><th>
 
@@ -41,16 +41,16 @@ AI steward\[sn\_ai\_governance.ai\_steward\]
 
  -   Configuring AI Control Tower
 -   Adoption of AI governance practices
--   Adoption of managing AI Control Tower and linking the [[ai-inventory|AI asset Inventory]]
+-   Adoption of managing AI Control Tower and linking the AI asset Inventory
 -   Execution of AI Control Tower initiatives
--   Understand the [[ai-assets|AI assets]] and AI Control Tower policies
--   [[creating-ai-assets|Creating AI assets]]
--   Completing the [[ai-asset-lifecycle|AI asset lifecycle]]
+-   Understand the AI assets and AI Control Tower policies
+-   Creating AI assets
+-   Completing the AI asset lifecycle
 -   Collaboration of cross-functional teams within the organization to confirm that the organization policies are adhered
--   Creating AI Control Tower Approval Playbook for [[platform-now-assist-landing|Now Assist]] [[approvals|approvals]].
+-   Creating AI Control Tower Approval Playbook for Now Assist approvals.
 -   Configure third-party LLMs and SLMs
 -   Configure Multi-instance management
--   Add and [[edit-value-template|edit a value template]]
+-   Add and edit a value template
 -   Learning to use the access map
 -   Approve or reject an approval request
 
@@ -59,9 +59,9 @@ AI steward\[sn\_ai\_governance.ai\_steward\]
  -   Activate or deactivate hyperscaler connections
 -   Select the hyperscaler connections to discover agents and usage on-demand
 
- For [[ai-gateway-overview|AI Gateway]]:
+ For AI Gateway:
 
- -   Add an MCP server via [[ai-agent-studio|AI Agent Studio]]
+ -   Add an MCP server via AI Agent Studio
 -   Set up MCP client connections
 
 </td><td>
@@ -85,7 +85,7 @@ AI Control Tower Workspace user \[sn\_ai\_governance\_workspace\_user\]
 The AI Control Tower Workspace user is responsible for:
 
  -   Own and manage the AI assets
--   Access the [[ai-control-tower-home-page|AI Control Tower home]] page
+-   Access the AI Control Tower home page
 -   Exclusive access to the AI portfolio tab
 
 </td><td>
@@ -101,7 +101,7 @@ AI asset owner \[sn\_ai\_asset\_mgmt.ai\_asset\_owner\]
 The AI asset owner is responsible for:
 
  -   Confirm that AI assets are represented accurately and kept up to date
--   Manage AI assets like [[ai-system|AI systems]], [[ai-models|AI models]], [[ai-datasets|datasets]], and [[ai-prompts|prompts]] through their asset lifecycle from intake to retirement
+-   Manage AI assets like AI systems, AI models, datasets, and prompts through their asset lifecycle from intake to retirement
 -   Access My overview, Value, and Adoption tabs
 -   Creating an AI asset from the AI Control Tower home page using **Create AI Asset icon**
 -   Marking the deploy phase of the AI asset lifecycle task complete. If the AI asset gets deployed, then the state of the task doesn’t change anything automatically in the asset table or the asset governance details record
@@ -136,7 +136,7 @@ AI Risk and Compliance Admin
 </td><td>
 
 ​The AI Risk and Compliance Admin can perform the following tasks:-   Set up risk and impact assessment frameworks. Configure risk assessment methodologies, risk contribution factors, and impact assessment templates
--   Define [[automation-rules|automation rules]] for impact assessments to determine applicable risks and [[controls|controls]] based on the assessment responses
+-   Define automation rules for impact assessments to determine applicable risks and controls based on the assessment responses
 -   Set up and profile AI case types
 -   Delete AI systems.
 -   Enable or disable Entity-Based Access for record types associated with entity properties, and configure the Entity-Based Access settings as needed.
@@ -291,7 +291,7 @@ AI Case Analyst
 
 </td><td>
 
-The AI Case Analyst can review the AI [[cases|cases]] and AI [[inquiries|inquiries]] assigned to them in the system and perform the following tasks only on the assigned records:-   Identify and manage impacted and related areas such as policies, regulations, and enterprise-wide compliance risks
+The AI Case Analyst can review the AI cases and AI inquiries assigned to them in the system and perform the following tasks only on the assigned records:-   Identify and manage impacted and related areas such as policies, regulations, and enterprise-wide compliance risks
 -   Identify and manage issues related to impacted areas to eliminate the root causes
 
 </td><td>
@@ -331,25 +331,3 @@ The AI Case Admin can manage type profiles to segregate AI cases. They can set u
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-inventory|AI asset inventory]]
-- [[ai-assets|AI assets]]
-- [[creating-ai-assets|Creating AI assets]]
-- [[ai-asset-lifecycle|AI asset lifecycle]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[approvals|Approvals]]
-- [[edit-value-template|Edit a value template]]
-- [[ai-gateway-overview|AI Gateway]]
-- [[ai-agent-studio|AI Agent Studio]]
-- [[ai-control-tower-home-page|AI Control Tower Home]]
-- [[ai-system|AI systems]]
-- [[ai-models|AI models]]
-- [[ai-datasets|Datasets]]
-- [[ai-prompts|Prompts]]
-- [[automation-rules|Automation rules]]
-- [[controls|Controls]]
-- [[cases|Cases]]
-- [[inquiries|Inquiries]]

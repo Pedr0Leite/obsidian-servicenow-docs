@@ -14,7 +14,7 @@ breadcrumb: [Configure, Service Graph Workspace, Configuration Management Databa
 
 # Modify important actions on the Governance view of Service Graph Workspace
 
-Modify the appearance order and other properties of the important action cards that appear on the Governance view of [[sg-workspace|Service Graph Workspace]].
+Modify the appearance order and other properties of the important action cards that appear on the Governance view of Service Graph Workspace.
 
 ## Before you begin
 
@@ -115,6 +115,4 @@ Attribute to group by the card's associated tasks in the card's list view. The c
 </td></tr></tbody>
 </table>4.  Select **Update**.
 
-## Related
 
-- [[sg-workspace|Service Graph Workspace]]

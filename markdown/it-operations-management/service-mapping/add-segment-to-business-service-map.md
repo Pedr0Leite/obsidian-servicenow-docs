@@ -34,7 +34,7 @@ When you transfer a map segment into another application service, the informatio
 
 You can't insert links to multiple application services from the same connection.
 
-If you use [[c_EM|Event Management]] for service monitoring in your organization, dependent application services include alerts generated for their contained services.
+If you use Event Management for service monitoring in your organization, dependent application services include alerts generated for their contained services.
 
 ## Procedure
 
@@ -128,6 +128,3 @@ To revert this operation:
 
 [Control user access to application services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/control-user-access-to-business-services.md)
 
-## Related
-
-- [[c_EM|Event Management]]

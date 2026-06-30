@@ -12,7 +12,7 @@ breadcrumb: [Portals, Use, Public Sector Digital Services \(PSDS\)]
 
 # Using the Grants Management Portal in Public Sector Digital Services
 
-As an applicant, you can use the [[psds-gmp-overview|Grants Management Portal]] to search and view available grant programs. You can apply to grant opportunities and track the progress and status of your application and accept or decline awards.
+As an applicant, you can use the Grants Management Portal to search and view available grant programs. You can apply to grant opportunities and track the progress and status of your application and accept or decline awards.
 
 Whether you're a business contact or a constituent, you can use the Grants Management Portal to:
 
@@ -38,6 +38,3 @@ Let's see how a constituent would apply for a grant from the Grants Management p
 
 When the customer submits the case, the status of the case changes from **Draft** to **New**.
 
-## Related
-
-- [[psds-gmp-overview|Grants Management Portal]]

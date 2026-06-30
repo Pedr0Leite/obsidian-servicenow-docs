@@ -50,7 +50,7 @@ The **Sprint Tracking** tab provides the following views:
 
 -   **Story board**
 
-    Story board is built on visual task boards, which transform the navigation of lists and [[form-field-information-for-dw|forms]] into an interactive graphical experience. The visual task board interface provides a graphic-rich environment suited for managing and collaborating records. To know more about the actions that can be performed in the board, see [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_VisualTaskBoards.md). In addition, you can:
+    Story board is built on visual task boards, which transform the navigation of lists and forms into an interactive graphical experience. The visual task board interface provides a graphic-rich environment suited for managing and collaborating records. To know more about the actions that can be performed in the board, see [Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_VisualTaskBoards.md). In addition, you can:
 
     -   Track all the stories of the current sprint across lanes.
     -   Move stories from one lane to another, which in turn updates the state of the stories.
@@ -63,7 +63,7 @@ The **Sprint Tracking** tab provides the following views:
     -   Filter scrum tasks based on search criteria.
 -   **List**
 
-    List displays scrum tasks and [[c_Tests|tests]] associated to stories in each sprint. You can:
+    List displays scrum tasks and tests associated to stories in each sprint. You can:
 
     -   Add scrum task and tests without leaving the context of the record.
     -   View the state, short description, and assignee of the scrum task without drilling down into details.
@@ -94,7 +94,3 @@ Create, execute, track, and complete the scrum tasks and tests of a SAFe story f
 
 [SAFe Board — ART level]()
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[c_Tests|Tests]]

@@ -34,7 +34,7 @@ Record information icon \[Omitted image "contextual-side-panel-record-info.png"\
 
 </td><td>
 
-Relevant information about a record. In License and Permit Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [[psds-lpr-playbook-viewing-ribbon|Viewing the ribbon information in License and Permit Playbook]].
+Relevant information about a record. In License and Permit Playbook, the ribbon displays the record information, constituent details, the case timeline, and the active and inactive service level agreements \(SLAs\). For more information on how to view information about the ribbon in playbooks, see [Viewing the ribbon information in License and Permit Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-lpr-playbook-viewing-ribbon.md).
 
 </td></tr><tr><td>
 
@@ -78,7 +78,3 @@ Standard content that is related to resolving the issue. To create a template, s
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[psds-lpr-playbook-viewing-ribbon|Viewing the ribbon information in License and Permit Playbook]]

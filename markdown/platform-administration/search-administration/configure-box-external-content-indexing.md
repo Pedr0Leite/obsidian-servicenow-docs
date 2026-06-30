@@ -15,7 +15,7 @@ breadcrumb: [Box external content connector, Configure, External Content Connect
 
 # Configure Box for external content indexing
 
-Create and authorize an OAuth 2.0 application in the Box developer console to allow the [[box-external-content-connector|Box external content connector]] to access your Box source system.
+Create and authorize an OAuth 2.0 application in the Box developer console to allow the Box external content connector to access your Box source system.
 
 ## Before you begin
 
@@ -138,6 +138,3 @@ For details on creating and configuring a Box Cloud external content connector, 
 
 **Parent Topic:**[Box external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/box-external-content-connector.md)
 
-## Related
-
-- [[box-external-content-connector|Box external content connector]]

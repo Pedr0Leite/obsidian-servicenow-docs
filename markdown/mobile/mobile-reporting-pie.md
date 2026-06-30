@@ -14,11 +14,11 @@ breadcrumb: [Using data visualizations, Mobile platform dashboards, Using the mo
 
 Learn to use pie charts for mobile, which show segments that make up a whole. This data visualization enables you to see the portions and percentages between different priorities at a single glance. For example, a pie chart report showing open incidents by priority, enables you to see whether incident counts of different priorities are within acceptable ranges.
 
-**Note:** For information on how to configure pie charts, you need to create mobile dashboard previews within a launcher screen. For more information, see [[sg-mobile-applet-launcher|Launcher screens]] and [[mobile-dashboard-preview|Mobile dashboard preview]].
+**Note:** For information on how to configure pie charts, you need to create mobile dashboard previews within a launcher screen. For more information, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md) and [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
 <table id="simpletable_vj3_cqw_m1c"><tbody><tr><td>
 
-To display a pie chart, tap on the dashboard preview in a launcher screen. Alternatively, you can navigate to a [[chart-screen|chart screen]] via a navigation button.
+To display a pie chart, tap on the dashboard preview in a launcher screen. Alternatively, you can navigate to a chart screen via a navigation button.
 
  Tap on a pie chart segment to display in the header, the number of records contained in that segment. Also displayed in the header is the percentage of records for that selected segment, compared to the remaining segment records within the chart.
 
@@ -32,9 +32,3 @@ To display a pie chart, tap on the dashboard preview in a launcher screen. Alter
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[mobile-dashboard-preview|Mobile dashboard preview]]
-- [[chart-screen|Chart screen]]

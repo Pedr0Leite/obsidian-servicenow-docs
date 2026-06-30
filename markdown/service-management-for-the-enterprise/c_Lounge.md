@@ -16,8 +16,5 @@ When a facilities administrator sets up a move scenario without specifying the d
 
 \[Omitted image "Lounge.png"\] Alt text: In this figure, the Lounge shows four users needing a destination on the campus.
 
-**Parent Topic:**[[t_PlanScenarioMPT|Plan a move scenario]]
+**Parent Topic:**[Plan a move scenario](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/t_PlanScenarioMPT.md)
 
-## Related
-
-- [[t_PlanScenarioMPT|Plan a move scenario]]

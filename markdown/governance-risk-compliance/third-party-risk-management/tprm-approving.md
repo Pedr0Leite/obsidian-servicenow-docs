@@ -43,7 +43,7 @@ With the Third-party due diligence default configuration, you can create three r
 
 During the approval process, level 1 is triggered first. If all assigned users approve the conditions in level 1, then level 2 is triggered and so on. If any assigned user in level 1 has rejected the due diligence request, level 2 isn't triggered and the due diligence request is rejected. For more information on possible rating definitions, see [Set up risk rating scales for scoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-risk-rating-scales-config.md).
 
-**Note:** You can use the Third-party due diligence default configuration included as part of the base system or deactivate the default configuration and create an [[bcm-approval-configuration|approval configuration]] that applies to a different table. For more information, see [Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md).
+**Note:** You can use the Third-party due diligence default configuration included as part of the base system or deactivate the default configuration and create an approval configuration that applies to a different table. For more information, see [Set up an approval configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/set-up-approval-configurator.md).
 
 For more information on setting up approval levels and rules, see [Set up the approval levels for due diligence requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-levels.md) and [Set up the approval rules for due diligence requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-set-request-approval-rules.md).
 
@@ -51,7 +51,7 @@ For more information on setting up approval levels and rules, see [Set up the ap
 
 The following infographic shows the approval process.
 
-\[Omitted image "mmasset0020743-approval-process-custom.png"\] Alt text: Infographic that shows the approval process in the [[tprm-workflow-in-workspace|due diligence workflow]]. For the text description, refer to the text that follows.
+\[Omitted image "mmasset0020743-approval-process-custom.png"\] Alt text: Infographic that shows the approval process in the due diligence workflow. For the text description, refer to the text that follows.
 
 The due diligence request enters the Ready for TPRM approval state after all assessments have been closed. The TPR manager \[sn\_vdr\_risk\_asmt.vendor\_risk\_manager\] or TPR assessor \[sn\_vdr\_risk\_asmt.vendor\_assessor\] that has been assigned as the owner of the due diligence request confirm approvers have been assigned to the due diligence request. After validating the assigned approvers, the TPR manager or owner requests approval. The due diligence request enters the Awaiting approval state and the system sends an email notification to all assigned approvers.
 
@@ -98,7 +98,3 @@ After the due diligence request is rejected, the following actions occur:
 
 **Note:** The owner can reopen the approval process by selecting the due diligence request from the All request list. The owner is required to provide a justification for restarting the approval process.
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

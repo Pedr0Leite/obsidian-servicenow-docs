@@ -13,7 +13,7 @@ breadcrumb: [Developer resources, Financial Services Operations \(FSO\)]
 
 # FSO table definitions
 
-The [[fso-overview|Financial Services]] Operations \(FSO\) product provides multiple tables that you can leverage within your custom FSO applications. This section identifies the most frequently used of these tables and defines the fields contained within them.
+The Financial Services Operations \(FSO\) product provides multiple tables that you can leverage within your custom FSO applications. This section identifies the most frequently used of these tables and defines the fields contained within them.
 
 -   [Consumer \[csm\_consumer\] table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-table_defs.md)
 -   [Credit Card \[sn\_bom\_credit\_card\] table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-table_defs.md)
@@ -7295,7 +7295,3 @@ Maximum length: 40
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[fso-overview|Financial Services]]

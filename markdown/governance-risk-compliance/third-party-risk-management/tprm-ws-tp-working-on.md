@@ -52,8 +52,5 @@ On most reports, you can select an item to view the underlying data.
     For DD requests, risk intelligence scores appear in a list. For an individual third party, a card displays the most recent score or rating and a link for each risk intelligence report. See [Viewing risk intelligence scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-tab-risk-intel-scores.md).
 
 
-**Note:** When you select the More tab, you can view additional tabs that will show other types of relevant information such as, associated assessments, issues, tasks, risk components, entities, [[entity-type-in-risk-ws|entity types]], and more.
+**Note:** When you select the More tab, you can view additional tabs that will show other types of relevant information such as, associated assessments, issues, tasks, risk components, entities, entity types, and more.
 
-## Related
-
-- [[entity-type-in-risk-ws|Entity types]]

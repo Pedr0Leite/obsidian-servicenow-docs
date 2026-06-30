@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Contract** &gt; **Administration** &gt; **[[c_UseConditionCheckDefinitions|Condition Check Definitions]]**.
+1.  Navigate to **All** &gt; **Contract** &gt; **Administration** &gt; **Condition Check Definitions**.
 
 2.  Click **New**.
 
@@ -121,6 +121,3 @@ The order in which the conditions are evaluated. The first condition that is fou
 
 **Parent Topic:**[Condition check definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/c_UseConditionCheckDefinitions.md)
 
-## Related
-
-- [[c_UseConditionCheckDefinitions|Condition check definitions]]

@@ -24,11 +24,11 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 ## About this task
 
-Selecting the Raise feedback option raises the threshold for generating alerts when [[hla-landing-page|Health Log Analytics]] identifies future anomalies similar to the one that led to this alert.
+Selecting the Raise feedback option raises the threshold for generating alerts when Health Log Analytics identifies future anomalies similar to the one that led to this alert.
 
 ## Procedure
 
-1.  In the [[workspace-dashboard-use|Service Operations Workspace]], open a Log Analytics alert and then select **Apply ML feedback** &gt; **Raise**.
+1.  In the Service Operations Workspace, open a Log Analytics alert and then select **Apply ML feedback** &gt; **Raise**.
 
     \[Omitted image "hla-raise-feedback.png"\] Alt text: Raise feedback option.
 
@@ -47,7 +47,3 @@ Selecting the Raise feedback option raises the threshold for generating alerts w
 
 **Parent Topic:**[Assign higher or lower significance to an alert in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-alert-significance.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

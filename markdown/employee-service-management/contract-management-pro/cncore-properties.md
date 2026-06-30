@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Properties installed to configure contracts integrations
 
-There are several properties that you can use to configure integrations for [[cncore-cmpro-landing-page|Contract Management Pro]].
+There are several properties that you can use to configure integrations for Contract Management Pro.
 
 These properties are available for Contract Management Pro.
 
@@ -132,6 +132,3 @@ Generate a certificate of completion for electronically signed contracts.
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

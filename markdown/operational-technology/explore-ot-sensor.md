@@ -16,7 +16,7 @@ The Discovery Sensor for OT provides you with enhanced scanning and query functi
 
 ## Discovery Sensor for OT overview
 
-This section provides an overview of the Discovery Sensor for OT and its integration with the Discovery Console for OT. For detailed functionality and configuration, refer to [[ot-discovery-console-landing|Discovery Console for Operational Technology \(OT\)]].
+This section provides an overview of the Discovery Sensor for OT and its integration with the Discovery Console for OT. For detailed functionality and configuration, refer to [Discovery Console for Operational Technology \(OT\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/ot-discovery-console-landing.md).
 
 ## Sensors on the Discovery Console for OT
 
@@ -24,14 +24,9 @@ The Appliance page displays a list of all Sensors and Collectors that are associ
 
 ## Appliances records
 
-The Discovery Sensor for OT is listed on the Appliances page separately from the Collector. If you select the Sensor name from the list, you can open that Sensor record. You can perform the same actions with the Sensor as you would with the Collector. However, Collectors aren't registered to the Console. See [[appliances-page|Appliances page]] and [[edit-appliance-record|Edit an Appliance record]] for more information.
+The Discovery Sensor for OT is listed on the Appliances page separately from the Collector. If you select the Sensor name from the list, you can open that Sensor record. You can perform the same actions with the Sensor as you would with the Collector. However, Collectors aren't registered to the Console. See [Appliances page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/appliances-page.md) and [Edit an Appliance record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/edit-appliance-record.md) for more information.
 
 ## What to do next
 
 To get started with the installation of the Discovery Sensor for OT, see .
 
-## Related
-
-- [[ot-discovery-console-landing|Discovery Console for Operational Technology \(OT\)]]
-- [[appliances-page|Appliances page]]
-- [[edit-appliance-record|Edit an Appliance record]]

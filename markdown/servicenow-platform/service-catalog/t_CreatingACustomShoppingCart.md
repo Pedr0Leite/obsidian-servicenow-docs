@@ -14,7 +14,7 @@ breadcrumb: [Create scripts, Service Catalog customization, Types of catalog ite
 
 # Create a custom cart
 
-Administrators with a knowledge of Jelly can customize the look and feel of [[service-catalog|service catalog]] carts, either globally or for specific catalog items, using the UI macro capability.
+Administrators with a knowledge of Jelly can customize the look and feel of service catalog carts, either globally or for specific catalog items, using the UI macro capability.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: admin
 
 3.  Fill in the details and write the script to define your custom cart.
 
-    **Note:** Designing a custom cart requires knowledge of the Jelly expression language. For [[reference|reference]] purposes, the default cart script appears in the list as catalog\_cart\_default.
+    **Note:** Designing a custom cart requires knowledge of the Jelly expression language. For reference purposes, the default cart script appears in the list as catalog\_cart\_default.
 
 4.  Click **Submit**.
 
@@ -63,7 +63,4 @@ Role required: catalog\_admin or admin
 
 4.  Save the changed form.
 
-## Related
 
-- [[service-catalog|Service Catalog]]
-- [[reference|Reference]]

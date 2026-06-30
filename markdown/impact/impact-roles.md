@@ -12,7 +12,7 @@ breadcrumb: [Impact reference, Impact]
 
 # Roles installed with Impact
 
-[[impact-landing-page|Impact]] offers many roles to assign to fit your business needs. When you log in to Impact, you’ll see a personalized view of your objectives, metrics, and recommendations tied directly to your role.
+Impact offers many roles to assign to fit your business needs. When you log in to Impact, you’ll see a personalized view of your objectives, metrics, and recommendations tied directly to your role.
 
 There are different Impact roles for the Impact Delivery Instance and the Impact Store Application.
 
@@ -34,7 +34,7 @@ General
 
 </th><th>
 
-[[platform-health-idi|Platform Health]]
+Platform Health
 
 </th></tr></thead><tbody><tr><td>
 
@@ -123,7 +123,7 @@ Impact Executive
 -   Define the long-term technology strategies for their organization
 -   Read access to all Incident Impact features
 -   Write access to some features within Impact
--   Read access to view [[capabilities-map|Capabilities Maps]], [[impact-par|Product Adoption Roadmaps]], Objectives and outcomes, Value Journey, Accelerators, and advisory sessions
+-   Read access to view Capabilities Maps, Product Adoption Roadmaps, Objectives and outcomes, Value Journey, Accelerators, and advisory sessions
 -   Create and update conversations
 
 </td><td>
@@ -300,12 +300,5 @@ Impact Admin
 -   Has full access to all Impact features.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[impact-reference|Impact reference]]
+</table>**Parent Topic:**[Impact reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/impact-reference.md)
 
-## Related
-
-- [[impact-reference|Impact reference]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[capabilities-map|Capabilities maps]]
-- [[impact-par|Product Adoption Roadmaps]]

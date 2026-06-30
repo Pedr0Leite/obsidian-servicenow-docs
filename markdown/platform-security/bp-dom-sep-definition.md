@@ -12,7 +12,7 @@ breadcrumb: [Domain separation explained, Recommended practices for service prov
 
 # Definition of domain separation
 
-With domain separation \(also known as the ServiceNow® Multitenant Platform Architecture\), you can segregate application data, UI, and [[sc-business-logic|business logic]] in a single customer instance that supports hierarchical modeling with cross-tenant \(customer\) intelligence.
+With domain separation \(also known as the ServiceNow® Multitenant Platform Architecture\), you can segregate application data, UI, and business logic in a single customer instance that supports hierarchical modeling with cross-tenant \(customer\) intelligence.
 
 ## Properties of domain separation
 
@@ -28,23 +28,16 @@ Domain-separated ServiceNow applications are defined with the following properti
 
 -   **Business logic separation**
 
-    Supports customer-specific system [[ca-policies|policies]] such as [[email|email]] notifications, business rules, client scripts, UI policy, and UI actions.
+    Supports customer-specific system policies such as email notifications, business rules, client scripts, UI policy, and UI actions.
 
 -   **Hierarchical modeling**
 
     Supports nested-multitenancy so parent tenants \(customers\) can access child customer resources. The business logic for parent customers runs automatically for child customers and can be overridden at any level.
 
--   **Cross-customer intelligence \([[c_DomainScope|domain scope]]\)**
+-   **Cross-customer intelligence \(domain scope\)**
 
     Handles automatically the data, metadata, business logic, and processing context for tenants that have access to additional tenant data.
 
 
-**Parent Topic:**[[bp-what-is-domain-separation|Domain separation explained]]
+**Parent Topic:**[Domain separation explained](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/bp-what-is-domain-separation.md)
 
-## Related
-
-- [[bp-what-is-domain-separation|Domain separation explained]]
-- [[sc-business-logic|Business Logic]]
-- [[ca-policies|Policies]]
-- [[email|Email]]
-- [[c_DomainScope|Domain scope]]

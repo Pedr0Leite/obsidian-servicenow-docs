@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Configure Credential Identifier for Certificate Management credential type
 
-Ensure unique identification and effective management of credentials by configuring credential identifier for [[cert-inventory-mgmt|Certificate Inventory and Management]].
+Ensure unique identification and effective management of credentials by configuring credential identifier for Certificate Inventory and Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-To enable external storage credential support for TLS certificate [[r-discovery|discovery]] from CA types such as GoDaddy, DigiCert, and Sectigo, set up the credential identifier within the instance for the respective Certificate Management credential type.
+To enable external storage credential support for TLS certificate discovery from CA types such as GoDaddy, DigiCert, and Sectigo, set up the credential identifier within the instance for the respective Certificate Management credential type.
 
 ## Procedure
 
@@ -44,7 +44,4 @@ To enable external storage credential support for TLS certificate [[r-discovery|
 
 6.  Select **Submit**.
 
-## Related
 
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[r-discovery|Discovery]]

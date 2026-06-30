@@ -20,7 +20,7 @@ You can download log files for the Discovery Console for OT.
 
 To download these logs, do the following.
 
--   In the Console, go to the [[settings-page-console|Settings page]].
+-   In the Console, go to the Settings page.
 -   On the Settings page, select the **Log** tab.
 -   In the drop-down field, select one of the date settings.
     -   **Today**
@@ -43,6 +43,3 @@ The Console has an early access capability for retrieving Sensor logs. Currently
 
 If you have questions or need assistance, [contact Customer Service and Support.](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[settings-page-console|Settings page]]

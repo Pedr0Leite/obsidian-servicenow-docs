@@ -23,11 +23,11 @@ Roles required: admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
-2.  Under **Technology**, select **[[security-operations-landing-page|Security Operations]]**.
+2.  Under **Technology**, select **Security Operations**.
 
-3.  In **All features**, select **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+3.  In **All features**, select **Threat Intelligence Security Center**.
 
-    The following [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]] skills are displayed:
+    The following Now Assist for Threat Intelligence Security Center skills are displayed:
 
     -   TISC Case Summarization
 4.  Select **\[Omitted image "cj-sir-flow-more-icon.png"\] Alt text: More actions icon.** &gt; **Make a copy**.
@@ -42,7 +42,7 @@ Roles required: admin
 
 7.  In **Customize prompt**, edit the prompt by reordering or removing the predefined sections.
 
-    Review and test the prompt on a [[threat-intel-landing-page|threat intelligence]] record for each input template configuration.
+    Review and test the prompt on a threat intelligence record for each input template configuration.
 
 8.  In **Define access**, define the user access and role restrictions.
 
@@ -54,9 +54,4 @@ Roles required: admin
 
     Your skill is displayed in the available Threat Intelligence Security Center skills section.
 
-## Related
 
-- [[security-operations-landing-page|Security Operations]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[now-assist-tisc-landing|Now Assist for Threat Intelligence Security Center]]
-- [[threat-intel-landing-page|Threat Intelligence]]

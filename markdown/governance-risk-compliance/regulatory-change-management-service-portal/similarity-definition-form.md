@@ -66,7 +66,7 @@ Fields
 
 </td><td>
 
-Field types that are likely to help in recommending the citations. You can select the columns from the table in the **Table** field so that their data helps in predicting the citations more accurately. In this use case, the **Name**, the **Document Name**, **Document Description**, and **Description** fields are selected. These fields are the field types that contain the citation records that you want to recommend.**Note:** You can modify the fields selected here if there are other non-empty important fields on the issue record in your database, such that these fields can help in finding out similar citations for mapping to the [[list-view-of-reg-alerts|regulatory alerts]].
+Field types that are likely to help in recommending the citations. You can select the columns from the table in the **Table** field so that their data helps in predicting the citations more accurately. In this use case, the **Name**, the **Document Name**, **Document Description**, and **Description** fields are selected. These fields are the field types that contain the citation records that you want to recommend.**Note:** You can modify the fields selected here if there are other non-empty important fields on the issue record in your database, such that these fields can help in finding out similar citations for mapping to the regulatory alerts.
 
 </td></tr><tr><td>
 
@@ -98,7 +98,7 @@ Processing Language
 
 </td><td>
 
-Dominant language of the dataset that you are training on the solution definition. If the dataset language is English, choose **English**. By default, English processing is applied to all [[dataset-airc|datasets]]. For example, if you select **English**, the system processes the data in both English and Italian.
+Dominant language of the dataset that you are training on the solution definition. If the dataset language is English, choose **English**. By default, English processing is applied to all datasets. For example, if you select **English**, the system processes the data in both English and Italian.
 
 **Note:** The term processing indicates some of the language-specific steps that are used as part of training a solution. These steps include tokenizing words, removing stop words, and stemming.
 
@@ -129,7 +129,3 @@ Frequency of how often you want to refresh the data that you use to retrieve you
 </td></tr></tbody>
 </table>**Parent Topic:**[Train and use the similarity solution to recommend citations on regulatory alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/retrain-ml-reg-compliance-mapping.md)
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[dataset-airc|Datasets]]

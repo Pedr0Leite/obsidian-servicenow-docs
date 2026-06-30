@@ -14,7 +14,7 @@ breadcrumb: [Updated hardening settings, Baseline versions, Hardening settings, 
 
 # Updated hardening settings for baseline version 4.0
 
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 4.0.
+Some hardening settings have been updated with the release of Security Center baseline version 4.0.
 
 Baseline version 4.0 includes several updates to short descriptions for style and consistency between records. In addition, many property related scripts were also updated to improve accuracy of the default value for cases where the property has been removed from the sys\_property table.
 
@@ -32,10 +32,10 @@ Updates
 
 </td><td>
 
--   New technical [[sc-configuration|configuration]] name: **glide.basicauth.required.soap, glide.soap.require\_ws\_security**
+-   New technical configuration name: **glide.basicauth.required.soap, glide.soap.require\_ws\_security**
 -   Old technical configuration name: **glide.basicauth.required.soap**
--   New description: The glide property **glide.basicauth.required.soap** controls whether [[basic-authentication|basic authentication]] is required to make a SOAP [[c_requestAPI|request]] to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of true, then unauthenticated [[users|users]] performing SOAP operations will be mapped to the soap.guest user. This may enable an unauthenticated user to perform operations on the instance as if a logged in user to the instance. There may be additional impact if the user define within **com.glide.soap.guest\_user** is assigned additional roles.
--   Old description: The glide property **glide.basicauth.required.soap** controls whether [[c_Authentication|authentication]] is required to make a SOAP request to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of true, then authentication is disable for SOAP requests on the instance. It allows unauthenticated access to administrator or maint level operations; thereby negating security controls within the instance.
+-   New description: The glide property **glide.basicauth.required.soap** controls whether basic authentication is required to make a SOAP request to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of true, then unauthenticated users performing SOAP operations will be mapped to the soap.guest user. This may enable an unauthenticated user to perform operations on the instance as if a logged in user to the instance. There may be additional impact if the user define within **com.glide.soap.guest\_user** is assigned additional roles.
+-   Old description: The glide property **glide.basicauth.required.soap** controls whether authentication is required to make a SOAP request to an instance. If **glide.basicauth.required.soap** is not set to the recommended value of true, then authentication is disable for SOAP requests on the instance. It allows unauthenticated access to administrator or maint level operations; thereby negating security controls within the instance.
 -   New remediation: Ensure the property **glide.basicauth.required.soap** is set to the value true. Alternatively, configure the instance for WS Security by setting the property **glide.soap.require\_ws\_security** to true and following the product documentation to configure WS Security Profiles.
 -   Old remediation: Ensure the property **glide.basicauth.required.soap** exists in the sys\_properties table and is set to true.
 -   Rule Script: Script has been updated to improve detection accuracy.
@@ -55,9 +55,9 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-prevent-users-from-accepting-warning-to-bypass-csrf-validation|Prevent Users From Accepting Warning To Bypass CSRF Validation]]
+-   New short description: Prevent Users From Accepting Warning To Bypass CSRF Validation
 -   Old short description: Enforce CSRF Token Strict Validation
--   New description: This property prevents users from being able to accept a warning which allows a potentially malicious request to be sent to the instance. This warning appears when a POST request fails due to having a mis-matched anti-CSRF token belonging to one of the victim's other [[sc-active-sessions|active sessions]]. If **glide.security.csrf.strict.validation.mode** is not set to the recommended value of true, then an attacker can formulate a CSRF attack utilizing a leaked anti-CSRF token from a different active session belonging to the victim.A POST request to an instance contains an anti-CSRF token within sysparm\_ck or X-UserToken which matches the user's current session. If the anti-CSRF token is instead tied to one of the user's other active sessions, the POST request will return a 302 redirection to security\_interceptor.do with a Continue button available to the user when this property is set to false. Clicking this button will re-submit the request to the instance, except it will now having a valid anti-CSRF token. When this property is set to true, the 302 redirection to the security\_interceptor.do page will not display a Continue button and the user will not be allowed to resubmit the request.A successful CSRF attack will allow an attacker to effectively perform any operation that the victim is able to perform.
+-   New description: This property prevents users from being able to accept a warning which allows a potentially malicious request to be sent to the instance. This warning appears when a POST request fails due to having a mis-matched anti-CSRF token belonging to one of the victim's other active sessions. If **glide.security.csrf.strict.validation.mode** is not set to the recommended value of true, then an attacker can formulate a CSRF attack utilizing a leaked anti-CSRF token from a different active session belonging to the victim.A POST request to an instance contains an anti-CSRF token within sysparm\_ck or X-UserToken which matches the user's current session. If the anti-CSRF token is instead tied to one of the user's other active sessions, the POST request will return a 302 redirection to security\_interceptor.do with a Continue button available to the user when this property is set to false. Clicking this button will re-submit the request to the instance, except it will now having a valid anti-CSRF token. When this property is set to true, the 302 redirection to the security\_interceptor.do page will not display a Continue button and the user will not be allowed to resubmit the request.A successful CSRF attack will allow an attacker to effectively perform any operation that the victim is able to perform.
 -   Old description: This property enables CSRF token strict validation which prevents the reuse of CSRF tokens. If **glide.security.csrf.strict.validation.mode** is not set to the recommended value of true, then CSRF tokens could be reused which opens a door to CSRF attacks.
 -   New CVSS Score: 3.7
 -   Old CVSS Score: 3.1
@@ -86,8 +86,8 @@ Updates
 
 </td><td>
 
--   New short description: [[sc-enable-html-sanitizer|Enable HTML Sanitizer within Virtual Agent]]
--   Old short description: Enable [[c_HTMLSanitizer|HTML Sanitizer]]
+-   New short description: Enable HTML Sanitizer within Virtual Agent
+-   Old short description: Enable HTML Sanitizer
 -   New description: This property controls the whether the HtmlSanitizerService is enabled. If **com.glide.cs.html.sanitizer.enabled** is not set to true, then a Stored Cross-Site Scripting \(XSS\) attack is possible in the VA web client.
 -   Old description: This property controls the whether the HTMLSanitezerService is enabled. If **com.glide.cs.html.sanitizer.enabled** is not set to true, then a Stored Cross-Site Scripting \(XSS\) attack is possible in the VA web client.
 
@@ -134,7 +134,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 </td><td>
 
 -   New short description: Define Restricted Downloadable MIME Types
--   Old short description: [[sc-downloadable-mime-type-denylist|Restrict Downloadable MIME Types]]
+-   Old short description: Restrict Downloadable MIME Types
 -   New description: If **glide.ui.attachment.download\_mime\_types** does include dangerous items such as text/html,image/svg,image/svg+xml,application/xml, then dangerous files could be rendered inline in the browser which could lead to Cross Sitte Scripting attacks \(XSS\). This property is the list of comma separated attachment mime types which will not render inline in the browser. For example, including text/html will force HTML files to be downloaded to the client as attachments rather than viewed inline in the browser. Maintaining this list properly will prevent cross site scripting attacks.
 -   Old description: If **glide.ui.attachment.download\_mime\_types** does include dangerous items such as text/html,image/svg,image/svg+xml,application/xml, then dangerous files could be rendered inline in the browser which could lead to Cross Sitte Scripting attacks \(XSS\). This property is the list of comma separated attachment mime types which will not render inline in the browser. For example, including text/html will force html files to be downloaded to the client as attachments rather than viewed inline in the browser. Maintaining this list properly will prevent cross site scripting attacks.
 
@@ -149,7 +149,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td></tr><tr><td>
 
-[Restrict [[email|email]] domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-external-user-registration-email-domain-allowlist.md)
+[Restrict email domains for external user registration \[Updated in Security Center 1.3, 1.5, and 2.0\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-external-user-registration-email-domain-allowlist.md)
 
 </td><td>
 
@@ -165,7 +165,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-enable-captcha-external-user-registration|Enable Captcha for External User Registration]]
+-   New short description: Enable Captcha for External User Registration
 -   Old short description: Enable Captcha for External User Registration \(Plugin Applicability: External User Registration\)
 -   Rule Script: Script has been updated to improve detection accuracy
 
@@ -175,7 +175,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-external-user-registration-link-expiration|Minimize External User Registration Link Expiration Duration]]
+-   New short description: Minimize External User Registration Link Expiration Duration
 -   Old short description: Minimize External User Registration Link Expiration Duration \(Plugin Applicability: External User Registration\)
 -   Rule Script: Script has been updated to improve detection accuracy
 
@@ -185,7 +185,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-disallow-infected-files-download|Disallow Infected File Download]]
+-   New short description: Disallow Infected File Download
 -   Old short description: Disallow Infected Files Download
 -   New remediation: Ensure the property **com.glide.snap.infected\_download\_allowed** is set to False.
 -   Old Remediation: Ensure the property **com.glide.snap.infected\_download\_allowed** is set to True.
@@ -208,7 +208,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-disable-multisso-debugging|Disable MultiSSO Debugging]]
+-   New short description: Disable MultiSSO Debugging
 -   Old short description: Disable MultiSSO Debugging \(Plugin Applicability: Multiple Provider Single Sign-On\)
 
 </td></tr><tr><td>
@@ -231,7 +231,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-disable-entity-expansion|Disable Entity Expansion within the XMLDocument2 Streaming Parser]]
+-   New short description: Disable Entity Expansion within the XMLDocument2 Streaming Parser
 -   Old short description: Disable Entity Expansion
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -241,7 +241,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-apply-domain-separation|Apply Domain Separation on Dot Walked Fields]]
+-   New short description: Apply Domain Separation on Dot Walked Fields
 -   Old short description: Apply Domain Separation on Dot Walked Fields \(Plugin Applicability: Domain Separation\)
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -268,7 +268,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-account-recovery|Enable Account Recovery]]
+-   New short description: Enable Account Recovery
 -   Old short description: Enable Account Recovery \(Plugin Applicability: Multiple Provider Single Sign-On\)
 
 </td></tr><tr><td>
@@ -295,7 +295,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New short description: [[sc-setting-entity-expansion-threshold|Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable]]
+-   New short description: Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable
 -   Old short description: Minimize Entity Expansion Threshold
 -   New description: This property controls the maximum amount of entity expansion within an XML Parser. If **glide.xmlutil.max\_entity\_expansion** is not set to the recommended value of 3000 or less, then the GlideXMLUtil parsing scriptable may be vulnerable to denial of service attacks.
 -   Old description: This property controls the maximum amount of entity expansion within an XML Parser. If **glide.xmlutil.max\_entity\_expansion** is not set to the recommended value of 3000 or less, then XML parser may be vulnerable to denial of service attacks.
@@ -361,12 +361,12 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td><td>
 
--   New short description: [[sc-do-not-use-demo-certificates-active-saml-configurations-plugin|Do Not Use Demo Certificates for Active SAML Configurations]]
+-   New short description: Do Not Use Demo Certificates for Active SAML Configurations
 -   Old short description: Do Not Use Demo Certificates for Active SAML Configurations \(Plugin Applicability: Multiple Provider Single Sign-On\)
 
 </td></tr><tr><td>
 
-[Minimize [[c_SAML2.0WebBrowserSSOProfile|SAML]] notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-saml-notbefore-or-notonorafter-constraint.md)
+[Minimize SAML notBefore or notOnOrAfter constraint duration \[Updated in Security Center 1.3 and 1.5\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-saml-notbefore-or-notonorafter-constraint.md)
 
 </td><td>
 
@@ -379,7 +379,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td><td>
 
--   New short description: [[sc-block-expired-csrf-tokens|Block Expired Anti-CSRF Tokens]]
+-   New short description: Block Expired Anti-CSRF Tokens
 -   Old short description: Block Expired CSRF Tokens
 
 </td></tr><tr><td>
@@ -388,7 +388,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td><td>
 
--   New short description: [[sc-require-captcha-for-guest-walk-up-experience-in-customer-service-application|Require Captcha for Guest Walk-up Experience in Customer Service Application]]
+-   New short description: Require Captcha for Guest Walk-up Experience in Customer Service Application
 -   Old short description: Require Captcha for Guest Walk-up Experience in Customer Service Application \(Plugin Applicability: Guest Walk-up Experience for Customer Service\)
 
 </td></tr><tr><td>
@@ -406,7 +406,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td><td>
 
--   New short description: [[sc-restrict-hr-case-updates-from-personal-emails-plugin-applicability-human-resources-scoped-app|Restrict HR Case Updates from Personal Emails]]
+-   New short description: Restrict HR Case Updates from Personal Emails
 -   Old short description: Restrict HR Case Updates from Personal Emails \(Plugin Applicability: Human Resources Scoped App\)
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -416,7 +416,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td><td>
 
--   New short description: [[sc-enable-mid-audit-log-plugin-applicability-mid-server|Enable MID Audit Log]]
+-   New short description: Enable MID Audit Log
 -   Old short description: Enable MID Audit Log \(Plugin Applicability: MID Server\)
 
 </td></tr><tr><td>
@@ -425,7 +425,7 @@ Ref: [OWASP ASVS v4.0 Authentication](https://github.com/OWASP/ASVS/blob/master/
 
 </td><td>
 
--   New short description: [[sc-required-jms-connection-factories-plugin-applicability-mid-server|Required JMS Connection Factories]]
+-   New short description: Required JMS Connection Factories
 -   Old short description: Required JMS Connection Factories \(Plugin Applicability: MID Server\)
 -   Rule Script: Script has been updated to improve detection accuracy.
 
@@ -452,7 +452,7 @@ Rule Script: Script has been updated to improve detection accuracy.
 
 </td><td>
 
--   New description: When the Glide Property **glide.authenticate.session\_access.log\_audit\_event** is set to true, session audit events will be created in the sys\_session\_access\_audit table. It is best practice to log information about who accessed a session to assist in malicious actor investigations. Information logged will include user, session ID \(non-sensitive\), IP address, roles, and [[ca-policies|policies]].
+-   New description: When the Glide Property **glide.authenticate.session\_access.log\_audit\_event** is set to true, session audit events will be created in the sys\_session\_access\_audit table. It is best practice to log information about who accessed a session to assist in malicious actor investigations. Information logged will include user, session ID \(non-sensitive\), IP address, roles, and policies.
 -   Old description: When the Glide Property **glide.authenticate.session\_access.log\_audit\_event** is set to true, session audit events will be created in the sys\_session\_access\_audit table. It is best practice to log general information about session access to assist in malicious actor investigations. Information logged will include user, session ID \(non-sensitive\), IP address, roles, and policies.
 
 </td></tr><tr><td>
@@ -486,34 +486,3 @@ Rule Script: Script has been updated to improve detection accuracy.
 </td></tr></tbody>
 </table>**Parent Topic:**[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[sc-configuration|Configuration]]
-- [[basic-authentication|Basic authentication]]
-- [[c_requestAPI|request]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[sc-prevent-users-from-accepting-warning-to-bypass-csrf-validation|Prevent users from accepting warning to bypass CSRF validation]]
-- [[sc-active-sessions|Active Sessions]]
-- [[sc-enable-html-sanitizer|Enable HTML Sanitizer within Virtual Agent]]
-- [[c_HTMLSanitizer|HTML sanitizer]]
-- [[sc-downloadable-mime-type-denylist|Restrict downloadable MIME types]]
-- [[email|Email]]
-- [[sc-enable-captcha-external-user-registration|Enable CAPTCHA for External User Registration]]
-- [[sc-external-user-registration-link-expiration|Minimize external user registration link expiration duration]]
-- [[sc-disallow-infected-files-download|Disallow infected file download]]
-- [[sc-disable-multisso-debugging|Disable MultiSSO Debugging]]
-- [[sc-disable-entity-expansion|Disable Entity Expansion within the XMLDocument2 Streaming Parser]]
-- [[sc-apply-domain-separation|Apply domain separation on dot walked fields]]
-- [[sc-account-recovery|Enable account recovery]]
-- [[sc-setting-entity-expansion-threshold|Minimize Entity Expansion Threshold for GlideXMLUtil Scriptable]]
-- [[sc-do-not-use-demo-certificates-active-saml-configurations-plugin|Do not use demo certificates for active SAML configurations]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-block-expired-csrf-tokens|Block Expired Anti-CSRF Tokens]]
-- [[sc-require-captcha-for-guest-walk-up-experience-in-customer-service-application|Require CAPTCHA for guest walk-up experience in customer service application]]
-- [[sc-restrict-hr-case-updates-from-personal-emails-plugin-applicability-human-resources-scoped-app|Restrict HR case updates from personal emails]]
-- [[sc-enable-mid-audit-log-plugin-applicability-mid-server|Enable MID audit log]]
-- [[sc-required-jms-connection-factories-plugin-applicability-mid-server|Required JMS connection factories]]
-- [[ca-policies|Policies]]

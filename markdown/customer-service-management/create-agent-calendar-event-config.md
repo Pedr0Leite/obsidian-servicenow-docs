@@ -167,7 +167,7 @@ End Date Field
 
 A field from the **Table** that provides the end date for the task. For example, the event configuration for Case Tasks uses the **Due date** field from the Task table \[sn\_customerservice\_task\]. When a case task is assigned, it appears on the agent calendar ending on the date and time specified in this field. The **Due date** field must contain a value for the event to appear in Workforce. If the field is empty, the event will not be displayed.
 
-**Note:** Because the agent schedule administrator can select any fields from the **Task Table** for the **Start Date Field** and the **End Date Field**, it is possible that the end date may be earlier than the start date. In this event, the task is displayed on the agent calendar between the two [[gamification-components-points|points]] in time.
+**Note:** Because the agent schedule administrator can select any fields from the **Task Table** for the **Start Date Field** and the **End Date Field**, it is possible that the end date may be earlier than the start date. In this event, the task is displayed on the agent calendar between the two points in time.
 
 </td></tr><tr><td>
 
@@ -183,6 +183,3 @@ Use advanced scripts to create the event configuration.**Note:** This field is a
     -   If you created the configuration from an existing configuration, click **Update**.
     -   If you created a new configuration, click **Submit**.
 
-## Related
-
-- [[gamification-components-points|Points]]

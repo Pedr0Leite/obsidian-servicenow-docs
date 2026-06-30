@@ -14,9 +14,9 @@ breadcrumb: [Configure, Document Intelligence, Enable AI experiences]
 
 # Set up Document Intelligence
 
-Review the following information before you start setting up [[document-intelligence-landing|Document Intelligence]].
+Review the following information before you start setting up Document Intelligence.
 
-**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 <table id="table_mnf_lpg_tsb"><thead><tr><th>
 
@@ -32,7 +32,7 @@ Verify that the ServiceNow core applications or plugins that are required to sup
 
 </td><td>
 
-Verify that the following applications or plugins are installed and activated from the ServiceNow Store. When you activate the first plugin, its dependent plugins are activated automatically. If not installed, install and activate one application at a time in the following order to ensure a smooth implementation.-   [[predictive-intelligence-landing|Predictive Intelligence]] \(com.glide.platform\_ml\)
+Verify that the following applications or plugins are installed and activated from the ServiceNow Store. When you activate the first plugin, its dependent plugins are activated automatically. If not installed, install and activate one application at a time in the following order to ensure a smooth implementation.-   Predictive Intelligence \(com.glide.platform\_ml\)
 -   Platform Document Intelligence \(com.glide.platform\_ml\_di\)
 -   Document Intelligence UIB Component \(sn\_docintel\_iframe\)
 
@@ -91,7 +91,7 @@ The glide.attachment.extensions system property is empty by default. When custom
 
 </td></tr><tr><td>
 
-Copy any use [[cases|cases]] needed to support your Document Intelligence implementation.
+Copy any use cases needed to support your Document Intelligence implementation.
 
 </td><td>
 
@@ -107,10 +107,3 @@ Follow the steps in [Import a document extraction use case](https://raw.githubus
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[cases|Cases]]

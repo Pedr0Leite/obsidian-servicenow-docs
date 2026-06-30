@@ -36,7 +36,7 @@ When you create an interactive filter, you can:
 
 -   **Select neither check box.**
 
-    [[c_HomepagePublishers|Interactive filters]] apply only to the source table, such as incident.
+    Interactive filters apply only to the source table, such as incident.
 
     **Note:** This is the default setting when you create an interactive filter.
 
@@ -45,11 +45,7 @@ When you create an interactive filter, you can:
 
 Interactive filters applied to extended tables also apply to the other tables in the hierarchy.
 
-**Note:** Interactive filters on a database view do not apply automatically to the siblings of the database view's source table. For example, \[problem\_sla\] is a database view created on the table \[task\_problem\]. Interactive filters applied to \[problem\_sla\] do not apply automatically to [[widgets|widgets]] based on the \[task\_change\] table, a sibling of \[task\_problem\], even if you have selected both options.
+**Note:** Interactive filters on a database view do not apply automatically to the siblings of the database view's source table. For example, \[problem\_sla\] is a database view created on the table \[task\_problem\]. Interactive filters applied to \[problem\_sla\] do not apply automatically to widgets based on the \[task\_change\] table, a sibling of \[task\_problem\], even if you have selected both options.
 
 **Parent Topic:**[Creating Interactive Filters of different types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/r_AvailableHomepagePublisherTypes.md)
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]

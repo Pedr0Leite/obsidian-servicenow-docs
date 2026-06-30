@@ -20,7 +20,7 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-To access and view the existing third parties in the system, you can navigate to the Third parties menu item within the [[grc-opres-landing-page|Operational Resilience]] Workspace. Upon installing the Digital resilience third-party registers, the **Digital resilience information** tab is added for third parties.
+To access and view the existing third parties in the system, you can navigate to the Third parties menu item within the Operational Resilience Workspace. Upon installing the Digital resilience third-party registers, the **Digital resilience information** tab is added for third parties.
 
 \[Omitted image "tpr-tp-dig-res-info-tab.png"\] Alt text: Tab.
 
@@ -36,11 +36,11 @@ DORA requires financial entities to identify all relevant ICT third-party servic
 
 2.  Select **New**.
 
-    The [[create-new-legal-entity-form|Create New Company form]] is displayed.
+    The Create New Company form is displayed.
 
 3.  On the form, fill in the fields.
 
-    For more information, see [[create-third-party-company-form|Create New Company form]].
+    For more information, see [Create New Company form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-third-party-company-form.md).
 
     When the Type of code to identify the ICT service provider field is set to LEI and a valid LEI is entered in the Identification code of ICT third-party service provider field, the system validates it in real time against the GLEIF database and auto-populates the Legal name of the ICT service provider field and Country of the ICT third-party service provider's headquarters field with GLEIF data. If you subsequently edit either of those auto-populated fields so that the value no longer matches GLEIF data, a warning message is displayed on the edited field. You can still save the record \(warn-and-save\). The same behavior applies to the Additional identification code of ICT service provider field when its code type is LEI.
 
@@ -50,7 +50,7 @@ DORA requires financial entities to identify all relevant ICT third-party servic
 
 6.  On the form, fill in the fields.
 
-    For more information, see [[create-ICT-thirdparty-serv-prov-form|Create New ICT third-party service provider form]]. Details on the fields are displayed in the example.
+    For more information, see [Create New ICT third-party service provider form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-ICT-thirdparty-serv-prov-form.md). Details on the fields are displayed in the example.
 
     \[Omitted image "tpr-dig-res-info-sample-form.png"\] Alt text: Resilience details.
 
@@ -74,12 +74,5 @@ On the Create New Company form, fill in the fields for the third party.
 -   **[Create New ICT third-party service provider form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-ICT-thirdparty-serv-prov-form.md)**  
 On the Create New ICT third-party service provider form, fill in the fields.
 
-**Parent Topic:**[[using-dg-registers|Using Digital resilience third-party registers]]
+**Parent Topic:**[Using Digital resilience third-party registers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-dg-registers.md)
 
-## Related
-
-- [[create-third-party-company-form|Create New Company form]]
-- [[create-ICT-thirdparty-serv-prov-form|Create New ICT third-party service provider form]]
-- [[using-dg-registers|Using Digital resilience third-party registers]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[create-new-legal-entity-form|Create New Company form]]

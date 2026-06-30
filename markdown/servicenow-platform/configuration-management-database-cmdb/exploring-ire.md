@@ -18,9 +18,9 @@ The Identification and Reconciliation \(IRE\) module provides a centralized fram
 
 The use of multiple data sources increases the risk of introducing inconsistencies through duplicate records. To maintain the integrity of the database, it is important to correctly identify CIs and services so that new records are created only for CIs that are truly new.
 
-The [[ire|Identification and Reconciliation Engine \(IRE\)]] helps maintain the data integrity as follows:
+The Identification and Reconciliation Engine \(IRE\) helps maintain the data integrity as follows:
 
--   Prevent duplicate CIs by uniquely identifying CIs using sets of [[c_IdentificationRules|identification rules]]
+-   Prevent duplicate CIs by uniquely identifying CIs using sets of identification rules
 -   Reconcile CI attributes by allowing only authoritative data sources to write to the CMDB or to a supported non-CMDB table
 -   Reclassify CIs
 -   Provide a centralized framework to perform identification and reconciliation across different data sources
@@ -29,7 +29,7 @@ Data sources such as ServiceNow Event Management, Horizontal Discovery, Import S
 
 ## Dynamic IRE
 
-[[dynamic-ire|Dynamic IRE]] is an enhancement to IRE, that dynamically updates its identification process for most accuracy and efficiency. Using Dynamic IRE replaces the need for the manual on-going maintenance of IRE process rules, while improving the identification and reconciliation of CIs. Dynamic IRE dynamically updates its identification process while IRE ingests and processes incoming payload data.
+Dynamic IRE is an enhancement to IRE, that dynamically updates its identification process for most accuracy and efficiency. Using Dynamic IRE replaces the need for the manual on-going maintenance of IRE process rules, while improving the identification and reconciliation of CIs. Dynamic IRE dynamically updates its identification process while IRE ingests and processes incoming payload data.
 
 When you enable Dynamic IRE, it applies only to the Hardware \[cmdb\_ci\_hardware\] and any of its descending classes.
 
@@ -39,7 +39,7 @@ For more information about simulating, comparing, enabling, and benefits, see [D
 
 ## Support for non-CMDB tables
 
-IRE processes support some non-CMDB tables. You can create identification rules, [[r_ReconciliationRulesPrinciples|reconciliation rules]], and other IRE-related rules to ensure the integrity of data inserted or updated in supported non-CMDB tables. For details, see [IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md).
+IRE processes support some non-CMDB tables. You can create identification rules, reconciliation rules, and other IRE-related rules to ensure the integrity of data inserted or updated in supported non-CMDB tables. For details, see [IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md).
 
 -   **[Dynamic IRE](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dynamic-ire.md)**  
 Dynamic Identification and Reconciliation Engine \(IRE\) processes CI identification for maximum accuracy and efficiency and eliminates the need to manually create or maintain rules. Actually, you can't alter any of the algorithms or operations of Dynamic IRE.
@@ -48,9 +48,3 @@ The CMDB Identification and Reconciliation functionality is supported by the Ide
 
 **Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[c_IdentificationRules|Identification rules]]
-- [[dynamic-ire|Dynamic IRE]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]

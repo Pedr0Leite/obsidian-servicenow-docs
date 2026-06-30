@@ -22,7 +22,7 @@ Role required: evt\_mgmt\_admin, personalize\_form
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Push Connectors**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Push Connectors**.
 
 2.  Open a push connector.
 
@@ -41,6 +41,3 @@ Role required: evt\_mgmt\_admin, personalize\_form
 
 Push Connector Configurations list added to push connector form layout. You can now create push connector parameters.
 
-## Related
-
-- [[c_EM|Event Management]]

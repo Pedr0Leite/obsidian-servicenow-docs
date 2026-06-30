@@ -12,19 +12,14 @@ breadcrumb: [Configure, Dashboards, Platform Analytics experience, Platform Anal
 
 # Platform Analytics dashboard cache
 
-Changes to the layouts of [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards are stored in the par\_dashboard\_cache table. Whenever a dashboard is called, a new entry is made in this table. Delete entries in this table to regenerate the cache for troubleshooting.
+Changes to the layouts of Platform Analytics dashboards are stored in the par\_dashboard\_cache table. Whenever a dashboard is called, a new entry is made in this table. Delete entries in this table to regenerate the cache for troubleshooting.
 
 In the context of troubleshooting a dashboard's layout, navigate to `par_dashboard_cache_list.do` to open the PAR Dashboard Metadata Caches table. Delete a dashboard's record on this table to regenerate the cache.
 
-These [[access-control|access control]] lists \(ACLs\) apply to the PAR Dashboard Metadata Caches **par\_dashboard\_cache** table:
+These access control lists \(ACLs\) apply to the PAR Dashboard Metadata Caches **par\_dashboard\_cache** table:
 
 -   Admin only role: report\_on, report\_view, create, write, delete
 -   Any logged-in user: read
 
-For a full guide to roles connected to Platform Analytics dashboards, see [[platform-analytics-roles|Platform Analytics roles]].
+For a full guide to roles connected to Platform Analytics dashboards, see [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[access-control|Access control]]

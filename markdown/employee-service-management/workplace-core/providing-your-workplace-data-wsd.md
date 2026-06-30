@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Core, Workplace Service Delivery, Employee Ser
 
 # Providing your workplace data
 
-In the [[workplace-safety-mgmt-hr|Workplace Core]] application, provide data related to your workplace locations and designate workspaces.
+In the Workplace Core application, provide data related to your workplace locations and designate workspaces.
 
 ## Workspace Record
 
@@ -61,7 +61,7 @@ Create individual records of your workspaces, floors, office buildings, and work
 -   **[Upload a workplace floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/upload-workplace-floor-map-wsd.md)**  
 Upload Drawing eXchange Format \(.dxf\) files of floor plans that you can configure and use to reserve space for your employees.
 -   **[Update a workplace floor plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/edit-workplace-floor-map-wsd.md)**  
-[[edit-workplace-floor-map|Update a workplace floor plan]] by uploading a new plan.
+Update a workplace floor plan by uploading a new plan.
 
 **Parent Topic:**[Configure Workplace Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-wsd.md)
 
@@ -74,7 +74,3 @@ Upload Drawing eXchange Format \(.dxf\) files of floor plans that you can config
 
 [Activate Virtual Agent for Workplace Service Delivery]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[edit-workplace-floor-map|Update a workplace floor plan]]

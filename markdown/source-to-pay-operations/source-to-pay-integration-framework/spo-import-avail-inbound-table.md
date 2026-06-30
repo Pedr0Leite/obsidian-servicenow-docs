@@ -14,17 +14,17 @@ breadcrumb: [Inbound staging tables Sourcing Procurement, Inbound staging tables
 
 # Import Availability Updates inbound staging table
 
-The Import Availability Updates inbound \[sn\_spend\_intg\_imp\_availability\] staging table temporarily stores important data about [[cost-allocations|cost allocations]] before this data is sent to the primary table.
+The Import Availability Updates inbound \[sn\_spend\_intg\_imp\_availability\] staging table temporarily stores important data about cost allocations before this data is sent to the primary table.
 
 The following table lists the mandatory and optional fields for the Import Availability Updates inbound \[sn\_spend\_intg\_imp\_availability\] staging table.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
 |Available Units|String|Units that are available to be sold.|
-|Customer ID|String|Unique identifier for each customer of the [[purchase-order-table|purchase order]].|
+|Customer ID|String|Unique identifier for each customer of the purchase order.|
 |Catalog ID|String|Unique identifier for each catalog of the purchase order.|
 |Supplier ID|String|Supplier ID for which the purchase order is generated.|
-|Supplier part number|String|Supplier part number of the [[supplier|supplier]] product.|
+|Supplier part number|String|Supplier part number of the supplier product.|
 |Third party import ID|String|Unique identifier for external data imports.|
 |Unit|String|Unit or rate in which this product is sold by the supplier.|
 
@@ -105,8 +105,3 @@ The following table lists the mandatory and optional fields for the Import Avail
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[cost-allocations|Cost allocations]]
-- [[purchase-order-table|Purchase order]]
-- [[supplier|Supplier]]

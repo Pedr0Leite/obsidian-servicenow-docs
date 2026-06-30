@@ -19,7 +19,7 @@ Integrate ServiceNow with Azure Active Directory \(Azure AD\).
 Integrating ServiceNow with Azure AD enables you to:
 
 -   Control in Azure AD who has access to ServiceNow.
--   Enable [[users|users]] to automatically sign-in to ServiceNow with their Azure AD accounts.
+-   Enable users to automatically sign-in to ServiceNow with their Azure AD accounts.
 -   Manage your accounts in the Azure portal.
 
 ## Prerequisities
@@ -30,24 +30,15 @@ To get started, you need the perform the following:
 -   A ServiceNow single sign-on \(SSO\) enabled.
 -   A ServiceNow instance or tenant of ServiceNow that supports San Diego versions or later.
 -   A ServiceNow tenant must have the Multiple Provider Single Sign On Plugin enabled.
--   For automatic [[sc-configuration|configuration]], enable the multi-provider plugin for ServiceNow.
+-   For automatic configuration, enable the multi-provider plugin for ServiceNow.
 
 ## Set of Actions for Configuration
 
 Following are the set of actions that needs to performed to configure Azure AD:
 
--   [[add-servicenow-from-the-gallery|Add ServiceNow from the gallery]] to Azure AD.
--   [[configure-azure-ad-sso|Configure Azure AD SSO]]
--   [[create-an-azure-ad-test-user|Create an Azure AD test user]]
--   [[assign-the-azure-ad-test-user|Assign the Azure AD test user]]
--   [[configure-servicenow|Configure ServiceNow]]
+-   Add ServiceNow from the gallery to Azure AD.
+-   Configure Azure AD SSO
+-   Create an Azure AD test user
+-   Assign the Azure AD test user
+-   Configure ServiceNow
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[add-servicenow-from-the-gallery|Add ServiceNow from the gallery]]
-- [[configure-azure-ad-sso|Configure Azure AD SSO]]
-- [[create-an-azure-ad-test-user|Create an Azure AD test user]]
-- [[assign-the-azure-ad-test-user|Assign the Azure AD test user]]
-- [[configure-servicenow|Configure ServiceNow]]

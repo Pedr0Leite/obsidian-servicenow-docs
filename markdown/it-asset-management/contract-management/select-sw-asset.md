@@ -18,7 +18,7 @@ Add or remove software entitlements that you want to include in the contract ren
 
 ## Before you begin
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] Professional \(com.snc.samp\) plugin must be activated.
+The Software Asset Management Professional \(com.snc.samp\) plugin must be activated.
 
 Role required: contract\_system\_admin, sam\_user, contract\_manager
 
@@ -70,7 +70,7 @@ Action
 
 </td></tr><tr><td id="d170746e170">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
@@ -90,7 +90,3 @@ Add or remove entitlements to indicate the entitlements you want to cover.
 
 [Update terms and conditions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/update-terms-conditions.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

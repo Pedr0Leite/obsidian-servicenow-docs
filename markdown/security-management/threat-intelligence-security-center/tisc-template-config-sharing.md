@@ -14,7 +14,7 @@ breadcrumb: [Manual and Automated Sharing using flows, Share Threat Intelligence
 
 # Template Configuration for Intelligence Sharing
 
-Create and publish an outbound intelligence sharing template to define how [[threat-intel-landing-page|threat intelligence]] is shared from the source TISC instance to the target instance.
+Create and publish an outbound intelligence sharing template to define how threat intelligence is shared from the source TISC instance to the target instance.
 
 The template determines which profiles are included, which sharing settings are applied, and which record fields are shared to the target instance. Configure and publish the global sharing rules to control what intelligence data the source instance shares outbound:
 
@@ -23,6 +23,3 @@ Role required: sn\_sec\_tisc.admin
 1.  Create and publish an outbound intelligence sharing template with the required configuration. For more information, see [Configuring Outbound Intel Sharing Templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-intel-sharing-templates.md).
 2.  Associate the published template with the outbound intelligence profile configured for the target TISC instance to begin sharing intelligence data.
 
-## Related
-
-- [[threat-intel-landing-page|Threat Intelligence]]

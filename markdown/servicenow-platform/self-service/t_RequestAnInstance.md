@@ -14,7 +14,7 @@ breadcrumb: [Amazon EC2 instance request from the Service Catalog, Service catal
 
 # Request an instance
 
-Request the provisioning of a new Amazon EC2 instance through the [[service-catalog|service catalog]].
+Request the provisioning of a new Amazon EC2 instance through the service catalog.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Service Catalog**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Service Catalog**.
 
 2.  Select **Amazon EC2 Instance** from the **Request Application Infrastructure** category.
 
@@ -42,14 +42,8 @@ Role required: admin
 
     \[Omitted image "EC2OrderStatus.png"\] Alt text: EC2 order status
 
-    Upon successful creation of the instance, you receive an [[email|email]] containing the instance ID, [[ip-address|IP address]], and the public DNS for the instances created.
+    Upon successful creation of the instance, you receive an email containing the instance ID, IP address, and the public DNS for the instances created.
 
 
 **Parent Topic:**[Amazon EC2 instance request from the Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/c_AmazonEC2InstanceRequest.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[self-service-landing|Self-service]]
-- [[email|Email]]
-- [[ip-address|IP Address]]

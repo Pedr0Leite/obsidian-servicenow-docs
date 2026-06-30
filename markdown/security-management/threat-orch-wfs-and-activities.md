@@ -14,11 +14,11 @@ breadcrumb: [Threat Intelligence Orchestration, Threat Intelligence, Enterprise 
 
 The base system includes workflows and workflow activities you can use to automate actions on your instance.
 
-**Parent Topic:**[[c_ThreatIntelligenceOrchestration|Threat Intelligence Orchestration]]
+**Parent Topic:**[Threat Intelligence Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_ThreatIntelligenceOrchestration.md)
 
 ## Threat Intelligence - Run IoC Lookup workflow
 
-The **[[threat-intel-landing-page|Threat Intelligence]] - Run IoC Lookup** workflow checks whether there is an unexpired observable and if so, the lookup is set to **Complete** and updated with the data from the observable.
+The **Threat Intelligence - Run IoC Lookup** workflow checks whether there is an unexpired observable and if so, the lookup is set to **Complete** and updated with the data from the observable.
 
 ### Before you begin
 
@@ -30,7 +30,7 @@ If a lookup is inserted or updated and meets the conditions, the Lookup business
 
 ### About this task
 
-The **Threat Intelligence - Run IoC Lookup**workflow checks whether there is an unexpired observable and if so, the lookup is set to **Complete** and updated with the data from the observable. Any [[indicator|indicators]] associated with the observable are reactivated.
+The **Threat Intelligence - Run IoC Lookup**workflow checks whether there is an unexpired observable and if so, the lookup is set to **Complete** and updated with the data from the observable. Any indicators associated with the observable are reactivated.
 
 If the observable is expired, the workflow runs the lookups and increments the **Sighting count** in the existing, expired observable.
 
@@ -153,8 +153,3 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |Number of scans created|Integer|
 
-## Related
-
-- [[c_ThreatIntelligenceOrchestration|Threat Intelligence Orchestration]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[indicator|Indicators]]

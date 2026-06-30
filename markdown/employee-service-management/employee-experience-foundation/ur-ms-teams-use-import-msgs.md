@@ -14,7 +14,7 @@ breadcrumb: [Manage chat messages from a record, Agent actions, Use Microsoft Te
 
 # Import messages from a universal request
 
-As an agent, import a conversation with a requester from Microsoft Teams. Append the conversation in the [[activity-lxp|activity]] stream of the record to store all the important messages in the ServiceNow instance.
+As an agent, import a conversation with a requester from Microsoft Teams. Append the conversation in the activity stream of the record to store all the important messages in the ServiceNow instance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Importing messages helps you to view the history of the ticket. The requester ca
 
 ## Procedure
 
-1.  Navigate to **[[ur-landing-limitedaccess|Universal Request]]** &gt; **All**.
+1.  Navigate to **Universal Request** &gt; **All**.
 
 2.  Open the universal request that you want to work on.
 
@@ -82,7 +82,3 @@ Option to import messages into the record. Choices are as follows:-   **Addition
 
 **Parent Topic:**[Manage chat messages from a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ur-mst-use-start-import-chat.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[ur-landing-limitedaccess|Universal Request]]

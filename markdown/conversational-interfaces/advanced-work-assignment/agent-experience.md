@@ -14,7 +14,7 @@ breadcrumb: [Explore, Advanced Work Assignment, Manage people and work, Conversa
 
 # Agent Inbox controls
 
-Control certain elements of the agent experience in Agent Workspace. Define the agent presence \(availability\) states and the work item rejection reasons used by agents to decline [[awa-assignment|work assignments]] in their Agent Workspace inbox.
+Control certain elements of the agent experience in Agent Workspace. Define the agent presence \(availability\) states and the work item rejection reasons used by agents to decline work assignments in their Agent Workspace inbox.
 
 ## Agent presence states
 
@@ -37,6 +37,3 @@ AWA developers with the awa\_integration\_user role can also use JavaScript or R
 
 AWA admins can give agents the option to reject work assignments and specify the reason for rejecting it. The **Reject** button displays on work assignment cards. When an agent rejects an assignment, a pop-up window enables the agent to select a reason for declining the work item.
 
-## Related
-
-- [[awa-assignment|Work assignments]]

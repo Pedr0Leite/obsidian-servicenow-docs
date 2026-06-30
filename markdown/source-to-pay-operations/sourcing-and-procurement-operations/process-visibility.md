@@ -18,7 +18,7 @@ You can track the complete procurement process post request submission. The proc
 
 As a shopper, you can:
 
--   Experience end-to-end visibility on sourcing requests, purchase requisitions, and purchase orders in [[shopping-hub-overview|Shopping Hub]].
+-   Experience end-to-end visibility on sourcing requests, purchase requisitions, and purchase orders in Shopping Hub.
 -   Track the progress of the requests and expected completion timelines.
 -   View the sequencing of work, such as approvals, cases, and tasks.
 -   Send messages to the task assignees and task assigners directly within the platform.
@@ -52,6 +52,3 @@ For new customers, use the configuration framework to modify your steps and proc
 
 **Parent Topic:**[Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopping-hub-overview.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

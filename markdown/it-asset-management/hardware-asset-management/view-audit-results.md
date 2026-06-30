@@ -14,7 +14,7 @@ breadcrumb: [Audit hardware asset inventory, Use, Hardware Asset Management, IT 
 
 # View audit results
 
-View the [[audit-results-eam|audit results]] after you audit your inventory. The Audit Results section is activated and shows the details of the audit result.
+View the audit results after you audit your inventory. The Audit Results section is activated and shows the details of the audit result.
 
 ## Before you begin
 
@@ -46,18 +46,18 @@ Navigate to **Asset Audits** &gt; **Asset Audits** form.**Important:** If you ha
 
 </td></tr><tr><td id="d265086e100">
 
-**[[using-ham-workspace|Hardware Asset Workspace]]**
+**Hardware Asset Workspace**
 
 </td><td>
 
-1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **[[inventory-view-am|Inventory view]]**.
+1.  Navigate to **All** &gt; **Hardware Asset Workspace** &gt; **Inventory view**.
 2.  Select the **Asset audit** tab.
 
 The **Asset audit** tab displays a list of existing asset audits.
 
 </td></tr><tr><td id="d265086e140">
 
-**[[agent-mobile-asset|ServiceNow Agent app]]**
+**ServiceNow Agent app**
 
 </td><td>
 
@@ -84,9 +84,3 @@ The **Open** tab displays a list of existing open asset audits
 
 [Audit results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-results.md)
 
-## Related
-
-- [[audit-results-eam|Audit results]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[inventory-view-am|Inventory view]]
-- [[agent-mobile-asset|ServiceNow Agent app]]

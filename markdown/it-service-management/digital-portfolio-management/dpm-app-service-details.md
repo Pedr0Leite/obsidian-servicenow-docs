@@ -14,13 +14,13 @@ breadcrumb: [Life-cycle management, Explore, Digital Portfolio Management, IT Se
 
 # View service instance details
 
-View information about service instances that may impact your solutions. Each [[dpm-landing|Digital Portfolio Management]] \(DPM\) page presents the service instance life-cycle phase information in tabs, primarily Run and Info. The Risk tab displays when you have the Technology Portfolio Management plugin \[sn\_apm\_tpm\] installed.
+View information about service instances that may impact your solutions. Each Digital Portfolio Management \(DPM\) page presents the service instance life-cycle phase information in tabs, primarily Run and Info. The Risk tab displays when you have the Technology Portfolio Management plugin \[sn\_apm\_tpm\] installed.
 
 As you view the following tables, keep in mind that what you are able to see in DPM depends on what your product license permits from the source application. See [Digital Portfolio Management related applications and data sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-related-products.md) for the required installs and plugins to see each data element.
 
 ## KPI groups for service instances
 
-If your organization uses the enterprise portfolio module with the latest enterprise portfolio tables, then an service instance rolls up to its related business application. This enables you to create a portfolio with business [[dex-workspace-application-tab|applications]] that will have the service instances. You could also create a separate portfolio for service instances which contains the application service. In both cases, the service instances inherit KPI groups from both portfolios.
+If your organization uses the enterprise portfolio module with the latest enterprise portfolio tables, then an service instance rolls up to its related business application. This enables you to create a portfolio with business applications that will have the service instances. You could also create a separate portfolio for service instances which contains the application service. In both cases, the service instances inherit KPI groups from both portfolios.
 
 -   An service instance can be in a business application portfolio because:
     -   Service instances roll up to business applications.
@@ -37,7 +37,7 @@ You can also see the rolled up data in the following areas:
 
 -   Enterprise application portfolios
 -   Enterprise service instance portfolios
--   Any business application or service instance that is added to your [[dpm-personal-portfolio|personal portfolios]]
+-   Any business application or service instance that is added to your personal portfolios
 
 Since service instances can be in two different types of portfolios, the service instance inherits KPI groups from two different places. See the table for how KPI groups work in the following use cases.
 
@@ -168,12 +168,12 @@ A list of the offerings that depend on this service instance. The number of offe
 </td></tr></tbody>
 </table>## Risk tab
 
-To see the Risk tab, you must have the Technology Portfolio Management plugin \[sn\_apm\_tpm\] installed. The Risk tab displays the Technology Lifecycle Risk using donut reports and lists for service instances software and hardware [[c_Models|models]].
+To see the Risk tab, you must have the Technology Portfolio Management plugin \[sn\_apm\_tpm\] installed. The Risk tab displays the Technology Lifecycle Risk using donut reports and lists for service instances software and hardware models.
 
 **Note:** The Technology Portfolio Management plugin \[sn\_apm\_tpm\] has two dependency plugins:
 
 -   Application Portfolio Management \[com.snc.apn\]
--   Software [[c_AssetManagement|Asset Management]] \[com.snc.sams\]
+-   Software Asset Management \[com.snc.sams\]
 
 ## Info tab
 
@@ -260,10 +260,3 @@ The Needs attention panel includes the following icons for service instances:
 
 [Work with Needs attention panels in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-needs-attn-panels.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dpm-personal-portfolio|Personal portfolios]]
-- [[c_Models|Models]]
-- [[c_AssetManagement|Asset Management]]

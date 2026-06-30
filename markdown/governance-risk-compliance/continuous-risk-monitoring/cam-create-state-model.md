@@ -14,7 +14,7 @@ breadcrumb: [CAM workflow configuration, Using CAM, Continuous Authorization and
 
 # GRC state model configuration
 
-Create a [[r_WhatIsGRC|Governance, Risk, and Compliance]] state model to define the steps, transitions, and validations for a custom workflow in CAM. State models control how authorization packages move through workflow life cycles and determine which actions are available at each step.
+Create a Governance, Risk, and Compliance state model to define the steps, transitions, and validations for a custom workflow in CAM. State models control how authorization packages move through workflow life cycles and determine which actions are available at each step.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **GRC State Models**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **GRC State Models**.
 
 2.  Select **New** to create a state model record.
 
@@ -43,7 +43,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Result
 
-The state model is ready to be configured with workflow states, transitions, and attributes. After completing the configuration, you can map the state model to a [[work-configuration|workflow configuration]] and use it for authorization packages.
+The state model is ready to be configured with workflow states, transitions, and attributes. After completing the configuration, you can map the state model to a workflow configuration and use it for authorization packages.
 
 ## What to do next
 
@@ -53,9 +53,3 @@ The state model is ready to be configured with workflow states, transitions, and
 
 [Create a new state model attribute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/configure-new-state-model-attributes.md)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]
-- [[work-configuration|Workflow configuration]]

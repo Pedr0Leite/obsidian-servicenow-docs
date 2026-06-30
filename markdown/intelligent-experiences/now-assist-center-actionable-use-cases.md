@@ -13,15 +13,15 @@ breadcrumb: [Use, Now Assist Center, Enable AI experiences]
 
 # Activating actionable use cases from Now Assist Center
 
-Actionable use [[cases|cases]] are quick-start scenarios that help you rapidly adopt AI capabilities on your instance.
+Actionable use cases are quick-start scenarios that help you rapidly adopt AI capabilities on your instance.
 
 ## Overview of actionable use cases
 
-Actionable use cases are represented as cards in the first section of the [[now-assist-center-home-page|home page]]. Each card shows a supported and ready-to-activate [[platform-now-assist-landing|Now Assist]] solution for your instance, such as activating an AI skill for ITSM or configuring a safety setting through Now Assist Guardian.
+Actionable use cases are represented as cards in the first section of the home page. Each card shows a supported and ready-to-activate Now Assist solution for your instance, such as activating an AI skill for ITSM or configuring a safety setting through Now Assist Guardian.
 
 Actionable use cases use generative AI to tailor the solution and guide setup. The system analyzes your instance profile, organizational context, license entitlements, installed products, and current AI enablement state to determine which use case cards to display and in which order. Only cards for products that you're entitled to use appear on the home page.
 
-\[Omitted image "now-assist-center-home-adoption-tasks-2.png"\] Alt text: Actionable use cases on the [[now-assist-center-landing-page|Now Assist Center]] home page.
+\[Omitted image "now-assist-center-home-adoption-tasks-2.png"\] Alt text: Actionable use cases on the Now Assist Center home page.
 
 ## Types of actionable use cases
 
@@ -41,9 +41,9 @@ The following are some examples of actionable use cases that may appear on your 
 
 When you navigate to Now Assist Center, the home page displays the use cases most relevant to you. For each card:
 
--   Select **Activate** to start a guided setup conversation in the [[now-assist-center-now-assist-panel|Now Assist panel]]. The panel describes the solution, confirms the current state, and asks you to confirm before making any change.
+-   Select **Activate** to start a guided setup conversation in the Now Assist panel. The panel describes the solution, confirms the current state, and asks you to confirm before making any change.
 
-    **Important:** Now Assist panel must be enabled to activate the use cases. Actionable use cases work with the Now Assist panel to guide you through the setup in a chat conversation. For more information, see [[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]].
+    **Important:** Now Assist panel must be enabled to activate the use cases. Actionable use cases work with the Now Assist panel to guide you through the setup in a chat conversation. For more information, see [Enable the Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-enable-now-assist-panel.md).
 
 -   Select **Dismiss** to permanently remove a card.
 
@@ -52,36 +52,23 @@ When you navigate to Now Assist Center, the home page displays the use cases mos
 
 After you successfully activate a solution, the card disappears from the home page and a confirmation message appears at the top of the workspace. The activated solution appears in the Recently activated AI section of the home page, where you can monitor its performance.
 
--   **[[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]]**  
+-   **[Install and configure essential Now Assist plugins using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-configure-essential-now-assist-plugins.md)**  
 Install the Now Assist plugins required to enable AI solutions on your instance before activating use cases.
--   **[[activate-solution-now-assist-center|Activate an actionable use case in Now Assist Center]]**  
+-   **[Activate an actionable use case in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-solution-now-assist-center.md)**  
 Activate a Now Assist solution from an actionable use case card on the Now Assist Center home page.
 
-**Parent Topic:**[[using-now-assist-center|Using Now Assist Center]]
+**Parent Topic:**[Using Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/using-now-assist-center.md)
 
 **Related topics**  
 
 
 [Using the conversational experience in Now Assist Center]()
 
-[Using [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] in Now Assist Center]()
+[Using Now Assist Readiness Evaluation in Now Assist Center]()
 
-[Using [[ai-agent-advisor-landing-page|AI Agent Advisor]] in Now Assist Center]()
+[Using AI Agent Advisor in Now Assist Center]()
 
 [Using the asset inventory in Now Assist Center]()
 
 [Using other Now Assist applications and features from Now Assist Center]()
 
-## Related
-
-- [[now-assist-center-enable-now-assist-panel|Enable the Now Assist panel]]
-- [[install-configure-essential-now-assist-plugins|Install and configure essential Now Assist plugins using Now Assist Center]]
-- [[activate-solution-now-assist-center|Activate an actionable use case in Now Assist Center]]
-- [[using-now-assist-center|Using Now Assist Center]]
-- [[cases|Cases]]
-- [[now-assist-center-home-page|Home page]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure, Journey Accelerator, Employee Journey Management, HR Ser
 
 # Modify a scheduled job for Publish Journey Accelerator plans
 
-Update the Publish [[journey-accelerator-1|Journey Accelerator]] plans job. The job evaluates a plan's publish date to determine when to publish the plan.
+Update the Publish Journey Accelerator plans job. The job evaluates a plan's publish date to determine when to publish the plan.
 
 ## Before you begin
 
@@ -143,6 +143,4 @@ Name of the script to run at the scheduled date and time. Two examples are copy 
 
     To learn more about scheduled jobs, see [Scheduled jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ScheduledJobs.md).
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]

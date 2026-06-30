@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise assets, Managing enterprise models and
 
 # Asset performance reports in the Enterprise Asset Workspace
 
-Gain insights into the overall operational efficiency of your organization's enterprise assets by using the asset performance reports available in the [[asset-analytics-view|Asset analytics view]].
+Gain insights into the overall operational efficiency of your organization's enterprise assets by using the asset performance reports available in the Asset analytics view.
 
 Asset performance involves assessing how effectively and efficiently assets fulfill their intended functions within an organization. The evaluation includes measuring and analyzing key performance indicators \(KPIs\), such as:
 
@@ -39,7 +39,7 @@ Asset performance involves assessing how effectively and efficiently assets fulf
 
 -   **Enhance financial planning**
 
-    Insights into performance help identify [[c_Models|models]] or locations that aren't performing well or have ongoing problems, guiding better investment choices.
+    Insights into performance help identify models or locations that aren't performing well or have ongoing problems, guiding better investment choices.
 
 -   **Align operations with service levels**
 
@@ -220,7 +220,7 @@ The count of total outage records for an asset excluding planned outages account
 
 ## Scheduled job for calculation of asset KPIs
 
--   The **Calculate asset performance KPIs** scheduled weekly job runs every Saturday to calculate the KPIs for the assets that belong to the [[model-hierarchy|model categories]] opted in for performance tracking. These KPIs are then reflected in the Asset availability and related KPIs report, which displays the most recent KPI values.
+-   The **Calculate asset performance KPIs** scheduled weekly job runs every Saturday to calculate the KPIs for the assets that belong to the model categories opted in for performance tracking. These KPIs are then reflected in the Asset availability and related KPIs report, which displays the most recent KPI values.
 
     **Note:** To track historical KPIs for existing assets in the opted-in model categories, run the **Calculate availability for historical data** job. This job considers the following tasks associated with an asset to calculate the outages and KPIs:
 
@@ -237,8 +237,3 @@ Track the asset availability and related KPI values in the report to see how wel
 
 **Parent Topic:**[Create and manage enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-assets.md)
 
-## Related
-
-- [[asset-analytics-view|Asset analytics view]]
-- [[c_Models|Models]]
-- [[model-hierarchy|Model categories]]

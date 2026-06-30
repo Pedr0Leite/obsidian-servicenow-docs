@@ -76,7 +76,7 @@ Use advanced configuration
 
 </td><td>
 
-Select to [[configure-onboarding-modals|configure]] a map with [[lists-configurable-workspace|lists]] and [[form-configurable-workspace|forms]]. The script hides and M2M forms display to configure your map.**Note:** Advanced configuration does not support mobile.
+Select to configure a map with lists and forms. The script hides and M2M forms display to configure your map.**Note:** Advanced configuration does not support mobile.
 
 </td></tr><tr><td>
 
@@ -132,13 +132,13 @@ Script
 
 </td><td>
 
-Create a script to define the type of data to display on this map. For more information, see [[scripting-for-map-pages|Scripting for map pages]].
+Create a script to define the type of data to display on this map. For more information, see [Scripting for map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/scripting-for-map-pages.md).
 
 </td></tr></tbody>
 </table>4.  Save the record.
 
 
-**Parent Topic:**[[c_MapPages|Map pages]]
+**Parent Topic:**[Map pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_MapPages.md)
 
 **Related topics**  
 
@@ -155,10 +155,3 @@ Create a script to define the type of data to display on this map. For more info
 
 [Scripting for map pages]()
 
-## Related
-
-- [[scripting-for-map-pages|Scripting for map pages]]
-- [[c_MapPages|Map pages]]
-- [[configure-onboarding-modals|Configure]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]

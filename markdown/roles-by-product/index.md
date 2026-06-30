@@ -8,38 +8,19 @@ doc_type: toc
 
 # Roles By Product
 
-- [[roles-for-all-products|Roles for all products]] -- ServiceNow roles for all products
-  - [[roles_awa|AWA roles]] -- These roles are available for the application
-  - [[roles_customerservicemanagement|Customer Service Management roles]] -- These roles are available for the application
-  - [[roles_datamanagement|Data Management roles]] -- These roles are available for the application
-  - [[roles_documentintelligence|Document Intelligence roles]] -- These roles are available for the application
-  - [[roles_documentservices|Document Services roles]] -- These roles are available for the application
-  - [[roles_hermesmessagingservice|Hermes Messaging Service roles]] -- These roles are available for the application
-  - [[roles_idr|IDR roles]] -- These roles are available for the application
-  - [[roles_knowledgemanagement|Knowledge Management roles]] -- These roles are available for the application
-  - [[roles_metricbase|MetricBase roles]] -- These roles are available for the application
-  - [[roles_predictiveintelligence|Predictive Intelligence roles]] -- These roles are available for the application
-  - [[roles_reporting|Reporting roles]] -- These roles are available for the application
-  - [[roles_servicecatalog|Service Catalog roles]] -- These roles are available for the application
-  - [[roles_serviceportal|Service Portal roles]] -- These roles are available for the application
-  - [[roles_taskintelligence|Task Intelligence roles]] -- These roles are available for the application
-  - [[roles_virtualagent|Virtual Agent roles]] -- These roles are available for the application
-
-## Related
-
-- [[roles-for-all-products|Roles for all products]]
-- [[roles_awa|AWA roles]]
-- [[roles_customerservicemanagement|Customer Service Management roles]]
-- [[roles_datamanagement|Data Management roles]]
-- [[roles_documentintelligence|Document Intelligence roles]]
-- [[roles_documentservices|Document Services roles]]
-- [[roles_hermesmessagingservice|Hermes Messaging Service roles]]
-- [[roles_idr|IDR roles]]
-- [[roles_knowledgemanagement|Knowledge Management roles]]
-- [[roles_metricbase|MetricBase roles]]
-- [[roles_predictiveintelligence|Predictive Intelligence roles]]
-- [[roles_reporting|Reporting roles]]
-- [[roles_servicecatalog|Service Catalog roles]]
-- [[roles_serviceportal|Service Portal roles]]
-- [[roles_taskintelligence|Task Intelligence roles]]
-- [[roles_virtualagent|Virtual Agent roles]]
+- [Roles for all products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles-for-all-products.md) -- ServiceNow roles for all products
+  - [AWA roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_awa.md) -- These roles are available for the application
+  - [Customer Service Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_customerservicemanagement.md) -- These roles are available for the application
+  - [Data Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_datamanagement.md) -- These roles are available for the application
+  - [Document Intelligence roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_documentintelligence.md) -- These roles are available for the application
+  - [Document Services roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_documentservices.md) -- These roles are available for the application
+  - [Hermes Messaging Service roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_hermesmessagingservice.md) -- These roles are available for the application
+  - [IDR roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_idr.md) -- These roles are available for the application
+  - [Knowledge Management roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_knowledgemanagement.md) -- These roles are available for the application
+  - [MetricBase roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_metricbase.md) -- These roles are available for the application
+  - [Predictive Intelligence roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_predictiveintelligence.md) -- These roles are available for the application
+  - [Reporting roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_reporting.md) -- These roles are available for the application
+  - [Service Catalog roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_servicecatalog.md) -- These roles are available for the application
+  - [Service Portal roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_serviceportal.md) -- These roles are available for the application
+  - [Task Intelligence roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_taskintelligence.md) -- These roles are available for the application
+  - [Virtual Agent roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/roles-by-product/roles_virtualagent.md) -- These roles are available for the application

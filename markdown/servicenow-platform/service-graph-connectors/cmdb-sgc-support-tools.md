@@ -23,7 +23,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 ## Key features
 
-The Service Graph Connector Support Tools application includes prebuilt conversations as a response to an issue type and enables [[cmdb-sgc-troubleshooting|resolving Service Graph Connector issues]] and to perform a general analysis.
+The Service Graph Connector Support Tools application includes prebuilt conversations as a response to an issue type and enables resolving Service Graph Connector issues and to perform a general analysis.
 
 The application provides capability to debug and resolve the following types of issues:
 
@@ -33,31 +33,23 @@ The application provides capability to debug and resolve the following types of 
 
 -   **Data issues**
 
-    Checks for customizations in [[ire|Identification and Reconciliation engine \(IRE\)]] rules, [[r_ReconciliationRulesPrinciples|reconciliation rules]], business rules, and mappings. Reviews the field and import causing the issue, reprocesses the import row, and provides the complete transformation information. Also, provides additional troubleshooting steps.
+    Checks for customizations in Identification and Reconciliation engine \(IRE\) rules, reconciliation rules, business rules, and mappings. Reviews the field and import causing the issue, reprocesses the import row, and provides the complete transformation information. Also, provides additional troubleshooting steps.
 
 -   **Performance issues**
 
-    Depending on the data source and import set selected, makes a basic performance check and reviews the history of the [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]] integration executions.
+    Depending on the data source and import set selected, makes a basic performance check and reviews the history of the Configuration Management Database \(CMDB\) integration executions.
 
 -   **Mapping issues**
 
-    Reviews mappings for input and output fields using the [[integrationhub-etl|IntegrationHub ETL]] store app.
+    Reviews mappings for input and output fields using the IntegrationHub ETL store app.
 
 
 The chatbot conversation also directs to the knowledge articles landing page in the Now Support knowledge base, if available for a connector.
 
 -   **[Install Service Graph Connector Support Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-troubleshooting-install.md)**  
-You can [[sgc-cmdb-troubleshooting-install|install Service Graph Connector Support Tools]] if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can install Service Graph Connector Support Tools if you have the admin role. The application installs related ServiceNow® Store applications and plugins if they are not already installed.
 -   **[Resolving Service Graph Connector issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-troubleshooting.md)**  
 You can use the Service Graph Connector Support Tools application to initiate a chatbot conversation with a virtual agent and resolve an issue or perform a general analysis on a Service Graph Connector installed on your instance.
 
 **Parent Topic:**[Service Graph Connectors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-available.md)
 
-## Related
-
-- [[cmdb-sgc-troubleshooting|Resolving Service Graph Connector issues]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[sgc-cmdb-troubleshooting-install|Install Service Graph Connector Support Tools]]

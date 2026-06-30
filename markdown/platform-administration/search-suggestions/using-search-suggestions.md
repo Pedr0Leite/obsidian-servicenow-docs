@@ -14,11 +14,11 @@ breadcrumb: [Search Suggestions, Search administration, Configure core features,
 
 # Using Search Suggestions
 
-Search applications display auto-complete suggestions and [[search-suggestions-overview|search suggestions]] as you type in their search fields. Administrators can analyze data from [[understanding-search-suggestion-tables|Search Suggestions tables]] to learn how users interact with search. Guest users can view suggestions created from self-registered external user searches.
+Search applications display auto-complete suggestions and search suggestions as you type in their search fields. Administrators can analyze data from Search Suggestions tables to learn how users interact with search. Guest users can view suggestions created from self-registered external user searches.
 
 ## Using Search Suggestions in AI Search
 
-[[ia-ai-search|AI Search]] applications display auto-complete suggestions created by the Build Search Suggestions script. Auto-complete suggestions appear as you enter terms into the application's search field. You can select an auto-complete suggestion to accept it as your search query.
+AI Search applications display auto-complete suggestions created by the Build Search Suggestions script. Auto-complete suggestions appear as you enter terms into the application's search field. You can select an auto-complete suggestion to accept it as your search query.
 
 To learn more about auto-complete suggestion usage and configuration in AI Search applications, see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md).
 
@@ -28,8 +28,3 @@ Zing displays search suggestions created by the Build Search Suggestions script.
 
 For more details on how search suggestions appear in Zing, see [Zing displays search suggestions as users enter search terms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/search-suggestions-zing.md).
 
-## Related
-
-- [[search-suggestions-overview|Search Suggestions]]
-- [[understanding-search-suggestion-tables|Search Suggestions tables]]
-- [[ia-ai-search|AI Search]]

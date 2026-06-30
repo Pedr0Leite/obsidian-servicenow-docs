@@ -14,7 +14,7 @@ breadcrumb: [Reference, Task Mining, Platform Analytics]
 
 # Agent and system configuration records in Task Mining
 
-Configuration records manage the behavior of the workstation agent and [[task-mining|Task Mining]] environment.
+Configuration records manage the behavior of the workstation agent and Task Mining environment.
 
 For information about configuration, see [Adjust Task Mining agent parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/set-system-parameters.md).
 
@@ -33,14 +33,10 @@ For information about configuration, see [Adjust Task Mining agent parameters](h
 |------|-----------|-------------|
 |Aggregation date range interval|Determines the length of the date range interval for user data aggregation. Value in days. If you're having trouble loading your categorization data, try lowering the value.|7|
 |Categories excluded from dashboard|Determines the application categories that are not displayed in analyses.|Off, Break|
-|Length of license period|Length of license period is used for [[reporting-landing-page|reporting]] purposes on the number of active users. Value in days.|180|
+|Length of license period|Length of license period is used for reporting purposes on the number of active users. Value in days.|180|
 |License period start date|Date from which the number of active users is counted. The date affects the reporting of the number of licenses.|none|
 |Off activity threshold|Determines the duration threshold that triggers Lock and Private activities to be reclassified as Off. Value in seconds.|7200|
 |Max treemap categories displayed|Defines the maximum number of categories displayed in a treemap. Additional categories are aggregated into a tile labeled Minor activities.|99|
 
 **Parent Topic:**[Task Mining Reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/task-mining/reference-task-mining.md)
 
-## Related
-
-- [[task-mining|Task Mining]]
-- [[reporting-landing-page|Reporting]]

@@ -93,12 +93,9 @@ Financial widgets provide at-a-glance visibility into the portfolio’s financia
 
 -   Review financial widgets weekly during active project phases.
 -   Investigate variances greater than 10% immediately.
--   [[create-financial-baselines-ppw|Create financial baselines]] at major milestones to track and compare changes over time.
+-   Create financial baselines at major milestones to track and compare changes over time.
 -   Use fiscal year breakdowns to identify seasonal spending patterns.
 -   Compare ROI and NPV together for comprehensive investment analysis.
 
 **Parent Topic:**[Financial planning for planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/financials-strategic-planning.md)
 
-## Related
-
-- [[create-financial-baselines-ppw|Create financial baselines]]

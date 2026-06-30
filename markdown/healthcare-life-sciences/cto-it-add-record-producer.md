@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Healthcare IT, Healthcare Opera
 
 # Add custom record producers to the service catalog in Care Team Operations for Healthcare IT
 
-Add custom record producers you have configured into service catalogs in [[hcls-cto-it-app|Care Team Operations for Healthcare IT]].
+Add custom record producers you have configured into service catalogs in Care Team Operations for Healthcare IT.
 
 ## Before you begin
 
@@ -35,7 +35,7 @@ Role required: admin
     |Title|Description|
     |-----|-----------|
     |**Description set**|Contains the short description and description fields.|
-    |**[[care-team-portal-landing|Care Team Portal]] Asset Model Set**|Contains a reference to the asset model.|
+    |**Care Team Portal Asset Model Set**|Contains a reference to the asset model.|
     |**Care Team Portal Asset Tag Set**|Contains the asset tag or serial number and the identified asset. Used in combination with the catalog client script to identify the asset by its asset tag or serial number and sets the reference field to the asset.|
     |**Requesting unit set**|Contains the requesting service organization.|
     |**Urgency set**|Contains the urgency field.|
@@ -63,7 +63,3 @@ Role required: admin
 
 You have created a custom record producer for use with Care Team Operations for Healthcare IT.
 
-## Related
-
-- [[hcls-cto-it-app|Care Team Operations for Healthcare IT]]
-- [[care-team-portal-landing|Care Team Portal]]

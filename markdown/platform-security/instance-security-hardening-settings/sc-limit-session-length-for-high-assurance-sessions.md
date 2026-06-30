@@ -16,7 +16,7 @@ breadcrumb: [Session management, Hardening settings, Platform Security]
 
 Reduce the risk of account takeover in high assurance sessions by limiting session length
 
-Reduce the risk of account takeover in high assurance sessions by limiting the length of the session. After the specified length of time, end-[[users|users]] must re-authenticate.
+Reduce the risk of account takeover in high assurance sessions by limiting the length of the session. After the specified length of time, end-users must re-authenticate.
 
 Use the **glide.zta.high\_assurance.session.timeout** system property to set a time, in minutes, after which users must re-authenticate. The value of this property must be between 1 and 480 minutes. Consider limiting this value to 30 or lower to reduce the risk of account takeover.
 
@@ -24,8 +24,8 @@ Use the **glide.zta.high\_assurance.session.timeout** system property to set a t
 
 |Attribute|Description|
 |---------|-----------|
-|Technical [[sc-configuration|configuration]] name|glide.zta.high\_assurance.session.timeout|
-|Plugin applicability|Zero Trust - Continuous [[c_Authentication|Authentication]] \(com.snc.zero\_trust\_continuous\_authentication\)|
+|Technical configuration name|glide.zta.high\_assurance.session.timeout|
+|Plugin applicability|Zero Trust - Continuous Authentication \(com.snc.zero\_trust\_continuous\_authentication\)|
 |Security risk|Shorter session lengths reduce the risk of account takeover by forcing users to re-authenticate.|
 |Common Vulnerability Scoring System \(CVSS\) score|3.3|
 |Common Vulnerability Scoring System \(CVSS\) rating|Low|
@@ -40,8 +40,3 @@ To learn more about adding or creating a system property, see [Add a system prop
 
 **Parent Topic:**[Session management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-session-management.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]

@@ -14,14 +14,14 @@ breadcrumb: [Incident Communications Management, IT Service Management]
 
 # Managing Incident Communications
 
-[[c_IncidentAlertManagement|Incident Communications Management]] provides a framework for defining and managing a communication process for an incident. It helps you to streamline a communication process by creating designated incident communication plans for effective communication during an event.
+Incident Communications Management provides a framework for defining and managing a communication process for an incident. It helps you to streamline a communication process by creating designated incident communication plans for effective communication during an event.
 
 -   **[Communication plan definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/communication-plan-definition.md)**  
 An incident communication plan helps you to streamline a communication process with regards to an incident. It defines the stakeholders who should be informed, what information should be shared, when the information should be delivered, and the methods of communication.
 -   **[Communication task definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/communication-task-definition.md)**  
-Each communication plan involves a series of communication tasks. A [[communication-task-definition|communication task definition]] helps you to specify the mode of communication \(channel\) and the frequency at which the communication must be carried out.
+Each communication plan involves a series of communication tasks. A communication task definition helps you to specify the mode of communication \(channel\) and the frequency at which the communication must be carried out.
 -   **[Communication contact definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/communication-contact-definition.md)**  
-[[communication-contact-definition|Communication contact definition]] helps you to define the recipients of a particular communication plan. The contact determines the target audience involved in each communication task and the responsibilities they are expected to handle. A notification for a task is sent to all individuals specified for that task. You can add or remove any particular communication contact manually.
+Communication contact definition helps you to define the recipients of a particular communication plan. The contact determines the target audience involved in each communication task and the responsibilities they are expected to handle. A notification for a task is sent to all individuals specified for that task. You can add or remove any particular communication contact manually.
 -   **[Communication channel definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/communication-channel-definition.md)**  
 You can define a communication channel for each communication task. The communication channel determines which mode of communication to use for the task when a plan is attached to an incident. The modes of communication available are: email, SMS, conference, and Slack.
 -   **[Create adhoc incident communication plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/c_CreateIncidentAlerts.md)**  
@@ -31,7 +31,7 @@ Create an adhoc incident communication task while you are working on the communi
 -   **[Incident Communications Management and Contacts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/c_IncidentAlertContact.md)**  
 You can define contacts to associate users or groups to an incident communication plan. The users or groups are contacted to complete the tasks included in a communication plan.
 -   **[Close an incident communication plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/close-an-inci-comm-plan.md)**  
-[[close-an-inci-comm-plan|Close an incident communication plan]] after its execution or if it is no longer needed.
+Close an incident communication plan after its execution or if it is no longer needed.
 -   **[Initiate conference call on incident communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/initiate-conf-call.md)**  
 Initiate a conference call and include all the required stakeholders to discuss on the resolution of the incident and the communication task.
 -   **[Join or end conference call on incident communication task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/join-end-conf-call.md)**  
@@ -39,17 +39,9 @@ After a conference call is initiated, join the call to participate in the discus
 -   **[Send communication updates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/send-comm-updates.md)**  
 Update users on the latest communication on an incident through selected communication channels.
 -   **[Run an incident communication plan report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_RunAnIncidentAlertReport.md)**  
-[[t_RunAnIncidentAlertReport|Run an incident communication plan report]] to view the status of communication plans. You can track the progress of the plan and intervene to improve the overall efficiency and effectiveness of the communication process.
+Run an incident communication plan report to view the status of communication plans. You can track the progress of the plan and intervene to improve the overall efficiency and effectiveness of the communication process.
 -   **[Subscribe to incident communication notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/t_SubscribeToANotification.md)**  
-[[t_SubscribeToANotification|Subscribe to incident communication notifications]] to get periodic information about issues related to incident communication plans. The timely incident communication notification or incident alerts \(IA\) helps address issues within the defined SLA.
+Subscribe to incident communication notifications to get periodic information about issues related to incident communication plans. The timely incident communication notification or incident alerts \(IA\) helps address issues within the defined SLA.
 
 **Parent Topic:**[Incident Communications Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-communications-management/c_IncidentAlertManagement.md)
 
-## Related
-
-- [[c_IncidentAlertManagement|Incident Communications Management]]
-- [[communication-task-definition|Communication task definition]]
-- [[communication-contact-definition|Communication contact definition]]
-- [[close-an-inci-comm-plan|Close an incident communication plan]]
-- [[t_RunAnIncidentAlertReport|Run an incident communication plan report]]
-- [[t_SubscribeToANotification|Subscribe to incident communication notifications]]

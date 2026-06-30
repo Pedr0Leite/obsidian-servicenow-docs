@@ -16,23 +16,14 @@ Customers can use the Walk-up Experience feature to check in at a walk-up locati
 
 Customers can use the Walk-up Experience feature to complete the following tasks:
 
--   [[csm-walkup-checkin|Check in at a walk-up location]] and join a requester queue.
--   [[csm-walkup-checkin-online|Schedule an appointment or join a requester queue from the Customer Service Portal]].
--   [[csm-walkup-appt-guest|Schedule an appointment as a guest user]].
--   [[csm-walkup-modify-cancel-appt-guest|Modify or cancel a walk-up appointment as a guest user]].
--   [[csm-walkup-monitor-queues|Monitor requester queues]].
+-   [Check in at a walk-up location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-checkin.md) and join a requester queue.
+-   [Schedule an appointment or join a requester queue from the Customer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-checkin-online.md).
+-   [Schedule an appointment as a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-appt-guest.md).
+-   [Modify or cancel a walk-up appointment as a guest user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-modify-cancel-appt-guest.md).
+-   [Monitor requester queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-monitor-queues.md).
 
 Walk-up experience technicians and managers can view and manage walk-up interactions and queues and view the CSM Walk-up Experience dashboard.
 
--   [[csm-walkup-experience-dashboard|CSM Walk-up Experience dashboard]]
--   [[csm-walkup-manage-demand|Manage queues and interactions]]
+-   [CSM Walk-up Experience dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-experience-dashboard.md)
+-   [Manage queues and interactions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-walkup-manage-demand.md)
 
-## Related
-
-- [[csm-walkup-checkin|Check in at a walk-up location]]
-- [[csm-walkup-checkin-online|Schedule appointments or join a queue from the Self Service portals]]
-- [[csm-walkup-appt-guest|Schedule a walk-up appointment as a guest user]]
-- [[csm-walkup-modify-cancel-appt-guest|Modify or cancel a walk-up appointment as a guest user]]
-- [[csm-walkup-monitor-queues|Monitor Walk-up Experience queues]]
-- [[csm-walkup-experience-dashboard|CSM Walk-up Experience dashboard]]
-- [[csm-walkup-manage-demand|Walk-up Experience queue and interaction management]]

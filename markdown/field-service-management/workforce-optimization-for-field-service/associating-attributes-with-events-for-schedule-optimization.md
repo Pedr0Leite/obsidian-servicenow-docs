@@ -14,7 +14,7 @@ breadcrumb: [Workforce Optimization, Set up workforce, Configure, Field Service 
 
 # Associating attributes with events for Schedule Optimization
 
-[[schedule-optimization|Schedule Optimization]] auto-assigns tasks and adapts to changing conditions by following policies to optimize travel time and agent availability. When [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] is activated, you can associate attributes to events, enhancing optimization and overall scheduling accuracy.
+Schedule Optimization auto-assigns tasks and adapts to changing conditions by following policies to optimize travel time and agent availability. When Workforce Optimization for Field Service is activated, you can associate attributes to events, enhancing optimization and overall scheduling accuracy.
 
 ## Agent Schedule Attributes Table
 
@@ -116,7 +116,3 @@ Schedule Optimization calculates the travel duration to the event and from the e
 
 [Configuring Schedule Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/schedule-optimization-engine.md)
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]

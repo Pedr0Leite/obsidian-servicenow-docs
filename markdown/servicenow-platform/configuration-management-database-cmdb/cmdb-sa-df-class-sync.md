@@ -18,7 +18,7 @@ When other tools or processes add or remove principal classes outside the adviso
 
 ## About principal class sync
 
-The principal classes you select in the advisor define the Data Foundations advisor scope. The CMDB also stores principal class status at the class level, and other tools and processes, such as the [[ci-class-manager-landing-page|CI Class Manager]] or the principal class recommendations agent, can change it. When tools or processes change principal class designations outside the advisor, the advisor scope and the principal class state in the CMDB can diverge.
+The principal classes you select in the advisor define the Data Foundations advisor scope. The CMDB also stores principal class status at the class level, and other tools and processes, such as the CI Class Manager or the principal class recommendations agent, can change it. When tools or processes change principal class designations outside the advisor, the advisor scope and the principal class state in the CMDB can diverge.
 
 Examples of changes that can cause an out-of-sync state:
 
@@ -46,6 +46,3 @@ If a discrepancy exists, the Data Foundations advisor displays two types of noti
 
 To resolve a principal class sync discrepancy, see [Resolve an out-of-sync principal class state in the Data Foundations advisor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-resolve-class-sync.md).
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]

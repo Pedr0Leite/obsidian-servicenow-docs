@@ -20,7 +20,7 @@ You can add custom columns \(fields\) to an HR table.
 
 Role required: sn\_hr\_core.admin
 
-**Note:** When adding custom columns to an HR COE table, you must create a UI policy to hide it from other [[hr-service-administration|HR services]] that use that HR COE table.
+**Note:** When adding custom columns to an HR COE table, you must create a UI policy to hide it from other HR services that use that HR COE table.
 
 ## Procedure
 
@@ -41,6 +41,3 @@ Role required: sn\_hr\_core.admin
 
 **Parent Topic:**[Configure an HR service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-service.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]

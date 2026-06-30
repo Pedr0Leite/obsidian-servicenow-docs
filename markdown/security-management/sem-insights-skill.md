@@ -12,7 +12,7 @@ breadcrumb: [Use, Unified Security Exposure Management, Security Operations]
 
 # Generate vulnerability insights with generative AI
 
-Use the Security Exposure Management \(SEM\) Insights generative AI skill to provide contextual summaries and actionable recommendations in the Security Exposure Management \(SEM\) Workspace. Use insights based on exposure data, [[threat-intel-landing-page|threat intelligence]], remediation status, and asset context to surface dynamic insights for Findings views. Help admins, analysts, and vulnerability managers prioritize critical risks and take immediate remediation actions.
+Use the Security Exposure Management \(SEM\) Insights generative AI skill to provide contextual summaries and actionable recommendations in the Security Exposure Management \(SEM\) Workspace. Use insights based on exposure data, threat intelligence, remediation status, and asset context to surface dynamic insights for Findings views. Help admins, analysts, and vulnerability managers prioritize critical risks and take immediate remediation actions.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ The Now Assist panel must be activated. For more information, see [Activate the 
 
 **Important:** This Now Assist skill is turned on by default. The skill will be automatically available to appropriate role users for the application. For more information, see [Now Assist skills, agents, and agentic workflows on by default](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills-on-by-default.md).
 
-For more information about configuring this skill, see [[activate-skills-now-assist-vulnerability-response|Configure a generative AI skill]].
+For more information about configuring this skill, see [Configure a generative AI skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-skills-now-assist-vulnerability-response.md).
 
 Role required: sn\_vul\_ai.run\_sem\_insights
 
@@ -40,7 +40,7 @@ To generate insights in the SEM workspace, you must have the sn\_vul\_ai.run\_se
 
     Example:
 
-    -   273 Critical [[vulnerabilities|vulnerabilities]] have no remediation target set – Create remediation task
+    -   273 Critical vulnerabilities have no remediation target set – Create remediation task
     -   379 findings are unassigned – Immediate triage needed
 5.  Drill down into any insight by selecting the linked numbers to open filtered records and take action directly from the workspace.
 
@@ -51,11 +51,5 @@ To generate insights in the SEM workspace, you must have the sn\_vul\_ai.run\_se
 -   **Provide feedback** on insights using the thumbs up/down icons on each card to rate the usefulness of insights.
 -   **Refresh** dashboard data with the refresh icon. Refresh updates data but does not regenerate insights automatically.
 
-**Parent Topic:**[[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
+**Parent Topic:**[Using Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/using-unified-security-exposure-management.md)
 
-## Related
-
-- [[activate-skills-now-assist-vulnerability-response|Configure a generative AI skill]]
-- [[using-unified-security-exposure-management|Using Unified Security Exposure Management]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerabilities|Vulnerabilities]]

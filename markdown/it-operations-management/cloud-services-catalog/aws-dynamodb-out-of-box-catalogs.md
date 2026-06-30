@@ -14,7 +14,7 @@ breadcrumb: [Out Of Box Catalogs using Cloud Services Catalog, Cloud Services Ca
 
 # Amazon Web Services DynamoDB Out Of Box Catalog Items
 
-[[csc-home|Cloud Services Catalog]] AWS DynamoDB table for highly scalable NoSQL database.
+Cloud Services Catalog AWS DynamoDB table for highly scalable NoSQL database.
 
 This is a fully functional sample catalog item that can be used to order a Dynamo DB table- a name-value database table on Amazon Web Services or AWS cloud. The standard inputs to be provided are the table name, and the partition key as well as sort key names. The details of the dynamo DB will appear in the stack details returned.
 
@@ -25,6 +25,3 @@ Amazon Web Services DynamoDB OOB catalog items permissions. DynamoDB supports pr
 
 **Parent Topic:**[Out Of Box Catalogs using Cloud Services Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/out-of-the-box-catalog-items.md)
 
-## Related
-
-- [[csc-home|Cloud Services Catalog]]

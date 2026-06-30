@@ -40,7 +40,7 @@ Role required: sn\_fin\_ops.specialist
 
     The Create New Finance Case form opens in a new tab in the Finance Operations Workspace. \[Omitted image "fin-ops-create-case-ws.png"\] Alt text: Create a finance case
 
-    **Note:** If you have access to [[purch-order-mgmt-ws|Source-to-Pay Workspace]] and if you select a case type related to [[source-to-pay-operations-overview|Source-to-Pay operations]], the new form opens in a new browser tab in the Source-to-Pay Workspace.
+    **Note:** If you have access to Source-to-Pay Workspace and if you select a case type related to Source-to-Pay operations, the new form opens in a new browser tab in the Source-to-Pay Workspace.
 
 7.  On the Create New Finance Case form, fill in the fields.
 
@@ -53,7 +53,3 @@ Role required: sn\_fin\_ops.specialist
 
 **Parent Topic:**[Using the Finance Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/finance-case-management/using-fin-case-mgmt-workspace.md)
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

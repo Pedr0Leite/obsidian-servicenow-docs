@@ -12,13 +12,13 @@ breadcrumb: [Chat Zoom Connector, Chat channel, Enable communication channels, C
 
 # Configure application-specific field values for Zoom interactions
 
-Use scripted extension [[gamification-components-points|points]] to enable the copying of application-specific field values to interaction records for Zoom meetings initiated from chats.
+Use scripted extension points to enable the copying of application-specific field values to interaction records for Zoom meetings initiated from chats.
 
 ## Before you begin
 
 Role required: admin
 
-Install the [[chat-zoom-connector|Chat Zoom Connector]] application. For more information, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
+Install the Chat Zoom Connector application. For more information, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
 
 ## About this task
 
@@ -38,7 +38,7 @@ An implementation is available in the base system for scripted extension points.
 
     -   Create and register a custom script include.
 
-        For more information, see [[impl-scripted-ext-pts-custom-code|Registering custom script includes against the scripted extension points]].
+        For more information, see [Registering custom script includes against the scripted extension points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/impl-scripted-ext-pts-custom-code.md).
 
     -   Modify the existing script include by going to the Implementations related list and selecting a script include in the **Class** column. The script includes are displayed in the **Class** column.
 
@@ -52,8 +52,4 @@ An implementation is available in the base system for scripted extension points.
 
 5.  On the Extension Point form, select **Update**.
 
-## Related
 
-- [[impl-scripted-ext-pts-custom-code|Registering custom script includes against the scripted extension points]]
-- [[gamification-components-points|Points]]
-- [[chat-zoom-connector|Chat Zoom Connector]]

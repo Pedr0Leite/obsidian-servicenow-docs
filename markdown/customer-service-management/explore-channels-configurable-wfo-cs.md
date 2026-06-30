@@ -36,9 +36,9 @@ As a channel management user, you can:
 As a channel management administrator, you can:
 
 -   Create service channels and queues.
--   Associate assignment [[gamification-components-rules|rules]] to queues.
+-   Associate assignment rules to queues.
 -   Configure KPIs for service channels and queues.
--   Configure the supervisor [[migration-lists|lists]].
+-   Configure the supervisor lists.
 -   Customize the channel management page according to your requirements using the UI Builder.
 
 ## Help Request on the Channel Overview page
@@ -51,7 +51,7 @@ Supervisors can open any active voice request to review context and take action,
 -   Coaching the agent privately
 -   Barging in to speak with both the agent and customer
 
-Each help request includes metadata such as agent name, interaction type, and duration, and updates automatically as new requests are raised. This capability requires CCaaS integration, appropriate supervisor permissions, and access to real‑time interaction data, enabling faster response times, consistent support across channels, and an improved [[agent-exp|agent experience]].
+Each help request includes metadata such as agent name, interaction type, and duration, and updates automatically as new requests are raised. This capability requires CCaaS integration, appropriate supervisor permissions, and access to real‑time interaction data, enabling faster response times, consistent support across channels, and an improved agent experience.
 
 ## Example
 
@@ -69,24 +69,15 @@ Get an overview on how you can manually assign work items, monitor ongoing cases
 
 Get an overview on how managers can add service channels, queues, and configure KPIs.
 
--   **[[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]**  
+-   **[Using Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configurable-channels-wfo-cs.md)**  
 Use Channel Management to keep a track of the real-time performance of work done by your team members through channels and queues views. You can also drill down into specific cases and chats and collaborate with your team members to achieve better results.
 
-**Parent Topic:**[[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
+**Parent Topic:**[Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-configurable-wfo-cs.md)
 
 **Related topics**  
 
 
-[[setup-channels-queues-configurable-wfo-cs|Setting up service channels and queues]]
+[Setting up service channels and queues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-channels-queues-configurable-wfo-cs.md)
 
-[[use-channels-configurable-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
+[Using Channel Management in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-channels-configurable-wfo-cs.md)
 
-## Related
-
-- [[configurable-channels-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
-- [[use-configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[setup-channels-queues-configurable-wfo-cs|Setting up service channels and queues]]
-- [[use-channels-configurable-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
-- [[gamification-components-rules|Rules]]
-- [[migration-lists|Lists]]
-- [[agent-exp|Agent experience]]

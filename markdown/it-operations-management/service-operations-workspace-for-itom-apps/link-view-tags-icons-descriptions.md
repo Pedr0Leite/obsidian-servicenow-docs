@@ -184,7 +184,7 @@ Process
 
 </td><td>
 
-A process or a cluster of processes running on the host that are identified by the horizontal [[r-discovery|discovery]].
+A process or a cluster of processes running on the host that are identified by the horizontal discovery.
 
 </td></tr><tr><td>
 
@@ -292,7 +292,7 @@ Detection
 
 </td><td>
 
-An identified anomaly on a metric measured by [[hla-landing-page|Health Log Analytics]].
+An identified anomaly on a metric measured by Health Log Analytics.
 
 </td></tr><tr><td>
 
@@ -314,7 +314,3 @@ User-defined attribute.**Note:** All the other attributes are predefined in the 
 
 **Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-reference-itom.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[hla-landing-page|Health Log Analytics]]

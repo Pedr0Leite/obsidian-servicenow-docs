@@ -14,9 +14,9 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Virtual grouping of nodes in a Dependency Views map
 
-To reduce the density on a map, [[c_BusinesssServiceManagementMaps|Dependency Views]] automatically groups CIs of a similar CI type from the same level.
+To reduce the density on a map, Dependency Views automatically groups CIs of a similar CI type from the same level.
 
-A large number of nodes can cause a [[c_NextGenBSMMaps|Dependency Views map]] to become too dense to be helpful. Therefore, if the number of nodes with a similar CI type from same level, exceeds the value of the **Maximum number of nodes \(of a similar CI type and at the same level\) to display before applying virtual grouping** property, then those nodes are automatically grouped into a virtual group. A single node, the virtual group node is displayed to represent the virtual group, while all actual nodes in the virtual group \(that are of a similar CI type\), are hidden. Virtual group nodes represent CIs of a similar CI type but are not CIs by themselves and cannot have tasks assigned to them. The number of actual collapsed nodes in the virtual group is noted on the virtual group node.
+A large number of nodes can cause a Dependency Views map to become too dense to be helpful. Therefore, if the number of nodes with a similar CI type from same level, exceeds the value of the **Maximum number of nodes \(of a similar CI type and at the same level\) to display before applying virtual grouping** property, then those nodes are automatically grouped into a virtual group. A single node, the virtual group node is displayed to represent the virtual group, while all actual nodes in the virtual group \(that are of a similar CI type\), are hidden. Virtual group nodes represent CIs of a similar CI type but are not CIs by themselves and cannot have tasks assigned to them. The number of actual collapsed nodes in the virtual group is noted on the virtual group node.
 
 By default, child nodes of a virtual group are not displayed. You can enable the **Show children of virtual groups** property to display child nodes underneath virtual groups.
 
@@ -39,7 +39,3 @@ Also, when using the node menu option **Load More**, virtual grouping is not app
 
 [Properties for Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/properties-dependency-views.md)
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

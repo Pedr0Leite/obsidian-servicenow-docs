@@ -14,7 +14,7 @@ breadcrumb: [List, Gantt, and Kanban views, Board views in CWM, Manage work usin
 
 # Personalize List, Gantt and Kanban display for CWM Boards
 
-Show, hide, or rearrange columns and apply sorting or filters to personalize the way data is displayed in [[cwm-landing|Collaborative Work Management]] Boards based on your workflow.
+Show, hide, or rearrange columns and apply sorting or filters to personalize the way data is displayed in Collaborative Work Management Boards based on your workflow.
 
 ## Before you begin
 
@@ -80,6 +80,3 @@ After changing the way data is displayed on your Board, you have the option of s
 
 **Parent Topic:**[List, Gantt, and Kanban views in CWM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/cwm-board-views.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

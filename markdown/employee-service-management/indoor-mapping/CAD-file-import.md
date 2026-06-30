@@ -24,7 +24,7 @@ Role required: map editor, map admin, map editor limited
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[Indoor-mapping|Indoor Mapping]]** &gt; **Map Studio**.
+1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Map Studio**.
 
 2.  Create a Campus, add few buildings and floors to a campus or select an existing campus.
 
@@ -64,7 +64,7 @@ Role required: map editor, map admin, map editor limited
 
     -   Georeference: Option to edit position and adust the location pins for a location.
     -   Layers: Option to configure layer types that you want to display on the global map.
-    -   Places: Option to [[edit-places|configure places]] that you want to display on the global map.
+    -   Places: Option to configure places that you want to display on the global map.
     -   Configuration preview: CAD file configuration preview.
     -   File preview: After making the required changes to Layers and Places, preview your changes on the Configuration preview layout.
 11. Select **Edit georeference** to move the location pins and position the floor on the global map \(OpenStreetMap\).
@@ -112,7 +112,7 @@ Role required: map editor, map admin, map editor limited
 
 20. If there is a small disconnect between the first and last point, you can correct this by modifying the sys\_property automatically converting lines to polygon while importing a CAD file.
 
-    1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **[[indoor-mapping-properties|Indoor Mapping properties]]**.
+    1.  Navigate to **All** &gt; **Indoor Mapping** &gt; **Indoor Mapping properties**.
 
     2.  Search for **sn\_map\_core.line\_to\_polygon\_max\_distance**
 
@@ -132,7 +132,7 @@ Role required: map editor, map admin, map editor limited
 
     Your map is now available on the Map Studio with the CAD changes.
 
-24. On the [[autocad-v2-config-layout|CAD configuration]] page menu, select the following options, as required:
+24. On the CAD configuration page menu, select the following options, as required:
 
     -   **Upload new file** to upload a new floor plan.
     -   **Download file** to download the CAD file.
@@ -143,7 +143,7 @@ Role required: map editor, map admin, map editor limited
     -   Edit floor: Option to edit source floor. Select **Save** after updating the floor name.
     -   Edit file encoding: Option to edit source file encoding. Select a standard encoding format for your file. Select **Save and upload**.
     -   Edit file unit: Option to edit the CAD file unit. For example: Inches, feet, centimeters, and so on.
-    -   Use new [[autocad-processor-v1|AutoCAD tool]]: Option to switch and navigate to the new Autocad processor configuration page to manage, edit, and optimize the layers, places, and objects in your CAD file.
+    -   Use new AutoCAD tool: Option to switch and navigate to the new Autocad processor configuration page to manage, edit, and optimize the layers, places, and objects in your CAD file.
     -   Delete: Option to delete the CAD source file.
     The CAD file is loaded into the Map Studio and the configuration for layers, layer types, and places is created. The application automatically applies the same configurations to subsequent floors that are imported. This is helpful in speeding up configurations of buildings that have multiple floors and where all the CAD files have similar layers. If the CAD layers within the subsequent files have the same layer names as the layers within the initial file, then layers, layer types, and places is pre-filled with the same values as those in the initial file.
 
@@ -154,10 +154,3 @@ Role required: map editor, map admin, map editor limited
 
 **Next topic:**[Indoor Mapping references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/indoor-mapping-references.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[edit-places|Configure places]]
-- [[indoor-mapping-properties|Indoor Mapping properties]]
-- [[autocad-v2-config-layout|CAD configuration]]
-- [[autocad-processor-v1|Autocad tool]]

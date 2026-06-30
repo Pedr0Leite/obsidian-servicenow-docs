@@ -14,14 +14,14 @@ breadcrumb: [Use, Asset Management, IT Asset Management]
 
 # Manage pre-allocated assets
 
-Manage pre-allocated assets, which are the assets that the vendor still owns, but has agreed to store in a customer stockroom for just-in-time [[c_Procurement|procurement]].
+Manage pre-allocated assets, which are the assets that the vendor still owns, but has agreed to store in a customer stockroom for just-in-time procurement.
 
 -   **[Create pre-allocated assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_CreatingPreAllocatedAssets.md)**  
 Create a pre-allocated asset that physically exists, but isn’t yet a financial liability.
 -   **[Allocate a pre-allocated asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_AllocatingAPreAllocatedAsset.md)**  
 Assets can be allocated from pre-allocated asset records, which creates new asset records and reduces the **Quantity** in the original pre-allocated asset record.
 -   **[Split a pre-allocated asset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/t_SplittingAPreAllocatedAsset.md)**  
-You can [[t_SplittingAPreAllocatedAsset|split a pre-allocated asset]] to create a group that can be moved to a different stockroom.
+You can split a pre-allocated asset to create a group that can be moved to a different stockroom.
 
 **Parent Topic:**[Using Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/using-asset-management.md)
 
@@ -44,7 +44,3 @@ You can [[t_SplittingAPreAllocatedAsset|split a pre-allocated asset]] to create 
 
 [Use Organization Management]()
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[t_SplittingAPreAllocatedAsset|Split a pre-allocated asset]]

@@ -29,13 +29,13 @@ Plan and configure your implementation of CMDB Workspace.
     -   [Configure classes for Cloud vs Non-cloud resources in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-config-classes-cloud.md)
 
 -   **[Set up CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/setup-cmdb-workspace.md)**  
-Set up and access the [[cmdb-workspace|CMDB Workspace store app]].
+Set up and access the CMDB Workspace store app.
 -   **[Modify important actions on the Home view of CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-edit-imp-action.md)**  
 Modify the appearance order and other properties of the important action cards that appear on the Home view of the CMDB Workspace.
 -   **[Add a quick link to the Home view of CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-add-quick-link.md)**  
 For an immediate access to tools or data that you need, add your own quick link to the Home view of CMDB Workspace.
 -   **[Configure datacenters for Cloud vs Non-cloud resources in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-config-datacenter.md)**  
-The [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]] in CMDB Workspace determines which CIsand application services are stored on a cloud and which aren't in the organization. In addition to base system classifications, you can add cloud versus non-cloud classifications that reflect specific datacenter deployments in the organization.
+The Cloud vs Non-cloud resources chart in CMDB Workspace determines which CIsand application services are stored on a cloud and which aren't in the organization. In addition to base system classifications, you can add cloud versus non-cloud classifications that reflect specific datacenter deployments in the organization.
 -   **[Configure classes for Cloud vs Non-cloud resources in CMDB Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace-config-classes-cloud.md)**  
 Include or exclude pairs of **CI Class**/**Type** in the Cloud vs Non-cloud resources chart that appears in CMDB Workspace.
 -   **[Request additional attributes for new CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/additional-att-create-ci-workspace.md)**  
@@ -45,7 +45,3 @@ Limit the selection of classes for a new CI being manually created in your works
 
 **Parent Topic:**[CMDB Workspace store app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-workspace.md)
 
-## Related
-
-- [[cmdb-workspace|CMDB Workspace store app]]
-- [[cmdb-workspace-ci-overview-cloud|Cloud vs Non-cloud resources chart]]

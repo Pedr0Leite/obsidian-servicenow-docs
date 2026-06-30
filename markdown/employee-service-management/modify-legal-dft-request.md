@@ -20,7 +20,7 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
     **Note:** If you’re using Legal Service Portal, open a request by navigating to the Legal Service Portal and selecting **My Requests** &gt; **View all requests** from the header.
 
@@ -50,7 +50,7 @@ Steps
 2.  In the Variables form, complete any of the following actions:
 
     -   To modify the request details, update fields as needed.
-    -   To add custodial data, click **Add**. For more information, see [[submit-legal-dft-request|Add a custodian to a digital forensic request]].
+    -   To add custodial data, click **Add**. For more information, see [Add a custodian to a digital forensic request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/submit-legal-dft-request.md).
     -   To remove all custodial data, click **Remove All**.
     -   To add non-custodial data, click **Add**. For more information, see [Add a custodian to a digital forensic request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/submit-legal-dft-request.md).
     -   To remove all non-custodial data, click **Remove All**.
@@ -73,7 +73,7 @@ The digital forensic request is updated with the new information. The changes ap
 The request is canceled and the cancellation comments appear in the Additional Comments section of the request.
 
 </td></tr></tbody>
-</table>5.  In the **[[activity-lxp|Activity]]** tab, provide comments supporting your request.
+</table>5.  In the **Activity** tab, provide comments supporting your request.
 
 6.  Manage documents supporting your request.
 
@@ -115,11 +115,5 @@ A link to the document is listed in the **External URL** column of the documents
 8.  In the **Non-Custodial Data** tab, view the existing non-custodial data added to the request or export to a file by clicking the more options icon \(\[Omitted image "more-options-icon.png"\] Alt text: More options icon.\).
 
 
-**Parent Topic:**[[submitting-legal-dft-request|Submitting digital forensics requests]]
+**Parent Topic:**[Submitting digital forensics requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/submitting-legal-dft-request.md)
 
-## Related
-
-- [[submit-legal-dft-request|Submit a digital forensic request]]
-- [[submitting-legal-dft-request|Submitting digital forensics requests]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]

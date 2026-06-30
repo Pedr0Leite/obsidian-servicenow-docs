@@ -25,7 +25,7 @@ Role required: sn\_gf.goal\_admin
 
 **Note:** Because the targets are associated to a goal, you should import the goals first and then the targets.
 
-**Important:** Goals and targets data in the spreadsheet must be in the supported format. For details on the supported data format to [[import-goals-and-targets-data-from-a-spreadsheet|import goals and targets data from a spreadsheet]], see [Import goals and targets data \[KB1191233\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1191233).
+**Important:** Goals and targets data in the spreadsheet must be in the supported format. For details on the supported data format to import goals and targets data from a spreadsheet, see [Import goals and targets data \[KB1191233\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB1191233).
 
 ## Procedure
 
@@ -58,6 +58,3 @@ Role required: sn\_gf.goal\_admin
 
 **Parent Topic:**[Configuring goals in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configuring-goal-framework-apw.md)
 
-## Related
-
-- [[import-goals-and-targets-data-from-a-spreadsheet|Import goals and targets data from a spreadsheet]]

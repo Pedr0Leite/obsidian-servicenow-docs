@@ -16,7 +16,7 @@ breadcrumb: [Explore, Digital Factory Workspace, Industrial Connected Workforce]
 
 Use the task lists in the Digital Factory Workspace to access and manage all types of tasks for your organization.
 
-When you select the Lists icon \(\[Omitted image "list-view.png"\] Alt text: Lists icon.\), you're taken to the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] list view. Here you have the access to all the task lists related to your [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\) processes.
+When you select the Lists icon \(\[Omitted image "list-view.png"\] Alt text: Lists icon.\), you're taken to the Digital Factory Workspace list view. Here you have the access to all the task lists related to your Industrial Connected Workforce \(ICW\) processes.
 
 From each of these lists, you can access the following tasks:
 
@@ -115,7 +115,3 @@ Within an individual task record, excluding guided tasks, two tabs provide acces
 
 **Parent Topic:**[Exploring Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/exploring-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

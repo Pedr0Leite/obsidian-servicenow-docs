@@ -16,11 +16,11 @@ breadcrumb: [Cluster analysis, Analyzing and getting process insights, Use, Proc
 
 View a cluster analysis of the top three clusters for an activity, connection between activities, or route.
 
-View a completed [[cluster-analysis|cluster analysis]] one of these ways.
+View a completed cluster analysis one of these ways.
 
 -   Select a connection or activity from the process map which has had a cluster analysis performed on it. In the metrics box, select **View**.
 -   From the Scheduled tasks panel, select **View result** for the selected cluster task.
--   From the [[summary-insights-dashboard|Summary and insights page]], select **Requestor intent \(cluster\) View results** in the box for the insight you want to view.
+-   From the Summary and insights page, select **Requestor intent \(cluster\) View results** in the box for the insight you want to view.
 
 ## Cluster analysis results
 
@@ -75,7 +75,3 @@ For additional information on using a treemap, see [Create and train a clusterin
 
 **Parent Topic:**[Cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md)
 
-## Related
-
-- [[cluster-analysis|Cluster analysis]]
-- [[summary-insights-dashboard|Summary and insights page]]

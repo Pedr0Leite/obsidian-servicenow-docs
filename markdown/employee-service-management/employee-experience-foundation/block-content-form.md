@@ -38,7 +38,7 @@ Allow personalization
 
 </td><td>
 
-Enables the use of variables taken from either the [[c_HRProfileRecords|HR Profile]] or Sys User tables to personalize your content.Select the box and **User [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] table** appears.
+Enables the use of variables taken from either the HR Profile or Sys User tables to personalize your content.Select the box and **User reference table** appears.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ Text that comprises the block content. To insert variables, place your cursor in
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -114,8 +114,3 @@ Text that comprises the block content. To insert variables, place your cursor in
 
 [To-do content form]()
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[employee-center-landing-page|Employee Center]]

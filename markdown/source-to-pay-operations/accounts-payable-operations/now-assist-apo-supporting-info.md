@@ -44,7 +44,7 @@ Virtual Agent
 
 </td></tr><tr><td>
 
-[[purch-order-mgmt-ws|Source-to-Pay Workspace]]
+Source-to-Pay Workspace
 
 </td><td>
 
@@ -74,6 +74,3 @@ Activate the applications in the following order:
 
 For more information, see [Configure Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configuring-now-assist-apo.md).
 
-## Related
-
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

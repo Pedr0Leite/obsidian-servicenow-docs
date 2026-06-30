@@ -22,7 +22,7 @@ Distribution Rules determine how the Distribution Costs are divided among the CI
 
 ## Defining Distribution Costs
 
-To define new distribution costs, navigate to **Financial Management** &gt; **[[r_CostManagement|Cost Management]]** &gt; **Distribution Costs**, and select **New**. Populate the following fields:
+To define new distribution costs, navigate to **Financial Management** &gt; **Cost Management** &gt; **Distribution Costs**, and select **New**. Populate the following fields:
 
 |Field|Input Value|
 |-----|-----------|
@@ -44,6 +44,3 @@ Define distribution rules to view distribution costs that are distributed accord
 
 **Parent Topic:**[Cost Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/cost-management/r_CostManagement.md)
 
-## Related
-
-- [[r_CostManagement|Cost Management]]

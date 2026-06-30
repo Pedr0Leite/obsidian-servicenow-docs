@@ -15,7 +15,7 @@ breadcrumb: [Atlassian Confluence Cloud external content connector, Configure, E
 
 # Configure Atlassian Confluence Cloud for external content indexing
 
-Register an OAuth 2.0 integration in the Atlassian Developer console and create an API key in Atlassian Administration to allow the [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]] to crawl spaces and security principals in your Atlassian Confluence Cloud source system.
+Register an OAuth 2.0 integration in the Atlassian Developer console and create an API key in Atlassian Administration to allow the Atlassian Confluence Cloud external content connector to crawl spaces and security principals in your Atlassian Confluence Cloud source system.
 
 ## Before you begin
 
@@ -161,6 +161,3 @@ For details on creating and configuring an Atlassian Confluence Cloud external c
 
 **Parent Topic:**[Atlassian Confluence Cloud external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/atlassian-confluence-cloud-external-content-connector.md)
 
-## Related
-
-- [[atlassian-confluence-cloud-external-content-connector|Atlassian Confluence Cloud external content connector]]

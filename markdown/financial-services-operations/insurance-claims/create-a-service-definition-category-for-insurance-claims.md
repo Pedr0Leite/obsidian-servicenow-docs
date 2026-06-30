@@ -14,7 +14,7 @@ breadcrumb: [Creating a service definition for Insurance claims, Configure, Insu
 
 # Create a service definition category for Insurance claims
 
-Create a service definition category in [[insurance-claims-flow|Insurance claims]] to properly classify and handle claims that are related to a particular benefit.
+Create a service definition category in Insurance claims to properly classify and handle claims that are related to a particular benefit.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ A service definition category is a logical grouping of service definitions. It c
 
 **Parent Topic:**[Creating a service definition for Insurance claims](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/create-service-definitions-for-insurance-claims.md)
 
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

@@ -18,7 +18,7 @@ Coaching reference content includes business rules and field descriptions.
 
 ## Coaching on a non-task table
 
-To provide [[cf-coaching-landing|coaching]] on a table source that does not extend the Task table, you must create a business rule to initiate the coaching process.
+To provide coaching on a table source that does not extend the Task table, you must create a business rule to initiate the coaching process.
 
 The business rule **Evaluate coaching opportunity on tasks** initiates coaching for tables that extend Task. You can copy this business rule and modify it for tables that do not extend the Task table.
 
@@ -117,7 +117,7 @@ Virtual Coach
 -   sn\_coaching.trainee: none
 
 </td></tr></tbody>
-</table>## [[cf-coaching-properties|Coaching Properties]]
+</table>## Coaching Properties
 
 <table id="table_i5x_rr5_jpb"><thead><tr><th>
 
@@ -165,13 +165,13 @@ Data array properties for the now-list-menu component on the Learning Tasks tab,
 
 </td></tr></tbody>
 </table>-   **[Coaching roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-roles.md)**  
-Assign [[cf-coaching-roles|Coaching roles]] to specify what different users can see and do.
+Assign Coaching roles to specify what different users can see and do.
 -   **[Coaching properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-properties.md)**  
 Set the duration to read knowledge articles and whether to exclude weekends for trainees to complete training using Coaching properties.
 -   **[Coaching field descriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-field-descriptions.md)**  
-[[cf-coaching-field-descriptions|Coaching field descriptions]] also include form related lists and actions.
+Coaching field descriptions also include form related lists and actions.
 -   **[Integrating Coaching with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-integration.md)**  
-Bring in data from other ServiceNow [[dex-workspace-application-tab|applications]] to enhance the training of your agents.
+Bring in data from other ServiceNow applications to enhance the training of your agents.
 -   **[Resolve Coaching issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-coaching-troubleshooting.md)**  
 Resolve common issues when setting up or running Coaching.
 -   **[Domain separation and Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-domain-separation-coaching.md)**  
@@ -179,13 +179,5 @@ Domain separation is supported in Coaching. Domain separation enables you to sep
 -   **[Quick start tests for Coaching](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-quick-start-tests-coaching.md)**  
 Validate that Coaching still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
-**Parent Topic:**[[r_ITServiceManagement|IT Service Management]]
+**Parent Topic:**[IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/r_ITServiceManagement.md)
 
-## Related
-
-- [[r_ITServiceManagement|IT Service Management]]
-- [[cf-coaching-landing|Coaching]]
-- [[cf-coaching-properties|Coaching properties]]
-- [[cf-coaching-roles|Coaching roles]]
-- [[cf-coaching-field-descriptions|Coaching field descriptions]]
-- [[dex-workspace-application-tab|Applications]]

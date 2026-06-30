@@ -14,12 +14,12 @@ breadcrumb: [Create an endpoint for clients to access the instance, Old Inbound 
 
 # OAuth API response parameters
 
-The [[c_OAuthApplications|OAuth 2.0]] API produces a JSON response containing the following parameters as name:value pairs.
+The OAuth 2.0 API produces a JSON response containing the following parameters as name:value pairs.
 
 |Response parameter|Description|
 |------------------|-----------|
 |scope|Amount of access granted by the access token. The scope is always **useraccount**, meaning that the access token has the same rights as the user account that authorized the token. For example, if Abel Tuter authorizes an application by providing login credentials, then the resulting access token grants the token bearer the same access privileges as Abel Tuter.|
-|token\_type|Type of token issued by the [[c_requestAPI|request]] as defined in the [[oauth-inbound-and-outbound|OAuth]] RFC. The token type is always **Bearer**, meaning that anyone in possession of the access token can access a protected resource without providing a cryptographic key. See [RFC6750](http://tools.ietf.org/html/rfc6750) for more information about how OAuth 2.0 uses bearer tokens.|
+|token\_type|Type of token issued by the request as defined in the OAuth RFC. The token type is always **Bearer**, meaning that anyone in possession of the access token can access a protected resource without providing a cryptographic key. See [RFC6750](http://tools.ietf.org/html/rfc6750) for more information about how OAuth 2.0 uses bearer tokens.|
 |expires\_in|Lifespan of the access token in seconds.|
 |refresh\_token|String value of the refresh token.|
 |access\_token|String value of the access token. Access requests made within the access token expiration time always return the current access token.|
@@ -33,7 +33,7 @@ The [[c_OAuthApplications|OAuth 2.0]] API produces a JSON response containing th
 |Type|true\|false|
 |Value|false|
 
-For details on creating [[ca-system-properties|system properties]], see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
+For details on creating system properties, see [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
 The following example illustrates the JSON string returned by an access token request. \(Spaces have been added to improve readability\).
 
@@ -45,9 +45,3 @@ The following example illustrates the JSON string returned by an access token re
 
 ```
 
-## Related
-
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[ca-system-properties|System properties]]

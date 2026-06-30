@@ -14,15 +14,15 @@ breadcrumb: [Configuring the Key Management Framework, Key Management Framework,
 
 # Assign Key Management Framework roles
 
-Administrators with the [[security-admin-role|security\_admin role]] can assign [[encryption|Key Management Framework]] \(KMF\) admins, who in turn can assign other Key Management Framework roles.
+Administrators with the security\_admin role can assign Key Management Framework \(KMF\) admins, who in turn can assign other Key Management Framework roles.
 
 ## Before you begin
 
 Role required: admin and security\_admin
 
-You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]].
+You must elevate to the security\_admin role before assigning the KMF admin role. For instructions, see [Elevate to a privileged role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_ElevateToAPrivilegedRole.md).
 
-**Important:** [[kmf-roles|KMF roles]] are required to use the Key Management Framework. [[users|Users]] without KMF roles aren’t be able to access lists, tables, and modules used to configure key management.
+**Important:** KMF roles are required to use the Key Management Framework. Users without KMF roles aren’t be able to access lists, tables, and modules used to configure key management.
 
 ## Procedure
 
@@ -63,10 +63,3 @@ To learn more about the available KMF roles, see [Roles installed with Key Manag
 
 **Parent Topic:**[Configuring the Key Management Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/configure-kmf.md)
 
-## Related
-
-- [[t_ElevateToAPrivilegedRole|Elevate to a privileged role]]
-- [[security-admin-role|Security\_admin role]]
-- [[encryption|Key Management Framework]]
-- [[kmf-roles|kmf roles]]
-- [[users|Users]]

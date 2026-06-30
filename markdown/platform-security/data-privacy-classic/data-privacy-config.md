@@ -14,11 +14,11 @@ breadcrumb: [Data privacy \(Classic\), Data Privacy, Platform Privacy]
 
 # Data privacy \(Classic\) configuration
 
-Learn how to create [[data-privacy-landing|data privacy]] techniques and [[ca-policies|policies]], and how to create and execute data privacy jobs.
+Learn how to create data privacy techniques and policies, and how to create and execute data privacy jobs.
 
 ## Data privacy techniques
 
-Data privacy techniques are options you select to determine how your data is anonymized. You must create a data privacy technique to reference in the data privacy job. See [Create a data privacy technique configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-dp-technique.md) to associate a privacy technique to an associated **Privacy technique [[sc-configuration|configuration]]**.
+Data privacy techniques are options you select to determine how your data is anonymized. You must create a data privacy technique to reference in the data privacy job. See [Create a data privacy technique configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-dp-technique.md) to associate a privacy technique to an associated **Privacy technique configuration**.
 
 ## Data privacy policies
 
@@ -28,8 +28,3 @@ Configure a data privacy policy to specify which data privacy techniques are use
 
 Data privacy jobs use all of these components to anonymize your data. For more information on these jobs, see [Configure a data privacy job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-privacy-classic/config-data-privacy-job.md).
 
-## Related
-
-- [[data-privacy-landing|Data Privacy]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]

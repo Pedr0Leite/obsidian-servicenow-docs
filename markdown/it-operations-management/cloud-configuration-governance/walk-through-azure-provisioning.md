@@ -14,7 +14,7 @@ breadcrumb: [Cloud API \(CAPI\), Cloud Provisioning and Governance, ITOM Cloud A
 
 # Azure VM provisioning walkthrough
 
-This example walks you through the components of [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] that function during the provisioning of a virtual machine in an Azure datacenter. Topics covered include blueprints, resource blocks, the [[cloud-management-api|Cloud API \(CAPI\)]], and MID Server script includes.
+This example walks you through the components of Cloud Provisioning and Governance that function during the provisioning of a virtual machine in an Azure datacenter. Topics covered include blueprints, resource blocks, the Cloud API \(CAPI\), and MID Server script includes.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ For an example of a VM in AWS, see [AWS VM provisioning walkthrough](https://raw
 
 ## Procedure
 
-1.  Look at a provisioned VM in the [[cloudmgt-cloud-user-portal|Cloud User Portal]], and focus on some of the details about the VM:
+1.  Look at a provisioned VM in the Cloud User Portal, and focus on some of the details about the VM:
 
     1.  In the base system instance interface, open the Cloud User Portal \(**Cloud User Portal**\).
 
@@ -76,7 +76,7 @@ For an example of a VM in AWS, see [AWS VM provisioning walkthrough](https://raw
 
 3.  View the Virtual Server and Datacenter resource blocks used in this blueprint:
 
-    1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Design** &gt; **Resource Blocks**.
+    1.  In the Cloud Admin Portal, navigate to **Design** &gt; **Resource Blocks**.
 
     2.  Search for and open the **Virtual Server** resource block, which is provided by default with Cloud Provisioning and Governance.
 
@@ -463,9 +463,3 @@ VM properties in the Cloud User Portal
 </table>
 **Parent Topic:**[Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-management-v2-landing-page.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-management-api|Cloud API \(CAPI\)]]
-- [[cloudmgt-cloud-user-portal|Cloud User Portal]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

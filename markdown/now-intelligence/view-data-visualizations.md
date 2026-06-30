@@ -14,14 +14,14 @@ breadcrumb: [Data visualizations, Platform Analytics experience, Platform Analyt
 
 A dashboard viewer has several ways to affect what a data visualization shows in runtime.
 
--   **[[select-group-runtime|Select a group-by value in a data visualization as a viewer]]**  
+-   **[Select a group-by value in a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-group-runtime.md)**  
 A viewer of a data visualization can select the value for grouping the data in the visualization.
--   **[[refresh-data-viz-runtime|Refresh a data visualization as a viewer]]**  
+-   **[Refresh a data visualization as a viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/refresh-data-viz-runtime.md)**  
 A viewer of a data visualization can refresh that data visualization without refreshing the page or having editing rights.
--   **[[export-data-vis-from-dboard|Download a data visualization from a dashboard]]**  
+-   **[Download a data visualization from a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-data-vis-from-dboard.md)**  
 As a viewer, download individual data visualizations from a dashboard or the Visualization Designer. Output formats differ between Lists and other data visualizations. The available output formats are CSV, Excel, PNG and JPEG.
 
-**Parent Topic:**[[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
+**Parent Topic:**[Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
 
 **Related topics**  
 
@@ -36,9 +36,3 @@ As a viewer, download individual data visualizations from a dashboard or the Vis
 
 [Data visualization reference]()
 
-## Related
-
-- [[select-group-runtime|Select a group-by value in a data visualization as a viewer]]
-- [[refresh-data-viz-runtime|Refresh a data visualization as a viewer]]
-- [[export-data-vis-from-dboard|Download a data visualization from a dashboard]]
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]

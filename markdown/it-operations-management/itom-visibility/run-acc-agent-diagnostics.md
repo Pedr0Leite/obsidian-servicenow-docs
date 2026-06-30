@@ -15,7 +15,7 @@ breadcrumb: [Use the Agent Client Collector \(ACC\) admin workspace, Use ITOM In
 
 # Run diagnostics on an Agent Client Collector agent
 
-Run automated self-tests on an [[acc-landing-page|Agent Client Collector]] \(ACC\) agent from the [[itom-infra-srv-wrksp-landing|ITOM Infra Services Workspace]] to identify and address agent issues. [[view-agent-errors|View agent errors]] and invoke the relevant [[ccg-remediation|remediation]] steps.
+Run automated self-tests on an Agent Client Collector \(ACC\) agent from the ITOM Infra Services Workspace to identify and address agent issues. View agent errors and invoke the relevant remediation steps.
 
 ## Before you begin
 
@@ -93,9 +93,3 @@ Step-by-step remediation suggestions.Appears only when the test has a known erro
 
 **Parent Topic:**[Use the Agent Client Collector \(ACC\) admin workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/use-acc-admin-workspace.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[itom-infra-srv-wrksp-landing|ITOM Infra Services Workspace]]
-- [[view-agent-errors|View agent errors]]
-- [[ccg-remediation|Remediation]]

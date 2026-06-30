@@ -73,7 +73,7 @@ Action
 
 </td></tr><tr><td id="d115099e266">
 
-**[[configure-onboarding-modals|Configure]] section layout \(columns\)**
+**Configure section layout \(columns\)**
 
 </td><td>
 
@@ -118,7 +118,7 @@ Detach a section. You can split two previously merged sections apart into separa
 
 10. Customize the fields that display on the selected form view by performing one of the following actions.
 
-    **Note:** Certain field types are only supported in [[c_UI16|Core UI]].
+    **Note:** Certain field types are only supported in Core UI.
 
 <table id="choicetable_u3j_f5j_wrb"><thead><tr><th align="left" id="d115099e392">
 
@@ -165,10 +165,5 @@ Action
     \[Omitted image "neame-open-single-record-module.png"\] Alt text: Arrow pointing the open module icon in the header.
 
 
-**Parent Topic:**[[next-experience-all-menu-editing|Next Experience All Menu Editing]]
+**Parent Topic:**[Next Experience All Menu Editing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-all-menu-editing.md)
 
-## Related
-
-- [[next-experience-all-menu-editing|Next Experience All Menu Editing]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_UI16|Core UI]]

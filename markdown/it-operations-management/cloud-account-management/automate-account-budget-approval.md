@@ -14,7 +14,7 @@ breadcrumb: [Review request policies, Configuring Cloud Account Management, Clou
 
 # Automate Budget Approval policy process
 
-Automate finance approvals for [[cam-landing|Cloud Account Management]] requests based on predefined conditions. Approve requests automatically when criteria are met. Otherwise, wait for manual approval. Modify the default policy to include additional conditions as necessary.
+Automate finance approvals for Cloud Account Management requests based on predefined conditions. Approve requests automatically when criteria are met. Otherwise, wait for manual approval. Modify the default policy to include additional conditions as necessary.
 
 ## Before you begin
 
@@ -56,13 +56,9 @@ This procedure demonstrates how to approve or reject a budget using the account 
 
 ## What to do next
 
-To [[test-ccg-policy|test the policy]], see [Test updates to a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-test-policy-version.md).
+To test the policy, see [Test updates to a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-test-policy-version.md).
 
 To publish the policy, see [Publish a PaCE policy version](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/pace-publish-policy-version.md).
 
 To add a new approval step in the flow designer, see [Exploring Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/exploring-workflow-studio.md).
 
-## Related
-
-- [[cam-landing|Cloud Account Management]]
-- [[test-ccg-policy|Test the policy]]

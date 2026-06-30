@@ -15,11 +15,11 @@ breadcrumb: [Maximizing code reuse with topic blocks, Exploring other Virtual Ag
 
 # Create a reusable topic block
 
-Build a reusable component that performs a specific subflow of tasks and conversational elements in [[virtual-agent-landing-page|Virtual Agent]] conversations.
+Build a reusable component that performs a specific subflow of tasks and conversational elements in Virtual Agent conversations.
 
 ## Before you begin
 
-**Tip:** Developers and topic authors may need to access topic blocks created in other [[c_ApplicationScopes|application scopes]]. To give them access, see [Configure cross-scope access privileges for topic blocks and custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-cross-scope-privileges.md).
+**Tip:** Developers and topic authors may need to access topic blocks created in other application scopes. To give them access, see [Configure cross-scope access privileges for topic blocks and custom controls](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-cross-scope-privileges.md).
 
 Role required: virtual\_agent\_admin or admin
 
@@ -29,7 +29,7 @@ Use topic blocks to run common steps, such as retrieving certain records.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
 2.  On the home page, do one of the following:
 
@@ -103,9 +103,9 @@ Live agent context variables
 
 </td><td>
 
-Live agent context variables that are defined in the [[ac-configure-context-variables|General Chat Settings]].Select the variables that provide dynamic context, which means information from the Virtual Agent chat. This information is transferred from the bot conversation to the live agent.
+Live agent context variables that are defined in the [General Chat Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md).Select the variables that provide dynamic context, which means information from the Virtual Agent chat. This information is transferred from the bot conversation to the live agent.
 
-For information about the default list of live agent variables, see [[live-agent-chat-context-vars|Live agent chat context variables]].
+For information about the default list of live agent variables, see [Live agent chat context variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/live-agent-chat-context-vars.md).
 
 </td></tr><tr><td>
 
@@ -266,10 +266,3 @@ Default value for the variable. This value can be used when previewing the block
 
 [Add a reusable topic block to a calling topic or topic block](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-topic-blocks-to-topic.md).
 
-## Related
-
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[live-agent-chat-context-vars|Live agent chat context variables]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[c_ApplicationScopes|Application scopes]]
-- [[convint-landing-page|Conversational Interfaces]]

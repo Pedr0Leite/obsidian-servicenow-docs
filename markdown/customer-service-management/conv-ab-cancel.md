@@ -42,11 +42,7 @@ The appointment is canceled.
 **Related topics**  
 
 
-[[conv-ab-schedule|Schedule an appointment]]
+[Schedule an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-schedule.md)
 
-[[conv-ab-reschedule|Reschedule an appointment]]
+[Reschedule an appointment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/conv-ab-reschedule.md)
 
-## Related
-
-- [[conv-ab-schedule|Schedule an appointment with Conversational Appointment Booking]]
-- [[conv-ab-reschedule|Reschedule an appointment with Conversational Appointment Booking]]

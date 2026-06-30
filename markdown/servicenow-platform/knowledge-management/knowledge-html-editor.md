@@ -14,7 +14,7 @@ breadcrumb: [Creating and maintaining articles, Knowledge Management, Manage con
 
 # Editing functions for knowledge articles in the HTML editor
 
-Improve the readability and usefulness of knowledge articles by formatting the article text using the [[html|HTML]] editor.
+Improve the readability and usefulness of knowledge articles by formatting the article text using the HTML editor.
 
 The HTML editor available in knowledge articles uses the built-in TinyMCE editor. The text formatting is preserved when the content is displayed on a portal.
 
@@ -39,6 +39,3 @@ You can perform the following functions using the HTML editor:
 -   [Identify and resolve accessibility related issues in a knowledge article using the Accessibility checker in the toolbar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/accessibility-checker.md).
 -   [Revert changes that you have made during the current session of content editing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/undo-redo-html-editor.md).
 
-## Related
-
-- [[html|HTML]]

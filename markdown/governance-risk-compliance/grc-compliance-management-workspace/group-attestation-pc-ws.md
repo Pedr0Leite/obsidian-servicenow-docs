@@ -22,7 +22,7 @@ Role required: sn\_compliance\_ws.corporate\_compliance\_manager or sn\_complian
 
 ## About this task
 
-In Configurable Workspace, you can only group control attestations, and not [[risk-assessments|risk assessments]], vendor assessments, or privacy assessments. Such assessments and those assessments that can’t be grouped by the selected **Group by** criterion are marked as invalid and are displayed in the **Group previews** of the Group assessment pop-up, with a link to view such assessments.
+In Configurable Workspace, you can only group control attestations, and not risk assessments, vendor assessments, or privacy assessments. Such assessments and those assessments that can’t be grouped by the selected **Group by** criterion are marked as invalid and are displayed in the **Group previews** of the Group assessment pop-up, with a link to view such assessments.
 
 ## Procedure
 
@@ -66,9 +66,6 @@ In Configurable Workspace, you can only group control attestations, and not [[ri
 
 8.  Select the link to the grouped assessment in the UI message.
 
-    The link takes you to the [[list-view-uib-ws|list view]] of the grouped assessments. Alternatively, you can also select the **Grouped attestations** on the left pane. The Assessment Instance page opens up, where you can take the assessment.
+    The link takes you to the list view of the grouped assessments. Alternatively, you can also select the **Grouped attestations** on the left pane. The Assessment Instance page opens up, where you can take the assessment.
 
-## Related
 
-- [[risk-assessments|risk assessments]]
-- [[list-view-uib-ws|List view]]

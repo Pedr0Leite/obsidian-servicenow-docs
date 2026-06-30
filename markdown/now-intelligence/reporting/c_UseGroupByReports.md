@@ -14,7 +14,7 @@ breadcrumb: [List reports, Report types, Reporting, Reporting, dashboards, and P
 
 # Group records in list reports
 
-Grouped [[list-reports|list reports]] can display only the records in each group that are configured to appear in a normal list. You can group rows of information in list reports by specific fields. You cannot group list reports by service catalog variables.
+Grouped list reports can display only the records in each group that are configured to appear in a normal list. You can group rows of information in list reports by specific fields. You cannot group list reports by service catalog variables.
 
 A list configured to display 100 records at a time can show only the first 100 records, regardless of the number of records in that group. Paging is not available within groups, and you cannot access the remaining records without leaving the grouped list. To access all the records in a group:
 
@@ -27,6 +27,3 @@ The sections of the report are collapsed by default. In this example, a list of 
 
 \[Omitted image "ListGrouped.png"\] Alt text: List grouped by manufacturer with one group expanded
 
-## Related
-
-- [[list-reports|List reports]]

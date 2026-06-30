@@ -12,20 +12,12 @@ breadcrumb: [Log Export Service \(LES\), Platform Security]
 
 # Administering Log Export Service \(LES\)
 
-Use LES to create log source [[sc-configuration|configuration]] and multi-topics for each source type.
+Use LES to create log source configuration and multi-topics for each source type.
 
--   **[[les-create-source-configuration|Create a log source configuration]]**  
-Regulate and set filters on the [[logs|logs]] to be forwarded by creating a log source configuration.
--   **[[update-system-property|Update system property]]**  
-Update the glide.les.disable\_logs\_forwarding system property within the Log [[export|Export]] Service application to control log forwarding during migration or database reseeding operations.
+-   **[Create a log source configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-create-source-configuration.md)**  
+Regulate and set filters on the logs to be forwarded by creating a log source configuration.
+-   **[Update system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/update-system-property.md)**  
+Update the glide.les.disable\_logs\_forwarding system property within the Log Export Service application to control log forwarding during migration or database reseeding operations.
 
-**Parent Topic:**[[les-intro|Log Export Service \(LES\)]]
+**Parent Topic:**[Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-intro.md)
 
-## Related
-
-- [[les-create-source-configuration|Create a log source configuration]]
-- [[update-system-property|Update system property]]
-- [[les-intro|Log Export Service \(LES\)]]
-- [[sc-configuration|Configuration]]
-- [[logs|Logs]]
-- [[export|Export]]

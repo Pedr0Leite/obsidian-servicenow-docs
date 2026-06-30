@@ -19,7 +19,7 @@ Remove user from the evt\_mgmt\_admin role when you no longer need them.
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you're in the Configure IT Operations Management page.
 
@@ -27,7 +27,7 @@ Role required: evt\_mgmt\_admin or evt\_team\_operator
 
 ## Procedure
 
-1.  Navigate to **Configuration Summary** &gt; **[[c_EM|Event Management]]** &gt; **Platform foundations**.
+1.  Navigate to **Configuration Summary** &gt; **Event Management** &gt; **Platform foundations**.
 
 2.  Expand **Platform foundations**.
 
@@ -39,8 +39,4 @@ Role required: evt\_mgmt\_admin or evt\_team\_operator
 
     The user is removed from the list of Assign Event Management admins page.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[c_EM|Event Management]]

@@ -12,7 +12,7 @@ breadcrumb: [Using Knowledge Center, Knowledge Center, Manage content capabiliti
 
 # Review and optimize articles using Article Optimization
 
-The [[knowledge-center-article-optimization|Knowledge Center Article Optimization]] feature provides automated, actionable feedback to improve content quality, accessibility, and search engine optimization, with configurable scans to identify and fix issues.
+The Knowledge Center Article Optimization feature provides automated, actionable feedback to improve content quality, accessibility, and search engine optimization, with configurable scans to identify and fix issues.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: agent
 
 ## About this task
 
-Review and optimize knowledge articles in the [[knowledge-center|Knowledge Center]] \(KC\) by running quality scans of all the articles. Default settings come with default scan configurations, but you can also customize scan jobs. For more on creating an Article Optimization job, see [[configuring-article-optimization-jobs|Configuring Article Optimization jobs]].
+Review and optimize knowledge articles in the Knowledge Center \(KC\) by running quality scans of all the articles. Default settings come with default scan configurations, but you can also customize scan jobs. For more on creating an Article Optimization job, see [Configuring Article Optimization jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuring-article-optimization-jobs.md).
 
 ## Procedure
 
@@ -47,8 +47,3 @@ Review and optimize knowledge articles in the [[knowledge-center|Knowledge Cente
     -   Selecting suggested action opens the description for the issue. Only Now Assist subscribers can see these suggestions.
     -   Select **Update** to implement the solution in the relevant section. If you aren’t subscribed to Now Assist, you can manually rectify the identified issue and **Update** the card.
 
-## Related
-
-- [[configuring-article-optimization-jobs|Configuring Article Optimization jobs]]
-- [[knowledge-center-article-optimization|Knowledge Center Article Optimization]]
-- [[knowledge-center|Knowledge Center]]

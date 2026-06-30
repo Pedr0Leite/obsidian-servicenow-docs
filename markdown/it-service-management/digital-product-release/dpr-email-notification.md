@@ -15,7 +15,7 @@ breadcrumb: [Reference, Digital Product Release, IT Service Management]
 
 # Email notifications in Digital Product Release
 
-List of automated email notifications that are installed with [[dpr-landing-page|Digital Product Release]].
+List of automated email notifications that are installed with Digital Product Release.
 
 The following table lists automated email notifications that trigger at key events throughout the release lifecycle. These notifications help stakeholders stay informed and take timely action, improving collaboration and release efficiency.
 
@@ -31,6 +31,3 @@ The following table lists automated email notifications that trigger at key even
 
 **Parent Topic:**[Digital Product Release reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-reference.md)
 
-## Related
-
-- [[dpr-landing-page|Digital Product Release]]

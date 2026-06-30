@@ -16,7 +16,7 @@ Implement the following steps to set up Now Assist with Setup Hub on your instan
 
 ## Before you begin
 
-Before performing this task you must install [[ia-landing|Setup Hub]] application from [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
+Before performing this task you must install Setup Hub application from [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
 
 This application is available to all users with Foundation SKUs for ITSM, CBS, ITOM, and ESM, and Pro+ SKUs for ITSM and HRSD.
 
@@ -30,7 +30,7 @@ Role required: admin
 
     \[Omitted image "ia-install.png"\] Alt text: Screenshot showing the dynamically rendered apps and plugins tiles
 
-    **Note:** If you use an earlier version of [[admin-center-intro|Admin Center]], see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) for installation information about Now Assist. In the latest version of Admin Center, the Now Assist card appears in the Manage your products section.
+    **Note:** If you use an earlier version of Admin Center, see [Install Now Assist plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/install-now-assist-feature-plugins.md) for installation information about Now Assist. In the latest version of Admin Center, the Now Assist card appears in the Manage your products section.
 
     **Note:** The Manage your products section is collapsible by default. You can expand it to see all the product family cards.
 
@@ -46,7 +46,7 @@ Role required: admin
 
     \[Omitted image "ia-review-install-details.png"\] Alt text: Screenshot showing review install details
 
-    The Review [[installation-details|Installation Details]] modal shows up. It shows a list of corresponding applications that will be installed as part of the installation process.
+    The Review Installation Details modal shows up. It shows a list of corresponding applications that will be installed as part of the installation process.
 
 5.  Select **Continue** and then **Install** in the Review Installation Details modal.
 
@@ -59,11 +59,5 @@ Role required: admin
     See [Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-now-assist-landing.md) for more information on configuration of Now Assist Admin module.
 
 
-**Parent Topic:**[[ia-administer|Administer Setup Hub]]
+**Parent Topic:**[Administer Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-administer.md)
 
-## Related
-
-- [[ia-administer|Administer Setup Hub]]
-- [[ia-landing|Setup Hub]]
-- [[admin-center-intro|Admin Center]]
-- [[installation-details|Installation details]]

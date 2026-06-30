@@ -15,16 +15,16 @@ breadcrumb: [Configure, Accounts Payable Operations, Finance and Supply Chain]
 
 # Install Invoice Case Management
 
-Install the [[acc-pay-case-mgmt-overview|Invoice Case Management]] \(sn\_ap\_cm\) application as an admin to include demo data and related ServiceNow® Store applications and plugins.
+Install the Invoice Case Management \(sn\_ap\_cm\) application as an admin to include demo data and related ServiceNow® Store applications and plugins.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the Invoice Case Management application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
--   The [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]] \(sn\_ap\_apm\) application installs the following dependent plugins:
+-   The Accounts Payable Invoice Processing \(sn\_ap\_apm\) application installs the following dependent plugins:
     -   Source-to-Pay Common Architecture \(com.snc.sn\_shop\)
-    -   [[supplier-central|Supplier Collaboration Portal]]
-    -   [[source-to-pay-operations-overview|Source-to-Pay Operations]]
+    -   Supplier Collaboration Portal
+    -   [Source-to-Pay Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-operations-overview.md)
 
 Role required: admin
 
@@ -72,14 +72,7 @@ Reference information for the roles, scheduled jobs, and tables installed with t
 
 [Install Accounts Payable Invoice Processing]()
 
-[Install [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] integration with Document Intelligence]()
+[Install Accounts Payable Operations integration with Document Intelligence]()
 
 [Domain separation and Accounts Payable Operations]()
 
-## Related
-
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[acc-pay-invoice-processing|Accounts Payable Invoice Processing]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

@@ -23,13 +23,13 @@ Role required: sn\_na\_center.nac\_admin
 
 Follow these steps to run the AI readiness assessment job. The job performs an analysis of your instance data and produces readiness assessments. The assessments enable you to identify configuration gaps, measure readiness over time, and accelerate the path to AI implementation.
 
-The AI readiness assessment is performed with the [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]] application. For more information, see [[now-assist-center-readiness-evaluation|Now Assist Readiness Evaluation in Now Assist Center]].
+The AI readiness assessment is performed with the Now Assist Readiness Evaluation application. For more information, see [Now Assist Readiness Evaluation in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-readiness-evaluation.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-center-landing-page|Now Assist Center]]** or **Workspaces** &gt; **Now Assist Center**.
+1.  Navigate to **All** &gt; **Now Assist Center** or **Workspaces** &gt; **Now Assist Center**.
 
-    The Now Assist Center opens to the [[now-assist-center-home-page|home page]].
+    The Now Assist Center opens to the home page.
 
     The card in the AI readiness section displays a **Start AI readiness assessment** button if the assessment has not yet been run.
 
@@ -45,7 +45,7 @@ The AI readiness assessment is performed with the [[now-assist-readiness-evaluat
 
 3.  Re-run the overall AI readiness assessment at any time.
 
-    1.  Select AI readiness assessment \(\[Omitted image "icon-now-assist-center-nav-readiness.png"\] Alt text: AI readiness assessment icon.\) in the [[now-assist-center-side-navigation-bar|side navigation bar]].
+    1.  Select AI readiness assessment \(\[Omitted image "icon-now-assist-center-nav-readiness.png"\] Alt text: AI readiness assessment icon.\) in the side navigation bar.
 
         The AI Readiness Assessment tab opens.
 
@@ -72,22 +72,12 @@ The AI readiness assessment is performed with the [[now-assist-readiness-evaluat
 
 ## What to do next
 
-Review the readiness assessments that the Now Assist Readiness Evaluation has identified for your instance. For more information, see [[view-ai-readiness-now-assist-center|View your AI readiness assessment in Now Assist Center]].
+Review the readiness assessments that the Now Assist Readiness Evaluation has identified for your instance. For more information, see [View your AI readiness assessment in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/view-ai-readiness-now-assist-center.md).
 
-**Parent Topic:**[[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]]
+**Parent Topic:**[Using Now Assist Readiness Evaluation in Now Assist Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-center-using-readiness-evaluation.md)
 
 **Related topics**  
 
 
-[View your AI readiness assessment in [[platform-now-assist-landing|Now Assist]] Center]()
+[View your AI readiness assessment in Now Assist Center]()
 
-## Related
-
-- [[now-assist-center-readiness-evaluation|Now Assist Readiness Evaluation in Now Assist Center]]
-- [[view-ai-readiness-now-assist-center|View your AI readiness assessment in Now Assist Center]]
-- [[now-assist-center-using-readiness-evaluation|Using Now Assist Readiness Evaluation in Now Assist Center]]
-- [[now-assist-readiness-evaluation-landing-page|Now Assist Readiness Evaluation]]
-- [[now-assist-center-landing-page|Now Assist Center]]
-- [[now-assist-center-home-page|Home page]]
-- [[now-assist-center-side-navigation-bar|Side navigation bar]]
-- [[platform-now-assist-landing|Now Assist]]

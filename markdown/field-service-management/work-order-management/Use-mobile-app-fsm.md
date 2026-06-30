@@ -26,7 +26,7 @@ Completing work order tasks on ServiceNow Agent can include one or more of the f
 
 -   [Personal events in ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/events-now-mobile-application.md)
 
-    [[creating-an-event|Create a personal event]], like a doctor's appointment, on your mobile device so you don't get a task scheduled during your appointment.
+    Create a personal event, like a doctor's appointment, on your mobile device so you don't get a task scheduled during your appointment.
 
 -   [Create a task on ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/mobile-agent-create-a-wot.md)
 
@@ -50,7 +50,7 @@ Completing work order tasks on ServiceNow Agent can include one or more of the f
 
 -   [Field Service Contractor for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/wot-fsc.md)
 
-    Managers and technicians of contractor companies can use the [[wot-fsc|Field Service Contractor for mobile]] application to view and manage the work order tasks assigned to them.
+    Managers and technicians of contractor companies can use the Field Service Contractor for mobile application to view and manage the work order tasks assigned to them.
 
 -   [Crew on ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/manage-crew-mobile-agent-app.md)
 
@@ -70,7 +70,7 @@ Completing work order tasks on ServiceNow Agent can include one or more of the f
 
 -   [Linear assets on ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/working-on-linear-asset-wot.md)
 
-    [[manage-work-order-tasks-dw|Manage work order tasks]] for linear assets for an efficient and effective maintenance and inspection processes.
+    Manage work order tasks for linear assets for an efficient and effective maintenance and inspection processes.
 
 -   [Playbooks on ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/playbooks-now-mobile-agent-app.md)
 
@@ -90,7 +90,7 @@ Completing work order tasks on ServiceNow Agent can include one or more of the f
 
 -   [Closing tasks on Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/close-wo-wot-mobile.md)
 
-    [[t_CloseAWorkOrderTaskAsComplete|Close a work order task as complete]] after you finish the work required for the task.
+    Close a work order task as complete after you finish the work required for the task.
 
 
 **Related topics**  
@@ -98,9 +98,3 @@ Completing work order tasks on ServiceNow Agent can include one or more of the f
 
 [Configure the Now Mobile Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/mobile-experience-for-field-service-management-glide-family/configure-field-service-mobile.md)
 
-## Related
-
-- [[creating-an-event|Create a personal event]]
-- [[wot-fsc|Field Service Contractor for mobile]]
-- [[manage-work-order-tasks-dw|Manage work order tasks]]
-- [[t_CloseAWorkOrderTaskAsComplete|Close a work order task as complete]]

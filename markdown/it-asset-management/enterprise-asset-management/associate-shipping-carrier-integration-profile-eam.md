@@ -22,11 +22,11 @@ Role required: sn\_eam.enterprise\_admin
 
 ## About this task
 
-Each shipping carrier can be associated with only one active integration profile at a time. If any of your integration profiles are not already associated with a shipping carrier, you can view and take action on those integration profiles by using the Unmapped carrier profiles important action in the [[inventory-view-am|Inventory view]] of the [[using-eam-workspace|Enterprise Asset Workspace]].
+Each shipping carrier can be associated with only one active integration profile at a time. If any of your integration profiles are not already associated with a shipping carrier, you can view and take action on those integration profiles by using the Unmapped carrier profiles important action in the Inventory view of the Enterprise Asset Workspace.
 
 ## Procedure
 
-1.  From the Enterprise Asset Workspace, open the [[asset-operations-view|Asset operations view]].
+1.  From the Enterprise Asset Workspace, open the Asset operations view.
 
 2.  From the left navigation menu of the Asset operations view, navigate to **Shipment** &gt; **Carrier integration profiles**.
 
@@ -69,8 +69,3 @@ The shipping carrier is associated with the integration profile.
 
 **Parent Topic:**[Managing enterprise asset shipments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/manage-shipments-eam.md)
 
-## Related
-
-- [[inventory-view-am|Inventory view]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-operations-view|Asset operations view]]

@@ -18,9 +18,9 @@ Intents drive your models' responses by matching a system action to user inputs.
 
 Think of intents as the core that drives the comprehension of natural language. Intents help the models translate utterances from your users into actions that the system can perform. Intents perform best if your utterances, entities, and vocabulary work together to support your model. Using vocabulary and realistic utterance examples can help the system to be more accurate when predicting intents.
 
-When creating your [[nlu-landing|Natural Language Understanding]] \(NLU\) model, you add intents to match user inputs with system actions. The more intents that a model has, the more actions it can take when it receives utterances from your users. Model intents can perform various actions, from creating hardware service requests to adding users to groups.
+When creating your Natural Language Understanding \(NLU\) model, you add intents to match user inputs with system actions. The more intents that a model has, the more actions it can take when it receives utterances from your users. Model intents can perform various actions, from creating hardware service requests to adding users to groups.
 
-To access your model's intents, navigate to a model's overview page. In the **[[managing-model-content|Build and train your model]]** phase, select **View phase**. The **Intents** tab shows by default.
+To access your model's intents, navigate to a model's overview page. In the **Build and train your model** phase, select **View phase**. The **Intents** tab shows by default.
 
 \[Omitted image "intents05.png"\] Alt text: Intents tab of the Build and train your model phase
 
@@ -77,7 +77,3 @@ Select a card to see a filtered list of intents with that issue. Resolving issue
 
 For more information, see [Resolve intent issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/resolve-intent-issues.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[managing-model-content|Build and train your model]]

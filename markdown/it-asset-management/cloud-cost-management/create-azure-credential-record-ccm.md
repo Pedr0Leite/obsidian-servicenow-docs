@@ -14,7 +14,7 @@ breadcrumb: [Set up access to Microsoft Azure billing and usage data, Configure 
 
 # Create a record of Microsoft Azure credentials in Cloud Cost Management
 
-Securely store your Microsoft Azure credentials in the ServiceNow AI Platform credentials store. You must create a service account that accepts billing data for [[cloud-insights-landing-page|Cloud Cost Management]].
+Securely store your Microsoft Azure credentials in the ServiceNow AI Platform credentials store. You must create a service account that accepts billing data for Cloud Cost Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_clin\_core.insights\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Administration** &gt; **Credentials**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Administration** &gt; **Credentials**.
 
 2.  On the Cloud API credentials page, select **Azure service principal**.
 
@@ -96,7 +96,3 @@ Option to enable the credentials for use.
 
 [Schedule and manage the jobs that download Azure billing data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/schedule-azure-billing-job.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

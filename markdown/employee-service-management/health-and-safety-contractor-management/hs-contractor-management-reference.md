@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Contractor Management, Health and Safety, Employe
 
 # Health and Safety Contractor Management reference
 
-Using the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] application.
+Using the reference topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the Health and Safety Contractor Management application.
 
 -   **[Components installed with Health and Safety Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/components-installed-with-hs-contractor-mgmt.md)**  
 Several types of components are installed with installation of the Health and Safety Contractor Management application, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren’t already installed.
@@ -23,7 +23,3 @@ Domain separation is supported for Health and Safety Contractor Management. Doma
 
 **Parent Topic:**[Health and Safety Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-contractor-mgmt-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]

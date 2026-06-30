@@ -33,7 +33,7 @@ Optionally, you can build on the Bootstrap template by accessing Bootstrap compo
 
 ## Parts of a widget
 
-Like Angular directives, widgets execute a specified behavior within a [[c_ServicePortal|Service Portal]] page. A widget includes mandatory and optional scripting components.
+Like Angular directives, widgets execute a specified behavior within a Service Portal page. A widget includes mandatory and optional scripting components.
 
 -   **HTML template**
 
@@ -73,7 +73,7 @@ Like Angular directives, widgets execute a specified behavior within a [[c_Servi
 
     An optional widget component.
 
-    Enables a Service Portal admin to [[configure-onboarding-modals|configure]] a widget. Use the option schema to:
+    Enables a Service Portal admin to configure a widget. Use the option schema to:
 
     -   Specify the parameters for a widget.
     -   Enable admin users to define instance options for a widget instance.
@@ -84,7 +84,7 @@ Like Angular directives, widgets execute a specified behavior within a [[c_Servi
 
     Angular Providers require knowledge of AngularJS. Use Angular Providers to:
 
-    -   Keep widgets in sync when changing records or [[c_Filters|filters]].
+    -   Keep widgets in sync when changing records or filters.
     -   Share context between widgets.
     -   Maintain and persist state.
     -   Create reusable behaviors and UI components and inject them into multiple widgets.
@@ -134,7 +134,7 @@ Follow this tutorial to build a custom widget that displays Service Catalog item
 -   **[Clone a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/t_CloneAndEditAWidget.md)**  
 Take advantage of existing code by cloning and editing an existing widget.
 -   **[Create a new widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/create-new-widget.md)**  
-[[create-new-widget|Create a new widget]] to build a custom widget from scratch.
+Create a new widget to build a custom widget from scratch.
 -   **[Widget option schema](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_WidgetInstanceOptions.md)**  
 Widget instances allow users to uniquely configure each widget they add to a page. Use the option schema to define the parameters for your widget.
 -   **[Widget API reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-api-reference.md)**  
@@ -144,7 +144,7 @@ Angular Providers are reusable components that can be injected into multiple wid
 -   **[Embedded widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_NestedWidgets.md)**  
 Embed a widget in the HTML template, server script, or client script.
 -   **[Create a widget dependency](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/widget-dependencies.md)**  
-In Service Portal, you can link JavaScript and CSS files to widgets to create dependencies between widgets and third-party libraries, external [[c_StyleSheets|style sheets]], and angular modules.
+In Service Portal, you can link JavaScript and CSS files to widgets to create dependencies between widgets and third-party libraries, external style sheets, and angular modules.
 -   **[Internationalize a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_WidgetLocalization.md)**  
 Use the `${}` or `gs.getMessage()` syntax in the **HTML Template**, **Client Script**, or **Server Script** fields of a widget to tag strings for translation so you can localize your Service Portal content.
 -   **[Replace a Service Catalog form script with a widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/ui-macro-widget.md)**  
@@ -154,10 +154,3 @@ Use the following tools to investigate and resolve unexpected behavior in your c
 
 **Parent Topic:**[Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[configure-onboarding-modals|Configure]]
-- [[c_Filters|Filters]]
-- [[create-new-widget|Create a new widget]]
-- [[c_StyleSheets|Style sheets]]

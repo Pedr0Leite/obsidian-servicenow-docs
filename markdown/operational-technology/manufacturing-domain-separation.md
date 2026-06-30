@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology]
 
 # Domain separation and Operational Technology
 
-Domain separation is supported for [[operational-technology-overview|Operational Technology]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Operational Technology. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -47,6 +47,3 @@ The following table describes the domain separation support levels and use cases
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]

@@ -12,7 +12,7 @@ breadcrumb: [Examining indicators, KPI Details, Platform Analytics experience, P
 
 # Access indicator record or scoresheet from KPI Details
 
-In [[kpi-details|KPI Details]], the More actions menu lets you open the record or the scoresheet of the indicator you are viewing.
+In KPI Details, the More actions menu lets you open the record or the scoresheet of the indicator you are viewing.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: pa\_power\_user, pa\_admin, or admin for record; pa\_admin or adm
     \[Omitted image "kpi-details-more-actions.png"\] Alt text: The More actions menu for KPI Details, showing options to edit indicator record or scoresheet.
 
 
-**Parent Topic:**[[kpi-details-components|Examining indicators with KPI Details]]
+**Parent Topic:**[Examining indicators with KPI Details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/kpi-details-components.md)
 
 **Related topics**  
 
@@ -60,7 +60,3 @@ Role required: pa\_power\_user, pa\_admin, or admin for record; pa\_admin or adm
 
 [Add or edit indicator scores manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ManuallyAddingScoresForIndicators.md)
 
-## Related
-
-- [[kpi-details-components|Examining indicators with KPI Details]]
-- [[kpi-details|KPI Details]]

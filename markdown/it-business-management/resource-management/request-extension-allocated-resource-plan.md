@@ -18,9 +18,9 @@ As a project manager, you can request the extension of an allocated resource pla
 
 ## Before you begin
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start [[using-rmw|using Resource Management Workspace]].
+You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and start using Resource Management Workspace.
 
 Resource requester can [extend a resource assignment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/manage-resource-allocations-rmw.md) using Resource Management Workspace.
 
@@ -88,7 +88,3 @@ The end date of the resource plan is updated and the **Extension** field is set 
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]

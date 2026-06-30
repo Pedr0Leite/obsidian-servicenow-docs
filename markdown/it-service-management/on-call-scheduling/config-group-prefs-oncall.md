@@ -22,7 +22,7 @@ Role required: admin, rota\_admin, or rota\_manager.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Administration** &gt; **Group Preferences** and then set the values as needed.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Group Preferences** and then set the values as needed.
 
 <table id="table_tys_kyb_wfb"><thead><tr><th>
 
@@ -81,14 +81,10 @@ First Day of the Week
 Select a preferred start day of the week for the selected group
 
 </td></tr></tbody>
-</table>2.  To view On-Call property [[settings-mobile|settings]], click **View Global Settings**.
+</table>2.  To view On-Call property settings, click **View Global Settings**.
 
 3.  Click **Submit** to configure the settings or **Delete** to delete the preference.
 
 
 **Parent Topic:**[Managing schedules and shifts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/manage-schedules-and-shifts.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[settings-mobile|Settings]]

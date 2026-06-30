@@ -14,7 +14,7 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 # Create a task for a case using Agent Workspace for HR Case Management
 
-Choose a task type when creating a task within a case. When assigning the task to an employee on [[employee-center-landing-page|Employee Center]], you can also request how the employee acknowledges completion of that task.
+Choose a task type when creating a task within a case. When assigning the task to an employee on Employee Center, you can also request how the employee acknowledges completion of that task.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]** and select a case you want to add a task to.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management** and select a case you want to add a task to.
 
 2.  From the Child tabs above the Case details section, select the **HR Tasks** tab.
 
@@ -66,11 +66,11 @@ An order guide fulfills the HR task. In the **Order Guide** field, select an ord
 
 </td></tr><tr><td>
 
-[[employee-form-configuration|Collect Employee Input]]:
+Collect Employee Input:
 
 </td><td>
 
-Collects information from employees. In the **[[ut-emp-form|Employee form]]** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md) for more information.
+Collects information from employees. In the **Employee form** field, select the employee form that the user fills out or verifies.**Note:** Employee forms are questionnaires built using the survey designer to collect information from employees. See [Collect employee input](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/employee-form-configuration.md) for more information.
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ E-signature:
 
 User electronically signs a document. In the **E-signature template** field, select the e-signature template to use.**Note:**
 
--   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR [[document-templates-overview|document templates]]. You can type or draw your signature, credentials, or acknowledgment. For more information, see [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md).
+-   E-signature is a scoped application that enables you to sign managed documents, knowledge articles, or HR document templates. You can type or draw your signature, credentials, or acknowledgment. For more information, see [HR e-signature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-e-signature.md).
 -   If HR document template has a document type of e-signature template, select the HR document template that the signatory signs on the HR case form. For more information, see [Select an HR document template for an e-signature task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/select-hr-document-template-for-e-signature-task.md).
 
 
@@ -169,11 +169,4 @@ The **URL** field appears. Requests the person assigned to the task to view a vi
 
     You can also add a task by selecting **Add Task** from the \[Omitted image "more-icon.png"\] Alt text: More icon from **Details**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[employee-form-configuration|Collect employee input]]
-- [[ut-emp-form|Employee form]]
-- [[document-templates-overview|Document Templates]]

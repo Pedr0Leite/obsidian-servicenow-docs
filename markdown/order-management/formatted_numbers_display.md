@@ -18,14 +18,14 @@ If an Admin wants to display a number field to an end user in a certain format, 
 
 \[Omitted image "cpq-formatted-numbers-display-154.png"\] Alt text: Number field screen
 
-Currently, the only way to use number formatting on editable [[fields|fields]] is to set this component display type from in the layout CSV itself. Once exported and opened with your preferred CSV editor \(excel in this example\) you can add the following to your fieldʼs row:
+Currently, the only way to use number formatting on editable fields is to set this component display type from in the layout CSV itself. Once exported and opened with your preferred CSV editor \(excel in this example\) you can add the following to your fieldʼs row:
 
 -   `FormattedNumber` to column F `(Component display type)`
 -   `format: {...}` to column I `(value)`
 
 \[Omitted image "cpq-formatted-numbers-display-155.png"\] Alt text: Layout CSV
 
-Once this is saved, you can drag this layout CSV into the [[layout_editor|layout editor]] window, and it will replace the current layout. You can check that this change was done from both the Edit Field Info tab of the layout editor, where the display type will be blank:
+Once this is saved, you can drag this layout CSV into the layout editor window, and it will replace the current layout. You can check that this change was done from both the Edit Field Info tab of the layout editor, where the display type will be blank:
 
 \[Omitted image "cpq-formatted-numbers-display-156.png"\] Alt text: Layout CSV
 
@@ -58,10 +58,5 @@ To view a list of supported units, see [ECMAScript® 2026 Internationalization A
 
 You can use customUnit for units not in this list.
 
-**Parent Topic:**[[cpq-using|Using CPQ]]
+**Parent Topic:**[Using CPQ](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using.md)
 
-## Related
-
-- [[cpq-using|Using CPQ]]
-- [[fields|Fields]]
-- [[layout_editor|Layout editor]]

@@ -25,7 +25,7 @@ Role required: sn\_vul.manage\_risk\_score\_configuration
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[vuln-landing-page|Vulnerability Response]]** &gt; **Administration** &gt; **Vulnerability Calculators**.
+1.  Navigate to **All** &gt; **Vulnerability Response** &gt; **Administration** &gt; **Vulnerability Calculators**.
 
 2.  On the Vulnerability Calculators page, select **Default Risk Calculator**.
 
@@ -173,7 +173,7 @@ Use case: Let's assume your organization has many business services. The configu
 |Client services|3 - Less critical|
 |Travel and Expense|4 - Not critical|
 
-The [[mapping-logrhythm|mapping]] between the CI and services is stored in the Related Services \[sn\_vul\_m2m\_ci\_services\] table. When a vulnerability is found in the asset LINUX-SF-6381, a vulnerable item \(VI\) is created. You can use the value of the business criticality from the affected services to compute the risk score for this VI. To use the criticality value of these services to compute the risk score, do the following:
+The mapping between the CI and services is stored in the Related Services \[sn\_vul\_m2m\_ci\_services\] table. When a vulnerability is found in the asset LINUX-SF-6381, a vulnerable item \(VI\) is created. You can use the value of the business criticality from the affected services to compute the risk score for this VI. To use the criticality value of these services to compute the risk score, do the following:
 
 1.  Navigate to the Risk rule page.
 2.  To deactivate the rule, clear the **Active** check box.
@@ -207,7 +207,7 @@ To add a conditional criterion to the risk rule, do the following:
     **Note:** Adding conditional criteria to your risk rule might degrade performance.
 
 
-**Parent Topic:**[[sem-configure-rules-manage-findings|Configure rules to manage findings]]
+**Parent Topic:**[Configure rules to manage findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-rules-manage-findings.md)
 
 **Related topics**  
 
@@ -218,8 +218,3 @@ To add a conditional criterion to the risk rule, do the following:
 
 [Filtering within Vulnerability Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vulnerability-response/vr-filtering.md)
 
-## Related
-
-- [[sem-configure-rules-manage-findings|Configure rules to manage findings]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[mapping-logrhythm|Mapping]]

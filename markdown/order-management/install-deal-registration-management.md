@@ -18,7 +18,7 @@ Install the plugin \(com.snc.deal\_registration\_management\), along with the de
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 
-Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common [[use-cases|use cases]].
+Depending on your entitlements, you must install demo data after installation. Demo data comprises the sample records that describe application features for the common use cases.
 
 Role required: admin
 
@@ -41,7 +41,7 @@ For more information on viewing components that are installed with an applicatio
 
 3.  In the Application installation dialog box, review the application dependencies.
 
-    Dependent plugins and applications appear if they’re installed, or are currently installed, or must be installed. If any plugins or applications require installation, you must install them before you can [[install-partner-relationship-management|install Partner Relationship Management]].
+    Dependent plugins and applications appear if they’re installed, or are currently installed, or must be installed. If any plugins or applications require installation, you must install them before you can install Partner Relationship Management.
 
 4.  If you want to install demo data, do one of the following depending on your entitlements.
 
@@ -81,19 +81,12 @@ Load the demo data after installing Deal Registration Management.1.  Install Dea
 
 You have successfully installed the Deal Registration Management \(com.snc.deal\_registration\_management\) application.
 
-**Parent Topic:**[[deal-registration-management|Deal Registration]]
+**Parent Topic:**[Deal Registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/deal-registration-management.md)
 
 **Related topics**  
 
 
-[[partner-relationship-management|Partner Relationship Management]]
+[Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/partner-relationship-management.md)
 
-[[using-partner-relationship-management|Using Partner Relationship Management]]
+[Using Partner Relationship Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-partner-relationship-management.md)
 
-## Related
-
-- [[deal-registration-management|Deal Registration]]
-- [[partner-relationship-management|Partner Relationship Management]]
-- [[using-partner-relationship-management|Using Partner Relationship Management]]
-- [[use-cases|Use cases]]
-- [[install-partner-relationship-management|Install Partner Relationship Management]]

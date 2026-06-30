@@ -14,7 +14,7 @@ breadcrumb: [Project Workspace, Project Portfolio Management, Strategic Portfoli
 
 # Managing projects with Project Workspace
 
-Use the features of [[project-workspace-landing-page|Project Workspace]] to plan and manage your project.
+Use the features of Project Workspace to plan and manage your project.
 
 \[Omitted image "project-workspace-homepage.png"\] Alt text: project-workspace-grid-view
 
@@ -197,9 +197,9 @@ Resources not synced \(\[Omitted image "resources-not-synced-icon.png"\] Alt tex
 
 </td><td>
 
-Enables you to synchronize the project and resource assignment dates. When there’s a change in the planned or actual dates of the [[t_CreateAProjectTask|project tasks]], this icon is enabled.
+Enables you to synchronize the project and resource assignment dates. When there’s a change in the planned or actual dates of the project tasks, this icon is enabled.
 
- When the project has classic [[c_ResourcePlans|resource plans]], this icon is inactive by default.
+ When the project has classic resource plans, this icon is inactive by default.
 
 </td></tr><tr><td>
 
@@ -312,7 +312,7 @@ Reloads the selected assignment and allocation.
 
 </td><td>
 
-Displays the [[r_AllocatingResources|resource allocation]] in the resource assignment pane.
+Displays the resource allocation in the resource assignment pane.
 
 </td></tr><tr><td>
 
@@ -483,7 +483,7 @@ Customize the display of the planning page. Choose the data you want to see on t
 -   **[Create and assign project tasks from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-project-task-from-project-workspace.md)**  
 Add new tasks for your projects and assign them to your team directly from the new Project Workspace.
 -   **[Create checklist items for a project task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-project-task-checklist.md)**  
-[[create-project-task-checklist|Create checklist items for a project task]] to track items to be completed in the task.
+Create checklist items for a project task to track items to be completed in the task.
 -   **[Add internal project task dependencies from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-dependencies-for-project-tasks-from-project-workspace.md)**  
 Create dependencies between project tasks using the interactive UI of Project Workspace.
 -   **[Add external dependencies between projects from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-external-dependencies-between-projects-from-project-workspace.md)**  
@@ -491,19 +491,19 @@ Set up a dependency between tasks of different projects using the new Project Wo
 -   **[Create and compare project baselines in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-project-baselines-in-project-workspace.md)**  
 Create a schedule baseline and financial baseline of a project. A baseline is a snapshot of the project's progress at the particular moment of time.
 -   **[Create a status report template in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-template-project-workspace.md)**  
-Create a custom template for [[status-reporting-in-pw|status reporting in Project Workspace]]. Use the template to create status reports according to your specific requirements.
+Create a custom template for status reporting in Project Workspace. Use the template to create status reports according to your specific requirements.
 -   **[Generate a project status report with Now Assist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/generate-ai-project-status-report.md)**  
 Generate an AI‑assisted project status report with predicted health indicators. Now assist pre-populates project health, an executive summary, and supporting rationale based on weekly project data.
 -   **[Create a status report in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/create-a-status-report-in-project-workspace.md)**  
-[[create-a-status-report-in-project-workspace|Create a status report in Project Workspace]] for your projects. Your team can view the report and be updated on project health, metrics, risks, issues, and milestones.
+Create a status report in Project Workspace for your projects. Your team can view the report and be updated on project health, metrics, risks, issues, and milestones.
 -   **[Collaborate with stakeholders from Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/collaborate-with-stakeholders-from-project-workspace.md)**  
 Add comments and attachments to the project or a project task and share them with other users of your organization. Collaborate and verify that your project is in line with your organizational priorities.
 -   **[Collaborate on projects using Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/collaborative-project-planning-with-docs.md)**  
 Collaborate with team members, save notes, create project charters, and project briefs using Docs.
 -   **[Generate the summary for selected or complete content with Project doc generation and insights skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/summarize-docs-genai-skill-pw.md)**  
-Quickly learn the details of the documents from the summary that is generated by Now Assist in [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Quickly learn the details of the documents from the summary that is generated by Now Assist in Strategic Planning.
 -   **[Schedule the project insights email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/email-project-summary-pw.md)**  
-[[email-project-summary-skill-pw|Schedule the project insights email]] to prioritize and track the most important changes in the project in Project Workspace.
+Schedule the project insights email to prioritize and track the most important changes in the project in Project Workspace.
 -   **[Project financials and Source-to-Pay Operations integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/pws-fin-spo-integration.md)**  
 Request, track, and manage procurement requests of assets for your projects.
 -   **[Add a RIDAC record to a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/add-risk-project-project-workspace.md)**  
@@ -525,14 +525,3 @@ End the project when all tasks are completed. When you close a project, all proj
 
 **Parent Topic:**[Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]
-- [[r_AllocatingResources|Resource allocation]]
-- [[create-project-task-checklist|Create checklist items for a project task]]
-- [[status-reporting-in-pw|Status reporting in Project Workspace]]
-- [[create-a-status-report-in-project-workspace|Create a status report in Project Workspace]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[email-project-summary-skill-pw|Schedule the project insights email]]

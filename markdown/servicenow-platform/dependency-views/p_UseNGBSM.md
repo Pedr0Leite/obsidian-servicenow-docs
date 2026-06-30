@@ -14,12 +14,12 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Use Dependency Views
 
-Use the layout controls on a [[c_NextGenBSMMaps|Dependency Views map]] to display elements in different configurations for easier management. Use the filter panel on the map to display fewer levels or to filter out elements you don't want to see, then save the filter for use later. Draw new relationships between elements or edit existing relationships.
+Use the layout controls on a Dependency Views map to display elements in different configurations for easier management. Use the filter panel on the map to display fewer levels or to filter out elements you don't want to see, then save the filter for use later. Draw new relationships between elements or edit existing relationships.
 
 -   **[View a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_AccessNGBSM.md)**  
 When you display a Dependency Views map, the map is centered on the root CI and displays the layout and number of levels defined in the map properties. If Operational Intelligence is activated, then a Dependency Views map provides a mode that lets you directly access metrics information for the CIs on the map.
 -   **[Save or load a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_SaveLoadMapView.md)**  
-In the **View Map** module, use the menu icon to save and load [[c_BusinesssServiceManagementMaps|Dependency Views]] maps.
+In the **View Map** module, use the menu icon to save and load Dependency Views maps.
 -   **[Delete a saved Dependency Views map view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_DeleteSavedMapView.md)**  
 Use the **Saved Views** module to delete a previously saved view.
 -   **[Change the layout of Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_ChangeLayoutNGBSMMap.md)**  
@@ -29,7 +29,7 @@ Filter a Dependency Views map to display specific types or categories of configu
 -   **[Perform actions on nodes in a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_PerformActionsOnNGBSMMap.md)**  
 You can view various related items for the nodes in a Dependency Views map.
 -   **[Export a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_ExportAnNGBSMMap.md)**  
-[[t_ExportAnNGBSMMap|Export a Dependency Views map]] to an image in PNG format.
+Export a Dependency Views map to an image in PNG format.
 -   **[View collapsed nodes in a Dependency Views map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_ViewCollapsedNodesInNGBSM.md)**  
 Cluster and virtually grouped nodes can be displayed in a collapsed mode to avoid unnecessary clutter in large maps.
 
@@ -56,8 +56,3 @@ Cluster and virtually grouped nodes can be displayed in a collapsed mode to avoi
 
 [Components installed with Dependency Views]()
 
-## Related
-
-- [[c_NextGenBSMMaps|Dependency Views map]]
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[t_ExportAnNGBSMMap|Export a Dependency Views map]]

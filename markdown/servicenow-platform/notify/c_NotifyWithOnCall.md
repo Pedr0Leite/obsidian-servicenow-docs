@@ -14,7 +14,7 @@ breadcrumb: [Using Notify, Notify, Manage service capabilities, Extend ServiceNo
 
 # Using Notify with On-Call Scheduling
 
-When using both [[notify-landing-page|Notify]] and On-Call Scheduling, you can send On-call escalation notifications as SMS messages, in addition to emails.
+When using both Notify and On-Call Scheduling, you can send On-call escalation notifications as SMS messages, in addition to emails.
 
 Configure the following items to use Notify with On-Call Scheduling:
 
@@ -32,6 +32,3 @@ There are key differences between on-call scheduling with NotifyNow and on-call 
 
 **Parent Topic:**[Using Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/using-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

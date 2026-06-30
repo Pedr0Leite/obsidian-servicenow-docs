@@ -28,7 +28,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
     The navigation bar displays tabs for the ServiceNow applications and applets that you have access to through the Mobile Agent application. The navigation bar also displays tabs for your Mobile Agent application settings and notifications.
 
-    The home screen for the [[enterprise-asset-management|Enterprise Asset Management]] application opens.
+    The home screen for the Enterprise Asset Management application opens.
 
     \[Omitted image "eam-mobile-agent-app-home-screen.png"\] Alt text: Enterprise Asset Management home screen in the ServiceNow Mobile Agent application.
 
@@ -50,6 +50,4 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterprise\_asset\_manager
 
 7.  View or update the asset details as needed.
 
-## Related
 
-- [[enterprise-asset-management|Enterprise Asset Management]]

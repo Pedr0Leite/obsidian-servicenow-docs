@@ -14,7 +14,7 @@ breadcrumb: [Use Risk Workspace, Risk Management, Governance, Risk, and Complian
 
 # Create a risk event in the Risk Workspace
 
-Create a risk event in the [[risk-workspace|Risk Workspace]]. Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization.
+Create a risk event in the Risk Workspace. Risk events are potential or actual financial and non-financial losses, near misses, and gains that occur within an organization.
 
 ## Before you begin
 
@@ -245,7 +245,7 @@ External risk type
 </td><td>
 
 Type of external risk the risk event can have. The choices are as the following:-   **Credit**: Credit risk is the possibility of a loss resulting from a borrower's failure to repay a loan or meet contractual obligations. For example, when lenders offer credit cards, or loans, there's a risk that the borrower might not repay the loan.
--   **Market**: Market risk is the possibility of an investor incurring losses due to [[factors|factors]] that affect the performance of the financial markets in which the investor is involved. For example, a recession might impact the entire market.
+-   **Market**: Market risk is the possibility of an investor incurring losses due to factors that affect the performance of the financial markets in which the investor is involved. For example, a recession might impact the entire market.
  This option appears when **Boundary event** is selected.
 
 </td></tr><tr><td>
@@ -318,7 +318,3 @@ Additional comments about the risk event. These notes are visible to the externa
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]
-- [[factors|factors]]

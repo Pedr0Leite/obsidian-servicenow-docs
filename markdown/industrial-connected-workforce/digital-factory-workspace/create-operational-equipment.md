@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Create operational equipment
 
-Create operational equipment in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create operational equipment in the Digital Factory Workspace.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Role required: sn\_icw.admin
 
     \[Omitted image "equipment-tab.png"\] Alt text: Overview of equipment for the selected functional location with the highlighted Equipment tab
 
-4.  On the [[operational-equipment-form|Operational equipment form]], fill in the fields.
+4.  On the Operational equipment form, fill in the fields.
 
     For a description of the field values, see [Operational equipment form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/operational-equipment-form.md).
 
@@ -45,7 +45,3 @@ The new operational equipment is displayed in the list of equipment for the func
 
 **Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/setting-up-prerequisites-digital-factory-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[operational-equipment-form|Operational equipment form]]

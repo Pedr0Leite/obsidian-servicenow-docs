@@ -12,7 +12,7 @@ breadcrumb: [User interface configuration, Working in Core UI, Configure UIs and
 
 # Manage audio files
 
-You can upload and store `.mp3` or `.ogg` audio files. Once uploaded, you can [[onboarding-modals-reference|reference]] audio files using HTML.
+You can upload and store `.mp3` or `.ogg` audio files. Once uploaded, you can reference audio files using HTML.
 
 ## Before you begin
 
@@ -47,9 +47,5 @@ The Database Storage for Audio Files \(com.glide.db\_audio\) feature must be act
         ```
 
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[onboarding-modals-reference|Reference]]

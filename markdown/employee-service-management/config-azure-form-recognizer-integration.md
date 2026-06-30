@@ -12,14 +12,14 @@ breadcrumb: [Automating vaccine response reviews with the Azure Form Recognizer 
 
 # Configure Azure Form Recognizer integration for automatic vaccine response reviews
 
-As a [[vaccination-status|Vaccination Status]] admin, configure Vaccination Status to work with Azure Form Recognizer service and automate vaccine response approvals.
+As a Vaccination Status admin, configure Vaccination Status to work with Azure Form Recognizer service and automate vaccine response approvals.
 
 ## Before you begin
 
 To integrate with the Azure Form Recognizer service, you should do the following:
 
 -   Use Azure Form Recognizer and obtain connection credentials
--   Train a machine-[[exploring-learning-exp|learning]] model if you are using your organization's own model for validation purposes
+-   Train a machine-learning model if you are using your organization's own model for validation purposes
 
 Role required: sn\_imt\_vaccine.admin
 
@@ -116,10 +116,5 @@ When users add CDC Vaccination Card attachments to their vaccine responses and s
 -   The confidence score is compared to the configured threshold
 -   The validation engine sets the Vaccine Review Outcomes based on whether the first and last names matched
 
-**Parent Topic:**[[automate-vaccine-validation-with-azure-form-recognizer|Automating vaccine response reviews with the Azure Form Recognizer service]]
+**Parent Topic:**[Automating vaccine response reviews with the Azure Form Recognizer service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/automate-vaccine-validation-with-azure-form-recognizer.md)
 
-## Related
-
-- [[automate-vaccine-validation-with-azure-form-recognizer|Automating vaccine response reviews with the Azure Form Recognizer service]]
-- [[vaccination-status|Vaccination Status]]
-- [[exploring-learning-exp|Learning]]

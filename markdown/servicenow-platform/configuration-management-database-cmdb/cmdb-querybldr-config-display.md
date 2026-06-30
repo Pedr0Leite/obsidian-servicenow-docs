@@ -14,7 +14,7 @@ breadcrumb: [Configure, CMDB Query Builder, Configuration Management Database \(
 
 # Configure CMDB Query Builder settings
 
-Configure settings that control some of the functionality of the [[cmdb-query-builder-landing-page|CMDB Query Builder]].
+Configure settings that control some of the functionality of the CMDB Query Builder.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ This setting applies only to CMDB queries.
 
  Filter the CMDB classes and the non-CMDB tables lists in the side-panel to display only classes and tables with which the selected node on the canvas has a relationship.
 
- You can then drag any item from the filtered list to the canvas and [[c_Connect|connect]] it to the selected node on the canvas.
+ You can then drag any item from the filtered list to the canvas and connect it to the selected node on the canvas.
 
 </td></tr><tr><td>
 
@@ -65,7 +65,4 @@ Display query results in a separate browser tab titled **Query Results**.
 </td></tr></tbody>
 </table>3.  Select the Settings icon again to close the dialog box.
 
-## Related
 
-- [[cmdb-query-builder-landing-page|CMDB Query Builder]]
-- [[c_Connect|Connect]]

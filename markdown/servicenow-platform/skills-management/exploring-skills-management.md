@@ -14,7 +14,7 @@ breadcrumb: [Skills Management, Manage people and work capabilities, Extend Serv
 
 # Exploring Skills Management
 
-Use [[skills-management|Skills Management]] to associate skills with individual users or groups and assign them to tasks or projects. You can also assess the skills needed for your organization, identify gaps, and implement effective plans for hiring or training of your teams.
+Use Skills Management to associate skills with individual users or groups and assign them to tasks or projects. You can also assess the skills needed for your organization, identify gaps, and implement effective plans for hiring or training of your teams.
 
 **Important:** Using the Skills Management application, you can create skills and skill categories manually, and also assign them manually to users. Skills Foundation uses Artificial Intelligence \(AI\) to help your organization leverage skills data for talent management and employee development. When you activate the Skills Foundation plugin \(com.sn\_skills\_int\), it also activates the Skills Management plugin \(com.snc.skills\_management\). For information on Skills Foundation, see [Skills Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/skills-intelligence.md).
 
@@ -85,6 +85,3 @@ Can perform read operations on skills, skill levels, and skill level types.
 
 The Skills Management application is activated when you enable the Skills Management \(com.snc.skills\_management\) plugin.
 
-## Related
-
-- [[skills-management|Skills Management]]

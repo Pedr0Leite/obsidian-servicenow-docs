@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Define a shift
 
-Define shifts for your organization in the [[industrial-connected-workforce-overview|Industrial Connected Workforce]] by using the scheduling functionality. Configuring shifts is a prerequisite for scheduling standard tasks and for filtering tasks to see which shift they were created in or which shift they’re due.
+Define shifts for your organization in the Industrial Connected Workforce by using the scheduling functionality. Configuring shifts is a prerequisite for scheduling standard tasks and for filtering tasks to see which shift they were created in or which shift they’re due.
 
 ## Before you begin
 
@@ -85,7 +85,7 @@ Schedule records are saved in the Schedule \[cmn\_schedule\] table. Schedule ent
 
 ## Result
 
-The shift and its business calendar entries have been created successfully and are displayed in the **sn\_icw\_industrial\_calendar.list** list. [[task-lists-digital-factory-workspace|Task lists in the Digital Factory Workspace]] and [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] can be filtered by shifts. In the date/time fields, such as **Due date**, you can use the following date/time dynamic filter options:
+The shift and its business calendar entries have been created successfully and are displayed in the **sn\_icw\_industrial\_calendar.list** list. Task lists in the Digital Factory Workspace and Industrial Connected Workforce Mobile Experience can be filtered by shifts. In the date/time fields, such as **Due date**, you can use the following date/time dynamic filter options:
 
 -   My current shift
 -   My next shift
@@ -93,8 +93,3 @@ The shift and its business calendar entries have been created successfully and a
 
 **Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/setting-up-prerequisites-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]
-- [[task-lists-digital-factory-workspace|Task lists in the Digital Factory Workspace]]
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]

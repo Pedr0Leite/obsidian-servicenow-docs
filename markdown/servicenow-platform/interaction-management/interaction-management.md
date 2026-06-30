@@ -36,7 +36,7 @@ The ServiceNow AI Platform offers several forms of queuing and communication man
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about the [[components-installed-with-interaction-management|components installed with Interaction Management]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-management-[[reference|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Learn about the components installed with Interaction Management.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-management-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -49,18 +49,11 @@ The ServiceNow AI Platform offers several forms of queuing and communication man
 -   **[Activating the Interaction Management system](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/activate-interactions.md)**  
 An administrator can activate the Interaction Logging, Routing, and Queueing plugin \(com.glide.interaction\) to access the functionality.
 -   **[Configuring Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/configuring-interaction-management.md)**  
-You can configure the behavior of an interaction and the types of information that is stored with the record. You can also use [[interaction-wrap-up-state|interaction wrap up]] to provide agents with a brief wrap-up period at the end of customer conversations.
+You can configure the behavior of an interaction and the types of information that is stored with the record. You can also use interaction wrap up to provide agents with a brief wrap-up period at the end of customer conversations.
 -   **[Using Interaction Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/using-interaction-management.md)**  
-Most interaction creation takes place in other applications, to control channels. When needed, you can [[create-interactions|create an interaction]] from the Interaction application.
+Most interaction creation takes place in other applications, to control channels. When needed, you can create an interaction from the Interaction application.
 -   **[Interaction Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/interaction-management/interaction-management-reference.md)**  
 Learn about the components installed with Interaction Management.
 
-**Parent Topic:**[[manage-people|Manage people and work capabilities]]
+**Parent Topic:**[Manage people and work capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/manage-people.md)
 
-## Related
-
-- [[manage-people|Manage people and work capabilities]]
-- [[components-installed-with-interaction-management|Components installed with Interaction Management]]
-- [[reference|Reference]]
-- [[interaction-wrap-up-state|Interaction wrap up]]
-- [[create-interactions|Create an interaction]]

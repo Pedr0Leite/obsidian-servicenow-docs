@@ -24,7 +24,7 @@ Role required: sn\_wsd\_wc.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-connectors-landing-page|Workplace Connectors]]** &gt; **Badging Readers** &gt; **Employee Attendance Data**.
+1.  Navigate to **All** &gt; **Workplace Connectors** &gt; **Badging Readers** &gt; **Employee Attendance Data**.
 
 2.  Select **New**.
 
@@ -76,7 +76,7 @@ Option to select the badging data state: -   Access Granted
 Select **Access Granted**.
 
 </td></tr></tbody>
-</table>    The Employee Attendance table data is loaded to the [[attendance-analytics|Attendance Analytics]] table to generate space occupancy metrics in [[workplace-central-feat|Workplace Central]]. For more information, see [Attendance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/attendance-analytics.md).
+</table>    The Employee Attendance table data is loaded to the Attendance Analytics table to generate space occupancy metrics in Workplace Central. For more information, see [Attendance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/attendance-analytics.md).
 
 
 **Parent Topic:**[Setup Workplace Connectors for badging data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/setup-workplace-connectors.md)
@@ -85,8 +85,3 @@ Select **Access Granted**.
 
 **Next topic:**[Attendance Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-connectors/attendance-analytics.md)
 
-## Related
-
-- [[workplace-connectors-landing-page|Workplace Connectors]]
-- [[attendance-analytics|Attendance Analytics]]
-- [[workplace-central-feat|Workplace Central]]

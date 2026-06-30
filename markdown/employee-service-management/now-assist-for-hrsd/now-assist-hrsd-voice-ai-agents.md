@@ -64,7 +64,7 @@ HR case creator
 
 </td><td>
 
-Matches user inquiries to the appropriate HR service and creates an HR case with any additional detail provided and returns the case [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] numbers
+Matches user inquiries to the appropriate HR service and creates an HR case with any additional detail provided and returns the case reference numbers
 
 </td></tr><tr><td>
 
@@ -108,6 +108,3 @@ Assists employees with tasks related to travel expenses, including submitting ex
 
 [Deploy AI voice agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/deploy-ai-agents-for-voice.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

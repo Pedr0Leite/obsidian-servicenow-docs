@@ -14,7 +14,7 @@ breadcrumb: [Post-upgrade tasks, Install Supplier Case Management, Configure, Su
 
 # Run fix script to update the Aggregation method field in the KPI table
 
-Run this fix script to update the new fields added in the [[kpi-table|KPI table]] \(sn\_kpi\_kpi\) after the May 2025 Australia release.
+Run this fix script to update the new fields added in the KPI table \(sn\_kpi\_kpi\) after the May 2025 Australia release.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ It is mandatory to run the script to be able to use new features for the existin
 
 **Note:**
 
-For new [[kpi-templates|KPI templates]] and KPIs, there’s no impact even if the script is not run.
+For new KPI templates and KPIs, there’s no impact even if the script is not run.
 
 ## Procedure
 
@@ -50,7 +50,7 @@ For new [[kpi-templates|KPI templates]] and KPIs, there’s no impact even if th
 
 [Run fix script to update the KPI weighted score field in the KPI score table]()
 
-[Run fix script to update the KPI Instruction field in the [[supplier|Supplier]] Task table]()
+[Run fix script to update the KPI Instruction field in the Supplier Task table]()
 
 [Run fix scripts to enable Automated KPI collection]()
 
@@ -62,8 +62,3 @@ For new [[kpi-templates|KPI templates]] and KPIs, there’s no impact even if th
 
 [Processing the skipped supplier catalog item records after upgrade]()
 
-## Related
-
-- [[kpi-table|KPI table]]
-- [[kpi-templates|KPI templates]]
-- [[supplier|Supplier]]

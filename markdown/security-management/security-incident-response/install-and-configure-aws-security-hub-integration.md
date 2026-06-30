@@ -24,7 +24,7 @@ Role required: sn\_si.admin
 
 1.  Download the AWS Security Hub integration from the ServiceNow Store and install it.
 
-2.  Navigate to **[[security-operations-landing-page|Security Operations]]** &gt; **Integrations** &gt; **Integration Configurations**.
+2.  Navigate to **Security Operations** &gt; **Integrations** &gt; **Integration Configurations**.
 
 3.  Search for the AWS Security Hub tile and click **Configure**.
 
@@ -44,6 +44,3 @@ Role required: sn\_si.admin
 
 After you successfully validate and submit the configuration, each Security Hub findings ingestion server configuration is saved on the Security Integrations page as a tile.
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]

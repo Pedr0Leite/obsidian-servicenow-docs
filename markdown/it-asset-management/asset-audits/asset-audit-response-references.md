@@ -14,7 +14,7 @@ breadcrumb: [Asset Audit Response, IT Asset Management]
 
 # Asset Audit Response reference
 
-Reference topics provide additional information about the [[asset-audit-response|Asset Audit Response]] application.
+Reference topics provide additional information about the Asset Audit Response application.
 
 -   **[Installed with Asset Audit Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/installed-with-asset-audit-response.md)**  
 Various components are installed on activation of the Asset Audit Response application.
@@ -23,6 +23,3 @@ Domain separation is supported for Asset Audit Response. Domain separation enabl
 
 **Parent Topic:**[Asset Audit Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-audits/asset-audit-response.md)
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]

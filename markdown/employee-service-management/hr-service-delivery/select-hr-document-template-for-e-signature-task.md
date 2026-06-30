@@ -24,7 +24,7 @@ Depending on the HR service you are using to request the e-signature, you may ne
 
 ## Procedure
 
-1.  Navigate to **HR [[case-management-workspace|Case Management]]**, and create a new or open an existing HR case.
+1.  Navigate to **HR Case Management**, and create a new or open an existing HR case.
 
 2.  On the HR case form, in the **PDF Template** field, select an HR document template.
 
@@ -45,6 +45,3 @@ The user to whom the case is assigned can:
 2.  Click **Preview Document**.
 3.  From the Preview Document window, click **Generate** to generate the document for signing. The document to sign is added as an attachment to the HR case form.
 
-## Related
-
-- [[case-management-workspace|Case management]]

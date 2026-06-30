@@ -13,9 +13,9 @@ breadcrumb: [Now Assist reference, Now Assist, Enable AI experiences]
 
 # Now Assist Admin roles
 
-Certain roles are required to use [[platform-now-assist-landing|Now Assist]] Admin functionality.
+Certain roles are required to use Now Assist Admin functionality.
 
-**Parent Topic:**[[now-assist-reference-landing|Now Assist reference]]
+**Parent Topic:**[Now Assist reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-reference-landing.md)
 
 ## Now Assist Admin \[sn\_nowassist\_admin.nsa\_admin\]
 
@@ -39,7 +39,7 @@ Avoid granting an admin role when more specialized roles are available.
 
 ## Now Assist Admin console user \[sn\_nowassist\_admin.user\]
 
-This user can access the console and view skills and their [[exploring-ai-governance|configurations]], but cannot make edits.
+This user can access the console and view skills and their configurations, but cannot make edits.
 
 ### Contains Roles
 
@@ -59,7 +59,7 @@ None.
 
 ## Now Assist panel user \[now\_assist\_panel\_user\]
 
-Users who have access to the [[now-assist-center-now-assist-panel|Now Assist panel]].
+Users who have access to the Now Assist panel.
 
 ### Contains Roles
 
@@ -77,9 +77,3 @@ None.
 
 None.
 
-## Related
-
-- [[now-assist-reference-landing|Now Assist reference]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[exploring-ai-governance|Configurations]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

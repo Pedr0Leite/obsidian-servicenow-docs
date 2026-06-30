@@ -14,7 +14,7 @@ breadcrumb: [AI Search, Search administration, Configure core features, Administ
 
 # Configuring AI Search
 
-Plan and configure your [[ia-ai-search|AI Search]] implementation.
+Plan and configure your AI Search implementation.
 
 ## AI Search configuration overview
 
@@ -32,9 +32,9 @@ Description
 
 </td><td>
 
-Assign the ais\_admin role to users who need to create, read, update, and delete content indexing and search settings for AI Search. Assign the ais\_high\_security\_admin elevated privilege role to users who need to access High [[ia-security-settings-il|Security settings]] for AI Search.
+Assign the ais\_admin role to users who need to create, read, update, and delete content indexing and search settings for AI Search. Assign the ais\_high\_security\_admin elevated privilege role to users who need to access High Security settings for AI Search.
 
- Assign the search\_application\_admin to users who need to create, read, update, and delete [[defining-search-app-cfgs-ais|search application configurations]].
+ Assign the search\_application\_admin to users who need to create, read, update, and delete search application configurations.
 
 </td></tr><tr><td>
 
@@ -50,7 +50,7 @@ Create and configure an indexed source for each ServiceNow AI Platform® table t
 
 </td><td>
 
-Apply filter conditions to indexed sources to define search sources that users can access in your search experiences. The base system includes pre-configured search sources that [[reference-email-admin|reference]] the default indexed sources.
+Apply filter conditions to indexed sources to define search sources that users can access in your search experiences. The base system includes pre-configured search sources that reference the default indexed sources.
 
 </td></tr><tr><td>
 
@@ -58,7 +58,7 @@ Apply filter conditions to indexed sources to define search sources that users c
 
 </td><td>
 
-Create and publish a search profile for each distinct search experience that you want to offer in search applications. Specify the data that users can search by linking search sources to the search profile. Control search behavior by configuring [[synonyms-ais|synonyms]], [[stop-words-ais|stop words]], [[typo-handling-ais|typo handling]] settings, [[genius-results-ais|Genius Results]], and [[result-improvement-rules-ais|result improvement rules]]. The base system includes pre-configured search profiles for use with Service Portal, Now Mobile, and the AI Search Assist Service Portal widget.
+Create and publish a search profile for each distinct search experience that you want to offer in search applications. Specify the data that users can search by linking search sources to the search profile. Control search behavior by configuring synonyms, stop words, typo handling settings, Genius Results, and result improvement rules. The base system includes pre-configured search profiles for use with Service Portal, Now Mobile, and the AI Search Assist Service Portal widget.
 
 </td></tr><tr><td>
 
@@ -82,7 +82,7 @@ Specify AI Search as the search engine in supported ServiceNow AI Platform appli
 
 </td><td>
 
-Optionally configure exact-match global searches that only match [[hs-results|results]] from a specified column \(field\) on a particular ServiceNow AI Platform table.
+Optionally configure exact-match global searches that only match results from a specified column \(field\) on a particular ServiceNow AI Platform table.
 
 </td></tr></tbody>
 </table>## Using guided setup to implement AI Search
@@ -118,15 +118,3 @@ With a subscription for the External Content for AI Search plugin, you can enabl
 
 **Parent Topic:**[AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/overview-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[ia-security-settings-il|Security Settings]]
-- [[defining-search-app-cfgs-ais|Search application configurations]]
-- [[reference-email-admin|Reference]]
-- [[synonyms-ais|Synonyms]]
-- [[stop-words-ais|Stop words]]
-- [[typo-handling-ais|Typo handling]]
-- [[genius-results-ais|Genius Results]]
-- [[result-improvement-rules-ais|Result improvement rules]]
-- [[hs-results|Results]]

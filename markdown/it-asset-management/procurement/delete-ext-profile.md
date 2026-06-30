@@ -14,16 +14,11 @@ breadcrumb: [Integrating with external procurement applications, Procurement, IT
 
 # Deleting an external procurement application integration profile
 
-If you want to stop using an external [[c_Procurement|procurement]] application for creating software requisitions through [[c_SoftwareAssetMgmt|Software Asset Management]], you can delete the integration profile.
+If you want to stop using an external procurement application for creating software requisitions through Software Asset Management, you can delete the integration profile.
 
-A sam\_admin can [[delete-saas-integration|delete an integration profile]] by selecting **Delete** on the integration profile record.
+A sam\_admin can delete an integration profile by selecting **Delete** on the integration profile record.
 
 When you delete a direct integration profile, all scheduled jobs and the job results associated with the profile gets deleted. The integration profile references are also removed from the Purchase Order records on ServiceNow.
 
 After you delete the integration profile, Software Asset Management doesn’t consider any in progress requests. Ensure that all the requests in progress are completed before you delete the integration profile.
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[delete-saas-integration|Delete an integration profile]]

@@ -14,13 +14,13 @@ breadcrumb: [Configure, Legal Conflict of Interest, Legal Service Delivery Pract
 
 # Install Legal Conflict of Interest
 
-You can install the [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]] application \(sn\_lg\_coi\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Legal Conflict of Interest application \(sn\_lg\_coi\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
 **Note:**
 
--   The Legal Conflict of Interest application is installed automatically when you install the [[legal-simple-compliance-applications|Legal Simple Compliance]] suite.
+-   The Legal Conflict of Interest application is installed automatically when you install the Legal Simple Compliance suite.
 -   The Legal and Contracts Common Utilities \(sn\_lco\_cmn\) application is automatically installed when you install Legal Conflict of Interest.
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
@@ -65,7 +65,7 @@ For more information, see [Components installed with Legal Conflict of Interest]
 
 ## What to do next
 
-To submit conflict of interest request using conversational intake from Now Assist in Virtual Agent, install and configure [[legal-management-overview|Legal Service Delivery]] - Prime that is a paid application.
+To submit conflict of interest request using conversational intake from Now Assist in Virtual Agent, install and configure Legal Service Delivery - Prime that is a paid application.
 
 Use the Legal Service Delivery Guided Setup to configure the application on your instance.
 
@@ -73,8 +73,3 @@ To access Legal Service Delivery guided setup, navigate to **Legal Administratio
 
 **Parent Topic:**[Configure Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/legal-coi-administration.md)
 
-## Related
-
-- [[legal-conflict-of-interest-landing-page|Legal Conflict of Interest]]
-- [[legal-simple-compliance-applications|Legal Simple Compliance]]
-- [[legal-management-overview|Legal Service Delivery]]

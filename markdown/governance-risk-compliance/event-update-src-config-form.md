@@ -95,8 +95,5 @@ Source records to consider
 Option to select a specific record or all records. When selecting source records from the specified sources, the system retrieves dependencies from either all matching records or only from the most recently matched BIA record.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[conf-event-dep-source-confi-module|Configure Event dependency source configuration record]]
+</table>**Parent Topic:**[Configure Event dependency source configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-event-dep-source-confi-module.md)
 
-## Related
-
-- [[conf-event-dep-source-confi-module|Configure Event dependency source configuration record]]

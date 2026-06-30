@@ -14,7 +14,7 @@ breadcrumb: [Manage observables, Managing security incidents and inbound request
 
 # Add multiple security incident observables
 
-To save time, you can add multiple security incident observables to the security incident [[c_Observables|observables]] list.
+To save time, you can add multiple security incident observables to the security incident observables list.
 
 ## Before you begin
 
@@ -46,6 +46,4 @@ Role required: sn\_ti\_write
 
 7.  Select **Submit**.
 
-## Related
 
-- [[c_Observables|Observables]]

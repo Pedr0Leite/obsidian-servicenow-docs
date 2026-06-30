@@ -51,8 +51,5 @@ Role required: sn\_ti.write
     The other fields in the record are generated automatically.
 
 
-**Parent Topic:**[[c_IntegrationTroubleshooting|Integration troubleshooting]]
+**Parent Topic:**[Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 
-## Related
-
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]

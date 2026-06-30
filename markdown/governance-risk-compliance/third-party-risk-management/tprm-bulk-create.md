@@ -14,7 +14,7 @@ breadcrumb: [Use digital resilience third-party registers, Third-party Risk Mana
 
 # Create records in bulk
 
-[[create-records-in-bulk-opres-ws|Create records in bulk]] from the Digital resilience third-party registers using Third-party Risk Management rather than creating one record at a time for single or multiple entities. You can save time and effort by working on multiple records at a time.
+Create records in bulk from the Digital resilience third-party registers using Third-party Risk Management rather than creating one record at a time for single or multiple entities. You can save time and effort by working on multiple records at a time.
 
 ## Before you begin
 
@@ -62,6 +62,4 @@ Only DORA administrators can view the **Upload** option and perform this task.
 
     The records are uploaded in bulk from the Digital resilience third-party registers.
 
-## Related
 
-- [[create-records-in-bulk-opres-ws|Create records in bulk]]

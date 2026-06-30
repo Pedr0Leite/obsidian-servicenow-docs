@@ -68,7 +68,7 @@ Open the Integration Profiles \[samp\_sw\_subscription\_profile\] table.Integrat
 
 </td></tr><tr><td id="d162732e232">
 
-**[[sam-workspace|Software Asset Workspace]]**
+**Software Asset Workspace**
 
 </td><td>
 
@@ -155,6 +155,3 @@ Action
 
 The usage activity reports that you uploaded can be monitored for license optimization and generation of reclamation candidates. For details, see [Evaluating software usage activity for Microsoft 365 subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/o365-usage-activity.md).
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

@@ -21,7 +21,7 @@ Configure a content processor to enable employees to view private videos without
 -   Role required: sn\_cd.content\_admin and fd\_read\_flows
 -   [Create a subflow in Workflow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-subflow.md) with the following inputs and outputs:
 
-    \[Omitted image "[[flows-ukg|subflows]]-auth.png"\] Alt text: necessary inputs and outputs for the authorization subflow
+    \[Omitted image "subflows-auth.png"\] Alt text: necessary inputs and outputs for the authorization subflow
 
 -   [Configure content provider and mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-provider.md)
 
@@ -60,6 +60,3 @@ Content Publishing appends the authentication token as a query parameter along w
 -   Enable content managers to view thumbnails of available videos: [Configure video content search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-search.md)
 -   Add interface elements to the Content Library video picker: [Configure content rendering parameter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-content-rendering-parameter.md)
 
-## Related
-
-- [[flows-ukg|Subflows]]

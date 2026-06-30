@@ -26,7 +26,7 @@ Although the **Due date** field is auto-populated for a task type, you can alway
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **Administration** &gt; **Default Due Dates for Tasks**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Administration** &gt; **Default Due Dates for Tasks**.
 
     The Decision Builder opens and displays the Decision table for configuring the default due dates.
 
@@ -65,6 +65,3 @@ The default due dates for the different task types are configured.
 
 [Complete a supplier task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-supplier-task.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]

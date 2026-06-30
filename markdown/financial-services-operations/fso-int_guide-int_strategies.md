@@ -16,16 +16,9 @@ There are numerous ways to integrate with FSO depending on your company's needs.
 
 **Note:** Every customer's environment is different. These use case scenarios only show generic implementations for the stated use cases. Your actual implementation may be quite different.
 
--   [[fso-int_guide-agt_table_lookup|Lookup remote information in the system of record]]
--   [[fso-int_guide-agt_submit_case|Agent submitting a case]]
--   [[fso-int_guide-sys_submit_case|External systems submitting a case request]]
--   [[fso-int_guide-agt_table_update|Update remote information in the system of record]]
--   [[setting-up-a-remote-table-integration|Setting up a remote table integration]]
+-   [Lookup remote information in the system of record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-agt_table_lookup.md)
+-   [Agent submitting a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-agt_submit_case.md)
+-   [External systems submitting a case request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-sys_submit_case.md)
+-   [Update remote information in the system of record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-int_guide-agt_table_update.md)
+-   [Setting up a remote table integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/setting-up-a-remote-table-integration.md)
 
-## Related
-
-- [[fso-int_guide-agt_table_lookup|Lookup remote information in the system of record]]
-- [[fso-int_guide-agt_submit_case|Agent submitting a case]]
-- [[fso-int_guide-sys_submit_case|External systems submitting a case request]]
-- [[fso-int_guide-agt_table_update|Update remote information in the system of record]]
-- [[setting-up-a-remote-table-integration|Setting up a remote table integration]]

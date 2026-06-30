@@ -14,7 +14,7 @@ breadcrumb: [HR Service Delivery Advanced Integration with Oracle HCM, Integrati
 
 # Now Assist Virtual Agent topics for HR Service Delivery Advanced Integration with Oracle HCM
 
-You can use the Now Assist Virtual Agent topics in [[employee-center-landing-page|Employee Center]] to place requests, for example, apply for a time off or update your details from the Oracle HCM system in Employee Center.
+You can use the Now Assist Virtual Agent topics in Employee Center to place requests, for example, apply for a time off or update your details from the Oracle HCM system in Employee Center.
 
 ## Virtual Agent topics for HR Service Delivery Advanced Integration with Oracle HCM Overview
 
@@ -251,6 +251,3 @@ The Lookup Benefit Enrolments Virtual Agent topic enables you to view your benef
 
 The Lookup Feedback Virtual Agent topic enables you to view feedback you have received from other employees in Employee Center from the Oracle system. From Employee Center, open a chat window and type in key words, for example, Lookup Feedback. Your feedback, if available, is displayed.
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

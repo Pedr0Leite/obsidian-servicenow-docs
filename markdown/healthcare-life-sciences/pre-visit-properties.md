@@ -16,7 +16,7 @@ There are several advanced Pre-Visit Management properties that you can configur
 
 **Important:**
 
-Starting with the Yokohama release, [[pre-visit-mgmt-app|Pre-Visit Management]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Pre-Visit Management is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -45,13 +45,8 @@ Set to numeric value to indicating the number of days before the procedure appoi
 -   Type: Integer
 -   Default value: 3
 -   Location: System Property \[sys\_properties\] table
--   Learn more: [[pre-visit-config-proc-consent-time|Configure when to send the procedure consent form to a patient]]
+-   Learn more: [Configure when to send the procedure consent form to a patient](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-config-proc-consent-time.md)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[pre-visit-reference|Pre-Visit Management reference]]
+</table>**Parent Topic:**[Pre-Visit Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pre-visit-reference.md)
 
-## Related
-
-- [[pre-visit-config-proc-consent-time|Configure when to send the procedure consent form to a patient]]
-- [[pre-visit-reference|Pre-Visit Management reference]]
-- [[pre-visit-mgmt-app|Pre-Visit Management]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[document-template-block|Legal contract templates]] help you to create and organize standard contract templates along with fillable metadata placeholders. You can create templates of HTML, PDF and Microsoft Word types. In a PDF document template type, you can upload a fillable PDF file and [[map-fields-navex|map fields]] in the PDF file with fields in a table.
+Legal contract templates help you to create and organize standard contract templates along with fillable metadata placeholders. You can create templates of HTML, PDF and Microsoft Word types. In a PDF document template type, you can upload a fillable PDF file and map fields in the PDF file with fields in a table.
 
 ## Procedure
 
@@ -272,7 +272,4 @@ Enter a script to configure script fields for a complex field mapping.
 
 10. To make the template available for usage, click **Publish**.
 
-## Related
 
-- [[document-template-block|Legal contract templates]]
-- [[map-fields-navex|Map fields]]

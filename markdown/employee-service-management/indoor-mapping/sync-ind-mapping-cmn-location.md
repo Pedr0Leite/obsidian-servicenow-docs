@@ -14,7 +14,7 @@ breadcrumb: [Synchronize Indoor Mapping with CMN Locations, Manage map objects a
 
 # Synchronize Indoor Mapping map data with CMN location
 
-Synchronize the CMN Locations and Location place types with [[Indoor-mapping|Indoor Mapping]] map data, places, and place types.
+Synchronize the CMN Locations and Location place types with Indoor Mapping map data, places, and place types.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: admin
     -   Add places in Map studio. For more information, see [Manage places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md)
     -   Enable the Default view in the Indoor Mapping Map studio. In the Indoor Mapping select **View editor** &gt; **Default**. Select **All content**.
 
-        **Note:** Enabling the default view in Indoor Mapping is a mandatory step. The Default view is required to render the floor maps in [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]. For more information, see [Edit with view editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-with-view-editor.md).
+        **Note:** Enabling the default view in Indoor Mapping is a mandatory step. The Default view is required to render the floor maps in Workplace Service Delivery. For more information, see [Edit with view editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/edit-with-view-editor.md).
 
 2.  Navigate to **Indoor Mapping** &gt; **Campuses**.
 
@@ -167,7 +167,7 @@ Role required: admin
 
     2.  Notice that the **Location** field is having the Campus name **Demo Campus**.
 
-        This is a [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to the Campus in CMN location and shows that the Indoor Mapping campus is linked to the CMN location.
+        This is a reference to the Campus in CMN location and shows that the Indoor Mapping campus is linked to the CMN location.
 
     3.  The **Unlink Campus** tab is available after the synchronization is complete and the Indoor Mapping map object is linked to the CMN location indicating that the linking is complete.
 
@@ -191,7 +191,7 @@ Role required: admin
 
     1.  Select the building to add a place or location.
 
-    2.  Select [[manage-buildings|Manage places]].
+    2.  Select Manage places.
 
     3.  Select the floor to be displayed on a map.
 
@@ -208,9 +208,3 @@ Role required: admin
 
 **Next topic:**[Using enhanced synchronization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/using-enhanced-sync.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[manage-buildings|Manage places]]

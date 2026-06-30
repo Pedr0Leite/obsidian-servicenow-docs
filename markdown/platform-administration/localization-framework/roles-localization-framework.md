@@ -14,9 +14,9 @@ breadcrumb: [Explore Localization Framework, Localization Framework, Translation
 
 # Localization Framework Roles
 
-[[localization-framework-landing|Localization Framework]] uses different roles to manage different aspects of the application. The roles from Localization Framework are also used in [[localization-workspace|Localization Workspace]].
+Localization Framework uses different roles to manage different aspects of the application. The roles from Localization Framework are also used in Localization Workspace.
 
-For more information about Localization Workspace, see [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md). To learn more about managing subscriptions, see [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]] and contact your account representative.
+For more information about Localization Workspace, see [Localization Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-workspace/localization-workspace.md). To learn more about managing subscriptions, see [Managing per-user subscriptions in Subscription Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/managing-user-subscriptions-v2.md) and contact your account representative.
 
 **Parent Topic:**[Explore Localization Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/exploring-localization-framework.md)
 
@@ -25,13 +25,13 @@ For more information about Localization Workspace, see [Localization Workspace](
 Manage the following aspects of the Localization Framework application. This role is also used in Localization Workspace.
 
 -   Configures the supported artifacts and custom artifacts for Localization Framework.
--   Configures [[ia-localization-il|localization]] settings for the activated languages.
--   Can [[language-picker-ui|request translations]] into multiple languages for Service Catalog items, Virtual Agent topics, or for any custom artifacts from their respective artifact tables.
--   Can [[request-translations-multiple-items|request translations for Service Catalog items]], Virtual Agent topics, or for any custom artifact for a particular language from their respective artifact reports in the insights dashboard.
+-   Configures localization settings for the activated languages.
+-   Can request translations into multiple languages for Service Catalog items, Virtual Agent topics, or for any custom artifacts from their respective artifact tables.
+-   Can request translations for Service Catalog items, Virtual Agent topics, or for any custom artifact for a particular language from their respective artifact reports in the insights dashboard.
 -   Can configure RWS and XTM TMS and can create and configure a custom TMS by inheriting the following roles:
     -   flow\_designer: Can edit the TMS subflows and can create a new TMS configuration record.
     -   connection\_admin: Can access the connections and credentials tables and records.
--   Owns the [[localization-insights-dashboard|localization insights dashboard]] and reports. Can execute the [[c_ScheduledJobs|scheduled jobs]] to display the reports on the dashboard.
+-   Owns the localization insights dashboard and reports. Can execute the scheduled jobs to display the reports on the dashboard.
 -   Views the localization health of the system.
 -   Inherits the localization\_editor, localization\_fulfiller, localization\_manager, and localization\_requestor roles.
 
@@ -99,7 +99,7 @@ None.
 Fulfillers can translate a localization task in the following ways:
 
 -   Manually translate in the Localization Task web page.
--   Use machine translation by submitting the item to a third-party translator configured in [[dynamic-translation|Dynamic Translation]].
+-   Use machine translation by submitting the item to a third-party translator configured in Dynamic Translation.
 -   Export source files to a third-party translator and import the returned translations.
 -   Send the source files for translation via email and receive the translated files via email.
 -   Send translatable items to a translation management system \(TMS\).
@@ -142,22 +142,10 @@ None.
 
 ### Special considerations
 
-If the [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]] is activated, the localization\_manager role has access to the following tables on the hub instance:
+If the Localization Framework Hub and Spoke architecture is activated, the localization\_manager role has access to the following tables on the hub instance:
 
 -   Localization Framework Hub Translation Request \[sn\_lf\_hub\_translation\_request\]
 -   Localization Framework Hub Translation Item \[sn\_lf\_hub\_translation\_item\]
 
 For more information, see [Localization Framework Hub and Spoke architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/localization-framework/localization-framework-hub-spoke-architecture.md).
 
-## Related
-
-- [[managing-user-subscriptions-v2|Managing per-user subscriptions in Subscription Management]]
-- [[localization-framework-landing|Localization Framework]]
-- [[localization-workspace|Localization Workspace]]
-- [[ia-localization-il|Localization]]
-- [[language-picker-ui|Request translations]]
-- [[request-translations-multiple-items|Request translations for Service Catalog items]]
-- [[localization-insights-dashboard|Localization Insights dashboard]]
-- [[c_ScheduledJobs|Scheduled jobs]]
-- [[dynamic-translation|Dynamic translation]]
-- [[localization-framework-hub-spoke-architecture|Localization Framework Hub and Spoke architecture]]

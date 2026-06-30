@@ -14,7 +14,7 @@ breadcrumb: [Manage Learning, Using My Learning, Learning, Growth Experiences, H
 
 # Create a learning library
 
-Create a learning library that includes [[exploring-learning-exp|learning]] content from internal and external content repositories.
+Create a learning library that includes learning content from internal and external content repositories.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_lc.catalog\_manager, sn\_lc.catalog\_group\_manager
 
 2.  Select **New**.
 
-3.  On the [[learning-library-form|Learning library form]], fill in the fields.
+3.  On the Learning library form, fill in the fields.
 
     For a description of the field values, see [Learning library form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-library-form_0.md).
 
@@ -65,7 +65,3 @@ You can add applicable users to a learning library.
 
 [Add users to learning library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/add-learning-library-users.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[learning-library-form|Learning library form]]

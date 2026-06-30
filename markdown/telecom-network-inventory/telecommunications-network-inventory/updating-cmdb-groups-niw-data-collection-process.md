@@ -14,7 +14,7 @@ breadcrumb: [Workspace widget customization, Define inventory records, Use, Tele
 
 # Update CMDB groups for use in the data collection process
 
-Add or change the data that you see in a [[exploring-network-inventory-workspace|Network Inventory Workspace]] widget by using the CMDB Groups function. You create CMDB group codes as needed or modify the query conditions for existing ones. By changing the CMDB groups, you affect what data the collection process retrieves for the widgets on the Network Inventory Workspace [[network-inventory-workspace-landing-page|landing page]].
+Add or change the data that you see in a Network Inventory Workspace widget by using the CMDB Groups function. You create CMDB group codes as needed or modify the query conditions for existing ones. By changing the CMDB groups, you affect what data the collection process retrieves for the widgets on the Network Inventory Workspace landing page.
 
 ## Before you begin
 
@@ -77,7 +77,3 @@ After the data collection process runs for the Network Inventory Workspace, the 
 
 [Network Inventory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-network-inventory-workspace.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[network-inventory-workspace-landing-page|Landing page]]

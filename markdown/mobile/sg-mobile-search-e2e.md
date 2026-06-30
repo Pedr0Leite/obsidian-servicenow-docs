@@ -80,7 +80,7 @@ Enable Photo Search
 
 </td><td>
 
-Whether photo search is available for your search bar. If the **glide.sg.image\_recognition.search.enable** system property is false, you cannot select this option. For details on this property see [[sg-image-search-prop|Create the image search system property]].
+Whether photo search is available for your search bar. If the **glide.sg.image\_recognition.search.enable** system property is false, you cannot select this option. For details on this property see [Create the image search system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-image-search-prop.md).
 
 </td></tr></tbody>
 </table>4.  In the **Search Application Configuration** field, click the reference icon \(\[Omitted image "reference-lookup-icon.png"\] Alt text: Reference icon\).
@@ -149,9 +149,5 @@ Whether photo search is available for your search bar. If the **glide.sg.image\_
 19. Click **Save** when you have finished adding item configurations.
 
 
-**Parent Topic:**[[sg-create-custom-search|Configure search criteria]]
+**Parent Topic:**[Configure search criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-custom-search.md)
 
-## Related
-
-- [[sg-image-search-prop|Create the image search system property]]
-- [[sg-create-custom-search|Configure search criteria]]

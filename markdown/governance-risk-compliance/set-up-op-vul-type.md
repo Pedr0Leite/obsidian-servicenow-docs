@@ -12,7 +12,7 @@ breadcrumb: [Setting up the Operational vulnerability module, Completing general
 
 # Set up the Operational vulnerability type
 
-Set up the Operational vulnerability type. By defining the type and nature of the [[exploring-op-vul|Operational vulnerability]], [[grc-opres-landing-page|Operational Resilience]] administrators can efficiently assign the operational vulnerabilities to the appropriate teams and address any issues in a timely manner.
+Set up the Operational vulnerability type. By defining the type and nature of the Operational vulnerability, Operational Resilience administrators can efficiently assign the operational vulnerabilities to the appropriate teams and address any issues in a timely manner.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Administrators of Operational Resilience can create only one Vulnerability Type 
 
     \[Omitted image "vul-type.png"\] Alt text: Vulnerability Type record.\[Omitted image "vul-type-asmt-config.png"\] Alt text: Assessment.\[Omitted image "vul-type-temp-config.png"\] Alt text: Template.
 
-    For more information on the fields, see [[vul-type-form|Vulnerability Type form]].
+    For more information on the fields, see [Vulnerability Type form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/vul-type-form.md).
 
 3.  Select the Smart Assessment template for the vulnerability type.
 
@@ -42,8 +42,4 @@ Administrators of Operational Resilience can create only one Vulnerability Type 
 
 5.  To delete a record, select **Delete**.
 
-## Related
 
-- [[vul-type-form|Vulnerability Type form]]
-- [[exploring-op-vul|Operational vulnerability]]
-- [[grc-opres-landing-page|Operational Resilience]]

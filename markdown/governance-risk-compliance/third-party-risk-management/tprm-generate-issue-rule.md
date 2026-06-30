@@ -76,7 +76,7 @@ Supports smart assessment
 
 </td><td>
 
-Option that indicates that the Issue generation rule can be used with the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]].**Note:** For existing rules, this option isn’t set when there are classic questionnaire and document request templates that haven’t been migrated and published. This option is set automatically when an SAE questionnaire or document request template has been added manually.
+Option that indicates that the Issue generation rule can be used with the Smart Assessment Engine.**Note:** For existing rules, this option isn’t set when there are classic questionnaire and document request templates that haven’t been migrated and published. This option is set automatically when an SAE questionnaire or document request template has been added manually.
 
 When you create a new rule template and have the Smart Assessment Engine property enabled, this field is selected by default after saving the template.
 
@@ -137,6 +137,3 @@ The TPR assessor can navigate to the Issues tab of the External assessment in th
 
 [Create an issue for a third party or engagement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-ws-issue-create.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

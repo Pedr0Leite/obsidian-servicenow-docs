@@ -14,7 +14,7 @@ breadcrumb: [Analytics Hub for a specific indicator, Analytics Hub, Reporting, d
 
 # View scores and statistics
 
-The [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] Overview tab shows the score for a time period, statistics, and a time series. You can set the time period for the statistics and time series. You can also filter scores by breakdown and element.
+The Analytics Hub Overview tab shows the score for a time period, statistics, and a time series. You can set the time period for the statistics and time series. You can also filter scores by breakdown and element.
 
 \[Omitted image "detailed-scorecard-overview.png"\] Alt text: The overview tab of the Analytics Hub
 
@@ -42,7 +42,7 @@ You can also select the date by clicking along the time series chart. Furthermor
 
 ## Viewing real-time scores on the Analytics Hub
 
-You can select [[real-time-scores|real-time scores]] to view instead of the last score.
+You can select real-time scores to view instead of the last score.
 
 You can view real-time scores in the following circumstances:
 
@@ -54,14 +54,14 @@ You can view real-time scores in the following circumstances:
 
 **Warning:**
 
--   Real-time scores can differ per viewer and differ from collected scores. Real-time scores are taken directly from the relevant facts tables. Therefore, the [[access-control|Access Control]] Lists \(ACL\) of those facts tables determine the real-time scores that each logged-in user sees.
+-   Real-time scores can differ per viewer and differ from collected scores. Real-time scores are taken directly from the relevant facts tables. Therefore, the Access Control Lists \(ACL\) of those facts tables determine the real-time scores that each logged-in user sees.
 -   The Analytics Hub does not refresh real-time scores automatically. To get the most up-to-date score, refresh the browser page.
 
 If you can select real-time scores, select them in the date selector or by selecting the current time period in the **Records** view. However, when viewing real-time scores, you cannot see records that do not match a breakdown element in the **Records** view.
 
 \[Omitted image "ds-overview-period-nav.png"\] Alt text: Score time period navigation buttons showing real-time option \[Omitted image "detailed-scorecard-overview-real-time.png"\] Alt text: The Score section of the Analytics Hub with the calendar expanded to show that real-time scores are selected.
 
-**Note:** You can show real-time scores to dashboard users in some [[widgets|widgets]]. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
+**Note:** You can show real-time scores to dashboard users in some widgets. For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
 
 ## Time-series aggregations in the Analytics Hub
 
@@ -160,7 +160,7 @@ If you opened the Analytics Hub from a breakdown dashboard with multiple element
 
 **Note:**
 
--   Records are shown only for [[automated-indicators|automated indicators]].
+-   Records are shown only for automated indicators.
 -   The Show Records function is not supported for real-time scores of unmatched breakdown elements. If you are viewing scores in real time, records that are not assigned to any breakdown element are not displayed.
 -   You can change the view of the list of records in the context menu of the Records list, depending on the views available to the facts table. The default view is set on the indicator source.
 -   In some cases, when you collect second-level breakdowns, the score and the number of records do not agree. When these values do not agree, the score is correct. For more details and an example, see [KB0748969](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0748969).
@@ -226,10 +226,3 @@ Any target, threshold, or comment you add is automatically associated with the c
 
 Besides system settings, some dashboards are configured so that you can select the domain on the dashboard. If you navigate to the Analytics Hub from a widget on such a dashboard, you see only the scores that are collected for that domain. For more information, see [Associate a domain configuration with a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/associate-domain-config-dashboard.md).
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[real-time-scores|Real-time scores]]
-- [[access-control|Access control]]
-- [[widgets|Widgets]]
-- [[automated-indicators|Automated indicators]]

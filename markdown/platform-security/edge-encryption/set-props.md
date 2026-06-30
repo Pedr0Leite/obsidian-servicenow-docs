@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the command line ins
 
 # Configure additional properties in the Edge Encryption properties file
 
-After installing the [[edge-encryption|Edge Encryption]] proxy server in your network and setting up your keystore and keys, configure the additional Edge Encryption properties.
+After installing the Edge Encryption proxy server in your network and setting up your keystore and keys, configure the additional Edge Encryption properties.
 
 ## Before you begin
 
@@ -22,12 +22,12 @@ Role required: admin
 
 ## Procedure
 
-1.  Open the `<installation directory>/conf/edgeencryption.properties` file and configure the following [[edge-encryption-proxy-server-properties|Edge Encryption proxy server properties]]:
+1.  Open the `<installation directory>/conf/edgeencryption.properties` file and configure the following Edge Encryption proxy server properties:
 
     -   [Target \(instance\) properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)
     -   [User account properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)
     -   [Proxy properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)
-    -   If using order preserving [[encryption-landing|encryption]] types or encryption patterns, configure the [Proxy database properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)
+    -   If using order preserving encryption types or encryption patterns, configure the [Proxy database properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)
     -   [Clear text and static IV properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-encryption-proxy-server-properties.md)
 2.  Save and close the file.
 
@@ -38,8 +38,3 @@ Role required: admin
 
 **Next topic:**[Configure a web proxy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/t_SetUpWebProxyProperties.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[edge-encryption-proxy-server-properties|Edge Encryption proxy server properties]]
-- [[encryption-landing|Encryption]]

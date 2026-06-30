@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage asset bundles from your inventory
 
-Create [[asset-bundles-concept|asset bundles]] from existing assets in your inventory to track, reserve, or deploy a group of assets as a single entity.
+Create asset bundles from existing assets in your inventory to track, reserve, or deploy a group of assets as a single entity.
 
 ## Before you begin
 
@@ -116,13 +116,13 @@ Role required: asset
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -140,7 +140,7 @@ Role required: asset
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -156,9 +156,3 @@ Role required: asset
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

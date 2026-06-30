@@ -14,7 +14,7 @@ breadcrumb: [Integrate with SaaS applications, SaaS License Management, Software
 
 # Integrating with Workday
 
-Integrating your [[c_SoftwareAssetMgmt|Software Asset Management]] application with the Workday applications enables you to track your software subscriptions.
+Integrating your Software Asset Management application with the Workday applications enables you to track your software subscriptions.
 
 With this integration, you can track software subscriptions for the following Workday applications:
 
@@ -61,7 +61,3 @@ None
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

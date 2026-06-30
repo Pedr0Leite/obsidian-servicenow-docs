@@ -14,7 +14,7 @@ breadcrumb: [Conversation Insights, Enable AI experiences]
 
 # Exploring Conversation Insights
 
-Learn how [[conversation-insights|Conversation Insights]] can help you to augment conversation insights with AI-based Inferred customer satisfaction \(CSAT\) scores and factors.
+Learn how Conversation Insights can help you to augment conversation insights with AI-based Inferred customer satisfaction \(CSAT\) scores and factors.
 
 ## Conversation Insights overview
 
@@ -30,11 +30,11 @@ Inferred CSAT is a numerical score from 1 \(least satisfied\) to 5 \(most satisf
 -   Frustration: Flags signs of user dissatisfaction or repeated failed attempts during the interaction.
 -   Transfers and Escalations: Tracks how often the Virtual Agent or AI agent handed off the conversation to a human agent or another system.
 
-Inferred CSAT scores and factors are calculated for each conversation. Conversational analytics applications can leverage the scores written to the Conversation Insights \[sn\_aci\_insights\] table to create custom dashboards and workflows. The [[ai-agent-dashboard|AI Agent Analytics dashboard]] includes visualizations with Inferred CSAT scores and factors by default.
+Inferred CSAT scores and factors are calculated for each conversation. Conversational analytics applications can leverage the scores written to the Conversation Insights \[sn\_aci\_insights\] table to create custom dashboards and workflows. The [AI Agent Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-dashboard.md) includes visualizations with Inferred CSAT scores and factors by default.
 
 The data retention period for the Conversation Insights \[sn\_aci\_insights\] table is two years. For more information on creating custom dashboards, see [Create a dashboard with the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-db-in-ac.md) and [Select a table data source for a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/select-table-data-source.md).
 
-Conversation Insights are also supported by Voice Agents, [[now-assist-center-now-assist-panel|Now Assist Panel]] and [[platform-now-assist-landing|Now Assist]] Virtual Agent.
+Conversation Insights are also supported by Voice Agents, Now Assist Panel and Now Assist Virtual Agent.
 
 To view the conversation insights for Voice Agents, go to **Assistant Designer** &gt; **Analytics** &gt; **Sentiment** dashboard.
 
@@ -89,9 +89,3 @@ To learn more about configuring and using Conversation Insights, see:
 -   [Install Conversation Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/install-conversation-insights.md)
 -   [Conversation Insights reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/conversation-insights-reference.md)
 
-## Related
-
-- [[ai-agent-dashboard|AI Agent Analytics dashboard]]
-- [[conversation-insights|Conversation Insights]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[platform-now-assist-landing|Now Assist]]

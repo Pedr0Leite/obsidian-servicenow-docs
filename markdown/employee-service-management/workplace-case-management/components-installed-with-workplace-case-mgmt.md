@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Case Management, Workplace Service Delivery, E
 
 # Components installed with Workplace Case Management
 
-Several types of components are installed with activation of the [[workplace-case-mgmt-feat|Workplace Case Management]] application, including tables, user roles, and business rules.
+Several types of components are installed with activation of the Workplace Case Management application, including tables, user roles, and business rules.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -54,7 +54,7 @@ Workplace Case Management admin\[sn\_wsd\_case.admin\]
 </td><td>
 
 -   Sets up data related to workplaces services.
--   Creates [[workplace-services|workplace services]].
+-   Creates workplace services.
 -   Has complete access to the application.
 
 </td><td>
@@ -203,7 +203,7 @@ Extends the Application File table. Stores information about all the Workplace S
 
 </td></tr><tr><td>
 
-Workplace Service [[activity-lxp|Activity]]\[sn\_wsd\_case\_workplace\_service\_activity\]
+Workplace Service Activity\[sn\_wsd\_case\_workplace\_service\_activity\]
 
 </td><td>
 
@@ -255,7 +255,7 @@ Workplace Field Mapping\[sn\_wsd\_case\_workplace\_field\_mapping\]
 
 </td><td>
 
-Stores information about all the workplace [[field-mappings-sf|field mappings]] created in the application.
+Stores information about all the workplace field mappings created in the application.
 
 </td></tr><tr><td>
 
@@ -285,9 +285,3 @@ Stores information about all the workplace template configurations created in th
 
 [Workplace Location Assignment service]()
 
-## Related
-
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-services|Workplace Services]]
-- [[activity-lxp|Activity]]
-- [[field-mappings-sf|Field mappings]]

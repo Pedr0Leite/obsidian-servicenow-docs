@@ -173,7 +173,7 @@ Last metrics collection status
 
 </td><td>
 
-Status of the [[operational-metrics|Metric Intelligence]] collection activity. The value of this field populates automatically.This field is read-only.
+Status of the Metric Intelligence collection activity. The value of this field populates automatically.This field is read-only.
 
 </td></tr><tr><td>
 
@@ -234,6 +234,3 @@ Credentials for the metric database. Use JDBC credentials for the local database
 </td></tr></tbody>
 </table>**Parent Topic:**[Event Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/event-management-reference.md)
 
-## Related
-
-- [[operational-metrics|Metric Intelligence]]

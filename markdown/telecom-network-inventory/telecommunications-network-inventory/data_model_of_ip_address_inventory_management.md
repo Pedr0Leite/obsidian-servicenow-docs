@@ -20,7 +20,7 @@ By using the IP address inventory management data model, you can understand how 
 
 The following diagram shows the IP address inventory management data model.
 
-\[Omitted image "IP\_datamodel.png"\] Alt text: [[uses-for-network-inventory-data|Data model]] that shows how the IP pools, IP subnetworks, allocated IP addresses, and IP addresses are related.
+\[Omitted image "IP\_datamodel.png"\] Alt text: Data model that shows how the IP pools, IP subnetworks, allocated IP addresses, and IP addresses are related.
 
 With this data model, you can store the related tables of your IP pool, IP subnetwork addresses, or allocated IP addresses. You can also create an IP pool table or IP subnet table to allocate services. To do this task, you create an IP pool or IP subnet. Each IP address in the subnet is created in an allocated IP address table. You can then relate IP addresses from the allocated IP address table to the IP address table for discovery and configuration item \(CI\) mapping.
 
@@ -33,6 +33,3 @@ An IP address is allocated this way:
 
 **Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[uses-for-network-inventory-data|Data model]]

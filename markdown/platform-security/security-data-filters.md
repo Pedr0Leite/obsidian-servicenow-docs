@@ -16,7 +16,7 @@ Security data filters restrict access to records based on role, or security-attr
 
 ## Exploring security data filters
 
-Security data filters enable access restriction to records based on a [[users|users]]' role, or other security attribute related assertions. Security data filters ensure only authorized users can view records regardless of how data is accessed.
+Security data filters enable access restriction to records based on a users' role, or other security attribute related assertions. Security data filters ensure only authorized users can view records regardless of how data is accessed.
 
 Security data filters are applied before a query is executed so restricted data never leaves the database. In contrast [conditional ACLs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/access-control-rules.md) filter data after a query is executed possibly leaking data.
 
@@ -33,7 +33,7 @@ The key features of security data filters are:
 
 ## Security data filter application and enforcement
 
-Generally security data filters are applied after absolute ACLs \(also called table-level ACLs\), and after row ACLs. Security data filters are applied by default, and impact system behavior if not used carefully. See [[default-security-filters|Default security filters]] for a list of the default security data filters.
+Generally security data filters are applied after absolute ACLs \(also called table-level ACLs\), and after row ACLs. Security data filters are applied by default, and impact system behavior if not used carefully. See [Default security filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/default-security-filters.md) for a list of the default security data filters.
 
 Security data filters are applied only to GlideRecordSecure, GlideRecordSandbox and GlideAggregateSandbox queries by default. There are two new GlideRecord APIs `enableSecurityFeature` and `disableSecurityFeature` that can be used in both Java and server-side scripts to enable or disable data filters for a specific query.
 
@@ -88,7 +88,3 @@ One important difference in how security data filters and ACLs are applied is, d
 
 Data filters are applied with scoping rules similar to ACLs, but with some key differences because data filters apply before-query.\[Omitted image "secdf-scope.png"\] Alt text: Data filters applied to scopes
 
-## Related
-
-- [[default-security-filters|Default security filters]]
-- [[users|Users]]

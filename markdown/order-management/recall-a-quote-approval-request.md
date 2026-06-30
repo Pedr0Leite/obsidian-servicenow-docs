@@ -12,7 +12,7 @@ breadcrumb: [Quote Management, Configure, price, quote apps, Use, Sales Customer
 
 # Recall a quote approval request
 
-[[cancel|Cancel]] a pending quote approval request to change a quote before resubmitting it for advanced approval.
+Cancel a pending quote approval request to change a quote before resubmitting it for advanced approval.
 
 ## Before you begin
 
@@ -41,9 +41,5 @@ Recalling an approval request cancels any pending approval steps and returns the
 
 The approval request is canceled, all pending approval steps are canceled, and the quote is returned to the Draft state. You can update the quote and resubmit it for advanced approval when ready.
 
-**Parent Topic:**[[quote-mgmt-using|Using Quote Management]]
+**Parent Topic:**[Using Quote Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/quote-mgmt-using.md)
 
-## Related
-
-- [[quote-mgmt-using|Using Quote Management]]
-- [[cancel|Cancel]]

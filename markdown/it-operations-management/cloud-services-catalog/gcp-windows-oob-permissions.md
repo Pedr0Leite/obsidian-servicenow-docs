@@ -51,7 +51,7 @@ Provision
 
 </td></tr><tr><td>
 
-Pointed [[r-discovery|discovery]]
+Pointed discovery
 
 </td><td>
 
@@ -207,6 +207,3 @@ Stack Deprovision
 </td></tr></tbody>
 </table>**Parent Topic:**[Google Cloud Platform Windows Out Of Box Catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/google-cloud-platform-windows-out-of-box-catalog-items.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

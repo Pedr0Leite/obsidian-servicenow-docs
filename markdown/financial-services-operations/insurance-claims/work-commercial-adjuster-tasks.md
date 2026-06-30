@@ -14,7 +14,7 @@ breadcrumb: [Adjuster tasks, Use, Commercial Lines Claims, Exploring insurance c
 
 # Work on commercial claim adjuster tasks
 
-Update and close the [[adjuster-tasks-workspace-pers|adjuster tasks]] of a claim case.
+Update and close the adjuster tasks of a claim case.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_ins\_claim\_cml.auto\_adjuster
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the task one of the following ways.
 
@@ -178,7 +178,3 @@ Depending on the current stage of the case:
 
 [View a claim's summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/view-claim-summary.md)
 
-## Related
-
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]
-- [[fso-overview|Financial Services]]

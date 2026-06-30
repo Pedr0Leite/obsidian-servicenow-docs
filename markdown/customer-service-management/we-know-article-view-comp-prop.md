@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Knowledge article view
 
-Component property enables you to configure the behavior of the [[we-know-article-view-comp-overview|Knowledge article view component]] instance on the third-party website.
+Component property enables you to configure the behavior of the Knowledge article view component instance on the third-party website.
 
 |Component property|Description|
 |------------------|-----------|
@@ -38,11 +38,7 @@ Component property enables you to configure the behavior of the [[we-know-articl
 
 [Embed the Knowledge article view component instance on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/embed-know-article-view-comp.md)
 
-[[we-know-article-view-event-handler|Event handler in the Knowledge article view component]]
+[Event handler in the Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-know-article-view-event-handler.md)
 
 [Sample code for the Knowledge article view component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-know-article-view-sample-code.md)
 
-## Related
-
-- [[we-know-article-view-event-handler|Event handler in the Knowledge article view component]]
-- [[we-know-article-view-comp-overview|Knowledge article view component]]

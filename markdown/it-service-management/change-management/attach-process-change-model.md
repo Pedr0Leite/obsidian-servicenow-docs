@@ -21,7 +21,7 @@ This process can be done by using one of the following methods:
 -   ServiceNow® Workflow Studio: See [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md)
 -   Business Rules: See [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md)
 
-[[change-flows|Change flows]] for default Change [[c_Models|models]] are available in Workflow Studio. For more information on default Change flows, see [Change flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-flows.md).
+Change flows for default Change models are available in Workflow Studio. For more information on default Change flows, see [Change flows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/change-flows.md).
 
 ## Evaluating a Change model
 
@@ -37,7 +37,3 @@ You can also evaluate a Change model for a specific Change request using this ev
 
 **Parent Topic:**[Create a Change model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-a-change-model.md)
 
-## Related
-
-- [[change-flows|Change flows]]
-- [[c_Models|Models]]

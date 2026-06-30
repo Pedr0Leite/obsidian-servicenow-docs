@@ -24,7 +24,7 @@ Adding a trigger is optional. If you want your AI agent to be used only in chats
 
 **Note:** Triggers contain instance-specific information. If you are moving AI agents or agentic workflows between instances using Update Sets, you must set the triggers to inactive before adding them to the update sets and then activate them on the new instance.
 
-If you don't want to add a trigger, skip to the final step, [[channels-access-aia|Select channels and access]].
+If you don't want to add a trigger, skip to the final step, [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md).
 
 ## Procedure
 
@@ -70,7 +70,7 @@ Active trigger toggle
 
 </td><td>
 
-Only enable the trigger once you’re confident in the execution of your AI agent. Try testing the [[test-ai-agent|AI agent execution]] and [[test-aia-access|user access]]. To review overall trends over many executions, try an [[execute-aia-eval|automated evaluation]].
+Only enable the trigger once you’re confident in the execution of your AI agent. Try testing the [AI agent execution](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md) and [user access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-aia-access.md). To review overall trends over many executions, try an [automated evaluation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/execute-aia-eval.md).
 
 </td></tr></tbody>
 </table>    \[Omitted image "edit-trigger-2.png"\] Alt text: Define when the trigger occurs section
@@ -89,7 +89,7 @@ Channel
 
 </td><td>
 
-Medium for the AI agent output: [[now-assist-center-now-assist-panel|Now Assist panel]] or Virtual Agent.
+Medium for the AI agent output: Now Assist panel or Virtual Agent.
 
  **Note:** To view the output from a triggered AI agent in the Now Assist panel, you need the now\_assist\_panel\_user role.
 
@@ -123,10 +123,3 @@ You have added triggers to your AI agent to run it automatically under the speci
 
 Select **Save and continue** to move to the final step, [Select channels and access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/channels-access-aia.md).
 
-## Related
-
-- [[channels-access-aia|Select channels and status for an AI agent]]
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[test-aia-access|Test user access to an AI agent]]
-- [[execute-aia-eval|Execute an agentic evaluation run]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

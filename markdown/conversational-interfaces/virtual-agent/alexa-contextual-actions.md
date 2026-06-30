@@ -14,7 +14,7 @@ breadcrumb: [Fine-tune settings and topics, Configure Conversational Integration
 
 # Contextual actions for Alexa
 
-Use the contextual actions supported by [[conv-integ-alexa|Conversational Integration with Alexa]] to receive an appropriate response during custom chat integrations with Alexa.
+Use the contextual actions supported by Conversational Integration with Alexa to receive an appropriate response during custom chat integrations with Alexa.
 
 ## Hi
 
@@ -44,6 +44,3 @@ You can type `restart` or speak this command anywhere in the middle of a convers
 
 **Parent Topic:**[Fine-tune Virtual Agent settings and topics for the best Alexa voice chat experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-settings-for-alexa.md)
 
-## Related
-
-- [[conv-integ-alexa|Conversational Integration with Alexa]]

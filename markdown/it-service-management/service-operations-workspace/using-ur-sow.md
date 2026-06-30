@@ -40,7 +40,7 @@ Universal Request is activated in Service Operations Workspace when you enable t
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -64,6 +64,3 @@ Universal Request is activated in Service Operations Workspace when you enable t
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

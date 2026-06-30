@@ -20,18 +20,18 @@ Reverse the temporary credit issued by the bank to the card holder.
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
-The option to [[fso-ach-dispute-reverse-provisional|reverse provisional credit]] exists when provisional credit was issued to a customer in scenarios such as:
+The option to reverse provisional credit exists when provisional credit was issued to a customer in scenarios such as:
 
 -   During the Investigation stage- During the manual investigation task a determination that a transaction was not fraud.
--   During the [[chargeback-stage|Chargeback stage]]- An issuing bank evaluates the merchant's representment evidence after a chargeback has occurred, and makes the determination to rescind a chargeback.
+-   During the Chargeback stage- An issuing bank evaluates the merchant's representment evidence after a chargeback has occurred, and makes the determination to rescind a chargeback.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -68,9 +68,3 @@ Proceed to [Return funds to merchant](https://raw.githubusercontent.com/ServiceN
 
 **Parent Topic:**[Initiating a chargeback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/initiate-a-chargeback.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-ach-dispute-reverse-provisional|Reverse provisional credit]]
-- [[chargeback-stage|chargeback stage]]
-- [[fso-overview|Financial Services]]

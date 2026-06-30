@@ -14,9 +14,9 @@ breadcrumb: [Old Inbound integrations experience, OAuth Inbound, OAuth authentic
 
 # Configure client type for OAuth and SSO records
 
-Configure the **Client Type** field for [[oauth-inbound-and-outbound|OAuth]] and SSO record related configurations.
+Configure the **Client Type** field for OAuth and SSO record related configurations.
 
-When establishing sessions for various login types such as Web UI \(interactive login\), Iframe Embedded, Embedded or Integration, you can configure the client type for the OIDC \(OAuth Entity\), [[c_SAML2.0WebBrowserSSOProfile|SAML]], and Digest records that are used for various login.
+When establishing sessions for various login types such as Web UI \(interactive login\), Iframe Embedded, Embedded or Integration, you can configure the client type for the OIDC \(OAuth Entity\), SAML, and Digest records that are used for various login.
 
 The client type choices are as follows:
 
@@ -32,24 +32,15 @@ The client type choices are as follows:
 
 It is recommended to use client type field to every records created for OIDC \(OAuth Entity\), SAML, and Digest. This enables you to have a better control over each login methods that has the same configurations but distinguished with the client type.
 
-After configuring the field, whenever a user [[logs|logs]] in from the corresponding [[sc-configuration|configuration]] \(OAuth or SSO\), once the [[c_Authentication|authentication]] is successful, the session is considered based on the configured client type and accordingly the session timeout is leveraged.
+After configuring the field, whenever a user logs in from the corresponding configuration \(OAuth or SSO\), once the authentication is successful, the session is considered based on the configured client type and accordingly the session timeout is leveraged.
 
-For the current session, the corresponding security attribute are included or can be leveraged to prevent [[users|users]] from accessing table specific information within the selected client type. For more information, see [OOB \(Out-of-Box\) Security Attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/oob-security-attributes.md).
+For the current session, the corresponding security attribute are included or can be leveraged to prevent users from accessing table specific information within the selected client type. For more information, see [OOB \(Out-of-Box\) Security Attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/access-control/oob-security-attributes.md).
 
 ## Session time out for the Client Types
 
-Following are the [[ca-system-properties|system properties]] related to session time out for the various client types:
+Following are the system properties related to session time out for the various client types:
 
 -   `glide.session_timeout.iframe_embedded`
 -   `glide.session_timeout.integration_as_a_user`
 -   `glide.session_timeout.integration_as_a_service`
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[logs|Logs]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[ca-system-properties|System properties]]

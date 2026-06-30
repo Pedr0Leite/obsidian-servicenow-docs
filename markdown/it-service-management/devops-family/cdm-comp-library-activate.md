@@ -18,7 +18,7 @@ Activate a component library to make all of its shared components available for 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_admin
 
@@ -30,7 +30,7 @@ A library can be in the Unavailable state in the following situations:
 -   When a library and its components are being created
 -   When a newer version of the library is being created
 
-If a library is unavailable, no component within that library can be used, updated, or exported. However, it does not impact [[dex-workspace-application-tab|applications]] that are already using components within this library.
+If a library is unavailable, no component within that library can be used, updated, or exported. However, it does not impact applications that are already using components within this library.
 
 When the library is ready for use, you can activate it.
 
@@ -50,7 +50,3 @@ When the library is ready for use, you can activate it.
 -   The library and the shared components in it become available for use.
 -   The status of the library is set as Available.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

@@ -75,7 +75,7 @@ Choose File
 Allows you to download an Excel template, and then upload the Excel file with user information using the specified template.**Note:**
 
 -   This field is available only if the **Method** is `Upload File`.
--   The templates vary based on the entity selected in the **Type** field. For accounts, the template includes columns for sys\_id and account number values. For contacts, consumers, and internal users, the template includes columns for sys\_id and [[email|email]] values.
+-   The templates vary based on the entity selected in the **Type** field. For accounts, the template includes columns for sys\_id and account number values. For contacts, consumers, and internal users, the template includes columns for sys\_id and email values.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Script
 
 </td><td>
 
-Script to create the recipients list.**Note:** This field is available only if the **Method** is `Dynamic Condition` and the **Show Script** [[check-box|check box]] is selected.
+Script to create the recipients list.**Note:** This field is available only if the **Method** is `Dynamic Condition` and the **Show Script** check box is selected.
 
 </td></tr><tr><td>
 
@@ -118,18 +118,12 @@ Conditions
 Condition builder to create the recipients list based on the specified table and user field. A condition is made up of a selected field, an operator, and a value. Add conditions using the AND and OR buttons. Delete conditions by clicking the Delete button to the right of a condition.**Note:** This field is available only if the **Method** is `Dynamic Condition`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
 **Related topics**  
 
 
-[[define-recipient-list|Define a recipients list for surveys]]
+[Define a recipients list for surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/define-recipient-list.md)
 
 [Create a recipients list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_TargetCommCreateRecipientList.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[define-recipient-list|Define a recipients list for surveys]]
-- [[email|Email]]
-- [[check-box|Check box]]

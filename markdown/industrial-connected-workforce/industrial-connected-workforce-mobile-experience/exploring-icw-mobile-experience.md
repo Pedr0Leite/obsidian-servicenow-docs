@@ -14,7 +14,7 @@ breadcrumb: [Industrial Connected Workforce Mobile Experience, Industrial Connec
 
 # Exploring Industrial Connected Workforce Mobile Experience
 
-The [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]] enables shop floor operators to execute tasks, request standards, and access knowledge within their organization through mobile devices.
+The Industrial Connected Workforce Mobile Experience enables shop floor operators to execute tasks, request standards, and access knowledge within their organization through mobile devices.
 
 ## Industrial Connected Workforce Mobile Experience overview
 
@@ -139,8 +139,8 @@ Shows inactive tasks in the user's functional location that were deactivated wit
 
  Within an individual task record, excluding guided tasks, the **Related** tab contains two tabs:
 
--   The **Related** tab displays all follow-up tasks that originate from the current task. You can complete the current task without completing its related tasks. From this tab, you can [[create-industrial-deviation|create a deviation]], [[create-follow-up-action|create a follow-up action]], or start a [[industrial-root-cause-analysis|root cause analysis]].
--   The **Tasks** tab displays all child tasks created from the current task. All child tasks must be completed before you can complete the parent task. From this tab, you can [[create-industrial-action|create an action]] \(another child task\).
+-   The **Related** tab displays all follow-up tasks that originate from the current task. You can complete the current task without completing its related tasks. From this tab, you can create a deviation, create a follow-up action, or start a root cause analysis.
+-   The **Tasks** tab displays all child tasks created from the current task. All child tasks must be completed before you can complete the parent task. From this tab, you can create an action \(another child task\).
 
 </td><td>
 
@@ -156,7 +156,7 @@ Operators
 The Industrial Connected Workforce Mobile Experience gives operators a single place to manage work, report issues, and access knowledge. It supports quick decisions, accurate task execution, and better communication on the shop floor. The app includes offline access, QR and bar code scanner integration in guided task execution, AI-driven search, and standards integration. These features help keep operations moving without interruptions.
 
 -   **[Standards hub in the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/standards-hub-mobile.md)**  
-The [[industrial-standards-library|Industrial Standards Library]] or [[standards-hub-mobile|Standards hub in the Industrial Connected Workforce Mobile Experience]] is a collection of published standards and knowledge articles available within your organization.
+The Industrial Standards Library or Standards hub in the Industrial Connected Workforce Mobile Experience is a collection of published standards and knowledge articles available within your organization.
 -   **[AI Search in Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
 Access the AI Search for Industrial Connected Workforce Mobile Experience by using the search bar on the home page. The system interprets queries to return the most relevant results across configured record types, such as standards, tasks, and knowledge articles.
 -   **[Recommended Actions in the Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/recommended-actions-icw-mobile-experience.md)**  
@@ -164,12 +164,3 @@ The Recommended Actions feature in Industrial Connected Workforce Mobile Experie
 
 **Parent Topic:**[Industrial Connected Workforce Mobile Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/industrial-connected-workforce-mobile-experience/icw-mobile-exp-landing-page.md)
 
-## Related
-
-- [[icw-mobile-exp-landing-page|Industrial Connected Workforce Mobile Experience]]
-- [[create-industrial-deviation|Create a deviation]]
-- [[create-follow-up-action|Create a follow-up action]]
-- [[industrial-root-cause-analysis|Root Cause Analysis]]
-- [[create-industrial-action|Create an action]]
-- [[industrial-standards-library|Industrial Standards Library]]
-- [[standards-hub-mobile|Standards hub in the Industrial Connected Workforce Mobile Experience]]

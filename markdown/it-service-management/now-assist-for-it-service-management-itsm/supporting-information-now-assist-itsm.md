@@ -15,16 +15,16 @@ breadcrumb: [Explore, Now Assist for IT Service Management \(ITSM\), IT Service 
 
 # Supporting information for Now Assist for IT Service Management \(ITSM\)
 
-Get a quick overview of the important information that is related to the [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]] application.
+Get a quick overview of the important information that is related to the Now Assist for IT Service Management \(ITSM\) application.
 
 ## Supported versions
 
 -   For Core UI: Starting with Vancouver Patch 2
--   For [[sow-landing-page|Service Operations Workspace for ITSM]]: Starting with version 6.0.0
+-   For Service Operations Workspace for ITSM: Starting with version 6.0.0
 
 ## Supported language models for all Now Assist for ITSM skills and AI agents
 
-You can use Now LLM Service, Now LLM Long Term Stable [[c_Models|models]] \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
+You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure OpenAI, Google Gemini or Anthropic Claude on AWS as the AI model provider for all Now Assist skills and AI agents. Use the Configuration Controls in [AI Control Tower](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-model-providers.md) to define which options are available, then set the skill-level preferences in the [Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/manage-large-language-models.md). For more information, see [Large language models on the ServiceNow AI Platform®](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/exploring-large-language-models.md).
 
 ## Role masking for Now Assist for ITSM agentic workflows, AI agents, and skills
 
@@ -84,7 +84,7 @@ Service Operations Workspace for ITSM
 -   Change request risk explanation
 -   Incident assist
 -   Email reply recommendation
--   Major [[c_IncidentManagement|Incident Management]] email content recommendation
+-   Major Incident Management email content recommendation
 
 </td></tr><tr><td>
 
@@ -105,9 +105,3 @@ Core UI
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Now Assist for IT Service Management \(ITSM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/now-assist-for-it-service-management-itsm/exploring-now-assist-itsm.md)
 
-## Related
-
-- [[now-assist-itsm|Now Assist for IT Service Management \(ITSM\)]]
-- [[sow-landing-page|Service Operations Workspace for ITSM]]
-- [[c_Models|Models]]
-- [[c_IncidentManagement|Incident Management]]

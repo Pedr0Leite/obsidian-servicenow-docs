@@ -11,7 +11,7 @@ reading_time_minutes: 2
 
 # Field Service Management
 
-The ServiceNow® Field Service Management application enables you to [[c_ManageWorkOrders|manage work orders]] and related tasks, resources, skills, assets, and locations. Use this application to dispatch work order tasks and agents to the customer location for performing any kind of field work, such as install, repair, or maintain equipment.
+The ServiceNow® Field Service Management application enables you to manage work orders and related tasks, resources, skills, assets, and locations. Use this application to dispatch work order tasks and agents to the customer location for performing any kind of field work, such as install, repair, or maintain equipment.
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -57,9 +57,5 @@ The ServiceNow® Field Service Management application enables you to [[c_ManageW
 -   Connect with other Field Service Management users in the [FSM community forum](https://www.servicenow.com/community/field-service-management-forum/bd-p/field-service-management-forum).
 -   Work with an implementation specialist to streamline your Field Service Management setup process. To learn more, see the [Customer Success Center](https://www.servicenow.com/success.html).
 -   Sign up for the [ServiceNow Field Service Management training program and certification](https://www.servicenow.com/services/training-and-certification.html) to learn about core Field Service Management functionality and release-specific features.
--   For information on how to begin setting up Field Service Management, see [[configure-fsm|Configuring Field Service Management]].
+-   For information on how to begin setting up Field Service Management, see [Configuring Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configure-fsm.md).
 
-## Related
-
-- [[configure-fsm|Configuring Field Service Management]]
-- [[c_ManageWorkOrders|Manage work orders]]

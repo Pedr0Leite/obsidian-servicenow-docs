@@ -14,7 +14,7 @@ breadcrumb: [Regulatory Change Management Core UI, Use, Regulatory Change Manage
 
 # Source document import tasks
 
-The [[reg-change-mgmt-landing-page|Regulatory Change Management]] application processes the alerts that are externally sourced. Source document import tasks are automatically created whenever a source document alert record is marked as applicable. The source document can refer to the legislative and regulatory materials.
+The Regulatory Change Management application processes the alerts that are externally sourced. Source document import tasks are automatically created whenever a source document alert record is marked as applicable. The source document can refer to the legislative and regulatory materials.
 
 When a source document type of regulatory alert is received, it provides the citation title and the number of the citation. The citation may already be available in the GRC library or it can be a newly created citation. Each alert record contains metadata about the source document that helps the key stakeholders to import the record into the regulatory library. The metadata includes the citation name and other information.
 
@@ -32,11 +32,7 @@ Users can view the import document task in the Ready to Import state, evaluate t
 -   **[Users, associated actions, and states for the source document import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/import-doc-tasks-users-actions.md)**  
 Managers with the sn\_grc\_reg\_change.manager role and the users with the sn\_grc\_reg\_change.user, or sn\_grc\_reg\_change.admin role can view and perform certain actions on the source document import tasks.
 -   **[Manage the source document import tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/manage-source-document-import-tasks.md)**  
-Manage the source document tasks, the associated source document alerts, and other relevant details in the [[reg-change-task|Regulatory Change Tasks]] module. Use these tasks to identify and comply with the source document changes.
+Manage the source document tasks, the associated source document alerts, and other relevant details in the Regulatory Change Tasks module. Use these tasks to identify and comply with the source document changes.
 
 **Parent Topic:**[Regulatory Change Management Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/using-rcm-classic-ui.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[reg-change-task|Regulatory change tasks]]

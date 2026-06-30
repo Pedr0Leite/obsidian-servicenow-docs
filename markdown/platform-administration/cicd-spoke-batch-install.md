@@ -21,7 +21,7 @@ When managing many types of applications, it can be a challenge to have separate
 A batch can contain any combination of the following types:
 
 -   A ServiceNow plugin
--   Application: Scoped applications in the [[servicenow-store|ServiceNow Store]] that your company doesn't own, scoped or global applications in the Application Repository owned by your company, and your application-customizations for Store applications stored in the Application Repository.
+-   Application: Scoped applications in the ServiceNow Store that your company doesn't own, scoped or global applications in the Application Repository owned by your company, and your application-customizations for Store applications stored in the Application Repository.
 
 ## Batch installation methods
 
@@ -29,9 +29,5 @@ For details on installing applications in a batch via the REST API see [Continuo
 
 For details on installing applications in a batch with the [Flow Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/flow-designer.md) application, see [Continuous Integration and Continuous Delivery \(CICD\) spoke](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/cicd-spoke.md).
 
-**Parent Topic:**[[using-legacy-application-manager|Using Legacy Application Manager]]
+**Parent Topic:**[Using Legacy Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/using-legacy-application-manager.md)
 
-## Related
-
-- [[using-legacy-application-manager|Using Legacy Application Manager]]
-- [[servicenow-store|ServiceNow Store]]

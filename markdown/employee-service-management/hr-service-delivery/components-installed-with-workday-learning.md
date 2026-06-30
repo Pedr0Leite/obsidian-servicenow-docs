@@ -14,7 +14,7 @@ breadcrumb: [Reference, HR Service Delivery Integration with Workday Learning, I
 
 # Components installed with workday learning
 
-Several types of components are installed with activation of the [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]] \(sn\_lrn\_workday\) application, including tables and user roles.
+Several types of components are installed with activation of the HR Service Delivery Integration with Workday Learning \(sn\_lrn\_workday\) application, including tables and user roles.
 
 ## Roles installed
 
@@ -32,13 +32,13 @@ Contains roles
 
 </th></tr></thead><tbody><tr><td>
 
-HR Workday [[exploring-learning-exp|Learning]] Admin\[sn\_lrn\_workday.admin\]
+HR Workday Learning Admin\[sn\_lrn\_workday.admin\]
 
 </td><td>
 
 -   Can access all features and capabilities of the HR Service Delivery Integration with Workday Learning application.
 
--   Can [[config-w-sync|configure worker profile settings]].
+-   Can configure worker profile settings.
 
 </td><td>
 
@@ -112,16 +112,9 @@ Fetches all the active skills from Workday Learning.
 **Related topics**  
 
 
-[Edit a record in [[w-integration|HR Service Delivery Integration with Workday]] Learning]()
+[Edit a record in HR Service Delivery Integration with Workday Learning]()
 
 [Workday learning todos staging form]()
 
-[Workday learning user course [[activity-lxp|activity]] staging form]()
+[Workday learning user course activity staging form]()
 
-## Related
-
-- [[hr-integration-with-workday-learning|HR Service Delivery Integration with Workday Learning]]
-- [[exploring-learning-exp|Learning]]
-- [[config-w-sync|Configure worker profile settings]]
-- [[w-integration|HR Service Delivery Integration with Workday]]
-- [[activity-lxp|Activity]]

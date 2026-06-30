@@ -14,7 +14,7 @@ breadcrumb: [Manage Walk-up Experience queue and interaction, Walk-up Experience
 
 # View Walk-up Experience location stockroom and assets
 
-Agent supporting [[walkup-experience-landing-page|Walk-up Experience]] locations can view and access stockrooms to provide commonly requested hardware and software assets for walk-up queue guests. Stockroom inventory is defined by asset and inventory managers. Walk-up location agents can monitor inventory and alert asset and inventory managers when additional consumables are needed.
+Agent supporting Walk-up Experience locations can view and access stockrooms to provide commonly requested hardware and software assets for walk-up queue guests. Stockroom inventory is defined by asset and inventory managers. Walk-up location agents can monitor inventory and alert asset and inventory managers when additional consumables are needed.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ Walk-up Experience agents can access an associated stockroom and fulfill user re
 
 [Use platform view to fulfill a Walk-up Experience request from a stockroom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/fulfill-walkup-stockroom-request.md)
 
-## Related
-
-- [[walkup-experience-landing-page|Walk-up Experience]]

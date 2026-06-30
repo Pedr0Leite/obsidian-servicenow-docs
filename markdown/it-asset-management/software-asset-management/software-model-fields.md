@@ -16,11 +16,11 @@ breadcrumb: [Software Asset Management references, Software Asset Management, IT
 
 Software Model form and related list field descriptions.
 
-After you fill a software entitlement with the correct PPN, a software model is automatically created. The tabs on the Software Model form, such as Suite Components, Suite Parents, Software Product Lifecycles, Metric Attributes, [[downgrade-rights|Downgrade Rights]], Product Lifecycles for all Versions, and so on, are populated automatically. However, you can manually add or update the software model details based on your requirements.
+After you fill a software entitlement with the correct PPN, a software model is automatically created. The tabs on the Software Model form, such as Suite Components, Suite Parents, Software Product Lifecycles, Metric Attributes, Downgrade Rights, Product Lifecycles for all Versions, and so on, are populated automatically. However, you can manually add or update the software model details based on your requirements.
 
 ## Details tab
 
-This list shows the details of a software model such as the status of the model, product details, licensing, conditions, and [[c_ProductCatalog|product catalog]] information.
+This list shows the details of a software model such as the status of the model, product details, licensing, conditions, and product catalog information.
 
 <table id="table_isl_g4z_4hb"><thead><tr><th>
 
@@ -66,7 +66,7 @@ Product
 
 </td><td>
 
-Software product name. The same lookup list provided on the [[sam-software-discovery|Software Discovery]] [[c_Models|Models]] form. You can create a custom product from the lookup list, if desired.**Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] and company \[core\_company\] tables isn’t correct, products for that publisher may not be shown.
+Software product name. The same lookup list provided on the Software Discovery Models form. You can create a custom product from the lookup list, if desired.**Note:** If the relationship between the software publisher \[samp\_sw\_publisher\] and company \[core\_company\] tables isn’t correct, products for that publisher may not be shown.
 
  If the publisher and product don’t exist, you can [Add a custom software product in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_AddACustomProduct.md).
 
@@ -114,7 +114,7 @@ Discovery map
 
 </td><td>
 
-A set of conditions that determine which software discovery models get mapped to the [[c_CreatingSoftwareModels|software models]]. Purchased rights are only applied to software discovery models that meet the condition. This matching is important for reconciliation. Discovery models with predefined suites are indicated in the **Suite defined** field. A value of **Yes** indicates that the discovery model is a suite parent.
+A set of conditions that determine which software discovery models get mapped to the software models. Purchased rights are only applied to software discovery models that meet the condition. This matching is important for reconciliation. Discovery models with predefined suites are indicated in the **Suite defined** field. A value of **Yes** indicates that the discovery model is a suite parent.
 
 You can use the discovery maps provided, or you can choose to specify the condition information directly instead. A user with the sam\_admin role can choose to create a custom discovery map.
 
@@ -126,7 +126,7 @@ When you select a discovery map, you may encounter a message: `Many underlying s
 
  **Note:** If you change the discovery map in an existing software model, a warning message appears. The warning message informs you that the downgrade rights on the software model and on the related entitlements also change. For example, if you change the discovery map on a software model from DMAP1 to DMAP2, and save the software model, then all the downgrade rights associated with DMAP1 are removed from the software model and the downgrade rights associated with DMAP2 are populated. However, if the value in the **Agreement type** field in the Software Entitlement form layout is **Generic**, the downgrade rights for that entitlement don't change.
 
- You can verify which discovery models get mapped to the software model by selecting the **Show Matching Discovery Models** related link in [[c_SoftwareAssetMgmt|Software Asset Management]] classic. View the same results in the [[sam-workspace|Software Asset Workspace]], by navigating to **License operations** &gt; **Licensing** &gt; **Software models**. Select a software model and then select the **Matching Discovery Models** related list.
+ You can verify which discovery models get mapped to the software model by selecting the **Show Matching Discovery Models** related link in Software Asset Management classic. View the same results in the Software Asset Workspace, by navigating to **License operations** &gt; **Licensing** &gt; **Software models**. Select a software model and then select the **Matching Discovery Models** related list.
 
 If the **Publisher** and **Product** fields are empty, the values are automatically populated according to the discovery map.
 
@@ -1069,7 +1069,7 @@ Attribute value is unlimited
 Option for setting the attribute as unlimited.
 
 </td></tr></tbody>
-</table>## [[c_ManageVendorCatalogItems|Vendor Catalog Items]] tab
+</table>## Vendor Catalog Items tab
 
 This list shows you the details of the software models associated with a vendor. For more information, see [Vendor catalog items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/product-catalog/c_ManageVendorCatalogItems.md).
 
@@ -1126,7 +1126,7 @@ Type of CAL that is associated with the client access record.-   **User CAL**: L
 -   **Reserved Hourly Average Sensor**: This metric counts the number of unique active endpoints per clock-hour and averages them over a rolling 28-day period. The count of Reserved Hourly Average Sensor Licenses resets at the start of each clock-hour.
 -   **Sensor Subscription**: This metric calculates license usage by averaging endpoint counts over four consecutive weeks. Weekly endpoint counts are based on the total number of endpoints consumed in the previous seven days.
 
-**Note:** The Reserved Hourly Average Sensor and Sensor Subscription license metrics are applicable only for CrowdStrike and are available with Yokohama Patch 1, Software Asset Management - [[sam-subscription-management|SaaS License Management]] \(sn\_sam\_saas\_int\) 15.0.8, and Software Asset Management \(sn\_itam\_samp\) 2.1.0 version onwards. If you are on any version for Yokohama below Patch 1, refer [KB1801232](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=ef634dac83935610cdbbc430feaad3d9).
+**Note:** The Reserved Hourly Average Sensor and Sensor Subscription license metrics are applicable only for CrowdStrike and are available with Yokohama Patch 1, Software Asset Management - SaaS License Management \(sn\_sam\_saas\_int\) 15.0.8, and Software Asset Management \(sn\_itam\_samp\) 2.1.0 version onwards. If you are on any version for Yokohama below Patch 1, refer [KB1801232](https://support.servicenow.com/kb?id=kb_article_view&sys_kb_id=ef634dac83935610cdbbc430feaad3d9).
 
 </td></tr><tr><td>
 
@@ -1557,14 +1557,3 @@ Entitlement condition defined to apply the group user allocation on the filtered
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[downgrade-rights|Downgrade Rights]]
-- [[c_ProductCatalog|Product Catalog]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_ManageVendorCatalogItems|Vendor catalog items]]
-- [[sam-subscription-management|SaaS License Management]]

@@ -39,7 +39,7 @@ execute
 
 </td><td>
 
-Enables [[users|users]] to execute client callable script includes and REST endpoint execution.
+Enables users to execute client callable script includes and REST endpoint execution.
 
 </td></tr><tr><td>
 
@@ -111,7 +111,7 @@ edit\_ci\_relations
 
 </td><td>
 
-Enables users to extend the [[sc-configuration|Configuration]] Item \[cmdb\_ci\] table.
+Enables users to extend the Configuration Item \[cmdb\_ci\] table.
 
 </td></tr><tr><td>
 
@@ -186,7 +186,7 @@ This processing order ensures that users gain access to more specific objects be
 
 Processor ACL rules specify the processor you want to secure. For a list of available processors, navigate to **System Definition** &gt; **Processors**.
 
-By default, an ACL rule for the EmailClientProcessor is included to restrict the [[email|email]] client to users with the itil role.
+By default, an ACL rule for the EmailClientProcessor is included to restrict the email client to users with the itil role.
 
 Processor ACL rules honor the STAR \(\*\) rule if they cannot find a more specific ACL for those resources.
 
@@ -241,8 +241,3 @@ The base system does not include any ACL rules for client-callable script includ
 
 Client-callable script include ACL rules honor the STAR \(\*\) rule if they cannot find a more specific ACL for those resources.
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[email|Email]]

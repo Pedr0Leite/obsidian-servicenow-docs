@@ -14,7 +14,7 @@ breadcrumb: [Test Management 2.0, Test Management applications, Strategic Portfo
 
 # Quick start tests for Test Management 2.0
 
-Validate that [[test-management2-landing-page|Test Management 2.0]] still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that Test Management 2.0 still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Test Management 2.0 quick start tests require activating the Test Management 2.0 plugin \(com.snc.test\_management.2.0\). and the Test Management 2.0 - ATF Tests plugin \(com.snc.test\_management.2.0.atf\).
 
@@ -36,7 +36,3 @@ Test Management 2.0 quick start tests require activating the Test Management 2.0
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_Tests|Tests]]

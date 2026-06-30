@@ -24,15 +24,15 @@ For example:
 
 -   **incident.commented**
 
-    An event triggered when a user comments on an article, used by two incidents commented email [[notifications|notifications]].
+    An event triggered when a user comments on an article, used by two incidents commented email notifications.
 
 -   **Inactivity Monitors**
 
     If a record has not been updated for a defined length of time, an inactivity monitor triggers an event.
 
--   **[[r_ScriptActions|Script Actions]]**
+-   **Script Actions**
 
-    Scripts that trigger when an event is recorded in the log. You can set scripts to execute whenever a particular activity occurs in the platform, rather than at a particular time, such as [[c_ScheduledJobs|scheduled jobs]], or in response to particular conditions, such as [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md).
+    Scripts that trigger when an event is recorded in the log. You can set scripts to execute whenever a particular activity occurs in the platform, rather than at a particular time, such as scheduled jobs, or in response to particular conditions, such as [Business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/c_BusinessRules.md).
 
 -   **Notifications**
 
@@ -46,8 +46,3 @@ For example:
 
 [Set an inactivity monitor]()
 
-## Related
-
-- [[notifications|Notifications]]
-- [[r_ScriptActions|Script actions]]
-- [[c_ScheduledJobs|Scheduled jobs]]

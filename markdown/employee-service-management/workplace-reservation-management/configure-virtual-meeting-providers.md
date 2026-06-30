@@ -18,7 +18,7 @@ Enable employees to provide a virtual meeting link with their reservation. Confi
 
 ## Before you begin
 
-The [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application provides the **Template** virtual meeting provider by default. The following virtual meeting providers are also supported if they are configured:
+The Workplace Reservation Management application provides the **Template** virtual meeting provider by default. The following virtual meeting providers are also supported if they are configured:
 
 -   Microsoft Teams: Refer to [Connect Workplace Reservation Management with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mgmt-with-teams.md). Microsoft Teams.
 -   Zoom: To use Zoom, you must have a Zoom user account. Refer to [Connect Workplace Reservation Management with Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/connect-rsv-mtm-with-zoom.md).
@@ -132,6 +132,3 @@ For the meeting link to appear as above, the following plugin versions are requi
 
 [Configure reservation multi-day settings in Reservable Module]()
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

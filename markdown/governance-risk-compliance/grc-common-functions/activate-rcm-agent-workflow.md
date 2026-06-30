@@ -15,7 +15,7 @@ breadcrumb: [Configure, Now Assist, Common GRC features, Governance, Risk, and C
 
 # Activate the get regulatory analysis agentic workflow
 
-Configure and activate the get regulatory analysis agentic workflow that uses AI agents to enrich [[list-view-of-reg-alerts|regulatory alerts]] with external context, classification, summarization, and recommended potential impacted items.
+Configure and activate the get regulatory analysis agentic workflow that uses AI agents to enrich regulatory alerts with external context, classification, summarization, and recommended potential impacted items.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_nowassist\_admin.nsa\_admin or sn\_aia.admin
 
 **Important:** This agentic workflow is active by default. All fields are read-only except for the Triggers and Channels and status sections. To modify other fields, clone the workflow. Currently, you can't edit agent prompts or provide feedback for training.
 
-If you have the RCM user \[sn\_grc\_reg\_change.user\] role and the sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user role, you can get regulatory analysis using the [[rcm-agent-insights-workflow|get regulatory analysis agentic workflow]] in the Now Assist panel.
+If you have the RCM user \[sn\_grc\_reg\_change.user\] role and the sn\_grc\_comp\_genai.reg\_change\_ai\_agent\_user role, you can get regulatory analysis using the get regulatory analysis agentic workflow in the Now Assist panel.
 
 This workflow uses web search to enhance alert context, summarizes the alert, and recommends potential impacts on citations, policies, and control objectives to support faster and more accurate compliance decisions. The regulatory alert must be in the New or In Progress state to generate analysis.
 
@@ -52,7 +52,7 @@ You can perform the following actions on Now Assist workflows if you have the sn
     |Field|Description|
     |-----|-----------|
     |Workflow Name|Get regulatory analysis.|
-    |Workflow description|The get regulatory analysis agentic workflow assists [[reg-change-mgmt-landing-page|regulatory change management]] professionals by analyzing regulatory alerts, enriching them with relevant contextual data, and recommending potential impacts on internal Citations, Policies, Control objectives, and so on. This workflow streamlines the review process, enabling faster and more accurate decision-making to maintain compliance with evolving regulatory requirements.|
+    |Workflow description|The get regulatory analysis agentic workflow assists regulatory change management professionals by analyzing regulatory alerts, enriching them with relevant contextual data, and recommending potential impacts on internal Citations, Policies, Control objectives, and so on. This workflow streamlines the review process, enabling faster and more accurate decision-making to maintain compliance with evolving regulatory requirements.|
     |List of steps|Instructions for the LLM service.|
 
 <table id="id_o2v_k4c_cfd"><thead><tr><th>
@@ -201,8 +201,3 @@ After confirming the workflow performs as expected, you can get started by selec
 
 If you have not already set up the Now Assist panel, for more information see, [Activate the Now Assist panel standard chat](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/activate-now-assist-panel.md).
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[rcm-agent-insights-workflow|Get regulatory analysis agentic workflow]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

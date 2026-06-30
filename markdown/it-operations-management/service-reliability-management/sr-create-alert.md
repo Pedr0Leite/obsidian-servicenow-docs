@@ -22,9 +22,9 @@ Role required: srm\_admin, srm\_manager, or srm\_responder
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-    You're taken to your [[sr-home-page|SRM Home page]].
+    You're taken to your SRM Home page.
 
     **Note:** If you use other Service Operations Workspace \(SOW\) applications, you may see the SOW Home page instead of the SRM Home page. The SOW Home page includes SRM alerts and incidents in its metrics.
 
@@ -160,7 +160,7 @@ Enter relevant processing information.
 </td></tr></tbody>
 </table>6.  Select **Trigger**.
 
-    [[sr-landing-page|Service Reliability Management]] \(SRM\) creates an event to generate the alert. Refresh the screen to see the event processing results.
+    Service Reliability Management \(SRM\) creates an event to generate the alert. Refresh the screen to see the event processing results.
 
     Express List automatically displays your alert. If enabled, SRM triggers the applicable automations and on-call escalation workflows.
 
@@ -175,8 +175,3 @@ Consider making the following optional adjustments to your alert for testing pur
 
 **Parent Topic:**[Working with alerts in SRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/sr-work-alerts-expresslist.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[sr-home-page|SRM Home page]]
-- [[sr-landing-page|Service Reliability Management]]

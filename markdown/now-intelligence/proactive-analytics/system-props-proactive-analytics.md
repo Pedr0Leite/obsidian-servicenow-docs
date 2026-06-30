@@ -85,13 +85,9 @@ com.snc.pa.xmr.processes.limit
 
 </td><td>
 
-The maximum number of [[process-behavior-charts-for-kpis|KPI Signals]] Configurations \(pa\_xmr\_processes\) that can be evaluated by the KPI Signals Insight Job. After this number of processes have been evaluated, the remaining processes are ignored.-   Type: Integer
+The maximum number of KPI Signals Configurations \(pa\_xmr\_processes\) that can be evaluated by the KPI Signals Insight Job. After this number of processes have been evaluated, the remaining processes are ignored.-   Type: Integer
 -   Default: 1000
 -   Maximum: 10,000
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[process-behavior-charts-for-kpis|KPI Signals]]

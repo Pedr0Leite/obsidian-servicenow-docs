@@ -12,7 +12,7 @@ breadcrumb: [Getting started with MISP integration for Security Operations, MISP
 
 # MISP user roles and permissions
 
-Review the user roles that are required in the [[misp-integration-for-security-operations|MISP integration for Security Operations]] integration.
+Review the user roles that are required in the MISP integration for Security Operations integration.
 
 |MISP capability|Tagger|Tag editor|
 |---------------|------|----------|
@@ -31,9 +31,5 @@ Review the user roles that are required in the [[misp-integration-for-security-o
 |Add New Attribute to event|✓|✓|
 |Create Event in MISP|✓|✓|
 
-**Parent Topic:**[[get-started-with-misp-integration-for-security-operations|Getting started with MISP integration for Security Operations]]
+**Parent Topic:**[Getting started with MISP integration for Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/get-started-with-misp-integration-for-security-operations.md)
 
-## Related
-
-- [[get-started-with-misp-integration-for-security-operations|Getting started with MISP integration for Security Operations]]
-- [[misp-integration-for-security-operations|MISP integration for Security Operations]]

@@ -14,7 +14,7 @@ breadcrumb: [Third-party Risk Management, Governance, Risk, and Compliance]
 
 # Assessing your third-party risk
 
-Use Third-party Risk Management to identify and assess potential risks that are associated with your third-party relationships. The information gathered from internal questionnaires, external questionnaires, and documentation requests helps you to understand the third party's [[tprm-risk-profile-what-is|risk profile]], determine the appropriate risk mitigation strategies, and determine whether the third party or engagement meets all necessary compliance requirements.
+Use Third-party Risk Management to identify and assess potential risks that are associated with your third-party relationships. The information gathered from internal questionnaires, external questionnaires, and documentation requests helps you to understand the third party's risk profile, determine the appropriate risk mitigation strategies, and determine whether the third party or engagement meets all necessary compliance requirements.
 
 ## Responding to questionnaires
 
@@ -24,7 +24,7 @@ The following processes outline the timing and methods for responding to interna
 
     The following infographic shows the IRQ process.
 
-    \[Omitted image "mmasset0020741-IRQ-process-landing.png"\] Alt text: Infographic that shows the IRQ process in the [[tprm-workflow-in-workspace|due diligence workflow]]. For the text description, refer to the process steps that follows.
+    \[Omitted image "mmasset0020741-IRQ-process-landing.png"\] Alt text: Infographic that shows the IRQ process in the due diligence workflow. For the text description, refer to the process steps that follows.
 
     The following are the steps of the IRQ process.
 
@@ -34,7 +34,7 @@ The following processes outline the timing and methods for responding to interna
     4.  After the IRQ assessor submits their responses and the TPR manager or owner reviews and closes the IRQ, the due diligence request state updates from IRQ in progress to IRQ in review.
     **Note:** Don’t change a questionnaire template after it has been sent out as part of an internal assessment. Instead, duplicate the template by making a copy and make your changes in the new copy. If you update a questionnaire after it has been sent out, the changes won't appear in the version shown to the IRQ assessor. To send an updated version, you must cancel the existing questionnaire by deassociating it from the internal assessment and then add the questionnaire using the updated template. For more information, see [Create a questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-questionnaire-template.md), [Create a questionnaire or document request template using the Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-question-template.md), [Create a TPRM SAE questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-sae-q-template.md).
 
-    Based on the information gathered, the TPR manager and their team assess the potential risks that are associated with the engagement. They evaluate [[factors|factors]] such as the financial stability, the operational capacity, the adherence to quality standards, the compliance with regulations, and the third party's ability to meet delivery timelines. This assessment helps the team to understand the third party's risk profile and to determine the appropriate risk mitigation strategies.
+    Based on the information gathered, the TPR manager and their team assess the potential risks that are associated with the engagement. They evaluate factors such as the financial stability, the operational capacity, the adherence to quality standards, the compliance with regulations, and the third party's ability to meet delivery timelines. This assessment helps the team to understand the third party's risk profile and to determine the appropriate risk mitigation strategies.
 
     For more information about IRQs or internal assessments, see [Create an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-create-int-assessment.md) and [Respond to an internal assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-irq-respond-to.md).
 
@@ -71,14 +71,14 @@ The following processes outline the timing and methods for responding to interna
         **Note:**
 
         -   If you completed the optional TP element collection process, a questionnaire must be selected and assigned as part of an assessment for each third-party element you created. The TP element questionnaires are completed by the engagement contact.
-        -   If the **SBOM required** field was selected on the due diligence request and the engagement uses the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]], the system automatically includes an SBOM questionnaire in the external assessment. For more information, see [Collecting software bill of materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom.md).
+        -   If the **SBOM required** field was selected on the due diligence request and the engagement uses the Smart Assessment Engine, the system automatically includes an SBOM questionnaire in the external assessment. For more information, see [Collecting software bill of materials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom.md).
     2.  The system sends out an email notification to the third-party and engagement contact that has been assigned each assessment.
 
         **Note:** Don’t change a questionnaire template after it has been sent out as part of an external assessment. Instead, duplicate the template by making a copy and make your changes in the new copy. If you update a questionnaire after it has been sent out, the changes won't appear in the version shown in the third-party portal. To send an updated version, you must cancel the existing questionnaire by deassociating it from the external assessment and then add the questionnaire using the updated template. For more information, see [Create a questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-questionnaire-template.md), [Create a questionnaire or document request template using the Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-question-template.md), [Create a TPRM SAE questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-sae-q-template.md).
 
     3.  After the third-party and engagement contacts submit their responses, the TPR manager or owner reviews and verifies all the required information was provided in the assessments. Issues and tasks are created if remediation or additional information is required.
     4.  The TPR manager or owner approves and closes each assessment.
-    The TPR manager can develop [[airc-assessment-templates|assessment templates]] to simplify and automate the process of determining which questionnaires and document requests to send to a third party of this type. The TPR administrator can define questionnaire templates, document request templates, and then the TPR manager can group them into an assessment template. Your organization can reuse the template to send the questionnaires and document requests to similar third parties in future assessments. For more information about templates, see [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md), [Create a questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-questionnaire-template.md), and [Create a questionnaire or document request template using the Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-question-template.md).
+    The TPR manager can develop assessment templates to simplify and automate the process of determining which questionnaires and document requests to send to a third party of this type. The TPR administrator can define questionnaire templates, document request templates, and then the TPR manager can group them into an assessment template. Your organization can reuse the template to send the questionnaires and document requests to similar third parties in future assessments. For more information about templates, see [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md), [Create a questionnaire or document request template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-questionnaire-template.md), and [Create a questionnaire or document request template using the Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-question-template.md).
 
     The TPR manager and their team use the third party's responses and internal analysis to determine whether the third party meets all the necessary compliance requirements. These requirements could include verifying the third party's compliance with applicable laws and regulations, such as environmental regulations, labor laws, and anti-corruption policies.
 
@@ -107,7 +107,7 @@ Limitations:
 -   Responses are copied from the original assessment \(Assessment A\) to the newer assessment \(Assessment B\) one time. This copying occurs when Assessment B is submitted to a third party or an engagement. Any changes you make to Assessment A afterward won't be reflected in Assessment B. Both assessments remain separate.
 -   Inactive and retired metrics are excluded when copying responses between assessments.
 
-If the [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]] is active and template categories are configured for AI-assisted responses, internal and external assessment respondents can use [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]] to generate draft responses from Document Management System documents and previously completed assessments. For more information, see [AI-assisted questionnaire pre-fill using the Document Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms-sae.md).
+If the Smart Assessment Response Assist skill is active and template categories are configured for AI-assisted responses, internal and external assessment respondents can use Now Assist for Third-party Risk Management \(TPRM\) to generate draft responses from Document Management System documents and previously completed assessments. For more information, see [AI-assisted questionnaire pre-fill using the Document Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms-sae.md).
 
 ## Issues and tasks
 
@@ -119,7 +119,7 @@ The TPR manager, TPR assessor, or contract negotiator can create an issue to hel
 
 ## Additional assessment actions
 
-The TPR manager, due-diligence request owner, or contract negotiator may need to [[trpm-reopen-assessment|reopen an assessment]] because there’s new information available that impacts the engagement or some other change has occurred. For more information, see [Why you conduct due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-due-diligence-why.md).
+The TPR manager, due-diligence request owner, or contract negotiator may need to reopen an assessment because there’s new information available that impacts the engagement or some other change has occurred. For more information, see [Why you conduct due diligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/vrm-due-diligence-why.md).
 
 If the TPR manager, due-diligence request owner, or contract negotiator must gather more information from an engagement, they can send out an additional questionnaire or document request by reopening an assessment and doing the following actions:
 
@@ -146,13 +146,3 @@ Even if one or all assessments are canceled, the due diligence request proceeds 
 
 [AI-assisted questionnaire pre-fill using the Document Management System](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms-sae.md)
 
-## Related
-
-- [[tprm-risk-profile-what-is|Risk profile]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]
-- [[factors|factors]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[now-assist-tprm|Now Assist for Third-party Risk Management \(TPRM\)]]
-- [[trpm-reopen-assessment|Reopen an assessment]]

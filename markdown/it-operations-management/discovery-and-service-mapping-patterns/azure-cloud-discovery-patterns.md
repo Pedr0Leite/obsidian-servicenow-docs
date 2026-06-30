@@ -15,7 +15,7 @@ breadcrumb: [Available cloud discovery patterns, Discovery patterns used by ITOM
 
 # Microsoft Azure Cloud discovery using patterns
 
-[[r-discovery|Discovery]] uses multiple patterns to discover components of the Microsoft Azure Cloud deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+Discovery uses multiple patterns to discover components of the Microsoft Azure Cloud deployment during horizontal discovery. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 ## Request new or enhanced Patterns on the ServiceNow® Store
 
@@ -41,7 +41,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 -   **Set up Azure service accounts**
 
-    Enable Cloud Discovery to access your Azure environment. For more information, see [[setup-azure-service-accounts|Set up Azure service accounts]].
+    Enable Cloud Discovery to access your Azure environment. For more information, see [Set up Azure service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/setup-azure-service-accounts.md).
 
 -   **Create an Azure cloud discovery schedule**
 
@@ -968,8 +968,3 @@ Discovery and Service Mapping Patterns finds Azure services on your cloud enviro
 
 [Microsoft Foundry \(Classic\) pattern-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/microsoft-foundry-classic-pattern.md)
 
-## Related
-
-- [[setup-azure-service-accounts|Set up Azure service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

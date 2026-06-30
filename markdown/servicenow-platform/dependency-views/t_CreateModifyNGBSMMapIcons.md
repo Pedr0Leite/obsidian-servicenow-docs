@@ -14,7 +14,7 @@ breadcrumb: [Administer, Dependency Views, Configuration Management Database \(C
 
 # Create or modify map icons
 
-Upload new icons or modify existing icons to customize the icon displayed for a CI in maps in [[c_BusinesssServiceManagementMaps|Dependency Views]], Service Mapping, and Event Management.
+Upload new icons or modify existing icons to customize the icon displayed for a CI in maps in Dependency Views, Service Mapping, and Event Management.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin or cmdb\_admin roles are required to access the records in 
 
 ## Procedure
 
--   Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**, and do the following actions:
+-   Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**, and do the following actions:
 
     1.  Click **Hierarchy** to display the CI Classes list.
 
@@ -44,7 +44,7 @@ Role required: admin or cmdb\_admin roles are required to access the records in 
 
 -   Navigate to **All** &gt; **Dependency Views** &gt; **Map Icons**, and do the following actions:
 
-    1.  Click **New** to create a new map icon or click the name of an existing icon in the **[[label|Label]]** column to modify an existing icon.
+    1.  Click **New** to create a new map icon or click the name of an existing icon in the **Label** column to modify an existing icon.
 
     2.  On the form, fill in the fields.
 
@@ -61,7 +61,7 @@ Role required: admin or cmdb\_admin roles are required to access the records in 
 
 ## What to do next
 
-You can modify a [[c_NextGenBSMMaps|Dependency Views map]] indicator to use the new icon.
+You can modify a Dependency Views map indicator to use the new icon.
 
 **Parent Topic:**[Administer Dependency Views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/p_AdministerNGBSM.md)
 
@@ -82,9 +82,3 @@ You can modify a [[c_NextGenBSMMaps|Dependency Views map]] indicator to use the 
 
 [Create or edit a dependency type]()
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[label|Label]]
-- [[c_NextGenBSMMaps|Dependency Views map]]

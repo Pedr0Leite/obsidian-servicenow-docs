@@ -14,7 +14,7 @@ breadcrumb: [Notify, Manage service capabilities, Extend ServiceNow AI Platform 
 
 # Configuring Notify
 
-Configure and use [[notify-landing-page|Notify]] application with the third-party applications in your environment to resolve the incidents.
+Configure and use Notify application with the third-party applications in your environment to resolve the incidents.
 
 -   **[Activate Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/t_ActivateNotify.md)**  
 You can activate the Notify \(com.snc.notify\) plugin if you are an administrator. This plugin includes demo data and activates related plugins if they are not already active.
@@ -27,11 +27,7 @@ Configure a conference provider or a phone number to be used as choices for init
 -   **[Configure SMS opt-out preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/opt-out-requests.md)**  
 Allow recipients to opt out of receiving text messages.
 -   **[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)**  
-Configure the [[cisco-webex-notify|Notify Cisco Webex Connector]] in your environment to be able to use Cisco Webex application for making conference calls.
+Configure the Notify Cisco Webex Connector in your environment to be able to use Cisco Webex application for making conference calls.
 
 **Parent Topic:**[Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-landing-page.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[cisco-webex-notify|Notify Cisco Webex Connector]]

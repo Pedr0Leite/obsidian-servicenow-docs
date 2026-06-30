@@ -16,7 +16,7 @@ breadcrumb: [Stored cryptography, Hardening settings, Platform Security]
 
 Manage the encrypters used for Password2 fields on your instance.
 
-Use the **glide.kmf.encrypter.enabled** property to set KMF encrypter as the default encrypter for Password2 fields. This property ensures that strong and compliant [[encryption-landing|encryption]] standards are being used instead of a legacy encrypter. To ensure that KMF encrypter is used instead of the legacy encrypter, set this property to **true**.
+Use the **glide.kmf.encrypter.enabled** property to set KMF encrypter as the default encrypter for Password2 fields. This property ensures that strong and compliant encryption standards are being used instead of a legacy encrypter. To ensure that KMF encrypter is used instead of the legacy encrypter, set this property to **true**.
 
 ## More information
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -97,8 +97,3 @@ References
 </td></tr></tbody>
 </table>**Parent Topic:**[Stored cryptography](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-stored-cryptography.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

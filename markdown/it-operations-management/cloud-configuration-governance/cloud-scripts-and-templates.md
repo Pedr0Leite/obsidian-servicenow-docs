@@ -14,7 +14,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 # Cloud scripts and cloud script templates
 
-In the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application, script execution is divided into cloud scripts and cloud script templates. Use scripts in blueprints, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data.
+In the Cloud Provisioning and Governance application, script execution is divided into cloud scripts and cloud script templates. Use scripts in blueprints, resource blocks, OS profiles, and use policy scripts to set request form attributes. Policy scripts cannot override user data.
 
 ## Cloud scripts
 
@@ -80,6 +80,3 @@ Cloud providers provide a way to execute scripts at boottime for virtual machine
 
 You can use cloud scripts as Postinit scripts in a resource block. Once you create a resource block with a virtual machine to be provisioned, you can add an ExecuteScript operation. The ExecuteScript operation takes a script parameter \(a pool of cloud scripts\) and you can select any script to execute. Use the **ScriptParameters** attribute in the ExecuteScript operation to override any script parameter. You can provide a JSON map of script parameter and its override value. All expressions that are supported by Cloud Management work in the **ScriptParamters** attribute.
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

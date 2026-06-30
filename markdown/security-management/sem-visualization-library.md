@@ -16,13 +16,13 @@ The Visualization library lists all the widgets that you can use to visualize an
 
 You can use the Visualization library to:
 
--   **[[threat-intelligence-security-center-overview|Explore]] available widgets**
+-   **Explore available widgets**
 
     Review the complete set of default and custom widgets available for building dashboards.
 
 -   **Understand widget behavior**
 
-    Review key details such as [[data-sources|data sources]], grouping, visualization type, and activation status to choose the appropriate widget for your analysis.
+    Review key details such as data sources, grouping, visualization type, and activation status to choose the appropriate widget for your analysis.
 
 -   **Create a custom widget**
 
@@ -49,7 +49,7 @@ Deferred findings by reason
 
 </td><td>
 
--   [[threat-intelligence-infrastructure|Infrastructure]] vulnerability
+-   Infrastructure vulnerability
 -   Application vulnerability
 -   Misconfigurations
 -   Container vulnerability
@@ -285,23 +285,14 @@ Findings with exploits
 Active records with and without known exploits.
 
 </td></tr></tbody>
-</table>If your instance uses localization, make sure that the widget titles show up correctly in all supported languages. Default widgets already include translated titles.But if you update a default widget, create a custom widget, or rename a widget, remember to add or update the translation entry. This keeps titles consistent across languages. For steps, see [[sem-localize-widget-titles|Localize widget titles]].
+</table>If your instance uses localization, make sure that the widget titles show up correctly in all supported languages. Default widgets already include translated titles.But if you update a default widget, create a custom widget, or rename a widget, remember to add or update the translation entry. This keeps titles consistent across languages. For steps, see [Localize widget titles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-localize-widget-titles.md).
 
 **Related topics**  
 
 
-[[sem-configure-visualization-library|Configure Visualization library]]
+[Configure Visualization library](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-visualization-library.md)
 
-[[sem-create-widget|Create a custom widget]]
+[Create a custom widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-create-widget.md)
 
-[[sem-vis-widget-fields|Visualization widget fields]]
+[Visualization widget fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-vis-widget-fields.md)
 
-## Related
-
-- [[sem-localize-widget-titles|Localize widget titles]]
-- [[sem-configure-visualization-library|Configure Visualization library]]
-- [[sem-create-widget|Create a custom widget]]
-- [[sem-vis-widget-fields|Visualization widget fields]]
-- [[threat-intelligence-security-center-overview|Explore]]
-- [[data-sources|Data Sources]]
-- [[threat-intelligence-infrastructure|Infrastructure]]

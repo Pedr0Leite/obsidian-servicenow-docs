@@ -29,7 +29,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
 ## Procedure
 
-1.  Go to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **Administration** &gt; **To-dos Configuration**, click an existing to-dos configuration, and navigate to the **Task Configuration** related list.
+1.  Go to **All** &gt; **Employee Center** &gt; **Administration** &gt; **To-dos Configuration**, click an existing to-dos configuration, and navigate to the **Task Configuration** related list.
 
 2.  Click **New** or edit an existing task configuration record such as **Approval \| SAP Concur**.
 
@@ -39,7 +39,7 @@ Role required: sn\_hr\_sp.esc\_admin
 
     -   Use the condition builder to specify the conditions that a task must meet to appear on the to-dos page. For example, Todo state is **open**, Source table is **sn\_ex\_cnc\_concur\_report**, and Active is **true** and so on.
     -   Table name configured in the to-dos configuration to which the task config is associated **Pulled Integration To-do \[sn\_hr\_integr\_fw\_todo\_inbound\]**.
-    -   [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] table is **Concur Expense Report** \[sn\_ex\_cnc\_concur\_report\].
+    -   Reference table is **Concur Expense Report** \[sn\_ex\_cnc\_concur\_report\].
     -   Use the \{reference\_table.name\},\{reference\_table.report\_created\_date\},\{reference\_table.approval\_status\_name\} fields to display the table name, created date, and status.
     -   Ensure you configure the widget parameters to suit your requirements. For example, set the **showItemizations** and **showAttachments** value to **true** to show attachments and itemizations. When **showReportTotals** is true, the report shows the sum total of all the expenses.
 5.  Use the default tab configuration **Expenses** and **Comments**or modify to suit your requirements.
@@ -63,7 +63,3 @@ Approver users can see information and process the approvals. For more informati
 
 **Parent Topic:**[Approvals hub integration with SAP Concur](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/x-concur-sa-integration.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

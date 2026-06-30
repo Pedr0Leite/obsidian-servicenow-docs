@@ -111,8 +111,5 @@ Color of the schedule span displayed for each record on the timeline that matche
 
 [Define default style rules]()
 
-[Define style rules from [[change-schedule|Change Schedules]] View]()
+[Define style rules from Change Schedules View]()
 
-## Related
-
-- [[change-schedule|Change schedules]]

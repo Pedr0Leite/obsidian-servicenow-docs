@@ -12,11 +12,11 @@ breadcrumb: [Explore, Field Service Management]
 
 # Linear asset support
 
-Linear asset support in [[fsm-application-landing-page|Field Service Management]] enables you to complete any essential task, such as maintenance activities or repairs, necessary for the optimal functioning of linear assets.
+Linear asset support in Field Service Management enables you to complete any essential task, such as maintenance activities or repairs, necessary for the optimal functioning of linear assets.
 
 A linear asset is an asset that has a physical length or dimension, such as roads, railways, and telecommunication networks or cables. They have a defined starting point and ending point, and can be represented as a sequence of interconnected segments or nodes. A linear segment is a specific section of that asset defined by either a start point and an end point or a start point and a length. You can create linear assets in Enterprise Asset Management. For more information, see [Create linear assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/create-linear-asset.md).
 
-Field Service Management offers the capability to create and [[c_ManageWorkOrders|manage work orders]] and work order tasks for linear assets. The integration of Google Maps enables you to view and select linear assets and their associated segments directly on the service location map interface.
+Field Service Management offers the capability to create and manage work orders and work order tasks for linear assets. The integration of Google Maps enables you to view and select linear assets and their associated segments directly on the service location map interface.
 
 ## Key benefits
 
@@ -35,7 +35,3 @@ Linear asset support provides the following benefits:
 
 [Linear assets on ServiceNow Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/working-on-linear-asset-wot.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[c_ManageWorkOrders|Manage work orders]]

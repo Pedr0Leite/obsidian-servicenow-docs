@@ -16,7 +16,7 @@ Use menu categories to apply CSS styles to application labels.
 
 ## Before you begin
 
-Menu categories are deprecated in [[c_UI16|Core UI]].
+Menu categories are deprecated in Core UI.
 
 Role required: admin
 
@@ -78,9 +78,5 @@ Applications in this category have a blue background.border-color: blue; backgro
 </table>3.  To add an application to a category, add it in the related list of applications at the bottom of the category record, or specify the category on the application record.
 
 
-**Parent Topic:**[[customizing-instance-appearance|Customizing instance appearance]]
+**Parent Topic:**[Customizing instance appearance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customizing-instance-appearance.md)
 
-## Related
-
-- [[customizing-instance-appearance|Customizing instance appearance]]
-- [[c_UI16|Core UI]]

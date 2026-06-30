@@ -22,7 +22,7 @@ Role required: rota\_manager
 
 ## Procedure
 
-1.  Open the [[itsm-mobile-agent|ITSM Mobile Agent]] app and tap **My team**.
+1.  Open the ITSM Mobile Agent app and tap **My team**.
 
 2.  On the **On-call Schedule** tab, tap **Gaps and conflicts**.
 
@@ -36,6 +36,4 @@ Role required: rota\_manager
 
 6.  On the Gaps and conflicts form, tap **Provide coverage** to manage the coverage for a gap in the shift.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

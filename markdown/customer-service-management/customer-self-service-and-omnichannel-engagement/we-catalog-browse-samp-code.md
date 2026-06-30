@@ -103,11 +103,7 @@ console.log(errorMessage, errorType);
 
 [Embed the Catalog browse component on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-embed-catalog-browse-on-third-party-web.md)
 
-[[we-catalog-browse-comp-prop|Component properties for the Catalog browse]]
+[Component properties for the Catalog browse](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-catalog-browse-comp-prop.md)
 
-[[we-event-handlers-catalog-browse|Event handlers in the Catalog browse component]]
+[Event handlers in the Catalog browse component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-event-handlers-catalog-browse.md)
 
-## Related
-
-- [[we-catalog-browse-comp-prop|Component properties for the Catalog browse]]
-- [[we-event-handlers-catalog-browse|Event handlers in the Catalog browse component]]

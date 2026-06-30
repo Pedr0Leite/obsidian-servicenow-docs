@@ -14,12 +14,12 @@ breadcrumb: [Managing Problems, Problem Management, IT Service Management]
 
 # Resolve and complete a problem
 
-Resolve the issue and add detailed note of the resolution for future [[reference-for-itsm-mobile-agent|reference]].
+Resolve the issue and add detailed note of the resolution for future reference.
 
 ## Before you begin
 
 -   Role required: admin, problem\_admin, problem\_coordinator, or problem\_manager
--   Activate the [[c_ProblemManagement|Problem Management]] Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the lifecycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
+-   Activate the Problem Management Best Practice — Madrid — State Model \(com.snc.best\_practice.problem.madrid.state\_model\) to get the new best practice states and guided actions to navigate the lifecycle of a problem. For details, see [Activate Problem Management Best Practice — Madrid — State Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/act-pm-best-prac-madrid-state-mod.md).
 
 ## Procedure
 
@@ -38,8 +38,8 @@ Resolve the issue and add detailed note of the resolution for future [[reference
     **Note:**
 
     -   When a problem is closed or canceled, all related open problem tasks are canceled provided you select the problem management property **Cancel open Problem Tasks when closing a Problem** \(**problem.closed.cancel\_open\_tasks**\).
-    -   When a problem is closed, you can still create problem tasks provided you select the problem management property **Can [[create-problem-task|create a Problem Task]] on a Closed Problem?** \(**problem.closed.can\_create\_tasks**\).
-    You can reanalyze the problem even after it is closed by clicking **Re-analyze**. The state of the problem changes from **Closed** to **Root Cause Analysis**. The following [[problem-mgmt-properties|problem management properties]] controls who can reanalyze the problem:
+    -   When a problem is closed, you can still create problem tasks provided you select the problem management property **Can create a Problem Task on a Closed Problem?** \(**problem.closed.can\_create\_tasks**\).
+    You can reanalyze the problem even after it is closed by clicking **Re-analyze**. The state of the problem changes from **Closed** to **Root Cause Analysis**. The following problem management properties controls who can reanalyze the problem:
 
     -   **Who can Re-analyze a Canceled Problem?** \(**problem.closed.role.reanalyze\_from\_canceled**\)
     -   **Who can Re-analyze a Risk Accepted \(Closed state\) Problem?** \(**problem.closed.role.reanalyze\_from\_closed\_riskaccepted**\)
@@ -51,9 +51,3 @@ Resolve the issue and add detailed note of the resolution for future [[reference
 
 **Parent Topic:**[Managing Problems](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/problem-mgmt-lifecycle.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[c_ProblemManagement|Problem Management]]
-- [[create-problem-task|Create a problem task]]
-- [[problem-mgmt-properties|Problem management properties]]

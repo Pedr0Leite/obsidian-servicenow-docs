@@ -14,7 +14,7 @@ breadcrumb: [n8n, Service Graph Connectors for AI Control Tower, AI connections,
 
 # Create an AI connection for n8n
 
-Create an AI connection for n8n in [[ai-control-tower-landing|AI Control Tower]] using the  n8n connector.
+Create an AI connection for n8n in AI Control Tower using the  n8n connector.
 
 ## Before you begin
 
@@ -75,6 +75,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for n8n is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]

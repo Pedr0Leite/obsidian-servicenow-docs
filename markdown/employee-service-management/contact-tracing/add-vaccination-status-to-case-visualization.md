@@ -14,11 +14,11 @@ breadcrumb: [Setting up Contact Tracing, Contact Tracing, Safe Workplace, Health
 
 # Configure contact tracing visualization to show vaccination status
 
-Configure [[contact-tracing|Contact Tracing]] so case managers can view the vaccination status of potentially exposed contacts in the contact tracing visualization.
+Configure Contact Tracing so case managers can view the vaccination status of potentially exposed contacts in the contact tracing visualization.
 
 ## Before you begin
 
-The Vaccination Status application must be installed and configured. For more information, see [[vaccination-status|Vaccination Status]].
+The Vaccination Status application must be installed and configured. For more information, see [Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md).
 
 Role required: admin
 
@@ -47,7 +47,3 @@ If a case manager can't see vaccination statuses even though the **sn\_imt\_trac
 
 **Parent Topic:**[Setting up Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/set-up-contact-tracing.md)
 
-## Related
-
-- [[vaccination-status|Vaccination Status]]
-- [[contact-tracing|Contact Tracing]]

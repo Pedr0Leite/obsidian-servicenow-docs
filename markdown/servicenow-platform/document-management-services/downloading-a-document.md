@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-**Note:** To download a document, the version file type must be an [[attachment|attachment]] and not a URL.
+**Note:** To download a document, the version file type must be an attachment and not a URL.
 
 ## Procedure
 
@@ -56,6 +56,3 @@ Role required: none
 
 [Delete documents]()
 
-## Related
-
-- [[attachment|Attachment]]

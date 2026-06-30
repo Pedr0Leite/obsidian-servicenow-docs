@@ -22,11 +22,11 @@ Role required: sam\_admin
 
 ## About this task
 
-[[sam-value-builder|Value builder]] tasks are automatically created for all publisher packs indicated as incomplete in the Publisher pack utilization widget. However you can also manually create Value builder tasks.
+Value builder tasks are automatically created for all publisher packs indicated as incomplete in the Publisher pack utilization widget. However you can also manually create Value builder tasks.
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset success portal** &gt; **Value builder**.
+1.  Navigate to **Software Asset Workspace** &gt; **Software asset success portal** &gt; **Value builder**.
 
 2.  Click **New task**.
 
@@ -55,7 +55,4 @@ Role required: sam\_admin
 
     The state of the task changes to **Work In Progress**.
 
-## Related
 
-- [[sam-value-builder|Value builder]]
-- [[sam-workspace|Software Asset Workspace]]

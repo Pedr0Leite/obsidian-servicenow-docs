@@ -12,7 +12,7 @@ breadcrumb: [Setting up ServiceNow Voice, ServiceNow Voice, Manage people and wo
 
 # Domain separation and ServiceNow Voice
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported for [[cloud-call-center-overview|ServiceNow Voice]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for ServiceNow Voice. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -36,18 +36,12 @@ For more information on support levels, see [Application support for domain sepa
 -   Provider Message Transformer \[sn\_cti\_provider\_msg\_transformer\]
 -   CTI user \[sn\_cti\_user\]
 -   AWS Resource \[sn\_cti\_aws\_resource\]
--   Amazon [[c_Connect|Connect]] Instance \[sn\_cti\_connect\_instance\]
+-   Amazon Connect Instance \[sn\_cti\_connect\_instance\]
 
-**Parent Topic:**[[ccc-setup|Setting up ServiceNow Voice]]
+**Parent Topic:**[Setting up ServiceNow Voice](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/ccc-setup.md)
 
 **Related topics**  
 
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[ccc-setup|Setting up ServiceNow Voice]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[cloud-call-center-overview|ServiceNow Voice]]
-- [[c_Connect|Connect]]

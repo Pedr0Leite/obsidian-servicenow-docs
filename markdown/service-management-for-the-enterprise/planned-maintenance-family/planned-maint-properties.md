@@ -14,7 +14,7 @@ breadcrumb: [Managing maintenance plans, Planned Maintenance, Service Management
 
 # Property settings for Planned Maintenance
 
-You configure [[c_SMPlanMaint|Planned Maintenance]] properties at **Planned Maintenance** &gt; **Properties**.
+You configure Planned Maintenance properties at **Planned Maintenance** &gt; **Properties**.
 
 ## Trigger properties
 
@@ -45,6 +45,3 @@ Preserve the calculated interval trigger. See the illustration.
 
 **Parent Topic:**[Managing maintenance plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/planned-maintenance-family/c_MaintPlanMgmt.md)
 
-## Related
-
-- [[c_SMPlanMaint|Planned Maintenance]]

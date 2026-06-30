@@ -14,7 +14,7 @@ breadcrumb: [Integration with third-party applications, Integrations, Source-to-
 
 # Source-to-Pay Integration with 3CLogic
 
-Integrating [[source-to-pay-operations-overview|Source-to-Pay Operations]] with 3CLogic provides omnichannel experience and self-service features.
+Integrating Source-to-Pay Operations with 3CLogic provides omnichannel experience and self-service features.
 
 The Source-to-Pay Integration with 3CLogic Cloud Contact Center solution provides the following benefits:
 
@@ -24,6 +24,3 @@ The Source-to-Pay Integration with 3CLogic Cloud Contact Center solution provide
 
 For more information, see [3CLogic Cloud Call Center for ServiceNow Voice](https://www.3clogic.com/servicenow-voice).
 
-## Related
-
-- [[source-to-pay-operations-overview|Source-to-Pay Operations]]

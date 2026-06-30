@@ -26,7 +26,7 @@ You can configure the personal portfolio solution card fields to display informa
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[dpm-landing|Digital Portfolio Management]]** &gt; **DPM Admin Center** &gt; **[[settings-mobile|Settings]]**.
+1.  Navigate to **All** &gt; **Digital Portfolio Management** &gt; **DPM Admin Center** &gt; **Settings**.
 
 2.  Open **Portfolio properties** and then select **Solution Cards**.
 
@@ -72,7 +72,3 @@ You can configure the personal portfolio solution card fields to display informa
 
 **Parent Topic:**[Use the Admin Center in Digital Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-portfolio-management/dpm-admin-center.md)
 
-## Related
-
-- [[dpm-landing|Digital Portfolio Management]]
-- [[settings-mobile|Settings]]

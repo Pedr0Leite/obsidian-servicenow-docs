@@ -47,8 +47,5 @@ For information on granular roles, see [Granular admin roles](https://raw.github
     At the next launch, your logo is resized based on how you configured the system property.
 
 
-**Parent Topic:**[[tb-upload-logo|Upload a new logo to your Theme Builder theme]]
+**Parent Topic:**[Upload a new logo to your Theme Builder theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/tb-upload-logo.md)
 
-## Related
-
-- [[tb-upload-logo|Upload a new logo to your Theme Builder theme]]

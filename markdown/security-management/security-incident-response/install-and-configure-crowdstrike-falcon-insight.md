@@ -14,7 +14,7 @@ breadcrumb: [CrowdStrike Falcon Insight integration, Security Incident Response 
 
 # Install and configure CrowdStrike Falcon Insight
 
-[[configure-cortex-xsiam-siem|Install and configure]] the CrowdStrike Falcon Insight for [[security-operations-landing-page|Security Operations]] application from the ServiceNow Store on your ServiceNow AI Platform instance.
+Install and configure the CrowdStrike Falcon Insight for Security Operations application from the ServiceNow Store on your ServiceNow AI Platform instance.
 
 ## Before you begin
 
@@ -82,7 +82,3 @@ The client secret key that you obtain from the settings section of your account 
 
 After the integration is successfully validated and submitted, it’s saved on the Security Integrations page as a tile. You can view the CrowdStrike Falcon Insight module in the application navigator.
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[security-operations-landing-page|Security Operations]]

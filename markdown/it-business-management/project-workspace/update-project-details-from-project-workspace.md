@@ -14,7 +14,7 @@ breadcrumb: [Managing projects with Project Workspace, Project Workspace, Projec
 
 # Update the project details from Project Workspace
 
-Update the details of a project to reflect the updates or changed priorities using the details page from [[project-workspace-landing-page|Project Workspace]].
+Update the details of a project to reflect the updates or changed priorities using the details page from Project Workspace.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## About this task
 
-You can edit the Project, project dates, business case, financials, score, notes, and preferences for a project. Use the related tabs on the details page to view and edit the [[t_CreateAProjectTask|Project tasks]], Sub-projects, Requirements, [[c_ResourcePlans|Resource Plans]], Cost Plans, Monetary, and others.
+You can edit the Project, project dates, business case, financials, score, notes, and preferences for a project. Use the related tabs on the details page to view and edit the Project tasks, Sub-projects, Requirements, Resource Plans, Cost Plans, Monetary, and others.
 
 ## Procedure
 
@@ -34,7 +34,7 @@ You can edit the Project, project dates, business case, financials, score, notes
 
 3.  Edit the fields that you want to update.
 
-    In the Project Workspace, you can add stakeholders, extend or [[confirm-resource-plan|confirm a resource plan]], and add new resource allocations daily. You can also view the status report of the program and save the project as a template with the **Save as New Template** option.
+    In the Project Workspace, you can add stakeholders, extend or confirm a resource plan, and add new resource allocations daily. You can also view the status report of the program and save the project as a template with the **Save as New Template** option.
 
     From the Project Workspace, you can create an Agile phase or a Test phase. You can also create stories or add existing ones to the project, as well as add new epics.
 
@@ -47,9 +47,3 @@ You can edit the Project, project dates, business case, financials, score, notes
 
 **Parent Topic:**[Managing projects with Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/use-projects-pw.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]
-- [[confirm-resource-plan|Confirm a resource plan]]

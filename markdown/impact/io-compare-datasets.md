@@ -13,7 +13,7 @@ breadcrumb: [Analytics, Monitoring instance health with Instance Observer, Platf
 
 # Compare datasets in Instance Observer
 
-Compare [[instance-observer-performance|performance]] metrics between two time periods to identify trends, anomalies, or changes in your ServiceNow instance behavior. This analysis helps you to know the [[impact-landing-page|impact]] of changes, troubleshoot issues, and understand performance patterns over time.
+Compare performance metrics between two time periods to identify trends, anomalies, or changes in your ServiceNow instance behavior. This analysis helps you to know the impact of changes, troubleshoot issues, and understand performance patterns over time.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Use the Compare datasets tool to compare high-level metrics across time. It has 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Impact** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform Health** &gt; **Monitor**.
 
 2.  Log in to I**Instance Observer** and navigate to **Analytics** &gt; **Compare Datasets**.
 
@@ -57,7 +57,7 @@ Use the Compare datasets tool to compare high-level metrics across time. It has 
 
     -   A summary table showing Mean and Median values for both samples
     -   A line chart visualizing the metric trends over time for both samples
-    -   Moving average lines to [[io-help|help]] identify patterns and trends
+    -   Moving average lines to help identify patterns and trends
     You can use the **Raw** and **Avg** toggle buttons to switch between viewing raw data and averaged data in the chart.
 
 9.  Select the **Compare** field and select your preferred metric to compare the datasets.
@@ -76,12 +76,5 @@ Use the Compare datasets tool to compare high-level metrics across time. It has 
         For one period, it picks the dates for you between the two releases that you're comparing in the **Using:** section. When you select the \[Omitted image "inline-data-vis-calendar-days.png"\] Alt text: calendar icon., the dates are selected for you to compare the datasets.
 
 
-**Parent Topic:**[[io-analytics|Analytics]]
+**Parent Topic:**[Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-analytics.md)
 
-## Related
-
-- [[io-analytics|Analytics]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]
-- [[io-help|Help]]

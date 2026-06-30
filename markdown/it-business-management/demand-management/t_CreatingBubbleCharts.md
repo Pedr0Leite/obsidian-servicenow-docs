@@ -14,7 +14,7 @@ breadcrumb: [Set up, Configure, Demand Management, Project Portfolio Management,
 
 # Configure demand workbench
 
-Update the [[c_DemandWorkbench|demand workbench]] to configure parameters such as bubble chart.
+Update the demand workbench to configure parameters such as bubble chart.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Bubble charts are useful for comparing demands based on common metrics such as r
 
 **Next topic:**[Use Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/r_UsingDemandManagement.md)
 
-## Related
-
-- [[c_DemandWorkbench|Demand workbench]]

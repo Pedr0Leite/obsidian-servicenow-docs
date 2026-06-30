@@ -14,7 +14,7 @@ breadcrumb: [HAProxy using probes, Load balancers, Network device discovery, Dat
 
 # Enable HAProxy load balancer discovery with probes
 
-If you prefer not to start using the default HAProxy pattern-based [[r-discovery|discovery]], enable probe-based HAProxy discovery to continue using it instead.
+If you prefer not to start using the default HAProxy pattern-based discovery, enable probe-based HAProxy discovery to continue using it instead.
 
 ## Before you begin
 
@@ -39,14 +39,10 @@ Role required: discovery\_admin
 
 ## What to do next
 
-[[t_CreateADiscoverySchedule|Schedule a horizontal discovery]] to discover HAProxy load balancer with probes. For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
+Schedule a horizontal discovery to discover HAProxy load balancer with probes. For more information, see [Schedule a horizontal discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_CreateADiscoverySchedule.md).
 
 **Related topics**  
 
 
 [HAProxy load balancer discovery using probes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_LoadBalancerHAProxy.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[t_CreateADiscoverySchedule|Schedule a horizontal discovery]]

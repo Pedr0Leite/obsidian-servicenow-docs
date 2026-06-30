@@ -33,7 +33,7 @@ If the NIDS record with any detects::detected by relationships is deleted, a war
 You can use the Network Intrusion Detection Systems \(NIDS\) Guided Setup to lead you through:
 
 -   Configuring users and roles for users that do not already have an account in an instance
--   Importing NIDS records from [[operational-technology-overview|Operational Technology]] \(OT\) Certified Service Graph Connectors to designate if NIDS appliances are running on OT or IT networks
+-   Importing NIDS records from Operational Technology \(OT\) Certified Service Graph Connectors to designate if NIDS appliances are running on OT or IT networks
 -   Validating NIDS so that detected devices can be imported. For more information about validating NIDS, see [Validate the NIDS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/validate-nids.md).
 
 To access the NIDS Guided Setup, navigate to **Network Intrusion Detection Systems \(NIDS\)** &gt; **NIDS Guided Setup**.
@@ -46,9 +46,9 @@ To assign an appliance as a manager for NIDS sensors that detect devices, naviga
 For information about the `NIDSUtils` script include that copies NIDS-assigned meta data to detected devices, see [Script includes installed with Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/script_includes_installed_with_operational_technology_manager.md).
 
 -   **[Validate the NIDS](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/validate-nids.md)**  
-[[validate-nids|Validate the NIDS]] to import the devices from the ETL that were detected by the sensor. The sensors can only pass the validation if they aren't in learning mode as such sensors aren't eligible for device import.
+Validate the NIDS to import the devices from the ETL that were detected by the sensor. The sensors can only pass the validation if they aren't in learning mode as such sensors aren't eligible for device import.
 -   **[Validate multiple NIDS sensors at once](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/bulk-validation-nids.md)**  
-[[bulk-validation-nids|Validate multiple NIDS sensors at once]] through a bulk validation so that you can edit your records more quickly and efficiently.
+Validate multiple NIDS sensors at once through a bulk validation so that you can edit your records more quickly and efficiently.
 
 **Parent Topic:**[Using the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/using-operational-technology-manager.md)
 
@@ -59,8 +59,3 @@ For information about the `NIDSUtils` script include that copies NIDS-assigned m
 
 [Script includes installed with Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/script_includes_installed_with_operational_technology_manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[validate-nids|Validate the NIDS]]
-- [[bulk-validation-nids|Validate multiple NIDS sensors at once]]

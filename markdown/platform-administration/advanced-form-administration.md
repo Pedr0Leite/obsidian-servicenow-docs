@@ -30,7 +30,7 @@ Role required: admin
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **UI Properties**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **UI Properties**.
 
 2.  Locate the property **Allow the use of the "Insert" and "Insert and Stay" options on task derived tables** \(**glide.ui.task.insert**\).
 
@@ -60,7 +60,7 @@ By default, forms set focus on the first writable field on the form. With first-
 
 ## Hide the template bar for a table
 
-Administrators can hide the [[template-bar|template bar]] for a table by creating a system property.
+Administrators can hide the template bar for a table by creating a system property.
 
 ### Before you begin
 
@@ -74,7 +74,7 @@ Creating a table-specific property and setting it to false prevents users from d
 
 1.  Navigate to `sys_properties.list`.
 
-2.  [[t_AddAPropertyUsingSysPropsList|Add a system property]] with the following settings.
+2.  [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md) with the following settings.
 
     |Property|Value|
     |--------|-----|
@@ -99,7 +99,7 @@ You can use a system preference to deactivate this feature if you do not want th
 
 ### Procedure
 
-1.  From the left navigation pane, select **[[c_UserAdministration|User Administration]]** &gt; **User Preferences**.
+1.  From the left navigation pane, select **User Administration** &gt; **User Preferences**.
 
 2.  Select the **enter\_submits\_form** preference.
 
@@ -182,7 +182,7 @@ true
 
 ## Define required fields
 
-You can specify which form fields are required in forms. This action prevents users with the personalize\_form role from removing the field by [[configure-form-layout|configuring the form layout]].
+You can specify which form fields are required in forms. This action prevents users with the personalize\_form role from removing the field by configuring the form layout.
 
 ### Before you begin
 
@@ -233,7 +233,7 @@ Role required: admin
 
 ### About this task
 
-An example would be displaying the email address for the caller when looking at an incident record. The email address is not stored in the Incident table, but is obtained by following the caller [[reference-email-admin|reference]] from the incident to the User table. You control the label type by setting a system property. For example, the field label for an incident email address can be either of the following strings.
+An example would be displaying the email address for the caller when looking at an incident record. The email address is not stored in the Incident table, but is obtained by following the caller reference from the incident to the User table. You control the label type by setting a system property. For example, the field label for an incident email address can be either of the following strings.
 
 -   **Caller Email**, which represents the complete label to uniquely identify this field as the email from the caller user record. If you display the email address for the person the ticket is assigned to, its label would be **Assigned to Email**.
 -   **Email** which is the label for the target field. This label is not unique on the form if, for example, you are also displaying the email address of the person assigned to the incident. However, usually the placement of the field on the form makes it clear what the field represents.
@@ -263,11 +263,4 @@ An example would be displaying the email address for the caller when looking at 
 
 4.  Click **Save**.
 
-## Related
 
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[template-bar|Template bar]]
-- [[c_UserAdministration|User administration]]
-- [[configure-form-layout|Configuring the form layout]]
-- [[reference-email-admin|Reference]]

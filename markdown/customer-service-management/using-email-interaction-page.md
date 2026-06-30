@@ -13,7 +13,7 @@ breadcrumb: [Using Email Interaction for CSM, Customer communication, Use, Custo
 
 # Using email interaction page
 
-The [[email-as-an-interaction|email interaction]] page enables agents to view incoming and outgoing emails, attachments, work notes, and other related information in one location. Agents can review and respond to emails and resolve customer inquiries.
+The email interaction page enables agents to view incoming and outgoing emails, attachments, work notes, and other related information in one location. Agents can review and respond to emails and resolve customer inquiries.
 
 The email interaction page consists of various sections.
 
@@ -23,12 +23,12 @@ The email interaction page includes the following features:
 
 -   Manage and send email responses to customers from a single location.
 -   Use simplified filters , modeless dialog, and compact email header to keep the focus on email communication.
--   View the email conversation between the customer and the agent in the **[[csm-config-ws-activity-stream|Activity stream]]** that provides complete context.
+-   View the email conversation between the customer and the agent in the **Activity stream** that provides complete context.
 -   Identify the most recent conversation using annotated new emails, the latest reply, and work notes.
 -   Generate AI summaries of email interactions on demand. Summaries are also generated on transfer, reducing the need to read the full email thread. Check your entitlements to determine whether you have access to this feature.
 -   Transfer AWA -routed email interactions to another agent or queue directly from the interaction page.
 
-The email interaction page includes sections such as Contact, Interaction form, Compose, and Activity stream, and the contextual side panel. For more information, see [[email-interaction-page|Email interaction sections]].
+The email interaction page includes sections such as Contact, Interaction form, Compose, and Activity stream, and the contextual side panel. For more information, see [Email interaction sections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/email-interaction-page.md).
 
 Agents can use the Contact component to do the following:
 
@@ -37,8 +37,3 @@ Agents can use the Contact component to do the following:
 -   Edit and save a linked contact record.
 -   View a contact.
 
-## Related
-
-- [[email-interaction-page|Email interaction sections]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[csm-config-ws-activity-stream|Activity stream]]

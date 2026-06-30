@@ -14,10 +14,10 @@ breadcrumb: [Workplace Visitor Management, Workplace Service Delivery, Employee 
 
 # Registering a visitor
 
-Submit a [[register-visitors|visitor registration]] to register your invitees before their visit to the organization. As a visitor, accept or decline visitor policies based on your preference.
+Submit a visitor registration to register your invitees before their visit to the organization. As a visitor, accept or decline visitor policies based on your preference.
 
 -   **[Use the host portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/use-host-portal.md)**  
-[[use-host-portal|Use the host portal]] to create, view, and manage visits; add visitors and optional co-hosts.
+Use the host portal to create, view, and manage visits; add visitors and optional co-hosts.
 -   **[Adding visitors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/adding-visitors.md)**  
 Add a single visitor or upload a file with details of multiple visitors.
 -   **[Make a visitor registration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/register-a-guest.md)**  
@@ -27,7 +27,3 @@ Review the workplace policies before your visit, then accept or decline the poli
 
 **Parent Topic:**[Workplace Visitor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-visitor-management/workplace-visitor-mgmt-feat.md)
 
-## Related
-
-- [[register-visitors|Visitor registration]]
-- [[use-host-portal|Use the host portal]]

@@ -46,12 +46,9 @@ If Access, Fulfillment, or Portal settings are locked due to template enforcemen
 If you request updates to multiple fields and some are locked by a template while others remain editable, Now Assist will:
 
 -   Apply updates to the fields that can be changed.
--   [[notify-landing-page|Notify]] you about which fields were not updated because they are controlled by the template.
+-   Notify you about which fields were not updated because they are controlled by the template.
 
 **Note:** User criteria records define groups of users based on conditions such as role, department, or location. These records manage who can view or request a catalog item.
 
 **Parent Topic:**[Catalog item generation reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/catalog-item-generation-reference.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

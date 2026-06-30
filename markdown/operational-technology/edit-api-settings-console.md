@@ -20,11 +20,11 @@ Role required: admin
 
 ## About this task
 
-The SGC has been enhanced to enable these functions of the [[api-discovery-console|Discovery Console for OT API]].
+The SGC has been enhanced to enable these functions of the Discovery Console for OT API.
 
 ## Procedure
 
-1.  In the main menu, go to the [[settings-page-console|Settings page]].
+1.  In the main menu, go to the Settings page.
 
 2.  On the Settings page, select the **API** tab.
 
@@ -71,7 +71,4 @@ The SGC has been enhanced to enable these functions of the [[api-discovery-conso
 
         The disk space available is limited to 1 GiB.
 
-## Related
 
-- [[api-discovery-console|Discovery Console for OT API]]
-- [[settings-page-console|Settings page]]

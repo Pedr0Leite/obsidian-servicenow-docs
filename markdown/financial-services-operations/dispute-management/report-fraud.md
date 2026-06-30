@@ -22,7 +22,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -40,7 +40,7 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
 7.  The **Investigate** stage is initiated for the transaction.
 
-8.  Select the **[[report-fraud-visa|Report fraud]]** activity.
+8.  Select the **Report fraud** activity.
 
 9.  On the form, fill in the required fields and any other related information that you have gathered.
 
@@ -62,7 +62,3 @@ Depending on the policy rule, the task moves to the next activity. The following
 
 **Parent Topic:**[Investigating a dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-a-dispute.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[report-fraud-visa|Report fraud]]

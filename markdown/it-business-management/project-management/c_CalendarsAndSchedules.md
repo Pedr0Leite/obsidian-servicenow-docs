@@ -14,7 +14,7 @@ breadcrumb: [Importing and exporting projects, Using Project Management, Project
 
 # Calendars and schedules- Limitations
 
-Some calendar elements from Microsoft Project are not imported into the [[c_ProjectApplicationOverview|Project Management]] application.
+Some calendar elements from Microsoft Project are not imported into the Project Management application.
 
 -   Project calendars
 -   User calendars
@@ -33,13 +33,9 @@ The imported project uses the default schedule of a Monday to Friday workday fro
 
 [Project import from Microsoft Project]()
 
-[Import [[t_CreateAProjectTask|project tasks]] for multiple projects]()
+[Import project tasks for multiple projects]()
 
 [Project export to Microsoft Project]()
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]

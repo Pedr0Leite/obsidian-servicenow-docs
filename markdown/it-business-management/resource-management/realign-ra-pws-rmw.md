@@ -22,7 +22,7 @@ Role required: it\_project\_manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspaces** &gt; **[[project-workspace-landing-page|Project Workspace]]** and open a project.
+1.  Navigate to **All** &gt; **Workspaces** &gt; **Project Workspace** and open a project.
 
 2.  From the project planning pane, double-click the **Planned start date** or **Planned end date** of a project task to edit the field.
 
@@ -48,6 +48,3 @@ The resource assignments dates are synchronized with the project task dates.
 
 [Project Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-reference.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]

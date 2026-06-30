@@ -40,7 +40,7 @@ Activate the Third-party Risk Management \(com.sn\_vdr\_risk\_asmt\) plugin.
 
  To verify that this plugin is activated, navigate to **Subscription Management** &gt; **Subscriptions** in your instance. The list displays the subscriptions that your organization has purchased.
 
- For more information, see [Configuring Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-configuring.md) and the instructions for activating an entitled GRC application from the ServiceNow® Store: [[activate-entitled-grc-app|Activate an entitled GRC ServiceNow Store application]] and [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+ For more information, see [Configuring Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-configuring.md) and the instructions for activating an entitled GRC application from the ServiceNow® Store: [Activate an entitled GRC ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/activate-entitled-grc-app.md) and [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
 </td></tr></tbody>
 </table>## Procedure
@@ -60,7 +60,3 @@ Activate the Third-party Risk Management \(com.sn\_vdr\_risk\_asmt\) plugin.
 
 **Parent Topic:**[Standardized Information Gathering \(SIG\) Questionnaire Integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-sig-integration.md)
 
-## Related
-
-- [[activate-entitled-grc-app|Activate an entitled GRC ServiceNow Store application]]
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]

@@ -16,9 +16,9 @@ breadcrumb: [Interactive Filters, Reporting, dashboards, and Performance Analyti
 
 You can make an Interactive Filter available to users by adding the filter to a dashboard.
 
-To be effective, [[c_HomepagePublishers|interactive filters]] must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table. For more information, see [Make a report follow interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_MakeAReportASubscriber.md).
+To be effective, interactive filters must be based on the same tables as the reports they filter. Reports based on the user table, for example, do not follow Interactive Filters that are based on the incident table. For more information, see [Make a report follow interactive filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_MakeAReportASubscriber.md).
 
-[[c_Widgets|Performance Analytics widgets]] on the dashboard do not follow interactive filters. Separately filter those [[widgets|widgets]] on the same breakdown source by using the breakdown dashboard controls. For more information, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
+Performance Analytics widgets on the dashboard do not follow interactive filters. Separately filter those widgets on the same breakdown source by using the breakdown dashboard controls. For more information, see [Using breakdowns on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_SpecialDashboards.md).
 
 -   **[Add an interactive filter widget to a responsive dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/t_AddIntFilterToAResponsiveDboard.md)**  
 Add an interactive filter to a dashboard to filter reports on that dashboard.
@@ -33,8 +33,3 @@ Reset all applied filters on a dashboard tab to view the default value or the un
 
 **Parent Topic:**[Interactive Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_HomepagePublishers.md)
 
-## Related
-
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[widgets|Widgets]]

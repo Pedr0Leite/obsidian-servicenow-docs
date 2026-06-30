@@ -26,7 +26,7 @@ Also, after triaging, agents can also transfer universal requests and department
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ur-landing-limitedaccess|Universal Request]]** &gt; **Administration** &gt; **Service Set Assignment Groups**.
+1.  Navigate to **All** &gt; **Universal Request** &gt; **Administration** &gt; **Service Set Assignment Groups**.
 
 2.  Select the **Service Set** from the look-up list.
 
@@ -37,6 +37,3 @@ Also, after triaging, agents can also transfer universal requests and department
 
 **Parent Topic:**[Configure service to use Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/config-service-for-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

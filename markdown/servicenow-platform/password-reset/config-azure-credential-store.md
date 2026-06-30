@@ -14,7 +14,7 @@ breadcrumb: [Credential Store for Password Reset for Microsoft Entra ID, Credent
 
 # Configure the connection to the Microsoft Entra ID Credential Store
 
-Create a [[password-reset-landing-page|Password Reset]] credential store record to configure access to your Microsoft Entra ID server while a user is changing or resetting a password. In addition to host connection information, you can specify the password hints that users should see and other settings.
+Create a Password Reset credential store record to configure access to your Microsoft Entra ID server while a user is changing or resetting a password. In addition to host connection information, you can specify the password hints that users should see and other settings.
 
 ## Before you begin
 
@@ -84,7 +84,7 @@ Enable Password Strength
 
 </td><td>
 
-Select the [[check-box|check box]] to:-   Display the text box for the **Strength rule** script so you can update the script.
+Select the check box to:-   Display the text box for the **Strength rule** script so you can update the script.
 -   Display the graphical **Password Strength** bar to the user while the user changes or resets the password.
 
 
@@ -122,7 +122,3 @@ Check this option to select either a default password policy or one you created 
 
 **Parent Topic:**[Credential Store for Password Reset for Microsoft Entra ID](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/credentials-store-micro-ad.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]
-- [[check-box|Check box]]

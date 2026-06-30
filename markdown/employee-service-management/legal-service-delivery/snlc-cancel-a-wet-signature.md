@@ -42,7 +42,7 @@ Actions
 
 </td><td>
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**
+1.  Navigate to **All** &gt; **Employee Center**
 2.  Select **My Requests** in the header menu.
 3.  Open the non-disclosure agreement request.
 
@@ -71,6 +71,3 @@ The contract status updates to Signature cancelled, and a notification email is 
 
 **Parent Topic:**[Signature workflow for a request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-lsd-signature-workflow.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]

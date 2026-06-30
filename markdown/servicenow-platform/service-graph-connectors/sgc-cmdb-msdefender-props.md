@@ -18,7 +18,7 @@ Service Graph Connector properties control the behavior of connections.
 
 ## System properties
 
-These system properties are available for [[sgc-cmdb-integration-msdefender|Service Graph Connector for Microsoft Defender Endpoint]].
+These system properties are available for Service Graph Connector for Microsoft Defender Endpoint.
 
 **Note:** To open the System Properties \[sys\_properties\] table, enter `sys_properties.list` in the navigation filter.
 
@@ -42,7 +42,3 @@ Enter the maximum number of rows fetched in the List machines API response from 
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sgc-cmdb-integration-msdefender|Service Graph Connector for Microsoft Defender Endpoint]]

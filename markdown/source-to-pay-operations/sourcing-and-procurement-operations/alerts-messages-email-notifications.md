@@ -14,7 +14,7 @@ breadcrumb: [Using Shopping Hub, Use, Sourcing and Procurement Operations, Finan
 
 # Alerts and email notifications from ShoppingHub
 
-Several alerts and email notifications are triggered from ShoppingHub. This may be a result of your action, an assignment for you, or to keep you updated on the status of your purchases, including blanket [[contracts|contracts]].
+Several alerts and email notifications are triggered from ShoppingHub. This may be a result of your action, an assignment for you, or to keep you updated on the status of your purchases, including blanket contracts.
 
 ## Alerts
 
@@ -32,7 +32,7 @@ You receive an alert triggered from ShoppingHub when:
 
 ShoppingHub sends out emails in a predefined template and uses flow designer to trigger the different email conditions. You can use the deep links that are provided in the emails to view relevant details. You’re notified through email when:
 
--   You submit a purchase request, irrespective of approval requirement \(for one or multiple [[purchase-lines|purchase lines]]\)
+-   You submit a purchase request, irrespective of approval requirement \(for one or multiple purchase lines\)
 -   You submit a new purchase request from a third-party site​.
 -   Your delegate submits a purchase request, irrespective of approval requirement \(for one or multiple purchase lines\)
 -   You submit a purchase request, irrespective of approval requirement that is automatically merged with an existing purchase request \(for one or multiple purchase lines\)
@@ -41,7 +41,7 @@ ShoppingHub sends out emails in a predefined template and uses flow designer to 
     **Note:** As an approver, you can approve the purchase from the email itself. For details, see [Approval email notification templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/approval-email-notifications-template.md).
 
 -   An approver requests clarifications on your purchase request
--   An approver requests clarifications on your [[sourcing-request|sourcing request]]
+-   An approver requests clarifications on your sourcing request
 -   You respond to clarification requests on your purchase request
 -   You respond to clarification requests on your sourcing request
 -   A purchase is manually merged with an existing purchase, irrespective of approval requirement
@@ -52,9 +52,9 @@ ShoppingHub sends out emails in a predefined template and uses flow designer to 
 -   Your sourcing request is approved, partially approved, or rejected
 -   You initiate or submit a purchase revision, irrespective of approval requirement
 -   Your purchase revision is confirmed, approved, rejected, or canceled
--   There are any price or quantity changes during [[purchase-order-table|purchase order]] confirmation
--   There are any rejections for any [[purchase-order-lines|purchase order lines]] that could not be fulfilled during purchase order confirmation
--   Your purchase is ordered from a [[supplier|supplier]]
+-   There are any price or quantity changes during purchase order confirmation
+-   There are any rejections for any purchase order lines that could not be fulfilled during purchase order confirmation
+-   Your purchase is ordered from a supplier
 -   Purchasing permissions are added for you on a blanket purchase order \(for one or multiple purchase lines\)
 -   A blanket purchase order, for which you have purchasing permissions, is created or open \(for one or multiple purchase lines\)
 -   Seven days are left for a blanket purchase order contract to expire \(for one or multiple purchase lines\)
@@ -67,7 +67,7 @@ ShoppingHub sends out emails in a predefined template and uses flow designer to 
 -   You receive a delivery
 -   A purchasing task is assigned to you
 -   A breached approval review task is assigned to you
--   You’re mentioned in an [[activity-stream|activity stream]]
+-   You’re mentioned in an activity stream
 -   A new to-do is created and assigned to you
 -   A to-do assigned to you is due today or overdue
 -   A confirm receipt to-do is assigned to you
@@ -87,12 +87,3 @@ You can adjust the email trigger conditions and content in flow designer or emai
 
 **Parent Topic:**[Using Shopping Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/use-shoppinghub-portal.md)
 
-## Related
-
-- [[contracts|Contracts]]
-- [[purchase-lines|Purchase lines]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-table|Purchase order]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[activity-stream|Activity stream]]

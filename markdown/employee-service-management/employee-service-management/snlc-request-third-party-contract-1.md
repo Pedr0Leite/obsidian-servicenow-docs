@@ -47,7 +47,7 @@ As a legal fulfiller on the legal team, you work on assigned third-party review 
         -   For external storage - Reviewers collaborate on the contract document revision online in real time. Once the review is complete, the fulfiller can finalize the contract document that is available online or create a new offline version with the changes.
 6.  The contract fulfiller uploads the revised contract to the contract request.
 7.  The contract fulfiller emails the revised contract document to third-party contacts.
-8.  View responses from third-party contacts in the [[activity-lxp|activity]] stream of the contract request.
+8.  View responses from third-party contacts in the activity stream of the contract request.
 
     Multiple iterations of revisions between your company and the third party might be necessary before the contract document is finalized by all parties. The review process may be conducted again with different reviewer groups.
 
@@ -69,7 +69,7 @@ Submit contracts or third-party terms and conditions to the legal team for revie
 -   **[View and track third-party contract review request as a legal user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-tpc-view-request.md)**  
 View the details of a third-party contract review request after it has been submitted and track the activities in the request.
 -   **[Modify a third-party review request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-update-contract-tpc.md)**  
-As a requester, [[update-legal-contract-request-tpc|modify a legal request]] to update the request details or replace the attached contract document with an updated version.
+As a requester, modify a legal request to update the request details or replace the attached contract document with an updated version.
 -   **[Work on a third-party contract review request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-tpc-review-request.md)**  
 As a member of the legal contracts support team, review and revise a third-party contract document. You can email the revised document to stakeholders to verify the revisions and then send the ready document for signature from within the legal request.
 
@@ -94,10 +94,5 @@ As a member of the legal contracts support team, review and revise a third-party
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[update-legal-contract-request-tpc|Modify a legal request]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

@@ -14,7 +14,7 @@ breadcrumb: [Network diagram, Use, Telecommunications Network Inventory]
 
 # View the details of a network diagram
 
-View the details of a connection node and visualize the underlying connection elements of a logical connection by using the [[using-network-diagram|network diagram]] in the [[telecom-network-inventory|Telecommunications Network Inventory]]. You can understand the detailed overview of the logical connection and how the connection elements are connected to each other.
+View the details of a connection node and visualize the underlying connection elements of a logical connection by using the network diagram in the Telecommunications Network Inventory. You can understand the detailed overview of the logical connection and how the connection elements are connected to each other.
 
 ## Before you begin
 
@@ -31,11 +31,11 @@ With the use of a network diagram, you can do the following:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon\).
 
-3.  Go to **Inventory** &gt; **[[design-logical-connection-design-assign-playbook|Logical Connections]]**.
+3.  Go to **Inventory** &gt; **Logical Connections**.
 
 4.  Open a record and then select **View connection**.
 
@@ -84,7 +84,7 @@ Select the protection path icon \(\[Omitted image "icon-protection-path.png"\] A
 
 You can’t expand the underlying connection elements of a protection path. To view the details of the protection path, select the protection path node, and then select **View Details** in the details pane.
 
-To learn more about to [[create-a-protection-path|create a protection path]], see [Create a protection path](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-protection-path.md).
+To learn more about to create a protection path, see [Create a protection path](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-a-protection-path.md).
 
 </td></tr><tr><td id="d33105e252">
 
@@ -109,10 +109,3 @@ To learn more about to [[create-a-protection-path|create a protection path]], se
 
 [Visualize circuits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/unified-map-view-of-connection-elements.md)
 
-## Related
-
-- [[using-network-diagram|Network diagram]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[create-a-protection-path|Create a protection path]]

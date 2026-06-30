@@ -20,7 +20,7 @@ Role required: virtual\_agent\_admin
 
 ## About this task
 
-Enable the [[csm-workspace-chat-session-tabs|chat session tabs]] feature and select the workspace that the feature applies to.
+Enable the [chat session tabs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs.md) feature and select the workspace that the feature applies to.
 
 You can configure a minimum of one and a maximum of three chat SLA threshold timers for a workspace. These timers alert agents to unread messages by changing the [tab colors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-workspace-chat-session-tabs.md) of the inactive chats.
 
@@ -82,6 +82,4 @@ You can configure a minimum of one and a maximum of three chat SLA threshold tim
 
     The workspace is added to the Configured workspaces list in the Session Tab Settings section.
 
-## Related
 
-- [[csm-workspace-chat-session-tabs|CSM Configurable Workspace chat session tabs]]

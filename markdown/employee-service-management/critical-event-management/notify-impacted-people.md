@@ -14,7 +14,7 @@ breadcrumb: [Critical Event Management, Health and Safety, Employee Service Mana
 
 # Sending notifications during a critical event
 
-Send critical event notification to impacted people and on-site responders in [[critical-event-management|Critical Event Management]] to inform them of the situation and request their response.
+Send critical event notification to impacted people and on-site responders in Critical Event Management to inform them of the situation and request their response.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Use the existing notification templates to send messages to impacted people and 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Critical Event Management** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -52,7 +52,3 @@ Add or edit the list of recipients for various communication tasks.
 
 **Parent Topic:**[Critical Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/critical-event-management/critical-event-management.md)
 
-## Related
-
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

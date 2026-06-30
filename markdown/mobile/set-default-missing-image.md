@@ -80,8 +80,5 @@ Value
 &lt;`file-name`&gt;**Note:** Match &lt;`file-name`&gt; to the file name of the image that you have uploaded.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[additional-mobile-configuration|Mobile system property configurations]]
+</table>**Parent Topic:**[Mobile system property configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/additional-mobile-configuration.md)
 
-## Related
-
-- [[additional-mobile-configuration|Mobile system property configurations]]

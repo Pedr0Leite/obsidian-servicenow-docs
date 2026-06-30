@@ -14,7 +14,7 @@ breadcrumb: [Observables, TISC Library Repository, Threat Intelligence Security 
 
 # Run Enrichment Actions from Observable
 
-Use this section to understand how enrichments actions are performed on [[c_Observables|observables]] and [[tisc-other-objects|other objects]].
+Use this section to understand how enrichments actions are performed on observables and other objects.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Observables** &gt; **All Observables**.
 
@@ -34,18 +34,10 @@ Role required: sn\_sec\_tisc.admin
 
 6.  Click **Submit**.
 
-    For example, [[tisc-run-threat-lookup|Run Threat Lookup]]. The selected enrichment action will be executed and an information message is displayed that [[tisc-observable-enrichment|Observable enrichment]] execution has started on the selected observable\(s\). Results will be available in the detail page of respective observable\(s\) once the execution is complete.
+    For example, Run Threat Lookup. The selected enrichment action will be executed and an information message is displayed that Observable enrichment execution has started on the selected observable\(s\). Results will be available in the detail page of respective observable\(s\) once the execution is complete.
 
     **Note:** Once the execution initiated or completed, a work notes is posted on the activity stream of the form view.
 
 
 **Parent Topic:**[Observables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/observables.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-other-objects|Other Objects]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[tisc-run-threat-lookup|Run Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

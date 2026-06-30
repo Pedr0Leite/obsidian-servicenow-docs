@@ -41,7 +41,7 @@ The following table lists fields for the outbound cost allocation \[sn\_spend\_i
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Distribution set form]()
 
@@ -67,6 +67,3 @@ The following table lists fields for the outbound cost allocation \[sn\_spend\_i
 
 [Accounts Payable Operations glossary]()
 
-## Related
-
-- [[invoice-line-cost-allocation|Invoice cost allocation]]

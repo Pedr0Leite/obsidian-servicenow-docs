@@ -12,9 +12,9 @@ breadcrumb: [Configure sets, CPQ app, Configure, price, quote apps, Configure, S
 
 # How sets interact with the rest of a blueprint
 
-The implications of [[cpq-sets|sets]] when used in [[blueprints|blueprints]].
+The implications of sets when used in blueprints.
 
-Suppose you have a blueprint with the following [[fields|fields]]:
+Suppose you have a blueprint with the following fields:
 
 -   field1
 -   field2
@@ -38,7 +38,7 @@ If in sampleSet index 1, setFieldA=Video and in sampleSet index 2, setFieldA=Aud
 
 For index1, the condition is true, and the rule fires. For index2, the condition is false, and the rule does not fire. Because field2 is outside the set, it is not clear whether the rule should fire.
 
-However, you can write [[rules_101|rules]] for fields that affect other fields in the same set. These rules are independently applied to each index. Fields in indexes cannot influence fields in other indexes.
+However, you can write rules for fields that affect other fields in the same set. These rules are independently applied to each index. Fields in indexes cannot influence fields in other indexes.
 
 ## Example: A valid rule
 
@@ -69,12 +69,5 @@ If we want to have set fields affect fields outside the set, we have to use the 
 **Related topics**  
 
 
-[[creating_set_aggregates|Creating set aggregates]]
+[Creating set aggregates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/creating_set_aggregates.md)
 
-## Related
-
-- [[creating_set_aggregates|Creating set aggregates]]
-- [[cpq-sets|Sets]]
-- [[blueprints|Blueprints]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]

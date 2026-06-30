@@ -16,9 +16,9 @@ breadcrumb: [Style in Content Management, Configure Content Management sites, Co
 
 Design themes are the convergence of structure and styling, making them a critical tool for creating a powerful user interface.
 
-For a successful project, review the [[c_LeverageTheCorporateStyleGuide|corporate style guide]] and communicate with the corporate website art team. If the organization has an art or design department that maintains branding, include them in this process.
+For a successful project, review the corporate style guide and communicate with the corporate website art team. If the organization has an art or design department that maintains branding, include them in this process.
 
-A theme is a collection of one or more [[c_StyleSheets|style sheets]] \(CSS files\) that define a consistent look for a set of pages. In most environments, many pages share a few themes. Use multiple themes within a site to create stylistic differentiators between site areas. You can also use a single theme to create one unified look and feel for the site.
+A theme is a collection of one or more style sheets \(CSS files\) that define a consistent look for a set of pages. In most environments, many pages share a few themes. Use multiple themes within a site to create stylistic differentiators between site areas. You can also use a single theme to create one unified look and feel for the site.
 
 -   **[Customize a design theme](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateADesignTheme.md)**  
 A theme is a collection of one or more style sheets \(CSS files\) that define a consistent look for a set of pages.
@@ -32,7 +32,3 @@ A theme is a collection of one or more style sheets \(CSS files\) that define a 
 
 [Create a frame UI macro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateANewFrameUIMacro.md)
 
-## Related
-
-- [[c_LeverageTheCorporateStyleGuide|Corporate style guide]]
-- [[c_StyleSheets|Style sheets]]

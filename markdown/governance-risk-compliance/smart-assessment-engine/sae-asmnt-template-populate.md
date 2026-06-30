@@ -14,7 +14,7 @@ breadcrumb: [Create an assessment template, Use template designer, Manage, Smart
 
 # Add instructions and questions to an assessment template
 
-Add instructions and questions to an assessment template by using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] application. You can use instructions and questions to help gather precise and relevant information from designated responders.
+Add instructions and questions to an assessment template by using the Smart Assessment Engine application. You can use instructions and questions to help gather precise and relevant information from designated responders.
 
 ## Before you begin
 
@@ -122,6 +122,4 @@ Role that is required to view an assessment that is generated from this template
     |Create and configure date type questions.|[Create a date question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-q-date-create.md)|
     |Create and configure code type questions.|[Create a code question](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/sae-q-code-create.md)|
 
-## Related
 
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

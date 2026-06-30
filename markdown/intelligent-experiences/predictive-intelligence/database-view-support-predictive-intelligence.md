@@ -22,7 +22,7 @@ Database views help expand the amount of fields your solution can use for traini
 
 Database views enable you to join two or more tables into one consolidated view. For this to work in an ML solution you must first create the database view. See [Database views](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DatabaseViews.md).
 
-Database views are supported in all four of the [[predictive-intelligence-landing|Predictive Intelligence]] capability frameworks: classification, similarity, clustering, and regression.
+Database views are supported in all four of the Predictive Intelligence capability frameworks: classification, similarity, clustering, and regression.
 
 ## A database view example for Predictive Intelligence
 
@@ -48,6 +48,3 @@ To use a database view in your similarity solution, instead of selecting a table
 
 **Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

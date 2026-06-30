@@ -18,14 +18,14 @@ Use the enhanced filters experience to manage and prioritize the tasks. Using th
 
 With filters, Admins empower employees to search, filter, and narrow-down the desired tasks that are time-sensitive and business-critical. Using the options, employees can manage their tasks using the admin-configured filters from the **My Tasks** page.
 
-Use filters to easily filter, [[discover-lxp|discover]], and fulfill the tasks in a few clicks. Select these filters and see the records that meet the selected filter condition.
+Use filters to easily filter, discover, and fulfill the tasks in a few clicks. Select these filters and see the records that meet the selected filter condition.
 
 \[Omitted image "ec-filters-mytasks.png"\] Alt text: My tasks
 
 -   Organize and view the tasks by different filters like Task type, Priority, Due date, My team approvals, and so on.
 -   Use the Task type filter to choose from Approvals, SAP Concur tasks, Workday tasks, Requests, and so on.
 -   Select, change, and remove filters to discover your tasks.
--   Discover and fulfill the tasks such as on-boarding, approvals, and [[exploring-learning-exp|learning]].
+-   Discover and fulfill the tasks such as on-boarding, approvals, and learning.
 
 For configuration steps, see [Configurable task filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configurable-filters-experience-employee.md)
 
@@ -34,7 +34,7 @@ For configuration steps, see [Configurable task filters](https://raw.githubuserc
 **Related topics**  
 
 
-[Use the [[employee-center-landing-page|Employee Center]] topic pages]()
+[Use the Employee Center topic pages]()
 
 [Topic managers and contributors for topic page management]()
 
@@ -46,7 +46,7 @@ For configuration steps, see [Configurable task filters](https://raw.githubuserc
 
 [Manage approvals from a Microsoft Outlook email]()
 
-[View the [[rfy-ec|Recommended for you]] content]()
+[View the Recommended for you content]()
 
 [Use Employee Center from Zoom]()
 
@@ -64,9 +64,3 @@ For configuration steps, see [Configurable task filters](https://raw.githubuserc
 
 [Use Guided Self-Service]()
 
-## Related
-
-- [[discover-lxp|Discover]]
-- [[exploring-learning-exp|Learning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[rfy-ec|Recommended for you]]

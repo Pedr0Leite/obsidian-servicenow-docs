@@ -14,7 +14,7 @@ breadcrumb: [Requesting translations in Localization Workspace, Localization Wor
 
 # Request translations in Localization Workspace: Scope
 
-Select specific documents to add to a translation request in [[localization-workspace|Localization Workspace]].
+Select specific documents to add to a translation request in Localization Workspace.
 
 ## Before you begin
 
@@ -66,6 +66,3 @@ The following procedure covers step three of four steps in the Translation Reque
 
 Advance to the next step in the Translation Request wizard, **Estimate**, where you can review projected costs and set a due date for the translation request.
 
-## Related
-
-- [[localization-workspace|Localization Workspace]]

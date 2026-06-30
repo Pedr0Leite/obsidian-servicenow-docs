@@ -28,7 +28,7 @@ As a collaborator added to a legal matter, you can access and work on the legal 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  In the Legal Counsel Center tab, select the list icon \[Omitted image "lsd-lcc-list-icon.png"\] Alt text:.
 
@@ -78,6 +78,3 @@ The approval record is canceled and its state updates to Cancelled and comments 
 
 **Parent Topic:**[Initiate an ad hoc approval for a legal matter or its artifact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-matter-management/initiate-approval-legal-matter.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]

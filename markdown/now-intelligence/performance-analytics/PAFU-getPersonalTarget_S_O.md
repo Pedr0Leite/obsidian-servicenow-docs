@@ -16,7 +16,7 @@ breadcrumb: [PAFormulaUtils API, Get analytics methods in formulas, Formula indi
 
 Returns the personal target associated with the specified indicator for the specified date.
 
-Use this method to obtain a personal index score. "Personal" refers to the active user who is looking at the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+Use this method to obtain a personal index score. "Personal" refers to the active user who is looking at the Analytics Hub.
 
 |Name|Type|Description|
 |----|----|-----------|
@@ -64,6 +64,3 @@ res;
 
 [PAFormulaUtils API](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/PAFormulaUtils.md)
 
-## Related
-
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]

@@ -76,7 +76,7 @@ The example in this topic sets the values in different ways:
 
 8.  To obtain the Sys ID of a business service:
 
-    1.  In the main interface for the instance \(not the [[cloud-admin-portal|Cloud Admin Portal]] interface\), enter `cmdb_ci_service.list` in the application filter.
+    1.  In the main interface for the instance \(not the Cloud Admin Portal interface\), enter `cmdb_ci_service.list` in the application filter.
 
     2.  Find the business service that you want to make the default.
 
@@ -150,6 +150,3 @@ You can create a condition or multiple conditions that must be met before the sy
 
 **Parent Topic:**[Cloud catalog form configuration examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/example-blueprint-rules.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

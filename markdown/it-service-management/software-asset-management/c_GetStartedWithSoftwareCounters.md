@@ -14,7 +14,7 @@ breadcrumb: [Software license reconciliation counters for the legacy Software As
 
 # Get started with software counters for the legacy Software Asset Management plugin
 
-A good way to see how software counters work is to use the demo data provided with the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+A good way to see how software counters work is to use the demo data provided with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 Load the demo data on a non-production instance.
 
@@ -26,6 +26,3 @@ To use software counters with your own information, follow the steps in the [Leg
 
 **Parent Topic:**[Software license reconciliation counters for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseCountersSWLicenseReconcil.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]

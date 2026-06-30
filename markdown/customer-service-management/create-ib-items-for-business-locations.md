@@ -12,7 +12,7 @@ breadcrumb: [Business locations, Configure Service Model Foundation, Data models
 
 # Create and manage install base items for a business location
 
-As a staff member with the location agent role, create and manage [[install-base-item|install base items]] for your business locations.
+As a staff member with the location agent role, create and manage install base items for your business locations.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Staff members with the sn\_customerservice\_manager role, create install base it
 
 2.  Select either an internal or an external business location.
 
-3.  In the Install Base Item related [[migration-lists|lists]], select **New**.
+3.  In the Install Base Item related lists, select **New**.
 
 4.  On the form, fill in the fields.
 
@@ -49,10 +49,5 @@ Staff members with the sn\_customerservice\_manager role, create install base it
 **Related topics**  
 
 
-[[create-install-base-item|Create an install base item]]
+[Create an install base item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/create-install-base-item.md)
 
-## Related
-
-- [[create-install-base-item|Create an install base item]]
-- [[install-base-item|Install base items]]
-- [[migration-lists|Lists]]

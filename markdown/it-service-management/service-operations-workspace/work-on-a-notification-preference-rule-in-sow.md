@@ -36,13 +36,10 @@ Role required: rota\_manager, rota\_admin
 
     **Important:**
 
-    Deleting a delivery channel removes it from all notification preference rules that [[reference-for-itsm-mobile-agent|reference]] it. Verify that no active rules depend on the channel before deleting it.
+    Deleting a delivery channel removes it from all notification preference rules that reference it. Verify that no active rules depend on the channel before deleting it.
 
 7.  Select **Save** to apply your changes.
 
 
 **Parent Topic:**[Create notification preference rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/create-notification-preference-rule.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]

@@ -57,7 +57,7 @@ Publisher part number
 
 </td><td>
 
-Publisher part number from the Software Product Definitions lookup list of predefined software that may have already been purchased. When you select a publisher part number, you may encounter a message: `Many underlying [[c_CreatingSoftwareModels|software models]] are being created. These might be part of suite components, [[downgrade-rights|downgrade rights]] or next version. Please validate on completion`. The message appears only if there are greater than or equal to 50 suite components for the software model and if any of the following conditions are met:
+Publisher part number from the Software Product Definitions lookup list of predefined software that may have already been purchased. When you select a publisher part number, you may encounter a message: `Many underlying software models are being created. These might be part of suite components, downgrade rights or next version. Please validate on completion`. The message appears only if there are greater than or equal to 50 suite components for the software model and if any of the following conditions are met:
 
 -   A software model does not exist for any suite component
 -   A software model does not exist for any downgrade right
@@ -231,7 +231,3 @@ Cost center financially responsible for the asset.
 </td></tr></tbody>
 </table>**Parent Topic:**[Software Asset Management references](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/references.md)
 
-## Related
-
-- [[c_CreatingSoftwareModels|Software models]]
-- [[downgrade-rights|Downgrade Rights]]

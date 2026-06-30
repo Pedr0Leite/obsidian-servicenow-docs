@@ -14,7 +14,7 @@ breadcrumb: [Exploring insurance claims applications, Insurance applications, Fi
 
 # Commercial Lines Claims
 
-The Commercial Lines Claims application enables your organization to quickly set up the various stages of the claim process. This process, which starts from the first notice of loss to the claim closure, enables your processors, adjusters, and special investigation agents to manage commercial [[insurance-claims-flow|insurance claims]].
+The Commercial Lines Claims application enables your organization to quickly set up the various stages of the claim process. This process, which starts from the first notice of loss to the claim closure, enables your processors, adjusters, and special investigation agents to manage commercial insurance claims.
 
 <table class="nav-card"><tbody><tr><td>
 
@@ -36,7 +36,3 @@ s
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[insurance-claims-flow|Insurance claims]]

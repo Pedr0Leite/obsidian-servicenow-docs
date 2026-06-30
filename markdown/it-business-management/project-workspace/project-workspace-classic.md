@@ -18,7 +18,7 @@ Define, plan, track, and monitor your projects from a single location. View stat
 
 **Important:**
 
-Classic [[project-workspace-landing-page|Project Workspace]] is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new [Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md) with enhanced UI to help you efficiently manage your projects.
+Classic Project Workspace is being prepared for future deprecation. It will be hidden and no longer available for installation but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base. Use new [Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/project-workspace-landing-page.md) with enhanced UI to help you efficiently manage your projects.
 
 ## Projects in the My Projects Space page
 
@@ -55,7 +55,7 @@ The project workspace comprises of the following tabs described at a high level:
 
 -   **Details**
 
-    The **Details** tab opens the [[create-a-project-form|project form]] and enables you to define important aspects of the project.
+    The **Details** tab opens the project form and enables you to define important aspects of the project.
 
 -   **Planning**
 
@@ -63,7 +63,7 @@ The project workspace comprises of the following tabs described at a high level:
 
 -   **Resources**
 
-    The **Resources** tab enables you to find resources, and create and manage the resources plans for the project and [[t_CreateAProjectTask|project tasks]]. The tab is available only to a project manager.
+    The **Resources** tab enables you to find resources, and create and manage the resources plans for the project and project tasks. The tab is available only to a project manager.
 
 -   **Financials**
 
@@ -89,7 +89,7 @@ Perform the project planning such as create project schedule, make resource assi
 -   **[Track a project using project workbench in classic Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/track-project-using-project-workbench.md)**  
 As a project manager, track and manage a project in Project Workbench.
 -   **[Create and manage resource plans for a project in classic Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/manage-resources-for-project.md)**  
-As a resource requester, find the availability of the resources, and create and manage the [[c_ResourcePlans|resource plans]] for the project and project tasks in the project workspace.
+As a resource requester, find the availability of the resources, and create and manage the resource plans for the project and project tasks in the project workspace.
 -   **[View forecasts and manage financial plans for a project in classic Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/view-plan-financials-in-project-workspace.md)**  
 Use the **Financials** tab in Project Workspace to capture the costs and benefits of a project.
 -   **[Request funds for a project in classic Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/request-project-funds.md)**  
@@ -101,9 +101,3 @@ As a project manager, view the project status reports for a project using **Stat
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[c_ResourcePlans|Resource plans]]

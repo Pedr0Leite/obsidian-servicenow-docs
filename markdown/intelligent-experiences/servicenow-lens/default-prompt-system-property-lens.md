@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-You can define default instructions for specific forms to create or update records [[servicenow-lens-use|using ServiceNow AI Lens]] in a ServiceNow instance. This helps streamline the request process by eliminating the need for users to manually enter the same instructions each time. The defined instructions are automatically included in all [[servicenow-lens-landing-page|ServiceNow AI Lens]] requests for that form or table.
+You can define default instructions for specific forms to create or update records using ServiceNow AI Lens in a ServiceNow instance. This helps streamline the request process by eliminating the need for users to manually enter the same instructions each time. The defined instructions are automatically included in all ServiceNow AI Lens requests for that form or table.
 
 When users provide additional instructions through the ServiceNow AI Lens UI, those instructions are appended to the default instructions. If there is a conflict between user input, application-generated instructions, and system-defined defaults, ServiceNow AI Lens instructs the LLM to prioritize the user-provided input.
 
@@ -61,7 +61,4 @@ Enter the default instructions. For example - Suggest a suitable start date for 
 </td></tr></tbody>
 </table>4.  Select **Submit**.
 
-## Related
 
-- [[servicenow-lens-use|Using ServiceNow AI Lens]]
-- [[servicenow-lens-landing-page|ServiceNow AI Lens]]

@@ -25,7 +25,7 @@ A software component model record is automatically created whenever a discovery 
 -   Is normalized with a normalized version set.
 -   Is manually normalized with a normalized version set.
 
-A script runs to generate software component [[c_Models|models]] from the normalized discovery models. This script uses the system property, **com.snc.sam.software\_component.choice.version\_level**, to determine the granularity of the normalized version. You can configure this system property to set the version level options, which include the following versions:
+A script runs to generate software component models from the normalized discovery models. This script uses the system property, **com.snc.sam.software\_component.choice.version\_level**, to determine the granularity of the normalized version. You can configure this system property to set the version level options, which include the following versions:
 
 -   MAJOR
 -   FULL
@@ -36,13 +36,13 @@ A script runs to generate software component [[c_Models|models]] from the normal
 
 Two records are created in the Software Model Component table when a FULL version and a MAJOR version exist for the normalized discovery model. However, only one record is created if only the MAJOR version exists.
 
-You can also manually create a software component model record in the Software Component Model \[cmdb\_software\_component\_model\] table. If you have the [[c_SoftwareAssetMgmt|Software Asset Management]] Foundation plugin or the Software Asset Management Professional application while creating the record, you can reference the Software Product \[samp\_sw\_product\] table. If you are not using the Software Asset Management application, you need to type in the software product name.
+You can also manually create a software component model record in the Software Component Model \[cmdb\_software\_component\_model\] table. If you have the Software Asset Management Foundation plugin or the Software Asset Management Professional application while creating the record, you can reference the Software Product \[samp\_sw\_product\] table. If you are not using the Software Asset Management application, you need to type in the software product name.
 
 ## Upgrade information
 
 When you upgrade to Zurich release and later releases, the scheduled job, **SAM - Generate software component model** does a one time run to generate component model records for all existing normalized discovery models which are then stored in the Software Component Model table.
 
-After the upgrade, every time a new discovery model is normalized, the business rule,**Create software component model** that runs on the [[sam-software-discovery|Software discovery]] model \[cmdb\_sam\_sw\_discovery\_model\] table gets triggered and automatically creates new software component model records for the new normalized discovery models.
+After the upgrade, every time a new discovery model is normalized, the business rule,**Create software component model** that runs on the Software discovery model \[cmdb\_sam\_sw\_discovery\_model\] table gets triggered and automatically creates new software component model records for the new normalized discovery models.
 
 **Note:** The Software Discovery Model table is available if you have Software Asset Management Foundation plugin or the Software Asset Management Professional application running on your ServiceNow instance.
 
@@ -56,8 +56,3 @@ The following are some considerations to keep in mind for discovery models:
 
 **Parent Topic:**[Exploring Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/explore-sam-workspace.md)
 
-## Related
-
-- [[c_Models|Models]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]

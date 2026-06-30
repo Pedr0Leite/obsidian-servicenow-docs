@@ -14,30 +14,30 @@ breadcrumb: [Indicator breakdowns, Configure fundamentals, Performance Analytics
 
 # Using breakdowns on dashboards
 
-You can [[t_ExistingBreakdownDashboard|add breakdown sources to a dashboard]]. Dashboard users then can select a breakdown source and one or more breakdown elements to filter scores in the visualizations on the dashboard.
+You can add breakdown sources to a dashboard. Dashboard users then can select a breakdown source and one or more breakdown elements to filter scores in the visualizations on the dashboard.
 
-The selected elements filter those [[c_Widgets|Performance Analytics widgets]] on the dashboard that follow these conditions:
+The selected elements filter those Performance Analytics widgets on the dashboard that follow these conditions:
 
--   An indicator on the widget uses a breakdown that is based on the selected breakdown source. For [[formula-indicators|formula indicators]], all the contributing indicators in the formula must use a breakdown based on this source.
+-   An indicator on the widget uses a breakdown that is based on the selected breakdown source. For formula indicators, all the contributing indicators in the formula must use a breakdown based on this source.
 -   The widget follows elements on breakdown dashboards.
 
 The selected elements filter reports on the dashboard under the following conditions:
 
 -   You have configured the dashboard to use the breakdown source as an interactive filter.
--   The report follows [[c_HomepagePublishers|interactive filters]] on the dashboard.
+-   The report follows interactive filters on the dashboard.
 
-If the dashboard user selects multiple elements, [[widgets|widgets]] can show scores separately for those elements, or show a single aggregate, depending on the widget type and configuration. For more information, see [Showing multiple elements separately or aggregated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-element-select-indicator-views.md).
+If the dashboard user selects multiple elements, widgets can show scores separately for those elements, or show a single aggregate, depending on the widget type and configuration. For more information, see [Showing multiple elements separately or aggregated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-element-select-indicator-views.md).
 
 **Note:** If you show a breakdown relation on a widget, that widget can't show multiple elements. For more information, see [Showing breakdown relations on dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_ShowBkdwnRltnsWdgts.md).
 
-The following illustration shows a breakdown widget with the scores given separately for each selected element of the Category breakdown. The dashboard user has selected three elements of the Incident.Category breakdown source. If this user has access to the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]], they can select any score to view the score trend in the Analytics Hub.
+The following illustration shows a breakdown widget with the scores given separately for each selected element of the Category breakdown. The dashboard user has selected three elements of the Incident.Category breakdown source. If this user has access to the Analytics Hub, they can select any score to view the score trend in the Analytics Hub.
 
 \[Omitted image "breakdown-db-with-mes3.png"\] Alt text: Dashboard with multiple breakdown elements applied from the Category breakdown
 
 **Note:** If you view a breakdown dashboard with a breakdown applied but no elements, the widgets show the base indicator scores. The breakdown does not filter the scores. These scores are usually higher than the scores when you select a breakdown and all elements. Often not all elements are available due to element security or an element filter. You also usually can't select the Unassigned score, which contributes to the indicator scores.
 
 -   **[Add breakdown sources to a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_ExistingBreakdownDashboard.md)**  
-To enable dashboard users to filter visualizations on a dashboard by breakdown element, add [[breakdown-sources|breakdown sources]] to the dashboard.
+To enable dashboard users to filter visualizations on a dashboard by breakdown element, add breakdown sources to the dashboard.
 -   **[Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/set-up-widgets-for-breakdown-dashboards.md)**  
 Configure each widget that goes on a breakdown dashboard. The configuration determines whether and how the widget follows the elements selected on the dashboard. For some widgets and indicators, you can select whether to show multiple element values separately or as an aggregate.
 -   **[Showing multiple elements separately or aggregated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/multi-element-select-indicator-views.md)**  
@@ -62,12 +62,3 @@ A breakdown widget can display 1st level breakdown elements that are related to 
 
 [Make a breakdown act as an interactive filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/make-breakdown-interactive-filter.md)
 
-## Related
-
-- [[t_ExistingBreakdownDashboard|Add breakdown sources to a dashboard]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[formula-indicators|Formula indicators]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[widgets|Widgets]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[breakdown-sources|Breakdown sources]]

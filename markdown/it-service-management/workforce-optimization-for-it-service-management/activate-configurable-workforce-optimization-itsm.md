@@ -14,7 +14,7 @@ breadcrumb: [Getting started, Workforce Optimization for ITSM, IT Service Manage
 
 # Activate Workforce Optimization for ITSM
 
-The [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]] Configurable Workspace plugin \(sn\_wfo\_cfg\_itsm\) is available with the ITSM Enterprise subscription package.
+The Workforce Optimization for ITSM Configurable Workspace plugin \(sn\_wfo\_cfg\_itsm\) is available with the ITSM Enterprise subscription package.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ Workforce Optimization for ITSM Configurable Workspace \(sn\_wfo\_cfg\_itsm\) **
 
 </td><td>
 
-Activates related plugins that enable you to use the Scheduling, Work Scheduler, [[cf-coaching-landing|Coaching]], Teams, and Channel Management [[dex-workspace-application-tab|applications]] in Workforce Optimization for ITSM.
+Activates related plugins that enable you to use the Scheduling, Work Scheduler, Coaching, Teams, and Channel Management applications in Workforce Optimization for ITSM.
 
 </td></tr><tr><td>
 
@@ -46,13 +46,13 @@ MetricBase \(com.snc.clotho\)
 
 </td><td>
 
-Enables you to use [[explore-demand-forecast-configurable-wfo-itsm|Demand Forecast in Workforce Optimization for ITSM]].To use Demand Forecast, you must activate the MetricBase plugin before you activate the Workforce Optimization for ITSM plugin. For more information, see [Request the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-metricbase.md).
+Enables you to use Demand Forecast in Workforce Optimization for ITSM.To use Demand Forecast, you must activate the MetricBase plugin before you activate the Workforce Optimization for ITSM plugin. For more information, see [Request the MetricBase product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/request-metricbase.md).
 
  When you activate both of these plugins, the Agent Forecast plugin \(com.sn\_agent\_forecast\) is activated.
 
 </td></tr><tr><td>
 
-[[itsm-virtual-agent|ITSM Virtual Agent]] Conversations\(com.snc.itsm.virtualagent\)
+ITSM Virtual Agent Conversations\(com.snc.itsm.virtualagent\)
 
  **Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -62,7 +62,7 @@ Activates the ITSM Virtual Agent and enables you to use a virtual agent to creat
 
 </td></tr><tr><td>
 
-[[itsm-mobile-agent|ITSM Mobile Agent]] for Workforce Optimization for ITSM **Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
+ITSM Mobile Agent for Workforce Optimization for ITSM **Note:** This is a ServiceNow Store plugin. You must install this plugin separately from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
 </td><td>
 
@@ -137,11 +137,3 @@ Enables you to assess your teams' abilities to resolve incidents efficiently.
 
 **Parent Topic:**[Getting started with Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/getting-started-workforce-optimization-itsm.md)
 
-## Related
-
-- [[workforce-optimization-itsm-landing-page|Workforce Optimization for ITSM]]
-- [[cf-coaching-landing|Coaching]]
-- [[dex-workspace-application-tab|Applications]]
-- [[explore-demand-forecast-configurable-wfo-itsm|Demand Forecast in Workforce Optimization for ITSM]]
-- [[itsm-virtual-agent|ITSM Virtual Agent]]
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

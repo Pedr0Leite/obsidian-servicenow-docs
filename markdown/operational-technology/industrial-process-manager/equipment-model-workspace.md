@@ -28,7 +28,7 @@ If you have an assigned cmdb\_ot\_isa\_viewer role, you can only view equipment 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]] Admin** &gt; **[[industrial-process-manager-overview|Industrial Process Manager]]** &gt; **Equipment Model Manager**.
+1.  Navigate to **All** &gt; **Industrial Workspace Admin** &gt; **Industrial Process Manager** &gt; **Equipment Model Manager**.
 
 2.  In the **Equipment model view for** field, select the site that you want to view the equipment model information for.
 
@@ -268,7 +268,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[viewing-equipment-model-hierarchy|View the equipment model hierarchy]]
+View the equipment model hierarchy
 
 </td><td>
 
@@ -334,11 +334,11 @@ To view the roll up for OT data associated with the equipment model entity and i
 -   Remediation Tasks
 
 -   **[Create an entity for a new equipment model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-entity-new-equipment-model.md)**  
-[[create-entity-new-equipment-model|Create an entity for a new equipment model]]. You do this task when you want to manually create a new equipment model entity directly in the ServiceNow AI Platform rather than import the equipment model data from an external source.
+Create an entity for a new equipment model. You do this task when you want to manually create a new equipment model entity directly in the ServiceNow AI Platform rather than import the equipment model data from an external source.
 -   **[View the equipment model hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/viewing-equipment-model-hierarchy.md)**  
 View a graphical representation of the hierarchical structure of the selected equipment model entity, and its relationships to other entities in the production process.
 -   **[View the equipment model OT device map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-equipment-model-ot-device-map.md)**  
-View the graphical representation of the selected equipment model entity and its relationship to other [[operational-technology-overview|Operational Technology]] \(OT\) devices in the production process.
+View the graphical representation of the selected equipment model entity and its relationship to other Operational Technology \(OT\) devices in the production process.
 -   **[View the equipment model OT dependency map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-equipment-model-ot-dependency-map.md)**  
 View the graphical representation of the hierarchical structure of the selected equipment model entity and its relationship with other entities and devices in the production process.
 -   **[Map the upstream production processes for the selected equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/map-upstream-production-processes-equipment-model-entity.md)**  
@@ -352,27 +352,17 @@ Use OT devices to review the OT devices that are associated with the selected eq
 -   **[Update the entity name or parent of an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/update-the-name-or-parent-equipment-model-entity.md)**  
 Update the entity name or parent fields in an equipment model entity record as needed to help keep your equipment model information up to date.
 -   **[Bulk edit a site's Operational Technology Vulnerability Response assignment group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/bulk-edit-assignment-group-otvr.md)**  
-Use the bulk edit feature to update the [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] \(OT VR\) assignment group field in multiple site records at once.
+Use the bulk edit feature to update the Operational Technology Vulnerability Response \(OT VR\) assignment group field in multiple site records at once.
 -   **[Generate a location hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/create-location-hierarchy-isa.md)**  
 When no locations exist, generate a complete location hierarchy for an ISA equipment model entity tree to establish location references that match the ISA hierarchy.
 -   **[Search for an equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/search-equipment-model-entities.md)**  
-[[search-equipment-model-entities|Search for an equipment model entity]] in the Industrial Workspace so that you can find the entity more quickly and efficiently.
+Search for an equipment model entity in the Industrial Workspace so that you can find the entity more quickly and efficiently.
 -   **[View all OT devices by managed network](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/view-ot-devices-managed-by-network.md)**  
 View your Operational Technology \(OT\) devices by managed network on the ServiceNow AI Platform.
 -   **[Filter equipment model entities by operational status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/filter-out-non-operational-equipment-model-entities.md)**  
 Filter how equipment model entities appear in the Equipment Model Manager on the Industrial Workspace using a system property. Filtering equipment model entities can help you organize the data shown on the Industrial Workspace.
 -   **[Favorite a child equipment model entity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/favorite-child-equipment-model-entity.md)**  
-[[favorite-child-equipment-model-entity|Favorite a child equipment model entity]] in the Equipment Model Manager of the Industrial Workspace so that you can access a tailored view of your favorites while working.
+Favorite a child equipment model entity in the Equipment Model Manager of the Industrial Workspace so that you can access a tailored view of your favorites while working.
 
 **Parent Topic:**[Managing equipment models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/managing-equipment-models-after-data-import.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]
-- [[viewing-equipment-model-hierarchy|View the equipment model hierarchy]]
-- [[create-entity-new-equipment-model|Create an entity for a new equipment model]]
-- [[operational-technology-overview|Operational Technology]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[search-equipment-model-entities|Search for an equipment model entity]]
-- [[favorite-child-equipment-model-entity|Favorite a child equipment model entity]]

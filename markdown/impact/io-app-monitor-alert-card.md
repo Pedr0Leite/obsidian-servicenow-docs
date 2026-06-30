@@ -12,7 +12,7 @@ breadcrumb: [Alerts in Instance Observer, Monitoring instance health with Instan
 
 # Set an alert to monitor the average response time of applications
 
-Set an alert to monitor the application [[instance-observer-performance|performance]] when the average response time of applications that run on an instance exceeds the configured threshold.
+Set an alert to monitor the application performance when the average response time of applications that run on an instance exceeds the configured threshold.
 
 ## Before you begin
 
@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Monitor** &gt; **Go to Instance Observer**
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Monitor** &gt; **Go to Instance Observer**
 
 2.  Log in to Instance Observer and navigate to **Alerts** &gt; **Configure alerts**.
 
@@ -48,15 +48,8 @@ Role required: admin
 
 10. Select **Set Notification**.
 
-    To set notification, see the [[configuring-io-alerts|Set notification step]] of [Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
+    To set notification, see the [Set notification step](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md) of [Configure Key Alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/configuring-io-alerts.md).
 
 
-**Parent Topic:**[[io-alerts-intro|Alerts in Instance Observer]]
+**Parent Topic:**[Alerts in Instance Observer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/io-alerts-intro.md)
 
-## Related
-
-- [[configuring-io-alerts|Configure Key Alerts]]
-- [[io-alerts-intro|Alerts in Instance Observer]]
-- [[instance-observer-performance|Performance]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage regulatory tasks, Regulatory Change Management, Governance, 
 
 # Manage the taxonomy
 
-Manage the taxonomy when you are setting up the [[reg-change-mgmt-landing-page|Regulatory Change Management]] application in the Compliance Workspace. Create an internal taxonomy and map the internal taxonomy to the external taxonomy so that the Regulatory Change Management application refers to only one taxonomy.
+Manage the taxonomy when you are setting up the Regulatory Change Management application in the Compliance Workspace. Create an internal taxonomy and map the internal taxonomy to the external taxonomy so that the Regulatory Change Management application refers to only one taxonomy.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_grc\_reg\_change.admin
 
     A new Compliance Management tab is displayed.
 
-2.  In the [[list-view-uib-ws|List view]], navigate to **Lists** &gt; **Taxonomy** page.
+2.  In the List view, navigate to **Lists** &gt; **Taxonomy** page.
 
 3.  Navigate to one of the following modules:
 
@@ -51,7 +51,4 @@ Role required: sn\_grc\_reg\_change.admin
 
 6.  To save the taxonomy, select **Save**.
 
-## Related
 
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-uib-ws|List view]]

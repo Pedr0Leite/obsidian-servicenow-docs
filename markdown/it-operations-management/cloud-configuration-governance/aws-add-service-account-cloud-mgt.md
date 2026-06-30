@@ -14,7 +14,7 @@ breadcrumb: [Day 1 setup guide for Amazon Web Services on Cloud Provisioning and
 
 # Add an AWS service account to the cloud account
 
-During [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] Day 1 setup, you added one service account to the cloud account. To compartmentalize your infrastructure or to include different datacenters, you can add another service account. A particular datacenter, however, cannot be selected in more than one service account in a cloud account.
+During Cloud Provisioning and Governance Day 1 setup, you added one service account to the cloud account. To compartmentalize your infrastructure or to include different datacenters, you can add another service account. A particular datacenter, however, cannot be selected in more than one service account in a cloud account.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_admin
 
 ## About this task
 
-A service account is a secure record on your instance that stores the credential and access information for your provider account. [[r-discovery|Discovery]] uses the information to access your provider account to get data on each resource in each specified datacenter.
+A service account is a secure record on your instance that stores the credential and access information for your provider account. Discovery uses the information to access your provider account to get data on each resource in each specified datacenter.
 
 In this example, you added the service account named **ProviderB-ServiceAccount-1** and selected three datacenters to include in the cloud account:
 
@@ -32,7 +32,7 @@ In this example, you added the service account named **ProviderB-ServiceAccount-
 
 ## Procedure
 
-1.  Navigate to **[[cloud-admin-portal|Cloud Admin Portal]]** &gt; **Service Accounts**.
+1.  Navigate to **Cloud Admin Portal** &gt; **Service Accounts**.
 
 2.  Click **New**, enter a unique and meaningful **Name**, and then fill in the form.
 
@@ -70,7 +70,7 @@ Discovery credentials
 
 The credentials needed for ServiceNow applications to access this account. You may configure this field at a later stage, while configuring access to AWS accounts.
 
- -   If you [[aws-create-creds-cloud-mgt|configured AWS credentials at ServiceNow AI Platform]] , select the magnifying glass icon, and then select the name of the relevant AWS credential.
+ -   If you [configured AWS credentials at ServiceNow AI Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-creds-cloud-mgt.md) , select the magnifying glass icon, and then select the name of the relevant AWS credential.
 -   To use other AWS accounts to access this account, leave the field blank. For example, you don't need to specify the AWS credentials for accounts assuming IAM roles or member accounts using their management account for access.
 
 
@@ -100,7 +100,7 @@ Type of the datacenter where the account is hosted.Select **AWS datacenter**.
 
 </td></tr><tr><td>
 
-Datacenter [[c_DiscoveryStatus|discovery status]]
+Datacenter discovery status
 
 </td><td>
 
@@ -124,7 +124,7 @@ Is master account
 
 Management account flag.It appears when you select **AWS datacenter** from the Datacenter Type drop-down. Select the check box to associate the AWS service account with the management account. Select this check box only for accounts that you previously configured in the AWS Management Console as management accounts with some member accounts belonging to them. See the [AWS documentation](https://aws.amazon.com/documentation/) for information on AWS Organizations.
 
-**Note:** You will need to setup the correct permission in AWS or the Organization role for a standard credential. For more information, see [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]].
+**Note:** You will need to setup the correct permission in AWS or the Organization role for a standard credential. For more information, see [Control AWS access and permissions using policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/aws-create-user-policy-cloud-mgt.md).
 
 </td></tr><tr><td>
 
@@ -141,11 +141,4 @@ Name of the trusted account. Configure this field only for accounts that don't u
 
 4.  Repeat the process to add as many service accounts as needed.
 
-## Related
 
-- [[aws-create-creds-cloud-mgt|Configure access to the AWS accounts using permanent AWS credentials]]
-- [[aws-create-user-policy-cloud-mgt|Control AWS access and permissions using policies]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[c_DiscoveryStatus|Discovery status]]

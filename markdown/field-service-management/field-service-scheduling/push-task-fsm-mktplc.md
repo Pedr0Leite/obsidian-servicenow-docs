@@ -14,7 +14,7 @@ breadcrumb: [Allowing contractors to bid on work orders and tasks, Scheduling an
 
 # Push a request to Field Service Marketplace
 
-Create a marketplace request and push to contractors using [[fsm-marketplace|Field Service Marketplace]].
+Create a marketplace request and push to contractors using Field Service Marketplace.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ You can push tasks to contractors on Field Service Marketplace. The following pr
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher** &gt; **[[dispatcher-activities|Dispatcher Workspace]]**.
+1.  Navigate to **All** &gt; **Field Service** &gt; **Dispatcher** &gt; **Dispatcher Workspace**.
 
 2.  Select a work order task.
 
@@ -82,7 +82,3 @@ The work order task must have already been pushed to Marketplace.
 
 The contractor you selected has been added to the eligible list of marketplace participants.
 
-## Related
-
-- [[fsm-marketplace|Field Service Marketplace]]
-- [[dispatcher-activities|Dispatcher Workspace]]

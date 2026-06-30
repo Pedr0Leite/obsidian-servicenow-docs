@@ -30,7 +30,7 @@ Review and prioritize the items in the Prioritization or Hierarchy tab views dur
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Portfolio Planning**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  From the list of portfolio plans, select one and then select **Planning**.
 
@@ -83,6 +83,4 @@ Update the **Planning state** field of the item.
 
     \[Omitted image "backlog-multi-row-update.gif"\] Alt text: Update planning state of multiple rows at once in Prioritization page.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

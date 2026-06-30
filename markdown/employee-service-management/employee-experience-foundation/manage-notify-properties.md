@@ -14,7 +14,7 @@ breadcrumb: [Configure Notify connector, Microsoft Teams integration for Agent E
 
 # Manage Notify Connector for Microsoft Teams properties
 
-Manage the [[notify-connector-ms-teams|Notify connector for Microsoft Teams]] application properties to configure the calling capabilities.
+Manage the Notify connector for Microsoft Teams application properties to configure the calling capabilities.
 
 ## Before you begin
 
@@ -50,7 +50,7 @@ Enable Notify integration for Incident Communications Management
 
 </td><td>
 
-Option to [[c-agent-ex-use-nc|use Notify connector for Microsoft Teams]] for incident and major incident-related records.
+Option to use Notify connector for Microsoft Teams for incident and major incident-related records.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,3 @@ Option to provide the app Id of Meeting Extensibility app. Provide the Meeting E
 
 **Parent Topic:**[Configure Notify connector for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-notify-ms-teams.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]
-- [[c-agent-ex-use-nc|Use Notify connector for Microsoft Teams]]

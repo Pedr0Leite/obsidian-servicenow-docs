@@ -14,7 +14,7 @@ breadcrumb: [Use, Universal Request, Employee Service Management]
 
 # Universal Request sensitive information security
 
-[[ur-landing-limitedaccess|Universal Request]] security capability provides flexibility to protect information by controlling the view and edit authorization.
+Universal Request security capability provides flexibility to protect information by controlling the view and edit authorization.
 
 ## Key advantages
 
@@ -31,7 +31,7 @@ The **sn\_uni\_req.sensitiveinfo\_agent** role controls who views and acts on th
 
 For example, if an HR case \(primary ticket\) is created for a universal request, then only the HR routing agent with the **sn\_uni\_req.sensitiveinfo\_agent** role, or the HR case agent can view the complete details of the request, such as the short description, description, attachments, and comments.
 
-An agent without the sensitive agent role can access only the primary information of the request. The secured fields \(short description, description\), attachments, and comments in the [[activity-lxp|activity]] stream are hidden.
+An agent without the sensitive agent role can access only the primary information of the request. The secured fields \(short description, description\), attachments, and comments in the activity stream are hidden.
 
 ## Application Administration enabled scoped application
 
@@ -39,11 +39,11 @@ Universal Request is an Application administration enabled application. If you a
 
 ## Raising a sensitive universal request from the portal
 
-When requesters create a request using the **Request Help** option on the Service Portal, [[employee-center-landing-page|Employee Center]], or Mobile app, then they can secure the information provided as sensitive.
+When requesters create a request using the **Request Help** option on the Service Portal, Employee Center, or Mobile app, then they can secure the information provided as sensitive.
 
 To help requesters identify sensitive information, a knowledge article is provided on the **Request Help** page. After determining if the request is sensitive, they can select the **Issue contains sensitive or confidential information** check box. If the check box is selected, the requester can select the department to which the issue might belong, or choose the **I'm not sure \(general submission\)**.
 
-If the [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]] \[com.snc.universal\_request.ml\] plugin is installed, then the department is auto-selected, and the requester is notified about the selection. For more information, see [Activate Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-predictive-intelli-ur.md). The requester can then choose to override the suggestion. On submission, this action creates a universal request marked as **Restricted**.
+If the Predictive Intelligence for Universal Request \[com.snc.universal\_request.ml\] plugin is installed, then the department is auto-selected, and the requester is notified about the selection. For more information, see [Activate Predictive Intelligence for Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/activate-predictive-intelli-ur.md). The requester can then choose to override the suggestion. On submission, this action creates a universal request marked as **Restricted**.
 
 At times, agents can also create a request from an interaction, a call, or from the Self-Service module. In such cases, the agent can mark the request as **Restricted**.
 
@@ -106,9 +106,4 @@ Role required: sn\_uni\_req.sensitiveinfo\_agent, Primary ticket agent, or membe
 
     **Note:** To mark the request as unrestricted only agents agent who is part of the primary ticket assignment group or with the access role can modify.
 
-## Related
 
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[activity-lxp|Activity]]
-- [[employee-center-landing-page|Employee Center]]
-- [[predictive-intelligence-ur|Predictive Intelligence for Universal Request]]

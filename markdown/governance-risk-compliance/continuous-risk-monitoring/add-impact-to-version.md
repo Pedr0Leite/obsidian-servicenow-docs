@@ -22,9 +22,9 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **Workflow Configurations**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **Workflow Configurations**.
 
-2.  Select a [[work-configuration|Workflow Configuration]].
+2.  Select a Workflow Configuration.
 
 3.  In the **Versions** tab, expand the version to view the impact list.
 
@@ -55,8 +55,3 @@ The workflow impact is available for authorization packages. Baseline controls a
 
 [Add view rules to workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/add-view-rules-to-workflow.md)
 
-## Related
-
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]
-- [[work-configuration|Workflow configuration]]

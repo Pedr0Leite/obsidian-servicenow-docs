@@ -14,9 +14,9 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Suggestion Reader Group form
 
-The Suggestion Reader Group form enables you to modify settings for an auto-complete suggestion type in the search application configuration for an [[ia-ai-search|AI Search]] application.
+The Suggestion Reader Group form enables you to modify settings for an auto-complete suggestion type in the search application configuration for an AI Search application.
 
-For details on configuring [[auto-complete-ais|auto-complete suggestions in AI Search applications]], see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md).
+For details on configuring auto-complete suggestions in AI Search applications, see [Auto-complete suggestions in AI Search applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/auto-complete-ais.md).
 
 <table id="table_ahj_2jm_4nb"><thead><tr><th>
 
@@ -80,7 +80,3 @@ Option to control the display of the section containing auto-complete suggestion
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[auto-complete-ais|Auto-complete suggestions in AI Search applications]]

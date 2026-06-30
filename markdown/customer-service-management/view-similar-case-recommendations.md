@@ -12,9 +12,9 @@ breadcrumb: [Use Task Intelligence, Automate and optimize, Use, Customer Service
 
 # View similar case recommendations
 
-The [[similar-case-recommendation|similar case recommendation]] feature allows customer service agents to quickly find similar cases that can provide helpful information about a current case. This feature can also provide recommendations about cases that may be related to major issues.
+The similar case recommendation feature allows customer service agents to quickly find similar cases that can provide helpful information about a current case. This feature can also provide recommendations about cases that may be related to major issues.
 
-By performing a [[osp-contextual-search|contextual search]] based on a case’s short description, the system generates a list of similar records. This provides agents with a list of cases that are similar to the current case. These similar cases may provide helpful details or resolution information for the current case. Task [[intelligence-csm|Intelligence]] can also suggest potential major issues and major cases.
+By performing a contextual search based on a case’s short description, the system generates a list of similar records. This provides agents with a list of cases that are similar to the current case. These similar cases may provide helpful details or resolution information for the current case. Task Intelligence can also suggest potential major issues and major cases.
 
 With the similar case recommendation feature, customer service agents can:
 
@@ -47,11 +47,5 @@ Any changes made to the current case and saved will trigger a refresh of the rec
 
 Plugins: The configuration for the similar case recommendation feature is included with the Customer Service plugin \(com.sn\_customerservice\). The similar case recommendation feature has a dependency on Major Issue Management – activate the Major Issue Management plugin \(com.sn\_majorissue\_mgt\).
 
-For more info, see [[similar-cases-user-actions|Similar case user actions]]
+For more info, see [Similar case user actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/similar-cases-user-actions.md)
 
-## Related
-
-- [[similar-cases-user-actions|Similar case user actions]]
-- [[similar-case-recommendation|Similar case recommendation]]
-- [[osp-contextual-search|Contextual search]]
-- [[intelligence-csm|Intelligence]]

@@ -30,7 +30,7 @@ Role required: password\_reset\_admin or password\_reset\_service\_desk
 
 ## About this task
 
-In a service desk-assisted [[password-reset-landing-page|Password Reset]] process, only the service desk agents with the password\_reset\_service\_desk role can reset user passwords. Users can’t reset passwords.
+In a service desk-assisted Password Reset process, only the service desk agents with the password\_reset\_service\_desk role can reset user passwords. Users can’t reset passwords.
 
 ## Procedure
 
@@ -58,6 +58,3 @@ If a user is manually banned or is flagged as exceeding max attempts, the user c
 
 **Parent Topic:**[Configuring Password Reset](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/password-reset-admin-guide.md)
 
-## Related
-
-- [[password-reset-landing-page|Password Reset]]

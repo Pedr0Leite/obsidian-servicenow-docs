@@ -27,11 +27,11 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 
 3.  In the Interactions section, select **My Interactions**.
 
-4.  Open an [[email-as-an-interaction|email interaction]].
+4.  Open an email interaction.
 
 5.  In the contextual side panel, select the Consumer Verify icon \(\[Omitted image "consumer\_verify\_icon\_EaaI.jpg"\] Alt text: Consumer verify icon\) or the Contact Verify icon \(\[Omitted image "contact\_verify\_icon\_EaaI.jpg"\] Alt text: Contact verify icon\).
 
-    **Note:** For more information, see [[lookup-and-verify-overview|Lookup and verify]].
+    **Note:** For more information, see [Lookup and verify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/lookup-and-verify-overview.md).
 
 6.  Search for a consumer or contact by entering the person's name, phone number, email address, or record number.
 
@@ -45,10 +45,6 @@ Role required: sn\_customerservice\_agent, sn\_customerservice.consumer\_agent, 
 
     -   The  **Account**  and either **Consumer**  or  **Contact**  fields are populated on the interaction record.
     -   The  **Verified**  check box is enabled.
-9.  Select  **Save**  to save the interaction record and refresh the related [[migration-lists|lists]].
+9.  Select  **Save**  to save the interaction record and refresh the related lists.
 
-## Related
 
-- [[lookup-and-verify-overview|Lookup and verify]]
-- [[email-as-an-interaction|Email Interaction]]
-- [[migration-lists|Lists]]

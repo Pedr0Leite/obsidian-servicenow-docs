@@ -14,7 +14,7 @@ breadcrumb: [Career Conversations reference, Career Conversations, Growth Experi
 
 # Career Conversations Conversations reference
 
-[[egd-activities-conversations-module|Career Conversations]] administrators create conversations that are used by managers and employees.
+Career Conversations administrators create conversations that are used by managers and employees.
 
 Conversations are created by managers to facilitate growth and development plans with employees. Growth Plans can be created from a conversion.
 
@@ -48,7 +48,7 @@ Select from the list of managers in your organization.This field replaces the **
 
 </td><td>
 
-Select from the list of users in your organization.This field replaces the **Employee** field when the **Conversation type** field is set to **[[mentoring-egd-overview|Mentoring]] Conversations**.
+Select from the list of users in your organization.This field replaces the **Employee** field when the **Conversation type** field is set to **Mentoring Conversations**.
 
 </td></tr><tr><td>
 
@@ -109,7 +109,3 @@ Select the record you want to use from the table you specified in the **Table na
 </td></tr></tbody>
 </table>**Parent Topic:**[Career Conversations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/career-conversations/egd-activities-reference.md)
 
-## Related
-
-- [[egd-activities-conversations-module|Career Conversations]]
-- [[mentoring-egd-overview|Mentoring]]

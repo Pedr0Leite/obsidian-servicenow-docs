@@ -34,7 +34,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d77483e64">
 
-**[[cncore-contract-workspace|Contract Workspace]] Review tasks listing**
+**Contract Workspace Review tasks listing**
 
 </td><td>
 
@@ -145,7 +145,7 @@ The attach file option is not available as the contract document is directly edi
 
 
 </td></tr></tbody>
-</table>    The review task will be closed, work notes are added to the [[activity-lxp|Activity]] stream, and the State changes to Closed Complete. The attached document will be available in Reviewed document field of the Details tab of the review task.
+</table>    The review task will be closed, work notes are added to the Activity stream, and the State changes to Closed Complete. The attached document will be available in Reviewed document field of the Details tab of the review task.
 
 
 ## What to do next
@@ -154,7 +154,3 @@ After the completing the review task, the fulfiller will have to create a revisi
 
 **Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

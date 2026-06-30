@@ -14,7 +14,7 @@ breadcrumb: [Domain separation and Event Management, Configuring Event Managemen
 
 # Configure Event Management domain separation
 
-You can configure [[c_EM|Event Management]] for **domain separation** to create logically defined domains that limit unauthorized access to data. When domains are separated in Event Management, users can only see and manage alerts and events in their own \(tenant\) domain.
+You can configure Event Management for **domain separation** to create logically defined domains that limit unauthorized access to data. When domains are separated in Event Management, users can only see and manage alerts and events in their own \(tenant\) domain.
 
 ## Before you begin
 
@@ -70,11 +70,11 @@ Dynamic CI groups
 
 Partially supported. Segregation is based on the manner in which CIs are segregated.
 
- **Note:** The [[r-discovery|discovery]] process does not segregate CIs by domain.
+ **Note:** The discovery process does not segregate CIs by domain.
 
 </td></tr><tr><td>
 
-[[ccg-remediation|Remediation]]
+Remediation
 
 </td><td>
 
@@ -97,8 +97,4 @@ Supported. In domain-separated environments, alert groups are created only for a
 
 2.  Configure the connector instance to be in the same domain as the MID Server.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]
-- [[ccg-remediation|Remediation]]

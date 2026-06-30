@@ -14,12 +14,12 @@ breadcrumb: [Managing IT services in your organization, Service Operations Works
 
 # Collaboration in Service Operations Workspace
 
-[[collab-services-tcm|Collaboration services]] provide a way to communicate and collaborate in real time to resolve the incidents. You can initiate a chat or make conference calls using a service provider to communicate with stakeholders.
+Collaboration services provide a way to communicate and collaborate in real time to resolve the incidents. You can initiate a chat or make conference calls using a service provider to communicate with stakeholders.
 
 To start a Microsoft Teams chat, refer [Collaborate on a task record using Microsoft Teams in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/start-msteams-chat-sow.md).
 
 -   **[Notify in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/notify-sow.md)**  
-[[notify-sow|Notify in Service Operations Workspace]] provides support for SMS, telephone, and the service providers on the ServiceNow AI Platform for communicating internally with team members and externally with customers and contractors.
+Notify in Service Operations Workspace provides support for SMS, telephone, and the service providers on the ServiceNow AI Platform for communicating internally with team members and externally with customers and contractors.
 -   **[Initiate a chat from Sidebar in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/initate-sidebar-chat-sow.md)**  
 Initiate a Sidebar chat to work towards the resolution of an incident.
 
@@ -30,7 +30,7 @@ Initiate a Sidebar chat to work towards the resolution of an incident.
 
 [Knowledge Management in Service Operations Workspace]()
 
-[Major [[c_IncidentManagement|Incident Management]] in Service Operations Workspace]()
+[Major Incident Management in Service Operations Workspace]()
 
 [On-Call Scheduling in Service Operations Workspace]()
 
@@ -54,8 +54,3 @@ Initiate a Sidebar chat to work towards the resolution of an incident.
 
 [Resetting password using Service-desk assisted Password Reset in Service Operations Workspace]()
 
-## Related
-
-- [[collab-services-tcm|Collaboration services]]
-- [[notify-sow|Notify in Service Operations Workspace]]
-- [[c_IncidentManagement|Incident Management]]

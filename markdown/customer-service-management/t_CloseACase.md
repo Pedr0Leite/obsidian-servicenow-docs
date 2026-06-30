@@ -12,7 +12,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 # Close a customer service case
 
-[[osp-close-case|Close a case]] at any time, except when it is in the **Resolved** state.
+Close a case at any time, except when it is in the **Resolved** state.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ An agent or agent manager can close a case at any time, except when it is in the
 
 ## Procedure
 
-1.  Open a customer service case in [[csm-workspaces-configure|CSM Configurable Workspace]].
+1.  Open a customer service case in CSM Configurable Workspace.
 
 2.  Select the **Details** tab.
 
@@ -38,7 +38,4 @@ An agent or agent manager can close a case at any time, except when it is in the
 
 4.  Select **Close Case**.
 
-## Related
 
-- [[osp-close-case|Close a case]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]

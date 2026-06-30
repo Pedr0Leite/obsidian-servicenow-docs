@@ -20,10 +20,10 @@ Request an expedited delivery, a quantity change, or a shipping location change 
 The following applications must be installed and configured on your ServiceNow instance:
 
 -   Now Assist for Platform \(sn\_genai\_platform\)
--   [[now-assist-order-management|Now Assist for Order Management]] \(sn\_now\_assist\_om\)
+-   Now Assist for Order Management \(sn\_now\_assist\_om\)
 -   Order Case Self Service \(sn\_ord\_case\_ss\)
 
-The scripted extension points that the chat assistant uses to validate order exception requests such as delivery availability, quantity, shipping location, and quote threshold must be configured. For more information, see [[create-atp-api-call|Configure scripted extension points for the manage order operations agent]].
+The scripted extension points that the chat assistant uses to validate order exception requests such as delivery availability, quantity, shipping location, and quote threshold must be configured. For more information, see [Configure scripted extension points for the manage order operations agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-atp-api-call.md).
 
 Role required: sn\_customerservice.customer
 
@@ -34,7 +34,7 @@ When you submit a request through the Virtual Assistant, the AI agent performs t
 -   Checks account information and order history.
 -   Validates the intent of the request, which can be an expedited delivery, a quantity change, or a shipping location change. For example, if you enter `expedite`, `change quantity`, or `ship to a different location` in the Virtual Assistant, the AI agent confirms the request type for your open orders.
 -   Confirms the order number and your change request.
--   After you confirm all the requested changes, creates an order case in the ServiceNow CRM and stamps the requested changes on the requested [[fields|fields]] of the order case lines.
+-   After you confirm all the requested changes, creates an order case in the ServiceNow CRM and stamps the requested changes on the requested fields of the order case lines.
 -   Calls the configured scripted extension points to validate inventory availability, quantity feasibility, shipping location feasibility, and quote thresholds for the request. For example, the AI agent calls orderExceptionCheckEP to check whether the ordered item is in stock for early delivery, or ThresholdCheckForQuote to determine whether a quantity change requires a quote. If you approve the validation results, the AI agent stamps the approved values on the approved fields of the order case lines.
 -   Posts the summary of the conversation as a work note in the order case, which can only be viewed by the agents from the CSM Configurable Workspace.
 
@@ -65,7 +65,7 @@ When you submit a request through the Virtual Assistant, the AI agent performs t
     -   Revised delivery date for expedited delivery
     -   New quantity for a quantity change
     -   New shipping address for a shipping location change
-    The manage [[order-operations-landing|order operations]] AI agent validates feasibility for your request by calling the configured scripted extension points. For an expedited delivery, the agent fetches the earliest possible delivery date. For a quantity change, the agent validates the requested quantity and determines whether the change requires a quote. For a shipping location change, the agent validates whether the new location is serviceable.
+    The manage order operations AI agent validates feasibility for your request by calling the configured scripted extension points. For an expedited delivery, the agent fetches the earliest possible delivery date. For a quantity change, the agent validates the requested quantity and determines whether the change requires a quote. For a shipping location change, the agent validates whether the new location is serviceable.
 
     After you confirm the requested changes, the AI agent creates an order case with a system-generated number starting with the prefix ORDCS and stamps the requested changes on the requested fields of the order case lines. You receive an email confirming that your order case has been opened and is under review.
 
@@ -84,18 +84,10 @@ When you submit a request through the Virtual Assistant, the AI agent performs t
     If you reject the quote, the AI agent offers to connect you to a live agent and the order case remains in progress.
 
 
-**Parent Topic:**[[now-assist-order-management-using|Using Now Assist for Order Management]]
+**Parent Topic:**[Using Now Assist for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/now-assist-order-management-using.md)
 
 **Related topics**  
 
 
-[[configure-now-assist-som|Configure Now Assist for Sales Force Automation \(SFA\)]]
+[Configure Now Assist for Sales Force Automation \(SFA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-now-assist-som.md)
 
-## Related
-
-- [[create-atp-api-call|Configure scripted extension points for the manage order operations agent]]
-- [[now-assist-order-management-using|Using Now Assist for Order Management]]
-- [[configure-now-assist-som|Configure Now Assist for Sales Force Automation \(SFA\)]]
-- [[now-assist-order-management|Now Assist for Order Management]]
-- [[fields|Fields]]
-- [[order-operations-landing|Order operations]]

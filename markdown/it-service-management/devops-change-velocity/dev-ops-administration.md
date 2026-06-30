@@ -14,7 +14,7 @@ breadcrumb: [Reference, DevOps Change Velocity, IT Service Management]
 
 # DevOps Change Velocity properties
 
-Use these properties to configure [[settings-mobile|settings]] in the [[devops-landing-page-new|DevOps Change Velocity]] application.
+Use these properties to configure settings in the DevOps Change Velocity application.
 
 Role required: sn\_devops.admin
 
@@ -76,7 +76,7 @@ DevOps change request approval text
 
 </td><td>
 
-The DevOps change request approval text to be used for [[c_ITILChangeManagement|change management]] customizations.
+The DevOps change request approval text to be used for change management customizations.
 
 </td><td>
 
@@ -1132,7 +1132,7 @@ unsuccessful
 
 </td></tr><tr><td>
 
-[[import-based-evidence-collection-for-orchestration-capability|Import based evidence collection]] for orchestration capability
+Import based evidence collection for orchestration capability
 
 </td><td>
 
@@ -1149,9 +1149,3 @@ False \(disabled\)
 </td></tr></tbody>
 </table>**Parent Topic:**[DevOps Change Velocity reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/devops-change-velocity-reference.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[import-based-evidence-collection-for-orchestration-capability|Import based evidence collection]]

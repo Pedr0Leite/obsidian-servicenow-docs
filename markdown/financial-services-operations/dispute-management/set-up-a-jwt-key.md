@@ -15,7 +15,7 @@ breadcrumb: [Set up OAuth for Card Data Security, Configure, Card Data Security,
 
 # Set up a JWT key
 
-Configure a JWT key to enable secure authentication for [[card-data-security|Card Data Security]] by linking X.509 certificates with tokenizer service credentials. This setup is required before creating a JWT provider for OAuth authentication workflows.
+Configure a JWT key to enable secure authentication for Card Data Security by linking X.509 certificates with tokenizer service credentials. This setup is required before creating a JWT provider for OAuth authentication workflows.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ A JWT Key record is created.
 
 [Set up a JWT Provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/set-up-a-jwt-provider.md).
 
-## Related
-
-- [[card-data-security|Card Data Security]]

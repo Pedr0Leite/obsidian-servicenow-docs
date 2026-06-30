@@ -26,7 +26,7 @@ The model category for the component can differ from that of the model. You can 
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Enterprise model management**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Enterprise model management**.
 
 2.  Select the **All enterprise** tab or the specific model tab for which you want to create model components.
 
@@ -38,7 +38,7 @@ The model category for the component can differ from that of the model. You can 
 
 5.  On the form, fill in the details.
 
-    For detailed description of the fields, see [[eam-model-fields|Model fields for Enterprise Asset Management]].
+    For detailed description of the fields, see Model fields for Enterprise Asset Management.
 
 6.  Select **Save**.
 
@@ -47,7 +47,3 @@ The model category for the component can differ from that of the model. You can 
 
 **Parent Topic:**[Create and manage enterprise models](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-manage-enterprise-models.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[eam-model-fields|Model fields for Enterprise Asset Management]]

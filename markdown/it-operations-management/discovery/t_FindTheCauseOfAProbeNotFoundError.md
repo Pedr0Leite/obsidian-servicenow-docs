@@ -18,7 +18,7 @@ Verify the correct sys\_id of the probe associated with the **probe** parameter 
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin or admin
+Role required: discovery\_admin or admin
 
 ## Procedure
 
@@ -50,6 +50,3 @@ Role required: [[r-discovery|discovery]]\_admin or admin
 
 [Fix the cause of a sensor error message]()
 
-## Related
-
-- [[r-discovery|Discovery]]

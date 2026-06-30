@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management Service Portal widgets, Configure the Knowledg
 
 # Configure sort widget instance options
 
-Configure widget instance options for the knowledge sort widget on the [[knowledge-management|Knowledge Management]] Service Portal search results page.
+Configure widget instance options for the knowledge sort widget on the Knowledge Management Service Portal search results page.
 
 ## Before you begin
 
@@ -96,6 +96,3 @@ The labels for the fields that appear in the sort options. The default is **View
 
 **Parent Topic:**[Knowledge Management Service Portal widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/km-service-portal-widget-instances.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Advanced Service Mapping configuration, Configuring Service Mapping
 
 # Configure Service Mapping to work with the Configuration Management Database \(CMDB\)
 
-Configure [[c_ServiceMappingOverview|Service Mapping]] to use the existing data within your CMDB to run top-down [[r-discovery|discovery]] and map application services.
+Configure Service Mapping to use the existing data within your CMDB to run top-down discovery and map application services.
 
 ## Before you begin
 
@@ -40,7 +40,4 @@ Role required: service\_mapping\_admin
 
     2.  Set the **Value** field to `true`.
 
-## Related
 
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Operational Resilience, Governance, Risk, and Compliance
 
 # Sample end-to-end workflow for a business service
 
-Configure an end-to-end workflow for a business service to fetch the CSDM dependencies and red flags data to [[grc-opres-landing-page|Operational Resilience]]. You must ensure that entities are generated and associated with pillars, and that the Main node configurations are set up before fetching the required data.
+Configure an end-to-end workflow for a business service to fetch the CSDM dependencies and red flags data to Operational Resilience. You must ensure that entities are generated and associated with pillars, and that the Main node configurations are set up before fetching the required data.
 
 ## Before you begin
 
@@ -20,17 +20,17 @@ Role required: sn\_oper\_res.manager
 
 ## About this task
 
-For the configuration sequence and instructions in Operational Resilience, see [[configure-operational-resilience|Configuring Operational Resilience]].
+For the configuration sequence and instructions in Operational Resilience, see [Configuring Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-operational-resilience.md).
 
-For instructions on creating the Main node configuration records, see [[set-up-main-node|Configure the Main node configurations]].
+For instructions on creating the Main node configuration records, see [Configure the Main node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-main-node.md).
 
 ## Procedure
 
 1.  Download the Operational Resilience application in your instance.
 
-    For instructions on downloading the Operational Resilience application, see [[download-opres|Install Operational Resilience application]].
+    For instructions on downloading the Operational Resilience application, see [Install Operational Resilience application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-opres.md).
 
-2.  Ensure that you have set up the pillars, [[entity-type-in-risk-ws|entity types]], [[what-is-an-entity-filter|entity filters]] and entities are generated.
+2.  Ensure that you have set up the pillars, entity types, entity filters and entities are generated.
 
     Refer to the configuration instructions on the [Configuring Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-operational-resilience.md) page.
 
@@ -64,7 +64,7 @@ For instructions on creating the Main node configuration records, see [[set-up-m
 
     Once the filter condition or query is used, the entities are generated for the selected business service.
 
-6.  Navigate to **All** &gt; **[[data-relationship-framework|Data Relationships Framework]]** &gt; **Main node configurations** and select the Main node configuration.
+6.  Navigate to **All** &gt; **Data Relationships Framework** &gt; **Main node configurations** and select the Main node configuration.
 
     The following example shows the Main node configurations that are provided with the base system for the OpRes CMDB source.\[Omitted image "main-node-configs.png"\] Alt text: Main node configurations.
 
@@ -74,7 +74,7 @@ For instructions on creating the Main node configuration records, see [[set-up-m
 
     \[Omitted image "scheduled-jobs.png"\] Alt text: Scheduled jobs.
 
-    The `UpdateCSDMDependencies` function in the **Update CSDM and other dependencies** scheduled job fetches all dependencies of the business service into an entity hierarchy, as part of the [[opres-with-csdm-header|Opres with CSDM header Main node configuration]].
+    The `UpdateCSDMDependencies` function in the **Update CSDM and other dependencies** scheduled job fetches all dependencies of the business service into an entity hierarchy, as part of the Opres with CSDM header Main node configuration.
 
     \[Omitted image "csdm-sch-job.png"\] Alt text: Update CSDM.
 
@@ -86,7 +86,7 @@ For instructions on creating the Main node configuration records, see [[set-up-m
 
 9.  In the business service record, select **Go to entities** and select the **Hierarchy** tab to view how the entities are inherited from each other.
 
-    Based on the [[node-relationship-configurations|node relationship configurations]] set up in each Main node configuration, the downstream dependencies are pulled from CSDM or dependency assessment in the BIA.\[Omitted image "hierarchy.png"\] Alt text: Hierarchy.
+    Based on the node relationship configurations set up in each Main node configuration, the downstream dependencies are pulled from CSDM or dependency assessment in the BIA.\[Omitted image "hierarchy.png"\] Alt text: Hierarchy.
 
 10. To calculate the red flags, execute the **Calculate red flags for CSDM and dependencies** scheduled job.
 
@@ -108,14 +108,4 @@ For instructions on creating the Main node configuration records, see [[set-up-m
 
     \[Omitted image "bs-360-view.png"\] Alt text: 360-degree view.
 
-## Related
 
-- [[configure-operational-resilience|Configuring Operational Resilience]]
-- [[set-up-main-node|Configure the Main node configurations]]
-- [[download-opres|download opres]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[what-is-an-entity-filter|Entity filters]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]
-- [[node-relationship-configurations|Node relationship configurations]]

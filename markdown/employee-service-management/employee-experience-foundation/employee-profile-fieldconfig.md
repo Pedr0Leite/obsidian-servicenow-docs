@@ -14,7 +14,7 @@ breadcrumb: [Configure Employee Profile for a portal, Employee profile, Setup ta
 
 # Employee Profile form
 
-An option in the [[emp-slate-employee-profile|Employee Profile]] configuration that provides a list of employee profile fields.
+An option in the Employee Profile configuration that provides a list of employee profile fields.
 
 The following list of configurable fields indicates the personal, sensitive, and employment information.
 
@@ -40,7 +40,7 @@ The following list of configurable fields indicates the personal, sensitive, and
 -   Updated \(Date/Time\)
 -   User Work phone
 
-For [[c_HRProfileRecords|HR profile]] field configuration, see [HR profile editable field configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileEditableFieldConfig.md).
+For HR profile field configuration, see [HR profile editable field configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileEditableFieldConfig.md).
 
 **Parent Topic:**[Employee Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/emp-center-reference.md)
 
@@ -83,7 +83,7 @@ For [[c_HRProfileRecords|HR profile]] field configuration, see [HR profile edita
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -107,8 +107,3 @@ For [[c_HRProfileRecords|HR profile]] field configuration, see [HR profile edita
 
 [Employee profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/employee-profile-portal.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[ec-notification-content|Notification content]]

@@ -14,7 +14,7 @@ breadcrumb: [Conflict detection, Configure, Change Management, IT Service Manage
 
 # Detect conflicts manually and review conflict details
 
-Run [[c_ConflictDetection|conflict detection]] manually for a change request. Review the conflicts detected either automatically or manually and resolve them by changing the schedules.
+Run conflict detection manually for a change request. Review the conflicts detected either automatically or manually and resolve them by changing the schedules.
 
 ## Before you begin
 
@@ -151,7 +151,7 @@ Resolve any conflicts and reschedule the change.
 
 ## Cancel conflict detection manually
 
-Cancel any conflict detection jobs that are actively running for a change request if you want to make any [[migration-utility-modification|modifications]] to the schedules. After modifying the schedules, you can rerun the check conflicts action again to identify potential conflicts.
+Cancel any conflict detection jobs that are actively running for a change request if you want to make any modifications to the schedules. After modifying the schedules, you can rerun the check conflicts action again to identify potential conflicts.
 
 ### Before you begin
 
@@ -201,7 +201,3 @@ Role required: change\_manager
 
 The **Exclude from conflict detection** check box is added to the Change Request form. When the check box is selected in the change request form, the **Check conflicts** option is inactive, and the change request is excluded from the conflict detection process. The change request is also excluded from being displayed as a conflict when conflict detection is run on other change records.
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]
-- [[migration-utility-modification|Modifications]]

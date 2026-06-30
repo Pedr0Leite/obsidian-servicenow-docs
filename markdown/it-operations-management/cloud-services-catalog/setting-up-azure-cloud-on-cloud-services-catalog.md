@@ -14,7 +14,7 @@ breadcrumb: [Cloud Services Catalog setup for the Day 1 configuration task, Conf
 
 # Set up Microsoft Azure Cloud on Cloud Services Catalog
 
-Integrate [[csc-home|Cloud Services Catalog]] with your Microsoft Azure account as a part of the Day 1 configuration task toward setting up CSC for the first time.
+Integrate Cloud Services Catalog with your Microsoft Azure account as a part of the Day 1 configuration task toward setting up CSC for the first time.
 
 ## Before you begin
 
@@ -30,13 +30,13 @@ Roles required:
 
 ## Procedure
 
-1.  [[azure-assign-roles-cloud-mgt|Assign roles to Azure users of Cloud Provisioning and Governance]].
+1.  Assign roles to Azure users of Cloud Provisioning and Governance.
 
-    You assign [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] roles to the user groups and individual users based on the user activities and responsibilities. For more information, see [Assign roles to Azure users of Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-assign-roles-cloud-mgt.md).
+    You assign Cloud Provisioning and Governance roles to the user groups and individual users based on the user activities and responsibilities. For more information, see [Assign roles to Azure users of Cloud Provisioning and Governance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-assign-roles-cloud-mgt.md).
 
-2.  Install and configure MID Servers for Cloud [[r-discovery|Discovery]] and Cloud Provisioning and Governance.
+2.  Install and configure MID Servers for Cloud Discovery and Cloud Provisioning and Governance.
 
-    To ensure secure and reliable communications, the Discovery process communicates with your cloud provider accounts and cloud resources through one or more MID Servers. For more information, see [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]].
+    To ensure secure and reliable communications, the Discovery process communicates with your cloud provider accounts and cloud resources through one or more MID Servers. For more information, see [Install and configure MID Servers to access cloud environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/mid-server-configuration-cloud.md).
 
 3.  Set up the MID Servers on your network or in one of your cloud networks.
 
@@ -46,11 +46,11 @@ Roles required:
 
     Configure the MID Server even if you have already configured other MID Servers while setting up Cloud Services Catalog for another cloud provider.
 
-5.  [[azure-create-serv-princ-cloud-mgt|Create a Microsoft Azure service principal]].
+5.  Create a Microsoft Azure service principal.
 
     To access the resources and billing data securely on your Microsoft Azure account, the Discovery process must present appropriate Microsoft Azure account credentials. You create a special programmatic account—a Microsoft Azure service principal—to generate the required credentials. For more information, see [Create a Microsoft Azure service principal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-serv-princ-cloud-mgt.md).
 
-6.  [[azure-create-creds-cloud-mgt|Store the Azure service principal credentials in the instance]].
+6.  Store the Azure service principal credentials in the instance.
 
     To access the data on your provider account securely, the Discovery process must present the appropriate credentials. To make the credentials available to Discovery, you first create Microsoft Azure service principal credentials in the Azure Portal. You can then securely store the credentials in a service account in your instance. For more information, see [Store the Azure service principal credentials in the instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-create-creds-cloud-mgt.md).
 
@@ -62,7 +62,7 @@ Roles required:
 
     Discovery uses the information in the service account to identify all logical datacenters that are associated with the provider account.
 
-9.  [[azure-cloud-accts-cloud-mgt|Set up a cloud account for Azure]].
+9.  Set up a cloud account for Azure.
 
     A cloud account is the logical representation in Cloud Services Catalog of all or part of your managed cloud infrastructure. A cloud account can include multiple service accounts, including the service accounts from different providers. For each service account, you specify which datacenters to include in the cloud account. For more information, see [Set up a cloud account for Azure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/azure-cloud-accts-cloud-mgt.md).
 
@@ -73,13 +73,3 @@ Roles required:
 
 **Parent Topic:**[Cloud Services Catalog setup for the Day 1 configuration task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-services-catalog/setting-up-cloud-services.md)
 
-## Related
-
-- [[mid-server-configuration-cloud|Install and configure MID Servers to access cloud environments]]
-- [[csc-home|Cloud Services Catalog]]
-- [[azure-assign-roles-cloud-mgt|Assign roles to Azure users of Cloud Provisioning and Governance]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[r-discovery|Discovery]]
-- [[azure-create-serv-princ-cloud-mgt|Create a Microsoft Azure service principal]]
-- [[azure-create-creds-cloud-mgt|Store the Azure service principal credentials in the instance]]
-- [[azure-cloud-accts-cloud-mgt|Set up a cloud account for Azure]]

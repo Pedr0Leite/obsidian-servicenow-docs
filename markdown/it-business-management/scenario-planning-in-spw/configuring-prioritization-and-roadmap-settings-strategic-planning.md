@@ -23,7 +23,7 @@ Customize the fields to be highlighted on the Prioritization page of a portfolio
 -   **[Modify Script Includes for milestone icons in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/modify-script-includes-for-milestone-icons-spw.md)**  
 Modify the Script Includes for milestone icons in the roadmap and portfolio plan to customize the icons displayed in the Roadmap tab in the workspace.
 -   **[Update the display limit of items on Prioritization and Roadmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/update-the-display-limit-of-roadmap-item-milestones.md)**  
-Create a system property to update the display limit of the items shown in Prioritization and Roadmap views in [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace.
+Create a system property to update the display limit of the items shown in Prioritization and Roadmap views in Strategic Planning Workspace.
 -   **[Configure additional source tables for a free-form roadmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-additional-source-tables-for-a-roadmap.md)**  
 Add new tables to roadmap preferences and configure their details so that these tables can be used as source tables while creating a free-form roadmap in Strategic Planning.
 -   **[Customize the planning item display preferences for Prioritization and Roadmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/configure-source-table-preferences-for-roadmap.md)**  
@@ -33,6 +33,3 @@ Show or hide parent records of planning items shown in the Hierarchy tab for hig
 
 **Parent Topic:**[Configuring Strategic Planning Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/setting-up-alignment-planner-workspace.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

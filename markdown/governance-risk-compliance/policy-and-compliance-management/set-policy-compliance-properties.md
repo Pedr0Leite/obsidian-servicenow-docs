@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Properties**.
 
 <table id="table_ght_bmm_vs"><thead><tr><th>
 
@@ -87,7 +87,7 @@ Name of the knowledge base used to publish Policy articlessn\_compliance.knowled
 </td><td>
 
 Compliance administrators can change this setting.-   Type: string
--   Default value: [[r_WhatIsGRC|Governance, Risk, and Compliance]]
+-   Default value: Governance, Risk, and Compliance
 -   Location: **Policy and Compliance** &gt; **Administration** &gt; **Properties**
 
 
@@ -99,7 +99,3 @@ Return to the [Policy and Compliance Management setup checklist](https://raw.git
 
 **Parent Topic:**[Perform Policy and Compliance Management administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/perform-policy-compliance-admin.md)
 
-## Related
-
-- [[Administration|Administration]]
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]

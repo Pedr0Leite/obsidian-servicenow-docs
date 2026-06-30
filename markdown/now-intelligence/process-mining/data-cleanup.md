@@ -14,7 +14,7 @@ breadcrumb: [Configure, Process Mining, Platform Analytics]
 
 # Process Mining properties
 
-The Process Mining properties page provides configuration options for [[process-mining|Process Mining]].
+The Process Mining properties page provides configuration options for Process Mining.
 
 **Parent Topic:**[Configuring Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/setting-up-process-mining.md)
 
@@ -68,7 +68,7 @@ Set the number of days post retirement after which the projects will be cleaned 
 
 ## Schedule job for version cleanup
 
-Schedule a job to delete older backup versions and clean up [[cluster-analysis|cluster analysis]] records by executing the scheduled script **ProminVersionCleanup**.
+Schedule a job to delete older backup versions and clean up cluster analysis records by executing the scheduled script **ProminVersionCleanup**.
 
 ### Before you begin
 
@@ -199,7 +199,7 @@ Select this filed to enable the recommendations to be displayed when setting act
 -   Location: Process Mining &gt; **System** &gt; **Properties**
 
 </td></tr></tbody>
-</table>## [[worknotes-analysis|Work notes analysis]] properties
+</table>## Work notes analysis properties
 
 Set properties that determine when the work notes analysis will be available.
 
@@ -257,7 +257,7 @@ Minimum number of eligible work notes **promin.work\_notes.min\_eligible\_record
 
 </td><td>
 
-Set the limit for minimum eligible work notes. Work notes are eligible when they meet the criteria that is set when [[creating-process-config|creating process configuration]] \(such as, time range for work notes, length range of work notes analysis, and so on\). For more information, see [Configure investigative features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/investigative-features.md).
+Set the limit for minimum eligible work notes. Work notes are eligible when they meet the criteria that is set when creating process configuration \(such as, time range for work notes, length range of work notes analysis, and so on\). For more information, see [Configure investigative features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/investigative-features.md).
 
  -   Type: integer
 -   Default value: 25
@@ -333,9 +333,9 @@ Enables you to set the number of highlights generated per page for improvement o
 -   Location: Process Mining &gt; **System** &gt; **Properties**
 
 </td></tr></tbody>
-</table>## [[access-control|Access control]] properties
+</table>## Access control properties
 
-Set properties that determine who can [[activate-po-plugin|access Process Mining]] from [[c_performanceAnalyticsAndReporting|Platform Analytics]] Dashboard.
+Set properties that determine who can access Process Mining from Platform Analytics Dashboard.
 
 <table id="table_hsk_mw5_zfc"><thead><tr><th>
 
@@ -371,7 +371,7 @@ Define the roles that can launch Process Mining from Platform Analytics Dashboar
 </td></tr></tbody>
 </table>## Intent and agent activity analysis properties
 
-Set properties that specify the functioning of [[intent-activity-analysis|intent and activity analysis]].
+Set properties that specify the functioning of intent and activity analysis.
 
 <table id="table_u43_ldx_gnb"><thead><tr><th>
 
@@ -435,14 +435,3 @@ Set the minimum number of records with eligible work notes/comments, excluding t
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[process-mining|Process Mining]]
-- [[cluster-analysis|Cluster analysis]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[creating-process-config|Creating process configuration]]
-- [[access-control|Access control]]
-- [[activate-po-plugin|Access Process Mining]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[intent-activity-analysis|Intent and activity analysis]]

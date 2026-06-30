@@ -32,7 +32,7 @@ Some of the substate values are available with more than one state. For example,
 
 1.  Navigate to **All** &gt; **Asset** &gt; **Portfolios** &gt; **All Assets**.
 
-2.  [[select-daas-asset|Select an asset]].
+2.  Select an asset.
 
 3.  Edit the **State** and **Substate** fields.
 
@@ -81,7 +81,7 @@ In stock
 -   Pending certificate: Asset is awaiting certificate for disposal.
 -   Pending return: Asset that is leased is yet to be returned.
 -   Test: Asset is in the testing phase and not yet operational.
--   End of support: Asset is no longer provided any support through incidents or [[c_Contracts|contracts]].
+-   End of support: Asset is no longer provided any support through incidents or contracts.
 -   Pending Retirement: Asset has reached the end of life and can be sold, disposed, or donated.
 -   Pending resale: Asset is awaiting resale.
 -   Pending evaluation: Asset is yet to be evaluated or assessed to confirm if it can be used.
@@ -148,8 +148,8 @@ Retired
 -   Disposed: Asset is disposed because it has reached end of life.
 -   Pending disposal: Asset is marked for disposal because it’s nearing the end of life.
 -   Sold: Asset is sold.
--   Donated: Asset is donated to charity organization through [[asset-donation|asset donation]] orders.
--   Vendor credit: Old faulty asset is returned to the vendor for a replacement asset through [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\).
+-   Donated: Asset is donated to charity organization through asset donation orders.
+-   Vendor credit: Old faulty asset is returned to the vendor for a replacement asset through Return Merchandise Authorization \(RMA\).
 -   Lease return: Leased hardware asset is returned before the expiry of contract.
 -   Obsolete: Asset is obsolete and should be disposed.
 -   RMA: Faulty asset is returned to or replaced by the vendor through Return Merchandise Authorization \(RMA\).
@@ -200,9 +200,3 @@ Asset is being prepared. This state is used during the creation of an asset bund
 
 [Add depreciation to an asset]()
 
-## Related
-
-- [[select-daas-asset|Select an asset]]
-- [[c_Contracts|Contracts]]
-- [[asset-donation|Asset donation]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

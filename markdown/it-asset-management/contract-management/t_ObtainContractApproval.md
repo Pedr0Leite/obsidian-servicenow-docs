@@ -18,7 +18,7 @@ You can view the approval history for a contract in the Approval History related
 
 ## Before you begin
 
-Role required: workflow\_admin, admin, or sn\_eam.enterprise\_admin \([[using-eam-workspace|Enterprise Asset Workspace]] only\)
+Role required: workflow\_admin, admin, or sn\_eam.enterprise\_admin \(Enterprise Asset Workspace only\)
 
 ## About this task
 
@@ -26,10 +26,10 @@ After a contract is sent to an approver for review, the approver name cannot be 
 
 ## Procedure
 
-1.  Open the list of [[c_Contracts|contracts]] that are used across your deployment.
+1.  Open the list of contracts that are used across your deployment.
 
     -   If you are using the core UI, navigate to **Contract** &gt; **Contracts** &gt; **All**.
-    -   If you are using the [[using-ham-workspace|Hardware Asset Workspace]], open the [[contract-mgmt-view-am|Contract management view]] and then select the **All contracts** tab.
+    -   If you are using the Hardware Asset Workspace, open the Contract management view and then select the **All contracts** tab.
     -   If you are using the Enterprise Asset Workspace, open the Contract and lease management view and then select the **All contracts** tab.
 2.  Select a contract.
 
@@ -45,9 +45,3 @@ After a contract is sent to an approver for review, the approver name cannot be 
 
 [Contract approval flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/contract-approval-workflow.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Contracts|Contracts]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[contract-mgmt-view-am|Contract management view]]

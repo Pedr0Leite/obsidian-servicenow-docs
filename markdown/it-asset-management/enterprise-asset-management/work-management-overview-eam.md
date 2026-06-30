@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Workspace, Explore, Enterprise Asset Management, I
 
 # Work management overview for Enterprise Asset Workspace
 
-Use the Work management view in the [[using-eam-workspace|Enterprise Asset Workspace]] to create and manage maintenance plans, work orders, and work order tasks.
+Use the Work management view in the Enterprise Asset Workspace to create and manage maintenance plans, work orders, and work order tasks.
 
 **Important:** Before you can access and use the Work management view, edit your Field Service Management configurations as needed. See [Edit Field Service Management configurations for the Work management view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/edit-field-service-configurations-work-management-view.md) for detailed instructions.
 
@@ -66,7 +66,7 @@ Use the following tabs to view and manage your work orders, work order tasks, ma
 
     **Note:** This tab appears if you have the system administrator \(admin\) or c.
 
--   **My stockroom assets**: View enterprise assets that are available within your [[c_Stockrooms|stockrooms]].
+-   **My stockroom assets**: View enterprise assets that are available within your stockrooms.
 
     **Note:** This tab appears if you have the system administrator \(admin\) or agent \(wm\_agent\) role.
 
@@ -84,7 +84,4 @@ Use the following tabs to view and manage your work orders, work order tasks, ma
 
     The Overview tab also displays work order plan reports that include **Work order plans by status**, **Active tasks by work order plan**, and **Overdue tasks by work order plan**.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]

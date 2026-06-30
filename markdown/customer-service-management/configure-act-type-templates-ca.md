@@ -26,7 +26,7 @@ You can define which fields are displayed, where it is displayed on the tile, an
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer History** &gt; **Guided Setup**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer History** &gt; **Guided Setup**.
 
 2.  Select **Get Started** under Activity Feed.
 
@@ -144,6 +144,4 @@ Condition that applies to the selected field. For example, in the transcript act
 </td></tr></tbody>
 </table>10. Select **Submit**.
 
-## Related
 
-- [[customer-central|Customer Central]]

@@ -14,7 +14,7 @@ breadcrumb: [Using the deflection topic block, Case and incident deflection, Bui
 
 # Create deflection configurations and patterns
 
-Set up deflection settings to create deflection configurations and deflection patterns that you can map to deflection topic blocks in [[virtual-agent-landing-page|Virtual Agent]] conversation topics. These deflections help you to track the issues that Virtual Agent helped to resolve or actually resolved for a user.
+Set up deflection settings to create deflection configurations and deflection patterns that you can map to deflection topic blocks in Virtual Agent conversation topics. These deflections help you to track the issues that Virtual Agent helped to resolve or actually resolved for a user.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
     The **Conversational Interfaces Settings** page opens in a new tab.
 
@@ -70,7 +70,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Using the deflection topic block to track deflections in Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/deflections-virtual-agent.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

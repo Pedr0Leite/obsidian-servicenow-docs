@@ -83,7 +83,7 @@ The topics do not address the following information:
 
     [Applying the CSDM guidelines to RPA Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/rpa-hub-apply-csdm.md)
 
--   **[[service-catalog|Service Catalog]]**
+-   **Service Catalog**
 
     [Service Catalog and CSDM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/request-cat-use-case-product-view.md)
 
@@ -102,6 +102,3 @@ The topics do not address the following information:
 
 **Parent Topic:**[Common Service Data Model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-landing-page.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]

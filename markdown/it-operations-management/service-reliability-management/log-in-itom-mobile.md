@@ -14,7 +14,7 @@ breadcrumb: [Configure, ITOM Mobile Agent, Service Reliability Management, ITOM 
 
 # Log in to ITOM Mobile Agent
 
-Log in to your [[itom-mobile-landing|ITOM Mobile Agent]] instance on the ServiceNow Agent app to manage alerts, incidents, and on-call schedules on the go.
+Log in to your ITOM Mobile Agent instance on the ServiceNow Agent app to manage alerts, incidents, and on-call schedules on the go.
 
 ## Before you begin
 
@@ -67,6 +67,3 @@ Visit these links to start using ITOM Mobile Agent:
 -   [Working with On-Call Scheduling on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-on-call-scheduling.md)
 -   [Working with tasks on mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-tasks.md)
 
-## Related
-
-- [[itom-mobile-landing|ITOM Mobile Agent]]

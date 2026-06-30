@@ -36,14 +36,14 @@ For example, to disable matches for search terms like `a` or `40` in the Knowled
 
     2.  If you want Zing to ignore 2-digit numbers and single-character words when indexing and searching the table, set the attribute value to `true`.
 
-4.  Select the additional actions icon \[Omitted image "polaris-ui-form-context-menu-icon.png"\] Alt text: in the [[r_DictionaryEntryForm|Dictionary Entry form]] header, then select **Save**.
+4.  Select the additional actions icon \[Omitted image "polaris-ui-form-context-menu-icon.png"\] Alt text: in the Dictionary Entry form header, then select **Save**.
 
 5.  Select the **Generate Text Index** related link and select **OK**.
 
     **Note:**
 
-    -   To have the desired effect, you may also need to reconfigure the [automatic stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureAnAutomaticStopWord.md). For example, if a specific 2-digit number appears in all of your problem numbers \(92-0001, 92-0002, and so on\), the automatic stop word threshold is quickly exceeded and the word is no longer found in searches. To find that 2-digit number in the problem table, you must disable both junk filtering and automatic [[stop-words-ais|stop words]].
-    -   Disabling the junk filter [[hs-results|results]] in a larger table index. For optimal performance, don't apply this attribute unless it's required.
+    -   To have the desired effect, you may also need to reconfigure the [automatic stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_ConfigureAnAutomaticStopWord.md). For example, if a specific 2-digit number appears in all of your problem numbers \(92-0001, 92-0002, and so on\), the automatic stop word threshold is quickly exceeded and the word is no longer found in searches. To find that 2-digit number in the problem table, you must disable both junk filtering and automatic stop words.
+    -   Disabling the junk filter results in a larger table index. For optimal performance, don't apply this attribute unless it's required.
 
 **Parent Topic:**[Available search options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/c_IntroductionToSearching.md)
 
@@ -60,8 +60,3 @@ For example, to disable matches for search terms like `a` or `40` in the Knowled
 
 [Debug Zing]()
 
-## Related
-
-- [[r_DictionaryEntryForm|Dictionary entry form]]
-- [[stop-words-ais|Stop words]]
-- [[hs-results|Results]]

@@ -12,7 +12,7 @@ breadcrumb: [Targeted communications, Configure case management, Case management
 
 # Edit a recipients list
 
-Modify targeted communication recipient [[migration-lists|lists]] using Dynamically Added column in Recipients related list.
+Modify targeted communication recipient lists using Dynamically Added column in Recipients related list.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ The **Active Communication** column is set to True by default for both dynamical
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_TargetedCommunications|Targeted Communications]]** &gt; **[[major-issue-recipient-lists|Recipients Lists]]**.
+1.  Navigate to **All** &gt; **Targeted Communications** &gt; **Recipients Lists**.
 
 2.  Select the desired list.
 
@@ -39,8 +39,4 @@ The **Active Communication** column is set to True by default for both dynamical
 
 5.  Click **Save**.
 
-## Related
 
-- [[migration-lists|Lists]]
-- [[c_TargetedCommunications|Targeted communications]]
-- [[major-issue-recipient-lists|Recipients lists]]

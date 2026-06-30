@@ -28,7 +28,7 @@ For information about how to change settings that were configured when the data 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Data Input** &gt; **Data Inputs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Data Input** &gt; **Data Inputs**.
 
 2.  Open a Rsyslog, Splunk, or TCP data input record from the Data Inputs table.
 
@@ -70,6 +70,3 @@ For information about how to change settings that were configured when the data 
 
 **Parent Topic:**[Advanced data input configuration in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-adv-configuration.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

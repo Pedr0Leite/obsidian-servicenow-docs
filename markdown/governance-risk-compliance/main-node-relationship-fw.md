@@ -12,7 +12,7 @@ breadcrumb: [Explore, Operational Resilience, Governance, Risk, and Compliance]
 
 # Main node configurations: A component of the Data Relationships Framework
 
-Starting with Release 20.1.x, the Main node configurations, supported by the [[data-relationship-framework|Data Relationships Framework]], are available with [[grc-opres-landing-page|Operational Resilience]] to define dependency roll-up chains. Operational Resilience administrators configure the [[entity-type-in-risk-ws|entity types]] and pillars, generate the entities, and then establish relationships between different CSDM objects. After this setup is complete, data from the CMDB is fetched into Operational Resilience, displaying rolled-up dependencies in the Workspace view.
+Starting with Release 20.1.x, the Main node configurations, supported by the Data Relationships Framework, are available with Operational Resilience to define dependency roll-up chains. Operational Resilience administrators configure the entity types and pillars, generate the entities, and then establish relationships between different CSDM objects. After this setup is complete, data from the CMDB is fetched into Operational Resilience, displaying rolled-up dependencies in the Workspace view.
 
 ## Data Relationships Framework
 
@@ -24,13 +24,13 @@ The video gives you an overview on creating a main node configuration to visuali
 
 ## Setting up the Main node configurations
 
-The Operational Resilience administrators set up the Main node configurations via the Main node configuration module listed in the **General [[Administration|administration]]** menu of the Core UI.
+The Operational Resilience administrators set up the Main node configurations via the Main node configuration module listed in the **General administration** menu of the Core UI.
 
-For information on configuring the Main node configurations, see [[set-up-main-node|Configure the Main node configurations]].
+For information on configuring the Main node configurations, see [Configure the Main node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-main-node.md).
 
 \[Omitted image "main-node-config-src-path.png"\] Alt text: Source module.
 
-Administrators can also configure the sources of the Main node configurations by accessing the Main node configuration source module. For information on configuring the Main node configuration source, see [[main-node-configuration-source|Main node configuration source]].
+Administrators can also configure the sources of the Main node configurations by accessing the Main node configuration source module. For information on configuring the Main node configuration source, see [Main node configuration source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-configuration-source.md).
 
 ## Changes in the Main node configurations in Operational Resilience, version 21.1.x
 
@@ -207,7 +207,7 @@ The Main node configurations are included with the Operational Resilience base v
 
 \[Omitted image "main-node-menu.png"\] Alt text: Menu.
 
-**Note:** You can fully customize the Main node configurations and for each configuration, you can configure the node relationships and Nexus map configurations from the Node relationship and Nexus map configuration related lists. For more information on how to configure the node relationships and Nexus map configurations, see [[update-node-rel-config|Configure the Node relationship configurations]].
+**Note:** You can fully customize the Main node configurations and for each configuration, you can configure the node relationships and Nexus map configurations from the Node relationship and Nexus map configuration related lists. For more information on how to configure the node relationships and Nexus map configurations, see [Configure the Node relationship configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-node-rel-config.md).
 
 1.  Opres with CSDM header configuration for business services: The Opres with CSDM header configuration defines the relationships for a business service and is primarily used by new customers.
 
@@ -221,13 +221,13 @@ The Main node configurations are included with the Operational Resilience base v
 
     \[Omitted image "main-node-structure-opres-csdm-header.png"\] Alt text: Header.
 
-    For more information on the Opres with CSDM header configuration, see [[opres-with-csdm-header|Opres with CSDM header Main node configuration]].
+    For more information on the Opres with CSDM header configuration, see [Opres with CSDM header Main node configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/opres-with-csdm-header.md).
 
 2.  Service \(CMDB\) configuration for services: The Service \(CMDB\) configuration defines the relationships for a service and is primarily used by existing customers. It supports only one level of dependency, such as a parent service having a child service, a process, or a dependency. A child service can have a process and a dependency \(such as Dep2 or Dep4 as shown in the example\) and a process can have a dependency \(such as Dep3 as shown in the sample hierarchy\).
 
     \[Omitted image "s-sam-hier.png"\] Alt text: Sample hierarchy.
 
-    For more information on the Service \(CMDB\) configuration, see [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]].
+    For more information on the Service \(CMDB\) configuration, see [Service \(CMDB\) Main node configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-config-bs-cmdb.md).
 
 3.  Dependency configurations:
 
@@ -237,55 +237,35 @@ The Main node configurations are included with the Operational Resilience base v
 
         \[Omitted image "main-node-structure-bp.png"\] Alt text: Processes.
 
-        For more information on the Business process to dependencies configuration, see [[main-node-config-bp-to-dep|Business process to dependencies Main node configuration]].
+        For more information on the Business process to dependencies configuration, see [Business process to dependencies Main node configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-config-bp-to-dep.md).
 
     2.  Business service to dependencies: The Business service to dependencies configuration defines the relationships from a business service to its dependencies. The following diagram illustrates the dependency relationship framework for a business service, available as a base version in Operational Resilience. A business service can have relationships with locations, contracts, third-parties, third-party engagements and more. When the entities are generated and scheduled jobs are executed, dependencies are fetched and rolled up to the parent business service.
 
         \[Omitted image "main-node-structure-dep-bs.png"\] Alt text: Services.
 
-        For more information on the Business service to dependencies configuration, see [[main-node-config-bs-to-dep|Business service to dependencies Main node configuration]].
+        For more information on the Business service to dependencies configuration, see [Business service to dependencies Main node configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-config-bs-to-dep.md).
 
     3.  Service offering to dependencies: The Service offering to dependencies configuration defines the relationships from a service offering to its dependencies. The following diagram shows the dependency relationship framework for the service offerings, available as a base version in Operational Resilience. A service offering can have relationships with application services, other business processes, technical services, contracts, third parties, and more. When entities are generated and scheduled jobs are executed, dependencies are fetched and rolled up to the parent service offering.
 
         \[Omitted image "main-node-structure-so.png"\] Alt text: Offerings.
 
-        For more information on the Service offering to dependencies configuration, see [[main-node-config-so-to-dep|Service offering to dependencies Main node configuration]].
+        For more information on the Service offering to dependencies configuration, see [Service offering to dependencies Main node configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/main-node-config-so-to-dep.md).
 
-4.  BCM dependency configurations: When the [[business-continuity-mangmt-overview|Business Continuity Management]] application is installed in an instance, BCM related dependencies are fetched into the Operational Resilience application. The Main node configurations related to BCM, such as BCM-CMDB, Downstream related plan, Plan primary assets, Plan related assets, and Upstream related plans, are shown in the example.
+4.  BCM dependency configurations: When the Business Continuity Management application is installed in an instance, BCM related dependencies are fetched into the Operational Resilience application. The Main node configurations related to BCM, such as BCM-CMDB, Downstream related plan, Plan primary assets, Plan related assets, and Upstream related plans, are shown in the example.
 
     \[Omitted image "bcm-related-main-node-configs.png"\] Alt text: Main node configurations for BCM.
 
-    For more information on the BCM dependency configurations, see [[bcm-dep-config-to-opres|BCM dependencies related Main node configurations]].
+    For more information on the BCM dependency configurations, see [BCM dependencies related Main node configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/bcm-dep-config-to-opres.md).
 
 
-For information on gathering data aligned with the latest CSDM model, see [[using-csdm-v5|Gathering data aligned with the CSDM setup]].
+For information on gathering data aligned with the latest CSDM model, see [Gathering data aligned with the CSDM setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-csdm-v5.md).
 
 After setting up the Main node configurations, you must verify that the entities are generated in Operational Resilience. Only when the entities are generated in Operational Resilience and the relationships are created in the Main node configurations, CMDB data can be brought into Operational Resilience for reporting.
 
--   **[[node-relationship-configurations|Node relationship configurations]]**  
+-   **[Node relationship configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/node-relationship-configurations.md)**  
 Node relationship configurations are used to set up relationships between the records and objects defined in the table. You can configure the details of the main node such as its name, source, table name, filter conditions, and so on.
--   **[[nexus-map-configuration|Nexus map configurations]]**  
+-   **[Nexus map configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/nexus-map-configuration.md)**  
 Beginning with Operational Resilience, version 21.1.x, the Nexus map configuration has been introduced. To display a main node in the Operational Resilience Workspace, you must configure the Nexus map. The Node Map configuration UI allows you to visualize related data hierarchically, track issues, and identify areas needing attention for effective resolution or health monitoring.
 
-**Parent Topic:**[[what-is-opres|Exploring Operational Resilience]]
+**Parent Topic:**[Exploring Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/what-is-opres.md)
 
-## Related
-
-- [[set-up-main-node|Configure the Main node configurations]]
-- [[main-node-configuration-source|Main node configuration source]]
-- [[update-node-rel-config|Configure the Node relationship configurations]]
-- [[opres-with-csdm-header|Opres with CSDM header Main node configuration]]
-- [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]
-- [[main-node-config-bp-to-dep|Business process to dependencies Main node configuration]]
-- [[main-node-config-bs-to-dep|Business service to dependencies Main node configuration]]
-- [[main-node-config-so-to-dep|Service offering to dependencies Main node configuration]]
-- [[bcm-dep-config-to-opres|BCM dependencies related Main node configurations]]
-- [[using-csdm-v5|Gathering data aligned with the CSDM setup]]
-- [[node-relationship-configurations|Node relationship configurations]]
-- [[nexus-map-configuration|Nexus map configurations]]
-- [[what-is-opres|Exploring Operational Resilience]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[Administration|Administration]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]

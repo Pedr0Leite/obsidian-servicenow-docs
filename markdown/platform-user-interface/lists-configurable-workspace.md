@@ -16,7 +16,7 @@ Learn about the components in UI Builder that enable admins to create and custom
 
 ## Lists overview
 
-A [[configurable-workspace-glossary|list]] is a content page that displays zero or more records from a database table. The list has rows and columns. Each row is a record, and each column is a field from the record.
+A [list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md) is a content page that displays zero or more records from a database table. The list has rows and columns. Each row is a record, and each column is a field from the record.
 
 Lists display multiple records in a Configurable Workspace, such as cases, task, or incidents, so that agents can find and work on records quickly.
 
@@ -66,6 +66,3 @@ The Predicate Builder component enables agents to set conditions from the list h
 
 The Predicate Builder is configured by admins in UI Builder.
 
-## Related
-
-- [[configurable-workspace-glossary|Configurable Workspace glossary]]

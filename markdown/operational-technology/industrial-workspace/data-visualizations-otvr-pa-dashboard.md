@@ -14,7 +14,7 @@ breadcrumb: [Use, Industrial Workspace, Operational Technology]
 
 # Data visualizations used in the Operational Technology Vulnerability Response \(PA\) dashboard
 
-The [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]] uses data visualizations to display your OT vulnerability data.
+The Operational Technology Vulnerability Response \(PA\) dashboard uses data visualizations to display your OT vulnerability data.
 
 The following tables describe the data visualizations shown in the Operational Technology Vulnerability Response \(PA\) dashboard.
 
@@ -285,6 +285,3 @@ Critical remediation tasks that are overdue organized by assignment group.
 
 **Parent Topic:**[Using the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/using-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]

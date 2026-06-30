@@ -12,7 +12,7 @@ breadcrumb: [Customer Engagement Sequences reference, Lead and opportunity manag
 
 # Automation form fields
 
-The Automation form enables you to [[configure-properties|configure properties]] and pull data from referenced tables for an automated call attempt.
+The Automation form enables you to configure properties and pull data from referenced tables for an automated call attempt.
 
 Dot-walking enables you to access columns from referenced tables so you can pull data beyond the current record into your configuration. For more information, see [Dot-walking examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/dot-walking-examples.md).
 
@@ -93,9 +93,5 @@ The state of the call task. The available options include:-   Open
 -   Cancelled
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]
+</table>**Parent Topic:**[Customer Engagement Sequences reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/customer-engagement-sequences-reference.md)
 
-## Related
-
-- [[customer-engagement-sequences-reference|Customer Engagement Sequences reference]]
-- [[configure-properties|Configure Properties]]

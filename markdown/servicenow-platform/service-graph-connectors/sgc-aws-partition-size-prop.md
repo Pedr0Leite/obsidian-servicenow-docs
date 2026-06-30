@@ -19,7 +19,7 @@ When using the SG-AWS-Image-Private, SG-AWS-Tags, SG-AWS-SendCommand, and AWS-SS
 
 ## Before you begin
 
-Set the application scope to [[cmdb-integration-aws-sg|Service Graph Connector for AWS]] using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
+Set the application scope to Service Graph Connector for AWS using the application picker. For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
 Role required: admin
 
@@ -27,11 +27,11 @@ Role required: admin
 
 The parallel loading feature is available for the SG-AWS-Image-Private, SG-AWS-Tags, SG-AWS-SendCommand, and AWS-SSM-GetS3Object data sources from the Washington DC Patch 5 release. This feature determines the number of AWS accounts that can be executed as parallel jobs to retrieve configuration item \(CI\) data. Partition size determines how many AWS accounts a single parallel-thread evaluates for data retrieval. For example, if you set the **aws\_account\_partition\_size** property to `5` and there are `25` AWS accounts, the application generates `5` parallel jobs during data loading.
 
-**Note:** If the **aws\_account\_partition\_size** property isn't configured, the partition size computation feature of the [[integration-commons-for-cmdb|Integration Commons for CMDB]] application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-part-size.md).
+**Note:** If the **aws\_account\_partition\_size** property isn't configured, the partition size computation feature of the Integration Commons for CMDB application automatically determines the partition size for parallel loading at runtime. See [Partition size computation for parallel loading in Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/integration-commons-part-size.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **AWS** &gt; **Connections**.
+1.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **AWS** &gt; **Connections**.
 
 2.  From the **Name** column of the Service Graph Connections list, select a connection.
 
@@ -41,8 +41,4 @@ The parallel loading feature is available for the SG-AWS-Image-Private, SG-AWS-T
 
 5.  Select **Update**.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
-- [[integration-commons-for-cmdb|Integration Commons for CMDB]]
-- [[cmdb-sgc-available|Service Graph Connectors]]

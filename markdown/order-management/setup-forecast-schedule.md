@@ -44,11 +44,7 @@ Role required: admin
 **Related topics**  
 
 
-[[using-sales-forecasting|Using Sales Forecasting]]
+[Using Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-sales-forecasting.md)
 
-[[sales-forecasting|Sales Forecasting]]
+[Sales Forecasting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sales-forecasting.md)
 
-## Related
-
-- [[using-sales-forecasting|Using Sales Forecasting]]
-- [[sales-forecasting|Sales Forecasting]]

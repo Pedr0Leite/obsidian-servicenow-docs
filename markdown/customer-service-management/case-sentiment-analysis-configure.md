@@ -12,7 +12,7 @@ breadcrumb: [Configure, Task Intelligence for Customer Service, Machine learning
 
 # Configure Sentiment Analysis
 
-Activate the required plugin, enable the sentiment analysis property, and [[configure-data-model-roles|assign roles]] to use the sentiment analysis feature.
+Activate the required plugin, enable the sentiment analysis property, and assign roles to use the sentiment analysis feature.
 
 Follow the steps in the table below to configure the sentiment analysis property for cases.
 
@@ -26,7 +26,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Ensure that your instance is set up for Predictive [[intelligence-csm|Intelligence]] \(PI\).
+Ensure that your instance is set up for Predictive Intelligence \(PI\).
 
 </td><td>
 
@@ -34,11 +34,11 @@ Predictive Intelligence is a ServiceNow platform feature that provides a layer o
 
 </td></tr><tr><td>
 
-Activate the [[csm-task-intelligence|Task Intelligence for Customer Service]] application \(com.snc.csm\_ml\_task\).
+Activate the Task Intelligence for Customer Service application \(com.snc.csm\_ml\_task\).
 
 </td><td>
 
-The Task Intelligence for Customer Service application enables customers to leverage machine learning algorithms in [[c_CustomerServiceManagement|Customer Service Management]]. The sentiment analysis feature is included with this application.
+The Task Intelligence for Customer Service application enables customers to leverage machine learning algorithms in Customer Service Management. The sentiment analysis feature is included with this application.
 
  This application automatically activates the following plugins:
 
@@ -46,13 +46,13 @@ The Task Intelligence for Customer Service application enables customers to leve
 -   Customer Service \(com.sn\_customerservice\)
 -   Skills Management \(com.snc.skills\_management\)
 -   Dynamic Translation \(com.glide.dynamic\_translation\)
--   ServiceNow [[case-language-detection|Language Detection]] Service Spoke \(com.glide.language\_detection\_spoke\)
+-   ServiceNow Language Detection Service Spoke \(com.glide.language\_detection\_spoke\)
 -   Predictive Intelligence - Task Intelligence \(com.glide.platform\_ml\_task\)
 -   Admin Center for Task Intelligence \(com.sn\_ti\_admin\)
 
 </td></tr><tr><td>
 
-Configure the Case list and [[r_CustomerServiceCaseForm|Case form]] to display the sentiment analysis fields.
+Configure the Case list and Case form to display the sentiment analysis fields.
 
 </td><td>
 
@@ -64,17 +64,17 @@ The sentiment analysis feature adds the following fields:
 
  Configure these fields for each of the following interfaces as needed:
 
--   [[csm-workspaces-configure|CSM Configurable Workspace]]
+-   CSM Configurable Workspace
 -   CSM Agent Workspace
 -   Core UI Platform interface
 
 </td></tr><tr><td>
 
-Use the [[csm-task-intel-admin-center|Task Intelligence Admin Console]] to create and deploy a sentiment model.
+Use the [Task Intelligence Admin Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-admin-center.md) to create and deploy a sentiment model.
 
 </td><td>
 
-See [[csm-task-intel-create-sentiment-solution|Create a model to predict case sentiment]].
+See [Create a model to predict case sentiment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-task-intel-create-sentiment-solution.md).
 
 </td></tr></tbody>
 </table>## Configure sentiment analysis fields
@@ -87,7 +87,7 @@ The sentiment analysis feature uses the following fields to display sentiment pr
 
 Add the sentiment fields to Case list views and to the Case form for CSM Configurable Workspace, CSM Agent Workspace, and Core UI.
 
--   In CSM Configurable Workspace, these fields appear as secondary values in the configurable form header. You can configure secondary values to display either below the primary value at the top of the form or in the Record Information tab in the contextual side panel. \(For more information, see [[config-csm-display-header-in-sidebar|Display the form ribbon and form header secondary values in the Contextual side panel]].\)
+-   In CSM Configurable Workspace, these fields appear as secondary values in the configurable form header. You can configure secondary values to display either below the primary value at the top of the form or in the Record Information tab in the contextual side panel. \(For more information, see [Display the form ribbon and form header secondary values in the Contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-display-header-in-sidebar.md).\)
 -   In CSM Agent Workspace, these fields appear in the Case form header.
 -   In Core UI, these fields appear on the Case form.
 
@@ -153,7 +153,7 @@ To add the sentiment fields to the Case form header:
 
 1.  Select **CSM Workspace** as the application scope.
 2.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Configuration Settings** &gt; **UX Form Header**.
-3.  In the Table column of the [[migration-form-headers|Form Headers]] list, select **sn\_customerservice\_case**.
+3.  In the Table column of the Form Headers list, select **sn\_customerservice\_case**.
 
     If adding sentiment fields for a case type, select the case type table that extends the Case table.
 
@@ -209,19 +209,5 @@ To add the sentiment fields to the Case form:
 **Related topics**  
 
 
-[[case-sentiment-analysis|Sentiment Analysis]]
+[Sentiment Analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-sentiment-analysis.md)
 
-## Related
-
-- [[csm-task-intel-admin-center|Task Intelligence Admin Console]]
-- [[csm-task-intel-create-sentiment-solution|Create a model to predict case sentiment]]
-- [[config-csm-display-header-in-sidebar|Display the form ribbon and form header secondary values in the Contextual side panel]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[configure-data-model-roles|Assign roles]]
-- [[intelligence-csm|Intelligence]]
-- [[csm-task-intelligence|Task Intelligence for Customer Service]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[case-language-detection|Language detection]]
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-form-headers|Form headers]]

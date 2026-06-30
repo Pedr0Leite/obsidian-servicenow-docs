@@ -14,11 +14,11 @@ breadcrumb: [Reference, Microsoft Azure, Service Graph Connectors, Integrating t
 
 # Record removal process in Service Graph Connector for Microsoft Azure
 
-The [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]] uses the Integration Commons record removal process for life cycle management during full data loads. For delta loads, life cycle management of records is based on updates from Microsoft Azure.
+The Service Graph Connector for Microsoft Azure uses the Integration Commons record removal process for life cycle management during full data loads. For delta loads, life cycle management of records is based on updates from Microsoft Azure.
 
 Record removal is the process of handling data that is no longer needed. For any discovered resources deleted later after pulling data, the Service Graph Connector for Microsoft Azure automatically updates the **Install Status** field of the associated CMDB CI classes to indicate any retired or deleted records.
 
-The record removal process in the Service Graph Connector for Microsoft Azure involves marking the **Install Status** of a record as **retired** rather than permanently deleting it from the system. The record remains in the database, making it possible to [[reference|reference]] or restore it later. Record removal for Service Graph Connector for Microsoft Azure relies on the Source \[sys\_object\_source table\].
+The record removal process in the Service Graph Connector for Microsoft Azure involves marking the **Install Status** of a record as **retired** rather than permanently deleting it from the system. The record remains in the database, making it possible to reference or restore it later. Record removal for Service Graph Connector for Microsoft Azure relies on the Source \[sys\_object\_source table\].
 
 Starting with the Service Graph Connector for Microsoft Azure 1.14.0 version, life cycle management is supported for the following data sources in full data load and delta load:
 
@@ -31,7 +31,7 @@ Starting with the Service Graph Connector for Microsoft Azure 1.14.0 version, li
 -   SG-Azure Virtual Machines​
 -   SG-Azure Storage Accounts​
 -   SG-Azure Security Group​
--   SG-Azure Public [[ip-address|IP Address]]​
+-   SG-Azure Public IP Address​
 -   SG-Azure Network​
 -   SG-Azure Load Balancers​
 -   SG-Azure Storage Volume​
@@ -43,8 +43,3 @@ When you run a full data load for the first time after upgrading to version 1.14
 
 **Parent Topic:**[Service Graph Connector for Microsoft Azure reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-azure-reference.md)
 
-## Related
-
-- [[cmdb-integration-azure|Service Graph Connector for Microsoft Azure]]
-- [[reference|Reference]]
-- [[ip-address|IP Address]]

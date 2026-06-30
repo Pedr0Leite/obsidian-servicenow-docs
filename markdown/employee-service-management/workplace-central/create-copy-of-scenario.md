@@ -35,13 +35,13 @@ When you copy a scenario, the copy is created with the same name, but appended w
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
-2.  On the left pane, select **[[space-optimization|Space Optimization]]** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
+2.  On the left pane, select **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
 
     The Space optimization dashboard opens.
 
@@ -89,10 +89,3 @@ To work on the scenario, refer to [Create a scenario](https://raw.githubusercont
 
 [Map based space administration]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[space-optimization|Space Optimization]]

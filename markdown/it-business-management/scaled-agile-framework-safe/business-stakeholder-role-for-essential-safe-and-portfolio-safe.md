@@ -14,11 +14,11 @@ breadcrumb: [Scaled Agile Framework \(SAFe\), Strategic Portfolio Management]
 
 # Business stakeholder role for Essential SAFe and Portfolio SAFe
 
-Use the business stakeholder role to read and retrieve data from any table of the [[essential-overview|Essential SAFe]] and [[portfolio-overview|Portfolio SAFe]] applications to generate reports.
+Use the business stakeholder role to read and retrieve data from any table of the Essential SAFe and Portfolio SAFe applications to generate reports.
 
 **Important:**
 
-Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]], [[work-progress-status-safe-overview|Work Progress Status for SAFe]], Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-landing.md) provides the latest experience for this functionality.
+Starting with the Xanadu release, the plugins Portfolio SAFe, Essential SAFe, Performance Analytics Content Pack for Essential SAFe, Work Progress Status for SAFe, Agile - Scaled Agile Framework - Unified Backlog, and Read only roles for SAFe are being prepared for future deprecation. These plugins will be hidden and can no longer be activated on new instances but will continue to be supported. [Enterprise Agile Planning in Strategic Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/eap-landing.md) provides the latest experience for this functionality.
 
 For more information on the deprecation process and its impact, see the [Application/Plugin Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
@@ -140,7 +140,7 @@ Records displayed on the Team level, Board tab.
 
 </td></tr><tr><td>
 
-[[safe-pi-objectives|SAFe PI Objectives]]\[sn\_safe\_pi\_objective\]
+SAFe PI Objectives\[sn\_safe\_pi\_objective\]
 
 </td><td>
 
@@ -293,11 +293,3 @@ Records displayed on the Team level, Board tab.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[essential-overview|Essential SAFe]]
-- [[portfolio-overview|Portfolio SAFe]]
-- [[pa-content-pack-essential-safe|Performance Analytics Content Pack for Essential SAFe]]
-- [[work-progress-status-safe-overview|Work Progress Status for SAFe]]
-- [[safe-pi-objectives|SAFe PI objectives]]

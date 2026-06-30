@@ -14,7 +14,7 @@ breadcrumb: [Contact Tracing, Safe Workplace, Health and Safety, Employee Servic
 
 # Retrieving Wi-Fi access log data
 
-[[contact-tracing|Contact Tracing]] provides the following options:
+Contact Tracing provides the following options:
 
 -   Manually upload data from a Microsoft Excel spreadsheet by using the import Wi-Fi access logs option
 -   Automatically get the Wi-Fi access logs from external systems by using the integration option
@@ -54,6 +54,3 @@ Identify potentially exposed employees by manually importing Wi-Fi access logs i
 
 **Parent Topic:**[Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

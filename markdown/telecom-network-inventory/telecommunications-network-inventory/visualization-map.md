@@ -14,7 +14,7 @@ breadcrumb: [Visualize network infrastructure, Explore, Telecommunications Netwo
 
 # Geo map
 
-Use the [[using-network-site-map|geo map]] in [[telecom-network-inventory|Telecommunications Network Inventory]] to view the geographical location of your network sites and datacenters. You can use the geo map to get the details of the network site and datacenters such as site details, connectivity, and capacity information.
+Use the geo map in Telecommunications Network Inventory to view the geographical location of your network sites and datacenters. You can use the geo map to get the details of the network site and datacenters such as site details, connectivity, and capacity information.
 
 ## Geo map overview
 
@@ -111,7 +111,7 @@ The map pane displays the network site and datacenter with a location icon \(\[O
 
 -   View the associated sites by selecting a network site or datacenter.
 -   Hover over a site shows the site-specific information.
--   View the physical and [[design-logical-connection-design-assign-playbook|logical connections]] between the sites.
+-   View the physical and logical connections between the sites.
 -   View the cable route between the sites.
 -   View the topology that is associated with a site.
 
@@ -144,7 +144,7 @@ Use the search box to select a site to view its location and details. You can se
 
 You can access the geo map in the Telecommunications Network Inventory workspace as follows:
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 2.  Select the blue hub icon \(\[Omitted image "icon-blue-hub.png"\] Alt text: Blue Hub Icon.\) to open the Network visualization window.
 3.  Select **Geo map** tab.
 
@@ -155,9 +155,3 @@ To learn more about how to use the geo map, see [View details of the geo map](ht
 
 [Geo map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/using-network-site-map.md)
 
-## Related
-
-- [[using-network-site-map|Geo map]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[design-logical-connection-design-assign-playbook|Logical connections]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

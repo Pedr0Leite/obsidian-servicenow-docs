@@ -32,7 +32,7 @@ For more information on approval flow, see [Conflict of Interest – Approval fl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Click the list icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -42,7 +42,7 @@ For more information on approval flow, see [Conflict of Interest – Approval fl
 
 5.  If it's an existing request that is updated by the requester, review and validate the changes from the Activities stream.
 
-6.  [[lsd-coi-view-risk-asmt-dets|View risk assessment details]] by viewing the Risk level field on the secondary header and navigating to Risk responses tab.
+6.  View risk assessment details by viewing the Risk level field on the secondary header and navigating to Risk responses tab.
 
 7.  In the **Approvers** tab, click **Requested** in the **State** column to open the approval form.
 
@@ -89,7 +89,3 @@ The state of the conflict of interest disclosure record is based on the followin
 </td></tr></tbody>
 </table>**Parent Topic:**[Using Legal Conflict of Interest](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-conflict-of-interest/lsd-coi-use-landing.md)
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[lsd-coi-view-risk-asmt-dets|View risk assessment details]]

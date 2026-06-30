@@ -14,11 +14,11 @@ breadcrumb: [Optimize workforce operations, Extend capabilities, Configure, Cust
 
 You can set up service channels, queues, and key performance indicators \(KPIs\) to route work items automatically to agents based on an agent's availability, capacity, and skills.
 
-With [[configurable-wfo-cs|Workforce Optimization for Customer Service]], you, as a channel administrator, can set up service channels and work item queues so that managers can view the real-time operational metrics for the work that is being done by their teams and the specific items that their teams are working on. You can also configure real-time refresh intervals for the metrics and [[migration-lists|lists]] so that managers can always see the latest information about their teams.
+With Workforce Optimization for Customer Service, you, as a channel administrator, can set up service channels and work item queues so that managers can view the real-time operational metrics for the work that is being done by their teams and the specific items that their teams are working on. You can also configure real-time refresh intervals for the metrics and lists so that managers can always see the latest information about their teams.
 
-Configure filters to refine the search and view targeted results. Filters are persisted across all channel management pages in the session. To view a list of the default interactive filters and the KPI reports for channels, queues, agents, and groups that you can map to the interactive filters, see [[components-installed-configurable-wfo-cs|Interactive Filters]] under the Channel Management section. By default, the assignment group filter is applied to all lists and groups that you manage. You can disable interactive filters by using the **sn\_channel\_mgmt.filter\_config.enable** property.
+Configure filters to refine the search and view targeted results. Filters are persisted across all channel management pages in the session. To view a list of the default interactive filters and the KPI reports for channels, queues, agents, and groups that you can map to the interactive filters, see [Interactive Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md) under the Channel Management section. By default, the assignment group filter is applied to all lists and groups that you manage. You can disable interactive filters by using the **sn\_channel\_mgmt.filter\_config.enable** property.
 
-**Parent Topic:**[[setup-configurable-wfo-cs|Optimize workforce operations]]
+**Parent Topic:**[Optimize workforce operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/setup-configurable-wfo-cs.md)
 
 ## Add service channels and queues
 
@@ -50,7 +50,7 @@ A service channel is a means of assigning a specific type of work items to agent
 
 ## Create assignment rules and groups
 
-Define agent assignment [[gamification-components-rules|rules]] and specify groups of agents who are eligible to receive overflow work assignments for a queue.
+Define agent assignment rules and specify groups of agents who are eligible to receive overflow work assignments for a queue.
 
 ### Before you begin
 
@@ -339,7 +339,7 @@ The KPI scores are automatically refreshed at an interval of 30 seconds. However
 
 ### Result
 
-The KPIs that are configured in the service channel appear in the Current Work section of the agent's Overview page. For more information, see [[use-channels-configurable-wfo-cs|Track and analyze agents' performance]].
+The KPIs that are configured in the service channel appear in the Current Work section of the agent's Overview page. For more information, see [Track and analyze agents' performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/use-channels-configurable-wfo-cs.md).
 
 ## Configure supervisor lists for service channels
 
@@ -427,7 +427,7 @@ The supervisor list is added to the service channels and appears in Channel Mana
 
 ## Use extension points to configure the sort order
 
-Use scripted extension [[gamification-components-points|points]] to configure the sort order for the columns in the All Agents and All Queues lists for Channel Management.
+Use scripted extension points to configure the sort order for the columns in the All Agents and All Queues lists for Channel Management.
 
 ### Before you begin
 
@@ -557,12 +557,3 @@ Role required: sn\_channel\_mgmt.admin
 
 All managers and additional managers of the teams receive an email notification that summarizes their agents' performance.
 
-## Related
-
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[setup-configurable-wfo-cs|Optimize workforce operations]]
-- [[use-channels-configurable-wfo-cs|Using Channel Management in Workforce Optimization for Customer Service]]
-- [[configurable-wfo-cs|Workforce Optimization for Customer Service]]
-- [[migration-lists|Lists]]
-- [[gamification-components-rules|Rules]]
-- [[gamification-components-points|Points]]

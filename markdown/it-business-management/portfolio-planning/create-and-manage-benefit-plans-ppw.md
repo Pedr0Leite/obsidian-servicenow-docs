@@ -30,7 +30,7 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 ## Procedure
 
-1.  Open a demand from the home page of Next Experience for [[c_DemandManagement|Demand Management]].
+1.  Open a demand from the home page of Next Experience for Demand Management.
 
     For more information, see [Access demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/access-demands-ppw.md).
 
@@ -57,7 +57,7 @@ Description
 
 3.  Select **New**.
 4.  Select the benefit type as monetary or non-monetary benefits.
-5.  On the Create New [[benefit-plan-form-project-management|Benefit Plan form]], fill the fields.
+5.  On the Create New Benefit Plan form, fill the fields.
     -   For monetary benefit plans, see [Monetary benefit plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/monetary-benefit-plan-form-ppw.md).
     -   For non-monetary benefit plans, see [Non-monetary benefit plan form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/non-monetary-benefit-plan-form-ppw.md).
 6.  Select **Save**.
@@ -150,7 +150,3 @@ Delete a benefit plan in one of the following ways:1.  Select **Details** from t
 
 [Non-monetary benefit plan breakdown form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/non-monetary-benefit-plan-breakdown-ppw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

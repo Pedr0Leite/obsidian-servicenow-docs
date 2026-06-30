@@ -14,17 +14,12 @@ breadcrumb: [Conversational Interfaces Diagnostic Tool, Conversational Interface
 
 # Using the Conversational Interfaces Diagnostic Tool
 
-Use the tool to diagnose general [[convint-landing-page|Conversational Interfaces]] errors and system property settings, as well as issues with Microsoft Teams and [[awa-application-landing-page|Advanced Work Assignment]] configuration.
+Use the tool to diagnose general Conversational Interfaces errors and system property settings, as well as issues with Microsoft Teams and Advanced Work Assignment configuration.
 
 -   **[Diagnose Conversational Interfaces errors](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/diagnose-general-error.md)**  
-Use the [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]] to resolve issues related to conversational interfaces such as error messages and system property issues before reaching out to Now Support.
+Use the Conversational Interfaces Diagnostic Tool to resolve issues related to conversational interfaces such as error messages and system property issues before reaching out to Now Support.
 -   **[Diagnose Microsoft Teams configuration issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/diagnose_ci_plugin_issues.md)**  
 Use the Conversational Interfaces Diagnostic Tool to identify and help solve Microsoft Teams configuration issues before reaching out to Now Support.
 -   **[Diagnose Advanced Work Assignment configuration issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/diagnose-awa-no-agents-avail.md)**  
 Use the Conversational Interfaces Diagnostic Tool to identify and resolve common Advanced Work Assignment \(AWA\) configuration issues before reaching out to Now Support.
 
-## Related
-
-- [[convint-landing-page|Conversational Interfaces]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]]

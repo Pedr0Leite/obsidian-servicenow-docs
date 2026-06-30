@@ -12,7 +12,7 @@ breadcrumb: [Components installed with additional plugins for Customer Service M
 
 # Components installed with Special Handling Notes
 
-Several types of components are installed with [[c_OnScreenAlerts|Special Handling Notes]].
+Several types of components are installed with Special Handling Notes.
 
 ## Tables installed with Special Handling Notes
 
@@ -131,11 +131,11 @@ The width of the Special Handling Notes pop-up window in pixels. The default wid
 -   **Location**: **Special Handling Notes** &gt; **Properties**
 
 </td></tr></tbody>
-</table>To learn more about the special handling notes properties, see [[t_EnableOnScreenAlertProperties|Configure special handling notes properties]].
+</table>To learn more about the special handling notes properties, see [Configure special handling notes properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/t_EnableOnScreenAlertProperties.md).
 
 ## Business rules installed with Special Handling Notes
 
-The business [[gamification-components-rules|rules]] included with the Special Handling Notes plugin \(com.sn\_shn\).
+The business rules included with the Special Handling Notes plugin \(com.sn\_shn\).
 
 The Special Handling Notes plugin adds the following business rules.
 
@@ -220,8 +220,3 @@ The Special Handling Notes plugin adds the following script includes.
 |SHNProcessor|A collection of APIs for special handling notes.|
 |SHNTable|Provides a list of tables for which the user can create special handling notes.|
 
-## Related
-
-- [[t_EnableOnScreenAlertProperties|Configure special handling notes properties]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[gamification-components-rules|Rules]]

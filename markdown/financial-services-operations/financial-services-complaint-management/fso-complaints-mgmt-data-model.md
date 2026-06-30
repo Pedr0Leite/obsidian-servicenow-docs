@@ -16,7 +16,7 @@ breadcrumb: [Explore, Complaint Management, Common applications, Financial Servi
 
 The Financial Services Complaint Management data model provides a framework that is used in the complaint management workflow.
 
-This data model is aligned to the Financial Services Operations Core data model. See [[financial-services-operations-core-data-model|Financial Services Operations Core]] to learn about Financial Services Operations Core data model.
+This data model is aligned to the Financial Services Operations Core data model. See [Financial Services Operations Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-operations-core-data-model.md) to learn about Financial Services Operations Core data model.
 
 The following diagram shows the tables and their relationships that comprise the complaints management data model.
 
@@ -24,7 +24,7 @@ This data model uses a combination of tables to store data:
 
 -   Tables that are included with complaints management application.
 
-    For more information on tables that are installed with [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]], see [Components installed with Financial Services Complaint Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-complaint-management/installed-with-fso-complaints-mgmt.md).
+    For more information on tables that are installed with Financial Services Complaint Management, see [Components installed with Financial Services Complaint Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-complaint-management/installed-with-fso-complaints-mgmt.md).
 
 -   Tables that are from the Customer Service Management \(CSM\) application.
     -   Extends the Sold Product \[sn\_install\_base\_sold\_product\] table for financial account and financial transaction tables.
@@ -34,7 +34,7 @@ This data model uses a combination of tables to store data:
 
 -   ServiceNow AI Platform tables.
 
-    Extends the Product Model \[cmdb\_model\] table to support financial products in [[fso-overview|Financial Services]] Operations.
+    Extends the Product Model \[cmdb\_model\] table to support financial products in Financial Services Operations.
 
 
 The data model also includes access control lists \(ACLs\) and the following user roles to restrict access to different tables:
@@ -42,8 +42,3 @@ The data model also includes access control lists \(ACLs\) and the following use
 -   Internal roles for agents, users working in front, middle, and back-office of financial institutions
 -   External roles for accounts, contacts, and consumers
 
-## Related
-
-- [[financial-services-operations-core-data-model|Financial Services Operations Core]]
-- [[fso-complaint-mgmt-landing-page|Financial Services Complaint Management]]
-- [[fso-overview|Financial Services]]

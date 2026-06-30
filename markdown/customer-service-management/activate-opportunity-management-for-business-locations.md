@@ -28,7 +28,7 @@ The following items are installed with Opportunity Management for Business Locat
 -   Scheduled jobs
 -   Tables
 
-For more information, see [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]].
+For more information, see [Roles and responsibilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/personas-roles-and-tables-post-integration-oppMgmt.md).
 
 ## Procedure
 
@@ -48,9 +48,5 @@ For more information, see [[personas-roles-and-tables-post-integration-oppMgmt|R
 **Related topics**  
 
 
-[[opportunity-management-for-business-location|Opportunity Management for business location]]
+[Opportunity Management for business location](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/opportunity-management-for-business-location.md)
 
-## Related
-
-- [[personas-roles-and-tables-post-integration-oppMgmt|Roles and responsibilities]]
-- [[opportunity-management-for-business-location|Opportunity Management for business location]]

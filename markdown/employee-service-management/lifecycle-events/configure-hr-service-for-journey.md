@@ -22,11 +22,11 @@ Role required: sn\_hr\_core.admin
 
 ## About this task
 
-[[hr-service-administration|HR services]] are the requests and assistance an HR organization provides its employees, and they are the starting point for HR case creation. You must create an HR service for a lifecycle event so that it can be requested for service. To learn more about HR services, including whether to make an HR service available for internal use only or for employee self-service, see [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md).
+HR services are the requests and assistance an HR organization provides its employees, and they are the starting point for HR case creation. You must create an HR service for a lifecycle event so that it can be requested for service. To learn more about HR services, including whether to make an HR service available for internal use only or for employee self-service, see [HR services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-administration.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **HR Services** &gt; **[[hr-service-configuration|HR Service Configuration]]**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **HR Services** &gt; **HR Service Configuration**.
 
 2.  Click **New**.
 
@@ -62,7 +62,7 @@ Journey configuration
 
 </td><td>
 
-Select the [[jny-dsgnr-landing-page-1|Journey designer]] journey you want to associate with the Lifecycle event.
+Select the Journey designer journey you want to associate with the Lifecycle event.
 
 </td></tr><tr><td>
 
@@ -86,9 +86,3 @@ Select the COE you want the HR service to be categorized under.**Note:** An HR s
 
 **Next topic:**[Using the Test Activity Sets tool for a lifecycle event activity set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/hr-lifecycle-event-test-tool.md)
 
-## Related
-
-- [[hr-service-administration|HR services]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-configuration|HR service configuration]]
-- [[jny-dsgnr-landing-page-1|Journey designer]]

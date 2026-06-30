@@ -22,15 +22,15 @@ Role required: ais\_admin
 
 ## About this task
 
-Unlinking a synonym dictionary from a search profile doesn't delete the dictionary. To [[delete-synonym-dict-ais|delete a synonym dictionary]], you must first unlink it from all search profiles. For steps to delete a synonym dictionary, see [Delete a synonym dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/delete-synonym-dict-ais.md).
+Unlinking a synonym dictionary from a search profile doesn't delete the dictionary. To delete a synonym dictionary, you must first unlink it from all search profiles. For steps to delete a synonym dictionary, see [Delete a synonym dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/delete-synonym-dict-ais.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Experience** &gt; **Search Profiles**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Experience** &gt; **Search Profiles**.
 
 2.  Open the search profile that you want to unlink the synonym dictionary from.
 
-3.  In the [[synonyms-ais|Synonyms]] related list, select the option for the synonym dictionary that you want to unlink from the search profile.
+3.  In the Synonyms related list, select the option for the synonym dictionary that you want to unlink from the search profile.
 
 4.  Select **Unlink Selected**.
 
@@ -45,8 +45,3 @@ To make the change in synonym dictionary linking take effect, publish the search
 
 **Parent Topic:**[Synonyms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/synonyms-ais.md)
 
-## Related
-
-- [[delete-synonym-dict-ais|Delete a synonym dictionary]]
-- [[ia-ai-search|AI Search]]
-- [[synonyms-ais|Synonyms]]

@@ -22,7 +22,7 @@ Role required: sn\_hr\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Assignment Rules** &gt; **HR Assignment Rules**.
+1.  Navigate to **All** &gt; **HR Administration** &gt; **Assignment Rules** &gt; **HR Assignment Rules**.
 
 2.  Click **New**.
 
@@ -141,6 +141,3 @@ After creating the assignment rule, you can test it to verify that it works.
 
 [HR Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_AdministerHRServiceManagement.md)
 
-## Related
-
-- [[c_AdministerHRServiceManagement|HR Administration]]

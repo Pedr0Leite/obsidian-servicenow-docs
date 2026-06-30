@@ -28,7 +28,7 @@ Identify and narrow a list of cases, then select the desired case or cases to ad
 
 Messages on the pop-up window:
 
-You can also [[create-child-cases-for-major-case|create child cases for a major case]] from Agent Workspace.
+You can also create child cases for a major case from Agent Workspace.
 
 ## Procedure
 
@@ -44,7 +44,7 @@ You can also [[create-child-cases-for-major-case|create child cases for a major 
 
 5.  Select **Submit**.
 
-    The system evaluates the selected cases and adds none, some, or all cases to the **Child Cases** related list. A message on the major [[r_CustomerServiceCaseForm|case form]] informs you of the results by displaying one of the following:
+    The system evaluates the selected cases and adds none, some, or all cases to the **Child Cases** related list. A message on the major case form informs you of the results by displaying one of the following:
 
     -   No selected cases were added as child cases.
     -   \(x\) of \(y\) selected cases were added as child cases.
@@ -55,10 +55,5 @@ You can also [[create-child-cases-for-major-case|create child cases for a major 
 **Related topics**  
 
 
-[[major-issue-recipient-lists|Recipients lists]]
+[Recipients lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/major-issue-recipient-lists.md)
 
-## Related
-
-- [[major-issue-recipient-lists|Recipients lists]]
-- [[create-child-cases-for-major-case|Create child cases for a major case]]
-- [[r_CustomerServiceCaseForm|Case form]]

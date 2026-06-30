@@ -14,11 +14,11 @@ breadcrumb: [Catalog item component, Configure web components, Web Embeddables, 
 
 # Embed the Catalog item component instance on the third-party website
 
-Embed the global code and component code of the [[catalog-item-web-component|Catalog item component]] instance that you configured so that you can enable your customers to start using the Catalog item component instance on your third-party website.
+Embed the global code and component code of the Catalog item component instance that you configured so that you can enable your customers to start using the Catalog item component instance on your third-party website.
 
 ## Before you begin
 
-You must [[configure-catalog-item-component-on-instance|configure the Catalog item component instance]]. For information, see [Configure the Catalog item component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-catalog-item-component-on-instance.md).
+You must configure the Catalog item component instance. For information, see [Configure the Catalog item component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/configure-catalog-item-component-on-instance.md).
 
 Role required: None
 
@@ -37,7 +37,3 @@ Role required: None
 
 The Catalog item component instance appears on your third-party website.
 
-## Related
-
-- [[catalog-item-web-component|Catalog item component]]
-- [[configure-catalog-item-component-on-instance|Configure the Catalog item component instance]]

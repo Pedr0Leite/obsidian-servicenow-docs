@@ -14,7 +14,7 @@ breadcrumb: [Reference, Configuration Compliance, Unified Security Exposure Mana
 
 # Components installed with Configuration Compliance
 
-Several types of components are installed with activation of the [[vr-config-compliance-landing|Configuration Compliance]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Configuration Compliance plugin, including tables and user roles.
 
 Starting with v15.1.5 of Configuration Compliance, the most frequently used system properties are now accessible within the Configuration Compliance application. To view these system properties, navigate to **All**Configuration Compliance**Properties**.
 
@@ -35,7 +35,7 @@ Demo data is available for this feature.
 Filter the Applications Files table so that only the roles, scheduled jobs, and tables that are installed with an application are displayed. The application you want to view these components for should be installed so that its files are loaded onto the instance and into the metadata table. Follow these steps to view filtered lists from the Applications Files table.
 
 1.  In the filter navigator, enter **sys\_metadata.list** to navigate to the metadata table.
-2.  Select the condition builder \(filter icon\), and select, **Application** &gt; **is** followed by the name of your application. For example, **Application** &gt; **is** &gt; **[[vuln-landing-page|Vulnerability Response]]**.
+2.  Select the condition builder \(filter icon\), and select, **Application** &gt; **is** followed by the name of your application. For example, **Application** &gt; **is** &gt; **Vulnerability Response**.
 3.  In the condition builder, to add a second filter, select **AND**, then select, **Class** &gt; **is a** and choose one of the following classes from the list: **Role**, **Scheduled job**, or **Table**.
 4.  Select **Run**.
 
@@ -73,7 +73,7 @@ read\[sn\_vulc.read\]
 
 </td><td>
 
-Read lists and records in Configuration Compliance.**Important:** Starting with v24.0 of Vulnerability Response, the sn\_vulc.read role has the privilege to access the [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]].
+Read lists and records in Configuration Compliance.**Important:** Starting with v24.0 of Vulnerability Response, the sn\_vulc.read role has the privilege to access the Vulnerability Manager Workspace.
 
 </td><td>
 
@@ -260,7 +260,7 @@ sn\_vulc.read\_test\_criticality\_mapping
 
 </td><td>
 
-Allow read for test criticality [[mapping-logrhythm|mapping]]
+Allow read for test criticality mapping
 
 </td><td>
 
@@ -820,10 +820,3 @@ Cache table for the Distinct Configuration Tests tab in the Vulnerability Manage
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[vr-config-compliance-landing|Configuration Compliance]]
-- [[vuln-landing-page|Vulnerability Response]]
-- [[vulnerability-manager-workspace-landing-page|Vulnerability Manager Workspace]]
-- [[mapping-logrhythm|Mapping]]

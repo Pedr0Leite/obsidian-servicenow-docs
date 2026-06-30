@@ -18,7 +18,7 @@ Delete a component library and all of its components if no application is using 
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Role required: cdm\_admin
 
@@ -37,6 +37,3 @@ Role required: cdm\_admin
 
 The component library and all of its components are deleted.
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]

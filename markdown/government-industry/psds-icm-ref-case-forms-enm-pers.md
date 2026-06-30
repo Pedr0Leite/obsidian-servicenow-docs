@@ -284,7 +284,7 @@ Status
 
 </td><td>
 
-The status of the person in relation to the case. For more information on the options for person status, see [[person-status-form|Person status form]].
+The status of the person in relation to the case. For more information on the options for person status, see [Person status form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/person-status-form.md).
 
 </td></tr><tr><td>
 
@@ -304,7 +304,3 @@ A brief, written description of the person's relationship to the case.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[person-status-form|Person status form]]

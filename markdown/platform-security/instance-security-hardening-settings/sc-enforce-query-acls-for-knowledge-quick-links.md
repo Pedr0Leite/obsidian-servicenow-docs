@@ -16,9 +16,9 @@ breadcrumb: [Architecture, design, and threat modeling, Hardening settings, Plat
 
 Enforce query ACLs for Knowledge Quick Links using a system property.
 
-When the **com.glide.security.query\_acl.enabled.knowledge\_quick\_links** system property is set to **true**, [[query-acl-rule|query ACLs]] are enforced for Knowledge Quick Links. If this property is set to **false**, an attacker can use blind queries to enumerate and exfiltrate data due to the default behavior of `GlideRecord.addEncodedQuery`.
+When the **com.glide.security.query\_acl.enabled.knowledge\_quick\_links** system property is set to **true**, query ACLs are enforced for Knowledge Quick Links. If this property is set to **false**, an attacker can use blind queries to enumerate and exfiltrate data due to the default behavior of `GlideRecord.addEncodedQuery`.
 
-If the property doesn’t exist in the [[ca-system-properties|System properties]] \[sys\_properties\] table, the secure default of **true** is used. A third option, **external\_and\_guests** enforces query ACLs only for external [[users|users]] and guests.
+If the property doesn’t exist in the System properties \[sys\_properties\] table, the secure default of **true** is used. A third option, **external\_and\_guests** enforces query ACLs only for external users and guests.
 
 Verify that the **com.glide.security.query\_acl.enabled.knowledge\_quick\_links** system property is set to **true**.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -119,9 +119,3 @@ None
 
 **Parent Topic:**[Architecture, design, and threat modeling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-architecture-design-threat-molding.md)
 
-## Related
-
-- [[query-acl-rule|Query ACLs]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

@@ -14,7 +14,7 @@ breadcrumb: [SAML user provisioning, SAML, Multi-Provider single sign-on \(SSO\)
 
 # Administer SAML user provisioning
 
-Update the User table with the [[users|users]] in your IdP by first setting up field mapping and then enabling user provisioning through Multi-SSO IdP settings.
+Update the User table with the users in your IdP by first setting up field mapping and then enabling user provisioning through Multi-SSO IdP settings.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 1.  Navigate to **All** &gt; **Multi-Provider SSO** &gt; **Properties**.
 
-2.  Select **Enable Auto Importing of users from all [[identity-landing|identity]] providers into the user table** \(**glide.authenticate.multisso.user.autoprovision**\) to activate this feature.
+2.  Select **Enable Auto Importing of users from all identity providers into the user table** \(**glide.authenticate.multisso.user.autoprovision**\) to activate this feature.
 
 3.  Click **Save**.
 
@@ -51,10 +51,5 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 When the first unknown users try to log in, the system creates the fields in the import set table from the metadata.xml file.
 
-**Note:** You cannot map the fields from the IdP table until this first user [[logs|logs]] in.
+**Note:** You cannot map the fields from the IdP table until this first user logs in.
 
-## Related
-
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[logs|Logs]]

@@ -34,7 +34,7 @@ In the manual metric definition, you can choose between a simple or advanced opt
 
     For information about the fields, refer to [Assignment Configuration New Record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/assignment-configuration-new-record.md).
 
-    **Note:** You cannot have more than one [[bcm-approval-configuration|approval configuration]] applying to the table with the same priority.
+    **Note:** You cannot have more than one approval configuration applying to the table with the same priority.
 
 4.  Select **Save**.
 
@@ -47,6 +47,3 @@ Data owners are assigned to metrics based on the parameters set in your assignme
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[bcm-approval-configuration|Approval configuration]]

@@ -16,7 +16,7 @@ You can edit activated policies to help you customize their conditions to better
 
 ## Before you begin
 
-You cannot edit the policies that are included with the application, but you can clone and create child policies from them. See [[spc-clone-policy|Clone a policy or create a child policy in Security Posture Control]].
+You cannot edit the policies that are included with the application, but you can clone and create child policies from them. See [Clone a policy or create a child policy in Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-clone-policy.md).
 
 If you edit policies and publish your changes, versions are tracked and version numbers are displayed on the policy record and its related test results.
 
@@ -26,7 +26,7 @@ Roles required: SPC Admin Group or SPC Analyst Group
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[spc-landing|Security Posture Control]]** &gt; **List** &gt; **Policies** &gt; **All**.
+1.  Navigate to **Workspaces** &gt; **Security Posture Control** &gt; **List** &gt; **Policies** &gt; **All**.
 
 2.  Select a policy record to open it.
 
@@ -64,7 +64,7 @@ If you publish a new version of a policy, you have the option to close any exist
 
 If you cancel at this point or exit edit mode, a message is displayed that you have an unpublished edit for this policy.
 
-If you choose to close its existing related test results \(findings\), test result and remediation task states transition in accordance with the state transition processes of the [[vr-config-compliance-landing|Configuration Compliance]] application. See [[spc-findings-state-transition|Test result and remediation task state transitions in the Security Posture Control application]] for more information.
+If you choose to close its existing related test results \(findings\), test result and remediation task states transition in accordance with the state transition processes of the Configuration Compliance application. See [Test result and remediation task state transitions in the Security Posture Control application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-findings-state-transition.md) for more information.
 
 </td></tr><tr><td>
 
@@ -137,7 +137,7 @@ Configure findings
 
 </td><td>
 
-Select **Yes** in the modal to generate findings for the policy. See [[spc-view-findings|Security Posture Control: Configuring and viewing your findings]].
+Select **Yes** in the modal to generate findings for the policy. See [Security Posture Control: Configuring and viewing your findings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-view-findings.md).
 
 </td></tr><tr><td>
 
@@ -177,16 +177,7 @@ View linked records
 
 </td><td>
 
-For published policies, view custom insights if available. See [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]]
+For published policies, view custom insights if available. See [Create and activate a configured insight for Security Posture Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/spc-create-custom-insight.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[spc-clone-policy|Clone a policy or create a child policy in Security Posture Control]]
-- [[spc-findings-state-transition|Test result and remediation task state transitions in the Security Posture Control application]]
-- [[spc-view-findings|spc view findings]]
-- [[spc-create-custom-insight|Create and activate a configured insight for Security Posture Control]]
-- [[spc-landing|Security Posture Control]]
-- [[vr-config-compliance-landing|Configuration Compliance]]

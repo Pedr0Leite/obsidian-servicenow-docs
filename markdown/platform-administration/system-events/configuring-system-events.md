@@ -14,7 +14,7 @@ breadcrumb: [System Events, Configure core features, Administer the ServiceNow A
 
 # Configuring System events
 
-Plan, configure, and implement [[events|system events]] without having to complete any extra [[clone-configurations-tab|configurations]] first. Follow the task listed in the configuration overview to [[auto-job-scheduling|implement automated job scheduling]].
+Plan, configure, and implement system events without having to complete any extra configurations first. Follow the task listed in the configuration overview to implement automated job scheduling.
 
 ## Configuration overview
 
@@ -27,8 +27,3 @@ Implement the message processing framework \(automated jobs scheduling\) by usin
 
 **Parent Topic:**[System Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-events/system-events-landing.md)
 
-## Related
-
-- [[events|System Events]]
-- [[clone-configurations-tab|Configurations]]
-- [[auto-job-scheduling|Implement automated job scheduling]]

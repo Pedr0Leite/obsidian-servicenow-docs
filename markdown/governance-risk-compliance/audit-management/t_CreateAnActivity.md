@@ -18,7 +18,7 @@ After defining a control, audit managers create activities that explore and prov
 
 ## Before you begin
 
-Role required: The roles required for [[c_GRCAudits|Audit Management]] are sn\_audit.admin and sn\_audit.manager.
+Role required: The roles required for Audit Management are sn\_audit.admin and sn\_audit.manager.
 
 Following are the roles required for Lite Audit:
 
@@ -195,6 +195,3 @@ Option to enable confidentiality of the record. Only the assigned confidential u
 
 **Parent Topic:**[Manage engagements](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_Engagements.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

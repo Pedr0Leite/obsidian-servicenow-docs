@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hardware Asset Management, IT Asset Management]
 
 # Quick start tests for Hardware Asset Management
 
-Validate that [[ham-landing-page|Hardware Asset Management]] \(HAM\) still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
+Validate that Hardware Asset Management \(HAM\) still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Hardware Asset Management quick start tests are available when you install the Hardware Asset Management \(HAM\) application from the ServiceNow Store.
 
@@ -182,6 +182,3 @@ Tokyo
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]

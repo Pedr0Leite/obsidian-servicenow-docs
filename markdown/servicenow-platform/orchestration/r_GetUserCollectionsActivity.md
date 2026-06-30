@@ -16,9 +16,9 @@ breadcrumb: [SCCM activity pack, Orchestration activity packs, Classic Orchestra
 
 The Get User Collections activity returns the list of available user collections on a Microsoft System Center Configuration Manager \(SCCM\) server.
 
-The Get User Collections activity uses the [Powershell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to access the user collections on the SCCM server. The activity is configured to use a [[mid-server-landing|MID Server]] with Powershell capabilities and to run a MID Server script called GetUserCollections.ps1 that returns the user collections on the host. This script filters the results of the GET, so that only specific attributes are returned for the user collections on the SCCM server. Filtering the results in this manner controls the size of the payload, while providing the most desirable user collection data. The list of available collections is returned as an array in a JSON object.
+The Get User Collections activity uses the [Powershell activity template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAPowershellActivity.md) to access the user collections on the SCCM server. The activity is configured to use a MID Server with Powershell capabilities and to run a MID Server script called GetUserCollections.ps1 that returns the user collections on the host. This script filters the results of the GET, so that only specific attributes are returned for the user collections on the SCCM server. Filtering the results in this manner controls the size of the payload, while providing the most desirable user collection data. The list of available collections is returned as an array in a JSON object.
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **System Center Configuration Manager \(SCCM\)**.
 
 **Note:** The Get User Collections activity does not use pre-processing scripts.
 
@@ -69,7 +69,3 @@ Variable that contains the activity output error message.
 
 **Parent Topic:**[SCCM activity pack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_SCCMActivityPack.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[workflow-editor|Workflow editor]]

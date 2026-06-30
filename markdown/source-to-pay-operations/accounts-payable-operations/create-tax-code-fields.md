@@ -15,7 +15,7 @@ breadcrumb: [Data required for invoice processing, Reference, Accounts Payable O
 
 # Tax code fields
 
-Field descriptions for the Tax code form used to create and review tax codes applied to [[invoices|invoices]].
+Field descriptions for the Tax code form used to create and review tax codes applied to invoices.
 
 ## Tax code fields
 
@@ -24,7 +24,7 @@ The following table displays the fields in the tax code form.
 |Field|Description|
 |-----|-----------|
 |Invoice Case|
-|Tax code ID|A unique tax code generated from the [[erp-source|ERP source]].|
+|Tax code ID|A unique tax code generated from the ERP source.|
 |Name|Name of the tax code specified by the user.|
 |Description|The details of the tax code used in transactions or financial activities.|
 |Country|The name of the country for which the tax code is applied to.|
@@ -34,7 +34,3 @@ The following table displays the fields in the tax code form.
 
 **Parent Topic:**[Data required for invoice processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/master-data-table-apo.md)
 
-## Related
-
-- [[invoices|Invoices]]
-- [[erp-source|ERP source]]

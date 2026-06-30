@@ -12,7 +12,7 @@ breadcrumb: [SGC Central, Service Graph Connector for ServiceNow Operational Tec
 
 # Configure and test connections
 
-The [[sgc-central-for-ot-discovery|SGC Central]] playbook launches when you start to configure and test connection.
+The SGC Central playbook launches when you start to configure and test connection.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 1.  From **Setup** section, select **Configure and test connections**.
 
-    After you select the **Create connection** button, a guided playbook experience launches automatically. The playbook walks you through each required configuration step for the [[operational-technology-discovery-landing|Operational Technology Discovery]] connector.
+    After you select the **Create connection** button, a guided playbook experience launches automatically. The playbook walks you through each required configuration step for the Operational Technology Discovery connector.
 
 2.  Select the **Create connection** button.
 
@@ -96,7 +96,4 @@ This is optional. Check this box to use a MID Server for the connection.
 
 8.  Select **Continue** to move to the next step.
 
-## Related
 
-- [[sgc-central-for-ot-discovery|SGC Central]]
-- [[operational-technology-discovery-landing|Operational Technology Discovery]]

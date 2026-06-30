@@ -32,7 +32,7 @@ This video shows you how to perform the following procedure.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
 2.  Select the email account.
 
@@ -197,7 +197,7 @@ Field the duration is relative to. Displays if a relative duration or operation 
     Secure information for the keys will be stored on the Module Keys tab along with the private key and public key. The **Key lifecycle state** is set to **Active**.
 
 
-**Parent Topic:**[[smime-for-email-signing-and-encryption|Setting up S/MIME for email]]
+**Parent Topic:**[Setting up S/MIME for email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/smime-for-email-signing-and-encryption.md)
 
 **Related topics**  
 
@@ -208,8 +208,3 @@ Field the duration is relative to. Displays if a relative duration or operation 
 
 [Enable S/MIME]()
 
-## Related
-
-- [[smime-for-email-signing-and-encryption|Setting up S/MIME for email]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]

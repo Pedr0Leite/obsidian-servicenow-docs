@@ -12,7 +12,7 @@ breadcrumb: [Fulfill In-store operations cases and tasks in Retail Mobile, Manag
 
 # View your assigned In-store operations cases and tasks in Retail Mobile
 
-Review all of your assigned In-store operations cases and tasks within [[rahi-retail-operations-overview|Retail]] Mobile.
+Review all of your assigned In-store operations cases and tasks within Retail Mobile.
 
 ## Before you begin
 
@@ -29,9 +29,5 @@ Role required: sn\_rtl\_instore\_ops.manager or sn\_rtl\_instore\_ops.associate
 3.  Select a case or task to review its details and take action as needed.
 
 
-**Parent Topic:**[[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
+**Parent Topic:**[Fulfill In-store operations cases and tasks in Retail Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-fulfill-in-store-ops-mobile.md)
 
-## Related
-
-- [[rahi-retail-fulfill-in-store-ops-mobile|Fulfill In-store operations cases and tasks in Retail Mobile]]
-- [[rahi-retail-operations-overview|Retail]]

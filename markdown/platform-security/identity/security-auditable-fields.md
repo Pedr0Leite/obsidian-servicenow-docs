@@ -18,7 +18,7 @@ Displays table and field level details that will be audited in the ServiceNow® 
 
 Security Auditable Fields displays the details of tables and fields that will be audited in the ServiceNow instance.
 
-To access the Security Auditable Fields page, navigate to **All** &gt; **System Security** &gt; **[[identity-audit|Identity and Access Audit]]** &gt; **Configure Tables &amp; Fields**. The Security Auditable Fields page is displayed with the following information.
+To access the Security Auditable Fields page, navigate to **All** &gt; **System Security** &gt; **Identity and Access Audit** &gt; **Configure Tables &amp; Fields**. The Security Auditable Fields page is displayed with the following information.
 
 |Column Name|Description|
 |-----------|-----------|
@@ -28,7 +28,7 @@ To access the Security Auditable Fields page, navigate to **All** &gt; **System 
 |Create|Whether changes related to the Create operation will be audited.|
 |Update|Whether changes related to the Update operation will be audited.|
 |Delete|Whether changes related to the Delete operation will be audited.|
-|Active|Audits only if the [[sc-configuration|configuration]] for the table is active.|
+|Active|Audits only if the configuration for the table is active.|
 
 \[Omitted image "security-auditable-fields.png"\] Alt text: Security Auditable Fields
 
@@ -36,7 +36,7 @@ The following tables can be audited using the Identity and Access Audit​:
 
 -   Group \[sys\_user\_group\]​
 -   Role \[sys\_user\_role\]​
--   [[sc-access-control|Access Control]] \[sys\_security\_acl\]​
+-   Access Control \[sys\_security\_acl\]​
 -   User \[sys\_user\]​
 -   Group Role \[sys\_group\_has\_role\]​
 -   User Role \[sys\_user\_has\_role\]​
@@ -44,8 +44,3 @@ The following tables can be audited using the Identity and Access Audit​:
 -   Contained Role \[sys\_user\_role\_contains\]​
 -   Group Member \[sys\_user\_grmember\]​
 
-## Related
-
-- [[identity-audit|Identity and Access Audit]]
-- [[sc-configuration|Configuration]]
-- [[sc-access-control|Access control]]

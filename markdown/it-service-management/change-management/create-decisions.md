@@ -14,17 +14,17 @@ breadcrumb: [Create change approval policies, Creating change approval policies,
 
 # Create Decision records
 
-Decision records contain the conditions that you can use to determine the change approval action. Create decisions using condition builder when [[using-change-approval-policies-cf|creating change approval policies]].
+Decision records contain the conditions that you can use to determine the change approval action. Create decisions using condition builder when creating change approval policies.
 
 ## Before you begin
 
 Role required: admin or change manager
 
-You can create decisions to evaluate conditions that [[reference-for-itsm-mobile-agent|reference]] policy inputs and apply the associated approval definition. To create a decision, perform the following steps:
+You can create decisions to evaluate conditions that reference policy inputs and apply the associated approval definition. To create a decision, perform the following steps:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Change** &gt; **Change Policy** &gt; **[[change-approval-policy|Change Approval Policies]]**.
+1.  Navigate to **All** &gt; **Change** &gt; **Change Policy** &gt; **Change Approval Policies**.
 
 2.  Create a change approval policy or open an existing policy.
 
@@ -51,8 +51,3 @@ You can create decisions to evaluate conditions that [[reference-for-itsm-mobile
 
 **Parent Topic:**[Create change approval policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/create-change-policy.md)
 
-## Related
-
-- [[using-change-approval-policies-cf|Creating change approval policies]]
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[change-approval-policy|Change approval policies]]

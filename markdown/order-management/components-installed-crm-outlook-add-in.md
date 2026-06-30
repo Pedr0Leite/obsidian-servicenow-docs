@@ -12,7 +12,7 @@ breadcrumb: [Activity Management reference, Lead and opportunity management, Ref
 
 # Components installed with the CRM Outlook Add-in
 
-User roles are installed with activation of the [[explore-crm-outlook-add-in|CRM Outlook Add-in]] plugin.
+User roles are installed with activation of the CRM Outlook Add-in plugin.
 
 ## Roles installed
 
@@ -61,9 +61,5 @@ Associates emails to existing or new CRM entities using the ServiceNow CRM for O
 -   sn\_nb\_action.next\_best\_action\_user
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[activity-management-reference|Activity Management reference]]
+</table>**Parent Topic:**[Activity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/activity-management-reference.md)
 
-## Related
-
-- [[activity-management-reference|Activity Management reference]]
-- [[explore-crm-outlook-add-in|CRM Outlook Add-in]]

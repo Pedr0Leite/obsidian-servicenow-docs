@@ -14,7 +14,7 @@ breadcrumb: [Storage discovery, Data collected by ITOM Visibility, ITOM Visibili
 
 # Data collected for Veritas Volume Manager on Linux
 
-[[r-discovery|Discovery]] collects disk and volume information for Veritas Volume Manager \(VxVM\) on Linux hosts and maps file systems mounted on Veritas volumes to the upstream storage provider.
+Discovery collects disk and volume information for Veritas Volume Manager \(VxVM\) on Linux hosts and maps file systems mounted on Veritas volumes to the upstream storage provider.
 
 **Note:** Ensure that VxVM is correctly installed and configured. If you are using 3rd party drivers, you must configure sudo permission for `vxdmpadm`.
 
@@ -125,6 +125,3 @@ VxVM Discovery maps file systems to the disks that supply storage. By default th
 
 **Parent Topic:**[Storage discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Storage.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

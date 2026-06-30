@@ -14,7 +14,7 @@ breadcrumb: [Install Sourcing and Procurement Operations, Configure, Sourcing an
 
 # Properties installed with Finance Common Architecture
 
-Use these properties to configure various settings in the [[psm-overview|Sourcing and Procurement Operations]] application.
+Use these properties to configure various settings in the Sourcing and Procurement Operations application.
 
 For more information on how to configure these properties, see [Configure properties in Finance Common Architecture](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/configure-finance-common-properties.md).
 
@@ -29,6 +29,3 @@ Configure properties for various settings used in Sourcing and Procurement Opera
 
 **Parent Topic:**[Install Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/activate-finance-spend-central.md)
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]

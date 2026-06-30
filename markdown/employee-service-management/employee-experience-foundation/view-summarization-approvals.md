@@ -25,13 +25,13 @@ Role required:approver\_user, sn\_request\_read, sn\_write
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **My tasks**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **My tasks**.
 
 2.  Select the request from the available list that you want to work on.
 
     The details are displayed in the card with the summary
 
-3.  See [[now-assisit-employee-exp|Now Assist for Employee Experience]] generated summaries.
+3.  See Now Assist for Employee Experience generated summaries.
 
     -   Click the **Summarize** button when the trigger is manual.
 
@@ -67,7 +67,3 @@ Proceed to [Manage approvals with Now Assist Approval Assistance AI agent](https
 
 [Activate Now Assist for Employee Experience skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/activate-now-assist-skills-uex.md)
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[now-assisit-employee-exp|Now Assist for Employee Experience]]

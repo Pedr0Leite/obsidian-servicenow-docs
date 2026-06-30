@@ -14,7 +14,7 @@ breadcrumb: [Use, Customer Lifecycle Operations, Common applications, Financial 
 
 # Customer Lifecycle Operations workflows
 
-[[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]] \(CLO\) installs automated workflows for reviewing and approving customer account applications. These workflows create cases and route tasks to different agents, including KYC, document, tax, and credit agents.
+Financial Services Customer Lifecycle Operations \(CLO\) installs automated workflows for reviewing and approving customer account applications. These workflows create cases and route tasks to different agents, including KYC, document, tax, and credit agents.
 
 ## Workflows available with this application
 
@@ -77,6 +77,3 @@ When a customer requires a service, a CLO contributor initiates a case and updat
 
 **Note:** Depending on the CLO service type, a workflow might have additional or fewer tasks.
 
-## Related
-
-- [[customer-lifecycle-ops-landing-page|Financial Services Customer Lifecycle Operations]]

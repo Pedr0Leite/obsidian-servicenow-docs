@@ -14,14 +14,10 @@ breadcrumb: [Conversation Insights, Enable AI experiences]
 
 # Conversation Insights reference
 
-The following topics provide additional information about the features and properties installed with [[conversation-insights|Conversation Insights]].
+The following topics provide additional information about the features and properties installed with Conversation Insights.
 
 -   **[Components installed with Conversation Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/conversational-intelligence/components-installed-with-conversation-insights.md)**  
 Installation of the Conversation Insights application also installs the Conversation Insights \[sn\_aci\_insights\] table.
 
-**Parent Topic:**[[ai-products|Enable AI experiences]]
+**Parent Topic:**[Enable AI experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-products.md)
 
-## Related
-
-- [[ai-products|Enable AI experiences]]
-- [[conversation-insights|Conversation Insights]]

@@ -22,7 +22,7 @@ Role required: admin.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Suites**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Suites**.
 
     A list of suites displays.
 
@@ -43,7 +43,7 @@ Role required: admin.
     -   **Update Set**: Scans multiple update sets.
 6.  Select **Schedule Scan**.\[Omitted image "hc-schedule-suite-scan.png"\] Alt text: Image showing Schedule Suite Scan modal
 
-    **Note:** If a record is inactive, the checks don't generate any [[hs-findings|findings]] for that record.
+    **Note:** If a record is inactive, the checks don't generate any findings for that record.
 
     The **Scheduled Scan** form displays.
 
@@ -168,7 +168,3 @@ Timezone used to run the scan.
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-findings|Findings]]

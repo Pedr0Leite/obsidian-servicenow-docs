@@ -14,7 +14,7 @@ breadcrumb: [Threat Analyst Workbench, Use, Threat Intelligence Security Center,
 
 # Creating cases using Threat Analyst Workbench
 
-Cases are used to track information about a [[campaign|campaign]] or [[threat-actor|threat actor]] threatening your organization. After a case is created, you can add artifacts that allow you to review and analyze all related information from a single case or case task.
+Cases are used to track information about a campaign or threat actor threatening your organization. After a case is created, you can add artifacts that allow you to review and analyze all related information from a single case or case task.
 
 ## Before you begin
 
@@ -22,9 +22,9 @@ Role required: sn\_sec\_tisc.analyst, sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
-2.  Click **[[threat-analyst-workbench|Threat Analyst Workbench]]** icon.
+2.  Click **Threat Analyst Workbench** icon.
 
 3.  Go to **Case Management** &gt; **All Cases**.
 
@@ -143,7 +143,7 @@ Watch list
 
 </td><td>
 
-When a user is added to the watchlist, the person will receive [[tisc-email-notifications|email notifications]] on changes to status and priority.
+When a user is added to the watchlist, the person will receive email notifications on changes to status and priority.
 
 </td></tr><tr><td>
 
@@ -165,7 +165,7 @@ Select this check box to modify members of allowed group and allowed members. Fo
 
 7.  Click **Save**.
 
-    After the record has been saved, you can click the **Import Intelligence** tab to import the [[threat-intel-landing-page|threat intelligence]] data using the **Import Intelligence** feature.
+    After the record has been saved, you can click the **Import Intelligence** tab to import the threat intelligence data using the **Import Intelligence** feature.
 
     **Note:** If you are importing and processing data from Case Management, then a unique is associated to the import record.
 
@@ -177,7 +177,7 @@ Use this feature to restrict a case and provide list of groups and users who can
 -   **[Associate MITRE Techniques to a Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-associate-mitre-technique.md)**  
 Associate one or more MITRE technique to a case.
 -   **[Roll up of MITRE technique associations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-roll-up.md)**  
-[[tisc-mitre-roll-up|Roll up of MITRE technique associations]] from [[c_Observables|observables]], [[indicator|indicators]], objects, and security incidents which are linked or unlinked from a case record.
+Roll up of MITRE technique associations from observables, indicators, objects, and security incidents which are linked or unlinked from a case record.
 
 **Parent Topic:**[Threat Analyst Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/threat-analyst-workbench.md)
 
@@ -202,14 +202,3 @@ Associate one or more MITRE technique to a case.
 
 [Using playbooks]()
 
-## Related
-
-- [[campaign|Campaign]]
-- [[threat-actor|Threat Actor]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[threat-analyst-workbench|Threat Analyst Workbench]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-mitre-roll-up|Roll up of MITRE technique associations]]
-- [[c_Observables|Observables]]
-- [[indicator|Indicators]]

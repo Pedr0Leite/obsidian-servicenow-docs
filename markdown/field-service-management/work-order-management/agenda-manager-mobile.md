@@ -22,7 +22,7 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
 ## Procedure
 
-1.  Open [[manager-mobile-app|Field Service Manager Mobile]].
+1.  Open Field Service Manager Mobile.
 
 2.  Select **Schedules**.
 
@@ -44,6 +44,4 @@ Role required: wm\_manager, sn\_fsm\_tp.fsm\_territory\_resource\_manager
 
     **Note:** By default only five agents show, to see all the agent’s with work today select **See all**.
 
-## Related
 
-- [[manager-mobile-app|Field Service Manager Mobile]]

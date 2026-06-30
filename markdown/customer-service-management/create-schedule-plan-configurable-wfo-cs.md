@@ -20,7 +20,7 @@ Role required: sn\_shift\_planning.admin
 
 ## About this task
 
-You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [[components-installed-configurable-wfo-cs|system property]]. The **Total coverage/demand** row displays the number of agents covering each shift in a day. The day view displays the demand for the number of agents forecast for every hour in a day. For example, 4/5 shows that you have four agents scheduled for an hourly time slot, 11 AM to 12 PM and the agent demand forecast for that hour is 5.
+You can set the number of days to cache agent schedules using the **sn\_shift\_planning.number\_of\_days\_to\_cache** [system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/components-installed-configurable-wfo-cs.md). The **Total coverage/demand** row displays the number of agents covering each shift in a day. The day view displays the demand for the number of agents forecast for every hour in a day. For example, 4/5 shows that you have four agents scheduled for an hourly time slot, 11 AM to 12 PM and the agent demand forecast for that hour is 5.
 
 ## Procedure
 
@@ -62,12 +62,7 @@ The schedule plan is created in Draft state.
 
 ## What to do next
 
-[[generate-preview-schedule-plan-configurable-wfo-cs|Publish a schedule plan for visibility into team coverage]].
+[Publish a schedule plan for visibility into team coverage](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/generate-preview-schedule-plan-configurable-wfo-cs.md).
 
-**Parent Topic:**[[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]
+**Parent Topic:**[Scheduling in Workforce Optimization for Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/scheduling-configurable-wfo-cs.md)
 
-## Related
-
-- [[components-installed-configurable-wfo-cs|Components installed with Workforce Optimization for Customer Service]]
-- [[generate-preview-schedule-plan-configurable-wfo-cs|Publish a schedule plan for visibility into team coverage]]
-- [[scheduling-configurable-wfo-cs|Scheduling in Workforce Optimization for Customer Service]]

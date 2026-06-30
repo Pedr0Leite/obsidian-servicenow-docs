@@ -14,17 +14,17 @@ breadcrumb: [Create a personal course collection, Using My Learning, Learning, G
 
 # Save courses to your personal collection
 
-Save courses of interest to your personal collection for easy access and to plan your [[exploring-learning-exp|learning]].
+Save courses of interest to your personal collection for easy access and to plan your learning.
 
 ## Before you begin
 
-[[create-personal-collection|Create a personal course collection]]. For more information, see [Create a personal course collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-personal-collection.md).
+Create a personal course collection. For more information, see [Create a personal course collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-personal-collection.md).
 
 Role required: user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[overview-lxp|My Learning]]**.
+1.  Navigate to **All** &gt; **Employee Center** &gt; **My Learning**.
 
 2.  Select the context menu icon \[Omitted image "context-menu-icon.png"\] Alt text: Icon with three parallel lines stacked one over the other. on any course displayed on the screen.
 
@@ -37,9 +37,3 @@ Role required: user
 
 **Parent Topic:**[Create a personal course collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-personal-collection.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[create-personal-collection|Create a personal course collection]]
-- [[employee-center-landing-page|Employee Center]]
-- [[overview-lxp|My Learning]]

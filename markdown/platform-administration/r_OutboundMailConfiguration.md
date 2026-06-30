@@ -77,7 +77,7 @@ Create visible watermark in sent mail. If false, create invisible watermark via 
 
 </td><td>
 
-Indicates whether the watermark in email [[notifications|notifications]] is visible \(true\) or wrapped in a hidden div tag \(false\).-   Type: true \| false
+Indicates whether the watermark in email notifications is visible \(true\) or wrapped in a hidden div tag \(false\).-   Type: true \| false
 -   Default value: false
 
 </td></tr><tr><td>
@@ -125,7 +125,7 @@ Enables \(true\) or disables \(false\) resending email when an unknown SMTP erro
 
 </td><td>
 
-Roles that can view email in the [[c_ActivityFormatter|Activity formatter]] when including "Sent/Received Emails"
+Roles that can view email in the Activity formatter when including "Sent/Received Emails"
 
 </td><td>
 
@@ -147,7 +147,7 @@ Specifies the number of entries from a journal field, such as Additional comment
 -   Learn More:Restrict the Number of Entries Sent in a Notification
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[c_EmailProperties|Email properties]]
+</table>**Parent Topic:**[Email properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailProperties.md)
 
 **Related topics**  
 
@@ -160,8 +160,3 @@ Specifies the number of entries from a journal field, such as Additional comment
 
 [Advanced email properties]()
 
-## Related
-
-- [[c_EmailProperties|Email properties]]
-- [[notifications|Notifications]]
-- [[c_ActivityFormatter|Activity formatter]]

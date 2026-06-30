@@ -14,7 +14,7 @@ breadcrumb: [Configure a reservable module, Configure, Workplace Reservation Man
 
 # Generate and print a QR code for a reservable module
 
-Generate and print a QR code for an entire reservable module. Place the QR codes at reservable workplace locations so that employees can scan the code, [[reservation-portal|make a reservation]], or perform reservation-related actions.
+Generate and print a QR code for an entire reservable module. Place the QR codes at reservable workplace locations so that employees can scan the code, make a reservation, or perform reservation-related actions.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ Generate and print QR code for a reservable module such as Desks, Meeting rooms,
 
         You can generate QR code using any of the following navigation paths:
 
-        -   Navigate to **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **[[qr-code-mgmt|QR code management]]** &gt; **Create QR codes**.
+        -   Navigate to **Workplace Core** &gt; **QR code management** &gt; **Create QR codes**.
         -   Navigate to **Workplace Core** &gt; **Space Administration** &gt; **Rooms**. Select a room and click **Create QR code**.
         -   Navigate to **Workplace Core** &gt; **Space Administration** &gt; **Spaces**. Select a space and click **Create QR code**.
 2.  On the form, fill in the fields.
@@ -111,15 +111,9 @@ Filter conditions based on which the QR code must be generated.-   To add a cond
 
 The QR codes are generated. The QR codes are printed in a single PDF file with the specified file name. You will receive an email notification after the QR code generation is completed with the QR code details.
 
-After the QR code generation is completed, go to **[[manage-qr-codes|Manage QR codes]]** to view the generated file. For more information, refer to [Manage QR codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/manage-qr-codes.md).
+After the QR code generation is completed, go to **Manage QR codes** to view the generated file. For more information, refer to [Manage QR codes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/manage-qr-codes.md).
 
 Click **download** to download the PDF file.
 
 **Parent Topic:**[Configure a reservable module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/config-reservable-module.md)
 
-## Related
-
-- [[reservation-portal|Make a reservation]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[qr-code-mgmt|QR code management]]
-- [[manage-qr-codes|Manage QR codes]]

@@ -15,15 +15,15 @@ breadcrumb: [Explore, Now Assist in Document Intelligence, Enable AI experiences
 
 # Supporting information for Now Assist in Document Intelligence
 
-Get a quick overview of the important information that is related to the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application.
+Get a quick overview of the important information that is related to the Now Assist in Document Intelligence application.
 
 ## Supported versions
 
 Now Assist in Document Intelligence is supported starting with Yokohama \(Patch 1\).
 
--   [[platform-now-assist-landing|Now Assist]] Admin Console v5.0
+-   Now Assist Admin Console v5.0
 -   Now Assist for Platform 7.0
--   [[document-intelligence-landing|Document Intelligence]] v6.0
+-   Document Intelligence v6.0
 -   Now Assist in Document Intelligence v2.0
 
 ## Supported user interfaces
@@ -50,8 +50,3 @@ This store app has the following dependencies:
 
 For more information, see [Configuring Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-configuring-now-assist.md).
 
-## Related
-
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]

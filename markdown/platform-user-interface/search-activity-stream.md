@@ -22,7 +22,7 @@ Role required: workspace\_user
 
 1.  Open a record in your instance.
 
-2.  From the [[activity-stream-configurable-workspace|Activity stream]], select the search icon \(\[Omitted image "IconSearch.png"\] Alt text: Icon search.\).
+2.  From the Activity stream, select the search icon \(\[Omitted image "IconSearch.png"\] Alt text: Icon search.\).
 
 3.  In the **Search Activity Stream** field, enter keywords to find results.
 
@@ -31,9 +31,5 @@ Role required: workspace\_user
     **Note:**
 
     -   Work notes, comments and emails will highlight matching keywords.
-    -   [[attachments-configurable-workspace|Attachments]] will not highlight matching keywords, but the attachments will display in the Activity stream.
+    -   Attachments will not highlight matching keywords, but the attachments will display in the Activity stream.
 
-## Related
-
-- [[activity-stream-configurable-workspace|Activity stream]]
-- [[attachments-configurable-workspace|Attachments]]

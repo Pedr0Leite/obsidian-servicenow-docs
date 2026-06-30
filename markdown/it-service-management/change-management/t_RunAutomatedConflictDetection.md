@@ -14,7 +14,7 @@ breadcrumb: [Conflict detection, Configure, Change Management, IT Service Manage
 
 # Enable automatic change conflict detection
 
-Automate [[c_ConflictDetection|conflict detection]] to run at specific intervals or when a change request is updated to immediately review the conflicts when the schedule dates are updated.
+Automate conflict detection to run at specific intervals or when a change request is updated to immediately review the conflicts when the schedule dates are updated.
 
 ## Before you begin
 
@@ -86,6 +86,3 @@ When selected, runs the following conflict detection scheduled jobs at these int
 
 [Detect conflicts manually and review conflict details]()
 
-## Related
-
-- [[c_ConflictDetection|Conflict detection]]

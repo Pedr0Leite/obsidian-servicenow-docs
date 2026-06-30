@@ -14,7 +14,7 @@ breadcrumb: [Configuring MID Servers, Configuring MID Server, MID Server, Manage
 
 # MID Server domain separation
 
-Use the [[mid-server-landing|MID Server]] user role to configure MID Servers to access separate domains. The credentials in the `config.xml` file of a MID Server determine which domains it can access. Specific MID Server policy records can be restricted for use only by MID Server from the same domain.
+Use the MID Server user role to configure MID Servers to access separate domains. The credentials in the `config.xml` file of a MID Server determine which domains it can access. Specific MID Server policy records can be restricted for use only by MID Server from the same domain.
 
 <table id="table_qxn_nt4_nhb"><tbody><tr><td>
 
@@ -35,7 +35,7 @@ You can create versions of these specific MID Server policy records that only a 
 
 ## Set up domain separation for MID servers
 
-Set up [[domain-separation-relationship-formatter-editor|domain separation]] through the MID server user role and the MID Server configuration file.
+Set up domain separation through the MID server user role and the MID Server configuration file.
 
 ### Before you begin
 
@@ -97,7 +97,4 @@ Role required: admin
 
     **Warning:** If you reset the **glide.ecc.enable\_multidomain\_mid** property to **false** after creating a multi-domain MID Server in the global domain, that MID Server writes all the data it receives to the global domain and not to the correct domains.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[domain-separation-relationship-formatter-editor|Domain separation]]

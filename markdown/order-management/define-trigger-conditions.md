@@ -18,11 +18,11 @@ Define trigger conditions that start a sequence by configuring simple triggers, 
 
 **Note:** Multi-trigger capability is available only with Playbooks versions 28.1 and higher on the Zurich release. For more information, see [Playbook release notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/process-automation-designer-rn.md).
 
-Assign delegated developer roles to designated users. For more information, see [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]].
+Assign delegated developer roles to designated users. For more information, see [Grant delegated developer permissions for managing sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/grant-delegated-developer-permissions.md).
 
 Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
-**Note:** If you're [[using-customer-engagement-sequences|using Customer Engagement Sequences]] 1.0.0, then you need the playbook.admin or pd\_author role to create sequences.
+**Note:** If you're using Customer Engagement Sequences 1.0.0, then you need the playbook.admin or pd\_author role to create sequences.
 
 ## Procedure
 
@@ -62,7 +62,7 @@ Role required: sn\_crm\_sequence.admin, sn\_crm\_sequence.writer
 
 The triggers that you've created appear under the Record based triggers section on the Triggers pane.
 
-**Parent Topic:**[[create-customer-engagement-sequence|Create a customer engagement sequence]]
+**Parent Topic:**[Create a customer engagement sequence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-customer-engagement-sequence.md)
 
 **Related topics**  
 
@@ -71,8 +71,3 @@ The triggers that you've created appear under the Record based triggers section 
 
 [Add and configure a trigger in a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/add-configure-trigger.md)
 
-## Related
-
-- [[grant-delegated-developer-permissions|Grant delegated developer permissions for managing sequences]]
-- [[create-customer-engagement-sequence|Create a customer engagement sequence]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]

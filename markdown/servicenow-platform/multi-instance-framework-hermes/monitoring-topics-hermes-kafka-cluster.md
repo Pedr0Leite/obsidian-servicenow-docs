@@ -14,7 +14,7 @@ breadcrumb: [Manage namespaces and topics, Hermes Messaging Service, Manage serv
 
 # Monitoring topics in the Hermes Kafka cluster
 
-Monitor message processing and view topics in the Hermes Kafka cluster that belong to you using the [[hermes-messaging-service|Hermes Messaging Service]] topic inspector.
+Monitor message processing and view topics in the Hermes Kafka cluster that belong to you using the Hermes Messaging Service topic inspector.
 
 ## Topics partitions
 
@@ -55,6 +55,3 @@ View the payload of a message in a Hermes topic using the Hermes Messaging Servi
 
 [Managing topics in Hermes]()
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

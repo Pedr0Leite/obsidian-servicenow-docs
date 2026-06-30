@@ -14,7 +14,7 @@ breadcrumb: [Reference, Applicant Center, Hiring Experiences, HR Service Deliver
 
 # Components installed with Applicant Center
 
-The following are the components installed with activation of the [[applicant-center-concept|Applicant Center]] plugin.
+The following are the components installed with activation of the Applicant Center plugin.
 
 ## Scheduled jobs installed
 
@@ -36,7 +36,3 @@ Notifies the applicants when they have unfinished, assigned tasks that are appro
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[applicant-center-concept|Applicant Center]]

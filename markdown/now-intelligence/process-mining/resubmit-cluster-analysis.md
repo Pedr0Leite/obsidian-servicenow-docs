@@ -14,7 +14,7 @@ breadcrumb: [Cluster analysis, Analyzing and getting process insights, Use, Proc
 
 # Resubmit a cluster analysis request
 
-In cases when a configuration issue or clustering solution change occurs, you can schedule a followup [[cluster-analysis|cluster analysis]].
+In cases when a configuration issue or clustering solution change occurs, you can schedule a followup cluster analysis.
 
 ## Before you begin
 
@@ -37,6 +37,3 @@ Role required: sn\_process\_mining\_analyst, sn\_process\_mining\_power\_user, o
 
 **Parent Topic:**[Cluster analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/cluster-analysis.md)
 
-## Related
-
-- [[cluster-analysis|Cluster analysis]]

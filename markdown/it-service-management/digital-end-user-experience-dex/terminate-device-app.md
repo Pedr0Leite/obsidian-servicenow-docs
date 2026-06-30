@@ -24,7 +24,7 @@ Role required: sn\_dex.engineer or sn\_dex.admin
 
 1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  In the primary navigation pane, select the [[dex-workspace-devices-tab|Devices]] icon \(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\).
+2.  In the primary navigation pane, select the Devices icon \(\[Omitted image "icon-devices.png"\] Alt text: Devices icon\).
 
 3.  Select the device for which you want to terminate a process.
 
@@ -53,6 +53,3 @@ In the contextual side panel, select the Playbook icon \(\[Omitted image "icon-p
 
 **Parent Topic:**[DEX remedial actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-remedial-actions.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

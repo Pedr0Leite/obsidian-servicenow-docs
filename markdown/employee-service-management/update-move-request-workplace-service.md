@@ -12,20 +12,20 @@ breadcrumb: [Manage, Workplace Move Management, Workplace Service Delivery, Empl
 
 # Update a move request workplace service
 
-As a workplace manager, modify a move request that is created in the [[workplace-case-mgmt-feat|Workplace Case Management]] application. You can add move tasks, edit a task template, add child move cases, and more.
+As a workplace manager, modify a move request that is created in the Workplace Case Management application. You can add move tasks, edit a task template, add child move cases, and more.
 
 ## Before you begin
 
 Ensure that you have the following applications installed:
 
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Core
 -   Workplace Case Management.
 
 Role required: sn\_wsd\_case.manager or workplace manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **[[workplace-services|Workplace services]]**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Case Management - Setup** &gt; **Workplace services**.
 
 2.  Select any of the following move-related workplace services that you want to edit:
 
@@ -35,7 +35,7 @@ Role required: sn\_wsd\_case.manager or workplace manager
 
     For more information about each field on the form, see [Create a Workplace service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service.md).
 
-4.  To edit a workplace service [[activity-lxp|activity]], go to the Workplace Service Activity related list and select the workplace service activity that you want to edit.
+4.  To edit a workplace service activity, go to the Workplace Service Activity related list and select the workplace service activity that you want to edit.
 
     For more information about each field on the form, see [Create a Workplace service activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-workplace-service-activity.md).
 
@@ -46,7 +46,7 @@ Role required: sn\_wsd\_case.manager or workplace manager
 
 The workplace service is updated.
 
-**Parent Topic:**[[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
+**Parent Topic:**[Managing Workplace Move Management requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-mov-mgmt-setup.md)
 
 **Related topics**  
 
@@ -61,10 +61,3 @@ The workplace service is updated.
 
 [Review move conflicts]()
 
-## Related
-
-- [[workplace-mov-mgmt-setup|Managing Workplace Move Management requests]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-services|Workplace Services]]
-- [[activity-lxp|Activity]]

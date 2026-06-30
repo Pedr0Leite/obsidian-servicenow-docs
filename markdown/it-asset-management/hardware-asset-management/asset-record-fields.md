@@ -67,7 +67,7 @@ Quantity
 The number of items this asset represents. An asset has a quantity of one unless one or more of these points are true.-   If the asset is a consumable, the quantity is unrestricted because consumables are tracked in groups.
 -   If the asset is pre-allocated, the quantity is unrestricted when the **Model category** and **Model** values are defined and **Substate** is set to **Pre-allocated**.
 
-**Note:** When the **Quantity** field value is greater than one, the asset is managed as a group and do not require individual asset tags and serial numbers. This applies to [[pre-allocated-asset|pre-allocated assets]] and consumables where individual tracking is not required.
+**Note:** When the **Quantity** field value is greater than one, the asset is managed as a group and do not require individual asset tags and serial numbers. This applies to pre-allocated assets and consumables where individual tracking is not required.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
@@ -111,7 +111,7 @@ Aisle and space
 
 </td><td>
 
-Aisle and space details of the asset within the stockroom. This field appears only when the state of the asset is **In stock** or **Build**.**Note:** This field would appear only when the [[ham-landing-page|Hardware Asset Management]] Professional plugin \(com.sn\_hamp\) is installed.
+Aisle and space details of the asset within the stockroom. This field appears only when the state of the asset is **In stock** or **Build**.**Note:** This field would appear only when the Hardware Asset Management Professional plugin \(com.sn\_hamp\) is installed.
 
 </td></tr><tr><td>
 
@@ -235,7 +235,7 @@ The date on which the asset was installed.
 
 </td></tr><tr><td class="sub-head" colspan="2">
 
-Location HierarchyThe Location Hierarchy section is available only for hardware, consumables,bundles, and [[pallet-assets|pallet assets]]. This section appears only under the following conditions:
+Location HierarchyThe Location Hierarchy section is available only for hardware, consumables,bundles, and pallet assets. This section appears only under the following conditions:
 
 -   When the ** sn\_itam\_common.sn\_enable\_indoormap\_for\_assets** system parameter is set to **true** on your ServiceNow instance
 -   When you select any location except the campus
@@ -298,7 +298,7 @@ Vendor
 
 </td><td>
 
-Vendor from which the asset was purchased. The assets that are automatically created from purchase orders in [[c_Procurement|Procurement]], the default value of the **Vendor** field is the vendor specified on the purchase order.
+Vendor from which the asset was purchased. The assets that are automatically created from purchase orders in Procurement, the default value of the **Vendor** field is the vendor specified on the purchase order.
 
 </td></tr><tr><td>
 
@@ -365,7 +365,7 @@ TCO benchmark cost
 
 </td><td>
 
-Predefined benchmark cost of the asset model.**Note:** This field is referenced from the [[hardware-model-fields|Hardware model details]] form. For more information, see [Hardware model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-model-fields.md).
+Predefined benchmark cost of the asset model.**Note:** This field is referenced from the Hardware model details form. For more information, see [Hardware model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/hardware-model-fields.md).
 
 </td></tr><tr><td>
 
@@ -658,7 +658,7 @@ Attestation number
 
 </td><td>
 
-Unique identifier of the [[asset-attestation-ham|asset attestation]] request.
+Unique identifier of the asset attestation request.
 
 </td></tr><tr><td>
 
@@ -869,7 +869,7 @@ Select to calculate the depreciation amount and residual value.
 
 </td></tr><tr><td>
 
-[[t_DeletingAssets|Delete Assets]] Only
+Delete Assets Only
 
 </td><td>
 
@@ -901,18 +901,8 @@ RMA
 
 </td><td>
 
-[[return-merchandise-authorization|Return Merchandise Authorization]] associated with the asset.
+Return Merchandise Authorization associated with the asset.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Hardware Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/reference-hardware-asset-management.md)
 
-## Related
-
-- [[pre-allocated-asset|Pre-allocated assets]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[pallet-assets|Pallet assets]]
-- [[c_Procurement|Procurement]]
-- [[hardware-model-fields|Hardware model details]]
-- [[asset-attestation-ham|Asset Attestation]]
-- [[t_DeletingAssets|Delete assets]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

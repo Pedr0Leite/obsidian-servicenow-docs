@@ -14,11 +14,11 @@ breadcrumb: [Catalog browse component, Configure web components, Web Embeddables
 
 # Embed the Catalog browse component on the third-party website
 
-Embed the global code and component code of the [[we-catalog-browse-comp|Catalog browse component]] that you configured in your instance so that you can enable your customers to start using the component on your third-party website.
+Embed the global code and component code of the Catalog browse component that you configured in your instance so that you can enable your customers to start using the component on your third-party website.
 
 ## Before you begin
 
-You must [[we-config-catalog-browse-comp|configure the Catalog browse component instance]]. For information, see [Configure the Catalog browse component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-config-catalog-browse-comp.md).
+You must configure the Catalog browse component instance. For information, see [Configure the Catalog browse component instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-config-catalog-browse-comp.md).
 
 Role required: None
 
@@ -37,7 +37,3 @@ Role required: None
 
 The Catalog browse component instance appears on your third-party website.
 
-## Related
-
-- [[we-catalog-browse-comp|Catalog browse component]]
-- [[we-config-catalog-browse-comp|Configure the Catalog browse component instance]]

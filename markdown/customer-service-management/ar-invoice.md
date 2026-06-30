@@ -16,7 +16,7 @@ The AR invoice \(sn\_otc\_invoice\) table stores the invoice data.
 
 ## Accounts Receivable invoice table
 
-The following table [[migration-lists|lists]] the fields for AR invoice \[sn\_otc\_invoice\] table.
+The following table lists the fields for AR invoice \[sn\_otc\_invoice\] table.
 
 |Field|Data type|Description|
 |-----|---------|-----------|
@@ -96,6 +96,3 @@ The following table [[migration-lists|lists]] the fields for AR invoice \[sn\_ot
 |Tax Rate String|String|Tax rate % applied on the invoice - Tax rate in string if tax code and decimal is not used|
 |Type|String|The type of invoice debit or credit.|
 
-## Related
-
-- [[migration-lists|Lists]]

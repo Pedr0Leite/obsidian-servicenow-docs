@@ -24,7 +24,7 @@ The clone must be completed. For more information on cloning, see [Instance Clon
 
 ## About this task
 
-After you clone your [[tmt-service-bridge-both-landing-page|Service Exchange]], the inbound and outbound [[se-connections-tab|connections]] move to an error or down state. You must reestablish the connection between provider and consumer target instances to promote proper functionality.
+After you clone your Service Exchange, the inbound and outbound connections move to an error or down state. You must reestablish the connection between provider and consumer target instances to promote proper functionality.
 
 ## Procedure
 
@@ -51,19 +51,12 @@ After you clone your [[tmt-service-bridge-both-landing-page|Service Exchange]], 
 
 The state of the Outbound and the Inbound fields changes to **Active**.
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
 **Related topics**  
 
 
-[[service-bridge-v2-cloning-instances-con|Reestablish connection after a clone for a consumer]]
+[Reestablish connection after a clone for a consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning-instances-con.md)
 
-[[service-bridge-v2-cloning|List of preservers and exclusions tables for cloning]]
+[List of preservers and exclusions tables for cloning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-cloning.md)
 
-## Related
-
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[service-bridge-v2-cloning-instances-con|Reestablish connection after a clone for a consumer]]
-- [[service-bridge-v2-cloning|List of preservers and exclusions tables for cloning]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]
-- [[se-connections-tab|Connections]]

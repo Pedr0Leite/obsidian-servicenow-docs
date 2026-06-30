@@ -18,7 +18,7 @@ Select a metric category from the choice list to display the chart.
 
 \[Omitted image "ScorecardCategoryMetrics.png"\] Alt text:
 
-**Parent Topic:**[[t_ViewAnAssessmentScorecard|View an assessment scorecard]]
+**Parent Topic:**[View an assessment scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAnAssessmentScorecard.md)
 
 **Related topics**  
 
@@ -37,6 +37,3 @@ Select a metric category from the choice list to display the chart.
 
 [Assessment scorecard ratings]()
 
-## Related
-
-- [[t_ViewAnAssessmentScorecard|View an assessment scorecard]]

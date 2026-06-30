@@ -26,8 +26,8 @@ Learn about different ways to view tasks in the Scheduled state​.
     -   Contractor tasks won’t be in the Scheduled state.
     -   When an agent time-off event is created and overlaps with the work order task, the task is moved to Pending dispatch. Similarly, for crew tasks, when the leader has a time-off event overlapping with the task time, the task is moved to Pending dispatch.​
     -   If all child work order tasks of the work order are in the Scheduled state, the work order is moved to Scheduled automatically.
-    -   When [[dynamic-scheduling|dynamic scheduling]] is enabled, auto-assign isn’t available for scheduled tasks. Scheduled tasks are considered for reassignment or unassignment​.
-    -   Scheduled tasks appear as blocked time when [[fsm-task-recommendation|intelligent task recommendation]] considers technician availability.​
+    -   When dynamic scheduling is enabled, auto-assign isn’t available for scheduled tasks. Scheduled tasks are considered for reassignment or unassignment​.
+    -   Scheduled tasks appear as blocked time when intelligent task recommendation considers technician availability.​
 
 Role required: wm\_dispatcher, wm\_admin, and wm\_agent
 
@@ -112,8 +112,3 @@ It runs every hour by default to move the tasks within the threshold from Schedu
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]

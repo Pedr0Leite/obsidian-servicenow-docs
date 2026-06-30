@@ -20,7 +20,7 @@ Use FX \(Foreign Exchange\) Currency fields as an alternative to the standard \(
 
 ## Use considerations
 
-Use the FX Currency field type in place of the [[configure-and-use-default-currency-fields|standard currency fields]] when you must:
+Use the FX Currency field type in place of the standard currency fields when you must:
 
 -   Support values expressed in multiple currencies, for example, EUR 100, JPY 200, USD 30, as values in a field. FX Currency fields provide better support for multi-currency applications than do standard currency fields.
 -   Control how the FX Currency field is configured, including specifying its internal behavior and currency value formatting.
@@ -31,11 +31,11 @@ Use the FX Currency field type in place of the [[configure-and-use-default-curre
 
     To learn more about custom table rates, see [Add conversion rates using a custom rate table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/custom-rate-table.md).
 
--   Have more control over when the actual currency conversion occurs. FX Currency values convert on demand only, making the conversion [[hs-results|results]] much more transparent.
+-   Have more control over when the actual currency conversion occurs. FX Currency values convert on demand only, making the conversion results much more transparent.
 
     To learn more about currency conversions, see [Understanding how FX Currency field conversions work](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/fx-currency-conversions.md).
 
--   Provide greater transparency into currency conversion calculations. You can view and configure the calculation components, including conversion dates, [[reference-email-admin|reference]] currency, and number of displayed decimals.
+-   Provide greater transparency into currency conversion calculations. You can view and configure the calculation components, including conversion dates, reference currency, and number of displayed decimals.
 -   Build query conditions using FX Currency field values. For available query conditions, see [Operators available for filters and queries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_OpAvailableFiltersQueries.md).
 -   Access FX Currency fields through richer scriptable APIs.
 -   Aggregate currency values as entered by users, or aggregate them in selected reference currencies, for reporting purposes.
@@ -59,11 +59,5 @@ In general, currency values crossing the boundaries of the platform represent wh
 
 [Standard currency fields]()
 
-[[r_FieldTypes|Field types reference]]
+[Field types reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/r_FieldTypes.md)
 
-## Related
-
-- [[r_FieldTypes|Field types reference]]
-- [[configure-and-use-default-currency-fields|Standard currency fields]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

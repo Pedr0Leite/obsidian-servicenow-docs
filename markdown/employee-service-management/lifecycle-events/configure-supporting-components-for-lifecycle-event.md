@@ -14,11 +14,11 @@ breadcrumb: [Building a lifecycle event, Using Lifecycle Events, Lifecycle Event
 
 # Configure the supporting components for a lifecycle event
 
-Configure the supporting components for a lifecycle event. [[hr-lifecycle-events-landing-page-1|Lifecycle events]] are a collection of activities. For each [[activity-lxp|activity]], you must identify and configure the underlying components that support it, such as HR task templates, order guides, catalog items, and [[hr-service-administration|HR services]]. You must also identify and configure the relevant owning groups, activity types, and audience records.
+Configure the supporting components for a lifecycle event. Lifecycle events are a collection of activities. For each activity, you must identify and configure the underlying components that support it, such as HR task templates, order guides, catalog items, and HR services. You must also identify and configure the relevant owning groups, activity types, and audience records.
 
 -   Owning groups
 -   Activity types
--   [[ecpro-audience|Audiences]]
+-   Audiences
 
 ## Owning groups
 
@@ -56,7 +56,7 @@ Employee task
 
 </td><td colspan="2">
 
-[Configure an HR task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-task-template.md) To learn more about [[hr-template-configuration|HR templates]], see [HR templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-template-configuration.md).
+[Configure an HR task template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/configure-hr-task-template.md) To learn more about HR templates, see [HR templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-template-configuration.md).
 
 </td></tr><tr><td rowspan="6">
 
@@ -122,7 +122,7 @@ Flow
 
 [Create a subflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/create-subflow.md) **Important:** The only subflow available for use by default is the **Switch primary job** subflow. This subflow is used to [support multiple jobs in a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/adopt-jobs-table.md).
 
-To use a different subflow for an activity, additional configuration is required. See the [Implementing multiple [[flows-ukg|subflows]] in an LE activity \[KB0817520\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0817520) article in the HI knowledge base for more information.
+To use a different subflow for an activity, additional configuration is required. See the [Implementing multiple subflows in an LE activity \[KB0817520\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0817520) article in the HI knowledge base for more information.
 
  To learn more about subflows, see [Subflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/subflows.md).
 
@@ -159,7 +159,7 @@ Create or modify an owning group to define the user group that owns a lifecycle 
 -   **[Configure an activity configuration for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-lifecycle-event-fulfiller-activity-configuration.md)**  
 Create or modify an activity configuration to define the fulfillment process and conditions for closure for a lifecycle event activity.
 -   **[Configure a schedule content template for a lifecycle event activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-schedule-content-template-for-lifecycle-event.md)**  
-Create or modify a schedule content template to deliver content as part of a lifecycle event. Each template must be associated with the Schedule Content \[sn\_cd\_content\_visibility\] table, and you can configure the template for [[ec-mobile-content|mobile content]], [[ec-streamline-content|portal content]], [[ec-notification-content|notification content]], or [[ec-to-do-content|to-do content]].
+Create or modify a schedule content template to deliver content as part of a lifecycle event. Each template must be associated with the Schedule Content \[sn\_cd\_content\_visibility\] table, and you can configure the template for mobile content, portal content, notification content, or to-do content.
 
 **Parent Topic:**[Building a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/hr-lifecycle-event-configuration.md)
 
@@ -167,15 +167,3 @@ Create or modify a schedule content template to deliver content as part of a lif
 
 **Next topic:**[Configure an owning group for a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/configure-lifecycle-event-owning-group.md)
 
-## Related
-
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]
-- [[activity-lxp|Activity]]
-- [[hr-service-administration|HR services]]
-- [[ecpro-audience|Audiences]]
-- [[hr-template-configuration|HR templates]]
-- [[flows-ukg|Subflows]]
-- [[ec-mobile-content|Mobile content]]
-- [[ec-streamline-content|Portal content]]
-- [[ec-notification-content|Notification content]]
-- [[ec-to-do-content|To-do content]]

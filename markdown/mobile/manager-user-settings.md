@@ -17,26 +17,17 @@ Use the settings in your mobile applications to manage accessibility, notificati
 **Related topics**  
 
 
-[[mobile-app-pin-settings|App PIN settings for mobile]]
+[App PIN settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-app-pin-settings.md)
 
-[[mobile-analytics-settings|Analytics settings for mobile]]
+[Analytics settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-analytics-settings.md)
 
-[[notification-preference-settings|Enable notification settings for mobile]]
+[Enable notification settings for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/notification-preference-settings.md)
 
-[[mobile-location|Using location tracking for mobile]]
+[Using location tracking for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-location.md)
 
-[[debug-drawer|Display mobile screen performance data]]
+[Display mobile screen performance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/debug-drawer.md)
 
-[[offline-end-user|Offline mode for mobile]]
+[Offline mode for mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/offline-end-user.md)
 
-[[metadata-refresh|Refresh mobile app meta-data]]
+[Refresh mobile app meta-data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/metadata-refresh.md)
 
-## Related
-
-- [[mobile-app-pin-settings|App PIN settings for mobile]]
-- [[mobile-analytics-settings|Analytics settings for mobile]]
-- [[notification-preference-settings|Enable notification settings for mobile]]
-- [[mobile-location|Using location tracking for mobile]]
-- [[debug-drawer|Display mobile screen performance data]]
-- [[offline-end-user|Offline mode for mobile]]
-- [[metadata-refresh|Refresh mobile app meta-data]]

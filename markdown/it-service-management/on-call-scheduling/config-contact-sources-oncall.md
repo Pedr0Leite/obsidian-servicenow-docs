@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Administration** &gt; **Contact Sources**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Contact Sources**.
 
 2.  Click **New** and then fill in the form.
 
@@ -56,7 +56,7 @@ User Field
 
 </td><td>
 
-[[reference-for-itsm-mobile-agent|Reference]] field to the user table. This field appears only for some tables.
+Reference field to the user table. This field appears only for some tables.
 
 </td></tr><tr><td>
 
@@ -97,7 +97,3 @@ Source
 
 **Parent Topic:**[Configure or update an On-Call schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/create-update-schedule-oncall.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]
-- [[reference-for-itsm-mobile-agent|Reference]]

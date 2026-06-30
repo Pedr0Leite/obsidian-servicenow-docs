@@ -14,7 +14,7 @@ breadcrumb: [Update your existing SAML 2.0 integration, SAML, Multi-Provider sin
 
 # Sample SAML 2 responses after the update
 
-The following sections illustrate the new required elements and attributes that the IdP should provide in the [[c_SAML2.0WebBrowserSSOProfile|SAML]] Response.
+The following sections illustrate the new required elements and attributes that the IdP should provide in the SAML Response.
 
 ## Sample SAML 2 Response with Issuer Element
 
@@ -44,6 +44,3 @@ The following SAML 2 response uses the AudienceRestrictions and Audience element
 <saml:ConditionsNotBefore="2012-01-30T19:57:10Z"  NotOnOrAfter="2012-01-30T20:17:10Z"><saml:AudienceRestriction><saml:Audience>https://demoi2.service-now.com</saml:Audience></saml:AudienceRestriction></saml:Conditions>
 ```
 
-## Related
-
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

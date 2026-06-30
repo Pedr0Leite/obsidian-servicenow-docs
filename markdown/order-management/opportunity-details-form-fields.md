@@ -12,7 +12,7 @@ breadcrumb: [Opportunity Management reference, Lead and opportunity management, 
 
 # Opportunity details form
 
-Field descriptions for editing or reviewing details on the Opportunity form for [[opportunity-management|Opportunity Management]].
+Field descriptions for editing or reviewing details on the Opportunity form for Opportunity Management.
 
 <table><thead><tr><th>
 
@@ -112,7 +112,7 @@ Sales Cycle Type
 
 </td><td>
 
-Type of sales, for example NEWCUST, [[Renew|RENEW]], or UPSELL.
+Type of sales, for example NEWCUST, RENEW, or UPSELL.
 
 </td></tr><tr><td>
 
@@ -426,10 +426,5 @@ The customer's preferred mode of communication:-   Do Not Call
 |Created|Displays the date and time when the opportunity record was created in the system. This value is system‑generated and cannot be edited.|
 |Work Notes|Internal notes used to capture additional information, updates, or context related to the opportunity. Work notes are intended for internal use and are not visible to customers.|
 
-**Parent Topic:**[[opportunity-management-reference|Opportunity Management reference]]
+**Parent Topic:**[Opportunity Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-reference.md)
 
-## Related
-
-- [[opportunity-management-reference|Opportunity Management reference]]
-- [[opportunity-management|Opportunity Management]]
-- [[Renew|Renew]]

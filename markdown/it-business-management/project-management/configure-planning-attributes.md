@@ -41,7 +41,7 @@ Description
 </td><td>
 
 1.  Select **New**.
-2.  On the [[planning-attributes-form|Planning attribute form]], fill the fields.
+2.  On the Planning attribute form, fill the fields.
 
 For a description of the field values, see [Planning attribute form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/planning-attributes-form.md).
 
@@ -89,6 +89,3 @@ The attribute is created and the planning attributes screen is displayed.
 
 [Using the Planning attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/planning-attributes.md)
 
-## Related
-
-- [[planning-attributes-form|Planning attribute form]]

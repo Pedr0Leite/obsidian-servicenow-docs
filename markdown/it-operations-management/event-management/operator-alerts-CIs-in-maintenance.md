@@ -18,7 +18,7 @@ When an alert occurs on a CI that is in the maintenance state, the alert state i
 
 ## Before you begin
 
-**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the [[sow-landing-page-itom|Service Operations Workspace for ITOM]], which offers an enhanced UI for managing alerts.
+**Note:** The Operator Workspace interface is available only to customers who have upgraded from a release prior to the Utah release. New customers as of the Utah release can use the Service Operations Workspace for ITOM, which offers an enhanced UI for managing alerts.
 
 Before completing this task, familiarize yourself with basic form configuration in an instance. You might need to add fields and related lists to forms.
 
@@ -30,7 +30,7 @@ Role required: evt\_mgmt\_operator
 
 1.  Find alerts in maintenance:
 
-    1.  Navigate to **[[c_EM|Event Management]]** &gt; **Operators Workspace**.
+    1.  Navigate to **Event Management** &gt; **Operators Workspace**.
 
     2.  Click the filter icon \(\[Omitted image "filter-icon.png"\] Alt text: Filter icon\) and in the Filter box, click **Advanced view** and specify:
 
@@ -63,7 +63,3 @@ Role required: evt\_mgmt\_operator
 
 **Parent Topic:**[Advanced tasks for the Event Management operator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/operator-advanced-tasks.md)
 
-## Related
-
-- [[sow-landing-page-itom|Service Operations Workspace for ITOM]]
-- [[c_EM|Event Management]]

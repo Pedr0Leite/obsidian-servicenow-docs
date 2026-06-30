@@ -23,7 +23,7 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ai-risk-and-compliance-workspace|AI Risk and Compliance Workspace]]**.
+1.  Navigate to **All** &gt; **AI Risk and Compliance Workspace**.
 
 2.  Select the list \[Omitted image "ListsIcon.jpg"\] Alt text: icon.
 
@@ -42,6 +42,3 @@ Role required: sn\_grc\_ai\_gov.ai\_risk\_and\_compliance\_admin
 
 **Parent Topic:**[Manage controls using AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/manage-controls-in-airc.md)
 
-## Related
-
-- [[ai-risk-and-compliance-workspace|AI Risk and Compliance workspace]]

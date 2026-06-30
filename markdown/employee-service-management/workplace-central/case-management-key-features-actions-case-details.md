@@ -14,13 +14,13 @@ breadcrumb: [Reference, Workplace Central, Workplace Service Delivery, Employee 
 
 # Case Management - Key features, Actions &amp; Case details
 
-The [[workplace-central-feat|Workplace Central]] [[case-management-workspace|Case management]] workspace is an all-in-one workspace using which a case manager can manage hundreds of workplace cases created in the organization.
+The Workplace Central Case management workspace is an all-in-one workspace using which a case manager can manage hundreds of workplace cases created in the organization.
 
 ## Case management - Key features
 
 As a case manager, monitor the large number of workplace cases incoming daily at any time using the workspace. Check the number of active workplace cases, the cases that have breached SLA and those that are critical. The workspace enables you to focus on priority cases by providing you a categorized display. The workspace enables you to perform the following:
 
--   You can analyze the number of cases opened and closed on a weekly basis. You can know the monthly volume of cases based on the [[workplace-services|workplace services]].
+-   You can analyze the number of cases opened and closed on a weekly basis. You can know the monthly volume of cases based on the workplace services.
 -   You can view the case details in an organized display where you can focus on the most important actions and details to help you resolve the case quickly. You can edit a case, update case details, view the details of the employee who has requested the case and also know the location specified in the case on a floor map.
 -   As an admin or case admin, you can cancel a case if it’s no longer required. Similarly, as a move admin, you can cancel a move case and as a maintenance admin you can cancel a maintenance case.
 -   In case of a move cases, you can view the 'From location' and 'To location' on the map. You can know the date by when the move must be implemented.
@@ -49,7 +49,7 @@ The workspace displays the metrics of all the workplace cases under the **Overvi
     -   **SLAs breached**: Displays the total number of cases that have breached SLAs that is the cases that have crossed the deadline to be resolved.
     -   **Unassigned cases**: Displays the total number of unassigned cases.
     -   **Cases awaiting approval**: Displays the total number of cases that are awaiting to be approved.
-    You can select the metric card to view a detailed list of the cases. The case numbers are displayed as WCASEXXXX for workplace cases, WMCXXXX for maintenance cases and WMOVEXXXX for move cases same as in the [[workplace-case-mgmt-feat|Workplace Case Management]] application. In the list view, you can perform the following actions:
+    You can select the metric card to view a detailed list of the cases. The case numbers are displayed as WCASEXXXX for workplace cases, WMCXXXX for maintenance cases and WMOVEXXXX for move cases same as in the Workplace Case Management application. In the list view, you can perform the following actions:
 
     -   Refresh the list and edit the columns of the list.
     -   Sort the list base don how you want to view them.
@@ -87,7 +87,7 @@ On the list, you can perform the following actions:
 -   Apply filter conditions on the list and also change whenever needed.
 -   Assign a single or multiple cases to another user using the **Assign** option.
 -   Export the cases to the desired format using the **Export** option.
--   [[create-a-case-casemgmtworkspace|Create a workplace service case]] at any time using the **New** option. Instead of using the [Workplace Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-portal-wsd.md) to submit a workplace service request on behalf of an employee for any other reason, you can directly raise a request using the Case management workspace.
+-   Create a workplace service case at any time using the **New** option. Instead of using the [Workplace Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/workplace-services-portal-wsd.md) to submit a workplace service request on behalf of an employee for any other reason, you can directly raise a request using the Case management workspace.
 
 ## Case details page
 
@@ -110,7 +110,7 @@ The case details are categorized in the following views:
         -   For maintenance cases, you can also view the details such as the **Product model**, **Enterprise asset**.
         In the **Details** view, you can add comments in the **Compose** panel and post it on the case. You can also add private work notes.
 
-        The panel also displays all the activities performed on the case in the **[[activity-lxp|Activity]]** section of the panel.
+        The panel also displays all the activities performed on the case in the **Activity** section of the panel.
 
     -   **Child cases**
 
@@ -122,7 +122,7 @@ The case details are categorized in the following views:
 
         The **Child tasks** displays the child tasks created with the workplace case. You can view details of the child task such as the **Number**, **Short description**, **State**, **Assigned to** user, **Workplace task type**, **Workplace location** and more. You can edit the columns, refresh the list and apply filters on the tasks.
 
-        You can also [[create-a-child-task-agentmobile|create a child task]] if necessary using the **New** option. To create a child task, refer to [Create a child case and a child task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md).
+        You can also create a child task if necessary using the **New** option. To create a child task, refer to [Create a child case and a child task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/create-a-child-case-and-a-child-task-casemgmtworkspace.md).
 
     -   **Approvers**
 
@@ -220,12 +220,3 @@ You can perform the following actions on a case at any time:
 
 [User Workplace Profile form]()
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[workplace-services|Workplace Services]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]
-- [[create-a-case-casemgmtworkspace|Create a workplace service case]]
-- [[activity-lxp|Activity]]
-- [[create-a-child-task-agentmobile|Create a child task]]

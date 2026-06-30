@@ -32,7 +32,7 @@ A new record is created in the sn\_plng\_att\_core\_resource\_assignment table w
 
 To ensure a user can be added as a point of contact, make sure the user has the **pps\_resource** role and an employee profile \(sn\_employee\_profile\) record. For information on how to create an employee profile, see.
 
-**Note:** Points of contact can only be added from the internal team list record. To add members to the internal team list record, see [[psds-gmp-using-add-members-internal-program-team|Add members to a Grant Program internal program team]].
+**Note:** Points of contact can only be added from the internal team list record. To add members to the internal team list record, see [Add members to a Grant Program internal program team](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-gmp-using-add-members-internal-program-team.md).
 
 ### Before you begin
 
@@ -86,6 +86,3 @@ The program announcement as it will appear on the grants portal is now configure
 
 .
 
-## Related
-
-- [[psds-gmp-using-add-members-internal-program-team|Add members to a Grant Program internal program team]]

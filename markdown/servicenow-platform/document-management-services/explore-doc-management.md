@@ -14,13 +14,13 @@ breadcrumb: [Document Management, Document Services, Manage content capabilities
 
 # Exploring Document Management
 
-With the ServiceNow® [[doc-management-landing|Document Management]] application, you can manage large numbers of documents efficiently. Easily upload, retrieve, share and [[delete-a-doc|delete documents]].
+With the ServiceNow® Document Management application, you can manage large numbers of documents efficiently. Easily upload, retrieve, share and delete documents.
 
 ## Document Management overview
 
 With the Document Management application, you can create, upload, track and manage documents throughout the lifecycle of the workflow.
 
-Use the [[doc-mgt-view-documents-repo|document repository]] to easily upload, retrieve, share, delete and sign documents. Documents can also be linked to other records in the system.
+Use the document repository to easily upload, retrieve, share, delete and sign documents. Documents can also be linked to other records in the system.
 
 \[Omitted video\] Description: Document Management Overview
 
@@ -41,13 +41,7 @@ Use the [[doc-mgt-view-documents-repo|document repository]] to easily upload, re
 |Redact sensitive data from documents.|[Redact sensitive data from documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/data-redaction-documents.md)|
 
 -   **[Document Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-mgt-plugin.md)**  
-With the ServiceNow® [[doc-mgt-plugin|Document Management plugin]] \(**com.snc.platform\_document\_management**\), you can create documents, manage large numbers of documents efficiently, and track each version. The plugin is independent, with no dependencies on existing plugins and has been built on the existing **sys\_attachment** framework.
+With the ServiceNow® Document Management plugin \(**com.snc.platform\_document\_management**\), you can create documents, manage large numbers of documents efficiently, and track each version. The plugin is independent, with no dependencies on existing plugins and has been built on the existing **sys\_attachment** framework.
 
 **Parent Topic:**[Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/doc-management-landing.md)
 
-## Related
-
-- [[doc-management-landing|Document Management]]
-- [[delete-a-doc|Delete documents]]
-- [[doc-mgt-view-documents-repo|Document repository]]
-- [[doc-mgt-plugin|Document Management plugin]]

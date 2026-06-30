@@ -14,7 +14,7 @@ breadcrumb: [Relationships Objects, TISC Library Repository, Threat Intelligence
 
 # Define indicator-indicator relationships
 
-Define [[stix-relationships|relationships]] between the indicator object and other Use the [[relationship-objects|relationships objects]] to link together two [[c_Observables|observables]] or an observable and SDO to explain how they relate to each other..
+Define relationships between the indicator object and other Use the relationships objects to link together two observables or an observable and SDO to explain how they relate to each other..
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Threat Intel Library** icon on the workspace.
 
@@ -90,9 +90,3 @@ Select and define the source object indicator.
 
 **Parent Topic:**[Relationships Objects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/relationship-objects.md)
 
-## Related
-
-- [[stix-relationships|Relationships]]
-- [[relationship-objects|Relationships Objects]]
-- [[c_Observables|Observables]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

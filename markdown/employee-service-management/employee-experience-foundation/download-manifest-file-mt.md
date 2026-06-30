@@ -135,7 +135,7 @@ Option to use the default images for branding.**Note:** If you want to customize
     |-----|-----------|
     |Enable tabs|Option to add tabs in the Microsoft Teams application. This option is selected by default.|
     |Tab name|Name of the service portal tab that appears in the Microsoft Teams application.|
-    |Enable [[activity-lxp|Activity]] Feed|Option to enable the activity feed to receive campaign notifications in Microsoft Teams. This option is selected by default.|
+    |Enable Activity Feed|Option to enable the activity feed to receive campaign notifications in Microsoft Teams. This option is selected by default.|
 
     For a self-configured app, you must provide the Application \(client\) ID and Directory \(tenant\) ID in the **Configure Tab** section.
 
@@ -168,6 +168,3 @@ You must upload the manifest file in Microsoft Teams. For more information, see 
 
 **Parent Topic:**[Setup for integrating pre-published apps with Microsoft Teams for Employee Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_employee_ex_tnt.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

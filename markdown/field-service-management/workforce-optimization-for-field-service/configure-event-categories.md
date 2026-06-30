@@ -18,7 +18,7 @@ Configure field settings for event categories. You can create or update field co
 
 ## Before you begin
 
-**Important:** To access the next generation of the [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]] application, transition to the Workforce Optimization for Field Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Field Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [Configuring Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-wfo-fsm.md).
+**Important:** To access the next generation of the Workforce Optimization for Field Service application, transition to the Workforce Optimization for Field Service application that is available from the ServiceNow Store. You can now configure Workforce Optimization for Field Service using the [UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/ui-builder-overview.md). For more information see, [Configuring Workforce Optimization for Field Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/configuring-wfo-fsm.md).
 
 Role required: sn\_shift\_planning.admin
 
@@ -36,7 +36,7 @@ The following event category configurations are available by default:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[using-wfo-fsm|Workforce Optimization]] for FSM** &gt; **Scheduling** &gt; **Event Categories**.
+1.  Navigate to **All** &gt; **Workforce Optimization for FSM** &gt; **Scheduling** &gt; **Event Categories**.
 
 2.  In the **Event Categories** list, select **New**.
 
@@ -117,7 +117,4 @@ The following event category configurations are available by default:
 
 6.  Select **Submit**.
 
-## Related
 
-- [[workforce-optimization-for-fsm|Workforce Optimization for Field Service]]
-- [[using-wfo-fsm|Workforce Optimization]]

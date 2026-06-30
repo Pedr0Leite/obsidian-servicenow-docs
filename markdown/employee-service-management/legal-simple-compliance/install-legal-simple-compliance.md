@@ -14,7 +14,7 @@ breadcrumb: [Legal Simple Compliance, Legal Service Delivery Practice Applicatio
 
 # Install Legal Simple Compliance
 
-Install the [[legal-simple-compliance-applications|Legal Simple Compliance]] application to offer prebuilt workflows for various legal compliance needs. It enables you to manage legal compliance requests.
+Install the Legal Simple Compliance application to offer prebuilt workflows for various legal compliance needs. It enables you to manage legal compliance requests.
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ When you install the Legal Simple Compliance application, the following applicat
 
 **Parent Topic:**[Legal Simple Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-compliance/legal-simple-compliance-applications.md)
 
-## Related
-
-- [[legal-simple-compliance-applications|Legal Simple Compliance]]

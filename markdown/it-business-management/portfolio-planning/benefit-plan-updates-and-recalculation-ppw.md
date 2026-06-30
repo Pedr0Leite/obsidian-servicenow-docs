@@ -18,7 +18,7 @@ Updating the entered currency, entered benefit, offset type, or fiscal period of
 
 ## Entered currency, Entered benefit, and Recurring field changes
 
-When you modify these fields in the [[benefit-plan-form-project-management|Benefit Plan form]] with multicurrency view enabled, the following values are recalculated:
+When you modify these fields in the Benefit Plan form with multicurrency view enabled, the following values are recalculated:
 
 -   **Total planned cost** in demand currency.
 -   **Benefit in demand currency** in the Benefit Plan Breakdown.
@@ -47,6 +47,3 @@ When you change the entered benefit in an individual Benefit Plan Breakdown reco
 -   **Benefit in demand currency** of the benefit plan.
 -   **Financial benefit in demand currency** field in the demand.
 
-## Related
-
-- [[benefit-plan-form-project-management|Benefit Plan form]]

@@ -14,15 +14,15 @@ breadcrumb: [Configuring Edge Encryption, Edge Encryption, Encryption]
 
 # Encrypt data from a record producer
 
-Configure your [[edge-encryption|Edge Encryption]] proxy server to allow inserts from a record producer by creating [[encryption-landing|encryption]] rules from the record producer record.
+Configure your Edge Encryption proxy server to allow inserts from a record producer by creating encryption rules from the record producer record.
 
 ## Before you begin
 
 Role required: security\_admin
 
-Record producers allow end [[users|users]] to create task-based records, such as incident records, from the Service Catalog and Service Portal. If a record producer attempts to insert data into a field marked for encryption, an invalid insert message displays and the data is not saved to the field.
+Record producers allow end users to create task-based records, such as incident records, from the Service Catalog and Service Portal. If a record producer attempts to insert data into a field marked for encryption, an invalid insert message displays and the data is not saved to the field.
 
-Encrypting data from a record producer requires an encryption [[sc-configuration|configuration]] defined for the target field. Check that you have created an encryption configuration for the target field and table before creating an encryption rule from a record producer. See [Create a field encryption configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_ConfigureCloudEdge.md). To encrypt attachments from a record producer, [Configure attachment encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptingAttachments.md).
+Encrypting data from a record producer requires an encryption configuration defined for the target field. Check that you have created an encryption configuration for the target field and table before creating an encryption rule from a record producer. See [Create a field encryption configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_ConfigureCloudEdge.md). To encrypt attachments from a record producer, [Configure attachment encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/c_EncryptingAttachments.md).
 
 ## Procedure
 
@@ -71,7 +71,7 @@ Encrypting data from a record producer requires an encryption [[sc-configuration
     The value of the **Action** field becomes:
 
     ```
-    function ReportOutageJsonAction([[c_requestAPI|request]]) {
+    function ReportOutageJsonAction(request) {
     	var tableName = 'incident';
     	// Some fields are set in script, additional parameter lines may need to be added
     	// current.comments is accessed via script from notes; // assignment to current.comments does NOT replace existing values
@@ -96,10 +96,3 @@ The two encryption rules enable the record producer to insert values into fields
 
 **Parent Topic:**[Configuring Edge Encryption](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/edge-config.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[encryption-landing|Encryption]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[c_requestAPI|request]]

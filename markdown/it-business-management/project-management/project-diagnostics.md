@@ -14,7 +14,7 @@ breadcrumb: [Project Diagnostics, Using Project Management, Project Management, 
 
 # Use Project Diagnostics to detect corrupt project data
 
-[[project-diagnostics-overview|Project Diagnostics]] uses the Application Diagnostics Tool to detect corrupt data in a project, such as tasks with invalid parents, tasks without top tasks, and invalid or cyclic relations in a project.
+Project Diagnostics uses the Application Diagnostics Tool to detect corrupt data in a project, such as tasks with invalid parents, tasks without top tasks, and invalid or cyclic relations in a project.
 
 ## Before you begin
 
@@ -52,7 +52,7 @@ Navigate to **All** &gt; **Project Administration** &gt; **Project Diagnostics**
 
 1.  Navigate to **All** &gt; **Project** &gt; **Projects** &gt; **All**.
 2.  Select the project.
-3.  On the [[create-a-project-form|Project form]], select the **Project Diagnostics** related link.
+3.  On the Project form, select the **Project Diagnostics** related link.
 
 
 </td></tr></tbody>
@@ -98,7 +98,3 @@ Steps
 
 Add your own [diagnostic scans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/create-diagnostic-scan-map-script.md) and [fix scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/add-diagnostic-and-fix-script.md).
 
-## Related
-
-- [[project-diagnostics-overview|Project Diagnostics]]
-- [[create-a-project-form|Project form]]

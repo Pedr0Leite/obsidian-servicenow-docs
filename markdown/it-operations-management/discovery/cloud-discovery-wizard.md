@@ -14,7 +14,7 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 
 # Discovery for cloud environment
 
-[[itom-visibility-landing-page|ITOM Visibility]] cloud [[r-discovery|discovery]] solutions enable you to collect detailed information about your cloud-based infrastructure and your resources in major cloud service providers: Amazon Web Services \(AWS\), Microsoft Azure, Google Cloud Platform \(GCP\), IBM Cloud Platform, Oracle Cloud Infrastructure \(OCI\), and Alibaba Cloud.
+ITOM Visibility cloud discovery solutions enable you to collect detailed information about your cloud-based infrastructure and your resources in major cloud service providers: Amazon Web Services \(AWS\), Microsoft Azure, Google Cloud Platform \(GCP\), IBM Cloud Platform, Oracle Cloud Infrastructure \(OCI\), and Alibaba Cloud.
 
 ITOM Visibility cloud discovery can be understood through the layers at which discovery operates and the methods used to perform discovery. Different methods or combination of methods at the different layers support various business outcomes, giving you the flexibility to customize your discovery approach to your organization's specific needs.
 
@@ -48,9 +48,9 @@ These layers can be discovered through the different cloud discovery methods and
 ITOM Visibility supports several methods for cloud discovery, depending on the layer. Different discovery methods address different organizational needs and constraints.
 
 -   Cloud metadata layer: Pattern-based Cloud Discovery and Service Graph Connectors
--   OS layer: IP-based Horizontal Discovery, [[acc-landing-page|Agent Client Collector]] for Visibility - Content, and Service Graph Connectors
+-   OS layer: IP-based Horizontal Discovery, Agent Client Collector for Visibility - Content, and Service Graph Connectors
 
-**Note:** The pattern-based Cloud Discovery and IP-based Horizontal Discovery methods operate at different layers but both use the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application.
+**Note:** The pattern-based Cloud Discovery and IP-based Horizontal Discovery methods operate at different layers but both use the Discovery and Service Mapping Patterns application.
 
 -   **Pattern-based Cloud Discovery/IP-based Horizontal Discovery**
 
@@ -99,9 +99,9 @@ Beyond choosing a cloud discovery method, you must also consider when and how of
 
 In pull-based discovery, the ServiceNow instance connects to cloud providers at set intervals to retrieve and update CMDB data. This approach promotes regular synchronization and offers more frequent updates than traditional scheduled scans. The pattern-based Cloud Discovery method supports this approach for both Azure and GCP.
 
-In push-based discovery, the cloud environment itself is configured to send change events directly to the ServiceNow instance. This approach enables near real-time updates to the CMDB. Both Service Graph Connectors and the pattern-based Cloud Discovery method support push-based [[understanding-aws-discovery|discovery for AWS]].
+In push-based discovery, the cloud environment itself is configured to send change events directly to the ServiceNow instance. This approach enables near real-time updates to the CMDB. Both Service Graph Connectors and the pattern-based Cloud Discovery method support push-based discovery for AWS.
 
-**Note:** Continuous visibility for Amazon AWS Cloud, Microsoft Azure Cloud, and Google Cloud Platform doesn’t require [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+**Note:** Continuous visibility for Amazon AWS Cloud, Microsoft Azure Cloud, and Google Cloud Platform doesn’t require Cloud Provisioning and Governance.
 
 For more information, see:
 
@@ -136,19 +136,7 @@ OS layer discovery methods support the following business outcomes:
 
 ## Managing your cloud resources
 
-[[discovery-admin-workspace|Discovery Admin Workspace]] provides a centralized location for managing and monitoring discovery operations, including performance monitoring, issue diagnosis, and maintaining configuration accuracy. From tracking schedules and diagnosing errors to tuning configurations and accessing insights, Discovery Admin Workspace integrates key tools to improve efficiency and visibility. You can identify critical tasks, manage discovery processes, and resolve issues with enhanced diagnostics and reporting. For more information, see [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md).
+Discovery Admin Workspace provides a centralized location for managing and monitoring discovery operations, including performance monitoring, issue diagnosis, and maintaining configuration accuracy. From tracking schedules and diagnosing errors to tuning configurations and accessing insights, Discovery Admin Workspace integrates key tools to improve efficiency and visibility. You can identify critical tasks, manage discovery processes, and resolve issues with enhanced diagnostics and reporting. For more information, see [Discovery Admin Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/discovery-admin-workspace.md).
 
-If you have [[cam-landing|Cloud Account Management]] \(CAM\) within Cloud Workspace, you can use CAM to access your cloud account and resource inventory through the Cloud Asset Explorer, Cloud Compliance, and [[cloud-accounts|Cloud Accounts]] [[otto-aiops-dashboards|dashboards]]. Cloud Workspace provides comprehensive visibility into cloud accounts and assets across providers, enabling you to track ownership, monitor account trends, and promote regulatory compliance. For more information, see [Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-landing.md).
+If you have Cloud Account Management \(CAM\) within Cloud Workspace, you can use CAM to access your cloud account and resource inventory through the Cloud Asset Explorer, Cloud Compliance, and Cloud Accounts dashboards. Cloud Workspace provides comprehensive visibility into cloud accounts and assets across providers, enabling you to track ownership, monitor account trends, and promote regulatory compliance. For more information, see [Cloud Account Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-account-management/cam-landing.md).
 
-## Related
-
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[acc-landing-page|Agent Client Collector]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[understanding-aws-discovery|Discovery for AWS]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]
-- [[cam-landing|Cloud Account Management]]
-- [[cloud-accounts|Cloud accounts]]
-- [[otto-aiops-dashboards|Dashboards]]

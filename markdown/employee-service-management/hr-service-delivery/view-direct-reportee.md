@@ -14,7 +14,7 @@ breadcrumb: [Configure, Manager Hub, HR Service Delivery, Employee Service Manag
 
 # Set up View as Direct Reports
 
-Set up View as Direct reports to help managers guide their team members by viewing articles as seen by their direct reports on the [[manager-hub-overview|Manager Hub]].
+Set up View as Direct reports to help managers guide their team members by viewing articles as seen by their direct reports on the Manager Hub.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Use the following procedure to customize the View as experience for your employe
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  From the **Your team** drop-down list, select **Team members**.
 
@@ -84,7 +84,3 @@ Set up the View as page experience, add pagination, and tweak the number of arti
 
 [Configure widgets]()
 
-## Related
-
-- [[manager-hub-overview|Manager Hub]]
-- [[employee-center-landing-page|Employee Center]]

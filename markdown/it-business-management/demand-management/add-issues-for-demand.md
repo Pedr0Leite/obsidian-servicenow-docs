@@ -28,7 +28,7 @@ Role required: it\_demand\_manager
 
 3.  From the Issues related list, select **New**.
 
-4.  On the [[issue-form|Issue form]], fill in the fields.
+4.  On the Issue form, fill in the fields.
 
     For a description of the field names, see [Issue form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/issue-form.md).
 
@@ -52,6 +52,3 @@ Role required: it\_demand\_manager
 
 **Parent Topic:**[RIDAC \(Risk, Issue, Decision, Action, and Request Changes\) records for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/ridac-entries-for-demand.md)
 
-## Related
-
-- [[issue-form|Issue form]]

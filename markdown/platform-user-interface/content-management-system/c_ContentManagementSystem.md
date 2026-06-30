@@ -20,7 +20,7 @@ The Content Management System \(CMS\) is a ServiceNow application that enables u
 
 The com.glide.cms and com.glide.cms.extensions plugins are being prepared for future deprecation. They will be hidden and no longer available for activation but will continue to be supported for regression and security defects until the C release \(GA\). The CMS application can no longer be activated and will be deprecated in the C release \(GA\) and support will end for Content Management System. For details, see the [Deprecation Process \[KB0867184\]](https://hi.service-now.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-Use [[c_ServicePortal|Service Portal]] for new development instead of CMS. Service Portal is an alternative to CMS with a refined user experience, and is active by default in the base system. For more information, see [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md) and [Content Management and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CMSAndSP.md).
+Use Service Portal for new development instead of CMS. Service Portal is an alternative to CMS with a refined user experience, and is active by default in the base system. For more information, see [Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_ServicePortal.md) and [Content Management and Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/c_CMSAndSP.md).
 
 A CMS typically requires a systems administrator or a web developer to set up and add features. Non-technical users can use the CMS application as a tool for website maintenance. You also want to consider the timing of the addition of content management, and the maturity level of ServiceNow data. For more information, see [CMS Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementPlanning.md).
 
@@ -28,10 +28,10 @@ Following are several CMS project ideas:
 
 -   Design a company-wide service catalog that offers a collection of services.
 -   Present a customized UI for a knowledge base.
--   Create customized login pages, search pages, views of [[lists-configurable-workspace|lists]], tables, charts, or graphs.
+-   Create customized login pages, search pages, views of lists, tables, charts, or graphs.
 -   Design a complete website.
 -   Integrate ServiceNow with other company applications.
--   Build a tailored self-service portal for end users that is in compliance with a [[c_LeverageTheCorporateStyleGuide|corporate style guide]].
+-   Build a tailored self-service portal for end users that is in compliance with a corporate style guide.
 
 ## Example CMS sites
 
@@ -49,7 +49,7 @@ Domain separation is supported in the Content Management System. Domain separati
 -   **[Configure Content Management sites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateASite.md)**  
 Planning a CMS site involves obtaining resources, communicating with others about design, and gathering content.
 -   **[Content Management integration points](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSIntegrationPoints.md)**  
-Integration points use [[c_ContentBlocks|content blocks]] in CMS to link different applications together using static and [[c_DynamicMethods|dynamic methods]].
+Integration points use content blocks in CMS to link different applications together using static and dynamic methods.
 -   **[Content Management testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_ContentManagementTesting.md)**  
 Test your site to ensure that all pages display correctly, links go to the specified address, and images are not broken. It is important to test the site as you build it. Do not wait until just before launch to begin testing.
 -   **[Global search in Content Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_UseGlobalSearchContentManagement.md)**  
@@ -57,13 +57,5 @@ When you add global search to a CMS site, two different search result blocks can
 -   **[CMS translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/c_CMSTranslation.md)**  
 You can translate CMS sites by activating internationalization plugins and manually translating custom interface strings.
 
-**Parent Topic:**[[configure-uis-and-portals|Configure UIs and portals]]
+**Parent Topic:**[Configure UIs and portals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-uis-and-portals.md)
 
-## Related
-
-- [[configure-uis-and-portals|Configure UIs and portals]]
-- [[c_ServicePortal|Service Portal]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_LeverageTheCorporateStyleGuide|Corporate style guide]]
-- [[c_ContentBlocks|Content blocks]]
-- [[c_DynamicMethods|Dynamic methods]]

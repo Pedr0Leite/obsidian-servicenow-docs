@@ -14,7 +14,7 @@ breadcrumb: [Setting up Cloud Account Management in Cloud Workspace, Configuring
 
 # Configure a custom name for Cloud Account Management
 
-Configure a custom name for Cloud Account Management. You can optionally re-brand the [[cam-landing|Cloud Account Management]] with your company or any custom name. The name change is applicable only on the Cloud Account Management home page and navigation.
+Configure a custom name for Cloud Account Management. You can optionally re-brand the Cloud Account Management with your company or any custom name. The name change is applicable only on the Cloud Account Management home page and navigation.
 
 ## Before you begin
 
@@ -30,6 +30,4 @@ Role required: sn\_itom\_cam.cw\_admin
 
 4.  Re-login to see the change.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]

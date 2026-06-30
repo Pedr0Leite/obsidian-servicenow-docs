@@ -14,10 +14,10 @@ breadcrumb: [Roles installed with Customer Service Management, Components instal
 
 Business Stakeholder for Customer Service Management includes plugins and roles that provide access to business stakeholder features.
 
-Customers who have purchased the [[c_CustomerServiceManagement|Customer Service Management]] Subscription product may provide Business Stakeholder users with the rights to the following actions:
+Customers who have purchased the Customer Service Management Subscription product may provide Business Stakeholder users with the rights to the following actions:
 
 -   Create cases on behalf of a customer or a service organization.
--   [[osp-view-cases|View cases]], case tasks, and [[customer-data|customer data]].
+-   View cases, case tasks, and customer data.
 -   View and drill through reports.
 -   Approve requests.
 
@@ -75,7 +75,7 @@ This role enables users, when added to an individual case as a related party, to
 -   Receive notifications on case updates
 -   Update case tasks
 -   Accept or reject a solution
--   [[osp-close-case|Close a case]]
+-   Close a case
 
 </td><td>
 
@@ -207,7 +207,7 @@ CSM Extension for Proxy Contacts \(com.snc.csm\_proxy\_contacts\)
 Internal
 
 </td></tr></tbody>
-</table>For more information about the proxy contact role, see [[employee-create-case-for-customer|Create cases as a proxy contact]].
+</table>For more information about the proxy contact role, see [Create cases as a proxy contact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/employee-create-case-for-customer.md).
 
 <table id="table_xv4_rpx_znb"><thead><tr><th>
 
@@ -385,7 +385,7 @@ Customer data viewer\[sn\_customerservice.customer\_data\_viewer\]
 
 </td><td>
 
-This role provides read access to customer data, including account, consumer, and household data, and the information included in the related [[migration-lists|lists]].
+This role provides read access to customer data, including account, consumer, and household data, and the information included in the related lists.
 
 </td><td>
 
@@ -491,7 +491,7 @@ sn\_customerservice.projectstakeholder
 Internal
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
+</table>**Parent Topic:**[Roles installed with Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r_RolesInstalledWithCustomerService.md)
 
 **Related topics**  
 
@@ -500,12 +500,3 @@ Internal
 
 [Installed with Business Stakeholder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/installed-with-business-stakeholder.md)
 
-## Related
-
-- [[employee-create-case-for-customer|Create cases as a proxy contact]]
-- [[r_RolesInstalledWithCustomerService|Roles installed with Customer Service Management]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-view-cases|View cases]]
-- [[customer-data|Customer data]]
-- [[osp-close-case|Close a case]]
-- [[migration-lists|Lists]]

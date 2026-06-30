@@ -14,13 +14,13 @@ breadcrumb: [Agile Development use cases, Exploring Agile Development 2.0, Agile
 
 # Release-based development use case in Agile Development
 
-An example of release-based development and delivery model using [[agile-development|Agile Development]].
+An example of release-based development and delivery model using Agile Development.
 
 The usual activities involved in a release-based agile development are:
 
 -   Maintain Product Backlog: Product owners maintain the product backlog. They continuously groom their backlogs by adding stories, prioritizing, and estimating them.
 
-    In [[agile-landing-page|Agile Development 2.0]], navigate to **Agile Development** &gt; **Backlog** &gt; **All Stories** for the list of all the stories. You can filter the list for a specific product.
+    In Agile Development 2.0, navigate to **Agile Development** &gt; **Backlog** &gt; **All Stories** for the list of all the stories. You can filter the list for a specific product.
 
 -   Release Planning: Organizations have definite release cycles such as quarterly release, bi-yearly release, yearly release. The product owners select the prioritized stories from the product backlog that should be completed in a given release to form Release Backlog.
 -   Assignment of stories: In Agile Development 2.0, navigate to **Agile Development** &gt; **Stories**. Select the stories that you want to assign to a release and select **Assign to release/group**. Specify a team that you want to associate these stories with.
@@ -31,7 +31,3 @@ The usual activities involved in a release-based agile development are:
 
 **Parent Topic:**[Agile Development use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-workflow-use-cases.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[agile-landing-page|Agile Development 2.0]]

@@ -14,15 +14,15 @@ breadcrumb: [ITOM Mobile Agent, Service Reliability Management, ITOM AIOps, IT O
 
 # Explore ITOM Mobile Agent
 
-Learn how you can [[use-itom-mobile|use ITOM Mobile]] Agent to manage service reliability on the go, including its capabilities, benefits, and a sample workflow.
+Learn how you can use ITOM Mobile Agent to manage service reliability on the go, including its capabilities, benefits, and a sample workflow.
 
 ## ITOM Mobile Agent overview
 
-Use ITOM Mobile Agent to access [[sr-landing-page|Service Reliability Management]] \(SRM\) features on iOS and Android devices. With [[itom-mobile-landing|ITOM Mobile Agent]], you can track alerts, manage incidents, and work on change and catalog tasks on the go. You can also manage on-call schedules by checking shifts, requesting time off, and filling scheduling gaps.
+Use ITOM Mobile Agent to access Service Reliability Management \(SRM\) features on iOS and Android devices. With ITOM Mobile Agent, you can track alerts, manage incidents, and work on change and catalog tasks on the go. You can also manage on-call schedules by checking shifts, requesting time off, and filling scheduling gaps.
 
 To help you manage service reliability in one place, ITOM Mobile Agent auto-integrates with existing ServiceNow mobile apps. It runs in the ServiceNow Agent app and automatically includes ITSM Mobile Agent features. With that setup, you can manage alerts, incidents, on-call schedules, and tasks in one mobile app.
 
-**Note:** If you already use ITSM Mobile Agent for incidents, on-call schedules, and tasks, [[install-itom-mobile|install ITOM Mobile Agent]] to add alerts to your mobile experience. With ITOM Mobile Agent, you get and configure alert notifications and view alerts in the My work, My team, and Notifications tabs. See [Install ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/install-itom-mobile.md) for installation instructions.
+**Note:** If you already use ITSM Mobile Agent for incidents, on-call schedules, and tasks, install ITOM Mobile Agent to add alerts to your mobile experience. With ITOM Mobile Agent, you get and configure alert notifications and view alerts in the My work, My team, and Notifications tabs. See [Install ITOM Mobile Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/install-itom-mobile.md) for installation instructions.
 
 ## ITOM Mobile Agent users
 
@@ -40,9 +40,9 @@ The following table lists user roles and what each user can do in ITOM Mobile Ag
 This sample workflow shows how ITOM Mobile Agent helps you manage services and the teams assigned to them:
 
 1.  Monitoring tools generate critical alerts when they detect issues, and the ITOM Mobile Agent system sends mobile alert notifications to on-call responders.
-2.  As an on-call SRM responder, you acknowledge, reassign, or close the alerts. If needed, you [[create-incidents|create incidents]] from the alerts, and then the ITOM Mobile Agent system assigns them to the appropriate team.
+2.  As an on-call SRM responder, you acknowledge, reassign, or close the alerts. If needed, you create incidents from the alerts, and then the ITOM Mobile Agent system assigns them to the appropriate team.
 3.  You troubleshoot and collaborate on incidents, escalating them to major incidents when necessary, and then resolve and close the incidents, providing relevant details as needed.
-4.  As an SRM manager, you adjust shifts, approve time-off requests, and resolve scheduling gaps for the on-call responders. Use [[otto-aiops-dashboards|dashboards]] to view alert trends, incident resolution times, and team performance.
+4.  As an SRM manager, you adjust shifts, approve time-off requests, and resolve scheduling gaps for the on-call responders. Use dashboards to view alert trends, incident resolution times, and team performance.
 
 ## ITOM Mobile Agent benefits
 
@@ -73,11 +73,3 @@ To learn more about configuring and using ITOM Mobile Agent, see:
 -   [Use ITOM Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/use-itom-mobile.md)
 -   [ITOM Mobile Agent reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-reliability-management/itom-mobile-settings.md)
 
-## Related
-
-- [[use-itom-mobile|Use ITOM Mobile]]
-- [[sr-landing-page|Service Reliability Management]]
-- [[itom-mobile-landing|ITOM Mobile Agent]]
-- [[install-itom-mobile|Install ITOM Mobile Agent]]
-- [[create-incidents|Create incidents]]
-- [[otto-aiops-dashboards|Dashboards]]

@@ -14,7 +14,7 @@ breadcrumb: [Data privacy \(Classic\) configuration, Data privacy \(Classic\), D
 
 # Data privacy job rollback
 
-Database changes are captured for actions like jobs and scripts so that the changes can be rolled back. [[rollback-data-privacy-job|Roll back a data privacy job]] for when human error inadvertently anonymizes incorrect user information. The rollback de-anonymizes the data from the [[data-privacy-landing|data privacy]] job.
+Database changes are captured for actions like jobs and scripts so that the changes can be rolled back. Roll back a data privacy job for when human error inadvertently anonymizes incorrect user information. The rollback de-anonymizes the data from the data privacy job.
 
 ## Overview
 
@@ -29,7 +29,3 @@ Database changes are captured for actions like jobs and scripts so that the chan
 -   Rollback is available for data privacy jobs that are in a Completed, Canceled, or Error state.
 -   For every successful sys\_user de-anonymization job which is configured with a data privacy policy with rollback support turned on, a rollback context is created. There can be at most one rollback context per data privacy job.
 
-## Related
-
-- [[rollback-data-privacy-job|Roll back a data privacy job]]
-- [[data-privacy-landing|Data Privacy]]

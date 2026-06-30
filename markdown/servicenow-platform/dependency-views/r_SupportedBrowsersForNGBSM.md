@@ -14,7 +14,7 @@ breadcrumb: [Dependency Views, Configuration Management Database \(CMDB\), Confi
 
 # Supported browsers for Dependency Views
 
-The latest version or service pack of internet browsers are required to view and manipulate [[c_BusinesssServiceManagementMaps|Dependency Views]] maps.
+The latest version or service pack of internet browsers are required to view and manipulate Dependency Views maps.
 
 The Dependency Views module supports the latest version or service pack of the following browsers:
 
@@ -25,6 +25,3 @@ The Dependency Views module supports the latest version or service pack of the f
 
 The Dependency Views module is not supported on tablets and on mobile devices.
 
-## Related
-
-- [[c_BusinesssServiceManagementMaps|Dependency Views]]

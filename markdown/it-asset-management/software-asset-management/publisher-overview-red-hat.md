@@ -16,7 +16,7 @@ breadcrumb: [Software Asset Management for Red Hat Enterprise Linux, Software As
 
 View license usage information related to Red Hat Enterprise Linux \(RHEL\) in the publisher overview for Red Hat in the Software Asset Workspace.
 
-From the [[sam-workspace|Software Asset Workspace]], access the Red Hat publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Red Hat** from the list of available software publishers.
+From the Software Asset Workspace, access the Red Hat publisher overview by navigating to **License usage** &gt; **Publishers** and then selecting **Red Hat** from the list of available software publishers.
 
 Results are updated whenever a new reconciliation result is available.
 
@@ -84,6 +84,3 @@ Summary of your license compliance progress.This summary includes the following 
 
 **Parent Topic:**[Software Asset Management for Red Hat Enterprise Linux](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/rhel-publisher-pack.md)
 
-## Related
-
-- [[sam-workspace|Software Asset Workspace]]

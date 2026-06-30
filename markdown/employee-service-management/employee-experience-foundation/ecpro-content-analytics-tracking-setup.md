@@ -14,7 +14,7 @@ breadcrumb: [Content Analytics, Setup continuous improvement, Configuring Employ
 
 # Set up Content Analytics tracking
 
-To use [[ecpro-content-automation-analytics|Content Analytics]] with custom pages or widgets, add the tracking profile to your [[employee-center-landing-page|Employee Center]] or service portal theme header and add the cdaAnalytics service to your custom widgets.
+To use Content Analytics with custom pages or widgets, add the tracking profile to your Employee Center or service portal theme header and add the cdaAnalytics service to your custom widgets.
 
 ## Before you begin
 
@@ -101,7 +101,4 @@ options="{ 'tracking_profile_name': '{PROFILE_NAME}', 'enable_logging': false}"
 
 10. Update the client controller of the widget to use the cdaAnalytics service.
 
-## Related
 
-- [[ecpro-content-automation-analytics|Content Analytics]]
-- [[employee-center-landing-page|Employee Center]]

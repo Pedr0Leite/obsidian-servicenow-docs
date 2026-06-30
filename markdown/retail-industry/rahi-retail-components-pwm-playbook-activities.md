@@ -45,8 +45,5 @@ The PWM playbook activities plugin integrates PWM scheduling capabilities into p
 -   com.playbook\_experience
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]

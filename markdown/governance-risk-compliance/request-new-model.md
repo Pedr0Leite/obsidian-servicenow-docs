@@ -12,7 +12,7 @@ breadcrumb: [Use, Model Risk Management, Governance, Risk, and Compliance]
 
 # Request a new model
 
-Request a new model in the [[employee-center|Employee Center]] to initiate the model intake process and capture all required details for review and approval.
+Request a new model in the Employee Center to initiate the model intake process and capture all required details for review and approval.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Any employee \[sn\_grc\_emp\_user.grc\_employee\] can request a model, when the 
 
 4.  On the form, fill in the fields.
 
-    For a description of the field values on the New Model Intake form, see [[new-model-intake-form|New Model Intake form]].
+    For a description of the field values on the New Model Intake form, see [New Model Intake form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/new-model-intake-form.md).
 
 5.  Select **Submit**.
 
@@ -40,10 +40,5 @@ Any employee \[sn\_grc\_emp\_user.grc\_employee\] can request a model, when the 
 -   **[New Model Intake form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/new-model-intake-form.md)**  
 Use the New Model Intake form to request a new model by providing details such as the purpose, owner, model complexity, and expected outputs.
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[new-model-intake-form|New Model Intake form]]
-- [[using-mrm|Using Model Risk Management]]
-- [[employee-center|employee center]]

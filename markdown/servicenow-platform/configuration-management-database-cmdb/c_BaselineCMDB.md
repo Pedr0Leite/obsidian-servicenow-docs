@@ -51,7 +51,7 @@ Role required: ecmdb\_admin, and sn\_cmdb\_editor or itil
 
 5.  Click **Submit**.
 
-    The creation of a baseline is time consuming and occurs in the background. A message at the top of the record list notifies you that your baseline has been scheduled and you will receive an [[email|email]] when the process is complete.
+    The creation of a baseline is time consuming and occurs in the background. A message at the top of the record list notifies you that your baseline has been scheduled and you will receive an email when the process is complete.
 
 
 ## Display baseline differences
@@ -85,7 +85,7 @@ Changes are displayed only for the cmdb\_ci table and child tables. You can chan
 
 To improve performance and prevent memory issues when showing large amounts of baseline differences data on CI forms, complete the following steps:
 
-1.  Set the system property **com.cmdb.baseline.entry.[[attachment|attachment]]** to true.
+1.  Set the system property **com.cmdb.baseline.entry.attachment** to true.
 2.  Manually run once the **CMDB Baseline convert XML to attachment** fix script. For information about running a fix script, see [Run fix scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/t_RunFixScripts.md).
 
 **Related topics**  
@@ -136,8 +136,3 @@ Lets you manually run the **CMDB Baseline convert XML to attachment** fix script
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[email|Email]]
-- [[attachment|Attachment]]

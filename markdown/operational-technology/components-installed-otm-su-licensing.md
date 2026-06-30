@@ -101,8 +101,5 @@ ITOM Licensing Discovery Sources\[itom\_lu\_discovery\_sources\]
 Contains the categories for all discovery sources.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[otm-su-licensing-references|OTM SU Licensing References]]
+</table>**Parent Topic:**[OTM SU Licensing References](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-su-licensing-references.md)
 
-## Related
-
-- [[otm-su-licensing-references|OTM SU Licensing References]]

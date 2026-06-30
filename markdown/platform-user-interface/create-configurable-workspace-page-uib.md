@@ -18,7 +18,7 @@ Create a Configurable Workspace page from scratch or with a page template in UI 
 
 Role required: ui\_builder\_admin, admin
 
-[[create-configurable-workspace-experience-uib|Create a Configurable Workspace experience]]
+[Create a Configurable Workspace experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/create-configurable-workspace-experience-uib.md)
 
 ## Procedure
 
@@ -38,7 +38,7 @@ Role required: ui\_builder\_admin, admin
 
 6.  Review the URL parameters, and select **Looks good**.
 
-7.  Create the [[configurable-workspace-glossary|variant]] for your page by completing the following fields.
+7.  Create the [variant](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configurable-workspace-glossary.md) for your page by completing the following fields.
 
     A page variant in UI Builder is a variation of a page that exists at the same path and targets different audiences depending on audience criteria.
 
@@ -63,7 +63,3 @@ Your Configurable Workspace page opens in UI Builder.
 
 \[Omitted image "configurable-workspace-standard-record-page-uib.png"\] Alt text: Standard record page in Configurable Workspace
 
-## Related
-
-- [[create-configurable-workspace-experience-uib|Create a Configurable Workspace experience]]
-- [[configurable-workspace-glossary|Configurable Workspace glossary]]

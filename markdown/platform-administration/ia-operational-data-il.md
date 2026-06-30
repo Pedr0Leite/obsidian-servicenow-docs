@@ -16,7 +16,7 @@ Configure departments, locations, users, groups, and roles to establish the foun
 
 ## Departments
 
-Manage and organize department details. On selecting Departments under Operational data, a list of existing departments shows up. You can modify an existing department by selecting it from the list. Select **[[t_AddANewDepartment|Add a department]]** to individually add a new department.
+Manage and organize department details. On selecting Departments under Operational data, a list of existing departments shows up. You can modify an existing department by selecting it from the list. Select **Add a department** to individually add a new department.
 
 \[Omitted image "ia-dpts.png"\] Alt text: Image showing departments
 
@@ -83,16 +83,11 @@ Select **Save** to save the recent user details and redirect you to the list of 
 
 ## Roles assignment
 
-Define roles for users and groups to control access permissions, leveraging smart defaults. On selecting [[ia-roles-assignment|Roles assignment]] under Operational data, a list of existing roles shows up.
+Define roles for users and groups to control access permissions, leveraging smart defaults. On selecting Roles assignment under Operational data, a list of existing roles shows up.
 
 \[Omitted image "ia-roles-assign.png"\] Alt text:
 
 **Note:** You can't modify the details of any existing role nor can you create a new role.
 
-**Parent Topic:**[[ia-config-platform-il|Platform module configuration in Setup Hub]]
+**Parent Topic:**[Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]
-- [[t_AddANewDepartment|Add a department]]
-- [[ia-roles-assignment|Roles assignment]]

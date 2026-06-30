@@ -16,7 +16,7 @@ Use the recommendations details page to view the details for a recommendation an
 
 You can access the recommendation details by selecting **View Details** for a recommendation on the home page or **Recommendations List**.
 
-The recommendation details page displays information for a recommendation including category, effort, [[impact-landing-page|impact]], and the date on which the recommendation was added.
+The recommendation details page displays information for a recommendation including category, effort, impact, and the date on which the recommendation was added.
 
 You can use the **Overview** section to view detailed and relevant information regarding the recommendation for your product area.
 
@@ -29,9 +29,6 @@ The **Work Items** section of the recommendations page displays the actionable S
 -   **Hide** to hide the selected recommendation.
 -   **Convert to work item** to create a new work item from the recommendation from the available work item types.
 
-    **Note:** Recommendations that are created via rule engine or manually created by [[impact-squad|Impact squad]] user, which are not associated with any initiative or accelerator type, except for free form initiatives, can be converted into an SPM entity such as a demand, epic, project, or any other available options.
+    **Note:** Recommendations that are created via rule engine or manually created by Impact squad user, which are not associated with any initiative or accelerator type, except for free form initiatives, can be converted into an SPM entity such as a demand, epic, project, or any other available options.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[impact-squad|Impact Squad]]

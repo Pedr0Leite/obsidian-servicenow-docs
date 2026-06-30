@@ -30,7 +30,7 @@ When a work order is closed, you are notified with a link to the work order. Ope
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Field Service [[field-service-contractor-portal|Contractor Portal]]** &gt; **Homepage**.
+1.  Navigate to **All** &gt; **Field Service Contractor Portal** &gt; **Homepage**.
 
 2.  Click **My Lists** &gt; **My Tasks** &gt; **All Tasks**.
 
@@ -55,6 +55,3 @@ When a work order is closed, you are notified with a link to the work order. Ope
 
 The signed PDF summary is generated and attached to the Work Order form.
 
-## Related
-
-- [[field-service-contractor-portal|Contractor Portal]]

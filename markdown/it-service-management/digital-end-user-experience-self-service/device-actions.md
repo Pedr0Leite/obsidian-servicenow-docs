@@ -14,9 +14,9 @@ breadcrumb: [Configure, Digital End-user Experience Self-service, Digital End-Us
 
 # Device actions
 
-Device actions enable end users to fix common device and application issues on DEX monitored [[dex-workspace-devices-tab|devices]]. Selecting a device action runs the associated fix on the device.
+Device actions enable end users to fix common device and application issues on DEX monitored devices. Selecting a device action runs the associated fix on the device.
 
-As an administrator, you can create and [[configuring-dex-self-service-device-actions|configure device actions]], define which device issues each action addresses, and control where the actions are available to users.
+As an administrator, you can create and configure device actions, define which device issues each action addresses, and control where the actions are available to users.
 
 ## Device action components
 
@@ -27,7 +27,7 @@ Each device action is made up of three connected components:
 
     Only eligible configurations are available for selection when creating a device action. An issue configuration is not eligible if it is already associated with another device action, is not enabled for end users, is linked to an unsupported resolution type, or uses an unsupported engagement type.
 
--   Resolution: Defines how the issue is resolved when the device action is triggered and is configured in [[proactive-engagement-landing-page|Proactive Engagement]].
+-   Resolution: Defines how the issue is resolved when the device action is triggered and is configured in Proactive Engagement.
 
 All three components must be configured and connected for a device action to work correctly. If the issue configuration or resolution is missing, the device action is visible but inactive.
 
@@ -46,7 +46,7 @@ Action visibility in the interface is determined by the user applicability setti
 
 ## Device action availability
 
-Device actions are available in the following interfaces, based on the issue configuration [[settings-mobile|settings]]:
+Device actions are available in the following interfaces, based on the issue configuration settings:
 
 -   Employee Center: The self-service portal where employees can select, confirm, and track device actions. It is enabled by default. For more information, see [Check device health using Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/check-your-device-s-using-employee-center.md).
 
@@ -87,9 +87,3 @@ When a device action is selected, the following user experience is consistent ac
 
 [Device action diagnosis and checks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-self-service/device-actions-issues.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[configuring-dex-self-service-device-actions|Configure device actions]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[settings-mobile|Settings]]

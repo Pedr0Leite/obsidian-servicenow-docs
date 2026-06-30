@@ -15,7 +15,7 @@ breadcrumb: [ITOM Configuration Console, Discovery setup, Configuring Discovery,
 
 # Install Now Assist for IT Operations Management
 
-Install the Now Assist for [[r_ITOMApplications|IT Operations Management]] plugin to enable generative AI and agentic AI on your instance.
+Install the Now Assist for IT Operations Management plugin to enable generative AI and agentic AI on your instance.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ Role required: admin
 
     Once the installation completes, Now Assist for IT Operations Management displays in the Installed tab of the Product Hub.
 
-## Related
 
-- [[r_ITOMApplications|IT Operations Management]]

@@ -16,7 +16,7 @@ Activate the Zoom quick action to initiate Zoom meetings using the quick action 
 
 ## Before you begin
 
-Install the [[chat-zoom-connector|Chat Zoom Connector]] application. For more information, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
+Install the Chat Zoom Connector application. For more information, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
 
 Role required: admin
 
@@ -39,6 +39,3 @@ By default, the Zoom quick action is inactive. Activate this quick action to ena
 
 By default, the Zoom quick action is associated with chats when the Chat Zoom Connector application is installed. In addition, if the Conversational SMS service channel application is installed, the quick action is also associated with SMS conversations. For more information, see [Conversational SMS service channel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversation-sms-service-channel-store-app.md) and[Quick actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-agent-chat-using.md) .
 
-## Related
-
-- [[chat-zoom-connector|Chat Zoom Connector]]

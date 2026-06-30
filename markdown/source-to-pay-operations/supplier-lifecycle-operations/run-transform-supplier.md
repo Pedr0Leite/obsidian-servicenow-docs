@@ -14,7 +14,7 @@ breadcrumb: [Load supplier data, SLO integration framework, Integrate, Supplier 
 
 # Run transform to update supplier primary data
 
-Use transform map and run transform to map the [[supplier|supplier]] fields from the import set into primary data target tables in [[supp-mgmt-landing-page|Supplier Lifecycle Operations]].
+Use transform map and run transform to map the supplier fields from the import set into primary data target tables in Supplier Lifecycle Operations.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: admin
 
     In the **Import set**, the staging table you selected from [Load supplier data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-supplier-data.md) is auto populated.
 
-    In **Selected maps, run in order** area, the target [[slo-supplier-table|supplier table]] to be mapped in Supplier Lifecycle Operations is auto-populated and selected by default.
+    In **Selected maps, run in order** area, the target supplier table to be mapped in Supplier Lifecycle Operations is auto-populated and selected by default.
 
 2.  Select **Transform**.
 
@@ -46,8 +46,3 @@ For example, if you uploaded an Excel file with supplier location information, t
 
 [Monitor the integration status of the SLO inbound data import](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/monitor-integration-status.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[slo-supplier-table|Supplier table]]

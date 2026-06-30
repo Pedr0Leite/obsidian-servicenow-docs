@@ -14,7 +14,7 @@ breadcrumb: [Manage various assets through asset classes, Use, Asset Management,
 
 # Create an asset class
 
-Creating an asset class requires defining a new table and creating a corresponding application and module, then adding the new asset class to new or existing [[model-hierarchy|model categories]]. The default asset classes are Hardware, Software License, and Consumable. These general classes can be used to manage various assets.
+Creating an asset class requires defining a new table and creating a corresponding application and module, then adding the new asset class to new or existing model categories. The default asset classes are Hardware, Software License, and Consumable. These general classes can be used to manage various assets.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If the general classes aren’t appropriate for a specific group of assets, cons
 
 Built-in functionality allows you to use asset classes for financial tracking, in a model bundle, and as a pre-allocated asset.
 
-Ensure that the model categories contain [[c_Models|models]]. Use the Table form to extend an existing table.
+Ensure that the model categories contain models. Use the Table form to extend an existing table.
 
 ## Procedure
 
@@ -131,7 +131,3 @@ Now that the model category \(associated with the new asset class\) and the mode
 
 [Add depreciation to an asset]()
 
-## Related
-
-- [[model-hierarchy|Model categories]]
-- [[c_Models|Models]]

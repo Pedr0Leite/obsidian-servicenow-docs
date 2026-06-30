@@ -16,7 +16,7 @@ The pie data visualization uses a circular shape to show the proportion or perce
 
 ## Before you begin
 
-Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [[platform-analytics-roles|Platform Analytics roles]].
+Role required: Anyone with access to data can create a visualization of that data on any dashboard that they can edit. Users with the itil, report\_user, admin, or viz\_creator role can create a visualization in the Visualization Designer. When you create a visualization in the Visualization Designer, it is saved to the Library. For more information on access, see [Report\_view access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/report-view-access-control.md) and [Platform Analytics roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/platform-analytics-roles.md).
 
 ## About this task
 
@@ -24,9 +24,9 @@ Use this visualization type to show the proportion of parts that make a whole, s
 
 ## Procedure
 
-1.  Follow the first steps to [[create-dv-donut-ac|Create a pie or donut data visualization]]:
+1.  Follow the first steps to [Create a pie or donut data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-donut-ac.md):
 
-    1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
+    1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**, or open an in-line dashboard and select **Edit**.
 
     2.  Select **Create data visualization**.
 
@@ -80,7 +80,7 @@ Use this visualization type to show the proportion of parts that make a whole, s
 
     1.  Select **Follow filters**.
 
-        This option enables the visualization to follow [[c_HomepagePublishers|interactive filters]] on the dashboards it's placed on that are based on the same table.
+        This option enables the visualization to follow interactive filters on the dashboards it's placed on that are based on the same table.
 
     2.  Select **Show filter icon** to show the number of filters applied to the visualization.
 
@@ -88,7 +88,7 @@ Use this visualization type to show the proportion of parts that make a whole, s
 
     3.  Under Chart interaction, select **Allow chart interaction**.
 
-        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by [[access-control|access control]] lists \(ACLs\) and viewers may not see all of the associated records.
+        From the Action menu, select **Drill down to chart** to let viewers navigate to relevant information by selecting a data point in the chart. Some visualizations only drill down to the list of associated data. Table data is generally restricted by access control lists \(ACLs\) and viewers may not see all of the associated records.
 
 8.  Choose how to show what the wedges in the pie describe.
 
@@ -142,10 +142,3 @@ You have created a pie visualization grouped on one value. You have also configu
 
 **Parent Topic:**[Create a pie or donut data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/create-dv-donut-ac.md)
 
-## Related
-
-- [[platform-analytics-roles|Platform Analytics roles]]
-- [[create-dv-donut-ac|Create a pie or donut data visualization]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[access-control|Access control]]

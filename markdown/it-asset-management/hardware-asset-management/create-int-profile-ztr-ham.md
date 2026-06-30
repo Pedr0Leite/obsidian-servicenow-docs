@@ -14,7 +14,7 @@ breadcrumb: [Zero Touch request flow, Use, Hardware Asset Management, IT Asset M
 
 # Create a provider integration profile
 
-Create a provider integration profile to convert any format of Scratchpad update sent by your provider to a format required for the [[zero-touch-request|Zero Touch request flow]].
+Create a provider integration profile to convert any format of Scratchpad update sent by your provider to a format required for the Zero Touch request flow.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: asset\_integration\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Asset operations**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Asset operations**.
 
 2.  From the **Zero touch** list, select **Provider integration profiles**.
 
@@ -45,7 +45,3 @@ Role required: asset\_integration\_admin or admin
 
 The provider integration profile is created and added to the Provider integration profiles list.
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

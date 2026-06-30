@@ -14,7 +14,7 @@ breadcrumb: [Customer Service Management]
 
 # Analytics and reporting for Customer Service Management
 
-[[customer-service-content-pack|Customer Service Platform Analytics Solutions]] contain preconfigured dashboards with actionable data visualizations to improve your business processes and quantify the value of self-service.
+Customer Service Platform Analytics Solutions contain preconfigured dashboards with actionable data visualizations to improve your business processes and quantify the value of self-service.
 
 -   **[Customer Service Platform Analytics and Reporting Solutions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/analytics-and-reporting-solutions-for-customer-service/customer-service-content-pack.md)**
 
@@ -24,6 +24,4 @@ breadcrumb: [Customer Service Management]
 
     Platform Analytics Solutions contain prepackaged Performance Analytics and Reporting content for use with other ServiceNow AI Platform products. This Platform Analytics Solution quantifies the value of self-service using the Self-Service Analytics dashboard for customer service.
 
-## Related
 
-- [[customer-service-content-pack|Customer Service Platform Analytics Solutions]]

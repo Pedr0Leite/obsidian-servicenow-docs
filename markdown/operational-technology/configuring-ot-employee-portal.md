@@ -13,7 +13,7 @@ breadcrumb: [Employee Center for OT, Operational Technology]
 
 # Configuring the Employee Center for OT
 
-Configure the Employee Center for [[operational-technology-overview|Operational Technology]] \(OT\) so that you and other users can access the options available in the portal.
+Configure the Employee Center for Operational Technology \(OT\) so that you and other users can access the options available in the portal.
 
 ## Configuration overview
 
@@ -23,7 +23,7 @@ Configure the Employee Center for [[operational-technology-overview|Operational 
 
     For more information about how to assign roles, see [Assign a role to a user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AssignARoleToAUser.md).
 
-2.  Install and configure the [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]].
+2.  Install and configure the Operational Technology Incident Management.
 
     Install and configure the Operational Technology Incident Management application needed to use the **Report an incident** request.
 
@@ -34,10 +34,5 @@ Configure the Employee Center for [[operational-technology-overview|Operational 
     You can optionally add content to the Industrial services topic page as needed for your organization. For more information about how to add content in the Employee Center, see [Add menu items to primary navigation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/add-menu-items.md).
 
 
-**Parent Topic:**[[ot-employee-portal-landing|Employee Center for OT]]
+**Parent Topic:**[Employee Center for OT](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/ot-employee-portal-landing.md)
 
-## Related
-
-- [[ot-employee-portal-landing|Employee Center for OT]]
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]

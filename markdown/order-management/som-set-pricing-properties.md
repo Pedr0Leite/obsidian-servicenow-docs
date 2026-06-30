@@ -12,7 +12,7 @@ breadcrumb: [Product pricing, Configure, price, quote apps, Configure, Sales Cus
 
 # Set properties to control pricing processing
 
-Activate or deactivate system properties that control how pricing features are processed in [[order-mgt-overview|Sales Customer Relationship Management]] applications.
+Activate or deactivate system properties that control how pricing features are processed in Sales Customer Relationship Management applications.
 
 ## Before you begin
 
@@ -104,6 +104,4 @@ For testing purposes only. Turn on \(select **Yes**\) or turn off \(select **No*
 </td></tr></tbody>
 </table>3.  Select **Save**.
 
-## Related
 
-- [[order-mgt-overview|Sales Customer Relationship Management]]

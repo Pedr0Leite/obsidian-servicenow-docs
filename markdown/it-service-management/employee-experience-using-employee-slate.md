@@ -20,7 +20,7 @@ From the Employee Slate portal, an employee can perform the following actions:
 
 -   Search for relevant information
 -   Submit requests and incidents
--   Customize the canvas for quick [[reference-for-itsm-mobile-agent|reference]] of tasks
+-   Customize the canvas for quick reference of tasks
 -   View assigned tasks and requests
 -   Access the chat history of active and closed conversations
 -   View notifications for tasks
@@ -29,16 +29,10 @@ From the Employee Slate portal, an employee can perform the following actions:
 
 \[Omitted image "ai-native-submit-incident-empslate.png"\] Alt text: Submit an incident in Employee Slate
 
--   **[[itsm-submit-request-employee-slate|Submit a catalog request in Employee Slate]]**  
+-   **[Submit a catalog request in Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-submit-request-employee-slate.md)**  
 Save time in searching for catalog items and submitting requests.
--   **[[itsm-submit-incident-employee-slate|Submit an incident in Employee Slate]]**  
+-   **[Submit an incident in Employee Slate](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-submit-incident-employee-slate.md)**  
 Save time in submitting and resolving incidents.
 
-**Parent Topic:**[[employee-experience-native-ai-itsm|Employee experience in Simplified IT Service Management]]
+**Parent Topic:**[Employee experience in Simplified IT Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/employee-experience-native-ai-itsm.md)
 
-## Related
-
-- [[itsm-submit-request-employee-slate|Submit a catalog request in Employee Slate]]
-- [[itsm-submit-incident-employee-slate|Submit an incident in Employee Slate]]
-- [[employee-experience-native-ai-itsm|Employee experience in Simplified IT Service Management]]
-- [[reference-for-itsm-mobile-agent|Reference]]

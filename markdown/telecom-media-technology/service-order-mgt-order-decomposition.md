@@ -50,10 +50,7 @@ Each of these resource-facing service specifications has relationships with the 
     -   The target specification is the specification that the relationship is being defined to.
     -   Both values are automatically defined when the decomposition rule was created for the specification relationship.
 
-Optional decomposition rules are defined for a specification relationship between a source specification and a target specification. The rules use the characteristic and characteristic value \(optional\) of a source specification, for mapping to a target specification. These rules enable targeted [[sales-crm-order-decomposition|order decomposition]] of a source specification that is based on the characteristic and characteristic value available in the source specification.
+Optional decomposition rules are defined for a specification relationship between a source specification and a target specification. The rules use the characteristic and characteristic value \(optional\) of a source specification, for mapping to a target specification. These rules enable targeted order decomposition of a source specification that is based on the characteristic and characteristic value available in the source specification.
 
 **Note:** To learn more about specification relationships and decomposition rules, see [Create specification relationships, quantity mapping, and decomposition rules for Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-specification-rels.md).
 
-## Related
-
-- [[sales-crm-order-decomposition|Order decomposition]]

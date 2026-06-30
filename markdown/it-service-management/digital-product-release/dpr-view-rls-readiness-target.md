@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.release\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the release calendar icon \(\[Omitted image "dpr-icon-rls-target.png"\] Alt text: Release calendar icon.\).
 
@@ -89,6 +89,3 @@ The Agenda View pane appears with a list of all release targets scheduled for th
 
 **Parent Topic:**[Using Digital Product Release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-using-digital-product-release.md)
 
-## Related
-
-- [[dpr-workspace|Digital Product Release Workspace]]

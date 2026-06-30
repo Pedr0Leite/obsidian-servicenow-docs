@@ -14,7 +14,7 @@ breadcrumb: [Application services in Event Management, Configuring Event Managem
 
 # Manually create an application service in Event Management
 
-You can manually create an application services. [[c_EM|Event Management]] can use application services to monitor service performance and identify health issues.
+You can manually create an application services. Event Management can use application services to monitor service performance and identify health issues.
 
 ## Before you begin
 
@@ -61,6 +61,3 @@ For details on controlling user access to application services, see [Control use
 
 **Parent Topic:**[Application services in Event Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/application-service-event-management.md)
 
-## Related
-
-- [[c_EM|Event Management]]

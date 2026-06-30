@@ -12,7 +12,7 @@ breadcrumb: [Configure accounts and contacts, Customer data, Set up your environ
 
 # Create customer accounts
 
-An account is a supported external customer. Use the [[c_CustomerServiceManagement|Customer Service Management]] application to create account records.
+An account is a supported external customer. Use the Customer Service Management application to create account records.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: One of the following roles:
 
 There are two types of accounts: customer accounts and partner accounts. The **Customer** and **Partner** fields on the Account form denote the account type. An account can be a customer account, a partner account, or both.
 
-A partner is a supported external customer that sells to and supports other customers. A partner can report and [[manage-cases|manage cases]] on behalf of customers. A partner can also be a customer.
+A partner is a supported external customer that sells to and supports other customers. A partner can report and manage cases on behalf of customers. A partner can also be a customer.
 
 ## Procedure
 
@@ -37,7 +37,7 @@ A partner is a supported external customer that sells to and supports other cust
 
     -   To create a customer account, select **Accounts**.
     -   To create a partner account, select **Partners**.
-2.  Select **New** and fill in the fields on the [[customer-service-account-form|Account form]].
+2.  Select **New** and fill in the fields on the [Account form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-account-form.md).
 
     When a new customer account record is created, the system uses the **com.snc.cs\_base.last.generated.code.tree.path** system property to determine a unique account code value for the account. The property is updated with the latest value to confirm the next account record receives a unique account code.
 
@@ -45,8 +45,4 @@ A partner is a supported external customer that sells to and supports other cust
 
 3.  Select **Submit**.
 
-## Related
 
-- [[customer-service-account-form|Account form]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[manage-cases|Manage cases]]

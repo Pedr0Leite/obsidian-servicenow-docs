@@ -13,7 +13,7 @@ breadcrumb: [ITOM AIOps, IT Operations Management]
 
 # Install ITOM AIOps apps using Setup Hub
 
-Install two plugins to enable [[itom-health-landing-page|ITOM AIOps]] functionality: ITOM AIOps and Now Assist for [[r_ITOMApplications|IT Operations Management]].
+Install two plugins to enable ITOM AIOps functionality: ITOM AIOps and Now Assist for IT Operations Management.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: evt\_mgmt\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
     The Admin Home page opens.
 
@@ -47,8 +47,4 @@ Role required: evt\_mgmt\_admin
     2.  On the Application manager page, select **Install**.
     Both plugins are installed and listed in the **Installed** tab in the IT Operations Management page.
 
-## Related
 
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

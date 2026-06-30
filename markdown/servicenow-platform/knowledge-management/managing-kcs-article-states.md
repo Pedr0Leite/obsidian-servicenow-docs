@@ -22,7 +22,7 @@ For information about all the KCS roles, see [Knowledge Management roles](https:
 
 ## Activation information
 
-Activate the [[knowledge-management|Knowledge Management]] KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) to enable the use of KCS roles \(kcs\_contributor, kcs\_publisher, and kcs\_candidate\) and metadata fields for the KCS article state \(governance and confidence\). For more information, see [Activate Knowledge Management KCS Capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-kcs-capabilties-plugin.md).
+Activate the Knowledge Management KCS Capabilities plugin \(com.snc.knowledge\_kcs\_capabilities\) to enable the use of KCS roles \(kcs\_contributor, kcs\_publisher, and kcs\_candidate\) and metadata fields for the KCS article state \(governance and confidence\). For more information, see [Activate Knowledge Management KCS Capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/activate-kcs-capabilties-plugin.md).
 
 **Note:** If you are not an admin and has either kcs\_contributor or kcs\_candidate roles, you cannot retire an article.
 
@@ -89,6 +89,3 @@ The governance state of an article indicates which users can manage articles spe
 
 [Create a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-article-workspace.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

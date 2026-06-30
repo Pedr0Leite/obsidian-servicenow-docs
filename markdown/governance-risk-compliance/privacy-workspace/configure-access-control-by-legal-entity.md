@@ -14,7 +14,7 @@ breadcrumb: [Access control by legal entity, Use, Privacy Management, Governance
 
 # Configuring access control
 
-Configurie Entity-based access control in [[privacy-management|Privacy Management]], including property activation, hierarchy setup, record mapping, user assignment, bulk updates, and activating [[continuous-monitoring-of-entity-based-access|entity-based record access rules]].
+Configurie Entity-based access control in Privacy Management, including property activation, hierarchy setup, record mapping, user assignment, bulk updates, and activating entity-based record access rules.
 
 The following steps outline how to configure access control in Privacy Management using Entity-based access \(EBA\). This process enables organizations to restrict user access to processing activity records and related data according to their position in the organizational hierarchy. By following these steps, administrators can ensure that privacy teams and users only access records relevant to their assigned entities, supporting both security and regulatory compliance.
 
@@ -26,7 +26,7 @@ The following steps outline how to configure access control in Privacy Managemen
 
     For information, see [Add hierarchical relationships between entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-hierarchical-relationships.md).
 
-3.  If [[ropa-record|processing activities]] already exist, map each record to the appropriate entity in the organizational hierarchy, ensuring it is correctly linked as a downstream entity under the relevant legal entity, jurisdiction, or other defined structure. This guarantees that access restrictions are enforced accurately, as each record is tied to the correct part of the organization.
+3.  If processing activities already exist, map each record to the appropriate entity in the organizational hierarchy, ensuring it is correctly linked as a downstream entity under the relevant legal entity, jurisdiction, or other defined structure. This guarantees that access restrictions are enforced accurately, as each record is tied to the correct part of the organization.
 4.  In the Entity Configuration module, do the following:
 
     -   Provide access to teams and users based on your organizational structure. You can grant access to individual users, such as entity owners or privacy analysts, or to groups.
@@ -47,27 +47,19 @@ The following steps outline how to configure access control in Privacy Managemen
 
 6.  Use entity-based record access rules to enable continuous monitoring. These rules automatically apply restrictions to new or modified records, ensuring access settings stay enforced without manual updates. When the structure of the entities change, the system updates access controls automatically.
 
-    For information on how to [[configure-continuous-eba-monitoring-on-record-types|configure entity-based record access rules]], see [Set Entity based record access rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/eba-access-rules-config-privacy.md).
+    For information on how to configure entity-based record access rules, see [Set Entity based record access rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/eba-access-rules-config-privacy.md).
 
 
 -   **[Configure Entity-based access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/configure-entity-based-access.md)**  
-[[configure-entity-based-access|Configure entity-based access]] by installing the Entity-based Access Configurations plugin and enabling properties for record types.
+Configure entity-based access by installing the Entity-based Access Configurations plugin and enabling properties for record types.
 -   **[Create an entity configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-oganizational-structure.md)**  
 Create an organizational structure by configuring entity-based access for different levels such as headquarters, regional offices, and subsidiaries. Define access rules for users and groups.
 -   **[Add hierarchical relationships between entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/add-hierarchical-relationships.md)**  
 Define hierarchical relationships between entities \(Global → Regional → Country-level\) using Upstream and Downstream options. Adding an hierarchy creates a clear organizational structure.
 -   **[Set access restrictions using an entity based record access update utility](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/create-bulk-access-update-config-privacy.md)**  
-Set access restrictions for the existing records in bulk by using the [[entity-based-access-playbook|Entity based record access update utility]] guided-experience. Use the workflow to enable or disable access to record types.
+Set access restrictions for the existing records in bulk by using the Entity based record access update utility guided-experience. Use the workflow to enable or disable access to record types.
 -   **[Set Entity based record access rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/eba-access-rules-config-privacy.md)**  
 Use entity-based record access rules to secure records and enable continuous monitoring. These rules automatically apply restrictions to new or modified records, ensuring access settings stay enforced without manual updates. When entities or processing activities change, the system updates access controls automatically.
 
 **Parent Topic:**[Accessing control through organizational structure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/access-control-by-legal-entity.md)
 
-## Related
-
-- [[privacy-management|privacy management]]
-- [[continuous-monitoring-of-entity-based-access|Entity-based record access rules]]
-- [[ropa-record|Processing activities]]
-- [[configure-continuous-eba-monitoring-on-record-types|Configure entity-based record access rules]]
-- [[configure-entity-based-access|Configure Entity-based access]]
-- [[entity-based-access-playbook|Entity based record access update utility]]

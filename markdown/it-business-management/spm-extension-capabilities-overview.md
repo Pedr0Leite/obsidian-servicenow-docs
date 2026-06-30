@@ -12,13 +12,13 @@ breadcrumb: [Strategic Portfolio Management]
 
 # SPM custom tables
 
-[[r_ITBusinessManagement|Strategic Portfolio Management]] \(SPM\) includes several custom tables that enable you to enhance SPM according to your specific business requirements. These tables are provided without predefined business logic, allowing you to use them as fully customizable entities to suit your unique needs.
+Strategic Portfolio Management \(SPM\) includes several custom tables that enable you to enhance SPM according to your specific business requirements. These tables are provided without predefined business logic, allowing you to use them as fully customizable entities to suit your unique needs.
 
 ## SPM custom tables
 
 The SPM custom tables enable organizations to scale Strategic Portfolio Management by integrating custom features and business-specific functionality.
 
-The following tables from the [[alignment-planner-workspace-landing-page|Strategic Planning]] application and the PPM Standard plugin support Microsoft Active Directory SPM implementations, with a focus on cost efficiency and scalability for large-scale deployments, particularly within financial institutions.
+The following tables from the Strategic Planning application and the PPM Standard plugin support Microsoft Active Directory SPM implementations, with a focus on cost efficiency and scalability for large-scale deployments, particularly within financial institutions.
 
 <table id="table_fbz_45z_vdb"><thead><tr><th>
 
@@ -140,7 +140,3 @@ PPM Standard
 
 [Investment Funding administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/investment-funding/investment-funding-administration.md)
 
-## Related
-
-- [[r_ITBusinessManagement|Strategic Portfolio Management]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

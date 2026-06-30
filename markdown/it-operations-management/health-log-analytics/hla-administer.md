@@ -14,7 +14,7 @@ breadcrumb: [Configuring, Health Log Analytics, ITOM AIOps, IT Operations Manage
 
 # Administering Health Log Analytics
 
-This section covers tasks involved in [[hla-landing-page|Health Log Analytics]] administration. It provides you with information needed to keep Health Log Analytics running efficiently.
+This section covers tasks involved in Health Log Analytics administration. It provides you with information needed to keep Health Log Analytics running efficiently.
 
 -   **[Configure Health Log Analytics system properties for a single log source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-system-properties-configure-single.md)**  
 Configure system properties for a specific log source if you need to alter the default values, which should not usually be necessary.
@@ -33,6 +33,3 @@ When Health Log Analytics streams logs, it extracts host data from the log event
 
 **Parent Topic:**[Configuring Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-configuring.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

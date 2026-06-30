@@ -14,7 +14,7 @@ breadcrumb: [Configuring Knowledge Management, Knowledge Management, Manage cont
 
 # Configure Knowledge Management - Add-in for Microsoft Word
 
-Configure the [[knowledge-management|Knowledge Management]] - Add-in for Microsoft Word to author and access knowledge articles in Microsoft Word.
+Configure the Knowledge Management - Add-in for Microsoft Word to author and access knowledge articles in Microsoft Word.
 
 ## Before you begin
 
@@ -36,6 +36,3 @@ Complete the following tasks to use the Knowledge Management - Add-in for Micros
 
 [Authoring a knowledge article in Microsoft Word](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-article-authoring-word.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

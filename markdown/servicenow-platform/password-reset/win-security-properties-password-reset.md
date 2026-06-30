@@ -14,7 +14,7 @@ breadcrumb: [Installing and configuring Password Reset Windows Application, Pass
 
 # Configure security settings for the Password Reset Windows Application
 
-Configuring security settings for the [[win-password-reset-overview|Password Reset Windows Application]].
+Configuring security settings for the Password Reset Windows Application.
 
 ## Security settings
 
@@ -31,6 +31,3 @@ The Windows local administrator performs the remainder of the installation proce
 
 **Parent Topic:**[Installing and configuring Password Reset Windows Application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/password-reset/install-configure-password-reset-windows-app.md)
 
-## Related
-
-- [[win-password-reset-overview|Password Reset Windows Application]]

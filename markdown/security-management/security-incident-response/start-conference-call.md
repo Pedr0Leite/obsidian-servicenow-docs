@@ -38,7 +38,7 @@ The call participants can include the following:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[major-security-incident-management-landing-page|Major Security Incident Management]]**.
+1.  Navigate to **Workspaces** &gt; **Major Security Incident Management**.
 
 2.  From the Major Security Incident list, select a major security incident.
 
@@ -100,6 +100,3 @@ The call participants can include the following:
 
 [Integrate MSIM Conference Calls with Cisco Webex]()
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]

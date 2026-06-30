@@ -43,11 +43,7 @@ The integration user account is unlocked and the password reset flag is cleared.
 
 ## What to do next
 
-Before retrying validation, resolve the root cause of the failed attempts. See [[validate-instance-connection|Validate your instance connection]] for the full validation troubleshooting checklist.
+Before retrying validation, resolve the root cause of the failed attempts. See [Validate your instance connection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/validate-instance-connection.md) for the full validation troubleshooting checklist.
 
-**Parent Topic:**[[register-your-instance|Register your instance]]
+**Parent Topic:**[Register your instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/register-your-instance.md)
 
-## Related
-
-- [[validate-instance-connection|Validate your instance connection]]
-- [[register-your-instance|Register your instance]]

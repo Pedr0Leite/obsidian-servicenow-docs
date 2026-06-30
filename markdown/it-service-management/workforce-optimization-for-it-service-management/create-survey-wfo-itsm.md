@@ -24,7 +24,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 1.  Navigate to **Workspaces** &gt; **Manager Workspace**.
 
-2.  Select the [[cf-coaching-landing|Coaching]] icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
+2.  Select the Coaching icon \(\[Omitted image "coaching-icon-uib.png"\] Alt text: Coaching icon\).
 
 3.  Select the **Assessments** tab.
 
@@ -37,7 +37,7 @@ Role required: sn\_wfo\_cfg\_ws.manager
     |**A form**|Select **New**.|
     |**Survey Designer**|Select **Survey Designer**.|
 
-    **Note:** For detailed information on how to [[cf-create-survey-coaching-opportunity|create a survey and associate with a coaching opportunity]], see [Create a survey and associate with a Coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-survey-coaching-opportunity.md).
+    **Note:** For detailed information on how to create a survey and associate with a coaching opportunity, see [Create a survey and associate with a Coaching opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-create-survey-coaching-opportunity.md).
 
 6.  Configure the survey based on your needs.
 
@@ -48,7 +48,3 @@ Role required: sn\_wfo\_cfg\_ws.manager
 
 **Parent Topic:**[Surveys in Workforce Optimization for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/surveys-wfo-itsm.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[cf-create-survey-coaching-opportunity|Create a survey and associate with a Coaching opportunity]]

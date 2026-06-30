@@ -14,7 +14,7 @@ breadcrumb: [Configure smart assessments, Configure, Supplier Lifecycle Operatio
 
 # Create assessments from assessment templates
 
-After mapping the assessment templates with segmentation rules, [[supplier|supplier]] managers manually trigger batch creation of assessments.
+After mapping the assessment templates with segmentation rules, supplier managers manually trigger batch creation of assessments.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Open the segmentation rule for which assessment templates have been created.
 
@@ -47,8 +47,3 @@ The assessment is created and runs in the background. The status of the assessme
 
 **Parent Topic:**[Configure smart assessments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-smart-assessments.md)
 
-## Related
-
-- [[supplier|Supplier]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]

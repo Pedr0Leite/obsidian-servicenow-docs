@@ -22,7 +22,7 @@ Role required: po\_analyst
 
 ## About this task
 
-[[process-mining|Process Mining]] extracts a maximum limit of 500,000 records for a single table. If that limit is reached with the table you selected, add additional filters to refine the data set.
+Process Mining extracts a maximum limit of 500,000 records for a single table. If that limit is reached with the table you selected, add additional filters to refine the data set.
 
 This limit will decrease depending on the number of tables you have configured on your project. For example, if you configure two tables, a parent table \(like Incident\) and a child table \(like Task\_sla\), the limit calculated on the incident table will be 250,000 records.
 
@@ -33,7 +33,7 @@ This limit will decrease depending on the number of tables you have configured o
 
 ## Procedure
 
-1.  From the application navigator, navigate to **Process Mining** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  From the application navigator, navigate to **Process Mining** &gt; **Process Mining Workspace**.
 
 2.  From the project's card menu, select:
 
@@ -75,7 +75,7 @@ Role required: none
 
     It can take several minutes before the cancel process completes. The unit of work in progress at the time of canceling mining must complete before cancellation occurs.
 
-    The mining state on the [[new-project-def|Project Definition form]] shows as **Cancelled**.
+    The mining state on the Project Definition form shows as **Cancelled**.
 
 
 ## Mining states
@@ -149,9 +149,3 @@ A job has been scheduled for the project to be mined at a specified time interva
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[process-mining|Process Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[new-project-def|Project definition form]]

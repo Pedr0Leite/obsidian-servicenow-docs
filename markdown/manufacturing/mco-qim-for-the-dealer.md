@@ -12,9 +12,5 @@ breadcrumb: [Dealer management, Use, Manufacturing Commercial Operations]
 
 # Quality issue management for the dealer
 
-The [[mco-dealer-portal|dealer portal]] enables the dealers to view the [[mco-product-non-conformances|product non-conformance]] requested by them. Dealers can also submit the product non-conformance issue reports.
+The dealer portal enables the dealers to view the product non-conformance requested by them. Dealers can also submit the product non-conformance issue reports.
 
-## Related
-
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-product-non-conformances|Product non-conformance]]

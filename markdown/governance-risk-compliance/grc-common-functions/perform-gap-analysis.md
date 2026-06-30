@@ -18,7 +18,7 @@ Perform a Gap analysis of cybersecurity activities.
 
 ## Before you begin
 
-[[r_PolicyComplianceMgmt|Policy and Compliance Management]] Role required: admin
+Policy and Compliance Management Role required: admin
 
 NIST CSF sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.security\_officer
 
@@ -55,6 +55,3 @@ NIST CSF sn\_irm\_nist\_csf.risk\_executive or sn\_irm\_nist\_csf.security\_offi
 
 **Parent Topic:**[Align and prioritize cybersecurity activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/align-prioritize-activities.md)
 
-## Related
-
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

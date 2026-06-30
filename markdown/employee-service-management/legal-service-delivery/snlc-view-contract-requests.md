@@ -22,7 +22,7 @@ Role required: sn\_lg\_contracts.contracts\_fulfiller
 
 ## About this task
 
-You can access contract request through the legal request or directly from the [[legal-counsel-center-landing|Legal Counsel Center]].
+You can access contract request through the legal request or directly from the Legal Counsel Center.
 
 ## Procedure
 
@@ -57,9 +57,5 @@ You can access contract request through the legal request or directly from the [
 
 [View and download a signed contract document]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[legal-counsel-center-landing|Legal Counsel Center]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

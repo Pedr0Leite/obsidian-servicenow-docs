@@ -20,7 +20,7 @@ Update the text search index for a single record. Use this approach to quickly v
 
 Identify the following:
 
--   A search term that doesn't return the expected [[hs-results|results]]
+-   A search term that doesn't return the expected results
 -   A record containing the identified search term that isn't returned when searching for the term
 -   The table that includes the identified record
 
@@ -71,6 +71,3 @@ Repeat your sample search. If this search returns the identified record, you may
 
 **Parent Topic:**[Regenerate a text index for a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/t_RegenerateATextIndexForATable.md)
 
-## Related
-
-- [[hs-results|Results]]

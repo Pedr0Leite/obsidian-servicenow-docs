@@ -86,10 +86,8 @@ The call resiliency workflow improves the efficiency and reliability of handling
 
     Interactions are created after the agent accepts the call, promoting all necessary records are generated without delay.
 
--   **Improved [[agent-exp|Agent experience]]**
+-   **Improved Agent experience**
 
     A clear and efficient workflow enhances the agent's experience, making call and interaction management easier.
 
-## Related
 
-- [[agent-exp|Agent experience]]

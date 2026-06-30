@@ -14,7 +14,7 @@ breadcrumb: [Reference for on-call scheduling, On-Call Scheduling, IT Service Ma
 
 # On-Call Scheduling subflows
 
-Subflows in [[c_OnCallScheduling|On-Call Scheduling]] enable you to build and configure on-call escalation notification flows.
+Subflows in On-Call Scheduling enable you to build and configure on-call escalation notification flows.
 
 ## Using subflows for on-call escalation
 
@@ -52,6 +52,3 @@ Subflows are installed with On-Call Scheduling to support building on-call escal
 
 **Parent Topic:**[Reference for on-call scheduling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/reference-for-on-call-scheduling.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

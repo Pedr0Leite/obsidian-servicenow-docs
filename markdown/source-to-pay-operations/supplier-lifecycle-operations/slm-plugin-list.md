@@ -14,7 +14,7 @@ breadcrumb: [Install Supplier Case Management, Configure, Supplier Lifecycle Ope
 
 # Application plugin installation sequence in Supplier Case Management
 
-The following table provides the list of plugins for [[supplier-case-management|Supplier Case Management]], a high-level description of each plugin, and the dependencies that are required before installing each plugin.
+The following table provides the list of plugins for Supplier Case Management, a high-level description of each plugin, and the dependencies that are required before installing each plugin.
 
 **Important:** Before installing a plugin listed in the Plugin name column, ensure that you install all corresponding dependencies listed in the Plugin dependencies column from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -40,11 +40,11 @@ Plugin dependencies
 
 </td><td>
 
-[[supplier-common|Supplier Common Architecture]]\[com.snc.sn\_slm\]
+Supplier Common Architecture\[com.snc.sn\_slm\]
 
 </td><td>
 
-Provides a common architecture to track data objects related to a [[supplier|supplier]] used in both Supplier Case Management and [[supplier-central|Supplier Collaboration Portal]].
+Provides a common architecture to track data objects related to a supplier used in both Supplier Case Management and Supplier Collaboration Portal.
 
 </td><td>
 
@@ -70,7 +70,7 @@ Onboard suppliers, manage supplier relationships, monitor risk, compliance, and 
 </td><td>
 
 -   Supplier Common Architecture \(com.snc.sn\_slm\)
--   [[purch-order-mgmt-ws|Source-to-Pay Workspace]] \(com.sn\_spend\_workspace\)
+-   Source-to-Pay Workspace \(com.sn\_spend\_workspace\)
 
 </td></tr><tr><td>
 
@@ -97,7 +97,7 @@ Provides a single, one-stop experience for suppliers to get self-service, comple
 
 </td><td>
 
-[[supplier-operations|Supplier Operations]]\[com.snc.sn\_so\]
+Supplier Operations\[com.snc.sn\_so\]
 
 </td><td>
 
@@ -113,7 +113,7 @@ Document Management \(com.snc.platform\_document\_management\)
 
 </td><td>
 
-[[craft-integration|Craft.co Integration for Supplier Lifecycle Operations]]\[com.snc.sn\_supplier\_craft\]
+Craft.co Integration for Supplier Lifecycle Operations\[com.snc.sn\_supplier\_craft\]
 
 </td><td>
 
@@ -129,7 +129,7 @@ Supplier Operations\(com.snc.sn\_so\)
 
 </td><td>
 
-[[supp-news-integration|News Integration for Supplier Lifecycle Operations]]\[com.snc.sn\_supplier\_news\]
+News Integration for Supplier Lifecycle Operations\[com.snc.sn\_supplier\_news\]
 
 </td><td>
 
@@ -153,7 +153,7 @@ Provides pre-configured integration with Relish. Relish is a supplier intelligen
 
 </td><td>
 
--   [[source-to-pay-integration-framework|Source-to-pay integration framework]] \(sn\_spend\_intg\)
+-   Source-to-pay integration framework \(sn\_spend\_intg\)
 -   Relish Data Assure \(x\_reliq\_relish\_dat\)
 
 </td></tr><tr><td>
@@ -162,7 +162,7 @@ Provides pre-configured integration with Relish. Relish is a supplier intelligen
 
 </td><td>
 
-[[supplier-awa|Advanced Work Assignment for Supplier Lifecycle Operations]]\[com.snc.sn\_slm\_awa\]
+Advanced Work Assignment for Supplier Lifecycle Operations\[com.snc.sn\_slm\_awa\]
 
 </td><td>
 
@@ -170,7 +170,7 @@ Automatically assign supplier cases to agents based on availability and capacity
 
 </td><td>
 
--   [[advanced-work-assignment|Advanced Work Assignment]] \(com.glide.awa\)
+-   Advanced Work Assignment \(com.glide.awa\)
 -   Agent Chat \(com.glide.interaction.awa\)
 -   Glide Virtual Agent \(com.glide.cs.chatbot\)
 -   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
@@ -196,16 +196,3 @@ To avoid incomplete demo data and other installation issues, you should install 
 
 [Explicit Roles in Supplier Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/slo-explicit-roles-plugin.md)
 
-## Related
-
-- [[supplier-case-management|Supplier Case Management]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[supplier|Supplier]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier-operations|Supplier Operations]]
-- [[craft-integration|Craft.co Integration for Supplier Lifecycle Operations]]
-- [[supp-news-integration|News Integration for Supplier Lifecycle Operations]]
-- [[source-to-pay-integration-framework|Source-to-Pay integration framework]]
-- [[supplier-awa|Advanced Work Assignment for Supplier Lifecycle Operations]]
-- [[advanced-work-assignment|advanced work assignment]]

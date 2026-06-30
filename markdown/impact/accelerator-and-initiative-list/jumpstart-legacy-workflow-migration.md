@@ -18,7 +18,7 @@ This accelerator provides an overview and applied demonstration of Flows in Work
 
 ## Accelerator overview
 
-Jumpstart Your Workflow Automation: Flows provides [[impact-landing-page|Impact]] customers with an overview and applied demonstration of Flows in Workflow Studio. Customers learn how to build and configure automated processes using triggers, actions, and reusable sub-flows — replacing complex custom scripts with upgrade-safe, low-code automation.
+Jumpstart Your Workflow Automation: Flows provides Impact customers with an overview and applied demonstration of Flows in Workflow Studio. Customers learn how to build and configure automated processes using triggers, actions, and reusable sub-flows — replacing complex custom scripts with upgrade-safe, low-code automation.
 
 This accelerator also equips customers with key resources and leading practices to design, test, and scale workflows effectively using ServiceNow’s core actions and spoke library.
 
@@ -75,6 +75,3 @@ One or more customer resource is requested. The specific number of resources pro
 
 ServiceNow is not responsible for implementing recommendations on Customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]

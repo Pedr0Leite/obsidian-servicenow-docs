@@ -15,7 +15,7 @@ breadcrumb: [Adobe Experience Manager as a Cloud Service external content connec
 
 # Configure Adobe Experience Manager as a Cloud Service for external content indexing
 
-Create Service Credentials in Adobe Cloud Manager to allow the [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]] to access nodes and [[ia-assets|assets]] in your source system.
+Create Service Credentials in Adobe Cloud Manager to allow the Adobe Experience Manager as a Cloud Service external content connector to access nodes and assets in your source system.
 
 ## Before you begin
 
@@ -78,7 +78,3 @@ For details on creating and configuring an Adobe Experience Manager as a Cloud S
 
 **Parent Topic:**[Adobe Experience Manager as a Cloud Service external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/adobe-expmgr-cs-external-content-connector.md)
 
-## Related
-
-- [[adobe-expmgr-cs-external-content-connector|Adobe Experience Manager as a Cloud Service external content connector]]
-- [[ia-assets|Assets]]

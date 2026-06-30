@@ -18,13 +18,13 @@ Configure prioritized event optimization to enable schedule adjustments in respo
 
 ## Before you begin
 
-To set the system properties for the prioritized event mode, see [[schedule-optimization-properties|Schedule Optimization properties]].
+To set the system properties for the prioritized event mode, see [Schedule Optimization properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-properties.md).
 
 Role required: wm\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[schedule-optimization|Schedule Optimization]]** &gt; **Intraday Optimization** &gt; **Event Types**.
+1.  Navigate to **All** &gt; **Schedule Optimization** &gt; **Intraday Optimization** &gt; **Event Types**.
 
 2.  In the **Prioritized** and **Active** fields, set the values to true for the event types you want to include in immediate optimization.
 
@@ -62,7 +62,3 @@ When the selected event type occurs, optimization runs shortly after. The optimi
 
 [Configure intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md)
 
-## Related
-
-- [[schedule-optimization-properties|Schedule Optimization properties]]
-- [[schedule-optimization|Schedule Optimization]]

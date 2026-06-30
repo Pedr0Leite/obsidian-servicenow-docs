@@ -14,7 +14,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 # HTML widget
 
-Use the HTML widget to directly inject HTML, text, [[lists-configurable-workspace|lists]], or content in general into a page. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Use the HTML widget to directly inject HTML, text, lists, or content in general into a page. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 Because the HTML widget can contain content of any kind, any example may just appear as regular text. For example, the HTML widget appears as a box of text on the 404 page.
 
@@ -32,13 +32,9 @@ Because the HTML widget can contain content of any kind, any example may just ap
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[c_ServicePortal|Service Portal]]

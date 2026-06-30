@@ -22,13 +22,13 @@ The fulfilment status of your individual purchases are flagged for your quick re
 
 Your purchases are also highlighted with color coding to help you quickly understand their due dates, if any. A red badge is displayed on a purchase if:
 
--   Any of the purchasing tasks associated with the [[purchase-requisition|purchase requisition]] line or [[purchase-order-table|purchase order]] line are overdue.
--   Any of the [[milestones|milestones]] associated with the purchase order line are overdue.
--   Any of the [[receipt-tasks|receipt tasks]] associated to the parent purchase order are overdue.
+-   Any of the purchasing tasks associated with the purchase requisition line or purchase order line are overdue.
+-   Any of the milestones associated with the purchase order line are overdue.
+-   Any of the receipt tasks associated to the parent purchase order are overdue.
 
 Similarly, a yellow badge is displayed if any of the above conditions have a due date approaching in seven days. A grey badge is displayed if any of the above conditions have a due date more than seven days.
 
-You can open any purchase to view the details of the purchase and more information associated to your purchase, as applicable, such as additional quotes, [[receipts|receipts]], prepayments, and other related lists.
+You can open any purchase to view the details of the purchase and more information associated to your purchase, as applicable, such as additional quotes, receipts, prepayments, and other related lists.
 
 You can track the updates on a selected order from **Activity** &gt; **Activity and Attachments** &gt; **Activity**. You can also compose a message and tag a person you want to address, with "@&lt;primary contact name&gt;", in the **Add Comment** field.
 
@@ -39,10 +39,10 @@ You also have the option to view and upload attachments associated with a purcha
 You can filter your orders by:
 
 -   **Open**:
-    -   All [[purchase-lines|purchase lines]] that are not in the state Closed Rejected, Closed Canceled, Closed Complete, or Closed No Decision, and the parent [[sourcing-request|sourcing request]], negotiation, or purchase requisition not in any of the respective closed states.
+    -   All purchase lines that are not in the state Closed Rejected, Closed Canceled, Closed Complete, or Closed No Decision, and the parent sourcing request, negotiation, or purchase requisition not in any of the respective closed states.
     -   This is the default option.
 -   **Closed**:
-    -   All [[purchase-order-lines|purchase order lines]] that are in the state Closed Complete, Closed Paid, or Closed Canceled.
+    -   All purchase order lines that are in the state Closed Complete, Closed Paid, or Closed Canceled.
     -   All purchase lines that are in the state Closed Rejected, Closed Canceled, Closed Complete, or Closed No Decision.
     -   Where a purchase order line exists, the corresponding purchase line is not visible.
 -   **All**: All the orders, irrespective of their state. Where a purchase order line exists, the corresponding purchase line is not visible.
@@ -54,13 +54,3 @@ You can filter your orders by:
 
 [View and revise your purchase from your mobile device](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/view-revise-purchase-mobile.md)
 
-## Related
-
-- [[purchase-requisition|Purchase requisition]]
-- [[purchase-order-table|Purchase order]]
-- [[milestones|Milestones]]
-- [[receipt-tasks|Receipt tasks]]
-- [[receipts|Receipts]]
-- [[purchase-lines|Purchase lines]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-order-lines|Purchase order lines]]

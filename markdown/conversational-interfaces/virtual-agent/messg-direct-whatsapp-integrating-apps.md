@@ -14,18 +14,13 @@ breadcrumb: [Configure, Conversational Integration with WhatsApp \(WhatsApp Clou
 
 # Integrating the WhatsApp messaging app with other applications
 
-Other ServiceNow applications and features can use the [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]] application.
+Other ServiceNow applications and features can use the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application.
 
 As a live agent, when you accept a request from the WhatsApp service channel, you can converse with the requester within the same channel.
 
 ## Integrating with Customer Service Management
 
-Integrate the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application with the ServiceNow® Customer Service [[management|Management]] application to enable your customer contacts and consumers to initiate a WhatsApp chat conversation with a [[virtual-agent-landing-page|Virtual Agent]] or live agent. An agent can initiate a conversation, or accept a conversation initiated from a WhatsApp chat conversation. For more information, see .
+Integrate the Conversational Integration with WhatsApp \(WhatsApp Cloud API\) application with the ServiceNow® Customer Service Management application to enable your customer contacts and consumers to initiate a WhatsApp chat conversation with a Virtual Agent or live agent. An agent can initiate a conversation, or accept a conversation initiated from a WhatsApp chat conversation. For more information, see .
 
 **Parent Topic:**[Configure Conversational Integration with WhatsApp \(WhatsApp Cloud API\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/messg-direct-whatsapp-configure.md)
 
-## Related
-
-- [[messg-direct-whatsapp|Conversational Integration with WhatsApp \(WhatsApp Cloud API\)]]
-- [[management|Management]]
-- [[virtual-agent-landing-page|Virtual Agent]]

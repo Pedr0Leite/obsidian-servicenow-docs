@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Configure Microsoft Outlook integration
 
-Set up Microsoft Outlook to integrate meeting invites from [[hiring-experiences-landing|Hiring Experiences]] with your Outlook account.
+Set up Microsoft Outlook to integrate meeting invites from Hiring Experiences with your Outlook account.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ Role required: admin
 
 **Parent Topic:**[Integrations for Hiring Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-with-talent-acquisition.md)
 
-## Related
-
-- [[hiring-experiences-landing|Hiring Experiences]]

@@ -12,7 +12,7 @@ breadcrumb: [Configuring product offerings and catalogs, Lead-to-cash foundation
 
 # Minor changes to published product offerings and specifications
 
-As a product catalog admin, you can make minor changes to certain [[fields|fields]] in published versions of a product offering or specification, without creating another version. Minor changes include updates such as modifying the product offering display name, description, or product image.
+As a product catalog admin, you can make minor changes to certain fields in published versions of a product offering or specification, without creating another version. Minor changes include updates such as modifying the product offering display name, description, or product image.
 
 **Note:** If you want to change fields other than the fields listed in the following sections, those changes are considered major updates. You must generate a new version of the product offering or specification.
 
@@ -20,11 +20,11 @@ As a product catalog admin, you can make minor changes to certain [[fields|field
 
 The following sections describe the minor changes that  you can  make to published versions of product offerings  and specifications.  When you save your changes, the entities  are  immediately  updated.
 
-If  you’re  using the  [[explore-servicenowcpq|CPQ Configurator]], minor changes are handled  as  follows: 
+If  you’re  using the  CPQ Configurator, minor changes are handled  as  follows: 
 
 -   Minor changes to simple products are synchronized automatically.
--   Minor  changes  to  [[configurable-products-explore|configurable products]]  require synchronization.  In the  CSM Configurable Workspace, the  **Save**  and  **Update Configuration ** buttons  are displayed  when you make  minor  changes to  a  product offering.  Selecting   **Update  Configuration ** synchronizes  the configurable  product  offering  with  its  corresponding blueprint.
--   If any [[blueprints|blueprints]]  have a  reference  to a  simple or configurable product  with  minor  changes, you must  synchronize  those blueprints. 
+-   Minor  changes  to  configurable products  require synchronization.  In the  CSM Configurable Workspace, the  **Save**  and  **Update Configuration ** buttons  are displayed  when you make  minor  changes to  a  product offering.  Selecting   **Update  Configuration ** synchronizes  the configurable  product  offering  with  its  corresponding blueprint.
+-   If any blueprints  have a  reference  to a  simple or configurable product  with  minor  changes, you must  synchronize  those blueprints. 
 
 ## Make minor updates to published product offerings
 
@@ -54,7 +54,7 @@ Product offering
 -   Display name
 -   Description
 -   Sellable
--   Allow [[multiple-child-offering-configurations|multiple configurations]]:  Change the setting from unselected to selected \(true\). 
+-   Allow multiple configurations:  Change the setting from unselected to selected \(true\). 
 
 
 </td></tr><tr><td>
@@ -188,16 +188,7 @@ Order
 **Related topics**  
 
 
-[[using-product-catalog|Using product catalogs]]
+[Using product catalogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-product-catalog.md)
 
-[[product-catalog-managment|Product Catalog Management]]
+[Product Catalog Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/product-catalog-managment.md)
 
-## Related
-
-- [[using-product-catalog|Using product catalogs]]
-- [[product-catalog-managment|Product Catalog Management]]
-- [[fields|Fields]]
-- [[explore-servicenowcpq|CPQ Configurator]]
-- [[configurable-products-explore|Configurable products]]
-- [[blueprints|Blueprints]]
-- [[multiple-child-offering-configurations|Multiple configurations]]

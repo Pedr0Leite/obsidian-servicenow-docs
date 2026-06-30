@@ -10,7 +10,7 @@ reading_time_minutes: 1
 
 # Integrations for Journey designer app
 
-Extend the [[jny-dsgnr-landing-page-1|Journey designer]] application's capabilities by integrating other applications into the journey experience.
+Extend the Journey designer application's capabilities by integrating other applications into the journey experience.
 
 Integrating supported applications expands the features and capabilities of Journey designer. Supported applications have unique installation and configuration requirements. Supported integration applications can be installed before or after installing the Journey designer app.
 
@@ -22,17 +22,11 @@ Integrating supported applications expands the features and capabilities of Jour
 
 
 -   **[Integrating Manager Hub with Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsngr-manager-hub-intgr.md)**  
-[[integrate-mh-jc|Integrate Manager Hub]] with Journey designer to facilitate daily activities among various cross-functional processes and departments, and automate processes such as new hire onboarding.
+Integrate Manager Hub with Journey designer to facilitate daily activities among various cross-functional processes and departments, and automate processes such as new hire onboarding.
 -   **[Integrating Microsoft Exchange Online spoke with Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-ms-exch-ol-spoke-intg.md)**  
-The Microsoft Exchange Online spoke integration with Journey designer is achieved with [[journey-accelerator-1|Journey Accelerator]].
+The Microsoft Exchange Online spoke integration with Journey designer is achieved with Journey Accelerator.
 -   **[Integrating HR Service Delivery Virtual Agent Conversations app with Journey designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-dsgnr-virtual-agent.md)**  
-Install the [[hr-service-delivery|HR Service Delivery]] Virtual Agent Conversations app to enable Journey designer to send actionable notifications as nudges to employees and managers on configured communications channels.
+Install the HR Service Delivery Virtual Agent Conversations app to enable Journey designer to send actionable notifications as nudges to employees and managers on configured communications channels.
 
 **Parent Topic:**[Journey designer]()
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[integrate-mh-jc|Integrate Manager Hub]]
-- [[journey-accelerator-1|Journey Accelerator]]
-- [[hr-service-delivery|HR Service Delivery]]

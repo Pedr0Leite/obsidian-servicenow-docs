@@ -14,7 +14,7 @@ breadcrumb: [Action Management, Industrial Workflows, Use, Digital Factory Works
 
 # Create an action
 
-Create an action in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create an action in the Digital Factory Workspace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_icw.action\_user or sn\_icw.action\_expert
 
     \[Omitted image "create-new-action.png"\] Alt text: New action button highlighted on the home page.
 
-2.  On the [[action-form|Action form]], fill in the fields.
+2.  On the Action form, fill in the fields.
 
     For a description of the field values, see [Action form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/action-form.md).
 
@@ -41,7 +41,3 @@ The new action is displayed in the action list and the list of all tasks.
 
 **Parent Topic:**[Action Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-action-management.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[action-form|Action form]]

@@ -14,7 +14,7 @@ breadcrumb: [CI deletion strategies for pattern discovery, Advanced Discovery co
 
 # Set a deletion strategy
 
-Set a deletion strategy when you want to take action on a related configuration item \(CI\) that [[r-discovery|Discovery]] can no longer find through pattern discovery. You can delete the main CI only when it is an Application or Cloud Resource pattern type.
+Set a deletion strategy when you want to take action on a related configuration item \(CI\) that Discovery can no longer find through pattern discovery. You can delete the main CI only when it is an Application or Cloud Resource pattern type.
 
 ## Before you begin
 
@@ -93,6 +93,3 @@ Marks the **Status** \[install\_status\] field of the configuration file CI reco
 </table>
 **Parent Topic:**[CI deletion strategies for pattern discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/deletion-strategy.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

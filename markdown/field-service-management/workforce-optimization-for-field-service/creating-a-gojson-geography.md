@@ -28,7 +28,7 @@ Role required: sn\_fsm\_tp.fsm\_territory\_planner, sn\_fsm\_tp.territory\_manag
 
 Use GeoJSON geography type to accommodate scenarios where detailed geo-spatial information is available externally, enabling organizations to incorporate diverse geographic datasets into the planning processes.
 
-**Note:** For effective task assignments using [[schedule-optimization|Schedule Optimization]], it is recommended to use consistent shapes \(like polygons or circles\) and avoid overlapping or intersecting geographies to ensure accurate results.
+**Note:** For effective task assignments using Schedule Optimization, it is recommended to use consistent shapes \(like polygons or circles\) and avoid overlapping or intersecting geographies to ensure accurate results.
 
 ### Procedure
 
@@ -108,6 +108,3 @@ After creating a GeoJSON geography, connect it to a territory for work order man
 
 Link the geography to a territory. For more information, see [Create a Field Service territory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/create-territories-territory-planning-console.md).
 
-## Related
-
-- [[schedule-optimization|Schedule Optimization]]

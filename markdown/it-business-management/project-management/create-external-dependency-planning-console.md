@@ -26,7 +26,7 @@ Role required: it\_project\_manager
 
 2.  Select **Add External Dependency**.
 
-3.  On the Add [[dependency-form-portfolio-planning|dependency form]], fill in the following fields:
+3.  On the Add dependency form, fill in the following fields:
 
     -   Project: The predecessor project that the dependency is added from.
     -   Task: The task in the predecessor project that the dependency is added from.
@@ -40,7 +40,7 @@ Role required: it\_project\_manager
 
     A shadow task is shown as a grayed out task in WBS column.
 
--   A shadow task corresponding to the predecessor task appears in the **[[t_CreateAProjectTask|Project Tasks]]** related list on the successor [[create-a-project-form|project form]]. A similar shadow task for the successor task appears in the **Project Tasks** related list on the predecessor project form.
+-   A shadow task corresponding to the predecessor task appears in the **Project Tasks** related list on the successor project form. A similar shadow task for the successor task appears in the **Project Tasks** related list on the predecessor project form.
 -   The **Dependency** column in WBS column of the planning console of the successor project shows the external dependency value between the projects and tasks. The external dependency value has the following format:
 
     `{project_number}\{WBS_number}{dependency_type}+{lag_time}`
@@ -66,8 +66,3 @@ Check for any external dependency related [notifications](https://raw.githubuser
 
 **Parent Topic:**[Create a dependency from the planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/t_CreateADependency.md)
 
-## Related
-
-- [[dependency-form-portfolio-planning|Dependency form]]
-- [[t_CreateAProjectTask|Project tasks]]
-- [[create-a-project-form|Project form]]

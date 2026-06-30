@@ -29,7 +29,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_config, sn\_cm\_contract\_config
 
 3.  On the tile of your activated skill that you want to modify, select **Edit** in the options menu \(\[Omitted image "cmpro-na-three-dot-icon.png"\] Alt text: Options menu icon.\).
 
-    \[Omitted image "cmpro-na-active-skills.png"\] Alt text: Active skills in [[cncore-cmpro-landing-page|Contract management pro]].
+    \[Omitted image "cmpro-na-active-skills.png"\] Alt text: Active skills in Contract management pro.
 
 4.  In the skill guided setup, select **Use cases**.
 
@@ -85,6 +85,3 @@ Now Assist applies the updated use case for contract analysis or metadata extrac
 
 [Select large language models for use cases in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-na-manage-llm.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

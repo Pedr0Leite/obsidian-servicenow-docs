@@ -20,11 +20,11 @@ Role required: sn\_customerservice\_agent
 
 ## About this task
 
-Default values in email templates can include the recipients \(email addresses in the To, Cc, and Bcc fields\), the sender, the subject of the email, and text to include in the message body. For more information, see [[csm-default-record-page|Email templates feature]].
+Default values in email templates can include the recipients \(email addresses in the To, Cc, and Bcc fields\), the sender, the subject of the email, and text to include in the message body. For more information, see [Email templates feature](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md).
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a case.
 
@@ -48,7 +48,4 @@ Default values in email templates can include the recipients \(email addresses i
 
     The system stores draft emails in the Draft Emails tab on the case record.
 
-## Related
 
-- [[csm-default-record-page|CSM default record page]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

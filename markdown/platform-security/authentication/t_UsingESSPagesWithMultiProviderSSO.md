@@ -14,7 +14,7 @@ breadcrumb: [Multi-Provider SSO configurations, Multi-Provider single sign-on \(
 
 # Use Service Portal with Multi-Provider SSO to redirect a URL
 
-Service Portal uses a combination of [[ca-system-properties|system properties]] and script includes to determine how the system handles URL redirects for [[users|users]] logging in to the portal.
+Service Portal uses a combination of system properties and script includes to determine how the system handles URL redirects for users logging in to the portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sso\_config\_admin, business\_rule\_admin, script\_include\_admin
 
 ## About this task
 
-If you are using the system property to automatically redirect to your primary [[identity-landing|Identity]] Provider \(IdP\), then Service Portal automatically redirects to that IdP. If you have multiple IdPs, Service Portal shows a link on the login page to **Use external login**.
+If you are using the system property to automatically redirect to your primary Identity Provider \(IdP\), then Service Portal automatically redirects to that IdP. If you have multiple IdPs, Service Portal shows a link on the login page to **Use external login**.
 
 ## Procedure
 
@@ -30,8 +30,4 @@ If you are using the system property to automatically redirect to your primary [
 
 2.  [Redirect to Service Portal after login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_SPSSOLoginAndRedirects.md)
 
-## Related
 
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[identity-landing|Identity]]

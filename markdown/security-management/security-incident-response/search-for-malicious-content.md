@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks - AutoFocus integration, Security Incident Respo
 
 # Get AutoFocus Session Info Enrichment Flow
 
-When the **[[security-operations-landing-page|Security Operations]] Palo Alto Networks- Get AutoFocus Session Info Enrichment** flow is executed, it queues a search query with AutoFocus for gathering information about a specified source IP. If AutoFocus has knowledge about previous sessions originating from that IP address, a JSON-formatted report is returned.
+When the **Security Operations Palo Alto Networks- Get AutoFocus Session Info Enrichment** flow is executed, it queues a search query with AutoFocus for gathering information about a specified source IP. If AutoFocus has knowledge about previous sessions originating from that IP address, a JSON-formatted report is returned.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ The **Security Operations Palo Alto Networks- Get AutoFocus Session Info Enrichm
 
 1.  Navigate to **All** &gt; **Security Incident** &gt; **Show Open Incidents**.
 
-2.  Select the **[[c_IoCs|Indicators of Compromise]]** tab and populate the **Source IP** field.
+2.  Select the **Indicators of Compromise** tab and populate the **Source IP** field.
 
 3.  Select **Update**.
 
     AutoFocus scans the information from the IP address and a text file in JSON format is attached to the security incident.
 
-    Actions specific to this integration are described here. For more information on other actions, see [[common-wf-activities|Common Security Operations integration flows and orchestration activities]].
+    Actions specific to this integration are described here. For more information on other actions, see [Common Security Operations integration flows and orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/common-wf-activities.md).
 
 
 ## AutoFocus Search Session action
@@ -76,8 +76,3 @@ The output variables contain data that can be used in subsequent actions.
 |status \[Boolean\]|True if the search is completed and results have been successfully generated.|
 |error \[string\]|The error, if any, that occurred in the action.|
 
-## Related
-
-- [[common-wf-activities|Common Security Operations integration flows and orchestration activities]]
-- [[security-operations-landing-page|Security Operations]]
-- [[c_IoCs|Indicators of compromise]]

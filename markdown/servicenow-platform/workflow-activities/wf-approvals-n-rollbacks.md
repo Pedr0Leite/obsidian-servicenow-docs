@@ -14,7 +14,7 @@ breadcrumb: [Workflow activities, Classic Workflow, ServiceNow AI Platform Addit
 
 # Using workflow approval activities and rolling back workflows
 
-When you work with approvals, you need to understand how approval activities interact with [[c_ApprovalEngines|approval engines]], how to correct a skipped approval workflow activity, and how rollbacks work.
+When you work with approvals, you need to understand how approval activities interact with approval engines, how to correct a skipped approval workflow activity, and how rollbacks work.
 
 **Related topics**  
 
@@ -71,7 +71,7 @@ To correct a missed approval activity:
 
     -   Verify that after approval, the workflow progressed to the next activity. If a workflow failed to progress, check the business rules. For more information, see [Debugging business rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/scripts/r_DebuggingBusinessRules.md).
     -   Point to each processed approval activity to find activities where the **State** is **Finished** and **Result** is **Skipped**.
-5.  Navigate to **Workflow** &gt; **[[workflow-editor|Workflow Editor]]** and open the workflow.
+5.  Navigate to **Workflow** &gt; **Workflow Editor** and open the workflow.
 
 6.  Double-click the skipped approval activity.
 
@@ -79,7 +79,4 @@ To correct a missed approval activity:
 
 8.  Assign an active user or group for the approval activity. For more information, see [Workflow error handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/legacy-workflow/c_WorkflowErrorHandling.md).
 
-## Related
 
-- [[c_ApprovalEngines|Approval engines]]
-- [[workflow-editor|Workflow editor]]

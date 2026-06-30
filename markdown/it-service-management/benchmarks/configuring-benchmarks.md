@@ -14,12 +14,7 @@ breadcrumb: [Benchmarks, IT Service Management]
 
 # Configuring Benchmarks
 
-[[t_EnableBench-cf|Enable Benchmarks]] for ITSM and configure the [[settings-mobile|settings]] to track the [[benchmarks-landing|Benchmarks]] KPI and the trends.
+Enable Benchmarks for ITSM and configure the settings to track the Benchmarks KPI and the trends.
 
 You must opt in to Benchmarks to participate in Benchmarks data collection. However, you can opt out at any time.
 
-## Related
-
-- [[t_EnableBench-cf|Enable Benchmarks]]
-- [[settings-mobile|Settings]]
-- [[benchmarks-landing|Benchmarks]]

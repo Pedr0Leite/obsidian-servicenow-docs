@@ -14,7 +14,7 @@ breadcrumb: [Manage Health and Safety incident using the Mobile Agent app, Mobil
 
 # Create or modify injury and illness record of a safety incident on the Mobile Agent app
 
-Log an injury or illness that resulted from a [[health-safety-overview|health and safety]] incident for each person affected during the incident on the Mobile Agent app.
+Log an injury or illness that resulted from a health and safety incident for each person affected during the incident on the Mobile Agent app.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Role required: sn\_ohs\_im.manager, sn\_ohs\_im.agent
 
 2.  In the navigation bar, tap **Home**.
 
-3.  Tap the **Safety incidents** icon \(\[Omitted image "casemgmt-templateicon.png"\] Alt text: safety incident icon\) from the [[emp-center-quick-link-config|quick links]] section.
+3.  Tap the **Safety incidents** icon \(\[Omitted image "casemgmt-templateicon.png"\] Alt text: safety incident icon\) from the quick links section.
 
 4.  Open a safety incident record.
 
@@ -66,7 +66,7 @@ Severity
 
 Seriousness of the injury-   None- No injury present.
 -   Minor- Mild injury that needs minimal or no treatment.
--   Moderate- Noticeable injury such as deep cuts, moderate sprain, minor fracture that may limit [[activity-lxp|activity]] temporarily. Medical intervention may be required but not life threatening.
+-   Moderate- Noticeable injury such as deep cuts, moderate sprain, minor fracture that may limit activity temporarily. Medical intervention may be required but not life threatening.
 -   Severe- Serious injury such as major fractures, head trauma, deep lacerations that impacts function or is potentially life-threatening. Requires urgent medical intervention.
 
 
@@ -100,8 +100,3 @@ Detailed description of the injury or illness.
 
 **Parent Topic:**[Manage Health and Safety incident using the Mobile Agent app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety/hs-manage-safety-incident-mobile-agent.md)
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[emp-center-quick-link-config|Quick links]]
-- [[activity-lxp|Activity]]

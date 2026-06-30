@@ -14,7 +14,7 @@ breadcrumb: [ACC deployment - shared between servers and endpoints, Configuring 
 
 # Agent Client Collector health instance scan suite
 
-The [[acc-landing-page|Agent Client Collector]] \(ACC\) health instance scan suite consists of checks that detect anomalies and other issues that might occur on your instance. These checks ensure the overall health and performance of the ACC, proactively identifying potential problems before they impact system operations.
+The Agent Client Collector \(ACC\) health instance scan suite consists of checks that detect anomalies and other issues that might occur on your instance. These checks ensure the overall health and performance of the ACC, proactively identifying potential problems before they impact system operations.
 
 For details on running the ACC health instance scan, see [Run the Agent Client Collector \(ACC\) health instance scan as a scheduled job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-instance-scan-run.md).
 
@@ -27,6 +27,3 @@ Run the **Run \(ACC\) health instance scan** scheduled job to monitor the overal
 
 **Parent Topic:**[Deploying Agent Client Collector on both servers and endpoints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-shared-deployment.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

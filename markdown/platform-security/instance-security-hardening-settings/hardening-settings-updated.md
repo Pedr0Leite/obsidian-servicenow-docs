@@ -17,7 +17,7 @@ breadcrumb: [Baseline versions, Hardening settings, Platform Security]
 Updated hardening settings are broken out for each baseline release.
 
 -   **[Updated hardening settings for baseline version 8.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/updated-hardening-settings-for-baseline-version-eight.md)**  
-Some [[security-hardening-settings|hardening settings]] have been updated with the release of [[sec-center-v2|Security Center]] baseline version 8.0.
+Some hardening settings have been updated with the release of Security Center baseline version 8.0.
 -   **[Updated hardening settings for baseline version 7.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/updated-hardening-settings-for-baseline-version-seven.md)**  
 Some hardening settings have been updated with the release of Security Center baseline version 7.0.
 -   **[Updated hardening settings for baseline version 6.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/updated-hardening-settings-for-baseline-version-six.md)**  
@@ -31,7 +31,3 @@ Some hardening settings have been updated with the release of Security Center ba
 
 **Parent Topic:**[Hardening settings baseline versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-baseline.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]

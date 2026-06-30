@@ -14,7 +14,7 @@ breadcrumb: [Create an assessment template, Use template designer, Manage, Smart
 
 # Add reference information to an assessment template
 
-Add reference information to an assessment template to help ensure that assessors can access to the information they need while [[sae-respond-to-asmnt|responding to assessments]] by using the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]. With an assessment template, you can minimize the need for external references and can improve the efficiency of the assessment process.
+Add reference information to an assessment template to help ensure that assessors can access to the information they need while responding to assessments by using the Smart Assessment Engine. With an assessment template, you can minimize the need for external references and can improve the efficiency of the assessment process.
 
 ## Before you begin
 
@@ -47,7 +47,4 @@ Role required: sn\_smart\_asmt.template\_manager or sn\_smart\_asmt.assessment\_
 
 6.  Select **Add** and then **Save**.
 
-## Related
 
-- [[sae-respond-to-asmnt|Responding to assessments]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

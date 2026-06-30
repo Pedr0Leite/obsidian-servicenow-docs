@@ -14,7 +14,7 @@ breadcrumb: [Shopper to-dos, Using Shopping Hub, Use, Sourcing and Procurement O
 
 # Complete a form from Shopping Hub Home
 
-Fill in a form that your procurement specialist has sent to you, and submit it directly from [[shopping-hub-overview|Shopping Hub]] Home. This action is listed as a task under **My to-dos**.
+Fill in a form that your procurement specialist has sent to you, and submit it directly from Shopping Hub Home. This action is listed as a task under **My to-dos**.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: sn\_shop.shopper
 
 **Parent Topic:**[Shopper to-dos](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/shopper-todos.md)
 
-## Related
-
-- [[shopping-hub-overview|Shopping Hub]]

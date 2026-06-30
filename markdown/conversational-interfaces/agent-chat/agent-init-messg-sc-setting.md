@@ -14,7 +14,7 @@ breadcrumb: [Configure Agent-Initiated Messaging Interface, Configure, Agent Cha
 
 # Messaging channels for Agent-Initiated Messaging Interface
 
-Install and configure applications to enable a messaging channel for use with the [[agent-init-messg-interface|Agent-Initiated Messaging Interface]] application.
+Install and configure applications to enable a messaging channel for use with the Agent-Initiated Messaging Interface application.
 
 The following table describes the messaging channels available for use with the Agent-Initiated Messaging Interface application and applications required for using those messaging channels.
 
@@ -36,13 +36,8 @@ SMS
 -   Twilio spoke
 -   [Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/sms-twilio-store-app.md)
 
- **Note:** The [[sms-twilio-store-app|Conversational SMS Integration with Twilio]] application installs the [[conversation-sms-service-channel-store-app|Conversational SMS service channel]] and Twilio spoke applications, if not already installed.
+ **Note:** The Conversational SMS Integration with Twilio application installs the Conversational SMS service channel and Twilio spoke applications, if not already installed.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Configuring Agent-Initiated Messaging Interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/agent-chat/config-agent-init-messg-interface.md)
 
-## Related
-
-- [[agent-init-messg-interface|Agent-Initiated Messaging Interface]]
-- [[sms-twilio-store-app|Conversational SMS Integration with Twilio]]
-- [[conversation-sms-service-channel-store-app|Conversational SMS service channel]]

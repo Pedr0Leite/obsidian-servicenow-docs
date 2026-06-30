@@ -16,13 +16,13 @@ The CSM voice interaction record page provides a component that customers can us
 
 \[Omitted image "voice-interaction-record-page.png"\] Alt text: CSM voice interaction record page with the Interaction Controls Component and Customer History component displayed in the side panel.
 
-The CSM voice interaction record page enables CCaaS providers to display native voice integrations in [[csm-workspaces-configure|CSM Configurable Workspace]]. Using CCaaS call controls integrated in the page, agents can do the following:
+The CSM voice interaction record page enables CCaaS providers to display native voice integrations in CSM Configurable Workspace. Using CCaaS call controls integrated in the page, agents can do the following:
 
 -   Accept calls directly from the agent inbox.
 -   Manage call transfers and conferences.
 -   Place calls on hold and on mute.
 
-For more information about the integration with CCaaS providers, see [[contact-center-integration-with-icc|Interaction Controls Component]] and [OpenFrame configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md).
+For more information about the integration with CCaaS providers, see [Interaction Controls Component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/contact-center-integration-with-icc.md) and [OpenFrame configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-native-voice-record-page.md).
 
 ## Page structure
 
@@ -85,7 +85,7 @@ Active
 
 </td><td>
 
-Enabling the **Active** check box makes the page variant available to the selected audience. The CSM voice interaction record page variant is inactive by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [[config-csm-ws-set-record-page-order|Set record page order]].
+Enabling the **Active** check box makes the page variant available to the selected audience. The CSM voice interaction record page variant is inactive by default.The active setting combined with the page order determines the page that CSM Configurable Workspace uses to display record information. For more information, see [Set record page order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-csm-ws-set-record-page-order.md).
 
 </td></tr><tr><td>
 
@@ -176,7 +176,7 @@ The Interaction Controls Component enables CCaaS providers to display native voi
 
 </td></tr><tr><td>
 
-[[csm-record-page-lookup-component|Contact or consumer lookup component]]
+[Contact or consumer lookup component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-record-page-lookup-component.md)
 
 </td><td>
 
@@ -209,19 +209,19 @@ The interaction details include information about the interaction including the 
 
 </td><td>
 
-The contextual side panel component includes different tools that agents can use to research and resolve customer issues. The contextual side panel in the CSM voice interaction record page includes the following tabs.-   [[configure-nba|Recommended Actions]] search
--   Related [[migration-lists|Lists]]
+The contextual side panel component includes different tools that agents can use to research and resolve customer issues. The contextual side panel in the CSM voice interaction record page includes the following tabs.-   Recommended Actions search
+-   Related Lists
 -   Attachments
 -   Form Templates
 -   Collaborate
 
 </td></tr><tr><td>
 
-[[csm-front-line-case-page-modeless-dialogs|Thin compose modeless dialogs]]
+[Thin compose modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md)
 
 </td><td>
 
-Enable agents to initiate a work note or email in the [[csm-config-ws-activity-stream|activity stream]] and then open the text in a modeless dialog.**Note:** For the CSM voice interaction record page, the thin compose modeless dialogs feature is hidden by default and can be enabled by the administrator.
+Enable agents to initiate a work note or email in the activity stream and then open the text in a modeless dialog.**Note:** For the CSM voice interaction record page, the thin compose modeless dialogs feature is hidden by default and can be enabled by the administrator.
 
 </td></tr></tbody>
 </table>## Interaction Controls Component \(ICC\)
@@ -256,7 +256,7 @@ The callback actions component contains:
 -   Call number button: Enables you to call the number in the drop-down.
 -   Retry call: Enables you to redial the customer number when the customer doesn’t answer the call.
 -   Close the callback button: Enables you to wrap up callback interactions.
--   Enables you to transfer an ASAP or Scheduled callback to another queue or agent before the call to the customer begins. For more information, see [[ccaas-address-callback-requests|Manage a CCaaS callback request in the Configurable Workspace]].
+-   Enables you to transfer an ASAP or Scheduled callback to another queue or agent before the call to the customer begins. For more information, see [Manage a CCaaS callback request in the Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ccaas-address-callback-requests.md).
 
 \[Omitted image "Tranfer\_callback\_button.png"\] Alt text: The CCaaS callback actions component displays a callback number drop-down, timer, and Transfer callback, call number, and close callback buttons.
 
@@ -297,13 +297,13 @@ In UI Builder, the callback context card is configured to use the [Lookup compon
 
 For more information about the callback feature, see the following topics:
 
--   [[configure-omni-callback|Configuring Omnichannel Callback for Customer Service Management]]
--   [[csm-omnichannel-callback|Using Omnichannel Callback for Customer Service Management]]
--   [[callback-customer|Address a callback request from a customer]]
+-   [Configuring Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-omni-callback.md)
+-   [Using Omnichannel Callback for Customer Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-omnichannel-callback.md)
+-   [Address a callback request from a customer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/callback-customer.md)
 
 ## Customer History component
 
-The Customer History component appears below the Interaction Controls Component in the left panel. This component is included with the [[customer-central|Customer Central]] plugin, which is activated as part of the CSM Configurable Workspace application.
+The Customer History component appears below the Interaction Controls Component in the left panel. This component is included with the [Customer Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-central.md) plugin, which is activated as part of the CSM Configurable Workspace application.
 
 The Customer History component includes the **Customer** tab. This tab displays customer, consumer, or account history information, depending on the customer information provided on the interaction record. This tab also includes a search field, filter, and date range selector that agents can use to find specific information in the history.
 
@@ -371,7 +371,7 @@ The action bar component contains the actions available to users while working o
     -   **Discuss**: Opens a pop-up window to start a Sidebar discussion.
     -   **Associate Record**: Opens a new record in a subtab that the agent can use to link a record to the current interaction. This new record is displayed in the Related Tasks related list.
 
-The CSM voice interaction record page supports actions from the following [[c_CustomerServiceManagement|Customer Service Management]] and CSM Configurable Workspace plugins:
+The CSM voice interaction record page supports actions from the following Customer Service Management and CSM Configurable Workspace plugins:
 
 -   Customer Service \(com.sn\_customerservice\)
 -   CSM/FSM Configurable WS Foundation \(com.snc.uib.cwf\_workspace\)
@@ -383,7 +383,7 @@ The CSM voice interaction record page supports actions from the following [[c_Cu
 -   Time Recording for Customer Service \(com.snc.csm\_time\_recording\)
 -   Omni-Experience Standard Feature Set
 
-If you’re using any additional plugins, you must add the actions from those plugins to the CSM voice interaction record page action bar. For more information, see the configuration steps in this topic: [[config-front-line-case-page-action-bar|Configure the Front-line case page action bar]].
+If you’re using any additional plugins, you must add the actions from those plugins to the CSM voice interaction record page action bar. For more information, see the configuration steps in this topic: [Configure the Front-line case page action bar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/config-front-line-case-page-action-bar.md).
 
 ## Contextual side panel component
 
@@ -405,7 +405,7 @@ Recommended Actions
 
 The Recommended Actions tab is now available as the first tab in the contextual side panel and is enabled for Pro customers. It includes a set of base system recommendations, such as similar incidents and similar open incidents.
 
-The Recommended Actions tab includes [[ra-csm-ai-search|AI search]] functionality and suggested actions. Agents can use AI search to find relevant resources or resolutions for customer issues.The search feature displays an initial set of search results based on the text in the interaction short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search.
+The Recommended Actions tab includes [AI search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-ai-search.md) functionality and suggested actions. Agents can use AI search to find relevant resources or resolutions for customer issues.The search feature displays an initial set of search results based on the text in the interaction short description. This initial set of results includes knowledge articles. Agents can also enter different search keywords and repeat the search.
 
 From the list of search results, agents can select a source to see search results of that type.
 
@@ -416,9 +416,9 @@ Depending on the source type, agents can do the following:
 -   Mark an article as helpful.
 -   Order a catalog item.
 
-For more information, see [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]].
+For more information, see [Use AI search in Recommended Actions to resolve cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba-use-ai-search.md).
 
-**Note:** Using Recommended Actions in the contextual side panel requires the [[nba|Recommended Actions]] application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
+**Note:** Using Recommended Actions in the contextual side panel requires the [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/nba.md) application \(sn\_cs\_nb\_action\) which is included with the CSM Configurable Workspace application.
 
 </td></tr><tr><td>
 
@@ -458,7 +458,7 @@ Collaborate
 
 </td><td>
 
-The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. For more information, see [[csm-config-ws-collaborate-component|Collaborate component]].
+The Collaborate component enables agents to communicate with stakeholders and other users and gather information for case resolution. For more information, see [Collaborate component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-ws-collaborate-component.md).
 
 </td></tr></tbody>
 </table>## OpenFrame configuration
@@ -486,33 +486,10 @@ When the following conditions are met, the agent sees the CSM voice interaction 
 -   The **Enable interaction controls** field on the OpenFrame Configuration record is enabled.
 -   The agent belongs to the **User Group** selected on the OpenFrame Configuration record.
 
-The agent can switch between phone interactions and chat interactions. If an interaction is of type chat, the agent sees the [[csm-default-record-page|CSM default record page]].
+The agent can switch between phone interactions and chat interactions. If an interaction is of type chat, the agent sees the CSM default record page.
 
 **Related topics**  
 
 
-[[handle-ccaas-callback-gvc|Manage a CCaaS callback request using Global Voice Control]]
+[Manage a CCaaS callback request using Global Voice Control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/handle-ccaas-callback-gvc.md)
 
-## Related
-
-- [[contact-center-integration-with-icc|Interaction Controls Component \(ICC\) for voice calls]]
-- [[config-csm-ws-set-record-page-order|Set record page order]]
-- [[csm-record-page-lookup-component|Lookup component]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[ccaas-address-callback-requests|Manage a CCaaS callback request in the Configurable Workspace]]
-- [[configure-omni-callback|Configuring Omnichannel Callback for Customer Service Management]]
-- [[csm-omnichannel-callback|Using Omnichannel Callback for Customer Service Management]]
-- [[callback-customer|Address a callback request from a customer]]
-- [[customer-central|Customer Central]]
-- [[config-front-line-case-page-action-bar|Configure the Front-line case page action bar]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[nba-use-ai-search|Use AI search in Recommended Actions to resolve cases]]
-- [[nba|Configuring Recommended Actions]]
-- [[csm-config-ws-collaborate-component|Collaborate component]]
-- [[handle-ccaas-callback-gvc|Manage a CCaaS callback request using Global Voice Control]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]
-- [[migration-lists|Lists]]
-- [[csm-config-ws-activity-stream|Activity stream]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[csm-default-record-page|CSM default record page]]

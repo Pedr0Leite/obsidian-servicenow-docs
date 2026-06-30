@@ -15,14 +15,14 @@ breadcrumb: [ITOM Configuration Console, Discovery setup, Configuring Discovery,
 
 # Access the ITOM Configuration Console
 
-Access the [[r_ITOMApplications|IT Operations Management]] Configuration Console to set up [[r-discovery|Discovery]].
+Access the IT Operations Management Configuration Console to set up Discovery.
 
 ## Before you begin
 
 Verify the following:
 
 -   You're using the Zurich Patch 8 or later version of the ServiceNow AI Platform.
--   You have installed the [[itom-visibility-landing-page|ITOM Visibility]] plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
+-   You have installed the ITOM Visibility plugin. For more information, see [Install ITOM Visibility using Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/install-nowassist-setup-itom-visibility.md).
 -   You have installed the Now Assist for IT Operations Management plugin. For more information, see [Install the Now Assist for IT Operations Management \(ITOM\) plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/install-now-assist-itom.md).
 
 Role required: admin
@@ -41,11 +41,6 @@ Role required: admin
 
     The Configure IT Operations Management page displays.
 
-    \[Omitted image "aiops-admin-conf-itom-page.png"\] Alt text: The Configure IT Operations Management page where you can access the Discovery and [[c_EM|Event Management]] modules.
+    \[Omitted image "aiops-admin-conf-itom-page.png"\] Alt text: The Configure IT Operations Management page where you can access the Discovery and Event Management modules.
 
-## Related
 
-- [[r_ITOMApplications|IT Operations Management]]
-- [[r-discovery|Discovery]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[c_EM|Event Management]]

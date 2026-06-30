@@ -18,9 +18,9 @@ Use the lifecycle event test tool to thoroughly test a lifecycle event before la
 
 The lifecycle event test tool provides different views of a lifecycle event. The different views available are:
 
--   Use filters to show only applicable [[activity-lxp|activity]] sets and activities for the subject person. For example, you can select a subject person and preview what that person will see and what tasks are assigned to them.
--   You can use conditions like [[hr-criteria|HR criteria]] to view what activity sets and activities the selected people will see and what tasks are assigned to them.
--   Each activity set and activity can be assigned to specific [[ecpro-audience|audiences]]. You can view the activity sets and activities applicable to a specific audience.
+-   Use filters to show only applicable activity sets and activities for the subject person. For example, you can select a subject person and preview what that person will see and what tasks are assigned to them.
+-   You can use conditions like HR criteria to view what activity sets and activities the selected people will see and what tasks are assigned to them.
+-   Each activity set and activity can be assigned to specific audiences. You can view the activity sets and activities applicable to a specific audience.
 -   You can also view all activity sets and activities that are not applicable to an audience.
 
 **Note:** When a user matches an activity but not an activity set, the activity set and activity will still appear.
@@ -39,7 +39,7 @@ The lifecycle event test tool provides different views of a lifecycle event. The
 
 
 -   **[Preview and test a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/test-lifecycle-event.md)**  
-[[test-lifecycle-event|Preview and test a lifecycle event]] for different audience types. You can preview a lifecycle event to validate which activities will trigger or not for a particular audience. You can then create a test lifecycle event case for different users and select which activities to include or exclude in your test.
+Preview and test a lifecycle event for different audience types. You can preview a lifecycle event to validate which activities will trigger or not for a particular audience. You can then create a test lifecycle event case for different users and select which activities to include or exclude in your test.
 
 **Parent Topic:**[Building a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/hr-lifecycle-event-configuration.md)
 
@@ -47,9 +47,3 @@ The lifecycle event test tool provides different views of a lifecycle event. The
 
 **Next topic:**[Preview and test a lifecycle event](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/lifecycle-events/test-lifecycle-event.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[hr-criteria|HR criteria]]
-- [[ecpro-audience|Audiences]]
-- [[test-lifecycle-event|Preview and test a lifecycle event]]

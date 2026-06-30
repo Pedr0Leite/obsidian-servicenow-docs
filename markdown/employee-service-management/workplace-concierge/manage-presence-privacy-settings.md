@@ -60,7 +60,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ## Manage privacy settings from Employee Profile
 
-Manage your privacy settings from the [[emp-slate-employee-profile|Employee Profile]] application.
+Manage your privacy settings from the Employee Profile application.
 
 ### Before you begin
 
@@ -70,7 +70,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
 2.  On the Employee Center home page, select your profile, then select **Preferences**.
 
@@ -79,7 +79,3 @@ Role required: sn\_wsd\_core.workplace\_user
     -   Public mode: Other employees can see your routine on the Presence dashboard and Collaborators section.
     -   Private mode: Other employees can’t see your routine.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[employee-center-landing-page|Employee Center]]

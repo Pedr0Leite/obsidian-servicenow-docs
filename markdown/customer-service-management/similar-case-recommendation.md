@@ -29,13 +29,9 @@ When using similarity models in the workspace, the agent can:
 1.  Open a case record.
 2.  Select the Recommendations tab in the contextual side panel.
 3.  Choose the Suggested Actions sub-tab to see:
-    -   A card to [[osp-propose-major-case|propose a major case]] and a card for similar major cases \(if enabled\).
+    -   A card to propose a major case and a card for similar major cases \(if enabled\).
     -   Up to three similar open case cards \(customer-configurable\).
     -   Up to three similar resolved case cards \(customer-configurable\).
 
-For more info, see [[view-similar-case-recommendations|View similar case recommendations]]
+For more info, see [View similar case recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/view-similar-case-recommendations.md)
 
-## Related
-
-- [[view-similar-case-recommendations|View similar case recommendations]]
-- [[osp-propose-major-case|Propose a major case]]

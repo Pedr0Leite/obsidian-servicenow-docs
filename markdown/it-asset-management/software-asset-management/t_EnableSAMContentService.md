@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management administration, Software Asset Management
 
 # Enable sharing information with Software Asset Management content service
 
-Opt in to share unnormalized software installation data from your organization with [[c_SAMContentService|Software Asset Management Content Service]]. You can opt out at any time.
+Opt in to share unnormalized software installation data from your organization with Software Asset Management Content Service. You can opt out at any time.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sam\_admin
 
 ## About this task
 
-**Note:** If you are managing a National Security Cloud \(NSC\) Department of Defense \(DOD\) Impact Level 5 \(IL5\) deployment, you cannot share any unnormalized software installation data with ServiceNow even if you opt to participate in the Software Asset Management Content Service. If a software product does not exist in the [[c_SoftwareAssetMgmt|Software Asset Management]] Content Library, you can create a software content request for it manually. For detailed instructions, see [[create-itam-content-request|Create IT Asset Management content request]].
+**Note:** If you are managing a National Security Cloud \(NSC\) Department of Defense \(DOD\) Impact Level 5 \(IL5\) deployment, you cannot share any unnormalized software installation data with ServiceNow even if you opt to participate in the Software Asset Management Content Service. If a software product does not exist in the Software Asset Management Content Library, you can create a software content request for it manually. For detailed instructions, see [Create IT Asset Management content request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/create-itam-content-request.md).
 
 **Important:** If you're using the Software Asset Management application on-premise, you can set up your ServiceNow instance to connect directly to the Content Service. For detailed instructions, see the knowledge base article [KB1585263](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB1585263).
 
@@ -36,7 +36,7 @@ Role required: sam\_admin
 
 4.  Select the **Yes, I have read and accept the Opt-In Agreement** check box and then select **Opt-In**.
 
-    After you opt in, the [[sam-software-discovery|Software Discovery]] [[c_Models|Models]], Software Product Lifecycles, Part Numbers and Discovery Maps, Processor Names, and Product License Exception Rules KPIs are automatically enabled. The Custom Software Products KPI is automatically disabled.
+    After you opt in, the Software Discovery Models, Software Product Lifecycles, Part Numbers and Discovery Maps, Processor Names, and Product License Exception Rules KPIs are automatically enabled. The Custom Software Products KPI is automatically disabled.
 
 5.  To enable or disable a KPI, select the toggle button next to the KPI and then select **Save**.
 
@@ -52,10 +52,3 @@ Role required: sam\_admin
 
 [Software Asset Management Content Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMContentService.md)
 
-## Related
-
-- [[create-itam-content-request|Create IT Asset Management content request]]
-- [[c_SAMContentService|Software Asset Management Content Service]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-software-discovery|Software discovery]]
-- [[c_Models|Models]]

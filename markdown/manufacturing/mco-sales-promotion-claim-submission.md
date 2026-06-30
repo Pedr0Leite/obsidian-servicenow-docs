@@ -12,13 +12,13 @@ breadcrumb: [Sales promotion, MCO core, Explore, Manufacturing Commercial Operat
 
 # Sales promotion claim submission use case
 
-Use case scenarios demonstrate when and how to use the [[mco-dealer-portal|Dealer portal]] application to [[mco-sales-promotion-single-claim|submit a sales promotion claim]]. It provides practical examples of common [[mco-sls-pro-mgmt|sales promotion management]] situations.
+Use case scenarios demonstrate when and how to use the Dealer portal application to submit a sales promotion claim. It provides practical examples of common sales promotion management situations.
 
 ## Use case: Dealer sales promotion claim submission
 
 Scenario
 
-Sophie, a dealer sales agent, must submit [[mco-sales-promotion|sales promotion]] claims for vehicles sold at the dealership. The claims include a Senior Citizen Promotion \($1,500\) and a Trade-In Promotion \($2,500\). Dealers submitting sales promotion claims might encounter some of the following challenges:
+Sophie, a dealer sales agent, must submit sales promotion claims for vehicles sold at the dealership. The claims include a Senior Citizen Promotion \($1,500\) and a Trade-In Promotion \($2,500\). Dealers submitting sales promotion claims might encounter some of the following challenges:
 
 -   Disconnected systems and manual processes cause delays and errors
 -   Single vehicles qualifying for multiple promotions creates complexity
@@ -31,7 +31,7 @@ Sophie, a dealer sales agent, must submit [[mco-sales-promotion|sales promotion]
 
 Solution
 
-Sophie uses the [[manufacturing-overview|Manufacturing Commercial Operations]] \(MCO\) Dealer Portal to submit sales promotion claims efficiently:
+Sophie uses the Manufacturing Commercial Operations \(MCO\) Dealer Portal to submit sales promotion claims efficiently:
 
 1.  Uploads bulk claims via excel using the predefined template with promotion ID, external ID, sale price, currency, and asset serial number.
 2.  Selects a draft claim with auto-filled dealer information based on dealer login.
@@ -43,7 +43,7 @@ Sophie uses the [[manufacturing-overview|Manufacturing Commercial Operations]] \
 8.  Uploads required documents such as vehicle title.
 9.  Submits the claim and tracks status, views OEM comments, or cancels if needed.
 
-The [[mco-use-dealer-portal|Dealer management]] reduces manual effort and improves accuracy.
+The [Dealer management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/manufacturing/mco-use-dealer-portal.md) reduces manual effort and improves accuracy.
 
 Benefits
 
@@ -59,11 +59,3 @@ Outcome
 
 Sophie submits a complete claim with two incentives. Bulk upload, automated filtering, and structured questionnaires reduce preparation time and rejection risk, enabling faster processing and reimbursement.
 
-## Related
-
-- [[mco-use-dealer-portal|Dealer management]]
-- [[mco-dealer-portal|Dealer portal]]
-- [[mco-sales-promotion-single-claim|Submit a sales promotion claim]]
-- [[mco-sls-pro-mgmt|Sales promotion management]]
-- [[mco-sales-promotion|Sales promotion]]
-- [[manufacturing-overview|Manufacturing Commercial Operations]]

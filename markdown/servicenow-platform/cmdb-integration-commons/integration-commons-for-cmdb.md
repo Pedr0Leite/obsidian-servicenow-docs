@@ -14,7 +14,7 @@ breadcrumb: [Integrating third-party data into CMDB, Configuration Management, E
 
 # Integration Commons for CMDB
 
-The Integration Commons for CMDB application contains the [[cmdb-integ-dashboard|CMDB Integrations Dashboard]] and a set of Robust Transform Engine \(RTE\) transforms and script includes.
+The Integration Commons for CMDB application contains the CMDB Integrations Dashboard and a set of Robust Transform Engine \(RTE\) transforms and script includes.
 
 Integration Commons for CMDB \(sn\_cmdb\_int\_util\) is available on the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).
 
@@ -28,13 +28,13 @@ CMDB and CSDM Data Foundations Dashboards v2.3.5 or later versions \(see [Monito
 
 ## Using the CMDB Integrations Dashboard
 
-The Integration Commons for CMDB application provides a dashboard with a central view of the status, processing results, and processing errors of all installed [[cmdb-sgc-available|Service Graph Connectors]] and any custom integrations created in [[integrationhub-etl|IntegrationHub ETL]].
+The Integration Commons for CMDB application provides a dashboard with a central view of the status, processing results, and processing errors of all installed Service Graph Connectors and any custom integrations created in IntegrationHub ETL.
 
 See [CMDB Integrations Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/cmdb-integ-dashboard.md) for more information.
 
 ## Using RTE transforms
 
-The Integration Commons for CMDB \(com.snc.cmdb.integration\_util\) plugin provides the Integration Commons functionality. You can use the transforms and script includes to standardize the values stored in the CMDB by different data integrations or by changes. The attributes included in the Integration Commons for CMDB application are attributes that the [[ire|Identification and Reconciliation Engine \(IRE\)]] requires for identification or attributes that could be used to derive classes.
+The Integration Commons for CMDB \(com.snc.cmdb.integration\_util\) plugin provides the Integration Commons functionality. You can use the transforms and script includes to standardize the values stored in the CMDB by different data integrations or by changes. The attributes included in the Integration Commons for CMDB application are attributes that the Identification and Reconciliation Engine \(IRE\) requires for identification or attributes that could be used to derive classes.
 
 **Note:** The RTE transforms are included in the Integration Commons for CMDB app and are available in the [IntegrationHub ETL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/integration-hub-etl/integrationhub-etl.md) app. For more information on RTE transforms, see [RTE operation types included within the Integration Commons for CMDB app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/cmdb-rte-operation-types.md) and [RTE transforms template scripts included within the Integration Commons for CMDB app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/cmdb-rte-transforms.md).
 
@@ -57,9 +57,3 @@ You can also configure the Application Dependency Mapping \(ADM\) adapter to pop
 
 [Quick start tests for Integration Commons for CMDB](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-integration-commons/quick-start-tests-integration-commons.md)
 
-## Related
-
-- [[cmdb-integ-dashboard|CMDB Integrations Dashboard]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[integrationhub-etl|IntegrationHub ETL]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]

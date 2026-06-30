@@ -14,7 +14,7 @@ breadcrumb: [Employee Center reference, Employee Center, Unified Employee Experi
 
 # Menu Item form
 
-Use the Menu Items form to configure the items for the **More** menu on the [[employee-center-landing-page|Employee Center]] header.
+Use the Menu Items form to configure the items for the **More** menu on the Employee Center header.
 
 Add any new menu items to the EC Header under the **More** option.
 
@@ -124,7 +124,7 @@ Icon that appears next to the menu item.
 
 [Connected Content form]()
 
-[Default [[emp-slate-employee-profile|Employee Profile]] Header Configuration record]()
+[Default Employee Profile Header Configuration record]()
 
 [Employee Center widgets]()
 
@@ -152,7 +152,7 @@ Icon that appears next to the menu item.
 
 [Portal notification configuration form]()
 
-[Portal [[ec-notification-content|notification content]] form]()
+[Portal notification content form]()
 
 [Trigger conditions form]()
 
@@ -174,8 +174,3 @@ Icon that appears next to the menu item.
 
 [Website configuration form]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-slate-employee-profile|Employee profile]]
-- [[ec-notification-content|Notification content]]

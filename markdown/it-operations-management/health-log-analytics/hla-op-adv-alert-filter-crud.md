@@ -18,7 +18,7 @@ Add advanced log alert filters to scan alerts for conditions that you specify. T
 
 ## Before you begin
 
-The Disable Alert Rule Engine feature and the Disable Detection Rule Engine feature must be in the OFF state. You set the values by navigating to **[[hla-landing-page|Health Log Analytics]]** &gt; **Health Predictive AI Ops Administration** &gt; **Features**.
+The Disable Alert Rule Engine feature and the Disable Detection Rule Engine feature must be in the OFF state. You set the values by navigating to **Health Log Analytics** &gt; **Health Predictive AI Ops Administration** &gt; **Features**.
 
 Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
@@ -73,6 +73,3 @@ Role required: evt\_mgmt\_operator or evt\_mgmt\_admin
 
 The values of the active filter are saved. If you selected the Active option, the filter is applied to the log stream.
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

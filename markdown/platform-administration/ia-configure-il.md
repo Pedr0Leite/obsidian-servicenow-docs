@@ -16,7 +16,7 @@ Implement the following steps to understand the configuration page flow to start
 
 ## Before you begin
 
-Before performing this task you must install [[ia-landing|Setup Hub]] application from [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
+Before performing this task you must install Setup Hub application from [ServiceNow store](https://store.servicenow.com/store/app/9d063fc34704cf10f43984f8736d43b5) or from the prompt on the Admin Home page.
 
 Role required: admin
 
@@ -36,15 +36,15 @@ Role required: admin
 
     **Note:** If the selected product module has enabled the update set functionality, a batch update set is created in the preferred scope that has been provided at the console level. This information shows up at the top menu bar on loading the Configuration Console page. Any update or metadata changes made on the console are captured in this update set unless you move to a different application or have switched to a different update set.
 
-    The preferred scope can be updated depending on the next selected console item. For example, if you want to configure the [[ia-branding-il|Branding]] console item and it can be done in Global scope, you can override the preferred scope that was provided at the console level.
+    The preferred scope can be updated depending on the next selected console item. For example, if you want to configure the Branding console item and it can be done in Global scope, you can override the preferred scope that was provided at the console level.
 
     The Platform module and the product specific module show up. The Platform module is a common module for all product modules. The product modules are based on the entitlement of the admin.
 
 3.  Select **Get Started** on the modules.
 
-    You are redirected to the first configuration of the selected module. See [[ia-config-platform-il|Platform module configuration in Setup Hub]] for more information on Platform configuration steps.
+    You are redirected to the first configuration of the selected module. See [Platform module configuration in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-platform-il.md) for more information on Platform configuration steps.
 
-4.  Find a console item efficiently using the Search [[clone-configurations-tab|configurations]] search bar on the left navigation.
+4.  Find a console item efficiently using the Search configurations search bar on the left navigation.
 
 5.  Expand the left panel configurations to view the pre-configured configurations.
 
@@ -122,12 +122,5 @@ Role required: admin
 
 After the configuration completes, you can promote the changes to test or production instances by re-running the auto-installation, committing retrieved update sets, and validating ATF tests.
 
-**Parent Topic:**[[ia-config-landing|Configure in Setup Hub]]
+**Parent Topic:**[Configure in Setup Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ia-config-landing.md)
 
-## Related
-
-- [[ia-config-platform-il|Platform module configuration in Setup Hub]]
-- [[ia-config-landing|Configure in Setup Hub]]
-- [[ia-landing|Setup Hub]]
-- [[ia-branding-il|Branding]]
-- [[clone-configurations-tab|Configurations]]

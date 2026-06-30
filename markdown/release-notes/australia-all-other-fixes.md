@@ -18,7 +18,7 @@ The Australia release contains important problem fixes.
     -   03-04-2026\_1355
     -   glide-australia-02-11-2026\_\_patch0-02-24-2026
 
-**Important:** For more information about how to upgrade an instance, see [[upgrade|ServiceNow upgrades]].
+**Important:** For more information about how to upgrade an instance, see [ServiceNow upgrades](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/upgrade.md).
 
 For more information about the release cycle, see the [ServiceNow Release Cycle](https://support.servicenow.com/kb_view.do?sysparm_article=KB0547244).
 
@@ -19889,9 +19889,5 @@ PRB1919510
 Slow queries that time out go unhandled and leave the global search in an infinite loading state
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[available-versions|Available patches and hotfixes]]
+</table>**Parent Topic:**[Available patches and hotfixes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/available-versions.md)
 
-## Related
-
-- [[upgrade|ServiceNow upgrades]]
-- [[available-versions|Available patches and hotfixes]]

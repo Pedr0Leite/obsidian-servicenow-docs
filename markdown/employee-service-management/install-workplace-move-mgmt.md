@@ -12,7 +12,7 @@ breadcrumb: [Configure, Workplace Move Management, Workplace Service Delivery, E
 
 # Install Workplace Move Management
 
-Install the [[workplace-move-mgmt-overview|Workplace Move Management]] application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
+Install the Workplace Move Management application from the ServiceNow Store. Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
 ## Before you begin
 
@@ -23,8 +23,8 @@ Complete the following setup instructions:
     The list displays the subscriptions that your organization has purchased.
 
 2.  Verify that the following plugins are activated:
-    -   [[workplace-safety-mgmt-hr|Workplace Core]] \(sn\_wsd\_core\) minimum version 2.6.2.
-    -   [[workplace-case-mgmt-feat|Workplace Case Management]] \(sn\_wsd\_case\)
+    -   Workplace Core \(sn\_wsd\_core\) minimum version 2.6.2.
+    -   Workplace Case Management \(sn\_wsd\_case\)
 
 Use the following details when required:
 
@@ -56,11 +56,5 @@ Role required: admin
 6.  Click **Install**.
 
 
-**Parent Topic:**[[configure-workplace-move-mgmt|Configuring Workplace Move Management]]
+**Parent Topic:**[Configuring Workplace Move Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/configure-workplace-move-mgmt.md)
 
-## Related
-
-- [[configure-workplace-move-mgmt|Configuring Workplace Move Management]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

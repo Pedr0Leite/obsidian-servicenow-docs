@@ -14,7 +14,7 @@ breadcrumb: [Manage workplace safety activities, Workplace Core, Workplace Servi
 
 # QR code management
 
-Generate and print QR codes for spaces and rooms. Employees can use these codes to make reservation-related actions on the [[mobile-employee-experience|Now Mobile app]].
+Generate and print QR codes for spaces and rooms. Employees can use these codes to make reservation-related actions on the Now Mobile app.
 
 As a workplace manager, the application enables you to perform the following actions:
 
@@ -23,7 +23,7 @@ As a workplace manager, the application enables you to perform the following act
 -   Print the QR codes and specify a file name for the codes. You can also configure the layout of the QR code and preview before printing.
 -   Configure, manage, and delete the QR codes that are generated in the application.
 
-As an employee, use your Now Mobile app to scan the QR code and view the reservation that is made on the space or room. After scanning, you can perform the following actions on your [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] application on the Now Mobile app:
+As an employee, use your Now Mobile app to scan the QR code and view the reservation that is made on the space or room. After scanning, you can perform the following actions on your Workplace Service Delivery for Mobile application on the Now Mobile app:
 
 -   Check in or check out the reservation.
 -   Update the reservation.
@@ -77,7 +77,3 @@ View, update, or print the already generated QR codes in the application. Before
 
 [View workplace service usage analytics with Usage Insights]()
 
-## Related
-
-- [[mobile-employee-experience|Now Mobile app]]
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]

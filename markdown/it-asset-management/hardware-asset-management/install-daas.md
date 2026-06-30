@@ -14,7 +14,7 @@ breadcrumb: [Configuring DaaS, Device as a Service, Hardware Asset Management, I
 
 # Install Hardware Asset Management for DaaS
 
-You can install the [[ham-landing-page|Hardware Asset Management]] for DaaS application \(com.sn\_daas\_ham\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the Hardware Asset Management for DaaS application \(com.sn\_daas\_ham\) if you have the admin role.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: admin
 
 ## About this task
 
-The following items are [[installed-with-ham|installed with Hardware Asset Management]] for DaaS:
+The following items are installed with Hardware Asset Management for DaaS:
 
 -   Store applications
 -   Roles
@@ -55,7 +55,4 @@ For more information, see [Components installed with Hardware Asset Management f
 
 6.  Select **Install**.
 
-## Related
 
-- [[ham-landing-page|Hardware Asset Management]]
-- [[installed-with-ham|Installed with Hardware Asset Management]]

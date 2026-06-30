@@ -14,7 +14,7 @@ breadcrumb: [Setting up, Configure, Coaching, IT Service Management]
 
 # Create a survey and associate with a Coaching opportunity
 
-Create a survey for coaches or trainees to assess the training quality. Add a question bank to the survey. Associate the survey with a [[cf-coaching-landing|coaching]] opportunity to provide feedback when the coach completes the coaching assessment.
+Create a survey for coaches or trainees to assess the training quality. Add a question bank to the survey. Associate the survey with a coaching opportunity to provide feedback when the coach completes the coaching assessment.
 
 ## Before you begin
 
@@ -85,6 +85,3 @@ Role required: sn\_coaching.admin
 
 **Parent Topic:**[Setting up Coaching and surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/coaching/cf-setting-up-coaching.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]

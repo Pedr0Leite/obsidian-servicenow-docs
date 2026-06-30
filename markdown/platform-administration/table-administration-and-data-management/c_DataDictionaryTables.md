@@ -22,13 +22,13 @@ All of the information on an instance is stored in tables, which consist of a se
 
 The Tables \[sys\_db\_object\] table contains a record for each table in the database.
 
-Access the Tables \[sys\_db\_object\] table by navigating to **System Definition** &gt; **Tables**. From the Tables list, an administrator can create a custom table, or select an existing table to view table details. In the table form, an administrator can access [[c_TableAdministration|table administration]] options.
+Access the Tables \[sys\_db\_object\] table by navigating to **System Definition** &gt; **Tables**. From the Tables list, an administrator can create a custom table, or select an existing table to view table details. In the table form, an administrator can access table administration options.
 
 -   View, add, or modify columns with a searchable and sortable embedded list, define the auto-number format, make the table extendable by other tables, and create modules for the table.
 -   Launch a schema map for a table by clicking the **Show Schema Map** related link.
 -   Open the dictionary entries for the table by right-clicking the form header and selecting **Show Dictionary Record**.
 -   Navigate directly to the default list or form view for the table by clicking the **Show List** or **Show Form** related link.
--   [[t_DeleteAllRecordsFromATable|Delete all records from a table]] by clicking the **Delete All Records**.
+-   Delete all records from a table by clicking the **Delete All Records**.
 
 The following image shows a list of the tables that extend the Application File table.
 
@@ -36,7 +36,7 @@ The following image shows a list of the tables that extend the Application File 
 
 ## Dictionary Entries
 
-The Dictionary Entries \[sys\_dictionary\] table, also called the **[[c_SystemDictionary|System Dictionary]]**, defines every table and field in the system. It contains information about data type, character limit, default value, dependency, and other attributes of a field.
+The Dictionary Entries \[sys\_dictionary\] table, also called the **System Dictionary**, defines every table and field in the system. It contains information about data type, character limit, default value, dependency, and other attributes of a field.
 
 Access the system dictionary in one of these ways:
 
@@ -62,8 +62,3 @@ The following image shows the language file filtered to display only labels on t
 
 **Parent Topic:**[Exploring ServiceNow AI Platform tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/exploring-table-administration.md)
 
-## Related
-
-- [[c_TableAdministration|Table administration]]
-- [[t_DeleteAllRecordsFromATable|Delete all records from a table]]
-- [[c_SystemDictionary|System dictionary]]

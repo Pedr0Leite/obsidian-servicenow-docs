@@ -12,12 +12,12 @@ breadcrumb: [Notifications in messaging applications, System notifications, Noti
 
 # Set up notifications for a custom Slack app
 
-Send ServiceNow [[notifications|notifications]] to users via your own Slack bot.
+Send ServiceNow notifications to users via your own Slack bot.
 
 ## Before you begin
 
 -   [Request Integration Hub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-ih-overview.md)
--   [[request-messaging-notification|Request the Messaging Notification plugin]]
+-   [Request the Messaging Notification plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/request-messaging-notification.md)
 -   Create a custom application for Slack
 
 Role required: admin or messaging\_admin
@@ -86,19 +86,12 @@ The system creates a notification channel for your custom Slack app automaticall
 
 -   Link ServiceNow user accounts to your custom Slack app so that users can take action on notifications that are delivered by your Slack bot.
 -   For each user account that you link, enable the notification channel using the system settings.
--   Create notifications for your custom Slack app by following the steps in [[create-messaging-notification|Create a messaging notification]] and [[configure-message-content|Configure message content]].
+-   Create notifications for your custom Slack app by following the steps in [Create a messaging notification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/create-messaging-notification.md) and [Configure message content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-message-content.md).
 
-**Parent Topic:**[[messaging-integration|Notifications in messaging applications]]
+**Parent Topic:**[Notifications in messaging applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/messaging-integration.md)
 
 **Related topics**  
 
 
 [Slack API documentation](https://api.slack.com/)
 
-## Related
-
-- [[request-messaging-notification|Request the Messaging Notification plugin]]
-- [[create-messaging-notification|Create a messaging notification]]
-- [[configure-message-content|Configure message content]]
-- [[messaging-integration|Notifications in messaging applications]]
-- [[notifications|Notifications]]

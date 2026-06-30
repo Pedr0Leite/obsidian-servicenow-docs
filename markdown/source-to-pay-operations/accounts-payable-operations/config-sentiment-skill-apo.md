@@ -14,7 +14,7 @@ breadcrumb: [Configure Now Assist for Accounts Payable Operations \(APO\), Now A
 
 # Configure Sentiment analysis for invoice case skill in Now Assist for Accounts Payable Operations \(APO\)
 
-If you have the admin role, you can configure the Sentiment analysis skill in [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] so that an accounts payable \(AP\) fulfiller can use the generative AI skills in [[purch-order-mgmt-ws|Source-to-Pay Workspace]] to prioritize inquiry cases resulting in improved [[supplier|supplier]] collaboration.
+If you have the admin role, you can configure the Sentiment analysis skill in Now Assist for Accounts Payable Operations \(APO\) so that an accounts payable \(AP\) fulfiller can use the generative AI skills in Source-to-Pay Workspace to prioritize inquiry cases resulting in improved supplier collaboration.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills** to access the **Now Assist skills** tab of the Now Assist Admin console.
 
-2.  In the **[[finance-supply-chain-landing|Finance and Supply Chain]]** workflow group, select **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** to view the skills for the APO features.
+2.  In the **Finance and Supply Chain** workflow group, select **Accounts Payable Operations** to view the skills for the APO features.
 
     A guided setup leads you through the configuration of the general details, input, frequency, availability, access, display, review, and activation of the customized skill. If you complete the entire walk-through, the skill is activated.
 
@@ -49,10 +49,3 @@ Role required: admin
 
 You can now select \[Omitted image "Form\_ReferenceLookupIcon.png"\]\[Omitted image ""\] Alt text: look up icon of an invoice case that displays a pop-up with a summary based on the sentiment.
 
-## Related
-
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[supplier|Supplier]]
-- [[finance-supply-chain-landing|Finance and Supply Chain]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]

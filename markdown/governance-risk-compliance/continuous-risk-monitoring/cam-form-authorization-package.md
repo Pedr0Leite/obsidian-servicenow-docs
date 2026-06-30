@@ -14,7 +14,7 @@ breadcrumb: [CAM reference, Continuous Authorization and Monitoring, Governance,
 
 # Fields on the Authorization Package form
 
-After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must [[create-auth-package|create an authorization package]] for that purpose. The package is processed through the seven steps mandated by the RMF.
+After you have defined the authorization boundaries for the assets or systems to send through the Authorization to Operate process, you must create an authorization package for that purpose. The package is processed through the seven steps mandated by the RMF.
 
 ## Authorization Package
 
@@ -47,6 +47,3 @@ CAM roles that are required for particular tasks are listed in [CAM user roles](
 
 **Parent Topic:**[CAM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/reference-grc-cam.md)
 
-## Related
-
-- [[create-auth-package|Create an authorization package]]

@@ -24,7 +24,7 @@ Role required: sn\_imt\_quarantine.humanResourceTeam
 
 ## About this task
 
-The Bulk Import Crisis Task Data scheduled job is installed with the [[emergency-self-report|Emergency Self Report]] application. When you upload the spreadsheet, you can manually execute the job to import data into the Crisis Task table. HR tasks and their associated crisis tasks are created for each user based on their reported health status.
+The Bulk Import Crisis Task Data scheduled job is installed with the Emergency Self Report application. When you upload the spreadsheet, you can manually execute the job to import data into the Crisis Task table. HR tasks and their associated crisis tasks are created for each user based on their reported health status.
 
 ## Procedure
 
@@ -64,6 +64,3 @@ Records are imported to the Bulk Import Crisis Tasks table and copied to the Cri
 
 **Parent Topic:**[Emergency Self Report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/emergency-self-report/emergency-self-report.md)
 
-## Related
-
-- [[emergency-self-report|Emergency Self Report]]

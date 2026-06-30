@@ -14,7 +14,7 @@ breadcrumb: [Loan Operations, Banking applications, Financial Services Operation
 
 # Using Financial Services Loan Operations
 
-Learn how requesters, contributors, and agents use the [[loan-ops-landing-page|Financial Services Loan Operations]] application to initiate, research, and resolve the loan service requests and system-generated exceptions.
+Learn how requesters, contributors, and agents use the Financial Services Loan Operations application to initiate, research, and resolve the loan service requests and system-generated exceptions.
 
 ## Workspace
 
@@ -24,7 +24,7 @@ Requesters, contributors, and back-office agents use personalized workspace to w
 -   Focus on high-priority items
 -   Easily navigate across tasks
 
-For more information, see [[fso-workspace|Workspaces]].
+For more information, see [Workspaces](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-workspace.md).
 
 <table id="table_qy3_jmx_tnb"><thead><tr><th>
 
@@ -88,7 +88,7 @@ Loan admin
 
 </td><td>
 
-Configures the loan workspace as per business requirements. For more information, see [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]].
+Configures the loan workspace as per business requirements. For more information, see [Configure CSM Configurable Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/configure-csm-workspace-fso-apps.md).
 
 </td></tr></tbody>
 </table>## Workflows
@@ -103,20 +103,12 @@ For more information, see [Financial Services Loan Operations workflows](https:/
 
 Using the case playbook, loan contributor and loan agents can visualize and interact with the case workflow. The playbook provides end-to-end life cycle for the tasks performed during the case handling process, from the time a case is logged to the final resolution and communication to the customer. The playbook is available for the following loan workflows:
 
--   Loan Forgiveness for [[fso-overview|Financial Services]] Business Loan Operations
+-   Loan Forgiveness for Financial Services Business Loan Operations
 -   Loan Deferment for Financial Services Personal Loan Operations
 
 ## Dashboards
 
 Performance Analytics give business owners an insight into how the team and business are performing. Dashboards with customizable views are available for business and personal loan operations with the application.
 
-For more information, see [[personal-loan-operations-dashboard|Personal Loan Operations dashboard]] and [[business-loan-operations-dashboard|Business Loan Operations dashboard]].
+For more information, see [Personal Loan Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/personal-loan-operations-dashboard.md) and [Business Loan Operations dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/business-loan-operations-dashboard.md).
 
-## Related
-
-- [[fso-workspace|Workspaces in Financial Services Operations]]
-- [[configure-csm-workspace-fso-apps|Configure CSM Configurable Workspace]]
-- [[personal-loan-operations-dashboard|Personal Loan Operations dashboard]]
-- [[business-loan-operations-dashboard|Business Loan Operations dashboard]]
-- [[loan-ops-landing-page|Financial Services Loan Operations]]
-- [[fso-overview|Financial Services]]

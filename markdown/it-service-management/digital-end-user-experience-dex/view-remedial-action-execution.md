@@ -14,11 +14,11 @@ breadcrumb: [Monitor, Digital End-User Experience, IT Service Management]
 
 # View remedial action execution
 
-Monitor in-progress and completed remedial actions across all [[dex-workspace-devices-tab|devices]] from the **[[remedial-action|Remedial action]] executions** page in [[dex-workspace-administration-tab|DEX Administration]].
+Monitor in-progress and completed remedial actions across all devices from the **Remedial action executions** page in DEX Administration.
 
 ## About this task
 
-The **Remedial action executions** page provides a consolidated view of all remedial actions triggered across all devices. You can initiate these actions from an individual device page, alert page, incidents page, insights page, [[proactive-engagement-landing-page|Proactive engagement]], or DEX self-service. Use this page to track execution status and identify actions that require attention.
+The **Remedial action executions** page provides a consolidated view of all remedial actions triggered across all devices. You can initiate these actions from an individual device page, alert page, incidents page, insights page, Proactive engagement, or DEX self-service. Use this page to track execution status and identify actions that require attention.
 
 ## Before you begin
 
@@ -32,12 +32,6 @@ Role required: **sn\_dex.admin**
 
 3.  Select **Remedial action executions** **&gt; View Remedial action executions**.
 
-    The **Remedial action executions** page displays a list of all remedial action executions, including their status and the associated [[dex-workspace-user-details|device details]].
+    The **Remedial action executions** page displays a list of all remedial action executions, including their status and the associated device details.
 
-## Related
 
-- [[dex-workspace-devices-tab|Devices]]
-- [[remedial-action|Remedial action]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[proactive-engagement-landing-page|Proactive Engagement]]
-- [[dex-workspace-user-details|Device details]]

@@ -12,7 +12,7 @@ breadcrumb: [Components installed with plugins, Reference, Retail]
 
 # Components installed with Retail Store Services
 
-Certain roles and dependencies must be considered when using the [[rahi-retail-operations-overview|Retail]] Store Services plugin.
+Certain roles and dependencies must be considered when using the Retail Store Services plugin.
 
 **Note:**
 
@@ -69,7 +69,7 @@ sn\_rtl\_stre\_servcs.agent
 
 </td><td>
 
-Create, update, and close [[rahi-retail-retail-store-services|store inquiry case]] across organizations.
+Create, update, and close store inquiry case across organizations.
 
 </td><td>
 
@@ -101,10 +101,5 @@ Create, update store inquiry case for their location.
  
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
+</table>**Parent Topic:**[Components installed with plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-components-installed-with-plugins.md)
 
-## Related
-
-- [[rahi-retail-components-installed-with-plugins|Components installed with plugins]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-store-services|Store inquiry case]]

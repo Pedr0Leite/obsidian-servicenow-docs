@@ -14,13 +14,13 @@ breadcrumb: [Skill sensing for learning content, Using My Learning, Learning, Gr
 
 # Configuration for bulk skill sensing
 
-Define conditions to create a sub set of [[exploring-learning-exp|learning]] courses on which you can run the scheduled job enabling you to accept multiple recommended skills.
+Define conditions to create a sub set of learning courses on which you can run the scheduled job enabling you to accept multiple recommended skills.
 
 ## Before you begin
 
 Role required: Learning admin
 
-Plugin requirement: [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]] plugin \(sn\_hr\_gen\_ai\), [[learning-core_overview|Learning core]] plugin \(sn\_learning\_core\), and [[skills-intelligence|Skills foundation]] plugin \(sn\_skills\_int\).
+Plugin requirement: Now Assist for HR Service Delivery \(HRSD\) plugin \(sn\_hr\_gen\_ai\), Learning core plugin \(sn\_learning\_core\), and Skills foundation plugin \(sn\_skills\_int\).
 
 ## Procedure
 
@@ -76,7 +76,7 @@ Omits the learning courses that already have skills recommended by Large Languag
 
 </td></tr><tr><td>
 
-Include active courses with recent learner [[activity-lxp|activity]]
+Include active courses with recent learner activity
 
 </td><td>
 
@@ -116,10 +116,3 @@ A description for the configuration.
 
 **Parent Topic:**[Skill sensing for learning content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/skill-sensing-for-learning-content.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]
-- [[now-assist-hrsd|Now Assist for HR Service Delivery \(HRSD\)]]
-- [[learning-core_overview|Learning Core]]
-- [[skills-intelligence|Skills Foundation]]
-- [[activity-lxp|Activity]]

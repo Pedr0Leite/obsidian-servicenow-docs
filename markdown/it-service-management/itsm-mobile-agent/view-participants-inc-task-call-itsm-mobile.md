@@ -22,7 +22,7 @@ Role required: itil, itil\_admin, or admin
 
 ## Procedure
 
-1.  Open [[itsm-mobile-agent|ITSM Mobile Agent]] app.
+1.  Open ITSM Mobile Agent app.
 
 2.  In **My work** tab, tap **See All**.
 
@@ -49,6 +49,4 @@ Role required: itil, itil\_admin, or admin
 
     \[Omitted image "participants-inc-call-itsm-mobile.png"\] Alt text: Participant status in a conference call
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

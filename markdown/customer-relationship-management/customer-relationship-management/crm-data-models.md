@@ -18,7 +18,7 @@ The CRM portfolio is organized into four tiers.
 
 \[Omitted image "crm-product-architecture-ai-platform.png"\] Alt text: Architecture that shows the Now platform as the bottom layer, with CRM foundation components, Customer Workflows, and Industry Workflows.
 
-At the base, the Now Platform provides the core tables, AI capabilities, and engines that every ServiceNow product inherits. Above that, the CRM Foundation defines the shared data objects \(Customer, Organization, Territory, Product, and Pricing\) along with shared engines and the transactional objects \(Opportunity, Quote, Order, Install Base, Contract, Case, Work Order\) that all [[crm-product-portfolio|CRM products]] use. The Customer Workflows tier delivers the three core CRM products at the same level: [[crm-about-som-in-crm|Sales CRM]], [[crm-about-csm-in-crm|Customer Service Management]] \(CSM\), and [[crm-about-fsm-in-crm|Field Service Management]] \(FSM\). At the top, Industry Workflows provide preconfigured solutions for verticals including Telecom, Technology, Financial Services, Public Sector, Healthcare, Retail, and Manufacturing.
+At the base, the Now Platform provides the core tables, AI capabilities, and engines that every ServiceNow product inherits. Above that, the CRM Foundation defines the shared data objects \(Customer, Organization, Territory, Product, and Pricing\) along with shared engines and the transactional objects \(Opportunity, Quote, Order, Install Base, Contract, Case, Work Order\) that all CRM products use. The Customer Workflows tier delivers the three core CRM products at the same level: Sales CRM, Customer Service Management \(CSM\), and Field Service Management \(FSM\). At the top, Industry Workflows provide preconfigured solutions for verticals including Telecom, Technology, Financial Services, Public Sector, Healthcare, Retail, and Manufacturing.
 
 Sales CRM, CSM, and FSM are not separate systems sharing data through integrations. They are three products built on the same CRM Foundation and platform data model. A company record, a person record, a product, a contract, each exists once in the CRM Foundation and is used by all three products and every industry solution above them.
 
@@ -42,7 +42,7 @@ The CRM Foundation is the shared data layer that all three Customer Workflow pro
 |-----------------|----------|------------|
 |Account|customer\_account|Extends core\_company. Central hub for contacts, cases, contracts, and opportunities. Shared across Sales CRM, CSM, and FSM.|
 |Contact|customer\_contact|Extends sys\_user. Represents a person at a customer account. Used for case routing in CSM, opportunity contacts in Sales CRM, and site contacts in FSM.|
-|Consumer|csm\_consumer|Extends sys\_user. Represents an individual customer in a B2C model. Interacts directly through [[crm-self-service-portals|self-service portals]] or assisted service channels.|
+|Consumer|csm\_consumer|Extends sys\_user. Represents an individual customer in a B2C model. Interacts directly through self-service portals or assisted service channels.|
 |Household|csm\_household|Groups consumers who share an address and common products or services. Supports a designated head of household with visibility into cases and account information for all members.|
 |Product Model|cmdb\_model|Defines a product or service template. Sales CRM extends it with pricing through Product Offerings; CSM references it for case context.|
 |Sold Product|sold\_product|Tracks a product or service sold to an account or consumer. Created by Sales CRM on order fulfillment; referenced by CSM cases and FSM work orders.|
@@ -104,7 +104,7 @@ The Customer Workflows tier contains the three core CRM products at the same lev
 
     |CSM object|Table name|What it does|
     |----------|----------|------------|
-    |Case|sn\_customerservice\_case|Extends Task. Central record for every service interaction. Connects Who \(Account/Contact/Consumer\) + What \(Product/Asset\) + What’s Owed \(Contract/Entitlement\). Supports [[crm-omnichannel|omnichannel]] intake.|
+    |Case|sn\_customerservice\_case|Extends Task. Central record for every service interaction. Connects Who \(Account/Contact/Consumer\) + What \(Product/Asset\) + What’s Owed \(Contract/Entitlement\). Supports omnichannel intake.|
 
 -   **Sales CRM**
 
@@ -132,7 +132,7 @@ The Customer Workflows tier contains the three core CRM products at the same lev
 
 The top tier provides preconfigured solutions for Telecom, Technology, Financial Services, Public Sector, Healthcare, Retail, and Manufacturing. Each industry solution extends the CRM data model with domain-specific entities, such as subscriber records for telecom, policy records for financial services, or patient records for healthcare, while inheriting every shared object and engine from the layers below.
 
-Industry Workflows build on top of the CRM Foundation and Customer Workflows; they do not replace them. A telecom agent still works with the same Case, Account, Contact, and Entitlement objects that any CSM agent uses, but the workspace, [[crm-playbooks|playbooks]], and data model extensions are preconfigured for telecommunications workflows. Organizations can deploy an industry solution as a starting point and modify it as requirements evolve.
+Industry Workflows build on top of the CRM Foundation and Customer Workflows; they do not replace them. A telecom agent still works with the same Case, Account, Contact, and Entitlement objects that any CSM agent uses, but the workspace, playbooks, and data model extensions are preconfigured for telecommunications workflows. Organizations can deploy an industry solution as a starting point and modify it as requirements evolve.
 
 ## How the layers connect
 
@@ -158,12 +158,3 @@ This structural connection is what makes the sell, fulfill, and service story co
 
 [Configure Service Model Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-industry-data-model.md)
 
-## Related
-
-- [[crm-product-portfolio|CRM products]]
-- [[crm-about-som-in-crm|Sales CRM]]
-- [[crm-about-csm-in-crm|Customer Service Management]]
-- [[crm-about-fsm-in-crm|Field Service Management]]
-- [[crm-self-service-portals|Self-service portals]]
-- [[crm-omnichannel|Omnichannel]]
-- [[crm-playbooks|Playbooks]]

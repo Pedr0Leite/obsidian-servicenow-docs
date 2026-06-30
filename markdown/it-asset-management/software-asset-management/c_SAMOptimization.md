@@ -16,7 +16,7 @@ breadcrumb: [Exploring Software Asset Management, Software Asset Management, IT 
 
 You can optimize your environment by reclaiming unused software as well as removing unauthorized software.
 
-If a user is not using software installed, or infrequently, that software can be a candidate for removal. Removal means uninstalling and reallocating the software to an individual who will use it more often. Removal candidates are used to [[reclaiming-software-sam|reclaim software]] installations.
+If a user is not using software installed, or infrequently, that software can be a candidate for removal. Removal means uninstalling and reallocating the software to an individual who will use it more often. Removal candidates are used to reclaim software installations.
 
 ## Overview of software reclamation
 
@@ -28,7 +28,7 @@ Starting from the Australia release, the reclamation workflow can also be comple
 
 Reclamation can be performed for suite based products and for individual products that are not part of a suite.
 
-For suite based products, bulk reclamation is performed at the user level. One removal candidate is created for reclaiming the suite. You can add the suite components to the same removal candidate via the Software Installation related list on the removal candidate form. The potential savings displayed is for the entire suite. Suite components cannot be reclaimed individually. In the [[sam-workspace|Software Asset Workspace]], you can add the suite components to the removal candidate one at a time. In the [[c_SoftwareAssetMgmt|Software Asset Management]] classic framework, you can add the suite components all at one go.
+For suite based products, bulk reclamation is performed at the user level. One removal candidate is created for reclaiming the suite. You can add the suite components to the same removal candidate via the Software Installation related list on the removal candidate form. The potential savings displayed is for the entire suite. Suite components cannot be reclaimed individually. In the Software Asset Workspace, you can add the suite components to the removal candidate one at a time. In the Software Asset Management classic framework, you can add the suite components all at one go.
 
 For individual products, you can specify the software installation that you wish to reclaim.
 
@@ -193,8 +193,3 @@ When the state changes to Awaiting User, a notification is sent to the user.
 
 [Reclaim software](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/reclaiming-software-sam.md)
 
-## Related
-
-- [[reclaiming-software-sam|Reclaim software]]
-- [[sam-workspace|Software Asset Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

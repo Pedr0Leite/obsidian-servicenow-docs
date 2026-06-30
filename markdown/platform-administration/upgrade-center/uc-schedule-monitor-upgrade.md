@@ -14,12 +14,9 @@ breadcrumb: [Using Upgrade Center, Upgrade Center, Upgrade, Administer the Servi
 
 # Scheduling and monitoring an upgrade
 
-Use the [[uc-monitor-module|Upgrade Monitor module]] to schedule and monitor the status of an ongoing upgrade in your instance. You can also view the upgrade summary and the list of records causing conflicts in your instance once the upgrade is complete.
+Use the Upgrade Monitor module to schedule and monitor the status of an ongoing upgrade in your instance. You can also view the upgrade summary and the list of records causing conflicts in your instance once the upgrade is complete.
 
 -   [Monitoring an upgrade](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-monitor-instance-upgrade.md): Monitor the progress of an ongoing upgrade in your instance
 -   [Process the skipped records list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-process-skipped-records.md): Resolve the differences between the upgraded and customized versions of a record by processing the skipped records list
 -   [Resolve conflicts of a record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-resolve-conflict.md): Resolve conflicts between your customized record and the changes associated with the upgrade
 
-## Related
-
-- [[uc-monitor-module|Upgrade Monitor module]]

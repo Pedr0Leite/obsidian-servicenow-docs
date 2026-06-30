@@ -14,7 +14,7 @@ breadcrumb: [Managing incidents and tasks using My Work applet, ITSM Mobile Agen
 
 # Change tasks
 
-View and work on the change tasks assigned to you. You can view the details, activities, and other related change tasks by a single tap on the [[itsm-mobile-agent|ITSM mobile agent]] app.
+View and work on the change tasks assigned to you. You can view the details, activities, and other related change tasks by a single tap on the ITSM mobile agent app.
 
 Tap on the card to access all the change tasks assigned to you.
 
@@ -24,6 +24,4 @@ Tap on the card to access all the change tasks assigned to you.
 
     **Note:** Each change task card shows you the risk value of the task. For example, very high, or moderate.
 
-## Related
 
-- [[itsm-mobile-agent|ITSM Mobile Agent]]

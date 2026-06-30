@@ -64,7 +64,7 @@ Members
 
 </td><td>
 
-[[lists-configurable-workspace|Lists]] all members and assignees of the board. You can add or remove board members, promote assignees to be members, and filter the board by member or assignee.
+Lists all members and assignees of the board. You can add or remove board members, promote assignees to be members, and filter the board by member or assignee.
 
 </td></tr><tr><td>
 
@@ -100,12 +100,8 @@ Configuration
 
 </td><td>
 
-[[configure-onboarding-modals|Configure]] the settings for the task board. This setting is only available for the board owner. For more information, see [Customize the look and feel of a task board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureTheTaskBoard.md).
+Configure the settings for the task board. This setting is only available for the board owner. For more information, see [Customize the look and feel of a task board](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/t_ConfigureTheTaskBoard.md).
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/exploring-vis-task-boards.md)
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[configure-onboarding-modals|Configure]]

@@ -14,11 +14,11 @@ breadcrumb: [Accelerate your DevOps change process, DevOps Change Velocity, IT S
 
 # DevOps change models
 
-[[devops-landing-page-new|DevOps Change Velocity]] enables you to use fit-for-purpose change [[c_Models|models]] that allow better flexibility in defining change models or processes to reflect modern development practices.
+DevOps Change Velocity enables you to use fit-for-purpose change models that allow better flexibility in defining change models or processes to reflect modern development practices.
 
 ## DevOps Change model overview
 
-**Important:** For DevOps change requests, use the [[c_ITILChangeManagement|Change Management]] - Change Models feature, which provides greater flexibility to enable the change process flow in a way that is optimized for specific use cases. For more information, see . The legacy Change Management - State Model is also supported. For more information, see [Legacy: State model and transitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ChangeStateModel.md).
+**Important:** For DevOps change requests, use the Change Management - Change Models feature, which provides greater flexibility to enable the change process flow in a way that is optimized for specific use cases. For more information, see . The legacy Change Management - State Model is also supported. For more information, see [Legacy: State model and transitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/change-management/c_ChangeStateModel.md).
 
 **Important:** The DevOps and DevOps Simplified change models are not supported for Argo CD and Split tool change requests.
 
@@ -26,7 +26,7 @@ Use fit-for-purpose change models with a suite of succinct flows and flow action
 
 \[Omitted image "change-model-01.png"\] Alt text: Change models
 
-You can use any of the base system change models including the DevOps or DevOps Simplified change models. To [[t_CreateAChange|create a change request]] based on models, you can either configure the **Model** field in the Step form in ServiceNow, or pass the model sys\_id or name in the change step from your orchestration pipeline.
+You can use any of the base system change models including the DevOps or DevOps Simplified change models. To create a change request based on models, you can either configure the **Model** field in the Step form in ServiceNow, or pass the model sys\_id or name in the change step from your orchestration pipeline.
 
 ## Base system DevOps change models
 
@@ -575,9 +575,3 @@ Update the change model in your existing pipeline steps using the DevOps Pipelin
 
 **Parent Topic:**[Accelerating your DevOps change process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/dev-ops-change-acceleration.md)
 
-## Related
-
-- [[devops-landing-page-new|DevOps Change Velocity]]
-- [[c_Models|Models]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[t_CreateAChange|Create a change request]]

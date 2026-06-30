@@ -12,10 +12,7 @@ breadcrumb: [Mobile App Builder, Building tools, Building mobile apps, Mobile Pl
 
 # Using the Mobile App Builder
 
-Use the [[mab-concept|Mobile App Builder]] to create, edit, and manage your records.
+Use the Mobile App Builder to create, edit, and manage your records.
 
 Select the listed topics to help you manage the components of your mobile app.
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]

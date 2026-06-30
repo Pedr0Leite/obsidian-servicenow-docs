@@ -14,7 +14,7 @@ breadcrumb: [Natural Language Query References, Natural Language Query, Enable A
 
 # NLQ properties
 
-The [[natural-language-query|Natural Language Query]] \(NLQ\) properties control how and where NLQ operates.
+The Natural Language Query \(NLQ\) properties control how and where NLQ operates.
 
 Admins can edit properties of NLQ by navigating to **All** &gt; **System Properties** &gt; **All Properties**. Filter for the NLQ properties.
 
@@ -101,6 +101,3 @@ glide.service\_portal.ais\_nlq\_enabled
 
 [Natural Language Query roles]()
 
-## Related
-
-- [[natural-language-query|Natural Language Query]]

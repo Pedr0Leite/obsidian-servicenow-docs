@@ -91,13 +91,10 @@ Optional description of the profile.
 
     1.  Select the profile you created.
 
-    2.  Select **[[mapping-logrhythm|Mapping]]** in the progress bar.
+    2.  Select **Mapping** in the progress bar.
 
 
 ## What to do next
 
 [Map incident fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/microsoft-defender-mapping.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

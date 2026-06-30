@@ -18,9 +18,9 @@ As a resource manager, you can confirm or block the resources after a resource p
 
 ## Before you begin
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) [[using-rmw|using Resource Management Workspace]] or [[project-workspace-landing-page|Project Workspace]].
+You're encouraged [migrate your existing resource plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md) to work on resource assignments which offers more flexibility and [Create resource assignments and operation resource assignments in Resource Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/create-ra-rmw.md) using Resource Management Workspace or Project Workspace.
 
 Resource managers can [view and assign the unassigned resource assignments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/allocate-resources-rmw.md) using Resource Management Workspace.
 
@@ -82,8 +82,3 @@ The resource plan moves to the Confirmed state and [soft allocations](https://ra
 
 [Associate a time card with a resource plan]()
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]

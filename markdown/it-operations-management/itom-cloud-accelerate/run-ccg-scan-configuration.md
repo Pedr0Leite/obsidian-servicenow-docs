@@ -14,7 +14,7 @@ breadcrumb: [Scan configuration, Using Cloud Configuration Governance, Cloud Con
 
 # Run a scan configuration
 
-Run a scan configuration to evaluate the resource configuration of the given cloud against the specified [[aws-policy-set|policy sets]] and identify the policy violations. [[cloud-configuration-governance|Cloud Configuration Governance]] reports the identified policy violations as audit results.
+Run a scan configuration to evaluate the resource configuration of the given cloud against the specified policy sets and identify the policy violations. Cloud Configuration Governance reports the identified policy violations as audit results.
 
 ## Before you begin
 
@@ -24,12 +24,8 @@ Role required: sn\_itom\_ccg.scheduling\_admin
 
 1.  Navigate to **Cloud Configuration Governance** &gt; **Scan Configurations**.
 
-2.  Open the [[ccg-scan-configuration|scan configuration]] that you want to run.
+2.  Open the scan configuration that you want to run.
 
 3.  Select **Execute**.
 
-## Related
 
-- [[aws-policy-set|Policy sets]]
-- [[cloud-configuration-governance|Cloud Configuration Governance]]
-- [[ccg-scan-configuration|Scan configuration]]

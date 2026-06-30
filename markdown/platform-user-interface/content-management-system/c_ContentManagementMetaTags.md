@@ -14,7 +14,7 @@ breadcrumb: [Configure Content Management sites, Content Management System, Conf
 
 # Content Management meta tags
 
-Meta [[c_Tags|tags]] are special tags in web pages that contain information about the page but are not rendered with the page. You can define custom meta tags for content pages.
+Meta tags are special tags in web pages that contain information about the page but are not rendered with the page. You can define custom meta tags for content pages.
 
 Meta tags are not noticeable to a page visitor unless the visitor looks at the page source code. Web search engines read meta tags as they "crawl" the web, identifying and organizing content. Modern website designers often use meta tags to embed "hints" to search engines about how to index or otherwise crawl the site.
 
@@ -24,7 +24,7 @@ Structurally, a meta tag consists of a tag and a name/content pair and looks sim
 <meta name="generator" content="MediaWiki 1.16wmf4" />
 ```
 
-The [[c_ContentManagementSystem|Content Management System]] allows you to define both site level and page level tags.
+The Content Management System allows you to define both site level and page level tags.
 
 -   **[Configure a page level meta tag](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_AddAPageLevelMetaTag.md)**  
 A page level tag is a meta tag defined on a specific page and included on only that page.
@@ -33,7 +33,7 @@ A site level tag is a meta tag is defined on a site and included on every page w
 -   **[Configure DIV-based layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_ConfigureDivBasedLayouts.md)**  
 After you create your site, you can change the site layout with DIV tags.
 -   **[Content meta tag hierarchy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/r_ContentMetaTagHierarchy.md)**  
-Page and site level meta tags are included in a [[r_ContentMetaTagHierarchy|content meta tag hierarchy]].
+Page and site level meta tags are included in a content meta tag hierarchy.
 
 **Parent Topic:**[Configure Content Management sites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/content-management-system/t_CreateASite.md)
 
@@ -52,8 +52,3 @@ Page and site level meta tags are included in a [[r_ContentMetaTagHierarchy|cont
 
 [Style in Content Management]()
 
-## Related
-
-- [[c_Tags|Tags]]
-- [[c_ContentManagementSystem|Content Management System]]
-- [[r_ContentMetaTagHierarchy|Content meta tag hierarchy]]

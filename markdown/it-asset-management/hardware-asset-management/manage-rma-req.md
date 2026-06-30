@@ -14,9 +14,9 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage RMA requests
 
-Initiate a [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) process by submitting an RMA request to initiate an RMA process with your vendor. You can repair or replace a faulty asset.
+Initiate a Return Merchandise Authorization \(RMA\) process by submitting an RMA request to initiate an RMA process with your vendor. You can repair or replace a faulty asset.
 
-After you [[submit-rma-request|submit an RMA request]] for a defective asset, you must go through various tasks to finalize repairing or replacing the asset.
+After you submit an RMA request for a defective asset, you must go through various tasks to finalize repairing or replacing the asset.
 
 To close an RMA request, you have to close each of its request lines separately. To close a line, you have to complete all the line's RMA tasks, and you must provide any necessary information about the line. You close a line by first closing its Assessment task. Then the defective asset is sent for either off-site or on-site repair. The line is closed after all these tasks are finished.
 
@@ -34,7 +34,7 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -54,13 +54,13 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -78,7 +78,7 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -94,11 +94,3 @@ After you submit an RMA request for a defective asset, you must go through vario
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[return-merchandise-authorization|Return Merchandise Authorization]]
-- [[submit-rma-request|Submit an RMA request]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

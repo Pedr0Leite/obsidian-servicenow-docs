@@ -14,7 +14,7 @@ breadcrumb: [Use, Privacy Management, Governance, Risk, and Compliance]
 
 # Create or manage risks on a processing activity
 
-Add new risks or manage the risks that are automatically added to the processing activity from the assessment responses. Adding risks helps you manage [[ropa-record|processing activities]] using the risk-based approach.
+Add new risks or manage the risks that are automatically added to the processing activity from the assessment responses. Adding risks helps you manage processing activities using the risk-based approach.
 
 ## Before you begin
 
@@ -84,6 +84,3 @@ The mitigating controls are added to the processing activity.
 
 **Parent Topic:**[Using Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/using-privacy-mgmt.md)
 
-## Related
-
-- [[ropa-record|Processing activities]]

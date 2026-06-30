@@ -39,12 +39,9 @@ A request or change request may require approval from another employee within th
     The system makes the following updates:
 
     -   The record status is set to **Approved**.
-    -   The record status is displayed after the record number in the Related Records widget on the [[r_CustomerServiceCaseForm|Case form]].
+    -   The record status is displayed after the record number in the Related Records widget on the Case form.
     -   The record status is added to the Case form.
         -   If the record is approved by the customer administrator or if the customer self-approves the request, the change in status is added to the **Additional comments** field.
         -   For other approvers, the change in status is added to the **Work notes** field.
     -   The approval record is updated in the Approval table.
 
-## Related
-
-- [[r_CustomerServiceCaseForm|Case form]]

@@ -20,11 +20,11 @@ If a merchant refuses a transaction dispute, the case may move to the manual inv
 
 Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dispute\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -58,18 +58,12 @@ Role required: sn\_bom\_credit\_card.dispute\_agent or sn\_bom\_credit\_card.dis
 
     The case is submitted to the dispute manager for review and approval when the chargeback eligibility is `No` and the agent sets the **Pursue Chargeback** value to `Yes`. After the manager approves the task, the user agent can continue with the dispute.
 
-14. Select **[[initiate-chargeback-mastercard|Initiate chargeback]]**.
+14. Select **Initiate chargeback**.
 
 
 ## Result
 
-The dispute moves into the [[chargeback-stage|Chargeback stage]].
+The dispute moves into the Chargeback stage.
 
 **Parent Topic:**[Investigating a dispute](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/investigate-a-dispute.md)
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]
-- [[initiate-chargeback-mastercard|Initiate chargeback]]
-- [[chargeback-stage|chargeback stage]]

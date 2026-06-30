@@ -12,7 +12,7 @@ breadcrumb: [Task Plan Templates, Case management, Organize agent workspaces, Co
 
 # Create a task plan template configuration
 
-Admins can create configurations for [[task-plan-templates|task plan templates]] that pre-fill information in task plan template fields.
+Admins can create configurations for task plan templates that pre-fill information in task plan template fields.
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ Before creating a task plan template, confirm that at least one plan configurati
 
 ### About this task
 
-When you [[create-task-plan-template|create a task plan template]], the system may prompt you to select a plan configuration before the template record opens. This selection helps ensure that the template uses the correct workflow and authoring experience.
+When you create a task plan template, the system may prompt you to select a plan configuration before the template record opens. This selection helps ensure that the template uses the correct workflow and authoring experience.
 
 ### Procedure
 
@@ -67,7 +67,4 @@ When you [[create-task-plan-template|create a task plan template]], the system m
 
 5.  Complete the template fields and select **Save** to save the record.
 
-## Related
 
-- [[task-plan-templates|Task Plan Templates]]
-- [[create-task-plan-template|Create a task plan template]]

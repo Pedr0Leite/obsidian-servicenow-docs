@@ -12,13 +12,13 @@ breadcrumb: [Secrets Management dashboard, Secrets Management, Platform Security
 
 # Secrets Management roles
 
-[[secrets-management|Secrets Management]] adds these roles.
+Secrets Management adds these roles.
 
-**Parent Topic:**[[secrets-dashboard|Secrets Management dashboard]]
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
 ## Secrets administrator \[sn\_secrets.admin\]
 
-Assign non-admin secrets roles to other [[users|users]]. Secrets administrators have the same privileges as secrets manager and viewer.
+Assign non-admin secrets roles to other users. Secrets administrators have the same privileges as secrets manager and viewer.
 
 ### Contains Roles
 
@@ -86,8 +86,3 @@ None.
 
 None.
 
-## Related
-
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[secrets-management|Secrets Management]]
-- [[users|Users]]

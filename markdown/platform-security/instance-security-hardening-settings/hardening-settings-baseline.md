@@ -14,9 +14,9 @@ breadcrumb: [Hardening settings, Platform Security]
 
 # Hardening settings baseline versions
 
-Explore how baseline versions for [[security-hardening-settings|hardening settings]] align with family and store releases.
+Explore how baseline versions for hardening settings align with family and store releases.
 
-[[sec-center-v2|Security Center]] works by ingesting a subset of [[ca-system-properties|system properties]] from an instance and displaying its [[sc-configuration|configuration]] details, along with the security impact of non-compliance within the app. The baseline serves as the reference point for the system properties that are ingested with each release of the Security Center app.
+Security Center works by ingesting a subset of system properties from an instance and displaying its configuration details, along with the security impact of non-compliance within the app. The baseline serves as the reference point for the system properties that are ingested with each release of the Security Center app.
 
 |Security Center version|Hardening settings baseline version|Supported families|Store release date|Installed by default with|
 |-----------------------|-----------------------------------|------------------|------------------|-------------------------|
@@ -31,19 +31,11 @@ Explore how baseline versions for [[security-hardening-settings|hardening settin
 |SCC v 3.3|Baseline v8.0|Australia|March 2026|Australia|
 
 -   **[New hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-new.md)**  
-[[hardening-settings-new|New hardening settings]] are broken out by baseline release.
+New hardening settings are broken out by baseline release.
 -   **[Updated hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-updated.md)**  
-[[hardening-settings-updated|Updated hardening settings]] are broken out for each baseline release.
+Updated hardening settings are broken out for each baseline release.
 -   **[Deleted hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/hardening-settings-deleted.md)**  
 Some hardening settings are removed from Security Center baselines.
 
 **Parent Topic:**[Hardening settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/security-hardening-settings.md)
 
-## Related
-
-- [[security-hardening-settings|Hardening settings]]
-- [[sec-center-v2|Security Center]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[hardening-settings-new|New hardening settings]]
-- [[hardening-settings-updated|Updated hardening settings]]

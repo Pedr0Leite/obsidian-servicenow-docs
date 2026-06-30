@@ -18,7 +18,7 @@ The Jumpstart Your Knowledge Management Accelerator provides a demonstration of 
 
 ## Accelerator overview
 
-Jumpstart Your Knowledge Management provides [[impact-landing-page|Impact]] customers with an  overview of Knowledge Management's key capabilities and features. This offering explores core functionalities and leading practices, guiding customers through effective implementation and adoption strategies. You will learn how to streamline knowledge creation and sharing while enhancing search outcomes for your organization. Additionally, we demonstrate how well crafted knowledge content amplifies results when used with AI-powered features. This Accelerator also includes key resources and leading practice guides to set you on the path to knowledge excellence.
+Jumpstart Your Knowledge Management provides Impact customers with an  overview of Knowledge Management's key capabilities and features. This offering explores core functionalities and leading practices, guiding customers through effective implementation and adoption strategies. You will learn how to streamline knowledge creation and sharing while enhancing search outcomes for your organization. Additionally, we demonstrate how well crafted knowledge content amplifies results when used with AI-powered features. This Accelerator also includes key resources and leading practice guides to set you on the path to knowledge excellence.
 
 ## Package Availability
 
@@ -56,7 +56,7 @@ One or more customer resource is requested. The specific number of resources pro
 |Platform Owner|Responsible for the overall accountability of the ServiceNow platform. Provides leadership and oversight to the System Administrators, ensures team alignment to business strategy and the ServiceNow roadmap, and is actively involved in the overarching governance of the platform.|✓| |
 |System Administrators|Maintains the stability and usability of the ServiceNow platform by performing application maintenance, managing support for cases related to ServiceNow applications, and contributing to ServiceNow software releases by delivering configuration tasks and features.|✓| |
 |Knowledge Process Owners|Primary stakeholders responsible for Knowledge Management process. |✓| |
-|Knowledge Content Stakeholders|Owns, administers, consumes or distributes organizational knowledge. This may include other process and information owners as well as agents, employees and representatives for external stakeholders. Examples: Service Desk Manager for ITSM, Customer Service Manager for CSM, Information Architects, [[user-experience-insights|User Experience]] Analysts,Agents, Engineers &amp; Fulfillers, and Representatives for Employees, Customers, Partners &amp; Consumers.| |✓|
+|Knowledge Content Stakeholders|Owns, administers, consumes or distributes organizational knowledge. This may include other process and information owners as well as agents, employees and representatives for external stakeholders. Examples: Service Desk Manager for ITSM, Customer Service Manager for CSM, Information Architects, User Experience Analysts,Agents, Engineers &amp; Fulfillers, and Representatives for Employees, Customers, Partners &amp; Consumers.| |✓|
 |Developers|Writes code for the ServiceNow platform.| |✓|
 |Trusted Service Partners|Attends ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support customer going forward.| |✓|
 
@@ -70,7 +70,3 @@ This Impact Accelerator in its entirety or portions of the Impact Accelerator ac
 
 ServiceNow resources are not responsible for implementing recommendations on customer’s non-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[user-experience-insights|User Experience]]

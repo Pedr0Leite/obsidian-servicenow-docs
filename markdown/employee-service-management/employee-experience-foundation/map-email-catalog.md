@@ -26,7 +26,7 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
 2.  On the Catalog Mapping Configurations list, select **New**.
 
-3.  On the [[catalog-mapping-config-form|Catalog Mapping Configurations form]], fill in the fields.
+3.  On the Catalog Mapping Configurations form, fill in the fields.
 
     For a description of the field values, see [Catalog Mapping Configurations form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/catalog-mapping-config-form.md).
 
@@ -36,22 +36,16 @@ Role required: sn\_outlook\_addin.outlook\_addin\_setup, sn\_hr\_sp.admin, sn\_h
 
     A Catalog Mapping Configuration record is created. You can add Office Mailbox to Catalog Field Mapping records to map individual fields.
 
-5.  In the Office Mailbox to Catalog [[field-mappings-sf|Field Mappings]] related list, select **New**.
+5.  In the Office Mailbox to Catalog Field Mappings related list, select **New**.
 
-6.  On the [[mailbox-catalog-mapping-form|Office Mailbox to Catalog Field Mappings form]], fill in the fields.
+6.  On the Office Mailbox to Catalog Field Mappings form, fill in the fields.
 
     For a description of the field values, see [Office Mailbox to Catalog Field Mappings form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/mailbox-catalog-mapping-form.md).
 
 7.  Save the form.
 
-    An Office Mailbox to Catalog Field Mappings record is created. You can create more records to [[map-fields-navex|map fields]] based on your requirement.
+    An Office Mailbox to Catalog Field Mappings record is created. You can create more records to map fields based on your requirement.
 
 
 **Parent Topic:**[Configuring ServiceNow Add-in for Microsoft 365](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configuring-sn-addin-for-ms365.md)
 
-## Related
-
-- [[catalog-mapping-config-form|Catalog Mapping Configurations form]]
-- [[field-mappings-sf|Field mappings]]
-- [[mailbox-catalog-mapping-form|Office Mailbox to Catalog Field Mappings form]]
-- [[map-fields-navex|Map fields]]

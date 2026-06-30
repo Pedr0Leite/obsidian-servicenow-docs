@@ -20,7 +20,7 @@ You can configure shopping cart preview screens for the one-step and two-step ca
 
 ## Configure the wish list screen
 
-Using [[service-catalog|Service Catalog]], customize the cart preview screen for wish list items.
+Using Service Catalog, customize the cart preview screen for wish list items.
 
 ### Before you begin
 
@@ -133,6 +133,4 @@ Changes made to the two-step record are visible only if the [two-step checkout p
 
     \[Omitted image "ShpngLoctnCartPrevw.png"\] Alt text: Shopping cart preview screen for a two-step checkout process when shipping location in enabled.
 
-## Related
 
-- [[service-catalog|Service Catalog]]

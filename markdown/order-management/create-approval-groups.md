@@ -16,7 +16,7 @@ Define the approval group, such as a contract or finance group, and the associat
 
 ## Before you begin
 
-[[create-approval-rules|Define the approval rule]] associated with this approval group.
+[Define the approval rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rules.md) associated with this approval group.
 
 Groups are set up in the Group \[sys\_user\] table. For more information on creating groups, see [Create a user group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreateAGroup.md).
 
@@ -40,6 +40,4 @@ Role required: sn\_adv\_appr\_mgmt.approval\_rule\_admin, sn\_adv\_appr\_mgmt.ap
 
 7.  Select **Save**.
 
-## Related
 
-- [[create-approval-rules|Create approval rules]]

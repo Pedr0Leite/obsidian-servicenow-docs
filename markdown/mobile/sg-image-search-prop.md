@@ -41,11 +41,7 @@ Role required: admin
 
 ## What to do next
 
-Enable global search in your screen launcher to begin using photo search on your mobile applications. For details on enabling search on your screen launchers see [[sg-configure-alp-search|Enable global search in your screen launcher]].
+Enable global search in your screen launcher to begin using photo search on your mobile applications. For details on enabling search on your screen launchers see [Enable global search in your screen launcher](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-alp-search.md).
 
-**Parent Topic:**[[sg-configure-image-search|Configure photo search]]
+**Parent Topic:**[Configure photo search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-configure-image-search.md)
 
-## Related
-
-- [[sg-configure-alp-search|Enable global search in your screen launcher]]
-- [[sg-configure-image-search|Configure photo search]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrations Launchpad in SOW for ITOM, Using SOW for ITOM, Service
 
 # Configure Datadog metric pull connector
 
-Configure OAuth-based integration between your Datadog instance and ServiceNow [[c_EM|Event Management]] to securely ingest metric from the Datadog Instance. This setup enables authenticated metric delivery using client credentials, maps discovered server CIs, and allows anomaly alerts to create actionable events in ServiceNow through standard webhooks.
+Configure OAuth-based integration between your Datadog instance and ServiceNow Event Management to securely ingest metric from the Datadog Instance. This setup enables authenticated metric delivery using client credentials, maps discovered server CIs, and allows anomaly alerts to create actionable events in ServiceNow through standard webhooks.
 
 ## Before you begin
 
@@ -28,9 +28,9 @@ Ensure you have the application key configured in the Datadog. For more informat
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -65,7 +65,7 @@ Ensure you have the application key configured in the Datadog. For more informat
 
     -   In the **MID Server** field, select a MID Server that collects metric data from external tools and securely sends it to ServiceNow.
 
-        If none are available, ensure one is installed, running, and has the required capabilities. If none are available, ensure one is installed, running, and has the required capabilities. For example, the **[[operational-metrics|Metric Intelligence]] Context** must be running on the same MID Server that you are configuring.
+        If none are available, ensure one is installed, running, and has the required capabilities. If none are available, ensure one is installed, running, and has the required capabilities. For example, the **Metric Intelligence Context** must be running on the same MID Server that you are configuring.
 
         **Note:** You can select multiple MID Server. The system randomly assigns one as the primary and uses the others as backups.
 
@@ -88,9 +88,4 @@ Ensure you have the application key configured in the Datadog. For more informat
 
     The **Data Retrieval Method** tab contains the connector settings \(such as host, port, and credentials\) and may provide additional details for issues like MID Server errors.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]
-- [[operational-metrics|Metric Intelligence]]

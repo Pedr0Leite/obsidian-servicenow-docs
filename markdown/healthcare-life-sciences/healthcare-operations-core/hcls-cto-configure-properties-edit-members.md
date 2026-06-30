@@ -14,7 +14,7 @@ breadcrumb: [Add or remove members, Configure, Healthcare Operations Core, Healt
 
 # Configure global system properties to edit members in Healthcare Operations Core
 
-A global system property must be configured to properly use the Edit Members functionality in [[hcls-cto-app|Healthcare Operations Core]].
+A global system property must be configured to properly use the Edit Members functionality in Healthcare Operations Core.
 
 ## Before you begin
 
@@ -46,6 +46,3 @@ Role required: admin
 
 The "Available" and "Selected" fields on the Edit Member table displays all available selections.
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]

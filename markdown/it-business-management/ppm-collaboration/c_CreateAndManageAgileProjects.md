@@ -20,7 +20,7 @@ The following tables, arranged by task group, list the tasks involved in creatin
 
 |Task|How do I do this?|
 |----|-----------------|
-|[Define an Agile group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/t_SDLCPPSCreateATeam.md)|Navigate to **[[agile-development|Agile Development]]** &gt; **Create Agile Group** and click **New**.|
+|[Define an Agile group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/t_SDLCPPSCreateATeam.md)|Navigate to **Agile Development** &gt; **Create Agile Group** and click **New**.|
 |[Add group members](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/t_SDLCPPSCreateATeam.md)|Navigate to the **Group members** related list on the Group form and click **Edit**.|
 |[Decide the capacity of a group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/t_SDLCPPSCreateATeam.md)|Navigate to **Agile Development** &gt; **Groups**, select the desired group, and enter a number in the **Group capacity \(points\)** field.|
 
@@ -44,7 +44,7 @@ Create a project
 </td><td>
 
 -   Navigate to **Project** &gt; **Projects** &gt; **Create New**.
--   Navigate to **Project** &gt; **Projects** &gt; **[[project-workspace-landing-page|Project Workspace]]** and click **New Project**.
+-   Navigate to **Project** &gt; **Projects** &gt; **Project Workspace** and click **New Project**.
 
 </td></tr></tbody>
 </table><table><thead><tr><th>
@@ -61,7 +61,7 @@ Open an existing project
 
 </td><td>
 
--   Click the **Project Workspace** related link on the [[create-a-project-form|Project form]].
+-   Click the **Project Workspace** related link on the Project form.
 -   Navigate to **Project** &gt; **Projects** &gt; **Project Workspace** and select the project from the **Select Projects** choice list in the workspace header.
 
 </td></tr></tbody>
@@ -79,15 +79,15 @@ Create an agile phase for a project
 
 </td><td>
 
-Click the Add phase icon \(\[Omitted image "ProjectWorkbenchAddPhaseIcon.png"\] Alt text: screenshot for add phase icon\) and select **Agile** from the Phase Type choice list.**Note:** This option appears only when both the [[c_ProjectPortfolioSuite|Project Portfolio Management]] and [[agile-landing-page|Agile Development 2.0]] applications are installed.
+Click the Add phase icon \(\[Omitted image "ProjectWorkbenchAddPhaseIcon.png"\] Alt text: screenshot for add phase icon\) and select **Agile** from the Phase Type choice list.**Note:** This option appears only when both the Project Portfolio Management and Agile Development 2.0 applications are installed.
 
 </td></tr><tr><td>
 
-[[t_CreateATest|Create a test]] phase for a project
+Create a test phase for a project
 
 </td><td>
 
-Click the Add phase icon \(\[Omitted image "ProjectWorkbenchAddPhaseIcon.png"\] Alt text: screenshot for add phase icon\) and select **Test** from the Phase Type choice list.**Note:** This option appears only when both the Project Portfolio Management and [[test-management2-landing-page|Test Management 2.0]] applications are installed.
+Click the Add phase icon \(\[Omitted image "ProjectWorkbenchAddPhaseIcon.png"\] Alt text: screenshot for add phase icon\) and select **Test** from the Phase Type choice list.**Note:** This option appears only when both the Project Portfolio Management and Test Management 2.0 applications are installed.
 
 </td></tr></tbody>
 </table><table><thead><tr><th>
@@ -166,11 +166,11 @@ Click the Agile phase edit icon and select the group from the **Group** choice l
 
 |Task|How do I do this?|
 |----|-----------------|
-|Create a test plan|Navigate to **Test Management** &gt; **Test Execution** &gt; **[[c_TestPlans|Test Plans]]** &gt; **New**.|
-|Add [[c_TestCases|test cases]] to a test plan|Click the **Add Test Cases from Test Suite** related link on the Test Plan form.|
+|Create a test plan|Navigate to **Test Management** &gt; **Test Execution** &gt; **Test Plans** &gt; **New**.|
+|Add test cases to a test plan|Click the **Add Test Cases from Test Suite** related link on the Test Plan form.|
 |Assign test cases to testers|Select a user in the **Assigned to** field on the Test Case form.|
 |Notify testers to start testing|Click the **Notify testers** to start testing related link on the Test Plan form.|
-|Tester performs [[c_Tests|tests]] and submits results|Navigate to **Self-Service** &gt; **My Tests** or **Self-Service** &gt; **My Assessments**.|
+|Tester performs tests and submits results|Navigate to **Self-Service** &gt; **My Tests** or **Self-Service** &gt; **My Assessments**.|
 |Monitor the testing progress|The Test Plans list, Test Plan form, and Test Case form all display results for test cases and individual tests.|
 |Testing sign-off|Click the **Sign-off Test Plan** related link on Test Plan form.|
 
@@ -217,15 +217,3 @@ Navigate to **Test Management 2.0** &gt; **Tests Assigned to me**. Select the re
 </td></tr></tbody>
 </table>**Parent Topic:**[Agile Development 2.0 integration with Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_SDLCIntegrationWithProjectPortfolioSuite.md)
 
-## Related
-
-- [[agile-development|Agile Development]]
-- [[project-workspace-landing-page|Project Workspace]]
-- [[create-a-project-form|Project form]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[t_CreateATest|Create a test]]
-- [[test-management2-landing-page|Test Management 2.0]]
-- [[c_TestPlans|Test plans]]
-- [[c_TestCases|Test cases]]
-- [[c_Tests|Tests]]

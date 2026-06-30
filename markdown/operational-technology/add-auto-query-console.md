@@ -112,7 +112,7 @@ Role required: admin
 
     To do this, select both or either the **UDP Port Enumeration** and/or **TCP Port Enumeration** \(highlighted in the previous image\) from the Advanced Query Types. Each scan determines all open ports for their two respective protocols.
 
-    **Note:** For these query types to be available, ensure your ScanScripts.json driver is up to date; if not, upload the latest version of this driver. For information about Query drivers, see [[edit-query-driver-on-metadata|Edit the Query Driver on Metadata tab]].
+    **Note:** For these query types to be available, ensure your ScanScripts.json driver is up to date; if not, upload the latest version of this driver. For information about Query drivers, see [Edit the Query Driver on Metadata tab](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/edit-query-driver-on-metadata.md).
 
 12. Select **Next**
 
@@ -138,9 +138,5 @@ Role required: admin
 
 ## Result
 
-The query is added to the [[auto-query-console|Auto Query page]].
+The query is added to the Auto Query page.
 
-## Related
-
-- [[edit-query-driver-on-metadata|Edit the Query Driver on Metadata tab]]
-- [[auto-query-console|Auto Query page]]

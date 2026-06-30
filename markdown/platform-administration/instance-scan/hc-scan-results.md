@@ -16,11 +16,11 @@ breadcrumb: [Results, Reviewing of scans, Using Instance Scan, Instance Scan, Ma
 
 Scan Results dashboard helps you with an overview of all details of an executed scan.
 
-Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **[[hs-results|Results]]**. Select a scan result from the Scan Results list. Click Results Dashboard link on the Scan Result form.
+Navigate to **All** &gt; **Instance Scan** &gt; **Results**. Select a scan result from the Scan Results list. Click Results Dashboard link on the Scan Result form.
 
 \[Omitted image "hc-scan-results-dashboard.png"\] Alt text: Image showing scan results dashboard
 
-Select **Rescan** to execute the same scan again. If you want to see all the [[hs-findings|findings]] grouped by checks, select **Findings** at the top right corner.
+Select **Rescan** to execute the same scan again. If you want to see all the findings grouped by checks, select **Findings** at the top right corner.
 
 <table id="table_ph5_fns_xjb"><thead><tr><th>
 
@@ -105,8 +105,3 @@ Name of the user whose changes generated the findings.**Note:** Only the top 5 u
 
 **Parent Topic:**[Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-results.md)
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hs-results|Results]]
-- [[hs-findings|Findings]]

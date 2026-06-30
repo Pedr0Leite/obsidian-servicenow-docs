@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Restrict Impersonation to Admin
 
-The **glide.sys.permissive.impersonate** property can be used to prevent non-admin roles from impersonating other [[users|users]].
+The **glide.sys.permissive.impersonate** property can be used to prevent non-admin roles from impersonating other users.
 
 When the **glide.sys.permissive.impersonate** system property is set to a value of **false**, only users with the **admin** role may impersonate. When this value is set to **true**, users may be able to make use of application components that expose impersonation APIs to impersonate a higher privileged user.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -117,8 +117,3 @@ Non-admin users can access Impersonation features with some customizations to ot
 </td></tr></tbody>
 </table>**Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

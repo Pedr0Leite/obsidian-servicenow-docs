@@ -16,7 +16,7 @@ breadcrumb: [Legacy Software Asset Management plugin, ITSM Software Asset Manage
 
 A software contract is a binding agreement between the owner of a software product and a buyer. The contract enables the buyer to use the software legally.
 
-You can use the [[c_ContractManagement|Contract Management]] application to create [[c_Contracts|contracts]] for software that is tracked and managed through the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin. When you create a new software contract, you can specify that the contract is an enterprise or subscription license.
+You can use the Contract Management application to create contracts for software that is tracked and managed through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin. When you create a new software contract, you can specify that the contract is an enterprise or subscription license.
 
 -   **[Create software contracts for the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/t_CreatingSoftwareContracts.md)**  
 You can create binding agreements that enable buyers to legally use software that is tracked and managed through the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
@@ -34,11 +34,11 @@ You can create binding agreements that enable buyers to legally use software tha
 
 [Software licenses in the legacy Software Asset Management plugin]()
 
-[Manage [[c_CreatingSoftwareModels|software models]] using the legacy Software Asset Management plugin]()
+[Manage software models using the legacy Software Asset Management plugin]()
 
 [License calculations with the legacy Software Asset Management plugin]()
 
-[Software discovery [[c_Models|models]] in the legacy Software Asset Management plugin]()
+[Software discovery models in the legacy Software Asset Management plugin]()
 
 [Legacy Software License Compliance Checker]()
 
@@ -48,10 +48,3 @@ You can create binding agreements that enable buyers to legally use software tha
 
 [Legacy Oracle process pack]()
 
-## Related
-
-- [[c_ContractManagement|Contract Management]]
-- [[c_Contracts|Contracts]]
-- [[c_AssetManagement|Asset Management]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[c_Models|Models]]

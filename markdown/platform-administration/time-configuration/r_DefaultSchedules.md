@@ -19,7 +19,7 @@ Default schedules are available in a base system.
 |Name|Schedule|
 |----|--------|
 |8-5 weekdays|Repeats every week on weekdays Monday through Friday.|
-|8-5 weekdays excluding holidays|Repeats every week on weekdays Monday through Friday. Includes the child schedule U.S. [[c_Holidays|Holidays]].|
+|8-5 weekdays excluding holidays|Repeats every week on weekdays Monday through Friday. Includes the child schedule U.S. Holidays.|
 |Application|Repeats every week on Sunday.|
 |Application FLX|Repeats every week on Sunday.|
 |Blackout Wednesdays \(GMT\)|Repeats every week on Wednesday.|
@@ -54,13 +54,9 @@ Default schedules are available in a base system.
 
 [Repeat a monthly schedule]()
 
-[Using [[c_UseSchedules|schedules]] and calendars]()
+[Using schedules and calendars]()
 
 [Domain support and schedules]()
 
 [Schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/time-configuration/c_UseSchedules.md)
 
-## Related
-
-- [[c_Holidays|Holidays]]
-- [[c_UseSchedules|Schedules]]

@@ -15,7 +15,7 @@ breadcrumb: [Use, Digital Product Release, IT Service Management]
 
 # Configure product-level release settings
 
-Configure release [[settings-mobile|settings]] for a product or service that are applied whenever a release is created or executed for that product.
+Configure release settings for a product or service that are applied whenever a release is created or executed for that product.
 
 ## Before you begin
 
@@ -23,7 +23,7 @@ Role required: sn\_dpr\_model.release\_admin or sn\_dpr\_model.product\_manager
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -69,11 +69,11 @@ Release templates that can be applied to new releases.
 
 </td></tr><tr><td>
 
-Change [[c_Models|models]]
+Change models
 
 </td><td>
 
-Controls which change models and standard [[change-templates|change templates]] are available when creating and linking change requests for a release.**Note:** This list displays only those change models that have **Available in 'Create New'** selected and standard change templates that are active.
+Controls which change models and standard change templates are available when creating and linking change requests for a release.**Note:** This list displays only those change models that have **Available in 'Create New'** selected and standard change templates that are active.
 
 </td></tr><tr><td>
 
@@ -110,9 +110,3 @@ The release settings for the product are saved and are used in the following flo
 
 [Manage configuration items in a release](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-work-release-config-items.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[dpr-workspace|Digital Product Release Workspace]]
-- [[c_Models|Models]]
-- [[change-templates|Change templates]]

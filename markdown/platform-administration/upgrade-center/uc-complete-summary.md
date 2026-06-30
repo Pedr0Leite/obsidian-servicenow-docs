@@ -158,8 +158,5 @@ The Top 10 Schema Changes by Duration helps you understand which schema changes 
 
 \[Omitted image ""\] Alt text:
 
-The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade [[c_MetricDefinitionSupport|Metrics]]** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-view-loaded-files-plugin.md) for more information.
+The Top 10 Plugins by Duration helps you see the plugins that required the most time. Click **View all plugin duration** to see the **System Upgrade Metrics** list filtered by current sys upgrade history log and sorted by duration. See [View loaded files for a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/upgrade-center/uc-view-loaded-files-plugin.md) for more information.
 
-## Related
-
-- [[c_MetricDefinitionSupport|Metrics]]

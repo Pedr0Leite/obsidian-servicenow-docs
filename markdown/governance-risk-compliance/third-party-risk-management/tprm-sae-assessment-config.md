@@ -14,7 +14,7 @@ breadcrumb: [Configure, Third-party Risk Management, Governance, Risk, and Compl
 
 # Smart assessment configuration
 
-The TPR manager and TPR admin roles involve a broad variety of responsibilities. After the TPRM base system is set up, you configure [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] specific settings as well as other assessment settings that enable and enhance everyday risk-assessment tasks. TPRM admins can enable SAE and work with SAE templates.
+The TPR manager and TPR admin roles involve a broad variety of responsibilities. After the TPRM base system is set up, you configure Smart Assessment Engine specific settings as well as other assessment settings that enable and enhance everyday risk-assessment tasks. TPRM admins can enable SAE and work with SAE templates.
 
 ## Assessment setup overview
 
@@ -64,7 +64,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 </td></tr><tr><td>
 
-Update [[airc-assessment-templates|assessment templates]] and issue generation rules.
+Update assessment templates and issue generation rules.
 
 </td><td>
 
@@ -104,7 +104,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 </td></tr><tr><td>
 
-[[tprm-risk-rating-scales-config|Set up risk rating scales for scoring]] assessments and questionnaires.
+Set up risk rating scales for scoring assessments and questionnaires.
 
 </td><td>
 
@@ -145,7 +145,7 @@ You can’t add new components or modify existing ones. You can, however, define
 The following component classifications are available.
 
 -   Third-party components
-    -   Third-party [[risk-assessments|risk assessments]] \(External risk assessments\)
+    -   Third-party risk assessments \(External risk assessments\)
     -   Subsidiaries
     -   Engagements
     -   Risk intelligence rating
@@ -195,7 +195,7 @@ Create assessment templates for external questionnaires.
 
 </td><td>
 
-This task is required for the initial setup of TPRM.You can [[sae-asmnt-template-create|create an assessment template]] with set duration requirements and questionnaires attached by default to help streamline the assessment process for different types of third parties and engagements.
+This task is required for the initial setup of TPRM.You can create an assessment template with set duration requirements and questionnaires attached by default to help streamline the assessment process for different types of third parties and engagements.
 
  For more information, see [Create an external assessment template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/create-vendor-risk-assess-temp.md).Role required: admin or sn\_vdr\_risk\_asmt.vendor\_risk\_manager
 
@@ -249,7 +249,7 @@ Manage Smart Assessment template versions
 
 </td><td>
 
-This task is optional.SAE [[template-versioning|template versioning]] uses a deep copy approach: each version is a full copy of the template. When you publish a new version, the previously published version is automatically retired. Retired versions remain visible but cannot be used for new assessments. Template versions can also be deleted.
+This task is optional.SAE template versioning uses a deep copy approach: each version is a full copy of the template. When you publish a new version, the previously published version is automatically retired. Retired versions remain visible but cannot be used for new assessments. Template versions can also be deleted.
 
 To create a new version, use the **Create Version** action on the template record in the Vendor Management Workspace. Editing a published template in place is no longer supported.
 
@@ -257,7 +257,7 @@ Role required: sn\_vdr\_risk\_asmt.vendor\_risk\_admin
 
 </td></tr><tr><td>
 
-Set up [[ai-generated-responses-for-smart-assessment|Smart Assessment Response Assist skill]]
+Set up Smart Assessment Response Assist skill
 
 </td><td>
 
@@ -265,7 +265,7 @@ This task is optional.
 
  Set up the Smart Assessment Response Assist skill to generate initial draft responses from vendor documents and previously completed assessments. The skill works at the template category level.
 
- Install [[now-assist-for-smart-assessment-engine|Now Assist for Smart Assessment Engine]] and activate the Smart Assessment Response Assist skill, then configure template categories for document-assisted drafting in TPRM.
+ Install Now Assist for Smart Assessment Engine and activate the Smart Assessment Response Assist skill, then configure template categories for document-assisted drafting in TPRM.
 
  For more information, see [Activate smart assessment response assist skill](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/activate-smart-assessment-response-assist-skill.md) and [Configure AI-assisted questionnaire pre-fill for TPRM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-dms-sae-config.md).
 
@@ -292,14 +292,3 @@ Install and activate the required SBOM applications to enable SBOM collection in
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[airc-assessment-templates|Assessment templates]]
-- [[tprm-risk-rating-scales-config|Set up risk rating scales for scoring]]
-- [[risk-assessments|risk assessments]]
-- [[sae-asmnt-template-create|Create an assessment template]]
-- [[template-versioning|Template versioning]]
-- [[ai-generated-responses-for-smart-assessment|Smart Assessment response assist skill]]
-- [[now-assist-for-smart-assessment-engine|Now assist for smart assessment engine]]

@@ -14,17 +14,12 @@ breadcrumb: [Infoblox, Service Graph Connectors, Integrating third-party data in
 
 # Service Graph Connector for Infoblox reference
 
-[[reference|Reference]] topics provide additional information about [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]] components.
+Reference topics provide additional information about Service Graph Connector for Infoblox components.
 
 -   **[Life cycle management of records in Service Graph Connector for Infoblox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-infoblox-lc.md)**  
 Life cycle management in the Service Graph Connector for Infoblox monitors and updates the statuses of Infoblox resources throughout their life cycle, from creation to deletion.
 -   **[Service Graph Connector for Infoblox properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/cmdb-sgc-infoblox-props.md)**  
-[[cmdb-sgc-infoblox-props|Service Graph Connector for Infoblox properties]] control the behavior of the connector.
+Service Graph Connector for Infoblox properties control the behavior of the connector.
 
 **Parent Topic:**[Service Graph Connector for Infoblox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-integration-infoblox.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]]
-- [[cmdb-sgc-infoblox-props|Service Graph Connector for Infoblox properties]]

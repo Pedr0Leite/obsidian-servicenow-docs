@@ -21,7 +21,7 @@ The Financial Services Control Accelerator gives customers an operational head-s
 Beginning with the Zurich release, Financial Services Control Accelerator supports the FFIEC content such as Authority Document, Citations, and Control Objectives for:
 
 -   FFIEC Architecture, Infrastructure, and Operations \(AIO\) IT Examination Handbook
--   FFIEC [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) IT Examination Handbook
+-   FFIEC Business Continuity Management \(BCM\) IT Examination Handbook
 -   FFIEC Development, Acquisition, and Maintenance \(DAM\) IT Examination Handbook.
 
 ## Content for New York State Department Of Financial Services \(NYDFS\)
@@ -32,10 +32,10 @@ This accelerator also includes mapping of FFIEC and NYDFS control objectives and
 
 Prior to running the Financial Services Control Accelerator application, you must download and activate the following GRC applications:
 
--   GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+-   GRC: Policy and Compliance Management
 -   GRC: Profiles
 
-**Note:** Follow the instructions for [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]].
+**Note:** Follow the instructions for [Download a GRC application from the ServiceNow Store for the first time](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/download-grc-first-time.md).
 
 ## Financial Services Control Accelerator controls
 
@@ -82,8 +82,3 @@ The Control Objectives module provides a list of control objectives associated w
 </td></tr></tbody>
 </table>**Parent Topic:**[Governance, Risk, and Compliance use case accelerators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-use-case-accelerators.md)
 
-## Related
-
-- [[download-grc-first-time|Download a GRC application from the ServiceNow Store for the first time]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

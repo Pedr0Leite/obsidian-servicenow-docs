@@ -18,7 +18,7 @@ Add a shared component to an application, view shared components that are availa
 
 ## Before you begin
 
-**Important:** Starting with the Washington D.C. release, [[devops-config-landing-page|DevOps Config]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+**Important:** Starting with the Washington D.C. release, DevOps Config is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 Roles required: CDM Editor \[sn\_cdm.cdm\_editor\]
 
@@ -41,7 +41,7 @@ All of these changes are withing the application changeset.
 
     -   **Available:** List of shared components that the application can include in its config data.
 
-        For a shared component to be available for use in [[dex-workspace-application-tab|applications]], the component must be in the **Published** state and the library that holds the component must be in the **Available** state.
+        For a shared component to be available for use in applications, the component must be in the **Published** state and the library that holds the component must be in the **Available** state.
 
     -   **In use:** List of shared components that are currently used in the application.
     -   **Updates:** A card appears when a newer published version of a component is available. Select the **refresh** icon \(\[Omitted image "icon-refresh.png"\] Alt text: refresh icon\) to ensure that you’re viewing all current updates.
@@ -85,7 +85,3 @@ All of these changes are withing the application changeset.
 
 [Sharing components among applications — Component libraries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-family/cdm-component-libraries.md)
 
-## Related
-
-- [[devops-config-landing-page|DevOps Config]]
-- [[dex-workspace-application-tab|Applications]]

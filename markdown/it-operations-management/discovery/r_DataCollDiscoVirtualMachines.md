@@ -15,7 +15,7 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 
 # Discovery for data-center virtualization
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns identify and classify information about virtual machines discovered in a data-center.
+Discovery and Service Mapping Patterns identify and classify information about virtual machines discovered in a data-center.
 
 ## Data collected
 
@@ -32,7 +32,3 @@ breadcrumb: [Discovery, ITOM Visibility, IT Operations Management]
 |vCenter Reference|cmdb\_ci\_vmware\_instance|vcenter\_ref|
 |vCenter Reference UUID|cmdb\_ci\_vmware\_instance|vcenter\_uuid|
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

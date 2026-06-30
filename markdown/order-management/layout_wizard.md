@@ -16,11 +16,11 @@ Watch a video about how to generate a layout.
 
 Use the Layout Wizard to quickly build a layout for a blueprint with a visual representation of how configuration experience will display to the end user.
 
-**Note:** The Layout Wizard works only to generate [[layouts|layouts]]. Edits or additions to an existing layout must still be made by downloading and editing the layout CSV file and uploading the updated file.
+**Note:** The Layout Wizard works only to generate layouts. Edits or additions to an existing layout must still be made by downloading and editing the layout CSV file and uploading the updated file.
 
 ## Prerequisites
 
-Have a blueprint created with desired [[fields|fields]] associated to it.
+Have a blueprint created with desired fields associated to it.
 
 ## How it works
 
@@ -31,13 +31,7 @@ View a walkthrough of the CPQ Layout Wizard.
 **Related topics**  
 
 
-[[layout_csv_101|Set up layouts]]
+[Set up layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layout_csv_101.md)
 
-[[csv_layout_upload|CSV layout upload]]
+[CSV layout upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csv_layout_upload.md)
 
-## Related
-
-- [[layout_csv_101|Set up layouts]]
-- [[csv_layout_upload|CSV layout upload]]
-- [[layouts|Layouts]]
-- [[fields|Fields]]

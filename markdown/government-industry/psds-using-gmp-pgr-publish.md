@@ -12,7 +12,7 @@ breadcrumb: [Grants Management Program Setup, Grants Management, Solutions, Use,
 
 # Publish a grant program opportunity to the Grants Management Portal in Grants Management
 
-Define announcement removal and proposal close dates and publish the program announcement to the [[psds-gmp-overview|Grants Management Portal]].
+Define announcement removal and proposal close dates and publish the program announcement to the Grants Management Portal.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Role required: grant program admin, director, manager
 
     -   **Request Approval**- Submit a request to the designated internal program team approver or the grant program director to review and approve the grant proposal. You can publish the grant program only after it is approved by the internal program team or the grant program director.
     -   **Skip approval**- Move to the next activity without requesting an approval from the internal program team approver or the grant program director.
-    For more information on how to approve a pending grants program as a designated approver, see [[psds-using-gmp-approve-pgr-approver|Approve publishing of a grant opportunity]].
+    For more information on how to approve a pending grants program as a designated approver, see [Approve publishing of a grant opportunity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-using-gmp-approve-pgr-approver.md).
 
     After the approval is complete, you can either publish the grant program immediately, or schedule the date that you want the program to be displayed live.
 
@@ -77,7 +77,3 @@ Your grant program has been published \(or scheduled to be published\) and ready
 
 Once the grant program is published, applicants can begin submitting proposals for the program through the Grants Management Portal. For more information on how to view and manage all the grant proposals submitted for your grant program, see .
 
-## Related
-
-- [[psds-using-gmp-approve-pgr-approver|Approve publishing of a grant opportunity]]
-- [[psds-gmp-overview|Grants Management Portal]]

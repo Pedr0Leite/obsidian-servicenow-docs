@@ -14,7 +14,7 @@ breadcrumb: [Service Catalog in Service Portal, Integrating Service Catalog, Ser
 
 # Access Service Catalog categories in Service Portal
 
-Access [[c_ServiceCatalogCategories|Service Catalog categories]] to access the catalog items within.
+Access Service Catalog categories to access the catalog items within.
 
 ## Before you begin
 
@@ -72,6 +72,3 @@ Role required: requester
 
 [SC Categories widget](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/sc-categories-widget.md)
 
-## Related
-
-- [[c_ServiceCatalogCategories|Service catalog categories]]

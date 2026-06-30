@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery
 
 # Kiosk Page Customizations
 
-The [[page-configurations|Page Configurations]] created for the [[workplace-services-kiosk|Workplace Services Kiosk]] can be further customized by using their related lists.
+The Page Configurations created for the Workplace Services Kiosk can be further customized by using their related lists.
 
 ## Authentication Page
 
@@ -148,7 +148,3 @@ After creating an end page configuration, you can add further steps for the visi
 
 [Additional requirement form]()
 
-## Related
-
-- [[page-configurations|Page configurations]]
-- [[workplace-services-kiosk|Workplace Services Kiosk]]

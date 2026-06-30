@@ -22,7 +22,7 @@ Role required: admin and catalog\_builder\_developer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[service-catalog|Service Catalog]]** &gt; **[[catalog-builder|Catalog Builder]]**.
+1.  Navigate to **All** &gt; **Service Catalog** &gt; **Catalog Builder**.
 
 2.  Select the Dashboard tab, and then select **Create a new catalog item**.
 
@@ -34,7 +34,7 @@ Role required: admin and catalog\_builder\_developer
 
 6.  Select **New**.
 
-7.  On the [[client-script-form|Catalog client script form]], select the Actions tab, and add your script.
+7.  On the Catalog client script form, select the Actions tab, and add your script.
 
 8.  Give a name to your client script, set whether to make it active or not, and choose the script type.
 
@@ -52,8 +52,3 @@ Role required: admin and catalog\_builder\_developer
 
 [Catalog builder developer \[catalog\_builder\_developer\]](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/r_ServiceCatalogManagementTermsandRoles.md)
 
-## Related
-
-- [[service-catalog|Service Catalog]]
-- [[catalog-builder|Catalog Builder]]
-- [[client-script-form|Catalog client script form]]

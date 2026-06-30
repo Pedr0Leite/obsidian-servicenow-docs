@@ -12,7 +12,7 @@ breadcrumb: [Add an integration, Use SIR Integration Builder, LLM-powered SIR in
 
 # Review integration
 
-Review and publish the integration for using it in [[sir-workspace-landing-page|Security Incident Response Workspace]].
+Review and publish the integration for using it in Security Incident Response Workspace.
 
 ## Before you begin
 
@@ -31,11 +31,6 @@ Role required: sn\_si\_int\_kit.integration\_creator
 
 ## What to do next
 
--   [[verify-capabilities|Verify capabilities in ServiceNow Studio]]
--   [[use-capabilities-sir-workspace|Use capabilities in SIR Workspace]]
+-   [Verify capabilities in ServiceNow Studio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/verify-capabilities.md)
+-   [Use capabilities in SIR Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/use-capabilities-sir-workspace.md)
 
-## Related
-
-- [[verify-capabilities|Verify capabilities in ServiceNow Studio]]
-- [[use-capabilities-sir-workspace|Use capabilities in SIR Workspace]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]

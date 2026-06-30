@@ -15,7 +15,7 @@ breadcrumb: [Service Mapping MCP tools, AI capabilities in Service Mapping, Usin
 
 # Connect Claude Desktop to the Service Mapping MCP Server
 
-Add the [[c_ServiceMappingOverview|Service Mapping]] MCP Server as a custom connector in Claude Desktop so you can query application service data from your ServiceNow® instance in natural language.
+Add the Service Mapping MCP Server as a custom connector in Claude Desktop so you can query application service data from your ServiceNow® instance in natural language.
 
 ## Before you begin
 
@@ -39,7 +39,7 @@ Before connecting Claude Desktop to the Service Mapping MCP Server, confirm the 
 
 ## About this task
 
-Claude Desktop supports custom MCP connectors that let Claude query external data sources on your behalf. After you add the Service Mapping MCP Server as a connector and authorize it with your ServiceNow credentials, Claude can call the [[service-mapping-mcp-server|Service Mapping MCP tools]] whenever you ask a question about application services in a chat.
+Claude Desktop supports custom MCP connectors that let Claude query external data sources on your behalf. After you add the Service Mapping MCP Server as a connector and authorize it with your ServiceNow credentials, Claude can call the Service Mapping MCP tools whenever you ask a question about application services in a chat.
 
 For detailed information, see [Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md)
 
@@ -96,7 +96,3 @@ For the full list of available tools, input parameters, example queries, and usa
 
 **Parent Topic:**[Service Mapping MCP tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/service-mapping-mcp-server.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[service-mapping-mcp-server|Service Mapping MCP tools]]

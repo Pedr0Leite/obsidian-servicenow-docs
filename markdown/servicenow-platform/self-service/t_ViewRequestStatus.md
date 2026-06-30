@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **Requested Items**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Requested Items**.
 
 2.  Click your order number to view details.
 
@@ -35,6 +35,3 @@ Role required: admin
 
 **Parent Topic:**[Service catalog requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/self-service/p_ServiceCatalogRequests.md)
 
-## Related
-
-- [[self-service-landing|Self-service]]

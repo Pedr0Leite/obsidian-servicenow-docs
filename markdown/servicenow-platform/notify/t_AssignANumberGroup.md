@@ -14,7 +14,7 @@ breadcrumb: [Numbers and number groups, Notify reference, Notify, Manage service
 
 # Associate a number to a number group
 
-Associate a [[notify-landing-page|Notify]] number to a number group to use inbound and outbound workflows.
+Associate a Notify number to a number group to use inbound and outbound workflows.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Role required: notify\_admin
 
 **Parent Topic:**[Numbers and number groups](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NumberGroups.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

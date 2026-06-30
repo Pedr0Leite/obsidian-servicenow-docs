@@ -18,9 +18,9 @@ Configure de-duplication remediation processes for related tables, to turn off t
 
 ## About this task
 
-Related tables \(tables that [[reference|reference]] CIs\), might have for example, business rules that prevent the update of the referenced CI to the main CI during duplicate CI remediation. You can configure remediation processes to turn off all automated processes for specific tables, and by doing so, to allow remediation processes to complete. For example, ignore errors and skip ALL business rules, in such related tables. Those settings are stored in the De-duplication Related Table Configurations \[reconcile\_duplicate\_related\_table\_config\] table.
+Related tables \(tables that reference CIs\), might have for example, business rules that prevent the update of the referenced CI to the main CI during duplicate CI remediation. You can configure remediation processes to turn off all automated processes for specific tables, and by doing so, to allow remediation processes to complete. For example, ignore errors and skip ALL business rules, in such related tables. Those settings are stored in the De-duplication Related Table Configurations \[reconcile\_duplicate\_related\_table\_config\] table.
 
-Each record in the reconcile\_duplicate\_related\_table\_config table represents a table with [[reference-document-management|references]] to CIs. Settings in the De-duplication Related Table Configurations table are in effect during the processing of de-duplication tasks, but only if the system property **glide.duplicate\_ci\_remediator.merge\_related\_items\_enhanced** is **true** \(default value\). In the base system, the De-duplication Related Table Configurations table contains records for the Change \[change\_request\] and the Task CI \[task\_ci\] related tables, which are configured to skip business rules and ignore database errors.
+Each record in the reconcile\_duplicate\_related\_table\_config table represents a table with references to CIs. Settings in the De-duplication Related Table Configurations table are in effect during the processing of de-duplication tasks, but only if the system property **glide.duplicate\_ci\_remediator.merge\_related\_items\_enhanced** is **true** \(default value\). In the base system, the De-duplication Related Table Configurations table contains records for the Change \[change\_request\] and the Task CI \[task\_ci\] related tables, which are configured to skip business rules and ignore database errors.
 
 Add records to the De-duplication Related Table Configurations table to configure additional related tables for which you'd like to skip business rules and/or ignore database errors during de-duplication remediation.
 
@@ -88,7 +88,3 @@ When configuring de-duplication remediation, you select which tables to include 
 
 **Parent Topic:**[Duplicate CIs remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/de-duplication-tasks.md)
 
-## Related
-
-- [[reference|Reference]]
-- [[reference-document-management|References]]

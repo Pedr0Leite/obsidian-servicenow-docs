@@ -26,7 +26,7 @@ In automated metric definitions, the data is collected automatically based on th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]** &gt; **Lists** &gt; **Metrics** &gt; **Automated metric definitions**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace** &gt; **Lists** &gt; **Metrics** &gt; **Automated metric definitions**.
 
 2.  Select **New**.
 
@@ -52,6 +52,3 @@ The fields of the automated metric definition form are explained in this topic.
 
 **Parent Topic:**[Configuring metrics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/configuring-irm-metrics.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

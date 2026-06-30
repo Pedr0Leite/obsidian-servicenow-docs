@@ -24,7 +24,7 @@ You must have configured a work schedule and attached a template to it. For more
 
 ## About this task
 
-A schedule occurrence in [[planned-work-management|Planned Work Management]] is a particular event within a repeating maintenance schedule. Each schedule occurrence is an automatically created record, representing one planned maintenance event as part of an ongoing schedule. It serves as a link between the maintenance plan and the work order that will be carried out. Schedule occurrences also helps in auditing the previous work orders for the maintenance plan.
+A schedule occurrence in Planned Work Management is a particular event within a repeating maintenance schedule. Each schedule occurrence is an automatically created record, representing one planned maintenance event as part of an ongoing schedule. It serves as a link between the maintenance plan and the work order that will be carried out. Schedule occurrences also helps in auditing the previous work orders for the maintenance plan.
 
 For duration-based schedules \(**Trigger** in the work schedule is **Duration**\), the schedule occurrences are created immediately when a work schedule is configured.
 
@@ -221,6 +221,4 @@ Reference to the parent schedule occurrence when grouping of work orders is enab
 </td></tr></tbody>
 </table>    **Note:** Admins can configure the fields to be displayed.
 
-## Related
 
-- [[planned-work-management|Planned Work Management]]

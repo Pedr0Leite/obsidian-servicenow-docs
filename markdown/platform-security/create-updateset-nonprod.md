@@ -12,7 +12,7 @@ breadcrumb: [Configure, Code Signing, Platform Security]
 
 # Prepare Circle of Trust certificates
 
-Create an update set in the trusted environment to [[export|export]] the trusted certificate to the production environment.
+Create an update set in the trusted environment to export the trusted certificate to the production environment.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Trusted instance
 
 1.  In the trusted environment, navigate to **sys\_certificate.list**.
 
-    \[Omitted image "sys\_cert\_list.png"\] Alt text: X.509 [[c_Certificates|certificates]] list
+    \[Omitted image "sys\_cert\_list.png"\] Alt text: X.509 certificates list
 
 2.  Open the most recently created X.509 Certificate that was generated with the type **Trust Store Cert**.
 
@@ -40,7 +40,7 @@ Trusted instance
 
 4.  Navigate to **System Update Sets** &gt; **Local Update Sets**.
 
-5.  Find and open the [[code-signing-landing|code signing]] update.
+5.  Find and open the code signing update.
 
     This update starts with the text `code_signing_key_publicsigver`.
 
@@ -62,8 +62,4 @@ Trusted instance
 
     **Important:** Repeat these steps for your second key pair. Remember that there’s a key for both the cm\_code\_attest and cm\_code\_signing cryptographic modules.
 
-## Related
 
-- [[export|Export]]
-- [[c_Certificates|Certificates]]
-- [[code-signing-landing|Code Signing]]

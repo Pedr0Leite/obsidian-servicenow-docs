@@ -14,7 +14,7 @@ breadcrumb: [Snowflake, Service Graph Connectors for AI Control Tower, AI connec
 
 # Create an AI connection for Snowflake
 
-Create an AI connection for Snowflake in [[ai-control-tower-landing|AI Control Tower]] using the  [[ai-service-graph-connector-for-snowflake|AI Service Graph Connector for Snowflake]].
+Create an AI connection for Snowflake in AI Control Tower using the  AI Service Graph Connector for Snowflake.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **AI Control Tower** &gt; **[[exploring-ai-governance|Configurations]]** &gt; **[[enterprise-ai-discovery|AI connections]]**.
+1.  Navigate to **Workspaces** &gt; **AI Control Tower** &gt; **Configurations** &gt; **AI connections**.
 
 2.  Click **Add**.
 
@@ -82,9 +82,3 @@ Role required: sn\_ai\_disc.discovery\_admin and sn\_cmdb\_int\_util.sgc\_admin
 
 The AI connection for Snowflake is created and configured.
 
-## Related
-
-- [[ai-control-tower-landing|AI Control Tower]]
-- [[ai-service-graph-connector-for-snowflake|AI Service Graph Connector for Snowflake]]
-- [[exploring-ai-governance|Configurations]]
-- [[enterprise-ai-discovery|AI connections]]

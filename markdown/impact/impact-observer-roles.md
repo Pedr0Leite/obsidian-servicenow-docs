@@ -12,7 +12,7 @@ breadcrumb: [Instance Observer reference, Monitoring instance health with Instan
 
 # Roles installed with Instance Observer
 
-Several types of components are installed with activation of the [[impact-landing-page|Impact]] plugin, including tables, user roles, and scheduled jobs that are used in Instance Observer.
+Several types of components are installed with activation of the Impact plugin, including tables, user roles, and scheduled jobs that are used in Instance Observer.
 
 ## Roles installed
 
@@ -34,7 +34,7 @@ IO Standard\[io\_standard\]
 
 </td><td>
 
--   Grants full access to all the features such as [[instance-observer-performance|performance]] dashboards, reports, alert triage, and [[io-availability|availability]] insights within Instance Observer.
+-   Grants full access to all the features such as performance dashboards, reports, alert triage, and availability insights within Instance Observer.
 -   Allows users to fully utilize the platform’s capabilities.
 
 </td><td>
@@ -60,16 +60,10 @@ Grants limited read-only access to the Instance Observer.
 None
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[instance-observer-reference|Instance Observer reference]]
+</table>**Parent Topic:**[Instance Observer reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/instance-observer-reference.md)
 
 **Related topics**  
 
 
 [Overview of Instance Observer metrics]()
 
-## Related
-
-- [[instance-observer-reference|Instance Observer reference]]
-- [[impact-landing-page|Impact]]
-- [[instance-observer-performance|Performance]]
-- [[io-availability|Availability]]

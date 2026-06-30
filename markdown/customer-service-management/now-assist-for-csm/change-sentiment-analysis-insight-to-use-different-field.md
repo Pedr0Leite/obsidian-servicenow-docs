@@ -15,7 +15,7 @@ breadcrumb: [Sentiment analysis case, Activate Now Assist Skills, Configure, Now
 
 # Change an insight to use a different field for sentiment analysis
 
-Change a [[case-sentiment-analysis|sentiment analysis]] insight to display sentiment data from a different field, such as changing from channel to consumer, requiring updates to both the UI Builder component and Now Assist Skill Kit.
+Change a sentiment analysis insight to display sentiment data from a different field, such as changing from channel to consumer, requiring updates to both the UI Builder component and Now Assist Skill Kit.
 
 ## Before you begin
 
@@ -77,7 +77,7 @@ The different UI Builder Component names for Sentiment analysis dashboard are OO
 
 18. Select **Save**.
 
-    Now [add](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/add-components.md) the newly created component to any base system dashboard page or your own custom page, using other nearby insights as reference for the correct event handler and [[optimization|optimization]] setup.
+    Now [add](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/add-components.md) the newly created component to any base system dashboard page or your own custom page, using other nearby insights as reference for the correct event handler and optimization setup.
 
     The sentiment analysis insight now uses the specified field to display data and the associated Now Assist skill has been properly configured.
 
@@ -89,7 +89,3 @@ The different UI Builder Component names for Sentiment analysis dashboard are OO
 
 [Change graph visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/change-graph-visualization.md)
 
-## Related
-
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[optimization|Optimization]]

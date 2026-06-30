@@ -30,7 +30,7 @@ When you're creating the product offering, use the **Distribution channel** fiel
 
 3.  Select **New**.
 
-    On the Details tab, fill in the [[fields|fields]].
+    On the Details tab, fill in the fields.
 
 <table id="table_us3_z1p_ccc"><thead><tr><th>
 
@@ -92,7 +92,7 @@ Sellable
 
 </td><td>
 
-Option indicating that the product offering can be sold as a standalone item. If not selected, the product offering can be sold as part of bundle but not as a standalone item.**Note:** If you're using the Service Exchange [[explore-order-management|Order Management]] for Providers application, select this option for a product offering. Only sellable product offers create remote catalog items. Offers with bundled configurations are not supported.
+Option indicating that the product offering can be sold as a standalone item. If not selected, the product offering can be sold as part of bundle but not as a standalone item.**Note:** If you're using the Service Exchange Order Management for Providers application, select this option for a product offering. Only sellable product offers create remote catalog items. Offers with bundled configurations are not supported.
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Start date
 
 </td><td>
 
-Date and time that the product offering is available for [[order-mgt-overview|Sales Customer Relationship Management]] applications. Select the Calendar icon \[Omitted image "field-calendar.png"\] Alt text: to choose the start date and time, then select **OK**.
+Date and time that the product offering is available for Sales Customer Relationship Management applications. Select the Calendar icon \[Omitted image "field-calendar.png"\] Alt text: to choose the start date and time, then select **OK**.
 
 </td></tr><tr><td>
 
@@ -156,7 +156,7 @@ Product specification
 
 </td><td>
 
-Product specification to associate with the product offering. It provides a functional view of a product offering that drives [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]].**Note:** Only published specifications appear.
+Product specification to associate with the product offering. It provides a functional view of a product offering that drives order fulfillment.**Note:** Only published specifications appear.
 
 </td></tr><tr><td>
 
@@ -261,7 +261,7 @@ Name of the previous version of the product offering, For example:-   When you c
 
 5.  Add additional characteristics to your product offering, if needed.
 
-6.  [[som-product-config-add-visuals|Add product visuals]] to your product offering.
+6.  Add product visuals to your product offering.
 
     1.  In the Product Visuals tab, select **New**.
 
@@ -309,7 +309,7 @@ Update the product offering with the new data that you added, but don't publish 
 
 Copy the data in this product offering so that you can create a product offering from it. For example, you can use the Copy function if you want to create a base version product offering that is similar to Premium SD-WAN Offering v3, but with a separate version track.
 
- When you use the Copy function, it creates a base version product offering and [[cpq-sets|sets]] the values in these fields:
+ When you use the Copy function, it creates a base version product offering and sets the values in these fields:
 
 -   **Version**: 1 \(base version\)
 -   **Initial Version**: Premium SD-WAN Offering v3
@@ -320,14 +320,5 @@ Copy the data in this product offering so that you can create a product offering
 </table>
 ## What to do next
 
-[[associate-criteria-remote-catalog|Associate consumer criteria to a remote record producer]] for this remote catalog item.
+[Associate consumer criteria to a remote record producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/associate-criteria-remote-catalog.md) for this remote catalog item.
 
-## Related
-
-- [[associate-criteria-remote-catalog|Associate consumer criteria to a remote record producer]]
-- [[fields|Fields]]
-- [[explore-order-management|Order management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[som-product-config-add-visuals|Add product visuals]]
-- [[cpq-sets|Sets]]

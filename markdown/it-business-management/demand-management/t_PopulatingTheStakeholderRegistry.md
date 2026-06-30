@@ -14,7 +14,7 @@ breadcrumb: [Set up, Configure, Demand Management, Project Portfolio Management,
 
 # Populate the stakeholder registry
 
-Add users to the stakeholder registry so that demand and [[c_ProjectApplicationOverview|project management]] can automatically populate the stakeholder list when a user creates a demand or project.
+Add users to the stakeholder registry so that demand and project management can automatically populate the stakeholder list when a user creates a demand or project.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: it\_pps\_admin
 
 1.  Navigate to **All** &gt; **Project Administration** &gt; **Settings** &gt; **Stakeholders**.
 
-    You can also scroll to the **Stakeholders** related list on the Demand or [[create-a-project-form|Project form]] and select **New** to create a record.
+    You can also scroll to the **Stakeholders** related list on the Demand or Project form and select **New** to create a record.
 
 2.  Select **New** to create a record.
 
-3.  On the [[stakeholder-register-form|stakeholder register form]], fill in the fields.
+3.  On the stakeholder register form, fill in the fields.
 
     For a description of the field names, see [Stakeholder Register Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/stakeholder-register-form.md).
 
@@ -41,8 +41,3 @@ Role required: it\_pps\_admin
 
 **Next topic:**[View an assessment metric category](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreateAnAssessmentCategory.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[create-a-project-form|Project form]]
-- [[stakeholder-register-form|Stakeholder Register Form]]

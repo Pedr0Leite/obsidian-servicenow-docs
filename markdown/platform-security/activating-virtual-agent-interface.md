@@ -20,9 +20,9 @@ If you have the admin role, you can activate the ISC Virtual Agent Conversations
 
 Instance Security Center \(ISC\) has reached the end of sales as of September 2024, and is no longer supported or available for new activation.
 
-ServiceNow [[sec-center-v2|Security Center]] \(SSC\) is the recommended solution going forward. For more information, see [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]].
+ServiceNow Security Center \(SSC\) is the recommended solution going forward. For more information, see [Instance Security Center to ServiceNow Security Center migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center-to-security-center-migration.md).
 
-The Virtual Agent interface in the Instance Security Center is only available for [[users|users]] with paid Virtual Agent subscriptions, and who have activated the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin. To learn more, see [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/activate-virtual-agent.md).
+The Virtual Agent interface in the Instance Security Center is only available for users with paid Virtual Agent subscriptions, and who have activated the Glide Virtual Agent \(com.glide.cs.chatbot\) plugin. To learn more, see [Activate Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/activate-virtual-agent.md).
 
 Role required: admin.
 
@@ -31,7 +31,7 @@ Role required: admin.
 The ISC Virtual Agent interface enables you to perform the following tasks:
 
 -   Ask security-related questions, then get quick summary answers and reference links to learn more.
--   Get answers related to the Instance Security Center, [[platsec-sublanding|Platform Security]], ServiceNow security [[ca-policies|policies]], trust, governance, risk, and other processes.
+-   Get answers related to the Instance Security Center, Platform Security, ServiceNow security policies, trust, governance, risk, and other processes.
 -   Search for security-related resources, such as Knowledge Base topics in the Now Support Security Portal.
 
 <table id="table_afh_nxh_5gb"><thead><tr><th>
@@ -65,9 +65,9 @@ Activates the Natural Language Understanding \(NLU\) content pack for the Instan
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the plugin using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the plugin using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -76,7 +76,7 @@ Activates the Natural Language Understanding \(NLU\) content pack for the Instan
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
-**Parent Topic:**[[instance-security-center|Instance Security Center]]
+**Parent Topic:**[Instance Security Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-center.md)
 
 **Related topics**  
 
@@ -91,13 +91,3 @@ Activates the Natural Language Understanding \(NLU\) content pack for the Instan
 
 [Monitor instance metrics]()
 
-## Related
-
-- [[instance-security-center-to-security-center-migration|Instance Security Center to ServiceNow Security Center migration]]
-- [[instance-security-center|Instance Security Center]]
-- [[sec-center-v2|Security Center]]
-- [[users|Users]]
-- [[platsec-sublanding|Platform Security]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

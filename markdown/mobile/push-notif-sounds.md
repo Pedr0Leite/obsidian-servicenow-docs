@@ -12,7 +12,7 @@ breadcrumb: [Components, Push notifications, Before implementation, Configuratio
 
 # Configure sounds for push notifications
 
-Add sounds and tones to [[sg-mobile-security-push-notif|push notifications]] to indicate to users if a message is urgent or just requires the users' attention.
+Add sounds and tones to push notifications to indicate to users if a message is urgent or just requires the users' attention.
 
 ## Example JSON for adding sound to push notifications
 
@@ -28,7 +28,7 @@ The table at the end of this topic list all the available tones. To listen to th
 
 ## Example JSON for critical alerts including sound
 
-The following JSON is an example of how the sound parameter is defined for critical alerts. For more information about critical alerts, see [[mobile-critical-alerts-create|Mobile critical alerts]].
+The following JSON is an example of how the sound parameter is defined for critical alerts. For more information about critical alerts, see [Mobile critical alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-critical-alerts-create.md).
 
 ```
 json["aps"]["sound"] = { 
@@ -86,10 +86,5 @@ The parameters in the sample JSON code are as follows:
 
 **Note:** If a name value isn’t defined, the system uses the application’s default ringtone. If an application doesn't have a defined ringtone, then the system uses the device's default ringtone.
 
-**Parent Topic:**[[configure-mobile-push-notifications|Mobile push notification components]]
+**Parent Topic:**[Mobile push notification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-push-notifications.md)
 
-## Related
-
-- [[mobile-critical-alerts-create|Mobile critical alerts]]
-- [[configure-mobile-push-notifications|Mobile push notification components]]
-- [[sg-mobile-security-push-notif|Push notifications]]

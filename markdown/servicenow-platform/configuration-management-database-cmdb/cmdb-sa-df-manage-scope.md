@@ -28,7 +28,7 @@ Role required: sn\_cmdb\_admin
 
     |Purpose|Action|Data coverage|
     |-------|------|-------------|
-    |Add a CI class group|Select the [[check-box|check box]] for the group to include all its CI classes.|Includes all CI classes associated with the selected group.|
+    |Add a CI class group|Select the check box for the group to include all its CI classes.|Includes all CI classes associated with the selected group.|
     |Expand CI class selection|Select **&gt;** to expand a group, then select check boxes for specific CI classes.|Includes only the selected CI classes associated with a group.|
     |Narrow down CI class selection|Select **&gt;** to expand a group, then clear check boxes for specific CI classes.|Excludes only the CI classes cleared from a group.|
     |Remove a CI class group|Clear the check box for the CI class group.|Excludes all CI classes associated with the removed group.|
@@ -41,6 +41,3 @@ Role required: sn\_cmdb\_admin
 
 The Data Foundations advisor dashboard updates to reflect the data based on the new principal class selection.
 
-## Related
-
-- [[check-box|Check box]]

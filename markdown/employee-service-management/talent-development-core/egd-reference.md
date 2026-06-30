@@ -14,16 +14,16 @@ breadcrumb: [Talent Development Core, Growth Experiences, HR Service Delivery, E
 
 # Talent Development Core application reference
 
-Administrators use [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] information to configure and maintain applications and features.
+Administrators use reference information to configure and maintain applications and features.
 
 -   **[Talent Growth Plan reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-growth-plan-ref.md)**  
 Employee growth plans are created by administrators and used by managers and employees to help facilitate and track growth plans.
 -   **[Talent Outcome Types reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-outcome-types-form.md)**  
 Outcome types are created by administrators.
 -   **[Talent Properties reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-properties-reference.md)**  
-Properties control how skills approvals are managed and whether [[skills-intelligence|Skills Foundation]] is used.
+Properties control how skills approvals are managed and whether Skills Foundation is used.
 -   **[Talent Activity Types reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-activity-type-form.md)**  
-Administrators create [[activity-lxp|activity]] types that are used by managers and employees.
+Administrators create activity types that are used by managers and employees.
 -   **[Talent Activity Category reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-activity-category-form.md)**  
 Administrators create activity categories that are used by managers and employees.
 -   **[Talent Aspirations reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-aspirations-form.md)**  
@@ -41,16 +41,9 @@ Administrators create activity template recommendation templates that employees 
 -   **[Talent Interest form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-interests-form.md)**  
 Administrators create interests that employees and managers use to create career growth plans.
 -   **[Components installed with Talent Development Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-components-roles-tables.md)**  
-Several types of components are installed with [[egd-landing-page|Talent Development Core]], including roles and tables.
+Several types of components are installed with Talent Development Core, including roles and tables.
 -   **[Employee Application Access Criteria reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/egd-empl-profile-app-access-criteria-form.md)**  
-Talent Development uses the **Employee licensing** feature in the [[emp-slate-employee-profile|Employee Profile]] app to license users.
+Talent Development uses the **Employee licensing** feature in the Employee Profile app to license users.
 
 **Parent Topic:**[HR Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-service-delivery.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[skills-intelligence|Skills Foundation]]
-- [[activity-lxp|Activity]]
-- [[egd-landing-page|Talent Development Core]]
-- [[emp-slate-employee-profile|Employee profile]]

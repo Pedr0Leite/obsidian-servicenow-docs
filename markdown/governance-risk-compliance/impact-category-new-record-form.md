@@ -25,11 +25,7 @@ For description of the field values, see the table.
 |Applicable timeframes|Duration of business process disruption. This field appears only if the **Contributes to** field value is **RTO**.|
 |Maximum RTO value|Metric that calculates the maximum time limit within which the business must recover an element after a disruption.|
 |Description|Brief description of the impact category.|
-|Helper text|Field to add the helper text. It provides a hint to the users on how to respond to the assessment questions. The helper text is then displayed for the user in the [[bia-uib|business impact analysis]] record.|
+|Helper text|Field to add the helper text. It provides a hint to the users on how to respond to the assessment questions. The helper text is then displayed for the user in the business impact analysis record.|
 
-**Parent Topic:**[[configure-impact-category-uib-ws|Configure impact category for BIA]]
+**Parent Topic:**[Configure impact category for BIA](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/configure-impact-category-uib-ws.md)
 
-## Related
-
-- [[configure-impact-category-uib-ws|Configure impact category for BIA]]
-- [[bia-uib|Business impact analysis]]

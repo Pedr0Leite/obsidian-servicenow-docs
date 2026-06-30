@@ -239,7 +239,7 @@ Condition
 A JavaScript conditional statement that restricts when a UI action appears. Conditions always run on the server.**Note:**
 
 -   The current object is not available for conditions on a list context menu. If the **List context menu** option is selected, any use of **current** on these actions is ignored.
--   You can [[reference-email-admin|reference]] the parent record for the UI action conditions on a related list button. For example, to disable the **New** and **Edit** buttons on the Affected CIs related list for closed changes, copy the global m2m UI actions to the task\_ci table and add a condition of **parent.active**.
+-   You can reference the parent record for the UI action conditions on a related list button. For example, to disable the **New** and **Edit** buttons on the Affected CIs related list for closed changes, copy the global m2m UI actions to the task\_ci table and add a condition of **parent.active**.
 -   If you leave one of the fields empty that you specify in your condition statement, that condition defaults to **true**.
 
 
@@ -342,9 +342,5 @@ To direct a user to a record, use this syntax, where **new\_record** is the vari
 action.setRedirectURL (new_record );
 ```
 
-**Parent Topic:**[[c_UIActions|Defining UI actions]]
+**Parent Topic:**[Defining UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md)
 
-## Related
-
-- [[c_UIActions|Defining UI actions]]
-- [[reference-email-admin|Reference]]

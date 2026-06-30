@@ -36,7 +36,7 @@ How steps are determined
 
 </td><td>
 
-You record a fixed sequence of steps in the [[agentic-desktop-landing-page|AI Desktop Actions]] Windows application
+You record a fixed sequence of steps in the AI Desktop Actions Windows application
 
 </td><td>
 
@@ -108,7 +108,7 @@ Configuration location
 
 </td><td>
 
-AI Desktop Actions Windows application and [[ai-agent-studio|AI Agent Studio]]**Note:** Background task desktop actions can't be configured in AI Desktop Actions, but you can add them in AI Agent Studio as tools.
+AI Desktop Actions Windows application and AI Agent Studio**Note:** Background task desktop actions can't be configured in AI Desktop Actions, but you can add them in AI Agent Studio as tools.
 
 </td><td>
 
@@ -143,7 +143,3 @@ If your task involves a non-browser desktop application, defined path is your on
 
 Defined path desktop actions can automate both desktop applications and web-based tasks. Adaptive path desktop actions support web-based tasks only and require Google Chrome with the ServiceNow Web Automation browser extension installed.
 
-## Related
-
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[ai-agent-studio|AI Agent Studio]]

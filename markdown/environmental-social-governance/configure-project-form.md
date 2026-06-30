@@ -55,8 +55,5 @@ The same procedure can be performed on the Demand and Program forms as well. For
 
 The Project form shows the **Strategic priority** field and the **Primary goal** field.
 
-**Parent Topic:**[[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]
+**Parent Topic:**[Create an Operational Sustainability Management \(formerly ESG Management\) goal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/create-esg-goal.md)
 
-## Related
-
-- [[create-esg-goal|Create an Operational Sustainability Management \(formerly ESG Management\) goal]]

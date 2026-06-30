@@ -14,7 +14,7 @@ breadcrumb: [Configuring your service, Setting up and configuring Universal Task
 
 # Configure the extension points for Universal Task
 
-Provide the implementation for childTaskCancelled, childTaskCompleted, childTasksClosed of the scripted extension point to execute the custom logic of the service, when a [[universal-task-landing|universal task]] is canceled, completed, or closed.
+Provide the implementation for childTaskCancelled, childTaskCompleted, childTasksClosed of the scripted extension point to execute the custom logic of the service, when a universal task is canceled, completed, or closed.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ Role required: admin
 
 **Next topic:**[Display the universal tasks for a request in Now Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/ut-mobile-config-tasktab.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]

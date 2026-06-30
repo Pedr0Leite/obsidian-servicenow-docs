@@ -18,7 +18,7 @@ These plugins are installed with Public Sector Digital Services Core, if they ar
 
 ## Plugins installed with Public Sector Digital Services Core
 
-The following plugins are activated when you enable the Public Sector Digital Services Core \(com.sn\_public\_sector\_digital\_services\_core\)/\(sn\_gsm\) plugin. For more information on the plugins installed with other Public Sector Digital Services Core applications, including Playbooks, see [[plugins-installed-with-psds-addtl-plugins|Plugins installed with Public Sector Digital Services Applications]].
+The following plugins are activated when you enable the Public Sector Digital Services Core \(com.sn\_public\_sector\_digital\_services\_core\)/\(sn\_gsm\) plugin. For more information on the plugins installed with other Public Sector Digital Services Core applications, including Playbooks, see [Plugins installed with Public Sector Digital Services Applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/plugins-installed-with-psds-addtl-plugins.md).
 
 |Plugin|Description|
 |------|-----------|
@@ -32,6 +32,3 @@ The following plugins are activated when you enable the Public Sector Digital Se
 |Service Applicant Program Management \(com.sn\_svc\_appl\_pgm\_mg\)|The Service Applicant Program Management application, in partnership with Strategic Portfolio Management, empowers organizations to quickly design, configure, and launch applicant-facing programs, such as grants.|
 |Service Request Criteria \(sn\_req\_criteria\)|Allows government service agents to view only relevant service definitions while creating a case. Service definitions can be filtered using user criteria and entity criteria which shows only relevant service definitions for agents and constituents. Admins can create new customer criteria for constituents, accounts. Constituents can see relevant service definitions in the customer portal based on customer criteria setup by admins.|
 
-## Related
-
-- [[plugins-installed-with-psds-addtl-plugins|Plugins installed with Public Sector Digital Services Applications]]

@@ -14,7 +14,7 @@ breadcrumb: [Use Data Foundations advisor, CMDB success advisor, Configuration M
 
 # CI class recommendations
 
-[[cmdb-sa|CMDB success advisor]] analyzes your instance's historical data to recommend which CI classes should be in your Data Foundations scope.
+CMDB success advisor analyzes your instance's historical data to recommend which CI classes should be in your Data Foundations scope.
 
 Recommendations help prioritize classes that provide the most operational value. They are based on:
 
@@ -23,7 +23,7 @@ Recommendations help prioritize classes that provide the most operational value.
     **Note:** If IPC data is unavailable, classes are ranked by how widely they are used across your CMDB. For new instances with no historical data, a set of default classes is suggested. To configure which classes are suggested on instances with no task history, see [Create the principal class recommendation criteria property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/cmdb-sa-df-rec-criteria.md).
 
 -   CI population: Number of CI records in each class.
--   [[csdm-landing-page|Common Service Data Model]] \(CSDM\) alignment: Support for service mapping and dependency tracking.
+-   Common Service Data Model \(CSDM\) alignment: Support for service mapping and dependency tracking.
 
 **Note:** You aren't required to accept all recommendations. Recommendations are guidance. Your organization's priorities should drive the final advisor scope selection.
 
@@ -32,7 +32,7 @@ Recommendations help prioritize classes that provide the most operational value.
 The **Set principal classes** dialog box organizes available CI classes into groups. The following groups are available for selection:
 
 -   Enterprise architecture
--   [[ip-address|IP address]] management \(IPAM\)
+-   IP address management \(IPAM\)
 -   IT networking devices
 -   Kubernetes
 -   Mainframe
@@ -45,8 +45,3 @@ The **Set principal classes** dialog box organizes available CI classes into gro
 
 **Tip:** The **Recommended** group appears at the top of the list and contains up to 20 CI classes ranked by recent incident, problem, and change \(IPC\) activity. The remaining groups organize classes by technology domain to help you find related classes quickly.
 
-## Related
-
-- [[cmdb-sa|CMDB success advisor]]
-- [[csdm-landing-page|Common Service Data Model]]
-- [[ip-address|IP Address]]

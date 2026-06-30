@@ -47,7 +47,7 @@ To initialize the configuration, pass basic field data to the page. Here are the
 
 Replace the ellipses in the above JSON with the appropriate values from the CPQ environment, pricebook, and product ID.
 
-Sometimes, you may want to display a default layout that is not ordered first in the list of Blueprint [[layouts|layouts]]. To designate a starting layout with which the CPQ configuration page loads, pass `"layoutVarName":"<variable name of the layout to show by default>"` in the topmost level of the JSON above.
+Sometimes, you may want to display a default layout that is not ordered first in the list of Blueprint layouts. To designate a starting layout with which the CPQ configuration page loads, pass `"layoutVarName":"<variable name of the layout to show by default>"` in the topmost level of the JSON above.
 
 ## The host HTML page
 
@@ -113,9 +113,5 @@ To embed the CPQ application in an iframe, you must configure it to allow the ho
 
 To learn more about the easyXDM library, see [easy XDM.net](https://easyxdm.net/wp/).
 
-**Parent Topic:**[[use-cases|Use cases]]
+**Parent Topic:**[Use cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/use-cases.md)
 
-## Related
-
-- [[use-cases|Use cases]]
-- [[layouts|Layouts]]

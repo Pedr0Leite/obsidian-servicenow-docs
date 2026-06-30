@@ -14,7 +14,7 @@ breadcrumb: [Hardware Asset Management integration, Integrate, Telecommunication
 
 # Create a service request to procure assets
 
-Create a bill of materials for assets by using a record producer, and then create a service request to procure those assets. You can do both these actions by using the [[telecom-network-inventory|Telecommunications Network Inventory]] application integrations with the Hardware Asset Management application.
+Create a bill of materials for assets by using a record producer, and then create a service request to procure those assets. You can do both these actions by using the Telecommunications Network Inventory application integrations with the Hardware Asset Management application.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ To procure the assets, you can create a service request for a bill of materials 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Procurement** &gt; **Requests**.
 
@@ -70,7 +70,3 @@ A service request is created to procure the assets.
 
 **Parent Topic:**[Telecommunications Network Inventory integration with Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/integration-with-hardware-asset-management.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

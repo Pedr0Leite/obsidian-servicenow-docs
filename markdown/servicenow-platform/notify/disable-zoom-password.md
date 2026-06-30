@@ -18,7 +18,7 @@ Disable Zoom meeting password so that you can join a Zoom meeting without any me
 
 ## Before you begin
 
-Role required: [[notify-landing-page|notify]]\_admin or notify\_setup\_admin
+Role required: notify\_admin or notify\_setup\_admin
 
 ## Procedure
 
@@ -31,6 +31,3 @@ Role required: [[notify-landing-page|notify]]\_admin or notify\_setup\_admin
 
 **Parent Topic:**[Configure Notify Zoom connector in Notify](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/configure-notify-zoom-connector.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

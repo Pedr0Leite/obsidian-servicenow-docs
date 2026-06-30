@@ -67,14 +67,10 @@ Alissa still has editing rights to the data visualization, but can no longer edi
 
 \[Omitted image "dv-alissa-cant-edit.png"\] Alt text: The Number of open incidents data visualization in edit mode, with Alissa Mountjoy the logged-in user and unable to edit the data source.
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
 **Related topics**  
 
 
-[[data-sources-visualizations|Data sources for data visualizations]]
+[Data sources for data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/data-sources-visualizations.md)
 
-## Related
-
-- [[configure-data-visualizations|Configure data visualizations]]
-- [[data-sources-visualizations|Data sources for data visualizations]]

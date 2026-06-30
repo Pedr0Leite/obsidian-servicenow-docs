@@ -73,7 +73,7 @@ When an event is triggered, the system:1.  Applies default binding to identify t
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Select **New**.
 
@@ -122,7 +122,4 @@ When an event is triggered, the system:1.  Applies default binding to identify t
 
     \[Omitted image "em-processing-notes.png"\] Alt text: Processing notes confirming alert-process binding.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

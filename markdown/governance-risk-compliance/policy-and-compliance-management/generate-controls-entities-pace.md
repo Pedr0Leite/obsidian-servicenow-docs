@@ -22,7 +22,7 @@ Role required: sn\_compliance.manager
 
 ## About this task
 
-When a PaCE policy is mapped to a deployable instance and if the PaCE policy is already associated to a control objective, then when the association of the policy to the deployable instance occurs a trigger is initiated from Configuration Data Management \(CDM\) to [[create-new-entity-ws|create an entity]] and controls.
+When a PaCE policy is mapped to a deployable instance and if the PaCE policy is already associated to a control objective, then when the association of the policy to the deployable instance occurs a trigger is initiated from Configuration Data Management \(CDM\) to create an entity and controls.
 
 When a PaCE policy is mapped to a deployable instance, and if the policy is not associated to any control objective, then when the PaCE policy is mapped to the control objective the entity and controls are auto-generated since the deployable instance is already mapped to the policy.
 
@@ -74,6 +74,4 @@ When a PaCE policy is mapped to a deployable instance, and if the policy is not 
 
 16. To view the PaCE policy execution results on controls and engagements, click the DevOps Config results related item by navigating to the control record.
 
-## Related
 
-- [[create-new-entity-ws|Create an entity]]

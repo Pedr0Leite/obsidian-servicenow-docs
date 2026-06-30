@@ -15,7 +15,7 @@ breadcrumb: [Miro external content connector, Configure, External Content Connec
 
 # Configure Miro for external content indexing
 
-Create and authorize an application in the Miro Developer Hub to allow the [[miro-external-content-connector|Miro external content connector]] to access your Miro source system.
+Create and authorize an application in the Miro Developer Hub to allow the Miro external content connector to access your Miro source system.
 
 ## Before you begin
 
@@ -103,6 +103,3 @@ For details on creating and configuring a Miro external content connector, see [
 
 **Parent Topic:**[Miro external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/miro-external-content-connector.md)
 
-## Related
-
-- [[miro-external-content-connector|Miro external content connector]]

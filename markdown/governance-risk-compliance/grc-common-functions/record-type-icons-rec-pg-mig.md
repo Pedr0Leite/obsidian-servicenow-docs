@@ -14,13 +14,13 @@ breadcrumb: [Configure, Workspace page, Common GRC features, Governance, Risk, a
 
 # Record type icons configured for forms in GRC Common Workspace Elements
 
-The table gives you a list of icons configured for the forms in the [[audit-management-overview-ws|Audit Workspace]] and Compliance Workspace.
+The table gives you a list of icons configured for the forms in the Audit Workspace and Compliance Workspace.
 
 ## Icons configured for the forms in Audit Workspace
 
 |Form name|Table name|Record icon type|Icon name|
 |---------|----------|----------------|---------|
-|Evidence request|sn\_grc\_advanced\_evidence\_request|\[Omitted image "rec-type-icon-evidence-request.png"\] Alt text: [[evidence-request|Evidence request]] record type icon.|panel-display-popout-outline|
+|Evidence request|sn\_grc\_advanced\_evidence\_request|\[Omitted image "rec-type-icon-evidence-request.png"\] Alt text: Evidence request record type icon.|panel-display-popout-outline|
 |Evidence response|sn\_grc\_advanced\_evidence\_response|\[Omitted image "rec-type-icon-evidence-response.png"\] Alt text: Evidence response record type icon.|pop-in-outline|
 |Engagement|sn\_audit\_engagement|\[Omitted image "rec-type-icon-engagement.png"\] Alt text: Engagement record type icon.|calendar-days-clock-outline|
 |Indicator|sn\_grc\_indicator|\[Omitted image "rec-type-icon-indicator.png"\] Alt text: Indicator record type icon.|chart-speedometer-outline|
@@ -46,7 +46,3 @@ The table gives you a list of icons configured for the forms in the [[audit-mana
 
 **Parent Topic:**[Configure workspace page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-workspace-page.md)
 
-## Related
-
-- [[audit-management-overview-ws|Audit Workspace]]
-- [[evidence-request|Evidence request]]

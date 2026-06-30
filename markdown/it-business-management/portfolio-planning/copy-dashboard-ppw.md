@@ -25,7 +25,7 @@ Role required: sn\_align\_core.ap\_read\_only
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace** &gt; **Dashboards**.
+1.  Navigate to **Workspaces** &gt; **Portfolio Planning Workspace** &gt; **Dashboards**.
 
     By default, the Execution Dashboard appears on the Dashboards page.
 
@@ -52,7 +52,7 @@ The dashboard is copied with the new name. The appearance of the dashboard is id
 
 ## What to do next
 
-[[edit-dashboard-ppw|Edit a dashboard]] as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-dashboard-ppw.md).
+Edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/edit-dashboard-ppw.md).
 
 **Parent Topic:**[Using dashboards in Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/using-dashboards-in-ppw.md)
 
@@ -67,7 +67,3 @@ The dashboard is copied with the new name. The appearance of the dashboard is id
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-platform-dashboard-to-ppw.md)
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[edit-dashboard-ppw|Edit a dashboard]]

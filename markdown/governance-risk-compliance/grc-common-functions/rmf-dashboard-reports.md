@@ -14,7 +14,7 @@ breadcrumb: [NIST RMF Use Case Accelerator, GRC use case accelerators, Common GR
 
 # NIST RMF Use Case Accelerator dashboards and reports
 
-The [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]] contains various reports displayed on different dashboards, available within each of the sections in the NIST RMF process: Categorize, Select, Implement, Assess, Authorize, and Monitor.
+The NIST RMF Use Case Accelerator contains various reports displayed on different dashboards, available within each of the sections in the NIST RMF process: Categorize, Select, Implement, Assess, Authorize, and Monitor.
 
 **Note:** Starting with version 10.1.0, the NIST RMF Use Case Accelerator will be supported only for customers who currently use the product. New and existing customers should consider using the GRC: Continuous Authorization Monitoring application. For details, [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md).
 
@@ -89,7 +89,7 @@ Targets grouped for each Impact rating value. National Institute of Standards an
 
 </td></tr><tr><td>
 
-[[rmf-review-baseline-controls|Review Baseline Controls]]
+Review Baseline Controls
 
 </td><td>
 
@@ -136,7 +136,7 @@ Baseline Security Controls are recommended set of security controls from Nationa
 |Control Attestations missed due date|Displays the number of NIST Risk Management control attestations that have missed their due date.|
 |Control Attestations by profile|Provides an overview of the NIST Risk Management control attestations grouped by profiles.|
 |Control Attestations past due|Provides an overview of the NIST Risk Management control attestations grouped by due date.|
-|Risk Assessments completed|Displays the number of NIST Risk Management [[risk-assessments|risk assessments]] completed.|
+|Risk Assessments completed|Displays the number of NIST Risk Management risk assessments completed.|
 |Risk Assessments upcoming due date|Displays the number of NIST Risk Management risk assessments due within 7 days.|
 |Risk Assessments due after 7 days|Displays the number of NIST Risk Management risk assessments due after 7 days.|
 |Risk Assessments missed due date|Displays the number of NIST Risk Management risk assessments that have missed their due date.|
@@ -165,8 +165,3 @@ Baseline Security Controls are recommended set of security controls from Nationa
 
 **Parent Topic:**[NIST RMF Use Case Accelerator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/grc-and-nistrmf-usecase-accelerator.md)
 
-## Related
-
-- [[grc-and-nistrmf-usecase-accelerator|NIST RMF Use Case Accelerator]]
-- [[rmf-review-baseline-controls|Review baseline controls]]
-- [[risk-assessments|risk assessments]]

@@ -14,7 +14,7 @@ breadcrumb: [Configuring Instance Scan, Instance Scan, Maintain and monitor, Adm
 
 # Instance Scan table cleanup policies
 
-[[hs-landing-page|Instance Scan]] offers table cleanup policies to erase previous [[hc-scan-results|scan results]].
+Instance Scan offers table cleanup policies to erase previous scan results.
 
 The cleanup policies are based on the time that the scans are created. The timer starts when you run a scan. **Table Cleanup** is run against the Auto Flushes \[sys\_auto\_flush\] table and cleans up the previous scan results.
 
@@ -25,7 +25,3 @@ The cleanup policies are based on the time that the scans are created. The timer
 
 You can also modify these policies by entering any customized time period. See [Customize table cleanup policies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/instance-scan/hs-customize-table-cleanup-policies.md) for more information.
 
-## Related
-
-- [[hs-landing-page|Instance Scan]]
-- [[hc-scan-results|Scan results]]

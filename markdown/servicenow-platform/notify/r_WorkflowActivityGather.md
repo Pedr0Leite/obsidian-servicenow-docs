@@ -14,7 +14,7 @@ breadcrumb: [Notify workflow activities, Notify reference, Notify, Manage servic
 
 # Input workflow activity
 
-The **Input** activity creates a phone menu by presenting a list of options on a [[notify-landing-page|Notify]] call.
+The **Input** activity creates a phone menu by presenting a list of options on a Notify call.
 
 ## Input Variables
 
@@ -58,7 +58,7 @@ Advanced
 
 </td><td>
 
-Select this [[check-box|check box]] to use a script to build the phone menu, instead of using the [[conditions|activity conditions]].
+Select this check box to use a script to build the phone menu, instead of using the activity conditions.
 
 </td></tr><tr><td>
 
@@ -139,8 +139,3 @@ var selectedValue = menuItem.myCustomData; //get the custom data for the selecte
 </td></tr></tbody>
 </table>**Parent Topic:**[Notify workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/c_NotifyActivities.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[check-box|Check box]]
-- [[conditions|Activity conditions]]

@@ -30,9 +30,9 @@ AI Control Tower
 
 </td><td>
 
-[[australia-patch-1|Australia Patch 1]] The Autonomous vs. supervised AI tools chart has been removed from the Security &amp; privacy tab.
+[Australia Patch 1](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-patch-1.md) The Autonomous vs. supervised AI tools chart has been removed from the Security &amp; privacy tab.
 
-[[australia-all-other-fixes|Early availability]]
+[Early availability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/australia-all-other-fixes.md)
 
 -   Adding legacy AI connections via Service Graph Connectors \(SGC\) is deprecated. In AI connections, under Legacy connections, the **New** button has been removed to block users from creating new connections using SGC.
 
@@ -146,10 +146,5 @@ Third-party Risk Management
 -   The `scoring_rule` and `scoring_rule_ref` fields are removed from assessment forms and UI sections. Custom scripts or integrations that reference these fields must be updated.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[release-notes-summaries|Release notes summaries for Australia features]]
+</table>**Parent Topic:**[Release notes summaries for Australia features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/release-notes-summaries.md)
 
-## Related
-
-- [[australia-patch-1|Australia Patch 1]]
-- [[australia-all-other-fixes|All other Australia fixes]]
-- [[release-notes-summaries|Release notes summaries for Australia features]]

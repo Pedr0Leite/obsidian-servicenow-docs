@@ -14,7 +14,7 @@ breadcrumb: [Configure, Proactive Service Experience Workflows, Product Support 
 
 # Install Proactive Service Experience Workflows
 
-If you’re a user with the system administrator role, you can install the [[psew-landing-page|Proactive Service Experience Workflows]] application.
+If you’re a user with the system administrator role, you can install the Proactive Service Experience Workflows application.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ The Telecom core application is installed with Proactive Service Experience Work
 
 **Parent Topic:**[Configuring Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/configure-assurance-workflows.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

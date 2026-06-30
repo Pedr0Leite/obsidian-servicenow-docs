@@ -24,7 +24,7 @@ View a complete list of the product subscriptions purchased for your current ins
 
 ## Accessing your instance-level entitlements
 
-Access your instance-level entitlements by navigating to **Admin** &gt; **[[subscription-management-landing-page-v2|Subscription Management]]** &gt; **Subscriptions** or **All** &gt; **Subscription Management** &gt; **All Subscriptions**.
+Access your instance-level entitlements by navigating to **Admin** &gt; **Subscription Management** &gt; **Subscriptions** or **All** &gt; **Subscription Management** &gt; **All Subscriptions**.
 
 ## Subscription types
 
@@ -84,6 +84,3 @@ Purchased subscriptions might not appear on the **Subscriptions** tab for one or
 -   Self-hosted instances don't receive subscription information. Contact your account manager for assistance.
 -   Subscription data might not yet have arrived. The data is downloaded daily.
 
-## Related
-
-- [[subscription-management-landing-page-v2|Subscription Management]]

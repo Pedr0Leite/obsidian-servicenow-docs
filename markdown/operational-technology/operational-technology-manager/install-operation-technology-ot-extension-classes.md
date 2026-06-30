@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Manager, Operational Technology]
 
 # Operational Technology \(OT\) extension classes installation
 
-You must install the [[operational-technology-overview|Operational Technology]] \(OT\) extension classes that are the foundation of the [[operational-technology-manager|Operational Technology Manager]].
+You must install the Operational Technology \(OT\) extension classes that are the foundation of the Operational Technology Manager.
 
 You can access the OT extension classes by installing the CMDB CI Class Models application. For more information about installation, see [CMDB CI Class Models app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models.md).
 
@@ -29,7 +29,3 @@ Applications, such as Discovery and Service Graph Connectors, use these class ex
 
 **Parent Topic:**[Configuring the Operational Technology Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-manager/configuring-operational-technology-manager.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[operational-technology-manager|Operational Technology Manager]]

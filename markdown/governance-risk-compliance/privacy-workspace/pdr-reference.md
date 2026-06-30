@@ -14,7 +14,7 @@ breadcrumb: [Reference, Privacy Management, Governance, Risk, and Compliance]
 
 # Personal Data Rights reference
 
-Reference topics provide additional information such as tables, and roles that are installed with the [[personal-data-rights|Personal Data Rights]] application. These topics also provide supporting information.
+Reference topics provide additional information such as tables, and roles that are installed with the Personal Data Rights application. These topics also provide supporting information.
 
 ## Roles installed with Personal Data Rights
 
@@ -124,6 +124,3 @@ Collects information with respect to personal data rights.
 </td></tr></tbody>
 </table>**Parent Topic:**[Privacy Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-mgmt-reference.md)
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

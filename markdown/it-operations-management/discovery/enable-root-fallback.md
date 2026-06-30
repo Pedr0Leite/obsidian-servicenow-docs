@@ -14,11 +14,11 @@ breadcrumb: [AWS SSM discovery, Discovery for AWS, Discovery for cloud environme
 
 # Enable root fallback
 
-Enable the fallback root user property to allow [[aws-ssm-discovery|AWS SSM discovery]] to run commands as root on Linux systems when alternate user credentials aren’t configured.
+Enable the fallback root user property to allow AWS SSM discovery to run commands as root on Linux systems when alternate user credentials aren’t configured.
 
 ## Before you begin
 
-Confirm that AWS SSM Agent [[r-discovery|discovery]] is enabled. For more information, see [Enable AWS SSM-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enable-aws-ssm-based-discovery.md).
+Confirm that AWS SSM Agent discovery is enabled. For more information, see [Enable AWS SSM-based discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/enable-aws-ssm-based-discovery.md).
 
 Role required: discovery\_admin
 
@@ -43,7 +43,3 @@ When the **glide.discovery.enable\_ssm** property is enabled, AWS SSM Discovery 
 
 A new record is added to the AWS SSM Instance Users \[aws\_ssm\_instance\_user\_credentials\] table with the user name "root".
 
-## Related
-
-- [[aws-ssm-discovery|AWS SSM discovery]]
-- [[r-discovery|Discovery]]

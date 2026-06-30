@@ -26,7 +26,7 @@ Role required: admin
 
 ## About this task
 
-\[Omitted video\] Description: Export the portfolio plan status to Microsoft PowerPoint from [[alignment-planner-workspace-landing-page|Strategic Planning]]
+\[Omitted video\] Description: Export the portfolio plan status to Microsoft PowerPoint from Strategic Planning
 
 The following three PowerPoint templates are provided by default to generate a status report for your portfolio plan:
 
@@ -38,7 +38,7 @@ You can customize the type of the data to be shown in the generated report by up
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **[[portfolio-planning-app-landing-page|Portfolio Planning]]**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Portfolio Planning**.
 
 2.  Export the status of goals, work items, roadmap, and key metrics of your portfolio plan and free-form roadmap into a Microsoft PowerPoint file.
 
@@ -98,7 +98,3 @@ A PowerPoint file is generated with the relevant data.
 
 The following image shows the example for an exported roadmap.\[Omitted image "exported-roadmap-to-ppt.png"\] Alt text: Exported roadmap.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

@@ -14,7 +14,7 @@ breadcrumb: [Integrating Field Service Management with other applications, Confi
 
 # Integration with Customer Service Management
 
-Provides an integration between the Customer Service Management and [[fsm-application-landing-page|Field Service Management]] applications.
+Provides an integration between the Customer Service Management and Field Service Management applications.
 
 Users can view account and contact information on work orders and work order tasks in the Field Service Management application. Customers and consumers can view case-related work orders from the Customer Service and Consumer Service Portals.
 
@@ -64,6 +64,3 @@ Define the fields you want to map between the case and the target work order tab
 
 **Parent Topic:**[Integrating Field Service Management with other applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-integrations/integrate-fsm-other-applications.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

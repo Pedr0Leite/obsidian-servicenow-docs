@@ -12,7 +12,7 @@ breadcrumb: [Set up layouts, CPQ app, Configure, price, quote apps, Configure, S
 
 # Layout editor
 
-Learn how to use the layout editor to [[Modify|modify]] a layout without leaving CPQ.
+Learn how to use the layout editor to modify a layout without leaving CPQ.
 
 The layout editor enables an admin to edit an layout without leaving CPQ.
 
@@ -27,15 +27,15 @@ The layout editor enables an admin to edit an layout without leaving CPQ.
 
 ## The Arrange Layout tab
 
-The Arrange Layout tab provides a similar experience to the [[layout_wizard|Layout Wizard]]. It lets you adjust various depths but does not allow for a change in the overall tier format.
+The Arrange Layout tab provides a similar experience to the Layout Wizard. It lets you adjust various depths but does not allow for a change in the overall tier format.
 
 \[Omitted image "cpq-layout-editor-arrange-layout.png"\] Alt text: Layout editor
 
 1.  Tier labels can be edited inline by clicking the pencil icon that appears on hover.
 2.  Extended properties of the element can be edited by clicking the gear icon, which will launch a window to update the values.
-3.  The field label can be edited by clicking the pencil icon, and extended properties of the field can be edited by clicking the gear icon. [[fields|Fields]] can also be edited in the Edit Field Info tab.
+3.  The field label can be edited by clicking the pencil icon, and extended properties of the field can be edited by clicking the gear icon. Fields can also be edited in the Edit Field Info tab.
 4.  Clicking the plus icon in a column set lets you search for fields to add to the column set.
-5.  Additional column [[cpq-sets|sets]] can be added to the layout by clicking the plus icon in the tier you want to add to.
+5.  Additional column sets can be added to the layout by clicking the plus icon in the tier you want to add to.
 6.  Tiers can be added to the layout by clicking the plus icon outside of the existing tiers.
 
 **Tip:** Several keyboard shortcuts are available to rearrange these visual elements. For example, tiers and column sets can be moved vertically by pressing Cmd/Ctrl + ↑ or ↓, and fields can be moved horizontally by pressing Cmd/Ctrl + ← or →. While in the Arrange Layout tab, you can view the keyboard shortcuts by pressing Shift + ? or by clicking the keyboard icon at the top of the page.
@@ -77,7 +77,7 @@ Field information such as label, display type, and extended properties can be ed
 
 1.  Class Name: Classes can be added to fields and searched for in the search bar. Classes appear as a pill once added. Classes that control the width and height of the field or align the field to a grid layout have built-in support.
 2.  Raw Value: The value can also be edited directly, in the format of key:value pairs. This corresponds to the value column in the layout.csv file.
-3.  [[cancel|Cancel]] and Save
+3.  Cancel and Save
 
     \[Omitted image "cpq-layout-editor-field-properties-2.png"\] Alt text: Layout editor
 
@@ -99,7 +99,7 @@ When you have made all the changes to the layout, don’t forget to save it, usi
 
 ## Additional considerations
 
-[[layouts|Layouts]] that were uploaded by using API calls cannot be edited in the layout editor. A message will appear that lets you import a CSV file to replace the layout.
+Layouts that were uploaded by using API calls cannot be edited in the layout editor. A message will appear that lets you import a CSV file to replace the layout.
 
 \[Omitted image "cpq-layout-editor-cannot-edit-layout.png"\] Alt text: Layout editor
 
@@ -107,11 +107,3 @@ Modifications that cannot be made by using the layout editor can be made by expo
 
 The order of rows is not maintained as the layout editor parses the values.
 
-## Related
-
-- [[Modify|Modify]]
-- [[layout_wizard|Layout Wizard]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]
-- [[cancel|Cancel]]
-- [[layouts|Layouts]]

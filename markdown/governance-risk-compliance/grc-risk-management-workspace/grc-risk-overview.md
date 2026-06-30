@@ -14,11 +14,11 @@ breadcrumb: [Governance, Risk, and Compliance]
 
 # Risk Management
 
-Use the [[r_WhatIsGRC|Governance, Risk, and Compliance]]: Risk Management application to continuously monitor to identify high-impact risks, improve your risk-based decision-making, and reduce reaction time effectively. The application also provides structured workflows for the management of [[risk-assessments|risk assessments]], risk indicators, and risk issues.
+Use the Governance, Risk, and Compliance: Risk Management application to continuously monitor to identify high-impact risks, improve your risk-based decision-making, and reduce reaction time effectively. The application also provides structured workflows for the management of risk assessments, risk indicators, and risk issues.
 
 ## Risk Workspace
 
-Starting with version 13.0.5, the [[risk-workspace|Risk Workspace]] has been added for Risk Management users. The Risk Workspace offers a simplified user experience for you to perform your daily tasks and activities. For more information on the new workspace, see [GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-workspace.md).
+Starting with version 13.0.5, the Risk Workspace has been added for Risk Management users. The Risk Workspace offers a simplified user experience for you to perform your daily tasks and activities. For more information on the new workspace, see [GRC Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/risk-workspace.md).
 
 ## Benefits of Risk Management
 
@@ -68,8 +68,3 @@ Use the [Risk Management implementation](https://raw.githubusercontent.com/Servi
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 
-## Related
-
-- [[r_WhatIsGRC|Governance, Risk, and Compliance]]
-- [[risk-assessments|risk assessments]]
-- [[risk-workspace|risk workspace]]

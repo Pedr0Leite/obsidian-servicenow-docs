@@ -14,7 +14,7 @@ breadcrumb: [Activate content packs, Activate, Process Mining, Platform Analytic
 
 # Content pack for HR Service Delivery
 
-Using the [[process-mining|Process Mining]] content pack for HR Service Delivery enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
+Using the Process Mining content pack for HR Service Delivery enables you to analyze processes relevant to your KPIs, and identify bottlenecks associated with customer service cases.
 
 ## Request apps on the Store
 
@@ -79,6 +79,3 @@ You can analyze the case process flow and suggest ways to improve the processes 
 
 \[Omitted image "example-po-hrsd2.png"\] Alt text: Process Mining for a standard HR Service case
 
-## Related
-
-- [[process-mining|Process Mining]]

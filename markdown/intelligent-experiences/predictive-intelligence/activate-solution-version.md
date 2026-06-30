@@ -14,7 +14,7 @@ breadcrumb: [Configure Predictive Intelligence, Predictive Intelligence, Enable 
 
 # Activate a solution version
 
-[[predictive-intelligence-landing|Predictive Intelligence]] activates the most recent version of the solution when it completes training a solution. However, you can activate any previously trained solution version. Only one solution version can be active at a time, and only the active version is used when making predictions.
+Predictive Intelligence activates the most recent version of the solution when it completes training a solution. However, you can activate any previously trained solution version. Only one solution version can be active at a time, and only the active version is used when making predictions.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ For classification solutions, [review the trained solution precision and coverag
 
 **Parent Topic:**[Configure Predictive Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/configure-predictive-intelligence.md)
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

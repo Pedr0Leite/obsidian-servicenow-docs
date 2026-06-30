@@ -14,7 +14,7 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 
 # KB Top Rated widget
 
-[[lists-configurable-workspace|Lists]] Knowledge Base articles with the highest rating. Ratings are determined by user feedback. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
+Lists Knowledge Base articles with the highest rating. Ratings are determined by user feedback. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
 \[Omitted image "WidgetKBTopRated.png"\] Alt text: Knowledge Base Top Rated articles widget
 
@@ -34,13 +34,9 @@ breadcrumb: [Knowledge Management widgets, Widget library, Using portal widgets,
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[lists-configurable-workspace|Lists]]
-- [[c_ServicePortal|Service Portal]]

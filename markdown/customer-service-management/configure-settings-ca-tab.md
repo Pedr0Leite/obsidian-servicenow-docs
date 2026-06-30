@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Administration** &gt; **Related Items**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Administration** &gt; **Related Items**.
 
 2.  Select **Customer History**.
 
@@ -57,6 +57,4 @@ Number of activities to display in the activity feed.Default value is 10.
 </td></tr></tbody>
 </table>    **Note:** Avoid making changes to the other component attributes in this list.
 
-## Related
 
-- [[customer-central|Customer Central]]

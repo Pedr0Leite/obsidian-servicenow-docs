@@ -22,7 +22,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 <table id="table_myz_gt3_b5c" class="nav-card"><tbody><tr><td>
 
-[Explore \[Omitted image "bus-[[threat-intelligence-security-center-overview|explore]].svg"\] Alt text: Learn about how analysts and administrators use DLP Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/exploring-dlp.md)
+[Explore \[Omitted image "bus-explore.svg"\] Alt text: Learn about how analysts and administrators use DLP Incident Response](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/exploring-dlp.md)
 
 </td><td>
 
@@ -52,6 +52,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[threat-intelligence-security-center-overview|Explore]]

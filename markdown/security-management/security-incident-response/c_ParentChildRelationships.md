@@ -14,7 +14,7 @@ breadcrumb: [View information in a security incident, Managing security incident
 
 # Parent and child security incident relationships
 
-You can associate and track the impact of any given issue using parent and child security incident relationships in [[sir-landing-page|Security Incident Response]].
+You can associate and track the impact of any given issue using parent and child security incident relationships in Security Incident Response.
 
 Using the **Related Records** tab, you can add a **Parent security incident** issue to any Security Incident Response form. This feature automatically makes the incident a child that appears in the **Related Lists - Child Security Incidents** tab of the parent issue.
 
@@ -35,6 +35,3 @@ Note:
 
 When a parent is closed or canceled, any active children are also closed or canceled. Any active **Response Tasks** on the child incidents are canceled. If there are no other open **Tasks**, the child incident is closed. When closed, the **Post Incident Interview** records the closure and the information found on the **Closure Information** tab is propagated from the parent to the children.
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

@@ -14,7 +14,7 @@ breadcrumb: [Visibility to TLS certificates, Configuring Certificate Inventory a
 
 # Run Certificate Discovery via port scans
 
-When the TLS port probe \[tls\_ssl\_certs\] is enabled, [[r-discovery|Discovery]] automatically scans 14 pre-authorized ports as part of your existing CI Discovery schedules.
+When the TLS port probe \[tls\_ssl\_certs\] is enabled, Discovery automatically scans 14 pre-authorized ports as part of your existing CI Discovery schedules.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: discovery\_admin or admin
 
 1.  Activate the TLS port probe \[tls\_ssl\_certs\].
 
-    1.  Navigate to **Discovery Definition** &gt; **[[r_PortProbes|Port Probes]]**.
+    1.  Navigate to **Discovery Definition** &gt; **Port Probes**.
 
     2.  Open **tls\_ssl\_certs**.
 
@@ -59,7 +59,3 @@ Role required: discovery\_admin or admin
 
 Your existing Discovery schedules should then automatically scan for any certificates on the specified ports.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[r_PortProbes|Port probes]]

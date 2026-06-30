@@ -14,7 +14,7 @@ breadcrumb: [Review customer or partner accounts, Use, Proactive Service Experie
 
 # Review an account by using the 360 View in Proactive Service Experience Workflows
 
-Review a customer or partner's account by using the Operations Account 360 view provided by the [[psew-landing-page|Proactive Service Experience Workflows]] application inside of Service Operations Workspace. You can track your data and tasks related to customer's or partner's and then take action to improve your delivery of service.
+Review a customer or partner's account by using the Operations Account 360 view provided by the Proactive Service Experience Workflows application inside of Service Operations Workspace. You can track your data and tasks related to customer's or partner's and then take action to improve your delivery of service.
 
 ## Before you begin
 
@@ -169,6 +169,3 @@ You can also search for Major Incidents, Major Cases, Knowledge, Articles, or Ca
 
 **Parent Topic:**[Reviewing customer or partner accounts in Proactive Service Experience Workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/proactive-service-exp-workflows/product-support-for-technology/reviewing-customer-accounts-360.md)
 
-## Related
-
-- [[psew-landing-page|Proactive Service Experience Workflows]]

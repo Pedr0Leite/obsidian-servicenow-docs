@@ -14,7 +14,7 @@ breadcrumb: [Use Microsoft Teams integration for Agent Experience, Use, ServiceN
 
 # Use Notify connector for Microsoft Teams
 
-Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through [[notify-connector-ms-teams|Notify connector for Microsoft Teams]].
+Allow the agents to work and manage the major incidents from Major Incident Management \(MIM\) workbench through Notify connector for Microsoft Teams.
 
 -   **[Use Notify connector for Microsoft Teams with task records](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/notify-connector-ms-teams-task.md)**  
 Notify connector for Microsoft Teams enables you to initiate conference calls from task records such as incidents, problems, or change requests.
@@ -27,6 +27,3 @@ Manage conference calls in Microsoft Teams by muting or unmuting participants, o
 
 **Parent Topic:**[Use Microsoft Teams integration for Agent Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/c_agent_ex_use.md)
 
-## Related
-
-- [[notify-connector-ms-teams|Notify connector for Microsoft Teams]]

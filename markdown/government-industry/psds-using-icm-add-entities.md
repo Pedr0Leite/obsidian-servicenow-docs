@@ -26,7 +26,7 @@ Role required: icm.investigator, supervisory\_agent
 
 ### About this task
 
-**Note:** Not all of the fields are mandatory, but there is a minimum amount of information required for the record to be considered complete and thus searchable within the case workspace. For more information on entity completeness rules, see [[psds-icm-ref-entity-man-completeness-rules|Completeness Rules by Investigative Case Management Entity Type]].
+**Note:** Not all of the fields are mandatory, but there is a minimum amount of information required for the record to be considered complete and thus searchable within the case workspace. For more information on entity completeness rules, see [Completeness Rules by Investigative Case Management Entity Type](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-entity-man-completeness-rules.md).
 
 **Note:** Adding a person through the Persons tab does not affect roles at the user level.
 
@@ -42,7 +42,7 @@ Role required: icm.investigator, supervisory\_agent
 
 4.  On the form, fill in the fields with identifying information.
 
-    For more information about the form fields used to capture the details of the persons record, see [[psds-icm-ref-case-forms-enm-pers|ICM Entity Management Person form]].
+    For more information about the form fields used to capture the details of the persons record, see [ICM Entity Management Person form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-pers.md).
 
 5.  Enter a brief description of the relationship this person has to the case, then select **Save**.
 
@@ -77,7 +77,7 @@ Role required: icm.investigator, supervisory\_agent
 
 4.  On the form, fill in the fields with information about the property.
 
-    For more information about the form fields used to capture the details of the property record, see [[psds-icm-ref-case-forms-enm-prop|ICM Entity Management Property form]].
+    For more information about the form fields used to capture the details of the property record, see [ICM Entity Management Property form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-prop.md).
 
 5.  Enter a brief description of the relationship this property has to the case, then select **Save**.
 
@@ -110,7 +110,7 @@ Role required: icm.investigator, supervisory\_agent
 
 4.  On the form, fill in the fields with information about the location.
 
-    For more information about the form fields used to capture the details of the location record, see [[psds-icm-ref-case-forms-enm-loc|ICM Entity Management Location form]].
+    For more information about the form fields used to capture the details of the location record, see [ICM Entity Management Location form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-loc.md).
 
 5.  Enter a brief description of the relationship this location has to the case, then select **Save**.
 
@@ -147,7 +147,7 @@ With Investigative Case Management, investigators can create incident and invest
 
 5.  On the form, fill in the fields with information about the event, such as the event details, and date and time.
 
-    For more information about the form fields used to capture the details of the event record, see [[psds-icm-ref-case-forms-enm-evnt|ICM Entity Management Events form]].
+    For more information about the form fields used to capture the details of the event record, see [ICM Entity Management Events form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-evnt.md).
 
 6.  Enter a brief description of the relationship this event has to the case, then select **Save**.
 
@@ -180,7 +180,7 @@ Role required: icm.investigator, supervisory\_agent
 
 4.  On the form, fill in the fields with identifying information about the vehicle.
 
-    For more information about the form fields used to capture the details of the vehicle record, see [[psds-icm-ref-case-forms-enm-veh|ICM Entity Management Vehicle form]].
+    For more information about the form fields used to capture the details of the vehicle record, see [ICM Entity Management Vehicle form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-veh.md).
 
 5.  Enter a brief description of the relationship this vehicle has to the case, then select **Save**.
 
@@ -213,7 +213,7 @@ Role required: icm.investigator, supervisory\_agent
 
 4.  On the form, fill in the fields with identifying information about the organization.
 
-    For more information about the form fields used to capture the details of the organization record, see [[psds-icm-ref-case-forms-enm-org|ICM Entity Management Organization form]].
+    For more information about the form fields used to capture the details of the organization record, see [ICM Entity Management Organization form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-org.md).
 
 5.  Enter a brief description of the relationship this organization has to the case, then select **Save**.
 
@@ -248,7 +248,7 @@ With Investigative Case Management, Investigators can create and manage a centra
 
 4.  On the form, fill in the fields with identifying information about the firearm.
 
-    Each firearm profile stores critical identifiers, traits, and historical data. For more information about the form fields used to capture the details of the organization record, see [[psds-icm-ref-case-forms-enm-fir|ICM Entity Management Firearm form]].
+    Each firearm profile stores critical identifiers, traits, and historical data. For more information about the form fields used to capture the details of the organization record, see [ICM Entity Management Firearm form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-icm-ref-case-forms-enm-fir.md).
 
 5.  Enter a brief description of the relationship that this firearm has to the case, then select **Save**.
 
@@ -256,13 +256,4 @@ With Investigative Case Management, Investigators can create and manage a centra
 
     For example, if you've already added a persons record via the Persons entity tab, you can associate this firearm entity record with the person. To do this, select **Link Associated Entity**, and select the existing entity via the dropdown.
 
-## Related
 
-- [[psds-icm-ref-entity-man-completeness-rules|Completeness Rules by Investigative Case Management Entity Type]]
-- [[psds-icm-ref-case-forms-enm-pers|ICM Entity Management Person form]]
-- [[psds-icm-ref-case-forms-enm-prop|ICM Entity Management Property form]]
-- [[psds-icm-ref-case-forms-enm-loc|ICM Entity Management Location form]]
-- [[psds-icm-ref-case-forms-enm-evnt|ICM Entity Management Events form]]
-- [[psds-icm-ref-case-forms-enm-veh|ICM Entity Management Vehicle form]]
-- [[psds-icm-ref-case-forms-enm-org|ICM Entity Management Organization form]]
-- [[psds-icm-ref-case-forms-enm-fir|ICM Entity Management Firearm form]]

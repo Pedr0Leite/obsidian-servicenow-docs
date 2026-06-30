@@ -14,7 +14,7 @@ breadcrumb: [Setting up healthcare locations and healthcare organizations, Confi
 
 # Create organizational teams in Healthcare Operations Core
 
-[[hcls-sm-configure-healthcare-organizations|Create a healthcare organization]] to associate with your healthcare department.
+Create a healthcare organization to associate with your healthcare department.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare organizations**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare organizations**.
 
 2.  Select **New**.
 
@@ -43,7 +43,4 @@ Role required: admin
 
 5.  Select **Submit**.
 
-## Related
 
-- [[hcls-sm-configure-healthcare-organizations|Create a healthcare organization]]
-- [[healthcare-operations-overview|Healthcare Operations]]

@@ -20,7 +20,7 @@ A ServiceNow® Virtual Agent conversation topic defines the dialog between the V
 
 To use Virtual Agent with SMS, your organization must have a Twilio account and phone number. You must also install the Virtual Agent plugin \(com.glide.cs.chatbot\) and set up the Conversational SMS Integration with Twilio application \(sn\_va\_sms\_twilio\). For more information, see [Set up the Conversational SMS Integration with Twilio](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/configure-twilio-adapter.md).
 
-On-premise customers who install the [[safe-workplace|Safe Workplace]] applications in the Rome release for the first time require a scoped admin role to create an approved scope-to-scope Restricted Caller Access \(RCA\) record in Vaccination Status. This cross-scoped access is required for Conversational SMS Integration with Twilio to function in the Vaccination Status application.
+On-premise customers who install the Safe Workplace applications in the Rome release for the first time require a scoped admin role to create an approved scope-to-scope Restricted Caller Access \(RCA\) record in Vaccination Status. This cross-scoped access is required for Conversational SMS Integration with Twilio to function in the Vaccination Status application.
 
 The RCA record should have the following values set:
 
@@ -38,7 +38,7 @@ For more information on creating caller access records, see [Set application sco
 
 To receive SMS messages for Vaccination Status, users must have a mobile phone number listed on their user record \[sys\_user\]. Mobile numbers must be in E.164 format. For example, `+18585551212`.
 
-Privacy consent for Vaccination Status must be configured before users can report their vaccination status via SMS. For instructions, see [[set-up-vaccine-privacy|Set up privacy consent for Vaccination Status]].
+Privacy consent for Vaccination Status must be configured before users can report their vaccination status via SMS. For instructions, see [Set up privacy consent for Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/set-up-vaccine-privacy.md).
 
 **Note:** Users must agree to the privacy consent before they can submit their vaccination status. The Vaccine conversation topic prompts users to complete the privacy consent via SMS if they haven't already submitted their consent. Users must belong to an audience associated with a vaccine privacy consent outreach to be able to complete the privacy consent via SMS.
 
@@ -48,10 +48,5 @@ Once users receive the SMS outreach, they can report their vaccination status th
 
 The Vaccine conversation provides the user with options to select which type of vaccine they received. These options are pulled from the Vaccine response definition table \[sn\_imt\_vaccine\_vaccine\_response\_definition\]. To set the display name for a vaccine type, enter the name in the **SMS friendly name** field on the vaccine response definition record.
 
-**Parent Topic:**[[vaccination-status|Vaccination Status]]
+**Parent Topic:**[Vaccination Status](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/vaccination-status.md)
 
-## Related
-
-- [[set-up-vaccine-privacy|Set up privacy consent for Vaccination Status]]
-- [[vaccination-status|Vaccination Status]]
-- [[safe-workplace|Safe Workplace]]

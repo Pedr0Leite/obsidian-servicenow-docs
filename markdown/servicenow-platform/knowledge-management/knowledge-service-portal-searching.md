@@ -14,7 +14,7 @@ breadcrumb: [Configure the Knowledge Management Service Portal, Configuring Know
 
 # Search using the Knowledge Management Service Portal
 
-Enter one or more words in the search bar on the [[knowledge-management|Knowledge Management]] Service Portal homepage to view all search results.
+Enter one or more words in the search bar on the Knowledge Management Service Portal homepage to view all search results.
 
 Search results include items in which the short description, content, or attached files include the search term. By default, knowledge search results include articles, pinned articles, and social Q&amp;A.
 
@@ -29,7 +29,7 @@ The multi-language search facet is available when more than one supported langua
     **Note:** Activating internationalization plugins for any of the available languages automatically activates the I18N: Knowledge Management Internationalization Plugin v2 plugin.
 
 2.  Navigate to **Knowledge** &gt; **Administration** &gt; **Knowledge Search Properties** &gt; **Enable multi language search**.
-3.  Select the **Yes** [[check-box|check box]] to enable the feature.
+3.  Select the **Yes** check box to enable the feature.
 
     **Note:** If this property is not enabled, you can only search for one language at a time.
 
@@ -50,7 +50,3 @@ Users with the system administrator role can enable this feature.
 
 **Parent Topic:**[Configure the Knowledge Management Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/knowledge-management-service-portal.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

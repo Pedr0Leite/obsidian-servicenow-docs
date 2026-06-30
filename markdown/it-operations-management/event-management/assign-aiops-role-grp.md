@@ -15,11 +15,11 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Assign group or team to Event Management operator role
 
-Assign the evt\_mgmt\_operator role to groups to enable operations teams to work with alerts and manage [[c_EM|Event Management]] workflows.
+Assign the evt\_mgmt\_operator role to groups to enable operations teams to work with alerts and manage Event Management workflows.
 
 ## Before you begin
 
-Verify that you have installed the [[itom-health-landing-page|ITOM AIOps]] and Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) plugins.
+Verify that you have installed the ITOM AIOps and Now Assist for IT Operations Management \(ITOM\) plugins.
 
 Ensure you are in the Configure IT Operations Management page.
 
@@ -45,8 +45,4 @@ The evt\_mgmt\_operator role provides the necessary permissions for operations t
 
 6.  To complete the setup, select **Mark as configured**.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[r_ITOMApplications|IT Operations Management]]

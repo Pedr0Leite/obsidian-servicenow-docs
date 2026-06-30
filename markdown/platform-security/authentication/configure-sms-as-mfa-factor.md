@@ -14,11 +14,11 @@ breadcrumb: [SMS as an MFA factor, MFA factor policies, MFA verification methods
 
 # Configure SMS as an MFA factor
 
-Configure policy input and condition to display SMS OTP as an MFA factor policy for [[c_Authentication|authentication]].
+Configure policy input and condition to display SMS OTP as an MFA factor policy for authentication.
 
 ## Before you begin
 
-Plugin required: [[mfa-landing|Multi-factor authentication]] with SMS \(`com.snc.authentication.sms_mfa`\).
+Plugin required: Multi-factor authentication with SMS \(`com.snc.authentication.sms_mfa`\).
 
 Role required: adaptive\_auth\_admin
 
@@ -28,7 +28,7 @@ Role required: adaptive\_auth\_admin
 
 1.  Navigate to **All** &gt; **Multi-factor Authentication** &gt; **MFA Context**.
 
-2.  Click the **MFA Factor [[ca-policies|Policies]]** tab.
+2.  Click the **MFA Factor Policies** tab.
 
 3.  Select the **Display SMS OTP as an MFA Factor Policy**.
 
@@ -38,16 +38,16 @@ Role required: adaptive\_auth\_admin
 
     \[Omitted image "sms-mfa.png"\] Alt text: Policy Inputs
 
-5.  Select the [[adaptive-auth-filter-criteria|filter criteria]] that you want to create.
+5.  Select the filter criteria that you want to create.
 
     Following are the types of filter criteria:
 
     -   [IP Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-ip-filter-criteria.md)
     -   [Role Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-role-filter-criteria.md)
     -   [Group Filter Criteria](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/create-group-filter-criteria.md)
-    For example, [[role-filter|Role Filter]] Criteria.
+    For example, Role Filter Criteria.
 
-    \[Omitted image "mfa-[[email|email]]-filter.png"\] Alt text: Filter Criteria.
+    \[Omitted image "mfa-email-filter.png"\] Alt text: Filter Criteria.
 
 6.  Click **Role Filter Criteria**, fill the fields for the role filter criteria and submit the record.
 
@@ -100,14 +100,6 @@ Logical combination of multiple policy inputs \(filter criteria\) that is used t
 
     **Note:** If you create multiple policy conditions, the final output of the access policy depends on the logical OR output of the all policy conditions. This means that the policy evaluates to true if any one of your policy conditions is met.
 
-    Based on the role filter \([[users|users]]\) policy and the conditions specified for the role is matched, the SMS as MFA factor is shown as an option for authentication for the users.
+    Based on the role filter \(users\) policy and the conditions specified for the role is matched, the SMS as MFA factor is shown as an option for authentication for the users.
 
-## Related
 
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[ca-policies|Policies]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[role-filter|Role Filter]]
-- [[email|Email]]
-- [[users|Users]]

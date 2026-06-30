@@ -19,7 +19,7 @@ Use article quality index \(AQI\) to assess the quality of knowledge articles.
 -   **[Create an AQI checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/create-an-aqi-checklist.md)**  
 Create a checklist of questions that reviewers can use to evaluate the quality of knowledge articles.
 -   **[Assign an AQI checklist to a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/assign-an-aqi-checklist-to-a-knowledgebase.md)**  
-Before a knowledge reviewer can start performing the AQI review, you must [[assign-an-aqi-checklist-to-a-knowledgebase|assign an AQI checklist to a knowledge base]].
+Before a knowledge reviewer can start performing the AQI review, you must assign an AQI checklist to a knowledge base.
 -   **[Remove an AQI checklist from a knowledge base](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/remove-an-aqi-checklist-from-a-knowledgebase.md)**  
 Before you can edit a checklist that is assigned to a knowledge base, you must remove it from the knowledge base.
 -   **[Delete questions from an AQI checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/delete-questions-from-an-aqi-checklist.md)**  
@@ -33,6 +33,3 @@ Delete an AQI review that was created by mistake or is no longer required.
 
 **Parent Topic:**[Using Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/using-knowledge-management.md)
 
-## Related
-
-- [[assign-an-aqi-checklist-to-a-knowledgebase|Assign an AQI checklist to a knowledge base]]

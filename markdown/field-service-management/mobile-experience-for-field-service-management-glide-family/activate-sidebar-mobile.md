@@ -14,7 +14,7 @@ breadcrumb: [Setting up Field Service Mobile Agent, Configure, Field Service Man
 
 # Activate Sidebar for the Field Service Mobile Agent application
 
-You can activate the Sidebar for [[fsm-application-landing-page|Field Service Management]] plugin \(sn\_fsm\_sidebar\) for Field Service Management if you have the admin role. Activating this plugin enables the Sidebar feature on the Mobile Agent application.
+You can activate the Sidebar for Field Service Management plugin \(sn\_fsm\_sidebar\) for Field Service Management if you have the admin role. Activating this plugin enables the Sidebar feature on the Mobile Agent application.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Activating this plugin enables the Sidebar feature on the Mobile Agent applicati
 
 [Summarize a Sidebar discussion on the ServiceNow Agent application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/now-assist-for-field-service-management-fsm/na-fsm-summarize-sidebar-platform.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

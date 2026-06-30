@@ -14,13 +14,13 @@ breadcrumb: [Configure sets, CPQ app, Configure, price, quote apps, Configure, S
 
 You can collect the average, count, maximum, minimum, and sum of the data in any field in a set by using a set aggregate.
 
-Set aggregates collect the data for each field in the set and output the result. Options include average, count, maximum, minimum, and sum. For example, a sum aggregate on a number field called Quantity will store the sum of all Quantity field values in the set. These aggregates function as a field outside of the set, can be used in global [[rules_101|rules]], and can be displayed anywhere in the layout.
+Set aggregates collect the data for each field in the set and output the result. Options include average, count, maximum, minimum, and sum. For example, a sum aggregate on a number field called Quantity will store the sum of all Quantity field values in the set. These aggregates function as a field outside of the set, can be used in global rules, and can be displayed anywhere in the layout.
 
 To create an aggregate, open a set, scroll to the subfield that you want to aggregate, and click **Create New Aggregate**. You can then choose the aggregate type and give the new aggregate a name.
 
 You can add the aggregate to the layout just like any other field, and deploy.
 
-\[Omitted image "cpq-[[cpq-sets|sets]]-aggregates-1.png"\] Alt text: Set layout
+\[Omitted image "cpq-sets-aggregates-1.png"\] Alt text: Set layout
 
 Below is the new sum aggregate during runtime:
 
@@ -28,7 +28,7 @@ Below is the new sum aggregate during runtime:
 
 **Note:** The Sandwich Sum aggregate represents the sum of the Quantity field. This is not to be confused with the Sandwich Size of 3, which is the number of rows in the set.
 
-Although the five aggregate types seem straightforward, there are important details about how they function with Boolean [[fields|fields]], picklist fields, and fields that have blank values. The following sections clarify these particulars.
+Although the five aggregate types seem straightforward, there are important details about how they function with Boolean fields, picklist fields, and fields that have blank values. The following sections clarify these particulars.
 
 ## The Count aggregate
 
@@ -127,11 +127,5 @@ The following field is the field set up for the examples in this topic. Note tha
 **Related topics**  
 
 
-[[layouts-sets|Using sets in layouts]]
+[Using sets in layouts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/layouts-sets.md)
 
-## Related
-
-- [[layouts-sets|Using sets in layouts]]
-- [[rules_101|Rules]]
-- [[cpq-sets|Sets]]
-- [[fields|Fields]]

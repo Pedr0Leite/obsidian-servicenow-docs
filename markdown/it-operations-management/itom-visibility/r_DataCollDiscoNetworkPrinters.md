@@ -14,7 +14,7 @@ breadcrumb: [Network device discovery, Data collected by ITOM Visibility, ITOM V
 
 # Network printer discovery
 
-[[r-discovery|Discovery]] identifies and classifies information about network printers.
+Discovery identifies and classifies information about network printers.
 
 Discovery can identify and classify Network Printers. For more information, see [Network discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_NetworkDiscovery.md).
 
@@ -42,6 +42,3 @@ Discovery can identify and classify Network Printers. For more information, see 
 
 **Parent Topic:**[Network device discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_NetworkDevices.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

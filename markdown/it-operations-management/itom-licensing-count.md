@@ -12,7 +12,7 @@ breadcrumb: [Using ITOM/OT SU Licensing, ITOM/OT SU Licensing and subscriptions,
 
 # View CIs consuming ITOM subscription units
 
-Generate a list of currently countable CIs for each of the ITOM applications: [[itom-visibility-landing-page|ITOM Visibility]], [[r-discovery|Discovery]], [[itom-health-landing-page|ITOM AIOps]], [[hla-landing-page|Health Log Analytics]], [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]], and [[itom-optimization-landing-page|ITOM Optimization]].
+Generate a list of currently countable CIs for each of the ITOM applications: ITOM Visibility, Discovery, ITOM AIOps, Health Log Analytics, ITOM Cloud Accelerate, and ITOM Optimization.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sn\_itom\_license.reader
 
 The generated CI list is closely correlated to the latest daily CI count. At the same time, the number of CIs on the generated CI list may be slightly different from the latest daily CI count, if changes occurred since the last daily count.
 
-**Note:** To estimate the predicted usage under 2026 Packaging SKUs, see [[generate-ci-consumption-predictions|Generate CI consumption predictions for 2026 Container Packaging SKU migration]]
+**Note:** To estimate the predicted usage under 2026 Packaging SKUs, see [Generate CI consumption predictions for 2026 Container Packaging SKU migration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/generate-ci-consumption-predictions.md)
 
 ## Procedure
 
@@ -54,12 +54,4 @@ The generated CI list is closely correlated to the latest daily CI count. At the
 
     The ITOM Licensable CIs page displays the list of CIs with a license.
 
-## Related
 
-- [[generate-ci-consumption-predictions|Generate CI consumption predictions for 2026 Container Packaging SKU migration]]
-- [[itom-visibility-landing-page|ITOM Visibility]]
-- [[r-discovery|Discovery]]
-- [[itom-health-landing-page|ITOM AIOps]]
-- [[hla-landing-page|Health Log Analytics]]
-- [[itom-cloud-accelerate-landing-page|ITOM Cloud Accelerate]]
-- [[itom-optimization-landing-page|ITOM Optimization]]

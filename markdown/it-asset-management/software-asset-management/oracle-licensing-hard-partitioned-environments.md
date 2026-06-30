@@ -14,7 +14,7 @@ breadcrumb: [Oracle licensing in partitioned environments, Software Asset Manage
 
 # Oracle Database and WebLogic Server licensing in hard-partitioned environments
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application supports Oracle hard-partitioning licensing rules for IBM AIX Logical Partition \(LPAR\), Solaris Logical Domain \(LDOM\), and Solaris Zone.
+The Software Asset Management application supports Oracle hard-partitioning licensing rules for IBM AIX Logical Partition \(LPAR\), Solaris Logical Domain \(LDOM\), and Solaris Zone.
 
 When you hard partition a server, the server is divided into smaller systems that run independently from each other. Each system contains its own processors, network resources, operating system, memory, and more. For more information on Oracle licensing and hard partitioning, refer to [Oracle Partitioning Policy](https://www.oracle.com/assets/partitioning-070609.pdf).
 
@@ -37,7 +37,7 @@ When you run a discovery, your discovered LPAR data is populated and stored in t
 -   cmdb\_rel\_ci
 -   cmdb\_sam\_sw\_install
 
-To populate and store this data, you must request and install the CMDB CI Class [[c_Models|Models]] application from the ServiceNow Store. This application adds or updates CMDB classes for the IBM HMC. For more information on IBM HMC CMDB classes, see [IBM Hardware Management Console \(HMC\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-ibm-hmc.md).
+To populate and store this data, you must request and install the CMDB CI Class Models application from the ServiceNow Store. This application adds or updates CMDB classes for the IBM HMC. For more information on IBM HMC CMDB classes, see [IBM Hardware Management Console \(HMC\) extension classes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/cmdb-ci-class-models-ibm-hmc.md).
 
 After your discovered LPAR data is populated in the appropriate CMDB tables, you can use the **samp\_frame\_to\_lpar\_resource** database view to join the tables together and consolidate all LPAR data into a single view. Based on this database view and the Oracle Database and WebLogic Server licensing rules for IBM LPAR, you can identify and determine the license compliance of all Oracle Database and WebLogic server installations across your IBM LPAR infrastructure.
 
@@ -105,7 +105,3 @@ You can set up a global zone on a Solaris server and hard partition it with mult
 
 **Parent Topic:**[Oracle Database and WebLogic Server licensing in partitioned environments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-licensing-partitioned-environments.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]

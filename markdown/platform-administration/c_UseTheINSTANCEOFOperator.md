@@ -12,9 +12,9 @@ breadcrumb: [Reference qualifiers, Reference field type, Reference, Field admini
 
 # The INSTANCEOF operator in reference qualifiers
 
-You can use the INSTANCEOF operator in a [[reference-email-admin|reference]] qualifier to shorten or simplify a complex class qualifier.
+You can use the INSTANCEOF operator in a reference qualifier to shorten or simplify a complex class qualifier.
 
-For example, use the INSTANCEOF operator for a reference field to the cmdb\_ci table to specify that all subclasses of a class are included in the [[hs-results|results]]. The following reference qualifier returns all servers, including Linux, UNIX, Windows, and so on, because each of those subclasses extend the cmdb\_ci\_server class.
+For example, use the INSTANCEOF operator for a reference field to the cmdb\_ci table to specify that all subclasses of a class are included in the results. The following reference qualifier returns all servers, including Linux, UNIX, Windows, and so on, because each of those subclasses extend the cmdb\_ci\_server class.
 
 ```
 sys_class_nameINSTANCEOFcmdb_ci_server
@@ -42,7 +42,3 @@ Using the INSTANCEOF operator, the reference qualifier is rewritten as follows b
 ^ORsys_class_name=cmdb_ci_netgear
 ```
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[hs-results|Results]]

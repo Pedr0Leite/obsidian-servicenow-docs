@@ -14,7 +14,7 @@ breadcrumb: [Digital Experience Score, Digital End-User Experience, IT Service M
 
 # Digital Experience Score​ reference
 
-[[reference-for-itsm-mobile-agent|Reference]] topics provide additional information about the lists and forms that you use to configure and administer [[dexscr-digital-experience-score|Digital Experience Score​]].
+Reference topics provide additional information about the lists and forms that you use to configure and administer Digital Experience Score​.
 
 -   **[Components installed with Digital Experience Score​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-installed-with-dex-score.md)**  
 Several types of components are installed with activation of the Digital Experience Score​ app, including tables and user roles.
@@ -23,11 +23,11 @@ Several types of components are installed with activation of the Digital Experie
 -   **[Digital Experience Score​ properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-properties.md)**  
 Configure the system properties to enable DEX Score application and set the company level target for the digital experience score.
 -   **[DEX Score metric definitions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-metric-defs.md)**  
-List of the base system [[dexscr-metric-defs|DEX Score metric definitions]].
+List of the base system DEX Score metric definitions.
 -   **[Metric definition form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-metric-def-form.md)**  
 Update the scoring details of a metric definition, enable or disable it, or specify whether it contributes to the overall DEX score.
 -   **[DEX Score survey configuration form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-score-survey-config-form.md)**  
-Update the configuration for sending the surveys to collect feedback from employees on the usage of [[dex-workspace-application-tab|applications]] and [[dex-workspace-devices-tab|devices]].
+Update the configuration for sending the surveys to collect feedback from employees on the usage of applications and devices.
 -   **[DEX Score metrics calculation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-metrics-calc.md)**  
 Learn more about how the metrics values are calculated in the Digital Experience Score​ dashboard.
 -   **[DEX Score normalization for metric scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-dex-score-normalization.md)**  
@@ -37,10 +37,3 @@ Application and device health metrics are collected daily, weekly, and monthly f
 
 **Parent Topic:**[Digital Experience Score​](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-experience-score/dexscr-digital-experience-score.md)
 
-## Related
-
-- [[reference-for-itsm-mobile-agent|Reference]]
-- [[dexscr-digital-experience-score|Digital Experience Score​]]
-- [[dexscr-metric-defs|DEX Score metric definitions]]
-- [[dex-workspace-application-tab|Applications]]
-- [[dex-workspace-devices-tab|Devices]]

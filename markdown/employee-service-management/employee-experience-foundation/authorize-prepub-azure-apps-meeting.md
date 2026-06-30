@@ -14,7 +14,7 @@ breadcrumb: [Integrate Meeting Extensions pre-published app with Microsoft Teams
 
 # Authorize pre-published SSO and Activity Notification Azure apps to grant required permissions
 
-Authorize the pre-published SSO and [[activity-lxp|Activity]] Notification apps to enable ServiceNow® to make API calls from a personal tab in Microsoft Teams.
+Authorize the pre-published SSO and Activity Notification apps to enable ServiceNow® to make API calls from a personal tab in Microsoft Teams.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ To connect your ServiceNow instance to your Microsoft 365 tenant and to Authoriz
 
 **Parent Topic:**[Integrate Meeting Extensions pre-published app with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/setup-meeting-extensibility-multi-tenant.md)
 
-## Related
-
-- [[activity-lxp|Activity]]

@@ -14,7 +14,7 @@ breadcrumb: [Scores from risk intelligence providers, Integrate, Third-party Ris
 
 # Set up a risk intelligence provider service
 
-After you [[tprm-riskintelprvdr-register|register a risk intelligence provider]], you specify which of the provider's scoring or rating services you’ll use. You also specify how their scores or ratings map to your TPRM ratings.
+After you register a risk intelligence provider, you specify which of the provider's scoring or rating services you’ll use. You also specify how their scores or ratings map to your TPRM ratings.
 
 ## Before you begin
 
@@ -118,6 +118,3 @@ If applicable, specify an existing service with this provider that uses identica
 
 **Parent Topic:**[Integrating scores from risk intelligence providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-riskintelprvdr-overview.md)
 
-## Related
-
-- [[tprm-riskintelprvdr-register|Register a risk intelligence provider]]

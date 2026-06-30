@@ -14,7 +14,7 @@ breadcrumb: [Software asset analytics view, Software Asset Workspace, Exploring 
 
 # Engineering License overview dashboard in workspace
 
-Monitor and gain insights into your engineering applications license position and usage by viewing product usage reports in the [[engineering-overview-dashboard|Engineering license overview dashboard]].
+Monitor and gain insights into your engineering applications license position and usage by viewing product usage reports in the Engineering license overview dashboard.
 
 The Engineering license overview dashboard displays reports on normalized products and publishers that belong to engineering applications such as AutoCAD, GIS.
 
@@ -24,7 +24,7 @@ To narrow your results based on products or publishers across all tabs, use the 
 
 All the reports are updated daily or whenever a new reconciliation result is available.
 
-You can access the Engineering license overview dashboard by navigating to **Software asset** &gt; **[[sam-workspace|Software Asset Workspace]]** &gt; **Software asset analytics** &gt; **Engineering license overview**.
+You can access the Engineering license overview dashboard by navigating to **Software asset** &gt; **Software Asset Workspace** &gt; **Software asset analytics** &gt; **Engineering license overview**.
 
 \[Omitted image "engineering-dboard-workspace.png"\] Alt text: Engineering Overview dashboard in workspace
 
@@ -143,8 +143,3 @@ Top users that are denied licenses to products.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[engineering-overview-dashboard|Engineering License Overview dashboard]]
-- [[sam-workspace|Software Asset Workspace]]

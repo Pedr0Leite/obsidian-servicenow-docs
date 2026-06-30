@@ -14,9 +14,9 @@ breadcrumb: [Admin configurations, Configuring Employee Center, Employee Center,
 
 # Footer configuration
 
-[[employee-center-landing-page|Employee Center]] and [[employee-center-pro-landing|Employee Center Pro]] include a footer by default, which you can configure.
+Employee Center and Employee Center Pro include a footer by default, which you can configure.
 
-You can [[configure-the-employee-center-footer|configure the footer]] to display the following information about your company:
+You can configure the footer to display the following information about your company:
 
 -   Corporate office address
 -   Email address
@@ -29,9 +29,9 @@ Configure the footer in Employee Center or Employee Center Pro to display your c
 -   **[Configure the footer menus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-emp-center-footer-menus.md)**  
 Footer menus enable you to create menus and associate links to internal and external resources under each menu.
 -   **[Footer form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-footer-form.md)**  
-Use the [[ec-footer-form|Footer form]] to create a new footer that you want to appear in the Employee Center or Employee Center Pro.
+Use the Footer form to create a new footer that you want to appear in the Employee Center or Employee Center Pro.
 -   **[Footer Menus form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-footer-menus.md)**  
-Use the [[ec-footer-menus|Footer Menus form]] to create a new footer menu that you want to appear on your Employee Center or Employee Center Pro.
+Use the Footer Menus form to create a new footer menu that you want to appear on your Employee Center or Employee Center Pro.
 
 **Parent Topic:**[Employee Center admin configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/configure-ec-portal.md)
 
@@ -60,10 +60,3 @@ Use the [[ec-footer-menus|Footer Menus form]] to create a new footer menu that y
 
 [Portal performance optimization]()
 
-## Related
-
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[configure-the-employee-center-footer|Configure the footer]]
-- [[ec-footer-form|Footer form]]
-- [[ec-footer-menus|Footer Menus form]]

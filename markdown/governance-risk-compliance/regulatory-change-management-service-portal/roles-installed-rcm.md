@@ -14,7 +14,7 @@ breadcrumb: [Reference, Regulatory Change Management, Governance, Risk, and Comp
 
 # User roles in Regulatory Change Management
 
-Stakeholders in the [[reg-change-mgmt-landing-page|Regulatory Change Management]] \(RCM\) application have different roles and responsibilities.
+Stakeholders in the Regulatory Change Management \(RCM\) application have different roles and responsibilities.
 
 The Regulatory Change Management application roles are installed with the activation of the GRC: Regulatory Change Management application. The customization or extension of configuration is not allowed. Only the users with GRC Admin roles can do the configurations setup. The application involves the following types of roles.
 
@@ -69,7 +69,7 @@ RCM Manager \[sn\_grc\_reg\_change.manager\]
 
 </td><td>
 
-The RCM Manager assigns [[list-view-of-reg-alerts|regulatory alerts]] and monitors [[reg-change-task|regulatory change tasks]] and action tasks.**Note:** A group titled as **RCM Managers** is added under **Groups** in the **User [[Administration|Administration]]** panel under the Regulatory Change Management application. The RCM Managers group reviews the regulatory tasks workflow, ensuring regulatory compliance. The users who belong to this group must have the sn\_grc\_reg\_change.manager role.
+The RCM Manager assigns regulatory alerts and monitors regulatory change tasks and action tasks.**Note:** A group titled as **RCM Managers** is added under **Groups** in the **User Administration** panel under the Regulatory Change Management application. The RCM Managers group reviews the regulatory tasks workflow, ensuring regulatory compliance. The users who belong to this group must have the sn\_grc\_reg\_change.manager role.
 
 </td><td>
 
@@ -116,9 +116,3 @@ Provides Now Assist Panel rights to the user.GenAI roles must be combined with t
 </td></tr></tbody>
 </table>**Parent Topic:**[Regulatory Change Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/rcm-reference.md)
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[reg-change-task|Regulatory change tasks]]
-- [[Administration|Administration]]

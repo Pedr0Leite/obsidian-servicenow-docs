@@ -26,7 +26,7 @@ Role required: admin
 
     For more information, see [Create a reservation in Microsoft Outlook add-in](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/outlook-create-rsv.md).
 
-2.  Select the **Actions** tab from the Reservation Summary page to edit the location, date, time, and [[workplace-services|workplace services]] within your reservation.
+2.  Select the **Actions** tab from the Reservation Summary page to edit the location, date, time, and workplace services within your reservation.
 
     \[Omitted image "draft-state-of-reservation-rsv-summary-page.png"\] Alt text: After submitting a reservation, the Reservation Summary page displays the reservation in Draft state.
 
@@ -58,11 +58,8 @@ Role required: admin
 
 7.  Review the Reservation Summary page for the updated reservation details.
 
-8.  Navigate to **All** &gt; **[[workplace-rsv-mgmt-feat|Workplace Reservation Management]]** &gt; **All Reservations**.
+8.  Navigate to **All** &gt; **Workplace Reservation Management** &gt; **All Reservations**.
 
     Select your reservation to review the details on Workplace Reservation Management.
 
-## Related
 
-- [[workplace-services|Workplace Services]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]

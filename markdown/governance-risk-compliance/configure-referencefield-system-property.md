@@ -12,7 +12,7 @@ breadcrumb: [Setup by system administrators, Configure, Business Continuity Mana
 
 # Update number of records for reference fields
 
-Update the number of the records that are displayed for a reference field in the [[business-continuity-mangmt-overview|Business Continuity Management]] \(BCM\) Workspace. You can configure the **referenceFieldLoadLimit** system property to control the number of the records that are displayed for each reference field on the grid configuration pages.
+Update the number of the records that are displayed for a reference field in the Business Continuity Management \(BCM\) Workspace. You can configure the **referenceFieldLoadLimit** system property to control the number of the records that are displayed for each reference field on the grid configuration pages.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 You can configure the **referenceFieldLoadLimit** system property for the reference fields on these tabs:
 
--   **RTO Impact Assessment** tab, **RPO Impact Assessment** tab, and **Dependency Assessment** tab in a [[bia-uib|Business Impact Analysis]]
+-   **RTO Impact Assessment** tab, **RPO Impact Assessment** tab, and **Dependency Assessment** tab in a Business Impact Analysis
 -   **Recovery Tasks** tab in a Plan
 -   **Impacts** tab and **Event Tasks** tab in an Exercise
 
@@ -30,7 +30,7 @@ You can configure the **referenceFieldLoadLimit** system property for the refere
 
 1.  Navigate to **All** &gt; **sys\_declarative\_action\_assignment.list** in the BCM application instance.
 
-    A [[list-view-uib-ws|list view]] of the Action Assignments table is displayed as shown in the example.
+    A list view of the Action Assignments table is displayed as shown in the example.
 
     \[Omitted image "prop-update-action-assignments-table.png"\] Alt text: Action assignments table.
 
@@ -69,11 +69,5 @@ You can configure the **referenceFieldLoadLimit** system property for the refere
     \[Omitted image "prop-update-updated-value-on-the-screen.png"\] Alt text: Sample display of the records.
 
 
-**Parent Topic:**[[set-up-bcm-sys-admin-tasks|Setup by system administrators]]
+**Parent Topic:**[Setup by system administrators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-bcm-sys-admin-tasks.md)
 
-## Related
-
-- [[set-up-bcm-sys-admin-tasks|Setup by system administrators]]
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[bia-uib|Business impact analysis]]
-- [[list-view-uib-ws|List view]]

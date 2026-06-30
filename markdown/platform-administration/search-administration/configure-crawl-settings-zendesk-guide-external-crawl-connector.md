@@ -15,7 +15,7 @@ breadcrumb: [Zendesk Guide external content connector, Configure, External Conte
 
 # Configure crawl settings for a Zendesk Guide external crawl connector
 
-Specify the article locales and attachment file types you want your [[zendesk-guide-external-content-connector|Zendesk Guide external content connector]] to crawl when running content crawls. Define inclusion or exclusion filters for domains to restrict the set of users the crawl retrieves access permissions for when running user permission crawls.
+Specify the article locales and attachment file types you want your Zendesk Guide external content connector to crawl when running content crawls. Define inclusion or exclusion filters for domains to restrict the set of users the crawl retrieves access permissions for when running user permission crawls.
 
 ## Before you begin
 
@@ -35,11 +35,11 @@ Content is only retrieved from the source system if it passes all of your config
 
 **Important:**
 
-By default, each external content connector can index up to one million \(1,000,000\) content items from its source system. When a connector exceeds this limit, it continues to crawl the source system, but only sends content item deletions and updates to [[ia-ai-search|AI Search]] for indexing, ignoring new content items. The connector logs an error message for every 10,000 content items it crawls beyond the indexing limit.
+By default, each external content connector can index up to one million \(1,000,000\) content items from its source system. When a connector exceeds this limit, it continues to crawl the source system, but only sends content item deletions and updates to AI Search for indexing, ignoring new content items. The connector logs an error message for every 10,000 content items it crawls beyond the indexing limit.
 
 When a connector's indexed content item count exceeds 800,000, a warning message appears in the connector's UI to indicate that it's approaching the indexing limit. If the connector reaches the indexing limit, an error message appears in its UI.
 
-[[ext-cont-connectors-landing-page|External content connectors]] that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
+External content connectors that support user permissions crawls can handle permissions for up to five hundred thousand \(500,000\) users and their groups. If a connector retrieves users in excess of this limit, user and group permissions may not be correctly applied to the connector's retrieved content. As a result, the content may not be searchable.
 
 If one of your connectors reaches the content indexing limit, you can update its crawl settings and file inclusion/exclusion filters to reduce the number of content items it retrieves. Alternatively, if you need a connector to index more than 1,000,000 content items, you can create a Customer Service and Support case at [https://support.servicenow.com/now](https://support.servicenow.com/now) to request a limit increase for the connector.
 
@@ -103,8 +103,3 @@ To retrieve content from your Zendesk Guide source system using your modified cr
 
 **Parent Topic:**[Zendesk Guide external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/zendesk-guide-external-content-connector.md)
 
-## Related
-
-- [[zendesk-guide-external-content-connector|Zendesk Guide external content connector]]
-- [[ia-ai-search|AI Search]]
-- [[ext-cont-connectors-landing-page|External Content Connectors]]

@@ -30,7 +30,7 @@ GoDaddy – Certificate Management pattern
 
 </td><td>
 
-Part of the [[cert-inventory-mgmt|Certificate Inventory and Management]] application. Allows you to import and scan for certificates from your certificate authority \(CA\) GoDaddy.
+Part of the Certificate Inventory and Management application. Allows you to import and scan for certificates from your certificate authority \(CA\) GoDaddy.
 
 </td></tr><tr><td>
 
@@ -70,7 +70,7 @@ Allows you to discover certificates by importing certificates from files. [Run C
 
  Certificate Inventory and Management, at least 3.4.0.
 
- [[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns, at least 1.12.0.
+ Discovery and Service Mapping Patterns, at least 1.12.0.
 
 </td><td>
 
@@ -120,8 +120,3 @@ Discovery uses the **Collect Certificates** extension section of the **Linux Ser
 
 **Parent Topic:**[Certificate Inventory and Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/cert-invt-mgmt-references.md)
 
-## Related
-
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

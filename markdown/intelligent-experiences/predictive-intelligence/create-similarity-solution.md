@@ -32,7 +32,7 @@ For information on using encrypted training data, see [Data Encryption in Predic
 
 In this example procedure, you're working on Incident records and you want to locate relevant Knowledge Base articles that could provide resolutions to those incidents.
 
-\[Omitted image "predictiveintel\_similaritysolution\_newW.png"\] Alt text: Form view of a new [[predictive-intelligence-landing|Predictive Intelligence]] similarity solution definition
+\[Omitted image "predictiveintel\_similaritysolution\_newW.png"\] Alt text: Form view of a new Predictive Intelligence similarity solution definition
 
 ## Procedure
 
@@ -132,7 +132,7 @@ Processing Language
 
 </td><td>
 
-Select the dominant language of the dataset you're training on. Also, English processing is applied to all [[ai-datasets|datasets]] by default. For example, if you select Italian, the system processes the data in both Italian and English.**Note:** The term processing indicates some of the language-specific steps used as part of training a solution, such as tokenizing words, removing stop words, and stemming.
+Select the dominant language of the dataset you're training on. Also, English processing is applied to all datasets by default. For example, if you select Italian, the system processes the data in both Italian and English.**Note:** The term processing indicates some of the language-specific steps used as part of training a solution, such as tokenizing words, removing stop words, and stemming.
 
 </td></tr><tr><td>
 
@@ -183,7 +183,3 @@ However, for KB Knowledge article records, which are typically not created often
 
 Review the similarity examples on the Related Links section of your Solution form. See [Review solution similarity examples](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/predictive-intelligence/review-similarity-examples.md).
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[ai-datasets|Datasets]]

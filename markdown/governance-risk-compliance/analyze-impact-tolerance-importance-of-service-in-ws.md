@@ -12,11 +12,11 @@ breadcrumb: [Manage, Operational Resilience, Governance, Risk, and Compliance]
 
 # Performing Importance and impact tolerance assessment
 
-By analyzing the importance and the impact tolerance of your business service or service offering, you can measure how possible disruptions might impact the performance of a service. You can use the assessment questionnaire template​ in [[grc-opres-landing-page|Operational Resilience]] Workspace to measure the importance and the impact tolerance of your selected business service and its child records.
+By analyzing the importance and the impact tolerance of your business service or service offering, you can measure how possible disruptions might impact the performance of a service. You can use the assessment questionnaire template​ in Operational Resilience Workspace to measure the importance and the impact tolerance of your selected business service and its child records.
 
 ## Importance and impact tolerance of a business service
 
-A business service's importance is determined by such [[factors|factors]] as the number of customers that use the service, the revenue that the service generates, and its impact on your company's brand. By measuring the impact tolerance of a business service, you can see how long a service can be non-operational without causing some kind of loss to the business and its customers. Previously, we had only one Impact Tolerance that provided a value in terms of Duration. Now, we have four types of Impact Tolerance fields on the form:
+A business service's importance is determined by such factors as the number of customers that use the service, the revenue that the service generates, and its impact on your company's brand. By measuring the impact tolerance of a business service, you can see how long a service can be non-operational without causing some kind of loss to the business and its customers. Previously, we had only one Impact Tolerance that provided a value in terms of Duration. Now, we have four types of Impact Tolerance fields on the form:
 
 -   Impact Tolerance \(Duration\)
 -   Impact Tolerance \(Customer Impact\)
@@ -126,19 +126,12 @@ Select **Close** in the assessment form.
 
 </td><td>
 
-An assessment can be closed only when it is in the **Approved** state. To [[approve-the-assessment-in-ws|close the assessment]], select **Close** in the assessment form. The state of the assessment is updated to **Closed**.
+An assessment can be closed only when it is in the **Approved** state. To close the assessment, select **Close** in the assessment form. The state of the assessment is updated to **Closed**.
 
 </td></tr></tbody>
 </table>**Note:** If you have the sn\_oper\_res.admin role, you can delete the assessment in any state.​
 
-If you have the sn\_oper\_res.admin role, you can set up the assessment ratings by updating the criticality and order of the assessment rating in the Important choices module. For more information on setting up the assessment rating, see [[set-up-important-choices|Update the Important choices module]].
+If you have the sn\_oper\_res.admin role, you can set up the assessment ratings by updating the criticality and order of the assessment rating in the Important choices module. For more information on setting up the assessment rating, see [Update the Important choices module](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/set-up-important-choices.md).
 
-For more information on the Operational Resilience roles, see [[roles-installed-with-op-res|Roles installed with Operational Resilience]].
+For more information on the Operational Resilience roles, see [Roles installed with Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/roles-installed-with-op-res.md).
 
-## Related
-
-- [[set-up-important-choices|Update the Important choices module]]
-- [[roles-installed-with-op-res|Roles installed with Operational Resilience]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[factors|factors]]
-- [[approve-the-assessment-in-ws|Close the assessment]]

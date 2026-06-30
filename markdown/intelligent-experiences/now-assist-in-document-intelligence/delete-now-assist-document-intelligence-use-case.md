@@ -23,11 +23,11 @@ Role required: Admin, DocIntel Admin, DocIntel Manager
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[platform-now-assist-landing|Now Assist]] Admin** &gt; **Skills**.
+1.  Navigate to **All** &gt; **Now Assist Admin** &gt; **Skills**.
 
 2.  In the workflow list, select **Platform**.
 
-3.  In the Platform skills list, find the applicable [[document-intelligence-landing|document intelligence]] skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
+3.  In the Platform skills list, find the applicable document intelligence skill and select **Edit** in the options menu \( \[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
 4.  In the row of the use case you want to delete, select **Delete** in the options menu \(\[Omitted image "icon-docintel-field-options-menu.png"\] Alt text: Field options menu icon\).
 
@@ -43,7 +43,7 @@ The use case along with the related fields, tables, questions, integrations, and
 **Related topics**  
 
 
-[Activate a [[docintel-nowassist-landing|Now Assist in Document Intelligence]] skill]()
+[Activate a Now Assist in Document Intelligence skill]()
 
 [Set up a use case for Now Assist in Document Intelligence]()
 
@@ -57,8 +57,3 @@ The use case along with the related fields, tables, questions, integrations, and
 
 [Deactivate a use case in Now Assist in Document Intelligence]()
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]

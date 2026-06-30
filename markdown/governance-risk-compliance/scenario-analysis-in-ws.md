@@ -13,11 +13,11 @@ breadcrumb: [Scenario analysis, Manage, Operational Resilience, Governance, Risk
 
 # Scenario analysis using simulation
 
-Scenario analysis using simulation is a guided, playbook-driven workflow in the [[grc-opres-landing-page|Operational Resilience]] Workspace. It uses statistical modelling to quantify how critical services perform under adverse-event scenarios. The analysis takes you from scoping a service through to a treatment decision and, optionally, logging operational vulnerabilities and issues.
+Scenario analysis using simulation is a guided, playbook-driven workflow in the Operational Resilience Workspace. It uses statistical modelling to quantify how critical services perform under adverse-event scenarios. The analysis takes you from scoping a service through to a treatment decision and, optionally, logging operational vulnerabilities and issues.
 
 ## Advanced scenario analysis using simulation
 
-Advanced scenario analysis assesses how a critical service performs under adverse conditions using statistical simulation, replacing the legacy free-form and SME-driven flow with an Annual Loss Model that produces quantified financial-risk estimates. Each analysis is scoped to a single service, its dependencies, and one or more scenarios. For the objectives and benefits of running an advanced scenario analysis, see [[scenario-analysis-ov|Scenario analysis]].
+Advanced scenario analysis assesses how a critical service performs under adverse conditions using statistical simulation, replacing the legacy free-form and SME-driven flow with an Annual Loss Model that produces quantified financial-risk estimates. Each analysis is scoped to a single service, its dependencies, and one or more scenarios. For the objectives and benefits of running an advanced scenario analysis, see [Scenario analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-ov.md).
 
 ## How the analysis progresses
 
@@ -25,7 +25,7 @@ You run an advanced scenario analysis through the **Playbook** tab on a scenario
 
 The stages progress in a sequence — Scope \(service and dependencies\), Scenarios, Reference Data, Scenario Testing, Results, Treatment Decision, and the optional Operational Vulnerabilities and Issues.
 
-For full details about the playbook interface, the statistical model profile, and the simulation results, see [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]].
+For full details about the playbook interface, the statistical model profile, and the simulation results, see [Building a scenario analysis using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-playbook-experience.md).
 
 ## Role-based access
 
@@ -41,8 +41,3 @@ The following roles are required to manage scenario analysis in Operational Resi
 
 [Building a scenario analysis using simulation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/scenario-analysis-playbook-experience.md)
 
-## Related
-
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[scenario-analysis-playbook-experience|Building a scenario analysis using simulation]]
-- [[grc-opres-landing-page|Operational Resilience]]

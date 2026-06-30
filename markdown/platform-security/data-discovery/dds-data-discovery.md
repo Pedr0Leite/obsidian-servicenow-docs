@@ -18,15 +18,15 @@ Discover and track sensitive data within a ServiceNow instance
 
 ## Data Discovery Store
 
-Use [[data-discovery-landing|Data Discovery]] to discover sensitive data within your instance. Scan for structured sensitive data such as, credit card numbers, phone numbers, social security numbers \(SSN\), etc. Get started quickly by using out-of-the- box common data patterns or create their own for a more granular experience. For unstructured and often context-based sensitive data such as names, addresses, etc. you can use AI and machine learning to aid with identification
+Use Data Discovery to discover sensitive data within your instance. Scan for structured sensitive data such as, credit card numbers, phone numbers, social security numbers \(SSN\), etc. Get started quickly by using out-of-the- box common data patterns or create their own for a more granular experience. For unstructured and often context-based sensitive data such as names, addresses, etc. you can use AI and machine learning to aid with identification
 
 -   **[Data Discovery Store overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-overview.md)**
 
-    Get an overview of your Data Discovery [[ca-metrics|metrics]], and a starting point for using its tools.
+    Get an overview of your Data Discovery metrics, and a starting point for using its tools.
 
 -   **[Data Discovery policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-policy.md)**
 
-    Review current [[data-discovery-policies|Data Discovery policies]] and configure them.
+    Review current Data Discovery policies and configure them.
 
 -   **[Data Discovery sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-discovery/dds-sources.md)**
 
@@ -36,8 +36,4 @@ Use [[data-discovery-landing|Data Discovery]] to discover sensitive data within 
 
     Schedule and review discovery jobs, including granular column discovery jobs.
 
-## Related
 
-- [[data-discovery-landing|Data Discovery]]
-- [[ca-metrics|Metrics]]
-- [[data-discovery-policies|Data Discovery policies]]

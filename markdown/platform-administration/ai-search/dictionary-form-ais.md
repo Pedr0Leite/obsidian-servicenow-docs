@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Dictionary form
 
-The Dictionary form enables you to create a [[typo-handling-ais|typo handling]], stop word, or synonym dictionary for use in your [[ia-ai-search|AI Search]] search profiles.
+The Dictionary form enables you to create a typo handling, stop word, or synonym dictionary for use in your AI Search search profiles.
 
 For details on creating and modifying dictionaries, see [Modify settings for a typo handling dictionary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/config-typo-handling-dict-ais.md), [Create a stop word dictionary linked to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-stop-word-dict-ais.md), and [Create a synonym dictionary linked to a search profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/create-synonym-dict-ais.md).
 
@@ -123,15 +123,10 @@ Blocked Fields
 Comma-separated list of fields. The dictionary excludes terms found in these fields when deriving typo handling auto-correction terms from indexed source records. This field only displays when editing a typo handling dictionary. You can specify fields using the following formats:
 
 -   **\*** \(asterisk\): Exclude terms found in all fields. This value disables derivation of typo-handling auto-corrections for the dictionary.
--   **fieldname**: Exclude terms found in the specified AI Search index field, such as **title** or **text**. For details on [[index-fields-list-ais|AI Search index fields]], see [AI Search index fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-fields-list-ais.md).
+-   **fieldname**: Exclude terms found in the specified AI Search index field, such as **title** or **text**. For details on AI Search index fields, see [AI Search index fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-fields-list-ais.md).
 -   **tablename.fieldname**: Exclude terms found in the specified field on the specified ServiceNow AI Platform® table.
 -   **tablename.\***: Exclude terms found in all fields in the specified ServiceNow AI Platform table.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[typo-handling-ais|Typo handling]]
-- [[ia-ai-search|AI Search]]
-- [[index-fields-list-ais|AI Search index fields]]

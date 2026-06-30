@@ -16,7 +16,7 @@ Create or modify a normalization field type record to enable a specific field da
 
 ## About this task
 
-To normalize or transform a value in a [[reference-email-admin|reference]] field, apply the processing to the field in the target table.
+To normalize or transform a value in a reference field, apply the processing to the field in the target table.
 
 ## Procedure
 
@@ -38,16 +38,12 @@ To normalize or transform a value in a [[reference-email-admin|reference]] field
 
     The **Transform Categories** related list appears.
 
-7.  If this field type is being used for [[c_FieldTransformations|transforms]], select **Edit** to associate an existing Transform Category with this field type.
+7.  If this field type is being used for transforms, select **Edit** to associate an existing Transform Category with this field type.
 
     **Note:** If you create a custom field type that is used for normalizations only, a link to a transform category is not necessary.
 
-    The relationship of a field type to a category, and the category to a list of transformation [[clone-exclusions-preservers-cleanupscripts|definitions]], is completely configurable.
+    The relationship of a field type to a category, and the category to a list of transformation definitions, is completely configurable.
 
     The String field type is associated with the Text Transform Category, which contains these transform definitions. Any of these associations are configurable.
 
-## Related
 
-- [[reference-email-admin|Reference]]
-- [[c_FieldTransformations|Transforms]]
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

@@ -18,7 +18,7 @@ You must configure punchout for third-party suppliers.
 
 The following configuration is required in SPO to enable punchout:
 
--   Enable suppliers for PunchOut: Ensure that suppliers are enabled for PunchOut. For each punchout [[supplier|supplier]], a supplier record must be created, and the PunchOut checkbox should be selected.
+-   Enable suppliers for PunchOut: Ensure that suppliers are enabled for PunchOut. For each punchout supplier, a supplier record must be created, and the PunchOut checkbox should be selected.
 -   Configure the Third Party Registration table \(sn\_spend\_intg\_third\_party\_registration\): Depending on the type of integration, configure one the following configuration options:
 
     -   cXML PunchOut: If the record is marked for cXML PunchOut support, the cXML PunchOut Setup related list allows you to configure various connection details.
@@ -29,6 +29,3 @@ For more information, see [Configure punchout for third-party site purchases](ht
 
 **Parent Topic:**[Understanding Punchout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/punchout-overview.md)
 
-## Related
-
-- [[supplier|Supplier]]

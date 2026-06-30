@@ -14,7 +14,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Using dashboards in Portfolio Planning
 
-Using the Platform Analytics [[dashboards-portfolio-planning|dashboards in Portfolio Planning Workspace]], you can monitor performance, [[t_SDLCPPSTrackProgress|track progress]], and make informed decisions related to planning and execution.
+Using the Platform Analytics dashboards in Portfolio Planning Workspace, you can monitor performance, track progress, and make informed decisions related to planning and execution.
 
 ## Roles required for managing dashboards
 
@@ -70,7 +70,7 @@ sn\_align\_core.apw\_user**Note:** You can edit dashboards that you own or those
 </td></tr></tbody>
 </table>**Note:** You can create widgets in dashboards by configuring any available data source table in the ServiceNow AI Platform. However, you must have read access to the source tables to view key data, metrics, or visualizations.
 
-For example, if you create a widget in a dashboard configuring the [[cost-plan-breakdown|Cost Plan Breakdown]] table to display budget data, the budget summary is visible on the dashboard only if you have read access to the Cost Plan Breakdown table. Similarly, when you share this dashboard with a stakeholder, the stakeholder must also have read access to the Cost Plan Breakdown table to view the budget summary.
+For example, if you create a widget in a dashboard configuring the Cost Plan Breakdown table to display budget data, the budget summary is visible on the dashboard only if you have read access to the Cost Plan Breakdown table. Similarly, when you share this dashboard with a stakeholder, the stakeholder must also have read access to the Cost Plan Breakdown table to view the budget summary.
 
 For more information on the required roles to manage Platform Analytics dashboards, see [Platform Analytics dashboard roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/pa-dashboard-roles.md).
 
@@ -83,16 +83,9 @@ In the Platform Analytics experience, you can create shareable dashboards with d
 -   **[Duplicate a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/copy-dashboard-ppw.md)**  
 If the dashboard you want to create is similar to an existing one, duplicating the existing dashboard saves your time. After duplicating the dashboard, you can customize the tabs and widgets as required.
 -   **[Share a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/share-dashboard-ppw.md)**  
-[[share-dashboard-ppw|Share a dashboard]] with stakeholders, planning managers, portfolio managers, or product managers to provide visibility into work progress and foster collaboration. You can grant either view-only rights or both view and edit rights to a shared dashboard.
+Share a dashboard with stakeholders, planning managers, portfolio managers, or product managers to provide visibility into work progress and foster collaboration. You can grant either view-only rights or both view and edit rights to a shared dashboard.
 -   **[Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/add-platform-dashboard-to-ppw.md)**  
-If you have existing dashboards created using Platform Analytics, you can add them to the [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace to access them directly from a single location.
+If you have existing dashboards created using Platform Analytics, you can add them to the Portfolio Planning Workspace to access them directly from a single location.
 
 **Parent Topic:**[Portfolio Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/portfolio-planning-app-landing-page.md)
 
-## Related
-
-- [[dashboards-portfolio-planning|Dashboards in Portfolio Planning Workspace]]
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[share-dashboard-ppw|Share a dashboard]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]

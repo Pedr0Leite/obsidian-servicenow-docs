@@ -19,7 +19,7 @@ Configure your voice assistant to be accessible through the voice launcher funct
 Role required: virtual\_agent\_admin or admin
 
 -   You must have a voice assistant created in Assistant Designer
--   Mobile app voice launcher function must be configured using [[platform-now-assist-landing|Now Assist]] for Mobile before you can assign it to an assistant. See [Configure Mobile AI Voice Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-ai-voice-agent.md) for more information.
+-   Mobile app voice launcher function must be configured using Now Assist for Mobile before you can assign it to an assistant. See [Configure Mobile AI Voice Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobile-ai-voice-agent.md) for more information.
 
 ## Procedure
 
@@ -41,6 +41,4 @@ Role required: virtual\_agent\_admin or admin
 
 7.  Select **Save** to save the configuration.
 
-## Related
 
-- [[platform-now-assist-landing|Now Assist]]

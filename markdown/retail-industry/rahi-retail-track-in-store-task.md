@@ -20,11 +20,11 @@ Role required: sn\_rtl\_instore\_ops.manager
 
 ## Procedure
 
-1.  In **CSM/FSM Configurable Workspace**, navigate to **[[rahi-retail-operations-overview|Retail]] cases**.
+1.  In **CSM/FSM Configurable Workspace**, navigate to **Retail cases**.
 
 2.  Select **All**.
 
-3.  Select an [[rahi-retail-retail-in-store-operations|In-store operations case]] to monitor.
+3.  Select an In-store operations case to monitor.
 
 4.  Navigate to the **Tasks** related list.
 
@@ -33,10 +33,5 @@ Role required: sn\_rtl\_instore\_ops.manager
 6.  Select a task to open the **Details** view and take action as needed.
 
 
-**Parent Topic:**[[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
+**Parent Topic:**[Track In-store operations cases and tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-in-store-ops-track.md)
 
-## Related
-
-- [[rahi-retail-in-store-ops-track|Track In-store operations cases and tasks]]
-- [[rahi-retail-operations-overview|Retail]]
-- [[rahi-retail-retail-in-store-operations|In-store operations case]]

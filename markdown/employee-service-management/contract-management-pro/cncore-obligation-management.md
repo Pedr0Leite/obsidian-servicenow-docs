@@ -15,9 +15,9 @@ breadcrumb: [Use, Contract Management Pro, Legal and Contract Operations, Employ
 
 # Obligation Management
 
-Obligation Management in [[cncore-cmpro-landing-page|Contract Management Pro]] enables you to track and fulfill the responsibilities specified in a contract.
+Obligation Management in Contract Management Pro enables you to track and fulfill the responsibilities specified in a contract.
 
-With Obligation Management, a contract manager can [[cncore-create-obligations|create obligation records]] to define specific instructions and obligation task types required to fulfill the contract obligation. Obligation tasks are created to track and complete the activities specified in a contract, such as submitting an IT asset invoice every month.
+With Obligation Management, a contract manager can create obligation records to define specific instructions and obligation task types required to fulfill the contract obligation. Obligation tasks are created to track and complete the activities specified in a contract, such as submitting an IT asset invoice every month.
 
 An obligation record may have two types of obligation tasks:
 
@@ -60,7 +60,3 @@ As an obligation fulfiller, review obligation tasks in Obligation Management tha
 
 **Parent Topic:**[Using Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-use-cmpro.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-create-obligations|Create obligation records]]

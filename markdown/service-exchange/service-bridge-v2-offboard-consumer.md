@@ -22,7 +22,7 @@ Role required: admin, sn\_sb.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Consumers**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Consumers**.
 
 2.  Select the **Number** column to open the consumer connection record.
 
@@ -68,9 +68,5 @@ The following tables are deleted:
     -   sn\_sb\_pro\_provider\_task
     -   sn\_sb\_pro\_remote\_task
 
-**Parent Topic:**[[service-bridge-v2-onboarding|Register a Service Exchange consumer]]
+**Parent Topic:**[Register a Service Exchange consumer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-onboarding.md)
 
-## Related
-
-- [[service-bridge-v2-onboarding|Register a Service Exchange consumer]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

@@ -12,7 +12,7 @@ breadcrumb: [Stats Tools, System Diagnostics, Maintain and monitor, Administer t
 
 # Slow mutex locks record detail
 
-Administrators can use slow mutex logs to gain insight into how mutex locks are affecting [[platform-performance-landing|platform performance]].
+Administrators can use slow mutex logs to gain insight into how mutex locks are affecting platform performance.
 
 <table id="simpletable_uy5_zlw_yp"><thead><tr><th>
 
@@ -144,7 +144,3 @@ The Mutex Execution Time Trend graphs show the total execution time of these mut
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[platform-performance-landing|Platform performance]]

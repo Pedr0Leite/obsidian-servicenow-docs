@@ -22,7 +22,7 @@ From Analyst workbench, you can access visualized process workflow data and tool
 
 To access Analyst workbench:
 
-1.  Navigate to **Workspaces** &gt; **[[analyst-workbench-overview|Process Mining Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Process Mining Workspace**.
 2.  Open a project, and navigate to Analyst workbench.
 
 \[Omitted image "explore-analyst-workbench2.png"\] Alt text: Analyst workbench view
@@ -134,7 +134,7 @@ Select a node or transition line within the map to view additional details about
 
 When you select a transition line, the modal window displays the occurrences, repetitions, and duration for the transition.
 
- From the **Investigate** drop-down, you can also view the relevant records, [[worknotes-analysis|work notes analysis]], run [[cluster-analysis|cluster analysis]], root cause analysis, or apply a transition. These tasks are run using scheduled tasks that run in the background.
+ From the **Investigate** drop-down, you can also view the relevant records, work notes analysis, run cluster analysis, root cause analysis, or apply a transition. These tasks are run using scheduled tasks that run in the background.
 
  For information on each analysis, see the following topics:
 
@@ -218,7 +218,7 @@ You can view the number of idle time cases for the project from the process map.
 
 </td></tr><tr><td>
 
-[[create-task-mining-projects|Create a Task Mining project]].Select a node, then select the **Create project** button in the [[task-mining|Task Mining]] section.
+Create a Task Mining project.Select a node, then select the **Create project** button in the Task Mining section.
 
 For information on creating a Task Mining project, see [Create Task Mining project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/create-task-mining-project.md).
 
@@ -229,15 +229,7 @@ You can access the associated Task Mining projects from the right panel using th
 \[Omitted image "wrkbench-tm.png"\] Alt text: Create a Task Mining project
 
 </td></tr></tbody>
-</table>**Note:** You can reproduce most of the functionality of a process map in a dashboard on a configurable workspace. For more information, see [[configure-po-map|Configure a Process Mining map on a dashboard]].
+</table>**Note:** You can reproduce most of the functionality of a process map in a dashboard on a configurable workspace. For more information, see [Configure a Process Mining map on a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-po-map.md).
 
 **Parent Topic:**[Process details page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/project-view-screen.md)
 
-## Related
-
-- [[configure-po-map|Configure a Process Mining map on a dashboard]]
-- [[analyst-workbench-overview|Process Mining workspace]]
-- [[worknotes-analysis|Work notes analysis]]
-- [[cluster-analysis|Cluster analysis]]
-- [[create-task-mining-projects|Create a Task Mining project]]
-- [[task-mining|Task Mining]]

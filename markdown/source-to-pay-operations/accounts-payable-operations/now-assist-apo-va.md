@@ -15,11 +15,11 @@ breadcrumb: [Using Now Assist for Accounts Payable Operations \(APO\), Now Assis
 
 # Use Now Assist for Accounts Payable Operations \(APO\) in a Virtual Agent chat
 
-Use the conversational interface of [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]] to request contextually relevant generative AI capabilities through a Virtual Agent chat.
+Use the conversational interface of Now Assist for Accounts Payable Operations \(APO\) to request contextually relevant generative AI capabilities through a Virtual Agent chat.
 
 As a fulfiller, you can use the predefined topics \(chatbot conversations\) that are designed to help you complete self-service tasks. You can submit a request, track a request status, or connect to a live agent by using contextual generative AI capabilities.
 
-To start a conversation, navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[supplier-central|Supplier Collaboration Portal]]** and select the Virtual Agent chat icon \(\[Omitted image "open-chat-window-icon.png"\] Alt text: Chat icon.\) as shown in the following example.
+To start a conversation, navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Supplier Collaboration Portal** and select the Virtual Agent chat icon \(\[Omitted image "open-chat-window-icon.png"\] Alt text: Chat icon.\) as shown in the following example.
 
 \[Omitted image "now-assist-apo-va-start.png"\] Alt text: Show all my options.
 
@@ -29,7 +29,7 @@ Then, see all your available options by selecting **Show all my options** as sho
 
 ## Using a predefined topic to submit a request
 
-As a fulfiller, you can submit a request by selecting **Show all my options** &gt; **Submit a request** \(general\) or choose to [[create-invoice|create invoice]] inquiry \( APO specific\). You could also directly start entering the instructions.
+As a fulfiller, you can submit a request by selecting **Show all my options** &gt; **Submit a request** \(general\) or choose to create invoice inquiry \( APO specific\). You could also directly start entering the instructions.
 
 \[Omitted image "apo-topic-block-nava.png"\] Alt text: Topic block in NAVA shows Invoice inquiry
 
@@ -61,9 +61,3 @@ For detailed information on Now Assist in Virtual Agent in general, and Now Assi
 
 For information on configuring Now Assist for APO, see [Configure Now Assist for Accounts Payable Operations \(APO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/configuring-now-assist-apo.md).
 
-## Related
-
-- [[now-assist-apo|Now Assist for Accounts Payable Operations \(APO\)]]
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[supplier-central|Supplier Collaboration Portal]]
-- [[create-invoice|create invoice]]

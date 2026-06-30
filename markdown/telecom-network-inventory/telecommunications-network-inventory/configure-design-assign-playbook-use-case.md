@@ -14,11 +14,11 @@ breadcrumb: [Configure Design and Assign function, Configure, Telecommunications
 
 # Configure a Design and Assign function example
 
-This example demonstrates how you can create and configure a playbook to [[telecommunications-circuit-design-resource-assignment|design and assign]] a network service in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+This example demonstrates how you can create and configure a playbook to design and assign a network service in the Telecommunications Network Inventory application.
 
 ## Example overview
 
-Consider you have an order requests from a customer to fulfill a network service that must create Optical Network Terminals \(ONT\) for a specified location. To design and assign this network service, you must capture the ONT details such as an ONT site and equipment template details. By creating and configuring a playbook for the [[using-playbooks-design-assign-inventory-record|Design and Assign function]], you can automate these tasks by following step-by-step guidance for designing the network service.
+Consider you have an order requests from a customer to fulfill a network service that must create Optical Network Terminals \(ONT\) for a specified location. To design and assign this network service, you must capture the ONT details such as an ONT site and equipment template details. By creating and configuring a playbook for the Design and Assign function, you can automate these tasks by following step-by-step guidance for designing the network service.
 
 As a playbook admin, you create and configure the playbook to design and assign your inventory for the network service. The playbook contains the following activities to create the ONT device.
 
@@ -380,7 +380,7 @@ You add the sys\_id of the Network Service Automated Flow Change model in the `s
 
 As an agent, you use the playbook for the Design and Assign function to fulfill the requirement of the network service by following the steps.
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 2.  Select the design and assign icon \(\[Omitted image "icon-design-assign.png"\] Alt text: Design and Assign Icon\) to open the Design and Assign home page.
 3.  On the Design Assign home page, select **New** &gt; **Network Service Automated Flow**.
 4.  Complete the activities on the playbook to design and assign your network service.
@@ -398,9 +398,3 @@ The following example is the Design and Assign function that you created.
 
 [Configuring Design and Assign function for your network services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configure-playbooks-design-assign-function.md)
 
-## Related
-
-- [[telecommunications-circuit-design-resource-assignment|Design and assign]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

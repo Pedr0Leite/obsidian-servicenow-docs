@@ -28,7 +28,7 @@ The KPI Composer project UI provides you with a sequence of four tabs, each corr
 
 -   **Data Definition**
 
-    In this phase, you provide technical specifications for [[c_Indicators|Performance Analytics Indicators]] that match the KPIs that you defined during Analysis. You can link the KPIs to appropriate Performance Analytics indicators that already exist or that you create later.
+    In this phase, you provide technical specifications for Performance Analytics Indicators that match the KPIs that you defined during Analysis. You can link the KPIs to appropriate Performance Analytics indicators that already exist or that you create later.
 
 -   **Review**
 
@@ -36,7 +36,7 @@ The KPI Composer project UI provides you with a sequence of four tabs, each corr
 
 
 1.  [Create a KPI Composer project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/create-kpi-composer-project.md)  
-As the first step in using KPI Composer, [[create-project|create a project]].
+As the first step in using KPI Composer, create a project.
 2.  [Define properties for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/define-properties-project.md)  
 In the Project Properties, you can associate knowledge articles, owners, and contact persons with the project.
 3.  [Add personas to a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/add-personas-project.md)  
@@ -46,7 +46,7 @@ Each project can have a set of breakdown definitions that you can use to group t
 5.  [Write journal entries for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/write-journal-entries-kpi-composer.md)  
 Keep track of your KPI Composer project with journal entries
 6.  [Share a KPI Composer project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/share-a-kpi-composer-project.md)  
-You can [[share-a-kpi-composer-project|share a KPI Composer project]] that you own or that you are responsible for. You can provide the user with either read-write or read-only access.
+You can share a KPI Composer project that you own or that you are responsible for. You can provide the user with either read-write or read-only access.
 7.  [Export a KPI Composer project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/export-kpi-composer-project.md)  
 To copy a KPI Composer project between instances, first export the project as a JSON file.
 8.  [Import a KPI Composer project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/import-kpi-composer-project.md)  
@@ -54,8 +54,3 @@ If you have an exported KPI Composer project, you can import it to your instance
 
 **Parent Topic:**[Design your Performance Analytics solution with KPI Composer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/designing-pa-solution.md)
 
-## Related
-
-- [[c_Indicators|Performance Analytics indicators]]
-- [[create-project|Create a project]]
-- [[share-a-kpi-composer-project|Share a KPI Composer project]]

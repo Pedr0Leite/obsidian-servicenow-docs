@@ -12,33 +12,33 @@ breadcrumb: [Threat Intelligence integrations, Threat Intelligence, Enterprise s
 
 # WhoisXML API integration
 
-The WhoisXML API integration enables you to submit Whois lookups on domain names and URLs to obtain context on URL [[c_Observables|observables]], and to make better determination on threats.
+The WhoisXML API integration enables you to submit Whois lookups on domain names and URLs to obtain context on URL observables, and to make better determination on threats.
 
 <table id="simpletable_g33_wwg_vt" class="simpletableBody"><tbody><tr><td>
 
-[[threat-intelligence-security-center-overview|Explore]]
+Explore
 
- [[threat-intelligence-integrations|Threat Intelligence integrations]]
+ [Threat Intelligence integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-integrations.md)
 
 </td><td>
 
 Set up
 
- -   [[whois-integration-setup|WhoisXML API integration setup]]
--   [[activate-whois|Activate and configure the Security Operations Whois integration]]
+ -   [WhoisXML API integration setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/whois-integration-setup.md)
+-   [Activate and configure the Security Operations Whois integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/activate-whois.md)
 
 </td></tr><tr><td>
 
 Use
 
- [[threat-orch-wfs-and-activities|Threat Intelligence - Run IoC Lookup workflow]]
+ [Threat Intelligence - Run IoC Lookup workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-orch-wfs-and-activities.md)
 
 </td><td>
 
 Develop
 
- -   [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
--   [[c_BestPractisesIntegrations|Tips for writing integrations]]
+ -   [ServiceNow Security Operations integration development guidelines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationWritingGuidelines.md)
+-   [Tips for writing integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_BestPractisesIntegrations.md)
 -   [Developer training](https://developer.servicenow.com/app.do#!/training/landing)
 -   [Developer documentation](https://developer.servicenow.com/app.do#!/documentation)
 -   [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md)
@@ -47,7 +47,7 @@ Develop
 
 Troubleshoot and get help
 
- -   [[c_IntegrationTroubleshooting|Integration troubleshooting]]
+ -   [Integration troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/c_IntegrationTroubleshooting.md)
 -   [Ask or answer questions in the Security Operations community](https://community.servicenow.com/community/security-operations)
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
@@ -58,15 +58,3 @@ Troubleshoot and get help
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[threat-intelligence-integrations|Threat Intelligence integrations]]
-- [[whois-integration-setup|WhoisXML API integration setup]]
-- [[activate-whois|Activate and configure the Security Operations Whois integration]]
-- [[threat-orch-wfs-and-activities|Threat Intelligence Orchestration workflows and activities]]
-- [[c_IntegrationWritingGuidelines|ServiceNow Security Operations integration development guidelines]]
-- [[c_BestPractisesIntegrations|Tips for writing integrations]]
-- [[c_IntegrationTroubleshooting|Integration troubleshooting]]
-- [[c_Observables|Observables]]
-- [[threat-intelligence-security-center-overview|Explore]]

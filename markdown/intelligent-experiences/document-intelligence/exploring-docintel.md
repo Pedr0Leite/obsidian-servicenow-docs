@@ -14,7 +14,7 @@ breadcrumb: [Document Intelligence, Enable AI experiences]
 
 # Exploring Document Intelligence
 
-[[document-intelligence-landing|Document Intelligence]] helps you to quickly and accurately classify and extract information from documents using artificial intelligence \(AI\).
+Document Intelligence helps you to quickly and accurately classify and extract information from documents using artificial intelligence \(AI\).
 
 **Important:**
 
@@ -22,7 +22,7 @@ This product has been deprecated and replaced by [Now Assist in Document Intelli
 
 ## Document Intelligence overview
 
-Document Intelligence uses optical character recognition \(OCR\) together with [[ai-models|AI models]] to detect and extract information from documents with various structures and formatting. This enables you to accurately extract information and automate document processing.
+Document Intelligence uses optical character recognition \(OCR\) together with AI models to detect and extract information from documents with various structures and formatting. This enables you to accurately extract information and automate document processing.
 
 ## Document Intelligence workflow
 
@@ -41,7 +41,7 @@ In this workflow:
 
 ## Document Intelligence benefits
 
-\[Omitted image "doc-intel-benefits.png"\] Alt text: Diagram showing the phased approach to automation [[doc-intel-using|using Document Intelligence]].
+\[Omitted image "doc-intel-benefits.png"\] Alt text: Diagram showing the phased approach to automation using Document Intelligence.
 
 Document Intelligence provides the following benefits.
 
@@ -143,9 +143,3 @@ Accelerate classification of single and multi-page documents.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[ai-models|AI models]]
-- [[doc-intel-using|Using Document Intelligence]]

@@ -18,9 +18,9 @@ The GRC: Workbench utilizes CMDB information to show the upstream and downstream
 
 The GRC Manager \[sn\_grc.manager\] uses the GRC Workbench to:
 
--   Create [[entity-class-in-risk-ws|entity classes]].
+-   Create entity classes.
 -   Define the upstream/downstream relationships between entity classes. These relationships make up the dependency model and ensure that risks are defined and evaluated consistently across the enterprise.
--   Create [[entity-type-in-risk-ws|entity types]], create entities, and classify entities
+-   Create entity types, create entities, and classify entities
 
 **Note:** The GRC Manager cannot view the GRC: Workbench from **Risk** &gt; **GRC Workbench**. The GRC Manager \[sn\_grc.manager\] enters `/$grc_workbench.do` after their instance name in the url to access the GRC: Workbench.
 
@@ -53,7 +53,7 @@ The Risk Dependencies tab contains links to perform the following tasks.
 -   **[Activate GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/activate-grc-workbench.md)**  
 The GRC: Workbench plugin is not activated by default, it is available as a separate subscription within the GRC Suite.
 -   **[Create entity class using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-profile-class-using-grc-workbench.md)**  
-GRC managers create entity classes representing the types of things that are part of the dependency model. Reports can be filtered to define relationships between the different enity classes. An [[entity-class|entity class]] defines what a entity actually is.
+GRC managers create entity classes representing the types of things that are part of the dependency model. Reports can be filtered to define relationships between the different enity classes. An entity class defines what a entity actually is.
 -   **[Create relationships between entity classes using the GRC: Workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/create-relationships-between-profile-classes.md)**  
 Managers create relationships between entity classes using the GRC: Workbench to build out the dependency map and better understand how entities relate to one another.
 -   **[Associate a risk framework or risk statement with an entity type to generate risks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/t_GenerateRiskFromFramework.md)**  
@@ -73,8 +73,3 @@ When deleting risk dependencies, only the relationship between the risks is dele
 
 **Parent Topic:**[Using Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-mgmt.md)
 
-## Related
-
-- [[entity-class-in-risk-ws|Entity classes]]
-- [[entity-type-in-risk-ws|Entity types]]
-- [[entity-class|entity class]]

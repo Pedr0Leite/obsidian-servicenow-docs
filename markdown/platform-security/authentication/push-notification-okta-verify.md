@@ -15,9 +15,9 @@ breadcrumb: [Configure authentication factors for AI voice agents, Authenticatio
 
 # Push notification - Okta Verify
 
-The **Okta Verify** app push notification enables [[users|users]] to securely approve [[c_Authentication|authentication]] requests directly on their enrolled mobile devices.
+The **Okta Verify** app push notification enables users to securely approve authentication requests directly on their enrolled mobile devices.
 
-During authentication, users receive a push notification via the **Okta Verify** app, enabling them to review [[c_requestAPI|request]] details and approve access without manually entering a verification code.
+During authentication, users receive a push notification via the **Okta Verify** app, enabling them to review request details and approve access without manually entering a verification code.
 
 ## Use case
 
@@ -39,11 +39,5 @@ While **Okta Verify** push notification is a secure and convenient authenticatio
 -   Device Security: Registered devices must be protected with screen locks or biometric safeguards to help prevent unauthorized access.
 -   Device Re-enrollment: If a device is replaced or reset, users must re-enroll to maintain uninterrupted authentication.
 
-**Okta Verify** push notification enhances organizational security while providing a convenient authentication experience. For detailed [[sc-configuration|configuration]] instructions, see [Configure push notification \(Okta Verify\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-okta-verify-push-notification.md).
+**Okta Verify** push notification enhances organizational security while providing a convenient authentication experience. For detailed configuration instructions, see [Configure push notification \(Okta Verify\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configure-okta-verify-push-notification.md).
 
-## Related
-
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]

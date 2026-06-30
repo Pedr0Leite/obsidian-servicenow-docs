@@ -13,18 +13,14 @@ breadcrumb: [Health and Status Dashboard, Code Signing, Platform Security]
 
 # Utilities Dashboard
 
-The Utilities dashboard provides a unified workspace to monitor signature status, detect [[sc-configuration|configuration]] issues and maintain the overall health of your [[code-signing-landing|Code Signing]] environment. It consolidates common Code Signing administrative tasks into a single interface, eliminating the need to navigate across multiple areas of the instance.
+The Utilities dashboard provides a unified workspace to monitor signature status, detect configuration issues and maintain the overall health of your Code Signing environment. It consolidates common Code Signing administrative tasks into a single interface, eliminating the need to navigate across multiple areas of the instance.
 
 You can find detailed explanations on each dashboard tile in these sections.
 
 ## Maintenance Tasks
 
--   **[[batch-signature-generator|Generate batch signatures]]**
+-   **[Generate batch signatures](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/batch-signature-generator.md)**
 
     You can use this utility to convert a CSV of records with missing or invalid signatures into optimized batches and produce update sets for import to a protected instance.
 
-## Related
 
-- [[batch-signature-generator|Generate batch signatures]]
-- [[sc-configuration|Configuration]]
-- [[code-signing-landing|Code Signing]]

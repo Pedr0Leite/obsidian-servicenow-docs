@@ -40,7 +40,7 @@ The ServiceNow® Problem Management application helps you identify the cause of 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[problem-mgmt-properties|Problem Management properties]] and various form fields.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about Problem Management properties and various form fields.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/problem-management/reference-section-for-problem-management.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -49,6 +49,3 @@ The ServiceNow® Problem Management application helps you identify the cause of 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[problem-mgmt-properties|Problem management properties]]

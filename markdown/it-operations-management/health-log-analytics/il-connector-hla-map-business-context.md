@@ -15,7 +15,7 @@ breadcrumb: [Mapping logs for contextual alerts, Set up integrations from Integr
 
 # Map logs to service instances, components, and source types for contextual alerts in Health Log Analytics
 
-Map your logs to service instances, components, and source types so that [[hla-landing-page|Health Log Analytics]] \(HLA\) can generate contextual alerts.
+Map your logs to service instances, components, and source types so that Health Log Analytics \(HLA\) can generate contextual alerts.
 
 ## Before you begin
 
@@ -35,9 +35,9 @@ AI suggests the optimal log field for mapping to service instances and component
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
-2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: [[itom-aiops-conf-center|ITOM AIOps configuration center]] icon.
+2.  From the bottom of the navigation pane, select the AIOps configuration center icon \[Omitted image "icon-itom-aiops-config.png"\] Alt text: ITOM AIOps configuration center icon.
 
     The ITOM AIOps configuration center page appears. The configuration center is a centralized workspace. Use it to configure and manage AIOps features from a single place.
 
@@ -102,8 +102,3 @@ AI suggests the optimal log field for mapping to service instances and component
 
 **Parent Topic:**[Set up Health Log Analytics on your ServiceNow instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-implement.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]
-- [[workspace-dashboard-use|Service Operations Workspace]]
-- [[itom-aiops-conf-center|ITOM AIOps configuration center]]

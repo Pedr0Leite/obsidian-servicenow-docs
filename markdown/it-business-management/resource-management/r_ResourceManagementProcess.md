@@ -16,9 +16,9 @@ breadcrumb: [Resource Management classic, Project Portfolio Management, Strategi
 
 The resource plan is the key to understanding how resource management works.
 
-**Important:** [[c_ResourcePlans|Resource plans]] in Resource Management will no longer be available for new customers from future releases.
+**Important:** Resource plans in Resource Management will no longer be available for new customers from future releases.
 
-You're encouraged to work on resource assignments which offers more flexibility [[using-rmw|using Resource Management Workspace]] or [[project-workspace-landing-page|Project Workspace]].
+You're encouraged to work on resource assignments which offers more flexibility using Resource Management Workspace or Project Workspace.
 
 For more information about migrating from resource plans to resource assignments, see [Migration of resource plans, operational resource plans, and cost plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/rsrc-plans-rsrc-asgmnts.md).
 
@@ -41,8 +41,3 @@ After a resource plan is submitted, a resource manager reviews the plan, confirm
 
 **Parent Topic:**[Resource Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/resource-management/c_ResourceManagement.md)
 
-## Related
-
-- [[c_ResourcePlans|Resource plans]]
-- [[using-rmw|Using Resource Management Workspace]]
-- [[project-workspace-landing-page|Project Workspace]]

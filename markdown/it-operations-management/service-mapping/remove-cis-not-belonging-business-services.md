@@ -14,7 +14,7 @@ breadcrumb: [Fine-tune application services to implement owner requests, Applica
 
 # Remove CIs not belonging to application services
 
-Remove CIs erroneously mapped as part of an application service by [[c_ServiceMappingOverview|Service Mapping]]. Unnecessary CIs included in the map can generate irrelevant alerts in [[c_EM|Event Management]]. For example, when creating an application service for a web portal, Service Mapping might automatically discover a connection to unaffiliated external services, such as PayPal.
+Remove CIs erroneously mapped as part of an application service by Service Mapping. Unnecessary CIs included in the map can generate irrelevant alerts in Event Management. For example, when creating an application service for a web portal, Service Mapping might automatically discover a connection to unaffiliated external services, such as PayPal.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Removing CIs from the map also removes all their connections. For example, if yo
 
 Depending on why Service Mapping mapped an unwanted CI, you can remove it by the following methods:
 
--   Add mapping boundaries to remove the unnecessary CIs. A boundary makes Service Mapping stop [[r-discovery|discovery]] from this point and not follow outgoing connections. Use this method to remove CIs that Service Mapping discovered using patterns or using traffic-based discovery.
+-   Add mapping boundaries to remove the unnecessary CIs. A boundary makes Service Mapping stop discovery from this point and not follow outgoing connections. Use this method to remove CIs that Service Mapping discovered using patterns or using traffic-based discovery.
 
 -   Tweak traffic-based discovery. Service Mapping can discover and map configuration items \(CIs\) following their traffic-based connections. This method is referred to as traffic-based mapping and complements pattern-based mapping. Service Mapping generates connection suggestions based on traffic-based connections and on Predictive Intelligence analysis of application fingerprints. If the connection suggestions feature is enabled, Service Mapping doesn't automatically add any traffic-based connections to application services, providing suggestions. Review the suggestions and choose which CIs to add or to remove.
 
@@ -106,8 +106,3 @@ Perform the procedure described in [Add or remove CIs for single application ser
 
 [Enable traffic-based discovery for CI types or specific CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/t_CreateATrafficBasedDiscoveryRule.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[c_EM|Event Management]]
-- [[r-discovery|Discovery]]

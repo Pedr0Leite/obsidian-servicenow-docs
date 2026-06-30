@@ -22,7 +22,7 @@ Role required: sn\_hr\_le.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hr-lifecycle-events-landing-page-1|Lifecycle Events]]** &gt; **Lifecycle Events Cases**, and open the lifecycle event case that errored.
+1.  Navigate to **All** &gt; **Lifecycle Events** &gt; **Lifecycle Events Cases**, and open the lifecycle event case that errored.
 
 2.  Identify and fix the error.
 
@@ -34,6 +34,4 @@ Role required: sn\_hr\_le.case\_writer
 
     **Important:** You cannot resume the case if it was in **Closed Complete**, **Closed Incomplete**, or **Cancelled** state.
 
-## Related
 
-- [[hr-lifecycle-events-landing-page-1|Lifecycle Events]]

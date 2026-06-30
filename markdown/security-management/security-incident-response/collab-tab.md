@@ -18,7 +18,7 @@ Track chat and file activities related to resolving major security incidents thr
 
 Activities are coordinated using Microsoft Teams chat and Microsoft SharePoint files and folders and then posted back to the Major Security Incident via integrations.
 
-Once Microsoft Teams and Microsoft SharePoint are integrated with [[major-security-incident-management-landing-page|Major Security Incident Management]], you can use the MSIM Workspace to track collaboration between incident response users and other groups who are contributing to the resolution of a major security incident. Any updates to collaboration folders and files in Microsoft SharePoint are synchronized with the MSIM Workspace File Explorer and also reflected in the Activity stream components.
+Once Microsoft Teams and Microsoft SharePoint are integrated with Major Security Incident Management, you can use the MSIM Workspace to track collaboration between incident response users and other groups who are contributing to the resolution of a major security incident. Any updates to collaboration folders and files in Microsoft SharePoint are synchronized with the MSIM Workspace File Explorer and also reflected in the Activity stream components.
 
 When a security incident is promoted as major security incident:
 
@@ -56,7 +56,7 @@ The File Explorer displays the file system so you can view and interact with fil
 
 Displays the file and folders which are captured at Microsoft SharePoint for a specific security incident. These folders will be automatically created on Microsoft SharePoint for that major security incident. You can use this default created folders to upload any supporting files, if required. You can rename, move, or delete these files and folders as required.
 
-Also, whenever you upload a file to any of the folders, the activity corresponding to those folders will be automatically associated to the File Explorer folders in the Collaboration tab and the activity will be recorded and displayed in the Activity section of the [[msim-workspace|Major Security Incident Management Workspace]].
+Also, whenever you upload a file to any of the folders, the activity corresponding to those folders will be automatically associated to the File Explorer folders in the Collaboration tab and the activity will be recorded and displayed in the Activity section of the Major Security Incident Management Workspace.
 
 **Note:** On the **Collaboration** tab, the incident record is appended to the parent file on the sharepoint with a unique incident number and incident category.
 
@@ -173,7 +173,3 @@ connector application name \(&lt;incident number – category &gt; &lt;folder na
 2.  Select the respective incident activity label check box.
 3.  The labeled activities are color coded and depicted as progress trend graph on the **External Collaboration** section of the workspace.
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[msim-workspace|Major Security Incident Management workspace]]

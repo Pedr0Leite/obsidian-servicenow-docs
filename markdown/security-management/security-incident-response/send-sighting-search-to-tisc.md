@@ -26,8 +26,8 @@ Role required: sn\_si.analyst
 
     **Note:**
 
-    -   You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated [[c_Observables|Observables]]** to perform the push operation.
-    -   On the **Investigation** tab, click **View Associated Info** to view all the associated [[tisc-threat-lookup|threat lookup]], sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/explore-investigation-in-sir-workspace.md).
+    -   You can also navigate to the **Investigation** tab, and navigate to the **Entry Points Lists** section displayed on the left side of the page and select **Associated Observables** to perform the push operation.
+    -   On the **Investigation** tab, click **View Associated Info** to view all the associated threat lookup, sighting search, and enrichment data for the selected observable. For more information, see [Explore Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/explore-investigation-in-sir-workspace.md).
 2.  Select **Sighting Search** &gt; **Sighting Search Results** to perform the push operation and manually push the data into TISC.
 
 3.  Select one or more Sighting Search Results record.
@@ -42,7 +42,7 @@ Role required: sn\_si.analyst
     -   In an automatic mode, the observables will not be pushed if the observable is present, then the threat lookups will be pushed automatically. If the observables are not present, then the threat lookups will not be pushed.
 5.  Select **TISC Context**.
 
-    \[Omitted image "tisc-context-sighting-search.png"\] Alt text: TISC Context - [[indicator-sightings|Sightings]]
+    \[Omitted image "tisc-context-sighting-search.png"\] Alt text: TISC Context - Sightings
 
     **Note:** :
 
@@ -50,13 +50,13 @@ Role required: sn\_si.analyst
     -   **In a manual push operation**: The observable data can only be pushed if they are linked to the security incidents. Once the observable is pushed from SIR then that data can be identified using sources which will have reference to security incident linked to the observable.
     -   **In an automatic push operation**: The observable or enrichment data will be pushed automatically when it is associated to security incident.
     -   **TISC Context** shows all the SIR associated observable which are also present in TISC.
-    -   Using TISC context, the SIR analysts can see all the TISC Enrichment data including Threat Lookups, Sighting Search, and [[tisc-observable-enrichment|Observable Enrichment]] Results.
+    -   Using TISC context, the SIR analysts can see all the TISC Enrichment data including Threat Lookups, Sighting Search, and Observable Enrichment Results.
     -   **View Associated Info** will show all the associated observable enrichment data of the selected observables.
 6.  Once the record is processed, select the record and click **View Associated info**.
 
 7.  View the results.
 
-8.  Click on any sighting search results record to view the record in the form view, which also shows the push or **Ingestion Type** \(automatic or manual\) and **Source** will be [[tisc-landing-page|Threat Intelligence Security Center]].
+8.  Click on any sighting search results record to view the record in the form view, which also shows the push or **Ingestion Type** \(automatic or manual\) and **Source** will be Threat Intelligence Security Center.
 
     \[Omitted image "tisc-context-view-associated-sighting-search.png"\] Alt text: Sighting search - View associated info
 
@@ -78,10 +78,3 @@ Role required: sn\_si.analyst
 
 [Send Observable Enrichment to TISC]()
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

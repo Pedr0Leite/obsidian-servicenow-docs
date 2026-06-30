@@ -29,7 +29,7 @@ Details
 
 </td><td>
 
-Details about the [[purchase-order-exception-table|purchase order exception]].
+Details about the purchase order exception.
 
 </td></tr><tr><td>
 
@@ -37,9 +37,9 @@ Exception intelligence
 
 </td><td>
 
-Graph of planned deliveries for the product model and total quantity for a delivery location that correspond to this exception line item.[[purchase-order-lines|Purchase order lines]] are sorted by the requested delivery date starting from the current date and are grouped by whether the line items have associated exceptions.
+Graph of planned deliveries for the product model and total quantity for a delivery location that correspond to this exception line item.Purchase order lines are sorted by the requested delivery date starting from the current date and are grouped by whether the line items have associated exceptions.
 
-Graph showing the total spend with the [[supplier|supplier]] across the past 12 rolling months, giving buyers a quick view of recent expenditure patterns.
+Graph showing the total spend with the supplier across the past 12 rolling months, giving buyers a quick view of recent expenditure patterns.
 
 </td></tr><tr><td>
 
@@ -47,15 +47,8 @@ Exception tasks
 
 </td><td>
 
-Follow-up actions that are created from this exception. For example, supplier cases, universal requests, exception tasks, [[purchase-order-table|purchase order]] revisions, and approvals.
+Follow-up actions that are created from this exception. For example, supplier cases, universal requests, exception tasks, purchase order revisions, and approvals.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[purch-order-exception-form|Purchase order exception form]]
+</table>**Parent Topic:**[Purchase order exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/purch-order-exception-form.md)
 
-## Related
-
-- [[purch-order-exception-form|Purchase order exception form]]
-- [[purchase-order-exception-table|Purchase Order Exception]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier|Supplier]]
-- [[purchase-order-table|Purchase order]]

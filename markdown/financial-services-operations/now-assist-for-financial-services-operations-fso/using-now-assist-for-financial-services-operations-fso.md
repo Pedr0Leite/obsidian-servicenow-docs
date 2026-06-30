@@ -97,7 +97,7 @@ Provides a customized skill that is configured with a series of related tables f
     -   Recent transactions
     -   Interaction history
     -   Cases
-    The generated customer summary displays in the Customer 360 page as part of [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]].
+    The generated customer summary displays in the Customer 360 page as part of Agentic Contact Center for Banking.
 
     This skill is also used in the Interaction page as a dependency for the customer interaction context summary skill. It assists in generating the summarized context for an interaction.
 
@@ -121,7 +121,7 @@ Provides a customized skill that is configured with a series of related tables f
     -   Customer tenure with the organization
     -   Active insurance policy types
     -   Current policy state, including upcoming renewals and active endorsements
-    The generated customer summary displays in the **Customer summary** section of the Customer 360 page as part of [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]].
+    The generated customer summary displays in the **Customer summary** section of the Customer 360 page as part of Agentic Contact Center for Insurance.
 
     This skill is also used as a dependency for the Insurance interaction context summary skill. It must be activated before the Insurance interaction context summary skill can be configured.
 
@@ -142,7 +142,7 @@ Provides a customized skill that is configured with a series of related tables f
 
     Disputes intake via Virtual Agent enhances the customer experience by performing dispute intake with a chat bot. This can streamline the card dispute submission process for customers, and reduce workloads for live agents.
 
-    The following figure shows the interaction between the Virtual Agent topic, the [[learn-about-the-form-data-collector|form data collector]] application, and Now LLM.
+    The following figure shows the interaction between the Virtual Agent topic, the form data collector application, and Now LLM.
 
     \[Omitted image "disputes-intake-via-va-overview.png"\] Alt text: Interaction flow in Disputes intake via Virtual Agent between the Virtual Agent topic, form data collector application, and Now LLM.
 
@@ -155,7 +155,7 @@ Provides a customized skill that is configured with a series of related tables f
 By default, all skills exist in the global domain. When you use Now Assist in a domain-separated environment, users are only able to access data in their domain. For example, if a user uses the summarization skill, Now Assist only uses material that exists in the user's domain when generating that summary. Additionally, there is no co-mingling of data for domain-separated instances when using generative AI skills. The data resides only on the instance, and the shared services used for generative AI do not persist any requests \(prompts\) and responses. For more information, see [Domain separation in the Now Assist Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/domain-separation-in-the-now-assist-admin-console.md). \(Note that global domain is not the same as global scope. For more information, see [Exploring Next Experience pickers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-pickers.md).\)
 
 -   **[Summarize a dispute or claims case with case summarization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-case-using-now-assist-fso.md)**  
-Generate a summary from the defined fields on the case record and quickly understand the case context by using the case summarization skill in the [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]] application.
+Generate a summary from the defined fields on the case record and quickly understand the case context by using the case summarization skill in the Now Assist for Financial Services Operations \(FSO\) application.
 -   **[Summarize a banking customer profile in the Customer 360 page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-customer-profile-fso.md)**  
 Use the Customer Profile Summarization skill to generate an AI-powered overview of a customer's status and information within the Customer 360 page in Agentic Contact Center for Banking. This feature helps customer service representatives quickly understand a customer's status to provide personalized, real-time support.
 -   **[Summarize banking customer interaction context in the Interaction page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-customer-context-fso.md)**  
@@ -165,16 +165,9 @@ Generate an AI-powered summary of an insurance customer's profile and policy sta
 -   **[Summarize an insurance customer interaction in Agentic Contact Center for Insurance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/summarize-insurance-customer-context.md)**  
 Use the Insurance interaction context summary skill in the Interaction page of Agentic Contact Center for Insurance to generate an AI-powered summary of a customer's insurance context, recent cases, and the reason for their call so that you can provide faster, more informed service during a live interaction.
 -   **[Request generative AI capabilities in Financial Services Operations with Now Assist panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/request-generative-ai-capabilities-in-fso.md)**  
-Request the contextual generative AI capabilities, such as a case summary, in the [[fso-overview|Financial Services]] Operations \(FSO\) application by using the conversational interface in the Now Assist panel.
+Request the contextual generative AI capabilities, such as a case summary, in the Financial Services Operations \(FSO\) application by using the conversational interface in the Now Assist panel.
 -   **[Submit a dispute case with Disputes intake via Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/submit-dispute-case-disputes-intake-via-virtual-agent.md)**  
 Create a new dispute case using the Disputes intake via Virtual Agent skill in the Now Assist for Financial Services Operations \(FSO\) application. Customers can interact with a Virtual Agent chat, which collects and infers details from customer responses.
 
 **Parent Topic:**[Now Assist for Financial Services Operations \(FSO\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/now-assist-for-financial-services-operations-fso/now-assist-for-financial-services-operations.md)
 
-## Related
-
-- [[agentic-contact-center-for-banking-landing|Agentic Contact Center for Banking]]
-- [[landing-agentic-contact-centre-for-insurance|Agentic Contact Center for Insurance]]
-- [[learn-about-the-form-data-collector|Form Data Collector]]
-- [[now-assist-for-financial-services-operations|Now Assist for Financial Services Operations \(FSO\)]]
-- [[fso-overview|Financial Services]]

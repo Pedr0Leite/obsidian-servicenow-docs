@@ -28,7 +28,7 @@ When a Clear event is triggered for an open alert, the corresponding alert is se
 
 ## Procedure
 
-1.  Navigate to **[[c_EM|Event Management]]** &gt; **All Alerts**.
+1.  Navigate to **Event Management** &gt; **All Alerts**.
 
 2.  Select the alert you want to close.
 
@@ -41,6 +41,3 @@ When a Clear event is triggered for an open alert, the corresponding alert is se
 
 **Parent Topic:**[Manage and monitor alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/c_EMAlert.md)
 
-## Related
-
-- [[c_EM|Event Management]]

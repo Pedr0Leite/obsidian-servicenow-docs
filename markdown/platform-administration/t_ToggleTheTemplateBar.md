@@ -12,7 +12,7 @@ breadcrumb: [Form templates, Administer, Form administration, Forms, fields, and
 
 # Toggle the template bar
 
-The [[template-bar|template bar]] appears at the bottom of forms. It provides shortcuts to apply, edit, and create templates.
+The template bar appears at the bottom of forms. It provides shortcuts to apply, edit, and create templates.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ You can toggle the template bar, which hides or shows it for all forms. The temp
 3.  Select **Toggle Template Bar**.
 
 
-**Parent Topic:**[[c_Templates|Using form templates]]
+**Parent Topic:**[Using form templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_Templates.md)
 
 **Related topics**  
 
@@ -52,7 +52,3 @@ You can toggle the template bar, which hides or shows it for all forms. The temp
 
 [Scripted templates]()
 
-## Related
-
-- [[c_Templates|Using form templates]]
-- [[template-bar|Template bar]]

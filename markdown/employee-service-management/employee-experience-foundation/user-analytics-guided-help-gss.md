@@ -14,7 +14,7 @@ breadcrumb: [Guided Self-Service in Employee Center, Setup Employee Center brows
 
 # Guided Self-Service Usage Insights
 
-Visually analyze Guided Self-Service usage, user behavior, and other information from the [[ued-ec|Usage Insights dashboard]].
+Visually analyze Guided Self-Service usage, user behavior, and other information from the Usage Insights dashboard.
 
 You can use the dashboard to view the information about the Guided Self-Service usage, engagement, and adoption.
 
@@ -43,11 +43,11 @@ The dashboard provides the following metrics:
 
 ## User behavior
 
-View and analyze the information available in your dashboard. You can track user behavior and app usage on the [[web-application-employee-about|app launcher]].
+View and analyze the information available in your dashboard. You can track user behavior and app usage on the app launcher.
 
 -   View the Guided Self-Service that employees launch frequently.
--   Track monthly and daily user [[activity-lxp|activity]].
--   View number of user clicks by Guided Self-Service from home page, topic page, and [[emp-center-quick-link-config|quick links]].
+-   Track monthly and daily user activity.
+-   View number of user clicks by Guided Self-Service from home page, topic page, and quick links.
 -   Analyze the trend of user activity periodically.
 -   Assess the user behavior and insights and drive business decisions.
 
@@ -73,9 +73,3 @@ View data such as how many new users you have and how many returned. User retent
 -   Use cohort analysis to identify a month, week, or day retention.
 -   Compare retention analytics across time periods, versions and devices.
 
-## Related
-
-- [[ued-ec|Usage Insights dashboard]]
-- [[web-application-employee-about|App Launcher]]
-- [[activity-lxp|Activity]]
-- [[emp-center-quick-link-config|Quick links]]

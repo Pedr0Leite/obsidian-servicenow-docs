@@ -22,7 +22,7 @@ Roles required: activity\_creator or workflow\_admin
 
 ## About this task
 
-You can create a custom activity that manages files and directories on a target host or copies a file from one SFTP server to another. The file content is streamed through a [[mid-server-landing|MID Server]], which avoids having to store the data on the hard drive of the MID Server host machine.
+You can create a custom activity that manages files and directories on a target host or copies a file from one SFTP server to another. The file content is streamed through a MID Server, which avoids having to store the data on the hard drive of the MID Server host machine.
 
 **Note:** This activity requires the credentials of a user who can execute SFTP commands on the source host. The [Copy File](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_CopyFileActivity.md) activity, provided in the activity pack, requires separate credentials to access the target host.
 
@@ -54,7 +54,7 @@ Type of activity to create. The choices are:-   Copy file
 
 </td><td>
 
-Name or [[ip-address|IP address]] of the server containing the files targeted by the activity.
+Name or IP address of the server containing the files targeted by the activity.
 
 </td></tr><tr><td id="d546770e161">
 
@@ -173,7 +173,7 @@ If a file exists on a target host, this command enables a temporary suffix to us
 
 </td><td>
 
-User ID attribute to apply to a file or directory. The UID and GID values must be set together as a pair or they are ignored. The UID and GID numbers are internal values returned by the [[r_GetFileListActivity|Get File List activity]]. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SFTPWorkflow.md). Field available on following command: Set file attributes
+User ID attribute to apply to a file or directory. The UID and GID values must be set together as a pair or they are ignored. The UID and GID numbers are internal values returned by the Get File List activity. Typically, you first use the Get File List activity to return a list of files and their attributes. Then you can move a file from a source host to a target host and set the source file attributes on the target file. This flow is demonstrated in the [SFTP File Transfer workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_SFTPWorkflow.md). Field available on following command: Set file attributes
 
 </td></tr><tr><td id="d546770e356">
 
@@ -217,7 +217,7 @@ Size of a file, expressed in bytes. Field available on following command: Set fi
 
 </td></tr><tr><td id="d546770e422">
 
-**Required [[mid-server-capabilities|MID Server capabilities]]**
+**Required MID Server capabilities**
 
 </td><td>
 
@@ -229,7 +229,7 @@ MID Server with the appropriate [MID Server capabilities](https://raw.githubuser
     -   If the Source files field is empty, the system selects all the files in the source directory. Otherwise, it only selects those files whose names match one of the file name patterns given in the field.
     -   If the Excluded files field is empty, the system excludes nothing. Otherwise, it excludes those files whose names match one of the file name patterns given in the field.
     -   The exclude rule has a higher preference than the include rule. If a file name matches one of the file name patterns in the Excluded files field, it does not get into the selection regardless of the include rule.
-    -   When the Include subfolders [[check-box|check box]] is cleared, the system looks only in the source directory for files to include or exclude. Otherwise, it looks in the source directory and any of its subfolders for files to include or exclude.
+    -   When the Include subfolders check box is cleared, the system looks only in the source directory for files to include or exclude. Otherwise, it looks in the source directory and any of its subfolders for files to include or exclude.
     **Note:** You can map parameter values in a test payload to variables in the **Outputs** tab automatically. See [automap output variables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/automap-output-variable-inputs.md).
 
 
@@ -459,7 +459,7 @@ String
 
 </td><td>
 
-Temporary file name extension used by the [[r_CopyFileActivity|Copy File activity]] when moving a file. If this field contains an extension, the source file is copied to a temporary file using **target file name + temp\_file\_postfix**, before being renamed to the actual target file. If this field is blank, the source file is copied directly to the target file.
+Temporary file name extension used by the Copy File activity when moving a file. If this field contains an extension, the source file is copied to a temporary file using **target file name + temp\_file\_postfix**, before being renamed to the actual target file. If this field is blank, the source file is copied directly to the target file.
 
 </td></tr><tr><td>
 
@@ -688,7 +688,7 @@ String
 
 </td><td>
 
-Contains the [[reference|Reference]] ID associated with the ECC Queue input message.
+Contains the Reference ID associated with the ECC Queue input message.
 
 </td></tr><tr><td>
 
@@ -1063,12 +1063,4 @@ All
 
 4.  Click **Continue** to advance to the **Outputs** stage.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]
-- [[r_GetFileListActivity|Get File List activity]]
-- [[mid-server-capabilities|MID Server capabilities]]
-- [[check-box|Check box]]
-- [[r_CopyFileActivity|Copy File activity]]
-- [[reference|Reference]]

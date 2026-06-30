@@ -14,7 +14,7 @@ breadcrumb: [Setting up Cloud Account Management in Cloud Workspace, Configuring
 
 # Configure a custom catalog ID in Cloud Account Management account request
 
-Configure the catalog ID used for [[cam-landing|Cloud Account Management]] request to map the custom service catalog and streamline account provisioning.
+Configure the catalog ID used for Cloud Account Management request to map the custom service catalog and streamline account provisioning.
 
 ## Before you begin
 
@@ -40,6 +40,4 @@ The Catalog ID uniquely identifies the Catalog used for Cloud Account Management
 
 5.  Click **Update**.
 
-## Related
 
-- [[cam-landing|Cloud Account Management]]

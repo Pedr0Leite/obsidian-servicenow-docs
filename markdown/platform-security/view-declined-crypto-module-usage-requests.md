@@ -12,7 +12,7 @@ breadcrumb: [Configure script access to encrypted data, Script access for crypto
 
 # View declined cryptographic module usage requests
 
-View cryptographic modules that rejected [[encryption-landing|encryption]] requests made by scripts because of unsupported encryption mechanisms.
+View cryptographic modules that rejected encryption requests made by scripts because of unsupported encryption mechanisms.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ In the following example, a cryptographic purpose was assigned to a cryptographi
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Key Management** &gt; **Module Key [[ca-policies|Policies]]** &gt; **** **Module Key Rejections**.
+1.  Navigate to **All** &gt; **Key Management** &gt; **Module Key Policies** &gt; **** **Module Key Rejections**.
 
     A list of cryptographic modules that rejected requests displays along with the encryption key used in the corresponding script.
 
@@ -34,17 +34,10 @@ In the following example, a cryptographic purpose was assigned to a cryptographi
 
     **Note:** If a different script attempts to use the same cryptographic module using the same key type, the value for **Last enforced** updates. Another row does not generate.
 
-    In this example, at 2020-02-10\_15:55:17, the first module rejected a [[c_requestAPI|request]] because module1's key is compromised. At 2020-02-10\_07:24:05, the second module rejected a request because the second module's key is suspended.
+    In this example, at 2020-02-10\_15:55:17, the first module rejected a request because module1's key is compromised. At 2020-02-10\_07:24:05, the second module rejected a request because the second module's key is suspended.
 
-    To grant scripts permission to use the encryption module the next time they run, [[create-module-access-policy|create a module access policy]] for script encryption. For more information, refer to [[configure-script-encryption|Configure script access to encrypted data]].
+    To grant scripts permission to use the encryption module the next time they run, create a module access policy for script encryption. For more information, refer to [Configure script access to encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-script-encryption.md).
 
 
 **Parent Topic:**[Configure script access to encrypted data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/configure-script-encryption.md)
 
-## Related
-
-- [[configure-script-encryption|Configure script access to encrypted data]]
-- [[encryption-landing|Encryption]]
-- [[ca-policies|Policies]]
-- [[c_requestAPI|request]]
-- [[create-module-access-policy|Create a module access policy]]

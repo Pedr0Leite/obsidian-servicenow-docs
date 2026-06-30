@@ -14,9 +14,5 @@ breadcrumb: [Search Suggestions, Search administration, Configure core features,
 
 # Search Suggestions reference
 
-[[reference-email-admin|Reference]] topics provide additional information about components and domain separation behavior for [[search-suggestions-overview|Search Suggestions]].
+Reference topics provide additional information about components and domain separation behavior for Search Suggestions.
 
-## Related
-
-- [[reference-email-admin|Reference]]
-- [[search-suggestions-overview|Search Suggestions]]

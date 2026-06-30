@@ -26,7 +26,7 @@ When an agent creates a time worked record, a time card and time sheet are autom
 
 ## Procedure
 
-1.  To record time worked from a [[r_CustomerServiceCaseForm|Case form]] or [[csm-case-task-form|Case Task form]].
+1.  To record time worked from a Case form or Case Task form.
 
 <table id="choicetable_wwf_xcz_jjb"><tbody><tr><td id="d118682e90">
 
@@ -82,15 +82,11 @@ Select **Submit**.
 Select **Save**.
 
 </td></tr></tbody>
-</table>    The Time Worked form is saved and added to the following [[migration-lists|lists]]:
+</table>    The Time Worked form is saved and added to the following lists:
 
     -   The **Time Worked** related list on the Case or Case Task form.
     -   The **Time Cards** related list on the current Time Sheet form.
     -   The Time Worked list in the Time Sheets module.
     If this entry is the first time worked entry for the selected category, a time card is created for that category. If a time card for the category already exists, the time worked record is added to that card.
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]
-- [[csm-case-task-form|Case task form]]
-- [[migration-lists|Lists]]

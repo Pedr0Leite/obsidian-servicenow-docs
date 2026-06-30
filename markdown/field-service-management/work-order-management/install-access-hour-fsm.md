@@ -14,7 +14,7 @@ breadcrumb: [Auto-population of access hours, Set up work orders and tasks, Conf
 
 # Activate Field Service Management Access Hours Management
 
-You can activate the [[access-hour-mngmnt-fsm|Field Service Management Access Hours Management]] plugin \(com.snc.fsm\_access\_hours\) for [[fsm-application-landing-page|Field Service Management]] if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
+You can activate the Field Service Management Access Hours Management plugin \(com.snc.fsm\_access\_hours\) for Field Service Management if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they are not already installed.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ You can activate the [[access-hour-mngmnt-fsm|Field Service Management Access Ho
     -   **Required ServiceNow plugins**
         -   **Field Service Management \(com.snc.work\_management\)**
 
-            Enables you to manage work requests that are performed on location by field service agents. For information, see [[t_ActivateFieldServiceManagement|Activate Field Service Management]].
+            Enables you to manage work requests that are performed on location by field service agents. For information, see [Activate Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/t_ActivateFieldServiceManagement.md).
 
 
 Role required: admin.
@@ -46,8 +46,3 @@ Role required: admin.
 
 The Field Service Management Access Hours Management plugin when activated successfully adds the **Access Hours** option to the work order task form.
 
-## Related
-
-- [[t_ActivateFieldServiceManagement|Activate Field Service Management]]
-- [[access-hour-mngmnt-fsm|Field Service Management Access Hours Management]]
-- [[fsm-application-landing-page|Field Service Management]]

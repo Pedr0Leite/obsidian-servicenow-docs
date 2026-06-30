@@ -18,13 +18,10 @@ Empower customers to manage their own information and updates. Enhance convenien
 
 ## Using overview
 
-TUse [[fsm-application-landing-page|Field Service Management]] Customer Experience to send notifications to your customers through email and SMS, such as status of their work order tasks, agent's current location, and provide agent feedback.
+TUse Field Service Management Customer Experience to send notifications to your customers through email and SMS, such as status of their work order tasks, agent's current location, and provide agent feedback.
 
 **Related topics**  
 
 
 [Configuring Field Service Management Customer Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/Configuring-cust-exp.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

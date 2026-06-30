@@ -14,7 +14,7 @@ breadcrumb: [Available on-premise discovery patterns, Discovery patterns used by
 
 # Oracle Solaris LDOM discovery
 
-[[r-discovery|Discovery]] uses the Solaris Logical Domain \(LDOM\) infrastructure pattern and Solaris LDOM shared library pattern to find all LDOM data. Discovering some of these resources may require updating to the latest version of the Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns application from the ServiceNow Store.
+Discovery uses the Solaris Logical Domain \(LDOM\) infrastructure pattern and Solaris LDOM shared library pattern to find all LDOM data. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Discovery uses these patterns to run horizontal discovery. You can use the patterns on the ServiceNow AI Platform using the Australia release or later.
 
@@ -78,7 +78,3 @@ The data discovered by both patterns includes the following tables and fields.
 
 **Parent Topic:**[Available on-premise discovery patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/available-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

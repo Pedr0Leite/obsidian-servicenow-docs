@@ -12,7 +12,7 @@ breadcrumb: [Advanced Approval Management reference, Configure, price, quote, Re
 
 # Approval Configuration form
 
-Field descriptions for the Approval Configuration form in [[explore-advanced-approval-for-sales|Advanced Approval Management]].
+Field descriptions for the Approval Configuration form in Advanced Approval Management.
 
 <table id="table_iqj_lrv_43c"><thead><tr><th>
 
@@ -28,7 +28,7 @@ Name
 
 </td><td>
 
-Name of the configuration for a [[order-mgt-overview|Sales Customer Relationship Management]] entity, for example Quote.
+Name of the configuration for a Sales Customer Relationship Management entity, for example Quote.
 
 </td></tr><tr><td>
 
@@ -36,7 +36,7 @@ Entity table
 
 </td><td>
 
-Sales Customer Relationship Management Entity for the approval configuration. For example, if you're creating an approval configuration for [[quote-management|Quote Management]], select the Quote \[sn\_quote\_mgmt\_core\_quote\] table.
+Sales Customer Relationship Management Entity for the approval configuration. For example, if you're creating an approval configuration for Quote Management, select the Quote \[sn\_quote\_mgmt\_core\_quote\] table.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Allow escalations
 
 </td><td>
 
-Option that turns on escalations for approvals. If you select this option, you must also define escalation details in the appropriate approval [[rules_101|rules]], including the escalation assignee, length of time allowed for approval completion, and associated Service Level Agreement \(SLA\). For information on the escalation details defined in an approval rule, see [[create-approval-rule-form|Create Approval Rule form]].
+Option that turns on escalations for approvals. If you select this option, you must also define escalation details in the appropriate approval rules, including the escalation assignee, length of time allowed for approval completion, and associated Service Level Agreement \(SLA\). For information on the escalation details defined in an approval rule, see [Create Approval Rule form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-rule-form.md).
 
 </td></tr><tr><td>
 
@@ -71,19 +71,10 @@ Reminder schedule
 Option displayed when **Send auto reminders** is enabled. Enter the time \(days, hours, minutes, seconds\) at which approval reminder notifications are sent.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[advanced-approval-management-reference|Advanced Approval Management reference]]
+</table>**Parent Topic:**[Advanced Approval Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/advanced-approval-management-reference.md)
 
 **Related topics**  
 
 
-[[create-approval-configuration|Create an approval configuration]]
+[Create an approval configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-approval-configuration.md)
 
-## Related
-
-- [[create-approval-rule-form|Create Approval Rule form]]
-- [[advanced-approval-management-reference|Advanced Approval Management reference]]
-- [[create-approval-configuration|Create an approval configuration]]
-- [[explore-advanced-approval-for-sales|Advanced Approval Management]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[quote-management|Quote Management]]
-- [[rules_101|Rules]]

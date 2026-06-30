@@ -22,11 +22,11 @@ Role required: admin
 
 ## About this task
 
-The Search Action [[clone-configurations-tab|Configurations]] related list contains all the available Search actions available for the selected Search context. Search actions can be modified and disabled but not deleted.
+The Search Action Configurations related list contains all the available Search actions available for the selected Search context. Search actions can be modified and disabled but not deleted.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Table Configuration**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Table Configuration**.
 
 2.  Edit a table configuration record.
 
@@ -41,8 +41,8 @@ The Search Action [[clone-configurations-tab|Configurations]] related list conta
     The search actions that you can modify are as follows:
 
     -   **Action label**: Label on the action button on the preview window. For example, **This helped** or **Attached To Incident**.
-    -   **Attachment type**: Method to [[t_AttachAnArticle|attach a knowledge article]] with the record. You can embed a link \(recommended\) to the article or embed a copy of the article.
-    -   **Show on new record**: Enables the **Attach** button to appear when you are creating a record. Prior to the London release, the user had to fill out and save the form, then re-expand the related search [[hs-results|results]] to access the **Attach** button.
+    -   **Attachment type**: Method to attach a knowledge article with the record. You can embed a link \(recommended\) to the article or embed a copy of the article.
+    -   **Show on new record**: Enables the **Attach** button to appear when you are creating a record. Prior to the London release, the user had to fill out and save the form, then re-expand the related search results to access the **Attach** button.
 
         **Note:** This option only applies to tables with the Platform UI type. It defaults to **false** to provide a consistent user experience between Platform and Workspace tables.
 
@@ -51,9 +51,3 @@ The Search Action [[clone-configurations-tab|Configurations]] related list conta
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[c_ContextualSearch|Contextual search]]
-- [[t_AttachAnArticle|Attach a Knowledge article]]
-- [[hs-results|Results]]

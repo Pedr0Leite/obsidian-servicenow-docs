@@ -12,30 +12,18 @@ breadcrumb: [Service Graph Connector for ServiceNow Operational Technology \(OT\
 
 # Explore the Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery
 
-The [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]] imports data from a connected [[operational-technology-overview|Operational Technology]] \(OT\) Discovery environment and leverages the Integration Hub ETL framework.
+The Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery imports data from a connected Operational Technology \(OT\) Discovery environment and leverages the Integration Hub ETL framework.
 
 ## What to do next
 
 Go through each step to install and setup the Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery \(SGC\).
 
-1.  [[sgc-prereq-settings|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery prerequisites and settings]]
-2.  [[install-sgc-ot-discovery|Install the Service Graph Connector for ServiceNow Operational Technology Discovery]]
-3.  [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]
-4.  [[configure-the-ot-discovery-connections-credentials|Configure the OT Discovery connections &amp; credentials]]
-5.  [[generate-imports-validate-connections|Generate imports and validate the connections]]
-6.  [[review-configure-integration-settings|Review and configure integration settings]]
-7.  [[setup-scheduled-jobs|Set up scheduled import jobs]]
-8.  [[advanced-configuration-sgc-ot-discovery|Use advanced configurations]]
+1.  [Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery prerequisites and settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-prereq-settings.md)
+2.  [Install the Service Graph Connector for ServiceNow Operational Technology Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/install-sgc-ot-discovery.md)
+3.  [Service Graph Connector for ServiceNow OT Discovery Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/sgc-ot-discovery-guided-setup.md)
+4.  [Configure the OT Discovery connections &amp; credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/configure-the-ot-discovery-connections-credentials.md)
+5.  [Generate imports and validate the connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/generate-imports-validate-connections.md)
+6.  [Review and configure integration settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/review-configure-integration-settings.md)
+7.  [Set up scheduled import jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/setup-scheduled-jobs.md)
+8.  [Use advanced configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/advanced-configuration-sgc-ot-discovery.md)
 
-## Related
-
-- [[sgc-prereq-settings|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery prerequisites and settings]]
-- [[install-sgc-ot-discovery|Install the Service Graph Connector for ServiceNow Operational Technology Discovery]]
-- [[sgc-ot-discovery-guided-setup|Service Graph Connector for ServiceNow OT Discovery Guided Setup]]
-- [[configure-the-ot-discovery-connections-credentials|Configure the OT Discovery connections &amp; credentials]]
-- [[generate-imports-validate-connections|Generate imports and validate the connections]]
-- [[review-configure-integration-settings|Review and configure integration settings]]
-- [[setup-scheduled-jobs|Set up scheduled import jobs]]
-- [[advanced-configuration-sgc-ot-discovery|Use advanced configurations]]
-- [[sgc-ot-discovery|Service Graph Connector for ServiceNow Operational Technology \(OT\) Discovery]]
-- [[operational-technology-overview|Operational Technology]]

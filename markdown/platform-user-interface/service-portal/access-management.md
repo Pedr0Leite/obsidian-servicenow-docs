@@ -14,7 +14,7 @@ breadcrumb: [Configure a catalog in Service Portal, Create a portal, Configuring
 
 # Access Management Automation
 
-Automate access management request fulfillment using the Service Catalog or [[c_ServicePortal|Service Portal]]. The catalog items and flows support requests in Okta, Microsoft Entra ID \(formerly Microsoft Entra ID\), and Microsoft Active Directory.
+Automate access management request fulfillment using the Service Catalog or Service Portal. The catalog items and flows support requests in Okta, Microsoft Entra ID \(formerly Microsoft Entra ID\), and Microsoft Active Directory.
 
 ## Request apps on the Store
 
@@ -97,6 +97,3 @@ The Access Management Automation application provides the sn\_acc\_mgmt\_sc.acce
 
 **Note:** User must have the sn\_acc\_mgmt\_sc.access\_mgmt\_user, ITIL, and Catalog Admin roles to create and submit catalog items.
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

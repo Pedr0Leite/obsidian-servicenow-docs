@@ -12,13 +12,13 @@ breadcrumb: [Dispatcher Workspace, CSM/FSM Configurable Workspace, Configure, Fi
 
 # Configuring Time Zones
 
-There are multiple ways to set up time zones with [[dispatcher-activities|Dispatcher Workspace]]. This gives dispatchers the flexibility to see Field Service technicians' times in a way that works best for them.
+There are multiple ways to set up time zones with Dispatcher Workspace. This gives dispatchers the flexibility to see Field Service technicians' times in a way that works best for them.
 
 You don’t have to configure either of these options and can use Dispatcher Workspace with a single time zone. You can also use multiple time zones, and equalized time zones together at the same time, or separately.
 
 ## Multiple time zone configuration
 
-If you choose to enable multiple time zones, then you must configure the time zones that dispatchers can choose from. For more information on how to add the time zones as options, see [[add-remore-time-zones|Configure multiple time zones for dispatchers]].
+If you choose to enable multiple time zones, then you must configure the time zones that dispatchers can choose from. For more information on how to add the time zones as options, see [Configure multiple time zones for dispatchers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/add-remore-time-zones.md).
 
 ## Resource time indicators
 
@@ -29,10 +29,5 @@ Resource time indicators render technicians' schedules based on their time zone 
     **Note:** If you don’t see a time zone drop-down on the location record, then add it to the form. For more information on adding form fields, see [Configuring the form layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-form-layout.md).
 
 2.  Ensure that all Field Service Technicians have the correct time zone configured on their user record. The line break on the calendar in Dispatcher Workspace is determined based on the time zone configured on the technician’s user record. For more information on adding Time zones to user records, see: [The User record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/user.md).
-3.  Enable the work.management.enable.timezone.agnostic property. For more information see [[enable-equalized-time|Enable resource time indicators]].
+3.  Enable the work.management.enable.timezone.agnostic property. For more information see [Enable resource time indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/enable-equalized-time.md).
 
-## Related
-
-- [[add-remore-time-zones|Configure multiple time zones for dispatchers]]
-- [[enable-equalized-time|Enable resource time indicators]]
-- [[dispatcher-activities|Dispatcher Workspace]]

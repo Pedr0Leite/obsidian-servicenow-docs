@@ -14,13 +14,13 @@ breadcrumb: [Optimizing Discovery load for Event Framework, Configure Discovery 
 
 # Configure a single queue for Cloud-based and IP-based events
 
-Configure Cloud-based and IP-based events to share a single queue, which helps reduce the impact of [[r-discovery|Discovery]] on app nodes.
+Configure Cloud-based and IP-based events to share a single queue, which helps reduce the impact of Discovery on app nodes.
 
 ## Before you begin
 
 Confirm the following:
 
--   [[discovery-admin-workspace|Discovery Admin Workspace]] is using version 1.9.0 or later.
+-   Discovery Admin Workspace is using version 1.9.0 or later.
 -   ServiceNow AI Platform® is using XP9, YP4, or later than YP4.
 -   The **discovery.use.event.processing** system property is turned on. For more information, see [Configure Discovery to use Event Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/t_ConfigureDiscoveryEventFramework.md).
 
@@ -49,7 +49,3 @@ When using a single queue, Cloud Discovery jobs frequently have higher priority 
 
 **Parent Topic:**[Optimizing Discovery load for Event Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/c_FineTuneDiscoLoadEF.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

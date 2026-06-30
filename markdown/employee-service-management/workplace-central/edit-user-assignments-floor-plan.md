@@ -24,9 +24,9 @@ Role required: sn\_wsd\_core.workplace\_manager or sn\_wsd\_spcmgmt.space\_plann
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
+1.  Navigate to **All** &gt; **Workplace Central** &gt; **Workplace Central**.
 
-2.  On the side navigation, select the **[[space-planning|Space Planning]]** module.
+2.  On the side navigation, select the **Space Planning** module.
 
     The Space Planning workspace opens with the **Floor plan** tab selected by default.
 
@@ -103,7 +103,7 @@ For example, `Workplace profile is Active`. For more information about condition
 
 </td><td>
 
-**Note:** Moving a user requires the [[workplace-move-mgmt-overview|Workplace Move Management]] plugin.
+**Note:** Moving a user requires the Workplace Move Management plugin.
 
  1.  Select a user on the map.
 
@@ -137,8 +137,3 @@ The Unassign users pop-up opens.
 </table>
 **Parent Topic:**[Use Floor Plan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/use-floor-plan.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]
-- [[space-planning|Space Planning]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]

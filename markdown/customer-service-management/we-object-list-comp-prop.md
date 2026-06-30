@@ -12,7 +12,7 @@ breadcrumb: [Web Embeddables component properties, Web Embeddables reference, Re
 
 # Component properties for the Object list
 
-Component property enables you to configure the behavior of the [[we-object-list-comp|Object list component]] on a third-party website.
+Component property enables you to configure the behavior of the Object list component on a third-party website.
 
 |Component property|Description|
 |------------------|-----------|
@@ -138,11 +138,7 @@ Global actions and actions set at the table or view level will automatically be 
 
 [Embed the Object list component on the third-party website](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-embed-object-list-comp-on-thirdparty-web.md)
 
-[[we-event-handlers-object-list|Event handlers in the Object list component]]
+[Event handlers in the Object list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/we-event-handlers-object-list.md)
 
 [Sample code for the Object list component](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-self-service-and-omnichannel-engagement/we-object-list-sample-code.md)
 
-## Related
-
-- [[we-event-handlers-object-list|Event handlers in the Object list component]]
-- [[we-object-list-comp|Object list component]]

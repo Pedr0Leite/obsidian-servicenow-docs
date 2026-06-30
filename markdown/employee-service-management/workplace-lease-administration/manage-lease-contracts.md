@@ -16,14 +16,10 @@ breadcrumb: [Workplace Lease Administration, Workplace Service Delivery, Employe
 
 Lease administrators and managers can track, renew, and view information related to workplace contracts.
 
-You can access [[workplace-lease-admin-feat|Workplace Lease Administration]], either from the Core UI or [[workplace-central-feat|Workplace Central]] from different views, refer to the below topics.
+You can access Workplace Lease Administration, either from the Core UI or Workplace Central from different views, refer to the below topics.
 
 -   [Manage workplace contracts from Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/manage-contracts-from-core-ui.md)
 -   [Manage workplace contracts from Workplace Central](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-lease-administration/manage-contracts-from-wpc.md)
 
 For more information on the lease contract workflow, states, and substates, see [Contract life cycle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/c_ContractLifeCycle.md).
 
-## Related
-
-- [[workplace-lease-admin-feat|Workplace Lease Administration]]
-- [[workplace-central-feat|Workplace Central]]

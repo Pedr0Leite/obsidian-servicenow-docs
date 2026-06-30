@@ -15,7 +15,7 @@ breadcrumb: [Debug a Virtual Agent topic, Getting started with Virtual Agent Des
 
 # Natural Language Understanding topic discovery logic in Virtual Agent
 
-Understand how [[virtual-agent-landing-page|Virtual Agent]] returns intents and how it selects which intents to show to the user.
+Understand how Virtual Agent returns intents and how it selects which intents to show to the user.
 
 ## Prerequisites for topic discovery
 
@@ -48,7 +48,7 @@ If no matches are found but backup keywords are enabled \(the **com.glide.cs.nlu
 
 Virtual Agent uses confidence scores to return predicted intents. To set the confidence value:
 
-1.  Navigate to **[[convint-landing-page|Conversational Interfaces]]** &gt; **External NLU Integrations** &gt; **Drivers**.
+1.  Navigate to **Conversational Interfaces** &gt; **External NLU Integrations** &gt; **Drivers**.
 2.  Select **ServiceNow NLU**. You can also select All and enter `open_nlu_driver.list`.
 3.  In the **Intent Confidence Threshold** field, enter the confidence threshold.
 
@@ -91,7 +91,3 @@ While a topic is running, the requester can enter an utterance or phrase that re
 
 [Resolve Natural Language Understanding \(NLU\) topic discovery issues](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-topic-discovery-issues.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

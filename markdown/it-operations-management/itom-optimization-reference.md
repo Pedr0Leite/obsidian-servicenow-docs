@@ -14,16 +14,10 @@ breadcrumb: [ITOM Optimization, IT Operations Management]
 
 Reference topics provide additional information for configuring and using ITOM Optimization .
 
--   **[[plugin-itom-optimization|Plugins activated with ITOM Optimization]]**  
-Table that lists the plugins that are activated with the ITOM Optimization application [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]. When you update your application, any newly required application dependencies are installed.
--   **[[configure-a-mid-server|MID Server configuration and exception handling]]**  
+-   **[Plugins activated with ITOM Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/plugin-itom-optimization.md)**  
+Table that lists the plugins that are activated with the ITOM Optimization application Cloud Provisioning and Governance. When you update your application, any newly required application dependencies are installed.
+-   **[MID Server configuration and exception handling](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/configure-a-mid-server.md)**  
 You can configure a MID Server with additional configuration parameters or create a new Mid Server property to alter any default behavior.
 
-**Parent Topic:**[[itom-optimization-landing-page|ITOM Optimization]]
+**Parent Topic:**[ITOM Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-optimization-landing-page.md)
 
-## Related
-
-- [[plugin-itom-optimization|Plugins activated with ITOM Optimization]]
-- [[configure-a-mid-server|MID Server configuration and exception handling]]
-- [[itom-optimization-landing-page|ITOM Optimization]]
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

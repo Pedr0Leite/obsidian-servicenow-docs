@@ -14,7 +14,7 @@ breadcrumb: [JWT Grant, Inbound integrations, OAuth Inbound, OAuth authenticatio
 
 # Configure an OAuth JSON web token bearer grant
 
-Configuring an [[oauth-inbound-and-outbound|OAuth]] JSON Web Token \(JWT\) bearer grant secures [[token-based-auth-api|token-based authentication]] without user interaction. It enhances security with signed JWTs and reduces [[c_Authentication|authentication]] overhead by eliminating repeated login attempts.
+Configuring an OAuth JSON Web Token \(JWT\) bearer grant secures token-based authentication without user interaction. It enhances security with signed JWTs and reduces authentication overhead by eliminating repeated login attempts.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ The supported algorithms for JSON Web Token \(JWT\): RS256, RS384, RS512, ES256,
 
 ## Procedure
 
-1.  Navigate to **[[machine-identity-console|Machine Identity Console]]** &gt; **** &gt; **[[inbound-integrations|Inbound integrations]]** &gt; **** &gt; **New integration** &gt; **[[jwt-bearer|JWT bearer]] grant**.
+1.  Navigate to **Machine Identity Console** &gt; **** &gt; **Inbound integrations** &gt; **** &gt; **New integration** &gt; **JWT bearer grant**.
 
 2.  Update the text fields in the Details form with the appropriate information.
 
@@ -66,7 +66,7 @@ The auto-generated unique ID of the application. The system uses the value of th
 
 </td><td>
 
-The shared secret string that both the instance and the client application or website use to authorize [[sc-communications|communications]] with one another. Leave this field empty to have the instance auto-generate a client secret. To display existing client secrets, select the lock icon.
+The shared secret string that both the instance and the client application or website use to authorize communications with one another. Leave this field empty to have the instance auto-generate a client secret. To display existing client secrets, select the lock icon.
 
 </td></tr><tr><td>
 
@@ -76,7 +76,7 @@ The shared secret string that both the instance and the client application or we
 
 Field in the User \(sys\_user\) table that the system uses to match the value of the subject claim in the JWT. Example:
 
-If you add a token that has a subject claim value of user.name@example.com, then you would set the **User Field** to **[[email|Email]]**. This field tells the system to search the email field for the user.name@example.com value and use the matching user record in the inbound [[c_requestAPI|request]].
+If you add a token that has a subject claim value of user.name@example.com, then you would set the **User Field** to **Email**. This field tells the system to search the email field for the user.name@example.com value and use the matching user record in the inbound request.
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Select to require a new token every token exchange.Default: Selected.
 
 </td><td>
 
-The JSON Web key set URL. Its is a collection of public keys in JSON format. [[identity-landing|Identity]] providers publish a JWKS at a well-known URL so that client applications and services can retrieve the keys and validate the signatures of JSON Web Tokens \(JWTs\).
+The JSON Web key set URL. Its is a collection of public keys in JSON format. Identity providers publish a JWKS at a well-known URL so that client applications and services can retrieve the keys and validate the signatures of JSON Web Tokens \(JWTs\).
 
 </td></tr><tr><td>
 
@@ -118,7 +118,7 @@ Add relevant comments.
 
 Specify the identity provider, the verification method \(such as a JWKS URL or certificate\), and the mapping of JWT claims to ServiceNow user fields. Click on the Plus icon to add or edit the maps. Provide the following details in the **JWT verifier map** page:
 
--   Name- The unique name of the JWT verifier map [[sc-configuration|configuration]].
+-   Name- The unique name of the JWT verifier map configuration.
 -   Application - The application where the verifier map is used.
 -   Kid \(Key ID\)- The identifier of the key used to validate the JWT signature.
 -   Sys certificate - The ServiceNow certificate record used for token verification
@@ -150,7 +150,7 @@ Description
 
 </td><td>
 
-Select to only enable tokens to be used with APIs set to enable the authentication profile. You can set grant access using an [[api-access-policy|API access policy]].Default: Unselected.
+Select to only enable tokens to be used with APIs set to enable the authentication profile. You can set grant access using an API access policy.Default: Unselected.
 
 </td></tr><tr><td>
 
@@ -254,22 +254,8 @@ Format of token to generate. Options: -   JWT
 </td></tr></tbody>
 </table>6.  Select **Save**.
 
-    A new OAuth [[jwt-bearer-grant|JSON Web Token bearer grant]] is created.
+    A new OAuth JSON Web Token bearer grant is created.
 
 7.  Go to **All** &gt; **Inbound integrations** &gt; **Application Registries** to view the newly created JWT bearer grant.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[token-based-auth-api|Token-based authentication]]
-- [[c_Authentication|Authentication]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[inbound-integrations|Inbound integrations]]
-- [[jwt-bearer|JWT Bearer]]
-- [[sc-communications|Communications]]
-- [[email|Email]]
-- [[c_requestAPI|request]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[api-access-policy|API access policy]]
-- [[jwt-bearer-grant|JSON Web token bearer grant]]

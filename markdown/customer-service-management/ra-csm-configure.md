@@ -16,24 +16,24 @@ Use Recommended Actions for Service to display relevant actions to agents based 
 
 **Important:** Starting with v31.0, the Recommended Actions for Customer Service \(sn\_cs\_nb\_action\) plugin has been renamed to Recommended Actions for Service \(sn\_cs\_nb\_action\).
 
-The Recommended Actions for Service application displays recommendations for case records in [[csm-workspaces-configure|CSM Configurable Workspace]]. Agents can take the actions provided by the recommendations to help customers and resolve their issues. Agents can also use this application to perform an AI search to find relevant resources.
+The Recommended Actions for Service application displays recommendations for case records in CSM Configurable Workspace. Agents can take the actions provided by the recommendations to help customers and resolve their issues. Agents can also use this application to perform an AI search to find relevant resources.
 
-The Recommended Actions for Service application provides predefined guidances and recommendation context records tailored for [[c_CustomerServiceManagement|Customer Service Management]]. It also provides workspace configurations that automatically display recommended actions and search results in the contextual side panel.
+The Recommended Actions for Service application provides predefined guidances and recommendation context records tailored for Customer Service Management. It also provides workspace configurations that automatically display recommended actions and search results in the contextual side panel.
 
-For more information about recommended actions and AI search results, see [[configure-nba|Recommended Actions]].
+For more information about recommended actions and AI search results, see [Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-nba.md).
 
 ## Context records
 
-The Recommended Actions for Service application provides context records for the Case and Interaction tables. A [[ra-csm-contexts|context]] enables agents to see recommendations for records from a specific table when certain [[gamification-components-rules|rules]] are met.
+The Recommended Actions for Service application provides context records for the Case and Interaction tables. A [context](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts.md) enables agents to see recommendations for records from a specific table when certain rules are met.
 
--   [[ra-csm-context-records|Case Context record]]
+-   [Case Context record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-context-records.md)
 -   [Interaction Context record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-context-records.md)
 
 ## Guidances
 
 The Recommended Actions for Service application includes custom guidances for the following tables:
 
--   [[ra-csm-custom-guidances|Knowledge]]
+-   [Knowledge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-custom-guidances.md)
 -   [Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-custom-guidances.md)
 -   [Incident](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-custom-guidances.md)
 -   [Problem](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-custom-guidances.md)
@@ -51,12 +51,3 @@ This application has a dependency on the Recommended Actions application.
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home) to view all the available apps, and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
-## Related
-
-- [[configure-nba|Recommended Actions]]
-- [[ra-csm-contexts|Contexts in Recommended Actions]]
-- [[ra-csm-context-records|Contexts in Recommended Actions for Customer Service]]
-- [[ra-csm-custom-guidances|Guidances in Recommended Actions for Customer Service]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[gamification-components-rules|Rules]]

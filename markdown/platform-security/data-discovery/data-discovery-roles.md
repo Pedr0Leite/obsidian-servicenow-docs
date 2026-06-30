@@ -41,17 +41,17 @@ View, create, and modify, data patterns and related jobs.
     -   Create
     -   Read
     -   Write
--   Granular [[sc-configuration|configuration]]:
+-   Granular configuration:
     -   Create
     -   Read
     -   Update
     -   Delete
--   [[granular-findings|Granular findings]]:
+-   Granular findings:
     -   Create
     -   Read
     -   Actions
 
-        **Note:** [[users|Users]] with this role may only take the ignore action
+        **Note:** Users with this role may only take the ignore action
 
 
 ### Contains Roles
@@ -80,10 +80,10 @@ Read data patterns and target tables.
 
 -   Read data patterns
 -   Read active data patterns
--   Read [[data-discovery-jobs|Data Discovery jobs]]
+-   Read Data Discovery jobs
 -   Read target tables
 -   Review granular configuration
--   [[dds-review-granular-findings|Review granular findings]]
+-   Review granular findings
 
 ### Contains Roles
 
@@ -107,7 +107,7 @@ Read data patterns, discovery jobs, and the data\_classification table when an e
 
 ### Contains Roles
 
-The [[data-classification|Data classification]] role contains the List of roles contained within the data\_classification\_auditor role.
+The Data classification role contains the List of roles contained within the data\_classification\_auditor role.
 
 ### Groups
 
@@ -119,11 +119,3 @@ None.
 
 **Note:** For more information about the Data Classification admin role, see [Installing Data Classification plugin demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/data-classification/install-data-classification-plugin-demo-data.md).
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[granular-findings|Granular Findings]]
-- [[users|Users]]
-- [[data-discovery-jobs|Data Discovery jobs]]
-- [[dds-review-granular-findings|Review granular findings]]
-- [[data-classification|Data Classification]]

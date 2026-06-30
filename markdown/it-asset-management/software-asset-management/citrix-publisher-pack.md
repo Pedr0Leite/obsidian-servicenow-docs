@@ -16,7 +16,7 @@ breadcrumb: [Supported software publisher licenses, Software Asset Management, I
 
 Use the Citrix publisher pack for the optimization and reconciliation of your Citrix products. You can track licensing positions for your Citrix users and devices so that you can determine your license compliance.
 
-To use the Citrix publisher pack, activate the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Citrix plugin \(com.sn\_samp\_citrix\). For details, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
+To use the Citrix publisher pack, activate the Software Asset Management Professional for Citrix plugin \(com.sn\_samp\_citrix\). For details, see [Request Software Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/t_RequSoftwareAssetMgmt.md).
 
 The Citrix publisher pack supports Virtual Applications products \(formerly XenApp\) and Virtual Desktop products \(formerly XenDesktop\). Using this publisher pack, you can manage licenses and determine the license compliance for your Citrix products. You can gain visibility into the third-party applications that are delivered through your virtual applications and desktops. You can also gain visibility into the users that may potentially access those applications.
 
@@ -26,7 +26,7 @@ Discovery uses OData APIs to identify the third-party applications that are deli
 
 ## Citrix licensing models
 
-The Citrix publisher pack supports the following Citrix licensing [[c_Models|models]]:
+The Citrix publisher pack supports the following Citrix licensing models:
 
 -   **Concurrent licensing model**
 
@@ -57,17 +57,11 @@ Refer to the [Citrix product documentation](https://docs.citrix.com/) for more i
 You can view your Citrix license usage data from the [Software Publisher Analytics dashboard for Citrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-citrix.md). Use this data to optimize your license position by reclaiming any unused or unauthorized licenses.
 
 -   **[Create entitlements for Citrix](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/create-entitlement-citrix.md)**  
-Software entitlements enable you to define license details that are matched to [[c_CreatingSoftwareModels|software models]]. You can add an entitlement individually or import a list from a spreadsheet.
+Software entitlements enable you to define license details that are matched to software models. You can add an entitlement individually or import a list from a spreadsheet.
 -   **[Software Publisher Analytics dashboard for Citrix in Software Asset Management classic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/dashboard-citrix.md)**  
 View compliance analysis results for Citrix on the Software Publisher Analytics dashboard in the Software Asset Management classic application.
 -   **[Publisher overview for Citrix Systems in the Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/publisher-overview-citrix.md)**  
-View license usage information related to Citrix in the [[publisher-overview-citrix|publisher overview for Citrix Systems in the Software Asset Workspace]].
+View license usage information related to Citrix in the publisher overview for Citrix Systems in the Software Asset Workspace.
 
 **Parent Topic:**[Supported software publisher licenses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/sam-publisher-packs.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[c_Models|Models]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[publisher-overview-citrix|Publisher overview for Citrix Systems in the Software Asset Workspace]]

@@ -38,7 +38,7 @@ To create a table configuration, see [Configure table for a contextual search](h
 
 3.  From the Pages and variants list in the Record section, select **Agent Assist SNC**.
 
-4.  Select **[[settings-mobile|Settings]]** to switch to the Settings mode.
+4.  Select **Settings** to switch to the Settings mode.
 
     \[Omitted image "settings\_SRP.jpg"\] Alt text: Settings page button indicated by a box
 
@@ -57,6 +57,3 @@ To create a table configuration, see [Configure table for a contextual search](h
 
 **Parent Topic:**[Configure the Agent Assist tab in Service Operations Workspace using the Standard Record Page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-agent-assist-tab-sow-srp.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

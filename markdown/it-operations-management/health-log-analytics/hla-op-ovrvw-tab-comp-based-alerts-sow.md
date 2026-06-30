@@ -15,7 +15,7 @@ breadcrumb: [Information on the alert Overview tab, Health Log Analytics referen
 
 # Sections and cards on the Overview tab for a Component-based alert in Health Log Analytics
 
-The alert **Overview** tab in [[hla-landing-page|Health Log Analytics]] helps you understand Component-based alerts.
+The alert **Overview** tab in Health Log Analytics helps you understand Component-based alerts.
 
 For a detailed description of Component-based alerts, see [Types of Health Log Analytics alerts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-log-analytics-alert-types.md).
 
@@ -74,6 +74,3 @@ For a detailed description of Component-based alerts, see [Types of Health Log A
 
 **Parent Topic:**[Sections and cards on the alert Overview tab in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-alert-overview-tab.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

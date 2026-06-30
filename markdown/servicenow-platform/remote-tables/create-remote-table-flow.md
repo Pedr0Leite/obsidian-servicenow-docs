@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Definition** &gt; **[[remote-tables|Remote Tables]]** &gt; **Definition**.
+1.  Navigate to **All** &gt; **System Definition** &gt; **Remote Tables** &gt; **Definition**.
 
     A list of all remote tables definitions shows up.
 
@@ -128,6 +128,3 @@ Set the triggers and actions to define a remote table flow logic.
 
 **Parent Topic:**[Remote tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/remote-tables/remote-tables.md)
 
-## Related
-
-- [[remote-tables|Remote tables]]

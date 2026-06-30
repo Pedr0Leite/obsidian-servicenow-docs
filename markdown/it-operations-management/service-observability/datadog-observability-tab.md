@@ -20,7 +20,7 @@ Dashboard and charts on the Datadog Observability tab of the Service Details pag
 
 This dashboard displays performance metrics for the selected service.
 
-**Note:** If the [[otto-aiops-dashboards|dashboards]] have been customized, they might not reflect the information shown on this page.
+**Note:** If the dashboards have been customized, they might not reflect the information shown on this page.
 
 |Chart|Description|Data source|
 |-----|-----------|-----------|
@@ -72,6 +72,3 @@ These dashboards display metrics for databases related to the service.
 
 **Parent Topic:**[Datadog templates for Service Observability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-observability/datadog-templates.md)
 
-## Related
-
-- [[otto-aiops-dashboards|Dashboards]]

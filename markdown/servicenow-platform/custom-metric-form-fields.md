@@ -44,7 +44,7 @@ Icon
 
 </td><td>
 
-An icon for the custom metric type. The custom metric type appears as the selected icon in [[c_SurveyDesigner|Survey Designer]].
+An icon for the custom metric type. The custom metric type appears as the selected icon in Survey Designer.
 
 </td></tr><tr><td>
 
@@ -99,9 +99,5 @@ Value parameters
 Value pairs that are passed to the custom metric type renderers. For example, in star ratings, you can pass a value as 5 for 5 stars or 10 for 10 stars.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
-## Related
-
-- [[survey-reference|Surveys reference]]
-- [[c_SurveyDesigner|Survey designer]]

@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Assign equipment model site access
 
-Assign equipment model site access to non-administrator roles. This configuration is required so that these roles can view or create functional locations, which is essential for proper use of [[industrial-connected-workforce-overview|Industrial Connected Workforce]] \(ICW\).
+Assign equipment model site access to non-administrator roles. This configuration is required so that these roles can view or create functional locations, which is essential for proper use of Industrial Connected Workforce \(ICW\).
 
 ## Before you begin
 
@@ -53,6 +53,3 @@ Role required: sn\_icw.application\_admin
 
 **Parent Topic:**[Setting up prerequisites for Digital Factory Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/setting-up-prerequisites-digital-factory-workspace.md)
 
-## Related
-
-- [[industrial-connected-workforce-overview|Industrial Connected Workforce]]

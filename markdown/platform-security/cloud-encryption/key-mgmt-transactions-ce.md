@@ -17,7 +17,7 @@ breadcrumb: [Cloud Encryption with Key Management, Encryption]
 The Key Management Transactions submodule displays all transactions that have occurred for the keys in your ServiceNow instance.
 
 -   A key transaction is defined by the following:
-    -   composed of several [[c_requestAPI|request]] steps.
+    -   composed of several request steps.
     -   A single Request ID is shared across all request steps.
     -   The initial step, request sequence 0, of a transaction provides the current state of the overall transaction.
 
@@ -144,6 +144,3 @@ Request step status
 </td></tr></tbody>
 </table>**Parent Topic:**[Cloud Encryption with Key Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/cloud-encryption/dare-overview.md)
 
-## Related
-
-- [[c_requestAPI|request]]

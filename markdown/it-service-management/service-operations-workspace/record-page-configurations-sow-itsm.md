@@ -14,7 +14,7 @@ breadcrumb: [Getting started with Service Operations Workspace for ITSM, Configu
 
 # Record page configurations in Service Operations Workspace for ITSM
 
-You can configure the data available in record pages in [[sow-landing-page|Service Operations Workspace for ITSM]].
+You can configure the data available in record pages in Service Operations Workspace for ITSM.
 
 -   **[Configure the incident record page in SOW for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/configure-incident-record-page.md)**  
 Configure the data displayed in various incident tabs such as **Overview** and **Details** tabs.
@@ -23,6 +23,3 @@ Configure the data displayed in various Change record tabs such as **Overview** 
 
 **Parent Topic:**[Getting started with Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/getting-started-sow.md)
 
-## Related
-
-- [[sow-landing-page|Service Operations Workspace for ITSM]]

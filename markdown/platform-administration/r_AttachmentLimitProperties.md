@@ -34,7 +34,7 @@ Description
 
 </td><td>
 
-Sets the maximum number of attachments allowed per [[ia-inbound-email-il|inbound email]].-   Type: integer
+Sets the maximum number of attachments allowed per inbound email.-   Type: integer
 -   Default value: 30
 -   Learn more: Inbound Email Attachment Processing
 
@@ -54,7 +54,7 @@ Sets the maximum total attachment size in bytes allowed per inbound email.-   Ty
 
 </td><td>
 
-Sets the maximum number of attachments allowed per [[ia-outbound-email-il|outbound email]].-   Type: integer
+Sets the maximum number of attachments allowed per outbound email.-   Type: integer
 -   Default value: 30
 -   Learn more: Outbound Email Attachment Processing
 
@@ -89,17 +89,11 @@ The log message for such an email might look like this: `Maximum combined attach
 
 ## Emails for notifications, scheduled reports, and exported tables
 
-[[notifications|Notifications]] can be set to include all the attachments from the record that triggers the notification. If the attachments exceed either of the outbound email attachment limits, the system excludes the excess attachments from the email and logs a warning message.
+Notifications can be set to include all the attachments from the record that triggers the notification. If the attachments exceed either of the outbound email attachment limits, the system excludes the excess attachments from the email and logs a warning message.
 
 Reports can be scheduled for email distribution as attachments. Large reports may exceed the outbound attachment size limit. In this case, the system sends the scheduled report email without the report attached and logs a warning message. To avoid the issue, send links to large reports instead of sending the reports as attachments.
 
 If a user attempts to export numerous records from a list that exceeds a configured warning threshold, a dialog box offers the option to email the exported records as an attachment. If the attachment exceeds the outbound attachment size limit, the system sends the email without the exported record list attached and logs a warning message.
 
-**Parent Topic:**[[c_EmailAttachmentLimits|Email size limits]]
+**Parent Topic:**[Email size limits](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_EmailAttachmentLimits.md)
 
-## Related
-
-- [[c_EmailAttachmentLimits|Email size limits]]
-- [[ia-inbound-email-il|Inbound email]]
-- [[ia-outbound-email-il|Outbound email]]
-- [[notifications|Notifications]]

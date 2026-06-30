@@ -14,7 +14,7 @@ breadcrumb: [Operational Risk Management dashboard, Analytics and reporting solu
 
 # GRC Audit Management plugin indicators
 
-The GRC [[c_GRCAudits|Audit Management]] plugin contains various indicators.
+The GRC Audit Management plugin contains various indicators.
 
 The Audit Management plugin includes the following indicators:
 
@@ -49,6 +49,3 @@ The Audit Management plugin includes the following indicators:
 
 **Parent Topic:**[Operational Risk Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/operational-risk-dashboard.md)
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

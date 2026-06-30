@@ -14,20 +14,20 @@ breadcrumb: [Authentication factors, Authentication, Access Management]
 
 # Configure authentication factors for AI voice agents
 
-To secure voice agent environments, configure [[authentication-factors|authentication factors]] that first identify the caller, then authenticate them before granting access.
+To secure voice agent environments, configure authentication factors that first identify the caller, then authenticate them before granting access.
 
-[[sc-configuration|Configuration]] involves:
+Configuration involves:
 
 -   [User identification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configuring-authentication-factors-for-ai-voice-agents.md)
 -   [User authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/configuring-authentication-factors-for-ai-voice-agents.md)
 
 ## User identification
 
-User identification forms the foundational layer of security for AI voice agents. You can [[configure-kba|configure knowledge-based authentication]] \(KBA\) to establish the caller [[identity-landing|identity]] before any [[c_Authentication|authentication]] steps.
+User identification forms the foundational layer of security for AI voice agents. You can configure knowledge-based authentication \(KBA\) to establish the caller identity before any authentication steps.
 
 ## User authentication
 
-After identification, authentication confirms the caller's identity before enabling access to sensitive resources or actions. ServiceNow AI Platform supports both single-factor and [[mfa-landing|multi-factor authentication]] \(MFA\), enabling administrators to tailor security configurations according to assurance levels and user roles. Supported factors include numeric PINs, authenticator app codes, one-time passwords over SMS and [[email|Email]], push notifications, and knowledge-based questions.
+After identification, authentication confirms the caller's identity before enabling access to sensitive resources or actions. ServiceNow AI Platform supports both single-factor and multi-factor authentication \(MFA\), enabling administrators to tailor security configurations according to assurance levels and user roles. Supported factors include numeric PINs, authenticator app codes, one-time passwords over SMS and Email, push notifications, and knowledge-based questions.
 
 ## Recommendations
 
@@ -207,12 +207,3 @@ N
 </td></tr></tbody>
 </table>**Important:** Y = Recommended \| Sometimes = Use with Caution \| N = Not Recommended
 
-## Related
-
-- [[authentication-factors|Authentication factors]]
-- [[sc-configuration|Configuration]]
-- [[configure-kba|Configure knowledge-based authentication]]
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[mfa-landing|Multi-factor authentication]]
-- [[email|Email]]

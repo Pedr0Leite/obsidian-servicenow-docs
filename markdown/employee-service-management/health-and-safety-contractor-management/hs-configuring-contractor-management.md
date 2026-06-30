@@ -14,7 +14,7 @@ breadcrumb: [Health and Safety Contractor Management, Health and Safety, Employe
 
 # Configuring Health and Safety Contractor Management
 
-Set up your implementation for [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]] by installing the application and reviewing and configuring the components that are installed with the application.
+Set up your implementation for Health and Safety Contractor Management by installing the application and reviewing and configuring the components that are installed with the application.
 
 ## Configuration overview
 
@@ -28,9 +28,6 @@ Set up your implementation for [[hs-contractor-mgmt-landing-page|Health and Safe
 
 -   [Assign Health and Safety profile to contractor workers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/hs-assign-hs-user-profile-contract-worker.md)
 
-    Assign the [[health-safety-overview|Health and Safety]] profile to all contractor workers who need to complete assigned tasks to work at your site.
+    Assign the Health and Safety profile to all contractor workers who need to complete assigned tasks to work at your site.
 
-## Related
 
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[health-safety-overview|Health and Safety]]

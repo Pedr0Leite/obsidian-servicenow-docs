@@ -14,7 +14,7 @@ breadcrumb: [Advanced configuration, Configure, Digital End-User Experience, IT 
 
 # Device location determination
 
-Identify and determine the number of impacted [[dex-workspace-devices-tab|devices]] based on the location by defining a custom logic.
+Identify and determine the number of impacted devices based on the location by defining a custom logic.
 
 Identify and determine the number of impacted devices based on the location by configuring a custom logic for location determination. Device location can be set using three predefined configurations. DEX administrators can select an option in the system properties and `sn_dex.location_determination`. The property controls how DEX identifies the positioning of the device used to establish the device's location \(in the cmdb\_ci\_computer table\) and throughout DEX for reporting and alerting purposes.
 
@@ -67,6 +67,3 @@ When `sn_dex.location_determination` is set to `geoIP_determined_location`, to m
 
 **Parent Topic:**[Advanced configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-advanced-configuration.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

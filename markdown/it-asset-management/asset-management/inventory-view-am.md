@@ -14,7 +14,7 @@ breadcrumb: [Explore, Asset Management, IT Asset Management]
 
 # Inventory view
 
-Use the Inventory view in the Asset Workspace to view and manage inventory-related functions such as [[c_Stockrooms|stockrooms]] and transfer orders.
+Use the Inventory view in the Asset Workspace to view and manage inventory-related functions such as stockrooms and transfer orders.
 
 The Inventory view provides access to actions for filling in missing stockroom details such as assignment group, stockroom name, manager, and type.
 
@@ -26,12 +26,7 @@ Select any widget or chart to view the details. You can also use Location, Sto
 
 |Widget or chart|Description|
 |---------------|-----------|
-|Open hardware requests from stock \(YTD\)|Number of transfer orders of [[c_Procurement|Procurement]] type that are already delivered and created this calendar year.|
+|Open hardware requests from stock \(YTD\)|Number of transfer orders of Procurement type that are already delivered and created this calendar year.|
 |Open transfer orders|Number of canceled or undelivered transfer orders.|
-|Active [[c_StockRules|stock rules]] by model category|All active stock rules grouped by their model category.|
+|Active stock rules by model category|All active stock rules grouped by their model category.|
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[c_Procurement|Procurement]]
-- [[c_StockRules|Stock rules]]

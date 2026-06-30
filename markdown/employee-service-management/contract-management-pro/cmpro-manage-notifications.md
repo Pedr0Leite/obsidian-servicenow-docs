@@ -14,10 +14,10 @@ breadcrumb: [Configure additional features in CM Pro, Configure, Contract Manage
 
 # Manage notifications in Contract Management Pro
 
-Configure the notifications in [[cncore-cmpro-landing-page|Contract Management Pro]].
+Configure the notifications in Contract Management Pro.
 
 -   **[Configure Obligation Management notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-config-ob-mgmt-notf.md)**  
-Activate [[cncore-ob-mgmt-notification|Obligation Management notifications]] to notify users when an obligation task is created, assigned, submitted, approved, or rejected.
+Activate Obligation Management notifications to notify users when an obligation task is created, assigned, submitted, approved, or rejected.
 -   **[Configure email notifications for approval workflow in Contract Management Pro](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-send-receive-email-notification-admin.md)**  
 Activate the notifications for Contract Management Pro to notify users when approval for contract revision is initiated, approved, rejected, or cancelled.
 -   **[Configure extension point for notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-configure-action-extension-point-email-notification-admin.md)**  
@@ -36,7 +36,7 @@ Add or modify an Action and its functionality on the Standard ticket page for a 
 
 [Activate a system property to generate a certificate of completion]()
 
-[Enable users to view email details in [[activity-lxp|activity]] stream]()
+[Enable users to view email details in activity stream]()
 
 [Enable keyword search for contract templates]()
 
@@ -46,8 +46,3 @@ Add or modify an Action and its functionality on the Standard ticket page for a 
 
 [Copy fields from parent request to amendment request]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-ob-mgmt-notification|Obligation Management notifications]]
-- [[activity-lxp|Activity]]

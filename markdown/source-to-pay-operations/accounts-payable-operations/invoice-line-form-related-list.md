@@ -15,17 +15,13 @@ breadcrumb: [Create New Invoice Line form, Reference, Accounts Payable Operation
 
 # Invoice Line form tabs
 
-Tab descriptions for the Invoice Line form, including invoice line details, exceptions, and goods [[receipts|receipts]].
+Tab descriptions for the Invoice Line form, including invoice line details, exceptions, and goods receipts.
 
 |Tab|Description|
 |---|-----------|
 |Details|Details about the invoice line.|
 |Exceptions|A list of exceptions on the invoice line.|
-|Receipts|Goods receipts for the [[purchase-order-table|purchase order]] line corresponding to the invoice line. This tab is shown only for the invoice of type **PO Invoice**.|
+|Receipts|Goods receipts for the purchase order line corresponding to the invoice line. This tab is shown only for the invoice of type **PO Invoice**.|
 
 **Parent Topic:**[Create New Invoice Line form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-invoice-line-form.md)
 
-## Related
-
-- [[receipts|Receipts]]
-- [[purchase-order-table|Purchase order]]

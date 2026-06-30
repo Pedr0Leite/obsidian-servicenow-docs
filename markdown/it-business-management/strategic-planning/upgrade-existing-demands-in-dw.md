@@ -34,15 +34,12 @@ Role required: admin
 
     -   For active demands: **Upgrade demand currency fields for active demands**
 
-        The job copies all amounts in the cost-related fields of the demands to demand currency. The Baseline, Cost Plan, [[cost-plan-breakdown|Cost Plan Breakdown]], Benefit Plan, and Benefit Plan Breakdown fields also change to the demand currency. You cannot edit the demand currency after the values are copied because the financial costs exist.
+        The job copies all amounts in the cost-related fields of the demands to demand currency. The Baseline, Cost Plan, Cost Plan Breakdown, Benefit Plan, and Benefit Plan Breakdown fields also change to the demand currency. You cannot edit the demand currency after the values are copied because the financial costs exist.
 
     -   For inactive demands: **Upgrade demand currency fields for inactive demands**
 
-        The job copies the values in the cost-related fields for inactive demands to the demand currency. The currency in the Baselines, Cost Plans, Cost Plan Breakdowns, Benefit Plans, Benefit Plan Breakdowns, and Expense Lines [[form-field-information-for-dw|forms]] changes to the demand currency.
+        The job copies the values in the cost-related fields for inactive demands to the demand currency. The currency in the Baselines, Cost Plans, Cost Plan Breakdowns, Benefit Plans, Benefit Plan Breakdowns, and Expense Lines forms changes to the demand currency.
 
 3.  Select **Execute Now**.
 
-## Related
 
-- [[cost-plan-breakdown|Cost plan breakdown]]
-- [[form-field-information-for-dw|Forms]]

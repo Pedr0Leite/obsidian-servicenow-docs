@@ -33,7 +33,7 @@ Role required: Localization fulfiller to fulfill translation request
 
 4.  On the Localization Task page, select **Translate** in the form header.
 
-    A two-column comparison [[ui-page|UI page]] displays a **Source Language** column on the left and **Target Language** column on the right. You can set the display as follows:
+    A two-column comparison UI page displays a **Source Language** column on the left and **Target Language** column on the right. You can set the display as follows:
 
     -   Select **Expand all** to expand all the groups on the comparison UI.
     -   Select **Collapse all** to collapse all the groups on the comparison UI.
@@ -53,6 +53,3 @@ The selected articles are translated into the selected languages and marked as v
 
 **Parent Topic:**[Use Bulk Translation for manual translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-bts-manual-translation.md)
 
-## Related
-
-- [[ui-page|UI page]]

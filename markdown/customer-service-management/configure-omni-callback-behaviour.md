@@ -12,7 +12,7 @@ breadcrumb: [Configure Omnichannel Callback, Phone channel, Enable communication
 
 # Configure the callback behavior for Omnichannel Callback for Customer Service Management
 
-such as enabling agent-scheduled callbacks, setting the maximum number of retry attempts or defining the expiration time, in [[omni-callback-csm|Omnichannel Callback for Customer Service Management]].
+such as enabling agent-scheduled callbacks, setting the maximum number of retry attempts or defining the expiration time, in Omnichannel Callback for Customer Service Management.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ Role required: admin
     |sn\_callback.enable\_scheduled\_callback|true|Option to enable scheduled callbacks by enabling customers to select a time slot for callback.|
     |sn\_callback.enable\_agent\_scheduled\_callback|Boolean|Enable the agent-scheduled callback feature. When enabled, agents can schedule callbacks on behalf of customers from CSM/FSM Configurable Workspace.|
 
-## Related
 
-- [[omni-callback-csm|Omnichannel Callback for Customer Service Management]]

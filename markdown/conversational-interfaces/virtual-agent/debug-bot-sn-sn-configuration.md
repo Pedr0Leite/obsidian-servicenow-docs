@@ -15,7 +15,7 @@ breadcrumb: [Using ServiceNow Virtual Agent as a secondary bot with Virtual Agen
 
 # Debug Virtual Agent Bot Interconnect with a ServiceNow Virtual Agent secondary bot
 
-Debug Workflow Studio executions of your [[virtual-agent-landing-page|Virtual Agent]] Bot Interconnect and Virtual Agent secondary bot integration.
+Debug Workflow Studio executions of your Virtual Agent Bot Interconnect and Virtual Agent secondary bot integration.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ Role required: admin
 
 1.  In the Bot Interconnect instance, modify the shell topic you created in Virtual Agent:
 
-    1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Designer**.
+    1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Designer**.
 
     2.  Open the shell topic you created in a previous step.
 
@@ -86,7 +86,3 @@ You can view additional logs and Workflow Studio executions for debugging purpos
 
 **Next topic:**[Localization options for Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/multi-language-options-va.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, Care Team Operations for Environmental Services, Healthc
 
 # Create a group for all location managers in Care Team Operations for Environmental Services
 
-Create a group for location managers with the **sn\_customerservice.svc\_location\_manager** assigned so that users added to this group will inherit the collection of roles for [[cto-evs-landing|Care Team Operations for Environmental Services]].
+Create a group for location managers with the **sn\_customerservice.svc\_location\_manager** assigned so that users added to this group will inherit the collection of roles for Care Team Operations for Environmental Services.
 
 ## Before you begin
 
@@ -41,6 +41,3 @@ Role required: admin
 
 A user group has been created for your environmental services department location managers.
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

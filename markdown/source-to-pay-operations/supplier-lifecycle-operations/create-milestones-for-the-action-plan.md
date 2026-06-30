@@ -14,7 +14,7 @@ breadcrumb: [Create action plan for KPIs, Using Supplier Relationship and Perfor
 
 # Create milestones for the action plan
 
-Create [[milestones|milestones]] for the affected KPIs in the action plan.
+Create milestones for the affected KPIs in the action plan.
 
 ## Before you begin
 
@@ -55,6 +55,3 @@ The milestones appear in the related list of the action plan.
 
 **Parent Topic:**[Create action plan for KPIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/create-action-plan-for-kpis.md)
 
-## Related
-
-- [[milestones|Milestones]]

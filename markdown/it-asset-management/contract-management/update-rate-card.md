@@ -36,7 +36,7 @@ Adding rate card details to a contract isn't a required procedure. You can close
 
 3.  Select **New**.
 
-4.  On the [[ContractRateCardForm|Contract Rate Card form]], fill in the financial details.
+4.  On the Contract Rate Card form, fill in the financial details.
 
     For a description of the field values, see [Contract Rate Card form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/ContractRateCardForm.md).
 
@@ -53,6 +53,3 @@ The rate card is attached to the draft contract.
 
 [Review contract renewal details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/contract-management/confirm-cont-renewal.md)
 
-## Related
-
-- [[ContractRateCardForm|Contract Rate Card form]]

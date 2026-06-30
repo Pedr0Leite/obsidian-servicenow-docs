@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Open a task record that displays the **Watch list** field.
 
-2.  Right-click the label and select **[[configure-onboarding-modals|Configure]] Dictionary**.
+2.  Right-click the label and select **Configure Dictionary**.
 
 3.  In the **Attributes** related list, click **New**.
 
@@ -33,17 +33,12 @@ Role required: admin
 
 ## Result
 
-The email entry field is hidden. Users can select users from the [[onboarding-modals-reference|reference]] field to add to the watchlist.
+The email entry field is hidden. Users can select users from the reference field to add to the watchlist.
 
-**Parent Topic:**[[t_ConfigNotifications4WatchLists|Configure email notifications for watch lists]]
+**Parent Topic:**[Configure email notifications for watch lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_ConfigNotifications4WatchLists.md)
 
 **Related topics**  
 
 
 [Altering tables and fields using dictionary attributes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_DictionaryAttributes.md)
 
-## Related
-
-- [[t_ConfigNotifications4WatchLists|Configure email notifications for watch lists]]
-- [[configure-onboarding-modals|Configure]]
-- [[onboarding-modals-reference|Reference]]

@@ -14,15 +14,15 @@ breadcrumb: [TISC VirusTotal integration, Threat Lookup, TISC Enrichment integra
 
 # Configure and enable VirusTotal Integration
 
-Set up [[virustotal-landing-page|VirusTotal integration]] with [[tisc-landing-page|Threat Intelligence Security Center]] to perform threat lookups on [[c_Observables|observables]].
+Set up VirusTotal integration with Threat Intelligence Security Center to perform threat lookups on observables.
 
 ## Before you begin
 
 Role required: sn\_sec\_tisc.admin
 
-**Important:** type="note"&gt;The Threat Intelligence Security Center and VirusTotal [[tisc-threat-lookup|Threat Lookup]] plugins must be installed and active.
+**Important:** type="note"&gt;The Threat Intelligence Security Center and VirusTotal Threat Lookup plugins must be installed and active.
 
-Download the VirusTotal integration from the ServiceNow Store. Verify you have a valid VirusTotal account before use. For more information see, [[download-app-first-time|Download the integration from the ServiceNow Store]].
+Download the VirusTotal integration from the ServiceNow Store. Verify you have a valid VirusTotal account before use. For more information see, [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 This integration requires a valid VirusTotal API key and enables automated security analysis.
 
@@ -32,7 +32,7 @@ This integration requires a valid VirusTotal API key and enables automated secur
 
     **Note:** After installation is complete, access VirusTotal. Obtain the API Key under your VirusTotal profile.
 
-2.  Select **[[tisc-config-new-enrich|Configure New Enrichment]]** to configure **VirusTotal** integration.
+2.  Select **Configure New Enrichment** to configure **VirusTotal** integration.
 
 3.  Complete the fields on the Configure New Enrichment form.
 
@@ -56,16 +56,7 @@ This integration requires a valid VirusTotal API key and enables automated secur
 
 ## Result
 
-After configuration, you can select VirusTotal to [[perform-lookups-on-observables|perform lookups on observables]] in Threat Intelligence Security Center.
+After configuration, you can select VirusTotal to perform lookups on observables in Threat Intelligence Security Center.
 
 **Parent Topic:**[TISC VirusTotal integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-virustotal-integration_0.md)
 
-## Related
-
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[virustotal-landing-page|VirusTotal integration]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-config-new-enrich|Configure new enrichment]]
-- [[perform-lookups-on-observables|Perform lookups on observables]]

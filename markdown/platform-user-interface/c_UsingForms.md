@@ -14,9 +14,9 @@ breadcrumb: [Working in the classic environment, Working in Core UI, Configure U
 
 A form displays information from one record in a data table.
 
-**Note:** This content pertains to the classic environment, which refers to working in [[lists-configurable-workspace|lists]] of records and on record [[form-configurable-workspace|forms]] directly, not in the [[workspace-landing-page|Configurable Workspace interface]]. You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as [[c_UI16|Core UI]] \(formerly known as UI16\).
+**Note:** This content pertains to the classic environment, which refers to working in lists of records and on record forms directly, not in the [Configurable Workspace interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/workspace-landing-page.md). You can work in the classic environment with Next Experience active, or with it inactive, which is referred to as Core UI \(formerly known as UI16\).
 
-The specific information on a form depends on the type of record displayed. Users can view and edit records in forms. Administrators can [[configure-onboarding-modals|configure]] what appears on forms.
+The specific information on a form depends on the type of record displayed. Users can view and edit records in forms. Administrators can configure what appears on forms.
 
 \[Omitted image "FormElementsUI16.png"\] Alt text: Annotated diagram showing the main elements of a form, including the header, fields, sections, related links, and related lists
 
@@ -85,61 +85,39 @@ Response time indicator
 Appears at the bottom of some forms to indicate the processing time required to display the form.
 
 </td></tr></tbody>
-</table>-   **[[form-header-by-version|Form headers for UI versions]]**  
+</table>-   **[Form headers for UI versions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/form-header-by-version.md)**  
 Core UI and UI15 each have a different form header that offers different navigation icons.
--   **[[c_FormContextMenu|Form context menu]]**  
+-   **[Form context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_FormContextMenu.md)**  
 The form context menu provides controls based on the table and user access rights. Administrators can customize some of the options available on a context menu using UI actions.
--   **[[c_FormFields|Form fields]]**  
+-   **[Form fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_FormFields.md)**  
 A field represents an individual item of data on a record.
--   **[[navigate-using-url|Navigate to a record or module using a URL]]**  
+-   **[Navigate to a record or module using a URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/navigate-using-url.md)**  
 Users can navigate to a record or module directly by using a URL. This topic explains the URL schema by which the system renders pages.
--   **[[configure-activity-filters|Configure the activity filter]]**  
+-   **[Configure the activity filter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/configure-activity-filters.md)**  
 The activity formatter contains a filter that lets users select which of the available fields to show in the activity list.
--   **[[c_EmbeddedLists|Embedded lists or Related lists]]**  
+-   **[Embedded lists or Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_EmbeddedLists.md)**  
 Some forms may show related lists as embedded. Changes to embedded lists are saved when the form is saved.
--   **[[c_RelatedLists|Related lists]]**  
+-   **[Related lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_RelatedLists.md)**  
 Related lists appear on forms and show records in tables that have relationships to the current record.
--   **[[t_EditingInForms|Edit a form]]**  
+-   **[Edit a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_EditingInForms.md)**  
 You can edit a record in the form view. You can also insert a record, apply a template, and cancel changes to the record.
--   **[[t_PersonalizeAForm|Personalize a form]]**  
+-   **[Personalize a form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_PersonalizeAForm.md)**  
 When the form personalization feature is activated, users can personalize fields to appear on a specific form view according to individual preferences. Form personalization is available in Core UI.
--   **[[t_UseAWatchList|Add users to a watch list]]**  
+-   **[Add users to a watch list](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_UseAWatchList.md)**  
 Watch lists enable you and others to subscribe to notifications of a task.
--   **[[t_AddingAnAttachment|Add and manage attachments]]**  
+-   **[Add and manage attachments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_AddingAnAttachment.md)**  
 You can upload a file as an attachment to an incident, a knowledge article, a change request, or to another type of record.
--   **[[enable-next-experience-email-client-core-ui|Set up the Next Experience email client in the Core UI]]**  
+-   **[Set up the Next Experience email client in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/enable-next-experience-email-client-core-ui.md)**  
 Access email features from the Next Experience in the Core UI.
--   **[[Documentviewer|Document Viewer]]**  
+-   **[Document Viewer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/Documentviewer.md)**  
 Document Viewer enables you to view documents directly in the ServiceNow AI Platform rather than having to download them.
--   **[[c_Checklists|Checklists]]**  
+-   **[Checklists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_Checklists.md)**  
 Checklists provide a simple way to track the progress of tasks without creating additional records. Checklists can be added to the form view of any table that extends Task \[task\].
 
-**Parent Topic:**[[working-in-classic-lists-and-forms|Working in the classic environment]]
+**Parent Topic:**[Working in the classic environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/working-in-classic-lists-and-forms.md)
 
 **Related topics**  
 
 
 [UI actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_UIActions.md)
 
-## Related
-
-- [[workspace-landing-page|Configurable Workspace UI]]
-- [[form-header-by-version|Form headers for UI versions]]
-- [[c_FormContextMenu|Form context menu]]
-- [[c_FormFields|Form fields]]
-- [[navigate-using-url|Navigate to a record or module using a URL]]
-- [[configure-activity-filters|Configure the activity filter]]
-- [[c_EmbeddedLists|Embedded lists or Related lists]]
-- [[c_RelatedLists|Related lists]]
-- [[t_EditingInForms|Edit a form]]
-- [[t_PersonalizeAForm|Personalize a form]]
-- [[t_UseAWatchList|Add users to a watch list]]
-- [[t_AddingAnAttachment|Add and manage attachments]]
-- [[enable-next-experience-email-client-core-ui|Set up the Next Experience email client in the Core UI]]
-- [[Documentviewer|Document Viewer]]
-- [[c_Checklists|Checklists]]
-- [[working-in-classic-lists-and-forms|Working in the classic environment]]
-- [[lists-configurable-workspace|Lists]]
-- [[form-configurable-workspace|Forms]]
-- [[c_UI16|Core UI]]
-- [[configure-onboarding-modals|Configure]]

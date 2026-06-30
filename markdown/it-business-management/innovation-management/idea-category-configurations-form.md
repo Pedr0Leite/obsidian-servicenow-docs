@@ -14,7 +14,7 @@ breadcrumb: [Form field information for Innovation Management, Innovation Manage
 
 # Idea Category Configuration form
 
-Learn about the fields of the idea category configuration form. Use this form to create or edit the details of an idea category configuration in [[innovation-management-landing|Innovation Management]].
+Learn about the fields of the idea category configuration form. Use this form to create or edit the details of an idea category configuration in Innovation Management.
 
 <table id="table_jzp_4ry_phb"><thead><tr><th>
 
@@ -70,6 +70,3 @@ The Idea module to which this idea category belongs.
 
 [Configure idea categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/category-configuration-existing-table.md)
 
-## Related
-
-- [[innovation-management-landing|Innovation Management]]

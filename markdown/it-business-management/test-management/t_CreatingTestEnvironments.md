@@ -14,7 +14,7 @@ breadcrumb: [Setting up the manual testing process, Test Management 1.0, Test Ma
 
 # Create a test environment
 
-Create a test environment to define the setup to be used when conducting the [[c_Tests|tests]] in a test plan.
+Create a test environment to define the setup to be used when conducting the tests in a test plan.
 
 ## Before you begin
 
@@ -89,6 +89,4 @@ Brief description of the test environment.
 </td></tr></tbody>
 </table>4.  Click **Submit**.
 
-## Related
 
-- [[c_Tests|Tests]]

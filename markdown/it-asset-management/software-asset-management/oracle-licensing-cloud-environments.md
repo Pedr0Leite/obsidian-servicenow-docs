@@ -14,7 +14,7 @@ breadcrumb: [Software Asset Management publisher pack for Oracle, Supported soft
 
 # Oracle licensing in cloud environments
 
-The [[c_SoftwareAssetMgmt|Software Asset Management]] application supports licensing rules for Oracle Database and WebLogic Server \(Standard, Enterprise, and Suite Editions\) in cloud environments.
+The Software Asset Management application supports licensing rules for Oracle Database and WebLogic Server \(Standard, Enterprise, and Suite Editions\) in cloud environments.
 
 **Important:** The Software Asset Management application supports Bring Your Own License \(BYOL\) for Oracle Database and WebLogic Server across hybrid infrastructures. With BYOL support, you can track licenses for your Oracle Database and WebLogic Server in both on-premise and public cloud environments. For more information about Oracle BYOL support, see [Bring your own license or subscription to the public cloud](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/byol-concepts.md).
 
@@ -45,6 +45,3 @@ For more information on Oracle databases and WebLogic servers in Microsoft Azure
 
 **Parent Topic:**[Software Asset Management publisher pack for Oracle](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/oracle-publisher-pack.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

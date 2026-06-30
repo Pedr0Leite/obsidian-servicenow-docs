@@ -24,7 +24,7 @@ Shift-based scheduling enables you to address these challenges by using the shif
 
 ## How shift-based scheduling works
 
-When you [[create-shift-based-schedule|create a shift-based schedule plan]], the system follows a shift-first logic to generate tasks:
+When you create a shift-based schedule plan, the system follows a shift-first logic to generate tasks:
 
 1.  Shift selection: You select which shifts the schedule applies to. The available shifts are determined by the industrial shift configuration associated with the functional location of the manufacturing standard. The shift selection is positioned at the top of the custom schedule modal, so you define whether the schedule is shift-based before setting up the recurrence pattern.
 2.  Start date: You specify the date from which the schedule begins releasing tasks. You do not need to specify a time. The system uses the shift start times to determine when tasks are released.
@@ -79,6 +79,3 @@ The system automatically generates inspection tasks for each shift on each sched
 
 **Parent Topic:**[Exploring Industrial Standards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/industrial-standards-landing-page.md)
 
-## Related
-
-- [[create-shift-based-schedule|Create a shift-based schedule plan]]

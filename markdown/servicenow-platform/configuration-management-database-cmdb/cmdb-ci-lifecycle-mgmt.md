@@ -72,13 +72,13 @@ CI Lifecycle Management provides a set of APIs to manage CI operational state an
 
 ## Registering requestors
 
-When using the [[state_mgmt-api|lifecycle management APIs]] to apply CI actions, requestors are required to be registered and to obtain a requestor ID which is unique within the lifecycle management tables. To register and to obtain a requestor ID, non-workflow users should call the **registerOperator** API. Workflow users can use the active Workflow context as the requestor ID, and they do not need to explicitly call registerOperator.
+When using the lifecycle management APIs to apply CI actions, requestors are required to be registered and to obtain a requestor ID which is unique within the lifecycle management tables. To register and to obtain a requestor ID, non-workflow users should call the **registerOperator** API. Workflow users can use the active Workflow context as the requestor ID, and they do not need to explicitly call registerOperator.
 
 After completing the CI lifecycle operations, the requestor should call the unregisterOperator API to unregister. All the state management records associated with that specific requestor ID are then marked as inactive or they are removed by the **CI Lifecycle Management — Restore Internal State Management Tables** scheduled job.
 
 ## Integration with Incident Management and Problem Management
 
-A base instance includes the pre-defined CI action **CreateTask** used for creating a task for a CI. New instances have a pre-defined Not Allowed CI Action, specifying that the 'CreateTask' action is not allowed for any CI with a **Retired** operational state. This restriction is integrated with Incident Management and with Problem Management to prevent the creation of incident or problem tasks for retired CIs. The 'CreateTask' CI action is used as a [[reference|reference]] qualifier to the **Configuration Item** field of the Incident/Problem tables. In a new incident or problem, CIs in which **Operational Status** is 'Retired' — are filtered out from the **Configuration Item** list on the form. For more information about reference qualifiers, see [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) .
+A base instance includes the pre-defined CI action **CreateTask** used for creating a task for a CI. New instances have a pre-defined Not Allowed CI Action, specifying that the 'CreateTask' action is not allowed for any CI with a **Retired** operational state. This restriction is integrated with Incident Management and with Problem Management to prevent the creation of incident or problem tasks for retired CIs. The 'CreateTask' CI action is used as a reference qualifier to the **Configuration Item** field of the Incident/Problem tables. In a new incident or problem, CIs in which **Operational Status** is 'Retired' — are filtered out from the **Configuration Item** list on the form. For more information about reference qualifiers, see [Reference qualifiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ReferenceQualifiers.md) .
 
 ## Integration with Asset Management
 
@@ -115,7 +115,3 @@ Define a restriction for CI Lifecycle Management in which a specified CI cannot 
 
 **Parent Topic:**[Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_ITILConfigurationManagement.md)
 
-## Related
-
-- [[state_mgmt-api|Lifecycle management APIs]]
-- [[reference|Reference]]

@@ -18,7 +18,7 @@ Proactive Engagement assists organizations to improve employee productivity and 
 
 ## Proactive Engagement overview
 
-[[proactive-engagement-solution|Proactive Engagement solution]] provides a self-resolution remediation process. Proactive Engagement eliminates the need for publishing all solution sets.
+Proactive Engagement solution provides a self-resolution remediation process. Proactive Engagement eliminates the need for publishing all solution sets.
 
 Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) website to view all the available apps and for information about submitting requests to the store. For cumulative release notes information for all released apps, see the [ServiceNow Store version history release notes](https://www.servicenow.com/docs/bundle/store-release-notes/page/release-notes/store/sn-store-release-notes.html).
 
@@ -38,7 +38,7 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) 
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information about Proactive Engagement.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-[[reference-for-itsm-mobile-agent|reference]].md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get additional information about Proactive Engagement.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/proactive-engagement/proactive-engagement-reference.md)
 
 </td></tr></tbody>
 </table>## Troubleshoot and get help
@@ -47,7 +47,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do) 
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[proactive-engagement-solution|Proactive Engagement solution]]
-- [[reference-for-itsm-mobile-agent|Reference]]

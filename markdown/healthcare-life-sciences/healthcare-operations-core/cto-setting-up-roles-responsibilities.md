@@ -14,7 +14,7 @@ breadcrumb: [Configure, Healthcare Operations Core, Healthcare Operations, Healt
 
 # Setting up roles and responsibilities for Healthcare Operations users
 
-To manage access effectively in [[hcls-cto-app|Healthcare Operations Core]] \(HCO\), first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for HCO-specific use cases.
+To manage access effectively in Healthcare Operations Core \(HCO\), first understand how roles and responsibilities work together. These concepts build on the Service Model Foundation \(SMF\) but are adapted for HCO-specific use cases.
 
 ## Roles
 
@@ -26,7 +26,7 @@ Example: The `sn_hco.care_team_member` role enables you to work with HCO cases.
 
 Responsibilities control record-level access within tables. Even if your role grants access to a table, responsibilities decide which specific records you can view or edit.
 
-Responsibilities in HCO are based on Service Model Foundation responsibilities, but adapted \(relabeled\) for [[healthcare-operations-overview|healthcare operations]] using Related Party Configurations.
+Responsibilities in HCO are based on Service Model Foundation responsibilities, but adapted \(relabeled\) for healthcare operations using Related Party Configurations.
 
 Example: The Care Team Member responsibility limits your access to cases for healthcare organizations that you’re a member of.
 
@@ -62,7 +62,3 @@ Result: You can work on HCO cases related to that ICU, but can’t view cases fo
 -   [Assign roles to Healthcare Operations Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/assign-roles-cto-users.md)
 -   [Assign responsibilities to Healthcare Operations Core users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/healthcare-operations-core/hco-assign-responsibilities.md)
 
-## Related
-
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[healthcare-operations-overview|Healthcare Operations]]

@@ -47,8 +47,5 @@ Role required: admin
 5.  Select **Submit** to save your button.
 
 
-**Parent Topic:**[[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]
+**Parent Topic:**[Configuring Now Assist for Mobile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configuring-now-assist-mobile.md)
 
-## Related
-
-- [[configuring-now-assist-mobile|Configuring Now Assist for Mobile]]

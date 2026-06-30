@@ -12,7 +12,7 @@ breadcrumb: [Using playbooks, Automate and optimize, Use, Customer Service Manag
 
 # Viewing dynamic related records in the contextual side panel
 
-Customer service agents can view [[csm-contextual-related-records|dynamic related records]] in the contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]]. This feature displays related records that dynamically change based on the context of the current record or playbook activity.
+Customer service agents can view dynamic related records in the contextual side panel in CSM Configurable Workspace. This feature displays related records that dynamically change based on the context of the current record or playbook activity.
 
 Agents can view, search, and sort the records in the Related Records tab in the contextual side panel. These records appear in the Related Records tab as read-only cards.
 
@@ -27,11 +27,11 @@ Depending on the related record configuration for the source record or playbook 
 -   Emails
 -   Escalations for the case or customer \(account and contact or consumer\).
 -   Blocked By
--   [[sold-product|Sold Products]]
--   [[install-base-item|Install Base Items]]
+-   Sold Products
+-   Install Base Items
 -   Active Contracts
 -   Active Entitlements
--   [[c_OnScreenAlerts|Special Handling Notes]]
+-   Special Handling Notes
 -   Tasks
 
 <table id="table_dyn_rel_records_in_side_panel"><thead><tr><th>
@@ -63,7 +63,7 @@ Use the filter at the top of the Related Records list to select the type of rela
 1.  Click the Filter icon \(\[Omitted image "dynamic-related-records-filter-icon.png"\] Alt text: Filter icon.\).
 2.  Select a record type from the drop-down menu.
 
- The drop-down menu includes the related [[migration-lists|lists]] that have been configured for the parent record.
+ The drop-down menu includes the related lists that have been configured for the parent record.
 
 </td></tr><tr><td>
 
@@ -109,29 +109,15 @@ Create a new record for the record type currently selected in the Related Record
 </table>**Related topics**  
 
 
-[[csm-playbook-filter-activities|Filter playbook activities]]
+[Filter playbook activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-filter-activities.md)
 
-[[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
+[Using the activity stream in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-using-activity-stream.md)
 
-[[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
+[Viewing ribbon information in the contextual side panel](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbooks-viewing-ribbon-info.md)
 
-[[using-customized-playbook-experience-for-customer-service-management|Add an optional activity]]
+[Add an optional activity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/using-customized-playbook-experience-for-customer-service-management.md)
 
-[[case-summarization-in-process-page|Summarize a case]]
+[Summarize a case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/case-summarization-in-process-page.md)
 
-[[csm-playbook-create-record|Create a record using a playbook]]
+[Create a record using a playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-playbook-create-record.md)
 
-## Related
-
-- [[csm-playbook-filter-activities|Filter playbook activities]]
-- [[csm-playbooks-using-activity-stream|Using the activity stream in the contextual side panel]]
-- [[csm-playbooks-viewing-ribbon-info|Viewing ribbon information in the contextual side panel]]
-- [[using-customized-playbook-experience-for-customer-service-management|Add an optional activity]]
-- [[case-summarization-in-process-page|Summarize a case]]
-- [[csm-playbook-create-record|Create a record using a playbook]]
-- [[csm-contextual-related-records|Dynamic related records]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[sold-product|Sold products]]
-- [[install-base-item|Install base items]]
-- [[c_OnScreenAlerts|Special handling notes]]
-- [[migration-lists|Lists]]

@@ -16,7 +16,7 @@ breadcrumb: [ServiceNow for Zoom, Unified Employee Experience, Employee Service 
 
 Collaboration services for Zoom provides employees with seamless self-service without leaving the Zoom client and enables agents to resolve their task records faster.
 
-Collaboration services for Zoom is pre-integrated with IT Service Management. It can also be integrated with [[hr-service-delivery|HR Service Delivery]] and other Enterprise Service Management applications.
+Collaboration services for Zoom is pre-integrated with IT Service Management. It can also be integrated with HR Service Delivery and other Enterprise Service Management applications.
 
 ## Collaboration services for Zoom Team Chat
 
@@ -32,6 +32,3 @@ Collaboration services for Zoom helps employees to interact with agents and reso
 
 **Parent Topic:**[ServiceNow for Zoom](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/sn_zoomIntegration.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]

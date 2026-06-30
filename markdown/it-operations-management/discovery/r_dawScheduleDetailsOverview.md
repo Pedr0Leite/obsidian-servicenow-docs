@@ -14,7 +14,7 @@ breadcrumb: [Discovery Admin Workspace reference, Discovery reference, Discovery
 
 # Discovery Admin Workspace data visualizations
 
-The **Overview** tab includes visualizations that provide detailed information about the [[r-discovery|Discovery]] schedule. These visualizations offer a comprehensive view of the schedule performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered.
+The **Overview** tab includes visualizations that provide detailed information about the Discovery schedule. These visualizations offer a comprehensive view of the schedule performance and status, showing key metrics like the number of discoveries completed, success rate, and any errors encountered.
 
 <table id="table_cb2_yjv_fsb"><thead><tr><th>
 
@@ -139,6 +139,3 @@ Run time trends for this Discovery schedule across the statuses listed in Run Hi
 </td></tr></tbody>
 </table>**Parent Topic:**[Discovery Admin Workspace reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/r_discovery-admin-workspace-reference.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

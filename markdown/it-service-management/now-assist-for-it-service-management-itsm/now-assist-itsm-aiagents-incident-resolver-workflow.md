@@ -25,7 +25,7 @@ Using the Investigate and resolve ITSM incidents agentic workflow:
 2.  Check for Knowledge articles and similar incidents.
 3.  Get recommended steps for incident resolution.
 
-To modify the Investigate and resolve ITSM incidents agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the [[settings-mobile|settings]] according to your requirements.
+To modify the Investigate and resolve ITSM incidents agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 **Important:** When you modify an agentic workflow, AI agent, or a tool, make sure that you update all instructions accordingly.
 
@@ -116,6 +116,4 @@ As a user, do the following in the Now Assist panel:
 
     \[Omitted image "now-assist-itsm-inv-resol-nap-plan-comment.png"\] Alt text: Now Assist for ITSM Investigate and Resolve ITSM incidents workflow plan comments
 
-## Related
 
-- [[settings-mobile|Settings]]

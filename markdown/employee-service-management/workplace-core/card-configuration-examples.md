@@ -16,7 +16,7 @@ breadcrumb: [Reference, Workplace Core, Workplace Service Delivery, Employee Ser
 
 Add buttons, fields, and sections to the workplace card configuration.
 
-**Note:** The following examples are to customize the card configurations in [[workplace-safety-mgmt-hr|Workplace Core]]. For more information about configuring the cards, see [Configure a workplace card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-card.md).
+**Note:** The following examples are to customize the card configurations in Workplace Core. For more information about configuring the cards, see [Configure a workplace card](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/configure-workplace-card.md).
 
 ## Customizing the card style
 
@@ -173,6 +173,3 @@ After hiding the element, make sure that you remove the custom logic, or surroun
 
 [Reserve a space form]()
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]

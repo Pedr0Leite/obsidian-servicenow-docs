@@ -44,7 +44,7 @@ Role required: admin
 
 11. Select **Update**.
 
-    The [[migration-utility|migration utility]] supports MRA and interceptor declarative actions of UI Component type only.
+    The migration utility supports MRA and interceptor declarative actions of UI Component type only.
 
 12. For MRA, create an action payload as specified below, update the values in action attributes with component attributes of ITSM Agent Workspace declarative action.
 
@@ -104,7 +104,7 @@ Role required: admin
     } 
     ```
 
-14. Add an add-on event mapping to the [[migrated-records|migrated]] declarative action.
+14. Add an add-on event mapping to the migrated declarative action.
 
     Find the matching declarative action in SOW and add all the add-on event mapping to the migrated declarative action. Use the following steps to find the equivalent declarative action in SOW.
 
@@ -133,7 +133,3 @@ Role required: admin
 
 **Parent Topic:**[Migration of Related list declarative actions from ITSM Agent Workspace to Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/related-list-declarative-actions-aw-sow.md)
 
-## Related
-
-- [[migration-utility|Migration Utility]]
-- [[migrated-records|Migrated]]

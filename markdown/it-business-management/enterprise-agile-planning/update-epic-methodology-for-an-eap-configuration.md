@@ -18,7 +18,7 @@ Change the epic methodology of your Enterprise Agile Planning configuration to S
 
 ## Before you begin
 
-Set the Application Scope of your ServiceNow instance to [[alignment-planner-workspace-landing-page|Strategic Planning]].
+Set the Application Scope of your ServiceNow instance to Strategic Planning.
 
 Role required: sn\_apw\_advanced.eap\_admin
 
@@ -40,6 +40,4 @@ By default, the epic methodology for an EAP configuration is set to **SAFe** and
 
     If the Epic methodology column is not displayed in your ServiceNow instance, personalize the column settings using the Update Personalized List icon \(\[Omitted image "eap-personalize-list.png"\] Alt text: Update Personalized List icon\) from the list header.
 
-## Related
 
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

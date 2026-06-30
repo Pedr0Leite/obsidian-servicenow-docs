@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management for Data Center and Network Asset Manag
 
 # Critical Environment Asset Workspace
 
-The Critical Environment Asset Workspace is the intuitive and streamlined user interface of the [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]] application.
+The Critical Environment Asset Workspace is the intuitive and streamlined user interface of the Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\) application.
 
 ## Critical Environment Asset Workspace landscape
 
@@ -69,13 +69,13 @@ Inventory
 
 </td><td>
 
-View and manage the inventory and [[c_Stockrooms|stockrooms]] for your facility-based enterprise assets and linear assets.
+View and manage the inventory and stockrooms for your facility-based enterprise assets and linear assets.
 
 </td><td>
 
 -   **Overview**
 -   **All stockrooms**
--   **[[c_StockRules|Stock rules]]**
+-   **Stock rules**
 -   **Transfer orders**
 -   **Asset audits**
 -   **Loaner asset orders**
@@ -119,7 +119,7 @@ Critical Environment model management
 
 </td><td>
 
-View, create, and manage facility-based enterprise [[c_Models|models]].
+View, create, and manage facility-based enterprise models.
 
 </td><td>
 
@@ -130,7 +130,7 @@ View, create, and manage facility-based enterprise [[c_Models|models]].
 
 </td></tr><tr><td>
 
-[[c_Procurement|Procurement]]
+Procurement
 
 </td><td>
 
@@ -152,7 +152,7 @@ Contract and lease management
 
 </td><td>
 
-View, create, and manage [[c_Contracts|contracts]] for your facility-based enterprise assets and linear assets.
+View, create, and manage contracts for your facility-based enterprise assets and linear assets.
 
 </td><td>
 
@@ -166,7 +166,7 @@ View, create, and manage [[c_Contracts|contracts]] for your facility-based enter
 -   **My contracts**
 -   **My contract tasks**
 -   **My contract approvals**
--   **[[c_TermsAndConditions|Terms and conditions]]**
+-   **Terms and conditions**
 
 </td></tr><tr><td>
 
@@ -176,7 +176,7 @@ Asset operations
 
 Track and manage shipments, stockroom receiving, onboarding, move orders, and calculated model life-cycle templates.
 
- If you have installed the [[eam-providers|Enterprise Asset Management for Providers]] application on your ServiceNow instance, you can also track and manage provider-based RMA response orders and inbound asset orders for [[exploring-daas|Device as a Service]] \(DaaS\) assets.
+ If you have installed the Enterprise Asset Management for Providers application on your ServiceNow instance, you can also track and manage provider-based RMA response orders and inbound asset orders for Device as a Service \(DaaS\) assets.
 
 </td><td>
 
@@ -223,12 +223,12 @@ Perform configuration and administrative tasks, including bulk imports and model
 </td><td>
 
 -   **Model and asset tabs**
--   **[[model-hierarchy|Model categories]]**
+-   **Model categories**
 -   **Model classifications**
 -   **Failure and resolution**
 -   **Site configuration**
 -   **Linear asset types**
--   **[[r_StockroomTypes|Stockroom types]]**
+-   **Stockroom types**
 -   **Bulk import**
 -   **Roles-to-class access**
 -   **Workflow assignments**
@@ -241,23 +241,9 @@ Perform configuration and administrative tasks, including bulk imports and model
 -   **Shipping**
 -   **Asset knowledge base**
 -   **Normalization opt-in**
--   **[[c_ProductCatalog|Product catalog]]**
+-   **Product catalog**
 -   **Reference lists**
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-dcnam.md)
 
-## Related
-
-- [[eam-dcnam|Enterprise Asset Management for Data Center and Network Asset Management \(DCNAM\)]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_StockRules|Stock rules]]
-- [[c_Models|Models]]
-- [[c_Procurement|Procurement]]
-- [[c_Contracts|Contracts]]
-- [[c_TermsAndConditions|Terms and conditions]]
-- [[eam-providers|Enterprise Asset Management for Providers]]
-- [[exploring-daas|Device as a Service]]
-- [[model-hierarchy|Model categories]]
-- [[r_StockroomTypes|Stockroom types]]
-- [[c_ProductCatalog|Product Catalog]]

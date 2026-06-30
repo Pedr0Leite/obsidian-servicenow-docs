@@ -48,7 +48,7 @@ You can follow the official AWS documentation for creating and managing IAM user
 -   [Creating IAM Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create-console.html)
 -   [Amazon S3 Permissions](https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-iam.html)
 
-**Note:** Using the above links, you can learn more on the detailed instructions and further options for managing IAM users and S3 permissions in AWS, also how to create an IAM user in your AWS account - AWS [[identity|Identity]] and Access Management, and the basic overview of the process used to create an IAM user and credentials in AWS Identity and Access Management.
+**Note:** Using the above links, you can learn more on the detailed instructions and further options for managing IAM users and S3 permissions in AWS, also how to create an IAM user in your AWS account - AWS Identity and Access Management, and the basic overview of the process used to create an IAM user and credentials in AWS Identity and Access Management.
 
 </td></tr><tr><td>
 
@@ -57,14 +57,9 @@ Verify that ServiceNow® core application that is required to support the ICAP D
 </td><td>
 
 Verify that the following DLP applications and security support common applications are installed and activated from ServiceNow Store. If not installed, install, and activate on application.-   Security Support Common
--   [[case-mgmt|Security Case Management]] common workspace components.
--   [[dlp-landing|Data Loss Prevention Incident Response]]
+-   Security Case Management common workspace components.
+-   Data Loss Prevention Incident Response
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Internet Content Adaption Protocol \(ICAP\) integration for DLP IR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/data-loss-prevention/icap-dlp-integration.md)
 
-## Related
-
-- [[identity|Identity]]
-- [[case-mgmt|Security Case Management]]
-- [[dlp-landing|Data Loss Prevention Incident Response]]

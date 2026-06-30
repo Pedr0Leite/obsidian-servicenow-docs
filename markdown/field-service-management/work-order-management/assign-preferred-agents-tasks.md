@@ -20,15 +20,15 @@ Specify the technician assignment preference for a task, indicating whether a te
 
 Role required: wm\_dispatcher, wm\_manager, wm\_admin
 
-If you’re using Technician Preferences for [[dynamic-scheduling|Dynamic Scheduling]], then you must have the **Prioritize preferred and secondary technicians** criterion added to your task filter to add preferred technicians. For more information, see [Example - configure dynamic scheduling to assign preferred technicians to tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/excluded-preferred-agents.md).
+If you’re using Technician Preferences for Dynamic Scheduling, then you must have the **Prioritize preferred and secondary technicians** criterion added to your task filter to add preferred technicians. For more information, see [Example - configure dynamic scheduling to assign preferred technicians to tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/excluded-preferred-agents.md).
 
-If you're using Technician Preferences for [[schedule-optimization|Schedule Optimization]] then your administrator must [Configure the policy to assign preferred technicians to tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-the-policy-to-assign-preferred-technicians-to-tasks.md).
+If you're using Technician Preferences for Schedule Optimization then your administrator must [Configure the policy to assign preferred technicians to tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-the-policy-to-assign-preferred-technicians-to-tasks.md).
 
 ## About this task
 
 The system copies account preferences from the 'wm\_agent\_assignment\_preferences' table to the 'wm\_task\_tech\_preference' table whenever the account field on a WOT is updated. If the task is already created and the account information is added later, the system also copies the data into the task preferences table from the account agent preferences if they are maintained.
 
-Technician Preferences are used by Dynamic Scheduling, and Schedule Optimization. With dynamic scheduling, technician preferences are considered when you assign the task in [[dispatcher-activities|Dispatcher Workspace]], or when you auto-assign the task. With Schedule Optimization, the technician preferences are considered when the optimization engine auto-assigns tasks.
+Technician Preferences are used by Dynamic Scheduling, and Schedule Optimization. With dynamic scheduling, technician preferences are considered when you assign the task in Dispatcher Workspace, or when you auto-assign the task. With Schedule Optimization, the technician preferences are considered when the optimization engine auto-assigns tasks.
 
 ## Procedure
 
@@ -95,8 +95,3 @@ Required is only used by Schedule Optimization.
 
 [Exclude Field Service technicians from being assigned work order tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/exclude-agents-from-being-assigned-tasks.md)
 
-## Related
-
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[schedule-optimization|Schedule Optimization]]
-- [[dispatcher-activities|Dispatcher Workspace]]

@@ -14,20 +14,20 @@ breadcrumb: [Explore, Industrial Workspace, Operational Technology]
 
 # Operational Technology Progress Scorecard
 
-The [[operational-technology-overview|Operational Technology]] \(OT\) Progress Scorecard lets you compare device and vulnerable item data between your sites.
+The Operational Technology \(OT\) Progress Scorecard lets you compare device and vulnerable item data between your sites.
 
 ## OT Progress Scorecard overview
 
-The OT Progress Scorecard is a centralized location in the [[industrial-workspace-for-operational-technology|Industrial Workspace]] that lets you compare your site data. Site data includes both OT device data and vulnerability data. With the OT Progress Scorecard, you can track site progress and determine the sites that need attention.
+The OT Progress Scorecard is a centralized location in the Industrial Workspace that lets you compare your site data. Site data includes both OT device data and vulnerability data. With the OT Progress Scorecard, you can track site progress and determine the sites that need attention.
 
 You can also view the site data for the following Operational Technology applications:
 
--   [[operational-technology-manager|Operational Technology Manager]]
--   [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
--   [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
--   [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
+-   Operational Technology Manager
+-   Operational Technology Vulnerability Response
+-   Operational Technology Incident Management
+-   Operational Technology Change Management
 
-You can configure the OT Progress Scorecard [[using-industrial-workspace|using the Industrial Workspace]] Admin Guided Setup. For more information about the setup tasks, see [Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md).
+You can configure the OT Progress Scorecard using the Industrial Workspace Admin Guided Setup. For more information about the setup tasks, see [Setting up the Operational Technology Progress Scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/setting-up-the-ot-progress-scorecard.md).
 
 ## Scorecard contents
 
@@ -146,12 +146,3 @@ The percentage of OT incidents that have OT device or equipment model data.**Not
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/exploring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]
-- [[operational-technology-incident-management-landing-page|Operational Technology Incident Management]]
-- [[operational-technology-change-management-landing-page|Operational Technology Change Management]]
-- [[using-industrial-workspace|Using the Industrial Workspace]]

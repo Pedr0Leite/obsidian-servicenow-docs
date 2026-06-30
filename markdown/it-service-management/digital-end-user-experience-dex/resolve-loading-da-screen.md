@@ -20,7 +20,7 @@ The DEX Desktop Assistant screen is empty or in a continuously loading state.
 
 ## Cause
 
-The DEX Desktop Assistant is not loading because the user is not a valid DEX user or the [[settings-mobile|settings]].json file is corrupted.
+The DEX Desktop Assistant is not loading because the user is not a valid DEX user or the settings.json file is corrupted.
 
 ## Resolution
 
@@ -41,6 +41,3 @@ The DEX Desktop Assistant is not loading because the user is not a valid DEX use
 
 **Parent Topic:**[DEX Desktop Assistant reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-desktop-experience-reference.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

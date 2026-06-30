@@ -18,13 +18,13 @@ The Files Compare activity compares two files on a Linux or UNIX computer.
 
 This activity replaces an SSH activity by the same name available in releases prior to Geneva. If you have a workflow created in a previous version that uses the deprecated activity, your workflow will continue to work normally after upgrading to Geneva. However, all new workflows must use the custom version of this activity. This activity was built with the [SSH activity designer template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/t_CreateAnSSHActivity.md), which gives workflow administrators the ability to store input and output variables in the [databus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationDatabus.md).
 
-To access this activity in the [[workflow-editor|Workflow Editor]], select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Global** &gt; **Orchestration - SSH**.
+To access this activity in the Workflow Editor, select the **Custom** tab, and then navigate to **Custom Activities** &gt; **Global** &gt; **Orchestration - SSH**.
 
 ## Input variables
 
 |Input variable|Description|
 |--------------|-----------|
-|Hostname|Hostname or [[ip-address|IP address]] of the destination server for SSH activity.|
+|Hostname|Hostname or IP address of the destination server for SSH activity.|
 |Directory|Name of the working directory.|
 |OldFile|Name of the first file to compare.|
 |NewFile|Name of the second file to compare.|
@@ -45,7 +45,3 @@ To access this activity in the [[workflow-editor|Workflow Editor]], select the *
 |Success|Activity successfully compared the specified files.|
 |Failure|Activity could not complare the specified files.|
 
-## Related
-
-- [[workflow-editor|Workflow editor]]
-- [[ip-address|IP Address]]

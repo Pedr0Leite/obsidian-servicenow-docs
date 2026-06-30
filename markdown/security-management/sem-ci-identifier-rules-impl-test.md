@@ -39,7 +39,7 @@ If rules aren’t carefully constructed, importing security exposure data can be
 -   Remove Test Data
     -   Once you begin to observe the correct or expected behavior in CI matching, start over.
     -   Start over by: Deleting the data used for testing: \(see the **Deleting data from tables** section\)
-        -   [[cj-discovered-items|Discovered Items]]
+        -   Discovered Items
         -   Vulnerable Items
         -   Remediation tasks
     -   Manually rerunning all the CI Matching rules.
@@ -65,9 +65,5 @@ There are four options for deleting data from tables:
     **Note:** Never use **truncateTable** in a production environment. Consult you Support representative before executing large deletions in production or shared environments.
 
 
-**Parent Topic:**[[sem-associate-finding-configuration-item-using-lookup-rules|Associating finding with a configuration item using lookup rules]]
+**Parent Topic:**[Associating finding with a configuration item using lookup rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-associate-finding-configuration-item-using-lookup-rules.md)
 
-## Related
-
-- [[sem-associate-finding-configuration-item-using-lookup-rules|Associating finding with a configuration item using lookup rules]]
-- [[cj-discovered-items|Discovered Items]]

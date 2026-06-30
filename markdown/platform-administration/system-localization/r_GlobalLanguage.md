@@ -28,7 +28,7 @@ This property defines the language that users with a role see if a language is n
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **[[system-localization-landing|System Localization]]**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **System Localization**.
 
 2.  In the **Default language for the system \(two character values\)** field, enter a two-character language code.
 
@@ -38,7 +38,4 @@ This property defines the language that users with a role see if a language is n
 
 3.  Select **Save**.
 
-## Related
 
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]

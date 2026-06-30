@@ -14,7 +14,7 @@ breadcrumb: [Discovery setup, Configuring Discovery, Discovery, ITOM Visibility,
 
 # Discovery Guided Setup
 
-ITOM Discovery Guided Setup provides a sequence of tasks that help you install and get started with [[r-discovery|Discovery]]. If you're setting up Discovery for the first time, this is a good way to get your environment up and running quickly.
+ITOM Discovery Guided Setup provides a sequence of tasks that help you install and get started with Discovery. If you're setting up Discovery for the first time, this is a good way to get your environment up and running quickly.
 
 **Note:** This guided setup has been replaced by the ITOM Configuration Console \(available in Zurich Patch 8 or later versions of the ServiceNow AI Platform\), which offers a faster way to install and update apps, with interactive configuration pages, task assignment, and automated implementation by Now Assist. In ITOM Guided Setup v27.3.1, the Learn phase includes a new task that provides direct access to the ITOM Configuration Console. For more information, see [ITOM Configuration Console for Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/itom-conf-console.md).
 
@@ -40,7 +40,7 @@ The setup is organized into the four distinct phases: Learn, Crawl, Walk, and Ru
 
 -   **Run**
 
-    This phase focuses on monitoring and optimizing ongoing Discovery operations, leveraging tools like [[discovery-admin-workspace|Discovery Admin Workspace]] and Content 360 to track performance and promote continued success.
+    This phase focuses on monitoring and optimizing ongoing Discovery operations, leveraging tools like Discovery Admin Workspace and Content 360 to track performance and promote continued success.
 
 
 ## Key features
@@ -119,7 +119,3 @@ View and access tasks within another phase.
 |5. Mark Complete|Track your progress and continue to the next activity in the phase.|
 |6. Skip|Skip directly to the next activity in the phase.|
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[discovery-admin-workspace|Discovery Admin Workspace]]

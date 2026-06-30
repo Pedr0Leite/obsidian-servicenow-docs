@@ -16,7 +16,7 @@ breadcrumb: [Cloud Admin Portal, Cloud Provisioning and Governance administratio
 
 Tags categorize cloud resources to provide richer and more detailed tracking and billing report data.
 
-Create tags to enable [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] to automatically categorize cloud resources after they are provisioned. Each tag associates a specific `key:value` pair with a requested cloud resource, such as `Application=HRMS`.
+Create tags to enable Cloud Provisioning and Governance to automatically categorize cloud resources after they are provisioned. Each tag associates a specific `key:value` pair with a requested cloud resource, such as `Application=HRMS`.
 
 After the cloud resource is provisioned, the key:value information in tags become part of the resource's metadata and are saved along with all other parameters about the resource. Because a cloud resource can have multiple tags, you can view cost items from multiple perspectives.
 
@@ -94,7 +94,7 @@ If a resource was provisioned prior to the existence of a particular tag, then t
 
 ### Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Analyze** &gt; **Tag** &gt; **Tag Management** &gt; **Tag Definitions**.
+1.  In the Cloud Admin Portal, navigate to **Analyze** &gt; **Tag** &gt; **Tag Management** &gt; **Tag Definitions**.
 
 2.  Select **New**.
 
@@ -177,7 +177,7 @@ Configure user-defined tags to view and analyze billing data using custom tags e
 
 ### Before you begin
 
--   Perform cloud [[r-discovery|discovery]] in Cloud Provisioning and Governance for provisioned resources.
+-   Perform cloud discovery in Cloud Provisioning and Governance for provisioned resources.
 -   Run a billing download job for the associated service account.
 
 Role required: Resource Policy Contributor role in Azure Service account and sn\_cmp.cloud\_admin in the instance.
@@ -229,8 +229,3 @@ Provisioned resources with existing tags are discovered as part of Cloud discove
 
 [View cloud costs on the Billing dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-dashboards.md).
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]
-- [[r-discovery|Discovery]]

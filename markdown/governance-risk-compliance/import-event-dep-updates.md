@@ -12,11 +12,11 @@ breadcrumb: [Structured workflows for Exercises, Manage, Business Continuity Man
 
 # Adding dependencies of impacted assets
 
-You can add the dependencies of the impacted assets in the events and [[exercise-management-uib|exercises]] based on the source data and relationships in the CMDB, BIAs, and plans.
+You can add the dependencies of the impacted assets in the events and exercises based on the source data and relationships in the CMDB, BIAs, and plans.
 
 ## Configuring the sources in the Event dependency source configuration module
 
-The BCM administrators can configure the sources to get the event dependencies in the Event dependency source configuration module. You can access the Event dependency source configuration module from the [[Administration|Administration]] menu in the Core UI.
+The BCM administrators can configure the sources to get the event dependencies in the Event dependency source configuration module. You can access the Event dependency source configuration module from the Administration menu in the Core UI.
 
 The Event dependency source configuration module is shown in the example.\[Omitted image "event-dep-update-config.png"\] Alt text: Updating the Event dependencies.
 
@@ -34,7 +34,7 @@ Dependencies are added in the events only when the user selects the **Update dep
 
 Setting up the Event dependency source configuration module is a one-time activity. Once the sources are configured in the Event dependency source configuration module, the updates are synchronized in the events.
 
-For more information on setting up the Event dependency source configuration module, see [[conf-event-dep-source-confi-module|Configure Event dependency source configuration record]].
+For more information on setting up the Event dependency source configuration module, see [Configure Event dependency source configuration record](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/conf-event-dep-source-confi-module.md).
 
 ## Roles associated with event dependency updates
 
@@ -58,21 +58,13 @@ The BCM application executes a workflow to update the impacted assets in the eve
 4.  If the event record matches any configuration filter, the system gets the dependencies of the added assets in real time according to the sources defined in the configuration \(Event dependency source configuration module\).
 5.  If the event record does not match any configuration filter, the events workflow then continues for the next steps.
 
-For more information on updating the event dependencies manually, see [[update-event-dep-manually|Update the event dependencies]].
+For more information on updating the event dependencies manually, see [Update the event dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-event-dep-manually.md).
 
 ## Data Relationships Framework
 
 Beginning with the Australia release, the Data Relationships Framework \(com.sn\_app\_grc\_relationship\_config\) application supports the BCM application with the underlying framework to add the dependencies of the impacted assets in the events and exercises. The Data Relationships Framework application is installed with the BCM application by default.
 
-For more information on the Data Relationships Framework, see [[data-relationship-framework|Data Relationships Framework]].
+For more information on the Data Relationships Framework, see [Data Relationships Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/data-relationship-framework.md).
 
-**Parent Topic:**[[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
+**Parent Topic:**[Structured workflows for Exercises](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/performing-tasks-to-manage-exercise-events.md)
 
-## Related
-
-- [[conf-event-dep-source-confi-module|Configure Event dependency source configuration record]]
-- [[update-event-dep-manually|Update the event dependencies]]
-- [[data-relationship-framework|Data Relationships Framework]]
-- [[performing-tasks-to-manage-exercise-events|Structured workflows for Exercises]]
-- [[exercise-management-uib|Exercises]]
-- [[Administration|Administration]]

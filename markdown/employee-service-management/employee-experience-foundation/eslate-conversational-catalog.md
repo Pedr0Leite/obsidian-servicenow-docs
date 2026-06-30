@@ -14,7 +14,7 @@ breadcrumb: [Employee Slate home, Employee Slate, Unified Employee Experience, E
 
 # Conversation-first catalog and knowledge
 
-The chat in [[employee-slate-landing-page|Employee Slate]] resolves plain-language requests to catalog items and knowledge articles. Employees submit requests and get answers without knowing the exact item or article name.
+The chat in Employee Slate resolves plain-language requests to catalog items and knowledge articles. Employees submit requests and get answers without knowing the exact item or article name.
 
 Based on your query, the chat identifies the correct catalog item or knowledge article. You can open it in a split view. The chat performs the following actions:
 
@@ -29,7 +29,7 @@ When an employee describes a need, the chat identifies the matching catalog item
 -   When the employee selects the item, the catalog form opens alongside the chat.
 -   The chat completes the user intent through slot filling or by extracting specific information using both the current message and conversation context.
 -   To submit a request, the employee completes the form, selects order, reviews the details, and selects **Checkout**.
--   The submitted request appears in the chat response and in [[emp-slate-inbox|Tasks and requests]].
+-   The submitted request appears in the chat response and in Tasks and requests.
 
 ## Chat assistance for knowledge
 
@@ -41,7 +41,3 @@ Employees enter policy or procedural questions in plain language. The chat retur
 
 Follow-up answers stay grounded in the source article. Employees review specific clauses without scanning the entire document. For example, an employee can check whether a relocation policy covers attorney fees.
 
-## Related
-
-- [[employee-slate-landing-page|Employee Slate]]
-- [[emp-slate-inbox|Tasks and requests]]

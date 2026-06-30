@@ -17,7 +17,7 @@ The Security Exposure Management Workspace provides a unified, role-based enviro
 
 ## Security Exposure Management Workspace benefits
 
-The workspace provides multiple views designed for specific workflows, such as prioritizing critical issues, approving exceptions, managing remediation plans, and configuring automation, all in one place, without switching [[tools|tools]] or interfaces.
+The workspace provides multiple views designed for specific workflows, such as prioritizing critical issues, approving exceptions, managing remediation plans, and configuring automation, all in one place, without switching tools or interfaces.
 
 In the workspace, you can:
 
@@ -34,13 +34,13 @@ Each view in the Security Exposure Management Workspace is designed for a specif
 
 |View|Key Functions|Primary users|Key Actions|
 |----|-------------|-------------|-----------|
-|[[sem-findings-view|Finding view]]|Gain a clear, real-time understanding of your exposure landscape through dashboards that surface risks and insight-driven priorities|Security analysts|Explore default or custom dashboards, drill into detailed findings, initiate remediation activities, and use Now Assist insights to prioritize critical issues and respond faster|
-|[[sem-watch-topic|Watch Topics]]|Continuously track and monitor specific high-priority vulnerability categories that require ongoing attention or strategic focus|Threat analysts, CISOs, Vulnerability managers|Create and refine watch topics, monitor trends and severity changes, evaluate business impact, trigger remediation efforts when thresholds are met|
-|[[sem-workspaces-ui-remediation-module|Remediation view]]|Plan, manage, and track remediation work across teams to ensure timely and effective resolution|Remediation owners, IT operations, security analysts|View assigned tasks, update progress, collaborate with owners, track deadlines|
-|[[vr-cloud-exposure-view-db|Cloud Exposure view]]|Gain a unified view to monitor and respond to top cloud risks through multiple lenses, including assets, images, and regulatory standards.|Vulnerability managers, Security analysts|View risk by cloud asset, drill into asset and finding details, and initiate remediation activities.|
-|[[sem-unified-approval-rules-explore|Approvals]]|Manage and track all vulnerability and compliance exception approvals in a single, unified workflow with full visibility into request status and urgency|Governance &amp; Risk teams, approvers|Review contextual details for each approval request, take approval actions, view overdue and pending items, access finding details, and record comments or decisions directly|
-|[[sem-workspace-list-page|Lists]]|Access complete lists of findings, remediation tasks, approvals, and exceptions to monitor status, ownership, and progress.|Vulnerability analysts, remediation owners, security managers|Navigate predefined or custom lists, drill into records, create and manage custom lists, monitor status and ownership, and take follow-up actions such as updating records or processing approvals|
-|[[sem-administration-console|Administration]]|Configure and govern Security Exposure Management settings centrally to ensure consistent policies, integrations, and automation across the environment|Admins, Platform owners|Manage integrations, configure rules and automation, set up [[tisc-email-notifications|email notifications]] and templates, map severity levels, and customize visualization settings from a unified Admin Console|
+|[Finding view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-findings-view.md)|Gain a clear, real-time understanding of your exposure landscape through dashboards that surface risks and insight-driven priorities|Security analysts|Explore default or custom dashboards, drill into detailed findings, initiate remediation activities, and use Now Assist insights to prioritize critical issues and respond faster|
+|[Watch Topics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-watch-topic.md)|Continuously track and monitor specific high-priority vulnerability categories that require ongoing attention or strategic focus|Threat analysts, CISOs, Vulnerability managers|Create and refine watch topics, monitor trends and severity changes, evaluate business impact, trigger remediation efforts when thresholds are met|
+|[Remediation view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-workspaces-ui-remediation-module.md)|Plan, manage, and track remediation work across teams to ensure timely and effective resolution|Remediation owners, IT operations, security analysts|View assigned tasks, update progress, collaborate with owners, track deadlines|
+|[Cloud Exposure view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/vr-cloud-exposure-view-db.md)|Gain a unified view to monitor and respond to top cloud risks through multiple lenses, including assets, images, and regulatory standards.|Vulnerability managers, Security analysts|View risk by cloud asset, drill into asset and finding details, and initiate remediation activities.|
+|[Approvals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-unified-approval-rules-explore.md)|Manage and track all vulnerability and compliance exception approvals in a single, unified workflow with full visibility into request status and urgency|Governance &amp; Risk teams, approvers|Review contextual details for each approval request, take approval actions, view overdue and pending items, access finding details, and record comments or decisions directly|
+|[Lists](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-workspace-list-page.md)|Access complete lists of findings, remediation tasks, approvals, and exceptions to monitor status, ownership, and progress.|Vulnerability analysts, remediation owners, security managers|Navigate predefined or custom lists, drill into records, create and manage custom lists, monitor status and ownership, and take follow-up actions such as updating records or processing approvals|
+|[Administration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-administration-console.md)|Configure and govern Security Exposure Management settings centrally to ensure consistent policies, integrations, and automation across the environment|Admins, Platform owners|Manage integrations, configure rules and automation, set up email notifications and templates, map severity levels, and customize visualization settings from a unified Admin Console|
 
 ## Getting started
 
@@ -48,7 +48,7 @@ Access the Security Exposure Management Workspace by navigating to **Workspaces*
 
 ## Next steps
 
-[[threat-intelligence-security-center-overview|Explore]] detailed guidance for each Security Exposure Management Workspace view:
+Explore detailed guidance for each Security Exposure Management Workspace view:
 
 [Security Exposure Management Workspace Findings view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-findings-view.md)
 
@@ -64,18 +64,5 @@ Access the Security Exposure Management Workspace by navigating to **Workspaces*
 
 [Administration in Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-administration-console.md)
 
-[[configuring-security-exposure-management|Implementing Unified Security Exposure Management]]
+[Implementing Unified Security Exposure Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/configuring-security-exposure-management.md)
 
-## Related
-
-- [[sem-findings-view|Security Exposure Management Workspace Findings view]]
-- [[sem-watch-topic|Security Exposure Management Workspace Watch Topics]]
-- [[sem-workspaces-ui-remediation-module|Remediation view]]
-- [[vr-cloud-exposure-view-db|Viewing the Cloud Exposure View dashboard]]
-- [[sem-unified-approval-rules-explore|Security Exposure Management Approvals View]]
-- [[sem-workspace-list-page|Security Exposure Management Workspace List view]]
-- [[sem-administration-console|Administration in Unified Security Exposure Management]]
-- [[configuring-security-exposure-management|Implementing Unified Security Exposure Management]]
-- [[tools|Tools]]
-- [[tisc-email-notifications|Email Notifications]]
-- [[threat-intelligence-security-center-overview|Explore]]

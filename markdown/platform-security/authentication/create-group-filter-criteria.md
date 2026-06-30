@@ -14,7 +14,7 @@ breadcrumb: [Group Filter, Filter criteria, Adaptive authentication, Authenticat
 
 # Create group filter criteria
 
-[[group-filter|Group filter]] criteria allows or denies user access based on the user group to which the user belongs.
+Group filter criteria allows or denies user access based on the user group to which the user belongs.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[adaptive-authentication|Adaptive Authentication]]** &gt; **[[adaptive-auth-filter-criteria|Filter Criteria]]** &gt; **Group Filter Criteria**.
+1.  Navigate to **All** &gt; **Adaptive Authentication** &gt; **Filter Criteria** &gt; **Group Filter Criteria**.
 
 2.  Click **New**.
 
@@ -42,8 +42,4 @@ Role required: admin
 
 6.  Click the save icon.
 
-## Related
 
-- [[group-filter|Group Filter]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]

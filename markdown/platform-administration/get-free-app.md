@@ -12,13 +12,13 @@ breadcrumb: [Request an app, Use, Legacy Application Manager, Administering appl
 
 # Get a free application
 
-Get a free application from your ServiceNow instance, without navigating to the [[servicenow-store|ServiceNow Store]].
+Get a free application from your ServiceNow instance, without navigating to the ServiceNow Store.
 
 ## Before you begin
 
 **Note:**
 
-[[legacy-application-manager-landing|Legacy Application Manager]] is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new [[application-manager|Application Manager]] experience.
+Legacy Application Manager is being deprecated. Starting with Australia patch 1, Legacy Application Manager is no longer available and bookmarks will redirect to the new Application Manager experience.
 
 A known issue affects the use of bookmarks to access the Legacy Application Manager before Australia patch 1. For details about possible issues with accessing the Legacy Application Manager, see the [Deprecated Classic App Manager URL usage causes issues on instances running ZP5 / YP10 and above \[KB2804238\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB2804238) article in the Now Support knowledge base.
 
@@ -49,11 +49,5 @@ Role required: admin
 5.  Click **Go to install**.
 
 
-**Parent Topic:**[[request-app|Request a free or paid application]]
+**Parent Topic:**[Request a free or paid application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/request-app.md)
 
-## Related
-
-- [[request-app|Request a free or paid application]]
-- [[servicenow-store|ServiceNow Store]]
-- [[legacy-application-manager-landing|Legacy Application Manager]]
-- [[application-manager|Application Manager]]

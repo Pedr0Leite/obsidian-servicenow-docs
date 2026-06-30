@@ -15,17 +15,17 @@ breadcrumb: [Integrate VA with Slack, Conversational Integration with Slack, Int
 
 # Integrate ServiceNow Virtual Agent with Slack
 
-Add the [[virtual-agent-landing-page|Virtual Agent]] bot to your ServiceNow® instance to integrate with Slack.
+Add the Virtual Agent bot to your ServiceNow® instance to integrate with Slack.
 
 ## Before you begin
 
-Ensure that you have installed the [[mssg-slack|Conversational Integration with Slack]] plugin \(sn\_va\_slack\) on your ServiceNow instance before adding any integrations.
+Ensure that you have installed the Conversational Integration with Slack plugin \(sn\_va\_slack\) on your ServiceNow instance before adding any integrations.
 
 Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Settings**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Settings**.
 
 2.  In **General Settings** under **Channels and integrations**, select **View All**.
 
@@ -76,8 +76,3 @@ For more information, see [Manage the ServiceNow Virtual Agent integration with 
 
 **Parent Topic:**[Integrating ServiceNow Virtual Agent with Slack](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-slack.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[mssg-slack|Conversational Integration with Slack]]
-- [[convint-landing-page|Conversational Interfaces]]

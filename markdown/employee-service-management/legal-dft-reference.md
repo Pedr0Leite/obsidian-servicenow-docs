@@ -12,15 +12,10 @@ breadcrumb: [Legal Digital Forensics, Legal Service Delivery Practice Applicatio
 
 # Legal Digital Forensics reference
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] topics provide additional information about the lists and forms that you use in Legal Digital Forensics.
+Reference topics provide additional information about the lists and forms that you use in Legal Digital Forensics.
 
--   **[[installed-with-legal-digital-forensics|Components installed with Legal Digital Forensics]]**  
+-   **[Components installed with Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/installed-with-legal-digital-forensics.md)**  
 Several types of components are installed with activation of the Legal Digital Forensics application, including tables and user roles.
 
-**Parent Topic:**[[legal-digital-forensics-landing-page|Legal Digital Forensics]]
+**Parent Topic:**[Legal Digital Forensics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-digital-forensics-landing-page.md)
 
-## Related
-
-- [[installed-with-legal-digital-forensics|Components installed with Legal Digital Forensics]]
-- [[legal-digital-forensics-landing-page|Legal Digital Forensics]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

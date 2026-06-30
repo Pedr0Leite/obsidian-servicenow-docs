@@ -25,7 +25,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Administration** &gt; **TAXII Outbound Server**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Administration** &gt; **TAXII Outbound Server**.
 
 2.  Select **TAXII Collections**.
 
@@ -49,6 +49,3 @@ Role required:
 
 [Automated Sharing of TAXII Collections]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

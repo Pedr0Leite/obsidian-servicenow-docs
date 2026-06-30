@@ -18,7 +18,7 @@ Synchronize the contract document for non-disclosure agreements contract request
 
 ## About this task
 
-**Note:** The **Sync document** option is available only starting with [[cncore-cmpro-landing-page|Contract Management Pro]] version 1.2.1
+**Note:** The **Sync document** option is available only starting with Contract Management Pro version 1.2.1
 
 You can synchronize a contract document only when the contract request is in the Work in progress state.
 
@@ -33,7 +33,7 @@ Role required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Legal Request** &gt; **[[legal-counsel-center-landing|Legal Counsel Center]]**.
+1.  Navigate to **All** &gt; **Legal Request** &gt; **Legal Counsel Center**.
 
 2.  Select the List icon \(\[Omitted image "lsd-lcc-list-icon.png"\] Alt text: List icon\).
 
@@ -52,7 +52,3 @@ A new contract document revision is created with the update metadata and signato
 
 **Parent Topic:**[Work on NDA legal requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-work-on-contract-request.md)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[legal-counsel-center-landing|Legal Counsel Center]]

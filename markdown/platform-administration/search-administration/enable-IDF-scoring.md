@@ -24,7 +24,7 @@ Role required: ts\_admin or admin
 
 ## About this task
 
-Administrators can enable TF-IDF scoring on a table to improve search [[hs-results|results]]. The Knowledge table \[kb\_knowledge\] has TF-IDF scoring enabled by default.
+Administrators can enable TF-IDF scoring on a table to improve search results. The Knowledge table \[kb\_knowledge\] has TF-IDF scoring enabled by default.
 
 **Note:** This task requires that you regenerate an index and therefore should be done with system performance in mind. Regenerating an index may take a while to complete depending on table size and other factors. You may notice performance degradation or incomplete search results while the system regenerates the index.
 
@@ -60,6 +60,3 @@ Administrators can enable TF-IDF scoring on a table to improve search [[hs-resul
 
 [Set the relative weight of a field]()
 
-## Related
-
-- [[hs-results|Results]]

@@ -13,7 +13,7 @@ breadcrumb: [Application readiness, ServiceNow AI implementation, Enable AI expe
 
 # AI Search readiness for Now Assist on the ServiceNow AI Platform
 
-[[platform-now-assist-landing|Now Assist]] in AI Search is built directly on the robust foundation of ServiceNow® AI Search. AI Search provides the underlying infrastructure that enables Now Assist to retrieve and rank enterprise content—such as knowledge articles, records, and documentation—based on relevance and access permissions.
+Now Assist in AI Search is built directly on the robust foundation of ServiceNow® AI Search. AI Search provides the underlying infrastructure that enables Now Assist to retrieve and rank enterprise content—such as knowledge articles, records, and documentation—based on relevance and access permissions.
 
 Because AI Search adheres to ServiceNow security models, responses are always grounded in content the user is authorized to access. Additionally, AI Search admin tools give you control over relevancy tuning, allowing you to refine how content is surfaced and ensure that Now Assist delivers the most useful and trustworthy results.
 
@@ -62,7 +62,7 @@ To maximize its impact, Now Assist in AI Search should be activated before Now A
 
     See: [Install Now Assist in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/install-now-assist-ais.md)
 
--   **6. Enable [[now-assist-qa-genius-result|Now Assist Q&amp;A Genius Results]] in AI Search portals**
+-   **6. Enable Now Assist Q&amp;A Genius Results in AI Search portals**
 
     Specify the Now Assist Genius Result types you want to make available in each of your AI Search portals. Now Assist Multi-Content Response Genius Results use an LLM to generate search and chat responses that synthesize information from knowledge articles, Service Catalog items, and other available content types. Answers are presented in Q&amp;A format.
 
@@ -81,7 +81,3 @@ The ServiceNow AI Platform® offers a variety of search tools, which may return 
 
 **Tip:** For more information, see [Now Assist in AI Search FAQ](https://www.servicenow.com/community/now-assist-articles/now-assist-in-ai-search-faq/ta-p/2686538) in ServiceNow Community.
 
-## Related
-
-- [[platform-now-assist-landing|Now Assist]]
-- [[now-assist-qa-genius-result|Now Assist Q&amp;A Genius Results]]

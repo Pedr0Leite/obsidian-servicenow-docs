@@ -33,7 +33,7 @@ ldapUtils.addMembers (source , target ) ;
 
 ## Set disabled Active Directory users to inactive
 
-Use the following script to automatically deactivate [[users|users]] when the associated AD user is disabled.
+Use the following script to automatically deactivate users when the associated AD user is disabled.
 
 ### Before you begin
 
@@ -125,6 +125,3 @@ if (c.test(nvcn)) {
 }
 ```
 
-## Related
-
-- [[users|Users]]

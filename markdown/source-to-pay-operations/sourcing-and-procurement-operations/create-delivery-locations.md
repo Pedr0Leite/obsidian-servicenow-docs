@@ -26,7 +26,7 @@ Role required: sn\_shop.shopping\_hub\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[purchase-experience-workflow|Sourcing and Purchasing Automation]]** &gt; **Primary Data**.
+1.  Navigate to **All** &gt; **Sourcing and Purchasing Automation** &gt; **Primary Data**.
 
 2.  Select **Delivery Locations**.
 
@@ -59,6 +59,3 @@ Role required: sn\_shop.shopping\_hub\_admin
 
 **Parent Topic:**[Setting up primary data for ShoppingHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/set-up-master-data-shopping-hub.md)
 
-## Related
-
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]

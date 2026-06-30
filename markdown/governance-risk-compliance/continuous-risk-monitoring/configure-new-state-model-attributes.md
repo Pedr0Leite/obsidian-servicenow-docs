@@ -22,7 +22,7 @@ Role required: sn\_irm\_cont\_auth.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[grc-cam-landing-page|Continuous Authorization and Monitoring]]** &gt; **[[Administration|Administration]]** &gt; **GRC State Models**.
+1.  Navigate to **All** &gt; **Continuous Authorization and Monitoring** &gt; **Administration** &gt; **GRC State Models**.
 
 2.  Open the state model record that contains workflow states.
 
@@ -81,7 +81,4 @@ Specifies which table this attribute applies to.**Note:** To configure the attri
 
 7.  Select **Submit** to save the attribute.
 
-## Related
 
-- [[grc-cam-landing-page|Continuous Authorization and Monitoring]]
-- [[Administration|Administration]]

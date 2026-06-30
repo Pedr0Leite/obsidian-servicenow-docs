@@ -27,7 +27,7 @@ Verify you’ve installed the following Integration Hub plugins on your ServiceN
 
 -   Notify plugin \(com.snc.notify\)
 -   Microsoft Teams Communications spoke plugin \(sn\_msteams\_com\_spk\).
--   Azure Active Directory User [[mapping-logrhythm|Mapping]] plugin \(sn\_now\_azure\).
+-   Azure Active Directory User Mapping plugin \(sn\_now\_azure\).
 -   Notify UI Components for Configurable Workspaces
 
 For more information, see [Request IntegrationHub](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/request-ih-overview.md).
@@ -57,6 +57,3 @@ The following steps give you a walkthrough of how you can manage and initiate a 
 
 [Integrate MSIM Conference Calls with Cisco Webex]()
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

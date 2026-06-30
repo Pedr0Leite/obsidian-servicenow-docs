@@ -22,7 +22,7 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 ## Procedure
 
-1.  In the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  In the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  Open a cloud policy and click the lookup icon for the **Policy Group**.
 
@@ -33,6 +33,3 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 **Parent Topic:**[Policies for Cloud Provisioning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-policy.md)
 
-## Related
-
-- [[cloud-admin-portal|Cloud Admin Portal]]

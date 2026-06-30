@@ -14,7 +14,7 @@ breadcrumb: [Setting up the integration between Microsoft Azure DevOps and Agile
 
 # Import areas, teams, and iterations from Azure DevOps
 
-Import areas, teams, and iterations of your Azure DevOps projects. These details are used to import sprint data and associate your Azure DevOps projects with [[manage-groups-agile-dev|assignment groups in Agile Development 2.0]].
+Import areas, teams, and iterations of your Azure DevOps projects. These details are used to import sprint data and associate your Azure DevOps projects with assignment groups in Agile Development 2.0.
 
 ## Before you begin
 
@@ -44,6 +44,3 @@ Import areas, teams, and iterations of your Azure DevOps projects. These details
 
 **Parent Topic:**[Setting up the integration between Microsoft Azure DevOps and Agile Development 2.0](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/microsoft-azure-devops-integrations-comm/setting-up-agile-azure-integration.md)
 
-## Related
-
-- [[manage-groups-agile-dev|Assignment groups in Agile Development 2.0]]

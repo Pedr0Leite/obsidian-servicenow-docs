@@ -14,7 +14,7 @@ breadcrumb: [Configure, Workplace Case Management, Workplace Service Delivery, E
 
 # Create a Workplace case template
 
-Create a Workplace case template for use when creating [[workplace-services|workplace services]].
+Create a Workplace case template for use when creating workplace services.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.admin or sn\_wsd\_case.manager
 
 ## About this task
 
-A Case template simplifies the process of creating cases in [[workplace-case-mgmt-feat|Workplace Case Management]] by populating fields automatically.
+A Case template simplifies the process of creating cases in Workplace Case Management by populating fields automatically.
 
 ## Procedure
 
@@ -47,7 +47,3 @@ The case template is created. You can use the template for workplace services.
 
 Create a case template with user acceptance, for more information, see [Create a User acceptance Workplace case template](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/create-usr-accptnce-workplace-case-template.md).
 
-## Related
-
-- [[workplace-services|Workplace Services]]
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

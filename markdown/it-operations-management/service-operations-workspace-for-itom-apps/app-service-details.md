@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace for ITOM reference, Service Operations
 
 # Application service details page
 
-Provides comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based [[r-discovery|discovery]] details, [[c_DiscoveryStatus|discovery status]], and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and aids in prioritizing resources and actions effectively.
+Provides comprehensive information about an application service, including its name, business criticality, ownership, process and operational status, traffic-based discovery details, discovery status, and relevant comments. This enables thorough analysis of the application service's current state and usage, provides clarity on ownership and criticality, and aids in prioritizing resources and actions effectively.
 
 |Field|Description|
 |-----|-----------|
@@ -31,7 +31,3 @@ To return to the procedure, see [View application service details in Service Ope
 
 **Parent Topic:**[Service Operations Workspace for ITOM reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/sow-reference-itom.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_DiscoveryStatus|Discovery status]]

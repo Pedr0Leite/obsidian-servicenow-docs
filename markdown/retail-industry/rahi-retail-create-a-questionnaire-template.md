@@ -13,7 +13,7 @@ breadcrumb: [Retail store plans, Explore, Retail]
 
 # Retail questionnaire
 
-Create customizable questionnaire templates to collect customer feedback and survey data for [[rahi-retail-operations-overview|retail]] operations. Templates can be customized for specific business needs.
+Create customizable questionnaire templates to collect customer feedback and survey data for retail operations. Templates can be customized for specific business needs.
 
 Questionnaire templates in Retail Operations provide a standardized framework for conducting surveys, and gathering operational data. These templates simplify survey creation by providing predefined question types, response formats, and data fields, which can be customised for specific retail scenarios.
 
@@ -37,13 +37,8 @@ Retail Operations supports various types of questionnaire templates designed for
 |Market Research|Templates for conducting market analysis and customer behavior studies|Brand awareness studies, purchasing behavior analysis, demographic research|
 |Operational Assessment|Templates for evaluating store operations and process effectiveness|Store audits, process improvement surveys, compliance assessments|
 
--   **[[rahi-retail-smart-assessment-questionnaires|Smart Assessment questionnaires for Retail]]**  
+-   **[Smart Assessment questionnaires for Retail](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-smart-assessment-questionnaires.md)**  
 Smart Assessment enables users with the sn\_rtl\_hq\_ops.plan\_author role to create smart assessment templates and associate them with store tasks.
 
-**Parent Topic:**[[rahi-retail-retail-multistore-operational-planning|Retail store plans]]
+**Parent Topic:**[Retail store plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/retail-industry/rahi-retail-retail-multistore-operational-planning.md)
 
-## Related
-
-- [[rahi-retail-smart-assessment-questionnaires|Smart Assessment questionnaires for Retail]]
-- [[rahi-retail-retail-multistore-operational-planning|Retail store plans]]
-- [[rahi-retail-operations-overview|Retail]]

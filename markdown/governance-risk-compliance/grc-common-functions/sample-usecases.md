@@ -14,7 +14,7 @@ breadcrumb: [Entity Based Access, Common GRC features, Governance, Risk, and Com
 
 # Sample use case scenarios
 
-Use case scenarios offer a clear and comprehensive explanation of why you would use the [[entity-based-access|Entity Based Access]] application.
+Use case scenarios offer a clear and comprehensive explanation of why you would use the Entity Based Access application.
 
 ## Use case scenario overview
 
@@ -36,7 +36,7 @@ You would then select Email and map it to System Administrator in the entity con
 
 A second use case scenario involves granting Beth Anglin, the Operations Head of the Facility domain, with access exclusively to banking-related records.
 
-To achieve this result, you use the Entity Based Access application to configure the [[entity-class|entity class]] configuration and applicable users. The entity class denotes a group of records that the access restriction can be applied to. Then, you apply an entity-based access restriction at a record level by using the bulk access update configuration.
+To achieve this result, you use the Entity Based Access application to configure the entity class configuration and applicable users. The entity class denotes a group of records that the access restriction can be applied to. Then, you apply an entity-based access restriction at a record level by using the bulk access update configuration.
 
 You select the Facility Banking entity class and map it to Beth. Alternatively, you could map it to a user group where Beth is a part of. The following example shows that the Banking entity class is mapped to Beth.
 
@@ -44,7 +44,3 @@ You select the Facility Banking entity class and map it to Beth. Alternatively, 
 
 **Parent Topic:**[Entity Based Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/entity-based-access.md)
 
-## Related
-
-- [[entity-based-access|Entity Based Access]]
-- [[entity-class|entity class]]

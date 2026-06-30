@@ -20,7 +20,7 @@ The Shipment Error \[sn\_spend\_intg\_shipment\_error\] staging table temporaril
 |-----|---------|-----------|
 |Sales order line number|String|Unique identifier for each item on a sales order.|
 |Sales order number|String|Unique identifier for a customer's purchase.|
-|Supplier shipment number|String|Shipment number of the [[supplier|supplier]].|
+|Supplier shipment number|String|Shipment number of the supplier.|
 
 **Parent Topic:**[Inbound staging tables for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/source-to-pay-integration-framework/spo-inbound-staging-tables.md)
 
@@ -99,6 +99,3 @@ The Shipment Error \[sn\_spend\_intg\_shipment\_error\] staging table temporaril
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]

@@ -16,7 +16,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Display user profile information. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-Users can use the [[c_UserPreferences|User Preferences]] section to enable accessibility in a portal.
+Users can use the User Preferences section to enable accessibility in a portal.
 
 \[Omitted image "WidgetUserProfile.png"\] Alt text: User Profile widget
 
@@ -31,13 +31,9 @@ Users can use the [[c_UserPreferences|User Preferences]] section to enable acces
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[c_UserPreferences|User preferences]]
-- [[c_ServicePortal|Service Portal]]

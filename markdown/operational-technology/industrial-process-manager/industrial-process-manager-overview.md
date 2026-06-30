@@ -14,7 +14,7 @@ breadcrumb: [Operational Technology]
 
 # Industrial Process Manager
 
-Use the Industrial Process Manager application to create the [[isa-95-equipment-model|ISA-95 Equipment Model]] data foundation that is required for the ServiceNow® [[operational-technology-overview|Operational Technology]] solution. The Industrial Process Manager enables you to create your own version of the equipment models in each of your sites.
+Use the Industrial Process Manager application to create the ISA-95 Equipment Model data foundation that is required for the ServiceNow® Operational Technology solution. The Industrial Process Manager enables you to create your own version of the equipment models in each of your sites.
 
 **Note:** The Manufacturing Process Manager was renamed to the Industrial Process Manager for Vancouver. If you're on version 1.0.9 and prior, the application is still called Manufacturing Process Manager. If you're on version 2.0, the application is called Industrial Process Manager.
 
@@ -34,13 +34,7 @@ Watch an overview about the Industrial Process Manager application.\[Omitted vid
 
 </td><td>
 
-[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about [[mpm-related-information|related information]] and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
+[Reference\[Omitted image "bus-learn.svg"\] Alt text:Get details about related information and applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-process-manager/manufacturing-process-mgr-reference.md)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[isa-95-equipment-model|ISA-95 equipment model]]
-- [[operational-technology-overview|Operational Technology]]
-- [[mpm-related-information|Related information]]

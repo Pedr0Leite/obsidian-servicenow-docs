@@ -12,7 +12,7 @@ breadcrumb: [Using CSM Configurable Workspace in Customer Service Management, Ma
 
 # Use response templates to add information to cases and case tasks
 
-Customer service agents can copy content from response templates and add it to [[csm-cases-case-tasks-overview|cases and case tasks]].
+Customer service agents can copy content from response templates and add it to cases and case tasks.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_customerservice\_agent with the sn\_templated\_snip.template\
 
 ## About this task
 
-The contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspace]] gives you access to information that can help you resolve customer service cases. It includes a column of icons that you can click to access different types of information. Clicking the response templates icon shows reusable messages that you can copy and paste into cases and case tasks.
+The contextual side panel in CSM Configurable Workspace gives you access to information that can help you resolve customer service cases. It includes a column of icons that you can click to access different types of information. Clicking the response templates icon shows reusable messages that you can copy and paste into cases and case tasks.
 
 ## Procedure
 
-1.  [[csm-workspaces-open|Open CSM Configurable Workspace]].
+1.  Open CSM Configurable Workspace.
 
 2.  Open a customer service case or case task.
 
@@ -42,8 +42,3 @@ The contextual side panel in [[csm-workspaces-configure|CSM Configurable Workspa
 
 [Response templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/response-templates-templated-snippets.md)
 
-## Related
-
-- [[csm-cases-case-tasks-overview|Cases and case tasks]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-workspaces-open|Open CSM Configurable Workspace]]

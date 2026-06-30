@@ -12,7 +12,7 @@ breadcrumb: [Default transform definitions, Field normalization and transformati
 
 # Create a transform category
 
-Create a transform category to group the transform [[clone-exclusions-preservers-cleanupscripts|definitions]] together.
+Create a transform category to group the transform definitions together.
 
 ## Procedure
 
@@ -36,6 +36,4 @@ Create a transform category to group the transform [[clone-exclusions-preservers
         -   URL
     -   **Transform Definitions**: Click **Edit** to select the transform definitions that are included in this category.
 
-## Related
 
-- [[clone-exclusions-preservers-cleanupscripts|Definitions]]

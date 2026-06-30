@@ -32,7 +32,7 @@ The monetary benefit plan breakdown records are automatically created when you s
 
 3.  In the **Monetary Benefit Plans** related list, select **New**.
 
-    **Note:** To create a monetary benefit plan from the **Financials** tab in [[project-workspace-landing-page|Project Workspace]], select **Manage**.
+    **Note:** To create a monetary benefit plan from the **Financials** tab in Project Workspace, select **Manage**.
 
 4.  On the form, fill in the fields.
 
@@ -45,7 +45,7 @@ The monetary benefit plan breakdown records are automatically created when you s
 
 ## What to do next
 
-On the [[benefit-plan-form-project-management|Benefit Plan form]], view the benefit breakdown by fiscal period in the Monetary Benefit Plan Breakdowns related list.
+On the Benefit Plan form, view the benefit breakdown by fiscal period in the Monetary Benefit Plan Breakdowns related list.
 
 -   **[Update a monetary benefit plan breakdown for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-benefit-plan-breakdown.md)**  
 Update a monetary benefit plan breakdown record that specifies the estimated and actual benefits, at a granular level, for specific fiscal periods.
@@ -65,7 +65,7 @@ Update a monetary benefit plan breakdown record that specifies the estimated and
 
 [Create a project cost plan]()
 
-[Recalculating costs of all [[c_ResourcePlans|resource plans]] in a project]()
+[Recalculating costs of all resource plans in a project]()
 
 [Create an expense line]()
 
@@ -101,8 +101,3 @@ Update a monetary benefit plan breakdown record that specifies the estimated and
 
 [Update a monetary benefit plan breakdown for a project](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/update-benefit-plan-breakdown.md)
 
-## Related
-
-- [[project-workspace-landing-page|Project Workspace]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]
-- [[c_ResourcePlans|Resource plans]]

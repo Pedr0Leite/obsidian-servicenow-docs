@@ -23,11 +23,11 @@ Role required:
 -   sn\_si.admin
 -   flow\_designer
 
-Make sure you have installed [[security-operations-landing-page|Security Operations]] Spoke \(`sn_sec_spoke`\).
+Make sure you have installed Security Operations Spoke \(`sn_sec_spoke`\).
 
 ## Procedure
 
-1.  When the playbook is triggered and starts executing, in Action 1, you need to check whether the [[c_Observables|observables]] are added to the [[sir-landing-page|Security Incident Response]] \(SIR\).
+1.  When the playbook is triggered and starts executing, in Action 1, you need to check whether the observables are added to the Security Incident Response \(SIR\).
 
     If the observables aren’t added to SIR, please add the observables before proceeding. If the observables aren’t available, then Action 10 is executed and the security incident is closed.
 
@@ -52,8 +52,3 @@ Make sure you have installed [[security-operations-landing-page|Security Operati
 
 **Parent Topic:**[Playbook for Typo Squatted Domain](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-typo-squatted-domain.md)
 
-## Related
-
-- [[security-operations-landing-page|Security Operations]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

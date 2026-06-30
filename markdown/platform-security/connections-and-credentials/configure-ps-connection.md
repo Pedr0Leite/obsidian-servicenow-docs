@@ -100,7 +100,7 @@ Use MID Server
 
 </td><td>
 
-Select to connect to the target host through a MID Server. If selected, define fields in the Advanced MID Server [[sc-configuration|Configuration]] section. **Note:** PowerShell requires a MID Server.
+Select to connect to the target host through a MID Server. If selected, define fields in the Advanced MID Server Configuration section. **Note:** PowerShell requires a MID Server.
 
 </td></tr><tr><td>
 
@@ -158,6 +158,3 @@ The specific MID Cluster you want to use. This field is available when **Use MID
 
 **Parent Topic:**[Get started with connections](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/connection-information.md)
 
-## Related
-
-- [[sc-configuration|Configuration]]

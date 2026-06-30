@@ -20,7 +20,7 @@ Add a transfer order a line to a transfer order for each asset or consumable mod
 
 Role required: inventory\_user
 
-The inventory\_user, asset, or [[c_Procurement|procurement]]\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
+The inventory\_user, asset, or procurement\_user role can only access the Transfer Order \[alm\_transfer\_order\] reports. You must activate the Procurement \(com.snc.procurement\) plugin for the inventory\_user, asset, and procurement\_user roles.
 
 ## About this task
 
@@ -62,6 +62,3 @@ Close the transfer order line task to complete the task.
 
 [Close transfer order line task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/asset-management/move-transfer-order-line-through-stages.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]

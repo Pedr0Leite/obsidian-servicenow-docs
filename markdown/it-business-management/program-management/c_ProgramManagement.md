@@ -49,11 +49,11 @@ The project manager dashboard provides a central location to a program manager t
 Programs in ServiceNow® follow a different creation pattern than projects:
 
 -   **Why programs don't typically come from demands**
-    -   [[demand-workflow-ppw|Demand workflow]]: demand → approval → convert to project
+    -   Demand workflow: demand → approval → convert to project
     -   Program workflow: strategic initiative → executive approval → create program directly
     -   Programs are strategic multi-project containers decided at executive/portfolio level, not operational demands. They represent multi-year transformations such as digital transformation and cloud migration, rather than single deliverables.
 -   **Recommended program approval workflow**
-    1.  [[alignment-planner-workspace-landing-page|Strategic planning]] phase: Create Initiative planning item in Strategic Planning for the strategic program
+    1.  Strategic planning phase: Create Initiative planning item in Strategic Planning for the strategic program
     2.  Business case development: Attach business case document to Initiative; define scope, budget \($1M+\), timeline \(2-5 years\)
     3.  Executive approval: Present Initiative with business case to steering committee or executive sponsor for approval
     4.  Program creation: After approval, create Program record in PPM with reference to approved Initiative
@@ -76,15 +76,9 @@ Program vs Project decision criteria:
 -   **[Create a program to manage projects and demands](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/t_CreateAProgram.md)**  
 Create a program to manage related projects and demands. Define the duration, estimated cost, benefits, and ROI to the organization.
 -   **[Program workbench](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramWorkbench.md)**  
-The [[c_ProgramWorkbench|program workbench]] is a central location for viewing details of a program and the projects and demands that are part of the program.
+The program workbench is a central location for viewing details of a program and the projects and demands that are part of the program.
 -   **[Program Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/program-management/c_ProgramManagerDashboard.md)**  
-The [[pmo-dashboard|PMO dashboard]] provides a central location to a program manager to generate different graphical reports.
+The PMO dashboard provides a central location to a program manager to generate different graphical reports.
 
 **Parent Topic:**[Project Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/ppm-collaboration/c_ProjectPortfolioSuite.md)
 
-## Related
-
-- [[demand-workflow-ppw|Demand workflow]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProgramWorkbench|Program workbench]]
-- [[pmo-dashboard|PMO dashboard]]

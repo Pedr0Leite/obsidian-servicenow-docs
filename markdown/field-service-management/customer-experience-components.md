@@ -99,8 +99,5 @@ Work Order Task \[wm\_task\]
 Triggers an agent feedback survey when a work order task is set to Complete.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+</table>**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]

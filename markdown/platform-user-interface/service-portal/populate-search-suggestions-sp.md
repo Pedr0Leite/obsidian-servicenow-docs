@@ -24,7 +24,7 @@ In new instances, the search suggestions are enabled by default. In upgraded ins
 
 ## About this task
 
-The ServiceNow AI Platform collects search data and analytics that generate search suggestions. If you are upgrading from a previous release, the search analytics do not contain any data yet. To immediately provide suggestions to your users, you can populate the search suggestions using data from either the Text Searches \[text\_search\] table or the [[c_ServicePortal|Service Portal]] Log Entries \[sp\_log\] table. The Service Portal Log Entries table includes search data from Service Portal only and may take less time to populate search suggestions. The Text Search table includes search data from the entire platform.
+The ServiceNow AI Platform collects search data and analytics that generate search suggestions. If you are upgrading from a previous release, the search analytics do not contain any data yet. To immediately provide suggestions to your users, you can populate the search suggestions using data from either the Text Searches \[text\_search\] table or the Service Portal Log Entries \[sp\_log\] table. The Service Portal Log Entries table includes search data from Service Portal only and may take less time to populate search suggestions. The Text Search table includes search data from the entire platform.
 
 Search suggestions improve over time as more people use Service Portal. Search Suggestions is a ServiceNow AI Platform feature. For more information, see [Search Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-suggestions-overview.md).
 
@@ -84,6 +84,3 @@ Users see suggestions when they start typing in a Service Portal search widget.
 
 **Parent Topic:**[Zing search in Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/zing-search-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

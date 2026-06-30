@@ -31,8 +31,8 @@ Roles required: Roles are listed for each step below.
 1.  As a user with the ServiceNow AI Platform admin role, set up your ServiceNow AI Platform instance.
 
     -   Assign users with the **sn\_si.ingestion\_profile\_admin** \(or sn\_si.admin\) and sn\_si.analyst roles as required.
-    -   [[configure-cortex-xsiam-siem|Install and configure]] a MID Server if the Splunk server is deployed within your corporate network.
-    -   Verify that the ServiceNow [[sir-landing-page|Security Incident Response]] plugins are activated for your release of the ServiceNow AI Platform.
+    -   Install and configure a MID Server if the Splunk server is deployed within your corporate network.
+    -   Verify that the ServiceNow Security Incident Response plugins are activated for your release of the ServiceNow AI Platform.
     -   If you want to forward events manually from your Splunk Enterprise console into your ServiceNow AI Platform instance, verify that you have assigned the \(sn\_sec\_splunk\_v2.api\_account\_access\) role to a user with the Splunk Enterprise enterprise administrator permission.
     For more information, see [Set up your ServiceNow AI Platform instance for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-setup-sn.md).
 
@@ -46,13 +46,13 @@ Roles required: Roles are listed for each step below.
 
 3.  If you intend to export events manually from your Splunk Enterprise console to your ServiceNow AI Platform instance, perform the following tasks:
 
-    1.  As a Splunk Enterprise administrator, install, set up, and enable the ServiceNow [[security-operations-landing-page|Security Operations]] Event Ingestion Addon for Splunk Enterprise from splunkbase in your Splunk Enterprise console.
+    1.  As a Splunk Enterprise administrator, install, set up, and enable the ServiceNow Security Operations Event Ingestion Addon for Splunk Enterprise from splunkbase in your Splunk Enterprise console.
 
     2.  As a Splunk Enterprise administrator, if not already configured, save searches as alerts in your Splunk Enterprise console.
 
         For more information, see [Set up ServiceNow Event Ingestion Integration add-on](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-setup-prereqs.md) and [Save searches in your Splunk Enterprise console for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest_save_search.md).
 
-4.  As a user with the ServiceNow AI Platform **sn\_si.ingestion\_profile\_admin** role, [[splunk-event-ingest-create-profile|create and name an event profile]].
+4.  As a user with the ServiceNow AI Platform **sn\_si.ingestion\_profile\_admin** role, create and name an event profile.
 
     Select the profile type from the choice list. Options are a scheduled alert profile that you use to ingest sample data, or, an event profile that you use to export attachment data manually from your Splunk Enterprise console.
 
@@ -64,7 +64,7 @@ Roles required: Roles are listed for each step below.
 
     1.  Fetch sample data for a scheduled alert.
     2.  Export attachment data manually from Splunk Enterprise for an event.
-    3.  Edit the default [[mapping-logrhythm|mapping]] configuration.
+    3.  Edit the default mapping configuration.
     4.  Optionally add filtering criteria, append an alert to an existing security incident, and use the script editor.
     For more information, see [Mapping alerts and events for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-mapping.md) and [Map alerts for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-map-alerts.md).
 
@@ -81,10 +81,3 @@ Roles required: Roles are listed for each step below.
 
 **Parent Topic:**[Integration architecture and external systems connection for the Splunk Enterprise Event Ingestion integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/splunk-event-ingest-integration-architecture.md)
 
-## Related
-
-- [[configure-cortex-xsiam-siem|Install and Configure]]
-- [[sir-landing-page|Security Incident Response]]
-- [[security-operations-landing-page|Security Operations]]
-- [[splunk-event-ingest-create-profile|Create and name an event profile]]
-- [[mapping-logrhythm|Mapping]]

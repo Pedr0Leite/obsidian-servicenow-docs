@@ -14,7 +14,7 @@ breadcrumb: [Portal Banner widget, Configurable Portal widgets, Set up self-serv
 
 # Add a widget in the Portal Banner widget
 
-Add a widget for additional functionality to the [[portal-banner-widget|Portal Banner widget]] and configure it. For example, you could add the [[portal-quick-links-widget|Portal Quick Links widget]] to enable users to access knowledge articles, external URLs, catalog items, or custom pages from the Portal Banner widget.
+Add a widget for additional functionality to the Portal Banner widget and configure it. For example, you could add the Portal Quick Links widget to enable users to access knowledge articles, external URLs, catalog items, or custom pages from the Portal Banner widget.
 
 ## Before you begin
 
@@ -46,12 +46,8 @@ Role required: sp\_admin
 
 10. In the **Widget Option Schema** field, modify the JSON code to update the configuration of the widget that you've added.
 
-    For more information on each JSON parameters of the Portal Quick Links widget, see [[r-port-banner-widget-json-schema|Portal Banner widget JSON parameters]].
+    For more information on each JSON parameters of the Portal Quick Links widget, see [Portal Banner widget JSON parameters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/r-port-banner-widget-json-schema.md).
 
 11. Select **Save**.
 
-## Related
 
-- [[r-port-banner-widget-json-schema|Portal Banner widget JSON parameters]]
-- [[portal-banner-widget|Portal Banner widget]]
-- [[portal-quick-links-widget|Portal Quick Links widget]]

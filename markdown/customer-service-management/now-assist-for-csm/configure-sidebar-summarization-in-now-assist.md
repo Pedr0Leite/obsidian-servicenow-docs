@@ -88,12 +88,10 @@ Sidebar summarization is generated from the information within selected tables c
 
         **Note:** In the **Select Display** step, you can only choose roles that were added in the **Define Access** step. If you add a role in **Define Access**, you still must manually select it in **Select Display** to make it active.
 
-7.  Toggle **Select display** to determine if sidebar summarization appears in In-product desktop, displaying Now Assist skills on [[migration-forms|forms]] and workspaces.
+7.  Toggle **Select display** to determine if sidebar summarization appears in In-product desktop, displaying Now Assist skills on forms and workspaces.
 
 8.  After selecting **Review and Activate** to examine changes, select **Done** to close the sidebar summarization generation settings.
 
 9.  Select **Activate** to turn on the skill for agents and complete the configuration.
 
-## Related
 
-- [[migration-forms|Forms]]

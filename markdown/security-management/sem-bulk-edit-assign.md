@@ -12,7 +12,7 @@ breadcrumb: [Using bulk edit in the Security Exposure Management Workspace, Bulk
 
 # Assign records to an assignment group in bulk
 
-Assign multiple records findings concurrently to an assignment group using the bulk edit feature in the [[sem-workspace-user-interface|Security Exposure Management Workspace]].
+Assign multiple records findings concurrently to an assignment group using the bulk edit feature in the Security Exposure Management Workspace.
 
 ## Before you begin
 
@@ -94,12 +94,7 @@ Text that you enter to describe the changes.
 
 ## Result
 
-Open a record for which you updated the assignment group and navigate to the [[vr-va-ws-overview-tab|Overview tab]], the user group to which the record is assigned appears in the **Assignment group** field.
+Open a record for which you updated the assignment group and navigate to the Overview tab, the user group to which the record is assigned appears in the **Assignment group** field.
 
-**Parent Topic:**[[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
+**Parent Topic:**[Using bulk edit in the Security Exposure Management Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-using-bulk-edit.md)
 
-## Related
-
-- [[sem-using-bulk-edit|Using bulk edit in the Security Exposure Management Workspace]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]
-- [[vr-va-ws-overview-tab|Overview tab]]

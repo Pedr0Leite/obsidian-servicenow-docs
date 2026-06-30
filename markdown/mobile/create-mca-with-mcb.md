@@ -12,7 +12,7 @@ breadcrumb: [Card actions, Mobile Card Builder, Building tools, Building mobile 
 
 # Configure a card action using Mobile Card Builder
 
-Use [[mobile-card-builder|Mobile Card Builder]] to add card actions to a mobile card.
+Use Mobile Card Builder to add card actions to a mobile card.
 
 ## Before you begin
 
@@ -77,6 +77,4 @@ When creating mobile cards, you may want to add buttons to enable your users to 
 
 10. Select **Save**.
 
-## Related
 
-- [[mobile-card-builder|Mobile Card Builder]]

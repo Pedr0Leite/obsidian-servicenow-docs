@@ -30,7 +30,7 @@ Incident managers with the incident\_manager role are able to see the **Report R
 
 ## Procedure
 
-1.  Navigate to **Risk Events** &gt; **[[Administration|Administration]]** &gt; **Integration Configuration**.
+1.  Navigate to **Risk Events** &gt; **Administration** &gt; **Integration Configuration**.
 
 2.  Click **New**.
 
@@ -288,6 +288,3 @@ The application that is configured to report risk events displays the **Create R
 
 **Parent Topic:**[Use Risk Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/use-risk-events.md)
 
-## Related
-
-- [[Administration|Administration]]

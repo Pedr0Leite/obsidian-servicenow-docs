@@ -14,13 +14,13 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Prevent impersonating user from viewing application data
 
-Use [[ca-system-properties|system properties]] to prevent an impersonating user from viewing application data.
+Use system properties to prevent an impersonating user from viewing application data.
 
 Prevent admin level from accessing the application specific data belonging to that user when impersonating an account. This permission can be set at the application level by creating a system property specific to the application.
 
-These system properties use the **&lt;scope&gt;.impersonateCheck** naming format \(for example **sn\_hr\_core.impersonateCheck**\). Create a system property with a value of **true** to prevent [[users|users]] from accessing the application-specific data belonging to another user when impersonating an account.
+These system properties use the **&lt;scope&gt;.impersonateCheck** naming format \(for example **sn\_hr\_core.impersonateCheck**\). Create a system property with a value of **true** to prevent users from accessing the application-specific data belonging to another user when impersonating an account.
 
-**Note:** Not all applications are designed to work in this [[sc-configuration|configuration]] or have a System Properties \[sys\_properties\] record for this purpose. The following scopes are configured to work with this property.
+**Note:** Not all applications are designed to work in this configuration or have a System Properties \[sys\_properties\] record for this purpose. The following scopes are configured to work with this property.
 
 -   sn\_opp\_market
 -   sn\_jny
@@ -165,8 +165,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[ca-system-properties|System properties]]
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

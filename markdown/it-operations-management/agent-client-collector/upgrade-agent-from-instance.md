@@ -149,7 +149,7 @@ Select the version to which you want to upgrade your agent.
     -   Value = The version number to be upgraded to, in the format &lt;major\_version.minor\_version.patch\_version&gt;. For example: **4.3.2**
 4.  Select **Submit**.
 
-If you do not select a version, the agent automatically upgrades to the current [[acc-landing-page|Agent Client Collector]] Framework scoped app version.
+If you do not select a version, the agent automatically upgrades to the current Agent Client Collector Framework scoped app version.
 
 Role required:
 
@@ -187,6 +187,3 @@ Role required:
 
 [Upgrade multiple agents in an instance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/upgrade-multiple-agents-from-instance.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

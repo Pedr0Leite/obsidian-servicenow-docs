@@ -22,7 +22,7 @@ Role required: sn\_dpr\_model.product\_manager
 
 ## About this task
 
-Product enhancements can also be generated automatically from the main epics imported into the ServiceNow instance through the DevOps data model if the following [[settings-mobile|settings]] have been completed:
+Product enhancements can also be generated automatically from the main epics imported into the ServiceNow instance through the DevOps data model if the following settings have been completed:
 
 -   The system property **sn\_dpr\_workspace.enhancement\_work\_item\_types** lists the DevOps work item types that can be mapped. By default only epics can be mapped; add other types such as feature or story as needed. For more information, see [Digital Product Release properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/digital-product-release-properties.md).
 -   The integration with the external planning tool is done.
@@ -32,7 +32,7 @@ Product enhancements can also be generated automatically from the main epics imp
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[dpr-workspace|Digital Product Release Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Product Release Workspace**.
 
 2.  Select the products and services icon \(\[Omitted image "dpr-icon-products.png"\] Alt text: Products and services icon.\).
 
@@ -58,7 +58,3 @@ Product enhancements can also be generated automatically from the main epics imp
 
 [Add a product feature to a product or service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-product-release/dpr-create-product-feature.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[dpr-workspace|Digital Product Release Workspace]]

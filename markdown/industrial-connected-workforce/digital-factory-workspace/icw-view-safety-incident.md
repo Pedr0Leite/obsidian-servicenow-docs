@@ -14,7 +14,7 @@ breadcrumb: [ICW Health and Safety Integration, Use, Digital Factory Workspace, 
 
 # View safety incidents in the Digital Factory Workspace
 
-Access and manage safety incidents from the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] list views.
+Access and manage safety incidents from the Digital Factory Workspace list views.
 
 ## Before you begin
 
@@ -49,6 +49,3 @@ The safety incidents list displays incidents based on your access permissions an
 
 [Create a safety incident from an ICW task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/icw-create-safety-incident-from-task.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

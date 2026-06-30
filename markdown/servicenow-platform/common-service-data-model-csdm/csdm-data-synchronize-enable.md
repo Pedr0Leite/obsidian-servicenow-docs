@@ -14,7 +14,7 @@ breadcrumb: [Dynamic CI group and service type, Implement, CSDM, Configuration M
 
 # Set the group for a CI or an entire class of CIs
 
-Synchronize group assignment attributes on entire CI classes and individual CIs using the [[ci-class-manager-landing-page|CI Class Manager]].
+Synchronize group assignment attributes on entire CI classes and individual CIs using the CI Class Manager.
 
 ## Before you begin
 
@@ -58,6 +58,3 @@ In this example, you define a user group that can manage all CIs belonging to th
 
 [Synchronize user groups for a technology management offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/common-service-data-model-csdm/csdm-enable-tso.md)
 
-## Related
-
-- [[ci-class-manager-landing-page|CI Class Manager]]

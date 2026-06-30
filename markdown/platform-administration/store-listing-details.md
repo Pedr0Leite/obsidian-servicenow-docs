@@ -12,7 +12,7 @@ breadcrumb: [Explore, ServiceNow Store, Administering applications, Get started,
 
 # ServiceNow Store application listing details
 
-The listing details page for a [[servicenow-store|ServiceNow Store]] application shows information about the app and its features, as well as technical information about the versions available.
+The listing details page for a ServiceNow Store application shows information about the app and its features, as well as technical information about the versions available.
 
 You can view an app's listing details by selecting an app in the ServiceNow Store. Listing details include a header with procurement options, app details, and version details.
 
@@ -26,7 +26,7 @@ There are a number of possible procurement options and additional statuses that 
 
 Procurement options might be updated or replaced with status messages depending on what actions you take. For example, once you request a trial, the button with that option is replaced with a status message letting you know the trial has been requested. After the trial has been approved, the message is replaced with an option to start the 30-day trial.
 
-Application status messages in the ServiceNow Store are based on the procurement status of an application. After an application is fully procured, a message that it's available for installation is displayed. Installation can be managed through the [[application-manager|Application Manager]]. For more information, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md).
+Application status messages in the ServiceNow Store are based on the procurement status of an application. After an application is fully procured, a message that it's available for installation is displayed. Installation can be managed through the Application Manager. For more information, see [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md).
 
 ## App details
 
@@ -38,7 +38,7 @@ The app details section includes the following information:
 
     -   Rating
     -   Pricing
-    -   Custom table count \(the number of unallocated [[custom-tables|custom tables]] this application requires\)
+    -   Custom table count \(the number of unallocated custom tables this application requires\)
     -   Latest version
     -   Compatibility
 -   **Description**
@@ -51,7 +51,7 @@ The app details section includes the following information:
 
 -   **Ratings and reviews**
 
-    A summary of ratings on a five-star scale, where five stars is the best, and a list of user reviews. For more information about leaving reviews, see [[reviewing-apps|Reviewing apps]].
+    A summary of ratings on a five-star scale, where five stars is the best, and a list of user reviews. For more information about leaving reviews, see [Reviewing apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/reviewing-apps.md).
 
 -   **Links and documents**
 
@@ -88,12 +88,6 @@ The version details section includes the following information:
 
 -   **Dependencies**
 
-    Lists of application dependencies and plugin dependencies that are required for the application to function correctly. For more information about dependencies, see [[versions-dependencies|Evaluating version requirements and dependencies]].
+    Lists of application dependencies and plugin dependencies that are required for the application to function correctly. For more information about dependencies, see [Evaluating version requirements and dependencies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/versions-dependencies.md).
 
-## Related
 
-- [[reviewing-apps|Reviewing apps]]
-- [[versions-dependencies|Evaluating version requirements and dependencies]]
-- [[servicenow-store|ServiceNow Store]]
-- [[application-manager|Application Manager]]
-- [[custom-tables|Custom tables]]

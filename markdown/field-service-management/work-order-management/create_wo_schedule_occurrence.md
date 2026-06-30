@@ -41,7 +41,7 @@ When the work order is generated, the dates are set as follows:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **[[planned-work-management|Planned Work Management]]** &gt; **Plans**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Planned Work Management** &gt; **Plans**.
 
 2.  Open the work plan.
 
@@ -63,7 +63,3 @@ A list of work orders is automatically generated for the selected schedule occur
 
 [Associate a work order template to a work schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/associate-work-schedule-to-wotemplate.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[planned-work-management|Planned Work Management]]

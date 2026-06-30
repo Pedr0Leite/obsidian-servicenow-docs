@@ -14,7 +14,7 @@ breadcrumb: [Manage evidence requests, Classic UI, Policy and Compliance Managem
 
 # Enable Related Evidence related list
 
-The [[evidence-request|Evidence Request]] feature includes a related list called Related Evidence, which it not visible by default. This related list provides a list of evidence that is not directly requested for the current record, but is associated to a related record. For example, the Related Evidence list on the Control Objective form shows evidence requested for associated controls.
+The Evidence Request feature includes a related list called Related Evidence, which it not visible by default. This related list provides a list of evidence that is not directly requested for the current record, but is associated to a related record. For example, the Related Evidence list on the Control Objective form shows evidence requested for associated controls.
 
 ## Before you begin
 
@@ -45,6 +45,4 @@ The Related Evidence related list is available to a wide variety of forms throug
 
 4.  Click **Save**.
 
-## Related
 
-- [[evidence-request|Evidence request]]

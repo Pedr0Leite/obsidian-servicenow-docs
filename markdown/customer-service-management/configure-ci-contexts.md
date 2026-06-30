@@ -24,7 +24,7 @@ Configure customer information cards to display each of the list, record, or rep
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[customer-central|Customer Central]]** &gt; **Customer Information** &gt; **Customer Information Contexts**.
+1.  Navigate to **All** &gt; **Customer Central** &gt; **Customer Information** &gt; **Customer Information Contexts**.
 
 2.  Select the contact or consumer record that you want to add your configuration to.
 
@@ -36,6 +36,4 @@ Configure customer information cards to display each of the list, record, or rep
 
     **Note:** Repeat these steps for every configuration that you want to add to the contact or consumer record. You can also change the layout and order in which to display the cards on the Customer Information view.
 
-## Related
 
-- [[customer-central|Customer Central]]

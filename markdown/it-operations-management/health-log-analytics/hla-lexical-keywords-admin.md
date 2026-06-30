@@ -14,7 +14,7 @@ breadcrumb: [Influence anomaly detection with lexical keywords, Controlling aler
 
 # Add, edit, or delete lexical keywords in Health Log Analytics
 
-Manage the keywords that [[hla-landing-page|Health Log Analytics]] looks for in your log data.
+Manage the keywords that Health Log Analytics looks for in your log data.
 
 ## Before you begin
 
@@ -125,6 +125,3 @@ Source types that are not associated with the keyword. Health Log Analytics does
 
 [View the lexical keywords that generate alerts in Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-op-lexical-keywords-manage.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

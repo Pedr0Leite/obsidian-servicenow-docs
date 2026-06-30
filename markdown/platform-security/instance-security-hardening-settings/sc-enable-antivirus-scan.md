@@ -14,9 +14,9 @@ breadcrumb: [File and resources, Hardening settings, Platform Security]
 
 # Enable antivirus scan
 
-The **com.glide.snap.enable\_scan** property activates the [[antivirus|antivirus]] scan functionality.
+The **com.glide.snap.enable\_scan** property activates the antivirus scan functionality.
 
-If **com.glide.snap.enable\_scan** isn't set to the recommended value of **true**, then [[antivirus-protection|antivirus scanning]] is disabled.
+If **com.glide.snap.enable\_scan** isn't set to the recommended value of **true**, then antivirus scanning is disabled.
 
 Set **com.glide.snap.enable\_scan** to the recommended value of **true** to enable antivirus scanning.
 
@@ -34,7 +34,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -96,7 +96,7 @@ Security risk
 
 -   Severity score: 7.7
 -   CVSS rating: High
--   Security risk details: [[users|Users]] may download malicious files leading to desktop and session compromise.
+-   Security risk details: Users may download malicious files leading to desktop and session compromise.
 
 </td></tr><tr><td>
 
@@ -117,10 +117,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[File and resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-file-resources.md)
 
-## Related
-
-- [[antivirus|Antivirus]]
-- [[antivirus-protection|Antivirus Scanning]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

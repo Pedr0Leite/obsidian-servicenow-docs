@@ -14,15 +14,9 @@ breadcrumb: [Portfolio Planning in Strategic Planning Workspace, Strategic Plann
 
 # Executing Strategic Planning work in PPM, Agile 2.0, and SAFe
 
-Facilitate execution of the work planned in [[alignment-planner-workspace-landing-page|Strategic Planning]] in ServiceNow applications such as [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\), [[agile-landing-page|Agile Development 2.0]], or [[SAFeoverview|Scaled Agile Framework \(SAFe\)]].
+Facilitate execution of the work planned in Strategic Planning in ServiceNow applications such as Project Portfolio Management \(PPM\), Agile Development 2.0, or Scaled Agile Framework \(SAFe\).
 
 Import, export, and manage your planning items between Strategic Planning and PPM, Agile 2.0, and SAFe.
 
 \[Omitted image "planning-items.png"\] Alt text: Real-time sync of planning items between the planning and execution systems.
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[SAFeoverview|Scaled Agile Framework \(SAFe\)]]

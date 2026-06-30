@@ -20,13 +20,13 @@ Role required: sn\_model\_risk\_mgmt.model\_governance or sn\_model\_risk\_mgmt.
 
 ## About this task
 
-You can schedule assessment and validation tasks for a model risk in the Monitor stage. You can also configure the conditions and frequency for these tasks in the model workflow settings. Based on the configuration, the assessment and validation tasks are created automatically. For more information, refer to [[create-model-workflow-settings|Configure Model Workflow Settings]].
+You can schedule assessment and validation tasks for a model risk in the Monitor stage. You can also configure the conditions and frequency for these tasks in the model workflow settings. Based on the configuration, the assessment and validation tasks are created automatically. For more information, refer to [Configure Model Workflow Settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-model-workflow-settings.md).
 
 This task guides you on how to schedule assessment and validation tasks manually from the model risk record.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[model-risk-workspace|Model Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Model Risk Workspace**.
 
 2.  Select the list icon \[Omitted image "list-icon-mrm.png"\] Alt text:.
 
@@ -197,10 +197,5 @@ This field appears only when **Custom** is selected from **Frequency** field.
 </table>8.  To use the frequency defined in the Model workflow settings, select **Revert to default frequency**.\[Omitted image "revert-to-default-frequency.png"\] Alt text: Revert to default frequency button.
 
 
-**Parent Topic:**[[using-mrm|Using Model Risk Management]]
+**Parent Topic:**[Using Model Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/using-mrm.md)
 
-## Related
-
-- [[create-model-workflow-settings|Configure Model Workflow Settings]]
-- [[using-mrm|Using Model Risk Management]]
-- [[model-risk-workspace|Model Risk Workspace]]

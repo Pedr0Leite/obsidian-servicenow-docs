@@ -14,7 +14,7 @@ breadcrumb: [Activate Incident Management - Major Incident Management, Major Inc
 
 # Slack notification installed with Major Incident Management
 
-Slack notifications are added with activation of [[c_IncidentManagement|Incident Management]] – Major Incident Management.
+Slack notifications are added with activation of Incident Management – Major Incident Management.
 
 |Slack notification|Description|
 |------------------|-----------|
@@ -23,6 +23,3 @@ Slack notifications are added with activation of [[c_IncidentManagement|Incident
 
 **Parent Topic:**[Activate Incident Management - Major Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/incident-management/activate-major-incident-management-plugin.md)
 
-## Related
-
-- [[c_IncidentManagement|Incident Management]]

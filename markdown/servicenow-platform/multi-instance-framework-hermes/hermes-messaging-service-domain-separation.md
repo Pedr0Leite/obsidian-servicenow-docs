@@ -14,7 +14,7 @@ breadcrumb: [Reference, Hermes Messaging Service, Manage service capabilities, E
 
 # Hermes Messaging Service domain separation
 
-[[domain-separation-relationship-formatter-editor|Domain separation]] is supported for the [[hermes-messaging-service|Hermes Messaging Service]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for the Hermes Messaging Service. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -57,7 +57,3 @@ All domain support features require the Domain Support - Domain Extensions Insta
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[domain-separation-relationship-formatter-editor|Domain separation]]
-- [[hermes-messaging-service|Hermes Messaging Service]]

@@ -35,19 +35,14 @@ Follow this procedure if Document Intelligence is installed after document types
 
 Document Categories and Document Types created in Document Processor before Document Intelligence was installed are also created in Document Intelligence. This enables OCR processing on Document List Items.
 
-**Parent Topic:**[[integration-with-document-intelligence|Integrating with Document Intelligence]]
+**Parent Topic:**[Integrating with Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/integration-with-document-intelligence.md)
 
 **Related topics**  
 
 
 [Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence-landing.md)
 
-[[using-document-processor|Using Document Processor]]
+[Using Document Processor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/using-document-processor.md)
 
-[[doc-processor-associate-document-list-items-to-category|Create document list item definitions for a document list definition]]
+[Create document list item definitions for a document list definition](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/doc-processor-associate-document-list-items-to-category.md)
 
-## Related
-
-- [[integration-with-document-intelligence|Integrating with Document Intelligence]]
-- [[using-document-processor|Using Document Processor]]
-- [[doc-processor-associate-document-list-items-to-category|Create document list item definitions for a document list definition]]

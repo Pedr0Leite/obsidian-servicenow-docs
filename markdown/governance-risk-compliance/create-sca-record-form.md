@@ -12,7 +12,7 @@ breadcrumb: [Create a scenario analysis record using simulation, Building a scen
 
 # Create Scenario Analysis form
 
-Use the Create Scenario Analysis form using Playbooks in [[grc-opres-landing-page|Operational Resilience]] Workspace. Enter the details of a [[scenario-analysis-ov|scenario analysis]], such as its name, goal, method, and owner, before running the guided playbook.
+Use the Create Scenario Analysis form using Playbooks in Operational Resilience Workspace. Enter the details of a scenario analysis, such as its name, goal, method, and owner, before running the guided playbook.
 
 ## Create Scenario Analysis form
 
@@ -85,7 +85,7 @@ Statistical model profile
 
 </td><td>
 
-Profile that controls how the simulation runs. This field is displayed only when **Method** is set to **Statistical Modelling**. The profile links an Annual loss model to the input and output [[airc-assessment-templates|assessment templates]] that the simulation uses. One profile ships with the base system: **Annual loss model driven by risk events**. This field is a reference picker, and only one profile can be selected per analysis.
+Profile that controls how the simulation runs. This field is displayed only when **Method** is set to **Statistical Modelling**. The profile links an Annual loss model to the input and output assessment templates that the simulation uses. One profile ships with the base system: **Annual loss model driven by risk events**. This field is a reference picker, and only one profile can be selected per analysis.
 
 </td></tr><tr><td>
 
@@ -97,9 +97,3 @@ Owner of the scenario analysis. By default, the user who creates the record is a
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[scenario-analysis-ov|Scenario analysis]]
-- [[airc-assessment-templates|Assessment templates]]

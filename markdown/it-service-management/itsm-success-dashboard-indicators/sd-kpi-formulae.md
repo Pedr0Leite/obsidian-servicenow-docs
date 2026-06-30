@@ -14,13 +14,13 @@ breadcrumb: [Explore, ITSM Success Dashboard indicators, IT Service Management]
 
 # ITSM Success Dashboard indicators KPI definitions and formulas
 
-Enable ITSM Success Dashboard and configure [[settings-mobile|settings]] to understand and use the Key Performance Indicators \(KPIs\) and formulas.
+Enable ITSM Success Dashboard and configure settings to understand and use the Key Performance Indicators \(KPIs\) and formulas.
 
 All the Key Performance Indicators \(KPIs\) and formulas used in the ITSM Success Dashboard are detailed below.
 
--   [[performance-overview-ref|Performance overview]]
--   [[service-quality-ref|Service Quality]]
--   [[operational-success-ref|Operational Success]]
+-   Performance overview
+-   Service Quality
+-   Operational Success
 
 -   **[Performance overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/performance-overview-ref.md)**  
 Performance overview details all the KPIs and metrics that help you analyse the benefits of your ITSM implementation.
@@ -31,9 +31,3 @@ An operational KPI is a quantifiable measure that tracks the efficiency and effe
 
 **Parent Topic:**[Exploring ITSM Success Dashboard indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/explore-success-dashboard-indicators.md)
 
-## Related
-
-- [[settings-mobile|Settings]]
-- [[performance-overview-ref|Performance overview]]
-- [[service-quality-ref|Service Quality]]
-- [[operational-success-ref|Operational Success]]

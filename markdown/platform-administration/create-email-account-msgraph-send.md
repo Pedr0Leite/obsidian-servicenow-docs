@@ -12,7 +12,7 @@ breadcrumb: [Send email using Microsoft Graph, Read or send emails using Microso
 
 # Create an email account for Microsoft Graph \(send\)
 
-[[t_ConfigureAnEmailAccount|Create an email account]] for sending emails from Microsoft Exchange Online using Microsoft Graph Endpoints.
+Create an email account for sending emails from Microsoft Exchange Online using Microsoft Graph Endpoints.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Antispam and malware scanning are managed by Microsoft Graph account and not Ser
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
 2.  Select **New**.
 
@@ -102,11 +102,5 @@ Option to create node logs for the raw data that is exchanged with the email ser
 5.  Select the test connection link at the bottom to test the account.
 
 
-**Parent Topic:**[[send-email-using-ms-graph|Sending email using Microsoft Graph]]
+**Parent Topic:**[Sending email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/send-email-using-ms-graph.md)
 
-## Related
-
-- [[send-email-using-ms-graph|Sending email using Microsoft Graph]]
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]

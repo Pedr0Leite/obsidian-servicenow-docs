@@ -15,7 +15,7 @@ breadcrumb: [Smart Assessment Engine assessments, Configure, Third-party Risk Ma
 
 # Managing TPRM SAE templates with Unified Content Management
 
-Use Unified Content Management \(UCM\) as a centralized, managed repository of pre-built smart [[airc-assessment-templates|assessment templates]] for Third-party Risk Management. With UCM installed, TPR managers can browse, preview, and activate templates for assessments, and update templates when newer versions are released.
+Use Unified Content Management \(UCM\) as a centralized, managed repository of pre-built smart assessment templates for Third-party Risk Management. With UCM installed, TPR managers can browse, preview, and activate templates for assessments, and update templates when newer versions are released.
 
 In TPRM, UCM supports multiple template types, including external questionnaires, internal risk questionnaires \(IRQ\), document requests, and standardized information gathering \(SIG\) assessments. The UCM library includes versioned templates \(for example, year-based versions\) to support managed updates to template content over time.
 
@@ -23,7 +23,7 @@ You can install the Unified Content Management application from the ServiceNow S
 
 In the Vendor Management Workspace, the UCM page is designed to show only TPRM SAE templates. Classic templates remain available through existing paths, but they are not visible or managed through UCM.
 
-To use SAE, you must set the [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After this property is set, SAE becomes the default assessment engine and replaces the legacy experience.
+To use SAE, you must set the Smart Assessment Engine enabled \[sn\_vdr\_risk\_asmt.sae\_enabled\] property. After this property is set, SAE becomes the default assessment engine and replaces the legacy experience.
 
 **Warning:** After this option is enabled, this selection can’t be reversed.
 
@@ -44,7 +44,3 @@ You are responsible for ensuring compliance with applicable laws, regulations, a
 
 [Monitoring your third-party risk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-monitoring-tpr.md)
 
-## Related
-
-- [[airc-assessment-templates|Assessment templates]]
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]

@@ -18,29 +18,29 @@ To see the current score, use a real-time score visualization in a score widget.
 
 ## Before you begin
 
--   The indicator for which you want the [[real-time-scores|real-time scores]] must have the **Show real-time score** property enabled.
+-   The indicator for which you want the real-time scores must have the **Show real-time score** property enabled.
 -   Role required: pa\_admin or admin
 
 ## About this task
 
-**Note:** This feature is part of the Core UI front end. It is not supported on [[c_performanceAnalyticsAndReporting|Platform Analytics]] dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]] or [[interactive-filters-workspace|Filters in Platform Analytics]].
+**Note:** This feature is part of the Core UI front end. It is not supported on Platform Analytics dashboards or UI Builder pages, except to a limited extent when migrated in compatibility mode. To build Platform Analytics components, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md) or [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md).
 
 This feature is deprecated, meaning it is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
-A real-time score visualization shows the current score and both the absolute and percentage change between this score and the score at the last previous scheduled data collection. The score is calculated when a dashboard user opens a dashboard that contains the widget. This visualization is similar to a **Chart** view in an [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]. You can also show a trend line of absolute or percentage changes in scores.
+A real-time score visualization shows the current score and both the absolute and percentage change between this score and the score at the last previous scheduled data collection. The score is calculated when a dashboard user opens a dashboard that contains the widget. This visualization is similar to a **Chart** view in an Analytics Hub. You can also show a trend line of absolute or percentage changes in scores.
 
 For more information, see [Real-time scores](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/real-time-scores.md).
 
 **Warning:**
 
--   Real-time scores can differ per viewer and differ from collected scores. Real-time scores are taken directly from the relevant facts tables. Therefore, the [[access-control|Access Control]] Lists \(ACL\) of those facts tables determine the real-time scores that each logged-in user sees.
+-   Real-time scores can differ per viewer and differ from collected scores. Real-time scores are taken directly from the relevant facts tables. Therefore, the Access Control Lists \(ACL\) of those facts tables determine the real-time scores that each logged-in user sees.
 -   If the widget has too many data elements, it cannot update in real time. In this case, a message appears that instructs the viewer to refresh the widget manually.
 
 \[Omitted image "real-time-score.png"\] Alt text: Real-time score visualization of open incidents
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[widgets|Widgets]]**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Widgets**.
 
 2.  Click **New**.
 
@@ -102,7 +102,7 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
     **Note:**
 
     -   If multiple elements are selected on the breakdown dashboard, only the aggregate value of the elements can be shown.
-    -   Record watcher is not supported on [[score-widgets|Score widgets]] when multiple elements are selected on a breakdown dashboard. In this case, real time is refreshed only on page refresh.
+    -   Record watcher is not supported on Score widgets when multiple elements are selected on a breakdown dashboard. In this case, real time is refreshed only on page refresh.
     For more information, see [Configure widgets for breakdown dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/set-up-widgets-for-breakdown-dashboards.md).
 
 9.  Select a template.
@@ -117,7 +117,7 @@ Drill down to a second level of breakdown and element, if a first-level breakdow
 
 10. In the **Element Settings** tab, you can select an element filter instead of selecting a specific element in the **Element** field.
 
-    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using [[c_BreakdownElementFilters|element filters]] to personalize widgets, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
+    Use this approach to personalize which breakdowns are shown depending on the viewer. For more information about using element filters to personalize widgets, see [Personalized visuals](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/personalized-visuals.md).
 
 11. Click **Submit**.
 
@@ -137,14 +137,3 @@ To view the widget, add it to a dashboard or a portal.
 
 [Create an automated indicator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/t_CreateAnAutomatedIndicator.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[real-time-scores|Real-time scores]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[access-control|Access control]]
-- [[widgets|Widgets]]
-- [[score-widgets|Score widgets]]
-- [[c_BreakdownElementFilters|Element filters]]

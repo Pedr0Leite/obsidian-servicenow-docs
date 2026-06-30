@@ -15,7 +15,7 @@ breadcrumb: [Accelerator catalog, View the Initiatives and Accelerators catalog,
 
 # Optimization Accelerators
 
-Optimization Accelerators provide standardized user story design documentation and configuration capabilities to accelerate platform and [[product-adoption|product adoption]] in customer sub-production environments.
+Optimization Accelerators provide standardized user story design documentation and configuration capabilities to accelerate platform and product adoption in customer sub-production environments.
 
 ## Accelerators available in each package
 
@@ -30,6 +30,3 @@ Accelerator outputs and formats have common standardized features, but may diffe
 |[Optimization Capability Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-configuration.md)| |✓| |✓|✓| |
 |[Optimization Capability Design](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/accelerator-and-initiative-list/optimization-capability-design.md)| |✓| |✓|✓| |
 
-## Related
-
-- [[product-adoption|Product Adoption]]

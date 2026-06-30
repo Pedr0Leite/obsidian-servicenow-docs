@@ -32,7 +32,7 @@ You can customize the JSON value to provide a variety of options. For example, u
 
 1.  Navigate to **All** &gt; **Now Experience Framework** &gt; **Experiences**.
 
-2.  From the list of UX [[dex-workspace-application-tab|applications]], select **Service Operations Workspace**.
+2.  From the list of UX applications, select **Service Operations Workspace**.
 
 3.  On the UX Application form, from the UX Page Properties related list, select the **chrome\_tab** property.
 
@@ -85,6 +85,3 @@ You can customize the JSON value to provide a variety of options. For example, u
 
 **Parent Topic:**[Landing page configurations in Service Operations Workspace for ITSM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/landing-page-configurations-sow-itsm.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

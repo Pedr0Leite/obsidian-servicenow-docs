@@ -169,7 +169,7 @@ Cited criterion
 
 </td><td>
 
-Specific clause, paragraph, section, or page [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] entered from the selected criteria.This field appears only when H&amp;S Document, Knowledge base article, or Text is selected from **Criteria type**.
+Specific clause, paragraph, section, or page reference entered from the selected criteria.This field appears only when H&amp;S Document, Knowledge base article, or Text is selected from **Criteria type**.
 
 </td></tr><tr><td>
 
@@ -190,6 +190,3 @@ Additional details about the finding.
 </td></tr></tbody>
 </table>**Parent Topic:**[Health and Safety Risk Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-risk-management/hs-risk-mgmt-reference.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

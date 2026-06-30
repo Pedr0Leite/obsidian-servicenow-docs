@@ -14,7 +14,7 @@ breadcrumb: [Using Career Assessment, Career Assessment, Growth Experiences, HR 
 
 # Create an exam
 
-Create an exam on [[exam-engine|Career Assessment]].
+Create an exam on Career Assessment.
 
 ## Before you begin
 
@@ -41,7 +41,7 @@ The exam is created in Draft state.
 
 ## What to do next
 
-[[add-questions-exam|Add questions to an exam]]. See, [Add questions to an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md).
+Add questions to an exam. See, [Add questions to an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md).
 
 -   **[Add questions to an exam](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/talent-development-core/add-questions-exam.md)**  
 Add questions for an exam in Career Assessment.
@@ -53,12 +53,7 @@ Add questions for an exam in Career Assessment.
 
 [Create exam catalogs]()
 
-[Add exams to a [[exploring-learning-exp|learning]] path from Career Assessment]()
+[Add exams to a learning path from Career Assessment]()
 
 [View an exam instance]()
 
-## Related
-
-- [[exam-engine|Career Assessment]]
-- [[add-questions-exam|Add questions to an exam]]
-- [[exploring-learning-exp|Learning]]

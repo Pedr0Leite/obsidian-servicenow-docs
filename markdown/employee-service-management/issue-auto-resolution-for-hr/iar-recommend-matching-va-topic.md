@@ -16,7 +16,7 @@ breadcrumb: [Use, Issue Auto Resolution for HR, HR Service Delivery, Employee Se
 
 The Issue Auto Resolution application for HR has enhanced its search results with the introduction of Virtual Agent to the IAR pipeline flow. The employee can now receive a matching Virtual Agent topic as a recommendation for a noncritical case, when the topic is available in the database, before the application performs a general AI search.
 
-In the previous version of [[issue-auto-resolution-hr|Issue Auto Resolution for HR]], all the noncritical HR cases were sent recommendations that were based only on the AI search results. With this enhanced version, the IAR application first checks if a matching Virtual Agent topic is available for that particular HR case. If there’s a matching Virtual Agent topic, the IAR application recommends the identified Virtual Agent topic to the employee. If no matching Virtual Agent topic is found, the application performs an AI search, and the recommendations are sent to the employee based on the AI search results.
+In the previous version of Issue Auto Resolution for HR, all the noncritical HR cases were sent recommendations that were based only on the AI search results. With this enhanced version, the IAR application first checks if a matching Virtual Agent topic is available for that particular HR case. If there’s a matching Virtual Agent topic, the IAR application recommends the identified Virtual Agent topic to the employee. If no matching Virtual Agent topic is found, the application performs an AI search, and the recommendations are sent to the employee based on the AI search results.
 
 **Note:** To enable the Virtual Agent topic recommendation in the Issue Auto Resolution for HR, the administrator must set the sn\_iar\_hr.hr\_intent\_solution\_enable property to true. The ServiceNow® support team can update this feature to your Issue Auto Resolution flow.
 
@@ -35,6 +35,3 @@ The Virtual Agent process is as follows:
 
 The new recommendations section displays the titles of the knowledge articles and catalog items in the email. The \[Omitted image "iar-knowledge-article.png"\] Alt text: IAR knowledge article icon. icon indicates that the recommendation title is a catalog item. The \[Omitted image "iar-catalog-item.png"\] Alt text: IAR catalog item icon. icon indicates that the recommendation title is a knowledge article.
 
-## Related
-
-- [[issue-auto-resolution-hr|Issue Auto Resolution for HR]]

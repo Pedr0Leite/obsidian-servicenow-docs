@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist Data Kit, Now Assist Data Kit, Enable AI experienc
 
 # Find and cleanse sensitive data
 
-You can scan your [[ai-datasets|datasets]] for sensitive data, like personally identifiable information \(PII\). If you find sensitive data, then you can cleanse it from your datasets.
+You can scan your datasets for sensitive data, like personally identifiable information \(PII\). If you find sensitive data, then you can cleanse it from your datasets.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ The sensitive data scan has the following limitations:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[now-assist-data-kit-landing|Now Assist Data Kit]]** &gt; **Home**.
+1.  Navigate to **All** &gt; **Now Assist Data Kit** &gt; **Home**.
 
 2.  On the **Datasets** tab, select the dataset that you want to scan for sensitive data.
 
@@ -42,7 +42,4 @@ The sensitive data scan has the following limitations:
 
     You can also see the records that contain sensitive data by viewing the Data Insights tab. To learn more, see [View data insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-data-kit/view-data-insights.md).
 
-## Related
 
-- [[ai-datasets|Datasets]]
-- [[now-assist-data-kit-landing|Now Assist Data Kit]]

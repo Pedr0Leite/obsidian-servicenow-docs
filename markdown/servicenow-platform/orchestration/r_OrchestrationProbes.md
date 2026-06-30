@@ -18,7 +18,7 @@ Certain probes, controlled by MID Servers, perform Orchestration tasks on remote
 
 ## How Orchestration probes work
 
-When a Workflow executes an Orchestration activity, that activity launches a probe, which writes an output record to the ECC Queue. The [[mid-server-landing|MID Server]] selected for the activity checks the ECC Queue for assignments, and then executes the appropriate probe to do the work on the target machine. The information about the activity \(machine restarted, files copied, etc.\) that is returned from the target machine by the probe is written to the ECC Queue as an input record. This information is then sent from the ECC Queue to a sensor that is built into the Workflow activity. The Workflow is updated, and the next activity is executed.
+When a Workflow executes an Orchestration activity, that activity launches a probe, which writes an output record to the ECC Queue. The MID Server selected for the activity checks the ECC Queue for assignments, and then executes the appropriate probe to do the work on the target machine. The information about the activity \(machine restarted, files copied, etc.\) that is returned from the target machine by the probe is written to the ECC Queue as an input record. This information is then sent from the ECC Queue to a sensor that is built into the Workflow activity. The Workflow is updated, and the next activity is executed.
 
 **Note:** The probe parameters are set by the activities that launch the probe.
 
@@ -74,7 +74,7 @@ DNSNameResolver
 
 </td><td>
 
-A probe that resolves a fully qualified domain name \(FQDN\) into an [[ip-address|IP address]]. The probe executes MID Server queries in parallel. It utilizes DNS lookup by the MID Server host OS to make use of the OS maintained DNS cache. It also leverages the hosts file on the OS.
+A probe that resolves a fully qualified domain name \(FQDN\) into an IP address. The probe executes MID Server queries in parallel. It utilizes DNS lookup by the MID Server host OS to make use of the OS maintained DNS cache. It also leverages the hosts file on the OS.
 
 </td></tr><tr><td>
 
@@ -208,7 +208,3 @@ A probe that runs a Windows PowerShell script on the MID Server. The PowerShell 
 </td></tr></tbody>
 </table>**Parent Topic:**[Deprecated Orchestration activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/r_OrchestrationBasicActivities.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

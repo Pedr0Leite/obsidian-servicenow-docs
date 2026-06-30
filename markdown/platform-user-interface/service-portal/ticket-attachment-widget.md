@@ -16,7 +16,7 @@ breadcrumb: [Example widgets, Widget library, Using portal widgets, Configuring 
 
 Use the attachment widget to attach items to tickets. You can use this base system widget as-is in your portal or clone it to suit your own business needs.
 
-[[attachments-configurable-workspace|Attachments]] should be less than 24MB. You can drag files into the Attachments widget to add them to a record.
+Attachments should be less than 24MB. You can drag files into the Attachments widget to add them to a record.
 
 \[Omitted image "WidgetTicketAttachments.png"\] Alt text: Ticket Attachments widget
 
@@ -32,13 +32,9 @@ Use the attachment widget to attach items to tickets. You can use this base syst
 **Related topics**  
 
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[attachments-configurable-workspace|Attachments]]
-- [[c_ServicePortal|Service Portal]]

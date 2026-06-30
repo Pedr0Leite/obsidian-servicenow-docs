@@ -14,7 +14,7 @@ breadcrumb: [Set up, Configure, Demand Management, Project Portfolio Management,
 
 # Planning for Demand Management
 
-Plan the listed items before setting up [[c_DemandManagement|Demand Management]].
+Plan the listed items before setting up Demand Management.
 
 **Important:**
 
@@ -22,7 +22,7 @@ Demands are available in the Next Experience for Demand Management. For more inf
 
 The workspace provides additional value beyond the legacy experience, including Playbook, Docs, and the ability to define different governance processes using playbooks.
 
-If you have [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace or [[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
+If you have Portfolio Planning Workspace or Strategic Planning Workspace, you can use the Next Experience for Demand Management to create and manage your demands.
 
 -   New customers: Use Next Experience for Demand Management to create and manage your demands.
 -   Existing customers: If you already have demands in the classic UI, you can continue using it. However, we recommend moving to the Next Experience for Demand Management, as your existing demands are automatically available there.
@@ -83,7 +83,7 @@ Resource assignments
 
 </td><td>
 
-Consider creating resource assignments to help the organization understand the time and resource costs associated with the demand. Any resource assignment attached to the demand propagates to the project.Resource assignments require that the [[rsrc-mgmt-wrkspc|Resource Management Workspace]] application is active.
+Consider creating resource assignments to help the organization understand the time and resource costs associated with the demand. Any resource assignment attached to the demand propagates to the project.Resource assignments require that the Resource Management Workspace application is active.
 
 </td></tr><tr><td>
 
@@ -91,7 +91,7 @@ Enhancement and defect requests
 
 </td><td>
 
-Determine if you need the ability to manage enhancement and defect requests as demands. This functionality requires that the [[agile-development|Agile Development]] application is active.
+Determine if you need the ability to manage enhancement and defect requests as demands. This functionality requires that the Agile Development application is active.
 
 </td></tr></tbody>
 </table>**Parent Topic:**[Set up Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/c_SettingUpDemandManagement.md)
@@ -100,10 +100,3 @@ Determine if you need the ability to manage enhancement and defect requests as d
 
 **Next topic:**[Populate the stakeholder registry](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_PopulatingTheStakeholderRegistry.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[rsrc-mgmt-wrkspc|Resource Management Workspace]]
-- [[agile-development|Agile Development]]

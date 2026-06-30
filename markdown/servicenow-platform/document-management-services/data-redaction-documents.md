@@ -20,7 +20,7 @@ Manually mask sensitive content or data from your PDF documents. Data redaction 
 
 Only documents in the Published or Draft state are eligible for data redaction.
 
-Sensitive data can be redacted by searching for a keyword or by selecting and drawing over any area in PDF that needs to be [[masked|masked]]. The search and redact option is applicable only for text and not for images.
+Sensitive data can be redacted by searching for a keyword or by selecting and drawing over any area in PDF that needs to be masked. The search and redact option is applicable only for text and not for images.
 
 **Note:**
 
@@ -34,6 +34,3 @@ Redact sensitive data from PDF documents by either searching keywords or selecti
 
 **Parent Topic:**[Using Document Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/document-management-services/using-document-management.md)
 
-## Related
-
-- [[masked|Masked]]

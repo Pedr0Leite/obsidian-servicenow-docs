@@ -13,7 +13,7 @@ breadcrumb: [Install Purchase Order Management, Configure, Purchase Order Manage
 
 # Application plugin installation sequence in Purchase Order Management
 
-View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in [[purchase-order-mgmt-landing-page|Purchase Order Management]].
+View the consolidated list of plugins, high-level description of each plugin, and the dependencies that are required before installing each plugin in Purchase Order Management.
 
 ## Application plugin list
 
@@ -31,16 +31,16 @@ Dependencies
 
 </th></tr></thead><tbody><tr><td>
 
-[[purchase-experience-workflow|Sourcing and Purchasing Automation]] \(com.snc.sn\_pr\)
+Sourcing and Purchasing Automation \(com.snc.sn\_pr\)
 
 </td><td>
 
-Provides workflows and automation for sourcing requests, [[negotiations|negotiations]], and purchase requisitions.
+Provides workflows and automation for sourcing requests, negotiations, and purchase requisitions.
 
 </td><td>
 
 -   Source-to-Pay Common Architecture \(com.snc.sn\_shop\)
--   [[supplier-common|Supplier Common Architecture]] \(com.snc.sn\_slm\)
+-   Supplier Common Architecture \(com.snc.sn\_slm\)
 
 </td></tr><tr><td>
 
@@ -48,7 +48,7 @@ Purchase Order Management \(com.snc.sn\_poem\_core\)
 
 </td><td>
 
-Enables operational buyers and suppliers to flag [[purchase-order-table|purchase order]] issues and resolve them efficiently.
+Enables operational buyers and suppliers to flag purchase order issues and resolve them efficiently.
 
 </td><td>
 
@@ -56,7 +56,7 @@ Sourcing and Purchasing Automation \(com.snc.sn\_pr\)
 
 </td></tr><tr><td>
 
-[[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]] \(snc.sn\_spend\_awa\)
+Advanced Work Assignment for Source-to-Pay Operations \(snc.sn\_spend\_awa\)
 
 </td><td>
 
@@ -64,18 +64,8 @@ Provides configurations to support automatic routing, queuing, and assignment of
 
 </td><td>
 
-[[advanced-work-assignment|Advanced Work Assignment]] \(glide.awa\)
+Advanced Work Assignment \(glide.awa\)
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[install-purch-order-mgmt|Install Purchase Order Management]]
+</table>**Parent Topic:**[Install Purchase Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/install-purch-order-mgmt.md)
 
-## Related
-
-- [[install-purch-order-mgmt|Install Purchase Order Management]]
-- [[purchase-order-mgmt-landing-page|Purchase Order Management]]
-- [[purchase-experience-workflow|Sourcing and Purchasing Automation]]
-- [[negotiations|Negotiations]]
-- [[supplier-common|Supplier Common Architecture]]
-- [[purchase-order-table|Purchase order]]
-- [[awa-spo|Advanced Work Assignment for Source-to-Pay Operations]]
-- [[advanced-work-assignment|advanced work assignment]]

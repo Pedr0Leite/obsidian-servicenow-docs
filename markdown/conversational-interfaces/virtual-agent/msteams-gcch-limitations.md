@@ -14,7 +14,7 @@ breadcrumb: [Integrate VA with MS Teams for GCC-H, Specialized VA integrations f
 
 # Limitations in GCC-Hor DoD for Microsoft Teams integration with Virtual Agent
 
-Learn about the limitations for Microsoft Teams Government Community Cloud - High \(GCC-H\) or the US Department of Defense \(DoD\)Microsoft Teams integration with [[virtual-agent-landing-page|Virtual Agent]].
+Learn about the limitations for Microsoft Teams Government Community Cloud - High \(GCC-H\) or the US Department of Defense \(DoD\)Microsoft Teams integration with Virtual Agent.
 
 ## Limitations
 
@@ -23,6 +23,3 @@ Learn about the limitations for Microsoft Teams Government Community Cloud - Hig
 
 **Parent Topic:**[Integrating Virtual Agent with Microsoft Teams for GCC-H or DoD](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-integ-msteams-gcch.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

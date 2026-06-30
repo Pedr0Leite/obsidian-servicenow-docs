@@ -20,7 +20,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to the [[users-page|Users page]].
+1.  Navigate to the Users page.
 
 2.  Next to the user you want to deactivate, select the Deactivate User icon \[Omitted image "delete-icon-ot-console.png"\] Alt text:.
 
@@ -28,6 +28,4 @@ Role required: admin
 
     \[Omitted image "deactivate-user-ot-console.png"\] Alt text: Deactivate user window
 
-## Related
 
-- [[users-page|Users page]]

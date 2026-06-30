@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Manage hardware asset requests using the Zero Touch request flow
 
-Fulfill hardware asset requests of your employees through an external provider by using the [[zero-touch-request|Zero Touch request flow]].
+Fulfill hardware asset requests of your employees through an external provider by using the Zero Touch request flow.
 
 ## Setup required for providers
 
@@ -41,6 +41,3 @@ Make sure that you have the completed the following tasks so that your catalog r
 1.  [Request a hardware asset through the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/request-hardware-assets-ztr-catalog.md).
 2.  [Acknowledge receipt of an asset received through the Zero Touch request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/acknowledge-ztr-asset-on-mobile.md).
 
-## Related
-
-- [[zero-touch-request|Zero Touch request flow]]

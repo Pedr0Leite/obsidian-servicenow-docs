@@ -15,11 +15,11 @@ breadcrumb: [AWS discovery, Available cloud discovery patterns, Discovery patter
 
 # Amazon Relational Database Service \(Amazon RDS\) discovery with Patterns
 
-[[r-discovery|Discovery]] and [[c_ServiceMappingOverview|Service Mapping]] Patterns uses the Amazon AWS Relational Database Service pattern to find Amazon RDS components in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
+Discovery and Service Mapping Patterns uses the Amazon AWS Relational Database Service pattern to find Amazon RDS components in your environment. Discovering some of these resources may require updating to the latest version of the Discovery and Service Mapping Patterns application from the ServiceNow Store.
 
 Amazon RDS is a managed relational database service by Amazon Web Services \(AWS\). Amazon RDS enables you to create and manage relational database instances in the cloud.
 
-The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for discovery and [[cloud-governance|cloud governance]]. C2S is the government program that brings AWS into the Intelligence Community.
+The ServiceNow AI Platform supports Amazon Commercial Cloud Services \(C2S\) for discovery and cloud governance. C2S is the government program that brings AWS into the Intelligence Community.
 
 ## Pattern-based discovery and mapping requirements
 
@@ -252,8 +252,3 @@ The Amazon AWS Relational Database Service pattern collects tags and populates t
 
 **Parent Topic:**[AWS discovery using patterns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/data-discovered-aws-patterns.md)
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[cloud-governance|Cloud Governance]]

@@ -22,13 +22,13 @@ Role required: sn\_ohs\_im.admin
 
 ## About this task
 
-This property is required to generate the safety frequency rates metrics on the [[health-safety-core-workspace|Health and Safety Workspace]] landing page.
+This property is required to generate the safety frequency rates metrics on the Health and Safety Workspace landing page.
 
 The property value is also used to auto-fill the total hours worked when exporting an injury and illness report, such as the OSHA 300A form, when annual information is not available for the establishment.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **Health and Safety administration** &gt; **Properties**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety administration** &gt; **Properties**.
 
 2.  In the property **Total Hours Worked**, enter the total number of employee hours worked for your organization in the past 12 months.
 
@@ -37,7 +37,3 @@ The property value is also used to auto-fill the total hours worked when exporti
 
 **Parent Topic:**[Setting up Health and Safety Incident Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/setting-up-hs-incident-mgmt.md)
 
-## Related
-
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-safety-overview|Health and Safety]]

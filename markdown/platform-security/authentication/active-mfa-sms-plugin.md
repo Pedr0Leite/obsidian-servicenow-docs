@@ -14,7 +14,7 @@ breadcrumb: [SMS as an MFA factor, MFA factor policies, MFA verification methods
 
 # Activate the MFA with SMS plugin
 
-For MFA with SMS, install the [[mfa-landing|Multi-factor authentication]] with SMS \(`com.snc.[[c_Authentication|authentication]].sms_mfa`\) plugin.
+For MFA with SMS, install the Multi-factor authentication with SMS \(`com.snc.authentication.sms_mfa`\) plugin.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: admin
 
 The following items are installed with Multi-factor authentication with SMS:
 
--   [[adaptive-authentication|Adaptive Authentication]] \(`com.snc.adaptive_authentication`
+-   Adaptive Authentication \(`com.snc.adaptive_authentication`
 -   Notify - Twilio Direct Driver \(`com.snc.notify.twilio_direct`\)
 
 Dependent Plugin: Integration - Multifactor Authentication \(`com.snc.integration.multifactor.authentication`\)
@@ -35,9 +35,9 @@ Dependent Plugin: Integration - Multifactor Authentication \(`com.snc.integratio
 
 1.  Navigate to **All** &gt; **System Applications** &gt; **All Available Applications** &gt; **All**.
 
-2.  Find the Multi-factor authentication with SMS plugin \(`com.snc.authentication.sms_mfa`\) using the [[adaptive-auth-filter-criteria|filter criteria]] and search bar.
+2.  Find the Multi-factor authentication with SMS plugin \(`com.snc.authentication.sms_mfa`\) using the filter criteria and search bar.
 
-    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to [[c_requestAPI|request]] it from ServiceNow personnel.
+    You can search for the plugin by its name or ID. If you cannot find a plugin, you might have to request it from ServiceNow personnel.
 
 3.  Select **Install** to start the installation process.
 
@@ -45,10 +45,4 @@ Dependent Plugin: Integration - Multifactor Authentication \(`com.snc.integratio
 
     You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
-## Related
 
-- [[mfa-landing|Multi-factor authentication]]
-- [[c_Authentication|Authentication]]
-- [[adaptive-authentication|Adaptive authentication]]
-- [[adaptive-auth-filter-criteria|Filter criteria]]
-- [[c_requestAPI|request]]

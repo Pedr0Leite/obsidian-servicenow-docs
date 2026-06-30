@@ -57,7 +57,7 @@ Filter
 
 </td><td>
 
-Filter field to quickly navigate to the module you want. The search functionality accommodates missing letters in your queries. The default accuracy score can be updated by your administrator. For more information, see [[pol-sys-properties|Next Experience system properties]].
+Filter field to quickly navigate to the module you want. The search functionality accommodates missing letters in your queries. The default accuracy score can be updated by your administrator. For more information, see [Next Experience system properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/pol-sys-properties.md).
 
  For a list view, enter the table name in the format `name.list`, for example, sys\_properties.list.
 
@@ -75,7 +75,7 @@ All menu
 
 </td><td>
 
-[[lists-configurable-workspace|Lists]] all the menu items and modules in the instance.
+Lists all the menu items and modules in the instance.
 
  Select the refresh icon \[Omitted image "polaris-refresh-icon.png"\] Alt text: to obtain the latest menu items without the need to manually clear the cache.
 
@@ -93,7 +93,7 @@ Items you have marked as favorites, for example, favorite workspaces, classic en
 
  Select the edit icon \[Omitted image "polaris-edit-icon.png"\] Alt text: to open the edit modal.
 
- For more information on adding and editing favorites, see [[managing-your-favorites|Managing your favorites in Next Experience]].
+ For more information on adding and editing favorites, see [Managing your favorites in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/managing-your-favorites.md).
 
 </td></tr><tr><td>
 
@@ -225,7 +225,7 @@ Help
 
 </td><td>
 
-The Help menu includes **Get help** and **[[whats-new|What's new]]**. A blue dot indicates new updates. Use **Provide Feedback** to share feedback about the current page with ServiceNow®.
+The Help menu includes **Get help** and **What's new**. A blue dot indicates new updates. Use **Provide Feedback** to share feedback about the current page with ServiceNow®.
 
 </td></tr><tr><td>
 
@@ -263,7 +263,7 @@ User menu
 
 Menu items to personalize your instance. -   **Profile**: Your instance profile, which includes your personal information displayed in the instance.
 -   **Preferences**: Display, accessibility, notifications, and Workspace preferences.
--   **Keyboard shortcuts**: Display a modal with keyboard shortcuts that are specific to the screen you’re viewing. For more information on the keyboard shortcut modal, see [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]]. The keyboard shortcuts modal can also be accessed using **Command+/** \(Mac\) or **Control+/** \(Windows\).
+-   **Keyboard shortcuts**: Display a modal with keyboard shortcuts that are specific to the screen you’re viewing. For more information on the keyboard shortcut modal, see [Next Experience keyboard shortcuts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-keyboard-shortcuts.md). The keyboard shortcuts modal can also be accessed using **Command+/** \(Mac\) or **Control+/** \(Windows\).
 -   **Impersonate user**: Administrators can impersonate other authenticated users for testing purposes and view impersonation logs. For more information, see [Impersonating users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ImpersonateAUser.md).
 -   **Elevate role**: Designate any role as an elevated privilege role, and then assign that role to one or more users. Do this when you want to restrict users from having access to the rights that the role provides immediately after login.
 -   **Printer friendly version**: A printer-friendly version of the current content frame.
@@ -273,11 +273,3 @@ Menu items to personalize your instance. -   **Profile**: Your instance profile,
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[pol-sys-properties|Next Experience system properties]]
-- [[managing-your-favorites|Managing your favorites in Next Experience]]
-- [[next-experience-keyboard-shortcuts|Next Experience keyboard shortcuts]]
-- [[lists-configurable-workspace|Lists]]
-- [[whats-new|What's New]]

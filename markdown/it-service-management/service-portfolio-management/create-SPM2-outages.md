@@ -22,7 +22,7 @@ Role required: service\_editor
 
 ## About this task
 
-[[SPM2-landing-page|Service Portfolio Management]] tracks and reports on outages for all business or technical service offerings that include availability commitments.
+Service Portfolio Management tracks and reports on outages for all business or technical service offerings that include availability commitments.
 
 The outage is used to evaluate the availability of the offering and appears in the reports generated for this offering. There are three types of outages:
 
@@ -85,6 +85,3 @@ When an outage is opened against a business or technical service, all child offe
 
 **Parent Topic:**[Using Service Portfolio Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-portfolio-management/SPM2-using.md)
 
-## Related
-
-- [[SPM2-landing-page|Service Portfolio Management]]

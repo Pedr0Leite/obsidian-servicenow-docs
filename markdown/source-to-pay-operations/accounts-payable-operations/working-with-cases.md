@@ -44,7 +44,7 @@ Inquiry
 -   Payment inquiry
 -   Invoice inquiry
 -   Expedite payment request
--   [[payment-terms|Payment terms]] issue
+-   Payment terms issue
 -   Invoice entry assistance
 
 </td><td>
@@ -53,7 +53,7 @@ Agent\[sn\_ap\_cm.agent\]
 
 </td><td>
 
-You can view the [[work-with-inquiry-cases|invoice inquiry cases]] in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+You can view the invoice inquiry cases in the Source-to-Pay Workspace.
 
  For more information, see [Invoice inquiry cases](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/work-with-inquiry-cases.md).
 
@@ -78,7 +78,7 @@ You can view the manual invoice ingestion cases in the Source-to-Pay Workspace.
 </td></tr></tbody>
 </table>To view the invoice cases, do the following:
 
-1.  Navigate to **[[acc-pay-mgmt-landing-page|Accounts Payable Operations]]** &gt; **Accounts Payable Workspace**.
+1.  Navigate to **Accounts Payable Operations** &gt; **Accounts Payable Workspace**.
 2.  Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon\).
 3.  Do one of the following:
     -   As an Accounts Payable Specialist:
@@ -95,7 +95,7 @@ You can view the manual invoice ingestion cases in the Source-to-Pay Workspace.
         -   Navigate to **Lists** &gt; **My Work** &gt; **Open cases**
         -   Navigate to **Lists** &gt; **All Work** &gt; **Cases**
 
-            With [[acc-pay-case-mgmt-overview|Invoice Case Management]], agents can manage and work on their assigned invoice cases, request more information from suppliers or employees, and create and assign tasks to users using the Accounts Payable workspace.
+            With Invoice Case Management, agents can manage and work on their assigned invoice cases, request more information from suppliers or employees, and create and assign tasks to users using the Accounts Payable workspace.
 
             \[Omitted image "ap-agents.png"\] Alt text: AP Agents view inquiry case
 
@@ -113,7 +113,7 @@ You can view the manual invoice ingestion cases in the Source-to-Pay Workspace.
 
 [Advanced Work Assignment in Accounts Payable Operations]()
 
-[Configure [[advanced-work-assignment|Advanced Work Assignment]] for Accounts Payable Operations]()
+[Configure Advanced Work Assignment for Accounts Payable Operations]()
 
 [Using Advanced Work Assignment for Accounts Payable Operations]()
 
@@ -127,14 +127,5 @@ You can view the manual invoice ingestion cases in the Source-to-Pay Workspace.
 
 [Playbook for updating the invoice primary data]()
 
-[Using [[supplier-central|Supplier Collaboration Portal]] in APO]()
+[Using Supplier Collaboration Portal in APO]()
 
-## Related
-
-- [[payment-terms|Payment terms]]
-- [[work-with-inquiry-cases|Invoice inquiry cases]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[acc-pay-case-mgmt-overview|Invoice Case Management]]
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-central|Supplier Collaboration Portal]]

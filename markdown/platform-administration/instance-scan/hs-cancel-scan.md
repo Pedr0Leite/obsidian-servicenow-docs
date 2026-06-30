@@ -14,7 +14,7 @@ breadcrumb: [Using Instance Scan, Instance Scan, Maintain and monitor, Administe
 
 # Cancel a scan
 
-Cancel or abort an ongoing scan by either selecting Cancel Scan in the scan execution modal or the Cancel Scan related link in the [[hs-results|results]] record.
+Cancel or abort an ongoing scan by either selecting Cancel Scan in the scan execution modal or the Cancel Scan related link in the results record.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hs-landing-page|Instance Scan]]** &gt; **Checks**.
+1.  Navigate to **All** &gt; **Instance Scan** &gt; **Checks**.
 
     The list of checks shows up.
 
@@ -44,7 +44,7 @@ Role required: admin
 
     \[Omitted image "hs-cancel-scan-related-link.png"\] Alt text: Screenshot showing the status and cancel scan related link
 
-    **Note:** The **Cancel Scan** related link is visible only if the scan is still running. The **Status** field in the [[hc-scan-results|Scan Results]] form say In Progress if the scan is still ongoing.
+    **Note:** The **Cancel Scan** related link is visible only if the scan is still running. The **Status** field in the Scan Results form say In Progress if the scan is still ongoing.
 
 5.  Close the Cancel Scan modal or select **Go to Results** in the Cancel Scan modal.
 
@@ -52,7 +52,7 @@ Role required: admin
 
     The Scan Result record is updated. The **Status** field now says Cancelled.
 
-6.  Scroll down to the **Scan [[hs-findings|Findings]]** related list.
+6.  Scroll down to the **Scan Findings** related list.
 
     It generates the findings of the scan till the point it was cancelled.
 
@@ -84,9 +84,3 @@ Role required: admin
 
 [Using the Instance Scan dashboard]()
 
-## Related
-
-- [[hs-results|Results]]
-- [[hs-landing-page|Instance Scan]]
-- [[hc-scan-results|Scan results]]
-- [[hs-findings|Findings]]

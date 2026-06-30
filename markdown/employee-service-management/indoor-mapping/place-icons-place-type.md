@@ -14,7 +14,7 @@ breadcrumb: [Manage places, Manage map objects and data, Indoor Mapping, Workpla
 
 # Create Indoor Mapping icons and place types
 
-To [[manage-buildings|manage places]] and place types in [[Indoor-mapping|Indoor Mapping]] Map Studio, start with creating icons for places, and then create a place type.
+To manage places and place types in Indoor Mapping Map Studio, start with creating icons for places, and then create a place type.
 
 ## Before you begin
 
@@ -154,7 +154,3 @@ Option to activate or deactivate or turn off the place types on maps.Turning off
 
 **Parent Topic:**[Manage places](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/manage-buildings.md)
 
-## Related
-
-- [[manage-buildings|Manage places]]
-- [[Indoor-mapping|Indoor Mapping]]

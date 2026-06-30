@@ -12,13 +12,13 @@ breadcrumb: [IT Service Management]
 
 # Simplified IT Service Management
 
-Simplified IT Service Management provides an AI-native solution for simplified and automated implementation, and unified user experience across multiple ITSM [[dex-workspace-application-tab|applications]].
+Simplified IT Service Management provides an AI-native solution for simplified and automated implementation, and unified user experience across multiple ITSM applications.
 
 ## Get started
 
 <table id="table_pv2_ctf_53c" class="nav-card presentation"><tbody><tr><td>
 
-[Explore\[Omitted image "bus-explore.svg"\] Alt text: Exploring AI-native [[r_ITServiceManagement|IT Service Management]] concepts and featuresLearn about Simplified IT Service Management concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/exploring-ai-native-itsm.md)
+[Explore\[Omitted image "bus-explore.svg"\] Alt text: Exploring AI-native IT Service Management concepts and featuresLearn about Simplified IT Service Management concepts and features.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/exploring-ai-native-itsm.md)
 
 </td><td>
 
@@ -51,7 +51,6 @@ Some ServiceNow resources that can provide you with helpful information are:
 
 -   **\[Omitted image "dcx-icon-support.svg"\] Support**
 
-## Related
 
-- [[dex-workspace-application-tab|Applications]]
-- [[r_ITServiceManagement|IT Service Management]]
+
+

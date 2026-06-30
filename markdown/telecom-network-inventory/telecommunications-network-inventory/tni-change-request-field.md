@@ -14,7 +14,7 @@ breadcrumb: [Reference, Telecommunications Network Inventory]
 
 # Network inventory change request form
 
-The Change Request form enables you to create and modify the change activities for the Telecom Inventory change models in the [[using-playbooks-design-assign-inventory-record|Design and Assign function]].
+The Change Request form enables you to create and modify the change activities for the Telecom Inventory change models in the Design and Assign function.
 
 <table id="table_tni_change_request_field"><thead><tr><th>
 
@@ -239,7 +239,7 @@ Request type
 
 </td><td>
 
-Type of change request, based on the [[using-inventory-models-tni|network inventory models]].
+Type of change request, based on the network inventory models.
 
 </td></tr><tr><td>
 
@@ -335,7 +335,3 @@ Option to delete this order task.
 </td></tr></tbody>
 </table>**Parent Topic:**[Telecommunications Network Inventory reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-reference.md)
 
-## Related
-
-- [[using-playbooks-design-assign-inventory-record|Design and Assign function]]
-- [[using-inventory-models-tni|Network inventory models]]

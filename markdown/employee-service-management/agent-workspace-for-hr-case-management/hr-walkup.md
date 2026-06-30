@@ -16,17 +16,17 @@ breadcrumb: [Using Agent Workspace for HR Case Management, Agent Workspace, HR S
 
 The HR Walk-up feature offers a convenient and efficient way for users to seek immediate assistance and support for their HR-related issues. With designated walk-up centers, users can seek in-person or remote assistance, report issues, and receive guidance from HR agents.
 
-**Note:** The HR Walk-up feature is available when the Walk-up Experience \(com.snc.walkup\) and [[employee-center-pro-landing|Employee Center Pro]] \(sn\_ex\_sp\_pro\) plugins are installed.
+**Note:** The HR Walk-up feature is available when the Walk-up Experience \(com.snc.walkup\) and Employee Center Pro \(sn\_ex\_sp\_pro\) plugins are installed.
 
 -   **[Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walkup-experience-landing-page.md)**
 
     Walk-up Experience enhances user satisfaction and productivity by providing immediate and personalized support for IT-related needs.
 
-    Every employee or a guest can check in and [[apn-config-getsupport|get support]] at an established walk-up service center.
+    Every employee or a guest can check in and get support at an established walk-up service center.
 
 -   **[Employee Center Pro Kiosk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/deskless-kiosk-overview.md)**
 
-    [[deskless-kiosk-overview|Employee Center Pro Kiosk]] enables all deskless workers with simplified access to information and services for self-serve and improved productivity.
+    Employee Center Pro Kiosk enables all deskless workers with simplified access to information and services for self-serve and improved productivity.
 
     -   Access information and use services.
     -   Provide self-service options such as raising and tracking requests.
@@ -89,7 +89,7 @@ Appointments
 
 </td><td>
 
-Walk-up appointment record that is created when a requester raised an appointment request from [[employee-center-landing-page|Employee Center]].
+Walk-up appointment record that is created when a requester raised an appointment request from Employee Center.
 
 </td></tr></tbody>
 </table>## Use HR walk-up
@@ -124,9 +124,4 @@ Use HR walk-up to support HR requests raised by deskless workers.
 
     **Note:** Both the interaction and HR walk-up records are automatically closed when the requester cancels the request from Employee Center.
 
-## Related
 
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[apn-config-getsupport|Get support]]
-- [[deskless-kiosk-overview|Employee Center Pro Kiosk]]
-- [[employee-center-landing-page|Employee Center]]

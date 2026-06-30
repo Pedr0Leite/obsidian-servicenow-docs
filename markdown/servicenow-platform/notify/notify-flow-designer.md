@@ -32,7 +32,7 @@ Join conference call
 
 </td><td>
 
-The **Join Conference Call** action connects an incoming or outgoing call to a [[notify-landing-page|Notify]] conference call.The action inputs are:
+The **Join Conference Call** action connects an incoming or outgoing call to a Notify conference call.The action inputs are:
 
 -   Notify Call
 -   Notify Conference Call
@@ -69,7 +69,7 @@ Send SMS
 
 </td><td>
 
-The **send SMS** workflow action sends short text messages [[using-notify|using Notify]] to users' phones. This action can be added to any table.The action inputs are:
+The **send SMS** workflow action sends short text messages using Notify to users' phones. This action can be added to any table.The action inputs are:
 
 -   Recipients
 -   Message
@@ -192,7 +192,3 @@ Create your own custom flows to use in Notify using Workflow Studio.
 
 **Parent Topic:**[Notify reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/notify-reference-section.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]
-- [[using-notify|Using Notify]]

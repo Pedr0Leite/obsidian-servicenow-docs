@@ -15,7 +15,7 @@ breadcrumb: [Certificate management with CyberArk Certificate Manager SaaS, Cert
 
 # Configure CyberArk Certificate Manager SaaS credentials
 
-Configure authentication credentials so [[cert-inventory-mgmt|Certificate Inventory and Management]] can communicate with CyberArk Certificate Manager SaaS for automated certificate life-cycle management.
+Configure authentication credentials so Certificate Inventory and Management can communicate with CyberArk Certificate Manager SaaS for automated certificate life-cycle management.
 
 ## Before you begin
 
@@ -64,6 +64,4 @@ Role required: pki\_admin or admin
 
     4.  Select **Update**.
 
-## Related
 
-- [[cert-inventory-mgmt|Certificate Inventory and Management]]

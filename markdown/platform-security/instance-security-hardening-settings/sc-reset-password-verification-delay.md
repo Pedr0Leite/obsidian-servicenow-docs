@@ -14,7 +14,7 @@ breadcrumb: [Authentication, Hardening settings, Platform Security]
 
 # Maximize reset password verification delay duration
 
-Configure the delay, in milliseconds, that a user must wait before submitting a new [[c_SelfServicePasswordReset|password reset]] [[c_requestAPI|request]].
+Configure the delay, in milliseconds, that a user must wait before submitting a new password reset request.
 
 If **password\_reset.verification.delay** isn't set to the recommended value of `1000` or more, then password reset verification codes will be susceptible to brute force attacks.
 
@@ -30,7 +30,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -42,7 +42,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -92,7 +92,7 @@ Security risk
 
 -   Severity score: 5.9
 -   CVSS rating: Medium
--   Security risk details: The milliseconds delay limits the ability of a malicious actor to attempt to guess [[users|users]] identification or verification details, by using automation tools \(bots\).
+-   Security risk details: The milliseconds delay limits the ability of a malicious actor to attempt to guess users identification or verification details, by using automation tools \(bots\).
 
 </td></tr><tr><td>
 
@@ -113,10 +113,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Authentication](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-authentication.md)
 
-## Related
-
-- [[c_SelfServicePasswordReset|Password Reset]]
-- [[c_requestAPI|request]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]
-- [[users|Users]]

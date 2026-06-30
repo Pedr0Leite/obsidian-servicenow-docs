@@ -14,7 +14,7 @@ breadcrumb: [Configure, Telecommunications Network Inventory]
 
 # Configure attributes
 
-Configure the core equipment table to enable the collection of the common [[telecom-network-inventory|Telecommunications Network Inventory]] attributes appear in the CI record. You use these attributes to create a Telecommunications Network Inventory CI record.
+Configure the core equipment table to enable the collection of the common Telecommunications Network Inventory attributes appear in the CI record. You use these attributes to create a Telecommunications Network Inventory CI record.
 
 ## Before you begin
 
@@ -42,6 +42,3 @@ You update the Equipment generic classes in the core equipment table to display 
 
 **Parent Topic:**[Configuring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/configuring-telecom-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]

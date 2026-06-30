@@ -22,7 +22,7 @@ Role required: sn\_cmdb\_editor or itil to view, and sn\_cmdb\_admin, itil\_admi
 
 ## About this task
 
-Alternatively, you can use de-duplication capabilities in CMDB Workspaceor in [[sg-workspace|Service Graph Workspace]]. Use the De-duplication dashboard and the De-duplication Template Library to:
+Alternatively, you can use de-duplication capabilities in CMDB Workspaceor in Service Graph Workspace. Use the De-duplication dashboard and the De-duplication Template Library to:
 
 -   Review de-duplication tasks
 -   Process de-duplication tasks in bulk by using de-duplication templates
@@ -30,7 +30,7 @@ Alternatively, you can use de-duplication capabilities in CMDB Workspaceor in [[
 
 For more information, see [CI de-duplication experience in CMDB Workspace and in Service Graph Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/dedup-ci-exp-cmdb-workspace.md).
 
-If a duplicate CI is a dependent CI, then you can view the details of the dependent relationship, the Depend on CI, and any [[c_RelationQualifier|relation qualifier]] chain. If the dependent CI has a lookup table, then you can see the details of the respective lookup table.
+If a duplicate CI is a dependent CI, then you can view the details of the dependent relationship, the Depend on CI, and any relation qualifier chain. If the dependent CI has a lookup table, then you can see the details of the respective lookup table.
 
 ## Procedure
 
@@ -72,7 +72,7 @@ Description for the task.
 
 </td></tr><tr><td>
 
-[[c_WorkNotes|Work notes]]
+Work notes
 
 </td><td>
 
@@ -115,7 +115,7 @@ Duplicate CI
 
 </td><td>
 
-[[reference|Reference]] to the duplicate CI. **Note:** This field is a document ID type, which means that it can reference any record on any table. If the referenced CI is deleted as part of resolving duplicate tasks, then this field is empty.
+Reference to the duplicate CI. **Note:** This field is a document ID type, which means that it can reference any record on any table. If the referenced CI is deleted as part of resolving duplicate tasks, then this field is empty.
 
 </td></tr><tr><td>
 
@@ -156,9 +156,3 @@ Analyze de-duplication tasks to determine which CIs should remain active and whi
 
 [Document ID field](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingADocumentIDField.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[c_RelationQualifier|Relation qualifier]]
-- [[c_WorkNotes|Work notes]]
-- [[reference|Reference]]

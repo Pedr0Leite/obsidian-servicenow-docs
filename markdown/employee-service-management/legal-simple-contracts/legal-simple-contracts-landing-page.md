@@ -20,15 +20,15 @@ For example, employees can submit legal requests for the creation of NDA documen
 
 **Important:** Legal Simple Contracts is now deprecated and no longer supported or available for new activation. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184) article in the Now Support knowledge base.
 
-You can migrate your data from Legal Simple Contracts to [[cncore-cmpro-landing-page|Contract Management Pro]] to take advantage of the enhanced features available in Contract Management Pro.
+You can migrate your data from Legal Simple Contracts to Contract Management Pro to take advantage of the enhanced features available in Contract Management Pro.
 
-The migration script is designed only for migrating data from Legal Simple Contracts to the Legal Contract Repository, which applies specifically to [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]. Contact your ServiceNow account team to learn about entitlement for the paid Contract Management Pro application.
+The migration script is designed only for migrating data from Legal Simple Contracts to the Legal Contract Repository, which applies specifically to Contract Management Pro for Legal Service Delivery. Contact your ServiceNow account team to learn about entitlement for the paid Contract Management Pro application.
 
 ## Migration considerations
 
 Contract Management Pro for Legal Service Delivery supports the following additional features as compared to Legal Simple Contracts.
 
--   [[cncore-expl-clause-mgmt|Clause management]] to effectively manage a library of clauses and clause variations.
+-   Clause management to effectively manage a library of clauses and clause variations.
 -   Clause variations for a Microsoft Word document template to dynamically place content in a contract depending on specified conditions.
 -   Multiple document support for third-party contract reviews that enables reviewing and finalizing multiple contract documents from a single request.
 
@@ -54,11 +54,11 @@ For more information, see [Migrating to Contract Management Pro for Legal Servic
 
 </td><td>
 
-[\[Omitted image "bus-actionable-analytics.svg"\] Alt text:[[eslate-analytics-reporting|Analytics and Reporting]] Coordinate work and improve processes with preconfigured dashboards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legalsd-content-pack.md)
+[\[Omitted image "bus-actionable-analytics.svg"\] Alt text:Analytics and Reporting Coordinate work and improve processes with preconfigured dashboards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/legalsd-content-pack.md)
 
 </td><td>
 
-[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-[[reference-hr-service-delivery-advanced-integration-with-workday|reference]].md)
+[Reference \[Omitted image "bus-learn.svg"\] Alt text: Get details about components such as roles, tables, plugins, and store applications that are installed.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-simple-contracts/legal-simple-contracts-reference.md)
 
 </td></tr></tbody>
 </table>## Request apps on the Store
@@ -71,10 +71,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Search the Known Error Portal for known error articles](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0597477)
 -   [Contact Customer Service and Support](https://support.servicenow.com/now?draw=case)
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[cncore-expl-clause-mgmt|Clause Management]]
-- [[eslate-analytics-reporting|Analytics and reporting]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

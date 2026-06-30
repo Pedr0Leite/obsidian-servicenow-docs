@@ -15,7 +15,7 @@ breadcrumb: [Use generative AI skills, Now Assist, Common GRC features, Governan
 
 # Generate recommendations for regulatory alert impacted citations, control objectives, controls, and policies
 
-Generate recommendations to identify and mark potential impact areas, such as citations, control objectives, controls, and policies for [[list-view-of-reg-alerts|regulatory alerts]] using the corresponding regulatory alert impacted skill. Recommendations simplify the process of associating impacts and creating action tasks.
+Generate recommendations to identify and mark potential impact areas, such as citations, control objectives, controls, and policies for regulatory alerts using the corresponding regulatory alert impacted skill. Recommendations simplify the process of associating impacts and creating action tasks.
 
 ## Before you begin
 
@@ -33,7 +33,7 @@ For more information on related roles and regulatory alerts, see [Types of alert
 
 Starting with version 19.0.x, users who have the Now Assist for IRM application installed can use the regulatory alert summarization, recommend alert impacted citations, and regulatory alert impacted control objectives skills.
 
-To [[create-a-recommendation-template|create a recommendation template]], you must define a configuration using the recommendation contexts framework, which delivers AI-driven insights directly within the user interface to enhance decision-making and productivity. As part of the base system, a default context named "Suggest business operations affected by regulatory alert" powered by Now Assist for IRM" is included, which you can access from the GRC [[Administration|Administration]] menu. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md).
+To create a recommendation template, you must define a configuration using the recommendation contexts framework, which delivers AI-driven insights directly within the user interface to enhance decision-making and productivity. As part of the base system, a default context named "Suggest business operations affected by regulatory alert" powered by Now Assist for IRM" is included, which you can access from the GRC Administration menu. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md).
 
 For more information on activating the Regulatory alert impacted citations, Regulatory alert impacted control objectives, Regulatory alert impacted controls, and Regulatory alert impacted policies skills, refer to [Activate Regulatory alert recommendation skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/configure-recommendation-skill-for-a-regulatory-alert.md).
 
@@ -44,7 +44,7 @@ By default, all skills exist in the global domain. When you use Now Assist in a 
 1.  Navigate to one of the following locations:
 
     -   **Workspaces** &gt; **Compliance Workspace**, select the list icon \[Omitted image "ws-list-icon.png"\] Alt text: and then navigate to **Regulatory alerts**.
-    -   **Workspaces** &gt; **Compliance Workspace** select the [[reg-change-mgmt-landing-page|Regulatory Change Management]] dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
+    -   **Workspaces** &gt; **Compliance Workspace** select the Regulatory Change Management dashboard icon \[Omitted image "reg-change-icon.png"\] Alt text: and then in the Activity overview, Tracking, or Trends section, select any segment or value in an Alerts related widget to open the list of regulatory alerts with that state.
 2.  Select a regulatory alert in any state except Closed or Cancelled that you want to generate recommendations for.
 
 3.  Generate recommendations by completing one of the following:
@@ -79,9 +79,3 @@ When configuring declarative actions for recommendations, confirm the following:
     -   `relationshipData`
     -   `selectedCardInfo`
 
-## Related
-
-- [[list-view-of-reg-alerts|Regulatory alerts]]
-- [[create-a-recommendation-template|Create a recommendation template]]
-- [[Administration|Administration]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

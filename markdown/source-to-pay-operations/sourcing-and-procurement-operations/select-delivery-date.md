@@ -34,8 +34,8 @@ Role required: sn\_shop.shopper
 
     **Note:**
 
-    -   Depending on whether the product is a good or service, different [[delivery-date-options|delivery date options]] are available. For more information on this, see [Order a product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md).
-    -   When adding a delivery date, the quantity of the product is updated accordingly. You can also specify different delivery dates for each [[supplier|supplier]] product and delivery location combination. For more information on these, see [Delivery date options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/delivery-date-options.md).
+    -   Depending on whether the product is a good or service, different delivery date options are available. For more information on this, see [Order a product](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/order-a-product.md).
+    -   When adding a delivery date, the quantity of the product is updated accordingly. You can also specify different delivery dates for each supplier product and delivery location combination. For more information on these, see [Delivery date options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/delivery-date-options.md).
     -   For a bundled product, depending on whether the products within the bundle are goods or services, different delivery date options are displayed.
 
 ## What to do next
@@ -47,7 +47,3 @@ Delivery dates define when goods or services are expected to be delivered and gi
 
 **Parent Topic:**[Complete your checkout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/complete-your-checkout.md)
 
-## Related
-
-- [[delivery-date-options|Delivery date options]]
-- [[supplier|Supplier]]

@@ -14,11 +14,11 @@ breadcrumb: [Now Assist for CSM, Customer Service Management]
 
 # Configuring Now Assist for Customer Service Management \(CSM\)
 
-If you have the admin role, you can configure the [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]] application so that your agents can use the generative AI skills in [[csm-workspaces-configure|CSM Configurable Workspace]] and in Core UI.
+If you have the admin role, you can configure the Now Assist for Customer Service Management \(CSM\) application so that your agents can use the generative AI skills in CSM Configurable Workspace and in Core UI.
 
 Use the Now Assist Admin console to configure Now Assist for CSM. This console contains everything that you need to install the plugins and configure the generative AI skills. For additional information, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
 
-The following table [[migration-lists|lists]] the features and skills that you can access from the Now Assist Admin console.
+The following table lists the features and skills that you can access from the Now Assist Admin console.
 
 <table id="table_ipf_bbd_wyb"><thead><tr><th>
 
@@ -34,7 +34,7 @@ Chat
 
 </td><td>
 
--   [[csm-config-ws-chat-summary|Chat summarization]]
+-   Chat summarization
 -   Chat recommendation
 -   Sidebar recommendation
 
@@ -48,12 +48,12 @@ Case
 -   Resolution notes generation
 -   Email recommendation
 -   Suggested steps generation
--   [[case-sentiment-analysis|Sentiment analysis]] case
+-   Sentiment analysis case
 -   Trending topics dashboard
 -   Activity response generation
 -   Sentiment analysis dashboard
--   [[quality-assurance-management|Automated quality assurance]]
--   [[c_OnScreenAlerts|Special handling notes]] summarization
+-   Automated quality assurance
+-   Special handling notes summarization
 -   Customer summarization
 
 </td></tr><tr><td>
@@ -96,12 +96,3 @@ For earlier versions, go to [Application Manager](https://raw.githubusercontent.
 
 [Customer Service Management AI agent collection triage cases agentic workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/now-assist-for-csm/case-resolving-use-case.md)
 
-## Related
-
-- [[now-assist-csm|Now Assist for Customer Service Management \(CSM\)]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[migration-lists|Lists]]
-- [[csm-config-ws-chat-summary|Chat summarization]]
-- [[case-sentiment-analysis|Sentiment Analysis]]
-- [[quality-assurance-management|Automated quality assurance]]
-- [[c_OnScreenAlerts|Special handling notes]]

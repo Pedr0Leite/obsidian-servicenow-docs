@@ -42,11 +42,11 @@ The URL link to content to appear on the service portal.This field only appears 
 
 </td></tr><tr><td>
 
-[[ec-to-do-content|To-do content]]
+To-do content
 
 </td><td>
 
-The to-do content you want to [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] to your link content.This field only appears when you select **To-do** from the **Type** field.
+The to-do content you want to reference to your link content.This field only appears when you select **To-do** from the **Type** field.
 
 **Note:** Use this field to reference your to-do content to a link that can be used in a banner or styled content. For more information, see [Creating to-do content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-content-to-dos.md).
 
@@ -67,7 +67,7 @@ The type of link for the content.-   Video: Link is a video.
 
 -   Forums Link: Link to a Communities forum post. Only appears when Communities plugin \[com.sn\_communities\] is installed.
 
- **Note:** After link content is associated with [[ec-streamline-content|Portal Content]], the **Type** cannot be modified. See [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
+ **Note:** After link content is associated with Portal Content, the **Type** cannot be modified. See [Portal content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-streamline-content.md).
 
 </td></tr><tr><td>
 
@@ -125,7 +125,7 @@ The list of posts from the topic or forum the link appears. For example:
 
 [Campaign overview and Campaign analytics dashboards]()
 
-[Components installed with [[employee-center-landing-page|Employee Center]] Pro]()
+[Components installed with Employee Center Pro]()
 
 [Components installed with Content engagement]()
 
@@ -161,9 +161,3 @@ The list of posts from the topic or forum the link appears. For example:
 
 [To-do content form]()
 
-## Related
-
-- [[ec-to-do-content|To-do content]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[ec-streamline-content|Portal content]]
-- [[employee-center-landing-page|Employee Center]]

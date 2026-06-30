@@ -12,7 +12,7 @@ breadcrumb: [Email client configurations, Configure, Email client, Notifications
 
 # Define email client from addresses
 
-Set an allowable email address that is displayed in the From address of a message sent from the [[c_EnableTheEmailClient|email client]].
+Set an allowable email address that is displayed in the From address of a message sent from the email client.
 
 ## Before you begin
 
@@ -31,9 +31,5 @@ Role required: admin
     The From address is added to the Email Client From Address \[sys\_email\_client\_from\_address\] table.
 
 
-**Parent Topic:**[[email-client-configuration|Email client configurations]]
+**Parent Topic:**[Email client configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/email-client-configuration.md)
 
-## Related
-
-- [[email-client-configuration|Email client configurations]]
-- [[c_EnableTheEmailClient|Email client]]

@@ -24,7 +24,7 @@ Group rules are reapplied to these findings. Submit the rule after making the ch
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[sem-workspace-user-interface|Security Exposure Management Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Security Exposure Management Workspace**.
 
 2.  Select **Administration** in the navigation pane.
 
@@ -37,9 +37,5 @@ Group rules are reapplied to these findings. Submit the rule after making the ch
     The rule moves back to the Draft state and the associated VUL is deleted. The related Findings are reopened, and group rules are applied to the individual Findings.
 
 
-**Parent Topic:**[[sem-configure-exception-rule|Configuring an exception rule]]
+**Parent Topic:**[Configuring an exception rule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sem-configure-exception-rule.md)
 
-## Related
-
-- [[sem-configure-exception-rule|Configuring an exception rule]]
-- [[sem-workspace-user-interface|Security Exposure Management Workspace]]

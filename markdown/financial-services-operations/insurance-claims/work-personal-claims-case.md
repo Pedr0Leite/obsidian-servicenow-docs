@@ -22,11 +22,11 @@ Role required: sn\_ins\_claim\_pers.auto\_adjuster
 
 **Important:** To access the Claim workspace, Fraud score, and Summary adjuster workspace related tabs, you must activate the CSM default record page. By default, the page is set to inactive. To determine the default page for displaying records in CSM Configurable Workspace, see [CSM Configurable Workspace record pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md)
 
-Update and close the [[adjuster-tasks-workspace-pers|adjuster tasks]] of the claim case.
+Update and close the adjuster tasks of the claim case.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Open the task one of the following ways.
 
@@ -179,7 +179,3 @@ Depending on the current stage of the case:
 
 [View a claim's summary](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/insurance-claims/view-claim-summary.md)
 
-## Related
-
-- [[adjuster-tasks-workspace-pers|Adjuster tasks]]
-- [[fso-overview|Financial Services]]

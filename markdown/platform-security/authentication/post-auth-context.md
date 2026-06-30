@@ -14,11 +14,11 @@ breadcrumb: [Authentication policy contexts, Adaptive authentication, Authentica
 
 # Post-authentication context
 
-The Post [[c_Authentication|Authentication]] policy context defines how and when a policy is enforced during the login process. The policy used in this context executes after your [[users|users]] see a login screen.
+The Post Authentication policy context defines how and when a policy is enforced during the login process. The policy used in this context executes after your users see a login screen.
 
 ## Post-authentication context record
 
-[[ca-policies|Policies]] in the post-authorization context execute after your users enter their credentials or SSO response. Your instance allows or denies access based on your selected policy. Because your users have identified themselves via their login credentials, the policy can use user information such as role or group to determine whether to grant access.
+Policies in the post-authorization context execute after your users enter their credentials or SSO response. Your instance allows or denies access based on your selected policy. Because your users have identified themselves via their login credentials, the policy can use user information such as role or group to determine whether to grant access.
 
 Use the fields in the Post-authentication policy context record to define how your instance uses your policy.
 
@@ -86,8 +86,3 @@ This example shows a post-authentication policy context record configured to den
 
 \[Omitted image "pre-auth-context.png"\] Alt text: Post-authentication policy context record
 
-## Related
-
-- [[c_Authentication|Authentication]]
-- [[users|Users]]
-- [[ca-policies|Policies]]

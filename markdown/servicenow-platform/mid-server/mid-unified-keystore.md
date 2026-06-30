@@ -14,7 +14,7 @@ breadcrumb: [Securing and encrypting MID Server data, MID Server, Manage instanc
 
 # MID Server unified key store
 
-The MID Server unified key store allows all products on the [[mid-server-landing|MID Server]] to use common certificates and key pairs. This feature allows applications to use the same secure communication channel to the MID Server that the MID Server uses to [[c_Connect|connect]] to the instance.
+The MID Server unified key store allows all products on the MID Server to use common certificates and key pairs. This feature allows applications to use the same secure communication channel to the MID Server that the MID Server uses to connect to the instance.
 
 <table id="table_m2t_cv4_nhb"><tbody><tr><td>
 
@@ -184,7 +184,7 @@ If the entropy count is too low, you can install an entropy generator such as RN
 
 3.  Start the MID Server.
 
-4.  [[t_ValidateAMIDServer|Validate the MID Server]] with the instance.
+4.  Validate the MID Server with the instance.
 
 5.  To revert the MID Server to use a self-generated certificate, select the MID Server in the instance and use the UI action **Remove custom certificate**.
 
@@ -291,7 +291,7 @@ In the backup folder, there is a dedicated backup log file: **keystore\_backup\_
 
 **Note:** For security purposes, the backup key store should have the same attributes as the original key store, such as owner, group, and permissions. Those attributes ensure the MID Server has the same protection at file system level.
 
-The key store backups can be modified with the [[r_MIDServerProperties|MID Server properties]] **mid.keystore.max\_backups**, **mid.keystore.max\_live\_backups**, and **mid.keystore.backup\_overwrite\_timespan**. See [MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md) for more information.
+The key store backups can be modified with the MID Server properties **mid.keystore.max\_backups**, **mid.keystore.max\_live\_backups**, and **mid.keystore.backup\_overwrite\_timespan**. See [MID Server properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server/r_MIDServerProperties.md) for more information.
 
 ### Procedure
 
@@ -319,9 +319,4 @@ The key store backups can be modified with the [[r_MIDServerProperties|MID Serve
 
 9.  Navigate to the instance and validate the MID Server.
 
-## Related
 
-- [[mid-server-landing|MID Server]]
-- [[c_Connect|Connect]]
-- [[t_ValidateAMIDServer|Validate the MID Server]]
-- [[r_MIDServerProperties|MID Server properties]]

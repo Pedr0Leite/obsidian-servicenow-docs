@@ -14,7 +14,7 @@ breadcrumb: [Learning reference, Learning, Growth Experiences, HR Service Delive
 
 # Collection form
 
-Use the [[collection-form-lc|Collection form]] to [[create-content-collection|create a content collection]] in [[learning-core_overview|Learning Core]] to dynamically group [[exploring-learning-exp|Learning]] content that includes multiple internal and external courses.
+Use the Collection form to create a content collection in Learning Core to dynamically group Learning content that includes multiple internal and external courses.
 
 <table id="table_oys_rvn_wvb"><thead><tr><th>
 
@@ -174,9 +174,3 @@ Retirement date of the collection.
 </td></tr></tbody>
 </table>**Parent Topic:**[Learning reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/learning-experience-reference.md)
 
-## Related
-
-- [[collection-form-lc|Collection form]]
-- [[create-content-collection|Create a content collection]]
-- [[learning-core_overview|Learning Core]]
-- [[exploring-learning-exp|Learning]]

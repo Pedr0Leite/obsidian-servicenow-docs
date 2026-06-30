@@ -14,7 +14,7 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Create stockroom for enterprise assets
 
-[[view-create-stockroom|Create a stockroom]] in the [[enterprise-asset-management|Enterprise Asset Management]] application and assign assets to it.
+Create a stockroom in the Enterprise Asset Management application and assign assets to it.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_eam.enterprise\_admin or sn\_eam.enterptrise\_asset\_manager
 
 ## Procedure
 
-1.  Navigate to **[[using-eam-workspace|Enterprise Asset Workspace]]** &gt; **Inventory** &gt; **All [[c_Stockrooms|stockrooms]]**.
+1.  Navigate to **Enterprise Asset Workspace** &gt; **Inventory** &gt; **All stockrooms**.
 
 2.  Select **New**.
 
@@ -60,7 +60,7 @@ Manager
 
 </td><td>
 
-Person in charge of the stockroom. Receives restocking notifications and requests for the stockroom's [[c_StockRules|stock rules]].
+Person in charge of the stockroom. Receives restocking notifications and requests for the stockroom's stock rules.
 
 </td></tr><tr><td>
 
@@ -165,10 +165,3 @@ Add service locations to a stockroom so that you can source, deploy, and retire 
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[view-create-stockroom|Create a stockroom]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[c_Stockrooms|Stockrooms]]
-- [[c_StockRules|Stock rules]]

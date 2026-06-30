@@ -21,7 +21,7 @@ select * from <table_name>
 For example, using the following XML payload
 
 ```
-<?xml version= "1.0" encoding= "UTF-8" ?><[[r_DirectJDBCProbeParameters|parameters]]><parameter name = "jdbc_driver" value = "com.microsoft.sqlserver.jdbc.SQLServerDriver" /><parameter name = "connection_string" value = "jdbc:sqlserver://xxx.service-now.com;databaseName=SMS_CRICKET;user=sms;password=sms" /><parameter name = "table_name" value = "System_DATA" /></parameters>
+<?xml version= "1.0" encoding= "UTF-8" ?><parameters><parameter name = "jdbc_driver" value = "com.microsoft.sqlserver.jdbc.SQLServerDriver" /><parameter name = "connection_string" value = "jdbc:sqlserver://xxx.service-now.com;databaseName=SMS_CRICKET;user=sms;password=sms" /><parameter name = "table_name" value = "System_DATA" /></parameters>
 ```
 
 ## Counting Rows
@@ -44,14 +44,10 @@ The resulting response XML payload
 </parameters>
 ```
 
-**Parent Topic:**[[t_JDBCProbe|JDBCProbe]]
+**Parent Topic:**[JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
 **Related topics**  
 
 
 [JDBCProbe](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_JDBCProbe.md)
 
-## Related
-
-- [[t_JDBCProbe|JDBCProbe]]
-- [[r_DirectJDBCProbeParameters|Parameters]]

@@ -22,13 +22,10 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **User Administration** &gt; **[[users|Users]]** or **User Administration** &gt; **Roles**.
+1.  Navigate to **All** &gt; **User Administration** &gt; **Users** or **User Administration** &gt; **Roles**.
 
-2.  Select a user or role that you want to disable a concurrent session limit, uncheck the **[[limit-concurrent-sessions|Limit Concurrent Sessions]]** check box, and click **Update**.
+2.  Select a user or role that you want to disable a concurrent session limit, uncheck the **Limit Concurrent Sessions** check box, and click **Update**.
 
     The user or role is not subject to a limit of how many concurrent sessions can be open at one time.
 
-## Related
 
-- [[users|Users]]
-- [[limit-concurrent-sessions|Limit concurrent sessions]]

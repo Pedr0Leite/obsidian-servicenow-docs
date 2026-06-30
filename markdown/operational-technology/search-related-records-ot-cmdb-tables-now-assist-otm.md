@@ -12,7 +12,7 @@ breadcrumb: [Use, OT Manager Foundation, Operational Technology]
 
 # Search for related records in an OT CMDB table
 
-Search for [[operational-technology-overview|Operational Technology]] \(OT\) configuration items \(CIs\) and OT device information available in an OT CMDB table.
+Search for Operational Technology \(OT\) configuration items \(CIs\) and OT device information available in an OT CMDB table.
 
 ## Before you begin
 
@@ -47,7 +47,7 @@ The OT CMDB search feature leverages the following:
 
 3.  Search for an OT device.
 
-    To optimize search results, include OT-specific trigger words or device types in your query, such as `OT`, `Operational Technology`, `PLC`, or `HMI`. Using relevant OT trigger words helps the CMDB search agentic workflow identify the OT context and display results in the [[industrial-workspace-for-operational-technology|Industrial Workspace]].
+    To optimize search results, include OT-specific trigger words or device types in your query, such as `OT`, `Operational Technology`, `PLC`, or `HMI`. Using relevant OT trigger words helps the CMDB search agentic workflow identify the OT context and display results in the Industrial Workspace.
 
     For example, you can search for OT device information using prompts such as:
 
@@ -77,10 +77,5 @@ When more than five OT device records appear in the search results based on your
 
 \[Omitted image "ot-cmdb-search.png"\] Alt text: Search results for OT PLCs are using the OT CMDB search function
 
-**Parent Topic:**[[using-now-assist-for-otm|Using the OT Manager Foundation]]
+**Parent Topic:**[Using the OT Manager Foundation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/using-now-assist-for-otm.md)
 
-## Related
-
-- [[using-now-assist-for-otm|Using the OT Manager Foundation]]
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]

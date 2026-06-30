@@ -28,7 +28,7 @@ For information about how to change settings that were configured when the data 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[hla-landing-page|Health Log Analytics]]** &gt; **Data Input** &gt; **Data Inputs**.
+1.  Navigate to **All** &gt; **Health Log Analytics** &gt; **Data Input** &gt; **Data Inputs**.
 
 2.  Open a Beats data input record from the Data Inputs table.
 
@@ -75,6 +75,3 @@ For information about how to change settings that were configured when the data 
 
 [Configure a Rsyslog, Filebeat, or Winlogbeat data input in Health Log Analytics manually](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-rsyslog-beats.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [OT Asset Management, Industry-specific EAM solutions, Enterprise As
 
 # Install OT Asset Management
 
-You can install the [[ot-asset-management|OT Asset Management]] application \(com.sn\_otam\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+You can install the OT Asset Management application \(com.sn\_otam\) if you have the admin role. The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Role required: sys\_admin
 
 ## About this task
 
-The following items are [[installed-with-otam|installed with OT Asset Management]]:
+The following items are installed with OT Asset Management:
 
 -   Plugins
 -   Store applications
@@ -60,7 +60,7 @@ For more information, see [Installed with OT Asset Management](https://raw.githu
 **Related topics**  
 
 
-[OT [[am-landing-page|Asset Management]] licensing]()
+[OT Asset Management licensing]()
 
 [Installed with OT Asset Management]()
 
@@ -68,8 +68,3 @@ For more information, see [Installed with OT Asset Management](https://raw.githu
 
 [Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets]()
 
-## Related
-
-- [[ot-asset-management|OT Asset Management]]
-- [[installed-with-otam|Installed with OT Asset Management]]
-- [[am-landing-page|Asset Management]]

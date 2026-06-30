@@ -14,11 +14,11 @@ breadcrumb: [Integration of HR Service Delivery with ServiceNow applications, HR
 
 # Universal Request for HR Service Delivery
 
-With the integration of [[hr-service-delivery|HR Service Delivery]] and [[ur-landing-limitedaccess|Universal Request]] applications, you can provide a consistent user experience for employees while creating service requests. You can hide the complexities of inter-department request transfers and multi-department use cases by providing a common help desk for all employees.
+With the integration of HR Service Delivery and Universal Request applications, you can provide a consistent user experience for employees while creating service requests. You can hide the complexities of inter-department request transfers and multi-department use cases by providing a common help desk for all employees.
 
 ## About Universal Request for HR Service Delivery
 
-A universal request gets created when an employee clicks the **Request help** option in [[employee-center-landing-page|Employee Center]]. A universal request routing agent analyses the issue \(as HR department related\) and creates an HR case from that universal request. After the case gets resolved by an HR agent, the state of the HR case changes to **Awaiting Acceptance**. Automatically, the state of the universal request changes to **Awaiting response**. Finally, after the employee accepts the resolution, the universal request gets closed and in turn the HR case gets closed.
+A universal request gets created when an employee clicks the **Request help** option in Employee Center. A universal request routing agent analyses the issue \(as HR department related\) and creates an HR case from that universal request. After the case gets resolved by an HR agent, the state of the HR case changes to **Awaiting Acceptance**. Automatically, the state of the universal request changes to **Awaiting response**. Finally, after the employee accepts the resolution, the universal request gets closed and in turn the HR case gets closed.
 
 At any point in time, the HR agent can [transfer the HR case back](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/route-ur-hr-case.md) to the universal request queue with or without resolution.
 
@@ -28,15 +28,15 @@ All the important details, such as, users who are working on the issue, inter-de
 
 After you have activated the Universal Request \(com.snc.universal\_request\), Human Resources Scoped App: Core \(com.sn\_hr\_core\), and Employee Center \(com.sn\_hr\_service\_portal\) plugins, you notice that:
 
--   The [[new-ur-record-form|Universal Request form]] contains a UI action to [[search-hr-case|create an HR case]].
+-   The Universal Request form contains a UI action to create an HR case.
 -   The **Universal Request** field appears on the HR case form when an HR case is associated with a universal request record.
--   The **Transfer** button appears on the HR case form to let an HR agent [[reclassify-hr-case|transfer an HR case]] back to Universal Request, another department, or service.
--   An HR case created from a record producer automatically creates a universal request. It happens only when the **[[ur-create-universal-request-record|Create Universal Request]]** check box is enabled on the record producer.
+-   The **Transfer** button appears on the HR case form to let an HR agent transfer an HR case back to Universal Request, another department, or service.
+-   An HR case created from a record producer automatically creates a universal request. It happens only when the **Create Universal Request** check box is enabled on the record producer.
 
     Similarly in the Create a test case topic block, if the **Create Universal Request**check box is enabled on the record producer, then a universal request ticket is created and shared with the employee on the Virtual Agent conversation.
 
 -   When an HR case associated to a universal request goes through a state change, a notification is sent to the employee \(requester\) with the universal request number and not the HR case number.
--   On ServiceNow AI Platform, HR cases that are associated with Universal Request appear under **HR [[case-management-workspace|Case Management]]** &gt; **All**.
+-   On ServiceNow AI Platform, HR cases that are associated with Universal Request appear under **HR Case Management** &gt; **All**.
 -   On Employee Center, HR requests that are associated with Universal Request appear under **Employee Center** &gt; **Requests**.
 
 -   **[Custom configurations in Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/setup-hr-ur.md)**  
@@ -54,13 +54,3 @@ From an HR case that is the primary ticket of a universal request, create ticket
 
 **Parent Topic:**[Integration of HR Service Delivery with ServiceNow applications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/integrate-hr-platform-apps.md)
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[employee-center-landing-page|Employee Center]]
-- [[new-ur-record-form|Universal Request form]]
-- [[search-hr-case|Create an HR case]]
-- [[reclassify-hr-case|Transfer an HR case]]
-- [[ur-create-universal-request-record|Create Universal Request]]
-- [[case-management-workspace|Case management]]

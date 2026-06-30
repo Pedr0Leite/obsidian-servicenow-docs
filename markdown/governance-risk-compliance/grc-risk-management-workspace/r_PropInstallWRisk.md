@@ -32,7 +32,7 @@ States for which the risk is active \(the first state is the default active stat
 
 -   Type: string
 -   Default value: draft, assess, review, monitor
--   Location: **Risk** &gt; **[[Administration|Administration]]** &gt; **Properties**
+-   Location: **Risk** &gt; **Administration** &gt; **Properties**
 
 </td></tr><tr><td>
 
@@ -151,6 +151,3 @@ A list of tables that are available in the 'Applies to' field on the Risk form.s
 </td></tr></tbody>
 </table>**Parent Topic:**[Components installed with Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/r_InstallWRisk.md)
 
-## Related
-
-- [[Administration|Administration]]

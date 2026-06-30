@@ -12,7 +12,7 @@ breadcrumb: [Recommended Actions configuration, Implement Intelligence, Configur
 
 # Configuring AI search in Recommended Actions
 
-As an admin, configure [[ra-csm-ai-search|AI search in Recommended Actions]] to enable agents to perform an AI search to find relevant resources.
+As an admin, configure AI search in Recommended Actions to enable agents to perform an AI search to find relevant resources.
 
 You can configure AI search in Recommended Actions by performing these procedures.
 
@@ -34,7 +34,7 @@ Deselect the **Hide Search** button in UI Builder to display the AI search tab i
 
 </td></tr><tr><td>
 
-[[ra-csm-contexts-create|Create a context and select a search application configuration]]
+[Create a context and select a search application configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md)
 
 </td><td>
 
@@ -43,7 +43,7 @@ Deselect the **Hide Search** button in UI Builder to display the AI search tab i
 
 </td></tr><tr><td>
 
-[[ra-create-search-result-mapping-for-ai-search|Map AI search results with guidance inputs in Recommended Actions]]
+[Map AI search results with guidance inputs in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-create-search-result-mapping-for-ai-search.md)
 
 </td><td>
 
@@ -51,15 +51,15 @@ Map AI search results with guidance inputs to enable the AI search results to be
 
 </td></tr><tr><td>
 
-[[ra-configuring-ai-search-automatically|Automatically map AI search results with guidance inputs]]
+[Automatically map AI search results with guidance inputs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configuring-ai-search-automatically.md)
 
 </td><td>
 
-Automatically create AI search results for a search configuration application in [[configure-nba|Recommended Actions]].
+Automatically create AI search results for a search configuration application in Recommended Actions.
 
 </td></tr><tr><td>
 
-[[ra-configure-contextual-filtering|Configure dynamic filters in AI Search for Recommended Actions]]
+[Configure dynamic filters in AI Search for Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-configure-contextual-filtering.md)
 
 </td><td>
 
@@ -123,11 +123,3 @@ For more information, see [Recommended Actions UIB setup](https://developer.serv
 
 Explore advanced customization options, such as adjusting the number of results to view on a page, identifying genius results to add to the search profile, and configuring search sources. For more information, see [Configuring AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-ais.md).
 
-## Related
-
-- [[ra-csm-contexts-create|Create a context in Recommended Actions]]
-- [[ra-create-search-result-mapping-for-ai-search|Map AI search results with guidance inputs in Recommended Actions]]
-- [[ra-configuring-ai-search-automatically|Automatically map AI search results with guidance inputs in Recommended Actions]]
-- [[ra-configure-contextual-filtering|Configure dynamic filters in AI Search for Recommended Actions]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[configure-nba|Recommended Actions]]

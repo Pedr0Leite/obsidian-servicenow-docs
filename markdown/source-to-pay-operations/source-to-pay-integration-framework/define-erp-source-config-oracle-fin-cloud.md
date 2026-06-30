@@ -14,7 +14,7 @@ breadcrumb: [Configure, Source-to-Pay integration with Oracle Financial Cloud, I
 
 # Define ERP source configuration for Oracle Financial Cloud
 
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the Oracle Financial Cloud tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the Oracle Financial Cloud tables.
 
 ## Before you begin
 
@@ -67,7 +67,3 @@ By default, the Oracle Financial Cloud base system provides five service mapping
 -   Define service mappings manually for each integration service by accessing the Service Mappings related list. You can define element level mapping between Oracle Financial Cloud table fields and payload elements.
 -   Map the users and corresponding ERP User IDs by accessing the ERP User Mappings related list.
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

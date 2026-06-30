@@ -16,7 +16,7 @@ Configure a user-selected start page to override the administrator‑configured 
 
 ## Before you begin
 
-Ensure you have enabled the Next Experience prior to beginning this task. For more information, see [[next-experience-adoption-paths|Considerations for activating Next Experience]].
+Ensure you have enabled the Next Experience prior to beginning this task. For more information, see [Considerations for activating Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-adoption-paths.md).
 
 Role required: none
 
@@ -43,15 +43,10 @@ Role required: none
     |Field|Description|
     |-----|-----------|
     |Use the default|The default landing page as configured by the administrator.|
-    |Use Dashboards|If using [[c_UI16|Core UI]] responsive dashboards, the start page is set to the last dashboard you visited.|
+    |Use Dashboards|If using Core UI responsive dashboards, the start page is set to the last dashboard you visited.|
     |Use the page that I'm on now|Set the current page as your default start page.|
     |Continue where I last left off|Set the last page you visited in ServiceNow as the start page when you next log in.|
 
 
-**Parent Topic:**[[next-experience-landing-pages|Next Experience landing pages]]
+**Parent Topic:**[Next Experience landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/next-experience-landing-pages.md)
 
-## Related
-
-- [[next-experience-adoption-paths|Considerations for activating Next Experience]]
-- [[next-experience-landing-pages|Next Experience landing pages]]
-- [[c_UI16|Core UI]]

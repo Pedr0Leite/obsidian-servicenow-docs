@@ -22,7 +22,7 @@ Microsoft Project fields
 
 </th><th>
 
-[[c_ProjectApplicationOverview|Project Management]] fields
+Project Management fields
 
 </th></tr></thead><tbody><tr><td>
 
@@ -181,7 +181,7 @@ Assignment Group
 
 [Project import from Microsoft Project]()
 
-[Import [[t_CreateAProjectTask|project tasks]] for multiple projects]()
+[Import project tasks for multiple projects]()
 
 [Project export to Microsoft Project]()
 
@@ -189,7 +189,3 @@ Assignment Group
 
 [Importing and exporting projects](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-management/c_ProjectImportAndExport.md)
 
-## Related
-
-- [[c_ProjectApplicationOverview|Project Management]]
-- [[t_CreateAProjectTask|Project tasks]]

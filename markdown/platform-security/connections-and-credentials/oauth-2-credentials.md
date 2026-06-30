@@ -16,7 +16,7 @@ breadcrumb: [Create and test your credentials, Get started with credentials, Con
 
 OAuth 2.0 credentials enable ServiceNow to obtain access to user accounts on an HTTP service.
 
-These fields are available in the Credentials form for [[c_OAuthApplications|OAuth 2.0]].
+These fields are available in the Credentials form for OAuth 2.0.
 
 <table id="table_ezk_y3d_hbb"><thead><tr><th>
 
@@ -44,7 +44,7 @@ Specify whether this credential is active.
 
 </td></tr><tr><td>
 
-[[oauth-inbound-and-outbound|OAuth]] Entity Profile
+OAuth Entity Profile
 
 </td><td>
 
@@ -56,9 +56,9 @@ Connect to Auth Server via MID Server
 
 </td><td>
 
-Connects your ServiceNow instance to an on-premise OAuth server that resides behind a firewall through a MID Server. It can also connect your ServiceNow instance to a cloud-based OAuth server through a MID server. When this option is enabled, the [[c_requestAPI|request]] for an OAuth token is sent through the MID Server.**Important:**
+Connects your ServiceNow instance to an on-premise OAuth server that resides behind a firewall through a MID Server. It can also connect your ServiceNow instance to a cloud-based OAuth server through a MID server. When this option is enabled, the request for an OAuth token is sent through the MID Server.**Important:**
 
--   The option appears when the value in the **Grant type** field in the OAuth Entity Profile is set to either**[[client-credentials|Client Credentials]]**, **Authorization Code**, or **Resource Owner Password Credentials**. To learn how to set an OAuth entity profile for a third-party OAuth provider, see [Connect to a third-party OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/connect-3rd-party-oauth-provider.md).
+-   The option appears when the value in the **Grant type** field in the OAuth Entity Profile is set to either**Client Credentials**, **Authorization Code**, or **Resource Owner Password Credentials**. To learn how to set an OAuth entity profile for a third-party OAuth provider, see [Connect to a third-party OAuth provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/authentication/connect-3rd-party-oauth-provider.md).
 -   If you select the **Connect to Auth Server via MID Server** checkbox, you must identify the required MID Server or MID Servers from the **Applies to** list.
 
 </td></tr><tr><td>
@@ -88,7 +88,7 @@ Order
 
 </td><td>
 
-Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out [[users|users]] after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
+Order \(sequence\) in which Discovery tries this credential as it attempts to log on to devices. The smaller the number, the higher in the list this credential appears. Establish credential order when using large numbers of credentials or when security locks out users after three failed login attempts. If all the credentials have the same order number \(or none\), the instance tries the credentials in a random order.
 
 </td></tr><tr><td>
 
@@ -104,8 +104,8 @@ Integration Type
 
 </td><td>
 
-Indicates the integration type for the credential. Invoke an API of a third-party with an OAuth request that generates an OAuth token that is system or user specific. Following are the integration types:-   **System**: Pull the token information based on the requester profile. The **System** integration type supports the following [[c_Authentication|authentication]] mechanisms:
-    1.  Security Assertion Markup Language \([[c_SAML2.0WebBrowserSSOProfile|SAML]]\)
+Indicates the integration type for the credential. Invoke an API of a third-party with an OAuth request that generates an OAuth token that is system or user specific. Following are the integration types:-   **System**: Pull the token information based on the requester profile. The **System** integration type supports the following authentication mechanisms:
+    1.  Security Assertion Markup Language \(SAML\)
     2.  JSON Web Token \(JWT\)
 -   **Personal**: Pull the token information that is user-specific. The MID Server user must have the `oauth_admin` role. The **Personal** and **System** integration types support the following grant types:
     1.  Authorization Code
@@ -120,13 +120,3 @@ Indicates the integration type for the credential. Invoke an API of a third-part
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_OAuthApplications|OAuth 2.0]]
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_requestAPI|request]]
-- [[client-credentials|Client Credentials]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]

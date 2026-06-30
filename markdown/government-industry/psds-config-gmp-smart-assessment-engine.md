@@ -67,14 +67,9 @@ You can create assessment templates for grants compliance, and add instructions,
 
 The template is now published, and can be selected in the **Compliance Assessment**activity of the Grants Setup Playbook. It is used to collect compliance information from applicants during proposal submission.
 
-**Parent Topic:**[[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
+**Parent Topic:**[Configure PaCE Eligibility Framework Engine for use with Grants Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-pace.md)
 
-**Previous topic:**[[psds-config-gmp-rca|Configure PaCE Restricted Caller Access Privileges \(RCA\)]]
+**Previous topic:**[Configure PaCE Restricted Caller Access Privileges \(RCA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-gmp-rca.md)
 
-**Next topic:**[[psds-config-reviewer-service-portal|Configure the Reviewer Service Portal]]
+**Next topic:**[Configure the Reviewer Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/government-industry/psds-config-reviewer-service-portal.md)
 
-## Related
-
-- [[psds-config-gmp-pace|Configure PaCE Eligibility Framework Engine for use with Grants Management]]
-- [[psds-config-gmp-rca|Configure PaCE Restricted Caller Access Privileges \(RCA\)]]
-- [[psds-config-reviewer-service-portal|Configure the Reviewer Service Portal]]

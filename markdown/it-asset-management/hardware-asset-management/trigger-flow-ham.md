@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Update associated Decision tables for HAM flows
 
-Update associated Decision tables for [[ham-landing-page|Hardware Asset Management]] \(HAM\) flows to trigger a new or customized HAM flow.
+Update associated Decision tables for Hardware Asset Management \(HAM\) flows to trigger a new or customized HAM flow.
 
 ## Before you begin
 
@@ -54,7 +54,7 @@ Role required: admin, decision\_table\_admin
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -76,13 +76,13 @@ Role required: admin, decision\_table\_admin
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -114,9 +114,3 @@ Role required: admin, decision\_table\_admin
 
 [Acknowledge receipt of assets on the Employee Center portal]()
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]

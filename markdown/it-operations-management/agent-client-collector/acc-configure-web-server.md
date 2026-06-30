@@ -29,11 +29,11 @@ Configure the websocket server on MID Servers to enable connections from agents 
 
 3.  In the **Related Links** section, click **Setup ACC Listener**.
 
-    The **[[acc-landing-page|Agent Client Collector]] Setup** dialog box appears.
+    The **Agent Client Collector Setup** dialog box appears.
 
     \[Omitted image "acc-setup.png"\] Alt text: Agent Client Collector Setup dialog box
 
-4.  Enter the [[mid-web-server|MID web server]] port \(**8800**\) in the displayed field.
+4.  Enter the MID web server port \(**8800**\) in the displayed field.
 
     **Note:** You can change the default port, **8800**, as needed.
 
@@ -59,7 +59,3 @@ Configure the websocket server on MID Servers to enable connections from agents 
 
 **Parent Topic:**[Configuring Agent Client Collector with a MID Server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/acc-configuring-with-mid.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]
-- [[mid-web-server|MID Web Server]]

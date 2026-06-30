@@ -12,7 +12,7 @@ breadcrumb: [Inbound Request, Sales and Service API Core, Lead-to-cash foundatio
 
 # Inbound Request Configuration
 
-Enables you to define the configurations to determine how each flow is processed and tracked within an [[som_request_tracker|Inbound Request]].
+Enables you to define the configurations to determine how each flow is processed and tracked within an Inbound Request.
 
 ## Overview of the Inbound Request Configuration table
 
@@ -23,7 +23,7 @@ The Inbound Request Configuration table is a metadata table that must be configu
 The table can be used to perform the following tasks.
 
 -   Enable admins to configure synchronous vs asynchronous processing of requests.
--   Adapt the [[order-mgt-overview|Sales Customer Relationship Management]] Request Tracker across all CRM flows.
+-   Adapt the Sales Customer Relationship Management Request Tracker across all CRM flows.
 -   Enable configuration of notification types, whether default, custom, or no notifications.
 
 The **Request Configuration** field on the existing Inbound Request Table \[sn\_tmt\_core\_inbound\_queue\] is a reference to the new Inbound Request Configuration table \(sn\_tmt\_core\_inbound\_queue\_config\).
@@ -32,7 +32,7 @@ Any workflow that requires the tracking of a completion status, can use the Inbo
 
 ## Fields on the Inbound Request Configuration Table
 
-An admin creates a record in the table and specifies the configuration using the **run\_mode**, **trigger\_notification**, and **configuration\_api** [[fields|fields]].
+An admin creates a record in the table and specifies the configuration using the **run\_mode**, **trigger\_notification**, and **configuration\_api** fields.
 
 <table id="table_f3d_3tv_1fc"><thead><tr><th>
 
@@ -153,16 +153,10 @@ The security roles for the Inbound Request Configuration table \(sn\_tmt\_core\_
 |----|------|
 |sn\_tmt\_core.inbound\_queue\_admin|Create, read, update, delete, report\_view, report\_on|
 
-**Note:** Add a user with the roles sn\_tmt\_core.admin or sn\_tmt\_core.inbound\_queue\_admin, who is responsible for configuring the Inbound Request Configuration table, as a delegated developer for the application where the configuration is being created. Assign the permission “Manage Update Set” \(added under Manage Developers for the respective application\). This ensures that all changes are captured in the correct scope and update [[cpq-sets|sets]]. For details, see [Delegated development and deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_DelegatedDevelopment.md).
+**Note:** Add a user with the roles sn\_tmt\_core.admin or sn\_tmt\_core.inbound\_queue\_admin, who is responsible for configuring the Inbound Request Configuration table, as a delegated developer for the application where the configuration is being created. Assign the permission “Manage Update Set” \(added under Manage Developers for the respective application\). This ensures that all changes are captured in the correct scope and update sets. For details, see [Delegated development and deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_DelegatedDevelopment.md).
 
 **Related topics**  
 
 
 [IBQConfigBase API - Scoped](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/api-reference/server-api-reference/IBQConfigBaseAPIBoth.md)
 
-## Related
-
-- [[som_request_tracker|Inbound Request]]
-- [[order-mgt-overview|Sales Customer Relationship Management]]
-- [[fields|Fields]]
-- [[cpq-sets|Sets]]

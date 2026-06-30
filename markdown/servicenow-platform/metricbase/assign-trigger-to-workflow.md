@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Triggers, by themselves, execute nothing. After defining a trigger in [[metricbase|MetricBase]], you use Workflow Studio to associate the trigger with a flow.
+Triggers, by themselves, execute nothing. After defining a trigger in MetricBase, you use Workflow Studio to associate the trigger with a flow.
 
 ## Procedure
 
@@ -139,6 +139,4 @@ Select the roles can run the flow. This option is only available when **Run as**
 
     The flow does not execute unless you activate it.
 
-## Related
 
-- [[metricbase|MetricBase]]

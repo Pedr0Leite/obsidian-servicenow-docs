@@ -14,7 +14,7 @@ breadcrumb: [MID Servers for Orchestration, Classic Orchestration, ServiceNow AI
 
 # MID Server capabilities
 
-MID Server capabilities define the specific functions of a [[mid-server-landing|MID Server]] within an [[ip-address|IP address]] range.
+MID Server capabilities define the specific functions of a MID Server within an IP address range.
 
 ## Nmap capability
 
@@ -55,7 +55,3 @@ MID Server capabilities define the specific functions of a MID Server within an 
 
 **Parent Topic:**[MID Servers for Orchestration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/c_OrchestrationMID.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[ip-address|IP Address]]

@@ -26,9 +26,9 @@ Role required: admin
 
 ## About this task
 
-By default, Dynamic Translation is inactive for capabilities with [[generative-ai-controller|Generative AI Controller]].​
+By default, Dynamic Translation is inactive for capabilities with Generative AI Controller.​
 
-Dynamic Translation isn't available for capabilities in Virtual Agent or [[now-assist-center-now-assist-panel|Now Assist panel]].
+Dynamic Translation isn't available for capabilities in Virtual Agent or Now Assist panel.
 
 ## Procedure
 
@@ -49,7 +49,3 @@ Dynamic Translation isn't available for capabilities in Virtual Agent or [[now-a
 
 Dynamic Translation is installed for your generative AI capability on the attribute that you selected.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]

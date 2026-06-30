@@ -20,9 +20,9 @@ Set up Legal Investigations with HR Service Delivery Employee Relations to enabl
 
 Ensure you have the following ServiceNow® apps installed:
 
--   [[legal-investigations-landing-page|Legal Investigations]] \(sn\_lg\_investigate\)
--   [[ur-landing-limitedaccess|Universal Request]] \(com.snc.universal\_request\)
--   [[hr-service-delivery|HR Service Delivery]] [[hr-case-employee-relations|Employee Relations]] \(com.sn\_hr\_employee\_relations\)
+-   Legal Investigations \(sn\_lg\_investigate\)
+-   Universal Request \(com.snc.universal\_request\)
+-   HR Service Delivery Employee Relations \(com.sn\_hr\_employee\_relations\)
 
     **Note:** You must approve the requested Restricted Caller Access \(RCA\) with source scope as Legal Investigations and target scope as Human Resources Employee Relations and Evidence Management.
 
@@ -33,7 +33,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Activate the record producers for complaints submission via the **Quick Link** in [[employee-center-landing-page|Employee Center]].
+1.  Activate the record producers for complaints submission via the **Quick Link** in Employee Center.
 
     For more information, see [Record producers for legal investigations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-investigations/record-producers-legal-investigation.md).
 
@@ -94,13 +94,6 @@ Role required: admin
 
     2.  Search for the **HRERDepartmentTransferPostProcessor** script include and activate it.
 
-6.  If the **Ethics Complaint** quick link is not visible in the **[[emp-center-quick-link-config|Quick links]]** section of Employee Center portal, manually run the **addQuickLinkToECPortal** fix script.
+6.  If the **Ethics Complaint** quick link is not visible in the **Quick links** section of Employee Center portal, manually run the **addQuickLinkToECPortal** fix script.
 
-## Related
 
-- [[legal-investigations-landing-page|Legal Investigations]]
-- [[ur-landing-limitedaccess|Universal Request]]
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[employee-center-landing-page|Employee Center]]
-- [[emp-center-quick-link-config|Quick links]]

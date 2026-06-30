@@ -16,7 +16,7 @@ breadcrumb: [PowerShell protocols and troubleshooting, PowerShell activity pack,
 
 PowerShell functions are stored in script files \(\*.ps1\) that use a PowerShell Script module \(\*.psm1\) file name extension.
 
-The PowerShell functions are used by the PowerShell [[mid-server-landing|MID Server]] script files included in these activity packs:
+The PowerShell functions are used by the PowerShell MID Server script files included in these activity packs:
 
 -   Active Directory
 -   Exchange
@@ -25,7 +25,7 @@ The PowerShell functions are used by the PowerShell [[mid-server-landing|MID Ser
 
 ## PSScript.ps1
 
-This script performs a few tasks, such as credential testing, password encryption, and the execution of scripts configured in the [[c_WorkflowActivityDesigner|Orchestration Activity Designer]] or in MID Script Files. However, this document focuses on how PSScript.ps1 uses the `credential.psm1` module for testing access to remote hosts.
+This script performs a few tasks, such as credential testing, password encryption, and the execution of scripts configured in the Orchestration Activity Designer or in MID Script Files. However, this document focuses on how PSScript.ps1 uses the `credential.psm1` module for testing access to remote hosts.
 
 The PowerShell variables are generally used directly in the [PowerShell execution command](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/CreateInputVariables.md) or as arguments in the MID Server script file you specify. There are special variables that are passed to PSScript.ps1, such as **credType**.
 
@@ -114,7 +114,7 @@ The MID Server uses this module file to test access to a target host. The MID Se
 
 **Note:** If the test passes using one of these functions, that credential is used to run the PowerShell script/command. If the tests fail to access the target host using these functions, the MID Server runs the PowerShell script/command under the account of the MID Server service.
 
-This diagram illustrates the dependency of the credential selection behavior on the host being targeted by the PowerShell activity. If the target host is the [[ip-address|IP address]] or host name of the MID Server, the MID Server bypasses all credentials in the Credentials table and uses the account of the MID Server service. If the target host is not the MID Server, then all Windows credentials are used first. If all credentials in the Credentials table are unsuccessful in running the PowerShell activity, then the MID Server uses the MID Server service account.
+This diagram illustrates the dependency of the credential selection behavior on the host being targeted by the PowerShell activity. If the target host is the IP address or host name of the MID Server, the MID Server bypasses all credentials in the Credentials table and uses the account of the MID Server service. If the target host is not the MID Server, then all Windows credentials are used first. If all credentials in the Credentials table are unsuccessful in running the PowerShell activity, then the MID Server uses the MID Server service account.
 
 \[Omitted image "PowerShellCredentialPickingDiagram.png"\] Alt text: PowerShell credential selection criteria
 
@@ -132,8 +132,3 @@ This module file stores the functions used by the PowerShell scripts shipped wit
 
 **Parent Topic:**[PowerShell protocols and troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/orchestration/powershell-protocols.md)
 
-## Related
-
-- [[mid-server-landing|MID Server]]
-- [[c_WorkflowActivityDesigner|Orchestration activity designer]]
-- [[ip-address|IP Address]]

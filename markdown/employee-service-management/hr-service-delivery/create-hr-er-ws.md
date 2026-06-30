@@ -14,7 +14,7 @@ breadcrumb: [Using HR Service Delivery Employee Relations, Employee Relations, C
 
 # Create an Employee Relations case in Agent Workspace for HR Case Management
 
-You can use [[hr-service-delivery|HR Service Delivery]] Agent Workspace to create ER cases for employees that wish to report misconduct, discrimination, or a disciplinary issue.
+You can use HR Service Delivery Agent Workspace to create ER cases for employees that wish to report misconduct, discrimination, or a disciplinary issue.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_hr\_er.case\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **HR [[case-management-workspace|Case Management]]** &gt; **[[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]**.
+1.  Navigate to **All** &gt; **HR Case Management** &gt; **Agent Workspace for HR Case Management**.
 
 2.  Select the **Lists** icon \(\[Omitted image "agent-ws-hr-list-icon.png"\] Alt text: Lists icon\).
 
@@ -46,7 +46,7 @@ COE
 
 </td><td>
 
-The **Center of Excellence** associated with the HR case you are creating. Currently, [[hr-case-employee-relations|Employee Relations]] Case is the only COE available for ER cases.
+The **Center of Excellence** associated with the HR case you are creating. Currently, Employee Relations Case is the only COE available for ER cases.
 
  Selecting a COE filters the choices for HR service. See [HR Centers of Excellence data model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-centers-of-excellence-coes.md).
 
@@ -65,10 +65,10 @@ After selecting **Employee Relations Case** from the **COE** field, select one:-
 **Note:** You can use the Skip verification feature when creating a Report Misconduct case. For more information, see [Using HR Service Delivery Employee Relations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/hr-er-using.md).
 
 -   Performance improvement plan\(PIP\)
- Limit what [[hr-service-administration|HR services]] are available to an employee by filtering:
+ Limit what HR services are available to an employee by filtering:
 
 -   COE selected.
--   [[hr-criteria|HR criteria]] for the **Subject person** based on the [[hr-service-configuration|HR service configuration]].
+-   HR criteria for the **Subject person** based on the HR service configuration.
 
 Limit services filter on the **Case Creation Configuration** form. If the HR service field is empty, ensure that you did not remove the Opened for field.
 
@@ -143,12 +143,3 @@ Details about the ER case.**Note:** Interviews are under the **more** tab.
         -   ER Cases for Involved Parties: Lists other ER cases for the involved parties of the ER case.
         -   Allegation Outcomes: Shows allegations and results.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[case-management-workspace|Case management]]
-- [[agent-ws-hr-case-mgmt-landing-page|Agent Workspace for HR Case Management]]
-- [[hr-case-employee-relations|Employee Relations]]
-- [[hr-service-administration|HR services]]
-- [[hr-criteria|HR criteria]]
-- [[hr-service-configuration|HR service configuration]]

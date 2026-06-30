@@ -14,11 +14,11 @@ breadcrumb: [Authoring and managing employee communications, Employee Center Pro
 
 # Creating employee communications
 
-Content Publishing offers robust communications creation tools that enable you to create, manage, and publish a variety of content types including [[ec-streamline-content|portal content]], notifications, [[ec-mobile-content|mobile content]], and tasks.
+Content Publishing offers robust communications creation tools that enable you to create, manage, and publish a variety of content types including portal content, notifications, mobile content, and tasks.
 
 ## Overview of creating communications
 
-To create [[eslate-employee-comms|employee communications]] using Content Publishing, follow the process shown in this infographic.
+To create employee communications using Content Publishing, follow the process shown in this infographic.
 
 \[Omitted image "employee-comms-process.jpg"\] Alt text: filler text
 
@@ -49,11 +49,11 @@ To create [[eslate-employee-comms|employee communications]] using Content Publis
     Alternatively, you can build out a more robust publishing configuration using [Creating campaigns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-campaigns.md)
 
 
--   Create various employee communications portal content including [[ec-news-articles|news articles]], rich content [[ec-rich-content|microsites]], announcements, banners, links to other content, and calendar events.
+-   Create various employee communications portal content including news articles, rich content microsites, announcements, banners, links to other content, and calendar events.
 -   Leverage easy-to-use drag-and-drop, visual interfaces for creating, editing and previewing content before it's published.
 -   Create notifications such as a mass email or short message service \(SMS\) to your employees.
 -   Add urgency to your communications by creating and scheduling to-dos in the form of tasks.
--   Schedule and target your content to specific [[ecpro-audience|audiences]] with the option of making it available from specific start and end dates.
+-   Schedule and target your content to specific audiences with the option of making it available from specific start and end dates.
 -   Deliver announcements and links to content on your employee's mobile devices.
 
 Content Library allows you to manage your content within a single, unified interface and flow.
@@ -66,7 +66,7 @@ Content Library allows you to manage your content within a single, unified inter
 
 To publish content to the Workspace or UIB Workspace, you must use the Schedule content form, as the Content Library does not offer the option to publish to the Workspace or UIB Workspace.
 
-For more information on [[ec-content-publishing-schedule|Publishing content]], see [Publishing content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md).
+For more information on Publishing content, see [Publishing content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-publishing-schedule.md).
 
 ## Creating and publishing content
 
@@ -125,13 +125,13 @@ Create and publish content in the Content Library using the following process:
     Reach more people in your organization with greater effectiveness and efficiency by creating meaningful content that can be distributed through multiple channels with Content Experiences and Content Publishing. You can create different types of content that includes:
 
     -   [Styled content](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-styled.md): Allows you access to a suite of tools and fields to create custom banners, block, or video content. Styled content is fast and easy to use without having to use HTML/CSS code. For banners you can use features that define your text color, text alignment, add buttons or links, background color, background image, and change the gradient of the image.
-    -   [Video](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-video.md): Place videos into your [[employee-center-landing-page|Employee Center]] or [[employee-center-pro-landing|Employee Center Pro]].
+    -   [Video](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-video.md): Place videos into your Employee Center or Employee Center Pro.
 
-        **Note:** Use styled content for videos if you want to add heading and body text, [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] variables from either the User or [[c_HRProfileRecords|HR profile]] table, and other features that contribute to the over-all style of your video.
+        **Note:** Use styled content for videos if you want to add heading and body text, reference variables from either the User or HR profile table, and other features that contribute to the over-all style of your video.
 
     -   [URL](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-url.md): Links that take your employees to content.
     -   [Image-based link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-image.md): Links to content that are also an image.
-    -   [Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-events.md): Content for [[ec-company-events|company events]] that have a specific start and end date and time.
+    -   [Events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-events.md): Content for company events that have a specific start and end date and time.
     -   [Banner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-banner.md): Attention grabbing banners that promote a message or content to your employees.
     -   [Rich text](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-richtext.md): Use rich text to enhance your content or message using common formatting options like bold or italics.
     -   [Calendar](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-content-library-portal-calendar.md): Provides your employees with a quick way of viewing scheduled events
@@ -147,7 +147,7 @@ Create and publish content in the Content Library using the following process:
     Send content directly to your employees as a notification. The types of notifications are:
 
     -   Email: Notifications sent to your employees via email.
-    -   Push: Notifications sent to your employees via the [[mobile-employee-experience|Now Mobile app]].
+    -   Push: Notifications sent to your employees via the Now Mobile app.
     -   SMS Text: When utilizing the ServiceNow Notify product, a content type is available allowing you to send SMS text message notifications to your employees.
 
         **Note:** Requires configuration of your Notify set up. For more information, see
@@ -170,7 +170,7 @@ Create and publish content in the Content Library using the following process:
 
 -   **[Employee Forums](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ecpro-employee-forum.md)**
 
-    [[ecpro-employee-forum|Employee Forums]] help your employees connect, engage, and collaborate with other employees. Use Employee Forums to share business information, promote employee engagement, encourage ideas and feedback, and to give your employees a voice.
+    Employee Forums help your employees connect, engage, and collaborate with other employees. Use Employee Forums to share business information, promote employee engagement, encourage ideas and feedback, and to give your employees a voice.
 
     When activating the ServiceNow Communities product to enable Employee Forums, customers can deliver information within Content Publishing including:
 
@@ -191,13 +191,13 @@ Content Publishing allows you to create information from different areas:
     -   Create content, links, tasks, notifications, mobile, surveys, and social media messages to customize and enhance what you make available to your employees.
     -   Preview the information as you create it, assign an audience, and schedule and publish it from the same page.
 -   Content Categories: Use the lists and forms UI to create surveys, portal content, notifications, mobile, social media, and tasks.
--   [[ec-re-usable-components|Reusable Components]]: Customers can also use the lists and forms UI to create standard information that can be created once and used in different area like links, block content, SMS configuration, and audiences.
+-   Reusable Components: Customers can also use the lists and forms UI to create standard information that can be created once and used in different area like links, block content, SMS configuration, and audiences.
 -   Schedule: After creating the information for your employees, you can determine how it will be communicated, where on your portal it should reside, the audience your information is directed to, who should approve \(if applicable\), and start and end dates and times the information should be available.
 -   Organization Chart:
 -   Advanced:
     -   Existing customers can create content types to associate the category and widget you want your content to reside.
     -   View a list of tasks assigned to your employees.
-    -   Set additional settings such as approvals, [[ecpro-content-restriction|content ownership]], and more.
+    -   Set additional settings such as approvals, content ownership, and more.
 -   Demo Portal: Use the Demo Portal to quickly view how the information you created looks before you schedule and publish it.
 
     **Note:** For some content, you can use the Content Library to view your information as you create and schedule it for publication when it looks the way you want it.
@@ -217,7 +217,7 @@ Select a tile to learn about the available platforms and content formats, and to
 
 </td><td>
 
-[Company events \[Omitted image "bus-events.svg"\] Alt text: Host live company events in the [[employee-center-portal-overview|employee portal]].](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md)
+[Company events \[Omitted image "bus-events.svg"\] Alt text: Host live company events in the employee portal.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-company-events.md)
 
 </td></tr><tr><td>
 
@@ -233,7 +233,7 @@ Select a tile to learn about the available platforms and content formats, and to
 
 </td></tr><tr><td>
 
-[To-do \[Omitted image "bus-automated-testing-framework.svg"\] Alt text: [[create-applicant-tasks|Create tasks]] that prompt employees to take action.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-do-content.md)
+[To-do \[Omitted image "bus-automated-testing-framework.svg"\] Alt text: Create tasks that prompt employees to take action.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/ec-to-do-content.md)
 
 </td><td>
 
@@ -257,24 +257,3 @@ Select a tile to learn about the available platforms and content formats, and to
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ec-streamline-content|Portal content]]
-- [[ec-mobile-content|Mobile content]]
-- [[eslate-employee-comms|Employee communications]]
-- [[ec-news-articles|News articles]]
-- [[ec-rich-content|Microsites]]
-- [[ecpro-audience|Audiences]]
-- [[ec-content-publishing-schedule|Publishing content]]
-- [[employee-center-landing-page|Employee Center]]
-- [[employee-center-pro-landing|Employee Center Pro]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[ec-company-events|Company events]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[ecpro-employee-forum|Employee Forums]]
-- [[ec-re-usable-components|Reusable components]]
-- [[ecpro-content-restriction|Content Ownership]]
-- [[employee-center-portal-overview|Employee portal]]
-- [[create-applicant-tasks|Create tasks]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure, price, quote, Reference, Sales Customer Relationship Man
 
 # Components installed with Pricing Management
 
-Several types of components are installed with activation of the [[pricing-management|Pricing Management]] plugin, including tables and user roles.
+Several types of components are installed with activation of the Pricing Management plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -88,7 +88,7 @@ sn\_csm\_pricing.pricing\_integrator\_internal
 
 </td><td>
 
-Role required to access pricing features through the Pricing REST API when [[using-servicenowcpq|using the CPQ Configurator]]. Exempt from API rate limits.
+Role required to access pricing features through the Pricing REST API when using the CPQ Configurator. Exempt from API rate limits.
 
 </td><td>
 
@@ -140,10 +140,5 @@ Pricing Plan\[sn\_csm\_pricing\_pricing\_plan\]
 Stores the pricing steps used by the pricing engine to retrieve and calculate product pricing.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[reference-cpq|Configure, price, quote reference]]
+</table>**Parent Topic:**[Configure, price, quote reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/reference-cpq.md)
 
-## Related
-
-- [[reference-cpq|Configure, price, quote reference]]
-- [[pricing-management|Pricing Management]]
-- [[using-servicenowcpq|Using the CPQ Configurator]]

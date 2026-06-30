@@ -14,7 +14,7 @@ breadcrumb: [CMDB Identification and Reconciliation \(IRE\), Configuration Manag
 
 # Applying IRE to Import Sets
 
-You can apply CMDB [[ire|Identification and Reconciliation Engine \(IRE\)]] processes when Import Sets are used to import CIs into the CMDB. CI identification can prevent duplicate CIs in the CMDB, which Import Sets might otherwise cause.
+You can apply CMDB Identification and Reconciliation Engine \(IRE\) processes when Import Sets are used to import CIs into the CMDB. CI identification can prevent duplicate CIs in the CMDB, which Import Sets might otherwise cause.
 
 Populating CMDB tables using Import Sets can inadvertently result in duplicate CIs when multiple imported records are identical to an existing CI. To minimize this duplication, you can apply CMDB Identification and Reconciliation processes to Import Sets when importing new records into CMDB tables.
 
@@ -50,7 +50,7 @@ The identification engine performs identification of each source record before i
 -   If not duplicate: Inserts the record to the target table.
 -   If duplicate: Updates the existing CI in the CMDB, with data from the source record.
 
-The CMDBTransformUtil API pre-processes the source data, then passes the input values to the identification engine with import set being the data source by default. The CMDBTransformUtil API supports a target field that is a [[reference|reference]] field in the same manner that Import Sets supports it. The CMDBTransformUtil API also supports a source script, evaluating source scripts to determine the target value which is then passed to the identification engine. For more information, see [Creating a field map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreatingAFieldMap.md).
+The CMDBTransformUtil API pre-processes the source data, then passes the input values to the identification engine with import set being the data source by default. The CMDBTransformUtil API supports a target field that is a reference field in the same manner that Import Sets supports it. The CMDBTransformUtil API also supports a source script, evaluating source scripts to determine the target value which is then passed to the identification engine. For more information, see [Creating a field map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreatingAFieldMap.md).
 
 ## Specify multiple target tables for an import set
 
@@ -58,7 +58,7 @@ You can configure each record in an import set with its own target table. Then, 
 
 When [importing data using Import Sets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/c_ImportDataUsingImportSets.md), incorporate the following steps:
 
--   In the data source file, add a target table column. Use a string such as "MyTable" to [[label|label]] the column header. In each record row, enter the target table for the record, as a valid CMDB class name such as "cmdb\_ci\_computer".
+-   In the data source file, add a target table column. Use a string such as "MyTable" to label the column header. In each record row, enter the target table for the record, as a valid CMDB class name such as "cmdb\_ci\_computer".
 -   After you **Auto Map Matching Fields** on the Table Transform Map form, add a field map for the added target table column to establish a relationship between classes and the target tables in the CMDB.
     1.  In the **Field Map** related list on the Table Transform Map form, click **New**.
     2.  Set **Source field** to the header of the target table column that you added in the data source file, such as `MyTable`.
@@ -73,7 +73,7 @@ The following restrictions apply:
 
 -   An import set should be associated with a single transform map. While adding a call to the CMDBTransformUtil API, ensure that still a single transform map exists for the import set.
 -   The CMDBTransformUtil API does not check if mandatory fields have values when used with Import Sets . Regardless of how **enforce mandatory fields** is set in the transform map, data import fails if a mandatory field does not have a value.
--   CI Identification and Reconciliation cannot be applied to Import Sets for dependent CIs \(CIs with dependent [[c_IdentificationRules|identification rules]]\).
+-   CI Identification and Reconciliation cannot be applied to Import Sets for dependent CIs \(CIs with dependent identification rules\).
 
 **Parent Topic:**[CMDB Identification and Reconciliation \(IRE\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBIdentifyandReconcile.md)
 
@@ -82,9 +82,3 @@ The following restrictions apply:
 
 [Create a transform map](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/integrate-applications/t_CreateATransformMap.md)
 
-## Related
-
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[reference|Reference]]
-- [[label|Label]]
-- [[c_IdentificationRules|Identification rules]]

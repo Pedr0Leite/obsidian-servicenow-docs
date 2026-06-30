@@ -29,7 +29,7 @@ You can define different workflows for items directly within the Service Catalog
 |Title|Name of the widget. The title appears in the header of the widget.|
 |Bootstrap color|Color scheme for the widget. The default colors are defined by the portal theme, but if you want the instance to have a specific color, select the option from the list.|
 |Display field|Determine what information displays as the title for each requested item. Short description is the default.|
-|Filter|Limit what appears in the list using a filter. You can add a filter by opening the Requested Items record in the platform \(From the context menu, click **Open in platform**\) and using the [[c_ConditionBuilder|condition builder]].|
+|Filter|Limit what appears in the list using a filter. You can add a filter by opening the Requested Items record in the platform \(From the context menu, click **Open in platform**\) and using the condition builder.|
 |Table|Table that displays the item when the user clicks an entry|
 |Link to this page|Page that opens when the user clicks an item|
 |Maximum entries|Max number of entries that appear in the list of requested items|
@@ -71,13 +71,9 @@ You can define different workflows for items directly within the Service Catalog
 
 [SC Wish List Cart widget]()
 
-[Create and edit a page using the [[c_ServicePortal|Service Portal]] Designer]()
+[Create and edit a page using the Service Portal Designer]()
 
 [Configure widget instances]()
 
 [Clone a widget]()
 
-## Related
-
-- [[c_ConditionBuilder|Condition builder]]
-- [[c_ServicePortal|Service Portal]]

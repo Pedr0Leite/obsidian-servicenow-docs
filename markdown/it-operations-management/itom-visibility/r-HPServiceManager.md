@@ -14,7 +14,7 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 # HP Service Manager discovery
 
-[[r-discovery|Discovery]] creates or updates a CMDB record when it detects a running instance of HP Service Manager.
+Discovery creates or updates a CMDB record when it detects a running instance of HP Service Manager.
 
 By default, Discovery uses the **HP Service Manager Application Server** pattern to discover HP Service Manager.
 
@@ -31,6 +31,3 @@ The following data is collected on the HP Service Manager `[cmdb_ci_appl_hp_serv
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

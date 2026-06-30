@@ -23,9 +23,9 @@ Plugin: `Integration - Multiple Provider single sign-on Installer`
 Enable the Multi Provider SSO properties:
 
 -   -   Select **Enable multiple provider SSO**.
--   Select **Enable Auto Importing of [[users|users]] from all [[identity-landing|identity]] providers into the user table**.
+-   Select **Enable Auto Importing of users from all identity providers into the user table**.
 -   Select **Enable debug logging for the multiple provider SSO integration**.
--   Enter **[[email|email]]**, The field on the user table that.….
+-   Enter **email**, The field on the user table that.….
 
 Role required: admin
 
@@ -35,11 +35,11 @@ Role required: admin
 
 2.  On the Identity Providers page, select **New**.
 
-3.  On the Identity Providers windows, select **[[c_SAML2.0WebBrowserSSOProfile|SAML]]**.
+3.  On the Identity Providers windows, select **SAML**.
 
 4.  On the Import Identity Provider Metadata, you can either:
 
-    -   **URL**: App Federation Metadata URL to auto-populate the details on the Identity Provider [[sc-configuration|configuration]] page.
+    -   **URL**: App Federation Metadata URL to auto-populate the details on the Identity Provider configuration page.
     -   **Import**: Import the XML to import the details on the Identity Provider configuration page.
 5.  Right click on the top of the screen, click **Copy sys\_id**, and use this value to the **Sign on URL** in **Basic SAML Configuration** section.
 
@@ -79,7 +79,7 @@ Yes
 
 </td><td>
 
-Active should be set to true for the IdP to be used for [[c_Authentication|authentication]].**Note:** The option to set this property only comes after a successful test connection.
+Active should be set to true for the IdP to be used for authentication.**Note:** The option to set this property only comes after a successful test connection.
 
 </td></tr><tr><td>
 
@@ -214,9 +214,9 @@ No
 URL for redirecting failed authentication requests. By default, this is the URL endpoint of an error page or logout page configured in the IdP. You can populate this value in the glide.authenticate.failed\_requirement\_redirect field.
 
 </td></tr></tbody>
-</table>7.  [[encryption-landing|Encryption]] And Signing tab
+</table>7.  Encryption And Signing tab
 
-    **Note:** Use your own [[c_Certificates|certificates]] for the encryption and signing.
+    **Note:** Use your own certificates for the encryption and signing.
 
     \[Omitted image "encryption-signing.png"\] Alt text: Encryption and Signing tab
 
@@ -236,7 +236,7 @@ URL for redirecting failed authentication requests. By default, this is the URL 
     |Property|Description|
     |--------|-----------|
     |Auto Provisioning User|Automatic user provisioning, creates the users when user doesn't exists in the instance User Table based on the information provided by the IdP.|
-    |Update User Record Upon Each Login|Update to user information in the instance User table with the information in the IdP each time that the user [[logs|logs]] in using SAML.|
+    |Update User Record Upon Each Login|Update to user information in the instance User table with the information in the IdP each time that the user logs in using SAML.|
 
 9.  Advanced tab
 
@@ -340,7 +340,7 @@ IdP properties import from this URL. If set, it enables the automatic import of 
 
 </td></tr><tr><td>
 
-[[c_requestAPI|Request]]
+Request
 
 </td><td>
 
@@ -363,15 +363,4 @@ Unique id as part of response. The id can be a user name, employee id, and so on
 
 12. Select **Activate** to activate the configuration.
 
-## Related
 
-- [[users|Users]]
-- [[identity-landing|Identity]]
-- [[email|Email]]
-- [[c_SAML2.0WebBrowserSSOProfile|SAML]]
-- [[sc-configuration|Configuration]]
-- [[c_Authentication|Authentication]]
-- [[encryption-landing|Encryption]]
-- [[c_Certificates|Certificates]]
-- [[logs|Logs]]
-- [[c_requestAPI|request]]

@@ -14,7 +14,7 @@ breadcrumb: [Configure VA for Teams, Conversational Integration with Microsoft T
 
 # Set up your language preferences for your Virtual Agent integration with Microsoft Teams
 
-Set language preferences so that [[virtual-agent-landing-page|Virtual Agent]] is in the same language as the user's preferred Microsoft Teams language.
+Set language preferences so that Virtual Agent is in the same language as the user's preferred Microsoft Teams language.
 
 ## Before you begin
 
@@ -38,6 +38,3 @@ To ensure consistency, use the same language. If the user preference language in
 
 **Parent Topic:**[Configure Virtual Agent for Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configure-va-msteams-settings.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

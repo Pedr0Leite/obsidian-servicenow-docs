@@ -46,7 +46,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d71359e95">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -84,14 +84,10 @@ Steps
 
     The associated contract repository records for the contract requests will be automatically linked.
 
-    The **Parent contract request** field is updated with the parent contract request number. The linked parent contract details appear in the [[activity-lxp|activity]] stream.
+    The **Parent contract request** field is updated with the parent contract request number. The linked parent contract details appear in the activity stream.
 
     \[Omitted image "cmpro-parent-child-link.png"\] Alt text: Parent-child hierarchy in the Related contract requests tab
 
 
 **Parent Topic:**[Linking parent-child contracts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-linking-parent-child.md)
 
-## Related
-
-- [[cncore-contract-workspace|Contract Workspace]]
-- [[activity-lxp|Activity]]

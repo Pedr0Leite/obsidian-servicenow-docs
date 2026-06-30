@@ -14,11 +14,11 @@ breadcrumb: [Configure, Digital End-User Experience, IT Service Management]
 
 # DEX guided setup
 
-Install and configure required plugins to start monitoring and administering your organization's [[dex-workspace-devices-tab|devices]] using [[dex-landing|Digital End-User Experience]] guided setup.
+Install and configure required plugins to start monitoring and administering your organization's devices using Digital End-User Experience guided setup.
 
 After installing DEX, use the DEX guided setup experience to install and configure the associated plugins.
 
-In the primary navigation pane, select the [[dex-workspace-administration-tab|DEX Administration]] icon \(\[Omitted image "icon-administration.png"\] Alt text:\) and access-guided setup through the following cards:
+In the primary navigation pane, select the DEX Administration icon \(\[Omitted image "icon-administration.png"\] Alt text:\) and access-guided setup through the following cards:
 
 -   **Agent deployment on Windows devices**
 
@@ -30,23 +30,16 @@ In the primary navigation pane, select the [[dex-workspace-administration-tab|DE
 
 -   **Deploy browser extension**
 
-    [[enable-dex-browser-extension|Enable DEX browser extension]].
+    Enable DEX browser extension.
 
 -   **Desktop Assistant deployment**
 
     Activate Desktop Assistant on the employee's device.
 
--   **[[dex-self-service|Digital End-user Experience Self-service]] configuration**
+-   **Digital End-user Experience Self-service configuration**
 
     Configure the DEX Self-service on your ServiceNow® instance.
 
 
 **Parent Topic:**[Digital End-User Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-landing.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-administration-tab|DEX Administration]]
-- [[enable-dex-browser-extension|Enable DEX browser extension]]
-- [[dex-self-service|Digital End-user Experience Self-service]]

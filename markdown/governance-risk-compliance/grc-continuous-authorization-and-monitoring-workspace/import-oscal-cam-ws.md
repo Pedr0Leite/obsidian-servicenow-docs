@@ -14,7 +14,7 @@ breadcrumb: [Import in OSCAL format, CAM OSCAL, Continuous authorization and mon
 
 # Import OSCAL catalog
 
-From the New Import playbook experience page, you can [[import-oscal|import OSCAL]] files in the Catalog model into CAM workspace. This task focuses on uploading and processing the required JSON files to begin the import process.
+From the New Import playbook experience page, you can import OSCAL files in the Catalog model into CAM workspace. This task focuses on uploading and processing the required JSON files to begin the import process.
 
 ## Before you begin
 
@@ -120,6 +120,3 @@ The OSCAL catalog import is a synchronous process.
 
 **Parent Topic:**[Import in OSCAL format](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-continuous-authorization-and-monitoring-workspace/import-oscal.md)
 
-## Related
-
-- [[import-oscal|import oscal]]

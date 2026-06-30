@@ -18,7 +18,7 @@ When you complete setting up the connection, you can configure the integration t
 
 ## Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\]
 
-The following attributes in the Allocated [[ip-address|IP Address]] \[cmdb\_ci\_allocated\_ip\_address\] table are populated by collected data:
+The following attributes in the Allocated IP Address \[cmdb\_ci\_allocated\_ip\_address\] table are populated by collected data:
 
 |Attribute label|Attribute name|
 |---------------|--------------|
@@ -76,7 +76,7 @@ The following attributes in the Managed IP Network Subnet \[cmdb\_ci\_ip\_networ
 |Managed IP Network Subnet \[cmdb\_ci\_ip\_network\_subnet\]|Reference|SG-Infoblox Detailed Subnetwork \[sn\_infoblox\_integ\_sg\_infoblox\_detailed\_subnetwork\]|
 |Managed IP Network Subnet \[cmdb\_ci\_ip\_network\_subnet\]|Reference|Key Value \[cmdb\_key\_value\]|
 
-**Note:** The IP Network Subnet table is renamed as Managed IP Network Subnet in [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]] version 1.5.0. The table is renamed to differentiate managed entities from discovered entities \(network subnets\).
+**Note:** The IP Network Subnet table is renamed as Managed IP Network Subnet in Service Graph Connector for Infoblox version 1.5.0. The table is renamed to differentiate managed entities from discovered entities \(network subnets\).
 
 ## Managed IP Pool \[cmdb\_ci\_ip\_pool\]
 
@@ -127,7 +127,3 @@ The following attributes in the SG-Infoblox Detailed Subnetwork \[sn\_infoblox\_
 |Operational status|operational\_status|
 |Connection ID|connection\_id|
 
-## Related
-
-- [[ip-address|IP Address]]
-- [[sgc-cmdb-integration-infoblox|Service Graph Connector for Infoblox]]

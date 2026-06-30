@@ -14,7 +14,7 @@ breadcrumb: [Certificate-based authentication, Authentication, Access Management
 
 # Log in using Certificate-based authentication
 
-After your administrator sets up [[certificate-based-authentication|Certificate-based authentication]], you can register the client certificate and log in using your PIV \(Personal [[identity-landing|Identity]] Verification\) or CAC \(Common Access Card\) card.
+After your administrator sets up Certificate-based authentication, you can register the client certificate and log in using your PIV \(Personal Identity Verification\) or CAC \(Common Access Card\) card.
 
 **Related topics**  
 
@@ -100,7 +100,7 @@ You can log in with your PIV or CAC card instead of user name and password when 
 
 ## Manage your client certificates
 
-View and delete client [[c_Certificates|certificates]] associated with your account.
+View and delete client certificates associated with your account.
 
 ### Before you begin
 
@@ -121,8 +121,4 @@ View and delete client [[c_Certificates|certificates]] associated with your acco
 
 4.  View or delete certificates associated with your account.
 
-## Related
 
-- [[certificate-based-authentication|Certificate-based authentication]]
-- [[identity-landing|Identity]]
-- [[c_Certificates|Certificates]]

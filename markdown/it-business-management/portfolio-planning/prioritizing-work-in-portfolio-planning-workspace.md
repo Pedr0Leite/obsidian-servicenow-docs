@@ -15,7 +15,7 @@ breadcrumb: [Portfolio Planning, Strategic Portfolio Management]
 
 # Prioritizing portfolio plan work in Portfolio Planning
 
-Use the Prioritization feature of the [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace to add, update, and [[rank-and-prioritize-work-portfolio-planning-workspace|rank planning items]] so that you can prioritize the right work for the right time.
+Use the Prioritization feature of the Portfolio Planning Workspace to add, update, and rank planning items so that you can prioritize the right work for the right time.
 
 ## Views for prioritizing planning items
 
@@ -39,7 +39,7 @@ In each of these views on the Prioritization page, you can perform the following
 
 -   **Open the planning item in the Execution app**
 
-    If you're using ServiceNow PPM, [[agile-landing-page|Agile Development 2.0]], or SAFe applications to execute the planned work, you can open the planning items in their own application. For example, if your planning item is a project, you can navigate to the [[create-a-project-form|project form]], project planning console, or project status report directly from the Prioritization page.
+    If you're using ServiceNow PPM, Agile Development 2.0, or SAFe applications to execute the planned work, you can open the planning items in their own application. For example, if your planning item is a project, you can navigate to the project form, project planning console, or project status report directly from the Prioritization page.
 
     \[Omitted image "open-execution-app.png"\] Alt text: Open planning item in execution app from Prioritization page.
 
@@ -49,9 +49,4 @@ In each of these views on the Prioritization page, you can perform the following
 
     All settings, such as row and column personalization, grouping, and sorting, are saved as the portfolio plan preferences. So, these settings are applied to all the users or user groups that the portfolio plan is shared with.
 
-## Related
 
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[rank-and-prioritize-work-portfolio-planning-workspace|Rank planning items]]
-- [[agile-landing-page|Agile Development 2.0]]
-- [[create-a-project-form|Project form]]

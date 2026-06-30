@@ -34,7 +34,7 @@ For simple attributes like user name, the **Sub-Attribute** value would be **Non
 
 ## Filter Condition
 
-A multi-valued attribute can have additional information that can be specified by using a Filter Condition. The choices for the filter condition are populated using the schemas defined by the [[scim-provider|SCIM Provider]].
+A multi-valued attribute can have additional information that can be specified by using a Filter Condition. The choices for the filter condition are populated using the schemas defined by the SCIM Provider.
 
 For example, the **phoneNumbers** attribute has multiple types like work, mobile, home, and so on.
 
@@ -68,7 +68,7 @@ The default value is passed to the SCIM Provider if direct attribute mapping of 
 
 In the case of a hard-coded value, the database table name and field name should be **None**.
 
-For example, the primary sub-attribute value of work [[email|email]] can be hard coded as **true**.
+For example, the primary sub-attribute value of work email can be hard coded as **true**.
 
 \[Omitted image "attribute-default-value.png"\] Alt text: Attribute Default Value
 
@@ -88,7 +88,3 @@ The following is a sample Script of a simple-valued Attribute.
 
 The output of the script should be a string.
 
-## Related
-
-- [[scim-provider|SCIM Provider]]
-- [[email|Email]]

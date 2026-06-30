@@ -15,9 +15,9 @@ breadcrumb: [Getting started with Virtual Agent Designer, Build and deploy, Virt
 
 # Managing conversational actions in Assistant Designer
 
-View and manage conversational actions through [[assistant-designer|Assistant Designer]].
+View and manage conversational actions through Assistant Designer.
 
-**Note:** An updated [[vad-topics-page|Assistant Designer Asset library]] user interface is available when you install [[now-assist-in-va-landing|Now Assist in Virtual Agent]] and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
+**Note:** An updated Assistant Designer Asset library user interface is available when you install Now Assist in Virtual Agent and turn on the Now Assist Topics skill. This content assumes that you have activated this skill and can see the list view. If this skill is not activated, you see the legacy UI and topics page. For more information, see [Virtual Agent Designer legacy topics page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/vad-prev-topics-page.md).
 
 When you have the admin or virtual\_agent\_admin role, you can work with conversational actions in Assistant Designer.
 
@@ -44,7 +44,7 @@ Use the row actions icon \[Omitted image "kebab-menu.png"\] Alt text: to work wi
 |Discoverable|Option to toggle the action's **Discoverable** status. If discoverable, the action is invoked when matched with a user's utterance.|
 |Visible|Option to toggle the action's visibility to users. If visible, the action appears whenever the **Show me everything** option is selected in the conversation.|
 |Active|Option to toggle the action's active status. If active, the action is available within the conversation.|
-|Delete|Option to delete the action is not applicable within [[virtual-agent-landing-page|Virtual Agent]] Designer because actions can only be deleted within Workflow Studio.|
+|Delete|Option to delete the action is not applicable within Virtual Agent Designer because actions can only be deleted within Workflow Studio.|
 
 **Parent Topic:**[Getting started with Virtual Agent Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/conversation-designer-virtual-agent.md)
 
@@ -57,9 +57,3 @@ Use the row actions icon \[Omitted image "kebab-menu.png"\] Alt text: to work wi
 
 [Integrating Virtual Agent with Workflow Studio workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-flow-designer-integration.md)
 
-## Related
-
-- [[assistant-designer|Assistant Designer]]
-- [[vad-topics-page|Assistant Designer Asset library]]
-- [[now-assist-in-va-landing|Now Assist in Virtual Agent]]
-- [[virtual-agent-landing-page|Virtual Agent]]

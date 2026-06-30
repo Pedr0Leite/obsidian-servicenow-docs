@@ -26,7 +26,7 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Dashboards**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Dashboards**.
 
     By default, the Execution Dashboard appears on the Dashboards page.
 
@@ -47,7 +47,7 @@ The dashboard has been created.
 
 ## What to do next
 
-[[edit-dashboard-ppw|Edit a dashboard]] as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/edit-dashboard-spw.md).
+Edit a dashboard as needed by adding sections, filters, images, lists, process mining maps, and rich text. For more information, see [Edit a dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/edit-dashboard-spw.md).
 
 **Related topics**  
 
@@ -60,7 +60,3 @@ The dashboard has been created.
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[edit-dashboard-ppw|Edit a dashboard]]

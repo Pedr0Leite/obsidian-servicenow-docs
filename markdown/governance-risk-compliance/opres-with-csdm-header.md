@@ -12,7 +12,7 @@ breadcrumb: [Configuring 360º views for services and processes, Configure, Oper
 
 # Opres with CSDM header Main node configuration
 
-The Opres with CSDM header Main node configuration, used by new customers, fetches CMDB objects such as business services, business processes, service offerings, and application services into [[grc-opres-landing-page|Operational Resilience]]. Existing customers typically use the [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]. Administrators or UI Builder administrators can display or hide the **Services overview** or **Business services overview** tab from the Workspace view based on organizational needs.
+The Opres with CSDM header Main node configuration, used by new customers, fetches CMDB objects such as business services, business processes, service offerings, and application services into Operational Resilience. Existing customers typically use the Service \(CMDB\) Main node configuration. Administrators or UI Builder administrators can display or hide the **Services overview** or **Business services overview** tab from the Workspace view based on organizational needs.
 
 For Opres with CSDM header configuration, Operational Resilience administrators set up the records in the following required tables:
 
@@ -29,7 +29,7 @@ You can configure the node relationships such as the sequence, source table, rel
 
 \[Omitted image "node-rel-config-opres-w-csdm-header.png"\] Alt text: Opres with CSDM header Main node configuration.
 
-The following illustration shows the [[node-relationship-configurations|node relationship configurations]] for Opres with CSDM header Main node configuration, provided as the base version. For each relationship \[cmdb\_rel\_ci\] table, you can set up combined relationship configurations. For example, for a business service as the parent class, you can configure its relationship to a service offering, then to a business process, and to an application service.
+The following illustration shows the node relationship configurations for Opres with CSDM header Main node configuration, provided as the base version. For each relationship \[cmdb\_rel\_ci\] table, you can set up combined relationship configurations. For example, for a business service as the parent class, you can configure its relationship to a service offering, then to a business process, and to an application service.
 
 \[Omitted image "node-rel-example.png"\] Alt text: Relationships.
 
@@ -37,13 +37,7 @@ The relationship of the CMDB objects is shown in the illustration. The data show
 
 \[Omitted image "csdm-objects-rel.png"\] Alt text: CSDM objects.
 
-For information on updating the node relationship configurations, see [[update-node-rel-config|Configure the Node relationship configurations]]
+For information on updating the node relationship configurations, see [Configure the Node relationship configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/update-node-rel-config.md)
 
 .
 
-## Related
-
-- [[update-node-rel-config|Configure the Node relationship configurations]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[main-node-config-bs-cmdb|Service \(CMDB\) Main node configuration]]
-- [[node-relationship-configurations|Node relationship configurations]]

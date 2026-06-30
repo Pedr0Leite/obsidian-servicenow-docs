@@ -14,7 +14,7 @@ breadcrumb: [Configure, Security Incident Response Workspace, Security Incident 
 
 # SIR Workspace Related Records
 
-This section consists of the related lists items that are grouped into sections such as associated [[c_Observables|observables]] and configuration items.
+This section consists of the related lists items that are grouped into sections such as associated observables and configuration items.
 
 The following related lists groups that are available as a part of the base system. You can modify these groups or create groups within the application and their respective actions.
 
@@ -47,7 +47,7 @@ Threat Intel
 </td><td>
 
 -   Associated Observables
--   [[tisc-threat-lookup|Threat Lookup]] Results
+-   Threat Lookup Results
 
 </td></tr><tr><td>
 
@@ -90,18 +90,18 @@ Sighting Search
 
 </td><td>
 
--   [[indicator-sightings|Sightings]] Search Results
+-   Sightings Search Results
 -   Sightings Search Details
 -   Sighting
 
 </td></tr><tr><td>
 
-[[tisc-observable-enrichment|Observable Enrichment]]
+Observable Enrichment
 
 </td><td>
 
 -   Observable Enrichment Results
--   [[associated-misp-events|Associated MISP Events]]
+-   Associated MISP Events
 -   MISP Enrichment Results
 
 </td></tr><tr><td>
@@ -146,7 +146,7 @@ Endpoint Detection and Response \(EDR\)
 
 [Category management in Security Incident Response]()
 
-[View and update [[sir-landing-page|Security Incident Response]] system properties]()
+[View and update Security Incident Response system properties]()
 
 [Create quick filters for Security Incidents and Response Tasks lists]()
 
@@ -196,7 +196,7 @@ Role required: sn\_si.admin
 
 9.  On the left navigation, navigate to **All** &gt; **Now Experience Framework** &gt; **Experiences**.
 
-10. Select **[[sir-workspace-landing-page|Security Incident Response Workspace]]**.
+10. Select **Security Incident Response Workspace**.
 
     \[Omitted image "related-list-newexp.png"\] Alt text: configure related list new experience
 
@@ -206,7 +206,7 @@ Role required: sn\_si.admin
 
     \[Omitted image "related-list-config.png"\] Alt text: Related list
 
-    \[Omitted image "related-list-ux-view.png"\] Alt text: [[sir-new-ui-setup-uiaction|Related List configuration]] section.
+    \[Omitted image "related-list-ux-view.png"\] Alt text: Related List configuration section.
 
 12. Add the newly created view name separated by a comma to an already existing list of values in the **Value** text box under the **sn\_si\_incident.viewsUsedForGrouping** field.
 
@@ -251,7 +251,7 @@ The response tasks related list is not grouped but displayed as individual relat
 
 1.  Navigate to **All** &gt; **Security Incident** &gt; **Response Tasks** &gt; **Show All Tasks**.
 
-    \[Omitted image "response-tasks-configure.png"\] Alt text: List of all [[security-incident-response-tasks|Security Incident Response Tasks]]
+    \[Omitted image "response-tasks-configure.png"\] Alt text: List of all Security Incident Response Tasks
 
 2.  Select any response task record.
 
@@ -267,7 +267,7 @@ The response tasks related list is not grouped but displayed as individual relat
 
 6.  Select the desired related list fields from the slush bucket.
 
-    For example, Affected [[threat-intelligence-locations|Locations]].
+    For example, Affected Locations.
 
     \[Omitted image "response-tasks-selction.png"\] Alt text: related list slush bucket view
 
@@ -279,15 +279,4 @@ The response tasks related list is not grouped but displayed as individual relat
 
     \[Omitted image "aafected-locations-response-tasks.png"\] Alt text: configured related list
 
-## Related
 
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[indicator-sightings|Sightings]]
-- [[tisc-observable-enrichment|Observable Enrichment]]
-- [[associated-misp-events|Associated MISP events]]
-- [[sir-landing-page|Security Incident Response]]
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[sir-new-ui-setup-uiaction|Related List configuration]]
-- [[security-incident-response-tasks|Security Incident Response Tasks]]
-- [[threat-intelligence-locations|Locations]]

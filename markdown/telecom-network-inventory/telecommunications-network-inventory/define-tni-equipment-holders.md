@@ -14,7 +14,7 @@ breadcrumb: [Manually creating and reviewing your network asset instances, Defin
 
 # Define the equipment holders
 
-Define the equipment holder that contains your telecommunications equipment, including the cabinets, racks, shelves, and slots. By defining the equipment holders, you can track and manage your network assets in the [[telecom-network-inventory|Telecommunications Network Inventory]] application.
+Define the equipment holder that contains your telecommunications equipment, including the cabinets, racks, shelves, and slots. By defining the equipment holders, you can track and manage your network assets in the Telecommunications Network Inventory application.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When you create an equipment holder record, it creates a corresponding configura
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory** &gt; **Equipment Holders**.
 
@@ -42,7 +42,7 @@ When you create an equipment holder record, it creates a corresponding configura
 
     To learn more about the field information, see [Equipment Holder form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/tni-equipment-holder-form-configuration.md)
 
-6.  Create the [Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecom-network-inventory.md) attributes for the [[tni-equipment-holder-form-configuration|Equipment Holder form]] by selecting **Set Inventory Attributes**.
+6.  Create the [Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecom-network-inventory.md) attributes for the Equipment Holder form by selecting **Set Inventory Attributes**.
 
     When you select the **Set Inventory Attributes** button, it creates a reference in the CI table.
 
@@ -50,7 +50,7 @@ When you create an equipment holder record, it creates a corresponding configura
 
     If you select **Save** without selecting **Set Inventory Attributes**, it creates a CI record but not a [Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecom-network-inventory.md) CI record.
 
-7.  On the [[ci-attribue-form|TNI CI Attributes form]], fill in the fields.
+7.  On the TNI CI Attributes form, fill in the fields.
 
     To learn more about the [Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecom-network-inventory.md) attribute fields, see [TNI CI Attributes form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/ci-attribue-form.md).
 
@@ -98,9 +98,3 @@ When you create an equipment holder record, it creates a corresponding configura
 
 [Modeling your workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/telecommunications-network-inventory-workflow.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[tni-equipment-holder-form-configuration|Equipment Holder form]]
-- [[ci-attribue-form|TNI CI Attributes form]]

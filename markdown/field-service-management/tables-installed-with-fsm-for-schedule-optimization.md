@@ -12,7 +12,7 @@ breadcrumb: [Schedule Optimization components, Reference, Field Service Manageme
 
 # Tables installed with FSM for Schedule Optimization
 
-The following tables are installed with the [[fsm-application-landing-page|Field Service Management]] plugin, but are only used by [[schedule-optimization|Schedule Optimization]].
+The following tables are installed with the Field Service Management plugin, but are only used by Schedule Optimization.
 
 <table id="table_hmx_41p_1yb"><thead><tr><th>
 
@@ -51,7 +51,7 @@ Captures agent/task events from the following pre-defined triggers:-   PTO submi
 Relates a group or territory to an intraday job
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[schedule-optimization-components|Schedule Optimization components]]
+</table>**Parent Topic:**[Schedule Optimization components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/schedule-optimization-components.md)
 
 **Related topics**  
 
@@ -60,8 +60,3 @@ Relates a group or territory to an intraday job
 
 [Configure intraday optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-scheduling/configure-intraday-optimization.md)
 
-## Related
-
-- [[schedule-optimization-components|Schedule Optimization components]]
-- [[fsm-application-landing-page|Field Service Management]]
-- [[schedule-optimization|Schedule Optimization]]

@@ -25,13 +25,9 @@ Fields of the journal\_input type are multi-line text boxes which, upon save, ad
 |Additional comments|Any user can update.|
 |Work notes|ITIL users can update.|
 
-These comments, as well as any changes to the record or email [[notifications|notifications]] sent out because of the record, are displayed in the [[c_ActivityFormatter|activity formatter]], which can be added to the form like a field.
+These comments, as well as any changes to the record or email notifications sent out because of the record, are displayed in the activity formatter, which can be added to the form like a field.
 
 \[Omitted image "ActivityFormatterForJournalFields.png"\] Alt text:
 
 **Parent Topic:**[Task table structure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/task-table-structure.md)
 
-## Related
-
-- [[notifications|Notifications]]
-- [[c_ActivityFormatter|Activity formatter]]

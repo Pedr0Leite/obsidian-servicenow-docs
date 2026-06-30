@@ -14,7 +14,7 @@ breadcrumb: [DaaS reference, Device as a Service, Hardware Asset Management, IT 
 
 # Components installed with Hardware Asset Management for DaaS
 
-Several types of components are installed with activation of the [[ham-landing-page|Hardware Asset Management]] for DaaS \(com.sn\_daas\_ham\) plugin, including tables and user roles.
+Several types of components are installed with activation of the Hardware Asset Management for DaaS \(com.sn\_daas\_ham\) plugin, including tables and user roles.
 
 ## Roles installed
 
@@ -36,7 +36,7 @@ DaaS Manager \[sn\_daas\_ham.daas\_asset\_manager\]
 
 </td><td>
 
--   Manages all aspects of DaaS, including access and execution of important actions, reports, and requests such as inbound asset orders and [[return-merchandise-authorization|Return Merchandise Authorization]] \(RMA\) orders.
+-   Manages all aspects of DaaS, including access and execution of important actions, reports, and requests such as inbound asset orders and Return Merchandise Authorization \(RMA\) orders.
 -   Marks assets as DaaS assets.
 
 </td><td>
@@ -53,7 +53,3 @@ Asset Manager \[asset\]
 |Inbound asset order \[sn\_itam\_common\_inbound\_asset\_order\]|Information about the asset request with multiple order lines, such as the originating account and the delivery address.|
 |Inbound asset order line \[sn\_itam\_common\_inbound\_asset\_orderline\]|Information about the model for which the asset is requested.|
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[return-merchandise-authorization|Return Merchandise Authorization]]

@@ -12,7 +12,7 @@ breadcrumb: [Table and field level mapping, Impact reference, Impact]
 
 # Working with your Squad tables
 
-Following is the information that is synced: who’s on your [[impact-squad|Impact Squad]], your Squad’s contact information, the status of your [[foundations|Impact Foundations]] activities, and records of your consent \(for example, for Accelerators that require you to accept additional terms and conditions\).
+Following is the information that is synced: who’s on your Impact Squad, your Squad’s contact information, the status of your Impact Foundations activities, and records of your consent \(for example, for Accelerators that require you to accept additional terms and conditions\).
 
 |Source field|Source table|Target field|Target table|
 |------------|------------|------------|------------|
@@ -78,10 +78,5 @@ Following is the information that is synced: who’s on your [[impact-squad|Impa
 |start\_date|sn\_impact\_cust\_impact\_objective|start\_date|x\_snc\_octane\_bvmp\_business\_objective\_data|
 |name|sn\_impact\_cust\_impact\_objective|title|x\_snc\_octane\_bvmp\_business\_objective\_data|
 
-**Parent Topic:**[[table-field-level-mapping|Table and field level mapping]]
+**Parent Topic:**[Table and field level mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/table-field-level-mapping.md)
 
-## Related
-
-- [[table-field-level-mapping|Table and field level mapping]]
-- [[impact-squad|Impact Squad]]
-- [[foundations|Impact Foundations]]

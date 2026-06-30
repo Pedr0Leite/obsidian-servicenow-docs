@@ -18,7 +18,7 @@ Import a Word document to a knowledge article to create a new version.
 
 ## Before you begin
 
--   Ensure that the [[knowledge-management|Knowledge Management]] Advanced plugin \(com.snc.knowledge\_advanced\) is installed.
+-   Ensure that the Knowledge Management Advanced plugin \(com.snc.knowledge\_advanced\) is installed.
 -   You can only upload new versions to articles that are in **Draft** or **Published** state.
 -   You cannot upload new versions to articles that are created using an article template or if the article type is **Wiki**.
 
@@ -36,7 +36,7 @@ Role required: admin
 
 4.  Add the file you want to import.
 
-5.  Select the **Copy Attachments** [[check-box|check box]] to copy all attachments to the knowledge article.
+5.  Select the **Copy Attachments** check box to copy all attachments to the knowledge article.
 
     **Note:** If the article is published, the attachments are added to a new article version. If the article is in draft, the attachments are added to the existing knowledge article. The draft article does not appear in the knowledge base \(KB\) for users until it is reviewed and published.
 
@@ -47,7 +47,3 @@ Role required: admin
 
 **Parent Topic:**[Creating and maintaining articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/creating-and-maintaining-articles.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[check-box|Check box]]

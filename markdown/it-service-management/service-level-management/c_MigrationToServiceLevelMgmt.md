@@ -14,7 +14,7 @@ breadcrumb: [Service Level Management reference, Service Level Management, IT Se
 
 # Migrate to service level management
 
-Migrate SLA processing from the escalations engine to use the [[service-level-mgmt-landing-page|service level management]] functionality.
+Migrate SLA processing from the escalations engine to use the service level management functionality.
 
 The two core differences between the old SLA engine and the new service level management plugin are that tasks can now run multiple SLAs simultaneously, and the escalation concept has been replaced with the more robust Workflow Editor. This allows administrators greater control on what actions, notifications, and events are triggered by tasks, to take into account more mature Service Level processes.
 
@@ -30,6 +30,3 @@ For example: if a retroactive SLA attaches to an incident one hour after its cre
 
 **Parent Topic:**[Service Level Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/service-level-management-reference.md)
 
-## Related
-
-- [[service-level-mgmt-landing-page|Service Level Management]]

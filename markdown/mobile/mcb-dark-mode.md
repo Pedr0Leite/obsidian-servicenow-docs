@@ -12,7 +12,7 @@ breadcrumb: [Building tools, Building mobile apps, Mobile Platform]
 
 # Light and dark modes in Mobile App Builder and Mobile Card Builder
 
-The [[mab-concept|Mobile App Builder]] and [[mobile-card-builder|Mobile Card Builder]] tools can configure both light and dark mode options, allowing users to easily switch between a bright or subdued interface, enhancing comfort, readability, and battery efficiency.
+The Mobile App Builder and Mobile Card Builder tools can configure both light and dark mode options, allowing users to easily switch between a bright or subdued interface, enhancing comfort, readability, and battery efficiency.
 
 ## Light and dark modes
 
@@ -36,7 +36,3 @@ To toggle between light and dark modes, select the theme changer button \(\[Omit
 
 \[Omitted image "builder-dark-mode-picker.png"\] Alt text: display mode picker with light and dark options displayed
 
-## Related
-
-- [[mab-concept|Mobile App Builder]]
-- [[mobile-card-builder|Mobile Card Builder]]

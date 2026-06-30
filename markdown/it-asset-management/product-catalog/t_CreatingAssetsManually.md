@@ -33,11 +33,11 @@ Follow these steps to create an asset manually.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ProductCatalog|Product Catalog]]** &gt; **Product Model** &gt; **[[model-hierarchy|Model Categories]]**.
+1.  Navigate to **All** &gt; **Product Catalog** &gt; **Product Model** &gt; **Model Categories**.
 
 2.  Open a model category that has no assigned CI class.
 
-3.  Click **[[t_CreatingAssets|Create Assets]]**.
+3.  Click **Create Assets**.
 
     This action creates assets from all CIs deferred for verification in this model category. This option is only available for users with the admin role.
 
@@ -55,8 +55,3 @@ Follow these steps to create an asset manually.
 
 [Delete model categories]()
 
-## Related
-
-- [[c_ProductCatalog|Product Catalog]]
-- [[model-hierarchy|Model categories]]
-- [[t_CreatingAssets|Create assets]]

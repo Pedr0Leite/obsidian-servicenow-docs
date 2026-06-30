@@ -14,7 +14,7 @@ breadcrumb: [Fix errors in individual application service maps, Application serv
 
 # Skip errors to continue discovering an application service
 
-If you know what configuration items \(CIs\) and connections make up your service instance, you can enable [[c_ServiceMappingOverview|Service Mapping]] to continue [[r-discovery|discovery]] of the service instance even if there are some errors. You can skip errors to troubleshoot later so you can complete mapping most of the service instance, even if some CIs are missing.
+If you know what configuration items \(CIs\) and connections make up your service instance, you can enable Service Mapping to continue discovery of the service instance even if there are some errors. You can skip errors to troubleshoot later so you can complete mapping most of the service instance, even if some CIs are missing.
 
 ## Before you begin
 
@@ -104,7 +104,7 @@ To discover the problematic CI automatically:
 **Related topics**  
 
 
-[Fix errors in individual application services [[using-discovery|using discovery]] messages]()
+[Fix errors in individual application services using discovery messages]()
 
 [Resolve pattern-related mapping errors]()
 
@@ -114,8 +114,3 @@ To discover the problematic CI automatically:
 
 [Prerequisites for performing top-down discovery using Service Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/prerequisites-service-mapping.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]
-- [[using-discovery|Using Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Exploring the IT Remediation Workspace, IT Remediation Workspace, V
 
 # View a workflow example in the IT Remediation Workspace
 
-View an example of an end-to-end workflow in the [[it-remediation-workspace-landing-page|IT Remediation Workspace]]. See how IT specialists might use the workspace to monitor critical vulnerable items \(VITs, AVITs, and CVITs\) and test results \(TRs\) and remediate the [[vulnerabilities|vulnerabilities]] assigned to them.
+View an example of an end-to-end workflow in the IT Remediation Workspace. See how IT specialists might use the workspace to monitor critical vulnerable items \(VITs, AVITs, and CVITs\) and test results \(TRs\) and remediate the vulnerabilities assigned to them.
 
 ## Before you begin
 
@@ -43,7 +43,3 @@ Role required:
         -   Select the **Change requests** tab, to view the approval status of the change requests and to create a new change request by selecting the **New** button.
         -   Select the UI actions: **Mark as False Positive**, **Create Change**, **Split Task**, **Update status****Request Exception**, **Delete** and so on. Follow the prompts in the dialogs to help you with your remediation.
 
-## Related
-
-- [[it-remediation-workspace-landing-page|IT Remediation Workspace]]
-- [[vulnerabilities|Vulnerabilities]]

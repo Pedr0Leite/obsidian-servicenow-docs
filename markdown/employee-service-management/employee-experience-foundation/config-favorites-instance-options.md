@@ -22,7 +22,7 @@ Role required: sp\_admin or admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center**.
 
     The Employee Center home page is displayed.
 
@@ -108,6 +108,4 @@ You may make the load configuration Synchronous for the widgets visible on the H
 
     For more information, see [Cross-channel favorites](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

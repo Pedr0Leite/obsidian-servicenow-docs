@@ -24,7 +24,7 @@ To edit the article, you must have knowledge contributor access for the associat
 
 ## About this task
 
-If you have manually mapped related articles when editing an article, those articles are listed in the Related Articles section on the knowledge article view page before the related articles that are predicted thorough the [[knowledge-management|Knowledge Management]] similarity solution.
+If you have manually mapped related articles when editing an article, those articles are listed in the Related Articles section on the knowledge article view page before the related articles that are predicted thorough the Knowledge Management similarity solution.
 
 **Note:** An administrator can train the solution definition for Knowledge Management within the Predictive Intelligence feature to find related articles. For more information, see [Train the similarity solution for Knowledge Management to find related articles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/train-similarity-solution-km.md).
 
@@ -56,6 +56,3 @@ This task provides steps to manually map related articles when editing an articl
 
 [Configure knowledge related articles widget instance options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-related-articles-widget.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

@@ -16,7 +16,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 Safety team can use the action schedule form for actions to be created and assigned based on defined conditions.
 
-For information on setting up a [[health-safety-overview|health and safety]] action schedule, see [Create a Health and Safety action schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/create-health-safety-action-schedule.md).
+For information on setting up a health and safety action schedule, see [Create a Health and Safety action schedule](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/create-health-safety-action-schedule.md).
 
 <table id="table_tzg_shc_y2c"><thead><tr><th>
 
@@ -59,9 +59,9 @@ Type
 Type of the action.-   **Corrective**: An action to eliminate the causes of non-conformities or undesirable situations to stop them from happening again.
 -   **Preventive**: An action to help prevent the occurrence of non-conformities.
 -   **Task**: A generic task assigned as an action.
--   **[[exploring-learning-exp|Learning]]**: An action that includes a learning for the user, for example, completing a training.
+-   **Learning**: An action that includes a learning for the user, for example, completing a training.
 
-**Note:** The **Learning** option in this field appears only when the [[learning-core_overview|Learning Core]] \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
+**Note:** The **Learning** option in this field appears only when the Learning Core \(sn\_lc\) application is installed on your instance. For more information, see [Additional features in Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-incident-management/install-hs-incident-mgmt.md).
 
 
 </td></tr><tr><td>
@@ -167,8 +167,3 @@ This field appears only when **Frequency** is set as **Monthly**.
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[exploring-learning-exp|Learning]]
-- [[learning-core_overview|Learning Core]]

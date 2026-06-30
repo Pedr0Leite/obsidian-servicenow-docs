@@ -22,7 +22,7 @@ Role required: sn\_wsd\_spcmgmt.space\_planner, sn\_wsd\_spcmgmt.scenario\_reade
 
 ## About this task
 
-You can review a scenario created by your colleague from the [[space-optimization|Space Optimization]] module and share your feedback with them before they deploy.
+You can review a scenario created by your colleague from the Space Optimization module and share your feedback with them before they deploy.
 
 **Important:**
 
@@ -33,11 +33,11 @@ You can review a scenario created by your colleague from the [[space-optimizatio
 
 1.  Navigate to any one of the following locations:
 
-    -   **All** &gt; **[[workplace-central-feat|Workplace Central]]** &gt; **Workplace Central**.
-    -   **All** &gt; **[[scenario-planning|Scenario Planning]]** &gt; **My Scenario Plans**
-    You can also open Workplace Central from the [[employee-center-landing-page|Employee Center]] directly. Navigate to **Workspaces** &gt; **Workplace Central**.
+    -   **All** &gt; **Workplace Central** &gt; **Workplace Central**.
+    -   **All** &gt; **Scenario Planning** &gt; **My Scenario Plans**
+    You can also open Workplace Central from the Employee Center directly. Navigate to **Workspaces** &gt; **Workplace Central**.
 
-    The [[workplace-analytics|Workplace Analytics]] dashboard opens.
+    The Workplace Analytics dashboard opens.
 
 2.  Select the **Space Optimization** icon \(\[Omitted image "space-optimization-icon.png"\] Alt text: Space optimization icon.\).
 
@@ -61,7 +61,7 @@ You can review a scenario created by your colleague from the [[space-optimizatio
 
 7.  View the scenario plan on a floor directly by selecting the **Floor map view** tab.
 
-    **Note:** You can view the scenario plan on a floor map only if the floor map is configured using the Workplace [[Indoor-mapping|Indoor Mapping]] Map studio.
+    **Note:** You can view the scenario plan on a floor map only if the floor map is configured using the Workplace Indoor Mapping Map studio.
 
 
 **Parent Topic:**[Working with Space Optimization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-central/working-with-space-optimization.md)
@@ -91,11 +91,3 @@ You can review a scenario created by your colleague from the [[space-optimizatio
 
 [Map based space administration]()
 
-## Related
-
-- [[space-optimization|Space Optimization]]
-- [[workplace-central-feat|Workplace Central]]
-- [[scenario-planning|Scenario Planning]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-analytics|Workplace Analytics]]
-- [[Indoor-mapping|Indoor Mapping]]

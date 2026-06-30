@@ -16,7 +16,7 @@ breadcrumb: [Customer Service Platform Analytics Solutions, Analytics and report
 
 The Customer Service Manager dashboard displays charts and summary data on metrics like backlog, resolution rates, SLA, customer satisfaction, and per-agent KPIs.
 
-To view the Customer Service Manager dashboard, navigate to **Performance Analytics** &gt; **Dashboards**. Click the **All** tab and select **[[c_CustomerServiceManagement|Customer Service Management]]** from the Group menu. Click the **Customer Service Manager** or **Customer Service Manager - Advanced** tile.
+To view the Customer Service Manager dashboard, navigate to **Performance Analytics** &gt; **Dashboards**. Click the **All** tab and select **Customer Service Management** from the Group menu. Click the **Customer Service Manager** or **Customer Service Manager - Advanced** tile.
 
 The Customer Service Management - Advanced Performance Analytics Solution adds the Customer Service Manager - Advanced dashboard. The Advanced dashboard contains the additional tab Work Assignment Analytics.
 
@@ -38,7 +38,7 @@ The Customer Service Manager dashboard uses the Case Assignment Group breakdown.
 
 |Indicator|Description|
 |---------|-----------|
-|CSAT|Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [[c_CustomerServiceSatisfactionSurvey|Customer service satisfaction surveys]].|
+|CSAT|Average customer satisfaction based on survey results. The percent change in the current period appears under the total percentage. For more information about CSAT, see [Customer service satisfaction surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/c_CustomerServiceSatisfactionSurvey.md).|
 |First Call Resolution|Percentage of cases that were resolved during first contact with the customer. The percent change in the current period appears under the total percentage.|
 |Mean Time to Resolve|Average time for a case to be marked as closed or resolved. The percent change in the current period appears under the total percentage.|
 |Customers Impacted by Major Case|Number of customers impacted by major cases.|
@@ -89,7 +89,7 @@ Trend chart of case backlog over time. Click and move your cursor to view data f
 
 ## Analysis breakdowns
 
-Select a breakdown to [[osp-view-cases|view cases]] grouped by that breakdown.
+Select a breakdown to view cases grouped by that breakdown.
 
 Cases in the Open Backlog - Unblocked state can be grouped by the following breakdowns.
 
@@ -259,8 +259,3 @@ Text Analytics displays a word cloud of most frequently used words and phrases i
 
 **Trend line**: Shows the frequency of top keywords over time. Click and move your cursor to view data for any date.**Related Records**: List of cases containing the keywords you selected from the word cloud.
 
-## Related
-
-- [[c_CustomerServiceSatisfactionSurvey|Customer service satisfaction surveys]]
-- [[c_CustomerServiceManagement|Customer Service Management]]
-- [[osp-view-cases|View cases]]

@@ -24,7 +24,7 @@ Role required: admin
 
 1.  Navigate to **System Definition** &gt; **UI actions**.
 
-2.  Run the Filter option to filter out the list by **Application**: [[major-security-incident-management-landing-page|Major Security Incident Management]] and **Table**: sn\_si\_incident.
+2.  Run the Filter option to filter out the list by **Application**: Major Security Incident Management and **Table**: sn\_si\_incident.
 
     \[Omitted image "ui-actions-step3.png"\] Alt text: UI Actions for linking records
 
@@ -34,15 +34,10 @@ Role required: admin
 
 4.  Repeat the steps for the following UI actions:
 
-    -   [[link-si-msi|Link to Major Security incident]]
+    -   Link to Major Security incident
     -   Proposed Major Security Incident
     -   Unlink from Major Security Incident
-    -   [[promote-to-major-security-incident|Promote to Major Security Incident]]
+    -   Promote to Major Security Incident
 
 **Parent Topic:**[Rollup example use case implementation for a Security Case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/use-case-for-a-security-case.md)
 
-## Related
-
-- [[major-security-incident-management-landing-page|Major Security Incident Management]]
-- [[link-si-msi|Link to Major Security Incident]]
-- [[promote-to-major-security-incident|Promote to Major Security Incident]]

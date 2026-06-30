@@ -12,7 +12,7 @@ breadcrumb: [View a survey scorecard, Survey responses and results, Use surveys,
 
 # Survey scorecard average ratings
 
-The [[r_AverageRatings|Average Ratings]] view displays the weighted average rating for each survey question in an individual category or all categories.
+The Average Ratings view displays the weighted average rating for each survey question in an individual category or all categories.
 
 Use this view to learn how individual questions affect the overall rating for the category. Select a survey category from the choice list to display the chart for that category.
 
@@ -22,7 +22,7 @@ To view the effect of each question's ratings on the entire category's ratings, 
 
 \[Omitted image "SurveyScorecardRatingDetail.png"\] Alt text: Average ratings detail
 
-**Parent Topic:**[[t_ViewAScorecard|View a survey scorecard]]
+**Parent Topic:**[View a survey scorecard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_ViewAScorecard.md)
 
 **Related topics**  
 
@@ -35,7 +35,3 @@ To view the effect of each question's ratings on the entire category's ratings, 
 
 [Export a survey scorecard as an image]()
 
-## Related
-
-- [[t_ViewAScorecard|View a survey scorecard]]
-- [[r_AverageRatings|Average ratings]]

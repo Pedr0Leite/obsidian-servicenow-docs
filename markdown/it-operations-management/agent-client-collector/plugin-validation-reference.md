@@ -14,7 +14,7 @@ breadcrumb: [ACC-F reference, Agent Client Collector reference, Agent Client Col
 
 # Synchronization properties for validating Agent Client Collector plugins
 
-Use the following properties when synchronizing public certificates from the MID Server to the [[acc-landing-page|Agent Client Collector]].
+Use the following properties when synchronizing public certificates from the MID Server to the Agent Client Collector.
 
 <table id="table_d4h_c23_rwb"><thead><tr><th>
 
@@ -76,6 +76,3 @@ Status of whether the public certificates are retrieved from the MID Server for 
 </td></tr></tbody>
 </table>**Parent Topic:**[Agent Client Collector Framework reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/agent-client-collector-reference.md)
 
-## Related
-
-- [[acc-landing-page|Agent Client Collector]]

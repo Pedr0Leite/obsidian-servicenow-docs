@@ -14,11 +14,11 @@ breadcrumb: [MFA Dashboard, Multi-factor authentication, Authentication, Access 
 
 # MFA Guided Setup
 
-Use the MFA Guided Setup to step through the initial [[sc-configuration|configuration]] of the MFA module and understand the requirements for MFA enforcements.
+Use the MFA Guided Setup to step through the initial configuration of the MFA module and understand the requirements for MFA enforcements.
 
-The MFA Guided Setup assists you to configure MFA for internal [[users|users]] who log in using a username and password.
+The MFA Guided Setup assists you to configure MFA for internal users who log in using a username and password.
 
-To access the MFA Guided Setup, navigate to **All** &gt; **Adoption Services** &gt; **Guided Setup**. You can choose **All applications** and choose **[[mfa-landing|Multi-factor Authentication]]**.
+To access the MFA Guided Setup, navigate to **All** &gt; **Adoption Services** &gt; **Guided Setup**. You can choose **All applications** and choose **Multi-factor Authentication**.
 
 The Multi-factor Authentication guided setup opens in a new tab. Expand any category to view detailed status and related tasks on the page displayed.
 
@@ -35,8 +35,3 @@ Complete the following task to become familiar with the MFA configurations:
 
 To know more about how to use the Guided Setup, see [Guided Setup](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/guided-setup.md).
 
-## Related
-
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[mfa-landing|Multi-factor authentication]]

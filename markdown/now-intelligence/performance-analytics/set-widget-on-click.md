@@ -22,13 +22,13 @@ Role required: pa\_power\_user, pa\_admin, or admin
 
 ## About this task
 
-By default, when a user clicks on a widget, the detailed [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]] for the widget indicator appears. You can configure a widget to direct users to a different URL instead.
+By default, when a user clicks on a widget, the detailed Analytics Hub for the widget indicator appears. You can configure a widget to direct users to a different URL instead.
 
-**Note:** For equivalent functionality in [[c_performanceAnalyticsAndReporting|Platform Analytics]] data visualizations, see [[dv-chart-interactions|Chart interactions in a data visualization]].
+**Note:** For equivalent functionality in Platform Analytics data visualizations, see [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Performance Analytics** &gt; **[[widgets|Widgets]]**.
+1.  Navigate to **All** &gt; **Performance Analytics** &gt; **Widgets**.
 
 2.  Select the widget you want to configure.
 
@@ -46,9 +46,4 @@ By default, when a user clicks on a widget, the detailed [[c_UsePerformanceAnaly
 
     4.  Click **Submit**.
 
-## Related
 
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[widgets|Widgets]]

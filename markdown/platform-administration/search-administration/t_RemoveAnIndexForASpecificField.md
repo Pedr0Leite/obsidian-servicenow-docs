@@ -14,7 +14,7 @@ breadcrumb: [Zing indexes words, Zing text indexing and search engine, Search ad
 
 # Remove an index for a specific field
 
-You can remove the index for a specific field in a table if you no longer want the search engine to return [[hs-results|results]] for that field.
+You can remove the index for a specific field in a table if you no longer want the search engine to return results for that field.
 
 ## Before you begin
 
@@ -77,6 +77,3 @@ The system no longer indexes text from the specified table field or queries it f
 
 [Configure tables to use the Japanese tokenizer]()
 
-## Related
-
-- [[hs-results|Results]]

@@ -22,7 +22,7 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[reg-change-mgmt-landing-page|Regulatory Change Management]]** &gt; **RSS Feeds** &gt; **Feed Sources**.
+1.  Navigate to **All** &gt; **Regulatory Change Management** &gt; **RSS Feeds** &gt; **Feed Sources**.
 
 2.  Select **New**.
 
@@ -42,6 +42,3 @@ Role required: admin
 
 The feed source is set up and ready to provide the feed to your instance.
 
-## Related
-
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

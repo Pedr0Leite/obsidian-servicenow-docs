@@ -14,7 +14,7 @@ breadcrumb: [Working with block lists, Check Point Next Generation Threat Preven
 
 # Create a block list for the Check Point NGTP integration
 
-Create a Block List in your ServiceNow AI Platform instance. Once approved and activated, you can create entries for these Block Lists from [[c_Observables|observables]] determined to be malicious on Now Platform [[sir-landing-page|Security Incident Response]] \(SIR\) incidents and request approval to block them.
+Create a Block List in your ServiceNow AI Platform instance. Once approved and activated, you can create entries for these Block Lists from observables determined to be malicious on Now Platform Security Incident Response \(SIR\) incidents and request approval to block them.
 
 ## Before you begin
 
@@ -58,7 +58,7 @@ Name
 
 </td><td>
 
-Check Point Block Request List name.Include the observable type \(URL, IP, domain\) in this field so the security analyst can easily recognize the intention of the Block List by its name. The name should also clearly indicate what firewall policy these Block List objects are mapped to. Some examples of Block List names are, Outbound [[threat-intelligence-malware|Malware]] IP, or Outbound Phishing URL.
+Check Point Block Request List name.Include the observable type \(URL, IP, domain\) in this field so the security analyst can easily recognize the intention of the Block List by its name. The name should also clearly indicate what firewall policy these Block List objects are mapped to. Some examples of Block List names are, Outbound Malware IP, or Outbound Phishing URL.
 
 </td></tr><tr><td>
 
@@ -68,7 +68,7 @@ Active
 
 This check box is cleared by default to indicate that the Block List is inactive.When inactive, the Block List is unable to receive additional entries.
 
- When the check box is selected \(When Change Request is closed or change request is not generated\), the Block List is activated and available for [[cs-fal-insight-block-list-entries|Block List entries]].
+ When the check box is selected \(When Change Request is closed or change request is not generated\), the Block List is activated and available for Block List entries.
 
 </td></tr><tr><td>
 
@@ -243,9 +243,3 @@ Delete the record.
 
 Activate the Block Request List manually, or with a ServiceNow AI Platform change request.
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[threat-intelligence-malware|Malware]]
-- [[cs-fal-insight-block-list-entries|Block List Entries]]

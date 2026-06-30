@@ -14,7 +14,7 @@ breadcrumb: [Reference, AI Search, Search administration, Configure core feature
 
 # Indexed Source Attribute form
 
-The Indexed Source Attribute form enables you to [[create-indexed-source-ais|create an indexed source]] attribute for an indexed source in [[ia-ai-search|AI Search]].
+The Indexed Source Attribute form enables you to create an indexed source attribute for an indexed source in AI Search.
 
 For details on creating or editing indexed source attributes, see [Indexed source attributes for AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-attributes-ais.md).
 
@@ -28,7 +28,3 @@ For details on creating or editing indexed source attributes, see [Indexed sourc
 
 **Parent Topic:**[AI Search reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/reference-ais.md)
 
-## Related
-
-- [[create-indexed-source-ais|Create an indexed source]]
-- [[ia-ai-search|AI Search]]

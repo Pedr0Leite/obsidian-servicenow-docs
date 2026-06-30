@@ -16,7 +16,7 @@ breadcrumb: [Build and train your model, Model management, Natural Language Unde
 
 Use the default test set of your NLU model to test the model's performance and accuracy. Manage your test set over time by building or updating its content in the NLU Workbench.
 
-**Note:** To [[test-your-model|test your model]], install the ServiceNow® Store application [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md).
+**Note:** To test your model, install the ServiceNow® Store application NLU Workbench - Advanced Features. For more information, see [Install NLU Workbench - Advanced Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/install-nlu-workbench-adv-features.md).
 
 When you create an NLU model for Virtual Agent or AI Search, a default test set is created and associated to the model. You can use the default test set to evaluate the model’s performance. Initially the test set is empty, ready to be populated with your content.
 
@@ -24,9 +24,9 @@ When you create an NLU model for Virtual Agent or AI Search, a default test set 
 
 Access your default test set with one of the following methods.
 
--   Navigate to **All** &gt; **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then the name of your model from the list. On the model's overview page, find the **[[managing-model-content|Build and Train your model]]** card and select its **View phase** button. Then select the **Test set** tab. \[Omitted image "nlu-test-set-creation-management1.png"\] Alt text: On the NLU model overview page, the Test set tab is highlighted.
+-   Navigate to **All** &gt; **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then the name of your model from the list. On the model's overview page, find the **Build and Train your model** card and select its **View phase** button. Then select the **Test set** tab. \[Omitted image "nlu-test-set-creation-management1.png"\] Alt text: On the NLU model overview page, the Test set tab is highlighted.
 -   Navigate to **All** &gt; **NLU Workbench** &gt; **Models**. Select the tab for your model's application, then the name of your model from the list. On the model's overview page, select the **Test Coverage** tile. \[Omitted image "nlu-test-set-creation-management2U.png"\] Alt text: On the model overview page, the Test Coverage tile is highlighted.
--   Navigate to **All** &gt; **[[batch-testing-nlu|Multi-model Batch Testing]]** &gt; **Test sets** tab. Find the name of your model. Default test sets are labeled as **Default**.\[Omitted image "nlu-test-set-creation-management3.png"\] Alt text: An entry in Multi-model Batch Testing's Test sets table.
+-   Navigate to **All** &gt; **Multi-model Batch Testing** &gt; **Test sets** tab. Find the name of your model. Default test sets are labeled as **Default**.\[Omitted image "nlu-test-set-creation-management3.png"\] Alt text: An entry in Multi-model Batch Testing's Test sets table.
 
 ## Add content to your default test set
 
@@ -55,7 +55,7 @@ Aim to have about 10 percent of a model's test utterances marked as "not relevan
 
 ## Use the test set
 
-To use the default test set from the **[[testing-your-model|Test and publish your model]]** phase, see [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md).
+To use the default test set from the **Test and publish your model** phase, see [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md).
 
 To use the test set in Multi-model Batch Testing, see [Multi-model Batch Testing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/batch-testing-nlu.md).
 
@@ -81,14 +81,6 @@ Default test sets can be downloaded or moved as follows.
 
     **Note:** Test sets that are downloaded from **Download test set** contain test utterances and their expected intents, but not the sources.
 
--   Default test sets can be moved with update sets. When you [[add-model-update-set|add an NLU model to an update set]], its default test set is added, including test utterances, expected intents, and sources. For more information, see [Add an NLU model to an update set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/add-model-update-set.md).
+-   Default test sets can be moved with update sets. When you add an NLU model to an update set, its default test set is added, including test utterances, expected intents, and sources. For more information, see [Add an NLU model to an update set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/add-model-update-set.md).
 -   When using the **Export model as CSV** function in the **All existing models** table, the default test set is not included. For more information, see [Export an NLU model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/export-nlu-model.md).
 
-## Related
-
-- [[test-your-model|Test your model]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[managing-model-content|Build and train your model]]
-- [[batch-testing-nlu|Multi-model Batch Testing]]
-- [[testing-your-model|Test and publish your model]]
-- [[add-model-update-set|Add an NLU model to an update set]]

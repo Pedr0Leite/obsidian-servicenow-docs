@@ -14,7 +14,7 @@ breadcrumb: [Setting up roles and responsibilities, Configure, Healthcare Operat
 
 # Assign responsibilities to Healthcare Operations Core users
 
-Assign responsibilities to users in [[hcls-cto-app|Healthcare Operations Core]] to dictate which specific records users are authorized to view or modify.
+Assign responsibilities to users in Healthcare Operations Core to dictate which specific records users are authorized to view or modify.
 
 ## Before you begin
 
@@ -31,7 +31,7 @@ You can edit the responsibilities of Healthcare Operations Core users when addin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[healthcare-operations-overview|Healthcare Operations]]** &gt; **Healthcare Organizations** &gt; **All**.
+1.  Navigate to **All** &gt; **Healthcare Operations** &gt; **Healthcare Organizations** &gt; **All**.
 
 2.  Select the parent organization.
 
@@ -51,7 +51,4 @@ You can edit the responsibilities of Healthcare Operations Core users when addin
 
 7.  Select **Save**.
 
-## Related
 
-- [[hcls-cto-app|Healthcare Operations Core]]
-- [[healthcare-operations-overview|Healthcare Operations]]

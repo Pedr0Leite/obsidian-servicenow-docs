@@ -14,7 +14,7 @@ breadcrumb: [ROPC Grant, Inbound integrations, OAuth Inbound, OAuth authenticati
 
 # Configure an OAuth resource owner password credential grant
 
-Configuring an [[oauth-inbound-and-outbound|OAuth]] resource owner password credential \(ROPC\) grant enables applications to authenticate [[users|users]] by directly using their credentials to obtain an access token. This method is ideal for trusted applications and legacy systems that require [[c_Authentication|authentication]] without browser-based flows, enabling secure token validation and controlled API access.
+Configuring an OAuth resource owner password credential \(ROPC\) grant enables applications to authenticate users by directly using their credentials to obtain an access token. This method is ideal for trusted applications and legacy systems that require authentication without browser-based flows, enabling secure token validation and controlled API access.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 ## Procedure
 
-1.  Navigate to **[[machine-identity-console|Machine Identity Console]]** &gt; **** &gt; **[[inbound-integrations|Inbound integrations]]** &gt; **** &gt; **New integration** &gt; **OAuth [[resource-owner-password-grant|Resource owner password credential grant]]**.
+1.  Navigate to **Machine Identity Console** &gt; **** &gt; **Inbound integrations** &gt; **** &gt; **New integration** &gt; **OAuth Resource owner password credential grant**.
 
 2.  Update the text fields in the **Details** form with the appropriate information.
 
@@ -36,7 +36,7 @@ Role required: `oauth_admin, mi_admin, admin`
 
 3.  Update the text fields in the **Advanced options \(optional\)** form with the appropriate information.
 
-    Enforcing token restriction applies limitations on how an OAuth access token can be used, enhancing security by verifying that tokens are valid only under specific conditions. Enable the Enforce token restriction check box to limit OAuth access tokens to specific APIs defined in the [[api-access-policy|API access policy]]. If the Enforce token restriction is turned off, the token can be used across other REST API.
+    Enforcing token restriction applies limitations on how an OAuth access token can be used, enhancing security by verifying that tokens are valid only under specific conditions. Enable the Enforce token restriction check box to limit OAuth access tokens to specific APIs defined in the API access policy. If the Enforce token restriction is turned off, the token can be used across other REST API.
 
     |Field|Description|
     |-----|-----------|
@@ -75,7 +75,7 @@ Description
 
 </td><td>
 
-The Enforce token restriction option limits the client to accessing only the APIs specified in the [[inbound-authentication-profile|REST API Access Policies]]. If you unselect it, the client can access other REST APIs based on the user ACL permissions.
+The Enforce token restriction option limits the client to accessing only the APIs specified in the REST API Access Policies. If you unselect it, the client can access other REST APIs based on the user ACL permissions.
 
 </td></tr><tr><td>
 
@@ -116,13 +116,4 @@ Duration \(in seconds\) for which the OAuth refresh token remains valid before i
 
 8.  Go to **All** &gt; **Inbound integrations** &gt; **Application Registries** to view the newly created OAuth Resource owner password credential grant.
 
-## Related
 
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[users|Users]]
-- [[c_Authentication|Authentication]]
-- [[machine-identity-console|Machine Identity Console]]
-- [[inbound-integrations|Inbound integrations]]
-- [[resource-owner-password-grant|Resource owner password credential grant]]
-- [[api-access-policy|API access policy]]
-- [[inbound-authentication-profile|REST API access policies]]

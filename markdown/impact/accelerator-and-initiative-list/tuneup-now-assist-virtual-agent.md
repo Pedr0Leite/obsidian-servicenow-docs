@@ -19,7 +19,7 @@ This accelerator provides prescriptive guidance on fine-tuning your Now Assist i
 
 ## Accelerator Overview
 
-TuneUp Your Now Assist in Virtual Agent \(VA\) provides [[impact-landing-page|Impact]] customers with an applied demonstration of advanced Now Assist capabilities and features in VA. Participants gain insights into how their Now Assist in VA is currently being used, along with strategies to improve experience, efficiency, and response quality.
+TuneUp Your Now Assist in Virtual Agent \(VA\) provides Impact customers with an applied demonstration of advanced Now Assist capabilities and features in VA. Participants gain insights into how their Now Assist in VA is currently being used, along with strategies to improve experience, efficiency, and response quality.
 
 This offering also includes key resources and leading practice guidance on analyzing usage data, identifying optimization opportunities, and implementing improvements to drive better outcomes and maximize the value of their Now Assist in VA investment.
 
@@ -31,8 +31,8 @@ This offering also includes key resources and leading practice guidance on analy
 
 -   Now Assist in Virtual Agent deployed and actively in use.
 -   An identified Virtual Agent admin or ServiceNow admin.
--   Completion of an initial Virtual Agent implementation \(for example, [[jumpstart-now-assist-virtual-agent|Jumpstart Your Now Assist in Virtual Agent]] or equivalent\).
--   Experience with AI Search \(for example, completed [[jumpstart-your-ai-search|Jumpstart Your AI Search]] or equivalent\).
+-   Completion of an initial Virtual Agent implementation \(for example, Jumpstart Your Now Assist in Virtual Agent or equivalent\).
+-   Experience with AI Search \(for example, completed Jumpstart Your AI Search or equivalent\).
 
 ## What You Get
 
@@ -66,7 +66,7 @@ This offering also includes key resources and leading practice guidance on analy
 |System administrator\(s\)|Responsible for maintaining the stability and usability of the ServiceNow platform by performing application maintenance, managing support for Cases related to ServiceNow applications, and contributing to ServiceNow software releases by delivering configuration tasks and features.|✓| |
 |Virtual Agent admin\(s\)|Maintains the Virtual Agent \(VA\).|✓| |
 |IT Service Desk Manager\(s\)|Subject matter expert responsible for managing IT Service Desk.| |✓|
-|Subject Matter Expert\(s\)|Digital Experience or Automation Leads overseeing VA [[instance-observer-performance|performance]].| |✓|
+|Subject Matter Expert\(s\)|Digital Experience or Automation Leads overseeing VA performance.| |✓|
 |Trusted Service Partners|Attend ServiceNow Impact Accelerator coaching session\(s\) to understand leading practices and potentially support the customer going forward.| |✓|
 
 ## Requested Information / Access
@@ -77,9 +77,3 @@ Additional details on supplemental legal terms, prerequisites, specifications, r
 
 ServiceNow is not responsible for implementing any of the recommended configuration changes in your sub-production or production instances.
 
-## Related
-
-- [[impact-landing-page|Impact]]
-- [[jumpstart-now-assist-virtual-agent|Jumpstart Your Now Assist in Virtual Agent]]
-- [[jumpstart-your-ai-search|Jumpstart Your AI Search]]
-- [[instance-observer-performance|Performance]]

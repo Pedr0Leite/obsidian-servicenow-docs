@@ -27,7 +27,7 @@ The Overview tab opens by default when you open an inventory template record. It
 -   **Related Templates** — the flat list of child related templates, with editable fields including Name Pattern.
 
 
-The Overview tab is available in both the SOW workspace and the [[exploring-network-inventory-workspace|Network Inventory workspace]].
+The Overview tab is available in both the SOW workspace and the Network Inventory workspace.
 
 ## The two parts of the Overview
 
@@ -63,6 +63,3 @@ For full details on validation behavior, see [Naming pattern validation](https:/
 
 [How inventory template names are generated](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/how-inventory-template-names-are-generated.md)
 
-## Related
-
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

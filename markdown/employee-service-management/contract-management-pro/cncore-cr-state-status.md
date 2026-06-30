@@ -15,7 +15,7 @@ breadcrumb: [Reference, Contract Management Pro, Legal and Contract Operations, 
 
 # Contract request State and Contract document status in Contract Management Pro
 
-Contract requests follow a specific life cycle and move through a series of states in [[cncore-cmpro-landing-page|Contract Management Pro]]. The contract request state and the contract document status are displayed in the State and the Contract status fields on the request record.
+Contract requests follow a specific life cycle and move through a series of states in Contract Management Pro. The contract request state and the contract document status are displayed in the State and the Contract status fields on the request record.
 
 For a contract request you can see the following:
 
@@ -370,7 +370,7 @@ Signature paused
 
 </td><td>
 
-[[cncore-pause-signature|Modify signatories]] action has been initiated and the signature workflow is paused.
+Modify signatories action has been initiated and the signature workflow is paused.
 
 </td></tr><tr><td>
 
@@ -458,7 +458,3 @@ Contract request was canceled.
 
 [Contract Management solutions]()
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-pause-signature|Modify signatories]]

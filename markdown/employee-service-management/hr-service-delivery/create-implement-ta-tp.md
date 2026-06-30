@@ -14,7 +14,7 @@ breadcrumb: [Configure, Talent Profile, Hiring Experiences, HR Service Delivery,
 
 # Create a talent type
 
-Create an implementation in the [[talent-profile-landing|talent profile]] scripted extension point to add a new talent type.
+Create an implementation in the talent profile scripted extension point to add a new talent type.
 
 ## Before you begin
 
@@ -43,7 +43,7 @@ The Talent profile extension point has four default implementations that pull in
 
 3.  Select the **Create implementation** related link to create an implementation.
 
-4.  On the [[implementation-ref-ta-tp|Create implementation form]], fill in the fields.
+4.  On the Create implementation form, fill in the fields.
 
     For a description of the field values, see [Create implementation form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/implementation-ref-ta-tp.md).
 
@@ -54,7 +54,3 @@ You've created an implementation for the sn\_ta\_tp.TalentProfileExtPoint extens
 
 **Parent Topic:**[Configuring Talent profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/config-tp.md)
 
-## Related
-
-- [[talent-profile-landing|Talent Profile]]
-- [[implementation-ref-ta-tp|Create implementation form]]

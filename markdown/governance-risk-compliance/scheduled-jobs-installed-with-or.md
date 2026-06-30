@@ -12,7 +12,7 @@ breadcrumb: [Reference, Operational Resilience, Governance, Risk, and Compliance
 
 # Scheduled jobs installed with Operational Resilience
 
-When you install the [[grc-opres-landing-page|Operational Resilience]] application, the **Update CSDM and other dependencies**, **Calculate red flags for CSDM and dependencies**, **Update other dependencies** scheduled jobs are added to your instance. As a user with the sn\_oper\_res.admin role, you may find this information useful.
+When you install the Operational Resilience application, the **Update CSDM and other dependencies**, **Calculate red flags for CSDM and dependencies**, **Update other dependencies** scheduled jobs are added to your instance. As a user with the sn\_oper\_res.admin role, you may find this information useful.
 
 ## Scheduled jobs installed with the Operational Resilience application
 
@@ -32,7 +32,7 @@ Description
 
 </td><td>
 
-Scheduled job that gathers data from different applications including such as GRC: Advanced Risk, GRC: Risk Management, and GRC: [[r_PolicyComplianceMgmt|Policy and Compliance Management]], BCM, CMDB, and Vulnerability Response to calculate supporting data for various reports.
+Scheduled job that gathers data from different applications including such as GRC: Advanced Risk, GRC: Risk Management, and GRC: Policy and Compliance Management, BCM, CMDB, and Vulnerability Response to calculate supporting data for various reports.
 
  The scheduled job runs once a day and removes all the data from the previous day before creating new supporting data for the reports. The job uses different conditions to retrieve the data from different sources and saves it to the Operational Resilience staging tables.
 
@@ -49,7 +49,3 @@ Calculates the red flags for the CSDM and its dependencies. It is configured to 
 </td></tr></tbody>
 </table>**Note:** Beginning with Operational Resilience release 22.x.x, the **Calculate red flags for CSDM and dependencies** and **Update CSDM and other dependencies** scheduled jobs are deactivated by default for new installations. For existing installations, these jobs retain their current state \(active or inactive\).
 
-## Related
-
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

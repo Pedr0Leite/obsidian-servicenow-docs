@@ -15,13 +15,13 @@ breadcrumb: [Using Virtual Agent Topic Recommendations, Build and deploy, Virtua
 
 # Run a Topic Recommendation analysis
 
-Generate a report that analyzes a given data source and identifies the appropriate [[virtual-agent-landing-page|Virtual Agent]] pre-built topics that you can implement. For intents that do not have matching pre-built topics, the report identifies the user intents \(topics\) that you can create.
+Generate a report that analyzes a given data source and identifies the appropriate Virtual Agent pre-built topics that you can implement. For intents that do not have matching pre-built topics, the report identifies the user intents \(topics\) that you can create.
 
 ## Before you begin
 
 Verify that the appropriate Virtual Agent conversation plugins are activated so that the Topic Recommendations app can identify the appropriate pre-built topics.
 
-You can use the **Check for updates** link on the [[topic-recommendations-page|Topic Recommendations page]] to check which plugins are installed.
+You can use the **Check for updates** link on the Topic Recommendations page to check which plugins are installed.
 
 Make sure you [configure analysis reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/define-tr-settings.md) first.
 
@@ -33,7 +33,7 @@ The analysis process takes about 15 minutes or less to return recommendation res
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Virtual Agent** &gt; **Topic Recommendations**.
 
 2.  In the Topic Recommendations page, go to the data source to be analyzed and trigger the analysis.
 
@@ -62,8 +62,3 @@ The analysis process takes about 15 minutes or less to return recommendation res
 
 You can [add a Topic Recommendation as a new topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/add-tr-results-va.md) or [link it to an existing topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/link-tr-existing-va-topic.md). You can also [hide a recommendation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/hide-tr-recommendation.md) from the list in aggregate view.
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[topic-recommendations-page|Topic Recommendations page]]
-- [[convint-landing-page|Conversational Interfaces]]

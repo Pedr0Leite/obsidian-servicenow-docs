@@ -14,7 +14,7 @@ breadcrumb: [Form field information, Reference, Next Experience for Demand Manag
 
 # Non-monetary benefit plan breakdown form
 
-The non-[[monetary-benefit-breakdown-form|monetary benefit breakdown form]] information is used to create and edit a non-monetary benefit breakdown record for the demand.
+The non-monetary benefit breakdown form information is used to create and edit a non-monetary benefit breakdown record for the demand.
 
 |Field|Description|
 |-----|-----------|
@@ -27,6 +27,3 @@ The non-[[monetary-benefit-breakdown-form|monetary benefit breakdown form]] info
 |Entered benefit|Benefit in entered value.|
 |Variance|The difference between the estimated and actual benefit.|
 
-## Related
-
-- [[monetary-benefit-breakdown-form|Monetary Benefit Breakdown form]]

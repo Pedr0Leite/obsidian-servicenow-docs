@@ -12,8 +12,5 @@ breadcrumb: [Care Team Operations for Environmental Services, Healthcare Operati
 
 # Care Team Operations for Environmental Services Reference
 
-Reference topics provide additional information about [[cto-evs-landing|Care Team Operations for Environmental Services]] components.
+Reference topics provide additional information about Care Team Operations for Environmental Services components.
 
-## Related
-
-- [[cto-evs-landing|Care Team Operations for Environmental Services]]

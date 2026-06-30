@@ -12,7 +12,7 @@ breadcrumb: [Forms, Administer, Configurable Workspace UI, Configure UIs and por
 
 # Hide journal fields
 
-Hide journal fields for [[form-configurable-workspace|forms]] so that work notes and comments only appear in the [[activity-stream-configurable-workspace|Activity stream]].
+Hide journal fields for forms so that work notes and comments only appear in the Activity stream.
 
 ## Before you begin
 
@@ -36,7 +36,4 @@ Role required: form\_admin
 
 6.  Select **Update**.
 
-## Related
 
-- [[form-configurable-workspace|Forms]]
-- [[activity-stream-configurable-workspace|Activity stream]]

@@ -14,11 +14,11 @@ breadcrumb: [Installing DEX on your local machine, Configure, Digital End-User E
 
 # Install Digital End-User Experience
 
-[[dex-landing|Digital End-User Experience]] \(DEX\) is available with activation of the Digital End-User Experience \[sn\_dex\] plugin. You must have the admin role to install the DEX product \[sn\_dex\]. During installation, Application and Device Health is included as a component in DEX.
+Digital End-User Experience \(DEX\) is available with activation of the Digital End-User Experience \[sn\_dex\] plugin. You must have the admin role to install the DEX product \[sn\_dex\]. During installation, Application and Device Health is included as a component in DEX.
 
 ## Before you begin
 
--   Ensure that the application and all of its associated ServiceNow Store [[dex-workspace-application-tab|applications]] have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
+-   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the [DEX Application &amp; Device Health](https://store.servicenow.com/sn_appstore_store.do#!/store/application/0db59e3eade11d50f8777e45b2f98b72) application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
 Role required: admin
@@ -61,7 +61,3 @@ For information about DEX data migration, see the [KB1646364](https://support.se
 
 **Parent Topic:**[Installing DEX on your local machine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/installing-dex-local.md)
 
-## Related
-
-- [[dex-landing|Digital End-User Experience]]
-- [[dex-workspace-application-tab|Applications]]

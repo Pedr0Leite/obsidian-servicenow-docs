@@ -24,7 +24,7 @@ Role required: Any
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**
 
 2.  Open the dashboard that you want to print.
 
@@ -37,7 +37,7 @@ Role required: Any
 4.  Use your browser functionality to export or print the printer-friendly dashboard copy.
 
 
-**Parent Topic:**[[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
+**Parent Topic:**[Common dashboard tasks in the in-line editor](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/common-dashboard-tasks.md)
 
 **Related topics**  
 
@@ -58,7 +58,3 @@ Role required: Any
 
 [Delete a Platform Analytics dashboard]()
 
-## Related
-
-- [[common-dashboard-tasks|Common dashboard tasks in the in-line editor]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

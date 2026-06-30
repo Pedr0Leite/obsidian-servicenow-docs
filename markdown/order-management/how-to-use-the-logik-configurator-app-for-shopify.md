@@ -12,7 +12,7 @@ breadcrumb: [CPQ with other apps, Integrate, Sales Customer Relationship Managem
 
 # Integrating CPQ with Shopify
 
-The CPQ app for Shopify enables stores to seamlessly manage and sell [[configurable-products-explore|configurable products]] [[cpq-using|using CPQ]] advanced CPQ \([[configure-price-quote-landing|Configure, Price, Quote]]\) features. Installation and setup are streamlined, and robust Admin options are provided for both technical and non-technical users.
+The CPQ app for Shopify enables stores to seamlessly manage and sell configurable products using CPQ advanced CPQ \(Configure, Price, Quote\) features. Installation and setup are streamlined, and robust Admin options are provided for both technical and non-technical users.
 
 The CPQ app for Shopify is a fully featured connector for a Shopify store. The app ensures the entire product catalog is available in CPQ for use with a CPQ blueprint. The app also includes an app block to add a configurator to any page on a storefront without the need to create a dedicated UI. The configurator app block is fully functional out of the box which means customers can start adding configurable products to their cart as soon as the storefront changes are published.
 
@@ -29,7 +29,7 @@ The CPQ app for Shopify is free to download on the Shopify app store:
 
 After downloading the CPQ app it will automatically appear in the Apps section of the store.
 
-To start using the app, the CPQ environment details and a token must be entered in the CPQ settings section of the app landing screen. For more information about creating a CPQ token, see [[cpq-set-up-a-runtime-client|Set up a runtime client]].
+To start using the app, the CPQ environment details and a token must be entered in the CPQ settings section of the app landing screen. For more information about creating a CPQ token, see [Set up a runtime client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-runtime-client.md).
 
 **Note:** Ensure the storefront and the Admin URLs are added as an origin for the token. All stores should also include the following static URL to their list of origins: [https://shpfy-connect.ecommerce.logik.io](https://shpfy-connect.ecommerce.logik.io/).
 
@@ -66,13 +66,13 @@ In order for a product to appear on the Configurable Products table as well the 
 
 In order to use Shopify B2B Pricing, all products associated to a CPQ Blueprint must be present in a catalog. The catalog must also have at lease one company location associated to it alongside a user who belongs to that company.\[Omitted image "cpq-b2b-test.png"\] Alt text: Shopify B2B
 
-When a user is logged in from an included company location, CPQ pricing will default to the Shopify catalog price. This will overwrite any CPQ price [[rules_101|rules]] for these products. It is recommended that B2B specific [[blueprints|blueprints]] are created to avoid any confusion around pricing in this scenario.
+When a user is logged in from an included company location, CPQ pricing will default to the Shopify catalog price. This will overwrite any CPQ price rules for these products. It is recommended that B2B specific blueprints are created to avoid any confusion around pricing in this scenario.
 
 ## Adding a configurator to a page
 
-[[understand-the-commerce-logic-engine|The CPQ Configurator]] can be added to any page via an included app block through the page editor. The app block is automatically added to your store when the app is installed. You can find the block under apps when adding a new page section.
+The CPQ Configurator can be added to any page via an included app block through the page editor. The app block is automatically added to your store when the app is installed. You can find the block under apps when adding a new page section.
 
-The look and feel of the **Logik configurator** is managed in CPQ Admin through use of the [[layout_editor|layout editor]]. However, there are additional options in the CPQ app block. If you encounter issues where the Font is too small or large, that can be modified in the app block settings along with spacing.
+The look and feel of the **Logik configurator** is managed in CPQ Admin through use of the layout editor. However, there are additional options in the CPQ app block. If you encounter issues where the Font is too small or large, that can be modified in the app block settings along with spacing.
 
 ## Product Pages
 
@@ -156,13 +156,3 @@ Click the ‘More Actionsʼ drop down menu and click ‘Delete metaobjectʼ.
 
 \[Omitted image "cpq-clear-app-settings.png"\] Alt text: Clearing app settings\[Omitted image "cpq-clear-app-settings2.png"\] Alt text: Clearing app settings
 
-## Related
-
-- [[cpq-set-up-a-runtime-client|Set up a runtime client]]
-- [[configurable-products-explore|Configurable products]]
-- [[cpq-using|Using CPQ]]
-- [[configure-price-quote-landing|Configure, price, quote]]
-- [[rules_101|Rules]]
-- [[blueprints|Blueprints]]
-- [[understand-the-commerce-logic-engine|The CPQ Configurator]]
-- [[layout_editor|Layout editor]]

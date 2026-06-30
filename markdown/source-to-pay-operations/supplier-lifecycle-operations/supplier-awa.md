@@ -28,19 +28,19 @@ Before you install Advanced Work Assignment for Supplier Lifecycle Operations, e
 
 Install the Advanced Work Assignment for Supplier Lifecycle Operations \(com.snc.sn\_slm\_awa\) plugin if you have the admin role. Installing this plugin also installs the following dependent plugins:
 
--   [[advanced-work-assignment|Advanced Work Assignment]] \(com.glide.awa\)
+-   Advanced Work Assignment \(com.glide.awa\)
 -   Agent Chat \(com.glide.interaction.awa\)
 -   Glide Virtual Agent \(com.glide.cs.chatbot\)
--   [[supplier-case-management|Supplier Case Management]] \(com.snc.sn\_supplier\_mgmt\)
+-   Supplier Case Management \(com.snc.sn\_supplier\_mgmt\)
 
 -   **[Source-to-Pay Workspace agent inbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/agent-inbox-ws.md)**  
 Use the agent inbox to manage your incoming work items, such as chats, cases, incidents, and more.
 -   **[Activate Agent Chat and load demo data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/load-demo-agent-chat.md)**  
-[[load-demo-agent-chat|Activate Agent Chat and load demo data]].
+Activate Agent Chat and load demo data.
 -   **[Setting up Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/awa-slm-config.md)**  
 Plan and configure your implementation of Advanced Work Assignment for Supplier Lifecycle Operations.
 -   **[Using Advanced Work Assignment for Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/use-awa-slm.md)**  
-Enables [[supplier|supplier]] contacts to interact with supplier owners and resolve their issues and get answers to questions.
+Enables supplier contacts to interact with supplier owners and resolve their issues and get answers to questions.
 
 **Parent Topic:**[Configure Supplier Lifecycle Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supp-mgmt.md)
 
@@ -59,11 +59,11 @@ Enables [[supplier|supplier]] contacts to interact with supplier owners and reso
 
 [Configure the document template for the Sign document action type for supplier task]()
 
-[Enable M2M mapping between [[supplier-contact|supplier contact]] and suppliers]()
+[Enable M2M mapping between supplier contact and suppliers]()
 
 [Configure Supplier Relationship and Performance Management]()
 
-[Install [[universal-request|Universal Request]] for SLO]()
+[Install Universal Request for SLO]()
 
 [Configure smart assessments]()
 
@@ -77,11 +77,3 @@ Enables [[supplier|supplier]] contacts to interact with supplier owners and reso
 
 [Configure Agent Chat for Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/configure-agent-chat-slm.md)
 
-## Related
-
-- [[advanced-work-assignment|advanced work assignment]]
-- [[supplier-case-management|Supplier Case Management]]
-- [[load-demo-agent-chat|Activate Agent Chat and load demo data]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[universal-request|Universal Request]]

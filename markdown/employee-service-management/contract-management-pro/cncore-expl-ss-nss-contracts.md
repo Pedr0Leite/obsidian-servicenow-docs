@@ -15,13 +15,13 @@ breadcrumb: [Explore, Contract Management Pro, Legal and Contract Operations, Em
 
 # Contract and amendment requests
 
-[[cncore-cmpro-landing-page|Contract Management Pro]] supports initiation of self-served contract requests, non-self-served contract requests, and amendment requests
+Contract Management Pro supports initiation of self-served contract requests, non-self-served contract requests, and amendment requests
 
 The main difference between self-served and non-self-served contract requests is the use of own paper or third-party paper for generating contract documents.
 
 ## Self-served contract requests
 
-Self-served contract requests are fulfilled using the contract templates that are based on the company's own paper. Using contract templates, you save time and the manual work of filling out contract documents or standard letters from again for each request. In addition, contract templates ensure that the company’s contract guidelines are followed maintaining consistency. For example, you can [[cncore-create-contract-template|create a contract template]] for a non-disclosure agreement to generate a non-disclosure agreement contract document. For more information, see [Use self-served contract request]().
+Self-served contract requests are fulfilled using the contract templates that are based on the company's own paper. Using contract templates, you save time and the manual work of filling out contract documents or standard letters from again for each request. In addition, contract templates ensure that the company’s contract guidelines are followed maintaining consistency. For example, you can create a contract template for a non-disclosure agreement to generate a non-disclosure agreement contract document. For more information, see [Use self-served contract request]().
 
 ## Non-self-served contract requests
 
@@ -35,7 +35,7 @@ The amendment workflow supports both own-paper and third-party amendment request
 
 For more information, see [Contract amendments](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-amend-landing.md).
 
-You can [[cncore-initiate-amedment|initiate an amendment request]] from your workspace using the **Initiate contract** modal.
+You can initiate an amendment request from your workspace using the **Initiate contract** modal.
 
 **Note:** Third-party amendments are supported only for single contract types.
 
@@ -54,8 +54,3 @@ This field is also available in the following base system configurations \(when 
 -   Contract template rule
 -   Contract configuration
 
-## Related
-
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-create-contract-template|Create a contract template]]
-- [[cncore-initiate-amedment|Initiate an amendment request]]

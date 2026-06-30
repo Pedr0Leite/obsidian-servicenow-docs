@@ -14,7 +14,7 @@ breadcrumb: [Prerequisites, Configure, Digital Factory Workspace, Industrial Con
 
 # Create a functional location
 
-Create a functional location in the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]].
+Create a functional location in the Digital Factory Workspace.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: sn\_icw.admin
 
 3.  Select **Functional Locations** and then **New functional location**.
 
-4.  On the [[functional-location-form|Functional location form]], fill in the fields.
+4.  On the Functional location form, fill in the fields.
 
     For a description of the field values, see [Functional location form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/functional-location-form.md).
 
@@ -50,7 +50,3 @@ The functional location is displayed in the list of functional locations for the
 
 [Review and update the equipment model details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/equipment-model-workspace.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[functional-location-form|Functional location form]]

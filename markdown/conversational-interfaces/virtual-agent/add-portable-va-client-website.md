@@ -15,7 +15,7 @@ breadcrumb: [Adding Virtual Agent to your web page, Configure, Virtual Agent, Co
 
 # Add the portable Virtual Agent chat widget to a third-party website
 
-To use the portable chat widget for [[virtual-agent-landing-page|Virtual Agent]] on third-party web pages, add the necessary code to your web page.
+To use the portable chat widget for Virtual Agent on third-party web pages, add the necessary code to your web page.
 
 ## Before you begin
 
@@ -94,6 +94,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Use the portable chat widget to add Virtual Agent to your web page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-portable-va-web-client.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

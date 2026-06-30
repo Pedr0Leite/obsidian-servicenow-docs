@@ -28,28 +28,21 @@ Role required: sequence viewer \[sn\_crm\_sequence.viewer\]
 
 4.  View your in-progress sequence tasks by selecting **My Active Sequence Tasks**.
 
-    For more information, see [[sequence-task-list-view|My sequence task list view]].
+    For more information, see [My sequence task list view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/sequence-task-list-view.md).
 
 5.  View the sequence steps for a record by selecting it.
 
 
 ## What to do next
 
-Engage with your prospective customers by following the activities in the sequence steps. For more information, see [[execute-sequence-steps|Complete predefined customer engagement tasks]].
+Engage with your prospective customers by following the activities in the sequence steps. For more information, see [Complete predefined customer engagement tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/execute-sequence-steps.md).
 
-**Parent Topic:**[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+**Parent Topic:**[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
 **Related topics**  
 
 
-[[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
+[Configuring Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configuring-customer-engagement-sequences.md)
 
-[[explore-customer-engagement-sequences|Customer Engagement Sequences]]
+[Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-customer-engagement-sequences.md)
 
-## Related
-
-- [[sequence-task-list-view|My sequence task list view]]
-- [[execute-sequence-steps|Complete predefined customer engagement tasks]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[configuring-customer-engagement-sequences|Configuring Customer Engagement Sequences]]
-- [[explore-customer-engagement-sequences|Customer Engagement Sequences]]

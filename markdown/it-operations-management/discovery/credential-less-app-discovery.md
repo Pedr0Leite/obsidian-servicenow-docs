@@ -18,7 +18,7 @@ Credential-less Application Discovery attempts to identify an application servic
 
 ## The application discovery pattern
 
-[[c_ServiceMappingOverview|Service Mapping]] launches the Credentialless [[r-discovery|Discovery]] Application pattern when all credential-based port classification steps fail. The pattern executes an Nmap command on a Windows MID Server with Nmap installed, that is configured to perform application/version detection against a specific remote host IP address and port. If the port being scanned by Nmap is open, the pattern executes the CredentialLessApplicationClassNameMapper MID Server script include, which maps the service product, service name, and any extra information supplied by Nmap to a supported ServiceNow application table. If the script can map the returned product to an appropriate table derived from the base Application \[cmdb\_ci\_appl\] table, the script passes this information to the pattern. The pattern passes the match to the Discovery identifier for eventual CI creation or reconciliation. If the information returned by Nmap does not match any derived table, then the instance uses the base Application \[cmdb\_ci\_appl\] table to create the CI.
+Service Mapping launches the Credentialless Discovery Application pattern when all credential-based port classification steps fail. The pattern executes an Nmap command on a Windows MID Server with Nmap installed, that is configured to perform application/version detection against a specific remote host IP address and port. If the port being scanned by Nmap is open, the pattern executes the CredentialLessApplicationClassNameMapper MID Server script include, which maps the service product, service name, and any extra information supplied by Nmap to a supported ServiceNow application table. If the script can map the returned product to an appropriate table derived from the base Application \[cmdb\_ci\_appl\] table, the script passes this information to the pattern. The pattern passes the match to the Discovery identifier for eventual CI creation or reconciliation. If the information returned by Nmap does not match any derived table, then the instance uses the base Application \[cmdb\_ci\_appl\] table to create the CI.
 
 **Important:** To allow the Credentialless Discovery Application pattern to launch, ensure that the **mid.discovery.credentialless.enable** system property is set to **true**. To disable, ensure this property is set to **false**.
 
@@ -212,7 +212,3 @@ The Discovery - IP Based \[com.snc.discovery.ip\_based\] plugin adds an identifi
 
 **Parent Topic:**[Credential-less discovery with Nmap](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/nmap-credential-less-discovery.md)
 
-## Related
-
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[r-discovery|Discovery]]

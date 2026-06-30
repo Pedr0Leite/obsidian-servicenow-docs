@@ -22,9 +22,9 @@ Role required: sn\_fcms\_intg.integration\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  In the ERP Configurations view, select the **Oracle Financial Cloud** [[erp-source|ERP source]] to manually trigger the flows or subflows.
+2.  In the ERP Configurations view, select the **Oracle Financial Cloud** ERP source to manually trigger the flows or subflows.
 
 3.  In the Integration Services list, select the subflows that you want to manually trigger.
 
@@ -52,7 +52,4 @@ Role required: sn\_fcms\_intg.integration\_user
 
     The flow or subflow is executed.
 
-## Related
 
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

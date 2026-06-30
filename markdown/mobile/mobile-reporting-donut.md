@@ -14,11 +14,11 @@ breadcrumb: [Using data visualizations, Mobile platform dashboards, Using the mo
 
 Learn to use donut reports for mobile, which enable you to see the portions and percentages between different priorities at a single glance. For example, a donut report showing open incidents by priority, enables you to see whether incident counts of different priorities are within acceptable ranges.
 
-**Note:** For information on how to configure donut reports, you need to create mobile dashboard previews within a launcher screen. For more information, see [[sg-mobile-applet-launcher|Launcher screens]] and [[mobile-dashboard-preview|Mobile dashboard preview]].
+**Note:** For information on how to configure donut reports, you need to create mobile dashboard previews within a launcher screen. For more information, see [Launcher screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet-launcher.md) and [Mobile dashboard preview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-dashboard-preview.md).
 
 <table id="simpletable_obp_wbz_21c"><tbody><tr><td>
 
-To display a donut report, tap on the dashboard preview in a launcher screen. Alternatively, navigate to a [[chart-screen|chart screen]] via a navigation button. The total number of records and the chart title are displayed in the center of the donut.
+To display a donut report, tap on the dashboard preview in a launcher screen. Alternatively, navigate to a chart screen via a navigation button. The total number of records and the chart title are displayed in the center of the donut.
 
  Tap on a donut segment to display in the header the number of records contained in that segment. Also displayed in the header is the percentage of records for that selected segment, compared to the remaining segment records within the chart.
 
@@ -32,9 +32,3 @@ To display a donut report, tap on the dashboard preview in a launcher screen. Al
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sg-mobile-applet-launcher|Launcher screens]]
-- [[mobile-dashboard-preview|Mobile dashboard preview]]
-- [[chart-screen|Chart screen]]

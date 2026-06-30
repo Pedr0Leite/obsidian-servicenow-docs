@@ -14,7 +14,7 @@ breadcrumb: [Integration settings on Source-to-Pay side, Source-to-Pay integrati
 
 # Define ERP source configuration for Source-to-Pay
 
-[[erp-source-configuration|ERP source configuration]] determines the [[erp-source|ERP source]] to which your ERP system connects. Map the integration payload with the Source-to-Pay \(S2P\) tables.
+ERP source configuration determines the ERP source to which your ERP system connects. Map the integration payload with the Source-to-Pay \(S2P\) tables.
 
 ## Before you begin
 
@@ -44,7 +44,3 @@ For the defined source configuration:
 -   Define service mappings for each integration service by accessing the Service Mappings related list. You can define element level mapping between S2P table fields and payload elements.
 -   Map S2P users and corresponding ERP user ids by accessing the ERP User Mappings related list.
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

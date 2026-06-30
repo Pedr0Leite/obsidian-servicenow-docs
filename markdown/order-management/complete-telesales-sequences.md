@@ -34,9 +34,9 @@ Role required: Sequence executor \[sn\_crm\_sequence.executor\]
 
 7.  Select the Call icon \[Omitted image "phone-fill-24.svg"\] Alt text: next to the **Callback number** field to start an outbound call.
 
-    **Note:** The Call icon \[Omitted image "phone-fill-24.svg"\] Alt text: does not appear on the **Callback number** field in Xanadu or in Yokohama if you created the schedule call activity using the Schedule call - Deprecated activity. For compatibility information, see [[compatibility-matrix-upgrade-info|Compatibility information for Customer Engagement Sequences]].
+    **Note:** The Call icon \[Omitted image "phone-fill-24.svg"\] Alt text: does not appear on the **Callback number** field in Xanadu or in Yokohama if you created the schedule call activity using the Schedule call - Deprecated activity. For compatibility information, see [Compatibility information for Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/compatibility-matrix-upgrade-info.md).
 
-8.  Complete the activity by setting the following [[fields|fields]].
+8.  Complete the activity by setting the following fields.
 
 <table id="table_okf_ycp_ghc"><thead><tr><th>
 
@@ -88,16 +88,10 @@ Optional field for capturing internal work notes.
 10. On the Sequence Steps tab, select **Mark Complete** to indicate you have finished all activities in the sequence task.
 
 
-**Parent Topic:**[[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
+**Parent Topic:**[Using Customer Engagement Sequences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-customer-engagement-sequences.md)
 
 **Related topics**  
 
 
-[[view-sequence-tasks|View sequence tasks]]
+[View sequence tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/view-sequence-tasks.md)
 
-## Related
-
-- [[compatibility-matrix-upgrade-info|Compatibility information for Customer Engagement Sequences]]
-- [[using-customer-engagement-sequences|Using Customer Engagement Sequences]]
-- [[view-sequence-tasks|View sequence tasks]]
-- [[fields|Fields]]

@@ -14,7 +14,7 @@ breadcrumb: [Maintaining user data privacy in Contact Tracing, Contact Tracing, 
 
 # User privacy consent for Contact Tracing
 
-The [[contact-tracing|Contact Tracing]] application enables you to send notification to users seeking their consent for contact tracing. You can use user data for contact tracing based on the privacy configuration set for a location and the user response to the privacy consent.
+The Contact Tracing application enables you to send notification to users seeking their consent for contact tracing. You can use user data for contact tracing based on the privacy configuration set for a location and the user response to the privacy consent.
 
 You can determine whether privacy consents are needed for specific locations. If a location does not need privacy consent, the user data belonging to that location can be automatically considered for contact tracing.
 
@@ -44,6 +44,3 @@ As an admin, you must configure the following settings to use privacy consents w
 
 **Parent Topic:**[Maintaining user data privacy in Contact Tracing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contact-tracing/contact-tracing-user-privacy-options.md)
 
-## Related
-
-- [[contact-tracing|Contact Tracing]]

@@ -13,7 +13,7 @@ breadcrumb: [Reference, AI Agent Advisor, Enable AI experiences]
 
 # Components installed with AI Agent Advisor
 
-Several components are installed with the [[ai-agent-advisor-landing-page|AI Agent Advisor]] application.
+Several components are installed with the AI Agent Advisor application.
 
 ## Roles installed
 
@@ -23,7 +23,7 @@ The following roles are installed with AI Agent Advisor.
 -   AI Agent Advisor UI \[sn\_agent\_miner.app\_ui\]
 -   AI Agent Advisor read only \[sn\_agent\_miner.app\_read\_only\]
 
-For information on the roles installed with AI Agent Advisor, see [[ai-agent-advisor-roles|AI Agent Advisor roles]].
+For information on the roles installed with AI Agent Advisor, see [AI Agent Advisor roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-roles.md).
 
 ## Tables installed
 
@@ -42,15 +42,10 @@ The following tables are installed with AI Agent Advisor.
 -   AI Agent Advisor Scheduled Jobs \[sn\_agent\_miner\_sysauto\_script\]
 -   AI Agent Advisor Tool Match \[sn\_agent\_miner\_tool\_match\]
 
-**Parent Topic:**[[ai-agent-advisor-reference|AI Agent Advisor reference]]
+**Parent Topic:**[AI Agent Advisor reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-agent-advisor-reference.md)
 
 **Related topics**  
 
 
 [AI Agent Advisor roles]()
 
-## Related
-
-- [[ai-agent-advisor-roles|AI Agent Advisor roles]]
-- [[ai-agent-advisor-reference|AI Agent Advisor reference]]
-- [[ai-agent-advisor-landing-page|AI Agent Advisor]]

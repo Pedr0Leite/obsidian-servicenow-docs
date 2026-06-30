@@ -14,7 +14,7 @@ breadcrumb: [Use, Software Bill of Materials, Unified Security Exposure Manageme
 
 # Viewing reports and dashboards in the Software Bill of Materials workspace
 
-Vulnerability analysts view uploaded [[sbom-landing|software bill of materials]] files in records, data visualizations, as well as enhanced vulnerability intelligence in the Software Bill of Materials \(SBOM\) Workspace.
+Vulnerability analysts view uploaded software bill of materials files in records, data visualizations, as well as enhanced vulnerability intelligence in the Software Bill of Materials \(SBOM\) Workspace.
 
 ## SBOM Core
 
@@ -22,7 +22,7 @@ You can view BOM Entities and a list of components you've uploaded on the Home \
 
 ## SBOM Response
 
-The SBOM Response application provides you with data visualizations with detailed information about BOM entities, entities with [[vulnerabilities|vulnerabilities]], and active application vulnerable items on the Home \(landing\) page in the SBOM Workspace. The workspace with SBOM Response includes the following modules:
+The SBOM Response application provides you with data visualizations with detailed information about BOM entities, entities with vulnerabilities, and active application vulnerable items on the Home \(landing\) page in the SBOM Workspace. The workspace with SBOM Response includes the following modules:
 
 -   Home page - Data visualizations and enhanced vulnerability details.
 -   Components - Version and fix information for components and license classification of components.
@@ -38,7 +38,3 @@ The following topics provide more information about how to locate details about 
 -   [Checking a Software Bill of Materials entity for vulnerabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-check-vulnerability-use-case.md)
 -   [Classifying licenses and resolving component licenses in the Software Bill of Materials workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/sbom-core/vr-sbom-license-overview.md)
 
-## Related
-
-- [[sbom-landing|Software Bill of Materials]]
-- [[vulnerabilities|Vulnerabilities]]

@@ -14,11 +14,11 @@ breadcrumb: [OpenTelemetry, Service Graph Connectors, Integrating third-party da
 
 # Configure Service Graph Connector for OpenTelemetry
 
-Set up scheduled import jobs to pull in data from ServiceNow Cloud Observability \(formerly Lightstep\) into your [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]].
+Set up scheduled import jobs to pull in data from ServiceNow Cloud Observability \(formerly Lightstep\) into your Configuration Management Database \(CMDB\).
 
 ## Before you begin
 
-**Important:** Starting with the Australia release, [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]] is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
+**Important:** Starting with the Australia release, Service Graph Connector for OpenTelemetry is being prepared for future deprecation. It will be hidden and no longer installed on new instances but will continue to be supported. For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support Knowledge Base.
 
 To use this Service Graph Connector, you need a subscription to a Subscription Unit that is based in the IT Operations Management \(ITOM\) Visibility application or in the ITOM Discovery application. As defined in the section titled "Managed IT Resource Types" in [ServiceNow Subscription Unit Overview](https://www.servicenow.com/products/entitlements-packages.html) for your subscription, for managed IT resources that are created or modified in the CMDB by this Service Graph Connector, but that aren’t yet managed by [ITOM Visibility or ITOM Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-license-module.md), these resources will increase Subscription Unit consumption from that application. Review your current Subscription Unit consumption within ITOM Visibility or ITOM Discovery to ensure available capacity.
 
@@ -41,7 +41,7 @@ Role required: admin
 
     For more information, see [Application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/c_ApplicationPicker.md).
 
-2.  Navigate to **All** &gt; **[[cmdb-sgc-available|Service Graph Connectors]]** &gt; **OpenTelemetry** &gt; **Setup**.
+2.  Navigate to **All** &gt; **Service Graph Connectors** &gt; **OpenTelemetry** &gt; **Setup**.
 
 3.  On the Getting started page, select **Get Started**.
 
@@ -58,7 +58,7 @@ Role required: admin
     3.  Enter your Cloud Observability organization details from where you want to retrieve the projects, resources, and dependency-mapping information.
 
         1.  For the Set up your organization task, select **Configure**.
-        2.  In the **Value** field of the Service Graph Connection [[properties-form-survey-designer|Properties form]], enter the name of your Cloud Observability organization.
+        2.  In the **Value** field of the Service Graph Connection Properties form, enter the name of your Cloud Observability organization.
         3.  Select **Update**.
         4.  Mark the Set up your organization task to complete by selecting **Mark as Complete**.
     4.  Enter the API key details associated with the Cloud Observability application.
@@ -98,7 +98,7 @@ Role required: admin
 
         1.  For the Add excluded projects task, select **Configure**.
         2.  Select a project from the **Project** column.
-        3.  Select the **Exclude project** [[check-box|check box]].
+        3.  Select the **Exclude project** check box.
         4.  Select **Update**.
         5.  Repeat steps from [5.c.ii](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-opentelemetry-integ.md) to [5.c.iv](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-config-opentelemetry-integ.md) for each project that you want to exclude.
         6.  Select **X** to close the Add excluded projects dialog box and return to the guided setup page.
@@ -190,10 +190,3 @@ Role required: admin
 
 [Linking inferred services with CIs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-opentelemetry-services.md)
 
-## Related
-
-- [[c_ITILConfigurationManagement|Configuration Management Database \(CMDB\)]]
-- [[sgc-cmdb-integration-opentelemetry|Service Graph Connector for OpenTelemetry]]
-- [[cmdb-sgc-available|Service Graph Connectors]]
-- [[properties-form-survey-designer|Properties form]]
-- [[check-box|Check box]]

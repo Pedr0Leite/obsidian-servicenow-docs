@@ -14,7 +14,7 @@ breadcrumb: [Project Management reference, Project Management, Project Portfolio
 
 # Quick start tests for PPM Standard Multicurrency
 
-Validate that PPM Standard Multicurrency still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start [[c_Tests|tests]] to pass when using your instance-specific data.
+Validate that PPM Standard Multicurrency still works after you make any configuration change such as apply an upgrade or develop an application. Copy and customize these quick start tests to pass when using your instance-specific data.
 
 Project currency quick start tests require activating the PPM Standard Multicurrency – ATF Tests plugin \(com.snc.ppm\_multicurrency.atf\).
 
@@ -28,6 +28,3 @@ Project currency quick start tests require activating the PPM Standard Multicurr
 
 [Quick start tests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/application-development/quick-start-tests.md)
 
-## Related
-
-- [[c_Tests|Tests]]

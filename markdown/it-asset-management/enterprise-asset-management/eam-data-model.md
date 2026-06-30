@@ -18,11 +18,11 @@ The Enterprise Asset Management data model provides a structured framework for r
 
 ## Enterprise Asset Management data model overview
 
-The Enterprise Asset Management data model defines how asset-related data is created, classified, synchronized, and governed. It is not a single table or diagram. Instead, it is a connected set of entities and relationships that act as guardrails for how asset-related data flows from initial definition through [[c_Procurement|procurement]], operation, maintenance, and retirement.
+The Enterprise Asset Management data model defines how asset-related data is created, classified, synchronized, and governed. It is not a single table or diagram. Instead, it is a connected set of entities and relationships that act as guardrails for how asset-related data flows from initial definition through procurement, operation, maintenance, and retirement.
 
 ## Enterprise models and assets
 
-The Enterprise Asset Management data model uses enterprise [[c_Models|models]] and assets to separate standardized asset definitions from real-world physical objects.
+The Enterprise Asset Management data model uses enterprise models and assets to separate standardized asset definitions from real-world physical objects.
 
 -   An enterprise model defines an enterprise asset type. Each enterprise model contains a set of asset specifications, attributes, and structural compositions, including information about whether its associated assets are standalone or multi-component.
 -   An enterprise asset represents a real-world physical object that is purchased, received, deployed, and tracked throughout its operational life. Every enterprise asset is created from an enterprise model.
@@ -45,7 +45,7 @@ The Enterprise Asset Management data model is built around three core structural
 
 -   **CMDB CI classes**
 
-    CMDB CI classes are tables that store configuration item \(CI\) records. Each CMDB CI class maps to corresponding [[enterprise-model-asset-classes|enterprise model and asset classes]] through [[model-hierarchy|model categories]], creating a unified view of assets across the [[enterprise-asset-management|Enterprise Asset Management]] application and the CMDB.
+    CMDB CI classes are tables that store configuration item \(CI\) records. Each CMDB CI class maps to corresponding enterprise model and asset classes through model categories, creating a unified view of assets across the Enterprise Asset Management application and the CMDB.
 
     For more information on the CMDB and CMDB CI classes, see [Configuration Management Database \(CMDB\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_ITILConfigurationManagement.md).
 
@@ -56,7 +56,7 @@ These core components link to each other through enterprise model categories. Ea
 
 ## Enterprise Asset Management system architecture
 
-The system architecture of the Enterprise Asset Management application is comprised of components that extend beyond the core data model components. Together, these components support the end-to-end [[am-landing-page|asset management]] process, from procurement to disposal.
+The system architecture of the Enterprise Asset Management application is comprised of components that extend beyond the core data model components. Together, these components support the end-to-end asset management process, from procurement to disposal.
 
 \[Omitted image "eam-system-architecture.png"\] Alt text: Enterprise Asset Management system architecture.
 
@@ -110,7 +110,7 @@ Supported functional modules in which you can perform tasks and complete workflo
 -   Inventory management
 -   Work management
 -   Procurement management
--   [[c_ContractManagement|Contract management]]
+-   Contract management
 -   Location hierarchies and indoor maps
 
 </td></tr><tr><td>
@@ -129,25 +129,13 @@ The Enterprise Asset Management application supports enterprise model and asset 
 -   **[Model categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/model-hierarchy.md)**  
 Model categories define the relationships between enterprise model classes, enterprise asset classes, and Configuration Management Database \(CMDB\) CI classes in Enterprise Asset Management. Model categories connect every enterprise asset to the correct model class, asset class, and CI class.
 -   **[Model classification](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/classification-codes.md)**  
-Use [[classification-codes|model classification]] to organize and categorize enterprise models and their associated assets in a structured, consistent way across the ServiceNow platform.
+Use model classification to organize and categorize enterprise models and their associated assets in a structured, consistent way across the ServiceNow platform.
 -   **[Model types in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/eam-model-types.md)**  
-Every enterprise model in the Enterprise Asset Management application is assigned a model type that determines its structural nature. Each enterprise model can represent standalone enterprise assets, quantity-tracked [[c_ReceiveAConsumableAsset|consumable assets]], or complex assemblies that are comprised of multiple components.
+Every enterprise model in the Enterprise Asset Management application is assigned a model type that determines its structural nature. Each enterprise model can represent standalone enterprise assets, quantity-tracked consumable assets, or complex assemblies that are comprised of multiple components.
 -   **[Asset groups in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-groups-eam.md)**  
 Asset groups in the Enterprise Asset Management application provide a systematic approach to organizing assets based on their functional relationships and their physical placement within an organization. They can help improve data integrity and support maintenance planning, life-cycle tracking, reporting, and access control.
 -   **[Linear assets in Enterprise Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/using-linear-assets.md)**  
 Expand your asset management portfolio by creating and managing linear assets.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[c_Models|Models]]
-- [[enterprise-model-asset-classes|Enterprise model and asset classes]]
-- [[model-hierarchy|Model categories]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[am-landing-page|Asset Management]]
-- [[c_ContractManagement|Contract Management]]
-- [[classification-codes|Model classification]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]

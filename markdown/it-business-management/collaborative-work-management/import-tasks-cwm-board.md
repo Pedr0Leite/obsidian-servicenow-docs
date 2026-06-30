@@ -30,7 +30,7 @@ Bring existing work from a spreadsheet or document into a CWM Board. Column mapp
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[cwm-landing|Collaborative Work Management]]**.
+1.  Navigate to **Workspaces** &gt; **Collaborative Work Management**.
 
 2.  From a Space, select a Board to import tasks into.
 
@@ -87,6 +87,3 @@ The wizard closes and the import runs in the background. A workspace notificatio
 
 Open the Board to verify the imported records. Edit individual records from the side panel or by inline editing in the grid.
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

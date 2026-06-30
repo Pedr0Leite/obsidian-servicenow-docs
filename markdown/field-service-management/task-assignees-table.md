@@ -26,8 +26,5 @@ The task assignees table shows all the crew members or equipment assigned to a g
 |Work duration|The total time spent working on the task including any pauses and breaks.|
 |Actual work duration|The total time spent working on the task not including any pauses and breaks.|
 
-**Parent Topic:**[[fsm-reference|Field Service Management reference]]
+**Parent Topic:**[Field Service Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/fsm-reference.md)
 
-## Related
-
-- [[fsm-reference|Field Service Management reference]]

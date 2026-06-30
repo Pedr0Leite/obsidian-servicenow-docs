@@ -12,7 +12,7 @@ breadcrumb: [Diagnose technical debt, Platform Health, Using Impact, Impact]
 
 # Create policies for Scan Engine
 
-Policies let you determine how specific definition findings appear on [[io-analytics|analytics]] dashboards; you can ignore them completely or place them in a prioritized view.
+Policies let you determine how specific definition findings appear on analytics dashboards; you can ignore them completely or place them in a prioritized view.
 
 ## Before you begin
 
@@ -27,7 +27,7 @@ You can choose to create policies that label these definition findings as:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Open Findings**.
+1.  Navigate to **All** &gt; **Impact** &gt; **Platform Health** &gt; **Open Findings**.
 
 2.  To open the record of a finding that you want to assign a policy to, select its short description.
 
@@ -83,8 +83,4 @@ Description of why the policy was created.
 
     When a policy is active, findings matching its criteria display its name in their **Policy** field. View all findings affected by a policy through the policy record's **Findings** related list, or navigate to **ALL &gt; Impact &gt; Platform Health &gt; Finding Policies** to manage all policies.
 
-## Related
 
-- [[io-analytics|Analytics]]
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

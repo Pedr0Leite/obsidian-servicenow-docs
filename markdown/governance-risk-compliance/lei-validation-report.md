@@ -17,7 +17,7 @@ The Level 4 LEI Validation Report \(`Level4_LEI_Validation_Report.csv`\) is gene
 
 The report is included in `Consolidated_Reports.zip` alongside the Level 3 DPM Validation Summary. It covers LEI codes sourced from the DORA reporting tables that contain LEI fields, including Legal entities \(B.01.02\), ICT third-party service providers \(B.05.01\), and other sheets where LEI codes appear. Each row in the report represents a single LEI code occurrence, ordered by sheet name and then row number.
 
-For information on how to review and resolve validation results, see [[validate-lei|Validate Legal Entity Identifier codes for DORA reporting]].
+For information on how to review and resolve validation results, see [Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/validate-lei.md).
 
 **Note:** Name, Country, Entity Status, and Registration Status values are derived from the GLEIF API response used during validation.
 
@@ -183,6 +183,3 @@ A descriptive message explaining the validation result, for example, "LEI not fo
 </td></tr></tbody>
 </table>**Parent Topic:**[Validate Legal Entity Identifier codes for DORA reporting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/validate-lei.md)
 
-## Related
-
-- [[validate-lei|Validate Legal Entity Identifier codes for DORA reporting]]

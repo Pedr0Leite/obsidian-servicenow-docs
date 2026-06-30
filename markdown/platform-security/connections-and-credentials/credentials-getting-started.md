@@ -18,7 +18,7 @@ The MID Server uses the credentials you create in the Credentials \[discovery\_c
 
 ## How MID Servers use credentials
 
-By default, Windows MID Servers use the login credentials of the MID Server service on the host machine to discover Windows devices in the network. You should [Configure Windows MID Server service credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-install-prereqs.md) so that they have at least local administrator privileges. For Linux and UNIX machines and network devices, the MID Server uses the SSH and [[c_SNMPCredentials|SNMP credentials]] configured in the instance in **Discovery** &gt; **Credentials**.
+By default, Windows MID Servers use the login credentials of the MID Server service on the host machine to discover Windows devices in the network. You should [Configure Windows MID Server service credentials](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/mid-server-install-prereqs.md) so that they have at least local administrator privileges. For Linux and UNIX machines and network devices, the MID Server uses the SSH and SNMP credentials configured in the instance in **Discovery** &gt; **Credentials**.
 
 MID Servers that Orchestration uses must have access to the necessary credentials to execute commands on computers in the network, as specified by the [Workflow activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/c_WorkflowActivities.md). Orchestration can use the same SSH and SNMP credentials as Discovery, but has two additional credentials designed for specific Workflow activities: Windows \(for [PowerShell activities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_OrchestrPowerShellActivities.md)\) and VMware.
 
@@ -34,7 +34,7 @@ When the MID Server requests credentials, the ServiceNow AI Platform decrypts th
 4.  The credentials are decrypted on the MID Server with SSL.
 5.  The credentials are decrypted on the MID Server with the MID Server's private key.
 
-**Note:** The platform does not have separate [[encryption-landing|encryption]] keys for multi-tenant instances.
+**Note:** The platform does not have separate encryption keys for multi-tenant instances.
 
 ## Credential order
 
@@ -49,7 +49,7 @@ After identifying the credentials for a device, Discovery and Orchestration crea
 
 Ordering credentials is useful in the following situations:
 
--   The credentials table contains many credentials, with some used more frequently than others. For example, the table contains 150 [[r_SSHCredentialsForm|SSH credentials]], and five of those credentials are used to log in to 90% of the devices. It is good practice to configure those five credentials with low-order numbers, which place them at the top of the execution list. Discovery and Orchestration work faster when they try these common credentials first. After the first successful connection, the ServiceNow AI Platform knows which credentials to use the next time for each device.
+-   The credentials table contains many credentials, with some used more frequently than others. For example, the table contains 150 SSH credentials, and five of those credentials are used to log in to 90% of the devices. It is good practice to configure those five credentials with low-order numbers, which place them at the top of the execution list. Discovery and Orchestration work faster when they try these common credentials first. After the first successful connection, the ServiceNow AI Platform knows which credentials to use the next time for each device.
 -   The ServiceNow AI Platform has aggressive login security. For example, configure database credentials with a low-order value if Solaris database servers in the network only provide three failed login attempts before locking out the MID Server.
 
 ## Credential aliases
@@ -73,8 +73,3 @@ Aliases for Orchestration enable workflow creators to:
 
 If you do not want credentials stored in your instance, you can use external credential repositories. External credential stores save the credentials in an external site that your instance can access. [CyberArk](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/connections-and-credentials/c_CyberArkCredStorageIntegrate.md) is the only supported external credential store. However, other external stores can be configured using the ServiceNow API.
 
-## Related
-
-- [[c_SNMPCredentials|SNMP credentials]]
-- [[encryption-landing|Encryption]]
-- [[r_SSHCredentialsForm|SSH credentials]]

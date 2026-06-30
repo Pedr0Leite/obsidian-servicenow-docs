@@ -52,7 +52,7 @@ Method
 
 </td><td>
 
-Assessment method. Always **Assessment** for [[r_SurveyManagementLandingPage|surveys]].
+Assessment method. Always **Assessment** for surveys.
 
 </td></tr><tr><td>
 
@@ -94,11 +94,11 @@ Actual value
 
 Value obtained from the user response to the question. The actual value is determined by the question data type:
 
- -   **Checkbox:** The actual value is 0 if the [[check-box|check box]] is cleared and 1 if it is selected.
+ -   **Checkbox:** The actual value is 0 if the check box is cleared and 1 if it is selected.
 -   **Choice** or **Likert Scale:** The actual value is equal to the **Value** of the metric definition associated with the chosen answer option.
 -   **Date**, **Date/Time**, or **String:** The actual value is -1 to indicate that these data types do not contribute to category result calculations.
 -   **Template:** The actual value is equal to the **Value** of the template definition associated with the chosen answer option.
--   **[[yes-no|Yes/No]]:** The actual value is 0 if the response is **No** and 1 if it is **Yes**.
+-   **Yes/No:** The actual value is 0 if the response is **No** and 1 if it is **Yes**.
 
 </td></tr><tr><td>
 
@@ -106,7 +106,7 @@ Normalized value
 
 </td><td>
 
-Adjusted value that accounts for the **Scale definition** setting, minimum and maximum values, and other factors. The equation that generates the value and an example calculation appear in [[example-normalized-value-calc|Normalized value for an assessment]].
+Adjusted value that accounts for the **Scale definition** setting, minimum and maximum values, and other factors. The equation that generates the value and an example calculation appear in [Normalized value for an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/example-normalized-value-calc.md).
 
 </td></tr><tr><td>
 
@@ -120,12 +120,5 @@ Value that displays the response as it appears on a questionnaire. In some cases
 </table>-   **[Normalized value for an assessment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/example-normalized-value-calc.md)**  
 The normalized value is calculated based on a linear equation and the scale definition of the metric. This value can be used for risk assessment.
 
-**Parent Topic:**[[survey-reference|Surveys reference]]
+**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
-## Related
-
-- [[example-normalized-value-calc|Normalized value for an assessment]]
-- [[survey-reference|Surveys reference]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]
-- [[yes-no|Yes/No]]

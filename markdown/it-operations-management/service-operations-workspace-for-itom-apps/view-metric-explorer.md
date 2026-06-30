@@ -15,11 +15,11 @@ breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Ope
 
 # View CI health in Metric Explorer
 
-View the health and performance of an alert's CI using [[agent-workspace-ops-intelligence|Metric Explorer]], to help troubleshoot problematic areas in the CI.
+View the health and performance of an alert's CI using Metric Explorer, to help troubleshoot problematic areas in the CI.
 
 ## Before you begin
 
-All plugins related to [[c_EM|Event Management]], [[operational-metrics|Metric Intelligence]], and Metric Explorer, are required.
+All plugins related to Event Management, Metric Intelligence, and Metric Explorer, are required.
 
 Roles required:
 
@@ -38,7 +38,7 @@ Metrics are displayed only for alerts containing a CI.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[workspace-dashboard-use|Service Operations Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Service Operations Workspace**.
 
 2.  From the navigation bar, select the List icon: \[Omitted image "list-icon-sow-itom.png"\] Alt text: List icon.
 
@@ -106,9 +106,3 @@ Displays metrics on entry points that relate to the service that the CI is impac
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[agent-workspace-ops-intelligence|Metric Explorer]]
-- [[c_EM|Event Management]]
-- [[operational-metrics|Metric Intelligence]]
-- [[workspace-dashboard-use|Service Operations Workspace]]

@@ -41,8 +41,5 @@ Role required: none
 5.  Click **Submit**.
 
 
-**Parent Topic:**[[r_FacilitiesRequestCreation|Facilities request creation]]
+**Parent Topic:**[Facilities request creation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_FacilitiesRequestCreation.md)
 
-## Related
-
-- [[r_FacilitiesRequestCreation|Facilities request creation]]

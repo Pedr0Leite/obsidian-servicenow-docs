@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-If you leave the clone profile field empty when requesting a clone, the system uses the exclude tables, data preservers, and cleanup scripts configured under **[[system-clone-landing|Instance Clone]]** &gt; **Clone Definition**.
+If you leave the clone profile field empty when requesting a clone, the system uses the exclude tables, data preservers, and cleanup scripts configured under **Instance Clone** &gt; **Clone Definition**.
 
 ## Procedure
 
@@ -30,7 +30,7 @@ If you leave the clone profile field empty when requesting a clone, the system u
 
 3.  Fill in the form.
 
-    For field information, see [[clone-options|Clone options]].
+    For field information, see [Clone options](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/clone-options.md).
 
 4.  Select **Submit**.
 
@@ -42,7 +42,4 @@ If you leave the clone profile field empty when requesting a clone, the system u
 
     2.  Add the preserver, exclusion, or cleanup script to the selected list.
 
-## Related
 
-- [[clone-options|Clone options]]
-- [[system-clone-landing|Instance Clone]]

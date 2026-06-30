@@ -14,12 +14,12 @@ breadcrumb: [Microsoft CA certificates, Available on-premise discovery patterns,
 
 # Create a serverless schedule for Microsoft CA discovery
 
-Create a [[serverless-discovery|serverless discovery]] schedule to discover Microsoft Certificate Authority \(CA\) certificates.
+Create a serverless discovery schedule to discover Microsoft Certificate Authority \(CA\) certificates.
 
 ## Before you begin
 
 -   Verify that the CA process is up and running on the host machine.
--   Verify that a Windows host was discovered during a previous horizontal [[r-discovery|discovery]]. For more information, see [Windows discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md).
+-   Verify that a Windows host was discovered during a previous horizontal discovery. For more information, see [Windows discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoWindowsComputers.md).
 
 Role required: discovery\_admin
 
@@ -216,7 +216,3 @@ Either execute discovery immediately by selecting **Discover now** or wait until
 
 [Microsoft Certificate Authority \(CA\) certificates discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery-and-service-mapping-patterns/microsoft-ca-discovery.md)
 
-## Related
-
-- [[serverless-discovery|Serverless Discovery]]
-- [[r-discovery|Discovery]]

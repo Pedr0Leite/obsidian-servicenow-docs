@@ -14,7 +14,7 @@ breadcrumb: [Cloud Cost Management, IT Asset Management]
 
 # Configuring Cloud Cost Management
 
-Plan and configure [[cloud-insights-landing-page|Cloud Cost Management]] to gain visibility into your total cloud consumption, reduce costs, and optimize the operations of your cloud platforms.
+Plan and configure Cloud Cost Management to gain visibility into your total cloud consumption, reduce costs, and optimize the operations of your cloud platforms.
 
 ## Configuration overview
 
@@ -34,7 +34,7 @@ Resource
 
 </th></tr></thead><tbody><tr><td>
 
-\[Omitted image "bus-download.svg"\] Alt text:[[install-ci|Install Cloud Cost Management]]
+\[Omitted image "bus-download.svg"\] Alt text:Install Cloud Cost Management
 
 </td><td>
 
@@ -46,11 +46,11 @@ Get the Cloud Cost Management application from the [ServiceNow Store](https://st
 
 </td></tr><tr><td>
 
-\[Omitted image "bus-download.svg"\] Alt text:[[install-ccm-infra|Install Cloud Cost Management Infra Stack]]
+\[Omitted image "bus-download.svg"\] Alt text:Install Cloud Cost Management Infra Stack
 
 </td><td>
 
-Get the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).**Important:** The Cloud Cost Management Infra Stack application is available with Cloud Cost Management version 8.1 and later. Installing the Cloud Cost Management Infra Stack application is optional. However, if you have activated this application, you can't deactivate it later.
+Get the Cloud Cost Management Infra Stack application from the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!/store/home).**Important:** The Cloud Cost Management Infra Stack application is available with Cloud Cost Management version 8.1 and later. Installing the Cloud Cost Management Infra Stack application is optional. However, if you have activated this application, you can't deactivate it later.
 
 </td><td>
 
@@ -62,7 +62,7 @@ Get the [[ccm-infra-stack|Cloud Cost Management Infra Stack]] application from t
 
 </td><td>
 
-Assign [[cloud-insights-roles|Cloud Cost Management roles]] to user groups and to individual users based on user activities and responsibilities.
+Assign Cloud Cost Management roles to user groups and to individual users based on user activities and responsibilities.
 
 </td><td>
 
@@ -165,11 +165,3 @@ Gain visibility into your total cloud consumption, reduce costs, and optimize op
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[install-ci|Install Cloud Cost Management]]
-- [[install-ccm-infra|Install Cloud Cost Management Infra Stack]]
-- [[ccm-infra-stack|Cloud Cost Management Infra Stack]]
-- [[cloud-insights-roles|Cloud Cost Management roles]]

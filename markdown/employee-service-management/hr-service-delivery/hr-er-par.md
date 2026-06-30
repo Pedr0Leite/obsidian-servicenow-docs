@@ -14,7 +14,7 @@ breadcrumb: [Using HR Service Delivery Employee Relations, Employee Relations, C
 
 # Employee Relations Performance Analytics Executive Overview
 
-The [[hr-service-delivery|HR Service Delivery]] [[hr-case-employee-relations|Employee Relations]] \(ER\) Performance Analytics \(PA\) dashboard provides you with historical trends, data comparisons.
+The HR Service Delivery Employee Relations \(ER\) Performance Analytics \(PA\) dashboard provides you with historical trends, data comparisons.
 
 You must activate the Performance Analytics - Content Pack - Human Resources: Employee Relations Scoped App plugin.
 
@@ -46,7 +46,3 @@ ER investigation leaders need to understand the quality of service in an ER inve
 -   Data trends by allegation type.
 -   The number of closed cases by allegation outcome.
 
-## Related
-
-- [[hr-service-delivery|HR Service Delivery]]
-- [[hr-case-employee-relations|Employee Relations]]

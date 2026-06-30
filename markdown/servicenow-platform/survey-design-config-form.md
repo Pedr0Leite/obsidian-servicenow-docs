@@ -28,7 +28,7 @@ Active
 
 </td><td>
 
-Select the [[check-box|check box]] to enable the distribution of this survey to recipients.
+Select the check box to enable the distribution of this survey to recipients.
 
 </td></tr><tr><td>
 
@@ -44,7 +44,7 @@ Anonymize responses
 
 </td><td>
 
-Select the check box to collect survey responses anonymously. Recipients are not listed with survey results. When a user submits a survey, the system clears the **Assigned to** field for the associated survey instance. Also, survey responses for anonymous [[r_SurveyManagementLandingPage|surveys]] do not contain Assigned to values.**Note:** The **Assigned to** field is cleared. However, each response record includes the **Created By** and **Updated By** fields that are accessible to users with the survey\_admin role.
+Select the check box to collect survey responses anonymously. Recipients are not listed with survey results. When a user submits a survey, the system clears the **Assigned to** field for the associated survey instance. Also, survey responses for anonymous surveys do not contain Assigned to values.**Note:** The **Assigned to** field is cleared. However, each response record includes the **Created By** and **Updated By** fields that are accessible to users with the survey\_admin role.
 
 </td></tr><tr><td>
 
@@ -136,7 +136,7 @@ Chat Survey
 
 </td><td>
 
-Option to validate if [[c_SurveyQuestion|survey questions]] are supported in a chat survey. Enables conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client. Also enables you to map chat context variables to survey questions. For information on a chat survey in ITSM Virtual Agent, see [[survey-virtual-agent|Surveys in ITSM Virtual Agent]] **Note:** This field is available only when the Glide Conversation Server plugin \(com.glide.cs\) is activated.
+Option to validate if survey questions are supported in a chat survey. Enables conversational questionnaires \(pre-chat and post-chat surveys\) in the chat client. Also enables you to map chat context variables to survey questions. For information on a chat survey in ITSM Virtual Agent, see [Surveys in ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-virtual-agent.md) **Note:** This field is available only when the Glide Conversation Server plugin \(com.glide.cs\) is activated.
 
 </td></tr><tr><td>
 
@@ -176,7 +176,7 @@ Outlook Actionable Message
 
 </td><td>
 
-Includes an embedded survey in the survey [[email|email]] notification. After you select this check box and save the survey, a validation is run to ensure all survey questions are supported. **Note:** This field is available only when the [[outlook-actionable-messages|Outlook Actionable Messages]]\(sn\_ms\_oam\) plugin is installed.
+Includes an embedded survey in the survey email notification. After you select this check box and save the survey, a validation is run to ensure all survey questions are supported. **Note:** This field is available only when the Outlook Actionable Messages\(sn\_ms\_oam\) plugin is installed.
 
 </td></tr></tbody>
 </table><table id="table_q1z_vr2_5fb"><thead><tr><th>
@@ -229,14 +229,5 @@ Add recipients lists
 Recipients lists for whom the survey is available.**Note:** This field is displayed only if the **Accessible by** is `Specific users`.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[survey-reference|Surveys reference]]
+</table>**Parent Topic:**[Surveys reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/survey-reference.md)
 
-## Related
-
-- [[survey-virtual-agent|Surveys in ITSM Virtual Agent]]
-- [[survey-reference|Surveys reference]]
-- [[check-box|Check box]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[c_SurveyQuestion|Survey questions]]
-- [[email|Email]]
-- [[outlook-actionable-messages|Outlook Actionable Messages]]

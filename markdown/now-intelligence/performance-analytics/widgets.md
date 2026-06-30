@@ -18,7 +18,7 @@ Objects that have been added to dashboards in Core UI are called widgets. You ca
 
 Each widget type enables you to do something different on a dashboard. Follow the links for each type to learn how to create and edit the widgets on your dashboard.
 
-Widgets are not available for [[par-workspace|Platform Analytics experience]] dashboards. Widgets are iframed on Core UI dashboards that are migrated to Platform Analytics experience.
+Widgets are not available for Platform Analytics experience dashboards. Widgets are iframed on Core UI dashboards that are migrated to Platform Analytics experience.
 
 **Note:** Responsive dashboards do not support the Sticky Notes widget.
 
@@ -30,9 +30,9 @@ Widget types include:
 
 -   **Performance Analytics**
 
-    [[c_Widgets|Performance Analytics widgets]] visualize information based on indicator data collected over time. For more information, see [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md).
+    Performance Analytics widgets visualize information based on indicator data collected over time. For more information, see [Performance Analytics widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md).
 
--   **[[c_HomepagePublishers|Interactive Filters]]**
+-   **Interactive Filters**
 
     Interactive Filters allow you to filter all reports on a dashboard dynamically, without modifying the original reports. For more information, see [Interactive Filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/core-ui-interactive-filters/c_HomepagePublishers.md).
 
@@ -46,8 +46,3 @@ You can create a ServiceNow UI page that displays a web page. You can then add t
 
 **Parent Topic:**[Responsive dashboards in the Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/dashboards-landing-page.md)
 
-## Related
-
-- [[par-workspace|Platform Analytics experience]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_HomepagePublishers|Interactive Filters]]

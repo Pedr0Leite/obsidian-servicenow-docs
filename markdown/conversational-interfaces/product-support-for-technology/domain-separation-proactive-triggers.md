@@ -14,7 +14,7 @@ breadcrumb: [Proactive Triggers reference, Proactive Triggers, Manage people and
 
 # Domain separation and Proactive Triggers
 
-Domain separation is supported for [[proactive-triggers-landing-page|Proactive Triggers]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Proactive Triggers. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -43,6 +43,3 @@ Each domain has its own set of rules and trigger types that are evaluated indepe
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[proactive-triggers-landing-page|Proactive Triggers]]

@@ -18,7 +18,7 @@ Configure your API credentials to use OpenAI in custom workflows and Virtual Age
 
 ## Before you begin
 
-To use the OpenAI and Azure OpenAI large language models \(LLMs\), you must configure your credentials to use the [[generative-ai-controller|Generative AI Controller]] capabilities.
+To use the OpenAI and Azure OpenAI large language models \(LLMs\), you must configure your credentials to use the Generative AI Controller capabilities.
 
 Role required: admin
 
@@ -53,6 +53,3 @@ You can now use capabilities labeled with OpenAI in Flow Designer, Virtual Agent
 
 If you want to use generative AI capabilities through your MID Server, open the new Connection record, select the **Use MID server** check box, and save the record.
 
-## Related
-
-- [[generative-ai-controller|Generative AI Controller]]

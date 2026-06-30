@@ -25,14 +25,14 @@ Role required: wm\_dispatcher, wm\_admin
 View the scheduling history of the work order task with the following details:
 
 -   Assigned field service agent.
--   Scheduling method used to assign the work order task such as [[fsm-task-recommendation|intelligent task recommendation]], [[dynamic-scheduling|dynamic scheduling]], or manual assignment.
+-   Scheduling method used to assign the work order task such as intelligent task recommendation, dynamic scheduling, or manual assignment.
 -   Date and time of the assignment, un-assignment, or re-assignment.
 
 **Note:** When an automated scheduling mechanism conflicts the manual assignment of a work order task, the manual assignment takes the priority. Also, work order tasks may require review because there is a conflict or double booking that occurred from manual and automated scheduling processes.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Work Order** &gt; **Work Order Tasks**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Work Order** &gt; **Work Order Tasks**.
 
 2.  Open the task for which you want to view the scheduling history.
 
@@ -43,8 +43,3 @@ View the scheduling history of the work order task with the following details:
 
 The work order task assignments with the scheduling method appear.
 
-## Related
-
-- [[fsm-task-recommendation|Intelligent Task Recommendation]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[fsm-application-landing-page|Field Service Management]]

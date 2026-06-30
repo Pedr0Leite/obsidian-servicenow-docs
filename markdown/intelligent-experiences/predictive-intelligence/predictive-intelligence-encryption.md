@@ -14,7 +14,7 @@ breadcrumb: [Predictive Intelligence references, Predictive Intelligence, Enable
 
 # Data Encryption in Predictive Intelligence
 
-Learn which types of encryption are supported for training [[predictive-intelligence-landing|Predictive Intelligence]] solutions.
+Learn which types of encryption are supported for training Predictive Intelligence solutions.
 
 ## Predictive Intelligence support for encrypted training data
 
@@ -37,6 +37,3 @@ Learn which types of encryption are supported for training [[predictive-intellig
 
 [Predictive Intelligence roles]()
 
-## Related
-
-- [[predictive-intelligence-landing|Predictive Intelligence]]

@@ -12,7 +12,7 @@ breadcrumb: [Color theme considerations, Configure theming, Next Experience them
 
 # Color variable support for UI rules
 
-Learn how to use color variables to change theming in your [[mobile-ui-rules|mobile UI rules]].
+Learn how to use color variables to change theming in your mobile UI rules.
 
 <table id="table_fbp_nfb_yvb"><tbody><tr><td>
 
@@ -25,7 +25,7 @@ Use the following color variables in the **Value** field of your UI rules with t
 
  `{“BackgroundColorVariable”: “--now-color-secondary-3", “BackgroundColor”: “#3f2c11”}`
 
- For details on creating these UI rule actions, see [[create-mobile-ui-rule-action|Create a mobile UI rule action]].
+ For details on creating these UI rule actions, see [Create a mobile UI rule action](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-mobile-ui-rule-action.md).
 
 </td><td>
 
@@ -706,8 +706,3 @@ Yellow \(Alternate\)
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-mobile-ui-rule-action|Create a mobile UI rule action]]
-- [[mobile-ui-rules|Mobile UI Rules]]

@@ -14,7 +14,7 @@ breadcrumb: [ITSM Success Dashboard Admin console, Configure, ITSM Success Dashb
 
 # Activate Performance Analytics jobs for ITSM Success Dashboard indicators
 
-Activate the Performance Analytics \(PA\) jobs to collect daily and historical data for the [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]].
+Activate the Performance Analytics \(PA\) jobs to collect daily and historical data for the ITSM Success Dashboard indicators.
 
 ## Before you begin
 
@@ -48,6 +48,3 @@ Role required: admin
 
 **Parent Topic:**[ITSM Success Dashboard Admin console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-success-dashboard-indicators/admin-console-sd.md)
 
-## Related
-
-- [[success-dashboard-indicator-landing|ITSM Success Dashboard indicators]]

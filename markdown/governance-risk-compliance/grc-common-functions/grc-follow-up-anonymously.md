@@ -14,13 +14,13 @@ breadcrumb: [Anonymous Reporting Center, Common GRC features, Governance, Risk, 
 
 # Follow up on a report from the Anonymous Reporting Center
 
-Check the status of your case on the [[grc-anonymous-reporting-center|Anonymous Reporting Center]] using the Report key and Report number. You must download a copy of your anonymous report after submitting a case to record these values.
+Check the status of your case on the Anonymous Reporting Center using the Report key and Report number. You must download a copy of your anonymous report after submitting a case to record these values.
 
 ## Before you begin
 
 Role required: sn\_grc.business\_user
 
-**Note:** This role is only required to access the **[[employee-center|Employee Center]]**. No role is required to submit a report directly through the Anonymous Reporting Center \(ARC\).
+**Note:** This role is only required to access the **Employee Center**. No role is required to submit a report directly through the Anonymous Reporting Center \(ARC\).
 
 ## About this task
 
@@ -33,7 +33,7 @@ ARC enables you to report suspected misconduct safely and confidentially, encour
 2.  On the **Employee Center** landing page:
 
     -   Navigate to the **Risk and compliance** tab for privacy and compliance cases.
-    -   Navigate to **Help center** &gt; **Technology services** and then select **[[ai-assets-airc|AI assets]]** from the **Technology services** topics section for AI cases.
+    -   Navigate to **Help center** &gt; **Technology services** and then select **AI assets** from the **Technology services** topics section for AI cases.
 3.  Select the **Visit Anonymous Report Center** card.
 
     You’re automatically signed out of your employee account and redirected to the ARC landing page.
@@ -64,8 +64,3 @@ Use the report to add new information or to respond to investigator comments.
 
 [Report a privacy case anonymously](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/report-privacy-case-anonymously.md)
 
-## Related
-
-- [[grc-anonymous-reporting-center|Anonymous Reporting Center]]
-- [[employee-center|employee center]]
-- [[ai-assets-airc|AI assets]]

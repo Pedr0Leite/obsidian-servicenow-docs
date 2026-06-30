@@ -14,7 +14,7 @@ breadcrumb: [Manage OAuth tokens, OAuth Inbound, OAuth authentication, Authentic
 
 # Revoke an OAuth token
 
-You might want to revoke an [[oauth-inbound-and-outbound|OAuth]] access or refresh token for security reasons.
+You might want to revoke an OAuth access or refresh token for security reasons.
 
 ## Before you begin
 
@@ -33,10 +33,5 @@ Revoking the token pertains to the situation where your instance acts as the OAu
 
 ## Result
 
-This endpoint access does not require [[c_Authentication|authentication]]. The token in this [[c_requestAPI|request]] is marked as expired.
+This endpoint access does not require authentication. The token in this request is marked as expired.
 
-## Related
-
-- [[oauth-inbound-and-outbound|OAuth]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]

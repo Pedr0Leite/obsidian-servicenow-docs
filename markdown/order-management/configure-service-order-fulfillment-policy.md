@@ -12,7 +12,7 @@ breadcrumb: [Order management, Configure, Sales Customer Relationship Management
 
 # Configure service order fulfillment policy using Decision Tables
 
-Associate fulfillment subflows with the service specifications by using the Service [[reviewing-orchestration-plans-order-fulfillment|Order Fulfillment]] Policy in Decision Tables for [[move-order|move order]].
+Associate fulfillment subflows with the service specifications by using the Service Order Fulfillment Policy in Decision Tables for move order.
 
 ## Before you begin
 
@@ -45,19 +45,12 @@ Add rows to the Service Order Fulfillment Policy decision table to specify which
 
 A list of subflows appear in the results section. These sub flows create the fulfillment tasks for an order line item during the fulfillment process. For more information, see [Decision Builder user interface](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/build-workflows/decision-builder-user-interface.md).
 
-**Parent Topic:**[[order-mgt-configuring|Configuring Order Management]]
+**Parent Topic:**[Configuring Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/order-mgt-configuring.md)
 
 **Related topics**  
 
 
-[[explore-order-management|Order management]]
+[Order management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/explore-order-management.md)
 
-[[using-order-management|Using Order Management]]
+[Using Order Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-order-management.md)
 
-## Related
-
-- [[order-mgt-configuring|Configuring Order Management]]
-- [[explore-order-management|Order management]]
-- [[using-order-management|Using Order Management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[move-order|Move order]]

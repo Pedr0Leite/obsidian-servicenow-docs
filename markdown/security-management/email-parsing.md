@@ -12,13 +12,13 @@ breadcrumb: [Security Operations email processing, Security Operations common fu
 
 # Security Operations email parsing
 
-Generate new [[security-operations-landing-page|Security Operations]] records from external detection systems using Email Parsing. This feature provides a method for integrating information from external [[tools|tools]] such as [[threat-intelligence-malware|malware]] detection, vulnerability detection, firewalls, [[threat-intel-landing-page|threat intelligence]], and more.
+Generate new Security Operations records from external detection systems using Email Parsing. This feature provides a method for integrating information from external tools such as malware detection, vulnerability detection, firewalls, threat intelligence, and more.
 
 **How emails are parsed**
 
-Any system that can send an email, can create Security Operations records, for example, security incidents, requests, vulnerable items, [[vulnerabilities|vulnerabilities]], security incident [[c_Observables|observables]], attack methods, and more.
+Any system that can send an email, can create Security Operations records, for example, security incidents, requests, vulnerable items, vulnerabilities, security incident observables, attack methods, and more.
 
-All Security Operations plugins \([[sir-landing-page|Security Incident Response]], Threat Intelligence, and [[vuln-landing-page|Vulnerability Response]]\) have a property \(**email\_to**\) that defines the email address where external integrations should send emails to, to be parsed by the email parsers. See **Email Processing** &gt; **Properties** for more information.
+All Security Operations plugins \(Security Incident Response, Threat Intelligence, and Vulnerability Response\) have a property \(**email\_to**\) that defines the email address where external integrations should send emails to, to be parsed by the email parsers. See **Email Processing** &gt; **Properties** for more information.
 
 Email sent to any of the Security Operations email addresses is stored in an email events table. These emails are processed to determine whether they match any email parser.
 
@@ -52,34 +52,19 @@ When parsing an email with a separator defined, records are only created for sec
 
 In this example, three records are created, even though there are four sections defined. The first section is a header, and it lacks anything specific to only one system. If any of the fields within the first section were filled in \(System, IP, or Status\), then a record would be created for that section, as well.
 
--   **[[parsing-emails|Create email parsers in Security Operations]]**  
+-   **[Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md)**  
 Email Parsing creates Security Operations records from your email for security, vulnerability, and observables to expedite threat response and remediation.
--   **[[edit-email-records|Edit email records in Security Operations]]**  
+-   **[Edit email records in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/edit-email-records.md)**  
 Edit transforms in your existing email event records.
 
-**Parent Topic:**[[email-processing|Security Operations email processing]]
+**Parent Topic:**[Security Operations email processing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/email-processing.md)
 
 **Related topics**  
 
 
 [Create email parsers in Security Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/parsing-emails.md)
 
-[[enrichment-data-mapping|Security Operations enrichment data mapping]]
+[Security Operations enrichment data mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/enrichment-data-mapping.md)
 
-[[field-mapping|Security Operations field mapping]]
+[Security Operations field mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/field-mapping.md)
 
-## Related
-
-- [[parsing-emails|Create email parsers in Security Operations]]
-- [[edit-email-records|Edit email records in Security Operations]]
-- [[email-processing|Security Operations email processing]]
-- [[enrichment-data-mapping|Security Operations enrichment data mapping]]
-- [[field-mapping|Security Operations field mapping]]
-- [[security-operations-landing-page|Security Operations]]
-- [[tools|Tools]]
-- [[threat-intelligence-malware|Malware]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[vulnerabilities|Vulnerabilities]]
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]
-- [[vuln-landing-page|Vulnerability Response]]

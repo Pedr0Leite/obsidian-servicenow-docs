@@ -73,16 +73,16 @@ Role required: admin and Microsoft Azure portal administrator
 
 ## What to do next
 
-[[configure-jwt-provider|Configure a JWT provider]]
+[Configure a JWT provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-jwt-provider.md)
 
 -   **[Configure a JWT provider](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-jwt-provider.md)**  
-[[config-jwt-credential-flow|Configure a JWT provider]] on the ServiceNow AI Platform to configure an OAuth application profile to authenticate using certificates.
--   **[[generate-thumbprint|Generate a SHA-1 thumbprint]]**  
-[[generate-sha-1-thumbprint|Generate a SHA-1 thumbprint]] using the JWT provider's sys\_id and JKS certificate's sys\_id and certificate's alias to be added to the GraphCertificateOAuthTemplate script.
--   **[[oauth-api-script|Create an OAuth API script]]**  
+Configure a JWT provider on the ServiceNow AI Platform to configure an OAuth application profile to authenticate using certificates.
+-   **[Generate a SHA-1 thumbprint](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/generate-thumbprint.md)**  
+Generate a SHA-1 thumbprint using the JWT provider's sys\_id and JKS certificate's sys\_id and certificate's alias to be added to the GraphCertificateOAuthTemplate script.
+-   **[Create an OAuth API script](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/oauth-api-script.md)**  
 Create and duplicate an OAuth API script for application registry.
 
-**Parent Topic:**[[read-email-using-ms-graph|Reading email using Microsoft Graph]]
+**Parent Topic:**[Reading email using Microsoft Graph](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/read-email-using-ms-graph.md)
 
 **Related topics**  
 
@@ -91,11 +91,3 @@ Create and duplicate an OAuth API script for application registry.
 
 [Create an email account for Microsoft Graph \(receive\)]()
 
-## Related
-
-- [[configure-jwt-provider|Configure a JWT provider]]
-- [[generate-thumbprint|Generate a SHA-1 thumbprint]]
-- [[oauth-api-script|Create an OAuth API script]]
-- [[read-email-using-ms-graph|Reading email using Microsoft Graph]]
-- [[config-jwt-credential-flow|Configure a JWT provider]]
-- [[generate-sha-1-thumbprint|Generate a SHA-1 thumbprint]]

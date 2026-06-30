@@ -23,7 +23,7 @@ Role required: sn\_gf.goal\_admin
 
 ## About this task
 
-By default, the [[configure-goal-insights-generation-job|Goal insights generation job]] runs on the predefined set of goals using the goals filter criteria \(**Goal insights generation filter**\) in the system. If the predefined filter criteria doesn’t match goals set that you want to run the job, administrators must edit the predefined filter criteria to run the goal insights generation job on the specific set of goals as required.
+By default, the Goal insights generation job runs on the predefined set of goals using the goals filter criteria \(**Goal insights generation filter**\) in the system. If the predefined filter criteria doesn’t match goals set that you want to run the job, administrators must edit the predefined filter criteria to run the goal insights generation job on the specific set of goals as required.
 
 \[Omitted image "default-goals-set-for-goal-insights-generation.png"\] Alt text: Default goals set for goal insights generation.
 
@@ -58,6 +58,3 @@ The filter criteria is saved. The Goal insights generation job processes the goa
 
 Activate the Goal insights generation scheduled job to automatically generate AI-driven insights for a predefined set of goals at a scheduled frequency. For details, see [Activate and configure the Goal insights generation job](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown).
 
-## Related
-
-- [[configure-goal-insights-generation-job|Goal insights generation job]]

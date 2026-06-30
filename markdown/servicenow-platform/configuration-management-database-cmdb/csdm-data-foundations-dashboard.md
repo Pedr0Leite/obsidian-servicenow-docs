@@ -22,7 +22,7 @@ Use either of the following methods to open the dashboard:
 
 Navigate to **All** &gt; **Configuration**, and then select **CSDM Data Foundations Dashboard**.
 
-1.  In CMDB Workspace, navigate to **Workspaces** &gt; **[[sg-workspace|Service Graph Workspace]]** or**Workspaces** &gt; **CMDB Workspace**.
+1.  In CMDB Workspace, navigate to **Workspaces** &gt; **Service Graph Workspace** or**Workspaces** &gt; **CMDB Workspace**.
 2.  Select **Management** in the workspace menu bar.
 3.  Select **CSDM Data Foundations Dashboard** in the Optimize section of the Management tools.
 
@@ -30,7 +30,7 @@ Select the change dashboard icon \(\[Omitted image "ChangeDashboard.png"\] Alt t
 
 ## Example
 
-The reports on each tab display the data metrics that are appropriate for the maturity of your organization's CSDM implementation stage \(foundation, crawl, walk, run, and fly\). A [[label|label]] on each report identifies the metric being displayed.
+The reports on each tab display the data metrics that are appropriate for the maturity of your organization's CSDM implementation stage \(foundation, crawl, walk, run, and fly\). A label on each report identifies the metric being displayed.
 
 In this example, a report on the **Run** tab indicates that several business service offerings don't have the required relationships to service instances . With this knowledge, Service owners can add the relationships to confirm that customer service agents get complete information on the impact of applications that are down.
 
@@ -57,7 +57,3 @@ For information on managing data collection for a metric that isn't needed or th
 
 [Monitor health in CSDM and CMDB Data Foundations Dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/csdm-cmdb-foundations-dashboards.md)
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[label|Label]]

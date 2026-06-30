@@ -15,13 +15,13 @@ breadcrumb: [Now Assist AI assets, Enable AI experiences]
 
 # Now Assist skills, agents, and agentic workflows on by default
 
-Starting with the Zurich Patch 4 release, some [[now-assist-skills|Now Assist skills]], agents, and agentic workflows are turned on by default.
+Starting with the Zurich Patch 4 release, some Now Assist skills, agents, and agentic workflows are turned on by default.
 
 **Important:** Some Now Assist skills, agents, and agentic workflows are turned on by default. The default behavior works as follows:
 
 -   **New customers**
 
-    When you install a [[platform-now-assist-landing|Now Assist]] product, designated skills, agents, or agentic workflows are turned on automatically.
+    When you install a Now Assist product, designated skills, agents, or agentic workflows are turned on automatically.
 
 -   **Existing customers who are upgrading \(starting with Australia Patch 4\)**
 
@@ -38,7 +38,7 @@ Starting with the Zurich Patch 4 release, some [[now-assist-skills|Now Assist sk
 
 **Note:** Some workflow skills support Now Assist functionality. Deactivating these skills may negatively impact some features.
 
-**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [[ai-native-sku-overview|ServiceNow product tiers]].
+**Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
 ## Now Assist AI assets that are on by default
 
@@ -218,7 +218,7 @@ Starting with the Zurich Patch 4 release, some [[now-assist-skills|Now Assist sk
 |[Analytics insights generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md)|December 11, 2025|
 |[Analytics query generation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/enable-query-generation.md)|December 11, 2025|
 |[Dashboard and visualization export](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-db-dv-now-assist-panel.md)|January 20, 2026|
-|[Now Assist Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-on-now-platform.md)|Skill|[[na-ai-agents|AI agents]]|December 11, 2025|
+|[Now Assist Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-on-now-platform.md)|Skill|[AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/na-ai-agents.md)|December 11, 2025|
 |[Conversational Help](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/conversational-help-skills.md)|December 11, 2025|
 |Custom skills|December 11, 2025|
 |[Extract information from documents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/now-assist-extract-information-from-documents.md)|April 09, 2026|
@@ -228,14 +228,6 @@ Starting with the Zurich Patch 4 release, some [[now-assist-skills|Now Assist sk
 |Now Assist Topics|December 11, 2025|
 |[Requester approval checklist](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-skills/service-portal-approval-checklist-skill.md)|February 5, 2026|
 |Subflows and actions|December 11, 2025|
-|[[platform-use-cases|Platform agentic workflows]]|Agentic workflow|[Error Analysis and Remediation workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/error-framework-daw.md)|June 11, 2026|
-|[[platform-ai-agents|Platform AI agents]]|Agent|[Error Analysis and Remediation agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/error-framework-daw.md)|June 11, 2026|
+|[Platform agentic workflows](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-use-cases.md)|Agentic workflow|[Error Analysis and Remediation workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/error-framework-daw.md)|June 11, 2026|
+|[Platform AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/platform-ai-agents.md)|Agent|[Error Analysis and Remediation agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/error-framework-daw.md)|June 11, 2026|
 
-## Related
-
-- [[ai-native-sku-overview|ServiceNow product tiers]]
-- [[na-ai-agents|Now Assist AI agents]]
-- [[platform-use-cases|Platform agentic workflows]]
-- [[platform-ai-agents|Platform AI agents]]
-- [[now-assist-skills|Now Assist skills]]
-- [[platform-now-assist-landing|Now Assist]]

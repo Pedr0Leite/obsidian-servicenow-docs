@@ -62,8 +62,5 @@ Year for which the inflation factor is applicable.
 </table>4.  Select **Submit**.
 
 
-**Parent Topic:**[[configuring-the-scope-3-dashboard|Configuring the Scope 3 dashboard]]
+**Parent Topic:**[Configuring the Scope 3 dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/configuring-the-scope-3-dashboard.md)
 
-## Related
-
-- [[configuring-the-scope-3-dashboard|Configuring the Scope 3 dashboard]]

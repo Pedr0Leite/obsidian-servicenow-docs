@@ -32,7 +32,7 @@ After activating the **Knowledge Article View** page route map, you can:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ServicePortal|Service Portal]]** &gt; **Page Route Maps**.
+1.  Navigate to **All** &gt; **Service Portal** &gt; **Page Route Maps**.
 
 2.  Open the **Knowledge Article View** record.
 
@@ -47,6 +47,3 @@ Your end users view knowledge articles in the Service Portal using the **kb\_art
 
 **Parent Topic:**[Upgrading Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/upgrading-service-portal.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]

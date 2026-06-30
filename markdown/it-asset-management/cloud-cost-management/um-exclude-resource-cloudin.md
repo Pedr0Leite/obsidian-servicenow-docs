@@ -14,7 +14,7 @@ breadcrumb: [Manage unused resources, Using Cloud Cost Management, Cloud Cost Ma
 
 # Exclude a resource from Unused resources analysis
 
-To ensure that a particular resource is not considered or recommended for [[um-cloudin|Unused resources]], add the resource to the Excluded Resources list. The system continues to collect cost and usage data but does not consider the resource for the processes of Unused resources.
+To ensure that a particular resource is not considered or recommended for Unused resources, add the resource to the Excluded Resources list. The system continues to collect cost and usage data but does not consider the resource for the processes of Unused resources.
 
 ## Before you begin
 
@@ -37,7 +37,7 @@ If either condition is met, the app sends an email notification to the owner of 
 
 ## Procedure
 
-1.  Navigate to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
+1.  Navigate to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Recommendations** &gt; **Unused resources**.
 
 2.  On the New, Declined, or Failed tabs, select the resources that you want to exclude from unused resources analysis.
 
@@ -53,7 +53,3 @@ If either condition is met, the app sends an email notification to the owner of 
 
 [Exclude a resource from all Cloud Cost Management reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/exclusion-list-add-to-cloudin.md)
 
-## Related
-
-- [[um-cloudin|Unused resources]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

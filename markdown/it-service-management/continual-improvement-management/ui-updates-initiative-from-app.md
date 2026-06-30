@@ -16,13 +16,13 @@ breadcrumb: [Reference, Continual Improvement Management, IT Service Management]
 
 UI changes display on the source application record and on the initiative record when you create an improvement initiative from an integrated application.
 
--   [[benchmarks-landing|Benchmarks]]
+-   Benchmarks
 
     |Benchmarks recommendation candidate|Improvement initiative|
     |-----------------------------------|----------------------|
     |**Create Improvement Initiative** related link is replaced by the **CIM number** related link once an improvement initiative is created.|Benchmarks recommendation KPI is added to the **Improvement KPI** field on the Goals tab.|
 
--   [[cf-coaching-landing|Coaching]]
+-   Coaching
 
     |Coaching opportunity|Improvement initiative|
     |--------------------|----------------------|
@@ -59,17 +59,17 @@ Demand record to which the improvement initiative is linked is added to the **So
     |------------|----------------------|
     |Improvement Initiatives related list is added that contains the improvement initiative \(CIM\) record.|Issue record to which the improvement initiative is linked is added to the **Source/Parent** field on the Details tab.|
 
--   [[c_IncidentManagement|Incident Management]]
+-   Incident Management
 
     |Incident record|Improvement initiative|
     |---------------|----------------------|
     |You must customize the Incident form to show the Improvement Initiatives related list that contains the improvement initiative \(CIM\) record.|Incident \(INC\) record is added to the **Source/Parent** field on the Details tab.|
 
--   [[c_ProblemManagement|Problem Management]]
+-   Problem Management
 
     |Problem record|Improvement initiative|
     |--------------|----------------------|
-    |You must customize the [[problem-form|Problem form]] to show the Improvement Initiatives related list that contains the improvement initiative \(CIM\) record.|Problem \(PRB\) record is added to the **Source/Parent** field on the Details tab.|
+    |You must customize the Problem form to show the Improvement Initiatives related list that contains the improvement initiative \(CIM\) record.|Problem \(PRB\) record is added to the **Source/Parent** field on the Details tab.|
 
     The following are the corresponding states of the Problem record and the Improvement Initiative.
 
@@ -88,10 +88,3 @@ Demand record to which the improvement initiative is linked is added to the **So
 
 **Parent Topic:**[Continual Improvement Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/continual-improvement-management/cim-reference.md)
 
-## Related
-
-- [[benchmarks-landing|Benchmarks]]
-- [[cf-coaching-landing|Coaching]]
-- [[c_IncidentManagement|Incident Management]]
-- [[c_ProblemManagement|Problem Management]]
-- [[problem-form|Problem form]]

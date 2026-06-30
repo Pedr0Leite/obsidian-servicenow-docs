@@ -22,7 +22,7 @@ Role required: sn\_wsd\_case.workplace\_agent
 
 ## About this task
 
-Workplace agent must open the case or task from **[[workplace-central-feat|Workplace Central]]** &gt; **Lists**. For mandatory assessments, agents must complete the assessment before they can close the case to one of the states in the **Close before** field.
+Workplace agent must open the case or task from **Workplace Central** &gt; **Lists**. For mandatory assessments, agents must complete the assessment before they can close the case to one of the states in the **Close before** field.
 
 ## Procedure
 
@@ -45,6 +45,3 @@ Workplace agent must open the case or task from **[[workplace-central-feat|Workp
 
 **Parent Topic:**[Smart Assessment for Workplace Case and Task](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-case-management/smart-assessment-for-workplace-case-and-task.md)
 
-## Related
-
-- [[workplace-central-feat|Workplace Central]]

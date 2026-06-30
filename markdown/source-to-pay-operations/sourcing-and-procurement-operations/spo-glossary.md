@@ -15,7 +15,7 @@ breadcrumb: [Reference, Sourcing and Procurement Operations, Finance and Supply 
 
 # Sourcing and Procurement Operations glossary
 
-Learn about the terms and concepts used in [[psm-overview|Sourcing and Procurement Operations]] \(SPO\).
+Learn about the terms and concepts used in Sourcing and Procurement Operations \(SPO\).
 
 Glossary terms are grouped alphabetically.
 
@@ -34,7 +34,7 @@ Glossary terms are grouped alphabetically.
 
 [Savings opportunity fields]()
 
-[Purchase requisition, [[purchase-order-table|purchase order]], and [[sourcing-request|sourcing request]] states]()
+[Purchase requisition, purchase order, and sourcing request states]()
 
 [SPO and ITAM data model mappings]()
 
@@ -48,7 +48,7 @@ A chronological log of all events, changes, and communications within a procurem
 
 ### approval
 
-The process where an authorized reviewer \(approver\) reviews and either accepts or rejects a [[purchase-requisition|purchase requisition]] before it can proceed to fulfillment. Approvals are based on defined thresholds and authority levels.
+The process where an authorized reviewer \(approver\) reviews and either accepts or rejects a purchase requisition before it can proceed to fulfillment. Approvals are based on defined thresholds and authority levels.
 
 ### approval duration
 
@@ -76,7 +76,7 @@ A system setting that determines the maximum purchase requisition amount that ca
 
 ### award
 
-The action of selecting a winning [[supplier|supplier]] after negotiation and quote evaluation. Awarding finalizes the supplier selection and initiates the purchase order creation workflow.
+The action of selecting a winning supplier after negotiation and quote evaluation. Awarding finalizes the supplier selection and initiates the purchase order creation workflow.
 
 ### awaiting response
 
@@ -90,7 +90,7 @@ A type of purchase order that spans a timeframe \(days, weeks, months, quarters,
 
 ### bundle
 
-A pre-configured group of multiple products and services sold as a single purchasable item with unified [[pricing|pricing]]. Bundles can contain individual products, services, or nested child bundles, and are treated as a single cart line item.
+A pre-configured group of multiple products and services sold as a single purchasable item with unified pricing. Bundles can contain individual products, services, or nested child bundles, and are treated as a single cart line item.
 
 ### bundle pricing
 
@@ -108,7 +108,7 @@ The action to reject and terminate a procurement activity such as a purchase ord
 
 ### capitalization policy
 
-A rule in Sourcing and Procurement Operations that defines the conditions under which a purchased item qualifies for automatic [[fixed-asset-creation|fixed asset creation]], triggering synchronization with the ERP system.
+A rule in Sourcing and Procurement Operations that defines the conditions under which a purchased item qualifies for automatic fixed asset creation, triggering synchronization with the ERP system.
 
 ### Case Management
 
@@ -148,7 +148,7 @@ Documentation field where fulfillers record their resolution details or comments
 
 ### confidence score
 
-A value on a savings opportunity record in Sourcing and Procurement Operations that reflects the AI agent's certainty in the estimated savings based on analyzed [[contracts|contracts]], spend, and supplier data.
+A value on a savings opportunity record in Sourcing and Procurement Operations that reflects the AI agent's certainty in the estimated savings based on analyzed contracts, spend, and supplier data.
 
 ### contract
 
@@ -192,7 +192,7 @@ The geographic or organizational destination for fulfillment of a purchase order
 
 ### email correspondence
 
-Records of email communications related to a procurement case or request, visible in the [[activity-stream|activity stream]] based on configuration.
+Records of email communications related to a procurement case or request, visible in the activity stream based on configuration.
 
 ### Employee Center
 
@@ -204,7 +204,7 @@ The backend financial system containing master data \(legal entities, accounts, 
 
 ### ERP source
 
-A configuration in Sourcing and Procurement Operations that links a [[legal-entity|legal entity]] to an external ERP system, determining the integration target for purchase orders, [[receipts|receipts]], and [[invoices|invoices]].
+A configuration in Sourcing and Procurement Operations that links a legal entity to an external ERP system, determining the integration target for purchase orders, receipts, and invoices.
 
 ### estimated subtotal
 
@@ -236,7 +236,7 @@ The process of delivering ordered products or providing ordered services to the 
 
 ### general ledger account
 
-A financial account used in Sourcing and Procurement Operations to categorize and track expenditure on [[purchase-lines|purchase lines]] for cost allocation and ERP integration.
+A financial account used in Sourcing and Procurement Operations to categorize and track expenditure on purchase lines for cost allocation and ERP integration.
 
 ### gross amount
 
@@ -256,7 +256,7 @@ The organizational arrangement of bundled items showing parent bundles containin
 
 ### interaction
 
-A record in Sourcing and Procurement Operations that logs procurement-related communication — such as a call, chat, email, or SMS — between a procurement specialist or live agent and a shopper or [[supplier-contact|supplier contact]].
+A record in Sourcing and Procurement Operations that logs procurement-related communication — such as a call, chat, email, or SMS — between a procurement specialist or live agent and a shopper or supplier contact.
 
 ### invoice line
 
@@ -266,11 +266,11 @@ A line on a supplier invoice in Sourcing and Procurement Operations that is matc
 
 ### ledger assignment rule
 
-A configuration in Sourcing and Procurement Operations that automatically populates general [[ledger-account|ledger account]] fields on a purchase line based on the product category, supplier product, and [[cost-center|cost center]].
+A configuration in Sourcing and Procurement Operations that automatically populates general ledger account fields on a purchase line based on the product category, supplier product, and cost center.
 
 ### legal entity
 
-An organizational unit in Sourcing and Procurement Operations that is linked to an [[erp-source|ERP source]] and used to determine the integration target for purchase orders, receipts, and invoices.
+An organizational unit in Sourcing and Procurement Operations that is linked to an ERP source and used to determine the integration target for purchase orders, receipts, and invoices.
 
 ### line item
 
@@ -298,7 +298,7 @@ Individual discussions with a supplier to track activities like pricing, product
 
 ### sourcing event
 
-A collective sourcing activity managing multi-supplier and multi-product [[negotiations|negotiations]], enabling streamlined tracking, supplier management, and decision-making.
+A collective sourcing activity managing multi-supplier and multi-product negotiations, enabling streamlined tracking, supplier management, and decision-making.
 
 ### Natural Language Understanding for SPO
 
@@ -312,7 +312,7 @@ An application that uses generative AI to summarize procurement-related records 
 
 ### off-catalog request
 
-A purchase request submitted in [[shopping-hub-overview|Shopping Hub]] for goods or services not listed in the product catalog, typically routed to a procurement specialist for sourcing.
+A purchase request submitted in Shopping Hub for goods or services not listed in the product catalog, typically routed to a procurement specialist for sourcing.
 
 ### order type
 
@@ -334,7 +334,7 @@ Dashboards and metrics to evaluate spend, efficiency, and team performance in So
 
 ### pipeline project
 
-A record in [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]] that tracks a sourcing initiative through its full lifecycle, consolidating [[negotiation-events|sourcing events]], negotiations, and contract management.
+A record in Sourcing Pipeline Management that tracks a sourcing initiative through its full lifecycle, consolidating sourcing events, negotiations, and contract management.
 
 ### playbooks for SPO
 
@@ -358,7 +358,7 @@ A dashboard that provides visual insights into team performance on procurement-r
 
 ### procurement specialist
 
-A user role in Sourcing and Procurement Operations who reviews sourcing requests and purchase requisitions, conducts negotiations, and manages procurement cases in the [[purch-order-mgmt-ws|Source-to-Pay Workspace]].
+A user role in Sourcing and Procurement Operations who reviews sourcing requests and purchase requisitions, conducts negotiations, and manages procurement cases in the Source-to-Pay Workspace.
 
 ### Procurement Strategy &amp; Ops Dashboard
 
@@ -382,7 +382,7 @@ A change request to an existing purchase order or requisition, handled through t
 
 ### purchase order
 
-A binding contract between a buyer and supplier that outlines item details, quantities, prices, discounts, [[payment-terms|payment terms]], delivery dates, and other conditions.
+A binding contract between a buyer and supplier that outlines item details, quantities, prices, discounts, payment terms, delivery dates, and other conditions.
 
 ### purchase order line
 
@@ -412,7 +412,7 @@ The evaluation process determining which suppliers meet organizational requireme
 
 ### Qualification Needed
 
-A sourcing status indicating [[supplier-qualification|supplier qualification]] is required before negotiation can proceed.
+A sourcing status indicating supplier qualification is required before negotiation can proceed.
 
 ### Qualified
 
@@ -520,7 +520,7 @@ The process of identifying, evaluating, and selecting suppliers to fulfill organ
 
 ### spend category
 
-A classification used in [[spo-spend-mgmt|Spend and Savings Management]] to group and track related expenditures, enabling category-level analysis, savings identification, and strategic sourcing decisions.
+A classification used in Spend and Savings Management to group and track related expenditures, enabling category-level analysis, savings identification, and strategic sourcing decisions.
 
 ### spend management
 
@@ -576,7 +576,7 @@ An AI-powered conversational chatbot that helps shoppers quickly find and purcha
 
 ### work item queue
 
-A queue in Sourcing and Procurement Operations that stores work items of a specific type for routing and assignment to procurement specialists via [[advanced-work-assignment|Advanced Work Assignment]].
+A queue in Sourcing and Procurement Operations that stores work items of a specific type for routing and assignment to procurement specialists via Advanced Work Assignment.
 
 ### Work Items
 
@@ -594,31 +594,3 @@ A feature in Sourcing and Procurement Operations that automatically assigns a pr
 
 The defined sequence of statuses, conditions, and actions that a procurement request progresses through from creation to completion.
 
-## Related
-
-- [[psm-overview|Sourcing and Procurement Operations]]
-- [[purchase-order-table|Purchase order]]
-- [[sourcing-request|Sourcing request]]
-- [[purchase-requisition|Purchase requisition]]
-- [[supplier|Supplier]]
-- [[pricing|Pricing]]
-- [[fixed-asset-creation|Fixed asset creation]]
-- [[contracts|Contracts]]
-- [[activity-stream|Activity stream]]
-- [[legal-entity|Legal entity]]
-- [[receipts|Receipts]]
-- [[invoices|Invoices]]
-- [[purchase-lines|Purchase lines]]
-- [[supplier-contact|Supplier contact]]
-- [[ledger-account|Ledger account]]
-- [[cost-center|Cost center]]
-- [[erp-source|ERP source]]
-- [[negotiations|Negotiations]]
-- [[shopping-hub-overview|Shopping Hub]]
-- [[spo-sourcing-pipeline-mgmt|Sourcing Pipeline Management]]
-- [[negotiation-events|Sourcing events]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[payment-terms|Payment terms]]
-- [[supplier-qualification|Supplier qualification]]
-- [[spo-spend-mgmt|Spend and Savings Management]]
-- [[advanced-work-assignment|advanced work assignment]]

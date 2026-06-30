@@ -20,7 +20,7 @@ Role required: admin
 
 ## About this task
 
-Much of the company information that you enter is [[onboarding-modals-reference|reference]] information that administrators can view. All users see the company logo and banner text. To see all company information, verify that you are in the **My Company** view.
+Much of the company information that you enter is reference information that administrators can view. All users see the company logo and banner text. To see all company information, verify that you are in the **My Company** view.
 
 \[Omitted image "MyCompanyView.png"\] Alt text: Select the My Company view
 
@@ -36,7 +36,7 @@ Much of the company information that you enter is [[onboarding-modals-reference|
 
 4.  To upload your company logo, select **Click to add** or **Update** beside **UI16 Banner Image**.
 
-    If you leave the banner image blank in [[c_UI16|Core UI]] \(UI16\), the system uses the image used in **System Properties** &gt; **Basic Configuration** &gt; **Banner image** \[glide.product.image\] as the default.
+    If you leave the banner image blank in Core UI \(UI16\), the system uses the image used in **System Properties** &gt; **Basic Configuration** &gt; **Banner image** \[glide.product.image\] as the default.
 
 5.  Click **Choose file** and select the file, and then click **OK**.
 
@@ -47,26 +47,16 @@ Much of the company information that you enter is [[onboarding-modals-reference|
 7.  Click **Update**.
 
 
--   **[[c_CustomizeTheBannerLogoLink|Banner logo link]]**  
+-   **[Banner logo link](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_CustomizeTheBannerLogoLink.md)**  
 Properties are available to control the URL and target frame used when clicking the banner logo.
--   **[[t_CustomizeTheLogoInSysProps|Customize the banner logo in Core UI]]**  
+-   **[Customize the banner logo in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/t_CustomizeTheLogoInSysProps.md)**  
 Use the **glide.product.image** and **glide.product.description** properties to change the banner logo and description in Core UI.
--   **[[customize-favicon|Customize the favicon]]**  
+-   **[Customize the favicon](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/customize-favicon.md)**  
 Use the **glide.product.icon** property to change the icon that appears in bookmarks and the browser address bar.
--   **[[c_ExamplesOfHowToModifyTheBanner|Examples of how to modify the banner]]**  
+-   **[Examples of how to modify the banner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ExamplesOfHowToModifyTheBanner.md)**  
 There are various ways that you can modify the banner on your instances.
--   **[[c_ModifyTheBanner|Modify the banner]]**  
+-   **[Modify the banner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_ModifyTheBanner.md)**  
 The banner is displayed at the top of the page and is rendered using certain system properties.
 
-**Parent Topic:**[[p_NavigationAndUIConfiguration|User interface configuration]]
+**Parent Topic:**[User interface configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/p_NavigationAndUIConfiguration.md)
 
-## Related
-
-- [[c_CustomizeTheBannerLogoLink|Banner logo link]]
-- [[t_CustomizeTheLogoInSysProps|Customize the banner logo in Core UI]]
-- [[customize-favicon|Customize the favicon]]
-- [[c_ExamplesOfHowToModifyTheBanner|Examples of how to modify the banner]]
-- [[c_ModifyTheBanner|Modify the banner]]
-- [[p_NavigationAndUIConfiguration|User interface configuration]]
-- [[onboarding-modals-reference|Reference]]
-- [[c_UI16|Core UI]]

@@ -18,13 +18,13 @@ You can create a purchase order. Purchase orders specify assets to order from a 
 
 ## Before you begin
 
-Role required: [[c_Procurement|procurement]]\_admin or procurement\_user
+Role required: procurement\_admin or procurement\_user
 
 ## About this task
 
 For example, an organization can create a purchase order to buy 20 laptop computers or 10 servers. Information on a purchase order enables physical and financial tracking of the assets that were ordered.
 
-You can also use a transfer order if an asset is already owned by an organization. A transfer order is used to internally transfer assets from one stockroom to another instead of purchasing the assets. For example, a company stockroom in New York has five laptops that are needed in Boston. You [[create-a-transfer-order|create a transfer order]] to move the laptops from the New York stockroom to the Boston stockroom.
+You can also use a transfer order if an asset is already owned by an organization. A transfer order is used to internally transfer assets from one stockroom to another instead of purchasing the assets. For example, a company stockroom in New York has five laptops that are needed in Boston. You create a transfer order to move the laptops from the New York stockroom to the Boston stockroom.
 
 After you create a purchase order, the **Receiving Slip** related list is available on the Purchase Order form. A receiving slip is created manually or automatically when the item is received. The **Receiving Slip** related list shows all receiving slips related to the purchase order. After a receiving slip is added to a purchase order, all fields on the purchase order record become read-only.
 
@@ -212,7 +212,7 @@ Received
 
 </td><td>
 
-The date and time at which the [[r_FollowAPurchaseOrderStatus|purchase order status]] changed to **Received**.
+The date and time at which the purchase order status changed to **Received**.
 
 </td></tr><tr><td>
 
@@ -263,11 +263,11 @@ The purchase order record and the purchase order line item record both contain t
 -   **[Cancel a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CancelAPurchaseOrder.md)**  
 You can cancel purchase orders with a status of **Requested**, **Ordered**, or **Pending Delivery**.
 -   **[Cancel a purchase order line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_CancelAPurchaseOrderLineItem.md)**  
-You can [[t_CancelAPurchaseOrder|cancel a purchase order]] line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
+You can cancel a purchase order line items with a status of **Requested**, **Ordered**, or **Pending Delivery**.
 -   **[Reorder a purchase order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ReorderAPurchaseOrder.md)**  
-You can [[t_ReorderAPurchaseOrder|reorder a purchase order]] that was canceled.
+You can reorder a purchase order that was canceled.
 -   **[Reorder a purchase order line item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/t_ReorderAPurchaseOrderLineItem.md)**  
-You can [[t_ReorderAPurchaseOrderLineItem|reorder a purchase order line item]] that was canceled.
+You can reorder a purchase order line item that was canceled.
 
 **Parent Topic:**[Procurement purchase order management for assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/procurement/c_UseProcurement.md)
 
@@ -284,11 +284,3 @@ You can [[t_ReorderAPurchaseOrderLineItem|reorder a purchase order line item]] t
 
 [Manage transfer orders](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/c_TransferOrders.md)
 
-## Related
-
-- [[c_Procurement|Procurement]]
-- [[create-a-transfer-order|Create a transfer order]]
-- [[r_FollowAPurchaseOrderStatus|Purchase order status]]
-- [[t_CancelAPurchaseOrder|Cancel a purchase order]]
-- [[t_ReorderAPurchaseOrder|Reorder a purchase order]]
-- [[t_ReorderAPurchaseOrderLineItem|Reorder a purchase order line item]]

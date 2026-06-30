@@ -63,7 +63,7 @@ A sample workflow for a non-disclosure agreement \(NDA\) contract request might 
 11. If an external storage is configured, the signed contract is stored in it and referenced in the contract repository.
 
 -   **[Submit a legal request for a non-disclosure agreement](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-submit-nda-request.md)**  
-[[snlc-submit-nda-request|Submit a legal request for a non-disclosure agreement]] \(NDA\) with third parties such as vendors, customers, or partners.
+Submit a legal request for a non-disclosure agreement \(NDA\) with third parties such as vendors, customers, or partners.
 -   **[Modify a non-disclosure agreement legal request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-modify-nda-req.md)**  
 As a requester, modify the legal request for a non-disclosure agreement \(NDA\).
 -   **[View and track non-disclosure agreement requests as a legal user](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-view-legal-req-details.md)**  
@@ -92,9 +92,5 @@ As a member of the legal contracts support team, work on the legal request. Uplo
 
 [View contract requests]()
 
-[Manage [[cncore-cmpro-landing-page|Contract Management Pro]] for Legal Service Delivery]()
+[Manage Contract Management Pro for Legal Service Delivery]()
 
-## Related
-
-- [[snlc-submit-nda-request|Submit a legal request for a non-disclosure agreement]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]

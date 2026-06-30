@@ -16,7 +16,7 @@ breadcrumb: [NLU vocabulary, Build and train your model, Model management, Natur
 
 Use ServiceNow® pre-built vocabulary for software and hardware terms so the system recognizes their multiple variations in utterances.
 
-Your [[nlu-landing|Natural Language Understanding]] models contain pre-built vocabulary settings you can use when adding an example utterance. The vocabulary provides definitions for software and hardware terms whether they're expressed in slang or professional usage. The vocabulary can also recognize product misspellings.
+Your Natural Language Understanding models contain pre-built vocabulary settings you can use when adding an example utterance. The vocabulary provides definitions for software and hardware terms whether they're expressed in slang or professional usage. The vocabulary can also recognize product misspellings.
 
 For example, for one of your example utterances, you enter `I need to order a Mac`. When the system recognizes a pre-built vocabulary item, the term has a blue line under it.
 
@@ -35,6 +35,3 @@ If you select the second option, enter a synonym for the word, and click **Confi
 
 If you select either of the two options and click **Ignore**, the blue line disappears and the word remains as it was previously.
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]

@@ -14,15 +14,12 @@ breadcrumb: [Enable communication channels, Configure, Customer Service Manageme
 
 You can configure an email channel to either create interactions or cases from incoming emails. Email Interaction creates interactions from emails. Email to Case automatically creates cases from emails. The setup process involves configuring email properties, defining flows, and setting up notifications.
 
--   **[[email-as-an-interaction|Email Interaction]]**
+-   **[Email Interaction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/email-as-an-interaction.md)**
 
     Email Interaction creates an interaction from customer email. It associates the email conversation between agent and the customer with the interaction record. If the customer request requires investigation and resolution, a case is created. Subsequently, email communication is tracked through the case record.
 
--   **[[email-to-case|Email to case]]**
+-   **[Email to case](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/email-to-case.md)**
 
     Email to Case creates cases from incoming customer emails to streamline issue tracking and resolution.
 
-## Related
 
-- [[email-as-an-interaction|Email Interaction]]
-- [[email-to-case|Email to case]]

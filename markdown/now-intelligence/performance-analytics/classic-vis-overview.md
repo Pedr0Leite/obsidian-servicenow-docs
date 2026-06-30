@@ -14,17 +14,17 @@ breadcrumb: [Platform Analytics]
 
 # Reporting, dashboards, and Performance Analytics in the Core UI
 
-Present analytics on Core UI dashboards through reports and [[c_Widgets|Performance Analytics widgets]]. Explore [[c_Indicators|Performance Analytics indicators]] on the [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]].
+Present analytics on Core UI dashboards through reports and Performance Analytics widgets. Explore Performance Analytics indicators on the Analytics Hub.
 
 ## Get started
 
 Visualizations in the Core UI tools include dashboards, reports, and analytics hubs. These visualizations empower administrators and other stakeholders to address statuses and correctly evaluate trends with real-time data.
 
-**Note:** For net new instances, reporting, dashboards, and Performance Analytics in the Core UI are replaced in the Australia release with [[par-workspace|Platform Analytics experience]] functionality:
+**Note:** For net new instances, reporting, dashboards, and Performance Analytics in the Core UI are replaced in the Australia release with Platform Analytics experience functionality:
 
--   [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
--   [[analytics-center-dashboards|Dashboards in Platform Analytics]]
--   [[interactive-filters-workspace|Filters in Platform Analytics]]
+-   [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md)
+-   [Dashboards in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-dashboards.md)
+-   [Filters in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/interactive-filters-workspace.md)
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
@@ -40,7 +40,7 @@ Visualizations in the Core UI tools include dashboards, reports, and analytics h
 
 </td></tr><tr><td>
 
-[Performance Analytics [[widgets|Widgets]] \[Omitted image "bus-anomaly-detection.svg"\] Alt text: Define visualizations for Key Performance Indicator scores to show the evolution of your data to share on dashboards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md)
+[Performance Analytics Widgets \[Omitted image "bus-anomaly-detection.svg"\] Alt text: Define visualizations for Key Performance Indicator scores to show the evolution of your data to share on dashboards.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/c_Widgets.md)
 
 </td><td>
 
@@ -51,7 +51,7 @@ Visualizations in the Core UI tools include dashboards, reports, and analytics h
 [Interactive Analysis\[Omitted image "bus-datasheet.svg"\] Alt text: Analyze the data in filtered columns on list views of table records.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/interactive-analysis.md)
 
 </td></tr></tbody>
-</table>## [[reporting-landing-page|Reporting]]
+</table>## Reporting
 
 Visualize table data to show the current state of information in your ServiceNow instance. Export the visualization or add it to a dashboard to share it with others.
 
@@ -65,7 +65,7 @@ Display multiple reports and Performance Analytics widgets on a single screen to
 
 ## Interactive filters
 
-[[c_HomepagePublishers|Interactive Filters]] allow you to filter all reports on a dashboard dynamically, without modifying the original reports.
+Interactive Filters allow you to filter all reports on a dashboard dynamically, without modifying the original reports.
 
 ## Analytics Hub
 
@@ -77,18 +77,5 @@ Analyze indicator scores by aggregating data, comparing scores, or viewing chang
 
 Dynamically analyze the data in a field across multiple records on a table. From the context menu of a table column, open an interface where you see bar and heatmap representations of the data in the field. Interactively select what values to group the data by and how to filter which data you analyze.
 
-\[Omitted image "interactive-analysis-p.png"\] Alt text: [[interactive-analysis|Interactive analysis]] with information panel option
+\[Omitted image "interactive-analysis-p.png"\] Alt text: Interactive analysis with information panel option
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[analytics-center-dashboards|Dashboards in Platform Analytics]]
-- [[interactive-filters-workspace|Filters in Platform Analytics]]
-- [[c_Widgets|Performance Analytics widgets]]
-- [[c_Indicators|Performance Analytics indicators]]
-- [[c_UsePerformanceAnalyticsScorecards|Analytics Hub]]
-- [[par-workspace|Platform Analytics experience]]
-- [[widgets|Widgets]]
-- [[reporting-landing-page|Reporting]]
-- [[c_HomepagePublishers|Interactive Filters]]
-- [[interactive-analysis|Interactive Analysis]]

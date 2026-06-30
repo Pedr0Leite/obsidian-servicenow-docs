@@ -12,7 +12,7 @@ breadcrumb: [Setting up configurable products, CPQ app, Configure, price, quote 
 
 # Set up a configurable product in a Salesforce-integrated environment
 
-Configure a Salesforce product to use external configuration with ServiceNow [[blueprints|blueprints]] when using current Salesforce Managed Package installations.
+Configure a Salesforce product to use external configuration with ServiceNow blueprints when using current Salesforce Managed Package installations.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 If your CPQ SF Managed Package was installed in June 2022 or later, follow these steps to associate a configurable product with a blueprint.
 
-**Note:** If your CPQ SF Managed Package was installed before June 2022, see [[cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment-older-managed-package|Set up a configurable product in legacy Salesforce environment]].
+**Note:** If your CPQ SF Managed Package was installed before June 2022, see [Set up a configurable product in legacy Salesforce environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment-older-managed-package.md).
 
 ## Procedure
 
@@ -46,13 +46,7 @@ If your CPQ SF Managed Package was installed in June 2022 or later, follow these
 **Related topics**  
 
 
-[[cpq-set-up-a-configurable-product-in-a-headless-environment|Set up a configurable product in a headless environment]]
+[Set up a configurable product in a headless environment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-set-up-a-configurable-product-in-a-headless-environment.md)
 
-[[blueprints_101|Set up blueprints]]
+[Set up blueprints](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/blueprints_101.md)
 
-## Related
-
-- [[cpq-set-up-a-configurable-product-in-a-salesforce-integrated-environment-older-managed-package|Set up a configurable product in legacy Salesforce environment]]
-- [[cpq-set-up-a-configurable-product-in-a-headless-environment|Set up a configurable product in a headless environment]]
-- [[blueprints_101|Set up blueprints]]
-- [[blueprints|Blueprints]]

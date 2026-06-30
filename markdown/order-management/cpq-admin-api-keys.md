@@ -22,7 +22,7 @@ For an introduction to CPQ admin API keys, view the following video:
 
 ## Admin API keys page
 
-To get to the Admin API Keys page in CPQ, click the arrow to expand the [[cpq-utilities|Utilities]] section in CPQ Admin. The Admin API Keys tab appears in the menu.
+To get to the Admin API Keys page in CPQ, click the arrow to expand the Utilities section in CPQ Admin. The Admin API Keys tab appears in the menu.
 
 \[Omitted image "cpq-apis-admin-keys-page.png"\] Alt text: Admin keys
 
@@ -46,8 +46,8 @@ Choose the permissions that fit your use case before clicking **Save**.
 \[Omitted image "cpq-apis-admin-permissions.png"\] Alt text: API key Permissions
 
 1.  Read \(required, default\): read-only access, typically for GET requests
-2.  Edit: create, read, update, and delete access for most objects, including [[fields|fields]] and [[rules_101|rules]]
-3.  Deploy: allows the deployment of [[blueprints|blueprints]] and access to deployment history
+2.  Edit: create, read, update, and delete access for most objects, including fields and rules
+3.  Deploy: allows the deployment of blueprints and access to deployment history
 4.  Bulk: allows importing and exporting data, such as managed tables, to and from CPQ
 5.  Admin: full permissions to all Admin functionality
 6.  End User Data: access to end user data APIs
@@ -94,12 +94,5 @@ When you use an admin API key, you use different endpoints to access the admin A
 
 [https://logikio.atlassian.net/wiki/spaces/CS/pages/1614479620/Setting+up+a+Google+IdP+JWT+Token+for+Headless+Admin+API+Authentication](https://logikio.atlassian.net/wiki/spaces/CS/pages/1614479620/Setting+up+a+Google+IdP+JWT+Token+for+Headless+Admin+API+Authentication)
 
-[[admin-apis-authentication-via-salesforce-connected-app|Admin APIs: Authentication using a Salesforce-connected app]]
+[Admin APIs: Authentication using a Salesforce-connected app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/admin-apis-authentication-via-salesforce-connected-app.md)
 
-## Related
-
-- [[admin-apis-authentication-via-salesforce-connected-app|admin apis authentication via salesforce connected app]]
-- [[cpq-utilities|Utilities]]
-- [[fields|Fields]]
-- [[rules_101|Rules]]
-- [[blueprints|Blueprints]]

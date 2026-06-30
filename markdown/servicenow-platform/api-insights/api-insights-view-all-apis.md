@@ -16,7 +16,7 @@ breadcrumb: [Manage API data, API Insights, Configuration Management Database \(
 
 Manage and monitor all APIs within your organization by reviewing their life cycle stages, identifying missing critical attributes, and accessing helpful resources to ensure proper API maintenance and governance.
 
-The All APIs page in the [[api-insights|API Insights]] workspace provides a comprehensive overview of all APIs within an organization ensuring that APIs are properly maintained and aligned with the organization's standards for interfaces, ownership, and product models.
+The All APIs page in the API Insights workspace provides a comprehensive overview of all APIs within an organization ensuring that APIs are properly maintained and aligned with the organization's standards for interfaces, ownership, and product models.
 
 \[Omitted image "api-insights-all-apis-page.png"\] Alt text: All APIs page to view APIs within your organization.
 
@@ -42,7 +42,7 @@ By default, the page displays the following data:
 
     -   **Exporting API data**
 
-        Export the APIs list as a PDF, CSV, JSON, or Microsoft Excel file by selecting **Export**, and then selecting the desired file format from the File Type list. You can either download the file to your local directory or [[email|email]] the file by selecting a value from the Delivery Type list. After making your selections, select **Export** to complete the process.
+        Export the APIs list as a PDF, CSV, JSON, or Microsoft Excel file by selecting **Export**, and then selecting the desired file format from the File Type list. You can either download the file to your local directory or email the file by selecting a value from the Delivery Type list. After making your selections, select **Export** to complete the process.
 
     -   **Refreshing the API data**
 
@@ -80,14 +80,10 @@ By default, the page displays the following data:
 
 -   **APIs missing data section**
 
-    Highlights the APIs missing key attributes like business context, [[enable-ownership-group|ownership groups]], product models, and design helping to identify issues in API governance. You can select the numeric value displayed in each card to identify and resolve issues with API data. See [Identifying and remediating missing API data in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-resolve-gaps.md).
+    Highlights the APIs missing key attributes like business context, ownership groups, product models, and design helping to identify issues in API governance. You can select the numeric value displayed in each card to identify and resolve issues with API data. See [Identifying and remediating missing API data in API Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/api-insights/api-insights-resolve-gaps.md).
 
 -   **Helpful resources**
 
     Contains quick links to product documentation, knowledge base articles, and community forums, providing easy access to additional resources for API management.
 
-## Related
 
-- [[api-insights|API Insights]]
-- [[email|Email]]
-- [[enable-ownership-group|Ownership groups]]

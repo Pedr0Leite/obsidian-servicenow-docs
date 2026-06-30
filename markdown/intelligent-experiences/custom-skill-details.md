@@ -15,7 +15,7 @@ breadcrumb: [Skills performance, Using Now Assist Analytics, Analyzing Now Assis
 
 Use the Custom skill details dashboard page to view usage and performance indicators of custom skills.
 
-The Custom skill details dashboard page contains indicators pertaining to a custom skill. The indicators provide insight into skill usage and performance. Select a skill from the Skills drop-down list to view the indicators. The drop-down lists both active and inactive skills. Each skill has a subtitle that identifies the skill family that it belongs to, for example, ITSM, HR, and so on. Use the date range filter to view skill usage and performance over a certain period. The date range filter selection applies to all visualizations on the page. See [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]] for information on the data and calculations behind each indicator.
+The Custom skill details dashboard page contains indicators pertaining to a custom skill. The indicators provide insight into skill usage and performance. Select a skill from the Skills drop-down list to view the indicators. The drop-down lists both active and inactive skills. Each skill has a subtitle that identifies the skill family that it belongs to, for example, ITSM, HR, and so on. Use the date range filter to view skill usage and performance over a certain period. The date range filter selection applies to all visualizations on the page. See [Now Assist Analytics dashboard indicator details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-analytics-dashboard-indicators.md) for information on the data and calculations behind each indicator.
 
 \[Omitted image "naa-custom-skill-details.png"\] Alt text: Custom skill details dashboard page.
 
@@ -44,7 +44,7 @@ The following indicators are common across all custom skills.
 
     \[Omitted image "naa-number-of-custom-skill-activated.png"\] Alt text: Number of custom skills activated indicator.
 
--   **Number of [[ai-prompts|prompts]] in active custom skills**
+-   **Number of prompts in active custom skills**
 
     This area of the dashboard shows the number of prompts in active custom skills in the selected date range.
 
@@ -76,7 +76,7 @@ The following indicators are common across all custom skills.
 
 -   **Skill engagement trend by products**
 
-    This area of the dashboard shows the skill usage across [[platform-now-assist-landing|Now Assist]] products in a bar chart for the selected date range. The visualization is interactive. Hover over the bars to see the number of times the skill was used in each of the products.
+    This area of the dashboard shows the skill usage across Now Assist products in a bar chart for the selected date range. The visualization is interactive. Hover over the bars to see the number of times the skill was used in each of the products.
 
     \[Omitted image "naa-skill-engagement-trend-by-products.png"\] Alt text: Skill engagement trend by products.
 
@@ -103,11 +103,5 @@ The following indicators are common across all custom skills.
     \[Omitted image "naa-skills-feedback.png"\] Alt text: Skills feedback indicator.
 
 
-**Parent Topic:**[[skill-usage|Skills performance]]
+**Parent Topic:**[Skills performance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/skill-usage.md)
 
-## Related
-
-- [[now-assist-analytics-dashboard-indicators|Now Assist Analytics dashboard indicator details]]
-- [[skill-usage|Skills performance]]
-- [[ai-prompts|Prompts]]
-- [[platform-now-assist-landing|Now Assist]]

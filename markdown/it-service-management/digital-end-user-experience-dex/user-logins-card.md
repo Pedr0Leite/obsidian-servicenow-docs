@@ -28,13 +28,10 @@ Some of the crucial information that the Access page offers are:
 |User profiles \(only for Windows\)|
 |Local path|Path to the device onboard storage or filesystem.|
 |Last used|Date and time when the device was last actively used or accessed for any operation or activity.|
-|SID|Unique alphanumeric identifier used to identify [[dex-workspace-devices-tab|devices]].|
+|SID|Unique alphanumeric identifier used to identify devices.|
 |Loaded|Indicates whether the device's operating system or software is successfully initialized or started.|
 
 To return to the main access page, see [Device details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/dex-workspace-user-details.md).
 
 **Parent Topic:**[Device details pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/digital-end-user-experience-dex/user-device-details-pages.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]

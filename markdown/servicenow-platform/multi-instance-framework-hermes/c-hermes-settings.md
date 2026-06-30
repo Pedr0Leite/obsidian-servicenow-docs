@@ -15,7 +15,7 @@ breadcrumb: [Explore, Hermes Messaging Service, Manage service capabilities, Ext
 
 # Hermes Settings page
 
-The Hermes Settings page is a centralized interface that enables Hermes administrators and maintenance users to monitor and control the configuration properties that govern the [[hermes-messaging-service|Hermes Messaging Service]].
+The Hermes Settings page is a centralized interface that enables Hermes administrators and maintenance users to monitor and control the configuration properties that govern the Hermes Messaging Service.
 
 Access to the Hermes Settings page is role-based. The page displays the configurable properties to authorized users, along with descriptions, default values, and validation rules that help avoid misconfiguration. All configuration changes are traceable through built-in audit logging.
 
@@ -59,6 +59,3 @@ The Hermes Messaging Service Settings page uses a Static Typed Wrapper approach 
 
 For information about viewing and modifying Hermes Messaging Service settings, see [Managing Hermes settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/multi-instance-framework-hermes/manage-hermes-settings.md).
 
-## Related
-
-- [[hermes-messaging-service|Hermes Messaging Service]]

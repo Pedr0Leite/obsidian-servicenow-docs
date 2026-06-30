@@ -15,7 +15,7 @@ breadcrumb: [Playbooks, Administer, Threat Intelligence Security Center, Securit
 
 # Activate the Threat Hunting Playbook
 
-By default, the [[tisc-threat-hunt-playbook|Threat Hunting playbook]] is deactivated. Activate it in Workflow Studio to initiate the playbook automatically for the applicable Case records.
+By default, the Threat Hunting playbook is deactivated. Activate it in Workflow Studio to initiate the playbook automatically for the applicable Case records.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Activate the playbook to initiate it for the applicable Case records.
 
 1.  Navigate to **All** &gt; **Workflow Studio**.
 
-2.  In **[[tisc-playbooks-admin|Playbooks]]**, open the **Threat Hunting** playbook.
+2.  In **Playbooks**, open the **Threat Hunting** playbook.
 
 3.  To test run the playbook, select **Test** and enter a case record.
 
@@ -43,7 +43,3 @@ Activate the playbook to initiate it for the applicable Case records.
 
 [Use the Threat Hunting Playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-use-threat-hunt-playbook.md)
 
-## Related
-
-- [[tisc-threat-hunt-playbook|Threat Hunting Playbook]]
-- [[tisc-playbooks-admin|Playbooks]]

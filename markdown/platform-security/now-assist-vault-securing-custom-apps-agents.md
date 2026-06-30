@@ -17,20 +17,20 @@ Use the securing custom apps with Vault agents agentic workflow to get recommend
 
 ## Securing custom apps with Vault agents agentic workflow overview
 
-When you [[configuring-now-assist-vault|install Now Assist for Vault]], this agentic workflow is turned on by default.
+When you install Now Assist for Vault, this agentic workflow is turned on by default.
 
 To modify the agentic workflow, [duplicate it](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/clone-aia-usecase.md), and adjust the settings according to your requirements.
 
 ## Secure custom apps
 
-Get [[data-classification|data classification]] and [[naai-data-protection|data protection]] recommendations for a custom application. The workflow requires that you have the sn\_vault\_console.vault\_console\_admin role and elevate to it.
+Get data classification and data protection recommendations for a custom application. The workflow requires that you have the sn\_vault\_console.vault\_console\_admin role and elevate to it.
 
 To access and configure the agentic workflow:
 
 1.  Navigate to **All** &gt; **AI Agent Studio** &gt; **Create and manage**.
 2.  Select **Securing custom apps with Vault agents**.
 
-**Note:** The securing custom apps with Vault agents agentic workflow is triggered automatically when you secure custom applications using [[vault-dashboard|ServiceNow Vault console dashboard]]. You can also invoke the agentic workflow manually in the Now Assist panel.
+**Note:** The securing custom apps with Vault agents agentic workflow is triggered automatically when you secure custom applications using ServiceNow Vault console dashboard. You can also invoke the agentic workflow manually in the Now Assist panel.
 
 ## AI agents used in the securing custom apps with Vault agents agentic workflow
 
@@ -50,20 +50,11 @@ Custom app recommendations agent
 
 Uses various tools to perform the following:-   Analyzes the table schema and its metadata.
 -   Uses the recommend column classifications skill to propose classifications for the data in the table.
--   Proposes available [[field-encryption|field encryption]] protection.
--   Proposes zero trust access and [[data-privacy-landing|data privacy]] protection.
+-   Proposes available field encryption protection.
+-   Proposes zero trust access and data privacy protection.
 
 </td></tr></tbody>
 </table>There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-**Parent Topic:**[[use-now-assist-vault-agentic-ai|Use agentic AI in Now Assist for Vault]]
+**Parent Topic:**[Use agentic AI in Now Assist for Vault](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/use-now-assist-vault-agentic-ai.md)
 
-## Related
-
-- [[use-now-assist-vault-agentic-ai|Use agentic AI in Now Assist for Vault]]
-- [[configuring-now-assist-vault|Install Now Assist for Vault]]
-- [[data-classification|Data Classification]]
-- [[naai-data-protection|Data protection]]
-- [[vault-dashboard|ServiceNow Vault console dashboard]]
-- [[field-encryption|Field Encryption]]
-- [[data-privacy-landing|Data Privacy]]

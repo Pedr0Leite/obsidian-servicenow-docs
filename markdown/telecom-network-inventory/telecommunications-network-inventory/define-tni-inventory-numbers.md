@@ -14,7 +14,7 @@ breadcrumb: [Inventory number allocation, Define inventory records, Use, Telecom
 
 # Define your inventory numbering
 
-Define the numbering for your virtual local area network \(VLAN\) or link aggregation group \(LAG\) connections in the [[telecom-network-inventory|Telecommunications Network Inventory]] application. By defining these inventory numbers, you can configure your network assets to activate a network connection.
+Define the numbering for your virtual local area network \(VLAN\) or link aggregation group \(LAG\) connections in the Telecommunications Network Inventory application. By defining these inventory numbers, you can configure your network assets to activate a network connection.
 
 ## Before you begin
 
@@ -22,19 +22,19 @@ Role required: sn\_ni\_core.inventory\_admin, sn\_ni\_core.inventory\_agent, sn\
 
 ## About this task
 
-The numbering that you define in this process creates VLAN and LAG number ranges, allowing for the assignment of numbers from those ranges to network connections and equipment ports. When you provision a network connection over an Ethernet network interface to fulfill a customer order, you create a VLAN interface to support your [[using-network-topology|network topology]]. You must assign a VLAN number from 1 through 4096 for this interface. You use this VLAN number to create an interface name so that you can activate the interface on the network.
+The numbering that you define in this process creates VLAN and LAG number ranges, allowing for the assignment of numbers from those ranges to network connections and equipment ports. When you provision a network connection over an Ethernet network interface to fulfill a customer order, you create a VLAN interface to support your network topology. You must assign a VLAN number from 1 through 4096 for this interface. You use this VLAN number to create an interface name so that you can activate the interface on the network.
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
-2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **[[inventory_number_allocation|Inventory Number Allocation]]** &gt; **Inventory Numbers**.
+2.  Select the list icon \(\[Omitted image "ni-workspace-list-icon.png"\] Alt text: List icon.\), and then go to **Inventory Number Allocation** &gt; **Inventory Numbers**.
 
 3.  Select **New**.
 
 4.  On the **Details** tab, fill in the general information for inventory numbering.
 
-    To learn more about the fields that are unique to the [[inventory-numbers-form|Inventory Numbers form]], see [Inventory Numbers form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-numbers-form.md).
+    To learn more about the fields that are unique to the Inventory Numbers form, see [Inventory Numbers form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/inventory-numbers-form.md).
 
 5.  To add the attachments, such as graphics or documents, select the attachment icon \(\[Omitted image "attachments-icon.png"\] Alt text: Attachment icon.\) in the right panel.
 
@@ -49,10 +49,3 @@ To update or delete an inventory number record, see [Update or delete a record o
 
 **Parent Topic:**[Inventory number allocation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/vlan_or_lag_number_management.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-network-topology|Network topology]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]
-- [[inventory_number_allocation|Inventory number allocation]]
-- [[inventory-numbers-form|Inventory Numbers form]]

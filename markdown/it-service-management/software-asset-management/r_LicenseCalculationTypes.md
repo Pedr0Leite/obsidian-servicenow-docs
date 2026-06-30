@@ -14,7 +14,7 @@ breadcrumb: [License calculations with the legacy Software Asset Management plug
 
 # License calculation types supported by the legacy Software Asset Management plugin
 
-Default license calculation types are available with the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+Default license calculation types are available with the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 These license types cannot be deleted.
 
@@ -60,9 +60,9 @@ By user
 
 </td><td>
 
--   **Number of installs per user**: The counter adds up the total license rights for all software license records of this model. It counts an installation when one software installation matches the discovery [[c_Models|models]] that are mapped to this software model for any hardware used by a user. It counts up to the specified amount. For that installation, the counter checks for a valid entitlement record on any of the software license records. Applies to software installation data and hardware configuration items.
+-   **Number of installs per user**: The counter adds up the total license rights for all software license records of this model. It counts an installation when one software installation matches the discovery models that are mapped to this software model for any hardware used by a user. It counts up to the specified amount. For that installation, the counter checks for a valid entitlement record on any of the software license records. Applies to software installation data and hardware configuration items.
 -   **Per named user**: The counter adds up the total license rights for all software license records of this model. It counts an installation when there is at least one software installation that matches the discovery models that are mapped to this software model for any hardware used by a unique user. For that installation, the counter checks for a valid entitlement record on any of the software license records. Applies to software installation data and hardware configuration items.
--   **No license needed \(User\)**: The counter adds up the total number of users of this model. It counts an installation when there is at least one software installation that matches the discovery models that are mapped to this software model for any hardware used by a unique user. It applies to software installation data and hardware configuration items. This license type is used for software installations where no license is required, such as open source [[dex-workspace-application-tab|applications]].
+-   **No license needed \(User\)**: The counter adds up the total number of users of this model. It counts an installation when there is at least one software installation that matches the discovery models that are mapped to this software model for any hardware used by a unique user. It applies to software installation data and hardware configuration items. This license type is used for software installations where no license is required, such as open source applications.
 
  To compare **Number of installs per user** and **Per named user**:
 
@@ -102,8 +102,3 @@ By Oracle install
 </td></tr></tbody>
 </table>**Parent Topic:**[License calculations with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_UseLicenseCalculations.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Models|Models]]
-- [[dex-workspace-application-tab|Applications]]

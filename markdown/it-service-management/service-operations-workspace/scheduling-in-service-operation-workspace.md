@@ -78,7 +78,7 @@ Drop-down to select either time-line view or calendar view. You must also decide
 
 </td></tr><tr><td>
 
-General [[settings-mobile|settings]]
+General settings
 
 </td><td>
 
@@ -143,6 +143,3 @@ Accept or reject absences requests, resolve gaps and conflicts by providing cove
 
 **Parent Topic:**[On-Call Scheduling in Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/on-call-scheduling-in-sow.md)
 
-## Related
-
-- [[settings-mobile|Settings]]

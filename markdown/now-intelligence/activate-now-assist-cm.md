@@ -24,11 +24,11 @@ The Now Assist context menu has two forms and each form uses AI skills different
 
 -   **Dashboard Summary**
 
-    The Dashboard Summary is added by default to [[par-workspace|Platform Analytics experience]] dashboards. The associated Now Assist dashboard summarization skill is selected by default.
+    The Dashboard Summary is added by default to Platform Analytics experience dashboards. The associated Now Assist dashboard summarization skill is selected by default.
 
 -   **Now Assist context menu dashboard element**
 
-    The Now Assist context menu can be used as a reusable configurable dashboard element with any valid dashboard AI skill. To enable the skills for the dashboard element, see [[configure-db-summarization-skill-nacm|Configure the Now Assist context menu in Now Assist Experiences]].
+    The Now Assist context menu can be used as a reusable configurable dashboard element with any valid dashboard AI skill. To enable the skills for the dashboard element, see [Configure the Now Assist context menu in Now Assist Experiences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-db-summarization-skill-nacm.md).
 
 
 **Note:** By default, every authenticated user has access to the Dashboard Summary. To limit access to the Dashboard Summary configure the role sn\_pa\_aia\_insights.summary\_user. To edit access to this role, the admin must be in the AI Dashboard Insights scope.
@@ -65,7 +65,3 @@ The Now Assist context menu has two forms and each form uses AI skills different
 
 [Use Now Assist context menu for custom skill deployment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/use-now-assist-context-menu-for-custom-skill-deployment.md)
 
-## Related
-
-- [[configure-db-summarization-skill-nacm|Configure the Now Assist context menu in Now Assist Experiences]]
-- [[par-workspace|Platform Analytics experience]]

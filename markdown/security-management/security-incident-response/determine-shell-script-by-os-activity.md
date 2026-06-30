@@ -44,10 +44,7 @@ The output variables contain data that can be used in subsequent activities.
 |--------|-----------|
 |processScript|ECC agent that gathers the running process.|
 |executionTemplate|Determines whether the script is run through a probe or using PowerShell.|
-|enrichmentMappingId|System identifier of the enrichment [[mapping-logrhythm|mapping]] used to transform the response data.|
+|enrichmentMappingId|System identifier of the enrichment mapping used to transform the response data.|
 
 **Parent Topic:**[Security Incident Response - Get Running Services workflow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/get-running-services-workflow.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

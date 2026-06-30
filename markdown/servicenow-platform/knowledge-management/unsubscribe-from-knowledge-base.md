@@ -22,7 +22,7 @@ Role required: knowledge
 
 ## About this task
 
-Users can unsubscribe from a knowledge base from either the [[knowledge-management|Knowledge Management]] v3 user interface or the Knowledge Management Service Portal.
+Users can unsubscribe from a knowledge base from either the Knowledge Management v3 user interface or the Knowledge Management Service Portal.
 
 **Note:** If you subscribe to an article and then subscribe to the knowledge base, unsubscribing from the knowledge base also unsubscribes you from the article.
 
@@ -39,6 +39,3 @@ Starting with the Washington DC release, the Knowledge Management v3 homepage \(
 
 **Parent Topic:**[Use knowledge subscriptions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/use-knowledge-subscriptions.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]

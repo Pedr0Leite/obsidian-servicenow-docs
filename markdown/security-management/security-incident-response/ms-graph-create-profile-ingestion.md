@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## Procedure
 
-1.  You can either pull the 5 most recent sample alerts or provide the unique alert IDs for the specific alerts that you want to use for your [[mapping-logrhythm|mapping]] experience.
+1.  You can either pull the 5 most recent sample alerts or provide the unique alert IDs for the specific alerts that you want to use for your mapping experience.
 
     From the **Ingestion Preference** list, select one of the following:
 
@@ -39,6 +39,3 @@ Role required: sn\_si.admin
 
 After you have fetched the sample data, the next step is map the alert fields to the security incident.
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure action buttons, Declarative actions, Administer, Configur
 
 # Configure modal background loading
 
-[[configure-onboarding-modals|Configure]] a modal to load large selections of records added to a related list in the background.
+Configure a modal to load large selections of records added to a related list in the background.
 
 ## Before you begin
 
@@ -89,6 +89,3 @@ After the records are added, a notification informs you that the records were ad
 
 \[Omitted image "y-mra-notification-3.png"\] Alt text: MRA notification 3
 
-## Related
-
-- [[configure-onboarding-modals|Configure]]

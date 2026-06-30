@@ -18,7 +18,7 @@ Automate your EJBCA ACME workflows by creating a routing policy that aligns with
 
 ## Before you begin
 
-Role required: [[r-discovery|discovery]]\_admin, Public Key infrastructure \(PKI\) admin, admin
+Role required: discovery\_admin, Public Key infrastructure \(PKI\) admin, admin
 
 ## About this task
 
@@ -30,7 +30,7 @@ Streamline your certificate life-cycle workflow by filling out a routing policy 
 
 2.  Select **New**.
 
-3.  On the [[certificate-routing-policy-field-values|Certificate Routing Policy form]], fill in the fields.
+3.  On the Certificate Routing Policy form, fill in the fields.
 
     For a description of the field values, see [Certificate routing policy form table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/certificate-routing-policy-form-table.md).
 
@@ -45,7 +45,3 @@ Navigate to **All** &gt; **Certificate Management** &gt; **Certificate Routing P
 
 By locating your routing policy on the Certificate Routing Policies page, you validate your EJBCA ACME Certificate routing policy.
 
-## Related
-
-- [[r-discovery|Discovery]]
-- [[certificate-routing-policy-field-values|Certificate Routing Policy form]]

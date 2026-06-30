@@ -24,7 +24,7 @@ Role required: sn\_si.analyst
 
 When you enable the Alarm initial updates option, the alarms are automatically updated in the LogRhythm comments with the initial alarm updates. Similarly, when you enable the Alarm closure updates option, the alarms are automatically closed in LogRhythm along with the SIR Closure Code and and closure comments.
 
-The LogRhythm alarm ID is connected to the ServiceNow AI Platform security incident ID throughout the course of the incident's life cycle. This correlation permits a simultaneous and automated security incident/alarm closure to occur. When the [[sir-landing-page|Security Incident Response]] \(SIR\) security incident record is closed, there is a comment posted in the alarm on the LogRhythm web console. This comment indicates that the alarm was closed out based on the closure of the ServiceNow AI Platform security incident. The incident number and a URL that links back to the security incident for reference are also included in the comment section in the LogRhythm alarm.
+The LogRhythm alarm ID is connected to the ServiceNow AI Platform security incident ID throughout the course of the incident's life cycle. This correlation permits a simultaneous and automated security incident/alarm closure to occur. When the Security Incident Response \(SIR\) security incident record is closed, there is a comment posted in the alarm on the LogRhythm web console. This comment indicates that the alarm was closed out based on the closure of the ServiceNow AI Platform security incident. The incident number and a URL that links back to the security incident for reference are also included in the comment section in the LogRhythm alarm.
 
 ## Procedure
 
@@ -99,6 +99,3 @@ If you do not see notes indicating the alarm has closed successfully in the secu
 
 **Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

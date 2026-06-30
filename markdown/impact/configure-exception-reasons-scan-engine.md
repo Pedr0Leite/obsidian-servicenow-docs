@@ -22,7 +22,7 @@ Role required: Scan Engine admin \(sn\_se.scan\_engine\_admin\)
 
 ## Procedure
 
-1.  Navigate to **[[impact-landing-page|Impact]]** &gt; **[[platform-health-idi|Platform Health]]** &gt; **Scan Engine** &gt; **Administration** &gt; **Properties** &gt; **Exception reasons**.
+1.  Navigate to **Impact** &gt; **Platform Health** &gt; **Scan Engine** &gt; **Administration** &gt; **Properties** &gt; **Exception reasons**.
 
     Configuration options for Exception Reasons displays.
 
@@ -71,7 +71,4 @@ Role required: Scan Engine admin \(sn\_se.scan\_engine\_admin\)
 
 11. Select **Save**.
 
-## Related
 
-- [[impact-landing-page|Impact]]
-- [[platform-health-idi|Platform Health]]

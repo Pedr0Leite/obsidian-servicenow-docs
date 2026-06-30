@@ -21,8 +21,5 @@ You can use the help manage enterprise asset requests agentic workflow to fulfil
 -   **[Manually fulfill enterprise asset requests by using the enterprise asset request flow](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/create-eam-assetrequest.md)**  
 Use the enterprise asset request flow to request, source, and deploy catalog items from the Service Catalog application.
 
-**Parent Topic:**[[it-asset-management|IT Asset Management]]
+**Parent Topic:**[IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/it-asset-management.md)
 
-## Related
-
-- [[it-asset-management|IT Asset Management]]

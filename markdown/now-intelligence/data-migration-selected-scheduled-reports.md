@@ -13,7 +13,7 @@ breadcrumb: [Migrate a selection of Core UI reports, Platform Analytics Migratio
 
 # Migrate a selection of scheduled Core UI reports
 
-Migrate a selection of scheduled reports to the [[par-workspace|Platform Analytics experience]] Scheduled export.
+Migrate a selection of scheduled reports to the Platform Analytics experience Scheduled export.
 
 ## Before you begin
 
@@ -21,7 +21,7 @@ Role required: report\_admin or report\_scheduler
 
 ## About this task
 
-The underlying reports in the scheduled export are migrated to the [[c_performanceAnalyticsAndReporting|Platform Analytics]] library. The original scheduled report is labeled Active=False.
+The underlying reports in the scheduled export are migrated to the Platform Analytics library. The original scheduled report is labeled Active=False.
 
 **Note:** You cannot use update sets to move the migrated material from a non-production instance to a production instance. Test the migration on the non-production instance and then use Migration Center functionality to migrate the production instance.
 
@@ -40,10 +40,5 @@ The underlying reports in the scheduled export are migrated to the [[c_performan
 
 ## What to do next
 
-Edit the migrated scheduled export as needed. For more information, see [[export-visualization-vd|Export a data visualization from the Visualization Designer]].
+Edit the migrated scheduled export as needed. For more information, see [Export a data visualization from the Visualization Designer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/export-visualization-vd.md).
 
-## Related
-
-- [[export-visualization-vd|Export a data visualization from the Visualization Designer]]
-- [[par-workspace|Platform Analytics experience]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing contextual search, Contextual search, Search administratio
 
 # Define email configuration for contextual search
 
-Define email [[clone-configurations-tab|configurations]] to allow the system to include search [[hs-results|results]] with an email [[notifications|notifications]].
+Define email configurations to allow the system to include search results with an email notifications.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ When Knowledge articles are associated with a record, those search results can b
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_ContextualSearch|Contextual Search]]** &gt; **Table Configuration**.
+1.  Navigate to **All** &gt; **Contextual Search** &gt; **Table Configuration**.
 
 2.  In the Email Configurations related list, click **New**.
 
@@ -35,7 +35,7 @@ When Knowledge articles are associated with a record, those search results can b
     |Field|Description|
     |-----|-----------|
     |Email notification|Lookup icon \[Omitted image "look-up-icon.png"\] Alt text: Lookup icon to select a searcher to select an email notification to attach the search results. You can select only from the notifications that are on the same table as the table configuration record.|
-    |User field|A [[reference-email-admin|reference]] field that helps to narrow down on the search results. For example, if you select **Opened by**, the search results include only the articles that the **Opened by** user can access based on user criteria.|
+    |User field|A reference field that helps to narrow down on the search results. For example, if you select **Opened by**, the search results include only the articles that the **Opened by** user can access based on user criteria.|
     |Application|Application scope of the email configuration. The configuration is available for all applications or for scoped applications.|
     |Limit|Maximum number of search results returned.|
 
@@ -47,10 +47,3 @@ Contextual search results are included in email notifications that are sent to u
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[clone-configurations-tab|Configurations]]
-- [[hs-results|Results]]
-- [[notifications|Notifications]]
-- [[c_ContextualSearch|Contextual search]]
-- [[reference-email-admin|Reference]]

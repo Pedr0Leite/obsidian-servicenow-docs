@@ -14,7 +14,7 @@ breadcrumb: [Generate onboarding ramp-up plan, Use agentic workflows, Now Assist
 
 # Set Onboarding ramp up trigger to use Employee Center portal
 
-Set Onboarding ramp-up trigger to use [[employee-center-landing-page|Employee Center]] portal in the trigger configuration so the onboarding ramp-up plan workflow is accessible through the portal. Without setting the portal, the trigger will not be visible or usable in the Employee Center portal.
+Set Onboarding ramp-up trigger to use Employee Center portal in the trigger configuration so the onboarding ramp-up plan workflow is accessible through the portal. Without setting the portal, the trigger will not be visible or usable in the Employee Center portal.
 
 ## Before you begin
 
@@ -42,6 +42,4 @@ Role required: admin
 
 6.  Select **Update**.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

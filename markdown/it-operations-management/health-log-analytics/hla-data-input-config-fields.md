@@ -14,7 +14,7 @@ breadcrumb: [Health Log Analytics reference, Health Log Analytics, ITOM AIOps, I
 
 # Data input configuration fields
 
-This section provides descriptions of the fields on the [[hla-landing-page|Health Log Analytics]] data input configuration forms.
+This section provides descriptions of the fields on the Health Log Analytics data input configuration forms.
 
 -   **[Amazon CloudWatch data input configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-data-input-cloudwatch-ref.md)**  
 Description of the fields on the Amazon CloudWatch data input configuration form.
@@ -57,6 +57,3 @@ Description of the fields on the Vector Agent data input configuration form.
 
 **Parent Topic:**[Health Log Analytics reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/hla-reference.md)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

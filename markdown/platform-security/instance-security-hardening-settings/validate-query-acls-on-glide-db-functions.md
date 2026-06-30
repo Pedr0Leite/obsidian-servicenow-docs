@@ -14,7 +14,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 # Validate query ACLs on Glide DB functions \[New in Security Center 7.0\]
 
-Control whether [[query-acl-rule|query ACLs]] are applied to Glide DB functions using [[ca-system-properties|system properties]].
+Control whether query ACLs are applied to Glide DB functions using system properties.
 
 When the **glide.db.encoded\_query.check\_function\_field\_query\_acls** system property is set to **true**, query ACLs \(query\_range and query\_match\) are validated by default on these Glide DB functions:
 
@@ -40,7 +40,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[sc-configuration|Configuration]] name
+Configuration name
 
 </td><td>
 
@@ -116,7 +116,7 @@ Functional impact
 
 </td><td>
 
-[[users|Users]] may expect to see values from function fields but get blocked due to ACLs enforced on the function fields.
+Users may expect to see values from function fields but get blocked due to ACLs enforced on the function fields.
 
 </td></tr><tr><td>
 
@@ -131,9 +131,3 @@ None
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[query-acl-rule|Query ACLs]]
-- [[ca-system-properties|System properties]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]

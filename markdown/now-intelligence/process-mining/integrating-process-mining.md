@@ -14,7 +14,7 @@ breadcrumb: [Activate, Process Mining, Platform Analytics]
 
 # Integrating Process Mining
 
-Use [[process-mining|Process Mining]] throughout the continuous improvement life cycle to consistently and accurately analyze processes.
+Use Process Mining throughout the continuous improvement life cycle to consistently and accurately analyze processes.
 
 An administrator can integrate Process Mining with other ServiceNow applications such as Continual Improvement Management, Performance Analytics, ITSM, Customer Service Management, and Financial Services Operations.
 
@@ -32,16 +32,9 @@ Integrating with the ServiceNow® Continual Improvement Management application e
 -   **[Integration with Benchmarks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-itsm.md)**  
 Integrating with ITSM Benchmarks enables you to analyze processes relevant to your KPIs, and create and view associated incidents.
 -   **[Integration with indicator data sources \(PA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integrate-pa.md)**  
-[[use-process-mining|Using Process Mining]] with [[c_performanceAnalyticsAndReporting|Platform Analytics]] indicator data sources enables you to perform data extraction from an indicator and analyze processes associated with KPIs such as Time to resolve.
+Using Process Mining with Platform Analytics indicator data sources enables you to perform data extraction from an indicator and analyze processes associated with KPIs such as Time to resolve.
 -   **[Integration with Task Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/integration-taskmining.md)**  
-Use the [[task-mining|Task Mining]] integration to create Task Mining projects and run analyses directly from the [[analyst-workbench-overview|Process Mining Workspace]].
+Use the Task Mining integration to create Task Mining projects and run analyses directly from the Process Mining Workspace.
 
 **Parent Topic:**[Activating Process Mining](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/process-mining/activating-process-mining.md)
 
-## Related
-
-- [[process-mining|Process Mining]]
-- [[use-process-mining|Using Process Mining]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[task-mining|Task Mining]]
-- [[analyst-workbench-overview|Process Mining workspace]]

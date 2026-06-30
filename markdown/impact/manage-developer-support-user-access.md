@@ -16,7 +16,7 @@ Add designated users to enter a support case for Developer Support. The named co
 
 ## Before you begin
 
-Role required: [[impact-landing-page|Impact]] admin
+Role required: Impact admin
 
 ## Procedure
 
@@ -24,7 +24,7 @@ Role required: [[impact-landing-page|Impact]] admin
 
 2.  From the **Actions** menu, select **Update role/access**.
 
-    If the user is not listed in the table, create a new user. See [[ide-user-management|Manage Impact Delivery Instance users]] for details.
+    If the user is not listed in the table, create a new user. See [Manage Impact Delivery Instance users](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/impact/ide-user-management.md) for details.
 
 3.  Select the **Action** icon on the right of the user.
 
@@ -45,7 +45,3 @@ Review Developer Support access and how many users are available.
 2.  Select **Company profile** from the drop down.
 3.  Under Developer Support, you will see how many users are available.
 
-## Related
-
-- [[ide-user-management|Manage Impact Delivery Instance users]]
-- [[impact-landing-page|Impact]]

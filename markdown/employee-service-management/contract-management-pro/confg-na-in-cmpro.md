@@ -19,7 +19,7 @@ As an AI administrator for contracts, you can configure Now Assist in Contract M
 
 ## Before you begin
 
-Ensure that the application is in Global or [[cncore-now-assit-landing|Now Assist in Contract Management]] scope.
+Ensure that the application is in Global or Now Assist in Contract Management scope.
 
 Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 
@@ -27,7 +27,7 @@ Role required: sn\_cm\_gen\_ai.ai\_contract\_admin
 
 Use the Now Assist Admin console to configure Now Assist in Contract Management. The console contains everything that you need to configure the Now Assist skills. For more information, see [Overview tab in Now Assist Admin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configuring-now-assist.md).
 
-The following skills are available for [[cncore-cmpro-landing-page|Contract Management Pro]] in the Now Assist Admin console:
+The following skills are available for Contract Management Pro in the Now Assist Admin console:
 
 -   Contract metadata extraction
 -   Contract obligation extraction
@@ -51,11 +51,11 @@ You can use Now LLM Service, Now LLM Long Term Stable models \(LTS\), Azure Open
 
 5.  In the skill guided setup, configure the use cases and other mappings for the skill.
 
-    For more information on [[cncore-conf-metadata-extraction|configuring contract metadata extraction]], see [Configuring contract metadata extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md).
+    For more information on configuring contract metadata extraction, see [Configuring contract metadata extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md).
 
-    For more information on [[cncore-conf-obligation-extraction|configuring contract obligation extraction]], see [Configuring contract obligation extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-obligation-extraction.md).
+    For more information on configuring contract obligation extraction, see [Configuring contract obligation extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-obligation-extraction.md).
 
-    For more information on [[cmpro-conf-contract-analysis|configuring contract analysis]], see [Configuring contract analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-contract-analysis.md).
+    For more information on configuring contract analysis, see [Configuring contract analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-contract-analysis.md).
 
 6.  In the Define access page, select the roles to specify who can access the skills.
 
@@ -82,7 +82,7 @@ Select a large language model \(LLM\) provider for a contract analysis or metada
 -   **[Configuring contract metadata extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-metadata-extraction.md)**  
 Configure system properties and use cases for metadata extraction so that a contract manager can use Now Assist to extract metadata from a contract and add the extracted information to the contract repository.
 -   **[Configuring contract analysis](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-contract-analysis.md)**  
-Configure use cases with associated field groups and fields, and map them to clauses and expected responses. Now Assist uses the applicable use case to [[cmpro-analyze-contract-doc|analyze a contract document]] and identify non-standard and missing clauses.
+Configure use cases with associated field groups and fields, and map them to clauses and expected responses. Now Assist uses the applicable use case to analyze a contract document and identify non-standard and missing clauses.
 -   **[Configuring contract obligation extraction](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-conf-obligation-extraction.md)**  
 Configure and map use cases for the contract obligation extraction skill in the Now Assist Admin console to automatically extract key contractual obligations from signed contracts.
 -   **[Configuring agentic workflows in Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cmpro-conf-agentic-workflow.md)**  
@@ -92,11 +92,3 @@ If you are upgrading to Now Assist in Contract Management from Yokohama \(Patch 
 
 **Parent Topic:**[Now Assist in Contract Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-now-assit-landing.md)
 
-## Related
-
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]
-- [[cncore-cmpro-landing-page|Contract Management Pro]]
-- [[cncore-conf-metadata-extraction|Configuring contract metadata extraction]]
-- [[cncore-conf-obligation-extraction|Configuring contract obligation extraction]]
-- [[cmpro-conf-contract-analysis|Configuring contract analysis]]
-- [[cmpro-analyze-contract-doc|Analyze a contract document]]

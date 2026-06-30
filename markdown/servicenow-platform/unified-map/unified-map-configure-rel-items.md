@@ -14,7 +14,7 @@ breadcrumb: [View related items, Use, Unified Map, Configuration Management Data
 
 # Configure the Related items panel
 
-Configure which categories of related items, such as active incidents and active problems, appear on the [[cmdb-workspace-unified-map|Unified Map]] **Related items** panel.
+Configure which categories of related items, such as active incidents and active problems, appear on the Unified Map **Related items** panel.
 
 ## Before you begin
 
@@ -41,6 +41,4 @@ The Related items panel groups related items by category on the side panel. Admi
 
     When you select a CI on the map, the desired related item categories appear.
 
-## Related
 
-- [[cmdb-workspace-unified-map|Unified Map]]

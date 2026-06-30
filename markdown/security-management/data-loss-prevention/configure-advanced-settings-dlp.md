@@ -25,7 +25,7 @@ Role required:
 
 ## About this task
 
-Configure the advanced settings on the [[dlp-landing|Data Loss Prevention Incident Response]] to customize the details to display for an incident or control the duration to identify a repeat offender.
+Configure the advanced settings on the Data Loss Prevention Incident Response to customize the details to display for an incident or control the duration to identify a repeat offender.
 
 ## Procedure
 
@@ -268,6 +268,3 @@ Option to select how long, in minutes, the system keeps your evidence files befo
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

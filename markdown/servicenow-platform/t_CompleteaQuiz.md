@@ -12,7 +12,7 @@ breadcrumb: [Using Quizzes, Quizzes, Assessments and Surveys, Exploring Service 
 
 # Take a quiz
 
-All available [[c_Quizzes|quizzes]] assigned to you appear in your personal assessment and survey queue. When you submit a quiz, the system stores your responses. If a quiz allows retakes, you can resubmit it as many times as you like until its due date.
+All available quizzes assigned to you appear in your personal assessment and survey queue. When you submit a quiz, the system stores your responses. If a quiz allows retakes, you can resubmit it as many times as you like until its due date.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 No special role is required to complete a quiz, but you must be logged in and the quiz must be assigned to you.
 
-If configured to send [[email|email]], the system sends you a notification when a quiz is assigned to you. The message contains a link to the quiz and instructions for viewing the assessment and survey queue.
+If configured to send email, the system sends you a notification when a quiz is assigned to you. The message contains a link to the quiz and instructions for viewing the assessment and survey queue.
 
 Each quiz assigned to you appears in your assessment and survey queue as a card that contains information about the quiz, including a launch button. Overdue quizzes are marked with a red icon and red due date.
 
@@ -32,7 +32,7 @@ By default, you cannot modify your answers to a quiz after submission. However, 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[self-service-landing|Self-Service]]** &gt; **My [[r_Assessments|Assessments]] &amp; [[r_SurveyManagementLandingPage|Surveys]]**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **My Assessments &amp; Surveys**.
 
 2.  Click **Take Quiz** on a quiz card to open the questionnaire.
 
@@ -48,7 +48,7 @@ By default, you cannot modify your answers to a quiz after submission. However, 
 
 5.  When you are ready to submit the completed quiz, read any assertions that require your attention.
 
-6.  If present, select the [[check-box|check box]] to acknowledge the assertion.
+6.  If present, select the check box to acknowledge the assertion.
 
     **Note:** If your full name is displayed, you are required to provide authentication to acknowledge the assertion after you submit the quiz.
 
@@ -65,14 +65,5 @@ By default, you cannot modify your answers to a quiz after submission. However, 
     You can modify your responses to the quiz until its due date.
 
 
-**Parent Topic:**[[using-quizzes|Using Quizzes]]
+**Parent Topic:**[Using Quizzes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/using-quizzes.md)
 
-## Related
-
-- [[using-quizzes|Using Quizzes]]
-- [[c_Quizzes|Quizzes]]
-- [[email|Email]]
-- [[self-service-landing|Self-service]]
-- [[r_Assessments|Assessments]]
-- [[r_SurveyManagementLandingPage|Surveys]]
-- [[check-box|Check box]]

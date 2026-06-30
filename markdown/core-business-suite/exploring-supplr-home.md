@@ -13,7 +13,7 @@ breadcrumb: [Core Business Suite]
 
 # Exploring supplier support
 
-Explore the home page for the supplier requester persona along with the associated functionalities available with [[cbs-landing|Core Business Suite]].
+Explore the home page for the supplier requester persona along with the associated functionalities available with Core Business Suite.
 
 ## Core Business Suite supplier support overview
 
@@ -53,11 +53,6 @@ Manually assigned to users by the admin who has access to the Supplier Collabora
 To learn more about configuring and using Core Business Suite, see:
 
 -   
--   [[cbs-using-parent|Using Core Business Suite]]
--   [[cbs-reference-parent|Core Business Suite reference]]
+-   [Using Core Business Suite](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-using-parent.md)
+-   [Core Business Suite reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/core-business-suite/cbs-reference-parent.md)
 
-## Related
-
-- [[cbs-using-parent|Using Core Business Suite]]
-- [[cbs-reference-parent|Core Business Suite reference]]
-- [[cbs-landing|Core Business Suite]]

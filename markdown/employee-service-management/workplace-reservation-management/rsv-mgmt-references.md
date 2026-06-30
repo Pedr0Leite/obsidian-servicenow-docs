@@ -14,7 +14,7 @@ breadcrumb: [Workplace Reservation Management, Workplace Service Delivery, Emplo
 
 # Workplace Reservation Management references
 
-Learn more about the role, tables and system properties installed with the [[workplace-rsv-mgmt-feat|Workplace Reservation Management]] application.
+Learn more about the role, tables and system properties installed with the Workplace Reservation Management application.
 
 -   **[Components installed with Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/components-installed-with-wsd-reservation-mgmt.md)**  
 Several types of components are installed with activation of the Workplace Reservation Management application, including tables, user roles, and business rules.
@@ -29,13 +29,9 @@ While selecting a reservable module from the Space details page, system identifi
 -   **[Mobile push notifications for workplace reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-push-notifications.md)**  
 As a workplace admin, you can configure push notifications that you want to send to an employee on their mobile devices to alert them about important events and enable them to perform an action.
 -   **[Location privacy settings and impact](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/location-privacy-settings-and-impact.md)**  
-Set location privacy on workplace reservations and workplace profiles in your organization. Implement privacy throughout the organization or only on a building using the [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] location privacy settings.
+Set location privacy on workplace reservations and workplace profiles in your organization. Implement privacy throughout the organization or only on a building using the Workplace Service Delivery location privacy settings.
 -   **[Additional details record producer - Mapping Variable types and limitations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/custom-fields-record-producer-mapping-variable-type-conditions.md)**  
 When you create a record producer to configure additional details on a reservation form, the variables types and column type must be set differently. In case of reservations, the record producer supports only a few UI policies and client scripts.
 
 **Parent Topic:**[Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/workplace-rsv-mgmt-feat.md)
 
-## Related
-
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

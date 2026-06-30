@@ -17,12 +17,9 @@ breadcrumb: [Flow-based Playbooks, Security Incident Response playbooks, Playboo
 This playbook provides systematic remediation steps to investigate Spoofed Emails, which get triggered when spoofed names for emails are sent to the organization's employees.
 
 -   **[Set up the Spoofed Emails playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-setup-spoofed-emails.md)**  
-Use the following steps to [[playbook-setup-spoofed-emails|set up the Spoofed Emails playbook]].
+Use the following steps to set up the Spoofed Emails playbook.
 -   **[Use the Spoofed Emails \(using the same Display name\) playbook](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-using-spoofed-emails.md)**  
 Use this playbook to investigate Spoofed Emails, which get triggered when spoofed names for emails are sent to the organization's employees. The following steps give you a walkthrough of the actions, tasks, and subflows that are available in the Spoofed Emails \(using the same Display name\) playbook.
 
 **Parent Topic:**[Flow-based Playbooks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/playbook-flow-based.md)
 
-## Related
-
-- [[playbook-setup-spoofed-emails|Set up the Spoofed Emails playbook]]

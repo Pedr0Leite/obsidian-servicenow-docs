@@ -26,7 +26,7 @@ You can specify granularity to the hour, day, week, month, quarter, or year. For
 
 ## Procedure
 
-1.  In the [[c_ConditionBuilder|condition builder]], create a new condition.
+1.  In the condition builder, create a new condition.
 
 2.  Select a date field from the left operand choice list.
 
@@ -50,9 +50,5 @@ You can specify granularity to the hour, day, week, month, quarter, or year. For
 6.  Click **Run**.
 
 
-**Parent Topic:**[[r_ComparingFieldValues|Comparing field values]]
+**Parent Topic:**[Comparing field values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/r_ComparingFieldValues.md)
 
-## Related
-
-- [[r_ComparingFieldValues|Comparing field values]]
-- [[c_ConditionBuilder|Condition builder]]

@@ -682,7 +682,7 @@ Network Address
 
 </td><td>
 
-AWS Elastic [[ip-address|IP Address]]
+AWS Elastic IP Address
 
 </td><td rowspan="5">
 
@@ -858,7 +858,3 @@ Azure ACI Container
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ip-address|IP Address]]

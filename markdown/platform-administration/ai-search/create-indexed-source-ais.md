@@ -14,7 +14,7 @@ breadcrumb: [Indexed sources, Configuring AI Search, AI Search, Search administr
 
 # Create an indexed source
 
-Define an indexed source to make content and metadata from ServiceNow AI Platform® table records searchable using [[ia-ai-search|AI Search]].
+Define an indexed source to make content and metadata from ServiceNow AI Platform® table records searchable using AI Search.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ By default, AI Search indexes alphanumeric content and metadata from all text an
 
 2.  Select **New**.
 
-3.  On the [[indexed-source-form-ais|Indexed Source form]], fill in the fields.
+3.  On the Indexed Source form, fill in the fields.
 
     For a description of the field values, see [Indexed Source form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-source-form-ais.md).
 
@@ -50,7 +50,7 @@ By default, AI Search indexes alphanumeric content and metadata from all text an
 
     1.  In the Child Tables related list, select **New**.
 
-    2.  On the [[child-table-form-ais|Child Table form]], fill in the fields.
+    2.  On the Child Table form, fill in the fields.
 
         For a description of the field values, see [Child Table form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/child-table-form-ais.md).
 
@@ -67,8 +67,3 @@ To make content from source records searchable, perform a full table index for y
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[indexed-source-form-ais|Indexed Source form]]
-- [[child-table-form-ais|Child Table form]]

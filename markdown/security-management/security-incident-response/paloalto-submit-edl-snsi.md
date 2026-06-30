@@ -14,7 +14,7 @@ breadcrumb: [Palo Alto Networks Next-Generation Firewall integration, Security I
 
 # Submit EDL entries from a security incident record for Palo Alto Networks Next-Generation Firewall
 
-[[c_Observables|Observables]] attached to a security incident record are submitted for approval as External Dynamic List \(EDL\) entries to EDLs. An approval process for EDL entries is part of the preconfigured workflow. The firewall imports EDL entries — IP addresses, URLs, domains — that are included in EDL lists and enforces policy.
+Observables attached to a security incident record are submitted for approval as External Dynamic List \(EDL\) entries to EDLs. An approval process for EDL entries is part of the preconfigured workflow. The firewall imports EDL entries — IP addresses, URLs, domains — that are included in EDL lists and enforces policy.
 
 ## Before you begin
 
@@ -48,7 +48,7 @@ Users with the sn\_si.analyst role submit EDL entries by requesting a block on o
 
     The icon next to the `Observable` field is a link to the ServiceNow AI Platform® Observable table.
 
-    The value in the `Observable` field \(`http://mail.dgtnetworks.com`\) links to the Observable table, and it matches the format that was brought over from the [[sir-landing-page|Security Incident Response]] incident-triggering event.
+    The value in the `Observable` field \(`http://mail.dgtnetworks.com`\) links to the Observable table, and it matches the format that was brought over from the Security Incident Response incident-triggering event.
 
     The ServiceNow AI Platform® may automatically modify EDL entries so that they are compatible with the Palo Alto Networks EDL URL format.
 
@@ -70,7 +70,3 @@ Approve EDL entries.
 
 [EDL entry exceptions for Palo Alto Networks Next-Generation Firewall](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/paloalto-edl-execptions.md)
 
-## Related
-
-- [[c_Observables|Observables]]
-- [[sir-landing-page|Security Incident Response]]

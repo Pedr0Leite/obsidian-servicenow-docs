@@ -15,14 +15,10 @@ breadcrumb: [Now Assist for ITOM, IT Operations Management]
 
 # Now Assist for ITOM reference
 
-Reference topics provide additional information for configuring and using the [[now-assist-itom|Now Assist for ITOM]] application.
+Reference topics provide additional information for configuring and using the Now Assist for ITOM application.
 
 -   **[Applications installed with Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/app-now-assist-itom.md)**  
-Table that lists applications installed with the Now Assist for [[r_ITOMApplications|IT Operations Management]] \(ITOM\) application. When you update your application, any newly required application dependencies are installed.
+Table that lists applications installed with the Now Assist for IT Operations Management \(ITOM\) application. When you update your application, any newly required application dependencies are installed.
 
 **Parent Topic:**[Now Assist for ITOM](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/now-assist-for-it-operations-management/now-assist-itom.md)
 
-## Related
-
-- [[now-assist-itom|Now Assist for ITOM]]
-- [[r_ITOMApplications|IT Operations Management]]

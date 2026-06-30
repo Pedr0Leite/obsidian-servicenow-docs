@@ -16,11 +16,11 @@ breadcrumb: [Reporting, Reporting, dashboards, and Performance Analytics in the 
 
 ServiceNow reports are visualizations of your data that you can share with users on dashboards and service portals, export to PDF, and email. Learn how to create, run, edit, view, and share reports.
 
-**Note:** On net new Australia instances and instances migrated to [[par-workspace|Platform Analytics experience]], [[reporting-landing-page|Reporting]] functionality is replaced with Data Visualizations. For more information, see [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]].
+**Note:** On net new Australia instances and instances migrated to Platform Analytics experience, Reporting functionality is replaced with Data Visualizations. For more information, see [Data visualizations in Platform Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/analytics-center-data-visualizations.md).
 
 Core UI Reporting functionality is in maintenance mode and is no longer being augmented or changed. Only security fixes to this feature will be addressed.
 
-To administer reports, [[reporting-roles|reporting roles]], and [[c_ReportSources|report sources]], navigate to **Reports** &gt; **Administration** and select the area to administer.
+To administer reports, reporting roles, and report sources, navigate to **Reports** &gt; **Administration** and select the area to administer.
 
 The ServiceNow system includes a range of predefined reports that provide data on applications and features like incident management and service catalog requests. You can also create your own reports. Add reports on dashboards and landing pages to share information across your organization.
 
@@ -35,7 +35,7 @@ Users who cannot create their own global reports can modify a global report, and
 -   **[Delete a report](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/delete-report.md)**  
 Delete Core UI reports that are no longer used.
 -   **[Distribute reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_DistributeReports.md)**  
-[[c_DistributeReports|Distribute reports]] to provide business information to other users.
+Distribute reports to provide business information to other users.
 -   **[Reports on Service Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/service-portal-reporting-widget.md)**  
 Show existing reports in a Service Portal.
 
@@ -46,11 +46,3 @@ Show existing reports in a Service Portal.
 
 [Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[analytics-center-data-visualizations|Data visualizations in Platform Analytics]]
-- [[par-workspace|Platform Analytics experience]]
-- [[reporting-landing-page|Reporting]]
-- [[reporting-roles|Reporting roles]]
-- [[c_ReportSources|Report sources]]
-- [[c_DistributeReports|Distribute reports]]

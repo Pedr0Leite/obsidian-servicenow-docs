@@ -14,7 +14,7 @@ breadcrumb: [Port probes, List of Discovery probes, Discovery probes and sensors
 
 # Configure Shazzam probe
 
-When you run [[r-discovery|Discovery]], the Shazzam probe finds your active network devices by scanning specified ports on specified IP address ranges. If the list of IP ranges being scanned is large, you can configure the Shazzam payload for JSON encoding to reduce its size.
+When you run Discovery, the Shazzam probe finds your active network devices by scanning specified ports on specified IP address ranges. If the list of IP ranges being scanned is large, you can configure the Shazzam payload for JSON encoding to reduce its size.
 
 ## Before you begin
 
@@ -227,6 +227,4 @@ This property is set to `false` in upgraded instances and is not visible by defa
     -   **Value**: true
 4.  Click **Submit**.
 
-## Related
 
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Customize and manage Journey Accelerator plan headers, Creating and
 
 # Customize field labels in a Journey Accelerator plan header
 
-Customize the labels for fields that are available in the [[journey-accelerator-1|Journey Accelerator]] Plan \[sn\_ja\_plan\] table so that users have a customized and consistent experience. You can use customized plan headers for different plan types.
+Customize the labels for fields that are available in the Journey Accelerator Plan \[sn\_ja\_plan\] table so that users have a customized and consistent experience. You can use customized plan headers for different plan types.
 
 ## Before you begin
 
@@ -54,6 +54,4 @@ You can customize the plan header for each role. You can also customize role-bas
 
     Configure unique plan headers for different plan types. For more information, see [Create and manage Journey Accelerator plan types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-accelerator/create-manage-ja-plans.md).
 
-## Related
 
-- [[journey-accelerator-1|Journey Accelerator]]

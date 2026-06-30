@@ -14,7 +14,7 @@ breadcrumb: [Build and deploy, Virtual Agent, Conversational Interfaces]
 
 # Using Virtual Agent Topic Recommendations
 
-Use the Topic Recommendations app to identify pre-built [[virtual-agent-landing-page|Virtual Agent]] topics that can be quickly implemented in your organization. Topic Recommendations uses Intent Discovery to analyze data from your organization and to find relevant pre-built topics that your organization can benefit from, and new topics that would be useful to create.
+Use the Topic Recommendations app to identify pre-built Virtual Agent topics that can be quickly implemented in your organization. Topic Recommendations uses Intent Discovery to analyze data from your organization and to find relevant pre-built topics that your organization can benefit from, and new topics that would be useful to create.
 
 The Topic Recommendations app lets you evaluate the common use cases that Virtual Agent can help resolve or deflect. You can use Topic Recommendations with Virtual Agent topics that use either keyword or NLU topic discovery. Use it to do the following:
 
@@ -50,7 +50,7 @@ For information about the apps that are automatically installed with Topic Recom
 
         -   **ITSM Virtual Agent Conversations**
 
-            Provides pre-built IT service [[management|management]] conversations to help your organization quickly deploy automated self-service conversations. For more information, see [ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent.md).
+            Provides pre-built IT service management conversations to help your organization quickly deploy automated self-service conversations. For more information, see [ITSM Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/itsm-virtual-agent.md).
 
 
 ## Items installed with Topic Recommendations
@@ -100,7 +100,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 -   [Unlink a topic recommendation from an existing Virtual Agent topic](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/unlink-tr-va-topic.md)
 -   [Troubleshoot issues with Topic Recommendations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/tr-troubleshooting.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Managing workplace tasks, Manage workplace safety activities, Workp
 
 # Manage print tasks
 
-Filter workplace tasks using criteria such as Short Description, Workplace Location, or other relevant fields to generate a consolidated report using the [[workplace-central-feat|Workplace Central]] [[case-management-workspace|Case management]] workspace.
+Filter workplace tasks using criteria such as Short Description, Workplace Location, or other relevant fields to generate a consolidated report using the Workplace Central Case management workspace.
 
 Use one of the following options to proceed:
 
@@ -33,7 +33,7 @@ Role required: sn\_wsd\_core.task\_reader
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-safety-mgmt-hr|Workplace Core]]** &gt; **Workplace Tasks** &gt; **All**.
+1.  Navigate to **All** &gt; **Workplace Core** &gt; **Workplace Tasks** &gt; **All**.
 
 2.  Select the filter icon and set the filter criteria.
 
@@ -64,8 +64,4 @@ Role required: sn\_wsd\_core.task\_reader
 
     Select **Print Task** to view the workplace task report.
 
-## Related
 
-- [[workplace-central-feat|Workplace Central]]
-- [[case-management-workspace|Case management]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

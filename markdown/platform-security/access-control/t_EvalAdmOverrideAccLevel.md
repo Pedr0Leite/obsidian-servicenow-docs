@@ -26,7 +26,7 @@ ACLs are evaluated cumulatively. If there are number of ACLs on any given field 
 
 ## Procedure
 
--   Add the following property to the [[ca-system-properties|system properties]] table:
+-   Add the following property to the system properties table:
 
 <table id="table_kbq_hwp_3r"><thead><tr><th>
 
@@ -49,7 +49,3 @@ Evaluates the admin override condition at the access term level.-   Type: true \
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ca-system-properties|System properties]]

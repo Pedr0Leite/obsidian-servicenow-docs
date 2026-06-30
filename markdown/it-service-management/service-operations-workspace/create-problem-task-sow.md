@@ -24,7 +24,7 @@ Role required: itil or problem\_coordinator
 
 1.  Open a problem.
 
-2.  From the problem record page, [[create-problem-task|create a problem task]] in the one of the following ways.
+2.  From the problem record page, create a problem task in the one of the following ways.
 
     -   Select **Create problem task**.
     -   From the **Problem Tasks** tab, select **New**.
@@ -36,7 +36,7 @@ Role required: itil or problem\_coordinator
 
 4.  Select **Create**.
 
-5.  On the [[problem-task-form|problem task form]], fill in the fields.
+5.  On the problem task form, fill in the fields.
 
     For a description of the field values, see [Problem task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-operations-workspace/problem-task-form-sow.md).
 
@@ -52,14 +52,9 @@ Role required: itil or problem\_coordinator
 
 [Work on a problem in Service Operations Workspace]()
 
-[Problem Management [[c_Models|models]] in Service Operations Workspace]()
+[Problem Management models in Service Operations Workspace]()
 
 [Work on a problem task in Service Operations Workspace]()
 
 [Problem Management in Service Operations Workspace reference]()
 
-## Related
-
-- [[create-problem-task|Create a problem task]]
-- [[problem-task-form|Problem Task form]]
-- [[c_Models|Models]]

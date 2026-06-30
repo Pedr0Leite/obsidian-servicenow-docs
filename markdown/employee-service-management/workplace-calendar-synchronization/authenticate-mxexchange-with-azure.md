@@ -14,7 +14,7 @@ breadcrumb: [Create a normal mode connection with Microsoft Exchange Online, Mic
 
 # Configure Microsoft Azure in normal mode
 
-Set up a normal mode authentication with Microsoft Azure to connect Microsoft Exchange Online with [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]].
+Set up a normal mode authentication with Microsoft Azure to connect Microsoft Exchange Online with Workplace Calendar Synchronization.
 
 ## Before you begin
 
@@ -109,6 +109,3 @@ Configure resources Microsoft Exchange Online in the calendar. For more informat
 
 [Configure Microsoft Exchange Online calendar provider]()
 
-## Related
-
-- [[workplace-calendar-sync-feat|Workplace Calendar Synchronization]]

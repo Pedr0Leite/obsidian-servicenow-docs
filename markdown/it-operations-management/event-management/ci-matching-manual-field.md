@@ -26,7 +26,7 @@ If no match is found using the **Node** field, the system looks at the **Additio
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **[[create-event-rules|Event Rules]]**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Event Rules**.
 
 2.  Select **New** and complete the required fields, or open an existing event rule record to modify it.
 
@@ -44,7 +44,4 @@ If no match is found using the **Node** field, the system looks at the **Additio
 
     The fields are created in the event rules record. However, when any alert is generated from an event using the event rule, the manually added fields appear in the **Additional information** field of the alert.
 
-## Related
 
-- [[c_EM|Event Management]]
-- [[create-event-rules|Event rules]]

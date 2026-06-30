@@ -25,12 +25,9 @@ Manage events the team calendar. Create schedule plans, shift plans, event categ
 -   **[Configure Teams in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-team-workforce-wfo-hr.md)**  
 Organize your teams into assignment groups and create reports for those groups to can gain visibility into the team's performance.
 -   **[Configure Coaching in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-coaching-wfo-hr.md)**  
-Manage agent skills and assess the quality of completed tasks. Use predictive intelligence to recommend skills for agents. Train your agents with internal and external [[exploring-learning-exp|learning]] content.
+Manage agent skills and assess the quality of completed tasks. Use predictive intelligence to recommend skills for agents. Train your agents with internal and external learning content.
 -   **[Setting up Demand Forecast in Workforce Optimization for HR](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/setup-demand-forecast-wfo-hr.md)**  
 Configure the data you want to collect, modify forecast parameters and calibrate manual adjustments using Demand Forecast.
 
 **Parent Topic:**[Workforce Optimization for HR Overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workforce-optimization-for-hr/wfo-hr-overview.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

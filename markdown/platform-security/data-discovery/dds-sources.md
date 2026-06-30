@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery Store, Data Discovery, Platform Privacy]
 
 # Data Discovery sources
 
-Create, and select the data patterns to be used in [[data-discovery-landing|Data Discovery]], and what tables to scan.
+Create, and select the data patterns to be used in Data Discovery, and what tables to scan.
 
 The **Sources** tab of Data Discovery helps you review your all your data patterns, set which pattern to use for scans, and select the tables to scan.
 
@@ -54,6 +54,3 @@ The **Target Tables** table lists all tables currently selected for discovery jo
 |Display name|The display name of the table \(Used in reporting\)|
 |Application|The application scope of the table.|
 
-## Related
-
-- [[data-discovery-landing|Data Discovery]]

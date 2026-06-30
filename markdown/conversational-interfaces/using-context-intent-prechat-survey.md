@@ -14,11 +14,11 @@ breadcrumb: [General chat settings, Configuring Conversational Interfaces, Conve
 
 # Using pre-chat surveys with context variables for topic discovery
 
-Capture user input from pre-[[ci-conversational-chat-surveys|chat surveys]] to use as utterances or keywords for topic discovery.
+Capture user input from pre-chat surveys to use as utterances or keywords for topic discovery.
 
-If you're using a pre-chat survey, you can use information supplied by the user to direct them to the appropriate [[virtual-agent-landing-page|Virtual Agent]] topic without asking them to choose from a list of available topics.
+If you're using a pre-chat survey, you can use information supplied by the user to direct them to the appropriate Virtual Agent topic without asking them to choose from a list of available topics.
 
-A good example of this is the CSP Anonymous Pre-Chat Survey, which is included with the Customer Service [[management|Management]] \(CSM\) application. This survey applies to guest users on the CSP portal. In addition to asking for the user's name and email address, the last question asks the user to briefly describe the issue. The answer is mapped to the short\_description field in the question settings. This is the context for the user's answer.
+A good example of this is the CSP Anonymous Pre-Chat Survey, which is included with the Customer Service Management \(CSM\) application. This survey applies to guest users on the CSP portal. In addition to asking for the user's name and email address, the last question asks the user to briefly describe the issue. The answer is mapped to the short\_description field in the question settings. This is the context for the user's answer.
 
 \[Omitted image "csp-anonymous-prechat-survey.png"\] Alt text: Settings for the Please briefly describe your issue question in Survey Designer.
 
@@ -30,15 +30,8 @@ The Pre-chat short description as NLU intent record allows the CSP Anonymous Pre
 
 \[Omitted image "prechat-short-description-nlu-intent.png"\] Alt text: Context topic intent record view corresponding with the pre-chat survey, with context and condition fields highlighted.
 
--   **[[ac-configure-context-topic-intent|Define topic context intent configurations]]**  
+-   **[Define topic context intent configurations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-topic-intent.md)**  
 Use pre-chat survey information to determine the appropriate Virtual Agent conversation topic automatically displayed to end users \(requesters\), rather than prompting them to choose from a list of conversation topics.
 
-**Parent Topic:**[[ci-configuring-chat-features|General chat settings]]
+**Parent Topic:**[General chat settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ci-configuring-chat-features.md)
 
-## Related
-
-- [[ac-configure-context-topic-intent|Define topic context intent configurations]]
-- [[ci-configuring-chat-features|General chat settings]]
-- [[ci-conversational-chat-surveys|Chat surveys]]
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[management|Management]]

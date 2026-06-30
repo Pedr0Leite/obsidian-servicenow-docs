@@ -44,7 +44,7 @@ Role required: sn\_wsd\_case.case\_reader
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-case-mgmt-feat|Workplace Case Management]]** &gt; **Workplace Cases**.
+1.  Navigate to **All** &gt; **Workplace Case Management** &gt; **Workplace Cases**.
 
 2.  Select the filter icon and set the filter criteria.
 
@@ -75,6 +75,4 @@ Role required: sn\_wsd\_case.case\_reader
 
     Select **Print Task** to view the workplace task report.
 
-## Related
 
-- [[workplace-case-mgmt-feat|Workplace Case Management]]

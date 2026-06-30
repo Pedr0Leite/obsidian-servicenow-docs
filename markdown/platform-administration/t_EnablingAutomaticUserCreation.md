@@ -20,9 +20,9 @@ Role required: admin
 
 ## About this task
 
-For example, you can prevent email from users outside your company domain from creating incidents. When an instance receives a message and there is no matching email address from the sender, the instance can [[t_CreateAUser|create a user]] with the User ID \[sys\_user.user\_name\] set to the sender's full email address.
+For example, you can prevent email from users outside your company domain from creating incidents. When an instance receives a message and there is no matching email address from the sender, the instance can create a user with the User ID \[sys\_user.user\_name\] set to the sender's full email address.
 
-Users in your instance must still have write and update access to the records that they create or update through [[actions-inbound-email|inbound email actions]].
+Users in your instance must still have write and update access to the records that they create or update through inbound email actions.
 
 **Note:** To learn more about the **glide.user.trusted\_domain** property, which affects automatic email creation, see Restrict emails by domain for user creation \(instance security hardening\) in the Instance Security Hardening Settings.
 
@@ -35,11 +35,11 @@ Users in your instance must still have write and update access to the records th
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[r_SetArchiveRuleProcessingBehavior|System Properties]]** &gt; **[[c_EmailProperties|Email Properties]]**.
+1.  Navigate to **All** &gt; **System Properties** &gt; **Email Properties**.
 
 2.  Select the check box for **Automatically create users for incoming email from trusted domains** \(**glide.pop3readerjob.create\_caller**\).
 
-    \[Omitted image "AutomaticallyCreateUsersFOrIncomingEmailsFromTrustedDomains.png"\] Alt text: Automatically [[ua-creating-users|creating users]]
+    \[Omitted image "AutomaticallyCreateUsersFOrIncomingEmailsFromTrustedDomains.png"\] Alt text: Automatically creating users
 
 3.  Enter the list of trusted domains in **Trusted domains for creating users from incoming emails** \(**glide.user.trusted\_domain**\).
 
@@ -47,7 +47,7 @@ Users in your instance must still have write and update access to the records th
 
     **Note:**
 
-    -   The **glide.user.trusted\_domain** property prevents user creation if the sender is not from a trusted domain. However, the system may still process inbound actions for emails that are received from the domain. To have the system ignore these emails, set up a system address filter. For more information on setting up system address filters, see [[system-address-filters|System address filters]]. You can also prevent untrusted users from triggering inbound actions by locking out the guest user.
+    -   The **glide.user.trusted\_domain** property prevents user creation if the sender is not from a trusted domain. However, the system may still process inbound actions for emails that are received from the domain. To have the system ignore these emails, set up a system address filter. For more information on setting up system address filters, see [System address filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-address-filters.md). You can also prevent untrusted users from triggering inbound actions by locking out the guest user.
     -   The **glide.user.trusted\_domain** property does not accept wildcarded domains or values such as:
         -   \*.edu
         -   \*.net
@@ -57,7 +57,7 @@ Users in your instance must still have write and update access to the records th
 
 5.  Complete the following steps to lock out the guest user.
 
-    1.  Navigate to **[[c_UserAdministration|User Administration]]** &gt; **Users** and select the user **guest**.
+    1.  Navigate to **User Administration** &gt; **Users** and select the user **guest**.
 
     2.  Select the **Locked out** field to disable the guest account.
 
@@ -76,15 +76,5 @@ The plugin sets the property **glide.email.create\_userid\_from\_email** to **tr
 
 **Warning:** Review your existing user records to reconcile any that contain identical email addresses. If you activate the plugin prior to reconciling email addresses, your instance cannot distinguish between users with identical email addresses and randomly selects one of the users with the matching email address.
 
-**Parent Topic:**[[configure-inbound-email|Configure inbound email actions]]
+**Parent Topic:**[Configure inbound email actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-inbound-email.md)
 
-## Related
-
-- [[system-address-filters|System address filters]]
-- [[configure-inbound-email|Configure inbound email actions]]
-- [[t_CreateAUser|Create a user]]
-- [[actions-inbound-email|Inbound email actions]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[c_EmailProperties|Email properties]]
-- [[ua-creating-users|Creating users]]
-- [[c_UserAdministration|User administration]]

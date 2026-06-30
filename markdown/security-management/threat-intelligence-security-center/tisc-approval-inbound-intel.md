@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Select **Administration** icon on the workspace.
 
@@ -55,6 +55,3 @@ Role required: sn\_sec\_tisc.admin
 
 [Configuring Inbound Intel Sharing Groups]()
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]

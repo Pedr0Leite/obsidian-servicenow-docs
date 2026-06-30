@@ -41,7 +41,7 @@ The third-party risk assessor, third-party risk manager, and third-party adminis
 
 The following constraints apply to SBOM collection:
 
--   [[smart-asmnt-engine-landing-page|Smart Assessment Engine]] \(SAE\) only: SBOM collection is supported only for engagements that use the Smart Assessment Engine. This feature does not support classic assessments.
+-   Smart Assessment Engine \(SAE\) only: SBOM collection is supported only for engagements that use the Smart Assessment Engine. This feature does not support classic assessments.
 -   Engagement-level collection: The SBOM questionnaire is associated with the engagement-level vendor risk assessment. This feature does not support collection at the third-party level directly.
 -   Supported file formats: JSON and XML are supported. Submitting a file in any other format returns a parse error and reopens the assessment for resubmission.
 -   Supported workflows: onboarding, renewal, and reassessment workflows are supported. For renewal and reassessment engagements, existing SBOM records can be updated rather than fully re-uploaded. This feature does not support offboarding.
@@ -50,7 +50,7 @@ The following constraints apply to SBOM collection:
 
 ## Feature availability
 
-Availability of SBOM- related functionality depends on activated applications and configuration. The core [[tprm-workflow-in-workspace|due diligence workflow]] operates independently of SBOM processing.
+Availability of SBOM- related functionality depends on activated applications and configuration. The core due diligence workflow operates independently of SBOM processing.
 
 SBOM collection capabilities are available separately. Check your entitlements to determine whether you have access to SBOM collection capabilities. All required applications are available from the ServiceNow Store and must be installed individually.
 
@@ -79,7 +79,3 @@ The following additional applications are required to view vulnerability details
 
 [SBOM records and relationships in Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/tprm-sbom-relationship.md)
 
-## Related
-
-- [[smart-asmnt-engine-landing-page|Smart Assessment Engine]]
-- [[tprm-workflow-in-workspace|Due diligence workflow]]

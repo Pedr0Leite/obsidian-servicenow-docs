@@ -22,7 +22,7 @@ Role required: ais\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[ia-ai-search|AI Search]]** &gt; **Search Query Settings** &gt; **Dictionaries**.
+1.  Navigate to **All** &gt; **AI Search** &gt; **Search Query Settings** &gt; **Dictionaries**.
 
     The AI Search Dictionaries list appears with a **\[Type\] \[!=\] \[Spell Check\]** filter condition applied and records grouped by dictionary type.
 
@@ -39,6 +39,3 @@ The selected stop word dictionary disappears from the AI Search Dictionaries lis
 
 **Parent Topic:**[Stop words](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/stop-words-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]

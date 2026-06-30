@@ -26,7 +26,7 @@ The usage of Microsoft 365 plans must be available from both Microsoft certified
 
 ## Procedure
 
-1.  Navigate to **[[sam-workspace|Software Asset Workspace]]** &gt; **License operations**.
+1.  Navigate to **Software Asset Workspace** &gt; **License operations**.
 
 2.  In the left pane, select **Licensing** &gt; **Software entitlements**.
 
@@ -50,6 +50,4 @@ The usage of Microsoft 365 plans must be available from both Microsoft certified
 
 9.  View all optimized plans for Microsoft 365 subscription on the [Optimization and savings dashboard in workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/optimization-dashboard-workspace.md).
 
-## Related
 
-- [[sam-workspace|Software Asset Workspace]]

@@ -20,8 +20,8 @@ Enable unauthenticated users to access Web Embeddables components on your third-
 
 Provide unauthenticated users with access to Web Embeddables components on your website without requiring them to log in. Currently, the following components are available for guest users:
 
--   [[we-know-article-view-comp-overview|Knowledge article view component]]
--   [[catalog-item-web-component|Catalog item component]]
+-   Knowledge article view component
+-   Catalog item component
 
 The components display content only if the content such as article or catalog items are explicitly made public. As an administrator, you can ensure the guest session is created by human \(not bots\) through CAPTCHA and on a trusted third-party website through JWT. Here is how you can set up web embed for guest user using following options:
 
@@ -85,7 +85,3 @@ To display content in the guest components, make knowledge articles and catalog 
 
 Guest users can access the Web Embeddables components designated as public on your website without logging in.
 
-## Related
-
-- [[we-know-article-view-comp-overview|Knowledge article view component]]
-- [[catalog-item-web-component|Catalog item component]]

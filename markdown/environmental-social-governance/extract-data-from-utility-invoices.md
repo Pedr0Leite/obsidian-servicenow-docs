@@ -12,7 +12,7 @@ breadcrumb: [Use generative AI skills, Now Assist, Use, Operational Sustainabili
 
 # Extract data from utility invoices
 
-The AI-driven [[ai-driven-document-intelligence-for-utility-invoices|Document Intelligence for utility invoices]] feature automates the extraction of utility bill data, including consumption, billing dates, and amounts. Then the extracted data is mapped to the correct metric definitions and entities using configurable mapping tables within the Operational Sustainability Workspace. This streamlines data processing and enhances accuracy.
+The AI-driven Document Intelligence for utility invoices feature automates the extraction of utility bill data, including consumption, billing dates, and amounts. Then the extracted data is mapped to the correct metric definitions and entities using configurable mapping tables within the Operational Sustainability Workspace. This streamlines data processing and enhances accuracy.
 
 ## Before you begin
 
@@ -61,9 +61,5 @@ Role required: sn\_esg\_gen\_ai.docintel\_user
     The fields extracted by AI must be verified for accuracy before use.
 
 
-**Parent Topic:**[[using-now-assist-for-esg-skills|Using Now Assist for Operational Sustainability \(formerly ESG\) skills]]
+**Parent Topic:**[Using Now Assist for Operational Sustainability \(formerly ESG\) skills](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/environmental-social-governance/using-now-assist-for-esg-skills.md)
 
-## Related
-
-- [[using-now-assist-for-esg-skills|Using Now Assist for Operational Sustainability \(formerly ESG\) skills]]
-- [[ai-driven-document-intelligence-for-utility-invoices|Document intelligence for utility invoices]]

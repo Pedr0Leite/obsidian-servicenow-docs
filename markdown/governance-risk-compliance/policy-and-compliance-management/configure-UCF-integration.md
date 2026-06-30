@@ -32,7 +32,7 @@ The documents can be updated on pre-defined intervals. You must have a UCF Commo
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **[[Administration|Administration]]** &gt; **Unified Compliance Integration**.
+1.  Navigate to **All** &gt; **Policy and Compliance** &gt; **Administration** &gt; **Unified Compliance Integration**.
 
 2.  Click the UCF configuration.
 
@@ -141,6 +141,3 @@ You can eliminate duplicate citations associated with the authority documents wh
 
 **Parent Topic:**[Manage the UCF integration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/manage_compliance_frameworks.md)
 
-## Related
-
-- [[Administration|Administration]]

@@ -10,7 +10,7 @@ reading_time_minutes: 2
 
 # Create a move request on behalf of an employee
 
-[[request-desk-change-for-employee-1|Create a move request on behalf of an employee]] from the application directly instead of using the [[workplace-services-portal-hr|Workplace Service Portal]].
+Create a move request on behalf of an employee from the application directly instead of using the Workplace Service Portal.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Specify the current location or current desk that the employee is moving from, a
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[workplace-move-mgmt-overview|Workplace Move Management]]** &gt; **Move requests**.
+1.  Navigate to **All** &gt; **Workplace Move Management** &gt; **Move requests**.
 
 2.  Click **Create new**.
 
@@ -114,7 +114,7 @@ Neighborhood
 
 </td><td>
 
-Neighborhood in which the current desk is located.This field is applicable only when the move case is created from [[scenario-planning|Scenario Planning]].
+Neighborhood in which the current desk is located.This field is applicable only when the move case is created from Scenario Planning.
 
 </td></tr><tr id="fromspace"><td>
 
@@ -216,12 +216,5 @@ If the state is set to Closed incomplete, it means that the move request could n
 
 ## What to do next
 
-To view and monitor move requests created by you on behalf of an employee or for yourself, see [[view-move-requests|View move requests]].
+To view and monitor move requests created by you on behalf of an employee or for yourself, see [View move requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/view-move-requests.md).
 
-## Related
-
-- [[view-move-requests|View move requests]]
-- [[request-desk-change-for-employee-1|Create a move request on behalf of an employee]]
-- [[workplace-services-portal-hr|Workplace Service Portal]]
-- [[workplace-move-mgmt-overview|Workplace Move Management]]
-- [[scenario-planning|Scenario Planning]]

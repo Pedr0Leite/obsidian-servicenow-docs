@@ -16,9 +16,9 @@ breadcrumb: [CMDB CI class models, Configuration Management Database \(CMDB\), C
 
 The Network Intrusion Detection System \(NIDS\) \[cmdb\_ci\_nids\] class builds the relationships between passive network monitoring appliances, and the devices on the network that it discovers.​ A NIDS Manager manages the NIDS sensors that detect the devices and builds "detects::detected by” relationships between the NIDS records \(parent\) and the CIs it discovers \(child\).​
 
-This topic lists the relevant classes that the [[cmdb-ci-class-models|CMDB CI Class Models app]] adds or updates. See the class columns table for further details about the columns added for each class.
+This topic lists the relevant classes that the CMDB CI Class Models app adds or updates. See the class columns table for further details about the columns added for each class.
 
-CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, [[c_IdentificationRules|identification rules]], identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
+CMDB CI Class Models is a ServiceNow Store app that adds class models that extend the CMDB class hierarchy. The new or updated classes include class descriptions, identification rules, identifier entries, and, if applicable, dependent relationships. You can use the added classes just like any other CMDB class. Applications such as Discovery and Service Mapping Patterns can use the class extensions to populate CIs and discover technologies and software.
 
 See the release notes for all CMDB CI class models.
 
@@ -65,15 +65,10 @@ For each CMDB CI record with a “Detected by” relationship with an NIDS recor
     3.  Related users \(Owned by, Managed by, Supported by, Assigned to\)
     4.  Related user groups \(Approval group, Managed by Group, Support group, Change group\)
 2.  If the NIDS network type is set to OT, it assigns the following NIDS-related metadata values to the CI:
-    1.  Creates an OT device \(cmdb\_ot\_entity\) record for the CI, using the cmdb\_ot\_entity [[reference|reference]] on the CI.
+    1.  Creates an OT device \(cmdb\_ot\_entity\) record for the CI, using the cmdb\_ot\_entity reference on the CI.
     2.  Assigns the NIDS assignment zone to the OT device record.
     3.  If the Industrial Process Manager is installed, assign the NIDS assignment site to the OT device record.
 3.  *Life Cycle Stage* and *Life Cycle Stage Status* values for the CI are used to capture the learning mode of a sensor.
     -   If *Life Cycle Stage* is **Operational** and *Life Cycle Stage Status* is **Learning Mode**, then validation is unsuccessful.
     -   If *Life Cycle Stage Status* is **In Use**, validation is successful.
 
-## Related
-
-- [[cmdb-ci-class-models|CMDB CI Class Models app]]
-- [[c_IdentificationRules|Identification rules]]
-- [[reference|Reference]]

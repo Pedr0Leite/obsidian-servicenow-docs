@@ -14,7 +14,7 @@ breadcrumb: [Universal Task reference, Universal Task, Employee Service Manageme
 
 # Employee Input Task Configuration form
 
-Use the Employee Input Task configuration form to configure the roles that can view completed [[universal-task-landing|Universal Task]] [[ut-emp-form|employee form]].
+Use the Employee Input Task configuration form to configure the roles that can view completed Universal Task employee form.
 
 <table id="table_eqh_hkq_hpb"><thead><tr><th>
 
@@ -38,7 +38,7 @@ Response view roles
 
 </td><td>
 
-Read only roles. The Response View role in Universal Task \(part of the [[ur-landing-limitedaccess|Universal Request]] framework\) grants users read-only visibility into Universal Task records without giving them permission to modify tasks or their metadata.
+Read only roles. The Response View role in Universal Task \(part of the Universal Request framework\) grants users read-only visibility into Universal Task records without giving them permission to modify tasks or their metadata.
 
 </td></tr><tr><td>
 
@@ -59,8 +59,3 @@ Name of the application scope. This field is auto-selected.
 </td></tr></tbody>
 </table>**Parent Topic:**[Universal Task reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-task/universal-task-reference.md)
 
-## Related
-
-- [[universal-task-landing|Universal Task]]
-- [[ut-emp-form|Employee form]]
-- [[ur-landing-limitedaccess|Universal Request]]

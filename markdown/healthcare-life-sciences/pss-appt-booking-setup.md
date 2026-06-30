@@ -16,7 +16,7 @@ Enable patients to book an appointment for the training requests conducted by nu
 
 **Important:**
 
-Starting with the Yokohama release, [[pss-app|Patient Support Services]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
+Starting with the Yokohama release, Patient Support Services is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported.
 
 For details, see the [Deprecation Process \[KB0867184\]](https://support.servicenow.com/kb_view.do?sysparm_article=KB0867184) article in the Now Support knowledge base.
 
@@ -37,7 +37,7 @@ As a user with the sn\_patientservice.admin role, you configure the following ap
 **Related topics**  
 
 
-[[pss-booking-appt-patient|Booking appointments for Patient Support Services]]
+[Booking appointments for Patient Support Services](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/pss-booking-appt-patient.md)
 
 ## Configure an appointment booking setting in Patient Support Services
 
@@ -616,7 +616,3 @@ As an administrator, you can include the record producer for appointment booking
 
 For more information, see [Record Producer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/c_RecordProducer.md) and [Set up a service catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/t_SetUpAServiceCatalog.md) . 
 
-## Related
-
-- [[pss-booking-appt-patient|Booking appointments for Patient Support Services]]
-- [[pss-app|Patient Support Services]]

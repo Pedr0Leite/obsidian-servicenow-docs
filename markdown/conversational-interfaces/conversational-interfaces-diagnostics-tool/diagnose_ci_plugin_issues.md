@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Interfaces Diagnostic Tool, Conversational
 
 # Diagnose Microsoft Teams configuration issues
 
-Use the [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]] to identify and help solve Microsoft Teams configuration issues before reaching out to Now Support.
+Use the Conversational Interfaces Diagnostic Tool to identify and help solve Microsoft Teams configuration issues before reaching out to Now Support.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: virtual\_agent\_admin or admin
 
 ## Procedure
 
-1.  Start a conversation with the [[virtual-agent-landing-page|Virtual Agent]] chatbot.
+1.  Start a conversation with the Virtual Agent chatbot.
 
 2.  At the greeting message, type `diagnostic pre chat`.
 
@@ -79,7 +79,3 @@ Role required: virtual\_agent\_admin or admin
 
 **Parent Topic:**[Using the Conversational Interfaces Diagnostic Tool](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/conversational-interfaces-diagnostics-tool/using-ci-diagnostics-tool.md)
 
-## Related
-
-- [[ci-diagnostics-tool-landing|Conversational Interfaces Diagnostic Tool]]
-- [[virtual-agent-landing-page|Virtual Agent]]

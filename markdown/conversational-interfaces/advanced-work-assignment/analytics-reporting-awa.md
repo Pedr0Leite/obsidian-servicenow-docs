@@ -14,8 +14,5 @@ breadcrumb: [Reference, Advanced Work Assignment, Manage people and work, Conver
 
 # Analytics &amp; Reporting Solutions
 
-The following sections review advanced analytics and Platform Analytics Solutions. Advanced analytics equips you to view cards that represent the [[awa-application-landing-page|Advanced Work Assignment]] dashboards that you can access.
+The following sections review advanced analytics and Platform Analytics Solutions. Advanced analytics equips you to view cards that represent the Advanced Work Assignment dashboards that you can access.
 
-## Related
-
-- [[awa-application-landing-page|Advanced Work Assignment]]

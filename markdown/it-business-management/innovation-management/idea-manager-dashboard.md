@@ -35,7 +35,7 @@ The Idea Manager dashboard provides comprehensive reports to the idea manager an
 
 ## Use case
 
-The dashboard displays ideas related to [[c_ProjectPortfolioSuite|Project Portfolio Management]].
+The dashboard displays ideas related to Project Portfolio Management.
 
 Only ideas associated with categories are displayed in the dashboard. Ideas marked for deletion are not displayed. By default, the dashboard displays one-year data. Use the interactive date filter to view monthly, quarterly, or yearly data.
 
@@ -94,6 +94,3 @@ The dashboard includes the following visualizations:
 
 **Parent Topic:**[Innovation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/innovation-management/innovation-management-landing.md)
 
-## Related
-
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

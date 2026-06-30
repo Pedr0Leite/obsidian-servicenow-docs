@@ -20,19 +20,19 @@ Role required: admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder opens in a new browser tab and displays the application scope selection screen.
 
 2.  Search for the application scope you are working in and then select the name of the application scope.
 
-    The [[mab-menu-screen|Mobile App Builder categories home screen]] displays.
+    The Mobile App Builder categories home screen displays.
 
 3.  Select the Data category, and then select **New**.
 
 4.  Select Data item and then select **Continue**.
 
-5.  In the [[sg-data-item|Data Items]] tab, click **Create New**.
+5.  In the Data Items tab, click **Create New**.
 
 6.  Complete the following fields as needed.
 
@@ -82,7 +82,7 @@ Table
 
 </td><td>
 
-The table you want the data item to pull information from.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [[sg-allow-custom-tables|Allow or restrict access to custom tables in mobile data items]].
+The table you want the data item to pull information from.**Note:** Custom tables are not available by default. You can change this behavior by modifying the **subscription.custom\_table.enforce\_entitlement** system property. For details on making this change, see [Allow or restrict access to custom tables in mobile data items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-allow-custom-tables.md).
 
 </td></tr><tr><td>
 
@@ -108,7 +108,7 @@ Use a script to determine the conditions of your data item. A text window to ent
 
 -   **Append Encoded Query**
 
-Use this option only when creating data items for your chart screens. For details on that data item type, see [[sg-relative-url-data-item|Configure an encoded query data item for chart screens]].
+Use this option only when creating data items for your chart screens. For details on that data item type, see [Configure an encoded query data item for chart screens](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-relative-url-data-item.md).
 
 </td></tr><tr><td>
 
@@ -152,22 +152,12 @@ Lets you adds fields to the form that allow you to configure how to sort the lis
 
 ## What to do next
 
-Associate a data item with a screen. For more information, see [[sg-mobile-applet|Mobile screen types]].
+Associate a data item with a screen. For more information, see [Mobile screen types](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-applet.md).
 
 **Related topics**  
 
 
-[[sg-config-parametrized-data-item|Configure a parametrized data item]]
+[Configure a parametrized data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-config-parametrized-data-item.md)
 
-[[sg-create-group-data-item|Configure a group by data item]]
+[Configure a group by data item](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-group-data-item.md)
 
-## Related
-
-- [[sg-allow-custom-tables|Allow or restrict access to custom tables in mobile data items]]
-- [[sg-relative-url-data-item|Configure an encoded query data item for chart screens]]
-- [[sg-mobile-applet|Mobile screen types]]
-- [[sg-config-parametrized-data-item|Configure a parametrized data item]]
-- [[sg-create-group-data-item|Configure a group by data item]]
-- [[mab-concept|Mobile App Builder]]
-- [[mab-menu-screen|Mobile App Builder categories home screen]]
-- [[sg-data-item|Data items]]

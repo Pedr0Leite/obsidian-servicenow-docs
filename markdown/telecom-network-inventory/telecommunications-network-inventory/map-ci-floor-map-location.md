@@ -14,7 +14,7 @@ breadcrumb: [Floor map, Network visualization view, Use, Telecommunications Netw
 
 # Map a Configuration Item to a floor map
 
-Map a Configuration Item \(CI\) to a place on your [[using-floor-map|floor map]] in the [[telecom-network-inventory|Telecommunications Network Inventory]] application so you can view its details.
+Map a Configuration Item \(CI\) to a place on your floor map in the Telecommunications Network Inventory application so you can view its details.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Associate a CI such as facility hardware to a place on the floor map to view its
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[exploring-network-inventory-workspace|Network Inventory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Network Inventory Workspace**.
 
 2.  Select the blue hub icon \[Omitted image "icon-blue-hub.png"\] Alt text: Blue Hub Icon..
 
@@ -99,8 +99,3 @@ The CI is mapped to the place on the floor map. The color of the place is change
 
 [Upload and manage floor map for your datacenter](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/create-floor-map-data-center.md)
 
-## Related
-
-- [[using-floor-map|Floor map]]
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

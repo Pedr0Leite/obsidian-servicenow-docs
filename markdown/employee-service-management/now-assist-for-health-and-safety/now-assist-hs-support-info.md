@@ -14,7 +14,7 @@ breadcrumb: [Explore, Now Assist for Health and Safety, Health and Safety, Emplo
 
 # Supporting information for Now Assist for Health and Safety
 
-Get a quick overview of the important information that is related to the [[now-assist-hs-landing|Now Assist for Health and Safety]] application.
+Get a quick overview of the important information that is related to the Now Assist for Health and Safety application.
 
 ## Supported versions
 
@@ -31,9 +31,9 @@ The Now Assist for Health and Safety application includes the skills that are li
 
 ## Application information
 
-Activate the Now Assist for Health and Safety store app \(sn\_hs\_gen\_ai\) to use the [[health-safety-overview|Health and Safety]] incident summarization skills.
+Activate the Now Assist for Health and Safety store app \(sn\_hs\_gen\_ai\) to use the Health and Safety incident summarization skills.
 
-This store app has a dependency on [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]] \(sn\_ohs\_im\).
+This store app has a dependency on Health and Safety Incident Management \(sn\_ohs\_im\).
 
 Activate the applications in the following order:
 
@@ -42,8 +42,3 @@ Activate the applications in the following order:
 
 For more information, see [Configuring Now Assist for Health and Safety](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-configuring.md).
 
-## Related
-
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[health-safety-overview|Health and Safety]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]

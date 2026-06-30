@@ -14,7 +14,7 @@ breadcrumb: [Exploring Cloud Cost Management, Cloud Cost Management, IT Asset Ma
 
 # Tags and tag categories
 
-Tag categories in the [[cloud-insights-landing-page|Cloud Cost Management]] application enable grouping multiple tag names under a single category, making it simpler to track costs against specific business entities. In the provider portal, you can define cost tags to associate resource usage with specific business entities. For example, the `Application`, `Test`, and `QA` tags represent cost centers.
+Tag categories in the Cloud Cost Management application enable grouping multiple tag names under a single category, making it simpler to track costs against specific business entities. In the provider portal, you can define cost tags to associate resource usage with specific business entities. For example, the `Application`, `Test`, and `QA` tags represent cost centers.
 
 ## Overview of tag categories
 
@@ -26,7 +26,7 @@ The Cloud Cost Management application enables you to enhance your cost managemen
 -   Tag categories also enable more accurate cost reporting by grouping related tags together.
 -   Cost categories are updated with new cost tag values each time billing data is downloaded through a Billing Download job.
 -   Recent updates to tag category definitions might not be immediately reflected in cost reports.
--   To apply the latest tag category definitions to cost data without waiting for the next Billing Download job, you can manually reapply the categories. Reapply tag categories by navigating to **[[ci-workspace|Cloud Cost Management Workspace]]** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories** &gt; **Reapply tag categories**.
+-   To apply the latest tag category definitions to cost data without waiting for the next Billing Download job, you can manually reapply the categories. Reapply tag categories by navigating to **Cloud Cost Management Workspace** &gt; **Operations** &gt; **Cost usage tags** &gt; **Tag categories** &gt; **Reapply tag categories**.
 
 **Related topics**  
 
@@ -35,7 +35,3 @@ The Cloud Cost Management application enables you to enhance your cost managemen
 
 [List of default tag categories](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/cloud-cost-management/default-tag-categories.md)
 
-## Related
-
-- [[cloud-insights-landing-page|Cloud Cost Management]]
-- [[ci-workspace|Cloud Cost Management Workspace]]

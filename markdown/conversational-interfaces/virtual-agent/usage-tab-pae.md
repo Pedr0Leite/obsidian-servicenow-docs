@@ -14,7 +14,7 @@ breadcrumb: [Using the Conversational Analytics Dashboard, Conversational Analyt
 
 # Usage tab
 
-The **Usage** tab provides usage information related to conversation type, language used in the conversations, and engagement rate of actionable notifications delivered by [[virtual-agent-landing-page|Virtual Agent]] \(VA\).
+The **Usage** tab provides usage information related to conversation type, language used in the conversations, and engagement rate of actionable notifications delivered by Virtual Agent \(VA\).
 
 The indicators in the **Usage** tab provide the following information.
 
@@ -59,6 +59,3 @@ Click on the data points in the Conversation type and Languages indicators to dr
 
 **Parent Topic:**[Using the Conversational Analytics Dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/use-the-dashboard-overview-pae.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

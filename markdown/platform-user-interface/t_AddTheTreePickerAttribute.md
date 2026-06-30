@@ -20,7 +20,7 @@ Role required: personalize\_dictionary
 
 ## About this task
 
-**Note:** The tree display hierarchy does not appear in [[onboarding-modals-reference|reference]] fields when using mobile applications.
+**Note:** The tree display hierarchy does not appear in reference fields when using mobile applications.
 
 ## Procedure
 
@@ -31,9 +31,5 @@ Role required: personalize\_dictionary
     If there are multiple attributes, use a comma to separate them without any spaces between.
 
 
-**Parent Topic:**[[c_TreePicker|Tree picker]]
+**Parent Topic:**[Tree picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_TreePicker.md)
 
-## Related
-
-- [[c_TreePicker|Tree picker]]
-- [[onboarding-modals-reference|Reference]]

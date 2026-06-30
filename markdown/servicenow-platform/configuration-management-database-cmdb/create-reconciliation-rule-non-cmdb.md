@@ -16,11 +16,11 @@ breadcrumb: [IRE support for non-CMDB tables, CMDB Identification and Reconcilia
 
 Create a static or a dynamic CI reconciliation rule for a non-CMDB table.
 
-For information about static [[r_ReconciliationRulesPrinciples|reconciliation rules]], dynamic reconciliation rules, and other principals related to reconciliation rules, see [Reconciliation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_ReconciliationRulesPrinciples.md).
+For information about static reconciliation rules, dynamic reconciliation rules, and other principals related to reconciliation rules, see [Reconciliation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_ReconciliationRulesPrinciples.md).
 
 If both, static and dynamic reconciliation rules exist for the same record attribute, the dynamic rule has precedence.
 
-**Note:** You can't create a reconciliation rule for system fields or for [[ire|Identification and Reconciliation Engine \(IRE\)]] specific fields such as the Discovery source \(discovery\_source\) field. Also, reconciliation rules can't be dot-walked using [[reference|reference]] fields.
+**Note:** You can't create a reconciliation rule for system fields or for Identification and Reconciliation Engine \(IRE\) specific fields such as the Discovery source \(discovery\_source\) field. Also, reconciliation rules can't be dot-walked using reference fields.
 
 **Parent Topic:**[IRE support for non-CMDB tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/ire-support-non-cmdb-tables.md)
 
@@ -131,7 +131,7 @@ Attributes that the specified data source can update with a null value. By defau
 
 ## Create a dynamic reconciliation rule for a non-CMDB table
 
-A dynamic reconciliation rule for non-CMDB table uses [[multisource-cmdb|CMDB 360]] data to choose a value such as the largest value that is reported, for updating a record.
+A dynamic reconciliation rule for non-CMDB table uses CMDB 360 data to choose a value such as the largest value that is reported, for updating a record.
 
 ### Before you begin
 
@@ -145,7 +145,7 @@ If the same CI attribute has both, a static reconciliation rule and a dynamic re
 
 A dynamic reconciliation rule supports several rule types, such as largest reported value and most reported value. When applying a dynamic reconciliation rule, IRE processes the current payload and then examines the CMDB 360 data store to select a value with which to update the CMDB. Depending on the dynamic reconciliation rule type, selecting the appropriate value might not be immediately conclusive. For example, there might not be a single value that is most reported, or for some values, the last discovered timestamp isn't reported. Therefore, when necessary, IRE falls back to examining additional details such as last reported, last discovered, and last updated values to select the most appropriate value.
 
-**Note:** You can't add a dynamic reconciliation rule when creating a new child class in the [[ci-class-manager-landing-page|CI Class Manager]]. You must first save the new child class and then add the dynamic reconciliation rule.
+**Note:** You can't add a dynamic reconciliation rule when creating a new child class in the CI Class Manager. You must first save the new child class and then add the dynamic reconciliation rule.
 
 ### Procedure
 
@@ -210,10 +210,4 @@ Rule type which is based on CMDB 360 data.
 </td></tr></tbody>
 </table>5.  Click **Submit**.
 
-## Related
 
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[reference|Reference]]
-- [[multisource-cmdb|CMDB 360]]
-- [[ci-class-manager-landing-page|CI Class Manager]]

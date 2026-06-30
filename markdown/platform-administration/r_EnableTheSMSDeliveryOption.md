@@ -12,7 +12,7 @@ breadcrumb: [Configure, Email client, Notifications, Configure core features, Ad
 
 # Enable SMS delivery with the email client
 
-Give users the option to send an [[c_EnableTheEmailClient|email client]] message as an SMS text message.
+Give users the option to send an email client message as an SMS text message.
 
 ## Before you begin
 
@@ -37,15 +37,10 @@ In the email client, user can select to send the message as an SMS text message.
 
 If the recipient doesn't have a registered SMS device, the email client sends the message to the primary email device.
 
-**Parent Topic:**[[configuring-email-client|Configure email client]]
+**Parent Topic:**[Configure email client](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configuring-email-client.md)
 
 **Related topics**  
 
 
-[[t_AddAPropertyUsingSysPropsList|Add a system property]]
+[Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md)
 
-## Related
-
-- [[configuring-email-client|Configure email client]]
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[c_EnableTheEmailClient|Email client]]

@@ -15,7 +15,7 @@ breadcrumb: [Install, Conversational Integration with Microsoft Teams, Integrate
 
 # Remove Conversational Integration with Microsoft Teams
 
-Remove the integrations between your ServiceNow [[virtual-agent-landing-page|Virtual Agent]] bot or the Self-configured bots and Microsoft Teams to disassociate the app with your ServiceNow instance.
+Remove the integrations between your ServiceNow Virtual Agent bot or the Self-configured bots and Microsoft Teams to disassociate the app with your ServiceNow instance.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Roles required:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[convint-landing-page|Conversational Interfaces]]** &gt; **Channels and Integrations**.
+1.  Navigate to **All** &gt; **Conversational Interfaces** &gt; **Channels and Integrations**.
 
 2.  On the Channels and integrations page, on the Microsoft Teams tile, select **Manage**
 
@@ -43,7 +43,3 @@ Roles required:
 
 **Parent Topic:**[Install Conversational Integration with Microsoft Teams](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/teams-install.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]
-- [[convint-landing-page|Conversational Interfaces]]

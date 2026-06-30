@@ -14,17 +14,17 @@ breadcrumb: [Recommendation contexts and templates, Common GRC features, Governa
 
 # Create a recommendation template
 
-Create a recommendation template to train the [[ai-model-airc|AI models]] with a data set for identifying your key business operations. Key business operations include managing regulatory changes, [[assessing-risks|assessing risks]], and adhering to compliance guidelines.
+Create a recommendation template to train the AI models with a data set for identifying your key business operations. Key business operations include managing regulatory changes, assessing risks, and adhering to compliance guidelines.
 
 ## Before you begin
 
-[[configure-recommendation-context|Create a recommendation context]] before you create a recommendation template. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md).
+Create a recommendation context before you create a recommendation template. For more information, see [Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md).
 
 Role required: sn\_reco\_template.recommendation\_config\_writer or sn\_reco\_template.recommendation\_writer
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **GRC [[Administration|Administration]]** &gt; **Recommendation contexts**.
+1.  Navigate to **All** &gt; **GRC Administration** &gt; **Recommendation contexts**.
 
 2.  Select the recommendation context that you want to add the recommendation templates to.
 
@@ -40,7 +40,7 @@ Role required: sn\_reco\_template.recommendation\_config\_writer or sn\_reco\_te
 
     3.  In the **Extension point** field, enter an extension point.
 
-    4.  In the **Display order** field, enter the order that you want the [[extension-points|extension points]] to be displayed.
+    4.  In the **Display order** field, enter the order that you want the extension points to be displayed.
 
     5.  If you want the recommendation template to be active, select the **Active** check box.
 
@@ -131,10 +131,3 @@ A recommendation template is configured for the selected recommendation context.
 
 **Parent Topic:**[Recommendation contexts and templates](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/recommendation-contexts.md)
 
-## Related
-
-- [[ai-model-airc|AI models]]
-- [[assessing-risks|assessing risks]]
-- [[configure-recommendation-context|Create a recommendation context]]
-- [[Administration|Administration]]
-- [[extension-points|Extension points]]

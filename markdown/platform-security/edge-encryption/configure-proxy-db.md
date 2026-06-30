@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Configure the Edge Encryption proxy database
 
-If using order-preserving [[encryption-landing|encryption]] types or encryption patterns, you can optionally configure the Edge Encryption proxy database properties.
+If using order-preserving encryption types or encryption patterns, you can optionally configure the Edge Encryption proxy database properties.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ To use order-preserving encryption types or encryption patterns, a MySQL databas
 
 **Next topic:**[Launch the Edge Encryption proxy server](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/launch-proxy.md)
 
-## Related
-
-- [[encryption-landing|Encryption]]

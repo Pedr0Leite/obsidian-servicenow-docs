@@ -14,7 +14,7 @@ breadcrumb: [Making workplace reservations, Workplace Core, Safe Workplace, Heal
 
 # Reserve a workplace for a day
 
-Reserve workplaces for a day on which you want to return to the office by using [[workplace-safety-mgmt-hr|Workplace Core]].
+Reserve workplaces for a day on which you want to return to the office by using Workplace Core.
 
 ## Before you begin
 
@@ -24,11 +24,11 @@ Role required: sn\_wsd\_core.workplace\_user
 
 Reserve spaces for a period less than or equal to 24 hours on the day that you want to work from the office, either in a defined shift schedule or in your custom timings.
 
-You can also access the reservation form from the [[mobile-employee-experience|Now Mobile app]]. Navigate to **Workplace Core** and choose one from **Reserve a shift and space for a day** or **Reserve a space for a day**.
+You can also access the reservation form from the Now Mobile app. Navigate to **Workplace Core** and choose one from **Reserve a shift and space for a day** or **Reserve a space for a day**.
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Self-Service** &gt; **[[employee-center-landing-page|Employee Center]]** &gt; **[[workplace-services|Workplace services]]** &gt; **Browse Workplace Services**.
+1.  Navigate to **All** &gt; **Self-Service** &gt; **Employee Center** &gt; **Workplace services** &gt; **Browse Workplace Services**.
 
     **Note:** You can also raise a request from the Employee Center. On the home page, navigate to **Workplace** &gt; **Browse all Workplace** and select the workplace service.
 
@@ -36,7 +36,7 @@ You can also access the reservation form from the [[mobile-employee-experience|N
 
     -   To reserve a space for a defined shift schedule, select **Reserve a shift and space for a day**.
     -   To reserve a space for custom timings, select **Reserve a space for a day**.
-3.  On the [[reserve-space-form|Reserve a space form]], fill in the fields.
+3.  On the Reserve a space form, fill in the fields.
 
     For a description of the field values, see [Reserve a space form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-core/reserve-space-form.md).
 
@@ -69,10 +69,3 @@ You will receive an email notification 15 minutes before the reservation to chec
 
 **Parent Topic:**[Making workplace reservations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/safe-workplace/requesting-workspace-reservations.md)
 
-## Related
-
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-services|Workplace Services]]
-- [[reserve-space-form|Reserve a space form]]

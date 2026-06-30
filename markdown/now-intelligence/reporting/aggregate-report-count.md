@@ -14,7 +14,7 @@ breadcrumb: [Aggregation in reporting, Reporting reference, Reporting, Reporting
 
 # Aggregate a report on count
 
-When you [[t_CreateYourOwnReport|create a report]], you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The count aggregation gives the number of records in each element of a visualization.
+When you create a report, you can aggregate the data on several calculations including the number of records, averages, and standard deviation. The count aggregation gives the number of records in each element of a visualization.
 
 ## Before you begin
 
@@ -45,6 +45,3 @@ These images compare Count and Count Distinct. The first shows that the raw coun
 
 The sections of the visualization are grouped by the count of records.
 
-## Related
-
-- [[t_CreateYourOwnReport|Create a report]]

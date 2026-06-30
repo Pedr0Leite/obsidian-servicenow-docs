@@ -16,9 +16,9 @@ breadcrumb: [Alert grouping types and creation methods, Alert grouping, Configur
 
 In text-based alert grouping, alerts are organized and correlated based on specific text patterns or keywords within the alert content. This approach dynamically groups alerts that share similar textual characteristics, such as error messages or event descriptions, allowing for more flexible and adaptive management of alerts.
 
-The EM Alert Clustering Solution is a method used to correlate alerts based on similarities in specific fields and form clusters or groups. In ServiceNow [[c_EM|Event Management]], it creates clusters based on the Description, Metric name, and Configuration item.Class fields. This solution organizes alerts into text-based groups, and when a new alert arrives, the ML Predictor identifies the appropriate cluster, grouping alerts within the same cluster.
+The EM Alert Clustering Solution is a method used to correlate alerts based on similarities in specific fields and form clusters or groups. In ServiceNow Event Management, it creates clusters based on the Description, Metric name, and Configuration item.Class fields. This solution organizes alerts into text-based groups, and when a new alert arrives, the ML Predictor identifies the appropriate cluster, grouping alerts within the same cluster.
 
-**Note:** The ML Predictor job is asynchronous and assigns real-time alerts to clusters, which may result in slight delays. This delay can cause text-based groups to be created several minutes later, as the [[c_ServiceAnalyticsOverview|alert grouping]] job runs once per minute. If prediction results are not available during a run, they are rechecked in the next grouping job.
+**Note:** The ML Predictor job is asynchronous and assigns real-time alerts to clusters, which may result in slight delays. This delay can cause text-based groups to be created several minutes later, as the alert grouping job runs once per minute. If prediction results are not available during a run, they are rechecked in the next grouping job.
 
 For text-based logic to execute, you must have the Predictive Intelligence plugin \(com.glide.platform\_ml\) installed and the EM Alert Clustering Solution definition activated.
 
@@ -55,8 +55,3 @@ Alerts from various network monitoring tools might report issues like Network se
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[c_EM|Event Management]]
-- [[c_ServiceAnalyticsOverview|Alert grouping]]

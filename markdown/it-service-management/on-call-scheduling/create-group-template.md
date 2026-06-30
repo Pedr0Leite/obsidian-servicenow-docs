@@ -22,7 +22,7 @@ Role required: rota\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_OnCallScheduling|On-Call Scheduling]]** &gt; **Administration** &gt; **Group Templates**.
+1.  Navigate to **All** &gt; **On-Call Scheduling** &gt; **Administration** &gt; **Group Templates**.
 
 2.  Click **New**.
 
@@ -38,6 +38,3 @@ Role required: rota\_admin
 
 **Parent Topic:**[Defining On-Call Scheduling escalation process](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/on-call-scheduling/defining-escalation-process-and-template.md)
 
-## Related
-
-- [[c_OnCallScheduling|On-Call Scheduling]]

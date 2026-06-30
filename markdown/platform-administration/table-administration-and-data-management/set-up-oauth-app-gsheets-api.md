@@ -51,7 +51,7 @@ Setting up the OAuth application on the Google Sheets API enables you to access 
 
     6.  Select **Create**.
 
-        The project is created and appears in the [[notifications|Notifications]] box.
+        The project is created and appears in the Notifications box.
 
 2.  Enable the Google Sheets API.
 
@@ -63,7 +63,7 @@ Setting up the OAuth application on the Google Sheets API enables you to access 
 
     2.  In the search box, enter `Google Drive`.
 
-    3.  From the search [[hs-results|results]] list, select **Google Drive API**.
+    3.  From the search results list, select **Google Drive API**.
 
         \[Omitted image "search-gdrive-api.png"\] Alt text: Searching for Google Drive API.
 
@@ -124,7 +124,7 @@ Setting up the OAuth application on the Google Sheets API enables you to access 
 
     The OAuth details are generated in a JSON file.
 
-    **Tip:** Select **DOWNLOAD** to download the JSON file for later [[reference-email-admin|reference]].
+    **Tip:** Select **DOWNLOAD** to download the JSON file for later reference.
 
     \[Omitted image "download-gsheets-credentials.png"\] Alt text: Downloading the OAuth credentials file.
 
@@ -151,8 +151,3 @@ To enable OAuth authorization for exporting table records to Google Sheets, regi
 
 **Parent Topic:**[Exporting your table records to Google Sheets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/setup-gsheet-export.md)
 
-## Related
-
-- [[notifications|Notifications]]
-- [[hs-results|Results]]
-- [[reference-email-admin|Reference]]

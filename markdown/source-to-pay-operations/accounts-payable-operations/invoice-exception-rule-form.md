@@ -14,7 +14,7 @@ breadcrumb: [Invoice exception form, Reference, Accounts Payable Operations, Fin
 
 # Invoice Exception Rule Form
 
-Invoice exception rules in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] define which [[invoices|invoices]] trigger exceptions and how they are handled. Use this reference to understand each form field and its configuration options.
+Invoice exception rules in Accounts Payable Operations define which invoices trigger exceptions and how they are handled. Use this reference to understand each form field and its configuration options.
 
 Invoice exception rules define the conditions under which invoices are flagged as exceptions in Accounts Payable Operations. Each rule specifies the exception type, triggering conditions, handling behavior, and processing order. The form fields control rule activation, resolution workflow, and exception prioritization.
 
@@ -38,7 +38,3 @@ The following table describes each field in the invoice exception rule for.
 
 **Parent Topic:**[Invoice exception form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/exception-form-fields.md)
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoices|Invoices]]

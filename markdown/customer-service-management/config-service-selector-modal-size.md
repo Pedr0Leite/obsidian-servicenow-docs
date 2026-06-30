@@ -22,7 +22,7 @@ Role required: admin
 
 1.  Navigate to the **sys\_declarative\_action\_payload\_definition.list** in the application navigator to display the Action Payload Definitions list.
 
-2.  Filter the **Label** field to display [[csm-case-type-select-modals|Case Type Selector]].
+2.  Filter the **Label** field to display Case Type Selector.
 
 3.  Select the desired record from the **Key** column.
 
@@ -32,6 +32,4 @@ Role required: admin
 
 5.  Select **Update**.
 
-## Related
 
-- [[csm-case-type-select-modals|Case type selector]]

@@ -14,7 +14,7 @@ breadcrumb: [Install the Edge Encryption proxy server using the interactive inst
 
 # Configure CyberArk properties protection
 
-Optionally, configure CyberArk properties protection to securely store [[edge-encryption|Edge Encryption]] passwords in a centralized and secure digital vault.
+Optionally, configure CyberArk properties protection to securely store Edge Encryption passwords in a centralized and secure digital vault.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-You must purchase and [[configure-cyberark|configure CyberArk]] AIM \(Application [[identity-landing|Identity]] Management\) before you can configure CyberArk connection parameters and protected credentials for a proxy server. As part of the installation of the AIM client, the `JavaPasswordSDK.jar` file is installed in the AIM client installation directory. The CyberArk vault is installed on an independent hardened server, and the AIM clients allow secure access to that server.
+You must purchase and configure CyberArk AIM \(Application Identity Management\) before you can configure CyberArk connection parameters and protected credentials for a proxy server. As part of the installation of the AIM client, the `JavaPasswordSDK.jar` file is installed in the AIM client installation directory. The CyberArk vault is installed on an independent hardened server, and the AIM clients allow secure access to that server.
 
 **Note:** You must install the CyberArk AIM client on every host computer where an Edge proxy is installed.
 
@@ -36,7 +36,7 @@ Setting up CyberArk password storage is optional. If you do not want to set up C
 
     |Setting|Description|
     |-------|-----------|
-    |Path to PasswordSDK.jar|The path to the `JavaPasswordSDK.jar` file installed on the host Windows machine during CyberArk [[sc-configuration|configuration]].|
+    |Path to PasswordSDK.jar|The path to the `JavaPasswordSDK.jar` file installed on the host Windows machine during CyberArk configuration.|
     |App ID|The **App ID** entered during CyberArk configuration.|
     |Safe Name|The **Safe Name** entered during CyberArk configuration.|
 
@@ -48,7 +48,7 @@ Setting up CyberArk password storage is optional. If you do not want to set up C
     -   Enter the credential name for one or more of the following fields. Credential names are the usernames entered for the SSH keys during CyberArk configuration.
     |Setting|Description|
     |-------|-----------|
-    |Edge [[encryption-landing|Encryption]] User|The CyberArk credential name for an Edge Encryption user.|
+    |Edge Encryption User|The CyberArk credential name for an Edge Encryption user.|
     |Signature Key Keystore|The CyberArk credential name for the signature key keystore.|
     |HTTPS Cert Keystore|The CyberArk credential name for the HTTPS certification keystore.|
     |Encryption Key Keystore|The CyberArk credential name for the encryption key keystore.|
@@ -66,10 +66,3 @@ Setting up CyberArk password storage is optional. If you do not want to set up C
 
 **Next topic:**[Configure the signature key](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/edge-encryption/configure-sig-key.md)
 
-## Related
-
-- [[edge-encryption|Edge Encryption]]
-- [[configure-cyberark|Configure CyberArk]]
-- [[identity-landing|Identity]]
-- [[sc-configuration|Configuration]]
-- [[encryption-landing|Encryption]]

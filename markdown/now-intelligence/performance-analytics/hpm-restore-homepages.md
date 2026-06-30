@@ -37,12 +37,9 @@ Role required: admin or dashboard\_admin.
 
 ## Result
 
-The retired homepage is converted to a dashboard. The [[homepage-migration-status-table|Homepage Migration Status table]] shows these changes.
+The retired homepage is converted to a dashboard. The Homepage Migration Status table shows these changes.
 
 -   The Dashboard column is populated with the name of the new dashboard.
 -   The entry in the State column for the restored homepage is changed to Closed complete.
 -   The entry in the Decision column is changed to Restored.
 
-## Related
-
-- [[homepage-migration-status-table|Homepage migration status table]]

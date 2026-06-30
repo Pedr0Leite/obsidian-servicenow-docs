@@ -60,7 +60,7 @@ Perform any of the following operations in the application service map.
 
         For information about managing map indicators, see [Create or modify map indicators](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/dependency-views/t_CreateModifyNGBSMMapIndicators.md). For more general information, see [Event Management Map Indicators \(Video\)](https://www.youtube.com/watch?v=wjtpJe8J3iA).
 
-    -   **[[export-to-pdf|Export to PDF]]**: Export the map to a .PDF file which you can then share as needed. After the PDF file is ready, click \[Omitted image "AppSerDownloadPDF.png"\] Alt text: Icon to download a PDF to your local drive. to download the PDF file to your local drive.
+    -   **Export to PDF**: Export the map to a .PDF file which you can then share as needed. After the PDF file is ready, click \[Omitted image "AppSerDownloadPDF.png"\] Alt text: Icon to download a PDF to your local drive. to download the PDF file to your local drive.
 -   View the details of a connection.
 
     By default, connection lines for the same CI on an application service map, are merged. This merge reduces clutter on the map and helps to make the map more readable. For a merged connection line, you can view details for all the underlying connection lines.
@@ -88,6 +88,3 @@ You can change the details that appear in the Properties pane by updating the fo
 
 [Spanning tree view property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/components-installed-app-services.md)
 
-## Related
-
-- [[export-to-pdf|Export to PDF]]

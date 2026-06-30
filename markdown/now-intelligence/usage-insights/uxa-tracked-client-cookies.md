@@ -14,7 +14,7 @@ breadcrumb: [Tracked analytics fields and cookies, User privacy, tracking, and c
 
 # Usage Insights client-side storage cookies
 
-To track client-side user activity, [[user-exp-analytics-landing|Usage Insights]] uses the SNAnalytics JavaScript SDK that is embedded in [[c_performanceAnalyticsAndReporting|Platform Analytics]], Core UI, and the Service Portal.
+To track client-side user activity, Usage Insights uses the SNAnalytics JavaScript SDK that is embedded in Platform Analytics, Core UI, and the Service Portal.
 
 The SNAnalytics SDK uses a combination of session storage and local storage variables to track the information required to facilitate the analytics tracking.
 
@@ -68,7 +68,3 @@ Data is anonymized before it’s sent to storage, and deleted at the database le
 
 **Parent Topic:**[Tracked analytics fields and cookies](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-tracked-fields-and-cookies.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

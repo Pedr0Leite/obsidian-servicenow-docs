@@ -34,12 +34,10 @@ Role required: sn\_ca.campaign\_manager
 
 5.  Select the show preview icon \(\[Omitted image "campaign-prev-icon.png"\] Alt text: Show Preview icon\) in a stage to preview all content for that stage.
 
-    \[Omitted image "campaign-prev-stage.png"\] Alt text: [[ecpro-campaign-preview|Campaign preview]] - Stage
+    \[Omitted image "campaign-prev-stage.png"\] Alt text: Campaign preview - Stage
 
 6.  Close the preview to return to the schedule of content view of the campaign.
 
     **Note:** When the show preview icon \(\[Omitted image "campaign-preview-grey-icon.png"\] Alt text: Campaign content preview greyed out icon\) is gray, a preview is not supported at this time.
 
-## Related
 
-- [[ecpro-campaign-preview|Campaign preview]]

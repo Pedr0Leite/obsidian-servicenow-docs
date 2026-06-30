@@ -23,13 +23,13 @@ Role required: sn\_icw\_std.work\_set\_standard\_author
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]**.
+1.  Navigate to **Workspaces** &gt; **Digital Factory Workspace**.
 
 2.  Open the work set standard from the Standards hub.
 
 3.  From the overflow actions menu, select **Use as template for new standard**.
 
-    This option is available for any state. You can [[create-work-set-standard|create a work set standard]] with the same field values and sub-activities as the source standard.
+    This option is available for any state. You can create a work set standard with the same field values and sub-activities as the source standard.
 
 4.  Update the field values and sub-activities as required.
 
@@ -57,7 +57,3 @@ After approval, the new version replaces the previous published version, which m
 
 [Work set sub-activity form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-sub-activity-form.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]
-- [[create-work-set-standard|Create a work set standard]]

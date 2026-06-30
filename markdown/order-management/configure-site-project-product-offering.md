@@ -12,7 +12,7 @@ breadcrumb: [Setting up project oversight conditions and decision rules, Configu
 
 # Configure project oversight for Product offering
 
-Specify the conditions and decision [[rules_101|rules]] that qualify the product offering for site project oversight. You also specify the project template task used by [[explore-order-management|Order Management]] to create the project for product offerings.
+Specify the conditions and decision rules that qualify the product offering for site project oversight. You also specify the project template task used by Order Management to create the project for product offerings.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ For example, if you want site projects to be created for a specific location, yo
 
     1.  Select **Add Condition column**.
 
-    2.  On the form, fill in the [[fields|fields]].
+    2.  On the form, fill in the fields.
 
 <table id="table_uky_vvw_zxb"><thead><tr><th>
 
@@ -117,8 +117,4 @@ How every row in the condition column evaluates a user-specified value. A defaul
 
     3.  Repeat steps 4a through 4c for each decision rule to be added.
 
-## Related
 
-- [[rules_101|Rules]]
-- [[explore-order-management|Order management]]
-- [[fields|Fields]]

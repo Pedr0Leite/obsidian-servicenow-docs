@@ -28,11 +28,11 @@ Role required: admin
 
 2.  Select the **Controls** Options.
 
-3.  Select to enable the **[[ccaas-phone-directory|Phone directory]]** option to display the **Queues**, **Agents**, **External numbers**, and **Direct dial** tabs.
+3.  Select to enable the **Phone directory** option to display the **Queues**, **Agents**, **External numbers**, and **Direct dial** tabs.
 
 4.  Use the **Edit** icon to update entries.
 
-    By default, the **Outbound call**, **Logout**, and **Phone directory** options are enabled. You can clear any options as needed. See [[configure-transfer-capability|Configuring Transfer capabilities]].
+    By default, the **Outbound call**, **Logout**, and **Phone directory** options are enabled. You can clear any options as needed. See [Configuring Transfer capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-transfer-capability.md).
 
     When you have the **Outbound call** feature enabled in the simulator, a system notification displays stating that outbound calls create new Interactions.
 
@@ -44,7 +44,7 @@ Role required: admin
 
 7.  Configure **Recording** controls by selecting options such as **Start**, **Stop**, **Pause**, or **Resume recording**.
 
-8.  Select **Save and continue** and move on to the next step for [[adding-participants|adding participants]].
+8.  Select **Save and continue** and move on to the next step for adding participants.
 
     -   Select **Clear all** to remove all input data for the section you’re updating.
     -   Select the **Logout** and **Reset** options to return to the idle state setup.
@@ -53,8 +53,3 @@ Role required: admin
 
 If you enable **Transfer**, the simulator guides you through the transfer capabilities setup. If you choose not to select the **Transfer** capability, select **Continue** to proceed to adding participants. See [Configuring Transfer capabilities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-transfer-capability.md).
 
-## Related
-
-- [[configure-transfer-capability|Configuring Transfer capabilities]]
-- [[ccaas-phone-directory|Phone directory]]
-- [[adding-participants|Adding participants]]

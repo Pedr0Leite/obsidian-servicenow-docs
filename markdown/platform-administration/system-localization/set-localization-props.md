@@ -14,11 +14,11 @@ breadcrumb: [System Localization reference, System Localization, Translation and
 
 # System Localization properties
 
-System Localization properties configure translation, currency, and [[locales|locale settings]] on the instance for users from multiple countries.
+System Localization properties configure translation, currency, and locale settings on the instance for users from multiple countries.
 
-Some [[ia-localization-il|localization]] properties only appear after the I18N: Internationalization plugin is activated. Some properties are available on the System Localization properties page, but some lesser-used properties are available only from the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table.
+Some localization properties only appear after the I18N: Internationalization plugin is activated. Some properties are available on the System Localization properties page, but some lesser-used properties are available only from the System Properties \[sys\_properties\] table.
 
-Access the following properties by navigating to **All** &gt; **System Properties** &gt; **[[system-localization-landing|System Localization]]**.
+Access the following properties by navigating to **All** &gt; **System Properties** &gt; **System Localization**.
 
 <table id="table_uv2_n34_jz"><thead><tr><th>
 
@@ -125,7 +125,7 @@ Determines the system's default currency into which all prices are automatically
 -   Default value: None
 -   Learn more: [Locale settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/currency-administration/locales.md)
 
- **Note:** After you have set a value on this system property and your system has gone into production, do not change this value. If a user's locale must be changed, update the "Country code" field on [[user|the user record]].
+ **Note:** After you have set a value on this system property and your system has gone into production, do not change this value. If a user's locale must be changed, update the "Country code" field on the user record.
 
 </td></tr><tr><td>
 
@@ -202,10 +202,3 @@ Option to allow setting fallback languages for the instance. Setting fallback la
 </td></tr></tbody>
 </table>**Parent Topic:**[System Localization reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/system-localization/system-localization-reference.md)
 
-## Related
-
-- [[locales|Locale settings]]
-- [[ia-localization-il|Localization]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[system-localization-landing|System Localization]]
-- [[user|The User record]]

@@ -12,7 +12,7 @@ breadcrumb: [Dynamic translation, Multilingual email notifications, Email and SM
 
 # Enable dynamic translation
 
-Enable dynamic translation of [[notifications|notifications]] for the instance.
+Enable dynamic translation of notifications for the instance.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ You must activate the Glide Notification Translation \(com.glide.notification.tr
     |-----|-----------|
     |Name|Name for the system property, which should be `glide.notifications.translation.dynamic`.|
     |Application|Application for the system property. **Global** applies the system property to all applications when the system property is set to **true**.|
-    |Description|Description displayed in the [[r_SetArchiveRuleProcessingBehavior|System Properties]] list.|
+    |Description|Description displayed in the System Properties list.|
     |Choices|Description displayed in the System Properties list.|
     |Type|Type of system property, which should be **true \| false**.|
     |Value|Value for the **Type** selected, which should be. `true`.|
@@ -44,7 +44,7 @@ You must activate the Glide Notification Translation \(com.glide.notification.tr
 4.  Select **Submit**.
 
 
-**Parent Topic:**[[dynamic-translation|Dynamic translation]]
+**Parent Topic:**[Dynamic translation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/dynamic-translation.md)
 
 **Related topics**  
 
@@ -53,8 +53,3 @@ You must activate the Glide Notification Translation \(com.glide.notification.tr
 
 [Enable dynamic translation for email notifications]()
 
-## Related
-
-- [[dynamic-translation|Dynamic translation]]
-- [[notifications|Notifications]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

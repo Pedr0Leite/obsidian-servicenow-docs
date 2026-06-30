@@ -14,7 +14,7 @@ breadcrumb: [Configuring Virtual Agent notifications, Configure, Virtual Agent, 
 
 # Define Virtual Agent notification actions
 
-Create the actions for a [[virtual-agent-landing-page|Virtual Agent]] chat or messaging channel to send actionable notifications.
+Create the actions for a Virtual Agent chat or messaging channel to send actionable notifications.
 
 ## Before you begin
 
@@ -164,6 +164,3 @@ Script to pass inputs to a flow action.This Script field appears when you select
 
 **Parent Topic:**[Configuring Virtual Agent notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/configuring-va-notifications.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

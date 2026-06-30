@@ -25,7 +25,7 @@ You can configure chart interactions only in the Visualization Designer or the i
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Data Visualizations**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Data Visualizations**.
 
 2.  Select or create the visualization you want to configure.
 
@@ -39,7 +39,7 @@ You can configure chart interactions only in the Visualization Designer or the i
     -   Go to URL
     -   Drill down to chart \(available from within the Visualization Designer\): Lets you add multiple layers of visualizations to drill down to from each metric in the visualization.
     -   Apply as filter \(available only when editing within a dashboard\)
-    The interactions are described in [[dv-chart-interactions|Chart interactions in a data visualization]].
+    The interactions are described in [Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md).
 
     \[Omitted image "chart-int-go-data-view.png"\] Alt text: Chart interaction section of data visualization configuration panel with available actions.
 
@@ -69,7 +69,3 @@ Consider a horizontal bar data visualization of the number of incidents on the I
 
 **Parent Topic:**[Chart interactions in a data visualization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-chart-interactions.md)
 
-## Related
-
-- [[dv-chart-interactions|Chart interactions in a data visualization]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

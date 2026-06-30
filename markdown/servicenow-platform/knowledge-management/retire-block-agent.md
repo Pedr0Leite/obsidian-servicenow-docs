@@ -24,7 +24,7 @@ Role required: agent\_workspace\_user and knowledge
 
 ## About this task
 
-You can retire [[knowledge-blocks|knowledge blocks]] only if they are not used in any knowledge articles.
+You can retire knowledge blocks only if they are not used in any knowledge articles.
 
 ## Procedure
 
@@ -48,6 +48,3 @@ The knowledge block is retired depending on the workflow setting of its knowledg
 
 When retired, your knowledge block no longer appears in the Published list under Knowledge Blocks in Agent Workspace.
 
-## Related
-
-- [[knowledge-blocks|Knowledge blocks]]

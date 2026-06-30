@@ -26,7 +26,7 @@ A risk manager can define the risk appetite and tolerance for the risk statement
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Risk** &gt; **[[risk-workspace|Risk Workspace]]**.
+1.  Navigate to **All** &gt; **Risk** &gt; **Risk Workspace**.
 
 2.  Select the list \[Omitted image "list-icon-riskworkspace.png"\] Alt text: List icon. icon, and navigate to the risk statement.
 
@@ -50,6 +50,3 @@ Learn about the risk appetite fields on the Risk Statement form. Use these field
 
 **Parent Topic:**[Using the Risk Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/using-risk-workspace.md)
 
-## Related
-
-- [[risk-workspace|risk workspace]]

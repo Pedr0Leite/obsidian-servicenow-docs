@@ -14,7 +14,7 @@ breadcrumb: [Use, Enterprise Agile Planning, Strategic Planning, Strategic Portf
 
 # Manage team backlog in EAP
 
-Using the Backlog page of Enterprise Agile Planning, create, update, and [[prioritize-work-portfolio-planning-workspace|prioritize work]] items. Additionally, schedule work items into iterations such as Planning Intervals \(PI\) or Sprints.
+Using the Backlog page of Enterprise Agile Planning, create, update, and prioritize work items. Additionally, schedule work items into iterations such as Planning Intervals \(PI\) or Sprints.
 
 \[Omitted image "eap-backlog.png"\] Alt text: EAP Backlog.
 
@@ -120,6 +120,3 @@ View the information that is most relevant to you and your team on the Backlog t
 
 **Parent Topic:**[Using Enterprise Agile Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/enterprise-agile-planning/using-enterprise-agile-planning.md)
 
-## Related
-
-- [[prioritize-work-portfolio-planning-workspace|Prioritize work]]

@@ -14,7 +14,7 @@ breadcrumb: [TISC Security Tools integrations, TISC Integrations, Integrate, Thr
 
 # Microsoft Sentinel integration
 
-[[tisc-landing-page|Threat Intelligence Security Center]] for Microsoft Sentinel offers several capabilities, including importing [[c_Observables|observables]] from TISC to Sentinel, enriching Sentinel incidents with details of related observables, and also allow exporting observables from Sentinel to TISC.
+Threat Intelligence Security Center for Microsoft Sentinel offers several capabilities, including importing observables from TISC to Sentinel, enriching Sentinel incidents with details of related observables, and also allow exporting observables from Sentinel to TISC.
 
 **Note:** On Microsoft Sentinel, observables are referred as entities.
 
@@ -22,7 +22,7 @@ breadcrumb: [TISC Security Tools integrations, TISC Integrations, Integrate, Thr
 
 **Dependencies**
 
-The **[[threat-intel-landing-page|Threat Intelligence]]** solution from Microsoft Sentinel Content Hub must be installed.
+The **Threat Intelligence** solution from Microsoft Sentinel Content Hub must be installed.
 
 <table id="table_yg1_hpw_c2c"><thead><tr><th>
 
@@ -47,7 +47,7 @@ Microsoft Sentinel-specific roles
 
 </td><td>
 
-1.  To install the required [[tisc-playbooks-admin|playbooks]] on a Resource Group level.
+1.  To install the required playbooks on a Resource Group level.
 2.  Interact with Microsoft Sentinel playbooks.
 
  For more information, see [Roles and Permissions](https://learn.microsoft.com/en-us/azure/sentinel/roles#roles-and-permissions-for-working-in-microsoft-sentinel) in Microsoft Sentinel.
@@ -70,9 +70,3 @@ This section describes the playbook templates that are shipped with TISC Sentine
 
 **Parent Topic:**[TISC Security Tools integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-edr-integrations.md)
 
-## Related
-
-- [[tisc-landing-page|Threat Intelligence Security Center]]
-- [[c_Observables|Observables]]
-- [[threat-intel-landing-page|Threat Intelligence]]
-- [[tisc-playbooks-admin|Playbooks]]

@@ -17,7 +17,7 @@ Respond to business risks in real time. Connect security and IT with an integrat
 
 <table id="table_iwv_lpv_klb" class="nav-card"><tbody><tr><td>
 
-[AI Risk and Compliance\[Omitted image "bus-artificial-intelligence.svg"\] Alt text:Learn how you can use the [[ai-risk-and-compliance|AI Risk and Compliance]] application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
+[AI Risk and Compliance\[Omitted image "bus-artificial-intelligence.svg"\] Alt text:Learn how you can use the AI Risk and Compliance application to manage your artificial intelligence \(AI\) capabilities ethically, mitigate AI risks, and ensure compliance.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
 
 </td><td>
 
@@ -53,7 +53,7 @@ Respond to business risks in real time. Connect security and IT with an integrat
 
 </td></tr><tr><td>
 
-[Risk Management\[Omitted image "app-risk-mgt.svg"\] Alt text: Enable fine-grained [[bia-uib|business impact analysis]] to appropriately prioritize and respond to risks.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-overview.md)
+[Risk Management\[Omitted image "app-risk-mgt.svg"\] Alt text: Enable fine-grained business impact analysis to appropriately prioritize and respond to risks.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-overview.md)
 
 </td><td>
 
@@ -123,7 +123,7 @@ Respond to business risks in real-time with integrated risk management.
 
 </td></tr><tr><td>
 
-\[Omitted image "clipbrd.png"\] Alt text: [[c_GRCAudits|Audit Management]]
+\[Omitted image "clipbrd.png"\] Alt text: Audit Management
 
 </td><td>
 
@@ -146,7 +146,7 @@ As your vendors become privy to more of your sensitive systems and data, their r
 </td></tr></tbody>
 </table>## Automate and manage policy life cycles and continuously monitor for compliance
 
-\[Omitted image "policy-compliance-servicenow-solution.png"\] Alt text: [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
+\[Omitted image "policy-compliance-servicenow-solution.png"\] Alt text: Policy and Compliance Management
 
 The ServiceNow® Policy and Compliance Management product provides a centralized process for creating and managing policies, standards, and internal control procedures. The process automatically cross-maps the procedures to external regulations. Also, the application provides structured workflows for the identification, assessment, and continuous monitoring of control activities.
 
@@ -154,7 +154,7 @@ The ServiceNow® Policy and Compliance Management product provides a centralized
 
 \[Omitted image "risk-servicenow-solution.png"\] Alt text: Risk Management
 
-The ServiceNow Risk Management product provides a centralized process to identify, assess, respond to, and continuously monitor Enterprise and IT risks that may negatively impact business operations. The application also provides structured workflows for the management of [[risk-assessments|risk assessments]], risk indicators, and risk issues.
+The ServiceNow Risk Management product provides a centralized process to identify, assess, respond to, and continuously monitor Enterprise and IT risks that may negatively impact business operations. The application also provides structured workflows for the management of risk assessments, risk indicators, and risk issues.
 
 ## Use risk data to scope and prioritize audit plans and automate cross-functional processes
 
@@ -162,7 +162,7 @@ The ServiceNow Risk Management product provides a centralized process to identif
 
 The ServiceNow Audit Management product automates the work streams of internal audits teams, optimizing resources and productivity, and eliminating recurring audit findings. Audit Management uses compliance and risk data to scope, plan, and prioritize audit engagements. The ongoing review of policies and procedures, risks, and control breakdowns provide an opportunity for fixing issues before they become audit failures.
 
-The ServiceNow [[reg-change-mgmt-landing-page|Regulatory Change Management]] application empowers the customers to check upcoming regulatory changes, assess their impact, and implement risk and compliance related changes, ensuring overall regulatory compliance.
+The ServiceNow Regulatory Change Management application empowers the customers to check upcoming regulatory changes, assess their impact, and implement risk and compliance related changes, ensuring overall regulatory compliance.
 
 ## Continuously monitor, detect, assess, mitigate, and remediate risk in vendor ecosystems
 
@@ -192,27 +192,16 @@ By aligning Vendor Risk Management with overall enterprise risk management prior
 
 -   [AI Risk and Compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/ai-risk-management/ai-risk-and-compliance.md)
 -   [Audit Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/audit-management/c_GRCAudits.md)
--   [[business-continuity-mangmt-overview|Business Continuity Management]]
+-   [Business Continuity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/business-continuity-mangmt-overview.md)
 -   [Compliance Case Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/compliance-case-management/compliance-case-management.md)
 -   [Continuous Authorization and Monitoring](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/continuous-risk-monitoring/grc-cam-landing-page.md)
--   [[grc-opres-landing-page|Operational Resilience]]
+-   [Operational Resilience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-opres-landing-page.md)
 -   [Policy and Compliance Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/policy-and-compliance-management/r_PolicyComplianceMgmt.md)
 -   [Privacy Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/privacy-workspace/privacy-management.md)
 -   [Regulatory Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/regulatory-change-management-service-portal/reg-change-mgmt-landing-page.md)
 -   [Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-risk-management-workspace/grc-risk-overview.md)
 -   [Smart Assessment Engine](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/smart-assessment-engine/smart-asmnt-engine-landing-page.md)
 -   [Third-party Risk Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/third-party-risk-management/third-party-risk-mgt-landing-page.md)
--   [[grc-and-store|GRC and the ServiceNow Store]]
+-   [GRC and the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-and-store.md)
 -   [Common GRC Features](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/grc-common-functions/common-grc-features.md)
 
-## Related
-
-- [[business-continuity-mangmt-overview|Business Continuity Management]]
-- [[grc-opres-landing-page|Operational Resilience]]
-- [[grc-and-store|GRC and the ServiceNow Store]]
-- [[ai-risk-and-compliance|AI Risk and Compliance]]
-- [[bia-uib|Business impact analysis]]
-- [[c_GRCAudits|Audit Management]]
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]
-- [[risk-assessments|risk assessments]]
-- [[reg-change-mgmt-landing-page|Regulatory Change Management]]

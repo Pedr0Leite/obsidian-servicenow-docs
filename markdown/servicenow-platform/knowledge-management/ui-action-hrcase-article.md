@@ -14,7 +14,7 @@ breadcrumb: [Enable actionable knowledge feedback, Configuring Knowledge Managem
 
 # Create a UI action to enable creating knowledge articles from HR cases
 
-Create a UI action to add the Knowledge [[check-box|check box]] to the HR case form.
+Create a UI action to add the Knowledge check box to the HR case form.
 
 ## Before you begin
 
@@ -82,6 +82,3 @@ Ensure that the Developer Application is set to **Human Resources: Core**.
 
 **Parent Topic:**[Enable actionable knowledge feedback](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/configure-act-know-feedback-properties.md)
 
-## Related
-
-- [[check-box|Check box]]

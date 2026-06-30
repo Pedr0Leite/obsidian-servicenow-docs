@@ -14,11 +14,11 @@ breadcrumb: [Discovery for Google Cloud Platform, Discovery for cloud environmen
 
 # Configure the Google Cloud Logging service to auto-update the CMDB
 
-You can activate the Google Cloud Logging \(formerly Stackdriver Logging\) service to auto-update Configuration Management Database \(CMDB\) configuration items \(CI\) data whenever Google Cloud Connector or your Google account makes a life-cycle state or configuration change to a Google Cloud Platform \(GCP\) resource. As a result, the CI data in the CMDB is updated without having to wait for [[r-discovery|Discovery]] to run.
+You can activate the Google Cloud Logging \(formerly Stackdriver Logging\) service to auto-update Configuration Management Database \(CMDB\) configuration items \(CI\) data whenever Google Cloud Connector or your Google account makes a life-cycle state or configuration change to a Google Cloud Platform \(GCP\) resource. As a result, the CI data in the CMDB is updated without having to wait for Discovery to run.
 
 ## Before you begin
 
--   Activate Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns. For more information, see [Google Cloud Platform Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md).
+-   Activate Discovery and Service Mapping Patterns. For more information, see [Google Cloud Platform Discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/discovery/google-gcp-discovery-pattern.md).
 -   Verify that Discovery has successfully discovered logical datacenters of the Google Cloud project. For more information, see [Set up a cloud account and service account for Google Cloud Platform](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/gcp-first-cld-and-srvc-accts.md).
 
     **Note:** Verify that you have selected the **Should pull events** check box in the Google Service Account page before you execute datacenter discovery.
@@ -71,7 +71,4 @@ When configured, Discovery pulls the Cloud Logging API at regular intervals to d
 
 -   The scheduled job passes the event payload to the Identification and Reconciliation Engine \(IRE\). The IRE then takes the necessary actions to modify the state of the resources based on the event.
 
-## Related
 
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

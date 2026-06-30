@@ -12,11 +12,11 @@ breadcrumb: [Explore, Field Service Management]
 
 # Planned Work Management
 
-The Planned Work Management application works with [[fsm-application-landing-page|Field Service Management]] to help organizations create and manage the planned work activities with recurring schedules at regular intervals. The planned work activities include, maintenance, inspections, audits or more.
+The Planned Work Management application works with Field Service Management to help organizations create and manage the planned work activities with recurring schedules at regular intervals. The planned work activities include, maintenance, inspections, audits or more.
 
 With Planned Work Management, organizations can configure recurring activities based on time intervals, meter readings, or specific conditions, ensuring that critical maintenance work is executed consistently and proactively. The application also provides forecasting capabilities and access to maintenance cycle history, enabling better resource planning and improved operational visibility.
 
-Planned Work Management enhances maintenance operations by supporting [[dynamic-scheduling|dynamic scheduling]], multi‑asset maintenance plans, and automated adjustments when exceptions occur.
+Planned Work Management enhances maintenance operations by supporting dynamic scheduling, multi‑asset maintenance plans, and automated adjustments when exceptions occur.
 
 ## Key benefits
 
@@ -30,7 +30,7 @@ Planned Work Management enhances maintenance operations by supporting [[dynamic-
 
 -   **Dynamic work order creation**
 
-    Automatically [[generate-work-orders|generate work orders]] based on time intervals, usage metrics \(such as pages printed or miles driven\), or condition based triggers. This eliminates the need to manually remember maintenance schedules.
+    Automatically generate work orders based on time intervals, usage metrics \(such as pages printed or miles driven\), or condition based triggers. This eliminates the need to manually remember maintenance schedules.
 
 -   **Automatic adjustments for exceptions**
 
@@ -60,8 +60,3 @@ Visit the [ServiceNow Store](https://store.servicenow.com/sn_appstore_store.do#!
 
 [Planned Work Management Home page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/work-order-management/pwm-dashboard.md)
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]
-- [[dynamic-scheduling|Dynamic scheduling]]
-- [[generate-work-orders|Generate work orders]]

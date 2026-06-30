@@ -29,7 +29,7 @@ When a work set task is created, the system generates a child record for each su
 
 ## Procedure
 
-1.  From the [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]] task list, select the work set task according to their requirement.
+1.  From the Digital Factory Workspace task list, select the work set task according to their requirement.
 
 2.  Select **Set to Work in Progress**.
 
@@ -56,6 +56,3 @@ If a work set task is canceled or expires \(**Closed Skipped**\), any active chi
 
 **Parent Topic:**[Work set standard and task life cycles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-standard-task-life-cycle.md)
 
-## Related
-
-- [[icw-digital-factory-workspace-landing-page|Digital Factory Workspace]]

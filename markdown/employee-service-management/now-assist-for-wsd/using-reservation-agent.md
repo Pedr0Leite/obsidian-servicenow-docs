@@ -14,7 +14,7 @@ breadcrumb: [Using Now Assist in Virtual Agent, Now Assist for Workplace Service
 
 # Making reservations using the Create a reservation agent
 
-The [[create-reservation-request-1|Create a reservation]] agent enables employees to find an available space and create workplace reservations quickly. Employees can interact with the reservation agent using the Now Assist in Virtual Agent enhanced chat interface in [[employee-center-landing-page|Employee Center]]. They can also use the Now Mobile® chat interface for interacting with the Virtual Agent.
+The Create a reservation agent enables employees to find an available space and create workplace reservations quickly. Employees can interact with the reservation agent using the Now Assist in Virtual Agent enhanced chat interface in Employee Center. They can also use the Now Mobile® chat interface for interacting with the Virtual Agent.
 
 The reservation agent estimates where the employees are located for a given workday. It considers their workplace profile \(assigned space to an employee\) and the spaces they most frequently reserve. Based on this information, the reservation agent finds and suggests spaces for reservations. The employees can suggest a different space, time or location using the chat interface. The agent also provides employees with an option to select a space manually from the reservation portal. The option to select a space manually is provided by the reservation agent when it is not able to find a space that is requested by the employee or when the employee wants to search for a different space than what is suggested by the reservation agent.
 
@@ -32,7 +32,7 @@ While searching for a space and making a reservation, the reservation agent cons
         The reservation agent reserves a space based on the 24-hour clock or 12-hour clock notations. For 24-hour time format, it reserves the space from \(00 to 23.59\). For 12-hour time format, it reserves a space from \(9 am- 12 pm\) and evening \(1 pm to 5 pm\) based on the office working hours. For more information, see [Properties installed with Workplace Reservation Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/properties-installed-with-wsd-reservation-mgmt.md).
 
 -   **Max days in future** value in the Reservable Module. This value is set by your workplace administrator. The reservation agent reserves a space and provides dates for reservation based on the highest value given in the **Max days in future** configuration. If the **Max days in future** value is empty, the reservation agent provides a navigational link to the Advanced Reservation Portal. Employees can select the link to navigate to the Advanced Reservation portal and select a space manually. For more information, see [Create a reservation]().
--   The reservation agent also checks the [[workplace-concierge-feat|Workplace Concierge]] employee presence dashboard for insights on employees in-office days. For more information, see [Configure workplace space suggestions for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-workplace-suggestions.md).
+-   The reservation agent also checks the Workplace Concierge employee presence dashboard for insights on employees in-office days. For more information, see [Configure workplace space suggestions for employees](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/configure-workplace-suggestions.md).
 
     If Workplace Concierge isn’t installed, the reservation agent uses the workplace profile information \(assigned space to an employee\) to reserve an available space. It uses the primary location that is set for an employee to fetch the building location and available spaces for reservation.
 
@@ -50,8 +50,3 @@ The Create a reservation agent enables employees to reserve a space with a singl
 
 [Using the workplace collaboration Agent for space suggestions]()
 
-## Related
-
-- [[create-reservation-request-1|Create a reservation]]
-- [[employee-center-landing-page|Employee Center]]
-- [[workplace-concierge-feat|Workplace Concierge]]

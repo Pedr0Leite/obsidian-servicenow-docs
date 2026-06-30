@@ -14,7 +14,7 @@ breadcrumb: [Explore, Telecommunications Network Inventory]
 
 # Service Operations Workspace for Telecommunications Network Inventory
 
-ServiceNow® Service Operations Workspace is a configurable workspace that provides a converged experience for [[telecom-network-inventory|Telecommunications Network Inventory]] \(TNI\) workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace.
+ServiceNow® Service Operations Workspace is a configurable workspace that provides a converged experience for Telecommunications Network Inventory \(TNI\) workflows. Configure your agent experience using the easy-to-navigate interface of Service Operations Workspace.
 
 ## Service Operations Workspace for TNI overview
 
@@ -39,8 +39,8 @@ The Service Operations Workspace for TNI a converged experience for agents to vi
 
 |Role title \[Name\]|Descriptions|
 |-------------------|------------|
-|DC Ops Agent \[sn\_ni\_core.dc\_ops\_agent\]|Oversees datacenter floor operations, using the [[using-floor-map|floor map]] to manage incidents and alerts, resolve problems, and handle change requests.|
-|DC Ops Viewer \[sn\_ni\_core.dc\_ops\_viewer\]|Read-only access to the [[exploring-network-inventory-workspace|Network Inventory workspace]] and its components.|
+|DC Ops Agent \[sn\_ni\_core.dc\_ops\_agent\]|Oversees datacenter floor operations, using the floor map to manage incidents and alerts, resolve problems, and handle change requests.|
+|DC Ops Viewer \[sn\_ni\_core.dc\_ops\_viewer\]|Read-only access to the Network Inventory workspace and its components.|
 
 **Related topics**  
 
@@ -49,8 +49,3 @@ The Service Operations Workspace for TNI a converged experience for agents to vi
 
 [Exploring Telecommunications Network Inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/exploring-telecommunicatons-network-inventory.md)
 
-## Related
-
-- [[telecom-network-inventory|Telecommunications Network Inventory]]
-- [[using-floor-map|Floor map]]
-- [[exploring-network-inventory-workspace|Network Inventory Workspace]]

@@ -21,18 +21,12 @@ The file naming standard is:
 
 For example, `map-23641-mv-1-ev-1-geojson-com-map-fv-2.json`
 
--   **[[r_CampusInfo|Campus information]]**  
+-   **[Campus information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_CampusInfo.md)**  
 Sample code for campus and map set properties.
--   **[[r_BuildingInfo|Building information]]**  
+-   **[Building information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_BuildingInfo.md)**  
 Each drawing in the campus map file represents a building or campus overview. The campus overview is a map that shows the entire campus, and is included for multi-building campuses only.
--   **[[r_LevelInfo|Level information]]**  
+-   **[Level information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_LevelInfo.md)**  
 Each building \(drawing\) has a list of levels. Each level is a map and represents one floor, though that is not a rule.
 
-**Parent Topic:**[[r_GeoJSONMapFiles|GeoJSON map files]]
+**Parent Topic:**[GeoJSON map files](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/r_GeoJSONMapFiles.md)
 
-## Related
-
-- [[r_CampusInfo|Campus information]]
-- [[r_BuildingInfo|Building information]]
-- [[r_LevelInfo|Level information]]
-- [[r_GeoJSONMapFiles|GeoJSON map files]]

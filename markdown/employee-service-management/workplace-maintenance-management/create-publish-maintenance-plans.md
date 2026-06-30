@@ -14,16 +14,16 @@ breadcrumb: [Manage, Workplace Maintenance Management, Workplace Service Deliver
 
 # Create and publish maintenance plans
 
-Create a maintenance plan for workplace assets and locations. Associate multiple services to different plan records based on the type of workplace maintenance [[activity-lxp|activity]].
+Create a maintenance plan for workplace assets and locations. Associate multiple services to different plan records based on the type of workplace maintenance activity.
 
 ## Before you begin
 
 Ensure that the following plugins are installed:
 
--   [[workplace-central-feat|Workplace Central]]
+-   Workplace Central
 -   Enterprise Model and Asset Classes \(sn\_ent\)
--   [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
--   [[workplace-safety-mgmt-hr|Workplace Core]]
+-   Workplace Service Delivery
+-   Workplace Core
 
 Role required: sn\_wsd\_maintenance.manager, sn\_wsd\_maint.admin
 
@@ -165,9 +165,3 @@ For example: Select **Building B**.
 
 **Next topic:**[Maintenance plan calendar view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-maintenance-management/cal-view-overview.md)
 
-## Related
-
-- [[activity-lxp|Activity]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

@@ -28,10 +28,8 @@ Role required: sn\_customerservice.contact\_manager and sn\_customerservice.prox
 
 3.  Select the more actions icon \(\[Omitted image "more\_icon.png"\] Alt text: More actions icon\) and select **Create Contact**.
 
-4.  Fill in the contact details in the [[r_CustomerServiceCaseForm|case form]] and select **Submit**.
+4.  Fill in the contact details in the case form and select **Submit**.
 
 5.  If you want to perform other contact tasks, access the CSM portal by selecting the Pop-out icon \(\[Omitted image "pop-out-icon.png"\] Alt text: Pop-out icon to go to the CSM portal page.\).
 
-## Related
 
-- [[r_CustomerServiceCaseForm|Case form]]

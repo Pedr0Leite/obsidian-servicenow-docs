@@ -14,14 +14,14 @@ breadcrumb: [Configure, Indoor Mapping, Workplace Service Delivery, Employee Ser
 
 # Install Indoor Mapping
 
-Install the [[Indoor-mapping|Indoor Mapping]] application \(sn\_map\_core\) with dependent plugins.
+Install the Indoor Mapping application \(sn\_map\_core\) with dependent plugins.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
 -   Review the Indoor Mapping application listing in the ServiceNow Store for information on dependencies, licensing or subscription requirements, and release compatibility.
 
-**Note:** The application includes demo data and installs related applications and plugins. For Indoor Mapping map objects and map data to work with [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]\[workplace-service-delivery\], install both Workplace Indoor Mapping\[workplace-indoor-mapping\] and Indoor Mapping\[indoor-mapping\] in your instance.
+**Note:** The application includes demo data and installs related applications and plugins. For Indoor Mapping map objects and map data to work with Workplace Service Delivery\[workplace-service-delivery\], install both Workplace Indoor Mapping\[workplace-indoor-mapping\] and Indoor Mapping\[indoor-mapping\] in your instance.
 
 Role required: map admin, admin
 
@@ -54,7 +54,3 @@ For more information, see [Map components installed with Indoor Mapping](https:/
 
 **Next topic:**[Configure your map instance data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/indoor-mapping/configure-map-data.md)
 
-## Related
-
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]

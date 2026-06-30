@@ -14,11 +14,11 @@ breadcrumb: [Malicious code, Hardening settings, Platform Security]
 
 # Enable Code Signing for application configuration data and scripts \[Removed in Security Center 1.3\]
 
-Manage [[code-signing-landing|Code Signing]] for application [[sc-configuration|configuration]] data and scripts on your instance.
+Manage Code Signing for application configuration data and scripts on your instance.
 
 Code Signing can help improve security by validating sensitive application configuration data and scripts before they’re used. Code Signing creates digital signatures for the data, which are later checked to confirm the authenticity and integrity of the data. This verification helps prevent malicious data or scripts from being used on the instance, which may lead to full compromise of the instance.
 
-Enable Code Signing on your instance by following the steps in [[config-code-signing|Configuring Code Signing]]. This results in the **com.snc.kmf.signature.validation.flag** system property being set to true.
+Enable Code Signing on your instance by following the steps in [Configuring Code Signing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/config-code-signing.md). This results in the **com.snc.kmf.signature.validation.flag** system property being set to true.
 
 **Warning:** This is a safe harbor property, meaning the value can't be altered once it's changed. It’s non-revertible.
 
@@ -46,7 +46,7 @@ Configuration type
 
 </td><td>
 
-[[ca-system-properties|System Properties]] \(/sys\_properties\_list.do\)
+System Properties \(/sys\_properties\_list.do\)
 
 </td></tr><tr><td>
 
@@ -101,9 +101,3 @@ None
 </td></tr></tbody>
 </table>**Parent Topic:**[Malicious code](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-malicious-code.md)
 
-## Related
-
-- [[config-code-signing|Configuring Code Signing]]
-- [[code-signing-landing|Code Signing]]
-- [[sc-configuration|Configuration]]
-- [[ca-system-properties|System properties]]

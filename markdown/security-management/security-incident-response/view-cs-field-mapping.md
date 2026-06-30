@@ -14,7 +14,7 @@ breadcrumb: [View information in a security incident, Managing security incident
 
 # View security incident to customer service case mapping
 
-[[sir-landing-page|Security Incident Response]] ships with a default field [[mapping-logrhythm|mapping]] that maps a security incident to a Customer Service case. You can view the security incident to CS case default map.
+Security Incident Response ships with a default field mapping that maps a security incident to a Customer Service case. You can view the security incident to CS case default map.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_cmn.read
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[security-operations-landing-page|Security Operations]]** &gt; **Utilities** &gt; **Field Mapping**.
+1.  Navigate to **All** &gt; **Security Operations** &gt; **Utilities** &gt; **Field Mapping**.
 
 2.  Select **Security Incident to CSM Case Field Mapping** to view the default map.
 
@@ -30,8 +30,4 @@ Role required: sn\_sec\_cmn.read
 
 4.  When you have completed your changes, select **Update**.
 
-## Related
 
-- [[sir-landing-page|Security Incident Response]]
-- [[mapping-logrhythm|Mapping]]
-- [[security-operations-landing-page|Security Operations]]

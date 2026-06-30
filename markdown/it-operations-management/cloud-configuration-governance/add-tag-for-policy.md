@@ -22,11 +22,11 @@ Role required: sn\_cmp.cloud\_governor or admin
 
 ## About this task
 
-See [Create a custom tag for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-tagging.md) for information about how to create and use tags in [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]].
+See [Create a custom tag for cloud resources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/cloud-tagging.md) for information about how to create and use tags in Cloud Provisioning and Governance.
 
 ## Procedure
 
-1.  On the [[cloud-admin-portal|Cloud Admin Portal]], navigate to **Govern** &gt; **Policies**.
+1.  On the Cloud Admin Portal, navigate to **Govern** &gt; **Policies**.
 
 2.  On the **Policy Action Scripts** tab, click **New** and then enter a unique and descriptive **Name**.
 
@@ -115,7 +115,3 @@ On the Cloud Admin Portal, launch the stack that is associated with the storage 
 
 **Parent Topic:**[Create a cloud policy](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/create-cloud-policy.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]
-- [[cloud-admin-portal|Cloud Admin Portal]]

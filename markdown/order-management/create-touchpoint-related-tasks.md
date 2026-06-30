@@ -34,14 +34,14 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 6.  Select **New**.
 
-7.  On the create new task form, fill in the [[fields|fields]].
+7.  On the create new task form, fill in the fields.
 
     For more information about the form fields for the CRM entities, refer to the corresponding topic.
 
     |CRM entity|Form field descriptions|
     |----------|-----------------------|
-    |**Lead**|[[create-lead-task-form|Create new lead task form]]|
-    |**Opportunity**|[[create-opportunity-task-form|Create new opportunity task form]]|
+    |**Lead**|[Create new lead task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-lead-task-form.md)|
+    |**Opportunity**|[Create new opportunity task form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/create-opportunity-task-form.md)|
 
 8.  Select **Save**.
 
@@ -50,20 +50,12 @@ Role required: sn\_crm\_touchpoint.touchpoint\_writer
 
 A task record is created against the CRM entity and touchpoint record. You can view the corresponding task from the respective module. For example, to view opportunity task, navigate to **Opportunity** &gt; **Opportunity Tasks** list menu. You can also access it from the **Opportunity Tasks** tab from the touchpoint record.
 
-**Parent Topic:**[[using-activity-management|Using Activity Management]]
+**Parent Topic:**[Using Activity Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/using-activity-management.md)
 
 **Related topics**  
 
 
-[[opportunity-management-tasks-tab|Add opportunity tasks]]
+[Add opportunity tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/opportunity-management-tasks-tab.md)
 
-[[lead-management-use-tasks-tab|Add lead tasks]]
+[Add lead tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/lead-management-use-tasks-tab.md)
 
-## Related
-
-- [[create-lead-task-form|Create new lead task form]]
-- [[create-opportunity-task-form|Create new opportunity task form]]
-- [[using-activity-management|Using Activity Management]]
-- [[opportunity-management-tasks-tab|Add opportunity tasks]]
-- [[lead-management-use-tasks-tab|Add lead tasks]]
-- [[fields|Fields]]

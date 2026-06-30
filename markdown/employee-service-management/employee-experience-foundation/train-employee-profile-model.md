@@ -14,7 +14,7 @@ breadcrumb: [Employee profile, Setup task management, Configuring Employee Cente
 
 # Manage the employee profile AI and ML model
 
-Use the [[emp-slate-employee-profile|employee profile]] Artificial Intelligence \(AI\) and Machine [[exploring-learning-exp|Learning]] \(ML\) model to view recommended articles and catalog items for similar users.
+Use the employee profile Artificial Intelligence \(AI\) and Machine Learning \(ML\) model to view recommended articles and catalog items for similar users.
 
 ## Before you begin
 
@@ -24,7 +24,7 @@ Opt in to employee profile. For more information, see [Opt in to the employee pr
 
 ## About this task
 
-[[discover-lxp|Discover]] recommendations from similar users using the employee profile ML model. These recommendations remove the dependency on the [[c_HRProfileRecords|HR profile]] ML model. Identify the Knowledge articles and catalog items that are most viewed by similar users. Display the [[rfy-ec|Recommended for you]] section based on the instance configuration made by the admin.
+Discover recommendations from similar users using the employee profile ML model. These recommendations remove the dependency on the HR profile ML model. Identify the Knowledge articles and catalog items that are most viewed by similar users. Display the Recommended for you section based on the instance configuration made by the admin.
 
 You can [Modify the Recommended for you widget display](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-experience-foundation/config-recommended-for-you.md) to show more results.
 
@@ -43,10 +43,3 @@ The employee profile admin can [Manually train the employee profile predictive m
 
 Employees can browse through the Knowledge articles and catalog items viewable in the Recommended for you section using the employee profile ML model.
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]
-- [[exploring-learning-exp|Learning]]
-- [[discover-lxp|Discover]]
-- [[c_HRProfileRecords|HR Profile]]
-- [[rfy-ec|Recommended for you]]

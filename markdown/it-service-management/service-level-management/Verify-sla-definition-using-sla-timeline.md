@@ -14,7 +14,7 @@ breadcrumb: [Monitoring Service Level Agreement \(SLA\), Using Service Level Man
 
 # Verify SLA definition using SLA timeline
 
-You can verify that a task is mapped appropriately with a defined SLA using the [[c_SLATimeline|SLA timeline]]. If a task is mapped with the SLA definition, the SLA timeline displays a graphical representation of the progress of the task SLA.
+You can verify that a task is mapped appropriately with a defined SLA using the SLA timeline. If a task is mapped with the SLA definition, the SLA timeline displays a graphical representation of the progress of the task SLA.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: admin
 
 **Parent Topic:**[Monitoring Service Level Agreement \(SLA\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/service-level-management/c_SLAForTheEndUser.md)
 
-## Related
-
-- [[c_SLATimeline|SLA timeline]]

@@ -12,7 +12,7 @@ breadcrumb: [Configure the Matrix Loader, CPQ app, Configure, price, quote apps,
 
 # Matrix Loader: CSV rules upload
 
-Use the [[matrix_loader_table_of_contents|Matrix Loader]] to bulk create, edit, and export [[rules_101|rules]] in CPQ. Define rule conditions, actions, and logic in a CSV file to streamline configuration management and automate large-scale updates.
+Use the Matrix Loader to bulk create, edit, and export rules in CPQ. Define rule conditions, actions, and logic in a CSV file to streamline configuration management and automate large-scale updates.
 
 The the Matrix Loader enables administrators to efficiently upload and manage all rule types in CPQ. Instead of manually creating each rule in the Admin interface, you can define them in a spreadsheet, export the sheet to CSV format, and upload it directly into the environment. This enables faster configuration setup, easier testing, and simplified migration between sandbox and production environments.
 
@@ -62,7 +62,7 @@ The following operators are supported for condition evaluation:
 ## General guidelines
 
 -   Always verify variable names match the field references exactly.
--   Keep rule descriptions concise but descriptive to aid [[troubleshooting|troubleshooting]].
+-   Keep rule descriptions concise but descriptive to aid troubleshooting.
 -   Use inactive status for testing new rules before enabling in production.
 -   Validate grouping logic \(any/all/custom\) carefully to avoid unintended outcomes.
 -   Ensure product references \(Product2 ID or External ID\) align with your Salesforce configuration.
@@ -80,20 +80,13 @@ Administrators can export all rule definitions from the CPQ environment to CSV f
 
 -   Valid strings may include letters, numbers, spaces, and special characters: `{ } [ ] ( ) | \ ~ ` _ ^ @ ? < = > ; : / . - , + * ’ & % $ # "`
 -   Rule variable names can contain up to 255 alphanumeric characters and underscores. They must begin and end with a letter or number.
--   Cells with gray backgrounds in sample files denote irrelevant [[fields|fields]] for the current context.
+-   Cells with gray backgrounds in sample files denote irrelevant fields for the current context.
 -   Use the provided sample files \(Admin → Matrix Loader → Sample Files → Rules\) as a template for formatting.
 
 **Related topics**  
 
 
-[[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
+[Configure the Matrix Loader](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-using-the-matrix-loader.md)
 
 [Matrix Loader: CSV rules upload](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/matrix_loader_csv_rules_upload.md)
 
-## Related
-
-- [[cpq-using-the-matrix-loader|Configure the Matrix Loader]]
-- [[matrix_loader_table_of_contents|Matrix Loader]]
-- [[rules_101|Rules]]
-- [[troubleshooting|Troubleshooting]]
-- [[fields|Fields]]

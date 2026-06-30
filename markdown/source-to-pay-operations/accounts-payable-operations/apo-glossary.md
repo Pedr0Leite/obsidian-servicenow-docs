@@ -15,7 +15,7 @@ breadcrumb: [Reference, Accounts Payable Operations, Finance and Supply Chain]
 
 # Accounts Payable Operations glossary
 
-Learn about the terms and concepts used in [[acc-pay-mgmt-landing-page|Accounts Payable Operations]] \(APO\).
+Learn about the terms and concepts used in Accounts Payable Operations \(APO\).
 
 Glossary terms are grouped alphabetically.
 
@@ -30,7 +30,7 @@ Glossary terms are grouped alphabetically.
 
 [Create New Invoice Line form]()
 
-[Create [[invoice-line-cost-allocation|invoice cost allocation]] form]()
+[Create invoice cost allocation form]()
 
 [Outbound cost allocation staging table]()
 
@@ -60,19 +60,19 @@ Glossary terms are grouped alphabetically.
 
 ### account number
 
-The [[supplier|supplier]]'s bank account number for payment processing. Displayed when capturing invoice details from documents.
+The supplier's bank account number for payment processing. Displayed when capturing invoice details from documents.
 
 ### Accounts Payable
 
-The process of managing and paying [[invoices|invoices]] from suppliers.
+The process of managing and paying invoices from suppliers.
 
 ### Accounts payable agent
 
-User role \(sn\_ap\_cm.agent\) who handles inquiry cases from suppliers or employees in the [[purch-order-mgmt-ws|Source-to-Pay workspace]].
+User role \(sn\_ap\_cm.agent\) who handles inquiry cases from suppliers or employees in the Source-to-Pay workspace.
 
 ### Accounts payable invoice processing
 
-Application that identifies invoice duplicates, matches invoices to purchase orders and goods [[receipts|receipts]], enables invoice approval management, and provides invoice exception management.
+Application that identifies invoice duplicates, matches invoices to purchase orders and goods receipts, enables invoice approval management, and provides invoice exception management.
 
 ### Accounts Payable Operations \(APO\)
 
@@ -132,7 +132,7 @@ A case state indicating that the case is waiting for additional information from
 
 ### Business owner
 
-Individual responsible for approving invoice or managing exceptions; must be valid and active, matching [[purchase-order-table|purchase order]] if invoice is PO type.
+Individual responsible for approving invoice or managing exceptions; must be valid and active, matching purchase order if invoice is PO type.
 
 ## C
 
@@ -194,11 +194,11 @@ Enterprise Resource Planning - external system integrated with APO for invoice p
 
 ### ERP integration framework
 
-Framework enabling APO to post invoices to external ERP systems and track [[integration-errors-during-erp-posting|integration errors]] when posting fails due to data issues or connectivity problems.
+Framework enabling APO to post invoices to external ERP systems and track integration errors when posting fails due to data issues or connectivity problems.
 
 ### ERP Source
 
-External ERP system reference that ensures consistent data sourcing for invoice fields like purchase order, [[legal-entity|legal entity]], supplier to prevent integration errors.
+External ERP system reference that ensures consistent data sourcing for invoice fields like purchase order, legal entity, supplier to prevent integration errors.
 
 ### Exception engine
 
@@ -214,7 +214,7 @@ Scheduled job running every five minutes, by default, to automatically check inv
 
 ### Exception task
 
-Task created to resolve specific [[work-with-invoice-exceptions|invoice exceptions]]; can be auto-created by the system \(for example, [[receipt-tasks|receipt tasks]]\) or manually created by Accounts Payable Specialists.
+Task created to resolve specific invoice exceptions; can be auto-created by the system \(for example, receipt tasks\) or manually created by Accounts Payable Specialists.
 
 ### Extraction confidence
 
@@ -234,7 +234,7 @@ Temporary tables that store invoice data received from external systems before t
 
 ### Inquiry case
 
-Case type submitted by employees or suppliers for invoice-related questions, including payment inquiry, invoice inquiry, expedite payment request, [[payment-terms|payment terms]] issues, and invoice entry assistance.
+Case type submitted by employees or suppliers for invoice-related questions, including payment inquiry, invoice inquiry, expedite payment request, payment terms issues, and invoice entry assistance.
 
 ### Integration error
 
@@ -250,7 +250,7 @@ The process of verifying and authorizing an invoice for payment.
 
 ### Invoice automation
 
-Case category for automated [[working-with-ingestion-cases|invoice processing cases]] created when invoices are ingested through Document Intelligence or API.
+Case category for automated invoice processing cases created when invoices are ingested through Document Intelligence or API.
 
 ### Invoice case
 
@@ -274,7 +274,7 @@ Individual line item on an invoice representing specific goods or services purch
 
 ### Invoice line mapping
 
-Process of matching invoice lines with corresponding [[purchase-order-lines|purchase order lines]] using rules-based engine or Now Assist for automated or AI-assisted mapping.
+Process of matching invoice lines with corresponding purchase order lines using rules-based engine or Now Assist for automated or AI-assisted mapping.
 
 ### Invoice processing
 
@@ -304,7 +304,7 @@ Financial account to which invoice costs are posted; used in cost allocation to 
 
 ### Legal entity
 
-Required field on invoices representing the business entity responsible for payment; used in [[supplier-legal-entity-mapping|supplier legal entity mapping]] and [[erp-source|ERP source]] determination.
+Required field on invoices representing the business entity responsible for payment; used in supplier legal entity mapping and ERP source determination.
 
 ## N
 
@@ -434,7 +434,7 @@ Centralized entry point for invoice owners, suppliers, and customers to submit g
 
 ### UR
 
-Acronym for [[universal-request|Universal Request]].
+Acronym for Universal Request.
 
 ## V
 
@@ -454,29 +454,9 @@ Automated process flow managing invoice progression through various stages from 
 
 ### work item
 
-Task or interaction record representing customer requests that need assignment and processing; routed through [[advanced-work-assignment|Advanced Work Assignment]] queues.
+Task or interaction record representing customer requests that need assignment and processing; routed through Advanced Work Assignment queues.
 
 ### Work item queue
 
 A storage area for work items waiting to be assigned to agents.
 
-## Related
-
-- [[acc-pay-mgmt-landing-page|Accounts Payable Operations]]
-- [[invoice-line-cost-allocation|Invoice cost allocation]]
-- [[supplier|Supplier]]
-- [[invoices|Invoices]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[receipts|Receipts]]
-- [[purchase-order-table|Purchase order]]
-- [[integration-errors-during-erp-posting|Integration errors]]
-- [[legal-entity|Legal entity]]
-- [[work-with-invoice-exceptions|Invoice exceptions]]
-- [[receipt-tasks|Receipt tasks]]
-- [[payment-terms|Payment terms]]
-- [[working-with-ingestion-cases|Invoice processing cases]]
-- [[purchase-order-lines|Purchase order lines]]
-- [[supplier-legal-entity-mapping|Supplier Legal Entity Mapping]]
-- [[erp-source|ERP source]]
-- [[universal-request|Universal Request]]
-- [[advanced-work-assignment|advanced work assignment]]

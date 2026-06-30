@@ -14,7 +14,7 @@ breadcrumb: [Configure Emergency Outreach notifications, Emergency Outreach, Eme
 
 # Configure Emergency Outreach response options
 
-Configure the response options that employees choose from to respond to an [[emergency-outreach|Emergency Outreach]] health status request. You can modify the base system responses, add new responses, and deactivate responses you no longer use.
+Configure the response options that employees choose from to respond to an Emergency Outreach health status request. You can modify the base system responses, add new responses, and deactivate responses you no longer use.
 
 ## Before you begin
 
@@ -118,6 +118,4 @@ The mode of the outreach notification, such as Outreach Acknowledgements.
 
 5.  Deactivate a response option by clearing the **Active** check box and clicking **Update**.
 
-## Related
 
-- [[emergency-outreach|Emergency Outreach]]

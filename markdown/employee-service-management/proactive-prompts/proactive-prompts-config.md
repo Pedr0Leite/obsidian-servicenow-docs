@@ -14,7 +14,7 @@ breadcrumb: [Proactive Prompts, HR Service Delivery, Employee Service Management
 
 # Configuring Proactive Prompts
 
-If you have the admin role, you can install the [[proactive-prompts-for-hrsd|Proactive Prompts]] application and configure it to display relevant prompts to the managers and employees in your organization. With these instructions, you can enable workflow efficiency and quicker turnaround.
+If you have the admin role, you can install the Proactive Prompts application and configure it to display relevant prompts to the managers and employees in your organization. With these instructions, you can enable workflow efficiency and quicker turnaround.
 
 A signal is the configuration for prompts about when to send them, what to send, whom to send them to, where to send them, and related actions to generate and deliver them. You can define whom to send the signal to, how often, and on what channels. The Proactive Prompts application supports all conversational interface \(CI\) channels apart from the portal.
 
@@ -28,6 +28,3 @@ Configuring Proactive Prompts is a multi-step process:
 -   [Configure actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-actions.md). You determine the actions to generate and deliver the prompts.
 -   [Configuring schedules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/proactive-prompts/proactive-prompts-signal-schedules.md). You choose the frequency that you want the data source to process the data and to generate the prompts in the selected channels.
 
-## Related
-
-- [[proactive-prompts-for-hrsd|Proactive Prompts]]

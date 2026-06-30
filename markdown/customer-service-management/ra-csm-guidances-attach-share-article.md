@@ -23,16 +23,16 @@ Each card contains a primary action. The default primary action is [Attach and a
 -   [Add link in work notes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-attach-share-article.md)
 -   [Attach and add link in email](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances-attach-share-article.md)
 
-The same primary and secondary actions are available in the expanded detail view. The system administrator can configure the primary and secondary actions in the **Recommended action specific configuration** property. For more information, see [[ra-csm-guidances|Configuring guidances in UI Builder]].
+The same primary and secondary actions are available in the expanded detail view. The system administrator can configure the primary and secondary actions in the **Recommended action specific configuration** property. For more information, see [Configuring guidances in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances.md).
 
-The relevancy score displays on the Attach and share article guidance in the Search tab of the [[configure-nba|Recommended Actions]] contextual side panel. It indicates how well a search result matches the agent’s query.
+The relevancy score displays on the Attach and share article guidance in the Search tab of the Recommended Actions contextual side panel. It indicates how well a search result matches the agent’s query.
 
 ## Modal and modeless dialog experiences
 
-The agent can share the article in a comment, a work note, or an email using the primary and secondary actions. Two different experiences are available for this guidance depending on the [[csm-config-workspace-record-pages|record page]] you're using in the [[csm-workspaces-configure|CSM Configurable Workspace]]:
+The agent can share the article in a comment, a work note, or an email using the primary and secondary actions. Two different experiences are available for this guidance depending on the [record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-config-workspace-record-pages.md) you're using in the CSM Configurable Workspace:
 
--   **Modeless dialogs**: This experience is available for record pages that support [[csm-front-line-case-page-modeless-dialogs|modeless dialogs]] \(for example, the [[csm-front-line-case-page|Front-line case page]]\). Modeless dialogs are windows that overlay the main window content. Agents can move modeless dialogs around the window so they can interact with the window content and overlay content at the same time.
--   **Modals**: This experience is available for record pages that support modals \(for example, the [[csm-default-record-page|CSM default record page]]\). With modals, agents must complete the action within a modal before continuing to interact with the window content, which is the default experience.
+-   **Modeless dialogs**: This experience is available for record pages that support [modeless dialogs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page-modeless-dialogs.md) \(for example, the [Front-line case page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-front-line-case-page.md)\). Modeless dialogs are windows that overlay the main window content. Agents can move modeless dialogs around the window so they can interact with the window content and overlay content at the same time.
+-   **Modals**: This experience is available for record pages that support modals \(for example, the [CSM default record page](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/csm-default-record-page.md)\). With modals, agents must complete the action within a modal before continuing to interact with the window content, which is the default experience.
 
 The system administrator can configure the modal and modeless dialog experiences in the **Recommended Action Specific Configuration** property. For more information, see [Configuring guidances in UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-guidances.md).
 
@@ -178,7 +178,7 @@ Secondary actions \(available in the more options menu\)
 </table>
 ## Attach and add links in comments
 
-Use this action to attach a knowledge article to a case record and share the link in the [[csm-config-ws-activity-stream|activity stream]]. The behavior of the action depends on the modal or modeless dialog experience.
+Use this action to attach a knowledge article to a case record and share the link in the activity stream. The behavior of the action depends on the modal or modeless dialog experience.
 
 <table id="table_s3n_nvk_ddc"><thead><tr><th>
 
@@ -330,13 +330,3 @@ In the detail view, these actions include:
 -   Mark article as helpful
 -   Flag article
 
-## Related
-
-- [[ra-csm-guidances|Guidances in Recommended Actions]]
-- [[csm-config-workspace-record-pages|CSM Configurable Workspace record pages]]
-- [[csm-front-line-case-page-modeless-dialogs|Modeless dialogs]]
-- [[csm-front-line-case-page|Front-line case page]]
-- [[csm-default-record-page|CSM default record page]]
-- [[configure-nba|Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[csm-config-ws-activity-stream|Activity stream]]

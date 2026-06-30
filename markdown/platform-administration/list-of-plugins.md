@@ -12,18 +12,18 @@ breadcrumb: [ServiceNow plugins, Basic system configuration, Get started, Admini
 
 # List of plugins \(Australia\)
 
-You can view all plugins available to you in the [[application-manager|Application Manager]] if you have the admin role.
+You can view all plugins available to you in the Application Manager if you have the admin role.
 
 [Application Manager](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/application-manager/application-manager.md) provides admins the ability to install, update, and manage licensed applications and plugins for their instance.
 
 If a plugin does not appear within the Application Manager, it may require activation by ServiceNow personnel. Request these plugins through the Now Support Customer Service System instead of activating them yourself.
 
 -   For a list of all new and changed plugins for the Australia release, see [Plugin information for all Australia features and products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/release-notes/rn-summary-plugin-info.md).
--   For steps on activating a plugin yourself, see [[t_ActivateAPlugin|Activate a plugin]].
--   For steps on requesting a plugin that you cannot activate yourself, see [[t_RequestAPlugin|Request a plugin]].
--   For steps on installing a [[servicenow-store|ServiceNow Store]] application, see [[t_InstallApplications|Install a ServiceNow Store application]].
+-   For steps on activating a plugin yourself, see [Activate a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ActivateAPlugin.md).
+-   For steps on requesting a plugin that you cannot activate yourself, see [Request a plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_RequestAPlugin.md).
+-   For steps on installing a ServiceNow Store application, see [Install a ServiceNow Store application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_InstallApplications.md).
 
-**Parent Topic:**[[c_ServiceNowPlugins|ServiceNow plugins]]
+**Parent Topic:**[ServiceNow plugins](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_ServiceNowPlugins.md)
 
 **Related topics**  
 
@@ -32,11 +32,3 @@ If a plugin does not appear within the Application Manager, it may require activ
 
 [Request a plugin]()
 
-## Related
-
-- [[t_ActivateAPlugin|Activate a plugin]]
-- [[t_RequestAPlugin|Request a plugin]]
-- [[t_InstallApplications|Install a ServiceNow Store application]]
-- [[c_ServiceNowPlugins|ServiceNow plugins]]
-- [[application-manager|Application Manager]]
-- [[servicenow-store|ServiceNow Store]]

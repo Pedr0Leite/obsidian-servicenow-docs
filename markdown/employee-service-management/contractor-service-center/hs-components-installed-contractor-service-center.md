@@ -14,7 +14,7 @@ breadcrumb: [Reference, Contractor Service Center, Health and Safety, Employee S
 
 # Components installed with Contractor Service Center
 
-Several types of components are installed with activation of the [[hs-contractor-service-center-landing-page|Contractor Service Center]] plugin, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren't already installed.
+Several types of components are installed with activation of the Contractor Service Center plugin, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren't already installed.
 
 ## Store applications installed
 
@@ -28,29 +28,29 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
+Health and Safety Contractor Management
 
  \[sn\_hs\_crm\]
 
 </td><td>
 
-Installs contractor pre-qualification capabilities enabling contractors to prequalify contractor companies and their workers and monitor them in the [[health-safety-overview|Health and Safety]] application.
+Installs contractor pre-qualification capabilities enabling contractors to prequalify contractor companies and their workers and monitor them in the Health and Safety application.
 
- For more information on [[components-installed-with-hs-contractor-mgmt|components installed with Health and Safety Contractor Management]], see [Components installed with Health and Safety Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/components-installed-with-hs-contractor-mgmt.md).
+ For more information on components installed with Health and Safety Contractor Management, see [Components installed with Health and Safety Contractor Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-contractor-management/components-installed-with-hs-contractor-mgmt.md).
 
 </td></tr><tr><td>
 
-[[hs-core-landing|Health and Safety Core]]
+Health and Safety Core
 
 </td><td>
 
-Installs core data model for Health and Safety. This data model includes common components such as [[health-and-safety-user-profile|Health and Safety user profile]] and actions that are used in the Health and Safety applications.
+Installs core data model for Health and Safety. This data model includes common components such as Health and Safety user profile and actions that are used in the Health and Safety applications.
 
  For more information on store applications, roles, and tables installed with Health and Safety Core, see [Components installed with Health and Safety Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/health-and-safety-core/components-installed-hs-core.md).
 
 </td></tr><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \[sn\_wsd\_core\]
+Workplace Core \[sn\_wsd\_core\]
 
 </td><td>
 
@@ -125,12 +125,3 @@ Used to configure the menu items for the service center portal.
 </td></tr></tbody>
 </table>**Parent Topic:**[Contractor Service Center reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-reference.md)
 
-## Related
-
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]
-- [[hs-contractor-mgmt-landing-page|Health and Safety Contractor Management]]
-- [[health-safety-overview|Health and Safety]]
-- [[components-installed-with-hs-contractor-mgmt|Components installed with Health and Safety Contractor Management]]
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]

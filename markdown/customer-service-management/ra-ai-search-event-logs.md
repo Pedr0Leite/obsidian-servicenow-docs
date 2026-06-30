@@ -38,7 +38,7 @@ The logging of search-related events within a search system focuses on how searc
     -   Genius Result Actions table \[sys\_search\_genius\_result\_event\_action\]: Stores signal data for user interactions with Genius Result answer cards.
     For more information on the preceding tables, see [Search signal tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-signal-tables.md).
 
--   AI search analytics: The logged data is then used to populate the AI search analytics dashboards, either prebuilt or custom, enabling you to track and analyze the interactions with search results effectively. For more information on the AI search analytics dashboard, see [AI Search analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search-analytics-dashboard.md). You can view the CSM workspace-related AI Search usage within [[configure-nba|Recommended Actions]] in the AI Search Analytics dashboard by selecting the **\[CSM AIS\] Configurable Workspace Search Config** option in the application drop-down on the top-right.
+-   AI search analytics: The logged data is then used to populate the AI search analytics dashboards, either prebuilt or custom, enabling you to track and analyze the interactions with search results effectively. For more information on the AI search analytics dashboard, see [AI Search analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search-analytics-dashboard.md). You can view the CSM workspace-related AI Search usage within Recommended Actions in the AI Search Analytics dashboard by selecting the **\[CSM AIS\] Configurable Workspace Search Config** option in the application drop-down on the top-right.
 
 ## Custom action log payload structure
 
@@ -48,9 +48,5 @@ For custom action logging, that is, for the action you create on a guidance prev
 api.emit(LOG_SEARCH_RESULT_EVENT, {actionData: {actionName: actionId}})
 ```
 
-For more details on how to configure the payload for custom actions, see [[customize-ra-preview-experience|Customize a guidance preview experience in the UI Builder]].
+For more details on how to configure the payload for custom actions, see [Customize a guidance preview experience in the UI Builder](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customize-ra-preview-experience.md).
 
-## Related
-
-- [[customize-ra-preview-experience|Customize a guidance preview experience in the UI Builder]]
-- [[configure-nba|Recommended Actions]]

@@ -23,7 +23,7 @@ Role required: admin
 
 ## About this task
 
-A UI page is a ServiceNow page that is not a list or a form. Not every UI page will fit in a widget. Some UI pages, such as external site [[widgets|widgets]] or gadgets, don’t display properly when placed in a dashboard.
+A UI page is a ServiceNow page that is not a list or a form. Not every UI page will fit in a widget. Some UI pages, such as external site widgets or gadgets, don’t display properly when placed in a dashboard.
 
 To learn how to make a UI page without using a framework page template, see the [Making a UI page without using the framework page template](https://community.servicenow.com/community?id=community_blog&sys_id=e26e22eddbd0dbc01dcaf3231f96196e) blog posting by a developer in the ServiceNow Community.
 
@@ -125,6 +125,3 @@ The name of the UI page from step 1 to show in the widget.
 
 **Parent Topic:**[Widgets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/performance-analytics/widgets.md)
 
-## Related
-
-- [[widgets|Widgets]]

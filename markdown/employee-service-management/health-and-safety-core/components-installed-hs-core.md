@@ -14,7 +14,7 @@ breadcrumb: [Reference, Health and Safety Core, Health and Safety, Employee Serv
 
 # Components installed with Health and Safety Core
 
-Several types of components are installed with installation of the [[hs-core-landing|Health and Safety Core]] data model, including tables, user roles, and scheduled jobs. This data model is automatically installed with [[health-safety-overview|Health and Safety]] applications.
+Several types of components are installed with installation of the Health and Safety Core data model, including tables, user roles, and scheduled jobs. This data model is automatically installed with Health and Safety applications.
 
 **Note:** The Application Files table lists the components that are installed with this application. For instructions on how to access this table, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
@@ -65,11 +65,11 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-[[workplace-safety-mgmt-hr|Workplace Core]] \[sn\_wsd\_core\]
+Workplace Core \[sn\_wsd\_core\]
 
 </td><td>
 
-Enables workplace locations for [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]].**Important:** The application installation doesn’t install the location demo data for the Workplace Core location model. As a workaround, repair the Workplace Core plugin with the **Load demo data** option.
+Enables workplace locations for Health and Safety Incident Management.**Important:** The application installation doesn’t install the location demo data for the Workplace Core location model. As a workaround, repair the Workplace Core plugin with the **Load demo data** option.
 
 </td></tr><tr><td>
 
@@ -162,7 +162,7 @@ Safety reporter
 
 </td><td>
 
-Can submit Health and Safety incidents, observations, and questions from [[employee-center-landing-page|Employee Center]] and [[mobile-employee-experience|Now Mobile app]]
+Can submit Health and Safety incidents, observations, and questions from Employee Center and Now Mobile app
 
 </td><td>
 
@@ -209,7 +209,7 @@ Safety workspace user
 
 </td><td>
 
-Can access [[health-safety-core-workspace|Health and Safety Workspace]].
+Can access Health and Safety Workspace.
 
 </td><td>
 
@@ -223,7 +223,7 @@ Safety report manager
 
 </td><td>
 
-Safety report manager who can:-   Create and manage report [[field-mappings-sf|field mappings]] in Health and Safety Workspace
+Safety report manager who can:-   Create and manage report field mappings in Health and Safety Workspace
 -   Script report field mappings
 
 </td><td>
@@ -810,7 +810,7 @@ AI action suggestion
 
 </td><td>
 
-Staging table that stores all AI-suggested actions that are generated in the Action Planner.This table is installed only when the [[now-assist-hs-landing|Now Assist for Health and Safety]] \(sn\_hs\_gen\_ai\) application is installed on your instance. For more information, see [Generate and manage AI‑suggested safety actions in Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-generate-ai-suggested-actions-in-action-planner.md).
+Staging table that stores all AI-suggested actions that are generated in the Action Planner.This table is installed only when the Now Assist for Health and Safety \(sn\_hs\_gen\_ai\) application is installed on your instance. For more information, see [Generate and manage AI‑suggested safety actions in Action planner](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/now-assist-for-health-and-safety/now-assist-hs-generate-ai-suggested-actions-in-action-planner.md).
 
 </td></tr><tr><td>
 
@@ -940,7 +940,7 @@ Root cause analysis
 
 </td><td>
 
-[[reference-hr-service-delivery-advanced-integration-with-workday|Reference]] base Health and Safety task \[sn\_ohs\_im\_task\] so that it can be associated with any table that extends Health and Safety Task, for example, Health and Safety incident \[sn\_ohs\_im\_incident\].​ This table is the base table extended by all RCA types.
+Reference base Health and Safety task \[sn\_ohs\_im\_task\] so that it can be associated with any table that extends Health and Safety Task, for example, Health and Safety incident \[sn\_ohs\_im\_incident\].​ This table is the base table extended by all RCA types.
 
 </td></tr><tr><td>
 
@@ -1032,15 +1032,3 @@ Stores records of all visitors that have visited your organization or site.
 
 [Health and Safety meeting attendee form]()
 
-## Related
-
-- [[hs-core-landing|Health and Safety Core]]
-- [[health-safety-overview|Health and Safety]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[hs-incident-mgmt-landing-page|Health and Safety Incident Management]]
-- [[employee-center-landing-page|Employee Center]]
-- [[mobile-employee-experience|Now Mobile app]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[field-mappings-sf|Field mappings]]
-- [[now-assist-hs-landing|Now Assist for Health and Safety]]
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]

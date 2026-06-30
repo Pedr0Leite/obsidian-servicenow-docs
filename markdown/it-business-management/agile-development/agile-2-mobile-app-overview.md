@@ -14,7 +14,7 @@ breadcrumb: [Agile Development, Strategic Portfolio Management]
 
 # Mobile experience for Agile Development 2.0
 
-Track and update the status of your stories and scrum tasks of the current sprint from your mobile device using the [[agile-development|Agile Development]] v2 mobile app.
+Track and update the status of your stories and scrum tasks of the current sprint from your mobile device using the Agile Development v2 mobile app.
 
 With the Agile Development v2 mobile app, you track sprints for the assignment groups that you are a part of. From your mobile device, you can do the following operations for the current sprint:
 
@@ -34,6 +34,3 @@ View, edit, and update the details of scrum tasks that were created for the stor
 
 **Parent Topic:**[Agile Development](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/agile-development/agile-development.md)
 
-## Related
-
-- [[agile-development|Agile Development]]

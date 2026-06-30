@@ -14,7 +14,7 @@ breadcrumb: [Field Service Contractor for mobile, ServiceNow Agent mobile app, C
 
 # Track or add work order task information on a mobile device
 
-View activities related to your work order task through the [[wot-fsc|Field Service Contractor for mobile]] application. You can also add documents, images, or work notes to the work order task record.
+View activities related to your work order task through the Field Service Contractor for mobile application. You can also add documents, images, or work notes to the work order task record.
 
 ## Before you begin
 
@@ -88,7 +88,3 @@ Enter the comment in the **Add comment** field
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[wot-fsc|Field Service Contractor for mobile]]

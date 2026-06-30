@@ -22,7 +22,7 @@ To include virtual agent functionality in your mobile applications, you first mu
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **System Mobile** &gt; **[[mab-concept|Mobile App Builder]]**.
+1.  Navigate to **All** &gt; **System Mobile** &gt; **Mobile App Builder**.
 
     The Mobile App Builder
 
@@ -49,9 +49,5 @@ To include virtual agent functionality in your mobile applications, you first mu
 10. Select **Save**.
 
 
-**Parent Topic:**[[sg-av-context-action|Configure a contextual link to Virtual Agent]]
+**Parent Topic:**[Configure a contextual link to Virtual Agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-av-context-action.md)
 
-## Related
-
-- [[sg-av-context-action|Configure a contextual link to Virtual Agent]]
-- [[mab-concept|Mobile App Builder]]

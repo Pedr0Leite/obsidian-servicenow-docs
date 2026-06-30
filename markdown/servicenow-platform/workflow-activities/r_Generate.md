@@ -41,7 +41,7 @@ Expected start dates and due dates are calculated based on the **Expected Durati
 
 The **Generate** activity can be used more than once, and any tasks or approvals will be refreshed with updated information. This is useful in situations where the list of approvers or other important information is still editable while the workflow is in process and it may be necessary to update or correct the generated approvals or tasks.
 
-To exclude a set of activities from the **Generate** activity, select the **Skip during generate** [[check-box|check box]] on any condition and its transitions will not be followed during the generate process. By default, the following conditions have the **Skip during generate** check box selected:
+To exclude a set of activities from the **Generate** activity, select the **Skip during generate** check box on any condition and its transitions will not be followed during the generate process. By default, the following conditions have the **Skip during generate** check box selected:
 
 -   **Rejected** \(for any of the approval activities\)
 -   **No** condition of **If** activity
@@ -94,6 +94,3 @@ In this example, if the **Generate** activity is run on Jan 1, 2016, the followi
 
 Notice that Task 5 starts on Jan. 4, 2016 since the longest path \(based on due dates\) to the **Join** is Task 3/Task 4.
 
-## Related
-
-- [[check-box|Check box]]

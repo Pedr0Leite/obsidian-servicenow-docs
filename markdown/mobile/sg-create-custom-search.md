@@ -39,15 +39,10 @@ Configuration for search consist of linking the following records:
 
 \[Omitted image "search-diagram.png"\] Alt text: Diagram showing relationship of records used in search.
 
--   **[[sg-create-search-source|Create a search source]]**  
+-   **[Create a search source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-create-search-source.md)**  
 Create a search source to define what records can be found in your search bar.
--   **[[sg-mobile-search-e2e|Create a search configuration]]**  
+-   **[Create a search configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-search-e2e.md)**  
 Create a search configuration. This record connects your launcher screen with the other records used to configure search.
--   **[[sg-mobile-search-alp-config|Add your search configuration to a launcher screen]]**  
+-   **[Add your search configuration to a launcher screen](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-search-alp-config.md)**  
 Update your launcher screen to use your custom search configuration.
 
-## Related
-
-- [[sg-create-search-source|Create a search source]]
-- [[sg-mobile-search-e2e|Create a search configuration]]
-- [[sg-mobile-search-alp-config|Add your search configuration to a launcher screen]]

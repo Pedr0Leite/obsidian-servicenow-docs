@@ -109,7 +109,7 @@ Version
 
 </td><td>
 
-Selected version of the knowledge article. This field appears when the [[article-versioning|article versioning]] feature is enabled. In the figure, 1.01 is the selected version of the article.
+Selected version of the knowledge article. This field appears when the article versioning feature is enabled. In the figure, 1.01 is the selected version of the article.
 
 </td></tr><tr><td>
 
@@ -139,6 +139,3 @@ List of article attachments. This field appears if the knowledge administrator h
 
 [Publish a knowledge article in Agent Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/publish-knowledge-article-workspace.md)
 
-## Related
-
-- [[article-versioning|Article versioning]]

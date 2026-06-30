@@ -14,7 +14,7 @@ breadcrumb: [Perform Zscaler remediation, ACC deployment - endpoints, Configurin
 
 # Use the Zscaler dashboard
 
-Use the Zscaler dashboard to view Zscaler monitoring and [[ccg-remediation|remediation]] statuses in graph format.
+Use the Zscaler dashboard to view Zscaler monitoring and remediation statuses in graph format.
 
 ## Before you begin
 
@@ -43,6 +43,3 @@ Role required: agent\_client\_collector\_admin
 
 **Parent Topic:**[Perform Zscaler remediation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/agent-client-collector/zscaler-remediation-concept.md)
 
-## Related
-
-- [[ccg-remediation|Remediation]]

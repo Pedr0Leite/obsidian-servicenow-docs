@@ -22,7 +22,7 @@ Role required: admin \(sb\_admin\)
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[tmt-service-bridge-both-landing-page|Service Exchange]] Provider** &gt; **Administration** &gt; **Provider Center**.
+1.  Navigate to **All** &gt; **Service Exchange Provider** &gt; **Administration** &gt; **Provider Center**.
 
 2.  Select the **Scan suite** tab.
 
@@ -39,7 +39,7 @@ Role required: admin \(sb\_admin\)
     You see all identified issues categorized by priority: high, medium, and low. You can click an individual issue to view resolution details.
 
 
-**Parent Topic:**[[service-bridge-v2-administer|Using Service Exchange for providers]]
+**Parent Topic:**[Using Service Exchange for providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/service-bridge-v2-administer.md)
 
 ## Modify the scan suite schedule as a provider
 
@@ -63,10 +63,5 @@ Role required: admin \(sb\_admin\)
 **Related topics**  
 
 
-[[se-se-center|Service Exchange Center]]
+[Service Exchange Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-exchange/se-se-center.md)
 
-## Related
-
-- [[service-bridge-v2-administer|Using Service Exchange for providers]]
-- [[se-se-center|Service Exchange Center]]
-- [[tmt-service-bridge-both-landing-page|Service Exchange]]

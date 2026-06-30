@@ -14,11 +14,11 @@ breadcrumb: [Tracking and troubleshooting, CMDB Health, Configuration Management
 
 # CMDB Health process status: failure threshold reached
 
-The [[c_CMDBHealth|CMDB Health]] Dashboard shows the string ‘failure threshold reached' when the number of CIs that are failing the metric tests, reaches the failure threshold set for the metric.
+The CMDB Health Dashboard shows the string ‘failure threshold reached' when the number of CIs that are failing the metric tests, reaches the failure threshold set for the metric.
 
 CMDB Health stops processing for this metric in the current cycle, and therefore there is no aggregated health score for the metric. Processing will be attempted again in the next cycle. Also, status in the CMDB Health Metric Status \[cmdb\_health\_metric\_status\] table is set to **Max Failures** for this metric.
 
-When the health score of a metric cannot be evaluated, then the processing status of the respective KPI \(for example, correctness\) is set to **Incomplete**. The CMDB Health Dashboard shows the string **[[incomplete-score|Incomplete score]]** for the respective KPI. Also, aggregated health scores for the metric are not available for any class in the CMDB hierarchy.
+When the health score of a metric cannot be evaluated, then the processing status of the respective KPI \(for example, correctness\) is set to **Incomplete**. The CMDB Health Dashboard shows the string **Incomplete score** for the respective KPI. Also, aggregated health scores for the metric are not available for any class in the CMDB hierarchy.
 
 Review and refine the rules defined for the metric which has reached max failures. If a rule associated with the metric is too generic, resulting in large number of failures, attempt to refine it as follows:
 
@@ -42,7 +42,3 @@ For more troubleshooting information about failure threshold related issues, see
 
 **Parent Topic:**[CMDB Health process tracking and troubleshooting](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/c_CMDBHealthTroubleshooting.md)
 
-## Related
-
-- [[c_CMDBHealth|CMDB Health]]
-- [[incomplete-score|incomplete score]]

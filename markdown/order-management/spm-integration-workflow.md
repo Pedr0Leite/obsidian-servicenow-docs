@@ -16,15 +16,15 @@ The workflow shows how the Strategic Portfolio Management integration works.
 
 ## How the SPM integration works
 
-The [[order-mgt-integrating-spm|Order Management integration with Strategic Portfolio Management]] uses the Project Portfolio Management \(PPM\) standard application in SPM to track fulfillment tasks as projects in your organization. This integration also works with the Customer Project Management application if you want to track customer [[reviewing-orchestration-plans-order-fulfillment|order fulfillment]] tasks as customer projects automatically.
+The Order Management integration with Strategic Portfolio Management uses the Project Portfolio Management \(PPM\) standard application in SPM to track fulfillment tasks as projects in your organization. This integration also works with the Customer Project Management application if you want to track customer order fulfillment tasks as customer projects automatically.
 
 -   **Configuration**
 
     Admins set up the SPM integration by configuring these items:
 
     -   Project templates: Create the PPM project and site project templates that are used to generate the SPM projects automatically for orders requiring project oversight. Project templates also define the planned tasks for order delivery.
-    -   [[explore-order-management|Order Management]] project oversight conditions and [[rules_101|rules]]: Set the conditions and decision rules that determine the orders that qualify for project oversight and the project templates used to create those projects. You use different Project Management Oversight decision tables to specify the conditions and rules for order lines, site locations, domain orders, and order tasks and the appropriate project template to be used.
-    -   Field mapping in CSM table maps: Associate Order Management [[fields|fields]] to SPM project fields by configuring the field mapping in the CSM table maps.
+    -   Order Management project oversight conditions and rules: Set the conditions and decision rules that determine the orders that qualify for project oversight and the project templates used to create those projects. You use different Project Management Oversight decision tables to specify the conditions and rules for order lines, site locations, domain orders, and order tasks and the appropriate project template to be used.
+    -   Field mapping in CSM table maps: Associate Order Management fields to SPM project fields by configuring the field mapping in the CSM table maps.
     -   Property for automatic closure of project tasks: Control the automatic closure of project tasks when associated child tasks are completed by using the **sn\_ind\_tmt\_orm.project.task.auto.closure** system property.
     -   Property for program and site project reuse: Use the system property **sn\_ind\_tmt\_orm.reuse\_existing\_program\_and\_project\_enabled** to reuse the program and site project for the following conditions:
 
@@ -53,7 +53,7 @@ The [[order-mgt-integrating-spm|Order Management integration with Strategic Port
         -   If the offering and site location matches the conditions, automatically creates the site project and site project tasks using the specified site project template.
         -   Site projects are created on **pm\_project table**.
         -   Establishing the relationship between the site project and site location in the relationship table.
-        To configure site project oversight for product offering, see [[configure-site-project-product-offering|Configure project oversight for Product offering]].
+        To configure site project oversight for product offering, see [Configure project oversight for Product offering](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/configure-site-project-product-offering.md).
 
     -   Project task oversight determination: After Order Management decomposes the order line item into domain orders and order tasks, it does the following:
         -   Checks the project oversight conditions for domain orders. If a domain order meets the project oversight conditions, create the associated project and planned tasks using the project template task specified.
@@ -64,11 +64,3 @@ The [[order-mgt-integrating-spm|Order Management integration with Strategic Port
     -   Synchronization: Use the **csm\_table\_map** table to synchronize the work note fields between order task, domain order, and project task. It is possible to configure synchronization for fields such as name, work notes, description, and others as required.
     -   Project task closure: Automatically closes project tasks for order tasks, including child tasks, that have been completed in Order Management.
 
-## Related
-
-- [[configure-site-project-product-offering|Configure project oversight for Product offering]]
-- [[order-mgt-integrating-spm|Order Management integration with Strategic Portfolio Management]]
-- [[reviewing-orchestration-plans-order-fulfillment|Order fulfillment]]
-- [[explore-order-management|Order management]]
-- [[rules_101|Rules]]
-- [[fields|Fields]]

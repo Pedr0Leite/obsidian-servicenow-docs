@@ -22,7 +22,7 @@ Role required: agent\_client\_collector\_admin
 
 ## About this task
 
-An entry point is the access point for a service. In an [[acc-landing-page|Agent Client Collector]] policy, you specify the service you want to monitor, and the policy monitors the service's entry points.
+An entry point is the access point for a service. In an Agent Client Collector policy, you specify the service you want to monitor, and the policy monitors the service's entry points.
 
 ## Procedure
 
@@ -55,6 +55,4 @@ An entry point is the access point for a service. In an [[acc-landing-page|Agent
 
     The policy monitors the entry points specified by the policy's configurations.
 
-## Related
 
-- [[acc-landing-page|Agent Client Collector]]

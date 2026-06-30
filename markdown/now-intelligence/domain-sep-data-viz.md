@@ -41,8 +41,5 @@ Separated data includes data visualization designs and data visualization conten
 
 If you create a data visualization in one domain and copy it to another, the data visualization structure remains the same, but the data visualization data is adjusted for the domain. For example, a data visualization with data from the Incident table where Active=true shows all active incidents to a user in the parent global domain, but only IT incidents to a user in the IT domain.
 
-**Parent Topic:**[[configure-data-visualizations|Configure data visualizations]]
+**Parent Topic:**[Configure data visualizations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/configure-data-visualizations.md)
 
-## Related
-
-- [[configure-data-visualizations|Configure data visualizations]]

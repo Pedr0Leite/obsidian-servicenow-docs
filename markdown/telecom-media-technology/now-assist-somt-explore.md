@@ -12,8 +12,5 @@ breadcrumb: [Now Assist for Sales CRM for Telecommunications, Telecommunications
 
 # Exploring Now Assist for Sales CRM for Telecommunications
 
-With the [[somt-now-assist|Now Assist for Sales CRM for Telecommunications]] application, you can use standalone AI agents to create a customer move order capture journey, create enrichment tasks, identify the tasks required for domain orders by using historical data from similar orders.
+With the Now Assist for Sales CRM for Telecommunications application, you can use standalone AI agents to create a customer move order capture journey, create enrichment tasks, identify the tasks required for domain orders by using historical data from similar orders.
 
-## Related
-
-- [[somt-now-assist|Now Assist for Sales CRM for Telecommunications]]

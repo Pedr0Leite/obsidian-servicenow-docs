@@ -20,7 +20,7 @@ Retrieve a credit assessment and evaluate the risks for a customer. You can appr
 
 Role required: sn\_bom\_credit\_asmt.b2c\_agent or sn\_bom\_credit\_asmt.b2c\_agent\_connector
 
-**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [[fso-combine-csm-industry-roles|Roles and Personas]].
+**Important:** For the agent connector role to work, it must be combined with one of the CSM industry data model roles. For more information, see [Roles and Personas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/fso-combine-csm-industry-roles.md).
 
 ## About this task
 
@@ -31,7 +31,7 @@ This credit assessment task is automatically created in one of the following con
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -68,7 +68,3 @@ This credit assessment task is automatically created in one of the following con
         -   A credit card task that increases the credit limit is automatically generated in the **Tasks** tab of the associated case. The task is created in the Open state and assigned to an assignment group or a credit card agent in the credit card services department. The assignment group or user that the task is assigned to is based on the assignment rule.
 -   If you rejected the credit request, the associated credit card service case is automatically closed and the stage of the case changes from Credit Risk Assessment to Closed – Rejected.
 
-## Related
-
-- [[fso-combine-csm-industry-roles|Using agent connector and contributor roles in Financial Services Operations]]
-- [[fso-overview|Financial Services]]

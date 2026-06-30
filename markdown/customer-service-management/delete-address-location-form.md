@@ -12,7 +12,7 @@ breadcrumb: [Enhanced address data model for accounts, Configure accounts and co
 
 # Deleting or editing an address on the location form
 
-As a user, you can edit or delete an existing record in the [[account-address-table|account address table]] without affecting any other associated records. To use this capability, you must be an admin or a sn\_customerservice\_manager.
+As a user, you can edit or delete an existing record in the account address table without affecting any other associated records. To use this capability, you must be an admin or a sn\_customerservice\_manager.
 
 The sn\_crm\_account\_data\_manager, sn\_crm\_account\_relationship\_data\_manager, sn\_crm\_foundation\_data\_manager, and sn\_crm\_foundation\_admin roles also have the privilege to edit existing records in account address table.
 
@@ -20,6 +20,3 @@ If a location record is associated with multiple accounts, you must have Update 
 
 To delete an address in the location table, select **Delete** from the location form or from the location list. Similarly, to edit a location form, select **Edit**.
 
-## Related
-
-- [[account-address-table|Account Address table]]

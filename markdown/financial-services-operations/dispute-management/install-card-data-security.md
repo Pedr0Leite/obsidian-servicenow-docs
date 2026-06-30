@@ -15,7 +15,7 @@ breadcrumb: [Configure, Card Data Security, Dispute Management, Banking applicat
 
 # Install Card Data Security
 
-If you have the admin role, you can install the [[card-data-security|Card Data Security]] application \(sn\_data\_sec\).
+If you have the admin role, you can install the Card Data Security application \(sn\_data\_sec\).
 
 ## Before you begin
 
@@ -43,6 +43,4 @@ Role required: admin
 
 5.  Select **Install**.
 
-## Related
 
-- [[card-data-security|Card Data Security]]

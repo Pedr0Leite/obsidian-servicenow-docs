@@ -14,7 +14,7 @@ breadcrumb: [Use, Dashboards, Strategic Planning, Strategic Portfolio Management
 
 # View a dashboard
 
-View key data and metrics on a dashboard to monitor performance, [[t_SDLCPPSTrackProgress|track progress]], and make informed decisions related to ideas, feedback, strategy, planning, and execution.
+View key data and metrics on a dashboard to monitor performance, track progress, and make informed decisions related to ideas, feedback, strategy, planning, and execution.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[alignment-planner-workspace-landing-page|Strategic Planning]] Workspace** &gt; **Dashboards**.
+1.  Navigate to **Workspaces** &gt; **Strategic Planning Workspace** &gt; **Dashboards**.
 
     By default, the Execution Dashboard appears on the Dashboards page.
 
@@ -58,7 +58,3 @@ Dashboards consolidate data from multiple sources into a single, easily digestib
 
 [Add a Platform Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/add-platform-dashboard-to-spw.md)
 
-## Related
-
-- [[t_SDLCPPSTrackProgress|Track progress]]
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]

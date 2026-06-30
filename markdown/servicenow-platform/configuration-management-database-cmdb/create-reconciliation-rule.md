@@ -16,9 +16,9 @@ breadcrumb: [Reconciliation rules, Configure, CMDB Identification and Reconcilia
 
 Create a static or a dynamic CI reconciliation rule.
 
-If both, static and dynamic [[r_ReconciliationRulesPrinciples|reconciliation rules]] exist for the same CI attribute, the dynamic rule has precedence.
+If both, static and dynamic reconciliation rules exist for the same CI attribute, the dynamic rule has precedence.
 
-**Note:** You can't create a reconciliation rule for system fields or for [[ire|Identification and Reconciliation Engine \(IRE\)]] specific fields such as the Discovery source \(discovery\_source\) field. Also, reconciliation rules can't be dot-walked using [[reference|reference]] fields.
+**Note:** You can't create a reconciliation rule for system fields or for Identification and Reconciliation Engine \(IRE\) specific fields such as the Discovery source \(discovery\_source\) field. Also, reconciliation rules can't be dot-walked using reference fields.
 
 **Parent Topic:**[Reconciliation rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/r_ReconciliationRulesPrinciples.md)
 
@@ -58,7 +58,7 @@ If there is a dynamic reconciliation rule for the same CI attribute as in a stat
 
 ### Procedure
 
-1.  Navigate to **All** &gt; **Configuration** &gt; **[[ci-class-manager-landing-page|CI Class Manager]]**.
+1.  Navigate to **All** &gt; **Configuration** &gt; **CI Class Manager**.
 
 2.  Select **Hierarchy** to open the CI Classes hierarchy list.
 
@@ -158,7 +158,7 @@ Conditions that CIs must meet for the rule to be applicable.
 
 ## Create a dynamic reconciliation rule
 
-A dynamic reconciliation rule uses [[multisource-cmdb|CMDB 360]] data to choose a value such as the largest value that is reported, for updating a CI.
+A dynamic reconciliation rule uses CMDB 360 data to choose a value such as the largest value that is reported, for updating a CI.
 
 ### Before you begin
 
@@ -228,10 +228,3 @@ Conditions that CIs must meet for the rule to be applicable.
 -   [Recompute CI attribute values](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/recompute-attribute-values.md).
 -   Navigate to **All** &gt; **Configuration** &gt; **Identification/Reconciliation** &gt; **Reconciliation Definitions** to see a list view of all definitions of reconciliation rules.
 
-## Related
-
-- [[r_ReconciliationRulesPrinciples|Reconciliation rules]]
-- [[ire|Identification and Reconciliation Engine \(IRE\)]]
-- [[reference|Reference]]
-- [[ci-class-manager-landing-page|CI Class Manager]]
-- [[multisource-cmdb|CMDB 360]]

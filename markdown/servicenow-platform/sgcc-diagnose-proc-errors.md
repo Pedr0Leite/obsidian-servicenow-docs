@@ -12,7 +12,7 @@ breadcrumb: [Managing connections, SGC Central, Integrating third-party data int
 
 # Diagnose a processing error in SGC Central
 
-Diagnose processing errors in connections configured for a Service Graph Connector and resolve them within the [[sgcc-landing|SGC Central]] view of the [[sg-workspace|Service Graph Workspace]] or CMDB Workspace using recommendations from Now Assist.
+Diagnose processing errors in connections configured for a Service Graph Connector and resolve them within the SGC Central view of the Service Graph Workspace or CMDB Workspace using recommendations from Now Assist.
 
 ## Before you begin
 
@@ -47,7 +47,3 @@ Now Assist triggers the diagnosis process for the processing error. The Error di
 
 \[Omitted image "sgcc-error-diagnosis.png"\] Alt text: Error diagnosis result for a processing error, showing the error explanation, a recommendation to resolve the error, and a link to the knowledge article as the source of the recommendation.
 
-## Related
-
-- [[sgcc-landing|SGC Central]]
-- [[sg-workspace|Service Graph Workspace]]

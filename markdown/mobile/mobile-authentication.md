@@ -16,33 +16,22 @@ Users are required to log in to an instance on their mobile device. Depending on
 
 For more information on configuring authentication for mobile devices, see [Set up OAuth](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/t_SettingUpOAuth.md).
 
-**Important:** ServiceNow mobile apps support platform authentication using OAuth 2.0. Authentication mechanisms include multi provider SSO, MFA, LDAP, Local DB, and Digest. For more information, see [[mobile-security-landing|Mobile security]] and [[sg-mobile-ID-access-mgmt|Identity and access management]].
+**Important:** ServiceNow mobile apps support platform authentication using OAuth 2.0. Authentication mechanisms include multi provider SSO, MFA, LDAP, Local DB, and Digest. For more information, see [Mobile security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-security-landing.md) and [Identity and access management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/sg-mobile-ID-access-mgmt.md).
 
 Follow the instructions for using a third-party OAuth provider.
 
--   **[[create-qr-login|Create a QR code for mobile login]]**  
+-   **[Create a QR code for mobile login](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/create-qr-login.md)**  
 Create and use a QR code containing JSON to provide a method for your users to log in with pre-defined parameters.
--   **[[configure-mobile-app-timeout|Configure mobile app token lifespan]]**  
+-   **[Configure mobile app token lifespan](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/configure-mobile-app-timeout.md)**  
 Configure the length of time it takes for the app to time out.
--   **[[mobile-force-local-login|Force local login in mobile apps]]**  
+-   **[Force local login in mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mobile-force-local-login.md)**  
 Configure the force local login option to provide local login experience on mobile apps even when the instance is configured with Single Sign On \(SSO\) configuration. You can configure this feature independently on any available ServiceNow® app.
--   **[[mob-access-ip-restrictd-netwrks|Mobile access to IP-restricted networks]]**  
+-   **[Mobile access to IP-restricted networks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/mob-access-ip-restrictd-netwrks.md)**  
 Enable ServiceNow mobile apps to access IP-restricted networks when adaptive authentication is activated on your instance.
--   **[[config-mobapps2-use-specific-idps|Configure mobile apps to use specific identity providers]]**  
+-   **[Configure mobile apps to use specific identity providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mobapps2-use-specific-idps.md)**  
 You can configure a login experience that is specific to a mobile app and different from the web login experience. For example, Now® Mobile app users can be automatically redirected to an identity provider \(IdP\) that is different from the IdP that is defined for the web session.
--   **[[config-ext-auth-browser-ios|Configure an external authentication browser for ServiceNow mobile apps]]**  
+-   **[Configure an external authentication browser for ServiceNow mobile apps](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-ext-auth-browser-ios.md)**  
 Admins can configure an external browser for mobile apps. This external browser is used during authentication so external URLs that are opened by the same browser can maintain sessions and cookies.
--   **[[zero-trust-access-for-mobile|Securing your ServiceNow mobile instance with Zero Trust Access]]**  
+-   **[Securing your ServiceNow mobile instance with Zero Trust Access](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/zero-trust-access-for-mobile.md)**  
 Limit end-user access to your ServiceNow® instance by opting in to Zero Trust Access. This adjusts user roles and permissions according to security policies defined by the admin based on factors such as IP address, location, and identity provider attributes.
 
-## Related
-
-- [[mobile-security-landing|Mobile security]]
-- [[sg-mobile-ID-access-mgmt|Identity and access management]]
-- [[create-qr-login|Create a QR code for mobile login]]
-- [[configure-mobile-app-timeout|Configure mobile app token lifespan]]
-- [[mobile-force-local-login|Force local login in mobile apps]]
-- [[mob-access-ip-restrictd-netwrks|Mobile access to IP-restricted networks]]
-- [[config-mobapps2-use-specific-idps|Configure mobile apps to use specific identity providers]]
-- [[config-ext-auth-browser-ios|Configure an external authentication browser for ServiceNow mobile apps]]
-- [[zero-trust-access-for-mobile|Securing your ServiceNow mobile instance with Zero Trust Access]]

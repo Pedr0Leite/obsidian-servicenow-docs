@@ -18,7 +18,7 @@ Get visibility into how your rights are calculated and consumed post the reconci
 
 ## Overview of explanation of rights
 
-Understand how the [[c_SoftwareAssetMgmt|Software Asset Management]] application calculates the number of licenses for your software assets.
+Understand how the Software Asset Management application calculates the number of licenses for your software assets.
 
 A detailed explanation of license rights is provided for the following metric groups:
 
@@ -44,6 +44,3 @@ The following is an example of how an explanation of license rights for a Per De
 
 **Parent Topic:**[Software reconciliation for compliance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/c_SAMReconciliation.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

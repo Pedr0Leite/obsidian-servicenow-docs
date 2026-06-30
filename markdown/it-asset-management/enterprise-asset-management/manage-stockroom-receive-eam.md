@@ -14,16 +14,16 @@ breadcrumb: [Create and manage enterprise asset inventory, Managing enterprise a
 
 # Manage the receiving of assets at stockrooms in the Enterprise Asset Workspace
 
-As an enterprise asset manager or enterprise asset technician, receive enterprise and [[c_ReceiveAConsumableAsset|consumable assets]] at [[c_Stockrooms|stockrooms]] from any workflow at a centralized location on the stockroom form in the [[using-eam-workspace|Enterprise Asset Workspace]].
+As an enterprise asset manager or enterprise asset technician, receive enterprise and consumable assets at stockrooms from any workflow at a centralized location on the stockroom form in the Enterprise Asset Workspace.
 
 With the standardized receiving process, you don't need to be familiar with the specific workflow to which the assets belong. Therefore, you can receive hardware and consumable assets from different shipments originating from sources, like transfer orders, purchase orders, or any other workflows seamlessly.
 
 ## Requirements and limitations
 
--   You can receive enterprise assets in the [[using-ham-workspace|Hardware Asset Workspace]] only if the [[enterprise-asset-management|Enterprise Asset Management]] application is activated.
--   You can receive hardware assets in the Enterprise Asset Workspace only if the [[ham-landing-page|Hardware Asset Management]] application is activated.
+-   You can receive enterprise assets in the Hardware Asset Workspace only if the Enterprise Asset Management application is activated.
+-   You can receive hardware assets in the Enterprise Asset Workspace only if the Hardware Asset Management application is activated.
 -   You can only receive complete quantity of consumables.
--   You can [[c_ReceiveAssets|receive assets]] from a purchase order line only in the Zurich or later releases.
+-   You can receive assets from a purchase order line only in the Zurich or later releases.
 
 ## Asset receiving mechanisms
 
@@ -56,12 +56,3 @@ Receive multiple enterprise and consumable assets at your stockroom by importing
 
 **Parent Topic:**[Create and manage enterprise asset inventory](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-enterprise-asset-inventory.md)
 
-## Related
-
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[c_Stockrooms|Stockrooms]]
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]
-- [[c_ReceiveAssets|Receive assets]]

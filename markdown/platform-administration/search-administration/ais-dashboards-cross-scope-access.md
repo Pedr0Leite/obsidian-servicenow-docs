@@ -14,11 +14,11 @@ breadcrumb: [Advanced AI Search Management Tools, Search administration, Configu
 
 # Create a cross-scope access privilege for the AI Search dashboards
 
-Enable the [[ia-ai-search|AI Search]] dashboards to read records from tables that cannot be accessed from the Advanced AI Search Management Tools application scope.
+Enable the AI Search dashboards to read records from tables that cannot be accessed from the Advanced AI Search Management Tools application scope.
 
 ## Before you begin
 
-The [[adv-ais-mgmt-tools-content-pack|Platform Analytics Solution for Advanced AI Search Management Tools]] must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-adv-ais-mgmt-tools.md).
+The Platform Analytics Solution for Advanced AI Search Management Tools must be activated on your instance. For details on activating this solution, see [Activate the Platform Analytics Solution for Advanced AI Search Management Tools](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/install-adv-ais-mgmt-tools.md).
 
 Role required: admin
 
@@ -36,7 +36,7 @@ For more information on cross-scope privileges, see [Cross-scope privilege recor
 
 ## Procedure
 
-1.  Set your current application scope context to Advanced AI Search Management Tools using [[t_SelectAnAppFromTheAppPicker|the application picker]].
+1.  Set your current application scope context to Advanced AI Search Management Tools using [the application picker](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_SelectAnAppFromTheAppPicker.md).
 
 2.  Navigate to **All** &gt; **System Applications** &gt; **Application Cross-Scope Access**.
 
@@ -59,8 +59,3 @@ For more information on cross-scope privileges, see [Cross-scope privilege recor
 
 The new cross-scope privilege appears in the Cross scope privilege table.
 
-## Related
-
-- [[t_SelectAnAppFromTheAppPicker|Select an application from the application picker]]
-- [[ia-ai-search|AI Search]]
-- [[adv-ais-mgmt-tools-content-pack|Platform Analytics Solution for Advanced AI Search Management Tools]]

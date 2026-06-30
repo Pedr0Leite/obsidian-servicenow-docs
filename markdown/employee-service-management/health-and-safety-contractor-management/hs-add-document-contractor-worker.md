@@ -22,7 +22,7 @@ Role required: sn\_hs\_crm.contractor\_coordinator or sn\_ohs\_im.document\_writ
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[health-safety-overview|Health and Safety]]** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]**.
+1.  Navigate to **All** &gt; **Health and Safety** &gt; **Health and Safety Workspace**.
 
 2.  Open a contractor worker record to add the document to.
 
@@ -48,7 +48,7 @@ Steps
 
 </td></tr><tr><td id="d444361e127">
 
-**From [[health-and-safety-user-profile|Health and Safety user profile]] list**
+**From Health and Safety user profile list**
 
 </td><td>
 
@@ -72,8 +72,3 @@ Steps
 -   The document is listed in the **Documents** tab of the contractor worker record.
 -   The document is also listed in the **Health and Safety document library** list under **Configuration** and is saved in the Health and Safety document \[sn\_ohs\_im\_document\_v2\] table.
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]
-- [[health-and-safety-user-profile|Health and Safety user profile]]

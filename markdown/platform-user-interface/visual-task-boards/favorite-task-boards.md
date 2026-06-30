@@ -14,7 +14,7 @@ breadcrumb: [Viewing and sharing Visual Task Boards, Using Visual Task Boards, V
 
 # Add a Visual Task Board as a favorite
 
-Add [[c_VisualTaskBoards|Visual Task Boards]] you access frequently to the application navigator using the favorite option.
+Add Visual Task Boards you access frequently to the application navigator using the favorite option.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: none
 
 ## About this task
 
-Adding a board as a favorite is only available in [[c_UI16|Core UI]].
+Adding a board as a favorite is only available in Core UI.
 
 ## Procedure
 
@@ -37,7 +37,3 @@ Adding a board as a favorite is only available in [[c_UI16|Core UI]].
 
 **Parent Topic:**[Viewing and sharing Visual Task Boards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/visual-task-boards/viewing-sharing-vis-task-brds.md)
 
-## Related
-
-- [[c_VisualTaskBoards|Visual Task Boards]]
-- [[c_UI16|Core UI]]

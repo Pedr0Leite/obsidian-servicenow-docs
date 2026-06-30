@@ -24,7 +24,7 @@ Select one of the tiles to learn how to configure your ServiceNow instance to en
 
 </td><td>
 
-[Set up the ServiceNow [[mobile-config-navigation|mobile platform]] \[Omitted image "bus-sdlc.svg"\] Alt text:Set up the mobile experience for ServiceNow mobile apps on your instance, including notifications, barcode scanning, system and [[mobile-properties|mobile properties]], Indoor Wayfinding, mobile playbooks, and plugin activation information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mob-plat-detail-landing.md)
+[Set up the ServiceNow mobile platform \[Omitted image "bus-sdlc.svg"\] Alt text:Set up the mobile experience for ServiceNow mobile apps on your instance, including notifications, barcode scanning, system and mobile properties, Indoor Wayfinding, mobile playbooks, and plugin activation information.](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/mobile/config-mob-plat-detail-landing.md)
 
 </td><td>
 
@@ -44,8 +44,3 @@ Select one of the tiles to learn how to configure your ServiceNow instance to en
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[mobile-config-navigation|Mobile Platform]]
-- [[mobile-properties|Mobile properties]]

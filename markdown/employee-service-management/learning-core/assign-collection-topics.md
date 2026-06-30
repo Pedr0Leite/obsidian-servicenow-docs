@@ -18,7 +18,7 @@ Add assigned topics to collections.
 
 ## Before you begin
 
-Role required: sn\_lc.[[exploring-learning-exp|learning]]\_admin, sn\_lc.learning\_course\_catalog\_admin
+Role required: sn\_lc.learning\_admin, sn\_lc.learning\_course\_catalog\_admin
 
 ## Procedure
 
@@ -33,6 +33,3 @@ Role required: sn\_lc.[[exploring-learning-exp|learning]]\_admin, sn\_lc.learnin
 
 **Parent Topic:**[Create a content collection](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/learning-core/create-content-collection.md)
 
-## Related
-
-- [[exploring-learning-exp|Learning]]

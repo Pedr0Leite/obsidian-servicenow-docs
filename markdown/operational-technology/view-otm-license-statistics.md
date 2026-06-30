@@ -12,7 +12,7 @@ breadcrumb: [Operational Technology Management licensing and subscriptions, Oper
 
 # View subscription statistics for OTM
 
-View the count of OTM application subscriptions purchased and consumed by your organization, offering valuable insights for resource management and [[operational-technology-overview|operational technology]] optimization.
+View the count of OTM application subscriptions purchased and consumed by your organization, offering valuable insights for resource management and operational technology optimization.
 
 ## Before you begin
 
@@ -29,9 +29,6 @@ Evaluate the allocation of configuration items \(CIs\) and their allocation leve
 
 1.  To view subscription information for OTM subscriptions purchased a la carte, navigate to **OTM License** &gt; **License Summary**.
 
-2.  Review the details presented on the form, as outlined in the [[otm-subscriptions-form|Subscriptions form for the OTM products]].
+2.  Review the details presented on the form, as outlined in the [Subscriptions form for the OTM products](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/otm-subscriptions-form.md).
 
-## Related
 
-- [[otm-subscriptions-form|Subscriptions form for the OTM products]]
-- [[operational-technology-overview|Operational Technology]]

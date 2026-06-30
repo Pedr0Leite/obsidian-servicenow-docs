@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-Search [[hs-results|results]] for the default search field appear automatically when you open a record. You can configure [[c_ContextualSearch|contextual search]] to search for results even when there is no text in the default search field. Search results in other associated fields only appear when you have updated content in those fields.
+Search results for the default search field appear automatically when you open a record. You can configure contextual search to search for results even when there is no text in the default search field. Search results in other associated fields only appear when you have updated content in those fields.
 
 As an example, in the base system the **Short description** field is the default search field for the Incident form, so search results based on the field are displayed automatically. If you configure **Description** as an additional search field, contextual search displays search results for **Description** when you open a record with an empty **Short description**.
 
@@ -88,7 +88,3 @@ Use the **Default** column to set one search field as the default search field.
 
 **Parent Topic:**[Managing contextual search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/contextual-search/working-with-contextual-search.md)
 
-## Related
-
-- [[hs-results|Results]]
-- [[c_ContextualSearch|Contextual search]]

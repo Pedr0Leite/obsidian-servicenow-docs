@@ -20,7 +20,7 @@ Role required: System administrator
 
 ## Procedure
 
-1.  Navigate to **Threat and Alert Data Feeds** &gt; **[[Administration|Administration]]** &gt; **Alert Actions**.
+1.  Navigate to **Threat and Alert Data Feeds** &gt; **Administration** &gt; **Alert Actions**.
 
     These actions are available within the base system.
 
@@ -53,6 +53,4 @@ Role required: System administrator
 
 4.  Click **Submit**.
 
-## Related
 
-- [[Administration|Administration]]

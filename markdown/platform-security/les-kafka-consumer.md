@@ -12,7 +12,7 @@ breadcrumb: [Configure, Log Export Service \(LES\), Platform Security]
 
 # Kafka consumer
 
-Use guided setup to step through the initial [[sc-configuration|configuration]] of LES for Kafka consumers.
+Use guided setup to step through the initial configuration of LES for Kafka consumers.
 
 ## Guided setup home page
 
@@ -30,10 +30,10 @@ The categories page contains an overview and descriptions of the categories and 
 
 Complete the tasks under each category by following the setup instructions.
 
--   **[[les-guided-setup-kafka|Guided setup for Kafka consumers]]**  
+-   **[Guided setup for Kafka consumers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-guided-setup-kafka.md)**  
 Implement the following steps for a complete guided setup for Kafka consumers.
 
-**Parent Topic:**[[les-configure|Configuring Log Export Service \(LES\)]]
+**Parent Topic:**[Configuring Log Export Service \(LES\)](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/les-configure.md)
 
 **Related topics**  
 
@@ -42,8 +42,3 @@ Implement the following steps for a complete guided setup for Kafka consumers.
 
 [Set up a secure connection to the Hermes Messaging Service for LES]()
 
-## Related
-
-- [[les-guided-setup-kafka|Guided setup for Kafka consumers]]
-- [[les-configure|Configuring Log Export Service \(LES\)]]
-- [[sc-configuration|Configuration]]

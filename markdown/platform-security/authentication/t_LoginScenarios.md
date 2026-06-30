@@ -14,7 +14,7 @@ breadcrumb: [Local authentication, Authentication, Access Management]
 
 # Define login scenarios
 
-You can direct all [[users|users]] to the same page after login.
+You can direct all users to the same page after login.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ To force the system to direct all users to the same page after login:
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Content Management** &gt; **[[sc-configuration|Configuration]]** &gt; **Configuration Page**.
+1.  Navigate to **All** &gt; **Content Management** &gt; **Configuration** &gt; **Configuration Page**.
 
 2.  Select a value for the Login page field, or create a new page as desired.
 
@@ -54,7 +54,4 @@ To force the system to direct all users to the same page after login:
 
     When users log on to the Service Portal or a CMS site to access a record, such as http://\{instance\}.service-now.com/ess/incident\_detail.do?sysparm\_document\_key=incident,\{sys\_id\}, the system follows the same procedure and finally takes the user to the record. If the user does not have access rights to the record, a denial of access message appears.
 
-## Related
 
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

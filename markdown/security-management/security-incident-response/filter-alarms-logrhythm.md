@@ -22,7 +22,7 @@ Role required: sn\_si.admin
 
 ## About this task
 
-Use the filtering conditions at the bottom of the [[mapping-logrhythm|mapping]] form to filter out specific alarms or limit ingestion to only alarms that meet certain field-level criteria. Filtering significantly reduces the number of alarms you ingest once the alarm profile is activated. Use filtering to ingest a manageable quantity of alarms that your [[security-operations-landing-page|Security Operations]] Center \(SOC\) staff can support.
+Use the filtering conditions at the bottom of the mapping form to filter out specific alarms or limit ingestion to only alarms that meet certain field-level criteria. Filtering significantly reduces the number of alarms you ingest once the alarm profile is activated. Use filtering to ingest a manageable quantity of alarms that your Security Operations Center \(SOC\) staff can support.
 
 **Note:** The following example shows a default filter setting in which `Alarm status-does-not-contain-Closed` is the default setting. This filter only pulls active alarms, and this setting reduces the number of pulled alarms. The following steps illustrate how to add another useful filter which includes only alarms with the highest severity or priority values.
 
@@ -90,7 +90,3 @@ The next step is to preview your mapped fields on the security incident. See [Pr
 
 **Parent Topic:**[Creating an alarm profile for LogRhythm](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/create-alarm-profile-logrhythm.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[security-operations-landing-page|Security Operations]]

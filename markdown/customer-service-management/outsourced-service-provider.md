@@ -39,17 +39,11 @@ Activating the Outsourced Service Provider plugin adds the Outsourced Customer S
 **Related topics**  
 
 
-[[configure-outsourced-cust-serv|Set up Outsourced Customer Service]]
+[Set up Outsourced Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/configure-outsourced-cust-serv.md)
 
-[[osp-agent-tasks|Outsourced Service Provider agent tasks]]
+[Outsourced Service Provider agent tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-agent-tasks.md)
 
-[[osp-manager-tasks|Outsourced Service Provider manager tasks]]
+[Outsourced Service Provider manager tasks](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/osp-manager-tasks.md)
 
-[[roles-ocs|Roles for Outsourced Customer Service]]
+[Roles for Outsourced Customer Service](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/roles-ocs.md)
 
-## Related
-
-- [[configure-outsourced-cust-serv|Configure Outsourced Customer Service]]
-- [[osp-agent-tasks|Outsourced Service Provider agent tasks]]
-- [[osp-manager-tasks|Outsourced Service Provider manager tasks]]
-- [[roles-ocs|Roles for Outsourced Customer Service]]

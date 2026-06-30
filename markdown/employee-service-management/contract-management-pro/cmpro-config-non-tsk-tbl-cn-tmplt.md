@@ -14,7 +14,7 @@ breadcrumb: [Configure CM Pro for your workspace, Configure, Contract Management
 
 # Configure non-task tables for contract templates
 
-Add non-task tables in the script of an extension point implementation so you can select them while creating contract templates. A non-task table does not extend task tables, and stores records, [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] data, or configuration information used across the platform.
+Add non-task tables in the script of an extension point implementation so you can select them while creating contract templates. A non-task table does not extend task tables, and stores records, reference data, or configuration information used across the platform.
 
 ## Before you begin
 
@@ -86,7 +86,7 @@ For more information, see [Create a contract template](https://raw.githubusercon
 
 [Group contract documents by contract type in a contract request]()
 
-[Add access to [[cncore-obligation-management|obligation management]] from contract repository records]()
+[Add access to obligation management from contract repository records]()
 
 [Configure the contract request form header for your workspace]()
 
@@ -96,7 +96,3 @@ For more information, see [Create a contract template](https://raw.githubusercon
 
 [Configuring the Playbook tab on contract repository records]()
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[cncore-obligation-management|Obligation Management]]

@@ -16,7 +16,7 @@ To enable the Data Collection Pack, you must activate Data Collection jobs.
 
 ## Before you begin
 
-Role required: [[impact-landing-page|Impact]] users
+Role required: Impact users
 
 ## Procedure
 
@@ -31,6 +31,3 @@ Role required: [[impact-landing-page|Impact]] users
     -   **Impact VM - ITSM - Monthly Data Collection**
     -   **Impact VM - ITSM - Historical Data Collection**
 
-## Related
-
-- [[impact-landing-page|Impact]]

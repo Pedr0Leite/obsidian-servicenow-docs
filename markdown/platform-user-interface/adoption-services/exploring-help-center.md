@@ -14,7 +14,7 @@ breadcrumb: [Help Center, In-product help, Adoption services, Configure user exp
 
 # Exploring Help Center
 
-[[help-center|Help Center]] provides users with the information they need, and tells users what they can accomplish while they're using a configurable workspace. Help Center content appears in the right sidebar when the user selects the help icon.
+Help Center provides users with the information they need, and tells users what they can accomplish while they're using a configurable workspace. Help Center content appears in the right sidebar when the user selects the help icon.
 
 ## Help Center overview
 
@@ -34,6 +34,3 @@ You can add new content to the Help Center with the add new content link, descri
 
 \[Omitted image "no-help-center-content.png"\] Alt text: Help content view displaying no content available.
 
-## Related
-
-- [[help-center|Help Center]]

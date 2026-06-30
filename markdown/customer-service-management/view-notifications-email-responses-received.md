@@ -27,13 +27,10 @@ Role required: sn\_customerservice\_agent, or sn\_customerservice\_manager
 
     A list of ongoing email interactions is displayed.
 
-3.  Select the relevant [[email-as-an-interaction|email interaction]].
+3.  Select the relevant email interaction.
 
 
 ## Result
 
 The interaction record displays the latest email responses.
 
-## Related
-
-- [[email-as-an-interaction|Email Interaction]]

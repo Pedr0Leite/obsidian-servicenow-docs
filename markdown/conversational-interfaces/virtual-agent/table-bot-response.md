@@ -14,7 +14,7 @@ breadcrumb: [Assistant Designer bot responses, Assistant Designer interface refe
 
 # Table bot response control
 
-Use the Table bot response control in a [[virtual-agent-landing-page|Virtual Agent]] topic to display a bot response as a table.
+Use the Table bot response control in a Virtual Agent topic to display a bot response as a table.
 
 Table bot responses enable users to see information in a more organized way.
 
@@ -195,6 +195,3 @@ Table bot response output
 </td></tr></tbody>
 </table>**Parent Topic:**[Assistant Designer bot responses](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-bot-responses.md)
 
-## Related
-
-- [[virtual-agent-landing-page|Virtual Agent]]

@@ -38,7 +38,7 @@ This connector has the **debug** and **logPayloadForDebug** log parameters enabl
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Integrations** &gt; **Connector Instances**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Integrations** &gt; **Connector Instances**.
 
 2.  Click **New**.
 
@@ -126,6 +126,3 @@ Create a Basic Auth credential in ServiceNow to store the SolarWinds user name a
 
 [Configure a pull connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMConfigureConnectorInstance.md)
 
-## Related
-
-- [[c_EM|Event Management]]

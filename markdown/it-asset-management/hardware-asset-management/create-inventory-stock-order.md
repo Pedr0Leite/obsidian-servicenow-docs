@@ -14,7 +14,7 @@ breadcrumb: [Use, Hardware Asset Management, IT Asset Management]
 
 # Create an inventory stock order request
 
-Create an inventory stock order request so that you can order new hardware in bulk for your [[c_Stockrooms|stockrooms]]. After your request is approved, the Hardware Stock Order flow takes you through the process of requesting, sourcing, and receiving your order.
+Create an inventory stock order request so that you can order new hardware in bulk for your stockrooms. After your request is approved, the Hardware Stock Order flow takes you through the process of requesting, sourcing, and receiving your order.
 
 ## Before you begin
 
@@ -83,7 +83,7 @@ Role required: inventory\_admin
 
 [Work with hardware normalization]()
 
-[Manage [[asset-bundles-concept|asset bundles]] from your inventory]()
+[Manage asset bundles from your inventory]()
 
 [Manage your inventory through pallet assets]()
 
@@ -103,13 +103,13 @@ Role required: inventory\_admin
 
 [Request a Hardware Asset Refresh]()
 
-[Manage your expiring [[c_Contracts|contracts]] for leased hardware assets]()
+[Manage your expiring contracts for leased hardware assets]()
 
 [Reclaim hardware assets]()
 
 [View RFID information of assets]()
 
-[Manage the lifecycle of hardware [[c_Models|models]] with calculated lifecycle templates]()
+[Manage the lifecycle of hardware models with calculated lifecycle templates]()
 
 [Create an internal lifecycle in the Hardware Asset Workspace]()
 
@@ -127,7 +127,7 @@ Role required: inventory\_admin
 
 [Configure the Total Cost of Ownership of assets]()
 
-[Manage [[ham-landing-page|Hardware Asset Management]] subscriptions]()
+[Manage Hardware Asset Management subscriptions]()
 
 [Manage repair of defective assets in your stockroom in the Hardware Asset Workspace]()
 
@@ -143,10 +143,3 @@ Role required: inventory\_admin
 
 [Update associated Decision tables for HAM flows]()
 
-## Related
-
-- [[c_Stockrooms|Stockrooms]]
-- [[asset-bundles-concept|Asset bundles]]
-- [[c_Contracts|Contracts]]
-- [[c_Models|Models]]
-- [[ham-landing-page|Hardware Asset Management]]

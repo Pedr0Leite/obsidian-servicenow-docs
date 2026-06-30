@@ -24,7 +24,7 @@ Role required: If you have an internal role, you can create dashboards with the 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_performanceAnalyticsAndReporting|Platform Analytics]]** &gt; **Library** &gt; **Dashboards**.
+1.  Navigate to **All** &gt; **Platform Analytics** &gt; **Library** &gt; **Dashboards**.
 
 2.  Open the dashboard that you want to group elements on.
 
@@ -40,7 +40,7 @@ Role required: If you have an internal role, you can create dashboards with the 
 
 6.  Select **Confirm Group** from the header to complete the grouping.
 
-    \[Omitted image "group-db-elements.png"\] Alt text: Shows check boxes to select to group three [[dashboard-elements|dashboard elements]]
+    \[Omitted image "group-db-elements.png"\] Alt text: Shows check boxes to select to group three dashboard elements
 
 7.  \[Omitted image "modify-group-ungroup-db-elements.png"\] Alt text: Elements group menu with the Modify and Ungroup options highlighted
 
@@ -55,10 +55,5 @@ Role required: If you have an internal role, you can create dashboards with the 
 
 Grouped elements on the dashboard remain together when elements on the dashboard are moved. These elements also share a border and background as though they were one unit.
 
-**Parent Topic:**[[edit-db-in-ac|Edit Platform Analytics dashboards]]
+**Parent Topic:**[Edit Platform Analytics dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/edit-db-in-ac.md)
 
-## Related
-
-- [[edit-db-in-ac|Edit Platform Analytics dashboards]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]
-- [[dashboard-elements|Dashboard elements]]

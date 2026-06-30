@@ -23,7 +23,7 @@ The Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table has the foll
 
 Role required to configure the table: sn\_ind\_rmt\_help.admin.
 
-**Note:** Storing data from the EMR system in the Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table or its extended child data table provides a layer of security. As an administrator, you can extend the Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table for a particular task type to store additional information from an EMR system. For example, the [[emr-exploring|EMR Help]] application provides the EMR Request Data \[sn\_ind\_rmt\_help\_incident\_data\] table that extends the Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table and associates incidents with service requests.
+**Note:** Storing data from the EMR system in the Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table or its extended child data table provides a layer of security. As an administrator, you can extend the Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table for a particular task type to store additional information from an EMR system. For example, the EMR Help application provides the EMR Request Data \[sn\_ind\_rmt\_help\_incident\_data\] table that extends the Remote Request Data \[sn\_ind\_rmt\_help\_request\_data\] table and associates incidents with service requests.
 
 <table id="table_k4j_nvy_11c"><thead><tr><th>
 
@@ -212,6 +212,3 @@ Number of updates that have occurred.
 </td></tr></tbody>
 </table>**Parent Topic:**[EMR Help data model tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/healthcare-life-sciences/emr-help/tables-installed-with-emr-help.md)
 
-## Related
-
-- [[emr-exploring|EMR Help]]

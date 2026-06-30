@@ -139,8 +139,5 @@ Two-letter country code where the branch is located. When the LEI of the financi
  When a valid LEI is entered in the Identification code of the branch field, this field is auto-filled by the GLEIF lookup with the two-letter country code, for example: "NETHERLANDS."
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[create-drtp-reg-branch|Create a branch and enhance digital resilience data]]
+</table>**Parent Topic:**[Create a branch and enhance digital resilience data](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-drtp-reg-branch.md)
 
-## Related
-
-- [[create-drtp-reg-branch|Create a branch and enhance digital resilience data]]

@@ -25,8 +25,5 @@ Use the Contact Import Rules form to create a contact import rule that you can a
 |User mapping|Unique user reference from the Users table.|
 |Contact ID mapping|Unique ID of each contact that is used to sync with Everbridge.|
 
-**Parent Topic:**[[create-contact-import-rules|Create the contact import rules]]
+**Parent Topic:**[Create the contact import rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-contact-import-rules.md)
 
-## Related
-
-- [[create-contact-import-rules|Create the contact import rules]]

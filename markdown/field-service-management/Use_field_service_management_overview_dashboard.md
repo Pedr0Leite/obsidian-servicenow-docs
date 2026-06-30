@@ -111,8 +111,5 @@ Bar\[Omitted image "icon-bar-report.png"\] Alt text:
 Overview of work order tasks based on the different assignment groups.
 
 </td></tr></tbody>
-</table>**Parent Topic:**[[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]
+</table>**Parent Topic:**[Analytics and reporting for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/analytics-reporting-fsm.md)
 
-## Related
-
-- [[analytics-reporting-fsm|Analytics and reporting for Field Service Management]]

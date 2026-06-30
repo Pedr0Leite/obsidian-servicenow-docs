@@ -16,7 +16,7 @@ breadcrumb: [Defining portal styles, Configuring Service Portal, Service Portal,
 
 Use Branding Editor to give your portal its own look and feel.
 
-To access the Branding Editor, navigate to **[[c_ServicePortal|Service Portal]]** &gt; **Service Portal Configuration**, then select **Branding Editor**.
+To access the Branding Editor, navigate to **Service Portal** &gt; **Service Portal Configuration**, then select **Branding Editor**.
 
 From the portal list, select the portal you want to customize the theme for. Then use the options on the Quick Setup and Theme Colors tabs to customize your portal.
 
@@ -83,7 +83,7 @@ Tag line
 
 </td><td>
 
-Introduce your users to a portal page with a tag line. This text is stored in an instance of the [[home-page-search-widget|homepage search widget]].
+Introduce your users to a portal page with a tag line. This text is stored in an instance of the homepage search widget.
 
 </td></tr><tr><td>
 
@@ -122,7 +122,3 @@ Changes made to the theme colors in the Branding Editor appear in the CSS variab
 
 **Parent Topic:**[Defining portal styles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/service-portal/portal-css.md)
 
-## Related
-
-- [[c_ServicePortal|Service Portal]]
-- [[home-page-search-widget|Homepage Search widget]]

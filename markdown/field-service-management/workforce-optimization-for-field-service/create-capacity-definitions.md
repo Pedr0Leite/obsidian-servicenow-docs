@@ -14,7 +14,7 @@ breadcrumb: [Capacity and Reservations Management, Set up workforce, Configure, 
 
 # Create a capacity definition
 
-Allocate work to different types of tasks based on the reserved [[capacity|capacity]] percentage and defined source of capacity for a territory.
+Allocate work to different types of tasks based on the reserved capacity percentage and defined source of capacity for a territory.
 
 ## Before you begin
 
@@ -89,7 +89,7 @@ Set capacity by buckets
 
 </td><td>
 
-An option to make the [[appointment-booking|appointment booking]] slots available based on the defined capacity of work on a daily basis. ORAn option to set the work capacity at bucket level, such as morning, noon, or evening, so that the appointment slots are available throughout the day until the capacity is not breached.
+An option to make the appointment booking slots available based on the defined capacity of work on a daily basis. ORAn option to set the work capacity at bucket level, such as morning, noon, or evening, so that the appointment slots are available throughout the day until the capacity is not breached.
 
  -   This option is available only when Tasks or Hours is selected from the **Capacity by** field.
 -   This option is available only when Daily is selected from the **Frequency** field.
@@ -147,7 +147,3 @@ Name of the capacity reservation rule that applies to the capacity definition. T
 
 The capacity definition is created and the work is allocated to each task attribute based on its reserved capacity.
 
-## Related
-
-- [[capacity|Capacity]]
-- [[appointment-booking|Appointment booking]]

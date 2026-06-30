@@ -14,11 +14,11 @@ breadcrumb: [HR Profile, Case and Knowledge Management, HR Service Delivery, Emp
 
 # HR profile editable field configuration
 
-An option in Human Resources Configuration provides a list of [[c_HRProfileRecords|HR profile]] fields that can be enabled for edit. Understand the difference between how the personal and the employment information fields are updated in the HR profile based on this configuration.
+An option in Human Resources Configuration provides a list of HR profile fields that can be enabled for edit. Understand the difference between how the personal and the employment information fields are updated in the HR profile based on this configuration.
 
 Typically, organizations allow employees to update certain personal information, but not sensitive and employment information. HR agents or managers change this information. For example, employees can change their home address and personal email address, but the manager must update the position when the employee is promoted.
 
-**Note:** Use the configurable allow list to add fields that users can modify themselves. This allow list is a system property and accessed by going to **All** &gt; **[[c_AdministerHRServiceManagement|HR Administration]]** &gt; **Properties**. The list of user editable fields appears as comma separated list. The property name is **sn\_hr\_core.hr\_profile\_editable\_fields**.
+**Note:** Use the configurable allow list to add fields that users can modify themselves. This allow list is a system property and accessed by going to **All** &gt; **HR Administration** &gt; **Properties**. The list of user editable fields appears as comma separated list. The property name is **sn\_hr\_core.hr\_profile\_editable\_fields**.
 
 For more information about adding or modifying HR profiles, see [Add or modify an HR profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/t_CreateOrModifyAUserProfile.md)
 
@@ -88,7 +88,7 @@ To update any HR profile fields that are not editable, employees or their manage
 
 ## At a Glance panel in Agent Workspace for HR Service Delivery
 
-The fields that appear on the **At a Glance** panel in Agent Workspace for [[hr-service-delivery|HR Service Delivery]] are dependent on what fields appear in an HR profile.
+The fields that appear on the **At a Glance** panel in Agent Workspace for HR Service Delivery are dependent on what fields appear in an HR profile.
 
 **Note:** Fields with no data on the HR profile do not appear in the **At a Glance** panel.
 
@@ -101,8 +101,3 @@ If you want additional fields to appear on the **At a Glance** panel, see [Confi
 
 [HR Profile](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/hr-service-delivery/c_HRProfileRecords.md)
 
-## Related
-
-- [[c_HRProfileRecords|HR Profile]]
-- [[c_AdministerHRServiceManagement|HR Administration]]
-- [[hr-service-delivery|HR Service Delivery]]

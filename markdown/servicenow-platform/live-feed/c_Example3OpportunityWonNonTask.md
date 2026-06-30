@@ -21,7 +21,7 @@ Create a [business rule](https://raw.githubusercontent.com/ServiceNow/ServiceNow
 Create a table notification with the following values:
 
 -   **Table**: Opportunity \[sales\_opportunity\]
--   **Active**: Select the [[check-box|check box]].
+-   **Active**: Select the check box.
 -   **Update**: Select the check box.
 -   **Post to Live Feed**: Select the check box.
 -   **Conditions**: \[State\] \[is\] \[Closed Won\]
@@ -47,6 +47,3 @@ Create a table notification with the following values:
 
 [Live Feed table notifications](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/live-feed/c_SetUpLiveFeedTableNotifications.md)
 
-## Related
-
-- [[check-box|Check box]]

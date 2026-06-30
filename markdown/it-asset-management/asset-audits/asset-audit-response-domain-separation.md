@@ -14,7 +14,7 @@ breadcrumb: [Reference, Asset Audit Response, IT Asset Management]
 
 # Domain separation and Asset Audit Response
 
-Domain separation is supported for [[asset-audit-response|Asset Audit Response]]. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
+Domain separation is supported for Asset Audit Response. Domain separation enables you to separate data, processes, and administrative tasks into logical groupings called domains. You can control several aspects of this separation, including which users can see and access data.
 
 ## Support level: Basic
 
@@ -36,7 +36,7 @@ Asset Audit Response supports domain-based data separation. This domain separati
 
 Domain separation in Asset Audit Response does not require any additional setup or configuration.
 
-When managing and completing an audit engagement and corresponding evidence request, ensure that you are using data from the same domain across the [[audit-workspace|Audit Workspace]], the [[asset-governance-workspace|Asset Governance Workspace]], and either the [[c_SoftwareAssetMgmt|Software Asset Management]] or [[ham-landing-page|Hardware Asset Management]] application.
+When managing and completing an audit engagement and corresponding evidence request, ensure that you are using data from the same domain across the Audit Workspace, the Asset Governance Workspace, and either the Software Asset Management or Hardware Asset Management application.
 
 **Note:** If you create an evidence request under a specific domain in the Audit Workspace, the corresponding asset evidence task automatically falls under the same domain in the Asset Governance Workspace.
 
@@ -47,10 +47,3 @@ When managing and completing an audit engagement and corresponding evidence requ
 
 [Domain separation for service providers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/domain-sep-landing-page.md)
 
-## Related
-
-- [[asset-audit-response|Asset Audit Response]]
-- [[audit-workspace|Audit Workspace]]
-- [[asset-governance-workspace|Asset Governance Workspace]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[ham-landing-page|Hardware Asset Management]]

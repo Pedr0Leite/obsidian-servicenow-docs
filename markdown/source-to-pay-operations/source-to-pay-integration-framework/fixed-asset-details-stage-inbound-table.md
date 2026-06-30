@@ -24,7 +24,7 @@ The following table lists the fields for the Fixed asset details inbound \[sn\_f
 |-----|---------|-----------|
 |Asset id|String|Unique identifier for the fixed asset.|
 |Asset number|String|Unique identifier generated within the ERP system for the fixed asset.|
-|Capitalize on|String|Date on which the requester assumes the liability of the fixed asset, depending on the [[supplier|supplier]] incoterm.|
+|Capitalize on|String|Date on which the requester assumes the liability of the fixed asset, depending on the supplier incoterm.|
 |Currency|String|Currency associated with the purchase of the fixed asset.|
 |Depreciated amount|String|Amount that the fixed asset has depreciated by over time.|
 |Depreciation life-cycle|String|Length of time in which the fixed asset is fully depreciated.|
@@ -114,6 +114,3 @@ The following table lists the fields for the Fixed asset details inbound \[sn\_f
 
 [Unit of Measure inbound staging table]()
 
-## Related
-
-- [[supplier|Supplier]]

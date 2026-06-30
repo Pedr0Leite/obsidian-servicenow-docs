@@ -22,7 +22,7 @@ Role required: sn\_imt\_core.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-health-safety-status|Employee Health and Safety Status]]** &gt; **Privacy** &gt; **User Privacy Consents**.
+1.  Navigate to **All** &gt; **Employee Health and Safety Status** &gt; **Privacy** &gt; **User Privacy Consents**.
 
 2.  Click the status in the **Consent status** column to open the employee's consent record.
 
@@ -39,6 +39,3 @@ Role required: sn\_imt\_core.admin
 
 **Parent Topic:**[Maintaining privacy consent in Employee Readiness Core](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-readiness-core/employee-readiness-core-privacy-consent.md)
 
-## Related
-
-- [[employee-health-safety-status|Employee Health and Safety Status]]

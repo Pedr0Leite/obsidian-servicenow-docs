@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-If the network devices contain an extremely large number of ports and each individual port's information is not critical to the overall management of the devices, you may not want to collect the port data for SNMP network devices. This would affect records from being created in the Switchports table \(dscy\_switchport\). This process only impacts probe [[r-discovery|discovery]].
+If the network devices contain an extremely large number of ports and each individual port's information is not critical to the overall management of the devices, you may not want to collect the port data for SNMP network devices. This would affect records from being created in the Switchports table \(dscy\_switchport\). This process only impacts probe discovery.
 
 ## Procedure
 
@@ -39,6 +39,3 @@ If the network devices contain an extremely large number of ports and each indiv
 
 **Parent Topic:**[Network switch and router discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/r_DataCollDiscoNWRouteAndSwitch.md)
 
-## Related
-
-- [[r-discovery|Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Assess performance of Hardware Asset Management, Use, Hardware Asse
 
 # View all maturity items for Hardware Asset Management
 
-View the maturity of your [[ham-landing-page|Hardware Asset Management]] \(HAM\) program to analyze the status of each maturity stage, where each stage shows the number of maturity items completed.
+View the maturity of your Hardware Asset Management \(HAM\) program to analyze the status of each maturity stage, where each stage shows the number of maturity items completed.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ For more information, see [Maturity stages of your Hardware Asset Management pro
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Success portal**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Success portal**.
 
 2.  On the Overview page, select **View all maturity items**.
 
@@ -51,7 +51,3 @@ For more information, see [Maturity stages of your Hardware Asset Management pro
 
 **Parent Topic:**[Assess performance of Hardware Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/suc-goal-act-hw.md)
 
-## Related
-
-- [[ham-landing-page|Hardware Asset Management]]
-- [[using-ham-workspace|Hardware Asset Workspace]]

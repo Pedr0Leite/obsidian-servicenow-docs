@@ -23,11 +23,11 @@ Role required: sn\_itsm\_chg\_admin.change\_models\_config, sn\_itsm\_chg\_admin
 
 1.  Open the **Normal** change model in the Configuration Console.
 
-    For navigation steps, see [[configure-change-models-scm|Configure change models for Simplified Change Management]].
+    For navigation steps, see [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 2.  Configure the availability, templates, and risk-based approvals for different states, and control the automatic change task creation for Normal change requests.
 
-<table id="table-nrml-[[settings-mobile|settings]]"><thead><tr><th>
+<table id="table-nrml-settings"><thead><tr><th>
 
 Section
 
@@ -63,7 +63,7 @@ The Assess state requires proper documentation and readiness for authorization. 
 
 -   **Member of assignment group**: Any member of the assignment group can approve. One approval is sufficient.
 -   **Manager of assignment group**: The manager of the assignment group must approve.
--   **Change manager**: Any member of the [[c_ITILChangeManagement|change management]] group can approve.
+-   **Change manager**: Any member of the change management group can approve.
 -   **CAB member**: At least one CAB member must approve.
 -   **Other group**: A specific group that you select must approve. Select an assignment group from the list on the modal window.
 Default approvers for each risk level are:
@@ -99,7 +99,7 @@ Scheduled
 
 </td><td>
 
-The Scheduled state controls auto-creation of a task to verify planning and resources for the change. Select **Yes** to generate the [[change-tasks|change tasks]] automatically when the change enters this state. This task helps verify the change is properly planned and resources are in place before implementation.
+The Scheduled state controls auto-creation of a task to verify planning and resources for the change. Select **Yes** to generate the change tasks automatically when the change enters this state. This task helps verify the change is properly planned and resources are in place before implementation.
 
 </td></tr><tr><td>
 
@@ -127,14 +127,7 @@ The Normal change model configuration is saved. New Normal change requests refle
 
 ## What to do next
 
-To configure additional change [[c_Models|models]], return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
+To configure additional change models, return to [Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md).
 
 **Parent Topic:**[Configure change models for Simplified Change Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/configure-change-models-scm.md)
 
-## Related
-
-- [[configure-change-models-scm|Configure change models for Simplified Change Management]]
-- [[settings-mobile|Settings]]
-- [[c_ITILChangeManagement|Change Management]]
-- [[change-tasks|Change tasks]]
-- [[c_Models|Models]]

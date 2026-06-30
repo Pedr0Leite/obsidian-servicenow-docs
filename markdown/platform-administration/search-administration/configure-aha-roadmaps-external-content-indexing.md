@@ -15,7 +15,7 @@ breadcrumb: [Aha! Roadmaps external content connector, Configure, External Conte
 
 # Configure Aha! Roadmaps for external content indexing
 
-Generate an API key in Aha! Roadmaps to allow the [[aha-roadmaps-external-content-connector|Aha! Roadmaps external content connector]] to access content from your workspaces.
+Generate an API key in Aha! Roadmaps to allow the Aha! Roadmaps external content connector to access content from your workspaces.
 
 ## Before you begin
 
@@ -59,6 +59,3 @@ For details on creating and configuring a Aha! Roadmaps external content connect
 
 **Parent Topic:**[Aha! Roadmaps external content connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/search-administration/aha-roadmaps-external-content-connector.md)
 
-## Related
-
-- [[aha-roadmaps-external-content-connector|Aha! Roadmaps external content connector]]

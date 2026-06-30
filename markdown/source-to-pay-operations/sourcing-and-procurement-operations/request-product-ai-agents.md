@@ -43,7 +43,7 @@ Role required: sn\_spend\_gen\_ai.now\_assist\_requester
 
 6.  Select the product or service that you want to purchase.
 
-7.  Select **Submit** to confirm details, such as quantity, [[supplier|supplier]], total price, and delivery period.
+7.  Select **Submit** to confirm details, such as quantity, supplier, total price, and delivery period.
 
 8.  Select **Edit** to make changes and then enter **Submit**.
 
@@ -61,7 +61,7 @@ The purchase request is successfully submitted through Employee Center using the
 -   **[Upload a Statement of Work \(SOW\) to request a purchase](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/now-assist-spo-upload-sow.md)**  
 Use Now Assist’s AI-powered chat interface to upload a Statement of Work \(SOW\) and submit your purchase request through Employee Center.
 -   **[Upload a quote to request a purchase using the Now Assist AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agentic-ai-spo-quote.md)**  
-Use Now Assist's AI-powered chat interface for requesting a purchase by describing your needs, uploading a quote, and submitting the request from the Employee Center. Now Assist analyzes the uploaded quote and automatically creates a [[purchase-requisition|purchase requisition]].
+Use Now Assist's AI-powered chat interface for requesting a purchase by describing your needs, uploading a quote, and submitting the request from the Employee Center. Now Assist analyzes the uploaded quote and automatically creates a purchase requisition.
 
 **Parent Topic:**[Use agentic workflows in Now Assist for Sourcing and Procurement Operations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/agentic-ai-now-assist-spo.md)
 
@@ -70,7 +70,7 @@ Use Now Assist's AI-powered chat interface for requesting a purchase by describi
 
 [Conversational intake for sourcing and procurement agentic workflow]()
 
-[Enable AI agents for the [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]] in the Now Assist panel]()
+[Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in the Now Assist panel]()
 
 [Enable AI agents for the Conversational intake for sourcing and procurement agentic workflow in Virtual Agent]()
 
@@ -78,8 +78,3 @@ Use Now Assist's AI-powered chat interface for requesting a purchase by describi
 
 [Email parser agent for Sourcing and Procurement Operations]()
 
-## Related
-
-- [[supplier|Supplier]]
-- [[purchase-requisition|Purchase requisition]]
-- [[spo-help-fulfill-pr-agentic|Conversational intake for sourcing and procurement agentic workflow]]

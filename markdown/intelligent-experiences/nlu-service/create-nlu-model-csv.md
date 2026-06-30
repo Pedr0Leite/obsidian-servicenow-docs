@@ -14,12 +14,12 @@ breadcrumb: [Creating models, Model management, Natural Language Understanding, 
 
 # Create an NLU model from a CSV file
 
-Upload a CSV or XLSX \(Excel Workbook\) file containing utterances and their intents to create a [[nlu-landing|Natural Language Understanding]] \(NLU\) model. Use this method to quickly create models from your data or other exported models.
+Upload a CSV or XLSX \(Excel Workbook\) file containing utterances and their intents to create a Natural Language Understanding \(NLU\) model. Use this method to quickly create models from your data or other exported models.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated on your instance.
--   You can create [[nlu-models|NLU models]] for Virtual Agent and AI Search.
+-   Make sure that the NLU Workbench plugin, NLU Workbench - Core plugin, and Predictive Intelligence plugin are all installed and activated on your instance.
+-   You can create NLU models for Virtual Agent and AI Search.
 -   Role required: admin or nlu\_admin
 
 ## About this task
@@ -88,8 +88,3 @@ Add intents and training utterances to continue building the model. Add entities
 
 Add test utterances and intents to build the model's default test set. For more information, see [Test set creation and management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-test-set-creation-management.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[nlu-models|NLU models]]

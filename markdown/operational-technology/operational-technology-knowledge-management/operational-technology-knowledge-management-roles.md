@@ -14,7 +14,7 @@ breadcrumb: [Reference, Operational Technology Knowledge Management, Operational
 
 # Operational Technology Knowledge Management roles
 
-You can assign Knowledge Management roles to your [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]] users.
+You can assign Knowledge Management roles to your Operational Technology Knowledge Management users.
 
 The following table lists the Knowledge Management roles that you can assign to your users so that they can access Operational Technology Knowledge Management capabilities.
 
@@ -56,6 +56,3 @@ The knowledge administrator can perform all the administrative tasks that are as
 </td></tr></tbody>
 </table>**Parent Topic:**[Operational Technology Knowledge Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/operational-technology-knowledge-management-reference-landing-page.md)
 
-## Related
-
-- [[operational-technology-knowledge-management-landing-page|Operational Technology Knowledge Management]]

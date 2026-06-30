@@ -22,7 +22,7 @@ After you assign this role to a user, they can no longer create, update, or dele
 
 **Note:** Assign this role only to users. Don’t assign this role to other resources in the system, including applications, access control levels \(ACLs\), and so on.
 
-The **snc\_read\_only** role can be assigned to any user to limit access to data without having to create ACLs for system tables, [[custom-tables|custom tables]], and fields. This practice is useful for performing internal or external audits without enabling a user to have insert or update access to data.
+The **snc\_read\_only** role can be assigned to any user to limit access to data without having to create ACLs for system tables, custom tables, and fields. This practice is useful for performing internal or external audits without enabling a user to have insert or update access to data.
 
 Users with the **snc\_read\_only** role have the following restrictions regardless of other roles and privileges that they have.
 
@@ -36,7 +36,7 @@ Users with the **snc\_read\_only** role have the following restrictions regardle
 
 ## Exempt tables from the read-only restriction
 
-Three [[r_SetArchiveRuleProcessingBehavior|system properties]] control which tables users with the **snc\_read\_only** role can still create, update, or delete records on. These properties are not created on instances by default. To use them, manually add each property to the System Properties \[sys\_properties\] table and set the value to a comma-separated list of table names. See [[t_AddAPropertyUsingSysPropsList|Add a system property]].
+Three system properties control which tables users with the **snc\_read\_only** role can still create, update, or delete records on. These properties are not created on instances by default. To use them, manually add each property to the System Properties \[sys\_properties\] table and set the value to a comma-separated list of table names. See [Add a system property](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_AddAPropertyUsingSysPropsList.md).
 
 |Property|Description|
 |--------|-----------|
@@ -66,7 +66,7 @@ Role required: admin
 
     **Note:** When domain separation and delegated admin are enabled in an instance, the administrative user must be in the **global** domain. Otherwise, the following error appears: `Application installation is unavailable because another operation is running: Plugin Activation for <plugin name>.`
 
-    You will see a message after installation is completed. For information about the components installed with a plugin, see [[find-components|Find components installed with an application]].
+    You will see a message after installation is completed. For information about the components installed with a plugin, see [Find components installed with an application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/find-components.md).
 
 
 ## Read-only role properties
@@ -122,9 +122,3 @@ Specifies which tables are exempt from the read-only role enforcement and enable
 
 **Note:** Test the read-only role by assigning it to a user and then impersonating that user.
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[find-components|Find components installed with an application]]
-- [[custom-tables|Custom tables]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

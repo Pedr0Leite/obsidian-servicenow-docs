@@ -14,7 +14,7 @@ breadcrumb: [Reference, Workplace Visitor Management, Workplace Service Delivery
 
 # Properties installed with Workplace Visitor Management
 
-There are several properties available with [[workplace-visitor-mgmt-feat|Workplace Visitor Management]].
+There are several properties available with Workplace Visitor Management.
 
 **Note:** All of these properties are located in the System Properties \[sys\_properties\] table. To access the table, enter `sys_properties.list` in the navigation filter.
 
@@ -32,7 +32,7 @@ sn\_wsd\_visitor.policy\_response\_due\_in\_days
 
 </td><td>
 
-This property enables you to send emails to visitors to remind them to submit their visitor policy acceptance or rejection. If a visitor doesn’t respond, the reception staff is notified to check the same when the visitor visits the reception desk. **Note:** The [[register-visitors|visitor registration]] isn’t canceled if the visitor doesn’t provide their response toward visitor policy.
+This property enables you to send emails to visitors to remind them to submit their visitor policy acceptance or rejection. If a visitor doesn’t respond, the reception staff is notified to check the same when the visitor visits the reception desk. **Note:** The visitor registration isn’t canceled if the visitor doesn’t provide their response toward visitor policy.
 
 -   Type: integer
 -   Default value: **1**
@@ -52,7 +52,7 @@ sn\_imt\_core.visitor\_syncing
 
 </td><td>
 
-This property enables visitor synchronization between the [[safe-workplace|Safe Workplace]] and Workplace Visitor Management applications.
+This property enables visitor synchronization between the Safe Workplace and Workplace Visitor Management applications.
 
  When a visitor is registered with the Workplace Visitor Management application, the visitor details are also sent to the Safe Workplace application so that other visitor-related actions can be performed.
 
@@ -92,8 +92,3 @@ This property specifies the sys\_id of the badge template that is used if no bad
 
 [Additional requirement form]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[register-visitors|Visitor registration]]
-- [[safe-workplace|Safe Workplace]]

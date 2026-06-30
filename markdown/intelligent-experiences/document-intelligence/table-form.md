@@ -16,7 +16,7 @@ breadcrumb: [DocIntel forms, Reference, Document Intelligence, Enable AI experie
 
 The Table form enables you to define a table for extraction.
 
-**Important:** Starting with the Zurich release, [[document-intelligence-landing|Document Intelligence]] is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the [[docintel-nowassist-landing|Now Assist in Document Intelligence]] application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
+**Important:** Starting with the Zurich release, Document Intelligence is being prepared for future deprecation. It will be hidden and no longer activated on new instances but will continue to be supported. For details, see the Deprecation Process article \[[KB0867184](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0867184)\] in the Now Support Knowledge Base. Instead, you can extract information from documents using the Now Assist in Document Intelligence application. For more information, see [Now Assist in Document Intelligence](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-in-document-intelligence/docintel-nowassist-landing.md).
 
 The Table form includes the following fields.
 
@@ -182,7 +182,7 @@ Indicates whether a column required. It’s automatically selected or cleared ba
 
 </td></tr><tr><td>
 
-Select one of these options for [[cases|cases]] when:-   the date/number is ambiguous in the document
+Select one of these options for cases when:-   the date/number is ambiguous in the document
 -   there are multiple reference matches in the document
 
 </td><td>
@@ -214,8 +214,3 @@ Option to keep the pop-up window displayed on the screen. Enable this option If 
 </td></tr></tbody>
 </table>**Parent Topic:**[Document Intelligence forms](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/document-intelligence/document-intelligence-forms.md)
 
-## Related
-
-- [[document-intelligence-landing|Document Intelligence]]
-- [[docintel-nowassist-landing|Now Assist in Document Intelligence]]
-- [[cases|Cases]]

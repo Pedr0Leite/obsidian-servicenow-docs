@@ -16,9 +16,9 @@ breadcrumb: [Software discovery, Data collected by ITOM Visibility, ITOM Visibil
 
 A process and its corresponding resource information can be used to determine whether the process is a clustered process.
 
-The **Microsoft SQL Server** process classifier that comes with your instance identifies clustered SQL Servers. You can leverage the same technique to detect other clustered applications on Windows [[using-discovery|using Discovery]].
+The **Microsoft SQL Server** process classifier that comes with your instance identifies clustered SQL Servers. You can leverage the same technique to detect other clustered applications on Windows using Discovery.
 
-To detect Windows clustered applications with [[r-discovery|Discovery]], you create a process classifier that detects whether a process is a clustered process. Perform the following steps:
+To detect Windows clustered applications with Discovery, you create a process classifier that detects whether a process is a clustered process. Perform the following steps:
 
 **Parent Topic:**[Software discovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/itom-visibility/c_Software.md)
 
@@ -205,7 +205,3 @@ If there are multiple matches to the resourceType condition, the matching functi
 resourceType: "Physical Disk" 
 ```
 
-## Related
-
-- [[using-discovery|Using Discovery]]
-- [[r-discovery|Discovery]]

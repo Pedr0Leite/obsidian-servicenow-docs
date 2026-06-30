@@ -12,13 +12,13 @@ breadcrumb: [Set up Google Cloud Platform service accounts, Set up a cloud servi
 
 # Configure the Google API credentials for Cloud Discovery
 
-Create Google API credentials to allow Cloud [[r-discovery|Discovery]] to access the data on your Google account securely.
+Create Google API credentials to allow Cloud Discovery to access the data on your Google account securely.
 
 ## Before you begin
 
 Ensure that the latest versions of the following applications are installed:
 
--   Discovery and [[c_ServiceMappingOverview|Service Mapping]] Patterns
+-   Discovery and Service Mapping Patterns
 -   Visibility Content
 -   CMDB CI Class Models
 
@@ -61,18 +61,12 @@ Actions
 3.  Select **New**.
 4.  In the form, fill in the fields according to the form description.
 
-For description of the form fields, see [[google-api-credentials-form|Google API Credentials Form]].
+For description of the form fields, see [Google API Credentials Form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/google-api-credentials-form.md).
 
 5.  Select **Submit**.
 
 
 </td></tr></tbody>
 </table>
-**Parent Topic:**[[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
+**Parent Topic:**[Set up Google Cloud Platform service accounts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/set-up-gcp-service-accounts.md)
 
-## Related
-
-- [[google-api-credentials-form|Google API Credentials Form]]
-- [[set-up-gcp-service-accounts|Set up Google Cloud Platform service accounts]]
-- [[r-discovery|Discovery]]
-- [[c_ServiceMappingOverview|Service Mapping]]

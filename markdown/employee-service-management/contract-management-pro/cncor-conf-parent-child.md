@@ -23,7 +23,7 @@ The following video walks you through the process of configuring parent-child fi
 
 ## About this task
 
-You can configure a child contract type for a contract type and map the fields to automatically inherit values from the parent contract when linked. A contract type can have multiple child contract types and [[field-mappings-sf|field mappings]]. You can map one field at a time.
+You can configure a child contract type for a contract type and map the fields to automatically inherit values from the parent contract when linked. A contract type can have multiple child contract types and field mappings. You can map one field at a time.
 
 The **Link and inherit fields** button on the Link contract window is available only when you configure the parent-child mapping.
 
@@ -60,6 +60,3 @@ Role required: sn\_cm\_core.contract\_config
 
 The parent child mapping is configured, and values from the mapped parent fields are inherited by the child contract when linked.
 
-## Related
-
-- [[field-mappings-sf|Field mappings]]

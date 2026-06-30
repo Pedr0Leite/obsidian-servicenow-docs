@@ -14,15 +14,15 @@ breadcrumb: [Software Asset Management Foundation plugin, ITSM Software Asset Ma
 
 # Using Software Asset Management Foundation plugin workspace
 
-Use the Software Asset Workspace, the intuitive and streamlined user interface of the [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]] application.
+Use the Software Asset Workspace, the intuitive and streamlined user interface of the Software Asset Management Foundation plugin application.
 
-The Software Asset Management Foundation plugin views let you create entitlements, [[c_CreatingSoftwareModels|software models]], run and review reconciliation results, give visibility into your software assets, and provides access to analytics via dashboards.
+The Software Asset Management Foundation plugin views let you create entitlements, software models, run and review reconciliation results, give visibility into your software assets, and provides access to analytics via dashboards.
 
 The Software Asset workspace contains the following views:
 
--   Software asset overview: the [[dex-workspace-dashboard-tab|landing page]] of the Software Asset Workspace. You can create entitlements, run reconciliation, view key metrics and get time sensitive alerts and notifications regarding your software assets.
+-   Software asset overview: the landing page of the Software Asset Workspace. You can create entitlements, run reconciliation, view key metrics and get time sensitive alerts and notifications regarding your software assets.
 -   License usage: You can view the compliance status of all your publishers, review reconciliation results, and view and run reports.
--   License operations: lists all the entitlements, software models, import entitlement errors, discovery [[c_Models|models]].
+-   License operations: lists all the entitlements, software models, import entitlement errors, discovery models.
 
 -   **[Software asset overview for Software Asset Management Foundation plugin dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/software-asset-overview-samf.md)**  
 Enhance your Software Asset Management Foundation plugin experience by using the modernized and user-friendly software asset overview dashboard. The software asset overview is a simplified and intuitive environment that helps you use the application more effectively by reducing complexity.
@@ -33,9 +33,3 @@ Use the License operations view in the Software Asset Workspace to view all your
 
 **Parent Topic:**[Software Asset Management Foundation plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management-foundation-plugin/c_SoftwareAssetMgmtSAMF.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmtSAMF|Software Asset Management Foundation plugin]]
-- [[c_CreatingSoftwareModels|Software models]]
-- [[dex-workspace-dashboard-tab|Landing page]]
-- [[c_Models|Models]]

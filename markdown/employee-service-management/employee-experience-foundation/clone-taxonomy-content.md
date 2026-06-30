@@ -22,7 +22,7 @@ Role required: taxonomy\_admin
 
 ## About this task
 
-By default, [[employee-center-landing-page|Employee Center]] application ships employee-centric taxonomy and taxonomy topics for IT, HR, Workplace, Legal, and Procurement.
+By default, Employee Center application ships employee-centric taxonomy and taxonomy topics for IT, HR, Workplace, Legal, and Procurement.
 
 \[Omitted image "taxonomy-default.png"\] Alt text: Default taxonomy that is shipped
 
@@ -46,6 +46,4 @@ By default, [[employee-center-landing-page|Employee Center]] application ships e
 
 8.  Deactivate the existing taxonomy so that the search configurations pick up the content from the new taxonomy.
 
-## Related
 
-- [[employee-center-landing-page|Employee Center]]

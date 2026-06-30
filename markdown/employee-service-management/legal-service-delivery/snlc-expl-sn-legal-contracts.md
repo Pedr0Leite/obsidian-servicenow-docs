@@ -14,17 +14,17 @@ breadcrumb: [Contract Management Pro for Legal Service Delivery, Integration wit
 
 # Explore Contract Management Pro for Legal Service Delivery
 
-Learn more about [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]] through a sample workflow and review the benefits it can provide.
+Learn more about Contract Management Pro for Legal Service Delivery through a sample workflow and review the benefits it can provide.
 
 ## Contract Management Pro for Legal Service Delivery overview
 
-With the Legal Contract Management Pro for Legal Service Delivery, you can configure and automate the legal contract lifecycle by creating contract [[document-templates-overview|document templates]], clauses, and clause variations. The legal contract lifecycle enables you to submit, review, finalize, and manage legal contract and amendmentrequests. The integration also supports e-signatures and external storage systems.
+With the Legal Contract Management Pro for Legal Service Delivery, you can configure and automate the legal contract lifecycle by creating contract document templates, clauses, and clause variations. The legal contract lifecycle enables you to submit, review, finalize, and manage legal contract and amendmentrequests. The integration also supports e-signatures and external storage systems.
 
 ## Contract Management Pro for Legal Service Delivery users
 
 |User|Description|
 |----|-----------|
-|Contract Management Pro for [[legal-management-overview|Legal Service Delivery]] configurator|Contract Management Pro for Legal Service Delivery configurator can configure contract templates, external systems, and configuration rules.|
+|Contract Management Pro for Legal Service Delivery configurator|Contract Management Pro for Legal Service Delivery configurator can configure contract templates, external systems, and configuration rules.|
 |Contract Management Pro for Legal Service Delivery administrator|Contract Management Pro for Legal Service Delivery administrator manages contract records, user roles, and system configurations.|
 |Contract Management Pro for Legal Service Delivery fulfiller|Contract Management Pro for Legal Service Delivery fulfiller works on legal requests.|
 |Legal User|Legal user submits legal and amendment requests and track their progress.|
@@ -92,7 +92,7 @@ As a legal fulfiller on the legal team, you work on assigned third-party review 
         -   For external storage - Reviewers collaborate on the contract document revision online in real time. Once the review is complete, the fulfiller can finalize the contract document that is available online or create a new offline version with the changes.
 6.  The contract fulfiller uploads the revised contract to the contract request.
 7.  The contract fulfiller emails the revised contract document to third-party contacts.
-8.  View responses from third-party contacts in the [[activity-lxp|activity]] stream of the contract request.
+8.  View responses from third-party contacts in the activity stream of the contract request.
 
     Multiple iterations of revisions between your company and the third party might be necessary before the contract document is finalized by all parties. The review process may be conducted again with different reviewer groups.
 
@@ -132,7 +132,7 @@ Submit, review, finalize, and manage legal contract requests. The legal departme
 
 </td></tr><tr><td>
 
-Configure [[cncore-expl-wdt|word document templates]] for contract to streamline and reduce the need for rework and maintain uniformity across generated contract documents. Set up dynamic content generation through mappings and conditions for clauses and tables.
+Configure word document templates for contract to streamline and reduce the need for rework and maintain uniformity across generated contract documents. Set up dynamic content generation through mappings and conditions for clauses and tables.
 
 </td><td>
 
@@ -193,7 +193,7 @@ Obligation fulfiller or Obligation user
 
 </td></tr><tr><td>
 
-Use [[cncore-now-assit-landing|Now Assist in Contract Management]] to analyze contracts for non-standard and missing clauses, and extract information from signed contracts to add in the contract repository.
+Use Now Assist in Contract Management to analyze contracts for non-standard and missing clauses, and extract information from signed contracts to add in the contract repository.
 
 </td><td>
 
@@ -218,11 +218,3 @@ Contract Management Pro for Legal Service Delivery enables you to submit, review
 
 **Parent Topic:**[Contract Management Pro for Legal Service Delivery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-service-delivery/snlc-mgmt-pro-landing-page.md)
 
-## Related
-
-- [[snlc-expl-legal-contracts|Contract Management Pro for Legal Service Delivery]]
-- [[document-templates-overview|Document Templates]]
-- [[legal-management-overview|Legal Service Delivery]]
-- [[activity-lxp|Activity]]
-- [[cncore-expl-wdt|Word Document Templates]]
-- [[cncore-now-assit-landing|Now Assist in Contract Management]]

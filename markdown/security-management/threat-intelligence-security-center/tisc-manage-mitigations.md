@@ -14,7 +14,7 @@ breadcrumb: [MITRE-ATT&amp;CK Repository, TISC Library Repository, Threat Intell
 
 # Manage Mitigations
 
-Manage the mitigations that are imported from the MITRE TAXII collections. Mitigations enable you to prevent an adversary from successfully executing techniques or sub-techniques against your organization. In STIX, mitigations are known as [[threat-intelligence-course-actions|course of actions]].
+Manage the mitigations that are imported from the MITRE TAXII collections. Mitigations enable you to prevent an adversary from successfully executing techniques or sub-techniques against your organization. In STIX, mitigations are known as course of actions.
 
 ## Before you begin
 
@@ -22,11 +22,11 @@ Role required: sn\_sec\_tisc.analyst
 
 ## Procedure
 
-1.  After you enable the MITRE ATT&amp;CK related feed [[data-sources|data sources]] which are available in the base system, click **Execute Now** to run the integrations and fetch the MITRE related information.
+1.  After you enable the MITRE ATT&amp;CK related feed data sources which are available in the base system, click **Execute Now** to run the integrations and fetch the MITRE related information.
 
     For more information on enabling the integrations.
 
-2.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Mitigations**.
+2.  To view the MITRE ATT&amp;CK Repository data, navigate to **Workspaces** &gt; **Threat Intelligence Security Center** &gt; **Threat Intel Library** &gt; **MITRE ATT&amp;CK** &gt; **Mitigations**.
 
     Click a mitigation to view all the associated information.
 
@@ -56,8 +56,3 @@ Role required: sn\_sec\_tisc.analyst
 
 **Parent Topic:**[MITRE-ATT&amp;CK Repository](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/threat-intelligence-security-center/tisc-mitre-att-ck-framework-overview.md)
 
-## Related
-
-- [[threat-intelligence-course-actions|Course of actions]]
-- [[data-sources|Data Sources]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

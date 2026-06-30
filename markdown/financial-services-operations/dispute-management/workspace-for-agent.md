@@ -22,7 +22,7 @@ The dispute agent workspace provides a single, streamlined, and consistent workf
 
 ## User interface of Dispute workspace
 
-The disputes workspace for [[fso-overview|Financial Services]] Operations provides a centralized interface for managing and resolving dispute cases. As a dispute agent, you can resolve disputes in a visual and consistent workflow by handling chargebacks, fraud reports, duplicate transactions, SLAs, and ensure timely resolutions.
+The disputes workspace for Financial Services Operations provides a centralized interface for managing and resolving dispute cases. As a dispute agent, you can resolve disputes in a visual and consistent workflow by handling chargebacks, fraud reports, duplicate transactions, SLAs, and ensure timely resolutions.
 
 Let's understand the Financial Services Operations disputes page.\[Omitted image "my-tasks.png"\] Alt text: Dashboard of the tasks opened
 
@@ -42,7 +42,7 @@ The dispute life cycle of Financial Services Operations includes the following s
 
     \[Omitted image "dispute-initiate.png"\] Alt text: Dispute displayed as playbook
 
--   Processing: [[investigate-dispute-mc|Investigate the dispute]]. In this stage, each transaction within a dispute case is presented as a process-based layout. This layout visually represents the distinct stages of the investigation workflow for that specific transaction.
+-   Processing: Investigate the dispute. In this stage, each transaction within a dispute case is presented as a process-based layout. This layout visually represents the distinct stages of the investigation workflow for that specific transaction.
 
     The Processing stage includes these stages:
 
@@ -61,12 +61,7 @@ The **Dispute Workspace** displays a list of all open tasks for the agent, each 
 -   The agent can write work notes for the task, which appears in the activity stream once the task is saved.
 -   After a task is complete, it automatically moves to the **Closed** tab.
 
-**Note:** If [[card-data-security|Card Data Security]] is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
+**Note:** If Card Data Security is installed and configured, **Attachments** in the contextual side panel will handle files differently in transaction records. For more information, see [Manage attachments in Card Data Security](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/manage-attachments-in-card-data-security.md).
 
 **Parent Topic:**[Managing Disputes](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/dispute-management/managing-disputes.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]
-- [[investigate-dispute-mc|Investigate the dispute]]
-- [[card-data-security|Card Data Security]]

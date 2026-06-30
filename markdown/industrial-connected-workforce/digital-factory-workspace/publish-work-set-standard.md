@@ -15,7 +15,7 @@ breadcrumb: [Standard and task life cycles, Industrial Standards, Use, Digital F
 
 # Publish a work set standard
 
-[[create-work-set-standard|Create a work set standard]], add sub-activities, and request approval to publish it so that line leaders and operators can run it on the shop floor.
+Create a work set standard, add sub-activities, and request approval to publish it so that line leaders and operators can run it on the shop floor.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: sn\_icw\_std.work\_set\_standard\_author
 
 3.  On the **Work set** tile, select **New standard**.
 
-4.  On the [[work-set-standard-form|work set standard form]], fill in the fields.
+4.  On the work set standard form, fill in the fields.
 
     For field descriptions, see [Work set standard form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-standard-form.md).
 
@@ -43,7 +43,7 @@ Role required: sn\_icw\_std.work\_set\_standard\_author
 
     Set the sub-activity **Type** to one of the following values.
 
-    -   **Standard**: Select a published Industrial Guided Task standard to run as part of the work set. [[work-set-standards|Work set standards]] can't reference other work set standards.
+    -   **Standard**: Select a published Industrial Guided Task standard to run as part of the work set. Work set standards can't reference other work set standards.
     -   **Action**: Enter a short description for an industrial action that the system creates when the work set runs.
     For field descriptions, see [Work set sub-activity form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-sub-activity-form.md).
 
@@ -60,8 +60,3 @@ When an approver in the owner group approves the request, the standard moves to 
 
 **Parent Topic:**[Work set standard and task life cycles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/industrial-connected-workforce/digital-factory-workspace/work-set-standard-task-life-cycle.md)
 
-## Related
-
-- [[create-work-set-standard|Create a work set standard]]
-- [[work-set-standard-form|Work set standard form]]
-- [[work-set-standards|Work set standards]]

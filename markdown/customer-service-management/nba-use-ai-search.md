@@ -12,7 +12,7 @@ breadcrumb: [Using the Recommended Actions application, Automate and optimize, U
 
 # Use AI search in Recommended Actions to resolve cases
 
-As an agent, use [[ra-csm-ai-search|AI search in Recommended Actions]] to help address customer issues and resolve cases quickly.
+As an agent, use AI search in Recommended Actions to help address customer issues and resolve cases quickly.
 
 ## Before you begin
 
@@ -20,11 +20,11 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **[[csm-workspaces-configure|CSM Configurable Workspace]]**.
+1.  Navigate to **All** &gt; **Workspace Experience** &gt; **Workspaces** &gt; **CSM Configurable Workspace**.
 
 2.  Open the customer service record.
 
-3.  Select the [[configure-nba|Recommended Actions]] icon \(\[Omitted image "nba-icon.png"\] Alt text: Recommended Actions icon.\) in the Contextual Side Panel.
+3.  Select the Recommended Actions icon \(\[Omitted image "nba-icon.png"\] Alt text: Recommended Actions icon.\) in the Contextual Side Panel.
 
 4.  Select the **Search** tab.
 
@@ -36,12 +36,12 @@ Role required: sn\_nb\_action.next\_best\_action\_user
 
     The relevancy score displays on the search result recommendation cards in the Search tab for following guidances provided with the base system. The relevancy score indicates how well a search result matches the agent’s query.
 
-    -   [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
+    -   Default guidance for search results
     -   Attach and share article
     -   Share KB in chat interactions
     -   Case resolution guidance
     -   All no-code guidances \(Link incident to current case, Link problem to current case, and Link change request to current case\).
-    **Note:** The relevancy score displays only when the **Show relevancy score for results** check box is enabled in the Context form. For more information, see [[ra-csm-contexts-create|Create a context in Recommended Actions]].
+    **Note:** The relevancy score displays only when the **Show relevancy score for results** check box is enabled in the Context form. For more information, see [Create a context in Recommended Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/ra-csm-contexts-create.md).
 
 7.  Select the **Filters** button, select a search source to filter the results and then select **Apply**.
 
@@ -63,7 +63,7 @@ Filter search results corresponding to multiple sources
 
 </td><td>
 
-The list of search sources of all the search results appear in the Source section in the Filters module. You can filter the search results by selecting multiple sources at the same time. The source type appears on the search results.When one or more sources are selected, all the facets corresponding to all these selected sources appear enabling you to select field values to [[refine-search-results|refine your search results]] further. For more information on facet filters, see the following row.
+The list of search sources of all the search results appear in the Source section in the Filters module. You can filter the search results by selecting multiple sources at the same time. The source type appears on the search results.When one or more sources are selected, all the facets corresponding to all these selected sources appear enabling you to select field values to refine your search results further. For more information on facet filters, see the following row.
 
 </td></tr><tr><td>
 
@@ -168,12 +168,3 @@ Displays the filters section when you select the **Show filters** button.
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[ra-csm-contexts-create|Create a context in Recommended Actions]]
-- [[ra-csm-ai-search|AI search in Recommended Actions]]
-- [[csm-workspaces-configure|CSM Configurable Workspace]]
-- [[configure-nba|Recommended Actions]]
-- [[ra-csm-guidances-default-guidance-search|Default guidance for search results]]
-- [[refine-search-results|Refine your search results]]

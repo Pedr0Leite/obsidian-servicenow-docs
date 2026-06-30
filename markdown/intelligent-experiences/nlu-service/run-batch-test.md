@@ -14,18 +14,18 @@ breadcrumb: [Multi-model Batch Testing, NLU Workbench - Advanced Features, Natur
 
 # Run a multi-model batch test
 
-Test multiple [[nlu-landing|Natural Language Understanding]] \(NLU\) models against a test set. Evaluate the quality of your models and refine them to improve intent prediction.
+Test multiple Natural Language Understanding \(NLU\) models against a test set. Evaluate the quality of your models and refine them to improve intent prediction.
 
 ## Before you begin
 
--   Make sure that the NLU Workbench - Core plugin, NLU Workbench plugin, [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]] plugin and [[predictive-intelligence-landing|Predictive Intelligence]] plugin are all installed and activated.
+-   Make sure that the NLU Workbench - Core plugin, NLU Workbench plugin, NLU Workbench - Advanced Features plugin and Predictive Intelligence plugin are all installed and activated.
 -   Have one or more trained models for Virtual Agent or AI Search.
 -   Have a test set containing test utterances with expected intents. See [Create a test set](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/import-batch-test-set.md) or [Test set creation and management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-test-set-creation-management.md).
 -   Role required: nlu\_admin or admin. When assigned to a model, the nlu\_editor role can run tests and modify test utterances for that model.
 
 ## About this task
 
-In **[[batch-testing-nlu|Multi-model Batch Testing]]**, you can use a test set that is not the model's default test set.
+In **Multi-model Batch Testing**, you can use a test set that is not the model's default test set.
 
 Also, you can test up to ten models at one time using **Multi-model Batch Testing**. However, tests with fewer models run more quickly.
 
@@ -33,7 +33,7 @@ When testing multiple models, your test set must cover at least 25% of the total
 
 **Note:** If an expected intent in your test set doesn't match any intent in your models, that expected intent and its test utterances are skipped. They aren't counted or displayed in test results.
 
-To test a single model against its default test set, use the **[[testing-your-model|Test and publish your model]]** phase on the model's overview page. For more information, see [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md).
+To test a single model against its default test set, use the **Test and publish your model** phase on the model's overview page. For more information, see [Test and publish your model](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/testing-your-model.md).
 
 ## Procedure
 
@@ -62,10 +62,3 @@ Use the results to adjust and improve your models. Then, run the test again to a
 
 Batch testing may affect confidence threshold recommendations. For more information, see [NLU model settings](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/nlu-service/nlu-model-settings.md).
 
-## Related
-
-- [[nlu-landing|Natural Language Understanding]]
-- [[nlu-workbench-advanced-features|NLU Workbench - Advanced Features]]
-- [[predictive-intelligence-landing|Predictive Intelligence]]
-- [[batch-testing-nlu|Multi-model Batch Testing]]
-- [[testing-your-model|Test and publish your model]]

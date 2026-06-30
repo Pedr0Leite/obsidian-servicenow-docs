@@ -14,7 +14,7 @@ breadcrumb: [Create a capacity definition, Capacity and Reservations Management,
 
 # Create capacity buckets to distribute the workload capacity for a day
 
-Create [[capacity|capacity]] buckets for the selected capacity definition to distribute the workload capacity at different appointment slots throughout the day.
+Create capacity buckets for the selected capacity definition to distribute the workload capacity at different appointment slots throughout the day.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ Role required: wm\_admin, wm\_manager, and wm\_internal\_contractor\_manager, sn
 
 The defined capacity is distributed among the newly created capacity buckets.
 
-## Related
-
-- [[capacity|Capacity]]

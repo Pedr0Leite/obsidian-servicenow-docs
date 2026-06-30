@@ -26,7 +26,7 @@ Before an agent can perform work on an enterprise asset, it must be picked up fr
 
 ## Procedure
 
-1.  From the [[using-eam-workspace|Enterprise Asset Workspace]], open the Enterprise [[asset-estate-view-am|asset estate view]].
+1.  From the Enterprise Asset Workspace, open the Enterprise asset estate view.
 
 2.  On the **Asset tasks** tab, select the **Confirm** task for the serialized enterprise asset that is associated with your work order.
 
@@ -48,7 +48,7 @@ Before an agent can perform work on an enterprise asset, it must be picked up fr
 
 ## Result
 
-The state of the Confirm task changes from Open to Closed Complete. The [[enterprise-asset-management|Enterprise Asset Management]] application then generates a subsequent Pick Up task for the enterprise asset.
+The state of the Confirm task changes from Open to Closed Complete. The Enterprise Asset Management application then generates a subsequent Pick Up task for the enterprise asset.
 
 ## What to do next
 
@@ -56,8 +56,3 @@ The agent who is assigned to the associated work order must complete and close t
 
 **Parent Topic:**[Managing work for your enterprise assets](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/managing-work-enterprise-assets.md)
 
-## Related
-
-- [[using-eam-workspace|Enterprise Asset Workspace]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[enterprise-asset-management|Enterprise Asset Management]]

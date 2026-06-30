@@ -14,7 +14,7 @@ breadcrumb: [Gamification components, Gamification, Using communities, Communiti
 
 # Points
 
-Users earn [[communities-gamification|gamification]] points by performing activities in the community.
+Users earn gamification points by performing activities in the community.
 
 Users can earn points within a community, a forum, or a topic. As users accrue points, they achieve level ranges. Point totals appear on leaderboards and on user profiles, in the profile header, and in the Achievement tab. After points are awarded to a user, an entry appears at the top of the Points list and the user's point total is updated.
 
@@ -27,6 +27,3 @@ The Points list also has a widget instance options for the **Page size**, which 
 
 **Parent Topic:**[Gamification components](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/communities/gamification-components.md)
 
-## Related
-
-- [[communities-gamification|Gamification]]

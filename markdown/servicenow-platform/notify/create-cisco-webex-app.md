@@ -30,7 +30,7 @@ Role required: Cisco admin
 
     1.  **Will this integration use a mobile SDK**: Select **No**.
 
-    2.  **Integration name**: Option to provide the name for the [[notify-landing-page|Notify]] with Cisco Webex app.
+    2.  **Integration name**: Option to provide the name for the Notify with Cisco Webex app.
 
     3.  **Icon**: Option to choose an icon for the app.
 
@@ -55,6 +55,3 @@ Role required: Cisco admin
 
 **Parent Topic:**[Configure Notify Cisco Webex Connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/notify/setup-cisco-webex-notify.md)
 
-## Related
-
-- [[notify-landing-page|Notify]]

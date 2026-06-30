@@ -14,7 +14,7 @@ breadcrumb: [Configure, Portfolio Planning in Strategic Planning Workspace, Stra
 
 # Strategic Planning diagnostics
 
-Run diagnostic scans to identify and fix errors in the configuration and other common settings for [[alignment-planner-workspace-landing-page|Strategic Planning]] before your planning managers prioritize and roadmap work for their portfolio plans.
+Run diagnostic scans to identify and fix errors in the configuration and other common settings for Strategic Planning before your planning managers prioritize and roadmap work for their portfolio plans.
 
 Strategic Planning diagnostic scans help you find discrepancies by validating the configuration for the following:
 
@@ -27,7 +27,7 @@ Strategic Planning diagnostic scans help you find discrepancies by validating th
 
 The following are the default diagnostic scans available for Strategic Planning.
 
-\[Omitted image "SPW-diagnostics.png"\] Alt text: [[portfolio-planning-diagnostics|Portfolio Planning diagnostics]].
+\[Omitted image "SPW-diagnostics.png"\] Alt text: Portfolio Planning diagnostics.
 
 ## Strategic Planning diagnostics for high-level planning
 
@@ -184,7 +184,7 @@ Validate the goal relationships for assigned entities
 
 Identifies if there are any m2m goal relationships defined for assigned entities.
 
- If this scan fails, the result displays the goals that do have m2m goal relationships any assigned entity table. You can run the **[[migrate-goal-relationships-for-assigned-entities-egm|Migrate goal relationships for assigned entities]]** scheduled job to migrate the existing goal relationship data from the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table to the Goals table. For more information, see [Migrate goal relationships for assigned entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/migrate-goal-relationships-for-assigned-entities-egm.md).
+ If this scan fails, the result displays the goals that do have m2m goal relationships any assigned entity table. You can run the **Migrate goal relationships for assigned entities** scheduled job to migrate the existing goal relationship data from the Goal Relationship \[sn\_gf\_goal\_m2m\_relationship\] table to the Goals table. For more information, see [Migrate goal relationships for assigned entities](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/scenario-planning-in-spw/migrate-goal-relationships-for-assigned-entities-egm.md).
 
 </td></tr><tr><td>
 
@@ -216,9 +216,3 @@ Verifies if each existing portfolio plan created in your instance has a valid po
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[alignment-planner-workspace-landing-page|Strategic Planning]]
-- [[portfolio-planning-diagnostics|Portfolio Planning diagnostics]]
-- [[migrate-goal-relationships-for-assigned-entities-egm|Migrate goal relationships for assigned entities]]

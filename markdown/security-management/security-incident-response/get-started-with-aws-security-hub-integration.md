@@ -14,7 +14,7 @@ breadcrumb: [Amazon Web Services \(AWS\) Security Hub integration, Security Inci
 
 # Get started with AWS Security Hub integration
 
-Activate and set up the AWS Security Hub findings integration for Security Operation plug-in to interface with your ServiceNow® instance and [[sir-landing-page|Security Incident Response]] product.
+Activate and set up the AWS Security Hub findings integration for Security Operation plug-in to interface with your ServiceNow® instance and Security Incident Response product.
 
 ## Before you begin
 
@@ -78,7 +78,3 @@ Register your application in the AWS portal and grant your users with read and w
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[sir-landing-page|Security Incident Response]]

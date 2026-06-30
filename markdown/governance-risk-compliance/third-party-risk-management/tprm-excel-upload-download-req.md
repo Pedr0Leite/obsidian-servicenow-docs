@@ -14,7 +14,7 @@ breadcrumb: [Create a Microsoft Excel download request, Use digital resilience t
 
 # Create New Excel download/upload request form
 
-Use the [[create-excel-upload-download-req|Create New Excel download/upload request form]] to capture all the information that you need to create a download/upload request for Digital resilience third-party registers using the Third-party Risk Management application. As a third-party risk manager or third-party risk assessor you can create an Excel download/upload request record.
+Use the Create New Excel download/upload request form to capture all the information that you need to create a download/upload request for Digital resilience third-party registers using the Third-party Risk Management application. As a third-party risk manager or third-party risk assessor you can create an Excel download/upload request record.
 
 <table id="table_aqy_k2x_rvb"><thead><tr><th>
 
@@ -193,7 +193,3 @@ Specifies whether the report covers a single entity **Individual** or a **Consol
 
 </td></tr></tbody>
 </table>
-
-## Related
-
-- [[create-excel-upload-download-req|Create New Excel download/upload request form]]

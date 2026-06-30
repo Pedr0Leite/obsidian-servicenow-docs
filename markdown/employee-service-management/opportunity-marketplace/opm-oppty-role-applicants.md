@@ -18,13 +18,10 @@ Admins can view and update some of the opportunity applicant information.
 
 |Field|Description|
 |-----|-----------|
-|**Employee**|The name of the employee applying for the opportunity. It’s linked to the applicant's **[[emp-slate-employee-profile|Employee Profile]]**.|
+|**Employee**|The name of the employee applying for the opportunity. It’s linked to the applicant's **Employee Profile**.|
 |**Position**|The name of the opportunity position. It references to the **Opportunity position** record.|
 |**State**|The **State** value helps to track where in the process that the applicant is for the listed opportunity.|
 |**Submission message**|A message provided by the applicant for the opportunity.|
 
 **Parent Topic:**[Reference Opportunity Marketplace roles and tables](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/opportunity-marketplace/egd-oppt-mrktplc-references.md)
 
-## Related
-
-- [[emp-slate-employee-profile|Employee profile]]

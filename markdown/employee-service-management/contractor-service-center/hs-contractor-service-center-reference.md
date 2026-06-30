@@ -14,7 +14,7 @@ breadcrumb: [Contractor Service Center, Health and Safety, Employee Service Mana
 
 # Contractor Service Center reference
 
-Using the [[reference-hr-service-delivery-advanced-integration-with-workday|reference]] topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the [[hs-contractor-service-center-landing-page|Contractor Service Center]] application.
+Using the reference topics, learn about the components, such as the roles, tables, plugins, and store applications that are installed when you install the Contractor Service Center application.
 
 -   **[Components installed with Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-components-installed-contractor-service-center.md)**  
 Several types of components are installed with activation of the Contractor Service Center plugin, including tables, user roles, and scheduled jobs. The application also installs related store applications if they aren't already installed.
@@ -25,7 +25,3 @@ Domain separation is supported for Contractor Service Center. Domain separation 
 
 **Parent Topic:**[Contractor Service Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contractor-service-center/hs-contractor-service-center-landing-page.md)
 
-## Related
-
-- [[reference-hr-service-delivery-advanced-integration-with-workday|Reference]]
-- [[hs-contractor-service-center-landing-page|Contractor Service Center]]

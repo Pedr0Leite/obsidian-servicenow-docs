@@ -14,7 +14,7 @@ breadcrumb: [Use, Legal Invention Disclosure, Legal Service Delivery Practice Ap
 
 # Respond to a request for clarification for a Legal Invention Disclosure request
 
-Provide information requested by the patent reviewer or fulfiller to complete a [[legal-invention-disclosure-landing|Legal Invention Disclosure]] request for review.
+Provide information requested by the patent reviewer or fulfiller to complete a Legal Invention Disclosure request for review.
 
 ## Before you begin
 
@@ -26,7 +26,7 @@ If you have submitted a Legal Invention Disclosure with missing or incomplete in
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
 2.  Select **My Requests**.
 
@@ -47,7 +47,3 @@ The request is submitted back to the fulfiller for review.
 
 **Parent Topic:**[Using the Legal Invention Disclosure](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-invention-disclosure/use-legal-invention-disclosure.md)
 
-## Related
-
-- [[legal-invention-disclosure-landing|Legal Invention Disclosure]]
-- [[employee-center-landing-page|Employee Center]]

@@ -14,7 +14,7 @@ breadcrumb: [Enterprise Asset Management reference, Enterprise Asset Management,
 
 # Asset fields for enterprise assets
 
-A detailed description of all asset fields in the [[enterprise-asset-management|Enterprise Asset Management]] application.
+A detailed description of all asset fields in the Enterprise Asset Management application.
 
 <table id="table_njq_yfh_nrb"><thead><tr><th>
 
@@ -305,7 +305,7 @@ Vendor
 
 </td><td>
 
-Vendor from which the asset was purchased. For assets automatically created from purchase orders in [[c_Procurement|Procurement]], the default value of the **Vendor** field is the vendor specified on the purchase order.
+Vendor from which the asset was purchased. For assets automatically created from purchase orders in Procurement, the default value of the **Vendor** field is the vendor specified on the purchase order.
 
 </td></tr><tr><td>
 
@@ -655,7 +655,7 @@ Status
 
 Status of mapping RFID location data to the asset. If the data is successfully mapped to the asset, this field is set to **Matched**. If the data is not mapped to the asset, this field is set to **Unmatched**.**Important:** RFID location data can be mapped to the asset only if you select the **Active** option in the RFID form section.
 
- **Tip:** You can view and take action on the asset records that have an RFID **Status** of **Unmatched** by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise [[asset-estate-view-am|asset estate view]]. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-estate-overview-eam.md).
+ **Tip:** You can view and take action on the asset records that have an RFID **Status** of **Unmatched** by using the **Unmatched RFID tags** important action that appears on the **Overview** tab of the Enterprise asset estate view. For more information on the Enterprise asset estate view, see [Enterprise asset estate overview for Enterprise Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/asset-estate-overview-eam.md).
 
 </td></tr></tbody>
 </table><table id="table_ydm_ggh_nrb"><thead><tr><th>
@@ -678,7 +678,7 @@ Work notes are updated for the following cases: -   Updates to **Assigned To**, 
 </td></tr></tbody>
 </table>|Field|Description|
 |-----|-----------|
-|DaaS asset|Option that indicates if the given asset is a [[exploring-daas|Device as a Service]] \(DaaS\) asset.|
+|DaaS asset|Option that indicates if the given asset is a Device as a Service \(DaaS\) asset.|
 |DaaS account|DaaS account that the asset is leased to.|
 
 **Parent Topic:**[Enterprise Asset Management reference](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/reference-enterprise-asset-management.md)
@@ -696,7 +696,7 @@ Work notes are updated for the following cases: -   Updates to **Assigned To**, 
 
 [Audit results]()
 
-[Enterprise [[model-hierarchy|model categories]] and corresponding classes]()
+[Enterprise model categories and corresponding classes]()
 
 [Mandatory fields in the bulk import spreadsheets]()
 
@@ -726,10 +726,3 @@ Work notes are updated for the following cases: -   Updates to **Assigned To**, 
 
 [Asset put away task fields]()
 
-## Related
-
-- [[enterprise-asset-management|Enterprise Asset Management]]
-- [[c_Procurement|Procurement]]
-- [[asset-estate-view-am|Asset estate view]]
-- [[exploring-daas|Device as a Service]]
-- [[model-hierarchy|Model categories]]

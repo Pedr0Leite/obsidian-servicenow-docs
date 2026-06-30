@@ -14,7 +14,7 @@ breadcrumb: [Managing related records in a critical event, Critical Event Manage
 
 # Create a Health and Safety incident in Critical Event Management
 
-Report a [[health-safety-overview|Health and Safety]] incident through the **Related records** Related Item in [[critical-event-management|Critical Event Management]].
+Report a Health and Safety incident through the **Related records** Related Item in Critical Event Management.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_ohs\_im.incident\_reader, sn\_ohs\_im.incident\_writer, and s
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[health-safety-core-workspace|Health and Safety Workspace]]** and select the **Critical Event Management** tab.
+1.  Navigate to **Workspaces** &gt; **Health and Safety Workspace** and select the **Critical Event Management** tab.
 
 2.  Open the critical event.
 
@@ -48,8 +48,3 @@ Role required: sn\_ohs\_im.incident\_reader, sn\_ohs\_im.incident\_writer, and s
 
 [View sent notifications for a critical event]()
 
-## Related
-
-- [[health-safety-overview|Health and Safety]]
-- [[critical-event-management|Critical Event Management]]
-- [[health-safety-core-workspace|Health and Safety Workspace]]

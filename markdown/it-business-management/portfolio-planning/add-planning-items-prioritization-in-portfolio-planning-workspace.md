@@ -15,7 +15,7 @@ breadcrumb: [Prioritize portfolio plan work, Portfolio Planning, Strategic Portf
 
 # Add planning items to Prioritization
 
-Add new planning items to your portfolio plan's work backlog in [[portfolio-planning-app-landing-page|Portfolio Planning]] Workspace and ensure that the work pipeline is current.
+Add new planning items to your portfolio plan's work backlog in Portfolio Planning Workspace and ensure that the work pipeline is current.
 
 ## Before you begin
 
@@ -25,7 +25,7 @@ Role required: sn\_align\_core.apw\_user
 
 ## About this task
 
-Use the Prioritization tab of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as [[c_ProjectPortfolioSuite|Project Portfolio Management]] \(PPM\).
+Use the Prioritization tab of your portfolio plan to add new planning items or import them from other ServiceNow execution system such as Project Portfolio Management \(PPM\).
 
 You can use the List or Hierarchy views while you perform this task.
 
@@ -64,7 +64,3 @@ The new item is created with its **Planning state** field is set to **New** and 
 -   [Rank planning items](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/rank-and-prioritize-work-portfolio-planning-workspace.md).
 -   [Update planning item details from Prioritization view](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/portfolio-planning/modify-planing-item-details-from-prioritization-portfolio-planning-workspace.md).
 
-## Related
-
-- [[portfolio-planning-app-landing-page|Portfolio Planning]]
-- [[c_ProjectPortfolioSuite|Project Portfolio Management]]

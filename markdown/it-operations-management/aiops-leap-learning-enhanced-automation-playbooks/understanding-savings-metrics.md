@@ -15,7 +15,7 @@ breadcrumb: [Exploring LEAP, Learning Enhanced Automation Platform \(LEAP\), Now
 
 # LEAP savings metrics
 
-LEAP displays two distinct types of savings metrics: projected savings and actual savings. The difference between these metrics helps you correctly interpret the values shown across the platform and make informed decisions about [[automation-opportunities|automation opportunities]].
+LEAP displays two distinct types of savings metrics: projected savings and actual savings. The difference between these metrics helps you correctly interpret the values shown across the platform and make informed decisions about automation opportunities.
 
 ## LEAP savings metrics overview
 
@@ -63,7 +63,7 @@ The formula is:
 Actual savings = Sum of (Time saved per automated resolution × Cost per hour) across all completed playbook executions
 ```
 
-Actual savings are visible in your resolution reports and savings [[otto-aiops-dashboards|dashboards]]. They are recorded per resolution and accumulate as more incidents are handled by playbooks.
+Actual savings are visible in your resolution reports and savings dashboards. They are recorded per resolution and accumulate as more incidents are handled by playbooks.
 
 ## Projected and actual savings comparison
 
@@ -130,7 +130,3 @@ A gap between projected and actual savings is normal and expected. The most comm
 
 Projected savings tell you the potential value of an automation opportunity and help you prioritize which opportunities to pursue. Actual savings tell you the real value being delivered and help you measure return on investment. Both metrics are important, projected savings guide your decisions, and actual savings validate them.
 
-## Related
-
-- [[automation-opportunities|Automation opportunities]]
-- [[otto-aiops-dashboards|Dashboards]]

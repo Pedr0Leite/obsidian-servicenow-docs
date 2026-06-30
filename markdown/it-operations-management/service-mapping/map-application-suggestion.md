@@ -14,11 +14,11 @@ breadcrumb: [Using Service Mapping, Service Mapping, ITOM Visibility, IT Operati
 
 # Map application services based on Automated Service Suggestions
 
-Map a new application service based on automatically generated suggestions. Use the [[auto-serv-suggest|Automated Service Suggestions]] or Service Fingerprints features to create a new application service or add to an existing service in a few clicks.
+Map a new application service based on automatically generated suggestions. Use the Automated Service Suggestions or Service Fingerprints features to create a new application service or add to an existing service in a few clicks.
 
 ## Before you begin
 
--   [[c_ServiceMappingOverview|Service Mapping]] Plus must be installed. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
+-   Service Mapping Plus must be installed. For more information, see [Install Service Mapping Plus](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/install-service-mapping-plus.md).
 -   Confirm that the application is ready to discover and map application services. See [Application service readiness dashboard in configurable workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/readiness-dashboard-ml.md).
 
 Role required: service\_mapping\_admin
@@ -33,7 +33,7 @@ In addition to being provided with automatically generated suggestions, you can 
 
 2.  Select **ML powered candidates**.
 
-    **Note:** Starting with Service Mapping Plus version 1.16.3, the filtering process has been updated to include only the most relevant candidates, excluding any ignored or irrelevant ones. This enhancement requires the installation of [[discovery-content-services|ITOM Content Service]].
+    **Note:** Starting with Service Mapping Plus version 1.16.3, the filtering process has been updated to include only the most relevant candidates, excluding any ignored or irrelevant ones. This enhancement requires the installation of ITOM Content Service.
 
 3.  Select an application service either based on candidate suggestions or identify services with desired component.
 
@@ -175,8 +175,3 @@ A specific application services group to which you want to add this service. The
 
 [Automated Service Suggestions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-mapping/auto-serv-suggest.md)
 
-## Related
-
-- [[auto-serv-suggest|Automated Service Suggestions]]
-- [[c_ServiceMappingOverview|Service Mapping]]
-- [[discovery-content-services|ITOM Content Service]]

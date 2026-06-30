@@ -14,7 +14,7 @@ breadcrumb: [About Rules Engine in TISC, Administer, Threat Intelligence Securit
 
 # Defining Data Imports Approval Rules
 
-Use this section to define the approval rules and [[integrating-threat-intelligence-security-center|integrate]] the approval flow within the Import Intelligence section after submitting the data import.
+Use this section to define the approval rules and integrate the approval flow within the Import Intelligence section after submitting the data import.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_sec\_tisc.admin
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[tisc-landing-page|Threat Intelligence Security Center]]**.
+1.  Navigate to **Workspaces** &gt; **Threat Intelligence Security Center**.
 
 2.  Click on **Administration** icon on the workspace.
 
@@ -40,7 +40,4 @@ Role required: sn\_sec\_tisc.admin
 
     **Note:** An email notification is sent to the user\(s\) or user group\(s\) that the import job is processed and approved or rejected.
 
-## Related
 
-- [[integrating-threat-intelligence-security-center|Integrate]]
-- [[tisc-landing-page|Threat Intelligence Security Center]]

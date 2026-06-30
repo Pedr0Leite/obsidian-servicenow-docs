@@ -15,7 +15,7 @@ breadcrumb: [Manage workplace schedule and in-office presence using Workplace Se
 
 # Create a reservation for a day in Workplace
 
-Reserve your preferred workspace in Workplace using the [[wsd-mobile-overview|Workplace Service Delivery for Mobile]] app.
+Reserve your preferred workspace in Workplace using the Workplace Service Delivery for Mobile app.
 
 ## Before you begin
 
@@ -28,13 +28,13 @@ Get insights on workplace collaborators who plan to be in office on the days whe
 Make sure that you have the following applications:
 
 -   Workplace Service Delivery for Mobile
--   [[workplace-safety-mgmt-hr|Workplace Core]]
--   [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
--   [[workplace-concierge-feat|Workplace Concierge]]
--   [[Indoor-mapping|Indoor Mapping]]
--   [[workplace-central-feat|Workplace Central]]
--   [[workplace-space-mgmt-ovw|Workplace Space Management]]
--   [[wsm-mappedin-admin|Workplace Space Mapping]]
+-   Workplace Core
+-   Workplace Reservation Management
+-   Workplace Concierge
+-   Indoor Mapping
+-   Workplace Central
+-   Workplace Space Management
+-   Workplace Space Mapping
 
 Role required: sn\_wsd\_core.workplace\_user
 
@@ -48,7 +48,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     The location pin changes to a blue pin icon \( \[Omitted image "wsd-mobile-location-pin-icon.png"\] Alt text: Blue pin location icon.\). The workplace screen appears for you to coordinate your workdays and collaborate with your preferred collaborators.
 
-4.  Tap and select a date labeled as **In-office** day on the calendar to [[reservation-portal|make a reservation]].
+4.  Tap and select a date labeled as **In-office** day on the calendar to make a reservation.
 
     The Schedule calendar view shows the current date as selected by default. The text label **Today** is displayed for the current date of a month. When you select a future date,the label for **Today** is inactive. This label is not available for making bulk reservations.
 
@@ -89,7 +89,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
 6.  Tap and select **Change preferences** to change your workplace preferences.
 
-    The In-office preferences page opens for you to [[update-your-in-office-days|update your in-office days]]. Change or modify your location, collaborators, and [[workplace-services|workplace services]] as required. For more information, see [Manage your in-office presence preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/workplace-preferences-emp-center.md).
+    The In-office preferences page opens for you to update your in-office days. Change or modify your location, collaborators, and workplace services as required. For more information, see [Manage your in-office presence preferences](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-service-delivery-for-mobile/workplace-preferences-emp-center.md).
 
 7.  In **Space suggestions**, review the suggested building, floor, and a space.
 
@@ -104,13 +104,13 @@ Role required: sn\_wsd\_core.workplace\_user
     -   Time. The reservation time depends on the reservation system property for start time \(sn\_wsd\_rsv.day\_start\) and end time \(sn\_wsd\_rsv.day\_end\). The reservation time depends on the building time zone.
     -   Reservable module name: Desks.
     -   Capacity: Meeting room capacity.
-    -   [[standard-service|Standard services]] and Location purposes
+    -   Standard services and Location purposes
     -   Workspace Image \(if the workspace has an image associated with it\)
     \[Omitted image "wsd-mobile-workplace-space-suggestions-card.png"\] Alt text: Space Suggestions card showing
 
     \[Omitted image "wsd-workplace-mobile-space-suggestion-get-directions.jpeg"\] Alt text: Space card showing the Show on map to find your space on the map.
 
-    Application provides workspace suggestions based on your past and future reservation data, frequently used desk or spaces, preferred locations, favorite spaces, preferred workplace services, and preferred collaborators. The Suggestion tags you have added to the [[space-suggestion-configuration|Space Suggestion configuration]] table is displayed on the Desk suggestions card. For example, **Reserved frequently**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the users in-office preferences. For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md)
+    Application provides workspace suggestions based on your past and future reservation data, frequently used desk or spaces, preferred locations, favorite spaces, preferred workplace services, and preferred collaborators. The Suggestion tags you have added to the Space Suggestion configuration table is displayed on the Desk suggestions card. For example, **Reserved frequently**, **Your favorite**, and so on. When an employee is visiting another office, the suggestions are provided from the office that an employee is visiting and is not based on the users in-office preferences. For more information, see [Space suggestion Configuration](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/space-suggestion-configuration.md) and [Properties installed with Workplace Concierge](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-concierge/properties-installed-with-workplace-concierge.md)
 
 8.  To update or change a suggested workspace from Space Suggestions, select the **Suggest another** refresh button icon \(\[Omitted image "wsd-mobile-refresh-icon-workplace-suggestion.png"\] Alt text: Select the refresh button to suggest another workspace.\).
 
@@ -128,7 +128,7 @@ Role required: sn\_wsd\_core.workplace\_user
 
     **Note:** If the sn\_wsd\_concierge.allow\_overlapping\_reservations property is set to **false** by your administrator, you are not allowed to create an overlapping or parallel reservations for a day. You can make only a single reservation for a day.
 
-    \[Omitted image "wsd-mobile-adv-reservation-portal.jpeg"\] Alt text: Make a reservation screen on the WSD mobile application to [[create-reservation-request-1|create a reservation]].
+    \[Omitted image "wsd-mobile-adv-reservation-portal.jpeg"\] Alt text: Make a reservation screen on the WSD mobile application to create a reservation.
 
     If the user has no reservations for a selected day, a message appears 'You have no reservations for the this day".
 
@@ -202,19 +202,4 @@ Role required: sn\_wsd\_core.workplace\_user
 
     If all your preferred collaborators are planning to be in office on your in-office day, application shows "100% of your collaborators plan to come to the office". For days when you are working from home or remotely, application shows "No insights present for this date."
 
-## Related
 
-- [[wsd-mobile-overview|Workplace Service Delivery for Mobile]]
-- [[workplace-safety-mgmt-hr|Workplace Core]]
-- [[workplace-rsv-mgmt-feat|Workplace Reservation Management]]
-- [[workplace-concierge-feat|Workplace Concierge]]
-- [[Indoor-mapping|Indoor Mapping]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-space-mgmt-ovw|Workplace Space Management]]
-- [[wsm-mappedin-admin|Workplace Space Mapping]]
-- [[reservation-portal|Make a reservation]]
-- [[update-your-in-office-days|Update your in-office days]]
-- [[workplace-services|Workplace Services]]
-- [[standard-service|Standard services]]
-- [[space-suggestion-configuration|Space suggestion Configuration]]
-- [[create-reservation-request-1|Create a reservation]]

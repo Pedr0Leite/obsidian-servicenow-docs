@@ -39,7 +39,7 @@ Product Model
 </td><td>
 
 Name of the product model that is associated with the physical connection. Click the search icon \(\[Omitted image "search.png"\] Alt text: Search icon.\) to select the product model. -   If you selected **Optical Fiber Cable**, the **Cable parameters** tab appears so that you can enter additional information.
--   If you selected **Fiber Link**, then you must fill in the information for the **Cable** and **Strand number** fields in the Physical [[connection-element-form|connection element form]].
+-   If you selected **Fiber Link**, then you must fill in the information for the **Cable** and **Strand number** fields in the Physical connection element form.
 
 </td></tr><tr><td>
 
@@ -89,6 +89,3 @@ Destination network site for this connection. Select the search icon \( \[Omitte
 
 [Define the physical connection details](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/telecom-network-inventory/telecommunications-network-inventory/define-tni-physical-connections.md)
 
-## Related
-
-- [[connection-element-form|Connection Element form]]

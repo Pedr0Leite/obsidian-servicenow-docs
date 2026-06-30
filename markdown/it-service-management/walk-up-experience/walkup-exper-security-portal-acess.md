@@ -14,7 +14,7 @@ breadcrumb: [Configure, Walk-up Experience, IT Service Management]
 
 # Walk-up Experience portal security and access
 
-Security is built into the application to prevent end-user facing [[dex-workspace-devices-tab|devices]] at the [[walkup-experience-landing-page|Walk-up Experience]] on-site portal from offering elevated role privileges to users. The Walk-up Experience on-site portal is accessed by an account containing only the sn\_walkup.walkup\_login role.
+Security is built into the application to prevent end-user facing devices at the Walk-up Experience on-site portal from offering elevated role privileges to users. The Walk-up Experience on-site portal is accessed by an account containing only the sn\_walkup.walkup\_login role.
 
 ## Understanding Walk-up Experience portal security
 
@@ -36,14 +36,9 @@ When upgrading Walk-up Experience to Australia, the Walk-up Experience user is a
 
 **Note:** Refer to [Explicit roles plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/explicit-roles-plugin.md) for complete details about the plugin and ServiceNow AI Platform explicit roles.
 
-After upgrading to Australia, you need to remove the snc\_internal role from the Walk-up Experience user account, or any users created to log into the [[walk-up-experience-kiosk-administration|Walk-up Experience kiosk]]. Then you need to add the snc\_external role to the users. This process is not necessary for upgrades after Australia.
+After upgrading to Australia, you need to remove the snc\_internal role from the Walk-up Experience user account, or any users created to log into the Walk-up Experience kiosk. Then you need to add the snc\_external role to the users. This process is not necessary for upgrades after Australia.
 
 **Note:** Refer to [Explicit Roles](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/explicit-roles.md) for complete details about this process.
 
 **Parent Topic:**[Configuring Walk-up Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/walk-up-experience/walkup-experience-configuration.md)
 
-## Related
-
-- [[dex-workspace-devices-tab|Devices]]
-- [[walkup-experience-landing-page|Walk-up Experience]]
-- [[walk-up-experience-kiosk-administration|Walk-up Experience kiosk]]

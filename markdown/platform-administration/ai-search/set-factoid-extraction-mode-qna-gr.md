@@ -14,7 +14,7 @@ breadcrumb: [Q&amp;A Genius Results, Genius Result configurations in the base sy
 
 # Set the factoid extraction mode for Q&amp;A Genius Results
 
-Specify how you want factoid extraction to display and highlight answers for [[genius-result-q-a-ais|Q&amp;A Genius Results]].
+Specify how you want factoid extraction to display and highlight answers for Q&amp;A Genius Results.
 
 ## Before you begin
 
@@ -50,6 +50,3 @@ As a search administrator, you can specify the factoid extraction mode for Q&amp
 
 **Parent Topic:**[Q&amp;A Genius Results](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/genius-result-q-a-ais.md)
 
-## Related
-
-- [[genius-result-q-a-ais|Q&amp;A Genius Results]]

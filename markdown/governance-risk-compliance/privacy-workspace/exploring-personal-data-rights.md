@@ -14,7 +14,7 @@ breadcrumb: [Personal Data Rights \(PDR\), Privacy Management, Governance, Risk,
 
 # Exploring Personal Data Rights
 
-[[personal-data-rights|Personal data rights]] \(PDR\) refer to the legal rights individuals have regarding the collection, use, storage, and protection of their personal data.
+Personal data rights \(PDR\) refer to the legal rights individuals have regarding the collection, use, storage, and protection of their personal data.
 
 The Personal Data Rights application enables you to efficiently manage and fulfill Data Subject Access Requests \(DSARs\), consumer rights requests, and so on, ensuring compliance with privacy regulations. The application helps organizations to handle requests related to the personal data rights of their consumers while ensuring that employees can maintain data protection standards globally.
 
@@ -43,6 +43,3 @@ Some common personal data rights include:
 
 These rights are designed to empower individuals to have greater control over their personal data and to ensure that organizations handle personal data responsibly and transparently. Organizations that collect and process personal data are generally required to uphold these rights and comply with applicable data protection laws.
 
-## Related
-
-- [[personal-data-rights|personal data rights]]

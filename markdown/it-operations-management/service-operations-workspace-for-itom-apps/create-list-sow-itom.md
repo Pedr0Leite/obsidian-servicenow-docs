@@ -14,7 +14,7 @@ breadcrumb: [Service Operations Workspace, Configuring SOW for ITOM, Service Ope
 
 # Create a list in Service Operations Workspace for ITOM
 
-Customize lists in [[workspace-dashboard-use|Service Operations Workspace]] by creating new lists, changing their order, modifying their content, or deleting lists as needed. This flexibility allows operators to organize information according to their specific requirements, facilitating easier navigation, quicker access to relevant data, and streamlined workflow management.
+Customize lists in Service Operations Workspace by creating new lists, changing their order, modifying their content, or deleting lists as needed. This flexibility allows operators to organize information according to their specific requirements, facilitating easier navigation, quicker access to relevant data, and streamlined workflow management.
 
 ## Before you begin
 
@@ -51,6 +51,3 @@ Create custom groupings of records listed under the **Lists** tab, such as incid
 
 **Parent Topic:**[Service Operations Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/service-operations-workspace-for-itom-apps/workspace-dashboard-use.md)
 
-## Related
-
-- [[workspace-dashboard-use|Service Operations Workspace]]

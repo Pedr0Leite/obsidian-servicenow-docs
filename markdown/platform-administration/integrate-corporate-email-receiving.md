@@ -20,11 +20,11 @@ Role required: email\_admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[c_SystemMailboxes|System Mailboxes]]** &gt; **Administration** &gt; **[[c_EmailAccounts|Email Accounts]]**.
+1.  Navigate to **All** &gt; **System Mailboxes** &gt; **Administration** &gt; **Email Accounts**.
 
 2.  Select the Type.
 
-    For more information, see [[t_ConfigureAnEmailAccount|Create an email account]].
+    For more information, see [Create an email account](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ConfigureAnEmailAccount.md).
 
 3.  From **Account type**, select **Forwarding Address**.
 
@@ -33,11 +33,5 @@ Role required: email\_admin
 5.  From your personal mailbox, set up forwarding rules for your personal mailbox \(for example forwarding rules for Microsoft Outlook or Gmail\).
 
 
-**Parent Topic:**[[personal-corporate-mailbox|Personal corporate mailbox]]
+**Parent Topic:**[Personal corporate mailbox](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/personal-corporate-mailbox.md)
 
-## Related
-
-- [[t_ConfigureAnEmailAccount|Create an email account]]
-- [[personal-corporate-mailbox|Personal corporate mailbox]]
-- [[c_SystemMailboxes|System mailboxes]]
-- [[c_EmailAccounts|Email accounts]]

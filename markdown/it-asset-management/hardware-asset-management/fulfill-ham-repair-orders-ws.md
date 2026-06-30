@@ -33,7 +33,7 @@ Complete the troubleshooting task to assess the issues with the defective asset.
 -   **[Complete the repair asset task in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/repair-ham-assets-ws.md)**  
 Complete the repair of the defective asset and confirm if the asset is repaired, unrepairable, or redeployable.
 -   **[Evaluate the repaired asset in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/evaluate-repaired-ham-asset-ws.md)**  
-[[evaluate-asset|Evaluate the repaired asset]] and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
+Evaluate the repaired asset and confirm if the asset is redeployable or should be disposed of. The Repair flow completes after the repaired asset is evaluated.
 -   **[Bulk close asset repair tasks in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/bulk-close-repair-tasks-ham-ws.md)**  
 Complete and close multiple repair tasks at one go to process a repair order with multiple repair order lines.
 -   **[Cancel a repair order in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/cancel-repair-orders-ham-ws.md)**  
@@ -43,6 +43,3 @@ Cancel a repair order line that no longer needs to be fulfilled.
 
 **Parent Topic:**[Repair order fulfillment in the Hardware Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/fulfilling-repair-orders-ham.md)
 
-## Related
-
-- [[evaluate-asset|Evaluate the repaired asset]]

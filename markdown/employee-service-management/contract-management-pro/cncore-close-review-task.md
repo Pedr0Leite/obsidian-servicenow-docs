@@ -14,7 +14,7 @@ breadcrumb: [Internal review overview, Use, Contract Management Pro, Legal and C
 
 # Cancel an internal review task
 
-As a contract fulfiller, [[snlc-close-int-review-task|cancel a review task]] irrespective of its state.
+As a contract fulfiller, cancel a review task irrespective of its state.
 
 ## Before you begin
 
@@ -34,7 +34,7 @@ Steps
 
 </th></tr></thead><tbody><tr><td id="d114184e64">
 
-**[[cncore-contract-workspace|Contract Workspace]] listing**
+**Contract Workspace listing**
 
 </td><td>
 
@@ -94,7 +94,3 @@ Steps
 
 **Parent Topic:**[Internal review overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/contract-management-pro/cncore-expert-review.md)
 
-## Related
-
-- [[snlc-close-int-review-task|Cancel a review task]]
-- [[cncore-contract-workspace|Contract Workspace]]

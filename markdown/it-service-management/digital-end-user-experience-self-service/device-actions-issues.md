@@ -50,7 +50,7 @@ Issue configuration is not available when creating a device action
 
 Confirm that the issue configuration is:-   Not already associated with another device action.
 -   Enabled for end users through the User applicability setting.
--   Linked to [[remedial-action|remedial action]] resolution type.
+-   Linked to remedial action resolution type.
 -   Not linked to unsupported or silent engagement type.
 
 </td></tr><tr><td>
@@ -88,6 +88,3 @@ Check the metric source on the metric definition record. If the metric source do
 </td></tr></tbody>
 </table>**Note:** If a symptom persists, contact ServiceNow support.
 
-## Related
-
-- [[remedial-action|Remedial action]]

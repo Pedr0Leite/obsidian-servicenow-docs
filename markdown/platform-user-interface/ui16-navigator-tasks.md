@@ -12,7 +12,7 @@ breadcrumb: [Core UI application navigator, Core UI, Working in Core UI, Configu
 
 # Use the Core UI navigator
 
-Everyone can collapse and expand the navigator, work with favorites, and view navigation history in [[c_UI16|Core UI]].
+Everyone can collapse and expand the navigator, work with favorites, and view navigation history in Core UI.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: admin
 
 Complete any of the following tasks to work with the navigator in Core UI.
 
-**Parent Topic:**[[c_UI16ApplicationNavigator|Core UI application navigator]]
+**Parent Topic:**[Core UI application navigator](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-user-interface/c_UI16ApplicationNavigator.md)
 
 ## Collapse or expand information in the Core UI application navigator
 
@@ -124,7 +124,7 @@ In the application navigator, click the star icon by an application.
 
 </td></tr><tr><td id="d122656e361">
 
-**Add a record as a favorite using the [[c_FormContextMenu|form context menu]]**
+**Add a record as a favorite using the form context menu**
 
 </td><td>
 
@@ -151,7 +151,7 @@ In the application navigator, click the star icon by an application.
 </td><td>
 
 Drag a supported link type to the **Favorites** tab of the application navigator. You can drag any of the following links:-   Breadcrumbs
--   Links in [[lists-configurable-workspace|lists]]
+-   Links in lists
 -   Reports
  **Note:** You may not be able to create bookmarks with other types of links.
 
@@ -223,7 +223,7 @@ Items you have accessed recently appear in the history tab of the application na
 
 \[Omitted image "UI16YourHistory.png"\] Alt text: History tab
 
-History entries are stored in the Navigator History \[sys\_ui\_navigator\_history\] table. The system creates history entries for many types of content, including lists, records, and dashboards. Some [[c_ContentTypes|content types]] are not tracked in the history, such as UI pages and other non-standard interfaces.
+History entries are stored in the Navigator History \[sys\_ui\_navigator\_history\] table. The system creates history entries for many types of content, including lists, records, and dashboards. Some content types are not tracked in the history, such as UI pages and other non-standard interfaces.
 
 ### Procedure
 
@@ -231,10 +231,4 @@ History entries are stored in the Navigator History \[sys\_ui\_navigator\_histor
 
 2.  Click an item to open it.
 
-## Related
 
-- [[c_UI16ApplicationNavigator|Core UI application navigator]]
-- [[c_UI16|Core UI]]
-- [[c_FormContextMenu|Form context menu]]
-- [[lists-configurable-workspace|Lists]]
-- [[c_ContentTypes|Content types]]

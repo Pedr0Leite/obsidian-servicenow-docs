@@ -14,7 +14,7 @@ breadcrumb: [Crew operations, Using Dispatcher Workspace, Assigning tasks from D
 
 # Create crews
 
-As a dispatcher, you can create crews in [[dispatcher-activities|Dispatcher Workspace]] to which you can assign work order tasks.
+As a dispatcher, you can create crews in Dispatcher Workspace to which you can assign work order tasks.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: wm\_dispatcher
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fsm-application-landing-page|Field Service Management]]** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
+1.  Navigate to **All** &gt; **Field Service Management** &gt; **Dispatching** &gt; **Dispatcher Workspace**.
 
 2.  Select the **List** icon \(\[Omitted image "list-icon-black.png"\] Alt text: List icon.\).
 
@@ -51,7 +51,3 @@ Role required: wm\_dispatcher
 
 The crew is created along with the related list records, such as Details, Groups, Skills, and Task Assignees.
 
-## Related
-
-- [[dispatcher-activities|Dispatcher Workspace]]
-- [[fsm-application-landing-page|Field Service Management]]

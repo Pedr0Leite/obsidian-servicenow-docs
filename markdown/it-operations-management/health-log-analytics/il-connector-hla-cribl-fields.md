@@ -14,7 +14,7 @@ breadcrumb: [Integration configuration fields, Health Log Analytics reference, H
 
 # Cribl integration configuration fields
 
-Description of the fields on the Cribl integration configuration forms for [[hla-landing-page|Health Log Analytics]].
+Description of the fields on the Cribl integration configuration forms for Health Log Analytics.
 
 For the Cribl integration setup procedure, see [Set up a Cribl integration for Health Log Analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/health-log-analytics/il-connector-hla-cribl.md).
 
@@ -163,6 +163,3 @@ For example: sn\_hla\_cribl\_tcp\_json\_abcdef
 </td></tr></tbody>
 </table>**Parent Topic:**[Integration configuration fields](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)
 
-## Related
-
-- [[hla-landing-page|Health Log Analytics]]

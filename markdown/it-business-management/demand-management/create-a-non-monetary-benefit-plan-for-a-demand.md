@@ -30,7 +30,7 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 1.  Navigate to **All** &gt; **Demand** &gt; **Demands** &gt; **All**.
 
-2.  Open the required [[demand-form|demand form]].
+2.  Open the required demand form.
 
 3.  Select the Non-Monetary Benefit Plans related list.
 
@@ -47,7 +47,7 @@ The non-monetary benefit plan breakdown records are automatically created when y
 
 ## What to do next
 
--   On the [[benefit-plan-form-project-management|Benefit Plan form]], view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
+-   On the Benefit Plan form, view the benefit breakdown by fiscal period in the Non-monetary Benefit Plan Breakdowns related list.
 -   [Associate monetary and non-monetary benefit plans](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/associate-monetary-and-non-monetary-benefit-plans.md), so that you can capture the potential benefits \(financial and non-financial\) accrued by the demand for the hybrid benefit plans.
 
 -   **[Update a non-monetary benefit plan breakdown for a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/update-a-non-monetary-benefit-plan-breakdown-for-a-demand.md)**  
@@ -55,7 +55,3 @@ Update a non-monetary benefit plan breakdown record that specifies the estimated
 
 **Parent Topic:**[Create a demand](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/demand-management/t_CreatingDemands.md)
 
-## Related
-
-- [[demand-form|Demand form]]
-- [[benefit-plan-form-project-management|Benefit Plan form]]

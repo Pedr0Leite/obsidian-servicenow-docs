@@ -14,7 +14,7 @@ breadcrumb: [Configure, Operational Technology Knowledge Management, Operational
 
 # Assign the user criteria to an OT knowledge base
 
-Assign the user criteria records to an [[operational-technology-overview|Operational Technology]] \(OT\) knowledge base to control which users can create, read, write, and retire knowledge articles within the knowledge base.
+Assign the user criteria records to an Operational Technology \(OT\) knowledge base to control which users can create, read, write, and retire knowledge articles within the knowledge base.
 
 ## Before you begin
 
@@ -44,12 +44,8 @@ You can assign user criteria to an OT knowledge base to control read or contribu
     2.  In the selected related list, add the required user criteria.
         -   As a user with the admin role, add a new user criteria record by selecting **New**, specifying the required fields, and selecting **Submit**.
         -   As a user with the knowledge\_manager, knowledge\_admin, or admin role, add an existing user criteria record by selecting **Edit**, moving the required user criteria from the Collection column to the Knowledge column, and selecting **Save**.
-4.  On the [[knowledge-base-form-fields|knowledge base form]], select **Update**.
+4.  On the knowledge base form, select **Update**.
 
 
 **Parent Topic:**[Configuring Operational Technology Knowledge Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/operational-technology-knowledge-management/configuring-operational-technology-knowledge-management.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[knowledge-base-form-fields|Knowledge base form]]

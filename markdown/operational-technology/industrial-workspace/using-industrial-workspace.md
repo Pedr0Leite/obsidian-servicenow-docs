@@ -14,16 +14,16 @@ breadcrumb: [Industrial Workspace, Operational Technology]
 
 # Using the Industrial Workspace
 
-After you complete all the required set-up tasks for the [[industrial-workspace-for-operational-technology|Industrial Workspace]], users can begin managing their [[operational-technology-overview|Operational Technology]] data on the different pages and dashboards available in the Industrial Workspace.
+After you complete all the required set-up tasks for the Industrial Workspace, users can begin managing their Operational Technology data on the different pages and dashboards available in the Industrial Workspace.
 
 -   **[Industrial Workspace homepage destination rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/industrial-workspace-homepage-destination-rules.md)**  
 Depending on your assigned roles, you're redirected to different pages in the Industrial Workspace with homepage destination rules. This helps you access the data that you need more quickly and efficiently.
 -   **[Search for a record in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/search-in-industrial-workspace.md)**  
-[[search-in-industrial-workspace|Search for a record in the Industrial Workspace]] related to Operational Technology \(OT\) data, or Configuration Management Database \(CMDB\) data.
+Search for a record in the Industrial Workspace related to Operational Technology \(OT\) data, or Configuration Management Database \(CMDB\) data.
 -   **[NLQ Genius Results used in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/nlq-genius-results-industrial-workspace.md)**  
 The Industrial Workspace leverages Natural Language Query \(NLQ\) Genius Results for each search.
 -   **[Site filter in the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown)**  
-You can [[use-business-unit-and-site-filters-vr|use the site filter]] in the Operational Technology \(OT\) Visibility dashboard, the [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]], and the OT Vulnerability Risk Rollup dashboard to view data for specific sites.
+You can use the site filter in the Operational Technology \(OT\) Visibility dashboard, the Operational Technology Vulnerability Response \(PA\) dashboard, and the OT Vulnerability Risk Rollup dashboard to view data for specific sites.
 -   **[Operational Technology Progress Scorecard filters](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/ot-progress-scorecard-filters.md)**  
 You can use the filters on the Operational Technology \(OT\) Progress Scorecard to specify the data that you want to see on your scorecard by site, business unit \(BU\), or date.
 -   **[Sort the Operational Technology Progress Scorecard by ascending or descending order](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/sort-ot-progress-scorecard.md)**  
@@ -33,7 +33,7 @@ Configure the order of your important actions on the Operational Technology \(OT
 -   **[Operational Technology Vulnerability Risk Rollup dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/ot-risk-rollup-dashboard.md)**  
 The Operational Technology \(OT\) Vulnerability Risk Rollup dashboard contains the risk score of the OT devices at each level of the equipment model.
 -   **[Indicator sources and indicators for the Operational Technology Vulnerability Response \(PA\) dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/indicator-and-indicator-sources-otvr-pa-dashboard.md)**  
-The [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]] application uses indicator sources and indicators to gather data and track the progress of your vulnerability remediation.
+The Operational Technology Vulnerability Response application uses indicator sources and indicators to gather data and track the progress of your vulnerability remediation.
 -   **[Operational Technology Vulnerability Response \(PA\) dashboard breakdowns](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/breakdowns-otvr-pa-dashboard.md)**  
 The Operational Technology Vulnerability Response uses breakdowns to filter and group the collected records.
 -   **[Operational Technology Vulnerability Response \(PA\) dashboard collection jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/collection-jobs-otvr-pa-dashboard.md)**  
@@ -51,11 +51,3 @@ View and edit the Operational Technology \(OT\) Network Map in the Industrial Wo
 
 **Parent Topic:**[Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/industrial-workspace-for-operational-technology.md)
 
-## Related
-
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-overview|Operational Technology]]
-- [[search-in-industrial-workspace|Search for a record in the Industrial Workspace]]
-- [[use-business-unit-and-site-filters-vr|Use the site filter]]
-- [[operational-technology-vulnerability-response-dashboard|Operational Technology Vulnerability Response \(PA\) dashboard]]
-- [[oper-tech-vulnerability-response-landing-page|Operational Technology Vulnerability Response]]

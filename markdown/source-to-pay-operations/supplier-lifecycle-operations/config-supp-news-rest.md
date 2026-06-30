@@ -26,7 +26,7 @@ Get the Bing News Search API subscription key.
 
 1.  Navigate to **All** &gt; **System Web Services** &gt; **Outbound** &gt; **REST Message**.
 
-2.  From the REST Messages list, select **[[supplier|Supplier]] News**.
+2.  From the REST Messages list, select **Supplier News**.
 
 3.  In the HTTP Request related list, select **Get Supplier News**.
 
@@ -46,6 +46,3 @@ Get the Bing News Search API subscription key.
 
 [Configuring a custom API to dynamically fetch supplier news](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/config-supplier-news-api.md)
 
-## Related
-
-- [[supplier|Supplier]]

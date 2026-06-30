@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Create a queue to route new change requests
 
-[[awa-create-queue|Create a work item queue]] in [[awa-application-landing-page|Advanced Work Assignment]] that routes new change requests through the service channel that handles change requests.
+Create a work item queue in Advanced Work Assignment that routes new change requests through the service channel that handles change requests.
 
 ## Before you begin
 
@@ -33,14 +33,10 @@ Role required: awa\_admin or admin
 
 3.  On the form, fill in the fields.
 
-    -   Name: Change [[management|Management]]
+    -   Name: Change Management
     -   Service channel: Change Request
     -   Condition mode: Simple
     -   Work item routing condition: \[State\] \[is\] \[New\]
 4.  From the form context menu, select **Save**.
 
-## Related
 
-- [[awa-create-queue|Create a work item queue]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[management|Management]]

@@ -15,7 +15,7 @@ breadcrumb: [Now Assist for FSM]
 
 # Using agentic AI in Now Assist for Field Service Management \(FSM\)
 
-Use the AI agent collection for [[fsm-application-landing-page|Field Service Management]] to create work orders and manage parts on the platform or the ServiceNow Agent application.
+Use the AI agent collection for Field Service Management to create work orders and manage parts on the platform or the ServiceNow Agent application.
 
 **Note:** Depending on your license, you will have access to certain application features, generative AI skills, agentic workflows, and AI agents. For more information, see [ServiceNow product tiers](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/ai-native-sku-overview.md).
 
@@ -38,6 +38,3 @@ Agentic workflows and their AI agents use [role masking](https://raw.githubuserc
 
 There might be AI agents installed with the Now Assist application that are not used in agentic workflows. To learn how to see all agents that are available to you, see [Find AI agents](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/find-ai-agents.md).
 
-## Related
-
-- [[fsm-application-landing-page|Field Service Management]]

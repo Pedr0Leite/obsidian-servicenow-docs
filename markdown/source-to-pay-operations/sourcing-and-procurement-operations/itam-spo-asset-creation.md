@@ -16,9 +16,9 @@ breadcrumb: [Sourcing Procurement Operations integration Asset, Integrate, Sourc
 
 In IT Asset Management \(ITAM\), assets are created when you acknowledge the receipt of the requested items.
 
-After receiving is completed, receiving slips are generated in ITAM, the associated assets are created, and the status of the PO is updated to Received. You can view the created assets in the **Assets** tab of the ITAM [[purchase-order-table|purchase order]]. For more information, see [Receiving assets in IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-receiving-assets.md).\[Omitted image "itam-spo-assets-tab.png"\] Alt text: Assets tab shows the created assets and the ITAM PO status updates to Received.
+After receiving is completed, receiving slips are generated in ITAM, the associated assets are created, and the status of the PO is updated to Received. You can view the created assets in the **Assets** tab of the ITAM purchase order. For more information, see [Receiving assets in IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/itam-spo-receiving-assets.md).\[Omitted image "itam-spo-assets-tab.png"\] Alt text: Assets tab shows the created assets and the ITAM PO status updates to Received.
 
-Additionally, when receiving slips are generated in ITAM, corresponding read-only [[receipts|receipts]] are created in SPO.
+Additionally, when receiving slips are generated in ITAM, corresponding read-only receipts are created in SPO.
 
 The following occurs during the asset creation process in ITAM:
 
@@ -28,7 +28,3 @@ The following occurs during the asset creation process in ITAM:
 
 **Parent Topic:**[Sourcing and Procurement Operations integration with IT Asset Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/sourcing-and-procurement-operations/spo-itam-better-together.md)
 
-## Related
-
-- [[purchase-order-table|Purchase order]]
-- [[receipts|Receipts]]

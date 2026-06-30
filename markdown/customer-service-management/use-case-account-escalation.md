@@ -14,7 +14,7 @@ breadcrumb: [Manage cases, Use, Customer Service Management]
 
 Use the case and account escalation feature to highlight specific cases or accounts and raise awareness of important customer issues.
 
-Escalating cases or accounts facilitates communication about an issue and enables users to track progress toward a resolution. An escalation provides increased attention to a customer issue and provides a way to track the progress made in resolving the issue. Escalation is an internal process that is not exposed to customers. For more information, see [[customer-service-case-escalation|Case and account escalation overview]].
+Escalating cases or accounts facilitates communication about an issue and enables users to track progress toward a resolution. An escalation provides increased attention to a customer issue and provides a way to track the progress made in resolving the issue. Escalation is an internal process that is not exposed to customers. For more information, see [Case and account escalation overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-escalation.md).
 
 Users with the escalation requester role can request and manage case and account escalations. Users with the de-escalator role can de-escalate cases and accounts. Users with the Account Data Manager \(sn\_crm\_account\_data\_manager\) and Escalation Administrator \(sn\_crm\_escalation\_admin\) roles can request, manage, and de-escalate account escalations.
 
@@ -23,6 +23,3 @@ Users with the escalation requester role can request and manage case and account
 
 [Case and account escalation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/customer-service-management/customer-service-case-escalation.md)
 
-## Related
-
-- [[customer-service-case-escalation|Case and account escalation]]

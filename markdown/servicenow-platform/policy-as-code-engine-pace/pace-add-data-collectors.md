@@ -26,7 +26,7 @@ Role required: sn\_pace.code\_editor
 
 2.  Select the data collector from the list of possible data collectors in the system, then click **Next**.\[Omitted image "pace-add-data-collector-list.jpg"\] Alt text: Add data collector list.
 
-3.  In the Add data collector page in the Details tab, give the data collector a [[label|label]] and variable name.
+3.  In the Add data collector page in the Details tab, give the data collector a label and variable name.
 
     **Note:** If you're using the same data collector multiple times, it should have a different variable name.\[Omitted image "pace-add-data-collector-details.jpg"\] Alt text: Add data collector details
 
@@ -38,6 +38,4 @@ Role required: sn\_pace.code\_editor
 
     After the data collector is added and configured, you can access the data collector in the script editor using the data picker in low-code. Additionally, you can delete a data collector by selecting it and selecting the **Delete** button
 
-## Related
 
-- [[label|Label]]

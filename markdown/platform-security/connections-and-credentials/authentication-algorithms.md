@@ -14,11 +14,11 @@ breadcrumb: [Connections and Credentials, Access Management]
 
 # Authentication Algorithms
 
-Verify the [[identity-landing|identity]] of the sender using Authentication Algorithms
+Verify the identity of the sender using Authentication Algorithms
 
 Allow integration steps to authenticate with web services that require complex or non-standard connection or credential mechanisms. Associate authentication algorithms to credential and connection aliases to reduce or eliminate the need to manually configure integration steps.
 
-You can use an [[c_Authentication|authentication]] algorithm to generate custom authentication data for your integration steps. Integration steps can use this dynamic data to create any custom artifacts necessary to authenticate with the target web service. For example, a REST step could create an authentication header, query parameters, or a token.
+You can use an authentication algorithm to generate custom authentication data for your integration steps. Integration steps can use this dynamic data to create any custom artifacts necessary to authenticate with the target web service. For example, a REST step could create an authentication header, query parameters, or a token.
 
 Authentication algorithms support the following steps:
 
@@ -41,9 +41,9 @@ Instance Authentication Scripts are on instance scripts part of **sys\_script\_i
 
 | | |
 |---|---|
-|RequestAuthInternal|Read only script on instance, which supports generating AWS V4 signature or custom authentication that is sent with outbound [[c_requestAPI|request]].|
+|RequestAuthInternal|Read only script on instance, which supports generating AWS V4 signature or custom authentication that is sent with outbound request.|
 |RequestAuthAWSV4Signer|Script extending RequestAuthInternal to implement signer to generate AWS V4 signature.|
-|RequestAuthTwitterSigner|Script extending RequestAuthInternal to implement signer to generate Twitter signature using [[oauth-inbound-and-outbound|OAuth]] 1.0a.|
+|RequestAuthTwitterSigner|Script extending RequestAuthInternal to implement signer to generate Twitter signature using OAuth 1.0a.|
 |RequestAuthSampleCustomSigner|Sample script extending RequestAuthInternal to understand how to write custom signer on instance.|
 
 MID Authentication Scripts are on MID scripts part of **ecc\_agent\_script\_include** table.
@@ -64,9 +64,3 @@ Following are the JavaScript API's for authentication algorithm.
 -   [HttpRequestData](https://developer.servicenow.com/dev.do#!/reference/api/utah/server/sn_auth-namespace/HttpRequestDataAPI)
 -   [RequestAuthAPI](https://developer.servicenow.com/dev.do#!/reference/api/utah/server/sn_auth-namespace/RequestAuthAPI)
 
-## Related
-
-- [[identity-landing|Identity]]
-- [[c_Authentication|Authentication]]
-- [[c_requestAPI|request]]
-- [[oauth-inbound-and-outbound|OAuth]]

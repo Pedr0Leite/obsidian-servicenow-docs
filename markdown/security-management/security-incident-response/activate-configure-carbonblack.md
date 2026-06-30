@@ -14,7 +14,7 @@ breadcrumb: [Carbon Black integration, Security Incident Response integrations, 
 
 # Get started with the Carbon Black integration
 
-Carbon Black is an advanced security system easily integrating with [[security-operations-landing-page|Security Operations]]. Before you can use the [[carbon-black-landing-page|Carbon Black integration]], you must download the integration from the ServiceNow Store and add the appropriate Endpoint Base and API Token.
+Carbon Black is an advanced security system easily integrating with Security Operations. Before you can use the Carbon Black integration, you must download the integration from the ServiceNow Store and add the appropriate Endpoint Base and API Token.
 
 ## Before you begin
 
@@ -22,7 +22,7 @@ Role required: sn\_si\_admin
 
 ## Procedure
 
-1.  [[download-app-first-time|Download the integration from the ServiceNow Store]].
+1.  [Download the integration from the ServiceNow Store](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/download-app-first-time.md).
 
 2.  When the installation is complete, access the Carbon Black website and obtain the Endpoint Base URL and API Token under your profile.
 
@@ -53,8 +53,4 @@ Role required: sn\_si\_admin
 
 7.  To return to the original list of integration configuration cards, select **No** from the **Show Configurations** drop-down list.
 
-## Related
 
-- [[download-app-first-time|Download an application from the ServiceNow Store for the first time]]
-- [[security-operations-landing-page|Security Operations]]
-- [[carbon-black-landing-page|Carbon Black integration]]

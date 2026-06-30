@@ -16,7 +16,7 @@ breadcrumb: [Access control, Hardening settings, Platform Security]
 
 Decrease the likelihood of authorization errors, and unintended information disclosure by displaying recommendations for high risk UI pages.
 
-Use the **glide.script.ui\_page.customer\_scoped.security\_msgs\_enabled** system property to determine whether to display security recommendations to [[users|users]] configuring UI pages when:
+Use the **glide.script.ui\_page.customer\_scoped.security\_msgs\_enabled** system property to determine whether to display security recommendations to users configuring UI pages when:
 
 -   An ACL is missing
 -   GlideRecord/GlideDBQuery APIs are used instead of GlideRecordSecure
@@ -38,7 +38,7 @@ Description
 
 </th></tr></thead><tbody><tr><td>
 
-Technical [[sc-configuration|configuration]] name
+Technical configuration name
 
 </td><td>
 
@@ -129,7 +129,3 @@ true
 
 **Parent Topic:**[Access control](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/instance-security-hardening-settings/sc-access-control.md)
 
-## Related
-
-- [[users|Users]]
-- [[sc-configuration|Configuration]]

@@ -14,15 +14,15 @@ breadcrumb: [Part requirements, Manage inventory in FSM, Manage work order tasks
 
 # Source a part and assign an agent
 
-The work order sourcing option is useful when you want to [[t_AssignATask|assign a work order task]] to agents who already have the required parts in their stockroom or to a specific agent who needs you to obtain the parts for them.
+The work order sourcing option is useful when you want to assign a work order task to agents who already have the required parts in their stockroom or to a specific agent who needs you to obtain the parts for them.
 
 ## Before you begin
 
-Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [[r_UserRoleInstallWFieldSrvMgmnt|qualifier combination role]]
+Role required: wm\_agent, wm\_qualifier, wm\_dispatcher, wm\_admin, or [qualifier combination role](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/r_UserRoleInstallWFieldSrvMgmnt.md)
 
 ## About this task
 
-The sourcing option shows the full list of tasks and [[c_PartRequirements|part requirements]] to source for a work order or task. For each task, the agents and stockrooms that have the required parts are listed. Also, the skills and parts required for each task are displayed. Select an agent to see if the agent has the skills and parts required for the task. The time slots during which the agent is available within the work order window are shown to help you schedule task work efficiently.
+The sourcing option shows the full list of tasks and part requirements to source for a work order or task. For each task, the agents and stockrooms that have the required parts are listed. Also, the skills and parts required for each task are displayed. Select an agent to see if the agent has the skills and parts required for the task. The time slots during which the agent is available within the work order window are shown to help you schedule task work efficiently.
 
 ## Procedure
 
@@ -72,8 +72,4 @@ The sourcing option shows the full list of tasks and [[c_PartRequirements|part r
 
 15. Click **Source Part** and complete the transfer order.
 
-## Related
 
-- [[r_UserRoleInstallWFieldSrvMgmnt|Roles installed with Field Service Management]]
-- [[t_AssignATask|Assign a work order task]]
-- [[c_PartRequirements|Part requirements]]

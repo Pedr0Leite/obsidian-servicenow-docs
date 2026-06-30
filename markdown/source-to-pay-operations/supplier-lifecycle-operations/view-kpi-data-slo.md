@@ -22,12 +22,12 @@ Role required: sn\_kpi.admin or sn\_slm.manager or sn\_slm.admin
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[supp-mgmt-landing-page|Supplier Lifecycle Operations]]** &gt; **[[purch-order-mgmt-ws|Source-to-Pay Workspace]]**.
+1.  Navigate to **All** &gt; **Supplier Lifecycle Operations** &gt; **Source-to-Pay Workspace**.
 
 2.  Do one of the following steps to view KPIs In the Source-to-Pay Workspace:
 
     -   Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), navigate to **Lists** &gt; **Performance management** &gt; **KPIs**.
-    -   Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), navigate to **Lists** &gt; **Performance management** &gt; **[[kpi-templates|KPI Templates]]**. In the Name column, select the link to a KPI template, and then select the **KPIs** tab.
+    -   Select the list icon \(\[Omitted image "cases-list-icon.png"\] Alt text: List icon.\), navigate to **Lists** &gt; **Performance management** &gt; **KPI Templates**. In the Name column, select the link to a KPI template, and then select the **KPIs** tab.
 3.  In the Name column, select the link to a KPI.\[Omitted image "view-kpi-list-page.png"\] Alt text: Tabs present in the KPI view.
 
 <table id="table_z4n_b3j_kcc"><thead><tr><th>
@@ -70,9 +70,9 @@ Tasks
 
 Lists the tasks of Action type **Provide input**.Each task is assigned to the user that you specified in the **Collection source type** field for the KPI template.
 
-The [[supplier|supplier]] manager completes the assigned task from the Source-to-Pay Workspace. For more information, see [Complete a KPI collection task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-spw.md).
+The supplier manager completes the assigned task from the Source-to-Pay Workspace. For more information, see [Complete a KPI collection task from the Source-to-Pay Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-spw.md).
 
-The [[supplier-contact|supplier contact]] completes the assigned task from the [[supplier-central|Supplier Collaboration Portal]]. For more information, see [Complete a KPI collection task from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-scp.md).
+The supplier contact completes the assigned task from the Supplier Collaboration Portal. For more information, see [Complete a KPI collection task from the Supplier Collaboration Portal](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/complete-kpi-task-scp.md).
 
 </td></tr></tbody>
 </table>
@@ -97,11 +97,3 @@ You are directed to the detailed-view page of the selected KPI.
 
 [View supplier performance dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/supplier-lifecycle-operations/view-supplier-performance-dashboard.md)
 
-## Related
-
-- [[supp-mgmt-landing-page|Supplier Lifecycle Operations]]
-- [[purch-order-mgmt-ws|Source-to-Pay Workspace]]
-- [[kpi-templates|KPI templates]]
-- [[supplier|Supplier]]
-- [[supplier-contact|Supplier contact]]
-- [[supplier-central|Supplier Collaboration Portal]]

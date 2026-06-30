@@ -20,7 +20,7 @@ Role required: sn\_dri\_inc\_rptg.digital\_resilience\_incident\_manager
 
 ## About this task
 
-From the [[Administration|Administration]] menu, the Template Configurations module displays document design template details for DRIR action tasks. The Word Templates module, on the other hand, provides DRIR Word templates necessary for generating Microsoft Word reports.
+From the Administration menu, the Template Configurations module displays document design template details for DRIR action tasks. The Word Templates module, on the other hand, provides DRIR Word templates necessary for generating Microsoft Word reports.
 
 The Reporting Configurations module has been introduced with the Digital Resilience Incident Reporting, version 22.3.0 version. It provides Microsoft 365 reporting configurations that are scoped to the Digital resilience incident \(DRI\) business domain and adds data to a report.
 
@@ -93,9 +93,5 @@ Fields from which data must be displayed on the report. Move the required fields
 **Related topics**  
 
 
-[[create-data-relationships-action-tasks|Create Data relationships]]
+[Create Data relationships](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/governance-risk-compliance/create-data-relationships-action-tasks.md)
 
-## Related
-
-- [[create-data-relationships-action-tasks|Create Data relationships]]
-- [[Administration|Administration]]

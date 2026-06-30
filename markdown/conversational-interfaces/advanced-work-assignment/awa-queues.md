@@ -14,9 +14,9 @@ breadcrumb: [Work items, Explore, Advanced Work Assignment, Manage people and wo
 
 # Work item queues
 
-In [[awa-application-landing-page|Advanced Work Assignment]], queues store a specific type of work item for a service channel.
+In Advanced Work Assignment, queues store a specific type of work item for a service channel.
 
-AWA administrators can create or modify queues based on customer need. As part of creating or modifying a queue, the awa\_admin identifies some information about the queue, including the service channel to which the queue belongs and which agent groups handle the incoming [[awa-work-items|work items]].
+AWA administrators can create or modify queues based on customer need. As part of creating or modifying a queue, the awa\_admin identifies some information about the queue, including the service channel to which the queue belongs and which agent groups handle the incoming work items.
 
 The awa\_admin can select a schedule that defines when the queue is available and identify a time limit within which an agent should accept a work item in the queue. If the selected service channel is **Chat**, the awa\_admin creates the chat messages that are displayed to users.
 
@@ -25,7 +25,7 @@ Routing conditions identify the work items that are routed to a queue. Create ro
 -   Simple: use a condition builder to select routing conditions. The fields available for selection are based on the selected service channel.
 -   Advanced: use a JavaScript script to identify routing conditions.
 
-The awa\_admin can also [[skills-example-queue|create a queue]] without routing conditions so that work items are not routed to that queue automatically. Customers can manually assign work items to the queue or assign work items using assignment tools such as matching rules or Workflow Studio.
+The awa\_admin can also create a queue without routing conditions so that work items are not routed to that queue automatically. Customers can manually assign work items to the queue or assign work items using assignment tools such as matching rules or Workflow Studio.
 
 When a case in a queue is assigned manually, the case is removed from the queue. The state of the work item is set to **Canceled** and the cancellation reason is set to **Manually assigned**.
 
@@ -33,9 +33,9 @@ When a case in a queue is assigned manually, the case is removed from the queue.
 
 ## Configure routing rules that use chat context variables
 
-You can specify queue routing rules that use chat context variables in the condition builder. For details on creating chat context variables, see [[ac-configure-context-variables|Configure context variables for storing chat-related information]]. These variables can store contextual information that can be used in routing conditions to control where chat work items are routed.
+You can specify queue routing rules that use chat context variables in the condition builder. For details on creating chat context variables, see [Configure context variables for storing chat-related information](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-context-variables.md). These variables can store contextual information that can be used in routing conditions to control where chat work items are routed.
 
-For example, you can define chat context variables to store user responses from [[create-chat-surveys|pre-chat surveys]] that you create. If you store these responses in chat context variables, such as a user's department or a product name, you can specify the context variables in queue routing conditions to direct where the live chat is routed. When you specify a routing condition using the condition builder, you can dot walk to the Context fields. In the fields menu, select **Show Related Fields** and open the fields menu again to select **Context → Interaction Context fields**.
+For example, you can define chat context variables to store user responses from [pre-chat surveys](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/create-chat-surveys.md) that you create. If you store these responses in chat context variables, such as a user's department or a product name, you can specify the context variables in queue routing conditions to direct where the live chat is routed. When you specify a routing condition using the condition builder, you can dot walk to the Context fields. In the fields menu, select **Show Related Fields** and open the fields menu again to select **Context → Interaction Context fields**.
 
 \[Omitted image "awa-dotwalking-context-variables.png"\] Alt text: Show Context related table fields in the Work item routing condition builderYou can then select from the available chat context variables in the condition builder. For example, choosing **csp\_category** becomes **Context.csp\_category**.
 
@@ -51,10 +51,3 @@ Select an agent assignment rule and any eligibility time constraints for each gr
 
 Use the Work Item Sort Order related list to create one or more sort conditions for work items in a queue. For each sort condition, specify a field from the selected service channel table and the direction to sort, either ascending or descending. Items in the queue are sorted and assigned to agents based on these conditions.
 
-## Related
-
-- [[ac-configure-context-variables|Configure context variables for storing chat-related information]]
-- [[create-chat-surveys|Create chat surveys]]
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[skills-example-queue|Create a queue]]

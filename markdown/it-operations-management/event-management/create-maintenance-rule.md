@@ -74,7 +74,7 @@ Including thousands of retired CIs may decrease system performance.
 </td></tr></tbody>
 </table>## Procedure
 
-1.  Navigate to **All** &gt; **[[c_EM|Event Management]]** &gt; **Rules** &gt; **Maintenance Rules**.
+1.  Navigate to **All** &gt; **Event Management** &gt; **Rules** &gt; **Maintenance Rules**.
 
 2.  Click **New**.
 
@@ -197,6 +197,3 @@ You can use this script as an example to prepare your own customized script.
 
 [Place an alert into maintenance](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/event-management/t_EMPutAnAlertIntoMaintenance.md)
 
-## Related
-
-- [[c_EM|Event Management]]

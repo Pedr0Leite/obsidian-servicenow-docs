@@ -32,9 +32,9 @@ If the application requires multiple SAP instances, create separate integration 
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **[[erp-source-configuration|ERP Source Configuration]]**.
+1.  Navigate to **All** &gt; **Finance – ERP Integration** &gt; **ERP Source Configuration**.
 
-2.  Open the [[erp-source|ERP source]] for which you need to configure integration services.
+2.  Open the ERP source for which you need to configure integration services.
 
     For example, SAP ECC or SAP S4 HANA.
 
@@ -149,7 +149,3 @@ Option to choose the order in which the entity should be displayed.
 
 [Scheduled jobs to look up primary data in SAP]()
 
-## Related
-
-- [[erp-source-configuration|ERP source configuration]]
-- [[erp-source|ERP source]]

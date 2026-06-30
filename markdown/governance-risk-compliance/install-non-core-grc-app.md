@@ -12,7 +12,7 @@ breadcrumb: [GRC and the ServiceNow Store, Governance, Risk, and Compliance]
 
 # Install GRC content packs and integrations
 
-All ServiceNow integrations are available on the ServiceNow Store. Core applications, such as [[r_PolicyComplianceMgmt|Policy and Compliance Management]], are visible in the **ServiceNow Products** tab on the store. Content pack and integration add-ons are visible in the **Certified Apps** tab.
+All ServiceNow integrations are available on the ServiceNow Store. Core applications, such as Policy and Compliance Management, are visible in the **ServiceNow Products** tab on the store. Content pack and integration add-ons are visible in the **Certified Apps** tab.
 
 ## Before you begin
 
@@ -51,6 +51,4 @@ Sore installation requires a Now Support account and have permission to request 
 
         Locate the application, select it, and click **Install**. Your application is automatically installed on your instance.
 
-## Related
 
-- [[r_PolicyComplianceMgmt|Policy and Compliance Management]]

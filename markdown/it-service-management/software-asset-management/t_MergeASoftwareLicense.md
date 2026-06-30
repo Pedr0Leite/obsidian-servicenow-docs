@@ -14,7 +14,7 @@ breadcrumb: [Software licenses in the legacy Software Asset Management plugin, L
 
 # Merge software licenses using the legacy Software Asset Management plugin
 
-If you have multiple software licenses that are linked to the same model, you can merge the individual licenses into a consolidated license using the legacy Software [[c_AssetManagement|Asset Management]] \(com.snc.software\_asset\_management\) plugin.
+If you have multiple software licenses that are linked to the same model, you can merge the individual licenses into a consolidated license using the legacy Software Asset Management \(com.snc.software\_asset\_management\) plugin.
 
 ## Before you begin
 
@@ -36,7 +36,7 @@ To be merged, the individual licenses must meet the following requirements:
     -   State
 -   The licenses must have the same set of software upgrades and downgrades and the same set of assets covered. To verify this information, go to **Software Asset** &gt; **Software Licenses** and select a license.
     -   For upgrades and downgrades, go to the **Software Upgrade and Downgrades** related list.
-    -   For assets covered, go to the **Assets Covered** embedded list in the [[c_Contracts|Contracts]] related list.
+    -   For assets covered, go to the **Assets Covered** embedded list in the Contracts related list.
 
 If a license can be merged, **Merge with similar licenses** appears under **Related Links** on the Software License form.
 
@@ -74,7 +74,3 @@ To merge a license:
 
 [License management with the legacy Software Asset Management plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/software-asset-management/c_ManageSoftwareLicenses.md)
 
-## Related
-
-- [[c_AssetManagement|Asset Management]]
-- [[c_Contracts|Contracts]]

@@ -14,7 +14,7 @@ breadcrumb: [Manage demands, Use, Next Experience for Demand Management in Strat
 
 # Add and manage goal/target relationships
 
-Track and manage the relationship between demands and organizational goals or targets directly from the Next Experience for [[c_DemandManagement|Demand Management]]. Linking demands to goals or targets helps ensure alignment with strategic priorities and provides visibility into how each demand contributes to broader organizational objectives.
+Track and manage the relationship between demands and organizational goals or targets directly from the Next Experience for Demand Management. Linking demands to goals or targets helps ensure alignment with strategic priorities and provides visibility into how each demand contributes to broader organizational objectives.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Role required: it\_demand\_manager
 
 2.  Select **Details** from the L-2 \(level 2\) navigation menu.
 
-3.  Select the **Goal/Target Relationships** tab.\[Omitted image "goal-target-demand.png"\] Alt text: Use the Goal/Target Relationships tab to add or edit [[demand-task|demand tasks]].
+3.  Select the **Goal/Target Relationships** tab.\[Omitted image "goal-target-demand.png"\] Alt text: Use the Goal/Target Relationships tab to add or edit demand tasks.
 
     **Note:** If the required **Goal/Target Relationships** tab isn’t visible, select **More** and then select the required **Goal/Target Relationships** tab.
 
@@ -46,7 +46,7 @@ Role required: it\_demand\_manager
 
     -   To remove a goal/target relationship record:
         -   Select a record from the **Goal/Target Relationships** tab and select **Remove**.
-        -   Select **Remove** from the More Actions option in the [[goal-relationship-form|goal/target relationship form]].
+        -   Select **Remove** from the More Actions option in the goal/target relationship form.
     -   Alternatively, you can add, edit, or remove goal/target relationship records using the **Add secondary goals** playbook activity. For more information, see [Use Playbooks in Next Experience for Demand Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/use-playbooks-in-dw.md).
     After completing your work on the goal/target relationship record, use the breadcrumb navigation to return to the **Goal/Target Relationships** tab.
 
@@ -60,8 +60,3 @@ Role required: it\_demand\_manager
 
 [Create goal/target relationship form](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/strategic-planning/create-goal-target-relationship-form-dw.md)
 
-## Related
-
-- [[c_DemandManagement|Demand Management]]
-- [[demand-task|Demand tasks]]
-- [[goal-relationship-form|Goal/Target Relationship form]]

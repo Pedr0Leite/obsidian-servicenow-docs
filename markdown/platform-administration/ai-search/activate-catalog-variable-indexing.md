@@ -22,7 +22,7 @@ Role required: admin
 
 ## About this task
 
-[[ia-ai-search|AI Search]] supports indexing of searchable content from variables on records in the Catalog Item \[sc\_cat\_item\] table and tables that extend it. By default, this functionality is not active. Administrators can activate indexing of catalog variable content and configure the set of Catalog Items and catalog variables to index content from.
+AI Search supports indexing of searchable content from variables on records in the Catalog Item \[sc\_cat\_item\] table and tables that extend it. By default, this functionality is not active. Administrators can activate indexing of catalog variable content and configure the set of Catalog Items and catalog variables to index content from.
 
 For details on the catalog variable types that AI Search can index content from, see [Variable types supported by AI Search indexing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/variable-types-ais-index.md).
 
@@ -85,11 +85,7 @@ For details on the catalog variable types that AI Search can index content from,
 
 ## What to do next
 
-After changing the values of these [[r_SetArchiveRuleProcessingBehavior|system properties]], reindex content from the Catalog Item Table indexed source and any indexed sources for tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-multiple-sources-ais.md).
+After changing the values of these system properties, reindex content from the Catalog Item Table indexed source and any indexed sources for tables that extend the Catalog Item \[sc\_cat\_item\] table. For details on reindexing content from indexed sources, see [Perform a full table index or reindex for a single AI Search indexed source](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-single-source-ais.md) and [Perform a full table index or reindex for multiple AI Search indexed sources](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/index-multiple-sources-ais.md).
 
 **Parent Topic:**[Indexed sources in AI Search](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/ai-search/indexed-sources-ais.md)
 
-## Related
-
-- [[ia-ai-search|AI Search]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

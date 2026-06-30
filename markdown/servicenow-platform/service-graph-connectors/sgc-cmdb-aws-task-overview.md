@@ -14,7 +14,7 @@ breadcrumb: [AWS, Service Graph Connectors, Integrating third-party data into CM
 
 # Configure the AWS environment for the Service Graph Connector for AWS
 
-Configure your Amazon Web Services \(AWS\) environment to import data using the [[cmdb-integration-aws-sg|Service Graph Connector for AWS]].
+Configure your Amazon Web Services \(AWS\) environment to import data using the Service Graph Connector for AWS.
 
 ## Before you begin
 
@@ -30,7 +30,7 @@ Role required: application administrator
 
 2.  [Download the AWS scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-dwld.md).
 
-    [[sgc-cmdb-aws-scripts-dwld|Download the AWS scripts]] included within the guided setup of the Service Graph Connector for AWS.
+    Download the AWS scripts included within the guided setup of the Service Graph Connector for AWS.
 
 3.  [Review the requirements before executing the AWS scripts](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-graph-connectors/sgc-cmdb-aws-scripts-prereq.md).
 
@@ -40,7 +40,4 @@ Role required: application administrator
 
     Execute scripts provided with the Service Graph Connector for AWS to set up the AWS environment for importing data.
 
-## Related
 
-- [[cmdb-integration-aws-sg|Service Graph Connector for AWS]]
-- [[sgc-cmdb-aws-scripts-dwld|Download the AWS scripts]]

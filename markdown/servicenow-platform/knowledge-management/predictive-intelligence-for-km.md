@@ -14,7 +14,7 @@ breadcrumb: [Machine learning solutions for Knowledge Management, Exploring Know
 
 # Predictive Intelligence for Knowledge Management
 
-The Predictive Intelligence for Knowledge Management capability uses machine-learning algorithms to provide various [[knowledge-management|Knowledge Management]] capabilities, such as similar articles and [[knowledge-demand-insights|knowledge demand insights]].
+The Predictive Intelligence for Knowledge Management capability uses machine-learning algorithms to provide various Knowledge Management capabilities, such as similar articles and knowledge demand insights.
 
 ## Solution definitions for Predictive Intelligence for Knowledge Management
 
@@ -59,7 +59,7 @@ Clustering
 
 </td><td>
 
-Populates collections of closed and resolved customer service cases on the [[demand-insights-cases-dashboard|Demand Insights for Cases dashboard]].
+Populates collections of closed and resolved customer service cases on the Demand Insights for Cases dashboard.
 
 </td></tr><tr><td>
 
@@ -71,7 +71,7 @@ Clustering
 
 </td><td>
 
-Populates collections of closed and resolved incidents on the [[demand-insights-incidents-dashboard|Demand Insights for Incidents dashboard]].
+Populates collections of closed and resolved incidents on the Demand Insights for Incidents dashboard.
 
 </td></tr><tr><td>
 
@@ -111,9 +111,3 @@ Compares similarity of incidents with knowledge bases and identifies similar clo
 
 [Demand Insights for Cases dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/knowledge-management/demand-insights-cases-dashboard.md)
 
-## Related
-
-- [[knowledge-management|Knowledge Management]]
-- [[knowledge-demand-insights|Knowledge demand insights]]
-- [[demand-insights-cases-dashboard|Demand Insights for Cases dashboard]]
-- [[demand-insights-incidents-dashboard|Demand Insights for Incidents dashboard]]

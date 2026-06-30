@@ -36,8 +36,6 @@ Role required: sn\_pace.policy\_editor
 
     The edited category is updated in the All Categories form.
 
-    **Note:** You can also [[t_DeleteACategory|delete a category]], as long as the category is not assigned to an Active policy. To delete a category, in the Details form for the selected category, click **Delete**.
+    **Note:** You can also delete a category, as long as the category is not assigned to an Active policy. To delete a category, in the Details form for the selected category, click **Delete**.
 
-## Related
 
-- [[t_DeleteACategory|Delete a category]]

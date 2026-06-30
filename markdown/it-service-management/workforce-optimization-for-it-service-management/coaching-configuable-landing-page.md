@@ -14,7 +14,7 @@ breadcrumb: [Landing pages, Advanced configurations, Workforce Optimization for 
 
 # Workforce Optimization for ITSM Coaching landing page
 
-Monitor the performance of your agents and measure the quality of how they resolved issues using the [[cf-coaching-landing|Coaching]] [[dex-workspace-dashboard-tab|landing page]]. Analyze patterns in skill usage over time and see which skills are in demand.
+Monitor the performance of your agents and measure the quality of how they resolved issues using the Coaching landing page. Analyze patterns in skill usage over time and see which skills are in demand.
 
 \[Omitted image "coaching-landing-page1.png"\] Alt text: Coaching landing page
 
@@ -69,7 +69,3 @@ As a coach, you can monitor the quality of agents resolving issues and take corr
 
 **Parent Topic:**[Workforce Optimization for ITSM landing pages](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/workforce-optimization-for-it-service-management/configurable-wfo-itsm-landing-pages.md)
 
-## Related
-
-- [[cf-coaching-landing|Coaching]]
-- [[dex-workspace-dashboard-tab|Landing page]]

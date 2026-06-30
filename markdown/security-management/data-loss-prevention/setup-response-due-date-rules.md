@@ -14,7 +14,7 @@ breadcrumb: [Administer, Data Loss Prevention Incident Response, Security Operat
 
 # Create response due date rules
 
-Set up the response due date rules to determine the time you want to give your end users to respond to the assigned [[dlp-landing|Data Loss Prevention Incident Response]] \(DLP IR\) incidents.
+Set up the response due date rules to determine the time you want to give your end users to respond to the assigned Data Loss Prevention Incident Response \(DLP IR\) incidents.
 
 ## Before you begin
 
@@ -233,6 +233,3 @@ Use the escalation chain feature to allow all the respective users who are invol
 
 [DLP Incidents Archival]()
 
-## Related
-
-- [[dlp-landing|Data Loss Prevention Incident Response]]

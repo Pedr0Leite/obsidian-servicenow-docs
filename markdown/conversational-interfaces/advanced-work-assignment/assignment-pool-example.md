@@ -14,7 +14,7 @@ breadcrumb: [Configure, Advanced Work Assignment, Manage people and work, Conver
 
 # Create an assignment pool of agents
 
-Create an eligible assignment pool in [[awa-application-landing-page|Advanced Work Assignment]] that receives overflow [[awa-work-items|work items]], just in case you need more help from other agents to handle change requests.
+Create an eligible assignment pool in Advanced Work Assignment that receives overflow work items, just in case you need more help from other agents to handle change requests.
 
 ## Before you begin
 
@@ -29,7 +29,7 @@ Role required: awa\_admin or admin
         In the Essential settings section, select **Set up queues**.
 
     -   **All** &gt; **Advanced Work Assignment** &gt; **Queues**.
-2.  Open the Change [[management|Management]] queue.
+2.  Open the Change Management queue.
 
 3.  On the form, go to the **Assignment Eligibility** related list and select **New**.
 
@@ -39,8 +39,4 @@ Role required: awa\_admin or admin
     -   Groups: Change Management
 5.  Select **Submit**.
 
-## Related
 
-- [[awa-application-landing-page|Advanced Work Assignment]]
-- [[awa-work-items|Work items]]
-- [[management|Management]]

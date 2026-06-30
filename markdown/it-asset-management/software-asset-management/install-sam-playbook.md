@@ -14,12 +14,12 @@ breadcrumb: [Using Software Asset Workspace, Software Asset Management, IT Asset
 
 # Install Software Asset Management Guided Experiences
 
-Install the [[playbook-entitlementsetup-workspace|Software Asset Management Guided Experiences]] \(com.sn\_sam\_playbook\) application for step-by-step guidance for completing tasks in your daily software management activities.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
+Install the Software Asset Management Guided Experiences \(com.sn\_sam\_playbook\) application for step-by-step guidance for completing tasks in your daily software management activities.The application includes demo data and installs related ServiceNow® Store applications and plugins if they aren’t already installed.
 
 ## Before you begin
 
 -   Ensure that the application and all of its associated ServiceNow Store applications have valid ServiceNow entitlements. For more information, see [Get entitlement for a ServiceNow product or application](https://store.servicenow.com/$appstore.do#!/store/help?article=KB0030186).
--   Activate [[c_SoftwareAssetMgmt|Software Asset Management]] Professional Master Workspace \(com.sn\_samp\_master\_ws\) plugin. This plugin will internally activate the Software Asset Management Professional \(com.sn\_samp\_master\) plugin and [[sam-workspace|Software Asset Workspace]] \(sn\_sam\_workspace\) store application.
+-   Activate Software Asset Management Professional Master Workspace \(com.sn\_samp\_master\_ws\) plugin. This plugin will internally activate the Software Asset Management Professional \(com.sn\_samp\_master\) plugin and Software Asset Workspace \(sn\_sam\_workspace\) store application.
 
 Role required: sam\_admin or sam\_user
 
@@ -59,8 +59,3 @@ The following items are installed with the Software Asset Management Guided Expe
 
 **Parent Topic:**[Using Software Asset Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/using-sam-workspace.md)
 
-## Related
-
-- [[playbook-entitlementsetup-workspace|Software Asset Management Guided Experiences]]
-- [[c_SoftwareAssetMgmt|Software Asset Management]]
-- [[sam-workspace|Software Asset Workspace]]

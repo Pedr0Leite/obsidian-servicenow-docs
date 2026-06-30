@@ -18,7 +18,7 @@ Preserve instance performance by applying table rotation.
 
 Determine the type of table you have and whether you can apply table rotation yourself.
 
--   You can apply table rotation to [[custom-tables|custom tables]] that begin with a u\_ prefix at your own discretion.
+-   You can apply table rotation to custom tables that begin with a u\_ prefix at your own discretion.
 -   Do not apply table rotation to scoped tables that begin with an x\_ prefix without consulting ServiceNow or the third-party plugin developer first.
 -   Do not apply table rotation to out-of-the-box tables that begin with a sys\_ prefix. Contact Customer Service and Support for help with these tables.
 
@@ -94,9 +94,5 @@ A schedule is created and new data is written to one of the tables in the rotati
 
 \[Omitted image "NewTableRotationGroup.png"\] Alt text: New table rotation group.
 
-**Parent Topic:**[[c_TableRotation|Table rotation]]
+**Parent Topic:**[Table rotation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/c_TableRotation.md)
 
-## Related
-
-- [[c_TableRotation|Table rotation]]
-- [[custom-tables|Custom tables]]

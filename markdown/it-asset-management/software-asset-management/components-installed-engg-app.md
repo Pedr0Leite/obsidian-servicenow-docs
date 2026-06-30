@@ -14,7 +14,7 @@ breadcrumb: [Engineering license management, Software Asset Management, IT Asset
 
 # Tables installed with engineering applications
 
-Tables are installed with the [[c_SoftwareAssetMgmt|Software Asset Management]] Professional for Engineering Applications store app \(sn\_samp\_eng\_app\).
+Tables are installed with the Software Asset Management Professional for Engineering Applications store app \(sn\_samp\_eng\_app\).
 
 ## Tables
 
@@ -198,6 +198,3 @@ Maps unrecognized publishers to subscription integrations.
 </td></tr></tbody>
 </table>**Parent Topic:**[Engineering license management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/software-asset-management/concurrent-licenses.md)
 
-## Related
-
-- [[c_SoftwareAssetMgmt|Software Asset Management]]

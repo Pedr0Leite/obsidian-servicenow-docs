@@ -14,7 +14,7 @@ breadcrumb: [Use templates for Boards and Docs, Use, Collaborative Work Manageme
 
 # Apply a template to existing Board or Doc in CWM
 
-Apply predefined or custom templates to existing Boards or Docs in [[cwm-landing|Collaborative Work Management]] workspace so that you can avoid inconsistencies in structure and format across your processes.
+Apply predefined or custom templates to existing Boards or Docs in Collaborative Work Management workspace so that you can avoid inconsistencies in structure and format across your processes.
 
 ## Before you begin
 
@@ -91,6 +91,3 @@ The selected template is applied to your Board, Doc, or page and the data is dis
 
 **Parent Topic:**[Templates in CWM for Boards and Docs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/collaborative-work-management/templates-in-cwm-for-spaces-boards-and-docs.md)
 
-## Related
-
-- [[cwm-landing|Collaborative Work Management]]

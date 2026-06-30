@@ -14,7 +14,7 @@ breadcrumb: [Requests, Legal Content Review, Legal Service Delivery Practice App
 
 # Update a Legal Content Review request
 
-Update request details, add comments, or upload documents in a [[legal-content-review|Legal Content Review]] request you submitted while it is still in the New or Assigned state.
+Update request details, add comments, or upload documents in a Legal Content Review request you submitted while it is still in the New or Assigned state.
 
 ## Before you begin
 
@@ -24,9 +24,9 @@ Role required: sn\_lg\_ops.legal\_user
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[employee-center-landing-page|Employee Center]]**.
+1.  Navigate to **All** &gt; **Employee Center**.
 
-    **Note:** If you're using Legal Service Portal, you can [[submit-legal-request|submit a legal request]] by navigating to the Legal Service Portal and selecting **View all requests** under **My Requests**.
+    **Note:** If you're using Legal Service Portal, you can submit a legal request by navigating to the Legal Service Portal and selecting **View all requests** under **My Requests**.
 
 2.  Select **My Requests** from the header.
 
@@ -44,7 +44,7 @@ Role required: sn\_lg\_ops.legal\_user
 
     The request is updated with the new information. The changes appear as comments in the Additional Comments section of the request.
 
-8.  In the **[[activity-lxp|Activity]]** tab, provide comments or more information about your request for the request fulfiller.
+8.  In the **Activity** tab, provide comments or more information about your request for the request fulfiller.
 
 9.  Manage documents supporting your request.
 
@@ -88,9 +88,3 @@ A link to the document is listed in the **External URL** column of the documents
 
 **Parent Topic:**[Legal Content Review requests](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/legal-content-review/legal-content-review-requests.md)
 
-## Related
-
-- [[legal-content-review|Legal Content Review]]
-- [[employee-center-landing-page|Employee Center]]
-- [[submit-legal-request|Submit a legal request]]
-- [[activity-lxp|Activity]]

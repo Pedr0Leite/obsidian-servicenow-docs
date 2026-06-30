@@ -27,11 +27,11 @@ The variable SQL debugger is not applicable for the following variables:
 -   Container Start
 -   Container End
 -   Container Split
--   [[break|Break]]
+-   Break
 
 ## Procedure
 
-1.  Enable the variable SQL debugger by navigating to **[[service-catalog|Service Catalog]]** &gt; **Catalog Variables** &gt; **Enable Variable SQL Debugger**.
+1.  Enable the variable SQL debugger by navigating to **Service Catalog** &gt; **Catalog Variables** &gt; **Enable Variable SQL Debugger**.
 
     **Note:**
 
@@ -73,7 +73,3 @@ The variable SQL debugger is not applicable for the following variables:
 
 **Parent Topic:**[Debugging Service Catalog](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/service-catalog/debugging-service-catalog.md)
 
-## Related
-
-- [[break|Break]]
-- [[service-catalog|Service Catalog]]

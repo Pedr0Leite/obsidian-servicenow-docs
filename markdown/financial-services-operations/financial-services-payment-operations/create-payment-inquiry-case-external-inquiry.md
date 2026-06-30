@@ -28,7 +28,7 @@ An external inquiry is the inquiry that comes from a third-party bank, which mea
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[fso-overview|Financial Services]] Operations** &gt; **Workspace**.
+1.  Navigate to **All** &gt; **Financial Services Operations** &gt; **Workspace**.
 
 2.  Select the lists icon \(\[Omitted image "inline-data-vis-96px-list.png"\] Alt text: lists icon\).
 
@@ -59,6 +59,3 @@ The payment inquiry case is created in the New state and is assigned to an assig
 
 **Parent Topic:**[Managing payment inquiries](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/financial-services-operations/financial-services-payment-operations/managing-payment-inquiries.md)
 
-## Related
-
-- [[fso-overview|Financial Services]]

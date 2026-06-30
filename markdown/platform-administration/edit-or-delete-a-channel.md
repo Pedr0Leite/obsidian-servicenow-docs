@@ -12,7 +12,7 @@ breadcrumb: [Preferences in Next Experience, Notification Preferences, Notificat
 
 # Edit a delivery channel
 
-Edit an email, instant message, SMS, or voice channel for receiving [[notifications|notifications]], and schedule when the channel can receive notifications.
+Edit an email, instant message, SMS, or voice channel for receiving notifications, and schedule when the channel can receive notifications.
 
 ## Before you begin
 
@@ -33,9 +33,5 @@ Role required: none
 6.  Select **Save**.
 
 
-**Parent Topic:**[[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
+**Parent Topic:**[System and custom notification and delivery channel preferences in Next Experience](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/advanced-notification-prefrences.md)
 
-## Related
-
-- [[advanced-notification-prefrences|System and custom notification and delivery channel preferences in Next Experience]]
-- [[notifications|Notifications]]

@@ -14,7 +14,7 @@ breadcrumb: [Data Discovery jobs, Exploring Data Discovery \(Classic\), Data Dis
 
 # Activate parallel jobs for Data Discovery
 
-Use parallel jobs to reduce your [[data-discovery-landing|Data Discovery]] job execution time.
+Use parallel jobs to reduce your Data Discovery job execution time.
 
 ## Before you begin
 
@@ -33,6 +33,4 @@ Role required: admin
 
     Enter the number of parallel job workers in the **Value** field up to 5.
 
-## Related
 
-- [[data-discovery-landing|Data Discovery]]

@@ -14,7 +14,7 @@ breadcrumb: [Insights view, Explore, Service Graph Workspace, Configuration Mana
 
 # Service instances insights dashboard in Service Graph Workspace
 
-Use the Service instances page in [[sg-workspace|Service Graph Workspace]] to see counts, trends, and health of [[application-services|Service instances \(application services\)]] in your organization.
+Use the Service instances page in Service Graph Workspace to see counts, trends, and health of Service instances \(application services\) in your organization.
 
 ## Access
 
@@ -30,7 +30,3 @@ Shows a count of [Service instances](https://raw.githubusercontent.com/ServiceNo
 
 Select the tile to access the Service instance dashboard where you can monitor the adoption level and health of Service instances. For more details, see [Use Service instance \(Application Services\) dashboard to monitor health](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/servicenow-platform/configuration-management-database-cmdb/app-service-dashboard.md).
 
-## Related
-
-- [[sg-workspace|Service Graph Workspace]]
-- [[application-services|Service instances \(Application services\)]]

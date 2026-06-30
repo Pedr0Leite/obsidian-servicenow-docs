@@ -14,7 +14,7 @@ breadcrumb: [Audit assets using Asset Attestation, Use, Hardware Asset Managemen
 
 # Create an asset attestation in the Inventory view
 
-Create an [[asset-attestation-ham|asset attestation]] to validate whether the serialized hardware asset that's assigned to an employee is still in use.
+Create an asset attestation to validate whether the serialized hardware asset that's assigned to an employee is still in use.
 
 ## Before you begin
 
@@ -28,7 +28,7 @@ Only serialized hardware assets that belong to the opted-in resource categories 
 
 ## Procedure
 
-1.  Navigate to **Workspaces** &gt; **[[using-ham-workspace|Hardware Asset Workspace]]** &gt; **Inventory**.
+1.  Navigate to **Workspaces** &gt; **Hardware Asset Workspace** &gt; **Inventory**.
 
 2.  Select the **Asset attestations** tab.
 
@@ -94,7 +94,7 @@ Status of the asset attestation.
 
 </td></tr><tr><td>
 
-[[model-hierarchy|Model categories]]
+Model categories
 
 </td><td>
 
@@ -149,8 +149,3 @@ Comments related to asset attestation.
 
 **Parent Topic:**[Audit your hardware assets by using Asset Attestation](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/hardware-asset-management/audit-hardware-assets-attestation.md)
 
-## Related
-
-- [[asset-attestation-ham|Asset Attestation]]
-- [[using-ham-workspace|Hardware Asset Workspace]]
-- [[model-hierarchy|Model categories]]

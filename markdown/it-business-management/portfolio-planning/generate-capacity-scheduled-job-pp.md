@@ -25,17 +25,14 @@ Role required: admin
 
 1.  Navigate to **All** &gt; **System Definition** &gt; **Scheduled Jobs**.
 
-2.  Filter the name field to locate and open **[[manage-rsrc-cap-pp|Generate Resource Capacity]]**.
+2.  Filter the name field to locate and open **Generate Resource Capacity**.
 
 3.  Select **Active** option to activate the schedule job.
 
-4.  Edit the fields on the [[scheduled-script-execution-form-gf|Scheduled Script Execution form]] to customize the job and meet your requirements.
+4.  Edit the fields on the Scheduled Script Execution form to customize the job and meet your requirements.
 
     For more information about the field description and scripts, see [Automatically run a script of your choosing](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_ScheduleAScriptExecution.md#t_ScheduleScriptExecution).
 
 5.  Select **Execute Now** to execute the scheduled job or select **Update** to save your changes.
 
-## Related
 
-- [[manage-rsrc-cap-pp|Generate resource capacity]]
-- [[scheduled-script-execution-form-gf|Scheduled Script Execution form]]

@@ -12,17 +12,17 @@ breadcrumb: [Secrets Management dashboard, Secrets Management, Platform Security
 
 # Create a secret group with criteria
 
-[[client-access-example-3|Create a secret group with criteria]] to organize secrets entered in Password2 fields automatically when they share a common criteria, such as table, scope, or application.
+Create a secret group with criteria to organize secrets entered in Password2 fields automatically when they share a common criteria, such as table, scope, or application.
 
 ## Before you begin
 
 Role required: admin, KMF\_admin, sn\_secrets.secret\_manager, and sn\_kmf.cryptographic\_manager
 
-Secrets within this type of secret group must all share common criteria. For groups without this restriction, consider creating a basic secret group. Learn about creating a basic secret group in [[sm-create-basic-group|Create a basic secret group]].
+Secrets within this type of secret group must all share common criteria. For groups without this restriction, consider creating a basic secret group. Learn about creating a basic secret group in [Create a basic secret group](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-create-basic-group.md).
 
 ## Procedure
 
-1.  Navigate to **All** &gt; **[[secrets-management|Secrets Management]]** &gt; **Secret Groups**.
+1.  Navigate to **All** &gt; **Secrets Management** &gt; **Secret Groups**.
 
 2.  Select **New**.
 
@@ -97,10 +97,10 @@ Crypto Module
 
 </td><td>
 
-Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access [[ca-policies|policies]], see [Module access policy overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
+Select the cryptographic module to use with this group. This module encrypts and decrypts your data. This field is only visible when **Autogen Module** isn’t selected. For details on module access policies, see [Module access policy overview](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/platform-encryption/module_access_policy_overview.md) **Note:** You can review the module access policies related to your secret group using the **Manage instance access** button.
 
 </td></tr></tbody>
-</table>    **Note:** Depending on your [[sc-configuration|configuration]], the **Crypto Module** might use an automatically selected value.
+</table>    **Note:** Depending on your configuration, the **Crypto Module** might use an automatically selected value.
 
 <table id="table_fcy_p5g_2bc"><tbody><tr><td>
 
@@ -112,7 +112,7 @@ The **Crypto Module** field is empty and read-only. An existing Password2 submod
 
 </td></tr><tr><td>
 
-When the **Criterion Type** field is set to `Package`, and the **Autogen Module** field is deselected: \(The **Autogen Module** field can only be deselected by Enterprise [[users|users]]\)
+When the **Criterion Type** field is set to `Package`, and the **Autogen Module** field is deselected: \(The **Autogen Module** field can only be deselected by Enterprise users\)
 
 </td><td>
 
@@ -193,25 +193,13 @@ Value to filter by, based on the column selected in the **Filter Column** field.
 </table>
 ## An instance accessible group containing all email account passwords for an email server
 
-\[Omitted image "secret-group-example.png"\] Alt text: Group containing all [[email|email]] account passwords for a specific email server
+\[Omitted image "secret-group-example.png"\] Alt text: Group containing all email account passwords for a specific email server
 
 ## What to do next
 
-After creating your group, any new records matching the criteria will be encrypted. To encrypt existing records using this group's cryptographic module, you must run a security job. For details, see [[sm-security-jobs|Run Secrets Management security jobs]].
+After creating your group, any new records matching the criteria will be encrypted. To encrypt existing records using this group's cryptographic module, you must run a security job. For details, see [Run Secrets Management security jobs](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-security-jobs.md).
 
-Client-accessible groups need a customer-provided public key to encrypt your secrets. For steps on uploading this key, see [[sm-upload-key|Upload a public key for Secrets Management]].
+Client-accessible groups need a customer-provided public key to encrypt your secrets. For steps on uploading this key, see [Upload a public key for Secrets Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/sm-upload-key.md).
 
-**Parent Topic:**[[secrets-dashboard|Secrets Management dashboard]]
+**Parent Topic:**[Secrets Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-security/secrets-dashboard.md)
 
-## Related
-
-- [[sm-create-basic-group|Create a basic secret group]]
-- [[sm-security-jobs|Run Secrets Management security jobs]]
-- [[sm-upload-key|Upload a public key for Secrets Management]]
-- [[secrets-dashboard|Secrets Management dashboard]]
-- [[client-access-example-3|Create a secret group with criteria]]
-- [[secrets-management|Secrets Management]]
-- [[ca-policies|Policies]]
-- [[sc-configuration|Configuration]]
-- [[users|Users]]
-- [[email|Email]]

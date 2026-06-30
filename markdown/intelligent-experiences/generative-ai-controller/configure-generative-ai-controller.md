@@ -14,7 +14,7 @@ breadcrumb: [Generative AI Controller, Now Assist, Enable AI experiences]
 
 # Configuring Generative AI Controller
 
-Configure [[generative-ai-controller|Generative AI Controller]] providers and capabilities.
+Configure Generative AI Controller providers and capabilities.
 
 ## Configuration overview
 
@@ -33,7 +33,7 @@ Generative AI Controller enables you to choose between several AI providers or a
 
 -   **[Configure a generic LLM connector](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-a-generic-llm-connector.md)**
 
-    Set up an external LLM to use generative AI capabilities to add finer control over [[ai-prompts|prompts]] and transformer scripts.
+    Set up an external LLM to use generative AI capabilities to add finer control over prompts and transformer scripts.
 
 -   **[Configure an AI service provider for a capability](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/generative-ai-controller/configure-a-provider-for-a-generative-ai-capability.md)**
 
@@ -51,7 +51,4 @@ Generative AI Controller enables you to choose between several AI providers or a
 
     Use Dynamic Translation for in-product generative AI capabilities to support users who speak different languages.
 
-## Related
 
-- [[generative-ai-controller|Generative AI Controller]]
-- [[ai-prompts|Prompts]]

@@ -14,11 +14,11 @@ breadcrumb: [Set up workforce, Configure, Field Service Management]
 
 # Configuring Field Service Territory Planning
 
-[[territory-planning-fsm|Field Service Territory Planning]] identifies the best matched territory for a work order task based on conditions that you set. You can then assign tasks to the individual agent or group best positioned to execute a service call based on the associated territories.
+Field Service Territory Planning identifies the best matched territory for a work order task based on conditions that you set. You can then assign tasks to the individual agent or group best positioned to execute a service call based on the associated territories.
 
 ## Configuration overview
 
-As a territory planner, you can configure and use territories in [[fsm-application-landing-page|Field Service Management]] through the following procedures:
+As a territory planner, you can configure and use territories in Field Service Management through the following procedures:
 
 1.  [Activate Field Service Territory Planning](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/workforce-optimization-for-field-service/Activate-fsm-territory-planning.md)
 
@@ -36,21 +36,14 @@ As a territory planner, you can configure and use territories in [[fsm-applicati
 
     Enable the Field Service Management territory model to keep a record of territories and their associated resources, such as dispatch groups, assignment groups, and qualification groups.
 
-5.  [[territory-planning-components-fsm|Field Service Territory Planning console properties]]Use the territory planning components and properties to customize workflow based on your requirements.
+5.  [Field Service Territory Planning console properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-components-fsm.md)Use the territory planning components and properties to customize workflow based on your requirements.
 
-For more information about setting up Territory planning in the CSM/FSM Configurable workspace, see [[configuring-territory-planning-fsm-workspace|Configuring Field Service Territory Planning Console]].
+For more information about setting up Territory planning in the CSM/FSM Configurable workspace, see [Configuring Field Service Territory Planning Console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/configuring-territory-planning-fsm-workspace.md).
 
 **Related topics**  
 
 
 [Managing territories and agents from Territory Planning console](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/field-service-manager-workforce/using-territory-planning-console.md)
 
-[[territory-planning-dashboard|Field Service Territory Performance Analytics dashboard]]
+[Field Service Territory Performance Analytics dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/territory-planning-dashboard.md)
 
-## Related
-
-- [[territory-planning-components-fsm|Field Service Territory Planning components]]
-- [[configuring-territory-planning-fsm-workspace|Configuring Field Service Territory Planning Console]]
-- [[territory-planning-dashboard|Field Service Territory Performance Analytics dashboard]]
-- [[territory-planning-fsm|Field Service Territory Planning]]
-- [[fsm-application-landing-page|Field Service Management]]

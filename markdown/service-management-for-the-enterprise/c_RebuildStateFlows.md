@@ -18,8 +18,5 @@ When you use an XML file to import a state flow record into an instance, the sys
 
 When matching fails, the start and end states of affected records are left blank or contain numeric values. To repair these records navigate to **State Flows** &gt; **Admin** &gt; **Rebuild State Flows**. This module runs a script that compares the numerical value of each item in the **State** field choice list until it finds a match in the imported state flow record.
 
-**Parent Topic:**[[c_StateFlowCustomization|State flow customization]]
+**Parent Topic:**[State flow customization](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/service-management-for-the-enterprise/c_StateFlowCustomization.md)
 
-## Related
-
-- [[c_StateFlowCustomization|State flow customization]]

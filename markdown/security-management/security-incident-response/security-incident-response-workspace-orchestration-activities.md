@@ -14,10 +14,10 @@ breadcrumb: [Working with Security Incident Records, Use, Security Incident Resp
 
 # SIR Workspace Orchestration
 
-[[sir-workspace-landing-page|Security Incident Response Workspace]] orchestration activities will help the security analysts to view the investigation canvas and perform various actions that are applicable.
+Security Incident Response Workspace orchestration activities will help the security analysts to view the investigation canvas and perform various actions that are applicable.
 
 -   **[SIR Workspace Investigation Canvas](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-investigation-canvas.md)**  
-Security Incident Response Workspace allows the Security Analysts to view the key information associated with the security incident during the incident remediation process. The key information also includes the related lists such as [[c_Observables|Observables]], [[tisc-threat-lookup|Threat Lookup]] Results, Sighting Search, [[tisc-observable-enrichment|Observable Enrichment]], and so on.
+Security Incident Response Workspace allows the Security Analysts to view the key information associated with the security incident during the incident remediation process. The key information also includes the related lists such as Observables, Threat Lookup Results, Sighting Search, Observable Enrichment, and so on.
 -   **[Unified experience framework for integrations powered by Capability Framework](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/security-incident-response-workspace-capability-framework.md)**  
 In the classic UI, the experience is disjointed when performing orchestration activities such as running threat look, performing sighting search, and so on. Each capability has its own experience while executing it. In the new workspace, there is unified experience across all capabilities.
 
@@ -50,9 +50,3 @@ In the classic UI, the experience is disjointed when performing orchestration ac
 
 [View and filter the incident timeline]()
 
-## Related
-
-- [[sir-workspace-landing-page|Security Incident Response Workspace]]
-- [[c_Observables|Observables]]
-- [[tisc-threat-lookup|Threat Lookup]]
-- [[tisc-observable-enrichment|Observable Enrichment]]

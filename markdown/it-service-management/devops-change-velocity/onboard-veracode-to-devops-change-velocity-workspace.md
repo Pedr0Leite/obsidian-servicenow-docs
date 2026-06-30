@@ -46,7 +46,7 @@ Steps
 
 </td></tr><tr><td id="d285925e129">
 
-**[[dex-workspace-application-tab|Applications]] module**
+**Applications module**
 
 </td><td>
 
@@ -139,6 +139,3 @@ Steps
 
 **Parent Topic:**[Veracode integration with DevOps Change Velocity](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-service-management/devops-change-velocity/veracode-integration-with-devops-change-velocity.md)
 
-## Related
-
-- [[dex-workspace-application-tab|Applications]]

@@ -16,7 +16,7 @@ The Address \(Simple\) field type provides real-time address suggestions as you 
 
 You can add the Address \(Simple\) field type to any form in both Core UI and Workspace experiences. When a user enters text in the Address field, closely matched addresses appear for selection. It helps you add accurate addresses without manual entry errors.
 
-The Address \(Simple\) field type uses an external address suggestions API to retrieve matching addresses for suggestion. The following [[r_SetArchiveRuleProcessingBehavior|system properties]] control the API connection:
+The Address \(Simple\) field type uses an external address suggestions API to retrieve matching addresses for suggestion. The following system properties control the API connection:
 
 |Property|Description|
 |--------|-----------|
@@ -31,14 +31,10 @@ To configure the Address field to a form, complete the following setup:
 
 1.  Add the Address \(Simple\) field to a table to store and display data.
 
-    For more information, see [[t_CreatingNewFields|Add and customize a field in a table]].
+    For more information, see [Add and customize a field in a table](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/t_CreatingNewFields.md).
 
 2.  Configure the address suggestions API in system properties.
 
-    For more information, see [[configure-address-suggestion-properties|Configure address suggestion properties]].
+    For more information, see [Configure address suggestion properties](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/configure-address-suggestion-properties.md).
 
-## Related
 
-- [[t_CreatingNewFields|Add and customize a field in a table]]
-- [[configure-address-suggestion-properties|Configure address suggestion properties]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]

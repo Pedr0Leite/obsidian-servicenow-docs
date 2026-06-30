@@ -22,7 +22,7 @@ Table cleaner rules enable you to manage data growth in tables and prevent them 
 
 ## Accessing table cleaner rules
 
-You can define and access table cleanup rules for a table by navigating to **All** &gt; **System [[c_DataManagement|Data Management]]** &gt; **Data Management Policies** and selecting the data management policy for the table.
+You can define and access table cleanup rules for a table by navigating to **All** &gt; **System Data Management** &gt; **Data Management Policies** and selecting the data management policy for the table.
 
 ## Use cases
 
@@ -34,9 +34,5 @@ You can define and access table cleanup rules for a table by navigating to **All
     -   Ci Analytics \[sys\_ci\_analytics\]
 -   Conversation-related tables can increase in size and end up affecting system performance. Limit data growth by cleaning records in tables related to Advanced Work Assignment. See .
 
-For information on using table cleaner, see [[deleting-older-records|Deleting older or unwanted records in Core UI]].
+For information on using table cleaner, see [Deleting older or unwanted records in Core UI](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/deleting-older-records.md).
 
-## Related
-
-- [[deleting-older-records|Deleting older or unwanted records in Core UI]]
-- [[c_DataManagement|Data Management]]

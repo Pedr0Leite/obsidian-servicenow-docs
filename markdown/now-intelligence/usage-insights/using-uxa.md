@@ -18,22 +18,22 @@ Monitor how users interact in your ServiceNow  web and mobile applications.
 
 ## Get started
 
-Learn how you can use [[user-exp-analytics-landing|Usage Insights]] to track retention, cohorts, and conversion rates, and to interpret how users navigate your applications.
+Learn how you can use Usage Insights to track retention, cohorts, and conversion rates, and to interpret how users navigate your applications.
 
 **Note:** When you download raw data from Usage Insights, keep in mind that the internal schema structure can vary between product versions.
 
 -   **[Filter data in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/filter-user-list.md)**  
 Drill down into usage data with standard and custom filters.
 -   **[User retention](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/view-retention-analytics.md)**  
-[[view-retention-analytics|User retention]] reports help you understand how often your users visit your application to better understand if it meets your users' needs and expectations.
+User retention reports help you understand how often your users visit your application to better understand if it meets your users' needs and expectations.
 -   **[Cohort analysis in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-cohorts.md)**  
 A cohort is a group of users separated from other users by similar traits or actions. Cohorts enable you to group users together based on common behavior to analyze how many users complete certain predetermined actions in a given time frame.
 -   **[Funnel reports in Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/funnel-reports-uxa.md)**  
 Conversion funnels serve as visual representations of the customer journey, tracking a specific sequence of actions. Investigating a conversion funnel can help you measure and optimize the completion rates of relevant processes within your application.
 -   **[Navigation paths](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/view-navigation-paths.md)**  
-[[view-navigation-paths|Navigation paths]] enable you to quickly understand and isolate users' journeys through your web or mobile application. Assess the most and least common navigation paths your users take and how you can improve them.
+Navigation paths enable you to quickly understand and isolate users' journeys through your web or mobile application. Assess the most and least common navigation paths your users take and how you can improve them.
 -   **[Viewing dashboards](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/uxa-dashboards.md)**  
-Create dashboards for [[c_performanceAnalyticsAndReporting|Platform Analytics]] directly in Usage Insights. View dashboards that you create in Usage Insights directly in Platform Analytics.
+Create dashboards for Platform Analytics directly in Usage Insights. View dashboards that you create in Usage Insights directly in Platform Analytics.
 -   **[Creating custom events](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/tagged-events.md)**  
 Instrument trackable click-action events of your choice directly in the UI with no coding necessary. Tag DOM elements in Service Portal, Next Experience, CoreUI applications. Or derive new custom events from existing active events.
 -   **[Viewing user analytics](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/viewing-user-data.md)**  
@@ -51,9 +51,3 @@ Use the utility icon for quick, in-context page usage metrics, offering faster a
 
 **Parent Topic:**[Usage Insights](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/usage-insights/user-exp-analytics-landing.md)
 
-## Related
-
-- [[user-exp-analytics-landing|Usage Insights]]
-- [[view-retention-analytics|User retention]]
-- [[view-navigation-paths|Navigation paths]]
-- [[c_performanceAnalyticsAndReporting|Platform Analytics]]

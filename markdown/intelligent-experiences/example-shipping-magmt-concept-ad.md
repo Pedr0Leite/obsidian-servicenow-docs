@@ -12,11 +12,11 @@ breadcrumb: [Desktop action examples, AI Desktop Actions, Enable AI experiences]
 
 # Example: Automate shipping management tasks using AI Desktop Actions
 
-Automate various tasks related to shipping management through desktop actions using [[agentic-desktop-landing-page|AI Desktop Actions]] and AI agents.
+Automate various tasks related to shipping management through desktop actions using AI Desktop Actions and AI agents.
 
 Your shipping coordinators frequently handle repetitive data-entry tasks. For example, entering PO numbers, invoice details, customer information, shipping addresses, item dimensions, and weights from Excel into the Shipping Management application on their desktops. When there are dozens of rows to process, it becomes time-consuming, error-prone, and significantly slows down their daily workflow.
 
-To streamline this process, you can create a dedicated desktop action that reads each row from the Excel file and automatically inputs the data into the Shipping Management application. You can then assign this action to an AI Agent. When new shipping batches arrive, shipping coordinators simply trigger the AI Agent from the [[now-assist-center-now-assist-panel|Now Assist panel]]. The agent then automatically processes each line item by selecting and running the appropriate desktop action.
+To streamline this process, you can create a dedicated desktop action that reads each row from the Excel file and automatically inputs the data into the Shipping Management application. You can then assign this action to an AI Agent. When new shipping batches arrive, shipping coordinators simply trigger the AI Agent from the Now Assist panel. The agent then automatically processes each line item by selecting and running the appropriate desktop action.
 
 ## Create Process shipping orders desktop action in AI Desktop Actions
 
@@ -26,8 +26,8 @@ Automate various tasks related to shipping management through desktop actions in
 
 To access the AI Desktop Actions functionality, perform the following steps:
 
--   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [[configure-agentic-desktop|Configure AI Desktop Actions]].
--   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [[download-agentic-desktop-installer|Download AI Desktop Actions installer]].
+-   Enable AI Desktop Actions on your ServiceNow instance. For more information, see [Configure AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-agentic-desktop.md).
+-   Download the AI Desktop Actions installer to automate repetitive tasks across applications and systems. For more information, see [Download AI Desktop Actions installer](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/download-agentic-desktop-installer.md).
 
 Confirm that the following system requirements are met:
 
@@ -36,7 +36,7 @@ Confirm that the following system requirements are met:
 -   No extended monitors are connected.
 -   Theme must match between the systems used for recording and execution.
 
-Familiarize yourself with the Design workspace and Action recorder. For more information, see [[agentic-desktop-overview|AI Desktop Actions Design workspace]] and [[action-recorder-ad|Action recorder in AI Desktop Actions]].
+Familiarize yourself with the Design workspace and Action recorder. For more information, see [AI Desktop Actions Design workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/agentic-desktop-overview.md) and [Action recorder in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/action-recorder-ad.md).
 
 Role required: sn\_aia.admin
 
@@ -64,7 +64,7 @@ Role required: sn\_aia.admin
 
     If you launch the AI Desktop Actions for the first time, the onboarding journey widget appears. You can select **Don't show me again** to hide the widget the next time you launch AI Desktop Actions or **Skip intro** to skip the onboarding.
 
-6.  On the AI Desktop Actions [[now-assist-center-home-page|home page]], select an existing desktop action.
+6.  On the AI Desktop Actions home page, select an existing desktop action.
 
     \[Omitted image "home-page-actions-ad.png"\] Alt text: AI Desktop Actions home page displaying the Create desktop action UI action, search and select options, and cards of existing desktop actions.
 
@@ -80,7 +80,7 @@ Role required: sn\_aia.admin
 
         \[Omitted image "design-tab-manual-ad.png"\] Alt text: Design workspace displaying two options: Auto-capture with recorder and Manual capture screens.
 
-        You can also extend the desktop action logic using the **Record with AI \(Recommended\)** or **Auto capture with recorder** options. For more information, see [[record-with-ai-ad|Automate repetitive tasks by recording steps with AI in AI Desktop Actions]] and [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]].
+        You can also extend the desktop action logic using the **Record with AI \(Recommended\)** or **Auto capture with recorder** options. For more information, see [Automate repetitive tasks by recording steps with AI in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/record-with-ai-ad.md) and [Automate repetitive tasks by auto-capturing steps in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/auto-create-desktop-action-ad.md).
 
         The AI Desktop Actions window is minimized and the Capture panel is launched.
 
@@ -145,7 +145,7 @@ Role required: sn\_aia.admin
 
 10. Configure the properties for added screens, anchors, and steps in the Properties panel.
 
-    For more information, see [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]].
+    For more information, see [Screen, anchor, and step properties in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/screen-anchor-and-action-properties-ad.md).
 
 11. Modify the auto-generated names for all added screens, anchors, and steps.
 
@@ -165,14 +165,14 @@ Role required: sn\_aia.admin
 
 15. Test and activate the desktop action.
 
-    For more information, see [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]].
+    For more information, see [Test and activate a desktop action in AI Desktop Actions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-activate-desktop-action-ad.md).
 
 16. Similarly, create and activate the **Shipping Management login** desktop action.
 
 
 ## Create AI agents and add tools for shipping orders
 
-Create an AI agent in [[ai-agent-studio|AI Agent Studio]] and add desktop action tools for Shipping Management task automation.
+Create an AI agent in AI Agent Studio and add desktop action tools for Shipping Management task automation.
 
 ### Before you begin
 
@@ -301,11 +301,11 @@ List of steps
 
 6.  Complete the remaining steps that are necessary.
 
-    For more information, see [[configure-next-best-action-agent|Create an AI agent]].
+    For more information, see [Create an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/configure-next-best-action-agent.md).
 
 7.  Select **Save and test** to complete the configuration steps or review a previous step by selecting **Back**.
 
-    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [[test-ai-agent|Manually test the execution of an AI agent]].
+    Selecting Save and test leads you to the AI agent testing page, where you can test the AI agent that you created. For more information, see [Manually test the execution of an AI agent](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/test-ai-agent.md).
 
     To test the AI agent, you must have the sn\_aia.admin role and any roles the ACLs configured for the AI agent and its tools require, if applicable.
 
@@ -314,22 +314,5 @@ List of steps
 
 Enable shipping coordinators to trigger AI agents from the Now Assist panel to enter data automatically into the Shipping Management application.
 
-For more information, see [[example-use-shipping-ai-agent-ad|Example: Use AI agents to automatically enter data into the shipping management app]].
+For more information, see [Example: Use AI agents to automatically enter data into the shipping management app](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/example-use-shipping-ai-agent-ad.md).
 
-## Related
-
-- [[configure-agentic-desktop|configure agentic desktop]]
-- [[download-agentic-desktop-installer|Download AI Desktop Actions installer]]
-- [[agentic-desktop-overview|AI Desktop Actions Design workspace]]
-- [[action-recorder-ad|Action recorder in AI Desktop Actions]]
-- [[record-with-ai-ad|Automate repetitive tasks by recording steps with AI in AI Desktop Actions]]
-- [[auto-create-desktop-action-ad|Automate repetitive tasks by auto-capturing steps in AI Desktop Actions]]
-- [[screen-anchor-and-action-properties-ad|Screen, anchor, and step properties in AI Desktop Actions]]
-- [[test-activate-desktop-action-ad|Test and activate a desktop action in AI Desktop Actions]]
-- [[configure-next-best-action-agent|Create an AI agent]]
-- [[test-ai-agent|Manually test the execution of an AI agent]]
-- [[example-use-shipping-ai-agent-ad|example use shipping ai agent ad]]
-- [[agentic-desktop-landing-page|AI Desktop Actions]]
-- [[now-assist-center-now-assist-panel|Now Assist panel]]
-- [[now-assist-center-home-page|Home page]]
-- [[ai-agent-studio|AI Agent Studio]]

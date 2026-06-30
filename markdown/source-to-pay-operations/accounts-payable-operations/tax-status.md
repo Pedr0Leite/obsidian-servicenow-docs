@@ -24,8 +24,8 @@ The following table displays the tax status \[tax\_status\] fields in the invoic
 |-----|-----------|
 |Invoice table|
 |In progress|Tax calculation request sent to third party tax engine and awaiting response.|
-|Failed|Tax calculation failed due to [[tax-engine-integration|tax engine integration]] failure.|
-|Success|Tax calculation completed and [[create-tax-lines-apo|tax lines]] created successfully.|
+|Failed|Tax calculation failed due to tax engine integration failure.|
+|Success|Tax calculation completed and tax lines created successfully.|
 |Integration error|Tax engine connectivity or communication failure occurred.|
 |Recalculate tax|Invoice header or invoice line needs field changes, invoice tax status changes to recalculate tax. The invoice is sent for tax revalidation manually or through scheduler.|
 
@@ -33,7 +33,3 @@ For more information on using tax status, see [Tax Engine Integration](https://r
 
 **Parent Topic:**[Tax lines](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/source-to-pay-operations/accounts-payable-operations/create-tax-lines-apo.md)
 
-## Related
-
-- [[tax-engine-integration|Tax Engine Integration]]
-- [[create-tax-lines-apo|Tax lines]]

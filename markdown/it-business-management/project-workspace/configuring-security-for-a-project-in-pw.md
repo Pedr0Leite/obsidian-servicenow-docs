@@ -16,12 +16,12 @@ breadcrumb: [Configuring Project Workspace, Project Workspace, Project Portfolio
 
 Configure security in a project to make the project confidential to ensure that only the authorized users can access the project and its sub projects and related entities.
 
-You can make sensitive projects visible and accessible only to specified users and user groups. The security settings applied to a project also apply to sub projects, [[form-field-information-for-dw|forms]], and related entities of the project, ensuring that all project-related data remains protected and accessible only to the authorized personnel.
+You can make sensitive projects visible and accessible only to specified users and user groups. The security settings applied to a project also apply to sub projects, forms, and related entities of the project, ensuring that all project-related data remains protected and accessible only to the authorized personnel.
 
 To enable these advanced security features, you need to install the Project Advanced Security plugin. The plugin requires the PPM Standard plugin as a prerequisite.
 
 -   **[Activate the Project Advanced Security plugin](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/activate-the-project-advanced-security-plugin.md)**  
-[[activate-the-project-advanced-security-plugin|Activate the Project Advanced Security plugin]] to enable project security settings on a project.
+Activate the Project Advanced Security plugin to enable project security settings on a project.
 -   **[Enable security for a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-security-for-a-project-in-project-workspace.md)**  
 Enable security in a project to make the project confidential to ensure that only authorized users can access the project and its related sub projects and entities.
 
@@ -34,7 +34,3 @@ Enable security in a project to make the project confidential to ensure that onl
 
 [Enable security for a project in Project Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-business-management/project-workspace/enable-security-for-a-project-in-project-workspace.md)
 
-## Related
-
-- [[form-field-information-for-dw|Forms]]
-- [[activate-the-project-advanced-security-plugin|Activate the Project Advanced Security plugin]]

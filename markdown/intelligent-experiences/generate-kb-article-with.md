@@ -52,8 +52,5 @@ Role required: admin
     Using the Now Assist Context Menu open prompt inline and pop-over variant you can quickly produce high-quality, accurate, and lucid knowledge articles, saving time and improving support in Knowledge Management.
 
 
-**Parent Topic:**[[now-assist-write-overview|Now Assist context menu]]
+**Parent Topic:**[Now Assist context menu](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/intelligent-experiences/now-assist-write-overview.md)
 
-## Related
-
-- [[now-assist-write-overview|Now Assist context menu]]

@@ -20,9 +20,9 @@ Configure rules for how numerical values are displayed in single score reports, 
 
 Role required: itil, report\_user, report\_group, report\_global, report\_admin, or admin.
 
-This task is part of configuring the style options of a [[c_SingleScoreCharts|single score report]].
+This task is part of configuring the style options of a single score report.
 
-See [[dv-example-single-score|Single score data visualization example]] for example steps to implement a coloring rule.
+See [Single score data visualization example](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/dv-example-single-score.md) for example steps to implement a coloring rule.
 
 ## Procedure
 
@@ -96,7 +96,3 @@ The colors you specify in the rules apply to the single score report that you’
 
 **Parent Topic:**[Administering reports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/now-intelligence/reporting/c_AdminsteringReports.md)
 
-## Related
-
-- [[dv-example-single-score|Single score data visualization example]]
-- [[c_SingleScoreCharts|Single score report]]

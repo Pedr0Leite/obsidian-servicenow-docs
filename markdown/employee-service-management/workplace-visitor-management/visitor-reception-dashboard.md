@@ -16,13 +16,13 @@ breadcrumb: [Analytics and Reporting, Workplace Visitor Management, Workplace Se
 
 With the Visitor Reception Dashboard, you can track visitor registrations created in the application on any day. Track the statuses of visitors who are on the premises. View the number of visitors who are expected, have checked in, have checked out, are on break, or have not showed up.
 
-**Note:** The [[workplace-visitor-mgmt-feat|Workplace Visitor Management]] dashboard is migrated to [[workplace-central-feat|Workplace Central]]. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central. Old dashboards are not supported for new [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]] customers. For existing customers, old dashboards are currently available but will be deprecated soon.
+**Note:** The Workplace Visitor Management dashboard is migrated to Workplace Central. You can start using the migrated dashboards from Workplace Central. The out-of-the-box dashboards are also migrated to Workplace Central. Old dashboards are not supported for new Workplace Service Delivery customers. For existing customers, old dashboards are currently available but will be deprecated soon.
 
 For more information about the migrated dashboard, see [Reservation Management dashboard](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/workplace-reservation-management/reservation-management-dashboard.md).
 
 \[Omitted image "visitor-reception-dashboard.png"\] Alt text: Visitor Reception Dashboard
 
-To access the Visitor Reception Dashboard, navigate to **All** &gt; **Workplace Central** &gt; **[[workplace-dashboards-wsd-core|Workplace Dashboards]]**.
+To access the Visitor Reception Dashboard, navigate to **All** &gt; **Workplace Central** &gt; **Workplace Dashboards**.
 
 Select a location in the **Visiting Location** field at the top to display reports for that location in separate tabs.
 
@@ -86,9 +86,3 @@ The Visitor reception dashboard allows you to view the following visualizations.
 
 [View visit logs]()
 
-## Related
-
-- [[workplace-visitor-mgmt-feat|Workplace Visitor Management]]
-- [[workplace-central-feat|Workplace Central]]
-- [[workplace-service-delivery-suite-landing-page|Workplace Service Delivery]]
-- [[workplace-dashboards-wsd-core|Workplace dashboards]]

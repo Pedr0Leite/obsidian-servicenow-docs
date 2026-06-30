@@ -14,7 +14,7 @@ breadcrumb: [Bulk imports, Use, Employee Document Management, HR Documents, HR S
 
 # Bulk import map examples
 
-Mapping your source employee documents to required elements in [[hr-employee-doc-management|Employee Document Management]] is crucial for a successful bulk import.
+Mapping your source employee documents to required elements in Employee Document Management is crucial for a successful bulk import.
 
 This topic provides examples on how to map your source employee documents to the required elements in Employee Document Management. The values provided are examples designed to guide you through the import map configuration.
 
@@ -496,6 +496,3 @@ When a connection to your source repository is confirmed and import maps are set
 
 **Parent Topic:**[Employee document management bulk imports](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/employee-document-management/edm-bulk-uploads.md)
 
-## Related
-
-- [[hr-employee-doc-management|Employee Document Management]]

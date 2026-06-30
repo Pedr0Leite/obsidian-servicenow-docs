@@ -14,7 +14,7 @@ breadcrumb: [Mapping, Create an alarm profile, LogRhythm Overview, Security Inci
 
 # Map LogRhythm alarm fields to security incident fields
 
-You map individual alarm fields to the security incident fields. The preconfigured [[mapping-logrhythm|mapping]] can be edited, and color coding provided for the fields helps you monitor alarms you have already mapped. This step helps you visualize how your edits impact the fields on the security incident.
+You map individual alarm fields to the security incident fields. The preconfigured mapping can be edited, and color coding provided for the fields helps you monitor alarms you have already mapped. This step helps you visualize how your edits impact the fields on the security incident.
 
 ## Before you begin
 
@@ -32,7 +32,7 @@ On the left side of this form in the following figure, the LogRhythm alarm rules
 
 ## Procedure
 
-1.  After [[create-alarm-profile-logrhythm|creating an alarm profile for LogRhythm]], click **Mapping** on the progress bar.
+1.  After creating an alarm profile for LogRhythm, click **Mapping** on the progress bar.
 
 2.  In the **Alarm Sample Ingestion** field, enter up to five sample LogRhythm Alarm IDs separated by commas \(`9468,9474`\).
 
@@ -52,7 +52,7 @@ On the left side of this form in the following figure, the LogRhythm alarm rules
 
     To help you ensure that no alarms are overlooked or duplicated in the mapping process, alarm fields are color-coded. A light blue alarm field \(`Account`, `AlarmRuleID`, `AlarmStatus`, etc.\) indicates that a field is not yet selected for mapping to a security incident.
 
-    A gray field \(`AlarmDate`, `AlarmID`, and `AlarmRuleName`\) indicates that a field has already been selected and has been mapped to a field on the security incident. This color coding helps you track the mapping, because in certain cases, an alarm field can be mapped to more than one field on a security incident. For instance, the `[[c_Observables|Observables]]` and `Work Note` fields can have more than one value.
+    A gray field \(`AlarmDate`, `AlarmID`, and `AlarmRuleName`\) indicates that a field has already been selected and has been mapped to a field on the security incident. This color coding helps you track the mapping, because in certain cases, an alarm field can be mapped to more than one field on a security incident. For instance, the `Observables` and `Work Note` fields can have more than one value.
 
 4.  To clear the sample alarm data, click **Clear Sample Alarm Data**.
 
@@ -99,8 +99,3 @@ After you complete the field mapping, the next step is to [Filter alarms for Log
 
 **Parent Topic:**[Mapping](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/security-management/security-incident-response/mapping-logrhythm.md)
 
-## Related
-
-- [[mapping-logrhythm|Mapping]]
-- [[create-alarm-profile-logrhythm|Creating an alarm profile for LogRhythm]]
-- [[c_Observables|Observables]]

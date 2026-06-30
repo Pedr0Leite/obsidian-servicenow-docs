@@ -22,7 +22,7 @@ Picklist extensions \(PLEs\) are a powerful way for administrators to display as
 -   Do not use inclusion rules for PLEs. PLE filtering works like inclusion rules, so in order to remove further options, the user should use exclusion rules.
 -   **Contains** and **Equals** act differently on multi-select picklists. `Array.includes()` and `==` also act differently.
 
-For information about rules, including inclusion and exclusion rules, see [[rules_101|Rules]].
+For information about rules, including inclusion and exclusion rules, see [Rules](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/rules_101.md).
 
 ## Simple rules
 
@@ -33,7 +33,7 @@ If you are using selections in a PLE to drive actions, make sure to note the dif
 -   Equals checks whether the selection in the PLE exactly matches the condition’s value.
     -   It can be used with both single-select and multi-select picklists, but it is recommended to be used with single-select PLEs since it is the closest to what users usually imagine the functionality would be.
     -   If you are using a multi-select in the condition, if the user makes multiple selections, the condition will not be met if using equals.
--   Contains checks whether the selection in the PLE includes the value described. This is the recommended operator for multi-select PLE [[fields|fields]].
+-   Contains checks whether the selection in the PLE includes the value described. This is the recommended operator for multi-select PLE fields.
 
 For example: A user creates a multi-select picklist field with four options.
 
@@ -95,16 +95,9 @@ For other manipulations with the multi-select picklist array in advanced functio
 
 ## Additional reading
 
-For an overview of the picklist extension feature, see [[cpq-picklist-extensions-ples|Picklist extensions]].
+For an overview of the picklist extension feature, see [Picklist extensions](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/cpq-picklist-extensions-ples.md).
 
-For a deeper understanding of the back end and how to display PLEs, see [[csv_layouts_how_do_i_display_a_picklist_extension|Displaying a picklist extension on a layout]].
+For a deeper understanding of the back end and how to display PLEs, see [Displaying a picklist extension on a layout](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/csv_layouts_how_do_i_display_a_picklist_extension.md).
 
-For an overview of the Picklist Extension Pricing enrichment feature, see [[picklist-extension-pricing-scripts|The Picklist Extension Pricing enrichment]].
+For an overview of the Picklist Extension Pricing enrichment feature, see [The Picklist Extension Pricing enrichment](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/order-management/picklist-extension-pricing-scripts.md).
 
-## Related
-
-- [[rules_101|Rules]]
-- [[cpq-picklist-extensions-ples|Picklist extensions]]
-- [[csv_layouts_how_do_i_display_a_picklist_extension|Displaying a picklist extension on a layout]]
-- [[picklist-extension-pricing-scripts|The Picklist Extension Pricing enrichment]]
-- [[fields|Fields]]

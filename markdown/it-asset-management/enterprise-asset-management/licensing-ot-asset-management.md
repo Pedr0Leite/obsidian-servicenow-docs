@@ -14,9 +14,9 @@ breadcrumb: [OT Asset Management, Industry-specific EAM solutions, Enterprise As
 
 # OT Asset Management licensing
 
-The ServiceNow® platform uses a licensing method where your organization is charged for using the [[ot-asset-management|OT Asset Management]] application. In this licensing model, all assets of the Industrial and Hardwaremodel categories are charged based on the Subscription unit ratio.
+The ServiceNow® platform uses a licensing method where your organization is charged for using the OT Asset Management application. In this licensing model, all assets of the Industrial and Hardwaremodel categories are charged based on the Subscription unit ratio.
 
-The ServiceNow® OT Asset Management licensing is based on resource categories. A resource category is a group of related [[model-hierarchy|model categories]]. The OT Asset Management application supports some default resource categories. These resource categories enable assets of the Industrial and Hardwaremodel categories to use the features and workflows of the OT Asset Management application. Any asset of the Industrial and Hardwaremodel category is counted toward a Subscription Unit based on the predefined ratio of number of assets to subscription units.
+The ServiceNow® OT Asset Management licensing is based on resource categories. A resource category is a group of related model categories. The OT Asset Management application supports some default resource categories. These resource categories enable assets of the Industrial and Hardwaremodel categories to use the features and workflows of the OT Asset Management application. Any asset of the Industrial and Hardwaremodel category is counted toward a Subscription Unit based on the predefined ratio of number of assets to subscription units.
 
 When you create a custom model category with a licensable Industrial or Hardwaremodel category as its parent, the custom model category is automatically associated with the resource category of the parent model category. Based on the resource category, the assets of these custom model categories are licensed and counted toward a Subscription Unit.
 
@@ -237,7 +237,7 @@ OT Unclassified Hardware
 Hardware
 
 </td></tr></tbody>
-</table>The Subscription unit ratio is the ratio of the number of assets to the number of subscription units. For example, the subscription unit ratio of Industrial Consumable is 25:1, where 25 assets require a single unit of license. If 1 license costs $100, then 25 industrial [[c_ReceiveAConsumableAsset|consumable assets]] cost $100 and 50 industrial consumable assets cost $200.
+</table>The Subscription unit ratio is the ratio of the number of assets to the number of subscription units. For example, the subscription unit ratio of Industrial Consumable is 25:1, where 25 assets require a single unit of license. If 1 license costs $100, then 25 industrial consumable assets cost $100 and 50 industrial consumable assets cost $200.
 
 You can view the subscription details of your OT Asset Management application using the ITAM License Report. For more details, see [View the license report for the OT Asset Management application](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-asset-management/enterprise-asset-management/view-license-report-otam.md).
 
@@ -249,7 +249,7 @@ In the OT Asset Management licensing model, only hardware assets with the **OT e
 
 **Note:** Non-OT Hardware assets with the **OT entity** flag set to **false** can't use the features and workflows of the OT Asset Management application even if you have installed the application. The non-OT hardware assets aren't licensed under OT Asset Management.
 
-The [[ham-landing-page|Hardware Asset Management]] \(HAM\) licensing model includes default resource categories equivalent to the hardware resource categories of OT Asset Management.
+The Hardware Asset Management \(HAM\) licensing model includes default resource categories equivalent to the hardware resource categories of OT Asset Management.
 
 |OTAM hardware resource category|Equivalent HAM resource category|
 |-------------------------------|--------------------------------|
@@ -287,9 +287,3 @@ View details of the subscriptions consumed by your organization for the OT Asset
 
 [Asset and Configuration Item \(CI\) synchronization for Operational Technology \(OT\) assets]()
 
-## Related
-
-- [[ot-asset-management|OT Asset Management]]
-- [[model-hierarchy|Model categories]]
-- [[c_ReceiveAConsumableAsset|Consumable assets]]
-- [[ham-landing-page|Hardware Asset Management]]

@@ -15,7 +15,7 @@ breadcrumb: [Configure Event Management using Setup Hub, Configuring Event Manag
 
 # Learn how to deploy Event Management to production
 
-Understand the process and considerations for deploying [[c_EM|Event Management]] configurations from development to production environments using update sets.
+Understand the process and considerations for deploying Event Management configurations from development to production environments using update sets.
 
 Deploying Event Management configurations to production requires careful planning and execution to maintain system stability and performance. Update sets provide a controlled method for moving configurations between environments.
 
@@ -84,6 +84,3 @@ After deployment, monitor your Event Management system to confirm that alerts ar
 
 For detailed guidance on update sets and deployment procedures, refer to the ServiceNow documentation on application deployment and change management processes.
 
-## Related
-
-- [[c_EM|Event Management]]

@@ -14,7 +14,7 @@ breadcrumb: [Explore, Industrial Workspace, Operational Technology]
 
 # Operational Technology Action-Oriented Landing Page
 
-You can use the [[operational-technology-overview|Operational Technology]] \(OT\) Action-Oriented Landing Page to track critical tasks related to your OT network.
+You can use the Operational Technology \(OT\) Action-Oriented Landing Page to track critical tasks related to your OT network.
 
 ## OT Action-Oriented Landing Page overview
 
@@ -22,7 +22,7 @@ The OT Action-Oriented Landing Page helps users, such as OT engineers, view task
 
 The landing page provides a detailed and role-based view of the daily tasks and important actions. Each task in the **Important Action** section shows tasks sorted by their **Opened** date by default. If the task is critical, then it shows up in the **Important Action** section.
 
-To access the OT Action-Oriented Landing Page, navigate to **All** &gt; **[[industrial-workspace-for-operational-technology|Industrial Workspace]]**, select the Home \(\[Omitted image "home-icon.png"\] Alt text: Home icon in the Industrial Workspace.\) icon.
+To access the OT Action-Oriented Landing Page, navigate to **All** &gt; **Industrial Workspace**, select the Home \(\[Omitted image "home-icon.png"\] Alt text: Home icon in the Industrial Workspace.\) icon.
 
 ## Landing page contents
 
@@ -127,7 +127,7 @@ To only show the list of records based on their priority, select the respective 
 
 The OT CMDB Health helps you monitor and maintain the health of your devices in the Configuration Management Database \(CMDB\). You can view the number of your OT devices organized by type.
 
-**Note:** This section is only displayed if you have [[operational-technology-manager|Operational Technology Manager]] installed.
+**Note:** This section is only displayed if you have Operational Technology Manager installed.
 
 The following table describes the tiles in the OT CMDB Health section. To view the OT CMDB Health section, you must have the **cmdb\_ot\_isa\_viewer** role.
 
@@ -163,7 +163,7 @@ Unmapped OT devices
 
 Number of the OT devices in your OT network that aren’t mapped to any equipment model entity for your assigned site.To view the list of unmapped OT device records, select **All records**.
 
-**Note:** This tile is only available when the [[industrial-process-manager-overview|Industrial Process Manager]] is installed and if the signed in user has the cmdb\_ot\_isa\_viewer role. The tile requires that your organization has an equipment model for mapping OT devices to a production process.
+**Note:** This tile is only available when the Industrial Process Manager is installed and if the signed in user has the cmdb\_ot\_isa\_viewer role. The tile requires that your organization has an equipment model for mapping OT devices to a production process.
 
 </td></tr><tr><td>
 
@@ -186,9 +186,3 @@ Number of OT devices in your OT network that aren't assigned an IP address.To vi
 </td></tr></tbody>
 </table>**Parent Topic:**[Exploring the Industrial Workspace](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/operational-technology/industrial-workspace/exploring-industrial-workspace.md)
 
-## Related
-
-- [[operational-technology-overview|Operational Technology]]
-- [[industrial-workspace-for-operational-technology|Industrial Workspace]]
-- [[operational-technology-manager|Operational Technology Manager]]
-- [[industrial-process-manager-overview|Industrial Process Manager]]

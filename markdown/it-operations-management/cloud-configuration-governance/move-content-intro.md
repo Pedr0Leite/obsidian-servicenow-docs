@@ -14,7 +14,7 @@ breadcrumb: [Cloud Provisioning and Governance administration guide, Cloud Provi
 
 # Moving Cloud Provisioning and Governance content across environments
 
-You can move the content in the [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]] application from one environment to the other. For example, develop an application in an environment and then move the application and all its dependencies to another environment for testing or production.
+You can move the content in the Cloud Provisioning and Governance application from one environment to the other. For example, develop an application in an environment and then move the application and all its dependencies to another environment for testing or production.
 
 ## Content entities that can be moved
 
@@ -87,6 +87,3 @@ MID scripts
 
 [Move a cloud API from one environment to the other](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/it-operations-management/cloud-configuration-governance/export-updateset-capi.md)
 
-## Related
-
-- [[cloud-management-v2-landing-page|Cloud Provisioning and Governance]]

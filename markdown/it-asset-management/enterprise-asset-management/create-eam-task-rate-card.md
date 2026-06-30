@@ -14,7 +14,7 @@ breadcrumb: [Configuring asset TCO, Configure, Enterprise Asset Management, IT A
 
 # Create a task rate card in Enterprise Asset Workspace
 
-Create a task rate card to capture costs per task type in the [[using-eam-workspace|Enterprise Asset Workspace]].
+Create a task rate card to capture costs per task type in the Enterprise Asset Workspace.
 
 ## Before you begin
 
@@ -145,6 +145,4 @@ Detailed description of the task rate card.
 
     After a task rate card is created, expense lines are created based on the value in the **Use time worked** field.
 
-## Related
 
-- [[using-eam-workspace|Enterprise Asset Workspace]]

@@ -16,7 +16,7 @@ breadcrumb: [Supported features for custom chat integrations, Conversational cus
 
 Pass custom branding to your custom chat integration.
 
-See [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]] for more information about branding. Use `sn_cs.VASystemObject.getSettings` to apply branding.
+See [Set up your Virtual Agent bot's branding](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/ac-configure-chat-branding.md) for more information about branding. Use `sn_cs.VASystemObject.getSettings` to apply branding.
 
 Example script:
 
@@ -38,6 +38,3 @@ va_sms_twilio_adapter_default_text_outbound_transformer
 
 **Parent Topic:**[Supported Virtual Agent and Agent Chat features for custom chat integrations](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/conversational-interfaces/virtual-agent/va-features-custom-chat-integrations.md)
 
-## Related
-
-- [[ac-configure-chat-branding|Set up your Virtual Agent bot's branding]]

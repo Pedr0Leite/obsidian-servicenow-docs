@@ -14,7 +14,7 @@ breadcrumb: [Audit Management, Governance, Risk, and Compliance]
 
 # Using Audit Management
 
-The scope of [[c_GRCAudits|audit management]] includes automation of the work streams of internal audit teams, optimizing resources and productivity, and eliminating recurring audit findings.
+The scope of audit management includes automation of the work streams of internal audit teams, optimizing resources and productivity, and eliminating recurring audit findings.
 
 The objectives of audit management are to:
 
@@ -23,6 +23,3 @@ The objectives of audit management are to:
 -   Ensure that controls are properly monitored for operating effectiveness
 -   Ensure that control deficiencies are identified and remediated
 
-## Related
-
-- [[c_GRCAudits|Audit Management]]

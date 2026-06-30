@@ -18,7 +18,7 @@ Change the default expiration period for different types of rollback context rec
 
 Because rollback contexts contain a significant amount of data, they're deleted after 10 days by default. The Clean Expired Rollback Contexts scheduled job runs daily to delete expired records in the Rollback Context \[sys\_rollback\_context\] table. If you need to retain a rollback context for more than 10 days, you can do so by adding a system property.
 
-To [[t_AddAPropertyUsingSysPropsList|add a system property]], navigate to the [[r_SetArchiveRuleProcessingBehavior|System Properties]] \[sys\_properties\] table and add a property for the type of rollback context record that you want to preserve. You can determine which property to add for a given rollback context by matching the property name to the Type column on the Rollback Context \[sys\_rollback\_context\] table.
+To add a system property, navigate to the System Properties \[sys\_properties\] table and add a property for the type of rollback context record that you want to preserve. You can determine which property to add for a given rollback context by matching the property name to the Type column on the Rollback Context \[sys\_rollback\_context\] table.
 
 <table id="table_okp_mc3_l1c"><thead><tr><th>
 
@@ -36,7 +36,7 @@ The number of days to retain the rollback context for an app install
 
 </td><td>
 
-By default, you have 15 days to [[rollback-scoped-applications|roll back an application]] installed from the ServiceNow® Store before the rollback context expires. You can extend the expiration period by updating this property.-   Type: integer
+By default, you have 15 days to roll back an application installed from the ServiceNow® Store before the rollback context expires. You can extend the expiration period by updating this property.-   Type: integer
 -   Default value: 15
 
 </td></tr><tr><td>
@@ -113,7 +113,7 @@ The number of days to retain the rollback context for a plugin activation
 
 </td><td>
 
-By default, you have 15 days to roll back plugins activated in [[application-manager|Application Manager]] before the rollback context expires. You can extend the expiration period by updating this property.-   Type: integer
+By default, you have 15 days to roll back plugins activated in Application Manager before the rollback context expires. You can extend the expiration period by updating this property.-   Type: integer
 -   Default value: 15
 
 </td></tr><tr><td>
@@ -178,9 +178,3 @@ The `glide.rollback.stuck_expiration_days` property is valid for all rollback ty
 </td></tr></tbody>
 </table>**Parent Topic:**[Roll back and delete recovery](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/platform-administration/table-administration-and-data-management/rollback-delete-recovery.md)
 
-## Related
-
-- [[t_AddAPropertyUsingSysPropsList|Add a system property]]
-- [[r_SetArchiveRuleProcessingBehavior|System properties]]
-- [[rollback-scoped-applications|Roll back an application]]
-- [[application-manager|Application Manager]]

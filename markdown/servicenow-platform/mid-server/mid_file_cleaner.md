@@ -14,7 +14,7 @@ breadcrumb: [MID Server reference, MID Server, Manage instance data sources, Ext
 
 # MID Server File Cleaner
 
-A monitor thread runs in the [[mid-server-landing|MID Server]] to clean up old files, to keep the size and quantity of files within the install folder manageable, and to prevent performance issues with the MID Servers.
+A monitor thread runs in the MID Server to clean up old files, to keep the size and quantity of files within the install folder manageable, and to prevent performance issues with the MID Servers.
 
 Files and empty folders within the following folders may be deleted by this MID File Cleaner. Files [last accessed](https://docs.oracle.com/javase/7/docs/api/java/nio/file/attribute/BasicFileAttributes.html#lastAccessTime%28%29) more than 30 days ago are deleted.
 
@@ -95,6 +95,3 @@ This can also be manually added to the config.xml file: `<parameter name="mid.fi
 
 [Pause the MID Server]()
 
-## Related
-
-- [[mid-server-landing|MID Server]]

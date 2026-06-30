@@ -14,7 +14,7 @@ breadcrumb: [Configuring Universal Request, Setting up and configuring Universal
 
 # Assign roles to UR users
 
-Roles control access to features, capabilities, and data in the [[ur-landing-limitedaccess|Universal Request]] application.
+Roles control access to features, capabilities, and data in the Universal Request application.
 
 ## Before you begin
 
@@ -39,6 +39,3 @@ You can assign roles to individual users or groups. Apply roles to groups and th
 
 **Parent Topic:**[Configuring Universal Request](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/universal-request-for-hr-service-delivery/configure-ur.md)
 
-## Related
-
-- [[ur-landing-limitedaccess|Universal Request]]

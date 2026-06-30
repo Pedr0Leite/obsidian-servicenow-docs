@@ -43,8 +43,5 @@ Field Service - Signature Pad adds the following script include.
 |--------------|-----------|
 |GeneralWOForm|Creates a PDF of the work order form.|
 
-**Parent Topic:**[[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]
+**Parent Topic:**[Components installed with additional plugins for Field Service Management](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/field-service-management/components-inst-additional-plugin.md)
 
-## Related
-
-- [[components-inst-additional-plugin|Components installed with additional plugins for Field Service Management]]

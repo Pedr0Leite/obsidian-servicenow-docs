@@ -14,7 +14,7 @@ breadcrumb: [Work with journeys in Employee Center, Use, Journey designer, Emplo
 
 # Journey view for an employee
 
-As an employee with journeys in [[jny-dsgnr-landing-page-1|Journey designer]], view your journey overview and tasks associated with that journey in [[employee-center-landing-page|Employee Center]].
+As an employee with journeys in Journey designer, view your journey overview and tasks associated with that journey in Employee Center.
 
 The Journeys page on Employee Center portal provides you with a bird's eye view of all your journeys, your team's journeys, involved journeys, and other information.
 
@@ -29,7 +29,7 @@ Gives you an overview of all the journey details. Use the filters available to l
 
 ## Activity
 
-Use the [[activity-lxp|Activity]] tab to add any journey activity updates in the activity field and post it to keep a tab of the progress in the journey.
+Use the Activity tab to add any journey activity updates in the activity field and post it to keep a tab of the progress in the journey.
 
 ## Attachments
 
@@ -40,8 +40,3 @@ Employees have access to the journeys that are assigned to them.
 
 **Parent Topic:**[Managers, mentors, and employees work with journeys in the Employee Center](https://raw.githubusercontent.com/ServiceNow/ServiceNowDocs/australia/markdown/employee-service-management/journey-designer/jny-working-with-journeys.md)
 
-## Related
-
-- [[jny-dsgnr-landing-page-1|Journey designer]]
-- [[employee-center-landing-page|Employee Center]]
-- [[activity-lxp|Activity]]
